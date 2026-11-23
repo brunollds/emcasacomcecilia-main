@@ -19,7 +19,7 @@
   "metaDescription": "Starlink Black Friday: 50% di sconto sui piani per 3 mesi, kit a noleggio a 0 € e offerta fino al 30 novembre. Controlla il tuo indirizzo e l'invito.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -86,7 +86,15 @@
         "caption": "Il kit a noleggio: antenna, router, base e cavi. Foto di Starlink.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
-      }
+      },
+      "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese con lo sconto di 3 mesi, e la ricompensa dell'invito arriva solo dopo due cicli mensili completi.",
+      "links": [
+        {
+          "label": "Vedi i piani al tuo indirizzo",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Come compare nell'ordine",
@@ -130,6 +138,7 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Starlink ha un codice sconto? No. Starlink non ha un coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
         "Starlink ha un'offerta per il Black Friday? In Italia l'ordine mostrava il 50% di sconto sui piani Residenziale e Viaggio per 3 mesi, con iscrizione entro il 30 novembre, nelle aree selezionate.",
         "L'invito si somma all'offerta? Controlla nell'ordine per il tuo indirizzo se compaiono entrambi. La ricompensa dell'invito dipende dall'idoneità e da due cicli mensili completi, e il valore si vede nel tuo account.",
         "Quanto si paga nell'ordine? A Milano, il totale da pagare oggi era di 19 €, con il kit a noleggio a 0 €.",
@@ -158,5 +167,15 @@
     {
       "slug": "starlink-contratto-disdetta"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "l'ordine per il tuo indirizzo mostra l'offerta sul piano e le condizioni del kit prima di pagare.",
+      "puoi aspettare due cicli mensili completi per la ricompensa e pagare le mensilità nel frattempo."
+    ],
+    "skipIf": [
+      "il tuo ordine non mostra l'offerta, perché i prezzi letti valgono per un solo indirizzo.",
+      "potresti uscire presto e non vuoi rischiare la restituzione del kit né la perdita del prezzo promozionale."
+    ]
+  }
 }

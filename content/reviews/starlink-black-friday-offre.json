@@ -19,7 +19,7 @@
   "metaDescription": "Starlink Black Friday : 30 % sur les forfaits et kit loué à 0 €, en zones sélectionnées. Voyez le calcul avec le parrainage et vérifiez votre adresse.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -68,7 +68,15 @@
           ]
         ],
         "caption": "Prix de la commande officielle avec l'offre de 30 %, sans lien de parrainage. Le prix peut changer selon l'adresse."
-      }
+      },
+      "emphasis": "D'après les chiffres du tableau, la commande à Paris demande 19 € le jour même, puis entre 24,50 € et 45,50 € par mois selon le forfait, et la récompense du parrainage n'arrive qu'après deux cycles mensuels complets.",
+      "links": [
+        {
+          "label": "Voir les forfaits à votre adresse",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Quand la récompense du parrainage entre dans le calcul",
@@ -117,6 +125,7 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d'abonnement, en crédit sur la facture, et le parrain reçoit le même montant.",
         "Starlink fait-il le Black Friday ? L'offre de fin novembre donne 30 % sur les forfaits, avec un kit loué à 0 €, dans certaines zones.",
         "Le parrainage se cumule-t-il avec l'offre ? Ce sont deux mécanismes distincts. La récompense dépend de l'éligibilité et de deux cycles mensuels complets. Vérifiez sur votre commande que les deux apparaissent.",
         "Combien paie-t-on le jour de la commande ? Le total à payer lu pour une adresse à Paris était de 19 €, le kit étant loué à 0 €.",
@@ -145,5 +154,15 @@
     {
       "slug": "starlink-engagement-resilier"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "la commande à votre adresse affiche l'offre sur le forfait et les conditions du kit avant le paiement.",
+      "vous pouvez attendre deux cycles mensuels complets pour la récompense et payer les mensualités entre-temps."
+    ],
+    "skipIf": [
+      "votre commande n'affiche pas l'offre, car les prix lus valent pour une seule adresse.",
+      "vous risquez de partir vite et ne voulez pas risquer le retour du kit ni la perte du prix promotionnel."
+    ]
+  }
 }

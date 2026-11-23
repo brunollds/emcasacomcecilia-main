@@ -19,7 +19,7 @@
   "metaDescription": "Lohnt sich Starlink? Die Kosten der ersten Monate mit Kit-Miete, Preise nach Adresse, für wen es passt und wann Glasfaser oder Mobilfunk besser sind.",
   "publishedAt": "20. November 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -71,6 +71,13 @@
       "postParagraphs": [
         "Die professionelle Montage ist bei 100 und 200 Mbit/s optional und kostete 172 €, beim Max 0 €. Den Preis nach den 3 Aktionsmonaten haben wir nicht erfasst, deshalb rechnen wir kein volles Jahr aus. Prüfen Sie ihn in Ihrer Bestellung, bevor Sie bezahlen.",
         "Rechnen Sie an Ihrer Adresse zuerst ohne die Prämie. Bei unserer Empfehlung zeigt die Bestellung die Prämie, die nach den Regeln des Programms gutgeschrieben wird. Mehr auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink)."
+      ],
+      "links": [
+        {
+          "label": "Tarife für Ihre Adresse ansehen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -96,7 +103,9 @@
       "heading": "Wann Sie Glasfaser oder Mobilfunk vergleichen sollten",
       "paragraphs": [
         "Wenn schon stabile Glasfaser ankommt, vergleichen Sie die Summe aus Einrichtung, Monatspreisen und einer möglichen Mindestlaufzeit jedes Angebots. Rechnen Sie beim Mobilfunk das Gerät ein, das Sie brauchen, und prüfen Sie, ob das Datenvolumen für den Haushalt reicht."
-      ]
+      ],
+      "emphasis": "Ohne stabile Glasfaser und ohne brauchbares Mobilfunknetz an der Adresse kommt Starlink in die engere Wahl; bei stabiler Glasfaser lohnt der Wechsel nur, wenn die Summe aus Kit, Einrichtung und Monatspreisen für die geplante Laufzeit unter den Kosten des bisherigen Anschlusses bleibt.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Geschwindigkeit und Spiele",
@@ -124,14 +133,9 @@
       ]
     },
     {
-      "heading": "Unsere Erfahrung bisher",
-      "paragraphs": [
-        "Wir haben Starlink abonniert, aber noch keine Nutzungserfahrung. Geschwindigkeit, Installation und Alltag fließen in eine Aktualisierung dieses Artikels ein, sobald es sie gibt."
-      ]
-    },
-    {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Hat Starlink einen Rabattgutschein? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
         "Lohnt sich Starlink in der Stadt? Bei stabiler Glasfaser an der Adresse vergleichen Sie Einrichtung, Monatspreise und Laufzeit, bevor Sie wechseln.",
         "Ist Starlink besser als Glasfaser? Ohne gute Glasfaser vor Ort lohnt es sich, Starlink für die Adresse zu prüfen, samt freier Sicht zum Himmel. Sind beide verfügbar, vergleichen Sie Stabilität und Kosten an Ihrer Adresse.",
         "Ist Starlink gut zum Spielen? Testen Sie Reaktionszeit und Unterbrechungen an Ihrer Adresse. Die typische Spanne, die Starlink nennt, ist ein allgemeiner Richtwert.",
@@ -142,11 +146,11 @@
   ],
   "decision": {
     "takeIf": [
-      "An Ihrer Adresse kommt keine brauchbare Glasfaser an, und auch das Mobilfunknetz ist schwach.",
+      "an Ihrer Adresse kommt keine brauchbare Glasfaser an, und auch das Mobilfunknetz ist schwach.",
       "Sie wollen das Kit mieten und prüfen vor dem Bezahlen, welcher Preis nach den Aktionsmonaten gilt."
     ],
     "skipIf": [
-      "Bei Ihnen liegt bereits ein stabiler Glasfaseranschluss, und Sie brauchen kein Kit.",
+      "bei Ihnen liegt bereits ein stabiler Glasfaseranschluss, und Sie brauchen kein Kit.",
       "Sie spielen online mit sehr kurzer Reaktionszeit, und Starlink nennt dafür nur eine typische Spanne, keine Messung an Ihrer Adresse."
     ]
   },
@@ -159,7 +163,7 @@
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Preise von der Bestellseite der offiziellen Website gelesen, ohne den Kauf abzuschließen. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+  "editorialNote": "Preise von der Bestellseite der offiziellen Website gelesen, ohne den Kauf abzuschließen. Wir haben den Dienst noch nicht genutzt. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
   "relatedArticles": [
     {
       "slug": "starlink-vertrag-kuendigen"

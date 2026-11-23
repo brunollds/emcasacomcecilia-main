@@ -19,7 +19,7 @@
   "metaDescription": "How to cancel Proton VPN and ask for a refund: the 30-day window, the conditions that sink a request and how to avoid the renewal charge.",
   "publishedAt": "November 17, 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -142,7 +142,8 @@
         "The renewal follows the billing cycle shown in the offer and receipt, which may differ from the initial term. The terms say you are charged \"the then-current price valid at the time of the renewal\", and a promotional price only covers the first period. On Proton's partner page in US dollars, the 2-year VPN Plus plan was billed at $59.76 for the first 24 months and then renewed at $83.88 every 12 months. Prices change with country and currency.",
         "For VPN Plus, to stop the renewal, the terms ask you to cancel before the renewal date. There is no need to wait until the day before. Because the paid plan runs until the end of the period already charged, you can cancel right after subscribing and still use everything you paid for.",
         "Put the next billing date in your calendar, a few days early. If you subscribed through a phone app store, check the date in the store's subscriptions."
-      ]
+      ],
+      "emphasis": "Under Proton's terms, the 30-day refund covers only the initial purchase made directly with Proton, and a renewal falls outside the rule; to avoid being charged again, the cancellation must be done before the billing date, with Proton or in the phone store that billed the subscription."
     },
     {
       "heading": "Switching plans instead of leaving",
@@ -160,6 +161,7 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "Does Proton have a discount coupon? There is no coupon: the Black Friday discount, up to 75% off, opens through Cecília's links, and the price appears on Proton's website in your country's currency, with the renewal price next to it.",
         "Does Proton VPN give your money back? For direct purchases from Proton, the terms provide a full refund if you cancel and request it within 30 days of the initial purchase, once per user and subject to payment restrictions. For Google Play and App Store purchases, follow the route in the app-store section above.",
         "How do I cancel Proton VPN? On the website, sign in, open Subscription, go to Cancel subscription and follow the steps until you submit the reason. If you subscribed through Google Play or the App Store, cancel in the store's subscriptions.",
         "I cancelled and was still charged, what do I do? First check who billed you. A subscription bought through a phone app store is cancelled in the store. If the charge came from Proton after a completed cancellation, write to support with the dates and the receipt.",
@@ -173,6 +175,16 @@
   ],
   "pros": [],
   "cons": [],
+  "decision": {
+    "takeIf": [
+      "you subscribed directly with Proton and are still within 30 days of the initial purchase.",
+      "you want to stop the renewal and, if eligible, ask Proton support for a full refund."
+    ],
+    "skipIf": [
+      "you subscribed through the App Store or Google Play: cancellation happens in the store and the refund follows a different route.",
+      "you paid in cash or by bank transfer, or already asked for a refund before: the terms do not cover those cases."
+    ]
+  },
   "cta": {
     "text": "If you are still considering a subscription, open Proton's offer through our link and check the total and renewal. For an existing cancellation or refund request, use the relevant support route in this guide.",
     "label": "Get up to 75% off via the link",

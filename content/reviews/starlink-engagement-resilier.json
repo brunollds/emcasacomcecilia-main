@@ -19,7 +19,7 @@
   "metaDescription": "Starlink : kit loué à renvoyer en cas d'annulation, remboursement du kit et du premier mois sous 30 jours, et comment résilier depuis votre compte.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -54,7 +54,8 @@
         "caption": "Le matériel à renvoyer : antenne, routeur, support et câbles. Photo Starlink.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
-      }
+      },
+      "emphasis": "D'après les conditions de la commande, annuler et renvoyer le kit en bon état dans les 30 jours est ce qui ouvre le remboursement du kit et du premier mois, et la preuve d'expédition fait foi."
     },
     {
       "heading": "Comment résilier",
@@ -90,6 +91,7 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d'abonnement, en crédit sur la facture, et le parrain reçoit le même montant.",
         "Starlink a-t-il un engagement ? Sur la commande lue pour une adresse à Paris, nous n'avons relevé aucune durée d'engagement. Vérifiez le récapitulatif de votre commande avant de payer.",
         "Faut-il renvoyer le matériel Starlink ? Oui. Le kit est loué, et la commande demande de le retourner si vous annulez le service.",
         "Peut-on annuler Starlink à tout moment ? La demande se fait depuis le compte. Pour éviter un nouveau cycle, faites-la avant 00 h 00 UTC le jour de facturation.",
@@ -112,5 +114,21 @@
     {
       "slug": "starlink-trustpilot-avis"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "vous pouvez renvoyer le kit loué en bon état dans les 30 jours si vous annulez.",
+      "vous lirez les conditions sur le récapitulatif de votre propre commande avant de payer."
+    ],
+    "skipIf": [
+      "vous ne pouvez pas renvoyer le kit en bon état dans le délai.",
+      "le récapitulatif de votre commande affiche un engagement ou des frais de résiliation que vous refusez."
+    ]
+  },
+  "cta": {
+    "text": "La commande s'ouvre sur le site de Starlink. Vérifiez l'engagement, les frais et le retour du kit avant de payer.",
+    "label": "Consulter les conditions à mon adresse",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

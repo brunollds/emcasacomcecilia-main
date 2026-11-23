@@ -19,7 +19,7 @@
   "metaDescription": "Proton VPN 安全吗？看公司是谁、审计检查了什么、免费套餐能不能信任，以及 VPN 无法防范哪些风险。",
   "publishedAt": "2026年11月17日",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -128,11 +128,13 @@
       "paragraphs": [
         "Proton 的价格页面列出 Visa、Mastercard 和 American Express 银行卡以及 PayPal。订阅会自动续订，按续订当天的价格收费。",
         "按条款，只要在首次购买后 30 天内取消并申请退款，就会全额退款，每位用户限一次，且仅适用于直接向 Proton 购买的订阅。详细步骤请见[如何取消 Proton VPN 并申请退款](/zh-hans/reviews/proton-vpn-refund-zh-hans)。"
-      ]
+      ],
+      "emphasis": "依 Proton 与 2026 年 Securitum 审计所述，无日志政策已由第三方审查，但 30 天退款保证只适用于直接向 Proton 订阅的情况，续订则按当时的价格扣款。"
     },
     {
       "heading": "常见问题",
       "bullets": [
+        "Proton 有优惠码吗？ 没有优惠码：最高 75% 折扣的黑色星期五优惠，通过 Cecília 的链接开启，价格会以你所在国家的货币显示在 Proton 网站上，旁边并列续订价格。",
         "Proton VPN 安全吗？运营公司身份明确、应用代码公开，以及 Securitum 对无日志政策的年度审计和公开报告，都是可核实的正面依据。这些不保证匿名或防住所有骗局。",
         "免费的 Proton VPN 可以信任吗？按 Proton 的说法，免费套餐不记录活动日志，没有广告，也没有流量限制，并由付费用户出资支撑。局限是只能连 1 台设备，国家也较少。",
         "Proton VPN 是病毒吗？不是。官方应用在 Google Play 和 App Store 上架，开发者是 Proton AG。风险出在第三方安装包和修改过的版本。",
@@ -146,6 +148,16 @@
   ],
   "pros": [],
   "cons": [],
+  "decision": {
+    "takeIf": [
+      "你想要运营公司公开、应用代码开源，且依 Proton 与 Securitum 所述日志政策经外部审计的 VPN。",
+      "你明白 VPN 只是改变谁看得到你的流量，并不保证匿名。"
+    ],
+    "skipIf": [
+      "你期待完全匿名，或期待防范诈骗：VPN 两者都做不到。",
+      "你需要保证回复的客服：Proton 的官方渠道是支持表单。"
+    ]
+  },
   "cta": {
     "text": "如果你需要 Proton VPN 的付费功能，请通过我们的链接打开优惠，确认首次付款总额和续订费用。相关黑色星期五指南比较了价格。",
     "label": "通过链接领取最高 75% 折扣",

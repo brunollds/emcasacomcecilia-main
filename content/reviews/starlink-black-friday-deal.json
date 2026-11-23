@@ -19,7 +19,7 @@
   "metaDescription": "In Reno, Starlink showed 30% off service, a $0 rental kit and plans from $38.50 a month. See what the order costs and check your own address.",
   "publishedAt": "November 20, 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -75,6 +75,14 @@
       },
       "postParagraphs": [
         "To get the reward, the referral has to be eligible and the service has to stay active and paid up for two full monthly cycles. Starlink offers credit on the invoice and, depending on the account, payment in cash."
+      ],
+      "emphasis": "By the numbers in the table, the order showed $21.65 due today and plans from $38.50 a month, and the $100 referral reward only lands after two full monthly cycles, so the first bills come out of pocket.",
+      "links": [
+        {
+          "label": "See plans at your address",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -126,6 +134,7 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "Does Starlink have a discount code? No. Starlink has no coupon: through Cecília's referral link, a new subscriber gets $100 in the US and £40 in the UK after two months of service, as a credit on the bill, and the person who referred gets the same amount.",
         "Does Starlink have a Black Friday deal? The order page we read shows 30% off service plans in select areas for those who sign up before the end of the month, with a $0 rental kit.",
         "Does the referral stack with the offer? The plan offer and the referral are separate lines on the order. The Nevada order with our link showed the $100 referral next to a total due of $20 plus taxes. The reward depends on eligibility and two full monthly cycles.",
         "How much do you pay when you order? The Reno order page showed $21.65 due today. The first monthly bill follows after that.",
@@ -154,5 +163,15 @@
     }
   ],
   "pros": [],
-  "cons": []
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "the order for your address shows the plan offer and the kit terms before you pay.",
+      "you can wait two full monthly cycles for the referral reward and pay the bills in between."
+    ],
+    "skipIf": [
+      "your order page does not show the offer, since the prices we read are for one city.",
+      "you may leave soon and cannot risk returning the kit or losing the promotional price."
+    ]
+  }
 }

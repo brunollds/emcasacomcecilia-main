@@ -16,10 +16,10 @@
     "url": "/sobre"
   },
   "description": "Veja a nota, quantas pessoas avaliaram o atendimento e quais queixas aparecem no perfil verificado Starlink Brazil. Saiba como registrar a sua reclamação.",
-  "metaDescription": "Starlink no Reclame Aqui: nota 7,8 e reputação Boa no perfil verificado Starlink Brazil. Veja as queixas mais frequentes e como reclamar.",
+  "metaDescription": "Starlink no Reclame Aqui: nota 7,8 e reputação Boa no perfil verificado Starlink Brazil. Veja as janelas de 6 e 12 meses e as queixas mais frequentes.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "bodyDatesReason": "reclame-aqui",
@@ -31,60 +31,79 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O perfil verificado Starlink Brazil teve reputação Boa, com nota 7,8 de maio a outubro de 2026. Das 2.019 reclamações registradas, todas tiveram resposta. A plataforma contabilizou 853 avaliações e mostrou que 77% das queixas avaliadas foram resolvidas. Para consultar a operadora, procure o perfil que aponta para starlink.com."
+        "O perfil verificado Starlink Brazil tem reputação Boa e nota 7,8 no Reclame Aqui nos últimos seis meses, depois de quatro meses em Ótima. Todas as 2.017 reclamações recebidas foram respondidas, e 77,1% das 860 avaliadas foram resolvidas. A nota 7,8 é da plataforma; a média dos consumidores é 6,73."
       ]
     },
     {
       "heading": "A nota e a queda",
       "paragraphs": [
-        "A reputação mensal foi Ótima de maio a agosto e Boa em setembro e outubro. O perfil mostra a mudança de faixa, sem apontar sua causa."
+        "A reputação mensal foi Ótima de maio a agosto de 2026 e Boa em setembro e outubro. O perfil mostra a mudança de faixa, sem apontar sua causa. A tabela compara as três janelas do perfil."
       ],
       "comparisonTable": {
         "headers": [
           "Indicador",
-          "Starlink Brazil"
+          "6 meses",
+          "12 meses",
+          "Geral"
         ],
         "rows": [
           [
             "Reputação e nota do perfil",
-            "Boa, 7,8 de 10"
+            "Boa, 7,8 de 10",
+            "Ótima, 8,0 de 10",
+            "Boa, 7,6 de 10"
           ],
           [
             "Reclamações recebidas",
-            "2.019"
+            "2.017",
+            "3.501",
+            "7.351"
           ],
           [
             "Respondidas",
-            "100%"
+            "100%",
+            "100%",
+            "97,9% (147 aguardando)"
           ],
           [
             "Tempo médio de resposta",
-            "5 dias e 19 horas"
+            "5 dias e 19 horas",
+            "4 dias e 12 horas",
+            "4 dias e 18 horas"
           ],
           [
-            "Reclamações avaliadas",
-            "853"
+            "Reclamações avaliadas (do total)",
+            "860 de 2.017",
+            "1.639 de 3.501",
+            "3.173 de 7.351"
+          ],
+          [
+            "Resolvidas (das avaliadas)",
+            "77,1%",
+            "79,5%",
+            "75,5%"
+          ],
+          [
+            "Voltariam a fazer negócio (das avaliadas)",
+            "75%",
+            "76,4%",
+            "72,7%"
           ],
           [
             "Nota média do consumidor",
-            "6,74 de 10"
-          ],
-          [
-            "Resolvidas",
-            "77%"
-          ],
-          [
-            "Voltariam a fazer negócio",
-            "74,9%"
+            "6,73 de 10",
+            "6,95 de 10",
+            "6,57 de 10"
           ]
         ],
-        "caption": "Leitura do perfil verificado, no semestre de maio a outubro."
+        "caption": "Perfil verificado Starlink Brazil, lido em 23/11/2026. 6 meses: 01/05 a 31/10/2026. 12 meses: 01/11/2025 a 31/10/2026. Geral: 24/11/2023 a 23/11/2026."
       }
     },
     {
       "heading": "Como a empresa responde",
       "paragraphs": [
-        "O Reclame Aqui calcula os índices de solução e de intenção de voltar a comprar a partir das reclamações avaliadas. A nota 7,8 é a reputação que a plataforma calcula para o perfil. A nota 6,74 é a média dada pelos consumidores que avaliaram."
+        "O Reclame Aqui calcula os índices de solução e de intenção de voltar a comprar só a partir das reclamações avaliadas: 860 das 2.017 recebidas nos seis meses. Por isso esses percentuais não valem para todos os clientes.",
+        "A nota 7,8 é a reputação que a plataforma calcula para o perfil. A nota 6,73 é a média dada pelos consumidores que avaliaram. Nos seis meses, o perfil respondeu a todas as reclamações, com tempo médio de 5 dias e 19 horas; na aba Geral, 147 reclamações aguardam resposta."
       ]
     },
     {
@@ -114,13 +133,6 @@
       }
     },
     {
-      "heading": "Antes de assinar",
-      "paragraphs": [
-        "Antes de assinar, confira o site e o contrato. Como reconhecer o site oficial e os perfis que usam o nome está em [a Starlink é confiável?](/reviews/starlink-e-confiavel).",
-        "Se for assinar, a página da [indicação Starlink](/cupons/starlink) tem o link e as regras do programa."
-      ]
-    },
-    {
       "heading": "Como reclamar",
       "paragraphs": [
         "Abra um atendimento no site ou no aplicativo da Starlink e guarde o protocolo. Se a cobrança divergir do pedido, envie o valor que apareceu na oferta e a fatura. Se precisar registrar uma queixa, procure o perfil verificado Starlink Brazil no Reclame Aqui."
@@ -137,9 +149,18 @@
       ]
     },
     {
+      "heading": "Antes de assinar",
+      "paragraphs": [
+        "Antes de assinar, confira o site e o contrato. Como reconhecer o site oficial e os perfis que usam o nome está em [a Starlink é confiável?](/reviews/starlink-e-confiavel).",
+        "A página da [indicação Starlink](/cupons/starlink) tem o link e as regras do programa. A indicação não é cupom: a recompensa cai como crédito na fatura depois de dois meses de assinatura, e os planos Prioritário, Enterprise e Comercial não ganham."
+      ],
+      "emphasis": "Pelos números da tabela, para quem depende da Starlink no endereço, a escolha é assinar depois de conferir plano, kit e contrato no pedido, porque a nota 7,8 mede o atendimento às reclamações no Reclame Aqui, e não a qualidade do sinal."
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é a nota da Starlink no Reclame Aqui? O perfil verificado Starlink Brazil teve nota 7,8 e reputação Boa no semestre consultado. A média dada pelos consumidores foi 6,74.",
+        "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
+        "Qual é a nota da Starlink no Reclame Aqui? O perfil verificado Starlink Brazil tem nota 7,8 e reputação Boa nos últimos seis meses; em 12 meses são 8,0 e Ótima. A média dada pelos consumidores nos seis meses é 6,73.",
         "Qual perfil da Starlink devo consultar? Procure o perfil verificado “Starlink Brazil”, que aponta para starlink.com.",
         "Como reclamar da Starlink? Abra um atendimento pelo site ou pelo aplicativo e guarde o protocolo. Se o problema continuar, registre a queixa no perfil verificado no Reclame Aqui."
       ]
@@ -159,5 +180,21 @@
     {
       "slug": "starlink-vale-a-pena"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "você já escolheu a Starlink e quer saber como a operadora responde a quem reclama no Reclame Aqui.",
+      "você vai guardar a oferta do pedido e conferir a fatura todo mês."
+    ],
+    "skipIf": [
+      "você espera que a nota diga se o sinal é bom: ela mede o atendimento às reclamações, não a internet.",
+      "você só olha a nota geral e ignora que a reputação caiu de Ótima para Boa em setembro."
+    ]
+  },
+  "cta": {
+    "text": "Informe seu endereço no site da Starlink e confira plano, kit e mensalidade antes de pagar.",
+    "label": "Ver planos no meu endereço",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

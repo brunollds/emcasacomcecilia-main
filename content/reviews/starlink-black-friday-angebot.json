@@ -19,7 +19,7 @@
   "metaDescription": "Starlink Black Friday: 50 % auf Privathaushalt und Reise für 3 Monate, Kit zur Miete für 0 €. Die Rechnung für Berlin und die Empfehlungsprämie.",
   "publishedAt": "20. November 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -77,6 +77,14 @@
       },
       "postParagraphs": [
         "Beim Max zeigte die Seite die professionelle Montage mit 0 €. Die Prämie braucht eine berechtigte Empfehlung, und Starlink zahlt sie als Servicegutschrift oder, wo das Konto es anbietet, als Auszahlung."
+      ],
+      "emphasis": "Nach den Zahlen der Tabelle zahlt, wer in Berlin bestellt, 19 € am Bestelltag und danach 17,50 € bis 37,50 € im Monat, und die Prämie wird erst nach zwei vollen Monatszyklen gutgeschrieben, sodass die ersten Rechnungen aus eigener Tasche kommen.",
+      "links": [
+        {
+          "label": "Tarife für Ihre Adresse ansehen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -128,6 +136,7 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Hat Starlink einen Rabattcode? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
         "Gibt es bei Starlink einen Black Friday? Die Bestellseite für Berlin zeigte 50 % Rabatt auf die Tarife Privathaushalt und Reise für 3 Monate, mit Kit zur Miete für 0 €.",
         "Lässt sich die Empfehlung mit dem Angebot kombinieren? Prüfen Sie in der Bestellung für Ihre Adresse, ob beide erscheinen. Die Prämie hängt von der Berechtigung und von zwei vollen Monatszyklen ab.",
         "Wie viel wird bei der Bestellung berechnet? Die Bestellseite für Berlin zeigte 19 € als Betrag für den Bestelltag.",
@@ -156,5 +165,15 @@
     }
   ],
   "pros": [],
-  "cons": []
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "die Bestellung für Ihre Adresse das Angebot und die Kit-Bedingungen vor der Zahlung zeigt.",
+      "Sie zwei volle Monatszyklen auf die Prämie warten und die Rechnungen in der Zwischenzeit zahlen können."
+    ],
+    "skipIf": [
+      "Ihre Bestellung das Angebot nicht zeigt, denn die gelesenen Preise gelten für eine einzige Adresse.",
+      "Sie bald wieder kündigen könnten und weder die Rückgabe des Kits noch den Verlust des Aktionspreises riskieren wollen."
+    ]
+  }
 }

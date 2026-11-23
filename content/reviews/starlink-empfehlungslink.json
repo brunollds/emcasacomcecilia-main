@@ -19,7 +19,7 @@
   "metaDescription": "So öffnen Sie den Starlink-Empfehlungslink, finden den Betrag in der Bestellung und erhalten die Prämie, sobald die Bedingungen des Programms erfüllt sind.",
   "publishedAt": "20. November 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -62,7 +62,9 @@
         "Der Betrag hängt vom Land ab, in dem Sie sich anmelden, und steht in Ihrer Bestellung. Wer empfiehlt, erhält denselben Betrag, als Geld oder als Servicegutschrift.",
         "Das Abonnement muss zwei volle Monatszyklen aktiv und bezahlt bleiben. Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, je nach Land, Konto und Identitätsprüfung.",
         "Standard ist die Gutschrift auf der Rechnung. Bietet Ihr Konto eine Auszahlung in Geld an, öffnen Sie die Empfehlungen im Browser, wählen die Auszahlungsmethode und schließen Identifikation und Bankangaben bei Stripe ab."
-      ]
+      ],
+      "emphasis": "Die Prämie wird erst nach zwei vollen Monatszyklen mit aktivem, bezahltem Abonnement ausgezahlt, standardmäßig als Gutschrift auf der Rechnung, und wer abonniert und wer empfiehlt erhalten denselben Betrag; den Betrag für Ihr Land zeigt die Bestellung.",
+      "emphasisAfterParagraph": 3
     },
     {
       "heading": "Wer teilnehmen kann",
@@ -94,6 +96,7 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Hat Starlink einen Rabattgutschein? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
         "Wie funktioniert die Starlink-Empfehlung? Bestellen Sie auf starlink.com über den Link, prüfen Sie die angewendete Empfehlung, aktivieren Sie das Kit und halten Sie den Dienst zwei volle Monatszyklen aktiv und bezahlt.",
         "Wie viel bringt die Starlink-Empfehlung? Der Betrag hängt vom Land ab, in dem Sie sich anmelden, und steht in Ihrer Bestellung. Wer empfiehlt, erhält denselben Betrag.",
         "Wann kommt die Starlink-Prämie? Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, wenn die Empfehlung die Bedingungen des Programms erfüllt.",
@@ -123,5 +126,15 @@
     }
   ],
   "pros": [],
-  "cons": []
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Sie ohnehin Starlink abonnieren wollen und die Empfehlung in der ursprünglichen Bestellung haben möchten.",
+      "Sie Neukunde sind und den Dienst zwei volle Monatszyklen aktiv und bezahlt halten können, bis die Prämie ausgezahlt wird."
+    ],
+    "skipIf": [
+      "Sie Starlink-Kunde sind oder waren, denn die Prämie gilt nur für Erstabonnenten.",
+      "Sie bei einem Händler oder auf einem Marktplatz kaufen, denn die Empfehlung zählt nur bei Bestellungen auf starlink.com über den Link."
+    ]
+  }
 }

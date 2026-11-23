@@ -16,10 +16,10 @@
     "url": "/sobre"
   },
   "description": "看 Starlink 在 Trustpilot 的評分、評價數與星等分布，以及最常見的抱怨。附上怎麼辨認官方檔案與提出投訴。",
-  "metaDescription": "Starlink 在 Trustpilot 的 TrustScore 為 1.6，共 871 則評價。看星等分布、最常見的抱怨與怎麼投訴。",
+  "metaDescription": "Starlink 在 Trustpilot 的 TrustScore 為 1.6，共 879 則評論，檔案尚未認領。整理近期一星與五星評論的內容。",
   "publishedAt": "2026年11月20日",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -31,82 +31,112 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Starlink 在 Trustpilot 的 TrustScore 是 1.6，共有 871 則評價，其中 71% 是一星。這個檔案尚未被公司認領，Trustpilot 也註明公司沒有邀請客戶留評價，所以數字不一定代表全體客戶。查詢時請認準網域為 starlink.com 的檔案。"
+        "starlink.com 在 Trustpilot 的檔案 Starlink Development，TrustScore 為 5 分滿分的 1.6，共 879 則評論，其中 71% 是一星。這個檔案尚未被公司認領：沒有付費方案、不寄送評論邀請，464 則負面評論也沒有任何一則回覆。評論來自許多國家的用戶。"
       ]
     },
     {
       "heading": "評分與星等分布",
       "paragraphs": [
-        "我們在 2026 年 11 月 20 日讀取了網域為 starlink.com 的檔案，類別為網路服務供應商。"
+        "我們在 2026 年 11 月 23 日讀取了 Starlink Development 的公開檔案。"
       ],
       "comparisonTable": {
         "headers": [
           "指標",
-          "Trustpilot 檔案"
+          "Trustpilot 上的 starlink.com"
         ],
         "rows": [
           [
             "TrustScore",
-            "1.6，等級為「Bad」"
+            "5 分滿分的 1.6"
           ],
           [
-            "評價總數",
-            "871"
+            "評論數",
+            "879"
           ],
           [
-            "一星",
-            "71%"
+            "5 星",
+            "148 則（17%）"
           ],
           [
-            "二星",
-            "7%"
+            "4 星",
+            "19 則（2%）"
           ],
           [
-            "三星",
-            "3%"
+            "3 星",
+            "24 則（3%）"
           ],
           [
-            "四星",
-            "2%"
+            "2 星",
+            "61 則（7%）"
           ],
           [
-            "五星",
-            "17%"
+            "1 星",
+            "627 則（71%）"
+          ],
+          [
+            "檔案狀態",
+            "未認領，無付費方案"
+          ],
+          [
+            "評論來源",
+            "自然產生，沒有邀請用戶"
+          ],
+          [
+            "對負面評論的回覆",
+            "0%（464 則中沒有一則）"
           ]
         ],
-        "caption": "讀取自網域為 starlink.com 的 Trustpilot 檔案。"
-      },
-      "links": [
-        {
-          "label": "Trustpilot 上的 Starlink 檔案",
-          "href": "https://www.trustpilot.com/review/starlink.com"
-        }
+        "caption": "Trustpilot，starlink.com 檔案，2026 年 11 月 23 日讀取。"
+      }
+    },
+    {
+      "heading": "為什麼未認領的檔案分數偏低",
+      "paragraphs": [
+        "這個檔案未被認領，所以公司沒有 Trustpilot 的付費方案，也不會在購買後邀請用戶留評論。會邀請用戶的品牌，往往累積許多滿意買家留下的簡短五星評論。這裡沒有任何機制過濾來源：會走到這個檔案的人多半遇到了問題，而且評論都是自然產生的。",
+        "因此 1.6 比較像是「去找地方抱怨的用戶」的樣貌，而不是所有 Starlink 用戶的平均。但它仍有分量：公司不在 Trustpilot 上回覆，464 則負面評論沒有任何回覆，這個平台對它來說不是客服管道。"
       ]
     },
     {
-      "heading": "怎麼讀這些數字",
+      "heading": "一星評論在說什麼",
       "paragraphs": [
-        "檔案尚未被認領，Trustpilot 並註明公司沒有邀請客戶留評價。Trustpilot 提醒，這種情況下的評價不一定具代表性。",
-        "評分只是某一時點的紀錄，也不是服務品質的測量。它可以當作提醒，但不能取代你在訂購頁讀到的條件。"
+        "我們直接閱讀了最近 40 則一星評論，發布於 2026 年 10 月 23 日至 11 月 23 日，來自 16 個國家（其中 21 則來自美國）。這是我們對該樣本的自行閱讀。一則評論可能同時涉及多個主題，比例為概略值："
+      ],
+      "bullets": [
+        "客服：只有機器人或自動聊天，找不到真人（約三分之一）。",
+        "連線中斷，速度低於預期（約三分之一）。",
+        "訂閱後月費調漲，有時一年不只一次（約四分之一）。",
+        "為已不使用的服務扣款，退款與取消都不容易（約四分之一）。",
+        "合作安裝商沒有出現或延誤（約四分之一）。",
+        "套件延遲送達或始終沒收到（約五分之一）。"
+      ]
+    },
+    {
+      "heading": "五星評論在說什麼",
+      "paragraphs": [
+        "我們也閱讀了最近 40 則五星評論，發布於 2025 年 12 月 10 日至 2026 年 11 月 17 日，來自 15 個國家（包括德國、英國與美國）。方法與但書相同："
+      ],
+      "bullets": [
+        "速度與穩定的連線（約一半）。",
+        "安裝簡單，幾乎隨插即用（約三分之一）。",
+        "住在沒有其他好網路選擇的地方（約四分之一）。",
+        "搭配 Mini 與 Roam 方案旅行使用（數則）。",
+        "客服解決了問題，例如更換天線（少數）。"
+      ],
+      "postParagraphs": [
+        "在這個樣本中，稱讚談的是訊號，抱怨談的是客服、價格與帳單。很少有一星評論說訊號一直很差。Trustpilot 針對 355 則近期評論的自動摘要方向一致（多數用戶失望、客服聯絡不上、月費上漲與額外費用），我們只把它當作輔助依據引用。"
       ]
     },
     {
       "heading": "如何辨認公司的檔案",
       "paragraphs": [
-        "請看網域是 starlink.com 的那一個。同一頁還有「Uk Starlink」（ukstarlink.com）和「Starlink」（starlink.om）兩個檔案，它們的網域不是 starlink.com。"
-      ]
-    },
-    {
-      "heading": "最常見的抱怨",
-      "paragraphs": [
-        "Trustpilot 對近期評價做的摘要指出，最常見的抱怨是只能找到聊天機器人、難以聯絡到真人客服，其次是月費上漲與額外費用。產品與速度的評價則好壞參半，有些人稱讚連線快。"
+        "請找網站標示為 starlink.com 的「Starlink Development」。有些名稱相近的檔案指向其他網域。這個檔案匯集了數十個國家的用戶，所以某則評論描述的方案、稅金或配送規則，可能不適用於你所在的地方。"
       ]
     },
     {
       "heading": "對訂閱者意味著什麼",
       "paragraphs": [
-        "訂閱後請每個月核對帳單，並和訂購頁的價格比較。促銷價在更換方案、取消或暫停後會怎樣，以你自己訂單上的條款為準。",
-        "合約與取消的規則見[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+        "付款之前，請在 starlink.com 針對你自己的地址確認方案、套件（租用或購買）、稅金與合約：這些會依國家甚至依地址而不同。把下單當天的優惠畫面截圖存起來，每張帳單都拿來對照。",
+        "租用套件與退還規定請見[合約、取消與退款指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
       ],
       "images": [
         {
@@ -119,31 +149,40 @@
       ]
     },
     {
-      "heading": "訂閱之前",
+      "heading": "如何提出問題",
       "paragraphs": [
-        "訂閱前，先確認網站和條款。如何認出官方網站，見[Starlink 可靠嗎](/zh-hant/reviews/starlink-trust-zh-hant)。",
-        "要訂閱的話，[本站的 Starlink 頁面](/zh-hant/coupons/starlink)有連結與計畫規則。"
+        "請在 Starlink 網站或應用程式中開啟客服申請，並保留案件編號。如果帳單與訂單不符，請把優惠上顯示的價格連同帳單一併寄出。若有不認得的扣款，也請聯絡發卡機構或銀行。公司不會在 Trustpilot 上回覆，所以別指望靠留評論得到回應。"
+      ],
+      "links": [
+        {
+          "label": "Trustpilot 上的 starlink.com 檔案",
+          "href": "https://www.trustpilot.com/review/starlink.com"
+        }
       ]
     },
     {
-      "heading": "如何投訴",
+      "heading": "訂閱之前",
       "paragraphs": [
-        "請在 Starlink 網站或應用程式開立客服案件，並保存案件編號。如果帳單與訂購頁不符，請附上訂購頁的金額與帳單。"
-      ]
+        "訂閱之前，請先確認網站與條款。如何辨認官方網站與冒用名稱的檔案，請見[Starlink 可靠嗎？](/zh-hant/reviews/starlink-trust-zh-hant)。",
+        "[Starlink 推薦](/zh-hant/coupons/starlink)頁面有連結與計畫規則。推薦不是優惠券：獎勵在訂閱滿兩個月後以帳單抵免的形式入帳，優先、企業與商用方案不適用。"
+      ],
+      "emphasis": "依表格數字，對地址上沒有其他好網路選擇的人來說，在 starlink.com 針對該地址確認方案、套件、稅金與合約之後再訂閱是合理的，因為 1.6 反映的多半是客服、帳單與價格的抱怨，而不是訊號品質。"
     },
     {
       "heading": "常見問題",
       "bullets": [
-        "Starlink 在 Trustpilot 的評分是多少？網域為 starlink.com 的檔案，TrustScore 為 1.6，共 871 則評價。",
-        "我該看哪個 Starlink 檔案？請看網域為 starlink.com 的那一個，另有兩個網域不同的同名檔案。",
-        "怎麼向 Starlink 投訴？請透過網站或應用程式開立客服案件並保存案件編號。如果問題持續，可以到 Trustpilot 留下評價。"
+        "Starlink 有折扣碼嗎？沒有。Starlink 沒有優惠券：透過 Cecília 的推薦連結訂閱，訂閱滿兩個月後會以帳單抵免的形式獲得獎勵，推薦人也獲得相同金額。金額依國家而定，例如美國為 US$ 100。",
+        "Starlink 在 Trustpilot 的評分是多少？starlink.com 檔案的 TrustScore 為 1.6，共 879 則評論，其中 71% 是一星。",
+        "為什麼分數這麼低？這個檔案未被認領，沒有付費方案、沒有評論邀請，公司也不回覆，所以主要匯集了遇到問題的人。在我們閱讀的最近 40 則一星評論中，客服、連線中斷、漲價與帳單是主要抱怨。",
+        "我該看哪個 Starlink 檔案？請找網域為 starlink.com 的檔案。其他檔案名稱相近，但網域不同。",
+        "如何向 Starlink 提出問題？請在網站或應用程式開啟申請，並保留案件編號。公司不回覆 Trustpilot 上的評論，所以不要指望。若扣款有疑問，請聯絡發卡機構或銀行。"
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "affiliate": "starlink",
-  "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+  "editorialNote": "資料來自 Trustpilot 公開檔案，以及我們對近期評論的自行閱讀。我們參加 Starlink 推薦計畫，若你透過我們的連結訂閱並符合規則，我們可能獲得獎勵。",
   "relatedArticles": [
     {
       "slug": "starlink-trust-zh-hant"
@@ -154,5 +193,21 @@
     {
       "slug": "starlink-worth-it-zh-hant"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "你的地址沒有好的網路選擇，而且付款前已針對該地址確認過方案、套件與合約。",
+      "你能接受客服主要透過應用程式與自動聊天進行。"
+    ],
+    "skipIf": [
+      "你期待帳單或配送出問題時，有真人很快回覆。",
+      "你想只靠 TrustScore 就做決定：它來自未認領的檔案，對訊號品質說明有限。"
+    ]
+  },
+  "cta": {
+    "text": "在 Starlink 網站輸入你的地址，付款前先確認方案、套件與月費。",
+    "label": "查看你地址的方案",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

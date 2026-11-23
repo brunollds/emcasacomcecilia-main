@@ -19,7 +19,7 @@
   "metaDescription": "Starlink Max com kit a R$ 49 e 30% na mensalidade por 12 meses, em áreas selecionadas. Veja a conta após a recompensa e confira seu endereço.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/starlink/black-friday-starlink-hero-pt-v2.webp",
@@ -79,6 +79,14 @@
       },
       "postParagraphs": [
         "Para receber a recompensa, a indicação precisa ser elegível e o serviço deve ficar ativo e em dia por dois ciclos mensais completos. A Starlink oferece crédito na fatura e, conforme a conta, pagamento em dinheiro."
+      ],
+      "emphasis": "Pelos números da tabela, quem recebe a oferta no pedido paga R$ 223,30 pelo kit e pelo primeiro mês; com o crédito de R$ 200 da indicação, que entra na fatura depois de dois ciclos mensais completos, o custo líquido desses dois itens cai para R$ 23,30.",
+      "links": [
+        {
+          "label": "Ver planos no seu endereço",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -132,6 +140,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
         "A Starlink tem Black Friday? A oferta de fim de novembro mostra kit a R$ 49 e 30% na mensalidade do Max por 12 meses, para clientes novos em áreas selecionadas.",
         "A indicação soma com a oferta? Na tela brasileira consultada, o preço promocional e a indicação de R$ 200 apareceram juntos. A recompensa depende da elegibilidade e de dois ciclos mensais completos.",
         "Quanto é cobrado no pedido? Na tela consultada do Max, eram R$ 49 pelo equipamento. A primeira mensalidade, de R$ 174,30, ficou para depois.",
@@ -160,5 +169,15 @@
     }
   ],
   "pros": [],
-  "cons": []
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "o pedido do seu endereço mostra o kit a preço baixo e o desconto na mensalidade do Max.",
+      "você aceita o contrato de 12 meses do kit e espera dois ciclos mensais para a recompensa."
+    ],
+    "skipIf": [
+      "o endereço não mostra a oferta no pedido, porque o exemplo vale só para as áreas lidas.",
+      "você pode sair antes dos 12 meses e não quer arriscar a multa do kit."
+    ]
+  }
 }

@@ -19,7 +19,7 @@
   "metaDescription": "Pelo nosso link, o VPN Plus sai por R$ 210,96 nos primeiros 24 meses. Compare com R$ 251,76 na página de ofertas e confira a renovação anunciada.",
   "publishedAt": "17 de novembro de 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/proton/black-friday-proton-capa.webp",
@@ -197,7 +197,8 @@
         "O plano de 1 ano tem o menor desembolso agora, R$ 125,88, e serve a quem quer testar o serviço pago e pode cancelar antes da renovação. Se a assinatura seguir para o segundo ano, ele vira o caminho mais caro da tabela.",
         "Quem quer os recursos pagos do VPN Plus e pretende usar a VPN pelos dois anos encontra pelo nosso link o menor total dos caminhos comparados. É uma escolha para manter o serviço pelo período contratado. O plano gratuito continua suficiente para quem não precisa desses recursos.",
         "No Proton Unlimited, a página de parceiros tem o mesmo preço da pública. Em 24 meses, o plano de 2 anos da página de ofertas soma R$ 671,76, e o de 1 ano mais uma renovação, R$ 693,36. Depois, os dois renovam por R$ 419,88 a cada 12 meses."
-      ]
+      ],
+      "emphasis": "Pelos números da tabela, para quem quer o VPN Plus pelos dois anos, a escolha é o plano de 2 anos pelo nosso link, porque soma R$ 210,96 em 24 meses, contra R$ 419,76 do plano de 1 ano com uma renovação."
     },
     {
       "heading": "VPN Plus sozinho ou Proton Unlimited",
@@ -236,7 +237,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Proton tem cupom de Black Friday? Não é preciso código. O desconto já aparece na página que o nosso link abre, e o total é confirmado no checkout.",
+        "A Proton tem cupom de desconto? Não há cupom: o desconto da Black Friday, de até 75% OFF, abre pelos links da Cecília, e o preço aparece no site da Proton, na moeda do seu país, com o valor da renovação ao lado.",
         "Quanto custa o Proton VPN na Black Friday? Pela página de parceiros, o VPN Plus de 2 anos saía por R$ 210,96, cobrados de uma vez. Na página pública, o plano de 1 ano custava R$ 125,88. Os dois renovam por R$ 293,88 a cada 12 meses. Os valores mudam com o país e a moeda.",
         "O preço da Black Friday vale na renovação? Não. Depois do primeiro período, a assinatura renova pelo preço padrão. Nos valores lidos, são R$ 293,88 a cada 12 meses no VPN Plus.",
         "Quem já é cliente da Proton tem desconto? A página diz que as ofertas são para novos usuários. Segundo a Proton, quem já tem conta vê as ofertas depois de entrar nela.",
@@ -267,12 +268,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Você é elegível para a oferta de novos usuários e já decidiu usar o VPN Plus por dois anos.",
-      "Você comparou o mesmo plano de 24 meses e quer aproveitar o menor total entre os caminhos apresentados."
+      "você é elegível para a oferta de novos usuários e já decidiu usar o VPN Plus por dois anos.",
+      "você comparou o mesmo plano de 24 meses e quer aproveitar o menor total entre os caminhos apresentados."
     ],
     "skipIf": [
-      "O plano gratuito já resolve o seu uso.",
-      "O valor da renovação não cabe no seu orçamento."
+      "o plano gratuito já resolve o seu uso.",
+      "o valor da renovação não cabe no seu orçamento."
     ]
   }
 }

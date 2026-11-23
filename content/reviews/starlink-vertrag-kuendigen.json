@@ -19,7 +19,7 @@
   "metaDescription": "Starlink kündigen in Deutschland: Das Kit ist zur Miete und geht zurück. Die 30 Tage für die Erstattung und die Schritte im Konto.",
   "publishedAt": "20. November 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -60,7 +60,8 @@
         "caption": "Das Kit, das bei der Rückgabe zurückgeht: Antenne, Router, Halterung und Kabel. Foto von Starlink.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
-      }
+      },
+      "emphasis": "Nach den Bedingungen der Bestellung löst nur die Kündigung mit unbeschädigter Rückgabe des Kits innerhalb von 30 Tagen die Erstattung von Kit und erstem Monat aus, und der Versandbeleg ist der Nachweis, auf den es ankommt."
     },
     {
       "heading": "So kündigen Sie",
@@ -103,6 +104,7 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Hat Starlink einen Rabattcode? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
         "Hat Starlink eine Vertragslaufzeit? In den gelesenen Angaben der Bestellseite für Berlin haben wir keine gefunden. Prüfen Sie die Zusammenfassung Ihrer Bestellung.",
         "Was kostet es, Starlink zu kündigen? Eine Gebühr für die Kündigung haben wir in den gelesenen Angaben nicht gefunden. Das Kit muss bei Kündigung zurückgeschickt werden.",
         "Kann ich Starlink jederzeit kündigen? Die Kündigung geht über das Konto. Der Dienst bleibt bis zum Ende des bezahlten Zeitraums aktiv.",
@@ -125,5 +127,21 @@
     {
       "slug": "starlink-trustpilot-bewertungen"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Sie das gemietete Kit bei Kündigung innerhalb von 30 Tagen unbeschädigt zurückgeben können.",
+      "Sie die Bedingungen in der Zusammenfassung Ihrer eigenen Bestellung vor der Zahlung lesen."
+    ],
+    "skipIf": [
+      "Sie das Kit nicht rechtzeitig in gutem Zustand zurückschicken können.",
+      "Ihre Bestellung eine Laufzeit oder eine Kündigungsgebühr zeigt, die Sie nicht akzeptieren."
+    ]
+  },
+  "cta": {
+    "text": "Die Bestellung öffnet sich auf der Starlink-Seite. Prüfen Sie Laufzeit, Gebühren und Rückgabe des Kits, bevor Sie bezahlen.",
+    "label": "Bedingungen für meine Adresse prüfen",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

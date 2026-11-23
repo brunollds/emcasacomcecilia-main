@@ -19,7 +19,7 @@
   "metaDescription": "Starlink in Italia: nessun contratto, kit a noleggio da restituire e 30 giorni per il rimborso. Scopri come annullare l'abbonamento dal tuo account.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -60,7 +60,8 @@
       "paragraphs": [
         "L'ordine indica un termine di 30 giorni. Per chiedere il rimborso del kit e del primo mese nelle condizioni dell'offerta, annulla il servizio e restituisci l'apparecchio senza danni entro quel termine.",
         "Annullare l'abbonamento ferma gli addebiti futuri secondo il ciclo, ma il kit va restituito a parte. Chiedi all'assistenza di Starlink come avviare anche il reso."
-      ]
+      ],
+      "emphasis": "Secondo le condizioni dell'ordine, annullare e restituire il kit senza danni entro 30 giorni è ciò che dà diritto al rimborso del kit e del primo mese, e la ricevuta di spedizione è la prova che conta."
     },
     {
       "heading": "Come annullare",
@@ -95,6 +96,7 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Starlink ha un codice sconto? No. Starlink non ha un coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
         "Starlink ha un contratto? Nell'ordine italiano che abbiamo letto compariva «Nessun contratto», con il kit a noleggio e una prova di 30 giorni.",
         "Si può annullare Starlink in qualsiasi momento? La richiesta si fa dall'account. Il servizio resta attivo fino alla fine del periodo pagato.",
         "Devo restituire il kit? Il kit è a noleggio e, se annulli il servizio, va restituito.",
@@ -117,5 +119,21 @@
     {
       "slug": "starlink-trustpilot-recensioni"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "puoi restituire il kit a noleggio senza danni entro 30 giorni se annulli.",
+      "leggerai le condizioni nel riepilogo del tuo ordine prima di pagare."
+    ],
+    "skipIf": [
+      "non puoi rispedire il kit in buone condizioni entro il termine.",
+      "il riepilogo del tuo ordine mostra un vincolo o una penale che non accetti."
+    ]
+  },
+  "cta": {
+    "text": "L'ordine si apre sul sito di Starlink. Controlla vincolo, costi e restituzione del kit prima di pagare.",
+    "label": "Controlla le condizioni al mio indirizzo",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

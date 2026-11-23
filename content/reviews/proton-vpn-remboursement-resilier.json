@@ -19,7 +19,7 @@
   "metaDescription": "Résilier Proton VPN et demander un remboursement : le délai de 30 jours, les conditions qui font échouer une demande et comment éviter le renouvellement.",
   "publishedAt": "17 novembre 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -142,7 +142,8 @@
         "Le renouvellement suit le cycle indiqué dans l'offre et le reçu, qui peut différer de la période initiale. Les conditions indiquent que vous êtes facturé au prix en vigueur au moment du renouvellement, et qu'un prix promotionnel ne couvre que la première période. Sur la page partenaires de Proton en dollars américains, l'offre VPN Plus de 2 ans était facturée 59,76 $ pour les 24 premiers mois, puis se renouvelait à 83,88 $ tous les 12 mois. Les prix changent selon le pays et la devise.",
         "Avec VPN Plus, pour arrêter le renouvellement, les conditions demandent de résilier avant la date de renouvellement. Inutile d'attendre la veille. Comme l'offre payante court jusqu'à la fin de la période déjà facturée, vous pouvez résilier juste après vous être abonné et profiter de tout ce que vous avez payé.",
         "Notez la prochaine date de facturation dans votre agenda, quelques jours à l'avance. Si vous vous êtes abonné via la boutique d'applications d'un téléphone, vérifiez la date dans les abonnements de la boutique."
-      ]
+      ],
+      "emphasis": "Selon les conditions de Proton, le remboursement sous 30 jours ne couvre que l'achat initial fait directement auprès de Proton, et un renouvellement sort de la règle ; pour éviter un nouveau prélèvement, la résiliation doit être faite avant la date de facturation, chez Proton ou dans la boutique du téléphone qui a facturé l'abonnement."
     },
     {
       "heading": "Changer d'offre plutôt que partir",
@@ -160,6 +161,7 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Proton propose-t-il un code promo ? Il n'y a pas de code : la remise du Black Friday, jusqu'à 75 % de réduction, s'ouvre par les liens de Cecília, et le prix s'affiche sur le site de Proton, dans la devise de votre pays, avec le prix du renouvellement à côté.",
         "Proton VPN rembourse-t-il ? Pour un achat direct auprès de Proton, les conditions prévoient un remboursement intégral si résiliation et demande interviennent sous 30 jours après l'achat initial, une fois par utilisateur et avec des restrictions de paiement. Pour Google Play et l'App Store, suivez le parcours spécifique du chapitre correspondant.",
         "Comment résilier Proton VPN ? Sur le site, connectez-vous, ouvrez Subscription, allez à Cancel subscription et suivez les étapes jusqu'à l'envoi du motif. Si vous vous êtes abonné via Google Play ou l'App Store, résiliez dans les abonnements de la boutique.",
         "J'ai résilié et j'ai quand même été prélevé, que faire ? Vérifiez d'abord qui vous a facturé. Un abonnement souscrit via la boutique d'applications d'un téléphone se résilie dans la boutique. Si le prélèvement vient de Proton après une résiliation menée à son terme, écrivez à l'assistance en joignant les dates et le reçu.",
@@ -173,6 +175,16 @@
   ],
   "pros": [],
   "cons": [],
+  "decision": {
+    "takeIf": [
+      "vous vous êtes abonné directement auprès de Proton et vous êtes encore dans les 30 jours de l'achat initial.",
+      "vous voulez arrêter le renouvellement et, si vous y avez droit, demander le remboursement intégral au support de Proton."
+    ],
+    "skipIf": [
+      "vous vous êtes abonné via l'App Store ou Google Play : la résiliation se fait dans la boutique et le remboursement suit une autre voie.",
+      "vous avez payé en espèces ou par virement bancaire, ou vous avez déjà demandé un remboursement : les conditions ne couvrent pas ces cas."
+    ]
+  },
   "cta": {
     "text": "Si vous envisagez encore un abonnement, ouvrez l'offre Proton via notre lien et vérifiez le total et le renouvellement. Pour une résiliation ou un remboursement en cours, utilisez le canal indiqué dans ce guide.",
     "label": "Profitez de jusqu’à 75 % de réduction via le lien",

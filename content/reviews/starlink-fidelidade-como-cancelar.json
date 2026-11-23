@@ -19,7 +19,7 @@
   "metaDescription": "A Starlink tem fidelidade de 12 meses no kit com desconto, com multa de até 1.099 reais. Veja os 30 dias para devolver e o que muda ao cancelar.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/starlink/starlink-fidelidade-como-cancelar-capa.webp",
@@ -59,7 +59,8 @@
         "caption": "O kit que volta na devolução: antena, roteador, base e cabos. Foto da Starlink.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
-      }
+      },
+      "emphasis": "Pelas regras do pedido, quem cancela e devolve o kit sem danos em até 30 dias do pagamento pede o reembolso do kit e do primeiro mês; depois disso, valem o contrato de 12 meses e a multa de até R$ 1.099."
     },
     {
       "heading": "Como cancelar",
@@ -102,6 +103,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
         "A Starlink tem fidelidade? No pedido consultado do Max com kit a R$ 49, o contrato era de 12 meses.",
         "Qual a multa para cancelar a Starlink? A oferta consultada informa até R$ 1.099. Confira o valor aplicável ao seu pedido antes de confirmar o cancelamento.",
         "Posso cancelar a Starlink a qualquer momento? A solicitação pode ser feita pela conta. Se houver contrato de 12 meses e você sair antes, confira a multa aplicável.",
@@ -124,5 +126,21 @@
     {
       "slug": "starlink-reclame-aqui-nota-reputacao"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "você quer pagar o kit com desconto e aceita o contrato de 12 meses.",
+      "você vai ler o pedido do seu endereço antes de pagar e guardar o comprovante da devolução."
+    ],
+    "skipIf": [
+      "você pode cancelar antes dos 12 meses e não quer arriscar a multa de rescisão.",
+      "você não vai devolver o kit sem danos dentro dos 30 dias."
+    ]
+  },
+  "cta": {
+    "text": "O pedido abre no site da Starlink. Confira o contrato, a multa e a devolução do kit antes de pagar.",
+    "label": "Consultar o contrato no meu endereço",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

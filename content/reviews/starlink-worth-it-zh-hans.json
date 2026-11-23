@@ -19,7 +19,7 @@
   "metaDescription": "Starlink 值得买吗？套件加 12 个月月费怎么算、适合哪些家庭，以及什么时候光纤或 4G 更合适。",
   "publishedAt": "2026年11月20日",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -66,6 +66,13 @@
       },
       "postParagraphs": [
         "先不含奖励算一遍，再看订单里带推荐链接时显示的奖励，满足规则之后才会发放。见[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
+      ],
+      "links": [
+        {
+          "label": "查看你所在地址的套餐",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -91,7 +98,9 @@
       "heading": "什么时候和光纤或 4G 比较",
       "paragraphs": [
         "如果已经有稳定的光纤，就把各家方案的安装费、月费和可能的合约加起来比较。对 4G，要加上你需要买的设备，并确认流量够全家用。"
-      ]
+      ],
+      "emphasis": "地址上既没有稳定光纤、4G 也不理想时，Starlink 才值得放进比较；已有稳定光纤的话，只有套件加月费的 12 个月总额低于现有宽带时，换过去才划算。",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "速度与游戏",
@@ -119,14 +128,9 @@
       ]
     },
     {
-      "heading": "我们的使用体验",
-      "paragraphs": [
-        "我们已经订购了 Starlink，但还没有使用体验。速度、安装和日常稳定性，会在有了之后补进这篇文章。"
-      ]
-    },
-    {
       "heading": "常见问题",
       "bullets": [
+        "Starlink 有折扣优惠券吗？没有。Starlink 没有优惠券：通过我们的推荐链接订阅，满两个月后可获得奖励，金额因国家而异（例如美国为 US$ 100），默认以账单抵扣的形式发放，推荐人获得相同金额。",
         "在城市里值得买 Starlink 吗？如果地址上有稳定的光纤，换之前先比较安装费、月费和合约。",
         "Starlink 比光纤好吗？没有好光纤时，值得查一下价格并确认能不能看到开阔天空。两者都有时，比较稳定性和成本。",
         "Starlink 适合玩游戏吗？请在你的地址测延迟和中断。Starlink 公布的典型范围只是通用参考。",
@@ -142,7 +146,7 @@
     ],
     "skipIf": [
       "你的地址已有稳定光纤，不用买套件，也没有合约。",
-      "你要玩延迟要求高的在线游戏，而我们读到的页面没有公布实测延迟。"
+      "你要玩延迟要求高的在线游戏，而 Starlink 只公布典型延迟范围，不保证你所在地址的具体数值。"
     ]
   },
   "pros": [],
@@ -154,7 +158,7 @@
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+  "editorialNote": "价格读取自官方订购页，没有完成购买。我们尚未实际使用该服务。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
   "relatedArticles": [
     {
       "slug": "starlink-cancel-zh-hans"

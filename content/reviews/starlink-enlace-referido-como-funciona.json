@@ -19,7 +19,7 @@
   "metaDescription": "Mira cómo abrir el enlace de referido de Starlink, ver el valor en el pedido y recibir la recompensa tras cumplir las condiciones del programa.",
   "publishedAt": "20 de noviembre de 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -62,7 +62,9 @@
         "El valor depende del país en el que te registras y aparece en tu pedido y en tu cuenta. Quien invita también recibe el mismo valor, en dinero o en crédito de servicio.",
         "La suscripción tiene que seguir activa y al día durante dos ciclos mensuales completos. El centro de ayuda dice que la emisión puede empezar a partir de 60 días desde la activación, según el país, la cuenta y la verificación de identidad.",
         "La forma habitual es el crédito en la factura. Si tu cuenta ofrece pago en dinero, abre Referidos en el sitio desde el navegador, elige el método de recompensa."
-      ]
+      ],
+      "emphasis": "La recompensa solo se libera tras dos ciclos mensuales completos con la suscripción activa y al día, por defecto como crédito en la factura, y quien se suscribe y quien invita reciben el mismo valor; el de tu país aparece en el pedido.",
+      "emphasisAfterParagraph": 3
     },
     {
       "heading": "Quién puede usarlo",
@@ -94,6 +96,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Tiene Starlink un cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de suscripción, como crédito en la factura, y quien invitó recibe el mismo valor.",
         "¿Cómo funciona el referido de Starlink? Haz el pedido en starlink.com a través del enlace. Comprueba el referido aplicado, activa el kit y mantén el servicio elegible al día durante dos ciclos mensuales completos.",
         "¿Cuánto vale el referido de Starlink? Depende del país y aparece en tu pedido. Compruébalo antes de pagar.",
         "¿Cuándo llega la recompensa de Starlink? El centro de ayuda indica que la emisión puede empezar a partir de 60 días desde la activación, si el referido cumple las condiciones del programa.",
@@ -123,5 +126,15 @@
     }
   ],
   "pros": [],
-  "cons": []
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "vas a contratar Starlink de todos modos y quieres que el referido conste en el pedido original.",
+      "eres cliente nuevo y puedes mantener el servicio activo y al día durante dos ciclos mensuales completos hasta que se libere la recompensa."
+    ],
+    "skipIf": [
+      "eres o has sido cliente de Starlink, porque la recompensa es solo para quien se suscribe por primera vez.",
+      "vas a comprar en un distribuidor o marketplace, porque el referido solo cuenta en pedidos hechos en starlink.com a través del enlace."
+    ]
+  }
 }

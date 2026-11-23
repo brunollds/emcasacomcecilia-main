@@ -19,7 +19,7 @@
   "metaDescription": "Proton VPN 值得買嗎？比較免費與 Plus：我們的連結首 24 個月 59.76 美元，之後每年 83.88 美元，查看功能與條件。",
   "publishedAt": "2026年11月17日",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -56,7 +56,7 @@
         "**優先支援和即時聊天。**"
       ],
       "postParagraphs": [
-        "我們沒有使用 Proton VPN。速度、P2P 和串流在這裡都依 Proton 的宣傳列出，沒有我們自己的測量，也不保證能存取任何影音服務。信任面與稽核的內容，請見 [Proton VPN 安全嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)。"
+        "速度、P2P 和串流在這裡都依 Proton 的宣傳列出，也不保證能存取任何影音服務。信任面與稽核的內容，請見 [Proton VPN 安全嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)。"
       ]
     },
     {
@@ -164,7 +164,14 @@
         "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
         "alt": "Proton 價格頁面上的 VPN Plus 卡片：1 年方案每月 2.99 美元，前 12 個月一次扣款 35.88 美元，之後每 12 個月以 83.88 美元續訂。",
         "caption": "Proton 價格頁面上的 1 年 VPN Plus 卡片，總額和續訂價標在小字中。"
-      }
+      },
+      "links": [
+        {
+          "label": "查看 VPN Plus",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "VPN Plus 還是 Proton Unlimited",
@@ -172,7 +179,8 @@
         "Proton Unlimited 把 VPN、電子郵件、雲端儲存和密碼管理的付費功能合在同一個帳戶裡。同一頁面上，1 年方案是 77.88 美元，之後每 12 個月以 119.88 美元續訂。",
         "訂閱 VPN Plus 後，其他服務仍維持免費方案，說明中心也表示同一帳戶不能有多個 Plus 方案。若你也會用其他服務的付費功能，可以考慮 Unlimited；需要兩項服務本身並不能證明它最便宜。Proton 也有 VPN 加 Pass 的組合，若需要 VPN 和密碼管理器，請一併比較。如果你只要 VPN，1 年 Plus 首期不到一半的價格（35.88 美元對 77.88 美元），續訂時也仍然較便宜（83.88 美元對 119.88 美元）。",
         "我們使用同一家公司的 Proton Mail 免費方案，已經將近十年。如果免費電子郵件對你來說夠用，就不需要為了用付費 VPN 而選 Unlimited。"
-      ]
+      ],
+      "emphasis": "依表格中的數字，若只需要付費 VPN，選擇 1 年 VPN Plus 較合適，因為首期為 35.88 美元，低於 Unlimited 的 77.88 美元，續訂時也是 83.88 美元，低於 119.88 美元。"
     },
     {
       "heading": "不利的地方",
@@ -193,6 +201,7 @@
     {
       "heading": "常見問題",
       "bullets": [
+        "Proton 有折扣優惠碼嗎？沒有優惠碼：最高 75% 折扣的黑色星期五優惠透過 Cecília 的連結開啟，價格會以你所在國家的幣別顯示在 Proton 網站上，旁邊附有續訂金額。",
         "Proton VPN 免費嗎？有免費方案，不需要信用卡，另有付費方案。依 Proton 所述，免費方案沒有廣告、沒有流量限制，一次連 1 台裝置。",
         "Proton VPN 免費版有流量限制嗎？Proton 表示沒有。免費方案的限制是一次 1 台裝置，以及由應用程式挑選的 10 個國家的伺服器。",
         "Proton VPN Plus 要多少錢？我們查閱的美元價格為一年 35.88 美元，我們連結的合作夥伴優惠為首 24 個月 59.76 美元，均須預付。之後公布的續訂為每 12 個月 83.88 美元，請確認幣別、適用條件及有效價格。",

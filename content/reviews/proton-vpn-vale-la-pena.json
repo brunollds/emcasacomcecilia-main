@@ -19,7 +19,7 @@
   "metaDescription": "¿Vale la pena Proton VPN? Gratis o Plus: nuestro enlace ofrece 24 meses por $59.76; después, $83.88 al año. Compara funciones y condiciones.",
   "publishedAt": "17 de noviembre de 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -56,7 +56,7 @@
         "**Soporte prioritario y chat en directo.**"
       ],
       "postParagraphs": [
-        "No usamos Proton VPN. La velocidad, el P2P y el streaming aparecen aquí tal como los anuncia Proton, sin ninguna medición nuestra y sin prometer acceso a ningún servicio de vídeo. La parte de confianza, con las auditorías, está en [¿Es seguro Proton VPN?](/es/reviews/proton-vpn-es-confiable)."
+        "La velocidad, el P2P y el streaming aparecen aquí tal como los anuncia Proton, sin prometer acceso a ningún servicio de vídeo. La parte de confianza, con las auditorías, está en [¿Es seguro Proton VPN?](/es/reviews/proton-vpn-es-confiable)."
       ]
     },
     {
@@ -164,7 +164,14 @@
         "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
         "alt": "La tarjeta de VPN Plus en la página de precios de Proton, con el plan de 1 año a $2.99 por mes, $35.88 cobrados por los primeros 12 meses y renovación a $83.88 cada 12 meses.",
         "caption": "La tarjeta de VPN Plus de 1 año en la página de precios de Proton, con el total y la renovación en la letra pequeña."
-      }
+      },
+      "links": [
+        {
+          "label": "Ver VPN Plus",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "VPN Plus o Proton Unlimited",
@@ -172,7 +179,8 @@
         "Proton Unlimited reúne en una sola cuenta las funciones de pago de la VPN, el correo, el almacenamiento en la nube y el gestor de contraseñas. En la misma página, el plan de 1 año costaba $77.88 y se renovaba a $119.88 cada 12 meses.",
         "Si te suscribes a VPN Plus, conservas los planes gratuitos de los demás servicios, y el centro de ayuda dice que no puedes tener varios planes Plus en la misma cuenta. Considera Unlimited si también usarás las funciones de pago de los otros servicios; necesitar dos servicios no demuestra que sea la opción más económica. Proton también anuncia un paquete VPN con Pass, que conviene comparar si buscas VPN y gestor de contraseñas. Si solo quieres la VPN, el Plus de 1 año cuesta menos de la mitad en el primer periodo ($35.88 frente a $77.88) y sigue siendo más barato en la renovación ($83.88 frente a $119.88).",
         "Usamos Proton Mail, de la misma empresa, en el plan gratuito desde hace casi diez años. Si el correo gratuito te basta, no necesitas Unlimited para tener la VPN de pago."
-      ]
+      ],
+      "emphasis": "Según los números de la tabla, para quien solo quiere la VPN de pago, la opción es VPN Plus de 1 año, porque cuesta $35.88 frente a $77.88 de Unlimited en el primer periodo y se renueva por $83.88 frente a $119.88."
     },
     {
       "heading": "Lo que juega en contra",
@@ -193,6 +201,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Tiene Proton un cupón de descuento? No hay cupón: el descuento de Black Friday, de hasta un 75 % de descuento, se abre con los enlaces de Cecília, y el precio aparece en el sitio de Proton, en la moneda de tu país, con el importe de la renovación al lado.",
         "¿Es gratis Proton VPN? Tiene un plan gratuito, sin tarjeta, y planes de pago. Según Proton, el plan gratuito no tiene anuncios ni límite de datos y conecta 1 dispositivo a la vez.",
         "¿Proton VPN Free tiene límite de datos? Proton dice que no. Los límites del plan gratuito son 1 dispositivo a la vez y servidores en 10 países elegidos por la app.",
         "¿Cuánto cuesta Proton VPN Plus? En la consulta registrada en dólares estadounidenses, un año costaba $35.88 y la oferta de socios de nuestro enlace, $59.76 por los primeros 24 meses, ambos por adelantado. Después, la renovación anunciada era de $83.88 cada 12 meses; confirma moneda, elegibilidad y precio vigente.",
@@ -227,12 +236,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Usas una VPN en más de un dispositivo o necesitas elegir el país de la conexión.",
-      "Quieres el filtrado de anuncios y rastreadores de NetShield durante la conexión VPN."
+      "usas una VPN en más de un dispositivo o necesitas elegir el país de la conexión.",
+      "quieres el filtrado de anuncios y rastreadores de NetShield durante la conexión VPN."
     ],
     "skipIf": [
-      "Tu uso es ocasional, en un solo dispositivo, y el país de la conexión no importa.",
-      "El importe de la renovación no cabe en tu presupuesto."
+      "tu uso es ocasional, en un solo dispositivo, y el país de la conexión no importa.",
+      "el importe de la renovación no cabe en tu presupuesto."
     ]
   }
 }

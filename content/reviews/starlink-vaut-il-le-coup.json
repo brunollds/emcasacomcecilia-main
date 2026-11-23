@@ -19,7 +19,7 @@
   "metaDescription": "Starlink vaut-il le coup ? Prix par forfait, kit loué, pour qui il a du sens et quand la fibre ou la 4G reviennent moins cher.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -70,6 +70,13 @@
       },
       "postParagraphs": [
         "La page lue ne dit pas combien de temps dure la réduction, donc n'extrapolez pas ces prix sur 12 mois sans vérifier la durée affichée sur votre commande. Faites le calcul d'abord sans la récompense du [parrainage Starlink](/fr/coupons/starlink), puis ajoutez-la si votre commande l'affiche."
+      ],
+      "links": [
+        {
+          "label": "Voir les forfaits à votre adresse",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -95,7 +102,9 @@
       "heading": "Quand comparer avec la fibre ou la 4G",
       "paragraphs": [
         "Si une fibre stable arrive déjà, comparez l'installation, les mensualités et les éventuels engagements de chaque offre. Pour la 4G, ajoutez le prix du matériel dont vous aurez besoin et vérifiez que le forfait a assez de données pour la maison."
-      ]
+      ],
+      "emphasis": "Sans fibre stable ni 4G correcte à l'adresse, Starlink entre dans la comparaison ; avec une fibre stable, le changement ne se justifie que si le total des mois prévus, matériel et mensualités additionnés, reste sous le coût de la connexion actuelle.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Débit et jeux en ligne",
@@ -123,14 +132,9 @@
       ]
     },
     {
-      "heading": "Notre expérience jusqu'ici",
-      "paragraphs": [
-        "Nous avons déjà souscrit à Starlink, mais nous n'avons pas encore d'expérience d'usage. Débit, installation et qualité au quotidien feront l'objet d'une mise à jour de cet article, quand nous les aurons."
-      ]
-    },
-    {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, la personne qui s'abonne reçoit 45 € en France après deux mois d'abonnement, sous forme de crédit sur la facture, et le parrain reçoit le même montant.",
         "Starlink vaut-il le coup en ville ? Avec une fibre stable à l'adresse, comparez l'installation, les mensualités et les engagements avant de changer.",
         "Starlink est-il meilleur que la fibre ? Sans bonne fibre sur place, cela vaut la peine de demander un tarif Starlink et de vérifier que le ciel est dégagé. Si les deux sont disponibles, comparez la stabilité et le coût à votre adresse.",
         "Starlink est-il bon pour les jeux ? Testez la latence et les coupures à votre adresse. La plage typique publiée par Starlink est une référence générale.",
@@ -141,12 +145,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Vous n'avez pas de fibre correcte à votre adresse et la 4G est faible aussi.",
-      "Vous acceptez de louer le matériel et de le renvoyer si vous partez, et vous lisez le prix de votre adresse sur la commande."
+      "vous n'avez pas de fibre correcte à votre adresse et la 4G est faible aussi.",
+      "vous acceptez de louer le matériel et de le renvoyer si vous partez, et vous lisez le prix de votre adresse sur la commande."
     ],
     "skipIf": [
-      "Vous avez déjà une fibre stable à votre adresse, sans matériel à renvoyer.",
-      "Vous jouez en ligne et avez besoin d'une latence très basse, que la page lue ne garantit pas."
+      "vous avez déjà une fibre stable à votre adresse, sans matériel à renvoyer.",
+      "vous jouez en ligne et avez besoin d'une latence très basse, que la page lue ne garantit pas."
     ]
   },
   "pros": [],
@@ -158,7 +162,7 @@
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Prix relevés sur la page de commande officielle. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+  "editorialNote": "Prix relevés sur la page de commande officielle. Nous n'avons pas encore utilisé le service. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
   "relatedArticles": [
     {
       "slug": "starlink-engagement-resilier"

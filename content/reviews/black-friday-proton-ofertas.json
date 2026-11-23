@@ -19,7 +19,7 @@
   "metaDescription": "Con nuestro enlace, VPN Plus cuesta $59.76 los primeros 24 meses. Compáralo con $71.76 en la página de ofertas de Proton y revisa la renovación anunciada.",
   "publishedAt": "17 de noviembre de 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -184,7 +184,8 @@
         "El plan de 1 año pide menos dinero hoy y encaja con quien quiere probar el servicio de pago y quizá cancelar antes de la renovación. Si la suscripción llega a un segundo año, la renovación sola cuesta más que todo el plan de 2 años de la página de socios.",
         "El plan de dos años encaja con quien quiere las funciones de pago de Plus y prevé usarlos todo el periodo. Para ese perfil, nuestro enlace tenía el menor total entre las opciones comparadas; el plan gratuito sigue siendo una opción para quien no necesita esas funciones.",
         "Para Proton Unlimited, la página de socios ofrecía el plan de 1 año a $77.88, con renovación a $119.88 cada 12 meses."
-      ]
+      ],
+      "emphasis": "Según los números de la tabla, para quien quiere VPN Plus durante los dos años, la opción es el plan de 2 años con nuestro enlace, porque suma $59.76 en 24 meses, frente a $119.76 del plan de 1 año con una renovación."
     },
     {
       "heading": "VPN Plus solo o Proton Unlimited",
@@ -223,7 +224,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Tiene Proton un cupón de Black Friday? No hace falta ningún código. El descuento ya aparece en la página que abre nuestro enlace, y el total se confirma al pagar.",
+        "¿Tiene Proton un cupón de descuento? No hay cupón: el descuento de Black Friday, de hasta un 75 % de descuento, se abre con los enlaces de Cecília, y el precio aparece en el sitio de Proton, en la moneda de tu país, con el importe de la renovación al lado.",
         "¿Cuánto cuesta Proton VPN en Black Friday? En la página de socios, el plan VPN Plus de 2 años costaba $59.76, cobrados por adelantado, y se renueva a $83.88 cada 12 meses. Los importes cambian según tu país y tu moneda.",
         "¿Se aplica el precio de Black Friday en la renovación? No. Pasado el primer periodo, la suscripción se renueva al precio estándar. En los precios que leímos, son $83.88 cada 12 meses para VPN Plus.",
         "¿Los clientes actuales de Proton tienen descuento? La página dice que las ofertas son para usuarios nuevos. Según Proton, quienes ya tienen una cuenta ven sus ofertas después de iniciar sesión.",
@@ -254,12 +255,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Cumples los requisitos de la oferta para nuevos usuarios y ya has decidido usar VPN Plus durante dos años.",
-      "Quieres fijar el primer periodo al precio de la campaña y apuntarás la fecha de renovación."
+      "cumples los requisitos de la oferta para nuevos usuarios y ya has decidido usar VPN Plus durante dos años.",
+      "quieres fijar el primer periodo al precio de la campaña y apuntarás la fecha de renovación."
     ],
     "skipIf": [
-      "El plan gratuito ya cubre lo que haces.",
-      "El precio de renovación no cabe en tu presupuesto."
+      "el plan gratuito ya cubre lo que haces.",
+      "el precio de renovación no cabe en tu presupuesto."
     ]
   }
 }
