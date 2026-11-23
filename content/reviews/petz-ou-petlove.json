@@ -17,6 +17,7 @@
   "metaDescription": "Na Petz, o EMCASA dá 10% OFF no site e no app. Compare o mesmo produto com a Petlove: preço, assinatura, Clube Petlove e frete.",
   "publishedAt": "11 de novembro de 2026",
   "publishedAtISO": "2026-11-11",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/petz/petz-ou-petlove-capa-v2.webp",
@@ -41,8 +42,8 @@
       "heading": "Rações para cães",
       "paragraphs": [
         "Na Petz, a comparação usa os 10% do EMCASA sobre o preço cheio ou a oferta quando ela é maior. A regra foi observada na sacola; os valores dos demais itens foram calculados a partir das páginas. A Petlove aparece com o preço avulso e, quando disponível, o preço para membros do Clube, sem a taxa do plano.",
-        "Golden e Premier custam quase o mesmo nas duas páginas. Com o EMCASA, a Petz fica abaixo: a Golden de 15 kg sai por R$ 161,99, contra R$ 179,90 na Petlove; a Premier, por R$ 233,99, contra R$ 259,90.",
-        "Na Royal Canin Medium Adult de 12 kg, a oferta da Petz, de R$ 251,19, empata com o preço da Petlove com o clube. Sem o clube, a Petlove mostra R$ 313,91."
+        "Golden e Premier custam quase o mesmo nas duas páginas, e com o EMCASA a Petz fica abaixo nas duas.",
+        "Na Royal Canin Medium Adult de 12 kg, a oferta da Petz empata com o preço da Petlove com o clube; sem o clube, a Petlove fica acima."
       ],
       "comparisonTable": {
         "caption": "Preços lidos durante a Black Friday, consultados em horários próximos para o CEP 01310-100. A coluna do Clube não inclui o custo do plano.",
@@ -54,19 +55,19 @@
         ],
         "rows": [
           [
-            "Golden Fórmula Cães Adultos Frango e Arroz, 15 kg",
+            "[Golden Fórmula Cães Adultos Frango e Arroz, 15 kg](https://www.petz.com.br/produto/racao-golden-formula-para-caes-adultos-sabor-frango-e-arroz-71440)",
             "R$ 161,99 (EMCASA)",
             "R$ 179,90",
             "R$ 152,92"
           ],
           [
-            "Premier Fórmula Cães Adultos Raças Médias Frango e Mandioca, 15 kg",
+            "[Premier Fórmula Cães Adultos Raças Médias Frango e Mandioca, 15 kg](https://www.petz.com.br/produto/racao-premier-formula-para-caes-adultos-de-racas-medias-sabor-frango-e-mandioca-71366)",
             "R$ 233,99 (EMCASA)",
             "R$ 259,90",
             "R$ 220,92"
           ],
           [
-            "Royal Canin Medium Adult, 12 kg",
+            "[Royal Canin Medium Adult, 12 kg](https://www.petz.com.br/produto/racao-seca-royal-canin-medium-adult-para-caes-adultos-de-porte-medio-200729)",
             "R$ 251,19 (oferta)",
             "R$ 313,91",
             "R$ 251,19"
@@ -78,7 +79,8 @@
           "src": "/images/reviews/petz/petz-ou-petlove-royal-canin-medium-adult.webp",
           "alt": "Pacote da ração Royal Canin Medium Adult 12 kg, em foto oficial da página do produto na Petz",
           "caption": "Foto: Petz.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.petz.com.br/produto/racao-seca-royal-canin-medium-adult-para-caes-adultos-de-porte-medio-200729"
         }
       ]
     },
@@ -98,13 +100,13 @@
         ],
         "rows": [
           [
-            "Golden Gatos Adultos Castrados Frango, 10,1 kg (na Petlove, 10 kg)",
+            "[Golden Gatos Adultos Castrados Frango, 10,1 kg (na Petlove, 10 kg)](https://www.petz.com.br/produto/racao-golden-para-gatos-adultos-castrados-sabor-frango-71385)",
             "R$ 161,99 (EMCASA)",
             "R$ 179,90",
             "R$ 152,92"
           ],
           [
-            "Whiskas Gatos Adultos Castrados Carne, 10,1 kg",
+            "[Whiskas Gatos Adultos Castrados Carne, 10,1 kg](https://www.petz.com.br/produto/racao-whiskas-para-gatos-adultos-castrados-sabor-carne-72762)",
             "R$ 161,09 (EMCASA)",
             "Indisponível no CEP",
             "—"
@@ -129,7 +131,7 @@
         ],
         "rows": [
           [
-            "Areia Pipicat Classic, 4 kg",
+            "[Areia Pipicat Classic, 4 kg](https://www.petz.com.br/produto/areia-higienica-pipicat-classic-para-gatos-79747?id=79747)",
             "R$ 14,99 (oferta)",
             "R$ 21,99",
             "R$ 18,70"
@@ -141,7 +143,7 @@
             "R$ 154,28"
           ],
           [
-            "Simparic Trio 24 mg, cães de 10,1 a 20 kg, 1 comprimido",
+            "[Simparic Trio 24 mg, cães de 10,1 a 20 kg, 1 comprimido](https://www.petz.com.br/produto/antipulgas-simparic-trio-24-mg-para-caes-209923)",
             "R$ 104,29 (oferta)",
             "R$ 104,01",
             "—"
@@ -175,29 +177,43 @@
       "heading": "Frete, entrega e retirada",
       "paragraphs": [
         "Na Petz, a política consultada prevê frete grátis na entrega padrão acima de R$ 199 no Sul e no Sudeste, e acima de R$ 299 no Norte, Nordeste e Centro-Oeste. Prazo e custo da Expressa dependem do CEP; na sacola consultada em São Paulo aparecia em até 4 horas, com cobrança à parte. A retirada em loja dá 5% acima de R$ 199 nas regiões Centro-Oeste, Sul e Sudeste, e esse desconto somou com o EMCASA na sacola testada. Para as entregas e a retirada, veja o [artigo sobre a Expressa e a retirada](/reviews/petz-entrega-expressa-ou-retirar-na-loja).",
-        "Na Petlove, a página do Clube Petlove promete frete grátis na entrega padrão, conforme a área, sem valor mínimo ou a partir de R$ 99. Fora do clube, a política lida não informa valor mínimo. A Petlove Já entrega no mesmo dia em São Paulo, Santos, Santo André, Rio de Janeiro, Porto Alegre e Curitiba, quando o pedido é aprovado dentro do horário da filial e pago com cartão ou Pix.",
+        "Na Petlove, a página do Clube Petlove promete frete grátis na entrega padrão, conforme a área, sem valor mínimo ou a partir de R$ 99. Fora do clube, a política lida não informa valor mínimo. A Petlove Já entrega no mesmo dia em São Paulo, Santos, Santo André, Rio de Janeiro, Porto Alegre e Curitiba, quando o pedido é aprovado dentro do horário da filial e pago na forma aceita pela Petlove nessa modalidade.",
         "A Petlove tem 10 lojas físicas com clique e retire. A página lida não informou prazo nem custo da retirada, e não vimos desconto de retirada nela."
       ]
     },
     {
       "heading": "Reclame Aqui",
       "paragraphs": [
-        "Nos últimos seis meses, a Petz - Loja Online tinha nota 8,3 e 89% das reclamações resolvidas; a Petlove - Petsupermarket, nota 8,4, selo RA1000 e 91,2% resolvidas. Para mais detalhes, leia [Petz no Reclame Aqui](/reviews/petz-reclame-aqui-nota-reputacao)."
+        "Nos últimos seis meses, a Petz - Loja Online tinha nota 8,3 e 89% das reclamações resolvidas; a Petlove - Petsupermarket, nota 8,4, selo RA1000 e 91,2% resolvidas."
       ]
     },
     {
       "heading": "Qual loja faz sentido para a sua compra",
       "paragraphs": [
         "Sem Clube Petlove, a Petz ficou abaixo em cinco dos sete itens comparáveis desta seleção. Para quem já é membro, o preço do Clube ficou menor em três dos cinco itens comparáveis com esse valor; houve um empate e uma vantagem da Petz.",
-        "Monte sua lista com as mesmas embalagens e compare o total com entrega. Se for aderir a um clube, acrescente o custo do plano; se ele já está ativo, compare os preços que sua conta oferece. Na Petz, o EMCASA dá os 10% quando a oferta do item não é maior."
+        "Monte sua lista com as mesmas embalagens e compare o total com entrega. Se for aderir a um clube, acrescente o custo do plano; se ele já está ativo, compare os preços que sua conta oferece. Na Petz, o EMCASA dá os 10% quando a oferta do item não é maior.",
+        "O botão desta página abre a loja da Cecília na Petz (petz.com.br/parceiro/emcasa), mas não aplica o EMCASA sozinho: cole o código no campo “Digite seu cupom” da sacola. Os preços 10% menores que aparecem nos produtos são os de assinante."
+      ],
+      "emphasis": "Para uma compra única, eu ficaria com a Petz e o EMCASA, que deixou a Petz abaixo em cinco dos sete itens. Só olharia o Clube Petlove se já fosse membro, porque a economia de um item não paga a mensalidade.",
+      "links": [
+        {
+          "label": "Ir para a Petz",
+          "href": "https://petz.com.br/parceiro/emcasa",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Petz",
+          "href": "/cupons/petz"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Ele só vale na Petz, no site e no app, e não na Petlove.",
         "O cupom da Petz vale na Petlove? Não. O EMCASA é desconto da Petz e só entra na sacola da Petz, no site e no app.",
         "A Petz cobre o preço da Petlove? Só nas lojas físicas, pelo Pesquise Lá, Compre Aqui, que não vale para serviços nem para assinatura e não soma com outros descontos.",
-        "Qual tem frete grátis mais baixo? Para quem é do Clube Petlove, a entrega padrão grátis pode não ter mínimo ou começar em R$ 99, conforme a área, contra os R$ 199 da Petz no Sul e no Sudeste. Fora do clube, a política lida da Petlove não informa mínimo, então não dá para dizer qual é menor.",
+        "Qual tem frete grátis mais baixo? Para quem é do Clube Petlove, a entrega padrão grátis pode não ter mínimo ou ter um mínimo menor que o da Petz no Sul e no Sudeste, conforme a área. Fora do clube, a política lida da Petlove não informa mínimo, então não dá para dizer qual é menor.",
         "A Petlove tem loja física? Sim, 10 lojas com clique e retire. A página lida não informou prazo nem custo da retirada."
       ]
     }
@@ -223,7 +239,6 @@
   "coupon": "EMCASA",
   "affiliate": "petz",
   "editorialNote": "Preços lidos nas páginas das duas lojas, no mesmo dia e no mesmo CEP, sem finalizar a compra e sem uso dos produtos. Podemos receber comissão pelo cupom da Petz.",
-  "emphasis": "Preço de campanha: confira na sua cesta antes de pagar.",
   "relatedArticles": [
     {
       "slug": "cupom-petz-como-usar"

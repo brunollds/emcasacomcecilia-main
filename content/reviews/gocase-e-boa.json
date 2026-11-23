@@ -13,6 +13,7 @@
   },
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -34,7 +35,7 @@
     "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
     "sponsored": true
   },
-  "editorialNote": "Este guia usa as especificações da Gocase. Somos afiliados da marca e podemos receber comissão pelo cupom e pelo link.",
+  "editorialNote": "Dados das fichas da loja. Somos afiliados da Gocase e podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "cupom-gocase-como-usar"
@@ -101,15 +102,17 @@
         ]
       },
       "postParagraphs": [
-        "Se o nome do produto trouxer “+ Ebook”, é um kit. A Gocase informa que envia o e-book ao e-mail cadastrado após a emissão da nota fiscal. A página não informa o tema."
+        "Se o nome do produto trouxer “+ Ebook”, é um kit. A Gocase informa que envia o e-book ao e-mail cadastrado após a emissão da nota fiscal. A página não informa o tema.",
+        "Na leitura de 22/11, a Fresh de 650 ml saía por R$ 119,90 na maioria das cores e por R$ 99,90 na Melancia e na Amarela; a Urban, por R$ 89,90, e o Life de 880 ml, por R$ 99,90."
       ],
       "images": [
         {
-          "src": "/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
-          "alt": "Garrafa Térmica Fresh da Gocase em foto oficial da loja",
-          "caption": "Foto da loja.",
+          "src": "/images/reviews/gocase/gocase-garrafa-fresh-650-quadrada.webp",
+          "alt": "Garrafa Térmica Fresh de 650 ml da Gocase, branca, em foto oficial da loja",
+          "caption": "Fresh de 650 ml. Foto da loja.",
+          "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709",
           "objectFit": "contain",
-          "aspectRatio": 0.5
+          "aspectRatio": 1
         }
       ],
       "links": [
@@ -128,14 +131,20 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/gocase/gocase-copo-life-oficial.webp",
-          "alt": "Copo Térmico Life da Gocase em foto oficial da loja",
-          "caption": "Foto da loja.",
+          "src": "/images/reviews/gocase/gocase-copo-life-quadrado.webp",
+          "alt": "Copo Térmico Life da Gocase, branco, com alça e tampa com canudo, em foto oficial da loja",
+          "caption": "Copo Térmico Life. Foto da loja.",
+          "href": "https://www.gocase.com.br/copo-termico-life-ebook-clear/p/8747",
           "objectFit": "contain",
-          "aspectRatio": 0.6689
+          "aspectRatio": 1
         }
       ],
       "links": [
+        {
+          "label": "Ver a Garrafa Urban Futurist na Gocase",
+          "href": "https://www.gocase.com.br/garrafa-termica-urban-futurist/p/5523",
+          "sponsored": true
+        },
         {
           "label": "Ver o Copo Life na Gocase",
           "href": "https://www.gocase.com.br/copo-termico-life-ebook-clear/p/8747",
@@ -180,11 +189,12 @@
       },
       "images": [
         {
-          "src": "/images/reviews/gocase/gocase-tote-daily-oficial.webp",
-          "alt": "Tote Daily da Gocase em foto oficial da loja",
-          "caption": "Foto da loja.",
+          "src": "/images/reviews/gocase/gocase-bolsa-joy-pro-aberta.webp",
+          "alt": "Bolsa Joy Pro da Gocase aberta, mostrando o interior, em foto oficial da loja",
+          "caption": "Joy Pro aberta. Foto da loja.",
+          "href": "https://www.gocase.com.br/bolsa-joy-pro-clear/p/5565",
           "objectFit": "contain",
-          "aspectRatio": 1.0156
+          "aspectRatio": 1
         }
       ],
       "links": [
@@ -194,10 +204,18 @@
           "sponsored": true
         },
         {
+          "label": "Ver a Tote Mini na Gocase",
+          "href": "https://www.gocase.com.br/tote-mini-clear/p/7894",
+          "sponsored": true
+        },
+        {
           "label": "Ver a Joy Pro na Gocase",
           "href": "https://www.gocase.com.br/bolsa-joy-pro-clear/p/5565",
           "sponsored": true
         }
+      ],
+      "postParagraphs": [
+        "Na loja, a Tote Mini custa R$ 149,90, a Tote Daily R$ 159,90 e a Joy Pro R$ 199,90. A Joy Pro é a que carrega mais e a que mais custa."
       ]
     },
     {
@@ -239,14 +257,24 @@
       ]
     },
     {
-      "heading": "Cupom e preços da campanha",
+      "heading": "Qual escolher e o cupom",
       "paragraphs": [
-        "O [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no pedido, para cliente novo e antigo. O quadro de preços da campanha, com o valor de cada produto e a conta com o cupom, está no guia da [Black Friday da Gocase](/reviews/black-friday-gocase), e o passo a passo, em [como usar o CECILIAA](/reviews/cupom-gocase-como-usar)."
+        "Para quem quer uma garrafa que cabe na bolsa, a Fresh de 650 ml ou a Urban; para beber de canudo, o Life; para notebook, a bolsa pelas medidas do compartimento. Capinha, só depois de confirmar o modelo do celular.",
+        "O [cupom Gocase](/cupons/gocase) CECILIAA dá 5% OFF no pedido, em todas as formas de pagamento, para cliente novo e antigo. No checkout, informe e-mail e CPF antes de digitar o código, porque sem isso o campo Tem um cupom? não aceita. Os preços da campanha estão na [Black Friday da Gocase](/reviews/black-friday-gocase), e o passo a passo, em [como usar o CECILIAA](/reviews/cupom-gocase-como-usar)."
+      ],
+      "emphasis": "Para personalizar uma garrafa ou escolher uma bolsa pelo notebook, eu começaria pela Fresh ou pela Tote Mini, conferiria a medida na ficha e usaria o CECILIAA no site oficial.",
+      "links": [
+        {
+          "label": "Ver a Garrafa Fresh na Gocase",
+          "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Gocase? O cupom da Gocase é o CECILIAA, com dois A no fim, que dá 5% OFF no site oficial, em todas as formas de pagamento, e soma com os preços da GoBlack. No checkout, informe e-mail e CPF antes de digitar o código.",
         "Quanto tempo a Fresh da Gocase mantém a bebida gelada? A Gocase informa até 24 horas para bebidas frias e até 12 horas para quentes nas condições da ficha.",
         "A Gocase tem garantia? Na Central de Ajuda, os térmicos têm um ano contra defeitos de fabricação e seis meses contra descascamento. Nas capinhas e nas bolsas, o prazo depende do defeito. Confira a cobertura do modelo que escolher.",
         "Produto personalizado da Gocase tem troca? A política da Gocase restringe a troca por arrependimento de itens com estampa, nome ou foto. Se houver defeito ou problema na entrega, acione o atendimento.",

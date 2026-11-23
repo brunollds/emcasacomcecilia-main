@@ -13,6 +13,7 @@
   },
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -34,7 +35,7 @@
     "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
     "sponsored": true
   },
-  "editorialNote": "Cupom testado no checkout do site oficial. Somos afiliados da Gocase e podemos receber comissão pelo cupom e pelo link.",
+  "editorialNote": "Cupom testado no checkout. Somos afiliados da Gocase e podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "cupom-gocase-como-usar"
@@ -46,6 +47,16 @@
       "slug": "black-friday-gocase"
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você nunca comprou na Gocase e quer 5% OFF no primeiro pedido do site oficial.",
+      "Você já é cliente: o código vale do mesmo jeito."
+    ],
+    "skipIf": [
+      "Você vai pedir capinhas no Compre 1 e Leve 2: essa oferta não soma com cupom.",
+      "Você quer poder devolver por arrependimento um item com nome, foto ou estampa: a política da loja restringe."
+    ]
+  },
   "contentSections": [
     {
       "heading": "Resposta rápida",
@@ -56,8 +67,8 @@
     {
       "heading": "Onde achar o cupom da Gocase na primeira compra",
       "paragraphs": [
-        "A Gocase é uma marca brasileira de capinhas, garrafas térmicas e bolsas, com opções de personalização. Se você ainda está decidindo se compra, veja [quem vende, como a loja entrega e como funcionam as trocas](/reviews/gocase-e-confiavel).",
-        "Copie CECILIAA na [página do cupom Gocase](/cupons/gocase). Ele dá 5% OFF no site oficial para clientes novos e antigos. Num carrinho que testamos em 19/11, os produtos passaram de R$ 379,70 para R$ 360,71 com o código."
+        "A Gocase é uma marca brasileira de capinhas, garrafas térmicas e bolsas, com opções de personalização. Se ainda está escolhendo o produto, compare tamanhos de garrafa, medidas de bolsa e linhas de capinha no [guia de produtos da Gocase](/reviews/gocase-e-boa).",
+        "Copie CECILIAA na [página do cupom Gocase](/cupons/gocase). Ele dá 5% OFF no site oficial para clientes novos e antigos. Num carrinho que testamos, os produtos passaram de R$ 379,70 para R$ 360,71 com o código."
       ],
       "images": [
         {
@@ -66,6 +77,21 @@
           "caption": "O CECILIAA aplicado no resumo do checkout, com a linha de desconto do pedido.",
           "objectFit": "contain",
           "aspectRatio": 0.65
+        },
+        {
+          "src": "/images/reviews/gocase/gocase-garrafa-urban-futurist.webp",
+          "alt": "Garrafa Térmica Urban Futurist preta da Gocase, em foto oficial da loja",
+          "caption": "Garrafa Urban de 500 ml. Foto da loja.",
+          "href": "https://www.gocase.com.br/garrafa-termica-urban-futurist/p/5523",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a Garrafa Urban Futurist na Gocase",
+          "href": "https://www.gocase.com.br/garrafa-termica-urban-futurist/p/5523",
+          "sponsored": true
         }
       ]
     },
@@ -84,28 +110,6 @@
       ]
     },
     {
-      "heading": "Por onde começar",
-      "paragraphs": [
-        "Se ainda estiver escolhendo, compare os tamanhos das garrafas, as medidas das bolsas e as linhas de capinhas no [guia de produtos da Gocase](/reviews/gocase-e-boa)."
-      ],
-      "links": [
-        {
-          "label": "Ver a Garrafa Térmica Fresh + Ebook Clear na Gocase",
-          "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709",
-          "sponsored": true
-        }
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
-          "alt": "Garrafa Térmica Fresh da Gocase em foto oficial da loja",
-          "caption": "Foto da loja.",
-          "objectFit": "contain",
-          "aspectRatio": 0.5
-        }
-      ]
-    },
-    {
       "heading": "Como aplicar o cupom",
       "paragraphs": [
         "O campo do cupom fica no resumo do pedido. Para ver o teste com a tela do desconto, consulte o [passo a passo do CECILIAA](/reviews/cupom-gocase-como-usar)."
@@ -114,15 +118,26 @@
         "No carrinho, clique em “Finalizar compra” e informe e-mail e CPF.",
         "Cole CECILIAA no campo “Tem um cupom?” e clique em “Aplicar”.",
         "Confira a linha “Desconto (CECILIAA)” no resumo antes de pagar."
+      ]
+    },
+    {
+      "heading": "Vale usar o CECILIAA na primeira compra?",
+      "paragraphs": [
+        "O código dá 5% OFF no site oficial também para quem já comprou, e nos nossos testes entrou sobre preços de Black Friday. Antes de pagar, vale conferir o nome, a foto ou a estampa, porque a devolução por arrependimento de item personalizado é restrita."
       ],
-      "postParagraphs": [
-        "Para os preços da campanha e a conta com o cupom, veja [Black Friday na Gocase](/reviews/black-friday-gocase)."
+      "emphasis": "Na primeira compra, eu usaria o CECILIAA no site oficial, depois de informar e-mail e CPF, e só personalizaria nome ou estampa depois de conferir tudo.",
+      "links": [
+        {
+          "label": "Ver a Garrafa Térmica Fresh + Ebook Clear na Gocase",
+          "href": "https://www.gocase.com.br/garrafa-termica-fresh-ebook-clear/p/5709",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o desconto na primeira compra da Gocase? O cupom CECILIAA dá 5% OFF no site oficial. Depois de informar e-mail e CPF no checkout, aplique o código em “Tem um cupom?”.",
+        "Qual é o cupom da Gocase? O cupom da Gocase é o CECILIAA, com dois A no fim, que dá 5% OFF no site oficial, em todas as formas de pagamento, e soma com os preços da GoBlack. No checkout, informe e-mail e CPF antes de digitar o código.",
         "O cupom Gocase vale para quem já comprou? Sim. O CECILIAA dá 5% OFF no site oficial para clientes novos e antigos.",
         "A primeira compra da Gocase tem frete grátis? O frete grátis da entrega Normal segue a regra para o CEP e o valor do pedido depois dos descontos. Simule com seu CEP e confira o total depois de aplicar CECILIAA.",
         "O cupom Gocase soma com a Black Friday? Nos nossos testes, os 5% do CECILIAA entraram sobre preços de Black Friday. O regulamento do Compre 1 e Leve 2 das capinhas exclui o uso de cupons nessa oferta."

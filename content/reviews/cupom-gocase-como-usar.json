@@ -13,6 +13,7 @@
   },
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -34,7 +35,7 @@
     "url": "https://gocase.gogroup.com.br/emcasacomcecilia",
     "sponsored": true
   },
-  "editorialNote": "Cupom testado no checkout do site oficial. Somos afiliados da Gocase e podemos receber comissão pelo cupom e pelo link.",
+  "editorialNote": "Cupom testado no checkout. Somos afiliados da Gocase e podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "black-friday-gocase"
@@ -46,6 +47,16 @@
       "slug": "gocase-e-confiavel"
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você vai comprar no site oficial da Gocase e quer 5% a menos, mesmo em produto que já está em promoção.",
+      "Você é cliente novo ou antigo: o código vale para os dois."
+    ],
+    "skipIf": [
+      "Seu pedido é de capinhas no Compre 1 e Leve 2: essa oferta não soma com cupom.",
+      "Você não quer informar e-mail e CPF antes de pagar: sem isso o campo do cupom não aceita o código."
+    ]
+  },
   "contentSections": [
     {
       "heading": "Resposta rápida",
@@ -77,7 +88,7 @@
     {
       "heading": "Quanto o CECILIAA descontou nos nossos carrinhos",
       "paragraphs": [
-        "Testamos três carrinhos em 19/11. O CECILIAA tirou 5% do valor dos produtos em todos eles."
+        "Testamos três carrinhos. O CECILIAA tirou 5% do valor dos produtos em todos eles."
       ],
       "comparisonTable": {
         "caption": "Carrinhos testados, com 5% sobre o total dos produtos",
@@ -95,7 +106,7 @@
             "R$ 750,12"
           ],
           [
-            "Dois Copos Térmicos Moove a preço cheio e a Tote Mini em promoção",
+            "Dois [Copos Térmicos Moove](https://www.gocase.com.br/copo-termico-moove-clear/p/14346) a preço cheio e a [Tote Mini](https://www.gocase.com.br/tote-mini-clear/p/7894) em promoção",
             "R$ 379,70",
             "− R$ 18,99",
             "R$ 360,71"
@@ -110,6 +121,16 @@
       },
       "postParagraphs": [
         "No seu pedido, vale o que aparece na linha Desconto (CECILIAA) do checkout."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/gocase/gocase-copo-termico-moove.webp",
+          "alt": "Copo Térmico Moove Clear da Gocase, em foto oficial da loja",
+          "caption": "Copo Térmico Moove, um dos itens do segundo carrinho. Foto da loja.",
+          "href": "https://www.gocase.com.br/copo-termico-moove-clear/p/14346",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       ]
     },
     {
@@ -139,12 +160,27 @@
         "**A linha de desconto.** Ela aparece no resumo do pedido, como Desconto (CECILIAA), quando o cupom entra."
       ],
       "postParagraphs": [
-        "Confira as [condições do cupom Gocase](/cupons/gocase). Se é seu primeiro pedido, veja também [quem vende, como a loja entrega e como funcionam as trocas](/reviews/gocase-e-confiavel)."
+        "Se o desconto continuar sem aparecer, fale com o atendimento da loja antes de pagar."
+      ]
+    },
+    {
+      "heading": "Vale usar o CECILIAA?",
+      "paragraphs": [
+        "Nos três carrinhos, o código deu 5% sobre os produtos, inclusive sobre preços da GoBlack e sobre uma bolsa em promoção. A exceção é o Compre 1 e Leve 2 das capinhas, que não soma com cupom, e o desconto só entra depois de e-mail e CPF no checkout."
+      ],
+      "emphasis": "Para garrafa, copo ou bolsa, eu usaria o CECILIAA em todo pedido do site oficial, deixaria de fora o Compre 1 e Leve 2 das capinhas e conferiria a linha Desconto (CECILIAA) antes de pagar.",
+      "links": [
+        {
+          "label": "Ver o Copo Térmico Moove na Gocase",
+          "href": "https://www.gocase.com.br/copo-termico-moove-clear/p/14346",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Gocase? O cupom da Gocase é o CECILIAA, com dois A no fim, que dá 5% OFF no site oficial, em todas as formas de pagamento, e soma com os preços da GoBlack. No checkout, informe e-mail e CPF antes de digitar o código.",
         "Onde coloco o cupom na Gocase? Clique em “Finalizar compra”, informe e-mail e CPF e cole CECILIAA em “Tem um cupom?”. Clique em “Aplicar” e confira os 5% no resumo do pedido.",
         "O cupom Gocase soma com a Black Friday? Nos nossos testes, sim: os 5% entraram sobre produtos da GoBlack e sobre uma bolsa em promoção. A promoção de capinhas Compre 1 e Leve 2 fica de fora, pela regra da loja.",
         "O cupom vale para quem já comprou? Sim. O CECILIAA dá 5% OFF no site oficial para cliente novo e antigo.",

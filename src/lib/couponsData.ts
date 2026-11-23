@@ -1060,7 +1060,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'magalu',
-    cartPrint: { article: 'cupom-magalu-em-casa-com-cecilia', src: '/images/reviews/magalu/magalu-cupom-aplicado.webp', alt: 'Campo de cupom com desconto aplicado no checkout', aspectRatio: 2.812 },
+    cartPrint: { article: 'cupom-magalu-em-casa-com-cecilia', src: '/images/reviews/magalu/magalu-cupom-aplicado.webp', alt: 'Campo de cupom com desconto aplicado na revisão do pedido', aspectRatio: 2.812 },
     brand: 'Magalu',
     officialUrl: 'https://www.magazineluiza.com.br/',
     offerUrl: 'https://www.magazinevoce.com.br/magazineemcasacomcecilia/',

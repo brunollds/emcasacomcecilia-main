@@ -18,6 +18,7 @@
   "metaDescription": "EMCASA dá 10% OFF na Petz. Veja quais peitorais têm argola frontal antipuxão, compare FlyHarness, Spike Geo e Pastel Mint com preços e medidas.",
   "publishedAt": "21 de novembro de 2026",
   "publishedAtISO": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/petz/peitoral-cachorro-que-puxa-petz-capa-v2.webp",
@@ -28,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Entre os sete peitorais analisados na Petz, apenas os quatro modelos SofterWalk da Zee.Dog trazem argola frontal no peito para inibir puxões. FlyHarness, Spike Geo e Pastel Mint prendem a guia apenas no dorso e entram como alternativas de encaixe rápido ou menor custo. Confira abaixo preços, medidas e pontos de fixação."
+        "Para cachorro que puxa, a Petz tem quatro peitorais com argola frontal no peito, todos da linha SofterWalk, da Zee.Dog. O FlyHarness é um colete de vestir rápido, e o Spike Geo e o Pastel Mint são peitorais em H para passeio tranquilo; os três prendem a guia só nas costas. Abaixo, preços, medidas e onde a guia prende."
       ]
     },
     {
@@ -340,17 +341,30 @@
       "heading": "Qual peitoral escolher",
       "paragraphs": [
         "Se a prioridade é ter argola frontal no peito para ajudar no controle dos puxões, escolha dentro da linha SofterWalk pela tabela do modelo: Gotham, H3D Fly e Voyage empatam no preço, enquanto o Nox custa R$ 20 a mais na vitrine ou R$ 18 a mais na simulação com 10% para os dois.",
-        "Se o seu cachorro já anda sem puxar e você quer vestir em segundos com alça superior e faixa refletiva, o FlyHarness Gotham atende melhor, embora seja o mais caro da tabela. Já para orçamento enxuto ou cão em crescimento sem puxão intenso, o Spike Geo e o Pastel Mint entregam regulagem em H por menos de um terço do valor."
+        "Se o seu cachorro já anda sem puxar e você quer vestir em segundos com alça superior e faixa refletiva, o FlyHarness Gotham atende melhor, embora seja o mais caro da tabela. Já para orçamento enxuto ou cão em crescimento sem puxão intenso, o Spike Geo e o Pastel Mint entregam regulagem em H por menos de um terço do valor.",
+        "O botão desta página abre a loja da Cecília na Petz (petz.com.br/parceiro/emcasa), mas não aplica o EMCASA sozinho: cole o código no campo “Digite seu cupom” da sacola. Os preços 10% menores que aparecem nos produtos são os de assinante."
+      ],
+      "emphasis": "Para um cachorro que puxa, eu escolheria um SofterWalk com a guia presa na argola do peito, pela tabela do modelo; o FlyHarness e os peitorais em H eu deixaria para o cão que já anda sem puxar.",
+      "links": [
+        {
+          "label": "Ir para a Petz",
+          "href": "https://petz.com.br/parceiro/emcasa",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Petz",
+          "href": "/cupons/petz"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. A sacola fica com o maior desconto por item, sem somar percentuais: o EMCASA reduz 10% nos modelos sem desconto maior, e em promoções acima disso, como o Pastel Mint, vale o preço promocional da página.",
         "Quais peitorais da lista têm argola frontal no peito? Apenas os quatro modelos SofterWalk da Zee.Dog (Gotham, Nox, H3D Fly e Voyage) contam com argola peitoral além da argola nas costas.",
         "O FlyHarness Gotham é peitoral antipuxão? Não pela fixação da guia: ele traz apenas argola dorsal e alça superior de controle, sem argola no peito.",
         "O Spike Geo e o Pastel Mint têm duas argolas para antipuxão? As duas argolas desses modelos em H ficam na tira do dorso, próximas ao pescoço e à cintura, sem encaixe frontal no peito.",
-        "Por que as medidas do diagrama da Zee.Dog diferem das do Gotham na Petz? O diagrama oficial usa as medidas ilustrativas do M daquele catálogo, enquanto na Petz o Gotham e o Nox usam grade clássica menor; confira sempre a tabela de texto do modelo escolhido.",
-        "O cupom EMCASA funciona em todos os peitorais? A sacola da Petz fica com o maior desconto por item, sem somar percentuais: o EMCASA reduz 10% nos modelos sem desconto maior, enquanto em promoções acima disso, como o Pastel Mint, vale o preço promocional da página."
+        "Por que as medidas do diagrama da Zee.Dog diferem das do Gotham na Petz? O diagrama oficial usa as medidas ilustrativas do M daquele catálogo, enquanto na Petz o Gotham e o Nox usam grade clássica menor; confira sempre a tabela de texto do modelo escolhido."
       ]
     }
   ],

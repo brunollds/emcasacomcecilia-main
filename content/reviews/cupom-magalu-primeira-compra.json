@@ -17,7 +17,7 @@
   "metaDescription": "10EMCASACOMCECILIA dá R$ 10 a partir de R$ 499,90, em itens vendidos e entregues pelo Magalu, na loja Magazine Você da Cecília pelo navegador.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/magalu/cupom-magalu-primeira-compra-capa-v2.webp",
@@ -34,10 +34,13 @@
   },
   "coupon": "10EMCASACOMCECILIA",
   "affiliate": "magalu",
-  "editorialNote": "Este artigo faz parte da parceria entre o blog Em Casa com Cecília e o Magazine Você, o programa de influenciadores do Magalu. A compra pela loja pode gerar comissão ao blog, sem custo extra para você; o desconto sai dessa comissão.",
+  "editorialNote": "Podemos receber comissão pelas compras na loja Magazine Você da Cecília, do Magalu.",
   "relatedArticles": [
     {
       "slug": "cupom-magalu-em-casa-com-cecilia"
+    },
+    {
+      "slug": "black-friday-magalu"
     },
     {
       "slug": "magazine-voce-e-confiavel"
@@ -47,21 +50,83 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na primeira compra, use 10EMCASACOMCECILIA para 10 reais de desconto a partir de 499,90 reais, na loja Magazine Você da Cecília. Os códigos têm outras faixas e valem só pelo navegador, em produtos vendidos e entregues pelo Magalu. Também servem para quem já comprou; não funcionam no app."
+        "Na primeira compra, use o 10EMCASACOMCECILIA, a primeira de dez faixas de desconto fixo, na loja Magazine Você da Cecília. Quanto maior o carrinho, maior a faixa, até o 100EMCASACOMCECILIA. Os códigos valem só pelo navegador, em produtos vendidos e entregues pelo Magalu, e também para quem já comprou; no app, não funcionam."
       ]
     },
     {
       "heading": "Cupom Magalu primeira compra: qual código usar",
       "paragraphs": [
-        "O Magalu reúne produtos próprios e de lojistas parceiros. Os códigos deste guia são da loja Magazine Você da Cecília, que faz parte do programa de influenciadores do Magalu e é acessada pelo navegador. Veja [Magazine Você é confiável?](/reviews/magazine-voce-e-confiavel) para entender quem vende, cobra e entrega.",
-        "Use o código da faixa do seu carrinho. São dez, de 10EMCASACOMCECILIA (R$ 10 OFF em compras a partir de R$ 499,90) a 100EMCASACOMCECILIA (R$ 100 OFF a partir de R$ 4.999,90). Vale o da maior faixa que o carrinho alcançar.",
-        "O número na frente do código é o desconto em reais, não um percentual. A lista das dez faixas está na página do [cupom Magalu](/cupons/magalu)."
-      ]
+        "O Magalu reúne produtos próprios e de lojistas parceiros. Os códigos deste guia são da loja Magazine Você da Cecília, que faz parte do programa de influenciadores do Magalu e é acessada pelo navegador.",
+        "Use o código da faixa do seu carrinho. São dez, de 10EMCASACOMCECILIA (R$ 10 OFF em compras a partir de R$ 499,90) a 100EMCASACOMCECILIA (R$ 100 OFF a partir de R$ 4.999,90). Vale o da maior faixa que o carrinho alcançar, como mostra a tabela.",
+        "O número na frente do código é o desconto em reais, não um percentual. A página do [cupom Magalu](/cupons/magalu) traz a lista atualizada das faixas."
+      ],
+      "comparisonTable": {
+        "caption": "Códigos da Cecília na loja Magazine Você. O desconto vale nos produtos, não no frete.",
+        "headers": [
+          "Código",
+          "Desconto",
+          "Compra mínima"
+        ],
+        "rows": [
+          [
+            "10EMCASACOMCECILIA",
+            "R$ 10 OFF",
+            "R$ 499,90"
+          ],
+          [
+            "20EMCASACOMCECILIA",
+            "R$ 20 OFF",
+            "R$ 999,90"
+          ],
+          [
+            "30EMCASACOMCECILIA",
+            "R$ 30 OFF",
+            "R$ 1.499,90"
+          ],
+          [
+            "40EMCASACOMCECILIA",
+            "R$ 40 OFF",
+            "R$ 1.999,90"
+          ],
+          [
+            "50EMCASACOMCECILIA",
+            "R$ 50 OFF",
+            "R$ 2.499,90"
+          ],
+          [
+            "60EMCASACOMCECILIA",
+            "R$ 60 OFF",
+            "R$ 2.999,90"
+          ],
+          [
+            "70EMCASACOMCECILIA",
+            "R$ 70 OFF",
+            "R$ 3.499,90"
+          ],
+          [
+            "80EMCASACOMCECILIA",
+            "R$ 80 OFF",
+            "R$ 3.999,90"
+          ],
+          [
+            "90EMCASACOMCECILIA",
+            "R$ 90 OFF",
+            "R$ 4.499,90"
+          ],
+          [
+            "100EMCASACOMCECILIA",
+            "R$ 100 OFF",
+            "R$ 4.999,90"
+          ]
+        ]
+      }
     },
     {
       "heading": "Navegador ou aplicativo",
       "paragraphs": [
-        "Os códigos só são aceitos pelo navegador, do celular ou do computador, na loja Magazine Você da Cecília. No aplicativo do Magalu, o código não é aplicado."
+        "Os códigos só são aceitos pelo navegador, do celular ou do computador, na loja Magazine Você da Cecília. No aplicativo do Magalu, o código não é aplicado.",
+        "Isso vale também para quem já tem o app instalado: abra a vitrine da Cecília, em magazinevoce.com.br/magazineemcasacomcecilia, pelo navegador.",
+        "A sacola da vitrine não tem campo de cupom. O campo aparece na etapa de pagamento, depois de entrar na conta Magalu e escolher a entrega."
       ]
     },
     {
@@ -82,18 +147,20 @@
     {
       "heading": "E para quem já comprou?",
       "paragraphs": [
-        "Vale do mesmo jeito: a mesma conta e o mesmo código por faixa. Quem já comprou na loja usa de novo o código que o carrinho alcançar."
+        "Vale do mesmo jeito: a mesma conta e o mesmo código por faixa. Quem já comprou na loja usa de novo o código que o carrinho alcançar.",
+        "Não existe código só de primeira compra: o desconto depende do valor do carrinho, não do histórico da conta. Um carrinho de R$ 1.200 usa o 20EMCASACOMCECILIA, tanto para quem compra pela primeira vez quanto para quem já comprou dezenas de vezes.",
+        "Vale um código por pedido. Se o carrinho tem itens que alcançam mais de uma faixa, use o da maior."
       ]
     },
     {
       "heading": "Onde colar o código",
       "paragraphs": [
-        "O código vai no checkout da loja Magazine Você da Cecília:"
+        "O código vai na etapa de pagamento da compra feita na loja Magazine Você da Cecília:"
       ],
       "bullets": [
-        "Abra a loja pelo navegador e entre com a sua conta Magalu.",
-        "Monte o carrinho com produtos vendidos e entregues pelo Magalu.",
-        "No checkout, digite o código da sua faixa no campo de cupom e confira o desconto no resumo antes de finalizar."
+        "Abra a loja pelo navegador e monte o carrinho com produtos vendidos e entregues pelo Magalu.",
+        "Siga para o fechamento, entre com a sua conta Magalu e escolha a entrega.",
+        "Na etapa de pagamento, digite o código da sua faixa no campo de cupom e confira o desconto no resumo antes de finalizar."
       ],
       "postParagraphs": [
         "O passo a passo com as telas está em [como usar o cupom Magalu da Cecília](/reviews/cupom-magalu-em-casa-com-cecilia)."
@@ -105,13 +172,37 @@
       "imageAspectRatio": 2.812
     },
     {
+      "heading": "Vale usar o código na primeira compra?",
+      "paragraphs": [
+        "Em resumo: não há código especial de primeira compra, há dez faixas por valor de carrinho, e todas valem para cliente novo e antigo. O que decide o desconto é o total em produtos vendidos e entregues pelo Magalu, e o que faz o código falhar é abrir o app em vez do navegador."
+      ],
+      "emphasis": "Para quem vai comprar no Magalu pela primeira vez, eu abriria a vitrine da Cecília pelo navegador, juntaria o que já estava na lista para alcançar a faixa seguinte e só confirmaria o pedido depois de ver o desconto no resumo da etapa de pagamento.",
+      "links": [
+        {
+          "label": "Ir para a loja Magazine Você da Cecília",
+          "href": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/",
+          "sponsored": true
+        }
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Como conseguir desconto na primeira compra no Magalu? Na loja Magazine Você da Cecília, pelo navegador, o 10EMCASACOMCECILIA dá R$ 10 de desconto em compras a partir de R$ 499,90, em produtos vendidos e entregues pelo Magalu. Há outras faixas, até R$ 100; os códigos também valem para quem já comprou e não funcionam no app.",
+        "Qual é o cupom do Magalu? Na loja Magazine Você da Cecília, pelo navegador, os códigos vão de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, de 10 a 100 reais de desconto conforme o valor do carrinho, em produtos vendidos e entregues pelo Magalu. Valem na primeira compra e nas seguintes, e não funcionam no app.",
         "O cupom Magalu vale no app? Não. Os códigos da Cecília valem só pelo navegador, na loja Magazine Você da Cecília.",
         "Preciso criar uma conta nova? Não. Você entra com a sua conta Magalu de sempre.",
         "O cupom dá frete grátis? Não. O desconto entra só no valor dos produtos, e o frete é calculado à parte."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "É a sua primeira compra no Magalu, ou já comprou antes, e o carrinho passa do mínimo da primeira faixa.",
+      "Compra pelo navegador, na vitrine Magazine Você da Cecília, em item vendido e entregue pelo Magalu."
+    ],
+    "skipIf": [
+      "Vai comprar pelo app do Magalu: o código não é aplicado lá.",
+      "O item é de lojista parceiro, ou você espera um percentual de desconto: o número do código é um valor fixo."
+    ]
+  }
 }

@@ -17,6 +17,7 @@
   "metaDescription": "Com o código EMCASA, a Petz dá 10% OFF no site e no app. Comparamos o mesmo produto com a Cobasi, com frete, retirada e assinatura.",
   "publishedAt": "11 de novembro de 2026",
   "publishedAtISO": "2026-11-11",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/petz/petz-ou-cobasi-capa-v2.webp",
@@ -34,13 +35,7 @@
       "heading": "Petz e Cobasi são a mesma empresa?",
       "paragraphs": [
         "Sim, no mesmo grupo: o Grupo Petz Cobasi. As marcas, os sites e os preços seguem separados. O [cupom Petz](/cupons/petz) só vale nas compras da Petz no site e no app, e não funciona na Cobasi.",
-        "Os preços podem ser diferentes em cada loja. Abaixo, comparamos produtos iguais, antes do frete."
-      ]
-    },
-    {
-      "heading": "O que entra nos preços",
-      "paragraphs": [
-        "Na Petz, os preços abaixo consideram o EMCASA sobre o preço cheio ou a oferta quando ela dá mais desconto. Esse comportamento foi observado na sacola, mas nem todos os produtos da tabela foram testados nela. Na Cobasi, usamos o preço da página, sem cupom. O frete e as taxas são comparados separadamente para o CEP de São Paulo da simulação. Só entra o mesmo item, com a mesma marca, linha e peso; produtos sem par certo nas duas lojas ficaram de fora."
+        "Abaixo, comparamos o mesmo item, com a mesma marca, linha e peso, antes do frete: na Petz, com o EMCASA ou a oferta quando ela dá mais desconto (a regra foi vista na sacola, mas nem todos os itens foram testados nela); na Cobasi, pelo preço da página, sem cupom."
       ]
     },
     {
@@ -57,17 +52,17 @@
         ],
         "rows": [
           [
-            "Golden Fórmula Cães Adultos Frango e Arroz, 15 kg",
+            "[Golden Fórmula Cães Adultos Frango e Arroz, 15 kg](https://www.petz.com.br/produto/racao-golden-formula-para-caes-adultos-sabor-frango-e-arroz-71440)",
             "R$ 161,99 (EMCASA)",
             "R$ 179,99"
           ],
           [
-            "Premier Fórmula Cães Adultos Raças Médias Frango e Mandioca, 15 kg",
+            "[Premier Fórmula Cães Adultos Raças Médias Frango e Mandioca, 15 kg](https://www.petz.com.br/produto/racao-premier-formula-para-caes-adultos-de-racas-medias-sabor-frango-e-mandioca-71366)",
             "R$ 233,99 (EMCASA)",
             "R$ 259,99"
           ],
           [
-            "Royal Canin Medium Adult, 12 kg",
+            "[Royal Canin Medium Adult, 12 kg](https://www.petz.com.br/produto/racao-seca-royal-canin-medium-adult-para-caes-adultos-de-porte-medio-200729)",
             "R$ 251,19 (oferta, de R$ 313,99)",
             "R$ 238,90 (de R$ 313,99)"
           ]
@@ -91,12 +86,12 @@
         ],
         "rows": [
           [
-            "Golden Gatos Adultos Castrados Frango, 10,1 kg",
+            "[Golden Gatos Adultos Castrados Frango, 10,1 kg](https://www.petz.com.br/produto/racao-golden-para-gatos-adultos-castrados-sabor-frango-71385)",
             "R$ 161,99 (EMCASA)",
             "R$ 179,99"
           ],
           [
-            "Whiskas Gatos Adultos Castrados Carne, 10,1 kg",
+            "[Whiskas Gatos Adultos Castrados Carne, 10,1 kg](https://www.petz.com.br/produto/racao-whiskas-para-gatos-adultos-castrados-sabor-carne-72762)",
             "R$ 161,09 (EMCASA)",
             "R$ 178,99"
           ]
@@ -110,7 +105,8 @@
           "src": "/images/reviews/petz/petz-ou-cobasi-golden-gatos-castrados.webp",
           "alt": "Pacote da ração Golden Gatos Adultos Castrados Frango, em foto oficial da página do produto na Petz",
           "caption": "Golden Gatos Adultos Castrados Frango, a primeira ração de gato da tabela. Foto: Petz.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.petz.com.br/produto/racao-golden-para-gatos-adultos-castrados-sabor-frango-71385"
         }
       ]
     },
@@ -128,7 +124,7 @@
         ],
         "rows": [
           [
-            "Pipicat Classic, 4 kg",
+            "[Pipicat Classic, 4 kg](https://www.petz.com.br/produto/areia-higienica-pipicat-classic-para-gatos-79747?id=79747)",
             "R$ 14,99 (oferta, de R$ 19,99)",
             "R$ 14,99 (de R$ 19,99)"
           ]
@@ -157,7 +153,7 @@
             "R$ 168,50 (de R$ 280,99)"
           ],
           [
-            "Simparic Trio 24 mg, cães de 10,1 a 20 kg, 1 comprimido",
+            "[Simparic Trio 24 mg, cães de 10,1 a 20 kg, 1 comprimido](https://www.petz.com.br/produto/antipulgas-simparic-trio-24-mg-para-caes-209923)",
             "R$ 104,29 (oferta, de R$ 148,99)",
             "R$ 96,50 (de R$ 148,99)"
           ],
@@ -195,19 +191,32 @@
     {
       "heading": "Reputação no Reclame Aqui",
       "paragraphs": [
-        "Nos últimos seis meses, Petz - Loja Online e Cobasi - Loja Online tinham nota 8,3 no Reclame Aqui. O perfil da Petz mostrava reputação Ótima; o da Cobasi, selo RA1000. Para o histórico da Petz, veja [Petz e o Reclame Aqui](/reviews/petz-reclame-aqui-nota-reputacao)."
+        "Nos últimos seis meses, Petz - Loja Online e Cobasi - Loja Online tinham nota 8,3 no Reclame Aqui. O perfil da Petz mostrava reputação Ótima; o da Cobasi, selo RA1000."
       ]
     },
     {
       "heading": "Qual escolher",
       "paragraphs": [
-        "Na seleção comparada, as quatro rações sem oferta ficaram 10% abaixo na Petz com EMCASA em relação ao preço de página da Cobasi. Em outros itens, houve vantagens para cada lado e um empate. Antes de comprar, confira seus produtos, descontos disponíveis, frete e taxa de serviço: o total pode mudar a escolha."
+        "Na seleção comparada, as quatro rações sem oferta ficaram 10% abaixo na Petz com EMCASA em relação ao preço de página da Cobasi. Em outros itens, houve vantagens para cada lado e um empate. Antes de comprar, confira seus produtos, descontos disponíveis, frete e taxa de serviço: o total pode mudar a escolha.",
+        "O botão desta página abre a loja da Cecília na Petz (petz.com.br/parceiro/emcasa), mas não aplica o EMCASA sozinho: cole o código no campo “Digite seu cupom” da sacola. Os preços 10% menores que aparecem nos produtos são os de assinante."
       ],
-      "emphasis": "Compare o total final no carrinho antes de pagar."
+      "emphasis": "Para gastar menos, eu começaria pelas rações sem oferta: Golden e Premier de 15 kg ficaram 10% abaixo na Petz com o EMCASA. No Royal Canin Medium, no Bravecto e no Simparic, eu olharia a Cobasi antes de pagar.",
+      "links": [
+        {
+          "label": "Ir para a Petz",
+          "href": "https://petz.com.br/parceiro/emcasa",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Petz",
+          "href": "/cupons/petz"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Na Petz, ele não entra por cima de uma oferta maior nem na assinatura, e não vale na Cobasi.",
         "Petz e Cobasi são a mesma empresa? Fazem parte do mesmo grupo, o Grupo Petz Cobasi, mas as marcas, os sites e os preços seguem separados.",
         "Qual tem frete grátis mais baixo? Depende da região, do produto e da modalidade. A política da Cobasi informa mínimo acima de R$ 149 no Sul, Sudeste e Centro-Oeste, com restrição regional para areia; para a Econômica em São Paulo e no Rio, informa acima de R$ 199. Na Petz, a entrega padrão tem frete grátis acima de R$ 199 no Sul e no Sudeste. Confira as opções para seu CEP.",
         "O cupom da Petz vale na Cobasi? Não. O EMCASA só vale nas compras da Petz no site e no app.",

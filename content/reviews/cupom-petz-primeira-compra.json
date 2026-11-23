@@ -17,7 +17,7 @@
   "metaDescription": "EMCASA dá 10% OFF no site e no app da Petz na primeira compra e nas seguintes. Em produto já em oferta, a sacola fica com o desconto maior.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/petz/cupom-petz-primeira-compra-capa-v2.webp",
@@ -34,19 +34,19 @@
   },
   "coupon": "EMCASA",
   "affiliate": "petz",
-  "editorialNote": "Cupom testado na sacola do site da Petz, sem uso dos produtos. Podemos receber comissão pelo EMCASA.",
+  "editorialNote": "Cupom testado na sacola, sem uso dos produtos. Podemos receber comissão pelo EMCASA.",
   "relatedArticles": [
     {
       "slug": "cupom-petz-como-usar"
-    },
-    {
-      "slug": "petz-e-confiavel"
     },
     {
       "slug": "assinatura-petz-ou-cupom"
     },
     {
       "slug": "petz-entrega-expressa-ou-retirar-na-loja"
+    },
+    {
+      "slug": "black-friday-petz"
     }
   ],
   "contentSections": [
@@ -59,8 +59,8 @@
     {
       "heading": "Cupom Petz primeira compra: qual usar",
       "paragraphs": [
-        "A Petz é uma rede de pet shops com lojas físicas, site e aplicativo, onde vende rações, itens de higiene e acessórios para animais. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Petz é confiável?](/reviews/petz-e-confiavel).",
-        "Use o EMCASA: 10% OFF nas compras no site e no aplicativo da Petz, no primeiro pedido e nos seguintes. Num item já em promoção, vale o desconto maior, não os dois.",
+        "A Petz é uma rede de pet shops com lojas físicas, site e aplicativo, onde vende rações, itens de higiene e acessórios para animais.",
+        "Use o EMCASA: 10% OFF nas compras no site e no aplicativo da Petz, no primeiro pedido e nos seguintes, para repor a ração ou a areia sem trocar de código. Num item já em promoção, vale o desconto maior, não os dois.",
         "É o [cupom Petz](/cupons/petz) da nossa parceria com a loja, testado na sacola. Ração, areia ou acessório: o código é o mesmo."
       ]
     },
@@ -82,7 +82,7 @@
     {
       "heading": "Preço cheio e promoção na mesma sacola: o que o EMCASA fez",
       "paragraphs": [
-        "No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o EMCASA entrou numa sacola com uma ração a preço cheio e dois itens da Royal Canin em promoção:"
+        "No teste do cupom, registrado na nossa página de cupom, o EMCASA entrou numa sacola com uma ração a preço cheio e dois itens da Royal Canin em promoção:"
       ],
       "comparisonTable": {
         "caption": "Três itens da mesma sacola: valores do teste, antes do frete.",
@@ -93,17 +93,17 @@
         ],
         "rows": [
           [
-            "Ração Golden, a preço cheio",
+            "[Ração Golden, a preço cheio](https://www.petz.com.br/produto/racao-golden-formula-mini-bits-para-caes-adultos-de-pequeno-porte-sabor-frango-e-arroz-71292)",
             "R$ 22,99",
             "R$ 20,69"
           ],
           [
-            "Sachê Royal Canin, em oferta (de R$ 10,99)",
+            "[Sachê Royal Canin](https://www.petz.com.br/produto/racao-umida-royal-canin-instinctive-para-gatos-adultos-acima-de-12-meses-85g-71897), em oferta (de R$ 10,99)",
             "R$ 9,90",
             "R$ 9,89"
           ],
           [
-            "Ração Royal Canin Maxi 12 kg, em oferta (de R$ 349,99)",
+            "[Ração Royal Canin Maxi 12 kg](https://www.petz.com.br/produto/racao-seca-royal-canin-maxi-adult-para-caes-adultos-de-porte-grande-12-kg-200732), em oferta (de R$ 349,99)",
             "R$ 279,99",
             "R$ 279,99"
           ]
@@ -111,14 +111,16 @@
       },
       "postParagraphs": [
         "Na Golden, os 10% entraram inteiros. No sachê, o cupom sobre o preço cheio ficou um centavo abaixo da oferta, e a sacola usou o cupom. Na Maxi, a oferta da loja era maior, e o preço não mudou.",
-        "Num teste de 12/11/2026 com um único item a preço cheio, uma cama suspensa para gatos, o código tirou os 10% do valor do produto."
+        "Num teste com um único item a preço cheio, a [cama suspensa para gatos](https://www.petz.com.br/produto/cama-suspensa-cansei-de-ser-gato-preta-de-janela-170731), o código tirou os 10% do valor do produto."
       ],
       "images": [
         {
           "src": "/images/reviews/petz/cupom-petz-primeira-compra-sache-royal-canin.webp",
           "alt": "Sachê de ração úmida Royal Canin Instinctive de 85 g, para gatos adultos, em foto oficial de frente.",
           "caption": "Sachê Royal Canin Instinctive de 85 g, um dos itens em oferta incluídos no teste do cupom. Foto: Petz.",
-          "objectFit": "square"
+          "objectFit": "contain",
+          "href": "https://www.petz.com.br/produto/racao-umida-royal-canin-instinctive-para-gatos-adultos-acima-de-12-meses-85g-71897",
+          "aspectRatio": 1
         }
       ]
     },
@@ -130,39 +132,56 @@
       ]
     },
     {
-      "heading": "E na segunda compra?",
-      "paragraphs": [
-        "O EMCASA vale de novo para quem já comprou, com os mesmos 10% e as mesmas regras. Serve para repor a ração ou a areia no pedido seguinte."
-      ]
-    },
-    {
       "heading": "Onde colar o código",
       "paragraphs": [
         "O código vai na sacola, no site ou no aplicativo:"
       ],
       "bullets": [
-        "Entre na Petz pelo botão desta página e coloque os produtos na sacola.",
-        "No campo “Digite seu cupom”, cole EMCASA e aplique.",
+        "Entre na Petz pelo botão desta página: ele abre a loja da Cecília em petz.com.br/parceiro/emcasa, mas não aplica o EMCASA sozinho. Coloque os produtos na sacola.",
+        "No campo “Digite seu cupom”, cole EMCASA e aplique. Os preços 10% menores que aparecem na página são de assinante, não do cupom.",
         "Confira a linha “Total de descontos” antes de ir para o pagamento."
       ],
       "postParagraphs": [
         "O passo a passo com as telas está em [como usar o cupom EMCASA](/reviews/cupom-petz-como-usar)."
+      ]
+    },
+    {
+      "heading": "Vale usar o EMCASA na primeira compra?",
+      "paragraphs": [
+        "Vale quando a sacola tem item a preço cheio ou com oferta abaixo de 10%: o código tira os 10% e, no Retire na Loja, soma com os 5% da retirada. Vale menos se o carrinho é todo de promoção maior ou se você já assina a Petz, porque a assinatura dá os mesmos 10% e não soma com cupom."
       ],
-      "image": "/images/reviews/petz/cupom-petz-sacola-celular-com-cupom.webp",
-      "imageAlt": "Sacola da Petz no celular com o produto, o cupom EMCASA aplicado no campo Cupom de desconto e a linha Desconto Aplicado.",
-      "imageCaption": "O EMCASA aplicado na sacola da Petz, no celular, em outro pedido de teste.",
-      "imageFit": "contain",
-      "imageAspectRatio": 1.013
+      "emphasis": "Na primeira compra na Petz, eu abriria a sacola, colaria o EMCASA e só pagaria depois de ver, na linha de descontos, qual item ficou com o cupom e qual manteve a oferta.",
+      "links": [
+        {
+          "label": "Ir para a Petz e colar o EMCASA",
+          "href": "https://petz.com.br/parceiro/emcasa",
+          "sponsored": true
+        },
+        {
+          "label": "Como usar o EMCASA na sacola",
+          "href": "/reviews/cupom-petz-como-usar"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o desconto na primeira compra na Petz? Use EMCASA para 10% de desconto no site e no app, no primeiro pedido e nos seguintes. Em item em promoção, vale o desconto maior; o cupom não acumula com a Assinatura Petz.",
+        "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Serve no primeiro pedido e nos seguintes; em item em promoção, vale o desconto maior.",
         "Qual cupom Petz vale para quem já é cliente? O mesmo EMCASA, com 10% no site e no aplicativo. Em item em promoção, a sacola mantém o desconto maior; o cupom não soma com o desconto da assinatura.",
         "O cupom Petz soma com promoção? Não. Em cada item, a sacola fica com o desconto maior: a oferta ou os 10% do código.",
         "O cupom Petz vale no aplicativo? Sim, no aplicativo e no site.",
         "O cupom Petz soma com a Assinatura Petz? Não. O desconto da assinatura não soma com cupom."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você vai fazer a primeira compra no site ou no app e a sacola tem item sem promoção ou com oferta abaixo de 10%.",
+      "Você compra avulso, sem a Assinatura Petz."
+    ],
+    "skipIf": [
+      "Você já assina a Petz: os 10% da assinatura não somam com o cupom.",
+      "O carrinho é todo de produtos com promoção acima de 10%: a oferta vale mais que o código."
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "id": 907,
   "slug": "petz-entrega-expressa-ou-retirar-na-loja",
   "title": "Entrega Expressa ou Retire na Loja na Petz: prazo, custo e desconto",
-  "seoTitle": "Petz: entrega expressa ou retirar na loja?",
+  "seoTitle": "Petz: entrega expressa, agendada ou retirar na loja?",
   "type": "Guia",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -17,6 +17,7 @@
   "metaDescription": "EMCASA dá 10% OFF na Petz e soma com os 5% da retirada na loja: até 14,5% no total. Veja o prazo e o custo da Expressa e da Agendada na sacola.",
   "publishedAt": "11 de novembro de 2026",
   "publishedAtISO": "2026-11-11",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/petz/petz-entrega-expressa-ou-retirar-na-loja-capa-v2.webp",
@@ -33,7 +34,8 @@
     {
       "heading": "As quatro formas na mesma sacola",
       "paragraphs": [
-        "O [cupom Petz](/cupons/petz) é o EMCASA. Na mesma sacola, ele funcionou com Padrão, Expressa e retirada. A Agendada apareceu entre as opções e teve o calendário consultado, mas não foi confirmada; compare o resumo completo ao selecionar sua entrega."
+        "O [cupom Petz](/cupons/petz) é o EMCASA. Na mesma sacola, ele funcionou com Padrão, Expressa e retirada. A Agendada apareceu entre as opções e teve o calendário consultado, mas não foi confirmada; compare o resumo completo ao selecionar sua entrega.",
+        "O botão desta página abre a loja da Cecília na Petz (petz.com.br/parceiro/emcasa), mas não aplica o EMCASA sozinho: cole o código no campo “Digite seu cupom” da sacola. Os preços 10% menores que aparecem nos produtos são os de assinante."
       ],
       "comparisonTable": {
         "caption": "Sacola de teste em São Paulo, acima de R$ 199 após descontos, durante a Black Friday. Produtos com EMCASA ou oferta: R$ 221,97 antes da retirada. Os valores dependem do pedido e do CEP.",
@@ -78,7 +80,8 @@
           "src": "/images/reviews/petz/petz-entrega-expressa-areia-pipicat-classic.webp",
           "alt": "Pacote da areia Pipicat Classic 4 kg, em foto oficial da página do produto na Petz",
           "caption": "Areia Pipicat Classic 4 kg, um dos três itens da sacola de teste. Foto: Petz.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.petz.com.br/produto/areia-higienica-pipicat-classic-para-gatos-79747?id=79747"
         }
       ]
     },
@@ -115,11 +118,12 @@
         "Guarde o prazo informado na compra. Se o pedido não chegar ou não for liberado para retirada na data combinada, procure o atendimento com o número do pedido. Os 28 dias para buscar só começam depois da mensagem de liberação.",
         "Se o pedido não aparecer no prazo, fale com a Petz pelo Alô Petz, (11) 3434-6980: seg a sex, 8h às 21h; sáb, 8h às 18h; dom e feriados, 9h às 16h. O atendimento inteligente fica em petz.com.br/atendimento-inteligente."
       ],
-      "emphasis": "Antes de pagar, confira na sacola o prazo e o custo da forma escolhida, com o CEP certo."
+      "emphasis": "Para a maioria dos pedidos, eu conferiria primeiro a retirada: nas lojas que liberaram em 45 minutos, ela teve o menor total. Se eu precisasse do produto em casa no mesmo dia, escolheria a Expressa e aceitaria o frete."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Petz? O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para clientes novos e antigos. Na retirada em loja, ele soma com os 5% e chega a até 14,5% no total, nos itens fora de oferta.",
         "A Petz entrega no mesmo dia? Depende do CEP. Na sacola de teste, na Av. Paulista, a Expressa mostrou “Em até 4 horas”, e a Padrão, “Até amanhã”.",
         "A Petz entrega no domingo? A Agendada ofereceu domingo no calendário consultado para o CEP do teste. Veja se a modalidade e o dia aparecem para seu endereço antes de concluir.",
         "O cupom vale na Entrega Expressa? No teste, sim: com a Expressa escolhida, o EMCASA entrou no desconto dos produtos.",
