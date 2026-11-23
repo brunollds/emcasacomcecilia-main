@@ -49993,6 +49993,113 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-creatine-300g-laranja.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-creatine-300g-laranja.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27252,
+      "sha256": "66090a54a936389cc25db759dbe894a90082ae7cf3861762a3d1b5e1c5fbf2ea",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-creatine-300g-laranja.webp",
+      "storage_filename": "black-skull-creatine-300g-laranja.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-black-skull-qual-escolher.json",
+        "content/reviews/creatina-com-sabor-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-black-skull-qual-escolher.json",
+          "line": 185,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-creatine-300g-laranja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/creatina-com-sabor-qual-escolher.json",
+          "line": 134,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-creatine-300g-laranja.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 140606,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-creatine-300g-laranja.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 143646,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-creatine-300g-laranja.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/66090a54a936389cc25db759dbe894a90082ae7cf3861762a3d1b5e1c5fbf2ea/black-skull-creatine-300g-laranja.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/66090a54a936389cc25db759dbe894a90082ae7cf3861762a3d1b5e1c5fbf2ea/black-skull-creatine-300g-laranja.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:26:06.482Z",
+      "verification_etag_or_digest": "66090a54a936389cc25db759dbe894a90082ae7cf3861762a3d1b5e1c5fbf2ea",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-creator-300g.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-creator-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25576,
+      "sha256": "ed875daac48a782293c1138573121a5927bbe79ff435cbba613f4d1c96e157c1",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-creator-300g.webp",
+      "storage_filename": "black-skull-creator-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-black-skull-qual-escolher.json",
+          "line": 144,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-creator-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 140565,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-creator-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ed875daac48a782293c1138573121a5927bbe79ff435cbba613f4d1c96e157c1/black-skull-creator-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ed875daac48a782293c1138573121a5927bbe79ff435cbba613f4d1c96e157c1/black-skull-creator-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:26:06.757Z",
+      "verification_etag_or_digest": "ed875daac48a782293c1138573121a5927bbe79ff435cbba613f4d1c96e157c1",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-creator-refil-500g-pagina-2026-10-19.webp",
       "local_url": "/images/reviews/black-skull/black-skull-creator-refil-500g-pagina-2026-10-19.webp",
       "media_kind": "image",
@@ -50317,6 +50424,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-legacy-300g.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-legacy-300g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 26872,
+      "sha256": "050ba58aa7cb9fe1165977a19ad781bf8a177a4d3922f00bbbbeef69b2736e58",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-legacy-300g.webp",
+      "storage_filename": "black-skull-legacy-300g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-black-skull.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-black-skull.json",
+          "line": 283,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-legacy-300g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 93956,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-legacy-300g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/050ba58aa7cb9fe1165977a19ad781bf8a177a4d3922f00bbbbeef69b2736e58/black-skull-legacy-300g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/050ba58aa7cb9fe1165977a19ad781bf8a177a4d3922f00bbbbeef69b2736e58/black-skull-legacy-300g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:26:07.073Z",
+      "verification_etag_or_digest": "050ba58aa7cb9fe1165977a19ad781bf8a177a4d3922f00bbbbeef69b2736e58",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-masstodon-refil-3kg.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-masstodon-refil-3kg.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 28360,
+      "sha256": "a546285dba063e018c6480ebaaf7bb11f108a4360a7d39a79a1cc6d4137a70eb",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-masstodon-refil-3kg.webp",
+      "storage_filename": "black-skull-masstodon-refil-3kg.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hipercalorico-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hipercalorico-black-skull-qual-escolher.json",
+          "line": 180,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-masstodon-refil-3kg.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 148947,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-masstodon-refil-3kg.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a546285dba063e018c6480ebaaf7bb11f108a4360a7d39a79a1cc6d4137a70eb/black-skull-masstodon-refil-3kg.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a546285dba063e018c6480ebaaf7bb11f108a4360a7d39a79a1cc6d4137a70eb/black-skull-masstodon-refil-3kg.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:26:07.398Z",
+      "verification_etag_or_digest": "a546285dba063e018c6480ebaaf7bb11f108a4360a7d39a79a1cc6d4137a70eb",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa-v2.webp",
       "local_url": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa-v2.webp",
       "media_kind": "image",
@@ -50452,6 +50651,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-27T23:59:23.891Z",
       "verification_etag_or_digest": "3290c4dcc66144777f7c8beb41cbd00f3c72c0e8fb28793f9e913e569b113d8f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-monstrous-2-7kg.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-monstrous-2-7kg.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25526,
+      "sha256": "4ad59c06f6070b1d4aecbabb1a84f11eda6eb3baf92cef98cbc68bbe506a347c",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-monstrous-2-7kg.webp",
+      "storage_filename": "black-skull-monstrous-2-7kg.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hipercalorico-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hipercalorico-black-skull-qual-escolher.json",
+          "line": 205,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-monstrous-2-7kg.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 148972,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-monstrous-2-7kg.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4ad59c06f6070b1d4aecbabb1a84f11eda6eb3baf92cef98cbc68bbe506a347c/black-skull-monstrous-2-7kg.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4ad59c06f6070b1d4aecbabb1a84f11eda6eb3baf92cef98cbc68bbe506a347c/black-skull-monstrous-2-7kg.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:26:07.704Z",
+      "verification_etag_or_digest": "4ad59c06f6070b1d4aecbabb1a84f11eda6eb3baf92cef98cbc68bbe506a347c",
       "verification_status": "verified"
     },
     {
@@ -51579,6 +51824,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/black-skull/black-skull-reclame-aqui-problemas-geral.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-reclame-aqui-problemas-geral.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15906,
+      "sha256": "28aaa33a81a519158942877223a56c7c1ae32bc1db503949d3e9667d70a35ea6",
+      "width": 627,
+      "height": 440,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-reclame-aqui-problemas-geral.webp",
+      "storage_filename": "black-skull-reclame-aqui-problemas-geral.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+          "line": 180,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-problemas-geral.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 90240,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-reclame-aqui-problemas-geral.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/28aaa33a81a519158942877223a56c7c1ae32bc1db503949d3e9667d70a35ea6/black-skull-reclame-aqui-problemas-geral.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/28aaa33a81a519158942877223a56c7c1ae32bc1db503949d3e9667d70a35ea6/black-skull-reclame-aqui-problemas-geral.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:26:07.992Z",
+      "verification_etag_or_digest": "28aaa33a81a519158942877223a56c7c1ae32bc1db503949d3e9667d70a35ea6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-skull-rodape-cnpj.webp",
       "local_url": "/images/reviews/black-skull/black-skull-rodape-cnpj.webp",
       "media_kind": "image",
@@ -51650,6 +51941,158 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T15:15:07.801Z",
       "verification_etag_or_digest": "5faa855815908dce58aee5621ec92ee6efb9a1d9faee04a28cd2040d6868a8c2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-whey-100-hd-900g-pote.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-whey-100-hd-900g-pote.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 24806,
+      "sha256": "897a30dc65421134b85b980f86dd9af36cf5a6c70272169d1a0cdc141e275628",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-whey-100-hd-900g-pote.webp",
+      "storage_filename": "black-skull-whey-100-hd-900g-pote.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-skull-mercado-livre-ou-site.json",
+        "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-skull-mercado-livre-ou-site.json",
+          "line": 211,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-whey-100-hd-900g-pote.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-skull-reclame-aqui-nota-reputacao.json",
+          "line": 236,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-whey-100-hd-900g-pote.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 90296,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-whey-100-hd-900g-pote.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 149379,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-whey-100-hd-900g-pote.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/897a30dc65421134b85b980f86dd9af36cf5a6c70272169d1a0cdc141e275628/black-skull-whey-100-hd-900g-pote.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/897a30dc65421134b85b980f86dd9af36cf5a6c70272169d1a0cdc141e275628/black-skull-whey-100-hd-900g-pote.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:26:08.318Z",
+      "verification_etag_or_digest": "897a30dc65421134b85b980f86dd9af36cf5a6c70272169d1a0cdc141e275628",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/black-skull/black-skull-whey-80-hd-refil-900g.webp",
+      "local_url": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-900g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32066,
+      "sha256": "1f3fd56c874a7874625593cabb475eb8005c6fd3e1e934eb4b4508616c4ad20d",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-skull-whey-80-hd-refil-900g.webp",
+      "storage_filename": "black-skull-whey-80-hd-refil-900g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-black-skull.json",
+        "content/reviews/black-skull-e-confiavel.json",
+        "content/reviews/cupom-black-skull-como-usar.json",
+        "content/reviews/whey-black-skull-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-black-skull.json",
+          "line": 275,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-skull-e-confiavel.json",
+          "line": 67,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-black-skull-como-usar.json",
+          "line": 143,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/whey-black-skull-qual-escolher.json",
+          "line": 143,
+          "column": 17,
+          "literal": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-900g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 89875,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-900g.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 90488,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-900g.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 93948,
+          "column": 21,
+          "literal": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-900g.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 141867,
+          "column": 19,
+          "literal": "/images/reviews/black-skull/black-skull-whey-80-hd-refil-900g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1f3fd56c874a7874625593cabb475eb8005c6fd3e1e934eb4b4508616c4ad20d/black-skull-whey-80-hd-refil-900g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1f3fd56c874a7874625593cabb475eb8005c6fd3e1e934eb4b4508616c4ad20d/black-skull-whey-80-hd-refil-900g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T02:26:08.597Z",
+      "verification_etag_or_digest": "1f3fd56c874a7874625593cabb475eb8005c6fd3e1e934eb4b4508616c4ad20d",
       "verification_status": "verified"
     },
     {
