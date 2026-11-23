@@ -147,7 +147,14 @@
       },
       "postParagraphs": [
         "A base de avaliadas é grande (228 nos 6 meses), então a porcentagem não balança com poucas reclamações. Já o total de reclamações é número absoluto: sem o total de pedidos da loja, ele não vira taxa de reclamação."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/toda-up/toda-up-reclame-aqui-6-meses-2311.webp",
+        "alt": "Painel do Reclame Aqui da Toda Up nos últimos 6 meses: reputação Ótima, nota 8,2 e 383 reclamações recebidas",
+        "caption": "Reclame Aqui, aba de 6 meses: reputação Ótima e nota 8,2.",
+        "objectFit": "contain",
+        "aspectRatio": 2.5235
+      }
     },
     {
       "heading": "O que a nota e o selo medem, e o que não medem",

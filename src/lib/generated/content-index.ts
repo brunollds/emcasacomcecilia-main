@@ -148295,7 +148295,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A base de avaliadas é grande (228 nos 6 meses), então a porcentagem não balança com poucas reclamações. Já o total de reclamações é número absoluto: sem o total de pedidos da loja, ele não vira taxa de reclamação."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/toda-up-reclame-aqui-6-meses-2311.webp",
+          "alt": "Painel do Reclame Aqui da Toda Up nos últimos 6 meses: reputação Ótima, nota 8,2 e 383 reclamações recebidas",
+          "caption": "Reclame Aqui, aba de 6 meses: reputação Ótima e nota 8,2.",
+          "objectFit": "contain",
+          "aspectRatio": 2.5235
+        }
       },
       {
         "heading": "O que a nota e o selo medem, e o que não medem",
@@ -194519,7 +194526,15 @@ export const reviewsData: unknown[] = [
             "label": "Cupom Toda Up: MAUAD",
             "href": "/cupons/toda-up"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-cinza-2311.webp",
+          "alt": "Top Faixa Cotton Up cinza, em foto oficial da Toda Up",
+          "caption": "Top Faixa Cotton Up na cor cinza. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        }
       },
       {
         "heading": "Perguntas frequentes",
@@ -194698,6 +194713,24 @@ export const reviewsData: unknown[] = [
           "O kit de 1 conjunto custa R$ 199,90. No de 3 conjuntos, R$ 499,90, cada conjunto sai por R$ 166,63, R$ 53,17 a menos do que avulso, e a economia total chega a R$ 159,50. A opção de 3 conjuntos vem em duas versões, mesma cor ou cores diferentes, pelo mesmo preço, e a calcinha pode ser a Biquíni ou a [Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-e-calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
           "Cores: Baunilha, Caramelo e Avelã. Tamanhos: P, M, G, GG e G1, o mesmo número para o top e para a calcinha. O kit é para quem veste top e calcinha no mesmo tamanho e vai usar os três conjuntos; quem usa tamanhos diferentes compra avulso. A página do top diz que ele foi feito “para os dias de lazer, para ficar em casa ou para usar com roupas casuais e esportivas”."
         ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-kit-skinup-biquini-2311.webp",
+            "alt": "Kit Top e Calcinha Biquíni Segunda Pele caramelo, em foto oficial da Toda Up",
+            "caption": "Kit SkinUp: Top Segunda Pele com calcinha biquíni. Foto: Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/kit-top-e-calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-kit-skinup-cos-alto-2311.webp",
+            "alt": "Kit Top e Calcinha Cós Alto Segunda Pele baunilha, em foto oficial da Toda Up",
+            "caption": "Kit SkinUp: Top Segunda Pele com calcinha cós alto. Foto: Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/kit-top-e-calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ],
         "styling": {
           "layout": "tabs",
           "items": [
@@ -194728,6 +194761,24 @@ export const reviewsData: unknown[] = [
           "Só o [kit Cotton Up de 3 conjuntos](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-faixa-e-calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) compensa: o de 1 conjunto economiza R$ 17,28. O Kit Top Faixa e o [Kit Top Triangular](https://todaup.com/discount/MAUAD?redirect=/products/kit-top-triangular-e-calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vêm com a Calcinha Biquíni Cotton Up, e a diferença é o decote: o Faixa é reto, de alça fina; o Triangular tem o bojo em triângulo. A loja descreve a linha como de “tecido em algodão”. Avulsos, o top custa R$ 132,90 e a calcinha R$ 39,90: R$ 172,80 o conjunto.",
           "O kit de 1 conjunto custa R$ 155,52. O de 3 conjuntos custa R$ 373,18: R$ 124,39 por conjunto, R$ 48,41 abaixo do avulso, e R$ 145,22 de economia no total, a maior porcentagem entre os kits de conjunto. Os preços são os mesmos para o Faixa e para o Triangular.",
           "Cores: Branco, Preto e Cinza, em mesma cor ou cores diferentes no kit de 3. Tamanhos: a loja só tem GG e G1 hoje; P, M e G estão esgotados em todas as cores. Quem veste do P ao G fica com o kit SkinUp ou compra os tops avulsos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-kit-cotton-faixa-2311.webp",
+            "alt": "Kit Top Faixa e Calcinha Biquíni Cotton Up branco, em foto oficial da Toda Up",
+            "caption": "Kit Cotton Up: top faixa com calcinha biquíni. Foto: Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/kit-top-faixa-e-calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          },
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-kit-cotton-triangular-2311.webp",
+            "alt": "Kit Top Triangular e Calcinha Biquíni Cotton Up preto, em foto oficial da Toda Up",
+            "caption": "Kit Cotton Up: top triangular com calcinha biquíni. Foto: Toda Up.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/kit-top-triangular-e-calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
         ],
         "styling": {
           "layout": "tabs",
@@ -200070,7 +200121,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Na Toda Up, o kit compensa quando você leva três conjuntos, os três sutiãs Comfort ou um sutiã com protetor; o de um conjunto quase não economiza. Conta nossa, pelos preços das páginas: o kit de três conjuntos SkinUp sai 24% abaixo das peças avulsas, o Kit Comfort Up (os três sutiãs) sai 30% abaixo e o de sutiã com protetor, 24%. O kit de três Cotton Up economiza pouco, porque o top avulso já tem a opção de comprar 2 e levar 3, e o de um conjunto economiza menos de R$ 20. O kit prende top e calcinha no mesmo número: quem usa tamanhos diferentes compra avulso, e quem veste PP fica fora dos kits de três conjuntos e do Kit Comfort Up, que começam no P.",
           "Os Leve 2 e Leve 3 são outra coisa: a mesma peça repetida com desconto, na página da Fita Up e dos tops Cotton Up. A loja avisa nas páginas de kit que entre cupom e kit vale o maior desconto; no Leve 2 da Fita Up, o MAUAD somou com a Black Week no teste de novembro. A conta kit a kit, com as peças de cada um, está no [guia dos kits](/reviews/kit-toda-up-quando-compensa)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-kit-cotton-faixa-2311.webp",
+          "alt": "Kit Top Faixa e Calcinha Biquíni Cotton Up branco, em foto oficial da Toda Up",
+          "caption": "Kit Cotton Up: top faixa com calcinha biquíni. Foto: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/kit-top-faixa-e-calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        }
       },
       {
         "heading": "Quanto custa com o código e onde comprar",

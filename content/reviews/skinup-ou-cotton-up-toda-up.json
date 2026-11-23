@@ -598,7 +598,15 @@
           "label": "Cupom Toda Up: MAUAD",
           "href": "/cupons/toda-up"
         }
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-cinza-2311.webp",
+        "alt": "Top Faixa Cotton Up cinza, em foto oficial da Toda Up",
+        "caption": "Top Faixa Cotton Up na cor cinza. Foto: Toda Up.",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+      }
     },
     {
       "heading": "Perguntas frequentes",
