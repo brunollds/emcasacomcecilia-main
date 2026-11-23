@@ -78,6 +78,7 @@ public/images/about/partners/max-titanium-icon.png -text export-ignore
 public/images/about/partners/max-titanium.png -text export-ignore
 public/images/about/partners/mollycook.jpg -text export-ignore
 public/images/about/partners/nutren.png -text export-ignore
+public/images/about/partners/oceane.png -text export-ignore
 public/images/about/partners/okoshi.webp -text export-ignore
 public/images/about/partners/petz-icon.png -text export-ignore
 public/images/about/partners/petz.png -text export-ignore
@@ -133,6 +134,7 @@ public/images/logos/bolinhas/magalu.png -text export-ignore
 public/images/logos/bolinhas/mais-mu.png -text export-ignore
 public/images/logos/bolinhas/max-titanium.png -text export-ignore
 public/images/logos/bolinhas/nestle-nutre.png -text export-ignore
+public/images/logos/bolinhas/oceane.png -text export-ignore
 public/images/logos/bolinhas/petz.png -text export-ignore
 public/images/logos/bolinhas/pinkcheeks.png -text export-ignore
 public/images/logos/bolinhas/probiotica.png -text export-ignore
@@ -175,6 +177,7 @@ public/images/logos/watermarks/magalu.webp -text export-ignore
 public/images/logos/watermarks/mais-mu.webp -text export-ignore
 public/images/logos/watermarks/max-titanium.webp -text export-ignore
 public/images/logos/watermarks/nutren.webp -text export-ignore
+public/images/logos/watermarks/oceane.webp -text export-ignore
 public/images/logos/watermarks/petz.webp -text export-ignore
 public/images/logos/watermarks/pinkcheeks.webp -text export-ignore
 public/images/logos/watermarks/probiotica.webp -text export-ignore
@@ -2454,6 +2457,7 @@ public/images/reviews/nutren/passo-2-carrinho.webp -text export-ignore
 public/images/reviews/nutren/passo-3-digite-ceci.webp -text export-ignore
 public/images/reviews/nutren/passo-4-cupom-aplicado-10.webp -text export-ignore
 public/images/reviews/nutren/passo-4-cupom-aplicado.webp -text export-ignore
+public/images/reviews/oceane/cupom-oceane-sacola-app-com-cupom.webp -text export-ignore
 public/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa-v2.webp -text export-ignore
 public/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa.webp -text export-ignore
 public/images/reviews/petz/areia-petz-fresh-graos-medios.webp -text export-ignore
