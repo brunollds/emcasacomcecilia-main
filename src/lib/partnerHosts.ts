@@ -45,6 +45,7 @@ export const PARTNER_HOSTS: readonly string[] = [
   'mercadolivre.com.br',
   'nescafe-dolcegusto.com.br',
   'nestlenutre.com.br',
+  'oceane.com.br',
   'petz.com.br',
   'pinkcheeks.com.br',
   'probiotica.com.br',
