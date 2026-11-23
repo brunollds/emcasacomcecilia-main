@@ -513,8 +513,8 @@
       "value": 15
     },
     "startsAt": "2026-11-16",
-    "expiresAt": "2026-11-22",
-    "verifiedAt": "2026-11-16",
+    "expiresAt": "2026-11-23",
+    "verifiedAt": "2026-11-22",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2911",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
@@ -560,6 +560,28 @@
     "expiresAt": "2026-11-22",
     "verifiedAt": "2026-11-20",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2916",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "membersOnly": true,
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "black26-promo",
+    "code": "BLACK26",
+    "type": "coupon",
+    "discount": {
+      "kind": "tiers",
+      "currency": "USD",
+      "tiers": [
+        { "minSpend": 79, "percent": 8 },
+        { "minSpend": 149, "percent": 10 },
+        { "minSpend": 199, "percent": 15 }
+      ]
+    },
+    "startsAt": "2026-11-23",
+    "expiresAt": "2026-11-26",
+    "verifiedAt": "2026-11-22",
+    "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2913",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
     "status": "active",
