@@ -18,7 +18,7 @@
   "metaDescription": "Creatina com sabor: a Black Skull, com o cupom CECILIA10 de 10% OFF, comparada à Max Titanium e à Probiótica pelo rótulo e pelo preço por 100 g.",
   "publishedAt": "25 de outubro de 2026",
   "publishedAtISO": "2026-10-25",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/black-skull/creatina-com-sabor-qual-escolher-capa-v2.webp",
@@ -70,7 +70,7 @@
         ],
         "rows": [
           [
-            "Black Skull Creatine 300 g, laranja ou limão",
+            "[Black Skull Creatine 300 g, laranja ou limão](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p)",
             "6 g (5.000 mg)",
             "50",
             "R$ 41,90",
@@ -78,7 +78,7 @@
             "R$ 0,84"
           ],
           [
-            "Max Creatina 7Belo 300 g, framboesa",
+            "[Max Creatina 7Belo 300 g, framboesa](https://www.maxtitanium.com.br/creatina-7belo/p)",
             "6 g (5.000 mg)",
             "50",
             "R$ 66,17",
@@ -86,7 +86,7 @@
             "R$ 1,32"
           ],
           [
-            "Max Creatina 300 g, sem sabor",
+            "[Max Creatina 300 g, sem sabor](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
             "5 g (5.000 mg)",
             "60",
             "R$ 59,90",
@@ -94,7 +94,7 @@
             "R$ 1,00"
           ],
           [
-            "Probiótica Creatina Monohidratada Pura 300 g, sem sabor",
+            "[Probiótica Creatina Monohidratada Pura 300 g, sem sabor](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "5 g (5.000 mg)",
             "60",
             "R$ 59,90",
@@ -113,15 +113,6 @@
       },
       "postParagraphs": [
         "O Creatine de 300 g da Black Skull tem o mesmo preço com e sem sabor: R$ 41,90, de R$ 49,90 de tabela. Mas a versão com sabor tem porção de 6 g e rende 50 doses, contra 5 g e 60 doses do sem sabor, que sai a R$ 13,97 por 100 g de creatina. O sabor custa 20% a mais por grama. Na Max, custa 33% a mais: R$ 26,47 contra R$ 19,97 do pote sem sabor de 300 g, que sai de R$ 75,10 de tabela por R$ 59,90, o mesmo preço da Probiótica Pura."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/black-skull/creatina-com-sabor-qual-escolher-quadro-preco-100g.webp",
-          "alt": "Quadro com o preço por 100 g de creatina de seis potes de 300 g, de R$ 16,76 a R$ 27,29, em 25/10/2026",
-          "caption": "Quadro: Em Casa com Cecília, com os preços do site.",
-          "objectFit": "contain",
-          "aspectRatio": 1.1256
-        }
       ]
     },
     {
@@ -140,11 +131,12 @@
       ],
       "images": [
         {
-          "src": "/images/reviews/black-skull/creatina-com-sabor-qual-escolher-tabela-black-skull-saborizada.webp",
-          "alt": "Tabela nutricional da Creatine 300 g saborizada da Black Skull: porção de 6 g, 5.000 mg de creatina e 0,4 g de carboidrato",
-          "caption": "Tabela da própria Black Skull, na página do produto.",
-          "objectFit": "contain",
-          "aspectRatio": 0.6856
+          "src": "/images/reviews/black-skull/black-skull-creatine-300g-laranja.webp",
+          "alt": "Pote de Creatine de 300 g, sabor laranja, da Black Skull, em foto oficial da loja",
+          "caption": "Creatine 300 g, sabor laranja, na foto do site da Black Skull.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p"
         }
       ]
     },
@@ -161,7 +153,7 @@
         "Nesta comparação, a Probiótica entra só na linha sem sabor, com dois potes de 300 g:"
       ],
       "bullets": [
-        "**Creatina Monohidratada Pura, 300 g:** R$ 59,90 (de R$ 75,10), 5 g por dose, 60 porções e 5.000 mg por porção. Sai a R$ 19,97 por 100 g de creatina.",
+        "[Creatina Monohidratada Pura, 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): R$ 59,90 (de R$ 75,10), 5 g por dose, 60 porções e 5.000 mg por porção. Sai a R$ 19,97 por 100 g de creatina.",
         "**Mix Pro, 300 g:** R$ 40,94. Tem creatina e maltodextrina, sem aromatizante. A tabela traz porção de 6 g com 3.000 mg de creatina e 11 kcal: 50 porções e R$ 27,29 por 100 g de creatina. A descrição da página fala em 5 g por dose, o que diverge da tabela."
       ],
       "images": [
@@ -169,7 +161,8 @@
           "src": "/images/reviews/probiotica/creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp",
           "alt": "Pote de 300 g da Creatina Monohidratada Pura da Probiótica",
           "caption": "Creatina Monohidratada Pura 300 g. Imagem: Probiótica.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
         }
       ]
     },
@@ -185,28 +178,38 @@
     {
       "heading": "Cupons e Pix",
       "paragraphs": [
-        "**Black Skull:** o CECILIA10 dá 10% em todo o site, soma com as promoções da loja e vale em todas as formas de pagamento. Na página, a Black Skull não mostra desconto no Pix. As regras estão na [página do cupom Black Skull](/cupons/black-skull).",
+        "**Black Skull:** o [cupom Black Skull](/cupons/black-skull) CECILIA10 dá 10% em todo o site, soma com as promoções da loja e vale em todas as formas de pagamento. Digite CECILIA10 no campo \"Cupom de Desconto\" da sacola do site oficial e clique em Adicionar; a linha \"Descontos\" mostra o abatido. Vale também no app Black Skull USA e não vale no Mercado Livre. Na página, a Black Skull não mostra desconto no Pix.",
         "**Max Titanium:** o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto: nem todo item recebe 10%. Soma com as promoções do site. O site anuncia PIX e boleto com até 5% OFF; na 7Belo, o Pix sai a R$ 64,18 contra R$ 66,17 no cartão. O cupom vale em todas as formas de pagamento, Pix inclusive. Se o desconto do Pix também se mantém junto com o cupom, confira no carrinho. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium).",
         "**Probiótica:** o PRO10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto, soma com as promoções do site e vale em todas as formas de pagamento. Na página, a Pura 300 g sai R$ 56,90 no Pix (5% de desconto) contra R$ 59,90 no cartão."
       ]
     },
     {
-      "heading": "Qual creatina com sabor escolher",
+      "heading": "Qual creatina com sabor escolher?",
       "bullets": [
         "**Menor custo com sabor:** [Creatine 300 g da Black Skull](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p), laranja ou limão, com R$ 16,76 por 100 g de creatina. Confira também a declaração de carboidrato, sucralose e corantes.",
         "**Com sabor e carboidrato em quantidade não significativa, segundo o rótulo:** [Max Creatina 7Belo 300 g](https://www.maxtitanium.com.br/creatina-7belo/p), framboesa, a R$ 26,47 por 100 g de creatina. Confira a diferença de composição antes de decidir.",
         "**Com sabor e maltodextrina:** [Creatine Turbo 300 g](https://www.blackskullusa.com.br/creatine-turbo--300g/p), laranja, limão ou uva, a R$ 26,60 por 100 g de creatina. A porção de 10 g traz 5 g de carboidrato; não é a mesma fórmula da Creatine sem maltodextrina.",
-        "**Se aceita sem sabor:** compare [Max Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p), a Creatina Monohidratada Pura da Probiótica e a Creatine sem sabor. A Mix Pro tem maltodextrina, então é outra fórmula."
+        "**Se aceita sem sabor:** compare [Max Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p), a [Creatina Monohidratada Pura da Probiótica](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e a Creatine sem sabor. A Mix Pro tem maltodextrina, então é outra fórmula."
       ],
-      "postParagraphs": [
-        "Quem tem objetivo de saúde ou restrição de carboidrato fala com um nutricionista ou médico antes de escolher. O texto lê o rótulo e não indica dose."
+      "emphasis": "Para gastar menos por grama de creatina com sabor, eu escolheria a Creatine 300 g da Black Skull, em laranja ou limão: R$ 16,76 por 100 g. A 7Belo só entraria na minha conta se o carboidrato em quantidade não significativa pesasse mais que o preço.",
+      "links": [
+        {
+          "label": "Ir para a Black Skull com o CECILIA10",
+          "href": "https://www.blackskullusa.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Black Skull",
+          "href": "/cupons/black-skull"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Black Skull? O cupom da Black Skull da nossa parceria é CECILIA10, com 10% OFF em todo o site oficial, em todas as formas de pagamento, somando com as promoções vigentes. Vale na Creatine com sabor e na Turbo.",
         "Creatina com sabor tem o mesmo efeito? Nos pares da Black Skull e da Max comparados, o rótulo declara a mesma quantidade de creatina por porção, com pesos de pó diferentes. Essa informação diz sobre a composição declarada, não sobre o efeito de cada produto.",
-        "Creatina com sabor engorda? O rótulo mostra calorias e carboidrato por porção, e esses números, sozinhos, não dizem como o produto se encaixa na sua dieta. A Turbo traz 20 kcal e 5 g de carboidrato por dose de 10 g; a Creatine de 300 g da Black Skull com sabor traz 2 kcal e 0,4 g por dose de 6 g. A Max 7Belo declara carboidrato em quantidade não significativa. Quem tem meta de peso fala com um nutricionista.",
+        "Creatina com sabor engorda? O rótulo mostra calorias e carboidrato por porção, e esses números, sozinhos, não dizem como o produto se encaixa na sua dieta. A Turbo traz 20 kcal e 5 g de carboidrato por dose de 10 g; a Creatine de 300 g da Black Skull com sabor traz 2 kcal e 0,4 g por dose de 6 g. A Max 7Belo declara carboidrato em quantidade não significativa.",
         "Creatina com sabor é pura? \"Pura\" não é uma qualidade que as fichas comprovem. O que vale é a lista de ingredientes: a Turbo tem maltodextrina, e a 7Belo e a Creatine com sabor da Black Skull têm aromatizante, ácido málico, sucralose e corantes.",
         "A creatina com sabor tem Creapure? A Black Skull e a Max 7Belo não declaram o selo Creapure nas fichas dos produtos. A busca por \"creapure\" no site da Black Skull não traz nenhum produto. Quem precisa do selo confirma com a loja antes de comprar."
       ]
@@ -233,7 +236,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "black-skull",
-  "editorialNote": "Não usamos as creatinas; porções são dados dos rótulos, não indicação de consumo. Para adequação à dieta, consulte nutricionista ou médico. Podemos receber comissão pelos cupons citados.",
+  "editorialNote": "Não usamos as creatinas; dados de rótulo. Para a dieta, consulte nutricionista ou médico.",
   "relatedArticles": [
     {
       "slug": "creatina-black-skull-qual-escolher"

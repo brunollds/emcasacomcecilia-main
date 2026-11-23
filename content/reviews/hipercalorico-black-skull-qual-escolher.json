@@ -16,7 +16,7 @@
   },
   "publishedAt": "27 de outubro de 2026",
   "publishedAtISO": "2026-10-27",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "description": "Masstodon Refil 3 kg ou Monstrous 2,7 kg: o Masstodon custa menos por 100 g de proteína, e o Monstrous tem mais proteína. Veja as contas lado a lado e o efeito do CECILIA10.",
@@ -35,7 +35,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "black-skull",
-  "editorialNote": "Ninguém do site usou o Masstodon nem o Monstrous. Podemos receber comissão pelo cupom CECILIA10.",
+  "editorialNote": "Ninguém da equipe usou os produtos. Podemos receber comissão pelo CECILIA10.",
   "relatedArticles": [
     {
       "slug": "whey-black-skull-qual-escolher"
@@ -44,12 +44,12 @@
       "slug": "cupom-black-skull-como-usar"
     },
     {
-      "slug": "black-skull-e-confiavel"
+      "slug": "black-friday-black-skull"
     }
   ],
   "contentSections": [
     {
-      "heading": "Resposta rápida: qual hipercalórico da Black Skull comprar",
+      "heading": "Resposta rápida",
       "paragraphs": [
         "Pelo rótulo e pelo preço, o Masstodon Refil 3 kg custa menos por 100 g de proteína, e o Monstrous 2,7 kg tem mais proteína e menos carboidrato por 100 g do pó, o que muda a escolha. O CECILIA10 tira 10% dos dois no site; confira a aplicação no carrinho."
       ]
@@ -57,7 +57,7 @@
     {
       "heading": "Porção, kcal e preço por 100 g de proteína no rótulo",
       "paragraphs": [
-        "Este guia compara o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. As duas fichas trazem tabela nutricional em imagem. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
+        "Este guia compara o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, nos preços das tabelas abaixo. As duas fichas trazem tabela nutricional em imagem. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
         "O preço do pote engana, porque a porção e a proteína de cada um são diferentes: 160 g no Masstodon, 260 g no Monstrous. Por isso a régua do artigo é por 100 g do pó, por 100 g de proteína e por 1.000 kcal."
       ],
       "bullets": [
@@ -175,7 +175,15 @@
       ],
       "postParagraphs": [
         "Na conta do artigo, o Masstodon sai a R$ 4,33 por 100 g do pó, R$ 57,73 por 100 g de proteína e R$ 11,21 por 1.000 kcal. Extrapolando os 12 g de proteína por 160 g ao peso de 3 kg, a estimativa é de 225 g de proteína na embalagem."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/black-skull/black-skull-masstodon-refil-3kg.webp",
+        "alt": "Embalagem refil de 3 kg do hipercalórico Masstodon da Black Skull, sabor baunilha, com a caveira da marca e o nome do produto",
+        "caption": "Masstodon Refil 3 kg. Foto oficial da Black Skull.",
+        "objectFit": "square",
+        "aspectRatio": 1,
+        "href": "https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p"
+      }
     },
     {
       "heading": "Monstrous 2,7 kg: o que o rótulo diz",
@@ -192,7 +200,15 @@
       ],
       "postParagraphs": [
         "Na conta do artigo, o Monstrous sai a R$ 12,96 por 100 g do pó, R$ 66,07 por 100 g de proteína e R$ 34,35 por 1.000 kcal. Extrapolando 51 g por 260 g ao peso de 2,7 kg do nome, a estimativa é de cerca de 530 g de proteína; o rótulo informa 10 porções de 260 g, que somam 2,6 kg."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/black-skull/black-skull-monstrous-2-7kg.webp",
+        "alt": "Pote de 2,7 kg do hipercalórico Monstrous da Black Skull, sabor chocolate, com a caveira da marca e o nome do produto",
+        "caption": "Monstrous 2,7 kg. Foto oficial da Black Skull.",
+        "objectFit": "square",
+        "aspectRatio": 1,
+        "href": "https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p"
+      }
     },
     {
       "heading": "Sabor: o que a loja mostra e o quadro por sabor",
@@ -209,64 +225,65 @@
         ],
         "rows": [
           [
-            "Masstodon Refil 3 kg, baunilha",
+            "[Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), baunilha",
             "Com estoque",
             "R$ 129,90",
             "R$ 4,33",
             "R$ 57,73"
           ],
           [
-            "Masstodon Refil 3 kg, morango",
+            "[Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), morango",
             "Com estoque",
             "R$ 129,90",
             "R$ 4,33",
             "R$ 57,73"
           ],
           [
-            "Masstodon Refil 3 kg, chocolate",
+            "[Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), chocolate",
             "Com estoque",
             "R$ 129,90",
             "R$ 4,33",
             "R$ 57,73"
           ],
           [
-            "Masstodon Refil 3 kg, banana",
+            "[Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), banana",
             "Com estoque",
             "R$ 129,90",
             "R$ 4,33",
             "R$ 57,73"
           ],
           [
-            "Monstrous 2,7 kg, chocolate",
+            "[Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), chocolate",
             "Com estoque",
             "R$ 349,90",
             "R$ 12,96",
             "R$ 66,07"
           ],
           [
-            "Monstrous 2,7 kg, morango",
+            "[Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), morango",
             "Esgotado",
             "R$ 349,90",
             "R$ 12,96",
             "R$ 66,07"
           ],
           [
-            "Monstrous 2,7 kg, baunilha",
+            "[Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), baunilha",
             "Com estoque",
             "R$ 349,90",
             "R$ 12,96",
             "R$ 66,07"
           ]
-        ]
+        ],
+        "caption": "Preços de 27/10/2026, na loja oficial, antes do cupom. R$ por 100 g: conta nossa, com a tabela do rótulo."
       },
       "postParagraphs": [
         "Os tamanhos comparados são o refil de 3 kg e o pote de 2,7 kg; hipercalórico de 4 kg ou em balde não apareceu no catálogo de outubro."
       ]
     },
     {
-      "heading": "Cupom CECILIA10 nos dois",
+      "heading": "O CECILIA10 vale nos dois?",
       "paragraphs": [
-        "O CECILIA10 é um cupom de 10% no site da Black Skull, em todas as formas de pagamento, e soma com promoções vigentes. O desconto vale em todos os itens do carrinho; os valores da tabela com cupom são o preço da loja menos 10%. O frete é calculado pela loja e fica fora do cupom. A loja não mostra preço de Pix nem desconto no Pix, então a conta é uma só, seja qual for o pagamento. As regras completas estão na [página do cupom](/cupons/black-skull), e o passo a passo em [Cupom Black Skull CECILIA10: como usar](/reviews/cupom-black-skull-como-usar)."
+        "Vale. O CECILIA10 é um cupom de 10% no site oficial da Black Skull, em todas as formas de pagamento, e soma com promoções vigentes. Digite CECILIA10 no campo \"Cupom de Desconto\" da sacola e clique em Adicionar: a linha \"Descontos\" mostra o abatido. O código vale também no app Black Skull USA e não vale no Mercado Livre. O desconto vale em todos os itens do carrinho, e os valores da tabela com cupom são o preço da loja menos 10%. O frete é calculado pela loja e fica fora do cupom. A loja não dá desconto próprio no Pix, então a conta é uma só, seja qual for o pagamento. As regras completas estão na página do [cupom Black Skull](/cupons/black-skull), e o passo a passo em [Cupom Black Skull CECILIA10: como usar](/reviews/cupom-black-skull-como-usar)."
       ],
       "comparisonTable": {
         "headers": [
@@ -278,27 +295,28 @@
         ],
         "rows": [
           [
-            "Masstodon Refil 3 kg",
+            "[Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p)",
             "R$ 129,90",
             "R$ 116,91",
             "R$ 51,96",
             "R$ 10,09"
           ],
           [
-            "Monstrous 2,7 kg",
+            "[Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p)",
             "R$ 349,90",
             "R$ 314,91",
             "R$ 59,46",
             "R$ 30,91"
           ]
-        ]
+        ],
+        "caption": "Preços de 27/10/2026. Com o cupom: conta nossa, preço da loja menos 10%."
       },
       "postParagraphs": [
         "Com 10% sobre os preços da tabela, o cupom tira R$ 12,99 do Masstodon e R$ 34,99 do Monstrous. Ele não muda a ordem: por 100 g de proteína, o Masstodon continua cerca de 13% mais barato, com ou sem o código. Confira o desconto em cada item no carrinho."
       ]
     },
     {
-      "heading": "Qual escolher: Masstodon ou Monstrous",
+      "heading": "Qual escolher: Masstodon ou Monstrous?",
       "paragraphs": [
         "A escolha entre os dois é a escolha entre duas tabelas. O Masstodon é carboidrato com um pouco de proteína (11,5 g de carboidrato por grama de proteína) e custa menos por tudo: por 100 g do pó, por 100 g de proteína e por 1.000 kcal. O Monstrous tem 2,6 vezes a proteína do Masstodon por 100 g do pó (19,6 g contra 7,5 g), menos carboidrato por grama de proteína (3,8 g), e cobra mais por isso: R$ 8,34 a mais por 100 g de proteína e o triplo por 1.000 kcal."
       ],
@@ -311,54 +329,58 @@
         "rows": [
           [
             "Pagar menos por 100 g de proteína",
-            "Masstodon Refil 3 kg",
+            "[Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p)",
             "R$ 57,73 contra R$ 66,07"
           ],
           [
             "Pagar menos por 1.000 kcal",
-            "Masstodon Refil 3 kg",
+            "[Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p)",
             "R$ 11,21 contra R$ 34,35"
           ],
           [
             "Pagar menos pelo pote",
-            "Masstodon Refil 3 kg",
+            "[Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p)",
             "R$ 129,90 contra R$ 349,90"
           ],
           [
             "Mais proteína em 100 g do pó",
-            "Monstrous 2,7 kg",
+            "[Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p)",
             "19,6 g contra 7,5 g"
           ],
           [
             "Menos carboidrato por grama de proteína",
-            "Monstrous 2,7 kg",
+            "[Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p)",
             "3,8 g contra 11,5 g"
           ],
           [
             "Mais sabores com estoque",
-            "Masstodon Refil 3 kg",
+            "[Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p)",
             "4 de 4 contra 2 de 3"
           ]
         ]
       },
       "postParagraphs": [
-        "O Whey Turbo também é hipercalórico, com outra porção e outra conta (479 kcal e 75 g de carboidrato em 120 g), e fica fora desta comparação: ele está no [guia de whey da Black Skull](/reviews/whey-black-skull-qual-escolher). Com 10% sobre os preços da tabela, o Masstodon sairia por R$ 116,91 e o Monstrous por R$ 314,91; confira o desconto em cada item no carrinho. O código e as regras estão na [página do cupom](/cupons/black-skull)."
+        "O Whey Turbo também é hipercalórico, com outra porção e outra conta (479 kcal e 75 g de carboidrato em 120 g), e fica fora desta comparação: ele está no [guia de whey da Black Skull](/reviews/whey-black-skull-qual-escolher). Com 10% sobre os preços da tabela, o Masstodon sairia por R$ 116,91 e o Monstrous por R$ 314,91; confira o desconto em cada item no carrinho."
       ],
-      "image": {
-        "src": "/images/reviews/black-skull/hipercalorico-black-skull-quadro-2710.webp",
-        "alt": "Quadro com porção, kcal, carboidrato, proteína e preço por 100 g de proteína do Masstodon e do Monstrous",
-        "caption": "Quadro nosso com o rótulo e o preço; em amarelo, quem leva vantagem em cada linha.",
-        "objectFit": "contain",
-        "aspectRatio": 1.4423
-      },
-      "emphasis": "Pelos números da tabela, para quem quer pagar menos por proteína a escolha é o Masstodon, porque custa menos por 100 g de proteína e por 1.000 kcal.",
-      "emphasisAfterParagraph": 1
+      "emphasis": "Para pagar menos por proteína e por caloria, eu escolheria o Masstodon; para ter mais proteína em cada 100 g do pó, com menos carboidrato por grama de proteína, eu escolheria o Monstrous.",
+      "links": [
+        {
+          "label": "Ver os hipercalóricos na Black Skull",
+          "href": "https://www.blackskullusa.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Black Skull: CECILIA10",
+          "href": "/cupons/black-skull"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Black Skull? O cupom da Black Skull da nossa parceria é CECILIA10, com 10% OFF em todo o site oficial, em todas as formas de pagamento, somando com as promoções vigentes. Ele vale nos dois hipercalóricos comparados.",
         "Qual hipercalórico da Black Skull tem menos carboidrato por grama de proteína? Entre os dois comparados, o Monstrous 2,7 kg: 3,8 g de carboidrato por grama de proteína (195 g e 51 g por porção de 260 g). O Masstodon Refil 3 kg tem 11,5 g (138 g e 12 g por porção de 160 g).",
-        "Qual hipercalórico da Black Skull é o mais barato por proteína? Entre os dois comparados, o Masstodon Refil 3 kg: R$ 57,73 por 100 g de proteína, ou R$ 51,96 com 10% de cupom. O Monstrous sai a R$ 66,07, ou R$ 59,46 com o cupom. Confira o desconto no carrinho.",
+        "Qual hipercalórico da Black Skull é o mais barato por proteína? Entre os dois comparados, o Masstodon Refil 3 kg: cerca de 13% mais barato por 100 g de proteína que o Monstrous, com ou sem o cupom. A conta por 100 g de proteína e por 1.000 kcal está nas tabelas.",
         "A Black Skull tem hipercalórico de 4 kg ou em balde? Não apareceu no catálogo de outubro. Os tamanhos comparados são o Masstodon Refil 3 kg e o Monstrous 2,7 kg.",
         "A Black Skull tem hipercalórico sem lactose? Nos dois comparados, não: o Masstodon e o Monstrous declaram \"Contém lactose\" no rótulo. Os dois declaram \"Não contém glúten\".",
         "Quais sabores do Monstrous estão à venda? O seletor da ficha mostra chocolate, morango e baunilha; o morango estava esgotado. O Masstodon tem baunilha, morango, chocolate e banana, todos com estoque na mesma data."
@@ -373,7 +395,7 @@
     "skipIf": [
       "Quem evita lactose: os dois declaram \"Contém lactose\" no rótulo.",
       "Quem precisa do pote mais barato fica longe do Monstrous, que custa 2,7 vezes o preço do Masstodon.",
-      "Quem tem condição de saúde, está grávida ou tem objetivo específico: falar com nutricionista ou médico antes de comprar."
+      "Quem quer o medidor junto com o produto: o refil do Masstodon vem sem medidor."
     ]
   }
 }

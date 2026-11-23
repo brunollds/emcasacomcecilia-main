@@ -17,7 +17,7 @@
   "metaDescription": "Black Skull ou Dux, com o cupom CECILIA10 e 10% OFF na Black Skull: whey e creatina por 100 g de proteína e de creatina, Creapure, Pix e frete.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/black-skull/black-skull-ou-dux-capa-v2.webp",
@@ -32,32 +32,9 @@
       ]
     },
     {
-      "heading": "Como comparamos",
-      "paragraphs": [
-        "Este guia compara whey e creatina da Black Skull (parceira do site, com o CECILIA10) e da Dux (que não é parceira), pelos rótulos e pelos preços que as lojas publicam.",
-        "A comparação de whey e creatina começou com a Growth. A partir desta, a base é a Dux, que não é parceira do site. O comparativo com a Growth está em [Black Skull ou Growth](/reviews/black-skull-ou-growth). A série contra a Dux tem outros dois textos: [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux).",
-        "Comparamos só o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são de 20/10/2026, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficam de fora: compare pelo rótulo e pelo preço.",
-        "As contas são estas, arredondadas no centavo:"
-      ],
-      "image": {
-        "src": "/images/reviews/black-skull/black-skull-ou-dux-capa.webp",
-        "alt": "Quadro com o preço por 100 g em 20/10/2026: whey Black Skull 80% HD R$ 23,17 e 100% HD R$ 26,66, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41 no Pix; creatina Black Skull Creator refil R$ 7,98 e 300 g R$ 9,97, Dux Monohidratada R$ 20,55 e Creapure R$ 87,05 no Pix",
-        "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
-      "bullets": [
-        "preço por dose: preço ÷ número de doses do pote;",
-        "preço por 100 g de proteína: preço ÷ (doses × proteína por dose) × 100;",
-        "preço por 100 g de creatina: preço ÷ gramas do pote × 100."
-      ],
-      "postParagraphs": [
-        "O preço por 100 g de proteína iguala potes de tamanhos e doses diferentes. Pelo preço do pote ou da dose, a comparação engana: a dose da Black Skull 100% HD tem 35 g com 21 g de proteína, e a da Dux, 30 g com 20 g. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
-      ]
-    },
-    {
       "heading": "Whey: proteína por dose e preço por 100 g de proteína",
       "paragraphs": [
+        "Usamos só o que as lojas publicam: a tabela nutricional, o preço no site e as regras de frete e de pagamento. As contas são nossas: preço por 100 g de proteína é o preço ÷ (doses × proteína por dose) × 100, o que iguala potes de tamanhos e doses diferentes. A dose da Black Skull 100% HD tem 35 g com 21 g de proteína, e a da Dux, 30 g com 20 g.",
         "No whey, a Black Skull sai mais barata por 100 g de proteína em todos os pares. Preços no cartão, sem o cupom; a Black Skull não dá desconto no Pix."
       ],
       "comparisonTable": {
@@ -97,20 +74,12 @@
             "R$ 647,90",
             "R$ 53,99"
           ]
-        ]
+        ],
+        "caption": "Preços dos sites oficiais em 20/10/2026, no cartão, sem cupom e sem frete; contas nossas."
       },
       "postParagraphs": [
         "No Pix, a Dux sai a R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) por 100 g de proteína. Com o CECILIA10, o 80% HD cai para R$ 20,86 e o 100% HD, para R$ 23,99.",
         "Pelo peso, o pote de 1.800 g da Dux rende 60 doses de 30 g, e cada um dos potes de 900 g rende 30 doses. WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/black-skull/black-skull-ou-dux-proteina-por-dose.webp",
-          "alt": "Barras com a proteína por dose: Black Skull Whey 80% HD 23 g em 30 g, Dux Whey Protein Concentrado 20 g em 30 g e Black Skull Whey 100% HD 21 g em 35 g",
-          "caption": "Proteína por dose nas tabelas nutricionais das páginas oficiais.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
       ]
     },
     {
@@ -126,7 +95,8 @@
           "alt": "Embalagens da Black Skull: o refil do Whey 80% HD de 900 g e o pote do Whey 100% HD de 1,8 kg, os dois sabor baunilha",
           "caption": "Whey 80% HD refil de 900 g e Whey 100% HD de 1,8 kg, nas fotos do site da Black Skull.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p"
         }
       ]
     },
@@ -148,7 +118,7 @@
     {
       "heading": "Creatina: preço por 100 g nas duas lojas",
       "paragraphs": [
-        "Na creatina, o Creator refil de 500 g é a mais barata por grama, com ou sem promoção. Preços no cartão, sem o cupom; todas as creatinas desta tabela têm dose de 5 g, exceto a Creapure da Dux, de 3 g. As creatinas comparadas são monohidratadas."
+        "Na creatina, o Creator refil de 500 g é a mais barata por grama, com ou sem promoção. A conta é o preço ÷ gramas do pote × 100. Preços no cartão, sem o cupom; todas as creatinas desta tabela têm dose de 5 g, exceto a Creapure da Dux, de 3 g. As creatinas comparadas são monohidratadas."
       ],
       "images": [
         {
@@ -156,7 +126,8 @@
           "alt": "Embalagens da creatina Creator da Black Skull: o refil de 500 g e o pote de 300 g, sem sabor",
           "caption": "Creator refil de 500 g e pote de 300 g, nas fotos do site da Black Skull.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p"
         }
       ],
       "comparisonTable": {
@@ -191,7 +162,8 @@
             "R$ 274,90",
             "R$ 91,63"
           ]
-        ]
+        ],
+        "caption": "Preços dos sites oficiais em 20/10/2026, no cartão, sem cupom e sem frete; contas nossas."
       },
       "postParagraphs": [
         "No Pix, a Dux sai a R$ 20,55 (monohidratada) e R$ 87,05 (Creapure) por 100 g. Com o CECILIA10, o Creator refil cai para R$ 7,18 e o de 300 g, para R$ 8,97.",
@@ -226,7 +198,7 @@
     {
       "heading": "Cupom, Pix e frete",
       "paragraphs": [
-        "Com R$ 364,33 em itens (whey, creatina, pré-treino, glutamina e regata), o CECILIA10 dá R$ 36,44 de desconto, e o total fica em R$ 327,89. O 10% valeu também sobre itens que já estavam em promoção."
+        "Num teste de sacola com quatro produtos, o subtotal foi de R$ 199,81; o CECILIA10 abateu R$ 19,98, e o total ficou em R$ 179,83. Os 10% entraram sobre os preços promocionais. No site oficial, digite CECILIA10 no campo \"Cupom de Desconto\" da sacola e clique em Adicionar; a linha \"Descontos\" mostra o abatido. O código vale também no app Black Skull USA e não vale no Mercado Livre."
       ],
       "comparisonTable": {
         "headers": [
@@ -253,7 +225,7 @@
         ]
       },
       "postParagraphs": [
-        "As regras do cupom e o código estão na [página do cupom da Black Skull](/cupons/black-skull)."
+        "As regras do cupom e o código estão na página do [cupom Black Skull](/cupons/black-skull)."
       ]
     },
     {
@@ -275,8 +247,7 @@
     },
     {
       "heading": "Quem escolhe o quê",
-      "emphasis": "Pelos números da tabela, para quem prioriza o menor preço por 100 g de proteína e de creatina, com economia ampliada pelo cupom CECILIA10, a escolha é a Black Skull; para quem busca whey isolado ou creatina com o selo Creapure declarado, a escolha é a Dux.",
-      "emphasisAfterParagraph": 1,
+      "emphasis": "Para pagar menos por grama de proteína e de creatina, eu escolheria a Black Skull; para quem quer whey isolado ou creatina com o selo Creapure declarado, a Dux é a única opção desta comparação.",
       "paragraphs": [
         "Pelos rótulos e pelos preços de outubro:"
       ],
@@ -289,16 +260,28 @@
         "Quer creatina com o selo Creapure declarado pela Dux: a linha de 300 g da Dux, a R$ 2,75 por dose de 3 g."
       ],
       "postParagraphs": [
-        "Se o preço mudar, a conta muda. Refaça as contas com o preço do dia antes de comprar."
+        "Se o preço mudar, a conta muda. Refaça as contas com o preço do dia antes de comprar. As outras linhas da marca estão nos guias de [whey da Black Skull](/reviews/whey-black-skull-qual-escolher) e de [creatina da Black Skull](/reviews/creatina-black-skull-qual-escolher)."
+      ],
+      "links": [
+        {
+          "label": "Ver whey e creatina na Black Skull com o CECILIA10",
+          "href": "https://www.blackskullusa.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver regras do cupom Black Skull",
+          "href": "/cupons/black-skull"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Black Skull ou Dux: qual é melhor? Depende da linha. Nos preços de outubro, no whey a Black Skull sai mais barata por 100 g de proteína em todos os pares; na creatina, o refil de 500 g da Black Skull sai mais barato que a monohidratada da Dux. A Dux tem a linha Creapure, que ela mesma declara.",
-        "Qual o melhor whey, Black Skull ou Dux? Pelo preço por 100 g de proteína em outubro, o Whey 80% HD da Black Skull, a R$ 23,17 sem cupom e R$ 20,86 com o CECILIA10. O concentrado da Dux sai a R$ 61,48 no cartão e R$ 58,41 no Pix.",
-        "Qual a melhor creatina, Black Skull ou Dux? Por grama, nos preços de outubro, o Creator refil de 500 g da Black Skull, a R$ 7,98 por 100 g. A monohidratada de 300 g da Dux sai a R$ 21,63 no cartão e R$ 20,55 no Pix.",
-        "A Dux é boa marca? Só dá para responder pelo rótulo, pela fórmula que a Dux declara e pelo preço. Ela diz que o concentrado é 100% proteína, sem blend, e declara Creapure na linha própria. O whey de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
+        "Qual é o cupom da Black Skull? O cupom da Black Skull da nossa parceria é CECILIA10, com 10% OFF em todo o site oficial, em todas as formas de pagamento, somando com as promoções vigentes. Na comparação com a Dux, o código vale só na Black Skull.",
+        "Black Skull ou Dux: qual é melhor? Depende da linha. Nos preços lidos para este guia, no whey a Black Skull sai mais barata por 100 g de proteína em todos os pares; na creatina, o refil de 500 g da Black Skull sai mais barato que a monohidratada da Dux. A Dux tem a linha Creapure, que ela mesma declara.",
+        "Qual o melhor whey, Black Skull ou Dux? Pelo preço por 100 g de proteína, o Whey 80% HD da Black Skull. O concentrado da Dux sai a mais que o dobro, seja pelo preço do cartão, seja pelo do Pix.",
+        "Qual a melhor creatina, Black Skull ou Dux? Por grama, o Creator refil de 500 g da Black Skull. A monohidratada de 300 g da Dux custa bem mais por 100 g, seja pelo preço do cartão, seja pelo do Pix.",
+        "A Dux é boa marca? Só dá para responder pelo rótulo, pela fórmula que a Dux declara e pelo preço. Ela diz que o concentrado é 100% proteína, sem blends, e declara Creapure na linha própria. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
         "A Black Skull é boa marca? Não provamos os produtos, e este texto não diz se a marca é boa. Ele mostra o rótulo, o preço e as regras de cupom e frete.",
         "A Dux tem cupom? Não temos cupom da Dux: ela não é parceira do site, e o CECILIA10 vale só na Black Skull. Se a Dux tem ofertas próprias, elas estão no site dela.",
         "A Dux tem Creapure? A Dux diz que a linha 100% Creapure usa creatina Creapure, produzida pela AlzChem. A Black Skull não declara Creapure nas páginas dos produtos.",
@@ -328,7 +311,7 @@
   },
   "coupon": "CECILIA10",
   "affiliate": "black-skull",
-  "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Black Skull; a Dux não é parceira. Não provamos os produtos.",
+  "editorialNote": "Comparação por rótulo e preço. A Black Skull pode nos pagar comissão.",
   "relatedArticles": [
     {
       "slug": "black-skull-ou-growth"
@@ -337,7 +320,7 @@
       "slug": "black-skull-ou-max-titanium"
     },
     {
-      "slug": "black-skull-e-confiavel"
+      "slug": "whey-black-skull-qual-escolher"
     }
   ]
 }
