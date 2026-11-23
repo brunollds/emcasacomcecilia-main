@@ -128271,7 +128271,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw na Hostinger com o SONAR20 e 20% OFF: gerenciado ou VPS, o preço com e sem o código, a renovação, os créditos de IA e quem cuida do servidor.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-pt-v2.webp",
@@ -128421,12 +128421,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**Escolha o VPS se:** você quer acesso root e rodar outros programas no mesmo servidor, como um site ou o n8n; sabe mexer em servidor, ou quer aprender, e aceita atualizar e proteger o sistema; ou precisa de mais memória e disco: os planos KVM vão de 4 GB a 32 GB de RAM.",
           "**Na dúvida, comece pelo gerenciado.** Ele custa menos no primeiro período e não pede conhecimento de servidor."
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para quem quer o OpenClaw no ar sem cuidar de servidor, a escolha é o gerenciado, porque sai R$ 96 mais barato que o KVM 1 nos primeiros 24 meses, com o SONAR20, e a Hostinger cuida das atualizações e da segurança."
       },
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, mensal ou anual, inclusive com conta existente. Registro de domínio e renovação ficam fora do desconto; a renovação sai pelo preço de tabela. Confira as condições em [como usar o SONAR20](/reviews/cupom-hostinger-indicacao) e na [página da Hostinger](/cupons/hostinger).",
+          "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. Nos ciclos de 12, 24 e 48 meses, os 20% entram; no ciclo de 1 mês, a aceitação depende do plano, então confira a linha \"Cupom aplicado\" no carrinho antes de pagar. Registro de domínio e renovação ficam fora do desconto; a renovação sai pelo preço de tabela. Confira as condições em [como usar o SONAR20](/reviews/cupom-hostinger-indicacao) e na [página da Hostinger](/cupons/hostinger).",
           "Preços de planos de 24 meses, em 21/10/2026:"
         ],
         "comparisonTable": {
@@ -128476,30 +128477,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "Vale a pena o OpenClaw gerenciado da Hostinger? Vale para quem quer o assistente sem cuidar de servidor: ele sai mais barato que o VPS no primeiro período e renova pelo mesmo preço. Quem quer root e outros programas no servidor fica melhor com o VPS.",
           "Precisa de conta na OpenAI ou na Anthropic? Não. Nas duas opções dá para usar os créditos de IA da Hostinger. A conta no provedor só é preciso se você preferir a sua própria chave.",
-          "Tem cupom de desconto da Hostinger para o OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período.",
           "Quanto custa depois do primeiro período? Na renovação, o SONAR20 não se aplica: a tabela traz R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2. Confirme a cobrança atual antes de renovar.",
           "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, numa compra nova elegível com a mesma conta; a renovação do serviço atual fica fora. São 20% no primeiro período, e o registro de domínio também fica fora. Confira o total no carrinho."
-        ]
-      },
-      {
-        "heading": "Quem escreve",
-        "paragraphs": [
-          "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw: este texto reúne o que as páginas da Hostinger e a documentação oficial do OpenClaw dizem."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o gerenciado se você quer o assistente no ar sem instalar nem configurar servidor, com a Hostinger cuidando das atualizações, dos backups e da segurança.",
-        "Leve o VPS se você quer acesso root e rodar outros programas no mesmo servidor, como um site ou o n8n."
+        "quer o assistente no ar sem instalar nem configurar servidor e deixar as atualizações, os backups e a segurança com a Hostinger (gerenciado).",
+        "quer acesso root e rodar outros programas no mesmo servidor, como um site ou o n8n (VPS)."
       ],
       "skipIf": [
-        "Passe no VPS se você não sabe o que é root nem Docker: atualizar e proteger o sistema fica com você.",
-        "Passe no gerenciado se você precisa de acesso root ou de mais memória e disco.",
-        "Passe se o mesmo assistente vai atender pessoas que não confiam umas nas outras: elas não devem dividir um gateway."
+        "não sabe o que é root nem Docker e pensa no VPS: atualizar e proteger o sistema fica com você.",
+        "precisa de acesso root ou de mais memória e disco, que o gerenciado não oferece.",
+        "o mesmo assistente vai atender pessoas que não confiam umas nas outras: elas não devem dividir um gateway."
       ]
     },
     "pros": [],
@@ -128561,7 +128556,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Managed or VPS for OpenClaw on Hostinger: AI credits, Telegram and WhatsApp, and who looks after the server.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -128695,12 +128690,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**Choose the VPS if:** you want root access and to run other programs on the same server, such as a website or n8n; you know your way around a server, or want to learn, and accept updating and securing the system; or you need more memory and disk: KVM plans range from 4 GB to 32 GB of RAM.",
           "**If in doubt, start with managed.** It costs less in the first period and doesn't require server knowledge."
-        ]
+        ],
+        "emphasis": "By the table, for anyone who wants OpenClaw online without looking after a server, the choice is managed, because Hostinger handles updates and security, while on the VPS both fall to you."
       },
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Enter **SONAR20** in the cart for 20% off the first period of an eligible new purchase, monthly or annual, including with an existing account. Domain registration and renewal are excluded; renewal is charged at the list price. See the [SONAR20 guide](/en/reviews/hostinger-coupon-code-referral) and [Hostinger coupon page](/en/coupons/hostinger) for conditions."
+          "Enter **SONAR20** in the cart for 20% off the first period of an eligible new purchase, including with an existing account. On 12, 24 and 48-month terms the 20% applies; on 1-month plans acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying. Domain registration and renewal are excluded; renewal is charged at the list price. See the [SONAR20 guide](/en/reviews/hostinger-coupon-code-referral) and [Hostinger coupon page](/en/coupons/hostinger) for conditions."
         ],
         "postParagraphs": [
           "Hostinger is running a Black Friday campaign, and prices change. See [Hostinger's Black Friday](/en/reviews/hostinger-black-friday) and check the amount in the cart before you pay."
@@ -128709,17 +128705,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
           "Is Hostinger's managed OpenClaw worth it? It is for people who want the assistant without looking after a server: it costs less than the VPS in the first period and renews at the same price. Anyone who wants root access and other programs on the server is better off with the VPS.",
           "Do you need an OpenAI or Anthropic account? No. On both options you can use Hostinger's AI credits. You only need an account with a provider if you prefer your own key.",
-          "Is there a Hostinger discount coupon for OpenClaw? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period.",
           "Does the managed plan work for Hermes Agent or Paperclip? Yes. All three are on the same plan, \"AI automation apps\", at the same price. The Paperclip page does not list AI credits, so bring your own key.",
           "Can existing Hostinger customers use SONAR20? Yes, on an eligible new purchase with the same account; renewal of the current service is excluded. It gives 20% off the first term, and domain registration is also excluded. Check the cart total."
-        ]
-      },
-      {
-        "heading": "Who writes this",
-        "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. Nobody on the team uses OpenClaw: this text gathers what Hostinger's pages and OpenClaw's official documentation say."
         ]
       }
     ],
@@ -128747,13 +128737,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take managed if you want the assistant online without installing or configuring a server, with Hostinger handling updates, backups and security.",
-        "Take the VPS if you want root access and to run other programs on the same server, such as a website or n8n."
+        "you want the assistant online without installing or configuring a server, with Hostinger handling updates, backups and security (managed).",
+        "you want root access and to run other programs on the same server, such as a website or n8n (VPS)."
       ],
       "skipIf": [
-        "Skip the VPS if you don't know what root or Docker is: updating and securing the system falls to you.",
-        "Skip managed if you need root access or more memory and disk.",
-        "Skip both if the same assistant will serve people who do not trust each other: they should not share one gateway."
+        "you don't know what root or Docker is and are eyeing the VPS: updating and securing the system falls to you.",
+        "you need root access or more memory and disk, which managed does not offer.",
+        "the same assistant will serve people who do not trust each other: they should not share one gateway."
       ]
     }
   },
@@ -128793,7 +128783,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Gestionado o VPS para OpenClaw en Hostinger: créditos de IA, Telegram y WhatsApp, y quién se encarga del servidor.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -128927,12 +128917,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**Elige el VPS si:** quieres acceso root y ejecutar otros programas en el mismo servidor, como un sitio web o n8n; sabes manejar un servidor, o quieres aprender, y aceptas actualizar y proteger el sistema; o necesitas más memoria y disco: los planes KVM van de 4 GB a 32 GB de RAM.",
           "**Si tienes dudas, empieza por el gestionado.** Cuesta menos en el primer período y no exige conocimientos de servidores."
-        ]
+        ],
+        "emphasis": "Por la tabla, para quien quiere OpenClaw en marcha sin ocuparse de un servidor, la elección es el gestionado, porque Hostinger se encarga de las actualizaciones y de la seguridad, mientras que en el VPS ambas quedan de tu parte."
       },
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Introduce **SONAR20** en el carrito: 20 % en el primer período de una compra nueva elegible, mensual o anual, también con cuenta existente. El registro de dominios y la renovación quedan fuera; la renovación se cobra al precio de lista. Consulta la [guía SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y la [página de Hostinger](/es/coupons/hostinger)."
+          "Introduce **SONAR20** en el carrito: 20 % en el primer período de una compra nueva elegible, también con cuenta existente. En los ciclos de 12, 24 y 48 meses se aplica el 20 %; en los planes de 1 mes la aceptación depende del plan, así que revisa la línea «Coupon applied» del carrito antes de pagar. El registro de dominios y la renovación quedan fuera; la renovación se cobra al precio de lista. Consulta la [guía SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y la [página de Hostinger](/es/coupons/hostinger)."
         ],
         "postParagraphs": [
           "Hostinger está en campaña de Black Friday, y los precios cambian. Mira [el Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas) y revisa el importe en el carrito antes de pagar."
@@ -128941,17 +128932,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20 % de descuento en el primer período de una compra nueva elegible: escribe el código en el campo «Have a coupon code?» del carrito y revisa la línea «Coupon applied» antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
           "¿Vale la pena el OpenClaw gestionado de Hostinger? Vale para quien quiere el asistente sin ocuparse de un servidor: sale más barato que el VPS en el primer período y se renueva al mismo precio. Quien quiera acceso root y otros programas en el servidor estará mejor con el VPS.",
           "¿Necesitas una cuenta en OpenAI o Anthropic? No. En las dos opciones puedes usar los créditos de IA de Hostinger. La cuenta con el proveedor solo hace falta si prefieres tu propia clave.",
-          "¿Hay cupón de descuento de Hostinger para OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % de descuento en el primer período.",
           "¿El plan gestionado sirve para Hermes Agent o Paperclip? Sí. Los tres están en el mismo plan, «Aplicaciones de automatización con IA», al mismo precio. La página de Paperclip no incluye créditos de IA, así que lleva tu propia clave.",
           "¿Un cliente existente de Hostinger puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. Ofrece un 20 % en el primer período; el registro de dominio también queda fuera. Comprueba el total del carrito."
-        ]
-      },
-      {
-        "heading": "Quién escribe",
-        "paragraphs": [
-          "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con alojamiento y un VPS KVM 2. Nadie del equipo usa OpenClaw: este texto reúne lo que dicen las páginas de Hostinger y la documentación oficial de OpenClaw."
         ]
       }
     ],
@@ -128979,13 +128964,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Lleva el gestionado si quieres el asistente en marcha sin instalar ni configurar un servidor, con Hostinger a cargo de las actualizaciones, las copias de seguridad y la seguridad.",
-        "Lleva el VPS si quieres acceso root y ejecutar otros programas en el mismo servidor, como un sitio web o n8n."
+        "quieres el asistente en marcha sin instalar ni configurar un servidor, con Hostinger a cargo de las actualizaciones, las copias de seguridad y la seguridad (gestionado).",
+        "quieres acceso root y ejecutar otros programas en el mismo servidor, como un sitio web o n8n (VPS)."
       ],
       "skipIf": [
-        "Descarta el VPS si no sabes qué es root ni Docker: actualizar y proteger el sistema queda de tu parte.",
-        "Descarta el gestionado si necesitas acceso root o más memoria y disco.",
-        "Descarta ambos si el mismo asistente va a atender a personas que no confían entre sí: no deben compartir gateway. Un equipo que confía entre sí requiere otra evaluación; no hay una regla universal de un servidor por persona."
+        "no sabes qué es root ni Docker y estás pensando en el VPS: actualizar y proteger el sistema queda de tu parte.",
+        "necesitas acceso root o más memoria y disco, que el gestionado no ofrece.",
+        "el mismo asistente va a atender a personas que no confían entre sí: no deben compartir una pasarela."
       ]
     }
   },
@@ -129025,7 +129010,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Géré ou VPS pour OpenClaw chez Hostinger : crédits d'IA, Telegram et WhatsApp, et qui s'occupe du serveur.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -129159,12 +129144,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**Choisissez le VPS si :** vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n ; vous savez manier un serveur, ou voulez apprendre, et acceptez de mettre à jour et de protéger le système ; ou il vous faut plus de mémoire et de disque : les forfaits KVM vont de 4 Go à 32 Go de RAM.",
           "**Dans le doute, commencez par le géré.** Il coûte moins cher la première période et ne demande aucune connaissance en serveurs."
-        ]
+        ],
+        "emphasis": "D'après le tableau, pour qui veut OpenClaw en ligne sans gérer de serveur, le bon choix est le géré, car Hostinger s'occupe des mises à jour et de la sécurité, alors que sur le VPS les deux vous incombent."
       },
       {
         "heading": "Code promo SONAR20",
         "paragraphs": [
-          "Saisissez **SONAR20** dans le panier : 20 % sur la première période d'un nouvel achat éligible, mensuel ou annuel, y compris avec un compte existant. L'enregistrement de domaines et le renouvellement sont exclus ; le renouvellement est facturé au prix catalogue. Consultez le [guide SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et la [page Hostinger](/fr/coupons/hostinger)."
+          "Saisissez **SONAR20** dans le panier : 20 % sur la première période d'un nouvel achat éligible, y compris avec un compte existant. Sur les durées de 12, 24 et 48 mois, les 20 % s'appliquent ; sur les forfaits d'1 mois, l'acceptation dépend du forfait, alors vérifiez la ligne « Coupon applied » du panier avant de payer. L'enregistrement de domaines et le renouvellement sont exclus ; le renouvellement est facturé au prix catalogue. Consultez le [guide SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et la [page Hostinger](/fr/coupons/hostinger)."
         ],
         "postParagraphs": [
           "Hostinger est en pleine campagne de Black Friday, et les prix changent. Consultez [le Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) et vérifiez le montant dans le panier avant de payer."
@@ -129173,17 +129159,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20 % de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
           "L'offre OpenClaw gérée de Hostinger vaut-elle le coup ? Elle s'adresse à ceux qui veulent l'assistant sans s'occuper d'un serveur : elle coûte moins cher que le VPS la première période et se renouvelle au même prix. Qui veut un accès root et d'autres programmes sur le serveur a intérêt à prendre le VPS.",
           "Faut-il un compte OpenAI ou Anthropic ? Non. Dans les deux cas, vous pouvez utiliser les crédits d'IA de Hostinger. Un compte chez le fournisseur n'est nécessaire que si vous préférez votre propre clé.",
-          "Existe-t-il un code promo Hostinger pour OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % de réduction sur la première période.",
           "L'offre gérée convient-elle à Hermes Agent ou à Paperclip ? Oui. Les trois sont dans la même offre, « Applications d'automatisation IA », au même prix. La page de Paperclip ne mentionne pas de crédits d'IA, alors apportez votre propre clé.",
           "Un client Hostinger existant peut-il utiliser SONAR20 ? Il peut s'appliquer à un nouvel achat éligible avec le même compte, pas au renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
-        ]
-      },
-      {
-        "heading": "Qui écrit",
-        "paragraphs": [
-          "Em Casa com Cecília tourne sur Hostinger, en application web Node.js, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l'équipe n'utilise OpenClaw : ce texte rassemble ce que disent les pages de Hostinger et la documentation officielle d'OpenClaw."
         ]
       }
     ],
@@ -129211,13 +129191,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez le géré si vous voulez l'assistant en ligne sans installer ni configurer de serveur, Hostinger s'occupant des mises à jour, des sauvegardes et de la sécurité.",
-        "Prenez le VPS si vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n."
+        "vous voulez l'assistant en ligne sans installer ni configurer de serveur, Hostinger s'occupant des mises à jour, des sauvegardes et de la sécurité (géré).",
+        "vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n (VPS)."
       ],
       "skipIf": [
-        "Évitez le VPS si vous ne savez pas ce que sont root et Docker : mettre à jour et protéger le système vous incombe.",
-        "Passez votre tour sur le géré si vous avez besoin d'un accès root ou de plus de mémoire et de disque.",
-        "Passez votre tour sur les deux si le même assistant doit servir des personnes qui ne se font pas confiance : elles ne doivent pas partager une passerelle. Une équipe dont les membres se font confiance demande une autre analyse ; il n'existe pas de règle universelle d'un serveur par personne."
+        "vous ne savez pas ce que sont root et Docker et pensez au VPS : mettre à jour et protéger le système vous incombe.",
+        "il vous faut un accès root ou plus de mémoire et de disque, ce que le géré ne propose pas.",
+        "le même assistant doit servir des personnes qui ne se font pas confiance : elles ne doivent pas partager une passerelle."
       ]
     }
   },
@@ -129257,7 +129237,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Verwaltet oder VPS für OpenClaw bei Hostinger: KI-Guthaben, Telegram und WhatsApp, und wer sich um den Server kümmert.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-de-v2.webp",
@@ -129390,12 +129370,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**Wählen Sie den VPS, wenn:** Sie Root-Zugriff wollen und weitere Programme auf demselben Server betreiben, etwa eine Website oder n8n; Sie sich mit Servern auskennen oder es lernen wollen und bereit sind, das System zu aktualisieren und abzusichern; oder Sie mehr Arbeitsspeicher und Speicherplatz brauchen: Die KVM-Tarife reichen von 4 GB bis 32 GB RAM.",
           "**Im Zweifel beginnen Sie mit der verwalteten Option.** Sie kostet im ersten Zeitraum weniger und verlangt keine Serverkenntnisse."
-        ]
+        ],
+        "emphasis": "Laut Tabelle ist für alle, die OpenClaw ohne Serverpflege online haben wollen, die verwaltete Option die richtige Wahl, weil Hostinger Updates und Sicherheit übernimmt, während beides beim VPS bei Ihnen liegt."
       },
       {
         "heading": "Gutschein SONAR20",
         "paragraphs": [
-          "Geben Sie **SONAR20** im Warenkorb ein: 20 % im ersten Zeitraum eines berechtigten Neukaufs, monatlich oder jährlich, auch mit bestehendem Konto. Domainregistrierungen und Verlängerungen sind ausgeschlossen; die Verlängerung wird zum Listenpreis berechnet. Einzelheiten stehen im [SONAR20-Ratgeber](/de/reviews/hostinger-gutschein-empfehlungscode) und auf der [Hostinger-Seite](/de/coupons/hostinger)."
+          "Geben Sie **SONAR20** im Warenkorb ein: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Bei Laufzeiten von 12, 24 und 48 Monaten gelten die 20 %; bei 1-Monats-Tarifen hängt die Annahme vom Tarif ab, prüfen Sie also die Zeile „Coupon applied“ im Warenkorb, bevor Sie bezahlen. Domainregistrierungen und Verlängerungen sind ausgeschlossen; die Verlängerung wird zum Listenpreis berechnet. Einzelheiten stehen im [SONAR20-Ratgeber](/de/reviews/hostinger-gutschein-empfehlungscode) und auf der [Hostinger-Seite](/de/coupons/hostinger)."
         ],
         "postParagraphs": [
           "Hostinger hat gerade eine Black-Friday-Aktion, und die Preise ändern sich. Sehen Sie sich [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote) an und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
@@ -129404,17 +129385,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Hostinger-Gutschein? Der Hostinger-Gutschein ist SONAR20, mit 20 % Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Lohnt sich das verwaltete OpenClaw von Hostinger? Ja, wenn Sie den Assistenten ohne Serverpflege wollen: Es ist im ersten Zeitraum günstiger als der VPS, und die Verlängerung kostet gleich viel. Wer Root-Zugriff und andere Programme auf dem Server braucht, ist mit dem VPS besser bedient.",
           "Braucht man ein Konto bei OpenAI oder Anthropic? Nein. Bei beiden Optionen können Sie das KI-Guthaben von Hostinger nutzen. Ein Konto beim Anbieter brauchen Sie nur, wenn Sie lieber Ihren eigenen Schlüssel verwenden.",
-          "Gibt es einen Hostinger-Gutschein für OpenClaw? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % Rabatt auf den ersten Zeitraum.",
           "Passt der verwaltete Tarif auch für Hermes Agent oder Paperclip? Ja. Alle drei sind im selben Tarif, „AI automation apps“, zum gleichen Preis. Die Paperclip-Seite nennt kein KI-Guthaben, bringen Sie also Ihren eigenen Schlüssel mit.",
           "Können Hostinger-Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
-        ]
-      },
-      {
-        "heading": "Wer schreibt",
-        "paragraphs": [
-          "Em Casa com Cecília läuft bei Hostinger, als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand im Team nutzt OpenClaw: Dieser Text fasst zusammen, was die Hostinger-Seiten und die offizielle OpenClaw-Dokumentation sagen."
         ]
       }
     ],
@@ -129443,13 +129418,13 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "Nehmen Sie die verwaltete Option, wenn der Assistent online sein soll, ohne dass Sie einen Server installieren oder einrichten, und Hostinger Updates, Backups und Sicherheit übernimmt.",
-        "Nehmen Sie den VPS, wenn Sie Root-Zugriff wollen und weitere Programme auf demselben Server betreiben, etwa eine Website oder n8n."
+        "Sie den Assistenten online haben wollen, ohne einen Server zu installieren oder einzurichten, und Hostinger Updates, Backups und Sicherheit übernimmt (verwaltet).",
+        "Sie Root-Zugriff wollen und weitere Programme auf demselben Server betreiben, etwa eine Website oder n8n (VPS)."
       ],
       "skipIf": [
-        "Lassen Sie den VPS aus, wenn Sie nicht wissen, was Root oder Docker ist: Das System zu aktualisieren und abzusichern liegt bei Ihnen.",
-        "Lassen Sie die verwaltete Option aus, wenn Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauchen.",
-        "Lassen Sie beide aus, wenn derselbe Assistent Personen bedienen soll, die einander nicht vertrauen: Sie sollten kein Gateway teilen. Ein Team mit gegenseitigem Vertrauen braucht eine andere Bewertung; es gibt keine allgemeine Regel eines Servers pro Person."
+        "Sie nicht wissen, was Root oder Docker ist, und an den VPS denken: Das System zu aktualisieren und abzusichern liegt bei Ihnen.",
+        "Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauchen, was die verwaltete Option nicht bietet.",
+        "derselbe Assistent Personen bedienen soll, die einander nicht vertrauen: Sie sollten kein Gateway teilen."
       ]
     }
   },
@@ -129489,7 +129464,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Gestito o VPS per OpenClaw su Hostinger: crediti IA, Telegram e WhatsApp, e chi si occupa del server.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-it-v2.webp",
@@ -129622,12 +129597,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**Scegli il VPS se:** vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n; sai gestire un server, o vuoi imparare, e accetti di aggiornare e proteggere il sistema; oppure ti servono più memoria e spazio: i piani KVM vanno da 4 GB a 32 GB di RAM.",
           "**Se hai dei dubbi, parti dal gestito.** Costa meno nel primo periodo e non richiede conoscenze di server."
-        ]
+        ],
+        "emphasis": "Dalla tabella, per chi vuole OpenClaw online senza occuparsi di un server, la scelta è il gestito, perché Hostinger si occupa di aggiornamenti e sicurezza, mentre sul VPS restano entrambi a te."
       },
       {
         "heading": "Coupon SONAR20",
         "paragraphs": [
-          "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, mensile o annuale, anche con account esistente. Registrazione di domini e rinnovo sono esclusi; il rinnovo si paga al prezzo di listino. Consulta la [guida SONAR20](/it/reviews/coupon-hostinger-codice-invito) e la [pagina Hostinger](/it/coupons/hostinger)."
+          "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Sui cicli da 12, 24 e 48 mesi si applica il 20%; sui piani da 1 mese l'accettazione dipende dal piano, quindi controlla la riga «Coupon applied» nel carrello prima di pagare. Registrazione di domini e rinnovo sono esclusi; il rinnovo si paga al prezzo di listino. Consulta la [guida SONAR20](/it/reviews/coupon-hostinger-codice-invito) e la [pagina Hostinger](/it/coupons/hostinger)."
         ],
         "postParagraphs": [
           "Hostinger è in piena campagna di Black Friday, e i prezzi cambiano. Guarda [il Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) e controlla l'importo nel carrello prima di pagare."
@@ -129636,17 +129612,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo «Have a coupon code?» del carrello e controlla la riga «Coupon applied» prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
           "Vale la pena l'OpenClaw gestito di Hostinger? Sì, per chi vuole l'assistente senza gestire un server: costa meno del VPS nel primo periodo e si rinnova allo stesso prezzo. Chi vuole root e altri programmi sul server si trova meglio con il VPS.",
           "Serve un account su OpenAI o Anthropic? No. In entrambe le opzioni puoi usare i crediti IA di Hostinger. L'account presso il fornitore serve solo se preferisci la tua chiave.",
-          "Esiste un coupon di sconto Hostinger per OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% di sconto sul primo periodo.",
           "Il piano gestito va bene per Hermes Agent o Paperclip? Sì. Tutti e tre sono nello stesso piano, «Apps di automazione IA», allo stesso prezzo. La pagina di Paperclip non elenca crediti IA, quindi porta la tua chiave.",
           "Un cliente Hostinger esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
-        ]
-      },
-      {
-        "heading": "Chi scrive",
-        "paragraphs": [
-          "Em Casa com Cecília gira su Hostinger, come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno del team usa OpenClaw: questo testo raccoglie ciò che dicono le pagine di Hostinger e la documentazione ufficiale di OpenClaw."
         ]
       }
     ],
@@ -129674,13 +129644,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prendi il gestito se vuoi l'assistente online senza installare né configurare un server, con Hostinger che si occupa di aggiornamenti, backup e sicurezza.",
-        "Prendi il VPS se vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n."
+        "vuoi l'assistente online senza installare né configurare un server, con Hostinger che si occupa di aggiornamenti, backup e sicurezza (gestito).",
+        "vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n (VPS)."
       ],
       "skipIf": [
-        "Lascia perdere il VPS se non sai cos'è root né Docker: aggiornare e proteggere il sistema resta a te.",
-        "Lascia perdere il gestito se ti serve l'accesso root o più memoria e spazio.",
-        "Lascia perdere entrambi se lo stesso assistente deve servire persone che non si fidano tra loro: non devono condividere lo stesso gateway. Un team che si fida reciprocamente richiede una valutazione diversa; non esiste una regola universale di un server per persona."
+        "non sai cos'è root né Docker e stai pensando al VPS: aggiornare e proteggere il sistema resta a te.",
+        "ti servono accesso root o più memoria e spazio, che il gestito non offre.",
+        "lo stesso assistente deve servire persone che non si fidano tra loro: non devono condividere lo stesso gateway."
       ]
     },
     "hideFromPortugueseListings": true
@@ -129721,7 +129691,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "호스팅어에서 OpenClaw를 관리형으로 쓸지 VPS로 쓸지. AI 크레딧, 텔레그램과 왓츠앱, 서버를 누가 관리하는지를 비교합니다.",
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-ko-v2.webp",
@@ -129854,12 +129824,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**다음에 해당한다면 VPS를 고르세요:** root 접근이 필요하고 같은 서버에서 웹사이트나 n8n 같은 다른 프로그램도 돌리고 싶다면, 서버를 다룰 줄 알거나 배우고 싶고 시스템 업데이트와 보호를 직접 맡을 수 있다면, 또는 더 많은 메모리와 디스크가 필요하다면. KVM 플랜은 RAM 4GB에서 32GB까지 있습니다.",
           "**고민된다면 관리형부터 시작하세요.** 첫 기간에는 비용이 덜 들고, 서버 지식이 필요 없습니다."
-        ]
+        ],
+        "emphasis": "비교표로 보면 서버를 직접 관리하지 않고 OpenClaw를 쓰려는 사람에게는 관리형이 맞습니다. 관리형은 호스팅어가 업데이트와 보안을 맡고, VPS에서는 둘 다 직접 맡아야 하기 때문입니다."
       },
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니에 **SONAR20**을 입력하면 적용 대상인 신규 구매의 첫 기간에 20% 할인됩니다. 월간·연간 계약 모두 가능하며, 기존 계정도 대상 신규 구매에는 쓸 수 있습니다. 도메인 등록과 갱신은 제외되며 갱신은 정가로 청구됩니다. 조건은 [SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)과 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에서 확인하세요."
+          "장바구니에 **SONAR20**을 입력하면 적용 대상인 신규 구매의 첫 기간에 20% 할인됩니다. 기존 계정도 대상 신규 구매에는 쓸 수 있습니다. 12개월, 24개월, 48개월 계약에는 20%가 적용되고, 1개월 플랜은 플랜에 따라 적용 여부가 달라지므로 결제 전에 장바구니의 \"Coupon applied\" 줄을 확인하세요. 도메인 등록과 갱신은 제외되며 갱신은 정가로 청구됩니다. 조건은 [SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)과 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에서 확인하세요."
         ],
         "postParagraphs": [
           "호스팅어는 블랙프라이데이 행사 중이며 가격이 달라집니다. [호스팅어 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)를 보고, 결제하기 전에 장바구니에서 금액을 확인하세요."
@@ -129868,17 +129839,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "호스팅어 쿠폰 코드는 무엇인가요? 호스팅어 쿠폰은 SONAR20이며, 적용 대상인 신규 구매의 첫 기간에 20% 할인됩니다. 장바구니의 \"Have a coupon code?\" 입력란에 코드를 넣고, 결제 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 할인 없이 정가로 청구됩니다.",
           "호스팅어의 관리형 OpenClaw는 살 만한가요? 서버를 직접 관리하고 싶지 않은 사람에게 가치가 있습니다. 첫 기간에는 VPS보다 저렴하고 갱신가는 같습니다. root와 서버의 다른 프로그램이 필요하다면 VPS가 더 맞습니다.",
           "OpenAI나 Anthropic 계정이 필요한가요? 아니요. 두 방식 모두 호스팅어 AI 크레딧을 쓸 수 있습니다. 제공업체 계정은 직접 가진 API 키를 쓰고 싶을 때만 필요합니다.",
-          "OpenClaw용 호스팅어 쿠폰이 있나요? 있습니다. 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣으면 첫 기간에 20%가 할인됩니다.",
           "관리형 플랜으로 Hermes Agent나 Paperclip도 쓸 수 있나요? 네. 세 가지 모두 같은 \"AI 자동화 앱\" 플랜에 같은 가격으로 있습니다. Paperclip 페이지에는 AI 크레딧이 나와 있지 않으니 직접 가진 키를 쓰세요.",
           "기존 Hostinger 고객도 SONAR20을 쓸 수 있나요? 같은 계정의 대상 신규 구매에는 적용될 수 있지만 현재 서비스 갱신에는 적용되지 않습니다. 첫 계약 기간 20% 할인이며 도메인 등록도 제외됩니다. 장바구니 총액을 확인하세요."
-        ]
-      },
-      {
-        "heading": "작성자 소개",
-        "paragraphs": [
-          "Em Casa com Cecília는 Node.js Web App으로 호스팅어에서 운영되며, Bruno는 2024년부터 고객으로 호스팅과 VPS KVM 2를 이용하고 있습니다. 팀 중 누구도 OpenClaw를 쓰지 않습니다. 이 글은 호스팅어 페이지와 OpenClaw 공식 문서가 말하는 내용을 정리한 것입니다."
         ]
       }
     ],
@@ -129913,7 +129878,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "root나 Docker가 무엇인지 모른다면 VPS는 건너뛰세요. 시스템 업데이트와 보호를 직접 맡아야 합니다.",
         "root 접근이나 더 많은 메모리와 디스크가 필요하다면 관리형은 건너뛰세요.",
-        "서로 신뢰하지 않는 사용자를 하나의 게이트웨이로 묶지 마세요. 서로 신뢰하는 팀은 별도로 판단해야 하며, 무조건 한 사람당 서버 한 대라는 규칙은 아닙니다."
+        "서로 신뢰하지 않는 사용자가 같은 어시스턴트를 쓴다면 VPS도 관리형도 건너뛰세요. 하나의 게이트웨이를 함께 쓰면 안 됩니다."
       ]
     }
   },
@@ -129953,7 +129918,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger で OpenClaw をマネージドにするか VPS にするか。AI クレジット、Telegram と WhatsApp、サーバーを誰が管理するかを比べます。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -130087,12 +130052,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**VPS を選ぶのは次の場合です：** root アクセスが欲しく、同じサーバーでウェブサイトや n8n などほかのプログラムも動かしたい場合。サーバーを扱い慣れている、または学びたく、システムの更新と保護を自分で行える場合。あるいは、より多くのメモリとディスクが必要な場合です。KVM プランは RAM 4 GB から 32 GB まであります。",
           "**迷ったら、マネージドから始めてください。** 最初の期間は安く、サーバーの知識も要りません。"
-        ]
+        ],
+        "emphasis": "比較表を見ると、サーバーを管理せずに OpenClaw を動かしたい人にはマネージドが向いています。マネージドでは Hostinger が更新とセキュリティを担当し、VPS ではその両方があなたの担当になるからです。"
       },
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートに **SONAR20** を入力すると、対象の新規購入で初回期間が20%割引になります。月額・年額契約のどちらも対象で、既存アカウントでも対象の新規購入なら使えます。ドメイン登録と更新は対象外で、更新は通常料金です。条件は [SONAR20 の使い方](/ja/reviews/hostinger-referral-code-ja) と [Hostinger のクーポンページ](/ja/coupons/hostinger) を確認してください。"
+          "カートに **SONAR20** を入力すると、対象の新規購入で初回期間が20%割引になります。既存アカウントでも対象の新規購入なら使えます。12か月・24か月・48か月の契約には20%が適用されます。1か月プランは適用されるかどうかがプランによって異なるため、支払う前にカートの「Coupon applied」の行を確認してください。ドメイン登録と更新は対象外で、更新は通常料金です。条件は [SONAR20 の使い方](/ja/reviews/hostinger-referral-code-ja) と [Hostinger のクーポンページ](/ja/coupons/hostinger) を確認してください。"
         ],
         "postParagraphs": [
           "Hostinger はブラックフライデーのキャンペーン中で、価格が変わります。[Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見て、支払う前にカートで金額を確認してください。"
@@ -130101,17 +130067,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostinger のクーポンコードは何ですか？ Hostinger のクーポンは SONAR20 で、対象の新規購入の最初の期間が20%割引になります。カートの「Have a coupon code?」欄にコードを入力し、支払う前に「Coupon applied」の行を確認してください。更新は割引なしの通常料金です。",
           "OpenClaw のマネージドプランは買う価値がありますか？ サーバーを管理したくない人には価値があります。最初の期間は VPS より安く、更新価格も同じです。root や他のプログラムをサーバーで動かしたい人には VPS が向いています。",
           "OpenAI や Anthropic のアカウントは必要ですか？ いいえ。どちらの方法でも Hostinger の AI クレジットを使えます。プロバイダーのアカウントが必要なのは、自分の API キーを使いたい場合だけです。",
-          "OpenClaw の Hostinger クーポンはありますか？ あります。コード SONAR20 をカートのクーポン欄に入れると、最初の期間が 20% 割引になります。",
           "マネージドプランで Hermes Agent や Paperclip も使えますか？ はい。三つとも同じ「AI 自動化アプリ」プランで、料金も同じです。Paperclip のページには AI クレジットが載っていないので、自分のキーを用意してください。",
           "既存ユーザーもSONAR20を使えますか？ 同じアカウントでも対象の新規購入には使える場合がありますが、現在のサービスの更新には使えません。初回契約期間が20%割引で、ドメイン登録も対象外です。カートの総額を確認してください。"
-        ]
-      },
-      {
-        "heading": "この記事を書いた人",
-        "paragraphs": [
-          "Em Casa com Cecília は Hostinger で運営されており、Node.js Web App として動いています。Bruno は 2024 年から顧客で、ホスティングと VPS KVM 2 を使っています。チームの誰も OpenClaw は使っていません。この記事は、Hostinger のページと OpenClaw の公式ドキュメントに書かれていることをまとめたものです。"
         ]
       }
     ],
@@ -130145,7 +130105,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "root や Docker が何か分からないなら、VPS は見送ってください。システムの更新と保護はあなたの担当になります。",
         "root アクセスや、より多くのメモリとディスクが必要なら、マネージドは見送ってください。",
-        "互いを信頼していない利用者に一つのゲートウェイを共有させないでください。互いを信頼するチームは別に判断する必要があり、一人につきサーバー一台という一律の規則ではありません。"
+        "互いを信頼していない利用者が同じアシスタントを使うなら、どちらも見送ってください。一つのゲートウェイを共有させてはいけません。"
       ]
     }
   },
@@ -130185,7 +130145,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw 在 Hostinger 選託管還是 VPS：AI 額度、Telegram 與 WhatsApp，以及誰來維護伺服器。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -130319,12 +130279,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**如果你符合以下情況，選 VPS：** 你想要 root 存取，並在同一台伺服器上跑網站或 n8n 等其他程式；你熟悉伺服器，或想學習，並願意自己更新與保護系統；或者你需要更多記憶體與硬碟。KVM 方案提供 4 GB 到 32 GB 的 RAM。",
           "**拿不定主意，先從託管開始。** 它首期花費較少，也不需要伺服器知識。"
-        ]
+        ],
+        "emphasis": "從比較表來看，想讓 OpenClaw 上線又不想管伺服器的人，答案是託管，因為更新與安全由 Hostinger 負責，而 VPS 這兩件事都要自己來。"
       },
       {
         "heading": "SONAR20 優惠碼",
         "paragraphs": [
-          "在購物車輸入 **SONAR20**：符合資格的新購買首期享 20% 折扣，月付、年付均可，既有帳號的新購買同樣適用。網域註冊及續訂不適用；續訂按定價計算。條件請看 [SONAR20 使用說明](/zh-hant/reviews/hostinger-referral-code-zh-hant) 與 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
+          "在購物車輸入 **SONAR20**：符合資格的新購買首期享 20% 折扣，既有帳號的新購買同樣適用。12、24、48 個月的方案適用 20%；1 個月的方案是否接受，取決於方案本身，付款前請在購物車確認「Coupon applied」那一行。網域註冊及續訂不適用；續訂按定價計算。條件請看 [SONAR20 使用說明](/zh-hant/reviews/hostinger-referral-code-zh-hant) 與 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
         ],
         "postParagraphs": [
           "Hostinger 正在進行黑五活動，價格會變動。請看[Hostinger 黑五](/zh-hant/reviews/hostinger-black-friday-zh-hant)，付款前在購物車確認金額。"
@@ -130333,17 +130294,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的優惠碼是什麼？Hostinger 優惠碼是 SONAR20，符合資格的新購買首期享 20% 折扣：在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」那一行。續訂按定價計算，沒有折扣。",
           "OpenClaw 的託管方案值得買嗎？對於不想管理伺服器的人來說值得：首期比 VPS 便宜，續訂價格相同。需要 root 權限並想在伺服器上跑其他程式的人，VPS 比較適合。",
           "需要 OpenAI 或 Anthropic 帳戶嗎？不需要。兩種方式都能使用 Hostinger 的 AI 額度。只有想用自己的 API 金鑰時，才需要該供應商的帳戶。",
-          "OpenClaw 有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，首期享 20% 折扣。",
           "託管方案能用於 Hermes Agent 或 Paperclip 嗎？可以。三者都在「AI 自動化應用」這同一方案中，價格也相同。Paperclip 的頁面沒有列出 AI 額度，所以請自備金鑰。",
           "舊客戶也能用 SONAR20 嗎？同一帳號符合資格的新購買可以適用，但目前服務的續訂不適用。首個合約期間享 20% 折扣，網域註冊也除外。請確認購物車總額。"
-        ]
-      },
-      {
-        "heading": "誰在寫這篇文章",
-        "paragraphs": [
-          "Em Casa com Cecília 運行在 Hostinger 上，是一個 Node.js Web App。Bruno 從 2024 年起就是客戶，使用主機與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw。本文整理自 Hostinger 頁面與 OpenClaw 官方文件的說明。"
         ]
       }
     ],
@@ -130377,7 +130332,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "如果你不知道 root 或 Docker 是什麼，就別選 VPS：更新與保護系統都要由你來做。",
         "如果你需要 root 存取，或更多記憶體與硬碟，就別選託管。",
-        "不要讓彼此不信任的使用者共享同一閘道。彼此信任的團隊需要另外評估，並非一律每人一台伺服器。"
+        "如果要讓彼此不信任的使用者共用同一個助理，兩者都別選：他們不該共享同一閘道。"
       ]
     }
   },
@@ -130417,7 +130372,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw 在 Hostinger 选托管还是 VPS：AI 额度、Telegram 和 WhatsApp，以及谁来维护服务器。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -130551,12 +130506,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**如果符合以下情况，选 VPS：** 你需要 root 权限，并想在同一台服务器上运行网站或 n8n 等其他程序；你熟悉服务器，或想学习，并愿意自己维护系统的更新和安全；或者你需要更多内存和硬盘。KVM 套餐提供 4 GB 到 32 GB 的内存。",
           "**拿不定主意，就从托管开始。** 它首期花费更少，也不需要服务器知识。"
-        ]
+        ],
+        "emphasis": "从对比表来看，想让 OpenClaw 运行又不想管服务器的人，答案是托管，因为更新和安全由 Hostinger 负责，而 VPS 这两件事都要自己来。"
       },
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车输入 **SONAR20**：符合条件的新购首期享 20% 折扣，月付、年付均可，已有账户的新购同样适用。域名注册及续费不适用；续费按标价收费。条件请看 [SONAR20 使用说明](/zh-hans/reviews/hostinger-referral-code-zh-hans) 与 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
+          "在购物车输入 **SONAR20**：符合条件的新购首期享 20% 折扣，已有账户的新购同样适用。12、24、48 个月的周期适用 20%；1 个月的套餐是否接受，取决于套餐本身，付款前请在购物车确认“Coupon applied”那一行。域名注册及续费不适用；续费按标价收费。条件请看 [SONAR20 使用说明](/zh-hans/reviews/hostinger-referral-code-zh-hans) 与 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
         ],
         "postParagraphs": [
           "Hostinger 正在进行黑五活动，价格会变动。请看[Hostinger 黑五](/zh-hans/reviews/hostinger-black-friday-zh-hans)，付款前在购物车确认金额。"
@@ -130565,17 +130521,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的优惠码是什么？Hostinger 优惠码是 SONAR20，符合条件的新购首期享 20% 折扣：在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”那一行。续费按标价收费，没有折扣。",
           "OpenClaw 的托管套餐值得买吗？对于不想管理服务器的人来说值得：首期比 VPS 便宜，续费价格相同。需要 root 权限并想在服务器上运行其他程序的人，更适合 VPS。",
           "需要 OpenAI 或 Anthropic 账户吗？不需要。两种方式都可以使用 Hostinger 的 AI 额度。只有想用自己的 API 密钥时，才需要该服务商的账户。",
-          "OpenClaw 有 Hostinger 优惠码吗？有：在购物车的优惠码栏输入 SONAR20，首期享 20% 折扣。",
           "托管套餐能用于 Hermes Agent 或 Paperclip 吗？可以。三者都在“AI 自动化应用”这同一套餐中，价格也相同。Paperclip 的页面没有列出 AI 额度，所以请自备密钥。",
           "已有客户也能用 SONAR20 吗？同一账户符合条件的新购可以适用，但当前服务的续费不适用。首个合同期间享 20% 折扣，域名注册也除外。请确认购物车总额。"
-        ]
-      },
-      {
-        "heading": "谁在写这篇文章",
-        "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App。Bruno 从 2024 年起就是客户，使用主机服务和一台 VPS KVM 2。团队中没有人使用 OpenClaw。本文整理自 Hostinger 页面和 OpenClaw 官方文档的说明。"
         ]
       }
     ],
@@ -130609,7 +130559,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "如果你不知道 root 或 Docker 是什么，就别选 VPS：更新和保护系统都要由你来做。",
         "如果你需要 root 权限，或更多内存和硬盘，就别选托管。",
-        "不要让彼此不信任的用户共享同一网关。彼此信任的团队需要另外评估，并非一律每人一台服务器。"
+        "如果要让彼此不信任的用户共用同一个助理，两者都别选：他们不该共享同一网关。"
       ]
     }
   },
@@ -130649,7 +130599,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw に最適な VPS（公式の最小 RAM なし）：AI モデルをクラウドに置く場合とローカルで動かす場合の、シナリオ別の KVM プラン。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -130837,30 +130787,25 @@ export const reviewsData: unknown[] = [
           "ローカルモデル：16 GB の KVM 4。最小のローカルレシピの下限 8 GiB を上回る最初の余裕のあるプランですが、実際の動作はモデルとコンテキスト次第です。32 GB の KVM 8 は、より大きなローカルモデルを使う場合にだけ意味があります。",
           "サーバーを扱いたくない：マネージド。Hostinger がアシスタントをインストールして更新します。",
           "お金をかけずに試す：Oracle Always Free。ただし、使われていないインスタンスは Oracle に回収されることがあります。"
-        ]
+        ],
+        "emphasis": "表を見ると、AI モデルをプロバイダー側で動かす人には 4 GB の KVM 1、ローカルモデルを動かす人には 16 GB の KVM 4 が向いています。KVM 4 が、最小のローカルレシピの下限 8 GiB を上回る最初の余裕のあるプランだからです。"
       },
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "**SONAR20**：既存アカウントでも対象となる新規購入の**最初の期間が20%割引**。ドメイン登録と更新は対象外です。カートでプランを確認してください。手順は[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)、条件は[サイト内の Hostinger のページ](/ja/coupons/hostinger)をご覧ください。"
+          "**SONAR20**：既存アカウントでも対象となる新規購入の**最初の期間が20%割引**。ドメイン登録と更新は対象外です。12か月・24か月・48か月の契約には20%が適用されます。1か月プランは適用されるかどうかがプランによって異なるため、支払う前にカートの「Coupon applied」の行を確認してください。手順は[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)、条件は[サイト内の Hostinger のページ](/ja/coupons/hostinger)をご覧ください。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostinger のクーポンコードは何ですか？ Hostinger のクーポンは SONAR20 で、対象の新規購入の最初の期間が20%割引になります。カートの「Have a coupon code?」欄にコードを入力し、支払う前に「Coupon applied」の行を確認してください。更新は割引なしの通常料金です。",
           "OpenClaw に必要な最小のサーバーは？ 公式ドキュメントは最小の RAM、CPU、ディスクを公表しておらず、安定版では Node 24.22.1 以降（または 26.12.1）を求めています。API キーやクレジットなら、出発点は KVM 1 です。ローカルモデルなら、下限 8 GiB は最小レシピの場合で、KVM 4 がそのレシピに対して最初に余裕のあるプランです。",
           "API キーなしで動かせる？ ローカルモデルなら動かせますが、問題はメモリです。ドキュメントは、最も小さいローカルレシピの下限を 8 GiB（コンテキストは 64K）としたうえで、モデルが収まることも快適に動くことも保証しないと書いています。Hostinger のクレジットを使えば AI プロバイダーのアカウントは要りませんが、使った分の料金がかかります。",
           "Oracle は本当に無料？ Always Free の範囲と地域の提供状況によっては無料で使えます。Oracle は、公開している CPU、ネットワーク、A1 ではメモリの使用率に関する基準に基づいて、遊休インスタンスを回収することがあります。リソースと条件は上をご覧ください。",
           "Mac mini と VPS、どちら？ パソコンを 24 時間つけておけるかどうかで決まります。つけておけるなら、自宅で動かせばサーバーの月額がかかりません。つけておけないなら、VPS かマネージドを選んでください。",
-          "OpenClaw の VPS に使える Hostinger の割引コードはある？ SONAR20：既存アカウントでも対象となる新規購入の最初の期間が20%割引。ドメイン登録と更新は対象外です。カートでプランを確認してください。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます（ドメイン登録を除く）。すでにお持ちのプランの更新は通常料金で、割引はありません。"
-        ]
-      },
-      {
-        "heading": "この記事を書いた人",
-        "paragraphs": [
-          "Em Casa com Cecília は Hostinger で Node.js Web App として動いていて、Bruno は 2024 年からのお客様で、ホスティングと VPS KVM 2 を使っています。チームに OpenClaw を使っている人はいません。この記事は、Hostinger、Oracle、OpenClaw の公式ドキュメントが言っていることをまとめたものです。"
         ]
       }
     ],
@@ -130934,7 +130879,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "공식 최소 RAM이 없는 OpenClaw의 최적 VPS: 클라우드 모델이냐 로컬 모델이냐에 따른 시나리오별 KVM 플랜.",
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-ko-v2.webp",
@@ -131121,30 +131066,25 @@ export const reviewsData: unknown[] = [
           "로컬 모델: 16 GB의 KVM 4. 가장 작은 로컬 레시피의 기준 8 GiB를 넘는 첫 번째 여유 있는 플랜이지만, 실제 성능은 모델과 컨텍스트에 달려 있습니다. 32 GB의 KVM 8은 더 큰 로컬 모델을 쓸 때만 의미가 있습니다.",
           "서버를 직접 관리하고 싶지 않다면: 호스팅어가 어시스턴트를 설치하고 업데이트하는 관리형.",
           "돈 들이지 않고 시험해 보려면: Oracle Always Free. 다만 Oracle이 유휴 인스턴스를 회수할 수 있습니다."
-        ]
+        ],
+        "emphasis": "표로 보면 AI 모델을 제공업체 쪽에서 돌리는 사람에게는 4 GB의 KVM 1이, 로컬 모델을 돌리는 사람에게는 16 GB의 KVM 4가 맞습니다. KVM 4가 가장 작은 로컬 레시피의 기준 8 GiB를 넘는 첫 번째 여유 있는 플랜이기 때문입니다."
       },
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "**SONAR20**: 기존 계정으로 하는 신규 구매도 대상이며 **첫 번째 기간 20% 할인**이 적용됩니다. 도메인 등록과 갱신은 제외됩니다. 장바구니에서 플랜을 확인하세요. 절차는 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko), 조건은 [사이트 안의 호스팅어 페이지](/ko/coupons/hostinger)에서 확인하세요."
+          "**SONAR20**: 기존 계정으로 하는 신규 구매도 대상이며 **첫 번째 기간 20% 할인**이 적용됩니다. 도메인 등록과 갱신은 제외됩니다. 12개월, 24개월, 48개월 계약에는 20%가 적용되고, 1개월 플랜은 플랜에 따라 적용 여부가 달라지므로 결제 전에 장바구니의 \"Coupon applied\" 줄을 확인하세요. 절차는 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko), 조건은 [사이트 안의 호스팅어 페이지](/ko/coupons/hostinger)에서 확인하세요."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "호스팅어 쿠폰 코드는 무엇인가요? 호스팅어 쿠폰은 SONAR20이며, 적용 대상인 신규 구매의 첫 기간에 20% 할인됩니다. 장바구니의 \"Have a coupon code?\" 입력란에 코드를 넣고, 결제 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 할인 없이 정가로 청구됩니다.",
           "OpenClaw에 필요한 최소 서버는? 공식 문서는 최소 RAM, CPU, 디스크를 공개하지 않으며 안정 버전에서 Node 24.22.1 이상(또는 26.12.1)을 요구합니다. API 키나 크레딧이라면 출발점은 KVM 1입니다. 로컬 모델이라면 기준 8 GiB는 가장 작은 레시피의 것이고, KVM 4가 그 레시피에 처음으로 여유 있는 플랜입니다.",
           "API 키 없이 돌릴 수 있나요? 로컬 모델로 가능하지만, 그러면 메모리가 문제입니다. 문서는 가장 작은 로컬 레시피의 기준을 64K 컨텍스트에서 8 GiB로 제시하면서, 모델이 들어맞는다는 것도 잘 돈다는 것도 보장하지 않는다고 말합니다. 호스팅어 크레딧을 쓰면 AI 제공업체 계정이 필요 없지만 사용한 만큼 비용을 냅니다.",
           "Oracle은 정말 무료인가요? Always Free 한도와 지역별 제공 상황에 따라 무료일 수 있습니다. Oracle은 공개된 CPU, 네트워크, A1에서는 메모리 사용률 기준에 따라 유휴 인스턴스를 회수할 수 있습니다. 위의 리소스와 조건을 확인하세요.",
           "Mac mini와 VPS 중 무엇이 좋을까요? 컴퓨터를 24시간 켜 둘 수 있는지에 달려 있습니다. 켜 둘 수 있다면 집에서 돌려 서버 월 요금을 아낄 수 있고, 그럴 수 없다면 VPS나 관리형을 고르세요.",
-          "OpenClaw VPS에 쓸 수 있는 호스팅어 할인 쿠폰이 있나요? SONAR20: 기존 계정도 대상 신규 구매의 첫 번째 기간에 20% 할인. 도메인 등록과 갱신은 제외됩니다. 장바구니에서 플랜을 확인하세요.",
           "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다(도메인 등록은 제외). 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
-        ]
-      },
-      {
-        "heading": "작성자 소개",
-        "paragraphs": [
-          "Em Casa com Cecília는 호스팅어에서 Node.js Web App으로 운영되고, Bruno는 2024년부터 호스팅어 고객으로 호스팅과 VPS KVM 2를 쓰고 있습니다. 팀에서 OpenClaw를 쓰는 사람은 없습니다. 이 글은 호스팅어, Oracle, OpenClaw 공식 문서가 말하는 내용을 모은 것입니다."
         ]
       }
     ],
@@ -131219,7 +131159,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "没有官方最低 RAM 的 OpenClaw，最适合的 VPS：按模型在云端还是本地，给出各场景的 KVM 套餐。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -131407,30 +131347,25 @@ export const reviewsData: unknown[] = [
           "本地模型：16 GB 的 KVM 4，第一个高于最小本地配方 8 GiB 下限、有余量的套餐，实际表现取决于模型和上下文。32 GB 的 KVM 8 只有在用更大的本地模型时才有意义。",
           "不想管服务器：托管方案，由 Hostinger 安装并更新助理。",
           "想免费试用：Oracle Always Free，但要知道 Oracle 可能收回闲置的实例。"
-        ]
+        ],
+        "emphasis": "从表格来看，AI 模型在供应商那边运行的人选 4 GB 的 KVM 1；要运行本地模型的人选 16 GB 的 KVM 4，因为它是第一个高于最小本地配方 8 GiB 下限、有余量的套餐。"
       },
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "**SONAR20**：符合条件的新购**首个周期享 20% 折扣**，已有账户也可适用。域名注册和续费除外，请在购物车确认套餐。操作步骤见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，条件见[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
+          "**SONAR20**：符合条件的新购**首个周期享 20% 折扣**，已有账户也可适用。域名注册和续费除外，12、24、48 个月的周期适用 20%；1 个月的套餐是否接受，取决于套餐本身，付款前请在购物车确认“Coupon applied”那一行。操作步骤见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，条件见[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的优惠码是什么？Hostinger 优惠码是 SONAR20，符合条件的新购首期享 20% 折扣：在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”那一行。续费按标价收费，没有折扣。",
           "OpenClaw 的最低服务器要求是什么？官方文档没有公布最低 RAM、CPU 或硬盘，稳定版只要求 Node 24.22.1 或更新（或 26.12.1）。用 API 密钥或额度时，起点是 KVM 1。用本地模型时，只有最小配方的下限是 8 GiB，KVM 4 是第一个对它有余量的。",
           "可以不用 API 密钥运行吗？可以，用本地模型，但这时内存就成了问题：文档把最小本地配方的下限定为 8 GiB（上下文 64K），并提醒这不保证模型放得下，也不保证跑得好。用 Hostinger 额度的话，不需要 AI 供应商的账号，但要按使用量付费。",
           "Oracle 真的免费吗？在 Always Free 额度与地区供应范围内，可能免费使用。Oracle 可能依据其公布的 CPU、网络（A1 上还包括内存）使用率标准，收回闲置实例。请参阅上文的资源和条件。",
           "Mac mini 还是 VPS？取决于电脑能不能 24 小时开着。能的话，在家运行可以省掉服务器月费；不能的话，选 VPS 或托管。",
-          "Hostinger 有适用于 OpenClaw VPS 的折扣码吗？ SONAR20：符合条件的新购首个周期享 20% 折扣，已有账户也可适用。域名注册和续费除外，请在购物车确认套餐。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣，域名注册除外。已有套餐的续费按标价收费，没有折扣。"
-        ]
-      },
-      {
-        "heading": "谁在写这篇文章",
-        "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App；Bruno 从 2024 年起就是 Hostinger 的客户，使用虚拟主机和一台 VPS KVM 2。团队里没有人在用 OpenClaw：本文汇总的是 Hostinger、Oracle 和 OpenClaw 官方文档所说的内容。"
         ]
       }
     ],
@@ -131504,7 +131439,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "沒有官方最低 RAM 的 OpenClaw，最適合的 VPS：依模型在雲端或本機，列出各情境的 KVM 方案。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -131692,30 +131627,25 @@ export const reviewsData: unknown[] = [
           "本機模型：16 GB 的 KVM 4，第一個高於最小本機配方 8 GiB 下限、有餘裕的方案，實際表現取決於模型和上下文。32 GB 的 KVM 8 只有在用更大的本機模型時才有意義。",
           "不想管伺服器：託管方案，由 Hostinger 安裝並更新助理。",
           "想免費試用：Oracle Always Free，但要知道 Oracle 可能回收閒置的執行個體。"
-        ]
+        ],
+        "emphasis": "從表格來看，AI 模型在供應商那邊執行的人選 4 GB 的 KVM 1；要執行本機模型的人選 16 GB 的 KVM 4，因為它是第一個高於最小本機配方 8 GiB 下限、有餘裕的方案。"
       },
       {
         "heading": "SONAR20 優惠碼",
         "paragraphs": [],
         "postParagraphs": [
-          "**SONAR20**：符合條件的新購**首期享 20% 折扣**，已有帳號也可適用。網域註冊和續訂除外，請在購物車確認方案。操作步驟見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，條件見[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+          "**SONAR20**：符合條件的新購**首期享 20% 折扣**，已有帳號也可適用。網域註冊和續訂除外，12、24、48 個月的方案適用 20%；1 個月的方案是否接受，取決於方案本身，付款前請在購物車確認「Coupon applied」那一行。操作步驟見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，條件見[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的優惠碼是什麼？Hostinger 優惠碼是 SONAR20，符合資格的新購買首期享 20% 折扣：在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」那一行。續訂按定價計算，沒有折扣。",
           "OpenClaw 的最低伺服器需求是什麼？官方文件沒有公布最低 RAM、CPU 或硬碟，穩定版只要求 Node 24.22.1 或更新（或 26.12.1）。用 API 金鑰或額度時，起點是 KVM 1。用本機模型時，只有最小配方的下限是 8 GiB，KVM 4 是第一個對它有餘裕的。",
           "可以不用 API 金鑰執行嗎？可以，用本機模型，但這時記憶體就成了問題：文件把最小本機配方的下限定為 8 GiB（上下文 64K），並提醒這不保證模型放得下，也不保證跑得好。用 Hostinger 額度的話，不需要 AI 供應商的帳號，但要按使用量付費。",
           "Oracle 真的免費嗎？在 Always Free 額度與地區供應範圍內，可能免費使用。Oracle 可能依據其公布的 CPU、網路（A1 上還包括記憶體）使用率標準，回收閒置執行個體。請參閱上文的資源和條件。",
           "Mac mini 還是 VPS？取決於電腦能不能 24 小時開著。能的話，在家執行可以省掉伺服器月費；不能的話，選 VPS 或託管。",
-          "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？ SONAR20：符合條件的新購首期享 20% 折扣，已有帳號也可適用。網域註冊和續訂除外，請在購物車確認方案。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣，網域註冊除外。已有方案的續約按定價計算，沒有折扣。"
-        ]
-      },
-      {
-        "heading": "誰在寫這篇文章",
-        "paragraphs": [
-          "Em Casa com Cecília 執行在 Hostinger 上，是一個 Node.js Web App；Bruno 從 2024 年起就是 Hostinger 的客戶，使用虛擬主機和一台 VPS KVM 2。團隊裡沒有人在用 OpenClaw：本文彙整的是 Hostinger、Oracle 和 OpenClaw 官方文件所說的內容。"
         ]
       }
     ],
@@ -131789,7 +131719,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Best VPS for OpenClaw with no official minimum RAM: the KVM plan for each scenario, with a cloud or local model.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -131977,30 +131907,25 @@ export const reviewsData: unknown[] = [
           "Local model: KVM 4, with 16 GB, the first plan with room above the 8 GiB floor of the smallest local recipe; performance depends on the model and the context. KVM 8, with 32 GB, makes sense only with a larger local model.",
           "If you do not want to look after a server: the managed option, where Hostinger installs and updates the assistant.",
           "To test without paying: Oracle Always Free, knowing that Oracle can reclaim an idle instance."
-        ]
+        ],
+        "emphasis": "By the table, for anyone running the AI model at the provider, the choice is KVM 1, with 4 GB; for a local model, it is KVM 4, with 16 GB, because it is the first plan with room above the 8 GiB floor of the smallest local recipe."
       },
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [],
         "postParagraphs": [
-          "**SONAR20**: **20% off the first period** of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; check your plan at checkout. See the steps in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and the conditions at [Hostinger's page on the site](/en/coupons/hostinger)."
+          "**SONAR20**: **20% off the first period** of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; On 12, 24 and 48-month terms the 20% applies; on 1-month plans acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying. See the steps in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and the conditions at [Hostinger's page on the site](/en/coupons/hostinger)."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
           "What is the minimum server for OpenClaw? The official documentation publishes no minimum RAM, CPU or disk; the stable release requires Node 24.22.1 or newer (or 26.12.1). With an API key or credits, KVM 1 is the starting point. With a local model, the 8 GiB floor applies to the smallest recipe only, and KVM 4 is the first with room to spare for it.",
           "Can you run it without an API key? Yes, with a local model, but then memory becomes the problem: the documentation gives 8 GiB as the floor for its smallest local recipe, with a 64K context, and warns that this does not guarantee the model fits or runs well. With Hostinger's credits, you do not need an account with an AI provider, but you pay for usage.",
           "Is Oracle really free? It can be, within the Always Free limits and regional availability. Oracle may reclaim an idle instance based on the CPU, network and, on A1, memory usage criteria it publishes. See the resources and conditions above.",
           "Mac mini or VPS? It depends on whether the computer can stay on 24 hours. If it can, running at home removes the server fee; if it cannot, choose a VPS or the managed option.",
-          "Is there a Hostinger discount coupon for an OpenClaw VPS? SONAR20: 20% off the first period of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; check your plan at checkout.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%, except domain registration. The renewal of a plan you already have is charged at the list price, with no discount."
-        ]
-      },
-      {
-        "heading": "Who writes this",
-        "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. Nobody on the team uses OpenClaw: this text gathers what Hostinger, Oracle and the official OpenClaw documentation say."
         ]
       }
     ],
@@ -132028,13 +131953,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take KVM 1, with 4 GB, if the AI model stays at the provider, through the API key or Hostinger's AI credits.",
-        "Take KVM 4, with 16 GB, if you will run a local model: it is the first plan with room above the 8 GiB floor of the smallest local recipe."
+        "the AI model stays at the provider, through the API key or Hostinger's AI credits: KVM 1, with 4 GB, is enough.",
+        "you will run a local model: KVM 4, with 16 GB, is the first plan with room above the 8 GiB floor of the smallest local recipe."
       ],
       "skipIf": [
-        "Skip KVM 1 if you will run a local model: 4 GB is below the 8 GiB floor of the smallest local recipe.",
-        "Skip the VPS if you do not want to look after a server: see the managed option, where Hostinger installs and updates the assistant.",
-        "Skip KVM 8 if you will not use a larger local model."
+        "you will run a local model and are eyeing KVM 1: 4 GB is below the 8 GiB floor of the smallest local recipe.",
+        "you do not want to look after a server: see the managed option, where Hostinger installs and updates the assistant.",
+        "you will not use a larger local model, since KVM 8 only makes sense with one."
       ]
     }
   },
@@ -132044,7 +131969,7 @@ export const reviewsData: unknown[] = [
     "locale": "de",
     "translationKey": "hostinger-openclaw-melhor-vps",
     "title": "Bester VPS für OpenClaw: Anforderungen und welcher KVM-Tarif passt",
-    "seoTitle": "Bester VPS für OpenClaw: welcher KVM-Tarif von Hostinger passt",
+    "seoTitle": "Bester VPS für OpenClaw: welcher KVM-Tarif passt",
     "type": "Hosting-Ratgeber",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -132074,7 +131999,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Bester VPS für OpenClaw ohne offiziellen RAM-Mindestwert: der KVM-Tarif je Szenario, mit Cloud- oder lokalem Modell.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-de-v2.webp",
@@ -132261,30 +132186,25 @@ export const reviewsData: unknown[] = [
           "Lokales Modell: KVM 4 mit 16 GB, der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts; die Leistung hängt von Modell und Kontext ab. Der KVM 8 mit 32 GB ist nur mit einem größeren lokalen Modell sinnvoll.",
           "Wer sich nicht um einen Server kümmern will: der verwaltete Weg, bei dem Hostinger den Assistenten installiert und aktualisiert.",
           "Zum Testen ohne Bezahlung: Oracle Always Free, mit dem Wissen, dass Oracle eine ungenutzte Instanz zurückholen kann."
-        ]
+        ],
+        "emphasis": "Laut Tabelle ist für alle, die das KI-Modell beim Anbieter laufen lassen, der KVM 1 mit 4 GB die richtige Wahl; für ein lokales Modell ist es der KVM 4 mit 16 GB, weil er der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts ist."
       },
       {
         "heading": "Gutschein SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "**SONAR20**: **20 % im ersten Zeitraum** eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen. Die Schritte stehen unter [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), die Bedingungen auf [der Hostinger-Seite dieser Website](/de/coupons/hostinger)."
+          "**SONAR20**: **20 % im ersten Zeitraum** eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Bei Laufzeiten von 12, 24 und 48 Monaten gelten die 20 %; bei 1-Monats-Tarifen hängt die Annahme vom Tarif ab, prüfen Sie also die Zeile „Coupon applied“ im Warenkorb, bevor Sie bezahlen. Die Schritte stehen unter [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), die Bedingungen auf [der Hostinger-Seite dieser Website](/de/coupons/hostinger)."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Hostinger-Gutschein? Der Hostinger-Gutschein ist SONAR20, mit 20 % Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Was ist der Mindestserver für OpenClaw? Die offizielle Dokumentation nennt keine Mindestwerte für RAM, CPU oder Festplatte; die stabile Version verlangt Node 24.22.1 oder neuer (oder 26.12.1). Mit API-Schlüssel oder Guthaben ist der KVM 1 der Ausgangspunkt. Mit lokalem Modell gilt die Untergrenze von 8 GiB nur für das kleinste Rezept, und der KVM 4 ist dafür der erste mit Reserve.",
           "Geht es ohne API-Schlüssel? Ja, mit lokalem Modell, aber dann ist der Speicher das Problem: Die Dokumentation nennt 8 GiB als Untergrenze für das kleinste lokale Rezept mit 64K Kontext und warnt, dass das weder garantiert, dass das Modell passt, noch, dass es gut läuft. Mit dem Guthaben von Hostinger brauchen Sie kein Konto bei einem KI-Anbieter, zahlen aber nach Nutzung.",
           "Ist Oracle wirklich kostenlos? Das kann es sein, innerhalb der Always-Free-Grenzen und je nach regionaler Verfügbarkeit. Oracle kann eine ungenutzte Instanz anhand der Kriterien zur Auslastung von CPU, Netzwerk und, bei den A1, Speicher zurückholen, die Oracle veröffentlicht. Die Ressourcen und Bedingungen finden Sie oben.",
           "Mac mini oder VPS? Das hängt davon ab, ob der Computer 24 Stunden laufen kann. Wenn ja, spart der Betrieb zu Hause die Servergebühr; wenn nein, wählen Sie VPS oder den verwalteten Weg.",
-          "Gibt es einen Hostinger-Gutschein für einen OpenClaw-VPS? SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; Tarif im Warenkorb prüfen.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %, außer bei der Domainregistrierung. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
-        ]
-      },
-      {
-        "heading": "Wer schreibt",
-        "paragraphs": [
-          "Em Casa com Cecília läuft bei Hostinger, als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand aus dem Team nutzt OpenClaw: Dieser Text fasst zusammen, was Hostinger, Oracle und die offizielle OpenClaw-Dokumentation sagen."
         ]
       }
     ],
@@ -132313,13 +132233,13 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "Nehmen Sie den KVM 1 mit 4 GB, wenn das KI-Modell beim Anbieter bleibt, über den API-Schlüssel oder das KI-Guthaben von Hostinger.",
-        "Nehmen Sie den KVM 4 mit 16 GB, wenn Sie ein lokales Modell betreiben: Er ist der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts."
+        "das KI-Modell beim Anbieter bleibt, über den API-Schlüssel oder das KI-Guthaben von Hostinger: Der KVM 1 mit 4 GB reicht.",
+        "Sie ein lokales Modell betreiben: Der KVM 4 mit 16 GB ist der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts."
       ],
       "skipIf": [
-        "Lassen Sie den KVM 1 aus, wenn Sie ein lokales Modell betreiben: 4 GB liegen unter der Untergrenze von 8 GiB des kleinsten lokalen Rezepts.",
-        "Lassen Sie den VPS aus, wenn Sie sich nicht um einen Server kümmern wollen: Sehen Sie sich den verwalteten Weg an, bei dem Hostinger den Assistenten installiert und aktualisiert.",
-        "Lassen Sie den KVM 8 aus, wenn Sie kein größeres lokales Modell nutzen."
+        "Sie ein lokales Modell betreiben und an den KVM 1 denken: 4 GB liegen unter der Untergrenze von 8 GiB des kleinsten lokalen Rezepts.",
+        "Sie sich nicht um einen Server kümmern wollen: Sehen Sie sich den verwalteten Weg an, bei dem Hostinger den Assistenten installiert und aktualisiert.",
+        "Sie kein größeres lokales Modell nutzen, denn der KVM 8 ist nur mit einem solchen sinnvoll."
       ]
     }
   },
@@ -132359,7 +132279,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Meilleur VPS pour OpenClaw sans RAM minimale officielle : le KVM selon le scénario, avec un modèle dans le cloud ou en local.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -132547,30 +132467,25 @@ export const reviewsData: unknown[] = [
           "Modèle local : KVM 4, avec 16 Go, le premier forfait avec de la marge au-dessus du plancher de 8 GiB de la plus petite recette locale ; le résultat dépend du modèle et du contexte. Le KVM 8, avec 32 Go, n'a de sens qu'avec un modèle local plus grand.",
           "Si vous ne voulez pas gérer un serveur : l'offre gérée, où Hostinger installe et met à jour l'assistant.",
           "Pour tester sans payer : Oracle Always Free, en sachant qu'Oracle peut récupérer une instance inactive."
-        ]
+        ],
+        "emphasis": "D'après le tableau, pour qui fait tourner le modèle d'IA chez le fournisseur, le bon choix est le KVM 1, avec 4 Go ; pour un modèle local, c'est le KVM 4, avec 16 Go, car c'est le premier forfait avec de la marge au-dessus du plancher de 8 GiB de la plus petite recette locale."
       },
       {
         "heading": "Code promo SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "**SONAR20** : **20 % sur la première période** d'un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus ; vérifiez le forfait au panier. Consultez les étapes dans [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et les conditions sur [la page d'Hostinger sur le site](/fr/coupons/hostinger)."
+          "**SONAR20** : **20 % sur la première période** d'un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus ; Sur les durées de 12, 24 et 48 mois, les 20 % s'appliquent ; sur les forfaits d'1 mois, l'acceptation dépend du forfait, alors vérifiez la ligne « Coupon applied » du panier avant de payer. Consultez les étapes dans [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et les conditions sur [la page d'Hostinger sur le site](/fr/coupons/hostinger)."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20 % de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
           "Quel est le serveur minimum pour OpenClaw ? La documentation officielle ne publie ni minimum de RAM, de CPU ni de disque ; la version stable exige Node 24.22.1 ou plus récent (ou 26.12.1). Avec une clé d'API ou des crédits, le KVM 1 est le point de départ. Avec un modèle local, le plancher de 8 GiB ne vaut que pour la plus petite recette, et le KVM 4 est le premier avec de la marge pour elle.",
           "Peut-on s'en passer, sans clé d'API ? Oui, avec un modèle local, mais alors la mémoire devient le problème : la documentation donne 8 GiB comme plancher de sa plus petite recette locale, avec un contexte de 64K, et prévient que cela ne garantit ni que le modèle tienne, ni qu'il tourne bien. Avec les crédits de Hostinger, vous n'avez pas besoin d'un compte chez un fournisseur d'IA, mais vous payez l'usage.",
           "Oracle est-il vraiment gratuit ? Cela peut l'être, dans les limites Always Free et selon la disponibilité de la région. Oracle peut récupérer une instance inactive selon les critères d'utilisation du CPU, du réseau et, sur les A1, de la mémoire qu'elle publie. Voyez les ressources et les conditions plus haut.",
           "Mac mini ou VPS ? Cela dépend de la possibilité de laisser l'ordinateur allumé 24 heures sur 24. Si c'est possible, tourner chez soi supprime la mensualité du serveur ; sinon, choisissez un VPS ou l'offre gérée.",
-          "Existe-t-il un code promo Hostinger pour un VPS OpenClaw ? SONAR20 : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus ; vérifiez le forfait au panier.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %, sauf l'enregistrement de domaine. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
-        ]
-      },
-      {
-        "heading": "Qui écrit",
-        "paragraphs": [
-          "Em Casa com Cecília tourne sur Hostinger, en Node.js Web App, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l'équipe n'utilise OpenClaw : ce texte rassemble ce que disent Hostinger, Oracle et la documentation officielle d'OpenClaw."
         ]
       }
     ],
@@ -132598,13 +132513,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez le KVM 1, avec 4 Go, si le modèle d'IA reste chez le fournisseur, via la clé d'API ou les crédits IA de Hostinger.",
-        "Prenez le KVM 4, avec 16 Go, si vous allez faire tourner un modèle local : c'est le premier forfait avec de la marge au-dessus du plancher de 8 GiB de la plus petite recette locale."
+        "le modèle d'IA reste chez le fournisseur, via la clé d'API ou les crédits IA de Hostinger : le KVM 1, avec 4 Go, suffit.",
+        "vous allez faire tourner un modèle local : le KVM 4, avec 16 Go, est le premier forfait avec de la marge au-dessus du plancher de 8 GiB de la plus petite recette locale."
       ],
       "skipIf": [
-        "Passez votre tour sur le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le plancher de 8 GiB de la plus petite recette locale.",
-        "Passez votre tour sur le VPS si vous ne voulez pas gérer un serveur : regardez l'offre gérée, où Hostinger installe et met à jour l'assistant.",
-        "Passez votre tour sur le KVM 8 si vous n'allez pas utiliser un modèle local plus grand."
+        "vous allez faire tourner un modèle local et pensez au KVM 1 : 4 Go est sous le plancher de 8 GiB de la plus petite recette locale.",
+        "vous ne voulez pas gérer un serveur : regardez l'offre gérée, où Hostinger installe et met à jour l'assistant.",
+        "vous n'allez pas utiliser un modèle local plus grand, car le KVM 8 n'a de sens qu'avec un tel modèle."
       ]
     }
   },
@@ -132644,7 +132559,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Mejor VPS para OpenClaw sin RAM mínima oficial: el KVM para cada escenario, con modelo en la nube o local.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -132832,30 +132747,25 @@ export const reviewsData: unknown[] = [
           "Modelo local: KVM 4, con 16 GB, el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña; el resultado depende del modelo y del contexto. El KVM 8, con 32 GB, tiene sentido solo con un modelo local más grande.",
           "Si no quieres ocuparte de un servidor: la opción gestionada, en la que Hostinger instala y actualiza el asistente.",
           "Para probar sin pagar: Oracle Always Free, sabiendo que Oracle puede recuperar una instancia inactiva."
-        ]
+        ],
+        "emphasis": "Por la tabla, para quien corre el modelo de IA en el proveedor, la elección es el KVM 1, con 4 GB; para un modelo local, es el KVM 4, con 16 GB, porque es el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña."
       },
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "**SONAR20**: **20% en el primer período** de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera; revisa el plan en el carrito. Consulta los pasos en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y las condiciones en [la página de Hostinger en el sitio](/es/coupons/hostinger)."
+          "**SONAR20**: **20% en el primer período** de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera; En los ciclos de 12, 24 y 48 meses se aplica el 20 %; en los planes de 1 mes la aceptación depende del plan, así que revisa la línea «Coupon applied» del carrito antes de pagar. Consulta los pasos en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y las condiciones en [la página de Hostinger en el sitio](/es/coupons/hostinger)."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20 % de descuento en el primer período de una compra nueva elegible: escribe el código en el campo «Have a coupon code?» del carrito y revisa la línea «Coupon applied» antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
           "¿Cuál es el servidor mínimo para OpenClaw? La documentación oficial no publica mínimos de RAM, CPU ni disco; en la versión estable exige Node 24.22.1 o más reciente (o 26.12.1). Con clave de API o créditos, el KVM 1 es el punto de partida. Con modelo local, el piso de 8 GiB vale solo para la receta más pequeña, y el KVM 4 es el primero con margen para ella.",
           "¿Se puede usar sin clave de API? Sí, con un modelo local, pero entonces la memoria es el problema: la documentación da 8 GiB como piso de su receta local más pequeña, con un contexto de 64K, y advierte de que eso no garantiza que el modelo quepa ni que funcione bien. Con los créditos de Hostinger no necesitas una cuenta en un proveedor de IA, pero pagas por el uso.",
           "¿Oracle es gratis de verdad? Puede serlo, dentro de los límites de Always Free y de la disponibilidad de la región. Oracle puede recuperar una instancia inactiva según los criterios de uso de CPU, red y, en las A1, memoria que publica. Consulta los recursos y las condiciones de arriba.",
           "¿Mac mini o VPS? Depende de si la computadora puede quedar encendida las 24 horas. Si puede, correrlo en casa elimina la mensualidad del servidor; si no puede, elige VPS o gestionado.",
-          "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? SONAR20: 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera; revisa el plan en el carrito.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %, salvo el registro de dominio. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
-        ]
-      },
-      {
-        "heading": "Quién escribe",
-        "paragraphs": [
-          "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa OpenClaw: este texto reúne lo que dicen Hostinger, Oracle y la documentación oficial de OpenClaw."
         ]
       }
     ],
@@ -132883,13 +132793,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Elige el KVM 1, con 4 GB, si el modelo de IA queda en el proveedor, por la clave de API o los créditos de IA de Hostinger.",
-        "Elige el KVM 4, con 16 GB, si vas a correr un modelo local: es el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña."
+        "el modelo de IA queda en el proveedor, por la clave de API o los créditos de IA de Hostinger: el KVM 1, con 4 GB, basta.",
+        "vas a correr un modelo local: el KVM 4, con 16 GB, es el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña."
       ],
       "skipIf": [
-        "Descarta el KVM 1 si vas a correr un modelo local: 4 GB queda por debajo del piso de 8 GiB de la receta local más pequeña.",
-        "Descarta el VPS si no quieres ocuparte de un servidor: mira la opción gestionada, en la que Hostinger instala y actualiza el asistente.",
-        "Descarta el KVM 8 si no vas a usar un modelo local más grande."
+        "vas a correr un modelo local y piensas en el KVM 1: 4 GB queda por debajo del piso de 8 GiB de la receta local más pequeña.",
+        "no quieres ocuparte de un servidor: mira la opción gestionada, en la que Hostinger instala y actualiza el asistente.",
+        "no vas a usar un modelo local más grande, porque el KVM 8 solo tiene sentido con uno."
       ]
     }
   },
@@ -132929,7 +132839,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom SONAR20 dá 20% OFF nos VPS da Hostinger. Melhor VPS para OpenClaw sem RAM mínima oficial: KVM por cenário, modelo na nuvem ou local.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-pt-v2.webp",
@@ -133131,7 +133041,8 @@ export const reviewsData: unknown[] = [
           "Modelo local: KVM 4, com 16 GB, o primeiro plano com folga acima do piso de 8 GiB da menor receita local; o desempenho depende do modelo e do contexto. O KVM 8, com 32 GB, só faz sentido com um modelo local maior.",
           "Sem querer cuidar de servidor: o gerenciado, em que a Hostinger instala e atualiza o assistente.",
           "Para testar sem pagar: a Oracle Always Free, sabendo que a Oracle pode recuperar uma instância ociosa."
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para quem roda o modelo de IA no provedor, a escolha é o KVM 1, com 4 GB; para quem roda modelo local, é o KVM 4, com 16 GB, porque é o primeiro plano com folga acima do piso de 8 GiB da menor receita local."
       },
       {
         "heading": "Cupom SONAR20 e preço",
@@ -133139,36 +133050,30 @@ export const reviewsData: unknown[] = [
           "Preços de 21/10/2026, em plano de 24 meses, já com os 20% do SONAR20: gerenciado R$ 19,99/mês; VPS KVM 1 R$ 23,99/mês; VPS KVM 2 R$ 34,39/mês. Na renovação, o gerenciado e o KVM 1 vão a R$ 59,99/mês, e o KVM 2 a R$ 77,99/mês, sem o desconto do SONAR20."
         ],
         "postParagraphs": [
-          "**SONAR20**: **20% no primeiro período** de compra nova elegível, inclusive com conta existente. Registro de domínio e renovação ficam fora; confira o plano no carrinho. Veja o passo a passo em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e as condições em [a página da Hostinger no site](/cupons/hostinger)."
+          "**SONAR20**: **20% no primeiro período** de compra nova elegível, inclusive com conta existente. Registro de domínio e renovação ficam fora; Nos ciclos de 12, 24 e 48 meses, os 20% entram; no ciclo de 1 mês, a aceitação depende do plano, então confira a linha \"Cupom aplicado\" no carrinho antes de pagar. Veja o passo a passo em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e as condições em [a página da Hostinger no site](/cupons/hostinger)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "Qual é o mínimo de servidor para o OpenClaw? A documentação oficial não publica RAM, CPU nem disco mínimos; na versão estável, ela exige Node 24.22.1 ou mais recente (ou 26.12.1). Com chave de API ou créditos, o KVM 1 é o ponto de partida. Com modelo local, o piso de 8 GiB vale só para a menor receita, e o KVM 4 é o primeiro com folga para ela.",
           "Dá para rodar sem chave de API? Dá, com modelo local, mas aí a memória vira o problema: a documentação dá 8 GiB como piso da menor receita local, com contexto de 64K, e avisa que isso não garante que o modelo caiba nem que rode bem. Com os créditos da Hostinger, você não precisa de conta num provedor de IA, mas paga pelo uso.",
           "Oracle é de graça mesmo? Pode ser, dentro dos limites do Always Free e da disponibilidade da região. A Oracle pode recuperar uma instância ociosa pelos critérios de uso de CPU, rede e, nas A1, memória que ela publica. Veja os recursos e as condições acima.",
           "Mac mini ou VPS? Depende de o computador poder ficar ligado 24 horas. Se pode, rodar em casa tira a mensalidade do servidor; se não pode, escolha VPS ou gerenciado.",
-          "Tem cupom de desconto da Hostinger para VPS do OpenClaw? SONAR20: 20% no primeiro período de compra nova elegível, inclusive com conta existente. Registro de domínio e renovação ficam fora; confira o plano no carrinho.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%, salvo registro de domínio. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
-        ]
-      },
-      {
-        "heading": "Quem escreve",
-        "paragraphs": [
-          "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw: este texto reúne o que a Hostinger, a Oracle e a documentação oficial do OpenClaw dizem."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o KVM 1, com 4 GB, se o modelo de IA fica no provedor, pela chave de API ou pelos créditos da Hostinger.",
-        "Leve o KVM 4, com 16 GB, se vai rodar modelo local: é o primeiro plano com folga acima do piso de 8 GiB da menor receita local."
+        "o modelo de IA fica no provedor, pela chave de API ou pelos créditos da Hostinger: o KVM 1, com 4 GB, basta.",
+        "vai rodar modelo local: o KVM 4, com 16 GB, é o primeiro plano com folga acima do piso de 8 GiB da menor receita local."
       ],
       "skipIf": [
-        "Passe no KVM 1 se vai rodar modelo local: 4 GB fica abaixo do piso de 8 GiB da menor receita local.",
-        "Passe no VPS se você não quer cuidar de servidor: veja o gerenciado, em que a Hostinger instala e atualiza o assistente.",
-        "Passe no KVM 8 se não vai usar um modelo local maior."
+        "vai rodar modelo local e pensa no KVM 1: 4 GB fica abaixo do piso de 8 GiB da menor receita local.",
+        "não quer cuidar de servidor: veja o gerenciado, em que a Hostinger instala e atualiza o assistente.",
+        "não vai usar um modelo local maior, porque o KVM 8 só faz sentido com ele."
       ]
     },
     "pros": [],
@@ -133230,7 +133135,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Miglior VPS per OpenClaw senza RAM minima ufficiale: il KVM per ogni scenario, con modello nel cloud o in locale.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-it-v2.webp",
@@ -133417,30 +133322,25 @@ export const reviewsData: unknown[] = [
           "Modello locale: KVM 4, con 16 GB, il primo piano con margine sopra il minimo di 8 GiB della ricetta locale più piccola; il risultato dipende dal modello e dal contesto. Il KVM 8, con 32 GB, ha senso solo con un modello locale più grande.",
           "Se non vuoi occuparti di un server: il gestito, in cui Hostinger installa e aggiorna l'assistente.",
           "Per provare senza pagare: Oracle Always Free, sapendo che Oracle può recuperare un'istanza inattiva."
-        ]
+        ],
+        "emphasis": "Dalla tabella, per chi fa girare il modello IA presso il fornitore, la scelta è il KVM 1, con 4 GB; per un modello locale è il KVM 4, con 16 GB, perché è il primo piano con margine sopra il minimo di 8 GiB della ricetta locale più piccola."
       },
       {
         "heading": "Coupon SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "**SONAR20**: **20% sul primo periodo** di un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo sono esclusi; controlla il piano nel carrello. Trovi i passaggi in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e le condizioni in [la pagina di Hostinger sul sito](/it/coupons/hostinger)."
+          "**SONAR20**: **20% sul primo periodo** di un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo sono esclusi; Sui cicli da 12, 24 e 48 mesi si applica il 20%; sui piani da 1 mese l'accettazione dipende dal piano, quindi controlla la riga «Coupon applied» nel carrello prima di pagare. Trovi i passaggi in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e le condizioni in [la pagina di Hostinger sul sito](/it/coupons/hostinger)."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo «Have a coupon code?» del carrello e controlla la riga «Coupon applied» prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
           "Qual è il server minimo per OpenClaw? La documentazione ufficiale non pubblica minimi di RAM, CPU o disco; nella versione stabile richiede Node 24.22.1 o più recente (oppure 26.12.1). Con chiave API o crediti, il KVM 1 è il punto di partenza. Con modello locale, il minimo di 8 GiB vale solo per la ricetta più piccola, e il KVM 4 è il primo con margine per quella.",
           "Si può usare senza chiave API? Sì, con un modello locale, ma allora la memoria diventa il problema: la documentazione indica 8 GiB come minimo per la ricetta locale più piccola, con contesto da 64K, e avverte che non garantisce né che il modello ci stia, né che giri bene. Con i crediti di Hostinger non ti serve un account presso un fornitore di IA, ma paghi in base all'uso.",
           "Oracle è davvero gratis? Può esserlo, nei limiti dell'Always Free e secondo la disponibilità della regione. Oracle può recuperare un'istanza inattiva in base ai criteri di utilizzo di CPU, rete e, sulle A1, memoria che pubblica. Vedi le risorse e le condizioni qui sopra.",
           "Mac mini o VPS? Dipende dal fatto che il computer possa restare acceso 24 ore. Se può, farlo girare a casa toglie il canone del server; se non può, scegli VPS o gestito.",
-          "Esiste un coupon sconto di Hostinger per un VPS OpenClaw? SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo sono esclusi; controlla il piano nel carrello.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%, salvo la registrazione di dominio. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
-        ]
-      },
-      {
-        "heading": "Chi scrive",
-        "paragraphs": [
-          "Em Casa com Cecília gira su Hostinger, come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno del team usa OpenClaw: questo testo raccoglie ciò che dicono Hostinger, Oracle e la documentazione ufficiale di OpenClaw."
         ]
       }
     ],
@@ -133469,13 +133369,13 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "Prendi il KVM 1, con 4 GB, se il modello IA resta presso il fornitore, tramite la chiave API o i crediti IA di Hostinger.",
-        "Prendi il KVM 4, con 16 GB, se farai girare un modello locale: è il primo piano con margine sopra il minimo di 8 GiB della ricetta locale più piccola."
+        "il modello IA resta presso il fornitore, tramite la chiave API o i crediti IA di Hostinger: il KVM 1, con 4 GB, basta.",
+        "farai girare un modello locale: il KVM 4, con 16 GB, è il primo piano con margine sopra il minimo di 8 GiB della ricetta locale più piccola."
       ],
       "skipIf": [
-        "Lascia perdere il KVM 1 se farai girare un modello locale: 4 GB è sotto il minimo di 8 GiB della ricetta locale più piccola.",
-        "Lascia perdere il VPS se non vuoi occuparti di un server: guarda il gestito, in cui Hostinger installa e aggiorna l'assistente.",
-        "Lascia perdere il KVM 8 se non userai un modello locale più grande."
+        "farai girare un modello locale e pensi al KVM 1: 4 GB è sotto il minimo di 8 GiB della ricetta locale più piccola.",
+        "non vuoi occuparti di un server: guarda il gestito, in cui Hostinger installa e aggiorna l'assistente.",
+        "non userai un modello locale più grande, perché il KVM 8 ha senso solo con uno."
       ]
     }
   },
@@ -133515,7 +133415,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw o Hermes Agent: interfaccia, memoria, costi IA, gestito o VPS. SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-it-v2.webp",
@@ -133661,9 +133561,8 @@ export const reviewsData: unknown[] = [
           "**Vuoi accesso root e altri programmi sullo stesso server, come un sito o n8n:** VPS, con l'uno o l'altro. Root è l'accesso da amministratore, con il controllo totale del server.",
           "**Non vuoi installare né gestire un server:** il gestito, con entrambi. Hostinger installa e aggiorna."
         ],
-        "postParagraphs": [
-          "Nessuno del team usa né l'uno né l'altro. I profili vengono dalle documentazioni dei progetti, non dalla nostra esperienza."
-        ]
+        "emphasis": "Secondo la documentazione dei due progetti, per chi vuole molti canali di messaggistica e app native la scelta è OpenClaw; per chi vuole un agente che impara dall'uso è Hermes Agent, perché il ciclo di apprendimento è ciò che lo distingue.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Dove farlo girare su Hostinger",
@@ -133707,26 +133606,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20",
         "paragraphs": [
-          "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, mensile o annuale, anche con account esistente. Registrazione di domini e rinnovo sono esclusi; il rinnovo si paga al prezzo di listino. Consulta le condizioni nella [pagina Hostinger](/it/coupons/hostinger).",
+          "Inserisci **SONAR20** nel campo \"Have a coupon code?\" del carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Sui cicli da 12, 24 e 48 mesi il 20% si applica; sui piani da 1 mese l'accettazione dipende dal piano, quindi controlla la riga \"Coupon applied\" nel carrello prima di pagare. La registrazione di domini è esclusa e il rinnovo si paga al prezzo di listino, senza sconto. Consulta le condizioni nella [pagina Hostinger](/it/coupons/hostinger).",
           "Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
           "OpenClaw e Hermes Agent sono gratuiti? I due programmi sono open source, con licenza MIT, e non paghi il software. Paghi il server o il piano gestito e l'uso del modello IA. Hermes ha anche un abbonamento su Nous Portal, ma il prezzo non compare nella documentazione del progetto.",
           "Funziona con Telegram? Sì, con entrambi. Crei il bot su BotFather e incolli il token nella configurazione.",
           "Serve saper programmare? Per avviare il gestito no: scegli i canali e incolli il token. Nel VPS serve conoscere le basi dei server, come root, Docker e aggiornamenti. Programmare entra in gioco solo se vuoi mettere mano al codice del progetto.",
           "È sicuro? Dipende da come lo usi. Le due politiche di sicurezza chiedono la stessa cautela: uso da parte di una persona o di un team che si fida a vicenda, senza esposizione diretta a internet e con controllo di ciò che installi da terzi.",
           "Quale scegliere se uso già Claude Code? Claude Code è uno strumento per programmare nel terminale e non sostituisce nessuno dei due. Entrambi accettano la chiave di Anthropic: OpenClaw elenca Anthropic tra i provider, e il README di Hermes Agent riporta la chiave di Anthropic tra i segreti. Se vuoi un agente che impara dall'uso, Hermes Agent si adatta meglio. Se vuoi molti canali e un'app sul telefono, OpenClaw.",
           "Un cliente Hostinger esistente può usare SONAR20? Sì, su un nuovo acquisto idoneo con lo stesso account; il rinnovo del servizio attuale è escluso. Offre il 20% sul primo periodo, e anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
-        ]
-      },
-      {
-        "heading": "Chi scrive",
-        "paragraphs": [
-          "Em Casa com Cecília gira su Hostinger, come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno del team usa OpenClaw né Hermes Agent.",
-          "Questo testo riunisce le pagine di Hostinger e le politiche e le documentazioni ufficiali dei due progetti, nella versione del 21 ottobre 2026. Il confronto tra i due che OpenClaw pubblica è scritto dal progetto stesso, e compare con quel nome nella colonna della fonte della tabella."
         ]
       }
     ],
@@ -133755,12 +133648,12 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "Scegli OpenClaw se vuoi molti canali di messaggistica e app native per telefono e computer.",
-        "Scegli Hermes Agent se vuoi un agente che impara dall'uso: organizza la propria memoria e crea e migliora le proprie competenze."
+        "vuoi molti canali di messaggistica e app native per telefono e computer: fa per te OpenClaw.",
+        "vuoi un agente che impara dall'uso, organizza la propria memoria e crea e migliora le proprie competenze: fa per te Hermes Agent."
       ],
       "skipIf": [
-        "Lascia stare OpenClaw se quello che vuoi è un agente che impara dall'uso.",
-        "Lascia stare l'installazione in proprio se non vuoi gestire un server: nel gestito, per entrambi, Hostinger installa e aggiorna."
+        "vuoi un agente che impara dall'uso: OpenClaw non fa per te.",
+        "non vuoi gestire un server: evita l'installazione in proprio, perché nel gestito, per entrambi, Hostinger installa e aggiorna."
       ]
     }
   },
@@ -133800,7 +133693,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw o Hermes Agent: interfaz, memoria, coste de IA y gestionado o VPS. SONAR20 da un 20 % en el primer periodo de una compra nueva elegible.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -133947,9 +133840,8 @@ export const reviewsData: unknown[] = [
           "**Quieres acceso root y otros programas en el mismo servidor, como un sitio web o n8n:** VPS, con cualquiera de los dos. Root es el acceso de administrador, con control total del servidor.",
           "**No quieres instalar ni cuidar un servidor:** el gestionado, con cualquiera de los dos. Hostinger instala y actualiza."
         ],
-        "postParagraphs": [
-          "Nadie del equipo usa ninguno de los dos. Los perfiles salen de las documentaciones de los proyectos, no de nuestra experiencia."
-        ]
+        "emphasis": "Según la documentación de los dos proyectos, para quien quiere muchos canales de mensajería y aplicaciones nativas, la elección es OpenClaw; para quien quiere un agente que aprende con el uso, es Hermes Agent, porque su ciclo de aprendizaje es lo que lo distingue.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Dónde ejecutarlo en Hostinger",
@@ -133993,26 +133885,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Introduce **SONAR20** en el carrito: 20 % en el primer periodo de una compra nueva elegible, mensual o anual, también con cuenta existente. El registro de dominios y la renovación quedan fuera; la renovación se cobra al precio de lista. Consulta las condiciones en la [página de Hostinger](/es/coupons/hostinger).",
+          "Introduce **SONAR20** en el campo \"Have a coupon code?\" del carrito: 20 % en el primer periodo de una compra nueva elegible, también con cuenta existente. En los ciclos de 12, 24 y 48 meses entran los 20 %; en los planes de 1 mes la aceptación depende del plan, así que comprueba la línea \"Coupon applied\" del carrito antes de pagar. El registro de dominios queda fuera y la renovación se cobra al precio de lista, sin descuento. Consulta las condiciones en la [página de Hostinger](/es/coupons/hostinger).",
           "Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20% de descuento en el primer periodo de una compra nueva elegible: escribe el código en el campo \"Have a coupon code?\" del carrito y comprueba la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
           "¿OpenClaw y Hermes Agent son gratis? Los dos programas son de código abierto, con licencia MIT, y no pagas por el software. Pagas el servidor o el plan gestionado y el uso del modelo de IA. Hermes también tiene una suscripción en Nous Portal, pero el precio no aparece en la documentación del proyecto.",
           "¿Sirve para Telegram? Sí, con los dos. Creas el bot en BotFather y pegas el token en la configuración.",
           "¿Hace falta saber programar? Para poner en marcha el gestionado, no: eliges los canales y pegas el token. En el VPS, hace falta saber lo básico de servidores, como root, Docker y actualizaciones. Programar solo entra si quieres tocar el código del proyecto.",
           "¿Es seguro? Depende de cómo lo uses. Las dos políticas de seguridad piden el mismo cuidado: uso por una persona o un equipo que confía entre sí, sin exposición directa a internet y con revisión de lo que instalas de terceros.",
           "¿Cuál elegir si ya uso Claude Code? Claude Code es una herramienta para programar en la terminal y no sustituye a ninguno de los dos. Los dos aceptan clave de Anthropic: OpenClaw incluye a Anthropic entre los proveedores, y el README de Hermes Agent trae la clave de Anthropic entre los secretos. Si quieres un agente que aprende con el uso, Hermes Agent encaja mejor. Si quieres muchos canales y app en el móvil, OpenClaw.",
           "¿Un cliente existente de Hostinger puede usar SONAR20? Sí, en una compra nueva elegible con la misma cuenta; la renovación del servicio actual queda fuera. Da un 20 % en el primer periodo, y el registro de dominio también queda fuera. Comprueba el total del carrito."
-        ]
-      },
-      {
-        "heading": "Quién escribe",
-        "paragraphs": [
-          "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa OpenClaw ni Hermes Agent.",
-          "Este texto reúne las páginas de Hostinger y las políticas y documentaciones oficiales de los dos proyectos, en su versión del 21 de octubre de 2026. La comparación entre los dos que publica OpenClaw la escribe el propio proyecto, y aparece con ese nombre en la columna de fuente de la tabla."
         ]
       }
     ],
@@ -134040,12 +133926,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Elige OpenClaw si quieres muchos canales de mensajería y aplicaciones nativas para móvil y ordenador.",
-        "Elige Hermes Agent si quieres un agente que aprende con el uso: organiza su propia memoria y crea y mejora sus propias habilidades."
+        "quieres muchos canales de mensajería y aplicaciones nativas para móvil y ordenador: te conviene OpenClaw.",
+        "quieres un agente que aprende con el uso, que organiza su propia memoria y crea y mejora sus propias habilidades: te conviene Hermes Agent."
       ],
       "skipIf": [
-        "Descarta OpenClaw si lo que quieres es un agente que aprende con el uso.",
-        "Descarta la instalación por tu cuenta si no quieres cuidar un servidor: el gestionado, en los dos, lo instala y actualiza Hostinger."
+        "quieres un agente que aprende con el uso: OpenClaw no es el tuyo.",
+        "no quieres cuidar un servidor: descarta instalarlo por tu cuenta, porque en el gestionado, en los dos, lo instala y actualiza Hostinger."
       ]
     }
   },
@@ -134085,7 +133971,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw oder Hermes Agent: Oberfläche, Gedächtnis, KI-Kosten, verwaltet oder VPS. SONAR20 gibt 20 % im ersten Zeitraum eines berechtigten Neukaufs.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-de-v2.webp",
@@ -134231,9 +134117,8 @@ export const reviewsData: unknown[] = [
           "**Wer Root-Zugriff und andere Programme auf demselben Server will, etwa eine Website oder n8n:** VPS, mit einem von beiden. Root ist der Administratorzugriff, mit voller Kontrolle über den Server.",
           "**Wer nichts installieren und keinen Server betreuen will:** der verwaltete Tarif, mit beiden. Hostinger installiert und aktualisiert."
         ],
-        "postParagraphs": [
-          "Niemand im Team nutzt einen der beiden. Die Profile stammen aus den Dokumentationen der Projekte, nicht aus unserer Erfahrung."
-        ]
+        "emphasis": "Nach der Dokumentation der beiden Projekte lautet die Wahl für alle, die viele Nachrichtenkanäle und native Apps wollen, OpenClaw; für alle, die einen Agenten wollen, der aus der Nutzung lernt, Hermes Agent, denn sein Lernzyklus ist das, was ihn auszeichnet.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Wo Sie beide bei Hostinger betreiben",
@@ -134277,26 +134162,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20",
         "paragraphs": [
-          "Geben Sie **SONAR20** im Warenkorb ein: 20 % im ersten Zeitraum eines berechtigten Neukaufs, monatlich oder jährlich, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; die Verlängerung wird zum Listenpreis berechnet. Bedingungen stehen auf der [Hostinger-Seite](/de/coupons/hostinger).",
+          "Geben Sie **SONAR20** im Feld \"Have a coupon code?\" im Warenkorb ein: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Bei Laufzeiten von 12, 24 und 48 Monaten greifen die 20 %; bei Tarifen mit 1 Monat hängt die Annahme vom Tarif ab, prüfen Sie daher vor der Zahlung die Zeile \"Coupon applied\" im Warenkorb. Domainregistrierung ist ausgeschlossen, und die Verlängerung wird zum Listenpreis ohne Rabatt berechnet. Bedingungen stehen auf der [Hostinger-Seite](/de/coupons/hostinger).",
           "Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Hostinger-Gutschein? Der Hostinger-Gutschein ist SONAR20, mit 20% Rabatt im ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld \"Have a coupon code?\" im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile \"Coupon applied\". Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Sind OpenClaw und Hermes Agent kostenlos? Beide Programme sind quelloffen, unter MIT-Lizenz, und Sie zahlen nicht für die Software. Sie zahlen für den Server oder den verwalteten Tarif und für die Nutzung des KI-Modells. Hermes hat außerdem ein Abonnement bei Nous Portal, aber der Preis steht nicht in der Dokumentation des Projekts.",
           "Funktioniert es mit Telegram? Ja, bei beiden. Sie erstellen den Bot bei BotFather und fügen den Token in die Konfiguration ein.",
           "Muss man programmieren können? Für den verwalteten Tarif nicht: Sie wählen die Kanäle und fügen den Token ein. Beim VPS braucht es Grundwissen über Server, etwa Root, Docker und Aktualisierungen. Programmieren kommt nur ins Spiel, wenn Sie den Code des Projekts anpassen wollen.",
           "Ist es sicher? Das hängt von der Nutzung ab. Beide Sicherheitsrichtlinien verlangen dieselbe Sorgfalt: Nutzung durch eine vertrauenswürdige Person oder ein Team mit gegenseitigem Vertrauen, keine direkte Erreichbarkeit aus dem Internet und eine Prüfung dessen, was Sie von Dritten installieren.",
           "Was wähle ich, wenn ich schon Claude Code nutze? Claude Code ist ein Werkzeug zum Programmieren im Terminal und ersetzt keinen der beiden. Beide akzeptieren einen Anthropic-Schlüssel: OpenClaw nennt Anthropic unter den Anbietern, und das README von Hermes Agent führt den Anthropic-Schlüssel unter den Secrets auf. Wenn Sie einen Agenten wollen, der aus der Nutzung lernt, passt Hermes Agent besser. Wenn Sie viele Kanäle und eine App auf dem Handy wollen, OpenClaw.",
           "Können Hostinger-Bestandskunden SONAR20 nutzen? Ja, bei einem berechtigten Neukauf mit demselben Konto; die Verlängerung des bestehenden Dienstes ist ausgeschlossen. Er gibt 20 % auf die erste Laufzeit, und Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
-        ]
-      },
-      {
-        "heading": "Wer schreibt",
-        "paragraphs": [
-          "Em Casa com Cecília läuft bei Hostinger, als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand im Team nutzt OpenClaw oder Hermes Agent.",
-          "Dieser Text fasst die Seiten von Hostinger sowie die offiziellen Richtlinien und Dokumentationen der beiden Projekte zusammen, Stand: 21. Oktober 2026. Der Vergleich der beiden, den OpenClaw veröffentlicht, stammt vom Projekt selbst und erscheint unter diesem Namen in der Quellenspalte der Tabelle."
         ]
       }
     ],
@@ -134325,12 +134204,12 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "Nehmen Sie OpenClaw, wenn Sie viele Nachrichtenkanäle und native Apps für Handy und Computer wollen.",
-        "Nehmen Sie Hermes Agent, wenn Sie einen Agenten wollen, der aus der Nutzung lernt: Er organisiert sein Gedächtnis selbst und erstellt und verbessert eigene Fähigkeiten."
+        "Sie viele Nachrichtenkanäle und native Apps für Handy und Computer wollen: dann passt OpenClaw.",
+        "Sie einen Agenten wollen, der aus der Nutzung lernt, sein Gedächtnis selbst organisiert und eigene Fähigkeiten erstellt und verbessert: dann passt Hermes Agent."
       ],
       "skipIf": [
-        "Lassen Sie OpenClaw aus, wenn Sie einen Agenten wollen, der aus der Nutzung lernt.",
-        "Lassen Sie die eigene Installation aus, wenn Sie keinen Server betreuen wollen: Beim verwalteten Tarif installiert und aktualisiert Hostinger, bei beiden."
+        "Sie einen Agenten wollen, der aus der Nutzung lernt: dann ist OpenClaw nicht der richtige.",
+        "Sie keinen Server betreuen wollen: lassen Sie die eigene Installation aus, denn beim verwalteten Tarif installiert und aktualisiert Hostinger, bei beiden."
       ]
     }
   },
@@ -134370,7 +134249,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw ou Hermes Agent : interface, mémoire, coûts d'IA, offre gérée ou VPS. SONAR20 : 20 % sur la première période d'un nouvel achat éligible.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -134517,9 +134396,8 @@ export const reviewsData: unknown[] = [
           "**Vous voulez l'accès root et d'autres programmes sur le même serveur, comme un site ou n8n :** VPS, avec l'un ou l'autre. Root est l'accès administrateur, avec un contrôle total du serveur.",
           "**Vous ne voulez ni installer ni gérer de serveur :** l'offre gérée, pour les deux. Hostinger installe et met à jour."
         ],
-        "postParagraphs": [
-          "Personne dans l'équipe n'utilise ni l'un ni l'autre. Les profils viennent des documentations des projets, pas de notre expérience."
-        ]
+        "emphasis": "D'après la documentation des deux projets, pour qui veut beaucoup de canaux de messagerie et des applications natives, le choix est OpenClaw ; pour qui veut un agent qui apprend en s'utilisant, c'est Hermes Agent, car son cycle d'apprentissage est ce qui le distingue.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Où le faire tourner chez Hostinger",
@@ -134563,26 +134441,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code promo SONAR20",
         "paragraphs": [
-          "Saisissez **SONAR20** dans le panier : 20 % sur la première période d'un nouvel achat éligible, mensuel ou annuel, y compris avec un compte existant. L'enregistrement de domaines et le renouvellement sont exclus ; le renouvellement est facturé au prix catalogue. Consultez la [page Hostinger](/fr/coupons/hostinger).",
+          "Saisissez **SONAR20** dans le champ \"Have a coupon code?\" du panier : 20 % sur la première période d'un nouvel achat éligible, y compris avec un compte existant. Sur les durées de 12, 24 et 48 mois, les 20 % s'appliquent ; sur les offres d'1 mois, l'acceptation dépend de l'offre, donc vérifiez la ligne \"Coupon applied\" du panier avant de payer. L'enregistrement de domaines est exclu et le renouvellement est facturé au prix catalogue, sans réduction. Consultez les conditions sur la [page Hostinger](/fr/coupons/hostinger).",
           "Où coller le code est expliqué dans [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ \"Have a coupon code?\" du panier et vérifiez la ligne \"Coupon applied\" avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
           "OpenClaw et Hermes Agent sont-ils gratuits ? Les deux programmes sont open source, sous licence MIT, et vous ne payez pas le logiciel. Vous payez le serveur ou l'offre gérée et l'usage du modèle d'IA. Hermes propose aussi un abonnement Nous Portal, mais le prix n'apparaît pas dans la documentation du projet.",
           "Ça marche avec Telegram ? Oui, avec les deux. Vous créez le bot avec BotFather et collez le jeton dans la configuration.",
           "Faut-il savoir programmer ? Pour lancer l'offre gérée, non : vous choisissez les canaux et collez le jeton. En VPS, il faut connaître les bases des serveurs, comme root, Docker et les mises à jour. La programmation n'entre en jeu que si vous voulez toucher au code du projet.",
           "Est-ce sûr ? Cela dépend de l'usage. Les deux politiques de sécurité demandent la même précaution : usage par une personne ou une équipe de confiance mutuelle, sans exposition directe à l'internet et avec un examen de ce que vous installez de tiers.",
           "Lequel choisir si j'utilise déjà Claude Code ? Claude Code est un outil pour programmer dans le terminal et ne remplace aucun des deux. Les deux acceptent une clé Anthropic : OpenClaw cite Anthropic parmi ses fournisseurs, et le README de Hermes Agent range la clé Anthropic parmi les secrets. Si vous voulez un agent qui apprend en s'utilisant, Hermes Agent convient mieux. Si vous voulez beaucoup de canaux et une appli sur le téléphone, OpenClaw.",
           "Un client Hostinger existant peut-il utiliser SONAR20 ? Oui, sur un nouvel achat éligible avec le même compte ; le renouvellement du service actuel est exclu. La réduction est de 20 % sur la première période, et l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
-        ]
-      },
-      {
-        "heading": "Qui écrit",
-        "paragraphs": [
-          "Em Casa com Cecília tourne chez Hostinger, en Node.js Web App, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l'équipe n'utilise OpenClaw ni Hermes Agent.",
-          "Ce texte rassemble les pages d'Hostinger et les politiques et documentations officielles des deux projets, dans leur version du 21 octobre 2026. La comparaison entre les deux qu'OpenClaw publie est écrite par le projet lui-même, et apparaît sous ce nom dans la colonne des sources du tableau."
         ]
       }
     ],
@@ -134610,12 +134482,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez OpenClaw si vous voulez beaucoup de canaux de messagerie et des applications natives pour téléphone et ordinateur.",
-        "Prenez Hermes Agent si vous voulez un agent qui apprend en s'utilisant : il organise sa propre mémoire et crée et améliore ses propres compétences."
+        "vous voulez beaucoup de canaux de messagerie et des applications natives pour téléphone et ordinateur : OpenClaw vous convient.",
+        "vous voulez un agent qui apprend en s'utilisant, qui organise sa propre mémoire et crée et améliore ses propres compétences : Hermes Agent vous convient."
       ],
       "skipIf": [
-        "Passez votre tour sur OpenClaw si ce que vous voulez, c'est un agent qui apprend en s'utilisant.",
-        "Laissez de côté l'installation par vos soins si vous ne voulez pas gérer de serveur : en offre gérée, pour les deux, Hostinger installe et met à jour."
+        "vous voulez un agent qui apprend en s'utilisant : OpenClaw n'est pas le bon.",
+        "vous ne voulez pas gérer de serveur : évitez l'installation par vos soins, car en offre gérée, pour les deux, Hostinger installe et met à jour."
       ]
     }
   },
@@ -134655,7 +134527,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw ou Hermes Agent na Hostinger, com o SONAR20 e 20% OFF: qual escolher, canais, memória, modelos de IA e o preço com e sem o código.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-pt-v2.webp",
@@ -134801,9 +134673,8 @@ export const reviewsData: unknown[] = [
           "**Quer acesso root e outros programas no mesmo servidor, como um site ou o n8n:** VPS, com qualquer um dos dois. Root é o acesso de administrador, com controle total do servidor.",
           "**Não quer instalar nem cuidar de servidor:** gerenciado, nos dois. A Hostinger instala e atualiza."
         ],
-        "postParagraphs": [
-          "Ninguém da equipe usa nenhum dos dois. Os perfis vêm das documentações dos projetos, não de experiência nossa."
-        ]
+        "emphasis": "Pelas documentações dos dois projetos, para quem quer muitos canais de mensagem e aplicativos nativos, a escolha é o OpenClaw; para quem quer um agente que aprende com o uso, é o Hermes Agent, porque o ciclo de aprendizado é o diferencial dele.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Onde rodar na Hostinger",
@@ -134865,13 +134736,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20",
         "paragraphs": [
-          "Use **SONAR20** no carrinho: 20% no primeiro período de uma compra nova elegível, mensal ou anual, inclusive para quem já tem conta. Registro de domínio e renovação ficam fora do desconto. Confira as condições na [página da Hostinger](/cupons/hostinger).",
+          "Digite **SONAR20** no campo \"Tem um cupom de desconto?\" do carrinho: 20% no primeiro período de uma compra nova elegível, inclusive para quem já tem conta. Nos ciclos de 12, 24 e 48 meses os 20% entram; no ciclo de 1 mês, depende do plano (no teste de 23/11/2026, o cupom entrou no Cloud Startup e foi recusado no Single e no Premium), então confira a linha \"Cupom aplicado\" antes de pagar. Registro de domínio fica fora e a renovação sai pelo preço de tabela, sem desconto. Confira as condições na [página da Hostinger](/cupons/hostinger).",
           "Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "O OpenClaw e o Hermes Agent são grátis? Os dois programas são de código aberto, com licença MIT, e você não paga pelo software. Você paga o servidor ou o plano gerenciado e o uso do modelo de IA. O Hermes também tem uma assinatura no Nous Portal, mas o preço não aparece na documentação do projeto.",
           "Serve para Telegram? Sim, nos dois. Você cria o bot no BotFather e cola o token na configuração.",
           "Precisa saber programar? Para subir o gerenciado, não: você escolhe os canais e cola o token. No VPS, é preciso saber o básico de servidor, como root, Docker e atualizações. Programar só entra se você quiser mexer no código do projeto.",
@@ -134879,23 +134751,16 @@ export const reviewsData: unknown[] = [
           "Qual escolher se já uso o Claude Code? O Claude Code é uma ferramenta para programar no terminal e não substitui nenhum dos dois. Os dois aceitam chave da Anthropic: o OpenClaw lista a Anthropic entre os provedores, e o README do Hermes Agent traz a chave da Anthropic entre os segredos. Se você quer um agente que aprende com o uso, o Hermes Agent combina melhor. Se quer muitos canais e app no celular, o OpenClaw.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, numa compra nova elegível com a mesma conta; a renovação do serviço atual fica fora. São 20% no primeiro período, e o registro de domínio também fica fora. Confira o total no carrinho."
         ]
-      },
-      {
-        "heading": "Quem escreve",
-        "paragraphs": [
-          "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o OpenClaw nem o Hermes Agent.",
-          "Este texto reúne as páginas da Hostinger e as políticas e documentações oficiais dos dois projetos, na versão de 21/10/2026. A comparação entre os dois que o OpenClaw publica é escrita pelo próprio projeto, e aparece com esse nome na coluna de fonte da tabela."
-        ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o OpenClaw se você quer muitos canais de mensagem e aplicativos nativos para celular e computador.",
-        "Leve o Hermes Agent se você quer um agente que aprende com o uso: ele organiza a própria memória e cria e melhora as próprias habilidades."
+        "quer muitos canais de mensagem e aplicativos nativos para celular e computador: o OpenClaw.",
+        "quer um agente que aprende com o uso, que organiza a própria memória e cria e melhora as próprias habilidades: o Hermes Agent."
       ],
       "skipIf": [
-        "Passe no OpenClaw se o que você quer é um agente que aprende com o uso.",
-        "Passe na instalação própria se você não quer cuidar de servidor: o gerenciado, nos dois, é instalado e atualizado pela Hostinger."
+        "quer um agente que aprende com o uso: nesse caso, o OpenClaw fica de fora.",
+        "não quer cuidar de servidor: dispense a instalação própria, porque o gerenciado, nos dois, é instalado e atualizado pela Hostinger."
       ]
     },
     "pros": [],
@@ -134957,7 +134822,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw と Hermes Agent：画面、メモリ、AI 費用、マネージドと VPS。SONAR20 で対象の新規購入の初回期間が20%割引。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -135104,9 +134969,8 @@ export const reviewsData: unknown[] = [
           "**root アクセスと、同じサーバーで他のプログラム（サイトや n8n など）も動かしたい：** どちらでも VPS。root は管理者のアクセス権で、サーバー全体を操作できます。",
           "**インストールもサーバーの管理もしたくない：** どちらもマネージド。Hostinger がインストールと更新をします。"
         ],
-        "postParagraphs": [
-          "チームの誰も、どちらも使っていません。このタイプ分けは各プロジェクトのドキュメントによるもので、私たちの経験ではありません。"
-        ]
+        "emphasis": "二つのプロジェクトのドキュメントによると、メッセージのチャンネルが多くネイティブアプリもほしい人には OpenClaw、使うほど学習するエージェントがほしい人には Hermes Agent が合います。学習のサイクルが Hermes Agent の持ち味だからです。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Hostinger で動かす場所",
@@ -135150,26 +135014,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートに **SONAR20** を入力してください。対象の新規購入で初回期間が20%割引になり、月額・年額契約や既存アカウントも対象です。ドメイン登録と更新は対象外で、更新は通常料金です。条件は [Hostinger のクーポンページ](/ja/coupons/hostinger) を確認してください。",
+          "カートの「Have a coupon code?」欄に **SONAR20** を入力してください。対象の新規購入で初回期間が20%割引になり、既存アカウントも対象です。12・24・48か月の契約期間では20%が適用されます。1か月プランはプランによって適用されるかどうかが異なるため、お支払い前にカートの「Coupon applied」の行を確認してください。ドメイン登録は対象外で、更新は通常料金で割引はありません。条件は [Hostinger のクーポンページ](/ja/coupons/hostinger) を確認してください。",
           "コードを貼り付ける場所は、[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)にあります。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostinger のクーポンは何ですか？ Hostinger のクーポンは SONAR20 で、対象の新規購入の初回期間が20%割引になります。カートの「Have a coupon code?」欄にコードを入力し、お支払い前に「Coupon applied」の行を確認してください。更新は通常料金で、割引はありません。",
           "OpenClaw と Hermes Agent は無料ですか？どちらもオープンソースで MIT ライセンスなので、ソフトウェアの料金はかかりません。支払うのは、サーバーまたはマネージドプランと、AI モデルの利用料です。Hermes には Nous Portal のサブスクリプションもありますが、価格はプロジェクトのドキュメントに載っていません。",
           "Telegram で使えますか？はい、どちらでも使えます。BotFather でボットを作り、トークンを設定に貼り付けます。",
           "プログラミングの知識は必要ですか？マネージドを立ち上げるだけなら不要です。チャンネルを選んでトークンを貼り付けます。VPS では、root、Docker、更新といったサーバーの基本が必要です。プログラミングが必要になるのは、プロジェクトのコードを触りたいときだけです。",
           "安全ですか？使い方しだいです。二つのセキュリティポリシーは同じ注意を求めています。信頼できる一人、または互いに信頼し合うチームが使い、インターネットに直接さらさず、サードパーティのものをインストールする前に中身を確認することです。",
           "すでに Claude Code を使っていたら、どちらを選べばいいですか？Claude Code はターミナルで開発するためのツールで、どちらの代わりにもなりません。どちらも Anthropic のキーに対応しています。OpenClaw はプロバイダーの一つに Anthropic を挙げ、Hermes Agent の README は Anthropic のキーをシークレットの一つとして挙げています。使うほど学習するエージェントがほしいなら Hermes Agent が合います。チャンネルが多くスマートフォンのアプリもほしいなら OpenClaw です。",
           "既存ユーザーもSONAR20を使える？ はい、同じアカウントで対象の新規購入に使えます。現在のサービスの更新は対象外です。初回契約期間が20%割引で、ドメイン登録も対象外です。カートの総額を確認してください。"
-        ]
-      },
-      {
-        "heading": "運営者について",
-        "paragraphs": [
-          "Em Casa com Cecília は Hostinger の Node.js Web App で動いていて、Bruno は 2024 年からのお客様です。ホスティングと VPS KVM 2 を使っています。チームの誰も OpenClaw や Hermes Agent は使っていません。",
-          "この記事は、Hostinger のページと、二つのプロジェクトの公式のポリシーおよびドキュメントを、2026年10月21日時点の内容でまとめたものです。OpenClaw が公開している両者の比較はプロジェクト自身が書いたもので、表の出典の列にその名前を入れています。"
         ]
       }
     ],
@@ -135242,7 +135100,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw와 Hermes Agent: 인터페이스, 메모리, AI 비용, 관리형과 VPS 비교. SONAR20은 적용 대상 신규 구매의 첫 기간에 20% 할인됩니다.",
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-ko-v2.webp",
@@ -135388,9 +135246,8 @@ export const reviewsData: unknown[] = [
           "**root 권한과, 사이트나 n8n 같은 다른 프로그램을 같은 서버에서 돌리고 싶다:** 둘 중 어느 쪽이든 VPS. root는 서버 전체를 제어하는 관리자 권한입니다.",
           "**설치도 서버 관리도 하고 싶지 않다:** 둘 다 관리형. 호스팅어가 설치하고 업데이트합니다."
         ],
-        "postParagraphs": [
-          "팀 중 누구도 둘 중 어느 것도 쓰지 않습니다. 이 유형 구분은 각 프로젝트의 문서에서 나온 것이며 우리 경험이 아닙니다."
-        ]
+        "emphasis": "두 프로젝트의 문서를 보면, 메시지 채널이 많고 네이티브 앱도 원하는 사람에게는 OpenClaw가, 쓸수록 배우는 에이전트를 원하는 사람에게는 Hermes Agent가 맞습니다. 학습 순환이 Hermes Agent의 차별점이기 때문입니다.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "호스팅어에서 어디서 돌릴까",
@@ -135434,26 +135291,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니에 **SONAR20**을 입력하세요. 적용 대상 신규 구매의 첫 기간 20% 할인으로, 월간·연간 계약과 기존 계정도 가능합니다. 도메인 등록과 갱신은 제외되며 갱신은 정가로 청구됩니다. 조건은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에서 확인하세요.",
+          "장바구니의 \"Have a coupon code?\" 입력란에 **SONAR20**을 입력하세요. 적용 대상 신규 구매의 첫 기간 20% 할인이며, 기존 계정도 가능합니다. 12·24·48개월 주기에는 20%가 적용됩니다. 1개월 플랜은 플랜에 따라 적용 여부가 다르니, 결제 전에 장바구니의 \"Coupon applied\" 줄을 확인하세요. 도메인 등록은 제외되며 갱신은 정가로 청구되어 할인이 없습니다. 조건은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에서 확인하세요.",
           "코드를 붙여 넣는 위치는 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "호스팅어 쿠폰은 무엇인가요? 호스팅어 쿠폰은 SONAR20이며, 적용 대상 신규 구매의 첫 기간 20% 할인입니다. 장바구니의 \"Have a coupon code?\" 입력란에 코드를 넣고, 결제 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 정가로 청구되며 할인이 없습니다.",
           "OpenClaw와 Hermes Agent는 무료인가요? 두 프로그램 모두 MIT 라이선스의 오픈소스이므로 소프트웨어에는 비용을 내지 않습니다. 서버나 관리형 플랜, 그리고 AI 모델 사용료를 냅니다. Hermes에는 Nous Portal 구독도 있지만, 가격은 프로젝트 문서에 나와 있지 않습니다.",
           "텔레그램에서 쓸 수 있나요? 네, 둘 다 가능합니다. BotFather에서 봇을 만들고 토큰을 설정에 붙여 넣으면 됩니다.",
           "프로그래밍을 알아야 하나요? 관리형을 띄우는 데는 필요 없습니다. 채널을 고르고 토큰을 붙여 넣으면 됩니다. VPS에서는 root, Docker, 업데이트 같은 서버 기초가 필요합니다. 프로그래밍은 프로젝트 코드를 직접 손보려는 경우에만 필요합니다.",
           "안전한가요? 쓰는 방법에 달려 있습니다. 두 보안 정책이 요구하는 주의는 같습니다. 믿을 수 있는 한 사람이나 서로 신뢰하는 팀이 쓰고, 인터넷에 직접 노출하지 않고, 서드파티를 설치하기 전에 내용을 검토하는 것입니다.",
           "이미 Claude Code를 쓰는데 무엇을 고를까요? Claude Code는 터미널에서 프로그래밍하는 도구이며 둘 중 어느 것도 대신하지 못합니다. 둘 다 Anthropic 키를 받습니다. OpenClaw는 제공업체 중 하나로 Anthropic을 들고, Hermes Agent의 README는 Anthropic 키를 시크릿의 하나로 듭니다. 쓸수록 배우는 에이전트를 원한다면 Hermes Agent가 더 맞습니다. 채널이 많고 휴대폰 앱도 원한다면 OpenClaw입니다.",
           "기존 호스팅어 고객도 SONAR20을 쓸 수 있나요? 네, 같은 계정의 대상 신규 구매에는 적용됩니다. 현재 서비스의 갱신은 제외됩니다. 첫 계약 기간 20% 할인이며 도메인 등록도 제외됩니다. 장바구니 총액을 확인하세요."
-        ]
-      },
-      {
-        "heading": "작성자 소개",
-        "paragraphs": [
-          "Em Casa com Cecília는 호스팅어의 Node.js Web App으로 운영되며, Bruno는 2024년부터 호스팅과 VPS KVM 2를 쓰는 고객입니다. 팀 중 누구도 OpenClaw나 Hermes Agent는 쓰지 않습니다.",
-          "이 글은 호스팅어 페이지와 두 프로젝트의 공식 정책 및 문서를 2026년 10월 21일 기준으로 정리한 것입니다. OpenClaw가 공개한 두 프로젝트 비교는 프로젝트 자신이 쓴 글이며, 표의 출처 열에 그 이름을 적어 두었습니다."
         ]
       }
     ],
@@ -135527,7 +135378,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw 与 Hermes Agent：界面、记忆、AI 费用、托管或 VPS。SONAR20 为符合条件的新购提供首期 20% 折扣。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -135674,9 +135525,8 @@ export const reviewsData: unknown[] = [
           "**想要 root 权限，并在同一台服务器上运行其他程序，比如网站或 n8n：** VPS，两者都可以。root 是管理员权限，能完全控制服务器。",
           "**不想安装，也不想管服务器：** 托管，两者都有。由 Hostinger 安装和更新。"
         ],
-        "postParagraphs": [
-          "团队里没有人使用其中任何一个。这些适用人群来自各项目的文档，不是我们的使用经验。"
-        ]
+        "emphasis": "依两个项目的文档，想要很多消息渠道和原生应用的人选 OpenClaw，想要越用越会学习的智能体的人选 Hermes Agent，因为学习循环正是它的特色。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "在 Hostinger 上的运行方式",
@@ -135720,26 +135570,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车输入 **SONAR20**：符合条件的新购首期享 20% 折扣，月付、年付及已有账户均可。域名注册及续费不适用；续费按标价收费。条件请看 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。",
+          "在购物车的“Have a coupon code?”栏输入 **SONAR20**：符合条件的新购首期享 20% 折扣，已有账户也适用。12、24、48 个月的方案可享 20%；1 个月的方案是否适用取决于方案本身，付款前请确认购物车里的“Coupon applied”那一行。域名注册不适用，续费按标价收费，没有折扣。条件请看 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。",
           "代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，符合条件的新购首期享 20% 折扣：在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”那一行。续费按标价收费，没有折扣。",
           "OpenClaw 和 Hermes Agent 免费吗？两个程序都是采用 MIT 许可证的开源软件，软件本身不收费。你要付的是服务器或托管方案，以及 AI 模型的使用费。Hermes 在 Nous Portal 上也有订阅，但项目文档没有标出价格。",
           "能用在 Telegram 上吗？可以，两者都行。你在 BotFather 创建机器人，把令牌粘贴到配置里即可。",
           "需要会编程吗？启动托管版不需要：选好渠道，粘贴令牌就行。用 VPS 则需要懂服务器基础，比如 root、Docker 和更新。只有想改项目代码时才需要编程。",
           "安全吗？取决于你怎么用。两个安全政策要求的注意事项是一样的：由一位受信任的人或互相信任的团队使用，不直接暴露在互联网上，并审查你安装的第三方内容。",
           "如果我已经在用 Claude Code，该选哪个？Claude Code 是在终端里编程的工具，不能替代这两者中的任何一个。两者都支持 Anthropic 的密钥：OpenClaw 把 Anthropic 列为服务商之一，Hermes Agent 的 README 把 Anthropic 密钥列在密钥项里。想要越用越会学习的智能体，Hermes Agent 更合适；想要很多渠道和手机应用，选 OpenClaw。",
           "已有客户也能用 SONAR20 吗？同一账户符合条件的新购可以适用，但当前服务的续费不适用。首个合同期间享 20% 折扣，域名注册也除外。请确认购物车总额。"
-        ]
-      },
-      {
-        "heading": "谁在写",
-        "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App，Bruno 自 2024 年起就是客户，使用托管主机和一台 VPS KVM 2。团队中没有人使用 OpenClaw 或 Hermes Agent。",
-          "本文汇总了 Hostinger 的页面，以及两个项目的官方政策和文档，内容截至 2026年10月21日。OpenClaw 发布的两者对比是项目方自己写的，并在表格的来源列里标出了这个名称。"
         ]
       }
     ],
@@ -135812,7 +135656,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw 與 Hermes Agent：介面、記憶、AI 費用、託管或 VPS。SONAR20 為符合資格的新購買提供首期 20% 折扣。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -135959,9 +135803,8 @@ export const reviewsData: unknown[] = [
           "**想要 root 權限，並在同一台伺服器上執行其他程式，例如網站或 n8n：** VPS，兩者都可以。root 是管理員權限，能完全控制伺服器。",
           "**不想安裝，也不想管伺服器：** 託管，兩者都有。由 Hostinger 安裝與更新。"
         ],
-        "postParagraphs": [
-          "團隊裡沒有人使用其中任何一個。這些適用對象來自各專案的文件，不是我們的使用經驗。"
-        ]
+        "emphasis": "依兩個專案的文件，想要很多訊息管道和原生應用程式的人選 OpenClaw，想要越用越會學習的代理的人選 Hermes Agent，因為學習循環正是它的特色。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "在 Hostinger 上的運行方式",
@@ -136005,26 +135848,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "優惠碼 SONAR20",
         "paragraphs": [
-          "在購物車輸入 **SONAR20**：符合資格的新購買首期享 20% 折扣，月付、年付及既有帳號均可。網域註冊及續訂不適用；續訂按定價計算。條件請看 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。",
+          "在購物車的「Have a coupon code?」欄位輸入 **SONAR20**：符合資格的新購買首期享 20% 折扣，既有帳號也適用。12、24、48 個月的方案可享 20%；1 個月的方案是否適用取決於方案本身，付款前請確認購物車裡的「Coupon applied」那一行。網域註冊不適用，續訂按定價計算，沒有折扣。條件請看 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。",
           "代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合資格的新購買首期享 20% 折扣：在購物車的「Have a coupon code?」欄位輸入代碼，付款前確認「Coupon applied」那一行。續訂按定價計算，沒有折扣。",
           "OpenClaw 和 Hermes Agent 免費嗎？兩個程式都是採用 MIT 授權的開源軟體，軟體本身不收費。你要付的是伺服器或託管方案，以及 AI 模型的使用費。Hermes 在 Nous Portal 上也有訂閱，但專案文件沒有標示價格。",
           "能用在 Telegram 上嗎？可以，兩者都行。你在 BotFather 建立機器人，把權杖貼到設定裡即可。",
           "需要會寫程式嗎？啟動託管版不需要：選好管道，貼上權杖就行。用 VPS 則需要懂伺服器基礎，例如 root、Docker 和更新。只有想修改專案程式碼時才需要寫程式。",
           "安全嗎？取決於你怎麼用。兩個安全政策要求的注意事項是一樣的：由一位受信任的人或互相信任的團隊使用，不直接暴露在網際網路上，並審查你安裝的第三方內容。",
           "如果我已經在用 Claude Code，該選哪個？Claude Code 是在終端機裡寫程式的工具，無法取代這兩者中的任何一個。兩者都支援 Anthropic 的金鑰：OpenClaw 把 Anthropic 列為供應商之一，Hermes Agent 的 README 把 Anthropic 金鑰列在密鑰項目裡。想要越用越會學習的代理，Hermes Agent 比較合適；想要很多管道和手機應用程式，選 OpenClaw。",
           "既有客戶也能用 SONAR20 嗎？同一帳號符合資格的新購買可以適用，但目前服務的續約不適用。首個合約期間享 20% 折扣，網域註冊也除外。請確認購物車總額。"
-        ]
-      },
-      {
-        "heading": "誰在寫",
-        "paragraphs": [
-          "Em Casa com Cecília 運行在 Hostinger 上，是一個 Node.js Web App，Bruno 自 2024 年起就是客戶，使用主機代管與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
-          "本文彙整了 Hostinger 的頁面，以及兩個專案的官方政策與文件，內容截至 2026年10月21日。OpenClaw 發布的兩者比較是專案方自己寫的，並在表格的來源欄標示了這個名稱。"
         ]
       }
     ],
@@ -136097,7 +135934,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw vs Hermes Agent: interfaces, memory, AI costs and managed or VPS hosting. SONAR20 gives 20% off the first period of an eligible new purchase.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -136244,9 +136081,8 @@ export const reviewsData: unknown[] = [
           "**You want root access and other programs on the same server, such as a website or n8n:** a VPS, with either one. Root is administrator access, with full control of the server.",
           "**You don't want to install or look after a server:** the managed plan, with either one. Hostinger installs and updates."
         ],
-        "postParagraphs": [
-          "Nobody on the team uses either of them. The profiles come from the projects' documentation, not from our experience."
-        ]
+        "emphasis": "By the two projects' documentation, for anyone who wants many messaging channels and native apps, the choice is OpenClaw; for anyone who wants an agent that learns from use, it is Hermes Agent, because its learning loop is what sets it apart.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Where to run it on Hostinger",
@@ -136290,26 +136126,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Enter **SONAR20** in the cart: 20% off the first period of an eligible new purchase, monthly or annual, including with an existing account. Domain registration and renewal are excluded. See the [Hostinger coupon page](/en/coupons/hostinger) for conditions.",
+          "Enter **SONAR20** in the \"Have a coupon code?\" field in the cart: 20% off the first period of an eligible new purchase, including with an existing account. On 12-, 24- and 48-month terms the 20% applies; on 1-month plans acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying. Domain registration is excluded and renewal is charged at the list price, with no discount. See the [Hostinger coupon page](/en/coupons/hostinger) for conditions.",
           "Where to paste the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
           "Are OpenClaw and Hermes Agent free? Both programs are open source, under the MIT license, and you do not pay for the software. You pay for the server or the managed plan and for AI model use. Hermes also has a Nous Portal subscription, but its price does not appear in the project's documentation.",
           "Does it work with Telegram? Yes, with both. You create the bot in BotFather and paste the token into the configuration.",
           "Do you need to know how to code? To set up the managed plan, no: you choose the channels and paste the token. On a VPS, you need the basics of servers, such as root, Docker and updates. Coding only comes in if you want to change the project's code.",
           "Is it safe? It depends on how you use it. Both security policies ask for the same care: use by one trusted person or a team that trusts each other, no direct exposure to the internet, and a review of whatever you install from third parties.",
           "Which one should I choose if I already use Claude Code? Claude Code is a tool for coding in the terminal and does not replace either of them. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README lists the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw.",
           "Can existing Hostinger customers use SONAR20? Yes, on an eligible new purchase with the same account; renewal of the current service is excluded. It gives 20% off the first term, and domain registration is also excluded. Check the cart total."
-        ]
-      },
-      {
-        "heading": "Who writes this",
-        "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a VPS KVM 2. Nobody on the team uses OpenClaw or Hermes Agent.",
-          "This text gathers Hostinger's pages and the official policies and documentation of the two projects, as of 21 October 2026. The comparison between the two that OpenClaw publishes is written by the project itself, and appears under that name in the table's source column."
         ]
       }
     ],
@@ -136337,12 +136167,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take OpenClaw if you want many messaging channels and native apps for phone and computer.",
-        "Take Hermes Agent if you want an agent that learns from use: it organizes its own memory and creates and improves its own skills."
+        "you want many messaging channels and native apps for phone and computer: that points to OpenClaw.",
+        "you want an agent that learns from use, organizing its own memory and creating and improving its own skills: that points to Hermes Agent."
       ],
       "skipIf": [
-        "Skip OpenClaw if what you want is an agent that learns from use.",
-        "Skip installing it yourself if you don't want to look after a server: on the managed plan, for both, Hostinger installs and updates it."
+        "you want an agent that learns from use: OpenClaw is not the one.",
+        "you don't want to look after a server: skip the self-install, since on the managed plan, for both, Hostinger installs and updates."
       ]
     }
   },
@@ -136382,7 +136212,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI: was es ist, wer es pflegt, was sich überprüfen lässt und wie Sie es bei Hostinger betreiben, verwaltet oder als VPS.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-de-v2.webp",
@@ -136426,8 +136256,8 @@ export const reviewsData: unknown[] = [
           "**Lizenz.** MIT. Das heißt, der Code ist offen: Jeder darf ihn lesen, prüfen und nutzen. Es heißt auch, dass niemand verpflichtet ist, die von Ihnen installierte Version weiter zu pflegen.",
           "**Wo es läuft.** Das entscheiden Sie. Es kann auf Ihrem Computer, auf einem eigenen Server oder im verwalteten Tarif von Hostinger laufen. Die Website des Projekts sagt, dass die selbst gehostete Version kein Paperclip-Konto verlangt.",
           "**Wo Schlüssel und Daten liegen.** Das hängt vom Weg ab. Auf dem VPS sagt Hostinger selbst, dass sensible Daten, das Gedächtnis der Agenten und API-Zugangsdaten „vollständig in Ihrer Infrastruktur“ bleiben, also auf dem Server, den Sie gemietet haben. Beim verwalteten Angebot sagt die Seite, dass die Schlüssel in Ihrer verwalteten Instanz bleiben. Das ist die Beschreibung von Hostinger, keine unabhängige Prüfung.",
-          "**Sicherheit des Codes.** Das Repository bittet darum, Schwachstellen über die Security-Advisory-Funktion von GitHub zu melden und nicht in öffentlichen Issues. In den Quellen dieses Ratgebers finden sich weder unterstützte Versionen noch ein unabhängiges Audit noch veröffentlichte Advisories.",
-          "**Was sich nicht behaupten lässt.** In den Quellen dieses Ratgebers gibt es kein öffentliches Sicherheitsaudit. Es gibt auch keine unabhängige Bewertung und keine Drittbewertung für das Produkt. Die Zahl der Sterne auf GitHub zeigt Beliebtheit, nicht Sicherheit. Ein Agent mit Zugriff auf Ihre E-Mails, Ihre Bank oder andere Konten verdient besondere Vorsicht, egal welche Software. Zum Unternehmen, das hostet, lesen Sie [ob Hostinger vertrauenswürdig ist](/de/reviews/ist-hostinger-serioes)."
+          "**Sicherheit des Codes.** Das Repository bittet darum, Schwachstellen über die Security-Advisory-Funktion von GitHub zu melden und nicht in öffentlichen Issues.",
+          "**Vorsicht beim Zugriff.** Die Zahl der Sterne auf GitHub zeigt Beliebtheit, nicht Sicherheit. Ein Agent mit Zugriff auf Ihre E-Mails, Ihre Bank oder andere Konten verdient besondere Vorsicht, egal welche Software. Zum Unternehmen, das hostet, lesen Sie [ob Hostinger vertrauenswürdig ist](/de/reviews/ist-hostinger-serioes)."
         ]
       },
       {
@@ -136494,7 +136324,9 @@ export const reviewsData: unknown[] = [
           "**Das verwaltete Angebot passt zu Ihnen, wenn** Sie Paperclip laufen haben wollen, ohne etwas zu installieren, nicht wissen, was Root oder Docker ist, und es vorziehen, dass Hostinger sich um Datenbank, Updates und Backups kümmert.",
           "**Der VPS passt zu Ihnen, wenn** Sie andere Programme auf demselben Server betreiben wollen, etwa eine Website oder n8n (ein Automatisierungswerkzeug), sich mit Servern auskennen oder es lernen wollen und Datenbank und Konfiguration unter Ihrer Kontrolle haben möchten.",
           "Zur Erstattung: Die 180-Tage-Regel für VPS ist dieselbe wie im [Artikel über das Vertrauen in Hostinger](/de/reviews/ist-hostinger-serioes), der die Richtlinie des Unternehmens liest. Für frühere VPS-Erstattungen gilt ein Intervall von 180 Tagen; prüfen Sie Bedingungen und Ausschlüsse in der [Erstattungsrichtlinie](https://www.hostinger.com/legal/refund-policy) vor dem Kauf."
-        ]
+        ],
+        "emphasis": "Nach den Produktseiten von Hostinger lautet die Wahl für alle, die Paperclip ohne Serverpflege wollen, das verwaltete Angebot, das die Datenbank enthält; für alle, die andere Programme auf demselben Server betreiben wollen und ihn verwalten können, der VPS. In beiden Fällen läuft die KI-Anbindung über Ihre eigenen Schlüssel oder Ihr Abonnement, ohne enthaltene KI-Guthaben.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Welche VPS-Größe",
@@ -136505,7 +136337,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutscheincode SONAR20",
         "paragraphs": [
-          "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Wo Sie den Code einfügen, steht unter [so verwenden Sie den Code SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode). Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
+          "Geben Sie **SONAR20** im Feld \"Have a coupon code?\" im Warenkorb ein: 20 % im ersten Zeitraum eines berechtigten Neukaufs, auch mit bestehendem Konto. Bei Laufzeiten von 12, 24 und 48 Monaten greifen die 20 %; bei Tarifen mit 1 Monat hängt die Annahme vom Tarif ab, prüfen Sie daher vor der Zahlung die Zeile \"Coupon applied\" im Warenkorb. Domainregistrierung ist ausgeschlossen, und die Verlängerung wird zum Listenpreis ohne Rabatt berechnet. Bedingungen stehen auf der [Hostinger-Seite](/de/coupons/hostinger). Wo Sie den Code einfügen, steht unter [so verwenden Sie den Code SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ]
       },
       {
@@ -136525,18 +136357,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Hostinger-Gutschein? Der Hostinger-Gutschein ist SONAR20, mit 20% Rabatt im ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld \"Have a coupon code?\" im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile \"Coupon applied\". Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Ist Paperclip kostenlos? Das Programm ist Open Source unter MIT-Lizenz und lässt sich ohne Hostinger-Vertrag auf Ihrem Computer installieren. Verwaltetes Hosting und VPS sind kostenpflichtig. Der Modellzugang erfolgt über Ihre eigenen Konten per API oder unterstütztem Abonnement, mit den Kosten und Grenzen des Anbieters.",
-          "Ist Paperclip vertrauenswürdig? Ein Urteil lässt sich nicht fällen. Überprüfen lässt sich, dass der Code öffentlich ist, dass das Repository das Paperclip-Team (Paperclip Labs, Inc. im Copyright-Hinweis) als Verantwortlichen nennt und dass Sicherheitslücken über einen offiziellen Kanal auf GitHub gemeldet werden. In den Quellen dieses Ratgebers gibt es kein unabhängiges Audit.",
+          "Ist Paperclip vertrauenswürdig? Überprüfen lässt sich, dass der Code öffentlich ist, dass das Repository das Paperclip-Team (Paperclip Labs, Inc. im Copyright-Hinweis) als Verantwortlichen nennt und dass Sicherheitslücken über einen offiziellen Kanal auf GitHub gemeldet werden.",
           "Braucht man einen API-Schlüssel? In den meisten Fällen ja. Beim verwalteten Angebot akzeptiert Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement. Beim VPS verlangt die Seite, dass man eigene Schlüssel mitbringt. Auf dem Computer akzeptiert die README auch das Abonnement von Claude oder Codex, ohne API-Schlüssel.",
           "Läuft es mit Ollama? Das hängt vom Agenten ab, den Sie verbinden. Die README von Paperclip nennt Ollama nicht, ein Programm, um ein KI-Modell auf dem eigenen Computer auszuführen. OpenClaw dokumentiert zum Beispiel lokale Modelle; bei Paperclip liegt das Modell beim Agenten, den Sie verbinden.",
-          "Gibt es einen Gutscheincode für Paperclip bei Hostinger? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
-        ]
-      },
-      {
-        "heading": "Wer schreibt",
-        "paragraphs": [
-          "Die Seite Em Casa com Cecília läuft bei Hostinger als Node.js Web App, und Bruno ist seit 2024 Kunde, mit Hosting und einem VPS KVM 2. Niemand aus dem Team nutzt Paperclip. Dieser Text fasst zusammen, was das offizielle Repository und Hostinger sagen."
         ]
       }
     ],
@@ -136565,12 +136391,12 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "Nehmen Sie das verwaltete Angebot, wenn Sie Paperclip laufen haben wollen, ohne etwas zu installieren, und es vorziehen, dass Hostinger sich um Datenbank, Updates und Backups kümmert.",
-        "Nehmen Sie das verwaltete Angebot, wenn Sie nicht wissen, was Root oder Docker ist."
+        "Sie Paperclip laufen haben wollen, ohne etwas zu installieren, und es vorziehen, dass Hostinger sich um Datenbank, Updates und Backups kümmert: dann passt das verwaltete Angebot.",
+        "Sie nicht wissen, was Root oder Docker ist: das verwaltete Angebot nimmt Ihnen das ab."
       ],
       "skipIf": [
-        "Lassen Sie das verwaltete Angebot aus und nehmen Sie einen VPS, wenn Sie andere Programme auf demselben Server betreiben wollen, etwa eine Website oder n8n, und sich mit Servern auskennen oder es lernen wollen.",
-        "Lassen Sie Paperclip aus, wenn Sie nur einen Assistenten möchten: Es organisiert ein Team aus Agenten, und für den persönlichen Gebrauch genügt meist ein einzelner Agent."
+        "Sie andere Programme auf demselben Server betreiben wollen, etwa eine Website oder n8n, und sich mit Servern auskennen oder es lernen wollen: nehmen Sie statt des verwalteten Angebots einen VPS.",
+        "Sie nur einen Assistenten möchten: Paperclip organisiert ein Team aus Agenten, und für den persönlichen Gebrauch genügt meist ein einzelner Agent."
       ]
     }
   },
@@ -136610,7 +136436,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI: cos’è, chi lo mantiene, cosa si può verificare e come farlo girare su Hostinger, gestito o VPS.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-it-v2.webp",
@@ -136654,8 +136480,8 @@ export const reviewsData: unknown[] = [
           "**Licenza.** MIT. Vuol dire che il codice è aperto: chiunque può leggerlo, controllarlo e usarlo. Vuol dire anche che nessuno è obbligato a mantenere la versione che hai installato.",
           "**Dove gira.** Scegli tu. Può girare sul tuo computer, su un server tuo o sul piano gestito di Hostinger. Il sito del progetto dice che la versione self-hosted non richiede un account Paperclip.",
           "**Dove restano le chiavi e i dati.** Dipende dal percorso. Sul VPS, la stessa Hostinger dice che i dati sensibili, la memoria degli agenti e le credenziali API restano “interamente sulla tua infrastruttura”, cioè sul server che hai affittato. Sul gestito, la pagina dice che le chiavi restano nella tua istanza gestita. È la descrizione di Hostinger, non un audit indipendente.",
-          "**Sicurezza del codice.** Il repository chiede che le vulnerabilità siano segnalate tramite la funzione Security Advisory di GitHub, e non in issue pubbliche. Nelle fonti di questa guida non compaiono versioni supportate, audit indipendenti né advisory pubblicati.",
-          "**Cosa non si può affermare.** Nelle fonti di questa guida non c’è un audit di sicurezza pubblico. Non c’è nemmeno una recensione indipendente né una valutazione di terzi per il prodotto. Il numero di stelle su GitHub mostra la popolarità, non la sicurezza. Un agente con accesso alla tua e-mail, alla banca o ad altri account merita una cautela in più, qualunque sia il software. Sull’azienda che ospita, vedi [se Hostinger è affidabile](/it/reviews/hostinger-e-affidabile)."
+          "**Sicurezza del codice.** Il repository chiede che le vulnerabilità siano segnalate tramite la funzione Security Advisory di GitHub, e non in issue pubbliche.",
+          "**Attenzione all’accesso.** Il numero di stelle su GitHub mostra la popolarità, non la sicurezza. Un agente con accesso alla tua e-mail, alla banca o ad altri account merita una cautela in più, qualunque sia il software. Sull’azienda che ospita, vedi [se Hostinger è affidabile](/it/reviews/hostinger-e-affidabile)."
         ]
       },
       {
@@ -136722,7 +136548,9 @@ export const reviewsData: unknown[] = [
           "**Il gestito fa per te se** vuoi Paperclip funzionante senza installare nulla, non sai cosa sono root e Docker, e preferisci che Hostinger si occupi del database, degli aggiornamenti e dei backup.",
           "**Il VPS fa per te se** vuoi far girare altri programmi sullo stesso server, come un sito o un n8n (strumento di automazione), sai mettere le mani su un server o vuoi imparare, e vuoi avere database e configurazione sotto il tuo controllo.",
           "Per il rimborso, la regola dei 180 giorni per il VPS è la stessa dell’[articolo sull’affidabilità di Hostinger](/it/reviews/hostinger-e-affidabile), che legge la politica dell’azienda. Per i rimborsi VPS precedenti vale un intervallo di 180 giorni; controlla condizioni ed esclusioni nella [politica di rimborso](https://www.hostinger.com/legal/refund-policy) prima di acquistare."
-        ]
+        ],
+        "emphasis": "Secondo le pagine prodotto di Hostinger, per chi vuole Paperclip senza gestire un server la scelta è il gestito, che include il database; per chi vuole far girare altri programmi sullo stesso server e sa amministrarlo è il VPS. In entrambi i casi la connessione con l'IA passa dalle tue chiavi o dal tuo abbonamento, senza crediti IA inclusi.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Che dimensione di VPS",
@@ -136733,7 +136561,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Codice SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo codice sconto del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, su piano mensile o annuale, per clienti nuovi o già attivi. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Dove incollare il codice è spiegato in [come usare il codice SONAR20](/it/reviews/coupon-hostinger-codice-invito). Controlla il prezzo nel carrello prima di pagare."
+          "Inserisci **SONAR20** nel campo \"Have a coupon code?\" del carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Sui cicli da 12, 24 e 48 mesi il 20% si applica; sui piani da 1 mese l'accettazione dipende dal piano, quindi controlla la riga \"Coupon applied\" nel carrello prima di pagare. La registrazione di domini è esclusa e il rinnovo si paga al prezzo di listino, senza sconto. Consulta le condizioni nella [pagina Hostinger](/it/coupons/hostinger). Dove incollare il codice è spiegato in [come usare il codice SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ]
       },
       {
@@ -136753,18 +136581,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
           "Paperclip è gratis? Il programma è open source con licenza MIT e si può installare sul computer senza sottoscrivere Hostinger. Hosting gestito e VPS sono a pagamento; i modelli usano i tuoi account tramite API o abbonamento compatibile, con costi e limiti del fornitore.",
-          "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Nelle fonti di questa guida non ci sono audit indipendenti.",
+          "Paperclip è affidabile? Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub.",
           "Serve una chiave API? Nella maggior parte dei casi, sì. Sul gestito, Hostinger accetta una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo. Sul VPS, la pagina chiede di portare le proprie chiavi. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
           "Funziona con Ollama? Dipende dall’agente che colleghi. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che colleghi.",
-          "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
-        ]
-      },
-      {
-        "heading": "Chi scrive",
-        "paragraphs": [
-          "Em Casa com Cecília gira su Hostinger come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno della squadra usa Paperclip: questo testo riunisce quello che dicono il repository ufficiale e Hostinger."
         ]
       }
     ],
@@ -136793,12 +136615,12 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "Scegli il gestito se vuoi Paperclip funzionante senza installare nulla e preferisci che Hostinger si occupi del database, degli aggiornamenti e dei backup.",
-        "Scegli il gestito se non sai cosa sono root e Docker."
+        "vuoi Paperclip funzionante senza installare nulla e preferisci che Hostinger si occupi del database, degli aggiornamenti e dei backup: fa per te il gestito.",
+        "non sai cosa sono root e Docker: il gestito risolve il problema."
       ],
       "skipIf": [
-        "Lascia perdere il gestito e vai di VPS se vuoi far girare altri programmi sullo stesso server, come un sito o un n8n, e sai mettere le mani su un server o vuoi imparare.",
-        "Lascia perdere Paperclip se vuoi solo un assistente: organizza una squadra di agenti, e per un uso personale di solito basta un agente singolo."
+        "vuoi far girare altri programmi sullo stesso server, come un sito o un n8n, e sai mettere le mani su un server o vuoi imparare: vai di VPS invece del gestito.",
+        "vuoi solo un assistente: Paperclip organizza una squadra di agenti, e per un uso personale di solito basta un agente singolo."
       ]
     }
   },
@@ -136838,7 +136660,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI : ce que c’est, qui le maintient, ce que l’on peut vérifier et comment le faire tourner chez Hostinger, en géré ou sur un VPS.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -136883,8 +136705,8 @@ export const reviewsData: unknown[] = [
           "**Licence.** MIT. Cela veut dire que le code est ouvert : tout le monde peut le lire, l’auditer et l’utiliser. Cela veut aussi dire que personne n’est obligé de maintenir la version que vous avez installée.",
           "**Où il tourne.** Vous choisissez. Il peut tourner sur votre ordinateur, sur un serveur à vous ou sur l’offre gérée de Hostinger. Le site du projet indique que la version auto-hébergée n’exige pas de compte Paperclip.",
           "**Où se trouvent les clés et les données.** Cela dépend du chemin. Sur le VPS, Hostinger elle-même indique que les données sensibles, la mémoire des agents et les identifiants d’API restent « entièrement sur votre infrastructure », c’est-à-dire sur le serveur que vous avez loué. Sur le géré, la page indique que les clés restent dans votre instance gérée. C’est la description de Hostinger, pas un audit indépendant.",
-          "**Sécurité du code.** Le dépôt demande que les vulnérabilités soient signalées via la fonction Security Advisory de GitHub, et non dans des issues publiques. Dans les sources de ce guide, on ne trouve ni versions prises en charge, ni audit indépendant, ni advisories publiés.",
-          "**Ce que l’on ne peut pas affirmer.** Les sources de ce guide ne mentionnent aucun audit de sécurité public. Il n’y a pas non plus d’avis indépendant ni de note de tiers pour le produit. Le nombre d’étoiles sur GitHub montre la popularité, pas la sécurité. Un agent ayant accès à votre messagerie, à votre banque ou à d’autres comptes mérite une prudence supplémentaire, quel que soit le logiciel. Pour l’entreprise qui l’héberge, voyez [si Hostinger est fiable](/fr/reviews/hostinger-est-il-fiable)."
+          "**Sécurité du code.** Le dépôt demande que les vulnérabilités soient signalées via la fonction Security Advisory de GitHub, et non dans des issues publiques.",
+          "**Prudence sur l’accès.** Le nombre d’étoiles sur GitHub montre la popularité, pas la sécurité. Un agent ayant accès à votre messagerie, à votre banque ou à d’autres comptes mérite une prudence supplémentaire, quel que soit le logiciel. Pour l’entreprise qui l’héberge, voyez [si Hostinger est fiable](/fr/reviews/hostinger-est-il-fiable)."
         ]
       },
       {
@@ -136951,7 +136773,9 @@ export const reviewsData: unknown[] = [
           "**Le géré vous convient si** vous voulez Paperclip qui fonctionne sans rien installer, si vous ne savez pas ce que sont root et Docker, et si vous préférez que Hostinger s’occupe de la base de données, des mises à jour et des sauvegardes.",
           "**Le VPS vous convient si** vous voulez faire tourner d’autres programmes sur le même serveur, comme un site ou un n8n (outil d’automatisation), si vous savez manipuler un serveur ou voulez apprendre, et si vous voulez garder la base de données et la configuration sous votre contrôle.",
           "Pour le remboursement, la règle des 180 jours pour le VPS est la même que dans l’[article sur la confiance envers Hostinger](/fr/reviews/hostinger-est-il-fiable), qui lit la politique de l’entreprise. Un intervalle de 180 jours s’applique aux remboursements de VPS précédents ; vérifiez les conditions et exclusions dans la [politique de remboursement](https://www.hostinger.com/legal/refund-policy) avant de souscrire."
-        ]
+        ],
+        "emphasis": "D'après les pages produit de Hostinger, pour qui veut Paperclip sans gérer de serveur, le choix est le géré, qui inclut la base de données ; pour qui veut faire tourner d'autres programmes sur le même serveur et sait l'administrer, c'est le VPS. Dans les deux cas, la connexion à l'IA repose sur vos propres clés ou abonnement, sans crédits d'IA inclus.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Quelle taille de VPS",
@@ -136962,7 +136786,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code SONAR20",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c’est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Vérifiez le montant dans le panier avant de payer."
+          "Saisissez **SONAR20** dans le champ \"Have a coupon code?\" du panier : 20 % sur la première période d'un nouvel achat éligible, y compris avec un compte existant. Sur les durées de 12, 24 et 48 mois, les 20 % s'appliquent ; sur les offres d'1 mois, l'acceptation dépend de l'offre, donc vérifiez la ligne \"Coupon applied\" du panier avant de payer. L'enregistrement de domaines est exclu et le renouvellement est facturé au prix catalogue, sans réduction. Consultez les conditions sur la [page Hostinger](/fr/coupons/hostinger). Où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
       {
@@ -136982,18 +136806,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ \"Have a coupon code?\" du panier et vérifiez la ligne \"Coupon applied\" avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
           "Paperclip est-il gratuit ? Le programme est open source sous licence MIT et peut s’installer sur votre ordinateur sans souscrire chez Hostinger. L’hébergement géré et les VPS sont payants ; les modèles utilisent vos comptes par API ou abonnement compatible, avec les coûts et limites du fournisseur.",
-          "Paperclip est-il fiable ? On ne peut pas donner de verdict. On peut vérifier que le code est public, que le dépôt désigne l’équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité sont signalées par un canal officiel sur GitHub. Il n’y a pas d’audit indépendant dans les sources de ce guide.",
+          "Paperclip est-il fiable ? On peut vérifier que le code est public, que le dépôt désigne l’équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité sont signalées par un canal officiel sur GitHub.",
           "Faut-il une clé d’API ? Dans la plupart des cas, oui. Sur le géré, Hostinger accepte une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif. Sur le VPS, la page demande d’apporter vos propres clés. Sur l’ordinateur, le README accepte aussi l’abonnement Claude ou Codex, sans clé d’API.",
           "Fonctionne-t-il avec Ollama ? Cela dépend de l’agent que vous connectez. Le README de Paperclip ne cite pas Ollama, un programme pour faire tourner un modèle d’IA sur son propre ordinateur. OpenClaw, par exemple, documente des modèles locaux ; dans Paperclip, le modèle reste du côté de l’agent que vous connectez.",
-          "Y a-t-il un code promo pour Paperclip chez Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
-        ]
-      },
-      {
-        "heading": "Qui écrit",
-        "paragraphs": [
-          "Em Casa com Cecília tourne sur Hostinger, en Node.js Web App, et Bruno est client depuis 2024, avec un hébergement et un VPS KVM 2. Personne dans l’équipe n’utilise Paperclip : ce texte réunit ce que disent le dépôt officiel et Hostinger."
         ]
       }
     ],
@@ -137021,12 +136839,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez le géré si vous voulez Paperclip qui fonctionne sans rien installer et préférez que Hostinger s’occupe de la base de données, des mises à jour et des sauvegardes.",
-        "Prenez le géré si vous ne savez pas ce que sont root et Docker."
+        "vous voulez Paperclip qui fonctionne sans rien installer et préférez que Hostinger s’occupe de la base de données, des mises à jour et des sauvegardes : le géré vous convient.",
+        "vous ne savez pas ce que sont root et Docker : le géré règle ça."
       ],
       "skipIf": [
-        "Passez le géré et allez sur un VPS si vous voulez faire tourner d’autres programmes sur le même serveur, comme un site ou un n8n, et savez manipuler un serveur ou voulez apprendre.",
-        "Passez Paperclip si vous ne voulez qu’un assistant : il organise une équipe d’agents, et pour un usage personnel un agent unique suffit en général."
+        "vous voulez faire tourner d’autres programmes sur le même serveur, comme un site ou un n8n, et savez manipuler un serveur ou voulez apprendre : prenez un VPS plutôt que le géré.",
+        "vous ne voulez qu’un assistant : Paperclip organise une équipe d’agents, et pour un usage personnel un agent unique suffit en général."
       ]
     }
   },
@@ -137066,7 +136884,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI: what it is, who maintains it, what you can verify and how to run it on Hostinger, managed or VPS.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -137111,8 +136929,8 @@ export const reviewsData: unknown[] = [
           "**License.** MIT. It means the code is open: anyone can read it, audit it and use it. It also means nobody is obliged to keep maintaining the version you installed.",
           "**Where it runs.** You choose. It can run on your computer, on a server of your own or on Hostinger’s managed plan. The project’s website says the self-hosted version does not require a Paperclip account.",
           "**Where the keys and data live.** It depends on the path. On the VPS, Hostinger itself says that sensitive data, agent memory and API credentials stay “entirely on your infrastructure”, that is, on the server you rented. On managed, the page says the keys stay in your managed instance. This is Hostinger’s description, not an independent audit.",
-          "**Code security.** The repository asks that vulnerabilities be reported through GitHub’s Security Advisory feature, not in public issues. The sources for this guide list no supported versions, independent audits or published advisories.",
-          "**What cannot be claimed.** The sources for this guide mention no public security audit. There is also no independent review or third-party rating for the product. The number of stars on GitHub shows popularity, not security. An agent with access to your email, your bank or other accounts deserves extra care, whatever the software. For the company that hosts it, see [whether Hostinger is trustworthy](/en/reviews/is-hostinger-legit)."
+          "**Code security.** The repository asks that vulnerabilities be reported through GitHub’s Security Advisory feature, not in public issues.",
+          "**Care with access.** The number of stars on GitHub shows popularity, not security. An agent with access to your email, your bank or other accounts deserves extra care, whatever the software. For the company that hosts it, see [whether Hostinger is trustworthy](/en/reviews/is-hostinger-legit)."
         ]
       },
       {
@@ -137179,7 +136997,9 @@ export const reviewsData: unknown[] = [
           "**Managed is for you if** you want Paperclip running without installing anything, you do not know what root or Docker is, and you prefer Hostinger to look after the database, the updates and the backups.",
           "**The VPS is for you if** you want to run other programs on the same server, such as a website or n8n (an automation tool), you know your way around a server or want to learn, and you want the database and the configuration under your control.",
           "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. A 180-day interval applies to previous VPS refunds; check the conditions and exclusions in the [refund policy](https://www.hostinger.com/legal/refund-policy) before buying."
-        ]
+        ],
+        "emphasis": "By Hostinger's own product pages, for anyone who wants Paperclip running without looking after a server, the choice is managed, which includes the database; for anyone who wants to run other programs on the same server and can administer it, it is the VPS. On both, the AI connection is up to your own keys or subscription, with no AI credits included.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "What size of VPS",
@@ -137190,7 +137010,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart’s coupon field, or come in through this article’s link: it gives **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral). Check the price in the cart before you pay."
+          "Enter **SONAR20** in the \"Have a coupon code?\" field in the cart: 20% off the first period of an eligible new purchase, including with an existing account. On 12-, 24- and 48-month terms the 20% applies; on 1-month plans acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying. Domain registration is excluded and renewal is charged at the list price, with no discount. See the [Hostinger coupon page](/en/coupons/hostinger) for conditions. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ]
       },
       {
@@ -137210,18 +137030,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
           "Is Paperclip free? The program is open source under the MIT license and can be installed on your computer without buying Hostinger hosting. Managed hosting and VPS plans are paid. Model access uses your own accounts through an API or supported subscription, under the provider’s costs and limits.",
-          "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. There is no independent audit in this guide’s sources.",
+          "Is Paperclip reliable? What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub.",
           "Does it need an API key? In most cases, yes. On managed, Hostinger accepts an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription. On the VPS, the page asks you to bring your own keys. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
           "Does it run with Ollama? It depends on the agent you connect. Paperclip’s README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model stays with the agent you connect.",
-          "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
-        ]
-      },
-      {
-        "heading": "Who writes this",
-        "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. No one on the team uses Paperclip: this text gathers what the official repository and Hostinger say."
         ]
       }
     ],
@@ -137249,12 +137063,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take managed if you want Paperclip running without installing anything and prefer Hostinger to look after the database, the updates and the backups.",
-        "Take managed if you do not know what root or Docker is."
+        "you want Paperclip running without installing anything and prefer Hostinger to look after the database, the updates and the backups: go with managed.",
+        "you do not know what root or Docker is: managed covers that."
       ],
       "skipIf": [
-        "Skip managed and go with a VPS if you want to run other programs on the same server, such as a website or n8n, and you know your way around a server or want to learn.",
-        "Skip Paperclip if you only want one assistant: it organizes a team of agents, and for personal use a single agent is usually enough."
+        "you want to run other programs on the same server, such as a website or n8n, and you know your way around a server or want to learn: go with a VPS instead of managed.",
+        "you only want one assistant: Paperclip organizes a team of agents, and for personal use a single agent is usually enough."
       ]
     }
   },
@@ -137294,7 +137108,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI とは何か、誰が保守しているか、確認できる事実、Hostinger（マネージドまたは VPS）での動かし方を解説します。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -137339,8 +137153,8 @@ export const reviewsData: unknown[] = [
           "**ライセンス。** MIT です。コードが公開されていて、誰でも読み、監査し、使えるということです。同時に、あなたがインストールしたバージョンを保守し続ける義務は誰にもありません。",
           "**どこで動かすか。** 選べます。自分のコンピューター、自前のサーバー、Hostinger のマネージドプランのいずれでも動かせます。プロジェクトのサイトによると、セルフホスト版に Paperclip のアカウントは不要です。",
           "**キーとデータの置き場所。** 経路によって違います。VPS では、機密データ、エージェントのメモリ、API の認証情報は「すべてお客様のインフラ内」にあると Hostinger 自身が説明しており、つまり借りたサーバーの中です。マネージドでは、キーはご自身のマネージドインスタンスにあるとページに書かれています。これは Hostinger の説明であり、独立した監査ではありません。",
-          "**コードの安全性。** リポジトリは、脆弱性を公開の issue ではなく GitHub の Security Advisory 機能で報告するよう求めています。このガイドの情報源には、サポート対象のバージョン、独立した監査、公開済みのアドバイザリーの記載がありません。",
-          "**断言できないこと。** このガイドの情報源には、公開されたセキュリティ監査の記載がありません。独立したレビューも、この製品に対する第三者の評価もありません。GitHub のスター数は人気を示すもので、安全性を示すものではありません。メール、銀行、その他のアカウントにアクセスできるエージェントは、どのソフトウェアでも特に注意が必要です。ホスティング会社については、[Hostinger は信頼できるか](/ja/reviews/hostinger-trust-guide-ja)をご覧ください。"
+          "**コードの安全性。** リポジトリは、脆弱性を公開の issue ではなく GitHub の Security Advisory 機能で報告するよう求めています。",
+          "**アクセス権限に注意。** GitHub のスター数は人気を示すもので、安全性を示すものではありません。メール、銀行、その他のアカウントにアクセスできるエージェントは、どのソフトウェアでも特に注意が必要です。ホスティング会社については、[Hostinger は信頼できるか](/ja/reviews/hostinger-trust-guide-ja)をご覧ください。"
         ]
       },
       {
@@ -137407,7 +137221,9 @@ export const reviewsData: unknown[] = [
           "**マネージドが向いているのは、**何もインストールせずに Paperclip を動かしたい方、root も Docker も分からない方、データベース、更新、バックアップを Hostinger に任せたい方です。",
           "**VPS が向いているのは、**同じサーバーでサイトや n8n（自動化ツール）など他のプログラムも動かしたい方、サーバーを扱える方や学びたい方、データベースと設定を自分の管理下に置きたい方です。",
           "返金については、VPS の180日ルールは、同社の方針を読み解いた[Hostinger の信頼性についての記事](/ja/reviews/hostinger-trust-guide-ja)と同じです。以前の VPS 返金には180日の間隔が適用されます。契約前に、条件と除外事項を[返金ポリシー](https://www.hostinger.com/legal/refund-policy)で確認してください。"
-        ]
+        ],
+        "emphasis": "Hostinger の製品ページによると、サーバーの管理なしで Paperclip を動かしたい人にはデータベース込みのマネージド、同じサーバーで他のプログラムも動かしたく、サーバーを管理できる人には VPS が合います。どちらも AI への接続は自分のキーまたはサブスクリプションで行い、AI クレジットは含まれません。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "VPS のサイズ",
@@ -137418,7 +137234,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも適用されます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。コードを入れる場所は[クーポン SONAR20 の使い方](/ja/reviews/hostinger-referral-code-ja)にあります。支払う前に、カートで金額を確認してください。"
+          "カートの「Have a coupon code?」欄に **SONAR20** を入力してください。対象の新規購入で初回期間が20%割引になり、既存アカウントも対象です。12・24・48か月の契約期間では20%が適用されます。1か月プランはプランによって適用されるかどうかが異なるため、お支払い前にカートの「Coupon applied」の行を確認してください。ドメイン登録は対象外で、更新は通常料金で割引はありません。条件は [Hostinger のクーポンページ](/ja/coupons/hostinger) を確認してください。コードを入れる場所は[クーポン SONAR20 の使い方](/ja/reviews/hostinger-referral-code-ja)にあります。"
         ]
       },
       {
@@ -137438,18 +137254,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostinger のクーポンは何ですか？ Hostinger のクーポンは SONAR20 で、対象の新規購入の初回期間が20%割引になります。カートの「Have a coupon code?」欄にコードを入力し、お支払い前に「Coupon applied」の行を確認してください。更新は通常料金で、割引はありません。",
           "Paperclip は無料ですか？ プログラムはオープンソースで MIT ライセンスです。Hostinger に支払わず、自分のコンピューターにインストールできます。マネージドと VPS は有料プランです。モデルへの接続は、ご自身のアカウントで API または対応するサブスクリプションを使い、プロバイダーの料金と制限に従います。",
-          "Paperclip は信頼できますか？ 結論を出すことはできません。確認できるのは、コードが公開されていること、リポジトリが Paperclip チーム（著作権表示では Paperclip Labs, Inc.）を責任者としていること、セキュリティ上の不具合は GitHub の公式窓口で報告されることです。このガイドの情報源には、独立した監査はありません。",
+          "Paperclip は信頼できますか？ 確認できるのは、コードが公開されていること、リポジトリが Paperclip チーム（著作権表示では Paperclip Labs, Inc.）を責任者としていること、セキュリティ上の不具合は GitHub の公式窓口で報告されることです。",
           "API キーは必要ですか？ ほとんどの場合は必要です。マネージド版では、OpenAI、Anthropic、Gemini、Cursor のいずれかの API キー、または有効な ChatGPT サブスクリプションが使えます。VPS では、ページがご自身のキーを持ち込むよう求めています。コンピューターで動かす場合は、README により Claude または Codex のサブスクリプションでも、API キーなしで利用できます。",
           "Ollama で動きますか？ 接続するエージェント次第です。Paperclip の README には、AI モデルを自分のコンピューターで動かすプログラムである Ollama への言及がありません。たとえば OpenClaw はローカルモデルを文書化していますが、Paperclip ではモデルは接続したエージェント側にあります。",
-          "Hostinger で Paperclip に使えるクーポンはありますか？ あります。カートのクーポン欄にコード SONAR20 を入れると、最初の期間が20%引きになります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
-        ]
-      },
-      {
-        "heading": "執筆者",
-        "paragraphs": [
-          "Em Casa com Cecília は Hostinger 上で Node.js Web App として動いており、Bruno は2024年からのお客様で、ホスティングと VPS KVM 2 を利用しています。チームの誰も Paperclip を使っていません。この記事は、公式リポジトリと Hostinger の説明をまとめたものです。"
         ]
       }
     ],
@@ -137522,7 +137332,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI가 무엇인지, 누가 관리하는지, 확인할 수 있는 사실, Hostinger(관리형 또는 VPS)에서 운영하는 방법을 정리했습니다.",
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-ko-v2.webp",
@@ -137566,8 +137376,8 @@ export const reviewsData: unknown[] = [
           "**라이선스.** MIT입니다. 코드가 공개되어 있어 누구나 읽고, 감사하고, 사용할 수 있다는 뜻입니다. 또한 설치한 버전을 계속 관리해 줄 의무가 누구에게도 없다는 뜻이기도 합니다.",
           "**어디서 실행하는가.** 선택할 수 있습니다. 컴퓨터, 자체 서버, Hostinger 관리형 플랜 모두 가능합니다. 프로젝트 사이트에 따르면 셀프 호스팅 버전에는 Paperclip 계정이 필요 없습니다.",
           "**키와 데이터는 어디에 있는가.** 경로에 따라 다릅니다. VPS에서는 민감한 데이터, 에이전트 메모리, API 자격 증명이 '전적으로 고객의 인프라 안'에 있다고 Hostinger가 직접 밝히고 있으며, 곧 임대한 서버 안이라는 뜻입니다. 관리형에서는 키가 관리형 인스턴스에 있다고 페이지에 적혀 있습니다. 이는 Hostinger의 설명이며 독립적인 감사 결과가 아닙니다.",
-          "**코드 보안.** 저장소는 취약점을 공개 이슈가 아니라 GitHub의 Security Advisory 기능으로 신고하라고 안내합니다. 이 가이드의 자료에는 지원 버전, 독립적인 감사, 공개된 어드바이저리에 대한 내용이 없습니다.",
-          "**단정할 수 없는 것.** 이 가이드의 자료에는 공개된 보안 감사가 없습니다. 독립적인 리뷰나 이 제품에 대한 제3자 평가도 없습니다. GitHub의 별 개수는 인기를 보여 줄 뿐 안전을 보여 주지 않습니다. 이메일, 은행, 다른 계정에 접근하는 에이전트는 어떤 소프트웨어든 특별히 조심해야 합니다. 호스팅 회사에 대해서는 [Hostinger는 믿을 만한가](/ko/reviews/hostinger-trust-guide-ko)를 보세요."
+          "**코드 보안.** 저장소는 취약점을 공개 이슈가 아니라 GitHub의 Security Advisory 기능으로 신고하라고 안내합니다.",
+          "**접근 권한에 주의.** GitHub의 별 개수는 인기를 보여 줄 뿐 안전을 보여 주지 않습니다. 이메일, 은행, 다른 계정에 접근하는 에이전트는 어떤 소프트웨어든 특별히 조심해야 합니다. 호스팅 회사에 대해서는 [Hostinger는 믿을 만한가](/ko/reviews/hostinger-trust-guide-ko)를 보세요."
         ]
       },
       {
@@ -137634,7 +137444,9 @@ export const reviewsData: unknown[] = [
           "**관리형이 맞는 경우는** 아무것도 설치하지 않고 Paperclip을 쓰고 싶고, root도 Docker도 모르며, 데이터베이스와 업데이트와 백업을 Hostinger가 맡아 주기를 바랄 때입니다.",
           "**VPS가 맞는 경우는** 같은 서버에서 사이트나 n8n(자동화 도구) 같은 다른 프로그램도 돌리고 싶고, 서버를 다룰 줄 알거나 배우고 싶으며, 데이터베이스와 설정을 직접 통제하고 싶을 때입니다.",
           "환불에 관해, VPS의 180일 규칙은 회사 정책을 읽은 [Hostinger 신뢰성 글](/ko/reviews/hostinger-trust-guide-ko)과 같습니다. 이전 VPS 환불에는 180일 간격이 적용됩니다. 계약 전에 조건과 제외 사항을 [환불 정책](https://www.hostinger.com/legal/refund-policy)에서 확인하세요."
-        ]
+        ],
+        "emphasis": "Hostinger의 제품 페이지를 보면, 서버 관리 없이 Paperclip을 쓰고 싶은 사람에게는 데이터베이스가 포함된 관리형이, 같은 서버에서 다른 프로그램도 돌리고 싶고 서버를 관리할 줄 아는 사람에게는 VPS가 맞습니다. 두 경우 모두 AI 연결은 본인의 키나 구독으로 하며, AI 크레딧은 포함되지 않습니다.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "VPS는 어느 크기로",
@@ -137645,7 +137457,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 코드 **SONAR20**을 넣거나 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두에게 적용됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 코드를 붙여 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 결제하기 전에 장바구니에서 금액을 확인하세요."
+          "장바구니의 \"Have a coupon code?\" 입력란에 **SONAR20**을 입력하세요. 적용 대상 신규 구매의 첫 기간 20% 할인이며, 기존 계정도 가능합니다. 12·24·48개월 주기에는 20%가 적용됩니다. 1개월 플랜은 플랜에 따라 적용 여부가 다르니, 결제 전에 장바구니의 \"Coupon applied\" 줄을 확인하세요. 도메인 등록은 제외되며 갱신은 정가로 청구되어 할인이 없습니다. 조건은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에서 확인하세요. 코드를 붙여 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ]
       },
       {
@@ -137665,18 +137477,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "호스팅어 쿠폰은 무엇인가요? 호스팅어 쿠폰은 SONAR20이며, 적용 대상 신규 구매의 첫 기간 20% 할인입니다. 장바구니의 \"Have a coupon code?\" 입력란에 코드를 넣고, 결제 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 정가로 청구되며 할인이 없습니다.",
           "Paperclip은 무료인가요? 프로그램은 MIT 라이선스의 오픈 소스이며, Hostinger에 돈을 내지 않고 컴퓨터에 설치할 수 있습니다. 관리형과 VPS는 유료 플랜입니다. 모델 연결은 자신의 계정으로 API 또는 지원되는 구독을 쓰며, 제공업체의 비용과 한도가 적용됩니다.",
-          "Paperclip은 믿을 만한가요? 결론을 내릴 수는 없습니다. 확인할 수 있는 것은 코드가 공개되어 있다는 점, 저장소가 Paperclip 팀(저작권 표기로는 Paperclip Labs, Inc.)을 책임자로 밝힌다는 점, 보안 결함은 GitHub의 공식 창구로 신고된다는 점입니다. 이 가이드의 자료에는 독립적인 감사가 없습니다.",
+          "Paperclip은 믿을 만한가요? 확인할 수 있는 것은 코드가 공개되어 있다는 점, 저장소가 Paperclip 팀(저작권 표기로는 Paperclip Labs, Inc.)을 책임자로 밝힌다는 점, 보안 결함은 GitHub의 공식 창구로 신고된다는 점입니다.",
           "API 키가 필요한가요? 대부분의 경우 필요합니다. 관리형에서는 OpenAI, Anthropic, Gemini, Cursor 중 하나의 API 키 또는 활성 ChatGPT 구독을 쓸 수 있습니다. VPS에서는 페이지가 자신의 키를 가져오라고 안내합니다. 컴퓨터에서는 README에 따라 Claude나 Codex 구독으로도 API 키 없이 쓸 수 있습니다.",
           "Ollama와 함께 작동하나요? 연결하는 에이전트에 따라 다릅니다. Paperclip의 README에는 AI 모델을 컴퓨터에서 직접 실행하는 프로그램인 Ollama가 언급되어 있지 않습니다. 예를 들어 OpenClaw는 로컬 모델을 문서화하고 있지만, Paperclip에서 모델은 연결한 에이전트 쪽에 있습니다.",
-          "Hostinger에서 Paperclip에 쓸 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 코드 SONAR20을 넣으면 첫 번째 기간 20% 할인이 적용됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
-        ]
-      },
-      {
-        "heading": "작성자",
-        "paragraphs": [
-          "Em Casa com Cecília는 Hostinger에서 Node.js Web App으로 운영되며, Bruno는 2024년부터 호스팅과 VPS KVM 2를 쓰는 고객입니다. 팀 중에 Paperclip을 쓰는 사람은 없습니다. 이 글은 공식 저장소와 Hostinger의 설명을 정리한 것입니다."
         ]
       }
     ],
@@ -137750,7 +137556,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI 是什么、由谁维护、哪些事实可以核实，以及如何在 Hostinger 上运行（托管版或 VPS）。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -137795,8 +137601,8 @@ export const reviewsData: unknown[] = [
           "**许可证。** MIT。意思是代码开放，任何人都可以阅读、审计和使用。也意味着没有人有义务持续维护您安装的那个版本。",
           "**在哪里运行。** 由您选择。可以在自己的电脑上、自己的服务器上，或 Hostinger 的托管套餐上运行。项目网站说明，自托管版本不需要 Paperclip 账号。",
           "**密钥和数据放在哪里。** 取决于方式。在 VPS 上，Hostinger 自己表示敏感数据、智能体记忆和 API 凭据“完全保存在您自己的基础设施中”，也就是您租用的那台服务器里。在托管版上，页面说密钥保存在您的托管实例中。这是 Hostinger 的说法，不是独立审计。",
-          "**代码安全。** 仓库要求通过 GitHub 的 Security Advisory 功能报告漏洞，而不是公开的 issue。本指南所用的资料中，没有受支持的版本、独立审计或已发布的安全公告。",
-          "**无法断言的部分。** 就本指南的资料而言，没有公开的安全审计，也没有独立评测，更没有第三方对该产品的评分。GitHub 的 star 数量代表受欢迎程度，不代表安全。无论用哪种软件，能访问您的邮箱、银行或其他账号的智能体都值得格外小心。关于托管服务商本身，请看[Hostinger 靠谱吗](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+          "**代码安全。** 仓库要求通过 GitHub 的 Security Advisory 功能报告漏洞，而不是公开的 issue。",
+          "**留意访问权限。** GitHub 的 star 数量代表受欢迎程度，不代表安全。无论用哪种软件，能访问您的邮箱、银行或其他账号的智能体都值得格外小心。关于托管服务商本身，请看[Hostinger 靠谱吗](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
         ]
       },
       {
@@ -137863,7 +137669,9 @@ export const reviewsData: unknown[] = [
           "**托管版适合您，如果** 您想不安装任何东西就让 Paperclip 跑起来，不知道什么是 root 和 Docker，并且希望由 Hostinger 负责数据库、更新和备份。",
           "**VPS 适合您，如果** 您想在同一台服务器上运行其他程序，比如网站或 n8n（自动化工具），会操作服务器或想学，并且希望数据库和配置都在自己掌控之中。",
           "关于退款，VPS 的 180 天规则与[关于 Hostinger 是否可靠的文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)相同，那篇文章解读了该公司的政策。先前的 VPS 退款适用 180 天的间隔；购买前请在[退款政策](https://www.hostinger.com/legal/refund-policy)中确认条件和例外。"
-        ]
+        ],
+        "emphasis": "依 Hostinger 的产品页面，想不管服务器就让 Paperclip 跑起来的人选含数据库的托管版；想在同一台服务器上运行其他程序、又会管理服务器的人选 VPS。两者的 AI 连接都靠自己的密钥或订阅，不含 AI 额度。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "VPS 选多大",
@@ -137874,7 +137682,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**首个周期享 8 折**（即减 20%），月付或年付均可，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。代码填在哪里，见[如何使用优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。付款前请在购物车里确认金额。"
+          "在购物车的“Have a coupon code?”栏输入 **SONAR20**：符合条件的新购首期享 20% 折扣，已有账户也适用。12、24、48 个月的方案可享 20%；1 个月的方案是否适用取决于方案本身，付款前请确认购物车里的“Coupon applied”那一行。域名注册不适用，续费按标价收费，没有折扣。条件请看 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。代码填在哪里，见[如何使用优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ]
       },
       {
@@ -137894,18 +137702,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，符合条件的新购首期享 20% 折扣：在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”那一行。续费按标价收费，没有折扣。",
           "Paperclip 免费吗？ 程序采用 MIT 开源许可证，可以不购买 Hostinger 而安装在自己的电脑上。托管版和 VPS 需付费；模型使用您自己的 API 账户或兼容订阅，受提供商的费用和限制约束。",
-          "Paperclip 可靠吗？ 无法下结论。可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。本指南的资料中没有独立审计。",
+          "Paperclip 可靠吗？ 可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。",
           "需要 API 密钥吗？ 大多数情况下需要。托管版可以使用 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅；VPS 则要求您自带密钥。在电脑上运行时，README 也支持 Claude 或 Codex 的订阅，无需 API 密钥。",
           "能搭配 Ollama 使用吗？ 取决于您连接的智能体。Paperclip 的 README 没有提到 Ollama，这是一个在自己电脑上运行 AI 模型的程序。例如 OpenClaw 记录了本地模型的用法；而在 Paperclip 中，模型取决于您连接的智能体。",
-          "Hostinger 上有适用于 Paperclip 的优惠码吗？ 有：在购物车的优惠码栏输入代码 SONAR20，首个周期可减 20%。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
-        ]
-      },
-      {
-        "heading": "作者",
-        "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App，Bruno 自 2024 年起就是客户，使用托管主机和一台 VPS KVM 2。团队里没有人使用 Paperclip：本文汇总的是官方仓库和 Hostinger 的说法。"
         ]
       }
     ],
@@ -137978,7 +137780,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI 是什麼、由誰維護、哪些事實可以查證，以及如何在 Hostinger 上執行（代管方案或 VPS）。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -138023,8 +137825,8 @@ export const reviewsData: unknown[] = [
           "**授權。** MIT。意思是程式碼公開，任何人都可以閱讀、稽核和使用。也意味著沒有人有義務持續維護您安裝的那個版本。",
           "**在哪裡執行。** 由您選擇。可以在自己的電腦上、自己的伺服器上，或 Hostinger 的代管方案上執行。專案網站說明，自行架設的版本不需要 Paperclip 帳號。",
           "**金鑰和資料放在哪裡。** 取決於方式。在 VPS 上，Hostinger 自己表示敏感資料、代理記憶和 API 憑證「完全保存在您自己的基礎設施中」，也就是您租用的那台伺服器裡。在代管方案上，頁面說金鑰保存在您的代管實例中。這是 Hostinger 的說法，不是獨立稽核。",
-          "**程式碼安全。** 儲存庫要求透過 GitHub 的 Security Advisory 功能回報漏洞，而不是公開的 issue。本指南所用的資料中，沒有受支援的版本、獨立稽核或已發布的安全公告。",
-          "**無法斷言的部分。** 就本指南的資料而言，沒有公開的安全稽核，也沒有獨立評測，更沒有第三方對該產品的評分。GitHub 的 star 數量代表受歡迎程度，不代表安全。無論用哪種軟體，能存取您的信箱、銀行或其他帳號的代理都值得格外小心。關於代管服務商本身，請看[Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+          "**程式碼安全。** 儲存庫要求透過 GitHub 的 Security Advisory 功能回報漏洞，而不是公開的 issue。",
+          "**留意存取權限。** GitHub 的 star 數量代表受歡迎程度，不代表安全。無論用哪種軟體，能存取您的信箱、銀行或其他帳號的代理都值得格外小心。關於代管服務商本身，請看[Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
         ]
       },
       {
@@ -138091,7 +137893,9 @@ export const reviewsData: unknown[] = [
           "**代管方案適合您，如果** 您想不安裝任何東西就讓 Paperclip 跑起來，不知道什麼是 root 和 Docker，並且希望由 Hostinger 負責資料庫、更新和備份。",
           "**VPS 適合您，如果** 您想在同一台伺服器上執行其他程式，例如網站或 n8n（自動化工具），會操作伺服器或想學，並且希望資料庫和設定都在自己掌控之中。",
           "關於退款，VPS 的 180 天規則與[關於 Hostinger 是否可靠的文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)相同，那篇文章解讀了該公司的政策。先前的 VPS 退款適用 180 天的間隔；購買前請在[退款政策](https://www.hostinger.com/legal/refund-policy)中確認條件與例外。"
-        ]
+        ],
+        "emphasis": "依 Hostinger 的產品頁面，想不管伺服器就讓 Paperclip 跑起來的人選含資料庫的代管方案；想在同一台伺服器上執行其他程式、又會管理伺服器的人選 VPS。兩者的 AI 連線都靠自己的金鑰或訂閱，不含 AI 額度。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "VPS 選多大",
@@ -138102,7 +137906,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "優惠碼 SONAR20",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**首個週期享 8 折**（即減 20%），月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。代碼填在哪裡，請見[如何使用優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。付款前請在購物車裡確認金額。"
+          "在購物車的「Have a coupon code?」欄位輸入 **SONAR20**：符合資格的新購買首期享 20% 折扣，既有帳號也適用。12、24、48 個月的方案可享 20%；1 個月的方案是否適用取決於方案本身，付款前請確認購物車裡的「Coupon applied」那一行。網域註冊不適用，續訂按定價計算，沒有折扣。條件請看 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。代碼填在哪裡，請見[如何使用優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ]
       },
       {
@@ -138122,18 +137926,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合資格的新購買首期享 20% 折扣：在購物車的「Have a coupon code?」欄位輸入代碼，付款前確認「Coupon applied」那一行。續訂按定價計算，沒有折扣。",
           "Paperclip 免費嗎？ 程式採用 MIT 開源授權，可以不購買 Hostinger 而安裝在自己的電腦上。代管方案與 VPS 需付費；模型使用您自己的 API 帳號或相容訂閱，受供應商的費用和限制約束。",
-          "Paperclip 可靠嗎？ 無法下定論。可以查證的是：程式碼是公開的，儲存庫指明 Paperclip 團隊（著作權聲明中為 Paperclip Labs, Inc.）為負責方，安全漏洞透過 GitHub 上的官方管道回報。本指南的資料中沒有獨立稽核。",
+          "Paperclip 可靠嗎？ 可以查證的是：程式碼是公開的，儲存庫指明 Paperclip 團隊（著作權聲明中為 Paperclip Labs, Inc.）為負責方，安全漏洞透過 GitHub 上的官方管道回報。",
           "需要 API 金鑰嗎？ 大多數情況下需要。代管方案可以使用 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱；VPS 則要求您自備金鑰。在電腦上執行時，README 也支援 Claude 或 Codex 的訂閱，不需要 API 金鑰。",
           "能搭配 Ollama 使用嗎？ 取決於您連接的代理。Paperclip 的 README 沒有提到 Ollama，這是一個在自己電腦上執行 AI 模型的程式。例如 OpenClaw 記錄了本機模型的用法；而在 Paperclip 中，模型取決於您連接的代理。",
-          "Hostinger 上有適用於 Paperclip 的優惠碼嗎？ 有：在購物車的優惠碼欄輸入代碼 SONAR20，首個週期可減 20%。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
-        ]
-      },
-      {
-        "heading": "作者",
-        "paragraphs": [
-          "Em Casa com Cecília 執行在 Hostinger 上，是一個 Node.js Web App，Bruno 自 2024 年起就是客戶，使用主機代管和一台 VPS KVM 2。團隊裡沒有人使用 Paperclip：本文彙整的是官方儲存庫和 Hostinger 的說法。"
         ]
       }
     ],
@@ -138206,7 +138004,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip na Hostinger, com o cupom SONAR20 de 20% OFF: o que é, quem mantém e se vale o gerenciado ou o VPS.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-pt-v2.webp",
@@ -138250,8 +138048,8 @@ export const reviewsData: unknown[] = [
           "**Licença.** MIT. Quer dizer que o código é aberto: qualquer pessoa pode ler, auditar e usar. Também quer dizer que ninguém é obrigado a manter a versão que você instalou.",
           "**Onde roda.** Você escolhe. Pode rodar no seu computador, num servidor próprio ou no plano gerenciado da Hostinger. O site do projeto diz que a versão auto-hospedada não exige conta no Paperclip.",
           "**Onde ficam as chaves e os dados.** Depende do caminho. Na VPS, a própria Hostinger diz que dados sensíveis, memória dos agentes e credenciais de API ficam “inteiramente em sua infraestrutura”, ou seja, no servidor que você alugou. No gerenciado, a página diz que as chaves ficam na sua instância gerenciada. Isso é a descrição da Hostinger, não uma auditoria independente.",
-          "**Segurança do código.** O repositório pede que vulnerabilidades sejam reportadas pelo recurso de Security Advisory do GitHub, e não em issues públicas. Nas fontes do guia, não aparecem versões suportadas, auditoria independente nem advisories publicados.",
-          "**O que não dá para afirmar.** Não há auditoria de segurança pública nas fontes deste guia. Também não há revisão independente nem nota de terceiros, como o Reclame Aqui, para o produto. O número de estrelas no GitHub mostra popularidade, não segurança. Um agente com acesso ao seu e-mail, ao banco ou a outras contas merece cuidado extra, seja qual for o software. Sobre a empresa que hospeda, veja [se a Hostinger é confiável](/reviews/hostinger-e-confiavel)."
+          "**Segurança do código.** O repositório pede que vulnerabilidades sejam reportadas pelo recurso de Security Advisory do GitHub, e não em issues públicas.",
+          "**Cuidado com o acesso.** O número de estrelas no GitHub mostra popularidade, não segurança. Um agente com acesso ao seu e-mail, ao banco ou a outras contas merece cuidado extra, seja qual for o software. Sobre a empresa que hospeda, veja [se a Hostinger é confiável](/reviews/hostinger-e-confiavel)."
         ]
       },
       {
@@ -138318,7 +138116,9 @@ export const reviewsData: unknown[] = [
           "**O gerenciado serve para você se** quer o Paperclip funcionando sem instalar nada, não sabe o que é root nem Docker, e prefere que a Hostinger cuide do banco, das atualizações e dos backups.",
           "**O VPS serve para você se** quer rodar outros programas no mesmo servidor, como um site ou um n8n (ferramenta de automação), sabe mexer num servidor ou quer aprender, e quer ter o banco e a configuração sob seu controle.",
           "Sobre o reembolso, a regra dos 180 dias para VPS é a mesma do [artigo sobre a confiança na Hostinger](/reviews/hostinger-e-confiavel), que lê a política da empresa. Há um intervalo de 180 dias aplicável a reembolsos de VPS anteriores; confira as condições e exclusões na [política de reembolso](https://www.hostinger.com/legal/refund-policy) antes de contratar."
-        ]
+        ],
+        "emphasis": "Pelas páginas da Hostinger, para quem quer o Paperclip funcionando sem cuidar de servidor, a escolha é o gerenciado, que inclui o banco; para quem quer rodar outros programas no mesmo servidor e sabe administrá-lo, é o VPS. Nos dois, a conexão com a IA é por conta das suas chaves ou assinatura, sem créditos de IA incluídos.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Quanto custa",
@@ -138373,7 +138173,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Confira o valor no carrinho antes de pagar."
+          "Digite **SONAR20** no campo \"Tem um cupom de desconto?\" do carrinho: 20% no primeiro período de uma compra nova elegível, inclusive para quem já tem conta. Nos ciclos de 12, 24 e 48 meses os 20% entram; no ciclo de 1 mês, depende do plano (no teste de 23/11/2026, o cupom entrou no Cloud Startup e foi recusado no Single e no Premium), então confira a linha \"Cupom aplicado\" antes de pagar. Registro de domínio fica fora e a renovação sai pelo preço de tabela, sem desconto. Confira as condições na [página da Hostinger](/cupons/hostinger). Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao)."
         ]
       },
       {
@@ -138393,29 +138193,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "Paperclip é grátis? O programa é de código aberto, com licença MIT, e dá para instalar no seu computador sem pagar a Hostinger. A hospedagem gerenciada e o VPS são planos pagos; o acesso aos modelos usa suas próprias contas, por API ou assinatura compatível, com os custos e limites do provedor.",
-          "Paperclip é confiável? Não dá para dar um veredito. Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub. Não há auditoria independente nas fontes do guia.",
+          "Paperclip é confiável? Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub.",
           "Precisa de chave de API? Na maioria dos casos, sim. No gerenciado, a Hostinger aceita a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT. No VPS, a página pede que você traga as suas chaves. No computador, o README também aceita a assinatura de Claude ou de Codex, sem chave de API.",
           "Roda com Ollama? Depende do agente que você conecta. O README do Paperclip não cita o Ollama, um programa para rodar modelo de IA no próprio computador. O OpenClaw, por exemplo, documenta modelos locais; no Paperclip, o modelo fica com o agente que você conecta.",
-          "Tem cupom para o Paperclip na Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
-        ]
-      },
-      {
-        "heading": "Quem escreve",
-        "paragraphs": [
-          "O Em Casa com Cecília roda na Hostinger, como Node.js Web App, e o Bruno é cliente desde 2024, com hospedagem e um VPS KVM 2. Ninguém da equipe usa o Paperclip: este texto reúne o que o repositório oficial e a Hostinger dizem."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o gerenciado se quer o Paperclip funcionando sem instalar nada e prefere que a Hostinger cuide do banco, das atualizações e dos backups.",
-        "Leve o gerenciado se não sabe o que é root nem Docker."
+        "quer o Paperclip funcionando sem instalar nada e prefere que a Hostinger cuide do banco, das atualizações e dos backups: o gerenciado.",
+        "não sabe o que é root nem Docker: o gerenciado resolve isso."
       ],
       "skipIf": [
-        "Passe do gerenciado e vá de VPS se quer rodar outros programas no mesmo servidor, como um site ou um n8n, e sabe mexer num servidor ou quer aprender.",
-        "Passe do Paperclip se quer só um assistente: ele organiza uma equipe de agentes, e para uso pessoal um agente único costuma bastar."
+        "quer rodar outros programas no mesmo servidor, como um site ou um n8n, e sabe mexer num servidor ou quer aprender: troque o gerenciado pelo VPS.",
+        "quer só um assistente: o Paperclip organiza uma equipe de agentes, e para uso pessoal um agente único costuma bastar."
       ]
     },
     "pros": [],
@@ -138477,7 +138271,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI: qué es, quién lo mantiene, qué se puede comprobar y cómo ejecutarlo en Hostinger, gestionado o VPS.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -138522,8 +138316,8 @@ export const reviewsData: unknown[] = [
           "**Licencia.** MIT. Significa que el código es abierto: cualquiera puede leerlo, auditarlo y usarlo. También significa que nadie está obligado a mantener la versión que instalaste.",
           "**Dónde funciona.** Tú eliges. Puede funcionar en tu computadora, en un servidor propio o en el plan gestionado de Hostinger. El sitio del proyecto dice que la versión autoalojada no exige una cuenta en Paperclip.",
           "**Dónde quedan las claves y los datos.** Depende del camino. En el VPS, la propia Hostinger dice que los datos sensibles, la memoria de los agentes y las credenciales de API quedan “totalmente en tu infraestructura”, es decir, en el servidor que alquilaste. En el gestionado, la página dice que las claves quedan en tu instancia gestionada. Esta es la descripción de Hostinger, no una auditoría independiente.",
-          "**Seguridad del código.** El repositorio pide que las vulnerabilidades se reporten mediante la función Security Advisory de GitHub, y no en issues públicos. En las fuentes de esta guía no aparecen versiones con soporte, auditoría independiente ni advisories publicados.",
-          "**Lo que no se puede afirmar.** En las fuentes de esta guía no hay una auditoría de seguridad pública. Tampoco hay revisión independiente ni calificación de terceros para el producto. El número de estrellas en GitHub muestra popularidad, no seguridad. Un agente con acceso a tu correo, a tu banco o a otras cuentas merece un cuidado extra, sea cual sea el software. Sobre la empresa que lo aloja, mira [si Hostinger es confiable](/es/reviews/hostinger-es-confiable)."
+          "**Seguridad del código.** El repositorio pide que las vulnerabilidades se reporten mediante la función Security Advisory de GitHub, y no en issues públicos.",
+          "**Cuidado con el acceso.** El número de estrellas en GitHub muestra popularidad, no seguridad. Un agente con acceso a tu correo, a tu banco o a otras cuentas merece un cuidado extra, sea cual sea el software. Sobre la empresa que lo aloja, mira [si Hostinger es confiable](/es/reviews/hostinger-es-confiable)."
         ]
       },
       {
@@ -138590,7 +138384,9 @@ export const reviewsData: unknown[] = [
           "**El gestionado es para ti si** quieres Paperclip funcionando sin instalar nada, no sabes qué es root ni Docker, y prefieres que Hostinger se ocupe de la base de datos, las actualizaciones y las copias de seguridad.",
           "**El VPS es para ti si** quieres ejecutar otros programas en el mismo servidor, como un sitio web o n8n (una herramienta de automatización), sabes manejar un servidor o quieres aprender, y quieres tener la base de datos y la configuración bajo tu control.",
           "Sobre el reembolso, la regla de los 180 días para el VPS es la misma del [artículo sobre la confianza en Hostinger](/es/reviews/hostinger-es-confiable), que lee la política de la empresa. Se aplica un intervalo de 180 días a los reembolsos de VPS anteriores; revisa las condiciones y exclusiones en la [política de reembolso](https://www.hostinger.com/legal/refund-policy) antes de contratar."
-        ]
+        ],
+        "emphasis": "Según las páginas de producto de Hostinger, para quien quiere Paperclip funcionando sin cuidar un servidor, la elección es el gestionado, que incluye la base de datos; para quien quiere ejecutar otros programas en el mismo servidor y sabe administrarlo, es el VPS. En los dos, la conexión con la IA corre por tu cuenta, con tus claves o tu suscripción, sin créditos de IA incluidos.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Qué tamaño de VPS",
@@ -138601,7 +138397,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Confirma el valor en el carrito antes de pagar."
+          "Introduce **SONAR20** en el campo \"Have a coupon code?\" del carrito: 20 % en el primer periodo de una compra nueva elegible, también con cuenta existente. En los ciclos de 12, 24 y 48 meses entran los 20 %; en los planes de 1 mes la aceptación depende del plan, así que comprueba la línea \"Coupon applied\" del carrito antes de pagar. El registro de dominios queda fuera y la renovación se cobra al precio de lista, sin descuento. Consulta las condiciones en la [página de Hostinger](/es/coupons/hostinger). Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ]
       },
       {
@@ -138621,18 +138417,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20% de descuento en el primer periodo de una compra nueva elegible: escribe el código en el campo \"Have a coupon code?\" del carrito y comprueba la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
           "¿Paperclip es gratis? El programa es de código abierto, con licencia MIT, y puede instalarse en la computadora sin contratar Hostinger. El gestionado y el VPS son de pago; el acceso a modelos usa tus cuentas por API o suscripción compatible, con los costes y límites del proveedor.",
-          "¿Paperclip es confiable? No se puede dar un veredicto. Se puede comprobar que el código es público, que el repositorio indica al equipo de Paperclip (Paperclip Labs, Inc. en el aviso de copyright) como responsable, y que las fallas de seguridad se reportan por un canal oficial en GitHub. No hay auditoría independiente en las fuentes de esta guía.",
+          "¿Paperclip es confiable? Se puede comprobar que el código es público, que el repositorio indica al equipo de Paperclip (Paperclip Labs, Inc. en el aviso de copyright) como responsable, y que las fallas de seguridad se reportan por un canal oficial en GitHub.",
           "¿Necesita clave de API? En la mayoría de los casos, sí. En el gestionado, Hostinger acepta una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT. En el VPS, la página pide que traigas tus claves. En la computadora, el README también acepta la suscripción de Claude o de Codex, sin clave de API.",
           "¿Funciona con Ollama? Depende del agente que conectes. El README de Paperclip no menciona Ollama, un programa para ejecutar un modelo de IA en la propia computadora. OpenClaw, por ejemplo, documenta modelos locales; en Paperclip, el modelo queda con el agente que conectes.",
-          "¿Hay cupón para Paperclip en Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
-        ]
-      },
-      {
-        "heading": "Quién escribe",
-        "paragraphs": [
-          "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa Paperclip: este texto reúne lo que dicen el repositorio oficial y Hostinger."
         ]
       }
     ],
@@ -138660,12 +138450,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Elige el gestionado si quieres Paperclip funcionando sin instalar nada y prefieres que Hostinger se ocupe de la base de datos, las actualizaciones y las copias de seguridad.",
-        "Elige el gestionado si no sabes qué es root ni Docker."
+        "quieres Paperclip funcionando sin instalar nada y prefieres que Hostinger se ocupe de la base de datos, las actualizaciones y las copias de seguridad: te conviene el gestionado.",
+        "no sabes qué es root ni Docker: el gestionado lo resuelve."
       ],
       "skipIf": [
-        "Descarta el gestionado y ve por el VPS si quieres ejecutar otros programas en el mismo servidor, como un sitio web o n8n, y sabes manejar un servidor o quieres aprender.",
-        "Descarta Paperclip si solo quieres un asistente: organiza un equipo de agentes, y para uso personal un agente único suele bastar."
+        "quieres ejecutar otros programas en el mismo servidor, como un sitio web o n8n, y sabes manejar un servidor o quieres aprender: ve por el VPS en lugar del gestionado.",
+        "solo quieres un asistente: Paperclip organiza un equipo de agentes, y para uso personal un agente único suele bastar."
       ]
     }
   },
@@ -306308,7 +306098,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw على Hostinger مُدار أم VPS: أرصدة الذكاء الاصطناعي وTelegram وWhatsApp، ومن يتولى الخادم.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -306442,12 +306232,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "**اختر VPS إن:** أردت صلاحية root وتشغيل برامج أخرى على الخادم نفسه، مثل موقع أو n8n؛ أو كنت تعرف الخوادم أو تريد أن تتعلم وتقبل تحديث النظام وتأمينه؛ أو احتجت إلى ذاكرة وقرص أكبر: تتراوح خطط KVM من 4 GB إلى 32 GB من الذاكرة.",
           "**إن ترددت فابدأ بالمُدار.** فهو أقل تكلفة في الفترة الأولى ولا يتطلب معرفة بالخوادم."
-        ]
+        ],
+        "emphasis": "بحسب الجدول، لمن يريد تشغيل OpenClaw دون رعاية خادم، الاختيار هو المُدار، لأن Hostinger تتولى التحديثات والأمان، بينما يقعان معًا على عاتقك في VPS."
       },
       {
         "heading": "كود الخصم SONAR20",
         "paragraphs": [
-          "أدخل **SONAR20** في السلة للحصول على خصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة، شهرية أو سنوية، بما في ذلك مع حساب قائم. تسجيل النطاقات وتجديدها مستثنيان؛ ويُحاسَب التجديد بسعر القائمة. راجع [دليل SONAR20](/ar/reviews/hostinger-referral-code-ar) و[صفحة كوبونات Hostinger](/ar/coupons/hostinger) للشروط."
+          "أدخل **SONAR20** في السلة للحصول على خصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة، بما في ذلك مع حساب قائم. في الفترات 12 و24 و48 شهرًا يُطبَّق الخصم 20%؛ وفي خطط الشهر الواحد يعتمد القبول على الخطة، لذا تحقق من سطر \"Coupon applied\" في السلة قبل أن تدفع. تسجيل النطاقات وتجديدها مستثنيان؛ ويُحاسَب التجديد بسعر القائمة. راجع [دليل SONAR20](/ar/reviews/hostinger-referral-code-ar) و[صفحة كوبونات Hostinger](/ar/coupons/hostinger) للشروط."
         ],
         "postParagraphs": [
           "تجري Hostinger حملة الجمعة البيضاء، والأسعار تتغير. راجع [الجمعة البيضاء من Hostinger](/ar/reviews/hostinger-black-friday-ar) وتحقق من المبلغ في السلة قبل أن تدفع."
@@ -306456,17 +306247,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما هو كوبون Hostinger؟ كوبون Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة: أدخل الكود في حقل \"Have a coupon code?\" في السلة وتحقق من سطر \"Coupon applied\" قبل أن تدفع. يُحاسَب التجديد بسعر القائمة دون خصم.",
           "هل يستحق OpenClaw المُدار من Hostinger؟ يستحق لمن يريد المساعد دون رعاية خادم: فهو أقل تكلفة من VPS في الفترة الأولى ويتجدد بالسعر نفسه. ومن يريد صلاحية root وبرامج أخرى على الخادم فالأفضل له VPS.",
           "هل تحتاج إلى حساب في OpenAI أو Anthropic؟ لا. في الخيارين كليهما يمكنك استخدام أرصدة الذكاء الاصطناعي من Hostinger. ولا تحتاج إلى حساب لدى مزوّد إلا إن فضّلت مفتاحك الخاص.",
-          "هل يوجد كوبون خصم من Hostinger لـ OpenClaw؟ نعم: الكود SONAR20، في حقل الكوبون بالسلة، يمنح خصم 20% على الفترة الأولى.",
           "هل تصلح الخطة المُدارة لـ Hermes Agent أو Paperclip؟ نعم. الثلاثة على الخطة نفسها، «تطبيقات أتمتة الذكاء الاصطناعي»، وبالسعر نفسه. ولا تذكر صفحة Paperclip أرصدة الذكاء الاصطناعي، فاستخدم مفتاحك الخاص.",
           "هل يستطيع عملاء Hostinger الحاليون استخدام SONAR20؟ نعم، في عملية شراء جديدة مؤهلة بالحساب نفسه؛ وتجديد الخدمة الحالية مستثنى. يمنح خصم 20% على الفترة الأولى، وتسجيل النطاقات مستثنى أيضًا. تحقق من إجمالي السلة."
-        ]
-      },
-      {
-        "heading": "من يكتب هذا",
-        "paragraphs": [
-          "يعمل Em Casa com Cecília على Hostinger، كتطبيق ويب بـ Node.js، وBruno عميل لديها منذ عام 2024، باستضافة وVPS من نوع KVM 2. لا أحد في الفريق يستخدم OpenClaw: يجمع هذا النص ما تقوله صفحات Hostinger ووثائق OpenClaw الرسمية."
         ]
       }
     ],
@@ -306540,7 +306325,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "أفضل VPS لـ OpenClaw دون حد أدنى رسمي للذاكرة: خطة KVM لكل سيناريو، مع نموذج سحابي أو محلي.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -306728,30 +306513,25 @@ export const reviewsData: unknown[] = [
           "نموذج محلي: KVM 4 بذاكرة 16 GB، أول خطة بهامش فوق حد 8 GiB لأصغر وصفة محلية؛ ويعتمد الأداء على النموذج والسياق. أما KVM 8 بذاكرة 32 GB فمنطقية فقط مع نموذج محلي أكبر.",
           "إن كنت لا تريد الاهتمام بخادم: الخيار المُدار، حيث تثبّت Hostinger المساعد وتحدّثه.",
           "للتجربة دون دفع: Oracle Always Free، مع العلم أن Oracle قد تسترد النسخة الخاملة."
-        ]
+        ],
+        "emphasis": "بحسب الجدول، لمن يشغّل نموذج الذكاء الاصطناعي لدى المزوّد فالاختيار هو KVM 1 بذاكرة 4 GB؛ ولمن يشغّل نموذجًا محليًا فهو KVM 4 بذاكرة 16 GB، لأنه أول خطة بهامش فوق حد 8 GiB لأصغر وصفة محلية."
       },
       {
         "heading": "كوبون SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "**SONAR20**: **خصم 20% على الفترة الأولى** من عملية شراء جديدة مؤهلة، حتى مع حساب قائم. يُستثنى تسجيل النطاقات والتجديد؛ تحقق من خطتك عند الدفع. اطلع على الخطوات في [كيف تستخدم كوبون SONAR20](/ar/reviews/hostinger-referral-code-ar) وعلى الشروط في [صفحة Hostinger على الموقع](/ar/coupons/hostinger)."
+          "**SONAR20**: **خصم 20% على الفترة الأولى** من عملية شراء جديدة مؤهلة، حتى مع حساب قائم. يُستثنى تسجيل النطاقات والتجديد؛ في الفترات 12 و24 و48 شهرًا يُطبَّق الخصم 20%؛ وفي خطط الشهر الواحد يعتمد القبول على الخطة، لذا تحقق من سطر \"Coupon applied\" في السلة قبل أن تدفع. اطلع على الخطوات في [كيف تستخدم كوبون SONAR20](/ar/reviews/hostinger-referral-code-ar) وعلى الشروط في [صفحة Hostinger على الموقع](/ar/coupons/hostinger)."
         ]
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما هو كوبون Hostinger؟ كوبون Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة: أدخل الكود في حقل \"Have a coupon code?\" في السلة وتحقق من سطر \"Coupon applied\" قبل أن تدفع. يُحاسَب التجديد بسعر القائمة دون خصم.",
           "ما الحد الأدنى للخادم لتشغيل OpenClaw؟ لا تنشر الوثائق الرسمية حدًا أدنى للذاكرة أو المعالج أو القرص؛ ويتطلب الإصدار المستقر Node 24.22.1 أو أحدث (أو 26.12.1). ومع مفتاح API أو الرصيد تكون KVM 1 نقطة البداية. ومع نموذج محلي ينطبق حد 8 GiB على أصغر وصفة فقط، وتُعد KVM 4 أول خطة بهامش مريح لها.",
           "هل يمكن التشغيل دون مفتاح API؟ نعم، مع نموذج محلي، لكن الذاكرة حينئذ تصبح المشكلة: تذكر الوثائق 8 GiB كحد أدنى لأصغر وصفة محلية، مع سياق 64K، وتحذّر من أن ذلك لا يضمن أن يتسع النموذج أو يعمل جيدًا. ومع رصيد Hostinger لا تحتاج إلى حساب لدى مزوّد ذكاء اصطناعي، لكنك تدفع مقابل الاستخدام.",
           "هل Oracle مجانية فعلًا؟ يمكن أن تكون كذلك، ضمن حدود Always Free وتوافر المنطقة. وقد تسترد Oracle نسخة خاملة بحسب معايير استخدام المعالج والشبكة، وفي نسخ A1 الذاكرة، التي تنشرها. راجع الموارد والشروط أعلاه.",
           "Mac mini أم VPS؟ يتوقف ذلك على قدرة الحاسوب على البقاء مشغّلًا 24 ساعة. فإن استطاع، فالتشغيل في المنزل يلغي رسوم الخادم؛ وإن لم يستطع، فاختر VPS أو الخيار المُدار.",
-          "هل هناك كوبون خصم من Hostinger لـ VPS خاص بـ OpenClaw؟ SONAR20: خصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة، حتى مع حساب قائم. يُستثنى تسجيل النطاقات والتجديد؛ تحقق من خطتك عند الدفع.",
           "هل يصلح SONAR20 لمن هو عميل لدى Hostinger بالفعل؟ نعم، في عملية شراء جديدة: إذا كان لديك حساب وتشتري خطة أو منتجًا جديدًا فتحصل أيضًا على الخصم 20%، باستثناء تسجيل النطاقات. أما تجديد خطة تملكها فيُحاسَب بسعر القائمة دون خصم."
-        ]
-      },
-      {
-        "heading": "من يكتب هذا",
-        "paragraphs": [
-          "يعمل موقع Em Casa com Cecília على Hostinger، كتطبيق ويب Node.js، وBruno عميل منذ 2024، باستضافة وVPS من نوع KVM 2. لا أحد في الفريق يستخدم OpenClaw: يجمع هذا النص ما تقوله Hostinger وOracle والوثائق الرسمية لـ OpenClaw."
         ]
       }
     ],
@@ -306825,7 +306605,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw أم Hermes Agent: الواجهات والذاكرة وتكاليف الذكاء الاصطناعي والاستضافة المُدارة أو VPS. الرمز SONAR20 يمنح خصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -306972,9 +306752,8 @@ export const reviewsData: unknown[] = [
           "**تريد صلاحية root وبرامج أخرى على الخادم نفسه، مثل موقع أو n8n:** VPS، مع أيٍّ منهما. وroot هي صلاحية المسؤول، بتحكم كامل في الخادم.",
           "**لا تريد تثبيت خادم أو الاهتمام به:** الخطة المُدارة، مع أيٍّ منهما. فـ Hostinger تثبّت وتحدّث."
         ],
-        "postParagraphs": [
-          "لا أحد في الفريق يستخدم أيًّا منهما. وملفات التعريف هذه مأخوذة من وثائق المشروعين، لا من تجربتنا."
-        ]
+        "emphasis": "بحسب وثائق المشروعين، فمن يريد قنوات مراسلة كثيرة وتطبيقات أصلية فخياره OpenClaw، ومن يريد وكيلًا يتعلم من الاستخدام فخياره Hermes Agent، لأن دورة التعلم هي ما يميّزه.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "أين تشغّله على Hostinger",
@@ -307018,26 +306797,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "كوبون SONAR20",
         "paragraphs": [
-          "أدخل **SONAR20** في السلة: خصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة، شهرية أو سنوية، حتى مع حساب قائم. يُستثنى تسجيل النطاقات والتجديد. راجع [صفحة كوبون Hostinger](/ar/coupons/hostinger) للاطلاع على الشروط.",
+          "أدخل **SONAR20** في حقل \"Have a coupon code?\" في السلة: خصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة، حتى مع حساب قائم. في فترات 12 و24 و48 شهرًا يُطبَّق خصم 20%؛ أما في خطط الشهر الواحد فيعتمد القبول على الخطة، لذا تحقق من سطر \"Coupon applied\" في السلة قبل الدفع. يُستثنى تسجيل النطاقات، ويُحتسب التجديد بالسعر المعلن دون خصم. راجع [صفحة كوبون Hostinger](/ar/coupons/hostinger) للاطلاع على الشروط.",
           "ومكان لصق الرمز في [كيف تستخدم كوبون SONAR20](/ar/reviews/hostinger-referral-code-ar)."
         ]
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما هو كوبون Hostinger؟ كوبون Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة: أدخل الرمز في حقل \"Have a coupon code?\" في السلة وتحقق من سطر \"Coupon applied\" قبل الدفع. ويُحتسب التجديد بالسعر المعلن دون خصم.",
           "هل OpenClaw وHermes Agent مجانيان؟ البرنامجان مفتوحا المصدر، بترخيص MIT، ولا تدفع مقابل البرنامج. وتدفع مقابل الخادم أو الخطة المُدارة ومقابل استخدام نموذج الذكاء الاصطناعي. ولدى Hermes أيضًا اشتراك Nous Portal، لكن سعره لا يظهر في وثائق المشروع.",
           "هل يعمل مع Telegram؟ نعم، مع كليهما. تنشئ البوت في BotFather وتلصق الرمز (token) في الإعدادات.",
           "هل يلزم أن تعرف البرمجة؟ لإعداد الخطة المُدارة، لا: تختار القنوات وتلصق الرمز. وعلى VPS تحتاج إلى أساسيات الخوادم، مثل root وDocker والتحديثات. والبرمجة لا تدخل إلا إذا أردت تعديل شيفرة المشروع.",
           "هل هو آمن؟ يعتمد على طريقة استخدامه. تطلب سياستا الأمان العناية نفسها: استخدام من شخص موثوق واحد أو فريق يثق بعضه ببعض، ودون تعريض مباشر للإنترنت، ومراجعة كل ما تثبّته من جهات خارجية.",
           "أيهما أختار إذا كنت أستخدم Claude Code بالفعل؟ Claude Code أداة للبرمجة في الطرفية ولا تحل محل أيٍّ منهما. وكلاهما يقبل مفتاح Anthropic: يدرج OpenClaw شركة Anthropic بين مزوّديه، ويدرج README الخاص بـ Hermes Agent مفتاح Anthropic بين أسراره. وإذا أردت وكيلًا يتعلم من الاستخدام فـ Hermes Agent أنسب. وإذا أردت قنوات كثيرة وتطبيقًا للهاتف فـ OpenClaw.",
           "هل يستطيع عملاء Hostinger الحاليون استخدام SONAR20؟ نعم، في عملية شراء جديدة مؤهلة بالحساب نفسه؛ ويُستثنى تجديد الخدمة الحالية. ويمنح خصم 20% على الفترة الأولى، ويُستثنى أيضًا تسجيل النطاقات. تحقق من إجمالي السلة."
-        ]
-      },
-      {
-        "heading": "من يكتب هذا",
-        "paragraphs": [
-          "يعمل موقع Em Casa com Cecília على Hostinger، كتطبيق ويب Node.js، وBruno عميل منذ 2024، باستضافة وVPS من نوع KVM 2. لا أحد في الفريق يستخدم OpenClaw أو Hermes Agent.",
-          "يجمع هذا النص صفحات Hostinger والسياسات والوثائق الرسمية للمشروعين، حتى 21 أكتوبر 2026. أما المقارنة بينهما التي ينشرها OpenClaw فكتبها المشروع نفسه، وتظهر بهذا الاسم في عمود المصدر في الجدول."
         ]
       }
     ],
@@ -307680,7 +307453,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI: ما هو ومن يتولى صيانته وما يمكنك التحقق منه وكيف تشغّله على Hostinger، مُدارًا أو على VPS.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -307725,8 +307498,8 @@ export const reviewsData: unknown[] = [
           "**الترخيص.** MIT. ويعني أن الشيفرة مفتوحة: يستطيع أي شخص قراءتها وتدقيقها واستخدامها. ويعني أيضًا أن لا أحد ملزم بمواصلة صيانة النسخة التي ثبّتّها.",
           "**أين يعمل.** أنت تختار. يمكن أن يعمل على حاسوبك، أو على خادم خاص بك، أو على الخطة المُدارة من Hostinger. ويقول موقع المشروع إن النسخة المستضافة ذاتيًا لا تتطلب حسابًا لدى Paperclip.",
           "**أين تقيم المفاتيح والبيانات.** يعتمد على المسار. على VPS تقول Hostinger نفسها إن البيانات الحساسة وذاكرة الوكلاء وبيانات اعتماد API تبقى «بالكامل على بنيتك التحتية»، أي على الخادم الذي استأجرته. وفي الخيار المُدار تقول الصفحة إن المفاتيح تبقى في نسختك المُدارة. وهذا وصف Hostinger، لا تدقيق مستقل.",
-          "**أمان الشيفرة.** يطلب المستودع الإبلاغ عن الثغرات عبر ميزة Security Advisory في GitHub، لا في القضايا العامة (issues). ولا تدرج مصادر هذا الدليل إصدارات مدعومة ولا عمليات تدقيق مستقلة ولا نشرات أمنية منشورة.",
-          "**ما لا يمكن الادعاء به.** لا تذكر مصادر هذا الدليل أي تدقيق أمني عام. كما لا توجد مراجعة مستقلة أو تقييم من جهة خارجية للمنتج. وعدد النجوم على GitHub يدل على الشعبية لا على الأمان. والوكيل الذي يصل إلى بريدك أو مصرفك أو حسابات أخرى يستحق عناية إضافية، أيًّا كان البرنامج. وللاطلاع على الشركة التي تستضيفه، راجع [هل Hostinger جديرة بالثقة](/ar/reviews/hostinger-trust-guide-ar)."
+          "**أمان الشيفرة.** يطلب المستودع الإبلاغ عن الثغرات عبر ميزة Security Advisory في GitHub، لا في القضايا العامة (issues).",
+          "**احذر عند منح الصلاحيات.** وعدد النجوم على GitHub يدل على الشعبية لا على الأمان. والوكيل الذي يصل إلى بريدك أو مصرفك أو حسابات أخرى يستحق عناية إضافية، أيًّا كان البرنامج. وللاطلاع على الشركة التي تستضيفه، راجع [هل Hostinger جديرة بالثقة](/ar/reviews/hostinger-trust-guide-ar)."
         ]
       },
       {
@@ -307793,7 +307566,9 @@ export const reviewsData: unknown[] = [
           "**الخيار المُدار مناسب لك إذا** أردت تشغيل Paperclip دون تثبيت أي شيء، ولا تعرف ما هو root أو Docker، وتفضّل أن تتولى Hostinger قاعدة البيانات والتحديثات والنسخ الاحتياطية.",
           "**وVPS مناسب لك إذا** أردت تشغيل برامج أخرى على الخادم نفسه، مثل موقع أو n8n (أداة أتمتة)، وكنت ملمًّا بالخوادم أو تريد التعلم، وتريد قاعدة البيانات والإعدادات تحت سيطرتك.",
           "وفي الاسترداد، قاعدة الـ 180 يومًا لـ VPS هي نفسها الواردة في [المقال عن الثقة في Hostinger](/ar/reviews/hostinger-trust-guide-ar)، الذي يقرأ سياسة الشركة. وتسري فترة 180 يومًا على عمليات استرداد VPS السابقة؛ فراجع الشروط والاستثناءات في [سياسة الاسترداد](https://www.hostinger.com/legal/refund-policy) قبل الشراء."
-        ]
+        ],
+        "emphasis": "بحسب صفحات منتجات Hostinger، فمن يريد تشغيل Paperclip دون الاهتمام بخادم فخياره الخيار المُدار الذي يشمل قاعدة البيانات، ومن يريد تشغيل برامج أخرى على الخادم نفسه ويعرف إدارته فخياره VPS. وفي الحالتين يكون الاتصال بالذكاء الاصطناعي عبر مفاتيحك أو اشتراكك، دون رصيد ذكاء اصطناعي مضمّن.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "أي حجم من VPS",
@@ -307804,7 +307579,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "كوبون SONAR20",
         "paragraphs": [
-          "استخدم الرمز **SONAR20** في حقل الكوبون بالسلة، أو ادخل عبر رابط هذا المقال: فهو يمنح **خصم 20% على الفترة الأولى**، في خطة شهرية أو سنوية، للعملاء الجدد أو الحاليين. ويسري الخصم 20% على كل عملية شراء جديدة؛ أما التجديدات فتُحاسَب بسعر القائمة دون خصم. ومكان لصق الرمز مشروح في [كيف تستخدم كوبون SONAR20](/ar/reviews/hostinger-referral-code-ar). تحقق من السعر في السلة قبل الدفع."
+          "أدخل **SONAR20** في حقل \"Have a coupon code?\" في السلة: خصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة، حتى مع حساب قائم. في فترات 12 و24 و48 شهرًا يُطبَّق خصم 20%؛ أما في خطط الشهر الواحد فيعتمد القبول على الخطة، لذا تحقق من سطر \"Coupon applied\" في السلة قبل الدفع. يُستثنى تسجيل النطاقات، ويُحتسب التجديد بالسعر المعلن دون خصم. راجع [صفحة كوبون Hostinger](/ar/coupons/hostinger) للاطلاع على الشروط. ومكان لصق الرمز مشروح في [كيف تستخدم كوبون SONAR20](/ar/reviews/hostinger-referral-code-ar)."
         ]
       },
       {
@@ -307824,18 +307599,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما هو كوبون Hostinger؟ كوبون Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة: أدخل الرمز في حقل \"Have a coupon code?\" في السلة وتحقق من سطر \"Coupon applied\" قبل الدفع. ويُحتسب التجديد بالسعر المعلن دون خصم.",
           "هل Paperclip مجاني؟ البرنامج مفتوح المصدر بترخيص MIT ويمكن تثبيته على حاسوبك دون شراء استضافة Hostinger. أما الاستضافة المُدارة وخطط VPS فمدفوعة. والوصول إلى النماذج يستخدم حساباتك الخاصة عبر API أو اشتراك مدعوم، بحسب تكاليف المزوّد وحدوده.",
-          "هل Paperclip موثوق؟ لا يمكن إصدار حكم. ما يمكنك التحقق منه أن الشيفرة عامة، وأن المستودع يسمّي فريق Paperclip (Paperclip Labs, Inc. في إشعار حقوق النشر) مسؤولًا، وأن الثغرات الأمنية يُبلَّغ عنها عبر قناة رسمية على GitHub. ولا يوجد تدقيق مستقل في مصادر هذا الدليل.",
+          "هل Paperclip موثوق؟ ما يمكنك التحقق منه أن الشيفرة عامة، وأن المستودع يسمّي فريق Paperclip (Paperclip Labs, Inc. في إشعار حقوق النشر) مسؤولًا، وأن الثغرات الأمنية يُبلَّغ عنها عبر قناة رسمية على GitHub.",
           "هل يحتاج إلى مفتاح API؟ في معظم الحالات، نعم. في الخيار المُدار تقبل Hostinger مفتاح API من OpenAI أو Anthropic أو Gemini أو Cursor، أو اشتراكًا فعّالًا في ChatGPT. وعلى VPS تطلب الصفحة أن تحضر مفاتيحك الخاصة. وعلى حاسوبك يقبل README أيضًا اشتراك Claude أو Codex، دون مفتاح API.",
           "هل يعمل مع Ollama؟ يتوقف على الوكيل الذي تربطه. لا يذكر README الخاص بـ Paperclip برنامج Ollama، وهو برنامج لتشغيل نموذج ذكاء اصطناعي على حاسوبك. فمثلًا يوثّق OpenClaw النماذج المحلية؛ وفي Paperclip يبقى النموذج مع الوكيل الذي تربطه.",
-          "هل هناك كوبون لـ Paperclip على Hostinger؟ نعم: الرمز SONAR20، في حقل الكوبون بالسلة، يمنح خصم 20% على الفترة الأولى. ويسري الخصم 20% على كل عملية شراء جديدة؛ أما التجديدات فتُحاسَب بسعر القائمة دون خصم.",
           "هل يصلح SONAR20 لمن هو عميل لدى Hostinger بالفعل؟ نعم، في عملية شراء جديدة: إذا كان لديك حساب وتشتري خطة أو منتجًا جديدًا فتحصل أيضًا على الخصم 20%. أما تجديد خطة تملكها فيُحاسَب بسعر القائمة دون خصم."
-        ]
-      },
-      {
-        "heading": "من يكتب هذا",
-        "paragraphs": [
-          "يعمل موقع Em Casa com Cecília على Hostinger، كتطبيق ويب Node.js، وBruno عميل منذ 2024، باستضافة وVPS من نوع KVM 2. لا أحد في الفريق يستخدم Paperclip: يجمع هذا النص ما يقوله المستودع الرسمي وHostinger."
         ]
       }
     ],

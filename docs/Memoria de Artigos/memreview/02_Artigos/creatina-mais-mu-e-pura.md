@@ -9,10 +9,10 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Produto"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisao-do-bruno"
-bloqueado_por: "Decisão do Bruno sobre a pauta de creatina (caso Bioghen, dossiê, 23/10) e sobre a canibalização com mais-mu-e-boa (Perguntas 1 e 2)"
+proxima_acao: "redacao"
+bloqueado_por: null
 pauta_id: "MU1"
 score_autoridade: 55
 score_conversao: 60
@@ -58,7 +58,7 @@ Conferido em `content/reviews/` em 23/11/2026. Não existe artigo com `creatina-
 - [x] **1. Evidência factual:** ficha do sem sabor e preços lidos em 23/11 ([[leituras-grupo2-2311]]). Tabela nutricional do pote (dose em gramas e número de doses) **não lida**: `[PENDENTE: navegador, imagem da tabela do pote sem sabor]`.
 - [x] **2. Segurança regulatória:** sem efeito no corpo (a ficha promete "fortalecimento dos ossos", "melhora o metabolismo" e "diminui a fadiga": nada disso entra). Sem "saturação" com dose.
 - [x] **3. Fronteira factual:** tudo atribuído ("a loja informa", "o rótulo informa", "conta nossa").
-- [ ] **4. Anti-canibalização:** passa **só** com a retirada da tabela de creatinas do `mais-mu-e-boa` (Pergunta 2). Sem isso, o portão fica em aberto.
+- [x] **4. Anti-canibalização:** passa com a retirada da tabela de creatinas do `mais-mu-e-boa` (Pergunta 2, decidida em 23/11).
 - [x] **5. Classe canônica:** `guias-praticos-utilidade`.
 - [ ] **6. Fontes acessíveis e atuais:** leitura de hoje cobre o sem sabor e o refil. Faltam: `[PENDENTE: navegador]` para a tabela do pote, as fichas dos sabores (Limonada, Melancia, Tropical, Manga) e o modo de uso impresso no rótulo, se a ficha não trouxer.
 - [x] **7. i18n:** somente PT (`/cupons/mais-mu` só existe em PT).
@@ -186,9 +186,11 @@ Os sabores da linha do pote (Tropical, Melancia, Manga) têm a mesma etiqueta de
 
 ## Decisões do Bruno (23/11/2026)
 
-*(Preenchido depois das respostas. Com esta seção, `status` passa a `pauta-aprovada` e `proxima_acao` a `redacao`.)*
+1. **Pauta de creatina:** confirmada ("Pode voltar", 23/11). O caso Bioghen e a Anvisa ficam fora do texto (decisão de 23/10); sobre quem fabrica, o texto diz só que a ficha não declara.
+2. **Canibalização:** o MU1 fica com a tabela de creatinas e a discussão do Creapure; a seção 5 do `mais-mu-e-boa` encolhe para um parágrafo com link quando o MU1 for ao ar (Fila, seção 4). Decidido por Claude dentro do GO, pela recomendação do gate 4; os comparativos com Dux e Growth só são linkados.
+3. **Preço:** a régua é o preço de tabela (memória "preço real, não promocional"), relido no dia da redação, fora da campanha se possível; o riscado nunca entra. Decidido por Claude dentro do GO.
 
 ## Decisões (23/11/2026)
 
-- Parada (Fila, seção 2): o Bruno tirou a creatina da Mais Mu da fila em 23/10 e de novo em 30/10, pelo caso Bioghen (dossiê [[Mais-Mu]]). O GO de 23/11 foi dado sem essa lembrança na proposta; só volta com confirmação explícita do Bruno. Se voltar: o caso fica fora do texto, a ficha "não declara quem fabrica", e a seção 5 do `mais-mu-e-boa` encolhe para um parágrafo com link.
+- Voltou à fila em 23/11 com a confirmação do Bruno (ver acima). Histórico: o Bruno tirou a creatina da Mais Mu da fila em 23/10 e de novo em 30/10, pelo caso Bioghen (dossiê [[Mais-Mu]]). O GO de 23/11 foi dado sem essa lembrança na proposta; só volta com confirmação explícita do Bruno. Se voltar: o caso fica fora do texto, a ficha "não declara quem fabrica", e a seção 5 do `mais-mu-e-boa` encolhe para um parágrafo com link.
 - Leituras pendentes: pelo navegador do app no dia da redação (as leituras de 23/11 estão em [[leituras-grupo2-2311]]). Preço: a régua é o preço de tabela (memória "preço real, não promocional"); em 23/11 quase tudo estava em Black Friday, então reler fora da campanha se possível.
