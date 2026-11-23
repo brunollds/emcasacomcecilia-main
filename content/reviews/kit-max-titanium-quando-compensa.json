@@ -18,6 +18,7 @@
   "metaDescription": "Com o cupom MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. Kit ou avulso: a conta por item de whey e creatina, o kit de brinde e o frete por região.",
   "publishedAt": "20 de novembro de 2026",
   "publishedAtISO": "2026-11-20",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa-v2.webp",
@@ -31,21 +32,12 @@
     ],
     "skipIf": [
       "Passe nos kits que custam o mesmo que os avulsos se você quer outro sabor ou tamanho: o avulso dá a mesma conta com mais escolha.",
+      "Passe no kit com Top Whey 3W + Sabor se vai usar o cupom: o avulso desse whey recebeu 8,9% no teste de novembro e a vantagem do kit some.",
       "Passe no kit se o seu pedido não chega ao frete grátis da sua região: o kit não muda essa regra, o valor do pedido muda."
     ]
   },
-  "pros": [
-    "O kit de Whey Pro 1 kg com Creatina 500 g custa menos que os avulsos somados no mesmo preço de cartão",
-    "Os kits com a creatina de 500 g e os kits Whey Blend fecham mais baratos que a soma dos avulsos",
-    "Tudo no mesmo pedido, com uma conta simples por item",
-    "O cupom entra nos kits: o carrinho aplicou o desconto nos dois que testamos"
-  ],
-  "cons": [
-    "Vários kits de whey e creatina custam o mesmo que os avulsos",
-    "No carrinho, o cupom deu cerca de 2% nos kits e no BCAA que testamos, não 10%",
-    "O preço riscado e o percentual de OFF do kit medem contra o preço antigo, não contra o avulso de hoje",
-    "Estoque e sabor mudam por variante, e alguns kits estavam esgotados"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "Veja os kits da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% de desconto, no carrinho.",
     "label": "Ir para a Max Titanium",
@@ -74,26 +66,18 @@
   ],
   "contentSections": [
     {
-      "heading": "Resposta rápida: quando o kit Max Titanium compensa",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "Só em alguns kits. Seis combinações de whey e creatina custam menos que os avulsos somados, e a de Whey Pro com creatina de 500 g é a que mais economiza. Em vários outros kits a soma dá igual, então o kit só junta o pedido. A conta usa o preço de cartão do dia."
-      ]
-    },
-    {
-      "heading": "Como comparar o kit com os avulsos",
-      "paragraphs": [
-        "Some o preço atual dos avulsos no mesmo sabor, tamanho e forma de pagamento. No kit de Whey Pro com Creatina 500 g, a loja mostra R$ 241,80 como referência. Os dois itens avulsos saíam por R$ 179,80 no mesmo dia. É esse valor que entra na comparação.",
-        "Conta nossa: somamos os avulsos do mesmo item e do mesmo tamanho, ao preço de cartão, sem Pix, sem cupom e sem frete, e comparamos com o menor preço do kit entre as variantes disponíveis. Uma unidade de cada item. Quanto maior a diferença, mais o kit ajuda.",
-        "Os avulsos aparecem com a ficha completa em [creatina Max Titanium: qual pote](/reviews/creatina-max-titanium-qual-pote) e [whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher)."
+        "Só em alguns kits. Seis combinações de whey e creatina custam menos que os avulsos somados, e a de Whey Pro com creatina de 500 g economiza mais. Nos outros, a soma dá igual. O MAX10EMCASACOMCECILIA dá até 10% OFF e pode encolher essa diferença; veja o [cupom Max Titanium](/cupons/max-titanium)."
       ]
     },
     {
       "heading": "Kits que custam menos que os avulsos",
       "paragraphs": [
-        "Seis kits de whey e creatina fecham abaixo da soma dos avulsos. Em todos, o kit entrega os mesmos itens por menos."
+        "Seis kits de whey e creatina fecham abaixo da soma dos avulsos do mesmo item e tamanho. Em todos, o kit entrega os mesmos itens por menos. Os avulsos têm ficha completa em [creatina Max Titanium: qual pote](/reviews/creatina-max-titanium-qual-pote) e [whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher)."
       ],
       "comparisonTable": {
-        "caption": "Cartão, em 20 de novembro de 2026, antes do cupom e do frete. Avulsos do mesmo tamanho. No Double Tasty, a economia vale para chocolate, baunilha e morango.",
+        "caption": "Conta nossa, no cartão, em 22/11: uma unidade de cada avulso, antes do cupom, do Pix e do frete, comparada com o menor preço do kit entre as variantes. No Double Tasty, a economia vale para chocolate, baunilha e morango.",
         "headers": [
           "Kit",
           "Preço do kit",
@@ -140,9 +124,18 @@
         ]
       },
       "postParagraphs": [
-        "O kit de Whey Pro com Creatina 500 g lidera em reais e em percentual. Ele também custa R$ 10,00 menos que o kit de Whey Pro 1 kg com Creatina 300 g, que sai a R$ 169,80, e traz o pote maior de creatina.",
-        "Nos outros cinco kits, a diferença é de R$ 10,00 a R$ 13,39. É um desconto pequeno, que vale se o whey do kit é o que você já ia comprar."
-      ]
+        "O kit de Whey Pro com Creatina 500 g lidera em reais e em percentual. Ele também custa R$ 10,00 menos que o kit de Whey Pro 1 kg com Creatina 300 g, que sai a R$ 169,80, e traz o pote maior de creatina. O preço riscado do kit, R$ 241,80, mede contra o preço antigo: o que conta é a soma dos avulsos de hoje.",
+        "Nos outros cinco kits, a diferença é de R$ 10,00 a R$ 13,39. É um desconto pequeno, que vale se o whey do kit é o que você já ia comprar.",
+        "Os packs do mesmo item também compensam: o Kit 2x Whey Pro 1 kg sai por R$ 189,90 contra R$ 219,80 dos dois avulsos, R$ 29,90 a menos, e o Pack 2x Creatina 500 g, por R$ 119,80 contra R$ 139,80, R$ 20,00 a menos."
+      ],
+      "image": {
+        "src": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-whey-pro-creatina-500g.webp",
+        "alt": "Kit da Max Titanium com o Whey Pro de 1 kg sabor baunilha e a Creatina de 500 g, em foto oficial",
+        "caption": "Kit Whey Pro 1 kg + Creatina 500 g. Foto oficial da Max Titanium.",
+        "href": "https://www.maxtitanium.com.br/kit-whey-pro-creatina-500g/p",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
     },
     {
       "heading": "Kits que custam o mesmo que os avulsos",
@@ -150,7 +143,7 @@
         "Nos kits abaixo, a soma dos avulsos fecha no mesmo valor do kit, com no máximo um centavo de diferença. Aqui o kit não economiza: ele só coloca dois itens num clique."
       ],
       "comparisonTable": {
-        "caption": "Mesma leitura e mesma base do quadro anterior. Preço do kit igual à soma dos avulsos de mesmo tamanho.",
+        "caption": "Mesma base do quadro anterior. Preço do kit igual à soma dos avulsos de mesmo tamanho.",
         "headers": [
           "Kit",
           "Preço do kit"
@@ -206,8 +199,7 @@
       "heading": "Kit de Creatina 500 g com Hórus 150 g de brinde",
       "paragraphs": [
         "O kit de Creatina 500 g com Pré-treino Hórus 150 g de brinde custa R$ 69,90, o mesmo preço da creatina de 500 g sozinha. O Hórus de 150 g avulso custa R$ 46,89. Pelo nome do kit, o Hórus é o brinde, e o carrinho confirmou: o total mostrou R$ 69,90, sem cobrança à parte.",
-        "A conta, então, é a do brinde: quem já ia comprar a creatina de 500 g leva o Hórus de 150 g por esse mesmo valor. O Hórus é um pré-treino com 150 mg de cafeína por dose no rótulo; a porção e as advertências estão no rótulo da embalagem que chegar, e o guia dele está em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
-        "O kit tem variantes por sabor, e algumas estavam sem estoque. Escolha o sabor antes de fechar a conta."
+        "A conta, então, é a do brinde: quem já ia comprar a creatina de 500 g leva o Hórus de 150 g por esse mesmo valor. O Hórus é um pré-treino com 150 mg de cafeína por dose no rótulo; a porção e as advertências estão no rótulo da embalagem que chegar, e o guia dele está em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide)."
       ],
       "image": {
         "src": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-horus.webp",
@@ -219,10 +211,11 @@
       }
     },
     {
-      "heading": "Cupom nos kits: cerca de 2% no carrinho",
+      "heading": "Cupom nos kits e nos avulsos: o que o carrinho deu",
       "paragraphs": [
-        "O código MAX10EMCASACOMCECILIA dá até 10% OFF, conforme o produto. Nos kits e no BCAA que levamos ao carrinho, sem finalizar, o desconto foi de cerca de 2%: o kit de Whey Pro com Creatina 500 g foi de R$ 159,80 para R$ 156,60, e o kit de Creatina 500 g com Hórus de brinde, de R$ 69,90 para R$ 68,50.",
-        "Por isso, nenhuma conta deste guia usa 10% nos kits. Confira o percentual no resumo do pedido antes de pagar. As regras do código estão em [cupom Max Titanium](/cupons/max-titanium), e o guia de [como usar o cupom](/reviews/cupom-max-titanium-como-usar) explica o campo do carrinho."
+        "O código MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento, e o percentual varia por produto. No teste de novembro, o desconto foi de 2% nos kits de Whey Pro 1 kg com Creatina 500 g (R$ 159,80 para R$ 156,60), de Creatina 500 g com Hórus de brinde (R$ 69,90 para R$ 68,50) e de Creatina 300 g com Shot Dry (R$ 149,78 para R$ 146,78), e de 8,9% no Kit 2x Whey Pro 1 kg (R$ 189,90 para R$ 173,08).",
+        "Conta nossa, com o carrinho: o Whey Pro 1 kg avulso foi de R$ 109,90 para R$ 100,17 (8,9%) e a Creatina 500 g, de R$ 69,90 para R$ 68,50 (2%). Os dois somam R$ 168,67 contra R$ 156,60 do kit: com o cupom, a economia do kit cai de R$ 20,00 para R$ 12,07, e ele segue mais barato. Quem mais ganha com o cupom é o whey avulso: o Top Whey 3W + Sabor e o Whey Blend também deram 8,9%. Simulação, sem teste: se o kit de Top Whey 3W + Sabor com Creatina 300 g desse 2%, sairia a R$ 234,12, contra R$ 230,95 dos avulsos com cupom (R$ 172,25 e R$ 58,70).",
+        "Para colar o código: carrinho, “Adicionar cupom de desconto”, campo Código, “Adicionar”; o desconto aparece na linha Descontos do resumo. As regras estão em [cupom Max Titanium](/cupons/max-titanium), e o guia de [como usar o cupom](/reviews/cupom-max-titanium-como-usar) explica o carrinho."
       ]
     },
     {
@@ -268,28 +261,41 @@
       ]
     },
     {
-      "heading": "Kits esgotados e o que não existe no site",
+      "heading": "Kit com BCAA não existe no site",
       "paragraphs": [
-        "No catálogo consultado, quatro kits com Creatina 100 g estavam indisponíveis. Confira o estoque da combinação e do sabor escolhidos antes de fechar a conta.",
         "O site não tem kit com BCAA nem um kit chamado “completo” com whey, creatina e BCAA. Para essa combinação, monte o carrinho com os avulsos; o BCAA tem guia próprio em [BCAA Max Titanium: qual escolher](/reviews/bcaa-max-titanium-qual-escolher)."
       ]
     },
     {
       "heading": "Qual kit escolher",
-      "emphasis": "Só o kit de Whey Pro 1 kg com Creatina 500 g economiza mais que uns poucos reais, e o de Creatina 500 g com Hórus de brinde é o caso especial. Nos demais, a soma dos avulsos dá igual ou quase.",
+      "emphasis": "Entre os kits de whey com creatina, o de Whey Pro 1 kg com Creatina 500 g compensa mesmo depois do cupom; nos outros, a diferença é de poucos reais ou nenhuma.",
       "bullets": [
         "Quer whey e creatina juntos: o kit de Whey Pro 1 kg com Creatina 500 g é o que mais economiza na conta de hoje.",
         "Já ia comprar a creatina de 500 g e usa pré-treino: o kit com o Hórus de 150 g de brinde sai pelo preço da creatina.",
+        "Quer dois wheys iguais: o Kit 2x Whey Pro 1 kg sai por menos que os dois avulsos, e o cupom deu 8,9% nele.",
         "Quer outro whey da linha, outro sabor ou outro tamanho: compre avulso. Nos kits iguais à soma, o avulso dá a mesma conta.",
         "Mora fora do Sudeste: some o pedido inteiro antes de decidir, porque o frete grátis depende do valor do carrinho.",
         "Dúvida sobre dose, alergênicos ou uso: leia o rótulo da embalagem que chegar e fale com médico ou nutricionista."
+      ],
+      "links": [
+        {
+          "label": "Ver o kit Whey Pro 1 kg + Creatina 500 g na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/kit-whey-pro-creatina-500g/p",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o kit Creatina 500 g + Hórus 150 g na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/kit-creatina-500g-horus-150g-brinde/p",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no carrinho, em “Adicionar cupom de desconto”, no campo Código. As regras estão no [cupom Max Titanium](/cupons/max-titanium).",
         "Kit Max Titanium é mais barato que comprar separado? Em seis combinações de whey e creatina, sim; a diferença de cada uma está na primeira tabela. Em outros kits, a soma dos avulsos dá o mesmo valor. A conta usa o avulso do dia, não o preço riscado.",
-        "O cupom vale no kit? No carrinho, o código MAX10EMCASACOMCECILIA foi aplicado nos kits que testamos, com cerca de 2%. Ele dá até 10% conforme o produto; confira no resumo do pedido.",
+        "O cupom vale no kit? Vale. No teste de novembro, o carrinho aplicou 2% nos kits de whey com creatina e de creatina com pré-treino e 8,9% no Kit 2x Whey Pro; confira no resumo do pedido.",
         "O kit tem frete grátis? O frete grátis depende do valor do pedido na sua região, depois do cupom. O kit não muda a regra, e a tabela de mínimos está no guia.",
         "Tem kit com BCAA? Não. Nenhum kit da Max tem BCAA, e não há um kit chamado completo com whey, creatina e BCAA. Monte o carrinho com os avulsos.",
         "O kit com Hórus de brinde cobra o Hórus? Não. O carrinho mostrou para o kit o mesmo preço da creatina de 500 g sozinha. Confira o sabor e o total antes de pagar."
