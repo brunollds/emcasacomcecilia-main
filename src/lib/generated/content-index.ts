@@ -92361,33 +92361,21 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Max Titanium é operada pela Supley, com CNPJ ativo e reputação Boa no Reclame Aqui de abril a setembro de 2026. Veja os prazos de troca, o frete e como conferir o site oficial.",
+    "description": "A Max Titanium é operada pela Supley, com CNPJ ativo e reputação Boa no Reclame Aqui, nota 7,8 em 6 meses. Veja os prazos de troca, o frete e como conferir o site oficial.",
     "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial. A Max Titanium é confiável? Quem opera a loja, CNPJ, trocas, frete e Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/max-titanium-e-confiavel-capa-v2.webp",
     "imageAlt": "Pote branco de Glutamina Pro Brandão da Max Titanium, em foto oficial do produto.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "CNPJ ativo nos dados públicos em 14/10/2026, o mesmo do rodapé do site",
-      "Loja operada pela Supley, do mesmo grupo da Probiótica, da Dr. Peanut e da Znack That",
-      "7 dias corridos para desistir da compra, com devolução sem custo, e 30 dias para comunicar defeito em suplemento, com coleta e reenvio por conta da loja",
-      "Reputação Boa e 97,5% de respostas no recorte do Reclame Aqui de abril a setembro de 2026",
-      "Até 5% de desconto no Pix, no boleto e no cartão em 1x, em 14/10/2026"
-    ],
-    "cons": [
-      "O frete grátis depende da região: de R$ 104 na capital paulista a R$ 599 no Norte",
-      "O frete grátis não vale para entrega por Sedex",
-      "Atraso na entrega é o problema mais citado no Reclame Aqui",
-      "Tempo médio de resposta de 7 dias e 9 horas no recorte de abril a setembro de 2026 do Reclame Aqui",
-      "O site não tem página Quem Somos que ligue a marca à Supley"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "Se a Max Titanium faz sentido para você, entre pelo link da parceria e use o cupom MAX10EMCASACOMCECILIA, de até 10% OFF.",
+      "text": "Se a Max Titanium faz sentido para você, entre pelo site oficial e cole o MAX10EMCASACOMCECILIA, de até 10% OFF, no carrinho.",
       "label": "Ir para a Max Titanium com o cupom",
       "url": "https://www.maxtitanium.com.br/",
       "sponsored": true
@@ -92407,11 +92395,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Max Titanium é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui de abril a setembro. O que mais pesa é o frete grátis, que depende da região, e o atraso na entrega. Para comprar, o [cupom Max Titanium](/cupons/max-titanium) traz o código MAX10EMCASACOMCECILIA, com até 10% OFF."
+          "Sim, a Max Titanium é confiável: a loja é operada pela Supley, tem CNPJ ativo, trocas publicadas e reputação Boa no Reclame Aqui. O ponto de atenção é o frete grátis, que depende da região. Para comprar, o [cupom Max Titanium](/cupons/max-titanium) traz o MAX10EMCASACOMCECILIA, com até 10% OFF."
         ]
       },
       {
-        "heading": "De quem é a Max Titanium?",
+        "heading": "Quem opera a Max Titanium",
         "paragraphs": [
           "A Max Titanium pertence ao grupo **Supley**. No site da Supley, a empresa diz que renova diariamente o seu compromisso com o mercado \"com MAX Titanium, Probiótica, Dr. Peanut e Znack That\". São quatro marcas do mesmo grupo.",
           "O site da Max Titanium não tem uma página \"Quem somos\", e o rodapé mostra só \"Supley\" como razão social, sem dizer que ela é o grupo da marca. A ligação vem de duas fontes públicas: o rodapé da loja e o site da Supley.",
@@ -92445,16 +92433,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Max Titanium vende",
         "paragraphs": [
-          "A loja é de suplementos e de itens ligados a eles: whey protein, creatina, [pré-treinos](/reviews/pre-treino-max-titanium-horus-ou-egide), aminoácidos e snacks proteicos. Também há roupas, acessórios e coqueteleiras, que a política de trocas trata como produtos duráveis.",
-          "Este artigo não avalia os produtos. O que dá para verificar é quem vende, se o site é o oficial e o que acontece se você precisar trocar. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+          "A loja é de suplementos e de itens ligados a eles: whey protein, como o [Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p) e o [100% Whey Refil 900 g](https://www.maxtitanium.com.br/100-whey-refil-900g/p), creatina, como a [Creatina 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), [pré-treinos](/reviews/pre-treino-max-titanium-horus-ou-egide), aminoácidos e snacks proteicos. Também há roupas, acessórios e coqueteleiras, que a política de trocas trata como produtos duráveis.",
+          "O que dá para verificar é quem vende, se o site é o oficial e o que acontece se você precisar trocar."
         ],
-        "image": {
-          "src": "/images/reviews/max-titanium/max-titanium-confiavel-capa.webp",
-          "alt": "Página inicial do site maxtitanium.com.br, com a campanha Semana Max Economia",
-          "caption": "A página inicial da Max Titanium, com a campanha Semana Max Economia.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creatina-500g.webp",
+            "alt": "Pote de Creatina 500 g da Max Titanium, em foto oficial de frente.",
+            "caption": "Creatina 500 g. Foto: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6721,
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Whey Pro 1 kg na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Trocas, devoluções e defeito",
@@ -92537,13 +92535,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O frete grátis vale na forma de envio mais barata. Se você escolher Sedex, o frete fica por sua conta. O valor do frete não entra na soma que atinge o mínimo da região. Esses valores mudam com o tempo, então confirme o do seu CEP no carrinho antes de fechar o pedido.",
           "Pelos Termos e Condições, o pedido com pagamento aprovado até as 13h em dia útil é processado no mesmo dia.",
-          "Nos Termos, as bandeiras de cartão aceitas são Visa, Mastercard, American Express, Diners, Elo e Hipercard. A página inicial, na mesma data, anunciava **até 5% de desconto** no Pix e no boleto e **até 5% de desconto** no cartão em 1x, além de parcelamento em **6x sem juros**. O percentual e o número de parcelas variam por produto e por promoção, então confira no carrinho."
+          "Nos Termos, as bandeiras de cartão aceitas são Visa, Mastercard, American Express, Diners, Elo e Hipercard. A página inicial anuncia **até 5% de desconto** no Pix, no boleto e no cartão em 1x, além de parcelamento em **6x sem juros**. O percentual e o número de parcelas variam por produto e por promoção, então confira no carrinho."
         ]
       },
       {
-        "heading": "E a reputação da Max Titanium no Reclame Aqui?",
+        "heading": "A reputação da Max Titanium no Reclame Aqui",
         "paragraphs": [
-          "O perfil \"Max Titanium Suplementos\" no Reclame Aqui mostrava, de abril a setembro, reputação **Boa** e nota 7,6, com 97,5% das reclamações respondidas. O índice de solução era de 82,6% entre as reclamações finalizadas e avaliadas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao)."
+          "O perfil \"Max Titanium Suplementos\" no Reclame Aqui mostra reputação **Boa** e nota 7,8 nos 6 meses de maio a outubro de 2026, com 99,5% das reclamações respondidas. O índice de solução é de 84,6% entre as reclamações finalizadas e avaliadas. A tabela das quatro abas, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -92555,31 +92553,31 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Parceria e cupom",
+        "heading": "Vale comprar na Max Titanium",
         "paragraphs": [
-          "O Em Casa com Cecília tem parceria com a Max Titanium e pode receber comissão pelas compras feitas com o cupom **MAX10EMCASACOMCECILIA**. No carrinho do site, o campo onde ele entra se chama \"Cupom de Desconto\".",
-          "O desconto chega a 10% OFF, mas o percentual pode ser menor em alguns produtos, então confira o desconto no carrinho antes de pagar. O cupom vale em todas as formas de pagamento, funciona para conta nova e para quem já comprou na loja, soma com as promoções do site e soma com o desconto de até 5% do Pix e do boleto. As regras completas e as condições atualizadas ficam na [página do cupom da Max Titanium](/cupons/max-titanium).",
-          "O passo a passo, com o que mudou no resumo do carrinho, está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar)."
-        ]
-      },
-      {
-        "heading": "Vale a pena comprar no site da Max Titanium?",
-        "paragraphs": [
-          "Do ponto de vista da confiança, sim. A identificação da loja pode ser conferida pelo domínio e pelo CNPJ do rodapé, e a política de trocas está publicada. A reputação Boa vale para o recorte de abril a setembro e não garante o resultado de um novo pedido.",
-          "Há três pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. No recorte de abril a setembro, o tempo médio de resposta no Reclame Aqui era de 7 dias e 9 horas, e 62,3% dos consumidores que avaliaram dizem que voltariam a fazer negócio. Atraso na entrega é o problema mais citado; acompanhe o rastreio do pedido e abra chamado cedo se ele parar."
+          "Do ponto de vista da confiança, sim. A identificação da loja pode ser conferida pelo domínio e pelo CNPJ do rodapé, e a política de trocas está publicada. A reputação Boa vale para a leitura dos 6 meses e não garante o resultado de um novo pedido.",
+          "Há três pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. O tempo médio de resposta no Reclame Aqui é de 8 dias e 11 horas nos 6 meses, e 64,9% das reclamações avaliadas terminaram com o consumidor disposto a voltar. E o atraso na entrega é o problema mais citado: acompanhe o rastreio do pedido e abra chamado cedo se ele parar.",
+          "O Em Casa com Cecília tem parceria com a Max Titanium e pode receber comissão pelo código **MAX10EMCASACOMCECILIA**, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento, para conta nova e para quem já comprou. O percentual varia por produto: no teste de novembro, o código deu 2% na maior parte dos itens e 8,9% no Whey Pro. No carrinho, clique em \"Adicionar cupom de desconto\", digite o código no campo \"Código\" e confirme em \"Adicionar\". As regras estão na [página do cupom da Max Titanium](/cupons/max-titanium), e o passo a passo, em [como usar o MAX10EMCASACOMCECILIA](/reviews/cupom-max-titanium-como-usar)."
+        ],
+        "emphasis": "Pela confiança, a Max Titanium passa: loja identificável pelo CNPJ do rodapé, trocas publicadas e um atendimento que responde, com o atraso na entrega como ponto a vigiar.",
+        "links": [
+          {
+            "label": "Ver o cupom Max Titanium",
+            "href": "/cupons/max-titanium"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Max Titanium é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo e trocas publicadas no site. No recorte de abril a setembro, a reputação no Reclame Aqui era Boa, com 97,5% das reclamações respondidas.",
+          "A Max Titanium é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo e trocas publicadas no site. Nos 6 meses até outubro, a reputação no Reclame Aqui era Boa, com 99,5% das reclamações respondidas.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Digite o código no campo de cupom do carrinho e veja as condições no [cupom Max Titanium](/cupons/max-titanium).",
           "A Max Titanium é da Supley? Sim. A própria Supley lista a Max Titanium entre as marcas do grupo, ao lado de Probiótica, Dr. Peanut e Znack That, e o rodapé da loja traz a razão social da Supley.",
           "Quem é o dono da Max Titanium? A marca pertence ao grupo Supley, que é a empresa que aparece no rodapé do site, com o CNPJ 07.578.713/0004-29. O site da Supley diz que a trajetória do grupo começou em 2006.",
           "O site da Max Titanium é seguro? O endereço oficial é maxtitanium.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
           "Qual é o CNPJ da Max Titanium? O rodapé do site traz o CNPJ 07.578.713/0004-29, da Supley Lab. de Alimentos e Suplementos Nutricionais Ltda., que consta como ativo nos dados públicos.",
           "Quanto tempo tenho para trocar um produto da Max Titanium? São 7 dias corridos a partir do recebimento para o arrependimento (a política da Max Titanium pede embalagem original e lacre intacto; confira essa regra antes de abrir o produto) e 30 dias corridos para comunicar defeito em suplementos (90 dias em duráveis, como coqueteleiras). No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
-          "A Max Titanium tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte. Vale na forma de envio mais barata, não no Sedex.",
-          "Tem cupom de primeira compra na Max Titanium? Nosso cupom é o MAX10EMCASACOMCECILIA: dá até 10% OFF, com desconto menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho e veja as condições na [página do cupom](/cupons/max-titanium)."
+          "A Max Titanium tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte. Vale na forma de envio mais barata, não no Sedex."
         ]
       }
     ]
@@ -92589,7 +92587,7 @@ export const reviewsData: unknown[] = [
     "id": 431,
     "slug": "max-titanium-reclame-aqui-nota-reputacao",
     "title": "Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram",
-    "seoTitle": "Max Titanium no Reclame Aqui: nota e reclamações",
+    "seoTitle": "Max Titanium no Reclame Aqui: nota 7,8 e reclamações",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -92600,31 +92598,21 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos 6 meses. Veja o que mais gera queixa e o que fazer se o seu pedido atrasar ou der problema.",
-    "metaDescription": "Max Titanium no Reclame Aqui, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: reputação Boa, nota 7,6, índice de solução de 82,6% e o que fazer.",
+    "description": "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,8 em 6 meses e 99,5% das reclamações respondidas. Veja os números, o que mais gera queixa e o cupom.",
+    "metaDescription": "MAX10EMCASACOMCECILIA dá até 10% OFF na Max Titanium. Veja a nota 7,8 no Reclame Aqui, as reclamações respondidas e o que mais gera queixa.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-nota-reputacao-capa-v2.webp",
     "imageAlt": "Copo de bebida clara, pó e embalagem de 100% Whey Baunilha, em cena promocional oficial da Max Titanium, ao lado da chamada Max Titanium no Reclame Aqui.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Reputação Boa no Reclame Aqui nas três janelas: nota 7,6 em 6 meses, 7,2 em 12 meses e 7,6 em 2025",
-      "97,5% das reclamações respondidas nos últimos 6 meses e 99% nos últimos 12",
-      "Índice de solução de 82,6% nos últimos 6 meses, entre reclamações finalizadas e avaliadas: mais de 8 em cada 10",
-      "Tempo médio de resposta de 7 dias e 9 horas nos últimos 6 meses, contra 12 dias e 23 horas em 2025"
-    ],
-    "cons": [
-      "Só 62,3% dos consumidores que avaliaram voltariam a fazer negócio nos últimos 6 meses",
-      "Nota média do consumidor de 6,32 nos últimos 6 meses e 5,68 nos últimos 12",
-      "Atraso na entrega é o problema mais citado, com 29,43%",
-      "A resposta ainda leva dias: 7 dias e 9 horas em média nos últimos 6 meses"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom MAX10EMCASACOMCECILIA, de até 10% OFF.",
+      "text": "Se os números te deram segurança para comprar, entre pelo site da Max Titanium e cole o MAX10EMCASACOMCECILIA, de até 10% OFF, no carrinho.",
       "label": "Ir para a Max Titanium com o cupom",
       "url": "https://www.maxtitanium.com.br/",
       "sponsored": true
@@ -92644,178 +92632,178 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos 6 meses. O índice de solução é de 82,6% entre reclamações finalizadas e avaliadas, e a resposta média leva 7 dias e 9 horas. Para comprar, o [cupom Max Titanium](/cupons/max-titanium) traz o código MAX10EMCASACOMCECILIA, com até 10% OFF."
+          "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,8 nos últimos 6 meses e 99,5% das reclamações respondidas. O ponto de atenção é o atraso na entrega, o problema mais citado na aba geral. Para comprar, o [cupom Max Titanium](/cupons/max-titanium) é o MAX10EMCASACOMCECILIA, com até 10% OFF."
         ]
       },
       {
-        "heading": "Por que olhar o Reclame Aqui antes de comprar na Max Titanium",
+        "heading": "A nota e os indicadores da Max Titanium no Reclame Aqui",
         "paragraphs": [
-          "Antes de comprar, vale olhar quais problemas chegaram ao atendimento e como a empresa respondeu. O Reclame Aqui ajuda nessa pesquisa. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
-          "O perfil reúne reclamações de quem procurou a plataforma. Os índices mostram resposta, solução segundo os avaliadores e disposição de voltar a comprar. Os dados abaixo são de 14/10/2026 e mudam todo dia; abra o perfil novamente para ver a situação no dia da sua compra."
-        ]
-      },
-      {
-        "heading": "Os números da Max Titanium no Reclame Aqui",
-        "paragraphs": [
-          "A reputação era **Boa** nas três janelas do perfil \"Max Titanium Suplementos\": 6 meses, 12 meses e 2025. A tabela põe as três lado a lado, cada uma com o seu período:"
+          "A tabela põe lado a lado as quatro abas do perfil \"Max Titanium Suplementos\": 6 meses, que cobre de maio a outubro de 2026; 12 meses; o ano fechado de 2025; e a aba Geral, que soma até 3 anos. Os números mudam todo dia, então abra o perfil de novo no dia da compra."
         ],
         "comparisonTable": {
-          "caption": "Perfil Max Titanium Suplementos no Reclame Aqui, abas de 6 meses, de 12 meses e de 2025",
+          "caption": "Perfil Max Titanium Suplementos no Reclame Aqui, lido em 22/11/2026. Resolvidas e voltariam a fazer negócio contam só as reclamações avaliadas.",
           "headers": [
             "Indicador",
-            "6 meses (01/04 a 30/09/2026)",
-            "12 meses (01/10/2025 a 30/09/2026)",
-            "Ano de 2025"
+            "6 meses",
+            "12 meses",
+            "2025",
+            "Geral (até 3 anos)"
           ],
           "rows": [
             [
               "Reputação",
+              "Boa, nota 7,8",
+              "Boa, nota 7,3",
               "Boa, nota 7,6",
-              "Boa, nota 7,2",
-              "Boa, nota 7,6"
+              "Boa, nota 7,5"
             ],
             [
               "Reclamações recebidas",
-              "446",
-              "1.134",
-              "1.976"
+              "399",
+              "1.031",
+              "1.975",
+              "4.736"
             ],
             [
               "Respondidas",
-              "97,5% (11 aguardando)",
-              "99% (11 aguardando)",
-              "99,8% (0 aguardando)"
-            ],
-            [
-              "Índice de solução entre reclamações finalizadas e avaliadas",
-              "82,6%",
-              "81,7%",
-              "85,1%"
-            ],
-            [
-              "Voltariam a fazer negócio",
-              "62,3%",
-              "55,2%",
-              "61,1%"
+              "99,5%",
+              "99,8%",
+              "99,8%",
+              "99,1%"
             ],
             [
               "Reclamações avaliadas",
-              "207",
-              "552",
-              "985"
+              "208",
+              "521",
+              "985",
+              "2.381"
+            ],
+            [
+              "Resolvidas, nas avaliadas",
+              "84,6%",
+              "81,6%",
+              "85,1%",
+              "83,8%"
+            ],
+            [
+              "Voltariam a fazer negócio, nas avaliadas",
+              "64,9%",
+              "56%",
+              "61,1%",
+              "61,1%"
             ],
             [
               "Nota média do consumidor",
-              "6,32",
-              "5,68",
-              "6,01"
+              "6,64",
+              "5,78",
+              "6,01",
+              "6,06"
             ],
             [
               "Tempo médio de resposta",
-              "7 dias e 9 horas",
-              "8 dias e 8 horas",
-              "12 dias e 23 horas"
+              "8 dias e 11 horas",
+              "7 dias e 20 horas",
+              "12 dias e 23 horas",
+              "12 dias e 11 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "O perfil tinha mais de 97% das reclamações respondidas nas três janelas. Os índices de solução superavam 80%, considerando as reclamações finalizadas e avaliadas. A janela de 12 meses tinha a menor nota geral (7,2) e o menor percentual de avaliadores que voltariam (55,2%). O prazo médio de resposta era de 7 dias e 9 horas na janela de 6 meses, contra 12 dias e 23 horas em 2025. Esses recortes se sobrepõem e não demonstram, sozinhos, uma melhora contínua."
+          "A reputação é Boa nas quatro abas, e o histórico de maio a outubro de 2026 também mostra Boa em todos os meses. As 399 reclamações do semestre são um número absoluto: sem o total de pedidos da loja no período, ele não vira proporção, e não dá para dizer se são muitas ou poucas para o tamanho da operação. A janela de 12 meses é a de menor nota (7,3) e a de menor recompra entre as avaliadas (56%)."
+        ]
+      },
+      {
+        "heading": "O que a nota e o selo medem, e o que não medem",
+        "paragraphs": [
+          "A nota de reputação do Reclame Aqui mede como a empresa atende quem reclama na plataforma: se responde, se resolve, quanto o consumidor dá ao atendimento e se ele voltaria a comprar. Ela não mede a qualidade do produto e muda conforme novas reclamações entram e são avaliadas.",
+          "O perfil mostra três medidas diferentes. A de 7,8 é a nota de reputação do semestre, calculada pela plataforma. A de 6,64 é a média que os consumidores deram ao atendimento depois de encerrar a reclamação. A de 4,8 em 5 vem do RA Reviews, a avaliação de compra: são 1.727 avaliações verificadas nos 6 meses. Nenhuma contradiz as outras, porque cada uma mede uma coisa.",
+          "Solução e \"voltariam a fazer negócio\" valem só para as reclamações avaliadas: 208 no semestre. Elas descrevem quem reclamou e avaliou, não todos os compradores. O perfil está há 15 anos no Reclame Aqui."
+        ]
+      },
+      {
+        "heading": "Pontos positivos nos dados",
+        "paragraphs": [
+          "Estes são os sinais favoráveis que o perfil mostra:"
         ],
-        "images": [
-          {
-            "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-6-meses.webp",
-            "alt": "Aba de 6 meses do perfil Max Titanium Suplementos no Reclame Aqui, com reputação Boa, nota 7,6 e os números marcados em amarelo",
-            "caption": "Aba de 6 meses do perfil \"Max Titanium Suplementos\". O marca-texto amarelo é nosso.",
-            "objectFit": "contain",
-            "aspectRatio": 0.3055
-          },
-          {
-            "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-12-meses.webp",
-            "alt": "Aba de 12 meses do perfil Max Titanium Suplementos no Reclame Aqui, com reputação Boa, nota 7,2 e os números marcados em amarelo",
-            "caption": "Aba de 12 meses do perfil \"Max Titanium Suplementos\". O marca-texto amarelo é nosso.",
-            "objectFit": "contain",
-            "aspectRatio": 0.3094
-          },
-          {
-            "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-2025.webp",
-            "alt": "Aba de 2025 do perfil Max Titanium Suplementos no Reclame Aqui, com reputação Boa, nota 7,6 e os números marcados em amarelo",
-            "caption": "Aba de 2025 do perfil \"Max Titanium Suplementos\". O marca-texto amarelo é nosso.",
-            "objectFit": "contain",
-            "aspectRatio": 0.3063
-          }
+        "bullets": [
+          "**Reputação.** Boa nas quatro abas, com nota 7,8 nos 6 meses e 7,5 na aba Geral.",
+          "**Resposta.** De 99,1% a 99,8% das reclamações respondidas em todas as abas, com apenas 1 aguardando resposta nos 6 meses.",
+          "**Tempo de resposta.** Caiu de 12 dias e 23 horas em 2025 para 8 dias e 11 horas nos últimos 6 meses.",
+          "**Solução, nas avaliadas.** Entre as 208 reclamações avaliadas no semestre, 84,6% foram consideradas resolvidas.",
+          "**Avaliação de compra.** O RA Reviews mostra 4,8 em 5, com 1.727 avaliações verificadas nos 6 meses.",
+          "**Defeito.** A política da loja prevê coleta e reenvio por conta da Max Titanium."
         ]
       },
       {
         "heading": "O que mais aparece nas reclamações",
         "paragraphs": [
-          "Na aba geral, com reclamações de até 3 anos, o atraso lidera as queixas. A lista era esta:"
+          "Os motivos ficam na aba Geral do perfil, que reúne até 3 anos, e não no semestre da tabela. Nela, a lista é esta:"
         ],
         "bullets": [
-          "**Categoria:** Suplementos Alimentares, com 68,55%.",
-          "**Problema:** atraso na entrega, com 29,43%.",
-          "**Produto:** Whey Protein, com 37,17%."
+          "**Categoria:** Suplementos Alimentares, com 67,61%.",
+          "**Problema:** atraso na entrega, com 29,12%.",
+          "**Produto:** Whey Protein, com 36,7%."
         ],
         "postParagraphs": [
-          "O atraso na entrega é o problema que mais se repete, em quase 3 de cada 10 reclamações. Por isso, depois de pagar, acompanhe o rastreio e fale com a loja assim que o prazo informado na compra vencer, sem esperar semanas. O passo a passo está mais abaixo.",
-          "O Whey Protein é o produto mais citado (37,17%). Isso não quer dizer que ele tenha mais problemas que os outros itens: os números do perfil não permitem essa conclusão."
+          "O atraso na entrega é o problema que mais se repete, em quase 3 de cada 10 reclamações. O Whey Protein é só o produto mais citado: os números do perfil não dizem que ele dê mais problema que os outros."
         ],
-        "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas.webp",
-        "imageAlt": "Principais problemas comentados no perfil Max Titanium Suplementos no Reclame Aqui: categoria Suplementos Alimentares com 68,55%, atraso na entrega com 29,43% e Whey Protein com 37,17%",
-        "imageCaption": "Principais problemas comentados no perfil \"Max Titanium Suplementos\", com reclamações de até 3 anos na aba geral. O marca-texto amarelo é nosso.",
+        "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas-2211.webp",
+        "imageAlt": "Principais problemas comentados no perfil Max Titanium Suplementos no Reclame Aqui: categoria Suplementos Alimentares com 67,61%, atraso na entrega com 29,12% e Whey Protein com 36,7%",
+        "imageCaption": "Quadro de principais problemas da aba Geral do Reclame Aqui.",
         "imageFit": "contain",
-        "imageAspectRatio": 1.2292
+        "imageAspectRatio": 1.9481
       },
       {
-        "heading": "Como a Max Titanium responde às reclamações",
+        "heading": "Como a Max Titanium responde e o que conferir antes de comprar",
         "paragraphs": [
-          "97,5% das reclamações estavam respondidas na janela de 6 meses e 99% na de 12, com 11 aguardando em cada uma. As médias de resposta eram de 7 dias e 9 horas e de 8 dias e 8 horas, respectivamente.",
-          "Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, o índice de solução era de 82,6%, considerando reclamações finalizadas e avaliadas. Entre os avaliadores, 62,3% voltariam a fazer negócio; perto de 4 em cada 10 disseram que não voltariam.",
-          "Naquela janela, 207 das 446 reclamações tinham sido avaliadas. O índice de solução, o percentual que voltaria e a nota do consumidor dependem dessas avaliações. Eles descrevem quem reclamou e avaliou no Reclame Aqui, sem representar todos os compradores."
-        ],
-        "image": {
-          "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
-          "alt": "Perfil Max Titanium Suplementos no Reclame Aqui em 14/10/2026: abas de 6 meses, 12 meses e 2025, todas com reputação Boa",
-          "caption": "As abas de 6 meses, 12 meses e 2025 da Max Titanium no Reclame Aqui, todas com reputação Boa.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Se o seu pedido der problema: o que fazer",
-        "paragraphs": [
-          "Se o pedido der problema, o caminho é o atendimento da Supley, que opera a loja. O rodapé trazia o SAC 4004-2696, os telefones (16) 3506-2045 e (16) 3506-2046, o e-mail sac@supley.com.br e o portal `atendimento.maxtitanium.com.br`. Os prazos e as regras estão detalhados em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Em resumo, o caminho é este:"
+          "O perfil é o da Supley, que opera a loja. O rodapé do site traz o SAC 4004-2696, os telefones (16) 3506-2045 e (16) 3506-2046, o e-mail sac@supley.com.br e o portal atendimento.maxtitanium.com.br. Os prazos e as regras da loja estão em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Em resumo:"
         ],
         "bullets": [
           "**Pedido atrasado:** acompanhe o rastreio e guarde o número do pedido. Quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\", no portal de atendimento, ou fale com o SAC pelos telefones e pelo e-mail.",
           "**Recusa na entrega:** se a embalagem chegar violada, o produto for diferente do pedido ou faltar item, recuse o recebimento e anote o motivo no verso da nota.",
-          "**Arrependimento:** são 7 dias corridos, com reembolso integral e frete pago na compra. A loja pede embalagem original com lacre intacto, mas órgãos de defesa do consumidor orientam que o arrependimento não depende disso.",
+          "**Arrependimento:** são 7 dias corridos, com reembolso integral e frete pago na compra. A loja pede embalagem original com lacre intacto.",
           "**Defeito:** são 30 dias corridos para suplementos e 90 para produtos duráveis. A coleta e o reenvio ficam por conta da Max Titanium, e a análise leva até 30 dias do recebimento no centro de distribuição.",
           "**Erro de endereço:** se o pedido voltar por endereço errado, o frete do reenvio pode ser cobrado de você.",
-          "**Se o atendimento direto não resolver:** abra uma reclamação no Reclame Aqui e, depois da resposta, avalie se o problema foi resolvido."
+          "**Se o primeiro contato não resolver:** escreva de novo ao SAC, com o número do pedido e a nota fiscal, e guarde os protocolos."
         ]
       },
       {
-        "heading": "Parceria e cupom",
+        "heading": "Vale a pena comprar na Max Titanium?",
         "paragraphs": [
-          "O Em Casa com Cecília tem parceria com a Max Titanium e pode receber comissão pelas compras feitas com o cupom **MAX10EMCASACOMCECILIA**. Isso não mexe nos números deste artigo, que são todos do perfil público da empresa no Reclame Aqui.",
-          "O cupom dá até 10% OFF, e em alguns produtos o desconto é menor, então confira o valor no carrinho antes de pagar. Os detalhes atualizados estão na [página do cupom da Max Titanium](/cupons/max-titanium), e o passo a passo no carrinho, no artigo [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar)."
-        ]
-      },
-      {
-        "heading": "Dá para confiar na Max Titanium?",
-        "paragraphs": [
-          "A reputação Boa vinha acompanhada de resposta média de 7 dias e 9 horas e 62,3% dos avaliadores dispostos a voltar. Use esses dados para conhecer o atendimento e planejar o prazo.",
-          "Acompanhe o rastreio e procure o atendimento se a data prometida vencer. Veja também [quem opera a loja, o site oficial e as trocas da Max Titanium](/reviews/max-titanium-e-confiavel)."
+          "Pelo Reclame Aqui, o atendimento a quem reclama é bom: reputação Boa nas quatro abas, quase todas as reclamações respondidas e 84,6% de solução entre as avaliadas no semestre. O que segura a nota é a espera pela resposta, de 8 dias e 11 horas em média, e o atraso na entrega no topo da aba Geral.",
+          "O Em Casa com Cecília tem parceria com a Max Titanium e pode receber comissão pelo código **MAX10EMCASACOMCECILIA**, que dá até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento, para conta nova e antiga. O percentual varia por produto: no teste de novembro, ficou em 2% na maior parte dos itens e em 8,9% no Whey Pro e no Top Whey 3W + Sabor. No carrinho, clique em \"Adicionar cupom de desconto\", digite o código no campo \"Código\" e confirme em \"Adicionar\"; o valor aparece na linha \"Descontos\" do resumo. As regras estão na [página do cupom da Max Titanium](/cupons/max-titanium), e o passo a passo, em [como usar o MAX10EMCASACOMCECILIA](/reviews/cupom-max-titanium-como-usar)."
+        ],
+        "emphasis": "Os dados do perfil sustentam a compra, com o atraso na entrega como ponto a vigiar: acompanhe o rastreio e guarde o pedido e a nota fiscal.",
+        "links": [
+          {
+            "label": "Ver o cupom Max Titanium",
+            "href": "/cupons/max-titanium"
+          },
+          {
+            "label": "Ver o Top Whey 3W + Sabor na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+            "sponsored": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/whey/max-titanium-top-whey-3w-sabor.webp",
+            "alt": "Pote do Top Whey 3W + Sabor da Max Titanium, 900 g, em foto oficial de frente.",
+            "caption": "Top Whey 3W + Sabor 900 g. Foto: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Max Titanium é confiável segundo o Reclame Aqui? O perfil tinha reputação Boa, com nota 7,6 nos últimos 6 meses e índice de solução de 82,6% entre reclamações finalizadas e avaliadas. Os pontos fracos são o tempo médio de resposta, de 7 dias e 9 horas, e o \"voltariam\", de 62,3%.",
-          "Qual a nota da Max Titanium no Reclame Aqui? Nota 7,6 na janela de 6 meses, 7,2 na de 12 meses e 7,6 em 2025, todas na faixa Boa. A nota do consumidor, dada por quem avaliou o atendimento, era 6,32, 5,68 e 6,01.",
-          "A Max Titanium responde às reclamações? Sim. O perfil mostrava 97,5% das reclamações respondidas na janela de 6 meses e 99% na de 12, com resposta em média de 7 dias e 9 horas na primeira janela.",
-          "O que fazer se o pedido da Max Titanium atrasar? Acompanhe o rastreio e, quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\" no portal de atendimento ou fale com o SAC pelo 4004-2696 ou por sac@supley.com.br. Se não resolver, abra uma reclamação no Reclame Aqui.",
-          "Como pedir troca ou reembolso na Max Titanium? Procure o atendimento da loja e informe o motivo. No arrependimento, são 7 dias corridos, com reembolso integral e frete pago na compra; a loja pede embalagem original com lacre intacto. Em caso de defeito, são 30 dias corridos para suplementos e 90 para duráveis, com coleta e reenvio por conta da Max Titanium."
+          "Qual a nota da Max Titanium no Reclame Aqui? A reputação é Boa em todas as abas: nota 7,8 nos 6 meses, 7,3 nos 12, 7,6 em 2025 e 7,5 na Geral. A nota do consumidor, dada por quem avaliou o atendimento, é de 6,64 no semestre.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no campo de cupom do carrinho e confira a linha \"Descontos\"; as regras estão no [cupom Max Titanium](/cupons/max-titanium).",
+          "A Max Titanium responde e resolve as reclamações? Respondeu 99,5% nos 6 meses, em média em 8 dias e 11 horas, e 84,6% das avaliadas do semestre foram consideradas resolvidas. Entre elas, 64,9% voltariam a fazer negócio.",
+          "O que fazer se o pedido da Max Titanium atrasar? Acompanhe o rastreio e, quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\" no portal de atendimento ou fale com o SAC pelo 4004-2696 ou por sac@supley.com.br, com o número do pedido.",
+          "Como pedir troca ou reembolso na Max Titanium? Procure o atendimento da loja e informe o motivo. No arrependimento, são 7 dias corridos, com reembolso integral e frete pago na compra. Em caso de defeito, são 30 dias corridos para suplementos e 90 para duráveis, com coleta e reenvio por conta da Max Titanium."
         ]
       }
     ]
@@ -92823,8 +92811,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 432,
     "slug": "cupom-max-titanium-como-usar",
-    "title": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% de desconto",
-    "seoTitle": "Onde colar o MAX10EMCASACOMCECILIA no carrinho da Max Titanium (passo a passo)",
+    "title": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% OFF",
+    "seoTitle": "Cupom Max Titanium: como usar MAX10EMCASACOMCECILIA",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -92836,28 +92824,18 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max Titanium. Veja onde digitar, como ele soma com promoção e Pix e como funciona o frete grátis por região.",
-    "metaDescription": "Passo a passo para aplicar o MAX10EMCASACOMCECILIA no carrinho da Max Titanium: onde digitar, a linha Descontos e o frete grátis por região.",
+    "metaDescription": "O MAX10EMCASACOMCECILIA dá até 10% OFF na Max Titanium. Onde digitar no carrinho, a linha Descontos e o frete grátis por região.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
-    "updatedAt": "2026-11-12",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/cupom-max-titanium-como-usar-capa-v2.webp",
     "imageAlt": "Pote do Top Whey 3W Mais Natural Cacau da Max Titanium em foto oficial, ao lado do código MAX10EMCASACOMCECILIA.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Até 10% OFF, em todas as formas de pagamento",
-      "Soma com as promoções do site e com o desconto de até 5% do Pix e do boleto",
-      "Vale para conta nova e para quem já comprou na loja",
-      "No teste, os dois brindes continuaram no carrinho depois do cupom"
-    ],
-    "cons": [
-      "O desconto é menor em alguns produtos: no nosso teste, cerca de 9% sobre o whey",
-      "Não dá frete grátis: o mínimo muda por região, de R$ 104 a R$ 599",
-      "Se o cupom deixar o total abaixo do mínimo da região, o frete volta a ser cobrado",
-      "O teste foi com um item só: ele não mostra quais produtos têm desconto menor"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Entre na Max Titanium pelo link da parceria e digite o MAX10EMCASACOMCECILIA no carrinho. Confira a linha Descontos antes de pagar.",
       "label": "Ir para a Max Titanium com o cupom",
@@ -92866,69 +92844,65 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAX10EMCASACOMCECILIA",
     "affiliate": "max-titanium",
-    "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo MAX10EMCASACOMCECILIA.",
+    "editorialNote": "Cupom testado no carrinho oficial da Max Titanium. Podemos receber comissão pelo MAX10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-e-confiavel"
+        "slug": "cupom-max-titanium-primeira-compra"
       },
       {
-        "slug": "max-titanium-reclame-aqui-nota-reputacao"
+        "slug": "black-friday-max-titanium"
+      },
+      {
+        "slug": "whey-max-titanium-qual-escolher"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Digite MAX10EMCASACOMCECILIA no campo “Cupom de Desconto” do carrinho e clique em “Adicionar”. O [cupom Max Titanium](/cupons/max-titanium) dá até 10% OFF, com percentual menor em alguns produtos, e vale em todas as formas de pagamento, na primeira compra e nas seguintes, somando com as promoções e com o Pix. Confira a linha “Descontos” e o frete pelo CEP."
+          "O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial e no app, em todas as formas de pagamento. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. Confira a linha “Descontos” antes de pagar: o percentual varia por produto."
         ]
       },
       {
         "heading": "O que é o cupom MAX10EMCASACOMCECILIA",
         "paragraphs": [
-          "MAX10EMCASACOMCECILIA é o código da parceria do Em Casa com Cecília com a Max Titanium, marca brasileira de suplementos. O botão desta página leva ao site oficial, maxtitanium.com.br, e o desconto vem do código, digitado no carrinho.",
-          "O desconto chega a **10% OFF**, mas pode ser menor em alguns produtos. O número que vale é o que a loja mostra na linha \"Descontos\" do seu pedido. O teste abaixo mostra isso num carrinho real.",
-          "A Max Titanium é do grupo Supley, que também tem as marcas Probiótica, com o artigo [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel), e Dr. Peanut, com o artigo [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel), além da Znack That."
+          "MAX10EMCASACOMCECILIA é o código da parceria do Em Casa com Cecília com a Max Titanium, marca brasileira de suplementos. O botão desta página leva ao site oficial, maxtitanium.com.br, e o desconto vem do código, digitado no carrinho. Ele também vale no aplicativo Max Titanium Suplementos, para conta nova e para quem já comprou.",
+          "O desconto chega a **10% OFF**, mas o carrinho mostra o percentual de cada item. No teste de novembro, o código ligou duas promoções da loja: 2% OFF em produtos selecionados, que apareceu em todos os itens testados, e um 7% OFF adicional em alguns, que somados deram 8,9%.",
+          "A Max Titanium é do grupo Supley, o mesmo da Probiótica e da Dr. Peanut, além da Znack That."
         ]
       },
       {
         "heading": "1. Entre no site oficial pelo link da parceria",
         "paragraphs": [
-          "Use o botão da Max Titanium desta página para abrir o site oficial. O código você digita no carrinho, no passo 3. As condições do cupom ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
+          "Use o botão da Max Titanium desta página para abrir o site oficial, ou abra o app. O código você digita no carrinho, no passo 3. As condições do cupom ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
         "heading": "2. Monte o carrinho",
         "paragraphs": [
-          "Escolha os produtos no site e abra o carrinho. Na tela do carrinho, cada item mostra a foto, o nome, a quantidade e o preço, e no resumo do pedido fica o campo \"Cupom de Desconto\", com o botão \"Adicionar\".",
-          "No nosso teste, o carrinho tinha um Top Whey 3W + Sabor 900G Brigadeiro que já estava em promoção: de R$ 273,55 por R$ 189,00. O carrinho também mostrava dois brindes da Znack That, de 40 g cada, marcados como \"Brinde escolhido!\".",
+          "Escolha os produtos no site e abra o carrinho. Na tela do carrinho, cada item mostra a foto, o nome, a quantidade e o preço, e o resumo do pedido traz o link “Adicionar cupom de desconto”.",
+          "No nosso teste, o carrinho tinha um [Top Whey 3W + Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) Brigadeiro já em promoção, de R$ 273,55 por R$ 189,00, e dois brindes da Znack That, de 40 g cada, marcados como “Brinde escolhido!”.",
           "Antes de digitar qualquer coisa, olhe o subtotal e compare com o mínimo de frete grátis da sua região, na tabela abaixo."
         ],
         "image": "/images/reviews/max-titanium/max-titanium-cupom-01-carrinho-sem-cupom.webp",
-        "imageAlt": "Carrinho da Max Titanium antes do cupom, com o Top Whey 3W em promoção, dois brindes Znack That e o campo Cupom de Desconto marcado em amarelo",
-        "imageCaption": "Carrinho da Max Titanium antes do cupom: o Top Whey 3W em promoção, os dois brindes e o campo \"Cupom de Desconto\". O marca-texto amarelo é nosso.",
+        "imageAlt": "Carrinho da Max Titanium antes do cupom, com o Top Whey 3W em promoção, dois brindes Znack That e o campo do cupom marcado em amarelo",
+        "imageCaption": "Carrinho da Max Titanium antes do cupom: o Top Whey 3W em promoção, os dois brindes e o campo do cupom. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.2713
       },
       {
-        "heading": "3. Digite MAX10EMCASACOMCECILIA em \"Cupom de Desconto\" e clique em \"Adicionar\"",
+        "heading": "3. Clique em \"Adicionar cupom de desconto\", digite o código e clique em \"Adicionar\"",
         "paragraphs": [
-          "No resumo do pedido, digite **MAX10EMCASACOMCECILIA** no campo \"Cupom de Desconto\" e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
-          "Até clicar em \"Adicionar\", nada muda: o preço do item e o total seguem iguais. O desconto só entra depois do clique."
-        ],
-        "image": {
-          "src": "/images/reviews/max-titanium/max-titanium-cupom-capa.webp",
-          "alt": "Montagem do carrinho da Max Titanium: o campo Cupom de Desconto vazio e, ao lado, o código MAX10EMCASACOMCECILIA aplicado com a linha Descontos",
-          "caption": "O campo Cupom de Desconto vazio e, ao lado, o código aplicado com a linha Descontos.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+          "No resumo do pedido, clique no link “Adicionar cupom de desconto”, digite **MAX10EMCASACOMCECILIA** no campo “Código” e clique em “Adicionar”. Copiar o código pelo botão desta página evita erro de digitação. No app, o caminho é o mesmo.",
+          "Até clicar em “Adicionar”, nada muda: o preço do item e o total seguem iguais. O desconto só entra depois do clique."
+        ]
       },
       {
         "heading": "4. Confira o desconto no resumo antes de pagar",
         "paragraphs": [
-          "Depois do clique, o resumo ganha a linha \"Descontos\", com o valor abatido em reais. O código aparece no resumo e como etiqueta no item.",
-          "No nosso teste, a linha mostrou **R$ -16,75**, o preço do item foi para R$ 172,25 e o total ficou em R$ 172,25. Isso é cerca de 9% sobre os R$ 189,00 do whey, abaixo dos 10% do título. É por isso que o texto diz \"até 10%\": o percentual varia por produto, e não dá para tratar esse número como regra.",
-          "Confira a linha \"Descontos\" e o total antes de pagar. O percentual pode oscilar por produto: compare o abatimento com o preço promocional dos itens, como no teste abaixo. Se o resultado estiver abaixo do esperado, confira as condições do código e o resumo do seu carrinho antes de concluir."
+          "Depois do clique, o resumo ganha a linha “Descontos”, com o valor abatido em reais. O código aparece no resumo e como etiqueta no item.",
+          "No nosso teste, a linha mostrou **R$ -16,75**, o preço do item foi para R$ 172,25 e o total ficou em R$ 172,25. Isso é 8,9% sobre os R$ 189,00 do whey. É por isso que o texto diz “até 10%”: o percentual varia por produto, e não dá para tratar um número só como regra.",
+          "Confira a linha “Descontos” e o total antes de pagar. Se o abatimento vier menor que o esperado, veja as condições na página do cupom e o resumo do seu carrinho antes de concluir."
         ],
         "image": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Carrinho da Max Titanium depois do cupom, com o código no resumo e no item, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25",
@@ -92937,12 +92911,12 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 2.6757
       },
       {
-        "heading": "O que aconteceu no nosso teste",
+        "heading": "O que o cupom rendeu no teste de novembro",
         "paragraphs": [
-          "Em 11/11/2026, refizemos o teste no carrinho, e os valores se repetiram:"
+          "Refizemos o teste em novembro, com 31 itens em dois carrinhos, e os valores do whey se repetiram:"
         ],
         "comparisonTable": {
-          "caption": "Teste do cupom MAX10EMCASACOMCECILIA no carrinho da Max Titanium",
+          "caption": "Teste do cupom MAX10EMCASACOMCECILIA no carrinho da Max Titanium, em novembro",
           "headers": [
             "Item",
             "Valor"
@@ -92968,10 +92942,10 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**O cupom somou com a promoção.** O whey já estava com preço promocional e o cupom abateu mais R$ 16,75 em cima dele.",
-          "**Os brindes continuaram no carrinho.** O cupom não tirou os brindes em nenhum dos testes. Brinde é campanha da loja: não dá para garantir que sempre haverá."
+          "**Os brindes continuaram no carrinho.** Os dois brindes de novembro, um par de meias e uma caixa de barras proteicas, ficaram no carrinho com o código. Brinde é campanha da loja e depende do valor do pedido."
         ],
         "postParagraphs": [
-          "Num IsoWhey de 900 g a preço cheio, de R$ 326,18, o desconto foi de R$ 6,52, cerca de 2%. O percentual varia por produto: confira a linha \"Descontos\" antes de pagar."
+          "Em 5 itens o código deu 8,9%: Top Whey 3W + Sabor, Whey Pro 1 kg, Whey Blend 900 g, Kit 2x Whey Pro 1 kg e Femini Whey 900 g. Nos demais, como o IsoWhey de 900 g, de R$ 326,18 por R$ 319,66, foram 2%. O percentual varia por produto: confira a linha “Descontos” antes de pagar."
         ]
       },
       {
@@ -93014,51 +92988,99 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A política vale para a entrega mais barata do site e não vale para Sedex.",
-          "O ponto que pesa com o cupom: se o desconto deixar o total do pedido abaixo do valor da sua região, o frete pode ser cobrado. Exemplo de conta, não um valor de produto: em uma região com mínimo de R$ 134, um carrinho de R$ 140 passa do mínimo sem cupom, mas, se o cupom tirasse 10%, o total ficaria em R$ 126 e o frete deixaria de ser grátis. O frete não entra nessa soma.",
+          "O ponto que pesa com o cupom: se o desconto deixar o total do pedido abaixo do valor da sua região, o frete pode ser cobrado. Exemplo de conta, não um valor de produto: em uma região com mínimo de R$ 134, um carrinho de R$ 136 passa do mínimo sem cupom, mas, com 2% de desconto, o total fica em R$ 133,28 e o frete deixa de ser grátis. O frete não entra nessa soma.",
           "Por isso, quem está perto do mínimo deve olhar o total depois do cupom, e não o subtotal. Esses valores mudam com o tempo; confirme o do seu CEP no carrinho antes de fechar."
         ]
       },
       {
         "heading": "Formas de pagamento, primeira compra e promoções",
         "paragraphs": [
-          "O MAX10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. A página inicial da Max Titanium anunciava Pix e boleto com até 5% OFF e 1x no cartão também com até 5% OFF, e os cards de produto mostravam parcelamento em até 6x. O cupom **soma com o desconto de até 5% do Pix e do boleto**. O percentual de pagamento é da loja e pode mudar: confira na hora de pagar.",
-          "Também não importa se é a sua primeira compra. O cupom funciona para quem está abrindo uma conta nova e para quem já comprou na Max Titanium. Ele vale na primeira compra e continua valendo nos pedidos seguintes.",
+          "O MAX10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. O site anunciava Pix e boleto com 5% OFF e parcelamento em 6x sem juros nos cards de produto. O cupom **soma com o desconto do Pix e do boleto**, que pode variar por item: confira na hora de pagar.",
+          "Também não importa se é a sua primeira compra. O cupom funciona para quem está abrindo uma conta nova e para quem já comprou na Max Titanium, e continua valendo nos pedidos seguintes.",
           "O cupom soma com as promoções vigentes do site, como mostrou o teste com o whey em promoção."
         ]
       },
       {
         "heading": "O que comprar com o cupom",
         "paragraphs": [
-          "O cupom vale no site oficial da Max Titanium. A loja vende whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos, além de roupas, acessórios e coqueteleiras. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+          "O cupom vale no site oficial e no app da Max Titanium, que vende whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos, além de roupas, acessórios e coqueteleiras. O que o teste de novembro mostrou, item a item, serve de régua para escolher onde o código pesa mais."
+        ],
+        "bullets": [
+          "**Whey com 8,9%:** o [Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) foi de R$ 189,00 para R$ 172,25, e o [Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p), de R$ 109,90 para R$ 100,17.",
+          "**Whey com 2%:** o [100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) foi de R$ 196,39 para R$ 192,44.",
+          "**Creatina com 2%:** a [Creatina 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p) foi de R$ 69,90 para R$ 68,50.",
+          "**Pré-treino com 2%:** o [Égide 300 g](https://www.maxtitanium.com.br/egide-300g/p) foi de R$ 89,90 para R$ 88,10."
+        ],
+        "postParagraphs": [
+          "Produto que não está nessa lista também recebe o desconto que o carrinho mostrar: não dá para saber o percentual antes de adicionar o código. A escolha entre whey, creatina e pré-treino está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher)."
+        ],
+        "image": {
+          "src": "/images/reviews/whey/max-titanium-top-whey-3w-sabor.webp",
+          "alt": "Pote de 900 g do Top Whey 3W + Sabor da Max Titanium, sabor brigadeiro",
+          "caption": "Top Whey 3W + Sabor 900 g, o item do nosso teste. Imagem: Max Titanium.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p"
+        },
+        "links": [
+          {
+            "label": "Ver o Top Whey 3W + Sabor na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Se precisar trocar um produto comprado com cupom",
         "paragraphs": [
-          "O cupom não muda o direito de troca: a compra segue as regras da loja. O quadro de trocas, devoluções e defeito está em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Os números da loja no Reclame Aqui estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao).",
+          "O cupom não muda o direito de troca: a compra segue as regras da loja. São 7 dias corridos para desistir, contados do recebimento, e 30 dias corridos para comunicar defeito em suplemento, com coleta e reenvio pela loja. Se algo der errado com o pedido, fale com o SAC da Max Titanium, pelo 4004-2696 ou por sac@supley.com.br, com o número do pedido e a nota fiscal.",
           "Sobre o brinde, os Termos e Condições da loja dizem que a liberação segue o valor mínimo da compra, definido no site, e que não se troca por outro modelo, cor ou tamanho, salvo defeito."
         ]
       },
       {
-        "heading": "Vale a pena usar o cupom?",
+        "heading": "Quando o cupom compensa",
         "paragraphs": [
-          "Se você já ia comprar na Max Titanium, sim: o cupom vale em todas as formas de pagamento, dá até 10% OFF, menos em alguns produtos, como no nosso teste. Duas conferências evitam surpresa: a linha \"Descontos\" antes de pagar e, perto do mínimo do frete grátis da sua região, o total depois do cupom.",
-          "As condições atualizadas do código ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
+          "Se você já ia comprar na Max Titanium, o código entra: vale em todas as formas de pagamento, dá até 10% OFF e soma com as promoções. O ganho depende do item, de 2% na maioria a 8,9% nos wheys em promoção. Duas conferências evitam surpresa: a linha “Descontos” antes de pagar e, perto do mínimo do frete grátis, o total depois do cupom.",
+          "As condições atualizadas do código ficam na [página do cupom da Max Titanium](/cupons/max-titanium). Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+        ],
+        "emphasis": "Se o produto já está no carrinho, digite o código: leva segundos, e a linha Descontos mostra na hora o que ele rendeu.",
+        "links": [
+          {
+            "label": "Ir para a Max Titanium com o cupom",
+            "href": "https://www.maxtitanium.com.br/",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Max Titanium? O cupom da nossa parceria é o MAX10EMCASACOMCECILIA, que dá até 10% OFF no site oficial, maxtitanium.com.br. Em alguns produtos o desconto é menor, então confira a linha \"Descontos\" no carrinho antes de pagar.",
-          "Tem cupom de primeira compra na Max Titanium? Sim. O MAX10EMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\".",
-          "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja e soma com o desconto de até 5% do Pix e do boleto.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium).",
+          "Tem cupom de primeira compra na Max Titanium? Sim. O MAX10EMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou.",
+          "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja e soma com o desconto do Pix e do boleto.",
           "O cupom soma com produto em promoção? Sim. No nosso teste, o cupom deu R$ 16,75 de desconto num whey que já estava com preço promocional, e os brindes continuaram no carrinho.",
-          "Por que o cupom não deu 10% em todos os produtos? Porque o desconto varia por produto: o cupom dá até 10% OFF, e em alguns itens o percentual é menor. No nosso teste, foram cerca de 9% sobre o whey, e a linha \"Descontos\" mostra o valor abatido no seu pedido.",
+          "Por que o cupom não deu 10% em todos os produtos? Porque o desconto varia por produto: o cupom liga um 2% OFF em produtos selecionados e, em alguns itens, um 7% OFF adicional. No teste de novembro, foram 8,9% em cinco itens e 2% na maior parte dos outros, e a linha “Descontos” mostra o valor abatido no seu pedido.",
           "O cupom da Max Titanium dá frete grátis? Não necessariamente. O frete grátis é uma regra da loja, que depende do valor do pedido e da região, de R$ 104 na capital de São Paulo a R$ 599 no Norte, e não vale no Sedex. Se o cupom deixar o total abaixo do mínimo da sua região, o frete pode ser cobrado.",
-          "Tem cupom para whey da Max Titanium? Sim: o MAX10EMCASACOMCECILIA vale no site oficial, e o nosso teste foi justamente num Top Whey 3W de 900 g. O desconto chega a 10% e é menor em alguns produtos; confira a linha \"Descontos\" no carrinho."
+          "Tem cupom para whey da Max Titanium? Sim: o MAX10EMCASACOMCECILIA vale no site oficial, e o nosso teste foi num Top Whey 3W de 900 g, que recebeu 8,9%. Em outros wheys, como o 100% Whey Refil, foram 2%; confira a linha “Descontos” no carrinho."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Digite o código se o carrinho tem Top Whey 3W + Sabor, Whey Pro, Whey Blend ou Femini Whey: no teste de novembro, esses itens receberam 8,9%.",
+        "Use o código também em creatina, pré-treino e kits, sabendo que a maior parte dos itens testados recebeu 2%.",
+        "Compre pelo site oficial ou pelo app da Max Titanium, onde o código vale em todas as formas de pagamento."
+      ],
+      "skipIf": [
+        "Não use o código como motivo para comprar pelo Mercado Livre: lá ele não vale.",
+        "Não conte com o cupom para chegar ao frete grátis: o mínimo da região vale sobre o total depois do desconto."
+      ]
+    }
   },
   {
     "id": 433,
@@ -94224,26 +94246,15 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Max Titanium 2026: MAX10EMCASACOMCECILIA dá até 10% OFF. Veja qual whey, creatina e pré-treino comprar e a conta com o Pix de até 5%.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/black-friday-max-titanium-capa-v2.webp",
     "imageAlt": "Embalagem de Whey Blend sabor morango da Max Titanium em foto oficial da marca.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "O Max November está no ar o mês inteiro, com descontos de até 50% e brindes por faixa de pedido",
-      "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF, conforme o produto, e vale com todas as formas de pagamento",
-      "O cupom soma com as promoções do site e com o Pix, de até 5% conforme o produto",
-      "A Creatina 500g estava abaixo do preço de outubro e tinha a menor dose entre os potes testados",
-      "Frete grátis a partir de R$ 104 na capital de São Paulo e R$ 134 no Sudeste"
-    ],
-    "cons": [
-      "Nos carrinhos de novembro, o cupom rendeu 2% na maioria dos produtos e perto de 9% em dois",
-      "Os wheys estavam nos mesmos preços de outubro",
-      "O desconto do cupom pode deixar o total abaixo do mínimo do frete grátis",
-      "Frete grátis só na entrega mais barata, e o mínimo chega a R$ 599 no Norte"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Entre na Max Titanium pelo link da parceria e digite o MAX10EMCASACOMCECILIA no carrinho. Compare com a tabela de preços de outubro e confira a linha Descontos antes de pagar.",
       "label": "Ir para a Max Titanium com o cupom",
@@ -94258,26 +94269,25 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-max-titanium-como-usar"
       },
       {
-        "slug": "max-titanium-e-confiavel"
+        "slug": "whey-max-titanium-qual-escolher"
       },
       {
-        "slug": "max-titanium-reclame-aqui-nota-reputacao"
+        "slug": "creatina-max-titanium-qual-pote"
       }
     ],
     "contentSections": [
       {
-        "heading": "Resposta rápida: Black Friday Max Titanium 2026",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "O Max November vai o mês inteiro, com descontos de até 50% e brindes por faixa de pedido. A regra é até 10% com o código MAX10EMCASACOMCECILIA e até 5% no Pix, conforme o produto: nos carrinhos de novembro, o código rendeu perto de 9% no Top Whey 3W + Sabor e no Whey Blend e 2% nos demais."
+          "O Max November vai até o fim de novembro, com até 50% OFF e brindes por faixa de pedido. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF, em todas as formas de pagamento, e soma com as promoções. No carrinho de novembro, o código rendeu 8,9% em cinco itens em oferta e 2% nos demais."
         ]
       },
       {
         "heading": "Quando é e o que está no ar no Max November",
         "paragraphs": [
-          "O **Max November** de 2026 vai de 1º a 30 de novembro, o mês inteiro, e a home da Max Titanium já traz o banner de Black Friday. A sexta-feira do calendário é 27 de novembro, e a Cyber Monday, 30 de novembro; na loja, a campanha é o mês todo, não só a sexta.",
-          "A home anuncia cashback de até 16%, roupas e acessórios com 50% OFF e “Comprou ganhou”, com brindes Znack That por faixa de pedido, até três brindes. O Pix e o boleto são anunciados com desconto de até 5%; o valor efetivo depende do item e deve ser conferido no carrinho.",
-          "Os banners da home trazem duas regras: o cashback de até 16% vale em compras acima de R$ 150, em dobro para todos os níveis do Elite Member, e quem compra acima de R$ 199,90 ganha um par de meias exclusivo, por tempo limitado. A loja não publicou as faixas do cashback abaixo dos 16% nem o valor de pedido de cada brinde Znack That. Confira a página da campanha antes de fechar o carrinho, e compare o preço do dia com a tabela de outubro, abaixo.",
-          "Em meados de novembro, o banner principal da home anunciava o Max November com descontos de até 50%, por tempo limitado. Nos nossos carrinhos, os brindes entraram sozinhos: um par de meias nos pedidos a partir de R$ 210,39 e, nos de R$ 273,55 e R$ 326,18, também um Whey Drink de 300 ml."
+          "O **Max November** de 2026 vai de 01/11 a 30/11, o mês inteiro, com descontos de até 50% no banner da home da Max Titanium. A sexta-feira da Black Friday do calendário é 27/11; na loja, a campanha é o mês todo, não só a sexta.",
+          "Dois brindes ficam no carrinho com o código: um par de meias (Meia Max Vegas Preta) nos pedidos acima de R$ 199,90 e uma caixa de barras proteicas (Power Protein Bar 41 g, 12 unidades), à escolha, nos pedidos acima de R$ 199. A home também anuncia cashback e roupas e acessórios com 50% OFF; o cashback não passou pelo nosso carrinho, então confira as regras na campanha.",
+          "A página do Max November lista as ofertas abaixo. Passamos as que aparecem na tabela pelo carrinho com o código, em novembro; os kits de Top Whey 3W + Sabor com Creatina 300 g e de Whey Blend 1,8 kg com Creatina 300 g, também na página, não foram ao carrinho."
         ],
         "image": {
           "src": "/images/reviews/max-titanium/black-friday-max-titanium-banner-max-november.webp",
@@ -94285,7 +94295,63 @@ export const reviewsData: unknown[] = [
           "caption": "O brinde de meias da Promoção Max November, no banner da home da Max Titanium.",
           "objectFit": "contain",
           "aspectRatio": 1
-        }
+        },
+        "comparisonTable": {
+          "caption": "Ofertas do Max November na Max Titanium: preço de lista, preço no site e valor no carrinho com o MAX10EMCASACOMCECILIA, na nossa leitura de novembro. O percentual é o que a linha Descontos mostrou.",
+          "headers": [
+            "Oferta",
+            "Preço de lista",
+            "No site → com o código",
+            "Desconto do código"
+          ],
+          "rows": [
+            [
+              "[Creatina 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
+              "R$ 115,60",
+              "R$ 69,90 → R$ 68,50",
+              "2%"
+            ],
+            [
+              "[Kit 2x Whey Pro 1 kg](https://www.maxtitanium.com.br/pack-2x-whey-pro-1kg/p)",
+              "R$ 252,40",
+              "R$ 189,90 → R$ 173,08",
+              "8,9%"
+            ],
+            [
+              "[Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
+              "R$ 126,20",
+              "R$ 109,90 → R$ 100,17",
+              "8,9%"
+            ],
+            [
+              "[Égide 150 g](https://www.maxtitanium.com.br/egide-150g/p)",
+              "R$ 89,90",
+              "R$ 53,90 → R$ 52,82",
+              "2%"
+            ],
+            [
+              "[2Hot 200 g](https://www.maxtitanium.com.br/2hot-200g/p)",
+              "R$ 99,90",
+              "R$ 79,90 → R$ 78,30",
+              "2%"
+            ],
+            [
+              "[Kit Whey Pro 1 kg + Creatina 500 g](https://www.maxtitanium.com.br/kit-whey-pro-creatina-500g/p)",
+              "R$ 241,80",
+              "R$ 159,80 → R$ 156,60",
+              "2%"
+            ],
+            [
+              "[Creatina 1 kg](https://www.maxtitanium.com.br/creatina-1kg/p)",
+              "R$ 119,90",
+              "R$ 109,90 → R$ 107,70",
+              "2%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Preço de campanha muda sem aviso: compare o preço do dia com a tabela de outubro, mais abaixo, e confira o do carrinho."
+        ]
       },
       {
         "heading": "Proteínas: compare pela composição e pelo custo da proteína",
@@ -94309,8 +94375,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p): 21 g em 30 g",
-              "R$ 196,39 → R$ 192,46",
-              "R$ 6,42",
+              "R$ 196,39 → R$ 192,44",
+              "R$ 6,41",
               "R$ 30,55"
             ],
             [
@@ -94347,12 +94413,32 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Entrada:** o [Whey Blend](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p) é uma mistura proteica, com 10 g de carboidrato por porção, e tem o menor custo por proteína da tabela. O [Super Whey](https://www.maxtitanium.com.br/super-whey-900g/p) parece barato pelo pote, mas a porção é de 120 g, com 79 g de carboidrato: o pote rende 7,5 porções, e a proteína dele é a mais cara da lista.",
-          "**Concentrado padrão:** o [100% Whey](https://www.maxtitanium.com.br/100-whey-refil-900g/p). O refil e o pote levam o mesmo pó, e o refil sai R$ 13,72 mais barato com o código.",
+          "**Concentrado padrão:** o [100% Whey](https://www.maxtitanium.com.br/100-whey-refil-900g/p). O refil e o pote levam o mesmo pó, e o refil sai R$ 13,74 mais barato com o código.",
           "**Três proteínas do soro:** o [Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) e o [+ Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) têm o mesmo preço de lista. O Sabor estava em promoção e recebeu o desconto maior do código; o Performance, a preço cheio, recebeu 2%. A diferença no carrinho chegou a R$ 95,83. O Performance entrega mais proteína por porção e traz vitaminas e minerais, e mesmo assim a proteína do Sabor saiu mais barata.",
           "**Isolado:** o [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p), com 26 g de proteína e 2,3 g de carboidrato por porção de 30 g. É o mais caro por pote e contém lactose."
         ],
         "postParagraphs": [
-          "Os preços dos wheys eram os mesmos de outubro: o que mudou a conta foi o código. As comparações com outras marcas estão em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica), [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Melhor whey em 2026: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
+          "Os preços dos wheys seguem os de outubro: o que mudou a conta foi o código. As comparações com outras marcas estão em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica), [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Melhor whey em 2026: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
+        ],
+        "image": {
+          "src": "/images/reviews/whey/max-titanium-top-whey-3w-sabor.webp",
+          "alt": "Pote de 900 g do Top Whey 3W + Sabor da Max Titanium, sabor brigadeiro",
+          "caption": "Top Whey 3W + Sabor 900 g. Imagem: Max Titanium.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p"
+        },
+        "links": [
+          {
+            "label": "Ver o Top Whey 3W + Sabor na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o 100% Whey Refil na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -94392,10 +94478,30 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Menor custo por porção:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), que estava R$ 17,63 abaixo do preço de outubro. Ele custava R$ 10 a mais que o de 300 g e rende 40 porções a mais.",
           "**Selo Creapure:** só existe no [pote de 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p). A porção sai mais cara pela matéria-prima alemã certificada, e a fórmula leva só creatina, sem antiumectante.",
-          "[Pote de 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p): estava sem estoque na nossa leitura. A loja também vende um [pote de 1 kg](https://www.maxtitanium.com.br/creatina-1kg/p), que não entrou no nosso guia de creatina: confira a tabela dele na página antes de comparar."
+          "[Pote de 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p): estava sem estoque na nossa leitura. A loja também vende o [pote de 1 kg](https://www.maxtitanium.com.br/creatina-1kg/p), na tabela do Max November acima, que não entrou no nosso guia de creatina: confira a tabela dele na página antes de comparar."
         ],
         "postParagraphs": [
-          "O Pix mexeu na conta de um jeito diferente em cada pote: tirou cerca de 3% na Creatina 500g e cerca de 6,5% na de 300 g, que foi a R$ 54,90 com o código. A escolha entre os potes está em [Creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote), e a versão com sabor, em [Creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher)."
+          "O código rendeu 2% em todos os potes que passaram pelo carrinho, e o Pix e o boleto têm até 5% OFF conforme o item. A escolha entre os potes está em [Creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote), e a versão com sabor, em [Creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher)."
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creatina-500g.webp",
+          "alt": "Pote de 500 g da Creatine da Max Titanium, suplemento alimentar de creatina em pó",
+          "caption": "Creatina 500 g, a de menor custo por porção. Imagem: Max Titanium.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6721,
+          "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p"
+        },
+        "links": [
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Creatina Creapure 250 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatina-creapure-250g/p",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -94444,21 +94550,34 @@ export const reviewsData: unknown[] = [
           "**Pote menor:** o [Égide de 150 g](https://www.maxtitanium.com.br/egide-150g/p) estava a R$ 53,90, ou R$ 52,82 com o código. É a opção de menor desembolso, com a porção mais cara que a do pote de 300 g: R$ 2,11."
         ],
         "postParagraphs": [
-          "A comparação de rótulo está em [Pré-treino Max Titanium: Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide). Se um suplemento com cafeína faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. Antes de pagar, confira também o frete: o mínimo do frete grátis vai de R$ 104 na capital de São Paulo a R$ 599 no Norte, e conta o valor depois do código."
+          "A comparação de rótulo está em [Pré-treino Max Titanium: Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide). Antes de pagar, confira também o frete: o mínimo do frete grátis vai de R$ 104 na capital de São Paulo a R$ 599 no Norte, e conta o valor depois do código."
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-egide-300g.webp",
+          "alt": "Pote de 300 g do pré-treino Égide da Max Titanium",
+          "caption": "Égide 300 g, o de menor preço por porção da tabela. Imagem: Max Titanium.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8824,
+          "href": "https://www.maxtitanium.com.br/egide-300g/p"
+        },
+        "links": [
+          {
+            "label": "Ver o Égide 300 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/egide-300g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Hórus 300 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/horus/p",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "Preços de outubro: whey e creatina para comparar",
+        "heading": "Preços de outubro: a régua para comparar",
         "paragraphs": [
-          "O jeito mais seguro de saber se uma oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em outubro, antes do cupom e do desconto de Pix e boleto. Onde o site mostra dois valores, aparece o preço de lista (riscado) e o preço de venda do dia. Produtos sem estoque em outubro, como a [Creatina Creapure 250g](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a [Creatina 100g](https://www.maxtitanium.com.br/creatina-pote-100g/p) e alguns kits, ficaram de fora."
+          "O jeito mais seguro de saber se uma oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em outubro, antes do cupom e do desconto de Pix e boleto, e servem de régua histórica, não de preço de hoje. Onde o site mostra dois valores, aparece o preço de lista (riscado) e o preço de venda do dia. Produtos sem estoque em outubro, como a [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a [Creatina 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p) e alguns kits, ficaram de fora."
         ],
-        "image": {
-          "src": "/images/reviews/max-titanium/black-friday-max-titanium-home.webp",
-          "alt": "Página inicial do site da Max Titanium em outubro, com o banner da Semana Max Economia (28% OFF no kit de 2 creatinas e Whey Pro)",
-          "caption": "A página inicial da Max Titanium em outubro, com a Semana Max Economia: 28% OFF no kit de 2 creatinas e Whey Pro.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "comparisonTable": {
           "caption": "Preços do whey e da creatina no site da Max Titanium em 14 de outubro de 2026, antes do cupom e do desconto de Pix e boleto, com o preço de lista quando a loja o mostra.",
           "headers": [
@@ -94525,24 +94644,17 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os preços de lista só aparecem nos itens que a loja já vendia com desconto. Pela nossa conta, o [Whey Blend](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p) estava 35% abaixo do preço de lista, o [Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p), 31%, a [Creatina 500g](https://www.maxtitanium.com.br/creatine-pote-500g/p), 24%, e a [Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p), 20%. O Top Whey 3W + Sabor e o Top Whey 3W + Performance têm o mesmo preço de lista, R$ 273,55, mas em outubro o primeiro custava R$ 84,55 a menos.",
+          "Os preços de lista só aparecem nos itens que a loja já vendia com desconto. Pela nossa conta, o [Whey Blend](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p) estava 35% abaixo do preço de lista, o [Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p), 31%, a [Creatina 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), 24%, e a [Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p), 20%. O Top Whey 3W + Sabor e o Top Whey 3W + Performance têm o mesmo preço de lista, R$ 273,55, mas em outubro o primeiro custava R$ 84,55 a menos.",
           "Na creatina de outubro, o pote de 500 g tinha menor preço por peso: R$ 17,51 por 100 g, contra R$ 19,97 no de 300 g. No whey, o preço por 100 g de pó não mede o custo por proteína, porque fórmulas e teores diferem; não use essa coluna sozinha para escolher.",
-          "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
-          "Para comparar com outubro, use o mesmo produto, sabor e tamanho: a tabela registra preços de venda antes de cupom e Pix. Para decidir a compra de hoje, confira também cupom, pagamento e frete no total. Um benefício adicional pode ter valor para você, mesmo sem redução do preço do produto.",
-          "Na nossa leitura de meados de novembro, todos os wheys desta tabela estavam no mesmo preço de outubro. A Creatina 500g tinha caído para R$ 69,90, e a de 300 g seguia em R$ 59,90."
+          "Em novembro, os wheys da tabela seguem nos preços de outubro; a Creatina 500 g caiu de R$ 87,53 para R$ 69,90, e a de 300 g segue em R$ 59,90. Compare sempre o mesmo produto, sabor e tamanho, e confira o total no carrinho, com cupom, pagamento e frete."
         ]
       },
       {
         "heading": "O cupom MAX10EMCASACOMCECILIA, o Pix e a promoção: o que soma",
         "paragraphs": [
-          "A regra da parceria é até 10% com o código **MAX10EMCASACOMCECILIA** e até 5% no Pix, conforme o produto. O percentual muda de item para item, e a linha \"Descontos\" do resumo do pedido mostra o valor que o código abateu de verdade.",
-          "O cupom entrou em cima do preço promocional do site. O [Top Whey 3W + Sabor 900G](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) Brigadeiro estava em promoção:"
+          "A regra da parceria é até 10% com o código **MAX10EMCASACOMCECILIA**, conforme o produto. O percentual muda de item para item, e a linha “Descontos” do resumo do pedido mostra o valor que o código abateu de verdade. O código liga duas promoções da loja: 2% OFF em produtos selecionados, que apareceu em todos os itens testados, e um 7% OFF adicional em alguns.",
+          "O cupom entrou em cima do preço promocional do site. O [Top Whey 3W + Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) Brigadeiro estava em promoção:"
         ],
-        "image": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
-        "imageAlt": "Carrinho da Max Titanium com o código MAX10EMCASACOMCECILIA aplicado, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25",
-        "imageCaption": "Carrinho da Max Titanium depois do cupom: a linha \"Descontos\" com R$ -16,75 e o total de R$ 172,25. O marca-texto amarelo é nosso.",
-        "imageFit": "contain",
-        "imageAspectRatio": 2.6757,
         "comparisonTable": {
           "caption": "Cupom aplicado ao Top Whey 3W + Sabor 900G Brigadeiro no checkout.",
           "headers": [
@@ -94565,21 +94677,17 @@ export const reviewsData: unknown[] = [
             [
               "Total de produtos depois do cupom (sem frete)",
               "R$ 172,25"
-            ],
-            [
-              "Valor no Pix, depois do cupom",
-              "R$ 167,09"
             ]
           ]
         },
         "bullets": [
-          "**Perto de 9% em dois produtos.** No Top Whey 3W + Sabor e no [Whey Blend](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p), que estavam em promoção, o código abateu R$ 16,75 e R$ 7,00.",
-          "**2% nos demais.** Em outros 13 produtos que pusemos no carrinho em novembro, entre wheys, creatinas e pré-treinos, a linha \"Descontos\" ficou em 2% do preço.",
-          "**O Pix também varia.** Depois do código, o Pix tirou cerca de 3% na maioria dos itens e cerca de 6,5% na Creatina 300 g. Confira no carrinho o valor do Pix antes de pagar.",
-          "**Cashback é crédito da loja.** A linha \"Descontos\" do carrinho mostra só o abatimento do cupom, não o cashback recebido. Confira elegibilidade, prazo e condições do crédito antes de contar com ele."
+          "**8,9% em cinco itens.** No Top Whey 3W + Sabor, no Whey Pro 1 kg, no [Whey Blend](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p), no Kit 2x Whey Pro 1 kg e no Femini Whey 900 g, que estavam em oferta, o código aplicou o 7% adicional e depois o 2%. No Top Whey, foram R$ 16,75; no Whey Blend, R$ 7,00.",
+          "**2% em 25 itens.** Wheys como o 100% Whey, o Top Whey 3W + Performance e o IsoWhey, creatinas, pré-treinos, BCAA, glutamina, hipercalóricos e kits ficaram em 2% do preço. O 10% cheio só apareceu na coqueteleira rosa de 700 ml.",
+          "**O Pix e o boleto têm até 5% OFF.** O valor depende do item e soma com o cupom: confira no carrinho antes de pagar.",
+          "**Cashback é crédito da loja.** A linha “Descontos” do carrinho mostra só o abatimento do cupom, não o cashback. Confira elegibilidade, prazo e condições do crédito antes de contar com ele."
         ],
         "postParagraphs": [
-          "Para o passo a passo do carrinho, veja [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar). As condições atualizadas ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
+          "Para o passo a passo do carrinho, veja [Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium](/reviews/cupom-max-titanium-como-usar). As condições atualizadas ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
@@ -94588,7 +94696,7 @@ export const reviewsData: unknown[] = [
           "O banner da loja diz \"frete grátis em todo o país\", com asterisco. O asterisco é a política de frete: a entrega sai sem custo a partir de um valor de pedido que depende da região do CEP. A política do site trazia estes valores:"
         ],
         "comparisonTable": {
-          "caption": "Valor mínimo do pedido para frete grátis por região, segundo a política do site em outubro.",
+          "caption": "Valor mínimo do pedido para frete grátis por região, segundo a política do site.",
           "headers": [
             "Região",
             "Frete grátis a partir de"
@@ -94621,30 +94729,63 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**O desconto entra na conta.** Se o cupom deixar o total abaixo do mínimo da sua região, o frete pode ser cobrado. Exemplo de conta, não de produto: com mínimo de R$ 134, um carrinho de R$ 140 passa do mínimo sem cupom, mas, se o cupom tirasse 10%, o total ficaria em R$ 126 e o frete deixaria de ser grátis. Perto do mínimo, olhe o total depois do cupom, não o subtotal.",
+          "**O desconto entra na conta.** Se o cupom deixar o total abaixo do mínimo da sua região, o frete pode ser cobrado. Exemplo de conta, não de produto: com mínimo de R$ 134, um carrinho de R$ 136 passa do mínimo sem cupom, mas, com 2% de desconto, o total fica em R$ 133,28 e o frete deixa de ser grátis. Perto do mínimo, olhe o total depois do cupom, não o subtotal.",
           "**Só na entrega mais barata.** O frete grátis vale na forma de envio mais barata do site e não vale para Sedex. O valor do frete não entra na soma que atinge o mínimo.",
           "**Processamento no mesmo dia.** Pelos Termos e Condições, o pedido com pagamento aprovado até as 13h em dia útil é processado no mesmo dia. O prazo de entrega aparece no carrinho, pelo CEP."
         ],
         "postParagraphs": [
-          "Para trocas, devoluções e o que fazer se o pedido atrasar, veja [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel). Em resumo, são 7 dias corridos para desistir, contados do recebimento, e 30 dias corridos para comunicar defeito em suplemento."
+          "Em resumo da troca, são 7 dias corridos para desistir, contados do recebimento, e 30 dias corridos para comunicar defeito em suplemento. Problema com o pedido vai ao SAC da Max Titanium, pelo 4004-2696 ou por sac@supley.com.br, com o número do pedido e a nota fiscal."
+        ]
+      },
+      {
+        "heading": "Qual compra faz sentido no Max November",
+        "paragraphs": [
+          "Com o carrinho de novembro na mão, o código tem dois tamanhos. Nos wheys em oferta, como o Whey Pro e o Top Whey 3W + Sabor, ele rendeu 8,9%; na creatina, no pré-treino e na maior parte do resto, 2%. Por isso a conta por proteína e por dose pesa mais que o percentual do cupom.",
+          "Na creatina, o pote de 500 g tem a menor dose, R$ 0,69 com o código. No pré-treino, o Égide de 300 g saiu a R$ 1,76 por porção, contra R$ 2,44 do Hórus. Se um suplemento com cafeína ou a dose de creatina faz sentido para você, é conversa para ter com um médico ou nutricionista.",
+          "O passo a passo do código está em [como usar o cupom](/reviews/cupom-max-titanium-como-usar), e as condições, na página do [cupom Max Titanium](/cupons/max-titanium)."
+        ],
+        "emphasis": "O código pesa de verdade nos wheys em oferta, com 8,9%; na creatina e no pré-treino ele rende 2%, e quem decide a compra é o preço por dose.",
+        "links": [
+          {
+            "label": "Ver o Whey Pro 1 kg na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai o mês inteiro, até o último dia de novembro, com a Black Friday do calendário na última sexta-feira. A home anuncia cashback de até 16% acima de R$ 150, um par de meias de brinde acima de R$ 199,90, roupas e acessórios com 50% OFF, brindes por faixa de valor e Pix e boleto anunciados com até 5%, conforme o item.",
-          "O cupom MAX10EMCASACOMCECILIA vale na Black Friday? Vale. O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF: vale em todas as formas de pagamento e soma com as promoções do site e com o Pix. Nos produtos com preço do Max November, a linha Descontos do carrinho mostra o valor do cupom antes de pagar.",
-          "O cupom vale com produto em promoção? Sim. O cupom abateu R$ 16,75 de um Top Whey 3W + Sabor e R$ 7,00 de um Whey Blend que já estavam com preço promocional. Se o Max November tiver regra própria para o cupom, o carrinho mostra antes de pagar.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Digite o código no carrinho e confira a linha Descontos antes de pagar. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium).",
+          "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai até o último dia de novembro, com até 50% OFF e brindes por faixa de pedido: um par de meias acima de R$ 199,90 e uma caixa de barras proteicas acima de R$ 199. O Pix e o boleto têm até 5% OFF, conforme o item.",
+          "O cupom vale no Max November? Vale. Ele soma com as promoções do site e com o Pix. Nos produtos com preço da campanha, a linha Descontos do carrinho mostra o valor do cupom antes de pagar.",
+          "O cupom vale com produto em promoção? Sim. O cupom abateu R$ 16,75 de um Top Whey 3W + Sabor e R$ 7,00 de um Whey Blend que já estavam com preço promocional.",
           "O cupom soma com o cashback do Max November? Não dá para afirmar pelo carrinho: o cupom abate o preço na hora, e o cashback é um crédito da loja com regras próprias. Confira na campanha os produtos e clientes elegíveis, o prazo e como o saldo poderá ser usado.",
-          "O cupom soma com o desconto do Pix? Sim. Nos carrinhos de novembro, o Pix tirou cerca de 3% na maioria dos produtos, depois do cupom, e mais que isso na Creatina 300 g. Confira no carrinho o valor dos produtos, o cupom, o pagamento e o frete antes de pagar.",
-          "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, segundo a política do site em outubro. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
+          "O cupom soma com o desconto do Pix? Sim. O Pix e o boleto têm até 5% OFF, conforme o item, e o valor aparece no carrinho. Confira o total dos produtos, o cupom, o pagamento e o frete antes de pagar.",
+          "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
           "O cupom pode tirar o frete grátis? Pode. Se o total depois do cupom ficar abaixo do mínimo da sua região, o frete pode ser cobrado. Confira o total no carrinho antes de pagar.",
-          "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha \"Descontos\".",
-          "Quanto o MAX10EMCASACOMCECILIA desconta de verdade? Até 10%, conforme o produto. Nos carrinhos de novembro, o desconto ficou perto de 9% no Top Whey 3W + Sabor e no Whey Blend e em 2% nos outros produtos testados. A linha Descontos mostra o valor antes de pagar.",
+          "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha “Descontos”.",
+          "Quanto o MAX10EMCASACOMCECILIA desconta de verdade? Até 10%, conforme o produto. Nos carrinhos de novembro, o desconto ficou em 8,9% no Top Whey 3W + Sabor, no Whey Pro, no Whey Blend, no Kit 2x Whey Pro e no Femini Whey, e em 2% na maior parte dos outros itens testados.",
           "Qual pré-treino da Max Titanium sai mais barato por porção? Na nossa leitura, o Égide de 300 g: a porção do rótulo é de 6 g, o pote rende 50 porções, e cada uma saiu por menos de R$ 2 com o cupom."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Compre o Whey Pro, o Kit 2x Whey Pro ou o Top Whey 3W + Sabor com o código: nos três, o carrinho de novembro deu 8,9%.",
+        "Escolha a Creatina 500 g se vai tomar todo dia: é a de menor custo por dose de 5 g, mesmo com os 2% do código.",
+        "Pegue o Égide de 300 g se o critério é preço por porção: ele ficou abaixo do Hórus na conta da tabela."
+      ],
+      "skipIf": [
+        "Não use o Max November como atalho para 10% cheios: nos 31 itens testados, o 10% só apareceu na coqueteleira rosa.",
+        "Passe no Super Whey se a conta é proteína: o pote parece barato, mas a proteína dele é a mais cara da tabela."
+      ]
+    }
   },
   {
     "id": 438,
@@ -96953,11 +97094,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "No catálogo de outubro, o Whey 80% HD e o Creator, da Black Skull, saem mais baratos; a Max Titanium tem mais whey 3W com sabor e a creatina Creapure. Veja quem escolhe o quê.",
-    "metaDescription": "Black Skull ou Max Titanium: CECILIA10 dá 10% na Black Skull e MAX10EMCASACOMCECILIA até 10% na Max. Whey e creatina pelo rótulo e pelo preço por dose.",
+    "description": "Nos preços de novembro, o Whey 80% HD e o Creator, da Black Skull, saem mais baratos; a Max Titanium tem o Top Whey 3W com sabor e a creatina Creapure. Veja quem escolhe o quê.",
+    "metaDescription": "CECILIA10 dá 10% OFF na Black Skull e MAX10EMCASACOMCECILIA, até 10% OFF na Max. Whey e creatina comparados pelo rótulo e pelo preço por dose.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa-v2.webp",
@@ -96968,41 +97109,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, o Whey 80% HD e o Creator, da Black Skull, são os mais baratos por grama de proteína e por dose de creatina; a Max Titanium tem mais whey 3W com sabor e creatina Creapure. O que pesa é o critério: preço por proteína ou proteína por dose. O CECILIA10 dá 10% OFF na Black Skull."
-        ]
-      },
-      {
-        "heading": "Como comparamos",
-        "paragraphs": [
-          "Este guia compara whey e creatina da Black Skull e da Max Titanium, só nas lojas oficiais, com os preços do catálogo, antes do cupom; eles mudam com as promoções. No fim, o capítulo Quem escolhe o quê resume qual marca serve para cada critério de compra.",
-          "Usamos só o que as duas lojas publicam: proteína por dose, porção e número de porções vêm da tabela nutricional de cada produto. Os ingredientes vêm da lista na página de cada produto.",
-          "O preço é o do catálogo do site oficial: o valor do dia, antes do cupom e do desconto do Pix. O \"de\" é o preço de lista que a própria loja mostra.",
-          "As contas são nossas, arredondadas no centavo:"
-        ],
-        "bullets": [
-          "**preço por dose:** preço ÷ porções do rótulo;",
-          "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100."
-        ],
-        "postParagraphs": [
-          "O preço por 100 g de proteína é a régua que iguala os potes. As porções mudam de produto para produto: o Whey 100% HD da Black Skull dá 21 g de proteína em 35 g de pó, e o 100% Whey da Max Titanium dá os mesmos 21 g em 30 g. Pelo preço do pote, não dá para ver quanto custa a proteína.",
-          "Sabor, dissolução e digestão ficaram de fora: esta comparação é só de rótulo e preço. Também ficou de fora o Whey 100% HD Gourmet da Black Skull, sem tabela nutricional na página. Comparamos só as lojas oficiais, sem marketplace. Quem tem restrição alimentar ou dúvida sobre dose e horário deve falar antes com o médico ou o nutricionista."
-        ]
-      },
-      {
-        "heading": "Black Skull e Max Titanium: de onde vem cada marca",
-        "paragraphs": [
-          "As duas marcas são brasileiras.",
-          "A Black Skull é da GDS Grow Dietary Supplements do Brasil, de Embu das Artes (SP). Nenhuma fonte oficial liga a marca à Integralmédica. Os dados da empresa, o site oficial e as trocas estão em [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel).",
-          "A Max Titanium é do Grupo Supley, o mesmo da Probiótica e da Dr. Peanut. Quem fabrica, o site oficial e a reputação estão em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel)."
+          "Nos preços de novembro, o Whey 80% HD e o Creator, da Black Skull, saem mais baratos; a Max Titanium tem o Top Whey 3W com sabor e a creatina Creapure. Os códigos são CECILIA10, com 10% OFF no [cupom Black Skull](/cupons/black-skull), e MAX10EMCASACOMCECILIA, com até 10% OFF no [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
         "heading": "Whey: proteína, porção e preço por dose",
         "paragraphs": [
-          "Oito opções das duas lojas, comparadas pelo preço por 100 g de proteína. Preços do catálogo em 16/10/2026, antes do cupom."
+          "Oito opções das duas lojas, comparadas pelo preço por 100 g de proteína. Essa é a régua que iguala os potes: o Whey 100% HD da Black Skull dá 21 g de proteína em 35 g de pó, e o 100% Whey da Max Titanium dá os mesmos 21 g em 30 g, então o preço do pote sozinho não mostra quanto custa a proteína. Preços do site oficial em novembro, antes do cupom."
         ],
         "comparisonTable": {
-          "caption": "Oito opções das duas lojas, pela mesma régua. Preços do catálogo, antes do cupom; as contas por dose e por proteína são nossas.",
+          "caption": "Oito opções das duas lojas, pela mesma régua. Preços do site oficial em novembro, antes do cupom e do Pix; porções e proteína vêm da tabela nutricional de cada produto. Por dose é o preço ÷ porções; por 100 g de proteína é o preço ÷ (porções × proteína por porção) × 100. As contas são nossas.",
           "headers": [
             "Marca e produto",
             "Tipo de proteína (ingredientes)",
@@ -97014,52 +97130,52 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Black Skull Whey 80% HD refil 900 g",
+              "Black Skull [Whey 80% HD refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
               "WPC",
               "23 g em 30 g",
               "30",
-              "R$ 159,90 (banana: R$ 139,90)",
-              "R$ 5,33 (banana: R$ 4,66)",
-              "R$ 23,17 (banana: R$ 20,28)"
+              "R$ 139,90 (de R$ 159,90)",
+              "R$ 4,66",
+              "R$ 20,28"
             ],
             [
-              "Black Skull Whey 100% HD 900 g (pote / refil)",
+              "Black Skull Whey 100% HD 900 g: [pote](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p) / [refil](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
               "WPC, peptídeos hidrolisados, proteína concentrada de leite, WPI e WPH",
               "21 g em 35 g",
               "25",
-              "R$ 149,90 / R$ 139,90",
-              "R$ 6,00 / R$ 5,60",
-              "R$ 28,55 / R$ 26,65"
+              "R$ 133,22 / R$ 122,11",
+              "R$ 5,33 / R$ 4,88",
+              "R$ 25,37 / R$ 23,26"
             ],
             [
-              "Black Skull Whey 100% HD 1,8 kg",
+              "Black Skull [Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
               "os mesmos do 900 g",
               "21 g em 35 g",
               "50",
-              "R$ 279,90",
-              "R$ 5,60",
-              "R$ 26,66"
+              "R$ 244,33 (de R$ 279,00)",
+              "R$ 4,89",
+              "R$ 23,27"
             ],
             [
-              "Black Skull Whey 3W Core 900 g",
+              "Black Skull [Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p)",
               "WPC, WPI e WPH",
               "31 g em 40 g",
               "22",
-              "R$ 279,90",
-              "R$ 12,72",
-              "R$ 41,04"
+              "R$ 224,90 (de R$ 279,90)",
+              "R$ 10,22",
+              "R$ 32,98"
             ],
             [
-              "Max Titanium Whey Pro 1 kg",
+              "Max Titanium [Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
               "WPC, com 20 g de carboidrato por porção",
               "15 g em 40 g",
               "25",
-              "R$ 99,00 (de R$ 126,20)",
-              "R$ 3,96",
-              "R$ 26,40"
+              "R$ 109,90 (de R$ 126,20)",
+              "R$ 4,40",
+              "R$ 29,31"
             ],
             [
-              "Max Titanium 100% Whey 900 g (pote / refil)",
+              "Max Titanium 100% Whey 900 g: [pote](https://www.maxtitanium.com.br/100-whey-pote-900g/p) / [refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
               "WPC",
               "21 g em 30 g",
               "30",
@@ -97068,7 +97184,7 @@ export const reviewsData: unknown[] = [
               "R$ 33,40 / R$ 31,17"
             ],
             [
-              "Max Titanium Top Whey 3W Mais Sabor 900 g",
+              "Max Titanium [Top Whey 3W Mais Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
               "WPC, WPI e WPH, com granulado em alguns sabores",
               "25 g em 40 g",
               "22,5 (nossa conta)",
@@ -97077,7 +97193,7 @@ export const reviewsData: unknown[] = [
               "R$ 33,60"
             ],
             [
-              "Max Titanium Top Whey 3W + Performance 900 g",
+              "Max Titanium [Top Whey 3W + Performance 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
               "WPC, WPI e WPH, com vitaminas e minerais",
               "32 g em 40 g",
               "22,5 (nossa conta)",
@@ -97096,15 +97212,58 @@ export const reviewsData: unknown[] = [
           "caption": "Tabelas nutricionais oficiais lado a lado. O destaque amarelo é nosso.",
           "objectFit": "contain",
           "aspectRatio": 2.6622
-        }
+        },
+        "images": [
+          {
+            "src": "/images/reviews/whey/max-titanium-top-whey-3w-sabor.webp",
+            "alt": "Pote do Top Whey 3W Mais Sabor de 900 g da Max Titanium, em foto oficial",
+            "caption": "Top Whey 3W Mais Sabor, 900 g. Foto oficial da Max Titanium.",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "store": "max-titanium"
+          },
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
+            "alt": "Refil de 100% Whey de 900 g da Max Titanium, em foto oficial",
+            "caption": "100% Whey refil, 900 g. Foto oficial da Max Titanium.",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "objectFit": "contain",
+            "aspectRatio": 0.7692,
+            "store": "max-titanium"
+          },
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-max-titanium-whey-80-hd-refil.webp",
+            "alt": "Refil do Whey 80% HD de 900 g da Black Skull, sabor chocolate, em foto oficial",
+            "caption": "Whey 80% HD, refil de 900 g. Foto oficial da Black Skull.",
+            "href": "https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p",
+            "store": "black-skull",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Whey 80% HD na Black Skull",
+            "href": "https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p",
+            "sponsored": true,
+            "store": "black-skull"
+          },
+          {
+            "label": "Ver o Top Whey 3W Mais Sabor na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+            "sponsored": true,
+            "store": "max-titanium"
+          }
+        ]
       },
       {
         "heading": "\"100%\" não quer dizer a mesma coisa nas duas marcas",
         "paragraphs": [
           "O nome parecido esconde fórmulas diferentes.",
-          "O **Whey 100% HD** da Black Skull mistura proteína concentrada do soro do leite, peptídeos hidrolisados, proteína concentrada de leite e proteína isolada e hidrolisada do soro. A própria Black Skull chama a mistura de \"Blend Duo Protein\" e diz que os peptídeos hidrolisados são de colágeno. Ou seja: nem toda a proteína do pote vem do soro do leite.",
-          "O **100% Whey** da Max Titanium leva só proteína concentrada do soro do leite (WPC), mais aromatizante, lecitina de soja e sucralose. O rótulo avisa que contém soja.",
-          "Na Black Skull, quem quer whey só de soro do leite pelo menor preço tem o **Whey 80% HD**. A lista de ingredientes dele traz proteína concentrada do soro do leite, aromatizante, goma xantana e sucralose."
+          "O [Whey 100% HD](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p) da Black Skull mistura proteína concentrada do soro do leite, peptídeos hidrolisados, proteína concentrada de leite e proteína isolada e hidrolisada do soro. A própria Black Skull chama a mistura de \"Blend Duo Protein\" e diz que os peptídeos hidrolisados são de colágeno. Ou seja: nem toda a proteína do pote vem do soro do leite.",
+          "O [100% Whey](https://www.maxtitanium.com.br/100-whey-pote-900g/p) da Max Titanium leva só proteína concentrada do soro do leite (WPC), mais aromatizante, lecitina de soja e sucralose. O rótulo avisa que contém soja.",
+          "Na Black Skull, quem quer whey só de soro do leite pelo menor preço tem o [Whey 80% HD](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p). A lista de ingredientes dele traz proteína concentrada do soro do leite, aromatizante, goma xantana e sucralose."
         ]
       },
       {
@@ -97113,20 +97272,20 @@ export const reviewsData: unknown[] = [
           "Os dois whey 3W lideram, e os dois usam porção de 40 g, o equivalente a 2 dosadores:"
         ],
         "bullets": [
-          "**Top Whey 3W + Performance**, da Max Titanium: 32 g de proteína por dose, com um mix de vitaminas e minerais;",
-          "**Whey 3W Core**, da Black Skull: 31 g de proteína por dose."
+          "[Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p), da Max Titanium: 32 g de proteína por dose, com um mix de vitaminas e minerais;",
+          "[Whey 3W Core](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p), da Black Skull: 31 g de proteína por dose."
         ],
         "postParagraphs": [
-          "Os dois também são os mais caros por grama de proteína na tabela, e a dose maior é a mais cara das duas lojas.",
-          "O Top Whey 3W Mais Sabor, da mesma linha da Max Titanium, dá 25 g de proteína na mesma porção de 40 g. Em promoção a R$ 189,00, ele sai a R$ 33,60 por 100 g de proteína."
+          "Por dose, os dois são os mais caros da tabela: R$ 10,22 no 3W Core e R$ 12,16 no Performance. Por 100 g de proteína, o Core fica em R$ 32,98 e o Performance, em R$ 37,99, o mais caro da comparação.",
+          "O [Top Whey 3W Mais Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p), da mesma linha da Max Titanium, dá 25 g de proteína na mesma porção de 40 g. Em promoção a R$ 189,00, ele sai a R$ 33,60 por 100 g de proteína."
         ]
       },
       {
         "heading": "Menor preço por 100 g de proteína",
         "paragraphs": [
-          "O **Whey 80% HD** da Black Skull é o mais barato por 100 g de proteína na tabela, com o sabor banana ainda mais barato.",
-          "O segundo é o **Whey Pro** da Max Titanium, a R$ 26,40 por 100 g de proteína e R$ 3,96 por dose, a dose mais barata da tabela. A diferença está no rótulo: a porção de 40 g dá 15 g de proteína e 20 g de carboidrato. É menos proteína e mais carboidrato por dose que qualquer outro whey da tabela.",
-          "Logo atrás vem o Whey 100% HD da Black Skull no refil ou no pote de 1,8 kg, perto de R$ 26,65 por 100 g de proteína. O 100% Whey da Max Titanium fica em R$ 33,40 no pote e R$ 31,17 no refil."
+          "O [Whey 80% HD](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) da Black Skull é o mais barato por 100 g de proteína na tabela, a R$ 20,28.",
+          "Logo atrás vem o [Whey 100% HD](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p) da Black Skull: R$ 23,26 no refil de 900 g e R$ 23,27 no pote de 1,8 kg, contra R$ 25,37 no pote de 900 g.",
+          "O [Whey Pro](https://www.maxtitanium.com.br/whey-pro-1kg/p) da Max Titanium aparece depois, a R$ 29,31 por 100 g de proteína e R$ 4,40 por dose, a dose mais barata da tabela. A diferença está no rótulo: a porção de 40 g dá 15 g de proteína e 20 g de carboidrato, menos proteína e mais carboidrato por dose que qualquer outro whey da tabela. O [100% Whey](https://www.maxtitanium.com.br/100-whey-pote-900g/p) da Max Titanium fica em R$ 33,40 no pote e R$ 31,17 no refil, e o [3W Core](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p) da Black Skull, em R$ 32,98."
         ]
       },
       {
@@ -97143,47 +97302,47 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Black Skull Whey 100% HD 900 g (pote)",
+              "Black Skull [Whey 100% HD 900 g (pote)](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p)",
               "11",
               "baunilha, morango, chocolate, cookies & cream, cappuccino, milho verde, vitamina de frutas, chocolate com amendoim, torta de limão, caramelo macchiato e pistache"
             ],
             [
-              "Black Skull Whey 100% HD 1,8 kg",
+              "Black Skull [Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
               "4",
               "baunilha, morango, chocolate e cookies & cream"
             ],
             [
-              "Black Skull Whey 80% HD refil 900 g",
+              "Black Skull [Whey 80% HD refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
               "4",
               "morango, baunilha, banana e cookies"
             ],
             [
-              "Black Skull Whey 3W Core 900 g",
+              "Black Skull [Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p)",
               "4",
               "baunilha, chocolate, morango e cookies & cream"
             ],
             [
-              "Max Titanium 100% Whey 900 g (pote)",
+              "Max Titanium [100% Whey 900 g (pote)](https://www.maxtitanium.com.br/100-whey-pote-900g/p)",
               "7",
               "baunilha, chocolate, cookies & cream, morango, chocolate maltado, pistache com chocolate branco e leite"
             ],
             [
-              "Max Titanium 100% Whey refil 900 g",
+              "Max Titanium [100% Whey refil 900 g](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
               "4",
               "baunilha, chocolate, cookies & cream e morango"
             ],
             [
-              "Max Titanium Top Whey 3W Mais Sabor 900 g",
+              "Max Titanium [Top Whey 3W Mais Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
               "6",
               "brigadeiro, cookies & cream, chocolate branco com morango, leite, iogurte grego morango e sorvete de frutas"
             ],
             [
-              "Max Titanium Top Whey 3W + Performance 900 g",
+              "Max Titanium [Top Whey 3W + Performance 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
               "4",
               "baunilha, chocolate, fresh lemon e morango"
             ],
             [
-              "Max Titanium Whey Pro 1 kg",
+              "Max Titanium [Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
               "3",
               "baunilha, chocolate e morango"
             ]
@@ -97196,10 +97355,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por dose nas duas lojas",
         "paragraphs": [
-          "Na creatina, a régua é a mesma para todos os produtos: cada dose do rótulo tem 5 g de creatina. O que muda é o que vem junto no pote e quanto custa cada dose. Os preços são do catálogo das lojas, antes do cupom. O preço por dose é conta nossa: preço dividido pelas doses do rótulo."
+          "Na creatina, a régua é a mesma para todos os produtos: cada dose do rótulo tem 5 g de creatina. O que muda é o que vem junto no pote e quanto custa cada dose. Os preços são do site oficial em novembro, antes do cupom."
         ],
         "comparisonTable": {
-          "caption": "Preços do catálogo das lojas, antes do cupom. Preço por dose: conta nossa. O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original.",
+          "caption": "Preços do site oficial em novembro, antes do cupom. Preço por dose: conta nossa, o preço dividido pelas doses do rótulo.",
           "headers": [
             "Marca e produto",
             "Ingredientes",
@@ -97209,56 +97368,56 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Black Skull Creator refil 500 g",
+              "Black Skull [Creator refil 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p)",
               "creatina monohidratada (sem dosador)",
               "100",
               "R$ 39,90 (de R$ 59,90)",
               "R$ 0,40"
             ],
             [
-              "Black Skull Creator 300 g",
+              "Black Skull [Creator 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p)",
               "creatina monohidratada",
               "60",
               "R$ 29,90 (de R$ 49,90)",
               "R$ 0,50"
             ],
             [
-              "Black Skull Creatine 300 g sem sabor",
+              "Black Skull [Creatine 300 g sem sabor](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p)",
               "creatina monohidratada",
               "60",
-              "R$ 41,90 (de R$ 49,90)",
-              "R$ 0,70"
+              "R$ 42,30 (de R$ 49,90)",
+              "R$ 0,71"
             ],
             [
-              "Black Skull Creatine Turbo 300 g",
+              "Black Skull [Creatine Turbo 300 g](https://www.blackskullusa.com.br/creatine-turbo--300g/p)",
               "creatina e maltodextrina (dose de 10 g)",
               "30",
-              "R$ 39,90",
-              "R$ 1,33"
+              "R$ 31,90 (de R$ 39,90)",
+              "R$ 1,06"
             ],
             [
-              "Max Titanium Creatina 500 g",
+              "Max Titanium [Creatina 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
               "creatina monohidratada e dióxido de silício",
               "100",
               "R$ 69,90 (de R$ 115,60)",
               "R$ 0,70"
             ],
             [
-              "Max Titanium Creatina 300 g",
+              "Max Titanium [Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
               "creatina monohidratada e dióxido de silício",
               "60",
               "R$ 59,90 (de R$ 75,10)",
               "R$ 1,00"
             ],
             [
-              "Max Titanium Creatina 150 g",
+              "Max Titanium [Creatina 150 g](https://www.maxtitanium.com.br/creatina-pote-150g/p)",
               "creatina monohidratada e dióxido de silício",
               "30",
               "R$ 38,89 (de R$ 47,52)",
               "R$ 1,30"
             ],
             [
-              "Max Titanium Creatina Creapure 250 g",
+              "Max Titanium [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p)",
               "creatina monohidratada",
               "50",
               "R$ 139,89 (de R$ 147,20)",
@@ -97268,9 +97427,9 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**O que vem junto da creatina.** No Creator, na Creatine sem sabor e na Creapure, a lista de ingredientes tem um item só: creatina monohidratada. As creatinas comuns da Max Titanium levam também dióxido de silício, um antiumectante. As versões de laranja e de limão da Creatine da Black Skull levam acidulante, antiumectante, aromatizante, corante e sucralose, e a página indica um dosador de 6 g para elas. O refil de 500 g do Creator é a dose mais barata das duas lojas, mas não vem com dosador: quem compra só o refil precisa de uma colher medidora.",
-          "**A Creatine Turbo não é só creatina.** Cada dose tem 10 g de pó, com 5 g de creatina e 5 g de **maltodextrina**, um carboidrato. Por isso o pote de 300 g rende 30 doses, metade das 60 do Creator do mesmo tamanho. A dose sai a R$ 1,33, 2,7 vezes a do Creator 300 g.",
+          "**A Creatine Turbo não é só creatina.** Cada dose tem 10 g de pó, com 5 g de creatina e 5 g de **maltodextrina**, um carboidrato. Por isso o pote de 300 g rende 30 doses, metade das 60 do Creator do mesmo tamanho. A dose sai a R$ 1,06, pouco mais que o dobro da do Creator 300 g.",
           "**Creapure só na Max Titanium.** Creapure é o nome da matéria-prima de creatina que a Max Titanium usa nesse pote. Não encontramos Creapure na busca do site da Black Skull. No rótulo, a Creapure da Max Titanium tem a mesma dose de 5 g e um ingrediente só, como o Creator. A diferença está no preço: R$ 2,80 por dose, sete vezes o refil do Creator.",
-          "Na Black Skull, a Creatine também sai em 150 g, por R$ 39,90, e em refil de 500 g, por R$ 78,90. Pela nossa conta, com 5 g por dose, são R$ 1,33 e cerca de R$ 0,79 por dose. Na Max Titanium, a Creatina de 100 g está sem estoque no site."
+          "Na Black Skull, a Creatine também sai em 150 g, por R$ 33,90, e em refil de 500 g, por R$ 49,90. Pela nossa conta, com 5 g por dose, são R$ 1,13 e R$ 0,50 por dose. Na Max Titanium, a Creatina de 100 g está sem estoque no site."
         ],
         "image": {
           "src": "/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-creatina.webp",
@@ -97278,6 +97437,105 @@ export const reviewsData: unknown[] = [
           "caption": "Tabelas nutricionais oficiais do Creator 300 g e da Creatina 300 g: 5.000 mg por dose de 5 g.",
           "objectFit": "contain",
           "aspectRatio": 2.2069
+        },
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-creator-500g.webp",
+            "alt": "Pote de Creator de 500 g da Black Skull, em foto oficial",
+            "caption": "Creator refil 500 g. Foto oficial da Black Skull.",
+            "href": "https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p",
+            "objectFit": "contain",
+            "aspectRatio": 0.9137,
+            "store": "black-skull"
+          },
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-creatina-500g.webp",
+            "alt": "Pote de Creatina de 500 g da Max Titanium, em foto oficial",
+            "caption": "Creatina 500 g. Foto oficial da Max Titanium.",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "objectFit": "contain",
+            "aspectRatio": 0.6787,
+            "store": "max-titanium"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Creator refil 500 g na Black Skull",
+            "href": "https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p",
+            "sponsored": true,
+            "store": "black-skull"
+          },
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true,
+            "store": "max-titanium"
+          }
+        ]
+      },
+      {
+        "heading": "Preço depois do cupom",
+        "paragraphs": [
+          "O cupom da Black Skull é fixo: 10% em qualquer item. O da Max Titanium varia por produto, e a tabela usa o desconto que o carrinho deu no teste de novembro em cada item. Mesmo com o cupom, o Whey 80% HD e o Creator seguem como os menores custos da comparação."
+        ],
+        "comparisonTable": {
+          "caption": "Preço por 100 g de proteína e por dose depois do cupom. Black Skull: 10% sobre o preço do site. Max Titanium: o desconto que o carrinho deu no teste de novembro, de 2% a 8,9% nos itens testados. As contas são nossas.",
+          "headers": [
+            "Produto",
+            "Desconto do cupom",
+            "Preço depois do cupom",
+            "Conta depois do cupom"
+          ],
+          "rows": [
+            [
+              "Black Skull Whey 80% HD refil 900 g",
+              "10%",
+              "R$ 125,91",
+              "R$ 18,25 por 100 g de proteína"
+            ],
+            [
+              "Black Skull Whey 100% HD refil 900 g",
+              "10%",
+              "R$ 109,90",
+              "R$ 20,93 por 100 g de proteína"
+            ],
+            [
+              "Max Titanium Whey Pro 1 kg",
+              "8,9%",
+              "R$ 100,17",
+              "R$ 26,71 por 100 g de proteína"
+            ],
+            [
+              "Max Titanium Top Whey 3W Mais Sabor 900 g",
+              "8,9%",
+              "R$ 172,25",
+              "R$ 30,62 por 100 g de proteína"
+            ],
+            [
+              "Max Titanium 100% Whey refil 900 g",
+              "2%",
+              "R$ 192,44",
+              "R$ 30,55 por 100 g de proteína"
+            ],
+            [
+              "Black Skull Creator refil 500 g",
+              "10%",
+              "R$ 35,91",
+              "R$ 0,36 por dose"
+            ],
+            [
+              "Max Titanium Creatina 500 g",
+              "2%",
+              "R$ 68,50",
+              "R$ 0,69 por dose"
+            ],
+            [
+              "Max Titanium Creatina 300 g",
+              "2%",
+              "R$ 58,70",
+              "R$ 0,98 por dose"
+            ]
+          ]
         }
       },
       {
@@ -97301,7 +97559,7 @@ export const reviewsData: unknown[] = [
             [
               "Desconto",
               "10% em todo o site",
-              "até 10%, varia por produto"
+              "até 10%: no teste de novembro, 8,9% em alguns itens e 2% na maioria"
             ],
             [
               "Soma com promoção",
@@ -97326,52 +97584,61 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "**Black Skull: 10% fixo.** O **CECILIA10** tira 10% de qualquer item, inclusive dos que já estão em promoção. Com ele, o Whey 100% HD de 900 g sai de R$ 149,90 por R$ 134,91, e o Creator 300 g, de R$ 29,90 por R$ 26,91. Num carrinho de R$ 364,33 com itens em promoção, o total saiu por R$ 327,89: R$ 36,44 de desconto, 10% em todos os itens. O passo a passo está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e o código fica na [página do cupom da Black Skull](/cupons/black-skull).",
-          "**Max Titanium: até 10%, mais o Pix.** O **MAX10EMCASACOMCECILIA** chega a 10%, mas o percentual varia por produto, e o carrinho mostra o valor de cada item. Num Top Whey 3W em promoção, a R$ 189,00, o desconto foi de R$ 16,75, cerca de 9%. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar), e o código fica na [página do cupom da Max Titanium](/cupons/max-titanium). No Pix e no boleto, a loja anuncia **até 5%** a mais, que soma com o cupom.",
+          "**Black Skull: 10% fixo.** O **CECILIA10** tira 10% de qualquer item, inclusive dos que já estão em promoção. Com ele, o Whey 100% HD de 900 g sai de R$ 133,22 por R$ 119,90, e o Creator 300 g, de R$ 29,90 por R$ 26,91. Num carrinho de R$ 364,33 com itens em promoção, o total saiu por R$ 327,89: R$ 36,44 de desconto, 10% em todos os itens. O passo a passo está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e o código fica no [cupom Black Skull](/cupons/black-skull).",
+          "**Max Titanium: até 10%, mais o Pix.** O **MAX10EMCASACOMCECILIA** chega a até 10%, mas o percentual varia por produto, e o carrinho mostra o valor de cada item. No teste de novembro, ele deu 8,9% no Top Whey 3W Mais Sabor (R$ 16,75 de desconto sobre R$ 189,00) e no Whey Pro, e 2% na maioria dos outros itens, como o 100% Whey, o IsoWhey e as creatinas. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar), e o código fica no [cupom Max Titanium](/cupons/max-titanium). No Pix e no boleto, a loja anuncia **até 5%** a mais, que soma com o cupom.",
           "**O cupom pode tirar o frete grátis.** Nas duas lojas, o mínimo do frete grátis conta depois dos descontos. Se o cupom deixar o carrinho abaixo do mínimo da sua região, o frete passa a ser cobrado. Perto do limite, confira o total no carrinho antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom da Black Skull",
+            "href": "/cupons/black-skull"
+          },
+          {
+            "label": "Ver o cupom da Max Titanium",
+            "href": "/cupons/max-titanium"
+          }
         ]
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Nos produtos e preços comparados, o Whey 80% HD e o Creator da Black Skull tinham menor custo por proteína e por dose. Para maior quantidade de proteína na porção de 40 g, o Top Whey 3W + Performance da Max Titanium tinha 32 g, contra 31 g do 3W Core.",
-        "emphasisAfterParagraph": 1,
+        "emphasis": "Pelo preço e pelo cupom, a Black Skull fecha a conta mais barata de whey e de creatina; a Max Titanium só ganha de quem quer Creapure ou o Top Whey 3W com 32 g por dose.",
         "paragraphs": [
-          "A escolha aqui é por critério de compra, com os números do rótulo e os preços:"
+          "A escolha aqui é por critério de compra, com os números do rótulo e os preços; dúvida sobre dose, horário ou restrição alimentar vai para o médico ou o nutricionista."
         ],
         "bullets": [
-          "**Quer pagar menos por grama de proteína:** Whey 80% HD da Black Skull. O Whey Pro da Max Titanium vem logo atrás, com menos proteína e mais carboidrato por dose.",
-          "**Quer mais proteína por dose:** Top Whey 3W + Performance da Max Titanium ou Whey 3W Core da Black Skull, os mais caros por proteína da comparação.",
+          "**Quer pagar menos por grama de proteína:** Whey 80% HD da Black Skull. O Whey 100% HD, da Black Skull, vem logo atrás; o Whey Pro da Max Titanium, com menos proteína e mais carboidrato por dose, vem depois.",
+          "**Quer mais proteína por dose:** Top Whey 3W + Performance da Max Titanium ou Whey 3W Core da Black Skull, os mais caros por dose da comparação.",
           "**Quer whey só de proteína do soro do leite:** Whey 80% HD da Black Skull ou 100% Whey da Max Titanium, os dois só com WPC. O 100% Whey contém soja.",
           "**Quer creatina sem outro ingrediente:** Creator ou Creatine sem sabor, da Black Skull, ou a Creapure da Max Titanium. A Creatine Turbo leva maltodextrina: dose de 10 g para 5 g de creatina.",
           "**Quer Creapure:** só a Max Titanium vende.",
           "**Quer a creatina mais barata por dose:** Creator refil 500 g da Black Skull, sem dosador.",
-          "**Vai pagar no Pix ou no boleto:** na Max Titanium, o cupom de até 10% soma com o desconto de até 5% da loja. Na Black Skull, o desconto é o mesmo em qualquer forma de pagamento: os 10% do cupom."
+          "**Vai pagar no Pix ou no boleto:** na Max Titanium, o cupom soma com o desconto de até 5% da loja. Na Black Skull, o desconto é o mesmo em qualquer forma de pagamento: os 10% do cupom."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Black Skull ou Max Titanium: qual é melhor? Nos preços de catálogo de outubro, o Whey 80% HD e o Creator da Black Skull tinham menor custo por grama de proteína e por dose de creatina. Fórmula, sabor escolhido e preço final atual podem mudar a escolha.",
+          "Qual é o cupom da Black Skull e o da Max Titanium? O da Black Skull é o CECILIA10, com 10% OFF em todo o site; o da Max Titanium é o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo. Os dois valem em todas as formas de pagamento, para conta nova e antiga. No carrinho da Max, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”; os códigos e as regras ficam no [cupom Black Skull](/cupons/black-skull) e no [cupom Max Titanium](/cupons/max-titanium).",
+          "Black Skull ou Max Titanium: qual é melhor? Nos preços de novembro, o Whey 80% HD e o Creator da Black Skull tinham menor custo por grama de proteína e por dose de creatina, com ou sem o cupom. Fórmula, sabor escolhido e preço final atual podem mudar a escolha.",
           "Qual whey é melhor, Black Skull ou Max Titanium? Depende do critério. Mais proteína por dose é o Top Whey 3W + Performance (32 g) ou o Whey 3W Core (31 g); menor preço por 100 g de proteína é o Whey 80% HD da Black Skull.",
-          "Black Skull é boa marca? Pelo que a empresa publica, sim: CNPJ ativo e regras de compra no site. A comparação cobre só rótulo e preço, sem avaliar sabor, dissolução ou qualidade geral.",
           "Black Skull é brasileira? É da Integralmédica? É brasileira, da GDS Grow Dietary Supplements do Brasil, em Embu das Artes (SP). Nenhuma fonte oficial liga a marca à Integralmédica.",
           "Max Titanium é brasileira? Sim. A marca é do Grupo Supley, o mesmo da Probiótica e da Dr. Peanut.",
-          "Whey Max Titanium vale a pena? O 100% Whey dá 21 g de proteína em 30 g, a R$ 7,01 por dose no pote e R$ 6,55 no refil. Com o cupom de até 10% e o desconto de até 5% no Pix, a dose fica mais barata; se compensa depende do critério que pesa para você.",
+          "Whey Max Titanium vale a pena? O 100% Whey dá 21 g de proteína em 30 g, a R$ 7,01 por dose no pote e R$ 6,55 no refil. O cupom deu 2% nele no teste de novembro, e o Pix soma até 5% a mais; se compensa depende do critério que pesa para você.",
           "Creatina Max Titanium vale a pena? A de 300 g dá 5 g de creatina por dose a R$ 1,00, e a Creapure, a R$ 2,80. Na Black Skull, o Creator sai a R$ 0,50 a dose, ou R$ 0,40 no refil.",
           "Qual a melhor creatina da Black Skull? Para quem quer só creatina, o Creator ou a Creatine sem sabor, com um ingrediente só. A Creatine Turbo leva maltodextrina.",
           "Os cupons somam com promoção e com Pix? Os dois somam com as promoções das lojas. Na Max Titanium, o cupom soma também com o desconto de até 5% do Pix e do boleto; a Black Skull não anuncia desconto no Pix.",
-          "Vale esperar a Black Friday? Os dois cupons valem hoje. A espera só compensa se o preço de novembro ficar abaixo do de outubro, e os preços de antes estão em [Black Friday Black Skull 2026: quando começa, preços de whey e creatina e o cupom CECILIA10](/reviews/black-friday-black-skull) e em [Black Friday Max Titanium 2026: preços de outubro, o cupom MAX10EMCASACOMCECILIA e o que a loja já anunciou](/reviews/black-friday-max-titanium)."
+          "Vale esperar a Black Friday? Os dois cupons valem hoje, e os preços de novembro da comparação já são de campanha. A espera só compensa se o preço baixar mais; os preços de cada loja estão em [Black Friday Black Skull 2026](/reviews/black-friday-black-skull) e em [Black Friday Max Titanium 2026](/reviews/black-friday-max-titanium)."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Você escolhe pelos menores custos por proteína ou creatina da tabela: os produtos Black Skull tinham os menores custos, antes dos descontos."
+        "Você decide pelo menor custo por proteína ou por dose de creatina: o Whey 80% HD e o Creator refil, da Black Skull, são os menores custos da tabela, com ou sem cupom."
       ],
       "skipIf": [
-        "Você quer mais proteína por dose e aceita pagar mais por ela: aí é a Max Titanium.",
+        "Você quer mais proteína por dose e aceita pagar mais por ela: aí é o Top Whey 3W + Performance, da Max Titanium, com 32 g.",
         "Você quer creatina Creapure: só a Max Titanium vende.",
-        "Você decide pelo sabor, pela dissolução ou pela digestão: a comparação é só de rótulo e preço."
+        "Você paga no Pix e quer somar o desconto da loja com o cupom: na Max Titanium, o cupom soma com até 5% do Pix e do boleto; a Black Skull não anuncia desconto no Pix."
       ]
     },
     "pros": [],
@@ -97383,13 +97650,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Black Skull e pela Max Titanium. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "black-skull-e-confiavel"
-      },
-      {
-        "slug": "max-titanium-e-confiavel"
+        "slug": "cupom-black-skull-como-usar"
       },
       {
         "slug": "cupom-max-titanium-como-usar"
+      },
+      {
+        "slug": "black-friday-black-skull"
+      },
+      {
+        "slug": "black-friday-max-titanium"
       }
     ]
   },
@@ -97409,10 +97679,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Max Titanium e Probiótica são do mesmo grupo, mas não vendem os mesmos potes. Veja lado a lado proteína por porção, preço por 100 g, creatina e cupom, e qual escolher.",
-    "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Probiótica? Mesma fábrica, linhas diferentes: proteína, preço por 100 g e creatina.",
+    "metaDescription": "MAX10EMCASACOMCECILIA e PRO10EMCASACOMCECILIA: até 10% OFF na Max e na Probiótica. Mesma fábrica, linhas diferentes: proteína, preço por 100 g e creatina.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/max-titanium-ou-probiotica-capa-v2.webp",
@@ -97423,16 +97693,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Max Titanium e Probiótica são do mesmo grupo, mas as fórmulas variam por linha e sabor. A Max teve menor custo por 100 g de proteína no concentrado e no 3W, e a Probiótica trouxe mais sabores e zero lactose; na creatina de 300 g, rótulo e preço empataram. Na Max, o código MAX10EMCASACOMCECILIA dá até 10% OFF."
+          "Max Titanium e Probiótica são do mesmo grupo, mas as fórmulas variam por linha e sabor. A Max teve menor custo por 100 g de proteína no concentrado e no 3W; a Probiótica trouxe mais sabores e zero lactose. Os códigos são MAX10EMCASACOMCECILIA, no [cupom Max Titanium](/cupons/max-titanium), e PRO10EMCASACOMCECILIA, no [cupom Probiótica](/cupons/probiotica), com até 10% OFF."
         ]
       },
       {
-        "heading": "Max Titanium e Probiótica são a mesma coisa?",
+        "heading": "Max Titanium e Probiótica: mesma empresa, linhas diferentes",
         "paragraphs": [
           "São da mesma empresa, mas não vendem os mesmos produtos. Max Titanium e Probiótica são marcas do **grupo Supley**, que também tem a Dr. Peanut e a Znack That. As duas lojas oficiais trazem a mesma empresa no rodapé.",
           "O verso das embalagens confirma a origem. No 100% Whey da Max e no 3 Whey Protein da Probiótica, o campo \"Fabricado em\" traz o mesmo nome, Supley Laboratório de Alimentos e Suplementos Nutricionais, em Matão (SP). Ou seja: **o rótulo das duas aponta a mesma fábrica**.",
-          "Isso não faz de um pote a cópia do outro. Cada marca tem as próprias linhas, com porção, proteína por porção, sabores e preço diferentes. Só um par tem tabelas nutricionais quase iguais, o dos blends, e mesmo ali a tabela não diz que a fórmula é a mesma.",
-          "Quem fabrica, o site oficial e as trocas de cada marca estão em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel) e em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel)."
+          "Isso não faz de um pote a cópia do outro. Cada marca tem as próprias linhas, com porção, proteína por porção, sabores e preço diferentes. Só um par tem tabelas nutricionais quase iguais, o dos blends, e mesmo ali a tabela não diz que a fórmula é a mesma."
         ],
         "image": "/images/reviews/max-titanium/max-titanium-ou-probiotica-fabricado-em.webp",
         "imageAlt": "Verso das embalagens do 100% Whey da Max Titanium e do 3 Whey Protein da Probiótica, com o campo Fabricado em destacado: Supley Laboratório de Alimentos e Suplementos Nutricionais, Matão (SP)",
@@ -97441,25 +97710,12 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 2.2222
       },
       {
-        "heading": "Como ler os números",
-        "bullets": [
-          "**Rótulo:** a tabela nutricional é a que cada loja publica na página do produto.",
-          "**Um sabor por produto:** a proteína por porção muda um pouco de sabor para sabor. A tabela usada é a de um sabor, em geral Baunilha, e ele aparece indicado quando é outro.",
-          "**Preço:** o preço à vista do site oficial, sem cupom e sem o desconto do Pix. Quando a loja mostra um preço \"de\", ele vem entre parênteses.",
-          "**Preço por 100 g de proteína (conta nossa):** o peso do pote dividido pela porção, vezes a proteína de cada porção, e o preço dividido por esse total de proteína.",
-          "**Preço por dose da creatina (conta nossa):** o preço dividido pelo número de porções da tabela."
-        ],
-        "postParagraphs": [
-          "Gosto, só provando: compare pelo número de sabores de cada linha."
-        ]
-      },
-      {
         "heading": "Quadro das linhas equivalentes",
         "paragraphs": [
           "Os pares abaixo têm o mesmo tipo de proteína e o mesmo tamanho de pote, 900 g, salvo o Whey Pro, de 1 kg. Compare a proteína junto com a porção: 21 g em 30 g não é o mesmo que 25 g em 40 g."
         ],
         "comparisonTable": {
-          "caption": "Preços dos sites oficiais em 16/10/2026, sem cupom; eles mudam com as promoções e o estoque. A proteína por porção é a da tabela de Baunilha, salvo onde o sabor está indicado. O preço por 100 g de proteína é conta nossa.",
+          "caption": "Preços dos sites oficiais em novembro, à vista e sem cupom nem Pix; o \"de\" é o preço riscado do site e eles mudam com as promoções e o estoque. A proteína por porção é a da tabela de Baunilha, salvo onde o sabor está indicado, e muda um pouco de sabor para sabor. No Zero Lactose, a frente do pote diz 22 g e a tabela, 21 g, a que usamos. O preço por 100 g de proteína é conta nossa: preço ÷ (porções × proteína por porção) × 100.",
           "headers": [
             "Tipo",
             "Max Titanium",
@@ -97474,51 +97730,51 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Concentrado (pote)",
-              "100% Whey (7 sabores)",
+              "[100% Whey](https://www.maxtitanium.com.br/100-whey-pote-900g/p) (7 sabores)",
               "21 g em 30 g",
               "R$ 210,39",
               "R$ 33,40",
-              "100% Pure Whey (13 sabores)",
+              "[100% Pure Whey](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) (13 sabores)",
               "20 g em 30 g",
               "R$ 252,49",
               "R$ 42,08"
             ],
             [
               "Concentrado (refil)",
-              "100% Whey Refil",
+              "[100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
               "21 g em 30 g",
               "R$ 196,39",
               "R$ 31,17",
-              "100% Pure Whey Refil",
+              "[100% Pure Whey Refil](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "20 g em 30 g",
               "R$ 235,65",
               "R$ 39,28"
             ],
             [
               "Isolado",
-              "IsoWhey",
+              "[IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
               "26 g em 30 g",
               "R$ 326,18",
               "R$ 41,82",
-              "Iso Pro Whey (com vitaminas e minerais)",
+              "[Iso Pro Whey](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) (com vitaminas e minerais)",
               "26 g em 30 g",
               "R$ 346,28",
               "R$ 44,39"
             ],
             [
               "3W",
-              "Top Whey 3W + Performance (com vitaminas e minerais)",
+              "[Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) (com vitaminas e minerais)",
               "32 g em 40 g",
               "R$ 273,55",
               "R$ 37,99",
-              "3 Whey Protein",
+              "[3 Whey Protein](https://www.probiotica.com.br/3-whey-protein-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "24 g em 32 g",
               "R$ 273,55",
               "R$ 40,53"
             ],
             [
               "3W em promoção",
-              "Top Whey 3W + Sabor (Brigadeiro)",
+              "[Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) (Brigadeiro)",
               "25 g em 40 g",
               "R$ 189,00 (de R$ 273,55)",
               "R$ 33,60",
@@ -97529,22 +97785,22 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Blend",
-              "Whey Blend Nova Fórmula",
+              "[Whey Blend Nova Fórmula](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p)",
               "25 g em 40 g",
               "R$ 79,00 (de R$ 121,99)",
               "R$ 14,04",
-              "Iso Protein Blend (Chocolate)",
+              "[Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) (Chocolate)",
               "25 g em 40 g",
               "R$ 79,00 (de R$ 121,99)",
               "R$ 14,04"
             ],
             [
               "Entrada",
-              "Whey Pro (1 kg)",
+              "[Whey Pro (1 kg)](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
               "15 g em 40 g",
-              "R$ 99,00 (de R$ 126,20)",
-              "R$ 26,40",
-              "Hiper 100% Whey",
+              "R$ 109,90 (de R$ 126,20)",
+              "R$ 29,31",
+              "[Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "23 g em 40 g",
               "R$ 124,90 (de R$ 210,39)",
               "R$ 24,14"
@@ -97555,10 +97811,10 @@ export const reviewsData: unknown[] = [
               "—",
               "—",
               "—",
-              "100% Pure Whey Zero Lactose",
-              "22 g em 30 g",
+              "[100% Pure Whey Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "21 g em 30 g",
               "R$ 241,97",
-              "R$ 36,66"
+              "R$ 38,41"
             ]
           ]
         }
@@ -97570,7 +97826,7 @@ export const reviewsData: unknown[] = [
           "A diferença está nos outros tamanhos e formatos:"
         ],
         "comparisonTable": {
-          "caption": "Preços dos sites oficiais, que mudam com as promoções; o preço por dose é conta nossa (preço dividido pelas porções da tabela). O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original.",
+          "caption": "Preços dos sites oficiais em novembro, que mudam com as promoções; o preço por dose é conta nossa (preço dividido pelas porções da tabela).",
           "headers": [
             "Loja",
             "Produto",
@@ -97581,63 +97837,63 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Max Titanium",
-              "Creatina 150 g",
+              "[Creatina 150 g](https://www.maxtitanium.com.br/creatina-pote-150g/p)",
               "R$ 38,89 (de R$ 47,52)",
               "30 de 5 g",
               "R$ 1,30"
             ],
             [
               "Max Titanium",
-              "Creatina 300 g",
+              "[Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
               "R$ 59,90 (de R$ 75,10)",
               "60 de 5 g",
               "R$ 1,00"
             ],
             [
               "Max Titanium",
-              "Creatina 500 g",
+              "[Creatina 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
               "R$ 69,90 (de R$ 115,60)",
               "100 de 5 g",
               "R$ 0,70"
             ],
             [
               "Max Titanium",
-              "Creatina Creapure 250 g",
+              "[Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p)",
               "R$ 139,89 (de R$ 147,20)",
               "50 de 5 g",
               "R$ 2,80"
             ],
             [
               "Probiótica",
-              "Creatina 100 g",
+              "[Creatina 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "R$ 33,89",
               "20 de 5 g",
               "R$ 1,69"
             ],
             [
               "Probiótica",
-              "Creatina 300 g",
+              "[Creatina 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "R$ 59,90 (de R$ 75,10)",
               "60 de 5 g",
               "R$ 1,00"
             ],
             [
               "Probiótica",
-              "Monodose, 30 sachês de 5 g",
+              "[Monodose, 30 sachês de 5 g](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "R$ 69,89",
               "30 de 5 g",
               "R$ 2,33"
             ],
             [
               "Probiótica",
-              "Cápsulas, 180 cápsulas",
+              "[Cápsulas, 180 cápsulas](https://www.probiotica.com.br/creatina-caps-180/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "R$ 47,89 (de R$ 63,10)",
               "45 de 3 g (4 cápsulas)",
               "R$ 1,06 por porção de 3 g"
             ],
             [
               "Probiótica",
-              "Creatina Creapure 150 g",
+              "[Creatina Creapure 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "R$ 99,89",
               "30 de 5 g",
               "R$ 3,33"
@@ -97649,22 +97905,70 @@ export const reviewsData: unknown[] = [
           "**Pote menor:** a Max tem o de 150 g, e a Probiótica, o de 100 g. Os dois saem mais caros por dose que o de 300 g.",
           "**Sem medir o pó:** só a Probiótica vende sachês de 5 g e cápsulas. A porção das cápsulas é de 3 g em 4 cápsulas, então o preço por porção não se compara direto com o das doses de 5 g.",
           "**Creapure:** as duas lojas vendem uma creatina Creapure, a de 250 g na Max e a de 150 g na Probiótica. É a opção mais cara por dose em cada loja."
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina 300 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatina-pote-300g/p",
+            "sponsored": true,
+            "store": "max-titanium"
+          },
+          {
+            "label": "Ver a Creatina 300 g na Probiótica",
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true,
+            "store": "probiotica"
+          }
         ]
       },
       {
         "heading": "Whey concentrado: 100% Whey ou 100% Pure Whey",
         "paragraphs": [
-          "O concentrado da Max Titanium é o **100% Whey**. O da Probiótica é o **100% Pure Whey**. Os dois vêm em pote e em refil de 900 g, com porção de 30 g e 30 porções.",
+          "O concentrado da Max Titanium é o [100% Whey](https://www.maxtitanium.com.br/100-whey-pote-900g/p). O da Probiótica é o [100% Pure Whey](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). Os dois vêm em pote e em refil de 900 g, com porção de 30 g e 30 porções.",
           "Na tabela de Baunilha, o 100% Whey tem 1 g de proteína a mais por porção. A proteína muda com o sabor: a página da Max fala em 20 g a 21 g, e a da Probiótica em 20 g a 24 g. Em alguns sabores, o Pure Whey passa o 100% Whey na dose. Antes de comprar, confira a tabela do sabor que você quer na página do produto.",
           "A diferença maior está no preço: o pote da Probiótica custava R$ 42,10 a mais, e o refil, R$ 39,26 a mais.",
           "A vantagem da Probiótica está nos sabores e na lactose. São 13 sabores: Baunilha, Cookies & Cream, Chocolate Branco, Doce de Leite, Chocolate com Avelã, Leite, Caramelo Salgado, Cappuccino, Chocolate, Iogurte com Coco, Iogurte com Limão, Iogurte com Morango e Morango. A Max tem 7: Baunilha, Chocolate, Cookies & Cream, Morango, Chocolate Maltado, Pistache com Chocolate Branco e Leite.",
-          "A Probiótica também vende o **100% Pure Whey Zero Lactose**, em 3 sabores. A tabela de Baunilha traz 22 g de proteína em 30 g, e o pote custava R$ 241,97. Por 100 g de proteína, ele sai mais barato que o 100% Pure Whey comum. A busca da loja da Max não mostrou whey zero lactose."
+          "A Probiótica também vende o [100% Pure Whey Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), em 3 sabores. A tabela traz 21 g de proteína em 30 g (a frente do pote diz 22 g), e o pote custava R$ 241,97. Por 100 g de proteína, ele sai a R$ 38,41, mais barato que o 100% Pure Whey comum. A busca da loja da Max não mostrou whey zero lactose."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
+            "alt": "Refil de 100% Whey de 900 g da Max Titanium, em foto oficial",
+            "caption": "100% Whey refil, 900 g. Foto oficial da Max Titanium.",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "objectFit": "contain",
+            "aspectRatio": 0.7692,
+            "store": "max-titanium"
+          },
+          {
+            "src": "/images/reviews/whey/probiotica-100-pure-whey-baunilha.webp",
+            "alt": "Pote de 100% Pure Whey Baunilha de 900 g da Probiótica, em foto oficial",
+            "caption": "100% Pure Whey Baunilha, 900 g. Foto oficial da Probiótica.",
+            "href": "https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "objectFit": "contain",
+            "aspectRatio": 0.588,
+            "store": "probiotica"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o 100% Whey Refil na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "sponsored": true,
+            "store": "max-titanium"
+          },
+          {
+            "label": "Ver o 100% Pure Whey Refil na Probiótica",
+            "href": "https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true,
+            "store": "probiotica"
+          }
         ]
       },
       {
         "heading": "Whey isolado: IsoWhey ou Iso Pro Whey",
         "paragraphs": [
-          "O isolado da Max Titanium é o **IsoWhey**. O da Probiótica é o **Iso Pro Whey**. Os dois têm 26 g de proteína em 30 g, 30 porções por pote de 900 g e 3 sabores à venda.",
+          "O isolado da Max Titanium é o [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p). O da Probiótica é o [Iso Pro Whey](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). Os dois têm 26 g de proteína em 30 g, 30 porções por pote de 900 g e 3 sabores à venda.",
           "A diferença está na tabela e no preço. A tabela da Iso Pro Whey traz também vitaminas e minerais; a do IsoWhey, não. A Iso Pro Whey custava R$ 20,10 a mais.",
           "Pela mesma proteína por dose, a escolha fica entre pagar menos (IsoWhey) ou levar as vitaminas e os minerais na tabela (Iso Pro Whey)."
         ]
@@ -97673,7 +97977,7 @@ export const reviewsData: unknown[] = [
         "heading": "3W: Top Whey 3W ou 3 Whey Protein",
         "paragraphs": [
           "Aqui as duas lojas têm porções diferentes, e a comparação precisa olhar o pote inteiro.",
-          "O **Top Whey 3W + Performance**, da Max Titanium, tem 32 g de proteína em 40 g e vitaminas e minerais na tabela. O **3 Whey Protein**, da Probiótica, tem 24 g em 32 g; a lista de ingredientes traz os três tipos de whey: concentrado (WPC), isolado (WPI) e hidrolisado (WPH).",
+          "O [Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p), da Max Titanium, tem 32 g de proteína em 40 g e vitaminas e minerais na tabela. O [3 Whey Protein](https://www.probiotica.com.br/3-whey-protein-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), da Probiótica, tem 24 g em 32 g; a lista de ingredientes traz os três tipos de whey: concentrado (WPC), isolado (WPI) e hidrolisado (WPH).",
           "Os dois custavam R$ 273,55, mas o pote da Max rende mais proteína no total (conta nossa: porções do pote vezes a proteína de cada uma). Porções diferentes não se comparam direto: a cada 100 g de pó, o + Performance tem 80 g de proteína (32 g em 40 g) e o 3 Whey Protein, 75 g (24 g em 32 g)."
         ],
         "comparisonTable": {
@@ -97706,13 +98010,27 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O **Top Whey 3W + Sabor** é a outra versão da Max: menos proteína por porção que o + Performance, mais sabores e preço de promoção. Com esse preço, era o 3W mais barato por 100 g de proteína das duas lojas. Se a promoção acabar e ele voltar a R$ 273,55, a conta muda. No + Performance, o sabor Vitamina de Frutas estava sem estoque."
+          "O [Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) é a outra versão da Max: menos proteína por porção que o + Performance, mais sabores e preço de promoção. Com esse preço, era o 3W mais barato por 100 g de proteína das duas lojas. Se a promoção acabar e ele voltar a R$ 273,55, a conta muda. No + Performance, o sabor Vitamina de Frutas estava sem estoque."
+        ],
+        "links": [
+          {
+            "label": "Ver o Top Whey 3W + Performance na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p",
+            "sponsored": true,
+            "store": "max-titanium"
+          },
+          {
+            "label": "Ver o 3 Whey Protein na Probiótica",
+            "href": "https://www.probiotica.com.br/3-whey-protein-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true,
+            "store": "probiotica"
+          }
         ]
       },
       {
         "heading": "Blend e opções de entrada: os dois blends",
         "paragraphs": [
-          "O **Whey Blend Nova Fórmula** (Max Titanium) e o **Iso Protein Blend** (Probiótica) são o par mais parecido das duas lojas. Os dois têm 900 g, 25 g de proteína em 40 g e custavam R$ 79,00 (de R$ 121,99), o menor preço por 100 g de proteína deste comparativo.",
+          "O [Whey Blend Nova Fórmula](https://www.maxtitanium.com.br/whey-blend-900g-nova-formula/p) (Max Titanium) e o [Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) (Probiótica) são o par mais parecido das duas lojas. Os dois têm 900 g, 25 g de proteína em 40 g e custavam R$ 79,00 (de R$ 121,99), o menor preço por 100 g de proteína deste comparativo.",
           "As tabelas são quase iguais. A tabela da Max é a de Baunilha e a da Probiótica, a de Chocolate:"
         ],
         "comparisonTable": {
@@ -97758,15 +98076,100 @@ export const reviewsData: unknown[] = [
         "heading": "Blend e opções de entrada: Whey Pro ou Hiper 100% Whey",
         "paragraphs": [
           "As opções de entrada das duas lojas são bem diferentes na dose.",
-          "O **Whey Pro 1 kg**, da Max Titanium, tem 15 g de proteína e 20 g de carboidratos em 40 g, com 25 porções.",
-          "A **Hiper 100% Whey 900 g**, da Probiótica, tem 23 g de proteína e 11 g de carboidratos em 40 g, com cerca de 23 porções.",
-          "O Whey Pro custa R$ 25,90 a menos no pote. A Hiper entrega 8 g a mais de proteína na mesma porção de 40 g e, por 100 g de proteína, sai mais barata."
+          "O [Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p), da Max Titanium, tem 15 g de proteína e 20 g de carboidratos em 40 g, com 25 porções.",
+          "A [Hiper 100% Whey 900 g](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), da Probiótica, tem 23 g de proteína e 11 g de carboidratos em 40 g, com cerca de 23 porções.",
+          "O Whey Pro custa R$ 15,00 a menos no pote. A Hiper entrega 8 g a mais de proteína na mesma porção de 40 g e, por 100 g de proteína, sai mais barata: R$ 24,14 contra R$ 29,31."
+        ],
+        "links": [
+          {
+            "label": "Ver o Whey Pro na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
+            "sponsored": true,
+            "store": "max-titanium"
+          },
+          {
+            "label": "Ver a Hiper 100% Whey na Probiótica",
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true,
+            "store": "probiotica"
+          }
         ]
+      },
+      {
+        "heading": "Preço depois do cupom",
+        "paragraphs": [
+          "O cupom muda pouco a ordem dos preços. A Max segue na frente no concentrado e no 3W, e a Hiper, da Probiótica, segue à frente do Whey Pro na entrada. No blend, os dois ficam a centavos um do outro."
+        ],
+        "comparisonTable": {
+          "caption": "Preço por 100 g de proteína depois do cupom, com o desconto que o carrinho deu em cada item no teste de novembro. Item sem teste próprio usa o desconto de 2% que o cupom deu nos demais wheys da mesma loja. Conta nossa.",
+          "headers": [
+            "Produto",
+            "Desconto do cupom",
+            "Preço depois do cupom",
+            "Conta depois do cupom"
+          ],
+          "rows": [
+            [
+              "Concentrado refil: Max Titanium 100% Whey",
+              "2%",
+              "R$ 192,44",
+              "R$ 30,55 por 100 g de proteína"
+            ],
+            [
+              "Concentrado refil: Probiótica 100% Pure Whey",
+              "2%",
+              "R$ 230,94",
+              "R$ 38,49 por 100 g de proteína"
+            ],
+            [
+              "3W: Max Titanium Top Whey 3W + Performance",
+              "2%",
+              "R$ 268,08",
+              "R$ 37,23 por 100 g de proteína"
+            ],
+            [
+              "3W: Probiótica 3 Whey Protein",
+              "2%",
+              "R$ 268,08",
+              "R$ 39,72 por 100 g de proteína"
+            ],
+            [
+              "Blend: Max Titanium Whey Blend",
+              "8,9%",
+              "R$ 72,00",
+              "R$ 12,80 por 100 g de proteína"
+            ],
+            [
+              "Blend: Probiótica Iso Protein Blend",
+              "7%",
+              "R$ 73,47",
+              "R$ 13,06 por 100 g de proteína"
+            ],
+            [
+              "Entrada: Max Titanium Whey Pro 1 kg",
+              "8,9%",
+              "R$ 100,17",
+              "R$ 26,71 por 100 g de proteína"
+            ],
+            [
+              "Entrada: Probiótica Hiper 100% Whey",
+              "7%",
+              "R$ 116,16",
+              "R$ 22,45 por 100 g de proteína"
+            ],
+            [
+              "Zero lactose: Probiótica 100% Pure Whey Zero Lactose",
+              "2%",
+              "R$ 237,13",
+              "R$ 37,64 por 100 g de proteína"
+            ]
+          ]
+        }
       },
       {
         "heading": "Cupom, Pix e frete em cada loja",
         "paragraphs": [
-          "Cada loja tem o próprio código da parceria. Os dois dão **até 10%**: o percentual pode ser menor em alguns produtos, e o carrinho mostra quanto cada item recebeu. Os dois valem em todas as formas de pagamento, para conta nova e antiga, e somam com as promoções do site."
+          "Cada loja tem o próprio código da parceria. Os dois dão **até 10%**: o percentual real varia por produto, e o carrinho mostra quanto cada item recebeu. No teste de novembro, foi de 2% a 8,9% na Max e de 2% a 7% na Probiótica. Os dois valem em todas as formas de pagamento, para conta nova e antiga, e somam com as promoções do site."
         ],
         "comparisonTable": {
           "caption": "Condições dos cupons de cada loja e exemplos de desconto no carrinho.",
@@ -97783,8 +98186,13 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Desconto",
-              "até 10%",
-              "até 10%"
+              "até 10% OFF",
+              "até 10% OFF"
+            ],
+            [
+              "Onde colar",
+              "Carrinho, link \"Adicionar cupom de desconto\", campo \"Código\" e \"Adicionar\"",
+              "Carrinho, campo \"Cupom de Desconto\" e \"Adicionar\""
             ],
             [
               "Soma com promoção do site",
@@ -97792,21 +98200,35 @@ export const reviewsData: unknown[] = [
               "sim"
             ],
             [
+              "Soma com o Pix e o boleto",
+              "sim, até 5%, que muda por produto",
+              "sim, até 5%, que muda por produto"
+            ],
+            [
               "Exemplo de desconto no carrinho",
-              "R$ 16,75 de desconto num Top Whey 3W em promoção, de R$ 189,00",
-              "R$ 54,75 de desconto num carrinho de R$ 659,35"
+              "R$ 16,75 de desconto num Top Whey 3W Mais Sabor em promoção, de R$ 189,00",
+              "R$ 54,75 de desconto num carrinho misto de R$ 659,35"
             ]
           ]
         },
         "postParagraphs": [
-          "Na Max Titanium, o cupom também soma com o desconto de **até 5% no Pix e no boleto**. O desconto do Pix muda por produto nas duas lojas: a home da Max mostrava faixas de 3%, 5% e 6,47% no Pix, e a da Probiótica, 3% nas proteínas e até 5% no Pix e no boleto no resto do site. A página de cada produto mostra o valor. Os códigos e as regras ficam nas páginas do [cupom Max Titanium](/cupons/max-titanium) e do [cupom Probiótica](/cupons/probiotica).",
-          "O frete grátis segue a mesma tabela nas duas lojas. A entrega saía sem custo a partir destes valores de pedido: R$ 104 em São Paulo (capital), R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte. São dois sites com carrinhos separados, então cada pedido precisa chegar ao mínimo sozinho."
+          "O desconto do Pix e do boleto muda por produto nas duas lojas: a página de cada produto mostra o valor, e o cupom soma com ele. Os códigos e as regras ficam nas páginas do [cupom Max Titanium](/cupons/max-titanium) e do [cupom Probiótica](/cupons/probiotica).",
+          "O frete grátis segue a mesma tabela nas duas lojas e conta depois do cupom, na entrega mais barata. A entrega saía sem custo a partir destes valores de pedido: R$ 104 em São Paulo (capital), R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte. São dois sites com carrinhos separados, então cada pedido precisa chegar ao mínimo sozinho."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom da Max Titanium",
+            "href": "/cupons/max-titanium"
+          },
+          {
+            "label": "Ver o cupom da Probiótica",
+            "href": "/cupons/probiotica"
+          }
         ]
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Pelos números da tabela, para quem decide por custo e proteína por 100 g, a escolha é a Max no concentrado e no 3W: ela tem menor custo por 100 g de proteína e mais proteína por 100 g de pó (70 g contra 67 g; 80 g contra 75 g). Para mais sabores, versão zero lactose ou creatina em sachês e cápsulas, a escolha é a Probiótica.",
-        "emphasisAfterParagraph": 1,
+        "emphasis": "A Max leva o concentrado e o 3W pelo menor custo por 100 g de proteína, e a Probiótica leva quem quer mais sabores, zero lactose ou creatina em sachês e cápsulas.",
         "paragraphs": [
           "O veredito por tipo de produto, com os números de cada capítulo acima."
         ],
@@ -97815,28 +98237,23 @@ export const reviewsData: unknown[] = [
           "**Whey concentrado:** o 100% Whey da Max tem 21 g de proteína em 30 g e custa R$ 210,39. O 100% Pure Whey da Probiótica tem 20 g em 30 g e custa R$ 252,49, com 13 sabores contra 7 e uma versão zero lactose.",
           "**Whey isolado:** os dois têm 26 g em 30 g. O da Probiótica traz vitaminas e minerais na tabela e custa R$ 20,10 a mais.",
           "**3W:** pelo mesmo preço cheio (R$ 273,55), o Top Whey 3W + Performance da Max tem 32 g de proteína em 40 g e 720 g no pote; o 3 Whey Protein da Probiótica tem 24 g em 32 g e 675 g no pote. A cada 100 g de pó, são 80 g contra 75 g.",
-          "**Blend e entrada:** os dois blends custam R$ 79,00 e têm tabelas quase iguais. Entre os wheys de entrada, a Hiper da Probiótica tem 23 g em 40 g, e o Whey Pro da Max, 15 g em 40 g."
+          "**Blend e entrada:** os dois blends custam R$ 79,00 e têm tabelas quase iguais. Entre os wheys de entrada, a Hiper da Probiótica tem 23 g em 40 g e sai a R$ 24,14 por 100 g de proteína, contra R$ 29,31 do Whey Pro da Max, que tem 15 g em 40 g."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Max Titanium e Probiótica são a mesma coisa? São marcas do mesmo grupo, o Supley, e o rótulo das duas aponta a mesma fábrica, mas as linhas, as porções e os preços são diferentes.",
+          "Qual é o cupom da Max Titanium e o da Probiótica? O da Max Titanium é o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo; o da Probiótica é o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial. Os dois valem em todas as formas de pagamento. Na Max, clique em “Adicionar cupom de desconto” no carrinho, digite o código no campo “Código” e clique em “Adicionar”; na Probiótica, use o campo “Cupom de Desconto”. Os códigos e as regras ficam no [cupom Max Titanium](/cupons/max-titanium) e no [cupom Probiótica](/cupons/probiotica).",
           "Qual a diferença entre Probiótica e Max Titanium? Mudam as linhas, o número de sabores e as porções. No whey concentrado, a Max tem 21 g em 30 g e a Probiótica 20 g em 30 g (sabor Baunilha), com 13 sabores e versão zero lactose.",
           "Qual a melhor creatina, Max Titanium ou Probiótica? O pote de 300 g tem a mesma porção de 5 g e o mesmo preço nas duas lojas; a diferença está nos outros tamanhos e formatos de cada uma.",
           "Qual o melhor whey, Max Titanium ou Probiótica? Depende do tipo de whey: compare a proteína por porção e o preço por 100 g de proteína de cada par.",
           "Whey isolado: Probiótica ou Max Titanium? Os dois têm 26 g de proteína em 30 g. A Iso Pro Whey traz vitaminas e minerais na tabela e custava R$ 20,10 a mais.",
           "100% Pure Whey da Probiótica ou 100% Whey da Max? No sabor Baunilha, 20 g contra 21 g por porção de 30 g, e R$ 252,49 contra R$ 210,39. O Pure Whey tem mais sabores e versão zero lactose.",
-          "A Max Titanium tem whey zero lactose? A busca da loja não mostrou nenhum. A Probiótica tem o 100% Pure Whey Zero Lactose, com 22 g de proteína por porção de 30 g no sabor Baunilha.",
-          "O cupom vale nas duas lojas? Cada loja tem o seu: MAX10EMCASACOMCECILIA na Max Titanium e PRO10EMCASACOMCECILIA na Probiótica, os dois de até 10%. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar) e em [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar).",
-          "O cupom soma com o Pix? Na Max Titanium, sim: soma com o desconto de até 5% do Pix e do boleto. Na Probiótica, confira o total no carrinho antes de pagar.",
+          "A Max Titanium tem whey zero lactose? A busca da loja não mostrou nenhum. A Probiótica tem o 100% Pure Whey Zero Lactose, com 21 g de proteína por porção de 30 g na tabela.",
+          "Posso usar o cupom de uma loja na outra? Não: cada loja tem o seu código, e são dois sites com carrinhos separados. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar) e em [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar).",
+          "O cupom soma com o Pix? Nas duas lojas, sim: o desconto de até 5% do Pix e do boleto soma com o cupom, e o valor muda por produto.",
           "Quanto whey ou creatina tomar por dia? A quantidade depende de cada pessoa. Quem define é um nutricionista."
-        ]
-      },
-      {
-        "heading": "Transparência",
-        "paragraphs": [
-          "A Max Titanium e a Probiótica são parceiras comissionadas do site e fazem parte do mesmo grupo. Podemos receber comissão pelas compras, sem custo adicional para você. O desconto aplicado é o que aparece no carrinho."
         ]
       }
     ],
@@ -97846,30 +98263,29 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você quer mais sabores, versão zero lactose ou creatina em sachês e cápsulas: aí é a Probiótica.",
-        "Você decide pelo gosto: o artigo compara só rótulo, preço e número de sabores.",
+        "Você quer pagar menos no whey de entrada: a Hiper 100% Whey, da Probiótica, tem menor custo por 100 g de proteína que o Whey Pro, da Max.",
         "Você espera fórmulas iguais por serem do mesmo grupo: os potes e as tabelas diferem."
       ]
     },
     "pros": [],
     "cons": [],
-    "cta": {
-      "text": "Veja o whey e a creatina da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA no carrinho.",
-      "label": "Ir para a Max Titanium",
-      "url": "https://www.maxtitanium.com.br/",
-      "sponsored": true
-    },
-    "coupon": "MAX10EMCASACOMCECILIA",
-    "affiliate": "max-titanium",
+    "affiliate": [
+      "max-titanium",
+      "probiotica"
+    ],
     "editorialNote": "Podemos receber comissão pela Max Titanium e pela Probiótica, que são do mesmo grupo. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-e-confiavel"
-      },
-      {
-        "slug": "probiotica-e-confiavel"
-      },
-      {
         "slug": "cupom-max-titanium-como-usar"
+      },
+      {
+        "slug": "cupom-probiotica-como-usar"
+      },
+      {
+        "slug": "black-friday-max-titanium"
+      },
+      {
+        "slug": "black-friday-probiotica"
       }
     ]
   },
@@ -105809,7 +106225,7 @@ export const reviewsData: unknown[] = [
     "id": 471,
     "slug": "max-titanium-ou-growth",
     "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço",
-    "seoTitle": "Max Titanium ou Growth: qual whey e qual creatina compensam",
+    "seoTitle": "Max Titanium ou Growth: qual whey e creatina compensam",
     "type": "Comparativo de Suplemento",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -105820,11 +106236,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Pelo preço de tabela, a Growth sai mais barata no whey concentrado, e a Max na creatina, no isolado e no hipercalórico. Veja as contas por dose e o veredito por perfil.",
+    "description": "A Growth sai mais barata no whey concentrado e, no Pix, no isolado; a Max, na creatina de 500 g e no hipercalórico. Veja as contas com o cupom real e o veredito por perfil.",
     "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Growth: whey, creatina e hipercalórico por 100 g de proteína e por 1.000 kcal.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/max-titanium-ou-growth-capa-v2.webp",
@@ -105835,38 +106251,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço de tabela, a Growth sai mais barata no whey concentrado, e a Max, na creatina, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas: o código MAX10EMCASACOMCECILIA dá até 10% OFF, com percentual variável por produto."
-        ]
-      },
-      {
-        "heading": "Como comparamos",
-        "paragraphs": [
-          "A régua é o preço por 100 g de proteína, por grama de creatina e por 1.000 kcal. Esta comparação cobre whey (concentrado e isolado), creatina e hipercalórico da Max Titanium, parceira do site, e da Growth, que não é parceira. Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço de tabela do site, o valor antes do Pix e das promoções do dia, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
-          "Conta nossa, pelos preços de tabela e pelas tabelas nutricionais das lojas, arredondada no centavo:"
-        ],
-        "image": {
-          "src": "/images/reviews/max-titanium/max-titanium-ou-growth-quadro-precos.webp",
-          "alt": "Quadro com o preço no Pix em 18/10/2026: whey por 100 g de proteína, Growth Concentrado R$ 26,34 e Max 100% Whey Refil R$ 30,24; creatina por 100 g, Max 500 g R$ 13,56 (relida em 20/11/2026), Growth refil R$ 14,98 e Max 300 g R$ 18,67; hipercalórico por 1.000 kcal, Max Mass Titanium 3 kg R$ 9,81 e Growth Big Mass Pro 3 kg R$ 15,04",
-          "caption": "O preço de whey, creatina e hipercalórico nas duas lojas, no Pix, nos sites oficiais, sem frete.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "bullets": [
-          "**preço por dose:** preço ÷ porções;",
-          "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
-          "**preço por 100 g de creatina:** preço ÷ gramas do pote × 100;",
-          "**preço por 1.000 kcal:** preço ÷ (porções × kcal por porção) × 1.000."
-        ],
-        "postParagraphs": [
-          "A conta com cupom é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto.",
-          "A série de comparações da Growth tem um texto para cada marca: [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth).",
-          "Sabor, dissolução e digestão ficam de fora: escolha aqui pelo rótulo e pelo preço por dose. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
+          "A Growth sai mais barata no whey concentrado e, no Pix, também no isolado; a Max leva a creatina de 500 g e o hipercalórico. O código MAX10EMCASACOMCECILIA dá até 10% OFF em todas as formas de pagamento, mas no teste de novembro rendeu 2% na maioria dos itens. Veja o [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "No concentrado, a Growth sai mais barata por 100 g de proteína; o 3W é o mais caro da tabela. Preços de 18/10/2026 no cartão, sem o cupom."
+          "No concentrado, a Growth sai mais barata por 100 g de proteína; o 3W é o mais caro da tabela. A conta é o preço ÷ (porções × proteína por porção) × 100."
         ],
         "comparisonTable": {
           "headers": [
@@ -105878,14 +106269,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Max 100% Whey Refil 900 g (WPC)",
+              "[Max 100% Whey Refil 900 g (WPC)](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
               "30 g, 21 g de proteína",
               "30",
               "R$ 196,39",
               "R$ 31,17"
             ],
             [
-              "Max Top Whey 3W + Performance 900 g",
+              "[Max Top Whey 3W + Performance 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
               "40 g, 32 g de proteína",
               "cerca de 23",
               "R$ 273,55",
@@ -105898,10 +106289,11 @@ export const reviewsData: unknown[] = [
               "R$ 222,11",
               "R$ 29,26"
             ]
-          ]
+          ],
+          "caption": "Preços do cartão nos sites oficiais, sem frete nem cupom; os da Max foram conferidos em novembro."
         },
         "postParagraphs": [
-          "No Pix, a Growth continua com menor custo que o 3W nos preços comparados: R$ 26,34 contra R$ 36,85 por 100 g de proteína. Com o cupom da Max no teto, a conta do 3W cai para R$ 33,17, ainda acima da Growth.",
+          "No Pix, a Growth continua abaixo do 3W: R$ 26,34 contra R$ 36,85 por 100 g de proteína. Conta nossa, pelo carrinho de novembro: o cupom deu 2% no Top Whey 3W + Performance, e o 3W cai de R$ 37,99 para R$ 37,23 no cartão, ainda bem acima da Growth.",
           "A dose muda de uma loja para a outra, por isso a conta certa é por 100 g de proteína, e não pelo preço do pote. As porções são as da tabela: a Growth diz \"cerca de 33\" em 1 kg. No 3W, a conta usa 22,5 doses (900 g ÷ 40 g), que dão 720 g de proteína; a tabela arredonda para \"cerca de 23\".",
           "O Top Whey 3W + Performance mistura WPC, isolado e hidrolisado e entrega mais proteína por dose, mas sai mais caro por 100 g de proteína. A comparação da Max com a Probiótica está em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
         ],
@@ -105911,30 +106303,34 @@ export const reviewsData: unknown[] = [
             "alt": "Potes de 100% Whey Refil 900 g e Top Whey 3W + Performance 900 g, da Max Titanium, sabor baunilha",
             "caption": "Os dois wheys da Max Titanium citados na tabela. Imagem: Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o 100% Whey Refil na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Top Whey 3W + Performance na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Whey concentrado: 100% Whey Refil da Max ou Whey Concentrado da Growth",
         "paragraphs": [
-          "No par direto, os dois têm só WPC em dose de 30 g, e a Growth sai mais barata por 100 g. Sem cupom, a Growth sai R$ 3,90 mais barata por 100 g de proteína no Pix (R$ 26,34 contra R$ 30,24). Com o cupom no teto, a Max cai para R$ 27,21, ainda R$ 0,87 acima. No cartão, a diferença fica em R$ 29,26 da Growth contra R$ 31,17 da Max.",
+          "No par direto, os dois têm só WPC em dose de 30 g, e a Growth sai mais barata por 100 g. No Pix, a Growth custa R$ 26,34 e o [100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) da Max, R$ 30,24: R$ 3,90 de diferença. O cupom deu 2% no Refil no teste de novembro, e a Max cai de R$ 31,17 para R$ 30,55 no cartão, ainda R$ 1,29 acima do cartão da Growth (R$ 29,26).",
           "Na Growth, o sabor Natural entrega 1 g a mais de proteína por dose pelo mesmo preço do pote: R$ 25,24 por 100 g no Pix, sem cupom. Quem compra pelo menor custo por grama prefere o Natural."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-100-whey-refil.webp",
-            "alt": "Tabela nutricional do 100% Whey Refil 900 g, sabor baunilha: 30 g por dose, 126 kcal e 21 g de proteína",
-            "caption": "Tabela nutricional do 100% Whey Refil 900 g. Imagem: Max Titanium.",
-            "objectFit": "contain",
-            "aspectRatio": 0.6358
-          }
         ]
       },
       {
         "heading": "Whey isolado: IsoWhey 900 g da Max contra o Whey Isolado da Growth",
         "paragraphs": [
-          "No isolado, a Max ganha no cartão e com cupom; a Growth só passa no Pix sem cupom. A Max tem um isolado, o IsoWhey 900 g, e a Growth tem o (TOP) Whey Protein Isolado 1 kg."
+          "No isolado, a Max ganha no cartão e a Growth ganha no Pix, mesmo com o cupom. A Max tem um isolado, o [IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p), e a Growth tem o (TOP) Whey Protein Isolado 1 kg."
         ],
         "comparisonTable": {
           "headers": [
@@ -105946,7 +106342,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Max IsoWhey 900 g",
+              "[Max IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
               "30 g, 26 g de proteína",
               "30",
               "R$ 326,18",
@@ -105959,28 +106355,37 @@ export const reviewsData: unknown[] = [
               "R$ 388,77",
               "R$ 43,63"
             ]
-          ]
+          ],
+          "caption": "Preços do cartão nos sites oficiais, sem frete nem cupom."
         },
         "postParagraphs": [
-          "No cartão, a Max fica abaixo da Growth. No Pix, a Growth sai um pouco mais barata: R$ 39,27 contra R$ 40,56 por 100 g de proteína. Com o cupom no teto, a conta da Max cai para R$ 36,51 e fica abaixo da Growth. A Growth declara 116 kcal e 2 g de carboidratos por dose; a Max, 118 kcal e 2,3 g, com 0,7 g de açúcares totais. A lista da Growth traz proteína de soro do leite isolada e lecitina, e a página informa derivados de leite e de soja, lactose e ausência de glúten."
+          "No cartão, a Max fica abaixo da Growth. No Pix, a Growth sai mais barata: R$ 39,27 contra R$ 40,56 por 100 g de proteína. O cupom deu 2% no IsoWhey no teste de novembro (R$ 319,66 no carrinho), e a conta da Max cai para R$ 40,98 no cartão: abaixo da Growth no cartão e R$ 1,71 acima dela no Pix. A Growth declara 116 kcal e 2 g de carboidratos por dose; a Max, 118 kcal e 2,3 g, com 0,7 g de açúcares totais. A lista da Growth traz proteína de soro do leite isolada e lecitina, e a página informa derivados de leite e de soja, lactose e ausência de glúten."
         ],
         "images": [
           {
-            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-isowhey.webp",
-            "alt": "Tabela nutricional do IsoWhey 900 g, sabor baunilha: 30 g por dose, 118 kcal e 26 g de proteína",
-            "caption": "Tabela nutricional do IsoWhey 900 g. Imagem: Max Titanium.",
+            "src": "/images/reviews/whey/max-titanium-isowhey.webp",
+            "alt": "Pote de IsoWhey 900 g da Max Titanium",
+            "caption": "IsoWhey 900 g. Imagem: Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 0.5649
+            "aspectRatio": 1,
+            "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o IsoWhey na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Creatina: preço por grama nas duas lojas",
         "paragraphs": [
-          "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de tabela, sem o cupom; os da Growth são de novembro, e os da Max, de outubro."
+          "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de tabela no cartão, sem o cupom."
         ],
         "comparisonTable": {
-          "caption": "O preço da creatina de 500 g da Max (pote e pack) foi relido depois, em novembro; os demais são da leitura original.",
+          "caption": "O preço da creatina de 500 g da Max (pote e pack) foi relido em novembro; os demais são da leitura original.",
           "headers": [
             "Produto",
             "Tamanho e doses",
@@ -105989,19 +106394,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Max Creatina 300 g",
+              "[Max Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
               "300 g, 60 doses",
               "R$ 59,90",
               "R$ 19,97"
             ],
             [
-              "Max Creatina 500 g (pote)",
+              "[Max Creatina 500 g (pote)](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
               "500 g, 100 doses",
               "R$ 69,90",
               "R$ 13,98"
             ],
             [
-              "Max Pack 2 x Creatina 500 g",
+              "[Max Pack 2 x Creatina 500 g](https://www.maxtitanium.com.br/pack-creatina-500g/p)",
               "1 kg, 200 doses",
               "R$ 119,80",
               "R$ 11,98"
@@ -106027,9 +106432,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pelo preço de tabela e sem cupom, o pote de 500 g da Max, a R$ 13,98 por 100 g, é a menor conta por grama, e a Max de 300 g (R$ 19,97) também fica abaixo do refil da Growth (R$ 20,92). O pote de 500 g da Max, no cartão, fica abaixo até do Pix de outubro do refil da Growth (R$ 14,98). O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no carrinho antes de comprar. Com o cupom, o pote de 500 g da Max cai para R$ 12,58 sobre o preço de tabela, e a Max de 300 g (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96 no Pix de outubro), que tem a mesma dose de 5 g.",
-          "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix de outubro). A diferença é de preço, não de dose.",
-          "A creatina 7Belo da Max, com sabor, fica fora desta tabela e aparece contra a gummy da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
+          "Pelo preço de tabela e sem cupom, o pote de 500 g da Max, a R$ 13,98 por 100 g, é a menor conta por grama, e a Max de 300 g (R$ 19,97) também fica abaixo do refil da Growth (R$ 20,92). O pote de 500 g da Max, no cartão, fica abaixo até do Pix de outubro do refil da Growth (R$ 14,98). O cupom deu 2% na creatina no teste de novembro: o pote de 500 g cai para R$ 13,70 e a Max de 300 g, para R$ 19,57. A de 300 g continua acima da Growth de 250 g no Pix de outubro (R$ 17,96), que tem a mesma dose de 5 g. O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no carrinho antes de comprar.",
+          "A Max Titanium também vende a [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p), e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix de outubro). A diferença é de preço, não de dose.",
+          "A [creatina 7Belo](https://www.maxtitanium.com.br/creatina-7belo/p) da Max, com sabor, fica fora desta tabela e aparece contra a gummy da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
         ],
         "images": [
           {
@@ -106037,14 +106442,20 @@ export const reviewsData: unknown[] = [
             "alt": "Potes de creatina monohidratada da Max Titanium, de 300 g e de 500 g",
             "caption": "Os potes de creatina da Max Titanium citados na tabela. Imagem: Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true
           },
           {
-            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-creatina-500g.webp",
-            "alt": "Tabela nutricional da Creatina 500 g da Max Titanium: porção de 5 g, 100 porções por embalagem",
-            "caption": "Tabela nutricional da Creatina 500 g da Max Titanium. Imagem: Max Titanium.",
-            "objectFit": "contain",
-            "aspectRatio": 0.9256
+            "label": "Ver a Creatina Creapure 250 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatina-creapure-250g/p",
+            "sponsored": true
           }
         ]
       },
@@ -106063,7 +106474,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Max Mass Titanium 17500 Refil 1,4 kg (baunilha)",
+              "[Max Mass Titanium 17500 Refil 1,4 kg (baunilha)](https://www.maxtitanium.com.br/mass-titanium-17500-14kg/p)",
               "160 g, cerca de 9, 619 kcal",
               "17 g e 135 g",
               "R$ 69,89",
@@ -106077,7 +106488,7 @@ export const reviewsData: unknown[] = [
               "R$ 16,53"
             ],
             [
-              "Max Mass Titanium 17500 Refil 3 kg (baunilha)",
+              "[Max Mass Titanium 17500 Refil 3 kg (baunilha)](https://www.maxtitanium.com.br/masstitanium3kg/p)",
               "160 g, cerca de 19, 619 kcal",
               "17 g e 135 g",
               "R$ 118,89",
@@ -106090,10 +106501,11 @@ export const reviewsData: unknown[] = [
               "R$ 187,66",
               "R$ 16,71"
             ]
-          ]
+          ],
+          "caption": "Preços do cartão nos sites oficiais, sem frete nem cupom."
         },
         "postParagraphs": [
-          "No Pix, as contas ficam em R$ 12,17 (1,4 kg) e R$ 9,81 (3 kg) na Max e em R$ 14,88 e R$ 15,04 na Growth. Com o cupom no teto, sobre o Pix, a Max cai para R$ 10,95 e R$ 8,82.",
+          "No Pix, as contas ficam em R$ 12,17 (1,4 kg) e R$ 9,81 (3 kg) na Max e em R$ 14,88 e R$ 15,04 na Growth. O cupom deu 2% nos dois refis da Max no teste de novembro: no cartão, a conta cai para R$ 12,30 e R$ 9,91, e a Growth segue acima mesmo no Pix.",
           "As contas são aproximadas, porque cada embalagem informa \"cerca de\" porções. O Mass Titanium declara 11 g de açúcar adicionado por porção, e a loja indica o produto para maiores de 19 anos. O TOP Hipercalórico 1 kg da Growth, fora da tabela, tem 344 kcal por porção de 90,5 g e sai a R$ 20,32 por 1.000 kcal no Pix."
         ],
         "images": [
@@ -106101,14 +106513,20 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/max-titanium/max-titanium-ou-growth-mass-titanium-3kg.webp",
             "alt": "Embalagem do Mass Titanium 17500 Refil 3 kg, sabor baunilha, da Max Titanium",
             "caption": "Mass Titanium 17500 Refil 3 kg. Imagem: Max Titanium.",
-            "objectFit": "square"
+            "objectFit": "square",
+            "href": "https://www.maxtitanium.com.br/masstitanium3kg/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Mass Titanium 17500 Refil 3 kg na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/masstitanium3kg/p",
+            "sponsored": true
           },
           {
-            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-mass-titanium-3kg.webp",
-            "alt": "Tabela nutricional do Mass Titanium 17500 Refil 3 kg, sabor baunilha: porção de 160 g, 619 kcal e 17 g de proteína",
-            "caption": "Tabela nutricional do Mass Titanium 17500 Refil 3 kg. Imagem: Max Titanium.",
-            "objectFit": "contain",
-            "aspectRatio": 0.7536
+            "label": "Ver o Mass Titanium 17500 Refil 1,4 kg na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/mass-titanium-17500-14kg/p",
+            "sponsored": true
           }
         ]
       },
@@ -106118,12 +106536,12 @@ export const reviewsData: unknown[] = [
           "O que muda na lista de cada produto, pelas páginas das lojas:"
         ],
         "bullets": [
-          "**Max 100% Whey Refil:** proteína concentrada do soro do leite (WPC), aromatizante, emulsificante lecitina de soja e sucralose. A loja informa que não contém glúten.",
-          "**Max Top Whey 3W + Performance:** WPC, proteína isolada (WPI) e hidrolisada (WPH). A página informa que contém lactose.",
+          "[Max 100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p): proteína concentrada do soro do leite (WPC), aromatizante, emulsificante lecitina de soja e sucralose. A loja informa que não contém glúten.",
+          "[Max Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p): WPC, proteína isolada (WPI) e hidrolisada (WPH). A página informa que contém lactose.",
           "**Growth Whey Concentrado (sabor Natural):** proteína concentrada do soro do leite e lecitina. A página informa derivados de soja e de leite, lactose e ausência de glúten.",
-          "**Max Creatina 300 g:** creatina monohidratada e dióxido de silício como antiumectante. A Creatina Creapure 250 g da Max traz só creatina monohidratada, sem glúten.",
+          "[Max Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p): creatina monohidratada e dióxido de silício como antiumectante. A [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p) da Max traz só creatina monohidratada, sem glúten.",
           "**Growth creatinas:** só creatina monohidratada; a Growth informa que não contém glúten.",
-          "**Max Mass Titanium 17500:** maltodextrina, WPC, albumina (clara de ovo), colágeno hidrolisado e sucralose. A loja informa que não contém glúten e indica o produto para maiores de 19 anos.",
+          "[Max Mass Titanium 17500](https://www.maxtitanium.com.br/masstitanium3kg/p): maltodextrina, WPC, albumina (clara de ovo), colágeno hidrolisado e sucralose. A loja informa que não contém glúten e indica o produto para maiores de 19 anos.",
           "**Growth Big Mass Pro:** amido de milho, WPC, cacau, maltodextrina, L-leucina, L-glutamina, creatina monohidratada, L-isoleucina, L-valina, aroma, sucralose e dióxido de silício. Contém leite e lactose; sem glúten. Diferente do Mass Titanium, a lista da Big Mass Pro traz creatina monohidratada.",
           "**Growth Hiper Mass:** amido de milho, WPC, clara de ovo, colágeno hidrolisado, cacau, aroma, sucralose e acessulfame, dióxido de silício. Contém leite, ovo e soja; lactose; sem glúten."
         ],
@@ -106142,7 +106560,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Cupom",
-              "MAX10EMCASACOMCECILIA: até 10%, com o percentual variando por produto",
+              "MAX10EMCASACOMCECILIA: até 10% OFF; no teste de novembro, 2% na maioria dos itens e 8,9% em alguns",
               "nenhum cupom nosso"
             ],
             [
@@ -106152,7 +106570,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Pagamento",
-              "Pix e cartão; o parcelamento depende do produto",
+              "Todas as formas de pagamento; o site anuncia Pix e boleto com até 5% de desconto (cerca de 3% nos produtos desta comparação) e parcelamento que varia por produto",
               "Pix e boleto abaixo do preço de tabela, em valor que varia com as promoções da loja"
             ],
             [
@@ -106163,32 +106581,47 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom vale com todas as formas de pagamento e soma com as promoções do site. Num Top Whey 3W Mais Sabor 900 g, a R$ 189,00 em outubro, o cupom deu R$ 16,75 de desconto (8,9%). Por isso o texto diz \"até 10%\": o teto é o que a conta com cupom mostra, e o carrinho mostra quanto cada item recebeu. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na página do [cupom Max Titanium](/cupons/max-titanium).",
+          "O MAX10EMCASACOMCECILIA vale no site oficial e no aplicativo da Max, em todas as formas de pagamento, e soma com as promoções do site. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. O desconto aparece na linha “Descontos” do resumo.",
+          "No teste de novembro, o cupom ligou duas promoções da loja: 2% em produtos selecionados, em todos os itens testados, e mais 7% em alguns, o que dá 8,9% no [Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p). Todos os itens desta comparação que entraram no teste deram 2%. Por isso o texto diz “até 10%” e as contas usam o percentual de cada item; item fora do teste tem desconto que varia por produto e aparece no carrinho. As contas com cupom partem do preço do cartão, a base em que o carrinho o mediu; o Pix e o cupom juntos não foram medidos. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na página do [cupom Max Titanium](/cupons/max-titanium).",
           "Os valores de frete são os das políticas publicadas pelas lojas. O frete grátis é calculado no carrinho. Preço e estoque mudam: confira no carrinho."
         ]
       },
       {
         "heading": "Para quem cada um faz sentido",
-        "emphasis": "Pelos preços de tabela, para quem compra whey concentrado a escolha é a Growth, e na creatina a Max ganha por 100 g sem cupom.",
+        "emphasis": "Pelos números da tabela, a Growth ganha no whey concentrado e, no Pix, também no isolado; a Max ganha no hipercalórico e na creatina de 500 g, com ou sem cupom.",
         "bullets": [
-          "**Quer o menor preço por 100 g de proteína no whey concentrado:** a Growth Whey Concentrado 1 kg, a R$ 26,34 no Pix, sem cupom. A Max chega perto com o cupom (R$ 27,21), mas não passa a Growth.",
-          "**Quer o whey de soro do leite que é o par direto da Growth:** o 100% Whey Refil da Max, que com o cupom fica a R$ 27,21 por 100 g de proteína, contra R$ 26,34 da Growth sem cupom.",
-          "**Quer isolado e vai usar o cupom:** o IsoWhey 900 g da Max, a R$ 36,51 por 100 g de proteína com o cupom, contra R$ 39,27 da Growth no Pix.",
-          "**Quer a menor conta por grama de creatina:** o pote de 500 g da Max, a R$ 13,98 por 100 g no preço de tabela, abaixo até do Pix de outubro do refil da Growth (R$ 14,98). Com o cupom, cai para R$ 12,58.",
-          "**Quer creatina com o selo Creapure declarado pela loja:** a Creatina Creapure 250 g da Max, a R$ 54,28 por 100 g no Pix. É a mais cara das creatinas desta comparação.",
-          "**Quer hipercalórico pelo preço por caloria:** o Mass Titanium 17500 Refil 3 kg, a R$ 9,81 por 1.000 kcal no Pix (R$ 8,82 com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
+          "**Quer o menor preço por 100 g de proteína no whey concentrado:** a Growth Whey Concentrado 1 kg, a R$ 26,34 no Pix, sem cupom. Com o cupom (2%), o Refil da Max sai a R$ 30,55 no cartão, acima do cartão da Growth (R$ 29,26).",
+          "**Quer o whey de soro do leite que é o par direto da Growth:** o [100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) da Max, a R$ 30,24 no Pix, contra R$ 26,34 da Growth.",
+          "**Quer isolado e paga no Pix:** a Growth, a R$ 39,27 por 100 g de proteína, contra R$ 40,56 do [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) no Pix e R$ 40,98 no cartão com o cupom.",
+          "**Quer isolado e paga no cartão:** o IsoWhey 900 g da Max, a R$ 41,82 por 100 g de proteína (R$ 40,98 com o cupom), contra R$ 43,63 da Growth.",
+          "**Quer a menor conta por grama de creatina:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p) da Max, a R$ 13,98 por 100 g no preço de tabela, abaixo até do Pix de outubro do refil da Growth (R$ 14,98). Com o cupom, cai para R$ 13,70.",
+          "**Quer creatina com o selo Creapure declarado pela loja:** a [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p) da Max, a R$ 54,28 por 100 g no Pix. É a mais cara das creatinas desta comparação.",
+          "**Quer hipercalórico pelo preço por caloria:** o [Mass Titanium 17500 Refil 3 kg](https://www.maxtitanium.com.br/masstitanium3kg/p), a R$ 9,81 por 1.000 kcal no Pix (R$ 9,91 no cartão com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
           "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 11% mais caro que o Pix. Na Max, a diferença é menor, de cerca de 3%."
         ],
         "postParagraphs": [
-          "Os preços são de outubro e mudam: compare as duas lojas no mesmo dia antes de comprar. Se a comparação for com outra marca, há os textos [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium) e [Black Skull ou Growth](/reviews/black-skull-ou-growth).",
-          "O Top Whey 3W Mais Sabor da Max, que fica fora desta comparação, aparece contra o 3W da Growth em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
+          "Os preços são de outubro e novembro e mudam: compare as duas lojas no mesmo dia antes de comprar. Sabor, dissolução e digestão ficam fora da conta; dúvida de dose ou de saúde vai para o médico ou o nutricionista.",
+          "Para comparar com outra marca, há os textos [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium), [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth). O Top Whey 3W Mais Sabor da Max, que fica fora desta comparação, aparece contra o 3W da Growth em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
+        ],
+        "links": [
+          {
+            "label": "Ver o whey da Max Titanium: 100% Whey Refil",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Max Titanium ou Growth: qual é melhor? Depende do produto. Pelo preço de tabela e sem cupom, a Growth tem o whey concentrado mais barato por grama de proteína; a Max leva a creatina, o isolado e o hipercalórico nos dois tamanhos.",
-          "O cupom da Max vale na creatina? Vale. O cupom dá até 10% em produtos do site oficial, e o percentual varia por item. A conta com cupom deste texto é o teto.",
+          "Max Titanium ou Growth: qual é melhor? Depende do produto e da forma de pagamento. A Growth tem o whey concentrado mais barato por grama de proteína e o isolado mais barato no Pix; a Max leva a creatina de 500 g, o hipercalórico e o isolado no cartão.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium).",
+          "O cupom da Max vale na creatina? Vale. No teste de novembro, deu 2% na creatina; o percentual varia por produto, e o carrinho mostra o desconto de cada item.",
           "A Growth tem cupom? Não oferecemos cupom da Growth: ela não é parceira do site, então não há cupom nem link de afiliado dela aqui.",
           "A Max tem creatina Creapure? Sim. A Creatina Creapure 250 g traz o selo declarado pela loja. A página da Growth não declara o selo.",
           "Vale esperar a Black Friday? O cupom vale hoje e soma com as promoções do site. Quando começa a Black Friday da Max e o que soma com o cupom estão no guia da [Black Friday Max Titanium](/reviews/black-friday-max-titanium)."
@@ -106197,13 +106630,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve a Growth se você quer whey concentrado pelo menor preço por grama de proteína.",
-        "Leve a Max se você quer creatina pelo menor preço por grama ou hipercalórico pelo menor preço por caloria.",
-        "Leve o IsoWhey da Max se você compra isolado e vai usar o cupom."
+        "Leve a Growth se você quer whey concentrado, ou isolado pago no Pix, pelo menor preço por grama de proteína.",
+        "Leve a Max se você quer creatina de 500 g pelo menor preço por grama ou hipercalórico pelo menor preço por caloria.",
+        "Leve o IsoWhey da Max se você vai pagar no cartão: com o cupom, ele sai abaixo do isolado da Growth no cartão."
       ],
       "skipIf": [
         "Passe no Top Whey 3W se o preço por grama de proteína decide: ele é o mais caro da tabela.",
-        "Passe na Growth no cartão se a sua compra for de whey isolado ou hipercalórico: nessas categorias a Max no cartão tem custo menor por proteína ou caloria.",
+        "Passe no IsoWhey da Max se você paga no Pix: a Growth fica abaixo dele mesmo com o cupom.",
         "Passe na Creapure da Max se o preço por grama decide: é a mais cara das creatinas."
       ]
     },
@@ -106217,7 +106650,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAX10EMCASACOMCECILIA",
     "affiliate": "max-titanium",
-    "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Max Titanium; a Growth não é parceira. Não provamos os produtos.",
+    "editorialNote": "Podemos receber comissão pela Max Titanium; a Growth não é parceira. Ninguém da equipe usou os produtos.",
     "relatedArticles": [
       {
         "slug": "max-titanium-ou-probiotica"
@@ -120827,7 +121260,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Max Titanium ou Dux, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: whey, creatina, multivitamínico e pré-treino por proteína, por dia e por dose.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/max-titanium-ou-dux-capa-v2.webp",
@@ -120838,38 +121271,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço no cartão, a Max sai mais barata no whey, na creatina e no pré-treino, e a Dux, no multivitamínico. Pix e cupom mudam as contas: o código MAX10EMCASACOMCECILIA dá até 10% OFF na Max, e o percentual varia por produto."
-        ]
-      },
-      {
-        "heading": "Como comparamos",
-        "paragraphs": [
-          "Esta comparação cobre whey, creatina, multivitamínico e pré-treino da Max Titanium, parceira do site, e da Dux, que não é parceira. Comparamos o que as duas lojas publicam: a tabela nutricional de cada produto, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são os dos sites oficiais, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No Pix, a Dux fica 5% abaixo do cartão, e a Max, cerca de 3% nos produtos comparados.",
-          "A série contra a Dux tem outros dois textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth).",
-          "As contas são estas, arredondadas no centavo:"
-        ],
-        "image": {
-          "src": "/images/reviews/max-titanium/max-titanium-ou-dux-quadro-precos.webp",
-          "alt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Max 100% Whey Refil R$ 30,24 e IsoWhey R$ 40,56, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Max 500 g R$ 13,56 (relida em 20/11/2026) e 300 g R$ 18,67, Dux 300 g R$ 20,55 e 600 g R$ 21,83",
-          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "bullets": [
-          "**preço por dose:** preço ÷ número de doses do pote;",
-          "**preço por 100 g de proteína:** preço ÷ (doses × proteína por dose) × 100;",
-          "**preço por 100 g de creatina:** preço ÷ gramas do pote × 100;",
-          "**preço por dia:** preço ÷ dias que o pote dura, no multivitamínico."
-        ],
-        "postParagraphs": [
-          "A conta com cupom é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto. Pelo preço do pote, a comparação engana: a dose da Max é de 30 g no Refil e de 40 g no 3W, e a da Dux, de 30 g. O preço por 100 g de proteína iguala essas diferenças.",
-          "Sabor, dissolução e digestão ficam fora deste texto, que usa só rótulo, preço e regras de compra. Quem tem alguma condição de saúde ou dúvida sobre suplemento deve falar antes com o médico ou o nutricionista."
+          "Pelo preço no cartão, a Max sai mais barata no whey, na creatina e no pré-treino, e a Dux, no multivitamínico. O código MAX10EMCASACOMCECILIA dá até 10% OFF na Max em todas as formas de pagamento, mas rendeu 2% nos wheys e nas creatinas no teste de novembro. Veja o [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "No whey, a Max sai mais barata por 100 g de proteína nos três pares. Preços de 20/10/2026 no cartão, sem o cupom; o pote de 1,8 kg da Dux entra como linha extra."
+          "No whey, a Max sai mais barata por 100 g de proteína nos três pares; o pote de 1,8 kg da Dux entra como linha extra. Pelo preço do pote a comparação engana: a dose da Max é de 30 g no Refil e de 40 g no 3W, e a da Dux, de 30 g. A conta é o preço ÷ (doses × proteína por dose) × 100, no cartão. No Pix, a Dux fica 5% abaixo do cartão, e a Max, cerca de 3% nos produtos comparados."
         ],
         "comparisonTable": {
           "headers": [
@@ -120929,18 +121337,26 @@ export const reviewsData: unknown[] = [
               "R$ 647,90",
               "R$ 53,99"
             ]
-          ]
+          ],
+          "caption": "Preços do cartão nos sites oficiais, sem frete nem cupom; os da Dux são da leitura de outubro e os da Max foram conferidos em novembro."
         },
         "postParagraphs": [
           "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. No 3W, a conta usa 22,5 doses (900 g ÷ 40 g), que dão 720 g de proteína; a tabela arredonda para \"cerca de 23\". WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada.",
-          "No Pix, o Refil sai a R$ 30,24 por 100 g de proteína, e o concentrado de 900 g da Dux, a R$ 58,41. Com o cupom no teto, sobre o Pix, o Refil cai para R$ 27,21, o 3W, para R$ 33,17, e o IsoWhey, para R$ 36,51."
+          "No Pix, o Refil sai a R$ 30,24 por 100 g de proteína, e o concentrado de 900 g da Dux, a R$ 58,41. Conta nossa, pelo carrinho de novembro: o cupom deu 2% no Refil, no 3W Performance e no IsoWhey, e no cartão o Refil cai de R$ 31,17 para R$ 30,55, o 3W, de R$ 37,99 para R$ 37,23, e o IsoWhey, de R$ 41,82 para R$ 40,98."
+        ],
+        "links": [
+          {
+            "label": "Ver o 100% Whey Refil na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Whey concentrado: 100% Whey Refil ou Whey Concentrado de 900 g",
         "paragraphs": [
           "Os dois são só proteína concentrada do soro do leite. A dose do [Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) tem 21 g de proteína em 30 g de pó, segundo o rótulo da Max. A do concentrado da Dux tem 20 g em 30 g. Pelo Pix, o Refil sai a R$ 30,24 por 100 g de proteína, e o concentrado da Dux, a R$ 58,41: a diferença é de 48%.",
-          "Com o cupom no teto, o Refil fica ainda abaixo do valor do Pix, e no cartão a diferença para a Dux continua grande, como mostra a tabela acima.",
+          "O cupom deu 2% no Refil no teste de novembro: R$ 30,55 por 100 g de proteína no cartão, contra R$ 61,48 do concentrado da Dux no cartão.",
           "O Refil leva aromatizante, lecitina de soja e sucralose. O concentrado da Dux leva sucralose e acessulfame de potássio, e a página da Dux diz que ele é \"sem blends ou adição de outras proteínas\"."
         ],
         "images": [
@@ -120949,7 +121365,8 @@ export const reviewsData: unknown[] = [
             "alt": "Potes de 100% Whey Refil 900 g e Top Whey 3W + Performance 900 g, da Max Titanium, sabor baunilha",
             "caption": "Os dois wheys da Max Titanium citados na tabela. Imagem: Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p"
           }
         ]
       },
@@ -120963,9 +121380,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey isolado: IsoWhey ou Whey Protein Isolado da Dux",
         "paragraphs": [
-          "O [IsoWhey de 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) tem 26 g de proteína por dose, em 30 doses. Pelo Pix, sai a R$ 40,56 por 100 g de proteína, e R$ 36,51 com o cupom no teto. A lista de ingredientes do sabor Baunilha diz que ele não contém glúten.",
+          "O [IsoWhey de 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) tem 26 g de proteína por dose, em 30 doses. Pelo Pix, sai a R$ 40,56 por 100 g de proteína, e R$ 40,98 no cartão com o cupom (2% no teste de novembro; R$ 41,82 sem ele). A lista de ingredientes do sabor Baunilha diz que ele não contém glúten.",
           "O Whey Protein Isolado de 900 g da Dux declara 24 g de proteína por dose, com porções de 29 g a 30 g conforme o sabor. A conta usa 30 g, o que dá 720 g de proteína no pote. Assim, sai a R$ 74,01 por 100 g no Pix, e R$ 77,90 no cartão. A diferença é de 45% no Pix. A página da Dux não declara o número de doses do isolado.",
           "A tabela da página do isolado da Dux traz \"contém glúten\" para os sabores. Confira o rótulo do pote antes de comprar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/whey/max-titanium-isowhey.webp",
+            "alt": "Pote de IsoWhey 900 g da Max Titanium",
+            "caption": "IsoWhey 900 g. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o IsoWhey na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -120996,11 +121430,12 @@ export const reviewsData: unknown[] = [
             "alt": "Potes de creatina monohidratada da Max Titanium, de 300 g e de 500 g",
             "caption": "Os potes de creatina da Max Titanium citados na tabela. Imagem: Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p"
           }
         ],
         "comparisonTable": {
-          "caption": "O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original.",
+          "caption": "Preços do cartão; o preço da creatina de 500 g da Max foi relido em novembro, e os demais são da leitura original.",
           "headers": [
             "Produto",
             "Doses de 5 g",
@@ -121036,14 +121471,26 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A [creatina de 300 g da Max](https://www.maxtitanium.com.br/creatina-pote-300g/p) fica 9% abaixo da Dux de 300 g por grama, no Pix: R$ 18,67 contra R$ 20,55. O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p) fica 39% abaixo do de 600 g da Dux no cartão: R$ 13,98 contra R$ 22,98. O pote de 500 g da Max é o mais barato desta tabela por grama, com ou sem cupom.",
-          "Com o cupom no teto, sobre o Pix, a Max de 300 g cai para R$ 16,81 por 100 g, e a de 500 g, sobre o preço do cartão, para R$ 12,58."
+          "O cupom deu 2% na creatina no teste de novembro: no cartão, a Max de 300 g cai de R$ 19,97 para R$ 19,57 por 100 g, e a de 500 g, de R$ 13,98 para R$ 13,70. As duas seguem abaixo da Dux no cartão."
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Creatina 300 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatina-pote-300g/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Creapure contra Creapure",
         "paragraphs": [
           "As duas lojas declaram o selo Creapure. A [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) tem dose de 5 g e 50 doses. A Dux vende a linha 100% Creapure de 300 g, com dose de 3 g, meio dosador, e 100 doses. A página da Dux diz que a creatina é \"100% Creapure\" e tem matéria-prima alemã.",
-          "Pelo Pix, a [Creapure da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) sai a R$ 54,28 por 100 g, e a da Dux, a R$ 87,05. A diferença por grama é de 38%. Com o cupom no teto, a da Max cai para R$ 48,85. Por dose, a da Dux fica R$ 0,10 abaixo: R$ 2,61 contra R$ 2,71 no Pix, porque a dose dela é menor. A conta por grama não depende da dose, e por isso ela é a comparação que vale.",
+          "Pelo Pix, a [Creapure da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) sai a R$ 54,28 por 100 g, e a da Dux, a R$ 87,05. A diferença por grama é de 38%. O cupom deu 2% na Creapure no teste de novembro: R$ 54,84 por 100 g no cartão, contra R$ 55,96 sem ele. Por dose, a da Dux fica R$ 0,10 abaixo: R$ 2,61 contra R$ 2,71 no Pix, porque a dose dela é menor. A conta por grama não depende da dose, e por isso ela é a comparação que vale.",
           "A tabela da Dux traz a linha \"contém glúten\" na creatina Creapure. Confira o rótulo."
         ]
       },
@@ -121058,7 +121505,8 @@ export const reviewsData: unknown[] = [
             "alt": "Embalagens da Max Titanium: o pote do Multimax Complex de 90 cápsulas e o pote do pré-treino Shook de 300 g, sabor uva",
             "caption": "Multimax Complex de 90 cápsulas e pré-treino Shook de 300 g, sabor uva, nas fotos do site da Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p"
           }
         ],
         "comparisonTable": {
@@ -121087,8 +121535,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Preços no cartão. No Pix, o [Multimax](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p) sai a R$ 1,85 por dia (R$ 1,66 com o cupom no teto), e o da Dux, a R$ 0,84.",
+          "Preços no cartão. No Pix, o [Multimax](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p) sai a R$ 1,85 por dia, e o da Dux, a R$ 0,84. O Multimax estava sem estoque no site na última conferência, e o desconto do cupom nele não foi testado: confira os dois no carrinho.",
           "Uma cápsula da Dux chega a 100% do valor diário de vitamina A, D e C, pela tabela da página. A Max pede três cápsulas para chegar aos percentuais da tabela dela. A tabela da Max traz mais minerais, como cálcio, magnésio e fósforo. A tabela da Dux traz cinco minerais: cobre, cromo, ferro, selênio e zinco."
+        ],
+        "links": [
+          {
+            "label": "Ver o Multimax Complex na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -121130,22 +121585,21 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Preços no cartão. O sabor Uva do Shook está disponível no site; o Manga e Pêssego estava sem estoque no dia.",
-          "No Pix, o Shook sai a R$ 2,81 por dose (R$ 2,52 com o cupom no teto), o Pre Workout Original, a R$ 6,41, e o Stim Free, a R$ 5,68. A tabela e a lista de ingredientes do Stim Free não informam cafeína; quem precisa evitá-la deve confirmar no rótulo e com o fabricante antes da escolha."
+          "No Pix, o Shook sai a R$ 2,81 por dose, o Pre Workout Original, a R$ 6,41, e o Stim Free, a R$ 5,68. O Shook não entrou no teste do cupom: o desconto dele aparece no carrinho. A tabela e a lista de ingredientes do Stim Free não informam cafeína; quem precisa evitá-la deve confirmar no rótulo e com o fabricante antes da escolha."
         ],
-        "images": [
+        "links": [
           {
-            "src": "/images/reviews/max-titanium/max-titanium-ou-dux-multivitaminico-e-pre-treino.webp",
-            "alt": "Barras com o preço no Pix: multivitamínico por dia, Dux R$ 0,84 e Max Multimax Complex R$ 1,85 (R$ 1,66 com cupom); pré-treino por dose, Max Shook R$ 2,81, Dux Stim Free R$ 5,68 e Dux Pre Workout Original R$ 6,41",
-            "caption": "Multivitamínico por dia e pré-treino por dose, no Pix, com os preços das páginas oficiais.",
-            "objectFit": "contain",
-            "aspectRatio": 2.1053
+            "label": "Ver o Shook Uva na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Cupom, frete e pagamento",
         "paragraphs": [
-          "O cupom MAX10EMCASACOMCECILIA dá até 10% na Max, e o percentual varia por produto. Num [Top Whey 3W 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) que estava em promoção, por R$ 189,00 no dia, o cupom deu R$ 16,75 de desconto, ou 8,9%, em checkout de 14/10/2026. Por isso a conta com cupom usa 10% como teto."
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max, no site oficial e no aplicativo, em todas as formas de pagamento, e o percentual varia por produto. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. O desconto aparece na linha “Descontos” do resumo.",
+          "No teste de novembro, o cupom ligou duas promoções da loja: 2% em produtos selecionados, em todos os itens testados, e mais 7% em alguns, o que dá 8,9% no [Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p). Os wheys, as creatinas e a Creapure desta comparação deram 2%; o Multimax e o Shook ficaram fora do teste, e o desconto deles aparece no carrinho."
         ],
         "comparisonTable": {
           "headers": [
@@ -121156,7 +121610,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Cupom",
-              "MAX10EMCASACOMCECILIA: até 10%, o percentual varia por produto",
+              "MAX10EMCASACOMCECILIA: até 10% OFF; no teste de novembro, 2% na maioria dos itens e 8,9% em alguns",
               "Nenhum cupom nosso"
             ],
             [
@@ -121177,7 +121631,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom vale com todas as formas de pagamento e soma com as promoções do site, segundo a página da loja. O código e as regras estão na página do [cupom Max Titanium](/cupons/max-titanium). A Dux não tem cupom nosso: o desconto de 5% no Pix é da própria página da Dux."
+          "O cupom soma com as promoções do site. As contas com cupom partem do preço do cartão, a base em que o carrinho o mediu; o Pix e o cupom juntos não foram medidos. O código e as regras estão na página do [cupom Max Titanium](/cupons/max-titanium). A Dux não tem cupom nosso: o desconto de 5% no Pix é da própria página da Dux."
         ]
       },
       {
@@ -121199,12 +121653,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escolhe o quê",
         "emphasis": "Pelos números da tabela, para whey, creatina e pré-treino pelo menor preço a escolha é a Max, porque ela sai mais barata por grama e por dose; para multivitamínico pelo menor custo por dia, a escolha é a Dux.",
-        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
         ],
         "bullets": [
-          "Quer o menor preço por 100 g de proteína no whey: o [100% Whey Refil 900 g da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p), a R$ 30,24 no Pix, ou R$ 27,21 com o cupom no teto.",
+          "Quer o menor preço por 100 g de proteína no whey: o [100% Whey Refil 900 g da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p), a R$ 30,24 no Pix e a R$ 30,55 no cartão com o cupom.",
           "Quer whey de três proteínas, com 40 g por dose: o [Top Whey 3W + Performance 900 g da Max](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p), a R$ 36,85 por 100 g no Pix. Quer o mesmo tipo de proteína com adoçante de stévia e taumatina: o FreshWhey da Dux, a R$ 72,19.",
           "Quer isolado: o [IsoWhey 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) sai a R$ 40,56 por 100 g no Pix, contra R$ 74,01 do isolado da Dux.",
           "Quer a creatina mais barata por grama: o [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 13,98 por 100 g no cartão. Quer creatina com o selo Creapure: a [Creatina Creapure 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 54,28 por 100 g no Pix, contra R$ 87,05 da Dux.",
@@ -121212,19 +121665,33 @@ export const reviewsData: unknown[] = [
           "Quer comparar pré-treino por custo da dose: o [Shook Uva da Max](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p) sai a R$ 2,81 no Pix, com 200 mg de cafeína por dose. O Stim Free da Dux sai a R$ 5,68. Se o critério é evitar cafeína, confirme a informação no rótulo e com o fabricante; o preço não resolve essa escolha."
         ],
         "postParagraphs": [
-          "Se o preço mudar, a conta muda. Refaça as contas com o preço do dia antes de comprar."
+          "Se o preço mudar, a conta muda. Refaça as contas com o preço do dia antes de comprar. Sabor, dissolução e digestão ficam fora deste texto; dúvida de dose ou de saúde vai para o médico ou o nutricionista.",
+          "A série contra a Dux tem outros dois textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
+        ],
+        "links": [
+          {
+            "label": "Ver o 100% Whey Refil na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Max Titanium ou Dux: qual é melhor? Depende da linha. Whey e creatina saem mais baratos na Max. O multivitamínico por dia sai mais barato na Dux, e o FreshWhey tem o adoçante que a Max não usa nesses produtos.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium).",
           "Qual é o whey mais barato por 100 g de proteína? O [100% Whey Refil da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p); os valores no Pix e com cupom estão no capítulo de whey concentrado. O Whey Protein Concentrado de 900 g da Dux sai a R$ 58,41 no Pix.",
           "Qual é a creatina mais barata? O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 13,98 por 100 g no cartão. Entre as monohidratadas da Dux, a de 600 g sai a R$ 22,98 por 100 g no cartão.",
           "A Dux é boa marca? Esta comparação responde só pelo rótulo, pela fórmula que a Dux declara e pelo preço. A Dux diz que o concentrado é \"sem blends ou adição de outras proteínas\", com 20 g de proteína em 30 g. O de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
           "A Dux tem cupom? Não oferecemos cupom da Dux: ela não é parceira do site, e o MAX10EMCASACOMCECILIA vale só na Max.",
           "A Dux tem Creapure? A Dux diz que a linha 100% Creapure usa creatina Creapure. A Max também declara o selo na [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p).",
-          "O cupom da Max vale no Pix? A página da loja diz que o cupom vale com todas as formas de pagamento. A conta com cupom deste texto é o teto: 10% sobre o preço do Pix.",
+          "O cupom da Max vale em todas as formas de pagamento? Vale, segundo a página da loja. A conta com cupom deste texto usa o percentual medido no carrinho, sobre o preço do cartão.",
           "Os preços valem hoje? Eles mudam com as promoções. Confira no site de cada loja antes de comprar."
         ]
       }
@@ -121249,7 +121716,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAX10EMCASACOMCECILIA",
     "affiliate": "max-titanium",
-    "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Max Titanium; a Dux não é parceira. Não provamos os produtos.",
+    "editorialNote": "Podemos receber comissão pela Max Titanium; a Dux não é parceira. Ninguém da equipe usou os produtos.",
     "relatedArticles": [
       {
         "slug": "max-titanium-ou-growth"
@@ -139797,7 +140264,7 @@ export const reviewsData: unknown[] = [
     "description": "Cinco marcas de whey comparadas pelo preço com o código, pela proteína por porção e pela embalagem: concentrado, isolado, zero lactose, pote de 450 g e sachê.",
     "metaDescription": "CECILIA10 na Black Skull e mais quatro códigos: whey de cinco marcas comparado por preço com cupom, proteína por porção, lactose e embalagem.",
     "publishedAt": "23 de outubro de 2026",
-    "updatedAt": "2026-11-10",
+    "updatedAt": "2026-11-22",
     "publishedAtISO": "2026-10-23",
     "draft": false,
     "isNew": false,
@@ -139833,19 +140300,19 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Resposta rápida: qual whey comprar",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Para gastar menos por proteína, comece pelo 80% HD da Black Skull com o CECILIA10. Sem lactose, só o Pure Whey Zero Lactose da Probiótica declara isso no rótulo; no isolado, compare o IsoWhey da Max com o Iso Pro da Probiótica. A Dr. Peanut entra pelo amendoim, e a Mais Mu, pelo pote de 450 g e pelos sachês."
+          "Para gastar menos por proteína, comece pelo 80% HD da Black Skull com o CECILIA10 ([cupom Black Skull](/cupons/black-skull)). Sem lactose, só o Pure Whey Zero Lactose da Probiótica declara isso; no isolado, compare o IsoWhey da Max com o Iso Pro da Probiótica. A Dr. Peanut entra pelo amendoim; a Mais Mu, pelo pote de 450 g e pelos sachês."
         ]
       },
       {
         "heading": "Melhor whey custo-benefício: os concentrados em refil",
         "paragraphs": [
-          "O 80% HD da Black Skull é o concentrado que custa menos por proteína nesta seleção: 23 g de proteína em cada porção de 30 g e, com o CECILIA10, R$ 20,86 por 100 g de proteína. No sabor Banana, mais barato na página, a conta cai para R$ 18,25. A proteína é só concentrado do soro (WPC), e o produto contém lactose.",
+          "O 80% HD da Black Skull é o concentrado que custa menos por proteína nesta seleção: 23 g de proteína em cada porção de 30 g e, com o CECILIA10, R$ 18,25 por 100 g de proteína. A proteína é só concentrado do soro (WPC), e o produto contém lactose.",
           "O refil costuma sair mais barato que o pote da mesma linha, então compare os dois antes de pagar pela embalagem rígida. Na Max, o refil do 100% Whey custa R$ 14,00 a menos que o pote; na Probiótica, o refil do 100% Pure Whey custa R$ 16,84 a menos."
         ],
         "comparisonTable": {
-          "caption": "Preços lidos nos sites oficiais em 10/11/2026. Black Skull, Dr. Peanut e Mais Mu: preço com o código, que dá 10%. Max Titanium e Probiótica: preço da página, porque o código delas dá até 10% e o percentual muda de produto para produto. Por 100 g de proteína: conta nossa, com a porção e a proteína da tabela nutricional.",
+          "caption": "Preços lidos nos sites oficiais em 22/11/2026. Black Skull, Dr. Peanut e Mais Mu: preço com o código, que dá 10%. Max Titanium e Probiótica: preço da página, porque o código delas dá até 10% e o percentual muda de produto para produto. Por 100 g de proteína: conta nossa, com a porção e a proteína da tabela nutricional.",
           "headers": [
             "Produto",
             "Proteína por porção",
@@ -139856,8 +140323,8 @@ export const reviewsData: unknown[] = [
             [
               "[Black Skull 80% HD, refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
               "23 g em 30 g",
-              "R$ 143,91 com CECILIA10",
-              "R$ 20,86"
+              "R$ 125,91 com CECILIA10",
+              "R$ 18,25"
             ],
             [
               "[Max Titanium 100% Whey, refil 900 g](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
@@ -139877,11 +140344,21 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/whey/black-skull-80-hd-refil.webp",
           "alt": "Embalagem refil preta de 900 g do Whey 80% HD da Black Skull, com a caveira da marca atrás do nome do produto e o selo de 23 g de proteína por dose",
           "caption": "Foto oficial da Black Skull.",
+          "href": "https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p",
+          "store": "black-skull",
           "objectFit": "square",
           "aspectRatio": 1
         },
         "postParagraphs": [
           "Os outros wheys da marca, um a um, estão no [guia dos wheys da Black Skull](/reviews/whey-black-skull-qual-escolher)."
+        ],
+        "links": [
+          {
+            "label": "Ver o Whey 80% HD na Black Skull",
+            "href": "https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p",
+            "sponsored": true,
+            "store": "black-skull"
+          }
         ]
       },
       {
@@ -139923,9 +140400,19 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/whey/probiotica-100-pure-whey-baunilha.webp",
           "alt": "Pote azul de 900 g do 100% Pure Whey da Probiótica, sabor Baunilha, de frente",
           "caption": "Foto oficial da Probiótica.",
+          "href": "https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "store": "probiotica",
           "objectFit": "contain",
           "aspectRatio": 0.588
-        }
+        },
+        "links": [
+          {
+            "label": "Ver o Hiper 100% Whey na Probiótica",
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true,
+            "store": "probiotica"
+          }
+        ]
       },
       {
         "heading": "Melhor whey zero lactose",
@@ -139941,11 +140428,21 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/whey/probiotica-pure-whey-zero-lactose.webp",
           "alt": "Pote azul de 900 g do 100% Pure Whey Zero Lactose da Probiótica, sabor Chocolate, com o selo redondo azul de zero lactose no canto",
           "caption": "Foto oficial da Probiótica.",
+          "href": "https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "store": "probiotica",
           "objectFit": "square",
           "aspectRatio": 1
         },
         "postParagraphs": [
           "O Iso Pro Whey, da mesma marca, é isolado, mas a página dele declara que contém lactose. Nas outras quatro marcas, nenhum whey declara \"sem lactose\": a Max não tem whey zero lactose, os da Black Skull contêm lactose, o rótulo do Dr. Peanut também, e nos da Mais Mu a página diz que contém ou não informa."
+        ],
+        "links": [
+          {
+            "label": "Ver o Pure Whey Zero Lactose na Probiótica",
+            "href": "https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true,
+            "store": "probiotica"
+          }
         ]
       },
       {
@@ -139981,6 +140478,8 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/whey/max-titanium-isowhey.webp",
             "alt": "Pote azul-marinho de 900 g do IsoWhey da Max Titanium, sabor Baunilha, com o logo da marca e o selo de 26 g de proteína por porção",
             "caption": "Foto oficial da Max Titanium.",
+            "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p",
+            "store": "max-titanium",
             "objectFit": "square",
             "aspectRatio": 1
           },
@@ -139988,6 +140487,8 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/whey/probiotica-iso-pro-baunilha.webp",
             "alt": "Pote azul de 900 g do Iso Pro Whey da Probiótica, sabor Baunilha, de frente",
             "caption": "Foto oficial da Probiótica.",
+            "href": "https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "store": "probiotica",
             "objectFit": "contain",
             "aspectRatio": 0.6022
           }
@@ -139995,13 +140496,27 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "A Black Skull não vende isolado no site. O whey que a Mais Mu vende como isolado lista também proteína concentrada e hidrolisada, e por isso está no capítulo das misturas.",
           "As duas marcas lado a lado, em whey e creatina, estão em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
+        ],
+        "links": [
+          {
+            "label": "Ver o IsoWhey na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p",
+            "sponsored": true,
+            "store": "max-titanium"
+          },
+          {
+            "label": "Ver o Iso Pro Whey na Probiótica",
+            "href": "https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true,
+            "store": "probiotica"
+          }
         ]
       },
       {
         "heading": "Whey 3W ou 100%: o nome não basta",
         "paragraphs": [
           "3W é a mistura de concentrado, isolado e hidrolisado do soro (WPC, WPI e WPH). A mistura não garante mais proteína por grama de pó: a tabela nutricional mostra a concentração, e a lista de ingredientes, as fontes.",
-          "Com o CECILIA10, o 3W Core da Black Skull sai a R$ 36,12 por 100 g de proteína. O Top Whey 3W + Sabor da Max, em promoção, fica em R$ 33,60 antes do código, e o + Performance, que tem mais proteína na mesma porção, em R$ 37,99."
+          "Com o CECILIA10, o 3W Core da Black Skull sai a R$ 29,02 por 100 g de proteína. O Top Whey 3W + Sabor da Max, em promoção, fica em R$ 33,60 antes do código, e o + Performance, que tem mais proteína na mesma porção, em R$ 37,99."
         ],
         "comparisonTable": {
           "caption": "Black Skull e Mais Mu: preço com o código de 10%. Max Titanium: preço da página, antes do código de até 10%.",
@@ -140015,8 +140530,8 @@ export const reviewsData: unknown[] = [
             [
               "[Black Skull 3W Core, 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p)",
               "31 g em 40 g",
-              "R$ 251,91 com CECILIA10",
-              "R$ 36,12"
+              "R$ 202,41 com CECILIA10",
+              "R$ 29,02"
             ],
             [
               "[Max Titanium Top Whey 3W + Sabor, 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
@@ -140049,6 +140564,8 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/whey/max-titanium-top-whey-3w-sabor.webp",
             "alt": "Pote de 900 g do Top Whey 3W Mais Sabor da Max Titanium, sabor Brigadeiro, com estampa de brigadeiros e o selo de 25 g de proteína por porção",
             "caption": "Foto oficial da Max Titanium.",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+            "store": "max-titanium",
             "objectFit": "square",
             "aspectRatio": 1
           },
@@ -140056,6 +140573,8 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/whey/max-titanium-top-whey-3w-performance.webp",
             "alt": "Pote azul de 900 g do Top Whey 3W Mais Performance da Max Titanium, sabor Baunilha, com o selo de 32 g de proteína por porção",
             "caption": "Foto oficial da Max Titanium.",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p",
+            "store": "max-titanium",
             "objectFit": "square",
             "aspectRatio": 1
           }
@@ -140064,13 +140583,27 @@ export const reviewsData: unknown[] = [
           "O refil da Black Skull chamado Whey Protein (WPI, WPC, WPH) tem nome parecido com o do 3W Core, mas cada porção entrega 11 g de proteína, contra 31 g do 3W Core. O custo por proteína é baixo, e o pó rende menos proteína por copo.",
           "O da Mais Mu é vendido como isolado e tem a proteína isolada em primeiro lugar na lista, seguida da concentrada e da hidrolisada. Ele serve a quem aceita a mistura e quer um pote de 450 g, sem ocupar o lugar dos isolados do capítulo anterior.",
           "A conta do 3W entre as duas marcas está em [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium)."
+        ],
+        "links": [
+          {
+            "label": "Ver o Top Whey 3W + Sabor na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+            "sponsored": true,
+            "store": "max-titanium"
+          },
+          {
+            "label": "Ver o 3W Core na Black Skull",
+            "href": "https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p",
+            "sponsored": true,
+            "store": "black-skull"
+          }
         ]
       },
       {
         "heading": "Black Skull 100% HD: whey com outras fontes de proteína",
         "paragraphs": [
           "A linha 100% HD não é só proteína do soro. A lista de ingredientes traz concentrado, isolado e hidrolisado do soro, peptídeos hidrolisados e proteína concentrada de leite, e a página do pote de 1,8 kg descreve a fórmula como whey com colágeno hidrolisado. A Black Skull não informa quanto há de cada fonte.",
-          "Dentro da linha, o pote de 1,8 kg é o que custa menos por proteína: R$ 23,33 por 100 g com o CECILIA10. Quem quer só concentrado do soro fica com o 80% HD do começo; quem aceita a mistura compara os três tamanhos."
+          "Dentro da linha, o refil de 900 g e o pote de 1,8 kg empatam no custo por proteína, R$ 20,35 e R$ 20,36 por 100 g com o CECILIA10; o pote de 900 g sai mais caro, a R$ 22,20. Quem quer só concentrado do soro fica com o 80% HD do começo; quem aceita a mistura compara os três tamanhos."
         ],
         "comparisonTable": {
           "caption": "Preço com o CECILIA10, que dá 10% na Black Skull.",
@@ -140084,20 +140617,20 @@ export const reviewsData: unknown[] = [
             [
               "[Black Skull 100% HD, refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
               "21 g em 35 g",
-              "R$ 143,91 com CECILIA10",
-              "R$ 26,65"
+              "R$ 109,90 com CECILIA10",
+              "R$ 20,35"
             ],
             [
               "[Black Skull 100% HD, pote 900 g](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p)",
               "21 g em 35 g",
-              "R$ 152,91 com CECILIA10",
-              "R$ 28,32"
+              "R$ 119,90 com CECILIA10",
+              "R$ 22,20"
             ],
             [
               "[Black Skull 100% HD, pote 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
               "21 g em 35 g",
-              "R$ 251,91 com CECILIA10",
-              "R$ 23,33"
+              "R$ 219,90 com CECILIA10",
+              "R$ 20,36"
             ]
           ]
         },
@@ -140105,9 +140638,19 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/whey/black-skull-100-hd-refil.webp",
           "alt": "Refil preto de 900 g do Whey 100% HD da Black Skull, com a caveira ao fundo e os selos de 21 g de proteína e 3W",
           "caption": "Foto oficial da Black Skull.",
+          "href": "https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p",
+          "store": "black-skull",
           "objectFit": "square",
           "aspectRatio": 1
-        }
+        },
+        "links": [
+          {
+            "label": "Ver o Whey 100% HD na Black Skull",
+            "href": "https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p",
+            "sponsored": true,
+            "store": "black-skull"
+          }
+        ]
       },
       {
         "heading": "Black Skull Gourmet: pote menor, menos proteína por porção",
@@ -140126,20 +140669,20 @@ export const reviewsData: unknown[] = [
             [
               "[Black Skull 100% HD Gourmet, refil 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-refil-900/p)",
               "12 g em 30 g",
-              "R$ 107,91 com CECILIA10",
-              "R$ 29,98"
+              "R$ 89,90 com CECILIA10",
+              "R$ 24,97"
             ],
             [
               "[Black Skull 100% HD Gourmet, pote 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-900/p)",
               "12 g em 30 g",
-              "R$ 116,91 com CECILIA10",
-              "R$ 32,48"
+              "R$ 99,90 com CECILIA10",
+              "R$ 27,75"
             ],
             [
               "[Black Skull 100% HD Gourmet, pote 450 g](https://www.blackskullusa.com.br/whey-100-gourmet-450/p)",
               "12 g em 30 g",
-              "R$ 76,41 com CECILIA10",
-              "R$ 42,45"
+              "R$ 59,70 com CECILIA10",
+              "R$ 33,17"
             ]
           ]
         },
@@ -140152,7 +140695,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Whey Dr. Peanut é para quem procura whey com amendoim e sabor de sobremesa: Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos ao mesmo preço. Ninguém da equipe provou, então a lista não é avaliação de sabor.",
           "Por proteína, ele custa mais que os concentrados do começo: 20 g de proteína em 40 g de pó e, com o DREMCASACOMCECILIA, R$ 44,88 por 100 g. O rótulo lista amendoim torrado e granulado e declara amendoim, glúten, lactose e derivados de soja.",
-          "Na Mais Mu, a vantagem é a embalagem: o pote de 450 g permite comprar menos pó de uma vez, e o sachê leva uma porção pronta na bolsa ou na viagem. Com a promoção da loja e o MMEMCASACOMCECILIA, o pote de Baunilha sai a R$ 48,96 por 100 g de proteína, e os sachês, de R$ 61,16 a R$ 64,99."
+          "Na Mais Mu, a vantagem é a embalagem: o pote de 450 g permite comprar menos pó de uma vez, e o sachê leva uma porção pronta na bolsa ou na viagem. Com a promoção da loja e o MMEMCASACOMCECILIA, o pote de Baunilha sai a R$ 48,96 por 100 g de proteína, e os sachês, R$ 50,37."
         ],
         "comparisonTable": {
           "caption": "Preço com o código de cada loja, que dá 10%. Sachês: caixa com 15, cada um com 20 g de proteína. A página do pote de Paçoquita mostra 20 g de proteína por porção, mas não o tamanho da porção, e por isso a conta dele fica em aberto.",
@@ -140184,14 +140727,14 @@ export const reviewsData: unknown[] = [
             [
               "[Mais Mu Concentrado Paçoquita, 15 sachês](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-sache-525g)",
               "20 g por sachê",
-              "R$ 183,48 com MMEMCASACOMCECILIA (promoção, de R$ 239,85)",
-              "R$ 61,16"
+              "R$ 151,10 com MMEMCASACOMCECILIA (promoção, de R$ 239,85)",
+              "R$ 50,37"
             ],
             [
               "[Mais Mu Concentrado Cookies'n Cream, 15 sachês](https://www.lojamaismu.com.br/produtos/whey-concentrado-cookies-sache-465g)",
               "20 g em 35 g",
-              "R$ 194,96 com MMEMCASACOMCECILIA (promoção, de R$ 254,85)",
-              "R$ 64,99"
+              "R$ 151,10 com MMEMCASACOMCECILIA (promoção, de R$ 239,85)",
+              "R$ 50,37"
             ]
           ]
         },
@@ -140200,6 +140743,8 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/whey/whey-dr-peanut.webp",
             "alt": "Pote roxo e branco de 900 g do 100% Whey Dr. Peanut, com os logos da Max Titanium e da Dr. Peanut e avelãs na estampa, sabor Avelã",
             "caption": "Foto oficial da Max Titanium.",
+            "href": "https://www.drpeanut.com.br/whey-dr-peanut/p",
+            "store": "dr-peanut",
             "objectFit": "square",
             "aspectRatio": 1
           },
@@ -140225,6 +140770,12 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
+            "label": "Ver o Whey Dr. Peanut na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/whey-dr-peanut/p",
+            "sponsored": true,
+            "store": "dr-peanut"
+          },
+          {
             "label": "Ver o cupom da Mais Mu",
             "href": "/cupons/mais-mu"
           }
@@ -140244,9 +140795,19 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/whey/probiotica-iso-protein-blend-morango.webp",
           "alt": "Pote azul de 900 g do Iso Protein Blend da Probiótica, sabor Morango, de frente",
           "caption": "Foto oficial da Probiótica.",
+          "href": "https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "store": "probiotica",
           "objectFit": "contain",
           "aspectRatio": 0.588
-        }
+        },
+        "links": [
+          {
+            "label": "Ver o Iso Protein Blend na Probiótica",
+            "href": "https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true,
+            "store": "probiotica"
+          }
+        ]
       },
       {
         "heading": "Qual whey escolher para a sua compra",
@@ -140254,12 +140815,13 @@ export const reviewsData: unknown[] = [
           "Para um concentrado barato, comece pelo 80% HD com o CECILIA10 e compare com o Hiper enquanto a promoção durar. Sem lactose, a opção é o Pure Whey Zero Lactose da Probiótica. No isolado de soro, a escolha entre o IsoWhey e o Iso Pro passa pelo preço no carrinho e pelo carboidrato.",
           "Na Mais Mu, a vantagem é comprar menos pó ou levar sachês; na Dr. Peanut, o amendoim e os sabores. Os produtos com soja, colágeno ou outras fontes ficam separados para você decidir se aceita a mistura antes de olhar o menor número.",
           "Se a comparação é com a Growth, veja [as alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey). Os wheys de cada marca estão nos guias da [Black Skull](/reviews/whey-black-skull-qual-escolher), da [Max Titanium](/reviews/whey-max-titanium-qual-escolher) e da [Probiótica](/reviews/whey-probiotica-qual-escolher)."
-        ]
+        ],
+        "emphasis": "Para quem só quer gastar menos por proteína de soro, o 80% HD com o CECILIA10 é a compra mais direta desta lista."
       },
       {
         "heading": "Cupons das cinco lojas",
         "paragraphs": [
-          "Cada código vale no site oficial da própria loja. Na Max e na Probiótica, o desconto é de até 10% e muda de produto para produto: o carrinho mostra quanto cada item recebeu. O frete não entra nas contas acima."
+          "Cada código vale no site oficial da própria loja. Na Max e na Probiótica, o desconto é de até 10% e muda de produto para produto: o carrinho mostra quanto cada item recebeu. O frete não entra nas contas acima. No teste de novembro, o código da Max deu 2% na maioria dos itens e 8,9% no Top Whey 3W + Sabor; o da Probiótica deu 2% nos wheys em geral e 7% no Hiper 100% Whey e no Iso Protein Blend."
         ],
         "comparisonTable": {
           "caption": "Códigos e regras das páginas de cupom do site.",
@@ -144727,9 +145289,9 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Kits e lembranças para quem treina, de cinco lojas parceiras, por faixa de preço, com os preços de 25/10/2026 e o cupom de cada loja.",
+    "description": "Kits e lembranças para quem treina, de cinco lojas parceiras, por faixa de preço, com o cupom de cada loja.",
     "publishedAt": "25 de outubro de 2026",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "publishedAtISO": "2026-10-25",
     "draft": false,
     "isNew": false,
@@ -144745,30 +145307,16 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como este guia foi montado",
-        "paragraphs": [
-          "Quatro lojas parceiras vendem o que quem treina usa: Black Skull, Max Titanium, Probiótica e Dr. Peanut, com creatina, whey, coqueteleira, camiseta e snack. A Skelt, de beleza, entra com um só kit, como lembrança. Nenhuma delas agrupa os produtos por perfil ou por preço, e a pergunta \"o que dar, por quanto e em qual loja\" fica para quem compara à mão. Este guia faz essa comparação."
-        ],
-        "bullets": [
-          "Os preços são de venda. Preço muda com promoção e estoque, e o carrinho é a referência final.",
-          "\"Sem controle de estoque\" quer dizer que a loja não mostra a quantidade. Não prova que o item está disponível. Quando a loja mostra unidades por tamanho ou cor, o texto diz quais.",
-          "Pré-treinos, termogênicos, colágeno e os kits com nome de atleta ficaram fora da lista.",
-          "O cupom de cada loja vem depois da tabela, em Cupom de cada loja."
-        ],
-        "postParagraphs": [
-          "Para presente de cozinha, o [guia de presentes para quem cozinha](/reviews/presente-natal-quem-gosta-de-cozinhar) é outro caminho. Preço de campanha de Black Friday fica no guia de cada loja: [Black Skull](/reviews/black-friday-black-skull), [Max Titanium](/reviews/black-friday-max-titanium), [Probiótica](/reviews/black-friday-probiotica), [Skelt](/reviews/black-friday-skelt) e [Dr. Peanut](/reviews/black-friday-dr-peanut)."
-        ]
-      },
-      {
         "heading": "Quem já usa creatina ou whey",
         "paragraphs": [
-          "Para creatina, o kit com dois potes de 300 g da Probiótica sai por R$ 119,78, de R$ 150,20 na tabela da loja. Para whey, atenção: o kit com dois potes de Whey Turbo de 907 g da Black Skull sai por R$ 132,81, de R$ 139,80, mas a loja o lista entre os hipercalóricos, não como whey concentrado; é presente para quem já usa esse tipo. A Max Titanium vende a creatina de 300 g sozinha por R$ 59,90, e o kit dela com o Whey Pro de 1 kg sai por R$ 158,90. Quem quer creatina e whey numa caixa só da Probiótica tem o kit com a creatina de 300 g e o Iso Protein Blend de 900 g, por R$ 138,89. O Iso Protein Blend mistura proteína isolada de soja e concentrada do soro e leva leite, soja e lactose entre os alergênicos; o rótulo muda por sabor.",
+          "Para creatina, o [kit com dois potes de 300 g da Probiótica](https://www.probiotica.com.br/pack-creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) sai por R$ 119,78, de R$ 150,20 na tabela da loja. Para whey, atenção: o [kit com dois potes de Whey Turbo de 907 g da Black Skull](https://www.blackskullusa.com.br/kit-2-unidades-whey-protein-907g-whey-turbo/p) sai por R$ 104,31, de R$ 139,80, mas a loja o lista entre os hipercalóricos, não como whey concentrado; é presente para quem já usa esse tipo. A Max Titanium vende a [creatina de 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p) sozinha por R$ 59,90, e o [kit dela com o Whey Pro de 1 kg](https://www.maxtitanium.com.br/kit-creatina-300g---whey-pro-1kg/p) sai por R$ 169,80, de R$ 201,30. Quem quer creatina e whey numa caixa só da Probiótica tem o [kit com a creatina de 300 g e o Iso Protein Blend de 900 g](https://www.probiotica.com.br/kit-creatina-300g---iso-protein-blend-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), por R$ 128,90, de R$ 197,09. O Iso Protein Blend mistura proteína isolada de soja e concentrada do soro e leva leite, soja e lactose entre os alergênicos; o rótulo muda por sabor.",
           "Os guias de [whey](/reviews/melhor-whey-qual-escolher-por-objetivo) e de [creatina da Black Skull](/reviews/creatina-black-skull-qual-escolher) ajudam a comparar os produtos. Para presentear, confirme com a pessoa qual ela usa."
         ],
         "image": {
           "src": "/images/reviews/presentes/presente-natal-quem-treina-kit-creatina-probiotica.webp",
           "alt": "Kit com dois potes de creatina monohidratada de 300 g da Probiótica, em azul.",
           "caption": "Kit 2 × Creatina Monohidratada Pura 300 g, da Probiótica. Imagem: site da loja.",
+          "href": "https://www.probiotica.com.br/pack-creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
           "objectFit": "contain",
           "aspectRatio": 1.438
         }
@@ -144776,26 +145324,28 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem não sabe o que a pessoa usa",
         "paragraphs": [
-          "Coqueteleira e camiseta servem para quem não sabe o que a pessoa toma. A coqueteleira de 600 ml da Black Skull, a mais barata desta lista, sai por R$ 19,90. A Probiótica tem a de 700 ml nas cores preta, rosa e incolor, por R$ 24,90, de R$ 29,90 na tabela.",
-          "A camiseta 100% Algodão da Black Skull custa R$ 78,90, e a loja mostrava unidades de P a XGG. A Camiseta Branca da Probiótica sai por R$ 69,90; a loja mostrava zero unidade em P e unidades de M a XG."
+          "Coqueteleira e camiseta servem para quem não sabe o que a pessoa toma. A [coqueteleira de 700 ml da Probiótica](https://www.probiotica.com.br/coqueteleira-700-ml--preta/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), nas cores preta, rosa e incolor, sai por R$ 13,70, de R$ 29,90. A [rosa de 700 ml da Max Titanium](https://www.maxtitanium.com.br/coqueteleira-rosa-max-titanium/p) custa R$ 13,29, e a [de 600 ml da Black Skull](https://www.blackskullusa.com.br/coqueteleira-blackskull/p), R$ 14,90, de R$ 19,90.",
+          "A [camiseta 100% Algodão da Black Skull](https://www.blackskullusa.com.br/camiseta-100-black-skull/p) custa R$ 78,90. A [Camiseta Branca da Probiótica](https://www.probiotica.com.br/camiseta-branca/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) sai por R$ 69,90. Nas duas, confira o tamanho na tabela de medidas da página do produto."
         ],
         "image": {
-          "src": "/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-probiotica.webp",
-          "alt": "Coqueteleira de 700 ml da Probiótica na cor preta, sobre fundo branco.",
+          "src": "/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-700ml-probiotica.webp",
+          "alt": "Coqueteleira de 700 ml da Probiótica na cor preta, sobre fundo branco",
           "caption": "Coqueteleira 700 ml da Probiótica. Imagem: site da loja.",
+          "href": "https://www.probiotica.com.br/coqueteleira-700-ml--preta/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
           "objectFit": "contain",
-          "aspectRatio": 0.412
+          "aspectRatio": 1
         }
       },
       {
         "heading": "Fitness feminino",
         "paragraphs": [
-          "Poucas peças femininas trazem tamanhos na página das lojas. A Max Titanium tem a Camiseta Feminina Oversized Redemption, por R$ 119,00, com P, M e G na página e o GG zerado. A mesma loja vende o Femini Whey 900 g, por R$ 130,00 (de R$ 147,25), e o kit dele com a creatina de 300 g, por R$ 189,90. A página dos dois não traz quantidade, e o que o Femini Whey tem está na tabela nutricional da página dele."
+          "Poucas peças femininas trazem tamanhos na página das lojas. A Max Titanium tem a [Camiseta Feminina Oversized Redemption](https://www.maxtitanium.com.br/camiseta-oversized-3/p), por R$ 107,10, de R$ 119,00. A mesma loja vende o [Femini Whey 900 g](https://www.maxtitanium.com.br/femini-whey-900g/p), por R$ 130,00, de R$ 147,25, e o [kit dele com a creatina de 300 g](https://www.maxtitanium.com.br/kit-creatina-300g---femini-whey-900g/p), por R$ 179,90, de R$ 222,35. A página dos dois não traz quantidade, e o que o Femini Whey tem está na tabela nutricional da página dele."
         ],
         "image": {
           "src": "/images/reviews/presentes/presente-natal-quem-treina-camiseta-feminina-max.webp",
           "alt": "Camiseta feminina oversized preta da Max Titanium, com estampa nas costas.",
           "caption": "Camiseta Feminina Oversized Redemption, da Max Titanium. Imagem: site da loja.",
+          "href": "https://www.maxtitanium.com.br/camiseta-oversized-3/p",
           "objectFit": "square",
           "aspectRatio": 1
         }
@@ -144803,13 +145353,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem gosta de doce e treina",
         "paragraphs": [
-          "Para quem gosta de doce, o acerto está nos snacks da Dr. Peanut: alfajor, wafer ou barra. O display de 8 Doctor Bar de 62 g sai por R$ 122,03, e o rótulo diz \"contém glúten\" e \"contém lactose\". Os kits de alfajor saem por R$ 64,95 (5 unidades) e R$ 129,90 (10 unidades); os de Doctor Wafer, por R$ 65,34 (6) e R$ 130,68 (12).",
+          "Para quem gosta de doce, o acerto está nos snacks da Dr. Peanut: alfajor, wafer ou barra. O [display de 8 Doctor Bar de 62 g](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p) sai por R$ 122,03, e o rótulo diz \"contém glúten\" e \"contém lactose\". Os kits de alfajor saem por R$ 64,95 (5 unidades) e R$ 129,90 (10 unidades); os de Doctor Wafer, por [R$ 65,34 (6)](https://www.drpeanut.com.br/kit-sortido-wafers/p) e [R$ 130,68 (12)](https://www.drpeanut.com.br/kit-sortido-duplo-wafers/p).",
           "Do alfajor, a loja publica só a tabela nutricional em imagem, sem ingredientes nem alérgicos. Quem tem restrição lê o rótulo e pergunta a um nutricionista ou médico. Para comparar sabores, veja o [guia de snacks da Dr. Peanut](/reviews/snacks-dr-peanut-qual-escolher)."
         ],
         "image": {
           "src": "/images/reviews/presentes/presente-natal-quem-treina-display-dr-peanut.webp",
           "alt": "Display de Doctor Bar da Dr. Peanut, com barras expostas na caixa.",
           "caption": "Display de 8 Doctor Bar de 62 g, da Dr. Peanut. Imagem: site da loja.",
+          "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p",
           "objectFit": "contain",
           "aspectRatio": 1.178
         }
@@ -144817,10 +145368,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por faixa de preço",
         "paragraphs": [
-          "A tabela reúne os presentes das cinco lojas em três faixas, só com o preço de venda. O cupom de cada loja vem logo abaixo."
+          "A tabela reúne os presentes das cinco lojas em três faixas, só com o preço de venda. O cupom de cada loja vem logo abaixo. Preço de campanha de Black Friday fica no guia de cada loja: [Black Skull](/reviews/black-friday-black-skull), [Max Titanium](/reviews/black-friday-max-titanium), [Probiótica](/reviews/black-friday-probiotica), [Skelt](/reviews/black-friday-skelt) e [Dr. Peanut](/reviews/black-friday-dr-peanut). Para presente de cozinha, veja o [guia de presentes para quem cozinha](/reviews/presente-natal-quem-gosta-de-cozinhar)."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda em 25/10/2026; os da Dr. Peanut, em 24/10/2026.",
+          "caption": "Preços de venda no site em 22/11/2026. Pré-treinos, termogênicos, colágeno e kits com nome de atleta ficaram fora da lista.",
           "headers": [
             "Faixa",
             "Presente",
@@ -144830,81 +145381,81 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Até R$ 100",
-              "Coqueteleira 600 ml",
+              "[Coqueteleira 600 ml](https://www.blackskullusa.com.br/coqueteleira-blackskull/p)",
               "Black Skull",
-              "R$ 19,90"
+              "R$ 14,90 (de R$ 19,90)"
             ],
             [
               "Até R$ 100",
-              "Coqueteleira Pet Fume 750 ml",
+              "[Coqueteleira Pet Fume 750 ml](https://www.blackskullusa.com.br/coqueteleira-pet-fume/p)",
               "Black Skull",
-              "R$ 29,90"
+              "R$ 14,90 (de R$ 29,90)"
             ],
             [
               "Até R$ 100",
-              "Coqueteleira 700 ml (preta, rosa ou incolor)",
+              "[Coqueteleira 700 ml (preta, rosa ou incolor)](https://www.probiotica.com.br/coqueteleira-700-ml--preta/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Probiótica",
-              "R$ 24,90 (de R$ 29,90)"
+              "R$ 13,70 (de R$ 29,90)"
             ],
             [
               "Até R$ 100",
-              "Coqueteleira Premium 500 ml (preta e grafite)",
+              "[Coqueteleira Premium 500 ml (preta e grafite)](https://www.probiotica.com.br/coqueteleira-premium-2-compartimentos-500-ml-preto-e-grafite-/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Probiótica",
-              "R$ 29,10 (de R$ 34,90)"
+              "R$ 18,92 (de R$ 34,90)"
             ],
             [
               "Até R$ 100",
-              "Coqueteleira 700 ml rosa",
+              "[Coqueteleira 700 ml rosa](https://www.maxtitanium.com.br/coqueteleira-rosa-max-titanium/p)",
               "Max Titanium",
-              "R$ 24,17 (de R$ 29,90)"
+              "R$ 13,29 (de R$ 29,90)"
             ],
             [
               "Até R$ 100",
-              "Coqueteleira Tritan",
+              "[Coqueteleira Tritan](https://www.probiotica.com.br/coqueteleira-tritan-probiotica/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Probiótica",
-              "R$ 79,90"
+              "R$ 55,93 (de R$ 79,90)"
             ],
             [
               "Até R$ 100",
-              "Camiseta 100% Algodão",
+              "[Camiseta 100% Algodão](https://www.blackskullusa.com.br/camiseta-100-black-skull/p)",
               "Black Skull",
               "R$ 78,90"
             ],
             [
               "Até R$ 100",
-              "Camiseta Branca",
+              "[Camiseta Branca](https://www.probiotica.com.br/camiseta-branca/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Probiótica",
               "R$ 69,90"
             ],
             [
               "Até R$ 100",
-              "Camiseta Dry Fit Probi Alpha Co (azul)",
+              "[Camiseta Dry Fit Probi Alpha Co (azul)](https://www.probiotica.com.br/camiseta-dry-fit-probi-alpha-co-azul/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Probiótica",
-              "R$ 79,90"
+              "R$ 47,94 (de R$ 79,90)"
             ],
             [
               "Até R$ 100",
-              "Camiseta Heavy Club",
+              "[Camiseta Heavy Club](https://www.maxtitanium.com.br/camiseta-regular-heavy/p)",
               "Max Titanium",
-              "R$ 99,00"
+              "R$ 89,10 (de R$ 99,00)"
             ],
             [
               "Até R$ 100",
-              "Creatina 300 g",
+              "[Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
               "Max Titanium",
               "R$ 59,90 (de R$ 75,10)"
             ],
             [
               "Até R$ 100",
-              "Kit 2 × Mix Pro Creatine 300 g",
+              "[Kit 2 × Mix Pro Creatine 300 g](https://www.probiotica.com.br/pack-mix-pro-creatine-/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Probiótica",
               "R$ 81,88"
             ],
             [
               "Até R$ 100",
-              "Kit 2 × Creatina Creator 500 g + coqueteleira",
+              "[Kit 2 × Creatina Creator 500 g + coqueteleira](https://www.blackskullusa.com.br/kit-2-unidades-creatina-monohidratada-500g/p)",
               "Black Skull",
-              "R$ 94,72 (de R$ 139,70)"
+              "R$ 89,97 (de R$ 139,70)"
             ],
             [
               "Até R$ 100",
@@ -144920,75 +145471,63 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Até R$ 100",
-              "Kit Sortido de 6 Doctor Wafer",
+              "[Kit Sortido de 6 Doctor Wafer](https://www.drpeanut.com.br/kit-sortido-wafers/p)",
               "Dr. Peanut",
               "R$ 65,34"
             ],
             [
               "Até R$ 100",
-              "Kit Miniaturas (3 × 15 ml)",
+              "[Kit Miniaturas Exotic Set (3 × 15 ml)](https://www.skelt.com.br/kit-miniaturas-exotic-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
               "Skelt",
-              "R$ 99,90"
+              "R$ 59,94 (de R$ 99,90)"
+            ],
+            [
+              "Até R$ 100",
+              "[Kit Miniaturas Trends Set e Sellers Set (3 × 15 ml)](https://www.skelt.com.br/kit-miniaturas-trends-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Skelt",
+              "R$ 84,92 (de R$ 99,90)"
             ],
             [
               "R$ 100 a R$ 200",
-              "Coqueteleira Tritan",
+              "[Coqueteleira Tritan](https://www.maxtitanium.com.br/coqueteleira-tritan-max/p)",
               "Max Titanium",
               "R$ 109,00"
             ],
             [
               "R$ 100 a R$ 200",
-              "Camiseta Oversized Redemption masculina",
+              "[Camiseta Oversized Redemption masculina](https://www.maxtitanium.com.br/camiseta-preta-oversized/p)",
               "Max Titanium",
-              "R$ 119,00"
+              "R$ 107,10 (de R$ 119,00)"
             ],
             [
               "R$ 100 a R$ 200",
-              "Camiseta Feminina Oversized Redemption",
+              "[Camiseta Feminina Oversized Redemption](https://www.maxtitanium.com.br/camiseta-oversized-3/p)",
               "Max Titanium",
-              "R$ 119,00"
+              "R$ 107,10 (de R$ 119,00)"
             ],
             [
               "R$ 100 a R$ 200",
-              "Kit 2 × Creatina 300 g",
+              "[Kit 2 × Whey Turbo 907 g](https://www.blackskullusa.com.br/kit-2-unidades-whey-protein-907g-whey-turbo/p)",
+              "Black Skull",
+              "R$ 104,31 (de R$ 139,80)"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "[Kit 2 × Creatina 300 g](https://www.probiotica.com.br/pack-creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Probiótica",
               "R$ 119,78 (de R$ 150,20)"
             ],
             [
               "R$ 100 a R$ 200",
-              "Kit 2 × Whey Turbo 907 g",
-              "Black Skull",
-              "R$ 132,81 (de R$ 139,80)"
-            ],
-            [
-              "R$ 100 a R$ 200",
-              "Femini Whey 900 g",
-              "Max Titanium",
-              "R$ 130,00 (de R$ 147,25)"
-            ],
-            [
-              "R$ 100 a R$ 200",
-              "Kit Creatina 300 g + Iso Protein Blend 900 g",
-              "Probiótica",
-              "R$ 138,89"
-            ],
-            [
-              "R$ 100 a R$ 200",
-              "Kit Creatina 300 g + Whey Pro 1 kg",
-              "Max Titanium",
-              "R$ 158,90 (de R$ 186,10)"
-            ],
-            [
-              "R$ 100 a R$ 200",
-              "Kit Creatina 300 g + Femini Whey 900 g",
-              "Max Titanium",
-              "R$ 189,90"
-            ],
-            [
-              "R$ 100 a R$ 200",
-              "Display de 8 Doctor Bar 62 g",
+              "[Display de 8 Doctor Bar 62 g](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p)",
               "Dr. Peanut",
               "R$ 122,03"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "[Kit Creatina 300 g + Iso Protein Blend 900 g](https://www.probiotica.com.br/kit-creatina-300g---iso-protein-blend-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "Probiótica",
+              "R$ 128,90 (de R$ 197,09)"
             ],
             [
               "R$ 100 a R$ 200",
@@ -144998,39 +145537,57 @@ export const reviewsData: unknown[] = [
             ],
             [
               "R$ 100 a R$ 200",
-              "Kit de 12 Doctor Wafer",
+              "[Femini Whey 900 g](https://www.maxtitanium.com.br/femini-whey-900g/p)",
+              "Max Titanium",
+              "R$ 130,00 (de R$ 147,25)"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "[Kit de 12 Doctor Wafer](https://www.drpeanut.com.br/kit-sortido-duplo-wafers/p)",
               "Dr. Peanut",
               "R$ 130,68"
             ],
             [
-              "Acima de R$ 200",
-              "Kit 4 × 600 g de pasta de amendoim (Legacy, Dream Team, Quartetos)",
-              "Dr. Peanut",
-              "R$ 203,63 (de R$ 239,56)"
-            ],
-            [
-              "Acima de R$ 200",
-              "Kit Creatina 300 g + 100% Whey pote 900 g",
+              "R$ 100 a R$ 200",
+              "[Kit Creatina 300 g + Whey Pro 1 kg](https://www.maxtitanium.com.br/kit-creatina-300g---whey-pro-1kg/p)",
               "Max Titanium",
-              "R$ 249,28"
+              "R$ 169,80 (de R$ 201,30)"
+            ],
+            [
+              "R$ 100 a R$ 200",
+              "[Kit Creatina 300 g + Femini Whey 900 g](https://www.maxtitanium.com.br/kit-creatina-300g---femini-whey-900g/p)",
+              "Max Titanium",
+              "R$ 179,90 (de R$ 222,35)"
             ],
             [
               "Acima de R$ 200",
-              "Whey 100% HD + 3 × Creatine Turbo",
+              "[Whey 100% HD + 3 × Creatine Turbo](https://www.blackskullusa.com.br/whey100-3xcreatine-turbo/p)",
               "Black Skull",
-              "R$ 255,12 (de R$ 289,60)"
+              "R$ 204,82 (de R$ 289,60)"
             ],
             [
               "Acima de R$ 200",
-              "Kit Creatina 300 g + 100% Pure Whey Zero Lactose 900 g",
+              "[Kit 4 × 600 g de pasta de amendoim (Quarteto Cookies & Cream)](https://www.drpeanut.com.br/combo-cookies-lovers-quarteto/p)",
+              "Dr. Peanut",
+              "R$ 203,63"
+            ],
+            [
+              "Acima de R$ 200",
+              "[Combo Whey 3W Core 900 g + Creator 500 g](https://www.blackskullusa.com.br/combo-whey-3w-core-900g-creatina-creator-500g/p)",
+              "Black Skull",
+              "R$ 251,56 (de R$ 339,80)"
+            ],
+            [
+              "Acima de R$ 200",
+              "[Kit Creatina 300 g + 100% Whey pote 900 g](https://www.maxtitanium.com.br/kit-creatina-300g-100--whey-pote-900g/p)",
+              "Max Titanium",
+              "R$ 270,29 (de R$ 285,49)"
+            ],
+            [
+              "Acima de R$ 200",
+              "[Kit Creatina 300 g + 100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/kit-zero-lactose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Probiótica",
               "R$ 301,86"
-            ],
-            [
-              "Acima de R$ 200",
-              "Combo Whey 3W Core 900 g + Creator 500 g",
-              "Black Skull",
-              "R$ 303,81 (de R$ 339,80)"
             ]
           ]
         }
@@ -145038,7 +145595,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom de cada loja",
         "paragraphs": [
-          "Os cinco códigos valem em qualquer faixa da tabela, cada um só no site da própria loja. Na Max Titanium e na Probiótica o desconto é de até 10%: o percentual varia por produto, e o carrinho mostra quanto cada item recebeu."
+          "Os cinco códigos valem em qualquer faixa da tabela, cada um só no site da própria loja. Na Max Titanium e na Probiótica o desconto é de até 10%: o percentual varia por produto, e o carrinho mostra quanto cada item recebeu. No teste de novembro, o código da Max deu 2% na maioria dos itens e 8,9% no Whey Pro; o da Probiótica deu 2% nas creatinas e 7% no Hiper 100% Whey e no Iso Protein Blend."
         ],
         "comparisonTable": {
           "headers": [
@@ -145087,13 +145644,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lembrança de beleza: o Kit Miniaturas da Skelt",
         "paragraphs": [
-          "O Kit Miniaturas é o único item da Skelt neste guia e não tem vínculo com treino: é presente de beleza, com três miniaturas de 15 ml de fragrância, em três conjuntos (Exotic, Sellers e Trends). Sai por R$ 99,90. Com o cupom SKEMCASACOMCECILIA e os 5% do Pix sobre o total, cai para cerca de R$ 85,41 (conta deste guia: 10% e depois 5%).",
+          "O Kit Miniaturas é o único item da Skelt neste guia e não tem vínculo com treino: é presente de beleza, com três miniaturas de 15 ml de fragrância, em três conjuntos. O [Exotic](https://www.skelt.com.br/kit-miniaturas-exotic-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) sai por R$ 59,94, de R$ 99,90, e o Trends e o Sellers, por R$ 84,92, de R$ 99,90. Com o cupom SKEMCASACOMCECILIA e os 5% do Pix sobre o total, o Exotic cai para cerca de R$ 51,25 (conta deste guia: 10% e depois 5%).",
           "A Skelt tem frete grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste. No Norte e no Nordeste, o frete grátis começa em R$ 199. Para escolher a fragrância, veja [body splash da Skelt: qual escolher](/reviews/body-splash-skelt-qual-escolher)."
         ],
         "image": {
           "src": "/images/reviews/presentes/presente-natal-quem-treina-kit-miniaturas-skelt.webp",
           "alt": "Kit Miniaturas Exotic Set da Skelt, em caixa roxa com três frascos de 15 ml.",
           "caption": "Kit Miniaturas Exotic Set da Skelt, 3 × 15 ml. Imagem: site da loja.",
+          "href": "https://www.skelt.com.br/kit-miniaturas-exotic-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
           "objectFit": "contain",
           "aspectRatio": 0.684
         }
@@ -145107,23 +145665,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual presente escolher",
         "bullets": [
-          "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 132,81, que a loja lista como hipercalórico, para quem já usa esse tipo. Confirme o nome e a fórmula do produto antes de escolher.",
-          "Quem não sabe o que a pessoa usa: a coqueteleira da Black Skull, por R$ 19,90, ou a camiseta, por R$ 69,90 na Probiótica ou R$ 78,90 na Black Skull.",
-          "Fitness feminino: a Camiseta Feminina Oversized Redemption da Max Titanium, por R$ 119,00, é a peça com tamanhos; o Femini Whey, por R$ 130,00, é o suplemento da lista.",
+          "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 104,31, que a loja lista como hipercalórico, para quem já usa esse tipo. Confirme o nome e a fórmula do produto antes de escolher.",
+          "Quem não sabe o que a pessoa usa: a coqueteleira de 700 ml da Probiótica, por R$ 13,70, ou a camiseta, por R$ 69,90 na Probiótica ou R$ 78,90 na Black Skull.",
+          "Fitness feminino: a Camiseta Feminina Oversized Redemption da Max Titanium, por R$ 107,10, é a peça com tamanhos; o Femini Whey, por R$ 130,00, é o suplemento da lista.",
           "Quem gosta de doce: o kit de 10 alfajores da Dr. Peanut, por R$ 129,90, ou o de 12 wafers, por R$ 130,68, com o rótulo de cada um.",
-          "Lembrança de beleza: o Kit Miniaturas da Skelt, por R$ 99,90."
+          "Lembrança de beleza: o Kit Miniaturas Exotic da Skelt, por R$ 59,94."
         ],
-        "postParagraphs": [
-          "Sem saber qual suplemento a pessoa usa, a coqueteleira dispensa essa informação. A camiseta também pode ser uma opção, desde que você confirme as medidas."
-        ]
+        "emphasis": "Sem saber o que a pessoa usa, coqueteleira é a escolha que não erra; camiseta, só com o tamanho confirmado."
       },
       {
         "heading": "Onde comprar, loja por loja",
         "bullets": [
           "Black Skull. Cupom CECILIA10, 10% em todo o site. Frete grátis: Sul e Sudeste acima de R$ 199,90; Centro-Oeste acima de R$ 249,90; demais regiões acima de R$ 299,90.",
           "Max Titanium. Cupom MAX10EMCASACOMCECILIA, até 10%. Frete grátis a partir de R$ 104 em São Paulo capital, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte; Sedex é sempre pago.",
-          "Probiótica. Cupom PRO10EMCASACOMCECILIA, até 10%. Frete: o valor aparece no carrinho com o CEP.",
-          "Dr. Peanut. Cupom DREMCASACOMCECILIA, 10% em todo o site. Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul, e de R$ 199,90 nas demais regiões, contado depois do cupom.",
+          "Probiótica. Cupom PRO10EMCASACOMCECILIA, até 10%. Frete grátis a partir de R$ 104 em São Paulo capital, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, contado depois do cupom.",
+          "Dr. Peanut. Cupom DREMCASACOMCECILIA, 10% em todo o site. Frete grátis a partir de R$ 149,90 no Sul e no Sudeste, e de R$ 199,90 no Centro-Oeste, no Norte e no Nordeste, contado depois do cupom.",
           "Skelt. Cupom SKEMCASACOMCECILIA, 10% em todo o site, mais 5% no Pix sobre o total com cupom. Frete na seção Lembrança de beleza."
         ],
         "links": [
@@ -145157,6 +145713,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom de cada loja? Black Skull: CECILIA10, com 10% OFF ([cupom Black Skull](/cupons/black-skull)). Max Titanium: MAX10EMCASACOMCECILIA, com até 10% OFF ([cupom Max Titanium](/cupons/max-titanium)). Probiótica: PRO10EMCASACOMCECILIA, com até 10% OFF ([cupom Probiótica](/cupons/probiotica)). Dr. Peanut: DREMCASACOMCECILIA, com 10% OFF ([cupom Dr. Peanut](/cupons/dr-peanut)). Skelt: SKEMCASACOMCECILIA, com 10% OFF ([cupom Skelt](/cupons/skelt)). Cada código vale só no site da própria loja, em todas as formas de pagamento.",
           "Dá para dar suplemento de presente? Este guia não trata de saúde e não diz se um suplemento é indicado para alguém. Quem tem objetivo de saúde fala com nutricionista ou médico antes de comprar para outra pessoa.",
           "Como escolher o tamanho da camiseta? Use a tabela de medidas da página do produto e confira o tamanho no carrinho.",
           "Os preços mudam? Sim. Os preços são os do guia, e o carrinho mostra o valor final.",
@@ -145187,7 +145744,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "presente-natal-quem-gosta-de-cozinhar"
       }
-    ]
+    ],
+    "metaDescription": "Presentes para quem treina de 5 lojas parceiras, por faixa de preço, com o código de cada loja: 10% OFF, e até 10% OFF na Max e na Probiótica."
   },
   {
     "id": 610,
@@ -162416,7 +162974,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Creatina Max Titanium com o MAX10EMCASACOMCECILIA e até 10% OFF: os potes de 100 g, 300 g, 500 g e a Creapure 250 g por 100 g e por dose.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-capa-v2.webp",
@@ -162427,29 +162985,30 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelos preços da tabela, o pote de 500 g tem o menor custo por grama e por porção de 5 g. A Creapure de 250 g, a única com esse selo, custa 4 vezes o valor por grama do pote de 500 g; a escolha depende do desembolso e do selo. O código MAX10EMCASACOMCECILIA dá até 10% OFF."
+          "Pelos preços da tabela, o pote de 500 g tem o menor custo por grama e por porção de 5 g. A Creapure de 250 g, a única com selo, custa 4 vezes o valor por grama do pote de 500 g. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF, e as creatinas receberam 2% em novembro."
         ]
       },
       {
         "heading": "Os quatro potes de creatina da Max",
         "paragraphs": [
           "No site da Max Titanium, a creatina sem sabor vem em três potes, de 100 g, 300 g e 500 g, e há um quarto pote, a Creatina Creapure de 250 g. Os quatro são creatina monohidratada em pó e têm a mesma tabela nutricional por dose: porção de 5 g (1 dosador) com 5.000 mg de creatina, sem quantidade significativa de calorias, carboidratos, proteínas, gorduras ou sódio. O que muda entre eles é o tamanho, o número de porções, o preço por grama e, no de 250 g, o selo Creapure.",
-          "A Max também vende a Creatina 7Belo de 300 g, com sabor, que fica fora deste guia: a conta dela, ao lado das creatinas com sabor de outras marcas, está no [guia de creatina com sabor](/reviews/creatina-com-sabor-qual-escolher). A creatina em cápsulas (120 unidades) estava sem estoque e por isso não entra na tabela."
+          "A Max também vende a Creatina 7Belo de 300 g, com sabor, que fica fora deste guia: a conta dela, ao lado das creatinas com sabor de outras marcas, está no [guia de creatina com sabor](/reviews/creatina-com-sabor-qual-escolher). A creatina em cápsulas (120 unidades) estava sem estoque e por isso não entra na tabela. O pote de 100 g também estava sem estoque em novembro, mas fica na conta como régua de preço."
         ]
       },
       {
         "heading": "Preço por 100 g e por dose",
         "paragraphs": [
-          "Preços do site oficial da Max em 28/10/2026, sem cupom e sem frete. Preço, estoque e promoções mudam; vale o que aparece no site na hora da compra. O preço de lista aparece entre parênteses quando o pote estava em promoção. A porção e o número de porções vêm da tabela nutricional de cada pote, publicada na página do produto."
+          "Preços do site oficial da Max em novembro, sem cupom e sem frete. Preço, estoque e promoções mudam; vale o que aparece no site na hora da compra. O preço de lista aparece entre parênteses quando o pote estava em promoção. A porção e o número de porções vêm da tabela nutricional de cada pote, publicada na página do produto."
         ],
         "comparisonTable": {
-          "caption": "O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original.",
+          "caption": "Creatinas da Max Titanium: preço de venda do site e valor no carrinho com o MAX10EMCASACOMCECILIA, na nossa leitura de novembro. O pote de 100 g, sem estoque, não passou pelo carrinho. Por 100 g e por dose usam o preço sem cupom.",
           "headers": [
             "Produto",
             "Porções (5 g)",
             "Preço",
             "Por 100 g",
-            "Por dose"
+            "Por dose",
+            "Com o código (2%)"
           ],
           "rows": [
             [
@@ -162457,34 +163016,38 @@ export const reviewsData: unknown[] = [
               "20",
               "R$ 33,89 (de R$ 39,90)",
               "R$ 33,89",
-              "R$ 1,69"
+              "R$ 1,69",
+              "sem estoque"
             ],
             [
               "[Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
               "60",
               "R$ 59,90 (de R$ 75,10)",
               "R$ 19,97",
-              "R$ 1,00"
+              "R$ 1,00",
+              "R$ 58,70"
             ],
             [
               "[Creatina 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
               "100",
               "R$ 69,90 (de R$ 115,60)",
               "R$ 13,98",
-              "R$ 0,70"
+              "R$ 0,70",
+              "R$ 68,50"
             ],
             [
               "[Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p)",
               "50",
               "R$ 139,89 (de R$ 147,20)",
               "R$ 55,96",
-              "R$ 2,80"
+              "R$ 2,80",
+              "R$ 137,09"
             ]
           ]
         },
         "postParagraphs": [
           "A conta por 100 g é preço dividido pelos gramas do pote, vezes 100. O de 500 g fica cerca de 30% abaixo do de 300 g por grama, e o de 100 g é o mais caro entre os sem o selo Creapure. A Creapure de 250 g custa R$ 55,96 por 100 g, 4 vezes o de 500 g e 2,8 vezes o de 300 g.",
-          "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto no site da Max, e o percentual varia por produto: o carrinho mostra quanto cada item recebeu. Ele soma com as promoções do site e vale em todas as formas de pagamento. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium)."
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF no site e no app da Max, em todas as formas de pagamento, e soma com as promoções. No teste de novembro, ele deu 2% em todas as creatinas que passaram pelo carrinho: o de 500 g foi a R$ 68,50, ou R$ 0,69 por dose. O percentual varia por produto, e o carrinho mostra quanto cada item recebeu. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium)."
         ],
         "images": [
           {
@@ -162492,7 +163055,20 @@ export const reviewsData: unknown[] = [
             "alt": "Pote de 500 g da Creatine da Max Titanium, suplemento alimentar de creatina em pó",
             "caption": "Pote de 500 g: menor preço por grama entre os quatro comparados. Imagem: Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 0.6721
+            "aspectRatio": 0.6721,
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Creatina 300 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatina-pote-300g/p",
+            "sponsored": true
           }
         ]
       },
@@ -162500,7 +163076,7 @@ export const reviewsData: unknown[] = [
         "heading": "Creapure: em qual pote está e quanto custa a mais",
         "paragraphs": [
           "Só a Creatina Creapure de 250 g traz o selo Creapure, na embalagem e na página do produto. A página diz que a matéria-prima vem da Alemanha, da Alzchem, dona da Creapure. As páginas dos potes de 100 g, 300 g e 500 g não citam Creapure: são creatina monohidratada sem o selo.",
-          "Pela tabela nutricional, a dose é a mesma nos quatro potes: 5 g com 5.000 mg de creatina. A Creapure acrescenta a origem da matéria-prima e os testes de pureza do fabricante alemão, diz a página. O rótulo não comprova que uma faça mais efeito que a outra.",
+          "Pela tabela nutricional, a dose é a mesma nos quatro potes: 5 g com 5.000 mg de creatina. A Creapure acrescenta a origem da matéria-prima e os testes de pureza do fabricante alemão, diz a página.",
           "A diferença é de preço. Pela tabela de preços, a Creapure custava R$ 139,89 por 250 g, ou R$ 2,80 por dose. O pote de 500 g sem o selo custava R$ 69,90 pelo dobro de produto, ou R$ 0,70 por dose. Quem quer o selo paga cerca de R$ 2,10 a mais por dose, ou R$ 105 a mais a cada 50 doses."
         ],
         "images": [
@@ -162509,7 +163085,15 @@ export const reviewsData: unknown[] = [
             "alt": "Pote de 250 g da Creatina Creapure da Max Titanium, com o selo Creapure na embalagem",
             "caption": "Creatina Creapure 250 g: a única com o selo entre os quatro potes comparados. Imagem: Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 0.8815
+            "aspectRatio": 0.8815,
+            "href": "https://www.maxtitanium.com.br/creatina-creapure-250g/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina Creapure 250 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatina-creapure-250g/p",
+            "sponsored": true
           }
         ]
       },
@@ -162544,29 +163128,43 @@ export const reviewsData: unknown[] = [
           "**500 g:** 100 dias, pouco mais de três meses."
         ],
         "postParagraphs": [
-          "Quem toma mais ou menos que isso refaz a conta pela própria dose. A quantidade para cada pessoa é assunto de nutricionista ou médico: este guia só lê o rótulo."
+          "Quem toma mais ou menos que isso refaz a conta pela própria dose."
         ]
       },
       {
         "heading": "Qual pote compensa",
         "bullets": [
-          "**Menor preço por grama:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 13,98 por 100 g e R$ 0,70 por dose. Rende 100 porções, pouco mais de três meses com uma dose por dia. É a escolha para quem já sabe que vai tomar todo dia.",
-          "**Primeiro pote ou pouco espaço:** o [pote de 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p), a R$ 33,89. Custa mais que o dobro por grama do de 500 g, mas é o menor valor para começar e rende 20 porções.",
+          "**Menor preço por grama:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 13,98 por 100 g e R$ 0,70 por dose, ou R$ 0,69 com o código. Rende 100 porções, pouco mais de três meses com uma dose por dia. É a escolha para quem já sabe que vai tomar todo dia.",
+          "**Primeiro pote ou pouco espaço:** o [pote de 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p), a R$ 33,89, quando voltar ao estoque. Custa mais que o dobro por grama do de 500 g, mas é o menor valor para começar e rende 20 porções.",
           "**Meio-termo:** o [pote de 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p) sai a R$ 59,90, ou R$ 1,00 por porção de 5 g. Por grama, fica cerca de 43% acima do de 500 g; o desembolso pelo pote é menor.",
           "**Quer o selo Creapure:** só a [Creatina Creapure de 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 139,89 e R$ 2,80 por dose. É o único pote da Max com o selo, e custa 4 vezes o de 500 g por grama, com a mesma dose de 5.000 mg na tabela."
         ],
         "postParagraphs": [
-          "Em qualquer um dos quatro, o cupom MAX10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto. Para ver a creatina da Max ao lado da de outras marcas, com a mesma conta por grama, há o [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e o [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
+          "O código MAX10EMCASACOMCECILIA entra em qualquer um dos quatro, com o percentual variando por produto: nas creatinas do nosso teste, 2%. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. Para ver a creatina da Max ao lado da de outras marcas, com a mesma conta por grama, há o [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e o [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
         ],
-        "emphasis": "O pote de 500 g tem o menor custo por porção de 5 g: R$ 0,70, contra R$ 1,00 no de 300 g."
+        "emphasis": "Para quem vai tomar todo dia, o pote de 500 g é o que compensa: R$ 0,70 por dose, contra R$ 1,00 no de 300 g.",
+        "links": [
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Creatina Creapure 250 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatina-creapure-250g/p",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A creatina da Max Titanium é boa? Os quatro potes declaram 5.000 mg de creatina por porção de 5 g. Os de 100 g, 300 g e 500 g listam creatina monohidratada e dióxido de silício; a Creapure de 250 g lista só creatina monohidratada. O rótulo, sozinho, não mostra efeito nem qualidade de lote.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Digite o código no carrinho e confira a linha Descontos antes de pagar. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium).",
+          "A creatina da Max Titanium é boa? Os quatro potes declaram 5.000 mg de creatina por porção de 5 g. Os de 100 g, 300 g e 500 g listam creatina monohidratada e dióxido de silício; a Creapure de 250 g lista só creatina monohidratada.",
           "A creatina da Max Titanium é Creapure? Só a Creatina Creapure de 250 g, que traz o selo na embalagem e na página e, segundo a ficha, é produzida na Alemanha pela Alzchem. Os potes de 100 g, 300 g e 500 g não declaram o selo nas páginas dos produtos.",
           "A creatina da Max Titanium é pura? Os potes de 100 g, 300 g e 500 g incluem dióxido de silício como antiumectante; a Creapure de 250 g lista só creatina monohidratada. Lista de ingredientes não é laudo de pureza.",
           "Qual pote de creatina da Max rende mais? O de 500 g: 100 porções de 5 g, a R$ 0,70 por dose. O de 300 g rende 60 porções, a Creapure de 250 g rende 50 e o de 100 g rende 20.",
+          "O cupom dá 10% na creatina? Não: o MAX10EMCASACOMCECILIA dá até 10%, e no teste de novembro as creatinas receberam 2%. O percentual varia por produto, e a linha Descontos do carrinho mostra o valor.",
           "A creatina de 300 g e a de 500 g da Max são iguais? Pela ficha, sim: os mesmos ingredientes, a mesma porção de 5 g com 5.000 mg de creatina e nenhum dos dois declara Creapure. Muda o número de porções (60 e 100) e o preço por grama, mais baixo no de 500 g."
         ]
       }
@@ -162584,22 +163182,36 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos as creatinas. Podemos receber comissão pelo cupom da Max Titanium.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-ou-dux"
+        "slug": "cupom-max-titanium-como-usar"
       },
       {
-        "slug": "max-titanium-ou-growth"
+        "slug": "kit-max-titanium-quando-compensa"
+      },
+      {
+        "slug": "black-friday-max-titanium"
       },
       {
         "slug": "creatina-com-sabor-qual-escolher"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Escolha o pote de 500 g se você vai tomar todo dia: é a menor dose da Max, e o código ainda tira 2% no carrinho.",
+        "Escolha o de 300 g se prefere um desembolso menor e aceita pagar mais por dose.",
+        "Escolha a Creapure de 250 g se o selo e a origem alemã da matéria-prima pesam mais que o preço."
+      ],
+      "skipIf": [
+        "Passe no pote de 100 g como compra de rotina: é o mais caro por grama entre os sem selo e estava sem estoque em novembro.",
+        "Passe na Creapure se a conta é só preço: a dose de 5.000 mg é a mesma dos outros potes, por quatro vezes o valor por grama do de 500 g."
+      ]
+    }
   },
   {
     "id": 654,
     "slug": "pre-treino-max-titanium-horus-ou-egide",
     "locale": "pt",
     "title": "Pré-treino Max Titanium: Hórus ou Égide, pela cafeína no rótulo e pelo preço por dose",
-    "seoTitle": "Pré-treino Max Titanium: Hórus ou Égide, cafeína e preço por dose",
+    "seoTitle": "Pré-treino Max Titanium: Hórus, Égide ou Night Train",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -162614,7 +163226,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Pré-treino Max Titanium com o MAX10EMCASACOMCECILIA e até 10% OFF: Hórus ou Égide pela cafeína e pelo preço por dose, e o Night Train sem cafeína.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa-v2.webp",
@@ -162623,9 +163235,9 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "contentSections": [
       {
-        "heading": "Resposta rápida: Hórus ou Égide",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g sai mais barato por dose, com 50 doses de 6 g contra cerca de 36 no Hórus, e o Night Train é a opção sem cafeína. O código MAX10EMCASACOMCECILIA dá até 10% OFF."
+          "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g sai mais barato por dose e o Night Train é a opção sem cafeína. O código MAX10EMCASACOMCECILIA dá até 10% OFF; a conta por dose está abaixo, e o [cupom Max Titanium](/cupons/max-titanium) tem as regras."
         ]
       },
       {
@@ -162677,7 +163289,9 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O Hórus de 300 g e o de 150 g têm a mesma tabela, e o Égide de 300 g e o de 150 g também. A tabela do Night Train não traz linha de cafeína, e a lista de ingredientes não cita cafeína; o título da página diz \"sem cafeína\".",
           "O carboidrato por dose muda entre eles. O Hórus tem 3,3 g de carboidrato e 1,8 g de açúcares adicionados por dose, e a lista de ingredientes traz isomaltulose. O Égide tem 0,8 g de carboidrato e a tabela diz que não contém quantidade significativa de açúcares. O Night Train tem 3,9 g de carboidrato e 0,1 g de açúcares adicionados.",
-          "Sabores à venda, pelas páginas dos produtos: o Hórus de 300 g em amora, frutas vermelhas, maçã verde, citrus, Blue Ice, limão yuzu e cotton candy; o Égide de 300 g em frutas vermelhas, açaí com guaraná, limão, frutas silvestres e dois sabores com o nome do Ramon Dino, abacaxi e manga e abacaxi com hortelã; o Égide de 150 g em frutas vermelhas, açaí com guaraná, frutas silvestres e limão; o Night Train em frutas vermelhas e citrus. Todos declaram não conter glúten, e todos levam sucralose e corante artificial."
+          "Sabores à venda, pelas páginas dos produtos: o Hórus de 300 g em amora, frutas vermelhas, maçã verde, citrus, Blue Ice, limão yuzu e cotton candy; o Égide de 300 g em frutas vermelhas, açaí com guaraná, limão, frutas silvestres e dois sabores com o nome do Ramon Dino, abacaxi e manga e abacaxi com hortelã; o Égide de 150 g em frutas silvestres e limão. Todos declaram não conter glúten, e todos levam sucralose e corante artificial.",
+          "O Égide reúne mais cafeína em uma porção menor que a do Hórus. A diferença no tamanho da porção muda o rendimento: no pote de 300 g, são 50 porções no Égide e cerca de 36 no Hórus.",
+          "Beta-alanina e arginina têm as mesmas quantidades declaradas por porção; taurina e tirosina diferem, como mostra o quadro."
         ],
         "images": [
           {
@@ -162685,44 +163299,23 @@ export const reviewsData: unknown[] = [
             "alt": "Pote do pré-treino Hórus 300 g da Max Titanium, sabor amora, com os números do rótulo: 2 g de beta-alanina, 150 mg de cafeína, 1.000 mg de taurina e 1.000 mg de arginina",
             "caption": "Foto oficial da Max Titanium: Hórus 300 g, sabor amora.",
             "objectFit": "contain",
-            "aspectRatio": 0.8798
+            "aspectRatio": 0.8798,
+            "href": "https://www.maxtitanium.com.br/horus/p"
           },
           {
             "src": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-egide-300g.webp",
             "alt": "Pote do pré-treino Égide 300 g da Max Titanium, sabor frutas vermelhas",
             "caption": "Foto oficial da Max Titanium: Égide 300 g, sabor frutas vermelhas.",
             "objectFit": "contain",
-            "aspectRatio": 0.8824
-          }
-        ]
-      },
-      {
-        "heading": "Hórus ou Égide: o que muda no rótulo",
-        "paragraphs": [
-          "O Égide reúne mais cafeína em uma porção menor que a do Hórus. A diferença no tamanho da porção muda o rendimento: no pote de 300 g, são 50 porções no Égide e cerca de 36 no Hórus.",
-          "Beta-alanina e arginina têm as mesmas quantidades declaradas por porção; taurina e tirosina diferem, como mostra o quadro."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-horus-300g.webp",
-            "alt": "Tabela nutricional do Hórus 300 g sabor amora: cerca de 36 porções de 8,4 g, 13 kcal, 3,3 g de carboidratos, 1,8 g de açúcares adicionados, 1.000 mg de arginina, 2.000 mg de beta-alanina, 150 mg de cafeína e 1.000 mg de taurina por dose",
-            "caption": "Tabela nutricional do Hórus 300 g, da página do produto na Max Titanium.",
-            "objectFit": "contain",
-            "aspectRatio": 0.8491
-          },
-          {
-            "src": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-egide-300g.webp",
-            "alt": "Tabela nutricional do Égide 300 g sabor frutas vermelhas: 50 porções de 6 g, 3 kcal, 0,8 g de carboidratos, 1.000 mg de arginina, 2.000 mg de beta-alanina, 263 mg de tirosina, 200 mg de cafeína e 1.200 mg de taurina por dose",
-            "caption": "Tabela nutricional do Égide 300 g, da página do produto na Max Titanium.",
-            "objectFit": "contain",
-            "aspectRatio": 1.0112
+            "aspectRatio": 0.8824,
+            "href": "https://www.maxtitanium.com.br/egide-300g/p"
           }
         ]
       },
       {
         "heading": "Quanto custa cada dose",
         "paragraphs": [
-          "O preço por dose é o preço do site em 28/10/2026 dividido pelo número de doses que a tabela do rótulo declara. A última coluna aplica o teto do cupom MAX10EMCASACOMCECILIA, 10%, sobre esse preço; o desconto real varia por produto e pode ser menor. A conta é nossa e está arredondada no centavo."
+          "Conta nossa: o preço por dose é o preço do site dividido pelo número de doses que a tabela do rótulo declara, arredondado no centavo. A última coluna desconta o que o cupom MAX10EMCASACOMCECILIA deu no carrinho no teste de novembro."
         ],
         "comparisonTable": {
           "headers": [
@@ -162730,7 +163323,7 @@ export const reviewsData: unknown[] = [
             "Dose e doses",
             "Preço no site",
             "Por dose",
-            "Por dose com o cupom no teto"
+            "Por dose com o cupom (teste de novembro)"
           ],
           "rows": [
             [
@@ -162738,50 +163331,50 @@ export const reviewsData: unknown[] = [
               "8,4 g, cerca de 36",
               "R$ 88,89 (de R$ 115,70)",
               "R$ 2,47",
-              "R$ 2,22"
+              "R$ 2,42"
             ],
             [
               "[Hórus 150 g](https://www.maxtitanium.com.br/horus-pote--150g/p)",
               "8,4 g, cerca de 18",
               "R$ 46,89 (de R$ 79,90)",
               "R$ 2,61",
-              "R$ 2,34"
+              "não testado"
             ],
             [
               "[Égide 300 g](https://www.maxtitanium.com.br/egide-300g/p)",
               "6 g, 50",
-              "R$ 109,89 (de R$ 136,70)",
-              "R$ 2,20",
-              "R$ 1,98"
+              "R$ 89,90 (de R$ 136,70)",
+              "R$ 1,80",
+              "R$ 1,76"
             ],
             [
               "[Égide 150 g](https://www.maxtitanium.com.br/egide-150g/p)",
               "6 g, 25",
-              "R$ 57,89 (de R$ 89,90)",
-              "R$ 2,32",
-              "R$ 2,08"
+              "R$ 53,90 (de R$ 89,90)",
+              "R$ 2,16",
+              "R$ 2,11"
             ],
             [
               "[Night Train 300 g](https://www.maxtitanium.com.br/night-train-/p)",
               "8,4 g, cerca de 36",
               "R$ 109,89",
               "R$ 3,05",
-              "R$ 2,75"
+              "R$ 2,99"
             ]
-          ]
+          ],
+          "caption": "Preços do site em 22/11, no cartão, sem frete. O Hórus 150 g não entrou no teste do cupom."
         },
         "postParagraphs": [
-          "O pote do Égide de 300 g custa R$ 21,00 a mais que o do Hórus de 300 g, mas rende 14 doses a mais. Por isso o Égide sai R$ 0,27 mais barato por dose: R$ 2,20 contra R$ 2,47. Quem compara só o preço do pote vê o contrário.",
-          "Dentro de cada linha, o pote de 300 g sai mais barato por dose que o de 150 g: R$ 2,47 contra R$ 2,61 no Hórus e R$ 2,20 contra R$ 2,32 no Égide. O Night Train é o mais caro por dose, R$ 3,05, e o único sem preço riscado. Em outubro, parte dos sabores do Hórus de 150 g estava sem estoque.",
-          "O Hórus de 300 g também sai no sabor 7Belo, por R$ 93,52.",
-          "Com o cupom no teto, o Égide de 300 g cai de R$ 109,89 para R$ 98,90, e o Hórus de 300 g, de R$ 88,89 para R$ 80,00. O cupom vale com todas as formas de pagamento e soma com as promoções do site, diz a página da loja. O código e as regras estão na página do [cupom Max Titanium](/cupons/max-titanium)."
+          "O pote do Égide de 300 g custa R$ 1,01 a mais que o do Hórus de 300 g, mas rende 14 doses a mais. Por isso o Égide sai R$ 0,67 mais barato por dose: R$ 1,80 contra R$ 2,47. Quem compara só o preço do pote vê o contrário.",
+          "Dentro de cada linha, o pote de 300 g sai mais barato por dose que o de 150 g: R$ 2,47 contra R$ 2,61 no Hórus e R$ 1,80 contra R$ 2,16 no Égide. O Night Train é o mais caro por dose, R$ 3,05, e o único sem preço riscado. O Hórus de 300 g também sai no sabor 7Belo, por R$ 93,52.",
+          "No teste de novembro, o cupom deu 2% nos quatro itens testados: o Égide de 300 g foi de R$ 89,90 para R$ 88,10, e o Hórus de 300 g, de R$ 88,89 para R$ 87,11. Na conta por dose, isso dá R$ 1,76 e R$ 2,42, e a ordem entre os dois não muda. O desconto varia por produto e aparece no carrinho. Para colar o código: carrinho, \"Adicionar cupom de desconto\", campo Código, \"Adicionar\". Ele vale no site oficial e no aplicativo, em todas as formas de pagamento, e soma com as promoções do site. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
-        "heading": "Pré-treino da Max Titanium sem cafeína existe?",
+        "heading": "Night Train: o pré-treino sem cafeína",
         "paragraphs": [
           "Sim. O [Night Train](https://www.maxtitanium.com.br/night-train-/p) é o pré-treino sem cafeína da Max Titanium. O título da página diz \"sem cafeína\", a tabela nutricional não traz linha de cafeína e a lista de ingredientes não a cita: a dose de 8,4 g tem 2 g de beta-alanina, 1.000 mg de taurina e 1.000 mg de arginina, os mesmos números do Hórus sem a cafeína.",
-          "Ele custa mais por dose que os outros dois, R$ 3,05, e vem em dois sabores, frutas vermelhas e citrus. Para conferir qualquer pré-treino, veja a tabela nutricional e a lista de ingredientes na página do produto: a quantidade de cafeína por dose fica na tabela."
+          "Ele custa mais por dose que os outros dois, R$ 3,05. Para conferir qualquer pré-treino, veja a tabela nutricional e a lista de ingredientes na página do produto: a quantidade de cafeína por dose fica na tabela."
         ],
         "images": [
           {
@@ -162789,7 +163382,8 @@ export const reviewsData: unknown[] = [
             "alt": "Pote do pré-treino Night Train 300 g da Max Titanium, sabor frutas vermelhas, com o selo sem cafeína no rótulo",
             "caption": "Foto oficial da Max Titanium: Night Train 300 g, sabor frutas vermelhas.",
             "objectFit": "contain",
-            "aspectRatio": 0.8937
+            "aspectRatio": 0.8937,
+            "href": "https://www.maxtitanium.com.br/night-train-/p"
           },
           {
             "src": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-tabela-night-train-300g.webp",
@@ -162814,27 +163408,44 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Menos cafeína por dose: Hórus, com 150 mg. O Égide tem 200 mg.",
-          "Menor preço por dose: Égide de 300 g, a R$ 2,20 (R$ 1,98 com o cupom no teto). O Hórus de 300 g sai a R$ 2,47 (R$ 2,22 com o cupom).",
+          "Menor preço por dose: Égide de 300 g, a R$ 1,80 (R$ 1,76 com o cupom no teste de novembro). O Hórus de 300 g sai a R$ 2,47 (R$ 2,42 com o cupom).",
           "Menor preço do pote: Hórus de 300 g, R$ 88,89, ou Hórus de 150 g, R$ 46,89, para começar com um pote pequeno.",
           "Menos carboidrato por dose no rótulo: Égide, com 0,8 g, e açúcares em quantidade não significativa. O Hórus tem 3,3 g de carboidrato, com 1,8 g de açúcares adicionados.",
           "Sem cafeína: Night Train, a R$ 3,05 por dose.",
-          "Cupom MAX10EMCASACOMCECILIA: até 10% na Max Titanium, com o percentual variando por produto. As condições estão na [página do cupom da Max Titanium](/cupons/max-titanium)."
+          "Cupom MAX10EMCASACOMCECILIA: até 10% OFF na Max Titanium. No teste de novembro, deu 2% nestes pré-treinos. As condições estão na [página do cupom da Max Titanium](/cupons/max-titanium)."
         ],
         "postParagraphs": [
           "Se o preço mudar, a conta muda. Refaça a conta por dose com o preço do dia antes de comprar."
         ],
-        "emphasis": "Pelos números da tabela, para quem quer menos cafeína a escolha é o Hórus, porque tem 150 mg por dose; para o menor preço por dose, o Égide de 300 g, porque rende 50 doses."
+        "emphasis": "Para pagar menos por dose, o Égide de 300 g ganha dos três; o Hórus só compensa para quem coloca os 150 mg de cafeína acima do preço.",
+        "links": [
+          {
+            "label": "Ver o Égide na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/egide-300g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Hórus na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/horus/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Night Train na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/night-train-/p",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Hórus ou Égide: qual é melhor? Pelo rótulo e pelo preço, o Hórus tem menos cafeína por dose, 150 mg contra 200 mg, e o Égide de 300 g custa menos por dose, R$ 2,20 contra R$ 2,47, porque rende 50 doses de 6 g. Qual pesa mais é uma conta sua.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no carrinho, em \"Adicionar cupom de desconto\", no campo Código. As regras estão no [cupom Max Titanium](/cupons/max-titanium).",
+          "Hórus ou Égide: qual é melhor? Pelo rótulo e pelo preço, o Hórus tem menos cafeína por dose, 150 mg contra 200 mg, e o Égide de 300 g custa menos por dose, porque rende 50 doses de 6 g. A conta está na tabela acima.",
           "Pré-treino Max Titanium tem cafeína? O Hórus e o Égide têm: 150 mg e 200 mg por dose, pela tabela do rótulo. O Night Train não tem cafeína na tabela nem na lista de ingredientes.",
           "Qual pré-treino da Max Titanium tem mais cafeína, Hórus ou Égide? O Égide, com 200 mg por dose de 6 g. O Hórus tem 150 mg por dose de 8,4 g. O Shook, que fica fora deste guia, também declara 200 mg por dose.",
-          "Pré-treino Max Titanium sem cafeína existe? Sim, o Night Train, de 300 g, em frutas vermelhas e citrus. A página o chama de pré-treino sem cafeína, e a tabela do rótulo não traz linha de cafeína.",
+          "Pré-treino Max Titanium sem cafeína existe? Sim, o Night Train, de 300 g. A página o chama de pré-treino sem cafeína, e a tabela do rótulo não traz linha de cafeína.",
           "Quantas doses tem cada pote? O Hórus rende cerca de 36 doses no pote de 300 g e cerca de 18 no de 150 g. O Égide rende 50 doses no de 300 g e 25 no de 150 g. O Night Train rende cerca de 36.",
-          "Hórus da Max Titanium é bom? Ninguém do site usou o produto. O rótulo declara 150 mg de cafeína, 2.000 mg de beta-alanina, 1.000 mg de taurina e 1.000 mg de arginina por dose de 8,4 g, a R$ 2,47 por dose no pote de 300 g.",
-          "Qual o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, de até 10%, com o percentual variando por produto. Veja as condições na [página do cupom](/cupons/max-titanium)."
+          "Hórus da Max Titanium é bom? O rótulo declara 150 mg de cafeína, 2.000 mg de beta-alanina, 1.000 mg de taurina e 1.000 mg de arginina por dose de 8,4 g. Se compensa depende da cafeína que você procura e do preço por dose, na tabela acima."
         ]
       }
     ],
@@ -162854,19 +163465,30 @@ export const reviewsData: unknown[] = [
         "slug": "max-titanium-ou-dux"
       },
       {
-        "slug": "max-titanium-e-confiavel"
+        "slug": "whey-max-titanium-qual-escolher"
       },
       {
         "slug": "cupom-max-titanium-como-usar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve o Hórus se você quer menos cafeína por dose: são 150 mg, contra 200 mg do Égide.",
+        "Leve o Égide de 300 g se o preço por dose decide: ele rende 50 doses e sai mais barato por dose, com ou sem cupom.",
+        "Leve o Night Train se você quer um pré-treino sem cafeína na tabela."
+      ],
+      "skipIf": [
+        "Passe no Égide se você quer a menor cafeína por dose: ele declara 200 mg.",
+        "Passe no Night Train se o preço por dose decide: ele é o mais caro dos três."
+      ]
+    }
   },
   {
     "id": 655,
     "slug": "max-titanium-ou-integralmedica",
     "locale": "pt",
     "title": "Max Titanium ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina",
-    "seoTitle": "Max Titanium ou Integralmédica: whey e creatina pelo rótulo",
+    "seoTitle": "Max Titanium ou Integralmédica: whey e creatina no rótulo",
     "type": "Comparativo de Suplemento",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -162877,11 +163499,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "No whey, a Max Titanium sai mais barata por 100 g de proteína; na creatina, só o pouch de 1 kg da Integralmédica fica abaixo no cartão. Veja o veredito por perfil.",
-    "metaDescription": "MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max ou Integralmédica: whey mais barato na Max; na creatina, só o pouch de 1 kg da Integralmédica, no cartão.",
+    "description": "No whey, a Max Titanium sai mais barata por 100 g de proteína; na creatina, a Max ganha em 500 g e 1 kg e a Integralmédica, no pote de 300 g. Veja o veredito por perfil.",
+    "metaDescription": "MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max ou Integralmédica: whey mais barato na Max; creatina, Max em 500 g e 1 kg, Integralmédica em 300 g.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa-v2.webp",
@@ -162892,22 +163514,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No whey, a Max sai mais barata por 100 g de proteína, no 100% Whey Refil, contra o pouch de 900 g da Integralmédica. Na creatina, só o pouch de 1 kg dela fica abaixo da Max de 500 g no cartão. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max; o veredito está em Qual escolher."
-        ]
-      },
-      {
-        "heading": "Como comparamos",
-        "paragraphs": [
-          "Este guia compara whey e creatina da Max Titanium, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: a tabela nutricional do rótulo, a lista de ingredientes e o preço do site em 28/10/2026, no cartão, sem frete e sem desconto de Pix. Entram os tamanhos que mais se parecem: whey de 900 g contra 900 g, com o pouch de 1,8 kg da Integralmédica e o Whey Pro de 1 kg da Max como linhas extras, e creatina de 300 g, 500 g e 1 kg. Os isolados e as Creapure ficam numa frase cada.",
-          "No whey, calculamos a proteína total da embalagem como peso líquido ÷ tamanho da porção × proteína por porção, e dividimos o preço por esse total. No pouch de 1,8 kg, isso dá 60 porções de 30 g. Na creatina, dividimos o preço pelo peso líquido e multiplicamos por 100.",
-          "Sabor, dissolução e digestão ficam de fora desta comparação. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
-          "A série compara a Max com uma marca por vez: [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica) seguem o mesmo método. A Integralmédica já apareceu em [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica)."
+          "No whey, a Max sai mais barata por 100 g de proteína, no Whey Pro e no 100% Whey Refil, contra os pouches da Integralmédica. Na creatina, a Max ganha em 500 g e em 1 kg, e a Integralmédica, no pote de 300 g. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max; veja o [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "A tabela usa o sabor baunilha das duas, que é o da tabela publicada em cada página. Na Max, o 100% Whey Refil e o 100% Whey Pote têm a mesma tabela: 21 g de proteína em cada porção de 30 g, 30 porções. O Whey Pro de 1 kg tem 15 g em 40 g, 25 porções. No pouch de 900 g da Integralmédica, são 21 g em 30 g, 30 porções. O pouch de 1,8 kg traz a mesma porção e a mesma proteína; a imagem da tabela repete \"30 porções\", mas 1,8 kg a 30 g por dose dá 60, e a conta usa 60 pelo peso."
+          "Comparamos o sabor baunilha das duas, que é o da tabela publicada em cada página, nos tamanhos que mais se parecem: 900 g contra 900 g, com o pouch de 1,8 kg da Integralmédica e o Whey Pro de 1 kg da Max como linhas extras. Na Max, o 100% Whey Refil e o 100% Whey Pote têm a mesma tabela: 21 g de proteína em cada porção de 30 g, 30 porções. O Whey Pro tem 15 g em 40 g, 25 porções. No pouch de 900 g da Integralmédica, são 21 g em 30 g, 30 porções. O pouch de 1,8 kg traz a mesma porção e a mesma proteína; a imagem da tabela repete “30 porções”, mas 1,8 kg a 30 g por dose dá 60, e a conta usa 60 pelo peso."
         ],
         "images": [
           {
@@ -162915,7 +163528,8 @@ export const reviewsData: unknown[] = [
             "alt": "Embalagem do 100% Whey Refil de 900 g da Max Titanium, sabor baunilha.",
             "caption": "100% Whey Refil 900 g, a linha mais barata por 100 g de proteína. Imagem: Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 0.7692
+            "aspectRatio": 0.7692,
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p"
           }
         ],
         "comparisonTable": {
@@ -162945,8 +163559,8 @@ export const reviewsData: unknown[] = [
               "[Max Whey Pro](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
               "1 kg",
               "40 g, 15 g de proteína, 25 porções",
-              "R$ 126,20",
-              "R$ 33,65"
+              "R$ 109,90 (de R$ 126,20)",
+              "R$ 29,31"
             ],
             [
               "Integralmédica Whey Protein Concentrado pouch",
@@ -162963,34 +163577,37 @@ export const reviewsData: unknown[] = [
               "R$ 32,06"
             ]
           ],
-          "caption": "Baunilha, preços no cartão, sem frete nem cupom."
+          "caption": "Baunilha, preços no cartão, sem frete nem cupom; a conta é o preço ÷ (porções × proteína por porção) × 100. O Whey Pro está em promoção de novembro."
         },
         "postParagraphs": [
-          "Com o MAX10EMCASACOMCECILIA no teto de 10%, o Refil sai por R$ 28,06 por 100 g de proteína, o Pote por R$ 30,06 e o Whey Pro por R$ 30,29. O cupom é da Max e o desconto varia por produto; este texto não traz cupom da Integralmédica. Por dose, no cartão, o Refil fica em R$ 6,55, o Pote em R$ 7,01 e o Whey Pro em R$ 5,05, porque a dose dele tem menos proteína; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg).",
-          "O Whey Pro é o pote mais barato da tabela, R$ 12,62 por 100 g de produto, mas por 100 g de proteína ele fica atrás do Refil: a dose de 40 g traz 15 g de proteína e 18 g de açúcares, diz a tabela do rótulo. O pote de 900 g da Integralmédica, sem tabela nutricional na comparação, entra só pelo preço por 100 g de produto: R$ 26,67. Nos sabores chocolate e cookies and cream, a tabela da Integralmédica traz 20 g de proteína por porção: o pouch de 900 g sobe para R$ 37,83 por 100 g de proteína e o de 1,8 kg, para R$ 33,67.",
-          "Nos isolados, o [IsoWhey de 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) custava R$ 326,18, com 26 g de proteína em 30 g e 30 porções: R$ 41,82 por 100 g de proteína, ou R$ 37,64 com o cupom no teto. O Whey Protein Isolado de 900 g da Integralmédica custava R$ 483,00, R$ 53,67 por 100 g de produto contra R$ 36,24 do IsoWhey; a tabela dele não entra na comparação, então não há preço por 100 g de proteína. A comparação do IsoWhey com outro isolado está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
+          "Conta nossa, pelo carrinho de novembro: o cupom deu 2% no Refil e no Pote e 8,9% no Whey Pro. Por 100 g de proteína, no cartão, o Refil cai para R$ 30,55, o Pote, para R$ 32,73 e o Whey Pro, para R$ 26,71. O cupom é da Max e o desconto varia por produto; este texto não traz cupom da Integralmédica. Por dose, no cartão, o Refil fica em R$ 6,55, o Pote em R$ 7,01 e o Whey Pro em R$ 4,40, porque a dose dele tem menos proteína; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg).",
+          "O Whey Pro é o pote mais barato da tabela, R$ 10,99 por 100 g de produto, e na promoção também o de menor preço por 100 g de proteína. A dose de 40 g traz 15 g de proteína e 18 g de açúcares, diz a tabela do rótulo, e sem a promoção, a R$ 126,20, ele volta a R$ 33,65 por 100 g de proteína, atrás do Refil. O pote de 900 g da Integralmédica, sem tabela nutricional na comparação, entra só pelo preço por 100 g de produto: R$ 26,67. Nos sabores chocolate e cookies and cream, a tabela da Integralmédica traz 20 g de proteína por porção: o pouch de 900 g sobe para R$ 37,83 por 100 g de proteína e o de 1,8 kg, para R$ 33,67.",
+          "Nos isolados, o [IsoWhey de 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) custava R$ 326,18, com 26 g de proteína em 30 g e 30 porções: R$ 41,82 por 100 g de proteína, ou R$ 40,98 com o cupom (2% no teste de novembro). O Whey Protein Isolado de 900 g da Integralmédica custava R$ 483,00, R$ 53,67 por 100 g de produto contra R$ 36,24 do IsoWhey; a tabela dele não entra na comparação, então não há preço por 100 g de proteína. A comparação do IsoWhey com outro isolado está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
+        ],
+        "links": [
+          {
+            "label": "Ver o 100% Whey Refil na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Whey Pro na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "O que o rótulo diz",
         "paragraphs": [
-          "Os três wheys concentrados da Max listam proteína concentrada do soro do leite (WPC), aromatizante, emulsificante lecitina de soja e edulcorante sucralose, e o rótulo diz que não contêm glúten. O pouch de 900 g da Integralmédica, no sabor baunilha, lista proteína de soro do leite concentrada, aromatizante e edulcorante sucralose; o rótulo diz que contém leite, derivados de leite e soja, contém lactose e não contém glúten. No adoçante, as duas marcas se igualam, e a conta de preço não muda por isso.",
-          "Na creatina, os potes de 300 g e de 500 g da Max listam creatina monohidratada e antiumectante dióxido de silício, sem glúten, com dose de 5 g (5.000 mg) e 60 ou 100 porções. A Creatina 100% Pura pouch de 1 kg da Integralmédica lista só creatina monohidratada, sem glúten, com a mesma dose de 5 g. \"100% Pura\" é o nome do produto, não um selo de pureza, e o texto não usa a palavra como qualidade."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-tabela-whey-refil.webp",
-            "alt": "Tabela nutricional do 100% Whey Refil 900 g da Max Titanium, sabor baunilha: porção de 30 g com 21 g de proteína, 30 porções por embalagem.",
-            "caption": "Tabela da própria Max: 21 g de proteína em cada porção de 30 g, 30 porções. Imagem: Max Titanium.",
-            "objectFit": "contain",
-            "aspectRatio": 1.1057
-          }
+          "Os três wheys concentrados da Max, o [100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p), o [100% Whey Pote](https://www.maxtitanium.com.br/100-whey-pote-900g/p) e o [Whey Pro](https://www.maxtitanium.com.br/whey-pro-1kg/p), listam proteína concentrada do soro do leite (WPC), aromatizante, emulsificante lecitina de soja e edulcorante sucralose, e o rótulo diz que não contêm glúten. O pouch de 900 g da Integralmédica, no sabor baunilha, lista proteína de soro do leite concentrada, aromatizante e edulcorante sucralose; o rótulo diz que contém leite, derivados de leite e soja, contém lactose e não contém glúten. No adoçante, as duas marcas se igualam, e a conta de preço não muda por isso.",
+          "Na creatina, os potes de [300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p) e de [500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p) da Max listam creatina monohidratada e antiumectante dióxido de silício, sem glúten, com dose de 5 g (5.000 mg) e 60 ou 100 porções. A Creatina 100% Pura pouch de 1 kg da Integralmédica lista só creatina monohidratada, sem glúten, com a mesma dose de 5 g. \"100% Pura\" é o nome do produto, não um selo de pureza, e o texto não usa a palavra como qualidade."
         ]
       },
       {
         "heading": "Creatina: preço por 100 g de produto",
         "paragraphs": [
-          "A tabela compara as creatinas monohidratadas por 100 g de produto, nos tamanhos de 300 g, 500 g e 1 kg. Os preços são os do cartão no site de cada marca, e o do pouch de 1 kg oscilou: confira o preço do dia antes de comprar."
+          "A tabela compara as creatinas monohidratadas por 100 g de produto, nos tamanhos de 300 g, 500 g e 1 kg. Os preços são os do cartão no site de cada marca, e o do pouch de 1 kg da Integralmédica oscilou: confira o preço do dia antes de comprar."
         ],
         "images": [
           {
@@ -162998,7 +163615,8 @@ export const reviewsData: unknown[] = [
             "alt": "Pote de Creatina de 500 g da Max Titanium.",
             "caption": "Creatina 500 g, o pote da Max mais barato por 100 g. Imagem: Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 0.6787
+            "aspectRatio": 0.6787,
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p"
           }
         ],
         "comparisonTable": {
@@ -163016,16 +163634,16 @@ export const reviewsData: unknown[] = [
               "R$ 19,97"
             ],
             [
-              "[Max Creatina](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
-              "500 g",
-              "R$ 69,90",
-              "R$ 13,98"
-            ],
-            [
               "Integralmédica Creatina Hardcore pote",
               "300 g",
               "R$ 50,00 (de R$ 60,00)",
               "R$ 16,67"
+            ],
+            [
+              "[Max Creatina](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
+              "500 g",
+              "R$ 69,90",
+              "R$ 13,98"
             ],
             [
               "Integralmédica Creatina Hardcore pote",
@@ -163034,52 +163652,79 @@ export const reviewsData: unknown[] = [
               "R$ 16,60"
             ],
             [
+              "[Max Pack 2 x Creatina 500 g](https://www.maxtitanium.com.br/pack-creatina-500g/p)",
+              "1 kg",
+              "R$ 119,80",
+              "R$ 11,98"
+            ],
+            [
               "Integralmédica Creatina 100% Pura pouch",
               "1 kg",
               "R$ 125,00 (de R$ 156,00)",
               "R$ 12,50"
             ]
           ],
-          "caption": "Preços no cartão, sem frete nem cupom; comparação por 100 g de produto. O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original."
+          "caption": "Preços no cartão, sem frete nem cupom; comparação por 100 g de produto. Os preços da Max de 500 g e do pack são de novembro, e os demais são da leitura original."
         },
         "postParagraphs": [
-          "A Integralmédica custava menos no tamanho de 300 g comparado sem cupom; a Max de 500 g ficava abaixo dos dois potes dela, e o pouch de 1 kg tinha o menor custo por grama da tabela. Com o MAX10EMCASACOMCECILIA no teto de 10%, a Max de 500 g ficava em R$ 12,58 por 100 g; a Max de 300 g, em R$ 17,97, continuava acima da Integralmédica de 300 g. Mesmo no teto, nenhum desses dois potes Max alcançava os R$ 12,50 por 100 g do pouch de 1 kg. Por dose declarada de 5 g, eram R$ 1,00 na Max de 300 g, R$ 0,70 na Max de 500 g e R$ 0,63 no pouch de 1 kg da Integralmédica.",
-          "Nas Creapure, a [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) custava R$ 139,89, R$ 55,96 por 100 g, com dose de 5 g e 50 porções; a ficha diz que a creatina é produzida na Alemanha pela Alzchem. A Creatina Creapure de 300 g da Integralmédica custava R$ 184,00, R$ 61,33 por 100 g. As duas marcas declaram o selo."
-        ]
-      },
-      {
-        "heading": "Quem fabrica e quem vende",
-        "paragraphs": [
-          "A Max Titanium é marca brasileira e vende no site próprio; quem fabrica, o CNPJ, as trocas e a reputação estão em [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel). A origem da Integralmédica, com a empresa que opera a loja e o grupo que reúne a marca, está em [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica), e este texto não repete essa parte."
+          "Sem cupom, a Integralmédica custa menos no tamanho de 300 g (R$ 16,67 contra R$ 19,97 por 100 g). A Max de 500 g fica abaixo dos dois potes dela, e no 1 kg o pack da Max, a R$ 11,98, fica abaixo do pouch da Integralmédica, a R$ 12,50. Conta nossa, pelo carrinho de novembro: o cupom deu 2% na creatina da Max, e a de 300 g vai a R$ 19,57, e a de 500 g, a R$ 13,70; o pack não entrou no teste, e o desconto dele aparece no carrinho. Mesmo com o cupom, a Max de 500 g fica acima do pouch de 1 kg da Integralmédica (R$ 13,70 contra R$ 12,50). Por dose declarada de 5 g, eram R$ 1,00 na Max de 300 g, R$ 0,70 na de 500 g e R$ 0,63 no pouch de 1 kg da Integralmédica.",
+          "Nas Creapure, a [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) custava R$ 139,89, R$ 55,96 por 100 g, com dose de 5 g e 50 porções, e R$ 54,84 com o cupom (2% no teste de novembro); a ficha diz que a creatina é produzida na Alemanha pela Alzchem. A Creatina Creapure de 300 g da Integralmédica custava R$ 184,00, R$ 61,33 por 100 g. As duas marcas declaram o selo."
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Pack 2 x Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/pack-creatina-500g/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Cupom e onde comprar",
         "paragraphs": [
-          "Cupom: MAX10EMCASACOMCECILIA, o cupom da Max Titanium. Vale até 10%, e o percentual varia por produto; as contas com cupom deste texto usam 10% como teto. Este texto não traz cupom da Integralmédica. As regras e o passo a passo ficam na [página do cupom](/cupons/max-titanium). A loja oficial é a [Max Titanium](https://www.maxtitanium.com.br/), e o código pode gerar comissão para o site, sem custo extra para você."
+          "O cupom da Max Titanium é o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. No teste de novembro, o carrinho deu 2% no Refil, no Pote, no IsoWhey, nas creatinas de 300 g e 500 g e na Creapure, e 8,9% no Whey Pro; o percentual varia por produto, e o carrinho mostra o de cada item. As contas com cupom partem do preço do cartão, a base em que o carrinho o mediu. Este texto não traz cupom da Integralmédica. As regras e o passo a passo ficam na [página do cupom](/cupons/max-titanium). A loja oficial é a [Max Titanium](https://www.maxtitanium.com.br/)."
         ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "**Whey: a Max.** Na baunilha, o 100% Whey Refil de 900 g sai por R$ 31,17 por 100 g de proteína no cartão, ou R$ 28,06 com o cupom no teto. Os pouches da Integralmédica custam R$ 36,03 no de 900 g e R$ 32,06 no de 1,8 kg, acima do Refil nas duas contas. O Whey Pro de 1 kg é o pote de menor preço, mas rende menos proteína por dose.",
-          "**Creatina: depende do cupom e do tamanho.**"
+          "**Whey: a Max.** No cartão, o Whey Pro de 1 kg, em promoção, sai por R$ 29,31 por 100 g de proteína (R$ 26,71 com o cupom), e o 100% Whey Refil, por R$ 31,17 (R$ 30,55 com o cupom). Os pouches da Integralmédica custam R$ 36,03 no de 900 g e R$ 32,06 no de 1,8 kg, acima dos dois. O Whey Pro rende menos proteína por dose, e sem a promoção volta a ficar atrás do Refil.",
+          "**Creatina: depende do tamanho.**"
         ],
         "bullets": [
-          "Para o menor preço por grama no cartão, a Integralmédica: o pouch de 1 kg sai por R$ 12,50 por 100 g. Entre os potes, a Max de 500 g sai a R$ 13,98, abaixo do Hardcore de 500 g (R$ 16,60) e de 300 g (R$ 16,67); a Max de 300 g fica em R$ 19,97.",
-          "Com o MAX10EMCASACOMCECILIA no teto, o pote de 500 g da Max cai para R$ 12,58 por 100 g, a poucos centavos do pouch de 1 kg da Integralmédica (R$ 12,50).",
+          "No pote de 300 g, a Integralmédica: R$ 16,67 por 100 g contra R$ 19,97 da Max.",
+          "No pote de 500 g, a Max: R$ 13,98 por 100 g (R$ 13,70 com o cupom), abaixo do Hardcore de 500 g (R$ 16,60).",
+          "No 1 kg, o pack da Max, a R$ 11,98, fica abaixo do pouch da Integralmédica, a R$ 12,50.",
           "Nas Creapure, a Max sai mais barata por grama: R$ 55,96 contra R$ 61,33 por 100 g."
         ],
         "postParagraphs": [
-          "Se o preço mudar, a conta muda; refaça as contas com o preço do dia."
+          "Se o preço mudar, a conta muda; refaça as contas com o preço do dia. Sabor, dissolução e digestão ficam fora da conta; dúvida de dose ou de saúde vai para o médico ou o nutricionista.",
+          "A série compara a Max com uma marca por vez: [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica) seguem o mesmo método. A Integralmédica já apareceu em [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica)."
         ],
-        "emphasis": "Pelos números desta tabela, para whey concentrado a escolha é o 100% Whey Refil da Max, pelo custo de proteína. Na creatina, para o menor preço no cartão a escolha é o pouch de 1 kg da Integralmédica; entre os potes, a Max de 500 g já sai abaixo do Hardcore sem cupom."
+        "emphasis": "Pelos números desta tabela, no whey concentrado a escolha é a Max, no Whey Pro pelo menor custo de proteína e no Refil pela dose de 21 g; na creatina, a Max ganha em 500 g e em 1 kg, e a Integralmédica, só no pote de 300 g.",
+        "links": [
+          {
+            "label": "Ver o 100% Whey Refil na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Max Titanium ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína, o 100% Whey Refil da Max: R$ 31,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. Com o cupom no teto de 10%, o Refil fica em R$ 28,06. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
-          "Creatina Max Titanium ou Integralmédica, qual é melhor? Pelo preço por 100 g de produto no cartão, o pouch de 1 kg da Integralmédica, a R$ 12,50. Entre os potes de 500 g, a Max sai a R$ 13,98, contra R$ 16,60 do Hardcore. Com o cupom da Max no teto, o pote de 500 g cai para R$ 12,58. Isso compara custo de produto, não eficácia.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium).",
+          "Max Titanium ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína no cartão, o Whey Pro de 1 kg e o 100% Whey Refil da Max ficam abaixo dos pouches da Integralmédica; a ordem e os valores estão na tabela acima. O Whey Pro depende da promoção do mês e traz 15 g de proteína por dose.",
+          "Creatina Max Titanium ou Integralmédica, qual é melhor? Pelo preço por 100 g de produto no cartão, a Integralmédica ganha no pote de 300 g, e a Max ganha no de 500 g e no pack de 1 kg. Isso compara custo de produto, não eficácia.",
           "O whey da Integralmédica tem sucralose? Sim. A lista de ingredientes do pouch de 900 g, sabor baunilha, traz edulcorante sucralose. Os wheys concentrados da Max desta comparação também listam sucralose.",
           "Quantas gramas de proteína tem o whey da Max e o da Integralmédica? O 100% Whey da Max, no Refil e no Pote de 900 g, traz 21 g em cada porção de 30 g, e o Whey Pro de 1 kg, 15 g em 40 g. O pouch da Integralmédica, no sabor baunilha, traz 21 g em 30 g; no chocolate e no cookies and cream, 20 g.",
           "A Integralmédica tem cupom? Não neste site. A Integralmédica não é parceira, e o MAX10EMCASACOMCECILIA vale só na Max Titanium."
@@ -163096,7 +163741,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAX10EMCASACOMCECILIA",
     "affiliate": "max-titanium",
-    "editorialNote": "Podemos receber comissão pelo cupom MAX10EMCASACOMCECILIA. A Integralmédica não é parceira, e ninguém da equipe provou os produtos.",
+    "editorialNote": "Podemos receber comissão pelo cupom MAX10EMCASACOMCECILIA. A Integralmédica não é parceira, e ninguém da equipe usou os produtos.",
     "relatedArticles": [
       {
         "slug": "black-skull-ou-integralmedica"
@@ -163108,9 +163753,21 @@ export const reviewsData: unknown[] = [
         "slug": "max-titanium-ou-growth"
       },
       {
-        "slug": "max-titanium-e-confiavel"
+        "slug": "cupom-max-titanium-como-usar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve o Whey Pro da Max se o menor custo por grama de proteína decide e você aceita uma dose de 40 g com 15 g de proteína, enquanto a promoção durar.",
+        "Leve o 100% Whey Refil da Max se você quer 21 g de proteína por dose de 30 g pelo menor preço entre os wheys de dose cheia.",
+        "Leve a creatina de 500 g da Max, ou o pack de 1 kg, se o preço por grama decide."
+      ],
+      "skipIf": [
+        "Passe nos pouches de whey da Integralmédica se o custo por grama de proteína decide: os dois ficam acima do Refil e do Whey Pro.",
+        "Passe na Max de 300 g se você compra o pote pequeno de creatina pelo preço: o Hardcore de 300 g da Integralmédica sai mais barato por grama.",
+        "Passe no Whey Pro se você quer 20 g ou mais de proteína por dose: ele traz 15 g em 40 g."
+      ]
+    }
   },
   {
     "id": 656,
@@ -187002,7 +187659,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Glutamina: Black Skull, Max ou Probiótica? Rótulo, preço por 100 g e por dose, e o cupom de cada loja.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa-v2.webp",
@@ -187013,27 +187670,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os de 300 g da Max Titanium e da Probiótica custam menos por grama de glutamina que o da Black Skull. Os de 120 g e 150 g saem cerca de 40% mais caros por grama que os de 300 g da mesma marca. A Turbo, da Black Skull, leva maltodextrina e estava sem estoque na publicação."
-        ]
-      },
-      {
-        "heading": "Como comparamos",
-        "paragraphs": [
-          "Usamos só o que as lojas publicam: rótulo, preço de venda e tamanho do pote. Comparamos os potes de glutamina das lojas oficiais, sem marketplace.",
-          "As contas são nossas, arredondadas no centavo:"
-        ],
-        "bullets": [
-          "**R$ por 100 g:** preço ÷ peso do pote × 100.",
-          "**R$ por dose:** preço ÷ doses do rótulo."
+          "Pelos preços de novembro, o pote de 300 g da Black Skull é o mais barato por grama de glutamina, à frente dos de 300 g da Max Titanium e da Probiótica; os potes menores saem cerca de 40% mais caros por grama. Os códigos são CECILIA10 ([Black Skull](/cupons/black-skull)), MAX10EMCASACOMCECILIA ([Max Titanium](/cupons/max-titanium)) e PRO10EMCASACOMCECILIA ([Probiótica](/cupons/probiotica))."
         ]
       },
       {
         "heading": "Os seis potes pelo preço",
         "paragraphs": [
-          "Preços de 30/10/2026, no cartão. Peso, doses e glutamina são do rótulo; as contas por 100 g e por dose são nossas."
+          "Preços do site oficial em novembro, no cartão. Peso, doses e glutamina são do rótulo; as contas por 100 g e por dose são nossas."
         ],
         "comparisonTable": {
-          "caption": "Seis potes comparados pelo preço no cartão: por 100 g de produto e por dose. Na Turbo, a célula também mostra o custo por 100 g de glutamina.",
+          "caption": "Seis potes comparados pelo preço no cartão, por 100 g de produto (preço ÷ peso do pote × 100) e por dose (preço ÷ doses do rótulo); as contas são nossas. Na Turbo, a célula também mostra o custo por 100 g de glutamina.",
           "headers": [
             "Produto",
             "Peso",
@@ -187044,10 +187690,18 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
+              "[Black Skull Glutamine 300 g](https://www.blackskullusa.com.br/glutamine-caveira-preta--glutamina--300g/p)",
+              "300 g",
+              "60",
+              "R$ 59,90 (de R$ 79,90)",
+              "R$ 19,97",
+              "R$ 1,00"
+            ],
+            [
               "[Max Titanium L-G 300 g](https://www.maxtitanium.com.br/glutamina-l-g-pote-300g/p)",
               "300 g",
               "60",
-              "R$ 69,90",
+              "R$ 69,90 (de R$ 99,88)",
               "R$ 23,30",
               "R$ 1,17"
             ],
@@ -187055,23 +187709,15 @@ export const reviewsData: unknown[] = [
               "[Probiótica L-Glutamine 300 g](https://www.probiotica.com.br/l-glutamine-pote-300/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "300 g",
               "60",
-              "R$ 69,90",
+              "R$ 69,90 (de R$ 89,89)",
               "R$ 23,30",
               "R$ 1,17"
-            ],
-            [
-              "[Black Skull Glutamine 300 g](https://www.blackskullusa.com.br/glutamine-caveira-preta--glutamina--300g/p)",
-              "300 g",
-              "60",
-              "R$ 79,90",
-              "R$ 26,63",
-              "R$ 1,33"
             ],
             [
               "[Black Skull Glutamine Turbo 300 g](https://www.blackskullusa.com.br/glutamine-turbo-caveira-preta--glutamina--300g/p)",
               "300 g",
               "60",
-              "R$ 49,90 (sem estoque)",
+              "R$ 49,90 (esgotada)",
               "R$ 16,63 (R$ 33,27 de glutamina)",
               "R$ 0,83"
             ],
@@ -187079,7 +187725,7 @@ export const reviewsData: unknown[] = [
               "[Max Titanium L-G 150 g](https://www.maxtitanium.com.br/glutamina-l-g-pote-150g/p)",
               "150 g",
               "30",
-              "R$ 49,27",
+              "R$ 49,27 (de R$ 70,41)",
               "R$ 32,85",
               "R$ 1,64"
             ],
@@ -187087,12 +187733,61 @@ export const reviewsData: unknown[] = [
               "[Probiótica L-Glutamine 120 g](https://www.probiotica.com.br/l-glutamine-pote-120g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "120 g",
               "24",
-              "R$ 39,41",
+              "R$ 39,41 (de R$ 51,46)",
               "R$ 32,84",
               "R$ 1,64"
             ]
           ]
-        }
+        },
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
+            "alt": "Pote de 300 g da Black Skull Glutamine, frente",
+            "caption": "Black Skull Glutamine 300 g. Foto oficial da Black Skull.",
+            "href": "https://www.blackskullusa.com.br/glutamine-caveira-preta--glutamina--300g/p",
+            "objectFit": "contain",
+            "aspectRatio": 0.8722,
+            "store": "black-skull"
+          },
+          {
+            "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
+            "alt": "Pote de 300 g da Max Titanium L-G, frente",
+            "caption": "Max Titanium L-G 300 g. Foto oficial da Max Titanium.",
+            "href": "https://www.maxtitanium.com.br/glutamina-l-g-pote-300g/p",
+            "objectFit": "contain",
+            "aspectRatio": 0.8833,
+            "store": "max-titanium"
+          },
+          {
+            "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
+            "alt": "Pote de 300 g da Probiótica L-Glutamine, frente",
+            "caption": "Probiótica L-Glutamine 300 g. Foto oficial da Probiótica.",
+            "href": "https://www.probiotica.com.br/l-glutamine-pote-300/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "objectFit": "contain",
+            "aspectRatio": 0.8822,
+            "store": "probiotica"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Glutamine 300 g na Black Skull",
+            "href": "https://www.blackskullusa.com.br/glutamine-caveira-preta--glutamina--300g/p",
+            "sponsored": true,
+            "store": "black-skull"
+          },
+          {
+            "label": "Ver a L-G 300 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/glutamina-l-g-pote-300g/p",
+            "sponsored": true,
+            "store": "max-titanium"
+          },
+          {
+            "label": "Ver a L-Glutamine 300 g na Probiótica",
+            "href": "https://www.probiotica.com.br/l-glutamine-pote-300/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true,
+            "store": "probiotica"
+          }
+        ]
       },
       {
         "heading": "O rótulo de cada pote",
@@ -187110,7 +187805,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Turbo não é só glutamina",
         "paragraphs": [
-          "A Turbo declara 2.500 mg de glutamina e 2,5 g de maltodextrina em cada dose de 5 g. Metade da porção é maltodextrina. Por isso a conta por 100 g de glutamina é a que compara com os potes puros: R$ 33,27 na Turbo, contra R$ 23,30 nos potes de 300 g da Max ou da Probiótica, cuja lista de ingredientes traz apenas L-glutamina."
+          "A [Turbo](https://www.blackskullusa.com.br/glutamine-turbo-caveira-preta--glutamina--300g/p), da Black Skull, está esgotada no site e declara 2.500 mg de glutamina e 2,5 g de maltodextrina em cada dose de 5 g. Metade da porção é maltodextrina. Por isso a conta por 100 g de glutamina é a que compara com os potes puros: R$ 33,27 na Turbo, contra R$ 19,97 no pote de 300 g da Black Skull e R$ 23,30 nos de 300 g da Max ou da Probiótica, cuja lista de ingredientes traz apenas L-glutamina."
         ],
         "image": {
           "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
@@ -187123,7 +187818,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pote de 300 g ou menor",
         "paragraphs": [
-          "Os potes de 300 g da Max e da Probiótica empatam: 60 doses por R$ 69,90. A matéria-prima da L-G é de fonte vegetal, diz a Max.",
+          "Os três potes de 300 g têm 60 doses. O da Black Skull sai a R$ 59,90, e os da Max e da Probiótica empatam em R$ 69,90. A matéria-prima da L-G é de fonte vegetal, diz a Max.",
           "Os potes menores saem mais caros por grama. O de 120 g da Probiótica tem 24 doses e o de 150 g da Max tem 30, ambos a R$ 32,8 por 100 g, cerca de 40% mais que o de 300 g da mesma marca."
         ],
         "image": {
@@ -187137,110 +187832,55 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escolhe o quê",
         "bullets": [
-          "**Menor preço por grama de glutamina pura:** Max Titanium ou Probiótica, pote de 300 g.",
-          "**Marca da Black Skull:** o pote de 300 g, R$ 26,63 por 100 g.",
+          "**Menor preço por grama de glutamina pura:** Black Skull, pote de 300 g, R$ 19,97 por 100 g.",
+          "**Entre Max Titanium e Probiótica:** os potes de 300 g empatam, R$ 23,30 por 100 g.",
           "**Quer testar antes de comprar o pote grande:** o de 120 g da Probiótica ou o de 150 g da Max, com o preço por grama mais alto."
         ],
-        "emphasis": "Entre os potes com L-glutamina como único ingrediente, a escolha para pagar menos por grama é o pote de 300 g da Max ou da Probiótica: R$ 23,30 por 100 g, abaixo dos R$ 26,63 da Black Skull."
+        "emphasis": "Entre os potes com L-glutamina como único ingrediente, a escolha para pagar menos por grama é o pote de 300 g da Black Skull: R$ 19,97 por 100 g, contra R$ 23,30 da Max e da Probiótica."
       },
       {
         "heading": "Cupom de cada loja",
         "paragraphs": [
-          "Os três cupons valem em todas as formas de pagamento: CECILIA10 dá 10% em todo o site da [Black Skull](/cupons/black-skull), e MAX10EMCASACOMCECILIA, da [Max Titanium](/cupons/max-titanium), e PRO10EMCASACOMCECILIA, da [Probiótica](/cupons/probiotica), dão até 10%, com o percentual variando por item. Confira o desconto no carrinho antes de pagar."
+          "Os três cupons valem em todas as formas de pagamento: CECILIA10 dá 10% em todo o site da [Black Skull](/cupons/black-skull), e MAX10EMCASACOMCECILIA, da [Max Titanium](/cupons/max-titanium), e PRO10EMCASACOMCECILIA, da [Probiótica](/cupons/probiotica), dão até 10%, com o percentual variando por item. No carrinho, cole o código no campo de cupom e confira o desconto na linha de descontos antes de pagar.",
+          "Depois do cupom, o pote de 300 g da Black Skull cai para R$ 53,91, ou R$ 17,97 por 100 g. Na Max, o cupom deu 2% no pote de 300 g no teste de novembro, e o preço foi a R$ 68,50, ou R$ 22,83 por 100 g. Na Probiótica, o percentual do cupom neste item aparece no carrinho."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom da Black Skull",
+            "href": "/cupons/black-skull"
+          },
+          {
+            "label": "Ver o cupom da Max Titanium",
+            "href": "/cupons/max-titanium"
+          },
+          {
+            "label": "Ver o cupom da Probiótica",
+            "href": "/cupons/probiotica"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom de cada loja? Na Black Skull, o CECILIA10, com 10% OFF em todo o site; na Max Titanium, o MAX10EMCASACOMCECILIA, com até 10% OFF; na Probiótica, o PRO10EMCASACOMCECILIA, com até 10% OFF. Os três valem em todas as formas de pagamento, e os códigos e as regras ficam no [cupom Black Skull](/cupons/black-skull), no [cupom Max Titanium](/cupons/max-titanium) e no [cupom Probiótica](/cupons/probiotica).",
+          "Qual glutamina é mais barata por grama? O pote de 300 g da Black Skull, a R$ 19,97 por 100 g. Os de 300 g da Max e da Probiótica empatam em R$ 23,30.",
           "A glutamina da Black Skull é pura? A lista de ingredientes diz só L-Glutamina, e a Turbo é a exceção, porque leva maltodextrina.",
-          "A Turbo tem glutamina? Tem: 2.500 mg por dose de 5 g, junto com 2,5 g de maltodextrina.",
-          "A Black Skull tem pote de 500 g? Não no catálogo do dia da publicação, que traz só o de 300 g e a Turbo.",
+          "A Turbo tem glutamina? Tem: 2.500 mg por dose de 5 g, junto com 2,5 g de maltodextrina. Ela está esgotada no site.",
+          "A Black Skull tem pote de 500 g? Não no catálogo de novembro, que traz só o de 300 g e a Turbo.",
           "Qual é a porção? Os rótulos dos três indicam 5 g por porção, com 5.000 mg de L-glutamina; na Turbo, metade é maltodextrina."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Para pagar menos por grama de glutamina pura: o pote de 300 g da Max ou da Probiótica.",
+        "Para pagar menos por grama de glutamina pura: o pote de 300 g da Black Skull.",
         "Para testar antes de comprar o pote grande: o de 120 g da Probiótica ou o de 150 g da Max, com o preço por grama mais alto."
       ],
       "skipIf": [
-        "Para uma fórmula só de glutamina: a Turbo não serve, porque metade da porção é maltodextrina.",
+        "Para uma fórmula só de glutamina: a Turbo não serve, porque metade da porção é maltodextrina, e hoje está esgotada.",
         "Para usar por muito tempo: os potes menores custam cerca de 40% mais por grama."
       ]
     },
-    "gallery": [
-      {
-        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-frente.webp",
-        "alt": "Pote de 300 g da Black Skull Glutamine, frente",
-        "caption": "Foto oficial da Black Skull.",
-        "objectFit": "contain",
-        "aspectRatio": 0.8722
-      },
-      {
-        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-300-tabela.webp",
-        "alt": "Tabela nutricional da Black Skull Glutamine 300 g",
-        "caption": "Foto oficial da Black Skull.",
-        "objectFit": "contain",
-        "aspectRatio": 0.6922
-      },
-      {
-        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-frente.webp",
-        "alt": "Pote de 300 g da Black Skull Glutamine Turbo, frente",
-        "caption": "Foto oficial da Black Skull.",
-        "objectFit": "contain",
-        "aspectRatio": 0.8589
-      },
-      {
-        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-frente.webp",
-        "alt": "Pote de 300 g da Max Titanium L-G, frente",
-        "caption": "Foto oficial da Max Titanium.",
-        "objectFit": "contain",
-        "aspectRatio": 0.8833
-      },
-      {
-        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-300-verso.webp",
-        "alt": "Pote de 300 g da Max Titanium L-G, verso",
-        "caption": "Foto oficial da Max Titanium.",
-        "objectFit": "contain",
-        "aspectRatio": 0.8811
-      },
-      {
-        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-frente.webp",
-        "alt": "Pote de 150 g da Max Titanium L-G, frente",
-        "caption": "Foto oficial da Max Titanium.",
-        "objectFit": "contain",
-        "aspectRatio": 0.8844
-      },
-      {
-        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-max-150-tabela.webp",
-        "alt": "Tabela nutricional do pote de 150 g da Max Titanium L-G, com 30 porções de 5 g",
-        "caption": "Foto oficial da Max Titanium.",
-        "objectFit": "contain",
-        "aspectRatio": 1.1749
-      },
-      {
-        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-300-frente.webp",
-        "alt": "Pote de 300 g da Probiótica L-Glutamine, frente",
-        "caption": "Foto oficial da Probiótica.",
-        "objectFit": "contain",
-        "aspectRatio": 0.8822
-      },
-      {
-        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-frente.webp",
-        "alt": "Pote de 120 g da Probiótica L-Glutamine, frente",
-        "caption": "Foto oficial da Probiótica.",
-        "objectFit": "contain",
-        "aspectRatio": 0.8822
-      },
-      {
-        "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-prob-120-tabela.webp",
-        "alt": "Tabela nutricional do pote de 120 g da Probiótica L-Glutamine, com 24 porções de 5 g",
-        "caption": "Foto oficial da Probiótica.",
-        "objectFit": "contain",
-        "aspectRatio": 1.8519
-      }
-    ],
     "pros": [],
     "cons": [],
     "editorialNote": "Podemos receber comissão pela Black Skull, pela Max Titanium e pela Probiótica. Guia pelo rótulo e pelo preço do dia; não usamos os produtos.",
@@ -187263,6 +187903,11 @@ export const reviewsData: unknown[] = [
       {
         "slug": "cupom-probiotica-como-usar"
       }
+    ],
+    "affiliate": [
+      "black-skull",
+      "max-titanium",
+      "probiotica"
     ]
   },
   {
@@ -194603,7 +195248,7 @@ export const reviewsData: unknown[] = [
     "id": 777,
     "slug": "max-titanium-e-boa",
     "title": "Max Titanium é boa? O whey, a creatina e o que vale comprar da marca",
-    "seoTitle": "Max Titanium é boa? Whey 100%, 3W, isolado e creatina pelo rótulo",
+    "seoTitle": "Max Titanium é boa? Whey e creatina pelo rótulo",
     "type": "Guia de Marca",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -194618,30 +195263,20 @@ export const reviewsData: unknown[] = [
     "metaDescription": "A Max Titanium é boa com o cupom MAX10EMCASACOMCECILIA de até 10% OFF? Proteína por dose e preço por 100 g do 100% Whey, Top Whey 3W, Whey Pro e IsoWhey.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/max-titanium-e-boa-capa-v2.webp",
     "imageAlt": "Pote do pré-treino Night Train Frutas Vermelhas da Max Titanium em foto oficial, ao lado da pergunta Max Titanium é boa?",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Tabela nutricional publicada na página de cada whey, com a proteína por dose",
-      "O 100% Whey Refil e o Whey Pro estão entre os wheys mais baratos por grama de proteína",
-      "Uma linha para cada tipo de proteína: concentrado, isolado e o blend do Top Whey 3W",
-      "Cupom de até 10% que soma com as promoções do site e vale em todas as formas de pagamento"
-    ],
-    "cons": [
-      "A Max não vende whey zero lactose, e o isolado também contém lactose",
-      "A página às vezes diz uma proteína por dose diferente da tabela nutricional",
-      "O Whey Pro tem só 15 g de proteína por dose, bem menos que os outros",
-      "O cupom varia por produto e não chega a 10% em todo item"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, é boa: o whey da Max Titanium declara a proteína que o nome promete, e o Whey Pro e o 100% Whey Refil saem mais baratos por grama de proteína. O isolado custa mais, o Whey Pro traz só 15 g por dose e a Max não tem whey zero lactose. O código MAX10EMCASACOMCECILIA dá até 10% OFF."
+          "Pelo rótulo, é boa: o whey da Max Titanium declara a proteína que o nome promete, e o Whey Pro e o 100% Whey Refil saem mais baratos por grama de proteína. O isolado custa mais e a Max não tem whey zero lactose. O [cupom Max Titanium](/cupons/max-titanium) é o MAX10EMCASACOMCECILIA, com até 10% OFF."
         ]
       },
       {
@@ -194650,62 +195285,93 @@ export const reviewsData: unknown[] = [
           "A Max Titanium é uma marca brasileira de suplementos, e o whey é a linha que mais gente procura. O resto do catálogo, com o guia de cada um que já existe:"
         ],
         "bullets": [
-          "**Whey:** 100% Whey, Top Whey 3W, Whey Pro, IsoWhey e Super Whey, no resumo abaixo. O Super Whey é uma mistura com carboidrato, não um whey de dose baixa.",
-          "**Creatina:** potes de 100 g a 500 g e a Creapure, de 250 g. A conta de cada pote está em [creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote).",
-          "**Pré-treino:** Hórus, Égide e o Night Train, sem cafeína, comparados em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
+          "**Whey:** [100% Whey](https://www.maxtitanium.com.br/100-whey-refil-900g/p), [Top Whey 3W](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p), [Whey Pro](https://www.maxtitanium.com.br/whey-pro-1kg/p), [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) e [Super Whey](https://www.maxtitanium.com.br/super-whey-900g/p), no resumo abaixo. O Super Whey é uma mistura com carboidrato, não um whey de dose baixa.",
+          "**Creatina:** potes de 100 g a [500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p) e a [Creapure](https://www.maxtitanium.com.br/creatina-creapure-250g/p), de 250 g. A conta de cada pote está em [creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote).",
+          "**Pré-treino:** [Hórus](https://www.maxtitanium.com.br/horus/p), [Égide](https://www.maxtitanium.com.br/egide-300g/p) e o [Night Train](https://www.maxtitanium.com.br/night-train-/p), sem cafeína, comparados em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
           "**Glutamina e BCAA:** a glutamina tem guia em [glutamina: qual escolher](/reviews/glutamina-qual-escolher-black-skull-max-probiotica). O BCAA vem em cápsulas e em pó para beber, e o [guia do BCAA Max Titanium](/reviews/bcaa-max-titanium-qual-escolher) compara os dois formatos.",
-          "**Hipercalórico:** o Mass Titanium 17500, que também tem versão zero lactose.",
-          "**Snacks:** barras de proteína, como a Top Whey Bar e a Power Protein Bar."
+          "**Hipercalórico:** o [Mass Titanium 17500](https://www.maxtitanium.com.br/mass-titanium-17500-14kg/p), que tem a versão \"Zero Lactose\" de 2,4 kg, explicada mais abaixo e no [guia do Mass 17500](/reviews/hipercalorico-max-titanium-mass-17500).",
+          "**Snacks:** barras de proteína, como a [Top Whey Bar](https://www.maxtitanium.com.br/top-whey-bar-41g/p)."
         ]
       },
       {
-        "heading": "O whey da Max Titanium é bom?",
+        "heading": "O whey da Max Titanium pelo rótulo",
         "paragraphs": [
-          "É, no sentido que importa para um suplemento: o rótulo declara o que o nome promete. Os números abaixo são os declarados pela marca, sem laudo independente. O 100% Whey é concentrado de soro, o IsoWhey é isolado e o Top Whey 3W junta concentrado, isolado e hidrolisado.",
+          "É bom no sentido que importa para um suplemento: o rótulo declara o que o nome promete. Os números abaixo são os declarados pela marca. O 100% Whey é concentrado de soro, o IsoWhey é isolado e o Top Whey 3W junta concentrado, isolado e hidrolisado.",
           "A loja informa: o tipo de proteína de cada whey está na lista de ingredientes da página do produto. A proteína por dose, porém, só vale pela tabela nutricional, porque o texto de venda às vezes diz outro número: a página do 100% Whey Pote fala em \"até 20 g\" e a tabela do sabor baunilha mostra 21 g; a do Top Whey 3W + Sabor fala em 25 a 26 g e a tabela do Brigadeiro mostra 25 g."
         ]
       },
       {
         "heading": "Os wheys da Max, em resumo",
         "paragraphs": [
-          "A proteína por dose vem da tabela nutricional de cada produto, e o preço por 100 g de proteína é o preço dividido pela proteína do pote. Na comparação de preços, o Whey Pro e o 100% Whey Refil ficam entre os mais baratos, e o Top Whey 3W + Natural é o mais caro por grama de proteína da linha.",
+          "A proteína por dose vem da tabela nutricional de cada produto, e o preço por 100 g de proteína é o preço dividido pela proteína do pote. Na comparação de preços, o [Whey Pro](https://www.maxtitanium.com.br/whey-pro-1kg/p) e o [100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) ficam entre os mais baratos, e o [Top Whey 3W + Natural](https://www.maxtitanium.com.br/top-whey-3w-mais-natural-900g/p) é o mais caro por grama de proteína da linha.",
           "A conta de cada whey, com a tabela de preço do dia, está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
           "O 100% Whey é concentrado do soro, com 21 g em cada dose de 30 g. O refil de 900 g sai mais barato por grama de proteína que o pote, com a mesma tabela.",
           "Compensa para quem quer proteína de soro pelo menor preço e aceita lactose.",
-          "O Top Whey 3W junta concentrado, isolado e hidrolisado numa dose de 40 g, com 25 g a 32 g de proteína conforme a versão. A + Natural é a mais cara por grama de proteína da linha.",
+          "O [Top Whey 3W](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) junta concentrado, isolado e hidrolisado numa dose de 40 g, com 25 g a 32 g de proteína conforme a versão. A + Natural é a mais cara por grama de proteína da linha.",
           "Compensa para quem quer uma dose maior por copo e topa pagar mais por grama.",
           "O Whey Pro é concentrado em pote de 1 kg, com 15 g de proteína e 19 g de carboidrato na dose de 40 g, a menor proteína por dose da linha.",
           "Compensa para quem quer pote grande e não se importa com o carboidrato extra. Não serve para quem compara proteína por dose.",
-          "O IsoWhey é isolado (WPI): 26 g em 30 g, com 2,3 g de carboidrato e 0,5 g de gordura na dose, os menores números da tabela.",
+          "O [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) é isolado (WPI): 26 g em 30 g, com 2,3 g de carboidrato e 0,5 g de gordura na dose, os menores números da tabela.",
           "Compensa para quem quer o mínimo de carboidrato e gordura e aceita pagar por isso; ele também contém lactose."
         ],
-        "image": {
-          "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
-          "alt": "Embalagem do 100% Whey Refil de 900 g da Max Titanium, sabor baunilha.",
-          "caption": "100% Whey Refil 900 g. Imagem: Max Titanium.",
-          "objectFit": "contain",
-          "aspectRatio": 0.7692
-        }
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
+            "alt": "Embalagem do 100% Whey Refil de 900 g da Max Titanium, sabor baunilha.",
+            "caption": "100% Whey Refil 900 g. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7692,
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p"
+          },
+          {
+            "src": "/images/reviews/whey/max-titanium-isowhey.webp",
+            "alt": "Pote do IsoWhey 900 g da Max Titanium, em foto oficial de frente.",
+            "caption": "IsoWhey 900 g. Foto: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o 100% Whey Refil na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o IsoWhey na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p",
+            "sponsored": true
+          }
+        ]
       },
       {
-        "heading": "A Max Titanium tem whey zero lactose?",
+        "heading": "Zero lactose na Max Titanium: o Mass 17500",
         "paragraphs": [
-          "Não. O 100% Whey, o Top Whey 3W, o Whey Pro e o IsoWhey trazem \"contém lactose\" no rótulo. O \"Zero Lactose\" que aparece no menu da loja é o hipercalórico Mass Titanium 17500, que não é whey. Com intolerância à lactose ou alergia ao leite, a escolha do suplemento fica com um médico ou nutricionista."
+          "A Max não vende whey zero lactose. O 100% Whey, o Top Whey 3W, o Whey Pro e o IsoWhey trazem \"contém lactose\" no rótulo. O \"Zero Lactose\" do menu da loja é o hipercalórico [Mass Titanium 17500 Zero Lactose 2,4 kg](https://www.maxtitanium.com.br/mass-titanium-17500-zero-lactose/p), que não é whey.",
+          "A ficha do Mass 17500 diz \"lactose: não contém\", mas a lista de ingredientes traz WPI, o isolado de soro de leite, e o aviso de alergênicos diz \"contém derivados de leite e soja\". Com intolerância à lactose ou alergia ao leite, a escolha do suplemento fica com um médico ou nutricionista."
+        ],
+        "links": [
+          {
+            "label": "Ver o Mass 17500 Zero Lactose na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/mass-titanium-17500-zero-lactose/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Creatina, pré-treino, glutamina e BCAA",
         "paragraphs": [
-          "**Creatina.** O pote de 500 g é o mais barato por grama, e o selo Creapure só existe no pote de 250 g. Os números estão em [creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote).",
-          "**Pré-treino.** O Hórus e o Égide mudam na cafeína e no preço por dose, e o Night Train é o que não tem cafeína. A tabela de cada um está em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
+          "**Creatina.** O pote de [500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p) é o mais barato por grama, e o selo [Creapure](https://www.maxtitanium.com.br/creatina-creapure-250g/p) só existe no pote de 250 g. Os números estão em [creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote).",
+          "**Pré-treino.** O [Hórus](https://www.maxtitanium.com.br/horus/p) e o [Égide](https://www.maxtitanium.com.br/egide-300g/p) mudam na cafeína e no preço por dose, e o [Night Train](https://www.maxtitanium.com.br/night-train-/p) é o que não tem cafeína. A tabela de cada um está em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
           "**Glutamina e BCAA.** O guia de [glutamina](/reviews/glutamina-qual-escolher-black-skull-max-probiotica) traz o rótulo e o preço por 100 g do pote de 300 g da Max. O BCAA tem os dois formatos comparados no [guia do BCAA](/reviews/bcaa-max-titanium-qual-escolher)."
         ]
       },
       {
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
-          "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto, e o percentual varia por produto: nem todo item chega a 10%. Num Top Whey 3W + Sabor em promoção, o cupom tirou R$ 16,75, menos de 9% do preço. Ele soma com as promoções do site e vale em todas as formas de pagamento; confira a linha Descontos do carrinho antes de pagar.",
-          "A compra é no site oficial, o maxtitanium.com.br. O preço de campanha não entra nas contas por grama deste guia (o valor promocional do Top Whey acima só mostra o desconto do cupom); a Black Friday da marca está em [Black Friday Max Titanium](/reviews/black-friday-max-titanium), e o passo a passo do código, em [como usar o cupom na Max Titanium](/reviews/cupom-max-titanium-como-usar)."
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF, e o percentual varia por produto. No teste de novembro, ele deu 8,9% no Top Whey 3W + Sabor (de R$ 189,00 para R$ 172,25) e no Whey Pro, e 2% no 100% Whey Refil e no IsoWhey. Ele soma com as promoções do site e vale em todas as formas de pagamento. No carrinho, clique em \"Adicionar cupom de desconto\", digite o código no campo \"Código\" e confirme em \"Adicionar\"; o valor aparece na linha \"Descontos\".",
+          "A compra é no site oficial, o maxtitanium.com.br. O preço de campanha não entra nas contas por grama deste guia; a Black Friday da marca está em [Black Friday Max Titanium](/reviews/black-friday-max-titanium), e o passo a passo do código, em [como usar o cupom na Max Titanium](/reviews/cupom-max-titanium-como-usar)."
         ],
         "links": [
           {
@@ -194715,35 +195381,42 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "A Max Titanium é confiável?",
-        "paragraphs": [
-          "A parte da loja (quem vende, o site oficial, trocas e frete) está em [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel), e a reputação, em [Max Titanium no Reclame Aqui](/reviews/max-titanium-reclame-aqui-nota-reputacao). Aqui, comparamos as informações declaradas nos rótulos."
-        ]
-      },
-      {
         "heading": "Para quem vale e para quem não vale",
-        "emphasis": "Para começar pelo whey da Max, o 100% Whey Refil e o Whey Pro são os mais baratos por grama de proteína; o IsoWhey e o Top Whey 3W só compensam se você quer o que o rótulo deles tem a mais.",
+        "emphasis": "Para a maioria, o 100% Whey Refil e o Whey Pro são a compra mais barata por grama de proteína; o IsoWhey e o Top Whey 3W só compensam para quem quer o que o rótulo deles tem a mais.",
         "bullets": [
           "Vale para quem quer proteína de soro concentrada pelo menor preço por grama e aceita lactose.",
           "Vale o Top Whey 3W para quem quer uma dose maior de proteína por copo, e o IsoWhey para quem quer o mínimo de carboidrato e gordura.",
           "Não vale para quem tem intolerância à lactose: a Max não vende whey zero lactose.",
           "Não vale comparar só pelo texto da página: confira a proteína na tabela nutricional do sabor que você vai levar."
+        ],
+        "links": [
+          {
+            "label": "Ver o Whey Pro 1 kg na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Top Whey 3W + Sabor na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O whey da Max Titanium é bom? É, pelo rótulo: cada whey declara a proteína por dose que a tabela mostra, e o Whey Pro e o 100% Whey Refil são os mais baratos por grama de proteína.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no campo de cupom do carrinho e confira a linha \"Descontos\"; as regras estão no [cupom Max Titanium](/cupons/max-titanium).",
           "Qual whey da Max Titanium compensa mais? Depende do que pesa mais: o guia de cada whey, com a conta por grama de proteína, está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
           "100% Whey ou Top Whey 3W? O 100% Whey é mais barato por grama de proteína, e o Top Whey 3W tem dose maior; a comparação de cada um está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
-          "A Max Titanium tem whey zero lactose? Não: os wheys trazem \"contém lactose\" no rótulo, o isolado também, e o \"Zero Lactose\" do menu é o hipercalórico Mass Titanium 17500.",
+          "A Max Titanium tem whey zero lactose? Não: os wheys trazem \"contém lactose\" no rótulo, o isolado também. O \"Zero Lactose\" do menu é o hipercalórico Mass Titanium 17500, cuja lista traz WPI e o aviso de alergênicos cita derivados de leite.",
           "A creatina da Max Titanium é boa? O pote de 500 g é o mais barato por grama, e o guia da creatina traz a conta de cada pote e o selo Creapure.",
-          "O cupom da Max Titanium dá 10% em tudo? Não: o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto, somando com as promoções do site."
+          "O cupom dá 10% em tudo? Não: é até 10%, e o percentual varia por produto. No teste de novembro, foram 8,9% no Whey Pro e no Top Whey 3W + Sabor e 2% na maior parte dos outros itens."
         ]
       }
     ],
     "cta": {
-      "text": "Veja o whey, a creatina e o hipercalórico da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% de desconto, no carrinho.",
+      "text": "Veja o whey, a creatina e o hipercalórico da Max Titanium e cole o MAX10EMCASACOMCECILIA, de até 10% OFF, no carrinho.",
       "label": "Ir para a Max Titanium",
       "url": "https://www.maxtitanium.com.br/",
       "sponsored": true
@@ -194763,13 +195436,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Max Titanium. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
     "relatedArticles": [
       {
+        "slug": "whey-max-titanium-qual-escolher"
+      },
+      {
         "slug": "creatina-max-titanium-qual-pote"
       },
       {
         "slug": "max-titanium-ou-growth"
-      },
-      {
-        "slug": "max-titanium-e-confiavel"
       }
     ]
   },
@@ -209227,6 +209900,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o cupom MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. 100%, Pro, 3W, IsoWhey e Super Whey comparados por dose e preço por 100 g de proteína.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-capa-v2.webp",
@@ -209235,28 +209909,19 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "decision": {
       "takeIf": [
-        "Compare Whey Pro e 100% Whey Refil se você prioriza custo por proteína: eles têm os menores valores no quadro. Confira o preço atual antes de escolher.",
-        "Compare o Top Whey 3W + Performance se quer mais proteína na mesma porção de pó que as versões + Sabor e + Natural. Entre 900 g e 1,8 kg, confira o rótulo do sabor e o custo por proteína.",
-        "Compare o IsoWhey se você procura proteína isolada e menos carboidrato que o 100% Whey na mesma porção de pó, aceitando pagar mais por proteína."
+        "Leve o Whey Pro se prioriza custo por proteína: com o código ele recebeu 8,9% e ficou com o menor custo do quadro.",
+        "Leve o 100% Whey Refil se quer o concentrado padrão em pote de 900 g: sai mais barato que o pote, com a mesma proteína por porção.",
+        "Leve o Top Whey 3W + Performance se quer mais proteína na mesma porção de pó, e o IsoWhey se procura isolado com menos carboidrato, aceitando pagar mais por proteína."
       ],
       "skipIf": [
-        "Passe nos produtos comparados se você procura zero lactose: os rótulos declaram lactose.",
-        "Passe no Super Whey se você prioriza maior proporção de proteína no pó: ele tem a menor proporção entre as opções do quadro e mais carboidrato que proteína."
+        "Passe nos wheys do quadro se procura zero lactose: todos os rótulos declaram lactose.",
+        "Passe no Super Whey se prioriza proteína no pó: ele tem a menor proporção do quadro e mais carboidrato que proteína."
       ]
     },
-    "pros": [
-      "Tabela nutricional publicada na página de cada whey, com a proteína por dose",
-      "Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada entre as opções do quadro",
-      "Uma linha para cada tipo de proteína: concentrado, isolado e o blend do Top Whey 3W",
-      "Cupom de até 10% que soma com as promoções do site e vale em todas as formas de pagamento"
-    ],
-    "cons": [
-      "Os wheys comparados declaram lactose, inclusive o IsoWhey",
-      "O Whey Pro tem menor proporção de proteína no pó que o 100% Whey, o Top Whey 3W e o IsoWhey comparados",
-      "O cupom varia por produto e não chega a 10% em todo item"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "Veja os wheys da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% de desconto, no carrinho.",
+      "text": "Veja os wheys da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% OFF, no carrinho.",
       "label": "Ir para a Max Titanium",
       "url": "https://www.maxtitanium.com.br/",
       "sponsored": true
@@ -209269,6 +209934,9 @@ export const reviewsData: unknown[] = [
         "slug": "max-titanium-e-boa"
       },
       {
+        "slug": "cupom-max-titanium-como-usar"
+      },
+      {
         "slug": "whey-dr-peanut-max-titanium"
       },
       {
@@ -209277,9 +209945,9 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Resposta rápida: qual whey da Max Titanium comprar",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Top Whey 3W reúne três tipos de proteína do soro, IsoWhey é isolado e Super Whey combina proteínas e carboidrato. Compare as porções na mesma quantidade de pó; o código MAX10EMCASACOMCECILIA dá até 10% OFF."
+          "No quadro comparado, o Whey Pro e o 100% Whey Refil têm os menores custos por proteína declarada. O Top Whey 3W reúne três proteínas do soro, o IsoWhey é isolado e o Super Whey leva carboidrato. O [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA dá até 10% OFF: no teste de novembro, 8,9% no Whey Pro e 2% no Refil."
         ]
       },
       {
@@ -209293,16 +209961,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Conta nossa: a proteína estimada na embalagem é o peso líquido ÷ o peso da porção × a proteína por porção. O preço por 100 g de proteína é o preço ÷ essa quantidade estimada × 100. Quanto menor o resultado, menor o custo por proteína declarada; as bases e a hipótese estão na legenda."
+          "Quanto menor o preço por 100 g de proteína declarada, menor o custo por proteína. A conta é nossa, e as bases estão na legenda."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda de 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando diferente. Porções e proteínas das tabelas nutricionais de cada sabor; Super Whey: baunilha, porção de 120 g. No Performance de 1,8 kg, a conta usa a porção do rótulo de 900 g (32 g de proteína em 40 g): confira a tabela nutricional do sabor. O custo considera a proteína total declarada, inclusive as diferentes fontes do Super Whey.",
+          "caption": "Preços de venda do site oficial em novembro, sem cupom e sem Pix. Entre parênteses, o preço de lista quando diferente. Porções e proteínas das tabelas nutricionais de cada sabor; Super Whey: baunilha, porção de 120 g. A proteína no pote é o peso líquido ÷ a porção × a proteína por porção, e o preço por 100 g é o preço ÷ essa proteína × 100, com a proteína total declarada, inclusive as outras fontes do Super Whey. No Performance de 1,8 kg, a conta usa a porção do rótulo de 900 g (32 g de proteína em 40 g): confira a tabela nutricional do sabor. A última coluna usa o valor do carrinho depois do código, em novembro; o Natural e o Performance de 1,8 kg não passaram pelo carrinho.",
           "headers": [
             "Produto",
             "Dose: proteína por dose",
             "Proteína no pote",
             "Preço de venda",
-            "R$ por 100 g de proteína declarada"
+            "R$ por 100 g de proteína declarada",
+            "Com o código: R$ por 100 g de proteína"
           ],
           "rows": [
             [
@@ -209310,75 +209979,96 @@ export const reviewsData: unknown[] = [
               "30 g: 21 g",
               "630 g",
               "R$ 196,39",
-              "R$ 31,17"
+              "R$ 31,17",
+              "R$ 30,55"
             ],
             [
               "[100% Whey Pote 900 g](https://www.maxtitanium.com.br/100-whey-pote-900g/p)",
               "30 g: 21 g",
               "630 g",
               "R$ 210,39",
-              "R$ 33,40"
+              "R$ 33,40",
+              "R$ 32,73"
             ],
             [
               "[Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
               "40 g: 15 g",
               "375 g",
               "R$ 109,90 (de R$ 126,20)",
-              "R$ 29,31 (de R$ 33,65)"
+              "R$ 29,31 (de R$ 33,65)",
+              "R$ 26,71"
             ],
             [
               "[Top Whey 3W + Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
               "40 g: 25 g",
               "562,5 g",
               "R$ 189,00 (de R$ 273,55)",
-              "R$ 33,60 (de R$ 48,63)"
+              "R$ 33,60 (de R$ 48,63)",
+              "R$ 30,62"
             ],
             [
               "[Top Whey 3W + Natural 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-natural-900g/p)",
               "40 g: 26 g",
               "585 g",
               "R$ 273,55",
-              "R$ 46,76"
+              "R$ 46,76",
+              "não testado"
             ],
             [
               "[Top Whey 3W + Performance 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
               "40 g: 32 g",
               "720 g",
               "R$ 273,55",
-              "R$ 37,99"
+              "R$ 37,99",
+              "R$ 37,23"
             ],
             [
               "[Top Whey 3W + Performance 1,8 kg](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-18kg-max-titanium/p)",
               "40 g: até 32 g",
               "1.440 g (pela porção de 900 g)",
               "R$ 519,86",
-              "R$ 36,10"
+              "R$ 36,10",
+              "não testado"
             ],
             [
               "[IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
               "30 g: 26 g",
               "780 g",
               "R$ 326,18",
-              "R$ 41,82"
+              "R$ 41,82",
+              "R$ 40,98"
             ],
             [
               "[Super Whey 900 g](https://www.maxtitanium.com.br/super-whey-900g/p)",
               "120 g: 30 g",
               "225 g",
               "R$ 94,62",
-              "R$ 42,05"
+              "R$ 42,05",
+              "R$ 41,21"
             ]
           ]
         },
         "postParagraphs": [
-          "Nos valores do quadro, a porção do Whey Pro custa menos que a do refil, mas também entrega menos proteína e usa mais pó. Para comparar o custo da mesma quantidade de proteína declarada, use a última coluna. Esse cálculo não mede a qualidade das fórmulas.",
-          "A promoção registrada também aproximou o Top Whey 3W + Sabor do 100% Whey Pote em custo por proteína. Se o preço mudar, a ordem pode mudar junto."
+          "Nos valores do quadro, a porção do Whey Pro custa menos que a do refil, mas também entrega menos proteína e usa mais pó. Para comparar o custo da mesma quantidade de proteína declarada, use as duas últimas colunas.",
+          "Com o código, o Top Whey 3W + Sabor (R$ 30,62) passa o 100% Whey Pote (R$ 32,73) e fica ao lado do Refil (R$ 30,55) em custo por proteína, e o Whey Pro cai para R$ 26,71. Se o preço mudar, a ordem pode mudar junto."
+        ],
+        "links": [
+          {
+            "label": "Ver o Whey Pro 1 kg na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o 100% Whey Refil na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "100% Whey: pote ou refil",
         "paragraphs": [
-          "Nos valores da tabela, o refil custa R$ 14,00 menos que o pote, com a mesma quantidade de proteína na porção comparada. Para essas duas embalagens, o refil é a escolha de menor custo; confira se o preço e o rótulo do sabor escolhido mantêm essa vantagem.",
+          "Nos valores da tabela, o [refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) custa R$ 14,00 menos que o [pote](https://www.maxtitanium.com.br/100-whey-pote-900g/p), com a mesma quantidade de proteína na porção comparada. Para essas duas embalagens, o refil é a escolha de menor custo; confira se o preço e o rótulo do sabor escolhido mantêm essa vantagem. No carrinho de novembro, o código deu 2% nos dois.",
           "O refil combina menor custo que o pote com maior proporção de proteína no pó que o Whey Pro comparado. Seu rótulo declara lactose, por isso ele não atende à busca por uma opção declarada zero lactose."
         ],
         "image": {
@@ -209386,14 +210076,28 @@ export const reviewsData: unknown[] = [
           "alt": "Embalagem do 100% Whey Refil de 900 g da Max Titanium, sabor baunilha.",
           "caption": "100% Whey Refil 900 g. Imagem: Max Titanium.",
           "objectFit": "contain",
-          "aspectRatio": 0.7692
-        }
+          "aspectRatio": 0.7692,
+          "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p"
+        },
+        "links": [
+          {
+            "label": "Ver o 100% Whey Refil na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o 100% Whey Pote na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/100-whey-pote-900g/p",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Top Whey 3W: a dose de 40 g e três versões",
         "paragraphs": [
-          "As versões do Top Whey 3W combinam concentrado, isolado e hidrolisado do soro, mas têm proporções de proteína diferentes. Nas porções comparadas, a + Performance tem mais proteína que a + Sabor e a + Natural. Segundo a descrição da loja, a + Performance traz 11 vitaminas e 6 minerais, e a + Natural usa estévia e taumatina. Esses ingredientes ajudam a distinguir as fórmulas; não comprovam qualidade superior.",
-          "Para quem já escolheu a + Performance, o pote de 1,8 kg exige maior desembolso. Compare os tamanhos pelo preço e pelo rótulo do mesmo sabor: nos valores da tabela, o de 1,8 kg sai quase R$ 2 mais barato por 100 g de proteína. A + Natural entra pela preferência por estévia e taumatina; no preço registrado, não é a opção de menor custo por proteína."
+          "As versões do [Top Whey 3W](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) combinam concentrado, isolado e hidrolisado do soro, mas têm proporções de proteína diferentes. Nas porções comparadas, a [+ Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) tem mais proteína que a [+ Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) e a [+ Natural](https://www.maxtitanium.com.br/top-whey-3w-mais-natural-900g/p). Segundo a descrição da loja, a + Performance traz 11 vitaminas e 6 minerais, e a + Natural usa estévia e taumatina.",
+          "Para quem já escolheu a + Performance, o [pote de 1,8 kg](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-18kg-max-titanium/p) exige maior desembolso. Compare os tamanhos pelo preço e pelo rótulo do mesmo sabor: nos valores da tabela, o de 1,8 kg sai quase R$ 2 mais barato por 100 g de proteína. A + Natural entra pela preferência por estévia e taumatina; no preço registrado, não é a opção de menor custo por proteína.",
+          "No carrinho de novembro, a + Sabor, em promoção, recebeu 8,9% do código, e a + Performance, 2%."
         ],
         "images": [
           {
@@ -209401,28 +210105,80 @@ export const reviewsData: unknown[] = [
             "alt": "Pote de 900 g do Top Whey 3W + Sabor da Max Titanium, sabor brigadeiro",
             "caption": "Top Whey 3W + Sabor 900 g. Imagem: Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p"
+          },
+          {
+            "src": "/images/reviews/whey/max-titanium-top-whey-3w-performance.webp",
+            "alt": "Pote de 900 g do Top Whey 3W + Performance da Max Titanium",
+            "caption": "Top Whey 3W + Performance 900 g. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Top Whey 3W + Sabor na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Top Whey 3W + Performance na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Whey Pro: 15 g por dose, pote de 1 kg",
         "paragraphs": [
-          "O Whey Pro combina embalagem de 1 kg e o menor custo por proteína na promoção registrada. Sua porção tem mais carboidrato que proteína: são 19 g de carboidrato em 40 g de pó. No preço de lista do quadro, o custo por proteína fica acima do refil.",
+          "O [Whey Pro](https://www.maxtitanium.com.br/whey-pro-1kg/p) combina embalagem de 1 kg e o menor custo por proteína na promoção registrada. Sua porção tem mais carboidrato que proteína: são 19 g de carboidrato em 40 g de pó. No preço de lista do quadro, o custo por proteína fica acima do refil.",
+          "Com o código, ele recebeu 8,9% no carrinho de novembro e foi de R$ 109,90 para R$ 100,17, o que dá R$ 26,71 por 100 g de proteína.",
           "O Pro entra na escolha de quem prioriza custo por proteína e aceita essa proporção de carboidrato. Para obter mais proteína na mesma quantidade de pó, as outras opções do quadro, exceto o Super Whey, têm proporção maior."
-        ]
+        ],
+        "links": [
+          {
+            "label": "Ver o Whey Pro 1 kg na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-whey-pro-1kg.webp",
+          "alt": "Pote do Whey Pro de 1 kg da Max Titanium, sabor baunilha, em foto oficial",
+          "caption": "Whey Pro, 1 kg. Foto oficial da Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       },
       {
         "heading": "IsoWhey: o isolado, com menos carboidrato",
         "paragraphs": [
-          "O IsoWhey é proteína isolada do soro (WPI). Na porção de 30 g comparada, o rótulo declara 2,3 g de carboidrato e 0,5 g de gordura. Ele tem menos carboidrato que o 100% Whey na mesma quantidade de pó.",
-          "É uma opção para quem procura proteína isolada e menos carboidrato que o 100% Whey, aceitando o custo maior por proteína do quadro. Isolado não quer dizer sem lactose: o rótulo diz \"contém lactose\"."
+          "O [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) é proteína isolada do soro (WPI). Na porção de 30 g comparada, o rótulo declara 2,3 g de carboidrato e 0,5 g de gordura. Ele tem menos carboidrato que o 100% Whey na mesma quantidade de pó.",
+          "É uma opção para quem procura proteína isolada e menos carboidrato que o 100% Whey, aceitando o custo maior por proteína do quadro. Isolado não quer dizer sem lactose: o rótulo diz “contém lactose”, como o de todos os wheys do quadro. A opção “Zero Lactose” do menu da Max é o hipercalórico [Mass Titanium 17500](/reviews/hipercalorico-max-titanium-mass-17500), não um whey. Confirme o catálogo e o rótulo atuais antes de comprar."
+        ],
+        "image": {
+          "src": "/images/reviews/whey/max-titanium-isowhey.webp",
+          "alt": "Pote de 900 g do IsoWhey da Max Titanium, whey protein isolado",
+          "caption": "IsoWhey 900 g. Imagem: Max Titanium.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p"
+        },
+        "links": [
+          {
+            "label": "Ver o IsoWhey na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Super Whey: porção de 120 g e mistura com carboidrato",
         "paragraphs": [
-          "O Super Whey entra na escolha de quem procura uma mistura com mais carboidrato que proteína. A loja informa: a porção de 120 g tem 460 kcal, 79 g de carboidrato, 42 g de açúcares totais (3,6 g adicionados), 2,7 g de gordura e 30 g de proteína. Essa composição é a do sabor baunilha; confira a embalagem do sabor escolhido.",
+          "O [Super Whey](https://www.maxtitanium.com.br/super-whey-900g/p) entra na escolha de quem procura uma mistura com mais carboidrato que proteína. A loja informa: a porção de 120 g tem 460 kcal, 79 g de carboidrato, 42 g de açúcares totais (3,6 g adicionados), 2,7 g de gordura e 30 g de proteína. Essa composição é a do sabor baunilha; confira a embalagem do sabor escolhido.",
           "Para compará-lo, use a mesma quantidade de pó ou o custo por proteína declarada. Ele tem a menor proporção de proteína no pó entre as opções do quadro, embora seja a embalagem de menor preço. Os ingredientes incluem proteína concentrada do soro, maltodextrina, colágeno hidrolisado, frutose e proteína isolada do soro. Assim, a proteína total declarada não corresponde apenas à proteína do soro. Contém lactose e derivados de soja."
         ],
         "images": [
@@ -209431,7 +210187,8 @@ export const reviewsData: unknown[] = [
             "alt": "Embalagem do Super Whey 900 g da Max Titanium, sabor baunilha",
             "caption": "Super Whey 900 g. Imagem: Max Titanium.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://www.maxtitanium.com.br/super-whey-900g/p"
           },
           {
             "src": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey-tabela.webp",
@@ -209440,39 +210197,56 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1
           }
+        ],
+        "links": [
+          {
+            "label": "Ver o Super Whey na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/super-whey-900g/p",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "Os wheys comparados declaram lactose",
+        "heading": "Cupom MAX10EMCASACOMCECILIA: 2% ou 8,9%, por produto",
         "paragraphs": [
-          "Todos os wheys do quadro declaram “contém lactose”, inclusive o IsoWhey. A opção “Zero Lactose” do menu é o hipercalórico Mass Titanium 17500, não um dos wheys comparados. Confirme o catálogo e o rótulo atuais antes de comprar."
-        ]
-      },
-      {
-        "heading": "Cupom MAX10EMCASACOMCECILIA: até 10%, por produto",
-        "paragraphs": [
-          "O cupom MAX10EMCASACOMCECILIA dá até 10%. O percentual varia por produto e aparece no carrinho: nem todo item chega a 10%. Com o Top Whey 3W + Sabor em promoção, o desconto chegou a 8,9%.",
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF no site e no app da Max Titanium. No teste de novembro, ele ligou duas promoções da loja: 2% OFF em produtos selecionados, que apareceu em todos os itens testados, e um 7% OFF adicional em alguns. O resultado foi 8,9% no Whey Pro, no Top Whey 3W + Sabor e no Whey Blend, e 2% no 100% Whey, no Top Whey 3W + Performance, no IsoWhey e no Super Whey. O percentual aparece no carrinho, na linha “Descontos”.",
           "O cupom vale em todas as formas de pagamento e soma com as promoções do site. As regras estão em [cupons da Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
         "heading": "Qual whey escolher",
-        "emphasis": "Pelos valores do quadro, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre as versões Top Whey 3W comparadas, a + Performance tem maior proporção de proteína no pó; o pote de 1,8 kg sai mais barato por proteína na tabela. O cupom MAX10EMCASACOMCECILIA dá até 10%, com percentual variável por produto no carrinho.",
+        "emphasis": "O Whey Pro tem o menor custo por proteína do quadro, e com o código o 100% Whey Refil e o Top Whey 3W + Sabor ficam empatados logo atrás.",
         "bullets": [
-          "Prioriza custo por proteína: Whey Pro lidera no preço promocional registrado, seguido do 100% Whey Refil. Confira se essa ordem se mantém no carrinho.",
+          "Prioriza custo por proteína: o Whey Pro lidera, seguido do 100% Whey Refil e do Top Whey 3W + Sabor com o código. Confira se essa ordem se mantém no carrinho.",
           "Já escolheu o Top Whey 3W + Performance: o de 1,8 kg sai mais barato por proteína na tabela, com desembolso maior; confira o rótulo do sabor.",
           "Procura isolado e menos carboidrato que o 100% Whey: IsoWhey, com custo maior por proteína no quadro e declaração de lactose no rótulo.",
           "Procura uma mistura com mais carboidrato que proteína: considere o Super Whey pela composição. Seu menor preço por embalagem não representa menor custo por proteína.",
           "Precisa evitar lactose: os rótulos declaram lactose. Decisões sobre intolerância, quantidade de consumo e outras questões de saúde devem ser feitas com médico ou nutricionista."
+        ],
+        "paragraphs": [
+          "Entre as versões do Top Whey 3W comparadas, a + Performance tem maior proporção de proteína no pó, e o pote de 1,8 kg sai mais barato por proteína na tabela. O código MAX10EMCASACOMCECILIA deu 8,9% nos wheys em promoção e 2% nos demais."
+        ],
+        "links": [
+          {
+            "label": "Ver o Whey Pro 1 kg na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Top Whey 3W + Sabor na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual whey da Max Titanium compensa mais? No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre os tamanhos do Top Whey 3W + Performance, o de 1,8 kg sai mais barato por proteína na tabela; confira o rótulo do sabor.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Digite o código no carrinho e confira a linha Descontos antes de pagar. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium).",
+          "Qual whey da Max Titanium compensa mais? No quadro comparado, o Whey Pro e o 100% Whey Refil têm os menores custos por proteína declarada. Entre os tamanhos do Top Whey 3W + Performance, o de 1,8 kg sai mais barato por proteína na tabela; confira o rótulo do sabor.",
           "Super Whey é whey? Ele contém proteínas do soro, junto com colágeno, maltodextrina e frutose. Compare a composição na mesma quantidade de pó e o custo por proteína declarada; a porção maior não significa maior proporção de proteína.",
           "A Max Titanium tem whey zero lactose? Os wheys do quadro declaram “contém lactose”. Confirme o catálogo atual e o rótulo da versão que pretende comprar.",
-          "O cupom da Max dá 10% em tudo? Não: o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto.",
+          "O cupom da Max dá 10% em tudo? Não: o MAX10EMCASACOMCECILIA dá até 10%, e no teste de novembro foram 8,9% no Whey Pro e no Top Whey 3W + Sabor e 2% no 100% Whey, no Performance, no IsoWhey e no Super Whey.",
           "E o whey Dr. Peanut? Para comparar os canais de compra do 100% Whey Dr. Peanut, veja [whey Dr. Peanut: Max ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium) e confira o preço final com o cupom em cada loja."
         ]
       }
@@ -236573,7 +237347,7 @@ export const reviewsData: unknown[] = [
     "id": 921,
     "slug": "cupom-max-titanium-primeira-compra",
     "title": "Cupom Max Titanium primeira compra: MAX10EMCASACOMCECILIA dá até 10% OFF e vale nas compras seguintes",
-    "seoTitle": "Max Titanium primeira compra: MAX10EMCASACOMCECILIA até 10%",
+    "seoTitle": "Cupom Max Titanium primeira compra: MAX10EMCASACOMCECILIA",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -236588,7 +237362,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na Max Titanium, use MAX10EMCASACOMCECILIA: até 10% OFF, conforme o produto. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/cupom-max-titanium-primeira-compra-capa-v2.webp",
@@ -236598,7 +237372,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Entre no site oficial da Max Titanium pelo botão e digite MAX10EMCASACOMCECILIA no campo Cupom de Desconto do carrinho.",
+      "text": "Entre no site oficial da Max Titanium pelo botão e, no carrinho, cole o MAX10EMCASACOMCECILIA no campo Código do cupom de desconto.",
       "label": "Ir para a Max Titanium",
       "url": "https://www.maxtitanium.com.br/",
       "sponsored": true
@@ -236611,25 +237385,25 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-max-titanium-como-usar"
       },
       {
-        "slug": "max-titanium-e-confiavel"
+        "slug": "black-friday-max-titanium"
       },
       {
-        "slug": "max-titanium-reclame-aqui-nota-reputacao"
+        "slug": "whey-max-titanium-qual-escolher"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Max Titanium, use MAX10EMCASACOMCECILIA: até 10% OFF no site oficial e no aplicativo, com todas as formas de pagamento. O percentual varia por produto, e o carrinho mostra quanto cada item recebeu. O mesmo código vale para quem já comprou e soma com as promoções do site."
+          "Para a primeira compra na Max Titanium, use o [cupom Max Titanium](/cupons/max-titanium) MAX10EMCASACOMCECILIA: até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. O percentual varia por produto, e o carrinho mostra quanto cada item recebeu. O mesmo código vale para quem já comprou e soma com as promoções do site."
         ]
       },
       {
         "heading": "Cupom Max Titanium primeira compra: qual usar",
         "paragraphs": [
-          "A Max Titanium é uma marca de suplementos, com produtos como whey e creatina na loja oficial. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel).",
-          "Use o MAX10EMCASACOMCECILIA: até 10% OFF no site oficial. O desconto é por produto, com teto de 10%, e vale no primeiro pedido e nos seguintes.",
-          "É o [cupom Max Titanium](/cupons/max-titanium) da nossa parceria com a marca, testado no carrinho. A linha “Descontos” do resumo mostra o valor aplicado."
+          "A Max Titanium é uma marca de suplementos, com produtos como whey e creatina no [site oficial](https://www.maxtitanium.com.br/).",
+          "Use o MAX10EMCASACOMCECILIA: até 10% OFF, conforme o produto. Ele vale no primeiro pedido e nos seguintes.",
+          "É o [cupom Max Titanium](/cupons/max-titanium) da nossa parceria com a marca, testado no carrinho. A linha \"Descontos\" do resumo mostra o valor aplicado."
         ]
       },
       {
@@ -236639,7 +237413,8 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Site ou aplicativo.** O código vale no site oficial e no aplicativo Max Titanium Suplementos, no campo de cupom. No Mercado Livre ele não vale.",
-          "**Percentual por produto.** Alguns itens recebem perto dos 10%, outros bem menos. O carrinho mostra o desconto de cada um.",
+          "**Percentual por produto.** No teste de novembro, a maior parte dos itens recebeu 2% e alguns, como o Whey Pro, 8,9%. O carrinho mostra o desconto de cada um.",
+          "**Segunda compra.** O mesmo código vale de novo para quem já comprou, na reposição do whey ou em outro item.",
           "**Frete grátis com valor mínimo.** A loja dá frete grátis a partir de um valor que muda por região, e o desconto pode deixar o pedido abaixo dele."
         ],
         "postParagraphs": [
@@ -236649,7 +237424,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto o cupom descontou em dois wheys",
         "paragraphs": [
-          "No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o MAX10EMCASACOMCECILIA entrou num Top Whey 3W Mais Sabor de 900 g que já estava em promoção:"
+          "No teste de novembro, o MAX10EMCASACOMCECILIA entrou num Top Whey 3W Mais Sabor de 900 g que já estava em promoção:"
         ],
         "comparisonTable": {
           "caption": "Top Whey 3W Mais Sabor de 900 g: valores do teste no carrinho, antes do Pix e do frete.",
@@ -236677,8 +237452,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pelos valores do teste, o código tirou cerca de 9% do preço promocional do Top Whey. Num IsoWhey de 900 g a preço cheio, no mesmo teste, o desconto ficou em 2%. Os dois resultados mostram por que a oferta é de até 10%.",
-          "A loja anuncia até 5% de desconto no Pix. Esse desconto soma com o código; escolha o Pix no pagamento e confira o total."
+          "Pelos valores do teste, o código tirou 8,9% do preço promocional do Top Whey. Num IsoWhey de 900 g, no mesmo teste, o desconto ficou em 2%, o mesmo da maior parte dos itens testados. Os dois resultados mostram por que a oferta é de até 10%.",
+          "A faixa do site anuncia Pix e boleto com 5% OFF, percentual que pode variar por item: escolha a forma de pagamento e confira o total antes de pagar."
         ],
         "images": [
           {
@@ -236691,20 +237466,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "E na segunda compra?",
-        "paragraphs": [
-          "O MAX10EMCASACOMCECILIA vale de novo para quem já comprou, com o mesmo teto de 10%. O percentual segue dependendo do produto, na reposição do whey ou em outro item."
-        ]
-      },
-      {
         "heading": "Onde colar o código",
         "paragraphs": [
           "O código vai no carrinho, antes de continuar para o pagamento:"
         ],
         "bullets": [
           "Coloque os produtos no carrinho do site oficial ou do aplicativo.",
-          "No campo “Cupom de Desconto”, digite MAX10EMCASACOMCECILIA, sem espaços, e aplique.",
-          "Confira a linha “Descontos” e o frete do seu CEP antes de pagar."
+          "Clique em \"Adicionar cupom de desconto\", digite MAX10EMCASACOMCECILIA no campo \"Código\", sem espaços, e confirme em \"Adicionar\".",
+          "Confira a linha \"Descontos\" e o frete do seu CEP antes de pagar."
         ],
         "postParagraphs": [
           "O passo a passo com as telas está em [como usar o cupom MAX10EMCASACOMCECILIA](/reviews/cupom-max-titanium-como-usar)."
@@ -236713,19 +237482,42 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Carrinho da Max Titanium depois do cupom, com o código no resumo e no item, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25.",
         "imageCaption": "MAX10EMCASACOMCECILIA aplicado no carrinho: a captura mostra o mesmo pedido da tabela.",
         "imageFit": "contain",
-        "imageAspectRatio": 2.676
+        "imageAspectRatio": 2.676,
+        "emphasis": "Na primeira compra, vale colar o MAX10EMCASACOMCECILIA sempre: o carrinho mostra o desconto real de cada item antes de você pagar.",
+        "links": [
+          {
+            "label": "Ver o cupom Max Titanium",
+            "href": "/cupons/max-titanium"
+          },
+          {
+            "label": "Ver o Top Whey 3W + Sabor na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como conseguir desconto na primeira compra na Max Titanium? O MAX10EMCASACOMCECILIA dá até 10%, conforme o produto, no primeiro pedido e nos seguintes.",
-          "Qual cupom Max Titanium vale para quem já é cliente? O mesmo MAX10EMCASACOMCECILIA, com o mesmo teto de 10%.",
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no campo de cupom do carrinho; as regras estão no [cupom Max Titanium](/cupons/max-titanium).",
+          "Como conseguir desconto na primeira compra na Max Titanium? Cole o código no carrinho antes de pagar. Ele vale no primeiro pedido e nos seguintes, conforme o produto.",
+          "Qual cupom Max Titanium vale para quem já é cliente? O mesmo MAX10EMCASACOMCECILIA, na reposição do whey ou em outro item.",
           "Quanto de desconto o cupom Max Titanium dá? Até 10%. O percentual varia por produto, e o carrinho mostra o desconto de cada item.",
           "O cupom Max Titanium vale no aplicativo? Sim, no aplicativo Max Titanium Suplementos.",
           "O cupom Max Titanium vale no Mercado Livre? Não. Pelo Mercado Livre, vale o preço do anúncio."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai fazer o primeiro pedido no site ou no aplicativo da Max Titanium e quer o código certo antes de pagar.",
+        "Você já comprou na Max e quer saber se o mesmo código vale na reposição do whey."
+      ],
+      "skipIf": [
+        "Você vai comprar pelo Mercado Livre: o código não vale lá.",
+        "Você espera 10% em todo item: no teste de novembro, a maior parte dos itens recebeu 2%."
+      ]
+    }
   },
   {
     "id": 922,
@@ -292583,6 +293375,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. Mass 17500 de 3 kg, 1,4 kg e “zero lactose” pelo rótulo e pelo preço por 100 g de proteína.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-capa-v2.webp",
@@ -292627,7 +293420,7 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Resposta rápida: qual Mass Titanium 17500 comparar",
+        "heading": "Resposta rápida",
         "paragraphs": [
           "O Mass Titanium 17500 tem três versões: refil de 3 kg, refil de 1,4 kg e o “zero lactose” de 2,4 kg. Pela proteína do rótulo, o de 3 kg sai mais barato, mas o “zero lactose” tem outra lista de ingredientes. O MAX10EMCASACOMCECILIA dá até 10% OFF; a conta e as advertências de cada um estão abaixo."
         ]
@@ -292635,7 +293428,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Três embalagens com o mesmo nome",
         "paragraphs": [
-          "O Mass Titanium 17500 tem refis de 3 kg e 1,4 kg e uma versão de 2,4 kg chamada “zero lactose”. O refil de 3 kg custa menos por 100 g de proteína declarada. A versão “zero lactose” tem outra fórmula e declara derivados de leite e soja.",
+          "O Mass Titanium 17500 tem refis de [3 kg](https://www.maxtitanium.com.br/masstitanium3kg/p) e [1,4 kg](https://www.maxtitanium.com.br/mass-titanium-17500-14kg/p) e uma versão de [2,4 kg chamada “zero lactose”](https://www.maxtitanium.com.br/mass-titanium-17500-zero-lactose/p). O refil de 3 kg custa menos por 100 g de proteína declarada. A versão “zero lactose” tem outra fórmula e declara derivados de leite e soja.",
           "O 3 kg também aparece no [comparativo da Max com outra marca](/reviews/max-titanium-ou-growth), com o preço no Pix de outra data. Aqui a Max fica sozinha, e o “Zero Lactose” do menu da loja, que não é whey, ganha o capítulo dele mais abaixo."
         ]
       },
@@ -292652,7 +293445,7 @@ export const reviewsData: unknown[] = [
           "Conta nossa, com o rótulo e o preço de cartão da loja: a proteína da embalagem é o número de porções vezes 17 g, e o preço por 100 g de proteína é o preço dividido por essa quantidade, vezes 100. Quanto menor o resultado, menor o custo da proteína declarada. A última coluna divide o preço pelas calorias declaradas da embalagem."
         ],
         "comparisonTable": {
-          "caption": "Preços de cartão de 20 de novembro de 2026, sem cupom e sem Pix; entre parênteses, o preço de lista. A conta usa o peso da embalagem: 3 kg são 18,75 porções de 160 g, 1,4 kg são 8,75 e 2,4 kg são 15. No 1,4 kg, os valores são os de baunilha e chocolate.",
+          "caption": "Preços de cartão de 22/11, sem cupom e sem Pix; entre parênteses, o preço de lista. A conta usa o peso da embalagem: 3 kg são 18,75 porções de 160 g, 1,4 kg são 8,75 e 2,4 kg são 15. No 1,4 kg, os valores são os de baunilha e chocolate.",
           "headers": [
             "Versão",
             "Porção de 160 g: calorias, carboidrato, proteína",
@@ -292692,7 +293485,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Refil de 3 kg: os cinco sabores",
         "paragraphs": [
-          "O refil de 3 kg sai em baunilha, chocolate, leite condensado, morango e vitamina de frutas, e os cinco estavam à venda. A proteína é de 17 g em todos; calorias e açúcares mudam de sabor para sabor, como mostra a tabela de cada um:"
+          "O [refil de 3 kg](https://www.maxtitanium.com.br/masstitanium3kg/p) sai em baunilha, chocolate, leite condensado, morango e vitamina de frutas, e os cinco estavam à venda. A proteína é de 17 g em todos; calorias e açúcares mudam de sabor para sabor, como mostra a tabela de cada um:"
         ],
         "bullets": [
           "Baunilha: 619 kcal, 135 g de carboidrato e 31 g de açúcares totais.",
@@ -292709,7 +293502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Refil de 1,4 kg: mesma tabela, outra advertência",
         "paragraphs": [
-          "Baunilha e chocolate do 1,4 kg têm os mesmos valores dos de 3 kg: 619 e 612 kcal por porção. Para os outros sabores, a ficha diz “até 619 kcal por porção, dependendo do sabor”, e os ingredientes são os do 3 kg. Os cinco sabores também estavam à venda.",
+          "Baunilha e chocolate do [refil de 1,4 kg](https://www.maxtitanium.com.br/mass-titanium-17500-14kg/p) têm os mesmos valores dos de 3 kg: 619 e 612 kcal por porção. Para os outros sabores, a ficha diz “até 619 kcal por porção, dependendo do sabor”, e os ingredientes são os do 3 kg. Os cinco sabores também estavam à venda.",
           "O que muda é a ficha. Os alergênicos dizem “contém derivados de leite e ovo, pode conter soja, lactose: contém”, e a recomendação de uso termina em “indicado para maiores de 19 anos”. A frase sobre gestantes, lactantes e crianças, que está no 3 kg, não aparece na ficha do 1,4 kg. Como as duas fichas divergem, vale ler o rótulo da embalagem que chegar e falar com um profissional em caso de dúvida."
         ],
         "image": {
@@ -292724,7 +293517,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O “zero lactose” de 2,4 kg: o que o rótulo diz",
         "paragraphs": [
-          "“Zero lactose” é o nome do produto. Na ficha, o campo de alergênicos diz “contém derivados de leite e soja, pode conter derivados de ovo, lactose: não contém”. Os ingredientes da versão chocolate trazem proteína isolada da soja e proteína isolada do soro do leite (WPI), além de maltodextrina, waxy maize, colágeno hidrolisado e uma mistura de vitaminas e minerais. Ou seja, a lista traz derivados de leite, e a ficha não deixa de dizer isso.",
+          "O [“zero lactose” de 2,4 kg](https://www.maxtitanium.com.br/mass-titanium-17500-zero-lactose/p) leva isso no nome do produto. Na ficha, o campo de alergênicos diz “contém derivados de leite e soja, pode conter derivados de ovo, lactose: não contém”. Os ingredientes da versão chocolate trazem proteína isolada da soja e proteína isolada do soro do leite (WPI), além de maltodextrina, waxy maize, colágeno hidrolisado e uma mistura de vitaminas e minerais. Ou seja, a lista traz derivados de leite, e a ficha não deixa de dizer isso.",
           "A tabela também é diferente da do refil: são 604 kcal por porção, 10 g de açúcares totais (contra 22 a 31 g no 3 kg) e sódio de 173 a 178 mg. A ficha manda misturar 160 g em 250 mL de água gelada ou leite desnatado e consumir uma porção ao dia, ou conforme orientação profissional. A advertência dele é a geral: não é um medicamento, não exceder a recomendação diária da embalagem e manter fora do alcance de crianças.",
           "O “zero lactose” aparece em chocolate e morango. Se você precisa excluir leite ou lactose, confira a declaração de alergênicos da embalagem escolhida. Para comparar os wheys da marca, veja o [guia de whey da Max Titanium](/reviews/whey-max-titanium-qual-escolher)."
         ],
@@ -292740,23 +293533,41 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom MAX10EMCASACOMCECILIA: até 10%, conforme o produto",
         "paragraphs": [
-          "O [cupom Max Titanium](/cupons/max-titanium) dá até 10% e o percentual varia por produto. Digite o MAX10EMCASACOMCECILIA no campo “Cupom de desconto” do carrinho e confira a linha de desconto antes de pagar. Não testamos o carrinho com o Mass Titanium; nos kits e no BCAA da loja, que testamos, o carrinho mostrou cerca de 2%, então não conte com 10% sem ver.",
-          "As contas do quadro ficam sem cupom. Use o valor que o resumo do pedido mostrar."
+          "O [cupom Max Titanium](/cupons/max-titanium) dá até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento, e o percentual varia por produto. No teste de novembro, ele deu 2% nas três versões: o refil de 3 kg foi de R$ 118,89 para R$ 116,51, o de 1,4 kg, de R$ 69,89 para R$ 68,49, e o “zero lactose”, de R$ 129,89 para R$ 127,29.",
+          "Conta nossa, com esses valores do carrinho: 100 g de proteína saem a R$ 36,55 no 3 kg, R$ 46,04 no 1,4 kg e R$ 49,92 no “zero lactose”. A ordem do quadro não muda. Para colar o código: carrinho, “Adicionar cupom de desconto”, campo Código, “Adicionar”; o desconto aparece na linha Descontos do resumo. As contas do quadro de preço ficam sem cupom."
         ]
       },
       {
         "heading": "Qual Mass Titanium 17500 escolher",
-        "emphasis": "Pelo rótulo e pelo preço, o refil de 3 kg tem o menor custo por 100 g de proteína entre as três versões. O 1,4 kg serve a quem quer a embalagem menor, e o “zero lactose” tem outra lista, que pede leitura do rótulo.",
+        "emphasis": "Pelo rótulo e pelo preço, o refil de 3 kg é a escolha: tem o menor custo por 100 g de proteína, com ou sem cupom, e o “zero lactose” só entra para quem procura essa ficha e lê a lista de ingredientes antes.",
         "bullets": [
           "Quer o menor custo por proteína: o refil de 3 kg, com R$ 37,30 por 100 g de proteína no quadro. Escolha o sabor pela tabela, porque calorias e açúcares mudam.",
           "Quer uma embalagem menor: refil de 1,4 kg. Os valores de baunilha e chocolate coincidem com os mesmos sabores do refil de 3 kg. Confira as advertências na sua embalagem.",
           "Procura “zero lactose”: o produto de 2,4 kg, de chocolate ou morango. Leia a lista de ingredientes e os alergênicos da embalagem que chegar, porque ela traz derivados de leite.",
           "Precisa de orientação individual sobre quantidade, alergênicos ou restrições? Leve a embalagem a um médico ou nutricionista."
+        ],
+        "links": [
+          {
+            "label": "Ver o refil de 3 kg na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/masstitanium3kg/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o refil de 1,4 kg na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/mass-titanium-17500-14kg/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o “zero lactose” de 2,4 kg na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/mass-titanium-17500-zero-lactose/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no carrinho, em “Adicionar cupom de desconto”, no campo Código. As regras estão no [cupom Max Titanium](/cupons/max-titanium).",
           "Qual Mass Titanium 17500 tem menos carboidrato por grama de proteína? Pelas tabelas, as três ficam entre 7,8 e 7,9 g de carboidrato por grama de proteína. A diferença está no preço por proteína, no açúcar e na lista de ingredientes.",
           "A Max Titanium tem hipercalórico sem lactose? O produto “zero lactose” de 2,4 kg diz “lactose: não contém” na ficha, e a mesma ficha diz que contém derivados de leite e soja. Quem precisa evitar lactose ou leite lê a embalagem que chegar e fala com médico ou nutricionista.",
           "O hipercalórico da Max Titanium é bom? O guia compara rótulo e preço, não efeito nem sabor. Pelo rótulo, as três versões trazem 17 g de proteína por porção de 160 g. Para a marca em geral, veja [Max Titanium é boa?](/reviews/max-titanium-e-boa).",
@@ -292786,6 +293597,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o código MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. 2Hot e Shot Dry comparados pela cafeína do rótulo e pelo preço por porção.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/termogenico-max-titanium-qual-escolher-capa-v2.webp",
@@ -292804,9 +293616,9 @@ export const reviewsData: unknown[] = [
     },
     "contentSections": [
       {
-        "heading": "Resposta rápida: qual termogênico da Max Titanium",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "O 2Hot custa menos por porção. Pela frequência descrita nas fichas, o Shot Dry de maracujá custa menos por dia e soma menos cafeína. A tabela compara os dois pós e o Shot Thermo Max em cápsulas. Confira o rótulo do sabor escolhido e considere também a cafeína que você consome em outras bebidas."
+          "O 2Hot custa menos por porção, mas pelo uso que a embalagem pede, duas porções por dia, o Shot Dry de maracujá custa menos por dia e soma menos cafeína. Os três termogênicos declaram cafeína na tabela. O código MAX10EMCASACOMCECILIA dá até 10% OFF; veja o [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
@@ -292814,7 +293626,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os três termogênicos da Max Titanium que entram aqui trazem cafeína na tabela nutricional. Café, chá, refrigerante e outras bebidas também somam cafeína ao seu dia, e a página de cada produto traz a quantidade de uso por dia. Não passe dela, e siga a da embalagem que chegar.",
           "As advertências do rótulo variam. O 2Hot pede que crianças, gestantes, nutrizes, idosos e portadores de enfermidades consultem o médico antes e não recomenda o consumo com bebida alcoólica. O Shot Dry e o Shot Thermo Max dizem que não devem ser consumidos por gestantes, lactantes e crianças.",
-          "Quem tem sensibilidade à cafeína, gestantes e quem toma estimulante fala antes com um profissional de saúde. O guia compara o rótulo e o preço, e não diz o que o produto faz no corpo."
+          "Quem tem sensibilidade à cafeína, gestantes e quem toma estimulante fala antes com um profissional de saúde."
         ]
       },
       {
@@ -292880,34 +293692,37 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada porção",
         "paragraphs": [
-          "Conta nossa: o preço de cartão da página dividido pelo número de porções da tabela nutricional, sem cupom."
+          "Conta nossa: o preço de cartão da página dividido pelo número de porções da tabela nutricional. A última coluna usa o preço do carrinho com o cupom, no teste de novembro."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
             "Preço de cartão",
             "Porções",
-            "Por porção"
+            "Por porção",
+            "Por porção com o cupom (teste de novembro)"
           ],
           "rows": [
             [
               "[2Hot 200 g](https://www.maxtitanium.com.br/2hot-200g/p)",
               "R$ 79,90 (de R$ 99,90)",
               "cerca de 33",
-              "R$ 2,42"
+              "R$ 2,42",
+              "R$ 2,37"
             ],
             [
               "[Shot Dry 150 g](https://www.maxtitanium.com.br/shot-dry-150g-/p)",
               "R$ 89,89 (de R$ 99,90)",
               "30",
-              "R$ 3,00"
+              "R$ 3,00",
+              "R$ 2,94"
             ]
           ],
-          "caption": "Preços de cartão de 20 de novembro de 2026, sem cupom e sem Pix; entre parênteses, o preço de lista. Porções da tabela nutricional de cada produto."
+          "caption": "Preços de cartão de 22/11, sem Pix; entre parênteses, o preço de lista. Porções da tabela nutricional de cada produto. O cupom deu 2% nos dois: R$ 78,30 no 2Hot e R$ 88,09 no Shot Dry."
         },
         "postParagraphs": [
           "O 2Hot sai R$ 0,58 mais barato por porção que o Shot Dry, e tem 5 mg a menos de cafeína por porção. A conta é por porção de cada rótulo, não por efeito: o 2Hot rende mais porções na embalagem, e o Shot Dry tem uma porção só por dia na ficha. Pelo uso da ficha, são duas porções por dia no 2Hot, R$ 4,84, contra uma no Shot Dry, R$ 3,00.",
-          "O código MAX10EMCASACOMCECILIA dá até 10%, conforme o produto; nos kits e no BCAA da loja, o carrinho mostrou cerca de 2%. Confira a linha de desconto antes de pagar. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium)."
+          "O código MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento, e o percentual varia por produto. No teste de novembro, o cupom deu 2% no 2Hot e no Shot Dry, e a ordem não muda: R$ 2,37 contra R$ 2,94 por porção, e R$ 4,75 contra R$ 2,94 por dia. Para colar: carrinho, “Adicionar cupom de desconto”, campo Código, “Adicionar”. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
@@ -292931,26 +293746,34 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Menor cafeína por porção: 2Hot, com 70 mg. O Shot Dry tem 75 mg e o Shot Thermo Max, 140 mg.",
-          "Menor preço por porção: 2Hot, a R$ 2,42, contra R$ 3,00 do Shot Dry.",
+          "Menor preço por porção: 2Hot, a R$ 2,42 (R$ 2,37 com o cupom no teste de novembro), contra R$ 3,00 (R$ 2,94) do Shot Dry.",
           "Prefere cápsula a pó: o Shot Thermo Max é o único em cápsulas, mas está esgotado.",
           "Menor custo e menor total de cafeína por dia, pela frequência informada nas fichas: Shot Dry de maracujá.",
           "Sem cafeína: nenhum dos três. Todos declaram cafeína na tabela."
         ],
-        "postParagraphs": [
-          "Se o preço ou o estoque mudar, a conta muda. Refaça a divisão com o preço do dia antes de comprar."
-        ],
-        "emphasis": "Por porção, o 2Hot tem menos cafeína e custa menos. Pelo uso que a embalagem pede, duas porções por dia no 2Hot e uma no Shot Dry, a conta se inverte: o Shot Dry soma menos cafeína e custa menos por dia."
+        "emphasis": "Pelo uso que a ficha pede, o Shot Dry de maracujá é a escolha: soma menos cafeína e custa menos por dia, e o 2Hot só ganha quando a conta é por porção.",
+        "links": [
+          {
+            "label": "Ver o 2Hot na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/2hot-200g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Shot Dry na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/shot-dry-150g-/p",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no carrinho, em “Adicionar cupom de desconto”, no campo Código. As regras estão no [cupom Max Titanium](/cupons/max-titanium).",
           "Termogênico da Max Titanium tem cafeína? Tem. Pelo rótulo, o 2Hot declara 70 mg por porção, o Shot Dry, 75 mg, e o Shot Thermo Max, 140 mg por 2 cápsulas.",
           "Qual termogênico da Max Titanium tem mais cafeína? Dos três, o Shot Thermo Max, com 140 mg por porção de 2 cápsulas, mas ele está esgotado. Entre os que estão à venda, o Shot Dry tem 75 mg e o 2Hot, 70 mg.",
           "Termogênico da Max Titanium sem cafeína existe? Não entre os três deste guia: todos declaram cafeína na tabela. Para ler outra linha, confira a tabela nutricional na página de cada produto.",
           "O 2Hot é bom? Se você compara por porção, ele custa menos que o Shot Dry. Se compara pelo total diário das fichas, o Shot Dry sai mais barato e soma menos cafeína.",
-          "Quanto custa a porção do Shot Dry? Mais que a do 2Hot. O valor está na tabela de preço por porção, feita com o preço da embalagem de 150 g e as 30 porções do rótulo.",
-          "Termogênico tem efeito no corpo? O guia não trata disso: ele compara o rótulo e o preço. Quem tem uma meta de saúde ou de corpo fala com um médico ou nutricionista.",
-          "Qual o código da Max Titanium? É o MAX10EMCASACOMCECILIA, de até 10% OFF, conforme o produto. Veja as condições na [página do cupom](/cupons/max-titanium)."
+          "Quanto custa a porção do Shot Dry? Mais que a do 2Hot. O valor está na tabela de preço por porção, feita com o preço da embalagem de 150 g e as 30 porções do rótulo."
         ]
       }
     ],
@@ -292997,6 +293820,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o cupom MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. Kit ou avulso: a conta por item de whey e creatina, o kit de brinde e o frete por região.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa-v2.webp",
@@ -293010,21 +293834,12 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe nos kits que custam o mesmo que os avulsos se você quer outro sabor ou tamanho: o avulso dá a mesma conta com mais escolha.",
+        "Passe no kit com Top Whey 3W + Sabor se vai usar o cupom: o avulso desse whey recebeu 8,9% no teste de novembro e a vantagem do kit some.",
         "Passe no kit se o seu pedido não chega ao frete grátis da sua região: o kit não muda essa regra, o valor do pedido muda."
       ]
     },
-    "pros": [
-      "O kit de Whey Pro 1 kg com Creatina 500 g custa menos que os avulsos somados no mesmo preço de cartão",
-      "Os kits com a creatina de 500 g e os kits Whey Blend fecham mais baratos que a soma dos avulsos",
-      "Tudo no mesmo pedido, com uma conta simples por item",
-      "O cupom entra nos kits: o carrinho aplicou o desconto nos dois que testamos"
-    ],
-    "cons": [
-      "Vários kits de whey e creatina custam o mesmo que os avulsos",
-      "No carrinho, o cupom deu cerca de 2% nos kits e no BCAA que testamos, não 10%",
-      "O preço riscado e o percentual de OFF do kit medem contra o preço antigo, não contra o avulso de hoje",
-      "Estoque e sabor mudam por variante, e alguns kits estavam esgotados"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Veja os kits da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% de desconto, no carrinho.",
       "label": "Ir para a Max Titanium",
@@ -293053,26 +293868,18 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Resposta rápida: quando o kit Max Titanium compensa",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Só em alguns kits. Seis combinações de whey e creatina custam menos que os avulsos somados, e a de Whey Pro com creatina de 500 g é a que mais economiza. Em vários outros kits a soma dá igual, então o kit só junta o pedido. A conta usa o preço de cartão do dia."
-        ]
-      },
-      {
-        "heading": "Como comparar o kit com os avulsos",
-        "paragraphs": [
-          "Some o preço atual dos avulsos no mesmo sabor, tamanho e forma de pagamento. No kit de Whey Pro com Creatina 500 g, a loja mostra R$ 241,80 como referência. Os dois itens avulsos saíam por R$ 179,80 no mesmo dia. É esse valor que entra na comparação.",
-          "Conta nossa: somamos os avulsos do mesmo item e do mesmo tamanho, ao preço de cartão, sem Pix, sem cupom e sem frete, e comparamos com o menor preço do kit entre as variantes disponíveis. Uma unidade de cada item. Quanto maior a diferença, mais o kit ajuda.",
-          "Os avulsos aparecem com a ficha completa em [creatina Max Titanium: qual pote](/reviews/creatina-max-titanium-qual-pote) e [whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher)."
+          "Só em alguns kits. Seis combinações de whey e creatina custam menos que os avulsos somados, e a de Whey Pro com creatina de 500 g economiza mais. Nos outros, a soma dá igual. O MAX10EMCASACOMCECILIA dá até 10% OFF e pode encolher essa diferença; veja o [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
         "heading": "Kits que custam menos que os avulsos",
         "paragraphs": [
-          "Seis kits de whey e creatina fecham abaixo da soma dos avulsos. Em todos, o kit entrega os mesmos itens por menos."
+          "Seis kits de whey e creatina fecham abaixo da soma dos avulsos do mesmo item e tamanho. Em todos, o kit entrega os mesmos itens por menos. Os avulsos têm ficha completa em [creatina Max Titanium: qual pote](/reviews/creatina-max-titanium-qual-pote) e [whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher)."
         ],
         "comparisonTable": {
-          "caption": "Cartão, em 20 de novembro de 2026, antes do cupom e do frete. Avulsos do mesmo tamanho. No Double Tasty, a economia vale para chocolate, baunilha e morango.",
+          "caption": "Conta nossa, no cartão, em 22/11: uma unidade de cada avulso, antes do cupom, do Pix e do frete, comparada com o menor preço do kit entre as variantes. No Double Tasty, a economia vale para chocolate, baunilha e morango.",
           "headers": [
             "Kit",
             "Preço do kit",
@@ -293119,9 +293926,18 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O kit de Whey Pro com Creatina 500 g lidera em reais e em percentual. Ele também custa R$ 10,00 menos que o kit de Whey Pro 1 kg com Creatina 300 g, que sai a R$ 169,80, e traz o pote maior de creatina.",
-          "Nos outros cinco kits, a diferença é de R$ 10,00 a R$ 13,39. É um desconto pequeno, que vale se o whey do kit é o que você já ia comprar."
-        ]
+          "O kit de Whey Pro com Creatina 500 g lidera em reais e em percentual. Ele também custa R$ 10,00 menos que o kit de Whey Pro 1 kg com Creatina 300 g, que sai a R$ 169,80, e traz o pote maior de creatina. O preço riscado do kit, R$ 241,80, mede contra o preço antigo: o que conta é a soma dos avulsos de hoje.",
+          "Nos outros cinco kits, a diferença é de R$ 10,00 a R$ 13,39. É um desconto pequeno, que vale se o whey do kit é o que você já ia comprar.",
+          "Os packs do mesmo item também compensam: o Kit 2x Whey Pro 1 kg sai por R$ 189,90 contra R$ 219,80 dos dois avulsos, R$ 29,90 a menos, e o Pack 2x Creatina 500 g, por R$ 119,80 contra R$ 139,80, R$ 20,00 a menos."
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-whey-pro-creatina-500g.webp",
+          "alt": "Kit da Max Titanium com o Whey Pro de 1 kg sabor baunilha e a Creatina de 500 g, em foto oficial",
+          "caption": "Kit Whey Pro 1 kg + Creatina 500 g. Foto oficial da Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/kit-whey-pro-creatina-500g/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       },
       {
         "heading": "Kits que custam o mesmo que os avulsos",
@@ -293129,7 +293945,7 @@ export const reviewsData: unknown[] = [
           "Nos kits abaixo, a soma dos avulsos fecha no mesmo valor do kit, com no máximo um centavo de diferença. Aqui o kit não economiza: ele só coloca dois itens num clique."
         ],
         "comparisonTable": {
-          "caption": "Mesma leitura e mesma base do quadro anterior. Preço do kit igual à soma dos avulsos de mesmo tamanho.",
+          "caption": "Mesma base do quadro anterior. Preço do kit igual à soma dos avulsos de mesmo tamanho.",
           "headers": [
             "Kit",
             "Preço do kit"
@@ -293185,8 +294001,7 @@ export const reviewsData: unknown[] = [
         "heading": "Kit de Creatina 500 g com Hórus 150 g de brinde",
         "paragraphs": [
           "O kit de Creatina 500 g com Pré-treino Hórus 150 g de brinde custa R$ 69,90, o mesmo preço da creatina de 500 g sozinha. O Hórus de 150 g avulso custa R$ 46,89. Pelo nome do kit, o Hórus é o brinde, e o carrinho confirmou: o total mostrou R$ 69,90, sem cobrança à parte.",
-          "A conta, então, é a do brinde: quem já ia comprar a creatina de 500 g leva o Hórus de 150 g por esse mesmo valor. O Hórus é um pré-treino com 150 mg de cafeína por dose no rótulo; a porção e as advertências estão no rótulo da embalagem que chegar, e o guia dele está em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
-          "O kit tem variantes por sabor, e algumas estavam sem estoque. Escolha o sabor antes de fechar a conta."
+          "A conta, então, é a do brinde: quem já ia comprar a creatina de 500 g leva o Hórus de 150 g por esse mesmo valor. O Hórus é um pré-treino com 150 mg de cafeína por dose no rótulo; a porção e as advertências estão no rótulo da embalagem que chegar, e o guia dele está em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide)."
         ],
         "image": {
           "src": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-horus.webp",
@@ -293198,10 +294013,11 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Cupom nos kits: cerca de 2% no carrinho",
+        "heading": "Cupom nos kits e nos avulsos: o que o carrinho deu",
         "paragraphs": [
-          "O código MAX10EMCASACOMCECILIA dá até 10% OFF, conforme o produto. Nos kits e no BCAA que levamos ao carrinho, sem finalizar, o desconto foi de cerca de 2%: o kit de Whey Pro com Creatina 500 g foi de R$ 159,80 para R$ 156,60, e o kit de Creatina 500 g com Hórus de brinde, de R$ 69,90 para R$ 68,50.",
-          "Por isso, nenhuma conta deste guia usa 10% nos kits. Confira o percentual no resumo do pedido antes de pagar. As regras do código estão em [cupom Max Titanium](/cupons/max-titanium), e o guia de [como usar o cupom](/reviews/cupom-max-titanium-como-usar) explica o campo do carrinho."
+          "O código MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento, e o percentual varia por produto. No teste de novembro, o desconto foi de 2% nos kits de Whey Pro 1 kg com Creatina 500 g (R$ 159,80 para R$ 156,60), de Creatina 500 g com Hórus de brinde (R$ 69,90 para R$ 68,50) e de Creatina 300 g com Shot Dry (R$ 149,78 para R$ 146,78), e de 8,9% no Kit 2x Whey Pro 1 kg (R$ 189,90 para R$ 173,08).",
+          "Conta nossa, com o carrinho: o Whey Pro 1 kg avulso foi de R$ 109,90 para R$ 100,17 (8,9%) e a Creatina 500 g, de R$ 69,90 para R$ 68,50 (2%). Os dois somam R$ 168,67 contra R$ 156,60 do kit: com o cupom, a economia do kit cai de R$ 20,00 para R$ 12,07, e ele segue mais barato. Quem mais ganha com o cupom é o whey avulso: o Top Whey 3W + Sabor e o Whey Blend também deram 8,9%. Simulação, sem teste: se o kit de Top Whey 3W + Sabor com Creatina 300 g desse 2%, sairia a R$ 234,12, contra R$ 230,95 dos avulsos com cupom (R$ 172,25 e R$ 58,70).",
+          "Para colar o código: carrinho, “Adicionar cupom de desconto”, campo Código, “Adicionar”; o desconto aparece na linha Descontos do resumo. As regras estão em [cupom Max Titanium](/cupons/max-titanium), e o guia de [como usar o cupom](/reviews/cupom-max-titanium-como-usar) explica o carrinho."
         ]
       },
       {
@@ -293247,28 +294063,41 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Kits esgotados e o que não existe no site",
+        "heading": "Kit com BCAA não existe no site",
         "paragraphs": [
-          "No catálogo consultado, quatro kits com Creatina 100 g estavam indisponíveis. Confira o estoque da combinação e do sabor escolhidos antes de fechar a conta.",
           "O site não tem kit com BCAA nem um kit chamado “completo” com whey, creatina e BCAA. Para essa combinação, monte o carrinho com os avulsos; o BCAA tem guia próprio em [BCAA Max Titanium: qual escolher](/reviews/bcaa-max-titanium-qual-escolher)."
         ]
       },
       {
         "heading": "Qual kit escolher",
-        "emphasis": "Só o kit de Whey Pro 1 kg com Creatina 500 g economiza mais que uns poucos reais, e o de Creatina 500 g com Hórus de brinde é o caso especial. Nos demais, a soma dos avulsos dá igual ou quase.",
+        "emphasis": "Entre os kits de whey com creatina, o de Whey Pro 1 kg com Creatina 500 g compensa mesmo depois do cupom; nos outros, a diferença é de poucos reais ou nenhuma.",
         "bullets": [
           "Quer whey e creatina juntos: o kit de Whey Pro 1 kg com Creatina 500 g é o que mais economiza na conta de hoje.",
           "Já ia comprar a creatina de 500 g e usa pré-treino: o kit com o Hórus de 150 g de brinde sai pelo preço da creatina.",
+          "Quer dois wheys iguais: o Kit 2x Whey Pro 1 kg sai por menos que os dois avulsos, e o cupom deu 8,9% nele.",
           "Quer outro whey da linha, outro sabor ou outro tamanho: compre avulso. Nos kits iguais à soma, o avulso dá a mesma conta.",
           "Mora fora do Sudeste: some o pedido inteiro antes de decidir, porque o frete grátis depende do valor do carrinho.",
           "Dúvida sobre dose, alergênicos ou uso: leia o rótulo da embalagem que chegar e fale com médico ou nutricionista."
+        ],
+        "links": [
+          {
+            "label": "Ver o kit Whey Pro 1 kg + Creatina 500 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/kit-whey-pro-creatina-500g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o kit Creatina 500 g + Hórus 150 g na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/kit-creatina-500g-horus-150g-brinde/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no carrinho, em “Adicionar cupom de desconto”, no campo Código. As regras estão no [cupom Max Titanium](/cupons/max-titanium).",
           "Kit Max Titanium é mais barato que comprar separado? Em seis combinações de whey e creatina, sim; a diferença de cada uma está na primeira tabela. Em outros kits, a soma dos avulsos dá o mesmo valor. A conta usa o avulso do dia, não o preço riscado.",
-          "O cupom vale no kit? No carrinho, o código MAX10EMCASACOMCECILIA foi aplicado nos kits que testamos, com cerca de 2%. Ele dá até 10% conforme o produto; confira no resumo do pedido.",
+          "O cupom vale no kit? Vale. No teste de novembro, o carrinho aplicou 2% nos kits de whey com creatina e de creatina com pré-treino e 8,9% no Kit 2x Whey Pro; confira no resumo do pedido.",
           "O kit tem frete grátis? O frete grátis depende do valor do pedido na sua região, depois do cupom. O kit não muda a regra, e a tabela de mínimos está no guia.",
           "Tem kit com BCAA? Não. Nenhum kit da Max tem BCAA, e não há um kit chamado completo com whey, creatina e BCAA. Monte o carrinho com os avulsos.",
           "O kit com Hórus de brinde cobra o Hórus? Não. O carrinho mostrou para o kit o mesmo preço da creatina de 500 g sozinha. Confira o sabor e o total antes de pagar."
@@ -293296,6 +294125,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o cupom MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. BCAA 2400 em cápsulas e 4:1:1 em pó comparados pelo rótulo e pelo preço por dose.",
     "publishedAt": "20 de novembro de 2026",
     "publishedAtISO": "2026-11-20",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa-v2.webp",
@@ -293312,17 +294142,8 @@ export const reviewsData: unknown[] = [
         "Passe no pó se você não quer carboidrato nem vitamina B6 na porção: a tabela das cápsulas não traz nenhum dos dois."
       ]
     },
-    "pros": [
-      "Tabela nutricional publicada na página de cada BCAA, com a porção e os miligramas de cada aminoácido",
-      "O pote de 200 cápsulas e o pó 4:1:1 têm o mesmo preço por grama de BCAA declarado no quadro",
-      "Dois formatos, cápsula e pó, para quem não quer preparar bebida ou prefere preparar",
-      "Cupom de até 10%, conforme o produto"
-    ],
-    "cons": [
-      "O cupom não chega a 10% em todo produto: no BCAA 2400 de 100 cápsulas o carrinho mostrou cerca de 2%",
-      "Cada porção são quatro cápsulas, e o pote de 60 tem só 15 porções",
-      "O pó 4:1:1 traz carboidrato e vitamina B6 na porção, o que a cápsula não traz"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Veja os BCAA da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% de desconto, no carrinho.",
       "label": "Ir para a Max Titanium",
@@ -293351,9 +294172,9 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Resposta rápida: qual BCAA da Max Titanium comprar",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "O BCAA 2400 de 200 cápsulas e o 4:1:1 em pó empatam no preço por grama dos aminoácidos declarados. O pote de 200 cápsulas rende 50 porções, e o pó rende 40. A escolha é entre quatro cápsulas por porção ou um pó com sabor para misturar em água."
+          "O BCAA 2400 de 200 cápsulas e o 4:1:1 em pó empatam no preço por grama de aminoácidos declarado, com 50 e 40 porções por pote. A escolha é entre quatro cápsulas por porção e um pó para misturar em água. O MAX10EMCASACOMCECILIA dá até 10% OFF: veja o [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
@@ -293370,7 +294191,7 @@ export const reviewsData: unknown[] = [
           "Conta nossa: o preço por porção é o preço do pote ÷ o número de porções do rótulo. O preço por grama de BCAA declarado é o preço por porção ÷ a soma de leucina, isoleucina e valina da porção (2,4 g nas cápsulas, 3 g no pó). Os preços são de cartão, sem cupom e sem Pix."
         ],
         "comparisonTable": {
-          "caption": "Preços de cartão lidos no site em 20 de novembro de 2026; entre parênteses, o preço de lista quando diferente. Porções e aminoácidos das tabelas nutricionais de cada produto. A tabela do pó é a do sabor limão.",
+          "caption": "Preços de cartão de 22/11; entre parênteses, o preço de lista quando diferente. Porções e aminoácidos das tabelas nutricionais de cada produto. A tabela do pó é a do sabor limão.",
           "headers": [
             "Produto",
             "Porção do rótulo",
@@ -293421,15 +294242,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "BCAA 2400 em cápsulas: 60, 100 ou 200",
         "paragraphs": [
-          "As três embalagens têm a mesma tabela. O que muda é o número de porções, e por isso o preço de cada uma: o pote de 60 tem 15 porções e é o mais caro por porção, o de 100 tem 25, e o de 200 tem 50.",
+          "As três embalagens do [BCAA 2400](https://www.maxtitanium.com.br/bcaa-2400mg-pote-com-200-capsulas/p) têm a mesma tabela. O que muda é o número de porções, e por isso o preço de cada uma: o pote de 60 tem 15 porções e é o mais caro por porção, o de 100 tem 25, e o de 200 tem 50.",
           "A loja informa: a descrição do produto traz o selo “PURE AMINO ACID by Ajinomoto Co.®”.",
           "Se a decisão for pelo custo e o pote de 200 não estiver à venda, o de 100 cápsulas é o seguinte do quadro."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-bcaa-2400-200-caps.webp",
+          "alt": "Pote do BCAA 2400 da Max Titanium com 200 cápsulas, em foto oficial",
+          "caption": "BCAA 2400, 200 cápsulas. Foto oficial da Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/bcaa-2400mg-pote-com-200-capsulas/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       },
       {
         "heading": "BCAA 4:1:1 em pó: porção, preparo e sabor",
         "paragraphs": [
-          "A página manda misturar 7 g, um dosador, em 200 mL de água gelada. O pote de 280 g rende 40 porções. Os sabores listados são laranja, limão e uva. Os números deste guia são os do sabor limão; confira a tabela do sabor que escolher.",
+          "A página do [4:1:1 Drink](https://www.maxtitanium.com.br/411-bcaa-drink-280g-max-titanium/p) manda misturar 7 g, um dosador, em 200 mL de água gelada. O pote de 280 g rende 40 porções. Os sabores listados são laranja, limão e uva. Os números deste guia são os do sabor limão; confira a tabela do sabor que escolher.",
           "Quem escolhe o pó leva junto 3,7 g de carboidrato e a vitamina B6 da porção, mais o preparo da bebida. Quem escolhe a cápsula troca isso pela rotina de engolir quatro cápsulas. A lista de alergênicos de cada sabor está na embalagem: leia antes de comprar."
         ],
         "image": {
@@ -293442,37 +294271,43 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Quanto tomar: o que o rótulo diz",
-        "paragraphs": [
-          "A porção do 2400 corresponde a quatro cápsulas. No 4:1:1, a porção declarada corresponde a um dosador de 7 g.",
-          "Quem tem condição de saúde, toma medicamento, está grávida ou amamentando, ou quer mudar a quantidade da embalagem, fala antes com médico ou nutricionista. Leia as advertências e a faixa de idade impressas na embalagem que chegar."
-        ]
-      },
-      {
         "heading": "Cupom MAX10EMCASACOMCECILIA: até 10%, por produto",
         "paragraphs": [
-          "O cupom MAX10EMCASACOMCECILIA dá até 10%, conforme o produto. No BCAA o percentual foi menor: no carrinho, sem finalizar a compra, o BCAA 2400 de 100 cápsulas foi de R$ 59,89 para R$ 58,69, cerca de 2%. Com esse valor, a porção sai a R$ 2,35 e o grama declarado a R$ 0,98.",
-          "Não testamos o código nos outros tamanhos nem no pó, então não conte com 10% neles: o resumo do pedido mostra o desconto real. A página mostra 3% a menos no Pix sobre o preço do cartão. As regras do código estão em [cupom Max Titanium](/cupons/max-titanium)."
+          "O código MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento, e o percentual varia por produto. No BCAA o percentual foi menor: no teste de novembro, o BCAA 2400 de 200 cápsulas e o 4:1:1 Drink foram os dois de R$ 99,88 para R$ 97,88, 2%.",
+          "Conta nossa, com esse valor: a porção sai a R$ 1,96 nas cápsulas e a R$ 2,45 no pó, e o grama declarado, a R$ 0,82 nos dois, então o empate do quadro se mantém. Os potes de 60 e de 100 cápsulas não entraram no teste: o resumo do pedido mostra o desconto real. Para colar o código: carrinho, “Adicionar cupom de desconto”, campo Código, “Adicionar”. As regras estão em [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
         "heading": "Qual BCAA escolher",
-        "emphasis": "Pelo preço por grama de BCAA declarado, o pote de 200 cápsulas e o pó 4:1:1 empatam, e o pote de 60 cápsulas é o mais caro. A escolha entre cápsula e pó fica com a rotina e o sabor.",
+        "emphasis": "Pelo preço por grama de BCAA declarado, o pote de 200 cápsulas e o pó 4:1:1 empatam na frente, e o pote de 60 cápsulas só se justifica por ser o menor.",
         "bullets": [
           "Quer escolher pelo custo na cápsula: o pote de 200 tem o menor preço por porção.",
           "Prefere não preparar bebida: BCAA 2400 em cápsulas, de 100 ou de 200, pelo número de porções que você quer no pote.",
           "Prefere beber a porção misturada em água: BCAA 4:1:1 em pó. Confira a tabela do sabor escolhido, a lista de alergênicos e a vitamina B6 e o carboidrato da porção.",
           "Para orientação individual, leve a embalagem com as advertências a um médico ou nutricionista."
+        ],
+        "links": [
+          {
+            "label": "Ver o BCAA 2400 de 200 cápsulas na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/bcaa-2400mg-pote-com-200-capsulas/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o BCAA 4:1:1 Drink na Max Titanium",
+            "href": "https://www.maxtitanium.com.br/411-bcaa-drink-280g-max-titanium/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Cole no carrinho, em “Adicionar cupom de desconto”, no campo Código. As regras estão no [cupom Max Titanium](/cupons/max-titanium).",
           "BCAA 2400 e 4:1:1 são a mesma coisa? Os dois declaram L-leucina, L-isoleucina e L-valina. O 2400 traz 980, 710 e 710 mg em quatro cápsulas; o 4:1:1 traz 2.000, 500 e 500 mg em 7 g de pó, no sabor limão.",
           "O que a tabela do BCAA declara? A porção, os três aminoácidos em miligramas e, nas cápsulas, nenhuma quantidade significativa de calorias ou carboidratos. O pó declara 15 kcal, 3,7 g de carboidratos e vitamina B6.",
           "Qual a porção do BCAA Max Titanium? Quatro cápsulas (2,4 g) no 2400 e um dosador de 7 g no 4:1:1. Quantidade por dia, para quem tem condição de saúde, é com médico ou nutricionista.",
           "Qual pote de BCAA 2400 custa menos por porção? O de 200 cápsulas, no preço de cartão do quadro; depois vem o de 100.",
-          "O cupom dá 10% no BCAA? Dá até 10%, conforme o produto. No BCAA 2400 de 100 cápsulas o carrinho mostrou cerca de 2%."
+          "O cupom dá 10% no BCAA? Dá até 10%, conforme o produto. No teste de novembro, o carrinho deu 2% no BCAA 2400 de 200 cápsulas e no 4:1:1 Drink."
         ]
       }
     ]

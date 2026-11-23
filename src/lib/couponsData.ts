@@ -2235,7 +2235,7 @@ const STORE_COUPONS: Coupon[] = [
       'O cupom Max Titanium MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, testado num carrinho com Top Whey em promoção: soma com as promoções, mantém os brindes do carrinho e vale em todas as formas de pagamento.',
     metaTitle: 'Cupom Max Titanium: até 10% OFF com MAX10EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Max Titanium: MAX10EMCASACOMCECILIA dá até 10% OFF para cliente novo ou antigo, mantém os brindes do carrinho e vale no Pix e no cartão.',
+      'Cupom Max Titanium: MAX10EMCASACOMCECILIA dá até 10% OFF para cliente novo ou antigo, mantém os brindes e vale em todas as formas de pagamento.',
     eligibleCategories: 'Produtos do site oficial da Max Titanium; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2247,17 +2247,22 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, que varia por produto e chega a 5%' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, depois do cupom' },
     ],
-    lastVerified: '2026-11-11',
-    testedAt: '2026-11-11',
+    lastVerified: '2026-11-22',
+    testedAt: '2026-11-22',
     testNote:
-      'Aplicamos o MAX10EMCASACOMCECILIA num Top Whey 3W + Sabor de 900 g em promoção, de R$ 273,55 por R$ 189,00, e o total caiu para R$ 172,25, com R$ 16,75 de desconto (8,9%). Num IsoWhey de 900 g a preço cheio, de R$ 326,18, o desconto foi de R$ 6,52 (2%), e a meia de brinde continuou no carrinho. O percentual varia por produto.',
+      'Testamos o MAX10EMCASACOMCECILIA em dois carrinhos, com 31 produtos. O Top Whey 3W + Sabor de 900 g em promoção caiu de R$ 189,00 para R$ 172,25 (8,9%), e o mesmo percentual apareceu no Whey Pro 1 kg, no Whey Blend, no Kit 2x Whey Pro e no Femini Whey. Nos demais, como IsoWhey, 100% Whey, creatinas, pré-treinos, Mass Titanium e BCAA, o desconto foi de 2%. A meia e a caixa de barras de brinde continuaram no carrinho. O percentual varia por produto.',
     aboutBrand:
       'A Max Titanium é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, pré-treinos, aminoácidos e snacks proteicos vendidos no site oficial. Faz parte do mesmo grupo da Probiótica e da Dr. Peanut. O cupom MAX10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: o percentual varia conforme o produto, e o carrinho mostra quanto cada item recebeu. Ele vale com qualquer forma de pagamento e soma com as promoções do site.',
     faqs: [
       {
+        question: 'Qual é o cupom da Max Titanium?',
+        answer:
+          'O cupom da Max Titanium da nossa parceria é MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento.',
+      },
+      {
         question: 'Quanto de desconto o cupom MAX10EMCASACOMCECILIA dá?',
         answer:
-          'Até 10% OFF. O percentual varia conforme o produto: alguns itens recebem os 10%, outros um desconto menor. O resumo do pedido mostra o valor de cada item assim que o código é aceito.',
+          'Até 10% OFF. O percentual varia conforme o produto: no teste de novembro, alguns wheys em promoção receberam perto de 9% e a maioria dos itens, 2%. O resumo do pedido mostra o valor de cada item assim que o código é aceito.',
       },
       {
         question: 'Existe cupom Max Titanium de 20% ou 30%?',
@@ -2307,7 +2312,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Onde coloco o cupom na Max Titanium?',
         answer:
-          'No carrinho do site oficial, no campo "Cupom de Desconto", antes de continuar para o pagamento.',
+          'No carrinho do site oficial: clique em "Adicionar cupom de desconto", cole o código no campo e toque em "Adicionar", antes de continuar para o pagamento. O valor aparece na linha "Descontos" do resumo.',
       },
       {
         question: 'O cupom dá frete grátis?',
@@ -2317,7 +2322,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O que fazer se o cupom MAX10EMCASACOMCECILIA não funcionar?',
         answer:
-          'Lembre que o desconto varia por produto: alguns itens recebem menos de 10%, e o resumo do pedido mostra quanto cada um teve. Confira se o código foi colado no campo "Cupom de Desconto", sem espaços, no site oficial ou no app da Max Titanium; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+          'Lembre que o desconto varia por produto: alguns itens recebem menos de 10%, e o resumo do pedido mostra quanto cada um teve. Confira se o código foi colado no campo de cupom do carrinho, sem espaços, no site oficial ou no app da Max Titanium; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Tem cupom Max Titanium na Black Friday?',
@@ -2333,6 +2338,56 @@ const STORE_COUPONS: Coupon[] = [
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    relatedContent: [
+      {
+        title: 'Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% OFF',
+        url: '/reviews/cupom-max-titanium-como-usar',
+        type: 'review',
+        publishedAt: '2026-10-14',
+      },
+      {
+        title: 'Black Friday Max Titanium 2026: Max November, qual whey, creatina e pré-treino comprar e o cupom MAX10EMCASACOMCECILIA',
+        url: '/reviews/black-friday-max-titanium',
+        type: 'review',
+        publishedAt: '2026-10-15',
+      },
+      {
+        title: 'Whey Max Titanium: 100%, Pro, 3W, IsoWhey ou Super Whey, qual a diferença',
+        url: '/reviews/whey-max-titanium-qual-escolher',
+        type: 'review',
+        publishedAt: '2026-11-05',
+      },
+      {
+        title: 'Creatina Max Titanium: qual pote compensa (100 g, 300 g, 500 g) e se é Creapure',
+        url: '/reviews/creatina-max-titanium-qual-pote',
+        type: 'review',
+        publishedAt: '2026-10-28',
+      },
+      {
+        title: 'Pré-treino Max Titanium: Hórus ou Égide, pela cafeína no rótulo e pelo preço por dose',
+        url: '/reviews/pre-treino-max-titanium-horus-ou-egide',
+        type: 'review',
+        publishedAt: '2026-10-28',
+      },
+      {
+        title: 'Kit Max Titanium: quando compensa mais que comprar avulso',
+        url: '/reviews/kit-max-titanium-quando-compensa',
+        type: 'review',
+        publishedAt: '2026-11-20',
+      },
+      {
+        title: 'Max Titanium é boa? O whey, a creatina e o que vale comprar da marca',
+        url: '/reviews/max-titanium-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-02',
+      },
+      {
+        title: 'Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram',
+        url: '/reviews/max-titanium-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-14',
       },
     ],
     monthlyHighlight: {
@@ -6466,6 +6521,132 @@ const STORE_COUPONS: Coupon[] = [
     monthlyHighlight: {
       scope: 'no site oficial',
       note: 'Soma com os preços em promoção e com o cashback da loja',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
+    slug: 'oceane',
+    brand: 'Océane',
+    officialUrl: 'https://www.oceane.com.br/',
+    // Link da parceria como veio (Bruno, 23/11/2026): o site oficial com o parâmetro da campanha.
+    offerUrl: 'https://www.oceane.com.br/?utmi_pc=emcasa',
+    brandIcon: 'OC',
+    brandLogo: '/images/about/partners/oceane.png',
+    brandLogoAlt: 'Marca Océane',
+    // O letreiro é largo: ocupa o disco grafite quase inteiro, como o da BioBio.
+    bubble: { src: '/images/logos/bolinhas/oceane.png', background: '#383935', round: true },
+    brandWatermark: '/images/logos/watermarks/oceane.webp',
+    brandColor: '#383935',
+    cartPrint: {
+      src: '/images/reviews/oceane/cupom-oceane-sacola-app-com-cupom.webp',
+      alt: 'Sacola do aplicativo da Océane com o cupom EMCASA aplicado: subtotal de R$ 201,70, desconto de R$ 20,17 e total de R$ 181,53',
+      aspectRatio: 0.5,
+    },
+    code: 'EMCASA',
+    codeFieldLabel: 'Cupom de desconto',
+    discount: '10% OFF',
+    discountNumber: 10,
+    category: 'Maquiagem, skincare, cabelos e bem-estar',
+    hubCategory: 'beleza',
+    shortDescription: 'maquiagem, skincare e cabelos da Océane, no site e no app, inclusive os produtos com preço especial',
+    longDescription:
+      'O cupom Océane EMCASA dá 10% OFF no site oficial e no aplicativo, para quem compra pela primeira vez e para quem já é cliente, e soma com os preços especiais: no nosso teste no app, os 10% entraram em duas peças da Océane Edition que já estavam com preço especial.',
+    metaTitle: 'Cupom Océane: 10% OFF com EMCASA',
+    metaTitleMonth: true,
+    metaDescription:
+      'Cupom Océane: EMCASA dá 10% OFF em maquiagem e skincare, no site e no app, e soma com os preços especiais. Vale para clientes novos e antigos.',
+    eligibleCategories: 'Produtos do site oficial e do aplicativo da Océane, inclusive os que estão com preço especial',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Pode ser usado por clientes novos e antigos',
+    shipping: 'Frete calculado pelo CEP; a loja dá frete grátis acima de um valor mínimo, que a sacola mostra depois do CEP',
+    combinable: 'Soma com as promoções e os preços especiais do site e do aplicativo',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço especial: no teste no app, a Face Palette e o Mini Retouch já estavam com desconto e ganharam os 10%' },
+      { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix e nas outras formas de pagamento; desconto próprio no Pix é critério da loja' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Frete grátis acima de um valor mínimo, segundo a loja; a sacola mostra o valor depois do CEP' },
+    ],
+    paymentPerks: ['Até 6x sem juros no cartão de crédito, com parcela mínima de R$ 30, segundo a loja'],
+    lastVerified: '2026-11-23',
+    testedAt: '2026-11-23',
+    testNote:
+      'No aplicativo, numa sacola de R$ 201,70 com a Face Palette e o Mini Retouch da Océane Edition em preço especial e o Repair Eye Cream, o EMCASA tirou R$ 20,17, 10% do pedido, e o total caiu para R$ 181,53. No site, o Repair Eye Cream de R$ 65,90 ficou em R$ 59,31 com o cupom na sacola: R$ 6,59 a menos.',
+    codeInstructions: [
+      'Copie o código EMCASA no card acima.',
+      'Acesse o site oficial da Océane pelo botão indicado, adicione os produtos à sacola e siga para a sacola de compras.',
+      'Na sacola, digite o código no campo Cupom de desconto e clique em Adicionar.',
+      'Confira a linha Descontos e o total antes de clicar em Continuar pagamento. No aplicativo, o cupom entra na Sacola, antes de Finalizar Compra.',
+    ],
+    aboutBrand:
+      'A Océane é uma marca brasileira de beleza com quinze anos, vendida no site oficial, no aplicativo e nas lojas próprias: maquiagem, como as paletas e os pós da linha Océane Edition, skincare com produtos feitos na Coreia do Sul, cuidados para cabelos e acessórios de bem-estar. O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 10% OFF, também sobre os preços especiais.',
+    faqs: [
+      {
+        question: 'Quanto de desconto o cupom EMCASA dá na Océane?',
+        answer:
+          '10% OFF. No nosso teste no aplicativo, o cupom tirou R$ 20,17 de uma sacola de R$ 201,70, e o total ficou em R$ 181,53. No site, os mesmos 10% tiraram R$ 6,59 de um creme para a área dos olhos de R$ 65,90.',
+      },
+      {
+        question: 'O cupom Océane vale na primeira compra?',
+        answer: 'Sim. O EMCASA vale na primeira compra e também para quem já comprou na Océane.',
+      },
+      {
+        question: 'Qual cupom Océane vale para quem já é cliente?',
+        answer: 'O EMCASA. Ele dá 10% no site e no aplicativo para quem compra pela primeira vez e para quem já comprou.',
+      },
+      {
+        question: 'O EMCASA é cupom de influenciadora da Océane?',
+        answer: 'Sim. EMCASA é o cupom do Em Casa com Cecília na Océane e dá 10% OFF no site oficial e no aplicativo.',
+      },
+      {
+        question: 'O cupom Océane vale no aplicativo?',
+        answer:
+          'Vale. No nosso teste no aplicativo da Océane, o EMCASA entrou na Sacola e tirou 10% do pedido, inclusive dos produtos com preço especial do app.',
+      },
+      {
+        question: 'O cupom Océane soma com produtos em promoção?',
+        answer:
+          'Sim. No nosso teste no app, a Face Palette e o Mini Retouch da Océane Edition já estavam com preço especial, e o cupom tirou os 10% deles também.',
+      },
+      {
+        question: 'O cupom EMCASA está funcionando hoje?',
+        answer:
+          'Sim. No teste de carrinho mais recente, o EMCASA foi aceito. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Océane?',
+        answer:
+          'Na sacola: no site, digite EMCASA no campo Cupom de desconto e clique em Adicionar, antes de Continuar pagamento; no aplicativo, o cupom entra na Sacola, antes de Finalizar Compra. O desconto aparece no resumo antes de você preencher os dados de entrega.',
+      },
+      {
+        question: 'Tem cupom Océane na Black Friday?',
+        answer:
+          'Tem. O cupom Océane EMCASA dá 10% OFF no site e no aplicativo e, no nosso teste de novembro, entrou também nos produtos com preço especial do app.',
+      },
+      {
+        question: 'O cupom dá frete grátis?',
+        answer:
+          'O cupom não mexe no frete. Segundo a loja, o frete pode ser grátis acima de um valor mínimo de compra, e a sacola mostra o valor e as opções depois que você informa o CEP.',
+      },
+      {
+        question: 'Como funciona a troca na Océane?',
+        answer:
+          'Pela política da loja, a devolução pode ser pedida em até 7 dias corridos depois do recebimento, e o produto com defeito, em até 30 dias, sem sinais de uso, na embalagem original e com a nota fiscal. O pedido é feito pelo e-mail info@oceane.com.br, e a troca sai como vale-compras.',
+      },
+      {
+        question: 'O que fazer se o cupom EMCASA não funcionar?',
+        answer:
+          'Confira se o código foi digitado inteiro, sem espaços, no campo Cupom de desconto da sacola, e se a linha Descontos apareceu no resumo. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece na sacola quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'no site oficial e no app',
+      note: 'Soma com os preços especiais do site e do aplicativo',
     },
     status: 'ativo',
     featured: false,

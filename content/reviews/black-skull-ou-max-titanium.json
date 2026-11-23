@@ -13,11 +13,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "No catálogo de outubro, o Whey 80% HD e o Creator, da Black Skull, saem mais baratos; a Max Titanium tem mais whey 3W com sabor e a creatina Creapure. Veja quem escolhe o quê.",
-  "metaDescription": "Black Skull ou Max Titanium: CECILIA10 dá 10% na Black Skull e MAX10EMCASACOMCECILIA até 10% na Max. Whey e creatina pelo rótulo e pelo preço por dose.",
+  "description": "Nos preços de novembro, o Whey 80% HD e o Creator, da Black Skull, saem mais baratos; a Max Titanium tem o Top Whey 3W com sabor e a creatina Creapure. Veja quem escolhe o quê.",
+  "metaDescription": "CECILIA10 dá 10% OFF na Black Skull e MAX10EMCASACOMCECILIA, até 10% OFF na Max. Whey e creatina comparados pelo rótulo e pelo preço por dose.",
   "publishedAt": "16 de outubro de 2026",
   "publishedAtISO": "2026-10-16",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa-v2.webp",
@@ -28,41 +28,16 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Nos preços de outubro, o Whey 80% HD e o Creator, da Black Skull, são os mais baratos por grama de proteína e por dose de creatina; a Max Titanium tem mais whey 3W com sabor e creatina Creapure. O que pesa é o critério: preço por proteína ou proteína por dose. O CECILIA10 dá 10% OFF na Black Skull."
-      ]
-    },
-    {
-      "heading": "Como comparamos",
-      "paragraphs": [
-        "Este guia compara whey e creatina da Black Skull e da Max Titanium, só nas lojas oficiais, com os preços do catálogo, antes do cupom; eles mudam com as promoções. No fim, o capítulo Quem escolhe o quê resume qual marca serve para cada critério de compra.",
-        "Usamos só o que as duas lojas publicam: proteína por dose, porção e número de porções vêm da tabela nutricional de cada produto. Os ingredientes vêm da lista na página de cada produto.",
-        "O preço é o do catálogo do site oficial: o valor do dia, antes do cupom e do desconto do Pix. O \"de\" é o preço de lista que a própria loja mostra.",
-        "As contas são nossas, arredondadas no centavo:"
-      ],
-      "bullets": [
-        "**preço por dose:** preço ÷ porções do rótulo;",
-        "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100."
-      ],
-      "postParagraphs": [
-        "O preço por 100 g de proteína é a régua que iguala os potes. As porções mudam de produto para produto: o Whey 100% HD da Black Skull dá 21 g de proteína em 35 g de pó, e o 100% Whey da Max Titanium dá os mesmos 21 g em 30 g. Pelo preço do pote, não dá para ver quanto custa a proteína.",
-        "Sabor, dissolução e digestão ficaram de fora: esta comparação é só de rótulo e preço. Também ficou de fora o Whey 100% HD Gourmet da Black Skull, sem tabela nutricional na página. Comparamos só as lojas oficiais, sem marketplace. Quem tem restrição alimentar ou dúvida sobre dose e horário deve falar antes com o médico ou o nutricionista."
-      ]
-    },
-    {
-      "heading": "Black Skull e Max Titanium: de onde vem cada marca",
-      "paragraphs": [
-        "As duas marcas são brasileiras.",
-        "A Black Skull é da GDS Grow Dietary Supplements do Brasil, de Embu das Artes (SP). Nenhuma fonte oficial liga a marca à Integralmédica. Os dados da empresa, o site oficial e as trocas estão em [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel).",
-        "A Max Titanium é do Grupo Supley, o mesmo da Probiótica e da Dr. Peanut. Quem fabrica, o site oficial e a reputação estão em [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel)."
+        "Nos preços de novembro, o Whey 80% HD e o Creator, da Black Skull, saem mais baratos; a Max Titanium tem o Top Whey 3W com sabor e a creatina Creapure. Os códigos são CECILIA10, com 10% OFF no [cupom Black Skull](/cupons/black-skull), e MAX10EMCASACOMCECILIA, com até 10% OFF no [cupom Max Titanium](/cupons/max-titanium)."
       ]
     },
     {
       "heading": "Whey: proteína, porção e preço por dose",
       "paragraphs": [
-        "Oito opções das duas lojas, comparadas pelo preço por 100 g de proteína. Preços do catálogo em 16/10/2026, antes do cupom."
+        "Oito opções das duas lojas, comparadas pelo preço por 100 g de proteína. Essa é a régua que iguala os potes: o Whey 100% HD da Black Skull dá 21 g de proteína em 35 g de pó, e o 100% Whey da Max Titanium dá os mesmos 21 g em 30 g, então o preço do pote sozinho não mostra quanto custa a proteína. Preços do site oficial em novembro, antes do cupom."
       ],
       "comparisonTable": {
-        "caption": "Oito opções das duas lojas, pela mesma régua. Preços do catálogo, antes do cupom; as contas por dose e por proteína são nossas.",
+        "caption": "Oito opções das duas lojas, pela mesma régua. Preços do site oficial em novembro, antes do cupom e do Pix; porções e proteína vêm da tabela nutricional de cada produto. Por dose é o preço ÷ porções; por 100 g de proteína é o preço ÷ (porções × proteína por porção) × 100. As contas são nossas.",
         "headers": [
           "Marca e produto",
           "Tipo de proteína (ingredientes)",
@@ -74,52 +49,52 @@
         ],
         "rows": [
           [
-            "Black Skull Whey 80% HD refil 900 g",
+            "Black Skull [Whey 80% HD refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
             "WPC",
             "23 g em 30 g",
             "30",
-            "R$ 159,90 (banana: R$ 139,90)",
-            "R$ 5,33 (banana: R$ 4,66)",
-            "R$ 23,17 (banana: R$ 20,28)"
+            "R$ 139,90 (de R$ 159,90)",
+            "R$ 4,66",
+            "R$ 20,28"
           ],
           [
-            "Black Skull Whey 100% HD 900 g (pote / refil)",
+            "Black Skull Whey 100% HD 900 g: [pote](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p) / [refil](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
             "WPC, peptídeos hidrolisados, proteína concentrada de leite, WPI e WPH",
             "21 g em 35 g",
             "25",
-            "R$ 149,90 / R$ 139,90",
-            "R$ 6,00 / R$ 5,60",
-            "R$ 28,55 / R$ 26,65"
+            "R$ 133,22 / R$ 122,11",
+            "R$ 5,33 / R$ 4,88",
+            "R$ 25,37 / R$ 23,26"
           ],
           [
-            "Black Skull Whey 100% HD 1,8 kg",
+            "Black Skull [Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
             "os mesmos do 900 g",
             "21 g em 35 g",
             "50",
-            "R$ 279,90",
-            "R$ 5,60",
-            "R$ 26,66"
+            "R$ 244,33 (de R$ 279,00)",
+            "R$ 4,89",
+            "R$ 23,27"
           ],
           [
-            "Black Skull Whey 3W Core 900 g",
+            "Black Skull [Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p)",
             "WPC, WPI e WPH",
             "31 g em 40 g",
             "22",
-            "R$ 279,90",
-            "R$ 12,72",
-            "R$ 41,04"
+            "R$ 224,90 (de R$ 279,90)",
+            "R$ 10,22",
+            "R$ 32,98"
           ],
           [
-            "Max Titanium Whey Pro 1 kg",
+            "Max Titanium [Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
             "WPC, com 20 g de carboidrato por porção",
             "15 g em 40 g",
             "25",
-            "R$ 99,00 (de R$ 126,20)",
-            "R$ 3,96",
-            "R$ 26,40"
+            "R$ 109,90 (de R$ 126,20)",
+            "R$ 4,40",
+            "R$ 29,31"
           ],
           [
-            "Max Titanium 100% Whey 900 g (pote / refil)",
+            "Max Titanium 100% Whey 900 g: [pote](https://www.maxtitanium.com.br/100-whey-pote-900g/p) / [refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
             "WPC",
             "21 g em 30 g",
             "30",
@@ -128,7 +103,7 @@
             "R$ 33,40 / R$ 31,17"
           ],
           [
-            "Max Titanium Top Whey 3W Mais Sabor 900 g",
+            "Max Titanium [Top Whey 3W Mais Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
             "WPC, WPI e WPH, com granulado em alguns sabores",
             "25 g em 40 g",
             "22,5 (nossa conta)",
@@ -137,7 +112,7 @@
             "R$ 33,60"
           ],
           [
-            "Max Titanium Top Whey 3W + Performance 900 g",
+            "Max Titanium [Top Whey 3W + Performance 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
             "WPC, WPI e WPH, com vitaminas e minerais",
             "32 g em 40 g",
             "22,5 (nossa conta)",
@@ -156,15 +131,58 @@
         "caption": "Tabelas nutricionais oficiais lado a lado. O destaque amarelo é nosso.",
         "objectFit": "contain",
         "aspectRatio": 2.6622
-      }
+      },
+      "images": [
+        {
+          "src": "/images/reviews/whey/max-titanium-top-whey-3w-sabor.webp",
+          "alt": "Pote do Top Whey 3W Mais Sabor de 900 g da Max Titanium, em foto oficial",
+          "caption": "Top Whey 3W Mais Sabor, 900 g. Foto oficial da Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "store": "max-titanium"
+        },
+        {
+          "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
+          "alt": "Refil de 100% Whey de 900 g da Max Titanium, em foto oficial",
+          "caption": "100% Whey refil, 900 g. Foto oficial da Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+          "objectFit": "contain",
+          "aspectRatio": 0.7692,
+          "store": "max-titanium"
+        },
+        {
+          "src": "/images/reviews/black-skull/black-skull-ou-max-titanium-whey-80-hd-refil.webp",
+          "alt": "Refil do Whey 80% HD de 900 g da Black Skull, sabor chocolate, em foto oficial",
+          "caption": "Whey 80% HD, refil de 900 g. Foto oficial da Black Skull.",
+          "href": "https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p",
+          "store": "black-skull",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o Whey 80% HD na Black Skull",
+          "href": "https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p",
+          "sponsored": true,
+          "store": "black-skull"
+        },
+        {
+          "label": "Ver o Top Whey 3W Mais Sabor na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p",
+          "sponsored": true,
+          "store": "max-titanium"
+        }
+      ]
     },
     {
       "heading": "\"100%\" não quer dizer a mesma coisa nas duas marcas",
       "paragraphs": [
         "O nome parecido esconde fórmulas diferentes.",
-        "O **Whey 100% HD** da Black Skull mistura proteína concentrada do soro do leite, peptídeos hidrolisados, proteína concentrada de leite e proteína isolada e hidrolisada do soro. A própria Black Skull chama a mistura de \"Blend Duo Protein\" e diz que os peptídeos hidrolisados são de colágeno. Ou seja: nem toda a proteína do pote vem do soro do leite.",
-        "O **100% Whey** da Max Titanium leva só proteína concentrada do soro do leite (WPC), mais aromatizante, lecitina de soja e sucralose. O rótulo avisa que contém soja.",
-        "Na Black Skull, quem quer whey só de soro do leite pelo menor preço tem o **Whey 80% HD**. A lista de ingredientes dele traz proteína concentrada do soro do leite, aromatizante, goma xantana e sucralose."
+        "O [Whey 100% HD](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p) da Black Skull mistura proteína concentrada do soro do leite, peptídeos hidrolisados, proteína concentrada de leite e proteína isolada e hidrolisada do soro. A própria Black Skull chama a mistura de \"Blend Duo Protein\" e diz que os peptídeos hidrolisados são de colágeno. Ou seja: nem toda a proteína do pote vem do soro do leite.",
+        "O [100% Whey](https://www.maxtitanium.com.br/100-whey-pote-900g/p) da Max Titanium leva só proteína concentrada do soro do leite (WPC), mais aromatizante, lecitina de soja e sucralose. O rótulo avisa que contém soja.",
+        "Na Black Skull, quem quer whey só de soro do leite pelo menor preço tem o [Whey 80% HD](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p). A lista de ingredientes dele traz proteína concentrada do soro do leite, aromatizante, goma xantana e sucralose."
       ]
     },
     {
@@ -173,20 +191,20 @@
         "Os dois whey 3W lideram, e os dois usam porção de 40 g, o equivalente a 2 dosadores:"
       ],
       "bullets": [
-        "**Top Whey 3W + Performance**, da Max Titanium: 32 g de proteína por dose, com um mix de vitaminas e minerais;",
-        "**Whey 3W Core**, da Black Skull: 31 g de proteína por dose."
+        "[Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p), da Max Titanium: 32 g de proteína por dose, com um mix de vitaminas e minerais;",
+        "[Whey 3W Core](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p), da Black Skull: 31 g de proteína por dose."
       ],
       "postParagraphs": [
-        "Os dois também são os mais caros por grama de proteína na tabela, e a dose maior é a mais cara das duas lojas.",
-        "O Top Whey 3W Mais Sabor, da mesma linha da Max Titanium, dá 25 g de proteína na mesma porção de 40 g. Em promoção a R$ 189,00, ele sai a R$ 33,60 por 100 g de proteína."
+        "Por dose, os dois são os mais caros da tabela: R$ 10,22 no 3W Core e R$ 12,16 no Performance. Por 100 g de proteína, o Core fica em R$ 32,98 e o Performance, em R$ 37,99, o mais caro da comparação.",
+        "O [Top Whey 3W Mais Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p), da mesma linha da Max Titanium, dá 25 g de proteína na mesma porção de 40 g. Em promoção a R$ 189,00, ele sai a R$ 33,60 por 100 g de proteína."
       ]
     },
     {
       "heading": "Menor preço por 100 g de proteína",
       "paragraphs": [
-        "O **Whey 80% HD** da Black Skull é o mais barato por 100 g de proteína na tabela, com o sabor banana ainda mais barato.",
-        "O segundo é o **Whey Pro** da Max Titanium, a R$ 26,40 por 100 g de proteína e R$ 3,96 por dose, a dose mais barata da tabela. A diferença está no rótulo: a porção de 40 g dá 15 g de proteína e 20 g de carboidrato. É menos proteína e mais carboidrato por dose que qualquer outro whey da tabela.",
-        "Logo atrás vem o Whey 100% HD da Black Skull no refil ou no pote de 1,8 kg, perto de R$ 26,65 por 100 g de proteína. O 100% Whey da Max Titanium fica em R$ 33,40 no pote e R$ 31,17 no refil."
+        "O [Whey 80% HD](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) da Black Skull é o mais barato por 100 g de proteína na tabela, a R$ 20,28.",
+        "Logo atrás vem o [Whey 100% HD](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p) da Black Skull: R$ 23,26 no refil de 900 g e R$ 23,27 no pote de 1,8 kg, contra R$ 25,37 no pote de 900 g.",
+        "O [Whey Pro](https://www.maxtitanium.com.br/whey-pro-1kg/p) da Max Titanium aparece depois, a R$ 29,31 por 100 g de proteína e R$ 4,40 por dose, a dose mais barata da tabela. A diferença está no rótulo: a porção de 40 g dá 15 g de proteína e 20 g de carboidrato, menos proteína e mais carboidrato por dose que qualquer outro whey da tabela. O [100% Whey](https://www.maxtitanium.com.br/100-whey-pote-900g/p) da Max Titanium fica em R$ 33,40 no pote e R$ 31,17 no refil, e o [3W Core](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p) da Black Skull, em R$ 32,98."
       ]
     },
     {
@@ -203,47 +221,47 @@
         ],
         "rows": [
           [
-            "Black Skull Whey 100% HD 900 g (pote)",
+            "Black Skull [Whey 100% HD 900 g (pote)](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p)",
             "11",
             "baunilha, morango, chocolate, cookies & cream, cappuccino, milho verde, vitamina de frutas, chocolate com amendoim, torta de limão, caramelo macchiato e pistache"
           ],
           [
-            "Black Skull Whey 100% HD 1,8 kg",
+            "Black Skull [Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
             "4",
             "baunilha, morango, chocolate e cookies & cream"
           ],
           [
-            "Black Skull Whey 80% HD refil 900 g",
+            "Black Skull [Whey 80% HD refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
             "4",
             "morango, baunilha, banana e cookies"
           ],
           [
-            "Black Skull Whey 3W Core 900 g",
+            "Black Skull [Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p)",
             "4",
             "baunilha, chocolate, morango e cookies & cream"
           ],
           [
-            "Max Titanium 100% Whey 900 g (pote)",
+            "Max Titanium [100% Whey 900 g (pote)](https://www.maxtitanium.com.br/100-whey-pote-900g/p)",
             "7",
             "baunilha, chocolate, cookies & cream, morango, chocolate maltado, pistache com chocolate branco e leite"
           ],
           [
-            "Max Titanium 100% Whey refil 900 g",
+            "Max Titanium [100% Whey refil 900 g](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
             "4",
             "baunilha, chocolate, cookies & cream e morango"
           ],
           [
-            "Max Titanium Top Whey 3W Mais Sabor 900 g",
+            "Max Titanium [Top Whey 3W Mais Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
             "6",
             "brigadeiro, cookies & cream, chocolate branco com morango, leite, iogurte grego morango e sorvete de frutas"
           ],
           [
-            "Max Titanium Top Whey 3W + Performance 900 g",
+            "Max Titanium [Top Whey 3W + Performance 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
             "4",
             "baunilha, chocolate, fresh lemon e morango"
           ],
           [
-            "Max Titanium Whey Pro 1 kg",
+            "Max Titanium [Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
             "3",
             "baunilha, chocolate e morango"
           ]
@@ -256,10 +274,10 @@
     {
       "heading": "Creatina: preço por dose nas duas lojas",
       "paragraphs": [
-        "Na creatina, a régua é a mesma para todos os produtos: cada dose do rótulo tem 5 g de creatina. O que muda é o que vem junto no pote e quanto custa cada dose. Os preços são do catálogo das lojas, antes do cupom. O preço por dose é conta nossa: preço dividido pelas doses do rótulo."
+        "Na creatina, a régua é a mesma para todos os produtos: cada dose do rótulo tem 5 g de creatina. O que muda é o que vem junto no pote e quanto custa cada dose. Os preços são do site oficial em novembro, antes do cupom."
       ],
       "comparisonTable": {
-        "caption": "Preços do catálogo das lojas, antes do cupom. Preço por dose: conta nossa. O preço da creatina de 500 g da Max foi relido depois, em novembro; os demais são da leitura original.",
+        "caption": "Preços do site oficial em novembro, antes do cupom. Preço por dose: conta nossa, o preço dividido pelas doses do rótulo.",
         "headers": [
           "Marca e produto",
           "Ingredientes",
@@ -269,56 +287,56 @@
         ],
         "rows": [
           [
-            "Black Skull Creator refil 500 g",
+            "Black Skull [Creator refil 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p)",
             "creatina monohidratada (sem dosador)",
             "100",
             "R$ 39,90 (de R$ 59,90)",
             "R$ 0,40"
           ],
           [
-            "Black Skull Creator 300 g",
+            "Black Skull [Creator 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p)",
             "creatina monohidratada",
             "60",
             "R$ 29,90 (de R$ 49,90)",
             "R$ 0,50"
           ],
           [
-            "Black Skull Creatine 300 g sem sabor",
+            "Black Skull [Creatine 300 g sem sabor](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p)",
             "creatina monohidratada",
             "60",
-            "R$ 41,90 (de R$ 49,90)",
-            "R$ 0,70"
+            "R$ 42,30 (de R$ 49,90)",
+            "R$ 0,71"
           ],
           [
-            "Black Skull Creatine Turbo 300 g",
+            "Black Skull [Creatine Turbo 300 g](https://www.blackskullusa.com.br/creatine-turbo--300g/p)",
             "creatina e maltodextrina (dose de 10 g)",
             "30",
-            "R$ 39,90",
-            "R$ 1,33"
+            "R$ 31,90 (de R$ 39,90)",
+            "R$ 1,06"
           ],
           [
-            "Max Titanium Creatina 500 g",
+            "Max Titanium [Creatina 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
             "creatina monohidratada e dióxido de silício",
             "100",
             "R$ 69,90 (de R$ 115,60)",
             "R$ 0,70"
           ],
           [
-            "Max Titanium Creatina 300 g",
+            "Max Titanium [Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
             "creatina monohidratada e dióxido de silício",
             "60",
             "R$ 59,90 (de R$ 75,10)",
             "R$ 1,00"
           ],
           [
-            "Max Titanium Creatina 150 g",
+            "Max Titanium [Creatina 150 g](https://www.maxtitanium.com.br/creatina-pote-150g/p)",
             "creatina monohidratada e dióxido de silício",
             "30",
             "R$ 38,89 (de R$ 47,52)",
             "R$ 1,30"
           ],
           [
-            "Max Titanium Creatina Creapure 250 g",
+            "Max Titanium [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p)",
             "creatina monohidratada",
             "50",
             "R$ 139,89 (de R$ 147,20)",
@@ -328,9 +346,9 @@
       },
       "postParagraphs": [
         "**O que vem junto da creatina.** No Creator, na Creatine sem sabor e na Creapure, a lista de ingredientes tem um item só: creatina monohidratada. As creatinas comuns da Max Titanium levam também dióxido de silício, um antiumectante. As versões de laranja e de limão da Creatine da Black Skull levam acidulante, antiumectante, aromatizante, corante e sucralose, e a página indica um dosador de 6 g para elas. O refil de 500 g do Creator é a dose mais barata das duas lojas, mas não vem com dosador: quem compra só o refil precisa de uma colher medidora.",
-        "**A Creatine Turbo não é só creatina.** Cada dose tem 10 g de pó, com 5 g de creatina e 5 g de **maltodextrina**, um carboidrato. Por isso o pote de 300 g rende 30 doses, metade das 60 do Creator do mesmo tamanho. A dose sai a R$ 1,33, 2,7 vezes a do Creator 300 g.",
+        "**A Creatine Turbo não é só creatina.** Cada dose tem 10 g de pó, com 5 g de creatina e 5 g de **maltodextrina**, um carboidrato. Por isso o pote de 300 g rende 30 doses, metade das 60 do Creator do mesmo tamanho. A dose sai a R$ 1,06, pouco mais que o dobro da do Creator 300 g.",
         "**Creapure só na Max Titanium.** Creapure é o nome da matéria-prima de creatina que a Max Titanium usa nesse pote. Não encontramos Creapure na busca do site da Black Skull. No rótulo, a Creapure da Max Titanium tem a mesma dose de 5 g e um ingrediente só, como o Creator. A diferença está no preço: R$ 2,80 por dose, sete vezes o refil do Creator.",
-        "Na Black Skull, a Creatine também sai em 150 g, por R$ 39,90, e em refil de 500 g, por R$ 78,90. Pela nossa conta, com 5 g por dose, são R$ 1,33 e cerca de R$ 0,79 por dose. Na Max Titanium, a Creatina de 100 g está sem estoque no site."
+        "Na Black Skull, a Creatine também sai em 150 g, por R$ 33,90, e em refil de 500 g, por R$ 49,90. Pela nossa conta, com 5 g por dose, são R$ 1,13 e R$ 0,50 por dose. Na Max Titanium, a Creatina de 100 g está sem estoque no site."
       ],
       "image": {
         "src": "/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-creatina.webp",
@@ -338,6 +356,105 @@
         "caption": "Tabelas nutricionais oficiais do Creator 300 g e da Creatina 300 g: 5.000 mg por dose de 5 g.",
         "objectFit": "contain",
         "aspectRatio": 2.2069
+      },
+      "images": [
+        {
+          "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-creator-500g.webp",
+          "alt": "Pote de Creator de 500 g da Black Skull, em foto oficial",
+          "caption": "Creator refil 500 g. Foto oficial da Black Skull.",
+          "href": "https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p",
+          "objectFit": "contain",
+          "aspectRatio": 0.9137,
+          "store": "black-skull"
+        },
+        {
+          "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-creatina-500g.webp",
+          "alt": "Pote de Creatina de 500 g da Max Titanium, em foto oficial",
+          "caption": "Creatina 500 g. Foto oficial da Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+          "objectFit": "contain",
+          "aspectRatio": 0.6787,
+          "store": "max-titanium"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o Creator refil 500 g na Black Skull",
+          "href": "https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p",
+          "sponsored": true,
+          "store": "black-skull"
+        },
+        {
+          "label": "Ver a Creatina 500 g na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+          "sponsored": true,
+          "store": "max-titanium"
+        }
+      ]
+    },
+    {
+      "heading": "Preço depois do cupom",
+      "paragraphs": [
+        "O cupom da Black Skull é fixo: 10% em qualquer item. O da Max Titanium varia por produto, e a tabela usa o desconto que o carrinho deu no teste de novembro em cada item. Mesmo com o cupom, o Whey 80% HD e o Creator seguem como os menores custos da comparação."
+      ],
+      "comparisonTable": {
+        "caption": "Preço por 100 g de proteína e por dose depois do cupom. Black Skull: 10% sobre o preço do site. Max Titanium: o desconto que o carrinho deu no teste de novembro, de 2% a 8,9% nos itens testados. As contas são nossas.",
+        "headers": [
+          "Produto",
+          "Desconto do cupom",
+          "Preço depois do cupom",
+          "Conta depois do cupom"
+        ],
+        "rows": [
+          [
+            "Black Skull Whey 80% HD refil 900 g",
+            "10%",
+            "R$ 125,91",
+            "R$ 18,25 por 100 g de proteína"
+          ],
+          [
+            "Black Skull Whey 100% HD refil 900 g",
+            "10%",
+            "R$ 109,90",
+            "R$ 20,93 por 100 g de proteína"
+          ],
+          [
+            "Max Titanium Whey Pro 1 kg",
+            "8,9%",
+            "R$ 100,17",
+            "R$ 26,71 por 100 g de proteína"
+          ],
+          [
+            "Max Titanium Top Whey 3W Mais Sabor 900 g",
+            "8,9%",
+            "R$ 172,25",
+            "R$ 30,62 por 100 g de proteína"
+          ],
+          [
+            "Max Titanium 100% Whey refil 900 g",
+            "2%",
+            "R$ 192,44",
+            "R$ 30,55 por 100 g de proteína"
+          ],
+          [
+            "Black Skull Creator refil 500 g",
+            "10%",
+            "R$ 35,91",
+            "R$ 0,36 por dose"
+          ],
+          [
+            "Max Titanium Creatina 500 g",
+            "2%",
+            "R$ 68,50",
+            "R$ 0,69 por dose"
+          ],
+          [
+            "Max Titanium Creatina 300 g",
+            "2%",
+            "R$ 58,70",
+            "R$ 0,98 por dose"
+          ]
+        ]
       }
     },
     {
@@ -361,7 +478,7 @@
           [
             "Desconto",
             "10% em todo o site",
-            "até 10%, varia por produto"
+            "até 10%: no teste de novembro, 8,9% em alguns itens e 2% na maioria"
           ],
           [
             "Soma com promoção",
@@ -386,52 +503,61 @@
         ]
       },
       "postParagraphs": [
-        "**Black Skull: 10% fixo.** O **CECILIA10** tira 10% de qualquer item, inclusive dos que já estão em promoção. Com ele, o Whey 100% HD de 900 g sai de R$ 149,90 por R$ 134,91, e o Creator 300 g, de R$ 29,90 por R$ 26,91. Num carrinho de R$ 364,33 com itens em promoção, o total saiu por R$ 327,89: R$ 36,44 de desconto, 10% em todos os itens. O passo a passo está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e o código fica na [página do cupom da Black Skull](/cupons/black-skull).",
-        "**Max Titanium: até 10%, mais o Pix.** O **MAX10EMCASACOMCECILIA** chega a 10%, mas o percentual varia por produto, e o carrinho mostra o valor de cada item. Num Top Whey 3W em promoção, a R$ 189,00, o desconto foi de R$ 16,75, cerca de 9%. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar), e o código fica na [página do cupom da Max Titanium](/cupons/max-titanium). No Pix e no boleto, a loja anuncia **até 5%** a mais, que soma com o cupom.",
+        "**Black Skull: 10% fixo.** O **CECILIA10** tira 10% de qualquer item, inclusive dos que já estão em promoção. Com ele, o Whey 100% HD de 900 g sai de R$ 133,22 por R$ 119,90, e o Creator 300 g, de R$ 29,90 por R$ 26,91. Num carrinho de R$ 364,33 com itens em promoção, o total saiu por R$ 327,89: R$ 36,44 de desconto, 10% em todos os itens. O passo a passo está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e o código fica no [cupom Black Skull](/cupons/black-skull).",
+        "**Max Titanium: até 10%, mais o Pix.** O **MAX10EMCASACOMCECILIA** chega a até 10%, mas o percentual varia por produto, e o carrinho mostra o valor de cada item. No teste de novembro, ele deu 8,9% no Top Whey 3W Mais Sabor (R$ 16,75 de desconto sobre R$ 189,00) e no Whey Pro, e 2% na maioria dos outros itens, como o 100% Whey, o IsoWhey e as creatinas. O passo a passo está em [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar), e o código fica no [cupom Max Titanium](/cupons/max-titanium). No Pix e no boleto, a loja anuncia **até 5%** a mais, que soma com o cupom.",
         "**O cupom pode tirar o frete grátis.** Nas duas lojas, o mínimo do frete grátis conta depois dos descontos. Se o cupom deixar o carrinho abaixo do mínimo da sua região, o frete passa a ser cobrado. Perto do limite, confira o total no carrinho antes de pagar."
+      ],
+      "links": [
+        {
+          "label": "Ver o cupom da Black Skull",
+          "href": "/cupons/black-skull"
+        },
+        {
+          "label": "Ver o cupom da Max Titanium",
+          "href": "/cupons/max-titanium"
+        }
       ]
     },
     {
       "heading": "Quem escolhe o quê",
-      "emphasis": "Nos produtos e preços comparados, o Whey 80% HD e o Creator da Black Skull tinham menor custo por proteína e por dose. Para maior quantidade de proteína na porção de 40 g, o Top Whey 3W + Performance da Max Titanium tinha 32 g, contra 31 g do 3W Core.",
-      "emphasisAfterParagraph": 1,
+      "emphasis": "Pelo preço e pelo cupom, a Black Skull fecha a conta mais barata de whey e de creatina; a Max Titanium só ganha de quem quer Creapure ou o Top Whey 3W com 32 g por dose.",
       "paragraphs": [
-        "A escolha aqui é por critério de compra, com os números do rótulo e os preços:"
+        "A escolha aqui é por critério de compra, com os números do rótulo e os preços; dúvida sobre dose, horário ou restrição alimentar vai para o médico ou o nutricionista."
       ],
       "bullets": [
-        "**Quer pagar menos por grama de proteína:** Whey 80% HD da Black Skull. O Whey Pro da Max Titanium vem logo atrás, com menos proteína e mais carboidrato por dose.",
-        "**Quer mais proteína por dose:** Top Whey 3W + Performance da Max Titanium ou Whey 3W Core da Black Skull, os mais caros por proteína da comparação.",
+        "**Quer pagar menos por grama de proteína:** Whey 80% HD da Black Skull. O Whey 100% HD, da Black Skull, vem logo atrás; o Whey Pro da Max Titanium, com menos proteína e mais carboidrato por dose, vem depois.",
+        "**Quer mais proteína por dose:** Top Whey 3W + Performance da Max Titanium ou Whey 3W Core da Black Skull, os mais caros por dose da comparação.",
         "**Quer whey só de proteína do soro do leite:** Whey 80% HD da Black Skull ou 100% Whey da Max Titanium, os dois só com WPC. O 100% Whey contém soja.",
         "**Quer creatina sem outro ingrediente:** Creator ou Creatine sem sabor, da Black Skull, ou a Creapure da Max Titanium. A Creatine Turbo leva maltodextrina: dose de 10 g para 5 g de creatina.",
         "**Quer Creapure:** só a Max Titanium vende.",
         "**Quer a creatina mais barata por dose:** Creator refil 500 g da Black Skull, sem dosador.",
-        "**Vai pagar no Pix ou no boleto:** na Max Titanium, o cupom de até 10% soma com o desconto de até 5% da loja. Na Black Skull, o desconto é o mesmo em qualquer forma de pagamento: os 10% do cupom."
+        "**Vai pagar no Pix ou no boleto:** na Max Titanium, o cupom soma com o desconto de até 5% da loja. Na Black Skull, o desconto é o mesmo em qualquer forma de pagamento: os 10% do cupom."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Black Skull ou Max Titanium: qual é melhor? Nos preços de catálogo de outubro, o Whey 80% HD e o Creator da Black Skull tinham menor custo por grama de proteína e por dose de creatina. Fórmula, sabor escolhido e preço final atual podem mudar a escolha.",
+        "Qual é o cupom da Black Skull e o da Max Titanium? O da Black Skull é o CECILIA10, com 10% OFF em todo o site; o da Max Titanium é o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo. Os dois valem em todas as formas de pagamento, para conta nova e antiga. No carrinho da Max, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”; os códigos e as regras ficam no [cupom Black Skull](/cupons/black-skull) e no [cupom Max Titanium](/cupons/max-titanium).",
+        "Black Skull ou Max Titanium: qual é melhor? Nos preços de novembro, o Whey 80% HD e o Creator da Black Skull tinham menor custo por grama de proteína e por dose de creatina, com ou sem o cupom. Fórmula, sabor escolhido e preço final atual podem mudar a escolha.",
         "Qual whey é melhor, Black Skull ou Max Titanium? Depende do critério. Mais proteína por dose é o Top Whey 3W + Performance (32 g) ou o Whey 3W Core (31 g); menor preço por 100 g de proteína é o Whey 80% HD da Black Skull.",
-        "Black Skull é boa marca? Pelo que a empresa publica, sim: CNPJ ativo e regras de compra no site. A comparação cobre só rótulo e preço, sem avaliar sabor, dissolução ou qualidade geral.",
         "Black Skull é brasileira? É da Integralmédica? É brasileira, da GDS Grow Dietary Supplements do Brasil, em Embu das Artes (SP). Nenhuma fonte oficial liga a marca à Integralmédica.",
         "Max Titanium é brasileira? Sim. A marca é do Grupo Supley, o mesmo da Probiótica e da Dr. Peanut.",
-        "Whey Max Titanium vale a pena? O 100% Whey dá 21 g de proteína em 30 g, a R$ 7,01 por dose no pote e R$ 6,55 no refil. Com o cupom de até 10% e o desconto de até 5% no Pix, a dose fica mais barata; se compensa depende do critério que pesa para você.",
+        "Whey Max Titanium vale a pena? O 100% Whey dá 21 g de proteína em 30 g, a R$ 7,01 por dose no pote e R$ 6,55 no refil. O cupom deu 2% nele no teste de novembro, e o Pix soma até 5% a mais; se compensa depende do critério que pesa para você.",
         "Creatina Max Titanium vale a pena? A de 300 g dá 5 g de creatina por dose a R$ 1,00, e a Creapure, a R$ 2,80. Na Black Skull, o Creator sai a R$ 0,50 a dose, ou R$ 0,40 no refil.",
         "Qual a melhor creatina da Black Skull? Para quem quer só creatina, o Creator ou a Creatine sem sabor, com um ingrediente só. A Creatine Turbo leva maltodextrina.",
         "Os cupons somam com promoção e com Pix? Os dois somam com as promoções das lojas. Na Max Titanium, o cupom soma também com o desconto de até 5% do Pix e do boleto; a Black Skull não anuncia desconto no Pix.",
-        "Vale esperar a Black Friday? Os dois cupons valem hoje. A espera só compensa se o preço de novembro ficar abaixo do de outubro, e os preços de antes estão em [Black Friday Black Skull 2026: quando começa, preços de whey e creatina e o cupom CECILIA10](/reviews/black-friday-black-skull) e em [Black Friday Max Titanium 2026: preços de outubro, o cupom MAX10EMCASACOMCECILIA e o que a loja já anunciou](/reviews/black-friday-max-titanium)."
+        "Vale esperar a Black Friday? Os dois cupons valem hoje, e os preços de novembro da comparação já são de campanha. A espera só compensa se o preço baixar mais; os preços de cada loja estão em [Black Friday Black Skull 2026](/reviews/black-friday-black-skull) e em [Black Friday Max Titanium 2026](/reviews/black-friday-max-titanium)."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Você escolhe pelos menores custos por proteína ou creatina da tabela: os produtos Black Skull tinham os menores custos, antes dos descontos."
+      "Você decide pelo menor custo por proteína ou por dose de creatina: o Whey 80% HD e o Creator refil, da Black Skull, são os menores custos da tabela, com ou sem cupom."
     ],
     "skipIf": [
-      "Você quer mais proteína por dose e aceita pagar mais por ela: aí é a Max Titanium.",
+      "Você quer mais proteína por dose e aceita pagar mais por ela: aí é o Top Whey 3W + Performance, da Max Titanium, com 32 g.",
       "Você quer creatina Creapure: só a Max Titanium vende.",
-      "Você decide pelo sabor, pela dissolução ou pela digestão: a comparação é só de rótulo e preço."
+      "Você paga no Pix e quer somar o desconto da loja com o cupom: na Max Titanium, o cupom soma com até 5% do Pix e do boleto; a Black Skull não anuncia desconto no Pix."
     ]
   },
   "pros": [],
@@ -443,13 +569,16 @@
   "editorialNote": "Podemos receber comissão pela Black Skull e pela Max Titanium. Não provamos os produtos.",
   "relatedArticles": [
     {
-      "slug": "black-skull-e-confiavel"
-    },
-    {
-      "slug": "max-titanium-e-confiavel"
+      "slug": "cupom-black-skull-como-usar"
     },
     {
       "slug": "cupom-max-titanium-como-usar"
+    },
+    {
+      "slug": "black-friday-black-skull"
+    },
+    {
+      "slug": "black-friday-max-titanium"
     }
   ]
 }

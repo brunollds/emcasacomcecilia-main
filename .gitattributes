@@ -78,6 +78,7 @@ public/images/about/partners/max-titanium-icon.png -text export-ignore
 public/images/about/partners/max-titanium.png -text export-ignore
 public/images/about/partners/mollycook.jpg -text export-ignore
 public/images/about/partners/nutren.png -text export-ignore
+public/images/about/partners/oceane.png -text export-ignore
 public/images/about/partners/okoshi.webp -text export-ignore
 public/images/about/partners/petz-icon.png -text export-ignore
 public/images/about/partners/petz.png -text export-ignore
@@ -133,6 +134,7 @@ public/images/logos/bolinhas/magalu.png -text export-ignore
 public/images/logos/bolinhas/mais-mu.png -text export-ignore
 public/images/logos/bolinhas/max-titanium.png -text export-ignore
 public/images/logos/bolinhas/nestle-nutre.png -text export-ignore
+public/images/logos/bolinhas/oceane.png -text export-ignore
 public/images/logos/bolinhas/petz.png -text export-ignore
 public/images/logos/bolinhas/pinkcheeks.png -text export-ignore
 public/images/logos/bolinhas/probiotica.png -text export-ignore
@@ -175,6 +177,7 @@ public/images/logos/watermarks/magalu.webp -text export-ignore
 public/images/logos/watermarks/mais-mu.webp -text export-ignore
 public/images/logos/watermarks/max-titanium.webp -text export-ignore
 public/images/logos/watermarks/nutren.webp -text export-ignore
+public/images/logos/watermarks/oceane.webp -text export-ignore
 public/images/logos/watermarks/petz.webp -text export-ignore
 public/images/logos/watermarks/pinkcheeks.webp -text export-ignore
 public/images/logos/watermarks/probiotica.webp -text export-ignore
@@ -603,6 +606,7 @@ public/images/reviews/black-skull/black-skull-ou-max-titanium-capa-v2.webp -text
 public/images/reviews/black-skull/black-skull-ou-max-titanium-capa.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-creatina.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-ou-max-titanium-tabelas-whey.webp -text export-ignore
+public/images/reviews/black-skull/black-skull-ou-max-titanium-whey-80-hd-refil.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-reclame-aqui-aba-12-meses.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-reclame-aqui-aba-2025.webp -text export-ignore
 public/images/reviews/black-skull/black-skull-reclame-aqui-aba-6-meses.webp -text export-ignore
@@ -2245,6 +2249,7 @@ public/images/reviews/manteiga/manteiga-batida-resultado.webp -text export-ignor
 public/images/reviews/manteiga/manteiga-gordura-leite-ilustracao.webp -text export-ignore
 public/images/reviews/manteiga/minha-experiencia-manteiga-batida-aerada-capa-v2.webp -text export-ignore
 public/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-411.webp -text export-ignore
+public/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-bcaa-2400-200-caps.webp -text export-ignore
 public/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa-v2.webp -text export-ignore
 public/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-capa.webp -text export-ignore
 public/images/reviews/max-titanium/black-friday-max-titanium-banner-max-november.webp -text export-ignore
@@ -2268,6 +2273,7 @@ public/images/reviews/max-titanium/hipercalorico-max-titanium-mass-17500-zero-la
 public/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa-v2.webp -text export-ignore
 public/images/reviews/max-titanium/kit-max-titanium-quando-compensa-capa.webp -text export-ignore
 public/images/reviews/max-titanium/kit-max-titanium-quando-compensa-horus.webp -text export-ignore
+public/images/reviews/max-titanium/kit-max-titanium-quando-compensa-whey-pro-creatina-500g.webp -text export-ignore
 public/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp -text export-ignore
 public/images/reviews/max-titanium/max-titanium-confiavel-capa.webp -text export-ignore
 public/images/reviews/max-titanium/max-titanium-cupom-01-carrinho-sem-cupom.webp -text export-ignore
@@ -2307,6 +2313,7 @@ public/images/reviews/max-titanium/max-titanium-reclame-aqui-aba-6-meses.webp -t
 public/images/reviews/max-titanium/max-titanium-reclame-aqui-capa-discover.webp -text export-ignore
 public/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp -text export-ignore
 public/images/reviews/max-titanium/max-titanium-reclame-aqui-nota-reputacao-capa-v2.webp -text export-ignore
+public/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas-2211.webp -text export-ignore
 public/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas.webp -text export-ignore
 public/images/reviews/max-titanium/max-titanium-rodape-cnpj.webp -text export-ignore
 public/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa-v2.webp -text export-ignore
@@ -2325,6 +2332,7 @@ public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-capa.webp -te
 public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey-tabela.webp -text export-ignore
 public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey.webp -text export-ignore
 public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-top-whey-3w.webp -text export-ignore
+public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-whey-pro-1kg.webp -text export-ignore
 public/images/reviews/nanlac/nanlac-comfor-hmo-800g-tabela-ingredientes.webp -text export-ignore
 public/images/reviews/nanlac/nanlac-supreme-ou-ninho-fases-capa-v2.webp -text export-ignore
 public/images/reviews/nanlac/nanlac-supreme-pro-1-a-3-anos-capa-v2.webp -text export-ignore
@@ -2449,6 +2457,7 @@ public/images/reviews/nutren/passo-2-carrinho.webp -text export-ignore
 public/images/reviews/nutren/passo-3-digite-ceci.webp -text export-ignore
 public/images/reviews/nutren/passo-4-cupom-aplicado-10.webp -text export-ignore
 public/images/reviews/nutren/passo-4-cupom-aplicado.webp -text export-ignore
+public/images/reviews/oceane/cupom-oceane-sacola-app-com-cupom.webp -text export-ignore
 public/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa-v2.webp -text export-ignore
 public/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa.webp -text export-ignore
 public/images/reviews/petz/areia-petz-fresh-graos-medios.webp -text export-ignore
@@ -2558,6 +2567,7 @@ public/images/reviews/presentes/presente-amigo-secreto-masculino-capa.webp -text
 public/images/reviews/presentes/presente-natal-quem-treina-camiseta-feminina-max.webp -text export-ignore
 public/images/reviews/presentes/presente-natal-quem-treina-capa-v2.webp -text export-ignore
 public/images/reviews/presentes/presente-natal-quem-treina-capa.webp -text export-ignore
+public/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-700ml-probiotica.webp -text export-ignore
 public/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-probiotica.webp -text export-ignore
 public/images/reviews/presentes/presente-natal-quem-treina-display-dr-peanut.webp -text export-ignore
 public/images/reviews/presentes/presente-natal-quem-treina-kit-creatina-probiotica.webp -text export-ignore

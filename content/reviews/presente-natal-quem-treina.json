@@ -14,9 +14,9 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Kits e lembranças para quem treina, de cinco lojas parceiras, por faixa de preço, com os preços de 25/10/2026 e o cupom de cada loja.",
+  "description": "Kits e lembranças para quem treina, de cinco lojas parceiras, por faixa de preço, com o cupom de cada loja.",
   "publishedAt": "25 de outubro de 2026",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "publishedAtISO": "2026-10-25",
   "draft": false,
   "isNew": false,
@@ -32,30 +32,16 @@
       ]
     },
     {
-      "heading": "Como este guia foi montado",
-      "paragraphs": [
-        "Quatro lojas parceiras vendem o que quem treina usa: Black Skull, Max Titanium, Probiótica e Dr. Peanut, com creatina, whey, coqueteleira, camiseta e snack. A Skelt, de beleza, entra com um só kit, como lembrança. Nenhuma delas agrupa os produtos por perfil ou por preço, e a pergunta \"o que dar, por quanto e em qual loja\" fica para quem compara à mão. Este guia faz essa comparação."
-      ],
-      "bullets": [
-        "Os preços são de venda. Preço muda com promoção e estoque, e o carrinho é a referência final.",
-        "\"Sem controle de estoque\" quer dizer que a loja não mostra a quantidade. Não prova que o item está disponível. Quando a loja mostra unidades por tamanho ou cor, o texto diz quais.",
-        "Pré-treinos, termogênicos, colágeno e os kits com nome de atleta ficaram fora da lista.",
-        "O cupom de cada loja vem depois da tabela, em Cupom de cada loja."
-      ],
-      "postParagraphs": [
-        "Para presente de cozinha, o [guia de presentes para quem cozinha](/reviews/presente-natal-quem-gosta-de-cozinhar) é outro caminho. Preço de campanha de Black Friday fica no guia de cada loja: [Black Skull](/reviews/black-friday-black-skull), [Max Titanium](/reviews/black-friday-max-titanium), [Probiótica](/reviews/black-friday-probiotica), [Skelt](/reviews/black-friday-skelt) e [Dr. Peanut](/reviews/black-friday-dr-peanut)."
-      ]
-    },
-    {
       "heading": "Quem já usa creatina ou whey",
       "paragraphs": [
-        "Para creatina, o kit com dois potes de 300 g da Probiótica sai por R$ 119,78, de R$ 150,20 na tabela da loja. Para whey, atenção: o kit com dois potes de Whey Turbo de 907 g da Black Skull sai por R$ 132,81, de R$ 139,80, mas a loja o lista entre os hipercalóricos, não como whey concentrado; é presente para quem já usa esse tipo. A Max Titanium vende a creatina de 300 g sozinha por R$ 59,90, e o kit dela com o Whey Pro de 1 kg sai por R$ 158,90. Quem quer creatina e whey numa caixa só da Probiótica tem o kit com a creatina de 300 g e o Iso Protein Blend de 900 g, por R$ 138,89. O Iso Protein Blend mistura proteína isolada de soja e concentrada do soro e leva leite, soja e lactose entre os alergênicos; o rótulo muda por sabor.",
+        "Para creatina, o [kit com dois potes de 300 g da Probiótica](https://www.probiotica.com.br/pack-creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) sai por R$ 119,78, de R$ 150,20 na tabela da loja. Para whey, atenção: o [kit com dois potes de Whey Turbo de 907 g da Black Skull](https://www.blackskullusa.com.br/kit-2-unidades-whey-protein-907g-whey-turbo/p) sai por R$ 104,31, de R$ 139,80, mas a loja o lista entre os hipercalóricos, não como whey concentrado; é presente para quem já usa esse tipo. A Max Titanium vende a [creatina de 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p) sozinha por R$ 59,90, e o [kit dela com o Whey Pro de 1 kg](https://www.maxtitanium.com.br/kit-creatina-300g---whey-pro-1kg/p) sai por R$ 169,80, de R$ 201,30. Quem quer creatina e whey numa caixa só da Probiótica tem o [kit com a creatina de 300 g e o Iso Protein Blend de 900 g](https://www.probiotica.com.br/kit-creatina-300g---iso-protein-blend-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), por R$ 128,90, de R$ 197,09. O Iso Protein Blend mistura proteína isolada de soja e concentrada do soro e leva leite, soja e lactose entre os alergênicos; o rótulo muda por sabor.",
         "Os guias de [whey](/reviews/melhor-whey-qual-escolher-por-objetivo) e de [creatina da Black Skull](/reviews/creatina-black-skull-qual-escolher) ajudam a comparar os produtos. Para presentear, confirme com a pessoa qual ela usa."
       ],
       "image": {
         "src": "/images/reviews/presentes/presente-natal-quem-treina-kit-creatina-probiotica.webp",
         "alt": "Kit com dois potes de creatina monohidratada de 300 g da Probiótica, em azul.",
         "caption": "Kit 2 × Creatina Monohidratada Pura 300 g, da Probiótica. Imagem: site da loja.",
+        "href": "https://www.probiotica.com.br/pack-creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
         "objectFit": "contain",
         "aspectRatio": 1.438
       }
@@ -63,26 +49,28 @@
     {
       "heading": "Quem não sabe o que a pessoa usa",
       "paragraphs": [
-        "Coqueteleira e camiseta servem para quem não sabe o que a pessoa toma. A coqueteleira de 600 ml da Black Skull, a mais barata desta lista, sai por R$ 19,90. A Probiótica tem a de 700 ml nas cores preta, rosa e incolor, por R$ 24,90, de R$ 29,90 na tabela.",
-        "A camiseta 100% Algodão da Black Skull custa R$ 78,90, e a loja mostrava unidades de P a XGG. A Camiseta Branca da Probiótica sai por R$ 69,90; a loja mostrava zero unidade em P e unidades de M a XG."
+        "Coqueteleira e camiseta servem para quem não sabe o que a pessoa toma. A [coqueteleira de 700 ml da Probiótica](https://www.probiotica.com.br/coqueteleira-700-ml--preta/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), nas cores preta, rosa e incolor, sai por R$ 13,70, de R$ 29,90. A [rosa de 700 ml da Max Titanium](https://www.maxtitanium.com.br/coqueteleira-rosa-max-titanium/p) custa R$ 13,29, e a [de 600 ml da Black Skull](https://www.blackskullusa.com.br/coqueteleira-blackskull/p), R$ 14,90, de R$ 19,90.",
+        "A [camiseta 100% Algodão da Black Skull](https://www.blackskullusa.com.br/camiseta-100-black-skull/p) custa R$ 78,90. A [Camiseta Branca da Probiótica](https://www.probiotica.com.br/camiseta-branca/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) sai por R$ 69,90. Nas duas, confira o tamanho na tabela de medidas da página do produto."
       ],
       "image": {
-        "src": "/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-probiotica.webp",
-        "alt": "Coqueteleira de 700 ml da Probiótica na cor preta, sobre fundo branco.",
+        "src": "/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-700ml-probiotica.webp",
+        "alt": "Coqueteleira de 700 ml da Probiótica na cor preta, sobre fundo branco",
         "caption": "Coqueteleira 700 ml da Probiótica. Imagem: site da loja.",
+        "href": "https://www.probiotica.com.br/coqueteleira-700-ml--preta/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
         "objectFit": "contain",
-        "aspectRatio": 0.412
+        "aspectRatio": 1
       }
     },
     {
       "heading": "Fitness feminino",
       "paragraphs": [
-        "Poucas peças femininas trazem tamanhos na página das lojas. A Max Titanium tem a Camiseta Feminina Oversized Redemption, por R$ 119,00, com P, M e G na página e o GG zerado. A mesma loja vende o Femini Whey 900 g, por R$ 130,00 (de R$ 147,25), e o kit dele com a creatina de 300 g, por R$ 189,90. A página dos dois não traz quantidade, e o que o Femini Whey tem está na tabela nutricional da página dele."
+        "Poucas peças femininas trazem tamanhos na página das lojas. A Max Titanium tem a [Camiseta Feminina Oversized Redemption](https://www.maxtitanium.com.br/camiseta-oversized-3/p), por R$ 107,10, de R$ 119,00. A mesma loja vende o [Femini Whey 900 g](https://www.maxtitanium.com.br/femini-whey-900g/p), por R$ 130,00, de R$ 147,25, e o [kit dele com a creatina de 300 g](https://www.maxtitanium.com.br/kit-creatina-300g---femini-whey-900g/p), por R$ 179,90, de R$ 222,35. A página dos dois não traz quantidade, e o que o Femini Whey tem está na tabela nutricional da página dele."
       ],
       "image": {
         "src": "/images/reviews/presentes/presente-natal-quem-treina-camiseta-feminina-max.webp",
         "alt": "Camiseta feminina oversized preta da Max Titanium, com estampa nas costas.",
         "caption": "Camiseta Feminina Oversized Redemption, da Max Titanium. Imagem: site da loja.",
+        "href": "https://www.maxtitanium.com.br/camiseta-oversized-3/p",
         "objectFit": "square",
         "aspectRatio": 1
       }
@@ -90,13 +78,14 @@
     {
       "heading": "Quem gosta de doce e treina",
       "paragraphs": [
-        "Para quem gosta de doce, o acerto está nos snacks da Dr. Peanut: alfajor, wafer ou barra. O display de 8 Doctor Bar de 62 g sai por R$ 122,03, e o rótulo diz \"contém glúten\" e \"contém lactose\". Os kits de alfajor saem por R$ 64,95 (5 unidades) e R$ 129,90 (10 unidades); os de Doctor Wafer, por R$ 65,34 (6) e R$ 130,68 (12).",
+        "Para quem gosta de doce, o acerto está nos snacks da Dr. Peanut: alfajor, wafer ou barra. O [display de 8 Doctor Bar de 62 g](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p) sai por R$ 122,03, e o rótulo diz \"contém glúten\" e \"contém lactose\". Os kits de alfajor saem por R$ 64,95 (5 unidades) e R$ 129,90 (10 unidades); os de Doctor Wafer, por [R$ 65,34 (6)](https://www.drpeanut.com.br/kit-sortido-wafers/p) e [R$ 130,68 (12)](https://www.drpeanut.com.br/kit-sortido-duplo-wafers/p).",
         "Do alfajor, a loja publica só a tabela nutricional em imagem, sem ingredientes nem alérgicos. Quem tem restrição lê o rótulo e pergunta a um nutricionista ou médico. Para comparar sabores, veja o [guia de snacks da Dr. Peanut](/reviews/snacks-dr-peanut-qual-escolher)."
       ],
       "image": {
         "src": "/images/reviews/presentes/presente-natal-quem-treina-display-dr-peanut.webp",
         "alt": "Display de Doctor Bar da Dr. Peanut, com barras expostas na caixa.",
         "caption": "Display de 8 Doctor Bar de 62 g, da Dr. Peanut. Imagem: site da loja.",
+        "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p",
         "objectFit": "contain",
         "aspectRatio": 1.178
       }
@@ -104,10 +93,10 @@
     {
       "heading": "Por faixa de preço",
       "paragraphs": [
-        "A tabela reúne os presentes das cinco lojas em três faixas, só com o preço de venda. O cupom de cada loja vem logo abaixo."
+        "A tabela reúne os presentes das cinco lojas em três faixas, só com o preço de venda. O cupom de cada loja vem logo abaixo. Preço de campanha de Black Friday fica no guia de cada loja: [Black Skull](/reviews/black-friday-black-skull), [Max Titanium](/reviews/black-friday-max-titanium), [Probiótica](/reviews/black-friday-probiotica), [Skelt](/reviews/black-friday-skelt) e [Dr. Peanut](/reviews/black-friday-dr-peanut). Para presente de cozinha, veja o [guia de presentes para quem cozinha](/reviews/presente-natal-quem-gosta-de-cozinhar)."
       ],
       "comparisonTable": {
-        "caption": "Preços de venda em 25/10/2026; os da Dr. Peanut, em 24/10/2026.",
+        "caption": "Preços de venda no site em 22/11/2026. Pré-treinos, termogênicos, colágeno e kits com nome de atleta ficaram fora da lista.",
         "headers": [
           "Faixa",
           "Presente",
@@ -117,81 +106,81 @@
         "rows": [
           [
             "Até R$ 100",
-            "Coqueteleira 600 ml",
+            "[Coqueteleira 600 ml](https://www.blackskullusa.com.br/coqueteleira-blackskull/p)",
             "Black Skull",
-            "R$ 19,90"
+            "R$ 14,90 (de R$ 19,90)"
           ],
           [
             "Até R$ 100",
-            "Coqueteleira Pet Fume 750 ml",
+            "[Coqueteleira Pet Fume 750 ml](https://www.blackskullusa.com.br/coqueteleira-pet-fume/p)",
             "Black Skull",
-            "R$ 29,90"
+            "R$ 14,90 (de R$ 29,90)"
           ],
           [
             "Até R$ 100",
-            "Coqueteleira 700 ml (preta, rosa ou incolor)",
+            "[Coqueteleira 700 ml (preta, rosa ou incolor)](https://www.probiotica.com.br/coqueteleira-700-ml--preta/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Probiótica",
-            "R$ 24,90 (de R$ 29,90)"
+            "R$ 13,70 (de R$ 29,90)"
           ],
           [
             "Até R$ 100",
-            "Coqueteleira Premium 500 ml (preta e grafite)",
+            "[Coqueteleira Premium 500 ml (preta e grafite)](https://www.probiotica.com.br/coqueteleira-premium-2-compartimentos-500-ml-preto-e-grafite-/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Probiótica",
-            "R$ 29,10 (de R$ 34,90)"
+            "R$ 18,92 (de R$ 34,90)"
           ],
           [
             "Até R$ 100",
-            "Coqueteleira 700 ml rosa",
+            "[Coqueteleira 700 ml rosa](https://www.maxtitanium.com.br/coqueteleira-rosa-max-titanium/p)",
             "Max Titanium",
-            "R$ 24,17 (de R$ 29,90)"
+            "R$ 13,29 (de R$ 29,90)"
           ],
           [
             "Até R$ 100",
-            "Coqueteleira Tritan",
+            "[Coqueteleira Tritan](https://www.probiotica.com.br/coqueteleira-tritan-probiotica/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Probiótica",
-            "R$ 79,90"
+            "R$ 55,93 (de R$ 79,90)"
           ],
           [
             "Até R$ 100",
-            "Camiseta 100% Algodão",
+            "[Camiseta 100% Algodão](https://www.blackskullusa.com.br/camiseta-100-black-skull/p)",
             "Black Skull",
             "R$ 78,90"
           ],
           [
             "Até R$ 100",
-            "Camiseta Branca",
+            "[Camiseta Branca](https://www.probiotica.com.br/camiseta-branca/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Probiótica",
             "R$ 69,90"
           ],
           [
             "Até R$ 100",
-            "Camiseta Dry Fit Probi Alpha Co (azul)",
+            "[Camiseta Dry Fit Probi Alpha Co (azul)](https://www.probiotica.com.br/camiseta-dry-fit-probi-alpha-co-azul/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Probiótica",
-            "R$ 79,90"
+            "R$ 47,94 (de R$ 79,90)"
           ],
           [
             "Até R$ 100",
-            "Camiseta Heavy Club",
+            "[Camiseta Heavy Club](https://www.maxtitanium.com.br/camiseta-regular-heavy/p)",
             "Max Titanium",
-            "R$ 99,00"
+            "R$ 89,10 (de R$ 99,00)"
           ],
           [
             "Até R$ 100",
-            "Creatina 300 g",
+            "[Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
             "Max Titanium",
             "R$ 59,90 (de R$ 75,10)"
           ],
           [
             "Até R$ 100",
-            "Kit 2 × Mix Pro Creatine 300 g",
+            "[Kit 2 × Mix Pro Creatine 300 g](https://www.probiotica.com.br/pack-mix-pro-creatine-/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Probiótica",
             "R$ 81,88"
           ],
           [
             "Até R$ 100",
-            "Kit 2 × Creatina Creator 500 g + coqueteleira",
+            "[Kit 2 × Creatina Creator 500 g + coqueteleira](https://www.blackskullusa.com.br/kit-2-unidades-creatina-monohidratada-500g/p)",
             "Black Skull",
-            "R$ 94,72 (de R$ 139,70)"
+            "R$ 89,97 (de R$ 139,70)"
           ],
           [
             "Até R$ 100",
@@ -207,75 +196,63 @@
           ],
           [
             "Até R$ 100",
-            "Kit Sortido de 6 Doctor Wafer",
+            "[Kit Sortido de 6 Doctor Wafer](https://www.drpeanut.com.br/kit-sortido-wafers/p)",
             "Dr. Peanut",
             "R$ 65,34"
           ],
           [
             "Até R$ 100",
-            "Kit Miniaturas (3 × 15 ml)",
+            "[Kit Miniaturas Exotic Set (3 × 15 ml)](https://www.skelt.com.br/kit-miniaturas-exotic-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
             "Skelt",
-            "R$ 99,90"
+            "R$ 59,94 (de R$ 99,90)"
+          ],
+          [
+            "Até R$ 100",
+            "[Kit Miniaturas Trends Set e Sellers Set (3 × 15 ml)](https://www.skelt.com.br/kit-miniaturas-trends-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+            "Skelt",
+            "R$ 84,92 (de R$ 99,90)"
           ],
           [
             "R$ 100 a R$ 200",
-            "Coqueteleira Tritan",
+            "[Coqueteleira Tritan](https://www.maxtitanium.com.br/coqueteleira-tritan-max/p)",
             "Max Titanium",
             "R$ 109,00"
           ],
           [
             "R$ 100 a R$ 200",
-            "Camiseta Oversized Redemption masculina",
+            "[Camiseta Oversized Redemption masculina](https://www.maxtitanium.com.br/camiseta-preta-oversized/p)",
             "Max Titanium",
-            "R$ 119,00"
+            "R$ 107,10 (de R$ 119,00)"
           ],
           [
             "R$ 100 a R$ 200",
-            "Camiseta Feminina Oversized Redemption",
+            "[Camiseta Feminina Oversized Redemption](https://www.maxtitanium.com.br/camiseta-oversized-3/p)",
             "Max Titanium",
-            "R$ 119,00"
+            "R$ 107,10 (de R$ 119,00)"
           ],
           [
             "R$ 100 a R$ 200",
-            "Kit 2 × Creatina 300 g",
+            "[Kit 2 × Whey Turbo 907 g](https://www.blackskullusa.com.br/kit-2-unidades-whey-protein-907g-whey-turbo/p)",
+            "Black Skull",
+            "R$ 104,31 (de R$ 139,80)"
+          ],
+          [
+            "R$ 100 a R$ 200",
+            "[Kit 2 × Creatina 300 g](https://www.probiotica.com.br/pack-creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Probiótica",
             "R$ 119,78 (de R$ 150,20)"
           ],
           [
             "R$ 100 a R$ 200",
-            "Kit 2 × Whey Turbo 907 g",
-            "Black Skull",
-            "R$ 132,81 (de R$ 139,80)"
-          ],
-          [
-            "R$ 100 a R$ 200",
-            "Femini Whey 900 g",
-            "Max Titanium",
-            "R$ 130,00 (de R$ 147,25)"
-          ],
-          [
-            "R$ 100 a R$ 200",
-            "Kit Creatina 300 g + Iso Protein Blend 900 g",
-            "Probiótica",
-            "R$ 138,89"
-          ],
-          [
-            "R$ 100 a R$ 200",
-            "Kit Creatina 300 g + Whey Pro 1 kg",
-            "Max Titanium",
-            "R$ 158,90 (de R$ 186,10)"
-          ],
-          [
-            "R$ 100 a R$ 200",
-            "Kit Creatina 300 g + Femini Whey 900 g",
-            "Max Titanium",
-            "R$ 189,90"
-          ],
-          [
-            "R$ 100 a R$ 200",
-            "Display de 8 Doctor Bar 62 g",
+            "[Display de 8 Doctor Bar 62 g](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p)",
             "Dr. Peanut",
             "R$ 122,03"
+          ],
+          [
+            "R$ 100 a R$ 200",
+            "[Kit Creatina 300 g + Iso Protein Blend 900 g](https://www.probiotica.com.br/kit-creatina-300g---iso-protein-blend-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+            "Probiótica",
+            "R$ 128,90 (de R$ 197,09)"
           ],
           [
             "R$ 100 a R$ 200",
@@ -285,39 +262,57 @@
           ],
           [
             "R$ 100 a R$ 200",
-            "Kit de 12 Doctor Wafer",
+            "[Femini Whey 900 g](https://www.maxtitanium.com.br/femini-whey-900g/p)",
+            "Max Titanium",
+            "R$ 130,00 (de R$ 147,25)"
+          ],
+          [
+            "R$ 100 a R$ 200",
+            "[Kit de 12 Doctor Wafer](https://www.drpeanut.com.br/kit-sortido-duplo-wafers/p)",
             "Dr. Peanut",
             "R$ 130,68"
           ],
           [
-            "Acima de R$ 200",
-            "Kit 4 × 600 g de pasta de amendoim (Legacy, Dream Team, Quartetos)",
-            "Dr. Peanut",
-            "R$ 203,63 (de R$ 239,56)"
-          ],
-          [
-            "Acima de R$ 200",
-            "Kit Creatina 300 g + 100% Whey pote 900 g",
+            "R$ 100 a R$ 200",
+            "[Kit Creatina 300 g + Whey Pro 1 kg](https://www.maxtitanium.com.br/kit-creatina-300g---whey-pro-1kg/p)",
             "Max Titanium",
-            "R$ 249,28"
+            "R$ 169,80 (de R$ 201,30)"
+          ],
+          [
+            "R$ 100 a R$ 200",
+            "[Kit Creatina 300 g + Femini Whey 900 g](https://www.maxtitanium.com.br/kit-creatina-300g---femini-whey-900g/p)",
+            "Max Titanium",
+            "R$ 179,90 (de R$ 222,35)"
           ],
           [
             "Acima de R$ 200",
-            "Whey 100% HD + 3 × Creatine Turbo",
+            "[Whey 100% HD + 3 × Creatine Turbo](https://www.blackskullusa.com.br/whey100-3xcreatine-turbo/p)",
             "Black Skull",
-            "R$ 255,12 (de R$ 289,60)"
+            "R$ 204,82 (de R$ 289,60)"
           ],
           [
             "Acima de R$ 200",
-            "Kit Creatina 300 g + 100% Pure Whey Zero Lactose 900 g",
+            "[Kit 4 × 600 g de pasta de amendoim (Quarteto Cookies & Cream)](https://www.drpeanut.com.br/combo-cookies-lovers-quarteto/p)",
+            "Dr. Peanut",
+            "R$ 203,63"
+          ],
+          [
+            "Acima de R$ 200",
+            "[Combo Whey 3W Core 900 g + Creator 500 g](https://www.blackskullusa.com.br/combo-whey-3w-core-900g-creatina-creator-500g/p)",
+            "Black Skull",
+            "R$ 251,56 (de R$ 339,80)"
+          ],
+          [
+            "Acima de R$ 200",
+            "[Kit Creatina 300 g + 100% Whey pote 900 g](https://www.maxtitanium.com.br/kit-creatina-300g-100--whey-pote-900g/p)",
+            "Max Titanium",
+            "R$ 270,29 (de R$ 285,49)"
+          ],
+          [
+            "Acima de R$ 200",
+            "[Kit Creatina 300 g + 100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/kit-zero-lactose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Probiótica",
             "R$ 301,86"
-          ],
-          [
-            "Acima de R$ 200",
-            "Combo Whey 3W Core 900 g + Creator 500 g",
-            "Black Skull",
-            "R$ 303,81 (de R$ 339,80)"
           ]
         ]
       }
@@ -325,7 +320,7 @@
     {
       "heading": "Cupom de cada loja",
       "paragraphs": [
-        "Os cinco códigos valem em qualquer faixa da tabela, cada um só no site da própria loja. Na Max Titanium e na Probiótica o desconto é de até 10%: o percentual varia por produto, e o carrinho mostra quanto cada item recebeu."
+        "Os cinco códigos valem em qualquer faixa da tabela, cada um só no site da própria loja. Na Max Titanium e na Probiótica o desconto é de até 10%: o percentual varia por produto, e o carrinho mostra quanto cada item recebeu. No teste de novembro, o código da Max deu 2% na maioria dos itens e 8,9% no Whey Pro; o da Probiótica deu 2% nas creatinas e 7% no Hiper 100% Whey e no Iso Protein Blend."
       ],
       "comparisonTable": {
         "headers": [
@@ -374,13 +369,14 @@
     {
       "heading": "Lembrança de beleza: o Kit Miniaturas da Skelt",
       "paragraphs": [
-        "O Kit Miniaturas é o único item da Skelt neste guia e não tem vínculo com treino: é presente de beleza, com três miniaturas de 15 ml de fragrância, em três conjuntos (Exotic, Sellers e Trends). Sai por R$ 99,90. Com o cupom SKEMCASACOMCECILIA e os 5% do Pix sobre o total, cai para cerca de R$ 85,41 (conta deste guia: 10% e depois 5%).",
+        "O Kit Miniaturas é o único item da Skelt neste guia e não tem vínculo com treino: é presente de beleza, com três miniaturas de 15 ml de fragrância, em três conjuntos. O [Exotic](https://www.skelt.com.br/kit-miniaturas-exotic-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) sai por R$ 59,94, de R$ 99,90, e o Trends e o Sellers, por R$ 84,92, de R$ 99,90. Com o cupom SKEMCASACOMCECILIA e os 5% do Pix sobre o total, o Exotic cai para cerca de R$ 51,25 (conta deste guia: 10% e depois 5%).",
         "A Skelt tem frete grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste. No Norte e no Nordeste, o frete grátis começa em R$ 199. Para escolher a fragrância, veja [body splash da Skelt: qual escolher](/reviews/body-splash-skelt-qual-escolher)."
       ],
       "image": {
         "src": "/images/reviews/presentes/presente-natal-quem-treina-kit-miniaturas-skelt.webp",
         "alt": "Kit Miniaturas Exotic Set da Skelt, em caixa roxa com três frascos de 15 ml.",
         "caption": "Kit Miniaturas Exotic Set da Skelt, 3 × 15 ml. Imagem: site da loja.",
+        "href": "https://www.skelt.com.br/kit-miniaturas-exotic-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
         "objectFit": "contain",
         "aspectRatio": 0.684
       }
@@ -394,23 +390,21 @@
     {
       "heading": "Qual presente escolher",
       "bullets": [
-        "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 132,81, que a loja lista como hipercalórico, para quem já usa esse tipo. Confirme o nome e a fórmula do produto antes de escolher.",
-        "Quem não sabe o que a pessoa usa: a coqueteleira da Black Skull, por R$ 19,90, ou a camiseta, por R$ 69,90 na Probiótica ou R$ 78,90 na Black Skull.",
-        "Fitness feminino: a Camiseta Feminina Oversized Redemption da Max Titanium, por R$ 119,00, é a peça com tamanhos; o Femini Whey, por R$ 130,00, é o suplemento da lista.",
+        "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 104,31, que a loja lista como hipercalórico, para quem já usa esse tipo. Confirme o nome e a fórmula do produto antes de escolher.",
+        "Quem não sabe o que a pessoa usa: a coqueteleira de 700 ml da Probiótica, por R$ 13,70, ou a camiseta, por R$ 69,90 na Probiótica ou R$ 78,90 na Black Skull.",
+        "Fitness feminino: a Camiseta Feminina Oversized Redemption da Max Titanium, por R$ 107,10, é a peça com tamanhos; o Femini Whey, por R$ 130,00, é o suplemento da lista.",
         "Quem gosta de doce: o kit de 10 alfajores da Dr. Peanut, por R$ 129,90, ou o de 12 wafers, por R$ 130,68, com o rótulo de cada um.",
-        "Lembrança de beleza: o Kit Miniaturas da Skelt, por R$ 99,90."
+        "Lembrança de beleza: o Kit Miniaturas Exotic da Skelt, por R$ 59,94."
       ],
-      "postParagraphs": [
-        "Sem saber qual suplemento a pessoa usa, a coqueteleira dispensa essa informação. A camiseta também pode ser uma opção, desde que você confirme as medidas."
-      ]
+      "emphasis": "Sem saber o que a pessoa usa, coqueteleira é a escolha que não erra; camiseta, só com o tamanho confirmado."
     },
     {
       "heading": "Onde comprar, loja por loja",
       "bullets": [
         "Black Skull. Cupom CECILIA10, 10% em todo o site. Frete grátis: Sul e Sudeste acima de R$ 199,90; Centro-Oeste acima de R$ 249,90; demais regiões acima de R$ 299,90.",
         "Max Titanium. Cupom MAX10EMCASACOMCECILIA, até 10%. Frete grátis a partir de R$ 104 em São Paulo capital, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte; Sedex é sempre pago.",
-        "Probiótica. Cupom PRO10EMCASACOMCECILIA, até 10%. Frete: o valor aparece no carrinho com o CEP.",
-        "Dr. Peanut. Cupom DREMCASACOMCECILIA, 10% em todo o site. Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul, e de R$ 199,90 nas demais regiões, contado depois do cupom.",
+        "Probiótica. Cupom PRO10EMCASACOMCECILIA, até 10%. Frete grátis a partir de R$ 104 em São Paulo capital, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, contado depois do cupom.",
+        "Dr. Peanut. Cupom DREMCASACOMCECILIA, 10% em todo o site. Frete grátis a partir de R$ 149,90 no Sul e no Sudeste, e de R$ 199,90 no Centro-Oeste, no Norte e no Nordeste, contado depois do cupom.",
         "Skelt. Cupom SKEMCASACOMCECILIA, 10% em todo o site, mais 5% no Pix sobre o total com cupom. Frete na seção Lembrança de beleza."
       ],
       "links": [
@@ -444,6 +438,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom de cada loja? Black Skull: CECILIA10, com 10% OFF ([cupom Black Skull](/cupons/black-skull)). Max Titanium: MAX10EMCASACOMCECILIA, com até 10% OFF ([cupom Max Titanium](/cupons/max-titanium)). Probiótica: PRO10EMCASACOMCECILIA, com até 10% OFF ([cupom Probiótica](/cupons/probiotica)). Dr. Peanut: DREMCASACOMCECILIA, com 10% OFF ([cupom Dr. Peanut](/cupons/dr-peanut)). Skelt: SKEMCASACOMCECILIA, com 10% OFF ([cupom Skelt](/cupons/skelt)). Cada código vale só no site da própria loja, em todas as formas de pagamento.",
         "Dá para dar suplemento de presente? Este guia não trata de saúde e não diz se um suplemento é indicado para alguém. Quem tem objetivo de saúde fala com nutricionista ou médico antes de comprar para outra pessoa.",
         "Como escolher o tamanho da camiseta? Use a tabela de medidas da página do produto e confira o tamanho no carrinho.",
         "Os preços mudam? Sim. Os preços são os do guia, e o carrinho mostra o valor final.",
@@ -474,5 +469,6 @@
     {
       "slug": "presente-natal-quem-gosta-de-cozinhar"
     }
-  ]
+  ],
+  "metaDescription": "Presentes para quem treina de 5 lojas parceiras, por faixa de preço, com o código de cada loja: 10% OFF, e até 10% OFF na Max e na Probiótica."
 }
