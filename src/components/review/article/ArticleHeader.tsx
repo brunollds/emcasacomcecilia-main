@@ -58,49 +58,48 @@ export function ArticleHeader({
   const stars = typeof rawStars === 'number' ? rawStars.toFixed(1) : undefined;
 
   return (
-    <header data-article="topo" className="mb-10 text-marinho">
-      <nav aria-label={copy.breadcrumbLabel}>
-        <ol className="flex flex-wrap items-center gap-1 text-[13px] font-bold leading-[18px] text-marinho-suave">
-          {breadcrumbs.map(({ name, href }, index) => (
-            <Fragment key={href}>
-              <li>
-                <Link href={href} className={`flex min-h-11 items-center underline underline-offset-[3px] hover:text-marinho ${FOCUS_RING}`}>
-                  {name}
-                </Link>
-              </li>
-              <li aria-hidden="true" className={`flex ${index === breadcrumbs.length - 1 ? 'max-md:hidden' : ''}`}>
-                <ChevronRight className="h-3.5 w-3.5 rtl:-scale-x-100" />
-              </li>
-            </Fragment>
-          ))}
-          {/* No celular, o título ocuparia uma linha só dele logo acima do h1: na tela, a trilha para na lista; o leitor de
-              tela e o JSON-LD seguem com o artigo. No computador, ele cabe na mesma linha. */}
-          <li aria-current="page" className="text-marinho max-md:sr-only md:max-w-full md:min-w-0 md:truncate">
-            {review.title}
-          </li>
-        </ol>
-      </nav>
+    <header data-article="topo" className="mb-7 text-marinho md:mb-10">
+      <div className="flex flex-wrap items-center gap-x-1.5 gap-y-0.5 text-[13px] font-bold leading-5 text-marinho-suave">
+        <nav aria-label={copy.breadcrumbLabel}>
+          <ol className="flex flex-wrap items-center gap-1">
+            {breadcrumbs.map(({ name, href }, index) => (
+              <Fragment key={href}>
+                <li>
+                  <Link
+                    href={href}
+                    className={`relative inline-flex items-center py-0.5 underline underline-offset-[3px] hover:text-marinho after:absolute after:-inset-y-2 after:inset-x-0 md:min-h-9 md:py-0 ${FOCUS_RING}`}
+                  >
+                    {name}
+                  </Link>
+                </li>
+                <li aria-hidden="true" className={`flex ${index === breadcrumbs.length - 1 ? 'max-md:hidden' : ''}`}>
+                  <ChevronRight className="h-3.5 w-3.5 rtl:-scale-x-100" />
+                </li>
+              </Fragment>
+            ))}
+            {/* No celular, o título ocuparia uma linha só dele logo acima do h1: na tela, a trilha para antes dele; o leitor de
+                tela e o JSON-LD seguem com o artigo. No computador, ele cabe na mesma linha. */}
+            <li aria-current="page" className="text-marinho max-md:sr-only md:max-w-[26ch] md:min-w-0 md:truncate lg:max-w-[38ch]">
+              {review.title}
+            </li>
+          </ol>
+        </nav>
 
-      <p className="mt-2 flex flex-wrap items-center gap-x-2 text-[13px] font-extrabold leading-[18px] tracking-[0.06em] uppercase">
-        {/* O ponto fica com o tipo: numa quebra de linha, ele não abre a linha de baixo. */}
-        <span className="whitespace-nowrap">
-          <span>{kindLabel}</span>
-          {showType && <span aria-hidden="true"> ·</span>}
+        <span className="inline-flex items-center gap-1.5 text-xs font-extrabold tracking-[0.05em] text-marinho uppercase">
+          <span aria-hidden="true">·</span>
+          <span>{showType ? review.type : kindLabel}</span>
         </span>
-        {showType && <span className="text-marinho-suave">{review.type}</span>}
-      </p>
+      </div>
 
-      <h1 className="mt-3 max-w-5xl font-condensada text-[40px] leading-[1.02] font-black text-balance font-stretch-extra-condensed md:text-6xl">
+      <h1 className="mt-2.5 max-w-5xl font-condensada text-[37px] leading-[1.03] font-black text-balance font-stretch-extra-condensed md:mt-3 md:text-6xl">
         <span className="marca-texto marca-texto-entra">{review.title}</span>
       </h1>
 
-      <p className="mt-3 max-w-3xl font-editorial text-[13px] leading-snug text-marinho-suave md:mt-4 md:text-base md:leading-relaxed">
+      <p className="mt-2.5 max-w-3xl font-editorial text-[13px] leading-snug text-marinho-suave md:mt-4 md:text-base md:leading-relaxed">
         {review.description}
       </p>
 
-      {/* No celular, o "Ouvir" curto vem na linha do autor e da data (a data com o mês abreviado); o tempo de leitura,
-          a atualização e a nota descem para a linha de baixo. */}
-      <div className="mt-5 flex flex-wrap items-center gap-x-3 gap-y-2 text-sm font-semibold text-marinho-suave md:gap-x-4">
+      <div className="mt-3.5 flex flex-wrap items-center gap-x-2.5 gap-y-1.5 text-[13px] font-semibold text-marinho-suave md:mt-5 md:gap-x-4 md:text-sm">
         <span className="font-extrabold text-marinho">
           {authors.map((author, index) => (
             <Fragment key={author.name}>
@@ -122,39 +121,45 @@ export function ArticleHeader({
           </time>
         )}
         {updated && (
-          <span className="max-md:order-1">
-            {ui.updatedAt} <time dateTime={updated}>{formatDate(updated, couponCopyLocale)}</time>
+          <span>
+            {ui.updatedAt}{' '}
+            <time dateTime={updated}>
+              <span className="md:hidden">{formatDate(updated, couponCopyLocale, 'short')}</span>
+              <span className="max-md:hidden">{formatDate(updated, couponCopyLocale)}</span>
+            </time>
           </span>
         )}
-        <span className="inline-flex items-center gap-1.5 max-md:order-1">
-          <Clock aria-hidden="true" className="h-4 w-4" />
-          {ui.readTime(readTime)}
-        </span>
         {stars && (
-          <span className="inline-flex items-center gap-1 font-extrabold text-marinho max-md:order-1">
+          <span className="inline-flex items-center gap-1 font-extrabold text-marinho">
             <Star aria-hidden="true" className="h-4 w-4 fill-amarelo-cupom" />
             <span aria-hidden="true">{stars}</span>
             <span className="sr-only">{copy.ratingLabel(stars)}</span>
           </span>
         )}
-        <TextToSpeechButton
-          text={speechText}
-          label={getShellCopy(couponCopyLocale).listenAudio}
-          shortLabel={copy.listenShort}
-          pauseLabel={copy.listenPause}
-          resumeLabel={copy.listenResume}
-          stopLabel={copy.listenStop}
-          variant="d2"
-        />
+        <div className="inline-flex items-center gap-2.5">
+          <span className="inline-flex items-center gap-1">
+            <Clock aria-hidden="true" className="h-3.5 w-3.5 md:h-4 md:w-4" />
+            {ui.readTime(readTime)}
+          </span>
+          <TextToSpeechButton
+            text={speechText}
+            label={getShellCopy(couponCopyLocale).listenAudio}
+            shortLabel={copy.listenShort}
+            pauseLabel={copy.listenPause}
+            resumeLabel={copy.listenResume}
+            stopLabel={copy.listenStop}
+            variant="d2"
+          />
+        </div>
       </div>
 
       {review.changelog && review.changelog.length > 0 && (
-        <div className="mt-3">
+        <div className="mt-2.5">
           <ChangelogDetails entries={review.changelog} variant="d2" />
         </div>
       )}
       {unanchoredNotes.length > 0 && (
-        <div className="mt-4 flex flex-wrap gap-2">
+        <div className="mt-3 flex flex-wrap gap-2">
           {unanchoredNotes.map((note) => (
             <EditorialNotePill key={note.id || note.label} note={note} labels={noteLabels} variant="d2" />
           ))}
@@ -162,7 +167,7 @@ export function ArticleHeader({
       )}
 
       {Object.keys(languageLinks).length > 1 && (
-        <div className="mt-5">
+        <div className="mt-3.5 md:mt-5">
           <LanguageSwitcher currentLocale={couponCopyLocale} links={languageLinks} />
         </div>
       )}
@@ -184,7 +189,7 @@ export function ArticleHeader({
       {/* Os cartões das várias lojas usam a largura toda do topo; uma loja só (a do recorte ou a que sobrou das pausadas),
           a da introdução. */}
       {storeBlocks.length > 0 ? (
-        <div className={storeBlocks.length > 1 ? 'mt-8' : 'mt-8 max-w-3xl'}>
+        <div className={storeBlocks.length > 1 ? 'mt-5 md:mt-8' : 'mt-5 max-w-3xl md:mt-8'}>
           <ArticleStoreCodes
             variant="top"
             blocks={storeBlocks}
@@ -193,7 +198,7 @@ export function ArticleHeader({
           />
         </div>
       ) : storeBlock && (
-        <div className="mt-8 max-w-3xl">
+        <div className="mt-5 max-w-3xl md:mt-8">
           <ArticleCouponCutout
             variant="top"
             block={storeBlock}
@@ -204,7 +209,7 @@ export function ArticleHeader({
         </div>
       )}
 
-      <figure className="mt-8">
+      <figure className="mt-5 md:mt-8">
         <ReviewHeroImage
           src={reviewImage}
           alt={reviewImageAlt}

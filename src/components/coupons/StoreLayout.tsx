@@ -156,16 +156,28 @@ export function StoreCutout({
 }
 
 // Códigos longos (EMCASACOMCECILIA) não cabem a 34px num celular de 360px.
-const cutoutCodeSize = (code: string) =>
-  code.length <= 10
+const cutoutCodeSize = (code: string, compactMobile = false) => {
+  if (compactMobile) {
+    return code.length <= 10
+      ? 'text-[22px] leading-7 tracking-[0.05em] md:text-[34px] md:leading-[42px] md:tracking-[0.06em]'
+      : code.length <= 13
+        ? 'text-[20px] leading-7 tracking-[0.03em] md:text-[28px] md:leading-9 md:tracking-[0.04em]'
+        : 'text-[18px] leading-6 tracking-[0.02em] md:text-[22px] md:leading-8';
+  }
+  return code.length <= 10
     ? 'text-[34px] leading-[42px] tracking-[0.06em]'
     : code.length <= 13
       ? 'text-[28px] leading-9 tracking-[0.04em]'
       : 'text-[22px] leading-8 tracking-[0.02em]';
+};
 
-export function CutoutCode({ code }: { code: string }) {
+export function CutoutCode({ code, compactMobile = false }: { code: string; compactMobile?: boolean }) {
   return (
-    <code dir="ltr" className={`block break-all text-center font-codigo font-extrabold ${cutoutCodeSize(code)}`}>{code}</code>
+    <code
+      className={`block break-all text-center font-codigo font-extrabold ${compactMobile ? 'max-md:text-start' : ''} ${cutoutCodeSize(code, compactMobile)}`}
+    >
+      <bdi dir="ltr">{code}</bdi>
+    </code>
   );
 }
 

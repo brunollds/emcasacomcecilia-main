@@ -1,5 +1,8 @@
+'use client';
+
+import { useId, useState } from 'react';
 import Link from 'next/link';
-import { Globe } from 'lucide-react';
+import { ChevronDown, Globe } from 'lucide-react';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { Locale } from '@/lib/i18n/locales';
 
@@ -10,7 +13,7 @@ type LanguageSwitcherProps = {
   links: Partial<Record<ContentLocale, string>>;
 };
 
-const labels: Record<ContentLocale, string> = {
+const desktopLabels: Record<ContentLocale, string> = {
   pt: 'Leia este conteúdo em outros idiomas:',
   en: 'Read this content in other languages:',
   es: 'Lee este contenido en otros idiomas:',
@@ -24,6 +27,20 @@ const labels: Record<ContentLocale, string> = {
   ar: 'اقرأ هذا المحتوى بلغات أخرى:',
 };
 
+const mobileLabels: Record<ContentLocale, string> = {
+  pt: 'Ler em outro idioma',
+  en: 'Read in another language',
+  es: 'Leer en otro idioma',
+  fr: 'Lire dans une autre langue',
+  de: 'In anderer Sprache lesen',
+  it: 'Leggi in un’altra lingua',
+  ko: '다른 언어로 읽기',
+  ja: 'ほかの言語で読む',
+  'zh-hant': '以其他語言閱讀',
+  'zh-hans': '使用其他语言阅读',
+  ar: 'اقرأ بلغة أخرى',
+};
+
 const languageNames: Record<ContentLocale, string> = {
   pt: 'Português', en: 'English', es: 'Español', fr: 'Français', de: 'Deutsch',
   it: 'Italiano',
@@ -31,16 +48,42 @@ const languageNames: Record<ContentLocale, string> = {
   ar: 'العربية',
 };
 
-// Os outros idiomas do artigo, no topo dele (o seletor do menu é outro, no Navbar).
+// Os outros idiomas do artigo, no topo dele (o seletor do menu é outro, no Navbar): recolhido em 1 linha no celular
+// e aberto em linha no computador, com uma única lista de <a hreflang> presente no HTML inicial.
 export function LanguageSwitcher({ currentLocale, links }: LanguageSwitcherProps) {
+  const [open, setOpen] = useState(false);
+  const panelId = useId();
   const alternatives = (Object.keys(links) as ContentLocale[]).filter((locale) => locale !== currentLocale && links[locale]);
   return (
-    <div className="flex flex-wrap items-center gap-x-2 rounded-[10px] border-2 border-marinho bg-white px-4 py-1.5 text-sm text-marinho">
-      <span className="flex items-center gap-1.5 font-extrabold">
+    <div className="rounded-[10px] border-2 border-marinho bg-white text-[13px] text-marinho md:flex md:flex-wrap md:items-center md:gap-x-2 md:px-4 md:py-1.5 md:text-sm">
+      <button
+        type="button"
+        aria-expanded={open}
+        aria-controls={panelId}
+        onClick={() => setOpen((prev) => !prev)}
+        className={`flex min-h-11 w-full cursor-pointer items-center justify-between gap-2 rounded-[8px] px-3.5 py-1.5 text-start font-extrabold md:hidden ${FOCUS_RING}`}
+      >
+        <span className="flex items-center gap-1.5">
+          <Globe aria-hidden="true" size={15} className="shrink-0" />
+          <span>{mobileLabels[currentLocale]}</span>
+          <bdi dir="ltr" className="font-bold text-marinho-suave">({alternatives.length})</bdi>
+        </span>
+        <ChevronDown
+          aria-hidden="true"
+          size={16}
+          className={`shrink-0 transition-transform motion-reduce:transition-none ${open ? 'rotate-180' : ''}`}
+        />
+      </button>
+
+      <span className="flex items-center gap-1.5 font-extrabold max-md:hidden">
         <Globe aria-hidden="true" size={16} />
-        {labels[currentLocale]}
+        {desktopLabels[currentLocale]}
       </span>
-      <div className="flex flex-wrap items-center gap-x-2">
+
+      <div
+        id={panelId}
+        className={`${open ? 'max-md:flex' : 'max-md:hidden'} flex flex-wrap items-center gap-x-2 max-md:border-t max-md:border-marinho/15 max-md:px-3.5 max-md:py-1.5`}
+      >
         {alternatives.map((locale, index) => (
           <span key={locale} className="inline-flex items-center gap-2">
             <Link
