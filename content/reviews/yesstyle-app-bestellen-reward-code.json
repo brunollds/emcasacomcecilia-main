@@ -4,7 +4,7 @@
   "locale": "de",
   "translationKey": "yesstyle-app",
   "title": "YesStyle-App: So bestellen Sie und wo der Reward Code CECILIA010 hingehört",
-  "seoTitle": "YesStyle-App: So bestellen Sie und wo der CECILIA010 hingehört",
+  "seoTitle": "YesStyle-App: So bestellen Sie, Reward Code CECILIA010",
   "type": "Anleitung",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -78,13 +78,11 @@
       "links": [
         {
           "label": "App Store",
-          "href": "https://apps.apple.com/br/app/id868675907",
-          "sponsored": true
+          "href": "https://apps.apple.com/br/app/id868675907"
         },
         {
           "label": "Google Play",
-          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-          "sponsored": true
+          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
         }
       ]
     },
@@ -179,16 +177,28 @@
       ],
       "postParagraphs": [
         "Besteht das Problem weiter, nutzen Sie das YesStyle-Hilfecenter. Zur Sicherheit des Shops antwortet [Ist YesStyle seriös?](/de/reviews/ist-yesstyle-serioes-und-sicher)."
-      ]
+      ],
+      "emphasis": "Die App ist nur ein anderer Weg zum Bestellen: CECILIA010 gilt auf der Website genauso wie in der App, und was die App zusätzlich bringen kann, sind die 50 YS-Punkte beim ersten Download. Wer die Website bevorzugt, verliert nichts."
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
         "Hat YesStyle eine App? Ja, für Android und iPhone, über die offiziellen Links von Google Play und App Store. Der Shop gibt an, dass man nur über diese beiden Links herunterladen soll.",
+        "Wie lautet der YesStyle-Reward-Code in der App? CECILIA010: 5 % auf die erste und 2 % auf die folgenden Bestellungen. Auf dem Bildschirm „Enter Code“ kommt er in das Feld „Influencer / Rewards Code“, neben „Coupon Code“, und die Zusammenfassung zeigt die Zeile „Influencer Code Discount“.",
         "Gilt der CECILIA010 in der App? Ja. Tippen Sie im Checkout auf „Enter Code“ und geben Sie den Code in das Feld „Influencer / Rewards Code“ ein. Er ist ein Reward Code mit bis zu 5 % extra und lässt sich mit dem Gutschein des Shops kombinieren, der in das Feld „Coupon Code“ gehört.",
         "Bekommt man Punkte für den Download der App? Ja, beim ersten Mal: 50 YS-Punkte beim ersten Download der App mit Anmeldung, einmalig pro Konto. Eine Neuinstallation oder ein anderes Gerät bringt sie nicht erneut, und die Punkte sind nicht der Reward Code.",
         "Hat die App einen exklusiven Gutschein? Der Shop gibt an, einmal im Monat einen 24-Stunden-Gutschein nur für Bestellungen in der App zu veröffentlichen. Beim Test der App war keiner aktiv; die aktiven Gutscheine stehen auf der Seite des Shops."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Sie kaufen lieber am Smartphone ein und wollen wissen, wo der Reward Code CECILIA010 in der App hingehört.",
+      "Sie haben schon ein Konto auf der Website: Es ist dasselbe in der App, und der Warenkorb ist einer, wenn Sie angemeldet sind."
+    ],
+    "skipIf": [
+      "Sie brauchen die Lieferung in ein Land, das der Shop nicht beliefert: Bestellen in der App ändert die Zielregeln nicht.",
+      "Sie rechnen mit einem App-Gutschein: Laut Shop erscheint einer pro Monat zu einer zufälligen Uhrzeit, es kann also keiner aktiv sein."
+    ]
+  }
 }

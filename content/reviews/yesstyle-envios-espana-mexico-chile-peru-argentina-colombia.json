@@ -221,7 +221,8 @@
           "label": "Ver el cupón de YesStyle de hoy y el código de recompensa CECILIA010",
           "href": "/es/coupons/yesstyle"
         }
-      ]
+      ],
+      "emphasis": "Antes de pagar, la tabla de envío ya te da plazo y costo en los seis países. Lo que más pesa en la decisión es el impuesto: solo en España viene en el precio."
     },
     {
       "heading": "Preguntas frecuentes",
@@ -235,7 +236,7 @@
         "¿Cómo devolver un producto de YesStyle? Pide el número de RMA en un máximo de 14 días desde la recepción y envía el paquete en un máximo de 30 días desde la emisión del RMA. Según la política de la tienda, los productos de belleza abiertos y los suplementos no se devuelven, y una reacción en la piel no da derecho a reembolso.",
         "¿YesStyle envía a toda España? No: el envío no incluye las Baleares, las Canarias (Tenerife incluida), Ceuta ni Melilla.",
         "¿Por qué el plazo cambia de un pedido a otro? Porque suma la disponibilidad de los productos, que puede llevar hasta 30 días hábiles, al plazo del envío, y el pedido puede salir en más de un envío; si sale todo junto, solo cuando el último producto está disponible.",
-        "¿Dónde están los cupones y el código de recompensa de YesStyle? En la página de YesStyle de este sitio, con los cupones vigentes y CECILIA010, que va en el campo Código de Recompensa (Reward Code)."
+        "¿Cuál es el código de recompensa de YesStyle? CECILIA010 da hasta un 5 % en la primera compra y un 2 % en las siguientes, y va en un campo propio, Reward Code, en el checkout. Se suma a un cupón de la tienda, y los cupones del momento están en la página de YesStyle de este sitio."
       ]
     }
   ],
@@ -258,5 +259,15 @@
     {
       "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Pide desde España si quieres el IVA del 21% ya en el precio: es el único de los seis países donde viene incluido.",
+      "Pide desde México o España si te importa el plazo: son los más cortos de la tabla, de 10 a 13 y de 10 a 15 días hábiles."
+    ],
+    "skipIf": [
+      "Descarta pedir desde las Baleares, las Canarias, Ceuta o Melilla: el envío no las incluye.",
+      "Descarta pedir con prisa desde Chile, Perú, Argentina o Colombia: el envío Standard tarda de 15 a 27 días hábiles."
+    ]
+  }
 }

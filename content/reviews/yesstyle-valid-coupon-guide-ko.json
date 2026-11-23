@@ -4,6 +4,13 @@
   "title": "YesStyle 쿠폰 찾는 법과 CECILIA010 함께 쓰는 법",
   "type": "가이드 & 쿠폰",
   "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
   "description": "YesStyle 할인 쿠폰을 찾는 실전 가이드. Coupon Code와 Reward Code의 차이를 알고, CECILIA010을 첫 구매 5%, 이후 구매 2%로 쓰는 방법을 안내합니다.",
   "metaDescription": "지금 유효한 YesStyle 쿠폰을 찾는 곳, 만료된 코드를 피하는 법, 리워드 코드 CECILIA010을 함께 써서 최대 5% 더 절약하는 방법을 정리했습니다.",
   "publishedAt": "24 Jul 2026",
@@ -28,43 +35,13 @@
   "imageAlt": "분홍색 헤어밴드를 착용한 Cecília가 분홍색 Abib 하이드로겔 아이패치의 열린 용기를 보여 주는 자체 영상 장면. 제목은 “쿠폰 찾고 함께 쓰는 법”, 부제는 “매장 쿠폰 + 리워드 코드”이며 리워드 코드 CECILIA010가 표시되어 있다.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "결제 단계에서 실수하지 않도록 Coupon Code와 Reward Code의 차이를 알려 줍니다",
-    "이달의 쿠폰과 CECILIA010을 함께 쓰는 중복 적용(스태킹) 방법을 설명합니다",
-    "공식 인플루언서 코드로 최대 5%를 더 절약하는 방법을 보여 줍니다",
-    "가짜이거나 만료된 코드를 피하도록 진행 중인 YesStyle 쿠폰을 찾는 곳을 정리했습니다",
-    "현재 유효한 쿠폰 목록이 있는 Em Casa com Cecília 최신 페이지로 안내합니다"
-  ],
-  "cons": [
-    "월별 프로모션 쿠폰은 기한이 짧습니다(보통 72시간에서 30일)",
-    "CECILIA010 할인율은 첫 구매 5%, 재구매 2%로 다릅니다",
-    "결제 총액은 사이트에서 고른 통화로 YesStyle의 환율에 따라 표시되며, 카드사나 은행에서 해외 결제 수수료를 받을 수 있습니다"
-  ],
-  "pullQuote": "Reward Code 칸에 CECILIA010을 입력하세요. 첫 구매는 5%, 이후 구매는 2% 할인입니다. 프로모션에서 허용하면 Coupon Code 칸에 쿠폰도 입력하고, 주문 요약에서 두 할인을 확인하세요.",
-  "productSpec": [
-    {
-      "key": "쇼핑몰",
-      "value": "YesStyle (공식)"
-    },
-    {
-      "key": "리워드 코드",
-      "value": "CECILIA010 (최대 5% 추가 할인)",
-      "highlight": true
-    },
-    {
-      "key": "결제 화면 입력란",
-      "value": "Reward Code / 리워드 코드"
-    },
-    {
-      "key": "중복 적용",
-      "value": "적용 대상 프로모션 쿠폰과 함께 쓸 수 있습니다. 결제 화면에서 확인하세요."
-    }
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
-    "text": "저희 페이지의 YesStyle 쿠폰 목록은 {yesstyle:verifiedAt} 기준입니다.",
-    "label": "사용 가능한 YesStyle 쿠폰 보기",
-    "url": "/ko/coupons/yesstyle",
-    "sponsored": false
+    "text": "Reward Code 칸에 CECILIA010을 입력하세요. 첫 구매 5%, 이후 구매 2%의 추가 할인이 적용됩니다.",
+    "label": "YesStyle로 이동",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
@@ -72,6 +49,18 @@
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-ko"
+    },
+    {
+      "slug": "yesstyle-first-order-cecilia010-ko"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ko"
+    },
+    {
+      "slug": "yesstyle-app-reward-code-ko"
+    },
+    {
+      "slug": "yesstyle-shipping-korea-ko"
     }
   ],
   "contentSections": [
@@ -103,7 +92,7 @@
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "Coupon Code와 Reward Code 입력란이 보이는 YesStyle 결제 화면.",
       "imageCaption": "결제 화면의 두 입력란: Coupon Code(프로모션 쿠폰용)와 Reward Code(CECILIA010용). 화면 속 쿠폰은 이미 끝난 캠페인의 쿠폰입니다.",
-      "imageFit": "cover",
+      "imageFit": "contain",
       "bullets": [
         "1. \"Coupon Code\" 칸: YesStyle 사이트의 프로모션 쿠폰(세일 쿠폰이나 10%~15% 할인 캠페인 등)을 입력하는 곳입니다.",
         "2. \"Reward Code\" / \"Influencer Code\" 칸: 인플루언서 공식 코드 CECILIA010을 입력하는 곳으로, 첫 구매는 5%, 이후 구매는 2%가 추가로 할인됩니다."
@@ -144,7 +133,7 @@
       "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
       "imageAlt": "YesStyle 쇼핑몰의 장바구니 화면.",
       "imageCaption": "할인 코드를 입력하기 전, YesStyle 장바구니 요약 화면.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "3단계: Coupon Code 칸에 프로모션 쿠폰 입력",
@@ -161,12 +150,13 @@
     {
       "heading": "5단계: 합산된 할인을 확인하고 주문 완료",
       "paragraphs": [
-        "결제하기 전에 주문 요약에서 두 할인, 즉 쿠폰과 CECILIA010이 반영되었는지 확인하세요."
+        "결제하기 전에 주문 요약에서 두 할인, 즉 쿠폰과 CECILIA010이 반영되었는지 확인하세요.",
+        "결제 총액은 사이트에서 고른 통화로 YesStyle의 환율에 따라 표시되며, 카드사나 은행에서 해외 결제 수수료를 받을 수 있습니다."
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
       "imageAlt": "합산된 할인이 보이는 YesStyle 최종 주문 요약.",
       "imageCaption": "결제 요약에서 두 가지 조합을 확인: 프로모션 쿠폰과 리워드 코드 CECILIA010이 모두 적용되었습니다. 화면 속 쿠폰은 이미 끝난 캠페인의 쿠폰입니다.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "진행 중인 YesStyle 쿠폰을 찾는 곳",
@@ -186,7 +176,8 @@
           "href": "https://ystyle.co/rQYQv",
           "sponsored": true
         }
-      ]
+      ],
+      "emphasis": "쿠폰은 주마다 바뀌고 CECILIA010은 그대로입니다. 저는 먼저 Reward Code 칸에 리워드 코드를 넣고, 그다음에 오늘 결제 화면이 받아 주는 쿠폰을 확인합니다."
     },
     {
       "heading": "YesStyle 쿠폰 자주 묻는 질문",
@@ -195,7 +186,7 @@
       ],
       "bullets": [
         "YesStyle의 Coupon Code와 Influencer/Rewards Code는 무엇이 다른가요? Coupon Code는 프로모션 쿠폰으로 \"Coupon Code\" 칸에 입력하며, 기한과 규칙이 각각 따로 있어 최소 구매 금액, 지역 제한, 적용 제외 상품이 있을 수 있습니다. CECILIA010은 리워드 코드(Influencer/Rewards Code)로 별도의 \"Reward Code\" 칸에 입력하며, 첫 구매 5%, 이후 구매 2%입니다. 프로모션 규칙이 허용하면 주문 요약에 두 할인이 함께 표시될 수 있습니다.",
-        "YesStyle의 인플루언서 코드란 무엇인가요? 리워드 코드(Reward Code)로, 결제 화면에서 쿠폰 칸과 분리된 전용 칸에 입력합니다. 저희 코드는 CECILIA010이며 Reward Code 칸에 입력합니다.",
+        "YesStyle의 리워드 코드(인플루언서 코드)는 무엇인가요? CECILIA010입니다. 첫 구매 5%, 이후 구매 2%가 추가되고 Reward Code 칸에 입력하며, Coupon Code 칸의 쇼핑몰 쿠폰 한 장과 함께 쓸 수 있습니다. Cecília의 인플루언서 코드입니다.",
         "YesStyle 쿠폰에는 유효 기간이 있나요? 네. 프로모션 쿠폰에는 유효 기간이 있고 예고 없이 만료될 수 있습니다. 72시간이나 96시간처럼 며칠만 진행되는 캠페인도 있고, 캠페인마다 진행 기간이 다릅니다. 결제를 마치기 전에 프로모션 규칙에서 유효 기간, 최소 구매 금액, 지역, 적용 대상 상품을 확인하고 결제 화면에 할인이 반영되었는지 확인하세요.",
         "YesStyle 쿠폰의 공식 규칙은 어디서 볼 수 있나요? 일반 규칙은 YesStyle 고객센터의 \"General Terms and Conditions for Coupons\" 페이지에 있습니다. 개별 캠페인의 조건은 고객센터에서 \"Promotions\" 항목을 열면 유효 기간, 최소 구매 금액, 참여 지역, 제외 대상이 게시되어 있습니다. 조건은 바뀔 수 있으니 결제 전에 프로모션 배너와 주문 요약도 함께 확인하세요.",
         "한 주문에 프로모션 쿠폰을 두 개 이상 쓸 수 있나요? 아니요. YesStyle 일반 규칙상 한 주문(또는 합산 주문)에는 Coupon Code를 하나만 쓸 수 있습니다. 하지만 CECILIA010은 Coupon Code가 아니라 별도의 \"Reward Code\" 칸에 입력합니다. 따라서 캠페인이 해당되고 결제 화면이 둘 다 받아 주면, 프로모션 쿠폰과 CECILIA010을 함께 쓸 수 있습니다."
@@ -216,5 +207,15 @@
   "translationKey": "yesstyle-coupon-guide",
   "category": "cupons-como-usar",
   "isNew": false,
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-06",
+  "decision": {
+    "takeIf": [
+      "YesStyle 결제 화면에 쿠폰을 들고 왔는데 각 코드를 어느 칸에 넣는지 모르는 분.",
+      "쿠폰이 거절돼서 다른 쿠폰을 찾기 전에 이유부터 알고 싶은 분."
+    ],
+    "skipIf": [
+      "바로 복사해 쓸 쿠폰을 찾는 분: 이 글은 방법을 알려 드리고, 지금 쓸 수 있는 목록은 YesStyle 쿠폰 페이지에 있습니다.",
+      "쇼핑몰 쿠폰 두 개를 겹쳐 쓰려는 분: YesStyle은 주문당 Coupon Code를 하나만 받고, 별도 칸에 들어가는 것은 CECILIA010뿐입니다."
+    ]
+  }
 }

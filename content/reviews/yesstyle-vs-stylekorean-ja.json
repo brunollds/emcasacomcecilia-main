@@ -32,7 +32,7 @@
     {
       "heading": "まずは結論",
       "paragraphs": [
-        "リスクを避けたいならYesStyleです。Trustpilotの評価は4.4（104,969件）で、StyleKoreanの1.9（137件）を上回ります。CECILIA010で最大5%が上乗せされます。送料と諸費用は計算に含まれていません。表にある配送先以外にお住まいの方は、チェックアウトで住所への配送の可否と、送料や諸費用がいくらかかるかを確認してください。"
+        "リスクを避けたいならYesStyleです。Trustpilotの評価は4.4（105,442件）で、StyleKoreanの1.9（137件）を上回ります。CECILIA010で最大5%が上乗せされます。送料と諸費用は計算に含まれていません。表にある配送先以外にお住まいの方は、チェックアウトで住所への配送の可否と、送料や諸費用がいくらかかるかを確認してください。"
       ]
     },
     {
@@ -41,7 +41,7 @@
         "価格を見る前に、注文の相手がどんなショップかを確認しましょう。2店のあいだには、評判にかなりの差があります。"
       ],
       "comparisonTable": {
-        "caption": "11月8日時点のTrustpilotのプロフィール。",
+        "caption": "Trustpilotのプロフィール。11月時点。",
         "headers": [
           "ショップ",
           "Trustpilotの評価",
@@ -51,7 +51,7 @@
           [
             "YesStyle",
             "4.4",
-            "104,969"
+            "105,442"
           ],
           [
             "StyleKorean",
@@ -338,6 +338,7 @@
     {
       "heading": "よくある質問",
       "bullets": [
+        "YesStyleのリワードコードは何ですか？ CECILIA010は初回注文で5%、2回目以降は2%が上乗せされ、終了日はありません。チェックアウトのReward Codeの欄に入力し、YesStyle自身のクーポン1枚と併用できます。",
         "StyleKoreanのコードはありますか？ ありません。CECILIA010はYesStyle専用で、StyleKoreanでは使えません。",
         "StyleKoreanはYesStyleの系列ですか？ いいえ。StyleKoreanは韓国のSilicon2が、YesStyleは香港のYesAsiaが運営しています。",
         "自分の国に配送してもらえますか？ この記事の表には、ポルトガル、アメリカ、イギリス、ドイツがあります。それ以外の国は、[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)で配送の条件を確認してください。",
@@ -379,5 +380,5 @@
       "slug": "yesstyle-reward-code-cecilia010-ja"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

@@ -28,19 +28,8 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-  "pros": [
-    "Rutina corta: tres productos y unos 15 minutos, casi todos de espera con el parche puesto",
-    "Parche de hidrogel fresquito, con superficie texturizada que ayuda a que no se resbale",
-    "Crema con textura de pomada que se extiende fácil y deja un toque aterciopelado",
-    "Mascarilla de labios con espátula y un olorcito a dulce que, para mí, no resultó empalagoso",
-    "Productos coreanos vendidos por la propia YesStyle, que declara su originalidad, con el CECILIA010 sumando descuento en el campo Reward Code"
-  ],
-  "cons": [
-    "El PDRN y el retinal actúan de forma gradual: Abib indica la crema para firmeza y líneas finas, es decir, un trabajo a largo plazo.",
-    "El retinal pide protector solar de día: quien, como yo, nunca lo ha usado tendrá que empezar",
-    "La primera vez, dudé sobre cuál era el lado correcto del parche",
-    "Compra internacional: el costo del envío y el plazo dependen del destino"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Respuesta rápida",
@@ -118,7 +107,7 @@
       "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
       "imageAlt": "Cecília sosteniendo un parche de hidrogel rosado de Abib con el tarro abierto en la otra mano",
       "imageCaption": "El parche de hidrogel de Abib viene en un tarro con 60 unidades y es fresquito al tocar la piel.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Booster Crème 2.5: textura de pomada que se vuelve terciopelo",
@@ -140,7 +129,7 @@
       "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
       "imageAlt": "Cecília sosteniendo el tubo del Abib PDRN Volume Fill-it Booster Crème 2.5",
       "imageCaption": "El tubo de 30 ml del Booster Crème 2.5: sale como pomada y deja la piel con un toque aterciopelado.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Lip Mask Glazed Jelly: olorcito a dulce que no empalaga",
@@ -159,7 +148,7 @@
       "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
       "imageAlt": "Cecília haciendo un piquito y sosteniendo el tarro de la mascarilla de labios Abib Glazed Jelly",
       "imageCaption": "La Lip Mask Glazed Jelly, de 11 g, tiene textura de gel y olorcito a dulce.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "PDRN y retinal: qué son y qué esperar",
@@ -224,7 +213,8 @@
         "Textura y luminosidad de la piel del rostro y del cuello;",
         "Si el retinal provoca alguna irritación con el uso continuado;",
         "Si la lip mask mantiene la hidratación de los labios durante la noche."
-      ]
+      ],
+      "emphasis": "Me gusta esta rutina porque cabe en una noche normal, sin el maratón de diez pasos. Lo que hace por mi piel, solo lo diré después de semanas de uso."
     },
     {
       "heading": "Preguntas frecuentes",
@@ -233,7 +223,7 @@
         "¿Qué es el PDRN? Es un ingrediente hecho de fragmentos de ADN, muy usado en cosméticos coreanos que, según las marcas, prometen firmeza. En la lip mask de Abib, la marca informa origen vegetal (centella asiática y ginkgo biloba).",
         "¿El retinal es lo mismo que el ácido retinoico? No. El ingrediente del parche y de la crema es retinal (retinaldehído), un derivado de la vitamina A que la piel convierte en ácido retinoico. Por eso la acción es más gradual, y pide protector solar durante el día.",
         "¿La lip mask de Abib tiene olor fuerte? Tiene un olorcito a dulce. Soy sensible a los olores fuertes, y este no me molestó.",
-        "¿Dónde uso el código CECILIA010? En el campo Reward Code del pago. Da un 5% en la primera compra y un 2% en las siguientes, y puede usarse junto con un cupón del campo Coupon Code, según las reglas de ese cupón."
+        "¿Dónde uso el CECILIA010, el código de recompensa de YesStyle? CECILIA010 da un 5% en la primera compra y un 2% en las siguientes, en el campo Reward Code del pago. Puede sumarse a un cupón de YesStyle del campo Coupon Code, según las reglas de ese cupón."
       ]
     }
   ],
@@ -256,5 +246,15 @@
     {
       "slug": "como-encontrar-cupones-yesstyle-validos"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Nunca has armado una rutina de skincare y quieres empezar poco a poco: la mía fueron tres productos y unos 15 minutos, casi todos de espera.",
+      "Recibes en un país donde YesStyle envía y no te molestan el envío y el plazo internacionales."
+    ],
+    "skipIf": [
+      "Tu país no está en la lista de envío de YesStyle: compruébalo antes de armar el carrito.",
+      "Quieres saber qué hace la rutina por tu piel: esto es solo el primer uso, y los resultados aún están por venir."
+    ]
+  }
 }

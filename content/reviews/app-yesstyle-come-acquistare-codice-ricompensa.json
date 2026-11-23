@@ -78,13 +78,11 @@
       "links": [
         {
           "label": "App Store",
-          "href": "https://apps.apple.com/br/app/id868675907",
-          "sponsored": true
+          "href": "https://apps.apple.com/br/app/id868675907"
         },
         {
           "label": "Google Play",
-          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-          "sponsored": true
+          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
         }
       ]
     },
@@ -179,16 +177,28 @@
       ],
       "postParagraphs": [
         "Se il problema persiste, consulta il centro assistenza di YesStyle. Sulla sicurezza dello shop risponde [YesStyle è affidabile?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
-      ]
+      ],
+      "emphasis": "L'app è solo un altro modo di acquistare: il CECILIA010 vale uguale sul sito e nell'app, e ciò che l'app può aggiungere sono i 50 punti YS del primo download. Se preferisci il sito, non perdi nulla."
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
         "YesStyle ha un'app? Sì, per Android e iPhone, nei link ufficiali di Google Play e dell'App Store. Lo shop dice di scaricarla solo da questi due.",
+        "Qual è il codice ricompensa di YesStyle nell'app? CECILIA010: 5% sul primo ordine e 2% sui successivi. Nella schermata \"Enter Code\" va nel campo \"Influencer / Rewards Code\", accanto a \"Coupon Code\", e il riepilogo mostra la riga \"Influencer Code Discount\".",
         "Il CECILIA010 vale nell'app? Sì. Al checkout, tocca \"Enter Code\" e digita il codice nel campo \"Influencer / Rewards Code\". È un codice ricompensa, con fino al 5% in più, e si somma al coupon dello shop, che va nel campo \"Coupon Code\".",
         "Si guadagnano punti scaricando l'app? Sì, la prima volta: 50 punti YS al primo download dell'app con accesso, una sola volta per account. Reinstallare o usare un altro dispositivo non li assegna di nuovo, e i punti non sono il codice ricompensa.",
         "L'app ha un coupon esclusivo? Lo shop dice di pubblicare un coupon di 24 ore, una volta al mese, solo per ordini fatti nell'app. Durante il test dell'app non ce n'era uno attivo; i coupon attivi sono nella pagina dello shop."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Preferisci acquistare dal telefono e vuoi sapere dove va il codice ricompensa CECILIA010 nell'app.",
+      "Hai già un account sul sito: è lo stesso nell'app, e il carrello è uno solo se hai effettuato l'accesso."
+    ],
+    "skipIf": [
+      "Ti serve la consegna in un paese che il negozio non serve: acquistare dall'app non cambia le regole di destinazione.",
+      "Conti su un coupon esclusivo dell'app: il negozio dice che ne esce uno al mese, a un'ora casuale, quindi potrebbe non essercene uno attivo."
+    ]
+  }
 }

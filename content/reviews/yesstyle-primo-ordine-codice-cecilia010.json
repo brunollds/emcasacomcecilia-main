@@ -137,12 +137,13 @@
       },
       "postParagraphs": [
         "Nel nostro test nell'app il codice è stato accettato e il riepilogo ha mostrato la riga Influencer Code Discount (5% OFF). La guida passo passo con le schermate del sito è in [come usare CECILIA010](/it/reviews/codice-ricompensa-yesstyle-cecilia010)."
-      ]
+      ],
+      "emphasis": "Al primo ordine il codice ricompensa è lo sconto piccolo e sicuro, mentre il coupon della campagna è quello grande e passeggero. Conviene usarli entrambi, senza aspettarsi che CECILIA010 da solo cambi molto il totale."
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Esiste un codice YesStyle per il primo ordine? Sì: CECILIA010 dà il 5% extra sul primo ordine e il 2% sui successivi, nel campo Reward Code.",
+        "Qual è il codice ricompensa di YesStyle per il primo ordine? CECILIA010: 5% in più sul primo ordine e 2% sui successivi, nel campo Reward Code.",
         "Dove trovo il coupon YesStyle in corso? Il coupon della campagna è nella nostra pagina dei [coupon YesStyle](/it/coupons/yesstyle) e nei banner dello shop. La sezione Coupons dell'account e le e-mail di YesStyle possono portare coupon personali.",
         "Posso usare il coupon di YesStyle e CECILIA010 nello stesso ordine? Sì, con un coupon valido: il coupon va nel campo Coupon Code e CECILIA010 nel Reward Code.",
         "Chi è già cliente riceve coupon da YesStyle? Può riceverli, senza garanzie: lo shop invia coupon esclusivi via e-mail e la sezione Coupons dell'account mostra quelli disponibili.",
@@ -152,5 +153,15 @@
       ]
     }
   ],
-  "hideFromPortugueseListings": true
+  "hideFromPortugueseListings": true,
+  "decision": {
+    "takeIf": [
+      "Stai per fare il primo ordine su YesStyle e vuoi sommare il codice ricompensa CECILIA010 a un coupon del negozio, se ce n'è uno valido.",
+      "Hai già comprato lì e vuoi sapere cosa cambia dal secondo ordine: il codice vale ancora, con il 2%."
+    ],
+    "skipIf": [
+      "Ti serve la consegna in un paese che il negozio non serve: controlla la destinazione prima di riempire il carrello, perché nessun codice cambia questo.",
+      "Ti aspetti un grande sconto solo dal codice: dà il 5% sul primo ordine e il 2% sui successivi, il resto dipende da un coupon del negozio."
+    ]
+  }
 }

@@ -38,7 +38,6 @@
         "YesStyleは2006年創業の香港の会社で、香港証券取引所に上場しているYesAsia Holdings（2209.HK）の傘下にあります。[親会社の事業紹介ページ](https://www.yesasiaholdings.com/business.html)と[IR情報](https://www.yesasiaholdings.com/investor-relations.html)で確認できます。",
         "150を超える国と地域のお客様に向けて営業しており、サイトは日本語を含む複数の言語に対応しています。注文の通貨は、選べる通貨の中から指定でき、[YesStyle独自のレート](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)で換算されます。銀行によっては、海外での購入手数料がかかることがあります。商品、配送日数、輸入税、返品ポリシーについての問い合わせ窓口もあります。"
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
       "imageAlt": "YesStyle公式サイトの画面とキャンペーンバナー",
       "imageFit": "square"
@@ -49,7 +48,6 @@
         "YesStyleは、400以上の韓国コスメ（K-beauty）ブランドの正規取扱店だと自称しています。アジアのコスメやファッションも扱い、スキンケア（美容液、エッセンス、化粧水、日焼け止め）、メイクアップ、ヘアケア、アクセサリーがそろいます。",
         "同社が挙げるブランドには、COSRX、Etude House、Hada Labo、Rohtoなどがあります。仕入れ先はメーカーか提携ディストリビューターだと説明しています。上場企業（YesAsia Holdings）の傘下にあることは、店の運営元についての公開情報です。"
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
       "imageAlt": "YesStyleで取り扱うK-beautyとJ-beautyの正規ブランド（COSRX、Anua、Beauty of Joseon）",
       "imageFit": "wide"
@@ -63,7 +61,6 @@
         "不良品や誤送品もRMAで申請し、不具合の写真を添えます。ルールは[YesStyleの返品ポリシー](https://www.yesstyle.com/en/help/section.html/hsi.736)にあります。お住まいの国の消費者の権利は、これを上回る場合があります。",
         "サポートには、公式サイトのチャットとメールで連絡できます。"
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
       "imageAlt": "YesStyleの商品一覧、ドル建ての価格、セール割引",
       "imageFit": "square"
@@ -96,6 +93,7 @@
     },
     {
       "heading": "YesStyleは信頼できる？",
+      "emphasis": "信頼には、ちょうどいい大きさがあります。YesStyleは実在する会社で、親会社も上場していますが、商品が本物かどうかは店の言い分です。買ってかまいません。ロット番号、使用期限、封の確認は、荷物が届いた日にしましょう。",
       "paragraphs": [
         "信頼できます。ただし、いつもの確認は忘れずに。YesStyleは2006年創業の香港企業で、上場企業のYesAsia Holdings（2209.HK）が運営しています。400以上の韓国コスメブランドの正規取扱店だと自称しています。荷物が課税された場合、対象となる1,000米ドル未満の注文は、届け先によっては、輸入税と通関手数料がストアクレジットで返金されることがあります。",
         "実際の手順は次のとおりです。yesstyle.comから買い、チェックアウトで送料と配送日数を確認し、支払いの控えを保管して、届いたらロット番号、使用期限、封の状態を確認します。"
@@ -106,8 +104,7 @@
       "paragraphs": [
         "Em Casa com Cecíliaは、YesStyleと業務提携しています。この提携により、読者の方はチェックアウトの専用欄でリワードコード（Reward Code）CECILIA010を使うと、初回購入で5%、2回目以降は2%の追加割引が受けられます。このコードは、サイトで有効な対象のプロモーションクーポンと併用できます。",
         "CECILIA010に終了日は決まっていませんが、YesStyleが特典やプログラムのルールを変更することがあります（[プログラム規約](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284)）。支払う前に、注文の概要で割引を確認してください。リンクとコードによって、ブログに手数料が入ることがありますが、読者の負担は増えません。"
-      ],
-      "bullets": []
+      ]
     },
     {
       "heading": "よくある質問",
@@ -126,10 +123,21 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "K-Beautyなどアジアのブランドを1つのカートでまとめて買いたく、荷物が届いたらロット番号、使用期限、封の状態を自分で確認するつもりです。",
+      "支払う前にチェックアウトで送料と配送日数を確認し、返品時の標準の返金がストアクレジットになることに納得しています。"
+    ],
+    "skipIf": [
+      "第三者による正規品の保証がないと買えません。本物かどうかは店側の申告で、独立した監査は見つかりませんでした。",
+      "決まった日までに届く必要があります。配送日数は、支払い前のチェックアウトで初めてわかります。"
+    ]
+  },
   "cta": {
     "text": "YesStyleでK-Beautyを購入する（コード CECILIA010）",
     "label": "公式サイトへ",
-    "url": "https://ystyle.co/rQYQv"
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
@@ -137,6 +145,12 @@
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-ja"
+    },
+    {
+      "slug": "yesstyle-valid-coupon-guide-ja"
+    },
+    {
+      "slug": "yesstyle-kbeauty-guide-ja"
     }
   ],
   "translationKey": "yesstyle-trust",

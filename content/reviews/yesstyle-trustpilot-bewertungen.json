@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle hat auf Trustpilot eine Note von 4,4 bei über 104.000 Bewertungen und 71 % Fünf-Sterne. Hier die Themen aus den negativen Bewertungen und die Grenzen einer globalen Note.",
-  "metaDescription": "YesStyle auf Trustpilot im November 2026: Note 4,4 bei 104.000 Bewertungen, 71 % Fünf-Sterne, Beschwerden zu Lieferung und Sendungsverfolgung. Was die Note nicht zeigt.",
+  "description": "YesStyle hat auf Trustpilot 4,4 Sterne bei über 105.000 Bewertungen, 71 % davon Fünf-Sterne. Die Beschwerden, und warum eine globale Note nichts über Ihr Land aussagt.",
+  "metaDescription": "YesStyle auf Trustpilot: Note 4,4 bei 105.000 Bewertungen, Beschwerden zur Lieferung und was die Note nicht zeigt. Prüfen Sie vor dem Bezahlen die Lieferung in Ihr Land.",
   "publishedAt": "29. Oktober 2026",
   "publishedAtISO": "2026-10-29",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -33,45 +33,78 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Im November 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne. In den sichtbaren negativen Bewertungen ging es um die internationale Lieferung und die Sendungsverfolgung, und die Note ist global und trennt nicht nach Ländern."
+        "YesStyle hat auf Trustpilot eine Note von 4,4, bei 105.442 Bewertungen und 71 % Fünf-Sterne. Von den 40 neuesten Ein-Stern-Bewertungen, die wir gelesen haben, ging es in der Hälfte um die Lieferung: Bestellungen, die nie ankamen, hängende Pakete oder Verspätungen. Die Note fasst Käufer aus vielen Ländern zusammen. Prüfen Sie deshalb vor dem Bezahlen Lieferzeit und Versandkosten für Ihre Adresse."
       ]
     },
     {
       "heading": "Was die Note misst",
       "paragraphs": [
-        "Der TrustScore ist die Note des Profils auf Trustpilot. YesStyle hatte 4,4, mit dem Label „Excellent“, bei 104.909 Bewertungen; 11.757 davon wurden in den letzten 12 Monaten veröffentlicht. Das Profil wird vom Unternehmen beansprucht und hat ein bezahltes Trustpilot-Abo, wie die Seite selbst angibt.",
-        "Die Verteilung nach Sternen: 71 % Fünf-Sterne, 18 % Vier-Sterne, 3 % Drei-Sterne, 1 % Zwei-Sterne und 7 % Ein-Stern. Fünf und vier Sterne machen den größten Teil aus; die Ein-Stern-Bewertungen mit 7 % wiegen mehr als die mit zwei und drei Sternen zusammen, und dort zeigen sich die Beschwerden."
+        "Der TrustScore ist die Note des Profils auf Trustpilot. Das Unternehmen hat das YesStyle-Profil im Mai 2013 beansprucht und zahlt ein Trustpilot-Abo, wie die Seite selbst angibt.",
+        "Die 7 % Ein-Stern-Bewertungen wiegen mehr als die 4 % Zwei- und Drei-Stern-Bewertungen zusammen, und dort zeigen sich die Beschwerden. Der Durchschnitt von 4,4 verdeckt diese Gruppe."
       ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-        "alt": "Balken von fünf bis einem Stern mit der Verteilung der YesStyle-Bewertungen auf Trustpilot: 71 %, 18 %, 3 %, 1 % und 7 %",
-        "caption": "Verteilung der YesStyle-Bewertungen auf Trustpilot. Grafik von uns.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
+      "comparisonTable": {
+        "caption": "Kennzahlen des YesStyle-Profils auf Trustpilot, abgelesen am 23.11.2026",
+        "headers": [
+          "Kennzahl",
+          "YesStyle am 23.11.2026"
+        ],
+        "rows": [
+          [
+            "TrustScore",
+            "4,4, Label „Excellent“"
+          ],
+          [
+            "Bewertungen insgesamt",
+            "105.442, davon 12.070 in den letzten 12 Monaten"
+          ],
+          [
+            "Sternverteilung",
+            "5★ 71 % · 4★ 18 % · 3★ 3 % · 2★ 1 % · 1★ 7 %"
+          ],
+          [
+            "Profilstatus",
+            "Beansprucht seit Mai 2013, mit bezahltem Abo"
+          ],
+          [
+            "Herkunft der Bewertungen",
+            "Der Shop lädt Kunden nach dem Kauf zur Bewertung ein"
+          ],
+          [
+            "Antworten auf negative Bewertungen",
+            "99 %, meist innerhalb von 24 Std.; der Shop kann KI nutzen"
+          ]
+        ]
       },
       "postParagraphs": [
-        "Der Durchschnitt fasst all das in einer einzigen Zahl zusammen. Für die Entscheidung lohnt es sich mehr, zu schauen, was die niedrigen Noten sagen und wie der Shop darauf antwortet; das folgt jetzt."
+        "Für die Entscheidung lohnt es sich mehr, zu lesen, was die niedrigen Noten sagen und wie der Shop darauf antwortet. Das folgt jetzt."
+      ],
+      "links": [
+        {
+          "label": "Profil von YesStyle auf Trustpilot",
+          "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+        }
       ]
     },
     {
       "heading": "Wer bewertet, und von wo",
       "paragraphs": [
-        "Das Profil, das von www.yesstyle.com, ist global: Es trennt die Bewertungen nicht nach Land, und die Seite sagt nicht, wie viele aus welchem Land kommen. Die Note vereint Käufer aus verschiedenen Ländern, mit unterschiedlichem Versand, unterschiedlichen Lieferzeiten und unterschiedlichem Zoll.",
-        "Für alle, die kaufen, ändert das die Lesart: Die Note sagt, wie sich der Shop insgesamt verhält, nicht wie die Lieferung an Ihre Adresse abläuft. Diese Angabe steht im Checkout und in der Versandtabelle des Shops, nicht auf Trustpilot.",
+        "Das Profil von www.yesstyle.com ist global. Es führt Käufer aus Dutzenden Ländern in einem Panel zusammen, mit unterschiedlichem Versand, unterschiedlichen Lieferzeiten und unterschiedlichem Zoll, und trennt die Bewertungen nicht nach Land.",
+        "Der Shop lädt Kunden nach dem Kauf zur Bewertung ein, ob zufrieden oder nicht. In unserer Stichprobe waren 30 der 40 Fünf-Sterne-Bewertungen Einladungen, und die meisten waren kurz. Die Ein-Stern-Bewertungen kamen vor allem von Leuten, die von sich aus geschrieben haben (29 von 40), und dabei ging es um die internationale Lieferung. Das heißt: Die Einladungen füllen das Profil mit kurzen Top-Noten, und die ungefragten Beschwerden sind es, die Lieferprobleme schildern.",
+        "Für Sie sagt die Note, wie sich der Shop insgesamt verhält, nicht wie die Lieferung an Ihre Adresse läuft. Prüfen Sie im Checkout Lieferzeit, Versandkosten, Einfuhrabgaben und Zoll sowie die Rückgabebedingungen für Ihr Land.",
         "Wer den Shop betreibt, der Sitz in Hongkong und die Muttergesellschaft stehen in [Ist YesStyle seriös?](/de/reviews/ist-yesstyle-serioes-und-sicher)."
       ]
     },
     {
       "heading": "Was in den Beschwerden auftaucht",
       "paragraphs": [
-        "In den sichtbaren negativen Bewertungen ging es um folgende Punkte, ohne sie zu zählen oder zu ordnen:"
+        "Wir haben die 40 neuesten Ein-Stern-Bewertungen gelesen, und der Shop hat auf alle geantwortet. Nach Anzahl der Fälle:"
       ],
       "bullets": [
-        "Verspätete Lieferung und lange Wartezeit bei einem Paket aus dem Ausland.",
-        "Sendungsverfolgung, die nicht mehr aktualisiert wird.",
-        "Verlorenes Paket.",
-        "Beschädigt angekommener Artikel.",
-        "Bestellung, die vor dem Versand in der Bearbeitung hängt."
+        "Lieferung, 20 von 40: Bestellung, die nie ankam oder als zugestellt markiert war, ohne anzukommen, Paket, das auf dem Transport hängen blieb oder verloren ging, Verspätung über die Angabe der Website hinaus und Bestellung, die nach Wochen nicht versandt wurde. Mehrere berichten, der Kundenservice verweise auf den Paketdienst.",
+        "Produkt, 9 von 40: Artikel fehlt, ist beschädigt, wirkt gebraucht, unvollständig, abgelaufen oder defekt.",
+        "Lager, 4 von 40: Artikel war nach der Bestellung ausverkauft, mit Wartezeit oder Stornierung.",
+        "Rückgabe, 2 von 40: Rückgabe wegen persönlichem Geschmack abgelehnt oder Erstattung nur als Guthaben im Shop.",
+        "Sonstiges, 5 von 40: Influencer-Programm, Launch auf der Website ausverkauft, App hängt bei der Zahlung, Zahlungsprüfung und eine positive Bewertung mit einem Stern."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -81,87 +114,50 @@
         "aspectRatio": 1.7778
       },
       "postParagraphs": [
-        "Diese Berichte geben Hinweise für konkrete Prüfungen: Lieferzeit im Checkout, Sendungsverfolgung nach dem Versand und Zustand der Verpackung bei der Ankunft."
+        "Diese Berichte zeigen, was Sie vor dem Kauf prüfen sollten: die Lieferzeit im Checkout, die Sendungsverfolgung nach dem Versand und den Zustand der Verpackung bei Ankunft."
       ]
     },
     {
       "heading": "Was im Lob auftaucht",
       "paragraphs": [
-        "In den positiven Bewertungen sind die Themen andere:"
-      ],
-      "bullets": [
-        "Niedrige Preise und häufige Aktionen.",
-        "Große Auswahl an koreanischer Beauty.",
-        "Sorgfältige Verpackung.",
-        "Hilfreiche Versandbenachrichtigungen.",
-        "Lieferung, die manchmal früher als angegeben ankommt.",
-        "Einfach zu bedienende App und Website."
+        "Wir haben außerdem die 40 neuesten Fünf-Sterne-Bewertungen gelesen. Dreißig waren Einladungen des Shops, und die meisten hatten wenige Zeilen. Gelobt werden originale, echte Produkte, Auswahl, Preise und Rabatte, gut geschützte Verpackung und eine Lieferung, die schneller war als erwartet.",
+        "Die automatische Zusammenfassung von Trustpilot, von KI aus 6.462 aktuellen Bewertungen erstellt, zeigt in dieselbe Richtung: echte Produkte, Preis und Verpackung. Es ist die Zusammenfassung von Trustpilot, nicht unsere, und wir nutzen sie nur zur Unterstützung."
       ],
       "postParagraphs": [
-        "Lob und Beschwerde sprechen von verschiedenen Momenten des Kaufs: das Lob vom Sortiment, vom Preis und vom Paket, das ankam; die Beschwerde vom Paket, das lange brauchte oder nicht ankam. Die Note vereint beides."
+        "Lob und Beschwerde sprechen von verschiedenen Momenten des Kaufs: das Lob vom Sortiment, vom Preis und vom Paket, das ankam; die Beschwerde vom Paket, das spät kam oder nie ankam. Die Note vereint beides."
       ]
     },
     {
       "heading": "Was der Shop antwortet",
       "paragraphs": [
-        "Laut Profil hat YesStyle 98 % der negativen Bewertungen beantwortet, in der Regel innerhalb von 24 Stunden, und weist darauf hin, dass die Antwort künstliche Intelligenz nutzen kann.",
-        "Antworten heißt nicht lösen. Dieser Artikel bewertet den Text der Antworten nicht, deshalb sagt er nicht, ob sie das Problem der Beschwerdeführer lösen. Vor dem Kauf lohnt es sich, einige Ein-Stern-Bewertungen im Profil zu öffnen und die Antwort des Shops darunter zu lesen, besonders bei Tracking und verlorenen Paketen."
-      ]
-    },
-    {
-      "heading": "Was sich nicht schließen lässt",
-      "paragraphs": [
-        "Die Note beantwortet eine Frage, nicht alle. Vier Dinge, die die Note nicht stützt:"
-      ],
-      "bullets": [
-        "Dass die Note für Ihr Land gilt: Das Profil ist global und trennt die Bewertungen nicht nach Herkunft.",
-        "Dass die Note das Produkt misst: Sie fasst Produkt, Lieferung und Kundenservice in einer Bewertung zusammen, und die Beschwerdethemen betreffen Lieferung und Bestellbearbeitung.",
-        "Dass der Shop Beschwerden löst: Das Profil zeigt die Antwortquote, 98 %, und die Antwortzeit; dieser Artikel bewertet den Text der Antworten nicht.",
-        "Was die KI-Zusammenfassung von Trustpilot sagt: Die Seite zeigt eine von künstlicher Intelligenz erstellte Zusammenfassung, und dieser Artikel nutzt sie nicht als Quelle."
-      ]
-    },
-    {
-      "heading": "Unsere Prüfung",
-      "paragraphs": [
-        "Die Daten von Trustpilot stammen aus dem öffentlichen Profil von YesStyle, ohne Login, vom 28. Oktober 2026: die Note, die Zahl der Bewertungen, die Verteilung nach Sternen, die Antwortquote und die sichtbaren Bewertungen, aus denen die Themen stammen. Im November wurden Note, Zahl der Bewertungen und Verteilung nach Sternen aktualisiert.",
-        "In der App des Shops hat der Checkout das Feld für den Reward Code.",
-        "Die Zahlen auf Trustpilot ändern sich jeden Monat; prüfen Sie das Profil am Tag des Kaufs."
-      ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-        "alt": "Handy mit dem YesStyle-Profil auf Trustpilot: Note 4,4, Sterneverteilung und 98 % der negativen Bewertungen beantwortet",
-        "caption": "YesStyle-Profil auf Trustpilot, Mobilversion. Screenshot der Seite, mit zwei vergrößerten Ausschnitten.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
-      "links": [
-        {
-          "label": "Profil von YesStyle auf Trustpilot",
-          "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-        }
+        "Laut Profil hat YesStyle 99 % der negativen Bewertungen beantwortet, meist innerhalb von 24 Stunden, und weist darauf hin, dass die Antworten künstliche Intelligenz nutzen können.",
+        "Antworten heißt nicht, dass das Problem gelöst ist. Öffnen Sie vor dem Kauf einige Ein-Stern-Bewertungen im Profil und sehen Sie, wie der Shop geantwortet hat, besonders bei hängengebliebener Sendungsverfolgung und verlorenen Paketen."
       ]
     },
     {
       "heading": "Kann man YesStyle nach Trustpilot vertrauen?",
       "paragraphs": [
-        "Ja, mit einer Einschränkung beim Geltungsbereich: Nach Trustpilot ist die Note gut (TrustScore 4,4 bei 104.909 Bewertungen, davon 71 % Fünf-Sterne und 7 % Ein-Stern). Um den Kundenservice einzuschätzen, lesen Sie auch aktuelle Beschwerden und Antworten im Profil; die Antwortquote zeigt nicht, ob Probleme gelöst wurden.",
-        "Der Vorbehalt betrifft den Geltungsbereich, nicht die Note. Das Profil ist global, trennt keine Länder, und die Beschwerden betreffen die internationale Lieferung: Verspätung, Tracking und Verlust. Trustpilot zeigt, wie sich der Shop insgesamt verhält; Versand und Lieferzeit für Ihre Adresse stehen im Checkout."
-      ]
+        "Ja, mit einer Einschränkung beim Geltungsbereich. Die Note ist gut: TrustScore 4,4 bei 105.442 Bewertungen, davon 71 % Fünf-Sterne. Sie beschreibt den Shop insgesamt. Lesen Sie für Ihren Kauf die neuesten Ein-Stern-Bewertungen und prüfen Sie im Checkout Lieferzeit und Versandkosten für Ihr Land.",
+        "Die Einschränkung betrifft den Geltungsbereich. Das Profil ist global, und die Beschwerden betreffen die internationale Lieferung: Verspätung, hängende Sendungsverfolgung und verlorene Pakete. Versandkosten und Lieferzeit für Ihre Adresse stehen erst im Checkout."
+      ],
+      "emphasis": "Eine globale 4,4 sagt, wie der Shop die meisten Bestellungen behandelt, aber nichts über Ihre Adresse, und genau die Lieferung ist es, worüber sich die Bewertungen beschweren."
     },
     {
       "heading": "Vor dem Bezahlen",
       "paragraphs": [
-        "In den sichtbaren negativen Bewertungen ging es um Lieferung und Sendungsverfolgung. Prüfen Sie vor der Zahlung Versandkosten und Lieferzeit für Ihre Adresse im Checkout. Beträge und Berechnung der Lieferzeiten stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
-        "Bewahren Sie nach der Zahlung Bestellnummer und Tracking-Code auf: Damit eröffnet man beim Kundenservice eine Anfrage, wenn das Paket sich verspätet oder das Tracking stehen bleibt.",
-        "Wenn Sie sich zum Kauf entschieden haben, führt die Seite zu [YesStyle-Gutscheinen und Reward Code](/de/coupons/yesstyle) hier auf der Website zum Shop. Der Link ist ein Affiliate-Link: Ein Kauf kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie."
+        "In den 40 Ein-Stern-Bewertungen, die wir gelesen haben, tauchen Lieferung und Sendungsverfolgung in 20 auf. Prüfen Sie vor der Zahlung Versandkosten und Lieferzeit für Ihre Adresse im Checkout. Beträge und Berechnung der Lieferzeiten stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+        "Bewahren Sie nach der Zahlung Bestellnummer und Tracking-Code auf: Damit eröffnen Sie beim Kundenservice eine Anfrage, wenn das Paket sich verspätet oder das Tracking stehen bleibt.",
+        "Wenn Sie sich zum Kauf entschieden haben, führt die Seite [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle) auf dieser Website zum Shop. Der Link ist ein Affiliate-Link: Ein Kauf kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie."
       ]
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Hat YesStyle eine gute Note auf Trustpilot? Ja. Der TrustScore lag bei 4,4, mit dem Label „Excellent“, bei 104.909 Bewertungen; 71 % gaben fünf Sterne und 7 % einen.",
-        "Was sind die häufigsten Beschwerden über YesStyle? In den negativen Bewertungen betreffen die Themen die internationale Lieferung: Verspätung und lange Wartezeit, stehendes Tracking, verlorenes Paket, beschädigter Artikel und in der Bearbeitung hängende Bestellung.",
-        "Antwortet YesStyle auf negative Bewertungen? Laut Trustpilot-Profil hat der Shop 98 % der negativen Bewertungen beantwortet, in der Regel innerhalb von 24 Stunden, und die Antwort kann künstliche Intelligenz nutzen."
+        "Hat YesStyle eine gute Note auf Trustpilot? Ja. Der TrustScore liegt bei 4,4, mit dem Label „Excellent“, bei 105.442 Bewertungen; 71 % geben fünf Sterne und 7 % einen.",
+        "Was sind die häufigsten Beschwerden über YesStyle? In den 40 Ein-Stern-Bewertungen, die wir gelesen haben, ging es bei 20 um die Lieferung: Bestellungen, die nie ankamen, hängende Pakete, Verspätungen und nicht versandte Bestellungen.",
+        "Antwortet YesStyle auf negative Bewertungen? Laut Trustpilot-Profil hat der Shop 99 % der negativen Bewertungen beantwortet, meist innerhalb von 24 Stunden, und die Antworten können KI nutzen.",
+        "Gilt die Trustpilot-Note für mein Land? Nicht direkt. Das Profil ist global und trennt die Bewertungen nicht nach Land. Prüfen Sie deshalb Lieferzeit und Versandkosten für Ihre Adresse im Checkout.",
+        "Was ist der YesStyle Reward Code? CECILIA010 gibt 5 % auf die erste Bestellung und 2 % auf weitere, ohne Enddatum. Er wird im Feld für den Reward Code eingegeben und kann mit einem eigenen Rabatt des Shops kombiniert werden."
       ]
     }
   ],
@@ -184,5 +180,15 @@
     {
       "slug": "yesstyle-black-friday-termine-gutscheine"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Sie wollen eine ehrliche Lesart der Note, mit den Lieferbeschwerden im Blick, bevor Sie bestellen.",
+      "Sie planen, den Reward Code CECILIA010 zu nutzen, und prüfen vor der Zahlung Versandkosten und Lieferzeit im Checkout."
+    ],
+    "skipIf": [
+      "Sie brauchen eine Lieferung mit garantierter Frist an Ihre Adresse: Die Hälfte der Ein-Stern-Bewertungen, die wir gelesen haben, handelte von Verspätungen, hängenden Paketen oder Verlusten.",
+      "Sie möchten sich auf die Antworten des Shops verlassen: 99 % der negativen Bewertungen haben eine Antwort, aber eine Antwort beweist nicht, dass das Problem gelöst ist."
+    ]
+  }
 }

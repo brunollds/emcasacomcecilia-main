@@ -4,6 +4,13 @@
   "title": "Cómo encontrar y combinar los cupones de YesStyle con CECILIA010",
   "type": "Guía & Cupones",
   "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
   "description": "Guía práctica para encontrar cupones de YesStyle, entender Coupon Code y Reward Code y usar CECILIA010: 5% en la primera compra y 2% en las siguientes.",
   "metaDescription": "Dónde encontrar los cupones de YesStyle vigentes, cómo evitar los códigos vencidos y cómo sumar el código de recompensa CECILIA010 para ahorrar hasta un 5% extra.",
   "publishedAt": "24 Jul 2026",
@@ -28,43 +35,13 @@
   "imageAlt": "Cecília con una diadema rosa mostrando el tarro abierto de parches de hidrogel rosados de Abib en una imagen de su propio vídeo. En la portada: «Cómo encontrar y combinar cupones» y «Cupón de la tienda + código de recompensa», con el código de recompensa CECILIA010.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "Enseña a distinguir el Coupon Code del Reward Code para evitar errores en el checkout",
-    "Explica cómo acumular el cupón del mes con CECILIA010",
-    "Muestra cómo ahorrar hasta un 5% extra con el código oficial de influencer",
-    "Muestra dónde encontrar los cupones vigentes de YesStyle para evitar códigos falsos o caducados",
-    "Te lleva a la página actualizada de Em Casa com Cecília con la lista de cupones vigentes"
-  ],
-  "cons": [
-    "Los cupones promocionales mensuales tienen plazos cortos (por lo general, de 72 horas a 30 días)",
-    "El descuento de CECILIA010 varía entre un 5% en la primera compra y un 2% en las compras siguientes",
-    "El total se cobra en la moneda que elijas en el sitio, al tipo de cambio de YesStyle, y tu banco puede aplicar una comisión por compra internacional"
-  ],
-  "pullQuote": "Introduce CECILIA010 en el campo Reward Code: 5% en la primera compra y 2% en las siguientes. Si la promoción lo permite, aplica también un cupón en el campo Coupon Code y comprueba ambos descuentos en el resumen del pedido.",
-  "productSpec": [
-    {
-      "key": "Tienda",
-      "value": "YesStyle (oficial)"
-    },
-    {
-      "key": "Código de recompensa",
-      "value": "CECILIA010 (hasta un 5% extra)",
-      "highlight": true
-    },
-    {
-      "key": "Campo en el checkout",
-      "value": "Reward Code"
-    },
-    {
-      "key": "Acumulable",
-      "value": "Se puede combinar con cupones promocionales elegibles; confírmalo en el checkout"
-    }
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
-    "text": "En nuestra página, la lista de cupones de YesStyle está actualizada al {yesstyle:verifiedAt}.",
-    "label": "Ver cupones activos de YesStyle",
-    "url": "/es/coupons/yesstyle",
-    "sponsored": false
+    "text": "Pega CECILIA010 en el campo Reward Code: 5 % extra en la primera compra y 2 % en las siguientes.",
+    "label": "Ir a YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
@@ -72,6 +49,18 @@
   "relatedArticles": [
     {
       "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
+    },
+    {
+      "slug": "yesstyle-primera-compra-codigo-cecilia010"
+    },
+    {
+      "slug": "es-yesstyle-de-fiar-y-seguro"
+    },
+    {
+      "slug": "app-yesstyle-como-comprar-codigo-de-recompensa"
+    },
+    {
+      "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
     }
   ],
   "contentSections": [
@@ -103,7 +92,7 @@
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "Pantalla de checkout de YesStyle con los campos Coupon Code y Reward Code.",
       "imageCaption": "Los dos campos separados del checkout: Coupon Code (para los cupones de promoción) y Reward Code (para CECILIA010). El cupón de la captura es de una campaña que ya terminó.",
-      "imageFit": "cover",
+      "imageFit": "contain",
       "bullets": [
         "1. Campo «Coupon Code» (código de cupón): aquí introduces los cupones promocionales del sitio de YesStyle (como los de liquidación o los de campañas del 10% al 15%).",
         "2. Campo «Reward Code» / «Influencer Code» (código de recompensa): aquí introduces el código oficial de influencer CECILIA010, con un 5% extra en la primera compra y un 2% en las siguientes."
@@ -144,7 +133,7 @@
       "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
       "imageAlt": "Pantalla del carrito de compras en la tienda de YesStyle.",
       "imageCaption": "Pantalla de resumen del carrito en YesStyle antes de aplicar los códigos de descuento.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Paso 3: aplica el cupón de la promoción en el campo Coupon Code",
@@ -161,12 +150,13 @@
     {
       "heading": "Paso 5: confirma el descuento acumulado y finaliza el pedido",
       "paragraphs": [
-        "En el resumen del pedido, confirma los dos descuentos antes de pagar: el cupón y CECILIA010."
+        "En el resumen del pedido, confirma los dos descuentos antes de pagar: el cupón y CECILIA010.",
+        "El total se cobra en la moneda que elijas en el sitio, al tipo de cambio de YesStyle, y tu banco puede aplicar una comisión por compra internacional."
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
       "imageAlt": "Resumen final del pedido en YesStyle con los descuentos acumulados.",
       "imageCaption": "Resumen del checkout que confirma la combinación: cupón de promoción + código de recompensa CECILIA010 acumulados con éxito. El cupón de la captura es de una campaña que ya terminó.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Dónde encontrar los cupones de YesStyle vigentes",
@@ -186,7 +176,8 @@
           "href": "https://ystyle.co/rQYQv",
           "sponsored": true
         }
-      ]
+      ],
+      "emphasis": "Los cupones cambian de una semana a otra; CECILIA010 se queda. Yo dejo primero el código de recompensa en Reward Code y solo después compruebo qué cupón acepta hoy el checkout."
     },
     {
       "heading": "Preguntas frecuentes sobre los cupones de YesStyle",
@@ -195,7 +186,7 @@
       ],
       "bullets": [
         "¿Cuál es la diferencia entre Coupon Code y Influencer/Rewards Code en YesStyle? El Coupon Code es el cupón de promoción, va en el campo «Coupon Code» y tiene plazo y reglas propios: puede exigir una compra mínima, tener restricción regional o excluir productos. CECILIA010 es el código de recompensa (Influencer/Rewards Code), va en el campo separado «Reward Code» y da un 5% en la primera compra y un 2% en las siguientes. Cuando las reglas de la promoción lo permiten, los dos descuentos pueden aparecer juntos en el resumen del pedido.",
-        "¿Qué es el código de influencer de YesStyle? Es el código de recompensa (Reward Code), que se escribe en un campo propio del checkout, separado del campo de cupón. El nuestro es CECILIA010, que va en el campo Reward Code.",
+        "¿Cuál es el código de recompensa (código de influencer) de YesStyle? CECILIA010: da un 5% extra en la primera compra y un 2% en las siguientes, va en el campo Reward Code y se suma a un cupón de la tienda en el campo Coupon Code. Es el código de influencer de Cecília.",
         "¿Los cupones de YesStyle tienen fecha de vencimiento? Sí. Los cupones promocionales tienen fecha de vencimiento y pueden terminar sin aviso. Algunas campañas duran pocos días (como las promociones de 72 o 96 horas), mientras que otras siguen activas durante períodos distintos. Antes de finalizar la compra, revisa en las reglas de la promoción la vigencia, el importe mínimo, la región y los productos elegibles, y confirma que el descuento apareció en el checkout.",
         "¿Dónde encuentro las reglas oficiales de los cupones de YesStyle? Las reglas generales están en la página «General Terms and Conditions for Coupons» del centro de ayuda de YesStyle. Para las condiciones de una campaña concreta, entra en el centro de ayuda y abre la sección «Promotions», donde YesStyle publica la vigencia, la compra mínima, las regiones participantes y las posibles exclusiones. Como estas condiciones cambian, consulta también el banner de la promoción y el resumen del pedido antes de pagar.",
         "¿Puedo usar más de un cupón promocional en el mismo pedido? No. Según las reglas generales de YesStyle, solo se puede usar un Coupon Code por pedido o pedido combinado. CECILIA010, en cambio, no es un Coupon Code: se aplica en el campo separado «Reward Code». Por eso un cupón promocional y CECILIA010 pueden combinarse cuando la campaña es elegible y el checkout acepta ambos."
@@ -216,5 +207,16 @@
   "translationKey": "yesstyle-coupon-guide",
   "category": "cupons-como-usar",
   "isNew": false,
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-06",
+  "decision": {
+    "takeIf": [
+      "Has llegado al checkout de YesStyle con un cupón y no sabes en qué campo va cada código.",
+      "Tu cupón fue rechazado y quieres entender el motivo antes de buscar otro."
+    ],
+    "skipIf": [
+      "Buscas un cupón listo para copiar: aquí tienes el método, y la lista del momento está en nuestra página de cupones de YesStyle.",
+      "Piensas sumar dos cupones de la tienda: YesStyle acepta un solo Coupon Code por pedido, y solo CECILIA010 va en un campo aparte."
+    ]
+  },
+  "seoTitle": "Cómo encontrar y combinar cupones de YesStyle con CECILIA010"
 }

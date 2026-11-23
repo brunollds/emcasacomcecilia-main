@@ -1060,77 +1060,77 @@ export const storeBannersData: StoreBanner[] = [
     "href": "https://ystyle.co/rQYQv",
     "art": {
       "kind": "tag",
-      "value": "67%"
+      "value": "65%"
     },
     "copy": {
       "pt": {
-        "headline": "Black Friday Sale da YesStyle: até 67% OFF",
+        "headline": "Black Friday Sale da YesStyle: até 65% OFF",
         "text": "Campanha da própria YesStyle. As condições aparecem no site da YesStyle.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       },
       "en": {
-        "headline": "YesStyle Black Friday Sale: up to 67% off",
+        "headline": "YesStyle Black Friday Sale: up to 65% off",
         "text": "Run by YesStyle itself. The terms are on the YesStyle website.",
         "action": "See the offer",
         "tag": "UP TO"
       },
       "es": {
-        "headline": "Black Friday Sale de YesStyle: hasta un 67 % de descuento",
+        "headline": "Black Friday Sale de YesStyle: hasta un 65 % de descuento",
         "text": "Una campaña de la propia YesStyle. Las condiciones están en el sitio de YesStyle.",
         "action": "Ver la oferta",
         "tag": "HASTA"
       },
       "fr": {
-        "headline": "Black Friday Sale chez YesStyle : jusqu’à 67 % de réduction",
+        "headline": "Black Friday Sale chez YesStyle : jusqu’à 65 % de réduction",
         "text": "Une campagne de YesStyle. Les conditions sont sur le site de YesStyle.",
         "action": "Voir l’offre",
         "tag": "JUSQU’À"
       },
       "it": {
-        "headline": "Black Friday Sale di YesStyle: fino al 67% di sconto",
+        "headline": "Black Friday Sale di YesStyle: fino al 65% di sconto",
         "text": "Una campagna di YesStyle. Le condizioni sono sul sito di YesStyle.",
         "action": "Vedi l’offerta",
         "tag": "FINO AL"
       },
       "de": {
-        "headline": "YesStyle Black Friday Sale: bis zu 67 % Rabatt",
+        "headline": "YesStyle Black Friday Sale: bis zu 65 % Rabatt",
         "text": "Eine Aktion von YesStyle. Die Bedingungen stehen auf der YesStyle-Website.",
         "action": "Zum Angebot",
         "tag": "BIS ZU"
       },
       "ja": {
-        "headline": "YesStyleのBlack Fridayセール：最大67%オフ",
+        "headline": "YesStyleのBlack Fridayセール：最大65%オフ",
         "text": "YesStyle公式のキャンペーンです。条件はYesStyleのサイトでご確認ください。",
         "action": "キャンペーンを見る",
         "tag": "最大"
       },
       "ko": {
-        "headline": "YesStyle 블랙프라이데이 세일: 최대 67% 할인",
+        "headline": "YesStyle 블랙프라이데이 세일: 최대 65% 할인",
         "text": "YesStyle 자체 프로모션입니다. 조건은 YesStyle 사이트에서 확인하세요.",
         "action": "혜택 보기",
         "tag": "최대"
       },
       "zh-hans": {
-        "headline": "YesStyle黑色星期五大促：最高可省67%",
+        "headline": "YesStyle黑色星期五大促：最高可省65%",
         "text": "YesStyle官方活动，具体条件以YesStyle网站为准。",
         "action": "查看活动",
         "tag": "最高"
       },
       "zh-hant": {
-        "headline": "YesStyle黑色星期五大促：最高可省67%",
+        "headline": "YesStyle黑色星期五大促：最高可省65%",
         "text": "YesStyle官方活動，具體條件以YesStyle網站為準。",
         "action": "查看活動",
         "tag": "最高"
       },
       "ar": {
-        "headline": "تخفيضات الجمعة البيضاء من YesStyle: خصم يصل إلى 67%",
+        "headline": "تخفيضات الجمعة البيضاء من YesStyle: خصم يصل إلى 65%",
         "text": "حملة من YesStyle نفسها. الشروط موجودة على موقع YesStyle.",
         "action": "شاهد الحملة",
         "tag": "حتى"
       }
     },
-    "source": "Black Friday Sale até 50% OFF, informado pelo Bruno (02/11/2026); home da YesStyle com \"Black Friday Sale: Up to 67% OFF\", lida no navegador em 18/11/2026",
-    "verifiedAt": "2026-11-18"
+    "source": "Black Friday Sale até 50% OFF, informado pelo Bruno (02/11/2026); home da YesStyle com \"Black Friday Sale: Up to 67% OFF\" em 18/11/2026 e \"Up to 65% OFF\", lida no navegador em 23/11/2026",
+    "verifiedAt": "2026-11-23"
   }
 ];

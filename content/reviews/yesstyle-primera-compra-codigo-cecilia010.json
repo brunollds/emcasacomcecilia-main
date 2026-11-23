@@ -4,7 +4,7 @@
   "locale": "es",
   "translationKey": "yesstyle-primeira-compra",
   "title": "YesStyle primera compra: CECILIA010 da un 5 % con el código de recompensa y un 2 % en las siguientes",
-  "seoTitle": "Código CECILIA010 en YesStyle: 5 % en la 1.ª compra, 2 % después",
+  "seoTitle": "Código CECILIA010 en YesStyle: 5 % la 1.ª vez, 2 % después",
   "type": "Guía & Cupones",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -138,12 +138,13 @@
       },
       "postParagraphs": [
         "En nuestra prueba en la app, el código fue aceptado y el resumen mostró la línea Influencer Code Discount (5% OFF). El paso a paso con pantallas del sitio web está en [cómo usar CECILIA010](/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010)."
-      ]
+      ],
+      "emphasis": "En el primer pedido, el código de recompensa es el descuento pequeño y seguro; el cupón de la campaña es el grande y pasajero. Conviene usar los dos, pero sin esperar que CECILIA010 solo cambie mucho el total."
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Hay un código de YesStyle para la primera compra? Sí: CECILIA010 da un 5 % extra en el primer pedido y un 2 % en los siguientes, en el campo Reward Code.",
+        "¿Cuál es el código de recompensa de YesStyle para la primera compra? CECILIA010: un 5 % extra en el primer pedido y un 2 % en los siguientes, en el campo Reward Code.",
         "¿Dónde encuentro el cupón de YesStyle que está vigente? El cupón de la campaña está en nuestra página de [cupones de YesStyle](/es/coupons/yesstyle) y en los banners de la tienda. La sección Coupons de la cuenta y los correos de YesStyle pueden traer cupones personales.",
         "¿Se puede usar el cupón de YesStyle y CECILIA010 en el mismo pedido? Sí, con un cupón elegible: el cupón va en el campo Coupon Code y CECILIA010 va en el Reward Code.",
         "¿Los clientes que ya compraron reciben cupones de YesStyle? Pueden recibirlos, sin garantía: la tienda envía cupones exclusivos por correo, y la sección Coupons de la cuenta muestra los que están disponibles.",
@@ -152,5 +153,15 @@
         "¿CECILIA010 vale en la app? Sí: escribe el código en el campo Influencer / Rewards Code, en la pantalla Enter Code."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Vas a hacer tu primer pedido en YesStyle y quieres sumar el código de recompensa CECILIA010 a un cupón de la tienda, si hay uno válido.",
+      "Ya compraste allí y quieres saber qué cambia desde el segundo pedido: el código sigue valiendo, con un 2 %."
+    ],
+    "skipIf": [
+      "Necesitas recibir el pedido en un país al que la tienda no envía: comprueba el destino antes de armar el carrito, porque ningún código cambia eso.",
+      "Esperas un gran descuento solo con el código: da un 5 % en la primera compra y un 2 % en las siguientes, y lo demás depende de un cupón de la tienda."
+    ]
+  }
 }

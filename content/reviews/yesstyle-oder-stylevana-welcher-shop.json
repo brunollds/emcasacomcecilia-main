@@ -4,7 +4,7 @@
   "locale": "de",
   "translationKey": "yesstyle-vs-alternatives",
   "title": "YesStyle oder Stylevana: Rückgabe, kostenloser Versand und Reward Code im Vergleich, mit Olive Young, StyleKorean und Jolse",
-  "seoTitle": "YesStyle oder Stylevana: Rückgabe, kostenloser Versand und Reward Code",
+  "seoTitle": "YesStyle oder Stylevana: Rückgabe, Versand, Reward Code",
   "type": "Shop-Vergleich",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -160,7 +160,8 @@
       "bullets": [
         "Zur Entscheidung: Vergleichen Sie in der Rückgabetabelle oben die Frist und das, was jeder Shop zurücknimmt.",
         "In jedem Land: Prüfen Sie vor der Bestellung auf der offiziellen Seite jedes Shops den Versand, wer die Steuern zahlt und was er zurücknimmt."
-      ]
+      ],
+      "emphasis": "Das Land entscheidet vor dem Preis: Beginnen Sie bei dem Shop, der an Ihre Adresse liefert, und lassen Sie die Rückgabetabelle den Ausschlag geben."
     },
     {
       "heading": "Häufige Fragen",
@@ -169,7 +170,7 @@
         "Ist YesStyle dasselbe wie SHEIN? Nein: YesStyle steht nicht in der Markenliste der SHEIN Group und gibt an, zur YesAsia Holdings in Hongkong zu gehören.",
         "Was ist die Bestellgrenze bei StyleKorean? US$ 500 pro Bestellung, ohne den Versand; darüber verlangt der Shop, sie in zwei Bestellungen aufzuteilen.",
         "Kann ich ein geöffnetes Beauty-Produkt zurückgeben? Nicht wegen Nichtgefallens, in keinem der fünf Shops; Stylevana akzeptiert Nichtgefallen nur bei neuem, versiegeltem und unbenutztem Produkt.",
-        "Wohin kommt der Reward Code von YesStyle? CECILIA010 wird im Checkout in das Feld Reward Code eingetragen, nicht in das Gutscheinfeld, und lässt sich mit den Gutscheinen des Shops kombinieren. Die aktuellen Gutscheine stehen auf der YesStyle-Seite hier auf der Website."
+        "Wie lautet der Reward Code von YesStyle? CECILIA010 gibt bis zu 5 % auf den ersten Einkauf und 2 % auf die folgenden und kommt im Checkout in ein eigenes Feld, Reward Code. Er lässt sich mit einem Gutschein des Shops kombinieren, und die aktuellen Gutscheine stehen auf der YesStyle-Seite hier auf der Website."
       ]
     }
   ],
@@ -196,5 +197,15 @@
       "slug": "yesstyle-reward-code-rabatt-cecilia010"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-09",
+  "decision": {
+    "takeIf": [
+      "Nehmen Sie YesStyle oder Stylevana, wenn Sie 14 Tage ab Erhalt für den Rückgabeantrag haben möchten: Beide gewähren diese Frist.",
+      "Ziehen Sie Olive Young Global in Betracht, wenn eine genehmigte Rückgabe auf die Zahlungsart erstattet werden soll und der Shop die Rücksendekosten trägt. Er nimmt nur defekte oder falsche Artikel zurück."
+    ],
+    "skipIf": [
+      "Lassen Sie alle fünf aus, wenn Sie ein geöffnetes Beauty-Produkt wegen Nichtgefallens zurückgeben wollen: Keiner nimmt es zurück.",
+      "Lassen Sie Jolse aus, wenn Sie mehr als 7 Tage für den Rückgabeantrag brauchen: Der Shop verlangt Fotos und nimmt nur defekte, falsche oder fehlende Artikel zurück."
+    ]
+  }
 }

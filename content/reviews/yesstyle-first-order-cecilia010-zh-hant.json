@@ -138,12 +138,13 @@
       },
       "postParagraphs": [
         "我們在 App 中測試時，代碼被接受，摘要出現 Influencer Code Discount (5% OFF) 這一行。網站版附畫面的步驟請見[如何使用 CECILIA010](/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant)。"
-      ]
+      ],
+      "emphasis": "第一筆訂單裡，獎勵碼是小而穩的折扣，活動優惠券則是大但短暫的折扣。兩個都用，但別指望只靠 CECILIA010 讓總金額大幅改變。"
     },
     {
       "heading": "常見問題（FAQ）",
       "bullets": [
-        "YesStyle 有首購代碼嗎？有：CECILIA010 在第一次下單額外享 5%，之後的訂單享 2%，填在 Reward Code 欄位。",
+        "YesStyle 首購可以用哪個獎勵碼？CECILIA010：填入 Reward Code 欄位，第一次下單額外享 5%，之後的訂單享 2%。",
         "哪裡找得到目前有效的 YesStyle 優惠券？活動優惠券在我們的[YesStyle 優惠券頁面](/zh-hant/coupons/yesstyle)和商店橫幅上。帳號的 Coupons 區與 YesStyle 的電子郵件可能有個人優惠券。",
         "YesStyle 優惠券和 CECILIA010 可以用在同一筆訂單嗎？可以，需有符合資格的優惠券：優惠券填在 Coupon Code 欄位，CECILIA010 填在 Reward Code。",
         "老顧客會收到 YesStyle 優惠券嗎？有可能，但沒有保證：商店會以電子郵件寄送專屬優惠券，帳號的 Coupons 區會顯示目前可用的。",
@@ -152,5 +153,15 @@
         "CECILIA010 在 App 可以用嗎？可以：在 Enter Code 畫面的 Influencer / Rewards Code 欄位輸入代碼。"
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "你準備在 YesStyle 第一次下單，並想在有有效商店優惠券時，把獎勵碼 CECILIA010 疊加上去。",
+      "你以前買過，想知道第二筆訂單起有什麼變化：代碼仍然有效，折扣為 2%。"
+    ],
+    "skipIf": [
+      "你需要寄到商店不配送的國家：先確認收件地址再裝購物車，任何代碼都改變不了這點。",
+      "你期待光靠代碼就拿到大折扣：首購 5%、之後 2%，更多優惠要看商店優惠券。"
+    ]
+  }
 }

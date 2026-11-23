@@ -27,19 +27,8 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-  "pros": [
-    "流程很短：三樣產品，大約 15 分鐘，大部分時間是貼著眼膜在等",
-    "水凝膠眼膜貼涼涼的，表面有紋路，不容易滑掉",
-    "面霜是軟膏般的質地，很好推開，留下絲絨般的觸感",
-    "附小刮勺的護唇膜有甜甜的香氣，對我來說不膩",
-    "韓國產品由 YesStyle 直接販售並聲明為正品；CECILIA010 填在 Reward Code 欄位，折扣可以疊加"
-  ],
-  "cons": [
-    "PDRN 與視黃醛作用循序漸進。Abib 把這款面霜定位為緊緻與細紋保養，是長期的功課。",
-    "用視黃醛，白天就要擦防曬。像我這樣從沒用過的人，得先養成這個習慣",
-    "第一次用的時候，我不確定眼膜貼要貼哪一面",
-    "跨境購買，運費和到貨時間取決於寄送目的地"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "快速解答",
@@ -117,7 +106,7 @@
       "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
       "imageAlt": "Cecília 一手拿著粉色的 Abib 水凝膠眼膜貼，另一手拿著打開的罐子",
       "imageCaption": "Abib 水凝膠眼膜貼裝在 60 片的罐子裡，貼上肌膚時涼涼的。",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Booster Crème 2.5：軟膏般的質地變成絲絨",
@@ -139,7 +128,7 @@
       "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
       "imageAlt": "Cecília 手拿 Abib PDRN Volume Fill-it Booster Crème 2.5 的軟管",
       "imageCaption": "30 ml 的 Booster Crème 2.5 軟管：擠出來像軟膏，肌膚帶著絲絨般的觸感。",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Lip Mask Glazed Jelly：不膩的甜甜香氣",
@@ -158,7 +147,7 @@
       "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
       "imageAlt": "Cecília 嘟著嘴，手拿 Abib Glazed Jelly 護唇膜的罐子",
       "imageCaption": "11 g 的 Lip Mask Glazed Jelly 是凝膠質地，帶有甜甜的香氣。",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "PDRN 與視黃醛的基本：可以期待什麼",
@@ -223,7 +212,8 @@
         "臉部與頸部肌膚的質地與光澤；",
         "持續使用後，視黃醛是否會帶來刺激；",
         "護唇膜能否讓嘴唇整晚維持濕潤。"
-      ]
+      ],
+      "emphasis": "我喜歡這套流程，是因為它放得進平常的一個晚上，不用走十個步驟的馬拉松。它對我的肌膚有什麼作用，要用上幾週之後我才會說。"
     },
     {
       "heading": "常見問題",
@@ -232,7 +222,7 @@
         "PDRN 是什麼？ 它是以 DNA 片段製成的成分，常見於主打緊緻的韓國化妝品（依品牌說明）。Abib 說明其護唇膜中的 PDRN 來自植物（積雪草與銀杏）。",
         "視黃醛和視黃酸是同一種東西嗎？ 不是。眼膜貼與面霜中的成分是視黃醛，它是維生素 A 的衍生物，肌膚會把它轉化為視黃酸。所以作用更循序漸進，白天需要擦防曬。",
         "Abib 護唇膜味道重嗎？ 有甜甜的香氣。我對濃烈的味道比較敏感，這個並沒有困擾我。",
-        "CECILIA010 填在哪裡？ 填在結帳頁的 Reward Code 欄位。首次購買享 5%，之後每次 2%，而且可以依規則和你填在 Coupon Code 欄位的優惠券疊加使用。"
+        "YesStyle 的獎勵碼 CECILIA010 填在哪裡？ CECILIA010 填在結帳頁的 Reward Code 欄位，首次購買享 5%，之後每次 2%。它也可以依規則和你填在 Coupon Code 欄位的 YesStyle 優惠券疊加使用。"
       ]
     }
   ],
@@ -256,5 +246,15 @@
       "slug": "yesstyle-valid-coupon-guide-zh-hant"
     }
   ],
-  "translationKey": "yesstyle-skincare-30"
+  "translationKey": "yesstyle-skincare-30",
+  "decision": {
+    "takeIf": [
+      "你從沒建立過護膚流程，想從小處開始：我的流程是三樣產品、約 15 分鐘，大部分時間是在等待。",
+      "你的收件國家在 YesStyle 的配送範圍內，也能接受國際運費與送達時間。"
+    ],
+    "skipIf": [
+      "你的國家不在 YesStyle 的配送清單上：組購物車之前先確認。",
+      "你想知道這套流程對肌膚到底有什麼作用：這只是第一次使用的紀錄，結果還沒出來。"
+    ]
+  }
 }

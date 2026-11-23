@@ -78,13 +78,11 @@
       "links": [
         {
           "label": "App Store",
-          "href": "https://apps.apple.com/br/app/id868675907",
-          "sponsored": true
+          "href": "https://apps.apple.com/br/app/id868675907"
         },
         {
           "label": "Google Play",
-          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-          "sponsored": true
+          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
         }
       ]
     },
@@ -179,16 +177,28 @@
       ],
       "postParagraphs": [
         "ショップの安全性については、[YesStyleは信頼できる？](/ja/reviews/yesstyle-trust-guide-ja)で答えています。"
-      ]
+      ],
+      "emphasis": "アプリは買い物の経路がひとつ増えるだけです。CECILIA010はサイトでもアプリでも同じように使え、アプリで上乗せできるのは初回ダウンロードの50 YSポイントくらいです。サイトで買う人も損はしません。"
     },
     {
       "heading": "よくある質問",
       "bullets": [
         "YesStyleにアプリはありますか？ あります。AndroidとiPhone向けで、Google PlayとApp Storeの公式リンクから入手できます。ショップは、この2つからのみダウンロードするよう案内しています。",
+        "アプリで使うYesStyleのリワードコードは何ですか？CECILIA010です。初回は5%、2回目以降は2%で、「Enter Code」画面の「Coupon Code」欄の隣にある「Influencer / Rewards Code」欄に入力し、サマリーに「Influencer Code Discount」の行が表示されます。",
         "アプリでCECILIA010は使えますか？ 使えます。チェックアウトで「Enter Code」をタップし、「Influencer / Rewards Code」欄にコードを入力します。リワードコードで、最大5%の追加割引が付き、「Coupon Code」欄に入力する店舗クーポンと併用できます。",
         "アプリをダウンロードするとポイントがもらえますか？ はい、初めてアプリをダウンロードしてログインした場合に、50 YSポイントがもらえます（アカウントにつき1回限り）。再インストールや別の端末では再付与されず、ポイントはリワードコードではありません。",
         "アプリ限定のクーポンはありますか？ ショップによると、月に1回、アプリからの注文のみで使える24時間のクーポンを公開しています。アプリをテストした時点では有効なものはありませんでした。有効なクーポンはショップのページでご確認ください。"
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "スマートフォンで買い物をするのが好きで、アプリのどこにリワードコードのCECILIA010を入れるか知りたい人。",
+      "すでにウェブサイトのアカウントがある人：アプリでも同じアカウントで、ログインしていればバッグも1つにまとまります。"
+    ],
+    "skipIf": [
+      "ストアが配送していない国で受け取る必要がある人：アプリで買っても配送先のルールは変わりません。",
+      "アプリ限定のクーポンを当てにしている人：ストアによると月に1回、ランダムな時間に出るため、有効なものがないこともあります。"
+    ]
+  }
 }

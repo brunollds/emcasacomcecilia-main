@@ -32,7 +32,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Vai con YesStyle se non vuoi rischiare: ha 4,4 su Trustpilot (104.969 recensioni), contro 1,9 (137) di StyleKorean. CECILIA010 dà fino al 5% in più. Spedizione e oneri restano fuori dal conto. Per le altre destinazioni, controlla al checkout se consegnano al tuo indirizzo e con quali spese."
+        "Vai con YesStyle se non vuoi rischiare: ha 4,4 su Trustpilot (105.442 recensioni), contro 1,9 (137) di StyleKorean. CECILIA010 dà fino al 5% in più. Spedizione e oneri restano fuori dal conto. Per le altre destinazioni, controlla al checkout se consegnano al tuo indirizzo e con quali spese."
       ]
     },
     {
@@ -41,7 +41,7 @@
         "Prima del prezzo, guarda chi c'è dall'altra parte dell'ordine. Tra i due negozi, la differenza di reputazione è grande."
       ],
       "comparisonTable": {
-        "caption": "Profili su Trustpilot all'8 novembre.",
+        "caption": "Profili su Trustpilot, letti a novembre.",
         "headers": [
           "Negozio",
           "Voto su Trustpilot",
@@ -51,7 +51,7 @@
           [
             "YesStyle",
             "4,4",
-            "104.969"
+            "105.442"
           ],
           [
             "StyleKorean",
@@ -338,6 +338,7 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Qual è il codice ricompensa di YesStyle? CECILIA010 dà il 5% in più sul primo acquisto e il 2% sui successivi, senza data di fine. Va nel campo Reward Code del checkout e si somma a un coupon del negozio stesso.",
         "C'è un codice di StyleKorean qui? No. CECILIA010 è solo di YesStyle e non funziona su StyleKorean.",
         "StyleKorean appartiene a YesStyle? No. StyleKorean è di Silicon2, in Corea; YesStyle è di YesAsia, di Hong Kong.",
         "Consegnano nel mio paese? Portogallo, Stati Uniti, Regno Unito e Germania sono nelle tabelle di questo articolo; per altre destinazioni vedi [la guida alle spedizioni di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
@@ -379,5 +380,5 @@
       "slug": "codice-ricompensa-yesstyle-cecilia010"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

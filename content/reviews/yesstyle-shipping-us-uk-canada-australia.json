@@ -249,7 +249,8 @@
           "label": "See today's YesStyle coupon and the CECILIA010 Reward Code",
           "href": "/en/coupons/yesstyle"
         }
-      ]
+      ],
+      "emphasis": "In these six countries, the shipping table tells you the time and the cost before you pay. Tax is the line that changes most, so read the one for your country before you fill the cart."
     },
     {
       "heading": "Frequently asked questions",
@@ -263,7 +264,7 @@
         "How do I return a YesStyle product? Request an RMA number within 14 days of receipt and ship the package within 30 days of the RMA being issued. Opened beauty products and supplements cannot be returned, and a skin reaction does not qualify for a refund.",
         "Does YesStyle ship to US territories and Northern Ireland? To US territories, yes: places such as Puerto Rico, Guam and the US Virgin Islands have their own table, with Standard in 9 to 14 business days and free shipping from US$ 80. Northern Ireland is not served at the moment.",
         "Why does delivery time vary from one order to another? Because the total adds the availability of each item, which can take up to 30 business days, to the shipping time, and the order can ship in more than one shipment; if it ships together, it is when the last item becomes available.",
-        "Where can I find YesStyle's coupons and the Reward Code? On the YesStyle page on this site, which lists today's coupons and the CECILIA010 Reward Code. The code goes in the Reward Code field at checkout."
+        "What is YesStyle's Reward Code? CECILIA010 gives up to 5% off the first purchase and 2% off later ones, and goes in its own Reward Code field at checkout. It stacks with one of the store's coupons, and current coupons are on the YesStyle page here on the site."
       ]
     }
   ],
@@ -286,5 +287,15 @@
     {
       "slug": "yesstyle-reward-code-coupon-cecilia010"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Order from the UK, Australia, Ireland or New Zealand if you want the VAT or GST already in the price.",
+      "Use Express in the US, the UK, Australia or New Zealand if you need delivery in 3 to 5 business days; it comes with a higher free-shipping minimum."
+    ],
+    "skipIf": [
+      "Skip YesStyle if you live in Northern Ireland: the store does not serve it at the moment.",
+      "Skip it for a rush order from Ireland: Standard takes 12 to 18 business days and the table lists no Express."
+    ]
+  }
 }

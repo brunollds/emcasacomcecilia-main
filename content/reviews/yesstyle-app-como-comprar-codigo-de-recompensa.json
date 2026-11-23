@@ -78,13 +78,11 @@
       "links": [
         {
           "label": "App Store",
-          "href": "https://apps.apple.com/br/app/id868675907",
-          "sponsored": true
+          "href": "https://apps.apple.com/br/app/id868675907"
         },
         {
           "label": "Google Play",
-          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-          "sponsored": true
+          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
         }
       ]
     },
@@ -186,17 +184,29 @@
       ],
       "postParagraphs": [
         "Sobre segurança da loja, o [YesStyle é confiável?](/reviews/yesstyle-e-confiavel) responde."
-      ]
+      ],
+      "emphasis": "O app é só outro caminho para comprar: o CECILIA010 vale igual no site e no app, e o que o app pode somar são os 50 pontos YS do primeiro download. Quem prefere o site não perde nada."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "A YesStyle tem app? Sim, para Android e iPhone, nos links oficiais do Google Play e da App Store. A loja diz para baixar só por esses dois.",
+        "Qual é o código de recompensa da YesStyle no app? O CECILIA010: 5% na primeira compra e 2% nas seguintes. Na tela \"Enter Code\", ele vai no campo \"Influencer / Rewards Code\", ao lado do \"Coupon Code\", e o resumo mostra a linha \"Influencer Code Discount\".",
         "O CECILIA010 vale no app? Sim. No checkout, toque em \"Enter Code\" e digite o código no campo \"Influencer / Rewards Code\". Ele é código de recompensa, com até 5% extra, e soma com o cupom da loja, que vai no campo \"Coupon Code\".",
         "O app da YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app.",
         "Ganho pontos por baixar o app? Sim, uma vez por conta: 50 pontos YS no primeiro download do app com login. Reinstalar ou usar outro aparelho não dá de novo, e os pontos não são o código de recompensa.",
         "O app tem cupom exclusivo? A loja diz que publica um cupom de 24 horas, uma vez por mês, só para pedido no app. Na época do teste do app não havia um ativo; os cupons ativos ficam na página da loja."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você prefere comprar pelo celular e quer saber onde o código de recompensa CECILIA010 entra no app.",
+      "Você já tem conta no site: no app é a mesma, e a sacola é uma só se você estiver logado."
+    ],
+    "skipIf": [
+      "Você precisa receber no Brasil: a entrega ao Brasil está suspensa temporariamente no site e no app.",
+      "Você conta com um cupom exclusivo do app: a loja diz que ele sai uma vez por mês, em horário aleatório, e pode não haver um ativo."
+    ]
+  }
 }

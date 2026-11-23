@@ -4,7 +4,7 @@
   "locale": "en",
   "translationKey": "yesstyle-vs-alternatives",
   "title": "YesStyle vs Stylevana: returns, free shipping and Reward Code compared, with Olive Young, StyleKorean and Jolse",
-  "seoTitle": "YesStyle vs Stylevana: returns, free shipping and Reward Code",
+  "seoTitle": "YesStyle vs Stylevana: returns, free shipping, Reward Code",
   "type": "Store Comparison",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -160,7 +160,8 @@
       "bullets": [
         "To decide: compare the deadline and what each store accepts in the returns table above.",
         "In any country: check each store's official page for shipping, who pays the tax and what it takes back before placing the order."
-      ]
+      ],
+      "emphasis": "The country decides before the price does: start with the store that ships to your address, and let the returns table break the tie."
     },
     {
       "heading": "Frequently asked questions",
@@ -169,7 +170,7 @@
         "Is YesStyle the same as SHEIN? No: YesStyle does not appear in the SHEIN Group's list of brands and says it belongs to YesAsia Holdings, of Hong Kong.",
         "What is the order limit at StyleKorean? US$ 500 per order, not counting shipping; above that, the store asks you to split it into two orders.",
         "Can I return an opened beauty product? Not for a change of mind, at any of the five stores; Stylevana accepts a change of mind only if the product is new, sealed and unused.",
-        "Where does the YesStyle Reward Code go? CECILIA010 goes in the separate Reward Code field at checkout, not in the coupon box, and stacks with the store's own coupons. Current coupons are on the YesStyle page here on the site."
+        "What is YesStyle's Reward Code? CECILIA010 gives up to 5% off the first purchase and 2% off later ones, and goes in its own Reward Code field at checkout. It stacks with one of the store's coupons, and current coupons are on the YesStyle page here on the site."
       ]
     }
   ],
@@ -196,5 +197,15 @@
       "slug": "yesstyle-reward-code-coupon-cecilia010"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-09",
+  "decision": {
+    "takeIf": [
+      "Take YesStyle or Stylevana if you want 14 days after delivery to request a return; both give you that window.",
+      "Consider Olive Young Global if you want an approved return refunded to your payment method, with the store paying the return shipping. It only takes back defective or wrong items."
+    ],
+    "skipIf": [
+      "Skip all five if you plan to return an opened beauty product for a change of mind: none of them accepts it.",
+      "Skip Jolse if you need more than 7 days to ask for a return: it asks for photos and only takes back defective, wrong or missing items."
+    ]
+  }
 }

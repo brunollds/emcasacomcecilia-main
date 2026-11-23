@@ -4,6 +4,13 @@
   "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)",
   "type": "指南與優惠碼",
   "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
   "description": "這份實用指南教你在 YesStyle 使用網紅代碼 CECILIA010：結帳頁要在哪裡輸入（Reward Code 欄位）、如何與現有優惠券疊加，另附韓系美妝購物小撇步。",
   "publishedAt": "11 Jul 2026",
   "publishedAtISO": "2026-07-11",
@@ -11,33 +18,15 @@
   "draft": false,
   "image": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
   "imageAlt": "製造商官方圖片中的Abib PDRN Collagen Glazed Jelly唇膜，旁邊是YesStyle標誌與獎勵碼CECILIA010。",
-  "pros": [
-    "網紅代碼，可在符合資格的促銷優惠券之外再疊加高達 5% 的優惠",
-    "首購（額外 5%）和回購訂單（額外 2%）皆可適用",
-    "滿一定金額即享免運費，門檻會顯示在結帳頁",
-    "商品豐富：韓系美妝、韓國服飾與日系美妝",
-    "YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商",
-    "網站頂端可切換語言"
-  ],
-  "cons": [
-    "無法取代一般優惠券（要填在另一個欄位）",
-    "跨境訂單可能產生關稅等費用，下單前請先查看 YesStyle 的退款政策",
-    "屬於跨境購物，送達時間比本地商店更久",
-    "結帳金額依 YesStyle 內部匯率換算，銀行或發卡機構可能另收海外交易手續費"
-  ],
+  "pros": [],
+  "cons": [],
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "notes": [
-    {
-      "label": "Cecília 的小提醒",
-      "body": "代碼欄位在結帳頁的「Reward Code」處。打開商店之前先複製 CECILIA010，這樣結帳時直接貼上就行。",
-      "anchor": "como-funciona-o-codigo-cecilia010"
-    }
-  ],
   "cta": {
     "text": "在 YesStyle 結帳時使用 CECILIA010 獎勵碼。",
     "label": "前往 YesStyle 使用代碼",
-    "url": "https://ystyle.co/rQYQv"
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
   },
   "contentSections": [
     {
@@ -142,8 +131,7 @@
       "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
       "imageAlt": "YesStyle 訂單摘要：優惠券和 CECILIA010 代碼已套用，折扣分開顯示。",
       "imageCaption": "摘要中的折扣是分開列示的：有效優惠券，以及作為網紅代碼的 CECILIA010。",
-      "imageFit": "contain",
-      "emphasis": "Cecília 的小提醒：不要因為代碼被接受就直接下單。付款前，請在訂單摘要中核對最終金額，確認折扣真的已經顯示出來。"
+      "imageFit": "contain"
     },
     {
       "heading": "如何找到 YesStyle 目前有效的優惠券",
@@ -192,7 +180,8 @@
         "多看評價（reviews）：真實照片、對質地、氣味和效果的評論，以及有效期限資訊。",
         "留意促銷季：黑色星期五（11 月）、11.11（單身節）、聖誕節、Summer Sale（6/7 月）、Back to School（8/9 月）。",
         "一律使用 CECILIA010：不用花一毛錢，正確套用後可額外享高達 5% 優惠（首購 5% / 回購 2%），還能支持這個部落格。"
-      ]
+      ],
+      "emphasis": "首購 5%、之後 2% 看起來不多，但代價只是把一個代碼貼進一個欄位。我每個購物車都先填上它，然後才去想優惠券：這是最容易拿到、也最容易忘記的折扣。"
     },
     {
       "heading": "關於 YesStyle 代碼 CECILIA010 的常見問題（FAQ）",
@@ -225,6 +214,40 @@
   "metaDescription": "如何在 YesStyle 使用 CECILIA010：填入 Reward Code 欄位，可額外享高達 5% 優惠（首購 5%，回購 2%），並可依結帳頁顯示與符合資格的促銷優惠券疊加。",
   "imageFit": "contain",
   "imageAspect": "landscape",
+  "notes": [
+    {
+      "label": "Cecília 的小提醒",
+      "body": "代碼欄位在結帳頁的「Reward Code」處。打開商店之前先複製 CECILIA010，這樣結帳時直接貼上就行。",
+      "anchor": "como-funciona-o-codigo-cecilia010"
+    }
+  ],
   "editorialNote": "聯盟連結：我們可能會透過連結和 Reward Code CECILIA010 獲得佣金。",
-  "isNew": false
+  "isNew": false,
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-first-order-cecilia010-zh-hant"
+    },
+    {
+      "slug": "yesstyle-valid-coupon-guide-zh-hant"
+    },
+    {
+      "slug": "yesstyle-trust-guide-zh-hant"
+    },
+    {
+      "slug": "yesstyle-app-reward-code-zh-hant"
+    },
+    {
+      "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "你準備在 YesStyle 下單，想在商店優惠券之外再多省一點，哪怕不多。",
+      "你手上已經有優惠券，想弄清楚每個代碼該填在哪個欄位。"
+    ],
+    "skipIf": [
+      "你期待大額折扣：CECILIA010 首購 5%、之後 2%，僅此而已。",
+      "你想找能取代商店優惠券的代碼：CECILIA010 是獎勵碼，只能與一張優惠券疊加，取代不了它。"
+    ]
+  }
 }

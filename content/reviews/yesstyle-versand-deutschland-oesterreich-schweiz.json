@@ -210,7 +210,8 @@
           "label": "Den YesStyle-Gutschein von heute und den Reward Code CECILIA010 ansehen",
           "href": "/de/coupons/yesstyle"
         }
-      ]
+      ],
+      "emphasis": "Für Deutschland, Österreich und die Schweiz ist YesStyle gut kalkulierbar: Lieferzeit, Versandkosten und Mehrwertsteuer stehen vor der Zahlung fest. Nur die Wartezeit einzelner Artikel kann die Rechnung nach hinten verschieben."
     },
     {
       "heading": "Häufige Fragen",
@@ -224,7 +225,7 @@
         "Wie gebe ich ein Produkt von YesStyle zurück? Fordern Sie die RMA-Nummer innerhalb von 14 Tagen nach Erhalt an und schicken Sie das Paket innerhalb von 30 Tagen nach Ausstellung der RMA ab. Laut der Richtlinie des Shops werden geöffnete Beauty-Produkte und Nahrungsergänzungsmittel nicht zurückgenommen, und eine Hautreaktion begründet keinen Anspruch auf Erstattung.",
         "Von wo versendet YesStyle? Jede Bestellung verlässt das Lager von YesStyle in Hongkong.",
         "Warum ändert sich die Lieferzeit von Bestellung zu Bestellung? Weil sich die Gesamtzeit aus der Verfügbarkeit der Artikel, die bis zu 30 Werktage dauern kann, und der Versanddauer zusammensetzt. Die Bestellung kann in mehreren Sendungen verschickt werden; wird alles zusammen verschickt, dann erst, sobald der letzte Artikel verfügbar ist.",
-        "Wo finde ich die Gutscheine und den Reward Code von YesStyle? Auf der YesStyle-Seite dieser Website, mit den aktuellen Gutscheinen und dem Reward Code CECILIA010, der in das Feld Reward Code kommt."
+        "Wie lautet der Reward Code von YesStyle? CECILIA010 gibt bis zu 5 % auf den ersten Einkauf und 2 % auf die folgenden und kommt im Checkout in ein eigenes Feld, Reward Code. Er lässt sich mit einem Gutschein des Shops kombinieren, und die aktuellen Gutscheine stehen auf der YesStyle-Seite hier auf der Website."
       ]
     }
   ],
@@ -247,5 +248,15 @@
     {
       "slug": "yesstyle-reward-code-rabatt-cecilia010"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Bestellen Sie aus Deutschland oder Österreich, wenn die Mehrwertsteuer schon im Preis stecken soll; YesStyle übernimmt derzeit auch die EU-Gebühr für Sie.",
+      "Bestellen Sie aus Österreich, wenn Sie das Paket lieber an einer Abholstelle abholen: Dafür gibt es Standard Self-Pickup mit gleicher Lieferzeit und gleichem Preis."
+    ],
+    "skipIf": [
+      "Lassen Sie es, wenn das Paket in unter zwei Wochen da sein muss: Der Standardversand allein dauert 10 bis 15 Werktage.",
+      "Lassen Sie es, wenn Sie Artikel auf Lager und Artikel mit Wartezeit zusammen bestellen und alles auf einmal erwarten: Kommt alles in einer Sendung, geht sie erst raus, wenn der letzte Artikel verfügbar ist."
+    ]
+  }
 }

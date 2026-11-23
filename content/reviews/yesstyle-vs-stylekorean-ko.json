@@ -32,7 +32,7 @@
     {
       "heading": "핵심 요약",
       "paragraphs": [
-        "위험을 감수하고 싶지 않다면 YesStyle로 가세요. Trustpilot 평점은 4.4(리뷰 104,969건)로 StyleKorean의 1.9(137건)보다 높습니다. CECILIA010은 최대 5%를 더 깎아 줍니다. 배송비와 부과금은 계산에 들어 있지 않습니다. 표에 나온 나라 밖에 산다면 결제 화면에서 내 주소로 배송되는지, 배송비와 부과금이 얼마인지 먼저 확인하세요."
+        "위험을 감수하고 싶지 않다면 YesStyle로 가세요. Trustpilot 평점은 4.4(리뷰 105,442건)로 StyleKorean의 1.9(137건)보다 높습니다. CECILIA010은 최대 5%를 더 깎아 줍니다. 배송비와 부과금은 계산에 들어 있지 않습니다. 표에 나온 나라 밖에 산다면 결제 화면에서 내 주소로 배송되는지, 배송비와 부과금이 얼마인지 먼저 확인하세요."
       ]
     },
     {
@@ -41,7 +41,7 @@
         "가격을 보기 전에, 주문 반대편에 어떤 쇼핑몰이 있는지 먼저 살펴보세요. 두 곳의 평판 차이는 큽니다."
       ],
       "comparisonTable": {
-        "caption": "Trustpilot 프로필, 11월 8일 기준.",
+        "caption": "Trustpilot 프로필, 11월 기준.",
         "headers": [
           "쇼핑몰",
           "Trustpilot 평점",
@@ -51,7 +51,7 @@
           [
             "YesStyle",
             "4.4",
-            "104,969"
+            "105,442"
           ],
           [
             "StyleKorean",
@@ -338,6 +338,7 @@
     {
       "heading": "자주 묻는 질문",
       "bullets": [
+        "YesStyle의 리워드 코드는 무엇인가요? CECILIA010은 첫 구매에 5%, 이후 구매에 2%를 추가로 할인해 주며 종료일은 없습니다. 결제 화면의 Reward Code 칸에 입력하고, YesStyle이 직접 내놓는 쿠폰 하나와 함께 쓸 수 있습니다.",
         "StyleKorean 코드도 있나요? 아니요. CECILIA010은 YesStyle 전용이며 StyleKorean에서는 작동하지 않습니다.",
         "StyleKorean은 YesStyle의 계열사인가요? 아니요. StyleKorean은 한국의 Silicon2 소속이고, YesStyle은 홍콩의 YesAsia 소속입니다.",
         "내가 사는 나라에도 배송되나요? 포르투갈, 미국, 영국, 독일은 이 글의 표에 있습니다. 다른 배송지는 [YesStyle 배송 안내](/ko/reviews/yesstyle-shipping-korea-ko)에서 확인하세요.",
@@ -379,5 +380,5 @@
       "slug": "yesstyle-reward-code-cecilia010-ko"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

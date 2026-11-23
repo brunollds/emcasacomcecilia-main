@@ -78,13 +78,11 @@
       "links": [
         {
           "label": "App Store",
-          "href": "https://apps.apple.com/br/app/id868675907",
-          "sponsored": true
+          "href": "https://apps.apple.com/br/app/id868675907"
         },
         {
           "label": "Google Play",
-          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-          "sponsored": true
+          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
         }
       ]
     },
@@ -179,16 +177,28 @@
       ],
       "postParagraphs": [
         "쇼핑몰 안전성은 [YesStyle은 믿을 만한가요?](/ko/reviews/yesstyle-trust-guide-ko)에서 다룹니다."
-      ]
+      ],
+      "emphasis": "앱은 주문하는 또 하나의 경로일 뿐입니다. CECILIA010은 웹사이트와 앱에서 똑같이 적용되고, 앱이 더해 줄 수 있는 것은 첫 다운로드 때의 50 YS 포인트 정도입니다. 웹사이트가 편하다면 잃는 것은 없습니다."
     },
     {
       "heading": "자주 묻는 질문",
       "bullets": [
         "YesStyle에 앱이 있나요? 네, Android와 iPhone용이 있으며 Google Play와 App Store의 공식 링크에서 받을 수 있습니다. 쇼핑몰은 이 두 곳에서만 내려받으라고 안내합니다.",
+        "앱에서 쓰는 YesStyle 리워드 코드는 무엇인가요? CECILIA010입니다. 첫 주문에 5%, 이후 주문에 2%이며, \"Enter Code\" 화면의 \"Influencer / Rewards Code\" 칸에 \"Coupon Code\" 칸과 나란히 입력하고, 요약에는 \"Influencer Code Discount\" 줄이 표시됩니다.",
         "앱에서도 CECILIA010을 쓸 수 있나요? 네. 결제 화면에서 \"Enter Code\"를 누르고 \"Influencer / Rewards Code\" 칸에 코드를 입력하세요. 리워드 코드이며 최대 5% 추가 할인을 주고, \"Coupon Code\" 칸에 입력하는 쇼핑몰 쿠폰과 함께 쓸 수 있습니다.",
         "앱을 내려받으면 포인트를 받나요? 네, 앱을 처음 내려받아 로그인하면 YS 포인트 50점을 계정당 한 번 받습니다. 다시 설치하거나 다른 기기에서 로그인해도 다시 지급되지 않으며, 포인트는 리워드 코드가 아닙니다.",
         "앱 전용 쿠폰이 있나요? 쇼핑몰은 한 달에 한 번, 앱 주문에만 쓸 수 있는 24시간 쿠폰을 공개한다고 안내합니다. 앱을 테스트한 시점에는 사용 가능한 쿠폰이 없었습니다. 사용 가능한 쿠폰은 쇼핑몰 페이지에서 확인하세요."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "휴대폰으로 주문하는 쪽을 선호하고, 앱에서 리워드 코드 CECILIA010을 어디에 입력하는지 알고 싶은 분.",
+      "이미 웹사이트 계정이 있는 분: 앱에서도 같은 계정을 쓰고, 로그인하면 장바구니도 하나로 이어집니다."
+    ],
+    "skipIf": [
+      "매장이 배송하지 않는 나라로 받아야 하는 분: 앱으로 주문해도 배송지 규정은 바뀌지 않습니다.",
+      "앱 전용 쿠폰을 기대하는 분: 매장에 따르면 한 달에 한 번 무작위 시간에 나오므로 진행 중인 쿠폰이 없을 수 있습니다."
+    ]
+  }
 }

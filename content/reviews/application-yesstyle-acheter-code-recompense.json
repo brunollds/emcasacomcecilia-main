@@ -78,13 +78,11 @@
       "links": [
         {
           "label": "App Store",
-          "href": "https://apps.apple.com/br/app/id868675907",
-          "sponsored": true
+          "href": "https://apps.apple.com/br/app/id868675907"
         },
         {
           "label": "Google Play",
-          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-          "sponsored": true
+          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
         }
       ]
     },
@@ -179,16 +177,28 @@
       ],
       "postParagraphs": [
         "Si le problème persiste, consultez le centre d'aide de YesStyle. Sur la sécurité de la boutique, [YesStyle est-il fiable ?](/fr/reviews/yesstyle-est-il-fiable-et-sur) répond."
-      ]
+      ],
+      "emphasis": "L'appli n'est qu'une autre façon de commander : CECILIA010 vaut autant sur le site que dans l'appli, et ce que l'appli peut ajouter, ce sont les 50 points YS du premier téléchargement. Si vous préférez le site, vous ne perdez rien."
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
         "YesStyle a-t-il une appli ? Oui, pour Android et iPhone, sur les liens officiels de Google Play et de l'App Store. La boutique indique de télécharger uniquement depuis ces deux liens.",
+        "Quel est le code récompense YesStyle dans l'appli ? CECILIA010 : 5 % sur la première commande et 2 % sur les suivantes. Sur l'écran « Enter Code », il va dans le champ « Influencer / Rewards Code », à côté de « Coupon Code », et le récapitulatif affiche la ligne « Influencer Code Discount ».",
         "Le CECILIA010 fonctionne-t-il dans l'appli ? Oui. À la validation de commande, touchez « Enter Code » et saisissez le code dans le champ « Influencer / Rewards Code ». C'est un code de récompense, avec jusqu'à 5 % en plus, et il se cumule avec le coupon de la boutique, qui se saisit dans le champ « Coupon Code ».",
         "Gagne-t-on des points en téléchargeant l'appli ? Oui, si c'est la première fois : 50 points YS au premier téléchargement de l'appli suivi d'une connexion, une fois par compte. Réinstaller ou changer d'appareil ne les redonne pas, et les points ne sont pas le code récompense.",
         "L'appli a-t-elle un coupon exclusif ? La boutique indique publier un coupon de 24 heures, une fois par mois, réservé aux commandes dans l'appli. Lors du test de l'appli, aucun n'était actif ; les coupons actifs figurent sur la page de la boutique."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Vous préférez commander depuis votre téléphone et voulez savoir où saisir le code récompense CECILIA010 dans l'appli.",
+      "Vous avez déjà un compte sur le site : c'est le même dans l'appli, et le panier est unique si vous êtes connecté."
+    ],
+    "skipIf": [
+      "Vous devez être livré dans un pays que la boutique ne dessert pas : commander dans l'appli ne change pas les règles de destination.",
+      "Vous comptez sur un coupon réservé à l'appli : la boutique dit en sortir un par mois, à une heure aléatoire, et il peut ne pas y en avoir d'actif."
+    ]
+  }
 }

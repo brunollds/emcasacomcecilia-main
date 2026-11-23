@@ -4,7 +4,7 @@
   "locale": "fr",
   "translationKey": "yesstyle-vs-alternatives",
   "title": "YesStyle ou Stylevana : retours, livraison gratuite et code récompense côte à côte, avec Olive Young, StyleKorean et Jolse",
-  "seoTitle": "YesStyle ou Stylevana : retours, livraison gratuite et code récompense",
+  "seoTitle": "YesStyle ou Stylevana : retours et code récompense",
   "type": "Comparatif de boutiques",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -93,7 +93,7 @@
       "heading": "StyleKorean : livraison, limite et retour",
       "paragraphs": [
         "Chez StyleKorean, les frais de port sont calculés selon le poids et les commandes partent d'un entrepôt en Corée. La livraison gratuite ne vaut que pour les produits de beauté et, d'après le tableau de la page de livraison, commence entre US$ 60 et US$ 100 selon le pays. La commande est limitée à US$ 500, hors frais de port. Le retour pour rétractation exige un produit scellé et inutilisé, et les frais de port sont déduits du remboursement.",
-        "Pour voir StyleKorean à côté de YesStyle, avec les prix, la livraison, les taxes et les retours, lisez [YesStyle ou StyleKorean : laquelle vaut le coup pour votre porte-monnaie ? Comparaison directe](/fr/reviews/yesstyle-ou-stylekorean-que-choisir)."
+        "Pour voir StyleKorean à côté de YesStyle, avec les prix, la livraison, les taxes et les retours, lisez [YesStyle ou StyleKorean : laquelle vaut le coup pour votre porte-monnaie ? Comparaison directe](/fr/reviews/yesstyle-ou-stylekorean-que-choisir)."
       ],
       "links": [
         {
@@ -160,7 +160,8 @@
       "bullets": [
         "Pour décider : comparez le délai et ce que chaque boutique reprend, dans le tableau des retours ci-dessus.",
         "Quel que soit le pays : vérifiez sur la page officielle de chaque boutique la livraison, qui paie les taxes et ce qu'elle reprend avant de valider la commande."
-      ]
+      ],
+      "emphasis": "Le pays décide avant le prix : partez de la boutique qui livre à votre adresse, puis laissez le tableau des retours les départager."
     },
     {
       "heading": "Questions fréquentes",
@@ -169,7 +170,7 @@
         "YesStyle, est-ce pareil que SHEIN ? Non : YesStyle ne figure pas dans la liste des marques du SHEIN Group et dit appartenir à YesAsia Holdings, de Hong Kong.",
         "Quelle est la limite de commande chez StyleKorean ? US$ 500 par commande, hors frais de port ; au-delà, la boutique demande de la scinder en deux commandes.",
         "Puis-je retourner un produit de beauté ouvert ? Pas pour changement d'avis, dans aucune des cinq boutiques ; Stylevana accepte le changement d'avis seulement si le produit est neuf, scellé et inutilisé.",
-        "Où va le code récompense de YesStyle ? CECILIA010 se saisit dans le champ Reward Code au paiement, et non dans le champ des codes promo, et se cumule avec les coupons de la boutique. Les coupons du moment sont sur la page YesStyle de ce site."
+        "Quel est le code récompense de YesStyle ? CECILIA010 donne jusqu'à 5 % sur le premier achat et 2 % sur les suivants, et se saisit dans un champ à part, Reward Code, au paiement. Il se cumule avec un coupon de la boutique, et les coupons du moment sont sur la page YesStyle de ce site."
       ]
     }
   ],
@@ -196,5 +197,15 @@
       "slug": "code-recompense-yesstyle-cecilia010"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-09",
+  "decision": {
+    "takeIf": [
+      "Prenez YesStyle ou Stylevana si vous voulez 14 jours après réception pour demander un retour : les deux accordent ce délai.",
+      "Envisagez Olive Young Global si vous préférez qu'un retour approuvé soit remboursé sur le moyen de paiement, avec les frais de retour payés par la boutique. Elle ne reprend que les articles défectueux ou erronés."
+    ],
+    "skipIf": [
+      "Passez votre tour pour les cinq si vous comptez retourner un produit de beauté ouvert pour changement d'avis : aucune ne l'accepte.",
+      "Passez votre tour pour Jolse si vous avez besoin de plus de 7 jours pour demander le retour : elle exige des photos et ne reprend que les articles défectueux, erronés ou manquants."
+    ]
+  }
 }

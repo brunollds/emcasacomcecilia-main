@@ -69,12 +69,12 @@
           [
             "Reviews",
             "137",
-            "104,972"
+            "105,442"
           ],
           [
             "In the last 12 months",
             "45",
-            "11,618"
+            "12,070"
           ],
           [
             "5 stars",
@@ -246,15 +246,6 @@
       ]
     },
     {
-      "heading": "What we can't conclude",
-      "bullets": [
-        "**How often an order goes wrong:** Trustpilot shows who wrote, not the total number of orders.",
-        "**Which country carries more risk:** the complaints come from the US, Canada, the UK, Italy, Germany, Spain, the UAE and Saudi Arabia, among others, in numbers too small to compare.",
-        "**Whether support improved with the replies on Trustpilot:** the profile only recently started answering.",
-        "**Whether it is more or less safe than any other store:** the only comparison here is with YesStyle."
-      ]
-    },
-    {
       "heading": "Before you pay",
       "paragraphs": [
         "If the product you want is only at StyleKorean, or costs much less there, check in this order:"
@@ -303,7 +294,8 @@
           "objectFit": "square",
           "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
         }
-      ]
+      ],
+      "emphasis": "A low rating doesn't prove your order will go wrong, but StyleKorean's complaints keep landing on the same two points: delivery and import charges. If the saving is small, it isn't worth the risk."
     },
     {
       "heading": "What about other countries?",
@@ -321,6 +313,7 @@
         "Why was I charged tax on delivery? Because, outside the US and Canada, the store does not include charges in the price and leaves them to the customer, and they can be collected before delivery.",
         "What happens if I refuse the parcel? If the refusal is over a customs issue, such as unpaid tax, the store's policy excludes refund and reshipping.",
         "Can I get a refund at StyleKorean? The policy provides for a refund in store points, valid for 6 months, or to the payment method. For the latter, it mentions 2 to 14 business days. Some reviewers report delayed or missing refunds.",
+        "What is the YesStyle Reward Code? CECILIA010 gives 5% extra on a first order and 2% on the ones after, with no end date. It goes in the Reward Code field at checkout and stacks with one coupon from YesStyle itself.",
         "Do you have a StyleKorean code? No. CECILIA010 is only for YesStyle and does not work at StyleKorean."
       ]
     }
@@ -359,5 +352,5 @@
       "slug": "yesstyle-shipping-us-uk-canada-australia"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

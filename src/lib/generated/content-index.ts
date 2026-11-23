@@ -29296,9 +29296,16 @@ export const reviewsData: unknown[] = [
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "O CECILIA010 é um código de recompensa da YesStyle com até 5% extra: 5% na primeira compra e 2% nas seguintes. Veja onde digitar no Reward Code e como soma com os cupons.",
     "metaDescription": "O código CECILIA010 dá até 5% extra na YesStyle: 5% na primeira compra e 2% nas recorrentes. Veja onde fica o campo Reward Code no checkout.",
-    "publishedAt": "21 Jun 2026",
+    "publishedAt": "21 de junho de 2026",
     "publishedAtISO": "2026-06-21",
     "updatedAt": "2026-11-06",
     "draft": false,
@@ -29306,20 +29313,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Máscara labial Abib PDRN Collagen Glazed Jelly em foto oficial do fabricante, ao lado do logo da YesStyle e do Reward Code CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Código de influenciador que soma até 5% extra aos cupons promocionais elegíveis",
-      "Válido tanto na primeira compra (5% extra) quanto em pedidos recorrentes (2% extra)",
-      "Frete grátis a partir de um valor mínimo, que aparece no checkout",
-      "Catálogo extenso de K-Beauty, moda coreana e J-Beauty",
-      "A YesStyle declara ser revendedora autorizada de mais de 400 marcas de beleza coreana",
-      "Site com navegação e checkout em português"
-    ],
-    "cons": [
-      "Não substitui os cupons normais (funciona em campo separado)",
-      "Pedidos internacionais podem gerar taxas alfandegárias; verifique a política de reembolso da YesStyle antes de comprar",
-      "Compra internacional: o prazo de entrega é maior que o de uma loja nacional",
-      "Preços e cobrança convertidos pelo câmbio interno da YesStyle, sujeitos a taxas de compra internacional do banco"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -29423,8 +29418,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "Resumo do pedido na YesStyle mostrando cupom e código CECILIA010 aplicados com descontos separados.",
         "imageCaption": "No resumo, os descontos aparecem separados: cupom ativo e CECILIA010 como código de influenciador.",
-        "imageFit": "contain",
-        "emphasis": "Dica da Cecília: não finalize a compra só porque o código foi aceito. Confira o valor final no resumo do pedido e veja se o desconto realmente apareceu antes de pagar."
+        "imageFit": "contain"
       },
       {
         "heading": "Como encontrar cupons ativos da YesStyle",
@@ -29481,7 +29475,8 @@ export const reviewsData: unknown[] = [
           "Compare com o preço no Brasil: pesquise em Beleza na Web, Sephora e revendedores de K-beauty antes de comprar.",
           "Fique de olho nas estações: Black Friday (novembro), 11.11 (Dia dos Solteiros), Natal, Summer Sale (junho/julho), Back to School (agosto/setembro).",
           "Use o CECILIA010 sempre: não custa nada, soma até 5% extra (5% 1ª compra / 2% recorrente) quando aplicado corretamente e apoia o blog."
-        ]
+        ],
+        "emphasis": "Os 5% do primeiro pedido e os 2% dos seguintes parecem pouco, mas custam só colar um código num campo. Eu aplico em todo carrinho, antes de pensar em cupom: é o desconto mais fácil de ganhar e o mais fácil de esquecer."
       },
       {
         "heading": "Perguntas frequentes sobre o código CECILIA010 na YesStyle (FAQ)",
@@ -29511,7 +29506,8 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Use o código de influenciador oficial CECILIA010 no checkout da YesStyle.",
       "label": "Acessar YesStyle e usar código CECILIA010",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -29524,7 +29520,34 @@ export const reviewsData: unknown[] = [
     ],
     "editorialNote": "Links de afiliado: podemos receber comissão pelos links e pelo Reward Code CECILIA010.",
     "locale": "pt",
-    "translationKey": "yesstyle-reward-code"
+    "translationKey": "yesstyle-reward-code",
+    "relatedArticles": [
+      {
+        "slug": "codigo-yesstyle-primeira-compra-cecilia010"
+      },
+      {
+        "slug": "como-encontrar-cupons-yesstyle-validos"
+      },
+      {
+        "slug": "yesstyle-e-confiavel"
+      },
+      {
+        "slug": "yesstyle-app-como-comprar-codigo-de-recompensa"
+      },
+      {
+        "slug": "yesstyle-entrega-no-brasil-e-portugal"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai comprar na YesStyle e quer um desconto a mais por cima do cupom da loja, mesmo que pequeno.",
+        "Você já tem um cupom em mãos e quer saber em qual campo cada código entra."
+      ],
+      "skipIf": [
+        "Você espera um desconto grande: o CECILIA010 dá 5% na primeira compra e 2% nas seguintes, e só isso.",
+        "Você quer um código que substitua o cupom da loja: o CECILIA010 só soma com um cupom, não faz o papel dele."
+      ]
+    }
   },
   {
     "id": 234,
@@ -29534,6 +29557,13 @@ export const reviewsData: unknown[] = [
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "Guia prático para achar os cupons de desconto da YesStyle, entender Coupon Code e Reward Code e usar o CECILIA010: 5% na primeira compra e 2% nas seguintes.",
     "metaDescription": "O código de recompensa CECILIA010 dá até 5% extra na YesStyle. Veja onde achar os cupons da loja em vigor e como evitar os códigos vencidos.",
     "publishedAt": "24 Jul 2026",
@@ -29557,43 +29587,13 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília com faixa rosa mostrando o pote aberto de adesivos de hidrogel rosados da Abib, em frame de vídeo próprio. Na capa, “Como achar e combinar cupons?”, “Cupom da loja + código de recompensa” e o código de recompensa CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Ensina a diferenciar Coupon Code de Reward Code para não ter erros no checkout",
-      "Explica o empilhamento (stacking) para somar cupom do mês com o CECILIA010",
-      "Mostra como economizar até 5% extra com o código de influenciadora oficial",
-      "Mostra onde achar os cupons da YesStyle em vigor para evitar códigos falsos ou expirados",
-      "Direciona para a página atualizada do Em Casa com Cecília com a lista de cupons em vigor"
-    ],
-    "cons": [
-      "Cupons promocionais mensais possuem prazos curtos (geralmente de 72h a 30 dias)",
-      "O desconto do CECILIA010 varia entre 5% na primeira compra e 2% em compras recorrentes",
-      "O total sai na moeda escolhida no site, pelo câmbio da YesStyle, e o banco pode cobrar tarifa de compra internacional"
-    ],
-    "pullQuote": "Use o CECILIA010 no campo Reward Code: 5% na primeira compra e 2% nas seguintes. Se a promoção permitir, aplique também um cupom no campo Coupon Code e confira os dois descontos no resumo do pedido.",
-    "productSpec": [
-      {
-        "key": "Loja",
-        "value": "YesStyle (Oficial)"
-      },
-      {
-        "key": "Código de Recompensa",
-        "value": "CECILIA010 (Até 5% OFF extra)",
-        "highlight": true
-      },
-      {
-        "key": "Campo no Checkout",
-        "value": "Reward Code / Código de Recompensa"
-      },
-      {
-        "key": "Cumulativo",
-        "value": "Pode ser combinado com cupons promocionais elegíveis; confirme no checkout"
-      }
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "Na nossa página, a lista de cupons da YesStyle está atualizada em 22 de novembro de 2026.",
-      "label": "Ver cupons ativos da YesStyle",
-      "url": "/cupons/yesstyle",
-      "sponsored": false
+      "text": "Cole o CECILIA010 no campo Reward Code: 5% extra na primeira compra e 2% nas seguintes.",
+      "label": "Ir para a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -29601,6 +29601,18 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "codigo-cecilia010-yesstyle-como-usar"
+      },
+      {
+        "slug": "codigo-yesstyle-primeira-compra-cecilia010"
+      },
+      {
+        "slug": "yesstyle-e-confiavel"
+      },
+      {
+        "slug": "yesstyle-app-como-comprar-codigo-de-recompensa"
+      },
+      {
+        "slug": "yesstyle-entrega-no-brasil-e-portugal"
       }
     ],
     "contentSections": [
@@ -29632,7 +29644,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Tela de checkout da YesStyle exibindo os campos Coupon Code e Reward Code.",
         "imageCaption": "Os dois campos separados no checkout: Coupon Code (para cupons de promoção) e Reward Code (para o CECILIA010). O cupom do print é de uma campanha que já terminou.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "bullets": [
           "1. Campo \"Coupon Code\" (Código de Cupom): É onde você insere os cupons promocionais do site da YesStyle (como cupons de liquidação ou campanhas de 10% a 15% OFF).",
           "2. Campo \"Reward Code\" / \"Influencer Code\" (Código de Recompensa): é onde você insere o código oficial de influenciadora CECILIA010, com 5% extra na primeira compra e 2% nas seguintes."
@@ -29673,7 +29685,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
         "imageAlt": "Tela do carrinho de compras na loja YesStyle.",
         "imageCaption": "Tela de resumo do carrinho de compras na YesStyle antes de aplicar os códigos de desconto.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Passo 3: aplique o cupom da promoção no campo Coupon Code",
@@ -29690,12 +29702,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Passo 5: confirme o desconto acumulado e finalize o pedido",
         "paragraphs": [
-          "No resumo do pedido, confirme os dois descontos antes de pagar: o cupom e o CECILIA010."
+          "No resumo do pedido, confirme os dois descontos antes de pagar: o cupom e o CECILIA010.",
+          "O total sai na moeda escolhida no site, pelo câmbio da YesStyle, e o banco pode cobrar tarifa de compra internacional."
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "Resumo final do pedido na YesStyle com os descontos acumulados.",
         "imageCaption": "Resumo do checkout confirmando a dobradinha: cupom de promoção + código de recompensa CECILIA010 acumulados com sucesso. O cupom do print é de uma campanha que já terminou.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Onde achar os cupons YesStyle em vigor",
@@ -29715,7 +29728,8 @@ export const reviewsData: unknown[] = [
             "href": "https://ystyle.co/rQYQv",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "Cupom é o que muda de semana em semana; o CECILIA010 é o que fica. Eu deixo o código de recompensa no Reward Code primeiro e só depois confiro qual cupom o checkout aceita hoje."
       },
       {
         "heading": "Perguntas frequentes sobre cupons da YesStyle",
@@ -29724,7 +29738,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Qual é a diferença entre Coupon Code e Influencer/Rewards Code na YesStyle? O Coupon Code é o cupom de promoção, no campo \"Coupon Code\", com prazo e regras próprias: pode ter compra mínima, restrição regional ou produtos não elegíveis. O CECILIA010 é o código de recompensa (Influencer/Rewards Code), no campo separado \"Reward Code\", com 5% na primeira compra e 2% nas seguintes. Quando as regras da promoção permitirem, os dois descontos podem aparecer juntos no resumo do pedido.",
-          "O que é o código de influenciador da YesStyle? É o Código de Recompensa (Reward Code), digitado num campo próprio do checkout, separado do campo de cupom. O nosso é o CECILIA010, que vai no campo Reward Code.",
+          "Qual é o código de recompensa (código de influenciador) da YesStyle? O CECILIA010: dá 5% extra na primeira compra e 2% nas seguintes, no campo Reward Code, e soma com um cupom da loja no campo Coupon Code. É o código de influenciador da Cecília.",
           "Os cupons da YesStyle têm validade? Sim. Os cupons promocionais possuem prazo de validade e podem expirar sem aviso. Algumas campanhas duram poucos dias (como promoções de 72 ou 96 horas), enquanto outras permanecem ativas por períodos diferentes. Antes de finalizar a compra, confira a validade, o valor mínimo, a região e os produtos elegíveis nas regras da promoção e confirme se o desconto apareceu no checkout.",
           "Onde encontro as regras oficiais dos cupons da YesStyle? As regras gerais estão na página \"General Terms and Conditions for Coupons\" da central de atendimento da YesStyle. Para as condições de uma campanha específica, acesse a Central de Atendimento e abra a seção \"Promotions\", onde a YesStyle publica validade, compra mínima, regiões participantes e possíveis exclusões. Como essas condições mudam, consulte também o banner da promoção e o resumo do pedido antes de pagar.",
           "Posso usar mais de um cupom promocional no mesmo pedido? Não. Segundo as regras gerais da YesStyle, somente um Coupon Code pode ser usado por pedido ou pedido combinado. O CECILIA010, porém, não é um Coupon Code: ele deve ser aplicado no campo separado \"Reward Code\". Por isso, um cupom promocional e o CECILIA010 podem ser combinados quando a campanha for elegível e o checkout aceitar ambos."
@@ -29743,7 +29757,17 @@ export const reviewsData: unknown[] = [
     ],
     "locale": "pt",
     "translationKey": "yesstyle-coupon-guide",
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-06",
+    "decision": {
+      "takeIf": [
+        "Você chegou ao checkout da YesStyle com um cupom e não sabe em qual campo cada código entra.",
+        "Seu cupom foi recusado e você quer entender o motivo antes de procurar outro."
+      ],
+      "skipIf": [
+        "Você procura um cupom pronto para copiar: aqui está o método, e a lista do momento fica na página de cupons da YesStyle.",
+        "Você pretende somar dois cupons da loja: a YesStyle aceita só um Coupon Code por pedido, e só o CECILIA010 entra num campo à parte."
+      ]
+    }
   },
   {
     "id": 21,
@@ -29751,6 +29775,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010: Reward Code",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "CECILIA010 is a YesStyle Reward Code worth up to 5% extra: 5% on your first order and 2% after that. See where to enter it and how it stacks with eligible coupons.",
     "metaDescription": "How to use CECILIA010 on YesStyle: the Reward Code field, up to 5% extra (5% on the first order and 2% on repeat orders), combinable with eligible promo coupons as shown at checkout.",
     "publishedAt": "22 Jun 2026",
@@ -29762,20 +29793,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Abib PDRN Collagen Glazed Jelly lip mask in the manufacturer's official image, beside the YesStyle logo and Reward Code CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Influencer code that adds up to 5% extra on top of eligible promo coupons",
-      "Valid for both first-time buyers (5% extra) and repeat orders (2% extra)",
-      "Free shipping from a minimum order value, shown at checkout",
-      "Huge catalog of K-Beauty, Korean fashion and J-Beauty",
-      "YesStyle says it is an authorized reseller of more than 400 Korean beauty brands",
-      "Language selector at the top of the site"
-    ],
-    "cons": [
-      "Does not replace regular coupons (it works in a separate field)",
-      "International orders may incur customs fees; check YesStyle's refund policy before buying",
-      "International purchase: delivery takes longer than from a local store",
-      "Prices converted via YesStyle's internal exchange rate, subject to possible foreign transaction fees from your bank"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Quick answer",
@@ -29879,8 +29898,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "YesStyle order summary showing a coupon and the code CECILIA010 applied as separate discounts.",
         "imageCaption": "In the summary, the discounts appear separately: the active coupon and CECILIA010 as the influencer code.",
-        "imageFit": "contain",
-        "emphasis": "Cecília's tip: don't complete the purchase just because the code was accepted. Check the final amount in the order summary and make sure the discount actually shows up before you pay."
+        "imageFit": "contain"
       },
       {
         "heading": "How to find active YesStyle coupons",
@@ -29929,7 +29947,8 @@ export const reviewsData: unknown[] = [
           "Read the reviews: real photos, comments on texture, scent and results, information on expiry dates.",
           "Watch the seasons: Black Friday (November), 11.11 (Singles' Day), Christmas, Summer Sale (June/July), Back to School (August/September).",
           "Always use CECILIA010: it costs nothing, adds up to 5% extra (5% 1st order / 2% repeat) when applied correctly and supports the blog."
-        ]
+        ],
+        "emphasis": "The 5% on a first order and the 2% on later ones sound small, but they cost nothing more than pasting a code into a field. I add it to every cart before I even think about a coupon: it is the easiest discount to earn and the easiest to forget."
       },
       {
         "heading": "Frequently asked questions about the code CECILIA010 on YesStyle (FAQ)",
@@ -29958,7 +29977,8 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Use the official influencer reward code CECILIA010 at YesStyle checkout.",
       "label": "Go to YesStyle & Use Code CECILIA010",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -29973,7 +29993,34 @@ export const reviewsData: unknown[] = [
     "locale": "en",
     "translationKey": "yesstyle-reward-code",
     "category": "cupons-como-usar",
-    "isNew": false
+    "isNew": false,
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-first-order-reward-code-cecilia010"
+      },
+      {
+        "slug": "how-to-find-valid-yesstyle-coupon-codes"
+      },
+      {
+        "slug": "is-yesstyle-legit-and-safe-review"
+      },
+      {
+        "slug": "yesstyle-app-how-to-buy-reward-code"
+      },
+      {
+        "slug": "yesstyle-shipping-us-uk-canada-australia"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "You are about to order from YesStyle and want a little extra off on top of the store's coupon.",
+        "You already have a coupon and want to know which field each code goes in."
+      ],
+      "skipIf": [
+        "You are expecting a big discount: CECILIA010 gives 5% on a first order and 2% on later ones, and that is all.",
+        "You want a code that replaces the store's coupon. CECILIA010 only stacks with one, so it cannot do its job."
+      ]
+    }
   },
   {
     "id": 22,
@@ -29981,6 +30028,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010: código de recompensa",
     "type": "Guía & Cupones",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "CECILIA010 es un código de recompensa de YesStyle con hasta un 5 % extra: 5 % en la primera compra y 2 % en las siguientes. Mira dónde introducirlo y cómo se suma a los cupones.",
     "metaDescription": "Cómo usar CECILIA010 en YesStyle: campo Reward Code, hasta un 5% extra (5% en la primera compra y 2% en las recurrentes), combinable con cupones promocionales elegibles según el checkout.",
     "publishedAt": "22 Jun 2026",
@@ -29992,20 +30046,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Mascarilla labial Abib PDRN Collagen Glazed Jelly en una imagen oficial del fabricante, junto al logo de YesStyle y el código de recompensa CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Código de influencer que suma hasta un 5% extra a los cupones promocionales elegibles",
-      "Válido tanto en la primera compra (5% extra) como en pedidos recurrentes (2% extra)",
-      "Envío gratis a partir de un importe mínimo, que aparece en el checkout",
-      "Amplio catálogo de K-Beauty, moda coreana y J-Beauty",
-      "YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana",
-      "Selector de idioma en la parte superior del sitio"
-    ],
-    "cons": [
-      "No sustituye a los cupones normales (funciona en un campo aparte)",
-      "Los pedidos internacionales pueden generar tasas de aduana; revisa la política de reembolso de YesStyle antes de comprar",
-      "Compra internacional: el plazo de entrega es mayor que el de una tienda local",
-      "Precios convertidos con el tipo de cambio interno de YesStyle, sujetos a posibles comisiones internacionales del banco"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Respuesta rápida",
@@ -30109,8 +30151,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "Resumen del pedido en YesStyle con un cupón y el código CECILIA010 aplicados como descuentos separados.",
         "imageCaption": "En el resumen, los descuentos aparecen por separado: el cupón activo y CECILIA010 como código de influencer.",
-        "imageFit": "contain",
-        "emphasis": "Consejo de Cecília: no finalices la compra solo porque el código fue aceptado. Revisa el importe final en el resumen del pedido y comprueba que el descuento realmente aparece antes de pagar."
+        "imageFit": "contain"
       },
       {
         "heading": "Cómo encontrar cupones activos de YesStyle",
@@ -30159,7 +30200,8 @@ export const reviewsData: unknown[] = [
           "Lee las reseñas (reviews): fotos reales, comentarios sobre textura, olor y resultado, información sobre la fecha de caducidad.",
           "Atento a las temporadas: Black Friday (noviembre), 11.11 (Día de los Solteros), Navidad, Summer Sale (junio/julio), Back to School (agosto/septiembre).",
           "Usa siempre CECILIA010: no cuesta nada, suma hasta un 5% extra (5% 1.ª compra / 2% recurrente) cuando se aplica correctamente y apoya el blog."
-        ]
+        ],
+        "emphasis": "El 5% del primer pedido y el 2% de los siguientes parecen poco, pero solo cuestan pegar un código en un campo. Yo lo aplico en cada carrito antes de pensar en cupones: es el descuento más fácil de conseguir y el más fácil de olvidar."
       },
       {
         "heading": "Preguntas frecuentes sobre el código CECILIA010 en YesStyle (FAQ)",
@@ -30188,7 +30230,8 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Usa el código oficial de influencer CECILIA010 en el checkout de YesStyle.",
       "label": "Ir a YesStyle y usar Código CECILIA010",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -30203,7 +30246,34 @@ export const reviewsData: unknown[] = [
     "locale": "es",
     "translationKey": "yesstyle-reward-code",
     "category": "cupons-como-usar",
-    "isNew": false
+    "isNew": false,
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-primera-compra-codigo-cecilia010"
+      },
+      {
+        "slug": "como-encontrar-cupones-yesstyle-validos"
+      },
+      {
+        "slug": "es-yesstyle-de-fiar-y-seguro"
+      },
+      {
+        "slug": "app-yesstyle-como-comprar-codigo-de-recompensa"
+      },
+      {
+        "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Vas a comprar en YesStyle y quieres un descuento extra, aunque sea pequeño, sobre el cupón de la tienda.",
+        "Ya tienes un cupón a mano y quieres saber en qué campo va cada código."
+      ],
+      "skipIf": [
+        "Esperas un descuento grande: CECILIA010 da un 5% en la primera compra y un 2% en las siguientes, y nada más.",
+        "Quieres un código que sustituya al cupón de la tienda: CECILIA010 solo se suma a un cupón y no hace su trabajo."
+      ]
+    }
   },
   {
     "id": 23,
@@ -30211,6 +30281,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010 : code de récompense",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "CECILIA010 est un code de récompense YesStyle : jusqu'à 5 % en plus, soit 5 % sur la première commande et 2 % ensuite. Voyez où le saisir et comment le cumuler avec les coupons.",
     "metaDescription": "Comment utiliser CECILIA010 sur YesStyle : champ Reward Code, jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes), cumulable avec les coupons promotionnels éligibles selon le paiement.",
     "publishedAt": "22 Jun 2026",
@@ -30222,20 +30299,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Masque pour les lèvres Abib PDRN Collagen Glazed Jelly dans une image officielle du fabricant, à côté du logo YesStyle et du code de récompense CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Code d'influenceuse qui ajoute jusqu'à 5 % en plus des coupons promotionnels éligibles",
-      "Valable aussi bien pour une première commande (5 % en plus) que pour des achats récurrents (2 % en plus)",
-      "Livraison gratuite à partir d'un montant minimum, indiqué au paiement",
-      "Vaste catalogue de K-Beauty, de mode coréenne et de J-Beauty",
-      "YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne",
-      "Sélecteur de langue en haut du site"
-    ],
-    "cons": [
-      "Ne remplace pas les coupons classiques (il s'utilise dans un champ séparé)",
-      "Les commandes internationales peuvent entraîner des frais de douane ; consultez la politique de remboursement de YesStyle avant d'acheter",
-      "Achat international : le délai de livraison est plus long que dans une boutique locale",
-      "Prix convertis selon le taux de change interne de YesStyle, avec d'éventuels frais bancaires pour paiement à l'étranger"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Réponse rapide",
@@ -30339,8 +30404,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "Récapitulatif de commande YesStyle montrant un coupon et le code CECILIA010 appliqués avec des remises séparées.",
         "imageCaption": "Dans le récapitulatif, les remises apparaissent séparément : le coupon actif et CECILIA010 comme code d'influenceuse.",
-        "imageFit": "contain",
-        "emphasis": "Conseil de Cecília : ne finalisez pas l'achat simplement parce que le code a été accepté. Vérifiez le montant final dans le récapitulatif de la commande et assurez-vous que la remise apparaît bien avant de payer."
+        "imageFit": "contain"
       },
       {
         "heading": "Comment trouver les coupons YesStyle actifs",
@@ -30389,7 +30453,8 @@ export const reviewsData: unknown[] = [
           "Lisez les avis (reviews) : photos réelles, commentaires sur la texture, l'odeur et le résultat, informations sur la durée de conservation.",
           "Surveillez les saisons : Black Friday (novembre), 11.11 (Fête des célibataires), Noël, Summer Sale (juin/juillet), Back to School (août/septembre).",
           "Utilisez toujours CECILIA010 : ça ne coûte rien, il ajoute jusqu'à 5 % en plus (5 % 1re commande / 2 % suivantes) lorsqu'il est bien appliqué et il soutient le blog."
-        ]
+        ],
+        "emphasis": "Les 5 % de la première commande et les 2 % des suivantes paraissent peu, mais ils ne coûtent qu'un code à coller dans un champ. Je l'applique à chaque panier avant même de penser à un coupon : c'est la remise la plus simple à obtenir et la plus simple à oublier."
       },
       {
         "heading": "Questions fréquentes sur le code CECILIA010 sur YesStyle (FAQ)",
@@ -30418,7 +30483,8 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Utilisez le code d'influenceuse officiel CECILIA010 lors du paiement sur YesStyle.",
       "label": "Aller sur YesStyle et utiliser le Code CECILIA010",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -30433,7 +30499,34 @@ export const reviewsData: unknown[] = [
     "locale": "fr",
     "translationKey": "yesstyle-reward-code",
     "category": "cupons-como-usar",
-    "isNew": false
+    "isNew": false,
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-premiere-commande-code-cecilia010"
+      },
+      {
+        "slug": "comment-trouver-des-codes-promo-yesstyle-valides"
+      },
+      {
+        "slug": "yesstyle-est-il-fiable-et-sur"
+      },
+      {
+        "slug": "application-yesstyle-acheter-code-recompense"
+      },
+      {
+        "slug": "yesstyle-livraison-france-belgique-canada"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous allez commander sur YesStyle et vous voulez une petite remise en plus du coupon de la boutique.",
+        "Vous avez déjà un coupon sous la main et vous voulez savoir dans quel champ va chaque code."
+      ],
+      "skipIf": [
+        "Vous attendez une grosse remise : CECILIA010 donne 5 % sur la première commande et 2 % sur les suivantes, sans rien de plus.",
+        "Vous cherchez un code qui remplace le coupon de la boutique : CECILIA010 se cumule avec un seul coupon et ne le remplace pas."
+      ]
+    }
   },
   {
     "id": 24,
@@ -30441,6 +30534,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010: Reward Code nutzen",
     "type": "Ratgeber & Gutscheine",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "CECILIA010 ist ein Belohnungscode von YesStyle mit bis zu 5 % extra: 5 % auf die erste Bestellung, 2 % danach. So geben Sie ihn ein und kombinieren ihn mit Gutscheinen.",
     "metaDescription": "CECILIA010 bei YesStyle nutzen: Feld Reward Code, bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen), laut Checkout mit berechtigten Aktionsgutscheinen kombinierbar.",
     "publishedAt": "22 Jun 2026",
@@ -30452,20 +30552,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Abib PDRN Collagen Glazed Jelly Lippenmaske auf einem offiziellen Herstellerbild, neben dem YesStyle-Logo und dem Belohnungscode CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Influencer-Code, der sich mit berechtigten Aktionsgutscheinen kombinieren lässt und bis zu 5 % extra bringt",
-      "Gilt sowohl für die Erstbestellung (5 % extra) als auch für Folgekäufe (2 % extra)",
-      "Kostenloser Versand ab einem Mindestbestellwert, der im Checkout angezeigt wird",
-      "Großes Sortiment an K-Beauty, koreanischer Mode und J-Beauty",
-      "YesStyle gibt an, autorisierter Wiederverkäufer von mehr als 400 koreanischen Kosmetikmarken zu sein",
-      "Sprachauswahl oben auf der Website"
-    ],
-    "cons": [
-      "Ersetzt die normalen Gutscheine nicht (funktioniert in einem separaten Feld)",
-      "Internationale Bestellungen können Zollgebühren verursachen; prüfen Sie die Erstattungsrichtlinie von YesStyle, bevor Sie kaufen",
-      "Internationaler Einkauf: Die Lieferzeit ist länger als bei einem lokalen Shop",
-      "Preise werden zum internen YesStyle-Wechselkurs umgerechnet; Banken können Auslandsentgelte erheben"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Die Antwort in Kürze",
@@ -30569,8 +30657,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "YesStyle-Bestellübersicht mit angewendetem Gutschein und Code CECILIA010 und getrennt ausgewiesenen Rabatten.",
         "imageCaption": "In der Übersicht erscheinen die Rabatte getrennt: aktiver Gutschein und CECILIA010 als Influencer-Code.",
-        "imageFit": "contain",
-        "emphasis": "Cecílias Tipp: Schließen Sie den Kauf nicht ab, nur weil der Code akzeptiert wurde. Prüfen Sie den Endbetrag in der Bestellübersicht und achten Sie darauf, dass der Rabatt wirklich erscheint, bevor Sie bezahlen."
+        "imageFit": "contain"
       },
       {
         "heading": "So finden Sie aktive YesStyle-Gutscheine",
@@ -30619,7 +30706,8 @@ export const reviewsData: unknown[] = [
           "Lesen Sie die Bewertungen (Reviews): echte Fotos, Kommentare zu Textur, Duft und Ergebnis, Hinweise zum Haltbarkeitsdatum.",
           "Behalten Sie die Jahreszeiten im Blick: Black Friday (November), 11.11 (Single's Day), Weihnachten, Summer Sale (Juni/Juli), Back to School (August/September).",
           "Nutzen Sie immer CECILIA010: Es kostet nichts, bringt bis zu 5 % extra (5 % 1. Bestellung / 2 % Folgebestellungen), wenn es richtig angewendet wird, und unterstützt den Blog."
-        ]
+        ],
+        "emphasis": "Die 5 % auf die erste Bestellung und die 2 % auf die folgenden wirken klein, kosten aber nur das Einfügen eines Codes in ein Feld. Ich trage ihn in jeden Warenkorb ein, noch bevor ich an einen Gutschein denke: Es ist der Rabatt, den man am leichtesten bekommt und am leichtesten vergisst."
       },
       {
         "heading": "Häufige Fragen zum Code CECILIA010 bei YesStyle (FAQ)",
@@ -30648,7 +30736,8 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Nutzen Sie den offiziellen Influencer-Belohnungscode CECILIA010 beim Checkout auf YesStyle.",
       "label": "Zu YesStyle & Code CECILIA010 nutzen",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -30663,7 +30752,34 @@ export const reviewsData: unknown[] = [
     "locale": "de",
     "translationKey": "yesstyle-reward-code",
     "category": "cupons-como-usar",
-    "isNew": false
+    "isNew": false,
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-erste-bestellung-code-cecilia010"
+      },
+      {
+        "slug": "gueltige-yesstyle-gutscheincodes-finden"
+      },
+      {
+        "slug": "ist-yesstyle-serioes-und-sicher"
+      },
+      {
+        "slug": "yesstyle-app-bestellen-reward-code"
+      },
+      {
+        "slug": "yesstyle-versand-deutschland-oesterreich-schweiz"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie bestellen bei YesStyle und möchten zusätzlich zum Gutschein des Shops noch einen kleinen Rabatt mitnehmen.",
+        "Sie haben schon einen Gutschein zur Hand und wollen wissen, in welches Feld welcher Code gehört."
+      ],
+      "skipIf": [
+        "Sie erwarten einen hohen Rabatt: CECILIA010 bringt 5 % auf die erste Bestellung und 2 % auf die folgenden, mehr nicht.",
+        "Sie suchen einen Code, der den Gutschein des Shops ersetzt: CECILIA010 lässt sich nur mit einem Gutschein kombinieren und übernimmt dessen Rolle nicht."
+      ]
+    }
   },
   {
     "id": 40,
@@ -30671,6 +30787,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)",
     "type": "가이드 & 쿠폰",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "YesStyle 인플루언서 코드 CECILIA010을 사용하는 방법을 단계별로 안내합니다. 결제 화면의 어디에 입력하는지(Reward Code 칸), 사용 가능한 쿠폰과 함께 쓰는 방법, K-Beauty 쇼핑 팁을 정리했습니다.",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
@@ -30678,33 +30801,15 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "image": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
     "imageAlt": "제조사 공식 이미지의 Abib PDRN Collagen Glazed Jelly 립 마스크 옆에 YesStyle 로고와 리워드 코드 CECILIA010이 표시되어 있습니다.",
-    "pros": [
-      "적격 프로모션 쿠폰에 최대 5%가 더해지는 인플루언서 코드",
-      "첫 구매(5% 추가)에도, 재구매(2% 추가)에도 적용 가능",
-      "일정 금액 이상 무료 배송(최소 금액은 결제 화면에 표시)",
-      "K-Beauty, 한국 패션, J-Beauty까지 폭넓은 카탈로그",
-      "YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체라고 밝힙니다",
-      "사이트 상단의 언어 선택"
-    ],
-    "cons": [
-      "일반 쿠폰을 대신하지 않음(별도의 칸에 입력)",
-      "해외 주문은 관세 등 비용이 붙을 수 있으니 구매 전에 YesStyle의 환불 정책을 확인하세요",
-      "해외 직구라서 현지 쇼핑몰보다 배송 기간이 긺",
-      "결제 금액은 YesStyle 자체 환율로 환산되며, 카드사나 은행의 해외 이용 수수료가 부과될 수 있음"
-    ],
+    "pros": [],
+    "cons": [],
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "notes": [
-      {
-        "label": "Cecília의 팁",
-        "body": "코드 입력 칸은 결제 화면의 'Reward Code'에 있습니다. 쇼핑몰을 열기 전에 CECILIA010을 복사해 두면 주문을 마무리할 때 붙여넣기만 하면 됩니다.",
-        "anchor": "como-funciona-o-codigo-cecilia010"
-      }
-    ],
     "cta": {
       "text": "YesStyle 결제 시 CECILIA010을 사용하세요.",
       "label": "YesStyle에서 코드 사용",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "contentSections": [
       {
@@ -30809,8 +30914,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "쿠폰과 CECILIA010 코드가 각각 따로 할인으로 적용된 YesStyle 주문 요약.",
         "imageCaption": "주문 요약에는 할인이 따로 표시됩니다. 유효한 쿠폰과, 인플루언서 코드로서의 CECILIA010입니다.",
-        "imageFit": "contain",
-        "emphasis": "Cecília의 팁: 코드가 받아들여졌다고 바로 구매를 확정하지 마세요. 주문 요약에서 최종 금액을 보고, 할인이 실제로 반영됐는지 확인한 뒤에 결제하세요."
+        "imageFit": "contain"
       },
       {
         "heading": "YesStyle의 유효한 쿠폰 찾는 방법",
@@ -30859,7 +30963,8 @@ export const reviewsData: unknown[] = [
           "리뷰 읽기: 실제 사진, 텍스처·향·결과에 대한 후기, 유통기한 정보.",
           "시즌을 눈여겨보기: 블랙프라이데이(11월), 11.11(광군제), 크리스마스, Summer Sale(6월/7월), Back to School(8월/9월).",
           "CECILIA010은 항상 사용하기: 비용이 들지 않고, 올바르게 적용하면 최대 5%(첫 구매 5% / 재구매 2%)가 추가되며 블로그를 응원하는 일이기도 합니다."
-        ]
+        ],
+        "emphasis": "첫 구매 5%와 이후 구매 2%는 작아 보이지만, 드는 수고는 코드를 칸에 붙여넣는 일뿐입니다. 저는 쿠폰을 고민하기 전에 모든 장바구니에 먼저 적용합니다. 가장 쉽게 받을 수 있고, 가장 쉽게 잊는 할인이니까요."
       },
       {
         "heading": "YesStyle CECILIA010 코드에 관한 자주 묻는 질문(FAQ)",
@@ -30892,8 +30997,42 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle에서 CECILIA010 사용법: Reward Code 칸에 입력, 최대 5% 추가(첫 구매 5%, 재구매 2%), 결제 화면에서 확인되는 적격 프로모션 쿠폰과 함께 사용할 수 있습니다.",
     "imageFit": "contain",
     "imageAspect": "landscape",
+    "notes": [
+      {
+        "label": "Cecília의 팁",
+        "body": "코드 입력 칸은 결제 화면의 'Reward Code'에 있습니다. 쇼핑몰을 열기 전에 CECILIA010을 복사해 두면 주문을 마무리할 때 붙여넣기만 하면 됩니다.",
+        "anchor": "como-funciona-o-codigo-cecilia010"
+      }
+    ],
     "editorialNote": "제휴 링크: 링크와 Reward Code CECILIA010를 통해 수수료를 받을 수 있습니다.",
-    "isNew": false
+    "isNew": false,
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-first-order-cecilia010-ko"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-ko"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ko"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-ko"
+      },
+      {
+        "slug": "yesstyle-shipping-korea-ko"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "YesStyle에서 주문할 예정이고, 쇼핑몰 쿠폰에 더해 작더라도 추가 할인을 받고 싶은 분.",
+        "이미 쿠폰이 있는데 각 코드를 어느 칸에 넣는지 알고 싶은 분."
+      ],
+      "skipIf": [
+        "큰 할인을 기대하는 분: CECILIA010은 첫 구매 5%, 이후 구매 2%가 전부입니다.",
+        "쇼핑몰 쿠폰을 대신할 코드를 찾는 분: CECILIA010은 쿠폰과 함께 쓰는 리워드 코드라서 쿠폰의 자리를 대신하지 못합니다."
+      ]
+    }
   },
   {
     "id": 41,
@@ -30901,6 +31040,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）",
     "type": "ガイド＆クーポン",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "YesStyleでインフルエンサーコードCECILIA010を使う手順を、順を追って紹介します。チェックアウトのどこに入力するか(Reward Code欄)、有効なクーポンとの併用方法、K-Beautyの買い方のコツをまとめました。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
@@ -30908,33 +31054,15 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "image": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
     "imageAlt": "メーカー公式画像のAbib PDRN Collagen Glazed Jellyリップマスクと、YesStyleのロゴ、リワードコードCECILIA010。",
-    "pros": [
-      "対象のプロモーションクーポンに加えて、最大5%が上乗せされるインフルエンサーコード",
-      "初回購入（5%追加）にも、リピート注文（2%追加）にも使える",
-      "一定額以上で送料無料(最低金額はチェックアウトに表示)",
-      "K-Beauty、韓国ファッション、J-Beautyの豊富なラインナップ",
-      "YesStyleは400以上の韓国コスメブランドの正規販売店だと述べています",
-      "サイト上部の言語切り替え"
-    ],
-    "cons": [
-      "通常のクーポンの代わりにはならない(別の欄に入力します)",
-      "海外からの注文には関税などがかかる場合があります。購入前にYesStyleの返金ポリシーを確認してください",
-      "海外通販なので、地元のショップより届くまでに時間がかかる",
-      "決済額はYesStyle独自の為替レートで換算され、カード会社や銀行の海外利用手数料がかかる場合がある"
-    ],
+    "pros": [],
+    "cons": [],
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "notes": [
-      {
-        "label": "Cecíliaのヒント",
-        "body": "コードの入力欄はチェックアウトの「Reward Code」にあります。ショップを開く前にCECILIA010をコピーしておくと、注文を確定するときに貼り付けるだけで済みます。",
-        "anchor": "como-funciona-o-codigo-cecilia010"
-      }
-    ],
     "cta": {
       "text": "YesStyleの注文でCECILIA010を活用しましょう。",
       "label": "YesStyleでコードを使用する",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "contentSections": [
       {
@@ -31039,8 +31167,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "YesStyleの注文概要。クーポンとCECILIA010が、それぞれ別の割引として適用されている。",
         "imageCaption": "注文概要では、割引が別々に表示されます。有効なクーポンと、インフルエンサーコードとしてのCECILIA010です。",
-        "imageFit": "contain",
-        "emphasis": "Cecíliaのヒント：コードが受け付けられたからといって、すぐに購入を確定しないでください。注文概要で最終金額を見て、割引が実際に反映されているか、支払う前に確認しましょう。"
+        "imageFit": "contain"
       },
       {
         "heading": "YesStyleで有効なクーポンを見つける方法",
@@ -31089,7 +31216,8 @@ export const reviewsData: unknown[] = [
           "レビューを読む：実際の写真、テクスチャー、香り、使用感のコメント、使用期限の情報。",
           "季節のセールをチェック：ブラックフライデー(11月)、11.11(独身の日)、クリスマス、Summer Sale(6月/7月)、Back to School(8月/9月)。",
           "CECILIA010はいつも使う：無料で、正しく入力すれば最大5%(初回購入5% / リピーター2%)が追加され、ブログの応援にもなります。"
-        ]
+        ],
+        "emphasis": "初回5%、2回目以降2%という割引は小さく見えますが、手間はコードを1つの欄に貼るだけです。私はクーポンを考える前に、どのカートにも先に入れています。いちばん簡単にもらえて、いちばん忘れやすい割引だからです。"
       },
       {
         "heading": "YesStyleのCECILIA010についてよくある質問(FAQ)",
@@ -31122,8 +31250,42 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyleでのCECILIA010の使い方：入力はReward Code欄、追加で最大5%(初回購入5%、2回目以降2%)、対象のプロモーションクーポンとはチェックアウトの表示に従って併用できます。",
     "imageFit": "contain",
     "imageAspect": "landscape",
+    "notes": [
+      {
+        "label": "Cecíliaのヒント",
+        "body": "コードの入力欄はチェックアウトの「Reward Code」にあります。ショップを開く前にCECILIA010をコピーしておくと、注文を確定するときに貼り付けるだけで済みます。",
+        "anchor": "como-funciona-o-codigo-cecilia010"
+      }
+    ],
     "editorialNote": "アフィリエイトリンク：リンクとReward Code CECILIA010を通じて、報酬を受け取る場合があります。",
-    "isNew": false
+    "isNew": false,
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-first-order-cecilia010-ja"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-ja"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ja"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-ja"
+      },
+      {
+        "slug": "yesstyle-shipping-japan-ja"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "YesStyleで注文する予定で、ショップのクーポンに加えて少しでも割引を上乗せしたい人。",
+        "すでにクーポンを持っていて、コードをどの欄に入れるのか知りたい人。"
+      ],
+      "skipIf": [
+        "大きな割引を期待している人。CECILIA010は初回5%、2回目以降2%で、それ以上はありません。",
+        "ショップのクーポンの代わりになるコードを探している人。CECILIA010はクーポン1枚と併用するリワードコードで、クーポンの代わりにはなりません。"
+      ]
+    }
   },
   {
     "id": 42,
@@ -31131,6 +31293,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)",
     "type": "指南與優惠碼",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "這份實用指南教你在 YesStyle 使用網紅代碼 CECILIA010：結帳頁要在哪裡輸入（Reward Code 欄位）、如何與現有優惠券疊加，另附韓系美妝購物小撇步。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
@@ -31138,33 +31307,15 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "image": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
     "imageAlt": "製造商官方圖片中的Abib PDRN Collagen Glazed Jelly唇膜，旁邊是YesStyle標誌與獎勵碼CECILIA010。",
-    "pros": [
-      "網紅代碼，可在符合資格的促銷優惠券之外再疊加高達 5% 的優惠",
-      "首購（額外 5%）和回購訂單（額外 2%）皆可適用",
-      "滿一定金額即享免運費，門檻會顯示在結帳頁",
-      "商品豐富：韓系美妝、韓國服飾與日系美妝",
-      "YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商",
-      "網站頂端可切換語言"
-    ],
-    "cons": [
-      "無法取代一般優惠券（要填在另一個欄位）",
-      "跨境訂單可能產生關稅等費用，下單前請先查看 YesStyle 的退款政策",
-      "屬於跨境購物，送達時間比本地商店更久",
-      "結帳金額依 YesStyle 內部匯率換算，銀行或發卡機構可能另收海外交易手續費"
-    ],
+    "pros": [],
+    "cons": [],
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "notes": [
-      {
-        "label": "Cecília 的小提醒",
-        "body": "代碼欄位在結帳頁的「Reward Code」處。打開商店之前先複製 CECILIA010，這樣結帳時直接貼上就行。",
-        "anchor": "como-funciona-o-codigo-cecilia010"
-      }
-    ],
     "cta": {
       "text": "在 YesStyle 結帳時使用 CECILIA010 獎勵碼。",
       "label": "前往 YesStyle 使用代碼",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "contentSections": [
       {
@@ -31269,8 +31420,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "YesStyle 訂單摘要：優惠券和 CECILIA010 代碼已套用，折扣分開顯示。",
         "imageCaption": "摘要中的折扣是分開列示的：有效優惠券，以及作為網紅代碼的 CECILIA010。",
-        "imageFit": "contain",
-        "emphasis": "Cecília 的小提醒：不要因為代碼被接受就直接下單。付款前，請在訂單摘要中核對最終金額，確認折扣真的已經顯示出來。"
+        "imageFit": "contain"
       },
       {
         "heading": "如何找到 YesStyle 目前有效的優惠券",
@@ -31319,7 +31469,8 @@ export const reviewsData: unknown[] = [
           "多看評價（reviews）：真實照片、對質地、氣味和效果的評論，以及有效期限資訊。",
           "留意促銷季：黑色星期五（11 月）、11.11（單身節）、聖誕節、Summer Sale（6/7 月）、Back to School（8/9 月）。",
           "一律使用 CECILIA010：不用花一毛錢，正確套用後可額外享高達 5% 優惠（首購 5% / 回購 2%），還能支持這個部落格。"
-        ]
+        ],
+        "emphasis": "首購 5%、之後 2% 看起來不多，但代價只是把一個代碼貼進一個欄位。我每個購物車都先填上它，然後才去想優惠券：這是最容易拿到、也最容易忘記的折扣。"
       },
       {
         "heading": "關於 YesStyle 代碼 CECILIA010 的常見問題（FAQ）",
@@ -31352,8 +31503,42 @@ export const reviewsData: unknown[] = [
     "metaDescription": "如何在 YesStyle 使用 CECILIA010：填入 Reward Code 欄位，可額外享高達 5% 優惠（首購 5%，回購 2%），並可依結帳頁顯示與符合資格的促銷優惠券疊加。",
     "imageFit": "contain",
     "imageAspect": "landscape",
+    "notes": [
+      {
+        "label": "Cecília 的小提醒",
+        "body": "代碼欄位在結帳頁的「Reward Code」處。打開商店之前先複製 CECILIA010，這樣結帳時直接貼上就行。",
+        "anchor": "como-funciona-o-codigo-cecilia010"
+      }
+    ],
     "editorialNote": "聯盟連結：我們可能會透過連結和 Reward Code CECILIA010 獲得佣金。",
-    "isNew": false
+    "isNew": false,
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-first-order-cecilia010-zh-hant"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-zh-hant"
+      },
+      {
+        "slug": "yesstyle-trust-guide-zh-hant"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-zh-hant"
+      },
+      {
+        "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你準備在 YesStyle 下單，想在商店優惠券之外再多省一點，哪怕不多。",
+        "你手上已經有優惠券，想弄清楚每個代碼該填在哪個欄位。"
+      ],
+      "skipIf": [
+        "你期待大額折扣：CECILIA010 首購 5%、之後 2%，僅此而已。",
+        "你想找能取代商店優惠券的代碼：CECILIA010 是獎勵碼，只能與一張優惠券疊加，取代不了它。"
+      ]
+    }
   },
   {
     "id": 43,
@@ -31361,6 +31546,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)",
     "type": "指南与优惠码",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "通过这份实用指南，学会在 YesStyle 使用达人代码 CECILIA010：在结账页哪里输入（Reward Code 栏位）、如何与现有优惠券叠加，另有韩系美妆购物建议。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
@@ -31368,33 +31560,15 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "image": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
     "imageAlt": "制造商官方图片中的Abib PDRN Collagen Glazed Jelly唇膜，旁边是YesStyle标志和奖励码CECILIA010。",
-    "pros": [
-      "达人代码，可在符合条件的促销优惠券之外再叠加高达 5% 的优惠",
-      "首单（额外 5%）和回购订单（额外 2%）均可适用",
-      "满一定金额即可免运费，门槛会在结账页显示",
-      "商品丰富：韩系美妆、韩国时装和日系美妆",
-      "YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商",
-      "网站顶部可切换语言"
-    ],
-    "cons": [
-      "不能取代一般优惠券（要填在另一个栏位）",
-      "跨境订单可能产生关税等费用，下单前请先查看 YesStyle 的退款政策",
-      "属于跨境购物，送货时间比本地商店更长",
-      "结账金额按 YesStyle 内部汇率换算，银行或发卡机构可能另收境外交易手续费"
-    ],
+    "pros": [],
+    "cons": [],
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "notes": [
-      {
-        "label": "Cecília 的小提示",
-        "body": "代码栏位在结账页的“Reward Code”处。打开商店之前先复制 CECILIA010，这样结账时直接粘贴就行。",
-        "anchor": "como-funciona-o-codigo-cecilia010"
-      }
-    ],
     "cta": {
       "text": "在 YesStyle 结账时使用 CECILIA010 奖励码。",
       "label": "前往 YesStyle 使用代码",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "contentSections": [
       {
@@ -31499,8 +31673,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "YesStyle 订单摘要：优惠券和 CECILIA010 代码已应用，折扣分开显示。",
         "imageCaption": "摘要里的折扣是分开列示的：有效优惠券，以及作为达人代码的 CECILIA010。",
-        "imageFit": "contain",
-        "emphasis": "Cecília 的小提示：不要因为代码被接受就直接下单。付款前，请在订单摘要里核对最终金额，确认折扣真的已经显示出来。"
+        "imageFit": "contain"
       },
       {
         "heading": "如何找到 YesStyle 当前有效的优惠券",
@@ -31549,7 +31722,8 @@ export const reviewsData: unknown[] = [
           "多看评价（reviews）：真实照片、对质地、气味和效果的评论，以及有效期信息。",
           "留意促销季：黑色星期五（11 月）、11.11（光棍节）、圣诞节、Summer Sale（6/7 月）、Back to School（8/9 月）。",
           "始终使用 CECILIA010：不用花一分钱，正确应用后可额外享高达 5% 优惠（首单 5% / 回购 2%），还能支持这个博客。"
-        ]
+        ],
+        "emphasis": "首单 5%、之后 2% 看起来不多，但代价只是把一个代码粘贴进一个栏位。我每个购物车都先填上它，然后才去想优惠券：这是最容易拿到、也最容易忘记的折扣。"
       },
       {
         "heading": "关于 YesStyle 代码 CECILIA010 的常见问题（FAQ）",
@@ -31582,8 +31756,42 @@ export const reviewsData: unknown[] = [
     "metaDescription": "如何在 YesStyle 使用 CECILIA010：填入 Reward Code 栏位，可额外享高达 5% 优惠（首单 5%，回购 2%），并可按结账页显示与符合条件的促销优惠券叠加。",
     "imageFit": "contain",
     "imageAspect": "landscape",
+    "notes": [
+      {
+        "label": "Cecília 的小提示",
+        "body": "代码栏位在结账页的“Reward Code”处。打开商店之前先复制 CECILIA010，这样结账时直接粘贴就行。",
+        "anchor": "como-funciona-o-codigo-cecilia010"
+      }
+    ],
     "editorialNote": "联盟链接：我们可能会通过链接和 Reward Code CECILIA010 获得佣金。",
-    "isNew": false
+    "isNew": false,
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-first-order-cecilia010-zh-hans"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-zh-hans"
+      },
+      {
+        "slug": "yesstyle-trust-guide-zh-hans"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-zh-hans"
+      },
+      {
+        "slug": "yesstyle-shipping-singapore-malaysia-zh-hans"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你准备在 YesStyle 下单，想在商店优惠券之外再多省一点，哪怕不多。",
+        "你手上已经有优惠券，想弄清楚每个代码该填在哪个栏位。"
+      ],
+      "skipIf": [
+        "你期待大额折扣：CECILIA010 首单 5%、之后 2%，仅此而已。",
+        "你想找能替代商店优惠券的代码：CECILIA010 是奖励码，只能与一张优惠券叠加，代替不了它。"
+      ]
+    }
   },
   {
     "id": 19,
@@ -37627,6 +37835,13 @@ export const reviewsData: unknown[] = [
     "seoTitle": "How to Find and Stack YesStyle Coupons with CECILIA010",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "A practical guide to finding valid YesStyle coupons, understanding Coupon Code and Reward Code, and using CECILIA010: 5% on a first purchase and 2% on later ones.",
     "metaDescription": "Where to find the YesStyle coupons that are live right now, how to avoid expired codes and how to add the CECILIA010 reward code for up to 5% extra savings.",
     "publishedAt": "24 Jul 2026",
@@ -37651,43 +37866,13 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília with a pink headband showing an open jar of pink Abib hydrogel eye patches in a frame from her own video. Cover text: “How to find and stack coupons” and “Store coupon + Reward Code”, with Reward Code CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Teaches you to tell a Coupon Code from a Reward Code so you avoid checkout mistakes",
-      "Explains stacking: adding the month's coupon on top of CECILIA010",
-      "Shows how to save up to 5% extra with the official influencer code",
-      "Shows where to find YesStyle's live coupons so you avoid fake or expired codes",
-      "Points you to the updated Em Casa com Cecília page with the current coupon list"
-    ],
-    "cons": [
-      "Promotional monthly coupons have short deadlines (usually from 72 hours to 30 days)",
-      "The CECILIA010 discount varies between 5% on a first purchase and 2% on repeat purchases",
-      "The total is charged in the currency you pick on the site, at YesStyle's exchange rate, and your bank may add an international purchase fee"
-    ],
-    "pullQuote": "Enter CECILIA010 in the Reward Code field: 5% on a first purchase and 2% on later ones. If the promotion allows it, also enter a coupon in the Coupon Code field and check both discounts in the order summary.",
-    "productSpec": [
-      {
-        "key": "Store",
-        "value": "YesStyle (Official)"
-      },
-      {
-        "key": "Reward Code",
-        "value": "CECILIA010 (Up to 5% extra)",
-        "highlight": true
-      },
-      {
-        "key": "Checkout field",
-        "value": "Reward Code"
-      },
-      {
-        "key": "Stackable",
-        "value": "Can be combined with eligible promotional coupons; confirm at checkout"
-      }
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "On our page, the YesStyle coupon list is current as of November 22, 2026.",
-      "label": "View Active YesStyle Coupons",
-      "url": "/en/coupons/yesstyle",
-      "sponsored": false
+      "text": "Paste CECILIA010 into the Reward Code field: 5% extra on your first order and 2% on later ones.",
+      "label": "Go to YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -37695,6 +37880,18 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-coupon-cecilia010"
+      },
+      {
+        "slug": "yesstyle-first-order-reward-code-cecilia010"
+      },
+      {
+        "slug": "is-yesstyle-legit-and-safe-review"
+      },
+      {
+        "slug": "yesstyle-app-how-to-buy-reward-code"
+      },
+      {
+        "slug": "yesstyle-shipping-us-uk-canada-australia"
       }
     ],
     "contentSections": [
@@ -37726,7 +37923,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "The YesStyle checkout showing the Coupon Code and Reward Code fields.",
         "imageCaption": "The two separate checkout fields: Coupon Code (for promotion coupons) and Reward Code (for CECILIA010). The coupon in the screenshot is from a campaign that has already ended.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "bullets": [
           "1. “Coupon Code” field: this is where you enter the promotional coupons from the YesStyle site (such as sale coupons or 10% to 15% OFF campaigns).",
           "2. “Reward Code” / “Influencer Code” field: this is where you enter Cecília's official influencer code CECILIA010, with 5% extra on a first purchase and 2% on later ones."
@@ -37767,7 +37964,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
         "imageAlt": "The shopping cart screen at the YesStyle store.",
         "imageCaption": "The cart summary screen at YesStyle before the discount codes are applied.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Step 3: apply the promotion coupon in the Coupon Code field",
@@ -37784,12 +37981,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Step 5: confirm the combined discount and place your order",
         "paragraphs": [
-          "In the order summary, confirm both discounts before you pay: the coupon and CECILIA010."
+          "In the order summary, confirm both discounts before you pay: the coupon and CECILIA010.",
+          "The total is charged in the currency you pick on the site, at YesStyle's exchange rate, and your bank may add an international purchase fee."
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "The final order summary at YesStyle with the combined discounts.",
         "imageCaption": "Order summary confirming the combination: promotion coupon + CECILIA010 reward code, stacked successfully. The coupon in the screenshot is from a campaign that has already ended.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Where to find the YesStyle coupons that are live",
@@ -37809,7 +38007,8 @@ export const reviewsData: unknown[] = [
             "href": "https://ystyle.co/rQYQv",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "Coupons are what changes from week to week; CECILIA010 is what stays. I put the Reward Code in first and only then check which coupon the checkout accepts today."
       },
       {
         "heading": "Frequently asked questions about YesStyle coupons",
@@ -37818,7 +38017,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "What is the difference between a Coupon Code and an Influencer/Rewards Code at YesStyle? The Coupon Code is the promotion coupon, entered in the “Coupon Code” field, with its own deadline and rules: it may have a minimum purchase, a regional restriction or ineligible products. CECILIA010 is the reward code (Influencer/Rewards Code), entered in the separate “Reward Code” field, with 5% on a first purchase and 2% on the following ones. When the promotion's rules allow it, both discounts can show up together in the order summary.",
-          "What is YesStyle's influencer code? It is the Reward Code, typed into its own checkout field, separate from the coupon field. Ours is CECILIA010, which goes in the Reward Code field.",
+          "What is YesStyle's Reward Code (influencer code)? CECILIA010: it gives 5% extra on a first order and 2% on later ones, goes in the Reward Code field and stacks with one store coupon in the Coupon Code field. It is Cecília's influencer code.",
           "Do YesStyle coupons expire? Yes. Promotional coupons have an expiry date and can end without notice. Some campaigns last only a few days (such as 72- or 96-hour promotions), while others stay active for different periods. Before you finish the purchase, check the validity, the minimum amount, the region and the eligible products in the promotion's rules, and confirm the discount showed up at checkout.",
           "Where do I find the official rules for YesStyle coupons? The general rules are on the “General Terms and Conditions for Coupons” page of YesStyle's help center. For the terms of a specific campaign, go to the Help Center and open the “Promotions” section, where YesStyle publishes the validity, minimum purchase, participating regions and possible exclusions. Because these terms change, also check the promotion banner and the order summary before you pay.",
           "Can I use more than one promotional coupon on the same order? No. Under YesStyle's general rules, only one Coupon Code can be used per order or combined order. CECILIA010, however, is not a Coupon Code: it must be applied in the separate “Reward Code” field. That is why a promotional coupon and CECILIA010 can be combined when the campaign is eligible and the checkout accepts both."
@@ -37839,7 +38038,17 @@ export const reviewsData: unknown[] = [
     "translationKey": "yesstyle-coupon-guide",
     "category": "cupons-como-usar",
     "isNew": false,
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-06",
+    "decision": {
+      "takeIf": [
+        "You reached YesStyle's checkout with a coupon and are not sure which field each code goes in.",
+        "Your coupon was rejected and you want to know why before you hunt for another one."
+      ],
+      "skipIf": [
+        "You want a ready-made coupon to copy: this guide gives you the method, and the current list lives on our YesStyle coupons page.",
+        "You plan to stack two store coupons: YesStyle accepts only one Coupon Code per order, and only CECILIA010 goes in a separate field."
+      ]
+    }
   },
   {
     "id": 236,
@@ -37847,6 +38056,13 @@ export const reviewsData: unknown[] = [
     "title": "Cómo encontrar y combinar los cupones de YesStyle con CECILIA010",
     "type": "Guía & Cupones",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "Guía práctica para encontrar cupones de YesStyle, entender Coupon Code y Reward Code y usar CECILIA010: 5% en la primera compra y 2% en las siguientes.",
     "metaDescription": "Dónde encontrar los cupones de YesStyle vigentes, cómo evitar los códigos vencidos y cómo sumar el código de recompensa CECILIA010 para ahorrar hasta un 5% extra.",
     "publishedAt": "24 Jul 2026",
@@ -37871,43 +38087,13 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília con una diadema rosa mostrando el tarro abierto de parches de hidrogel rosados de Abib en una imagen de su propio vídeo. En la portada: «Cómo encontrar y combinar cupones» y «Cupón de la tienda + código de recompensa», con el código de recompensa CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Enseña a distinguir el Coupon Code del Reward Code para evitar errores en el checkout",
-      "Explica cómo acumular el cupón del mes con CECILIA010",
-      "Muestra cómo ahorrar hasta un 5% extra con el código oficial de influencer",
-      "Muestra dónde encontrar los cupones vigentes de YesStyle para evitar códigos falsos o caducados",
-      "Te lleva a la página actualizada de Em Casa com Cecília con la lista de cupones vigentes"
-    ],
-    "cons": [
-      "Los cupones promocionales mensuales tienen plazos cortos (por lo general, de 72 horas a 30 días)",
-      "El descuento de CECILIA010 varía entre un 5% en la primera compra y un 2% en las compras siguientes",
-      "El total se cobra en la moneda que elijas en el sitio, al tipo de cambio de YesStyle, y tu banco puede aplicar una comisión por compra internacional"
-    ],
-    "pullQuote": "Introduce CECILIA010 en el campo Reward Code: 5% en la primera compra y 2% en las siguientes. Si la promoción lo permite, aplica también un cupón en el campo Coupon Code y comprueba ambos descuentos en el resumen del pedido.",
-    "productSpec": [
-      {
-        "key": "Tienda",
-        "value": "YesStyle (oficial)"
-      },
-      {
-        "key": "Código de recompensa",
-        "value": "CECILIA010 (hasta un 5% extra)",
-        "highlight": true
-      },
-      {
-        "key": "Campo en el checkout",
-        "value": "Reward Code"
-      },
-      {
-        "key": "Acumulable",
-        "value": "Se puede combinar con cupones promocionales elegibles; confírmalo en el checkout"
-      }
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "En nuestra página, la lista de cupones de YesStyle está actualizada al 22 de noviembre de 2026.",
-      "label": "Ver cupones activos de YesStyle",
-      "url": "/es/coupons/yesstyle",
-      "sponsored": false
+      "text": "Pega CECILIA010 en el campo Reward Code: 5 % extra en la primera compra y 2 % en las siguientes.",
+      "label": "Ir a YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -37915,6 +38101,18 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
+      },
+      {
+        "slug": "yesstyle-primera-compra-codigo-cecilia010"
+      },
+      {
+        "slug": "es-yesstyle-de-fiar-y-seguro"
+      },
+      {
+        "slug": "app-yesstyle-como-comprar-codigo-de-recompensa"
+      },
+      {
+        "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
       }
     ],
     "contentSections": [
@@ -37946,7 +38144,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Pantalla de checkout de YesStyle con los campos Coupon Code y Reward Code.",
         "imageCaption": "Los dos campos separados del checkout: Coupon Code (para los cupones de promoción) y Reward Code (para CECILIA010). El cupón de la captura es de una campaña que ya terminó.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "bullets": [
           "1. Campo «Coupon Code» (código de cupón): aquí introduces los cupones promocionales del sitio de YesStyle (como los de liquidación o los de campañas del 10% al 15%).",
           "2. Campo «Reward Code» / «Influencer Code» (código de recompensa): aquí introduces el código oficial de influencer CECILIA010, con un 5% extra en la primera compra y un 2% en las siguientes."
@@ -37987,7 +38185,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
         "imageAlt": "Pantalla del carrito de compras en la tienda de YesStyle.",
         "imageCaption": "Pantalla de resumen del carrito en YesStyle antes de aplicar los códigos de descuento.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Paso 3: aplica el cupón de la promoción en el campo Coupon Code",
@@ -38004,12 +38202,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Paso 5: confirma el descuento acumulado y finaliza el pedido",
         "paragraphs": [
-          "En el resumen del pedido, confirma los dos descuentos antes de pagar: el cupón y CECILIA010."
+          "En el resumen del pedido, confirma los dos descuentos antes de pagar: el cupón y CECILIA010.",
+          "El total se cobra en la moneda que elijas en el sitio, al tipo de cambio de YesStyle, y tu banco puede aplicar una comisión por compra internacional."
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "Resumen final del pedido en YesStyle con los descuentos acumulados.",
         "imageCaption": "Resumen del checkout que confirma la combinación: cupón de promoción + código de recompensa CECILIA010 acumulados con éxito. El cupón de la captura es de una campaña que ya terminó.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Dónde encontrar los cupones de YesStyle vigentes",
@@ -38029,7 +38228,8 @@ export const reviewsData: unknown[] = [
             "href": "https://ystyle.co/rQYQv",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "Los cupones cambian de una semana a otra; CECILIA010 se queda. Yo dejo primero el código de recompensa en Reward Code y solo después compruebo qué cupón acepta hoy el checkout."
       },
       {
         "heading": "Preguntas frecuentes sobre los cupones de YesStyle",
@@ -38038,7 +38238,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "¿Cuál es la diferencia entre Coupon Code y Influencer/Rewards Code en YesStyle? El Coupon Code es el cupón de promoción, va en el campo «Coupon Code» y tiene plazo y reglas propios: puede exigir una compra mínima, tener restricción regional o excluir productos. CECILIA010 es el código de recompensa (Influencer/Rewards Code), va en el campo separado «Reward Code» y da un 5% en la primera compra y un 2% en las siguientes. Cuando las reglas de la promoción lo permiten, los dos descuentos pueden aparecer juntos en el resumen del pedido.",
-          "¿Qué es el código de influencer de YesStyle? Es el código de recompensa (Reward Code), que se escribe en un campo propio del checkout, separado del campo de cupón. El nuestro es CECILIA010, que va en el campo Reward Code.",
+          "¿Cuál es el código de recompensa (código de influencer) de YesStyle? CECILIA010: da un 5% extra en la primera compra y un 2% en las siguientes, va en el campo Reward Code y se suma a un cupón de la tienda en el campo Coupon Code. Es el código de influencer de Cecília.",
           "¿Los cupones de YesStyle tienen fecha de vencimiento? Sí. Los cupones promocionales tienen fecha de vencimiento y pueden terminar sin aviso. Algunas campañas duran pocos días (como las promociones de 72 o 96 horas), mientras que otras siguen activas durante períodos distintos. Antes de finalizar la compra, revisa en las reglas de la promoción la vigencia, el importe mínimo, la región y los productos elegibles, y confirma que el descuento apareció en el checkout.",
           "¿Dónde encuentro las reglas oficiales de los cupones de YesStyle? Las reglas generales están en la página «General Terms and Conditions for Coupons» del centro de ayuda de YesStyle. Para las condiciones de una campaña concreta, entra en el centro de ayuda y abre la sección «Promotions», donde YesStyle publica la vigencia, la compra mínima, las regiones participantes y las posibles exclusiones. Como estas condiciones cambian, consulta también el banner de la promoción y el resumen del pedido antes de pagar.",
           "¿Puedo usar más de un cupón promocional en el mismo pedido? No. Según las reglas generales de YesStyle, solo se puede usar un Coupon Code por pedido o pedido combinado. CECILIA010, en cambio, no es un Coupon Code: se aplica en el campo separado «Reward Code». Por eso un cupón promocional y CECILIA010 pueden combinarse cuando la campaña es elegible y el checkout acepta ambos."
@@ -38059,7 +38259,18 @@ export const reviewsData: unknown[] = [
     "translationKey": "yesstyle-coupon-guide",
     "category": "cupons-como-usar",
     "isNew": false,
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-06",
+    "decision": {
+      "takeIf": [
+        "Has llegado al checkout de YesStyle con un cupón y no sabes en qué campo va cada código.",
+        "Tu cupón fue rechazado y quieres entender el motivo antes de buscar otro."
+      ],
+      "skipIf": [
+        "Buscas un cupón listo para copiar: aquí tienes el método, y la lista del momento está en nuestra página de cupones de YesStyle.",
+        "Piensas sumar dos cupones de la tienda: YesStyle acepta un solo Coupon Code por pedido, y solo CECILIA010 va en un campo aparte."
+      ]
+    },
+    "seoTitle": "Cómo encontrar y combinar cupones de YesStyle con CECILIA010"
   },
   {
     "id": 237,
@@ -38067,6 +38278,13 @@ export const reviewsData: unknown[] = [
     "title": "Comment trouver et cumuler les coupons YesStyle avec CECILIA010",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "Guide pratique pour trouver les coupons YesStyle, comprendre Coupon Code et Reward Code et utiliser CECILIA010 : 5 % sur le premier achat et 2 % sur les suivants.",
     "metaDescription": "Où trouver les coupons YesStyle en cours, comment éviter les codes périmés et comment ajouter le code de récompense CECILIA010 pour économiser jusqu'à 5 % de plus.",
     "publishedAt": "24 Jul 2026",
@@ -38091,43 +38309,13 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília portant un bandeau rose et montrant le pot ouvert de patchs hydrogel roses Abib sur une image de sa propre vidéo. Texte : « Trouver et cumuler des coupons » et « Coupon boutique + code de récompense », avec le code de récompense CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Apprend à distinguer le Coupon Code du Reward Code pour éviter les erreurs au paiement",
-      "Explique le cumul : ajouter le coupon du mois à CECILIA010",
-      "Montre comment économiser jusqu'à 5 % de plus avec le code officiel d'influenceuse",
-      "Indique où trouver les coupons YesStyle en cours pour éviter les codes faux ou périmés",
-      "Renvoie à la page à jour d'Em Casa com Cecília, avec la liste de coupons en vigueur"
-    ],
-    "cons": [
-      "Les coupons promotionnels mensuels ont des délais courts (en général de 72 heures à 30 jours)",
-      "La réduction de CECILIA010 varie entre 5 % sur le premier achat et 2 % sur les achats suivants",
-      "Le total est débité dans la devise choisie sur le site, au taux de change de YesStyle, et votre banque peut facturer des frais d'achat international"
-    ],
-    "pullQuote": "Saisissez CECILIA010 dans le champ Reward Code : 5 % sur le premier achat et 2 % sur les suivants. Si la promotion le permet, ajoutez aussi un coupon dans le champ Coupon Code et vérifiez les deux réductions dans le récapitulatif de la commande.",
-    "productSpec": [
-      {
-        "key": "Boutique",
-        "value": "YesStyle (officiel)"
-      },
-      {
-        "key": "Code de récompense",
-        "value": "CECILIA010 (jusqu'à 5 % de plus)",
-        "highlight": true
-      },
-      {
-        "key": "Champ au paiement",
-        "value": "Reward Code"
-      },
-      {
-        "key": "Cumulable",
-        "value": "Peut être combiné avec les coupons promotionnels éligibles ; vérifiez au paiement"
-      }
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "Sur notre page, la liste des coupons YesStyle est à jour au 22 novembre 2026.",
-      "label": "Voir les coupons YesStyle actifs",
-      "url": "/fr/coupons/yesstyle",
-      "sponsored": false
+      "text": "Saisissez CECILIA010 dans le champ Reward Code : 5 % en plus sur la première commande et 2 % sur les suivantes.",
+      "label": "Aller sur YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -38135,6 +38323,18 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "code-recompense-yesstyle-cecilia010"
+      },
+      {
+        "slug": "yesstyle-premiere-commande-code-cecilia010"
+      },
+      {
+        "slug": "yesstyle-est-il-fiable-et-sur"
+      },
+      {
+        "slug": "application-yesstyle-acheter-code-recompense"
+      },
+      {
+        "slug": "yesstyle-livraison-france-belgique-canada"
       }
     ],
     "contentSections": [
@@ -38166,7 +38366,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Écran de paiement de YesStyle avec les champs Coupon Code et Reward Code.",
         "imageCaption": "Les deux champs distincts du paiement : Coupon Code (pour les coupons de promotion) et Reward Code (pour CECILIA010). Le coupon de la capture provient d'une campagne déjà terminée.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "bullets": [
           "1. Champ « Coupon Code » (code de coupon) : c'est ici que vous saisissez les coupons promotionnels du site YesStyle (comme les coupons de soldes ou les campagnes de 10 % à 15 %).",
           "2. Champ « Reward Code » / « Influencer Code » (code de récompense) : c'est ici que vous saisissez le code officiel d'influenceuse CECILIA010, avec 5 % de plus sur le premier achat et 2 % sur les suivants."
@@ -38207,7 +38407,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
         "imageAlt": "Écran du panier sur la boutique YesStyle.",
         "imageCaption": "Écran de récapitulatif du panier chez YesStyle avant l'application des codes de réduction.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Étape 3 : appliquez le coupon de la promotion dans le champ Coupon Code",
@@ -38224,12 +38424,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Étape 5 : vérifiez la réduction cumulée et finalisez la commande",
         "paragraphs": [
-          "Dans le récapitulatif de la commande, vérifiez les deux réductions avant de payer : le coupon et CECILIA010."
+          "Dans le récapitulatif de la commande, vérifiez les deux réductions avant de payer : le coupon et CECILIA010.",
+          "Le total est débité dans la devise choisie sur le site, au taux de change de YesStyle, et votre banque peut facturer des frais d'achat international."
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "Récapitulatif final de la commande chez YesStyle avec les réductions cumulées.",
         "imageCaption": "Récapitulatif du paiement confirmant le duo : coupon de promotion + code de récompense CECILIA010 cumulés avec succès. Le coupon de la capture provient d'une campagne déjà terminée.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Où trouver les coupons YesStyle en cours",
@@ -38249,7 +38450,8 @@ export const reviewsData: unknown[] = [
             "href": "https://ystyle.co/rQYQv",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "Les coupons changent d'une semaine à l'autre ; CECILIA010 reste. Je mets d'abord le code de récompense dans Reward Code et je vérifie seulement ensuite quel coupon le paiement accepte aujourd'hui."
       },
       {
         "heading": "Questions fréquentes sur les coupons YesStyle",
@@ -38258,7 +38460,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Quelle est la différence entre Coupon Code et Influencer/Rewards Code chez YesStyle ? Le Coupon Code est le coupon de promotion, saisi dans le champ « Coupon Code », avec son propre délai et ses propres règles : il peut exiger un achat minimum, avoir une restriction régionale ou exclure certains produits. CECILIA010 est le code de récompense (Influencer/Rewards Code), saisi dans le champ distinct « Reward Code », avec 5 % sur le premier achat et 2 % sur les suivants. Quand les règles de la promotion le permettent, les deux réductions peuvent apparaître ensemble dans le récapitulatif de la commande.",
-          "Qu'est-ce que le code d'influenceur de YesStyle ? C'est le code de récompense (Reward Code), saisi dans un champ propre du paiement, séparé du champ de coupon. Le nôtre est CECILIA010, qui va dans le champ Reward Code.",
+          "Quel est le code de récompense (code d'influenceuse) de YesStyle ? CECILIA010 : il donne 5 % de plus sur la première commande et 2 % sur les suivantes, se saisit dans le champ Reward Code et se cumule avec un coupon de la boutique dans le champ Coupon Code. C'est le code d'influenceuse de Cecília.",
           "Les coupons YesStyle ont-ils une date de validité ? Oui. Les coupons promotionnels ont une date d'expiration et peuvent se terminer sans préavis. Certaines campagnes durent quelques jours seulement (comme les promotions de 72 ou 96 heures), d'autres restent actives sur des durées différentes. Avant de finaliser l'achat, vérifiez dans les règles de la promotion la validité, le montant minimum, la région et les produits éligibles, et assurez-vous que la réduction est bien apparue au paiement.",
           "Où trouver les règles officielles des coupons YesStyle ? Les règles générales se trouvent sur la page « General Terms and Conditions for Coupons » du centre d'aide de YesStyle. Pour les conditions d'une campagne précise, rendez-vous dans le centre d'aide et ouvrez la rubrique « Promotions », où YesStyle publie la validité, l'achat minimum, les régions participantes et les exclusions éventuelles. Ces conditions changeant, consultez aussi la bannière de la promotion et le récapitulatif de la commande avant de payer.",
           "Peut-on utiliser plusieurs coupons promotionnels sur la même commande ? Non. D'après les règles générales de YesStyle, un seul Coupon Code peut être utilisé par commande ou commande groupée. CECILIA010, en revanche, n'est pas un Coupon Code : il s'applique dans le champ distinct « Reward Code ». Un coupon promotionnel et CECILIA010 peuvent donc se combiner quand la campagne est éligible et que le paiement accepte les deux."
@@ -38279,7 +38481,18 @@ export const reviewsData: unknown[] = [
     "translationKey": "yesstyle-coupon-guide",
     "category": "cupons-como-usar",
     "isNew": false,
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-06",
+    "decision": {
+      "takeIf": [
+        "Vous êtes au paiement sur YesStyle avec un coupon et vous ne savez pas dans quel champ va chaque code.",
+        "Votre coupon a été refusé et vous voulez comprendre pourquoi avant d'en chercher un autre."
+      ],
+      "skipIf": [
+        "Vous cherchez un coupon prêt à copier : ce guide donne la méthode, et la liste du moment se trouve sur notre page des coupons YesStyle.",
+        "Vous comptez cumuler deux coupons de la boutique : YesStyle n'accepte qu'un seul Coupon Code par commande, et seul CECILIA010 va dans un champ à part."
+      ]
+    },
+    "seoTitle": "Trouver et cumuler les coupons YesStyle avec CECILIA010"
   },
   {
     "id": 238,
@@ -38287,6 +38500,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle-Gutscheine finden und mit CECILIA010 kombinieren",
     "type": "Ratgeber & Gutscheine",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "So finden Sie gültige YesStyle-Gutscheine, verstehen Coupon Code und Reward Code und nutzen CECILIA010: 5 % beim ersten Einkauf, 2 % bei den folgenden.",
     "metaDescription": "Wo Sie die aktuell gültigen YesStyle-Gutscheine finden, wie Sie abgelaufene Codes vermeiden und wie Sie den Reward Code CECILIA010 für bis zu 5 % Extra-Rabatt dazunehmen.",
     "publishedAt": "24 Jul 2026",
@@ -38311,43 +38531,13 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília mit rosa Haarband zeigt einen offenen Tiegel mit rosa Abib-Hydrogel-Augenpatches auf einem Bild aus ihrem eigenen Video. Aufschrift: „Gutscheine finden und kombinieren“ und „Aktionsgutschein + Prämiencode“, mit dem Prämiencode CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Zeigt, wie Sie Coupon Code und Reward Code auseinanderhalten, um Fehler an der Kasse zu vermeiden",
-      "Erklärt das Kombinieren: den Gutschein des Monats zusammen mit CECILIA010 nutzen",
-      "Zeigt, wie Sie mit dem offiziellen Influencer-Code bis zu 5 % extra sparen",
-      "Zeigt, wo Sie die aktuellen YesStyle-Gutscheine finden, damit Sie gefälschte oder abgelaufene Codes vermeiden",
-      "Führt zur aktuellen Seite von Em Casa com Cecília mit der Liste der gültigen Gutscheine"
-    ],
-    "cons": [
-      "Monatliche Aktionsgutscheine haben kurze Laufzeiten (meist von 72 Stunden bis 30 Tage)",
-      "Der Rabatt von CECILIA010 liegt zwischen 5 % beim ersten Einkauf und 2 % bei weiteren Einkäufen",
-      "Der Gesamtbetrag wird in der auf der Website gewählten Währung abgerechnet, zum YesStyle-Wechselkurs; die Bank kann eine Gebühr für internationale Käufe berechnen"
-    ],
-    "pullQuote": "Geben Sie CECILIA010 im Feld Reward Code ein: 5 % beim ersten Einkauf und 2 % bei weiteren Einkäufen. Wenn die Aktion es erlaubt, nutzen Sie zusätzlich einen Gutschein im Feld Coupon Code und prüfen Sie beide Rabatte in der Bestellübersicht.",
-    "productSpec": [
-      {
-        "key": "Shop",
-        "value": "YesStyle (offiziell)"
-      },
-      {
-        "key": "Reward Code",
-        "value": "CECILIA010 (bis zu 5 % extra)",
-        "highlight": true
-      },
-      {
-        "key": "Feld an der Kasse",
-        "value": "Reward Code"
-      },
-      {
-        "key": "Kombinierbar",
-        "value": "Kann mit berechtigten Aktionsgutscheinen kombiniert werden; an der Kasse prüfen"
-      }
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "Auf unserer Seite ist die Liste der YesStyle-Gutscheine auf dem Stand vom 22. November 2026.",
-      "label": "Aktive YesStyle-Gutscheine ansehen",
-      "url": "/de/coupons/yesstyle",
-      "sponsored": false
+      "text": "Geben Sie CECILIA010 im Feld Reward Code ein: 5 % extra auf die erste Bestellung und 2 % auf die folgenden.",
+      "label": "Zu YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -38355,6 +38545,18 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-rabatt-cecilia010"
+      },
+      {
+        "slug": "yesstyle-erste-bestellung-code-cecilia010"
+      },
+      {
+        "slug": "ist-yesstyle-serioes-und-sicher"
+      },
+      {
+        "slug": "yesstyle-app-bestellen-reward-code"
+      },
+      {
+        "slug": "yesstyle-versand-deutschland-oesterreich-schweiz"
       }
     ],
     "contentSections": [
@@ -38386,7 +38588,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Kasse von YesStyle mit den Feldern Coupon Code und Reward Code.",
         "imageCaption": "Die zwei getrennten Felder an der Kasse: Coupon Code (für Aktionsgutscheine) und Reward Code (für CECILIA010). Der Gutschein im Screenshot stammt aus einer bereits beendeten Aktion.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "bullets": [
           "1. Feld „Coupon Code“ (Gutscheincode): Hier geben Sie die Aktionsgutscheine von der YesStyle-Website ein (etwa Sale-Gutscheine oder Kampagnen mit 10 % bis 15 % Rabatt).",
           "2. Feld „Reward Code“ / „Influencer Code“ (Belohnungscode): Hier geben Sie den offiziellen Influencer-Code CECILIA010 ein, mit 5 % extra beim ersten Einkauf und 2 % bei den folgenden."
@@ -38427,7 +38629,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
         "imageAlt": "Warenkorb-Ansicht im YesStyle-Shop.",
         "imageCaption": "Warenkorb-Übersicht bei YesStyle, bevor die Rabattcodes eingegeben werden.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Schritt 3: Geben Sie den Aktionsgutschein im Feld Coupon Code ein",
@@ -38444,12 +38646,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schritt 5: Prüfen Sie den kombinierten Rabatt und schließen Sie die Bestellung ab",
         "paragraphs": [
-          "Prüfen Sie in der Bestellübersicht vor dem Bezahlen beide Rabatte: den Gutschein und CECILIA010."
+          "Prüfen Sie in der Bestellübersicht vor dem Bezahlen beide Rabatte: den Gutschein und CECILIA010.",
+          "Der Gesamtbetrag wird in der auf der Website gewählten Währung abgerechnet, zum YesStyle-Wechselkurs; die Bank kann eine Gebühr für internationale Käufe berechnen."
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "Abschließende Bestellübersicht bei YesStyle mit den kombinierten Rabatten.",
         "imageCaption": "Bestellübersicht an der Kasse, die die Kombination bestätigt: Aktionsgutschein + Reward Code CECILIA010, erfolgreich kombiniert. Der Gutschein im Screenshot stammt aus einer bereits beendeten Aktion.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Wo Sie die aktuell gültigen YesStyle-Gutscheine finden",
@@ -38469,7 +38672,8 @@ export const reviewsData: unknown[] = [
             "href": "https://ystyle.co/rQYQv",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "Gutscheine wechseln von Woche zu Woche, CECILIA010 bleibt. Ich trage zuerst den Reward Code ein und prüfe erst danach, welchen Gutschein der Checkout heute annimmt."
       },
       {
         "heading": "Häufige Fragen zu YesStyle-Gutscheinen",
@@ -38478,7 +38682,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Was ist der Unterschied zwischen Coupon Code und Influencer/Rewards Code bei YesStyle? Der Coupon Code ist der Aktionsgutschein, eingegeben im Feld „Coupon Code“, mit eigener Frist und eigenen Regeln: Er kann einen Mindestbestellwert, eine regionale Beschränkung oder ausgeschlossene Produkte haben. CECILIA010 ist der Reward Code (Influencer/Rewards Code), eingegeben im separaten Feld „Reward Code“, mit 5 % beim ersten Einkauf und 2 % bei den folgenden. Wenn die Regeln der Aktion es erlauben, können beide Rabatte zusammen in der Bestellübersicht erscheinen.",
-          "Was ist der Influencer-Code von YesStyle? Das ist der Reward Code (Belohnungscode), der in ein eigenes Feld an der Kasse eingegeben wird, getrennt vom Gutscheinfeld. Unser Code ist CECILIA010, er kommt ins Feld Reward Code.",
+          "Was ist der Reward Code (Influencer-Code) von YesStyle? CECILIA010: Er bringt 5 % extra auf die erste Bestellung und 2 % auf die folgenden, kommt ins Feld Reward Code und lässt sich mit einem Shop-Gutschein im Feld Coupon Code kombinieren. Es ist der Influencer-Code von Cecília.",
           "Haben die YesStyle-Gutscheine ein Ablaufdatum? Ja. Aktionsgutscheine haben ein Ablaufdatum und können ohne Vorankündigung enden. Manche Kampagnen dauern nur wenige Tage (etwa Aktionen über 72 oder 96 Stunden), andere bleiben unterschiedlich lange aktiv. Prüfen Sie vor dem Abschluss des Kaufs in den Regeln der Aktion die Gültigkeit, den Mindestbetrag, die Region und die berechtigten Produkte und kontrollieren Sie, ob der Rabatt an der Kasse erschienen ist.",
           "Wo finde ich die offiziellen Regeln für YesStyle-Gutscheine? Die allgemeinen Regeln stehen auf der Seite „General Terms and Conditions for Coupons“ im Hilfecenter von YesStyle. Für die Bedingungen einer bestimmten Kampagne öffnen Sie im Hilfecenter den Bereich „Promotions“, in dem YesStyle Gültigkeit, Mindestbestellwert, teilnehmende Regionen und mögliche Ausschlüsse veröffentlicht. Da sich diese Bedingungen ändern, sehen Sie vor dem Bezahlen auch im Banner der Aktion und in der Bestellübersicht nach.",
           "Kann ich mehr als einen Aktionsgutschein in derselben Bestellung nutzen? Nein. Nach den allgemeinen Regeln von YesStyle darf pro Bestellung oder zusammengefasster Bestellung nur ein Coupon Code verwendet werden. CECILIA010 ist jedoch kein Coupon Code: Er wird im separaten Feld „Reward Code“ eingegeben. Deshalb lassen sich ein Aktionsgutschein und CECILIA010 kombinieren, wenn die Kampagne berechtigt ist und die Kasse beide akzeptiert."
@@ -38499,7 +38703,17 @@ export const reviewsData: unknown[] = [
     "translationKey": "yesstyle-coupon-guide",
     "category": "cupons-como-usar",
     "isNew": false,
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-06",
+    "decision": {
+      "takeIf": [
+        "Sie stehen bei YesStyle an der Kasse mit einem Gutschein und wissen nicht, in welches Feld welcher Code gehört.",
+        "Ihr Gutschein wurde abgelehnt und Sie wollen den Grund kennen, bevor Sie nach einem anderen suchen."
+      ],
+      "skipIf": [
+        "Sie suchen einen fertigen Gutschein zum Kopieren: Dieser Ratgeber zeigt die Methode, die aktuelle Liste steht auf unserer YesStyle-Gutscheinseite.",
+        "Sie wollen zwei Shop-Gutscheine kombinieren: YesStyle akzeptiert nur einen Coupon Code pro Bestellung, und nur CECILIA010 kommt in ein separates Feld."
+      ]
+    }
   },
   {
     "id": 239,
@@ -38507,6 +38721,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle 쿠폰 찾는 법과 CECILIA010 함께 쓰는 법",
     "type": "가이드 & 쿠폰",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "YesStyle 할인 쿠폰을 찾는 실전 가이드. Coupon Code와 Reward Code의 차이를 알고, CECILIA010을 첫 구매 5%, 이후 구매 2%로 쓰는 방법을 안내합니다.",
     "metaDescription": "지금 유효한 YesStyle 쿠폰을 찾는 곳, 만료된 코드를 피하는 법, 리워드 코드 CECILIA010을 함께 써서 최대 5% 더 절약하는 방법을 정리했습니다.",
     "publishedAt": "24 Jul 2026",
@@ -38531,43 +38752,13 @@ export const reviewsData: unknown[] = [
     "imageAlt": "분홍색 헤어밴드를 착용한 Cecília가 분홍색 Abib 하이드로겔 아이패치의 열린 용기를 보여 주는 자체 영상 장면. 제목은 “쿠폰 찾고 함께 쓰는 법”, 부제는 “매장 쿠폰 + 리워드 코드”이며 리워드 코드 CECILIA010가 표시되어 있다.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "결제 단계에서 실수하지 않도록 Coupon Code와 Reward Code의 차이를 알려 줍니다",
-      "이달의 쿠폰과 CECILIA010을 함께 쓰는 중복 적용(스태킹) 방법을 설명합니다",
-      "공식 인플루언서 코드로 최대 5%를 더 절약하는 방법을 보여 줍니다",
-      "가짜이거나 만료된 코드를 피하도록 진행 중인 YesStyle 쿠폰을 찾는 곳을 정리했습니다",
-      "현재 유효한 쿠폰 목록이 있는 Em Casa com Cecília 최신 페이지로 안내합니다"
-    ],
-    "cons": [
-      "월별 프로모션 쿠폰은 기한이 짧습니다(보통 72시간에서 30일)",
-      "CECILIA010 할인율은 첫 구매 5%, 재구매 2%로 다릅니다",
-      "결제 총액은 사이트에서 고른 통화로 YesStyle의 환율에 따라 표시되며, 카드사나 은행에서 해외 결제 수수료를 받을 수 있습니다"
-    ],
-    "pullQuote": "Reward Code 칸에 CECILIA010을 입력하세요. 첫 구매는 5%, 이후 구매는 2% 할인입니다. 프로모션에서 허용하면 Coupon Code 칸에 쿠폰도 입력하고, 주문 요약에서 두 할인을 확인하세요.",
-    "productSpec": [
-      {
-        "key": "쇼핑몰",
-        "value": "YesStyle (공식)"
-      },
-      {
-        "key": "리워드 코드",
-        "value": "CECILIA010 (최대 5% 추가 할인)",
-        "highlight": true
-      },
-      {
-        "key": "결제 화면 입력란",
-        "value": "Reward Code / 리워드 코드"
-      },
-      {
-        "key": "중복 적용",
-        "value": "적용 대상 프로모션 쿠폰과 함께 쓸 수 있습니다. 결제 화면에서 확인하세요."
-      }
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 11월 22일 기준입니다.",
-      "label": "사용 가능한 YesStyle 쿠폰 보기",
-      "url": "/ko/coupons/yesstyle",
-      "sponsored": false
+      "text": "Reward Code 칸에 CECILIA010을 입력하세요. 첫 구매 5%, 이후 구매 2%의 추가 할인이 적용됩니다.",
+      "label": "YesStyle로 이동",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -38575,6 +38766,18 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ko"
+      },
+      {
+        "slug": "yesstyle-first-order-cecilia010-ko"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ko"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-ko"
+      },
+      {
+        "slug": "yesstyle-shipping-korea-ko"
       }
     ],
     "contentSections": [
@@ -38606,7 +38809,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Coupon Code와 Reward Code 입력란이 보이는 YesStyle 결제 화면.",
         "imageCaption": "결제 화면의 두 입력란: Coupon Code(프로모션 쿠폰용)와 Reward Code(CECILIA010용). 화면 속 쿠폰은 이미 끝난 캠페인의 쿠폰입니다.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "bullets": [
           "1. \"Coupon Code\" 칸: YesStyle 사이트의 프로모션 쿠폰(세일 쿠폰이나 10%~15% 할인 캠페인 등)을 입력하는 곳입니다.",
           "2. \"Reward Code\" / \"Influencer Code\" 칸: 인플루언서 공식 코드 CECILIA010을 입력하는 곳으로, 첫 구매는 5%, 이후 구매는 2%가 추가로 할인됩니다."
@@ -38647,7 +38850,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
         "imageAlt": "YesStyle 쇼핑몰의 장바구니 화면.",
         "imageCaption": "할인 코드를 입력하기 전, YesStyle 장바구니 요약 화면.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "3단계: Coupon Code 칸에 프로모션 쿠폰 입력",
@@ -38664,12 +38867,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5단계: 합산된 할인을 확인하고 주문 완료",
         "paragraphs": [
-          "결제하기 전에 주문 요약에서 두 할인, 즉 쿠폰과 CECILIA010이 반영되었는지 확인하세요."
+          "결제하기 전에 주문 요약에서 두 할인, 즉 쿠폰과 CECILIA010이 반영되었는지 확인하세요.",
+          "결제 총액은 사이트에서 고른 통화로 YesStyle의 환율에 따라 표시되며, 카드사나 은행에서 해외 결제 수수료를 받을 수 있습니다."
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "합산된 할인이 보이는 YesStyle 최종 주문 요약.",
         "imageCaption": "결제 요약에서 두 가지 조합을 확인: 프로모션 쿠폰과 리워드 코드 CECILIA010이 모두 적용되었습니다. 화면 속 쿠폰은 이미 끝난 캠페인의 쿠폰입니다.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "진행 중인 YesStyle 쿠폰을 찾는 곳",
@@ -38689,7 +38893,8 @@ export const reviewsData: unknown[] = [
             "href": "https://ystyle.co/rQYQv",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "쿠폰은 주마다 바뀌고 CECILIA010은 그대로입니다. 저는 먼저 Reward Code 칸에 리워드 코드를 넣고, 그다음에 오늘 결제 화면이 받아 주는 쿠폰을 확인합니다."
       },
       {
         "heading": "YesStyle 쿠폰 자주 묻는 질문",
@@ -38698,7 +38903,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "YesStyle의 Coupon Code와 Influencer/Rewards Code는 무엇이 다른가요? Coupon Code는 프로모션 쿠폰으로 \"Coupon Code\" 칸에 입력하며, 기한과 규칙이 각각 따로 있어 최소 구매 금액, 지역 제한, 적용 제외 상품이 있을 수 있습니다. CECILIA010은 리워드 코드(Influencer/Rewards Code)로 별도의 \"Reward Code\" 칸에 입력하며, 첫 구매 5%, 이후 구매 2%입니다. 프로모션 규칙이 허용하면 주문 요약에 두 할인이 함께 표시될 수 있습니다.",
-          "YesStyle의 인플루언서 코드란 무엇인가요? 리워드 코드(Reward Code)로, 결제 화면에서 쿠폰 칸과 분리된 전용 칸에 입력합니다. 저희 코드는 CECILIA010이며 Reward Code 칸에 입력합니다.",
+          "YesStyle의 리워드 코드(인플루언서 코드)는 무엇인가요? CECILIA010입니다. 첫 구매 5%, 이후 구매 2%가 추가되고 Reward Code 칸에 입력하며, Coupon Code 칸의 쇼핑몰 쿠폰 한 장과 함께 쓸 수 있습니다. Cecília의 인플루언서 코드입니다.",
           "YesStyle 쿠폰에는 유효 기간이 있나요? 네. 프로모션 쿠폰에는 유효 기간이 있고 예고 없이 만료될 수 있습니다. 72시간이나 96시간처럼 며칠만 진행되는 캠페인도 있고, 캠페인마다 진행 기간이 다릅니다. 결제를 마치기 전에 프로모션 규칙에서 유효 기간, 최소 구매 금액, 지역, 적용 대상 상품을 확인하고 결제 화면에 할인이 반영되었는지 확인하세요.",
           "YesStyle 쿠폰의 공식 규칙은 어디서 볼 수 있나요? 일반 규칙은 YesStyle 고객센터의 \"General Terms and Conditions for Coupons\" 페이지에 있습니다. 개별 캠페인의 조건은 고객센터에서 \"Promotions\" 항목을 열면 유효 기간, 최소 구매 금액, 참여 지역, 제외 대상이 게시되어 있습니다. 조건은 바뀔 수 있으니 결제 전에 프로모션 배너와 주문 요약도 함께 확인하세요.",
           "한 주문에 프로모션 쿠폰을 두 개 이상 쓸 수 있나요? 아니요. YesStyle 일반 규칙상 한 주문(또는 합산 주문)에는 Coupon Code를 하나만 쓸 수 있습니다. 하지만 CECILIA010은 Coupon Code가 아니라 별도의 \"Reward Code\" 칸에 입력합니다. 따라서 캠페인이 해당되고 결제 화면이 둘 다 받아 주면, 프로모션 쿠폰과 CECILIA010을 함께 쓸 수 있습니다."
@@ -38719,7 +38924,17 @@ export const reviewsData: unknown[] = [
     "translationKey": "yesstyle-coupon-guide",
     "category": "cupons-como-usar",
     "isNew": false,
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-06",
+    "decision": {
+      "takeIf": [
+        "YesStyle 결제 화면에 쿠폰을 들고 왔는데 각 코드를 어느 칸에 넣는지 모르는 분.",
+        "쿠폰이 거절돼서 다른 쿠폰을 찾기 전에 이유부터 알고 싶은 분."
+      ],
+      "skipIf": [
+        "바로 복사해 쓸 쿠폰을 찾는 분: 이 글은 방법을 알려 드리고, 지금 쓸 수 있는 목록은 YesStyle 쿠폰 페이지에 있습니다.",
+        "쇼핑몰 쿠폰 두 개를 겹쳐 쓰려는 분: YesStyle은 주문당 Coupon Code를 하나만 받고, 별도 칸에 들어가는 것은 CECILIA010뿐입니다."
+      ]
+    }
   },
   {
     "id": 240,
@@ -38727,6 +38942,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyleクーポンの見つけ方とCECILIA010の併用方法",
     "type": "ガイド＆クーポン",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "YesStyleのクーポンの探し方ガイド。Coupon CodeとReward Codeの違いを押さえ、CECILIA010を初回購入5%、2回目以降2%で使う方法をまとめました。",
     "metaDescription": "今出ているYesStyleのクーポンの探し方、期限切れコードを避けるコツ、リワードコードCECILIA010を重ねて最大5%を追加で節約する方法を紹介します。",
     "publishedAt": "24 Jul 2026",
@@ -38751,43 +38973,13 @@ export const reviewsData: unknown[] = [
     "imageAlt": "ピンクのヘアバンドを着けたCecíliaが、Abibのピンク色のハイドロゲルアイパッチの開いた容器を見せる、自社撮影の動画の一場面。見出し「クーポンの探し方 併用はどうする？」、補足「ショップクーポン＋ リワードコード」、リワードコードCECILIA010を配置。",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "決済画面でのミスを防ぐために、Coupon CodeとReward Codeの違いがわかる",
-      "今月のクーポンとCECILIA010を重ねる併用（スタッキング）の仕組みがわかる",
-      "公式のインフルエンサーコードで最大5%を追加で節約する方法がわかる",
-      "偽物や期限切れのコードを避けられるよう、開催中のYesStyleクーポンの探し方を紹介",
-      "Em Casa com Cecíliaの最新ページで、有効なクーポン一覧に進める"
-    ],
-    "cons": [
-      "月ごとのプロモクーポンは期限が短い（たいてい72時間〜30日）",
-      "CECILIA010の割引率は、初回購入が5%、2回目以降が2%",
-      "お支払い総額はサイトで選んだ通貨で、YesStyleの為替レートで表示され、カード会社や銀行が海外取引の手数料を請求する場合があります"
-    ],
-    "pullQuote": "Reward Code欄にCECILIA010を入力すると、初回購入は5%、2回目以降は2%割引です。キャンペーンが認めている場合はCoupon Code欄にクーポンも入力し、注文の概要で両方の割引を確認してください。",
-    "productSpec": [
-      {
-        "key": "ショップ",
-        "value": "YesStyle（公式）"
-      },
-      {
-        "key": "リワードコード",
-        "value": "CECILIA010（最大5%追加オフ）",
-        "highlight": true
-      },
-      {
-        "key": "決済画面の入力欄",
-        "value": "Reward Code / リワードコード"
-      },
-      {
-        "key": "併用",
-        "value": "対象のプロモクーポンと併用できます。決済画面で確認してください。"
-      }
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "当サイトのYesStyleクーポン一覧は2026年11月22日時点の内容です。",
-      "label": "利用できるYesStyleクーポンを見る",
-      "url": "/ja/coupons/yesstyle",
-      "sponsored": false
+      "text": "CECILIA010をReward Code欄に入力すると、初回購入で5%、2回目以降で2%の追加割引を受けられます。",
+      "label": "YesStyleへ進む",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -38795,6 +38987,18 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ja"
+      },
+      {
+        "slug": "yesstyle-first-order-cecilia010-ja"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ja"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-ja"
+      },
+      {
+        "slug": "yesstyle-shipping-japan-ja"
       }
     ],
     "contentSections": [
@@ -38826,7 +39030,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "YesStyleの決済画面。Coupon Code欄とReward Code欄が表示されている。",
         "imageCaption": "決済画面の2つの入力欄：Coupon Code（セールのクーポン用）とReward Code（CECILIA010用）。 画面のクーポンは、すでに終了したキャンペーンのものです。",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "bullets": [
           "1. 「Coupon Code」欄：YesStyleのサイトで配布されるプロモクーポン（セールのクーポンや10%〜15%オフのキャンペーンなど）を入れる場所です。",
           "2. 「Reward Code」/「Influencer Code」欄：インフルエンサーの公式コードCECILIA010を入れる場所で、初回購入は5%、2回目以降は2%の追加オフです。"
@@ -38867,7 +39071,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
         "imageAlt": "YesStyleのショッピングカート画面。",
         "imageCaption": "割引コードを入れる前の、YesStyleのカート概要画面。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "ステップ3：Coupon Code欄にセールのクーポンを入力",
@@ -38884,12 +39088,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ステップ5：重ねた割引を確認して注文を完了",
         "paragraphs": [
-          "支払いの前に、注文の概要で2つの割引を確認します。クーポンとCECILIA010です。"
+          "支払いの前に、注文の概要で2つの割引を確認します。クーポンとCECILIA010です。",
+          "お支払い総額はサイトで選んだ通貨で、YesStyleの為替レートで表示され、カード会社や銀行が海外取引の手数料を請求する場合があります。"
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "YesStyleの最終注文概要。重ねた割引が表示されている。",
         "imageCaption": "決済の概要で二本立てを確認：セールのクーポンとリワードコードCECILIA010が、どちらも反映されています。 画面のクーポンは、すでに終了したキャンペーンのものです。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "開催中のYesStyleクーポンを見つける方法",
@@ -38909,7 +39114,8 @@ export const reviewsData: unknown[] = [
             "href": "https://ystyle.co/rQYQv",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "クーポンは週ごとに変わりますが、CECILIA010は変わりません。私は先にReward Code欄にリワードコードを入れ、そのあとで今日のチェックアウトが受け付けるクーポンを確認します。"
       },
       {
         "heading": "YesStyleクーポンに関するよくある質問",
@@ -38918,7 +39124,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "YesStyleのCoupon CodeとInfluencer/Rewards Codeはどう違いますか？ Coupon Codeはセール用のクーポンで、「Coupon Code」欄に入れます。期限と条件がそれぞれ決まっていて、最低購入額、地域の制限、対象外の商品がある場合があります。CECILIA010はリワードコード（Influencer/Rewards Code）で、別枠の「Reward Code」欄に入れ、初回購入は5%、2回目以降は2%です。セールの条件が認めていれば、注文の概要に両方の割引が並んで表示されます。",
-          "YesStyleのインフルエンサーコードとは何ですか？ リワードコード（Reward Code）のことで、決済画面のクーポン欄とは別の専用欄に入力します。当サイトのコードはCECILIA010で、Reward Code欄に入れます。",
+          "YesStyleのリワードコード（インフルエンサーコード）とは何ですか？ CECILIA010です。初回購入は5%、2回目以降は2%が追加され、Reward Code欄に入力して、Coupon Code欄のショップのクーポン1枚と併用できます。Cecíliaのインフルエンサーコードです。",
           "YesStyleのクーポンに有効期限はありますか？ はい。プロモクーポンには期限があり、予告なく終わることがあります。72時間や96時間のように数日で終わるキャンペーンもあれば、続く期間が異なるキャンペーンもあります。購入を確定する前に、プロモの条件で有効期限、最低購入額、地域、対象商品を確認し、決済画面で割引が反映されたことを確かめてください。",
           "YesStyleのクーポンの公式ルールはどこで見られますか？ 全般のルールは、YesStyleのヘルプセンターにある「General Terms and Conditions for Coupons」のページに載っています。個別のキャンペーンの条件は、ヘルプセンターを開いて「Promotions」の項目を見てください。有効期限、最低購入額、対象地域、除外品がそこで公開されています。条件は変わるため、支払いの前にプロモのバナーと注文の概要も確認しましょう。",
           "1回の注文でプロモクーポンを2枚以上使えますか？ いいえ。YesStyleの全般ルールでは、1回の注文（または合算した注文）で使えるCoupon Codeは1つだけです。ただしCECILIA010はCoupon Codeではなく、別枠の「Reward Code」欄に入れます。そのため、キャンペーンが対象で、決済画面が両方を受け付ければ、プロモクーポンとCECILIA010は併用できます。"
@@ -38939,7 +39145,17 @@ export const reviewsData: unknown[] = [
     "translationKey": "yesstyle-coupon-guide",
     "category": "cupons-como-usar",
     "isNew": false,
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-06",
+    "decision": {
+      "takeIf": [
+        "YesStyleのチェックアウトにクーポンを持って来たものの、どの欄にどのコードを入れるのか分からない人。",
+        "クーポンが拒否されて、別のものを探す前に理由を知りたい人。"
+      ],
+      "skipIf": [
+        "そのままコピーできるクーポンを探している人。この記事では探し方を説明し、現在の一覧は当サイトのYesStyleクーポンのページにあります。",
+        "ショップのクーポンを2枚重ねたい人。YesStyleは1注文につきCoupon Codeを1つしか受け付けず、別の欄に入るのはCECILIA010だけです。"
+      ]
+    }
   },
   {
     "id": 241,
@@ -38947,6 +39163,13 @@ export const reviewsData: unknown[] = [
     "title": "如何找到 YesStyle 優惠碼並與 CECILIA010 疊加使用",
     "type": "指南與優惠碼",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "YesStyle 優惠碼實用指南：分清 Coupon Code 與 Reward Code，並了解 CECILIA010 的用法，首次購買 5%，之後的購買 2%。",
     "metaDescription": "哪裡找得到目前有效的 YesStyle 優惠碼、如何避開過期代碼，以及怎麼疊加獎勵碼 CECILIA010，額外省下高達 5%。",
     "publishedAt": "24 Jul 2026",
@@ -38971,43 +39194,13 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília的自有影片中，她戴著粉紅髮帶，展示打開的Abib粉紅水凝膠眼膜罐。配文“優惠碼怎麼找？ 如何疊加使用？”“商店優惠碼＋ 獎勵碼”及獎勵碼CECILIA010。",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "說明 Coupon Code 與 Reward Code 的差別，避免結帳時填錯",
-      "解釋疊加（stacking）方式：當月優惠碼可以和 CECILIA010 一起用",
-      "教你用官方網紅代碼額外省下高達 5%",
-      "說明哪裡找得到目前有效的 YesStyle 優惠碼，避開假碼和過期碼",
-      "帶你前往 Em Casa com Cecília 的最新頁面，那裡有目前有效的優惠碼清單"
-    ],
-    "cons": [
-      "每月的促銷優惠碼效期很短（通常 72 小時到 30 天）",
-      "CECILIA010 的折扣首次購買為 5%，之後的回購為 2%",
-      "結帳總額以你在網站上選擇的幣別顯示，依 YesStyle 的匯率換算，銀行可能收取國際交易手續費"
-    ],
-    "pullQuote": "在 Reward Code 欄輸入 CECILIA010：首次購買享 5% 折扣，之後的購買享 2%。活動允許時，也可在 Coupon Code 欄輸入優惠碼，並在訂單摘要中確認兩項折扣。",
-    "productSpec": [
-      {
-        "key": "商店",
-        "value": "YesStyle（官方）"
-      },
-      {
-        "key": "獎勵碼",
-        "value": "CECILIA010（高達 5% 額外折扣）",
-        "highlight": true
-      },
-      {
-        "key": "結帳輸入欄",
-        "value": "Reward Code / 獎勵碼"
-      },
-      {
-        "key": "可否疊加",
-        "value": "可與符合條件的促銷優惠碼疊加使用，請在結帳時確認。"
-      }
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "本站頁面的 YesStyle 優惠碼列表更新於2026年11月22日。",
-      "label": "查看 YesStyle 優惠碼",
-      "url": "/zh-hant/coupons/yesstyle",
-      "sponsored": false
+      "text": "把 CECILIA010 貼在 Reward Code 欄位：首購額外 5%，之後的訂單額外 2%。",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -39015,6 +39208,18 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hant"
+      },
+      {
+        "slug": "yesstyle-first-order-cecilia010-zh-hant"
+      },
+      {
+        "slug": "yesstyle-trust-guide-zh-hant"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-zh-hant"
+      },
+      {
+        "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant"
       }
     ],
     "contentSections": [
@@ -39046,7 +39251,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "YesStyle 結帳頁面，顯示 Coupon Code 和 Reward Code 兩個欄位。",
         "imageCaption": "結帳頁面的兩個獨立欄位：Coupon Code（用於促銷優惠碼）和 Reward Code（用於 CECILIA010）。 截圖中的優惠碼來自已經結束的活動。",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "bullets": [
           "1. 「Coupon Code」欄位：填入 YesStyle 網站的促銷優惠碼（如出清優惠碼或 10% 至 15% 折扣的活動）。",
           "2. 「Reward Code」/「Influencer Code」欄位：填入官方網紅代碼 CECILIA010，首次購買額外享 5% 折扣，之後的購買享 2%。"
@@ -39087,7 +39292,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
         "imageAlt": "YesStyle 購物車頁面。",
         "imageCaption": "使用折扣碼之前，YesStyle 的購物車摘要頁面。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "步驟 3：在 Coupon Code 欄填入促銷優惠碼",
@@ -39104,12 +39309,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "步驟 5：確認疊加後的折扣並完成訂單",
         "paragraphs": [
-          "付款之前，在訂單摘要中確認兩項折扣：優惠碼和 CECILIA010。"
+          "付款之前，在訂單摘要中確認兩項折扣：優惠碼和 CECILIA010。",
+          "結帳總額以你在網站上選擇的幣別顯示，依 YesStyle 的匯率換算，銀行可能收取國際交易手續費。"
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "YesStyle 最終訂單摘要，顯示疊加後的折扣。",
         "imageCaption": "結帳摘要確認兩個一起用已成功：促銷優惠碼加上獎勵碼 CECILIA010，都已生效。 截圖中的優惠碼來自已經結束的活動。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "哪裡找得到目前有效的 YesStyle 優惠碼",
@@ -39129,7 +39335,8 @@ export const reviewsData: unknown[] = [
             "href": "https://ystyle.co/rQYQv",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "優惠碼每週都在變，CECILIA010 不變。我先把獎勵碼填進 Reward Code 欄，再去看結帳頁今天接受哪張優惠碼。"
       },
       {
         "heading": "YesStyle 優惠碼常見問題",
@@ -39138,7 +39345,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "YesStyle 的 Coupon Code 和 Influencer/Rewards Code 有什麼差別？ Coupon Code 是促銷優惠碼，填在「Coupon Code」欄位，有各自的效期和規則：可能有最低消費、地區限制或不適用的商品。CECILIA010 是獎勵碼（Influencer/Rewards Code），填在另外的「Reward Code」欄位，首次購買 5%，之後 2%。促銷規則允許時，訂單摘要中可以同時出現兩項折扣。",
-          "YesStyle 的網紅代碼是什麼？ 就是獎勵碼（Reward Code），填在結帳頁面的專用欄位，和優惠碼欄位分開。我們的代碼是 CECILIA010，填在 Reward Code 欄位。",
+          "YesStyle 的獎勵碼（網紅代碼）是什麼？ CECILIA010：首購額外 5%，之後的訂單額外 2%，填在 Reward Code 欄位，可以和 Coupon Code 欄位裡的一張商店優惠碼疊加。它是 Cecília 的網紅代碼。",
           "YesStyle 的優惠碼有有效期限嗎？ 有。促銷優惠碼都有效期限，而且可能不經通知就過期。有些活動只持續幾天（例如 72 小時或 96 小時的促銷），持續時間因活動而異。完成購買之前，請在促銷規則中確認效期、最低消費、地區和適用商品，並確認結帳時折扣已經生效。",
           "在哪裡可以找到 YesStyle 優惠碼的官方規則？ 通用規則在 YesStyle 客服中心的「General Terms and Conditions for Coupons」頁面。具體活動的條件，請進入客服中心並開啟「Promotions」區塊，YesStyle 會在那裡公布效期、最低消費、參與地區和可能的例外。這些條件會變動，所以付款前也請查看促銷橫幅和訂單摘要。",
           "同一筆訂單可以使用多個促銷優惠碼嗎？ 不行。依 YesStyle 的通用規則，每筆訂單（或合併訂單）只能使用一個 Coupon Code。不過 CECILIA010 不是 Coupon Code，要填在另外的「Reward Code」欄位。因此，只要活動符合資格、結帳頁面接受兩者，促銷優惠碼和 CECILIA010 就可以一起用。"
@@ -39159,7 +39366,17 @@ export const reviewsData: unknown[] = [
     "translationKey": "yesstyle-coupon-guide",
     "category": "cupons-como-usar",
     "isNew": false,
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-06",
+    "decision": {
+      "takeIf": [
+        "你帶著一張優惠碼來到 YesStyle 的結帳頁，卻不確定每個代碼該填在哪個欄位。",
+        "你的優惠碼被拒絕了，想先弄清原因再去找下一個。"
+      ],
+      "skipIf": [
+        "你想要現成可複製的優惠碼：本文講方法，目前的清單在我們的 YesStyle 優惠碼頁面。",
+        "你打算疊加兩個商店優惠碼：YesStyle 每筆訂單只接受一個 Coupon Code，只有 CECILIA010 填在獨立的欄位。"
+      ]
+    }
   },
   {
     "id": 242,
@@ -39167,6 +39384,13 @@ export const reviewsData: unknown[] = [
     "title": "如何找到 YesStyle 优惠码并与 CECILIA010 叠加使用",
     "type": "指南与优惠码",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "YesStyle 优惠码实用指南：分清 Coupon Code 与 Reward Code，并了解 CECILIA010 的用法，首次购买 5%，之后的购买 2%。",
     "metaDescription": "去哪里找当前有效的 YesStyle 优惠码、如何避开过期代码，以及怎样叠加奖励码 CECILIA010，额外省下高达 5%。",
     "publishedAt": "24 Jul 2026",
@@ -39191,43 +39415,13 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília的自有视频中，她戴着粉色发带，展示打开的Abib粉色水凝胶眼膜罐。配文“优惠码怎么找？ 如何叠加使用？”“店铺优惠码＋ 奖励码”及奖励码CECILIA010。",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "讲清 Coupon Code 与 Reward Code 的区别，避免结账时填错",
-      "说明叠加（stacking）方式：当月优惠码可以和 CECILIA010 一起用",
-      "教你用官方网红代码额外省下高达 5%",
-      "说明去哪里找当前有效的 YesStyle 优惠码，避开假码和过期码",
-      "指向 Em Casa com Cecília 的最新页面，那里有当前有效的优惠码列表"
-    ],
-    "cons": [
-      "每月的促销优惠码有效期很短（通常 72 小时到 30 天）",
-      "CECILIA010 的折扣首次购买为 5%，之后的回购为 2%",
-      "结账总额以你在网站上选择的货币显示，按 YesStyle 的汇率换算，银行可能收取国际交易手续费"
-    ],
-    "pullQuote": "在 Reward Code 栏输入 CECILIA010：首次购买享 5% 折扣，之后的购买享 2%。活动允许时，也可在 Coupon Code 栏输入优惠码，并在订单摘要中确认两项折扣。",
-    "productSpec": [
-      {
-        "key": "商店",
-        "value": "YesStyle（官方）"
-      },
-      {
-        "key": "奖励码",
-        "value": "CECILIA010（高达 5% 额外折扣）",
-        "highlight": true
-      },
-      {
-        "key": "结账输入栏",
-        "value": "Reward Code / 奖励码"
-      },
-      {
-        "key": "可否叠加",
-        "value": "可与符合条件的促销优惠码叠加使用，请在结账时确认。"
-      }
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "本站页面的 YesStyle 优惠码列表更新于2026年11月22日。",
-      "label": "查看 YesStyle 优惠码",
-      "url": "/zh-hans/coupons/yesstyle",
-      "sponsored": false
+      "text": "把 CECILIA010 填入 Reward Code 栏位：首单额外 5%，之后订单额外 2%。",
+      "label": "前往 YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -39235,6 +39429,18 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hans"
+      },
+      {
+        "slug": "yesstyle-first-order-cecilia010-zh-hans"
+      },
+      {
+        "slug": "yesstyle-trust-guide-zh-hans"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-zh-hans"
+      },
+      {
+        "slug": "yesstyle-shipping-singapore-malaysia-zh-hans"
       }
     ],
     "contentSections": [
@@ -39266,7 +39472,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "YesStyle 结账页面，显示 Coupon Code 和 Reward Code 两个栏位。",
         "imageCaption": "结账页面的两个独立栏位：Coupon Code（用于促销优惠码）和 Reward Code（用于 CECILIA010）。 截图中的优惠码来自已经结束的活动。",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "bullets": [
           "1. “Coupon Code”栏位：填入 YesStyle 网站的促销优惠码（如清仓优惠码或 10% 至 15% 折扣的活动）。",
           "2. “Reward Code” / “Influencer Code”栏位：填入官方网红代码 CECILIA010，首次购买额外享 5% 折扣，之后的购买享 2%。"
@@ -39307,7 +39513,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
         "imageAlt": "YesStyle 购物车页面。",
         "imageCaption": "使用折扣码之前，YesStyle 的购物车摘要页面。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "步骤 3：在 Coupon Code 栏填入促销优惠码",
@@ -39324,12 +39530,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "步骤 5：确认叠加后的折扣并完成订单",
         "paragraphs": [
-          "付款之前，在订单摘要中确认两项折扣：优惠码和 CECILIA010。"
+          "付款之前，在订单摘要中确认两项折扣：优惠码和 CECILIA010。",
+          "结账总额以你在网站上选择的货币显示，按 YesStyle 的汇率换算，银行可能收取国际交易手续费。"
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "YesStyle 最终订单摘要，显示叠加后的折扣。",
         "imageCaption": "结账摘要确认两个一起用已成功：促销优惠码加上奖励码 CECILIA010，都已生效。 截图中的优惠码来自已经结束的活动。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "去哪里找当前有效的 YesStyle 优惠码",
@@ -39349,7 +39556,8 @@ export const reviewsData: unknown[] = [
             "href": "https://ystyle.co/rQYQv",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "优惠码每周都在变，CECILIA010 不变。我先把奖励码填进 Reward Code 栏，再去看结账页今天接受哪张优惠码。"
       },
       {
         "heading": "YesStyle 优惠码常见问题",
@@ -39358,7 +39566,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "YesStyle 的 Coupon Code 和 Influencer/Rewards Code 有什么区别？ Coupon Code 是促销优惠码，填在“Coupon Code”栏位，有各自的有效期和规则：可能有最低消费、地区限制或不适用的商品。CECILIA010 是奖励码（Influencer/Rewards Code），填在另外的“Reward Code”栏位，首次购买 5%，之后 2%。促销规则允许时，订单摘要中可以同时出现两项折扣。",
-          "YesStyle 的网红代码是什么？ 就是奖励码（Reward Code），填在结账页面的专用栏位，和优惠码栏位分开。我们的代码是 CECILIA010，填在 Reward Code 栏位。",
+          "YesStyle 的奖励码（网红代码）是什么？ CECILIA010：首单额外 5%，之后的订单额外 2%，填在 Reward Code 栏，可以和 Coupon Code 栏里的一张商店优惠码叠加。它是 Cecília 的网红代码。",
           "YesStyle 的优惠码有有效期吗？ 有。促销优惠码都有有效期，并且可能无预警过期。有些活动只持续几天（比如 72 小时或 96 小时的促销），持续时间因活动而异。完成购买之前，请在促销规则中确认有效期、最低消费、地区和适用商品，并确认结账时折扣已经生效。",
           "在哪里可以找到 YesStyle 优惠码的官方规则？ 通用规则在 YesStyle 客服中心的“General Terms and Conditions for Coupons”页面。具体活动的条件，请进入客服中心并打开“Promotions”栏目，YesStyle 会在那里公布有效期、最低消费、参与地区和可能的例外。这些条件会变，所以付款前也请查看促销横幅和订单摘要。",
           "同一订单可以用多个促销优惠码吗？ 不可以。按 YesStyle 的通用规则，每笔订单（或合并订单）只能使用一个 Coupon Code。不过 CECILIA010 不是 Coupon Code，要填在另外的“Reward Code”栏位。因此，只要活动符合条件、结账页面接受两者，促销优惠码和 CECILIA010 就可以一起用。"
@@ -39379,7 +39587,17 @@ export const reviewsData: unknown[] = [
     "translationKey": "yesstyle-coupon-guide",
     "category": "cupons-como-usar",
     "isNew": false,
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-06",
+    "decision": {
+      "takeIf": [
+        "你带着一张优惠码来到 YesStyle 的结账页，却不确定每个代码该填在哪个栏位。",
+        "你的优惠码被拒绝了，想先弄清原因再去找下一个。"
+      ],
+      "skipIf": [
+        "你想要现成可复制的优惠码：本文讲方法，当前的列表在我们的 YesStyle 优惠码页面。",
+        "你打算叠加两个商店优惠码：YesStyle 每单只接受一个 Coupon Code，只有 CECILIA010 填在单独的栏位。"
+      ]
+    }
   },
   {
     "id": 243,
@@ -39647,7 +39865,6 @@ export const reviewsData: unknown[] = [
           "A YesStyle é de Hong Kong, desde 2006. Pertence à YesAsia Holdings (2209.HK), listada na bolsa de Hong Kong, como mostram a [página de negócios da controladora](https://www.yesasiaholdings.com/business.html) e as [relações com investidores](https://www.yesasiaholdings.com/investor-relations.html).",
           "A YesStyle atende clientes em mais de 150 países e regiões, com versão do site em português. O site deixa escolher a moeda do pedido entre as disponíveis e converte pelo [câmbio interno da YesStyle](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708); o banco pode cobrar tarifa de compra internacional. A entrega da YesStyle no Brasil está suspensa temporariamente; a situação atualizada, e as condições de Portugal, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "Interface oficial e banner promocional da loja YesStyle",
         "imageFit": "square"
@@ -39658,7 +39875,6 @@ export const reviewsData: unknown[] = [
           "A YesStyle se declara distribuidora autorizada de mais de 400 marcas de beleza coreana (K-beauty), oferecendo também cosméticos asiáticos e moda. O catálogo inclui skincare (séruns, essências, tônicos, protetores solares), maquiagem, produtos para cabelo e acessórios.",
           "Entre as marcas citadas pela empresa estão COSRX, Etude House, Hada Labo e Rohto, e ela diz comprar direto das fabricantes ou de distribuidores parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é uma informação pública sobre quem controla a loja."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "Marcas autorizadas de K-Beauty e J-Beauty na YesStyle (COSRX, Anua, Beauty of Joseon)",
         "imageFit": "wide"
@@ -39672,7 +39888,6 @@ export const reviewsData: unknown[] = [
           "Item com defeito ou errado também passa pelo RMA, com fotos do defeito. As regras estão na [política de devolução da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); os direitos do consumidor no seu país podem ir além delas.",
           "O suporte ao cliente atende por chat e e-mail no site oficial."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "imageAlt": "Grade de produtos, preços em dólares e descontos promocionais na YesStyle",
         "imageFit": "square"
@@ -39705,6 +39920,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Dá para confiar na YesStyle?",
+        "emphasis": "Confiança, aqui, tem tamanho certo: a YesStyle é uma empresa de verdade, com controladora listada em bolsa, mas a originalidade dos produtos é palavra da loja. Compre, e deixe a conferência de lote, validade e lacre para a hora em que o pacote chegar.",
         "paragraphs": [
           "Dá, com a conferência de sempre. A YesStyle é de Hong Kong, existe desde 2006 e é controlada pela YesAsia Holdings (2209.HK), listada em bolsa. Ela declara ser distribuidora autorizada de mais de 400 marcas de beleza coreana. Se o pacote for taxado, pedidos elegíveis abaixo de US$ 1.000 podem ter impostos e taxas de alfândega reembolsados em crédito na loja, conforme o destino.",
           "Na prática: compre pelo domínio yesstyle.com, confira frete e prazo no checkout, guarde o comprovante e, na entrega, confira lote, validade e lacre."
@@ -39715,8 +39931,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O Em Casa com Cecília mantém uma parceria comercial com a YesStyle. Por meio dela, leitores podem usar o código de recompensa (Reward Code) CECILIA010 no campo próprio do checkout, com 5% de desconto extra na primeira compra e 2% nas seguintes. O código pode somar com cupons promocionais elegíveis ativos no site.",
           "O CECILIA010 não tem data de fim marcada, mas a YesStyle pode mudar os benefícios e as regras do programa, conforme os [termos do programa](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284); confira o desconto no resumo antes de pagar. O link e o código podem gerar comissão para o blog, sem custo extra para você."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Perguntas frequentes",
@@ -39736,6 +39951,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer comprar K-beauty e outras marcas asiáticas num carrinho só e aceita conferir lote, validade e lacre quando o pacote chegar.",
+        "Você olhou frete e prazo no checkout antes de pagar e aceita que o reembolso padrão de uma devolução saia em crédito da loja."
+      ],
+      "skipIf": [
+        "Você só compra com garantia de autenticidade de terceiros: a originalidade é declarada pela própria loja, e não achamos auditoria independente.",
+        "Você precisa do pedido numa data certa: o prazo só aparece no checkout, e a entrega ao Brasil está suspensa temporariamente."
+      ]
+    },
     "cta": {
       "text": "Conheça a YesStyle e aproveite o código CECILIA010",
       "label": "Visitar loja",
@@ -39748,6 +39973,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "codigo-cecilia010-yesstyle-como-usar"
+      },
+      {
+        "slug": "como-encontrar-cupons-yesstyle-validos"
+      },
+      {
+        "slug": "k-beauty-o-que-e-onde-comprar"
       }
     ],
     "locale": "pt",
@@ -40841,7 +41072,6 @@ export const reviewsData: unknown[] = [
           "YesStyle is based in Hong Kong and has operated since 2006. It belongs to YesAsia Holdings (2209.HK), listed on the Hong Kong stock exchange, as the parent company's [business page](https://www.yesasiaholdings.com/business.html) and [investor relations](https://www.yesasiaholdings.com/investor-relations.html) show.",
           "YesStyle serves customers in more than 150 countries and regions, with a site language selector. The site lets you choose the order currency among those available and converts at [YesStyle's internal exchange rate](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708); your bank may charge an international purchase fee. The company runs customer service channels for questions about products, delivery times, import taxes and the returns policy."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "Official YesStyle interface and promotional banner",
         "imageFit": "square"
@@ -40852,7 +41082,6 @@ export const reviewsData: unknown[] = [
           "YesStyle states that it is an authorized distributor of more than 400 Korean beauty (K-beauty) brands, and it also sells other Asian cosmetics and fashion. The catalog includes skincare (serums, essences, toners, sunscreens), makeup, hair products and accessories.",
           "The brands the company mentions include COSRX, Etude House, Hada Labo and Rohto, and it says it buys directly from the manufacturers or from partner distributors. Being controlled by a publicly listed company (YesAsia Holdings) is public information about who is behind the store."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "Authorized K-Beauty and J-Beauty brands on YesStyle (COSRX, Anua, Beauty of Joseon)",
         "imageFit": "wide"
@@ -40866,7 +41095,6 @@ export const reviewsData: unknown[] = [
           "A defective or wrong item also goes through an RMA, with photos of the defect. The rules are in the [YesStyle returns policy](https://www.yesstyle.com/en/help/section.html/hsi.736); consumer rights in your country may go beyond them.",
           "Support can be reached by chat and email on the official site."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "imageAlt": "Product grid, prices in dollars and promotional discounts on YesStyle",
         "imageFit": "square"
@@ -40899,6 +41127,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Can you trust YesStyle?",
+        "emphasis": "Trust here has a size: YesStyle is a real company with a stock-listed parent, but the authenticity of the products is the store's word. Buy, and keep the batch, expiry and seal check for the day the parcel arrives.",
         "paragraphs": [
           "Yes, with the usual checks. YesStyle is based in Hong Kong, has existed since 2006 and is controlled by YesAsia Holdings (2209.HK), which is publicly listed. It declares itself an authorized distributor of more than 400 Korean beauty brands. If the package is taxed, eligible orders under US$ 1,000 may have taxes and customs fees refunded as store credit, depending on the destination.",
           "In practice: buy through the yesstyle.com domain, check shipping and delivery time at checkout, keep your receipt and, on delivery, check the batch number, expiry date and seal."
@@ -40909,8 +41138,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em Casa com Cecília has a commercial partnership with YesStyle. Through it, readers can enter the Reward Code CECILIA010 in the dedicated field at checkout to get 5% extra off their first purchase and 2% on repeat purchases. The code can stack with eligible promotional coupons active on the site.",
           "The CECILIA010 code has no end date set, but YesStyle may change the program's benefits and rules, per the [program terms](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284); check the discount in the order summary before paying. The link and the code may earn the blog a commission, at no extra cost to you."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Frequently asked questions",
@@ -40929,10 +41157,21 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "You want K-Beauty and other Asian brands in one cart, and you're fine checking batch, expiry date and seal when the parcel arrives.",
+        "You've looked at shipping and delivery time at checkout before paying, and you accept that the standard refund on a return comes as store credit."
+      ],
+      "skipIf": [
+        "You only buy with third-party proof of authenticity: originality is the store's own claim, and we found no independent audit.",
+        "You need the order by a fixed date: the delivery time only shows at checkout, before you pay."
+      ]
+    },
     "cta": {
       "text": "Shop official K-Beauty on YesStyle with code CECILIA010",
       "label": "Visit YesStyle",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -40940,6 +41179,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-coupon-cecilia010"
+      },
+      {
+        "slug": "how-to-find-valid-yesstyle-coupon-codes"
+      },
+      {
+        "slug": "k-beauty-trend-explained-where-to-buy"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -40987,7 +41232,6 @@ export const reviewsData: unknown[] = [
           "YesStyle es de Hong Kong y existe desde 2006. Pertenece a YesAsia Holdings (2209.HK), que cotiza en la bolsa de Hong Kong, como muestran la [página de negocios de la matriz](https://www.yesasiaholdings.com/business.html) y sus [relaciones con inversores](https://www.yesasiaholdings.com/investor-relations.html).",
           "YesStyle atiende a clientes en más de 150 países y regiones, con un selector de idioma en el sitio. El sitio permite elegir la moneda del pedido entre las disponibles y convierte con el [tipo de cambio interno de YesStyle](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708); tu banco puede cobrar una comisión por compra internacional. La empresa tiene canales de atención al cliente para resolver dudas sobre productos, plazos de entrega, impuestos de importación y política de devoluciones."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "Interfaz oficial y banner promocional de la tienda YesStyle",
         "imageFit": "square"
@@ -40998,7 +41242,6 @@ export const reviewsData: unknown[] = [
           "YesStyle se declara distribuidora autorizada de más de 400 marcas de belleza coreana (K-beauty) y ofrece también cosméticos asiáticos y moda. El catálogo incluye cuidado de la piel (sérums, esencias, tónicos, protectores solares), maquillaje, productos para el cabello y accesorios.",
           "Entre las marcas que cita la empresa están COSRX, Etude House, Hada Labo y Rohto, y asegura que compra directamente a los fabricantes o a distribuidores asociados. Que la controle una empresa que cotiza en bolsa (YesAsia Holdings) es un dato público sobre quién está detrás de la tienda."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "Marcas autorizadas de K-Beauty y J-Beauty en YesStyle (COSRX, Anua, Beauty of Joseon)",
         "imageFit": "wide"
@@ -41012,7 +41255,6 @@ export const reviewsData: unknown[] = [
           "Un artículo defectuoso o equivocado también se tramita con una RMA, con fotos del defecto. Las normas están en la [política de devoluciones de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); los derechos del consumidor en tu país pueden ir más allá.",
           "Se puede contactar con el soporte por chat y por correo electrónico en el sitio oficial."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "imageAlt": "Cuadrícula de productos, precios en dólares y descuentos promocionales en YesStyle",
         "imageFit": "square"
@@ -41045,6 +41287,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "¿Se puede confiar en YesStyle?",
+        "emphasis": "La confianza aquí tiene su medida: YesStyle es una empresa real, con una matriz que cotiza en bolsa, pero la originalidad de los productos es palabra de la tienda. Compra, y deja la revisión de lote, caducidad y precinto para cuando llegue el paquete.",
         "paragraphs": [
           "Sí, con las comprobaciones de siempre. YesStyle es de Hong Kong, existe desde 2006 y está controlada por YesAsia Holdings (2209.HK), que cotiza en bolsa. Se declara distribuidora autorizada de más de 400 marcas de belleza coreana. Si el paquete tributa, los pedidos elegibles inferiores a US$ 1.000 pueden recibir el reembolso de impuestos y tasas de aduana en crédito de la tienda, según el destino.",
           "En la práctica: compra en el dominio yesstyle.com, comprueba el envío y el plazo en el checkout, guarda el comprobante y, al recibir el pedido, comprueba el lote, la caducidad y el precinto."
@@ -41055,8 +41298,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em Casa com Cecília mantiene una alianza comercial con YesStyle. Gracias a ella, los lectores pueden usar el código de recompensa (Reward Code) CECILIA010 en el campo específico del checkout para obtener un 5 % de descuento extra en la primera compra y un 2 % en las compras siguientes. El código puede sumarse a los cupones promocionales elegibles activos en el sitio.",
           "El código CECILIA010 no tiene fecha de fin marcada, pero YesStyle puede cambiar los beneficios y las reglas del programa, según los [términos del programa](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284); comprueba el descuento en el resumen antes de pagar. El enlace y el código pueden generar una comisión para el blog, sin coste adicional para ti."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Preguntas frecuentes",
@@ -41075,10 +41317,21 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quieres comprar K-Beauty y otras marcas asiáticas en un solo carrito y aceptas revisar lote, caducidad y precinto cuando llegue el paquete.",
+        "Miraste el envío y el plazo en el checkout antes de pagar y aceptas que el reembolso estándar de una devolución sea en crédito de la tienda."
+      ],
+      "skipIf": [
+        "Solo compras con una garantía de autenticidad de un tercero: la originalidad la declara la propia tienda y no encontramos una auditoría independiente.",
+        "Necesitas el pedido en una fecha fija: el plazo solo aparece en el checkout, antes de pagar."
+      ]
+    },
     "cta": {
       "text": "Compra cosmética coreana en YesStyle con el código CECILIA010",
       "label": "Visitar tienda",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -41086,6 +41339,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
+      },
+      {
+        "slug": "como-encontrar-cupones-yesstyle-validos"
+      },
+      {
+        "slug": "k-beauty-marcas-coreanas-tendencia-mundial"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -41132,7 +41391,6 @@ export const reviewsData: unknown[] = [
           "YesStyle est basée à Hong Kong et existe depuis 2006. Elle appartient à YesAsia Holdings (2209.HK), cotée à la Bourse de Hong Kong, comme le montrent la [page d'activités de la maison mère](https://www.yesasiaholdings.com/business.html) et ses [relations investisseurs](https://www.yesasiaholdings.com/investor-relations.html).",
           "YesStyle sert des clients dans plus de 150 pays et régions, avec un sélecteur de langue sur le site. Le site permet de choisir la devise de la commande parmi celles proposées et convertit au [taux de change interne de YesStyle](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708) ; votre banque peut facturer des frais pour achat international. L'entreprise dispose de canaux de service client pour répondre aux questions sur les produits, les délais de livraison, les taxes d'importation et la politique de retour."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "Interface officielle et bannière promotionnelle de la boutique YesStyle",
         "imageFit": "square"
@@ -41143,7 +41401,6 @@ export const reviewsData: unknown[] = [
           "YesStyle se déclare distributeur agréé de plus de 400 marques de beauté coréenne (K-beauty) et propose aussi des cosmétiques asiatiques et de la mode. Le catalogue comprend des soins de la peau (sérums, essences, lotions tonifiantes, protections solaires), du maquillage, des produits capillaires et des accessoires.",
           "Parmi les marques citées par l'entreprise figurent COSRX, Etude House, Hada Labo et Rohto, et elle affirme acheter directement auprès des fabricants ou de distributeurs partenaires. Le fait d'être contrôlée par une société cotée en bourse (YesAsia Holdings) est une information publique sur qui se trouve derrière la boutique."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "Marques agréées de K-Beauty et de J-Beauty sur YesStyle (COSRX, Anua, Beauty of Joseon)",
         "imageFit": "wide"
@@ -41157,7 +41414,6 @@ export const reviewsData: unknown[] = [
           "Un article défectueux ou erroné passe aussi par un RMA, avec des photos du défaut. Les règles figurent dans la [politique de retour de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736) ; les droits du consommateur dans votre pays peuvent aller plus loin.",
           "Le support est joignable par chat et par e-mail sur le site officiel."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "imageAlt": "Grille de produits, prix en dollars et réductions promotionnelles sur YesStyle",
         "imageFit": "square"
@@ -41190,6 +41446,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Peut-on faire confiance à YesStyle ?",
+        "emphasis": "La confiance a ici sa juste mesure : YesStyle est une vraie entreprise, dont la maison mère est cotée en bourse, mais l'originalité des produits reste la parole de la boutique. Achetez, et gardez la vérification du lot, de la date de péremption et du scellé pour le jour où le colis arrive.",
         "paragraphs": [
           "Oui, avec les vérifications habituelles. YesStyle est basée à Hong Kong, existe depuis 2006 et est contrôlée par YesAsia Holdings (2209.HK), cotée en bourse. Elle se déclare distributeur agréé de plus de 400 marques de beauté coréenne. Si le colis est taxé, les commandes éligibles inférieures à 1 000 US$ peuvent donner lieu à un remboursement des taxes et des frais de douane en crédit en boutique, selon la destination.",
           "En pratique : achetez sur le domaine yesstyle.com, vérifiez les frais de port et le délai au moment de la commande, conservez le justificatif et, à la livraison, vérifiez le lot, la date de péremption et le scellé."
@@ -41200,8 +41457,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em Casa com Cecília a un partenariat commercial avec YesStyle. Grâce à lui, les lecteurs peuvent saisir le code récompense (Reward Code) CECILIA010 dans le champ prévu à cet effet au moment du paiement pour obtenir 5 % de réduction supplémentaire sur le premier achat et 2 % sur les achats suivants. Le code peut se cumuler avec les coupons promotionnels éligibles actifs sur le site.",
           "Le code CECILIA010 n'a pas de date de fin fixée, mais YesStyle peut modifier les avantages et les règles du programme, selon les [conditions du programme](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284) ; vérifiez la réduction dans le récapitulatif avant de payer. Le lien et le code peuvent générer une commission pour le blog, sans frais supplémentaires pour vous."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Questions fréquentes",
@@ -41220,10 +41476,21 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Vous voulez acheter de la K-Beauty et d'autres marques asiatiques dans un seul panier, et vous acceptez de vérifier le lot, la date de péremption et le scellé à l'arrivée du colis.",
+        "Vous avez regardé les frais et le délai de livraison à la commande avant de payer, et vous acceptez que le remboursement par défaut d'un retour se fasse en crédit boutique."
+      ],
+      "skipIf": [
+        "Vous n'achetez qu'avec une garantie d'authenticité d'un tiers : l'originalité est déclarée par la boutique elle-même, et nous n'avons trouvé aucun audit indépendant.",
+        "Il vous faut la commande à une date précise : le délai de livraison n'apparaît qu'au moment de la commande, avant de payer."
+      ]
+    },
     "cta": {
       "text": "Commandez vos soins K-Beauty sur YesStyle avec le code CECILIA010",
       "label": "Visiter YesStyle",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -41231,6 +41498,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "code-recompense-yesstyle-cecilia010"
+      },
+      {
+        "slug": "comment-trouver-des-codes-promo-yesstyle-valides"
+      },
+      {
+        "slug": "k-beauty-tendance-beaute-coreenne"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -41277,7 +41550,6 @@ export const reviewsData: unknown[] = [
           "YesStyle sitzt in Hongkong und besteht seit 2006. Das Unternehmen gehört zur YesAsia Holdings (2209.HK), die an der Hongkonger Börse notiert ist, wie die [Unternehmensseite der Muttergesellschaft](https://www.yesasiaholdings.com/business.html) und die [Investor Relations](https://www.yesasiaholdings.com/investor-relations.html) zeigen.",
           "YesStyle beliefert Kundinnen und Kunden in mehr als 150 Ländern und Regionen, mit einer Sprachauswahl auf der Website. Auf der Website wählen Sie die Währung der Bestellung unter den verfügbaren aus; umgerechnet wird nach dem [internen Wechselkurs von YesStyle](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708). Ihre Bank kann eine Gebühr für internationale Käufe berechnen. Das Unternehmen unterhält Kundenservice-Kanäle für Fragen zu Produkten, Lieferzeiten, Importsteuern und Rückgaberichtlinien."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "Offizielle Oberfläche und Werbebanner des Shops YesStyle",
         "imageFit": "square"
@@ -41288,7 +41560,6 @@ export const reviewsData: unknown[] = [
           "YesStyle gibt an, autorisierter Händler für mehr als 400 koreanische Kosmetikmarken (K-Beauty) zu sein, und bietet außerdem asiatische Kosmetik und Mode an. Das Sortiment umfasst Hautpflege (Seren, Essenzen, Gesichtswasser, Sonnenschutz), Make-up, Haarprodukte und Accessoires.",
           "Zu den vom Unternehmen genannten Marken zählen COSRX, Etude House, Hada Labo und Rohto; nach eigener Aussage kauft es direkt bei den Herstellern oder bei Partnerhändlern ein. Dass der Shop von einem börsennotierten Unternehmen (YesAsia Holdings) kontrolliert wird, ist eine öffentliche Information darüber, wer hinter ihm steht."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "Autorisierte K-Beauty- und J-Beauty-Marken bei YesStyle (COSRX, Anua, Beauty of Joseon)",
         "imageFit": "wide"
@@ -41302,7 +41573,6 @@ export const reviewsData: unknown[] = [
           "Defekte oder falsche Artikel laufen ebenfalls über die RMA, mit Fotos des Mangels. Die Regeln stehen in der [Rückgaberichtlinie von YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); Ihre Verbraucherrechte vor Ort können darüber hinausgehen.",
           "Der Support ist auf der offiziellen Website per Chat und E-Mail erreichbar."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "imageAlt": "Produktraster, Preise in Dollar und Rabattaktionen bei YesStyle",
         "imageFit": "square"
@@ -41335,6 +41605,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Kann man YesStyle vertrauen?",
+        "emphasis": "Vertrauen hat hier ein Maß: YesStyle ist ein echtes Unternehmen mit börsennotierter Muttergesellschaft, aber die Originalität der Produkte ist das Wort des Shops. Kaufen Sie, und heben Sie die Prüfung von Charge, Haltbarkeit und Siegel für den Tag auf, an dem das Paket ankommt.",
         "paragraphs": [
           "Ja, mit den üblichen Prüfungen. YesStyle sitzt in Hongkong, besteht seit 2006 und wird von der börsennotierten YesAsia Holdings (2209.HK) kontrolliert. Das Unternehmen gibt an, autorisierter Händler von mehr als 400 koreanischen Kosmetikmarken zu sein. Wird das Paket besteuert, können bei berechtigten Bestellungen unter 1.000 US$ Steuern und Zollgebühren je nach Zielland als Shop-Guthaben erstattet werden.",
           "In der Praxis: Kaufen Sie über die Domain yesstyle.com, prüfen Sie Versandkosten und Lieferzeit im Checkout, bewahren Sie den Beleg auf und kontrollieren Sie bei der Lieferung Charge, Haltbarkeitsdatum und Siegel."
@@ -41345,8 +41616,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em Casa com Cecília unterhält eine Geschäftspartnerschaft mit YesStyle. Dadurch können Leserinnen und Leser den Reward Code CECILIA010 im dafür vorgesehenen Feld im Checkout eingeben und erhalten 5 % zusätzlichen Rabatt auf den ersten Einkauf und 2 % auf weitere Einkäufe. Der Code kann mit den berechtigten, auf der Website aktiven Aktionsgutscheinen kombiniert werden.",
           "Für den CECILIA010 ist kein Enddatum festgelegt, aber YesStyle kann laut den [Programmbedingungen](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284) die Vorteile und Regeln des Programms ändern; prüfen Sie den Rabatt in der Bestellübersicht, bevor Sie bezahlen. Link und Code können dem Blog eine Provision einbringen, ohne Mehrkosten für Sie."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Häufige Fragen",
@@ -41365,10 +41635,21 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Sie möchten K-Beauty und andere asiatische Marken in einem Warenkorb kaufen und prüfen bei Ankunft des Pakets Charge, Haltbarkeit und Siegel.",
+        "Sie haben Versand und Lieferzeit im Checkout vor der Zahlung angesehen und akzeptieren, dass die Standarderstattung bei einer Rücksendung als Shop-Guthaben erfolgt."
+      ],
+      "skipIf": [
+        "Sie kaufen nur mit einer Echtheitsgarantie durch Dritte: Die Originalität erklärt der Shop selbst, und wir haben keine unabhängige Prüfung gefunden.",
+        "Sie brauchen die Bestellung zu einem festen Termin: Die Lieferzeit erscheint erst im Checkout, vor der Zahlung."
+      ]
+    },
     "cta": {
       "text": "K-Beauty auf YesStyle bestellen mit Code CECILIA010",
       "label": "Shop besuchen",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -41376,6 +41657,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-rabatt-cecilia010"
+      },
+      {
+        "slug": "gueltige-yesstyle-gutscheincodes-finden"
+      },
+      {
+        "slug": "k-beauty-trend-koreanische-marken-kaufen"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -41422,7 +41709,6 @@ export const reviewsData: unknown[] = [
           "YesStyle은 2006년부터 이어 온 홍콩 회사입니다. 홍콩 증권거래소에 상장된 YesAsia Holdings(2209.HK) 소속이며, [모회사의 사업 소개 페이지](https://www.yesasiaholdings.com/business.html)와 [투자자 정보](https://www.yesasiaholdings.com/investor-relations.html)에서 확인할 수 있습니다.",
           "YesStyle은 150개가 넘는 국가와 지역의 고객을 대상으로 하며, 사이트에서 언어를 바꿀 수 있습니다. 주문 통화는 선택 가능한 통화 중에서 고를 수 있고, [YesStyle 자체 환율](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)로 환산됩니다. 카드사나 은행에 따라 해외 결제 수수료가 붙을 수 있습니다. 제품, 배송 기간, 수입 세금, 반품 정책에 대한 문의를 받는 고객 상담 채널도 운영합니다."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "YesStyle 공식 화면과 프로모션 배너",
         "imageFit": "square"
@@ -41433,7 +41719,6 @@ export const reviewsData: unknown[] = [
           "YesStyle은 400개가 넘는 한국 뷰티(K-beauty) 브랜드의 공식 유통업체라고 밝히고 있으며, 아시아 화장품과 패션도 함께 판매합니다. 스킨케어(세럼, 에센스, 토너, 선크림), 메이크업, 헤어 제품, 액세서리를 갖추고 있습니다.",
           "회사가 소개하는 브랜드에는 COSRX, Etude House, Hada Labo, Rohto 등이 있고, 제조사 또는 파트너 유통업체에서 직접 매입한다고 설명합니다. 상장사(YesAsia Holdings)가 지배한다는 것은 이 매장을 누가 지배하는지에 대한 공개된 사실입니다."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "YesStyle의 K-Beauty·J-Beauty 공식 브랜드(COSRX, Anua, Beauty of Joseon)",
         "imageFit": "wide"
@@ -41447,7 +41732,6 @@ export const reviewsData: unknown[] = [
           "불량품이나 오배송도 RMA로 접수하며 불량 사진을 첨부합니다. 규정은 [YesStyle 반품 정책](https://www.yesstyle.com/en/help/section.html/hsi.736)에 있고, 거주 국가의 소비자 권리는 이보다 폭넓을 수 있습니다.",
           "고객 지원은 공식 사이트의 채팅과 이메일로 연락할 수 있습니다."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "imageAlt": "YesStyle의 상품 목록, 달러 가격, 프로모션 할인",
         "imageFit": "square"
@@ -41480,6 +41764,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "YesStyle을 믿어도 될까요?",
+        "emphasis": "여기서 믿음에는 알맞은 크기가 있습니다. YesStyle은 실제로 존재하는 회사이고 모회사도 상장사지만, 제품이 정품인지는 매장의 말입니다. 사셔도 좋지만, 로트 번호와 유통기한, 봉인 확인은 소포가 도착하는 날 하세요.",
         "paragraphs": [
           "네, 늘 하던 확인만 하면 됩니다. YesStyle은 2006년부터 이어 온 홍콩 회사이며, 상장사인 YesAsia Holdings(2209.HK)가 지배합니다. 400개가 넘는 한국 뷰티 브랜드의 공식 유통업체라고 밝힙니다. 소포에 세금이 부과되면, 대상이 되는 US$ 1,000 미만 주문은 배송지에 따라 수입 세금과 통관 수수료를 매장 크레딧으로 환급받을 수 있습니다.",
           "실제로는 이렇게 하세요. yesstyle.com에서 사고, 체크아웃에서 배송비와 배송 기간을 확인하고, 영수증을 보관하고, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요."
@@ -41490,8 +41775,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em Casa com Cecília는 YesStyle과 상업적 제휴를 맺고 있습니다. 이 제휴로 독자는 결제 단계의 전용 입력란에 리워드 코드(Reward Code) CECILIA010을 입력하면 첫 구매에서 5%, 이후 구매에서 2%의 추가 할인을 받을 수 있습니다. 이 코드는 사이트에서 진행 중인 적용 가능한 프로모션 쿠폰과 함께 쓸 수 있습니다.",
           "CECILIA010에는 종료일이 정해져 있지 않지만, YesStyle이 혜택과 프로그램 규정을 바꿀 수 있습니다([프로그램 약관](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284)). 결제 전에 주문 요약에서 할인을 확인하세요. 링크와 코드로 블로그에 수수료가 발생할 수 있지만, 독자에게 추가 비용은 없습니다."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "자주 묻는 질문",
@@ -41510,10 +41794,21 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "K-뷰티와 다른 아시아 브랜드를 한 장바구니에서 사고 싶고, 소포가 도착하면 로트 번호, 유통기한, 봉인을 직접 확인할 수 있습니다.",
+        "결제 전에 체크아웃에서 배송비와 배송 기간을 확인했고, 반품 시 기본 환불이 매장 크레딧으로 나간다는 점을 받아들일 수 있습니다."
+      ],
+      "skipIf": [
+        "제3자의 정품 보증이 있어야만 구매합니다. 정품 여부는 매장이 직접 밝힌 내용이고, 독립적인 감사는 찾지 못했습니다.",
+        "정해진 날짜까지 주문품이 꼭 필요합니다. 배송 기간은 결제 전 체크아웃에서야 나옵니다."
+      ]
+    },
     "cta": {
       "text": "YesStyle 공식 K-뷰티 쇼핑하기 (코드 CECILIA010)",
       "label": "쇼핑몰 이동",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -41521,6 +41816,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ko"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-ko"
+      },
+      {
+        "slug": "yesstyle-kbeauty-guide-ko"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -41567,7 +41868,6 @@ export const reviewsData: unknown[] = [
           "YesStyleは2006年創業の香港の会社で、香港証券取引所に上場しているYesAsia Holdings（2209.HK）の傘下にあります。[親会社の事業紹介ページ](https://www.yesasiaholdings.com/business.html)と[IR情報](https://www.yesasiaholdings.com/investor-relations.html)で確認できます。",
           "150を超える国と地域のお客様に向けて営業しており、サイトは日本語を含む複数の言語に対応しています。注文の通貨は、選べる通貨の中から指定でき、[YesStyle独自のレート](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)で換算されます。銀行によっては、海外での購入手数料がかかることがあります。商品、配送日数、輸入税、返品ポリシーについての問い合わせ窓口もあります。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "YesStyle公式サイトの画面とキャンペーンバナー",
         "imageFit": "square"
@@ -41578,7 +41878,6 @@ export const reviewsData: unknown[] = [
           "YesStyleは、400以上の韓国コスメ（K-beauty）ブランドの正規取扱店だと自称しています。アジアのコスメやファッションも扱い、スキンケア（美容液、エッセンス、化粧水、日焼け止め）、メイクアップ、ヘアケア、アクセサリーがそろいます。",
           "同社が挙げるブランドには、COSRX、Etude House、Hada Labo、Rohtoなどがあります。仕入れ先はメーカーか提携ディストリビューターだと説明しています。上場企業（YesAsia Holdings）の傘下にあることは、店の運営元についての公開情報です。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "YesStyleで取り扱うK-beautyとJ-beautyの正規ブランド（COSRX、Anua、Beauty of Joseon）",
         "imageFit": "wide"
@@ -41592,7 +41891,6 @@ export const reviewsData: unknown[] = [
           "不良品や誤送品もRMAで申請し、不具合の写真を添えます。ルールは[YesStyleの返品ポリシー](https://www.yesstyle.com/en/help/section.html/hsi.736)にあります。お住まいの国の消費者の権利は、これを上回る場合があります。",
           "サポートには、公式サイトのチャットとメールで連絡できます。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "imageAlt": "YesStyleの商品一覧、ドル建ての価格、セール割引",
         "imageFit": "square"
@@ -41625,6 +41923,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "YesStyleは信頼できる？",
+        "emphasis": "信頼には、ちょうどいい大きさがあります。YesStyleは実在する会社で、親会社も上場していますが、商品が本物かどうかは店の言い分です。買ってかまいません。ロット番号、使用期限、封の確認は、荷物が届いた日にしましょう。",
         "paragraphs": [
           "信頼できます。ただし、いつもの確認は忘れずに。YesStyleは2006年創業の香港企業で、上場企業のYesAsia Holdings（2209.HK）が運営しています。400以上の韓国コスメブランドの正規取扱店だと自称しています。荷物が課税された場合、対象となる1,000米ドル未満の注文は、届け先によっては、輸入税と通関手数料がストアクレジットで返金されることがあります。",
           "実際の手順は次のとおりです。yesstyle.comから買い、チェックアウトで送料と配送日数を確認し、支払いの控えを保管して、届いたらロット番号、使用期限、封の状態を確認します。"
@@ -41635,8 +41934,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em Casa com Cecíliaは、YesStyleと業務提携しています。この提携により、読者の方はチェックアウトの専用欄でリワードコード（Reward Code）CECILIA010を使うと、初回購入で5%、2回目以降は2%の追加割引が受けられます。このコードは、サイトで有効な対象のプロモーションクーポンと併用できます。",
           "CECILIA010に終了日は決まっていませんが、YesStyleが特典やプログラムのルールを変更することがあります（[プログラム規約](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284)）。支払う前に、注文の概要で割引を確認してください。リンクとコードによって、ブログに手数料が入ることがありますが、読者の負担は増えません。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "よくある質問",
@@ -41655,10 +41953,21 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "K-Beautyなどアジアのブランドを1つのカートでまとめて買いたく、荷物が届いたらロット番号、使用期限、封の状態を自分で確認するつもりです。",
+        "支払う前にチェックアウトで送料と配送日数を確認し、返品時の標準の返金がストアクレジットになることに納得しています。"
+      ],
+      "skipIf": [
+        "第三者による正規品の保証がないと買えません。本物かどうかは店側の申告で、独立した監査は見つかりませんでした。",
+        "決まった日までに届く必要があります。配送日数は、支払い前のチェックアウトで初めてわかります。"
+      ]
+    },
     "cta": {
       "text": "YesStyleでK-Beautyを購入する（コード CECILIA010）",
       "label": "公式サイトへ",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -41666,6 +41975,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ja"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-ja"
+      },
+      {
+        "slug": "yesstyle-kbeauty-guide-ja"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -41712,7 +42027,6 @@ export const reviewsData: unknown[] = [
           "YesStyle 來自香港，自 2006 年起營運，隸屬於在香港交易所上市的 YesAsia Holdings（2209.HK），可見[控股公司的業務頁面](https://www.yesasiaholdings.com/business.html)與[投資人關係](https://www.yesasiaholdings.com/investor-relations.html)。",
           "YesStyle 服務 150 多個國家與地區的顧客，網站可切換語言。下單時可在可用幣別中選擇結算貨幣，並依 [YesStyle 內部匯率](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)換算；發卡銀行可能收取海外交易手續費。公司設有客服管道，可詢問商品、配送時間、進口稅與退貨政策。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "YesStyle 官方頁面與促銷橫幅",
         "imageFit": "square"
@@ -41723,7 +42037,6 @@ export const reviewsData: unknown[] = [
           "YesStyle 自稱是 400 多個韓國美妝（K-beauty）品牌的授權經銷商，同時販售亞洲化妝品與時尚商品。商品涵蓋保養（精華液、精華水、化妝水、防曬）、彩妝、護髮產品與配件。",
           "公司列出的品牌包括 COSRX、Etude House、Hada Labo 與 Rohto，並表示貨源直接來自品牌製造商或合作經銷商。由上市公司（YesAsia Holdings）控股，是關於這家店由誰掌控的公開資訊。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "YesStyle 上的 K-Beauty 與 J-Beauty 授權品牌（COSRX、Anua、Beauty of Joseon）",
         "imageFit": "wide"
@@ -41736,7 +42049,6 @@ export const reviewsData: unknown[] = [
           "預設以 YesStyle 店鋪餘額退款，如有需要可申請退回原付款方式。",
           "商品有瑕疵或寄錯時同樣走 RMA，並附上照片。詳細規則見 [YesStyle 退貨政策](https://www.yesstyle.com/en/help/section.html/hsi.736)；你所在國家或地區的消費者權益可能更廣。聯絡客服可使用官網的線上聊天與電子郵件。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "imageAlt": "YesStyle 的商品列表、美元價格與促銷折扣",
         "imageFit": "square"
@@ -41769,6 +42081,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "YesStyle 值得信賴嗎？",
+        "emphasis": "這裡的信任有它的尺度：YesStyle 是真實存在的公司，母公司已上市，但商品是否正品只是店鋪自己的說法。可以買，批號、有效期限與封條留到包裹送到那天再檢查。",
         "paragraphs": [
           "值得信賴，但照常檢查。YesStyle 來自香港，2006 年成立，由上市公司 YesAsia Holdings（2209.HK）控股。它自稱是 400 多個韓國美妝品牌的授權經銷商。如果包裹被課稅，符合條件的 1,000 美元以下訂單，可能依目的地以店鋪餘額退還進口稅與清關費用。",
           "實際做法：從 yesstyle.com 下單，在結帳頁面確認運費與配送時間，保留付款憑證，收到商品時檢查批號、有效期限與封條。"
@@ -41779,8 +42092,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em Casa com Cecília 與 YesStyle 有商業合作。透過這項合作，讀者可以在結帳時的專用欄位輸入獎勵碼（Reward Code）CECILIA010，首次購買額外優惠 5%，之後的購買額外優惠 2%。這組獎勵碼可與網站上有效的適用促銷優惠券同時使用。",
           "CECILIA010 沒有設定結束日期，但 YesStyle 可能調整計畫的優惠與規則，見[計畫條款](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284)；付款前請在訂單摘要中確認折扣。連結與獎勵碼可能為部落格帶來佣金，不增加你的費用。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "常見問題",
@@ -41799,10 +42111,21 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "你想把 K-Beauty 和其他亞洲品牌放進同一個購物車，並願意在包裹送到時檢查批號、有效期限與封條。",
+        "你付款前已在結帳頁面看過運費與配送時間，也接受退貨的預設退款是店鋪餘額。"
+      ],
+      "skipIf": [
+        "你只買有第三方正品保證的東西：商品是否正品由店鋪自行聲明，我們沒有找到獨立稽核。",
+        "你需要訂單在固定日期前送到：配送時間要到付款前的結帳頁面才會顯示。"
+      ]
+    },
     "cta": {
       "text": "前往 YesStyle 選購美妝 (使用代碼 CECILIA010)",
       "label": "造訪網站",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -41810,6 +42133,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hant"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-zh-hant"
+      },
+      {
+        "slug": "yesstyle-kbeauty-guide-zh-hant"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -41856,7 +42185,6 @@ export const reviewsData: unknown[] = [
           "YesStyle 来自香港，自 2006 年起运营，隶属于在香港交易所上市的 YesAsia Holdings（2209.HK），可见[控股公司的业务页面](https://www.yesasiaholdings.com/business.html)和[投资者关系](https://www.yesasiaholdings.com/investor-relations.html)。",
           "YesStyle 服务 150 多个国家和地区的顾客，网站可切换语言。下单时可在可用币种中选择结算货币，并按 [YesStyle 内部汇率](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)换算；发卡银行可能收取境外交易手续费。公司设有客服渠道，可咨询商品、配送时间、进口税和退货政策。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "YesStyle 官方页面和促销横幅",
         "imageFit": "square"
@@ -41867,7 +42195,6 @@ export const reviewsData: unknown[] = [
           "YesStyle 自称是 400 多个韩国美妆（K-beauty）品牌的授权经销商，同时销售亚洲化妆品和时尚商品。商品涵盖护肤（精华液、精华水、爽肤水、防晒）、彩妆、护发产品和配饰。",
           "公司列出的品牌包括 COSRX、Etude House、Hada Labo 和 Rohto，并称货源直接来自品牌制造商或合作经销商。由上市公司（YesAsia Holdings）控股，是关于这家店由谁控制的公开信息。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "YesStyle 上的 K-Beauty 与 J-Beauty 授权品牌（COSRX、Anua、Beauty of Joseon）",
         "imageFit": "wide"
@@ -41880,7 +42207,6 @@ export const reviewsData: unknown[] = [
           "默认以 YesStyle 店铺余额退款，如有需要可申请退回原付款方式。",
           "商品有缺陷或发错时同样走 RMA，并附上照片。具体规则见 [YesStyle 退货政策](https://www.yesstyle.com/en/help/section.html/hsi.736)；你所在国家或地区的消费者权利可能更广。联系客服可使用官网的在线聊天和电子邮件。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "imageAlt": "YesStyle 的商品列表、美元价格和促销折扣",
         "imageFit": "square"
@@ -41913,6 +42239,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "YesStyle 值得信赖吗？",
+        "emphasis": "这里的信任有它的尺度：YesStyle 是真实存在的公司，母公司已上市，但商品是否正品只是店铺自己的说法。可以买，批号、有效期和封条留到包裹送到那天再核对。",
         "paragraphs": [
           "值得信赖，但照常核对。YesStyle 来自香港，2006 年创立，由上市公司 YesAsia Holdings（2209.HK）控股。它自称是 400 多个韩国美妆品牌的授权经销商。如果包裹被征税，符合条件的 1000 美元以下订单，可能按目的地以店铺余额退还进口税和清关费用。",
           "实际操作：通过 yesstyle.com 下单，在结账页面确认运费和配送时间，保留付款凭证，收货时核对批号、有效期和封条。"
@@ -41923,8 +42250,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em Casa com Cecília 与 YesStyle 有商业合作。通过这项合作，读者可以在结账时的专用栏位输入奖励码（Reward Code）CECILIA010，首次购买额外优惠 5%，之后的购买额外优惠 2%。该奖励码可与网站上有效的适用促销优惠券同时使用。",
           "CECILIA010 没有设定结束日期，但 YesStyle 可能调整计划的优惠和规则，见[计划条款](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284)；付款前请在订单摘要中确认折扣。链接和奖励码可能为博客带来佣金，不增加你的费用。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "常见问题",
@@ -41943,10 +42269,21 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "你想把 K-Beauty 和其他亚洲品牌放进同一个购物车，并愿意在包裹送到时核对批号、有效期和封条。",
+        "你付款前已在结账页面看过运费和配送时间，也接受退货的默认退款是店铺余额。"
+      ],
+      "skipIf": [
+        "你只买有第三方正品保证的东西：商品是否正品由店铺自己声明，我们没有找到独立审核。",
+        "你需要订单在固定日期前送到：配送时间要到付款前的结账页面才会显示。"
+      ]
+    },
     "cta": {
       "text": "前往 YesStyle 选购美妆 (使用代码 CECILIA010)",
       "label": "造访网站",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -41954,6 +42291,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hans"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-zh-hans"
+      },
+      {
+        "slug": "yesstyle-kbeauty-guide-zh-hans"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -43723,34 +44066,31 @@ export const reviewsData: unknown[] = [
           "Uma das práticas mais conhecidas é o layering: aplicar camadas de produtos que se complementam, cada uma com uma função. A rotina pode incluir dupla limpeza (um demaquilante em óleo seguido de um limpador em gel ou espuma), tônico, essência, sérum, ampola e creme. É uma opção, não uma regra: mais camadas não garantem resultado melhor, e uma rotina simples pode bastar. A [Academia Americana de Dermatologia](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) recomenda manter a rotina simples, apresentar um produto novo por vez à pele e usar protetor solar.",
           "Na cultura coreana, o cuidado com a pele aparece como autocuidado, e a indústria de beleza do país mantém um ritmo alto de lançamentos e de formulações novas."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
         "imageAlt": "Feira K-Beauty Expo Korea lotada de expositores e visitantes testando produtos coreanos",
         "imageCaption": "O tamanho do mercado por trás da tendência: feiras como a K-Beauty Expo Korea reúnem centenas de marcas todos os anos.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Ingredientes e formatos que a K-Beauty popularizou",
         "paragraphs": [
           "Nos ingredientes, a fama vem de centella asiática, niacinamida, mucina de caracol (não vegana), PDRN, própolis e fermentados. Nos formatos, de cushion, sheet mask e ampola.",
           "Um termo muito associado à categoria é \"glass skin\": a ideia de uma pele tão uniforme e luminosa que parece vidro. É um ideal estético, não uma promessa literal, mas resume bem o que boa parte das rotinas K-Beauty persegue: uma pele com textura uniforme e aquele brilho que normalmente associamos a pele bem cuidada."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Por que K-Beauty virou uma tendência global",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "Prateleira de loja de beleza coreana com letreiro \"Find the Latest K-Beauty Hype\"",
         "imageCaption": "Nas ruas da Coreia, lançamentos de K-Beauty viram vitrine, e parte da atração de quem visita o país.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "paragraphs": [
           "Três fatores empurraram a onda: k-dramas e k-pop, o ritmo de lançamentos e a internet.",
           "O primeiro fator são os k-dramas e o k-pop: cenas de skincare nas séries e artistas com pele impecável nos palcos aproximam públicos de vários países da cultura de beleza coreana e despertam curiosidade pelos cuidados e produtos.",
           "O segundo fator é a própria cultura das marcas coreanas de beleza, conhecidas pelo ritmo de lançamento e de inovação de ingredientes: novos séruns, ativos e formatos de máscara aparecem com frequência. Com preços muitas vezes mais baixos que os de marcas de luxo com propostas parecidas, isso criou a percepção de que boa parte da novidade em skincare sai da Coreia.",
           "O terceiro fator é a internet: no TikTok, no YouTube e no Reddit, comunidades de skincare compartilham unboxings e resenhas de produtos coreanos, e essa circulação levou a K-Beauty além dos grupos de entusiastas.",
           "O [Ministério da Cultura da Coreia](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) também descreve vários fatores por trás do crescimento, entre eles a distribuição internacional por varejistas. Nenhum deles explica a onda sozinho."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Como é comprar K-Beauty fora da Coreia",
@@ -43759,11 +44099,11 @@ export const reviewsData: unknown[] = [
           "Muitas marcas coreanas de skincare não têm loja própria em boa parte do mundo, e a oferta muda por marca e por país. Uma marca conhecida internacionalmente pode vender oficialmente só através do e-commerce coreano ou de poucos distribuidores autorizados em mercados específicos. Isso cria um problema real para quem quer montar uma rotina completa: digamos, um limpador, um tônico, um sérum e um creme, cada um de uma marca diferente.",
           "Quando cada produto vem de um site, a compra pode virar vários checkouts e fretes, entregas em datas diferentes, câmbio e taxas de importação. Confira a regra vigente na sua região antes de comprar.",
           "Além disso, nem toda marca coreana vende direto para fora da Ásia. Algumas vendem só dentro da Coreia, o que levaria à opção de recorrer a revendedores terceiros, nem sempre confiáveis, ou a serviços de reenvio postal internacional, que adicionam custo e tempo extra."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Onde a YesStyle entra nisso",
+        "emphasis": "K-Beauty não exige rotina de muitas camadas: uma rotina simples pode bastar. A YesStyle resolve a parte de achar as marcas num carrinho só; quem diz o que serve é a sua pele, um produto de cada vez.",
         "paragraphs": [
           "Uma das opções é comprar numa loja multimarcas, como a YesStyle.",
           "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas, e também japonesas e de outras partes da Ásia, num carrinho só.",
@@ -43773,7 +44113,6 @@ export const reviewsData: unknown[] = [
           "Para comprar com desconto, o código de recompensa CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo de código de recompensa (Reward Code) do checkout. O passo a passo para aplicar o código está linkado abaixo. Os cupons da loja mudam; a lista do momento está em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
           "Para quem só quer testar a fama, juntar várias marcas num pedido simplifica a primeira compra."
         ],
-        "bullets": [],
         "links": [
           {
             "label": "Como usar o código de recompensa CECILIA010 na YesStyle (passo a passo)",
@@ -43803,6 +44142,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer entender a tendência antes de gastar e prefere começar com um produto de cada vez, sem montar uma rotina cheia de camadas.",
+        "Você quer juntar marcas coreanas e japonesas num pedido só, em vez de abrir vários sites e pagar vários fretes."
+      ],
+      "skipIf": [
+        "Você tem pele sensível ou reativa e pensa em trocar a rotina inteira de uma vez: introduza um produto por vez e, se tiver dúvida, fale com um dermatologista.",
+        "Você já compra de uma marca que vende direto no seu país: aí o ganho de reunir tudo num carrinho some."
+      ]
+    },
     "cta": {
       "text": "Conheça o catálogo de K-Beauty da YesStyle e use o código CECILIA010 no checkout",
       "label": "Ver marcas coreanas na YesStyle",
@@ -43869,34 +44218,31 @@ export const reviewsData: unknown[] = [
           "One of its best-known practices is layering: applying several products that complement each other, each with a specific job. The routine can include double cleansing (an oil cleanser followed by a gel or foam cleanser), toner, essence, serum, ampoule and cream. It is an option, not a rule: more layers do not guarantee better results, and a simple routine can be enough. The [American Academy of Dermatology](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) recommends keeping your routine simple, introducing one new product at a time and using sunscreen.",
           "In Korean culture, skincare is seen as self-care, and the country's beauty industry keeps up a fast pace of launches and new formulations."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
         "imageAlt": "K-Beauty Expo Korea trade fair packed with exhibitors and visitors trying Korean products",
         "imageCaption": "The size of the market behind the trend: fairs like K-Beauty Expo Korea bring together hundreds of brands every year.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Ingredients and formats K-Beauty popularized",
         "paragraphs": [
           "In ingredients, its fame comes from centella asiatica, niacinamide, snail mucin (not vegan), PDRN, propolis and ferments. In formats, from cushion, sheet mask and ampoule.",
           "One term closely tied to the category is “glass skin”: the idea of skin so even and luminous that it looks like glass. It is an aesthetic ideal, not a literal promise, but it sums up what a good part of K-Beauty routines aim for: skin with an even texture and the glow we usually associate with well-cared-for skin."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Why K-Beauty became a global trend",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "Shelf in a Korean beauty store with a sign reading “Find the Latest K-Beauty Hype”",
         "imageCaption": "On the streets of Korea, K-Beauty launches become a shop window, and part of the draw for visitors to the country.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "paragraphs": [
           "Three factors drove the wave: K-dramas and K-pop, the pace of launches, and the internet.",
           "The first factor is K-dramas and K-pop: skincare scenes in the series and artists with flawless skin on stage bring audiences in many countries closer to Korean beauty culture and spark curiosity about the routines and products.",
           "The second factor is the culture of Korean beauty brands itself, known for its pace of launches and ingredient innovation: new serums, new actives and new mask formats appear often. Combined with prices that are often lower than those of luxury brands with similar offerings, this created the perception that much of what is new in skincare comes out of Korea.",
           "The third factor is the internet: on TikTok, YouTube and Reddit, skincare communities share unboxings and reviews of Korean products, and that circulation helped carry K-Beauty beyond groups of enthusiasts.",
           "The [Korean Ministry of Culture](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) also describes several factors behind the growth, including international distribution by retailers. None of them explains the wave on its own."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "What buying K-Beauty outside Korea is like",
@@ -43905,11 +44251,11 @@ export const reviewsData: unknown[] = [
           "Many Korean skincare brands have no stores of their own in much of the world, and availability varies by brand and country. An internationally known brand may officially sell only through Korean e-commerce or a few authorized distributors in specific markets. That creates a real problem for anyone who wants to build a complete routine: say, a cleanser, a toner, a serum and a cream, each from a different brand.",
           "When each product comes from a different site, buying can turn into several checkouts and shipping fees, deliveries on different dates, currency conversion and import duties. Check the rules in force in your region before buying.",
           "On top of that, not every Korean brand sells directly outside Asia. Some sell only within Korea, which leads to relying on third-party resellers, not always trustworthy, or on international mail-forwarding services, which add extra cost and time."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Where YesStyle comes in",
+        "emphasis": "K-Beauty doesn't demand a many-layer routine: a simple one can be enough. YesStyle takes care of finding the brands in a single cart; what works is for your skin to say, one product at a time.",
         "paragraphs": [
           "One option is to buy from a multi-brand store such as YesStyle.",
           "YesStyle works as a centralized marketplace: instead of going from brand to brand, you buy many Korean brands, plus Japanese ones and others from across Asia, in a single cart.",
@@ -43919,7 +44265,6 @@ export const reviewsData: unknown[] = [
           "For a discount, the reward code CECILIA010 gives 5% off your first purchase and 2% off later ones, entered in the Reward Code field at checkout. There is a specific step-by-step on how to apply the code, linked below. The store's coupons change; the current list is at [YesStyle coupons and reward code](/en/coupons/yesstyle).",
           "For anyone who just wants to test the hype, combining several brands in one order makes the first purchase simpler."
         ],
-        "bullets": [],
         "links": [
           {
             "label": "How to use the CECILIA010 reward code on YesStyle (step by step)",
@@ -43949,6 +44294,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "You want to understand the trend before spending, and you'd rather start with one product at a time than build a routine with many layers.",
+        "You want Korean and Japanese brands in a single order instead of opening several sites and paying several shipping fees."
+      ],
+      "skipIf": [
+        "You have sensitive or reactive skin and are thinking of swapping your whole routine at once: introduce one product at a time and, if in doubt, talk to a dermatologist.",
+        "You already buy from a brand that sells directly in your country: then the benefit of one combined cart disappears."
+      ]
+    },
     "cta": {
       "text": "Shop K-Beauty on YesStyle and use code CECILIA010 at checkout",
       "label": "Shop Korean Brands on YesStyle",
@@ -44015,34 +44370,31 @@ export const reviewsData: unknown[] = [
           "Una de las prácticas más conocidas es el layering: aplicar varias capas de productos que se complementan, cada una con una función específica. La rutina puede incluir doble limpieza (un desmaquillante en aceite seguido de un limpiador en gel o espuma), tónico, esencia, sérum, ampolla y crema. Es una opción, no una regla: más capas no garantizan mejores resultados, y una rutina simple puede bastar. La [Academia Estadounidense de Dermatología](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) recomienda mantener la rutina simple, introducir un producto nuevo a la vez y usar protector solar.",
           "En la cultura coreana, el cuidado de la piel se ve como autocuidado, y la industria de la belleza del país mantiene un ritmo alto de lanzamientos y de fórmulas nuevas."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
         "imageAlt": "Feria K-Beauty Expo Korea llena de expositores y visitantes probando productos coreanos",
         "imageCaption": "El tamaño del mercado detrás de la tendencia: ferias como la K-Beauty Expo Korea reúnen cientos de marcas cada año.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Ingredientes y formatos que popularizó el K-Beauty",
         "paragraphs": [
           "En ingredientes, su fama viene de la centella asiática, la niacinamida, la mucina de caracol (no vegana), el PDRN, el propóleo y los fermentados. En formatos, del cushion, la sheet mask y la ampolla.",
           "Un término muy asociado a la categoría es «glass skin»: la idea de una piel tan uniforme y luminosa que parece vidrio. Es un ideal estético, no una promesa literal, pero resume bien lo que persigue buena parte de las rutinas K-Beauty: una piel de textura uniforme y ese brillo que solemos asociar con una piel bien cuidada."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Por qué el K-Beauty se volvió una tendencia global",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "Estante de una tienda de belleza coreana con un letrero que dice «Find the Latest K-Beauty Hype»",
         "imageCaption": "En las calles de Corea, los lanzamientos de K-Beauty se vuelven escaparate, y parte del atractivo para quien visita el país.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "paragraphs": [
           "Tres factores impulsaron la ola: los k-dramas y el k-pop, el ritmo de lanzamientos e internet.",
           "El primer factor son los k-dramas y el k-pop: las escenas de skincare en las series y los artistas con la piel impecable en el escenario acercan a públicos de distintos países a la cultura de belleza coreana y despiertan curiosidad por sus cuidados y productos.",
           "El segundo factor es la propia cultura de las marcas coreanas de belleza, conocidas por su ritmo de lanzamientos y de innovación en ingredientes: con frecuencia aparecen nuevos séruns, activos y formatos de mascarilla. Combinado con precios a menudo más bajos que los de marcas de lujo con propuestas parecidas, eso creó la percepción de que buena parte de las novedades del skincare sale de Corea.",
           "El tercer factor es internet: en TikTok, YouTube y Reddit, las comunidades de skincare comparten unboxings y reseñas de productos coreanos, y esa circulación llevó el K-Beauty más allá de los grupos de aficionados.",
           "El [Ministerio de Cultura de Corea](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) también describe varios factores detrás del crecimiento, entre ellos la distribución internacional a través de minoristas. Ninguno explica la ola por sí solo."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Cómo es comprar K-Beauty fuera de Corea",
@@ -44051,11 +44403,11 @@ export const reviewsData: unknown[] = [
           "Muchas marcas coreanas de skincare no tienen tiendas propias en buena parte del mundo, y la oferta cambia según la marca y el país. Una marca conocida internacionalmente puede vender oficialmente solo a través del e-commerce coreano o de unos pocos distribuidores autorizados en mercados específicos. Eso crea un problema real para quien quiere armar una rutina completa: digamos, un limpiador, un tónico, un sérum y una crema, cada uno de una marca distinta.",
           "Cuando cada producto viene de un sitio distinto, la compra puede convertirse en varios checkouts y envíos, entregas en fechas distintas, tipo de cambio e impuestos de importación. Consulta la norma vigente en tu región antes de comprar.",
           "Además, no toda marca coreana vende directamente fuera de Asia. Algunas venden solo dentro de Corea, lo que lleva a recurrir a revendedores terceros, no siempre confiables, o a servicios de reenvío postal internacional, que suman costo y tiempo extra."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Dónde entra YesStyle",
+        "emphasis": "La K-Beauty no exige una rutina de muchas capas: una rutina sencilla puede bastar. YesStyle resuelve la parte de encontrar las marcas en un solo carrito; lo que te sirve lo dice tu piel, un producto cada vez.",
         "paragraphs": [
           "Una de las opciones es comprar en una tienda multimarca, como YesStyle.",
           "YesStyle funciona como un marketplace centralizado: en vez de ir de marca en marca, compras varias marcas coreanas, y también japonesas y de otras partes de Asia, en un solo carrito.",
@@ -44065,7 +44417,6 @@ export const reviewsData: unknown[] = [
           "Para comprar con descuento, el código de recompensa CECILIA010 da 5% en la primera compra y 2% en las siguientes, en el campo de código de recompensa (Reward Code) del checkout. Hay un paso a paso específico sobre cómo aplicar el código enlazado abajo. Los cupones de la tienda cambian; la lista del momento está en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
           "Para quien solo quiere probar si la fama es real, juntar varias marcas en un pedido simplifica la primera compra."
         ],
-        "bullets": [],
         "links": [
           {
             "label": "Cómo usar el código de recompensa CECILIA010 en YesStyle (paso a paso)",
@@ -44095,6 +44446,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Quieres entender la tendencia antes de gastar y prefieres empezar con un producto cada vez, sin montar una rutina llena de capas.",
+        "Quieres juntar marcas coreanas y japonesas en un solo pedido, en vez de abrir varias webs y pagar varios envíos."
+      ],
+      "skipIf": [
+        "Tienes la piel sensible o reactiva y piensas cambiar toda la rutina de golpe: introduce un producto cada vez y, si dudas, consulta a un dermatólogo.",
+        "Ya compras a una marca que vende directamente en tu país: entonces la ventaja de reunirlo todo en un carrito desaparece."
+      ]
+    },
     "cta": {
       "text": "Conoce el catálogo de K-Beauty en YesStyle y usa el código CECILIA010 en el checkout",
       "label": "Ver marcas coreanas en YesStyle",
@@ -44161,34 +44522,31 @@ export const reviewsData: unknown[] = [
           "Une des pratiques les plus connues est le layering : appliquer plusieurs couches de produits qui se complètent, chacune avec une fonction précise. La routine peut inclure un double nettoyage (un démaquillant en huile suivi d’un nettoyant gel ou mousse), une lotion tonique, une essence, un sérum, une ampoule et une crème. C’est une option, pas une règle : plus de couches ne garantissent pas de meilleurs résultats, et une routine simple peut suffire. L’[Académie américaine de dermatologie](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) recommande de garder une routine simple, d’introduire un nouveau produit à la fois et d’utiliser une protection solaire.",
           "Dans la culture coréenne, le soin de la peau est vu comme un autosoin, et l’industrie de la beauté du pays maintient un rythme élevé de lancements et de nouvelles formules."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
         "imageAlt": "Salon K-Beauty Expo Korea rempli d’exposants et de visiteurs qui testent des produits coréens",
         "imageCaption": "La taille du marché derrière la tendance : des salons comme la K-Beauty Expo Korea réunissent des centaines de marques chaque année.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Les ingrédients et les formats que la K-Beauty a popularisés",
         "paragraphs": [
           "Côté ingrédients, sa réputation vient de la centella asiatica, de la niacinamide, de la mucine d’escargot (non végane), du PDRN, de la propolis et des ferments. Côté formats, du cushion, du masque en tissu et de l’ampoule.",
           "Un terme très associé à la catégorie est « glass skin » : l’idée d’une peau si uniforme et lumineuse qu’elle ressemble à du verre. C’est un idéal esthétique, pas une promesse littérale, mais il résume bien ce que visent beaucoup de routines K-Beauty : une peau à la texture uniforme et cet éclat que l’on associe d’ordinaire à une peau bien soignée."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Pourquoi la K-Beauty est devenue une tendance mondiale",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "Rayon d’une boutique de beauté coréenne avec une enseigne « Find the Latest K-Beauty Hype »",
         "imageCaption": "Dans les rues de Corée, les nouveautés K-Beauty font vitrine, et c’est une partie de l’attrait pour ceux qui visitent le pays.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "paragraphs": [
           "Trois facteurs ont porté la vague : les k-dramas et la k-pop, le rythme des lancements et internet.",
           "Le premier facteur, ce sont les k-dramas et la k-pop : les scènes de skincare dans les séries et les artistes à la peau impeccable sur scène rapprochent des publics de plusieurs pays de la culture beauté coréenne et éveillent la curiosité pour les soins et les produits.",
           "Le deuxième facteur est la culture même des marques coréennes de beauté, connues pour leur rythme de lancements et leur innovation sur les ingrédients : de nouveaux sérums, de nouveaux actifs et de nouveaux formats de masques apparaissent souvent. Associé à des prix souvent plus bas que ceux des marques de luxe aux propositions proches, cela a créé l’impression qu’une bonne part des nouveautés du skincare vient de Corée.",
           "Le troisième facteur, c’est internet : sur TikTok, YouTube et Reddit, les communautés de passionnés de skincare partagent des unboxings et des avis sur les produits coréens, et cette circulation a porté la K-Beauty au-delà des cercles de passionnés.",
           "Le [ministère de la Culture de Corée](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) décrit aussi plusieurs facteurs derrière cette croissance, dont la distribution internationale par des détaillants. Aucun n’explique la vague à lui seul."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Comment se passe l’achat de K-Beauty hors de Corée",
@@ -44197,11 +44555,11 @@ export const reviewsData: unknown[] = [
           "Beaucoup de marques coréennes de skincare n’ont pas de boutiques propres dans une bonne partie du monde, et l’offre varie selon la marque et le pays. Une marque connue à l’international peut ne vendre officiellement que par l’e-commerce coréen ou par quelques distributeurs agréés sur des marchés précis. Cela pose un vrai problème à qui veut composer une routine complète : disons un nettoyant, une lotion tonique, un sérum et une crème, chacun d’une marque différente.",
           "Quand chaque produit vient d’un site différent, l’achat peut devenir plusieurs commandes et frais de port, des livraisons à des dates différentes, le change et les taxes d’importation. Vérifiez la règle en vigueur dans votre région avant d’acheter.",
           "De plus, toutes les marques coréennes ne vendent pas directement hors d’Asie. Certaines ne vendent qu’en Corée, ce qui pousse à recourir à des revendeurs tiers, pas toujours fiables, ou à des services de réexpédition postale internationale, qui ajoutent du coût et des délais."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Où YesStyle intervient",
+        "emphasis": "La K-Beauty n’exige pas une routine à nombreuses couches : une routine simple peut suffire. YesStyle s’occupe de réunir les marques dans un seul panier ; ce qui vous convient, c’est votre peau qui le dit, un produit à la fois.",
         "paragraphs": [
           "Une des options consiste à acheter sur une boutique multimarque, comme YesStyle.",
           "YesStyle fonctionne comme une place de marché centralisée : au lieu d’aller de marque en marque, vous achetez plusieurs marques coréennes, mais aussi japonaises et d’autres régions d’Asie, dans un seul panier.",
@@ -44211,7 +44569,6 @@ export const reviewsData: unknown[] = [
           "Pour acheter avec une réduction, le code de récompense CECILIA010 donne 5 % à la première commande et 2 % aux suivantes, dans le champ du code de récompense (Reward Code) au paiement. Un pas-à-pas précis explique comment appliquer le code, lié ci-dessous. Les coupons de la boutique changent ; la liste du moment se trouve dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
           "Pour qui veut simplement vérifier si la réputation est méritée, réunir plusieurs marques dans une seule commande simplifie le premier achat."
         ],
-        "bullets": [],
         "links": [
           {
             "label": "Comment utiliser le code de récompense CECILIA010 sur YesStyle (pas à pas)",
@@ -44241,6 +44598,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Vous voulez comprendre la tendance avant de dépenser et préférez commencer par un produit à la fois, sans monter une routine à nombreuses couches.",
+        "Vous voulez réunir des marques coréennes et japonaises dans une seule commande, plutôt que d’ouvrir plusieurs sites et de payer plusieurs frais de port."
+      ],
+      "skipIf": [
+        "Vous avez la peau sensible ou réactive et pensez changer toute votre routine d’un coup : introduisez un produit à la fois et, en cas de doute, parlez-en à un dermatologue.",
+        "Vous achetez déjà auprès d’une marque qui vend directement dans votre pays : l’intérêt d’un panier unique disparaît alors."
+      ]
+    },
     "cta": {
       "text": "Découvrez le catalogue K-Beauty de YesStyle et utilisez le code CECILIA010 au paiement",
       "label": "Voir les marques coréennes sur YesStyle",
@@ -44307,34 +44674,31 @@ export const reviewsData: unknown[] = [
           "Eine der bekanntesten Praktiken ist das Layering: mehrere Produktschichten auftragen, die sich ergänzen und jeweils eine bestimmte Aufgabe haben. Die Routine kann eine Doppelreinigung (ein Ölreiniger, gefolgt von einem Gel- oder Schaumreiniger), Toner, Essenz, Serum, Ampulle und Creme umfassen. Das ist eine Option, keine Regel: Mehr Schichten garantieren kein besseres Ergebnis, und eine einfache Routine kann genügen. Die [American Academy of Dermatology](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) empfiehlt, die Routine einfach zu halten, jeweils nur ein neues Produkt auf einmal einzuführen und Sonnenschutz zu verwenden.",
           "In der koreanischen Kultur gilt Hautpflege als Selbstfürsorge, und die Beauty-Industrie des Landes hält ein hohes Tempo bei Neuheiten und neuen Formulierungen."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
         "imageAlt": "Messe K-Beauty Expo Korea voller Aussteller und Besucher, die koreanische Produkte testen",
         "imageCaption": "Die Größe des Marktes hinter dem Trend: Messen wie die K-Beauty Expo Korea versammeln jedes Jahr Hunderte von Marken.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Inhaltsstoffe und Formate, die K-Beauty bekannt gemacht hat",
         "paragraphs": [
           "Bei den Inhaltsstoffen kommt der Ruf von Centella asiatica, Niacinamid, Schneckenmucin (nicht vegan), PDRN, Propolis und Fermenten. Bei den Formaten von Cushion, Sheet Mask und Ampulle.",
           "Ein Begriff, der stark mit der Kategorie verbunden ist, lautet „Glass Skin“: die Vorstellung von Haut, die so ebenmäßig und strahlend ist, dass sie wie Glas wirkt. Es ist ein ästhetisches Ideal, kein wörtliches Versprechen, fasst aber gut zusammen, was ein großer Teil der K-Beauty-Routinen anstrebt: Haut mit gleichmäßiger Textur und jenem Glanz, den wir üblicherweise mit gepflegter Haut verbinden."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Warum K-Beauty zum globalen Trend wurde",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "Regal in einem koreanischen Beauty-Laden mit dem Schild „Find the Latest K-Beauty Hype“",
         "imageCaption": "Auf Koreas Straßen werden K-Beauty-Neuheiten zur Schaufensterware, und das gehört für Besucher des Landes zum Reiz.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "paragraphs": [
           "Drei Faktoren haben die Welle getragen: K-Dramas und K-Pop, das Tempo der Neuheiten und das Internet.",
           "Der erste Faktor sind K-Dramas und K-Pop: Skincare-Szenen in den Serien und die Auftritte der Künstler auf der Bühne bringen Publika in vielen Ländern die koreanische Beauty-Kultur näher und wecken Interesse an Routinen und Produkten.",
           "Der zweite Faktor ist die Kultur der koreanischen Beauty-Marken selbst, bekannt für ihr Tempo bei Neuheiten und Wirkstoffinnovationen: Neue Seren, Wirkstoffe und Maskenformate erscheinen häufig. Zusammen mit meist günstigeren Preisen als bei Luxusmarken mit ähnlichem Angebot entstand so der Eindruck, dass ein großer Teil der Skincare-Neuheiten aus Korea kommt.",
           "Der dritte Faktor ist das Internet: Auf TikTok, YouTube und Reddit teilen Skincare-Communitys Unboxings und Rezensionen koreanischer Produkte, und dieser Austausch hat K-Beauty über die Kreise der Fans hinaus bekannt gemacht.",
           "Das [koreanische Kulturministerium](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) beschreibt ebenfalls mehrere Faktoren hinter dem Wachstum, darunter den internationalen Vertrieb über Händler. Keiner von ihnen erklärt die Welle allein."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "So ist es, K-Beauty außerhalb Koreas zu kaufen",
@@ -44343,11 +44707,11 @@ export const reviewsData: unknown[] = [
           "Viele koreanische Skincare-Marken haben in weiten Teilen der Welt keine eigenen Läden, und das Angebot unterscheidet sich je nach Marke und Land. Eine international bekannte Marke verkauft offiziell vielleicht nur über den koreanischen E-Commerce oder über wenige autorisierte Händler in bestimmten Märkten. Das ist ein echtes Problem für alle, die eine komplette Routine zusammenstellen wollen: sagen wir Reiniger, Toner, Serum und Creme, jedes von einer anderen Marke.",
           "Wenn jedes Produkt von einer anderen Seite kommt, kann der Kauf zu mehreren Bestellvorgängen und Versandkosten, Lieferungen an verschiedenen Terminen, Währungsumrechnung und Einfuhrabgaben werden. Prüfen Sie vor dem Kauf die in Ihrer Region geltende Regel.",
           "Außerdem verkauft nicht jede koreanische Marke direkt außerhalb Asiens. Manche verkaufen nur innerhalb Koreas, sodass man auf Drittanbieter, die nicht immer vertrauenswürdig sind, oder auf internationale Paketweiterleitungsdienste zurückgreifen müsste, die zusätzliche Kosten und Zeit bedeuten."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Wo YesStyle ins Spiel kommt",
+        "emphasis": "K-Beauty verlangt keine Routine mit vielen Schichten: Eine einfache kann genügen. YesStyle erledigt den Teil, die Marken in einem Warenkorb zu finden; was passt, sagt Ihre Haut, ein Produkt nach dem anderen.",
         "paragraphs": [
           "Eine der Möglichkeiten ist der Kauf in einem Multimarken-Shop wie YesStyle.",
           "YesStyle funktioniert als zentraler Marktplatz: Statt von Marke zu Marke zu gehen, kaufen Sie mehrere koreanische Marken, außerdem japanische und aus anderen Teilen Asiens, in einem Warenkorb.",
@@ -44357,7 +44721,6 @@ export const reviewsData: unknown[] = [
           "Wer beim Kauf sparen möchte, kann den Reward Code CECILIA010 nutzen: 5 % beim ersten Kauf und 2 % bei den folgenden, einzugeben im Feld für den Reward Code beim Checkout. Eine eigene Schritt-für-Schritt-Anleitung zum Einlösen des Codes ist unten verlinkt. Die Gutscheine des Shops ändern sich; die aktuelle Liste steht unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle).",
           "Wer nur testen will, ob der Ruf stimmt: Mehrere Marken in einer Bestellung zu bündeln, vereinfacht den ersten Kauf."
         ],
-        "bullets": [],
         "links": [
           {
             "label": "So lösen Sie den Reward Code CECILIA010 bei YesStyle ein (Schritt für Schritt)",
@@ -44387,6 +44750,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Sie wollen den Trend verstehen, bevor Sie Geld ausgeben, und beginnen lieber mit einem Produkt nach dem anderen, statt eine Routine mit vielen Schichten aufzubauen.",
+        "Sie möchten koreanische und japanische Marken in einer Bestellung bündeln, statt mehrere Shops zu öffnen und mehrfach Versand zu zahlen."
+      ],
+      "skipIf": [
+        "Sie haben empfindliche oder reaktive Haut und denken daran, die ganze Routine auf einmal zu wechseln: Führen Sie ein Produkt nach dem anderen ein und fragen Sie bei Zweifeln eine Hautärztin oder einen Hautarzt.",
+        "Sie kaufen schon bei einer Marke, die in Ihrem Land direkt verkauft: Dann entfällt der Vorteil eines gemeinsamen Warenkorbs."
+      ]
+    },
     "cta": {
       "text": "Entdecken Sie den K-Beauty-Katalog bei YesStyle und nutzen Sie den Code CECILIA010 beim Checkout",
       "label": "Koreanische Marken bei YesStyle ansehen",
@@ -44453,34 +44826,31 @@ export const reviewsData: unknown[] = [
           "널리 알려진 방식 중 하나가 레이어링입니다. 서로를 보완하는 제품을 겹쳐 바르고, 겹마다 맡은 역할이 따로 있습니다. 이중 세안(오일 클렌저 다음에 젤이나 폼 클렌저), 토너, 에센스, 세럼, 앰플, 크림이 들어갈 수 있습니다. 다만 이는 선택지이지 규칙이 아닙니다. 겹이 많다고 결과가 더 좋아지는 것은 아니며, 간단한 루틴으로 충분할 수도 있습니다. [미국피부과학회](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month)도 루틴은 단순하게 유지하고, 새 제품은 한 번에 하나씩 피부에 도입하고, 선크림을 쓰라고 권합니다.",
           "한국 문화에서 피부 관리는 자기 관리의 하나로 여겨지며, 한국 뷰티 업계는 신제품과 새 처방을 내놓는 속도가 빠른 것으로 알려져 있습니다."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
         "imageAlt": "전시장이 참가 업체와 방문객으로 가득한 K-Beauty Expo Korea, 사람들이 한국 제품을 직접 써 보는 모습",
         "imageCaption": "트렌드 뒤에 있는 시장의 규모: K-Beauty Expo Korea 같은 박람회에는 해마다 수백 개의 브랜드가 모입니다.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "K-뷰티가 알린 성분과 제형",
         "paragraphs": [
           "성분으로는 병풀(센텔라), 나이아신아마이드, 달팽이 점액(비건 아님), PDRN, 프로폴리스, 발효 성분이 유명합니다. 제형으로는 쿠션, 시트 마스크, 앰플이 대표적입니다.",
           "이 분야와 자주 연결되는 말이 '글라스 스킨'입니다. 유리처럼 고르고 윤기 나는 피부라는 뜻입니다. 미적 이상일 뿐 글자 그대로의 약속은 아니지만, 많은 K-뷰티 루틴이 좇는 것을 잘 요약합니다. 결이 고르고, 흔히 잘 관리된 피부에서 떠올리는 그런 윤기입니다."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "K-뷰티는 왜 세계적인 트렌드가 되었을까",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "'Find the Latest K-Beauty Hype'라는 간판이 걸린 한국 뷰티 매장의 진열대",
         "imageCaption": "한국 거리에서는 K-뷰티 신제품이 곧 쇼윈도가 되고, 한국을 찾는 사람들에게는 그것도 매력의 하나입니다.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "paragraphs": [
           "이 흐름을 밀어 올린 요인은 세 가지입니다. K-드라마와 K-팝, 신제품이 나오는 속도, 그리고 인터넷입니다.",
           "첫째는 K-드라마와 K-팝입니다. 세계 각국의 시청자가 한국 뷰티 문화를 접하게 되었고, 드라마 속 스킨케어 장면과 아티스트의 무대 모습은 관리 방법과 제품에 대한 관심으로 이어집니다.",
           "둘째는 한국 뷰티 브랜드 자체의 문화입니다. 신제품 출시와 성분 혁신의 속도로 알려져 있고, 새 세럼, 새 활성 성분, 새 마스크 제형이 자주 나옵니다. 비슷한 콘셉트의 럭셔리 브랜드보다 가격이 대체로 합리적이라는 점까지 더해져, 새로운 스킨케어의 상당수가 한국에서 나온다는 인식이 생겼습니다.",
           "셋째는 인터넷입니다. 틱톡, 유튜브, 레딧에서는 스킨케어 커뮤니티가 한국 제품의 언박싱과 후기를 공유하며, 이런 교류가 K-뷰티를 애호가층 너머로 널리 알리는 데 도움이 됐습니다.",
           "[문화체육관광부](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)도 성장의 배경으로 소매업체를 통한 해외 유통을 포함한 여러 요인을 설명합니다. 그중 어느 하나만으로 이 흐름을 설명할 수는 없습니다."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "한국 밖에서 K-뷰티를 사는 경우",
@@ -44489,11 +44859,11 @@ export const reviewsData: unknown[] = [
           "한국 스킨케어 브랜드 중에는 해외 여러 곳에 자체 매장이 없는 곳이 많고, 판매 여부와 방식도 브랜드와 나라에 따라 다릅니다. 국제적으로 알려진 브랜드도 공식 판매처가 한국 이커머스나 특정 시장의 소수 공인 유통사뿐일 수 있습니다. 클렌저, 토너, 세럼, 크림을 각각 다른 브랜드로 골라 루틴 한 벌을 갖추려는 사람에게는 이것이 실제 문제가 될 수 있습니다.",
           "제품마다 다른 사이트에서 사면 결제와 배송비가 여러 번 나뉘고, 도착 날짜가 제각각이고, 환율과 수입 세금이 붙을 수 있습니다. 구매 전에 거주 지역에 지금 적용되는 규정을 확인하세요.",
           "게다가 모든 한국 브랜드가 아시아 밖으로 직접 판매하는 것은 아닙니다. 한국 내에서만 파는 곳도 있어서, 믿을 만하다고 할 수 없는 제3의 재판매업자를 통하거나 추가 비용과 시간이 드는 국제 배송 대행 서비스를 쓰게 됩니다."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "YesStyle은 어떤 역할을 할까",
+        "emphasis": "K-뷰티에 단계가 많은 루틴이 꼭 필요한 것은 아닙니다. 단순한 루틴으로 충분할 수 있습니다. YesStyle은 브랜드를 한 장바구니에서 찾는 일을 맡을 뿐이고, 무엇이 맞는지는 내 피부가 말해 줍니다. 제품은 하나씩.",
         "paragraphs": [
           "선택지 중 하나는 YesStyle 같은 멀티브랜드 스토어에서 사는 것입니다.",
           "YesStyle은 하나로 모은 마켓플레이스로 작동합니다. 브랜드를 하나씩 찾아다니는 대신, 한국 브랜드는 물론 일본과 아시아 다른 지역의 브랜드까지 장바구니 하나에 담아 구매합니다.",
@@ -44503,7 +44873,6 @@ export const reviewsData: unknown[] = [
           "할인을 받고 싶다면 리워드 코드 CECILIA010이 있습니다. 첫 구매는 5%, 이후 구매는 2% 할인이며, 결제 시 리워드 코드(Reward Code) 칸에 입력합니다. 이 코드를 입력하는 방법은 아래에 링크한 전용 단계별 안내에서 볼 수 있습니다. 매장 쿠폰은 수시로 바뀌며, 현재 목록은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에서 확인하세요.",
           "K-뷰티를 한번 써 보고 싶을 뿐인 사람에게는, 여러 브랜드를 한 주문에 담을 수 있다는 점이 첫 구매를 간단하게 해 줍니다."
         ],
-        "bullets": [],
         "links": [
           {
             "label": "YesStyle에서 리워드 코드 CECILIA010 사용하는 방법(단계별 안내)",
@@ -44533,6 +44902,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "돈을 쓰기 전에 트렌드를 이해하고 싶고, 단계가 많은 루틴을 쌓기보다 제품을 하나씩 써 보며 시작하고 싶습니다.",
+        "여러 사이트를 열어 배송비를 여러 번 내는 대신, 한국 브랜드와 일본 브랜드를 한 번의 주문으로 묶고 싶습니다."
+      ],
+      "skipIf": [
+        "민감하거나 자극에 쉽게 반응하는 피부인데 루틴을 한꺼번에 바꿀 생각입니다. 제품을 하나씩 도입하고, 의문이 있으면 피부과 의사와 상담하세요.",
+        "이미 내가 사는 나라에서 직접 판매하는 브랜드에서 사고 있습니다. 그러면 한 장바구니로 모으는 이점이 사라집니다."
+      ]
+    },
     "cta": {
       "text": "YesStyle의 K-뷰티 카탈로그를 확인하고 결제 시 CECILIA010 코드를 사용하세요",
       "label": "YesStyle에서 한국 브랜드 보기",
@@ -44599,34 +44978,31 @@ export const reviewsData: unknown[] = [
           "よく知られた実践の一つがレイヤリングです。互いを補い合う製品を重ね、それぞれが役割を担います。たとえばダブル洗顔（オイルクレンジングのあとにジェルや泡の洗顔料）、トナー、エッセンス、美容液、アンプル、クリームといった具合です。ただし、これは選択肢であって決まりではありません。重ねる数が多いほど結果が良くなるとは限らず、シンプルなケアで足りることもあります。[米国皮膚科学会](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month)も、ケアはシンプルに保ち、新しい製品は一度に1つずつ肌に取り入れ、日焼け止めを使うよう勧めています。",
           "韓国の文化では、スキンケアはセルフケアの一つとして捉えられていて、美容産業は新製品や新処方を出すペースが速いことで知られています。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
         "imageAlt": "K-Beauty Expo Koreaの会場。出展者と来場者でにぎわい、韓国コスメを試す人たちの姿が見える",
         "imageCaption": "トレンドを支える市場の大きさ：K-Beauty Expo Koreaのような展示会には、毎年数百ものブランドが集まります。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "K-Beautyが広めた成分と製品の形",
         "paragraphs": [
           "成分で知られているのは、ツボクサ（シカ）、ナイアシンアミド、カタツムリ粘液（ヴィーガンではありません）、PDRN、プロポリス、発酵成分。製品の形では、クッション、シートマスク、アンプルが代表的です。",
           "この分野でよく聞く言葉に「ガラス肌」があります。ガラスのようにムラがなく、つややかな肌のことです。美の理想像であって、文字どおりの約束ではありませんが、多くのK-Beautyルーティンが目指すものをよく表しています。つまり、キメが整っていて、手入れの行き届いた肌に見える、あのツヤです。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "K-Beautyが世界的なトレンドになった理由",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "「Find the Latest K-Beauty Hype」の看板が掲げられた韓国のビューティーショップの棚",
         "imageCaption": "韓国の街では、K-Beautyの新作がそのままショーウィンドウを飾ります。訪れる人にとって魅力のひとつです。",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "paragraphs": [
           "流行を押し上げた要因は3つあります。K-ドラマとK-POP、新作が出るペース、そしてインターネットです。",
           "1つ目は、K-ドラマとK-POPです。世界の視聴者が韓国の美容文化に触れるようになり、ドラマのスキンケア場面やアーティストのステージ姿は、ケアや製品への関心につながっています。",
           "2つ目は、韓国の美容ブランドそのものの文化です。新作の発売と成分のイノベーションのペースで知られ、新しい美容液、有効成分、マスクの形が頻繁に登場します。似たコンセプトのラグジュアリーブランドより価格が手頃なことが多い点も重なり、スキンケアの新しい流れの多くは韓国から生まれている、という印象が定着しました。",
           "3つ目は、インターネットです。TikTok、YouTube、Redditでは、スキンケア好きのコミュニティが韓国コスメの開封動画やレビューを共有しています。こうした交流が、K-Beautyを愛好家以外にも広めました。",
           "[韓国文化体育観光部](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)も、成長の背景には小売業者による海外流通を含む複数の要因があると説明しています。どの要因も、単独で流行を説明できるわけではありません。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "韓国の外でK-Beautyを買うということ",
@@ -44635,11 +45011,11 @@ export const reviewsData: unknown[] = [
           "韓国のスキンケアブランドには、世界の大半の地域に自社の店舗を持たないものが多く、取り扱いもブランドや国によって変わります。国際的に知られたブランドでも、正規の販売は韓国のECサイトか、特定の市場にいる少数の正規代理店だけ、ということがあります。クレンザー、トナー、美容液、クリームをそれぞれ別のブランドで揃えて、ひととおりのルーティンを組みたい人にとっては、これが現実的な問題になります。",
           "製品ごとに別のサイトで買うと、チェックアウトや送料が何回にも分かれ、届く日もばらばらになり、為替や輸入関税も発生することがあります。購入前に、お住まいの地域で現在適用されているルールをご確認ください。",
           "さらに、韓国のブランドがすべてアジア圏外に直接販売しているわけではありません。韓国国内でしか売っていないブランドもあり、その場合は信頼できるとは限らない第三者の転売業者に頼るか、国際転送サービスを使うことになり、費用も時間も余計にかかります。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "YesStyleの役割",
+        "emphasis": "K-Beautyに、層を重ねた長い手順は必須ではありません。シンプルな手順で足りることもあります。YesStyleが担うのはブランドを1つのカートで探す部分で、何が合うかを決めるのは自分の肌です。1つずつ試しましょう。",
         "paragraphs": [
           "選択肢の一つが、YesStyleのような複数ブランドを扱うストアで買う方法です。",
           "YesStyleは一元化されたマーケットプレイスとして機能します。ブランドを1つずつ回る代わりに、韓国ブランド、さらに日本やアジア各地のブランドを、1つのカートで購入できます。",
@@ -44649,7 +45025,6 @@ export const reviewsData: unknown[] = [
           "割引を受けたい方には、リワードコードCECILIA010があります。初回購入は5%、2回目以降は2%の割引で、チェックアウトのリワードコード（Reward Code）欄に入力します。このコードの入れ方は、下にリンクした専用の手順ガイドで確認できます。ストアのクーポンは入れ替わるので、現時点の一覧は[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)をご覧ください。",
           "K-Beautyを試してみたいだけの人にとっては、複数のブランドを1回の注文にまとめられることで、最初の購入が簡単になります。"
         ],
-        "bullets": [],
         "links": [
           {
             "label": "YesStyleでリワードコードCECILIA010を使う方法（手順ガイド）",
@@ -44679,6 +45054,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "出費の前にトレンドを理解したく、層を重ねた手順を組むより、1つずつ試すところから始めたいです。",
+        "韓国と日本のブランドを、いくつものサイトを開いて送料を何度も払う代わりに、1回の注文にまとめたいです。"
+      ],
+      "skipIf": [
+        "敏感肌や刺激を受けやすい肌で、スキンケアを一度に全部入れ替えようとしています。1つずつ取り入れ、不安があれば皮膚科医に相談してください。",
+        "すでにお住まいの国で直販しているブランドから買っています。その場合、1つのカートにまとめる利点はなくなります。"
+      ]
+    },
     "cta": {
       "text": "YesStyleのK-Beautyカタログをチェックして、チェックアウト時にCECILIA010コードを使いましょう",
       "label": "YesStyleで韓国ブランドを見る",
@@ -44745,34 +45130,31 @@ export const reviewsData: unknown[] = [
           "最廣為人知的做法之一是 layering（疊擦）：一層層塗上互相搭配的產品，每一層都有各自的功能。這套流程可以包括雙重清潔（先用卸妝油，再用凝膠或泡沫洗面乳）、化妝水、精華水、精華液、安瓶和面霜。這只是一種選擇，不是規定：層數多不等於效果更好，簡單的流程也許就夠了。[美國皮膚科醫學會](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month)建議保持流程簡單，一次只讓肌膚接觸一樣新產品，並使用防曬。",
           "在韓國文化中，保養被視為一種自我照顧，而該國美妝產業推出新品和新配方的步調很快。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
         "imageAlt": "擠滿參展商與觀眾的 K-Beauty Expo Korea 展覽，大家正在試用韓國產品",
         "imageCaption": "這股趨勢背後的市場規模：像 K-Beauty Expo Korea 這樣的展覽，每年都會聚集數百個品牌。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "K-Beauty 帶紅的成分與劑型",
         "paragraphs": [
           "在成分方面，以積雪草、菸鹼醯胺、蝸牛黏液（非純素）、PDRN、蜂膠和發酵成分聞名。在劑型方面，則有氣墊粉餅、面膜貼片和安瓶。",
           "與這個品類關係很深的一個詞是「glass skin」（玻璃肌）：指均勻、透亮到彷彿玻璃的肌膚。這是一種美感上的理想，而不是字面上的承諾，但它很好地概括了大多數 K-Beauty 流程所追求的：質地均勻，帶著我們通常與保養得宜的肌膚聯想在一起的那種光澤。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "K-Beauty 為什麼成為全球趨勢",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "一間韓國美妝店的貨架，招牌寫著「Find the Latest K-Beauty Hype」",
         "imageCaption": "在韓國的街頭，K-Beauty 新品本身就是櫥窗，也是旅客受到吸引的一部分原因。",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "paragraphs": [
           "有三個因素推動了這股浪潮：韓劇與韓國流行音樂、新品推出的速度，以及網路。",
           "第一個因素是韓劇與韓國流行音樂。各國觀眾借此接觸到韓國美妝文化，劇中的保養場景與藝人的舞台形象，也讓人對保養方式和產品產生興趣。",
           "第二個因素是韓國美妝品牌本身的文化，它們以新品推出和成分創新的步調聞名：新的精華液、新的活性成分、新的面膜形式層出不窮。再加上價格通常比定位相近的精品品牌更低，讓人形成這樣的印象：保養領域的許多新品都來自韓國。",
           "第三個因素是網路。在 TikTok、YouTube 和 Reddit 上，保養社群分享韓國產品的開箱與評價，這些交流幫助 K-Beauty 走出愛好者圈子，吸引更多人關注。",
           "[韓國文化體育觀光部](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)也指出，這股成長背後有多個因素，其中包括零售商的國際通路。沒有哪一個因素能單獨解釋這股熱潮。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "在韓國以外購買 K-Beauty 是什麼體驗",
@@ -44781,11 +45163,11 @@ export const reviewsData: unknown[] = [
           "許多韓國保養品牌在世界上很多地方都沒有自己的門市，供貨會因品牌和國家而異。一個國際知名的品牌，可能只透過韓國電商或特定市場的少數授權經銷商正式販售。對想搭配一整套流程的人來說，這是個實實在在的問題：比方說洗面乳、化妝水、精華液和面霜，每樣來自不同的品牌。",
           "當每樣產品都來自不同的網站，購買可能變成多次結帳和多筆運費、不同時間到貨，還有匯率和進口稅費。購買前，請確認你所在地區現行的規定。",
           "此外，並非每個韓國品牌都直接向亞洲以外販售。有些只在韓國境內販售，這就只能求助於不一定可靠的第三方轉賣商，或是使用國際轉運服務，而這會增加費用和時間。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "YesStyle 在這裡扮演什麼角色",
+        "emphasis": "K-Beauty 並不要求層層疊疊的流程，簡單的一套也可能夠用。YesStyle 解決的是把品牌湊進同一個購物車的問題，什麼適合你，得由你的皮膚說了算，一次只試一個產品。",
         "paragraphs": [
           "選擇之一是在多品牌商店購買，例如 YesStyle。",
           "YesStyle 是一個集中式的購物平台：你不用一個品牌一個品牌地找，而是可以把多個韓國品牌，以及日本和亞洲其他地區的品牌，放進同一個購物車。",
@@ -44795,7 +45177,6 @@ export const reviewsData: unknown[] = [
           "想享有折扣，可以使用獎勵碼 CECILIA010：首購 5%，之後每筆 2%，在結帳頁的獎勵碼（Reward Code）欄位輸入。關於如何輸入這個代碼，下方連結了專門的逐步教學。商店的優惠券會變動，目前的清單請見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。",
           "如果只是想試試傳聞是否屬實，把多個品牌放進同一筆訂單，會讓第一次購買更簡單。"
         ],
-        "bullets": [],
         "links": [
           {
             "label": "如何在 YesStyle 使用獎勵碼 CECILIA010（逐步教學）",
@@ -44825,6 +45206,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "你想在花錢前先弄懂這股潮流，寧願一次只試一個產品，也不想一開始就搭一套層層疊疊的流程。",
+        "你想把韓國與日本品牌放進同一筆訂單，而不是開好幾個網站、付好幾次運費。"
+      ],
+      "skipIf": [
+        "你皮膚敏感或容易反應，卻打算一次換掉整套保養流程：一次只加一個產品，有疑問就請教皮膚科醫師。",
+        "你本來就在買所在國有直營通路的品牌：那樣，湊在同一個購物車的好處就沒有了。"
+      ]
+    },
     "cta": {
       "text": "探索 YesStyle 的 K-Beauty 目錄，結帳時使用 CECILIA010 代碼",
       "label": "在 YesStyle 查看韓國品牌",
@@ -44891,34 +45282,31 @@ export const reviewsData: unknown[] = [
           "最广为人知的做法之一是 layering（叠层）：叠涂多层相互配合的产品，每一层都有各自的功能。这套流程可以包括双重清洁（先用卸妆油，再用凝胶或泡沫洁面）、爽肤水、精华水、精华液、安瓿和面霜。这只是一种选择，不是规定：层数多不等于效果更好，简单的流程也许就够了。[美国皮肤科学会](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month)建议保持流程简单，一次只给皮肤引入一样新产品，并使用防晒。",
           "在韩国文化中，护肤被视为一种自我关爱，而该国美妆产业推出新品和新配方的节奏很快。"
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
         "imageAlt": "人头攒动的 K-Beauty Expo Korea 展会，参展商和观众正在试用韩国产品",
         "imageCaption": "这股趋势背后的市场规模：K-Beauty Expo Korea 这样的展会每年都会聚集数百个品牌。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "K-Beauty 带火的成分与剂型",
         "paragraphs": [
           "在成分方面，以积雪草、烟酰胺、蜗牛黏液（非纯素）、PDRN、蜂胶和发酵成分闻名。在剂型方面，则有气垫、面膜片和安瓿。",
           "与这个品类关系很深的一个词是“glass skin”（玻璃肌）：指均匀、透亮到仿佛玻璃的肌肤。这是一种审美理想，而不是字面意义上的承诺，但它很好地概括了大多数 K-Beauty 流程所追求的：质地均匀，带着我们通常与护理得当的肌肤联系在一起的那种光泽。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "K-Beauty 为什么成为全球趋势",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "一家韩国美妆店的货架，招牌写着“Find the Latest K-Beauty Hype”",
         "imageCaption": "在韩国的街头，K-Beauty 新品本身就是橱窗，也是游客被吸引的一部分原因。",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "paragraphs": [
           "有三个因素推动了这股浪潮：韩剧和韩国流行音乐、新品推出的节奏，以及互联网。",
           "第一个因素是韩剧和韩国流行音乐。各国观众借此接触到韩国美妆文化，剧中的护肤场景和艺人的舞台形象，也让人对护理方式和产品产生兴趣。",
           "第二个因素是韩国美妆品牌自身的文化，它们以新品推出和成分创新的节奏著称：新精华液、新活性成分、新面膜形态层出不穷。再加上价格通常比定位相近的奢侈品牌更低，让人形成了这样的印象：护肤领域的许多新品都来自韩国。",
           "第三个因素是互联网。在 TikTok、YouTube 和 Reddit 上，护肤社群分享韩国产品的开箱和测评，这些交流帮助 K-Beauty 走出爱好者圈子，吸引更多人关注。",
           "[韩国文化体育观光部](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)也指出，这股增长背后有多个因素，其中包括零售商的国际分销。没有哪一个因素能单独解释这股热潮。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "在韩国以外购买 K-Beauty 是什么体验",
@@ -44927,11 +45315,11 @@ export const reviewsData: unknown[] = [
           "许多韩国护肤品牌在世界上很多地方都没有自己的门店，供货因品牌和国家而异。一个国际知名的品牌，可能只通过韩国电商或特定市场的少数授权经销商正式销售。对想搭配一整套流程的人来说，这是个实实在在的问题：比如洁面、爽肤水、精华液和面霜，每样来自不同的品牌。",
           "当每样产品都来自不同的网站，购买可能变成多次结账和多笔运费、不同时间到货，还有汇率和进口税费。购买前，请确认你所在地区现行的规定。",
           "此外，并非每个韩国品牌都直接向亚洲以外销售。有些只在韩国境内销售，这就只能求助于不一定可靠的第三方转卖商，或者使用国际转运服务，而这会增加费用和时间。"
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "YesStyle 在这里扮演什么角色",
+        "emphasis": "K-Beauty 并不要求层层叠叠的流程，简单的一套也可能够用。YesStyle 解决的是把品牌凑进同一个购物车的问题，什么适合你，得由你的皮肤说了算，一次只试一个产品。",
         "paragraphs": [
           "选择之一是在多品牌商店购买，比如 YesStyle。",
           "YesStyle 是一个集中式的购物平台：你不用一个品牌一个品牌地找，而是可以把多个韩国品牌，以及日本和亚洲其他地区的品牌，放进同一个购物车。",
@@ -44941,7 +45329,6 @@ export const reviewsData: unknown[] = [
           "想享受折扣，可以使用奖励码 CECILIA010：首单 5%，之后每单 2%，在结账页的奖励码（Reward Code）一栏输入。关于如何输入这个代码，下面链接了专门的分步教程。店铺的优惠券会变动，当前的列表见 [YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)。",
           "如果只是想试试传闻是否属实，把多个品牌放进同一笔订单，会让第一次购买更简单。"
         ],
-        "bullets": [],
         "links": [
           {
             "label": "如何在 YesStyle 使用奖励码 CECILIA010（分步教程）",
@@ -44971,6 +45358,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "你想在花钱前先弄懂这股潮流，宁愿一次只试一个产品，也不想一上来就搭一套层层叠叠的流程。",
+        "你想把韩国和日本品牌放进同一笔订单，而不是打开好几个网站、付好几次运费。"
+      ],
+      "skipIf": [
+        "你皮肤敏感或容易反应，却打算一次性换掉整套护肤流程：一次只加一个产品，有疑问就去问皮肤科医生。",
+        "你本来就在买所在国有直营渠道的品牌：那样，凑在一个购物车里的好处就没有了。"
+      ]
+    },
     "cta": {
       "text": "探索 YesStyle 的 K-Beauty 系列，结账时使用 CECILIA010 代码",
       "label": "在 YesStyle 查看韩国品牌",
@@ -47616,8 +48013,8 @@ export const reviewsData: unknown[] = [
     "slug": "skincare-coreano-30-anos-rotina-iniciante-yesstyle",
     "locale": "pt",
     "translationKey": "yesstyle-skincare-30",
-    "title": "Skincare Coreano aos 30 Anos: Testei uma Rotina de Iniciante com a Abib da YesStyle",
-    "seoTitle": "Skincare Coreano aos 30: Rotina Iniciante com Abib (Testei)",
+    "title": "Skincare coreano aos 30 anos: testei uma rotina de iniciante com a Abib da YesStyle",
+    "seoTitle": "Skincare coreano aos 30: rotina de iniciante com Abib",
     "type": "Primeiras Impressões",
     "category": "produtos-experiencias",
     "reviewKind": "editorial",
@@ -47640,19 +48037,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Rotina curta: três produtos e uns 15 minutos, quase todos de espera com o adesivo no rosto",
-      "Adesivo de hidrogel geladinho, com superfície texturizada que ajuda a não escorregar",
-      "Creme com textura de pomada que espalha fácil e deixa um toque aveludado",
-      "Máscara labial com espátula e cheirinho de doce que, para mim, não enjoou",
-      "Produtos coreanos vendidos pela própria YesStyle, que declara a originalidade, com o CECILIA010 somando desconto no campo Reward Code"
-    ],
-    "cons": [
-      "PDRN e retinal agem de forma gradual: a Abib indica o creme para firmeza e linhas finas, um trabalho de longo prazo.",
-      "O retinal pede protetor solar de dia: quem, como eu, nunca usou vai ter que começar",
-      "Na primeira vez, fiquei na dúvida sobre o lado certo do adesivo",
-      "Compra internacional: frete e prazo de entrega variam conforme o destino"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -47730,7 +48116,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
         "imageAlt": "Cecília segurando um adesivo de hidrogel rosado da Abib com o pote aberto na outra mão",
         "imageCaption": "O adesivo de hidrogel da Abib vem num pote com 60 unidades e é geladinho ao encostar na pele.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Booster Crème 2.5: textura de pomada que vira veludo",
@@ -47752,7 +48138,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
         "imageAlt": "Cecília segurando a bisnaga do Abib PDRN Volume Fill-it Booster Crème 2.5",
         "imageCaption": "A bisnaga de 30 ml do Booster Crème 2.5: sai como pomada e deixa a pele com toque aveludado.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Lip Mask Glazed Jelly: cheirinho de doce que não enjoa",
@@ -47771,7 +48157,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
         "imageAlt": "Cecília fazendo biquinho e segurando o pote da máscara labial Abib Glazed Jelly",
         "imageCaption": "A Lip Mask Glazed Jelly, de 11 g, tem textura de gel e cheirinho de doce.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "PDRN e retinal: o que são e o que esperar",
@@ -47836,7 +48222,8 @@ export const reviewsData: unknown[] = [
           "Textura e viço da pele do rosto e do pescoço;",
           "Se o retinal vai dar alguma irritação com o uso contínuo;",
           "Se a lip mask segura a hidratação dos lábios durante a noite."
-        ]
+        ],
+        "emphasis": "Gostei desta rotina porque ela cabe numa noite comum, sem a maratona de dez passos. O que ela faz pela minha pele eu só digo depois de semanas de uso."
       },
       {
         "heading": "Perguntas frequentes",
@@ -47846,7 +48233,7 @@ export const reviewsData: unknown[] = [
           "Retinal é a mesma coisa que ácido retinoico? Não. O ingrediente do adesivo e do creme é retinal (retinaldeído), um derivado da vitamina A que a pele converte em ácido retinoico. Por isso a ação é mais gradual, e ele pede protetor solar durante o dia.",
           "A lip mask da Abib tem cheiro forte? Tem cheirinho de doce. Eu tenho sensibilidade a cheiros fortes, e esse não me incomodou.",
           "A YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app. Para taxas alfandegárias cobradas na chegada, a loja prevê reembolso em crédito para pedidos abaixo de US$ 1.000, conforme a política dela.",
-          "Onde uso o código CECILIA010? No campo Reward Code do checkout. Ele dá 5% na primeira compra e 2% nas seguintes, e pode ser usado junto com um cupom do campo Coupon Code, conforme as regras desse cupom."
+          "Onde uso o CECILIA010, o código de recompensa da YesStyle? O CECILIA010 dá 5% na primeira compra e 2% nas seguintes, e vai no campo Reward Code do checkout. Ele pode ser somado a um cupom da YesStyle, do campo Coupon Code, conforme as regras desse cupom."
         ]
       }
     ],
@@ -47869,7 +48256,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "como-encontrar-cupons-yesstyle-validos"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você nunca montou uma rotina de skincare e quer começar curto: foram três produtos e uns 15 minutos, quase todos de espera.",
+        "Você recebe numa região onde a YesStyle entrega e aceita frete e prazo internacionais."
+      ],
+      "skipIf": [
+        "Você está no Brasil: a entrega ao Brasil continua suspensa no site e no app.",
+        "Você quer saber o que a rotina faz pela pele: aqui é só o primeiro uso, e o resultado eu ainda vou contar."
+      ]
+    }
   },
   {
     "id": 300,
@@ -47901,19 +48298,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Short routine: three products and about 15 minutes, most of it just waiting with the patch on",
-      "Cool hydrogel patch with a textured surface that helps it stay put",
-      "Cream with an ointment-like texture that spreads easily and leaves a velvety feel",
-      "Lip mask with a spatula and a candy-like scent that, for me, wasn't overpowering",
-      "Korean products sold by YesStyle itself, which states they are authentic, with CECILIA010 adding a discount in the Reward Code field"
-    ],
-    "cons": [
-      "PDRN and retinal act gradually: Abib recommends the cream for firmness and fine lines, which means long-term work.",
-      "Retinal calls for sunscreen in the daytime: if you've never used it, like me, you'll have to start",
-      "The first time, I wasn't sure which side of the patch was the right one",
-      "International purchase: shipping cost and delivery time depend on your destination"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Quick answer",
@@ -47991,7 +48377,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
         "imageAlt": "Cecília holding a pink Abib hydrogel patch, with the open jar in her other hand",
         "imageCaption": "The Abib hydrogel patch comes in a jar of 60 and feels cool when it touches the skin.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Booster Crème 2.5: an ointment texture that turns to velvet",
@@ -48013,7 +48399,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
         "imageAlt": "Cecília holding the tube of Abib PDRN Volume Fill-it Booster Crème 2.5",
         "imageCaption": "The 30 ml tube of the Booster Crème 2.5: it comes out like an ointment and leaves the skin with a velvety feel.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Lip Mask Glazed Jelly: a candy scent that isn't overpowering",
@@ -48032,7 +48418,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
         "imageAlt": "Cecília pouting and holding the jar of the Abib Glazed Jelly lip mask",
         "imageCaption": "The 11 g Lip Mask Glazed Jelly has a gel texture and a candy-like scent.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "PDRN and retinal: what they are and what to expect",
@@ -48097,7 +48483,8 @@ export const reviewsData: unknown[] = [
           "Texture and glow of the skin on the face and neck;",
           "Whether the retinal causes any irritation with continued use;",
           "Whether the lip mask keeps my lips hydrated overnight."
-        ]
+        ],
+        "emphasis": "I like this routine because it fits an ordinary night, with no ten-step marathon. What it does for my skin, I will only say after weeks of use."
       },
       {
         "heading": "Frequently asked questions",
@@ -48106,7 +48493,7 @@ export const reviewsData: unknown[] = [
           "What is PDRN? It's an ingredient made of DNA fragments, widely used in Korean cosmetics that, according to the brands, promise firmness. In the Abib lip mask, the brand states a plant origin (centella asiatica and ginkgo biloba).",
           "Is retinal the same as retinoic acid? No. The ingredient in the patch and cream is retinal (retinaldehyde), a vitamin A derivative that the skin converts into retinoic acid. That's why its action is more gradual, and it calls for sunscreen during the day.",
           "Does the Abib lip mask have a strong scent? It has a candy-like scent. I'm sensitive to strong smells, and this one didn't bother me.",
-          "Where do I use the CECILIA010 code? In the Reward Code field at checkout. It gives 5% off your first purchase and 2% off the following ones, and can be used together with a coupon entered in the Coupon Code field, depending on that coupon's rules."
+          "Where do I use CECILIA010, YesStyle's Reward Code? CECILIA010 gives 5% off your first purchase and 2% off the following ones, in the Reward Code field at checkout. It can be combined with a YesStyle coupon entered in the Coupon Code field, depending on that coupon's rules."
         ]
       }
     ],
@@ -48129,7 +48516,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "how-to-find-valid-yesstyle-coupon-codes"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "You have never built a skincare routine and want to start small: mine was three products and about 15 minutes, most of it waiting.",
+        "You get orders in a country where YesStyle ships and are fine with international shipping and delivery times."
+      ],
+      "skipIf": [
+        "Your country is not on YesStyle's delivery list: check before you build the cart.",
+        "You want to know what the routine does for your skin: this is only the first use, and the results are still to come."
+      ]
+    }
   },
   {
     "id": 301,
@@ -48161,19 +48558,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Rutina corta: tres productos y unos 15 minutos, casi todos de espera con el parche puesto",
-      "Parche de hidrogel fresquito, con superficie texturizada que ayuda a que no se resbale",
-      "Crema con textura de pomada que se extiende fácil y deja un toque aterciopelado",
-      "Mascarilla de labios con espátula y un olorcito a dulce que, para mí, no resultó empalagoso",
-      "Productos coreanos vendidos por la propia YesStyle, que declara su originalidad, con el CECILIA010 sumando descuento en el campo Reward Code"
-    ],
-    "cons": [
-      "El PDRN y el retinal actúan de forma gradual: Abib indica la crema para firmeza y líneas finas, es decir, un trabajo a largo plazo.",
-      "El retinal pide protector solar de día: quien, como yo, nunca lo ha usado tendrá que empezar",
-      "La primera vez, dudé sobre cuál era el lado correcto del parche",
-      "Compra internacional: el costo del envío y el plazo dependen del destino"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Respuesta rápida",
@@ -48251,7 +48637,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
         "imageAlt": "Cecília sosteniendo un parche de hidrogel rosado de Abib con el tarro abierto en la otra mano",
         "imageCaption": "El parche de hidrogel de Abib viene en un tarro con 60 unidades y es fresquito al tocar la piel.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Booster Crème 2.5: textura de pomada que se vuelve terciopelo",
@@ -48273,7 +48659,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
         "imageAlt": "Cecília sosteniendo el tubo del Abib PDRN Volume Fill-it Booster Crème 2.5",
         "imageCaption": "El tubo de 30 ml del Booster Crème 2.5: sale como pomada y deja la piel con un toque aterciopelado.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Lip Mask Glazed Jelly: olorcito a dulce que no empalaga",
@@ -48292,7 +48678,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
         "imageAlt": "Cecília haciendo un piquito y sosteniendo el tarro de la mascarilla de labios Abib Glazed Jelly",
         "imageCaption": "La Lip Mask Glazed Jelly, de 11 g, tiene textura de gel y olorcito a dulce.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "PDRN y retinal: qué son y qué esperar",
@@ -48357,7 +48743,8 @@ export const reviewsData: unknown[] = [
           "Textura y luminosidad de la piel del rostro y del cuello;",
           "Si el retinal provoca alguna irritación con el uso continuado;",
           "Si la lip mask mantiene la hidratación de los labios durante la noche."
-        ]
+        ],
+        "emphasis": "Me gusta esta rutina porque cabe en una noche normal, sin el maratón de diez pasos. Lo que hace por mi piel, solo lo diré después de semanas de uso."
       },
       {
         "heading": "Preguntas frecuentes",
@@ -48366,7 +48753,7 @@ export const reviewsData: unknown[] = [
           "¿Qué es el PDRN? Es un ingrediente hecho de fragmentos de ADN, muy usado en cosméticos coreanos que, según las marcas, prometen firmeza. En la lip mask de Abib, la marca informa origen vegetal (centella asiática y ginkgo biloba).",
           "¿El retinal es lo mismo que el ácido retinoico? No. El ingrediente del parche y de la crema es retinal (retinaldehído), un derivado de la vitamina A que la piel convierte en ácido retinoico. Por eso la acción es más gradual, y pide protector solar durante el día.",
           "¿La lip mask de Abib tiene olor fuerte? Tiene un olorcito a dulce. Soy sensible a los olores fuertes, y este no me molestó.",
-          "¿Dónde uso el código CECILIA010? En el campo Reward Code del pago. Da un 5% en la primera compra y un 2% en las siguientes, y puede usarse junto con un cupón del campo Coupon Code, según las reglas de ese cupón."
+          "¿Dónde uso el CECILIA010, el código de recompensa de YesStyle? CECILIA010 da un 5% en la primera compra y un 2% en las siguientes, en el campo Reward Code del pago. Puede sumarse a un cupón de YesStyle del campo Coupon Code, según las reglas de ese cupón."
         ]
       }
     ],
@@ -48389,7 +48776,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "como-encontrar-cupones-yesstyle-validos"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Nunca has armado una rutina de skincare y quieres empezar poco a poco: la mía fueron tres productos y unos 15 minutos, casi todos de espera.",
+        "Recibes en un país donde YesStyle envía y no te molestan el envío y el plazo internacionales."
+      ],
+      "skipIf": [
+        "Tu país no está en la lista de envío de YesStyle: compruébalo antes de armar el carrito.",
+        "Quieres saber qué hace la rutina por tu piel: esto es solo el primer uso, y los resultados aún están por venir."
+      ]
+    }
   },
   {
     "id": 302,
@@ -48419,19 +48816,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Routine courte : trois produits et environ 15 minutes, presque toutes passées à attendre avec le patch sur le visage",
-      "Patch hydrogel bien frais, à la surface texturée qui aide à ne pas glisser",
-      "Crème à la texture de pommade qui s'étale facilement et laisse un toucher velouté",
-      "Masque pour les lèvres avec spatule et petite odeur sucrée qui, pour moi, n'était pas écœurante",
-      "Produits coréens vendus par YesStyle elle-même, qui déclare leur authenticité, avec CECILIA010 qui ajoute une réduction dans le champ Reward Code"
-    ],
-    "cons": [
-      "Le PDRN et le rétinal agissent de façon progressive : Abib recommande la crème pour la fermeté et les ridules, c'est-à-dire un travail à long terme.",
-      "Le rétinal demande une crème solaire de jour : celles qui, comme moi, n'en ont jamais utilisé devront s'y mettre",
-      "La première fois, j'ai hésité sur le bon côté du patch",
-      "Achat international : les frais et le délai de livraison dépendent de la destination"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Réponse rapide",
@@ -48509,7 +48895,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
         "imageAlt": "Cecília tenant un patch hydrogel rosé d'Abib, le pot ouvert dans l'autre main",
         "imageCaption": "Le patch hydrogel d'Abib se présente dans un pot de 60 unités et est bien frais au contact de la peau.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Booster Crème 2.5 : une texture de pommade qui devient velours",
@@ -48531,7 +48917,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
         "imageAlt": "Cecília tenant le tube de l'Abib PDRN Volume Fill-it Booster Crème 2.5",
         "imageCaption": "Le tube de 30 ml du Booster Crème 2.5 : il sort comme une pommade et laisse la peau avec un toucher velouté.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Lip Mask Glazed Jelly : une petite odeur sucrée qui n'écœure pas",
@@ -48550,7 +48936,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
         "imageAlt": "Cecília faisant une moue et tenant le pot du masque pour les lèvres Abib Glazed Jelly",
         "imageCaption": "La Lip Mask Glazed Jelly, de 11 g, a une texture de gel et une petite odeur sucrée.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "PDRN et rétinal : ce qu'ils sont et ce qu'il faut attendre",
@@ -48615,7 +49001,8 @@ export const reviewsData: unknown[] = [
           "Texture et éclat de la peau du visage et du cou ;",
           "Si le rétinal provoque une irritation avec l'usage continu ;",
           "Si la lip mask maintient l'hydratation des lèvres pendant la nuit."
-        ]
+        ],
+        "emphasis": "J'aime cette routine parce qu'elle tient dans une soirée ordinaire, sans le marathon de dix étapes. Ce qu'elle fait pour ma peau, je ne le dirai qu'après des semaines d'utilisation."
       },
       {
         "heading": "Questions fréquentes",
@@ -48624,7 +49011,7 @@ export const reviewsData: unknown[] = [
           "Qu'est-ce que le PDRN ? C'est un ingrédient fabriqué à partir de fragments d'ADN, très utilisé dans les cosmétiques coréens qui promettent de la fermeté, selon les marques. Dans la lip mask d'Abib, la marque indique une origine végétale (centella asiatica et ginkgo biloba).",
           "Le rétinal est-il identique à l'acide rétinoïque ? Non. L'ingrédient du patch et de la crème est le rétinal (rétinaldéhyde), un dérivé de la vitamine A que la peau convertit en acide rétinoïque. C'est pourquoi l'action est plus progressive, et il demande une crème solaire pendant la journée.",
           "La lip mask d'Abib a-t-elle une odeur forte ? Elle a une petite odeur sucrée. Je suis sensible aux odeurs fortes, et celle-ci ne m'a pas dérangée.",
-          "Où utiliser le code CECILIA010 ? Dans le champ Reward Code du paiement. Il donne 5 % sur la première commande et 2 % sur les suivantes, et peut être utilisé avec un coupon saisi dans le champ Coupon Code, selon les règles de ce coupon."
+          "Où utiliser CECILIA010, le code récompense de YesStyle ? CECILIA010 donne 5 % sur la première commande et 2 % sur les suivantes, dans le champ Reward Code du paiement. Il peut s'ajouter à un coupon YesStyle saisi dans le champ Coupon Code, selon les règles de ce coupon."
         ]
       }
     ],
@@ -48649,7 +49036,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "translationKey": "yesstyle-skincare-30",
-    "hideFromPortugueseListings": true
+    "hideFromPortugueseListings": true,
+    "decision": {
+      "takeIf": [
+        "Vous n'avez jamais construit de routine de soin et voulez commencer petit : la mienne, c'était trois produits et environ 15 minutes, presque toutes d'attente.",
+        "Vous recevez dans un pays où YesStyle livre et vous acceptez la livraison et les délais internationaux."
+      ],
+      "skipIf": [
+        "Votre pays ne figure pas dans la liste de livraison de YesStyle : vérifiez avant de composer le panier.",
+        "Vous voulez savoir ce que la routine fait pour votre peau : ce n'est que la première utilisation, et les résultats restent à venir."
+      ]
+    }
   },
   {
     "id": 303,
@@ -48679,19 +49076,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Kurze Routine: drei Produkte und etwa 15 Minuten, fast nur Warten mit dem Patch im Gesicht",
-      "Angenehm kühle Hydrogel-Patches mit strukturierter Oberfläche, die gegen Verrutschen helfen",
-      "Creme mit salbenartiger Textur, die sich leicht verteilen lässt und ein samtiges Hautgefühl hinterlässt",
-      "Lippenmaske mit Spatel und süßlichem Duft, der mir nicht zu viel wurde",
-      "Koreanische Produkte, die YesStyle selbst verkauft und deren Originalität der Shop erklärt, mit CECILIA010 als zusätzlichem Rabatt im Feld Reward Code"
-    ],
-    "cons": [
-      "PDRN und Retinal wirken schrittweise: Abib empfiehlt die Creme für Straffheit und feine Linien, also eine Arbeit auf lange Sicht.",
-      "Retinal verlangt tagsüber Sonnenschutz: Wer wie ich noch nie welchen benutzt hat, muss damit anfangen",
-      "Beim ersten Mal war ich unsicher, welche Seite des Patches die richtige ist",
-      "Internationaler Kauf: Versandkosten und Lieferzeit hängen vom Zielort ab"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Kurze Antwort",
@@ -48769,7 +49155,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
         "imageAlt": "Cecília hält einen rosafarbenen Hydrogel-Patch von Abib, in der anderen Hand den geöffneten Tiegel",
         "imageCaption": "Der Hydrogel-Patch von Abib kommt in einem Tiegel mit 60 Stück und fühlt sich beim Auflegen auf die Haut kühl an.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Booster Crème 2.5: salbenartige Textur, die zu Samt wird",
@@ -48791,7 +49177,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
         "imageAlt": "Cecília hält die Tube der Abib PDRN Volume Fill-it Booster Crème 2.5",
         "imageCaption": "Die 30-ml-Tube der Booster Crème 2.5: Sie kommt wie eine Salbe heraus und hinterlässt ein samtiges Hautgefühl.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Lip Mask Glazed Jelly: süßlicher Duft, der nicht aufdringlich ist",
@@ -48810,7 +49196,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
         "imageAlt": "Cecília macht einen Schmollmund und hält den Tiegel der Abib-Lippenmaske Glazed Jelly",
         "imageCaption": "Die Lip Mask Glazed Jelly mit 11 g hat eine Geltextur und einen süßlichen Duft.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "PDRN und Retinal: was sie sind und was man erwarten kann",
@@ -48875,7 +49261,8 @@ export const reviewsData: unknown[] = [
           "Textur und Frische der Haut im Gesicht und am Hals;",
           "Ob das Retinal bei fortlaufender Anwendung Reizungen verursacht;",
           "Ob die Lip Mask die Feuchtigkeit der Lippen über Nacht hält."
-        ]
+        ],
+        "emphasis": "Mir gefällt diese Routine, weil sie in einen normalen Abend passt, ohne den Zehn-Schritte-Marathon. Was sie für meine Haut tut, sage ich erst nach Wochen der Anwendung."
       },
       {
         "heading": "Häufige Fragen",
@@ -48884,7 +49271,7 @@ export const reviewsData: unknown[] = [
           "Was ist PDRN? Es ist ein Inhaltsstoff aus DNA-Fragmenten, der häufig in koreanischer Kosmetik steckt, die laut den Marken Straffheit verspricht. Bei der Lip Mask von Abib gibt die Marke einen pflanzlichen Ursprung an (Centella asiatica und Ginkgo biloba).",
           "Ist Retinal dasselbe wie Retinsäure? Nein. Der Inhaltsstoff im Patch und in der Creme heißt Retinal oder Retinaldehyd, ein Derivat von Vitamin A, das die Haut in Retinsäure umwandelt. Deshalb ist die Wirkung schrittweiser, und es verlangt tagsüber Sonnenschutz.",
           "Hat die Lip Mask von Abib einen starken Geruch? Sie hat einen süßlichen Duft. Ich reagiere empfindlich auf starke Gerüche, und dieser hat mich nicht gestört.",
-          "Wo verwende ich den Code CECILIA010? Im Feld Reward Code an der Kasse. Er gibt 5 % auf den ersten Einkauf und 2 % auf die folgenden und lässt sich mit einem Coupon im Feld Coupon Code kombinieren, je nach dessen Regeln."
+          "Wo verwende ich den CECILIA010, den Reward Code von YesStyle? Der CECILIA010 gibt 5 % auf den ersten Einkauf und 2 % auf die folgenden, im Feld Reward Code an der Kasse. Er lässt sich mit einem YesStyle-Coupon im Feld Coupon Code kombinieren, je nach dessen Regeln."
         ]
       }
     ],
@@ -48909,7 +49296,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "translationKey": "yesstyle-skincare-30",
-    "hideFromPortugueseListings": true
+    "hideFromPortugueseListings": true,
+    "decision": {
+      "takeIf": [
+        "Sie haben noch nie eine Hautpflege-Routine aufgebaut und wollen klein anfangen: Meine bestand aus drei Produkten und etwa 15 Minuten, die meiste Zeit davon Warten.",
+        "Sie lassen in ein Land liefern, in das YesStyle versendet, und können mit internationalem Versand und Lieferzeiten leben."
+      ],
+      "skipIf": [
+        "Ihr Land steht nicht auf der Lieferliste von YesStyle: Prüfen Sie das, bevor Sie den Warenkorb zusammenstellen.",
+        "Sie wollen wissen, was die Routine für Ihre Haut leistet: Das ist nur die erste Anwendung, die Ergebnisse stehen noch aus."
+      ]
+    }
   },
   {
     "id": 308,
@@ -48939,19 +49336,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Routine breve: tre prodotti e circa 15 minuti, quasi tutti passati ad aspettare con la patch sul viso",
-      "Patch in idrogel freschissima, con superficie texturizzata che aiuta a non scivolare",
-      "Crema con consistenza da unguento che si stende facilmente e lascia un tocco vellutato",
-      "Maschera labbra con spatolina e un profumino dolce che, per me, non stufa",
-      "Prodotti coreani venduti dalla stessa YesStyle, che ne dichiara l'originalità, con il CECILIA010 che aggiunge sconto nel campo Reward Code"
-    ],
-    "cons": [
-      "PDRN e retinale agiscono gradualmente: Abib indica la crema per fermezza e rughe sottili, cioè un lavoro a lungo termine.",
-      "Il retinale richiede la protezione solare di giorno: chi, come me, non l'ha mai usata dovrà iniziare",
-      "La prima volta ho avuto dei dubbi su quale fosse il lato giusto della patch",
-      "Acquisto internazionale: costi e tempi di consegna dipendono dalla destinazione"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Risposta rapida",
@@ -49029,7 +49415,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
         "imageAlt": "Cecília con in mano una patch in idrogel rosata di Abib e il barattolo aperto nell'altra mano",
         "imageCaption": "La patch in idrogel di Abib si presenta in un barattolo da 60 unità ed è freschissima al contatto con la pelle.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Booster Crème 2.5: consistenza da unguento che diventa velluto",
@@ -49051,7 +49437,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
         "imageAlt": "Cecília con in mano il tubetto dell'Abib PDRN Volume Fill-it Booster Crème 2.5",
         "imageCaption": "Il tubetto da 30 ml del Booster Crème 2.5: esce come un unguento e lascia la pelle con un tocco vellutato.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Lip Mask Glazed Jelly: profumino dolce che non stufa",
@@ -49070,7 +49456,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
         "imageAlt": "Cecília che fa il labbruccio e tiene in mano il barattolo della maschera labbra Abib Glazed Jelly",
         "imageCaption": "La Lip Mask Glazed Jelly, da 11 g, ha una consistenza in gel e un profumino dolce.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "PDRN e retinale: cosa sono e cosa aspettarsi",
@@ -49135,7 +49521,8 @@ export const reviewsData: unknown[] = [
           "Consistenza e luminosità della pelle di viso e collo;",
           "Se il retinale causerà qualche irritazione con l'uso continuato;",
           "Se la lip mask mantiene l'idratazione delle labbra durante la notte."
-        ]
+        ],
+        "emphasis": "Mi piace questa routine perché sta in una sera qualsiasi, senza la maratona da dieci passaggi. Cosa fa per la mia pelle lo dirò solo dopo settimane di utilizzo."
       },
       {
         "heading": "Domande frequenti",
@@ -49144,7 +49531,7 @@ export const reviewsData: unknown[] = [
           "Che cos'è il PDRN? È un ingrediente fatto di frammenti di DNA, molto usato nei cosmetici coreani che, secondo i marchi, promettono fermezza. Nella lip mask di Abib, il marchio informa un'origine vegetale (centella asiatica e ginkgo biloba).",
           "Il retinale è la stessa cosa dell'acido retinoico? No. L'ingrediente della patch e della crema è il retinale (retinaldeide), un derivato della vitamina A che la pelle converte in acido retinoico. Per questo l'azione è più graduale, e richiede la protezione solare durante il giorno.",
           "La lip mask di Abib ha un odore forte? Ha un profumino dolce. Sono sensibile agli odori forti, e questo non mi ha dato fastidio.",
-          "Dove uso il codice CECILIA010? Nel campo Reward Code del checkout. Dà il 5% sul primo acquisto e il 2% sui successivi, e si può usare insieme a un coupon inserito nel campo Coupon Code, secondo le regole di quel coupon."
+          "Dove uso CECILIA010, il codice ricompensa di YesStyle? CECILIA010 dà il 5% sul primo acquisto e il 2% sui successivi, nel campo Reward Code del checkout. Si può sommare a un coupon di YesStyle inserito nel campo Coupon Code, secondo le regole di quel coupon."
         ]
       }
     ],
@@ -49169,7 +49556,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "translationKey": "yesstyle-skincare-30",
-    "hideFromPortugueseListings": true
+    "hideFromPortugueseListings": true,
+    "decision": {
+      "takeIf": [
+        "Non hai mai costruito una routine di skincare e vuoi iniziare in piccolo: la mia erano tre prodotti e circa 15 minuti, quasi tutti di attesa.",
+        "Ricevi in un paese dove YesStyle consegna e ti vanno bene la spedizione e i tempi internazionali."
+      ],
+      "skipIf": [
+        "Il tuo paese non è nell'elenco delle consegne di YesStyle: controlla prima di preparare il carrello.",
+        "Vuoi sapere cosa fa la routine per la tua pelle: questo è solo il primo utilizzo, e i risultati devono ancora arrivare."
+      ]
+    }
   },
   {
     "id": 304,
@@ -49201,19 +49598,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "짧은 루틴: 제품 세 가지에 15분 정도, 대부분은 패치를 붙이고 기다리는 시간",
-      "하이드로겔 패치가 시원하고, 표면에 질감이 있어 잘 미끄러지지 않음",
-      "연고 같은 질감의 크림이 잘 펴 발리고 벨벳 같은 촉감을 남김",
-      "스패출러가 달린 립 마스크는 달콤한 향이 나는데, 제겐 느끼하지 않았음",
-      "한국 제품을 YesStyle이 직접 판매하고 정품임을 밝히며, CECILIA010은 Reward Code 칸에 넣으면 할인이 더해짐"
-    ],
-    "cons": [
-      "PDRN과 레티날은 천천히 작용해요. 아비브는 이 크림을 탄력과 잔주름용 장기 관리로 안내해요.",
-      "레티날을 쓰면 낮에는 선크림이 필요함. 저처럼 한 번도 안 써 본 사람은 이 습관부터 만들어야 함",
-      "처음에는 패치의 앞뒤를 헷갈렸음",
-      "해외 구매라 배송비와 배송 기간이 배송지에 따라 달라짐"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "빠른 답변",
@@ -49291,7 +49677,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
         "imageAlt": "분홍색 아비브 하이드로겔 패치를 들고, 다른 손에는 열린 통을 든 Cecília",
         "imageCaption": "아비브 하이드로겔 패치는 60개들이 통에 담겨 있고, 피부에 닿으면 시원해요.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Booster Crème 2.5: 연고 같은 질감이 벨벳이 돼요",
@@ -49313,7 +49699,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
         "imageAlt": "아비브 PDRN Volume Fill-it Booster Crème 2.5 튜브를 들고 있는 Cecília",
         "imageCaption": "30 ml Booster Crème 2.5 튜브: 연고처럼 나와서 피부에 벨벳 같은 촉감을 남겨요.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Lip Mask Glazed Jelly: 느끼하지 않은 달콤한 향",
@@ -49332,7 +49718,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
         "imageAlt": "입술을 쭉 내밀고 아비브 Glazed Jelly 립 마스크 통을 들고 있는 Cecília",
         "imageCaption": "11 g짜리 Lip Mask Glazed Jelly는 젤 질감에 달콤한 향이 나요.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "PDRN과 레티날 기본: 기대할 수 있는 것",
@@ -49397,7 +49783,8 @@ export const reviewsData: unknown[] = [
           "얼굴과 목 피부의 결과 윤기;",
           "계속 쓰면 레티날 때문에 자극이 생기는지;",
           "립 마스크가 밤새 입술 보습을 지켜 주는지."
-        ]
+        ],
+        "emphasis": "이 루틴이 마음에 드는 이유는 열 단계짜리 마라톤 없이 평범한 저녁에 들어가기 때문이에요. 내 피부에 무엇을 해 주는지는 몇 주 써 보고 나서야 말할 수 있어요."
       },
       {
         "heading": "자주 묻는 질문",
@@ -49406,7 +49793,7 @@ export const reviewsData: unknown[] = [
           "PDRN이 뭔가요? DNA 조각으로 만든 성분으로, 브랜드들이 탄력을 내세우는 한국 화장품에 많이 쓰여요. 아비브 립 마스크는 아비브가 식물 유래(병풀과 은행나무)라고 밝혀요.",
           "레티날은 레티노산과 같은 건가요? 아니에요. 패치와 크림의 성분은 레티날(레티날데하이드)이고, 비타민 A 유도체로 피부에서 레티노산으로 바뀌어요. 그래서 작용이 더 서서히 일어나고, 낮에는 선크림이 필요해요.",
           "아비브 립 마스크는 향이 강한가요? 달콤한 향이 나요. 저는 강한 향에 예민한 편인데 이건 거슬리지 않았어요.",
-          "CECILIA010은 어디에 쓰나요? 결제 화면의 Reward Code 칸이에요. 첫 구매는 5%, 이후 구매는 2% 할인되고, Coupon Code 칸에 넣은 쿠폰과 그 쿠폰의 조건에 따라 함께 쓸 수 있어요."
+          "YesStyle 리워드 코드 CECILIA010은 어디에 쓰나요? CECILIA010은 결제 화면의 Reward Code 칸에 넣으면 첫 구매는 5%, 이후 구매는 2% 할인돼요. YesStyle 쿠폰을 Coupon Code 칸에 넣었다면 그 쿠폰의 조건에 따라 함께 쓸 수 있어요."
         ]
       }
     ],
@@ -49429,7 +49816,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-valid-coupon-guide-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "스킨케어 루틴을 한 번도 만들어 본 적이 없어서 작게 시작하고 싶어요. 제 루틴은 제품 세 가지에 15분 정도였고, 대부분이 기다리는 시간이었어요.",
+        "YesStyle이 배송하는 나라에서 받고, 해외 배송과 배송 기간을 감수할 수 있어요."
+      ],
+      "skipIf": [
+        "내 나라가 YesStyle 배송 목록에 없어요. 장바구니를 담기 전에 확인하세요.",
+        "이 루틴이 피부에 무엇을 해 주는지 알고 싶어요. 이 글은 첫 사용 기록일 뿐이고, 결과는 아직 나오지 않았어요."
+      ]
+    }
   },
   {
     "id": 305,
@@ -49461,19 +49858,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "ルーティンは短め：3品で約15分、ほとんどはアイパッチをつけて待つ時間",
-      "ハイドロゲルのアイパッチはひんやり。表面に凹凸があって滑りにくい",
-      "軟膏のようなテクスチャーのクリームは伸びがよく、ベルベットのようなさらっとした仕上がり",
-      "スパチュラ付きのリップマスクは甘い香りで、私には重たく感じなかった",
-      "コリアンコスメをYesStyleが直接販売していて、本物であることを明記。CECILIA010はReward Codeの欄に入れると割引が上乗せされる"
-    ],
-    "cons": [
-      "PDRNとレチナールはゆっくり働きます。Abibはこのクリームをハリと小じわ用の長期のケアとして案内しています。",
-      "レチナールを使うなら日中は日焼け止めが必要。私のように使ったことがない人は、まずその習慣から",
-      "初めてのときは、アイパッチの表裏がわからず迷った",
-      "海外購入なので、送料と届くまでの日数はお届け先によって変わる"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "クイックアンサー",
@@ -49551,7 +49937,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
         "imageAlt": "ピンク色のAbibのハイドロゲルパッチを持つCecília。もう片方の手には開けたジャー",
         "imageCaption": "Abibのハイドロゲルパッチは60枚入りのジャーで、肌に触れるとひんやりします。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Booster Crème 2.5：軟膏のようなテクスチャーがベルベットに変わる",
@@ -49573,7 +49959,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
         "imageAlt": "Abib PDRN Volume Fill-it Booster Crème 2.5のチューブを持つCecília",
         "imageCaption": "30 mlのBooster Crème 2.5のチューブ：軟膏のように出てきて、肌はベルベットのような手ざわりに。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Lip Mask Glazed Jelly：重たくない甘い香り",
@@ -49592,7 +49978,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
         "imageAlt": "唇をとがらせて、Abib Glazed Jellyのリップマスクのジャーを持つCecília",
         "imageCaption": "11 gのLip Mask Glazed Jellyは、ジェルのテクスチャーで甘い香りがします。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "PDRNとレチナールの基本：期待できること",
@@ -49657,7 +50043,8 @@ export const reviewsData: unknown[] = [
           "顔と首の肌のキメとツヤ；",
           "続けて使うと、レチナールで肌が荒れないか；",
           "リップマスクが夜のあいだ唇のうるおいを保ってくれるか。"
-        ]
+        ],
+        "emphasis": "このルーティンが気に入ったのは、10ステップの長丁場にならず、ふつうの夜に収まるからです。肌に何をしてくれるかは、数週間使ってからお話しします。"
       },
       {
         "heading": "よくある質問",
@@ -49666,7 +50053,7 @@ export const reviewsData: unknown[] = [
           "PDRNとは？ DNAの断片から作られる成分で、ハリをうたうコリアンコスメによく使われています（ブランドによる）。AbibのリップマスクについてはAbibが植物由来（ツボクサとイチョウ）と説明しています。",
           "レチナールはレチノイン酸と同じ？ いいえ。パッチとクリームの成分はレチナール（レチンアルデヒド）です。ビタミンA誘導体で、肌の中でレチノイン酸に変わります。そのため作用はゆるやかで、日中は日焼け止めが必要です。",
           "Abibのリップマスクはにおいが強い？ 甘い香りがします。私は強い香りが苦手ですが、これは気になりませんでした。",
-          "CECILIA010はどこで使う？ チェックアウトのReward Codeの欄です。初回購入は5％、2回目以降は2％で、Coupon Codeの欄に入れたクーポンと、そのクーポンの条件に沿って併用できます。"
+          "YesStyleのリワードコードCECILIA010はどこで使う？ CECILIA010はチェックアウトのReward Code欄に入れると、初回購入は5％、2回目以降は2％になります。Coupon Code欄に入れたYesStyleのクーポンとも、そのクーポンの条件に沿って併用できます。"
         ]
       }
     ],
@@ -49689,7 +50076,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-valid-coupon-guide-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "スキンケアのルーティンを一度も組んだことがなく、小さく始めたい：私のは3点で15分ほど、ほとんどが待ち時間でした。",
+        "YesStyleが配送している国で受け取り、海外配送とその日数を受け入れられる。"
+      ],
+      "skipIf": [
+        "お住まいの国がYesStyleの配送先に含まれていない：カートを作る前に確認してください。",
+        "ルーティンが肌に何をしてくれるかを知りたい：これは初回使用の記録で、結果はまだこれからです。"
+      ]
+    }
   },
   {
     "id": 306,
@@ -49720,19 +50117,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "流程很短：三樣產品，大約 15 分鐘，大部分時間是貼著眼膜在等",
-      "水凝膠眼膜貼涼涼的，表面有紋路，不容易滑掉",
-      "面霜是軟膏般的質地，很好推開，留下絲絨般的觸感",
-      "附小刮勺的護唇膜有甜甜的香氣，對我來說不膩",
-      "韓國產品由 YesStyle 直接販售並聲明為正品；CECILIA010 填在 Reward Code 欄位，折扣可以疊加"
-    ],
-    "cons": [
-      "PDRN 與視黃醛作用循序漸進。Abib 把這款面霜定位為緊緻與細紋保養，是長期的功課。",
-      "用視黃醛，白天就要擦防曬。像我這樣從沒用過的人，得先養成這個習慣",
-      "第一次用的時候，我不確定眼膜貼要貼哪一面",
-      "跨境購買，運費和到貨時間取決於寄送目的地"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "快速解答",
@@ -49810,7 +50196,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
         "imageAlt": "Cecília 一手拿著粉色的 Abib 水凝膠眼膜貼，另一手拿著打開的罐子",
         "imageCaption": "Abib 水凝膠眼膜貼裝在 60 片的罐子裡，貼上肌膚時涼涼的。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Booster Crème 2.5：軟膏般的質地變成絲絨",
@@ -49832,7 +50218,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
         "imageAlt": "Cecília 手拿 Abib PDRN Volume Fill-it Booster Crème 2.5 的軟管",
         "imageCaption": "30 ml 的 Booster Crème 2.5 軟管：擠出來像軟膏，肌膚帶著絲絨般的觸感。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Lip Mask Glazed Jelly：不膩的甜甜香氣",
@@ -49851,7 +50237,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
         "imageAlt": "Cecília 嘟著嘴，手拿 Abib Glazed Jelly 護唇膜的罐子",
         "imageCaption": "11 g 的 Lip Mask Glazed Jelly 是凝膠質地，帶有甜甜的香氣。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "PDRN 與視黃醛的基本：可以期待什麼",
@@ -49916,7 +50302,8 @@ export const reviewsData: unknown[] = [
           "臉部與頸部肌膚的質地與光澤；",
           "持續使用後，視黃醛是否會帶來刺激；",
           "護唇膜能否讓嘴唇整晚維持濕潤。"
-        ]
+        ],
+        "emphasis": "我喜歡這套流程，是因為它放得進平常的一個晚上，不用走十個步驟的馬拉松。它對我的肌膚有什麼作用，要用上幾週之後我才會說。"
       },
       {
         "heading": "常見問題",
@@ -49925,7 +50312,7 @@ export const reviewsData: unknown[] = [
           "PDRN 是什麼？ 它是以 DNA 片段製成的成分，常見於主打緊緻的韓國化妝品（依品牌說明）。Abib 說明其護唇膜中的 PDRN 來自植物（積雪草與銀杏）。",
           "視黃醛和視黃酸是同一種東西嗎？ 不是。眼膜貼與面霜中的成分是視黃醛，它是維生素 A 的衍生物，肌膚會把它轉化為視黃酸。所以作用更循序漸進，白天需要擦防曬。",
           "Abib 護唇膜味道重嗎？ 有甜甜的香氣。我對濃烈的味道比較敏感，這個並沒有困擾我。",
-          "CECILIA010 填在哪裡？ 填在結帳頁的 Reward Code 欄位。首次購買享 5%，之後每次 2%，而且可以依規則和你填在 Coupon Code 欄位的優惠券疊加使用。"
+          "YesStyle 的獎勵碼 CECILIA010 填在哪裡？ CECILIA010 填在結帳頁的 Reward Code 欄位，首次購買享 5%，之後每次 2%。它也可以依規則和你填在 Coupon Code 欄位的 YesStyle 優惠券疊加使用。"
         ]
       }
     ],
@@ -49949,7 +50336,17 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-valid-coupon-guide-zh-hant"
       }
     ],
-    "translationKey": "yesstyle-skincare-30"
+    "translationKey": "yesstyle-skincare-30",
+    "decision": {
+      "takeIf": [
+        "你從沒建立過護膚流程，想從小處開始：我的流程是三樣產品、約 15 分鐘，大部分時間是在等待。",
+        "你的收件國家在 YesStyle 的配送範圍內，也能接受國際運費與送達時間。"
+      ],
+      "skipIf": [
+        "你的國家不在 YesStyle 的配送清單上：組購物車之前先確認。",
+        "你想知道這套流程對肌膚到底有什麼作用：這只是第一次使用的紀錄，結果還沒出來。"
+      ]
+    }
   },
   {
     "id": 307,
@@ -49980,19 +50377,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "流程很短：三件产品，大约 15 分钟，大部分时间是敷着眼贴等待",
-      "水凝胶眼贴凉凉的，表面有纹理，不容易滑落",
-      "面霜是软膏般的质地，容易推开，留下丝绒般的触感",
-      "带小刮勺的唇膜有甜甜的香气，对我来说不腻",
-      "韩国产品由 YesStyle 直接销售，并声明为正品；CECILIA010 填在 Reward Code 栏位，折扣可以叠加"
-    ],
-    "cons": [
-      "PDRN 和视黄醛作用循序渐进。Abib 把这款面霜定位为紧致和细纹护理，是长期的功课。",
-      "用视黄醛，白天就要涂防晒。像我这样从没用过的人，得先养成这个习惯",
-      "第一次用时，我拿不准眼贴该贴哪一面",
-      "跨境购买，运费和到货时间取决于寄送目的地"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "快速回答",
@@ -50070,7 +50456,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
         "imageAlt": "Cecília 一手拿着粉色的 Abib 水凝胶眼贴，另一手拿着打开的罐子",
         "imageCaption": "Abib 水凝胶眼贴装在 60 片的罐子里，贴上皮肤时凉凉的。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Booster Crème 2.5：软膏般的质地变成丝绒",
@@ -50092,7 +50478,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
         "imageAlt": "Cecília 手拿 Abib PDRN Volume Fill-it Booster Crème 2.5 的软管",
         "imageCaption": "30 ml 的 Booster Crème 2.5 软管：挤出来像软膏，皮肤带着丝绒般的触感。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Lip Mask Glazed Jelly：不腻的甜甜香气",
@@ -50111,7 +50497,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
         "imageAlt": "Cecília 嘟着嘴，手拿 Abib Glazed Jelly 唇膜的罐子",
         "imageCaption": "11 g 的 Lip Mask Glazed Jelly 是啫喱质地，带甜甜的香气。",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "PDRN 和视黄醛的基本：可以期待什么",
@@ -50176,7 +50562,8 @@ export const reviewsData: unknown[] = [
           "脸部和颈部皮肤的质感和光泽；",
           "持续使用后，视黄醛是否会带来刺激；",
           "唇膜能否让嘴唇整晚保持湿润。"
-        ]
+        ],
+        "emphasis": "我喜欢这套流程，是因为它放得进平常的一个晚上，不用走十个步骤的马拉松。它对我的皮肤有什么作用，要用上几周之后我才会说。"
       },
       {
         "heading": "常见问题",
@@ -50185,7 +50572,7 @@ export const reviewsData: unknown[] = [
           "PDRN 是什么？ 它是用 DNA 片段制成的成分，常见于主打紧致的韩国化妆品（据品牌说明）。Abib 说明其唇膜中的 PDRN 来自植物（积雪草和银杏）。",
           "视黄醛和视黄酸是一回事吗？ 不是。眼贴和面霜中的成分是视黄醛，它是维生素 A 的衍生物，皮肤会把它转化为视黄酸。所以作用更循序渐进，白天需要涂防晒。",
           "Abib 唇膜气味重吗？ 有甜甜的香气。我对浓烈气味比较敏感，这个并没有困扰我。",
-          "CECILIA010 填在哪里？ 填在结账页的 Reward Code 栏位。首次购买享 5%，之后每次 2%，并且可以按规则和你填在 Coupon Code 栏位的优惠券叠加使用。"
+          "YesStyle 的奖励码 CECILIA010 填在哪里？ CECILIA010 填在结账页的 Reward Code 栏位，首次购买享 5%，之后每次 2%。它也可以按规则和你填在 Coupon Code 栏位的 YesStyle 优惠券叠加使用。"
         ]
       }
     ],
@@ -50209,7 +50596,17 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-valid-coupon-guide-zh-hans"
       }
     ],
-    "translationKey": "yesstyle-skincare-30"
+    "translationKey": "yesstyle-skincare-30",
+    "decision": {
+      "takeIf": [
+        "你从没建立过护肤流程，想从小处开始：我的流程是三件产品、约 15 分钟，大部分时间是在等待。",
+        "你的收货国家在 YesStyle 的配送范围内，也能接受国际运费和送达时间。"
+      ],
+      "skipIf": [
+        "你所在的国家不在 YesStyle 的配送范围内：请在组购物车之前先确认。",
+        "你想知道这套流程对皮肤到底有什么作用：这只是第一次使用的记录，结果还没出来。"
+      ]
+    }
   },
   {
     "id": 309,
@@ -50218,6 +50615,13 @@ export const reviewsData: unknown[] = [
     "seoTitle": "Codice ricompensa YesStyle CECILIA010: come usarlo",
     "type": "Guida e coupon",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "Guida pratica per usare il codice influencer CECILIA010 su YesStyle. Scopri dove inserirlo al checkout (Reward Code), come abbinarlo ai coupon attivi e i consigli per la K-Beauty.",
     "metaDescription": "Come usare CECILIA010 su YesStyle: campo Reward Code, fino al 5% extra (5% sul primo ordine e 2% sui successivi), abbinabile ai coupon promozionali idonei secondo il checkout.",
     "publishedAt": "28 settembre 2026",
@@ -50229,20 +50633,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Maschera labbra Abib PDRN Collagen Glazed Jelly in un'immagine ufficiale del produttore, accanto al logo YesStyle e al codice ricompensa CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Codice influencer che aggiunge fino al 5% extra ai coupon promozionali idonei",
-      "Valido sia per il primo ordine (5% extra) sia per gli acquisti successivi (2% extra)",
-      "Spedizione gratuita sopra un importo minimo, che compare al checkout",
-      "Vasto catalogo di K-Beauty, moda coreana e J-Beauty",
-      "YesStyle afferma di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana",
-      "Selettore della lingua in alto nel sito"
-    ],
-    "cons": [
-      "Non sostituisce i coupon normali (funziona in un campo separato)",
-      "Gli ordini internazionali possono comportare spese doganali; controlla la politica di rimborso di YesStyle prima di acquistare",
-      "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio locale",
-      "Prezzi convertiti con il tasso di cambio interno di YesStyle, con possibili commissioni bancarie per acquisti all'estero"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Risposta rapida",
@@ -50346,8 +50738,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "Riepilogo dell'ordine su YesStyle con coupon e codice CECILIA010 applicati e sconti separati.",
         "imageCaption": "Nel riepilogo gli sconti compaiono separati: coupon attivo e CECILIA010 come codice influencer.",
-        "imageFit": "contain",
-        "emphasis": "Il consiglio di Cecília: non concludere l'acquisto solo perché il codice è stato accettato. Controlla l'importo finale nel riepilogo dell'ordine e verifica che lo sconto sia davvero comparso prima di pagare."
+        "imageFit": "contain"
       },
       {
         "heading": "Come trovare i coupon attivi di YesStyle",
@@ -50396,7 +50787,8 @@ export const reviewsData: unknown[] = [
           "Leggi le recensioni (reviews): foto reali, commenti su consistenza, profumo e risultato, informazioni sulla scadenza.",
           "Tieni d'occhio le stagioni: Black Friday (novembre), 11.11 (Giornata dei single), Natale, Summer Sale (giugno/luglio), Back to School (agosto/settembre).",
           "Usa sempre CECILIA010: non costa nulla, aggiunge fino al 5% extra (5% sul 1º ordine / 2% sui successivi) se applicato correttamente e sostiene il blog."
-        ]
+        ],
+        "emphasis": "Il 5% del primo ordine e il 2% dei successivi sembrano poco, ma costano solo il tempo di incollare un codice in un campo. Io lo applico a ogni carrello prima ancora di pensare a un coupon: è lo sconto più facile da ottenere e più facile da dimenticare."
       },
       {
         "heading": "Domande frequenti sul codice CECILIA010 su YesStyle (FAQ)",
@@ -50425,7 +50817,8 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Usa il codice influencer ufficiale CECILIA010 al pagamento su YesStyle.",
       "label": "Vai su YesStyle e usa il codice CECILIA010",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -50440,7 +50833,34 @@ export const reviewsData: unknown[] = [
     "locale": "it",
     "translationKey": "yesstyle-reward-code",
     "category": "cupons-como-usar",
-    "isNew": false
+    "isNew": false,
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-primo-ordine-codice-cecilia010"
+      },
+      {
+        "slug": "come-trovare-codici-sconto-yesstyle-validi"
+      },
+      {
+        "slug": "yesstyle-e-affidabile-e-sicuro"
+      },
+      {
+        "slug": "app-yesstyle-come-acquistare-codice-ricompensa"
+      },
+      {
+        "slug": "yesstyle-spedizione-italia-tempi-costi-dogana"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Stai per ordinare su YesStyle e vuoi un piccolo sconto in più oltre al coupon del negozio.",
+        "Hai già un coupon a portata di mano e vuoi sapere in quale campo va ogni codice."
+      ],
+      "skipIf": [
+        "Ti aspetti uno sconto grande: CECILIA010 dà il 5% sul primo ordine e il 2% sui successivi, e basta.",
+        "Cerchi un codice che sostituisca il coupon del negozio: CECILIA010 si somma a un solo coupon e non ne fa le veci."
+      ]
+    }
   },
   {
     "id": 310,
@@ -50449,6 +50869,13 @@ export const reviewsData: unknown[] = [
     "seoTitle": "Come trovare e combinare i coupon YesStyle con CECILIA010",
     "type": "Guida e coupon",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "Guida pratica per trovare i coupon YesStyle validi, capire la differenza tra Coupon Code e Reward Code e usare CECILIA010: 5% sul primo acquisto e 2% sui successivi.",
     "metaDescription": "Dove trovare i coupon YesStyle in corso, come evitare i codici scaduti e come aggiungere il codice ricompensa CECILIA010 per risparmiare fino al 5% in più.",
     "publishedAt": "28 settembre 2026",
@@ -50473,43 +50900,13 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília con una fascia rosa mostra il vasetto aperto dei patch occhi in idrogel rosa Abib in un fotogramma del proprio video. In copertina: «Come trovare e combinare coupon» e «Coupon del negozio + codice ricompensa», con il codice ricompensa CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Insegna a distinguere il Coupon Code dal Reward Code per evitare errori al checkout",
-      "Spiega come sommare il coupon del mese a CECILIA010",
-      "Mostra come risparmiare fino al 5% in più con il codice influencer ufficiale",
-      "Indica dove trovare i coupon YesStyle in corso per evitare codici falsi o scaduti",
-      "Porta alla pagina aggiornata di Em Casa com Cecília con l'elenco dei coupon in vigore"
-    ],
-    "cons": [
-      "I coupon promozionali mensili hanno scadenze brevi (di solito da 72 ore a 30 giorni)",
-      "Lo sconto di CECILIA010 varia tra il 5% sul primo acquisto e il 2% sugli acquisti successivi",
-      "Il totale è nella valuta scelta sul sito, al cambio di YesStyle, e la banca può applicare una commissione per gli acquisti internazionali"
-    ],
-    "pullQuote": "Inserisci CECILIA010 nel campo Reward Code: 5% sul primo acquisto e 2% sui successivi. Se la promozione lo consente, applica anche un coupon nel campo Coupon Code e controlla entrambi gli sconti nel riepilogo dell'ordine.",
-    "productSpec": [
-      {
-        "key": "Negozio",
-        "value": "YesStyle (ufficiale)"
-      },
-      {
-        "key": "Codice ricompensa",
-        "value": "CECILIA010 (fino al 5% in più)",
-        "highlight": true
-      },
-      {
-        "key": "Campo al checkout",
-        "value": "Reward Code"
-      },
-      {
-        "key": "Cumulabile",
-        "value": "Si può combinare con i coupon promozionali idonei; verifica al checkout"
-      }
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "Sulla nostra pagina, l'elenco dei coupon YesStyle è aggiornato al 22 novembre 2026.",
-      "label": "Vedi i coupon YesStyle attivi",
-      "url": "/it/coupons/yesstyle",
-      "sponsored": false
+      "text": "Incolla CECILIA010 nel campo Reward Code: 5% extra sul primo ordine e 2% sui successivi.",
+      "label": "Vai su YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -50517,6 +50914,18 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "codice-ricompensa-yesstyle-cecilia010"
+      },
+      {
+        "slug": "yesstyle-primo-ordine-codice-cecilia010"
+      },
+      {
+        "slug": "yesstyle-e-affidabile-e-sicuro"
+      },
+      {
+        "slug": "app-yesstyle-come-acquistare-codice-ricompensa"
+      },
+      {
+        "slug": "yesstyle-spedizione-italia-tempi-costi-dogana"
       }
     ],
     "contentSections": [
@@ -50548,7 +50957,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Schermata del checkout di YesStyle con i campi Coupon Code e Reward Code.",
         "imageCaption": "I due campi separati del checkout: Coupon Code (per i coupon di promozione) e Reward Code (per CECILIA010). Il coupon nello screenshot è di una campagna già conclusa.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "bullets": [
           "1. Campo «Coupon Code» (codice coupon): è qui che inserisci i coupon promozionali del sito YesStyle (come i coupon dei saldi o le campagne dal 10% al 15%).",
           "2. Campo «Reward Code» / «Influencer Code» (codice ricompensa): è qui che inserisci il codice influencer ufficiale CECILIA010, con il 5% in più sul primo acquisto e il 2% sui successivi."
@@ -50589,7 +50998,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
         "imageAlt": "Schermata del carrello nel negozio YesStyle.",
         "imageCaption": "Schermata di riepilogo del carrello su YesStyle prima di applicare i codici sconto.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Passo 3: applica il coupon della promozione nel campo Coupon Code",
@@ -50606,12 +51015,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Passo 5: conferma lo sconto cumulato e concludi l'ordine",
         "paragraphs": [
-          "Nel riepilogo dell'ordine, conferma i due sconti prima di pagare: il coupon e CECILIA010."
+          "Nel riepilogo dell'ordine, conferma i due sconti prima di pagare: il coupon e CECILIA010.",
+          "Il totale è nella valuta scelta sul sito, al cambio di YesStyle, e la banca può applicare una commissione per gli acquisti internazionali."
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "Riepilogo finale dell'ordine su YesStyle con gli sconti cumulati.",
         "imageCaption": "Riepilogo del checkout che conferma la doppietta: coupon di promozione + codice ricompensa CECILIA010 cumulati con successo. Il coupon nello screenshot è di una campagna già conclusa.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Dove trovare i coupon YesStyle in corso",
@@ -50631,7 +51041,8 @@ export const reviewsData: unknown[] = [
             "href": "https://ystyle.co/rQYQv",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "I coupon cambiano di settimana in settimana, CECILIA010 resta. Io inserisco prima il codice ricompensa nel campo Reward Code e solo dopo controllo quale coupon accetta oggi il checkout."
       },
       {
         "heading": "Domande frequenti sui coupon YesStyle",
@@ -50640,7 +51051,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Qual è la differenza tra Coupon Code e Influencer/Rewards Code su YesStyle? Il Coupon Code è il coupon di promozione, nel campo «Coupon Code», con scadenza e regole proprie: può avere un acquisto minimo, una restrizione regionale o prodotti esclusi. CECILIA010 è il codice ricompensa (Influencer/Rewards Code), nel campo separato «Reward Code», con il 5% sul primo acquisto e il 2% sui successivi. Quando le regole della promozione lo consentono, i due sconti possono comparire insieme nel riepilogo dell'ordine.",
-          "Che cos'è il codice influencer di YesStyle? È il codice ricompensa (Reward Code), che si digita in un campo apposito del checkout, separato da quello del coupon. Il nostro è CECILIA010, che va nel campo Reward Code.",
+          "Qual è il codice ricompensa (codice influencer) di YesStyle? CECILIA010: dà il 5% in più sul primo ordine e il 2% sui successivi, va nel campo Reward Code e si somma a un coupon del negozio nel campo Coupon Code. È il codice influencer di Cecília.",
           "I coupon YesStyle hanno una scadenza? Sì. I coupon promozionali hanno una data di scadenza e possono terminare senza preavviso. Alcune campagne durano pochi giorni (come le promozioni di 72 o 96 ore), altre restano attive per periodi diversi. Prima di concludere l'acquisto, controlla nelle regole della promozione la validità, l'importo minimo, la regione e i prodotti idonei, e verifica che lo sconto sia comparso al checkout.",
           "Dove trovo le regole ufficiali dei coupon YesStyle? Le regole generali sono nella pagina «General Terms and Conditions for Coupons» del centro assistenza di YesStyle. Per le condizioni di una campagna specifica, vai al centro assistenza e apri la sezione «Promotions», dove YesStyle pubblica validità, acquisto minimo, regioni partecipanti ed eventuali esclusioni. Poiché queste condizioni cambiano, consulta anche il banner della promozione e il riepilogo dell'ordine prima di pagare.",
           "Posso usare più di un coupon promozionale nello stesso ordine? No. Secondo le regole generali di YesStyle, si può usare un solo Coupon Code per ordine o ordine combinato. CECILIA010, però, non è un Coupon Code: va applicato nel campo separato «Reward Code». Per questo un coupon promozionale e CECILIA010 si possono combinare quando la campagna è idonea e il checkout accetta entrambi."
@@ -50661,7 +51072,17 @@ export const reviewsData: unknown[] = [
     "translationKey": "yesstyle-coupon-guide",
     "category": "cupons-como-usar",
     "isNew": false,
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-06",
+    "decision": {
+      "takeIf": [
+        "Sei al checkout di YesStyle con un coupon e non sai in quale campo va ogni codice.",
+        "Il tuo coupon è stato rifiutato e vuoi capire perché prima di cercarne un altro."
+      ],
+      "skipIf": [
+        "Cerchi un coupon pronto da copiare: qui trovi il metodo, mentre l'elenco del momento sta nella nostra pagina dei coupon YesStyle.",
+        "Vuoi sommare due coupon del negozio: YesStyle accetta un solo Coupon Code per ordine, e solo CECILIA010 va in un campo a parte."
+      ]
+    }
   },
   {
     "id": 311,
@@ -50704,7 +51125,6 @@ export const reviewsData: unknown[] = [
           "YesStyle ha sede a Hong Kong ed esiste dal 2006. Appartiene a YesAsia Holdings (2209.HK), quotata alla Borsa di Hong Kong, come mostrano la [pagina business della capogruppo](https://www.yesasiaholdings.com/business.html) e le [relazioni con gli investitori](https://www.yesasiaholdings.com/investor-relations.html).",
           "YesStyle serve clienti in oltre 150 paesi e regioni, con un selettore di lingua sul sito. Il sito permette di scegliere la valuta dell'ordine tra quelle disponibili e converte al [cambio interno di YesStyle](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708); la tua banca può applicare una commissione per gli acquisti internazionali. L'azienda mette a disposizione canali di assistenza clienti per chiarire dubbi su prodotti, tempi di consegna, imposte di importazione e politica dei resi."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "Interfaccia ufficiale e banner promozionale del negozio YesStyle",
         "imageFit": "square"
@@ -50715,7 +51135,6 @@ export const reviewsData: unknown[] = [
           "YesStyle si dichiara distributore autorizzato di oltre 400 marchi di bellezza coreana (K-beauty) e offre anche cosmetici asiatici e moda. Il catalogo comprende skincare (sieri, essenze, tonici, protezioni solari), make-up, prodotti per capelli e accessori.",
           "Tra i marchi citati dall'azienda ci sono COSRX, Etude House, Hada Labo e Rohto, e l'azienda dice di acquistare direttamente dai produttori o da distributori partner. Il fatto di essere controllata da una società quotata in borsa (YesAsia Holdings) è un'informazione pubblica su chi c'è dietro il negozio."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "Marchi autorizzati di K-Beauty e J-Beauty su YesStyle (COSRX, Anua, Beauty of Joseon)",
         "imageFit": "wide"
@@ -50729,7 +51148,6 @@ export const reviewsData: unknown[] = [
           "Anche un articolo difettoso o sbagliato passa dall'RMA, con foto del difetto. Le regole sono nella [politica di reso di YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); i diritti del consumatore nel tuo paese possono andare oltre.",
           "Il supporto è raggiungibile via chat e e-mail sul sito ufficiale."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "imageAlt": "Griglia di prodotti, prezzi in dollari e sconti promozionali su YesStyle",
         "imageFit": "square"
@@ -50762,6 +51180,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Ci si può fidare di YesStyle?",
+        "emphasis": "La fiducia qui ha la sua misura: YesStyle è un'azienda vera, con una capogruppo quotata in borsa, ma l'originalità dei prodotti è parola del negozio. Compra, e lascia il controllo di lotto, scadenza e sigillo al giorno in cui arriva il pacco.",
         "paragraphs": [
           "Sì, con i soliti controlli. YesStyle ha sede a Hong Kong, esiste dal 2006 ed è controllata da YesAsia Holdings (2209.HK), quotata in borsa. Si dichiara distributore autorizzato di oltre 400 marchi di bellezza coreana. Se il pacco viene tassato, gli ordini idonei sotto i 1.000 US$ possono ottenere il rimborso di imposte e costi doganali in credito nel negozio, secondo la destinazione.",
           "In pratica: compra dal dominio yesstyle.com, controlla spedizione e tempi al checkout, conserva la ricevuta e, alla consegna, controlla lotto, scadenza e sigillo."
@@ -50772,8 +51191,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em Casa com Cecília ha una partnership commerciale con YesStyle. Grazie ad essa, i lettori possono inserire il codice ricompensa (Reward Code) CECILIA010 nel campo apposito del checkout per ottenere il 5% di sconto extra sul primo acquisto e il 2% su quelli successivi. Il codice può sommarsi ai coupon promozionali idonei attivi sul sito.",
           "Per il CECILIA010 non è fissata una data di fine, ma YesStyle può cambiare vantaggi e regole del programma, come indicano i [termini del programma](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284); controlla lo sconto nel riepilogo prima di pagare. Il link e il codice possono generare una commissione per il blog, senza costi extra per te."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Domande frequenti",
@@ -50792,10 +51210,21 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Vuoi comprare K-Beauty e altri marchi asiatici in un unico carrello e sei d'accordo a controllare lotto, scadenza e sigillo quando arriva il pacco.",
+        "Hai guardato spedizione e tempi al checkout prima di pagare e accetti che il rimborso standard di un reso arrivi come credito del negozio."
+      ],
+      "skipIf": [
+        "Compri solo con una garanzia di autenticità di terzi: l'originalità la dichiara il negozio stesso e non abbiamo trovato un audit indipendente.",
+        "Ti serve l'ordine entro una data precisa: i tempi di consegna compaiono solo al checkout, prima di pagare."
+      ]
+    },
     "cta": {
       "text": "Ordina i tuoi prodotti K-Beauty su YesStyle con il codice CECILIA010",
       "label": "Visita YesStyle",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -50803,6 +51232,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "codice-ricompensa-yesstyle-cecilia010"
+      },
+      {
+        "slug": "come-trovare-codici-sconto-yesstyle-validi"
+      },
+      {
+        "slug": "k-beauty-tendenza-bellezza-coreana"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -50852,34 +51287,31 @@ export const reviewsData: unknown[] = [
           "Una delle pratiche più note è il layering: applicare più strati di prodotti che si completano, ciascuno con una funzione specifica. La routine può includere la doppia detersione (uno struccante in olio seguito da un detergente in gel o in schiuma), tonico, essenza, siero, fiala e crema. È un’opzione, non una regola: più strati non garantiscono un risultato migliore, e una routine semplice può bastare. L’[American Academy of Dermatology](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) consiglia di mantenere la routine semplice, di introdurre un solo prodotto nuovo alla volta e di usare la protezione solare.",
           "Nella cultura coreana la cura della pelle è vista come cura di sé, e l’industria della bellezza del paese mantiene un ritmo elevato di lanci e di nuove formulazioni."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
         "imageAlt": "Fiera K-Beauty Expo Korea affollata di espositori e visitatori che provano prodotti coreani",
         "imageCaption": "Le dimensioni del mercato dietro la tendenza: fiere come la K-Beauty Expo Korea riuniscono ogni anno centinaia di marchi.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Ingredienti e formati che la K-Beauty ha reso popolari",
         "paragraphs": [
           "Negli ingredienti, la fama viene da centella asiatica, niacinamide, mucina di lumaca (non vegana), PDRN, propoli e fermentati. Nei formati, da cushion, sheet mask e fiala.",
           "Un termine molto associato alla categoria è «glass skin»: l’idea di una pelle così uniforme e luminosa da sembrare vetro. È un ideale estetico, non una promessa letterale, ma riassume bene ciò che inseguono buona parte delle routine K-Beauty: una pelle dalla grana uniforme e quella luminosità che di solito associamo a una pelle ben curata."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Perché la K-Beauty è diventata una tendenza globale",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "Scaffale di un negozio di bellezza coreano con l’insegna «Find the Latest K-Beauty Hype»",
         "imageCaption": "Per le strade della Corea, le novità K-Beauty diventano vetrina e sono parte dell’attrattiva per chi visita il paese.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "paragraphs": [
           "Tre fattori hanno spinto l’onda: k-drama e k-pop, il ritmo delle novità e internet.",
           "Il primo fattore sono i k-drama e il k-pop: le scene di skincare nelle serie e gli artisti con la pelle impeccabile sul palco avvicinano il pubblico di diversi paesi alla cultura beauty coreana e suscitano curiosità per le routine e i prodotti.",
           "Il secondo fattore è la cultura stessa dei marchi coreani di bellezza, noti per il ritmo dei lanci e dell’innovazione sugli ingredienti: nuovi sieri, attivi e formati di maschere compaiono spesso. Con prezzi in genere più competitivi rispetto ai marchi di lusso con proposte simili, questo ha creato la percezione che buona parte delle novità dello skincare arrivi dalla Corea.",
           "Il terzo fattore è internet: su TikTok, YouTube e Reddit, le community di appassionati di skincare condividono unboxing e recensioni di prodotti coreani, e questa circolazione ha portato la K-Beauty oltre la nicchia degli appassionati.",
           "Anche il [Ministero della Cultura della Corea](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) descrive più fattori dietro la crescita, tra cui la distribuzione internazionale tramite rivenditori. Nessuno di questi spiega l’onda da solo."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Com’è comprare K-Beauty fuori dalla Corea",
@@ -50888,11 +51320,11 @@ export const reviewsData: unknown[] = [
           "Molti marchi coreani di skincare non hanno negozi propri in buona parte del mondo, e l’offerta cambia da marchio a marchio e da paese a paese. Un marchio noto a livello internazionale può vendere ufficialmente solo attraverso l’e-commerce coreano o pochi distributori autorizzati in mercati specifici. Questo crea un problema reale per chi vuole comporre una routine completa: per esempio un detergente, un tonico, un siero e una crema, ciascuno di un marchio diverso.",
           "Quando ogni prodotto viene da un sito diverso, l’acquisto può diventare più checkout e spedizioni, consegne in date diverse, cambio valuta e dazi d’importazione. Verifica la regola in vigore nella tua area prima di comprare.",
           "Inoltre, non tutti i marchi coreani vendono direttamente fuori dall’Asia. Alcuni vendono solo in Corea, il che porta a ricorrere a rivenditori terzi, non sempre affidabili, o a servizi di rispedizione postale internazionale, che aggiungono costi e tempi."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "Dove entra in gioco YesStyle",
+        "emphasis": "La K-Beauty non richiede una routine a molti strati: una routine semplice può bastare. YesStyle risolve la parte di trovare i marchi in un solo carrello; cosa va bene lo dice la tua pelle, un prodotto alla volta.",
         "paragraphs": [
           "Una delle opzioni è comprare in un negozio multimarca come YesStyle.",
           "YesStyle funziona come un marketplace centralizzato: invece di andare di marchio in marchio, acquisti più marchi coreani, e anche giapponesi e di altre parti dell’Asia, in un unico carrello.",
@@ -50902,7 +51334,6 @@ export const reviewsData: unknown[] = [
           "Per ottenere uno sconto c’è il codice ricompensa CECILIA010: 5% sul primo acquisto e 2% sui successivi, da inserire nel campo del codice ricompensa (Reward Code) al checkout. La guida passo passo per applicare il codice è linkata qui sotto. I coupon del negozio cambiano; l’elenco del momento è in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
           "Per chi vuole solo provare se la fama è reale, riunire più marchi in un solo ordine semplifica il primo acquisto."
         ],
-        "bullets": [],
         "links": [
           {
             "label": "Come usare il codice ricompensa CECILIA010 su YesStyle (passo dopo passo)",
@@ -50932,6 +51363,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Vuoi capire la tendenza prima di spendere e preferisci partire da un prodotto alla volta, senza costruire una routine a molti strati.",
+        "Vuoi riunire marchi coreani e giapponesi in un solo ordine, invece di aprire più siti e pagare più spedizioni."
+      ],
+      "skipIf": [
+        "Hai la pelle sensibile o reattiva e pensi di cambiare tutta la routine in una volta: introduci un prodotto alla volta e, se hai dubbi, parlane con un dermatologo.",
+        "Compri già da un marchio che vende direttamente nel tuo paese: allora il vantaggio di avere tutto in un carrello sparisce."
+      ]
+    },
     "cta": {
       "text": "Scopri il catalogo K-Beauty di YesStyle e usa il codice CECILIA010 al pagamento",
       "label": "Vedi i marchi coreani su YesStyle",
@@ -59165,7 +59606,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday YesStyle 2026: o código de recompensa CECILIA010 dá até 5% extra. A Mega Sale, os cupons da loja por faixa e os dias de 15% sem mínimo.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-v2.webp",
@@ -59173,18 +59614,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Calendário oficial de 2024 e 2025, tirado das páginas de regras de cada cupom",
-      "O código de recompensa soma com o cupom da YesStyle, inclusive na Black Friday",
-      "Em 2024 e 2025, nos dias de 15% sem valor mínimo, qualquer carrinho ganhou o desconto máximo do cupom",
-      "A YesStyle devolve os encargos de alfândega em pedidos elegíveis abaixo de US$ 1.000, em crédito na loja"
-    ],
-    "cons": [
-      "As datas de fim e os dias de 15% sem valor mínimo para todos os países ainda não saíram: o que vem depois é estimativa pelo histórico",
-      "O cupom de faixa da Black Friday é o mesmo do resto do ano",
-      "Os cupons são só para membros, valem um por pedido e não descontam o frete",
-      "A entrega ao Brasil está suspensa no site e no app"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -59683,7 +60114,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando começa a Black Friday da YesStyle",
         "paragraphs": [
-          "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo traz as datas de 2025; em 2024, as fases seguiram a mesma ordem e começaram um ou dois dias depois. Em 2026, a campanha já começou: a home da loja traz a \"Black Friday Mega Sale\", com ofertas por produto e banners de até 50% off, e o cupom de faixa do momento (8% acima de US$ 79, 10% acima de US$ 149 e 15% acima de US$ 199), que a loja troca a cada poucos dias: confira o vigente antes de comprar. O fim de um cupom não encerra a campanha. O frete padrão grátis acima de US$ 35 depende do destino: o checkout mostra o seu. Em meados de novembro, a loja também liberou um cupom de 15% em qualquer pedido, sem valor mínimo, para entregas nos Estados Unidos, no Reino Unido e no Canadá; nos outros destinos, vale o cupom de faixa. As datas de fim da campanha e dos dias de 15% sem mínimo para todos os países ainda não saíram."
+          "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo traz as datas de 2025; em 2024, as fases seguiram a mesma ordem e começaram um ou dois dias depois. Em 2026, a campanha já começou: a home da loja traz a \"Black Friday Mega Sale\", com ofertas por produto e banners de até 65% off, e o cupom de faixa em vigor (8% acima de US$ 79, 10% acima de US$ 149 e 15% acima de US$ 199), válido até as 1h59 GMT de 27/11. A loja troca os cupons a cada poucos dias: confira o vigente antes de comprar. O fim de um cupom não encerra a campanha. O frete padrão grátis acima de US$ 35 depende do destino: o checkout mostra o seu. Em meados de novembro, a loja também liberou um cupom de 15% em qualquer pedido, sem valor mínimo, para entregas nos Estados Unidos, no Reino Unido e no Canadá; nos outros destinos, vale o cupom de faixa. A YesStyle já listou as páginas de regras de três cupons de 2026, ainda vazias na nossa conferência de 23/11: \"Black Friday! Extra 15% OFF Coupon\", \"Cyber Monday – Skin Care Edition! Up to Extra 15% OFF\" e \"Hanukkah – Extra 15% OFF\". As datas de fim da campanha e dos dias de 15% sem mínimo para todos os países ainda não saíram."
         ],
         "comparisonTable": {
           "caption": "Cupons abertos a todos os membros em 2025, pelas páginas de ajuda da YesStyle; cada fase vai até o início da seguinte. Datas no horário GMT, que é o que vale para a loja.",
@@ -59711,7 +60142,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Em 2026, a Black Friday cai em 27 de novembro e a Cyber Monday em 30 de novembro. Se a YesStyle repetir o padrão, os dias de 15% sem valor mínimo devem ficar perto dessas duas datas. É uma estimativa pelo histórico: a loja pode mudar tudo, e este guia é atualizado quando as páginas de 2026 saírem.",
+          "Em 2026, a Black Friday cai na sexta-feira, dia 27, e a Cyber Monday na segunda-feira seguinte, dia 30. Se a YesStyle repetir o padrão, os dias de 15% sem valor mínimo devem ficar perto dessas duas datas. É uma estimativa pelo histórico: a loja pode mudar tudo, e este guia é atualizado quando as páginas de 2026 saírem.",
           "Os cupons trocam num horário fixo em GMT. Em 2025, os cupons de faixa trocaram às 2h GMT, que são 23h do dia anterior em Brasília, e o de 15% sem mínimo começou às 8h GMT, 5h da manhã em Brasília."
         ]
       },
@@ -59727,7 +60158,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em 2024, o maior cupom do fim de ano não foi o da Black Friday: na semana do Natal, a YesStyle deu 18% sem valor mínimo em tudo. Em 2025, os cupons abertos a todos os membros ficaram nos 15% até o fim do ano.",
           "Para presente de Natal, compare o prazo estimado no checkout com a data em que você precisa receber. Confira também a disponibilidade dos itens."
-        ]
+        ],
+        "emphasis": "Na YesStyle, a Black Friday não é a única hora boa: as faixas do cupom são as mesmas o ano todo. Compre quando você tiver claro o que falta na sua rotina, e não quando a contagem regressiva apertar."
       },
       {
         "heading": "Perguntas frequentes",
@@ -59737,7 +60169,7 @@ export const reviewsData: unknown[] = [
           "O cupom da Black Friday da YesStyle tem valor mínimo? O cupom de faixa tem: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. Em 2024 e 2025, a YesStyle liberou 15% sem valor mínimo nos dias perto da sexta-feira e da Cyber Monday; em 2026, um cupom de 15% sem mínimo já apareceu em meados de novembro para Estados Unidos, Reino Unido e Canadá, e para os demais países ainda não há anúncio.",
           "Na YesStyle, é melhor comprar na Black Friday ou na Cyber Monday? Em 2024 e 2025, as duas tiveram 15% sem valor mínimo, então o teto do cupom foi o mesmo. O que muda de um dia para o outro é o preço promocional de cada produto.",
           "A YesStyle tem promoção fora da Black Friday? Tem. O cupom de faixa, de 8%, 10% e 15%, roda quase o ano inteiro e muda de nome a cada três ou quatro dias.",
-          "O CECILIA010 vale na Black Friday? Vale. Ele vai no campo Reward Code, e as regras dos cupons da Black Friday dizem que eles valem junto com os Rewards Codes.",
+          "O CECILIA010, código de recompensa da YesStyle, vale na Black Friday? Vale: o CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo Reward Code. As regras dos cupons da Black Friday dizem que eles valem junto com os Rewards Codes.",
           "Dá para usar dois cupons da YesStyle no mesmo pedido? Não: é um cupom por pedido. O código de recompensa é outra coisa e vai em outro campo do checkout.",
           "Preciso ter conta na YesStyle para usar o cupom da Black Friday? Precisa. Os cupons são só para membros, e quem compra como visitante fica sem o desconto.",
           "A YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app; o que a loja publica está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
@@ -59801,7 +60233,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Does YesStyle have a Black Friday sale? Yes, it is on: Mega Sale, tiered coupon of 8% to 15% and how to stack the CECILIA010 Reward Code.",
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59810,18 +60242,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Official 2024 and 2025 calendar, taken from the rules page of each coupon",
-      "The Reward Code stacks with the YesStyle coupon, Black Friday included",
-      "In 2024 and 2025, on the 15% days with no minimum, any cart got the coupon's maximum discount",
-      "YesStyle refunds customs charges on eligible orders under US$ 1,000, as store credit"
-    ],
-    "cons": [
-      "The end date and the 15% no-minimum days for all countries are not out yet: what comes next is an estimate based on past years",
-      "The Black Friday tiered coupon is the same as the rest of the year",
-      "Coupons are for members only, one per order, and do not discount shipping",
-      "International purchase: delivery takes longer than from a local store"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Quick answer",
@@ -60314,7 +60736,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "When YesStyle's Black Friday starts",
         "paragraphs": [
-          "YesStyle publishes the rules of each coupon in the site's help center, with the start and end day and time. The table below has the 2025 dates; in 2024, the phases followed the same order and started a day or two later. In 2026 the campaign has already started: on November 3, the store's home page shows the \"Black Friday Mega Sale\", with per-product deals and banners up to 50% off, and the tiered coupon on offer at the time (8% over US$ 79, 10% over US$ 149 and 15% over US$ 199), which the store swaps every few days, so check the current one before you buy. A coupon ending does not mean the campaign has ended. Free standard shipping over US$ 35 depends on the destination: the checkout shows yours. In mid-November, the store also released a 15% coupon on any order, with no minimum, for deliveries to the United States, the United Kingdom and Canada; for other destinations, the tiered coupon applies. The end date of the campaign and the 15% no-minimum days for all countries are not out yet."
+          "YesStyle publishes the rules of each coupon in the site's help center, with the start and end day and time. The table below has the 2025 dates; in 2024, the phases followed the same order and started a day or two later. In 2026 the campaign has already started: as of November 23, the store's home page shows the \"Black Friday Mega Sale\", with per-product deals and banners up to 65% off, and the tiered coupon in force (8% over US$ 79, 10% over US$ 149 and 15% over US$ 199), valid until 1:59 GMT on November 27. The store swaps its coupons every few days, so check the current one before you buy. A coupon ending does not mean the campaign has ended. Free standard shipping over US$ 35 depends on the destination: the checkout shows yours. In mid-November, the store also released a 15% coupon on any order, with no minimum, for deliveries to the United States, the United Kingdom and Canada; for other destinations, the tiered coupon applies. YesStyle has also listed the rules pages of three 2026 coupons, still empty when we checked on November 23: \"Black Friday! Extra 15% OFF Coupon\", \"Cyber Monday – Skin Care Edition! Up to Extra 15% OFF\" and \"Hanukkah – Extra 15% OFF\". The end date of the campaign and the 15% no-minimum days for all countries are not out yet."
         ],
         "comparisonTable": {
           "caption": "Coupons open to all members in 2025, from YesStyle's help pages; each phase runs until the next one begins. Dates are in GMT, which is what counts for the store.",
@@ -60358,7 +60780,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "In 2024, the biggest end-of-year coupon was not the Black Friday one: in Christmas week, YesStyle gave 18% with no minimum on everything. In 2025, the coupons open to all members stayed at 15% until the end of the year.",
           "For Christmas gifts, compare the estimated delivery time at checkout with the date you need the order. Also check product availability."
-        ]
+        ],
+        "emphasis": "On YesStyle, Black Friday is not the only good moment: the coupon tiers are the same all year. Buy when you are clear on what your routine is missing, not when the countdown gets tight."
       },
       {
         "heading": "Frequently asked questions",
@@ -60368,7 +60791,7 @@ export const reviewsData: unknown[] = [
           "Does the YesStyle Black Friday coupon have a minimum order value? The tiered coupon does: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. In 2024 and 2025, YesStyle opened 15% with no minimum on the days around Friday and Cyber Monday; in 2026, a 15% coupon with no minimum already appeared in mid-November for the United States, the United Kingdom and Canada, and for other countries nothing is announced yet.",
           "Is it better to buy on Black Friday or Cyber Monday at YesStyle? In 2024 and 2025, both had 15% with no minimum, so the coupon cap was the same. What changes from one day to the next is the promotional price of each product.",
           "Does YesStyle have promotions outside Black Friday? Yes. The tiered coupon, with 8%, 10% and 15%, runs almost all year and changes its name every few days.",
-          "Does CECILIA010 work on Black Friday? Yes. It goes in the Reward Code field, and the Black Friday coupon rules say the coupons are valid together with Reward Codes.",
+          "Does CECILIA010, YesStyle's Reward Code, work on Black Friday? Yes: CECILIA010 gives 5% on your first order and 2% on later ones, in the Reward Code field. The Black Friday coupon rules say the coupons are valid together with Reward Codes.",
           "Can I use two YesStyle coupons on the same order? No: it is one coupon per order. The Reward Code is a different thing and goes in another checkout field.",
           "Do I need a YesStyle account to use the Black Friday coupon? Yes. The coupons are for members only, and guest checkouts get no discount.",
           "Will I pay tax when buying from YesStyle? There may be a charge when the package arrives. On eligible orders under US$ 1,000, YesStyle refunds the customs charges as store credit, if you send the receipt within 30 days of its date. Sales tax, VAT and GST are not covered.",
@@ -60431,7 +60854,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "El Black Friday de YesStyle 2026 ya empezó: Mega Sale, cupón de 8% a 15% por tramos, días de 15% sin mínimo y cómo sumar el código CECILIA010.",
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60440,18 +60863,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Calendario oficial de 2024 y 2025, sacado de las páginas de reglas de cada cupón",
-      "El código de recompensa se suma al cupón de YesStyle, también en el Black Friday",
-      "En 2024 y 2025, en los días de 15% sin compra mínima, cualquier carrito recibió el descuento máximo del cupón",
-      "YesStyle devuelve los cargos de aduana en pedidos elegibles de menos de US$ 1.000, como crédito en la tienda"
-    ],
-    "cons": [
-      "Las fechas de fin y los días de 15% sin compra mínima para todos los países aún no han salido: lo que viene después es una estimación según el historial",
-      "El cupón por tramos del Black Friday es el mismo del resto del año",
-      "Los cupones son solo para miembros, valen uno por pedido y no descuentan el envío",
-      "Compra internacional: el plazo de entrega es mayor que el de una tienda local"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Respuesta rápida",
@@ -60944,7 +61357,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuándo empieza el Black Friday de YesStyle",
         "paragraphs": [
-          "YesStyle publica las reglas de cada cupón en el centro de ayuda del sitio, con día y hora de inicio y de fin. La tabla de abajo trae las fechas de 2025; en 2024, las fases siguieron el mismo orden y empezaron uno o dos días después. En 2026 la campaña ya empezó: el 3 de noviembre, la página principal de la tienda trae la \"Black Friday Mega Sale\", con ofertas por producto y banners de hasta 50% de descuento, y el cupón por tramos de ese momento (8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199), que la tienda cambia cada pocos días: revisa el vigente antes de comprar. Que un cupón termine no significa que la campaña haya terminado. El envío estándar gratis desde US$ 35 depende del destino: el checkout muestra el tuyo. A mediados de noviembre, la tienda también habilitó un cupón de 15% en cualquier pedido, sin compra mínima, para envíos a Estados Unidos, Reino Unido y Canadá; en los demás destinos, vale el cupón por tramos. Las fechas de fin de la campaña y de los días de 15% sin mínimo para todos los países aún no han salido."
+          "YesStyle publica las reglas de cada cupón en el centro de ayuda del sitio, con día y hora de inicio y de fin. La tabla de abajo trae las fechas de 2025; en 2024, las fases siguieron el mismo orden y empezaron uno o dos días después. En 2026 la campaña ya empezó: el 23 de noviembre, la página principal de la tienda trae la \"Black Friday Mega Sale\", con ofertas por producto y banners de hasta 65% de descuento, y el cupón por tramos en vigor (8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199), válido hasta la 1:59 GMT del 27 de noviembre. La tienda cambia los cupones cada pocos días: revisa el vigente antes de comprar. Que un cupón termine no significa que la campaña haya terminado. El envío estándar gratis desde US$ 35 depende del destino: el checkout muestra el tuyo. A mediados de noviembre, la tienda también habilitó un cupón de 15% en cualquier pedido, sin compra mínima, para envíos a Estados Unidos, Reino Unido y Canadá; en los demás destinos, vale el cupón por tramos. YesStyle ya listó las páginas de reglas de tres cupones de 2026, todavía vacías cuando lo comprobamos el 23 de noviembre: \"Black Friday! Extra 15% OFF Coupon\", \"Cyber Monday – Skin Care Edition! Up to Extra 15% OFF\" y \"Hanukkah – Extra 15% OFF\". Las fechas de fin de la campaña y de los días de 15% sin mínimo para todos los países aún no han salido."
         ],
         "comparisonTable": {
           "caption": "Cupones abiertos a todos los miembros en 2025, según las páginas de ayuda de YesStyle; cada fase dura hasta el inicio de la siguiente. Fechas en horario GMT, que es el que vale para la tienda.",
@@ -60988,7 +61401,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "En 2024, el mayor cupón de fin de año no fue el del Black Friday: en la semana de Navidad, YesStyle dio 18% sin compra mínima en todo. En 2025, los cupones abiertos a todos los miembros se quedaron en 15% hasta fin de año.",
           "Para regalos de Navidad, compara el plazo estimado en el checkout con la fecha en que necesitas recibir el pedido. Comprueba también la disponibilidad de los productos."
-        ]
+        ],
+        "emphasis": "En YesStyle, el Black Friday no es el único buen momento: los tramos del cupón son los mismos todo el año. Compra cuando tengas claro qué le falta a tu rutina, no cuando apriete la cuenta atrás."
       },
       {
         "heading": "Preguntas frecuentes",
@@ -60998,7 +61412,7 @@ export const reviewsData: unknown[] = [
           "¿El cupón del Black Friday de YesStyle tiene compra mínima? El cupón por tramos sí: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. En 2024 y 2025, YesStyle abrió 15% sin compra mínima en los días cercanos al viernes y al Cyber Monday; en 2026, un cupón de 15% sin mínimo ya apareció a mediados de noviembre para Estados Unidos, Reino Unido y Canadá, y para los demás países aún no hay anuncio.",
           "¿En YesStyle es mejor comprar en el Black Friday o en el Cyber Monday? En 2024 y 2025, los dos tuvieron 15% sin compra mínima, así que el tope del cupón fue el mismo. Lo que cambia de un día a otro es el precio promocional de cada producto.",
           "¿YesStyle tiene promociones fuera del Black Friday? Sí. El cupón por tramos, de 8%, 10% y 15%, funciona casi todo el año y cambia de nombre cada pocos días.",
-          "¿CECILIA010 vale en el Black Friday? Sí. Va en el campo Reward Code, y las reglas de los cupones del Black Friday dicen que valen junto con los Reward Codes.",
+          "¿El CECILIA010, el código de recompensa de YesStyle, vale en el Black Friday? Sí: CECILIA010 da 5% en la primera compra y 2% en las siguientes, en el campo Reward Code. Las reglas de los cupones del Black Friday dicen que valen junto con los Reward Codes.",
           "¿Se pueden usar dos cupones de YesStyle en el mismo pedido? No: es un cupón por pedido. El código de recompensa es otra cosa y va en otro campo del checkout.",
           "¿Necesito una cuenta en YesStyle para usar el cupón del Black Friday? Sí. Los cupones son solo para miembros, y quien compra como invitado se queda sin el descuento.",
           "¿Pagaré impuestos comprando en YesStyle? Puede haber un cobro cuando llegue el paquete. En pedidos elegibles de menos de US$ 1.000, YesStyle devuelve los cargos de aduana como crédito en la tienda, si envías el comprobante en un plazo de 30 días desde su fecha. El impuesto sobre las ventas, el IVA y el GST no están cubiertos.",
@@ -61061,7 +61475,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle a-t-il un Black Friday ? Oui, il est en cours : Mega Sale, coupon par palier de 8 à 15 % et cumul avec le code récompense CECILIA010.",
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -61070,18 +61484,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Calendrier officiel 2024 et 2025, tiré des pages de règles de chaque coupon",
-      "Le code récompense se cumule avec le coupon YesStyle, y compris pendant le Black Friday",
-      "En 2024 et 2025, lors des jours à 15 % sans minimum, n'importe quel panier a obtenu la remise maximale du coupon",
-      "YesStyle rembourse les frais de douane sur les commandes éligibles de moins de 1 000 US$, sous forme de crédit en boutique"
-    ],
-    "cons": [
-      "Les dates de fin et les jours à 15 % sans montant minimum pour tous les pays ne sont pas encore sortis : la suite est une estimation d'après l'historique",
-      "Le coupon par palier du Black Friday est le même que le reste de l'année",
-      "Les coupons sont réservés aux membres, valables un par commande, et ne réduisent pas les frais de port",
-      "Achat international : le délai de livraison est plus long que celui d'une boutique locale"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Réponse rapide",
@@ -61575,7 +61979,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quand commence le Black Friday de YesStyle",
         "paragraphs": [
-          "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. En 2026, la campagne a déjà commencé : le 3 novembre, la page d'accueil de la boutique affiche la « Black Friday Mega Sale », avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier du moment (8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$), que la boutique change tous les quelques jours : vérifiez celui en cours avant d'acheter. La fin d'un coupon ne signifie pas la fin de la campagne. La livraison standard gratuite dès 35 US$ dépend de la destination : la page de paiement affiche la vôtre. À la mi-novembre, la boutique a aussi ouvert un coupon de 15 % sur toute commande, sans montant minimum, pour les livraisons aux États-Unis, au Royaume-Uni et au Canada ; pour les autres destinations, le coupon par palier reste valable. Les dates de fin de la campagne et des jours à 15 % sans minimum pour tous les pays ne sont pas encore sorties."
+          "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. En 2026, la campagne a déjà commencé : le 23 novembre, la page d'accueil de la boutique affiche la « Black Friday Mega Sale », avec des offres par produit et des bannières jusqu'à 65 % de remise, et le coupon par palier en vigueur (8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$), valable jusqu'au 27 novembre à 1 h 59 GMT. La boutique change les coupons tous les quelques jours : vérifiez celui en cours avant d'acheter. La fin d'un coupon ne signifie pas la fin de la campagne. La livraison standard gratuite dès 35 US$ dépend de la destination : la page de paiement affiche la vôtre. À la mi-novembre, la boutique a aussi ouvert un coupon de 15 % sur toute commande, sans montant minimum, pour les livraisons aux États-Unis, au Royaume-Uni et au Canada ; pour les autres destinations, le coupon par palier reste valable. YesStyle a aussi listé les pages de règles de trois coupons de 2026, encore vides lors de notre vérification du 23 novembre : « Black Friday! Extra 15% OFF Coupon », « Cyber Monday – Skin Care Edition! Up to Extra 15% OFF » et « Hanukkah – Extra 15% OFF ». Les dates de fin de la campagne et des jours à 15 % sans minimum pour tous les pays ne sont pas encore sorties."
         ],
         "comparisonTable": {
           "caption": "Coupons ouverts à tous les membres en 2025, d'après les pages d'aide de YesStyle ; chaque phase dure jusqu'au début de la suivante. Dates en heure GMT, qui est celle qui compte pour la boutique.",
@@ -61619,7 +62023,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "En 2024, le plus gros coupon de fin d'année n'a pas été celui du Black Friday : la semaine de Noël, YesStyle a offert 18 % sans minimum sur tout. En 2025, les coupons ouverts à tous les membres sont restés à 15 % jusqu'à la fin de l'année.",
           "Pour un cadeau de Noël, comparez le délai estimé à la page de paiement avec la date à laquelle vous devez recevoir la commande. Vérifiez aussi la disponibilité des articles."
-        ]
+        ],
+        "emphasis": "Chez YesStyle, le Black Friday n'est pas le seul bon moment : les paliers du coupon sont les mêmes toute l'année. Achetez quand vous savez ce qui manque à votre routine, pas quand le compte à rebours se resserre."
       },
       {
         "heading": "Questions fréquentes",
@@ -61629,7 +62034,7 @@ export const reviewsData: unknown[] = [
           "Le coupon du Black Friday de YesStyle a-t-il un montant minimum ? Le coupon par palier en a un : 8 % à partir de 79 US$, 10 % à partir de 149 US$ et 15 % à partir de 199 US$. En 2024 et 2025, YesStyle a ouvert 15 % sans minimum les jours proches du vendredi et du Cyber Monday ; en 2026, un coupon de 15 % sans minimum est déjà apparu à la mi-novembre pour les États-Unis, le Royaume-Uni et le Canada, et pour les autres pays rien n'est encore annoncé.",
           "Chez YesStyle, vaut-il mieux acheter pendant le Black Friday ou le Cyber Monday ? En 2024 et 2025, les deux ont eu 15 % sans minimum, donc le plafond du coupon a été le même. Ce qui change d'un jour à l'autre, c'est le prix promotionnel de chaque produit.",
           "YesStyle a-t-il des promotions en dehors du Black Friday ? Oui. Le coupon par palier, à 8 %, 10 % et 15 %, tourne presque toute l'année et change de nom tous les quelques jours.",
-          "CECILIA010 est-il valable pendant le Black Friday ? Oui. Il va dans le champ Reward Code, et les règles des coupons du Black Friday indiquent qu'ils sont valables avec les Reward Codes.",
+          "CECILIA010, le code récompense de YesStyle, est-il valable pendant le Black Friday ? Oui : CECILIA010 donne 5 % sur la première commande et 2 % sur les suivantes, dans le champ Reward Code. Les règles des coupons du Black Friday indiquent qu'ils sont valables avec les Reward Codes.",
           "Peut-on utiliser deux coupons YesStyle dans la même commande ? Non : c'est un coupon par commande. Le code récompense est autre chose et va dans un autre champ de la page de paiement.",
           "Faut-il un compte YesStyle pour utiliser le coupon du Black Friday ? Oui. Les coupons sont réservés aux membres, et qui commande en invité n'a pas la remise.",
           "Vais-je payer des taxes en achetant chez YesStyle ? Il peut y avoir un prélèvement à l'arrivée du colis. Sur les commandes éligibles de moins de 1 000 US$, YesStyle rembourse les frais de douane sous forme de crédit en boutique, si vous envoyez le justificatif dans les 30 jours suivant sa date. La taxe de vente, la TVA et la GST ne sont pas couvertes.",
@@ -61692,7 +62097,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hat YesStyle einen Black Friday? Ja, er läuft schon: Mega Sale, Staffelgutschein von 8 bis 15 % und wie sich der Reward Code CECILIA010 addieren lässt.",
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -61701,18 +62106,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Offizieller Kalender von 2024 und 2025, aus den Regelseiten der einzelnen Gutscheine",
-      "Der Reward Code lässt sich mit dem YesStyle-Gutschein addieren, auch am Black Friday",
-      "2024 und 2025 bekam an den 15-%-Tagen ohne Mindestbestellwert jeder Warenkorb den Höchstrabatt des Gutscheins",
-      "YesStyle erstattet die Zollgebühren bei berechtigten Bestellungen unter US$ 1.000 als Guthaben im Shop"
-    ],
-    "cons": [
-      "Das Enddatum und die 15-%-Tage ohne Mindestbestellwert für alle Länder sind noch nicht veröffentlicht: Was danach kommt, ist eine Schätzung nach den Vorjahren",
-      "Der Staffelgutschein des Black Friday ist derselbe wie im Rest des Jahres",
-      "Die Gutscheine gelten nur für Mitglieder, einer pro Bestellung, und mindern nicht die Versandkosten",
-      "Internationaler Kauf: Die Lieferzeit ist länger als bei einem lokalen Shop"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Kurze Antwort",
@@ -62205,7 +62600,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wann der Black Friday bei YesStyle beginnt",
         "paragraphs": [
-          "YesStyle veröffentlicht die Regeln jedes Gutscheins im Hilfecenter der Website, mit Tag und Uhrzeit für Beginn und Ende. Die Tabelle unten zeigt die Termine von 2025; 2024 folgten die Phasen in derselben Reihenfolge und begannen ein bis zwei Tage später. 2026 läuft die Aktion bereits: Am 3. November zeigt die Startseite des Shops die „Black Friday Mega Sale“ mit Angeboten pro Produkt und Bannern bis zu 50 % Rabatt sowie den damaligen Staffelgutschein (8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199), den der Shop alle paar Tage austauscht; prüfen Sie vor dem Kauf den aktuellen. Dass ein Gutschein endet, heißt nicht, dass die Aktion vorbei ist. Ob der Standardversand ab US$ 35 kostenlos ist, hängt vom Zielort ab: Im Checkout sehen Sie Ihren. Mitte November hat der Shop außerdem einen Gutschein über 15 % auf jede Bestellung ohne Mindestbestellwert freigeschaltet, für Lieferungen in die USA, nach Großbritannien und nach Kanada; für die übrigen Ziele gilt der Staffelgutschein. Das Enddatum der Aktion und die 15-%-Tage ohne Mindestbestellwert für alle Länder sind noch nicht veröffentlicht."
+          "YesStyle veröffentlicht die Regeln jedes Gutscheins im Hilfecenter der Website, mit Tag und Uhrzeit für Beginn und Ende. Die Tabelle unten zeigt die Termine von 2025; 2024 folgten die Phasen in derselben Reihenfolge und begannen ein bis zwei Tage später. 2026 läuft die Aktion bereits: Am 23. November zeigt die Startseite des Shops die „Black Friday Mega Sale“ mit Angeboten pro Produkt und Bannern bis zu 65 % Rabatt sowie den derzeit gültigen Staffelgutschein (8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199), gültig bis 27. November, 1:59 Uhr GMT. Der Shop tauscht die Gutscheine alle paar Tage aus; prüfen Sie vor dem Kauf den aktuellen. Dass ein Gutschein endet, heißt nicht, dass die Aktion vorbei ist. Ob der Standardversand ab US$ 35 kostenlos ist, hängt vom Zielort ab: Im Checkout sehen Sie Ihren. Mitte November hat der Shop außerdem einen Gutschein über 15 % auf jede Bestellung ohne Mindestbestellwert freigeschaltet, für Lieferungen in die USA, nach Großbritannien und nach Kanada; für die übrigen Ziele gilt der Staffelgutschein. YesStyle hat außerdem die Regelseiten von drei Gutscheinen für 2026 angelegt, die bei unserer Prüfung am 23. November noch leer waren: „Black Friday! Extra 15% OFF Coupon“, „Cyber Monday – Skin Care Edition! Up to Extra 15% OFF“ und „Hanukkah – Extra 15% OFF“. Das Enddatum der Aktion und die 15-%-Tage ohne Mindestbestellwert für alle Länder sind noch nicht veröffentlicht."
         ],
         "comparisonTable": {
           "caption": "Für alle Mitglieder offene Gutscheine 2025, nach den Hilfeseiten von YesStyle; jede Phase läuft bis zum Beginn der nächsten. Zeiten in GMT, das ist die Zeit, die für den Shop gilt.",
@@ -62249,7 +62644,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "2024 war der größte Gutschein zum Jahresende nicht der des Black Friday: In der Weihnachtswoche gab YesStyle 18 % ohne Mindestbestellwert auf alles. 2025 blieben die für alle Mitglieder offenen Gutscheine bis zum Jahresende bei 15 %.",
           "Vergleichen Sie bei Weihnachtsgeschenken die geschätzte Lieferzeit im Checkout mit dem Termin, zu dem Sie die Bestellung benötigen. Prüfen Sie auch die Verfügbarkeit der Artikel."
-        ]
+        ],
+        "emphasis": "Bei YesStyle ist der Black Friday nicht der einzige gute Zeitpunkt: Die Gutscheinstufen sind das ganze Jahr über dieselben. Kaufen Sie, wenn Sie wissen, was Ihrer Routine fehlt, nicht wenn der Countdown drängt."
       },
       {
         "heading": "Häufige Fragen",
@@ -62259,7 +62655,7 @@ export const reviewsData: unknown[] = [
           "Hat der Black-Friday-Gutschein von YesStyle einen Mindestbestellwert? Der Staffelgutschein schon: 8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199. 2024 und 2025 hat YesStyle an den Tagen rund um den Freitag und den Cyber Monday 15 % ohne Mindestbestellwert geöffnet; 2026 ist ein Gutschein über 15 % ohne Mindestbestellwert Mitte November bereits für die USA, Großbritannien und Kanada erschienen, und für die übrigen Länder gibt es noch keine Ankündigung.",
           "Kauft man bei YesStyle besser am Black Friday oder am Cyber Monday? 2024 und 2025 hatten beide 15 % ohne Mindestbestellwert, die Obergrenze des Gutscheins war also dieselbe. Was sich von einem Tag zum anderen ändert, ist der Aktionspreis der einzelnen Produkte.",
           "Hat YesStyle auch außerhalb des Black Friday Aktionen? Ja. Der Staffelgutschein mit 8 %, 10 % und 15 % läuft fast das ganze Jahr und wechselt alle paar Tage den Namen.",
-          "Gilt der CECILIA010 am Black Friday? Ja. Er kommt in das Feld Reward Code, und die Regeln der Black-Friday-Gutscheine besagen, dass sie zusammen mit Reward Codes gelten.",
+          "Gilt der CECILIA010, der Reward Code von YesStyle, am Black Friday? Ja: Der CECILIA010 gibt 5 % auf die erste Bestellung und 2 % auf die folgenden, im Feld Reward Code. Die Regeln der Black-Friday-Gutscheine besagen, dass sie zusammen mit Reward Codes gelten.",
           "Kann man zwei YesStyle-Gutscheine in derselben Bestellung nutzen? Nein: Es gilt ein Gutschein pro Bestellung. Der Reward Code ist etwas anderes und kommt in ein anderes Feld des Checkouts.",
           "Braucht man ein YesStyle-Konto, um den Black-Friday-Gutschein zu nutzen? Ja. Die Gutscheine gelten nur für Mitglieder, und wer als Gast bestellt, bekommt den Rabatt nicht.",
           "Zahle ich Steuern, wenn ich bei YesStyle kaufe? Bei der Ankunft des Pakets kann eine Abgabe anfallen. Bei berechtigten Bestellungen unter US$ 1.000 erstattet YesStyle die Zollabgaben als Guthaben im Shop, wenn Sie den Beleg innerhalb von 30 Tagen nach seinem Datum schicken. Umsatzsteuer, MwSt. und GST sind nicht abgedeckt.",
@@ -62322,7 +62718,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "YesStyle ha il Black Friday? Sì, è già attivo: Mega Sale, coupon a scaglioni dall'8% al 15% e come sommare il codice ricompensa CECILIA010.",
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -62331,18 +62727,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "Calendario ufficiale 2024 e 2025, preso dalle pagine delle regole di ogni coupon",
-      "Il codice ricompensa si somma al coupon di YesStyle, anche durante il Black Friday",
-      "Nel 2024 e nel 2025, nei giorni al 15% senza minimo, qualsiasi carrello ha ottenuto lo sconto massimo del coupon",
-      "YesStyle rimborsa gli oneri doganali sugli ordini idonei inferiori a US$ 1.000, come credito nel negozio"
-    ],
-    "cons": [
-      "Le date di fine e i giorni al 15% senza importo minimo per tutti i paesi non sono ancora usciti: il resto è una stima basata sullo storico",
-      "Il coupon a scaglioni del Black Friday è lo stesso del resto dell'anno",
-      "I coupon sono solo per i membri, uno per ordine, e non scontano la spedizione",
-      "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio locale"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Risposta rapida",
@@ -62835,7 +63221,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando inizia il Black Friday di YesStyle",
         "paragraphs": [
-          "YesStyle pubblica le regole di ogni coupon nel centro assistenza del sito, con giorno e ora di inizio e di fine. La tabella qui sotto riporta le date del 2025; nel 2024 le fasi sono seguite nello stesso ordine e sono iniziate uno o due giorni dopo. Nel 2026 la campagna è già iniziata: il 3 novembre la home del negozio mostra la «Black Friday Mega Sale», con offerte per prodotto e banner fino al 50% di sconto, e il coupon a scaglioni di quel momento (8% sopra US$ 79, 10% sopra US$ 149 e 15% sopra US$ 199), che il negozio cambia ogni pochi giorni: controlla quello attuale prima di comprare. La scadenza di un coupon non significa che la campagna sia finita. La spedizione standard gratuita sopra US$ 35 dipende dalla destinazione: il checkout mostra la tua. A metà novembre il negozio ha anche attivato un coupon del 15% su qualsiasi ordine, senza importo minimo, per le consegne negli Stati Uniti, nel Regno Unito e in Canada; per gli altri paesi vale il coupon a scaglioni. Le date di fine della campagna e dei giorni al 15% senza minimo per tutti i paesi non sono ancora uscite."
+          "YesStyle pubblica le regole di ogni coupon nel centro assistenza del sito, con giorno e ora di inizio e di fine. La tabella qui sotto riporta le date del 2025; nel 2024 le fasi sono seguite nello stesso ordine e sono iniziate uno o due giorni dopo. Nel 2026 la campagna è già iniziata: il 23 novembre la home del negozio mostra la «Black Friday Mega Sale», con offerte per prodotto e banner fino al 65% di sconto, e il coupon a scaglioni in vigore (8% sopra US$ 79, 10% sopra US$ 149 e 15% sopra US$ 199), valido fino alle 1:59 GMT del 27 novembre. Il negozio cambia i coupon ogni pochi giorni: controlla quello attuale prima di comprare. La scadenza di un coupon non significa che la campagna sia finita. La spedizione standard gratuita sopra US$ 35 dipende dalla destinazione: il checkout mostra la tua. A metà novembre il negozio ha anche attivato un coupon del 15% su qualsiasi ordine, senza importo minimo, per le consegne negli Stati Uniti, nel Regno Unito e in Canada; per gli altri paesi vale il coupon a scaglioni. YesStyle ha già elencato le pagine delle regole di tre coupon del 2026, ancora vuote quando le abbiamo controllate il 23 novembre: \"Black Friday! Extra 15% OFF Coupon\", \"Cyber Monday – Skin Care Edition! Up to Extra 15% OFF\" e \"Hanukkah – Extra 15% OFF\". Le date di fine della campagna e dei giorni al 15% senza minimo per tutti i paesi non sono ancora uscite."
         ],
         "comparisonTable": {
           "caption": "Coupon aperti a tutti i membri nel 2025, dalle pagine di assistenza di YesStyle; ogni fase dura fino all'inizio della successiva. Date in orario GMT, che è quello che vale per il negozio.",
@@ -62879,7 +63265,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Nel 2024, il coupon più alto di fine anno non è stato quello del Black Friday: nella settimana di Natale YesStyle ha dato il 18% senza minimo su tutto. Nel 2025, i coupon aperti a tutti i membri sono rimasti al 15% fino a fine anno.",
           "Per i regali di Natale, confronta il tempo di consegna stimato al checkout con la data entro cui ti serve l'ordine. Controlla anche la disponibilità degli articoli."
-        ]
+        ],
+        "emphasis": "Su YesStyle il Black Friday non è l'unico momento buono: gli scaglioni del coupon sono gli stessi tutto l'anno. Compra quando sai cosa manca alla tua routine, non quando il conto alla rovescia stringe."
       },
       {
         "heading": "Domande frequenti",
@@ -62889,7 +63276,7 @@ export const reviewsData: unknown[] = [
           "Il coupon del Black Friday di YesStyle ha un importo minimo? Il coupon a scaglioni sì: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Nel 2024 e nel 2025 YesStyle ha aperto il 15% senza minimo nei giorni vicini al venerdì e al Cyber Monday; nel 2026 un coupon del 15% senza minimo è già comparso a metà novembre per Stati Uniti, Regno Unito e Canada, e per gli altri paesi non c'è ancora nulla di annunciato.",
           "Su YesStyle è meglio comprare nel Black Friday o nel Cyber Monday? Nel 2024 e nel 2025 entrambi hanno avuto il 15% senza minimo, quindi il tetto del coupon è stato lo stesso. Ciò che cambia da un giorno all'altro è il prezzo promozionale di ogni prodotto.",
           "YesStyle ha promozioni fuori dal Black Friday? Sì. Il coupon a scaglioni, dell'8%, 10% e 15%, resta attivo quasi tutto l'anno e cambia nome ogni pochi giorni.",
-          "CECILIA010 vale nel Black Friday? Sì. Va nel campo Reward Code, e le regole dei coupon del Black Friday dicono che valgono insieme ai Reward Code.",
+          "CECILIA010, il codice ricompensa di YesStyle, vale nel Black Friday? Sì: CECILIA010 dà il 5% sul primo acquisto e il 2% sui successivi, nel campo Reward Code. Le regole dei coupon del Black Friday dicono che valgono insieme ai Reward Code.",
           "Si possono usare due coupon di YesStyle nello stesso ordine? No: è un coupon per ordine. Il codice ricompensa è un'altra cosa e va in un altro campo del checkout.",
           "Serve un account su YesStyle per usare il coupon del Black Friday? Sì. I coupon sono solo per i membri, e chi acquista come ospite resta senza sconto.",
           "Pagherò tasse acquistando su YesStyle? Può esserci un addebito all'arrivo del pacco. Sugli ordini idonei inferiori a US$ 1.000, YesStyle rimborsa gli oneri doganali come credito nel negozio, se invii la ricevuta entro 30 giorni dalla sua data. Imposta sulle vendite, IVA e GST non sono coperte.",
@@ -62948,11 +63335,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle은 블랙프라이데이를 할까요? 네, 지금 진행 중입니다. 11월 3일 스토어에 올라온 내용, 구간별 쿠폰, 2024년과 2025년 일정, 최소 금액 없는 15% 데이, 그리고 리워드 코드 CECILIA010를 함께 쓰는 방법을 정리했습니다.",
+    "description": "YesStyle은 블랙프라이데이를 할까요? 네, 지금 진행 중입니다. 11월 23일 스토어에 올라온 내용, 구간별 쿠폰, 2024년과 2025년 일정, 최소 금액 없는 15% 데이, 그리고 리워드 코드 CECILIA010를 함께 쓰는 방법을 정리했습니다.",
     "metaDescription": "YesStyle 블랙프라이데이 세일을 하나요? 네, 진행 중입니다: Mega Sale, 8~15% 구간별 쿠폰, 최소 금액 없는 15% 데이, 리워드 코드 CECILIA010 함께 쓰는 법.",
     "publishedAt": "2026년 10월 11일",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -62961,18 +63348,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "2024년과 2025년 공식 일정, 각 쿠폰의 규정 페이지에서 확인",
-      "리워드 코드는 YesStyle 쿠폰과 함께 쓸 수 있고, 블랙프라이데이에도 마찬가지",
-      "2024년과 2025년 최소 금액 없는 15% 데이에는 어떤 장바구니든 쿠폰의 최대 할인을 받았음",
-      "YesStyle은 대상이 되는 US$ 1,000 미만 주문에서 낸 관세 등 세금을 스토어 크레딧으로 돌려줌"
-    ],
-    "cons": [
-      "종료일과 모든 나라에 적용되는 최소 금액 없는 15% 데이는 아직 나오지 않음: 앞으로의 일정은 과거 기록으로 한 추정",
-      "블랙프라이데이의 구간별 쿠폰은 평소와 같음",
-      "쿠폰은 회원 전용이고, 주문당 하나만 쓸 수 있으며, 배송비에는 적용되지 않음",
-      "해외 구매라서 배송 기간이 가까운 쇼핑몰보다 깁니다"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "핵심 요약",
@@ -63465,7 +63842,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle 블랙프라이데이는 언제 시작하나요",
         "paragraphs": [
-          "YesStyle은 각 쿠폰의 규정을 시작·종료 날짜와 시각까지 적어 사이트 고객센터에 올립니다. 아래 표는 2025년 일정입니다. 2024년에도 단계는 같은 순서로 진행됐고, 하루나 이틀 늦게 시작했습니다. 2026년에는 캠페인이 이미 시작됐습니다. 11월 3일 기준 스토어 홈에는 상품별 특가와 최대 50% 할인 배너가 걸린 “Black Friday Mega Sale”과 구간별 쿠폰(US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%)이 있으며, 쿠폰은 스토어가 며칠마다 바꾸므로 구매 전에 현재 쿠폰을 확인하세요. 쿠폰이 끝났다고 캠페인이 끝난 것은 아닙니다. US$ 35 이상 기본 배송 무료는 배송지에 따라 다르며, 결제 화면에서 확인할 수 있습니다. 11월 중순에는 스토어가 미국, 영국, 캐나다 배송에 한해 최소 금액 없이 모든 주문에 15% 쿠폰도 열었고, 다른 배송지에서는 구간별 쿠폰이 적용됩니다. 캠페인 종료일과 모든 나라에 적용되는 최소 금액 없는 15% 데이는 아직 나오지 않았습니다."
+          "YesStyle은 각 쿠폰의 규정을 시작·종료 날짜와 시각까지 적어 사이트 고객센터에 올립니다. 아래 표는 2025년 일정입니다. 2024년에도 단계는 같은 순서로 진행됐고, 하루나 이틀 늦게 시작했습니다. 2026년에는 캠페인이 이미 시작됐습니다. 11월 23일 기준 스토어 홈에는 상품별 특가와 최대 65% 할인 배너가 걸린 “Black Friday Mega Sale”과 현재 적용 중인 구간별 쿠폰(US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%)이 있으며, 이 쿠폰은 11월 27일 GMT 1시 59분까지 유효합니다. 쿠폰은 스토어가 며칠마다 바꾸므로 구매 전에 현재 쿠폰을 확인하세요. 쿠폰이 끝났다고 캠페인이 끝난 것은 아닙니다. US$ 35 이상 기본 배송 무료는 배송지에 따라 다르며, 결제 화면에서 확인할 수 있습니다. 11월 중순에는 스토어가 미국, 영국, 캐나다 배송에 한해 최소 금액 없이 모든 주문에 15% 쿠폰도 열었고, 다른 배송지에서는 구간별 쿠폰이 적용됩니다. YesStyle은 2026년 쿠폰 세 가지의 규정 페이지를 이미 만들어 두었지만, 11월 23일 확인 때는 아직 비어 있었습니다. “Black Friday! Extra 15% OFF Coupon”, “Cyber Monday – Skin Care Edition! Up to Extra 15% OFF”, “Hanukkah – Extra 15% OFF”입니다. 캠페인 종료일과 모든 나라에 적용되는 최소 금액 없는 15% 데이는 아직 나오지 않았습니다."
         ],
         "comparisonTable": {
           "caption": "2025년에 모든 회원이 쓸 수 있던 쿠폰, YesStyle 도움말 페이지 기준. 각 단계는 다음 단계가 시작될 때까지 이어집니다. 날짜와 시각은 스토어 기준인 GMT입니다.",
@@ -63509,7 +63886,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "2024년에는 연말 최대 쿠폰이 블랙프라이데이 쿠폰이 아니었습니다. 크리스마스 주간에 YesStyle이 전 상품 최소 금액 없이 18%를 줬습니다. 2025년에는 모든 회원에게 열린 쿠폰이 연말까지 15%에 머물렀습니다.",
           "크리스마스 선물이라면 결제 화면의 예상 배송 기간과 받고 싶은 날짜를 비교하세요. 상품 재고도 확인하세요."
-        ]
+        ],
+        "emphasis": "YesStyle에서 블랙프라이데이만 좋은 시기는 아닙니다. 쿠폰 구간은 1년 내내 같습니다. 카운트다운에 쫓길 때가 아니라, 내 루틴에 무엇이 빠졌는지 분명해졌을 때 사세요."
       },
       {
         "heading": "자주 묻는 질문",
@@ -63519,7 +63897,7 @@ export const reviewsData: unknown[] = [
           "YesStyle 블랙프라이데이 쿠폰에는 최소 금액이 있나요? 구간별 쿠폰에는 있습니다. US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%입니다. 2024년과 2025년에는 금요일과 사이버 먼데이 즈음에 YesStyle이 최소 금액 없는 15%를 열었습니다. 2026년에는 최소 금액 없는 15% 쿠폰이 11월 중순에 미국, 영국, 캐나다 배송에 한해 먼저 나왔고, 다른 나라는 아직 발표가 없습니다.",
           "YesStyle은 블랙프라이데이와 사이버 먼데이 중 언제 사는 게 낫나요? 2024년과 2025년에는 둘 다 최소 금액 없는 15%였으므로 쿠폰 상한은 같았습니다. 날마다 달라지는 것은 상품별 프로모션 가격입니다.",
           "YesStyle은 블랙프라이데이 말고도 프로모션이 있나요? 있습니다. 8%, 10%, 15%의 구간별 쿠폰이 거의 일 년 내내 진행되고, 며칠마다 이름이 바뀝니다.",
-          "CECILIA010은 블랙프라이데이에도 되나요? 됩니다. Reward Code 칸에 넣으며, 블랙프라이데이 쿠폰 규정에도 리워드 코드와 함께 쓸 수 있다고 되어 있습니다.",
+          "YesStyle 리워드 코드 CECILIA010은 블랙프라이데이에도 되나요? CECILIA010은 Reward Code 칸에 넣으면 첫 구매에 5%, 이후 구매에 2%를 주며 블랙프라이데이에도 됩니다. 블랙프라이데이 쿠폰 규정에도 리워드 코드와 함께 쓸 수 있다고 되어 있습니다.",
           "YesStyle 쿠폰 두 개를 한 주문에 쓸 수 있나요? 안 됩니다. 주문당 쿠폰은 하나입니다. 리워드 코드는 다른 것이고 결제 화면의 다른 칸에 넣습니다.",
           "블랙프라이데이 쿠폰을 쓰려면 YesStyle 계정이 필요한가요? 필요합니다. 쿠폰은 회원 전용이고, 비회원으로 구매하면 할인을 받지 못합니다.",
           "YesStyle에서 사면 세금을 내나요? 소포가 도착할 때 부과될 수 있습니다. 대상이 되는 US$ 1,000 미만 주문은 영수증 날짜로부터 30일 안에 보내면 YesStyle이 그 관세 등 비용을 스토어 크레딧으로 돌려줍니다. 판매세, VAT, GST는 대상이 아닙니다.",
@@ -63578,11 +63956,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyleはブラックフライデーをやる？はい、すでに開催中です。11月3日時点のストアの内容、段階式クーポン、2024年と2025年のスケジュール、最低金額なしの15%の日、そしてリワードコードCECILIA010の併用方法をまとめました。",
+    "description": "YesStyleはブラックフライデーをやる？はい、すでに開催中です。11月23日時点のストアの内容、段階式クーポン、2024年と2025年のスケジュール、最低金額なしの15%の日、そしてリワードコードCECILIA010の併用方法をまとめました。",
     "metaDescription": "YesStyleにブラックフライデーはある？はい、開催中です：Mega Sale、8〜15%の段階式クーポン、最低金額なしの15%の日、リワードコードCECILIA010の併用方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -63591,18 +63969,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "2024年と2025年の公式スケジュールを、各クーポンのルールページから確認",
-      "リワードコードはYesStyleのクーポンと併用でき、ブラックフライデーも同じ",
-      "2024年と2025年の最低金額なしの15%の日は、どのカートでもクーポンの最大割引が適用された",
-      "YesStyleは、対象となるUS$1,000未満の注文にかかった関税などの税金を、ストアクレジットで返金する"
-    ],
-    "cons": [
-      "2026年の終了日と、すべての国向けの最低金額なしの15%の日はまだ未発表。この先の予定は過去の実績からの推定",
-      "ブラックフライデーの段階式クーポンは、通常時と同じ",
-      "クーポンは会員限定で、1注文につき1枚、送料には使えない",
-      "海外通販なので、地元のストアより届くまでに時間がかかる"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "結論から",
@@ -64096,7 +64464,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyleのブラックフライデーはいつ始まる？",
         "paragraphs": [
-          "YesStyleは、各クーポンのルールを、開始日時と終了日時つきでサイトのヘルプセンターに公開しています。下の表は2025年の日程です。2024年も段階は同じ順番で、1〜2日遅れて始まりました。2026年はキャンペーンがすでに始まっています。11月3日時点で、ストアのホームには、商品ごとのセールと最大50%OFFのバナーが並ぶ「Black Friday Mega Sale」と、段階式クーポン（US$79以上で8%、US$149以上で10%、US$199以上で15%）があり、クーポンはストアが数日ごとに替えるため、購入前に最新のものを確認してください。クーポンが終わっても、キャンペーンが終わったわけではありません。通常配送のUS$35以上無料は配送先によって異なり、チェックアウトで確認できます。11月中旬には、アメリカ、イギリス、カナダ向けの配送に限り、どの注文にも使える最低金額なしの15%クーポンも出ました。それ以外の配送先では、段階式クーポンが使えます。キャンペーンの終了日と、すべての国向けの最低金額なしの15%の日はまだ発表されていません。"
+          "YesStyleは、各クーポンのルールを、開始日時と終了日時つきでサイトのヘルプセンターに公開しています。下の表は2025年の日程です。2024年も段階は同じ順番で、1〜2日遅れて始まりました。2026年はキャンペーンがすでに始まっています。11月23日時点で、ストアのホームには、商品ごとのセールと最大65%OFFのバナーが並ぶ「Black Friday Mega Sale」と、現在有効な段階式クーポン（US$79以上で8%、US$149以上で10%、US$199以上で15%）があり、このクーポンは11月27日のGMT 1時59分までです。クーポンはストアが数日ごとに替えるため、購入前に最新のものを確認してください。クーポンが終わっても、キャンペーンが終わったわけではありません。通常配送のUS$35以上無料は配送先によって異なり、チェックアウトで確認できます。11月中旬には、アメリカ、イギリス、カナダ向けの配送に限り、どの注文にも使える最低金額なしの15%クーポンも出ました。それ以外の配送先では、段階式クーポンが使えます。YesStyleは2026年のクーポン3種のルールページをすでに用意していますが、11月23日の確認時点ではまだ空でした。「Black Friday! Extra 15% OFF Coupon」「Cyber Monday – Skin Care Edition! Up to Extra 15% OFF」「Hanukkah – Extra 15% OFF」です。キャンペーンの終了日と、すべての国向けの最低金額なしの15%の日はまだ発表されていません。"
         ],
         "comparisonTable": {
           "caption": "2025年に全会員が使えたクーポン（YesStyleのヘルプページより）。各段階は次の段階が始まるまで続きます。日時はストアの基準であるGMTです。",
@@ -64140,7 +64508,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "2024年は、年末でいちばん大きなクーポンはブラックフライデーのものではありませんでした。クリスマスの週に、YesStyleは全商品を最低金額なしで18%引きにしました。2025年は、全会員が使えるクーポンは年末まで15%のままでした。",
           "クリスマスプレゼントなら、チェックアウトに表示される配送の目安と、受け取りたい日を比べてください。商品の在庫状況も確認してください。"
-        ]
+        ],
+        "emphasis": "YesStyleでは、ブラックフライデーだけが買い時ではありません。クーポンの段階は一年を通して同じです。カウントダウンに急かされたときではなく、自分のルーティンに何が足りないかがはっきりしたときに買いましょう。"
       },
       {
         "heading": "よくある質問",
@@ -64150,7 +64519,7 @@ export const reviewsData: unknown[] = [
           "YesStyleのブラックフライデーのクーポンに最低金額はありますか？段階式クーポンにはあります。US$79以上で8%、US$149以上で10%、US$199以上で15%です。2024年と2025年は、金曜日とサイバーマンデーの前後に最低金額なしの15%が開放されました。2026年は、最低金額なしの15%クーポンが11月中旬にアメリカ、イギリス、カナダ向けにすでに出ていて、それ以外の国向けはまだ発表がありません。",
           "YesStyleは、ブラックフライデーとサイバーマンデーのどちらで買うのがお得ですか？2024年と2025年は、どちらも最低金額なしの15%だったので、クーポンの上限は同じでした。日によって変わるのは、各商品のセール価格です。",
           "YesStyleにはブラックフライデー以外にもセールがありますか？あります。8%、10%、15%の段階式クーポンはほぼ一年中実施されていて、数日ごとに名前が替わります。",
-          "CECILIA010はブラックフライデーでも使えますか？使えます。Reward Code欄に入力します。ブラックフライデーのクーポンのルールにも、リワードコードと併用できると書かれています。",
+          "YesStyleのリワードコードCECILIA010は、ブラックフライデーでも使えますか？CECILIA010はReward Code欄に入れると初回購入で5%、2回目以降は2%になり、ブラックフライデーでも使えます。ブラックフライデーのクーポンのルールにも、リワードコードと併用できると書かれています。",
           "YesStyleのクーポンを同じ注文で2枚使えますか？使えません。1注文につきクーポンは1枚です。リワードコードは別のもので、チェックアウトの別の欄に入力します。",
           "YesStyleのブラックフライデーのクーポンを使うには、アカウントが必要ですか？必要です。クーポンは会員限定で、ゲスト購入では割引されません。",
           "YesStyleで買うと税金はかかりますか？荷物の到着時に課税されることがあります。対象となるUS$1,000未満の注文なら、領収書の日付から30日以内に送ると、YesStyleがその関税などの費用をストアクレジットで返金します。売上税、VAT、GSTは対象外です。",
@@ -64209,11 +64578,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 有黑色星期五嗎？有，而且已經開始。本文整理了 11 月 3 日商店頁面的內容、階梯優惠券、2024 年與 2025 年日程、無最低消費的 15% 日子，以及如何疊加獎勵碼 CECILIA010。",
+    "description": "YesStyle 有黑色星期五嗎？有，而且已經開始。本文整理了 11 月 23 日商店頁面的內容、階梯優惠券、2024 年與 2025 年日程、無最低消費的 15% 日子，以及如何疊加獎勵碼 CECILIA010。",
     "metaDescription": "YesStyle 有黑色星期五嗎？有，已經開始：Mega Sale、8% 至 15% 的階梯優惠券、無最低消費的 15% 日子，以及獎勵碼 CECILIA010 的疊加方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -64222,18 +64591,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "2024 年與 2025 年的官方日程，取自各優惠券的規則頁面",
-      "獎勵碼可與 YesStyle 優惠券疊加，黑色星期五也一樣",
-      "2024 年與 2025 年，在無最低消費的 15% 日子，任何購物車都拿到了優惠券的最高折扣",
-      "符合條件且低於 1,000 美元的訂單，YesStyle 會以店鋪抵用金退還關稅等稅費"
-    ],
-    "cons": [
-      "全部國家的結束日期與無最低消費的 15% 日子尚未公布：之後的安排只是依往年紀錄的推測",
-      "黑色星期五的階梯優惠券和平常的一樣",
-      "優惠券僅限會員，每筆訂單限用一張，不折抵運費",
-      "這是跨境購物，送達時間比本地商店長"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "先說結論",
@@ -64726,7 +65085,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle 黑色星期五何時開始",
         "paragraphs": [
-          "YesStyle 會在網站的說明中心公布每張優惠券的規則，寫明開始與結束的日期與時間。下表是 2025 年的日期。2024 年各階段的順序相同，只是晚一兩天開始。2026 年活動已經開始：11 月 3 日，商店首頁有「Black Friday Mega Sale」，商品各有特價，橫幅最高標 50% off，還有當時的階梯優惠券（滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%），商店每隔幾天更換一次，購買前請確認目前有效的券。一張券到期，不代表活動結束。標準運費滿 US$ 35 免運費是否適用取決於送達地，結帳頁會顯示你的情況。2026 年 11 月中旬，商店還開放了一張針對任何訂單、無最低消費的 15% 優惠券，適用於寄往美國、英國與加拿大的訂單；其他送達地則適用階梯優惠券。全部國家的活動結束日期與無最低消費的 15% 日子尚未公布。"
+          "YesStyle 會在網站的說明中心公布每張優惠券的規則，寫明開始與結束的日期與時間。下表是 2025 年的日期。2024 年各階段的順序相同，只是晚一兩天開始。2026 年活動已經開始：11 月 23 日，商店首頁有「Black Friday Mega Sale」，商品各有特價，橫幅最高標 65% off，還有目前有效的階梯優惠券（滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%），有效至 11 月 27 日 GMT 1 點 59 分。商店每隔幾天更換一次券，購買前請確認目前有效的券。一張券到期，不代表活動結束。標準運費滿 US$ 35 免運費是否適用取決於送達地，結帳頁會顯示你的情況。2026 年 11 月中旬，商店還開放了一張針對任何訂單、無最低消費的 15% 優惠券，適用於寄往美國、英國與加拿大的訂單；其他送達地則適用階梯優惠券。YesStyle 已經建立 2026 年三張優惠券的規則頁，我們 11 月 23 日查看時仍是空白：「Black Friday! Extra 15% OFF Coupon」、「Cyber Monday – Skin Care Edition! Up to Extra 15% OFF」與「Hanukkah – Extra 15% OFF」。全部國家的活動結束日期與無最低消費的 15% 日子尚未公布。"
         ],
         "comparisonTable": {
           "caption": "2025 年開放給所有會員的優惠券，取自 YesStyle 說明頁面；每個階段持續到下一階段開始。日期與時間採用 GMT，這是商店的計時標準。",
@@ -64770,7 +65129,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "2024 年，年底最大的優惠券並不是黑色星期五那張：聖誕節那一週，YesStyle 對所有商品給出了無最低消費的 18%。2025 年，開放給所有會員的優惠券到年底都維持在 15%。",
           "如果是買聖誕禮物，請把結帳頁的預計送達時間與需要收到訂單的日期比較。也請確認商品是否有貨。"
-        ]
+        ],
+        "emphasis": "在 YesStyle，黑色星期五不是唯一的好時機：階梯優惠券的門檻全年都一樣。要買，是在你清楚流程裡缺什麼的時候，而不是倒數計時逼近的時候。"
       },
       {
         "heading": "常見問題",
@@ -64780,7 +65140,7 @@ export const reviewsData: unknown[] = [
           "YesStyle 黑色星期五的優惠券有最低消費嗎？階梯優惠券有：滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%。2024 年與 2025 年，YesStyle 在接近週五與網購星期一的幾天開放了無最低消費的 15%；2026 年，無最低消費的 15% 優惠券已在 11 月中旬出現，適用於美國、英國與加拿大，其他國家目前還沒有公布。",
           "在 YesStyle，黑色星期五和網購星期一哪個買比較划算？2024 年與 2025 年，兩者都是無最低消費的 15%，所以優惠券的上限相同。每天不同的是每件商品的促銷價。",
           "YesStyle 在黑色星期五以外也有促銷嗎？有。8%、10% 與 15% 的階梯優惠券幾乎全年都在，每隔幾天換一次名稱。",
-          "CECILIA010 在黑色星期五能用嗎？能用。它填在 Reward Code 欄位，黑色星期五優惠券的規則也寫明可與獎勵碼一起使用。",
+          "YesStyle 的獎勵碼 CECILIA010 在黑色星期五能用嗎？CECILIA010 填在 Reward Code 欄位，首次購買 5%、之後 2%，黑色星期五也能用。黑色星期五優惠券的規則也寫明可與獎勵碼一起使用。",
           "同一筆訂單能用兩張 YesStyle 優惠券嗎？不能：每筆訂單一張優惠券。獎勵碼是另一回事，填在結帳頁的另一個欄位。",
           "使用黑色星期五優惠券需要 YesStyle 帳號嗎？需要。優惠券僅限會員，以訪客身分購買拿不到折扣。",
           "在 YesStyle 購物要繳稅嗎？包裹到貨時可能會被課稅。符合條件且低於 1,000 美元的訂單，如果你在憑證日期起 30 天內寄出憑證，YesStyle 會以店鋪抵用金退還關稅等費用。銷售稅、加值稅（VAT）與 GST 不在退還範圍內。",
@@ -64839,11 +65199,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 有黑色星期五吗？有，而且已经开始。本文整理了 11 月 3 日商店页面的内容、阶梯优惠券、2024 年和 2025 年日程、无最低消费的 15% 日子，以及如何叠加奖励码 CECILIA010。",
+    "description": "YesStyle 有黑色星期五吗？有，而且已经开始。本文整理了 11 月 23 日商店页面的内容、阶梯优惠券、2024 年和 2025 年日程、无最低消费的 15% 日子，以及如何叠加奖励码 CECILIA010。",
     "metaDescription": "YesStyle 有黑色星期五吗？有，已经开始：Mega Sale、8% 至 15% 的阶梯优惠券、无最低消费的 15% 日子，以及奖励码 CECILIA010 的叠加方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -64852,18 +65212,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "2024 年和 2025 年的官方日程，取自各优惠券的规则页面",
-      "奖励码可与 YesStyle 优惠券叠加，黑色星期五也一样",
-      "2024 年和 2025 年，在无最低消费的 15% 日子，任何购物车都拿到了优惠券的最高折扣",
-      "符合条件且低于 1,000 美元的订单，YesStyle 会以店铺抵用金退还关税等税费"
-    ],
-    "cons": [
-      "结束日期和所有国家无最低消费的 15% 日子尚未公布：之后的安排只是根据往年记录的推测",
-      "黑色星期五的阶梯优惠券和平时的一样",
-      "优惠券仅限会员，每笔订单限用一张，不抵扣运费",
-      "这是跨境购物，送达时间比本地商店长"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "先说结论",
@@ -65357,7 +65707,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle 黑色星期五何时开始",
         "paragraphs": [
-          "YesStyle 会在网站的帮助中心公布每张优惠券的规则，写明开始和结束的日期与时间。下表是 2025 年的日期。2024 年各阶段的顺序相同，只是晚一两天开始。2026 年活动已经开始：11 月 3 日，商店首页有“Black Friday Mega Sale”，商品各有特价，横幅最高标 50% off，还有当时的阶梯优惠券（满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%），商店每隔几天更换一次，购买前请确认当前有效的券。一张券到期，不代表活动结束。标准运费满 US$ 35 免运费是否适用取决于送达地，结账页会显示你的情况。11 月中旬，商店还开放了一张对任何订单都给 15%、没有最低消费的优惠券，适用于送往美国、英国和加拿大的订单；其他目的地适用阶梯优惠券。活动的结束日期和所有国家无最低消费的 15% 日子尚未公布。"
+          "YesStyle 会在网站的帮助中心公布每张优惠券的规则，写明开始和结束的日期与时间。下表是 2025 年的日期。2024 年各阶段的顺序相同，只是晚一两天开始。2026 年活动已经开始：11 月 23 日，商店首页有“Black Friday Mega Sale”，商品各有特价，横幅最高标 65% off，还有当前有效的阶梯优惠券（满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%），有效至 11 月 27 日 GMT 1 点 59 分。商店每隔几天更换一次券，购买前请确认当前有效的券。一张券到期，不代表活动结束。标准运费满 US$ 35 免运费是否适用取决于送达地，结账页会显示你的情况。11 月中旬，商店还开放了一张对任何订单都给 15%、没有最低消费的优惠券，适用于送往美国、英国和加拿大的订单；其他目的地适用阶梯优惠券。YesStyle 已经建立 2026 年三张优惠券的规则页，我们 11 月 23 日查看时仍是空白：“Black Friday! Extra 15% OFF Coupon”、“Cyber Monday – Skin Care Edition! Up to Extra 15% OFF”和“Hanukkah – Extra 15% OFF”。活动的结束日期和所有国家无最低消费的 15% 日子尚未公布。"
         ],
         "comparisonTable": {
           "caption": "2025 年向所有会员开放的优惠券，取自 YesStyle 帮助页面；每个阶段持续到下一阶段开始。日期和时间采用 GMT，这是商店的计时标准。",
@@ -65401,7 +65751,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "2024 年，年底最大的优惠券并不是黑色星期五那张：圣诞节那一周，YesStyle 对所有商品给出了无最低消费的 18%。2025 年，向所有会员开放的优惠券到年底都维持在 15%。",
           "如果是买圣诞礼物，请把结账页的预计送达时间与需要收到订单的日期比较。也请确认商品是否有货。"
-        ]
+        ],
+        "emphasis": "在 YesStyle，黑色星期五不是唯一的好时机：阶梯优惠券的门槛全年都一样。要买，是在你清楚流程里缺什么的时候，而不是倒计时逼近的时候。"
       },
       {
         "heading": "常见问题",
@@ -65411,7 +65762,7 @@ export const reviewsData: unknown[] = [
           "YesStyle 黑色星期五的优惠券有最低消费吗？阶梯优惠券有：满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%。2024 年和 2025 年，YesStyle 在临近周五和网络星期一的几天开放了无最低消费的 15%；2026 年，无最低消费的 15% 优惠券已在 11 月中旬出现，适用于美国、英国和加拿大，其他国家目前还没有公告。",
           "在 YesStyle，黑色星期五和网络星期一哪个买更划算？2024 年和 2025 年，两者都是无最低消费的 15%，所以优惠券的上限相同。每天不同的是每件商品的促销价。",
           "YesStyle 在黑色星期五以外也有促销吗？有。8%、10% 和 15% 的阶梯优惠券几乎全年都在，每隔几天换一次名称。",
-          "CECILIA010 在黑色星期五能用吗？能用。它填在 Reward Code 栏位，黑色星期五优惠券的规则也写明可与奖励码一起使用。",
+          "YesStyle 的奖励码 CECILIA010 在黑色星期五能用吗？CECILIA010 填在 Reward Code 栏位，首次购买 5%、之后 2%，黑色星期五也能用。黑色星期五优惠券的规则也写明可与奖励码一起使用。",
           "同一笔订单能用两张 YesStyle 优惠券吗？不能：每笔订单一张优惠券。奖励码是另一回事，填在结账页的另一个栏位。",
           "使用黑色星期五优惠券需要 YesStyle 账号吗？需要。优惠券仅限会员，以访客身份购买拿不到折扣。",
           "在 YesStyle 购物要交税吗？包裹到货时可能会被征税。符合条件且低于 1,000 美元的订单，如果你在凭证日期起 30 天内寄出凭证，YesStyle 会以店铺抵用金退还关税等费用。销售税、增值税（VAT）和 GST 不在退还范围内。",
@@ -85496,7 +85847,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle entrega em Portugal, com prazo e frete publicados, e o IVA já vem no preço. Para o Brasil, um pedido nosso saiu em setembro, mas a entrega está suspensa no site e no app. Veja abaixo a tabela e o capítulo do imposto."
+          "A YesStyle entrega em Portugal, com prazo e frete publicados, e o IVA já vem no preço. Para o Brasil, um pedido nosso saiu em setembro, mas a entrega está suspensa temporariamente no site e no app. Veja abaixo a tabela e o capítulo do imposto."
         ]
       },
       {
@@ -85540,7 +85891,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a loja mostra sobre o Brasil",
         "paragraphs": [
           "A tabela de frete e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
-          "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express, e a entrega ao Brasil segue suspensa no site e no app. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
+          "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express, e a entrega ao Brasil segue suspensa temporariamente no site e no app. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
         ]
       },
       {
@@ -85672,13 +86023,14 @@ export const reviewsData: unknown[] = [
             "label": "Ver os cupons da YesStyle de hoje e o código CECILIA010",
             "href": "/cupons/yesstyle"
           }
-        ]
+        ],
+        "emphasis": "Para Portugal, a YesStyle é previsível: prazo, frete e IVA estão publicados antes do pagamento. Para o Brasil, não há o que calcular enquanto a entrega estiver suspensa temporariamente."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: um pedido nosso saiu em setembro, mas a entrega está suspensa no site e no app.",
-          "A YesStyle voltou a entregar no Brasil? Não: a entrega ao Brasil está suspensa no site e no app. Um pedido nosso feito em setembro saiu dois dias depois.",
+          "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: um pedido nosso saiu em setembro, mas a entrega está suspensa temporariamente no site e no app.",
+          "A YesStyle voltou a entregar no Brasil? Não: a entrega ao Brasil está suspensa temporariamente no site e no app. Um pedido nosso feito em setembro saiu dois dias depois.",
           "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 11 a 18 dias úteis para um pedido só com itens em estoque: 1 a 3 para sair de Hong Kong e 10 a 15 de envio; para o Brasil, a loja não publica prazo.",
           "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, sem contar a embalagem de presente, com frete de US$ 5 abaixo disso; para o Brasil, a loja não publica o valor.",
           "A YesStyle tem taxa ou imposto? Em Portugal, o IVA já vem no preço; no Brasil, o pacote paga Imposto de Importação mais ICMS depois que chega, veja o exemplo no capítulo do imposto.",
@@ -85686,7 +86038,7 @@ export const reviewsData: unknown[] = [
           "Como pagar na YesStyle? Com cartão Visa, Mastercard, American Express ou JCB, PayPal, Apple Pay ou Google Pay; na compra em dólar, o banco pode cobrar taxa de transação internacional.",
           "Como devolver um produto da YesStyle? Peça o número de RMA em até 14 dias do recebimento e despache o pacote em até 30 dias da emissão do RMA. Produto de beleza aberto e suplemento não voltam, e reação na pele não dá reembolso.",
           "Por que o prazo muda de um pedido para outro? Porque ele soma a disponibilidade dos itens, que pode levar até 30 dias úteis, ao prazo do envio, e o pedido pode sair em mais de um envio; se sair tudo junto, só quando o último item fica disponível.",
-          "Onde ficam os cupons e o código de recompensa da YesStyle? Na página da YesStyle aqui do site, com os cupons do momento e o CECILIA010, que vai no campo Reward Code."
+          "Qual é o código de recompensa da YesStyle? O CECILIA010 dá até 5% na primeira compra e 2% nas seguintes, e vai em campo próprio, o Reward Code do checkout. Ele soma com um cupom da loja, e os cupons do momento ficam na página da YesStyle aqui do site."
         ]
       }
     ],
@@ -85709,7 +86061,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "codigo-cecilia010-yesstyle-como-usar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Compre da YesStyle em Portugal se quer ver prazo, frete e imposto antes de pagar: o envio Standard leva de 10 a 15 dias úteis e o IVA já vem no preço.",
+        "Compre se pode esperar de 11 a 18 dias úteis por um pedido só com itens em estoque."
+      ],
+      "skipIf": [
+        "Passe se mora no Brasil e precisa receber agora: a entrega ao país está suspensa temporariamente.",
+        "Passe se precisa do pacote em poucos dias: ao envio se soma a saída do armazém de Hong Kong, e com um item de 7 a 14 dias de espera o pedido para Portugal passa a levar de 17 a 29 dias úteis."
+      ]
+    }
   },
   {
     "id": 396,
@@ -85962,7 +86324,8 @@ export const reviewsData: unknown[] = [
             "label": "See today's YesStyle coupon and the CECILIA010 Reward Code",
             "href": "/en/coupons/yesstyle"
           }
-        ]
+        ],
+        "emphasis": "In these six countries, the shipping table tells you the time and the cost before you pay. Tax is the line that changes most, so read the one for your country before you fill the cart."
       },
       {
         "heading": "Frequently asked questions",
@@ -85976,7 +86339,7 @@ export const reviewsData: unknown[] = [
           "How do I return a YesStyle product? Request an RMA number within 14 days of receipt and ship the package within 30 days of the RMA being issued. Opened beauty products and supplements cannot be returned, and a skin reaction does not qualify for a refund.",
           "Does YesStyle ship to US territories and Northern Ireland? To US territories, yes: places such as Puerto Rico, Guam and the US Virgin Islands have their own table, with Standard in 9 to 14 business days and free shipping from US$ 80. Northern Ireland is not served at the moment.",
           "Why does delivery time vary from one order to another? Because the total adds the availability of each item, which can take up to 30 business days, to the shipping time, and the order can ship in more than one shipment; if it ships together, it is when the last item becomes available.",
-          "Where can I find YesStyle's coupons and the Reward Code? On the YesStyle page on this site, which lists today's coupons and the CECILIA010 Reward Code. The code goes in the Reward Code field at checkout."
+          "What is YesStyle's Reward Code? CECILIA010 gives up to 5% off the first purchase and 2% off later ones, and goes in its own Reward Code field at checkout. It stacks with one of the store's coupons, and current coupons are on the YesStyle page here on the site."
         ]
       }
     ],
@@ -85999,7 +86362,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-reward-code-coupon-cecilia010"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Order from the UK, Australia, Ireland or New Zealand if you want the VAT or GST already in the price.",
+        "Use Express in the US, the UK, Australia or New Zealand if you need delivery in 3 to 5 business days; it comes with a higher free-shipping minimum."
+      ],
+      "skipIf": [
+        "Skip YesStyle if you live in Northern Ireland: the store does not serve it at the moment.",
+        "Skip it for a rush order from Ireland: Standard takes 12 to 18 business days and the table lists no Express."
+      ]
+    }
   },
   {
     "id": 397,
@@ -86224,7 +86597,8 @@ export const reviewsData: unknown[] = [
             "label": "Ver el cupón de YesStyle de hoy y el código de recompensa CECILIA010",
             "href": "/es/coupons/yesstyle"
           }
-        ]
+        ],
+        "emphasis": "Antes de pagar, la tabla de envío ya te da plazo y costo en los seis países. Lo que más pesa en la decisión es el impuesto: solo en España viene en el precio."
       },
       {
         "heading": "Preguntas frecuentes",
@@ -86238,7 +86612,7 @@ export const reviewsData: unknown[] = [
           "¿Cómo devolver un producto de YesStyle? Pide el número de RMA en un máximo de 14 días desde la recepción y envía el paquete en un máximo de 30 días desde la emisión del RMA. Según la política de la tienda, los productos de belleza abiertos y los suplementos no se devuelven, y una reacción en la piel no da derecho a reembolso.",
           "¿YesStyle envía a toda España? No: el envío no incluye las Baleares, las Canarias (Tenerife incluida), Ceuta ni Melilla.",
           "¿Por qué el plazo cambia de un pedido a otro? Porque suma la disponibilidad de los productos, que puede llevar hasta 30 días hábiles, al plazo del envío, y el pedido puede salir en más de un envío; si sale todo junto, solo cuando el último producto está disponible.",
-          "¿Dónde están los cupones y el código de recompensa de YesStyle? En la página de YesStyle de este sitio, con los cupones vigentes y CECILIA010, que va en el campo Código de Recompensa (Reward Code)."
+          "¿Cuál es el código de recompensa de YesStyle? CECILIA010 da hasta un 5 % en la primera compra y un 2 % en las siguientes, y va en un campo propio, Reward Code, en el checkout. Se suma a un cupón de la tienda, y los cupones del momento están en la página de YesStyle de este sitio."
         ]
       }
     ],
@@ -86261,7 +86635,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Pide desde España si quieres el IVA del 21% ya en el precio: es el único de los seis países donde viene incluido.",
+        "Pide desde México o España si te importa el plazo: son los más cortos de la tabla, de 10 a 13 y de 10 a 15 días hábiles."
+      ],
+      "skipIf": [
+        "Descarta pedir desde las Baleares, las Canarias, Ceuta o Melilla: el envío no las incluye.",
+        "Descarta pedir con prisa desde Chile, Perú, Argentina o Colombia: el envío Standard tarda de 15 a 27 días hábiles."
+      ]
+    }
   },
   {
     "id": 398,
@@ -86469,7 +86853,8 @@ export const reviewsData: unknown[] = [
             "label": "Voir le coupon YesStyle du jour et le code récompense CECILIA010",
             "href": "/fr/coupons/yesstyle"
           }
-        ]
+        ],
+        "emphasis": "Avant de payer, la grille de livraison donne déjà le délai et les frais pour les trois pays. Ce qui pèse le plus dans le choix, c'est la taxe : en France et en Belgique, la TVA est déjà dans le prix ; au Canada, la page de YesStyle ne dit pas tout."
       },
       {
         "heading": "Questions fréquentes",
@@ -86483,7 +86868,7 @@ export const reviewsData: unknown[] = [
           "Comment retourner un produit YesStyle ? Demandez un numéro de RMA dans les 14 jours suivant la réception et expédiez le colis dans les 30 jours suivant l'émission du RMA. Selon la politique de la boutique, les produits de beauté ouverts et les compléments alimentaires ne sont pas repris, et une réaction cutanée ne donne pas droit à un remboursement.",
           "YesStyle livre-t-il dans toute la France ? Non : la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, les Terres australes françaises, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna.",
           "Pourquoi le délai change-t-il d'une commande à l'autre ? Parce qu'il additionne la disponibilité des articles, qui peut aller jusqu'à 30 jours ouvrés, au délai d'expédition, et la commande peut partir en plusieurs envois, et en un seul envoi seulement quand le dernier article devient disponible.",
-          "Où trouver les coupons et le code récompense de YesStyle ? Sur la page YesStyle de ce site, avec les coupons du moment et le code récompense CECILIA010, qui se saisit dans le champ « Reward Code »."
+          "Quel est le code récompense de YesStyle ? CECILIA010 donne jusqu'à 5 % sur le premier achat et 2 % sur les suivants, et se saisit dans un champ à part, Reward Code, au paiement. Il se cumule avec un coupon de la boutique, et les coupons du moment sont sur la page YesStyle de ce site."
         ]
       }
     ],
@@ -86506,7 +86891,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "code-recompense-yesstyle-cecilia010"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Commandez depuis la France ou la Belgique si vous voulez la TVA déjà comprise dans le prix, avec la taxe douanière de l'UE réglée pour l'instant par YesStyle.",
+        "Commandez depuis le Canada si vous pouvez attendre 7 à 14 jours ouvrés : c'est le délai le plus court des trois pays."
+      ],
+      "skipIf": [
+        "Passez votre tour si vous habitez en Guyane, en Polynésie française ou en Nouvelle-Calédonie : la livraison ne couvre pas ces territoires.",
+        "Au Canada, passez votre tour si vous voulez connaître la taxe à l'avance : la page de YesStyle ne parle ni de la TPS fédérale ni des frais du transporteur à la livraison."
+      ]
+    }
   },
   {
     "id": 399,
@@ -86720,7 +87115,8 @@ export const reviewsData: unknown[] = [
             "label": "Den YesStyle-Gutschein von heute und den Reward Code CECILIA010 ansehen",
             "href": "/de/coupons/yesstyle"
           }
-        ]
+        ],
+        "emphasis": "Für Deutschland, Österreich und die Schweiz ist YesStyle gut kalkulierbar: Lieferzeit, Versandkosten und Mehrwertsteuer stehen vor der Zahlung fest. Nur die Wartezeit einzelner Artikel kann die Rechnung nach hinten verschieben."
       },
       {
         "heading": "Häufige Fragen",
@@ -86734,7 +87130,7 @@ export const reviewsData: unknown[] = [
           "Wie gebe ich ein Produkt von YesStyle zurück? Fordern Sie die RMA-Nummer innerhalb von 14 Tagen nach Erhalt an und schicken Sie das Paket innerhalb von 30 Tagen nach Ausstellung der RMA ab. Laut der Richtlinie des Shops werden geöffnete Beauty-Produkte und Nahrungsergänzungsmittel nicht zurückgenommen, und eine Hautreaktion begründet keinen Anspruch auf Erstattung.",
           "Von wo versendet YesStyle? Jede Bestellung verlässt das Lager von YesStyle in Hongkong.",
           "Warum ändert sich die Lieferzeit von Bestellung zu Bestellung? Weil sich die Gesamtzeit aus der Verfügbarkeit der Artikel, die bis zu 30 Werktage dauern kann, und der Versanddauer zusammensetzt. Die Bestellung kann in mehreren Sendungen verschickt werden; wird alles zusammen verschickt, dann erst, sobald der letzte Artikel verfügbar ist.",
-          "Wo finde ich die Gutscheine und den Reward Code von YesStyle? Auf der YesStyle-Seite dieser Website, mit den aktuellen Gutscheinen und dem Reward Code CECILIA010, der in das Feld Reward Code kommt."
+          "Wie lautet der Reward Code von YesStyle? CECILIA010 gibt bis zu 5 % auf den ersten Einkauf und 2 % auf die folgenden und kommt im Checkout in ein eigenes Feld, Reward Code. Er lässt sich mit einem Gutschein des Shops kombinieren, und die aktuellen Gutscheine stehen auf der YesStyle-Seite hier auf der Website."
         ]
       }
     ],
@@ -86757,7 +87153,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-reward-code-rabatt-cecilia010"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Bestellen Sie aus Deutschland oder Österreich, wenn die Mehrwertsteuer schon im Preis stecken soll; YesStyle übernimmt derzeit auch die EU-Gebühr für Sie.",
+        "Bestellen Sie aus Österreich, wenn Sie das Paket lieber an einer Abholstelle abholen: Dafür gibt es Standard Self-Pickup mit gleicher Lieferzeit und gleichem Preis."
+      ],
+      "skipIf": [
+        "Lassen Sie es, wenn das Paket in unter zwei Wochen da sein muss: Der Standardversand allein dauert 10 bis 15 Werktage.",
+        "Lassen Sie es, wenn Sie Artikel auf Lager und Artikel mit Wartezeit zusammen bestellen und alles auf einmal erwarten: Kommt alles in einer Sendung, geht sie erst raus, wenn der letzte Artikel verfügbar ist."
+      ]
+    }
   },
   {
     "id": 400,
@@ -86951,7 +87357,8 @@ export const reviewsData: unknown[] = [
             "label": "Vedi il coupon YesStyle di oggi e il codice ricompensa CECILIA010",
             "href": "/it/coupons/yesstyle"
           }
-        ]
+        ],
+        "emphasis": "Per l'Italia YesStyle è facile da calcolare: tempi, spese e IVA sono noti prima di pagare. A far slittare i tempi sono solo gli articoli in attesa di stock."
       },
       {
         "heading": "Domande frequenti",
@@ -86965,7 +87372,7 @@ export const reviewsData: unknown[] = [
           "Come si restituisce un prodotto di YesStyle? Chiedi il numero RMA entro 14 giorni dalla ricezione e spedisci il pacco entro 30 giorni dall'emissione dell'RMA. Secondo la politica del negozio, i prodotti di bellezza aperti e gli integratori non si restituiscono, e una reazione cutanea non dà diritto al rimborso.",
           "Da dove spedisce YesStyle? Ogni ordine parte dal magazzino di YesStyle a Hong Kong.",
           "Perché i tempi cambiano da un ordine all'altro? Perché ai tempi della spedizione si aggiunge la disponibilità degli articoli, che può richiedere fino a 30 giorni lavorativi, e l'ordine può partire in più spedizioni; se parte tutto insieme, è quando l'ultimo articolo diventa disponibile.",
-          "Dove trovo i coupon e il codice ricompensa di YesStyle? Nella pagina di YesStyle su questo sito, con i coupon del momento e con CECILIA010, che va nel campo Reward Code."
+          "Qual è il codice ricompensa di YesStyle? CECILIA010 dà fino al 5% sul primo acquisto e il 2% sui successivi, e va in un campo a parte, Reward Code, al checkout. Si somma a un coupon del negozio, e i coupon del momento sono nella pagina YesStyle di questo sito."
         ]
       }
     ],
@@ -86988,7 +87395,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "codice-ricompensa-yesstyle-cecilia010"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Ordina dall'Italia se ti basta una spedizione Standard da 10 a 15 giorni lavorativi: è l'opzione che la tabella pubblica per il paese.",
+        "Ordina se vuoi l'IVA del 22% già nel prezzo e la tassa UE sui pacchi pagata, per ora, da YesStyle."
+      ],
+      "skipIf": [
+        "Lascia stare se il pacco ti serve in meno di due settimane: la sola spedizione Standard richiede da 10 a 15 giorni lavorativi.",
+        "Lascia stare se ordini insieme articoli disponibili e articoli in attesa di stock e vuoi tutto in una volta: se parte in un unico invio, il pacco aspetta l'ultimo articolo."
+      ]
+    }
   },
   {
     "id": 401,
@@ -87182,7 +87599,8 @@ export const reviewsData: unknown[] = [
             "label": "이 사이트에서 오늘의 YesStyle 쿠폰과 리워드 코드 CECILIA010 보기",
             "href": "/ko/coupons/yesstyle"
           }
-        ]
+        ],
+        "emphasis": "한국 배송은 기간과 배송비는 결제 전에 알 수 있지만 세금은 알 수 없습니다. 그 부분은 세관 부과금이 붙으면 환급을 신청할 수 있다는 전제로 사는 셈입니다."
       },
       {
         "heading": "자주 묻는 질문",
@@ -87196,7 +87614,7 @@ export const reviewsData: unknown[] = [
           "YesStyle 상품은 어떻게 반품하나요? 수령 후 14일 안에 RMA 번호를 요청하고, RMA 발급 후 30일 안에 패키지를 발송하세요. 쇼핑몰 정책상 개봉한 뷰티 제품과 건강보조식품은 반품할 수 없으며, 피부 반응은 환불 사유가 되지 않습니다.",
           "YesStyle은 어디에서 발송하나요? 모든 주문은 홍콩에 있는 YesStyle 창고에서 출고됩니다.",
           "주문마다 배송 기간이 다른 이유는 무엇인가요? 상품별 준비 기간(최대 영업일 30일)에 배송 기간이 더해지고, 주문은 여러 번에 나뉘어 출고될 수 있고, 한꺼번에 출고된다면 마지막 상품이 준비된 때이기 때문입니다.",
-          "YesStyle 쿠폰과 리워드 코드는 어디에서 확인하나요? 이 사이트의 YesStyle 페이지에서 지금 유효한 쿠폰을 볼 수 있고, CECILIA010은 Reward Code 칸에 입력합니다."
+          "YesStyle 리워드 코드는 무엇인가요? CECILIA010은 첫 구매에 최대 5%, 이후 구매에 2%가 적용되며, 결제 화면의 별도 칸인 Reward Code에 입력합니다. 쇼핑몰 쿠폰 1개와 함께 쓸 수 있고, 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
         ]
       }
     ],
@@ -87219,7 +87637,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-reward-code-cecilia010-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Express 배송으로 영업일 3~5일 안에 받고 싶다면 고르세요.",
+        "세관이 부과금을 매기면 영수증을 기한 안에 보내 환급을 신청할 수 있다는 점을 활용하고 싶다면 고르세요."
+      ],
+      "skipIf": [
+        "한국 기준 세액을 미리 알고 사야 한다면 건너뛰세요. YesStyle은 한국용 세금을 게시하지 않습니다.",
+        "재고 있는 상품과 입고 대기 상품을 함께 주문하고 한꺼번에 받고 싶다면 건너뛰세요. 한꺼번에 출고되면 마지막 상품이 준비될 때까지 기다려야 합니다."
+      ]
+    }
   },
   {
     "id": 402,
@@ -87413,7 +87841,8 @@ export const reviewsData: unknown[] = [
             "label": "今日のYesStyleのクーポンとリワードコードCECILIA010を確認する",
             "href": "/ja/coupons/yesstyle"
           }
-        ]
+        ],
+        "emphasis": "日本向けは、日数と送料は注文前に分かりますが、税額は分かりません。そこだけは、到着時に請求があれば返金を申請できるという前提で買うことになります。"
       },
       {
         "heading": "よくある質問",
@@ -87427,7 +87856,7 @@ export const reviewsData: unknown[] = [
           "YesStyleの商品は、どうやって返品しますか？受け取りから14日以内にRMA番号を申請し、RMAの発行から30日以内に荷物を発送してください。ストアのポリシーでは、開封した美容製品とサプリメントは返品できず、肌に合わなかった場合も返金の対象外です。",
           "YesStyleは、どこから発送しますか？香港の倉庫から発送します。",
           "注文によって届くまでの日数が違うのは、なぜですか？商品ごとの出荷までの日数（最大30営業日）に配送日数が加わり、注文は複数に分けて出荷されることがあり、まとめて出荷される場合は最後の商品がそろった時点になるからです。",
-          "YesStyleのクーポンとリワードコードは、どこで見られますか？このサイトのYesStyleのページです。今日のクーポンと、Reward Code欄に入力するCECILIA010が載っています。"
+          "YesStyleのリワードコードは何ですか？CECILIA010は初回購入で最大5%、2回目以降は2%の割引になり、チェックアウトの専用欄Reward Codeに入力します。ショップのクーポン1つと併用でき、現在のクーポンは、このサイトのYesStyleのページにあります。"
         ]
       }
     ],
@@ -87450,7 +87879,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-reward-code-cecilia010-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "日本向けに、Express便で4〜5営業日で受け取りたい方に向いています。",
+        "到着時に関税などを請求された場合に備え、領収書を期限内に送れば返金を申請できる仕組みを使いたい方に向いています。"
+      ],
+      "skipIf": [
+        "日本の税額を事前に知ってから買いたいなら見送りましょう。YesStyleは日本の税金を公表していません。",
+        "在庫ありの商品と入荷待ちの商品を一緒に注文して、すべてを一度に受け取りたいなら見送りましょう。まとめて出荷される場合、最後の商品が揃うまで発送されません。"
+      ]
+    }
   },
   {
     "id": 403,
@@ -87656,7 +88095,8 @@ export const reviewsData: unknown[] = [
             "label": "查看 YesStyle 今日的優惠券與獎勵碼 CECILIA010",
             "href": "/zh-hant/coupons/yesstyle"
           }
-        ]
+        ],
+        "emphasis": "台灣、香港與澳門的運送時間和運費下單前就看得到，稅費則沒有公布，這一塊要當作送達時才可能出現的額外成本。"
       },
       {
         "heading": "常見問題",
@@ -87670,7 +88110,7 @@ export const reviewsData: unknown[] = [
           "在 YesStyle 怎麼退貨？請在收到商品後 14 天內申請 RMA 編號，並在 RMA 核發後 30 天內寄出包裹。依商店政策，已拆封的美妝品和營養補充品無法退貨，皮膚反應也不屬於退款原因。",
           "YesStyle 從哪裡寄出？從位於香港的倉庫寄出。",
           "為什麼不同訂單的送達時間不一樣？因為送達時間等於每件商品的備貨時間（最長可達 30 個工作天）加上運送時間，而且訂單可能分多次寄出，若一起寄出，則要等最後一件商品備妥。",
-          "YesStyle 的優惠券和獎勵碼在哪裡？在本站的 YesStyle 頁面，有今日的優惠券，以及填在 Reward Code 欄位的 CECILIA010。"
+          "YesStyle 的獎勵碼是什麼？CECILIA010 首購最高 5%，回購 2%，填入結帳頁獨立的 Reward Code 欄位，可與商店自己的一張優惠券疊加；目前的優惠券在本站的 YesStyle 頁面。"
         ]
       }
     ],
@@ -87693,7 +88133,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "如果你在香港，想走順豐、1 至 3 個工作天收貨，也能到順豐站、服務中心或 EF Locker 智能櫃自取，可以選 YesStyle。",
+        "如果你在台灣，能接受 Express 3 至 6 個工作天的送達時間，可以選 YesStyle。"
+      ],
+      "skipIf": [
+        "如果你想在下單前就知道稅費，就別選：YesStyle 沒有台灣、香港與澳門的稅費頁面。",
+        "如果你把有庫存的商品和備貨中的商品一起訂，又想一次收齊，就別選：若一起寄出，要等最後一件商品備妥才會出貨。"
+      ]
+    }
   },
   {
     "id": 404,
@@ -87894,7 +88344,8 @@ export const reviewsData: unknown[] = [
             "label": "查看 YesStyle 今日的优惠券与奖励码 CECILIA010",
             "href": "/zh-hans/coupons/yesstyle"
           }
-        ]
+        ],
+        "emphasis": "新加坡的税费已含在价格里，可以先算清楚；马来西亚的销售税要到结账时才加上，下单前把它算进去再决定。"
       },
       {
         "heading": "常见问题",
@@ -87908,7 +88359,7 @@ export const reviewsData: unknown[] = [
           "在 YesStyle 怎么退货？请在收到商品后 14 天内申请 RMA 编号，并在 RMA 发出后 30 天内寄出包裹。按商店政策，已拆封的美妆产品和营养补充品无法退货，皮肤反应也不属于退款原因。",
           "YesStyle 从哪里寄出？从位于香港的仓库寄出。",
           "为什么不同订单的送达时间不一样？因为送达时间由每件商品的备货时间（最长可达 30 个工作日）加上运送时间组成，而且订单可能分多次寄出，若一起寄出，则要等最后一件商品备妥。",
-          "YesStyle 的优惠券和奖励码在哪里？在本站的 YesStyle 页面：那里列有今日的优惠券，以及要填入 Reward Code 栏位的奖励码 CECILIA010。"
+          "YesStyle 的奖励码是什么？CECILIA010 首购最高 5%，回购 2%，填入结账页单独的 Reward Code 栏，可与商店自己的一张优惠券叠加；目前的优惠券在本站的 YesStyle 页面。"
         ]
       }
     ],
@@ -87931,7 +88382,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "如果你在新加坡购物，并希望 GST 已含在价格里，可以选 YesStyle。",
+        "如果你在新加坡，想用 Express 在 3 至 5 个工作日内收货，可以选 YesStyle。"
+      ],
+      "skipIf": [
+        "如果你在马来西亚，不想在结账时另外加收销售税，就别选：10% 的销售税不含在价格里，运费不征此税。",
+        "如果你在马来西亚，需要比 10 至 16 个工作日更快的送达，就别选：马来西亚只有 Standard。"
+      ]
+    }
   },
   {
     "id": 405,
@@ -88004,7 +88465,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A entrega da YesStyle ao Brasil está suspensa no site e no app. A Olive Young Global cita o Brasil entre os países sem envio.",
+          "A entrega da YesStyle ao Brasil está suspensa temporariamente no site e no app. A Olive Young Global cita o Brasil entre os países sem envio.",
           "O Stylevana não publica frete nem prazo para o Brasil, e a lista de destinos dele muda de uma versão para outra: a em inglês não traz o Brasil, e as traduções mais antigas ainda trazem. A central de ajuda dele também cita o Brasil, num artigo dela, entre as regiões em que o imposto de importação não está incluído no checkout."
         ]
       },
@@ -88227,7 +88688,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher",
         "emphasis": "Pelos números da tabela, para quem mora no Brasil a escolha é a Jolse, porque é a única que publica frete para o país.",
         "bullets": [
-          "Quem mora no Brasil: a Jolse é a única das cinco que publica frete para o país (US$ 9,99, grátis acima de US$ 60), e o imposto é pago na entrega. A YesStyle enviou um pedido nosso em setembro, mas a entrega ao Brasil está suspensa no site e no app.",
+          "Quem mora no Brasil: a Jolse é a única das cinco que publica frete para o país (US$ 9,99, grátis acima de US$ 60), e o imposto é pago na entrega. A YesStyle enviou um pedido nosso em setembro, mas a entrega ao Brasil está suspensa temporariamente no site e no app.",
           "Quem mora em Portugal: as cinco lojas entregam e todas publicam a partir de quanto o frete é grátis, então a escolha passa pelo imposto e pela devolução, nas tabelas acima.",
           "Em qualquer país: confira na página oficial de cada loja o envio, quem paga o imposto e o que ela aceita de volta antes de fechar o pedido."
         ]
@@ -88246,7 +88707,7 @@ export const reviewsData: unknown[] = [
           "Posso devolver produto de beleza aberto? Não por arrependimento, em nenhuma das cinco lojas; o Stylevana aceita arrependimento só com o produto novo, lacrado e sem uso.",
           "Qual loja entrega mais rápido? As lojas publicam o prazo do envio, não o total: para Portugal, o Stylevana indica 6 a 11 dias úteis e a YesStyle 10 a 15, sem contar o tempo para o item sair de Hong Kong; para o Brasil, nenhuma das duas publica prazo.",
           "YesStyle ou Shopee? A Shopee é um marketplace no Remessa Conforme, com devolução em 7 dias pela Garantia Shopee, e a YesStyle fica fora do programa, com o imposto cobrado depois que o pacote chega.",
-          "Onde vai o código de recompensa da YesStyle? O CECILIA010 vai no campo Reward Code do checkout, não na caixa de cupom promocional, e soma com os cupons da loja. Os cupons do momento ficam na página da YesStyle aqui do site."
+          "Qual é o código de recompensa da YesStyle? O CECILIA010 dá até 5% na primeira compra e 2% nas seguintes, e vai em campo próprio, o Reward Code do checkout. Ele soma com um cupom da loja, e os cupons do momento ficam na página da YesStyle aqui do site."
         ]
       }
     ],
@@ -88273,7 +88734,17 @@ export const reviewsData: unknown[] = [
         "slug": "codigo-cecilia010-yesstyle-como-usar"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-09",
+    "decision": {
+      "takeIf": [
+        "Leve a Jolse se você mora no Brasil e quer ver o frete antes de pagar: das cinco lojas, só ela publica o valor para o país.",
+        "Considere a YesStyle ou a Jolse se mora em Portugal e prefere o IVA já incluído no preço."
+      ],
+      "skipIf": [
+        "Passe na YesStyle se mora no Brasil e quer comprar agora: a entrega ao país está suspensa temporariamente no site e no app.",
+        "Passe nas cinco lojas se pretende devolver produto de beleza aberto por arrependimento: nenhuma aceita."
+      ]
+    }
   },
   {
     "id": 406,
@@ -88281,7 +88752,7 @@ export const reviewsData: unknown[] = [
     "locale": "en",
     "translationKey": "yesstyle-vs-alternatives",
     "title": "YesStyle vs Stylevana: returns, free shipping and Reward Code compared, with Olive Young, StyleKorean and Jolse",
-    "seoTitle": "YesStyle vs Stylevana: returns, free shipping and Reward Code",
+    "seoTitle": "YesStyle vs Stylevana: returns, free shipping, Reward Code",
     "type": "Store Comparison",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -88437,7 +88908,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "To decide: compare the deadline and what each store accepts in the returns table above.",
           "In any country: check each store's official page for shipping, who pays the tax and what it takes back before placing the order."
-        ]
+        ],
+        "emphasis": "The country decides before the price does: start with the store that ships to your address, and let the returns table break the tie."
       },
       {
         "heading": "Frequently asked questions",
@@ -88446,7 +88918,7 @@ export const reviewsData: unknown[] = [
           "Is YesStyle the same as SHEIN? No: YesStyle does not appear in the SHEIN Group's list of brands and says it belongs to YesAsia Holdings, of Hong Kong.",
           "What is the order limit at StyleKorean? US$ 500 per order, not counting shipping; above that, the store asks you to split it into two orders.",
           "Can I return an opened beauty product? Not for a change of mind, at any of the five stores; Stylevana accepts a change of mind only if the product is new, sealed and unused.",
-          "Where does the YesStyle Reward Code go? CECILIA010 goes in the separate Reward Code field at checkout, not in the coupon box, and stacks with the store's own coupons. Current coupons are on the YesStyle page here on the site."
+          "What is YesStyle's Reward Code? CECILIA010 gives up to 5% off the first purchase and 2% off later ones, and goes in its own Reward Code field at checkout. It stacks with one of the store's coupons, and current coupons are on the YesStyle page here on the site."
         ]
       }
     ],
@@ -88473,7 +88945,17 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-coupon-cecilia010"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-09",
+    "decision": {
+      "takeIf": [
+        "Take YesStyle or Stylevana if you want 14 days after delivery to request a return; both give you that window.",
+        "Consider Olive Young Global if you want an approved return refunded to your payment method, with the store paying the return shipping. It only takes back defective or wrong items."
+      ],
+      "skipIf": [
+        "Skip all five if you plan to return an opened beauty product for a change of mind: none of them accepts it.",
+        "Skip Jolse if you need more than 7 days to ask for a return: it asks for photos and only takes back defective, wrong or missing items."
+      ]
+    }
   },
   {
     "id": 407,
@@ -88481,7 +88963,7 @@ export const reviewsData: unknown[] = [
     "locale": "es",
     "translationKey": "yesstyle-vs-alternatives",
     "title": "YesStyle o Stylevana: devoluciones, envío gratis y código de recompensa lado a lado, con Olive Young, StyleKorean y Jolse",
-    "seoTitle": "YesStyle o Stylevana: devoluciones, envío gratis y código de recompensa",
+    "seoTitle": "YesStyle o Stylevana: devoluciones y código de recompensa",
     "type": "Comparativa de Tiendas",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -88637,7 +89119,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Para decidir: compara el plazo y lo que acepta cada tienda en la tabla de devoluciones de arriba.",
           "En cualquier país: antes de cerrar el pedido, consulta en la página oficial de cada tienda el envío, quién paga el impuesto y qué acepta de vuelta."
-        ]
+        ],
+        "emphasis": "El país decide antes que el precio: empieza por la tienda que envía a tu dirección y deja que la tabla de devoluciones desempate."
       },
       {
         "heading": "Preguntas frecuentes",
@@ -88646,7 +89129,7 @@ export const reviewsData: unknown[] = [
           "¿YesStyle es lo mismo que SHEIN? No: YesStyle no aparece en la lista de marcas del SHEIN Group y dice pertenecer a YesAsia Holdings, de Hong Kong.",
           "¿Cuál es el límite de pedido en StyleKorean? US$ 500 por pedido, sin el envío; por encima, la tienda pide dividirlo en dos pedidos.",
           "¿Puedo devolver un producto de belleza abierto? No por arrepentimiento, en ninguna de las cinco tiendas; Stylevana acepta el arrepentimiento solo con el producto nuevo, precintado y sin usar.",
-          "¿Dónde va el código de recompensa de YesStyle? CECILIA010 va en el campo Reward Code del checkout, no en el de cupón promocional, y se suma a los cupones de la tienda. Los cupones del momento están en la página de YesStyle de este sitio."
+          "¿Cuál es el código de recompensa de YesStyle? CECILIA010 da hasta un 5 % en la primera compra y un 2 % en las siguientes, y va en un campo propio, Reward Code, en el checkout. Se suma a un cupón de la tienda, y los cupones del momento están en la página de YesStyle de este sitio."
         ]
       }
     ],
@@ -88673,7 +89156,17 @@ export const reviewsData: unknown[] = [
         "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-09",
+    "decision": {
+      "takeIf": [
+        "Elige YesStyle o Stylevana si quieres 14 días desde la recepción para pedir la devolución: las dos dan ese plazo.",
+        "Considera Olive Young Global si prefieres que una devolución aprobada se reembolse en la forma de pago y que la tienda pague el envío de vuelta. Solo acepta artículos defectuosos o equivocados."
+      ],
+      "skipIf": [
+        "Descarta las cinco si piensas devolver por arrepentimiento un producto de belleza abierto: ninguna lo acepta.",
+        "Descarta Jolse si necesitas más de 7 días para pedir la devolución: pide fotos y solo acepta artículos defectuosos, equivocados o que faltan."
+      ]
+    }
   },
   {
     "id": 408,
@@ -88681,7 +89174,7 @@ export const reviewsData: unknown[] = [
     "locale": "fr",
     "translationKey": "yesstyle-vs-alternatives",
     "title": "YesStyle ou Stylevana : retours, livraison gratuite et code récompense côte à côte, avec Olive Young, StyleKorean et Jolse",
-    "seoTitle": "YesStyle ou Stylevana : retours, livraison gratuite et code récompense",
+    "seoTitle": "YesStyle ou Stylevana : retours et code récompense",
     "type": "Comparatif de boutiques",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -88770,7 +89263,7 @@ export const reviewsData: unknown[] = [
         "heading": "StyleKorean : livraison, limite et retour",
         "paragraphs": [
           "Chez StyleKorean, les frais de port sont calculés selon le poids et les commandes partent d'un entrepôt en Corée. La livraison gratuite ne vaut que pour les produits de beauté et, d'après le tableau de la page de livraison, commence entre US$ 60 et US$ 100 selon le pays. La commande est limitée à US$ 500, hors frais de port. Le retour pour rétractation exige un produit scellé et inutilisé, et les frais de port sont déduits du remboursement.",
-          "Pour voir StyleKorean à côté de YesStyle, avec les prix, la livraison, les taxes et les retours, lisez [YesStyle ou StyleKorean : laquelle vaut le coup pour votre porte-monnaie ? Comparaison directe](/fr/reviews/yesstyle-ou-stylekorean-que-choisir)."
+          "Pour voir StyleKorean à côté de YesStyle, avec les prix, la livraison, les taxes et les retours, lisez [YesStyle ou StyleKorean : laquelle vaut le coup pour votre porte-monnaie ? Comparaison directe](/fr/reviews/yesstyle-ou-stylekorean-que-choisir)."
         ],
         "links": [
           {
@@ -88837,7 +89330,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Pour décider : comparez le délai et ce que chaque boutique reprend, dans le tableau des retours ci-dessus.",
           "Quel que soit le pays : vérifiez sur la page officielle de chaque boutique la livraison, qui paie les taxes et ce qu'elle reprend avant de valider la commande."
-        ]
+        ],
+        "emphasis": "Le pays décide avant le prix : partez de la boutique qui livre à votre adresse, puis laissez le tableau des retours les départager."
       },
       {
         "heading": "Questions fréquentes",
@@ -88846,7 +89340,7 @@ export const reviewsData: unknown[] = [
           "YesStyle, est-ce pareil que SHEIN ? Non : YesStyle ne figure pas dans la liste des marques du SHEIN Group et dit appartenir à YesAsia Holdings, de Hong Kong.",
           "Quelle est la limite de commande chez StyleKorean ? US$ 500 par commande, hors frais de port ; au-delà, la boutique demande de la scinder en deux commandes.",
           "Puis-je retourner un produit de beauté ouvert ? Pas pour changement d'avis, dans aucune des cinq boutiques ; Stylevana accepte le changement d'avis seulement si le produit est neuf, scellé et inutilisé.",
-          "Où va le code récompense de YesStyle ? CECILIA010 se saisit dans le champ Reward Code au paiement, et non dans le champ des codes promo, et se cumule avec les coupons de la boutique. Les coupons du moment sont sur la page YesStyle de ce site."
+          "Quel est le code récompense de YesStyle ? CECILIA010 donne jusqu'à 5 % sur le premier achat et 2 % sur les suivants, et se saisit dans un champ à part, Reward Code, au paiement. Il se cumule avec un coupon de la boutique, et les coupons du moment sont sur la page YesStyle de ce site."
         ]
       }
     ],
@@ -88873,7 +89367,17 @@ export const reviewsData: unknown[] = [
         "slug": "code-recompense-yesstyle-cecilia010"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-09",
+    "decision": {
+      "takeIf": [
+        "Prenez YesStyle ou Stylevana si vous voulez 14 jours après réception pour demander un retour : les deux accordent ce délai.",
+        "Envisagez Olive Young Global si vous préférez qu'un retour approuvé soit remboursé sur le moyen de paiement, avec les frais de retour payés par la boutique. Elle ne reprend que les articles défectueux ou erronés."
+      ],
+      "skipIf": [
+        "Passez votre tour pour les cinq si vous comptez retourner un produit de beauté ouvert pour changement d'avis : aucune ne l'accepte.",
+        "Passez votre tour pour Jolse si vous avez besoin de plus de 7 jours pour demander le retour : elle exige des photos et ne reprend que les articles défectueux, erronés ou manquants."
+      ]
+    }
   },
   {
     "id": 409,
@@ -88881,7 +89385,7 @@ export const reviewsData: unknown[] = [
     "locale": "de",
     "translationKey": "yesstyle-vs-alternatives",
     "title": "YesStyle oder Stylevana: Rückgabe, kostenloser Versand und Reward Code im Vergleich, mit Olive Young, StyleKorean und Jolse",
-    "seoTitle": "YesStyle oder Stylevana: Rückgabe, kostenloser Versand und Reward Code",
+    "seoTitle": "YesStyle oder Stylevana: Rückgabe, Versand, Reward Code",
     "type": "Shop-Vergleich",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -89037,7 +89541,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Zur Entscheidung: Vergleichen Sie in der Rückgabetabelle oben die Frist und das, was jeder Shop zurücknimmt.",
           "In jedem Land: Prüfen Sie vor der Bestellung auf der offiziellen Seite jedes Shops den Versand, wer die Steuern zahlt und was er zurücknimmt."
-        ]
+        ],
+        "emphasis": "Das Land entscheidet vor dem Preis: Beginnen Sie bei dem Shop, der an Ihre Adresse liefert, und lassen Sie die Rückgabetabelle den Ausschlag geben."
       },
       {
         "heading": "Häufige Fragen",
@@ -89046,7 +89551,7 @@ export const reviewsData: unknown[] = [
           "Ist YesStyle dasselbe wie SHEIN? Nein: YesStyle steht nicht in der Markenliste der SHEIN Group und gibt an, zur YesAsia Holdings in Hongkong zu gehören.",
           "Was ist die Bestellgrenze bei StyleKorean? US$ 500 pro Bestellung, ohne den Versand; darüber verlangt der Shop, sie in zwei Bestellungen aufzuteilen.",
           "Kann ich ein geöffnetes Beauty-Produkt zurückgeben? Nicht wegen Nichtgefallens, in keinem der fünf Shops; Stylevana akzeptiert Nichtgefallen nur bei neuem, versiegeltem und unbenutztem Produkt.",
-          "Wohin kommt der Reward Code von YesStyle? CECILIA010 wird im Checkout in das Feld Reward Code eingetragen, nicht in das Gutscheinfeld, und lässt sich mit den Gutscheinen des Shops kombinieren. Die aktuellen Gutscheine stehen auf der YesStyle-Seite hier auf der Website."
+          "Wie lautet der Reward Code von YesStyle? CECILIA010 gibt bis zu 5 % auf den ersten Einkauf und 2 % auf die folgenden und kommt im Checkout in ein eigenes Feld, Reward Code. Er lässt sich mit einem Gutschein des Shops kombinieren, und die aktuellen Gutscheine stehen auf der YesStyle-Seite hier auf der Website."
         ]
       }
     ],
@@ -89073,7 +89578,17 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-rabatt-cecilia010"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-09",
+    "decision": {
+      "takeIf": [
+        "Nehmen Sie YesStyle oder Stylevana, wenn Sie 14 Tage ab Erhalt für den Rückgabeantrag haben möchten: Beide gewähren diese Frist.",
+        "Ziehen Sie Olive Young Global in Betracht, wenn eine genehmigte Rückgabe auf die Zahlungsart erstattet werden soll und der Shop die Rücksendekosten trägt. Er nimmt nur defekte oder falsche Artikel zurück."
+      ],
+      "skipIf": [
+        "Lassen Sie alle fünf aus, wenn Sie ein geöffnetes Beauty-Produkt wegen Nichtgefallens zurückgeben wollen: Keiner nimmt es zurück.",
+        "Lassen Sie Jolse aus, wenn Sie mehr als 7 Tage für den Rückgabeantrag brauchen: Der Shop verlangt Fotos und nimmt nur defekte, falsche oder fehlende Artikel zurück."
+      ]
+    }
   },
   {
     "id": 410,
@@ -89081,7 +89596,7 @@ export const reviewsData: unknown[] = [
     "locale": "it",
     "translationKey": "yesstyle-vs-alternatives",
     "title": "YesStyle o Stylevana: resi, spedizione gratuita e codice ricompensa a confronto, con Olive Young, StyleKorean e Jolse",
-    "seoTitle": "YesStyle o Stylevana: resi, spedizione gratuita e codice ricompensa",
+    "seoTitle": "YesStyle o Stylevana: resi e codice ricompensa",
     "type": "Confronto tra negozi",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -89237,7 +89752,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Per decidere: confronta il termine e ciò che accetta ogni negozio nella tabella dei resi qui sopra.",
           "In qualsiasi paese: prima di chiudere l'ordine, controlla nella pagina ufficiale di ogni negozio la spedizione, chi paga le imposte e cosa accetta indietro."
-        ]
+        ],
+        "emphasis": "Il paese conta più del prezzo: parti dal negozio che spedisce al tuo indirizzo e lascia che la tabella dei resi decida il pareggio."
       },
       {
         "heading": "Domande frequenti",
@@ -89246,7 +89762,7 @@ export const reviewsData: unknown[] = [
           "YesStyle è uguale a SHEIN? No: YesStyle non compare nell'elenco dei marchi del SHEIN Group e dice di appartenere a YesAsia Holdings, di Hong Kong.",
           "Qual è il limite d'ordine di StyleKorean? US$ 500 per ordine, spedizione esclusa; oltre, il negozio chiede di dividerlo in due ordini.",
           "Posso restituire un prodotto di bellezza aperto? Non per ripensamento, in nessuno dei cinque negozi; Stylevana accetta il ripensamento solo con il prodotto nuovo, sigillato e mai usato.",
-          "Dove va il codice ricompensa di YesStyle? CECILIA010 va nel campo Reward Code del checkout, non in quello dei coupon promozionali, e si somma ai coupon del negozio. I coupon del momento sono nella pagina YesStyle di questo sito."
+          "Qual è il codice ricompensa di YesStyle? CECILIA010 dà fino al 5% sul primo acquisto e il 2% sui successivi, e va in un campo a parte, Reward Code, al checkout. Si somma a un coupon del negozio, e i coupon del momento sono nella pagina YesStyle di questo sito."
         ]
       }
     ],
@@ -89273,7 +89789,17 @@ export const reviewsData: unknown[] = [
         "slug": "codice-ricompensa-yesstyle-cecilia010"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-09",
+    "decision": {
+      "takeIf": [
+        "Scegli YesStyle o Stylevana se vuoi 14 giorni dalla ricezione per chiedere il reso: entrambe concedono questo termine.",
+        "Considera Olive Young Global se preferisci che un reso approvato sia rimborsato sul metodo di pagamento, con la spedizione di ritorno pagata dal negozio. Accetta solo articoli difettosi o sbagliati."
+      ],
+      "skipIf": [
+        "Lascia stare tutti e cinque se pensi di restituire per ripensamento un prodotto di bellezza aperto: nessuno lo accetta.",
+        "Lascia stare Jolse se ti servono più di 7 giorni per chiedere il reso: chiede foto e accetta solo articoli difettosi, sbagliati o mancanti."
+      ]
+    }
   },
   {
     "id": 411,
@@ -89437,7 +89963,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "고를 때는: 위의 반품 표에서 신청 기한과 각 쇼핑몰이 받아 주는 범위를 비교하세요.",
           "어느 나라든: 주문을 확정하기 전에 각 쇼핑몰의 공식 페이지에서 배송, 세금 부담, 반품으로 받아 주는 사유를 확인하세요."
-        ]
+        ],
+        "emphasis": "가격보다 나라가 먼저입니다. 내 배송지로 배송하는 쇼핑몰부터 고르고, 우열이 안 가려지면 반품 표로 가르세요."
       },
       {
         "heading": "자주 묻는 질문",
@@ -89446,7 +89973,7 @@ export const reviewsData: unknown[] = [
           "YesStyle은 SHEIN과 같은 회사인가요? 아니요. YesStyle은 SHEIN Group의 브랜드 목록에 없고, 홍콩의 YesAsia Holdings 소속이라고 밝힙니다.",
           "StyleKorean의 주문 한도는 얼마인가요? 배송비를 제외하고 주문당 US$ 500이며, 이를 넘으면 두 번에 나눠 주문하라고 안내합니다.",
           "개봉한 뷰티 제품도 반품할 수 있나요? 단순 변심으로는 다섯 곳 모두 불가합니다. Stylevana는 새 제품이며 밀봉·미사용인 경우에 한해 단순 변심 반품을 받습니다.",
-          "YesStyle 리워드 코드는 어디에 입력하나요? CECILIA010은 결제 화면의 일반 쿠폰 칸이 아니라 Reward Code 칸에 입력하며, 쇼핑몰 쿠폰과 함께 쓸 수 있습니다. 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
+          "YesStyle 리워드 코드는 무엇인가요? CECILIA010은 첫 구매에 최대 5%, 이후 구매에 2%가 적용되며, 결제 화면의 별도 칸인 Reward Code에 입력합니다. 쇼핑몰 쿠폰 1개와 함께 쓸 수 있고, 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
         ]
       }
     ],
@@ -89473,7 +90000,17 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-ko"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-09",
+    "decision": {
+      "takeIf": [
+        "수령 후 14일 동안 반품을 신청하고 싶다면 YesStyle이나 Stylevana를 고르세요. 두 곳 모두 이 기한을 줍니다.",
+        "승인된 반품의 환불을 결제 수단으로 받고 반품 배송비도 쇼핑몰이 부담하길 원한다면 Olive Young Global을 고려할 수 있습니다. 다만 불량이나 오배송만 받아 줍니다."
+      ],
+      "skipIf": [
+        "개봉한 뷰티 제품을 단순 변심으로 반품할 생각이라면 다섯 곳 모두 건너뛰세요. 어디도 받아 주지 않습니다.",
+        "반품 신청에 7일보다 오래 걸린다면 Jolse는 건너뛰세요. 사진을 요구하고 불량, 오배송, 누락만 받아 줍니다."
+      ]
+    }
   },
   {
     "id": 412,
@@ -89637,7 +90174,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "決めるときは：上の返品の表で、申請できる期間と各ショップが受け付ける内容を比べましょう。",
           "どの国でも：注文を確定する前に、各ショップの公式ページで配送、税金の負担、返品で受け付ける内容を確認してください。"
-        ]
+        ],
+        "emphasis": "価格より先に国で決まります。まずお届け先に配送するショップを選び、決めきれないときは返品の表で比べましょう。"
       },
       {
         "heading": "よくある質問",
@@ -89646,7 +90184,7 @@ export const reviewsData: unknown[] = [
           "YesStyleはSHEINと同じですか？いいえ。YesStyleはSHEIN Groupのブランド一覧に載っておらず、香港のYesAsia Holdings傘下だと説明しています。",
           "StyleKoreanの注文の上限はいくらですか？送料を除いて1回US$500です。これを超えると、2回に分けるよう案内されます。",
           "開封した美容製品を返品できますか？気が変わっただけでは、5店のどこでも返品できません。Stylevanaは、新品・未開封・未使用の場合に限り、気が変わった場合の返品を受け付けます。",
-          "YesStyleのリワードコードはどこに入れますか？CECILIA010は、チェックアウトの通常のクーポン欄ではなく、Reward Codeの欄に入力し、ショップのクーポンと併用できます。現在のクーポンは、このサイトのYesStyleのページにあります。"
+          "YesStyleのリワードコードは何ですか？CECILIA010は初回購入で最大5%、2回目以降は2%の割引になり、チェックアウトの専用欄Reward Codeに入力します。ショップのクーポン1つと併用でき、現在のクーポンは、このサイトのYesStyleのページにあります。"
         ]
       }
     ],
@@ -89673,7 +90211,17 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-ja"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-09",
+    "decision": {
+      "takeIf": [
+        "受け取りから14日の申請期間がほしいなら、YesStyleかStylevanaです。どちらもこの期間があります。",
+        "承認された返品の返金を支払い方法に戻してほしく、返送料もショップ負担がよければ、Olive Young Globalが選択肢です。ただし対象は不良品か違う商品だけです。"
+      ],
+      "skipIf": [
+        "開封した美容製品を気が変わって返品するつもりなら、5店とも見送りましょう。どこも受け付けません。",
+        "返品の申請に7日より長くかかるなら、Jolseは見送りましょう。写真が必要で、対象は不良品、違う商品、欠品だけです。"
+      ]
+    }
   },
   {
     "id": 413,
@@ -89837,7 +90385,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "做決定時：對照上方的退貨表，比較申請期限和各店接受退回什麼。",
           "無論在哪個國家：下單前，到各店官方頁面確認運送、稅費由誰負擔，以及接受退回什麼。"
-        ]
+        ],
+        "emphasis": "先看國家，再看價格：從配送到你地址的商店選起，難分高下時再用退貨表來決定。"
       },
       {
         "heading": "常見問題",
@@ -89846,7 +90395,7 @@ export const reviewsData: unknown[] = [
           "YesStyle 和 SHEIN 是同一家嗎？不是。YesStyle 不在 SHEIN Group 的品牌清單上，並表示隸屬於香港的 YesAsia Holdings。",
           "StyleKorean 的訂單上限是多少？每筆訂單 US$500（不含運費），超過時商店要求拆成兩筆。",
           "已拆封的美妝品可以退嗎？五家店都不接受因改變心意而退；Stylevana 只在商品全新、密封、未使用時接受。",
-          "YesStyle 的獎勵碼填在哪裡？CECILIA010 填入結帳頁的 Reward Code 欄位（不是一般優惠券欄位），可與商店自己的優惠券疊加；目前的優惠券在本站的 YesStyle 頁面。"
+          "YesStyle 的獎勵碼是什麼？CECILIA010 首購最高 5%，回購 2%，填入結帳頁獨立的 Reward Code 欄位，可與商店自己的一張優惠券疊加；目前的優惠券在本站的 YesStyle 頁面。"
         ]
       }
     ],
@@ -89873,7 +90422,17 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-09",
+    "decision": {
+      "takeIf": [
+        "選 YesStyle 或 Stylevana：如果你希望收貨後有 14 天的退貨申請期，兩家都有。",
+        "如果希望核准退貨後退回原付款方式，並由店家承擔退貨運費，可以考慮 Olive Young Global，但它只接受瑕疵或寄錯的商品。"
+      ],
+      "skipIf": [
+        "五家都別選：如果你打算把已拆封的美妝品因改變心意而退貨，沒有一家接受。",
+        "別選 Jolse：如果你申請退貨需要超過 7 天，它要求附照片，且只接受瑕疵、寄錯或缺少的商品。"
+      ]
+    }
   },
   {
     "id": 414,
@@ -90037,7 +90596,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "做决定时：对照上面的退货表，比较申请期限和各店接受退回什么。",
           "无论在哪个国家：下单前，到各店官方页面确认运送、税费由谁承担，以及接受退回什么。"
-        ]
+        ],
+        "emphasis": "先看国家，再看价格：从配送到你地址的商店选起，难分高下时再用退货表来定。"
       },
       {
         "heading": "常见问题",
@@ -90046,7 +90606,7 @@ export const reviewsData: unknown[] = [
           "YesStyle 和 SHEIN 是同一家公司吗？不是。YesStyle 不在 SHEIN Group 的品牌清单上，并表示隶属于香港的 YesAsia Holdings。",
           "StyleKorean 的订单上限是多少？每笔订单 US$500（不含运费），超过时商店要求拆成两笔。",
           "已拆封的美妆产品可以退吗？五家店都不接受因改变主意而退；Stylevana 只在产品全新、密封、未使用时接受。",
-          "YesStyle 的奖励码填在哪里？CECILIA010 填入结账页的 Reward Code 栏（不是普通优惠券栏），可与商店自己的优惠券叠加；目前的优惠券在本站的 YesStyle 页面。"
+          "YesStyle 的奖励码是什么？CECILIA010 首购最高 5%，回购 2%，填入结账页单独的 Reward Code 栏，可与商店自己的一张优惠券叠加；目前的优惠券在本站的 YesStyle 页面。"
         ]
       }
     ],
@@ -90073,7 +90633,17 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-09",
+    "decision": {
+      "takeIf": [
+        "选 YesStyle 或 Stylevana：如果你希望收货后有 14 天的退货申请期，两家都有。",
+        "如果希望获批退货后退回原付款方式，并由店家承担退货运费，可以考虑 Olive Young Global，但它只接受瑕疵或寄错的商品。"
+      ],
+      "skipIf": [
+        "五家都别选：如果你打算把已拆封的美妆产品因改变主意而退货，没有一家接受。",
+        "别选 Jolse：如果你申请退货需要超过 7 天，它要求附照片，且只接受瑕疵、寄错或缺少的商品。"
+      ]
+    }
   },
   {
     "id": 415,
@@ -126282,7 +126852,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Brasil",
-              "Entrega suspensa no site e no app; um pedido nosso de setembro foi enviado",
+              "Entrega suspensa temporariamente no site e no app; um pedido nosso de setembro foi enviado",
               "Não entrega"
             ],
             [
@@ -126305,7 +126875,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
           "alt": "Grade com 24 siglas de países, cada uma com dois pontos: o da esquerda para a YesStyle e o da direita para a Olive Young",
-          "caption": "Verde: entrega; amarelo: entrega sem prazo publicado ou, no Brasil, com a entrega da YesStyle suspensa; ×: não entrega; laranja: nos EUA, a Olive Young vende pela loja americana.",
+          "caption": "Verde: entrega; amarelo: entrega sem prazo publicado ou, no Brasil, com a entrega da YesStyle suspensa temporariamente; ×: não entrega; laranja: nos EUA, a Olive Young vende pela loja americana.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -126462,7 +127032,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A FAQ de países elegíveis da Olive Young Global diz que o envio não está disponível para países que não estão na lista, e cita Espanha, Brasil e Índia como exemplos. O seletor de destino da loja tem 61 países e não tem o Brasil. A tabela de envio, com a transportadora de cada país (DHL, FedEx, LX Pantos, UPS ou KSE), também não tem o Brasil.",
           "A loja diz que a lista pode mudar: países podem ser suspensos ou removidos a qualquer momento. A linha \"outras regiões\", de 15 dias, não diz quais países cobre, e a FAQ fala de países fora da lista. Para o Brasil, então, a resposta é a da FAQ: não é enviado.",
-          "As fontes da comparação não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle também não publica prazo nem frete para o Brasil, e a entrega ao país está suspensa no site e no app. Mesmo assim, um pedido nosso de setembro foi enviado dois dias depois de feito."
+          "As fontes da comparação não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle também não publica prazo nem frete para o Brasil, e a entrega ao país está suspensa temporariamente no site e no app. Mesmo assim, um pedido nosso de setembro foi enviado dois dias depois de feito."
         ]
       },
       {
@@ -126475,7 +127045,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher, conforme o país",
         "bullets": [
-          "Mora no Brasil: a Olive Young Global não entrega, e a entrega da YesStyle ao país está suspensa no site e no app, embora um pedido nosso de setembro tenha sido enviado.",
+          "Mora no Brasil: a Olive Young Global não entrega, e a entrega da YesStyle ao país está suspensa temporariamente no site e no app, embora um pedido nosso de setembro tenha sido enviado.",
           "Mora em Portugal: as duas entregam, e a YesStyle publica o prazo (10 a 15 dias úteis no Standard) e a Olive Young só a regra de frete. Nas duas, o frete é grátis a partir de US$ 60; abaixo disso, a YesStyle cobra US$ 5 e a Olive Young, US$ 25.",
           "Mora nos Estados Unidos: a comparação é com a OLIVE YOUNG US, e nas duas o frete grátis começa em US$ 35.",
           "Pesa a devolução: a YesStyle aceita desistência e troca de tamanho, com o número de devolução pedido em até 14 dias; a Olive Young só aceita defeito ou item errado, em 30 dias.",
@@ -126483,7 +127053,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Para ver a oferta da YesStyle antes de comprar, use a [página da YesStyle](/cupons/yesstyle)."
-        ]
+        ],
+        "emphasis": "Onde as duas entregam, a YesStyle é a escolha mais segura para quem pode mudar de ideia, porque aceita desistência e troca de tamanho. A Olive Young Global só compensa se você quer o reembolso na forma de pagamento original e aceita que só defeito ou item errado volta."
       },
       {
         "heading": "Perguntas frequentes",
@@ -126494,7 +127065,7 @@ export const reviewsData: unknown[] = [
           "Quem paga o imposto na Europa? Na Olive Young, para a União Europeia, o IVA e € 3 por código HS são cobrados no checkout, e a loja diz que nada mais é cobrado na entrega. Na YesStyle, em Portugal, o IVA de 23% já vem no preço. Os detalhes estão na seção de imposto.",
           "Dá para devolver produto aberto? Na Olive Young Global, não, a não ser que tenha defeito ou seja item errado enviado pela loja, em 30 dias. Na YesStyle, produto de beleza aberto e suplemento não voltam.",
           "A Olive Young Global e a OLIVE YOUNG US são a mesma loja? Não. A Global envia da Coreia para a lista de países e não para os EUA; a OLIVE YOUNG US é separada e tem regras próprias de frete e devolução.",
-          "Onde coloco o CECILIA010? No checkout da YesStyle, no campo Reward Code. Ele soma com os cupons da própria loja."
+          "Qual é o código de recompensa da YesStyle? O CECILIA010 dá até 5% na primeira compra e 2% nas seguintes, e vai no campo Reward Code do checkout. Ele soma com um cupom da própria loja."
         ]
       }
     ],
@@ -126747,7 +127318,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "To see YesStyle's offer before buying, use the [YesStyle page](/en/coupons/yesstyle)."
-        ]
+        ],
+        "emphasis": "Where both ship, YesStyle is the safer pick for anyone who might change their mind, because it accepts a change of mind and size exchanges. Olive Young Global only pays off if you want the refund to go back to the original payment method and accept that only a defect or a wrong item can be returned."
       },
       {
         "heading": "Frequently asked questions",
@@ -126756,7 +127328,7 @@ export const reviewsData: unknown[] = [
           "Who pays the tax in Europe? At Olive Young, for the European Union, VAT and €3 per HS code are charged at checkout, and the store says nothing else is charged on delivery. YesStyle says it pays the EU's €3 customs fee for the customer, for now. The details are in the tax section.",
           "Can an opened product be returned? At Olive Young Global, no, unless it is defective or a wrong item sent by the store, within 30 days. At YesStyle, opened beauty products and supplements do not go back.",
           "Are Olive Young Global and OLIVE YOUNG US the same store? No. Global ships from Korea to its list of countries and not to the US; OLIVE YOUNG US is separate and has its own shipping and return rules.",
-          "Where do I enter CECILIA010? At YesStyle checkout, in the Reward Code field. It stacks with the store's own coupons."
+          "What is YesStyle's reward code? CECILIA010 gives up to 5% on the first purchase and 2% on later ones, and goes in the Reward Code field at checkout. It stacks with one of the store's own coupons."
         ]
       }
     ],
@@ -127009,7 +127581,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Para ver la oferta de YesStyle antes de comprar, usa la [página de YesStyle](/es/coupons/yesstyle)."
-        ]
+        ],
+        "emphasis": "Donde las dos envían, YesStyle es la opción más segura para quien puede cambiar de idea, porque acepta el desistimiento y el cambio de talla. Olive Young Global solo compensa si quieres el reembolso en la forma de pago original y aceptas que solo se devuelva un defecto o un artículo equivocado."
       },
       {
         "heading": "Preguntas frecuentes",
@@ -127018,7 +127591,7 @@ export const reviewsData: unknown[] = [
           "¿Quién paga el impuesto en Europa? En Olive Young, para la Unión Europea, el IVA y 3 € por código HS se cobran en el pago, y la tienda dice que no se cobra nada más en la entrega. YesStyle dice que, por ahora, paga por el cliente la tasa de 3 € de la UE. Los detalles están en la sección de impuestos.",
           "¿Se puede devolver un producto abierto? En Olive Young Global, no, salvo que tenga un defecto o sea un artículo equivocado enviado por la tienda, en 30 días. En YesStyle, el producto de belleza abierto y los suplementos no vuelven.",
           "¿Olive Young Global y OLIVE YOUNG US son la misma tienda? No. La Global envía desde Corea a la lista de países y no a EE. UU.; OLIVE YOUNG US es independiente y tiene sus propias reglas de envío y devolución.",
-          "¿Dónde pongo CECILIA010? En el pago de YesStyle, en el campo Reward Code. Se suma a los cupones de la propia tienda."
+          "¿Cuál es el código de recompensa de YesStyle? CECILIA010 da hasta un 5 % en la primera compra y un 2 % en las siguientes, y va en el campo Reward Code del pago. Se suma a un cupón de la propia tienda."
         ]
       }
     ],
@@ -127271,7 +127844,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Pour voir l'offre de YesStyle avant d'acheter, utilisez la [page de YesStyle](/fr/coupons/yesstyle)."
-        ]
+        ],
+        "emphasis": "Là où les deux livrent, YesStyle est le choix le plus sûr pour qui peut changer d'avis, puisqu'elle accepte le changement d'avis et l'échange de taille. Olive Young Global ne vaut le coup que si vous tenez au remboursement sur le moyen de paiement d'origine et acceptez que seuls un défaut ou un article erroné soient repris."
       },
       {
         "heading": "Questions fréquentes",
@@ -127280,7 +127854,7 @@ export const reviewsData: unknown[] = [
           "Qui paie les taxes en Europe ? Chez Olive Young, pour l'Union européenne, la TVA et 3 € par code HS sont perçus au paiement, et la boutique indique que rien d'autre n'est perçu à la livraison. YesStyle indique que, pour l'instant, elle règle à la place du client les 3 € de frais de l'UE. Les détails sont dans la section sur les taxes.",
           "Peut-on retourner un produit ouvert ? Chez Olive Young Global, non, sauf s'il est défectueux ou si c'est un article erroné envoyé par la boutique, sous 30 jours. Chez YesStyle, le produit de beauté ouvert et les compléments alimentaires ne reviennent pas.",
           "Olive Young Global et OLIVE YOUNG US sont-elles la même boutique ? Non. La Global expédie depuis la Corée vers sa liste de pays et pas vers les États-Unis ; OLIVE YOUNG US est séparée et a ses propres règles de livraison et de retour.",
-          "Où saisir CECILIA010 ? Au paiement chez YesStyle, dans le champ Reward Code. Il se cumule avec les coupons de la boutique."
+          "Quel est le code de récompense de YesStyle ? CECILIA010 donne jusqu'à 5 % sur le premier achat et 2 % sur les suivants, et se saisit dans le champ Reward Code au paiement. Il se cumule avec un coupon de la boutique."
         ]
       }
     ],
@@ -127533,7 +128107,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Um das Angebot von YesStyle vor dem Kauf zu sehen, nutzen Sie die [Seite von YesStyle](/de/coupons/yesstyle)."
-        ]
+        ],
+        "emphasis": "Wo beide liefern, ist YesStyle die sicherere Wahl für alle, die es sich noch anders überlegen könnten, denn der Shop akzeptiert Sinnesänderung und Größentausch. Olive Young Global lohnt sich nur, wenn Ihnen die Erstattung auf die ursprüngliche Zahlungsart wichtig ist und Sie hinnehmen, dass nur Defekte oder falsche Artikel zurückgehen."
       },
       {
         "heading": "Häufige Fragen",
@@ -127542,7 +128117,7 @@ export const reviewsData: unknown[] = [
           "Wer zahlt die Steuern in Europa? Bei Olive Young werden für die Europäische Union Mehrwertsteuer und 3 € je HS-Code im Checkout erhoben, und der Shop sagt, dass bei der Lieferung nichts weiter erhoben wird. YesStyle sagt, dass der Shop die EU-Gebühr von 3 € vorerst für den Kunden übernimmt. Die Einzelheiten stehen im Abschnitt zu den Steuern.",
           "Kann man ein geöffnetes Produkt zurückgeben? Bei Olive Young Global nein, außer es ist defekt oder ein vom Shop falsch gesendeter Artikel, innerhalb von 30 Tagen. Bei YesStyle werden geöffnete Beauty-Produkte und Nahrungsergänzungsmittel nicht zurückgenommen.",
           "Sind Olive Young Global und OLIVE YOUNG US derselbe Shop? Nein. Global versendet aus Korea in die Länderliste und nicht in die USA; OLIVE YOUNG US ist getrennt und hat eigene Versand- und Rückgaberegeln.",
-          "Wo gebe ich CECILIA010 ein? Im Checkout von YesStyle, im Feld Reward Code. Er lässt sich mit den Gutscheinen des Shops selbst kombinieren."
+          "Wie lautet der Reward Code von YesStyle? CECILIA010 gibt bis zu 5 % auf den ersten Einkauf und 2 % auf die folgenden und kommt im Checkout in das Feld Reward Code. Er lässt sich mit einem Gutschein des Shops selbst kombinieren."
         ]
       }
     ],
@@ -127795,7 +128370,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Per vedere l'offerta di YesStyle prima di comprare, usa la [pagina di YesStyle](/it/coupons/yesstyle)."
-        ]
+        ],
+        "emphasis": "Dove spediscono entrambe, YesStyle è la scelta più sicura per chi può ripensarci, perché accetta il ripensamento e il cambio di taglia. Olive Young Global conviene solo se vuoi il rimborso sul metodo di pagamento originale e accetti che si possa restituire soltanto un difetto o un articolo sbagliato."
       },
       {
         "heading": "Domande frequenti",
@@ -127804,7 +128380,7 @@ export const reviewsData: unknown[] = [
           "Chi paga le imposte in Europa? Su Olive Young, per l'Unione Europea, IVA e 3 € per codice HS vengono riscossi al checkout, e il negozio dice che alla consegna non viene riscosso nient'altro. YesStyle dice che, per ora, paga lei al posto del cliente la tassa UE di 3 €. I dettagli sono nella sezione sulle imposte.",
           "Si può restituire un prodotto aperto? Su Olive Young Global, no, a meno che sia difettoso o sia un articolo sbagliato inviato dal negozio, entro 30 giorni. Su YesStyle, il prodotto di bellezza aperto e gli integratori non tornano.",
           "Olive Young Global e OLIVE YOUNG US sono lo stesso negozio? No. La Global spedisce dalla Corea all'elenco di paesi e non agli USA; OLIVE YOUNG US è separata e ha regole proprie di spedizione e reso.",
-          "Dove inserisco CECILIA010? Al checkout di YesStyle, nel campo Reward Code. Si somma ai coupon del negozio stesso."
+          "Qual è il codice ricompensa di YesStyle? CECILIA010 dà fino al 5% sul primo acquisto e il 2% sui successivi, e va nel campo Reward Code al checkout. Si somma a un coupon del negozio stesso."
         ]
       }
     ],
@@ -128057,7 +128633,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "YesStyle의 혜택을 사기 전에 확인하려면 [YesStyle 페이지](/ko/coupons/yesstyle)를 이용하세요."
-        ]
+        ],
+        "emphasis": "두 곳 모두 배송하는 나라라면, 마음이 바뀔 수 있는 사람에게는 YesStyle이 더 안전합니다. 단순 변심 반품과 사이즈 교환을 받아 주기 때문입니다. Olive Young Global은 원래 결제 수단으로 환불받는 것이 중요하고, 불량이나 오배송만 반품된다는 점을 받아들일 때 어울립니다."
       },
       {
         "heading": "자주 묻는 질문",
@@ -128066,7 +128643,7 @@ export const reviewsData: unknown[] = [
           "유럽에서는 세금을 누가 낼까요? Olive Young은 EU로 가는 주문에서 VAT와 HS 코드당 €3를 결제 화면에서 받고, 배달 때 더 받지 않는다고 밝힙니다. YesStyle은 당분간 EU의 €3 수수료를 고객 대신 낸다고 밝혔습니다. 자세한 내용은 세금 장에 있습니다.",
           "개봉한 상품도 반품할 수 있을까요? Olive Young Global에서는 불량이거나 쇼핑몰이 잘못 보낸 상품이 아니면 안 되며, 신청 기한은 30일입니다. YesStyle에서는 개봉한 뷰티 제품과 보충제는 반품할 수 없습니다.",
           "Olive Young Global과 OLIVE YOUNG US는 같은 쇼핑몰일까요? 아닙니다. Global은 한국에서 목록에 있는 나라로 보내며 미국에는 보내지 않습니다. OLIVE YOUNG US는 별도 쇼핑몰이고 배송비와 반품 규칙도 따로 있습니다.",
-          "CECILIA010은 어디에 입력하나요? YesStyle 결제 화면의 Reward Code 칸에 입력합니다. 쇼핑몰 자체 쿠폰과 함께 쓸 수 있습니다."
+          "YesStyle의 리워드 코드는 무엇인가요? CECILIA010은 첫 구매에 최대 5%, 이후 구매에 2%가 적용되며, 결제 화면의 Reward Code 칸에 입력합니다. 쇼핑몰 자체 쿠폰 1개와 함께 쓸 수 있습니다."
         ]
       }
     ],
@@ -128319,7 +128896,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "YesStyleのオファーを購入前に確認するには、[YesStyleのページ](/ja/coupons/yesstyle)をご覧ください。"
-        ]
+        ],
+        "emphasis": "両方が配送している国では、気が変わる可能性がある人にはYesStyleのほうが安心です。気が変わった場合の返品もサイズ交換も受け付けるからです。Olive Young Globalは、元の支払い方法への返金を重視し、返品できるのが不良品か違う商品に限られても構わない場合に向いています。"
       },
       {
         "heading": "よくある質問",
@@ -128328,7 +128906,7 @@ export const reviewsData: unknown[] = [
           "ヨーロッパでは、税金は誰が払いますか？ Olive YoungはEU向けの注文で、VATとHSコードごとの€3をチェックアウトで徴収し、配達時にそれ以上は請求されないとしています。YesStyleは、EUの€3の手数料を現時点では顧客のかわりに負担しているとしています。詳しくは税金の章をご覧ください。",
           "開封した商品は返品できますか？ Olive Young Globalでは、不良品かショップが違う商品を送った場合を除き、返品できません。申請は30日以内です。YesStyleは、開封済みの美容商品とサプリメントは返品できません。",
           "Olive Young GlobalとOLIVE YOUNG USは同じショップですか？ いいえ。Olive Young Globalは韓国から対象国のリストに発送し、アメリカには発送しません。OLIVE YOUNG USは別のショップで、送料と返品のルールも別です。",
-          "CECILIA010はどこに入れますか？ YesStyleのチェックアウトにある、Reward Code欄に入力します。ショップ自身のクーポンと併用できます。"
+          "YesStyleのリワードコードは何ですか？ CECILIA010は初回購入で最大5%、2回目以降は2%の割引になり、チェックアウトのReward Code欄に入力します。ショップ自身のクーポン1つと併用できます。"
         ]
       }
     ],
@@ -128581,7 +129159,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "想在購買前查看 YesStyle 的優惠，請到 [YesStyle 頁面](/zh-hant/coupons/yesstyle)。"
-        ]
+        ],
+        "emphasis": "在兩家都寄得到的國家，如果你可能改變心意，YesStyle 更穩妥，因為它接受改變心意的退貨與更換尺寸。Olive Young Global 只適合這樣的人：重視退款退回原付款方式，並接受只有瑕疵或寄錯的商品才能退。"
       },
       {
         "heading": "常見問題",
@@ -128590,7 +129169,7 @@ export const reviewsData: unknown[] = [
           "在歐洲，稅金誰來付？ Olive Young 對寄往歐盟的訂單，在結帳時收取 VAT 與每個 HS 編碼 €3，並表示收貨時不會再收其他費用。YesStyle 表示目前替顧客支付歐盟的 €3 費用。詳情請見稅金那一章。",
           "拆封的商品可以退嗎？ 在 Olive Young Global，除非商品有瑕疵或是店家寄錯，否則不行，期限為 30 天。在 YesStyle，已拆封的美妝品與營養補充品不能退。",
           "Olive Young Global 和 OLIVE YOUNG US 是同一家店嗎？ 不是。Global 從韓國寄往名單上的國家，不寄往美國；OLIVE YOUNG US 是獨立的網站，運費與退貨規則各自不同。",
-          "CECILIA010 要填在哪裡？ 填在 YesStyle 結帳頁的 Reward Code 欄位，可與店家自己的優惠券一併使用。"
+          "YesStyle 的獎勵碼是什麼？ CECILIA010 首購最高 5%，回購 2%，填在結帳頁的 Reward Code 欄位，可與店家自己的一張優惠券一併使用。"
         ]
       }
     ],
@@ -128843,7 +129422,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "想在购买前查看 YesStyle 的优惠，请到 [YesStyle 页面](/zh-hans/coupons/yesstyle)。"
-        ]
+        ],
+        "emphasis": "在两家都寄得到的国家，如果你可能改变主意，YesStyle 更稳妥，因为它接受改变主意的退货和更换尺寸。Olive Young Global 只适合这样的人：看重退款退回原付款方式，并接受只有瑕疵或寄错的商品才能退。"
       },
       {
         "heading": "常见问题",
@@ -128852,7 +129432,7 @@ export const reviewsData: unknown[] = [
           "在欧洲，税费谁来付？ Olive Young 对寄往欧盟的订单，在结账时收取 VAT 和每个 HS 编码 €3，并表示收货时不会再收其他费用。YesStyle 表示目前替顾客支付欧盟的 €3 费用。详情见税费一章。",
           "拆封的商品可以退吗？ 在 Olive Young Global，除非商品有瑕疵或是店家寄错，否则不行，期限为 30 天。在 YesStyle，已拆封的美妆产品和营养补充品不能退。",
           "Olive Young Global 和 OLIVE YOUNG US 是同一家店吗？ 不是。Global 从韩国寄往名单上的国家，不寄往美国；OLIVE YOUNG US 是独立的网站，运费和退货规则各自不同。",
-          "CECILIA010 填在哪里？ 填在 YesStyle 结账页的 Reward Code 栏位，可与店家自己的优惠券一同使用。"
+          "YesStyle 的奖励码是什么？ CECILIA010 首购最高 5%，回购 2%，填在结账页的 Reward Code 栏位，可与店家自己的一张优惠券一同使用。"
         ]
       }
     ],
@@ -154241,13 +154821,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "App Store",
-            "href": "https://apps.apple.com/br/app/id868675907",
-            "sponsored": true
+            "href": "https://apps.apple.com/br/app/id868675907"
           },
           {
             "label": "Google Play",
-            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-            "sponsored": true
+            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
           }
         ]
       },
@@ -154349,19 +154927,31 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Sobre segurança da loja, o [YesStyle é confiável?](/reviews/yesstyle-e-confiavel) responde."
-        ]
+        ],
+        "emphasis": "O app é só outro caminho para comprar: o CECILIA010 vale igual no site e no app, e o que o app pode somar são os 50 pontos YS do primeiro download. Quem prefere o site não perde nada."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "A YesStyle tem app? Sim, para Android e iPhone, nos links oficiais do Google Play e da App Store. A loja diz para baixar só por esses dois.",
+          "Qual é o código de recompensa da YesStyle no app? O CECILIA010: 5% na primeira compra e 2% nas seguintes. Na tela \"Enter Code\", ele vai no campo \"Influencer / Rewards Code\", ao lado do \"Coupon Code\", e o resumo mostra a linha \"Influencer Code Discount\".",
           "O CECILIA010 vale no app? Sim. No checkout, toque em \"Enter Code\" e digite o código no campo \"Influencer / Rewards Code\". Ele é código de recompensa, com até 5% extra, e soma com o cupom da loja, que vai no campo \"Coupon Code\".",
           "O app da YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app.",
           "Ganho pontos por baixar o app? Sim, uma vez por conta: 50 pontos YS no primeiro download do app com login. Reinstalar ou usar outro aparelho não dá de novo, e os pontos não são o código de recompensa.",
           "O app tem cupom exclusivo? A loja diz que publica um cupom de 24 horas, uma vez por mês, só para pedido no app. Na época do teste do app não havia um ativo; os cupons ativos ficam na página da loja."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você prefere comprar pelo celular e quer saber onde o código de recompensa CECILIA010 entra no app.",
+        "Você já tem conta no site: no app é a mesma, e a sacola é uma só se você estiver logado."
+      ],
+      "skipIf": [
+        "Você precisa receber no Brasil: a entrega ao Brasil está suspensa temporariamente no site e no app.",
+        "Você conta com um cupom exclusivo do app: a loja diz que ele sai uma vez por mês, em horário aleatório, e pode não haver um ativo."
+      ]
+    }
   },
   {
     "id": 631,
@@ -154443,13 +155033,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "App Store",
-            "href": "https://apps.apple.com/br/app/id868675907",
-            "sponsored": true
+            "href": "https://apps.apple.com/br/app/id868675907"
           },
           {
             "label": "Google Play",
-            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-            "sponsored": true
+            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
           }
         ]
       },
@@ -154544,18 +155132,30 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "On store safety, [Is YesStyle legit?](/en/reviews/is-yesstyle-legit-and-safe-review) has the answer."
-        ]
+        ],
+        "emphasis": "The app is just another way to shop: CECILIA010 works the same on the website and in the app, and what the app can add is the 50 YS points for the first download. If you prefer the website, you lose nothing."
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
           "Does YesStyle have an app? Yes, for Android and iPhone, at the official Google Play and App Store links. The store says to download only from those two.",
+          "What is the YesStyle Reward Code in the app? CECILIA010: 5% on the first order and 2% on later ones. On the \"Enter Code\" screen it goes in the \"Influencer / Rewards Code\" field, next to \"Coupon Code\", and the summary shows an \"Influencer Code Discount\" line.",
           "Does CECILIA010 work in the app? Yes. At checkout, tap \"Enter Code\" and type the code in the \"Influencer / Rewards Code\" field. It is a reward code, with up to 5% extra, and it stacks with the store coupon, which goes in the \"Coupon Code\" field.",
           "Do I earn points for downloading the app? Yes, once per account: 50 YS points on the first download of the app with a sign-in. Reinstalling or using another device doesn't give them again, and the points are not the reward code.",
           "Does the app have an exclusive coupon? The store says it publishes a 24-hour coupon, once a month, only for orders in the app. When the app was tested there wasn't an active one; the active coupons are on the store page."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "You prefer shopping on your phone and want to know where the CECILIA010 Reward Code goes in the app.",
+        "You already have a website account: it's the same one in the app, and the bag is shared when you're signed in."
+      ],
+      "skipIf": [
+        "You need delivery to a country the store doesn't ship to: shopping in the app doesn't change the destination rules.",
+        "You're counting on an app-only coupon: the store says one comes out once a month, at a random time, so there may not be one active."
+      ]
+    }
   },
   {
     "id": 632,
@@ -154637,13 +155237,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "App Store",
-            "href": "https://apps.apple.com/br/app/id868675907",
-            "sponsored": true
+            "href": "https://apps.apple.com/br/app/id868675907"
           },
           {
             "label": "Google Play",
-            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-            "sponsored": true
+            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
           }
         ]
       },
@@ -154738,18 +155336,30 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Si el problema persiste, consulta el centro de ayuda de YesStyle. Sobre la seguridad de la tienda, responde [¿Es fiable YesStyle?](/es/reviews/es-yesstyle-de-fiar-y-seguro)."
-        ]
+        ],
+        "emphasis": "La app es solo otra forma de comprar: el CECILIA010 vale igual en la web y en la app, y lo que la app puede sumar son los 50 puntos YS de la primera descarga. Si prefieres la web, no pierdes nada."
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿YesStyle tiene app? Sí, para Android e iPhone, en los enlaces oficiales de Google Play y la App Store. La tienda indica que se descargue solo desde esos dos.",
+          "¿Cuál es el código de recompensa de YesStyle en la app? CECILIA010: un 5 % en la primera compra y un 2 % en las siguientes. En la pantalla \"Enter Code\" va en el campo \"Influencer / Rewards Code\", junto a \"Coupon Code\", y el resumen muestra la línea \"Influencer Code Discount\".",
           "¿El CECILIA010 vale en la app? Sí. En el checkout, toca \"Enter Code\" y escribe el código en el campo \"Influencer / Rewards Code\". Es un código de recompensa, con hasta un 5 % extra, y se suma al cupón de la tienda, que va en el campo \"Coupon Code\".",
           "¿Gano puntos por descargar la app? Sí, una vez por cuenta: 50 puntos YS en la primera descarga de la app con inicio de sesión. Reinstalar o usar otro dispositivo no los da de nuevo, y los puntos no son el código de recompensa.",
           "¿La app tiene un cupón exclusivo? La tienda indica que publica un cupón de 24 horas, una vez al mes, solo para pedidos en la app. Cuando se probó la app no había ninguno activo; los cupones activos están en la página de la tienda."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Prefieres comprar desde el móvil y quieres saber dónde entra el código de recompensa CECILIA010 en la app.",
+        "Ya tienes cuenta en la web: es la misma en la app, y la bolsa es una sola si has iniciado sesión."
+      ],
+      "skipIf": [
+        "Necesitas recibir el pedido en un país al que la tienda no envía: comprar desde la app no cambia las reglas de destino.",
+        "Cuentas con un cupón exclusivo de la app: la tienda dice que sale uno al mes, a una hora aleatoria, y puede que no haya ninguno activo."
+      ]
+    }
   },
   {
     "id": 633,
@@ -154831,13 +155441,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "App Store",
-            "href": "https://apps.apple.com/br/app/id868675907",
-            "sponsored": true
+            "href": "https://apps.apple.com/br/app/id868675907"
           },
           {
             "label": "Google Play",
-            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-            "sponsored": true
+            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
           }
         ]
       },
@@ -154932,18 +155540,30 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Si le problème persiste, consultez le centre d'aide de YesStyle. Sur la sécurité de la boutique, [YesStyle est-il fiable ?](/fr/reviews/yesstyle-est-il-fiable-et-sur) répond."
-        ]
+        ],
+        "emphasis": "L'appli n'est qu'une autre façon de commander : CECILIA010 vaut autant sur le site que dans l'appli, et ce que l'appli peut ajouter, ce sont les 50 points YS du premier téléchargement. Si vous préférez le site, vous ne perdez rien."
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
           "YesStyle a-t-il une appli ? Oui, pour Android et iPhone, sur les liens officiels de Google Play et de l'App Store. La boutique indique de télécharger uniquement depuis ces deux liens.",
+          "Quel est le code récompense YesStyle dans l'appli ? CECILIA010 : 5 % sur la première commande et 2 % sur les suivantes. Sur l'écran « Enter Code », il va dans le champ « Influencer / Rewards Code », à côté de « Coupon Code », et le récapitulatif affiche la ligne « Influencer Code Discount ».",
           "Le CECILIA010 fonctionne-t-il dans l'appli ? Oui. À la validation de commande, touchez « Enter Code » et saisissez le code dans le champ « Influencer / Rewards Code ». C'est un code de récompense, avec jusqu'à 5 % en plus, et il se cumule avec le coupon de la boutique, qui se saisit dans le champ « Coupon Code ».",
           "Gagne-t-on des points en téléchargeant l'appli ? Oui, si c'est la première fois : 50 points YS au premier téléchargement de l'appli suivi d'une connexion, une fois par compte. Réinstaller ou changer d'appareil ne les redonne pas, et les points ne sont pas le code récompense.",
           "L'appli a-t-elle un coupon exclusif ? La boutique indique publier un coupon de 24 heures, une fois par mois, réservé aux commandes dans l'appli. Lors du test de l'appli, aucun n'était actif ; les coupons actifs figurent sur la page de la boutique."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous préférez commander depuis votre téléphone et voulez savoir où saisir le code récompense CECILIA010 dans l'appli.",
+        "Vous avez déjà un compte sur le site : c'est le même dans l'appli, et le panier est unique si vous êtes connecté."
+      ],
+      "skipIf": [
+        "Vous devez être livré dans un pays que la boutique ne dessert pas : commander dans l'appli ne change pas les règles de destination.",
+        "Vous comptez sur un coupon réservé à l'appli : la boutique dit en sortir un par mois, à une heure aléatoire, et il peut ne pas y en avoir d'actif."
+      ]
+    }
   },
   {
     "id": 634,
@@ -155025,13 +155645,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "App Store",
-            "href": "https://apps.apple.com/br/app/id868675907",
-            "sponsored": true
+            "href": "https://apps.apple.com/br/app/id868675907"
           },
           {
             "label": "Google Play",
-            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-            "sponsored": true
+            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
           }
         ]
       },
@@ -155126,18 +155744,30 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Se il problema persiste, consulta il centro assistenza di YesStyle. Sulla sicurezza dello shop risponde [YesStyle è affidabile?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
-        ]
+        ],
+        "emphasis": "L'app è solo un altro modo di acquistare: il CECILIA010 vale uguale sul sito e nell'app, e ciò che l'app può aggiungere sono i 50 punti YS del primo download. Se preferisci il sito, non perdi nulla."
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
           "YesStyle ha un'app? Sì, per Android e iPhone, nei link ufficiali di Google Play e dell'App Store. Lo shop dice di scaricarla solo da questi due.",
+          "Qual è il codice ricompensa di YesStyle nell'app? CECILIA010: 5% sul primo ordine e 2% sui successivi. Nella schermata \"Enter Code\" va nel campo \"Influencer / Rewards Code\", accanto a \"Coupon Code\", e il riepilogo mostra la riga \"Influencer Code Discount\".",
           "Il CECILIA010 vale nell'app? Sì. Al checkout, tocca \"Enter Code\" e digita il codice nel campo \"Influencer / Rewards Code\". È un codice ricompensa, con fino al 5% in più, e si somma al coupon dello shop, che va nel campo \"Coupon Code\".",
           "Si guadagnano punti scaricando l'app? Sì, la prima volta: 50 punti YS al primo download dell'app con accesso, una sola volta per account. Reinstallare o usare un altro dispositivo non li assegna di nuovo, e i punti non sono il codice ricompensa.",
           "L'app ha un coupon esclusivo? Lo shop dice di pubblicare un coupon di 24 ore, una volta al mese, solo per ordini fatti nell'app. Durante il test dell'app non ce n'era uno attivo; i coupon attivi sono nella pagina dello shop."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Preferisci acquistare dal telefono e vuoi sapere dove va il codice ricompensa CECILIA010 nell'app.",
+        "Hai già un account sul sito: è lo stesso nell'app, e il carrello è uno solo se hai effettuato l'accesso."
+      ],
+      "skipIf": [
+        "Ti serve la consegna in un paese che il negozio non serve: acquistare dall'app non cambia le regole di destinazione.",
+        "Conti su un coupon esclusivo dell'app: il negozio dice che ne esce uno al mese, a un'ora casuale, quindi potrebbe non essercene uno attivo."
+      ]
+    }
   },
   {
     "id": 635,
@@ -155145,7 +155775,7 @@ export const reviewsData: unknown[] = [
     "locale": "de",
     "translationKey": "yesstyle-app",
     "title": "YesStyle-App: So bestellen Sie und wo der Reward Code CECILIA010 hingehört",
-    "seoTitle": "YesStyle-App: So bestellen Sie und wo der CECILIA010 hingehört",
+    "seoTitle": "YesStyle-App: So bestellen Sie, Reward Code CECILIA010",
     "type": "Anleitung",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -155219,13 +155849,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "App Store",
-            "href": "https://apps.apple.com/br/app/id868675907",
-            "sponsored": true
+            "href": "https://apps.apple.com/br/app/id868675907"
           },
           {
             "label": "Google Play",
-            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-            "sponsored": true
+            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
           }
         ]
       },
@@ -155320,18 +155948,30 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Besteht das Problem weiter, nutzen Sie das YesStyle-Hilfecenter. Zur Sicherheit des Shops antwortet [Ist YesStyle seriös?](/de/reviews/ist-yesstyle-serioes-und-sicher)."
-        ]
+        ],
+        "emphasis": "Die App ist nur ein anderer Weg zum Bestellen: CECILIA010 gilt auf der Website genauso wie in der App, und was die App zusätzlich bringen kann, sind die 50 YS-Punkte beim ersten Download. Wer die Website bevorzugt, verliert nichts."
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
           "Hat YesStyle eine App? Ja, für Android und iPhone, über die offiziellen Links von Google Play und App Store. Der Shop gibt an, dass man nur über diese beiden Links herunterladen soll.",
+          "Wie lautet der YesStyle-Reward-Code in der App? CECILIA010: 5 % auf die erste und 2 % auf die folgenden Bestellungen. Auf dem Bildschirm „Enter Code“ kommt er in das Feld „Influencer / Rewards Code“, neben „Coupon Code“, und die Zusammenfassung zeigt die Zeile „Influencer Code Discount“.",
           "Gilt der CECILIA010 in der App? Ja. Tippen Sie im Checkout auf „Enter Code“ und geben Sie den Code in das Feld „Influencer / Rewards Code“ ein. Er ist ein Reward Code mit bis zu 5 % extra und lässt sich mit dem Gutschein des Shops kombinieren, der in das Feld „Coupon Code“ gehört.",
           "Bekommt man Punkte für den Download der App? Ja, beim ersten Mal: 50 YS-Punkte beim ersten Download der App mit Anmeldung, einmalig pro Konto. Eine Neuinstallation oder ein anderes Gerät bringt sie nicht erneut, und die Punkte sind nicht der Reward Code.",
           "Hat die App einen exklusiven Gutschein? Der Shop gibt an, einmal im Monat einen 24-Stunden-Gutschein nur für Bestellungen in der App zu veröffentlichen. Beim Test der App war keiner aktiv; die aktiven Gutscheine stehen auf der Seite des Shops."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie kaufen lieber am Smartphone ein und wollen wissen, wo der Reward Code CECILIA010 in der App hingehört.",
+        "Sie haben schon ein Konto auf der Website: Es ist dasselbe in der App, und der Warenkorb ist einer, wenn Sie angemeldet sind."
+      ],
+      "skipIf": [
+        "Sie brauchen die Lieferung in ein Land, das der Shop nicht beliefert: Bestellen in der App ändert die Zielregeln nicht.",
+        "Sie rechnen mit einem App-Gutschein: Laut Shop erscheint einer pro Monat zu einer zufälligen Uhrzeit, es kann also keiner aktiv sein."
+      ]
+    }
   },
   {
     "id": 636,
@@ -155413,13 +156053,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "App Store",
-            "href": "https://apps.apple.com/br/app/id868675907",
-            "sponsored": true
+            "href": "https://apps.apple.com/br/app/id868675907"
           },
           {
             "label": "Google Play",
-            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-            "sponsored": true
+            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
           }
         ]
       },
@@ -155514,18 +156152,30 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "ショップの安全性については、[YesStyleは信頼できる？](/ja/reviews/yesstyle-trust-guide-ja)で答えています。"
-        ]
+        ],
+        "emphasis": "アプリは買い物の経路がひとつ増えるだけです。CECILIA010はサイトでもアプリでも同じように使え、アプリで上乗せできるのは初回ダウンロードの50 YSポイントくらいです。サイトで買う人も損はしません。"
       },
       {
         "heading": "よくある質問",
         "bullets": [
           "YesStyleにアプリはありますか？ あります。AndroidとiPhone向けで、Google PlayとApp Storeの公式リンクから入手できます。ショップは、この2つからのみダウンロードするよう案内しています。",
+          "アプリで使うYesStyleのリワードコードは何ですか？CECILIA010です。初回は5%、2回目以降は2%で、「Enter Code」画面の「Coupon Code」欄の隣にある「Influencer / Rewards Code」欄に入力し、サマリーに「Influencer Code Discount」の行が表示されます。",
           "アプリでCECILIA010は使えますか？ 使えます。チェックアウトで「Enter Code」をタップし、「Influencer / Rewards Code」欄にコードを入力します。リワードコードで、最大5%の追加割引が付き、「Coupon Code」欄に入力する店舗クーポンと併用できます。",
           "アプリをダウンロードするとポイントがもらえますか？ はい、初めてアプリをダウンロードしてログインした場合に、50 YSポイントがもらえます（アカウントにつき1回限り）。再インストールや別の端末では再付与されず、ポイントはリワードコードではありません。",
           "アプリ限定のクーポンはありますか？ ショップによると、月に1回、アプリからの注文のみで使える24時間のクーポンを公開しています。アプリをテストした時点では有効なものはありませんでした。有効なクーポンはショップのページでご確認ください。"
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "スマートフォンで買い物をするのが好きで、アプリのどこにリワードコードのCECILIA010を入れるか知りたい人。",
+        "すでにウェブサイトのアカウントがある人：アプリでも同じアカウントで、ログインしていればバッグも1つにまとまります。"
+      ],
+      "skipIf": [
+        "ストアが配送していない国で受け取る必要がある人：アプリで買っても配送先のルールは変わりません。",
+        "アプリ限定のクーポンを当てにしている人：ストアによると月に1回、ランダムな時間に出るため、有効なものがないこともあります。"
+      ]
+    }
   },
   {
     "id": 637,
@@ -155607,13 +156257,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "App Store",
-            "href": "https://apps.apple.com/br/app/id868675907",
-            "sponsored": true
+            "href": "https://apps.apple.com/br/app/id868675907"
           },
           {
             "label": "Google Play",
-            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-            "sponsored": true
+            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
           }
         ]
       },
@@ -155708,18 +156356,30 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "쇼핑몰 안전성은 [YesStyle은 믿을 만한가요?](/ko/reviews/yesstyle-trust-guide-ko)에서 다룹니다."
-        ]
+        ],
+        "emphasis": "앱은 주문하는 또 하나의 경로일 뿐입니다. CECILIA010은 웹사이트와 앱에서 똑같이 적용되고, 앱이 더해 줄 수 있는 것은 첫 다운로드 때의 50 YS 포인트 정도입니다. 웹사이트가 편하다면 잃는 것은 없습니다."
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
           "YesStyle에 앱이 있나요? 네, Android와 iPhone용이 있으며 Google Play와 App Store의 공식 링크에서 받을 수 있습니다. 쇼핑몰은 이 두 곳에서만 내려받으라고 안내합니다.",
+          "앱에서 쓰는 YesStyle 리워드 코드는 무엇인가요? CECILIA010입니다. 첫 주문에 5%, 이후 주문에 2%이며, \"Enter Code\" 화면의 \"Influencer / Rewards Code\" 칸에 \"Coupon Code\" 칸과 나란히 입력하고, 요약에는 \"Influencer Code Discount\" 줄이 표시됩니다.",
           "앱에서도 CECILIA010을 쓸 수 있나요? 네. 결제 화면에서 \"Enter Code\"를 누르고 \"Influencer / Rewards Code\" 칸에 코드를 입력하세요. 리워드 코드이며 최대 5% 추가 할인을 주고, \"Coupon Code\" 칸에 입력하는 쇼핑몰 쿠폰과 함께 쓸 수 있습니다.",
           "앱을 내려받으면 포인트를 받나요? 네, 앱을 처음 내려받아 로그인하면 YS 포인트 50점을 계정당 한 번 받습니다. 다시 설치하거나 다른 기기에서 로그인해도 다시 지급되지 않으며, 포인트는 리워드 코드가 아닙니다.",
           "앱 전용 쿠폰이 있나요? 쇼핑몰은 한 달에 한 번, 앱 주문에만 쓸 수 있는 24시간 쿠폰을 공개한다고 안내합니다. 앱을 테스트한 시점에는 사용 가능한 쿠폰이 없었습니다. 사용 가능한 쿠폰은 쇼핑몰 페이지에서 확인하세요."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "휴대폰으로 주문하는 쪽을 선호하고, 앱에서 리워드 코드 CECILIA010을 어디에 입력하는지 알고 싶은 분.",
+        "이미 웹사이트 계정이 있는 분: 앱에서도 같은 계정을 쓰고, 로그인하면 장바구니도 하나로 이어집니다."
+      ],
+      "skipIf": [
+        "매장이 배송하지 않는 나라로 받아야 하는 분: 앱으로 주문해도 배송지 규정은 바뀌지 않습니다.",
+        "앱 전용 쿠폰을 기대하는 분: 매장에 따르면 한 달에 한 번 무작위 시간에 나오므로 진행 중인 쿠폰이 없을 수 있습니다."
+      ]
+    }
   },
   {
     "id": 638,
@@ -155801,13 +156461,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "App Store",
-            "href": "https://apps.apple.com/br/app/id868675907",
-            "sponsored": true
+            "href": "https://apps.apple.com/br/app/id868675907"
           },
           {
             "label": "Google Play",
-            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-            "sponsored": true
+            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
           }
         ]
       },
@@ -155902,18 +156560,30 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "关于商店的安全性，[YesStyle 可靠吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)有解答。"
-        ]
+        ],
+        "emphasis": "App 只是另一种下单渠道：CECILIA010 在网站和 App 里都一样有效，App 能多给的是首次下载的 50 个 YS 积分。习惯用网站的人，也不会少拿什么。"
       },
       {
         "heading": "常见问题",
         "bullets": [
           "YesStyle 有 App 吗？有，适用于 Android 和 iPhone，通过 Google Play 和 App Store 的官方链接下载。商店表示只应从这两处下载。",
+          "YesStyle 在 App 里的奖励码是什么？CECILIA010：首单 5%、之后 2%，填在“Enter Code”页面的“Influencer / Rewards Code”输入框，位于“Coupon Code”旁，结账摘要会出现“Influencer Code Discount”一行。",
           "CECILIA010 在 App 里能用吗？能。在结账页点击“Enter Code”，把代码填入“Influencer / Rewards Code”输入框。它是奖励码，最高额外优惠 5%，可与填在“Coupon Code”输入框的商店优惠券叠加。",
           "下载 App 能获得积分吗？能，首次下载 App 并登录可获得 50 个 YS 积分，每个账户仅限一次。重新安装或换设备登录不会再次发放，积分也不是奖励码。",
           "App 有专属优惠券吗？商店表示每月发布一次 24 小时优惠券，仅限 App 下单使用。测试 App 时没有可用的。可用的优惠券请看商店页面。"
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你习惯用手机购物，想知道奖励码 CECILIA010 在 App 里要填在哪里。",
+        "你已有网站账号：App 用的是同一个账号，登录后购物袋也只有一个。"
+      ],
+      "skipIf": [
+        "你需要寄到商店不配送的国家：用 App 下单并不会改变配送地区的规定。",
+        "你指望 App 专属优惠券：商店表示每月会在随机时间推出一张，所以可能正好没有有效的。"
+      ]
+    }
   },
   {
     "id": 639,
@@ -155995,13 +156665,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "App Store",
-            "href": "https://apps.apple.com/br/app/id868675907",
-            "sponsored": true
+            "href": "https://apps.apple.com/br/app/id868675907"
           },
           {
             "label": "Google Play",
-            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-            "sponsored": true
+            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
           }
         ]
       },
@@ -156096,18 +156764,30 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "關於商店的安全性，[YesStyle 可靠嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)有解答。"
-        ]
+        ],
+        "emphasis": "App 只是另一種下單管道：CECILIA010 在網站和 App 裡都一樣有效，App 能多給的是第一次下載的 50 個 YS 點數。習慣用網站的人，也不會少拿什麼。"
       },
       {
         "heading": "常見問題",
         "bullets": [
           "YesStyle 有 App 嗎？有，適用於 Android 和 iPhone，透過 Google Play 和 App Store 的官方連結下載。商店表示只應從這兩處下載。",
+          "YesStyle 在 App 裡的獎勵碼是什麼？CECILIA010：首購 5%、之後 2%，填在「Enter Code」頁面的「Influencer / Rewards Code」欄位，位於「Coupon Code」旁，結帳摘要會出現「Influencer Code Discount」一行。",
           "CECILIA010 在 App 裡能用嗎？能。在結帳頁點選「Enter Code」，把代碼填入「Influencer / Rewards Code」欄位。它是獎勵碼，最高額外優惠 5%，可與填在「Coupon Code」欄位的商店優惠券疊加。",
           "下載 App 能獲得點數嗎？能，首次下載 App 並登入可獲得 YS 點數 50 點，每個帳戶限一次。重新安裝或換裝置登入不會再次發放，點數也不是獎勵碼。",
           "App 有專屬優惠券嗎？商店表示每月發布一次 24 小時優惠券，僅限 App 下單使用。測試 App 時沒有可用的。可用的優惠券請看商店頁面。"
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你習慣用手機購物，想知道獎勵碼 CECILIA010 在 App 裡要填在哪裡。",
+        "你已有網站帳號：App 用的是同一個帳號，登入後購物袋也只有一個。"
+      ],
+      "skipIf": [
+        "你需要寄到商店不配送的國家：用 App 下單並不會改變配送地區的規定。",
+        "你指望 App 專屬優惠券：商店表示每月會在隨機時間推出一張，所以可能剛好沒有有效的。"
+      ]
+    }
   },
   {
     "id": 640,
@@ -173689,11 +174369,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A YesStyle tem nota 4,4 na Trustpilot, com mais de 104 mil avaliações e 71% de cinco estrelas. Veja os temas das queixas e os limites de uma nota global.",
-    "metaDescription": "YesStyle na Trustpilot em novembro: nota 4,4 em 104 mil avaliações, 71% de cinco estrelas, queixas de entrega e rastreio. Veja o que a nota não mostra.",
+    "description": "A YesStyle tem nota 4,4 na Trustpilot, com mais de 105 mil avaliações e 71% de cinco estrelas. Veja o que as queixas de entrega mostram e o que a nota não mostra.",
+    "metaDescription": "YesStyle na Trustpilot: nota 4,4, 105 mil avaliações e queixas de entrega. Veja o que a nota mostra, o que não mostra e onde conferir o seu país.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-pt-v2.webp",
@@ -173706,45 +174386,78 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em novembro, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas. Nas avaliações negativas visíveis, apareceram problemas de entrega internacional e rastreio, e a nota global não separa países."
+          "A YesStyle tem nota 4,4 na Trustpilot, com 105.442 avaliações e 71% de cinco estrelas. Nas 40 avaliações de uma estrela mais recentes que lemos, metade falava de entrega: pedido que não chegou, pacote parado e atraso. A nota junta compradores de vários países, então confira prazo e frete do seu endereço antes de pagar."
         ]
       },
       {
         "heading": "O que a nota mede",
         "paragraphs": [
-          "O TrustScore é a nota do perfil na Trustpilot. A YesStyle tinha 4,4, com o rótulo \"Excellent\", em 104.909 avaliações; 11.757 delas foram publicadas nos últimos 12 meses. O perfil é reivindicado pela empresa e tem assinatura paga da Trustpilot, como a própria página informa.",
-          "A distribuição por estrela: 71% de cinco estrelas, 18% de quatro, 3% de três, 1% de duas e 7% de uma. Cinco e quatro estrelas somam a maior parte; a nota de uma estrela, com 7%, pesa mais do que as de duas e três juntas, e é nela que as queixas aparecem."
+          "O TrustScore é a nota do perfil na Trustpilot. A empresa reivindicou o perfil da YesStyle em 2013 e paga uma assinatura da Trustpilot, como a própria página informa.",
+          "Os 7% de uma estrela pesam mais que os 4% de duas e três estrelas somadas, e é nelas que as queixas aparecem. A média de 4,4 esconde essa faixa."
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-          "alt": "Barras de cinco a uma estrela com a distribuição das avaliações da YesStyle na Trustpilot: 71%, 18%, 3%, 1% e 7%",
-          "caption": "Distribuição das avaliações da YesStyle na Trustpilot. Quadro nosso.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Indicadores do perfil da YesStyle na Trustpilot, lidos em 23/11/2026",
+          "headers": [
+            "Indicador",
+            "YesStyle"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4,4, com o rótulo \"Excellent\""
+            ],
+            [
+              "Total de avaliações",
+              "105.442, sendo 12.070 nos últimos 12 meses"
+            ],
+            [
+              "Distribuição de estrelas",
+              "5★ 71% · 4★ 18% · 3★ 3% · 2★ 1% · 1★ 7%"
+            ],
+            [
+              "Status do perfil",
+              "Reivindicado desde 2013, com assinatura paga"
+            ],
+            [
+              "Origem das avaliações",
+              "A loja convida clientes a avaliar depois da compra"
+            ],
+            [
+              "Respostas às negativas",
+              "99%, em geral em até 24 h; a loja pode usar IA"
+            ]
+          ]
         },
         "postParagraphs": [
-          "A média resume tudo isso num número só. Para decidir, vale mais olhar o que as notas baixas dizem e como a loja responde a elas; é o que vem a seguir."
+          "Para decidir, vale mais ler o que as notas baixas dizem e como a loja responde a elas. É o que vem a seguir."
+        ],
+        "links": [
+          {
+            "label": "Perfil da YesStyle na Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
         ]
       },
       {
         "heading": "Quem avalia, e de onde",
         "paragraphs": [
-          "O perfil, o de www.yesstyle.com, é global: ele não separa as avaliações por país, e a página não diz quantas vieram de Portugal ou de qualquer outro lugar. A nota junta compradores de países diferentes, com frete, prazo e alfândega diferentes.",
-          "Para quem compra de Portugal, isso muda a leitura: a nota diz como a loja se comporta no conjunto, não como é a entrega no seu endereço. Esse dado está no checkout e na tabela de frete da loja, não na Trustpilot.",
-          "No Reclame Aqui, a página da YesStyle não era verificada e não tinha nenhuma reclamação respondida pela empresa. Por isso, o centro deste artigo é a Trustpilot. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
+          "O perfil de www.yesstyle.com é global. Ele reúne num painel só compradores de dezenas de países, com frete, prazo e alfândega diferentes, e não separa as avaliações por país.",
+          "A loja convida clientes a avaliar depois da compra, seja a opinião boa ou ruim. Na nossa amostra, 30 das 40 avaliações de cinco estrelas eram convites, e a maioria era curta. As de uma estrela vieram sobretudo de quem escreveu por conta própria (29 de 40), e falavam de entrega internacional. Ou seja: o convite enche o perfil de elogios rápidos, e quem reclama costuma fazer isso por conta própria.",
+          "Para quem compra de Portugal, a nota diz como a loja se comporta no conjunto, não como é a entrega no seu endereço. No checkout, confira o prazo, o frete, os impostos, a alfândega e a política de devolução do seu país.",
+          "Usamos a Trustpilot e não o Reclame Aqui porque o perfil da YesStyle lá não tem verificação nem respostas da loja, e a entrega ao Brasil segue suspensa temporariamente; por isso este artigo serve sobretudo a quem compra de Portugal. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
         ]
       },
       {
         "heading": "O que aparece nas queixas",
         "paragraphs": [
-          "Nas avaliações negativas visíveis, os temas foram estes, sem contar nem ranquear:"
+          "Lemos as 40 avaliações de uma estrela mais recentes, e a loja respondeu a todas. Os temas, por número de casos:"
         ],
         "bullets": [
-          "Atraso na entrega e espera longa, em pacote que vem de fora.",
-          "Rastreio que para de atualizar.",
-          "Pacote extraviado.",
-          "Item que chegou danificado.",
-          "Pedido retido no processamento, antes de sair."
+          "Entrega, em 20 de 40: pedido que não chegou ou foi dado como entregue sem chegar, pacote parado ou perdido no transporte, atraso além do prazo do site e pedido que não saiu depois de semanas. Várias contam que o atendimento manda falar com a transportadora.",
+          "Produto, em 9 de 40: item faltando, danificado, com cara de usado, pela metade, vencido ou com defeito.",
+          "Estoque, em 4 de 40: item que esgotou depois do pedido, com espera ou cancelamento.",
+          "Devolução, em 2 de 40: recusa por gosto pessoal ou reembolso só em crédito na loja.",
+          "Outros, em 5 de 40: programa de influenciadores, lançamento esgotado no site, app travando no pagamento, verificação de pagamento e uma avaliação positiva marcada com uma estrela."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -173754,21 +174467,14 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Esses relatos ajudam a montar uma conferência prática: prazo no checkout, rastreio depois do envio e estado da embalagem na chegada."
+          "Esses relatos mostram o que conferir antes de comprar: prazo no checkout, rastreio depois do envio e o estado da embalagem na chegada."
         ]
       },
       {
         "heading": "O que aparece nos elogios",
         "paragraphs": [
-          "Nas avaliações positivas, os temas são outros:"
-        ],
-        "bullets": [
-          "Preço baixo e promoções frequentes.",
-          "Seleção grande de beleza coreana.",
-          "Embalagem cuidadosa.",
-          "Avisos de envio úteis.",
-          "Entrega que às vezes chega antes do prazo.",
-          "App e site fáceis de usar."
+          "Também lemos 40 avaliações de cinco estrelas, as mais recentes. Trinta eram convites da loja, e a maioria tinha poucas linhas. Elogiam produto original e autêntico, variedade, preço e descontos, embalagem bem protegida e entrega mais rápida que o esperado.",
+          "O resumo automático da Trustpilot, feito por IA com base em 6.462 avaliações recentes, segue no mesmo rumo: produtos autênticos, preço e embalagem. É um resumo da própria Trustpilot, não nosso, e serve só de apoio."
         ],
         "postParagraphs": [
           "Elogio e queixa falam de momentos diferentes da compra: o elogio, do catálogo, do preço e do pacote que chegou; a queixa, do pacote que demorou ou não chegou. A nota junta os dois."
@@ -173777,54 +174483,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a loja responde",
         "paragraphs": [
-          "O perfil diz que a YesStyle respondeu a 98% das negativas, em geral em até 24 horas, e avisa que a resposta pode usar inteligência artificial.",
-          "Responder não é resolver. Este artigo não avalia o texto das respostas, então não diz se elas resolvem o problema de quem reclamou. Antes de comprar, vale abrir algumas avaliações de uma estrela no perfil e ler a resposta da loja embaixo de cada uma, em especial as de rastreio e extravio."
-        ]
-      },
-      {
-        "heading": "O que não dá para concluir",
-        "paragraphs": [
-          "A nota responde a uma pergunta, não a todas. Quatro coisas que a nota não sustenta:"
-        ],
-        "bullets": [
-          "Que a nota vale para o seu país: o perfil é global e não separa as avaliações por origem.",
-          "Que a nota mede o produto: ela junta produto, entrega e atendimento numa avaliação só, e os temas de queixa são de entrega e de processamento do pedido.",
-          "Que a loja resolve as reclamações: o perfil mostra o índice de respostas, 98%, e o prazo delas; este artigo não avalia o texto das respostas.",
-          "O que o resumo de IA da Trustpilot diz: a página traz um resumo gerado por inteligência artificial, e este artigo não o usa como fonte."
-        ]
-      },
-      {
-        "heading": "Nossa checagem",
-        "paragraphs": [
-          "Os dados da Trustpilot são do perfil público da YesStyle, sem login, em 28/10/2026: a nota, o número de avaliações, a distribuição por estrela, o índice de respostas e as avaliações visíveis, de onde saíram os temas. Os do Reclame Aqui são da página da YesStyle, do mesmo dia. Em novembro, a nota, o número de avaliações e a distribuição por estrela foram atualizados.",
-          "No app da loja, o checkout tem o campo do código de recompensa, e a YesStyle não oferecia entrega para o Brasil.",
-          "Os números da Trustpilot mudam todo mês; confira o perfil no dia da compra."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-          "alt": "Celular com o perfil da YesStyle na Trustpilot: nota 4,4, distribuição das estrelas e 98% das avaliações negativas respondidas",
-          "caption": "Perfil da YesStyle na Trustpilot, versão de celular. Print do site, com dois trechos ampliados.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "links": [
-          {
-            "label": "Perfil da YesStyle na Trustpilot",
-            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-          }
+          "O perfil diz que a YesStyle respondeu a 99% das avaliações negativas, em geral em até 24 horas, e avisa que a loja pode usar inteligência artificial nas respostas.",
+          "Responder não prova que o problema foi resolvido. Antes de comprar, abra algumas avaliações de uma estrela no perfil e veja como a loja respondeu, sobretudo nos casos de rastreio parado e extravio."
         ]
       },
       {
         "heading": "Dá para confiar na YesStyle pela Trustpilot?",
         "paragraphs": [
-          "Dá, com uma ressalva de escopo: pela Trustpilot, a nota é boa (TrustScore 4,4, em 104.909 avaliações, com 71% de cinco estrelas e 7% de uma). Para avaliar o atendimento, vale ler também as reclamações e as respostas recentes no perfil: o índice de respostas não mostra se o problema foi resolvido.",
-          "A ressalva é de escopo, não de nota. O perfil é global, não separa países, e as queixas são de entrega internacional: atraso, rastreio e extravio. A Trustpilot mostra como a loja se comporta no conjunto; o frete e o prazo do seu endereço estão no checkout."
-        ]
+          "Dá, com uma ressalva de escopo. A nota é boa: TrustScore 4,4 em 105.442 avaliações, com 71% de cinco estrelas. Ela mede a loja no conjunto. Para decidir a sua compra, leia as avaliações de uma estrela mais recentes e confira prazo e frete no checkout do seu país.",
+          "O perfil é global, e as queixas são de entrega internacional: atraso, rastreio parado e extravio. O frete e o prazo do seu endereço aparecem só no checkout."
+        ],
+        "emphasis": "Um 4,4 global diz como a loja trata a maioria dos pedidos, mas não diz nada sobre o seu endereço, e a entrega é justamente o que mais aparece nas queixas."
       },
       {
         "heading": "Antes de pagar",
         "paragraphs": [
-          "Nas avaliações negativas visíveis, apareceram problemas de entrega e rastreio. Antes de pagar, confira o frete e o prazo para o seu endereço no checkout. Para Portugal, o IVA já vem no preço, e os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "Nas 40 avaliações de uma estrela que lemos, a entrega e o rastreio aparecem em 20. Antes de pagar, confira o frete e o prazo para o seu endereço no checkout. Para Portugal, o IVA já vem no preço, e os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Depois de pagar, guarde o número do pedido e o código de rastreio: é com eles que se abre um chamado no atendimento se o pacote atrasar ou o rastreio parar.",
           "Se você decidiu comprar, a página de [cupons YesStyle e código de recompensa](/cupons/yesstyle) aqui do site leva à loja. O link é de afiliado: a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você."
         ]
@@ -173832,10 +174506,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A YesStyle tem boa nota na Trustpilot? Sim. O TrustScore era 4,4, com o rótulo \"Excellent\", em 104.909 avaliações; 71% davam cinco estrelas e 7%, uma.",
-          "Quais são as reclamações mais comuns sobre a YesStyle? Nas avaliações negativas, os temas eram de entrega internacional: atraso e espera longa, rastreio parado, pacote extraviado, item danificado e pedido retido no processamento.",
-          "A YesStyle responde às avaliações negativas? Segundo o perfil na Trustpilot, a loja respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a resposta pode usar inteligência artificial.",
-          "A YesStyle entrega no Brasil? Não: no app, a loja não oferecia envio para o Brasil. Confira o destino no checkout antes de comprar. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja."
+          "A YesStyle tem boa nota na Trustpilot? Sim. O TrustScore é 4,4, com o rótulo \"Excellent\", em 105.442 avaliações; 71% dão cinco estrelas e 7%, uma.",
+          "Quais são as reclamações mais comuns sobre a YesStyle? Nas 40 avaliações de uma estrela que lemos, 20 falavam de entrega: pedido que não chegou, pacote parado, atraso e pedido que não saiu.",
+          "A YesStyle responde às avaliações negativas? Segundo o perfil na Trustpilot, a loja respondeu a 99% das avaliações negativas, em geral em até 24 horas, e pode usar inteligência artificial nas respostas.",
+          "A YesStyle entrega no Brasil? Não no momento: a entrega ao Brasil está suspensa temporariamente. Confira o destino no checkout antes de comprar. Para Portugal, o prazo e o frete estão na tabela de frete da loja.",
+          "Qual é o código de recompensa da YesStyle? O CECILIA010 dá 5% na primeira compra e 2% nas seguintes, sem data de fim. Ele vai no campo Reward Code do checkout e soma com um cupom da própria YesStyle, no campo Coupon Code."
         ]
       }
     ],
@@ -173858,7 +174533,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-yesstyle"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você compra de Portugal e quer uma leitura honesta da nota, com as queixas de entrega à vista.",
+        "Você vai usar o código de recompensa CECILIA010 e pretende conferir frete e prazo no checkout antes de pagar."
+      ],
+      "skipIf": [
+        "Você precisa de entrega com prazo garantido: metade das avaliações de uma estrela que lemos falava de atraso, pacote parado ou extravio.",
+        "Você quer se apoiar na resposta da loja: 99% das negativas têm resposta, mas responder não prova que o problema foi resolvido."
+      ]
+    }
   },
   {
     "id": 687,
@@ -173877,11 +174562,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle scores 4.4 on Trustpilot, with over 104,000 reviews and 71% five-star. See the themes in negative reviews and why a global score says little about your own country.",
-    "metaDescription": "YesStyle on Trustpilot in November 2026: 4.4 from 104,000 reviews, 71% five-star, delivery and tracking complaints. See what the score doesn't show.",
+    "description": "YesStyle has a 4.4 on Trustpilot, with over 105,000 reviews and 71% five-star. See the complaint themes, and why a global score tells you nothing about delivery to your country.",
+    "metaDescription": "YesStyle on Trustpilot: 4.4 from 105,000 reviews, delivery complaints and what the score doesn't show. Check delivery to your country before you pay.",
     "publishedAt": "October 29, 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -173895,45 +174580,78 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "YesStyle has a good Trustpilot score, with one caveat. In November 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star. The visible negative reviews mentioned international delivery and tracking, and the score is global and doesn't separate countries."
+          "YesStyle has a 4.4 on Trustpilot, with 105,442 reviews and 71% five-star. Of the 40 most recent one-star reviews we read, half were about delivery: orders that never arrived, parcels stuck in transit and delays. The score pools buyers from many countries, so check the delivery time and shipping cost for your address before paying."
         ]
       },
       {
         "heading": "What the score measures",
         "paragraphs": [
-          "The TrustScore is the profile's Trustpilot score. YesStyle had 4.4, labeled “Excellent”, across 104,909 reviews; 11,757 of them were published in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
-          "The breakdown by star: 71% five-star, 18% four-star, 3% three-star, 1% two-star and 7% one-star. Five and four stars make up most of the total; the one-star share, at 7%, weighs more than two and three stars combined, and that is where the complaints show up."
+          "The TrustScore is the profile's score on Trustpilot. The company claimed the YesStyle profile in May 2013 and pays for a Trustpilot subscription, as the page itself states.",
+          "The 7% of one-star reviews weighs more than the 4% of two and three stars combined, and that is where the complaints show up. The 4.4 average hides that band."
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-          "alt": "Bars from five stars to one showing the distribution of YesStyle's Trustpilot reviews: 71%, 18%, 3%, 1% and 7%",
-          "caption": "Distribution of YesStyle's Trustpilot reviews. Chart by us.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "YesStyle's Trustpilot profile indicators, read on November 23, 2026",
+          "headers": [
+            "Indicator",
+            "YesStyle on November 23, 2026"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4.4, labeled \"Excellent\""
+            ],
+            [
+              "Total reviews",
+              "105,442, with 12,070 in the last 12 months"
+            ],
+            [
+              "Star distribution",
+              "5★ 71% · 4★ 18% · 3★ 3% · 2★ 1% · 1★ 7%"
+            ],
+            [
+              "Profile status",
+              "Claimed since May 2013, with a paid subscription"
+            ],
+            [
+              "Where reviews come from",
+              "The store invites customers to review after purchase"
+            ],
+            [
+              "Replies to negative reviews",
+              "99%, usually within 24 hours; the store may use AI"
+            ]
+          ]
         },
         "postParagraphs": [
-          "The average sums all this up in a single number. To decide, it's worth more to look at what the low scores say and how the store replies to them; that's what comes next."
+          "To decide, it's more useful to read what the low scores say and how the store answers them. That comes next."
+        ],
+        "links": [
+          {
+            "label": "YesStyle's profile on Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
         ]
       },
       {
         "heading": "Who reviews, and from where",
         "paragraphs": [
-          "The profile for www.yesstyle.com is global: it doesn't separate reviews by country, and the page doesn't say how many came from each country. The score brings together buyers from different countries, with different shipping, delivery times and customs.",
-          "For anyone buying, this changes how to read it: the score tells you how the store behaves overall, not what delivery is like at your address. That information is in the checkout and in the store's shipping table, not on Trustpilot.",
-          "Who operates the store, the Hong Kong headquarters and the parent company are covered in [Is YesStyle legit?](/en/reviews/is-yesstyle-legit-and-safe-review)."
+          "The www.yesstyle.com profile is global. It puts buyers from dozens of countries into one panel, with different shipping, delivery times and customs, and it doesn't split reviews by country.",
+          "The store invites customers to review after purchase, whether they're happy or not. In our sample, 30 of the 40 five-star reviews were invitations, and most were short. The one-star reviews came mostly from people who wrote on their own (29 of 40), and they talked about international delivery. So invitations fill the profile with short high scores, while unprompted complaints are where the delivery problems show up.",
+          "For you, the score says how the store behaves overall, not how delivery works at your address. At checkout, check the delivery time, shipping cost, import taxes and customs, and the returns policy for your own country.",
+          "Who runs the store, the Hong Kong headquarters and the parent company are covered in [Is YesStyle legit?](/en/reviews/is-yesstyle-legit-and-safe-review)."
         ]
       },
       {
         "heading": "What shows up in the complaints",
         "paragraphs": [
-          "In the visible negative reviews, the themes were these, without counting or ranking them:"
+          "We read the 40 most recent one-star reviews, and the store replied to every one. By number of cases:"
         ],
         "bullets": [
-          "Late delivery and long waits, on a package coming from abroad.",
-          "Tracking that stops updating.",
-          "Lost package.",
-          "Item that arrived damaged.",
-          "Order held in processing, before shipping."
+          "Delivery, 20 of 40: an order that never arrived or was marked delivered without arriving, a parcel stuck or lost in transit, delays past the estimate on the site, and orders not shipped after weeks. Several say customer service sent them to the carrier.",
+          "Product, 9 of 40: missing, damaged, used-looking, incomplete, expired or defective items.",
+          "Stock, 4 of 40: items that sold out after ordering, with waits or cancellations.",
+          "Returns, 2 of 40: refused because the buyer didn't like the item, or refunded only as store credit.",
+          "Other, 5 of 40: an influencer programme, a launch that sold out on the site, the app freezing at payment, a payment check, and a positive review marked one star."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -173943,87 +174661,50 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "These reports suggest practical checks: the delivery estimate at checkout, tracking after dispatch and the condition of the packaging on arrival."
+          "These reports point to what to check before you buy: the delivery time at checkout, tracking after dispatch and the condition of the packaging on arrival."
         ]
       },
       {
         "heading": "What shows up in the praise",
         "paragraphs": [
-          "In the positive reviews, the themes are different:"
-        ],
-        "bullets": [
-          "Low prices and frequent promotions.",
-          "A large selection of Korean beauty.",
-          "Careful packaging.",
-          "Helpful shipping notifications.",
-          "Delivery that sometimes arrives ahead of schedule.",
-          "An app and site that are easy to use."
+          "We also read the 40 most recent five-star reviews. Thirty were invitations from the store, and most were a few lines long. They praise original, authentic products, variety, prices and discounts, well-protected packaging, and delivery faster than expected.",
+          "Trustpilot's automatic summary, written by AI from 6,462 recent reviews, points the same way: authentic products, price and packaging. It is Trustpilot's summary, not ours, so we use it only as support."
         ],
         "postParagraphs": [
-          "Praise and complaints talk about different moments of the purchase: praise is about the catalog, the price and the package that arrived; complaints are about the package that was late or never came. The score combines both."
+          "Praise and complaints talk about different moments of the purchase: praise is about the catalogue, the price and the parcel that arrived; complaints are about the parcel that was late or never came. The score combines both."
         ]
       },
       {
         "heading": "What the store replies",
         "paragraphs": [
-          "The profile says YesStyle replied to 98% of negative reviews, usually within 24 hours, and warns that the reply may use artificial intelligence.",
-          "Replying is not solving. This article does not assess the text of the replies, so it doesn't say whether they fix the problem for the person who complained. Before buying, it's worth opening a few one-star reviews on the profile and reading the store's reply under each one, especially the ones about tracking and lost packages."
-        ]
-      },
-      {
-        "heading": "What can't be concluded",
-        "paragraphs": [
-          "The score answers one question, not all of them. Four things the score doesn't support:"
-        ],
-        "bullets": [
-          "That the score applies to your country: the profile is global and doesn't separate reviews by origin.",
-          "That the score measures the product: it combines product, delivery and customer service in a single review, and the complaint themes are about delivery and order processing.",
-          "That the store resolves complaints: the profile shows the reply rate, 98%, and the reply time; this article does not assess the text of the replies.",
-          "What Trustpilot's AI summary says: the page carries a summary generated by artificial intelligence, and this article doesn't use it as a source."
-        ]
-      },
-      {
-        "heading": "Our check",
-        "paragraphs": [
-          "The Trustpilot data come from the public YesStyle profile, without logging in, on October 28, 2026: the score, the number of reviews, the breakdown by star, the reply rate and the visible reviews, which is where the themes came from. In November, the score, the number of reviews and the breakdown by star were updated.",
-          "In the store app, the checkout has the Reward Code field.",
-          "Trustpilot's numbers change every month; check the profile on the day you buy."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-          "alt": "Phone showing YesStyle's Trustpilot profile: 4.4 score, star distribution and 98% of negative reviews answered",
-          "caption": "YesStyle's Trustpilot profile, mobile version. Screenshot of the site, with two sections enlarged.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "links": [
-          {
-            "label": "YesStyle's profile on Trustpilot",
-            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-          }
+          "The profile says YesStyle replied to 99% of negative reviews, usually within 24 hours, and warns that replies may use AI.",
+          "A reply doesn't prove the problem was fixed. Before buying, open a few one-star reviews on the profile and see how the store answered, especially cases about tracking that stopped and lost parcels."
         ]
       },
       {
         "heading": "Can you trust YesStyle going by Trustpilot?",
         "paragraphs": [
-          "Yes, with one caveat about scope: by Trustpilot, the score is good (TrustScore 4.4 across 104,909 reviews, with 71% five-star and 7% one-star). To assess customer service, also read recent complaints and replies on the profile; the reply rate doesn't show whether problems were resolved.",
-          "The caveat is about scope, not score. The profile is global, doesn't separate countries, and the complaints are about international delivery: delays, tracking and lost packages. Trustpilot shows how the store behaves overall; the shipping cost and delivery time for your address are in the checkout."
-        ]
+          "Yes, with a caveat about scope. The score is good: a TrustScore of 4.4 across 105,442 reviews, with 71% five-star. It describes the store as a whole. For your own purchase, read the most recent one-star reviews and check the delivery time and shipping cost for your country at checkout.",
+          "The caveat is about scope. The profile is global, and the complaints are about international delivery: delays, stalled tracking and lost parcels. The shipping cost and delivery time for your address appear only at checkout."
+        ],
+        "emphasis": "A global 4.4 tells you how the store handles most orders, but nothing about your address, and delivery is exactly what the complaints are about."
       },
       {
         "heading": "Before you pay",
         "paragraphs": [
-          "The visible negative reviews included delivery and tracking problems. Before paying, check the shipping cost and delivery estimate for your address at checkout. Rates and how delivery times are counted for each country are covered in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
-          "After paying, keep the order number and the tracking code: they are what you need to open a ticket with customer service if the package is late or tracking stops.",
+          "In the 40 one-star reviews we read, delivery and tracking came up in 20. Before paying, check the shipping cost and delivery estimate for your address at checkout. Rates and how delivery times are counted for each country are covered in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+          "After paying, keep the order number and the tracking code: you need both to open a ticket with customer service if the parcel is late or tracking stops.",
           "If you've decided to buy, our page on [YesStyle coupons and the reward code](/en/coupons/yesstyle) leads to the store. The link is an affiliate link: a purchase may earn Em Casa com Cecília a commission, at no extra cost to you."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Does YesStyle have a good Trustpilot score? Yes. The TrustScore was 4.4, labeled “Excellent”, across 104,909 reviews; 71% gave five stars and 7% gave one.",
-          "What are the most common complaints about YesStyle? In the negative reviews, the themes are about international delivery: delays and long waits, stalled tracking, lost packages, damaged items and orders held in processing.",
-          "Does YesStyle reply to negative reviews? According to the Trustpilot profile, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use artificial intelligence."
+          "Does YesStyle have a good Trustpilot score? Yes. The TrustScore is 4.4, labeled “Excellent”, across 105,442 reviews; 71% give five stars and 7% give one.",
+          "What are the most common complaints about YesStyle? In the 40 one-star reviews we read, 20 were about delivery: orders that never arrived, parcels stuck in transit, delays and orders not shipped.",
+          "Does YesStyle reply to negative reviews? According to the Trustpilot profile, the store replied to 99% of negative reviews, usually within 24 hours, and its replies may use AI.",
+          "Does the Trustpilot score apply to my country? Not directly. The profile is global and doesn't split reviews by country, so check the delivery time and shipping cost for your address at checkout.",
+          "What is the YesStyle reward code? CECILIA010 gives 5% off a first purchase and 2% off later ones, with no end date. It goes in the Reward Code field at checkout and can be combined with one of the store's own discounts."
         ]
       }
     ],
@@ -174046,7 +174727,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-dates-coupons"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "You want an honest read of the score, with the delivery complaints in view, before you buy from outside the store's home market.",
+        "You plan to use the CECILIA010 reward code and will check shipping cost and delivery time at checkout before paying."
+      ],
+      "skipIf": [
+        "You need guaranteed delivery to your address: half of the one-star reviews we read were about delays, stalled parcels or losses.",
+        "You would rather rely on the store's replies: 99% of negative reviews get one, but a reply doesn't prove the problem was fixed."
+      ]
+    }
   },
   {
     "id": 688,
@@ -174065,11 +174756,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle tiene un 4,4 en Trustpilot, con más de 104 mil opiniones y 71 % de cinco estrellas. Mira los temas de las quejas y los límites de una nota global.",
-    "metaDescription": "YesStyle en Trustpilot en noviembre de 2026: 4,4 con 104 mil opiniones, 71 % de cinco estrellas, quejas de envío y seguimiento. Mira lo que la nota no muestra.",
+    "description": "YesStyle tiene un 4,4 en Trustpilot, con más de 105 mil opiniones y un 71 % de cinco estrellas. Mira los temas de las quejas y por qué una nota global no dice nada de tu país.",
+    "metaDescription": "YesStyle en Trustpilot: 4,4 con 105 mil opiniones, quejas de envío y lo que la nota no muestra. Revisa el envío a tu país antes de pagar.",
     "publishedAt": "29 de octubre de 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -174083,45 +174774,78 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "YesStyle tiene buena calificación en Trustpilot, con una salvedad. En noviembre de 2026, el TrustScore era 4,4, con más de 104 mil opiniones y 71 % de cinco estrellas. Las opiniones negativas visibles mencionan problemas de envío internacional y seguimiento, y la nota es global y no separa países."
+          "YesStyle tiene un 4,4 en Trustpilot, con 105.442 opiniones y un 71 % de cinco estrellas. De las 40 opiniones de una estrella más recientes, la mitad hablaba de envío: pedidos que nunca llegaron, paquetes detenidos o retrasos. La nota reúne compradores de muchos países, así que revisa el plazo y el coste de envío antes de pagar."
         ]
       },
       {
         "heading": "Qué mide la nota",
         "paragraphs": [
-          "El TrustScore es la calificación del perfil en Trustpilot. YesStyle tenía 4,4, con la etiqueta «Excellent», en 104.909 opiniones; 11.757 de ellas se publicaron en los últimos 12 meses. La empresa ha reclamado el perfil y tiene suscripción de pago de Trustpilot, como informa la propia página.",
-          "La distribución por estrellas: 71 % de cinco estrellas, 18 % de cuatro, 3 % de tres, 1 % de dos y 7 % de una. Cinco y cuatro estrellas suman la mayor parte; la nota de una estrella, con 7 %, pesa más que las de dos y tres juntas, y es ahí donde aparecen las quejas."
+          "El TrustScore es la calificación del perfil en Trustpilot. La empresa reclamó el perfil de YesStyle en mayo de 2013 y paga una suscripción de Trustpilot, como indica la propia página.",
+          "El 7 % de una estrella pesa más que el 4 % de dos y tres estrellas juntas, y ahí aparecen las quejas. La media de 4,4 esconde esa franja."
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-          "alt": "Barras de cinco a una estrella con la distribución de las opiniones de YesStyle en Trustpilot: 71 %, 18 %, 3 %, 1 % y 7 %",
-          "caption": "Distribución de las opiniones de YesStyle en Trustpilot. Gráfico nuestro.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Indicadores del perfil de YesStyle en Trustpilot, leídos el 23/11/2026",
+          "headers": [
+            "Indicador",
+            "YesStyle el 23/11/2026"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4,4, con la etiqueta «Excellent»"
+            ],
+            [
+              "Total de opiniones",
+              "105.442, con 12.070 en los últimos 12 meses"
+            ],
+            [
+              "Distribución de estrellas",
+              "5★ 71 % · 4★ 18 % · 3★ 3 % · 2★ 1 % · 1★ 7 %"
+            ],
+            [
+              "Estado del perfil",
+              "Reclamado desde mayo de 2013, con suscripción de pago"
+            ],
+            [
+              "Origen de las opiniones",
+              "La tienda invita a los clientes a opinar después de la compra"
+            ],
+            [
+              "Respuestas a las negativas",
+              "99 %, por lo general en menos de 24 h; la tienda puede usar IA"
+            ]
+          ]
         },
         "postParagraphs": [
-          "La media resume todo esto en un solo número. Para decidir, vale más mirar lo que dicen las notas bajas y cómo responde la tienda; es lo que viene a continuación."
+          "Para decidir, conviene leer qué dicen las notas bajas y cómo responde la tienda. Eso es lo que sigue."
+        ],
+        "links": [
+          {
+            "label": "Perfil de YesStyle en Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
         ]
       },
       {
         "heading": "Quién opina, y desde dónde",
         "paragraphs": [
-          "El perfil, el de www.yesstyle.com, es global: no separa las opiniones por país, y la página no dice cuántas vinieron de cada país. La nota reúne a compradores de países distintos, con envío, plazos y aduana distintos.",
-          "Para quien compra, esto cambia la lectura: la nota dice cómo se comporta la tienda en conjunto, no cómo es la entrega en tu dirección. Ese dato está en el checkout y en la tabla de envío de la tienda, no en Trustpilot.",
+          "El perfil de www.yesstyle.com es global. Reúne en un solo panel a compradores de decenas de países, con envíos, plazos y aduanas distintos, y no separa las opiniones por país.",
+          "La tienda invita a los clientes a opinar después de la compra, sean buenas o malas. En nuestra muestra, 30 de las 40 opiniones de cinco estrellas eran invitaciones, y la mayoría eran cortas. Las de una estrella vinieron sobre todo de quien escribió por su cuenta (29 de 40), y hablaban de envío internacional. Es decir: la invitación llena el perfil de elogios cortos, y las quejas espontáneas son las que cuentan los problemas de envío.",
+          "Para ti, la nota dice cómo se comporta la tienda en conjunto, no cómo llega el pedido a tu dirección. En el checkout, revisa el plazo, el coste de envío, los impuestos, la aduana y la política de devolución de tu país.",
           "Quién opera la tienda, la sede en Hong Kong y la matriz están en [¿Es fiable YesStyle?](/es/reviews/es-yesstyle-de-fiar-y-seguro)."
         ]
       },
       {
         "heading": "Qué aparece en las quejas",
         "paragraphs": [
-          "En las opiniones negativas visibles, los temas son los siguientes, sin contarlos ni ordenarlos:"
+          "Leímos las 40 opiniones de una estrella más recientes, y la tienda respondió a todas. Por número de casos:"
         ],
         "bullets": [
-          "Retraso en la entrega y espera larga, en un paquete que viene de fuera.",
-          "Seguimiento que deja de actualizarse.",
-          "Paquete extraviado.",
-          "Artículo que llegó dañado.",
-          "Pedido retenido en procesamiento, antes de salir."
+          "Envío, 20 de 40: pedido que no llegó o que figura como entregado sin haber llegado, paquete detenido o perdido en el transporte, retraso más allá del plazo de la web y pedido que no salió tras semanas. Varias cuentan que la atención al cliente remite a la transportista.",
+          "Producto, 9 de 40: artículo que faltaba, dañado, con aspecto de usado, incompleto, caducado o defectuoso.",
+          "Stock, 4 de 40: artículo agotado después del pedido, con espera o cancelación.",
+          "Devolución, 2 de 40: devolución rechazada por gusto personal o reembolso solo en crédito de la tienda.",
+          "Otros, 5 de 40: programa de influencers, lanzamiento agotado en la web, app que se bloquea al pagar, verificación de pago y una opinión positiva marcada con una estrella."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -174131,21 +174855,14 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Estos relatos sirven para preparar comprobaciones concretas: plazo al pagar, seguimiento tras el envío y estado del embalaje a la llegada."
+          "Estos relatos muestran qué revisar antes de comprar: el plazo en el checkout, el seguimiento después del envío y el estado del embalaje a la llegada."
         ]
       },
       {
         "heading": "Qué aparece en los elogios",
         "paragraphs": [
-          "En las opiniones positivas, los temas son otros:"
-        ],
-        "bullets": [
-          "Precio bajo y promociones frecuentes.",
-          "Gran selección de belleza coreana.",
-          "Embalaje cuidadoso.",
-          "Avisos de envío útiles.",
-          "Entrega que a veces llega antes del plazo.",
-          "App y web fáciles de usar."
+          "También leímos 40 opiniones de cinco estrellas, las más recientes. Treinta eran invitaciones de la tienda, y la mayoría tenía pocas líneas. Elogian el producto original y auténtico, la variedad, el precio y los descuentos, el embalaje bien protegido y un envío más rápido de lo esperado.",
+          "El resumen automático de Trustpilot, hecho con IA sobre 6.462 opiniones recientes, apunta en el mismo sentido: productos auténticos, precio y embalaje. Es un resumen de Trustpilot, no nuestro, y lo usamos solo como apoyo."
         ],
         "postParagraphs": [
           "Elogio y queja hablan de momentos distintos de la compra: el elogio, del catálogo, del precio y del paquete que llegó; la queja, del paquete que tardó o no llegó. La nota junta los dos."
@@ -174154,54 +174871,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué responde la tienda",
         "paragraphs": [
-          "El perfil dice que YesStyle respondió al 98 % de las opiniones negativas, por lo general en menos de 24 horas, y avisa de que la respuesta puede usar inteligencia artificial.",
-          "Responder no es resolver. Este artículo no evalúa el texto de las respuestas, así que no dice si resuelven el problema de quien se quejó. Antes de comprar, conviene abrir algunas opiniones de una estrella en el perfil y leer la respuesta de la tienda debajo de cada una, sobre todo las de seguimiento y extravío."
-        ]
-      },
-      {
-        "heading": "Qué no se puede concluir",
-        "paragraphs": [
-          "La nota responde a una pregunta, no a todas. Cuatro cosas que la nota no sostiene:"
-        ],
-        "bullets": [
-          "Que la nota valga para tu país: el perfil es global y no separa las opiniones por origen.",
-          "Que la nota mida el producto: junta producto, envío y atención al cliente en una sola opinión, y los temas de queja son de envío y de procesamiento del pedido.",
-          "Que la tienda resuelva las reclamaciones: el perfil muestra el índice de respuesta, 98 %, y el plazo; este artículo no evalúa el texto de las respuestas.",
-          "Lo que dice el resumen de IA de Trustpilot: la página trae un resumen generado por inteligencia artificial, y este artículo no lo usa como fuente."
-        ]
-      },
-      {
-        "heading": "Nuestra comprobación",
-        "paragraphs": [
-          "Los datos de Trustpilot son del perfil público de YesStyle, sin iniciar sesión, del 28 de octubre de 2026: la nota, el número de opiniones, la distribución por estrellas, el índice de respuesta y las opiniones visibles, de donde salieron los temas. En noviembre, la nota, el número de opiniones y la distribución por estrellas se actualizaron.",
-          "En la app de la tienda, el checkout tiene el campo del código de recompensa.",
-          "Los números de Trustpilot cambian cada mes; revisa el perfil el día de la compra."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-          "alt": "Móvil con el perfil de YesStyle en Trustpilot: nota 4,4, distribución de las estrellas y 98 % de las opiniones negativas respondidas",
-          "caption": "Perfil de YesStyle en Trustpilot, versión móvil. Captura del sitio, con dos fragmentos ampliados.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "links": [
-          {
-            "label": "Perfil de YesStyle en Trustpilot",
-            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-          }
+          "El perfil dice que YesStyle respondió al 99 % de las opiniones negativas, por lo general en menos de 24 horas, y avisa de que las respuestas pueden usar inteligencia artificial.",
+          "Responder no prueba que el problema se haya resuelto. Antes de comprar, abre algunas opiniones de una estrella en el perfil y mira cómo respondió la tienda, sobre todo en los casos de seguimiento detenido y extravío."
         ]
       },
       {
         "heading": "¿Se puede confiar en YesStyle según Trustpilot?",
         "paragraphs": [
-          "Sí, con una salvedad de alcance: según Trustpilot, la nota es buena (TrustScore 4,4, en 104.909 opiniones, con 71 % de cinco estrellas y 7 % de una). Para valorar la atención al cliente, lee también quejas y respuestas recientes en el perfil; el índice de respuesta no mide si los problemas se resolvieron.",
-          "La salvedad es de alcance, no de nota. El perfil es global, no separa países, y las quejas son de envío internacional: retraso, seguimiento y extravío. Trustpilot muestra cómo se comporta la tienda en conjunto; el envío y el plazo de tu dirección están en el checkout."
-        ]
+          "Sí, con una salvedad de alcance. La nota es buena: TrustScore 4,4 en 105.442 opiniones, con un 71 % de cinco estrellas. Describe a la tienda en conjunto. Para tu compra, lee las opiniones de una estrella más recientes y revisa el plazo y el envío a tu país en el checkout.",
+          "La salvedad está en el alcance. El perfil es global, y las quejas son de envío internacional: retrasos, seguimiento detenido y extravíos. El coste y el plazo de envío a tu dirección aparecen solo en el checkout."
+        ],
+        "emphasis": "Un 4,4 global dice cómo maneja la tienda la mayoría de los pedidos, pero nada de tu dirección, y el envío es justo de lo que se quejan las opiniones."
       },
       {
         "heading": "Antes de pagar",
         "paragraphs": [
-          "En las opiniones negativas visibles, los problemas fueron de envío y seguimiento. Antes de pagar, comprueba el coste de envío y el plazo para tu dirección en el checkout. Los importes y el cómputo de plazos están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+          "En las 40 opiniones de una estrella que leímos, el envío y el seguimiento aparecen en 20. Antes de pagar, comprueba el coste de envío y el plazo para tu dirección en el checkout. Los importes y el cómputo de plazos están en la [guía de envíos de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
           "Después de pagar, guarda el número de pedido y el código de seguimiento: con ellos se abre una incidencia en atención al cliente si el paquete se retrasa o el seguimiento se detiene.",
           "Si ya decidiste comprar, la página de [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle) de este sitio lleva a la tienda. El enlace es de afiliado: la compra puede generar una comisión para Em Casa com Cecília, sin coste extra para ti."
         ]
@@ -174209,9 +174894,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Tiene YesStyle buena calificación en Trustpilot? Sí. El TrustScore era 4,4, con la etiqueta «Excellent», en 104.909 opiniones; 71 % daban cinco estrellas y 7 %, una.",
-          "¿Cuáles son las quejas más comunes sobre YesStyle? En las opiniones negativas, los temas son de envío internacional: retraso y espera larga, seguimiento detenido, paquete extraviado, artículo dañado y pedido retenido en procesamiento.",
-          "¿Responde YesStyle a las opiniones negativas? Según el perfil en Trustpilot, la tienda respondió al 98 % de las opiniones negativas, por lo general en menos de 24 horas, y la respuesta puede usar inteligencia artificial."
+          "¿Tiene YesStyle buena calificación en Trustpilot? Sí. El TrustScore es 4,4, con la etiqueta «Excellent», en 105.442 opiniones; el 71 % da cinco estrellas y el 7 %, una.",
+          "¿Cuáles son las quejas más comunes sobre YesStyle? En las 40 opiniones de una estrella que leímos, 20 hablaban de envío: pedidos que no llegaron, paquetes detenidos, retrasos y pedidos que no salieron.",
+          "¿Responde YesStyle a las opiniones negativas? Según el perfil en Trustpilot, la tienda respondió al 99 % de las opiniones negativas, por lo general en menos de 24 horas, y sus respuestas pueden usar IA.",
+          "¿La nota de Trustpilot vale para mi país? No del todo. El perfil es global y no separa las opiniones por país, así que revisa el plazo y el coste de envío de tu dirección en el checkout.",
+          "¿Qué es el código de recompensa de YesStyle? CECILIA010 da un 5 % en la primera compra y un 2 % en las siguientes, sin fecha de fin. Va en el campo de código de recompensa del checkout y se puede sumar a un descuento de la propia tienda."
         ]
       }
     ],
@@ -174234,15 +174921,25 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-yesstyle-fechas-cupones"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Quieres una lectura honesta de la nota, con las quejas de envío a la vista, antes de decidir tu compra.",
+        "Vas a usar el código de recompensa CECILIA010 y piensas revisar el envío y el plazo en el checkout antes de pagar."
+      ],
+      "skipIf": [
+        "Necesitas un envío con plazo garantizado a tu dirección: la mitad de las opiniones de una estrella que leímos hablaba de retrasos, paquetes detenidos o pérdidas.",
+        "Prefieres confiar en la respuesta de la tienda: el 99 % de las negativas tiene respuesta, pero responder no prueba que el problema se resolvió."
+      ]
+    }
   },
   {
     "id": 689,
     "slug": "yesstyle-avis-trustpilot",
     "locale": "fr",
     "translationKey": "yesstyle-reputation",
-    "title": "YesStyle sur Trustpilot : note, plaintes et ce que montrent les chiffres",
-    "seoTitle": "YesStyle sur Trustpilot : note et plaintes",
+    "title": "YesStyle sur Trustpilot : note, plaintes et ce que montrent les chiffres",
+    "seoTitle": "YesStyle sur Trustpilot : note et plaintes",
     "type": "Analyse de réputation",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -174253,16 +174950,16 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle a une note de 4,4 sur Trustpilot, avec plus de 104 000 avis et 71 % de cinq étoiles. Voyez les thèmes des plaintes et les limites d’une note globale.",
-    "metaDescription": "YesStyle sur Trustpilot en novembre 2026 : note de 4,4 sur 104 000 avis, 71 % de cinq étoiles, plaintes de livraison et de suivi. Voyez ce que la note ne montre pas.",
+    "description": "YesStyle a 4,4 sur Trustpilot, avec plus de 105 000 avis et 71 % de cinq étoiles. Plaintes, et limites d’une note mondiale face à la livraison dans votre pays.",
+    "metaDescription": "YesStyle sur Trustpilot : 4,4 sur 105 000 avis, plaintes de livraison et ce que la note ne montre pas. Vérifiez la livraison de votre pays avant de payer.",
     "publishedAt": "29 octobre 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-trustpilot-nota-reclamacoes-capa-fr-v2.webp",
-    "imageAlt": "Cecília ajuste un patch hydrogel sous un œil, avec un bandeau et un rouleau dans les cheveux, avec le logo YesStyle, « YesStyle sur Trustpilot », le sous-titre « Ce que disent les avis » et Code de récompense : CECILIA010.",
+    "imageAlt": "Cecília ajuste un patch hydrogel sous un œil, avec un bandeau et un rouleau dans les cheveux, avec le logo YesStyle, « YesStyle sur Trustpilot », le sous-titre « Ce que disent les avis » et Code de récompense : CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -174271,107 +174968,51 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "YesStyle a une bonne note sur Trustpilot, avec une réserve. En novembre 2026, le TrustScore était de 4,4, avec plus de 104 000 avis et 71 % de cinq étoiles. Les avis négatifs visibles font état de problèmes de livraison internationale et de suivi, et la note est globale : elle ne distingue pas les pays."
+          "YesStyle a un 4,4 sur Trustpilot, avec 105 442 avis et 71 % de cinq étoiles. Parmi les 40 avis d’une étoile les plus récents, la moitié concernait la livraison : commandes jamais arrivées, colis bloqués ou retards. La note regroupe des acheteurs de nombreux pays : vérifiez le délai et les frais de port avant de payer."
         ]
       },
       {
         "heading": "Ce que mesure la note",
         "paragraphs": [
-          "Le TrustScore est la note du profil sur Trustpilot. YesStyle avait 4,4, avec la mention « Excellent », sur 104 909 avis ; 11 757 d’entre eux ont été publiés ces 12 derniers mois. Le profil est revendiqué par l’entreprise et dispose d’un abonnement payant à Trustpilot, comme l’indique la page elle-même.",
-          "La répartition par étoile : 71 % de cinq étoiles, 18 % de quatre, 3 % de trois, 1 % de deux et 7 % d’une. Cinq et quatre étoiles forment l’essentiel ; la note d’une étoile, avec 7 %, pèse plus que celles de deux et trois étoiles réunies, et c’est là qu’apparaissent les plaintes."
+          "Le TrustScore est la note du profil sur Trustpilot. L’entreprise a revendiqué le profil de YesStyle en mai 2013 et paie un abonnement à Trustpilot, comme l’indique la page elle-même.",
+          "Les 7 % d’une étoile pèsent plus que les 4 % de deux et trois étoiles réunies, et c’est là que se trouvent les plaintes. La moyenne de 4,4 masque cette tranche."
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-          "alt": "Barres de cinq à une étoile montrant la répartition des avis de YesStyle sur Trustpilot : 71 %, 18 %, 3 %, 1 % et 7 %",
-          "caption": "Répartition des avis de YesStyle sur Trustpilot. Graphique de notre fabrication.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Indicateurs du profil YesStyle sur Trustpilot, relevés le 23/11/2026",
+          "headers": [
+            "Indicateur",
+            "YesStyle au 23/11/2026"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4,4, avec la mention « Excellent »"
+            ],
+            [
+              "Total des avis",
+              "105 442, dont 12 070 sur les 12 derniers mois"
+            ],
+            [
+              "Répartition des étoiles",
+              "5★ 71 % · 4★ 18 % · 3★ 3 % · 2★ 1 % · 1★ 7 %"
+            ],
+            [
+              "Statut du profil",
+              "Revendiqué depuis mai 2013, avec abonnement payant"
+            ],
+            [
+              "Origine des avis",
+              "La boutique invite les clients à laisser un avis après l’achat"
+            ],
+            [
+              "Réponses aux avis négatifs",
+              "99 %, en général sous 24 h ; la boutique peut utiliser l’IA"
+            ]
+          ]
         },
         "postParagraphs": [
-          "La moyenne résume tout cela en un seul chiffre. Pour décider, mieux vaut regarder ce que disent les notes basses et comment la boutique y répond ; c’est ce qui suit."
-        ]
-      },
-      {
-        "heading": "Qui donne son avis, et d’où",
-        "paragraphs": [
-          "Le profil, celui de www.yesstyle.com, est global : il ne sépare pas les avis par pays, et la page ne dit pas combien viennent de chaque pays. La note regroupe des acheteurs de pays différents, avec des frais de port, des délais et des douanes différents.",
-          "Pour qui achète, cela change la lecture : la note dit comment la boutique se comporte dans l’ensemble, pas comment se passe la livraison à votre adresse. Cette information se trouve au paiement et dans le tableau des frais de port de la boutique, pas sur Trustpilot.",
-          "Qui exploite la boutique, le siège à Hong Kong et la maison mère figurent dans [YesStyle est-il fiable ?](/fr/reviews/yesstyle-est-il-fiable-et-sur)."
-        ]
-      },
-      {
-        "heading": "Ce qui ressort des plaintes",
-        "paragraphs": [
-          "Dans les avis négatifs visibles, les thèmes sont les suivants, sans les compter ni les classer :"
+          "Pour décider, mieux vaut lire ce que disent les notes basses et comment la boutique y répond. C’est ce qui suit."
         ],
-        "bullets": [
-          "Retard de livraison et longue attente, sur un colis venu de l’étranger.",
-          "Suivi qui cesse de se mettre à jour.",
-          "Colis égaré.",
-          "Article arrivé endommagé.",
-          "Commande bloquée en traitement, avant l’expédition."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
-          "alt": "Illustration d’un écran de suivi : colis expédié, vol terminé, livraison à l’arrêt et la maison qui attend toujours, à côté d’un reçu avec code-barres et d’un globe",
-          "caption": "Notre illustration du suivi à l’arrêt, l’un des thèmes des plaintes. Gardez le numéro de commande et le code de suivi.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "postParagraphs": [
-          "Ces récits suggèrent des vérifications concrètes : le délai au paiement, le suivi après l’expédition et l’état de l’emballage à l’arrivée."
-        ]
-      },
-      {
-        "heading": "Ce qui ressort des éloges",
-        "paragraphs": [
-          "Dans les avis positifs, les thèmes sont autres :"
-        ],
-        "bullets": [
-          "Prix bas et promotions fréquentes.",
-          "Grande sélection de beauté coréenne.",
-          "Emballage soigné.",
-          "Avis d’expédition utiles.",
-          "Livraison qui arrive parfois avant le délai.",
-          "Appli et site faciles à utiliser."
-        ],
-        "postParagraphs": [
-          "Éloge et plainte parlent de moments différents de l’achat : l’éloge, du catalogue, du prix et du colis arrivé ; la plainte, du colis en retard ou jamais arrivé. La note réunit les deux."
-        ]
-      },
-      {
-        "heading": "Ce que répond la boutique",
-        "paragraphs": [
-          "Le profil indique que YesStyle a répondu à 98 % des avis négatifs, en général sous 24 heures, et précise que la réponse peut utiliser l’intelligence artificielle.",
-          "Répondre n’est pas résoudre. Cet article n’évalue pas le texte des réponses, donc il ne dit pas si elles règlent le problème de la personne qui s’est plainte. Avant d’acheter, mieux vaut ouvrir quelques avis d’une étoile sur le profil et lire la réponse de la boutique sous chacun, surtout ceux sur le suivi et la perte de colis."
-        ]
-      },
-      {
-        "heading": "Ce que l’on ne peut pas conclure",
-        "paragraphs": [
-          "La note répond à une question, pas à toutes. Quatre choses que la note ne permet pas d’affirmer :"
-        ],
-        "bullets": [
-          "Que la note vaut pour votre pays : le profil est global et ne sépare pas les avis par origine.",
-          "Que la note mesure le produit : elle réunit produit, livraison et service client dans un seul avis, et les thèmes de plainte concernent la livraison et le traitement de la commande.",
-          "Que la boutique règle les réclamations : le profil montre le taux de réponse, 98 %, et le délai ; cet article n’évalue pas le texte des réponses.",
-          "Ce que dit le résumé par IA de Trustpilot : la page affiche un résumé généré par intelligence artificielle, et cet article ne l’utilise pas comme source."
-        ]
-      },
-      {
-        "heading": "Notre vérification",
-        "paragraphs": [
-          "Les données de Trustpilot viennent du profil public de YesStyle, sans connexion, au 28 octobre 2026 : la note, le nombre d’avis, la répartition par étoile, le taux de réponse et les avis visibles, d’où sont sortis les thèmes. En novembre, la note, le nombre d’avis et la répartition par étoile ont été mis à jour.",
-          "Dans l’appli de la boutique, le paiement comporte le champ du code récompense.",
-          "Les chiffres de Trustpilot changent chaque mois ; consultez le profil le jour de l’achat."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-          "alt": "Téléphone affichant le profil de YesStyle sur Trustpilot : note de 4,4, répartition des étoiles et 98 % des avis négatifs ayant reçu une réponse",
-          "caption": "Profil de YesStyle sur Trustpilot, version mobile. Capture du site, avec deux extraits agrandis.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "links": [
           {
             "label": "Profil de YesStyle sur Trustpilot",
@@ -174380,26 +175021,78 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Peut-on faire confiance à YesStyle d’après Trustpilot ?",
+        "heading": "Qui donne son avis, et d’où",
         "paragraphs": [
-          "Oui, avec une réserve de portée : d’après Trustpilot, la note est bonne (TrustScore de 4,4, sur 104 909 avis, avec 71 % de cinq étoiles et 7 % d’une). Pour évaluer le service client, lisez aussi les plaintes et les réponses récentes sur le profil : le taux de réponse ne mesure pas la résolution des problèmes.",
-          "La réserve porte sur le périmètre, pas sur la note. Le profil est global, ne sépare pas les pays, et les plaintes concernent la livraison internationale : retard, suivi et colis égaré. Trustpilot montre comment la boutique se comporte dans l’ensemble ; les frais de port et le délai pour votre adresse figurent au paiement."
+          "Le profil de www.yesstyle.com est mondial. Il rassemble dans un seul panneau des acheteurs de dizaines de pays, avec des frais de port, des délais et des douanes différents, et il ne sépare pas les avis par pays.",
+          "La boutique invite ses clients à donner leur avis après l’achat, qu’ils soient satisfaits ou non. Dans notre échantillon, 30 des 40 avis à cinq étoiles étaient des invitations, et la plupart étaient courts. Les avis à une étoile viennent surtout de personnes qui ont écrit de leur propre initiative (29 sur 40), et parlent de livraison internationale. Autrement dit, les invitations remplissent le profil de notes hautes et courtes, et ce sont les plaintes spontanées qui racontent les problèmes de livraison.",
+          "Pour vous, la note dit comment se comporte la boutique dans l’ensemble, pas comment la commande arrive à votre adresse. Au paiement, vérifiez le délai, les frais de port, les taxes et les droits de douane, ainsi que la politique de retour de votre pays.",
+          "Qui exploite la boutique, le siège à Hong Kong et la maison mère figurent dans [YesStyle est-il fiable ?](/fr/reviews/yesstyle-est-il-fiable-et-sur)."
         ]
+      },
+      {
+        "heading": "Ce qui ressort des plaintes",
+        "paragraphs": [
+          "Nous avons lu les 40 avis à une étoile les plus récents, et la boutique a répondu à tous. Par nombre de cas :"
+        ],
+        "bullets": [
+          "Livraison, 20 sur 40 : commande jamais arrivée ou marquée livrée sans l’être, colis bloqué ou perdu pendant le transport, retard au-delà du délai affiché sur le site, et commande non expédiée après plusieurs semaines. Plusieurs racontent que le service client les renvoie vers le transporteur.",
+          "Produit, 9 sur 40 : article manquant, abîmé, d’apparence usagée, incomplet, périmé ou défectueux.",
+          "Stock, 4 sur 40 : article épuisé après la commande, avec attente ou annulation.",
+          "Retour, 2 sur 40 : retour refusé pour une question de goût, ou remboursement uniquement en avoir sur la boutique.",
+          "Autres, 5 sur 40 : programme d’influenceurs, lancement épuisé sur le site, appli bloquée au paiement, vérification de paiement et un avis positif marqué d’une étoile."
+        ],
+        "image": {
+          "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
+          "alt": "Illustration d’un écran de suivi : colis expédié, vol terminé, livraison à l’arrêt et la maison qui attend toujours, à côté d’un reçu avec code-barres et d’un globe",
+          "caption": "Notre illustration du suivi à l’arrêt, l’un des thèmes des plaintes. Gardez le numéro de commande et le code de suivi.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "postParagraphs": [
+          "Ces récits indiquent quoi vérifier avant d’acheter : le délai au paiement, le suivi après l’expédition et l’état de l’emballage à l’arrivée."
+        ]
+      },
+      {
+        "heading": "Ce qui ressort des éloges",
+        "paragraphs": [
+          "Nous avons aussi lu 40 avis à cinq étoiles, les plus récents. Trente étaient des invitations de la boutique, et la plupart comptaient quelques lignes. Ils saluent un produit original et authentique, la variété, les prix et les réductions, un emballage bien protégé et une livraison plus rapide que prévu.",
+          "Le résumé automatique de Trustpilot, rédigé par IA à partir de 6 462 avis récents, va dans le même sens : produits authentiques, prix et emballage. C’est un résumé de Trustpilot, pas le nôtre, et nous ne l’utilisons qu’en appui."
+        ],
+        "postParagraphs": [
+          "L’éloge et la plainte parlent de moments différents de l’achat : l’éloge du catalogue, du prix et du colis arrivé ; la plainte du colis en retard ou jamais arrivé. La note réunit les deux."
+        ]
+      },
+      {
+        "heading": "Ce que répond la boutique",
+        "paragraphs": [
+          "Le profil indique que YesStyle a répondu à 99 % des avis négatifs, en général sous 24 heures, et précise que ses réponses peuvent utiliser l’intelligence artificielle.",
+          "Répondre ne prouve pas que le problème est réglé. Avant d’acheter, ouvrez quelques avis à une étoile sur le profil et regardez comment la boutique a répondu, surtout dans les cas de suivi bloqué et de colis perdu."
+        ]
+      },
+      {
+        "heading": "Peut-on faire confiance à YesStyle d’après Trustpilot ?",
+        "paragraphs": [
+          "Oui, avec une réserve sur la portée. La note est bonne : un TrustScore de 4,4 sur 105 442 avis, avec 71 % de cinq étoiles. Elle décrit la boutique dans son ensemble. Pour votre achat, lisez les avis à une étoile les plus récents et vérifiez le délai et les frais de port de votre pays au paiement.",
+          "La réserve porte sur la portée. Le profil est mondial, et les plaintes concernent la livraison internationale : retards, suivi bloqué et colis perdus. Les frais de port et le délai pour votre adresse n’apparaissent qu’au paiement."
+        ],
+        "emphasis": "Un 4,4 mondial dit comment la boutique traite la plupart des commandes, mais rien de votre adresse, et la livraison est précisément ce dont se plaignent les avis."
       },
       {
         "heading": "Avant de payer",
         "paragraphs": [
-          "Dans les avis négatifs visibles, les problèmes concernaient la livraison et le suivi. Avant de payer, vérifiez les frais de port et le délai pour votre adresse, affichés au paiement. Les montants et le décompte des délais figurent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
-          "Après le paiement, gardez le numéro de commande et le code de suivi : ce sont eux qui permettent d’ouvrir un ticket auprès du service client si le colis tarde ou si le suivi s’arrête.",
-          "Si vous avez décidé d’acheter, la page des [codes promo YesStyle et du code récompense](/fr/coupons/yesstyle) de notre site mène à la boutique. Le lien est affilié : l’achat peut rapporter une commission à Em Casa com Cecília, sans frais supplémentaires pour vous."
+          "Dans les 40 avis à une étoile que nous avons lus, la livraison et le suivi reviennent dans 20. Avant de payer, vérifiez les frais de port et le délai pour votre adresse au paiement. Les montants et le décompte des délais figurent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+          "Après le paiement, gardez le numéro de commande et le code de suivi : ce sont eux qui permettent d’ouvrir un ticket auprès du service client si le colis tarde ou si le suivi s’arrête.",
+          "Si vous avez décidé d’acheter, la page des [codes promo YesStyle et du code récompense](/fr/coupons/yesstyle) de notre site mène à la boutique. Le lien est affilié : l’achat peut rapporter une commission à Em Casa com Cecília, sans frais supplémentaires pour vous."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "YesStyle a-t-il une bonne note sur Trustpilot ? Oui. Le TrustScore était de 4,4, avec la mention « Excellent », sur 104 909 avis ; 71 % donnaient cinq étoiles et 7 %, une.",
-          "Quelles sont les plaintes les plus courantes sur YesStyle ? Dans les avis négatifs, les thèmes concernent la livraison internationale : retard et longue attente, suivi à l’arrêt, colis égaré, article endommagé et commande bloquée en traitement.",
-          "YesStyle répond-il aux avis négatifs ? Selon le profil sur Trustpilot, la boutique a répondu à 98 % des avis négatifs, en général sous 24 heures, et la réponse peut utiliser l’intelligence artificielle."
+          "YesStyle a-t-il une bonne note sur Trustpilot ? Oui. Le TrustScore est de 4,4, avec la mention « Excellent », sur 105 442 avis ; 71 % donnent cinq étoiles et 7 %, une.",
+          "Quelles sont les plaintes les plus courantes sur YesStyle ? Dans les 40 avis à une étoile que nous avons lus, 20 concernaient la livraison : commandes jamais arrivées, colis bloqués, retards et commandes non expédiées.",
+          "YesStyle répond-il aux avis négatifs ? Selon le profil sur Trustpilot, la boutique a répondu à 99 % des avis négatifs, en général sous 24 heures, et ses réponses peuvent utiliser l’intelligence artificielle.",
+          "La note Trustpilot vaut-elle pour mon pays ? Pas directement. Le profil est mondial et ne sépare pas les avis par pays : vérifiez donc le délai et les frais de port de votre adresse au paiement.",
+          "Qu’est-ce que le code récompense YesStyle ? CECILIA010 donne 5 % sur un premier achat et 2 % sur les suivants, sans date de fin. Il se saisit dans le champ du code récompense au paiement et se cumule avec une réduction propre à la boutique."
         ]
       }
     ],
@@ -174411,7 +175104,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "Données publiques de Trustpilot. YesStyle est partenaire : nous pouvons percevoir une commission sur les achats.",
+    "editorialNote": "Données publiques de Trustpilot. YesStyle est partenaire : nous pouvons percevoir une commission sur les achats.",
     "relatedArticles": [
       {
         "slug": "application-yesstyle-acheter-code-recompense"
@@ -174422,7 +175115,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-yesstyle-dates-et-coupons"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous voulez une lecture honnête de la note, avec les plaintes de livraison bien en vue, avant de décider.",
+        "Vous comptez utiliser le code récompense CECILIA010 et vérifier les frais de port et le délai au paiement."
+      ],
+      "skipIf": [
+        "Vous avez besoin d’une livraison à délai garanti : la moitié des avis à une étoile que nous avons lus parlaient de retards, de colis bloqués ou de pertes.",
+        "Vous préférez vous fier aux réponses de la boutique : 99 % des avis négatifs ont une réponse, mais répondre ne prouve pas que le problème est réglé."
+      ]
+    }
   },
   {
     "id": 690,
@@ -174441,11 +175144,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle ha 4,4 su Trustpilot, con oltre 104 mila recensioni e il 71% di cinque stelle. Scopri i temi dei reclami nelle recensioni negative e i limiti di un punteggio globale.",
-    "metaDescription": "YesStyle su Trustpilot a novembre 2026: punteggio 4,4 su 104 mila recensioni, 71% di cinque stelle, reclami su consegna e tracking. Scopri cosa il punteggio non mostra.",
+    "description": "YesStyle ha 4,4 su Trustpilot, con oltre 105 mila recensioni e il 71% di cinque stelle. Reclami e limiti di un punteggio globale, quando la consegna riguarda il tuo paese.",
+    "metaDescription": "YesStyle su Trustpilot: 4,4 su 105 mila recensioni, reclami sulla consegna e cosa il punteggio non mostra. Controlla la consegna nel tuo paese prima di pagare.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -174459,45 +175162,78 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "YesStyle ha un buon punteggio su Trustpilot, con una riserva. A novembre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle. Le recensioni negative visibili segnalano problemi di consegna internazionale e tracking, e il punteggio è globale e non distingue i paesi."
+          "YesStyle ha un 4,4 su Trustpilot, con 105.442 recensioni e il 71% di cinque stelle. Delle 40 recensioni a una stella più recenti, la metà riguardava la consegna: ordini mai arrivati, pacchi bloccati in transito o ritardi. Il punteggio mette insieme acquirenti di molti paesi, quindi controlla tempi e spese di spedizione per il tuo indirizzo prima di pagare."
         ]
       },
       {
         "heading": "Cosa misura il punteggio",
         "paragraphs": [
-          "Il TrustScore è il punteggio del profilo su Trustpilot. YesStyle aveva 4,4, con l’etichetta «Excellent», su 104.909 recensioni; 11.757 sono state pubblicate negli ultimi 12 mesi. Il profilo è rivendicato dall’azienda e ha un abbonamento a pagamento a Trustpilot, come indica la pagina stessa.",
-          "La distribuzione per stelle: 71% di cinque stelle, 18% di quattro, 3% di tre, 1% di due e 7% di una. Cinque e quattro stelle sommano la maggior parte; la quota di una stella, con il 7%, pesa più di quelle di due e tre stelle insieme, ed è lì che compaiono i reclami."
+          "Il TrustScore è il punteggio del profilo su Trustpilot. L’azienda ha rivendicato il profilo di YesStyle nel maggio 2013 e paga un abbonamento a Trustpilot, come indica la pagina stessa.",
+          "Il 7% di una stella pesa più del 4% di due e tre stelle insieme, ed è lì che compaiono i reclami. La media di 4,4 nasconde questa fascia."
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-          "alt": "Barre da cinque a una stella con la distribuzione delle recensioni di YesStyle su Trustpilot: 71%, 18%, 3%, 1% e 7%",
-          "caption": "Distribuzione delle recensioni di YesStyle su Trustpilot. Grafico nostro.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Indicatori del profilo YesStyle su Trustpilot, letti il 23/11/2026",
+          "headers": [
+            "Indicatore",
+            "YesStyle al 23/11/2026"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4,4, con l’etichetta «Excellent»"
+            ],
+            [
+              "Recensioni totali",
+              "105.442, di cui 12.070 negli ultimi 12 mesi"
+            ],
+            [
+              "Distribuzione delle stelle",
+              "5★ 71% · 4★ 18% · 3★ 3% · 2★ 1% · 1★ 7%"
+            ],
+            [
+              "Stato del profilo",
+              "Rivendicato da maggio 2013, con abbonamento a pagamento"
+            ],
+            [
+              "Origine delle recensioni",
+              "Il negozio invita i clienti a recensire dopo l’acquisto"
+            ],
+            [
+              "Risposte alle negative",
+              "99%, in genere entro 24 ore; il negozio può usare l’IA"
+            ]
+          ]
         },
         "postParagraphs": [
-          "La media riassume tutto questo in un solo numero. Per decidere, vale di più guardare cosa dicono i voti bassi e come risponde il negozio; è quello che segue."
+          "Per decidere, conviene leggere cosa dicono i voti bassi e come risponde il negozio. È quello che segue."
+        ],
+        "links": [
+          {
+            "label": "Profilo di YesStyle su Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
         ]
       },
       {
         "heading": "Chi recensisce, e da dove",
         "paragraphs": [
-          "Il profilo, quello di www.yesstyle.com, è globale: non separa le recensioni per paese, e la pagina non dice quante provengano da ciascun paese. Il punteggio mette insieme acquirenti di paesi diversi, con spedizione, tempi e dogana diversi.",
-          "Per chi compra, questo cambia la lettura: il punteggio dice come si comporta il negozio nel complesso, non com’è la consegna al tuo indirizzo. Questo dato si trova nel checkout e nella tabella spedizioni del negozio, non su Trustpilot.",
+          "Il profilo di www.yesstyle.com è globale. Riunisce in un unico pannello acquirenti di decine di paesi, con spedizioni, tempi e dogane diversi, e non separa le recensioni per paese.",
+          "Il negozio invita i clienti a recensire dopo l’acquisto, che siano soddisfatti o no. Nel nostro campione, 30 delle 40 recensioni a cinque stelle erano inviti, e la maggior parte era breve. Le recensioni a una stella vengono soprattutto da chi ha scritto di sua iniziativa (29 su 40), e riguardano la consegna internazionale. In altre parole, gli inviti riempiono il profilo di voti alti e brevi, mentre i reclami spontanei sono quelli che raccontano i problemi di consegna.",
+          "Per te, il punteggio dice come si comporta il negozio nel complesso, non come arriva l’ordine al tuo indirizzo. Al checkout controlla tempi, spese di spedizione, tasse e dogana, e la politica di reso del tuo paese.",
           "Chi gestisce il negozio, la sede a Hong Kong e la società controllante sono in [YesStyle è affidabile?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
         ]
       },
       {
         "heading": "Cosa emerge dai reclami",
         "paragraphs": [
-          "Nelle recensioni negative visibili, i temi sono i seguenti, senza contarli né classificarli:"
+          "Abbiamo letto le 40 recensioni a una stella più recenti, e il negozio ha risposto a tutte. Per numero di casi:"
         ],
         "bullets": [
-          "Ritardo nella consegna e lunga attesa, su un pacco che arriva dall’estero.",
-          "Tracking che smette di aggiornarsi.",
-          "Pacco smarrito.",
-          "Articolo arrivato danneggiato.",
-          "Ordine bloccato in elaborazione, prima della spedizione."
+          "Consegna, 20 su 40: ordine mai arrivato o segnato come consegnato senza esserlo, pacco fermo o smarrito durante il trasporto, ritardi oltre il termine indicato sul sito e ordine non spedito dopo settimane. Più persone raccontano che l’assistenza le rimanda al corriere.",
+          "Prodotto, 9 su 40: articolo mancante, danneggiato, con aspetto di usato, incompleto, scaduto o difettoso.",
+          "Disponibilità, 4 su 40: articolo esaurito dopo l’ordine, con attesa o annullamento.",
+          "Resi, 2 su 40: reso rifiutato per gusto personale, o rimborso solo in credito sul negozio.",
+          "Altro, 5 su 40: programma di influencer, lancio esaurito sul sito, app che si blocca al pagamento, verifica del pagamento e una recensione positiva segnata con una stella."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -174507,87 +175243,50 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Questi racconti suggeriscono controlli pratici: tempi al checkout, tracking dopo la spedizione e condizioni dell’imballo all’arrivo."
+          "Questi racconti indicano cosa controllare prima di comprare: i tempi al checkout, il tracking dopo la spedizione e lo stato dell’imballo all’arrivo."
         ]
       },
       {
         "heading": "Cosa emerge dagli elogi",
         "paragraphs": [
-          "Nelle recensioni positive, i temi sono altri:"
-        ],
-        "bullets": [
-          "Prezzi bassi e promozioni frequenti.",
-          "Ampia selezione di bellezza coreana.",
-          "Imballo curato.",
-          "Avvisi di spedizione utili.",
-          "Consegna che a volte arriva prima del previsto.",
-          "App e sito facili da usare."
+          "Abbiamo letto anche 40 recensioni a cinque stelle, le più recenti. Trenta erano inviti del negozio, e la maggior parte aveva poche righe. Lodano prodotti originali e autentici, varietà, prezzi e sconti, imballo ben protetto e una consegna più veloce del previsto.",
+          "Il riassunto automatico di Trustpilot, scritto con l’IA su 6.462 recensioni recenti, va nella stessa direzione: prodotti autentici, prezzo e imballo. È un riassunto di Trustpilot, non nostro, e lo usiamo solo come supporto."
         ],
         "postParagraphs": [
-          "Elogio e reclamo parlano di momenti diversi dell’acquisto: l’elogio, del catalogo, del prezzo e del pacco arrivato; il reclamo, del pacco che ha tardato o non è arrivato. Il punteggio li mette insieme."
+          "Elogio e reclamo parlano di momenti diversi dell’acquisto: l’elogio del catalogo, del prezzo e del pacco arrivato; il reclamo del pacco in ritardo o mai arrivato. Il punteggio li unisce."
         ]
       },
       {
         "heading": "Cosa risponde il negozio",
         "paragraphs": [
-          "Il profilo dice che YesStyle ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e avverte che la risposta può usare l’intelligenza artificiale.",
-          "Rispondere non significa risolvere. Questo articolo non valuta il testo delle risposte, quindi non dice se risolvano il problema di chi ha protestato. Prima di comprare, conviene aprire alcune recensioni da una stella sul profilo e leggere la risposta del negozio sotto ciascuna, soprattutto quelle su tracking e smarrimento."
-        ]
-      },
-      {
-        "heading": "Cosa non si può concludere",
-        "paragraphs": [
-          "Il punteggio risponde a una domanda, non a tutte. Quattro cose che il punteggio non sostiene:"
-        ],
-        "bullets": [
-          "Che il punteggio valga per il tuo paese: il profilo è globale e non separa le recensioni per provenienza.",
-          "Che il punteggio misuri il prodotto: unisce prodotto, consegna e assistenza in un’unica recensione, e i temi di reclamo riguardano la consegna e l’elaborazione dell’ordine.",
-          "Che il negozio risolva i reclami: il profilo mostra la quota di risposte, il 98%, e i tempi; questo articolo non valuta il testo delle risposte.",
-          "Cosa dice il riassunto IA di Trustpilot: la pagina riporta un riassunto generato dall’intelligenza artificiale, e questo articolo non lo usa come fonte."
-        ]
-      },
-      {
-        "heading": "La nostra verifica",
-        "paragraphs": [
-          "I dati di Trustpilot vengono dal profilo pubblico di YesStyle, senza login, al 28 ottobre 2026: il punteggio, il numero di recensioni, la distribuzione per stelle, la quota di risposte e le recensioni visibili, da cui sono usciti i temi. A novembre punteggio, numero di recensioni e distribuzione per stelle sono stati aggiornati.",
-          "Nell’app del negozio, il checkout ha il campo per il codice ricompensa.",
-          "I numeri di Trustpilot cambiano ogni mese; controlla il profilo il giorno dell’acquisto."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-          "alt": "Telefono con il profilo di YesStyle su Trustpilot: punteggio 4,4, distribuzione delle stelle e 98% delle recensioni negative con risposta",
-          "caption": "Profilo di YesStyle su Trustpilot, versione mobile. Screenshot del sito, con due parti ingrandite.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "links": [
-          {
-            "label": "Profilo di YesStyle su Trustpilot",
-            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-          }
+          "Il profilo dice che YesStyle ha risposto al 99% delle recensioni negative, di solito entro 24 ore, e avverte che le risposte possono usare l’intelligenza artificiale.",
+          "Rispondere non prova che il problema sia risolto. Prima di comprare, apri alcune recensioni a una stella sul profilo e guarda come ha risposto il negozio, soprattutto nei casi di tracking fermo e pacchi smarriti."
         ]
       },
       {
         "heading": "Ci si può fidare di YesStyle in base a Trustpilot?",
         "paragraphs": [
-          "Sì, con una riserva sull’ambito: in base a Trustpilot, il punteggio è buono (TrustScore 4,4, su 104.909 recensioni, con il 71% di cinque stelle e il 7% di una). Per valutare l’assistenza, leggi anche reclami e risposte recenti nel profilo: la quota di risposte non misura la risoluzione dei problemi.",
-          "La riserva riguarda l’ambito, non il punteggio. Il profilo è globale, non separa i paesi, e i reclami riguardano la consegna internazionale: ritardo, tracking e smarrimento. Trustpilot mostra come si comporta il negozio nel complesso; spedizione e tempi per il tuo indirizzo sono nel checkout."
-        ]
+          "Sì, con una riserva sull’ambito. Il punteggio è buono: TrustScore 4,4 su 105.442 recensioni, con il 71% di cinque stelle. Descrive il negozio nel suo insieme. Per il tuo acquisto, leggi le recensioni a una stella più recenti e controlla tempi e spese di spedizione per il tuo paese al checkout.",
+          "La riserva riguarda l’ambito. Il profilo è globale, e i reclami riguardano la consegna internazionale: ritardi, tracking fermo e pacchi smarriti. Spese e tempi di spedizione per il tuo indirizzo compaiono solo al checkout."
+        ],
+        "emphasis": "Un 4,4 globale dice come il negozio gestisce la maggior parte degli ordini, ma nulla del tuo indirizzo, e la consegna è proprio ciò di cui si lamentano le recensioni."
       },
       {
         "heading": "Prima di pagare",
         "paragraphs": [
-          "Nelle recensioni negative visibili, i problemi riguardavano consegna e tracking. Prima di pagare, controlla spese di spedizione e tempi per il tuo indirizzo nel checkout. Importi e conteggio dei tempi per paese sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
-          "Dopo il pagamento, conserva il numero d’ordine e il codice di tracking: servono per aprire una richiesta all’assistenza se il pacco ritarda o il tracking si ferma.",
+          "Nelle 40 recensioni a una stella che abbiamo letto, consegna e tracking compaiono in 20. Prima di pagare, controlla spese di spedizione e tempi per il tuo indirizzo al checkout. Importi e conteggio dei tempi sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+          "Dopo il pagamento, conserva il numero d’ordine e il codice di tracking: servono per aprire una richiesta all’assistenza se il pacco ritarda o il tracking si blocca.",
           "Se hai deciso di comprare, la pagina dei [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle) di questo sito porta al negozio. Il link è di affiliazione: l’acquisto può generare una commissione per Em Casa com Cecília, senza costi aggiuntivi per te."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "YesStyle ha un buon punteggio su Trustpilot? Sì. Il TrustScore era 4,4, con l’etichetta «Excellent», su 104.909 recensioni; il 71% dava cinque stelle e il 7% una.",
-          "Quali sono i reclami più comuni su YesStyle? Nelle recensioni negative, i temi riguardano la consegna internazionale: ritardo e lunga attesa, tracking fermo, pacco smarrito, articolo danneggiato e ordine bloccato in elaborazione.",
-          "YesStyle risponde alle recensioni negative? Secondo il profilo su Trustpilot, il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la risposta può usare l’intelligenza artificiale."
+          "YesStyle ha un buon punteggio su Trustpilot? Sì. Il TrustScore è 4,4, con l’etichetta «Excellent», su 105.442 recensioni; il 71% dà cinque stelle e il 7% una.",
+          "Quali sono i reclami più comuni su YesStyle? Nelle 40 recensioni a una stella che abbiamo letto, 20 riguardano la consegna: ordini mai arrivati, pacchi fermi, ritardi e ordini non spediti.",
+          "YesStyle risponde alle recensioni negative? Secondo il profilo su Trustpilot, il negozio ha risposto al 99% delle recensioni negative, di solito entro 24 ore, e le risposte possono usare l’IA.",
+          "Il punteggio di Trustpilot vale per il mio paese? Non direttamente. Il profilo è globale e non separa le recensioni per paese: controlla quindi tempi e spese di spedizione per il tuo indirizzo al checkout.",
+          "Qual è il codice ricompensa di YesStyle? CECILIA010 dà il 5% sul primo acquisto e il 2% su quelli successivi, senza data di fine. Va nel campo del codice ricompensa al checkout e si somma a uno sconto del negozio."
         ]
       }
     ],
@@ -174610,7 +175309,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-yesstyle-date-e-coupon"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vuoi una lettura onesta del punteggio, con i reclami sulla consegna bene in vista, prima di decidere.",
+        "Userai il codice ricompensa CECILIA010 e controllerai spese e tempi di spedizione al checkout prima di pagare."
+      ],
+      "skipIf": [
+        "Ti serve una consegna con tempi garantiti: la metà delle recensioni a una stella che abbiamo letto parlava di ritardi, pacchi fermi o smarrimenti.",
+        "Preferisci affidarti alla risposta del negozio: il 99% delle negative ha una risposta, ma rispondere non prova che il problema sia risolto."
+      ]
+    }
   },
   {
     "id": 691,
@@ -174629,11 +175338,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle hat auf Trustpilot eine Note von 4,4 bei über 104.000 Bewertungen und 71 % Fünf-Sterne. Hier die Themen aus den negativen Bewertungen und die Grenzen einer globalen Note.",
-    "metaDescription": "YesStyle auf Trustpilot im November 2026: Note 4,4 bei 104.000 Bewertungen, 71 % Fünf-Sterne, Beschwerden zu Lieferung und Sendungsverfolgung. Was die Note nicht zeigt.",
+    "description": "YesStyle hat auf Trustpilot 4,4 Sterne bei über 105.000 Bewertungen, 71 % davon Fünf-Sterne. Die Beschwerden, und warum eine globale Note nichts über Ihr Land aussagt.",
+    "metaDescription": "YesStyle auf Trustpilot: Note 4,4 bei 105.000 Bewertungen, Beschwerden zur Lieferung und was die Note nicht zeigt. Prüfen Sie vor dem Bezahlen die Lieferung in Ihr Land.",
     "publishedAt": "29. Oktober 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -174647,45 +175356,78 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Im November 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne. In den sichtbaren negativen Bewertungen ging es um die internationale Lieferung und die Sendungsverfolgung, und die Note ist global und trennt nicht nach Ländern."
+          "YesStyle hat auf Trustpilot eine Note von 4,4, bei 105.442 Bewertungen und 71 % Fünf-Sterne. Von den 40 neuesten Ein-Stern-Bewertungen, die wir gelesen haben, ging es in der Hälfte um die Lieferung: Bestellungen, die nie ankamen, hängende Pakete oder Verspätungen. Die Note fasst Käufer aus vielen Ländern zusammen. Prüfen Sie deshalb vor dem Bezahlen Lieferzeit und Versandkosten für Ihre Adresse."
         ]
       },
       {
         "heading": "Was die Note misst",
         "paragraphs": [
-          "Der TrustScore ist die Note des Profils auf Trustpilot. YesStyle hatte 4,4, mit dem Label „Excellent“, bei 104.909 Bewertungen; 11.757 davon wurden in den letzten 12 Monaten veröffentlicht. Das Profil wird vom Unternehmen beansprucht und hat ein bezahltes Trustpilot-Abo, wie die Seite selbst angibt.",
-          "Die Verteilung nach Sternen: 71 % Fünf-Sterne, 18 % Vier-Sterne, 3 % Drei-Sterne, 1 % Zwei-Sterne und 7 % Ein-Stern. Fünf und vier Sterne machen den größten Teil aus; die Ein-Stern-Bewertungen mit 7 % wiegen mehr als die mit zwei und drei Sternen zusammen, und dort zeigen sich die Beschwerden."
+          "Der TrustScore ist die Note des Profils auf Trustpilot. Das Unternehmen hat das YesStyle-Profil im Mai 2013 beansprucht und zahlt ein Trustpilot-Abo, wie die Seite selbst angibt.",
+          "Die 7 % Ein-Stern-Bewertungen wiegen mehr als die 4 % Zwei- und Drei-Stern-Bewertungen zusammen, und dort zeigen sich die Beschwerden. Der Durchschnitt von 4,4 verdeckt diese Gruppe."
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-          "alt": "Balken von fünf bis einem Stern mit der Verteilung der YesStyle-Bewertungen auf Trustpilot: 71 %, 18 %, 3 %, 1 % und 7 %",
-          "caption": "Verteilung der YesStyle-Bewertungen auf Trustpilot. Grafik von uns.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Kennzahlen des YesStyle-Profils auf Trustpilot, abgelesen am 23.11.2026",
+          "headers": [
+            "Kennzahl",
+            "YesStyle am 23.11.2026"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4,4, Label „Excellent“"
+            ],
+            [
+              "Bewertungen insgesamt",
+              "105.442, davon 12.070 in den letzten 12 Monaten"
+            ],
+            [
+              "Sternverteilung",
+              "5★ 71 % · 4★ 18 % · 3★ 3 % · 2★ 1 % · 1★ 7 %"
+            ],
+            [
+              "Profilstatus",
+              "Beansprucht seit Mai 2013, mit bezahltem Abo"
+            ],
+            [
+              "Herkunft der Bewertungen",
+              "Der Shop lädt Kunden nach dem Kauf zur Bewertung ein"
+            ],
+            [
+              "Antworten auf negative Bewertungen",
+              "99 %, meist innerhalb von 24 Std.; der Shop kann KI nutzen"
+            ]
+          ]
         },
         "postParagraphs": [
-          "Der Durchschnitt fasst all das in einer einzigen Zahl zusammen. Für die Entscheidung lohnt es sich mehr, zu schauen, was die niedrigen Noten sagen und wie der Shop darauf antwortet; das folgt jetzt."
+          "Für die Entscheidung lohnt es sich mehr, zu lesen, was die niedrigen Noten sagen und wie der Shop darauf antwortet. Das folgt jetzt."
+        ],
+        "links": [
+          {
+            "label": "Profil von YesStyle auf Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
         ]
       },
       {
         "heading": "Wer bewertet, und von wo",
         "paragraphs": [
-          "Das Profil, das von www.yesstyle.com, ist global: Es trennt die Bewertungen nicht nach Land, und die Seite sagt nicht, wie viele aus welchem Land kommen. Die Note vereint Käufer aus verschiedenen Ländern, mit unterschiedlichem Versand, unterschiedlichen Lieferzeiten und unterschiedlichem Zoll.",
-          "Für alle, die kaufen, ändert das die Lesart: Die Note sagt, wie sich der Shop insgesamt verhält, nicht wie die Lieferung an Ihre Adresse abläuft. Diese Angabe steht im Checkout und in der Versandtabelle des Shops, nicht auf Trustpilot.",
+          "Das Profil von www.yesstyle.com ist global. Es führt Käufer aus Dutzenden Ländern in einem Panel zusammen, mit unterschiedlichem Versand, unterschiedlichen Lieferzeiten und unterschiedlichem Zoll, und trennt die Bewertungen nicht nach Land.",
+          "Der Shop lädt Kunden nach dem Kauf zur Bewertung ein, ob zufrieden oder nicht. In unserer Stichprobe waren 30 der 40 Fünf-Sterne-Bewertungen Einladungen, und die meisten waren kurz. Die Ein-Stern-Bewertungen kamen vor allem von Leuten, die von sich aus geschrieben haben (29 von 40), und dabei ging es um die internationale Lieferung. Das heißt: Die Einladungen füllen das Profil mit kurzen Top-Noten, und die ungefragten Beschwerden sind es, die Lieferprobleme schildern.",
+          "Für Sie sagt die Note, wie sich der Shop insgesamt verhält, nicht wie die Lieferung an Ihre Adresse läuft. Prüfen Sie im Checkout Lieferzeit, Versandkosten, Einfuhrabgaben und Zoll sowie die Rückgabebedingungen für Ihr Land.",
           "Wer den Shop betreibt, der Sitz in Hongkong und die Muttergesellschaft stehen in [Ist YesStyle seriös?](/de/reviews/ist-yesstyle-serioes-und-sicher)."
         ]
       },
       {
         "heading": "Was in den Beschwerden auftaucht",
         "paragraphs": [
-          "In den sichtbaren negativen Bewertungen ging es um folgende Punkte, ohne sie zu zählen oder zu ordnen:"
+          "Wir haben die 40 neuesten Ein-Stern-Bewertungen gelesen, und der Shop hat auf alle geantwortet. Nach Anzahl der Fälle:"
         ],
         "bullets": [
-          "Verspätete Lieferung und lange Wartezeit bei einem Paket aus dem Ausland.",
-          "Sendungsverfolgung, die nicht mehr aktualisiert wird.",
-          "Verlorenes Paket.",
-          "Beschädigt angekommener Artikel.",
-          "Bestellung, die vor dem Versand in der Bearbeitung hängt."
+          "Lieferung, 20 von 40: Bestellung, die nie ankam oder als zugestellt markiert war, ohne anzukommen, Paket, das auf dem Transport hängen blieb oder verloren ging, Verspätung über die Angabe der Website hinaus und Bestellung, die nach Wochen nicht versandt wurde. Mehrere berichten, der Kundenservice verweise auf den Paketdienst.",
+          "Produkt, 9 von 40: Artikel fehlt, ist beschädigt, wirkt gebraucht, unvollständig, abgelaufen oder defekt.",
+          "Lager, 4 von 40: Artikel war nach der Bestellung ausverkauft, mit Wartezeit oder Stornierung.",
+          "Rückgabe, 2 von 40: Rückgabe wegen persönlichem Geschmack abgelehnt oder Erstattung nur als Guthaben im Shop.",
+          "Sonstiges, 5 von 40: Influencer-Programm, Launch auf der Website ausverkauft, App hängt bei der Zahlung, Zahlungsprüfung und eine positive Bewertung mit einem Stern."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -174695,87 +175437,50 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Diese Berichte geben Hinweise für konkrete Prüfungen: Lieferzeit im Checkout, Sendungsverfolgung nach dem Versand und Zustand der Verpackung bei der Ankunft."
+          "Diese Berichte zeigen, was Sie vor dem Kauf prüfen sollten: die Lieferzeit im Checkout, die Sendungsverfolgung nach dem Versand und den Zustand der Verpackung bei Ankunft."
         ]
       },
       {
         "heading": "Was im Lob auftaucht",
         "paragraphs": [
-          "In den positiven Bewertungen sind die Themen andere:"
-        ],
-        "bullets": [
-          "Niedrige Preise und häufige Aktionen.",
-          "Große Auswahl an koreanischer Beauty.",
-          "Sorgfältige Verpackung.",
-          "Hilfreiche Versandbenachrichtigungen.",
-          "Lieferung, die manchmal früher als angegeben ankommt.",
-          "Einfach zu bedienende App und Website."
+          "Wir haben außerdem die 40 neuesten Fünf-Sterne-Bewertungen gelesen. Dreißig waren Einladungen des Shops, und die meisten hatten wenige Zeilen. Gelobt werden originale, echte Produkte, Auswahl, Preise und Rabatte, gut geschützte Verpackung und eine Lieferung, die schneller war als erwartet.",
+          "Die automatische Zusammenfassung von Trustpilot, von KI aus 6.462 aktuellen Bewertungen erstellt, zeigt in dieselbe Richtung: echte Produkte, Preis und Verpackung. Es ist die Zusammenfassung von Trustpilot, nicht unsere, und wir nutzen sie nur zur Unterstützung."
         ],
         "postParagraphs": [
-          "Lob und Beschwerde sprechen von verschiedenen Momenten des Kaufs: das Lob vom Sortiment, vom Preis und vom Paket, das ankam; die Beschwerde vom Paket, das lange brauchte oder nicht ankam. Die Note vereint beides."
+          "Lob und Beschwerde sprechen von verschiedenen Momenten des Kaufs: das Lob vom Sortiment, vom Preis und vom Paket, das ankam; die Beschwerde vom Paket, das spät kam oder nie ankam. Die Note vereint beides."
         ]
       },
       {
         "heading": "Was der Shop antwortet",
         "paragraphs": [
-          "Laut Profil hat YesStyle 98 % der negativen Bewertungen beantwortet, in der Regel innerhalb von 24 Stunden, und weist darauf hin, dass die Antwort künstliche Intelligenz nutzen kann.",
-          "Antworten heißt nicht lösen. Dieser Artikel bewertet den Text der Antworten nicht, deshalb sagt er nicht, ob sie das Problem der Beschwerdeführer lösen. Vor dem Kauf lohnt es sich, einige Ein-Stern-Bewertungen im Profil zu öffnen und die Antwort des Shops darunter zu lesen, besonders bei Tracking und verlorenen Paketen."
-        ]
-      },
-      {
-        "heading": "Was sich nicht schließen lässt",
-        "paragraphs": [
-          "Die Note beantwortet eine Frage, nicht alle. Vier Dinge, die die Note nicht stützt:"
-        ],
-        "bullets": [
-          "Dass die Note für Ihr Land gilt: Das Profil ist global und trennt die Bewertungen nicht nach Herkunft.",
-          "Dass die Note das Produkt misst: Sie fasst Produkt, Lieferung und Kundenservice in einer Bewertung zusammen, und die Beschwerdethemen betreffen Lieferung und Bestellbearbeitung.",
-          "Dass der Shop Beschwerden löst: Das Profil zeigt die Antwortquote, 98 %, und die Antwortzeit; dieser Artikel bewertet den Text der Antworten nicht.",
-          "Was die KI-Zusammenfassung von Trustpilot sagt: Die Seite zeigt eine von künstlicher Intelligenz erstellte Zusammenfassung, und dieser Artikel nutzt sie nicht als Quelle."
-        ]
-      },
-      {
-        "heading": "Unsere Prüfung",
-        "paragraphs": [
-          "Die Daten von Trustpilot stammen aus dem öffentlichen Profil von YesStyle, ohne Login, vom 28. Oktober 2026: die Note, die Zahl der Bewertungen, die Verteilung nach Sternen, die Antwortquote und die sichtbaren Bewertungen, aus denen die Themen stammen. Im November wurden Note, Zahl der Bewertungen und Verteilung nach Sternen aktualisiert.",
-          "In der App des Shops hat der Checkout das Feld für den Reward Code.",
-          "Die Zahlen auf Trustpilot ändern sich jeden Monat; prüfen Sie das Profil am Tag des Kaufs."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-          "alt": "Handy mit dem YesStyle-Profil auf Trustpilot: Note 4,4, Sterneverteilung und 98 % der negativen Bewertungen beantwortet",
-          "caption": "YesStyle-Profil auf Trustpilot, Mobilversion. Screenshot der Seite, mit zwei vergrößerten Ausschnitten.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "links": [
-          {
-            "label": "Profil von YesStyle auf Trustpilot",
-            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-          }
+          "Laut Profil hat YesStyle 99 % der negativen Bewertungen beantwortet, meist innerhalb von 24 Stunden, und weist darauf hin, dass die Antworten künstliche Intelligenz nutzen können.",
+          "Antworten heißt nicht, dass das Problem gelöst ist. Öffnen Sie vor dem Kauf einige Ein-Stern-Bewertungen im Profil und sehen Sie, wie der Shop geantwortet hat, besonders bei hängengebliebener Sendungsverfolgung und verlorenen Paketen."
         ]
       },
       {
         "heading": "Kann man YesStyle nach Trustpilot vertrauen?",
         "paragraphs": [
-          "Ja, mit einer Einschränkung beim Geltungsbereich: Nach Trustpilot ist die Note gut (TrustScore 4,4 bei 104.909 Bewertungen, davon 71 % Fünf-Sterne und 7 % Ein-Stern). Um den Kundenservice einzuschätzen, lesen Sie auch aktuelle Beschwerden und Antworten im Profil; die Antwortquote zeigt nicht, ob Probleme gelöst wurden.",
-          "Der Vorbehalt betrifft den Geltungsbereich, nicht die Note. Das Profil ist global, trennt keine Länder, und die Beschwerden betreffen die internationale Lieferung: Verspätung, Tracking und Verlust. Trustpilot zeigt, wie sich der Shop insgesamt verhält; Versand und Lieferzeit für Ihre Adresse stehen im Checkout."
-        ]
+          "Ja, mit einer Einschränkung beim Geltungsbereich. Die Note ist gut: TrustScore 4,4 bei 105.442 Bewertungen, davon 71 % Fünf-Sterne. Sie beschreibt den Shop insgesamt. Lesen Sie für Ihren Kauf die neuesten Ein-Stern-Bewertungen und prüfen Sie im Checkout Lieferzeit und Versandkosten für Ihr Land.",
+          "Die Einschränkung betrifft den Geltungsbereich. Das Profil ist global, und die Beschwerden betreffen die internationale Lieferung: Verspätung, hängende Sendungsverfolgung und verlorene Pakete. Versandkosten und Lieferzeit für Ihre Adresse stehen erst im Checkout."
+        ],
+        "emphasis": "Eine globale 4,4 sagt, wie der Shop die meisten Bestellungen behandelt, aber nichts über Ihre Adresse, und genau die Lieferung ist es, worüber sich die Bewertungen beschweren."
       },
       {
         "heading": "Vor dem Bezahlen",
         "paragraphs": [
-          "In den sichtbaren negativen Bewertungen ging es um Lieferung und Sendungsverfolgung. Prüfen Sie vor der Zahlung Versandkosten und Lieferzeit für Ihre Adresse im Checkout. Beträge und Berechnung der Lieferzeiten stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
-          "Bewahren Sie nach der Zahlung Bestellnummer und Tracking-Code auf: Damit eröffnet man beim Kundenservice eine Anfrage, wenn das Paket sich verspätet oder das Tracking stehen bleibt.",
-          "Wenn Sie sich zum Kauf entschieden haben, führt die Seite zu [YesStyle-Gutscheinen und Reward Code](/de/coupons/yesstyle) hier auf der Website zum Shop. Der Link ist ein Affiliate-Link: Ein Kauf kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie."
+          "In den 40 Ein-Stern-Bewertungen, die wir gelesen haben, tauchen Lieferung und Sendungsverfolgung in 20 auf. Prüfen Sie vor der Zahlung Versandkosten und Lieferzeit für Ihre Adresse im Checkout. Beträge und Berechnung der Lieferzeiten stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+          "Bewahren Sie nach der Zahlung Bestellnummer und Tracking-Code auf: Damit eröffnen Sie beim Kundenservice eine Anfrage, wenn das Paket sich verspätet oder das Tracking stehen bleibt.",
+          "Wenn Sie sich zum Kauf entschieden haben, führt die Seite [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle) auf dieser Website zum Shop. Der Link ist ein Affiliate-Link: Ein Kauf kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Hat YesStyle eine gute Note auf Trustpilot? Ja. Der TrustScore lag bei 4,4, mit dem Label „Excellent“, bei 104.909 Bewertungen; 71 % gaben fünf Sterne und 7 % einen.",
-          "Was sind die häufigsten Beschwerden über YesStyle? In den negativen Bewertungen betreffen die Themen die internationale Lieferung: Verspätung und lange Wartezeit, stehendes Tracking, verlorenes Paket, beschädigter Artikel und in der Bearbeitung hängende Bestellung.",
-          "Antwortet YesStyle auf negative Bewertungen? Laut Trustpilot-Profil hat der Shop 98 % der negativen Bewertungen beantwortet, in der Regel innerhalb von 24 Stunden, und die Antwort kann künstliche Intelligenz nutzen."
+          "Hat YesStyle eine gute Note auf Trustpilot? Ja. Der TrustScore liegt bei 4,4, mit dem Label „Excellent“, bei 105.442 Bewertungen; 71 % geben fünf Sterne und 7 % einen.",
+          "Was sind die häufigsten Beschwerden über YesStyle? In den 40 Ein-Stern-Bewertungen, die wir gelesen haben, ging es bei 20 um die Lieferung: Bestellungen, die nie ankamen, hängende Pakete, Verspätungen und nicht versandte Bestellungen.",
+          "Antwortet YesStyle auf negative Bewertungen? Laut Trustpilot-Profil hat der Shop 99 % der negativen Bewertungen beantwortet, meist innerhalb von 24 Stunden, und die Antworten können KI nutzen.",
+          "Gilt die Trustpilot-Note für mein Land? Nicht direkt. Das Profil ist global und trennt die Bewertungen nicht nach Land. Prüfen Sie deshalb Lieferzeit und Versandkosten für Ihre Adresse im Checkout.",
+          "Was ist der YesStyle Reward Code? CECILIA010 gibt 5 % auf die erste Bestellung und 2 % auf weitere, ohne Enddatum. Er wird im Feld für den Reward Code eingegeben und kann mit einem eigenen Rabatt des Shops kombiniert werden."
         ]
       }
     ],
@@ -174798,7 +175503,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-termine-gutscheine"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie wollen eine ehrliche Lesart der Note, mit den Lieferbeschwerden im Blick, bevor Sie bestellen.",
+        "Sie planen, den Reward Code CECILIA010 zu nutzen, und prüfen vor der Zahlung Versandkosten und Lieferzeit im Checkout."
+      ],
+      "skipIf": [
+        "Sie brauchen eine Lieferung mit garantierter Frist an Ihre Adresse: Die Hälfte der Ein-Stern-Bewertungen, die wir gelesen haben, handelte von Verspätungen, hängenden Paketen oder Verlusten.",
+        "Sie möchten sich auf die Antworten des Shops verlassen: 99 % der negativen Bewertungen haben eine Antwort, aber eine Antwort beweist nicht, dass das Problem gelöst ist."
+      ]
+    }
   },
   {
     "id": 692,
@@ -174817,11 +175532,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年11月時点のYesStyleのTrustpilot評価：104,909件のレビューでTrustScoreは4.4、71%が星5つ。表示されていた低評価レビューの苦情は国際配送が中心です。この評価が言えるのは世界全体の傾向までです。",
-    "metaDescription": "2026年11月のYesStyleのTrustpilot：10万4千件のレビューで評価4.4、星5つは71%。低評価レビューの苦情は配送と追跡が中心。評価が示さないことを確認しましょう。",
+    "description": "TrustpilotのYesStyle評価は4.4、レビューは105,442件で星5つが71%です。不満の中身と、世界共通の評価が自分の国の配送については何も示さない理由を解説します。",
+    "metaDescription": "TrustpilotのYesStyle：評価4.4、レビュー105,442件、配送への不満と評価が示さないこと。支払う前に自国の配送を確認しましょう。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -174835,45 +175550,78 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "YesStyleのTrustpilot評価は高めですが、注意点が1つあります。2026年11月時点でTrustScoreは4.4、レビューは10万4千件を超え、71%が星5つでした。表示されていた低評価レビューには国際配送や追跡の問題があり、この評価は世界全体のもので国別には分かれていません。"
+          "YesStyleのTrustpilot評価は4.4で、レビューは105,442件、星5つが71%です。私たちが読んだ星1つのレビュー40件のうち半分は配送に関するものでした。届かなかった注文、輸送中で止まった荷物、遅延などです。評価は多くの国の購入者をまとめたものなので、支払う前にあなたの住所への配送日数と送料を確認してください。"
         ]
       },
       {
         "heading": "評価が測っているもの",
         "paragraphs": [
-          "TrustScoreは、Trustpilot上のプロフィールの評価です。YesStyleは104,909件のレビューで4.4、ラベルは「Excellent」でした。そのうち11,757件は過去12か月に投稿されたものです。ページに書かれているとおり、このプロフィールは企業が管理しており、Trustpilotの有料プランに加入しています。",
-          "星ごとの内訳は、星5つが71%、星4つが18%、星3つが3%、星2つが1%、星1つが7%です。星5つと星4つで大半を占めます。星1つの7%は星2つと星3つを合わせたより多く、苦情が出てくるのはここです。"
+          "TrustScoreは、Trustpilotでプロフィールが受けた評価です。この会社は2013年5月にYesStyleのプロフィールを申請し、ページに記載のとおりTrustpilotの有料プランを利用しています。",
+          "星1つのレビュー7%は、星2つと星3つを合わせた4%より重みがあり、苦情が出ているのはそこです。4.4という平均はその層を隠してしまいます。"
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-          "alt": "星5つから星1つまでの棒グラフ。YesStyleのTrustpilotレビューの内訳は71%、18%、3%、1%、7%",
-          "caption": "YesStyleのTrustpilotレビューの内訳。当サイトで作成した図です。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "TrustpilotのYesStyleプロフィールの指標（2026年11月23日時点）",
+          "headers": [
+            "指標",
+            "2026年11月23日のYesStyle"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4.4、ラベルは「Excellent」"
+            ],
+            [
+              "総レビュー数",
+              "105,442件（直近12か月は12,070件）"
+            ],
+            [
+              "星の分布",
+              "星5つ 71% · 4つ 18% · 3つ 3% · 2つ 1% · 1つ 7%"
+            ],
+            [
+              "プロフィールの状態",
+              "2013年5月から申請済み、有料プラン利用"
+            ],
+            [
+              "レビューの集め方",
+              "ショップが購入後に顧客へレビューを依頼"
+            ],
+            [
+              "低評価への返信",
+              "99%、多くは24時間以内。AIを使う場合がある"
+            ]
+          ]
         },
         "postParagraphs": [
-          "平均はこれらを1つの数字にまとめたものです。購入を決めるには、低評価が何を言っているか、ショップがそれにどう返信しているかを見るほうが役に立ちます。次にそれを見ていきます。"
+          "判断するには、低い評価が何を言っているか、ショップがどう返信しているかを読むのが役立ちます。次に見ていきます。"
+        ],
+        "links": [
+          {
+            "label": "YesStyleのTrustpilotプロフィール",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
         ]
       },
       {
         "heading": "誰が、どこから評価しているか",
         "paragraphs": [
-          "プロフィール（www.yesstyle.com）は世界共通です。レビューを国別に分けておらず、各国からどれだけ寄せられたかもページには書かれていません。この評価には、送料も配送日数も関税も異なる国々の購入者が混ざっています。",
-          "購入する人にとっては、読み方が変わります。評価が示すのはショップ全体の傾向であって、あなたの住所への配送がどうなるかではありません。それはチェックアウトとショップの送料表で分かることで、Trustpilotでは分かりません。",
-          "運営会社、香港の本社、親会社については[YesStyleは信頼できる？](/ja/reviews/yesstyle-trust-guide-ja)にあります。"
+          "プロフィール（www.yesstyle.com）は世界共通です。数十か国の購入者が一つのパネルに集まっており、送料、配送日数、通関はそれぞれ異なりますが、レビューは国別に分けられていません。",
+          "ショップは購入後、満足したかどうかに関係なく顧客にレビューを依頼します。私たちのサンプルでは、星5つのレビュー40件のうち30件が依頼によるもので、多くは短文でした。星1つのレビューは主に自発的に書いた人（40件中29件）によるもので、海外配送の話が中心でした。つまり依頼されたレビューは短い高評価でプロフィールを埋め、自発的な不満が配送の問題を伝えています。",
+          "あなたにとって、この評価はショップ全体の傾向を示すもので、あなたの住所への配送がどうかは示しません。チェックアウトで配送日数、送料、輸入税と通関、そしてあなたの国の返品ポリシーを確認してください。",
+          "ショップの運営者、香港の本社、親会社については[YesStyleは信頼できる？](/ja/reviews/yesstyle-trust-guide-ja)で扱っています。"
         ]
       },
       {
         "heading": "苦情に出てくること",
         "paragraphs": [
-          "表示されていた低評価レビューで出てきたテーマは次のとおりです。"
+          "最新の星1つのレビュー40件を読みました。ショップはすべてに返信していました。件数の多い順に並べると次のとおりです。"
         ],
         "bullets": [
-          "海外から届く荷物の配送遅延と長い待ち時間。",
-          "追跡情報の更新が止まる。",
-          "荷物の紛失。",
-          "破損して届いた商品。",
-          "発送前の処理中で止まっている注文。"
+          "配送、40件中20件：届かなかった注文や、届いていないのに配達済みと表示された注文、輸送中に止まった・紛失した荷物、サイトに書かれた期限を超えた遅延、何週間も発送されない注文。複数の人が、カスタマーサービスから運送会社に問い合わせるよう言われたと書いています。",
+          "商品、40件中9件：欠品、破損、中古のような状態、一部だけの到着、賞味期限切れ、不良品。",
+          "在庫、40件中4件：注文後に品切れになり、待たされたりキャンセルされたりしたもの。",
+          "返品、40件中2件：好みを理由に返品を断られた、または返金がショップのクレジットでのみだったもの。",
+          "その他、40件中5件：インフルエンサープログラム、サイトで売り切れた発売品、支払い時に止まるアプリ、支払い確認、そして星1つとして付けられた肯定的なレビュー1件。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -174883,87 +175631,50 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "買う前後に確認したいのは、チェックアウトでの配送日数、発送後の追跡、到着時の梱包状態です。"
+          "これらの話から、購入前に確認すべきことがわかります。チェックアウトでの配送日数、発送後の追跡、届いたときの梱包の状態です。"
         ]
       },
       {
         "heading": "高評価に出てくること",
         "paragraphs": [
-          "高評価レビューでは、テーマが違います。"
-        ],
-        "bullets": [
-          "低価格と頻繁なセール。",
-          "韓国コスメの豊富なラインナップ。",
-          "丁寧な梱包。",
-          "役に立つ発送通知。",
-          "予定より早く届くことがある配送。",
-          "使いやすいアプリとサイト。"
+          "最新の星5つのレビュー40件も読みました。30件はショップの依頼によるもので、多くは数行でした。本物の商品、品揃え、価格と割引、丁寧な梱包、予想より早い配送などが褒められています。",
+          "Trustpilotの自動要約は、最近のレビュー6,462件をもとにAIが作ったもので、同じ方向を示しています。本物の商品、価格、梱包です。これは私たちのものではなくTrustpilotの要約なので、補助としてのみ使っています。"
         ],
         "postParagraphs": [
-          "褒める声と苦情は、購入の別の場面を語っています。褒める声は品揃え、価格、届いた荷物のこと。苦情は、遅れた荷物や届かなかった荷物のことです。評価は両方をまとめたものです。"
+          "褒め言葉と不満は、購入の別の場面について語っています。褒め言葉はカタログ、価格、届いた荷物について。不満は遅れた荷物、届かなかった荷物について。評価は両方を合わせたものです。"
         ]
       },
       {
         "heading": "ショップの返信",
         "paragraphs": [
-          "プロフィールによると、YesStyleは低評価レビューの98%に返信しており、多くは24時間以内です。また、返信にはAIが使われることがあると明記されています。",
-          "返信があることと、解決することは別です。この記事は返信の本文を評価していないため、それが苦情を寄せた人の問題を解決したかどうかは言えません。購入前に、プロフィールで星1つのレビューをいくつか開き、それぞれの下にあるショップの返信を読んでおきましょう。特に追跡と紛失に関するものです。"
-        ]
-      },
-      {
-        "heading": "結論として言えないこと",
-        "paragraphs": [
-          "評価が答えるのは1つの問いで、すべてではありません。この評価からは言えないことが4つあります。"
-        ],
-        "bullets": [
-          "評価があなたの国にも当てはまる：プロフィールは世界共通で、レビューを購入元の国別に分けていません。",
-          "評価が商品の品質を測っている：評価は商品、配送、サポートを1件のレビューにまとめたものです。苦情のテーマは配送と注文処理でした。",
-          "ショップが苦情を解決している：プロフィールに示されているのは返信率の98%と返信までの時間です。この記事は返信の本文を評価していません。",
-          "TrustpilotのAI要約が言っていること：ページにはAIが生成した要約がありますが、この記事ではそれを情報源にしていません。"
-        ]
-      },
-      {
-        "heading": "当サイトの確認",
-        "paragraphs": [
-          "YesStyleのTrustpilot公開プロフィールのデータは、ログインなしで見られる2026年10月28日時点のものです。評価、レビュー数、星ごとの内訳、返信率、表示されているレビューで、テーマはそこから書き出しました。11月に、評価、レビュー数、星ごとの内訳は更新されました。",
-          "ショップのアプリのチェックアウトには、リワードコードの入力欄があります。",
-          "Trustpilotの数字は毎月変わります。購入する日にプロフィールを確認してください。"
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-          "alt": "スマホで見たYesStyleのTrustpilotプロフィール：評価4.4、星ごとの内訳、低評価レビューの98%に返信済み",
-          "caption": "スマホ版のYesStyleのTrustpilotプロフィール。サイトのスクリーンショットで、2か所を拡大しています。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "links": [
-          {
-            "label": "YesStyleのTrustpilotプロフィール",
-            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-          }
+          "プロフィールによると、YesStyleは低評価レビューの99%に返信しており、多くは24時間以内です。返信にはAIが使われることがあると明記されています。",
+          "返信しても問題が解決したとは限りません。購入前にプロフィールで星1つのレビューをいくつか開き、特に追跡が止まった場合や荷物が紛失した場合に、ショップがどう返信したかを確認してください。"
         ]
       },
       {
         "heading": "TrustpilotでYesStyleを信頼できるか",
         "paragraphs": [
-          "はい、ただし対象範囲についての注意が一つあります。Trustpilotで見るかぎり、評価は良好です（TrustScoreは4.4、104,909件のレビューのうち71%が星5つ、7%が星1つ）。サポートを判断するには、プロフィールの最近の苦情と返信も読んでみてください。返信率は、問題が解決した割合ではありません。",
-          "注意点は評価ではなく、対象範囲です。プロフィールは世界共通で国別に分かれておらず、苦情は国際配送のもの、つまり遅延、追跡、紛失でした。Trustpilotが示すのはショップ全体の傾向で、あなたの住所への送料と配送日数はチェックアウトで確認できます。"
-        ]
+          "はい。ただし対象範囲について注意が必要です。評価は良好で、105,442件のレビューでTrustScoreは4.4、星5つが71%です。これはショップ全体を示す評価です。購入を判断するなら、最近の星1つのレビューを読み、チェックアウトであなたの国の配送日数と送料を確認してください。",
+          "注意点は対象範囲にあります。プロフィールは世界共通で、苦情は海外配送の問題、つまり遅延、止まった追跡、紛失です。あなたの住所への送料と配送日数はチェックアウトでしか分かりません。"
+        ],
+        "emphasis": "世界全体の4.4は、ショップが大半の注文をどう扱うかは示しますが、あなたの住所については何も示さず、苦情が集中しているのがまさに配送です。"
       },
       {
         "heading": "支払う前に",
         "paragraphs": [
-          "表示されていた低評価レビューには配送と追跡の問題がありました。支払う前に、チェックアウトでお届け先の送料と配送日数を確認してください。配送日数の数え方や金額は[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。",
-          "支払ったあとは、注文番号と追跡コードを保管しておいてください。荷物が遅れたり追跡が止まったりしたときに、サポートへ問い合わせるにはこの2つが必要です。",
-          "購入を決めたなら、当サイトの[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)のページからショップへ移動できます。このリンクはアフィリエイトリンクです。購入によりEm Casa com Cecíliaに手数料が入ることがありますが、あなたに追加費用はかかりません。"
+          "私たちが読んだ星1つのレビュー40件のうち20件に、配送と追跡の問題がありました。支払う前に、チェックアウトであなたの住所への送料と配送日数を確認してください。金額と日数の数え方は[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。",
+          "支払い後は注文番号と追跡番号を保管してください。荷物が遅れたり追跡が止まったりしたときにカスタマーサービスに連絡するには、この二つが必要です。",
+          "購入を決めたなら、このサイトの[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)のページからショップに行けます。これはアフィリエイトリンクです。購入するとEm Casa com Ceciliaに報酬が入る場合がありますが、あなたに追加の費用はかかりません。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "YesStyleのTrustpilot評価は高い？はい。TrustScoreは4.4で、ラベルは「Excellent」、104,909件のレビューのうち71%が星5つ、7%が星1つでした。",
-          "YesStyleで多い苦情は？低評価レビューのテーマは国際配送で、遅延と長い待ち時間、追跡の停止、荷物の紛失、商品の破損、処理中のまま止まった注文でした。",
-          "YesStyleは低評価レビューに返信している？Trustpilotのプロフィールによると、低評価レビューの98%に返信しており、多くは24時間以内です。返信にはAIが使われることがあります。"
+          "YesStyleのTrustpilot評価は高いですか？はい。TrustScoreは4.4、ラベルは「Excellent」で、105,442件のレビューのうち71%が星5つ、7%が星1つです。",
+          "YesStyleで多い苦情は何ですか？私たちが読んだ星1つのレビュー40件のうち20件は配送に関するものでした。届かない注文、止まった追跡、遅延、発送されない注文です。",
+          "YesStyleは低評価のレビューに返信しますか？Trustpilotのプロフィールによると、低評価レビューの99%に返信しており、多くは24時間以内です。返信にはAIが使われることがあります。",
+          "Trustpilotの評価は私の国にも当てはまりますか？直接には当てはまりません。プロフィールは世界共通で国別に分かれていないため、チェックアウトであなたの住所の配送日数と送料を確認してください。",
+          "YesStyleのリワードコードとは何ですか？CECILIA010は初回購入で5%、その後の購入で2%割引になり、終了日はありません。チェックアウトのリワードコード欄に入力し、ショップ独自の割引と併用できます。"
         ]
       }
     ],
@@ -174986,7 +175697,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "ショップ全体の評判を冷静に見たい人、購入前に配送への不満を把握したい人に向いています。",
+        "CECILIA010のリワードコードを使う予定で、支払う前に送料と配送日数を確認するつもりの人に向いています。"
+      ],
+      "skipIf": [
+        "住所への配送日数が確実に保証されていないと困る人には向きません。私たちが読んだ星1つのレビューの半分は、遅延、止まった荷物、紛失の話でした。",
+        "ショップの返信を頼りにしたい人には向きません。低評価の99%に返信はありますが、返信が問題の解決を証明するわけではありません。"
+      ]
+    }
   },
   {
     "id": 693,
@@ -175005,11 +175726,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026년 11월 기준 YesStyle의 Trustpilot 평점: 리뷰 104,909건에 TrustScore 4.4, 별 다섯 개가 71%입니다. 보이는 부정적 리뷰의 불만은 해외 배송에 관한 것이고, 이 평점으로 알 수 있는 것은 전 세계를 합친 경향까지입니다.",
-    "metaDescription": "2026년 11월 YesStyle의 Trustpilot: 리뷰 10만 4천 건에 평점 4.4, 별 다섯 개 71%. 부정적 리뷰의 불만은 배송과 배송 추적이 중심입니다. 평점이 보여 주지 않는 부분을 확인해 보세요.",
+    "description": "2026년 11월 기준 YesStyle의 Trustpilot 평점은 4.4, 리뷰는 105,442건이며 별 다섯 개가 71%입니다. 불만의 주제와 전 세계를 합친 평점이 회원님 나라의 배송에 대해 말해 주지 않는 이유를 알아보세요.",
+    "metaDescription": "Trustpilot의 YesStyle: 평점 4.4, 리뷰 105,442건, 배송 불만과 평점이 보여 주지 않는 것. 결제 전에 회원님 나라의 배송을 확인하세요.",
     "publishedAt": "2026년 10월 29일",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -175023,45 +175744,78 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 11월 기준 TrustScore는 4.4, 리뷰는 10만 4천 건이 넘었고 71%가 별 다섯 개였습니다. 보이는 부정적 리뷰에서는 해외 배송과 배송 추적 문제가 나왔고, 이 평점은 전 세계를 합친 것이라 국가별로 나뉘어 있지 않습니다."
+          "YesStyle의 Trustpilot 평점은 4.4이고, 리뷰는 105,442건, 별 다섯 개는 71%입니다. 우리가 읽은 최신 별 한 개 리뷰 40건 중 절반은 배송 이야기였습니다. 주문이 도착하지 않았거나, 소포가 운송 중에 멈췄거나, 배송이 늦었다는 내용입니다. 이 평점은 여러 나라 구매자를 합친 것이므로, 결제 전에 회원님 주소의 배송 기간과 배송비를 확인하세요."
         ]
       },
       {
         "heading": "평점이 측정하는 것",
         "paragraphs": [
-          "TrustScore는 Trustpilot에서 프로필이 받은 평점입니다. YesStyle은 리뷰 104,909건에 4.4점, 등급 표시는 \"Excellent\"였습니다. 그중 11,757건이 최근 12개월 안에 올라온 리뷰입니다. 페이지에 나와 있듯이 이 프로필은 기업이 소유권을 주장한 것이며 Trustpilot 유료 구독 중입니다.",
-          "별점 분포는 별 다섯 개 71%, 네 개 18%, 세 개 3%, 두 개 1%, 한 개 7%입니다. 다섯 개와 네 개가 대부분을 차지합니다. 별 한 개 7%는 두 개와 세 개를 합친 것보다 많고, 불만이 나오는 곳이 바로 여기입니다."
+          "TrustScore는 Trustpilot에서 프로필이 받은 평점입니다. 이 회사는 2013년 5월에 YesStyle 프로필을 소유 등록했고, 페이지에 나와 있듯이 Trustpilot 유료 구독을 이용하고 있습니다.",
+          "별 한 개 리뷰 7%는 두 개와 세 개를 합친 4%보다 무게가 큽니다. 불만이 나오는 곳이 바로 여기입니다. 4.4라는 평균은 이 구간을 가려 버립니다."
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-          "alt": "별 다섯 개부터 한 개까지의 막대로 나타낸 YesStyle Trustpilot 리뷰 분포: 71%, 18%, 3%, 1%, 7%",
-          "caption": "YesStyle의 Trustpilot 리뷰 분포. 저희가 만든 도표입니다.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Trustpilot의 YesStyle 프로필 지표, 2026년 11월 23일 기준",
+          "headers": [
+            "지표",
+            "2026년 11월 23일의 YesStyle"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4.4, 등급 표시 \"Excellent\""
+            ],
+            [
+              "전체 리뷰",
+              "105,442건, 최근 12개월 12,070건"
+            ],
+            [
+              "별점 분포",
+              "별 5개 71% · 4개 18% · 3개 3% · 2개 1% · 1개 7%"
+            ],
+            [
+              "프로필 상태",
+              "2013년 5월부터 소유 등록, 유료 구독"
+            ],
+            [
+              "리뷰 수집 방식",
+              "쇼핑몰이 구매 후 고객에게 리뷰를 요청함"
+            ],
+            [
+              "부정적 리뷰 답변",
+              "99%, 대개 24시간 안에 답변; AI를 쓸 수 있음"
+            ]
+          ]
         },
         "postParagraphs": [
-          "평균은 이 모든 것을 숫자 하나로 요약합니다. 구매를 결정할 때는 낮은 평점이 무엇을 말하는지, 쇼핑몰이 거기에 어떻게 답하는지를 보는 편이 더 도움이 됩니다. 다음에서 그 부분을 살펴봅니다."
+          "평균 하나로 판단하기보다는 낮은 평점이 무엇을 말하는지, 쇼핑몰이 어떻게 답하는지 보는 편이 도움이 됩니다. 다음에서 살펴봅니다."
+        ],
+        "links": [
+          {
+            "label": "Trustpilot의 YesStyle 프로필",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
         ]
       },
       {
         "heading": "누가, 어디에서 평가하는가",
         "paragraphs": [
-          "프로필(www.yesstyle.com)은 전 세계 공통입니다. 리뷰를 국가별로 나누지 않으며, 각 나라에서 몇 건이 왔는지도 페이지에 나와 있지 않습니다. 이 평점에는 배송비, 배송 기간, 통관이 서로 다른 여러 나라의 구매자가 섞여 있습니다.",
-          "구매하려는 사람에게는 읽는 방식이 달라집니다. 평점은 쇼핑몰이 전체적으로 어떻게 운영되는지를 보여 줄 뿐, 회원님 주소로 가는 배송이 어떤지는 알려 주지 않습니다. 그 정보는 Trustpilot이 아니라 결제 화면과 쇼핑몰의 배송비 표에 있습니다.",
-          "쇼핑몰을 운영하는 곳, 홍콩 본사, 모회사는 [YesStyle은 믿을 만한가?](/ko/reviews/yesstyle-trust-guide-ko)에 있습니다."
+          "프로필(www.yesstyle.com)은 전 세계가 공유합니다. 여러 나라의 구매자가 한 패널에 모여 있고, 배송비와 배송 기간, 통관이 나라마다 다르지만 리뷰를 국가별로 나누지는 않습니다.",
+          "쇼핑몰은 구매 후 고객에게 만족하든 아니든 리뷰를 요청합니다. 우리가 본 샘플에서 별 다섯 개 리뷰 40건 중 30건이 요청에 따른 리뷰였고, 대부분 짧았습니다. 별 한 개 리뷰는 주로 스스로 쓴 사람들(40건 중 29건)이 남겼고, 해외 배송 이야기가 많았습니다. 즉 요청 리뷰는 짧은 높은 점수로 프로필을 채우고, 자발적인 불만이 배송 문제를 보여 줍니다.",
+          "회원님에게 이 평점은 쇼핑몰이 전체적으로 어떤지를 보여 줄 뿐, 회원님 주소로 가는 배송이 어떤지는 알려 주지 않습니다. 결제 화면에서 배송 기간, 배송비, 수입 세금과 통관, 그리고 회원님 나라의 반품 정책을 확인하세요.",
+          "쇼핑몰을 운영하는 곳, 홍콩 본사, 모회사는 [YesStyle은 믿을 만한가?](/ko/reviews/yesstyle-trust-guide-ko)에서 다룹니다."
         ]
       },
       {
         "heading": "불만에서 보이는 것",
         "paragraphs": [
-          "보이는 부정적 리뷰에서 나온 주제는 다음과 같습니다."
+          "최신 별 한 개 리뷰 40건을 읽었고, 쇼핑몰은 모두에게 답변했습니다. 사례 수 기준으로 보면 다음과 같습니다."
         ],
         "bullets": [
-          "해외에서 오는 소포의 배송 지연과 긴 대기.",
-          "업데이트가 멈추는 배송 추적.",
-          "분실된 소포.",
-          "파손되어 도착한 상품.",
-          "발송 전 처리 단계에 묶여 있는 주문."
+          "배송, 40건 중 20건: 주문이 도착하지 않았거나 도착하지 않았는데 배송 완료로 표시된 경우, 운송 중 멈추거나 분실된 소포, 사이트에 적힌 기간을 넘긴 지연, 몇 주가 지나도 발송되지 않은 주문. 여러 명이 고객센터가 운송사에 문의하라고 했다고 씁니다.",
+          "상품, 40건 중 9건: 빠진 상품, 파손, 사용한 것 같은 상태, 일부만 온 경우, 유통기한 지남, 또는 결함.",
+          "재고, 40건 중 4건: 주문 후 품절되어 기다리거나 취소된 경우.",
+          "반품, 40건 중 2건: 개인 취향을 이유로 반품을 거절했거나 쇼핑몰 적립금으로만 환불된 경우.",
+          "기타, 40건 중 5건: 인플루언서 프로그램, 사이트에서 품절된 출시 상품, 결제 중 멈추는 앱, 결제 확인, 그리고 별 한 개로 표시된 긍정 리뷰 한 건."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -175071,87 +175825,50 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "구매 전후에 확인할 지점은 결제 화면의 배송 기간, 발송 후의 배송 추적, 도착했을 때의 포장 상태입니다."
+          "이 이야기들은 구매 전에 확인할 것을 알려 줍니다. 결제 화면의 배송 기간, 발송 후 배송 추적, 도착했을 때의 포장 상태입니다."
         ]
       },
       {
         "heading": "칭찬에서 보이는 것",
         "paragraphs": [
-          "긍정적 리뷰에서는 주제가 다릅니다."
-        ],
-        "bullets": [
-          "낮은 가격과 잦은 할인.",
-          "다양한 한국 뷰티 제품.",
-          "꼼꼼한 포장.",
-          "유용한 발송 알림.",
-          "가끔 예정보다 일찍 도착하는 배송.",
-          "쓰기 쉬운 앱과 웹사이트."
+          "최신 별 다섯 개 리뷰 40건도 읽었습니다. 30건은 쇼핑몰의 요청에 따른 리뷰였고, 대부분 몇 줄짜리였습니다. 정품, 다양한 구성, 가격과 할인, 잘 포장된 상품, 예상보다 빠른 배송을 칭찬합니다.",
+          "Trustpilot의 자동 요약은 최근 리뷰 6,462건을 바탕으로 AI가 만든 것으로, 같은 방향을 가리킵니다. 정품 상품, 가격, 포장입니다. 이는 우리 요약이 아니라 Trustpilot의 요약이며, 보조 자료로만 씁니다."
         ],
         "postParagraphs": [
-          "칭찬과 불만은 구매의 서로 다른 순간을 이야기합니다. 칭찬은 상품 구성, 가격, 도착한 소포에 대한 것이고, 불만은 늦어졌거나 오지 않은 소포에 대한 것입니다. 평점은 둘을 합친 값입니다."
+          "칭찬과 불만은 구매의 서로 다른 순간을 말합니다. 칭찬은 상품 구성, 가격, 도착한 소포에 대한 것이고, 불만은 늦었거나 오지 않은 소포에 대한 것입니다. 평점은 둘을 합친 값입니다."
         ]
       },
       {
         "heading": "쇼핑몰의 답변",
         "paragraphs": [
-          "프로필에 따르면 YesStyle은 부정적 리뷰의 98%에 답했고, 대개 24시간 안에 답했습니다. 답변에는 인공지능이 쓰일 수 있다는 안내도 있습니다.",
-          "답변이 있다고 해결된 것은 아닙니다. 이 글은 답변 본문을 평가하지 않으므로, 그 답변이 불만을 남긴 사람의 문제를 해결했는지는 말하지 않습니다. 구매 전에 프로필에서 별 한 개 리뷰 몇 개를 열어 그 아래 쇼핑몰의 답변을 읽어 보세요. 특히 배송 추적과 분실에 관한 것을 보면 좋습니다."
-        ]
-      },
-      {
-        "heading": "결론 내릴 수 없는 것",
-        "paragraphs": [
-          "평점은 질문 하나에 답할 뿐, 모든 질문에 답하지는 않습니다. 이 평점으로는 뒷받침되지 않는 네 가지가 있습니다."
-        ],
-        "bullets": [
-          "평점이 회원님이 사는 나라에도 해당한다: 프로필은 전 세계 공통이며 리뷰를 구매 국가별로 나누지 않습니다.",
-          "평점이 상품 품질을 측정한다: 평점은 상품, 배송, 고객 응대를 리뷰 한 건에 합친 것이고, 불만의 주제는 배송과 주문 처리였습니다.",
-          "쇼핑몰이 불만을 해결한다: 프로필에는 답변율 98%와 답변까지 걸린 시간이 나와 있고, 이 글은 답변 본문을 평가하지 않습니다.",
-          "Trustpilot의 AI 요약이 말하는 것: 페이지에는 인공지능이 만든 요약이 있지만, 이 글은 그것을 출처로 쓰지 않았습니다."
-        ]
-      },
-      {
-        "heading": "저희의 확인",
-        "paragraphs": [
-          "Trustpilot 데이터는 로그인 없이 볼 수 있는 YesStyle 공개 프로필의 2026년 10월 28일 기준 자료입니다. 평점, 리뷰 수, 별점 분포, 답변율, 그리고 보이는 리뷰이며, 주제는 이 리뷰에서 나왔습니다. 11월에 평점, 리뷰 수, 별점 분포가 업데이트되었습니다.",
-          "쇼핑몰 앱의 결제 화면에는 리워드 코드를 넣는 칸이 있습니다.",
-          "Trustpilot 수치는 매달 바뀝니다. 구매하는 날 프로필을 확인하세요."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-          "alt": "휴대폰으로 본 Trustpilot의 YesStyle 프로필: 평점 4.4, 별점 분포, 부정적 리뷰의 98%에 답변",
-          "caption": "휴대폰 버전의 Trustpilot YesStyle 프로필. 사이트 캡처이며 두 부분을 확대했습니다.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "links": [
-          {
-            "label": "Trustpilot의 YesStyle 프로필",
-            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-          }
+          "프로필에 따르면 YesStyle은 부정적 리뷰의 99%에 답했고, 대개 24시간 안에 답했습니다. 답변에는 AI가 쓰일 수 있다고 적혀 있습니다.",
+          "답변했다고 문제가 해결된 것은 아닙니다. 구매 전에 프로필에서 별 한 개 리뷰 몇 개를 열어, 특히 배송 추적이 멈추거나 소포가 분실된 경우에 쇼핑몰이 어떻게 답했는지 확인하세요."
         ]
       },
       {
         "heading": "Trustpilot로 보면 YesStyle을 믿어도 될까?",
         "paragraphs": [
-          "네, 다만 범위에 대한 단서가 하나 있습니다. Trustpilot로 보면 평가는 좋습니다(TrustScore 4.4, 리뷰 104,909건 중 71%가 별 다섯 개, 7%가 별 한 개). 고객 응대를 판단하려면 프로필의 최근 불만과 답변도 읽어 보세요. 답변율은 문제가 해결된 비율을 뜻하지 않습니다.",
-          "단서는 점수가 아니라 범위입니다. 프로필은 전 세계 공통이라 국가를 나누지 않고, 불만은 해외 배송 문제, 즉 지연, 배송 추적, 분실입니다. Trustpilot은 쇼핑몰이 전체적으로 어떻게 움직이는지를 보여 주고, 회원님 주소의 배송비와 배송 기간은 결제 화면에서 확인할 수 있습니다."
-        ]
+          "네, 다만 범위에 대한 단서가 있습니다. 평점은 좋습니다. 105,442건의 리뷰에서 TrustScore 4.4, 별 다섯 개 71%입니다. 쇼핑몰 전체를 보여 주는 점수입니다. 구매를 결정하려면 최근 별 한 개 리뷰를 읽고, 결제 화면에서 회원님 나라의 배송 기간과 배송비를 확인하세요.",
+          "단서는 범위에 있습니다. 프로필은 전 세계가 공유하고, 불만은 해외 배송 문제인 지연, 멈춘 배송 추적, 분실입니다. 회원님 주소의 배송비와 배송 기간은 결제 화면에서만 나옵니다."
+        ],
+        "emphasis": "전 세계를 합친 4.4는 쇼핑몰이 대부분의 주문을 어떻게 처리하는지 알려 주지만, 회원님 주소에 대해서는 아무것도 알려 주지 않으며, 불만이 몰린 곳이 바로 배송입니다."
       },
       {
         "heading": "결제하기 전에",
         "paragraphs": [
-          "보이는 부정적 리뷰에는 배송과 배송 추적 문제가 있었습니다. 결제 전에 결제 화면에서 회원님 주소로 가는 배송비와 예상 배송 기간을 확인하세요. 금액과 기간을 세는 방식은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
-          "결제한 뒤에는 주문 번호와 운송장 번호를 보관해 두세요. 소포가 늦어지거나 배송 추적이 멈췄을 때 고객센터에 문의하려면 이 두 가지가 필요합니다.",
-          "구매하기로 했다면, 이 사이트의 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle) 페이지에서 쇼핑몰로 갈 수 있습니다. 제휴 링크입니다. 이 링크로 구매하면 Em Casa com Cecília에 수수료가 생길 수 있으며, 추가 비용은 없습니다."
+          "우리가 읽은 별 한 개 리뷰 40건 중 20건에 배송과 배송 추적 문제가 나왔습니다. 결제 전에 결제 화면에서 회원님 주소의 배송비와 예상 배송 기간을 확인하세요. 금액과 기간을 세는 방식은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
+          "결제한 뒤에는 주문 번호와 운송장 번호를 보관하세요. 소포가 늦거나 배송 추적이 멈췄을 때 고객센터에 문의하려면 두 가지가 필요합니다.",
+          "구매하기로 했다면, 이 사이트의 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle) 페이지에서 쇼핑몰로 갈 수 있습니다. 제휴 링크입니다. 이 링크로 구매하면 Em Casa com Cecília에 수수료가 생길 수 있으며, 회원님께 추가 비용은 없습니다."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "YesStyle의 Trustpilot 평점은 좋은가요? 네. TrustScore는 4.4, 등급 표시는 \"Excellent\"였고, 리뷰 104,909건 중 71%가 별 다섯 개, 7%가 별 한 개였습니다.",
-          "YesStyle에 대한 가장 흔한 불만은 무엇인가요? 부정적 리뷰의 주제는 해외 배송이었고, 지연과 긴 대기, 멈춘 배송 추적, 분실된 소포, 파손된 상품, 처리 단계에 묶인 주문이었습니다.",
-          "YesStyle은 부정적 리뷰에 답하나요? Trustpilot 프로필에 따르면 부정적 리뷰의 98%에 답했고, 대개 24시간 안에 답했으며 답변에는 인공지능이 쓰일 수 있습니다."
+          "YesStyle의 Trustpilot 평점은 좋은가요? 네. TrustScore는 4.4, 등급 표시는 \"Excellent\"이며, 리뷰 105,442건 중 71%가 별 다섯 개, 7%가 별 한 개입니다.",
+          "YesStyle에 대한 가장 흔한 불만은 무엇인가요? 우리가 읽은 별 한 개 리뷰 40건 중 20건이 배송 이야기였습니다. 도착하지 않은 주문, 멈춘 배송 추적, 지연, 발송되지 않은 주문입니다.",
+          "YesStyle은 부정적 리뷰에 답하나요? Trustpilot 프로필에 따르면 부정적 리뷰의 99%에 답했고, 대개 24시간 안에 답했으며 답변에는 AI가 쓰일 수 있습니다.",
+          "Trustpilot 평점이 제가 사는 나라에도 해당하나요? 직접적으로는 아닙니다. 프로필은 전 세계가 공유하고 국가별로 나누지 않으므로, 결제 화면에서 회원님 주소의 배송 기간과 배송비를 확인하세요.",
+          "YesStyle 리워드 코드는 무엇인가요? CECILIA010은 첫 구매에 5%, 이후 구매에 2%를 할인하며 종료일은 없습니다. 결제 화면의 리워드 코드 칸에 입력하고, 쇼핑몰 자체 할인과 함께 쓸 수 있습니다."
         ]
       }
     ],
@@ -175174,7 +175891,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "쇼핑몰 전체의 평판을 보고 싶고, 구매 전에 배송 불만을 확인하고 싶은 분께 맞습니다.",
+        "CECILIA010 리워드 코드를 쓸 예정이고, 결제 전에 배송비와 배송 기간을 확인할 분께 맞습니다."
+      ],
+      "skipIf": [
+        "주소로 배송 기간이 확실히 보장되어야 한다면 맞지 않습니다. 우리가 읽은 별 한 개 리뷰의 절반이 지연, 멈춘 소포, 분실 이야기였습니다.",
+        "쇼핑몰의 답변을 믿고 싶다면 맞지 않습니다. 부정적 리뷰의 99%에 답변이 있지만, 답변이 문제 해결을 증명하지는 않습니다."
+      ]
+    }
   },
   {
     "id": 694,
@@ -175193,11 +175920,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 在 Trustpilot 上 2026年11月的评分：104,909 条评价，TrustScore 4.4，71% 为五星。可见的差评涉及国际配送，这个全球合并评分只能说明整体情况。",
-    "metaDescription": "YesStyle 在 Trustpilot 2026年11月：10.4 万条评价，评分 4.4，五星占 71%。读过的差评涉及配送和物流追踪。看看评分没有告诉你的部分。",
+    "description": "YesStyle 在 Trustpilot 的评分是 4.4，共 105,442 条评价，其中 71% 为五星。看看投诉的主题，以及全球合并的评分为什么不能说明你所在国家的配送。",
+    "metaDescription": "Trustpilot 上的 YesStyle：评分 4.4、105,442 条评价与配送投诉，以及评分没有显示的部分。付款前请确认你所在国家的配送。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -175211,45 +175938,78 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "YesStyle 在 Trustpilot 上的评分不错，但有一个前提。2026年11月，TrustScore 为 4.4，评价超过 10.4 万条，71% 是五星；在可见的差评中，投诉涉及国际配送和物流追踪。这个评分是全球合并的，没有按国家区分。"
+          "YesStyle 在 Trustpilot 的评分是 4.4，共 105,442 条评价，其中 71% 为五星。我们读的 40 条最新一星评价中，有一半谈的是配送：下单后没到货、包裹在运输中卡住，或延误。这个评分把多个国家的买家合并在一起，所以付款前请先确认你的地址的时效和运费。"
         ]
       },
       {
         "heading": "评分衡量的是什么",
         "paragraphs": [
-          "TrustScore 是商家主页在 Trustpilot 上的评分。YesStyle 的评分为 4.4，标签是“Excellent”，共 104,909 条评价，其中 11,757 条发布于最近 12 个月。如页面所示，这个主页由公司认领，并订阅了 Trustpilot 的付费服务。",
-          "星级分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起来还多，投诉就出现在这里。"
+          "TrustScore 是 Trustpilot 上该主页的评分。该公司在 2013 年 5 月认领了 YesStyle 的主页，并付费使用 Trustpilot 订阅，页面上也有说明。",
+          "一星的 7% 比二星与三星合计的 4% 更有分量，投诉就出现在这个区间。平均的 4.4 把这一段掩盖了。"
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-          "alt": "从五星到一星的柱状图，显示 YesStyle 在 Trustpilot 上的评价分布：71%、18%、3%、1% 和 7%",
-          "caption": "YesStyle 在 Trustpilot 上的评价分布。图表为本站制作。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Trustpilot 上 YesStyle 主页的指标，2026 年 11 月 23 日查看",
+          "headers": [
+            "指标",
+            "2026 年 11 月 23 日的 YesStyle"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4.4，标签为“Excellent”"
+            ],
+            [
+              "评价总数",
+              "105,442 条，其中近 12 个月 12,070 条"
+            ],
+            [
+              "星级分布",
+              "5 星 71% · 4 星 18% · 3 星 3% · 2 星 1% · 1 星 7%"
+            ],
+            [
+              "主页状态",
+              "2013 年 5 月认领，付费订阅"
+            ],
+            [
+              "评价来源",
+              "商家在购买后邀请顾客评价"
+            ],
+            [
+              "回复负面评价",
+              "99%，多数在 24 小时内；商家可能使用 AI"
+            ]
+          ]
         },
         "postParagraphs": [
-          "平均分把这一切压缩成一个数字。要做决定，更值得看低分评价说了什么，以及商店如何回应；下面就来看这些。"
+          "要做判断，更有用的是读低分评价在说什么、商家怎么回应。接下来就谈这个。"
+        ],
+        "links": [
+          {
+            "label": "YesStyle 在 Trustpilot 的主页",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
         ]
       },
       {
         "heading": "谁在评价，来自哪里",
         "paragraphs": [
-          "主页（www.yesstyle.com）是全球通用的：它不按国家区分评价，页面也没有说各个国家分别有多少条。这个评分把来自不同国家的买家合在一起，而他们的运费、时效和关税都不一样。",
-          "对准备购买的人来说，这会改变解读方式：评分说明的是商店整体的表现，而不是寄到你的地址会怎样。这个信息在结账页面和商店的运费表里，不在 Trustpilot 上。",
-          "运营商店的公司、香港总部和母公司的信息，见 [YesStyle 可靠吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)。"
+          "www.yesstyle.com 的主页是全球通用的。它把数十个国家的买家放进同一个面板，各地的运费、时效和关税不同，而且评价并没有按国家区分。",
+          "商家在购买后邀请顾客评价，不论顾客满不满意。在我们的样本里，40 条五星评价中有 30 条是受邀写的，而且大多很短。一星评价主要来自自己留言的人（40 条中有 29 条），内容多半谈跨境配送。也就是说，邀请评价会用大量简短的高分把主页填满，而主动抱怨的人，才把配送问题讲清楚。",
+          "对你来说，这个评分说明的是商家整体的表现，不是你的地址会收到什么样的配送。结账时，请确认时效、运费、进口税和关税，以及你所在国家的退货政策。",
+          "经营商家的公司、香港总部和母公司，可以参考[YesStyle 值得信任吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)。"
         ]
       },
       {
         "heading": "投诉里出现的内容",
         "paragraphs": [
-          "在可见的负面评价中，出现的主题有这些："
+          "我们读了 40 条最新的一星评价，商家全部回复了。按案例数量排列如下："
         ],
         "bullets": [
-          "包裹从海外寄来，配送延误、等待很久。",
-          "物流追踪停止更新。",
-          "包裹遗失。",
-          "商品到货时已损坏。",
-          "订单卡在处理中，迟迟没有发出。"
+          "配送，40 条中有 20 条：下单后没收到，或显示已送达但实际没到；包裹在途中卡住或丢失；超过网站标示时效的延误；几周后仍未发货。多人说客服让他们去问物流公司。",
+          "商品，40 条中有 9 条：缺件、损坏、看起来像用过、缺一部分、过期或有瑕疵。",
+          "库存，40 条中有 4 条：下单后商品售罄，需要等待或被取消。",
+          "退货，40 条中有 2 条：因个人喜好被拒绝退货，或只能退成店铺余额。",
+          "其他，40 条中有 5 条：网红计划、网站上售罄的新品、付款时卡住的 App、付款核验，以及一条被标成一星的正面评价。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -175259,87 +176019,50 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "购买前后可以核对这几个环节：结账时的送达时间、发货后的物流追踪，以及收货时的包装状态。"
+          "这些讲述指出购买前该检查什么：结账时的时效、发货后的物流追踪，以及到货时包装的状况。"
         ]
       },
       {
         "heading": "好评里出现的内容",
         "paragraphs": [
-          "在正面评价里，主题不同："
-        ],
-        "bullets": [
-          "价格低，促销频繁。",
-          "韩国美妆选择丰富。",
-          "包装细致。",
-          "发货通知实用。",
-          "有时比预计时间更早送达。",
-          "App 和网站容易使用。"
+          "我们也读了 40 条最新的五星评价。其中 30 条是商家邀请写的，多数只有几行。大家称赞的是正品、款式多、价格与折扣、包装保护得好，以及比预期更快的配送。",
+          "Trustpilot 的自动摘要基于 6,462 条近期评价，由 AI 生成，方向相同：正品、价格与包装。这是 Trustpilot 的摘要，不是我们的，我们只把它当作辅助参考。"
         ],
         "postParagraphs": [
-          "好评和投诉说的是购物中的不同环节：好评说的是商品目录、价格和顺利收到的包裹；投诉说的是延迟或没有送到的包裹。评分把两者合在一起。"
+          "好评和投诉谈的是购买过程的不同时刻：好评谈目录、价格和到货的包裹；投诉谈延误或根本没到的包裹。评分把两者合在一起。"
         ]
       },
       {
         "heading": "商店如何回应",
         "paragraphs": [
-          "主页显示，YesStyle 回复了 98% 的负面评价，通常在 24 小时内，并说明回复可能使用人工智能。",
-          "回复不等于解决。本文没有评估回复的内容，所以不能说这些回复是否解决了投诉者的问题。购买前，可以在主页上打开几条一星评价，读一读商店在每条下面的回复，尤其是关于物流追踪和包裹遗失的。"
-        ]
-      },
-      {
-        "heading": "无法得出的结论",
-        "paragraphs": [
-          "评分回答的是一个问题，而不是所有问题。这个评分无法支持的四点："
-        ],
-        "bullets": [
-          "评分适用于你所在的国家：主页是全球通用的，不按来源国家区分评价。",
-          "评分衡量的是商品：它把商品、配送和客服合并为一条评价，而投诉主题是配送和订单处理。",
-          "商店会解决投诉：主页显示回复率 98% 和回复时间；本文没有评估回复的内容。",
-          "Trustpilot 的 AI 摘要说了什么：页面有一段由人工智能生成的摘要，本文没有把它当作来源。"
-        ]
-      },
-      {
-        "heading": "我们的检查",
-        "paragraphs": [
-          "Trustpilot 的数据来自 YesStyle 的公开主页（无需登录），截至2026年10月28日：评分、评价数量、星级分布、回复率和可见的评价，主题就来自这些评价。到 11 月，评分、评价数量和星级分布已更新。",
-          "商店 App 的结账页面里有填写奖励码的栏位。",
-          "Trustpilot 的数字每月都会变化；购买当天请查看主页。"
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-          "alt": "手机上的 YesStyle Trustpilot 主页：评分 4.4、星级分布，以及 98% 的负面评价已回复",
-          "caption": "YesStyle 在 Trustpilot 的主页，手机版。网站截图，其中两处已放大。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "links": [
-          {
-            "label": "YesStyle 在 Trustpilot 的主页",
-            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-          }
+          "主页显示，YesStyle 回复了 99% 的负面评价，多数在 24 小时内，并提醒回复可能使用人工智能。",
+          "回复不代表问题已经解决。购买前，请在主页上打开几条一星评价，看看商家怎么回应，尤其是物流停止追踪和包裹丢失的案例。"
         ]
       },
       {
         "heading": "能通过 Trustpilot 信任 YesStyle 吗？",
         "paragraphs": [
-          "可以，但有一个范围上的保留：从 Trustpilot 看，评分是好的（TrustScore 4.4，104,909 条评价中 71% 为五星、7% 为一星）。若要判断客服处理情况，还应阅读主页上近期的投诉及回复；回复率并不代表问题已解决。",
-          "前提在于范围，而不在评分。主页是全球通用的，不区分国家，投诉都是国际配送问题：延误、物流追踪和包裹遗失。Trustpilot 显示的是商店整体的表现；你所在地址的运费和送达时间，请看结账页面。"
-        ]
+          "能，但要注意范围。评分不错：105,442 条评价的 TrustScore 为 4.4，其中 71% 是五星。它描述的是商家整体的表现。要为自己的购买做判断，请阅读最近的一星评价，并在结账时确认你所在国家的时效和运费。",
+          "需要注意的是范围。主页是全球通用的，投诉多半是跨境配送的问题：延误、停止追踪和丢失。你地址的运费和时效只会在结账时出现。"
+        ],
+        "emphasis": "全球合计的 4.4 说明商家如何处理大多数订单，却完全不能说明你的地址，而配送正是评价最常抱怨的地方。"
       },
       {
         "heading": "付款之前",
         "paragraphs": [
-          "可见的差评涉及配送和物流追踪。付款前，请在结账页面核对寄到你所在地址的运费和预计送达时间。送达时间的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
-          "付款之后，请保存订单号和物流追踪码：如果包裹延误或物流追踪停止，联系客服时需要用到它们。",
-          "如果你已经决定购买，本站的 [YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)页面会带你去商店。这是联盟链接：通过它购买，Em Casa com Cecília 可能获得佣金，你不需要多付费用。"
+          "我们读的 40 条一星评价中，配送和追踪问题占了 20 条。付款前，请在结账时确认你地址的运费和预计时效。金额与时效的计算方式，请见[YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+          "付款后，请保存订单号和物流单号。如果包裹延误或追踪停住，你需要这两个号码才能向客服提交申请。",
+          "如果你决定购买，本站的[YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)页面会带你到商家。这是联盟链接，购买可能让 Em Casa com Cecília 获得佣金，对你没有额外费用。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "YesStyle 在 Trustpilot 的评分高吗？是的。TrustScore 为 4.4，标签是“Excellent”，104,909 条评价中 71% 为五星、7% 为一星。",
-          "关于 YesStyle 最常见的投诉是什么？负面评价，主题都是国际配送：延误和长时间等待、物流追踪停滞、包裹遗失、商品损坏，以及订单卡在处理中。",
-          "YesStyle 会回复负面评价吗？根据 Trustpilot 主页，商店回复了 98% 的负面评价，通常在 24 小时内，回复可能使用人工智能。"
+          "YesStyle 在 Trustpilot 的评分高吗？高。TrustScore 为 4.4，标签为“Excellent”，共 105,442 条评价，其中 71% 给五星，7% 给一星。",
+          "关于 YesStyle 最常见的投诉是什么？我们读的 40 条一星评价中，有 20 条谈配送：没到货的订单、卡住的物流、延误和未发货的订单。",
+          "YesStyle 会回复负面评价吗？根据 Trustpilot 主页，商家回复了 99% 的负面评价，多数在 24 小时内，回复可能使用人工智能。",
+          "Trustpilot 的评分适用于我的国家吗？不完全适用。主页是全球通用的，没有按国家区分，所以请在结账时确认你地址的时效和运费。",
+          "YesStyle 的奖励码是什么？CECILIA010 首次购买享 5% 折扣，之后购买享 2%，没有截止日期。结账时填入奖励码栏，可以和商家自己的折扣一起使用。"
         ]
       }
     ],
@@ -175362,7 +176085,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "想冷静看待商家整体评价，并在购买前了解配送投诉的人，适合看这篇。",
+        "打算使用奖励码 CECILIA010，并会在付款前确认运费和时效的人，适合看这篇。"
+      ],
+      "skipIf": [
+        "需要地址的配送时效有保障的人，不适合。我们读的一星评价中，有一半谈延误、包裹卡住或丢失。",
+        "想依靠商家回复来安心的人，不适合。99% 的负面评价都有回复，但回复并不能证明问题已解决。"
+      ]
+    }
   },
   {
     "id": 695,
@@ -175381,11 +176114,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 在 Trustpilot 上 2026年11月的評分：104,909 則評價，TrustScore 4.4，71% 為五星。可見的差評涉及國際運送，這個全球合併評分只能說明整體情況。",
-    "metaDescription": "YesStyle 在 Trustpilot 2026年11月：10.4 萬則評價，評分 4.4，五星占 71%。讀過的差評涉及運送和物流追蹤。看看評分沒有告訴你的部分。",
+    "description": "YesStyle 在 Trustpilot 的評分是 4.4，共 105,442 則評價，其中 71% 為五星。看看投訴的主題，以及全球合併的評分為什麼不能說明你所在國家的配送。",
+    "metaDescription": "Trustpilot 上的 YesStyle：評分 4.4、105,442 則評價與配送投訴，以及評分沒有顯示的部分。付款前請確認你國家的配送。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -175399,45 +176132,78 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "YesStyle 在 Trustpilot 上的評分不錯，但有一個前提。2026年11月，TrustScore 為 4.4，評價超過 10.4 萬則，71% 是五星；在可見的差評中，投訴涉及國際運送和物流追蹤。這個評分是全球合併的，沒有按國家區分。"
+          "YesStyle 在 Trustpilot 的評分是 4.4，共 105,442 則評價，其中 71% 為五星。我們讀的 40 則最新一星評價中，有一半談的是配送：下單後沒到貨、包裹在運送途中卡住，或延誤。這個評分把多國買家合併在一起，所以付款前請先確認你的地址的運送時效與運費。"
         ]
       },
       {
         "heading": "評分衡量的是什麼",
         "paragraphs": [
-          "TrustScore 是商家檔案在 Trustpilot 上的評分。YesStyle 的評分為 4.4，標籤是「Excellent」，共 104,909 則評價，其中 11,757 則發布於最近 12 個月。如頁面所示，這個檔案由公司認領，並訂閱了 Trustpilot 的付費服務。",
-          "星級分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起來還多，投訴就出現在這裡。"
+          "TrustScore 是 Trustpilot 上該檔案的評分。該公司在 2013 年 5 月認領了 YesStyle 的檔案，並付費使用 Trustpilot 訂閱，這點頁面上也有說明。",
+          "一星的 7% 比二星與三星合計的 4% 更有分量，而投訴就出現在這個區間。平均的 4.4 把這一段遮住了。"
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-          "alt": "從五星到一星的長條圖，顯示 YesStyle 在 Trustpilot 上的評價分布：71%、18%、3%、1% 和 7%",
-          "caption": "YesStyle 在 Trustpilot 上的評價分布。圖表為本站製作。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Trustpilot 上 YesStyle 檔案的指標，2026 年 11 月 23 日查看",
+          "headers": [
+            "指標",
+            "2026 年 11 月 23 日的 YesStyle"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4.4，標籤為「Excellent」"
+            ],
+            [
+              "評價總數",
+              "105,442 則，其中近 12 個月 12,070 則"
+            ],
+            [
+              "星等分布",
+              "5 星 71% · 4 星 18% · 3 星 3% · 2 星 1% · 1 星 7%"
+            ],
+            [
+              "檔案狀態",
+              "自 2013 年 5 月認領，付費訂閱"
+            ],
+            [
+              "評價來源",
+              "商店在購買後邀請顧客留評"
+            ],
+            [
+              "回覆負評",
+              "99%，多數在 24 小時內；商店可能使用 AI"
+            ]
+          ]
         },
         "postParagraphs": [
-          "平均分把這一切壓縮成一個數字。要做決定，更值得看低分評價說了什麼，以及商店如何回應；下面就來看這些。"
+          "要做決定，更有用的是讀低分評價在說什麼、商店怎麼回應。接下來就談這個。"
+        ],
+        "links": [
+          {
+            "label": "YesStyle 在 Trustpilot 的檔案",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
         ]
       },
       {
         "heading": "誰在評價，來自哪裡",
         "paragraphs": [
-          "檔案（www.yesstyle.com）是全球通用的：它不按國家區分評價，頁面也沒有說各個國家分別有多少則。這個評分把來自不同國家的買家合在一起，而他們的運費、時效和關稅都不一樣。",
-          "對準備購買的人來說，這會改變解讀方式：評分說明的是商店整體的表現，而不是寄到你的地址會怎樣。這個資訊在結帳頁面和商店的運費表裡，不在 Trustpilot 上。",
-          "營運商店的公司、香港總部和母公司的資訊，見 [YesStyle 可靠嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)。"
+          "www.yesstyle.com 的檔案是全球通用的。它把數十個國家的買家放在同一個面板裡，各地的運費、時效與關稅不同，而且評價並沒有依國家區分。",
+          "商店在購買後邀請顧客評價，不論顧客滿不滿意。在我們的樣本裡，40 則五星評價中有 30 則是受邀寫的，而且多半很短。一星評價主要來自自行留言的人（40 則中有 29 則），內容多半談跨境配送。也就是說，邀請留評會用許多短促的高分把檔案填滿，而主動抱怨的人，才是把配送問題說清楚的人。",
+          "對你來說，這個評分說明的是商店整體的表現，不是你的地址會收到什麼樣的配送。在結帳時，請確認時效、運費、進口稅與關稅，以及你所在國家的退貨政策。",
+          "經營商店的公司、香港總部和母公司，可以參考[YesStyle 值得信任嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)。"
         ]
       },
       {
         "heading": "投訴裡出現的內容",
         "paragraphs": [
-          "在可見的負評中，出現的主題有這些："
+          "我們讀了 40 則最新的一星評價，商店都有回覆。依案例數量排列如下："
         ],
         "bullets": [
-          "包裹從海外寄來，運送延誤、等待很久。",
-          "物流追蹤停止更新。",
-          "包裹遺失。",
-          "商品到貨時已損壞。",
-          "訂單卡在處理中，遲遲沒有出貨。"
+          "配送，40 則中有 20 則：下單後沒收到，或顯示已送達但實際沒到；包裹卡在途中或遺失；超過網站標示時效的延誤；幾週後仍未出貨。多人說客服叫他們去問物流公司。",
+          "商品，40 則中有 9 則：缺件、損壞、看起來像用過、缺一部分、過期或有瑕疵。",
+          "庫存，40 則中有 4 則：下單後商品售完，需要等待或被取消。",
+          "退貨，40 則中有 2 則：因個人喜好被拒絕退貨，或只能退成商店點數。",
+          "其他，40 則中有 5 則：網紅計畫、網站上售完的新品、付款時卡住的 App、付款驗證，以及一則被標成一星的正面評價。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -175447,87 +176213,50 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "購買前後可以核對這幾個環節：結帳時的送達時間、出貨後的物流追蹤，以及收貨時的包裝狀態。"
+          "這些講述指出購買前該檢查什麼：結帳時的時效、出貨後的追蹤，以及到貨時包裝的狀況。"
         ]
       },
       {
         "heading": "好評裡出現的內容",
         "paragraphs": [
-          "在正面評價裡，主題不同："
-        ],
-        "bullets": [
-          "價格低，促銷頻繁。",
-          "韓國美妝選擇豐富。",
-          "包裝細心。",
-          "出貨通知實用。",
-          "有時比預計時間更早送達。",
-          "App 和網站容易使用。"
+          "我們也讀了 40 則最新的五星評價。其中 30 則是商店邀請寫的，多數只有幾行。大家稱讚的是正品、款式多、價格與折扣、包裝保護得好，以及比預期更快的配送。",
+          "Trustpilot 的自動摘要根據 6,462 則近期評價，由 AI 生成，方向相同：正品、價格與包裝。這是 Trustpilot 的摘要，不是我們的，我們只把它當作輔助。"
         ],
         "postParagraphs": [
-          "好評和投訴說的是購物中的不同環節：好評說的是商品目錄、價格和順利收到的包裹；投訴說的是延遲或沒有送到的包裹。評分把兩者合在一起。"
+          "好評與投訴談的是購買過程的不同時刻：好評談目錄、價格與到貨的包裹；投訴談延誤或根本沒到的包裹。評分把兩者合在一起。"
         ]
       },
       {
         "heading": "商店如何回應",
         "paragraphs": [
-          "檔案顯示，YesStyle 回覆了 98% 的負評，通常在 24 小時內，並說明回覆可能使用人工智慧。",
-          "回覆不等於解決。本文沒有評估回覆的內容，所以不能說這些回覆是否解決了投訴者的問題。購買前，可以在檔案上打開幾則一星評價，讀一讀商店在每則下面的回覆，尤其是關於物流追蹤和包裹遺失的。"
-        ]
-      },
-      {
-        "heading": "無法得出的結論",
-        "paragraphs": [
-          "評分回答的是一個問題，而不是所有問題。這個評分無法支援的四點："
-        ],
-        "bullets": [
-          "評分適用於你所在的國家：檔案是全球通用的，不按來源國家區分評價。",
-          "評分衡量的是商品：它把商品、運送和客服合併為一則評價，而投訴主題是運送和訂單處理。",
-          "商店會解決投訴：檔案顯示回覆率 98% 和回覆時間；本文沒有評估回覆的內容。",
-          "Trustpilot 的 AI 摘要說了什麼：頁面有一段由人工智慧產生的摘要，本文沒有把它當作來源。"
-        ]
-      },
-      {
-        "heading": "我們的檢查",
-        "paragraphs": [
-          "Trustpilot 的資料來自 YesStyle 的公開檔案（無需登入），截至2026年10月28日：評分、評價數量、星級分布、回覆率和可見的評價，主題就來自這些評價。到 11 月，評分、評價數量和星級分布已更新。",
-          "商店 App 的結帳頁面裡有填寫獎勵碼的欄位。",
-          "Trustpilot 的數字每個月都會變化；購買當天請查看檔案。"
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-          "alt": "手機上的 YesStyle Trustpilot 檔案：評分 4.4、星級分布，以及 98% 的負評已回覆",
-          "caption": "YesStyle 在 Trustpilot 的檔案，手機版。網站截圖，其中兩處已放大。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "links": [
-          {
-            "label": "YesStyle 在 Trustpilot 的檔案",
-            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-          }
+          "檔案顯示，YesStyle 回覆了 99% 的負評，多數在 24 小時內，並提醒回覆可能使用人工智慧。",
+          "回覆不代表問題已解決。購買前，請在檔案裡打開幾則一星評價，看看商店怎麼回應，尤其是追蹤停住和包裹遺失的案例。"
         ]
       },
       {
         "heading": "能透過 Trustpilot 信任 YesStyle 嗎？",
         "paragraphs": [
-          "可以，但有一個範圍上的保留：從 Trustpilot 看，評分是好的（TrustScore 4.4，104,909 則評價中 71% 為五星、7% 為一星）。若要判斷客服處理情況，還應閱讀檔案上近期的投訴及回覆；回覆率並不代表問題已解決。",
-          "前提在於範圍，而不在評分。檔案是全球通用的，不區分國家，投訴都是國際運送問題：延誤、物流追蹤和包裹遺失。Trustpilot 顯示的是商店整體的表現；你所在地址的運費和送達時間，請看結帳頁面。"
-        ]
+          "能，但要注意範圍。評分不錯：105,442 則評價的 TrustScore 為 4.4，其中 71% 是五星。它描述的是商店整體的表現。若要為自己的購買做判斷，請閱讀最近的一星評價，並在結帳時確認你所在國家的時效與運費。",
+          "注意的是範圍。檔案是全球通用的，而投訴多半是跨境配送的問題：延誤、追蹤停滯與遺失。你地址的運費和時效只會在結帳時出現。"
+        ],
+        "emphasis": "全球合計的 4.4 說明商店如何處理大多數訂單，但完全不能說明你的地址，而配送正是評價最常抱怨的地方。"
       },
       {
         "heading": "付款之前",
         "paragraphs": [
-          "可見的差評涉及運送和物流追蹤。付款前，請在結帳頁面核對寄到你所在地址的運費和預計送達時間。送達時間的計算方式和金額見 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
-          "付款之後，請保存訂單編號和物流追蹤碼：如果包裹延誤或物流追蹤停止，聯絡客服時需要用到它們。",
-          "如果你已經決定購買，本站的 [YesStyle 優惠券和獎勵碼](/zh-hant/coupons/yesstyle)頁面會帶你去商店。這是聯盟連結：透過它購買，Em Casa com Cecília 可能獲得傭金，你不需要多付費用。"
+          "我們讀的 40 則一星評價中，配送與追蹤問題佔了 20 則。付款前，請在結帳時確認你地址的運費和預估時效。金額與時效的計算方式，請見[YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+          "付款後，請保存訂單編號和追蹤編號。如果包裹延誤或追蹤停住，你需要這兩個號碼才能向客服開單。",
+          "如果你決定購買，本站的[YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)頁面會帶你到商店。這是聯盟連結，購買可能讓 Em Casa com Cecília 獲得佣金，對你沒有額外費用。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "YesStyle 在 Trustpilot 的評分高嗎？是的。TrustScore 為 4.4，標籤是「Excellent」，104,909 則評價中 71% 為五星、7% 為一星。",
-          "關於 YesStyle 最常見的投訴是什麼？負評，主題都是國際運送：延誤和長時間等待、物流追蹤停滯、包裹遺失、商品損壞，以及訂單卡在處理中。",
-          "YesStyle 會回覆負評嗎？根據 Trustpilot 檔案，商店回覆了 98% 的負評，通常在 24 小時內，回覆可能使用人工智慧。"
+          "YesStyle 在 Trustpilot 的評分好嗎？好。TrustScore 為 4.4，標籤為「Excellent」，共 105,442 則評價，其中 71% 給五星，7% 給一星。",
+          "關於 YesStyle 最常見的投訴是什麼？我們讀的 40 則一星評價中，有 20 則談配送：沒到貨的訂單、卡住的追蹤、延誤與未出貨的訂單。",
+          "YesStyle 會回覆負評嗎？根據 Trustpilot 檔案，商店回覆了 99% 的負評，多數在 24 小時內，回覆可能使用人工智慧。",
+          "Trustpilot 的評分適用於我的國家嗎？不完全適用。檔案是全球通用的，沒有依國家區分，所以請在結帳時確認你地址的時效與運費。",
+          "YesStyle 的獎勵碼是什麼？CECILIA010 首次購買享 5% 折扣，之後購買享 2%，沒有截止日期。結帳時填入獎勵碼欄位，可以和商店自己的折扣一起使用。"
         ]
       }
     ],
@@ -175550,7 +176279,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-zh-hant"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "想冷靜看待商店整體評價，並在購買前掌握配送方面投訴的人，適合看這篇。",
+        "打算使用獎勵碼 CECILIA010，並會在付款前確認運費與時效的人，適合看這篇。"
+      ],
+      "skipIf": [
+        "需要地址的配送時效有保證的人，不適合。我們讀的一星評價中，有一半談延誤、包裹卡住或遺失。",
+        "想依靠商店回覆來安心的人，不適合。99% 的負評都有回覆，但回覆並不能證明問題已解決。"
+      ]
+    }
   },
   {
     "id": 696,
@@ -223551,7 +224290,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vá de YesStyle se não quer arriscar: tem nota 4,4 no Trustpilot (104.969 avaliações), contra 1,9 (137) da StyleKorean. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a entrega está suspensa temporariamente: veja o capítulo do país."
+          "Vá de YesStyle se não quer arriscar: tem nota 4,4 no Trustpilot (105.442 avaliações), contra 1,9 (137) da StyleKorean. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a entrega está suspensa temporariamente: veja o capítulo do país."
         ]
       },
       {
@@ -223560,7 +224299,7 @@ export const reviewsData: unknown[] = [
           "Antes do preço, olhe quem fica do outro lado do pedido. Entre as duas lojas, a diferença de reputação é grande."
         ],
         "comparisonTable": {
-          "caption": "Perfis no Trustpilot em 8 de novembro.",
+          "caption": "Perfis no Trustpilot, lidos em novembro.",
           "headers": [
             "Loja",
             "Nota no Trustpilot",
@@ -223570,7 +224309,7 @@ export const reviewsData: unknown[] = [
             [
               "YesStyle",
               "4,4",
-              "104.969"
+              "105.442"
             ],
             [
               "StyleKorean",
@@ -223858,6 +224597,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o código de recompensa da YesStyle? O CECILIA010 dá 5% extra na primeira compra e 2% nas seguintes, sem data de fim. Ele vai no campo Reward Code do checkout e soma com um cupom da própria YesStyle.",
           "Tem código da StyleKorean aqui? Não. O CECILIA010 é só da YesStyle e não funciona na StyleKorean.",
           "A StyleKorean é da YesStyle? Não. A StyleKorean é da Silicon2, da Coreia; a YesStyle é da YesAsia, de Hong Kong.",
           "Entrega no meu país? Portugal, Estados Unidos, Reino Unido e Alemanha estão nas tabelas deste artigo; para o Brasil, veja o capítulo do país.",
@@ -223899,7 +224639,7 @@ export const reviewsData: unknown[] = [
         "slug": "codigo-cecilia010-yesstyle-como-usar"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 867,
@@ -223935,7 +224675,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Go with YesStyle if you don't want to take a chance: it rates 4.4 on Trustpilot (104,969 reviews), against StyleKorean's 1.9 (137). CECILIA010 adds up to 5%. Shipping and charges are not counted. For other destinations, check at checkout that the store delivers to your address and what shipping and charges apply."
+          "Go with YesStyle if you don't want to take a chance: it rates 4.4 on Trustpilot (105,442 reviews), against StyleKorean's 1.9 (137). CECILIA010 adds up to 5%. Shipping and charges are not counted. For other destinations, check at checkout that the store delivers to your address and what shipping and charges apply."
         ]
       },
       {
@@ -223944,7 +224684,7 @@ export const reviewsData: unknown[] = [
           "Before the price, look at who is on the other side of the order. Between these two stores, the reputation gap is large."
         ],
         "comparisonTable": {
-          "caption": "Trustpilot profiles on November 8.",
+          "caption": "Trustpilot profiles, read in November.",
           "headers": [
             "Store",
             "Trustpilot rating",
@@ -223954,7 +224694,7 @@ export const reviewsData: unknown[] = [
             [
               "YesStyle",
               "4.4",
-              "104,969"
+              "105,442"
             ],
             [
               "StyleKorean",
@@ -224241,6 +224981,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the YesStyle Reward Code? CECILIA010 gives 5% extra on a first order and 2% on the ones after, with no end date. It goes in the Reward Code field at checkout and stacks with one coupon from YesStyle itself.",
           "Is there a StyleKorean code here? No. CECILIA010 is only for YesStyle and does not work at StyleKorean.",
           "Does YesStyle own StyleKorean? No. StyleKorean belongs to Silicon2, from Korea; YesStyle belongs to YesAsia, from Hong Kong.",
           "Does it deliver to my country? Portugal, the United States, the United Kingdom and Germany are in this article's tables; for other destinations, see [the store's shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
@@ -224282,7 +225023,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-coupon-cecilia010"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 868,
@@ -224318,7 +225059,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Ve a YesStyle si no quieres arriesgar: tiene nota 4,4 en Trustpilot (104.969 valoraciones), contra 1,9 (137) de StyleKorean. El CECILIA010 da hasta 5 % extra. Envío y cargos no cuentan. Para otros destinos, mira en el pago si entregan en tu dirección y qué cargos aplican."
+          "Ve a YesStyle si no quieres arriesgar: tiene nota 4,4 en Trustpilot (105.442 valoraciones), contra 1,9 (137) de StyleKorean. El CECILIA010 da hasta 5 % extra. Envío y cargos no cuentan. Para otros destinos, mira en el pago si entregan en tu dirección y qué cargos aplican."
         ]
       },
       {
@@ -224327,7 +225068,7 @@ export const reviewsData: unknown[] = [
           "Antes del precio, mira quién está al otro lado del pedido. Entre las dos tiendas, la diferencia de reputación es grande."
         ],
         "comparisonTable": {
-          "caption": "Perfiles en Trustpilot el 8 de noviembre.",
+          "caption": "Perfiles en Trustpilot, consultados en noviembre.",
           "headers": [
             "Tienda",
             "Nota en Trustpilot",
@@ -224337,7 +225078,7 @@ export const reviewsData: unknown[] = [
             [
               "YesStyle",
               "4,4",
-              "104.969"
+              "105.442"
             ],
             [
               "StyleKorean",
@@ -224624,6 +225365,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el código de recompensa de YesStyle? El CECILIA010 da un 5 % extra en la primera compra y un 2 % en las siguientes, sin fecha de fin. Va en el campo Reward Code del pago y se suma a un cupón de la propia YesStyle.",
           "¿Hay código de StyleKorean aquí? No. El CECILIA010 es solo de YesStyle y no funciona en StyleKorean.",
           "¿StyleKorean es de YesStyle? No. StyleKorean es de Silicon2, de Corea; YesStyle es de YesAsia, de Hong Kong.",
           "¿Entregan en mi país? Portugal, Estados Unidos, Reino Unido y Alemania están en las tablas de este artículo; para otros destinos, mira [la guía de envíos de YesStyle a España, México, Chile, Perú, Argentina y Colombia](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
@@ -224665,7 +225407,7 @@ export const reviewsData: unknown[] = [
         "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 869,
@@ -224673,7 +225415,7 @@ export const reviewsData: unknown[] = [
     "locale": "fr",
     "translationKey": "yesstyle-vs-stylekorean",
     "title": "YesStyle ou StyleKorean : laquelle vaut le coup pour votre porte-monnaie ? Comparaison directe",
-    "seoTitle": "YesStyle ou StyleKorean : laquelle choisir ? Prix et livraison",
+    "seoTitle": "YesStyle ou StyleKorean : prix et livraison comparés",
     "type": "Comparatif de boutiques",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -224701,7 +225443,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Partez sur YesStyle si vous ne voulez pas prendre de risque : Trustpilot 4,4 (104 969 avis) contre 1,9 (137) pour StyleKorean. CECILIA010 ajoute jusqu'à 5 %. Livraison et taxes non comptées. Hors des destinations des tableaux, vérifiez au paiement si elle livre chez vous et quels frais s'appliquent."
+          "Partez sur YesStyle si vous ne voulez pas prendre de risque : Trustpilot 4,4 (105 442 avis) contre 1,9 (137) pour StyleKorean. CECILIA010 ajoute jusqu'à 5 %. Livraison et taxes non comptées. Hors des destinations des tableaux, vérifiez au paiement si elle livre chez vous et quels frais s'appliquent."
         ]
       },
       {
@@ -224710,7 +225452,7 @@ export const reviewsData: unknown[] = [
           "Avant le prix, regardez qui se trouve de l'autre côté de la commande. Entre les deux boutiques, l'écart de réputation est grand."
         ],
         "comparisonTable": {
-          "caption": "Profils Trustpilot au 8 novembre.",
+          "caption": "Profils Trustpilot, consultés en novembre.",
           "headers": [
             "Boutique",
             "Note Trustpilot",
@@ -224720,7 +225462,7 @@ export const reviewsData: unknown[] = [
             [
               "YesStyle",
               "4,4",
-              "104 969"
+              "105 442"
             ],
             [
               "StyleKorean",
@@ -225007,6 +225749,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code récompense de YesStyle ? CECILIA010 donne 5 % de plus sur la première commande et 2 % sur les suivantes, sans date de fin. Il se saisit dans le champ Reward Code au paiement et se cumule avec un coupon de la boutique elle-même.",
           "Y a-t-il un code StyleKorean ici ? Non. CECILIA010 est réservé à YesStyle et ne fonctionne pas chez StyleKorean.",
           "StyleKorean appartient-elle à YesStyle ? Non. StyleKorean appartient à Silicon2, en Corée ; YesStyle appartient à YesAsia, à Hong Kong.",
           "Livraison dans mon pays ? Le Portugal, les États-Unis, le Royaume-Uni et l'Allemagne figurent dans les tableaux de cet article ; pour les autres destinations, consultez le [guide de livraison de la boutique en français](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
@@ -225048,7 +225791,7 @@ export const reviewsData: unknown[] = [
         "slug": "code-recompense-yesstyle-cecilia010"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 870,
@@ -225084,7 +225827,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Nehmen Sie YesStyle, wenn Sie kein Risiko eingehen wollen: 4,4 auf Trustpilot (104.969 Bewertungen) gegenüber 1,9 (137) bei StyleKorean. Reward Code CECILIA010 bringt bis zu 5 % extra; Versand und Abgaben nicht eingerechnet. Außerhalb dieser Länder klären Sie im Checkout, ob an Ihre Adresse geliefert wird und welche Abgaben gelten."
+          "Nehmen Sie YesStyle, wenn Sie kein Risiko eingehen wollen: 4,4 auf Trustpilot (105.442 Bewertungen) gegenüber 1,9 (137) bei StyleKorean. Reward Code CECILIA010 bringt bis zu 5 % extra; Versand und Abgaben nicht eingerechnet. Außerhalb dieser Länder klären Sie im Checkout, ob an Ihre Adresse geliefert wird und welche Abgaben gelten."
         ]
       },
       {
@@ -225093,7 +225836,7 @@ export const reviewsData: unknown[] = [
           "Schauen Sie vor dem Preis darauf, wer auf der anderen Seite der Bestellung steht. Zwischen den beiden Shops ist der Unterschied beim Ruf groß."
         ],
         "comparisonTable": {
-          "caption": "Trustpilot-Profile am 8. November.",
+          "caption": "Trustpilot-Profile, im November abgerufen.",
           "headers": [
             "Shop",
             "Trustpilot-Bewertung",
@@ -225103,7 +225846,7 @@ export const reviewsData: unknown[] = [
             [
               "YesStyle",
               "4,4",
-              "104.969"
+              "105.442"
             ],
             [
               "StyleKorean",
@@ -225390,6 +226133,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Reward Code von YesStyle? CECILIA010 bringt 5 % extra bei der ersten Bestellung und 2 % bei den folgenden, ohne Enddatum. Er kommt im Checkout in das Feld Reward Code und lässt sich mit einem Gutschein von YesStyle selbst kombinieren.",
           "Gibt es hier einen Code für StyleKorean? Nein. CECILIA010 gilt nur bei YesStyle und funktioniert nicht bei StyleKorean.",
           "Gehört StyleKorean zu YesStyle? Nein. StyleKorean gehört zu Silicon2 aus Korea; YesStyle gehört zu YesAsia aus Hongkong.",
           "Lieferung in mein Land? Portugal, die Vereinigten Staaten, das Vereinigte Königreich und Deutschland stehen in den Tabellen dieses Artikels; für andere Ziele lesen Sie den [Versandleitfaden von YesStyle für Deutschland, Österreich und die Schweiz](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
@@ -225431,7 +226175,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-rabatt-cecilia010"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 871,
@@ -225467,7 +226211,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Vai con YesStyle se non vuoi rischiare: ha 4,4 su Trustpilot (104.969 recensioni), contro 1,9 (137) di StyleKorean. CECILIA010 dà fino al 5% in più. Spedizione e oneri restano fuori dal conto. Per le altre destinazioni, controlla al checkout se consegnano al tuo indirizzo e con quali spese."
+          "Vai con YesStyle se non vuoi rischiare: ha 4,4 su Trustpilot (105.442 recensioni), contro 1,9 (137) di StyleKorean. CECILIA010 dà fino al 5% in più. Spedizione e oneri restano fuori dal conto. Per le altre destinazioni, controlla al checkout se consegnano al tuo indirizzo e con quali spese."
         ]
       },
       {
@@ -225476,7 +226220,7 @@ export const reviewsData: unknown[] = [
           "Prima del prezzo, guarda chi c'è dall'altra parte dell'ordine. Tra i due negozi, la differenza di reputazione è grande."
         ],
         "comparisonTable": {
-          "caption": "Profili su Trustpilot all'8 novembre.",
+          "caption": "Profili su Trustpilot, letti a novembre.",
           "headers": [
             "Negozio",
             "Voto su Trustpilot",
@@ -225486,7 +226230,7 @@ export const reviewsData: unknown[] = [
             [
               "YesStyle",
               "4,4",
-              "104.969"
+              "105.442"
             ],
             [
               "StyleKorean",
@@ -225773,6 +226517,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il codice ricompensa di YesStyle? CECILIA010 dà il 5% in più sul primo acquisto e il 2% sui successivi, senza data di fine. Va nel campo Reward Code del checkout e si somma a un coupon del negozio stesso.",
           "C'è un codice di StyleKorean qui? No. CECILIA010 è solo di YesStyle e non funziona su StyleKorean.",
           "StyleKorean appartiene a YesStyle? No. StyleKorean è di Silicon2, in Corea; YesStyle è di YesAsia, di Hong Kong.",
           "Consegnano nel mio paese? Portogallo, Stati Uniti, Regno Unito e Germania sono nelle tabelle di questo articolo; per altre destinazioni vedi [la guida alle spedizioni di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
@@ -225814,7 +226559,7 @@ export const reviewsData: unknown[] = [
         "slug": "codice-ricompensa-yesstyle-cecilia010"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 872,
@@ -225850,7 +226595,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "위험을 감수하고 싶지 않다면 YesStyle로 가세요. Trustpilot 평점은 4.4(리뷰 104,969건)로 StyleKorean의 1.9(137건)보다 높습니다. CECILIA010은 최대 5%를 더 깎아 줍니다. 배송비와 부과금은 계산에 들어 있지 않습니다. 표에 나온 나라 밖에 산다면 결제 화면에서 내 주소로 배송되는지, 배송비와 부과금이 얼마인지 먼저 확인하세요."
+          "위험을 감수하고 싶지 않다면 YesStyle로 가세요. Trustpilot 평점은 4.4(리뷰 105,442건)로 StyleKorean의 1.9(137건)보다 높습니다. CECILIA010은 최대 5%를 더 깎아 줍니다. 배송비와 부과금은 계산에 들어 있지 않습니다. 표에 나온 나라 밖에 산다면 결제 화면에서 내 주소로 배송되는지, 배송비와 부과금이 얼마인지 먼저 확인하세요."
         ]
       },
       {
@@ -225859,7 +226604,7 @@ export const reviewsData: unknown[] = [
           "가격을 보기 전에, 주문 반대편에 어떤 쇼핑몰이 있는지 먼저 살펴보세요. 두 곳의 평판 차이는 큽니다."
         ],
         "comparisonTable": {
-          "caption": "Trustpilot 프로필, 11월 8일 기준.",
+          "caption": "Trustpilot 프로필, 11월 기준.",
           "headers": [
             "쇼핑몰",
             "Trustpilot 평점",
@@ -225869,7 +226614,7 @@ export const reviewsData: unknown[] = [
             [
               "YesStyle",
               "4.4",
-              "104,969"
+              "105,442"
             ],
             [
               "StyleKorean",
@@ -226156,6 +226901,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "YesStyle의 리워드 코드는 무엇인가요? CECILIA010은 첫 구매에 5%, 이후 구매에 2%를 추가로 할인해 주며 종료일은 없습니다. 결제 화면의 Reward Code 칸에 입력하고, YesStyle이 직접 내놓는 쿠폰 하나와 함께 쓸 수 있습니다.",
           "StyleKorean 코드도 있나요? 아니요. CECILIA010은 YesStyle 전용이며 StyleKorean에서는 작동하지 않습니다.",
           "StyleKorean은 YesStyle의 계열사인가요? 아니요. StyleKorean은 한국의 Silicon2 소속이고, YesStyle은 홍콩의 YesAsia 소속입니다.",
           "내가 사는 나라에도 배송되나요? 포르투갈, 미국, 영국, 독일은 이 글의 표에 있습니다. 다른 배송지는 [YesStyle 배송 안내](/ko/reviews/yesstyle-shipping-korea-ko)에서 확인하세요.",
@@ -226197,7 +226943,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-ko"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 873,
@@ -226233,7 +226979,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "リスクを避けたいならYesStyleです。Trustpilotの評価は4.4（104,969件）で、StyleKoreanの1.9（137件）を上回ります。CECILIA010で最大5%が上乗せされます。送料と諸費用は計算に含まれていません。表にある配送先以外にお住まいの方は、チェックアウトで住所への配送の可否と、送料や諸費用がいくらかかるかを確認してください。"
+          "リスクを避けたいならYesStyleです。Trustpilotの評価は4.4（105,442件）で、StyleKoreanの1.9（137件）を上回ります。CECILIA010で最大5%が上乗せされます。送料と諸費用は計算に含まれていません。表にある配送先以外にお住まいの方は、チェックアウトで住所への配送の可否と、送料や諸費用がいくらかかるかを確認してください。"
         ]
       },
       {
@@ -226242,7 +226988,7 @@ export const reviewsData: unknown[] = [
           "価格を見る前に、注文の相手がどんなショップかを確認しましょう。2店のあいだには、評判にかなりの差があります。"
         ],
         "comparisonTable": {
-          "caption": "11月8日時点のTrustpilotのプロフィール。",
+          "caption": "Trustpilotのプロフィール。11月時点。",
           "headers": [
             "ショップ",
             "Trustpilotの評価",
@@ -226252,7 +226998,7 @@ export const reviewsData: unknown[] = [
             [
               "YesStyle",
               "4.4",
-              "104,969"
+              "105,442"
             ],
             [
               "StyleKorean",
@@ -226539,6 +227285,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
+          "YesStyleのリワードコードは何ですか？ CECILIA010は初回注文で5%、2回目以降は2%が上乗せされ、終了日はありません。チェックアウトのReward Codeの欄に入力し、YesStyle自身のクーポン1枚と併用できます。",
           "StyleKoreanのコードはありますか？ ありません。CECILIA010はYesStyle専用で、StyleKoreanでは使えません。",
           "StyleKoreanはYesStyleの系列ですか？ いいえ。StyleKoreanは韓国のSilicon2が、YesStyleは香港のYesAsiaが運営しています。",
           "自分の国に配送してもらえますか？ この記事の表には、ポルトガル、アメリカ、イギリス、ドイツがあります。それ以外の国は、[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)で配送の条件を確認してください。",
@@ -226580,7 +227327,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-ja"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 874,
@@ -226616,7 +227363,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "想少冒點風險，就選 YesStyle：Trustpilot 評分 4.4（104,969 則評價），StyleKorean 則是 1.9（137 則）。CECILIA010 可再額外省最高 5%。運費與稅費不在計算內。如果你所在的地方不在本文表格列出的目的地中，請在結帳時確認店家是否寄到你的地址，以及適用的運費與稅費。"
+          "想少冒點風險，就選 YesStyle：Trustpilot 評分 4.4（105,442 則評價），StyleKorean 則是 1.9（137 則）。CECILIA010 可再額外省最高 5%。運費與稅費不在計算內。如果你所在的地方不在本文表格列出的目的地中，請在結帳時確認店家是否寄到你的地址，以及適用的運費與稅費。"
         ]
       },
       {
@@ -226625,7 +227372,7 @@ export const reviewsData: unknown[] = [
           "比價格更該先看的，是下單後站在另一端的是誰。兩家店在口碑上的差距很大。"
         ],
         "comparisonTable": {
-          "caption": "Trustpilot 頁面，截至 11 月 8 日。",
+          "caption": "Trustpilot 頁面，11 月查閱。",
           "headers": [
             "店家",
             "Trustpilot 評分",
@@ -226635,7 +227382,7 @@ export const reviewsData: unknown[] = [
             [
               "YesStyle",
               "4.4",
-              "104,969"
+              "105,442"
             ],
             [
               "StyleKorean",
@@ -226922,6 +227669,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
+          "YesStyle 的獎勵碼是什麼？ CECILIA010 首次下單額外再省 5%，之後的訂單再省 2%，沒有截止日期。它填在結帳頁的 Reward Code 欄位，可以和 YesStyle 自家的一張優惠券疊加使用。",
           "這裡有 StyleKorean 的代碼嗎？ 沒有。CECILIA010 只適用於 YesStyle，在 StyleKorean 無法使用。",
           "StyleKorean 是 YesStyle 旗下的嗎？ 不是。StyleKorean 屬於韓國的 Silicon2；YesStyle 屬於香港的 YesAsia。",
           "我的國家有寄送嗎？ 葡萄牙、美國、英國和德國已列在本文的表格中；其他地區請見 [YesStyle 運送說明文章](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
@@ -226963,7 +227711,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 875,
@@ -226999,7 +227747,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "如果不想冒险，就选 YesStyle：它在 Trustpilot 上的评分是 4.4（104,969 条评价），StyleKorean 只有 1.9（137 条）。CECILIA010 最高可额外再省 5%。运费和各类费用不计入比较。表中所列目的地之外，请在结账页确认店家能否寄到你的地址，以及运费和其他费用怎么算。"
+          "如果不想冒险，就选 YesStyle：它在 Trustpilot 上的评分是 4.4（105,442 条评价），StyleKorean 只有 1.9（137 条）。CECILIA010 最高可额外再省 5%。运费和各类费用不计入比较。表中所列目的地之外，请在结账页确认店家能否寄到你的地址，以及运费和其他费用怎么算。"
         ]
       },
       {
@@ -227008,7 +227756,7 @@ export const reviewsData: unknown[] = [
           "先别看价格，先看订单另一端是谁。两家店的口碑差距很大。"
         ],
         "comparisonTable": {
-          "caption": "11月8日的 Trustpilot 店家页面。",
+          "caption": "Trustpilot 店家页面，11月查阅。",
           "headers": [
             "店家",
             "Trustpilot 评分",
@@ -227018,7 +227766,7 @@ export const reviewsData: unknown[] = [
             [
               "YesStyle",
               "4.4",
-              "104,969"
+              "105,442"
             ],
             [
               "StyleKorean",
@@ -227305,6 +228053,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
+          "YesStyle 的奖励码是什么？ CECILIA010 首单额外再省 5%，之后的订单再省 2%，没有截止日期。它填在结账页的 Reward Code 栏，可以和 YesStyle 自家的一张优惠券叠加使用。",
           "这里有 StyleKorean 的代码吗？ 没有。CECILIA010 只适用于 YesStyle，在 StyleKorean 不能使用。",
           "StyleKorean 是 YesStyle 旗下的吗？ 不是。StyleKorean 属于韩国的 Silicon2；YesStyle 属于香港的 YesAsia。",
           "寄得到我所在的国家吗？ 葡萄牙、美国、英国和德国在本文的表格中；其他目的地请看 [YesStyle 运送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
@@ -227346,7 +228095,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 876,
@@ -227418,12 +228167,12 @@ export const reviewsData: unknown[] = [
             [
               "Avaliações",
               "137",
-              "104.972"
+              "105.442"
             ],
             [
               "Nos últimos 12 meses",
               "45",
-              "11.618"
+              "12.070"
             ],
             [
               "5 estrelas",
@@ -227595,15 +228344,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que não dá para concluir",
-        "bullets": [
-          "**Com que frequência um pedido dá errado:** o Trustpilot mostra quem escreveu, e não o total de pedidos.",
-          "**Qual país corre mais risco:** as queixas vêm dos EUA, do Canadá, do Reino Unido, da Itália, da Alemanha, da Espanha, dos Emirados e da Arábia Saudita, entre outros, em número pequeno demais para comparar.",
-          "**Se o atendimento melhorou com as respostas no Trustpilot:** o perfil começou a responder há pouco tempo.",
-          "**Se ela é mais ou menos segura que qualquer outra loja:** a comparação aqui é só com a YesStyle."
-        ]
-      },
-      {
         "heading": "Antes de pagar",
         "paragraphs": [
           "Se o produto que você quer só está na StyleKorean, ou sai bem mais barato nela, confira nesta ordem:"
@@ -227652,7 +228392,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
           }
-        ]
+        ],
+        "emphasis": "Uma nota baixa não prova que o seu pedido vai dar errado, mas as queixas da StyleKorean se repetem nos mesmos pontos: entrega e imposto. Se a economia é pequena, não vale o risco."
       },
       {
         "heading": "E no Brasil?",
@@ -227670,6 +228411,7 @@ export const reviewsData: unknown[] = [
           "Por que cobraram imposto na entrega? Porque, fora dos EUA e do Canadá, a loja deixa os encargos fora do preço e por conta do cliente, e eles podem ser cobrados antes da entrega.",
           "O que acontece se eu recusar o pacote? Se a recusa for por questão de alfândega, como imposto não pago, a política da loja exclui reembolso e reenvio.",
           "Consigo reembolso na StyleKorean? A política prevê reembolso em pontos da loja, com validade de 6 meses, ou na forma de pagamento. Para esta última, menciona 2 a 14 dias úteis. Há avaliadores que relatam demora ou falta de reembolso.",
+          "Qual é o código de recompensa da YesStyle? O CECILIA010 dá 5% extra na primeira compra e 2% nas seguintes, sem data de fim. Ele vai no campo Reward Code do checkout e soma com um cupom da própria YesStyle.",
           "Tem código da StyleKorean aqui? Não. O CECILIA010 é só da YesStyle e não funciona na StyleKorean."
         ]
       }
@@ -227708,7 +228450,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-entrega-no-brasil-e-portugal"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 877,
@@ -227781,12 +228523,12 @@ export const reviewsData: unknown[] = [
             [
               "Reviews",
               "137",
-              "104,972"
+              "105,442"
             ],
             [
               "In the last 12 months",
               "45",
-              "11,618"
+              "12,070"
             ],
             [
               "5 stars",
@@ -227958,15 +228700,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "What we can't conclude",
-        "bullets": [
-          "**How often an order goes wrong:** Trustpilot shows who wrote, not the total number of orders.",
-          "**Which country carries more risk:** the complaints come from the US, Canada, the UK, Italy, Germany, Spain, the UAE and Saudi Arabia, among others, in numbers too small to compare.",
-          "**Whether support improved with the replies on Trustpilot:** the profile only recently started answering.",
-          "**Whether it is more or less safe than any other store:** the only comparison here is with YesStyle."
-        ]
-      },
-      {
         "heading": "Before you pay",
         "paragraphs": [
           "If the product you want is only at StyleKorean, or costs much less there, check in this order:"
@@ -228015,7 +228748,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
           }
-        ]
+        ],
+        "emphasis": "A low rating doesn't prove your order will go wrong, but StyleKorean's complaints keep landing on the same two points: delivery and import charges. If the saving is small, it isn't worth the risk."
       },
       {
         "heading": "What about other countries?",
@@ -228033,6 +228767,7 @@ export const reviewsData: unknown[] = [
           "Why was I charged tax on delivery? Because, outside the US and Canada, the store does not include charges in the price and leaves them to the customer, and they can be collected before delivery.",
           "What happens if I refuse the parcel? If the refusal is over a customs issue, such as unpaid tax, the store's policy excludes refund and reshipping.",
           "Can I get a refund at StyleKorean? The policy provides for a refund in store points, valid for 6 months, or to the payment method. For the latter, it mentions 2 to 14 business days. Some reviewers report delayed or missing refunds.",
+          "What is the YesStyle Reward Code? CECILIA010 gives 5% extra on a first order and 2% on the ones after, with no end date. It goes in the Reward Code field at checkout and stacks with one coupon from YesStyle itself.",
           "Do you have a StyleKorean code? No. CECILIA010 is only for YesStyle and does not work at StyleKorean."
         ]
       }
@@ -228071,7 +228806,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-shipping-us-uk-canada-australia"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 878,
@@ -228144,12 +228879,12 @@ export const reviewsData: unknown[] = [
             [
               "Valoraciones",
               "137",
-              "104.972"
+              "105.442"
             ],
             [
               "En los últimos 12 meses",
               "45",
-              "11.618"
+              "12.070"
             ],
             [
               "5 estrellas",
@@ -228321,15 +229056,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Lo que no se puede concluir",
-        "bullets": [
-          "**Con qué frecuencia sale mal un pedido:** Trustpilot muestra quién escribió, no el total de pedidos.",
-          "**Qué país corre más riesgo:** las quejas vienen de EE. UU., Canadá, Reino Unido, Italia, Alemania, España, Emiratos Árabes y Arabia Saudí, entre otros, en número demasiado pequeño para comparar.",
-          "**Si la atención mejoró con las respuestas en Trustpilot:** el perfil empezó a responder hace poco.",
-          "**Si es más o menos segura que cualquier otra tienda:** la comparación aquí es solo con YesStyle."
-        ]
-      },
-      {
         "heading": "Antes de pagar",
         "paragraphs": [
           "Si el producto que quieres solo está en StyleKorean, o sale bastante más barato allí, comprueba en este orden:"
@@ -228378,7 +229104,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
           }
-        ]
+        ],
+        "emphasis": "Una nota baja no demuestra que tu pedido saldrá mal, pero las quejas de StyleKorean se repiten en los mismos puntos: entrega e impuestos. Si el ahorro es pequeño, no compensa el riesgo."
       },
       {
         "heading": "¿Y en otros países?",
@@ -228396,6 +229123,7 @@ export const reviewsData: unknown[] = [
           "¿Por qué me cobraron impuesto en la entrega? Porque, fuera de EE. UU. y Canadá, la tienda deja los cargos fuera del precio y por cuenta del cliente, y pueden cobrarse antes de la entrega.",
           "¿Qué pasa si rechazo el paquete? Si el rechazo es por una cuestión de aduana, como un impuesto no pagado, la política de la tienda excluye el reembolso y el reenvío.",
           "¿Consigo reembolso en StyleKorean? La política prevé reembolso en puntos de la tienda, con validez de 6 meses, o en el método de pago. Para este último, menciona de 2 a 14 días hábiles. Hay usuarios que relatan retraso o falta de reembolso.",
+          "¿Cuál es el código de recompensa de YesStyle? El CECILIA010 da un 5 % extra en la primera compra y un 2 % en las siguientes, sin fecha de fin. Va en el campo Reward Code del pago y se suma a un cupón de la propia YesStyle.",
           "¿Hay código de StyleKorean aquí? No. El CECILIA010 es solo de YesStyle y no funciona en StyleKorean."
         ]
       }
@@ -228434,7 +229162,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 879,
@@ -228461,7 +229189,7 @@ export const reviewsData: unknown[] = [
     "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/stylekorean-e-confiavel-capa-fr-v2.webp",
-    "imageAlt": "Image officielle du flacon de 100 ml Madagascar Centella Ampoule de SKIN1004 devant un miroir, avec son reflet, avec le logo YesStyle, « StyleKorean est-elle fiable ? », le sous-titre « Livraison, taxes et remboursements » et Code récompense YesStyle : CECILIA010.",
+    "imageAlt": "Image officielle du flacon de 100 ml Madagascar Centella Ampoule de SKIN1004 devant un miroir, avec son reflet, avec le logo YesStyle, « StyleKorean est-elle fiable ? », le sous-titre « Livraison, taxes et remboursements » et Code récompense YesStyle : CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -228489,7 +229217,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "La note, et ce qu'elle mesure",
         "paragraphs": [
-          "StyleKorean a 1,9 sur Trustpilot, et 63 % des avis sont à 1 étoile. L'écart avec YesStyle est grand, avec une réserve : la taille et l'origine des avis."
+          "StyleKorean a 1,9 sur Trustpilot, et 63 % des avis sont à 1 étoile. L'écart avec YesStyle est grand, avec une réserve : la taille et l'origine des avis."
         ],
         "comparisonTable": {
           "caption": "Profils sur trustpilot.com, consultés en novembre.",
@@ -228507,12 +229235,12 @@ export const reviewsData: unknown[] = [
             [
               "Avis",
               "137",
-              "104 972"
+              "105 442"
             ],
             [
               "Sur les 12 derniers mois",
               "45",
-              "11 618"
+              "12 070"
             ],
             [
               "5 étoiles",
@@ -228629,7 +229357,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Taxes",
-              "Non incluses dans le prix et à votre charge ; aux États-Unis et au Canada, perçues au paiement",
+              "Non incluses dans le prix et à votre charge ; aux États-Unis et au Canada, perçues au paiement",
               "Frais inattendus à la livraison ; au Royaume-Uni, certains relatent une taxe payée au paiement sans nouveau frais, d'autres un double paiement"
             ],
             [
@@ -228639,7 +229367,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Expédition",
-              "Jusqu'à 5 jours ouvrés avant la remise au transporteur ; la FAQ parle de 72 heures ouvrées",
+              "Jusqu'à 5 jours ouvrés avant la remise au transporteur ; la FAQ parle de 72 heures ouvrées",
               "Commande bloquée en préparation ; certains saluent la rapidité"
             ],
             [
@@ -228681,15 +229409,6 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "La FAQ de StyleKorean déclare que tous les produits sont authentiques et viennent directement des marques ou de fournisseurs de confiance en Corée. Aucun des 60 avis ne dit avoir reçu un faux produit.",
           "C'est la limite de ce que l'on peut affirmer. Nous n'avons pas trouvé d'audit indépendant et n'avons pas acheté dans la boutique pour tester. L'absence de plainte dans un petit échantillon ne garantit pas que chaque produit soit authentique."
-        ]
-      },
-      {
-        "heading": "Ce que l'on ne peut pas conclure",
-        "bullets": [
-          "**À quelle fréquence une commande tourne mal :** Trustpilot montre qui a écrit, pas le total des commandes.",
-          "**Quel pays est le plus risqué :** les plaintes viennent des États-Unis, du Canada, du Royaume-Uni, d'Italie, d'Allemagne, d'Espagne, des Émirats arabes unis et d'Arabie saoudite, entre autres, en nombre trop petit pour comparer.",
-          "**Si le service client s'est amélioré avec les réponses sur Trustpilot :** le profil a commencé à répondre il y a peu.",
-          "**Si elle est plus ou moins sûre que n'importe quelle autre boutique :** la comparaison ici se fait seulement avec YesStyle."
         ]
       },
       {
@@ -228741,7 +229460,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
           }
-        ]
+        ],
+        "emphasis": "Une mauvaise note ne prouve pas que votre commande tournera mal, mais les plaintes contre StyleKorean reviennent sur les mêmes points : la livraison et les taxes. Si l'économie est faible, le risque n'en vaut pas la peine."
       },
       {
         "heading": "Et dans les autres pays ?",
@@ -228756,9 +229476,10 @@ export const reviewsData: unknown[] = [
           "StyleKorean est-elle une arnaque ? La boutique est exploitée par Silicon2, société identifiée et cotée en Corée. Les témoignages que nous avons lus portent sur la livraison, les taxes et les remboursements, et certains auteurs d'avis parlent de fraude dans ces cas. Cela ne permet ni de traiter une note basse comme une preuve de fraude, ni de garantir que chaque commande sera réglée.",
           "StyleKorean vend-elle des produits authentiques ? La boutique déclare que ses produits sont authentiques et viennent des marques ou de fournisseurs de confiance en Corée. Aucun des 60 avis que nous avons lus ne dit avoir reçu un faux produit. Nous n'avons pas trouvé d'audit indépendant et n'avons pas acheté dans la boutique pour tester.",
           "D'où vient StyleKorean ? De Corée du Sud. Elle est exploitée par Silicon2, de Seongnam, et expédie depuis la Corée.",
-          "Pourquoi m'a-t-on demandé de payer des frais à la livraison ? Parce que, hors États-Unis et Canada, la boutique laisse les frais de douane hors du prix et à la charge du client, et ils peuvent être perçus avant la livraison.",
+          "Pourquoi m'a-t-on demandé de payer des frais à la livraison ? Parce que, hors États-Unis et Canada, la boutique laisse les frais de douane hors du prix et à la charge du client, et ils peuvent être perçus avant la livraison.",
           "Que se passe-t-il si je refuse le colis ? Si le refus tient à la douane, comme une taxe impayée, la politique de la boutique exclut remboursement et réexpédition.",
           "Puis-je être remboursé chez StyleKorean ? La politique prévoit un remboursement en points boutique, valables 6 mois, ou sur le moyen de paiement. Pour ce dernier, elle mentionne 2 à 14 jours ouvrés. Des auteurs d'avis relatent des retards ou une absence de remboursement.",
+          "Quel est le code récompense de YesStyle ? CECILIA010 donne 5 % de plus sur la première commande et 2 % sur les suivantes, sans date de fin. Il se saisit dans le champ Reward Code au paiement et se cumule avec un coupon de la boutique elle-même.",
           "Y a-t-il un code StyleKorean ici ? Non. CECILIA010 est réservé à YesStyle et ne fonctionne pas chez StyleKorean."
         ]
       }
@@ -228797,7 +229518,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-livraison-france-belgique-canada"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 880,
@@ -228870,12 +229591,12 @@ export const reviewsData: unknown[] = [
             [
               "Bewertungen",
               "137",
-              "104.972"
+              "105.442"
             ],
             [
               "In den letzten 12 Monaten",
               "45",
-              "11.618"
+              "12.070"
             ],
             [
               "5 Sterne",
@@ -229047,15 +229768,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Was sich nicht beantworten lässt",
-        "bullets": [
-          "**Wie oft eine Bestellung schiefgeht:** Trustpilot zeigt, wer geschrieben hat, nicht die Gesamtzahl der Bestellungen.",
-          "**Welches Land das höchste Risiko hat:** Die Beschwerden kommen unter anderem aus den USA, Kanada, dem Vereinigten Königreich, Italien, Deutschland, Spanien, den Vereinigten Arabischen Emiraten und Saudi-Arabien, in zu kleiner Zahl für einen Vergleich.",
-          "**Ob der Kundenservice durch die Antworten auf Trustpilot besser geworden ist:** Das Profil antwortet erst seit kurzer Zeit.",
-          "**Ob der Shop mehr oder weniger sicher ist als jeder andere:** Verglichen wird hier nur mit YesStyle."
-        ]
-      },
-      {
         "heading": "Vor der Zahlung",
         "paragraphs": [
           "Wenn das gewünschte Produkt nur bei StyleKorean zu haben ist oder dort deutlich günstiger, prüfen Sie in dieser Reihenfolge:"
@@ -229104,7 +229816,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
           }
-        ]
+        ],
+        "emphasis": "Eine schlechte Bewertung beweist nicht, dass Ihre Bestellung schiefgeht, aber die Beschwerden über StyleKorean drehen sich immer um dieselben Punkte: Lieferung und Abgaben. Ist die Ersparnis klein, lohnt sich das Risiko nicht."
       },
       {
         "heading": "Und in anderen Ländern?",
@@ -229122,6 +229835,7 @@ export const reviewsData: unknown[] = [
           "Warum wurde bei der Zustellung Steuer erhoben? Weil der Shop außerhalb der USA und Kanadas die Abgaben nicht in den Preis einrechnet und dem Kunden überlässt; sie können vor der Zustellung erhoben werden.",
           "Was passiert, wenn ich das Paket ablehne? Wenn die Ablehnung wegen des Zolls erfolgt, etwa weil Steuern nicht gezahlt wurden, schließt die Richtlinie des Shops Erstattung und Neuversand aus.",
           "Bekomme ich bei StyleKorean eine Erstattung? Die Richtlinie sieht eine Erstattung in Shop-Punkten vor, die 6 Monate gelten, oder auf die Zahlungsart. Für Letzteres nennt sie 2 bis 14 Werktage. Manche Bewertende berichten von Verzögerung oder ausbleibender Erstattung.",
+          "Wie lautet der Reward Code von YesStyle? CECILIA010 bringt 5 % extra bei der ersten Bestellung und 2 % bei den folgenden, ohne Enddatum. Er kommt im Checkout in das Feld Reward Code und lässt sich mit einem Gutschein von YesStyle selbst kombinieren.",
           "Gibt es hier einen Code für StyleKorean? Nein. CECILIA010 gilt nur bei YesStyle und funktioniert nicht bei StyleKorean."
         ]
       }
@@ -229160,7 +229874,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-versand-deutschland-oesterreich-schweiz"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 881,
@@ -229233,12 +229947,12 @@ export const reviewsData: unknown[] = [
             [
               "Recensioni",
               "137",
-              "104.972"
+              "105.442"
             ],
             [
               "Negli ultimi 12 mesi",
               "45",
-              "11.618"
+              "12.070"
             ],
             [
               "5 stelle",
@@ -229410,15 +230124,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cosa non si può concludere",
-        "bullets": [
-          "**Con che frequenza un ordine va storto:** Trustpilot mostra chi ha scritto, non il totale degli ordini.",
-          "**Quale paese è più a rischio:** i reclami arrivano da USA, Canada, Regno Unito, Italia, Germania, Spagna, Emirati e Arabia Saudita, tra gli altri, in numero troppo piccolo per confrontarli.",
-          "**Se l'assistenza è migliorata con le risposte su Trustpilot:** il profilo ha iniziato a rispondere da poco.",
-          "**Se è più o meno sicuro di un qualsiasi altro negozio:** qui il confronto è solo con YesStyle."
-        ]
-      },
-      {
         "heading": "Prima di pagare",
         "paragraphs": [
           "Se il prodotto che vuoi è solo su StyleKorean, o costa molto meno lì, controlla in quest'ordine:"
@@ -229467,7 +230172,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
           }
-        ]
+        ],
+        "emphasis": "Un voto basso non prova che il tuo ordine andrà male, ma le lamentele su StyleKorean tornano sugli stessi punti: consegna e imposte. Se il risparmio è poco, il rischio non vale la pena."
       },
       {
         "heading": "E negli altri Paesi?",
@@ -229485,6 +230191,7 @@ export const reviewsData: unknown[] = [
           "Perché mi hanno addebitato l'imposta alla consegna? Perché, fuori da USA e Canada, il negozio lascia gli oneri fuori dal prezzo e a carico del cliente, e possono essere riscossi prima della consegna.",
           "Cosa succede se rifiuto il pacco? Se il rifiuto è per una questione doganale, come un'imposta non pagata, la politica del negozio esclude rimborso e rispedizione.",
           "Posso avere un rimborso su StyleKorean? La politica prevede il rimborso in punti del negozio, validi 6 mesi, o sul metodo di pagamento. Per quest'ultimo indica da 2 a 14 giorni lavorativi. Ci sono recensori che riferiscono ritardi o mancati rimborsi.",
+          "Qual è il codice ricompensa di YesStyle? CECILIA010 dà il 5% in più sul primo acquisto e il 2% sui successivi, senza data di fine. Va nel campo Reward Code del checkout e si somma a un coupon del negozio stesso.",
           "C'è un codice di StyleKorean qui? No. CECILIA010 è solo di YesStyle e non funziona su StyleKorean."
         ]
       }
@@ -229523,7 +230230,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-spedizione-italia-tempi-costi-dogana"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 882,
@@ -229597,12 +230304,12 @@ export const reviewsData: unknown[] = [
             [
               "리뷰 수",
               "137",
-              "104,972"
+              "105,442"
             ],
             [
               "최근 12개월",
               "45",
-              "11,618"
+              "12,070"
             ],
             [
               "별 5개",
@@ -229777,15 +230484,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "결론을 내릴 수 없는 것",
-        "bullets": [
-          "**주문이 얼마나 자주 잘못되는지:** Trustpilot는 글을 쓴 사람만 보여 줄 뿐 전체 주문 수는 보여 주지 않습니다.",
-          "**어느 나라가 더 위험한지:** 불만은 미국, 캐나다, 영국, 이탈리아, 독일, 스페인, 아랍에미리트, 사우디아라비아 등에서 나오며, 숫자가 너무 적어 비교할 수 없습니다.",
-          "**Trustpilot 답변 이후 고객 응대가 나아졌는지:** 프로필이 답변을 시작한 지 얼마 되지 않았습니다.",
-          "**다른 쇼핑몰보다 더 안전한지 덜 안전한지:** 여기서는 YesStyle과만 비교했습니다."
-        ]
-      },
-      {
         "heading": "결제하기 전에",
         "paragraphs": [
           "원하는 상품이 StyleKorean에만 있거나 훨씬 싸다면, 다음 순서로 확인하세요."
@@ -229835,7 +230533,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
           }
-        ]
+        ],
+        "emphasis": "평점이 낮다고 해서 주문이 잘못된다는 증거는 아니지만, StyleKorean에 대한 불만은 배송과 세금이라는 같은 지점에 반복해서 몰립니다. 절약되는 금액이 작다면 위험을 감수할 만한 가치가 없습니다."
       },
       {
         "heading": "다른 나라에서는요?",
@@ -229853,6 +230552,7 @@ export const reviewsData: unknown[] = [
           "배송 때 왜 세금을 청구하나요? 미국과 캐나다 밖에서는 쇼핑몰이 부과금을 가격에 포함하지 않고 고객 부담으로 두며, 배송 전에 청구될 수 있기 때문입니다.",
           "소포를 거부하면 어떻게 되나요? 세금 미납 같은 통관 문제로 거부하면 쇼핑몰 정책상 환불도 재발송도 없습니다.",
           "StyleKorean에서 환불받을 수 있나요? 정책은 유효기간 6개월의 쇼핑몰 포인트 또는 결제 수단으로 환불한다고 합니다. 결제 수단 환불은 영업일 2~14일이라고 나옵니다. 환불이 늦거나 없다고 전하는 리뷰어도 있습니다.",
+          "YesStyle의 리워드 코드는 무엇인가요? CECILIA010은 첫 구매에 5%, 이후 구매에 2%를 추가로 할인해 주며 종료일은 없습니다. 결제 화면의 Reward Code 칸에 입력하고, YesStyle이 직접 내놓는 쿠폰 하나와 함께 쓸 수 있습니다.",
           "StyleKorean 코드도 있나요? 아니요. CECILIA010은 YesStyle 전용이며 StyleKorean에서는 작동하지 않습니다."
         ]
       }
@@ -229891,7 +230591,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-shipping-korea-ko"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 883,
@@ -229964,12 +230664,12 @@ export const reviewsData: unknown[] = [
             [
               "レビュー数",
               "137",
-              "104,972"
+              "105,442"
             ],
             [
               "過去12か月",
               "45",
-              "11,618"
+              "12,070"
             ],
             [
               "星5つ",
@@ -230141,15 +230841,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "ここからは結論を出せないこと",
-        "bullets": [
-          "**注文のうち、どのくらいの割合で問題が起きるか：**Trustpilotでわかるのは書いた人であり、注文の総数ではありません。",
-          "**どの国がいちばんリスクが高いか：**不満はアメリカ、カナダ、イギリス、イタリア、ドイツ、スペイン、UAE、サウジアラビアなどから届いていますが、比べるには数が少なすぎます。",
-          "**Trustpilotでの返信で対応が改善したか：**プロフィールが返信を始めてから、まだ日が浅いためです。",
-          "**ほかのショップと比べて安全かどうか：**ここで比べているのはYesStyleだけです。"
-        ]
-      },
-      {
         "heading": "支払う前に確認すること",
         "paragraphs": [
           "ほしい商品がStyleKoreanにしかない、またはかなり安い場合は、次の順番で確認してください。"
@@ -230198,7 +230889,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
           }
-        ]
+        ],
+        "emphasis": "評価が低いからといって注文がうまくいかないとは限りませんが、StyleKoreanへの不満は配送と税金という同じ点に繰り返し集まっています。節約できる額が小さいなら、リスクを取る価値はありません。"
       },
       {
         "heading": "日本から買う場合は？",
@@ -230227,6 +230919,7 @@ export const reviewsData: unknown[] = [
           "なぜ受け取り時に税金を請求されたのですか？ アメリカとカナダ以外では、ショップが諸費用を価格に含めずお客様負担としていて、配達前に請求されることがあるためです。",
           "荷物の受け取りを拒否するとどうなりますか？ 通関の理由（税金の未払いなど）による拒否の場合、ショップのポリシーでは返金も再発送もありません。",
           "StyleKoreanで返金してもらえますか？ ポリシーでは、有効期間6か月のショップのポイント、または支払い方法への返金です。後者は2〜14営業日と案内しています。返金が遅い、または来ないと報告する投稿者もいます。",
+          "YesStyleのリワードコードは何ですか？ CECILIA010は初回注文で5%、2回目以降は2%が上乗せされ、終了日はありません。チェックアウトのReward Codeの欄に入力し、YesStyle自身のクーポン1枚と併用できます。",
           "ここにStyleKoreanのコードはありますか？ ありません。CECILIA010はYesStyle専用で、StyleKoreanでは使えません。"
         ]
       }
@@ -230265,7 +230958,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-shipping-japan-ja"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 884,
@@ -230338,12 +231031,12 @@ export const reviewsData: unknown[] = [
             [
               "評價數",
               "137",
-              "104,972"
+              "105,442"
             ],
             [
               "最近 12 個月",
               "45",
-              "11,618"
+              "12,070"
             ],
             [
               "5 星",
@@ -230515,15 +231208,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "哪些事無法下結論",
-        "bullets": [
-          "**訂單出問題的頻率：** Trustpilot 只呈現留言的人，看不到總訂單數。",
-          "**哪個國家風險比較高：** 客訴來自美國、加拿大、英國、義大利、德國、西班牙、阿聯與沙烏地阿拉伯等地，每個地方的數量都太少，無法比較。",
-          "**在 Trustpilot 上開始回覆後，客服是否改善：** 這個頁面開始回覆的時間還不久。",
-          "**它是否比其他任何商店更安全或更不安全：** 這裡只拿它與 YesStyle 比較。"
-        ]
-      },
-      {
         "heading": "付款前",
         "paragraphs": [
           "如果你要的商品只有 StyleKorean 有，或在那裡便宜很多，請依下列順序確認："
@@ -230572,7 +231256,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
           }
-        ]
+        ],
+        "emphasis": "評分低並不能證明你的訂單一定會出問題，但對 StyleKorean 的抱怨總是集中在配送與稅費這兩點。如果省下的錢不多，就不值得冒這個險。"
       },
       {
         "heading": "其他國家呢？",
@@ -230590,6 +231275,7 @@ export const reviewsData: unknown[] = [
           "為什麼送達時被收稅？ 因為在美國與加拿大以外，店家把稅費排除在價格之外，由顧客負擔，並可能在送達前收取。",
           "拒收包裹會怎樣？ 如果是因海關問題拒收，例如稅費未付，店家的政策排除退款與重寄。",
           "在 StyleKorean 可以退款嗎？ 政策提供退為店內點數（有效期 6 個月）或退回付款方式。後者政策提到 2 至 14 個工作天。也有評價者回報退款延遲或沒有收到。",
+          "YesStyle 的獎勵碼是什麼？ CECILIA010 首次下單額外再省 5%，之後的訂單再省 2%，沒有截止日期。它填在結帳頁的 Reward Code 欄位，可以和 YesStyle 自家的一張優惠券疊加使用。",
           "這裡有 StyleKorean 的代碼嗎？ 沒有。CECILIA010 只適用於 YesStyle，在 StyleKorean 無法使用。"
         ]
       }
@@ -230628,7 +231314,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 885,
@@ -230701,12 +231387,12 @@ export const reviewsData: unknown[] = [
             [
               "评价数",
               "137",
-              "104,972"
+              "105,442"
             ],
             [
               "近 12 个月",
               "45",
-              "11,618"
+              "12,070"
             ],
             [
               "5 星",
@@ -230878,15 +231564,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "哪些结论下不了",
-        "bullets": [
-          "**订单出问题的频率：** Trustpilot 显示的是写了评价的人，而不是订单的总数。",
-          "**哪个国家的风险更高：** 投诉来自美国、加拿大、英国、意大利、德国、西班牙、阿联酋和沙特阿拉伯等地，每个地方的数量都太少，没法比较。",
-          "**店家在 Trustpilot 上回复之后，客服是否有所改善：** 该页面开始回复的时间还很短。",
-          "**它比其他店更安全还是更不安全：** 这里只拿它和 YesStyle 做了比较。"
-        ]
-      },
-      {
         "heading": "付款之前",
         "paragraphs": [
           "如果你要的商品只有 StyleKorean 有，或者在那里便宜得多，请按下面的顺序核对："
@@ -230935,7 +231612,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
           }
-        ]
+        ],
+        "emphasis": "评分低并不能证明你的订单一定出问题，但对 StyleKorean 的投诉总是集中在配送和税费这两点上。如果省下的钱不多，就不值得冒这个险。"
       },
       {
         "heading": "其他国家呢？",
@@ -230953,6 +231631,7 @@ export const reviewsData: unknown[] = [
           "为什么送货时被收税？ 因为在美国和加拿大之外，店家把税费排除在价格之外，由客户自己承担，而且可能在送达前收取。",
           "拒收包裹会怎样？ 如果拒收是因为海关问题，例如税费未付，店家的政策不退款，也不重寄。",
           "在 StyleKorean 能拿到退款吗？ 政策规定可以退为店内积分（有效期 6 个月），或退回原付款方式。后者的政策写的是 2 至 14 个工作日。有评价者反映退款延迟，或没有收到退款。",
+          "YesStyle 的奖励码是什么？ CECILIA010 首单额外再省 5%，之后的订单再省 2%，没有截止日期。它填在结账页的 Reward Code 栏，可以和 YesStyle 自家的一张优惠券叠加使用。",
           "这里有 StyleKorean 的代码吗？ 没有。CECILIA010 只适用于 YesStyle，在 StyleKorean 不能使用。"
         ]
       }
@@ -230991,7 +231670,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-shipping-singapore-malaysia-zh-hans"
       }
     ],
-    "updatedAt": "2026-11-09"
+    "updatedAt": "2026-11-23"
   },
   {
     "bodyDatesReason": "campanha",
@@ -245971,12 +246650,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No nosso teste no app, o código foi aceito e o resumo mostrou a linha Influencer Code Discount (5% OFF). O passo a passo com telas do site está em [como usar o CECILIA010](/reviews/codigo-cecilia010-yesstyle-como-usar)."
-        ]
+        ],
+        "emphasis": "No primeiro pedido, o código de recompensa é o desconto pequeno e certo; o cupom da campanha é o grande e passageiro. Vale usar os dois, sem esperar que o CECILIA010 sozinho mude muito o total."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Tem código YesStyle de primeira compra? Tem: o CECILIA010 dá 5% extra no primeiro pedido e 2% nos seguintes, no campo Reward Code.",
+          "Qual é o código de recompensa da YesStyle para a primeira compra? O CECILIA010: 5% extra no primeiro pedido e 2% nos seguintes, no campo Reward Code.",
           "Onde acho o cupom da YesStyle que está valendo? O cupom da campanha está na nossa página de [cupons YesStyle](/cupons/yesstyle) e nos banners da loja. A seção Coupons da conta e os e-mails da YesStyle podem trazer cupons pessoais.",
           "Dá para usar o cupom da YesStyle e o CECILIA010 no mesmo pedido? Dá, com cupom elegível: o cupom vai no campo Coupon Code e o CECILIA010 vai no Reward Code.",
           "Quem já é cliente recebe cupom da YesStyle? Pode receber, sem garantia: a loja manda cupons exclusivos por e-mail, e a seção Coupons da conta mostra os que estão disponíveis.",
@@ -245985,7 +246665,17 @@ export const reviewsData: unknown[] = [
           "O CECILIA010 vale no app? Vale: digite o código no campo Influencer / Rewards Code, na tela Enter Code."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai fazer o primeiro pedido na YesStyle e quer somar o código de recompensa CECILIA010 a um cupom da loja, quando houver um válido.",
+        "Você já comprou lá e quer saber o que muda a partir do segundo pedido: o código segue valendo, com 2%."
+      ],
+      "skipIf": [
+        "Você precisa receber no Brasil: a entrega ao Brasil está suspensa temporariamente, e nenhum código muda isso.",
+        "Você espera um desconto grande só com o código: ele dá 5% na primeira compra e 2% nas seguintes, e o resto depende de um cupom da loja."
+      ]
+    }
   },
   {
     "id": 946,
@@ -247813,12 +248503,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "In our app test, the code was accepted and the summary showed an Influencer Code Discount (5% OFF) line. The step-by-step with website screens is in [how to use CECILIA010](/en/reviews/yesstyle-reward-code-coupon-cecilia010)."
-        ]
+        ],
+        "emphasis": "On a first order, the Reward Code is the small, steady discount and the campaign coupon is the big, passing one. Use both, but don't expect CECILIA010 alone to change the total much."
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Is there a YesStyle first-order code? Yes: CECILIA010 gives 5% extra on the first order and 2% on later ones, in the Reward Code field.",
+          "What is the YesStyle Reward Code for a first order? CECILIA010: 5% extra on the first order and 2% on later ones, in the Reward Code field.",
           "Where do I find the YesStyle coupon that is valid now? The campaign coupon is on our [YesStyle coupons](/en/coupons/yesstyle) page and in the store banners. The Coupons section of your account and YesStyle emails may bring personal coupons.",
           "Can I use a YesStyle coupon and CECILIA010 on the same order? Yes, with an eligible coupon: the coupon goes in the Coupon Code field and CECILIA010 goes in the Reward Code field.",
           "Do existing customers get YesStyle coupons? They can, with no guarantee: the store sends exclusive coupons by email, and the Coupons section of your account shows the ones available.",
@@ -247827,7 +248518,17 @@ export const reviewsData: unknown[] = [
           "Does CECILIA010 work in the app? Yes: type the code in the Influencer / Rewards Code field on the Enter Code screen."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "You're placing your first YesStyle order and want to stack the CECILIA010 Reward Code on a store coupon when a valid one exists.",
+        "You've bought there before and want to know what changes from order two: the code still works, at 2%."
+      ],
+      "skipIf": [
+        "You need delivery to a country the store doesn't ship to: check the destination before building a cart, because no code changes that.",
+        "You expect a big discount from the code alone: it gives 5% on the first order and 2% after, and anything bigger depends on a store coupon."
+      ]
+    }
   },
   {
     "id": 956,
@@ -247835,7 +248536,7 @@ export const reviewsData: unknown[] = [
     "locale": "es",
     "translationKey": "yesstyle-primeira-compra",
     "title": "YesStyle primera compra: CECILIA010 da un 5 % con el código de recompensa y un 2 % en las siguientes",
-    "seoTitle": "Código CECILIA010 en YesStyle: 5 % en la 1.ª compra, 2 % después",
+    "seoTitle": "Código CECILIA010 en YesStyle: 5 % la 1.ª vez, 2 % después",
     "type": "Guía & Cupones",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -247969,12 +248670,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "En nuestra prueba en la app, el código fue aceptado y el resumen mostró la línea Influencer Code Discount (5% OFF). El paso a paso con pantallas del sitio web está en [cómo usar CECILIA010](/es/reviews/codigo-de-recompensa-yesstyle-cupon-cecilia010)."
-        ]
+        ],
+        "emphasis": "En el primer pedido, el código de recompensa es el descuento pequeño y seguro; el cupón de la campaña es el grande y pasajero. Conviene usar los dos, pero sin esperar que CECILIA010 solo cambie mucho el total."
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Hay un código de YesStyle para la primera compra? Sí: CECILIA010 da un 5 % extra en el primer pedido y un 2 % en los siguientes, en el campo Reward Code.",
+          "¿Cuál es el código de recompensa de YesStyle para la primera compra? CECILIA010: un 5 % extra en el primer pedido y un 2 % en los siguientes, en el campo Reward Code.",
           "¿Dónde encuentro el cupón de YesStyle que está vigente? El cupón de la campaña está en nuestra página de [cupones de YesStyle](/es/coupons/yesstyle) y en los banners de la tienda. La sección Coupons de la cuenta y los correos de YesStyle pueden traer cupones personales.",
           "¿Se puede usar el cupón de YesStyle y CECILIA010 en el mismo pedido? Sí, con un cupón elegible: el cupón va en el campo Coupon Code y CECILIA010 va en el Reward Code.",
           "¿Los clientes que ya compraron reciben cupones de YesStyle? Pueden recibirlos, sin garantía: la tienda envía cupones exclusivos por correo, y la sección Coupons de la cuenta muestra los que están disponibles.",
@@ -247983,7 +248685,17 @@ export const reviewsData: unknown[] = [
           "¿CECILIA010 vale en la app? Sí: escribe el código en el campo Influencer / Rewards Code, en la pantalla Enter Code."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vas a hacer tu primer pedido en YesStyle y quieres sumar el código de recompensa CECILIA010 a un cupón de la tienda, si hay uno válido.",
+        "Ya compraste allí y quieres saber qué cambia desde el segundo pedido: el código sigue valiendo, con un 2 %."
+      ],
+      "skipIf": [
+        "Necesitas recibir el pedido en un país al que la tienda no envía: comprueba el destino antes de armar el carrito, porque ningún código cambia eso.",
+        "Esperas un gran descuento solo con el código: da un 5 % en la primera compra y un 2 % en las siguientes, y lo demás depende de un cupón de la tienda."
+      ]
+    }
   },
   {
     "id": 957,
@@ -247991,7 +248703,7 @@ export const reviewsData: unknown[] = [
     "locale": "fr",
     "translationKey": "yesstyle-primeira-compra",
     "title": "YesStyle première commande : CECILIA010 donne 5 % avec le code de récompense, puis 2 %",
-    "seoTitle": "Code CECILIA010 YesStyle : 5 % dès la 1re commande, 2 % ensuite",
+    "seoTitle": "Code CECILIA010 YesStyle : 5 % 1re commande, 2 % ensuite",
     "type": "Guide & Coupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -248125,12 +248837,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Lors de notre test dans l'appli, le code a été accepté et le récapitulatif affichait la ligne Influencer Code Discount (5% OFF). Le pas à pas avec les écrans du site se trouve dans [comment utiliser CECILIA010](/fr/reviews/code-recompense-yesstyle-cecilia010)."
-        ]
+        ],
+        "emphasis": "Sur une première commande, le code récompense est la petite remise sûre ; le coupon de campagne est la grosse, mais passagère. Autant utiliser les deux, sans compter sur CECILIA010 seul pour changer beaucoup le total."
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Existe-t-il un code YesStyle pour la première commande ? Oui : CECILIA010 donne 5 % en plus sur la première commande et 2 % sur les suivantes, dans le champ Reward Code.",
+          "Quel est le code récompense YesStyle pour la première commande ? CECILIA010 : 5 % en plus sur la première commande et 2 % sur les suivantes, dans le champ Reward Code.",
           "Où trouver le coupon YesStyle en cours ? Le coupon de la campagne est sur notre page [coupons YesStyle](/fr/coupons/yesstyle) et dans les bannières de la boutique. La section Coupons du compte et les e-mails de YesStyle peuvent apporter des coupons personnels.",
           "Peut-on utiliser le coupon YesStyle et CECILIA010 dans la même commande ? Oui, avec un coupon éligible : le coupon va dans le champ Coupon Code et CECILIA010 va dans le Reward Code.",
           "Un client existant reçoit-il des coupons YesStyle ? Il peut en recevoir, sans garantie : la boutique envoie des coupons exclusifs par e-mail, et la section Coupons du compte affiche ceux qui sont disponibles.",
@@ -248139,7 +248852,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010 fonctionne-t-il dans l'appli ? Oui : saisissez le code dans le champ Influencer / Rewards Code, sur l'écran Enter Code."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous passez votre première commande YesStyle et voulez ajouter le code récompense CECILIA010 à un coupon de la boutique, s'il en existe un valable.",
+        "Vous avez déjà commandé là-bas et voulez savoir ce qui change dès la deuxième commande : le code reste valable, à 2 %."
+      ],
+      "skipIf": [
+        "Vous devez être livré dans un pays que la boutique ne dessert pas : vérifiez la destination avant de remplir le panier, car aucun code n'y change rien.",
+        "Vous attendez une grosse remise du seul code : il donne 5 % sur la première commande et 2 % ensuite, et le reste dépend d'un coupon de la boutique."
+      ]
+    }
   },
   {
     "id": 958,
@@ -248147,7 +248870,7 @@ export const reviewsData: unknown[] = [
     "locale": "de",
     "translationKey": "yesstyle-primeira-compra",
     "title": "YesStyle erste Bestellung: CECILIA010 gibt 5 % als Reward Code, danach 2 %",
-    "seoTitle": "CECILIA010 bei YesStyle: 5 % auf die 1. Bestellung, danach 2 %",
+    "seoTitle": "CECILIA010 bei YesStyle: 5 % auf Bestellung 1, danach 2 %",
     "type": "Ratgeber & Gutscheine",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -248281,12 +249004,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "In unserem Test in der App wurde der Code akzeptiert, und die Übersicht zeigte die Zeile Influencer Code Discount (5% OFF). Die Anleitung mit Bildschirmen der Website steht unter [CECILIA010 bei YesStyle nutzen](/de/reviews/yesstyle-reward-code-rabatt-cecilia010)."
-        ]
+        ],
+        "emphasis": "Bei der ersten Bestellung ist der Reward Code der kleine, verlässliche Rabatt und der Aktionsgutschein der große, aber flüchtige. Nutzen Sie beide, erwarten Sie aber nicht, dass CECILIA010 allein die Summe stark verändert."
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Gibt es einen YesStyle-Code für die erste Bestellung? Ja: CECILIA010 gibt 5 % extra auf die erste Bestellung und 2 % auf die folgenden, im Feld Reward Code.",
+          "Wie lautet der YesStyle-Reward-Code für die erste Bestellung? CECILIA010: 5 % extra auf die erste und 2 % auf die folgenden Bestellungen, im Feld Reward Code.",
           "Wo finde ich den aktuellen YesStyle-Gutschein? Der Gutschein der Aktion steht auf unserer Seite zu [YesStyle-Gutscheinen](/de/coupons/yesstyle) und in den Bannern des Shops. Der Bereich Coupons im Konto und die E-Mails von YesStyle können persönliche Gutscheine enthalten.",
           "Kann ich den YesStyle-Gutschein und CECILIA010 in derselben Bestellung nutzen? Ja, mit passendem Gutschein: Der Gutschein kommt ins Feld Coupon Code, CECILIA010 ins Feld Reward Code.",
           "Erhalten Bestandskunden Gutscheine von YesStyle? Möglich, aber ohne Garantie: Der Shop schickt exklusive Gutscheine per E-Mail, und der Bereich Coupons im Konto zeigt die verfügbaren.",
@@ -248295,7 +249019,17 @@ export const reviewsData: unknown[] = [
           "Gilt CECILIA010 in der App? Ja: Geben Sie den Code im Feld Influencer / Rewards Code auf dem Bildschirm Enter Code ein."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie geben Ihre erste YesStyle-Bestellung auf und möchten den Reward Code CECILIA010 mit einem Gutschein des Shops kombinieren, falls einer gültig ist.",
+        "Sie haben schon dort bestellt und wollen wissen, was sich ab der zweiten Bestellung ändert: Der Code gilt weiter, mit 2 %."
+      ],
+      "skipIf": [
+        "Sie brauchen die Lieferung in ein Land, das der Shop nicht beliefert: Prüfen Sie das Ziel, bevor Sie den Warenkorb füllen, denn kein Code ändert daran etwas.",
+        "Sie erwarten allein vom Code einen großen Rabatt: Er gibt 5 % auf die erste und 2 % auf die folgenden Bestellungen, alles Weitere hängt von einem Gutschein des Shops ab."
+      ]
+    }
   },
   {
     "id": 959,
@@ -248436,12 +249170,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Nel nostro test nell'app il codice è stato accettato e il riepilogo ha mostrato la riga Influencer Code Discount (5% OFF). La guida passo passo con le schermate del sito è in [come usare CECILIA010](/it/reviews/codice-ricompensa-yesstyle-cecilia010)."
-        ]
+        ],
+        "emphasis": "Al primo ordine il codice ricompensa è lo sconto piccolo e sicuro, mentre il coupon della campagna è quello grande e passeggero. Conviene usarli entrambi, senza aspettarsi che CECILIA010 da solo cambi molto il totale."
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Esiste un codice YesStyle per il primo ordine? Sì: CECILIA010 dà il 5% extra sul primo ordine e il 2% sui successivi, nel campo Reward Code.",
+          "Qual è il codice ricompensa di YesStyle per il primo ordine? CECILIA010: 5% in più sul primo ordine e 2% sui successivi, nel campo Reward Code.",
           "Dove trovo il coupon YesStyle in corso? Il coupon della campagna è nella nostra pagina dei [coupon YesStyle](/it/coupons/yesstyle) e nei banner dello shop. La sezione Coupons dell'account e le e-mail di YesStyle possono portare coupon personali.",
           "Posso usare il coupon di YesStyle e CECILIA010 nello stesso ordine? Sì, con un coupon valido: il coupon va nel campo Coupon Code e CECILIA010 nel Reward Code.",
           "Chi è già cliente riceve coupon da YesStyle? Può riceverli, senza garanzie: lo shop invia coupon esclusivi via e-mail e la sezione Coupons dell'account mostra quelli disponibili.",
@@ -248451,7 +249186,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "hideFromPortugueseListings": true
+    "hideFromPortugueseListings": true,
+    "decision": {
+      "takeIf": [
+        "Stai per fare il primo ordine su YesStyle e vuoi sommare il codice ricompensa CECILIA010 a un coupon del negozio, se ce n'è uno valido.",
+        "Hai già comprato lì e vuoi sapere cosa cambia dal secondo ordine: il codice vale ancora, con il 2%."
+      ],
+      "skipIf": [
+        "Ti serve la consegna in un paese che il negozio non serve: controlla la destinazione prima di riempire il carrello, perché nessun codice cambia questo.",
+        "Ti aspetti un grande sconto solo dal codice: dà il 5% sul primo ordine e il 2% sui successivi, il resto dipende da un coupon del negozio."
+      ]
+    }
   },
   {
     "id": 960,
@@ -248592,12 +249337,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "アプリでのテストでは、コードが受け付けられ、注文概要に「Influencer Code Discount (5% OFF)」の行が表示されました。サイトの画面つき手順は[CECILIA010の使い方](/ja/reviews/yesstyle-reward-code-cecilia010-ja)をご覧ください。"
-        ]
+        ],
+        "emphasis": "初回の注文では、リワードコードは小さいけれど確実な割引、キャンペーンのクーポンは大きいけれど期間限定の割引です。両方使うのがおすすめですが、CECILIA010だけで合計が大きく変わるとは期待しないでください。"
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "YesStyleに初回購入向けのコードはありますか？あります。CECILIA010は、初回注文で5%、2回目以降は2%の追加割引を受けられるコードで、Reward Code欄に入力します。",
+          "YesStyleの初回購入に使えるリワードコードは何ですか？CECILIA010です。Reward Code欄に入力すると、初回注文で5%、2回目以降は2%の追加割引になります。",
           "今有効なYesStyleのクーポンはどこで見つかりますか？キャンペーンのクーポンは当サイトの[YesStyleクーポンのページ](/ja/coupons/yesstyle)とストアのバナーにあります。アカウントのCouponsの項目とYesStyleのメールには、個人向けのクーポンが届くことがあります。",
           "YesStyleのクーポンとCECILIA010は同じ注文で使えますか？対象のクーポンがあれば使えます。クーポンは「Coupon Code」欄に、CECILIA010は「Reward Code」欄に入力します。",
           "既存のお客様にもYesStyleのクーポンは届きますか？届くことがありますが、保証はありません。YesStyleは限定クーポンをメールで送り、アカウントのCouponsの項目に使えるものが表示されます。",
@@ -248607,7 +249353,17 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "hideFromPortugueseListings": true
+    "hideFromPortugueseListings": true,
+    "decision": {
+      "takeIf": [
+        "YesStyleで初めて注文する予定で、有効なストアのクーポンがあれば、リワードコードのCECILIA010と併用したい人。",
+        "すでに購入経験があり、2回目以降の注文で何が変わるか知りたい人：コードは引き続き使え、割引は2%です。"
+      ],
+      "skipIf": [
+        "ストアが配送していない国で受け取る必要がある人：カートに入れる前に配送先を確認してください。どのコードでも変わりません。",
+        "コードだけで大きな割引を期待している人：初回は5%、2回目以降は2%で、それ以上はストアのクーポン次第です。"
+      ]
+    }
   },
   {
     "id": 961,
@@ -248749,12 +249505,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "앱에서 직접 테스트했을 때 코드가 적용됐고 주문 요약에 Influencer Code Discount (5% OFF) 줄이 표시됐습니다. 웹사이트 화면을 포함한 단계별 안내는 [CECILIA010 사용법](/ko/reviews/yesstyle-reward-code-cecilia010-ko)에서 볼 수 있습니다."
-        ]
+        ],
+        "emphasis": "첫 주문에서 리워드 코드는 작지만 확실한 할인이고, 캠페인 쿠폰은 크지만 금방 끝나는 할인입니다. 둘 다 쓰되, CECILIA010 하나로 결제 금액이 크게 달라질 거라고 기대하지는 마세요."
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "YesStyle 첫 구매 코드가 있나요? 있습니다. CECILIA010은 Reward Code 칸에 입력하면 첫 주문에 5%, 이후 주문에 2%의 추가 할인이 적용됩니다.",
+          "첫 구매에 쓸 수 있는 YesStyle 리워드 코드는 무엇인가요? CECILIA010입니다. Reward Code 칸에 입력하면 첫 주문에 5%, 이후 주문에 2%의 추가 할인이 적용됩니다.",
           "지금 유효한 YesStyle 쿠폰은 어디서 찾나요? 캠페인 쿠폰은 저희 [YesStyle 쿠폰](/ko/coupons/yesstyle) 페이지와 매장 배너에 있습니다. 계정의 Coupons 메뉴와 YesStyle 이메일에는 개인 쿠폰이 있을 수 있습니다.",
           "YesStyle 쿠폰과 CECILIA010을 한 주문에 함께 쓸 수 있나요? 사용할 수 있는 쿠폰이 있으면 가능합니다. 쿠폰은 Coupon Code 칸에, CECILIA010은 Reward Code 칸에 입력하세요.",
           "이미 구매한 고객도 YesStyle 쿠폰을 받나요? 받을 수도 있지만 보장되지는 않습니다. 매장이 전용 쿠폰을 이메일로 보내며, 계정의 Coupons 메뉴에서 사용 가능한 쿠폰을 볼 수 있습니다.",
@@ -248763,7 +249520,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010은 앱에서도 유효한가요? 유효합니다. Enter Code 화면의 Influencer / Rewards Code 칸에 코드를 입력하세요."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "YesStyle에서 첫 주문을 앞두고 있고, 유효한 매장 쿠폰이 있다면 리워드 코드 CECILIA010을 함께 쓰고 싶은 분.",
+        "이미 주문해 본 적이 있고 두 번째 주문부터 무엇이 달라지는지 궁금한 분: 코드는 계속 유효하며 2%가 적용됩니다."
+      ],
+      "skipIf": [
+        "매장이 배송하지 않는 나라로 받아야 하는 분: 장바구니를 담기 전에 배송지부터 확인하세요. 어떤 코드로도 바뀌지 않습니다.",
+        "코드 하나만으로 큰 할인을 기대하는 분: 첫 주문 5%, 이후 2%이고 그 이상은 매장 쿠폰에 달려 있습니다."
+      ]
+    }
   },
   {
     "id": 962,
@@ -248905,12 +249672,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "我們在 App 中測試時，代碼被接受，摘要出現 Influencer Code Discount (5% OFF) 這一行。網站版附畫面的步驟請見[如何使用 CECILIA010](/zh-hant/reviews/yesstyle-reward-code-cecilia010-zh-hant)。"
-        ]
+        ],
+        "emphasis": "第一筆訂單裡，獎勵碼是小而穩的折扣，活動優惠券則是大但短暫的折扣。兩個都用，但別指望只靠 CECILIA010 讓總金額大幅改變。"
       },
       {
         "heading": "常見問題（FAQ）",
         "bullets": [
-          "YesStyle 有首購代碼嗎？有：CECILIA010 在第一次下單額外享 5%，之後的訂單享 2%，填在 Reward Code 欄位。",
+          "YesStyle 首購可以用哪個獎勵碼？CECILIA010：填入 Reward Code 欄位，第一次下單額外享 5%，之後的訂單享 2%。",
           "哪裡找得到目前有效的 YesStyle 優惠券？活動優惠券在我們的[YesStyle 優惠券頁面](/zh-hant/coupons/yesstyle)和商店橫幅上。帳號的 Coupons 區與 YesStyle 的電子郵件可能有個人優惠券。",
           "YesStyle 優惠券和 CECILIA010 可以用在同一筆訂單嗎？可以，需有符合資格的優惠券：優惠券填在 Coupon Code 欄位，CECILIA010 填在 Reward Code。",
           "老顧客會收到 YesStyle 優惠券嗎？有可能，但沒有保證：商店會以電子郵件寄送專屬優惠券，帳號的 Coupons 區會顯示目前可用的。",
@@ -248919,7 +249687,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010 在 App 可以用嗎？可以：在 Enter Code 畫面的 Influencer / Rewards Code 欄位輸入代碼。"
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你準備在 YesStyle 第一次下單，並想在有有效商店優惠券時，把獎勵碼 CECILIA010 疊加上去。",
+        "你以前買過，想知道第二筆訂單起有什麼變化：代碼仍然有效，折扣為 2%。"
+      ],
+      "skipIf": [
+        "你需要寄到商店不配送的國家：先確認收件地址再裝購物車，任何代碼都改變不了這點。",
+        "你期待光靠代碼就拿到大折扣：首購 5%、之後 2%，更多優惠要看商店優惠券。"
+      ]
+    }
   },
   {
     "id": 963,
@@ -249060,12 +249838,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "我们在 App 里测试时，代码被接受，订单摘要显示了 Influencer Code Discount (5% OFF) 一行。网站界面的分步截图见[如何使用 CECILIA010](/zh-hans/reviews/yesstyle-reward-code-cecilia010-zh-hans)。"
-        ]
+        ],
+        "emphasis": "第一单里，奖励码是小而稳的折扣，活动优惠券则是大但短暂的折扣。两个都用，但别指望只靠 CECILIA010 让总价大幅变化。"
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "有 YesStyle 首单代码吗？有：CECILIA010 首单额外 5%，之后的订单额外 2%，填在 Reward Code 栏位。",
+          "YesStyle 首单可以用哪个奖励码？CECILIA010：填入 Reward Code 栏，首单额外 5%，之后每单额外 2%。",
           "在哪里能找到当前有效的 YesStyle 优惠券？活动优惠券在我们的 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)页面和商店横幅上。账户里的 Coupons 栏目和 YesStyle 的邮件可能有账户专属优惠券。",
           "YesStyle 优惠券和 CECILIA010 能用于同一订单吗？可以，前提是优惠券符合条件：优惠券填在 Coupon Code 栏位，CECILIA010 填在 Reward Code。",
           "老顾客会收到 YesStyle 优惠券吗？可能会，但没有保证：商店会通过邮件发送专属优惠券，账户的 Coupons 栏目会显示当前可用的优惠券。",
@@ -249074,7 +249853,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010 在 App 里能用吗？能：在 Enter Code 界面，把代码填入 Influencer / Rewards Code 栏位。"
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你准备在 YesStyle 第一次下单，并想在有有效商店优惠券时，把奖励码 CECILIA010 叠加上去。",
+        "你以前买过，想知道第二单起有什么变化：代码仍然有效，折扣为 2%。"
+      ],
+      "skipIf": [
+        "你需要寄到商店不配送的国家：先确认收货地址再装购物车，任何代码都改变不了这一点。",
+        "你期待只靠代码就拿到大折扣：首单 5%、之后 2%，更多优惠要看商店优惠券。"
+      ]
+    }
   },
   {
     "id": 964,
@@ -316870,12 +317659,12 @@ export const reviewsData: unknown[] = [
             [
               "المراجعات",
               "137",
-              "104,972"
+              "105,442"
             ],
             [
               "في آخر 12 شهرًا",
               "45",
-              "11,618"
+              "12,070"
             ],
             [
               "5 نجوم",
@@ -317047,15 +317836,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "ما لا يمكن استنتاجه",
-        "bullets": [
-          "**كم مرة يسير الطلب على نحو خاطئ:** يعرض Trustpilot من كتب، لا إجمالي الطلبات.",
-          "**أي بلد ينطوي على مخاطر أكبر:** تأتي الشكاوى من الولايات المتحدة وكندا والمملكة المتحدة وإيطاليا وألمانيا وإسبانيا والإمارات والسعودية وغيرها، بأعداد أصغر من أن تسمح بالمقارنة.",
-          "**هل تحسّنت خدمة العملاء بعد الردود على Trustpilot:** الملف بدأ الرد منذ وقت قصير فقط.",
-          "**هل هو أكثر أمانًا أو أقل من أي متجر آخر:** المقارنة هنا مع YesStyle فقط."
-        ]
-      },
-      {
         "heading": "قبل أن تدفع",
         "paragraphs": [
           "إذا كان المنتج الذي تريده موجودًا في StyleKorean وحده، أو أرخص منه بكثير هناك، فافحص بهذا الترتيب:"
@@ -317104,7 +317884,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
           }
-        ]
+        ],
+        "emphasis": "التقييم المنخفض لا يثبت أن طلبك سيتعثر، لكن الشكاوى من StyleKorean تتكرر عند النقطتين نفسيهما: التوصيل والضرائب. وإذا كان التوفير صغيرًا، فالمخاطرة لا تستحق."
       },
       {
         "heading": "وماذا عن بلدان أخرى؟",
@@ -317122,6 +317903,7 @@ export const reviewsData: unknown[] = [
           "لماذا فُرضت عليّ ضريبة عند التسليم؟ لأن المتجر، خارج الولايات المتحدة وكندا، لا يدرج الرسوم في السعر ويتركها على العميل، وقد تُحصَّل قبل التسليم.",
           "ماذا يحدث إذا رفضت استلام الطرد؟ إذا كان الرفض بسبب مسألة جمركية، مثل ضريبة غير مدفوعة، فإن سياسة المتجر تستثني الاسترداد وإعادة الشحن.",
           "هل أستطيع الحصول على استرداد في StyleKorean؟ تنص السياسة على استرداد بنقاط المتجر، صالحة 6 أشهر، أو إلى وسيلة الدفع. وبالنسبة إلى الأخيرة تذكر من 2 إلى 14 يوم عمل. ويذكر بعض المراجعين تأخر الاسترداد أو غيابه.",
+          "ما رمز المكافأة في YesStyle؟ يمنح CECILIA010 خصمًا إضافيًا 5% على أول طلب و2% على الطلبات التالية، بلا تاريخ انتهاء. يُكتب في خانة Reward Code عند الدفع، ويجتمع مع كوبون واحد من YesStyle نفسها.",
           "هل لديكم رمز لـ StyleKorean؟ لا. الرمز CECILIA010 خاص بـ YesStyle فقط ولا يعمل في StyleKorean."
         ]
       }
@@ -317160,7 +317942,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-shipping-by-country-ar"
       }
     ],
-    "updatedAt": "2026-11-21"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 1257,
@@ -317242,13 +318024,11 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "App Store",
-            "href": "https://apps.apple.com/br/app/id868675907",
-            "sponsored": true
+            "href": "https://apps.apple.com/br/app/id868675907"
           },
           {
             "label": "Google Play",
-            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-            "sponsored": true
+            "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
           }
         ]
       },
@@ -317343,18 +318123,30 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "وبشأن أمان المتجر، تجد الجواب في [هل YesStyle موثوق؟](/ar/reviews/yesstyle-trust-guide-ar)."
-        ]
+        ],
+        "emphasis": "التطبيق مجرد طريقة أخرى للشراء: يعمل CECILIA010 بالطريقة نفسها في الموقع والتطبيق، وما قد يضيفه التطبيق هو 50 نقطة YS عند أول تنزيل. إن كنت تفضّل الموقع فلن تخسر شيئًا."
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
           "هل لدى YesStyle تطبيق؟ نعم، لأندرويد وآيفون، عبر الرابطين الرسميين في Google Play وApp Store. ويقول المتجر إن التنزيل يكون من هذين الرابطين فقط.",
+          "ما رمز المكافأة من YesStyle في التطبيق؟ CECILIA010: خصم إضافي 5% على أول طلب و2% على ما بعده. في شاشة «Enter Code» يوضع في خانة «Influencer / Rewards Code» بجانب «Coupon Code»، ويعرض الملخص سطر «Influencer Code Discount».",
           "هل يعمل CECILIA010 في التطبيق؟ نعم. عند الدفع اضغط «Enter Code» واكتب الرمز في خانة «Influencer / Rewards Code». هو رمز مكافأة يمنح حتى 5% إضافية، ويُجمع مع كوبون المتجر الذي يوضع في خانة «Coupon Code».",
           "هل أحصل على نقاط مقابل تنزيل التطبيق؟ نعم، مرة واحدة لكل حساب: 50 نقطة YS عند أول تنزيل للتطبيق مع تسجيل الدخول. إعادة التثبيت أو استخدام جهاز آخر لا تمنحها مرة أخرى، والنقاط ليست رمز المكافأة.",
           "هل للتطبيق كوبون حصري؟ يقول المتجر إنه ينشر كوبونًا لمدة 24 ساعة، مرة في الشهر، للطلبات عبر التطبيق فقط. وعندما جرّبنا التطبيق لم يكن هناك كوبون فعّال؛ والكوبونات الفعّالة موجودة في صفحة المتجر."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "تفضّل التسوق من هاتفك وتريد معرفة أين يوضع رمز المكافأة CECILIA010 في التطبيق.",
+        "لديك حساب على الموقع: هو نفسه في التطبيق، والسلة واحدة إذا سجّلت الدخول."
+      ],
+      "skipIf": [
+        "تحتاج إلى التوصيل إلى بلد لا يشحن إليه المتجر: الشراء من التطبيق لا يغيّر قواعد الوجهة.",
+        "تعتمد على كوبون حصري للتطبيق: يقول المتجر إنه يطرح واحدًا في الشهر في وقت عشوائي، فقد لا يوجد كوبون فعّال."
+      ]
+    }
   },
   {
     "id": 1258,
@@ -317362,7 +318154,7 @@ export const reviewsData: unknown[] = [
     "locale": "ar",
     "translationKey": "yesstyle-black-friday",
     "title": "الجمعة البيضاء في YesStyle 2026: هل بدأت؟ كوبون هذا الأسبوع والمواعيد وأين يوضع CECILIA010",
-    "seoTitle": "الجمعة البيضاء في YesStyle 2026: التخفيضات والكوبونات وCECILIA010",
+    "seoTitle": "الجمعة البيضاء في YesStyle 2026: الكوبونات وCECILIA010",
     "type": "دليل الجمعة البيضاء",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -317377,7 +318169,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "هل لدى YesStyle تخفيضات الجمعة البيضاء؟ نعم، وهي قائمة: Mega Sale وكوبون متدرج من 8% إلى 15% وطريقة جمع رمز المكافأة CECILIA010 معه.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -317386,18 +318178,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "تقويم رسمي لعامي 2024 و2025، مأخوذ من صفحة قواعد كل كوبون",
-      "رمز المكافأة يُجمع مع كوبون YesStyle، بما في ذلك الجمعة البيضاء",
-      "في 2024 و2025، في أيام الـ15% دون حد أدنى، حصلت أي سلة على أقصى خصم للكوبون",
-      "تعيد YesStyle الرسوم الجمركية على الطلبات المؤهلة التي تقل عن 1,000 دولار أمريكي، في صورة رصيد في المتجر"
-    ],
-    "cons": [
-      "لم يصدر بعد موعد الانتهاء ولا أيام الـ15% دون حد أدنى لجميع البلدان: ما يلي تقدير مبني على السنوات السابقة",
-      "كوبون الجمعة البيضاء المتدرج هو نفسه المعروض في بقية العام",
-      "الكوبونات للأعضاء فقط، وبواقع كوبون واحد لكل طلب، ولا تخصم من الشحن",
-      "الشراء دولي: يستغرق التوصيل وقتًا أطول من متجر محلي"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "الإجابة السريعة",
@@ -317890,7 +318672,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "متى تبدأ الجمعة البيضاء في YesStyle",
         "paragraphs": [
-          "تنشر YesStyle قواعد كل كوبون في مركز المساعدة بالموقع، مع يوم وساعة البدء والانتهاء. يضم الجدول أدناه مواعيد 2025؛ وفي 2024 جاءت المراحل بالترتيب نفسه وبدأت بعد يوم أو يومين. في 2026 بدأت الحملة فعلًا: ففي 3 نوفمبر تعرض الصفحة الرئيسية للمتجر «Black Friday Mega Sale»، مع عروض لكل منتج ولافتات بخصم يصل إلى 50%، والكوبون المتدرج المعروض حينها (8% فوق 79 دولارًا، و10% فوق 149 دولارًا، و15% فوق 199 دولارًا)، وهو كوبون يبدّله المتجر كل بضعة أيام، فتحقق من الساري قبل أن تشتري. انتهاء كوبون لا يعني انتهاء الحملة. والشحن القياسي المجاني فوق 35 دولارًا يتوقف على الوجهة: وصفحة الدفع تعرض وجهتك. وفي منتصف نوفمبر، أتاح المتجر أيضًا كوبون 15% على أي طلب، دون حد أدنى، للتوصيل إلى الولايات المتحدة والمملكة المتحدة وكندا؛ وفي الوجهات الأخرى يسري الكوبون المتدرج. ولم تصدر بعد مواعيد انتهاء الحملة ولا أيام الـ15% دون حد أدنى لجميع البلدان."
+          "تنشر YesStyle قواعد كل كوبون في مركز المساعدة بالموقع، مع يوم وساعة البدء والانتهاء. يضم الجدول أدناه مواعيد 2025؛ وفي 2024 جاءت المراحل بالترتيب نفسه وبدأت بعد يوم أو يومين. في 2026 بدأت الحملة فعلًا: ففي 23 نوفمبر تعرض الصفحة الرئيسية للمتجر «Black Friday Mega Sale»، مع عروض لكل منتج ولافتات بخصم يصل إلى 65%، والكوبون المتدرج الساري (8% فوق 79 دولارًا، و10% فوق 149 دولارًا، و15% فوق 199 دولارًا)، وهو صالح حتى الساعة 1:59 بتوقيت GMT يوم 27 نوفمبر. ويبدّل المتجر الكوبونات كل بضعة أيام، فتحقق من الساري قبل أن تشتري. انتهاء كوبون لا يعني انتهاء الحملة. والشحن القياسي المجاني فوق 35 دولارًا يتوقف على الوجهة: وصفحة الدفع تعرض وجهتك. وفي منتصف نوفمبر، أتاح المتجر أيضًا كوبون 15% على أي طلب، دون حد أدنى، للتوصيل إلى الولايات المتحدة والمملكة المتحدة وكندا؛ وفي الوجهات الأخرى يسري الكوبون المتدرج. وقد أدرجت YesStyle صفحات قواعد ثلاثة كوبونات لعام 2026، وكانت لا تزال فارغة عندما تحققنا في 23 نوفمبر: «Black Friday! Extra 15% OFF Coupon» و«Cyber Monday – Skin Care Edition! Up to Extra 15% OFF» و«Hanukkah – Extra 15% OFF». ولم تصدر بعد مواعيد انتهاء الحملة ولا أيام الـ15% دون حد أدنى لجميع البلدان."
         ],
         "comparisonTable": {
           "caption": "الكوبونات المفتوحة لجميع الأعضاء في 2025، من صفحات المساعدة في YesStyle؛ وتستمر كل مرحلة حتى بدء التي تليها. المواعيد بتوقيت GMT، وهو المعتمد لدى المتجر.",
@@ -317934,7 +318716,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "في 2024، لم يكن أكبر كوبون في نهاية العام هو كوبون الجمعة البيضاء: ففي أسبوع عيد الميلاد منحت YesStyle خصم 18% دون حد أدنى على كل شيء. وفي 2025، بقيت الكوبونات المفتوحة لجميع الأعضاء عند 15% حتى نهاية العام.",
           "لهدايا عيد الميلاد، قارن مدة التوصيل المقدّرة عند الدفع بالتاريخ الذي تحتاج أن يصلك فيه الطلب. وتحقق أيضًا من توافر المنتجات."
-        ]
+        ],
+        "emphasis": "في YesStyle، الجمعة البيضاء ليست الوقت الجيد الوحيد: فشرائح الكوبون هي نفسها طوال العام. اشترِ حين تعرف ما ينقص روتينك، لا حين يضيق العدّ التنازلي."
       },
       {
         "heading": "الأسئلة الشائعة",
@@ -317944,7 +318727,7 @@ export const reviewsData: unknown[] = [
           "هل لكوبون الجمعة البيضاء في YesStyle حد أدنى لقيمة الطلب؟ الكوبون المتدرج له حد أدنى: 8% من 79 دولارًا، و10% من 149 دولارًا، و15% من 199 دولارًا. وفي 2024 و2025 أتاحت YesStyle 15% دون حد أدنى في الأيام القريبة من الجمعة وCyber Monday؛ وفي 2026 ظهر كوبون 15% دون حد أدنى في منتصف نوفمبر للولايات المتحدة والمملكة المتحدة وكندا، وللبلدان الأخرى لا يوجد إعلان بعد.",
           "هل الأفضل الشراء في الجمعة البيضاء أم في Cyber Monday من YesStyle؟ في 2024 و2025 كان في الاثنين 15% دون حد أدنى، فكان سقف الكوبون واحدًا. وما يتغير من يوم إلى آخر هو السعر الترويجي لكل منتج.",
           "هل لدى YesStyle عروض خارج الجمعة البيضاء؟ نعم. الكوبون المتدرج، بنسب 8% و10% و15%، يعمل معظم العام ويغيّر اسمه كل بضعة أيام.",
-          "هل يعمل CECILIA010 في الجمعة البيضاء؟ نعم. يوضع في خانة Reward Code، وتقول قواعد كوبونات الجمعة البيضاء إنها تصلح مع رموز المكافأة.",
+          "هل يعمل CECILIA010، رمز المكافأة في YesStyle، في الجمعة البيضاء؟ نعم: يمنح CECILIA010 نسبة 5% على أول طلب و2% على الطلبات التالية، في خانة Reward Code. وتقول قواعد كوبونات الجمعة البيضاء إنها تصلح مع رموز المكافأة.",
           "هل يمكن استخدام كوبونين من YesStyle في الطلب نفسه؟ لا: كوبون واحد لكل طلب. رمز المكافأة أمر آخر ويوضع في خانة أخرى في صفحة الدفع.",
           "هل أحتاج إلى حساب في YesStyle لاستخدام كوبون الجمعة البيضاء؟ نعم. الكوبونات للأعضاء فقط، ومن يشتري كزائر لا يحصل على الخصم.",
           "هل سأدفع ضريبة عند الشراء من YesStyle؟ قد تكون هناك رسوم عند وصول الطرد. وفي الطلبات المؤهلة التي تقل عن 1,000 دولار أمريكي، تعيد YesStyle الرسوم الجمركية في صورة رصيد في المتجر، إذا أرسلت الإيصال خلال 30 يومًا من تاريخه. ضريبة المبيعات وضريبة القيمة المضافة وGST غير مشمولة.",
@@ -317993,6 +318776,13 @@ export const reviewsData: unknown[] = [
     "seoTitle": "كيف تجد كوبونات YesStyle وتجمعها مع CECILIA010",
     "type": "دليل وكوبونات",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "دليل عملي للعثور على كوبونات YesStyle السارية، وفهم Coupon Code وReward Code، واستخدام CECILIA010: خصم 5% على أول عملية شراء و2% على ما بعدها.",
     "metaDescription": "أين تجد كوبونات YesStyle السارية الآن، وكيف تتجنب الرموز المنتهية، وكيف تضيف رمز المكافأة CECILIA010 لتوفير يصل إلى 5% إضافية.",
     "publishedAt": "21 نوفمبر 2026",
@@ -318017,43 +318807,13 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília بعصابة رأس وردية تعرض علبة مفتوحة من لصقات الهيدروجيل الوردية للعينين من Abib، في لقطة من فيديو خاص بها. نص الغلاف: «كيف تجد الكوبونات وتجمعها» و«كوبون المتجر + Reward Code»، مع رمز المكافأة CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "يعلّمك التمييز بين Coupon Code وReward Code لتتجنب أخطاء الدفع",
-      "يشرح الجمع بين الخصمين: إضافة كوبون الشهر فوق CECILIA010",
-      "يوضح كيف توفّر حتى 5% إضافية بالرمز الرسمي للمؤثرة",
-      "يبيّن أين تجد كوبونات YesStyle السارية لتتجنب الرموز المزيفة أو المنتهية",
-      "يوجّهك إلى صفحة Em Casa com Cecília المحدّثة التي فيها قائمة الكوبونات الحالية"
-    ],
-    "cons": [
-      "الكوبونات الترويجية الشهرية لها مهل قصيرة (عادةً من 72 ساعة إلى 30 يومًا)",
-      "خصم CECILIA010 يتراوح بين 5% على أول عملية شراء و2% على المشتريات اللاحقة",
-      "يُحتسب الإجمالي بالعملة التي تختارها في الموقع، بسعر صرف YesStyle، وقد يضيف مصرفك رسم شراء دولي"
-    ],
-    "pullQuote": "أدخل CECILIA010 في خانة Reward Code: 5% على أول عملية شراء و2% على ما بعدها. وإذا كان العرض يسمح بذلك، أدخل أيضًا كوبونًا في خانة Coupon Code وتحقق من الخصمين في ملخص الطلب.",
-    "productSpec": [
-      {
-        "key": "المتجر",
-        "value": "YesStyle (الرسمي)"
-      },
-      {
-        "key": "رمز المكافأة",
-        "value": "CECILIA010 (حتى 5% إضافية)",
-        "highlight": true
-      },
-      {
-        "key": "الخانة عند الدفع",
-        "value": "Reward Code"
-      },
-      {
-        "key": "قابل للجمع",
-        "value": "يمكن جمعه مع كوبونات ترويجية مؤهلة؛ تأكد عند الدفع"
-      }
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "في صفحتنا، قائمة كوبونات YesStyle محدّثة بتاريخ 22 نوفمبر 2026.",
-      "label": "اطّلع على كوبونات YesStyle الفعّالة",
-      "url": "/ar/coupons/yesstyle",
-      "sponsored": false
+      "text": "الصق CECILIA010 في خانة Reward Code: خصم إضافي 5% على أول طلب و2% على ما بعده.",
+      "label": "اذهب إلى YesStyle",
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -318061,6 +318821,18 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ar"
+      },
+      {
+        "slug": "yesstyle-first-order-cecilia010-ar"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ar"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-ar"
+      },
+      {
+        "slug": "yesstyle-shipping-by-country-ar"
       }
     ],
     "contentSections": [
@@ -318092,7 +318864,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "صفحة الدفع في YesStyle تعرض خانتي Coupon Code وReward Code.",
         "imageCaption": "خانتا الدفع المنفصلتان: Coupon Code (لكوبونات العروض) وReward Code (لـ CECILIA010). الكوبون في لقطة الشاشة من حملة انتهت.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "bullets": [
           "1. خانة «Coupon Code»: هنا تُدخل الكوبونات الترويجية من موقع YesStyle (مثل كوبونات التصفية أو حملات الخصم من 10% إلى 15%).",
           "2. خانة «Reward Code» / «Influencer Code»: هنا تُدخل الرمز الرسمي لمؤثرتنا Cecília، CECILIA010، بخصم إضافي 5% على أول عملية شراء و2% على ما بعدها."
@@ -318133,7 +318905,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
         "imageAlt": "شاشة سلة التسوق في متجر YesStyle.",
         "imageCaption": "شاشة ملخص سلة التسوق في YesStyle قبل تطبيق رموز الخصم.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "الخطوة 3: طبّق كوبون العرض في خانة Coupon Code",
@@ -318150,12 +318922,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الخطوة 5: تأكد من الخصم المجمَّع وأتمّ الطلب",
         "paragraphs": [
-          "في ملخص الطلب، تأكد من الخصمين قبل أن تدفع: الكوبون و CECILIA010."
+          "في ملخص الطلب، تأكد من الخصمين قبل أن تدفع: الكوبون و CECILIA010.",
+          "يُحتسب الإجمالي بالعملة التي تختارها في الموقع، بسعر صرف YesStyle، وقد يضيف مصرفك رسم شراء دولي."
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "ملخص الطلب النهائي في YesStyle مع الخصومات المجمَّعة.",
         "imageCaption": "ملخص الطلب يؤكد الجمع: كوبون العرض + رمز المكافأة CECILIA010 مجمَّعان بنجاح. الكوبون في لقطة الشاشة من حملة انتهت.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "أين تجد كوبونات YesStyle السارية",
@@ -318175,7 +318948,8 @@ export const reviewsData: unknown[] = [
             "href": "https://ystyle.co/rQYQv",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "الكوبونات تتغير من أسبوع إلى آخر، أما CECILIA010 فيبقى. أضع رمز المكافأة في خانة Reward Code أولًا، ثم أتحقق بعدها من الكوبون الذي تقبله صفحة الدفع اليوم."
       },
       {
         "heading": "الأسئلة الشائعة",
@@ -318184,7 +318958,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "ما الفرق بين Coupon Code وInfluencer/Rewards Code في YesStyle؟ Coupon Code هو كوبون العرض، يُدخل في خانة «Coupon Code»، وله مهلته وقواعده: قد يكون له حد أدنى للشراء أو قيد إقليمي أو منتجات غير مؤهلة. أما CECILIA010 فهو رمز المكافأة (Influencer/Rewards Code)، يُدخل في خانة «Reward Code» المنفصلة، بنسبة 5% على أول عملية شراء و2% على التي تليها. وحين تسمح قواعد العرض يمكن أن يظهر الخصمان معًا في ملخص الطلب.",
-          "ما رمز المؤثر في YesStyle؟ هو رمز المكافأة (Reward Code)، يُكتب في خانة خاصة عند الدفع، منفصلة عن خانة الكوبون. ورمزنا هو CECILIA010، ويوضع في خانة Reward Code.",
+          "ما رمز المكافأة (رمز المؤثرة) في YesStyle؟ إنه CECILIA010: يمنح 5% إضافية على الطلب الأول و2% على الطلبات التالية، ويوضع في خانة Reward Code، ويجتمع مع كوبون واحد من المتجر في خانة Coupon Code. هو رمز المؤثرة Cecília.",
           "هل تنتهي صلاحية كوبونات YesStyle؟ نعم. للكوبونات الترويجية تاريخ انتهاء وقد تنتهي دون إشعار. بعض الحملات تدوم أيامًا قليلة فقط (مثل عروض الـ72 أو الـ96 ساعة)، وبعضها يبقى فعّالًا لفترات مختلفة. قبل إتمام الشراء، تحقق من الصلاحية والحد الأدنى والمنطقة والمنتجات المؤهلة في قواعد العرض، وتأكد من ظهور الخصم عند الدفع.",
           "أين أجد القواعد الرسمية لكوبونات YesStyle؟ القواعد العامة في صفحة «General Terms and Conditions for Coupons» في مركز المساعدة في YesStyle. ولشروط حملة محددة، ادخل مركز المساعدة وافتح قسم «Promotions»، حيث تنشر YesStyle الصلاحية والحد الأدنى للشراء والمناطق المشاركة والاستثناءات المحتملة. ولأن هذه الشروط تتغير، راجع أيضًا لافتة العرض وملخص الطلب قبل أن تدفع.",
           "هل أستطيع استخدام أكثر من كوبون ترويجي في الطلب نفسه؟ لا. وفق القواعد العامة في YesStyle، لا يجوز استخدام سوى Coupon Code واحد لكل طلب أو طلب مدمج. لكن CECILIA010 ليس Coupon Code: يجب تطبيقه في خانة «Reward Code» المنفصلة. ولهذا يمكن الجمع بين كوبون ترويجي و CECILIA010 عندما تكون الحملة مؤهلة وتقبل صفحة الدفع الاثنين."
@@ -318205,7 +318979,17 @@ export const reviewsData: unknown[] = [
     "translationKey": "yesstyle-coupon-guide",
     "category": "cupons-como-usar",
     "isNew": true,
-    "updatedAt": "2026-11-21"
+    "updatedAt": "2026-11-21",
+    "decision": {
+      "takeIf": [
+        "وصلت إلى صفحة الدفع في YesStyle ومعك كوبون، ولا تعرف في أي خانة يوضع كل رمز.",
+        "رُفض كوبونك وتريد أن تفهم السبب قبل أن تبحث عن كوبون آخر."
+      ],
+      "skipIf": [
+        "تريد كوبونًا جاهزًا للنسخ: يشرح هذا الدليل الطريقة، وقائمة الوقت الحالي في صفحة كوبونات YesStyle لدينا.",
+        "تنوي الجمع بين كوبونين من المتجر: تقبل YesStyle خانة Coupon Code واحدة لكل طلب، وحده CECILIA010 يوضع في خانة مستقلة."
+      ]
+    }
   },
   {
     "id": 1260,
@@ -318250,34 +319034,31 @@ export const reviewsData: unknown[] = [
           "من أشهر ممارساتها التطبيق بطبقات (layering): وضع عدة منتجات يكمل بعضها بعضًا، ولكل منها مهمة محددة. وقد يشمل الروتين التنظيف المزدوج (منظف زيتي يتبعه منظف جل أو رغوة)، والتونر، والإسنس، والسيروم، والأمبول، والكريم. وهو خيار وليس قاعدة: كثرة الطبقات لا تضمن نتيجة أفضل، وقد يكفي روتين بسيط. وتوصي [الأكاديمية الأمريكية للأمراض الجلدية](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) بإبقاء الروتين بسيطًا، وإدخال منتج جديد واحد في كل مرة، واستخدام واقي الشمس.",
           "في الثقافة الكورية يُنظر إلى العناية بالبشرة بوصفها عناية بالنفس، وتحافظ صناعة الجمال في البلاد على وتيرة سريعة من الإطلاقات والتركيبات الجديدة."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
         "imageAlt": "معرض K-Beauty Expo Korea مكتظ بالعارضين والزوار الذين يجرّبون منتجات كورية",
         "imageCaption": "حجم السوق وراء هذا الاتجاه: معارض مثل K-Beauty Expo Korea تجمع مئات العلامات كل عام.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "المكونات والصيغ التي نشرتها K-Beauty",
         "paragraphs": [
           "في المكونات، تأتي شهرتها من السنتيلا آسياتيكا والنياسيناميد ومخاط القواقع (غير نباتي) وPDRN والبروبوليس والمكونات المخمّرة. وفي الصيغ، من الكوشن والقناع الورقي والأمبول.",
           "ومن المصطلحات الوثيقة الصلة بهذه الفئة «glass skin» (البشرة الزجاجية): فكرة بشرة موحّدة ومشرقة إلى حد أنها تبدو كالزجاج. وهي مثال جمالي وليست وعدًا حرفيًا، لكنها تلخّص ما تسعى إليه معظم روتينات K-Beauty: بشرة بملمس موحّد وذلك التوهج الذي نربطه عادةً بالبشرة المعتنى بها."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "لماذا أصبحت K-Beauty اتجاهًا عالميًا",
         "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
         "imageAlt": "رف في متجر جمال كوري مع لافتة تقول «Find the Latest K-Beauty Hype»",
         "imageCaption": "في شوارع كوريا، تتحول إطلاقات K-Beauty إلى واجهات عرض، وهي جزء من جاذبية البلد لزواره.",
-        "imageFit": "cover",
+        "imageFit": "contain",
         "paragraphs": [
           "دفعت الموجةَ ثلاثةُ عوامل: الدراما الكورية والكي بوب، ووتيرة الإطلاقات، والإنترنت.",
           "العامل الأول هو الدراما الكورية والكي بوب: مشاهد العناية بالبشرة في المسلسلات والفنانون ذوو البشرة المثالية على المسرح يقرّبون جماهير في بلدان كثيرة من ثقافة الجمال الكورية ويثيرون الفضول تجاه طرق العناية والمنتجات.",
           "العامل الثاني هو ثقافة علامات الجمال الكورية نفسها، المعروفة بوتيرة إطلاقاتها وابتكارها في المكونات: تظهر سيرومات ومواد فعّالة وصيغ أقنعة جديدة باستمرار. ومع أسعار كثيرًا ما تكون أقل من أسعار علامات الرفاهية ذات العروض المشابهة، تكوّن انطباع بأن جزءًا كبيرًا من جديد العناية بالبشرة يخرج من كوريا.",
           "العامل الثالث هو الإنترنت: ففي TikTok وYouTube وReddit تتبادل مجتمعات العناية بالبشرة فيديوهات فتح العبوات ومراجعات المنتجات الكورية، وقد ساعد هذا التداول K-Beauty على تجاوز مجموعات المتحمسين.",
           "وتصف [وزارة الثقافة الكورية](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) أيضًا عدة عوامل وراء النمو، منها التوزيع الدولي عبر تجار التجزئة. ولا يفسّر أي منها الموجة وحده."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "كيف يبدو شراء K-Beauty خارج كوريا",
@@ -318286,11 +319067,11 @@ export const reviewsData: unknown[] = [
           "كثير من علامات العناية الكورية بالبشرة ليس لها متاجر خاصة في معظم أنحاء العالم، ويختلف التوافر بحسب العلامة والبلد. وقد لا تبيع علامة معروفة دوليًا رسميًا إلا عبر التجارة الإلكترونية الكورية أو عبر قلة من الموزعين المعتمدين في أسواق محددة. وهذا يخلق مشكلة حقيقية لمن يريد بناء روتين كامل: لنقل منظفًا وتونرًا وسيرومًا وكريمًا، كل منها من علامة مختلفة.",
           "وحين يأتي كل منتج من موقع مختلف، قد يتحول الشراء إلى عدة عمليات دفع ورسوم شحن، وتوصيلات في مواعيد مختلفة، وتحويل عملات ورسوم استيراد. تحقق من القواعد السارية في منطقتك قبل الشراء.",
           "وفوق ذلك، ليست كل علامة كورية تبيع مباشرة خارج آسيا. بعضها يبيع داخل كوريا فقط، فيُلجأ إلى بائعين وسطاء، ليسوا موثوقين دائمًا، أو إلى خدمات إعادة الشحن البريدي الدولية التي تضيف كلفة ووقتًا إضافيين."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "أين تدخل YesStyle في الصورة",
+        "emphasis": "لا تتطلب K-Beauty روتينًا من طبقات كثيرة، وقد يكفي روتين بسيط. تتولى YesStyle جمع العلامات في سلة واحدة، أما ما يناسبك فتقوله بشرتك، منتجًا بعد منتج.",
         "paragraphs": [
           "أحد الخيارات هو الشراء من متجر متعدد العلامات مثل YesStyle.",
           "تعمل YesStyle كسوق مركزي: فبدلًا من التنقل بين العلامات، تشتري علامات كورية كثيرة، وأخرى يابانية ومن أنحاء آسيا، في سلة واحدة.",
@@ -318300,7 +319081,6 @@ export const reviewsData: unknown[] = [
           "وللحصول على خصم، يمنح رمز المكافأة CECILIA010 خصم 5% على أول عملية شراء و2% على ما بعدها، ويُدخل في خانة Reward Code عند الدفع. وهناك دليل خطوة بخطوة لتطبيق الرمز، رابطه أدناه. كوبونات المتجر تتغير؛ والقائمة الحالية في [كوبونات YesStyle ورمز المكافأة](/ar/coupons/yesstyle).",
           "ولمن يريد فقط أن يجرّب ما يُقال عنها، فإن الجمع بين عدة علامات في طلب واحد يبسّط أول عملية شراء."
         ],
-        "bullets": [],
         "links": [
           {
             "label": "كيف تستخدم رمز المكافأة CECILIA010 في YesStyle (خطوة بخطوة)",
@@ -318330,6 +319110,16 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "تريد أن تفهم هذا الاتجاه قبل أن تنفق، وتفضّل أن تبدأ بمنتج واحد في كل مرة دون بناء روتين من طبقات كثيرة.",
+        "تريد جمع علامات كورية ويابانية في طلب واحد بدل فتح عدة مواقع ودفع عدة رسوم شحن."
+      ],
+      "skipIf": [
+        "بشرتك حساسة أو سريعة التفاعل وتفكر في تغيير روتينك كله دفعة واحدة: أدخل منتجًا واحدًا في كل مرة، واستشر طبيب جلدية إذا كان لديك شك.",
+        "تشتري أصلًا من علامة تبيع مباشرة في بلدك: عندها تختفي ميزة جمع كل شيء في سلة واحدة."
+      ]
+    },
     "cta": {
       "text": "تسوّق K-Beauty من YesStyle واستخدم رمز المكافأة CECILIA010 عند الدفع",
       "label": "تسوّق العلامات الكورية في YesStyle",
@@ -318493,12 +319283,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "في تجربتنا للتطبيق، قُبل الرمز وأظهر الملخص سطر Influencer Code Discount (5% OFF). والشرح خطوة بخطوة بلقطات من الموقع موجود في [كيف تستخدم CECILIA010](/ar/reviews/yesstyle-reward-code-cecilia010-ar)."
-        ]
+        ],
+        "emphasis": "في الطلب الأول، رمز المكافأة هو الخصم الصغير الثابت، وكوبون الحملة هو الخصم الكبير العابر. استخدم الاثنين، لكن لا تتوقع أن يغيّر CECILIA010 وحده الإجمالي كثيرًا."
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
-          "هل يوجد رمز لأول طلب من YesStyle؟ نعم: يمنح CECILIA010 خصمًا إضافيًا 5% على أول طلب و2% على ما بعده، في خانة Reward Code.",
+          "ما رمز المكافأة من YesStyle للطلب الأول؟ CECILIA010: خصم إضافي 5% على أول طلب و2% على ما بعده، في خانة Reward Code.",
           "أين أجد كوبون YesStyle الساري الآن؟ كوبون الحملة في صفحتنا [كوبونات YesStyle](/ar/coupons/yesstyle) وفي لافتات المتجر. وقد يحمل قسم Coupons في حسابك ورسائل YesStyle البريدية كوبونات شخصية.",
           "هل أستطيع استخدام كوبون YesStyle وCECILIA010 في الطلب نفسه؟ نعم، مع كوبون مؤهل: يوضع الكوبون في خانة Coupon Code ويوضع CECILIA010 في خانة Reward Code.",
           "هل يحصل العملاء الحاليون على كوبونات YesStyle؟ يمكن ذلك دون ضمان: يرسل المتجر كوبونات حصرية بالبريد، ويعرض قسم Coupons في حسابك المتاح منها.",
@@ -318507,7 +319298,17 @@ export const reviewsData: unknown[] = [
           "هل يعمل CECILIA010 في التطبيق؟ نعم: اكتب الرمز في خانة Influencer / Rewards Code في شاشة Enter Code."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "أنت على وشك تقديم أول طلب من YesStyle وتريد إضافة رمز المكافأة CECILIA010 إلى كوبون المتجر إن وُجد كوبون صالح.",
+        "سبق أن اشتريت من المتجر وتريد معرفة ما يتغير من الطلب الثاني: يبقى الرمز صالحًا بخصم 2%."
+      ],
+      "skipIf": [
+        "تحتاج إلى التوصيل إلى بلد لا يشحن إليه المتجر: تحقق من الوجهة قبل ملء السلة، فلا يغيّر أي رمز ذلك.",
+        "تتوقع خصمًا كبيرًا من الرمز وحده: يمنح 5% على الطلب الأول و2% على ما بعده، وأي خصم أكبر يعتمد على كوبون المتجر."
+      ]
+    }
   },
   {
     "id": 1262,
@@ -318526,11 +319327,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "تقييم YesStyle على Trustpilot هو 4.4، مع أكثر من 104,000 مراجعة و71% منها بخمس نجوم. اطّلع على محاور المراجعات السلبية ولماذا لا يقول التقييم العالمي الكثير عن بلدك.",
-    "metaDescription": "YesStyle على Trustpilot في نوفمبر 2026: 4.4 من 104,000 مراجعة، و71% بخمس نجوم، وشكاوى التوصيل والتتبع. اعرف ما لا يُظهره التقييم.",
+    "description": "حصلت YesStyle على 4.4 في Trustpilot، من أكثر من 105 ألف مراجعة، منها 71% بخمس نجوم. تعرّف على موضوعات الشكاوى، ولماذا لا يخبرك التقييم العالمي بشيء عن التوصيل إلى بلدك.",
+    "metaDescription": "YesStyle على Trustpilot: تقييم 4.4 من 105 ألف مراجعة، وشكاوى التوصيل، وما لا يُظهره التقييم. تحقق من التوصيل إلى بلدك قبل الدفع.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -318544,45 +319345,78 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "لدى YesStyle تقييم جيد على Trustpilot، مع تحفظ واحد. في نوفمبر 2026 كان TrustScore يساوي 4.4، مع أكثر من 104,000 مراجعة و71% منها بخمس نجوم. وذكرت المراجعات السلبية الظاهرة التوصيل الدولي والتتبع، والتقييم عالمي ولا يفصل بين البلدان."
+          "حصلت YesStyle على تقييم 4.4 في Trustpilot، من 105,442 مراجعة، منها 71% بخمس نجوم. من بين 40 مراجعة بنجمة واحدة الأحدث التي قرأناها، كان نصفها عن التوصيل: طلبات لم تصل، وطرود متوقفة أثناء الشحن، أو تأخير. يجمع التقييم مشترين من بلدان كثيرة، لذلك تحقق من مدة التوصيل وتكلفة الشحن إلى عنوانك قبل الدفع."
         ]
       },
       {
         "heading": "ما الذي يقيسه التقييم",
         "paragraphs": [
-          "TrustScore هو تقييم الملف الشخصي على Trustpilot. كان لدى YesStyle 4.4، بوصف «Excellent»، من 104,909 مراجعات؛ نُشرت 11,757 منها في آخر 12 شهرًا. والملف مُطالَب به من الشركة وله اشتراك مدفوع في Trustpilot، كما تذكر الصفحة نفسها.",
-          "التوزيع بحسب النجوم: 71% بخمس نجوم، و18% بأربع، و3% بثلاث، و1% بنجمتين، و7% بنجمة واحدة. تشكّل الخمس والأربع نجوم معظم الإجمالي؛ ونسبة النجمة الواحدة، 7%، أثقل من النجمتين والثلاث معًا، وهناك تظهر الشكاوى."
+          "TrustScore هو تقييم الملف الشخصي على Trustpilot. أكدت الشركة ملكيتها لملف YesStyle منذ مايو 2013، وتدفع اشتراكًا مدفوعًا في Trustpilot، كما تذكر الصفحة نفسها.",
+          "النجمة الواحدة بنسبة 7% تزن أكثر من نسبة النجمتين والثلاث نجوم مجتمعة (4%)، وهنا تظهر الشكاوى. المتوسط 4.4 يخفي هذه الشريحة."
         ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-          "alt": "أشرطة من خمس نجوم إلى نجمة واحدة تبيّن توزيع مراجعات YesStyle على Trustpilot: 71% و18% و3% و1% و7%",
-          "caption": "توزيع مراجعات YesStyle على Trustpilot. الرسم من إعدادنا.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "مؤشرات ملف YesStyle على Trustpilot، بتاريخ 23/11/2026",
+          "headers": [
+            "المؤشر",
+            "YesStyle في 23/11/2026"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "4.4، بوصف «Excellent»"
+            ],
+            [
+              "إجمالي المراجعات",
+              "105,442، منها 12,070 في آخر 12 شهرًا"
+            ],
+            [
+              "توزيع النجوم",
+              "5 نجوم 71% · 4 نجوم 18% · 3 نجوم 3% · نجمتان 1% · نجمة واحدة 7%"
+            ],
+            [
+              "حالة الملف",
+              "مُطالَب به منذ مايو 2013، باشتراك مدفوع"
+            ],
+            [
+              "مصدر المراجعات",
+              "يدعو المتجر العملاء إلى التقييم بعد الشراء"
+            ],
+            [
+              "الرد على السلبية",
+              "99%، غالبًا خلال 24 ساعة؛ وقد يستخدم المتجر الذكاء الاصطناعي"
+            ]
+          ]
         },
         "postParagraphs": [
-          "يلخّص المتوسط كل هذا في رقم واحد. ولاتخاذ القرار، الأجدى النظر فيما تقوله التقييمات المنخفضة وكيف يرد عليها المتجر؛ وهذا ما يأتي بعده."
+          "للحكم، الأنفع أن تقرأ ما تقوله التقييمات المنخفضة وكيف يرد المتجر عليها. هذا ما يأتي بعد ذلك."
+        ],
+        "links": [
+          {
+            "label": "ملف YesStyle على Trustpilot",
+            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+          }
         ]
       },
       {
         "heading": "من يكتب المراجعات، ومن أين",
         "paragraphs": [
-          "الملف الخاص بـ www.yesstyle.com عالمي: لا يفصل المراجعات بحسب البلد، ولا تذكر الصفحة كم جاء منها من كل بلد. يجمع التقييم مشترين من بلدان مختلفة، بشحن ومدد توصيل وجمارك مختلفة.",
-          "وبالنسبة إلى من يشتري، هذا يغيّر طريقة القراءة: التقييم يخبرك كيف يتصرف المتجر عمومًا، لا كيف يكون التوصيل إلى عنوانك. وهذه المعلومة في صفحة الدفع وفي جدول الشحن في المتجر، لا في Trustpilot.",
-          "تجد من يدير المتجر، ومقره في هونغ كونغ، والشركة الأم في [هل YesStyle موثوق؟](/ar/reviews/yesstyle-trust-guide-ar)."
+          "ملف www.yesstyle.com عالمي. يجمع في لوحة واحدة مشترين من عشرات البلدان، بشحن ومدد توصيل وجمارك مختلفة، ولا يفصل المراجعات حسب البلد.",
+          "يدعو المتجر العملاء إلى التقييم بعد الشراء، سواء كانوا راضين أم لا. في عيّنتنا، كان 30 من أصل 40 تقييمًا بخمس نجوم دعوات، وكان أغلبها قصيرًا. أما تقييمات النجمة الواحدة فجاءت في الغالب ممن كتبوا من تلقاء أنفسهم (29 من 40)، وتحدثت عن التوصيل الدولي. أي أن الدعوات تملأ الملف بتقييمات عالية قصيرة، والشكاوى التلقائية هي التي تروي مشاكل التوصيل.",
+          "بالنسبة إليك، يخبرك التقييم بأداء المتجر بوجه عام، لا بكيفية وصول الطلب إلى عنوانك. عند الدفع، تحقق من مدة التوصيل وتكلفة الشحن والرسوم والجمارك، وسياسة الإرجاع في بلدك.",
+          "مَن يدير المتجر، والمقر في هونغ كونغ، والشركة الأم، مذكورون في [هل YesStyle موثوق؟](/ar/reviews/yesstyle-trust-guide-ar)."
         ]
       },
       {
         "heading": "ما يظهر في الشكاوى",
         "paragraphs": [
-          "في المراجعات السلبية الظاهرة، كانت المحاور هذه، دون عدّها أو ترتيبها:"
+          "قرأنا أحدث 40 مراجعة بنجمة واحدة، ورد المتجر على جميعها. مرتبةً حسب عدد الحالات:"
         ],
         "bullets": [
-          "تأخر التوصيل وطول الانتظار، في طرد قادم من الخارج.",
-          "تتبع يتوقف عن التحديث.",
-          "طرد مفقود.",
-          "منتج وصل تالفًا.",
-          "طلب عالق في المعالجة، قبل الشحن."
+          "التوصيل، 20 من 40: طلب لم يصل أو وُصف بأنه سُلِّم دون أن يصل، أو طرد متوقف أو مفقود أثناء الشحن، أو تأخير يتجاوز المدة المعلنة على الموقع، أو طلب لم يُشحن بعد أسابيع. يقول عدة أشخاص إن خدمة العملاء أحالتهم إلى شركة الشحن.",
+          "المنتج، 9 من 40: قطعة ناقصة، أو تالفة، أو تبدو مستعملة، أو ناقصة، أو منتهية الصلاحية، أو معيبة.",
+          "المخزون، 4 من 40: منتج نفد بعد الطلب، مع انتظار أو إلغاء.",
+          "الإرجاع، 2 من 40: رفض الإرجاع لأسباب تتعلق بالذوق، أو استرداد في رصيد المتجر فقط.",
+          "أخرى، 5 من 40: برنامج المؤثرين، وإطلاق نفد على الموقع، وتطبيق يتوقف عند الدفع، وتحقق من الدفع، ومراجعة إيجابية وُضعت عليها نجمة واحدة."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -318592,87 +319426,50 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "تقترح هذه التقارير فحوصًا عملية: تقدير التوصيل عند الدفع، والتتبع بعد الإرسال، وحالة العبوة عند الوصول."
+          "تشير هذه الروايات إلى ما يجب التحقق منه قبل الشراء: مدة التوصيل عند الدفع، والتتبع بعد الشحن، وحالة العبوة عند الوصول."
         ]
       },
       {
         "heading": "ما يظهر في الإشادات",
         "paragraphs": [
-          "في المراجعات الإيجابية، المحاور مختلفة:"
-        ],
-        "bullets": [
-          "أسعار منخفضة وعروض متكررة.",
-          "تشكيلة واسعة من منتجات الجمال الكورية.",
-          "تغليف متقن.",
-          "إشعارات شحن مفيدة.",
-          "توصيل يصل أحيانًا قبل الموعد.",
-          "تطبيق وموقع سهلا الاستخدام."
+          "قرأنا أيضًا أحدث 40 مراجعة بخمس نجوم. ثلاثون منها دعوات من المتجر، وكان أغلبها سطورًا قليلة. تمدح منتجات أصلية وموثوقة، وتنوعًا، وأسعارًا وخصومات، وعبوات محمية جيدًا، وتوصيلًا أسرع من المتوقع.",
+          "الملخص الآلي لـ Trustpilot، المكتوب بالذكاء الاصطناعي من 6,462 مراجعة حديثة، يتجه إلى الاتجاه نفسه: منتجات أصلية، وسعر، وعبوة. هذا ملخص Trustpilot وليس ملخصنا، ونستخدمه للدعم فقط."
         ],
         "postParagraphs": [
-          "الإشادات والشكاوى تتحدث عن لحظات مختلفة من الشراء: فالإشادة عن الكتالوج والسعر والطرد الذي وصل؛ والشكاوى عن الطرد الذي تأخر أو لم يصل. ويجمع التقييم بين الاثنين."
+          "الإشادة والشكوى تتحدثان عن لحظات مختلفة من الشراء: الإشادة عن الكتالوج والسعر والطرد الذي وصل، والشكوى عن طرد تأخر أو لم يصل أبدًا. والتقييم يجمع الاثنين."
         ]
       },
       {
         "heading": "ما يرد به المتجر",
         "paragraphs": [
-          "يذكر الملف أن YesStyle ردّت على 98% من المراجعات السلبية، وغالبًا خلال 24 ساعة، ويحذّر من أن الرد قد يستخدم الذكاء الاصطناعي.",
-          "الرد ليس حلًا. لا يقيّم هذا المقال نص الردود، فلا يقول هل تعالج المشكلة لمن اشتكى. وقبل الشراء، من المفيد فتح بعض مراجعات النجمة الواحدة في الملف وقراءة رد المتجر تحت كل منها، خصوصًا تلك المتعلقة بالتتبع والطرود المفقودة."
-        ]
-      },
-      {
-        "heading": "ما لا يمكن استنتاجه",
-        "paragraphs": [
-          "التقييم يجيب عن سؤال واحد، لا عن كل الأسئلة. أربعة أمور لا يدعمها التقييم:"
-        ],
-        "bullets": [
-          "أن التقييم ينطبق على بلدك: الملف عالمي ولا يفصل المراجعات بحسب المصدر.",
-          "أن التقييم يقيس المنتج: فهو يجمع المنتج والتوصيل وخدمة العملاء في مراجعة واحدة، ومحاور الشكاوى تدور حول التوصيل ومعالجة الطلب.",
-          "أن المتجر يحل الشكاوى: يعرض الملف نسبة الرد، 98%، ووقت الرد؛ ولا يقيّم هذا المقال نص الردود.",
-          "ما يقوله ملخص الذكاء الاصطناعي في Trustpilot: تحمل الصفحة ملخصًا مولّدًا بالذكاء الاصطناعي، ولا يعتمده هذا المقال مصدرًا."
-        ]
-      },
-      {
-        "heading": "كيف تحققنا",
-        "paragraphs": [
-          "بيانات Trustpilot مأخوذة من الملف العام لـ YesStyle، دون تسجيل دخول، في 28 أكتوبر 2026: التقييم وعدد المراجعات والتوزيع بحسب النجوم ونسبة الرد والمراجعات الظاهرة، ومنها استُخلصت المحاور. وفي نوفمبر، حُدِّث التقييم وعدد المراجعات والتوزيع بحسب النجوم.",
-          "في تطبيق المتجر، تحتوي صفحة الدفع على خانة Reward Code.",
-          "أرقام Trustpilot تتغير كل شهر؛ تحقق من الملف في يوم شرائك."
-        ],
-        "image": {
-          "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-          "alt": "هاتف يعرض ملف YesStyle على Trustpilot: التقييم 4.4 وتوزيع النجوم و98% من المراجعات السلبية رُدّ عليها",
-          "caption": "ملف YesStyle على Trustpilot، نسخة الهاتف. لقطة شاشة من الموقع، مع تكبير قسمين.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "links": [
-          {
-            "label": "ملف YesStyle على Trustpilot",
-            "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-          }
+          "يقول الملف إن YesStyle ردّ على 99% من المراجعات السلبية، غالبًا خلال 24 ساعة، ويحذر من أن الرد قد يستخدم الذكاء الاصطناعي.",
+          "الرد لا يثبت أن المشكلة حُلّت. قبل الشراء، افتح بعض مراجعات النجمة الواحدة في الملف، وانظر كيف ردّ المتجر، خاصة في حالات توقف التتبع وفقدان الطرود."
         ]
       },
       {
         "heading": "هل يمكنك الوثوق بـ YesStyle بحسب Trustpilot؟",
         "paragraphs": [
-          "نعم، مع تحفظ واحد يخص النطاق: بحسب Trustpilot، التقييم جيد (TrustScore 4.4 من 104,909 مراجعات، 71% منها بخمس نجوم و7% بنجمة واحدة). ولتقييم خدمة العملاء، اقرأ أيضًا الشكاوى والردود الحديثة في الملف؛ فنسبة الرد لا تبيّن هل حُلّت المشكلات.",
-          "التحفظ يخص النطاق لا التقييم. فالملف عالمي ولا يفصل البلدان، والشكاوى تدور حول التوصيل الدولي: التأخر والتتبع والطرود المفقودة. يبيّن Trustpilot كيف يتصرف المتجر عمومًا؛ أما تكلفة الشحن ومدة التوصيل إلى عنوانك فهما في صفحة الدفع."
-        ]
+          "نعم، مع ملاحظة تتعلق بالنطاق. التقييم جيد: TrustScore يساوي 4.4 من 105,442 مراجعة، منها 71% بخمس نجوم. وهو يصف أداء المتجر بوجه عام. ولقرارك الشخصي، اقرأ أحدث مراجعات النجمة الواحدة، وتحقق من مدة التوصيل وتكلفة الشحن إلى بلدك عند الدفع.",
+          "الملاحظة تتعلق بالنطاق. الملف عالمي، والشكاوى تتعلق بالتوصيل الدولي: تأخير، وتتبع متوقف، وطرود مفقودة. أما تكلفة الشحن ومدة التوصيل إلى عنوانك فلا تظهر إلا عند الدفع."
+        ],
+        "emphasis": "تقييم عالمي بـ 4.4 يخبرك بكيفية تعامل المتجر مع معظم الطلبات، لكنه لا يخبرك شيئًا عن عنوانك، والتوصيل هو بالضبط ما تشتكي منه المراجعات."
       },
       {
         "heading": "قبل أن تدفع",
         "paragraphs": [
-          "تضمنت المراجعات السلبية الظاهرة مشكلات في التوصيل والتتبع. قبل الدفع، تحقق من تكلفة الشحن وتقدير التوصيل لعنوانك في صفحة الدفع. والأسعار وطريقة احتساب مدد التوصيل لكل بلد مذكورة في [دليل التوصيل في YesStyle](/ar/reviews/yesstyle-shipping-by-country-ar).",
-          "بعد الدفع، احتفظ برقم الطلب ورمز التتبع: فهما ما تحتاجه لفتح تذكرة مع خدمة العملاء إذا تأخر الطرد أو توقف التتبع.",
-          "وإذا قررت الشراء، فإن صفحتنا [كوبونات YesStyle ورمز المكافأة](/ar/coupons/yesstyle) تقودك إلى المتجر. والرابط رابط تسويق بالعمولة: قد تحصل Em Casa com Cecília على عمولة من الشراء، دون تكلفة إضافية عليك."
+          "في 40 مراجعة بنجمة واحدة التي قرأناها، ظهر التوصيل والتتبع في 20. قبل الدفع، تحقق من تكلفة الشحن ومدة التوصيل إلى عنوانك عند الدفع. المبالغ وطريقة احتساب المدد موجودة في [دليل التوصيل من YesStyle](/ar/reviews/yesstyle-shipping-by-country-ar).",
+          "بعد الدفع، احتفظ برقم الطلب ورمز التتبع: بهما تفتح تذكرة لدى خدمة العملاء إذا تأخر الطرد أو توقف التتبع.",
+          "إذا قررت الشراء، تقودك صفحة [كوبونات YesStyle ورمز المكافأة](/ar/coupons/yesstyle) في هذا الموقع إلى المتجر. الرابط رابط تابع، وقد تحصل Em Casa com Cecília على عمولة من الشراء، دون أي تكلفة إضافية عليك."
         ]
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
-          "هل لدى YesStyle تقييم جيد على Trustpilot؟ نعم. كان TrustScore يساوي 4.4، بوصف «Excellent»، من 104,909 مراجعات؛ منح 71% منها خمس نجوم و7% نجمة واحدة.",
-          "ما أكثر الشكاوى شيوعًا عن YesStyle؟ في المراجعات السلبية، المحاور تتعلق بالتوصيل الدولي: التأخر وطول الانتظار، وتتبع متوقف، وطرود مفقودة، ومنتجات تالفة، وطلبات عالقة في المعالجة.",
-          "هل ترد YesStyle على المراجعات السلبية؟ بحسب ملف Trustpilot، ردّ المتجر على 98% من المراجعات السلبية، وغالبًا خلال 24 ساعة، وقد يستخدم الرد الذكاء الاصطناعي."
+          "هل لدى YesStyle تقييم جيد على Trustpilot؟ نعم. كان TrustScore يساوي 4.4 بوصف «Excellent»، من 105,442 مراجعة؛ منها 71% بخمس نجوم و7% بنجمة واحدة.",
+          "ما أكثر الشكاوى شيوعًا عن YesStyle؟ من بين 40 مراجعة بنجمة واحدة التي قرأناها، كانت 20 عن التوصيل: طلبات لم تصل، وطرود متوقفة، وتأخير، وطلبات لم تُشحن.",
+          "هل ترد YesStyle على المراجعات السلبية؟ بحسب ملف Trustpilot، ردّ المتجر على 99% من المراجعات السلبية، وغالبًا خلال 24 ساعة، وقد يستخدم الرد الذكاء الاصطناعي.",
+          "هل يسري تقييم Trustpilot على بلدي؟ ليس بشكل مباشر. الملف عالمي ولا يفصل المراجعات حسب البلد، لذلك تحقق من مدة التوصيل وتكلفة الشحن إلى عنوانك عند الدفع.",
+          "ما هو رمز المكافأة في YesStyle؟ يمنح CECILIA010 خصمًا بنسبة 5% على أول عملية شراء و2% على المشتريات التالية، دون تاريخ انتهاء. يُدخل في خانة رمز المكافأة عند الدفع، ويمكن جمعه مع خصم خاص بالمتجر."
         ]
       }
     ],
@@ -318695,7 +319492,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-ar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "تريد قراءة صادقة للتقييم، مع رؤية شكاوى التوصيل قبل أن تقرر شراءك.",
+        "تنوي استخدام رمز المكافأة CECILIA010 وستتحقق من الشحن ومدة التوصيل عند الدفع قبل أن تدفع."
+      ],
+      "skipIf": [
+        "تحتاج إلى توصيل بمدة مضمونة إلى عنوانك، فهذا لا يناسبك: نصف مراجعات النجمة الواحدة التي قرأناها كان عن تأخير أو طرود متوقفة أو مفقودة.",
+        "تفضّل الاعتماد على رد المتجر، فهذا لا يناسبك: 99% من المراجعات السلبية عليها رد، لكن الرد لا يثبت أن المشكلة حُلّت."
+      ]
+    }
   },
   {
     "id": 1263,
@@ -318703,6 +319510,13 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010: رمز المكافأة",
     "type": "دليل وكوبونات",
     "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "CECILIA010 رمز مكافأة في YesStyle يمنحك حتى 5% إضافية: 5% على الطلب الأول و2% بعده. تعرّف على مكان إدخاله وكيف يجتمع مع الكوبونات المؤهلة.",
     "metaDescription": "طريقة استخدام CECILIA010 في YesStyle: حقل رمز المكافأة (Reward Code)، حتى 5% إضافية (5% على الطلب الأول و2% على الطلبات التالية)، ويمكن جمعه مع كوبونات العروض المؤهلة كما يظهر عند الدفع.",
     "publishedAt": "21 نوفمبر 2026",
@@ -318714,20 +319528,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "قناع الشفاه Abib PDRN Collagen Glazed Jelly في الصورة الرسمية للشركة المصنّعة، بجانب شعار YesStyle ورمز المكافأة CECILIA010.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "رمز مؤثرة يضيف حتى 5% إضافية فوق الكوبونات المؤهلة",
-      "يصلح للمشترين الجدد (5% إضافية) وللطلبات المتكررة (2% إضافية)",
-      "شحن مجاني ابتداءً من حد أدنى للطلب يظهر عند الدفع",
-      "كتالوج ضخم من مستحضرات K-Beauty والأزياء الكورية وJ-Beauty",
-      "تقول YesStyle إنها موزّع معتمد لأكثر من 400 علامة كورية للجمال",
-      "قائمة لاختيار اللغة في أعلى الموقع"
-    ],
-    "cons": [
-      "لا يحل محل الكوبونات العادية (فهو يعمل في حقل مستقل)",
-      "قد تُفرض على الطلبات الدولية رسوم جمركية؛ راجع سياسة الاسترداد في YesStyle قبل الشراء",
-      "شراء دولي: التوصيل يستغرق وقتًا أطول من متجر محلي",
-      "تُحوَّل الأسعار بسعر الصرف الداخلي في YesStyle، وقد يضيف بنكك رسوم معاملات أجنبية"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "الإجابة السريعة",
@@ -318831,8 +319633,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
         "imageAlt": "ملخص طلب في YesStyle يُظهر كوبونًا ورمز CECILIA010 مطبّقين كخصمين منفصلين.",
         "imageCaption": "في الملخص، يظهر الخصمان منفصلين: الكوبون الفعّال وCECILIA010 بوصفه رمز المؤثرة.",
-        "imageFit": "contain",
-        "emphasis": "نصيحة Cecília: لا تُتمّ الشراء لمجرد أن الرمز قُبل. راجع المبلغ النهائي في ملخص الطلب وتأكد من ظهور الخصم فعلًا قبل أن تدفع."
+        "imageFit": "contain"
       },
       {
         "heading": "كيف تجد كوبونات YesStyle الفعّالة",
@@ -318881,7 +319682,8 @@ export const reviewsData: unknown[] = [
           "اقرأ التقييمات: صور حقيقية وتعليقات عن الملمس والرائحة والنتائج ومعلومات عن تواريخ الانتهاء.",
           "تابع المواسم: الجمعة البيضاء (نوفمبر)، و11.11 (يوم العزاب)، وعيد الميلاد، وتخفيضات الصيف (يونيو/يوليو)، والعودة إلى المدارس (أغسطس/سبتمبر).",
           "استخدم CECILIA010 دائمًا: لا يكلّفك شيئًا، ويضيف حتى 5% إضافية (5% للطلب الأول / 2% للطلبات التالية) عند تطبيقه بشكل صحيح، ويدعم المدونة."
-        ]
+        ],
+        "emphasis": "تبدو نسبة 5% على الطلب الأول و2% على ما بعده قليلة، لكن ثمنها لصق رمز في خانة واحدة فقط. أضيفه إلى كل سلة قبل أن أفكر في أي كوبون: هو أسهل خصم يُكسب وأسهله نسيانًا."
       },
       {
         "heading": "الأسئلة الشائعة",
@@ -318910,7 +319712,8 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "استخدم رمز مكافأة المؤثرين الرسمي CECILIA010 عند الدفع في YesStyle.",
       "label": "اذهب إلى YesStyle واستخدم الرمز CECILIA010",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -318925,7 +319728,34 @@ export const reviewsData: unknown[] = [
     "locale": "ar",
     "translationKey": "yesstyle-reward-code",
     "category": "cupons-como-usar",
-    "isNew": true
+    "isNew": true,
+    "relatedArticles": [
+      {
+        "slug": "yesstyle-first-order-cecilia010-ar"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-ar"
+      },
+      {
+        "slug": "yesstyle-trust-guide-ar"
+      },
+      {
+        "slug": "yesstyle-app-reward-code-ar"
+      },
+      {
+        "slug": "yesstyle-shipping-by-country-ar"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "أنت على وشك الطلب من YesStyle وتريد خصمًا إضافيًا، ولو كان صغيرًا، فوق كوبون المتجر.",
+        "لديك كوبون جاهز وتريد أن تعرف في أي خانة يوضع كل رمز."
+      ],
+      "skipIf": [
+        "تتوقع خصمًا كبيرًا: يمنح CECILIA010 نسبة 5% على الطلب الأول و2% على الطلبات التالية، ولا شيء غير ذلك.",
+        "تبحث عن رمز يحل محل كوبون المتجر: يجتمع CECILIA010 مع كوبون واحد فقط ولا يقوم بدوره."
+      ]
+    }
   },
   {
     "id": 1264,
@@ -318933,7 +319763,7 @@ export const reviewsData: unknown[] = [
     "locale": "ar",
     "translationKey": "yesstyle-shipping-by-country",
     "title": "هل تشحن YesStyle إلى الولايات المتحدة والمملكة المتحدة وكندا وأستراليا؟ مدد التوصيل وتكاليف الشحن والجمارك",
-    "seoTitle": "شحن YesStyle إلى أمريكا وبريطانيا وكندا وأستراليا: المدة والتكلفة",
+    "seoTitle": "شحن YesStyle إلى أمريكا وبريطانيا وكندا وأستراليا",
     "type": "دليل الشحن",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -319178,7 +320008,8 @@ export const reviewsData: unknown[] = [
             "label": "اطّلع على كوبون YesStyle لهذا اليوم ورمز المكافأة CECILIA010",
             "href": "/ar/coupons/yesstyle"
           }
-        ]
+        ],
+        "emphasis": "في الدول الست يعرّفك جدول الشحن بالمدة والتكلفة قبل الدفع، أما الضريبة فهي ما يختلف أكثر، فاقرأ سطر بلدك قبل أن تملأ السلة."
       },
       {
         "heading": "الأسئلة الشائعة",
@@ -319192,7 +320023,7 @@ export const reviewsData: unknown[] = [
           "كيف أُرجع منتجًا من YesStyle؟ اطلب رقم RMA خلال 14 يومًا من الاستلام وأرسل الطرد خلال 30 يومًا من إصدار RMA. لا يمكن إرجاع منتجات التجميل المفتوحة والمكملات، ولا يمنح التفاعل الجلدي حق الاسترداد.",
           "هل تشحن YesStyle إلى الأقاليم الأمريكية وأيرلندا الشمالية؟ إلى الأقاليم الأمريكية نعم: أماكن مثل بورتوريكو وغوام وجزر فيرجن الأمريكية لها جدولها الخاص، بشحن قياسي خلال 9 إلى 14 يوم عمل وشحن مجاني ابتداءً من 80 دولارًا أمريكيًا. أما أيرلندا الشمالية فغير مشمولة حاليًا.",
           "لماذا تختلف مدة التوصيل من طلب إلى آخر؟ لأن المجموع يضيف توفّر كل منتج، وقد يصل إلى 30 يوم عمل، إلى مدة الشحن، ولأن الطلب قد يُشحن في أكثر من شحنة؛ وإذا شُحن معًا، فعند توفر آخر منتج.",
-          "أين أجد كوبونات YesStyle ورمز المكافأة؟ في صفحة YesStyle على هذا الموقع، التي تعرض كوبونات اليوم ورمز المكافأة CECILIA010. يُكتب الرمز في حقل Reward Code عند الدفع."
+          "ما رمز المكافأة في YesStyle؟ يمنح CECILIA010 حتى 5% على أول عملية شراء و2% على التالية، ويُكتب في حقل مستقل هو Reward Code عند الدفع. ويجتمع مع كوبون واحد من كوبونات المتجر، والكوبونات الحالية في صفحة YesStyle هنا على الموقع."
         ]
       }
     ],
@@ -319215,7 +320046,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-reward-code-cecilia010-ar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "اطلب من المملكة المتحدة أو أستراليا أو أيرلندا أو نيوزيلندا إذا أردت ضريبة القيمة المضافة أو GST مشمولة في السعر.",
+        "استخدم الشحن السريع (Express) في الولايات المتحدة أو المملكة المتحدة أو أستراليا أو نيوزيلندا إذا احتجت إلى التوصيل خلال 3 إلى 5 أيام عمل؛ وحدّه الأدنى للشحن المجاني أعلى."
+      ],
+      "skipIf": [
+        "تجنّب YesStyle إذا كنت تقيم في أيرلندا الشمالية: فالمتجر لا يشحن إليها حاليًا.",
+        "تجنّب الطلب المستعجل من أيرلندا: فالشحن القياسي يستغرق من 12 إلى 18 يوم عمل ولا يوجد في الجدول شحن سريع."
+      ]
+    }
   },
   {
     "id": 1265,
@@ -319247,19 +320088,8 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-    "pros": [
-      "روتين قصير: ثلاثة منتجات ونحو 15 دقيقة، معظمها انتظار واللصقة على البشرة",
-      "لصقة هيدروجيل باردة بسطح محبّب يساعدها على الثبات",
-      "كريم بملمس يشبه المرهم، ينتشر بسهولة ويترك إحساسًا مخمليًا",
-      "قناع شفاه بملعقة صغيرة ورائحة تشبه الحلوى لم تكن طاغية بالنسبة إليّ",
-      "منتجات كورية تبيعها YesStyle نفسها وتصرّح بأنها أصلية، ويضيف CECILIA010 خصمًا في حقل رمز المكافأة (Reward Code)"
-    ],
-    "cons": [
-      "يعمل PDRN والريتينال تدريجيًا: توصي Abib بالكريم للتماسك والخطوط الدقيقة، وهذا يعني عملًا طويل الأمد",
-      "يتطلب الريتينال واقيًا من الشمس في النهار: إن لم تستخدمه من قبل، مثلي، فعليك أن تبدأ",
-      "في المرة الأولى لم أكن متأكدة من أي وجهي اللصقة هو الصحيح",
-      "شراء دولي: تكلفة الشحن ومدة التوصيل تتوقفان على وجهتك"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "الإجابة السريعة",
@@ -319337,7 +320167,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
         "imageAlt": "Cecília تحمل لصقة هيدروجيل وردية من Abib، وفي يدها الأخرى العلبة المفتوحة",
         "imageCaption": "تأتي لصقة الهيدروجيل من Abib في علبة من 60 لصقة، وتبدو باردة عند ملامسة البشرة.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Booster Crème 2.5: ملمس مرهم يتحول إلى مخمل",
@@ -319359,7 +320189,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
         "imageAlt": "Cecília تحمل أنبوب Abib PDRN Volume Fill-it Booster Crème 2.5",
         "imageCaption": "أنبوب Booster Crème 2.5 سعة 30 مل: يخرج كالمرهم ويترك البشرة بإحساس مخملي.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "Lip Mask Glazed Jelly: رائحة حلوى غير طاغية",
@@ -319378,7 +320208,7 @@ export const reviewsData: unknown[] = [
         "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
         "imageAlt": "Cecília تزمّ شفتيها وتحمل علبة قناع الشفاه Glazed Jelly من Abib",
         "imageCaption": "قناع الشفاه Glazed Jelly سعة 11 غ بملمس جل ورائحة تشبه الحلوى.",
-        "imageFit": "cover"
+        "imageFit": "contain"
       },
       {
         "heading": "PDRN والريتينال: ما هما وماذا تتوقع",
@@ -319443,7 +320273,8 @@ export const reviewsData: unknown[] = [
           "ملمس البشرة وإشراقها في الوجه والرقبة؛",
           "هل يسبب الريتينال أي تهيّج مع الاستخدام المتواصل؛",
           "هل يُبقي قناع الشفاه شفتيّ رطبتين طوال الليل."
-        ]
+        ],
+        "emphasis": "يعجبني هذا الروتين لأنه يتسع لليلة عادية، بلا ماراثون من عشر خطوات. أما ما يفعله لبشرتي فلن أقوله إلا بعد أسابيع من الاستخدام."
       },
       {
         "heading": "الأسئلة الشائعة",
@@ -319452,7 +320283,7 @@ export const reviewsData: unknown[] = [
           "ما هو PDRN؟ مكوّن مصنوع من أجزاء من الحمض النووي، يُستخدم كثيرًا في مستحضرات التجميل الكورية التي تَعِد، بحسب العلامات، بالتماسك. وفي قناع الشفاه من Abib، تصرّح العلامة بمنشأ نباتي (السنتيلا آسياتيكا والجنكة بيلوبا).",
           "هل الريتينال هو حمض الريتينويك نفسه؟ لا. المكوّن في اللصقة والكريم هو الريتينال (ريتينالدهيد)، وهو مشتق من فيتامين A تحوّله البشرة إلى حمض الريتينويك. لذلك يكون مفعوله أكثر تدرجًا، ويتطلب واقيًا من الشمس في النهار.",
           "هل لقناع الشفاه من Abib رائحة قوية؟ رائحته تشبه الحلوى. أنا حساسة تجاه الروائح القوية، وهذه لم تزعجني.",
-          "أين أستخدم الرمز CECILIA010؟ في حقل Reward Code عند الدفع. يمنح 5% خصمًا على أول عملية شراء و2% على التالية، ويمكن استخدامه مع كوبون يُدخل في حقل Coupon Code، بحسب قواعد ذلك الكوبون."
+          "أين أستخدم CECILIA010، رمز المكافأة في YesStyle؟ يمنح CECILIA010 خصم 5% على أول عملية شراء و2% على التالية، في حقل Reward Code عند الدفع. ويمكن جمعه مع كوبون من YesStyle يُدخل في حقل Coupon Code، بحسب قواعد ذلك الكوبون."
         ]
       }
     ],
@@ -319475,7 +320306,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-valid-coupon-guide-ar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "لم تبنِ روتين عناية بالبشرة من قبل وتريد أن تبدأ بخطوات قليلة: روتيني كان ثلاثة منتجات ونحو 15 دقيقة، معظمها انتظار.",
+        "تستلم طلباتك في بلد توصل إليه YesStyle ولا يزعجك الشحن الدولي ومدة التوصيل."
+      ],
+      "skipIf": [
+        "بلدك ليس في قائمة التوصيل لدى YesStyle: تحقق قبل تجهيز السلة.",
+        "تريد أن تعرف ما يفعله الروتين لبشرتك: هذا مجرد الاستخدام الأول، والنتائج لم تأتِ بعد."
+      ]
+    }
   },
   {
     "id": 1266,
@@ -319518,7 +320359,6 @@ export const reviewsData: unknown[] = [
           "مقر YesStyle في هونغ كونغ وهي تعمل منذ عام 2006. وتتبع YesAsia Holdings (2209.HK) المدرجة في بورصة هونغ كونغ، كما تُظهر [صفحة الأعمال](https://www.yesasiaholdings.com/business.html) و[علاقات المستثمرين](https://www.yesasiaholdings.com/investor-relations.html) للشركة الأم.",
           "تخدم YesStyle عملاء في أكثر من 150 دولة ومنطقة، مع قائمة لاختيار لغة الموقع. ويتيح الموقع اختيار عملة الطلب من بين العملات المتاحة ويحوّل بـ[سعر الصرف الداخلي لدى YesStyle](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)؛ وقد يفرض بنكك رسم شراء دولي. وتشغّل الشركة قنوات لخدمة العملاء للاستفسار عن المنتجات ومدد التوصيل وضرائب الاستيراد وسياسة الإرجاع."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
         "imageAlt": "واجهة YesStyle الرسمية ولافتة ترويجية",
         "imageFit": "square"
@@ -319529,7 +320369,6 @@ export const reviewsData: unknown[] = [
           "تذكر YesStyle أنها موزّع معتمد لأكثر من 400 علامة كورية للجمال (K-beauty)، وتبيع كذلك مستحضرات تجميل وأزياء آسيوية أخرى. ويضم الكتالوج العناية بالبشرة (سيروم وإسنس وتونر وواقيات الشمس) والمكياج ومنتجات الشعر والإكسسوارات.",
           "من العلامات التي تذكرها الشركة COSRX وEtude House وHada Labo وRohto، وتقول إنها تشتري مباشرة من الشركات المصنّعة أو من موزعين شركاء. وكون الشركة تحت سيطرة شركة مدرجة في البورصة (YesAsia Holdings) معلومة عامة عمّن يقف وراء المتجر."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
         "imageAlt": "علامات K-Beauty وJ-Beauty المعتمدة في YesStyle (COSRX وAnua وBeauty of Joseon)",
         "imageFit": "wide"
@@ -319543,7 +320382,6 @@ export const reviewsData: unknown[] = [
           "والمنتج المعيب أو الخاطئ يمر كذلك عبر RMA، مع صور للعيب. القواعد في [سياسة الإرجاع في YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736)؛ وقد تتجاوزها حقوق المستهلك في بلدك.",
           "يمكن الوصول إلى الدعم عبر الدردشة والبريد الإلكتروني في الموقع الرسمي."
         ],
-        "bullets": [],
         "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
         "imageAlt": "شبكة منتجات وأسعار بالدولار وخصومات ترويجية في YesStyle",
         "imageFit": "square"
@@ -319576,6 +320414,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "هل يمكن الوثوق بـ YesStyle؟",
+        "emphasis": "الثقة هنا لها حدّها: YesStyle شركة حقيقية شركتها الأم مدرجة في البورصة، لكن أصالة المنتجات كلمة المتجر نفسه. اشترِ، واترك فحص رقم التشغيلة وتاريخ الصلاحية والختم ليوم وصول الطرد.",
         "paragraphs": [
           "نعم، مع الفحوص المعتادة. مقر YesStyle في هونغ كونغ وهي موجودة منذ عام 2006 وتسيطر عليها YesAsia Holdings (2209.HK) المدرجة في البورصة. وتعلن أنها موزّع معتمد لأكثر من 400 علامة كورية للجمال. وإذا فُرضت ضريبة على الطرد، فقد تُسترد الضرائب والرسوم الجمركية للطلبات المؤهلة التي تقل عن 1,000 دولار أمريكي على شكل رصيد في المتجر، بحسب الوجهة.",
           "عمليًا: اشترِ عبر النطاق yesstyle.com، وراجع الشحن ومدة التوصيل عند الدفع، واحتفظ بإيصالك، وعند الاستلام افحص رقم التشغيلة وتاريخ الانتهاء والختم."
@@ -319586,8 +320425,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "لدى Em Casa com Cecília شراكة تجارية مع YesStyle. وبفضلها يمكن للقرّاء إدخال رمز المكافأة CECILIA010 في الحقل المخصص عند الدفع للحصول على 5% خصمًا إضافيًا على أول عملية شراء و2% على الطلبات المتكررة. ويمكن جمع الرمز مع كوبونات العروض المؤهلة الفعّالة في الموقع.",
           "ليس لرمز CECILIA010 تاريخ انتهاء محدد، لكن YesStyle قد تغيّر مزايا البرنامج وقواعده، بحسب [شروط البرنامج](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284)؛ فتحقق من الخصم في ملخص الطلب قبل الدفع. وقد تعود الروابط والرمز على المدونة بعمولة، دون تكلفة إضافية عليك."
-        ],
-        "bullets": []
+        ]
       },
       {
         "heading": "الأسئلة الشائعة",
@@ -319606,10 +320444,21 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "تريد شراء منتجات K-Beauty وعلامات آسيوية أخرى في سلة واحدة، ولا مانع لديك من فحص رقم التشغيلة وتاريخ الصلاحية والختم عند وصول الطرد.",
+        "نظرتَ إلى الشحن ومدة التوصيل في صفحة الدفع قبل إتمام الشراء، وتقبل أن يكون الاسترداد الافتراضي عند الإرجاع رصيدًا في المتجر."
+      ],
+      "skipIf": [
+        "لا تشتري إلا بضمان أصالة من طرف ثالث: الأصالة هنا إعلان من المتجر نفسه، ولم نجد تدقيقًا مستقلًا.",
+        "تحتاج إلى الطلب في موعد محدد: لا تظهر مدة التوصيل إلا في صفحة الدفع، قبل إتمام الشراء."
+      ]
+    },
     "cta": {
       "text": "تسوّق منتجات K-Beauty الرسمية في YesStyle بالرمز CECILIA010",
       "label": "زر YesStyle",
-      "url": "https://ystyle.co/rQYQv"
+      "url": "https://ystyle.co/rQYQv",
+      "sponsored": true
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -319617,6 +320466,12 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "yesstyle-reward-code-cecilia010-ar"
+      },
+      {
+        "slug": "yesstyle-valid-coupon-guide-ar"
+      },
+      {
+        "slug": "yesstyle-kbeauty-guide-ar"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -319629,7 +320484,7 @@ export const reviewsData: unknown[] = [
     "locale": "ar",
     "translationKey": "yesstyle-vs-alternatives",
     "title": "YesStyle مقابل Stylevana: مقارنة الإرجاع والشحن المجاني ورمز المكافأة، مع Olive Young وStyleKorean وJolse",
-    "seoTitle": "YesStyle مقابل Stylevana: الإرجاع والشحن المجاني ورمز المكافأة",
+    "seoTitle": "YesStyle مقابل Stylevana: الإرجاع والشحن المجاني",
     "type": "مقارنة متاجر",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -319785,7 +320640,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "للحسم: قارن المهلة وما يقبله كل متجر في جدول الإرجاع أعلاه.",
           "في أي بلد: راجع الصفحة الرسمية لكل متجر عن الشحن ومن يدفع الضريبة وما يقبله عند الإرجاع قبل إتمام الطلب."
-        ]
+        ],
+        "emphasis": "البلد يحسم قبل السعر: ابدأ بالمتجر الذي يشحن إلى عنوانك، ثم دع جدول الإرجاع يرجّح بين المتاجر."
       },
       {
         "heading": "الأسئلة الشائعة",
@@ -319794,7 +320650,7 @@ export const reviewsData: unknown[] = [
           "هل YesStyle هي SHEIN نفسها؟ لا: لا تظهر YesStyle في قائمة علامات مجموعة SHEIN، وتقول YesStyle إنها تتبع YesAsia Holdings في هونغ كونغ.",
           "ما حد الطلب في StyleKorean؟ 500 دولار أمريكي للطلب الواحد دون احتساب الشحن؛ وفوق ذلك يطلب المتجر تقسيمه إلى طلبين.",
           "هل يمكنني إرجاع منتج تجميل مفتوح؟ ليس بسبب العدول عن الشراء، في أي من المتاجر الخمسة؛ وتقبل Stylevana العدول عن الشراء فقط إذا كان المنتج جديدًا ومختومًا وغير مستخدم.",
-          "أين يُكتب رمز المكافأة في YesStyle؟ يُكتب CECILIA010 في حقل Reward Code المنفصل عند الدفع، لا في خانة الكوبون، ويجتمع مع كوبونات المتجر نفسه. الكوبونات الحالية في صفحة YesStyle هنا على الموقع."
+          "ما رمز المكافأة في YesStyle؟ يمنح CECILIA010 حتى 5% على أول عملية شراء و2% على التالية، ويُكتب في حقل مستقل هو Reward Code عند الدفع. ويجتمع مع كوبون واحد من كوبونات المتجر، والكوبونات الحالية في صفحة YesStyle هنا على الموقع."
         ]
       }
     ],
@@ -319821,7 +320677,17 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-ar"
       }
     ],
-    "updatedAt": "2026-11-21"
+    "updatedAt": "2026-11-21",
+    "decision": {
+      "takeIf": [
+        "اختر YesStyle أو Stylevana إذا أردت 14 يومًا بعد التسليم لطلب الإرجاع؛ فكلتاهما تتيح هذه المهلة.",
+        "فكّر في Olive Young Global إذا فضّلت أن يُرد مبلغ الإرجاع المعتمد إلى وسيلة الدفع وأن يتحمل المتجر شحن الإرجاع. فهي لا تقبل إلا المنتجات المعيبة أو الخاطئة."
+      ],
+      "skipIf": [
+        "تجنّب المتاجر الخمسة إذا كنت تنوي إرجاع منتج تجميل مفتوح بسبب العدول عن الشراء؛ فلا أحد منها يقبله.",
+        "تجنّب Jolse إذا كنت تحتاج إلى أكثر من 7 أيام لطلب الإرجاع؛ فهي تطلب صورًا ولا تقبل إلا المنتجات المعيبة أو الخاطئة أو الناقصة."
+      ]
+    }
   },
   {
     "id": 1268,
@@ -320041,7 +320907,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "لترى عرض YesStyle قبل الشراء، استخدم [صفحة YesStyle](/ar/coupons/yesstyle)."
-        ]
+        ],
+        "emphasis": "حيث يشحن المتجران، تبقى YesStyle الخيار الأضمن لمن قد يغيّر رأيه، لأنها تقبل العدول عن الشراء وتبديل المقاس. أما Olive Young Global فلا تستحق إلا إذا كنت تريد استرداد المبلغ إلى وسيلة الدفع الأصلية وتقبل ألا يُرجَع إلا المنتج المعيب أو الخاطئ."
       },
       {
         "heading": "الأسئلة الشائعة",
@@ -320050,7 +320917,7 @@ export const reviewsData: unknown[] = [
           "من يدفع الضريبة في أوروبا؟ في Olive Young، بالنسبة إلى الاتحاد الأوروبي، تُحصَّل ضريبة القيمة المضافة و3 يورو عن كل رمز HS عند الدفع، ويقول المتجر إنه لا يُفرض شيء آخر عند التسليم. وتقول YesStyle إنها تدفع رسم الجمارك الأوروبي البالغ 3 يورو عن العميل، في الوقت الحالي. والتفاصيل في قسم الضريبة.",
           "هل يمكن إرجاع منتج مفتوح؟ في Olive Young Global لا، إلا إذا كان معيبًا أو منتجًا خاطئًا أرسله المتجر، خلال 30 يومًا. وفي YesStyle، لا تعود منتجات التجميل المفتوحة والمكملات.",
           "هل Olive Young Global وOLIVE YOUNG US المتجر نفسه؟ لا. تشحن Global من كوريا إلى قائمة بلدانها ولا تشحن إلى الولايات المتحدة؛ أما OLIVE YOUNG US فمنفصل وله قواعد شحن وإرجاع خاصة به.",
-          "أين أُدخل CECILIA010؟ عند الدفع في YesStyle، في حقل Reward Code. ويجتمع مع كوبونات المتجر نفسه."
+          "ما رمز المكافأة في YesStyle؟ يمنح CECILIA010 حتى 5% على أول عملية شراء و2% على التالية، ويُكتب في حقل Reward Code عند الدفع. ويجتمع مع كوبون واحد من كوبونات المتجر نفسه."
         ]
       }
     ],
@@ -320119,7 +320986,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "اختر YesStyle إذا كنت لا تريد المجازفة: تقييمها 4.4 في Trustpilot (104,969 تقييمًا)، مقابل 1.9 لـ StyleKorean (137). ويضيف CECILIA010 حتى 5%. ولا تُحتسب هنا تكلفة الشحن والرسوم. وللوجهات الأخرى، تأكد عند الدفع من أن المتجر يوصّل إلى عنوانك ومن الشحن والرسوم المطبّقة."
+          "اختر YesStyle إذا كنت لا تريد المجازفة: تقييمها 4.4 في Trustpilot (105,442 تقييمًا)، مقابل 1.9 لـ StyleKorean (137). ويضيف CECILIA010 حتى 5%. ولا تُحتسب هنا تكلفة الشحن والرسوم. وللوجهات الأخرى، تأكد عند الدفع من أن المتجر يوصّل إلى عنوانك ومن الشحن والرسوم المطبّقة."
         ]
       },
       {
@@ -320128,7 +320995,7 @@ export const reviewsData: unknown[] = [
           "قبل السعر، انظر من يقف على الطرف الآخر من الطلب. بين هذين المتجرين، فجوة السمعة كبيرة."
         ],
         "comparisonTable": {
-          "caption": "صفحات Trustpilot في 8 نوفمبر.",
+          "caption": "صفحات Trustpilot، قُرئت في نوفمبر.",
           "headers": [
             "المتجر",
             "تقييم Trustpilot",
@@ -320138,7 +321005,7 @@ export const reviewsData: unknown[] = [
             [
               "YesStyle",
               "4.4",
-              "104,969"
+              "105,442"
             ],
             [
               "StyleKorean",
@@ -320425,6 +321292,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما رمز المكافأة في YesStyle؟ يمنح CECILIA010 خصمًا إضافيًا 5% على أول طلب و2% على الطلبات التالية، بلا تاريخ انتهاء. يُكتب في خانة Reward Code عند الدفع، ويجتمع مع كوبون واحد من YesStyle نفسها.",
           "هل هناك رمز لـ StyleKorean هنا؟ لا. CECILIA010 لـ YesStyle فقط ولا يعمل في StyleKorean.",
           "هل تملك YesStyle متجر StyleKorean؟ لا. يتبع StyleKorean شركة Silicon2 الكورية؛ وتتبع YesStyle شركة YesAsia من هونغ كونغ.",
           "هل توصّل إلى بلدي؟ البرتغال والولايات المتحدة والمملكة المتحدة وألمانيا في جداول هذا المقال؛ وللوجهات الأخرى، راجع [دليل شحن المتجر](/ar/reviews/yesstyle-shipping-by-country-ar).",
@@ -320466,7 +321334,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-ar"
       }
     ],
-    "updatedAt": "2026-11-21"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 1270,

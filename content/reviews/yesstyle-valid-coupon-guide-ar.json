@@ -5,6 +5,13 @@
   "seoTitle": "كيف تجد كوبونات YesStyle وتجمعها مع CECILIA010",
   "type": "دليل وكوبونات",
   "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
   "description": "دليل عملي للعثور على كوبونات YesStyle السارية، وفهم Coupon Code وReward Code، واستخدام CECILIA010: خصم 5% على أول عملية شراء و2% على ما بعدها.",
   "metaDescription": "أين تجد كوبونات YesStyle السارية الآن، وكيف تتجنب الرموز المنتهية، وكيف تضيف رمز المكافأة CECILIA010 لتوفير يصل إلى 5% إضافية.",
   "publishedAt": "21 نوفمبر 2026",
@@ -29,43 +36,13 @@
   "imageAlt": "Cecília بعصابة رأس وردية تعرض علبة مفتوحة من لصقات الهيدروجيل الوردية للعينين من Abib، في لقطة من فيديو خاص بها. نص الغلاف: «كيف تجد الكوبونات وتجمعها» و«كوبون المتجر + Reward Code»، مع رمز المكافأة CECILIA010.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "يعلّمك التمييز بين Coupon Code وReward Code لتتجنب أخطاء الدفع",
-    "يشرح الجمع بين الخصمين: إضافة كوبون الشهر فوق CECILIA010",
-    "يوضح كيف توفّر حتى 5% إضافية بالرمز الرسمي للمؤثرة",
-    "يبيّن أين تجد كوبونات YesStyle السارية لتتجنب الرموز المزيفة أو المنتهية",
-    "يوجّهك إلى صفحة Em Casa com Cecília المحدّثة التي فيها قائمة الكوبونات الحالية"
-  ],
-  "cons": [
-    "الكوبونات الترويجية الشهرية لها مهل قصيرة (عادةً من 72 ساعة إلى 30 يومًا)",
-    "خصم CECILIA010 يتراوح بين 5% على أول عملية شراء و2% على المشتريات اللاحقة",
-    "يُحتسب الإجمالي بالعملة التي تختارها في الموقع، بسعر صرف YesStyle، وقد يضيف مصرفك رسم شراء دولي"
-  ],
-  "pullQuote": "أدخل CECILIA010 في خانة Reward Code: 5% على أول عملية شراء و2% على ما بعدها. وإذا كان العرض يسمح بذلك، أدخل أيضًا كوبونًا في خانة Coupon Code وتحقق من الخصمين في ملخص الطلب.",
-  "productSpec": [
-    {
-      "key": "المتجر",
-      "value": "YesStyle (الرسمي)"
-    },
-    {
-      "key": "رمز المكافأة",
-      "value": "CECILIA010 (حتى 5% إضافية)",
-      "highlight": true
-    },
-    {
-      "key": "الخانة عند الدفع",
-      "value": "Reward Code"
-    },
-    {
-      "key": "قابل للجمع",
-      "value": "يمكن جمعه مع كوبونات ترويجية مؤهلة؛ تأكد عند الدفع"
-    }
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
-    "text": "في صفحتنا، قائمة كوبونات YesStyle محدّثة بتاريخ {yesstyle:verifiedAt}.",
-    "label": "اطّلع على كوبونات YesStyle الفعّالة",
-    "url": "/ar/coupons/yesstyle",
-    "sponsored": false
+    "text": "الصق CECILIA010 في خانة Reward Code: خصم إضافي 5% على أول طلب و2% على ما بعده.",
+    "label": "اذهب إلى YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
@@ -73,6 +50,18 @@
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-ar"
+    },
+    {
+      "slug": "yesstyle-first-order-cecilia010-ar"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ar"
+    },
+    {
+      "slug": "yesstyle-app-reward-code-ar"
+    },
+    {
+      "slug": "yesstyle-shipping-by-country-ar"
     }
   ],
   "contentSections": [
@@ -104,7 +93,7 @@
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "صفحة الدفع في YesStyle تعرض خانتي Coupon Code وReward Code.",
       "imageCaption": "خانتا الدفع المنفصلتان: Coupon Code (لكوبونات العروض) وReward Code (لـ CECILIA010). الكوبون في لقطة الشاشة من حملة انتهت.",
-      "imageFit": "cover",
+      "imageFit": "contain",
       "bullets": [
         "1. خانة «Coupon Code»: هنا تُدخل الكوبونات الترويجية من موقع YesStyle (مثل كوبونات التصفية أو حملات الخصم من 10% إلى 15%).",
         "2. خانة «Reward Code» / «Influencer Code»: هنا تُدخل الرمز الرسمي لمؤثرتنا Cecília، CECILIA010، بخصم إضافي 5% على أول عملية شراء و2% على ما بعدها."
@@ -145,7 +134,7 @@
       "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
       "imageAlt": "شاشة سلة التسوق في متجر YesStyle.",
       "imageCaption": "شاشة ملخص سلة التسوق في YesStyle قبل تطبيق رموز الخصم.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "الخطوة 3: طبّق كوبون العرض في خانة Coupon Code",
@@ -162,12 +151,13 @@
     {
       "heading": "الخطوة 5: تأكد من الخصم المجمَّع وأتمّ الطلب",
       "paragraphs": [
-        "في ملخص الطلب، تأكد من الخصمين قبل أن تدفع: الكوبون و CECILIA010."
+        "في ملخص الطلب، تأكد من الخصمين قبل أن تدفع: الكوبون و CECILIA010.",
+        "يُحتسب الإجمالي بالعملة التي تختارها في الموقع، بسعر صرف YesStyle، وقد يضيف مصرفك رسم شراء دولي."
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
       "imageAlt": "ملخص الطلب النهائي في YesStyle مع الخصومات المجمَّعة.",
       "imageCaption": "ملخص الطلب يؤكد الجمع: كوبون العرض + رمز المكافأة CECILIA010 مجمَّعان بنجاح. الكوبون في لقطة الشاشة من حملة انتهت.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "أين تجد كوبونات YesStyle السارية",
@@ -187,7 +177,8 @@
           "href": "https://ystyle.co/rQYQv",
           "sponsored": true
         }
-      ]
+      ],
+      "emphasis": "الكوبونات تتغير من أسبوع إلى آخر، أما CECILIA010 فيبقى. أضع رمز المكافأة في خانة Reward Code أولًا، ثم أتحقق بعدها من الكوبون الذي تقبله صفحة الدفع اليوم."
     },
     {
       "heading": "الأسئلة الشائعة",
@@ -196,7 +187,7 @@
       ],
       "bullets": [
         "ما الفرق بين Coupon Code وInfluencer/Rewards Code في YesStyle؟ Coupon Code هو كوبون العرض، يُدخل في خانة «Coupon Code»، وله مهلته وقواعده: قد يكون له حد أدنى للشراء أو قيد إقليمي أو منتجات غير مؤهلة. أما CECILIA010 فهو رمز المكافأة (Influencer/Rewards Code)، يُدخل في خانة «Reward Code» المنفصلة، بنسبة 5% على أول عملية شراء و2% على التي تليها. وحين تسمح قواعد العرض يمكن أن يظهر الخصمان معًا في ملخص الطلب.",
-        "ما رمز المؤثر في YesStyle؟ هو رمز المكافأة (Reward Code)، يُكتب في خانة خاصة عند الدفع، منفصلة عن خانة الكوبون. ورمزنا هو CECILIA010، ويوضع في خانة Reward Code.",
+        "ما رمز المكافأة (رمز المؤثرة) في YesStyle؟ إنه CECILIA010: يمنح 5% إضافية على الطلب الأول و2% على الطلبات التالية، ويوضع في خانة Reward Code، ويجتمع مع كوبون واحد من المتجر في خانة Coupon Code. هو رمز المؤثرة Cecília.",
         "هل تنتهي صلاحية كوبونات YesStyle؟ نعم. للكوبونات الترويجية تاريخ انتهاء وقد تنتهي دون إشعار. بعض الحملات تدوم أيامًا قليلة فقط (مثل عروض الـ72 أو الـ96 ساعة)، وبعضها يبقى فعّالًا لفترات مختلفة. قبل إتمام الشراء، تحقق من الصلاحية والحد الأدنى والمنطقة والمنتجات المؤهلة في قواعد العرض، وتأكد من ظهور الخصم عند الدفع.",
         "أين أجد القواعد الرسمية لكوبونات YesStyle؟ القواعد العامة في صفحة «General Terms and Conditions for Coupons» في مركز المساعدة في YesStyle. ولشروط حملة محددة، ادخل مركز المساعدة وافتح قسم «Promotions»، حيث تنشر YesStyle الصلاحية والحد الأدنى للشراء والمناطق المشاركة والاستثناءات المحتملة. ولأن هذه الشروط تتغير، راجع أيضًا لافتة العرض وملخص الطلب قبل أن تدفع.",
         "هل أستطيع استخدام أكثر من كوبون ترويجي في الطلب نفسه؟ لا. وفق القواعد العامة في YesStyle، لا يجوز استخدام سوى Coupon Code واحد لكل طلب أو طلب مدمج. لكن CECILIA010 ليس Coupon Code: يجب تطبيقه في خانة «Reward Code» المنفصلة. ولهذا يمكن الجمع بين كوبون ترويجي و CECILIA010 عندما تكون الحملة مؤهلة وتقبل صفحة الدفع الاثنين."
@@ -217,5 +208,15 @@
   "translationKey": "yesstyle-coupon-guide",
   "category": "cupons-como-usar",
   "isNew": true,
-  "updatedAt": "2026-11-21"
+  "updatedAt": "2026-11-21",
+  "decision": {
+    "takeIf": [
+      "وصلت إلى صفحة الدفع في YesStyle ومعك كوبون، ولا تعرف في أي خانة يوضع كل رمز.",
+      "رُفض كوبونك وتريد أن تفهم السبب قبل أن تبحث عن كوبون آخر."
+    ],
+    "skipIf": [
+      "تريد كوبونًا جاهزًا للنسخ: يشرح هذا الدليل الطريقة، وقائمة الوقت الحالي في صفحة كوبونات YesStyle لدينا.",
+      "تنوي الجمع بين كوبونين من المتجر: تقبل YesStyle خانة Coupon Code واحدة لكل طلب، وحده CECILIA010 يوضع في خانة مستقلة."
+    ]
+  }
 }

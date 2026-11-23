@@ -4,6 +4,13 @@
   "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）",
   "type": "ガイド＆クーポン",
   "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
   "description": "YesStyleでインフルエンサーコードCECILIA010を使う手順を、順を追って紹介します。チェックアウトのどこに入力するか(Reward Code欄)、有効なクーポンとの併用方法、K-Beautyの買い方のコツをまとめました。",
   "publishedAt": "11 Jul 2026",
   "publishedAtISO": "2026-07-11",
@@ -11,33 +18,15 @@
   "draft": false,
   "image": "/images/reviews/cupons/codigo-cecilia010-yesstyle-como-usar-capa-v2.webp",
   "imageAlt": "メーカー公式画像のAbib PDRN Collagen Glazed Jellyリップマスクと、YesStyleのロゴ、リワードコードCECILIA010。",
-  "pros": [
-    "対象のプロモーションクーポンに加えて、最大5%が上乗せされるインフルエンサーコード",
-    "初回購入（5%追加）にも、リピート注文（2%追加）にも使える",
-    "一定額以上で送料無料(最低金額はチェックアウトに表示)",
-    "K-Beauty、韓国ファッション、J-Beautyの豊富なラインナップ",
-    "YesStyleは400以上の韓国コスメブランドの正規販売店だと述べています",
-    "サイト上部の言語切り替え"
-  ],
-  "cons": [
-    "通常のクーポンの代わりにはならない(別の欄に入力します)",
-    "海外からの注文には関税などがかかる場合があります。購入前にYesStyleの返金ポリシーを確認してください",
-    "海外通販なので、地元のショップより届くまでに時間がかかる",
-    "決済額はYesStyle独自の為替レートで換算され、カード会社や銀行の海外利用手数料がかかる場合がある"
-  ],
+  "pros": [],
+  "cons": [],
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "notes": [
-    {
-      "label": "Cecíliaのヒント",
-      "body": "コードの入力欄はチェックアウトの「Reward Code」にあります。ショップを開く前にCECILIA010をコピーしておくと、注文を確定するときに貼り付けるだけで済みます。",
-      "anchor": "como-funciona-o-codigo-cecilia010"
-    }
-  ],
   "cta": {
     "text": "YesStyleの注文でCECILIA010を活用しましょう。",
     "label": "YesStyleでコードを使用する",
-    "url": "https://ystyle.co/rQYQv"
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
   },
   "contentSections": [
     {
@@ -142,8 +131,7 @@
       "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
       "imageAlt": "YesStyleの注文概要。クーポンとCECILIA010が、それぞれ別の割引として適用されている。",
       "imageCaption": "注文概要では、割引が別々に表示されます。有効なクーポンと、インフルエンサーコードとしてのCECILIA010です。",
-      "imageFit": "contain",
-      "emphasis": "Cecíliaのヒント：コードが受け付けられたからといって、すぐに購入を確定しないでください。注文概要で最終金額を見て、割引が実際に反映されているか、支払う前に確認しましょう。"
+      "imageFit": "contain"
     },
     {
       "heading": "YesStyleで有効なクーポンを見つける方法",
@@ -192,7 +180,8 @@
         "レビューを読む：実際の写真、テクスチャー、香り、使用感のコメント、使用期限の情報。",
         "季節のセールをチェック：ブラックフライデー(11月)、11.11(独身の日)、クリスマス、Summer Sale(6月/7月)、Back to School(8月/9月)。",
         "CECILIA010はいつも使う：無料で、正しく入力すれば最大5%(初回購入5% / リピーター2%)が追加され、ブログの応援にもなります。"
-      ]
+      ],
+      "emphasis": "初回5%、2回目以降2%という割引は小さく見えますが、手間はコードを1つの欄に貼るだけです。私はクーポンを考える前に、どのカートにも先に入れています。いちばん簡単にもらえて、いちばん忘れやすい割引だからです。"
     },
     {
       "heading": "YesStyleのCECILIA010についてよくある質問(FAQ)",
@@ -225,6 +214,40 @@
   "metaDescription": "YesStyleでのCECILIA010の使い方：入力はReward Code欄、追加で最大5%(初回購入5%、2回目以降2%)、対象のプロモーションクーポンとはチェックアウトの表示に従って併用できます。",
   "imageFit": "contain",
   "imageAspect": "landscape",
+  "notes": [
+    {
+      "label": "Cecíliaのヒント",
+      "body": "コードの入力欄はチェックアウトの「Reward Code」にあります。ショップを開く前にCECILIA010をコピーしておくと、注文を確定するときに貼り付けるだけで済みます。",
+      "anchor": "como-funciona-o-codigo-cecilia010"
+    }
+  ],
   "editorialNote": "アフィリエイトリンク：リンクとReward Code CECILIA010を通じて、報酬を受け取る場合があります。",
-  "isNew": false
+  "isNew": false,
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-first-order-cecilia010-ja"
+    },
+    {
+      "slug": "yesstyle-valid-coupon-guide-ja"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ja"
+    },
+    {
+      "slug": "yesstyle-app-reward-code-ja"
+    },
+    {
+      "slug": "yesstyle-shipping-japan-ja"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "YesStyleで注文する予定で、ショップのクーポンに加えて少しでも割引を上乗せしたい人。",
+      "すでにクーポンを持っていて、コードをどの欄に入れるのか知りたい人。"
+    ],
+    "skipIf": [
+      "大きな割引を期待している人。CECILIA010は初回5%、2回目以降2%で、それ以上はありません。",
+      "ショップのクーポンの代わりになるコードを探している人。CECILIA010はクーポン1枚と併用するリワードコードで、クーポンの代わりにはなりません。"
+    ]
+  }
 }

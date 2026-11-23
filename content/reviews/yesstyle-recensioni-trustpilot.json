@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle ha 4,4 su Trustpilot, con oltre 104 mila recensioni e il 71% di cinque stelle. Scopri i temi dei reclami nelle recensioni negative e i limiti di un punteggio globale.",
-  "metaDescription": "YesStyle su Trustpilot a novembre 2026: punteggio 4,4 su 104 mila recensioni, 71% di cinque stelle, reclami su consegna e tracking. Scopri cosa il punteggio non mostra.",
+  "description": "YesStyle ha 4,4 su Trustpilot, con oltre 105 mila recensioni e il 71% di cinque stelle. Reclami e limiti di un punteggio globale, quando la consegna riguarda il tuo paese.",
+  "metaDescription": "YesStyle su Trustpilot: 4,4 su 105 mila recensioni, reclami sulla consegna e cosa il punteggio non mostra. Controlla la consegna nel tuo paese prima di pagare.",
   "publishedAt": "29 ottobre 2026",
   "publishedAtISO": "2026-10-29",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -33,45 +33,78 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "YesStyle ha un buon punteggio su Trustpilot, con una riserva. A novembre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle. Le recensioni negative visibili segnalano problemi di consegna internazionale e tracking, e il punteggio è globale e non distingue i paesi."
+        "YesStyle ha un 4,4 su Trustpilot, con 105.442 recensioni e il 71% di cinque stelle. Delle 40 recensioni a una stella più recenti, la metà riguardava la consegna: ordini mai arrivati, pacchi bloccati in transito o ritardi. Il punteggio mette insieme acquirenti di molti paesi, quindi controlla tempi e spese di spedizione per il tuo indirizzo prima di pagare."
       ]
     },
     {
       "heading": "Cosa misura il punteggio",
       "paragraphs": [
-        "Il TrustScore è il punteggio del profilo su Trustpilot. YesStyle aveva 4,4, con l’etichetta «Excellent», su 104.909 recensioni; 11.757 sono state pubblicate negli ultimi 12 mesi. Il profilo è rivendicato dall’azienda e ha un abbonamento a pagamento a Trustpilot, come indica la pagina stessa.",
-        "La distribuzione per stelle: 71% di cinque stelle, 18% di quattro, 3% di tre, 1% di due e 7% di una. Cinque e quattro stelle sommano la maggior parte; la quota di una stella, con il 7%, pesa più di quelle di due e tre stelle insieme, ed è lì che compaiono i reclami."
+        "Il TrustScore è il punteggio del profilo su Trustpilot. L’azienda ha rivendicato il profilo di YesStyle nel maggio 2013 e paga un abbonamento a Trustpilot, come indica la pagina stessa.",
+        "Il 7% di una stella pesa più del 4% di due e tre stelle insieme, ed è lì che compaiono i reclami. La media di 4,4 nasconde questa fascia."
       ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-        "alt": "Barre da cinque a una stella con la distribuzione delle recensioni di YesStyle su Trustpilot: 71%, 18%, 3%, 1% e 7%",
-        "caption": "Distribuzione delle recensioni di YesStyle su Trustpilot. Grafico nostro.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
+      "comparisonTable": {
+        "caption": "Indicatori del profilo YesStyle su Trustpilot, letti il 23/11/2026",
+        "headers": [
+          "Indicatore",
+          "YesStyle al 23/11/2026"
+        ],
+        "rows": [
+          [
+            "TrustScore",
+            "4,4, con l’etichetta «Excellent»"
+          ],
+          [
+            "Recensioni totali",
+            "105.442, di cui 12.070 negli ultimi 12 mesi"
+          ],
+          [
+            "Distribuzione delle stelle",
+            "5★ 71% · 4★ 18% · 3★ 3% · 2★ 1% · 1★ 7%"
+          ],
+          [
+            "Stato del profilo",
+            "Rivendicato da maggio 2013, con abbonamento a pagamento"
+          ],
+          [
+            "Origine delle recensioni",
+            "Il negozio invita i clienti a recensire dopo l’acquisto"
+          ],
+          [
+            "Risposte alle negative",
+            "99%, in genere entro 24 ore; il negozio può usare l’IA"
+          ]
+        ]
       },
       "postParagraphs": [
-        "La media riassume tutto questo in un solo numero. Per decidere, vale di più guardare cosa dicono i voti bassi e come risponde il negozio; è quello che segue."
+        "Per decidere, conviene leggere cosa dicono i voti bassi e come risponde il negozio. È quello che segue."
+      ],
+      "links": [
+        {
+          "label": "Profilo di YesStyle su Trustpilot",
+          "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+        }
       ]
     },
     {
       "heading": "Chi recensisce, e da dove",
       "paragraphs": [
-        "Il profilo, quello di www.yesstyle.com, è globale: non separa le recensioni per paese, e la pagina non dice quante provengano da ciascun paese. Il punteggio mette insieme acquirenti di paesi diversi, con spedizione, tempi e dogana diversi.",
-        "Per chi compra, questo cambia la lettura: il punteggio dice come si comporta il negozio nel complesso, non com’è la consegna al tuo indirizzo. Questo dato si trova nel checkout e nella tabella spedizioni del negozio, non su Trustpilot.",
+        "Il profilo di www.yesstyle.com è globale. Riunisce in un unico pannello acquirenti di decine di paesi, con spedizioni, tempi e dogane diversi, e non separa le recensioni per paese.",
+        "Il negozio invita i clienti a recensire dopo l’acquisto, che siano soddisfatti o no. Nel nostro campione, 30 delle 40 recensioni a cinque stelle erano inviti, e la maggior parte era breve. Le recensioni a una stella vengono soprattutto da chi ha scritto di sua iniziativa (29 su 40), e riguardano la consegna internazionale. In altre parole, gli inviti riempiono il profilo di voti alti e brevi, mentre i reclami spontanei sono quelli che raccontano i problemi di consegna.",
+        "Per te, il punteggio dice come si comporta il negozio nel complesso, non come arriva l’ordine al tuo indirizzo. Al checkout controlla tempi, spese di spedizione, tasse e dogana, e la politica di reso del tuo paese.",
         "Chi gestisce il negozio, la sede a Hong Kong e la società controllante sono in [YesStyle è affidabile?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
       ]
     },
     {
       "heading": "Cosa emerge dai reclami",
       "paragraphs": [
-        "Nelle recensioni negative visibili, i temi sono i seguenti, senza contarli né classificarli:"
+        "Abbiamo letto le 40 recensioni a una stella più recenti, e il negozio ha risposto a tutte. Per numero di casi:"
       ],
       "bullets": [
-        "Ritardo nella consegna e lunga attesa, su un pacco che arriva dall’estero.",
-        "Tracking che smette di aggiornarsi.",
-        "Pacco smarrito.",
-        "Articolo arrivato danneggiato.",
-        "Ordine bloccato in elaborazione, prima della spedizione."
+        "Consegna, 20 su 40: ordine mai arrivato o segnato come consegnato senza esserlo, pacco fermo o smarrito durante il trasporto, ritardi oltre il termine indicato sul sito e ordine non spedito dopo settimane. Più persone raccontano che l’assistenza le rimanda al corriere.",
+        "Prodotto, 9 su 40: articolo mancante, danneggiato, con aspetto di usato, incompleto, scaduto o difettoso.",
+        "Disponibilità, 4 su 40: articolo esaurito dopo l’ordine, con attesa o annullamento.",
+        "Resi, 2 su 40: reso rifiutato per gusto personale, o rimborso solo in credito sul negozio.",
+        "Altro, 5 su 40: programma di influencer, lancio esaurito sul sito, app che si blocca al pagamento, verifica del pagamento e una recensione positiva segnata con una stella."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -81,87 +114,50 @@
         "aspectRatio": 1.7778
       },
       "postParagraphs": [
-        "Questi racconti suggeriscono controlli pratici: tempi al checkout, tracking dopo la spedizione e condizioni dell’imballo all’arrivo."
+        "Questi racconti indicano cosa controllare prima di comprare: i tempi al checkout, il tracking dopo la spedizione e lo stato dell’imballo all’arrivo."
       ]
     },
     {
       "heading": "Cosa emerge dagli elogi",
       "paragraphs": [
-        "Nelle recensioni positive, i temi sono altri:"
-      ],
-      "bullets": [
-        "Prezzi bassi e promozioni frequenti.",
-        "Ampia selezione di bellezza coreana.",
-        "Imballo curato.",
-        "Avvisi di spedizione utili.",
-        "Consegna che a volte arriva prima del previsto.",
-        "App e sito facili da usare."
+        "Abbiamo letto anche 40 recensioni a cinque stelle, le più recenti. Trenta erano inviti del negozio, e la maggior parte aveva poche righe. Lodano prodotti originali e autentici, varietà, prezzi e sconti, imballo ben protetto e una consegna più veloce del previsto.",
+        "Il riassunto automatico di Trustpilot, scritto con l’IA su 6.462 recensioni recenti, va nella stessa direzione: prodotti autentici, prezzo e imballo. È un riassunto di Trustpilot, non nostro, e lo usiamo solo come supporto."
       ],
       "postParagraphs": [
-        "Elogio e reclamo parlano di momenti diversi dell’acquisto: l’elogio, del catalogo, del prezzo e del pacco arrivato; il reclamo, del pacco che ha tardato o non è arrivato. Il punteggio li mette insieme."
+        "Elogio e reclamo parlano di momenti diversi dell’acquisto: l’elogio del catalogo, del prezzo e del pacco arrivato; il reclamo del pacco in ritardo o mai arrivato. Il punteggio li unisce."
       ]
     },
     {
       "heading": "Cosa risponde il negozio",
       "paragraphs": [
-        "Il profilo dice che YesStyle ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e avverte che la risposta può usare l’intelligenza artificiale.",
-        "Rispondere non significa risolvere. Questo articolo non valuta il testo delle risposte, quindi non dice se risolvano il problema di chi ha protestato. Prima di comprare, conviene aprire alcune recensioni da una stella sul profilo e leggere la risposta del negozio sotto ciascuna, soprattutto quelle su tracking e smarrimento."
-      ]
-    },
-    {
-      "heading": "Cosa non si può concludere",
-      "paragraphs": [
-        "Il punteggio risponde a una domanda, non a tutte. Quattro cose che il punteggio non sostiene:"
-      ],
-      "bullets": [
-        "Che il punteggio valga per il tuo paese: il profilo è globale e non separa le recensioni per provenienza.",
-        "Che il punteggio misuri il prodotto: unisce prodotto, consegna e assistenza in un’unica recensione, e i temi di reclamo riguardano la consegna e l’elaborazione dell’ordine.",
-        "Che il negozio risolva i reclami: il profilo mostra la quota di risposte, il 98%, e i tempi; questo articolo non valuta il testo delle risposte.",
-        "Cosa dice il riassunto IA di Trustpilot: la pagina riporta un riassunto generato dall’intelligenza artificiale, e questo articolo non lo usa come fonte."
-      ]
-    },
-    {
-      "heading": "La nostra verifica",
-      "paragraphs": [
-        "I dati di Trustpilot vengono dal profilo pubblico di YesStyle, senza login, al 28 ottobre 2026: il punteggio, il numero di recensioni, la distribuzione per stelle, la quota di risposte e le recensioni visibili, da cui sono usciti i temi. A novembre punteggio, numero di recensioni e distribuzione per stelle sono stati aggiornati.",
-        "Nell’app del negozio, il checkout ha il campo per il codice ricompensa.",
-        "I numeri di Trustpilot cambiano ogni mese; controlla il profilo il giorno dell’acquisto."
-      ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-        "alt": "Telefono con il profilo di YesStyle su Trustpilot: punteggio 4,4, distribuzione delle stelle e 98% delle recensioni negative con risposta",
-        "caption": "Profilo di YesStyle su Trustpilot, versione mobile. Screenshot del sito, con due parti ingrandite.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
-      "links": [
-        {
-          "label": "Profilo di YesStyle su Trustpilot",
-          "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-        }
+        "Il profilo dice che YesStyle ha risposto al 99% delle recensioni negative, di solito entro 24 ore, e avverte che le risposte possono usare l’intelligenza artificiale.",
+        "Rispondere non prova che il problema sia risolto. Prima di comprare, apri alcune recensioni a una stella sul profilo e guarda come ha risposto il negozio, soprattutto nei casi di tracking fermo e pacchi smarriti."
       ]
     },
     {
       "heading": "Ci si può fidare di YesStyle in base a Trustpilot?",
       "paragraphs": [
-        "Sì, con una riserva sull’ambito: in base a Trustpilot, il punteggio è buono (TrustScore 4,4, su 104.909 recensioni, con il 71% di cinque stelle e il 7% di una). Per valutare l’assistenza, leggi anche reclami e risposte recenti nel profilo: la quota di risposte non misura la risoluzione dei problemi.",
-        "La riserva riguarda l’ambito, non il punteggio. Il profilo è globale, non separa i paesi, e i reclami riguardano la consegna internazionale: ritardo, tracking e smarrimento. Trustpilot mostra come si comporta il negozio nel complesso; spedizione e tempi per il tuo indirizzo sono nel checkout."
-      ]
+        "Sì, con una riserva sull’ambito. Il punteggio è buono: TrustScore 4,4 su 105.442 recensioni, con il 71% di cinque stelle. Descrive il negozio nel suo insieme. Per il tuo acquisto, leggi le recensioni a una stella più recenti e controlla tempi e spese di spedizione per il tuo paese al checkout.",
+        "La riserva riguarda l’ambito. Il profilo è globale, e i reclami riguardano la consegna internazionale: ritardi, tracking fermo e pacchi smarriti. Spese e tempi di spedizione per il tuo indirizzo compaiono solo al checkout."
+      ],
+      "emphasis": "Un 4,4 globale dice come il negozio gestisce la maggior parte degli ordini, ma nulla del tuo indirizzo, e la consegna è proprio ciò di cui si lamentano le recensioni."
     },
     {
       "heading": "Prima di pagare",
       "paragraphs": [
-        "Nelle recensioni negative visibili, i problemi riguardavano consegna e tracking. Prima di pagare, controlla spese di spedizione e tempi per il tuo indirizzo nel checkout. Importi e conteggio dei tempi per paese sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
-        "Dopo il pagamento, conserva il numero d’ordine e il codice di tracking: servono per aprire una richiesta all’assistenza se il pacco ritarda o il tracking si ferma.",
+        "Nelle 40 recensioni a una stella che abbiamo letto, consegna e tracking compaiono in 20. Prima di pagare, controlla spese di spedizione e tempi per il tuo indirizzo al checkout. Importi e conteggio dei tempi sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+        "Dopo il pagamento, conserva il numero d’ordine e il codice di tracking: servono per aprire una richiesta all’assistenza se il pacco ritarda o il tracking si blocca.",
         "Se hai deciso di comprare, la pagina dei [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle) di questo sito porta al negozio. Il link è di affiliazione: l’acquisto può generare una commissione per Em Casa com Cecília, senza costi aggiuntivi per te."
       ]
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "YesStyle ha un buon punteggio su Trustpilot? Sì. Il TrustScore era 4,4, con l’etichetta «Excellent», su 104.909 recensioni; il 71% dava cinque stelle e il 7% una.",
-        "Quali sono i reclami più comuni su YesStyle? Nelle recensioni negative, i temi riguardano la consegna internazionale: ritardo e lunga attesa, tracking fermo, pacco smarrito, articolo danneggiato e ordine bloccato in elaborazione.",
-        "YesStyle risponde alle recensioni negative? Secondo il profilo su Trustpilot, il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la risposta può usare l’intelligenza artificiale."
+        "YesStyle ha un buon punteggio su Trustpilot? Sì. Il TrustScore è 4,4, con l’etichetta «Excellent», su 105.442 recensioni; il 71% dà cinque stelle e il 7% una.",
+        "Quali sono i reclami più comuni su YesStyle? Nelle 40 recensioni a una stella che abbiamo letto, 20 riguardano la consegna: ordini mai arrivati, pacchi fermi, ritardi e ordini non spediti.",
+        "YesStyle risponde alle recensioni negative? Secondo il profilo su Trustpilot, il negozio ha risposto al 99% delle recensioni negative, di solito entro 24 ore, e le risposte possono usare l’IA.",
+        "Il punteggio di Trustpilot vale per il mio paese? Non direttamente. Il profilo è globale e non separa le recensioni per paese: controlla quindi tempi e spese di spedizione per il tuo indirizzo al checkout.",
+        "Qual è il codice ricompensa di YesStyle? CECILIA010 dà il 5% sul primo acquisto e il 2% su quelli successivi, senza data di fine. Va nel campo del codice ricompensa al checkout e si somma a uno sconto del negozio."
       ]
     }
   ],
@@ -184,5 +180,15 @@
     {
       "slug": "black-friday-yesstyle-date-e-coupon"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Vuoi una lettura onesta del punteggio, con i reclami sulla consegna bene in vista, prima di decidere.",
+      "Userai il codice ricompensa CECILIA010 e controllerai spese e tempi di spedizione al checkout prima di pagare."
+    ],
+    "skipIf": [
+      "Ti serve una consegna con tempi garantiti: la metà delle recensioni a una stella che abbiamo letto parlava di ritardi, pacchi fermi o smarrimenti.",
+      "Preferisci affidarti alla risposta del negozio: il 99% delle negative ha una risposta, ma rispondere non prova che il problema sia risolto."
+    ]
+  }
 }
