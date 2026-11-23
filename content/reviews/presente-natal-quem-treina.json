@@ -51,7 +51,15 @@
       "paragraphs": [
         "Coqueteleira e camiseta servem para quem não sabe o que a pessoa toma. A [coqueteleira de 700 ml da Probiótica](https://www.probiotica.com.br/coqueteleira-700-ml--preta/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), nas cores preta, rosa e incolor, sai por R$ 13,70, de R$ 29,90. A [rosa de 700 ml da Max Titanium](https://www.maxtitanium.com.br/coqueteleira-rosa-max-titanium/p) custa R$ 13,29, e a [de 600 ml da Black Skull](https://www.blackskullusa.com.br/coqueteleira-blackskull/p), R$ 14,90, de R$ 19,90.",
         "A [camiseta 100% Algodão da Black Skull](https://www.blackskullusa.com.br/camiseta-100-black-skull/p) custa R$ 78,90. A [Camiseta Branca da Probiótica](https://www.probiotica.com.br/camiseta-branca/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) sai por R$ 69,90. Nas duas, confira o tamanho na tabela de medidas da página do produto."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-700ml-probiotica.webp",
+        "alt": "Coqueteleira de 700 ml da Probiótica na cor preta, sobre fundo branco",
+        "caption": "Coqueteleira 700 ml da Probiótica. Imagem: site da loja.",
+        "href": "https://www.probiotica.com.br/coqueteleira-700-ml--preta/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
     },
     {
       "heading": "Fitness feminino",

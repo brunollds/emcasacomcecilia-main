@@ -138,7 +138,15 @@
         "As três embalagens do [BCAA 2400](https://www.maxtitanium.com.br/bcaa-2400mg-pote-com-200-capsulas/p) têm a mesma tabela. O que muda é o número de porções, e por isso o preço de cada uma: o pote de 60 tem 15 porções e é o mais caro por porção, o de 100 tem 25, e o de 200 tem 50.",
         "A loja informa: a descrição do produto traz o selo “PURE AMINO ACID by Ajinomoto Co.®”.",
         "Se a decisão for pelo custo e o pote de 200 não estiver à venda, o de 100 cápsulas é o seguinte do quadro."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-bcaa-2400-200-caps.webp",
+        "alt": "Pote do BCAA 2400 da Max Titanium com 200 cápsulas, em foto oficial",
+        "caption": "BCAA 2400, 200 cápsulas. Foto oficial da Max Titanium.",
+        "href": "https://www.maxtitanium.com.br/bcaa-2400mg-pote-com-200-capsulas/p",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
     },
     {
       "heading": "BCAA 4:1:1 em pó: porção, preparo e sabor",

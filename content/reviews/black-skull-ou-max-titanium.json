@@ -150,6 +150,15 @@
           "objectFit": "contain",
           "aspectRatio": 0.7692,
           "store": "max-titanium"
+        },
+        {
+          "src": "/images/reviews/black-skull/black-skull-ou-max-titanium-whey-80-hd-refil.webp",
+          "alt": "Refil do Whey 80% HD de 900 g da Black Skull, sabor chocolate, em foto oficial",
+          "caption": "Whey 80% HD, refil de 900 g. Foto oficial da Black Skull.",
+          "href": "https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p",
+          "store": "black-skull",
+          "objectFit": "contain",
+          "aspectRatio": 1
         }
       ],
       "links": [

@@ -261,7 +261,15 @@
           "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
           "sponsored": true
         }
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-whey-pro-1kg.webp",
+        "alt": "Pote do Whey Pro de 1 kg da Max Titanium, sabor baunilha, em foto oficial",
+        "caption": "Whey Pro, 1 kg. Foto oficial da Max Titanium.",
+        "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
     },
     {
       "heading": "IsoWhey: o isolado, com menos carboidrato",

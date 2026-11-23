@@ -92745,13 +92745,13 @@ export const reviewsData: unknown[] = [
           "**Produto:** Whey Protein, com 36,7%."
         ],
         "postParagraphs": [
-          "O atraso na entrega é o problema que mais se repete, em quase 3 de cada 10 reclamações. O Whey Protein é só o produto mais citado: os números do perfil não dizem que ele dê mais problema que os outros. O quadro abaixo é de uma leitura anterior à da lista, por isso os percentuais variam em décimos."
+          "O atraso na entrega é o problema que mais se repete, em quase 3 de cada 10 reclamações. O Whey Protein é só o produto mais citado: os números do perfil não dizem que ele dê mais problema que os outros."
         ],
-        "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas.webp",
-        "imageAlt": "Principais problemas comentados no perfil Max Titanium Suplementos no Reclame Aqui: categoria Suplementos Alimentares com 68,55%, atraso na entrega com 29,43% e Whey Protein com 37,17%",
-        "imageCaption": "Quadro de principais problemas da aba Geral, de uma leitura anterior à da lista: os percentuais variam em décimos. O marca-texto amarelo é nosso.",
+        "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-principais-problemas-2211.webp",
+        "imageAlt": "Principais problemas comentados no perfil Max Titanium Suplementos no Reclame Aqui: categoria Suplementos Alimentares com 67,61%, atraso na entrega com 29,12% e Whey Protein com 36,7%",
+        "imageCaption": "Quadro de principais problemas da aba Geral do Reclame Aqui.",
         "imageFit": "contain",
-        "imageAspectRatio": 1.2292
+        "imageAspectRatio": 1.9481
       },
       {
         "heading": "Como a Max Titanium responde e o que conferir antes de comprar",
@@ -97231,6 +97231,15 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.7692,
             "store": "max-titanium"
+          },
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-max-titanium-whey-80-hd-refil.webp",
+            "alt": "Refil do Whey 80% HD de 900 g da Black Skull, sabor chocolate, em foto oficial",
+            "caption": "Whey 80% HD, refil de 900 g. Foto oficial da Black Skull.",
+            "href": "https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p",
+            "store": "black-skull",
+            "objectFit": "contain",
+            "aspectRatio": 1
           }
         ],
         "links": [
@@ -145277,7 +145286,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Coqueteleira e camiseta servem para quem não sabe o que a pessoa toma. A [coqueteleira de 700 ml da Probiótica](https://www.probiotica.com.br/coqueteleira-700-ml--preta/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), nas cores preta, rosa e incolor, sai por R$ 13,70, de R$ 29,90. A [rosa de 700 ml da Max Titanium](https://www.maxtitanium.com.br/coqueteleira-rosa-max-titanium/p) custa R$ 13,29, e a [de 600 ml da Black Skull](https://www.blackskullusa.com.br/coqueteleira-blackskull/p), R$ 14,90, de R$ 19,90.",
           "A [camiseta 100% Algodão da Black Skull](https://www.blackskullusa.com.br/camiseta-100-black-skull/p) custa R$ 78,90. A [Camiseta Branca da Probiótica](https://www.probiotica.com.br/camiseta-branca/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) sai por R$ 69,90. Nas duas, confira o tamanho na tabela de medidas da página do produto."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/presentes/presente-natal-quem-treina-coqueteleira-700ml-probiotica.webp",
+          "alt": "Coqueteleira de 700 ml da Probiótica na cor preta, sobre fundo branco",
+          "caption": "Coqueteleira 700 ml da Probiótica. Imagem: site da loja.",
+          "href": "https://www.probiotica.com.br/coqueteleira-700-ml--preta/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       },
       {
         "heading": "Fitness feminino",
@@ -209908,7 +209925,15 @@ export const reviewsData: unknown[] = [
             "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
             "sponsored": true
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-whey-pro-1kg.webp",
+          "alt": "Pote do Whey Pro de 1 kg da Max Titanium, sabor baunilha, em foto oficial",
+          "caption": "Whey Pro, 1 kg. Foto oficial da Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/whey-pro-1kg/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       },
       {
         "heading": "IsoWhey: o isolado, com menos carboidrato",
@@ -293506,7 +293531,15 @@ export const reviewsData: unknown[] = [
           "O kit de Whey Pro com Creatina 500 g lidera em reais e em percentual. Ele também custa R$ 10,00 menos que o kit de Whey Pro 1 kg com Creatina 300 g, que sai a R$ 169,80, e traz o pote maior de creatina. O preço riscado do kit, R$ 241,80, mede contra o preço antigo: o que conta é a soma dos avulsos de hoje.",
           "Nos outros cinco kits, a diferença é de R$ 10,00 a R$ 13,39. É um desconto pequeno, que vale se o whey do kit é o que você já ia comprar.",
           "Os packs do mesmo item também compensam: o Kit 2x Whey Pro 1 kg sai por R$ 189,90 contra R$ 219,80 dos dois avulsos, R$ 29,90 a menos, e o Pack 2x Creatina 500 g, por R$ 119,80 contra R$ 139,80, R$ 20,00 a menos."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/kit-max-titanium-quando-compensa-whey-pro-creatina-500g.webp",
+          "alt": "Kit da Max Titanium com o Whey Pro de 1 kg sabor baunilha e a Creatina de 500 g, em foto oficial",
+          "caption": "Kit Whey Pro 1 kg + Creatina 500 g. Foto oficial da Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/kit-whey-pro-creatina-500g/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       },
       {
         "heading": "Kits que custam o mesmo que os avulsos",
@@ -293814,7 +293847,15 @@ export const reviewsData: unknown[] = [
           "As três embalagens do [BCAA 2400](https://www.maxtitanium.com.br/bcaa-2400mg-pote-com-200-capsulas/p) têm a mesma tabela. O que muda é o número de porções, e por isso o preço de cada uma: o pote de 60 tem 15 porções e é o mais caro por porção, o de 100 tem 25, e o de 200 tem 50.",
           "A loja informa: a descrição do produto traz o selo “PURE AMINO ACID by Ajinomoto Co.®”.",
           "Se a decisão for pelo custo e o pote de 200 não estiver à venda, o de 100 cápsulas é o seguinte do quadro."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/bcaa-max-titanium-qual-escolher-bcaa-2400-200-caps.webp",
+          "alt": "Pote do BCAA 2400 da Max Titanium com 200 cápsulas, em foto oficial",
+          "caption": "BCAA 2400, 200 cápsulas. Foto oficial da Max Titanium.",
+          "href": "https://www.maxtitanium.com.br/bcaa-2400mg-pote-com-200-capsulas/p",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       },
       {
         "heading": "BCAA 4:1:1 em pó: porção, preparo e sabor",
