@@ -26,19 +26,8 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-  "pros": [
-    "Routine breve: tre prodotti e circa 15 minuti, quasi tutti passati ad aspettare con la patch sul viso",
-    "Patch in idrogel freschissima, con superficie texturizzata che aiuta a non scivolare",
-    "Crema con consistenza da unguento che si stende facilmente e lascia un tocco vellutato",
-    "Maschera labbra con spatolina e un profumino dolce che, per me, non stufa",
-    "Prodotti coreani venduti dalla stessa YesStyle, che ne dichiara l'originalità, con il CECILIA010 che aggiunge sconto nel campo Reward Code"
-  ],
-  "cons": [
-    "PDRN e retinale agiscono gradualmente: Abib indica la crema per fermezza e rughe sottili, cioè un lavoro a lungo termine.",
-    "Il retinale richiede la protezione solare di giorno: chi, come me, non l'ha mai usata dovrà iniziare",
-    "La prima volta ho avuto dei dubbi su quale fosse il lato giusto della patch",
-    "Acquisto internazionale: costi e tempi di consegna dipendono dalla destinazione"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Risposta rapida",
@@ -116,7 +105,7 @@
       "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
       "imageAlt": "Cecília con in mano una patch in idrogel rosata di Abib e il barattolo aperto nell'altra mano",
       "imageCaption": "La patch in idrogel di Abib si presenta in un barattolo da 60 unità ed è freschissima al contatto con la pelle.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Booster Crème 2.5: consistenza da unguento che diventa velluto",
@@ -138,7 +127,7 @@
       "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
       "imageAlt": "Cecília con in mano il tubetto dell'Abib PDRN Volume Fill-it Booster Crème 2.5",
       "imageCaption": "Il tubetto da 30 ml del Booster Crème 2.5: esce come un unguento e lascia la pelle con un tocco vellutato.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Lip Mask Glazed Jelly: profumino dolce che non stufa",
@@ -157,7 +146,7 @@
       "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
       "imageAlt": "Cecília che fa il labbruccio e tiene in mano il barattolo della maschera labbra Abib Glazed Jelly",
       "imageCaption": "La Lip Mask Glazed Jelly, da 11 g, ha una consistenza in gel e un profumino dolce.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "PDRN e retinale: cosa sono e cosa aspettarsi",
@@ -222,7 +211,8 @@
         "Consistenza e luminosità della pelle di viso e collo;",
         "Se il retinale causerà qualche irritazione con l'uso continuato;",
         "Se la lip mask mantiene l'idratazione delle labbra durante la notte."
-      ]
+      ],
+      "emphasis": "Mi piace questa routine perché sta in una sera qualsiasi, senza la maratona da dieci passaggi. Cosa fa per la mia pelle lo dirò solo dopo settimane di utilizzo."
     },
     {
       "heading": "Domande frequenti",
@@ -231,7 +221,7 @@
         "Che cos'è il PDRN? È un ingrediente fatto di frammenti di DNA, molto usato nei cosmetici coreani che, secondo i marchi, promettono fermezza. Nella lip mask di Abib, il marchio informa un'origine vegetale (centella asiatica e ginkgo biloba).",
         "Il retinale è la stessa cosa dell'acido retinoico? No. L'ingrediente della patch e della crema è il retinale (retinaldeide), un derivato della vitamina A che la pelle converte in acido retinoico. Per questo l'azione è più graduale, e richiede la protezione solare durante il giorno.",
         "La lip mask di Abib ha un odore forte? Ha un profumino dolce. Sono sensibile agli odori forti, e questo non mi ha dato fastidio.",
-        "Dove uso il codice CECILIA010? Nel campo Reward Code del checkout. Dà il 5% sul primo acquisto e il 2% sui successivi, e si può usare insieme a un coupon inserito nel campo Coupon Code, secondo le regole di quel coupon."
+        "Dove uso CECILIA010, il codice ricompensa di YesStyle? CECILIA010 dà il 5% sul primo acquisto e il 2% sui successivi, nel campo Reward Code del checkout. Si può sommare a un coupon di YesStyle inserito nel campo Coupon Code, secondo le regole di quel coupon."
       ]
     }
   ],
@@ -256,5 +246,15 @@
     }
   ],
   "translationKey": "yesstyle-skincare-30",
-  "hideFromPortugueseListings": true
+  "hideFromPortugueseListings": true,
+  "decision": {
+    "takeIf": [
+      "Non hai mai costruito una routine di skincare e vuoi iniziare in piccolo: la mia erano tre prodotti e circa 15 minuti, quasi tutti di attesa.",
+      "Ricevi in un paese dove YesStyle consegna e ti vanno bene la spedizione e i tempi internazionali."
+    ],
+    "skipIf": [
+      "Il tuo paese non è nell'elenco delle consegne di YesStyle: controlla prima di preparare il carrello.",
+      "Vuoi sapere cosa fa la routine per la tua pelle: questo è solo il primo utilizzo, e i risultati devono ancora arrivare."
+    ]
+  }
 }

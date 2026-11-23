@@ -4,7 +4,7 @@
   "locale": "it",
   "translationKey": "yesstyle-vs-alternatives",
   "title": "YesStyle o Stylevana: resi, spedizione gratuita e codice ricompensa a confronto, con Olive Young, StyleKorean e Jolse",
-  "seoTitle": "YesStyle o Stylevana: resi, spedizione gratuita e codice ricompensa",
+  "seoTitle": "YesStyle o Stylevana: resi e codice ricompensa",
   "type": "Confronto tra negozi",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -160,7 +160,8 @@
       "bullets": [
         "Per decidere: confronta il termine e ciò che accetta ogni negozio nella tabella dei resi qui sopra.",
         "In qualsiasi paese: prima di chiudere l'ordine, controlla nella pagina ufficiale di ogni negozio la spedizione, chi paga le imposte e cosa accetta indietro."
-      ]
+      ],
+      "emphasis": "Il paese conta più del prezzo: parti dal negozio che spedisce al tuo indirizzo e lascia che la tabella dei resi decida il pareggio."
     },
     {
       "heading": "Domande frequenti",
@@ -169,7 +170,7 @@
         "YesStyle è uguale a SHEIN? No: YesStyle non compare nell'elenco dei marchi del SHEIN Group e dice di appartenere a YesAsia Holdings, di Hong Kong.",
         "Qual è il limite d'ordine di StyleKorean? US$ 500 per ordine, spedizione esclusa; oltre, il negozio chiede di dividerlo in due ordini.",
         "Posso restituire un prodotto di bellezza aperto? Non per ripensamento, in nessuno dei cinque negozi; Stylevana accetta il ripensamento solo con il prodotto nuovo, sigillato e mai usato.",
-        "Dove va il codice ricompensa di YesStyle? CECILIA010 va nel campo Reward Code del checkout, non in quello dei coupon promozionali, e si somma ai coupon del negozio. I coupon del momento sono nella pagina YesStyle di questo sito."
+        "Qual è il codice ricompensa di YesStyle? CECILIA010 dà fino al 5% sul primo acquisto e il 2% sui successivi, e va in un campo a parte, Reward Code, al checkout. Si somma a un coupon del negozio, e i coupon del momento sono nella pagina YesStyle di questo sito."
       ]
     }
   ],
@@ -196,5 +197,15 @@
       "slug": "codice-ricompensa-yesstyle-cecilia010"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-09",
+  "decision": {
+    "takeIf": [
+      "Scegli YesStyle o Stylevana se vuoi 14 giorni dalla ricezione per chiedere il reso: entrambe concedono questo termine.",
+      "Considera Olive Young Global se preferisci che un reso approvato sia rimborsato sul metodo di pagamento, con la spedizione di ritorno pagata dal negozio. Accetta solo articoli difettosi o sbagliati."
+    ],
+    "skipIf": [
+      "Lascia stare tutti e cinque se pensi di restituire per ripensamento un prodotto di bellezza aperto: nessuno lo accetta.",
+      "Lascia stare Jolse se ti servono più di 7 giorni per chiedere il reso: chiede foto e accetta solo articoli difettosi, sbagliati o mancanti."
+    ]
+  }
 }

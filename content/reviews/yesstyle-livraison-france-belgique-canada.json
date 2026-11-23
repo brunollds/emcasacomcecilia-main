@@ -204,7 +204,8 @@
           "label": "Voir le coupon YesStyle du jour et le code récompense CECILIA010",
           "href": "/fr/coupons/yesstyle"
         }
-      ]
+      ],
+      "emphasis": "Avant de payer, la grille de livraison donne déjà le délai et les frais pour les trois pays. Ce qui pèse le plus dans le choix, c'est la taxe : en France et en Belgique, la TVA est déjà dans le prix ; au Canada, la page de YesStyle ne dit pas tout."
     },
     {
       "heading": "Questions fréquentes",
@@ -218,7 +219,7 @@
         "Comment retourner un produit YesStyle ? Demandez un numéro de RMA dans les 14 jours suivant la réception et expédiez le colis dans les 30 jours suivant l'émission du RMA. Selon la politique de la boutique, les produits de beauté ouverts et les compléments alimentaires ne sont pas repris, et une réaction cutanée ne donne pas droit à un remboursement.",
         "YesStyle livre-t-il dans toute la France ? Non : la livraison ne couvre pas la Guyane, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin, les Terres australes françaises, la Polynésie française, la Nouvelle-Calédonie ni Wallis-et-Futuna.",
         "Pourquoi le délai change-t-il d'une commande à l'autre ? Parce qu'il additionne la disponibilité des articles, qui peut aller jusqu'à 30 jours ouvrés, au délai d'expédition, et la commande peut partir en plusieurs envois, et en un seul envoi seulement quand le dernier article devient disponible.",
-        "Où trouver les coupons et le code récompense de YesStyle ? Sur la page YesStyle de ce site, avec les coupons du moment et le code récompense CECILIA010, qui se saisit dans le champ « Reward Code »."
+        "Quel est le code récompense de YesStyle ? CECILIA010 donne jusqu'à 5 % sur le premier achat et 2 % sur les suivants, et se saisit dans un champ à part, Reward Code, au paiement. Il se cumule avec un coupon de la boutique, et les coupons du moment sont sur la page YesStyle de ce site."
       ]
     }
   ],
@@ -241,5 +242,15 @@
     {
       "slug": "code-recompense-yesstyle-cecilia010"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Commandez depuis la France ou la Belgique si vous voulez la TVA déjà comprise dans le prix, avec la taxe douanière de l'UE réglée pour l'instant par YesStyle.",
+      "Commandez depuis le Canada si vous pouvez attendre 7 à 14 jours ouvrés : c'est le délai le plus court des trois pays."
+    ],
+    "skipIf": [
+      "Passez votre tour si vous habitez en Guyane, en Polynésie française ou en Nouvelle-Calédonie : la livraison ne couvre pas ces territoires.",
+      "Au Canada, passez votre tour si vous voulez connaître la taxe à l'avance : la page de YesStyle ne parle ni de la TPS fédérale ni des frais du transporteur à la livraison."
+    ]
+  }
 }

@@ -68,12 +68,12 @@
           [
             "Avaliações",
             "137",
-            "104.972"
+            "105.442"
           ],
           [
             "Nos últimos 12 meses",
             "45",
-            "11.618"
+            "12.070"
           ],
           [
             "5 estrelas",
@@ -245,15 +245,6 @@
       ]
     },
     {
-      "heading": "O que não dá para concluir",
-      "bullets": [
-        "**Com que frequência um pedido dá errado:** o Trustpilot mostra quem escreveu, e não o total de pedidos.",
-        "**Qual país corre mais risco:** as queixas vêm dos EUA, do Canadá, do Reino Unido, da Itália, da Alemanha, da Espanha, dos Emirados e da Arábia Saudita, entre outros, em número pequeno demais para comparar.",
-        "**Se o atendimento melhorou com as respostas no Trustpilot:** o perfil começou a responder há pouco tempo.",
-        "**Se ela é mais ou menos segura que qualquer outra loja:** a comparação aqui é só com a YesStyle."
-      ]
-    },
-    {
       "heading": "Antes de pagar",
       "paragraphs": [
         "Se o produto que você quer só está na StyleKorean, ou sai bem mais barato nela, confira nesta ordem:"
@@ -302,7 +293,8 @@
           "objectFit": "square",
           "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
         }
-      ]
+      ],
+      "emphasis": "Uma nota baixa não prova que o seu pedido vai dar errado, mas as queixas da StyleKorean se repetem nos mesmos pontos: entrega e imposto. Se a economia é pequena, não vale o risco."
     },
     {
       "heading": "E no Brasil?",
@@ -320,6 +312,7 @@
         "Por que cobraram imposto na entrega? Porque, fora dos EUA e do Canadá, a loja deixa os encargos fora do preço e por conta do cliente, e eles podem ser cobrados antes da entrega.",
         "O que acontece se eu recusar o pacote? Se a recusa for por questão de alfândega, como imposto não pago, a política da loja exclui reembolso e reenvio.",
         "Consigo reembolso na StyleKorean? A política prevê reembolso em pontos da loja, com validade de 6 meses, ou na forma de pagamento. Para esta última, menciona 2 a 14 dias úteis. Há avaliadores que relatam demora ou falta de reembolso.",
+        "Qual é o código de recompensa da YesStyle? O CECILIA010 dá 5% extra na primeira compra e 2% nas seguintes, sem data de fim. Ele vai no campo Reward Code do checkout e soma com um cupom da própria YesStyle.",
         "Tem código da StyleKorean aqui? Não. O CECILIA010 é só da YesStyle e não funciona na StyleKorean."
       ]
     }
@@ -358,5 +351,5 @@
       "slug": "yesstyle-entrega-no-brasil-e-portugal"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

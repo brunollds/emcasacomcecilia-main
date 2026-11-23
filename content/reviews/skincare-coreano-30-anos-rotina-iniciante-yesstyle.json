@@ -3,8 +3,8 @@
   "slug": "skincare-coreano-30-anos-rotina-iniciante-yesstyle",
   "locale": "pt",
   "translationKey": "yesstyle-skincare-30",
-  "title": "Skincare Coreano aos 30 Anos: Testei uma Rotina de Iniciante com a Abib da YesStyle",
-  "seoTitle": "Skincare Coreano aos 30: Rotina Iniciante com Abib (Testei)",
+  "title": "Skincare coreano aos 30 anos: testei uma rotina de iniciante com a Abib da YesStyle",
+  "seoTitle": "Skincare coreano aos 30: rotina de iniciante com Abib",
   "type": "Primeiras Impressões",
   "category": "produtos-experiencias",
   "reviewKind": "editorial",
@@ -27,19 +27,8 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-  "pros": [
-    "Rotina curta: três produtos e uns 15 minutos, quase todos de espera com o adesivo no rosto",
-    "Adesivo de hidrogel geladinho, com superfície texturizada que ajuda a não escorregar",
-    "Creme com textura de pomada que espalha fácil e deixa um toque aveludado",
-    "Máscara labial com espátula e cheirinho de doce que, para mim, não enjoou",
-    "Produtos coreanos vendidos pela própria YesStyle, que declara a originalidade, com o CECILIA010 somando desconto no campo Reward Code"
-  ],
-  "cons": [
-    "PDRN e retinal agem de forma gradual: a Abib indica o creme para firmeza e linhas finas, um trabalho de longo prazo.",
-    "O retinal pede protetor solar de dia: quem, como eu, nunca usou vai ter que começar",
-    "Na primeira vez, fiquei na dúvida sobre o lado certo do adesivo",
-    "Compra internacional: frete e prazo de entrega variam conforme o destino"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Resposta rápida",
@@ -117,7 +106,7 @@
       "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
       "imageAlt": "Cecília segurando um adesivo de hidrogel rosado da Abib com o pote aberto na outra mão",
       "imageCaption": "O adesivo de hidrogel da Abib vem num pote com 60 unidades e é geladinho ao encostar na pele.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Booster Crème 2.5: textura de pomada que vira veludo",
@@ -139,7 +128,7 @@
       "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
       "imageAlt": "Cecília segurando a bisnaga do Abib PDRN Volume Fill-it Booster Crème 2.5",
       "imageCaption": "A bisnaga de 30 ml do Booster Crème 2.5: sai como pomada e deixa a pele com toque aveludado.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Lip Mask Glazed Jelly: cheirinho de doce que não enjoa",
@@ -158,7 +147,7 @@
       "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
       "imageAlt": "Cecília fazendo biquinho e segurando o pote da máscara labial Abib Glazed Jelly",
       "imageCaption": "A Lip Mask Glazed Jelly, de 11 g, tem textura de gel e cheirinho de doce.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "PDRN e retinal: o que são e o que esperar",
@@ -223,7 +212,8 @@
         "Textura e viço da pele do rosto e do pescoço;",
         "Se o retinal vai dar alguma irritação com o uso contínuo;",
         "Se a lip mask segura a hidratação dos lábios durante a noite."
-      ]
+      ],
+      "emphasis": "Gostei desta rotina porque ela cabe numa noite comum, sem a maratona de dez passos. O que ela faz pela minha pele eu só digo depois de semanas de uso."
     },
     {
       "heading": "Perguntas frequentes",
@@ -233,7 +223,7 @@
         "Retinal é a mesma coisa que ácido retinoico? Não. O ingrediente do adesivo e do creme é retinal (retinaldeído), um derivado da vitamina A que a pele converte em ácido retinoico. Por isso a ação é mais gradual, e ele pede protetor solar durante o dia.",
         "A lip mask da Abib tem cheiro forte? Tem cheirinho de doce. Eu tenho sensibilidade a cheiros fortes, e esse não me incomodou.",
         "A YesStyle entrega no Brasil? Não: a entrega ao Brasil está suspensa no site e no app. Para taxas alfandegárias cobradas na chegada, a loja prevê reembolso em crédito para pedidos abaixo de US$ 1.000, conforme a política dela.",
-        "Onde uso o código CECILIA010? No campo Reward Code do checkout. Ele dá 5% na primeira compra e 2% nas seguintes, e pode ser usado junto com um cupom do campo Coupon Code, conforme as regras desse cupom."
+        "Onde uso o CECILIA010, o código de recompensa da YesStyle? O CECILIA010 dá 5% na primeira compra e 2% nas seguintes, e vai no campo Reward Code do checkout. Ele pode ser somado a um cupom da YesStyle, do campo Coupon Code, conforme as regras desse cupom."
       ]
     }
   ],
@@ -256,5 +246,15 @@
     {
       "slug": "como-encontrar-cupons-yesstyle-validos"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você nunca montou uma rotina de skincare e quer começar curto: foram três produtos e uns 15 minutos, quase todos de espera.",
+      "Você recebe numa região onde a YesStyle entrega e aceita frete e prazo internacionais."
+    ],
+    "skipIf": [
+      "Você está no Brasil: a entrega ao Brasil continua suspensa no site e no app.",
+      "Você quer saber o que a rotina faz pela pele: aqui é só o primeiro uso, e o resultado eu ainda vou contar."
+    ]
+  }
 }

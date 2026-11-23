@@ -31,7 +31,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Vá de YesStyle se não quer arriscar: tem nota 4,4 no Trustpilot (104.969 avaliações), contra 1,9 (137) da StyleKorean. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a entrega está suspensa temporariamente: veja o capítulo do país."
+        "Vá de YesStyle se não quer arriscar: tem nota 4,4 no Trustpilot (105.442 avaliações), contra 1,9 (137) da StyleKorean. O CECILIA010 dá até 5% extra. Frete e encargos ficam fora da conta. No Brasil, a entrega está suspensa temporariamente: veja o capítulo do país."
       ]
     },
     {
@@ -40,7 +40,7 @@
         "Antes do preço, olhe quem fica do outro lado do pedido. Entre as duas lojas, a diferença de reputação é grande."
       ],
       "comparisonTable": {
-        "caption": "Perfis no Trustpilot em 8 de novembro.",
+        "caption": "Perfis no Trustpilot, lidos em novembro.",
         "headers": [
           "Loja",
           "Nota no Trustpilot",
@@ -50,7 +50,7 @@
           [
             "YesStyle",
             "4,4",
-            "104.969"
+            "105.442"
           ],
           [
             "StyleKorean",
@@ -338,6 +338,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o código de recompensa da YesStyle? O CECILIA010 dá 5% extra na primeira compra e 2% nas seguintes, sem data de fim. Ele vai no campo Reward Code do checkout e soma com um cupom da própria YesStyle.",
         "Tem código da StyleKorean aqui? Não. O CECILIA010 é só da YesStyle e não funciona na StyleKorean.",
         "A StyleKorean é da YesStyle? Não. A StyleKorean é da Silicon2, da Coreia; a YesStyle é da YesAsia, de Hong Kong.",
         "Entrega no meu país? Portugal, Estados Unidos, Reino Unido e Alemanha estão nas tabelas deste artigo; para o Brasil, veja o capítulo do país.",
@@ -379,5 +380,5 @@
       "slug": "codigo-cecilia010-yesstyle-como-usar"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

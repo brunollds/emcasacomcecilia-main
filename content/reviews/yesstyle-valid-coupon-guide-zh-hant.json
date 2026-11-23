@@ -4,6 +4,13 @@
   "title": "如何找到 YesStyle 優惠碼並與 CECILIA010 疊加使用",
   "type": "指南與優惠碼",
   "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
   "description": "YesStyle 優惠碼實用指南：分清 Coupon Code 與 Reward Code，並了解 CECILIA010 的用法，首次購買 5%，之後的購買 2%。",
   "metaDescription": "哪裡找得到目前有效的 YesStyle 優惠碼、如何避開過期代碼，以及怎麼疊加獎勵碼 CECILIA010，額外省下高達 5%。",
   "publishedAt": "24 Jul 2026",
@@ -28,43 +35,13 @@
   "imageAlt": "Cecília的自有影片中，她戴著粉紅髮帶，展示打開的Abib粉紅水凝膠眼膜罐。配文“優惠碼怎麼找？ 如何疊加使用？”“商店優惠碼＋ 獎勵碼”及獎勵碼CECILIA010。",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "說明 Coupon Code 與 Reward Code 的差別，避免結帳時填錯",
-    "解釋疊加（stacking）方式：當月優惠碼可以和 CECILIA010 一起用",
-    "教你用官方網紅代碼額外省下高達 5%",
-    "說明哪裡找得到目前有效的 YesStyle 優惠碼，避開假碼和過期碼",
-    "帶你前往 Em Casa com Cecília 的最新頁面，那裡有目前有效的優惠碼清單"
-  ],
-  "cons": [
-    "每月的促銷優惠碼效期很短（通常 72 小時到 30 天）",
-    "CECILIA010 的折扣首次購買為 5%，之後的回購為 2%",
-    "結帳總額以你在網站上選擇的幣別顯示，依 YesStyle 的匯率換算，銀行可能收取國際交易手續費"
-  ],
-  "pullQuote": "在 Reward Code 欄輸入 CECILIA010：首次購買享 5% 折扣，之後的購買享 2%。活動允許時，也可在 Coupon Code 欄輸入優惠碼，並在訂單摘要中確認兩項折扣。",
-  "productSpec": [
-    {
-      "key": "商店",
-      "value": "YesStyle（官方）"
-    },
-    {
-      "key": "獎勵碼",
-      "value": "CECILIA010（高達 5% 額外折扣）",
-      "highlight": true
-    },
-    {
-      "key": "結帳輸入欄",
-      "value": "Reward Code / 獎勵碼"
-    },
-    {
-      "key": "可否疊加",
-      "value": "可與符合條件的促銷優惠碼疊加使用，請在結帳時確認。"
-    }
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
-    "text": "本站頁面的 YesStyle 優惠碼列表更新於{yesstyle:verifiedAt}。",
-    "label": "查看 YesStyle 優惠碼",
-    "url": "/zh-hant/coupons/yesstyle",
-    "sponsored": false
+    "text": "把 CECILIA010 貼在 Reward Code 欄位：首購額外 5%，之後的訂單額外 2%。",
+    "label": "前往 YesStyle",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
@@ -72,6 +49,18 @@
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-zh-hant"
+    },
+    {
+      "slug": "yesstyle-first-order-cecilia010-zh-hant"
+    },
+    {
+      "slug": "yesstyle-trust-guide-zh-hant"
+    },
+    {
+      "slug": "yesstyle-app-reward-code-zh-hant"
+    },
+    {
+      "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant"
     }
   ],
   "contentSections": [
@@ -103,7 +92,7 @@
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "YesStyle 結帳頁面，顯示 Coupon Code 和 Reward Code 兩個欄位。",
       "imageCaption": "結帳頁面的兩個獨立欄位：Coupon Code（用於促銷優惠碼）和 Reward Code（用於 CECILIA010）。 截圖中的優惠碼來自已經結束的活動。",
-      "imageFit": "cover",
+      "imageFit": "contain",
       "bullets": [
         "1. 「Coupon Code」欄位：填入 YesStyle 網站的促銷優惠碼（如出清優惠碼或 10% 至 15% 折扣的活動）。",
         "2. 「Reward Code」/「Influencer Code」欄位：填入官方網紅代碼 CECILIA010，首次購買額外享 5% 折扣，之後的購買享 2%。"
@@ -144,7 +133,7 @@
       "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
       "imageAlt": "YesStyle 購物車頁面。",
       "imageCaption": "使用折扣碼之前，YesStyle 的購物車摘要頁面。",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "步驟 3：在 Coupon Code 欄填入促銷優惠碼",
@@ -161,12 +150,13 @@
     {
       "heading": "步驟 5：確認疊加後的折扣並完成訂單",
       "paragraphs": [
-        "付款之前，在訂單摘要中確認兩項折扣：優惠碼和 CECILIA010。"
+        "付款之前，在訂單摘要中確認兩項折扣：優惠碼和 CECILIA010。",
+        "結帳總額以你在網站上選擇的幣別顯示，依 YesStyle 的匯率換算，銀行可能收取國際交易手續費。"
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
       "imageAlt": "YesStyle 最終訂單摘要，顯示疊加後的折扣。",
       "imageCaption": "結帳摘要確認兩個一起用已成功：促銷優惠碼加上獎勵碼 CECILIA010，都已生效。 截圖中的優惠碼來自已經結束的活動。",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "哪裡找得到目前有效的 YesStyle 優惠碼",
@@ -186,7 +176,8 @@
           "href": "https://ystyle.co/rQYQv",
           "sponsored": true
         }
-      ]
+      ],
+      "emphasis": "優惠碼每週都在變，CECILIA010 不變。我先把獎勵碼填進 Reward Code 欄，再去看結帳頁今天接受哪張優惠碼。"
     },
     {
       "heading": "YesStyle 優惠碼常見問題",
@@ -195,7 +186,7 @@
       ],
       "bullets": [
         "YesStyle 的 Coupon Code 和 Influencer/Rewards Code 有什麼差別？ Coupon Code 是促銷優惠碼，填在「Coupon Code」欄位，有各自的效期和規則：可能有最低消費、地區限制或不適用的商品。CECILIA010 是獎勵碼（Influencer/Rewards Code），填在另外的「Reward Code」欄位，首次購買 5%，之後 2%。促銷規則允許時，訂單摘要中可以同時出現兩項折扣。",
-        "YesStyle 的網紅代碼是什麼？ 就是獎勵碼（Reward Code），填在結帳頁面的專用欄位，和優惠碼欄位分開。我們的代碼是 CECILIA010，填在 Reward Code 欄位。",
+        "YesStyle 的獎勵碼（網紅代碼）是什麼？ CECILIA010：首購額外 5%，之後的訂單額外 2%，填在 Reward Code 欄位，可以和 Coupon Code 欄位裡的一張商店優惠碼疊加。它是 Cecília 的網紅代碼。",
         "YesStyle 的優惠碼有有效期限嗎？ 有。促銷優惠碼都有效期限，而且可能不經通知就過期。有些活動只持續幾天（例如 72 小時或 96 小時的促銷），持續時間因活動而異。完成購買之前，請在促銷規則中確認效期、最低消費、地區和適用商品，並確認結帳時折扣已經生效。",
         "在哪裡可以找到 YesStyle 優惠碼的官方規則？ 通用規則在 YesStyle 客服中心的「General Terms and Conditions for Coupons」頁面。具體活動的條件，請進入客服中心並開啟「Promotions」區塊，YesStyle 會在那裡公布效期、最低消費、參與地區和可能的例外。這些條件會變動，所以付款前也請查看促銷橫幅和訂單摘要。",
         "同一筆訂單可以使用多個促銷優惠碼嗎？ 不行。依 YesStyle 的通用規則，每筆訂單（或合併訂單）只能使用一個 Coupon Code。不過 CECILIA010 不是 Coupon Code，要填在另外的「Reward Code」欄位。因此，只要活動符合資格、結帳頁面接受兩者，促銷優惠碼和 CECILIA010 就可以一起用。"
@@ -216,5 +207,15 @@
   "translationKey": "yesstyle-coupon-guide",
   "category": "cupons-como-usar",
   "isNew": false,
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-06",
+  "decision": {
+    "takeIf": [
+      "你帶著一張優惠碼來到 YesStyle 的結帳頁，卻不確定每個代碼該填在哪個欄位。",
+      "你的優惠碼被拒絕了，想先弄清原因再去找下一個。"
+    ],
+    "skipIf": [
+      "你想要現成可複製的優惠碼：本文講方法，目前的清單在我們的 YesStyle 優惠碼頁面。",
+      "你打算疊加兩個商店優惠碼：YesStyle 每筆訂單只接受一個 Coupon Code，只有 CECILIA010 填在獨立的欄位。"
+    ]
+  }
 }

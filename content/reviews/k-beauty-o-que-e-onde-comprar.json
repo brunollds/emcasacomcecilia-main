@@ -40,34 +40,31 @@
         "Uma das práticas mais conhecidas é o layering: aplicar camadas de produtos que se complementam, cada uma com uma função. A rotina pode incluir dupla limpeza (um demaquilante em óleo seguido de um limpador em gel ou espuma), tônico, essência, sérum, ampola e creme. É uma opção, não uma regra: mais camadas não garantem resultado melhor, e uma rotina simples pode bastar. A [Academia Americana de Dermatologia](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) recomenda manter a rotina simples, apresentar um produto novo por vez à pele e usar protetor solar.",
         "Na cultura coreana, o cuidado com a pele aparece como autocuidado, e a indústria de beleza do país mantém um ritmo alto de lançamentos e de formulações novas."
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
       "imageAlt": "Feira K-Beauty Expo Korea lotada de expositores e visitantes testando produtos coreanos",
       "imageCaption": "O tamanho do mercado por trás da tendência: feiras como a K-Beauty Expo Korea reúnem centenas de marcas todos os anos.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Ingredientes e formatos que a K-Beauty popularizou",
       "paragraphs": [
         "Nos ingredientes, a fama vem de centella asiática, niacinamida, mucina de caracol (não vegana), PDRN, própolis e fermentados. Nos formatos, de cushion, sheet mask e ampola.",
         "Um termo muito associado à categoria é \"glass skin\": a ideia de uma pele tão uniforme e luminosa que parece vidro. É um ideal estético, não uma promessa literal, mas resume bem o que boa parte das rotinas K-Beauty persegue: uma pele com textura uniforme e aquele brilho que normalmente associamos a pele bem cuidada."
-      ],
-      "bullets": []
+      ]
     },
     {
       "heading": "Por que K-Beauty virou uma tendência global",
       "image": "/images/reviews/cupons/k-beauty-loja-varejo.webp",
       "imageAlt": "Prateleira de loja de beleza coreana com letreiro \"Find the Latest K-Beauty Hype\"",
       "imageCaption": "Nas ruas da Coreia, lançamentos de K-Beauty viram vitrine, e parte da atração de quem visita o país.",
-      "imageFit": "cover",
+      "imageFit": "contain",
       "paragraphs": [
         "Três fatores empurraram a onda: k-dramas e k-pop, o ritmo de lançamentos e a internet.",
         "O primeiro fator são os k-dramas e o k-pop: cenas de skincare nas séries e artistas com pele impecável nos palcos aproximam públicos de vários países da cultura de beleza coreana e despertam curiosidade pelos cuidados e produtos.",
         "O segundo fator é a própria cultura das marcas coreanas de beleza, conhecidas pelo ritmo de lançamento e de inovação de ingredientes: novos séruns, ativos e formatos de máscara aparecem com frequência. Com preços muitas vezes mais baixos que os de marcas de luxo com propostas parecidas, isso criou a percepção de que boa parte da novidade em skincare sai da Coreia.",
         "O terceiro fator é a internet: no TikTok, no YouTube e no Reddit, comunidades de skincare compartilham unboxings e resenhas de produtos coreanos, e essa circulação levou a K-Beauty além dos grupos de entusiastas.",
         "O [Ministério da Cultura da Coreia](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) também descreve vários fatores por trás do crescimento, entre eles a distribuição internacional por varejistas. Nenhum deles explica a onda sozinho."
-      ],
-      "bullets": []
+      ]
     },
     {
       "heading": "Como é comprar K-Beauty fora da Coreia",
@@ -76,11 +73,11 @@
         "Muitas marcas coreanas de skincare não têm loja própria em boa parte do mundo, e a oferta muda por marca e por país. Uma marca conhecida internacionalmente pode vender oficialmente só através do e-commerce coreano ou de poucos distribuidores autorizados em mercados específicos. Isso cria um problema real para quem quer montar uma rotina completa: digamos, um limpador, um tônico, um sérum e um creme, cada um de uma marca diferente.",
         "Quando cada produto vem de um site, a compra pode virar vários checkouts e fretes, entregas em datas diferentes, câmbio e taxas de importação. Confira a regra vigente na sua região antes de comprar.",
         "Além disso, nem toda marca coreana vende direto para fora da Ásia. Algumas vendem só dentro da Coreia, o que levaria à opção de recorrer a revendedores terceiros, nem sempre confiáveis, ou a serviços de reenvio postal internacional, que adicionam custo e tempo extra."
-      ],
-      "bullets": []
+      ]
     },
     {
       "heading": "Onde a YesStyle entra nisso",
+      "emphasis": "K-Beauty não exige rotina de muitas camadas: uma rotina simples pode bastar. A YesStyle resolve a parte de achar as marcas num carrinho só; quem diz o que serve é a sua pele, um produto de cada vez.",
       "paragraphs": [
         "Uma das opções é comprar numa loja multimarcas, como a YesStyle.",
         "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas, e também japonesas e de outras partes da Ásia, num carrinho só.",
@@ -90,7 +87,6 @@
         "Para comprar com desconto, o código de recompensa CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo de código de recompensa (Reward Code) do checkout. O passo a passo para aplicar o código está linkado abaixo. Os cupons da loja mudam; a lista do momento está em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
         "Para quem só quer testar a fama, juntar várias marcas num pedido simplifica a primeira compra."
       ],
-      "bullets": [],
       "links": [
         {
           "label": "Como usar o código de recompensa CECILIA010 na YesStyle (passo a passo)",
@@ -120,6 +116,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você quer entender a tendência antes de gastar e prefere começar com um produto de cada vez, sem montar uma rotina cheia de camadas.",
+      "Você quer juntar marcas coreanas e japonesas num pedido só, em vez de abrir vários sites e pagar vários fretes."
+    ],
+    "skipIf": [
+      "Você tem pele sensível ou reativa e pensa em trocar a rotina inteira de uma vez: introduza um produto por vez e, se tiver dúvida, fale com um dermatologista.",
+      "Você já compra de uma marca que vende direto no seu país: aí o ganho de reunir tudo num carrinho some."
+    ]
+  },
   "cta": {
     "text": "Conheça o catálogo de K-Beauty da YesStyle e use o código CECILIA010 no checkout",
     "label": "Ver marcas coreanas na YesStyle",

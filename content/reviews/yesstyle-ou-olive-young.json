@@ -51,7 +51,7 @@
         "rows": [
           [
             "Brasil",
-            "Entrega suspensa no site e no app; um pedido nosso de setembro foi enviado",
+            "Entrega suspensa temporariamente no site e no app; um pedido nosso de setembro foi enviado",
             "Não entrega"
           ],
           [
@@ -74,7 +74,7 @@
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
         "alt": "Grade com 24 siglas de países, cada uma com dois pontos: o da esquerda para a YesStyle e o da direita para a Olive Young",
-        "caption": "Verde: entrega; amarelo: entrega sem prazo publicado ou, no Brasil, com a entrega da YesStyle suspensa; ×: não entrega; laranja: nos EUA, a Olive Young vende pela loja americana.",
+        "caption": "Verde: entrega; amarelo: entrega sem prazo publicado ou, no Brasil, com a entrega da YesStyle suspensa temporariamente; ×: não entrega; laranja: nos EUA, a Olive Young vende pela loja americana.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
@@ -231,7 +231,7 @@
       "paragraphs": [
         "A FAQ de países elegíveis da Olive Young Global diz que o envio não está disponível para países que não estão na lista, e cita Espanha, Brasil e Índia como exemplos. O seletor de destino da loja tem 61 países e não tem o Brasil. A tabela de envio, com a transportadora de cada país (DHL, FedEx, LX Pantos, UPS ou KSE), também não tem o Brasil.",
         "A loja diz que a lista pode mudar: países podem ser suspensos ou removidos a qualquer momento. A linha \"outras regiões\", de 15 dias, não diz quais países cobre, e a FAQ fala de países fora da lista. Para o Brasil, então, a resposta é a da FAQ: não é enviado.",
-        "As fontes da comparação não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle também não publica prazo nem frete para o Brasil, e a entrega ao país está suspensa no site e no app. Mesmo assim, um pedido nosso de setembro foi enviado dois dias depois de feito."
+        "As fontes da comparação não dão o motivo da falta do Brasil, e este texto não chuta um. A YesStyle também não publica prazo nem frete para o Brasil, e a entrega ao país está suspensa temporariamente no site e no app. Mesmo assim, um pedido nosso de setembro foi enviado dois dias depois de feito."
       ]
     },
     {
@@ -244,7 +244,7 @@
     {
       "heading": "Qual escolher, conforme o país",
       "bullets": [
-        "Mora no Brasil: a Olive Young Global não entrega, e a entrega da YesStyle ao país está suspensa no site e no app, embora um pedido nosso de setembro tenha sido enviado.",
+        "Mora no Brasil: a Olive Young Global não entrega, e a entrega da YesStyle ao país está suspensa temporariamente no site e no app, embora um pedido nosso de setembro tenha sido enviado.",
         "Mora em Portugal: as duas entregam, e a YesStyle publica o prazo (10 a 15 dias úteis no Standard) e a Olive Young só a regra de frete. Nas duas, o frete é grátis a partir de US$ 60; abaixo disso, a YesStyle cobra US$ 5 e a Olive Young, US$ 25.",
         "Mora nos Estados Unidos: a comparação é com a OLIVE YOUNG US, e nas duas o frete grátis começa em US$ 35.",
         "Pesa a devolução: a YesStyle aceita desistência e troca de tamanho, com o número de devolução pedido em até 14 dias; a Olive Young só aceita defeito ou item errado, em 30 dias.",
@@ -252,7 +252,8 @@
       ],
       "postParagraphs": [
         "Para ver a oferta da YesStyle antes de comprar, use a [página da YesStyle](/cupons/yesstyle)."
-      ]
+      ],
+      "emphasis": "Onde as duas entregam, a YesStyle é a escolha mais segura para quem pode mudar de ideia, porque aceita desistência e troca de tamanho. A Olive Young Global só compensa se você quer o reembolso na forma de pagamento original e aceita que só defeito ou item errado volta."
     },
     {
       "heading": "Perguntas frequentes",
@@ -263,7 +264,7 @@
         "Quem paga o imposto na Europa? Na Olive Young, para a União Europeia, o IVA e € 3 por código HS são cobrados no checkout, e a loja diz que nada mais é cobrado na entrega. Na YesStyle, em Portugal, o IVA de 23% já vem no preço. Os detalhes estão na seção de imposto.",
         "Dá para devolver produto aberto? Na Olive Young Global, não, a não ser que tenha defeito ou seja item errado enviado pela loja, em 30 dias. Na YesStyle, produto de beleza aberto e suplemento não voltam.",
         "A Olive Young Global e a OLIVE YOUNG US são a mesma loja? Não. A Global envia da Coreia para a lista de países e não para os EUA; a OLIVE YOUNG US é separada e tem regras próprias de frete e devolução.",
-        "Onde coloco o CECILIA010? No checkout da YesStyle, no campo Reward Code. Ele soma com os cupons da própria loja."
+        "Qual é o código de recompensa da YesStyle? O CECILIA010 dá até 5% na primeira compra e 2% nas seguintes, e vai no campo Reward Code do checkout. Ele soma com um cupom da própria loja."
       ]
     }
   ],

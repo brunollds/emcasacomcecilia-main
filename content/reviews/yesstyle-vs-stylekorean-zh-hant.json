@@ -32,7 +32,7 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "想少冒點風險，就選 YesStyle：Trustpilot 評分 4.4（104,969 則評價），StyleKorean 則是 1.9（137 則）。CECILIA010 可再額外省最高 5%。運費與稅費不在計算內。如果你所在的地方不在本文表格列出的目的地中，請在結帳時確認店家是否寄到你的地址，以及適用的運費與稅費。"
+        "想少冒點風險，就選 YesStyle：Trustpilot 評分 4.4（105,442 則評價），StyleKorean 則是 1.9（137 則）。CECILIA010 可再額外省最高 5%。運費與稅費不在計算內。如果你所在的地方不在本文表格列出的目的地中，請在結帳時確認店家是否寄到你的地址，以及適用的運費與稅費。"
       ]
     },
     {
@@ -41,7 +41,7 @@
         "比價格更該先看的，是下單後站在另一端的是誰。兩家店在口碑上的差距很大。"
       ],
       "comparisonTable": {
-        "caption": "Trustpilot 頁面，截至 11 月 8 日。",
+        "caption": "Trustpilot 頁面，11 月查閱。",
         "headers": [
           "店家",
           "Trustpilot 評分",
@@ -51,7 +51,7 @@
           [
             "YesStyle",
             "4.4",
-            "104,969"
+            "105,442"
           ],
           [
             "StyleKorean",
@@ -338,6 +338,7 @@
     {
       "heading": "常見問題",
       "bullets": [
+        "YesStyle 的獎勵碼是什麼？ CECILIA010 首次下單額外再省 5%，之後的訂單再省 2%，沒有截止日期。它填在結帳頁的 Reward Code 欄位，可以和 YesStyle 自家的一張優惠券疊加使用。",
         "這裡有 StyleKorean 的代碼嗎？ 沒有。CECILIA010 只適用於 YesStyle，在 StyleKorean 無法使用。",
         "StyleKorean 是 YesStyle 旗下的嗎？ 不是。StyleKorean 屬於韓國的 Silicon2；YesStyle 屬於香港的 YesAsia。",
         "我的國家有寄送嗎？ 葡萄牙、美國、英國和德國已列在本文的表格中；其他地區請見 [YesStyle 運送說明文章](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
@@ -379,5 +380,5 @@
       "slug": "yesstyle-reward-code-cecilia010-zh-hant"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

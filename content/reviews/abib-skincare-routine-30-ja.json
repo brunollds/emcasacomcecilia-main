@@ -28,19 +28,8 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-  "pros": [
-    "ルーティンは短め：3品で約15分、ほとんどはアイパッチをつけて待つ時間",
-    "ハイドロゲルのアイパッチはひんやり。表面に凹凸があって滑りにくい",
-    "軟膏のようなテクスチャーのクリームは伸びがよく、ベルベットのようなさらっとした仕上がり",
-    "スパチュラ付きのリップマスクは甘い香りで、私には重たく感じなかった",
-    "コリアンコスメをYesStyleが直接販売していて、本物であることを明記。CECILIA010はReward Codeの欄に入れると割引が上乗せされる"
-  ],
-  "cons": [
-    "PDRNとレチナールはゆっくり働きます。Abibはこのクリームをハリと小じわ用の長期のケアとして案内しています。",
-    "レチナールを使うなら日中は日焼け止めが必要。私のように使ったことがない人は、まずその習慣から",
-    "初めてのときは、アイパッチの表裏がわからず迷った",
-    "海外購入なので、送料と届くまでの日数はお届け先によって変わる"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "クイックアンサー",
@@ -118,7 +107,7 @@
       "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
       "imageAlt": "ピンク色のAbibのハイドロゲルパッチを持つCecília。もう片方の手には開けたジャー",
       "imageCaption": "Abibのハイドロゲルパッチは60枚入りのジャーで、肌に触れるとひんやりします。",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Booster Crème 2.5：軟膏のようなテクスチャーがベルベットに変わる",
@@ -140,7 +129,7 @@
       "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
       "imageAlt": "Abib PDRN Volume Fill-it Booster Crème 2.5のチューブを持つCecília",
       "imageCaption": "30 mlのBooster Crème 2.5のチューブ：軟膏のように出てきて、肌はベルベットのような手ざわりに。",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Lip Mask Glazed Jelly：重たくない甘い香り",
@@ -159,7 +148,7 @@
       "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
       "imageAlt": "唇をとがらせて、Abib Glazed Jellyのリップマスクのジャーを持つCecília",
       "imageCaption": "11 gのLip Mask Glazed Jellyは、ジェルのテクスチャーで甘い香りがします。",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "PDRNとレチナールの基本：期待できること",
@@ -224,7 +213,8 @@
         "顔と首の肌のキメとツヤ；",
         "続けて使うと、レチナールで肌が荒れないか；",
         "リップマスクが夜のあいだ唇のうるおいを保ってくれるか。"
-      ]
+      ],
+      "emphasis": "このルーティンが気に入ったのは、10ステップの長丁場にならず、ふつうの夜に収まるからです。肌に何をしてくれるかは、数週間使ってからお話しします。"
     },
     {
       "heading": "よくある質問",
@@ -233,7 +223,7 @@
         "PDRNとは？ DNAの断片から作られる成分で、ハリをうたうコリアンコスメによく使われています（ブランドによる）。AbibのリップマスクについてはAbibが植物由来（ツボクサとイチョウ）と説明しています。",
         "レチナールはレチノイン酸と同じ？ いいえ。パッチとクリームの成分はレチナール（レチンアルデヒド）です。ビタミンA誘導体で、肌の中でレチノイン酸に変わります。そのため作用はゆるやかで、日中は日焼け止めが必要です。",
         "Abibのリップマスクはにおいが強い？ 甘い香りがします。私は強い香りが苦手ですが、これは気になりませんでした。",
-        "CECILIA010はどこで使う？ チェックアウトのReward Codeの欄です。初回購入は5％、2回目以降は2％で、Coupon Codeの欄に入れたクーポンと、そのクーポンの条件に沿って併用できます。"
+        "YesStyleのリワードコードCECILIA010はどこで使う？ CECILIA010はチェックアウトのReward Code欄に入れると、初回購入は5％、2回目以降は2％になります。Coupon Code欄に入れたYesStyleのクーポンとも、そのクーポンの条件に沿って併用できます。"
       ]
     }
   ],
@@ -256,5 +246,15 @@
     {
       "slug": "yesstyle-valid-coupon-guide-ja"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "スキンケアのルーティンを一度も組んだことがなく、小さく始めたい：私のは3点で15分ほど、ほとんどが待ち時間でした。",
+      "YesStyleが配送している国で受け取り、海外配送とその日数を受け入れられる。"
+    ],
+    "skipIf": [
+      "お住まいの国がYesStyleの配送先に含まれていない：カートを作る前に確認してください。",
+      "ルーティンが肌に何をしてくれるかを知りたい：これは初回使用の記録で、結果はまだこれからです。"
+    ]
+  }
 }

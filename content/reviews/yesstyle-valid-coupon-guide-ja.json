@@ -4,6 +4,13 @@
   "title": "YesStyleクーポンの見つけ方とCECILIA010の併用方法",
   "type": "ガイド＆クーポン",
   "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
   "description": "YesStyleのクーポンの探し方ガイド。Coupon CodeとReward Codeの違いを押さえ、CECILIA010を初回購入5%、2回目以降2%で使う方法をまとめました。",
   "metaDescription": "今出ているYesStyleのクーポンの探し方、期限切れコードを避けるコツ、リワードコードCECILIA010を重ねて最大5%を追加で節約する方法を紹介します。",
   "publishedAt": "24 Jul 2026",
@@ -28,43 +35,13 @@
   "imageAlt": "ピンクのヘアバンドを着けたCecíliaが、Abibのピンク色のハイドロゲルアイパッチの開いた容器を見せる、自社撮影の動画の一場面。見出し「クーポンの探し方 併用はどうする？」、補足「ショップクーポン＋ リワードコード」、リワードコードCECILIA010を配置。",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "決済画面でのミスを防ぐために、Coupon CodeとReward Codeの違いがわかる",
-    "今月のクーポンとCECILIA010を重ねる併用（スタッキング）の仕組みがわかる",
-    "公式のインフルエンサーコードで最大5%を追加で節約する方法がわかる",
-    "偽物や期限切れのコードを避けられるよう、開催中のYesStyleクーポンの探し方を紹介",
-    "Em Casa com Cecíliaの最新ページで、有効なクーポン一覧に進める"
-  ],
-  "cons": [
-    "月ごとのプロモクーポンは期限が短い（たいてい72時間〜30日）",
-    "CECILIA010の割引率は、初回購入が5%、2回目以降が2%",
-    "お支払い総額はサイトで選んだ通貨で、YesStyleの為替レートで表示され、カード会社や銀行が海外取引の手数料を請求する場合があります"
-  ],
-  "pullQuote": "Reward Code欄にCECILIA010を入力すると、初回購入は5%、2回目以降は2%割引です。キャンペーンが認めている場合はCoupon Code欄にクーポンも入力し、注文の概要で両方の割引を確認してください。",
-  "productSpec": [
-    {
-      "key": "ショップ",
-      "value": "YesStyle（公式）"
-    },
-    {
-      "key": "リワードコード",
-      "value": "CECILIA010（最大5%追加オフ）",
-      "highlight": true
-    },
-    {
-      "key": "決済画面の入力欄",
-      "value": "Reward Code / リワードコード"
-    },
-    {
-      "key": "併用",
-      "value": "対象のプロモクーポンと併用できます。決済画面で確認してください。"
-    }
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
-    "text": "当サイトのYesStyleクーポン一覧は{yesstyle:verifiedAt}時点の内容です。",
-    "label": "利用できるYesStyleクーポンを見る",
-    "url": "/ja/coupons/yesstyle",
-    "sponsored": false
+    "text": "CECILIA010をReward Code欄に入力すると、初回購入で5%、2回目以降で2%の追加割引を受けられます。",
+    "label": "YesStyleへ進む",
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
@@ -72,6 +49,18 @@
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-ja"
+    },
+    {
+      "slug": "yesstyle-first-order-cecilia010-ja"
+    },
+    {
+      "slug": "yesstyle-trust-guide-ja"
+    },
+    {
+      "slug": "yesstyle-app-reward-code-ja"
+    },
+    {
+      "slug": "yesstyle-shipping-japan-ja"
     }
   ],
   "contentSections": [
@@ -103,7 +92,7 @@
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "YesStyleの決済画面。Coupon Code欄とReward Code欄が表示されている。",
       "imageCaption": "決済画面の2つの入力欄：Coupon Code（セールのクーポン用）とReward Code（CECILIA010用）。 画面のクーポンは、すでに終了したキャンペーンのものです。",
-      "imageFit": "cover",
+      "imageFit": "contain",
       "bullets": [
         "1. 「Coupon Code」欄：YesStyleのサイトで配布されるプロモクーポン（セールのクーポンや10%〜15%オフのキャンペーンなど）を入れる場所です。",
         "2. 「Reward Code」/「Influencer Code」欄：インフルエンサーの公式コードCECILIA010を入れる場所で、初回購入は5%、2回目以降は2%の追加オフです。"
@@ -144,7 +133,7 @@
       "image": "/images/reviews/cupons/yesstyle-checkout-carrinho.webp",
       "imageAlt": "YesStyleのショッピングカート画面。",
       "imageCaption": "割引コードを入れる前の、YesStyleのカート概要画面。",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "ステップ3：Coupon Code欄にセールのクーポンを入力",
@@ -161,12 +150,13 @@
     {
       "heading": "ステップ5：重ねた割引を確認して注文を完了",
       "paragraphs": [
-        "支払いの前に、注文の概要で2つの割引を確認します。クーポンとCECILIA010です。"
+        "支払いの前に、注文の概要で2つの割引を確認します。クーポンとCECILIA010です。",
+        "お支払い総額はサイトで選んだ通貨で、YesStyleの為替レートで表示され、カード会社や銀行が海外取引の手数料を請求する場合があります。"
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
       "imageAlt": "YesStyleの最終注文概要。重ねた割引が表示されている。",
       "imageCaption": "決済の概要で二本立てを確認：セールのクーポンとリワードコードCECILIA010が、どちらも反映されています。 画面のクーポンは、すでに終了したキャンペーンのものです。",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "開催中のYesStyleクーポンを見つける方法",
@@ -186,7 +176,8 @@
           "href": "https://ystyle.co/rQYQv",
           "sponsored": true
         }
-      ]
+      ],
+      "emphasis": "クーポンは週ごとに変わりますが、CECILIA010は変わりません。私は先にReward Code欄にリワードコードを入れ、そのあとで今日のチェックアウトが受け付けるクーポンを確認します。"
     },
     {
       "heading": "YesStyleクーポンに関するよくある質問",
@@ -195,7 +186,7 @@
       ],
       "bullets": [
         "YesStyleのCoupon CodeとInfluencer/Rewards Codeはどう違いますか？ Coupon Codeはセール用のクーポンで、「Coupon Code」欄に入れます。期限と条件がそれぞれ決まっていて、最低購入額、地域の制限、対象外の商品がある場合があります。CECILIA010はリワードコード（Influencer/Rewards Code）で、別枠の「Reward Code」欄に入れ、初回購入は5%、2回目以降は2%です。セールの条件が認めていれば、注文の概要に両方の割引が並んで表示されます。",
-        "YesStyleのインフルエンサーコードとは何ですか？ リワードコード（Reward Code）のことで、決済画面のクーポン欄とは別の専用欄に入力します。当サイトのコードはCECILIA010で、Reward Code欄に入れます。",
+        "YesStyleのリワードコード（インフルエンサーコード）とは何ですか？ CECILIA010です。初回購入は5%、2回目以降は2%が追加され、Reward Code欄に入力して、Coupon Code欄のショップのクーポン1枚と併用できます。Cecíliaのインフルエンサーコードです。",
         "YesStyleのクーポンに有効期限はありますか？ はい。プロモクーポンには期限があり、予告なく終わることがあります。72時間や96時間のように数日で終わるキャンペーンもあれば、続く期間が異なるキャンペーンもあります。購入を確定する前に、プロモの条件で有効期限、最低購入額、地域、対象商品を確認し、決済画面で割引が反映されたことを確かめてください。",
         "YesStyleのクーポンの公式ルールはどこで見られますか？ 全般のルールは、YesStyleのヘルプセンターにある「General Terms and Conditions for Coupons」のページに載っています。個別のキャンペーンの条件は、ヘルプセンターを開いて「Promotions」の項目を見てください。有効期限、最低購入額、対象地域、除外品がそこで公開されています。条件は変わるため、支払いの前にプロモのバナーと注文の概要も確認しましょう。",
         "1回の注文でプロモクーポンを2枚以上使えますか？ いいえ。YesStyleの全般ルールでは、1回の注文（または合算した注文）で使えるCoupon Codeは1つだけです。ただしCECILIA010はCoupon Codeではなく、別枠の「Reward Code」欄に入れます。そのため、キャンペーンが対象で、決済画面が両方を受け付ければ、プロモクーポンとCECILIA010は併用できます。"
@@ -216,5 +207,15 @@
   "translationKey": "yesstyle-coupon-guide",
   "category": "cupons-como-usar",
   "isNew": false,
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-06",
+  "decision": {
+    "takeIf": [
+      "YesStyleのチェックアウトにクーポンを持って来たものの、どの欄にどのコードを入れるのか分からない人。",
+      "クーポンが拒否されて、別のものを探す前に理由を知りたい人。"
+    ],
+    "skipIf": [
+      "そのままコピーできるクーポンを探している人。この記事では探し方を説明し、現在の一覧は当サイトのYesStyleクーポンのページにあります。",
+      "ショップのクーポンを2枚重ねたい人。YesStyleは1注文につきCoupon Codeを1つしか受け付けず、別の欄に入るのはCECILIA010だけです。"
+    ]
+  }
 }

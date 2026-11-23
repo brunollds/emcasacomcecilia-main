@@ -32,7 +32,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Go with YesStyle if you don't want to take a chance: it rates 4.4 on Trustpilot (104,969 reviews), against StyleKorean's 1.9 (137). CECILIA010 adds up to 5%. Shipping and charges are not counted. For other destinations, check at checkout that the store delivers to your address and what shipping and charges apply."
+        "Go with YesStyle if you don't want to take a chance: it rates 4.4 on Trustpilot (105,442 reviews), against StyleKorean's 1.9 (137). CECILIA010 adds up to 5%. Shipping and charges are not counted. For other destinations, check at checkout that the store delivers to your address and what shipping and charges apply."
       ]
     },
     {
@@ -41,7 +41,7 @@
         "Before the price, look at who is on the other side of the order. Between these two stores, the reputation gap is large."
       ],
       "comparisonTable": {
-        "caption": "Trustpilot profiles on November 8.",
+        "caption": "Trustpilot profiles, read in November.",
         "headers": [
           "Store",
           "Trustpilot rating",
@@ -51,7 +51,7 @@
           [
             "YesStyle",
             "4.4",
-            "104,969"
+            "105,442"
           ],
           [
             "StyleKorean",
@@ -338,6 +338,7 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "What is the YesStyle Reward Code? CECILIA010 gives 5% extra on a first order and 2% on the ones after, with no end date. It goes in the Reward Code field at checkout and stacks with one coupon from YesStyle itself.",
         "Is there a StyleKorean code here? No. CECILIA010 is only for YesStyle and does not work at StyleKorean.",
         "Does YesStyle own StyleKorean? No. StyleKorean belongs to Silicon2, from Korea; YesStyle belongs to YesAsia, from Hong Kong.",
         "Does it deliver to my country? Portugal, the United States, the United Kingdom and Germany are in this article's tables; for other destinations, see [the store's shipping guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
@@ -379,5 +380,5 @@
       "slug": "yesstyle-reward-code-coupon-cecilia010"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

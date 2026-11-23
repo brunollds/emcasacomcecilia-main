@@ -5,7 +5,7 @@
     "type": "reward",
     "newCustomerDiscount": 5,
     "returningCustomerDiscount": 2,
-    "verifiedAt": "2026-10-24",
+    "verifiedAt": "2026-11-23",
     "officialSourceUrl": "https://www.yesstyle.com/en/influencers.html",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "status": "active",
@@ -513,12 +513,12 @@
       "value": 15
     },
     "startsAt": "2026-11-16",
-    "expiresAt": "2026-11-23",
-    "verifiedAt": "2026-11-22",
+    "expiresAt": "2026-11-22",
+    "verifiedAt": "2026-11-23",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2911",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
-    "status": "active",
+    "status": "expired",
     "regions": ["US", "GB", "CA"]
   },
   {
@@ -580,7 +580,7 @@
     },
     "startsAt": "2026-11-23",
     "expiresAt": "2026-11-26",
-    "verifiedAt": "2026-11-22",
+    "verifiedAt": "2026-11-23",
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2913",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,

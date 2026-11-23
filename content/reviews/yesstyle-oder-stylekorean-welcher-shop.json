@@ -32,7 +32,7 @@
     {
       "heading": "Kurzantwort",
       "paragraphs": [
-        "Nehmen Sie YesStyle, wenn Sie kein Risiko eingehen wollen: 4,4 auf Trustpilot (104.969 Bewertungen) gegenüber 1,9 (137) bei StyleKorean. Reward Code CECILIA010 bringt bis zu 5 % extra; Versand und Abgaben nicht eingerechnet. Außerhalb dieser Länder klären Sie im Checkout, ob an Ihre Adresse geliefert wird und welche Abgaben gelten."
+        "Nehmen Sie YesStyle, wenn Sie kein Risiko eingehen wollen: 4,4 auf Trustpilot (105.442 Bewertungen) gegenüber 1,9 (137) bei StyleKorean. Reward Code CECILIA010 bringt bis zu 5 % extra; Versand und Abgaben nicht eingerechnet. Außerhalb dieser Länder klären Sie im Checkout, ob an Ihre Adresse geliefert wird und welche Abgaben gelten."
       ]
     },
     {
@@ -41,7 +41,7 @@
         "Schauen Sie vor dem Preis darauf, wer auf der anderen Seite der Bestellung steht. Zwischen den beiden Shops ist der Unterschied beim Ruf groß."
       ],
       "comparisonTable": {
-        "caption": "Trustpilot-Profile am 8. November.",
+        "caption": "Trustpilot-Profile, im November abgerufen.",
         "headers": [
           "Shop",
           "Trustpilot-Bewertung",
@@ -51,7 +51,7 @@
           [
             "YesStyle",
             "4,4",
-            "104.969"
+            "105.442"
           ],
           [
             "StyleKorean",
@@ -338,6 +338,7 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Wie lautet der Reward Code von YesStyle? CECILIA010 bringt 5 % extra bei der ersten Bestellung und 2 % bei den folgenden, ohne Enddatum. Er kommt im Checkout in das Feld Reward Code und lässt sich mit einem Gutschein von YesStyle selbst kombinieren.",
         "Gibt es hier einen Code für StyleKorean? Nein. CECILIA010 gilt nur bei YesStyle und funktioniert nicht bei StyleKorean.",
         "Gehört StyleKorean zu YesStyle? Nein. StyleKorean gehört zu Silicon2 aus Korea; YesStyle gehört zu YesAsia aus Hongkong.",
         "Lieferung in mein Land? Portugal, die Vereinigten Staaten, das Vereinigte Königreich und Deutschland stehen in den Tabellen dieses Artikels; für andere Ziele lesen Sie den [Versandleitfaden von YesStyle für Deutschland, Österreich und die Schweiz](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
@@ -379,5 +380,5 @@
       "slug": "yesstyle-reward-code-rabatt-cecilia010"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

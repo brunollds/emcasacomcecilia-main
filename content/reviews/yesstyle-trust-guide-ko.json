@@ -38,7 +38,6 @@
         "YesStyle은 2006년부터 이어 온 홍콩 회사입니다. 홍콩 증권거래소에 상장된 YesAsia Holdings(2209.HK) 소속이며, [모회사의 사업 소개 페이지](https://www.yesasiaholdings.com/business.html)와 [투자자 정보](https://www.yesasiaholdings.com/investor-relations.html)에서 확인할 수 있습니다.",
         "YesStyle은 150개가 넘는 국가와 지역의 고객을 대상으로 하며, 사이트에서 언어를 바꿀 수 있습니다. 주문 통화는 선택 가능한 통화 중에서 고를 수 있고, [YesStyle 자체 환율](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)로 환산됩니다. 카드사나 은행에 따라 해외 결제 수수료가 붙을 수 있습니다. 제품, 배송 기간, 수입 세금, 반품 정책에 대한 문의를 받는 고객 상담 채널도 운영합니다."
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
       "imageAlt": "YesStyle 공식 화면과 프로모션 배너",
       "imageFit": "square"
@@ -49,7 +48,6 @@
         "YesStyle은 400개가 넘는 한국 뷰티(K-beauty) 브랜드의 공식 유통업체라고 밝히고 있으며, 아시아 화장품과 패션도 함께 판매합니다. 스킨케어(세럼, 에센스, 토너, 선크림), 메이크업, 헤어 제품, 액세서리를 갖추고 있습니다.",
         "회사가 소개하는 브랜드에는 COSRX, Etude House, Hada Labo, Rohto 등이 있고, 제조사 또는 파트너 유통업체에서 직접 매입한다고 설명합니다. 상장사(YesAsia Holdings)가 지배한다는 것은 이 매장을 누가 지배하는지에 대한 공개된 사실입니다."
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
       "imageAlt": "YesStyle의 K-Beauty·J-Beauty 공식 브랜드(COSRX, Anua, Beauty of Joseon)",
       "imageFit": "wide"
@@ -63,7 +61,6 @@
         "불량품이나 오배송도 RMA로 접수하며 불량 사진을 첨부합니다. 규정은 [YesStyle 반품 정책](https://www.yesstyle.com/en/help/section.html/hsi.736)에 있고, 거주 국가의 소비자 권리는 이보다 폭넓을 수 있습니다.",
         "고객 지원은 공식 사이트의 채팅과 이메일로 연락할 수 있습니다."
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
       "imageAlt": "YesStyle의 상품 목록, 달러 가격, 프로모션 할인",
       "imageFit": "square"
@@ -96,6 +93,7 @@
     },
     {
       "heading": "YesStyle을 믿어도 될까요?",
+      "emphasis": "여기서 믿음에는 알맞은 크기가 있습니다. YesStyle은 실제로 존재하는 회사이고 모회사도 상장사지만, 제품이 정품인지는 매장의 말입니다. 사셔도 좋지만, 로트 번호와 유통기한, 봉인 확인은 소포가 도착하는 날 하세요.",
       "paragraphs": [
         "네, 늘 하던 확인만 하면 됩니다. YesStyle은 2006년부터 이어 온 홍콩 회사이며, 상장사인 YesAsia Holdings(2209.HK)가 지배합니다. 400개가 넘는 한국 뷰티 브랜드의 공식 유통업체라고 밝힙니다. 소포에 세금이 부과되면, 대상이 되는 US$ 1,000 미만 주문은 배송지에 따라 수입 세금과 통관 수수료를 매장 크레딧으로 환급받을 수 있습니다.",
         "실제로는 이렇게 하세요. yesstyle.com에서 사고, 체크아웃에서 배송비와 배송 기간을 확인하고, 영수증을 보관하고, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요."
@@ -106,8 +104,7 @@
       "paragraphs": [
         "Em Casa com Cecília는 YesStyle과 상업적 제휴를 맺고 있습니다. 이 제휴로 독자는 결제 단계의 전용 입력란에 리워드 코드(Reward Code) CECILIA010을 입력하면 첫 구매에서 5%, 이후 구매에서 2%의 추가 할인을 받을 수 있습니다. 이 코드는 사이트에서 진행 중인 적용 가능한 프로모션 쿠폰과 함께 쓸 수 있습니다.",
         "CECILIA010에는 종료일이 정해져 있지 않지만, YesStyle이 혜택과 프로그램 규정을 바꿀 수 있습니다([프로그램 약관](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284)). 결제 전에 주문 요약에서 할인을 확인하세요. 링크와 코드로 블로그에 수수료가 발생할 수 있지만, 독자에게 추가 비용은 없습니다."
-      ],
-      "bullets": []
+      ]
     },
     {
       "heading": "자주 묻는 질문",
@@ -126,10 +123,21 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "K-뷰티와 다른 아시아 브랜드를 한 장바구니에서 사고 싶고, 소포가 도착하면 로트 번호, 유통기한, 봉인을 직접 확인할 수 있습니다.",
+      "결제 전에 체크아웃에서 배송비와 배송 기간을 확인했고, 반품 시 기본 환불이 매장 크레딧으로 나간다는 점을 받아들일 수 있습니다."
+    ],
+    "skipIf": [
+      "제3자의 정품 보증이 있어야만 구매합니다. 정품 여부는 매장이 직접 밝힌 내용이고, 독립적인 감사는 찾지 못했습니다.",
+      "정해진 날짜까지 주문품이 꼭 필요합니다. 배송 기간은 결제 전 체크아웃에서야 나옵니다."
+    ]
+  },
   "cta": {
     "text": "YesStyle 공식 K-뷰티 쇼핑하기 (코드 CECILIA010)",
     "label": "쇼핑몰 이동",
-    "url": "https://ystyle.co/rQYQv"
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
@@ -137,6 +145,12 @@
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-ko"
+    },
+    {
+      "slug": "yesstyle-valid-coupon-guide-ko"
+    },
+    {
+      "slug": "yesstyle-kbeauty-guide-ko"
     }
   ],
   "translationKey": "yesstyle-trust",

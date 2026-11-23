@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle scores 4.4 on Trustpilot, with over 104,000 reviews and 71% five-star. See the themes in negative reviews and why a global score says little about your own country.",
-  "metaDescription": "YesStyle on Trustpilot in November 2026: 4.4 from 104,000 reviews, 71% five-star, delivery and tracking complaints. See what the score doesn't show.",
+  "description": "YesStyle has a 4.4 on Trustpilot, with over 105,000 reviews and 71% five-star. See the complaint themes, and why a global score tells you nothing about delivery to your country.",
+  "metaDescription": "YesStyle on Trustpilot: 4.4 from 105,000 reviews, delivery complaints and what the score doesn't show. Check delivery to your country before you pay.",
   "publishedAt": "October 29, 2026",
   "publishedAtISO": "2026-10-29",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -33,45 +33,78 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "YesStyle has a good Trustpilot score, with one caveat. In November 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star. The visible negative reviews mentioned international delivery and tracking, and the score is global and doesn't separate countries."
+        "YesStyle has a 4.4 on Trustpilot, with 105,442 reviews and 71% five-star. Of the 40 most recent one-star reviews we read, half were about delivery: orders that never arrived, parcels stuck in transit and delays. The score pools buyers from many countries, so check the delivery time and shipping cost for your address before paying."
       ]
     },
     {
       "heading": "What the score measures",
       "paragraphs": [
-        "The TrustScore is the profile's Trustpilot score. YesStyle had 4.4, labeled “Excellent”, across 104,909 reviews; 11,757 of them were published in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
-        "The breakdown by star: 71% five-star, 18% four-star, 3% three-star, 1% two-star and 7% one-star. Five and four stars make up most of the total; the one-star share, at 7%, weighs more than two and three stars combined, and that is where the complaints show up."
+        "The TrustScore is the profile's score on Trustpilot. The company claimed the YesStyle profile in May 2013 and pays for a Trustpilot subscription, as the page itself states.",
+        "The 7% of one-star reviews weighs more than the 4% of two and three stars combined, and that is where the complaints show up. The 4.4 average hides that band."
       ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-trustpilot-estrelas-2810.webp",
-        "alt": "Bars from five stars to one showing the distribution of YesStyle's Trustpilot reviews: 71%, 18%, 3%, 1% and 7%",
-        "caption": "Distribution of YesStyle's Trustpilot reviews. Chart by us.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
+      "comparisonTable": {
+        "caption": "YesStyle's Trustpilot profile indicators, read on November 23, 2026",
+        "headers": [
+          "Indicator",
+          "YesStyle on November 23, 2026"
+        ],
+        "rows": [
+          [
+            "TrustScore",
+            "4.4, labeled \"Excellent\""
+          ],
+          [
+            "Total reviews",
+            "105,442, with 12,070 in the last 12 months"
+          ],
+          [
+            "Star distribution",
+            "5★ 71% · 4★ 18% · 3★ 3% · 2★ 1% · 1★ 7%"
+          ],
+          [
+            "Profile status",
+            "Claimed since May 2013, with a paid subscription"
+          ],
+          [
+            "Where reviews come from",
+            "The store invites customers to review after purchase"
+          ],
+          [
+            "Replies to negative reviews",
+            "99%, usually within 24 hours; the store may use AI"
+          ]
+        ]
       },
       "postParagraphs": [
-        "The average sums all this up in a single number. To decide, it's worth more to look at what the low scores say and how the store replies to them; that's what comes next."
+        "To decide, it's more useful to read what the low scores say and how the store answers them. That comes next."
+      ],
+      "links": [
+        {
+          "label": "YesStyle's profile on Trustpilot",
+          "href": "https://www.trustpilot.com/review/www.yesstyle.com"
+        }
       ]
     },
     {
       "heading": "Who reviews, and from where",
       "paragraphs": [
-        "The profile for www.yesstyle.com is global: it doesn't separate reviews by country, and the page doesn't say how many came from each country. The score brings together buyers from different countries, with different shipping, delivery times and customs.",
-        "For anyone buying, this changes how to read it: the score tells you how the store behaves overall, not what delivery is like at your address. That information is in the checkout and in the store's shipping table, not on Trustpilot.",
-        "Who operates the store, the Hong Kong headquarters and the parent company are covered in [Is YesStyle legit?](/en/reviews/is-yesstyle-legit-and-safe-review)."
+        "The www.yesstyle.com profile is global. It puts buyers from dozens of countries into one panel, with different shipping, delivery times and customs, and it doesn't split reviews by country.",
+        "The store invites customers to review after purchase, whether they're happy or not. In our sample, 30 of the 40 five-star reviews were invitations, and most were short. The one-star reviews came mostly from people who wrote on their own (29 of 40), and they talked about international delivery. So invitations fill the profile with short high scores, while unprompted complaints are where the delivery problems show up.",
+        "For you, the score says how the store behaves overall, not how delivery works at your address. At checkout, check the delivery time, shipping cost, import taxes and customs, and the returns policy for your own country.",
+        "Who runs the store, the Hong Kong headquarters and the parent company are covered in [Is YesStyle legit?](/en/reviews/is-yesstyle-legit-and-safe-review)."
       ]
     },
     {
       "heading": "What shows up in the complaints",
       "paragraphs": [
-        "In the visible negative reviews, the themes were these, without counting or ranking them:"
+        "We read the 40 most recent one-star reviews, and the store replied to every one. By number of cases:"
       ],
       "bullets": [
-        "Late delivery and long waits, on a package coming from abroad.",
-        "Tracking that stops updating.",
-        "Lost package.",
-        "Item that arrived damaged.",
-        "Order held in processing, before shipping."
+        "Delivery, 20 of 40: an order that never arrived or was marked delivered without arriving, a parcel stuck or lost in transit, delays past the estimate on the site, and orders not shipped after weeks. Several say customer service sent them to the carrier.",
+        "Product, 9 of 40: missing, damaged, used-looking, incomplete, expired or defective items.",
+        "Stock, 4 of 40: items that sold out after ordering, with waits or cancellations.",
+        "Returns, 2 of 40: refused because the buyer didn't like the item, or refunded only as store credit.",
+        "Other, 5 of 40: an influencer programme, a launch that sold out on the site, the app freezing at payment, a payment check, and a positive review marked one star."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-rastreio-tela-2910.webp",
@@ -81,87 +114,50 @@
         "aspectRatio": 1.7778
       },
       "postParagraphs": [
-        "These reports suggest practical checks: the delivery estimate at checkout, tracking after dispatch and the condition of the packaging on arrival."
+        "These reports point to what to check before you buy: the delivery time at checkout, tracking after dispatch and the condition of the packaging on arrival."
       ]
     },
     {
       "heading": "What shows up in the praise",
       "paragraphs": [
-        "In the positive reviews, the themes are different:"
-      ],
-      "bullets": [
-        "Low prices and frequent promotions.",
-        "A large selection of Korean beauty.",
-        "Careful packaging.",
-        "Helpful shipping notifications.",
-        "Delivery that sometimes arrives ahead of schedule.",
-        "An app and site that are easy to use."
+        "We also read the 40 most recent five-star reviews. Thirty were invitations from the store, and most were a few lines long. They praise original, authentic products, variety, prices and discounts, well-protected packaging, and delivery faster than expected.",
+        "Trustpilot's automatic summary, written by AI from 6,462 recent reviews, points the same way: authentic products, price and packaging. It is Trustpilot's summary, not ours, so we use it only as support."
       ],
       "postParagraphs": [
-        "Praise and complaints talk about different moments of the purchase: praise is about the catalog, the price and the package that arrived; complaints are about the package that was late or never came. The score combines both."
+        "Praise and complaints talk about different moments of the purchase: praise is about the catalogue, the price and the parcel that arrived; complaints are about the parcel that was late or never came. The score combines both."
       ]
     },
     {
       "heading": "What the store replies",
       "paragraphs": [
-        "The profile says YesStyle replied to 98% of negative reviews, usually within 24 hours, and warns that the reply may use artificial intelligence.",
-        "Replying is not solving. This article does not assess the text of the replies, so it doesn't say whether they fix the problem for the person who complained. Before buying, it's worth opening a few one-star reviews on the profile and reading the store's reply under each one, especially the ones about tracking and lost packages."
-      ]
-    },
-    {
-      "heading": "What can't be concluded",
-      "paragraphs": [
-        "The score answers one question, not all of them. Four things the score doesn't support:"
-      ],
-      "bullets": [
-        "That the score applies to your country: the profile is global and doesn't separate reviews by origin.",
-        "That the score measures the product: it combines product, delivery and customer service in a single review, and the complaint themes are about delivery and order processing.",
-        "That the store resolves complaints: the profile shows the reply rate, 98%, and the reply time; this article does not assess the text of the replies.",
-        "What Trustpilot's AI summary says: the page carries a summary generated by artificial intelligence, and this article doesn't use it as a source."
-      ]
-    },
-    {
-      "heading": "Our check",
-      "paragraphs": [
-        "The Trustpilot data come from the public YesStyle profile, without logging in, on October 28, 2026: the score, the number of reviews, the breakdown by star, the reply rate and the visible reviews, which is where the themes came from. In November, the score, the number of reviews and the breakdown by star were updated.",
-        "In the store app, the checkout has the Reward Code field.",
-        "Trustpilot's numbers change every month; check the profile on the day you buy."
-      ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
-        "alt": "Phone showing YesStyle's Trustpilot profile: 4.4 score, star distribution and 98% of negative reviews answered",
-        "caption": "YesStyle's Trustpilot profile, mobile version. Screenshot of the site, with two sections enlarged.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
-      "links": [
-        {
-          "label": "YesStyle's profile on Trustpilot",
-          "href": "https://www.trustpilot.com/review/www.yesstyle.com"
-        }
+        "The profile says YesStyle replied to 99% of negative reviews, usually within 24 hours, and warns that replies may use AI.",
+        "A reply doesn't prove the problem was fixed. Before buying, open a few one-star reviews on the profile and see how the store answered, especially cases about tracking that stopped and lost parcels."
       ]
     },
     {
       "heading": "Can you trust YesStyle going by Trustpilot?",
       "paragraphs": [
-        "Yes, with one caveat about scope: by Trustpilot, the score is good (TrustScore 4.4 across 104,909 reviews, with 71% five-star and 7% one-star). To assess customer service, also read recent complaints and replies on the profile; the reply rate doesn't show whether problems were resolved.",
-        "The caveat is about scope, not score. The profile is global, doesn't separate countries, and the complaints are about international delivery: delays, tracking and lost packages. Trustpilot shows how the store behaves overall; the shipping cost and delivery time for your address are in the checkout."
-      ]
+        "Yes, with a caveat about scope. The score is good: a TrustScore of 4.4 across 105,442 reviews, with 71% five-star. It describes the store as a whole. For your own purchase, read the most recent one-star reviews and check the delivery time and shipping cost for your country at checkout.",
+        "The caveat is about scope. The profile is global, and the complaints are about international delivery: delays, stalled tracking and lost parcels. The shipping cost and delivery time for your address appear only at checkout."
+      ],
+      "emphasis": "A global 4.4 tells you how the store handles most orders, but nothing about your address, and delivery is exactly what the complaints are about."
     },
     {
       "heading": "Before you pay",
       "paragraphs": [
-        "The visible negative reviews included delivery and tracking problems. Before paying, check the shipping cost and delivery estimate for your address at checkout. Rates and how delivery times are counted for each country are covered in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
-        "After paying, keep the order number and the tracking code: they are what you need to open a ticket with customer service if the package is late or tracking stops.",
+        "In the 40 one-star reviews we read, delivery and tracking came up in 20. Before paying, check the shipping cost and delivery estimate for your address at checkout. Rates and how delivery times are counted for each country are covered in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+        "After paying, keep the order number and the tracking code: you need both to open a ticket with customer service if the parcel is late or tracking stops.",
         "If you've decided to buy, our page on [YesStyle coupons and the reward code](/en/coupons/yesstyle) leads to the store. The link is an affiliate link: a purchase may earn Em Casa com Cecília a commission, at no extra cost to you."
       ]
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Does YesStyle have a good Trustpilot score? Yes. The TrustScore was 4.4, labeled “Excellent”, across 104,909 reviews; 71% gave five stars and 7% gave one.",
-        "What are the most common complaints about YesStyle? In the negative reviews, the themes are about international delivery: delays and long waits, stalled tracking, lost packages, damaged items and orders held in processing.",
-        "Does YesStyle reply to negative reviews? According to the Trustpilot profile, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use artificial intelligence."
+        "Does YesStyle have a good Trustpilot score? Yes. The TrustScore is 4.4, labeled “Excellent”, across 105,442 reviews; 71% give five stars and 7% give one.",
+        "What are the most common complaints about YesStyle? In the 40 one-star reviews we read, 20 were about delivery: orders that never arrived, parcels stuck in transit, delays and orders not shipped.",
+        "Does YesStyle reply to negative reviews? According to the Trustpilot profile, the store replied to 99% of negative reviews, usually within 24 hours, and its replies may use AI.",
+        "Does the Trustpilot score apply to my country? Not directly. The profile is global and doesn't split reviews by country, so check the delivery time and shipping cost for your address at checkout.",
+        "What is the YesStyle reward code? CECILIA010 gives 5% off a first purchase and 2% off later ones, with no end date. It goes in the Reward Code field at checkout and can be combined with one of the store's own discounts."
       ]
     }
   ],
@@ -184,5 +180,15 @@
     {
       "slug": "yesstyle-black-friday-dates-coupons"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "You want an honest read of the score, with the delivery complaints in view, before you buy from outside the store's home market.",
+      "You plan to use the CECILIA010 reward code and will check shipping cost and delivery time at checkout before paying."
+    ],
+    "skipIf": [
+      "You need guaranteed delivery to your address: half of the one-star reviews we read were about delays, stalled parcels or losses.",
+      "You would rather rely on the store's replies: 99% of negative reviews get one, but a reply doesn't prove the problem was fixed."
+    ]
+  }
 }

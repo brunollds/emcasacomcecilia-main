@@ -137,12 +137,13 @@
       },
       "postParagraphs": [
         "No nosso teste no app, o código foi aceito e o resumo mostrou a linha Influencer Code Discount (5% OFF). O passo a passo com telas do site está em [como usar o CECILIA010](/reviews/codigo-cecilia010-yesstyle-como-usar)."
-      ]
+      ],
+      "emphasis": "No primeiro pedido, o código de recompensa é o desconto pequeno e certo; o cupom da campanha é o grande e passageiro. Vale usar os dois, sem esperar que o CECILIA010 sozinho mude muito o total."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Tem código YesStyle de primeira compra? Tem: o CECILIA010 dá 5% extra no primeiro pedido e 2% nos seguintes, no campo Reward Code.",
+        "Qual é o código de recompensa da YesStyle para a primeira compra? O CECILIA010: 5% extra no primeiro pedido e 2% nos seguintes, no campo Reward Code.",
         "Onde acho o cupom da YesStyle que está valendo? O cupom da campanha está na nossa página de [cupons YesStyle](/cupons/yesstyle) e nos banners da loja. A seção Coupons da conta e os e-mails da YesStyle podem trazer cupons pessoais.",
         "Dá para usar o cupom da YesStyle e o CECILIA010 no mesmo pedido? Dá, com cupom elegível: o cupom vai no campo Coupon Code e o CECILIA010 vai no Reward Code.",
         "Quem já é cliente recebe cupom da YesStyle? Pode receber, sem garantia: a loja manda cupons exclusivos por e-mail, e a seção Coupons da conta mostra os que estão disponíveis.",
@@ -151,5 +152,15 @@
         "O CECILIA010 vale no app? Vale: digite o código no campo Influencer / Rewards Code, na tela Enter Code."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você vai fazer o primeiro pedido na YesStyle e quer somar o código de recompensa CECILIA010 a um cupom da loja, quando houver um válido.",
+      "Você já comprou lá e quer saber o que muda a partir do segundo pedido: o código segue valendo, com 2%."
+    ],
+    "skipIf": [
+      "Você precisa receber no Brasil: a entrega ao Brasil está suspensa temporariamente, e nenhum código muda isso.",
+      "Você espera um desconto grande só com o código: ele dá 5% na primeira compra e 2% nas seguintes, e o resto depende de um cupom da loja."
+    ]
+  }
 }

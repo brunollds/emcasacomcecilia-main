@@ -28,19 +28,8 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
-  "pros": [
-    "짧은 루틴: 제품 세 가지에 15분 정도, 대부분은 패치를 붙이고 기다리는 시간",
-    "하이드로겔 패치가 시원하고, 표면에 질감이 있어 잘 미끄러지지 않음",
-    "연고 같은 질감의 크림이 잘 펴 발리고 벨벳 같은 촉감을 남김",
-    "스패출러가 달린 립 마스크는 달콤한 향이 나는데, 제겐 느끼하지 않았음",
-    "한국 제품을 YesStyle이 직접 판매하고 정품임을 밝히며, CECILIA010은 Reward Code 칸에 넣으면 할인이 더해짐"
-  ],
-  "cons": [
-    "PDRN과 레티날은 천천히 작용해요. 아비브는 이 크림을 탄력과 잔주름용 장기 관리로 안내해요.",
-    "레티날을 쓰면 낮에는 선크림이 필요함. 저처럼 한 번도 안 써 본 사람은 이 습관부터 만들어야 함",
-    "처음에는 패치의 앞뒤를 헷갈렸음",
-    "해외 구매라 배송비와 배송 기간이 배송지에 따라 달라짐"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "빠른 답변",
@@ -118,7 +107,7 @@
       "image": "/images/reviews/yesstyle/abib-adesivo-olhos-hidrogel-pdrn.webp",
       "imageAlt": "분홍색 아비브 하이드로겔 패치를 들고, 다른 손에는 열린 통을 든 Cecília",
       "imageCaption": "아비브 하이드로겔 패치는 60개들이 통에 담겨 있고, 피부에 닿으면 시원해요.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Booster Crème 2.5: 연고 같은 질감이 벨벳이 돼요",
@@ -140,7 +129,7 @@
       "image": "/images/reviews/yesstyle/abib-booster-creme-pdrn-bisnaga.webp",
       "imageAlt": "아비브 PDRN Volume Fill-it Booster Crème 2.5 튜브를 들고 있는 Cecília",
       "imageCaption": "30 ml Booster Crème 2.5 튜브: 연고처럼 나와서 피부에 벨벳 같은 촉감을 남겨요.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "Lip Mask Glazed Jelly: 느끼하지 않은 달콤한 향",
@@ -159,7 +148,7 @@
       "image": "/images/reviews/yesstyle/abib-lip-mask-glazed-jelly.webp",
       "imageAlt": "입술을 쭉 내밀고 아비브 Glazed Jelly 립 마스크 통을 들고 있는 Cecília",
       "imageCaption": "11 g짜리 Lip Mask Glazed Jelly는 젤 질감에 달콤한 향이 나요.",
-      "imageFit": "cover"
+      "imageFit": "contain"
     },
     {
       "heading": "PDRN과 레티날 기본: 기대할 수 있는 것",
@@ -224,7 +213,8 @@
         "얼굴과 목 피부의 결과 윤기;",
         "계속 쓰면 레티날 때문에 자극이 생기는지;",
         "립 마스크가 밤새 입술 보습을 지켜 주는지."
-      ]
+      ],
+      "emphasis": "이 루틴이 마음에 드는 이유는 열 단계짜리 마라톤 없이 평범한 저녁에 들어가기 때문이에요. 내 피부에 무엇을 해 주는지는 몇 주 써 보고 나서야 말할 수 있어요."
     },
     {
       "heading": "자주 묻는 질문",
@@ -233,7 +223,7 @@
         "PDRN이 뭔가요? DNA 조각으로 만든 성분으로, 브랜드들이 탄력을 내세우는 한국 화장품에 많이 쓰여요. 아비브 립 마스크는 아비브가 식물 유래(병풀과 은행나무)라고 밝혀요.",
         "레티날은 레티노산과 같은 건가요? 아니에요. 패치와 크림의 성분은 레티날(레티날데하이드)이고, 비타민 A 유도체로 피부에서 레티노산으로 바뀌어요. 그래서 작용이 더 서서히 일어나고, 낮에는 선크림이 필요해요.",
         "아비브 립 마스크는 향이 강한가요? 달콤한 향이 나요. 저는 강한 향에 예민한 편인데 이건 거슬리지 않았어요.",
-        "CECILIA010은 어디에 쓰나요? 결제 화면의 Reward Code 칸이에요. 첫 구매는 5%, 이후 구매는 2% 할인되고, Coupon Code 칸에 넣은 쿠폰과 그 쿠폰의 조건에 따라 함께 쓸 수 있어요."
+        "YesStyle 리워드 코드 CECILIA010은 어디에 쓰나요? CECILIA010은 결제 화면의 Reward Code 칸에 넣으면 첫 구매는 5%, 이후 구매는 2% 할인돼요. YesStyle 쿠폰을 Coupon Code 칸에 넣었다면 그 쿠폰의 조건에 따라 함께 쓸 수 있어요."
       ]
     }
   ],
@@ -256,5 +246,15 @@
     {
       "slug": "yesstyle-valid-coupon-guide-ko"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "스킨케어 루틴을 한 번도 만들어 본 적이 없어서 작게 시작하고 싶어요. 제 루틴은 제품 세 가지에 15분 정도였고, 대부분이 기다리는 시간이었어요.",
+      "YesStyle이 배송하는 나라에서 받고, 해외 배송과 배송 기간을 감수할 수 있어요."
+    ],
+    "skipIf": [
+      "내 나라가 YesStyle 배송 목록에 없어요. 장바구니를 담기 전에 확인하세요.",
+      "이 루틴이 피부에 무엇을 해 주는지 알고 싶어요. 이 글은 첫 사용 기록일 뿐이고, 결과는 아직 나오지 않았어요."
+    ]
+  }
 }

@@ -38,7 +38,6 @@
         "YesStyle 來自香港，自 2006 年起營運，隸屬於在香港交易所上市的 YesAsia Holdings（2209.HK），可見[控股公司的業務頁面](https://www.yesasiaholdings.com/business.html)與[投資人關係](https://www.yesasiaholdings.com/investor-relations.html)。",
         "YesStyle 服務 150 多個國家與地區的顧客，網站可切換語言。下單時可在可用幣別中選擇結算貨幣，並依 [YesStyle 內部匯率](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)換算；發卡銀行可能收取海外交易手續費。公司設有客服管道，可詢問商品、配送時間、進口稅與退貨政策。"
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
       "imageAlt": "YesStyle 官方頁面與促銷橫幅",
       "imageFit": "square"
@@ -49,7 +48,6 @@
         "YesStyle 自稱是 400 多個韓國美妝（K-beauty）品牌的授權經銷商，同時販售亞洲化妝品與時尚商品。商品涵蓋保養（精華液、精華水、化妝水、防曬）、彩妝、護髮產品與配件。",
         "公司列出的品牌包括 COSRX、Etude House、Hada Labo 與 Rohto，並表示貨源直接來自品牌製造商或合作經銷商。由上市公司（YesAsia Holdings）控股，是關於這家店由誰掌控的公開資訊。"
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
       "imageAlt": "YesStyle 上的 K-Beauty 與 J-Beauty 授權品牌（COSRX、Anua、Beauty of Joseon）",
       "imageFit": "wide"
@@ -62,7 +60,6 @@
         "預設以 YesStyle 店鋪餘額退款，如有需要可申請退回原付款方式。",
         "商品有瑕疵或寄錯時同樣走 RMA，並附上照片。詳細規則見 [YesStyle 退貨政策](https://www.yesstyle.com/en/help/section.html/hsi.736)；你所在國家或地區的消費者權益可能更廣。聯絡客服可使用官網的線上聊天與電子郵件。"
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
       "imageAlt": "YesStyle 的商品列表、美元價格與促銷折扣",
       "imageFit": "square"
@@ -95,6 +92,7 @@
     },
     {
       "heading": "YesStyle 值得信賴嗎？",
+      "emphasis": "這裡的信任有它的尺度：YesStyle 是真實存在的公司，母公司已上市，但商品是否正品只是店鋪自己的說法。可以買，批號、有效期限與封條留到包裹送到那天再檢查。",
       "paragraphs": [
         "值得信賴，但照常檢查。YesStyle 來自香港，2006 年成立，由上市公司 YesAsia Holdings（2209.HK）控股。它自稱是 400 多個韓國美妝品牌的授權經銷商。如果包裹被課稅，符合條件的 1,000 美元以下訂單，可能依目的地以店鋪餘額退還進口稅與清關費用。",
         "實際做法：從 yesstyle.com 下單，在結帳頁面確認運費與配送時間，保留付款憑證，收到商品時檢查批號、有效期限與封條。"
@@ -105,8 +103,7 @@
       "paragraphs": [
         "Em Casa com Cecília 與 YesStyle 有商業合作。透過這項合作，讀者可以在結帳時的專用欄位輸入獎勵碼（Reward Code）CECILIA010，首次購買額外優惠 5%，之後的購買額外優惠 2%。這組獎勵碼可與網站上有效的適用促銷優惠券同時使用。",
         "CECILIA010 沒有設定結束日期，但 YesStyle 可能調整計畫的優惠與規則，見[計畫條款](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284)；付款前請在訂單摘要中確認折扣。連結與獎勵碼可能為部落格帶來佣金，不增加你的費用。"
-      ],
-      "bullets": []
+      ]
     },
     {
       "heading": "常見問題",
@@ -125,10 +122,21 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "你想把 K-Beauty 和其他亞洲品牌放進同一個購物車，並願意在包裹送到時檢查批號、有效期限與封條。",
+      "你付款前已在結帳頁面看過運費與配送時間，也接受退貨的預設退款是店鋪餘額。"
+    ],
+    "skipIf": [
+      "你只買有第三方正品保證的東西：商品是否正品由店鋪自行聲明，我們沒有找到獨立稽核。",
+      "你需要訂單在固定日期前送到：配送時間要到付款前的結帳頁面才會顯示。"
+    ]
+  },
   "cta": {
     "text": "前往 YesStyle 選購美妝 (使用代碼 CECILIA010)",
     "label": "造訪網站",
-    "url": "https://ystyle.co/rQYQv"
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
@@ -136,6 +144,12 @@
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-zh-hant"
+    },
+    {
+      "slug": "yesstyle-valid-coupon-guide-zh-hant"
+    },
+    {
+      "slug": "yesstyle-kbeauty-guide-zh-hant"
     }
   ],
   "translationKey": "yesstyle-trust",

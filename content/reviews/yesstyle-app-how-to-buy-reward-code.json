@@ -78,13 +78,11 @@
       "links": [
         {
           "label": "App Store",
-          "href": "https://apps.apple.com/br/app/id868675907",
-          "sponsored": true
+          "href": "https://apps.apple.com/br/app/id868675907"
         },
         {
           "label": "Google Play",
-          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-          "sponsored": true
+          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
         }
       ]
     },
@@ -179,16 +177,28 @@
       ],
       "postParagraphs": [
         "On store safety, [Is YesStyle legit?](/en/reviews/is-yesstyle-legit-and-safe-review) has the answer."
-      ]
+      ],
+      "emphasis": "The app is just another way to shop: CECILIA010 works the same on the website and in the app, and what the app can add is the 50 YS points for the first download. If you prefer the website, you lose nothing."
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
         "Does YesStyle have an app? Yes, for Android and iPhone, at the official Google Play and App Store links. The store says to download only from those two.",
+        "What is the YesStyle Reward Code in the app? CECILIA010: 5% on the first order and 2% on later ones. On the \"Enter Code\" screen it goes in the \"Influencer / Rewards Code\" field, next to \"Coupon Code\", and the summary shows an \"Influencer Code Discount\" line.",
         "Does CECILIA010 work in the app? Yes. At checkout, tap \"Enter Code\" and type the code in the \"Influencer / Rewards Code\" field. It is a reward code, with up to 5% extra, and it stacks with the store coupon, which goes in the \"Coupon Code\" field.",
         "Do I earn points for downloading the app? Yes, once per account: 50 YS points on the first download of the app with a sign-in. Reinstalling or using another device doesn't give them again, and the points are not the reward code.",
         "Does the app have an exclusive coupon? The store says it publishes a 24-hour coupon, once a month, only for orders in the app. When the app was tested there wasn't an active one; the active coupons are on the store page."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "You prefer shopping on your phone and want to know where the CECILIA010 Reward Code goes in the app.",
+      "You already have a website account: it's the same one in the app, and the bag is shared when you're signed in."
+    ],
+    "skipIf": [
+      "You need delivery to a country the store doesn't ship to: shopping in the app doesn't change the destination rules.",
+      "You're counting on an app-only coupon: the store says one comes out once a month, at a random time, so there may not be one active."
+    ]
+  }
 }

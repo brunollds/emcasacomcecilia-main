@@ -32,7 +32,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Ve a YesStyle si no quieres arriesgar: tiene nota 4,4 en Trustpilot (104.969 valoraciones), contra 1,9 (137) de StyleKorean. El CECILIA010 da hasta 5 % extra. Envío y cargos no cuentan. Para otros destinos, mira en el pago si entregan en tu dirección y qué cargos aplican."
+        "Ve a YesStyle si no quieres arriesgar: tiene nota 4,4 en Trustpilot (105.442 valoraciones), contra 1,9 (137) de StyleKorean. El CECILIA010 da hasta 5 % extra. Envío y cargos no cuentan. Para otros destinos, mira en el pago si entregan en tu dirección y qué cargos aplican."
       ]
     },
     {
@@ -41,7 +41,7 @@
         "Antes del precio, mira quién está al otro lado del pedido. Entre las dos tiendas, la diferencia de reputación es grande."
       ],
       "comparisonTable": {
-        "caption": "Perfiles en Trustpilot el 8 de noviembre.",
+        "caption": "Perfiles en Trustpilot, consultados en noviembre.",
         "headers": [
           "Tienda",
           "Nota en Trustpilot",
@@ -51,7 +51,7 @@
           [
             "YesStyle",
             "4,4",
-            "104.969"
+            "105.442"
           ],
           [
             "StyleKorean",
@@ -338,6 +338,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Cuál es el código de recompensa de YesStyle? El CECILIA010 da un 5 % extra en la primera compra y un 2 % en las siguientes, sin fecha de fin. Va en el campo Reward Code del pago y se suma a un cupón de la propia YesStyle.",
         "¿Hay código de StyleKorean aquí? No. El CECILIA010 es solo de YesStyle y no funciona en StyleKorean.",
         "¿StyleKorean es de YesStyle? No. StyleKorean es de Silicon2, de Corea; YesStyle es de YesAsia, de Hong Kong.",
         "¿Entregan en mi país? Portugal, Estados Unidos, Reino Unido y Alemania están en las tablas de este artículo; para otros destinos, mira [la guía de envíos de YesStyle a España, México, Chile, Perú, Argentina y Colombia](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
@@ -379,5 +380,5 @@
       "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

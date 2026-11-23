@@ -5,6 +5,13 @@
   "seoTitle": "Codice ricompensa YesStyle CECILIA010: come usarlo",
   "type": "Guida e coupon",
   "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
   "description": "Guida pratica per usare il codice influencer CECILIA010 su YesStyle. Scopri dove inserirlo al checkout (Reward Code), come abbinarlo ai coupon attivi e i consigli per la K-Beauty.",
   "metaDescription": "Come usare CECILIA010 su YesStyle: campo Reward Code, fino al 5% extra (5% sul primo ordine e 2% sui successivi), abbinabile ai coupon promozionali idonei secondo il checkout.",
   "publishedAt": "28 settembre 2026",
@@ -16,20 +23,8 @@
   "imageAlt": "Maschera labbra Abib PDRN Collagen Glazed Jelly in un'immagine ufficiale del produttore, accanto al logo YesStyle e al codice ricompensa CECILIA010.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "Codice influencer che aggiunge fino al 5% extra ai coupon promozionali idonei",
-    "Valido sia per il primo ordine (5% extra) sia per gli acquisti successivi (2% extra)",
-    "Spedizione gratuita sopra un importo minimo, che compare al checkout",
-    "Vasto catalogo di K-Beauty, moda coreana e J-Beauty",
-    "YesStyle afferma di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana",
-    "Selettore della lingua in alto nel sito"
-  ],
-  "cons": [
-    "Non sostituisce i coupon normali (funziona in un campo separato)",
-    "Gli ordini internazionali possono comportare spese doganali; controlla la politica di rimborso di YesStyle prima di acquistare",
-    "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio locale",
-    "Prezzi convertiti con il tasso di cambio interno di YesStyle, con possibili commissioni bancarie per acquisti all'estero"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Risposta rapida",
@@ -133,8 +128,7 @@
       "image": "/images/reviews/cupons/yesstyle-resumo-descontos.webp",
       "imageAlt": "Riepilogo dell'ordine su YesStyle con coupon e codice CECILIA010 applicati e sconti separati.",
       "imageCaption": "Nel riepilogo gli sconti compaiono separati: coupon attivo e CECILIA010 come codice influencer.",
-      "imageFit": "contain",
-      "emphasis": "Il consiglio di Cecília: non concludere l'acquisto solo perché il codice è stato accettato. Controlla l'importo finale nel riepilogo dell'ordine e verifica che lo sconto sia davvero comparso prima di pagare."
+      "imageFit": "contain"
     },
     {
       "heading": "Come trovare i coupon attivi di YesStyle",
@@ -183,7 +177,8 @@
         "Leggi le recensioni (reviews): foto reali, commenti su consistenza, profumo e risultato, informazioni sulla scadenza.",
         "Tieni d'occhio le stagioni: Black Friday (novembre), 11.11 (Giornata dei single), Natale, Summer Sale (giugno/luglio), Back to School (agosto/settembre).",
         "Usa sempre CECILIA010: non costa nulla, aggiunge fino al 5% extra (5% sul 1º ordine / 2% sui successivi) se applicato correttamente e sostiene il blog."
-      ]
+      ],
+      "emphasis": "Il 5% del primo ordine e il 2% dei successivi sembrano poco, ma costano solo il tempo di incollare un codice in un campo. Io lo applico a ogni carrello prima ancora di pensare a un coupon: è lo sconto più facile da ottenere e più facile da dimenticare."
     },
     {
       "heading": "Domande frequenti sul codice CECILIA010 su YesStyle (FAQ)",
@@ -212,7 +207,8 @@
   "cta": {
     "text": "Usa il codice influencer ufficiale CECILIA010 al pagamento su YesStyle.",
     "label": "Vai su YesStyle e usa il codice CECILIA010",
-    "url": "https://ystyle.co/rQYQv"
+    "url": "https://ystyle.co/rQYQv",
+    "sponsored": true
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
@@ -227,5 +223,32 @@
   "locale": "it",
   "translationKey": "yesstyle-reward-code",
   "category": "cupons-como-usar",
-  "isNew": false
+  "isNew": false,
+  "relatedArticles": [
+    {
+      "slug": "yesstyle-primo-ordine-codice-cecilia010"
+    },
+    {
+      "slug": "come-trovare-codici-sconto-yesstyle-validi"
+    },
+    {
+      "slug": "yesstyle-e-affidabile-e-sicuro"
+    },
+    {
+      "slug": "app-yesstyle-come-acquistare-codice-ricompensa"
+    },
+    {
+      "slug": "yesstyle-spedizione-italia-tempi-costi-dogana"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Stai per ordinare su YesStyle e vuoi un piccolo sconto in più oltre al coupon del negozio.",
+      "Hai già un coupon a portata di mano e vuoi sapere in quale campo va ogni codice."
+    ],
+    "skipIf": [
+      "Ti aspetti uno sconto grande: CECILIA010 dà il 5% sul primo ordine e il 2% sui successivi, e basta.",
+      "Cerchi un codice che sostituisca il coupon del negozio: CECILIA010 si somma a un solo coupon e non ne fa le veci."
+    ]
+  }
 }

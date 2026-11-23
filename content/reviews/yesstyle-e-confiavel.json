@@ -51,7 +51,6 @@
         "A YesStyle é de Hong Kong, desde 2006. Pertence à YesAsia Holdings (2209.HK), listada na bolsa de Hong Kong, como mostram a [página de negócios da controladora](https://www.yesasiaholdings.com/business.html) e as [relações com investidores](https://www.yesasiaholdings.com/investor-relations.html).",
         "A YesStyle atende clientes em mais de 150 países e regiões, com versão do site em português. O site deixa escolher a moeda do pedido entre as disponíveis e converte pelo [câmbio interno da YesStyle](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708); o banco pode cobrar tarifa de compra internacional. A entrega da YesStyle no Brasil está suspensa temporariamente; a situação atualizada, e as condições de Portugal, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
       "imageAlt": "Interface oficial e banner promocional da loja YesStyle",
       "imageFit": "square"
@@ -62,7 +61,6 @@
         "A YesStyle se declara distribuidora autorizada de mais de 400 marcas de beleza coreana (K-beauty), oferecendo também cosméticos asiáticos e moda. O catálogo inclui skincare (séruns, essências, tônicos, protetores solares), maquiagem, produtos para cabelo e acessórios.",
         "Entre as marcas citadas pela empresa estão COSRX, Etude House, Hada Labo e Rohto, e ela diz comprar direto das fabricantes ou de distribuidores parceiros. O fato de ser controlada por uma empresa listada em bolsa (YesAsia Holdings) é uma informação pública sobre quem controla a loja."
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-most-wanted-brands.webp",
       "imageAlt": "Marcas autorizadas de K-Beauty e J-Beauty na YesStyle (COSRX, Anua, Beauty of Joseon)",
       "imageFit": "wide"
@@ -76,7 +74,6 @@
         "Item com defeito ou errado também passa pelo RMA, com fotos do defeito. As regras estão na [política de devolução da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.736); os direitos do consumidor no seu país podem ir além delas.",
         "O suporte ao cliente atende por chat e e-mail no site oficial."
       ],
-      "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
       "imageAlt": "Grade de produtos, preços em dólares e descontos promocionais na YesStyle",
       "imageFit": "square"
@@ -109,6 +106,7 @@
     },
     {
       "heading": "Dá para confiar na YesStyle?",
+      "emphasis": "Confiança, aqui, tem tamanho certo: a YesStyle é uma empresa de verdade, com controladora listada em bolsa, mas a originalidade dos produtos é palavra da loja. Compre, e deixe a conferência de lote, validade e lacre para a hora em que o pacote chegar.",
       "paragraphs": [
         "Dá, com a conferência de sempre. A YesStyle é de Hong Kong, existe desde 2006 e é controlada pela YesAsia Holdings (2209.HK), listada em bolsa. Ela declara ser distribuidora autorizada de mais de 400 marcas de beleza coreana. Se o pacote for taxado, pedidos elegíveis abaixo de US$ 1.000 podem ter impostos e taxas de alfândega reembolsados em crédito na loja, conforme o destino.",
         "Na prática: compre pelo domínio yesstyle.com, confira frete e prazo no checkout, guarde o comprovante e, na entrega, confira lote, validade e lacre."
@@ -119,8 +117,7 @@
       "paragraphs": [
         "O Em Casa com Cecília mantém uma parceria comercial com a YesStyle. Por meio dela, leitores podem usar o código de recompensa (Reward Code) CECILIA010 no campo próprio do checkout, com 5% de desconto extra na primeira compra e 2% nas seguintes. O código pode somar com cupons promocionais elegíveis ativos no site.",
         "O CECILIA010 não tem data de fim marcada, mas a YesStyle pode mudar os benefícios e as regras do programa, conforme os [termos do programa](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284); confira o desconto no resumo antes de pagar. O link e o código podem gerar comissão para o blog, sem custo extra para você."
-      ],
-      "bullets": []
+      ]
     },
     {
       "heading": "Perguntas frequentes",
@@ -140,6 +137,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você quer comprar K-beauty e outras marcas asiáticas num carrinho só e aceita conferir lote, validade e lacre quando o pacote chegar.",
+      "Você olhou frete e prazo no checkout antes de pagar e aceita que o reembolso padrão de uma devolução saia em crédito da loja."
+    ],
+    "skipIf": [
+      "Você só compra com garantia de autenticidade de terceiros: a originalidade é declarada pela própria loja, e não achamos auditoria independente.",
+      "Você precisa do pedido numa data certa: o prazo só aparece no checkout, e a entrega ao Brasil está suspensa temporariamente."
+    ]
+  },
   "cta": {
     "text": "Conheça a YesStyle e aproveite o código CECILIA010",
     "label": "Visitar loja",
@@ -152,6 +159,12 @@
   "relatedArticles": [
     {
       "slug": "codigo-cecilia010-yesstyle-como-usar"
+    },
+    {
+      "slug": "como-encontrar-cupons-yesstyle-validos"
+    },
+    {
+      "slug": "k-beauty-o-que-e-onde-comprar"
     }
   ],
   "locale": "pt",

@@ -4,7 +4,7 @@
   "locale": "fr",
   "translationKey": "yesstyle-vs-stylekorean",
   "title": "YesStyle ou StyleKorean : laquelle vaut le coup pour votre porte-monnaie ? Comparaison directe",
-  "seoTitle": "YesStyle ou StyleKorean : laquelle choisir ? Prix et livraison",
+  "seoTitle": "YesStyle ou StyleKorean : prix et livraison comparés",
   "type": "Comparatif de boutiques",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -32,7 +32,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Partez sur YesStyle si vous ne voulez pas prendre de risque : Trustpilot 4,4 (104 969 avis) contre 1,9 (137) pour StyleKorean. CECILIA010 ajoute jusqu'à 5 %. Livraison et taxes non comptées. Hors des destinations des tableaux, vérifiez au paiement si elle livre chez vous et quels frais s'appliquent."
+        "Partez sur YesStyle si vous ne voulez pas prendre de risque : Trustpilot 4,4 (105 442 avis) contre 1,9 (137) pour StyleKorean. CECILIA010 ajoute jusqu'à 5 %. Livraison et taxes non comptées. Hors des destinations des tableaux, vérifiez au paiement si elle livre chez vous et quels frais s'appliquent."
       ]
     },
     {
@@ -41,7 +41,7 @@
         "Avant le prix, regardez qui se trouve de l'autre côté de la commande. Entre les deux boutiques, l'écart de réputation est grand."
       ],
       "comparisonTable": {
-        "caption": "Profils Trustpilot au 8 novembre.",
+        "caption": "Profils Trustpilot, consultés en novembre.",
         "headers": [
           "Boutique",
           "Note Trustpilot",
@@ -51,7 +51,7 @@
           [
             "YesStyle",
             "4,4",
-            "104 969"
+            "105 442"
           ],
           [
             "StyleKorean",
@@ -338,6 +338,7 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Quel est le code récompense de YesStyle ? CECILIA010 donne 5 % de plus sur la première commande et 2 % sur les suivantes, sans date de fin. Il se saisit dans le champ Reward Code au paiement et se cumule avec un coupon de la boutique elle-même.",
         "Y a-t-il un code StyleKorean ici ? Non. CECILIA010 est réservé à YesStyle et ne fonctionne pas chez StyleKorean.",
         "StyleKorean appartient-elle à YesStyle ? Non. StyleKorean appartient à Silicon2, en Corée ; YesStyle appartient à YesAsia, à Hong Kong.",
         "Livraison dans mon pays ? Le Portugal, les États-Unis, le Royaume-Uni et l'Allemagne figurent dans les tableaux de cet article ; pour les autres destinations, consultez le [guide de livraison de la boutique en français](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
@@ -379,5 +380,5 @@
       "slug": "code-recompense-yesstyle-cecilia010"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

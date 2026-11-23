@@ -69,12 +69,12 @@
           [
             "Bewertungen",
             "137",
-            "104.972"
+            "105.442"
           ],
           [
             "In den letzten 12 Monaten",
             "45",
-            "11.618"
+            "12.070"
           ],
           [
             "5 Sterne",
@@ -246,15 +246,6 @@
       ]
     },
     {
-      "heading": "Was sich nicht beantworten lässt",
-      "bullets": [
-        "**Wie oft eine Bestellung schiefgeht:** Trustpilot zeigt, wer geschrieben hat, nicht die Gesamtzahl der Bestellungen.",
-        "**Welches Land das höchste Risiko hat:** Die Beschwerden kommen unter anderem aus den USA, Kanada, dem Vereinigten Königreich, Italien, Deutschland, Spanien, den Vereinigten Arabischen Emiraten und Saudi-Arabien, in zu kleiner Zahl für einen Vergleich.",
-        "**Ob der Kundenservice durch die Antworten auf Trustpilot besser geworden ist:** Das Profil antwortet erst seit kurzer Zeit.",
-        "**Ob der Shop mehr oder weniger sicher ist als jeder andere:** Verglichen wird hier nur mit YesStyle."
-      ]
-    },
-    {
       "heading": "Vor der Zahlung",
       "paragraphs": [
         "Wenn das gewünschte Produkt nur bei StyleKorean zu haben ist oder dort deutlich günstiger, prüfen Sie in dieser Reihenfolge:"
@@ -303,7 +294,8 @@
           "objectFit": "square",
           "href": "https://www.yesstyle.com/en/round-lab-1025-dokdo-toner-200ml/info.html/pid.1074112897"
         }
-      ]
+      ],
+      "emphasis": "Eine schlechte Bewertung beweist nicht, dass Ihre Bestellung schiefgeht, aber die Beschwerden über StyleKorean drehen sich immer um dieselben Punkte: Lieferung und Abgaben. Ist die Ersparnis klein, lohnt sich das Risiko nicht."
     },
     {
       "heading": "Und in anderen Ländern?",
@@ -321,6 +313,7 @@
         "Warum wurde bei der Zustellung Steuer erhoben? Weil der Shop außerhalb der USA und Kanadas die Abgaben nicht in den Preis einrechnet und dem Kunden überlässt; sie können vor der Zustellung erhoben werden.",
         "Was passiert, wenn ich das Paket ablehne? Wenn die Ablehnung wegen des Zolls erfolgt, etwa weil Steuern nicht gezahlt wurden, schließt die Richtlinie des Shops Erstattung und Neuversand aus.",
         "Bekomme ich bei StyleKorean eine Erstattung? Die Richtlinie sieht eine Erstattung in Shop-Punkten vor, die 6 Monate gelten, oder auf die Zahlungsart. Für Letzteres nennt sie 2 bis 14 Werktage. Manche Bewertende berichten von Verzögerung oder ausbleibender Erstattung.",
+        "Wie lautet der Reward Code von YesStyle? CECILIA010 bringt 5 % extra bei der ersten Bestellung und 2 % bei den folgenden, ohne Enddatum. Er kommt im Checkout in das Feld Reward Code und lässt sich mit einem Gutschein von YesStyle selbst kombinieren.",
         "Gibt es hier einen Code für StyleKorean? Nein. CECILIA010 gilt nur bei YesStyle und funktioniert nicht bei StyleKorean."
       ]
     }
@@ -359,5 +352,5 @@
       "slug": "yesstyle-versand-deutschland-oesterreich-schweiz"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-23"
 }

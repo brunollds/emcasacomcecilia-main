@@ -138,12 +138,13 @@
       },
       "postParagraphs": [
         "In our app test, the code was accepted and the summary showed an Influencer Code Discount (5% OFF) line. The step-by-step with website screens is in [how to use CECILIA010](/en/reviews/yesstyle-reward-code-coupon-cecilia010)."
-      ]
+      ],
+      "emphasis": "On a first order, the Reward Code is the small, steady discount and the campaign coupon is the big, passing one. Use both, but don't expect CECILIA010 alone to change the total much."
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Is there a YesStyle first-order code? Yes: CECILIA010 gives 5% extra on the first order and 2% on later ones, in the Reward Code field.",
+        "What is the YesStyle Reward Code for a first order? CECILIA010: 5% extra on the first order and 2% on later ones, in the Reward Code field.",
         "Where do I find the YesStyle coupon that is valid now? The campaign coupon is on our [YesStyle coupons](/en/coupons/yesstyle) page and in the store banners. The Coupons section of your account and YesStyle emails may bring personal coupons.",
         "Can I use a YesStyle coupon and CECILIA010 on the same order? Yes, with an eligible coupon: the coupon goes in the Coupon Code field and CECILIA010 goes in the Reward Code field.",
         "Do existing customers get YesStyle coupons? They can, with no guarantee: the store sends exclusive coupons by email, and the Coupons section of your account shows the ones available.",
@@ -152,5 +153,15 @@
         "Does CECILIA010 work in the app? Yes: type the code in the Influencer / Rewards Code field on the Enter Code screen."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "You're placing your first YesStyle order and want to stack the CECILIA010 Reward Code on a store coupon when a valid one exists.",
+      "You've bought there before and want to know what changes from order two: the code still works, at 2%."
+    ],
+    "skipIf": [
+      "You need delivery to a country the store doesn't ship to: check the destination before building a cart, because no code changes that.",
+      "You expect a big discount from the code alone: it gives 5% on the first order and 2% after, and anything bigger depends on a store coupon."
+    ]
+  }
 }

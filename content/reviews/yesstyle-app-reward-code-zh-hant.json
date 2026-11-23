@@ -78,13 +78,11 @@
       "links": [
         {
           "label": "App Store",
-          "href": "https://apps.apple.com/br/app/id868675907",
-          "sponsored": true
+          "href": "https://apps.apple.com/br/app/id868675907"
         },
         {
           "label": "Google Play",
-          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android",
-          "sponsored": true
+          "href": "https://play.google.com/store/apps/details?id=com.yesstyle.android"
         }
       ]
     },
@@ -179,16 +177,28 @@
       ],
       "postParagraphs": [
         "關於商店的安全性，[YesStyle 可靠嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)有解答。"
-      ]
+      ],
+      "emphasis": "App 只是另一種下單管道：CECILIA010 在網站和 App 裡都一樣有效，App 能多給的是第一次下載的 50 個 YS 點數。習慣用網站的人，也不會少拿什麼。"
     },
     {
       "heading": "常見問題",
       "bullets": [
         "YesStyle 有 App 嗎？有，適用於 Android 和 iPhone，透過 Google Play 和 App Store 的官方連結下載。商店表示只應從這兩處下載。",
+        "YesStyle 在 App 裡的獎勵碼是什麼？CECILIA010：首購 5%、之後 2%，填在「Enter Code」頁面的「Influencer / Rewards Code」欄位，位於「Coupon Code」旁，結帳摘要會出現「Influencer Code Discount」一行。",
         "CECILIA010 在 App 裡能用嗎？能。在結帳頁點選「Enter Code」，把代碼填入「Influencer / Rewards Code」欄位。它是獎勵碼，最高額外優惠 5%，可與填在「Coupon Code」欄位的商店優惠券疊加。",
         "下載 App 能獲得點數嗎？能，首次下載 App 並登入可獲得 YS 點數 50 點，每個帳戶限一次。重新安裝或換裝置登入不會再次發放，點數也不是獎勵碼。",
         "App 有專屬優惠券嗎？商店表示每月發布一次 24 小時優惠券，僅限 App 下單使用。測試 App 時沒有可用的。可用的優惠券請看商店頁面。"
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "你習慣用手機購物，想知道獎勵碼 CECILIA010 在 App 裡要填在哪裡。",
+      "你已有網站帳號：App 用的是同一個帳號，登入後購物袋也只有一個。"
+    ],
+    "skipIf": [
+      "你需要寄到商店不配送的國家：用 App 下單並不會改變配送地區的規定。",
+      "你指望 App 專屬優惠券：商店表示每月會在隨機時間推出一張，所以可能剛好沒有有效的。"
+    ]
+  }
 }
