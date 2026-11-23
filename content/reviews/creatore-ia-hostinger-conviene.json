@@ -35,7 +35,7 @@
   "metaDescription": "Hostinger Horizons è diventato l'AI Builder. Conviene o meglio WordPress? Tabella per tipo di progetto, confronto con Wix e Lovable e crediti IA.",
   "publishedAt": "28 ottobre 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-it-v2.webp",
@@ -206,24 +206,19 @@
         "**Conviene** a chi vuole un sito di poche pagine, un portfolio, un piccolo negozio o un'app web semplice e non vuole programmare né occuparsi di plugin. La prima versione nasce dalla descrizione, e la modalità senza IA permette di ritoccare senza spendere crediti. Comincia dalla prova gratuita; se il risultato va bene, il piano Premium copre un sito semplice e l'Unlimited un negozio.",
         "**Resta su WordPress** se il progetto dipende da plugin, da un tema tuo, da qualcuno che manterrà il sito, o se vuoi portare tutto su un altro hosting senza rifare nulla. Il piano Hostinger è lo stesso nei due casi, quindi la scelta riguarda solo lo strumento.",
         "**Nel dubbio, prova l'AI Builder prima di pagare.** Sono 5 crediti gratuiti, senza carta, abbastanza per vedere se l'IA capisce quello che vuoi. Se non capisce, WordPress è sempre lì."
-      ]
+      ],
+      "emphasis": "Per chi vuole un sito o un'app web semplice senza programmare, la scelta è l'AI Builder sul piano Premium, perché copre quel progetto e la modalità senza IA permette di ritoccare senza consumare crediti."
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
         "Hostinger Horizons esiste ancora? Esiste con un altro nome. Nel 2026 Horizons si è fuso con il costruttore di siti di Hostinger ed è diventato l'AI Builder (Hostinger AI Builder), con una modalità a trascinamento e una per creare tramite la chat. Il vecchio indirizzo reindirizza alla pagina nuova.",
         "L'AI Builder di Hostinger fa il sito da solo? Monta la prima versione a partire dalla tua descrizione, secondo la pagina. I contenuti, le foto e le decisioni di business restano tuoi, e ogni richiesta in modalità IA consuma crediti.",
         "Serve saper programmare per usare l'AI Builder? No. La pagina dice che non richiede competenze tecniche in nessuna delle due modalità. Chi sa programmare ha un editor di codice nella modalità con IA.",
         "Si può migrare dall'AI Builder a un altro hosting? La pagina dice che il codice sorgente si può esportare e ospitare altrove. Il back-end integrato, con database e login, resta su Hostinger, quindi un'app richiede una riconfigurazione fuori da lì.",
         "L'AI Builder va bene per un negozio online? Per un piccolo negozio, sì: il negozio online è disponibile nei piani Unlimited e Cloud Startup come componente a pagamento. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
-        "C'è un coupon per il builder IA Hostinger? Usa SONAR20 per il 20% sul primo periodo di un nuovo acquisto idoneo. Controlla abbonamento e servizi inclusi nel carrello; registrazione di dominio e rinnovo sono esclusi.",
         "Un cliente Hostinger esistente può usare SONAR20? Sì, su un nuovo acquisto idoneo con lo stesso account, non sul rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
-      ]
-    },
-    {
-      "heading": "Chi scrive",
-      "paragraphs": [
-        "Em Casa com Cecília gira sull'hosting gestito di Hostinger, come Node.js Web App, e il dominio è registrato su Hostinger dal 2024. Nessuno del team ha usato l'AI Builder né Horizons: questo testo raccoglie quello che dicono la pagina del prodotto, la documentazione di WordPress e le pagine pubbliche di Wix e Lovable."
       ]
     }
   ],
@@ -251,14 +246,14 @@
   ],
   "decision": {
     "takeIf": [
-      "Scegli l'AI Builder se vuoi un sito di poche pagine, un portfolio, un piccolo negozio o un'app web semplice senza programmare.",
-      "Sceglilo se vuoi hosting, dominio ed e-mail nello stesso piano e accetti che l'IA monti la prima versione.",
-      "Sceglilo se monterai il sito una volta e ritoccherai testo e foto nell'editor della modalità senza IA, che non consuma crediti."
+      "vuoi un sito di poche pagine, un portfolio, un piccolo negozio o un'app web semplice senza programmare.",
+      "vuoi hosting, dominio ed e-mail nello stesso piano e accetti che l'IA monti la prima versione.",
+      "monterai il sito una volta e ritoccherai testo e foto nell'editor della modalità senza IA, che non consuma crediti."
     ],
     "skipIf": [
-      "Lascia stare, e resta su WordPress, se il progetto dipende da un plugin specifico o da un tema che hai già.",
-      "Lascia stare se un'altra persona o un'agenzia manterrà il sito: WordPress è lo standard del mercato.",
-      "Lascia stare se vuoi portare tutto su un altro hosting senza rifare nulla, o se chiederai modifiche all'IA ogni settimana e ogni richiesta consuma crediti."
+      "il progetto dipende da un plugin specifico o da un tema che hai già: resta su WordPress.",
+      "un'altra persona o un'agenzia manterrà il sito: WordPress è lo standard del mercato.",
+      "vuoi portare tutto su un altro hosting senza rifare nulla, o chiederai modifiche all'IA ogni settimana e ogni richiesta consuma crediti."
     ]
   }
 }

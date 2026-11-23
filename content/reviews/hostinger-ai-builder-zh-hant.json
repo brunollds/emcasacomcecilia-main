@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger Horizons 已變成 AI Builder。值得用，還是選 WordPress？依專案類型整理的對照表，與 Wix、Lovable 的比較，以及 AI 額度。",
   "publishedAt": "2026年10月28日",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-zh-hant-v2.webp",
@@ -205,24 +205,19 @@
         "**值得用**，適合想要幾頁的網站、作品集、小店或簡單 Web 應用程式，又不想寫程式、也不想管外掛的人。第一版由描述產生，無 AI 模式可以不耗額度地調整。先從免費試用開始；結果合用的話，Premium 方案夠做簡單網站，Unlimited 方案夠開網路商店。",
         "**留在 WordPress**：如果專案依賴外掛、依賴你自己的主題，之後有人來維護網站，或者你想不重做就把一切搬到別的主機。兩種情況下 Hostinger 的方案是同一個，所以只是選工具的問題。",
         "**拿不準，就付款前先試試 AI Builder。**5 個免費額度，不用綁卡，足夠看出 AI 能不能理解你想要什麼。如果它理解不了，WordPress 還在那裡。"
-      ]
+      ],
+      "emphasis": "對想不寫程式就做簡單網站或 Web 應用程式的人來說，選 Premium 方案上的 AI Builder，因為它夠用，而且不用 AI 的模式改東西不消耗額度。"
     },
     {
       "heading": "常見問題",
       "bullets": [
+        "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，對符合資格的新購首個合約期間享 20% 折扣：在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」一行。續約按定價計算，沒有折扣。",
         "Hostinger Horizons 還在嗎？還在，只是換了名字。2026 年 Horizons 與 Hostinger 的網站建置工具合併，成了 AI Builder（Hostinger AI Builder），有拖曳模式和聊天建立模式。舊網址會轉址到新頁面。",
         "Hostinger 的 AI Builder 能自己把網站做出來嗎？依頁面所說，它會根據你的描述搭出第一版。內容、照片和業務決策仍然是你的，AI 模式下每次請求都消耗額度。",
         "用 AI Builder 需要會寫程式嗎？不需要。頁面說兩種模式都不要求技術知識。會寫程式的人，在 AI 模式裡有程式碼編輯器。",
         "能從 AI Builder 搬到別的主機嗎？頁面說原始碼可以匯出，放到別處託管。含資料庫和登入的內建後端留在 Hostinger，所以應用程式在別處需要重新設定。",
         "AI Builder 適合開網路商店嗎？小店可以：網路商店在 Unlimited 和 Cloud Startup 方案中以付費附加項提供。對運費和付款規則複雜的大店，WordPress 加 WooCommerce 控制得更細。",
-        "Hostinger AI建站工具有優惠碼嗎？SONAR20適用於符合資格的新購首個合約期間，折扣20%。請在購物車確認訂閱與內含服務；網域註冊與續約除外。",
         "舊客戶也能用SONAR20嗎？可以，同一帳號符合資格的新購適用，但目前服務的續約不適用。首個合約期間折扣20%，網域註冊也除外。請確認購物車總額。"
-      ]
-    },
-    {
-      "heading": "誰在寫這篇文章",
-      "paragraphs": [
-        "Em Casa com Cecília 運行在 Hostinger 的託管主機上，是一個 Node.js Web App，網域從 2024 年起就註冊在 Hostinger。團隊中沒有人用過 AI Builder 或 Horizons：本文彙整的是產品頁面、WordPress 文件以及 Wix 和 Lovable 公開頁面的說法。"
       ]
     }
   ],
@@ -251,14 +246,14 @@
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
-      "如果你想不寫程式就做幾頁的網站、作品集、小店或簡單 Web 應用程式，就選 AI Builder（原 Horizons）。",
-      "如果你想把主機、網域和電子郵件放在同一個方案裡，也接受由 AI 搭出第一版，就選它。",
-      "如果你打算做一次，之後在不用 AI 的模式裡、不消耗額度的編輯器中改文字和照片，就選它。"
+      "想不寫程式就做幾頁的網站、作品集、小店或簡單 Web 應用程式。",
+      "想把主機、網域和電子郵件放在同一個方案裡，也接受由 AI 搭出第一版。",
+      "打算做一次，之後在不用 AI 的模式裡、不消耗額度的編輯器中改文字和照片。"
     ],
     "skipIf": [
-      "如果專案依賴某個特定外掛或你已有的主題，就別選，留在 WordPress。",
-      "如果之後由別人或外包團隊維護網站，就別選：WordPress 是市場標準。",
-      "如果你想不重做就把一切搬到別的主機，或打算每週都請 AI 改東西（每次請求都消耗額度），就別選。"
+      "專案依賴某個特定外掛或你已有的主題：留在 WordPress。",
+      "之後由別人或外包團隊維護網站：WordPress 是市場標準。",
+      "想不重做就把一切搬到別的主機，或打算每週都請 AI 改東西（每次請求都消耗額度）。"
     ]
   }
 }

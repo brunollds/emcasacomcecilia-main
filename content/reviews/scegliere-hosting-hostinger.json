@@ -35,7 +35,7 @@
   "metaDescription": "Come scegliere l'hosting per un sito: piani, rinnovo e durata dello sconto. Prezzi Hostinger in dollari al 30/10/2026, per mese, con spazio, backup, server nel paese e VPS.",
   "publishedAt": "30 ottobre 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -122,8 +122,7 @@
         "**Fino a 3 siti:** il Premium, a 2,49 US$ al mese per 48 mesi e 10,99 US$ al rinnovo. È il più economico in promozione e al rinnovo.",
         "**Molti siti:** l'Unlimited, a 3,49 US$ al mese e 16,99 US$ al rinnovo. Non ha limite di siti sulla pagina e ha 50 GB NVMe, contro i 20 GB SSD del Premium. La differenza con il Premium è di 1 US$ al mese in promozione e di 6 US$ al rinnovo.",
         "**Il piano più alto:** il Cloud Startup si rinnova a 25,99 US$ al mese e in promozione costa più del doppio dell'Unlimited. Ha senso solo se ti serve quello che offre in più, come i 100 GB NVMe; per molti siti comuni l'Unlimited basta e costa meno."
-      ],
-      "emphasis": "Il totale del primo ciclo inganna: confronta il prezzo al mese, con il rinnovo accanto."
+      ]
     },
     {
       "heading": "Quello che il prezzo non mostra",
@@ -175,7 +174,8 @@
     {
       "heading": "Coupon SONAR20 con la Hostinger",
       "paragraphs": [
-        "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Vale su Startup e-commerce, e-mail professionale e Reach. Per il piano hosting o VPS scelto, verifica l'applicazione nel carrello. Registrazione di dominio e rinnovo sono esclusi. Consulta i [coupon Hostinger](/it/coupons/hostinger)."
+        "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Vale su Startup e-commerce, e-mail professionale e Reach. Per il piano hosting o VPS scelto, verifica l'applicazione nel carrello. Registrazione di dominio e rinnovo sono esclusi. Consulta i [coupon Hostinger](/it/coupons/hostinger).",
+        "SONAR20 vale sui cicli di 12, 24 e 48 mesi; sui piani di 1 mese l'accettazione dipende dal piano, quindi controlla la riga \"Coupon applied\" nel carrello prima di pagare."
       ]
     },
     {
@@ -185,11 +185,20 @@
         "**Scegli l'Unlimited** per molti siti, senza limite di siti, con backup giornaliero e 50 GB NVMe. Il Cloud Startup, che si rinnova a più di 25 US$ al mese, ha senso solo se ti serve lo spazio in più.",
         "**In entrambi i casi**, guarda la colonna del rinnovo prima di pagare e controlla il valore nel carrello. La Hostinger è in campagna e i prezzi possono cambiare.",
         "Se fosse per il mio sito, prenderei il Premium per un sito solo, perché costa meno in promozione e al rinnovo."
+      ],
+      "emphasis": "Dai numeri delle tabelle, per fino a tre siti la scelta è il Premium, perché si rinnova a 10,99 US$ al mese contro i 16,99 US$ dell'Unlimited; l'Unlimited ha senso solo con più di tre siti.",
+      "links": [
+        {
+          "label": "Vedi il coupon SONAR20 e i piani Hostinger",
+          "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Qual è il codice sconto Hostinger? Il codice sconto Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inseriscilo nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo viene addebitato a prezzo di listino, senza sconto.",
         "Quale hosting è meglio? Dipende dai requisiti del progetto e dal costo completo, e da cosa pesa di più per te, la promozione o il rinnovo. Confronta il rinnovo, la durata, il paese del server e il VPS, come sopra.",
         "Quale piano Hostinger si rinnova al prezzo più basso? Il Premium, a 10,99 US$ al mese sul sito internazionale, dopo una promozione di 48 mesi a 2,49 US$.",
         "Conviene il VPS della Hostinger? Dipende dal carico del sito. Confronta vCPU, memoria e rinnovo: il KVM 1 si rinnova a 11,99 US$ al mese sul sito internazionale.",
@@ -197,12 +206,6 @@
         "SONAR20 vale sul VPS Hostinger? Sì, su un nuovo acquisto di VPS idoneo: 20% sul primo periodo. Controlla lo sconto del piano scelto nel carrello.",
         "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo hosting. Fai il passaggio prima che scada il piano vecchio.",
         "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi idonei con lo stesso account. Il rinnovo del piano che hai già si paga al prezzo di listino, senza sconto."
-      ]
-    },
-    {
-      "heading": "Chi scrive",
-      "paragraphs": [
-        "Il sito Em Casa com Cecília gira sull'hosting gestito della Hostinger, e il dominio è registrato presso la Hostinger dal 2024. Il testo riunisce quello che dicono le pagine internazionali della Hostinger."
       ]
     }
   ],
@@ -230,12 +233,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Prendi il Premium se è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre, e il piano copre il progetto: costa meno in promozione e al rinnovo.",
-      "Prendi un VPS se il sito ha bisogno di processore e memoria garantiti: il KVM 1 ha già 4 GB."
+      "è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre, e il piano copre il progetto: costa meno in promozione e al rinnovo.",
+      "il sito ha bisogno di processore e memoria garantiti e scegli un VPS: il KVM 1 ha già 4 GB."
     ],
     "skipIf": [
-      "Lascia stare il Premium se avrai più di tre siti: l'Unlimited non ha limite di siti.",
-      "Lascia stare il Premium se contano lo spazio su disco e il backup giornaliero: ha 20 GB SSD e backup settimanale."
+      "avrai più di tre siti: l'Unlimited non ha limite di siti.",
+      "contano lo spazio su disco e il backup giornaliero: il Premium ha 20 GB SSD e backup settimanale."
     ]
   }
 }

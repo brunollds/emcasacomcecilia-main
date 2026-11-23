@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger 的 VPS 与共享主机怎么选：两者各是什么、场景对照表、KVM 1 至 8 的配置，以及服务器维护中留给你的工作。",
   "publishedAt": "2026年10月28日",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -52,7 +52,7 @@
     {
       "heading": "两者各是什么",
       "paragraphs": [
-        "**共享主机**是一台服务器由多位客户分用。系统、Web 服务器和更新由 Hostinger 负责；你进入面板，安装 WordPress 或上传网站文件，就完成了。在 Hostinger，这是 Single、Premium 和 Unlimited 套餐，还有 Cloud Startup，思路相同，资源更多。",
+        "**共享主机**是一台服务器由多位客户分用。系统、Web 服务器和更新由 Hostinger 负责；你进入面板，安装 WordPress 或上传网站文件，就完成了。在 Hostinger，这是 Premium 和 Unlimited 套餐，还有 Cloud Startup，思路相同，资源更多。",
         "**VPS**（虚拟专用服务器）是一台提供套餐资源和 root 权限的虚拟机。root 是系统管理员账户；配置、更新和安全由你负责。本文比较 KVM 1、2、4 和 8。",
         "区别不在于“谁更好”，而在于谁来照看服务器，以及有多少资源是专门留给你的。"
       ]
@@ -62,11 +62,13 @@
       "paragraphs": [
         "看价格之前，先回答三个问题。三个都是“不”，共享主机就够了。"
       ],
-      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
-      "imageAlt": "列出三个问题的图表：是否需要在面板之外安装系统，是否需要独享 CPU 和内存，是否需要 root 权限；任一回答“是”就指向 VPS，三个都是“不”则指向共享主机",
-      "imageCaption": "区分共享主机与 VPS 的三个问题。本站根据 Hostinger 页面制作的图表。",
-      "imageFit": "contain",
-      "imageAspectRatio": 1.7787,
+      "image": {
+        "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+        "alt": "列出三个问题的图表：是否需要在面板之外安装系统，是否需要独享 CPU 和内存，是否需要 root 权限；任一回答“是”就指向 VPS，三个都是“不”则指向共享主机",
+        "caption": "区分共享主机与 VPS 的三个问题。本站根据 Hostinger 页面制作的图表。",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      },
       "comparisonTable": {
         "headers": [
           "场景",
@@ -194,17 +196,12 @@
     {
       "heading": "常见问题",
       "bullets": [
+        "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，对符合资格的新购首个合同期间享 20% 折扣：在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”一行。续费按标价收费，没有折扣。",
         "VPS 比共享主机快吗？不一定。分配的资源和 root 权限改变了环境的管理方式，但仅凭这些无法预测网站的响应速度。需要比较应用要求与套餐限制。",
         "可以先用共享主机，以后再迁到 VPS 吗？如果应用兼容新环境，可以迁移。你需要购买服务、配置环境并转移网站；共享主机不能在面板中直接转成 VPS。",
         "用 VPS 需要懂 Linux 吗？需要，至少要会终端的基本操作：安装程序、更新系统、看日志。共享主机则一切通过面板完成，不必使用终端。",
         "VPS 能跑 WordPress 吗？能，也可以用预装模板起步。但操作系统的安全补丁、环境配置和维护仍由你负责。共享主机的面板里 WordPress 是现成的，服务器由 Hostinger 负责。",
         "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
-      ]
-    },
-    {
-      "heading": "作者介绍",
-      "paragraphs": [
-        "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App，域名也从 2024 年起注册在 Hostinger。本文不含 VPS 测试，只汇总 Hostinger 页面上的说明，本站自己的经验仅限于托管主机。"
       ]
     }
   ],
@@ -232,13 +229,13 @@
   ],
   "decision": {
     "takeIf": [
-      "如果网站需要面板里没有的系统、程序或数据库，选 VPS。",
-      "如果需要独享的 CPU 和内存，或需要 root 权限，就选。",
-      "如果有整天运行的面板、机器人或自动化（n8n、Docker），并且有人维护服务器，就选。"
+      "网站需要面板里没有的系统、程序或数据库。",
+      "需要独享的 CPU 和内存，或需要 root 权限。",
+      "有整天运行的面板、机器人或自动化（n8n、Docker），并且有人维护服务器。"
     ],
     "skipIf": [
-      "如果是博客、作品集、公司网站、小型网店或 Node.js 网站（套餐需支持，如 Unlimited 或 Cloud Startup），就别选：共享主机够用，服务器由 Hostinger 负责。",
-      "如果从没打开过终端，就别选：安装、更新、防护和备份都会变成你的事。"
+      "是博客、作品集、公司网站、小型网店或 Node.js 网站（套餐需支持，如 Unlimited 或 Cloud Startup）：共享主机够用，服务器由 Hostinger 负责。",
+      "从没打开过终端：安装、更新、防护和备份都会变成你的事。"
     ]
   }
 }

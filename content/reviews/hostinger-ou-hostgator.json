@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger ou HostGator, com o cupom SONAR20 de 20% OFF na Hostinger: renovação, ciclos, backup e VPS lado a lado.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -200,8 +200,7 @@
         "**Vários sites:** a HostGator é mais barata na promoção e bem mais barata depois (R$ 40,89 contra R$ 64,99 por mês). O Unlimited não tem limite de sites; o M diz mais de 60.",
         "**O plano mais alto:** o Cloud Startup é o plano de nuvem da Hostinger e custa cerca do dobro do Turbo nas duas fases. Só compensa se você precisa do que ele entrega a mais; para muitos sites comuns, o Turbo resolve por menos.",
         "**O Premium**, de 3 sites, não tem par na HostGator: fica entre o P e o M."
-      ],
-      "emphasis": "O total do primeiro ciclo engana: compare o preço por mês, com a renovação ao lado."
+      ]
     },
     {
       "heading": "O que o preço não mostra",
@@ -271,7 +270,8 @@
       "heading": "Cupom SONAR20 na Hostinger",
       "paragraphs": [
         "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. O código vale no Startup de e-commerce, no e-mail profissional e no Reach; para o plano de hospedagem ou VPS que escolher, confira a aplicação no carrinho. Registro de domínio e renovação ficam fora. Condições em [cupons da Hostinger](/cupons/hostinger).",
-        "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso."
+        "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso.",
+        "O SONAR20 entra nos ciclos de 12, 24 e 48 meses. No ciclo de 1 mês, depende do plano: no nosso teste de 23/11/2026, o cupom entrou no Cloud Startup e foi recusado no Single e no Premium. Confira a linha \"Cupom aplicado\" no carrinho antes de pagar."
       ]
     },
     {
@@ -281,11 +281,20 @@
         "**Escolha a HostGator** para vários sites, ou se espaço em disco e backup diário em todo plano pesam para você. No plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
         "**Nos dois casos**, olhe a coluna da renovação antes de pagar e confira o valor no carrinho. As duas estão em campanha e os preços podem mudar.",
         "Se fosse para o meu site, eu levaria a Hostinger para um site só, porque o Single custa menos na promoção e na renovação."
+      ],
+      "emphasis": "Pelos números das tabelas, para um site só a escolha é a Hostinger, porque o Single renova a R$ 23,99 por mês contra R$ 31,39 do preço regular da HostGator; para vários sites, a HostGator, porque o preço regular dela é R$ 40,89 por mês contra R$ 64,99 do Unlimited.",
+      "links": [
+        {
+          "label": "Ver cupom SONAR20 e planos da Hostinger",
+          "href": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
         "Qual é melhor, Hostinger ou HostGator? Depende dos requisitos do projeto e do custo completo. Para 1 site, a Hostinger custa menos na promoção e na renovação; para vários sites, a HostGator custa menos nas duas fases e dá mais espaço. A comparação com a Locaweb está em [Hostinger ou Locaweb](/reviews/hostinger-ou-locaweb).",
         "Qual renova mais barato, Hostinger ou HostGator? No plano de 1 site, a Hostinger: R$ 23,99/mês contra R$ 31,39/mês do preço regular da HostGator. No plano para vários sites, a HostGator: R$ 40,89/mês contra R$ 64,99/mês do Unlimited.",
         "Hostinger ou HostGator para VPS? Com o mesmo número de vCPU, a Hostinger traz o dobro de memória e a HostGator custa menos na promoção. A HostGator não mostra a renovação do VPS na página; pergunte antes de fechar.",
@@ -294,22 +303,16 @@
         "Dá para trocar de hospedagem sem perder o site? Dá, levando os arquivos e o banco de dados para a nova. A HostGator anuncia migração grátis; faça a troca antes de o plano antigo vencer.",
         "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova elegível, com a mesma conta. A renovação do serviço que você já tem sai pelo preço de tabela, sem desconto."
       ]
-    },
-    {
-      "heading": "Quem escreve",
-      "paragraphs": [
-        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado na Hostinger desde 2024. Este texto reúne o que as páginas brasileiras das duas dizem."
-      ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Leve a Hostinger se é um site só, como blog, portfólio ou página de empresa, e o Single atende ao projeto: ele custa menos na promoção e na renovação.",
-      "Leve a Hostinger se quer um VPS com mais memória pelo mesmo número de vCPU."
+      "é um site só, como blog, portfólio ou página de empresa, e o Single atende ao projeto: ele custa menos na promoção e na renovação.",
+      "quer um VPS com mais memória pelo mesmo número de vCPU."
     ],
     "skipIf": [
-      "Passe para a HostGator se vai ter vários sites e o plano M atende ao projeto: no plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
-      "Passe para a HostGator se espaço em disco e backup diário em todo plano pesam para você."
+      "vai ter vários sites e o plano M da HostGator atende ao projeto: no plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
+      "espaço em disco e backup diário em todo plano pesam para você: a HostGator dá 100 GB e backup diário já no plano de entrada."
     ]
   },
   "pros": [],

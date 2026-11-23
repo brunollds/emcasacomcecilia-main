@@ -165590,7 +165590,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom SONAR20 dá 20% OFF no Criador com IA da Hostinger. Vale a pena ou WordPress? Quadro por projeto, Wix, Lovable e créditos de IA.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-pt-v2.webp",
@@ -165779,8 +165779,7 @@ export const reviewsData: unknown[] = [
           "**Premium, com o SONAR20:** 48 × R$ 7,99 = **R$ 383,52**. Sem o SONAR20: R$ 479,52. **Renovação, nos 48 meses seguintes:** 48 × R$ 38,99 = R$ 1.871,52.",
           "**Unlimited, com o SONAR20:** 48 × R$ 10,39 = **R$ 498,72**. Sem o SONAR20: R$ 623,52. **Renovação:** 48 × R$ 64,99 = R$ 3.119,52.",
           "**Créditos de IA são presente único**, não mensal. Acabaram, é recarga, e o preço da recarga não aparece na página: confira no painel antes de contar com ele."
-        ],
-        "emphasis": "Olhe a renovação antes do desconto: compare o total de 48 meses."
+        ]
       },
       {
         "heading": "O que conferir antes de pagar",
@@ -165800,7 +165799,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
           "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. Registro de domínio e renovação ficam fora. Confira o produto contratado e o total antes de pagar. Condições em [cupons da Hostinger](/cupons/hostinger).",
-          "A Hostinger está em campanha de Black Friday, sem data de fim na página, e os preços e os créditos em dobro podem mudar. Confira o valor no carrinho antes de pagar."
+          "A campanha de Black Friday da Hostinger vai até 14/12/2026, e os preços e os créditos em dobro podem mudar até lá. Confira o valor no carrinho antes de pagar."
         ]
       },
       {
@@ -165809,38 +165808,33 @@ export const reviewsData: unknown[] = [
           "**Vale a pena** para quem quer um site de poucas páginas, um portfólio, uma loja pequena ou um app web simples e não quer programar nem cuidar de plugin. A primeira versão sai da descrição, e o modo sem IA deixa ajustar sem gastar crédito. Comece pelo teste grátis; se o resultado servir, o plano Premium cobre site simples e o Unlimited, loja.",
           "**Fique no WordPress** se o projeto depende de plugins, de um tema seu, de alguém que vai manter o site, ou se você quer levar tudo para outra hospedagem sem retrabalho. O plano da Hostinger é o mesmo nos dois casos, então a escolha é só de ferramenta.",
           "**Na dúvida, teste o Criador com IA antes de pagar.** São 5 créditos grátis, sem cartão, o bastante para ver se a IA entende o que você quer. Se não entender, o WordPress continua lá."
-        ]
+        ],
+        "emphasis": "Pelos números do quadro de preços, para quem quer um site simples sem programar, a escolha é o Premium com o Criador com IA, porque os 48 meses saem a R$ 383,52 com o SONAR20 (renovação a R$ 38,99/mês) e o modo sem IA não gasta créditos."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "O Hostinger Horizons ainda existe? Existe com outro nome. Em 2026 o Horizons se fundiu com o construtor de sites da Hostinger e virou o Criador com IA (Hostinger AI Builder), com um modo de arrastar e soltar e um modo de criar pelo chat. O endereço antigo redireciona para a página nova.",
           "O Criador com IA da Hostinger faz o site sozinho? Ele monta a primeira versão a partir da sua descrição, segundo a página. O conteúdo, as fotos e as decisões de negócio continuam sendo seus, e cada pedido no modo com IA consome créditos.",
           "Precisa saber programar para usar o Criador com IA? Não. A página diz que não exige conhecimento técnico nos dois modos. Quem sabe programar tem um editor de código no modo com IA.",
           "Dá para migrar do Criador com IA para outra hospedagem? A página diz que o código-fonte pode ser exportado e hospedado em outro lugar. O back-end integrado, com banco e login, fica na Hostinger, então um app precisa de reconfiguração fora dela.",
           "O Criador com IA vale para loja virtual? Para loja pequena, sim: a loja virtual está disponível nos planos Unlimited e Cloud Startup, como complemento cobrado à parte. Para loja grande, com regras de frete e pagamento, o WordPress com WooCommerce dá mais controle.",
           "Quanto custa o Horizons da Hostinger em 2026? O Criador com IA vem nos planos de hospedagem. O Premium custava R$ 7,99/mês com o SONAR20 (R$ 9,99 sem) em 48 meses e renova a R$ 38,99/mês; o Unlimited, R$ 10,39/mês (R$ 12,99 sem) e renova a R$ 64,99/mês.",
-          "Tem cupom para o Criador com IA da Hostinger? Use SONAR20 para 20% no primeiro período de uma compra nova elegível. Confira a assinatura e os serviços incluídos no carrinho; registro de domínio e renovação ficam fora.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, numa compra nova elegível com a mesma conta, não na renovação do serviço atual. São 20% no primeiro período; registro de domínio também fica fora. Confira o total no carrinho."
-        ]
-      },
-      {
-        "heading": "Quem escreve",
-        "paragraphs": [
-          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. Ninguém da equipe usou o Criador com IA nem o Horizons: este texto reúne o que a página brasileira do produto, a documentação do WordPress e as páginas públicas do Wix e do Lovable dizem."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o Criador com IA se quer um site de poucas páginas, um portfólio, uma loja pequena ou um app web simples sem programar.",
-        "Leve se quer hospedagem, domínio e e-mail no mesmo plano e aceita que a IA monte a primeira versão.",
-        "Leve se vai montar uma vez e ajustar texto e foto no editor do modo sem IA, que não gasta créditos."
+        "quer um site de poucas páginas, um portfólio, uma loja pequena ou um app web simples sem programar.",
+        "quer hospedagem, domínio e e-mail no mesmo plano e aceita que a IA monte a primeira versão.",
+        "vai montar o site uma vez e ajustar texto e foto no editor do modo sem IA, que não gasta créditos."
       ],
       "skipIf": [
-        "Passe, e fique no WordPress, se o projeto depende de um plugin específico ou de um tema que você já tem.",
-        "Passe se outra pessoa ou uma agência vai manter o site: o WordPress é o padrão do mercado.",
-        "Passe se quer levar tudo para outra hospedagem sem retrabalho, ou se vai pedir mudanças à IA toda semana e cada pedido gasta créditos."
+        "o projeto depende de um plugin específico ou de um tema que você já tem: nesse caso, fique no WordPress.",
+        "outra pessoa ou uma agência vai manter o site: o WordPress é o padrão do mercado.",
+        "quer levar tudo para outra hospedagem sem retrabalho, ou vai pedir mudanças à IA toda semana e cada pedido gasta créditos."
       ]
     },
     "pros": [],
@@ -165902,7 +165896,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons is now the AI Builder. Is it worth it, or should you use WordPress? A table by project type, a comparison with Wix and Lovable, and AI credits.",
     "publishedAt": "October 28, 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -166074,24 +166068,19 @@ export const reviewsData: unknown[] = [
           "**It's worth it** if you want a site of a few pages, a portfolio, a small store or a simple web app and you don't want to code or look after plugins. The first version comes from the description, and the mode without AI lets you tweak without spending credits. Start with the free trial; if the result works for you, the Premium plan covers a simple site and Unlimited covers a store.",
           "**Stay with WordPress** if the project depends on plugins, on a theme of your own, on someone who will maintain the site, or if you want to move everything to another host without rework. The Hostinger plan is the same in both cases, so the choice is only about the tool.",
           "**If in doubt, try the AI Builder before paying.** You get 5 free credits, no card, enough to see whether the AI understands what you want. If it doesn't, WordPress is still there."
-        ]
+        ],
+        "emphasis": "For someone who wants a simple site or web app without coding, the choice is the AI Builder on the Premium plan, because it covers that project and the no-AI mode edits without spending credits."
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewals are charged at the list price, with no discount.",
           "Does Hostinger Horizons still exist? It exists under another name. In 2026 Horizons merged with Hostinger's website builder and became the AI Builder (Hostinger AI Builder), with a drag-and-drop mode and a mode for building through the chat. The old address redirects to the new page.",
           "Does Hostinger's AI Builder build the site on its own? It builds the first version from your description, according to the page. The content, the photos and the business decisions are still yours, and every request in AI mode uses credits.",
           "Do you need to know how to code to use the AI Builder? No. The page says it requires no technical knowledge in either mode. For people who do code, AI mode has a code editor.",
           "Can you migrate from the AI Builder to another host? The page says the source code can be exported and hosted elsewhere. The built-in back end, with database and login, stays at Hostinger, so an app needs reconfiguring outside it.",
           "Is the AI Builder good for an online store? For a small store, yes: the online store is available on the Unlimited and Cloud Startup plans as a paid add-on. For a large store, with shipping and payment rules, WordPress with WooCommerce gives more control.",
-          "Is there a coupon for Hostinger's AI Builder? Use SONAR20 for 20% off the first term of an eligible new purchase. Check the subscription and included services in the cart; domain registration and renewal are excluded.",
           "Can existing Hostinger customers use SONAR20? Yes, on an eligible new purchase with the same account, not on renewal of the current service. It gives 20% off the first term; domain registration is also excluded. Check the cart total."
-        ]
-      },
-      {
-        "heading": "Who writes",
-        "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since 2024. Nobody on the team has used the AI Builder or Horizons: this text brings together what the product page, the WordPress documentation and the public pages of Wix and Lovable say."
         ]
       }
     ],
@@ -166119,14 +166108,14 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take the AI Builder if you want a site of a few pages, a portfolio, a small store or a simple web app without coding.",
-        "Take it if you want hosting, domain and email in the same plan and you're fine with the AI building the first version.",
-        "Take it if you'll build the site once and tweak text and photos in the no-AI mode's editor, which uses no credits."
+        "you want a site of a few pages, a portfolio, a small store or a simple web app without coding.",
+        "you want hosting, domain and email in the same plan and you're fine with the AI building the first version.",
+        "you'll build the site once and tweak text and photos in the no-AI mode's editor, which uses no credits."
       ],
       "skipIf": [
-        "Skip it, and stay with WordPress, if the project depends on a specific plugin or on a theme you already have.",
-        "Skip it if someone else or an agency will maintain the site: WordPress is the market standard.",
-        "Skip it if you want to move everything to another host without rework, or if you'll ask the AI for changes every week and each request uses credits."
+        "the project depends on a specific plugin or on a theme you already have: stay with WordPress.",
+        "someone else or an agency will maintain the site: WordPress is the market standard.",
+        "you want to move everything to another host without rework, or you'll ask the AI for changes every week and each request uses credits."
       ]
     }
   },
@@ -166166,7 +166155,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons ahora es el creador con IA. ¿Vale la pena o WordPress? Cuadro por tipo de proyecto, comparación con Wix y Lovable y créditos de IA.",
     "publishedAt": "28 de octubre de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -166338,24 +166327,19 @@ export const reviewsData: unknown[] = [
           "**Vale la pena** para quien quiere una web de pocas páginas, un portfolio, una tienda pequeña o una app web sencilla y no quiere programar ni ocuparse de plugins. La primera versión sale de la descripción, y el modo sin IA permite ajustar sin gastar créditos. Empieza por la prueba gratis; si el resultado te sirve, el plan Premium cubre una web sencilla y el Unlimited, una tienda.",
           "**Quédate en WordPress** si el proyecto depende de plugins, de un tema tuyo, de alguien que mantendrá la web, o si quieres llevártelo todo a otro hosting sin rehacer nada. El plan de Hostinger es el mismo en los dos casos, así que la elección es solo de herramienta.",
           "**Si dudas, prueba el creador con IA antes de pagar.** Son 5 créditos gratis, sin tarjeta, lo bastante para ver si la IA entiende lo que quieres. Si no lo entiende, WordPress sigue ahí."
-        ]
+        ],
+        "emphasis": "Para quien quiere una web o una app web sencilla sin programar, la elección es el creador con IA en el plan Premium, porque cubre ese proyecto y el modo sin IA edita sin gastar créditos."
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20% de descuento en el primer período de una compra nueva elegible: introduce el código en el campo \"Have a coupon code?\" del carrito y comprueba la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
           "¿Hostinger Horizons todavía existe? Existe con otro nombre. En 2026 Horizons se fusionó con el constructor de sitios de Hostinger y pasó a ser el creador con IA (Hostinger AI Builder), con un modo de arrastrar y soltar y un modo de crear por el chat. La dirección antigua redirige a la página nueva.",
           "¿El creador con IA de Hostinger hace la web solo? Monta la primera versión a partir de tu descripción, según la página. El contenido, las fotos y las decisiones de negocio siguen siendo tuyos, y cada petición en el modo con IA consume créditos.",
           "¿Hace falta saber programar para usar el creador con IA? No. La página dice que no exige conocimientos técnicos en ninguno de los dos modos. Quien sabe programar tiene un editor de código en el modo con IA.",
           "¿Se puede migrar del creador con IA a otro hosting? La página dice que el código fuente se puede exportar y alojar en otro sitio. El back end integrado, con base de datos e inicio de sesión, se queda en Hostinger, así que una app necesita reconfigurarse fuera de ella.",
           "¿El creador con IA sirve para una tienda online? Para una tienda pequeña, sí: la tienda online está disponible en los planes Unlimited y Cloud Startup como complemento de pago. Para una tienda grande, con reglas de envío y pago, WordPress con WooCommerce da más control.",
-          "¿Hay cupón para el creador con IA de Hostinger? Usa SONAR20 para un 20 % en el primer periodo de una compra nueva elegible. Comprueba la suscripción y los servicios incluidos en el carrito; registro de dominio y renovación quedan fuera.",
           "¿Un cliente existente de Hostinger puede usar SONAR20? Sí, en una compra nueva elegible con la misma cuenta, no en la renovación del servicio actual. Da un 20 % en el primer periodo; el registro de dominio también queda fuera. Comprueba el total del carrito."
-        ]
-      },
-      {
-        "heading": "Quién escribe",
-        "paragraphs": [
-          "Em Casa com Cecília funciona en el hosting gestionado de Hostinger, como Node.js Web App, y el dominio está registrado en Hostinger desde 2024. Nadie del equipo ha usado el creador con IA ni Horizons: este texto reúne lo que dicen la página del producto, la documentación de WordPress y las páginas públicas de Wix y Lovable."
         ]
       }
     ],
@@ -166383,14 +166367,14 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Elige el creador con IA si quieres una web de pocas páginas, un portfolio, una tienda pequeña o una app web sencilla sin programar.",
-        "Elígelo si quieres hosting, dominio y correo en el mismo plan y aceptas que la IA monte la primera versión.",
-        "Elígelo si vas a montar la web una vez y ajustar texto y fotos en el editor del modo sin IA, que no gasta créditos."
+        "quieres una web de pocas páginas, un portfolio, una tienda pequeña o una app web sencilla sin programar.",
+        "quieres hosting, dominio y correo en el mismo plan y aceptas que la IA monte la primera versión.",
+        "vas a montar la web una vez y ajustar texto y fotos en el editor del modo sin IA, que no gasta créditos."
       ],
       "skipIf": [
-        "Pasa, y quédate en WordPress, si el proyecto depende de un plugin concreto o de un tema que ya tienes.",
-        "Pasa si otra persona o una agencia va a mantener la web: WordPress es el estándar del mercado.",
-        "Pasa si quieres llevártelo todo a otro hosting sin rehacer nada, o si vas a pedirle cambios a la IA cada semana y cada petición gasta créditos."
+        "el proyecto depende de un plugin concreto o de un tema que ya tienes: quédate en WordPress.",
+        "otra persona o una agencia va a mantener la web: WordPress es el estándar del mercado.",
+        "quieres llevártelo todo a otro hosting sin rehacer nada, o vas a pedirle cambios a la IA cada semana y cada petición gasta créditos."
       ]
     }
   },
@@ -166430,7 +166414,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons est devenu le créateur IA. Vaut-il le coup, ou WordPress ? Tableau par type de projet, comparaison avec Wix et Lovable, et crédits d'IA.",
     "publishedAt": "28 octobre 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -166602,24 +166586,19 @@ export const reviewsData: unknown[] = [
           "**Il vaut le coup** pour qui veut un site de quelques pages, un portfolio, une petite boutique ou une appli web simple et ne veut ni coder ni s'occuper de plugins. La première version sort de la description, et le mode sans IA permet de retoucher sans dépenser de crédits. Commencez par l'essai gratuit ; si le résultat convient, l'offre Premium couvre un site simple et Unlimited, une boutique.",
           "**Restez sur WordPress** si le projet dépend de plugins, d'un thème à vous, de quelqu'un qui maintiendra le site, ou si vous voulez tout emporter chez un autre hébergeur sans tout refaire. L'offre Hostinger est la même dans les deux cas, donc le choix ne porte que sur l'outil.",
           "**Dans le doute, essayez le créateur IA avant de payer.** Vous avez 5 crédits gratuits, sans carte, de quoi voir si l'IA comprend ce que vous voulez. Si elle ne comprend pas, WordPress est toujours là."
-        ]
+        ],
+        "emphasis": "Pour qui veut un site ou une appli web simple sans coder, le choix est le créateur IA sur l'offre Premium, car elle couvre ce projet et le mode sans IA permet de retoucher sans consommer de crédits."
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
           "Hostinger Horizons existe-t-il encore ? Il existe sous un autre nom. En 2026, Horizons a fusionné avec le créateur de sites de Hostinger et est devenu le créateur IA (Hostinger AI Builder), avec un mode glisser-déposer et un mode de création par le chat. L'ancienne adresse redirige vers la nouvelle page.",
           "Le créateur IA de Hostinger fait-il le site tout seul ? Il monte la première version à partir de votre description, selon la page. Le contenu, les photos et les décisions commerciales restent les vôtres, et chaque demande en mode IA consomme des crédits.",
           "Faut-il savoir coder pour utiliser le créateur IA ? Non. La page dit qu'il n'exige aucune connaissance technique dans les deux modes. Pour ceux qui codent, le mode IA propose un éditeur de code.",
           "Peut-on migrer du créateur IA vers un autre hébergeur ? La page dit que le code source peut être exporté et hébergé ailleurs. Le back-end intégré, avec base de données et connexion, reste chez Hostinger, donc une appli demande une reconfiguration en dehors.",
           "Le créateur IA convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne est disponible sur les offres Unlimited et Cloud Startup, en option payante. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
-          "Existe-t-il un code pour le créateur IA Hostinger ? Utilisez SONAR20 pour 20 % sur la première période d'un nouvel achat éligible. Vérifiez l'abonnement et les services inclus au panier ; enregistrement de domaine et renouvellement sont exclus.",
           "Un client Hostinger existant peut-il utiliser SONAR20 ? Oui, sur un nouvel achat éligible avec le même compte, pas sur le renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
-        ]
-      },
-      {
-        "heading": "Qui écrit",
-        "paragraphs": [
-          "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis 2024. Personne dans l'équipe n'a utilisé le créateur IA ni Horizons : ce texte rassemble ce que disent la page du produit, la documentation de WordPress et les pages publiques de Wix et de Lovable."
         ]
       }
     ],
@@ -166647,14 +166626,14 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez le créateur IA si vous voulez un site de quelques pages, un portfolio, une petite boutique ou une appli web simple sans coder.",
-        "Prenez-le si vous voulez l'hébergement, le domaine et l'e-mail dans la même offre et acceptez que l'IA monte la première version.",
-        "Prenez-le si vous allez monter le site une fois et retoucher le texte et les photos dans l'éditeur du mode sans IA, qui ne consomme pas de crédits."
+        "vous voulez un site de quelques pages, un portfolio, une petite boutique ou une appli web simple sans coder.",
+        "vous voulez l'hébergement, le domaine et l'e-mail dans la même offre et acceptez que l'IA monte la première version.",
+        "vous allez monter le site une fois et retoucher le texte et les photos dans l'éditeur du mode sans IA, qui ne consomme pas de crédits."
       ],
       "skipIf": [
-        "Passez, et restez sur WordPress, si le projet dépend d'un plugin précis ou d'un thème que vous avez déjà.",
-        "Passez si une autre personne ou une agence va maintenir le site : WordPress est la norme du marché.",
-        "Passez si vous voulez tout emporter chez un autre hébergeur sans tout refaire, ou si vous allez demander des modifications à l'IA chaque semaine et que chaque demande consomme des crédits."
+        "le projet dépend d'un plugin précis ou d'un thème que vous avez déjà : restez sur WordPress.",
+        "une autre personne ou une agence va maintenir le site : WordPress est la norme du marché.",
+        "vous voulez tout emporter chez un autre hébergeur sans tout refaire, ou vous allez demander des modifications à l'IA chaque semaine et chaque demande consomme des crédits."
       ]
     }
   },
@@ -166695,7 +166674,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons è diventato l'AI Builder. Conviene o meglio WordPress? Tabella per tipo di progetto, confronto con Wix e Lovable e crediti IA.",
     "publishedAt": "28 ottobre 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-it-v2.webp",
@@ -166866,24 +166845,19 @@ export const reviewsData: unknown[] = [
           "**Conviene** a chi vuole un sito di poche pagine, un portfolio, un piccolo negozio o un'app web semplice e non vuole programmare né occuparsi di plugin. La prima versione nasce dalla descrizione, e la modalità senza IA permette di ritoccare senza spendere crediti. Comincia dalla prova gratuita; se il risultato va bene, il piano Premium copre un sito semplice e l'Unlimited un negozio.",
           "**Resta su WordPress** se il progetto dipende da plugin, da un tema tuo, da qualcuno che manterrà il sito, o se vuoi portare tutto su un altro hosting senza rifare nulla. Il piano Hostinger è lo stesso nei due casi, quindi la scelta riguarda solo lo strumento.",
           "**Nel dubbio, prova l'AI Builder prima di pagare.** Sono 5 crediti gratuiti, senza carta, abbastanza per vedere se l'IA capisce quello che vuoi. Se non capisce, WordPress è sempre lì."
-        ]
+        ],
+        "emphasis": "Per chi vuole un sito o un'app web semplice senza programmare, la scelta è l'AI Builder sul piano Premium, perché copre quel progetto e la modalità senza IA permette di ritoccare senza consumare crediti."
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
           "Hostinger Horizons esiste ancora? Esiste con un altro nome. Nel 2026 Horizons si è fuso con il costruttore di siti di Hostinger ed è diventato l'AI Builder (Hostinger AI Builder), con una modalità a trascinamento e una per creare tramite la chat. Il vecchio indirizzo reindirizza alla pagina nuova.",
           "L'AI Builder di Hostinger fa il sito da solo? Monta la prima versione a partire dalla tua descrizione, secondo la pagina. I contenuti, le foto e le decisioni di business restano tuoi, e ogni richiesta in modalità IA consuma crediti.",
           "Serve saper programmare per usare l'AI Builder? No. La pagina dice che non richiede competenze tecniche in nessuna delle due modalità. Chi sa programmare ha un editor di codice nella modalità con IA.",
           "Si può migrare dall'AI Builder a un altro hosting? La pagina dice che il codice sorgente si può esportare e ospitare altrove. Il back-end integrato, con database e login, resta su Hostinger, quindi un'app richiede una riconfigurazione fuori da lì.",
           "L'AI Builder va bene per un negozio online? Per un piccolo negozio, sì: il negozio online è disponibile nei piani Unlimited e Cloud Startup come componente a pagamento. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
-          "C'è un coupon per il builder IA Hostinger? Usa SONAR20 per il 20% sul primo periodo di un nuovo acquisto idoneo. Controlla abbonamento e servizi inclusi nel carrello; registrazione di dominio e rinnovo sono esclusi.",
           "Un cliente Hostinger esistente può usare SONAR20? Sì, su un nuovo acquisto idoneo con lo stesso account, non sul rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
-        ]
-      },
-      {
-        "heading": "Chi scrive",
-        "paragraphs": [
-          "Em Casa com Cecília gira sull'hosting gestito di Hostinger, come Node.js Web App, e il dominio è registrato su Hostinger dal 2024. Nessuno del team ha usato l'AI Builder né Horizons: questo testo raccoglie quello che dicono la pagina del prodotto, la documentazione di WordPress e le pagine pubbliche di Wix e Lovable."
         ]
       }
     ],
@@ -166911,14 +166885,14 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Scegli l'AI Builder se vuoi un sito di poche pagine, un portfolio, un piccolo negozio o un'app web semplice senza programmare.",
-        "Sceglilo se vuoi hosting, dominio ed e-mail nello stesso piano e accetti che l'IA monti la prima versione.",
-        "Sceglilo se monterai il sito una volta e ritoccherai testo e foto nell'editor della modalità senza IA, che non consuma crediti."
+        "vuoi un sito di poche pagine, un portfolio, un piccolo negozio o un'app web semplice senza programmare.",
+        "vuoi hosting, dominio ed e-mail nello stesso piano e accetti che l'IA monti la prima versione.",
+        "monterai il sito una volta e ritoccherai testo e foto nell'editor della modalità senza IA, che non consuma crediti."
       ],
       "skipIf": [
-        "Lascia stare, e resta su WordPress, se il progetto dipende da un plugin specifico o da un tema che hai già.",
-        "Lascia stare se un'altra persona o un'agenzia manterrà il sito: WordPress è lo standard del mercato.",
-        "Lascia stare se vuoi portare tutto su un altro hosting senza rifare nulla, o se chiederai modifiche all'IA ogni settimana e ogni richiesta consuma crediti."
+        "il progetto dipende da un plugin specifico o da un tema che hai già: resta su WordPress.",
+        "un'altra persona o un'agenzia manterrà il sito: WordPress è lo standard del mercato.",
+        "vuoi portare tutto su un altro hosting senza rifare nulla, o chiederai modifiche all'IA ogni settimana e ogni richiesta consuma crediti."
       ]
     }
   },
@@ -166959,7 +166933,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons heißt jetzt KI-Builder. Lohnt er sich, oder lieber WordPress? Tabelle nach Projektart, Vergleich mit Wix und Lovable und KI-Guthaben.",
     "publishedAt": "28. Oktober 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-de-v2.webp",
@@ -167130,24 +167104,19 @@ export const reviewsData: unknown[] = [
           "**Es lohnt sich** für alle, die eine Website mit wenigen Seiten, ein Portfolio, einen kleinen Shop oder eine einfache Web-App wollen und weder programmieren noch Plugins pflegen möchten. Die erste Version entsteht aus der Beschreibung, und der Modus ohne KI erlaubt Anpassungen, ohne Guthaben auszugeben. Beginnen Sie mit der kostenlosen Testphase; wenn das Ergebnis passt, deckt der Premium-Tarif eine einfache Website ab und Unlimited einen Shop.",
           "**Bleiben Sie bei WordPress**, wenn das Projekt von Plugins abhängt, von einem eigenen Theme, von jemandem, der die Website pflegt, oder wenn Sie alles ohne Nacharbeit zu einem anderen Hoster mitnehmen wollen. Der Hostinger-Tarif ist in beiden Fällen derselbe, die Wahl betrifft also nur das Werkzeug.",
           "**Im Zweifel testen Sie den KI-Builder, bevor Sie zahlen.** Sie bekommen 5 kostenlose Guthaben, ohne Karte, genug, um zu sehen, ob die KI versteht, was Sie wollen. Wenn nicht, ist WordPress immer noch da."
-        ]
+        ],
+        "emphasis": "Wer eine einfache Website oder Web-App ohne Programmieren will, wählt den KI-Builder im Tarif Premium, denn dieser deckt das Projekt ab und der Modus ohne KI lässt sich ändern, ohne Guthaben zu verbrauchen."
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20% Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie die Zeile „Coupon applied“, bevor Sie zahlen. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Gibt es Hostinger Horizons noch? Es gibt es unter einem anderen Namen. 2026 wurde Horizons mit dem Website-Baukasten von Hostinger zusammengelegt und heißt seitdem KI-Builder (Hostinger AI Builder), mit einem Drag-and-drop-Modus und einem Modus zum Erstellen über den Chat. Die alte Adresse leitet auf die neue Seite weiter.",
           "Baut der KI-Builder von Hostinger die Website von allein? Laut Seite baut er die erste Version aus Ihrer Beschreibung. Inhalt, Fotos und unternehmerische Entscheidungen bleiben Ihre, und jede Anfrage im KI-Modus verbraucht Guthaben.",
           "Braucht man Programmierkenntnisse für den KI-Builder? Nein. Laut Seite sind in beiden Modi keine technischen Kenntnisse nötig. Wer programmieren kann, hat im KI-Modus einen Code-Editor.",
           "Kann man vom KI-Builder zu einem anderen Hoster migrieren? Laut Seite lässt sich der Quellcode exportieren und anderswo hosten. Das integrierte Back-End mit Datenbank und Login bleibt bei Hostinger, eine App muss also außerhalb neu konfiguriert werden.",
           "Eignet sich der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop ist in den Tarifen Unlimited und Cloud Startup als kostenpflichtige Ergänzung verfügbar. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
-          "Gibt es einen Gutschein für Hostingers KI-Builder? Nutzen Sie SONAR20 für 20 % auf die erste Laufzeit eines berechtigten Neukaufs. Prüfen Sie Abonnement und enthaltene Dienste im Warenkorb; Domainregistrierungen und Verlängerungen sind ausgeschlossen.",
           "Können Hostinger-Bestandskunden SONAR20 nutzen? Ja, bei einem berechtigten Neukauf mit demselben Konto, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
-        ]
-      },
-      {
-        "heading": "Wer schreibt",
-        "paragraphs": [
-          "Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger, als Node.js Web App, und die Domain ist seit 2024 bei Hostinger registriert. Niemand im Team hat den KI-Builder oder Horizons benutzt: Dieser Text fasst zusammen, was die Produktseite, die WordPress-Dokumentation und die öffentlichen Seiten von Wix und Lovable sagen."
         ]
       }
     ],
@@ -167175,14 +167144,14 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Nehmen Sie den KI-Builder, wenn Sie eine Website mit wenigen Seiten, ein Portfolio, einen kleinen Shop oder eine einfache Web-App ohne Programmieren wollen.",
-        "Nehmen Sie ihn, wenn Sie Hosting, Domain und E-Mail im selben Tarif wollen und akzeptieren, dass die KI die erste Version baut.",
-        "Nehmen Sie ihn, wenn Sie die Website einmal bauen und Text und Fotos im Editor des Modus ohne KI anpassen, der kein Guthaben verbraucht."
+        "Sie eine Website mit wenigen Seiten, ein Portfolio, einen kleinen Shop oder eine einfache Web-App ohne Programmieren wollen.",
+        "Sie Hosting, Domain und E-Mail im selben Tarif wollen und akzeptieren, dass die KI die erste Version baut.",
+        "Sie die Website einmal bauen und Text und Fotos im Editor des Modus ohne KI anpassen, der kein Guthaben verbraucht."
       ],
       "skipIf": [
-        "Lassen Sie ihn aus und bleiben Sie bei WordPress, wenn das Projekt von einem bestimmten Plugin oder einem Theme abhängt, das Sie schon haben.",
-        "Lassen Sie ihn aus, wenn jemand anderes oder eine Agentur die Website pflegt: WordPress ist der Marktstandard.",
-        "Lassen Sie ihn aus, wenn Sie alles ohne Nacharbeit zu einem anderen Hoster mitnehmen wollen oder wenn Sie die KI jede Woche um Änderungen bitten und jede Anfrage Guthaben verbraucht."
+        "das Projekt von einem bestimmten Plugin oder einem Theme abhängt, das Sie schon haben: Bleiben Sie bei WordPress.",
+        "jemand anderes oder eine Agentur die Website pflegt: WordPress ist der Marktstandard.",
+        "Sie alles ohne Nacharbeit zu einem anderen Hoster mitnehmen wollen oder die KI jede Woche um Änderungen bitten und jede Anfrage Guthaben verbraucht."
       ]
     }
   },
@@ -167223,7 +167192,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons は AI Builder になりました。使う価値はある？それとも WordPress？ プロジェクト別の早見表、Wix・Lovable との比較、AI クレジットまで。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-ja-v2.webp",
@@ -167394,24 +167363,19 @@ export const reviewsData: unknown[] = [
           "**使う価値があります。**数ページのサイト、ポートフォリオ、小さなショップ、シンプルな Web アプリがほしく、プログラミングもプラグインの管理もしたくない人に向いています。最初のバージョンは説明から生まれ、AI なしのモードならクレジットを使わずに調整できます。まず無料トライアルを試し、結果が合えば、シンプルなサイトは Premium プラン、ショップは Unlimited プランで足ります。",
           "**WordPress のままにしましょう。**プロジェクトがプラグインや自分のテーマに依存する場合、あとでサイトを保守する人がいる場合、手直しなしですべて別のホスティングに移したい場合です。どちらの場合も Hostinger のプランは同じなので、選ぶのはツールだけです。",
           "**迷ったら、支払う前に AI Builder を試しましょう。**カード不要で 5 クレジットが無料で付くので、AI が望みを理解してくれるか確かめるには十分です。理解してくれなくても、WordPress はそのままあります。"
-        ]
+        ],
+        "emphasis": "プログラミングなしでシンプルなサイトや Web アプリを作りたい人には、Premium プランの AI Builder が答えです。このプロジェクトをカバーでき、AI を使わないモードならクレジットを使わずに直せるからです。"
       },
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostingerのクーポンコードは何ですか？ HostingerのクーポンコードはSONAR20で、対象の新規購入の最初の期間が20%割引になります。カートの「Have a coupon code?」欄にコードを入力し、支払う前に「Coupon applied」の行を確認してください。更新は通常料金で、割引はありません。",
           "Hostinger Horizons はまだありますか？ 名前を変えて続いています。2026年に Horizons は Hostinger のサイトビルダーと統合され、ドラッグ＆ドロップのモードとチャットで作るモードを備えた AI Builder（Hostinger AI Builder）になりました。旧アドレスは新しいページにリダイレクトされます。",
           "Hostinger の AI Builder はサイトを自動で作ってくれますか？ ページによれば、説明をもとに最初のバージョンを組み立てます。内容、写真、ビジネス上の判断は自分で行い、AI を使うモードでは依頼のたびにクレジットを消費します。",
           "AI Builder を使うのにプログラミングは必要ですか？ いいえ。ページによれば、どちらのモードも専門知識は不要です。プログラミングができる人には、AI を使うモードにコードエディタがあります。",
           "AI Builder から別のホスティングへ移せますか？ ページによれば、ソースコードをエクスポートして別の場所でホストできます。データベースとログインを含む内蔵バックエンドは Hostinger に残るため、アプリは外部で再設定が必要です。",
           "AI Builder はショップに向いていますか？ 小さなショップなら向いています。ショップ機能は Unlimited と Cloud Startup プランで有料のオプションとして利用できます。配送や決済のルールが複雑な大きなショップは、WooCommerce 付きの WordPress のほうが制御しやすくなります。",
-          "HostingerのAIビルダーにクーポンはある？ SONAR20で対象の新規購入の初回契約期間が20%割引になります。カートで契約と含まれるサービスを確認してください。ドメイン登録と更新は対象外です。",
           "既存ユーザーもSONAR20を使える？ 同じアカウントでも対象の新規購入には使える場合がありますが、現在のサービスの更新には使えません。初回契約期間が20%割引で、ドメイン登録も対象外です。カートの総額を確認してください。"
-        ]
-      },
-      {
-        "heading": "この記事を書いた人",
-        "paragraphs": [
-          "Em Casa com Cecília は Hostinger のマネージドホスティングで Node.js Web App として動いていて、ドメインは 2024年から Hostinger に登録されています。チームの誰も AI Builder も Horizons も使っていません。この記事は、製品ページ、WordPress のドキュメント、Wix と Lovable の公開ページの記述をまとめたものです。"
         ]
       }
     ],
@@ -167439,14 +167403,14 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "AI Builder（旧 Horizons）がおすすめなのは、数ページのサイト、ポートフォリオ、小さなショップ、シンプルな Web アプリをプログラミングなしで作りたい人です。",
-        "ホスティング、ドメイン、メールを同じプランにまとめたく、最初のバージョンは AI に任せてよい人にもおすすめです。",
-        "一度作ってから、文章と写真を AI を使わないモードの、クレジットを消費しないエディタで直す人にもおすすめです。"
+        "プログラミングなしで、数ページのサイト、ポートフォリオ、小さなショップ、シンプルな Web アプリを作りたい人。",
+        "ホスティング、ドメイン、メールを同じプランにまとめたく、最初のバージョンは AI に任せてよい人。",
+        "一度作ってから、文章と写真を AI を使わないモードの、クレジットを消費しないエディタで直す人。"
       ],
       "skipIf": [
-        "特定のプラグインや、すでに持っているテーマが欠かせないプロジェクトなら、見送って WordPress にしましょう。",
-        "他の人や制作会社がサイトを保守するなら見送りましょう。WordPress が業界標準です。",
-        "手直しなしで全部を別のホスティングへ移したい人や、毎週 AI に変更を依頼する人（依頼のたびにクレジットを消費）は見送りましょう。"
+        "特定のプラグインや、すでに持っているテーマが欠かせないプロジェクトの人。WordPress のままで。",
+        "他の人や制作会社がサイトを保守する人。WordPress が業界標準です。",
+        "手直しなしで全部を別のホスティングへ移したい人や、毎週 AI に変更を依頼する人（依頼のたびにクレジットを消費）。"
       ]
     }
   },
@@ -167486,7 +167450,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons는 AI Builder가 되었습니다. 쓸 만한가, 아니면 WordPress인가? 프로젝트 유형별 표, Wix·Lovable과의 비교, AI 크레딧까지 다룹니다.",
     "publishedAt": "2026년 10월 28일",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-ko-v2.webp",
@@ -167657,24 +167621,19 @@ export const reviewsData: unknown[] = [
           "**쓸 만합니다.** 몇 페이지짜리 사이트, 포트폴리오, 작은 온라인 스토어 또는 간단한 웹 앱을 원하고, 코딩이나 플러그인 관리를 하고 싶지 않은 사람에게 그렇습니다. 첫 버전은 설명에서 나오고, AI 없는 모드로는 크레딧 없이 고칠 수 있습니다. 무료 체험부터 시작하세요. 결과가 마음에 들면 간단한 사이트는 Premium 플랜, 온라인 스토어는 Unlimited 플랜이면 됩니다.",
           "**WordPress에 남으세요.** 프로젝트가 플러그인이나 직접 고른 테마에 의존하거나, 나중에 사이트를 유지할 사람이 있거나, 다시 작업할 필요 없이 모든 것을 다른 호스팅으로 옮기고 싶은 경우입니다. 두 경우 모두 Hostinger 플랜은 같으므로 선택은 도구의 문제일 뿐입니다.",
           "**고민된다면 결제 전에 AI Builder를 먼저 써 보세요.** 카드 없이 무료 크레딧 5개가 주어지니, AI가 원하는 것을 이해하는지 보기에 충분합니다. 이해하지 못해도 WordPress는 그대로 있습니다."
-        ]
+        ],
+        "emphasis": "코딩 없이 간단한 사이트나 웹 앱을 원하는 사람에게는 Premium 플랜의 AI Builder가 맞는 선택입니다. 이 프로젝트를 감당하고, AI를 쓰지 않는 모드는 크레딧 없이 고칠 수 있기 때문입니다."
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "Hostinger 쿠폰 코드는 무엇인가요? Hostinger 쿠폰 코드는 SONAR20이며, 대상 신규 구매의 첫 번째 기간에 20% 할인을 받을 수 있습니다. 장바구니의 \"Have a coupon code?\" 입력란에 코드를 입력하고, 결제 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 할인 없이 정가로 청구됩니다.",
           "Hostinger Horizons는 아직 있나요? 이름이 바뀌어 있습니다. 2026년에 Horizons는 Hostinger의 사이트 빌더와 합쳐져 AI Builder(Hostinger AI Builder)가 되었고, 드래그 앤 드롭 모드와 채팅으로 만드는 모드가 있습니다. 예전 주소는 새 페이지로 연결됩니다.",
           "Hostinger의 AI Builder는 사이트를 알아서 만들어 주나요? 페이지에 따르면 설명을 바탕으로 첫 버전을 만들어 줍니다. 콘텐츠, 사진, 사업상의 결정은 계속 사용자의 몫이고, AI 모드에서는 요청마다 크레딧이 듭니다.",
           "AI Builder를 쓰려면 코딩을 알아야 하나요? 아니요. 페이지에 따르면 두 모드 모두 기술 지식이 필요 없습니다. 코딩을 아는 사람에게는 AI 모드에 코드 에디터가 있습니다.",
           "AI Builder에서 다른 호스팅으로 옮길 수 있나요? 페이지에 따르면 소스 코드를 내보내 다른 곳에서 호스팅할 수 있습니다. 데이터베이스와 로그인이 있는 내장 백엔드는 Hostinger에 남기 때문에, 앱은 밖에서 다시 설정해야 합니다.",
           "AI Builder는 온라인 스토어에 맞나요? 작은 스토어라면 맞습니다. 온라인 스토어는 Unlimited와 Cloud Startup 플랜에서 유료 옵션으로 이용할 수 있습니다. 배송과 결제 규칙이 있는 큰 스토어는 WooCommerce를 쓰는 WordPress가 더 세밀하게 제어할 수 있습니다.",
-          "Hostinger AI 빌더 쿠폰이 있나요? SONAR20으로 대상 신규 구매의 첫 계약 기간에 20% 할인을 받을 수 있습니다. 장바구니에서 구독과 포함 서비스를 확인하세요. 도메인 등록과 갱신은 제외됩니다.",
           "기존 Hostinger 고객도 SONAR20을 쓸 수 있나요? 네, 같은 계정의 대상 신규 구매에는 적용되며, 현재 서비스 갱신에는 적용되지 않습니다. 첫 계약 기간 20% 할인이며 도메인 등록도 제외됩니다. 장바구니 총액을 확인하세요."
-        ]
-      },
-      {
-        "heading": "작성자 소개",
-        "paragraphs": [
-          "Em Casa com Cecília는 Hostinger의 관리형 호스팅에서 Node.js Web App으로 운영되고, 도메인은 2024년부터 Hostinger에 등록되어 있습니다. 팀 중 누구도 AI Builder나 Horizons를 쓰지 않았습니다. 이 글은 제품 페이지, WordPress 문서, Wix와 Lovable의 공개 페이지가 말하는 내용을 모은 것입니다."
         ]
       }
     ],
@@ -167703,14 +167662,14 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "코딩 없이 몇 페이지짜리 사이트, 포트폴리오, 작은 온라인 스토어 또는 간단한 웹 앱을 만들고 싶다면 AI Builder(구 Horizons)를 선택하세요.",
-        "호스팅, 도메인, 이메일을 한 플랜에 두고 싶고 첫 버전은 AI가 만들어도 괜찮다면 선택하세요.",
-        "한 번 만든 뒤 AI를 쓰지 않는 모드의, 크레딧이 들지 않는 에디터에서 텍스트와 사진을 고칠 생각이라면 선택하세요."
+        "코딩 없이 몇 페이지짜리 사이트, 포트폴리오, 작은 온라인 스토어 또는 간단한 웹 앱을 만들고 싶은 분.",
+        "호스팅, 도메인, 이메일을 한 플랜에 두고 싶고 첫 버전은 AI가 만들어도 괜찮은 분.",
+        "사이트를 한 번 만든 뒤 AI를 쓰지 않는 모드의, 크레딧이 들지 않는 에디터에서 텍스트와 사진을 고칠 분."
       ],
       "skipIf": [
-        "프로젝트가 특정 플러그인이나 이미 가진 테마에 의존한다면 넘어가고 WordPress에 남으세요.",
-        "다른 사람이나 에이전시가 사이트를 유지할 예정이라면 넘어가세요. WordPress가 업계 표준입니다.",
-        "다시 작업할 필요 없이 모든 것을 다른 호스팅으로 옮기고 싶거나, 매주 AI에 변경을 요청할 예정(요청마다 크레딧이 듭니다)이라면 넘어가세요."
+        "프로젝트가 특정 플러그인이나 이미 가진 테마에 의존하는 분: WordPress에 남으세요.",
+        "다른 사람이나 에이전시가 사이트를 유지할 분: WordPress가 업계 표준입니다.",
+        "다시 작업할 필요 없이 모든 것을 다른 호스팅으로 옮기고 싶거나, 매주 AI에 변경을 요청할 분(요청마다 크레딧이 듭니다)."
       ]
     }
   },
@@ -167750,7 +167709,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons 已变成 AI Builder。值得用，还是选 WordPress？按项目类型整理的对照表，与 Wix、Lovable 的比较，以及 AI 额度。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-zh-hans-v2.webp",
@@ -167921,24 +167880,19 @@ export const reviewsData: unknown[] = [
           "**值得用**，适合想要几页的网站、作品集、小店或简单 Web 应用，又不想写代码、也不想管插件的人。第一版由描述生成，无 AI 模式可以不耗额度地调整。先从免费试用开始；结果合用的话，Premium 套餐够做简单网站，Unlimited 套餐够开网店。",
           "**留在 WordPress**：如果项目依赖插件、依赖你自己的主题，之后有人来维护网站，或者你想不返工就把一切搬到别的主机。两种情况下 Hostinger 的套餐是同一个，所以只是选工具的问题。",
           "**拿不准，就付款前先试试 AI Builder。**5 个免费额度，不用绑卡，足够看出 AI 能不能理解你想要什么。如果它理解不了，WordPress 还在那里。"
-        ]
+        ],
+        "emphasis": "对想不写代码就做简单网站或 Web 应用的人来说，选 Premium 套餐上的 AI Builder，因为它够用，而且不用 AI 的模式改东西不消耗额度。"
       },
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，对符合资格的新购首个合同期间享 20% 折扣：在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”一行。续费按标价收费，没有折扣。",
           "Hostinger Horizons 还在吗？还在，只是换了名字。2026 年 Horizons 与 Hostinger 的网站构建器合并，成了 AI Builder（Hostinger AI Builder），有拖放模式和聊天创建模式。旧地址会跳转到新页面。",
           "Hostinger 的 AI Builder 能自己把网站做出来吗？按页面所说，它会根据你的描述搭出第一版。内容、照片和业务决策仍然是你的，AI 模式下每次请求都消耗额度。",
           "用 AI Builder 需要会编程吗？不需要。页面说两种模式都不要求技术知识。会编程的人，在 AI 模式里有代码编辑器。",
           "能从 AI Builder 迁到别的主机吗？页面说源代码可以导出，放到别处托管。带数据库和登录的内置后端留在 Hostinger，所以应用在别处需要重新配置。",
           "AI Builder 适合开网店吗？小店可以：网店在 Unlimited 和 Cloud Startup 套餐中以付费附加项提供。对运费和支付规则复杂的大店，WordPress 加 WooCommerce 控制得更细。",
-          "Hostinger AI建站工具有优惠码吗？SONAR20适用于符合资格的新购首个合同期间，折扣20%。请在购物车确认订阅与内含服务；域名注册与续费除外。",
           "已有客户也能用SONAR20吗？可以，同一账户符合资格的新购适用，但当前服务的续费不适用。首个合同期间折扣20%，域名注册也除外。请确认购物车总额。"
-        ]
-      },
-      {
-        "heading": "谁在写这篇文章",
-        "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App，域名从 2024 年起就注册在 Hostinger。团队中没有人用过 AI Builder 或 Horizons：本文汇总的是产品页面、WordPress 文档以及 Wix 和 Lovable 公开页面的说法。"
         ]
       }
     ],
@@ -167967,14 +167921,14 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "如果你想不写代码就做几页的网站、作品集、小店或简单 Web 应用，就选 AI Builder（原 Horizons）。",
-        "如果你想把托管、域名和邮箱放在同一个套餐里，也接受由 AI 搭出第一版，就选它。",
-        "如果你打算做一次，之后在不用 AI 的模式里、不消耗额度的编辑器中改文字和照片，就选它。"
+        "想不写代码就做几页的网站、作品集、小店或简单 Web 应用。",
+        "想把托管、域名和邮箱放在同一个套餐里，也接受由 AI 搭出第一版。",
+        "打算做一次，之后在不用 AI 的模式里、不消耗额度的编辑器中改文字和照片。"
       ],
       "skipIf": [
-        "如果项目依赖某个特定插件或你已有的主题，就别选，留在 WordPress。",
-        "如果之后由别人或外包团队维护网站，就别选：WordPress 是市场标准。",
-        "如果你想不返工就把一切搬到别的主机，或打算每周都让 AI 改东西（每次请求都消耗额度），就别选。"
+        "项目依赖某个特定插件或你已有的主题：留在 WordPress。",
+        "之后由别人或外包团队维护网站：WordPress 是市场标准。",
+        "想不返工就把一切搬到别的主机，或打算每周都让 AI 改东西（每次请求都消耗额度）。"
       ]
     }
   },
@@ -168014,7 +167968,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons 已變成 AI Builder。值得用，還是選 WordPress？依專案類型整理的對照表，與 Wix、Lovable 的比較，以及 AI 額度。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa-zh-hant-v2.webp",
@@ -168185,24 +168139,19 @@ export const reviewsData: unknown[] = [
           "**值得用**，適合想要幾頁的網站、作品集、小店或簡單 Web 應用程式，又不想寫程式、也不想管外掛的人。第一版由描述產生，無 AI 模式可以不耗額度地調整。先從免費試用開始；結果合用的話，Premium 方案夠做簡單網站，Unlimited 方案夠開網路商店。",
           "**留在 WordPress**：如果專案依賴外掛、依賴你自己的主題，之後有人來維護網站，或者你想不重做就把一切搬到別的主機。兩種情況下 Hostinger 的方案是同一個，所以只是選工具的問題。",
           "**拿不準，就付款前先試試 AI Builder。**5 個免費額度，不用綁卡，足夠看出 AI 能不能理解你想要什麼。如果它理解不了，WordPress 還在那裡。"
-        ]
+        ],
+        "emphasis": "對想不寫程式就做簡單網站或 Web 應用程式的人來說，選 Premium 方案上的 AI Builder，因為它夠用，而且不用 AI 的模式改東西不消耗額度。"
       },
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，對符合資格的新購首個合約期間享 20% 折扣：在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」一行。續約按定價計算，沒有折扣。",
           "Hostinger Horizons 還在嗎？還在，只是換了名字。2026 年 Horizons 與 Hostinger 的網站建置工具合併，成了 AI Builder（Hostinger AI Builder），有拖曳模式和聊天建立模式。舊網址會轉址到新頁面。",
           "Hostinger 的 AI Builder 能自己把網站做出來嗎？依頁面所說，它會根據你的描述搭出第一版。內容、照片和業務決策仍然是你的，AI 模式下每次請求都消耗額度。",
           "用 AI Builder 需要會寫程式嗎？不需要。頁面說兩種模式都不要求技術知識。會寫程式的人，在 AI 模式裡有程式碼編輯器。",
           "能從 AI Builder 搬到別的主機嗎？頁面說原始碼可以匯出，放到別處託管。含資料庫和登入的內建後端留在 Hostinger，所以應用程式在別處需要重新設定。",
           "AI Builder 適合開網路商店嗎？小店可以：網路商店在 Unlimited 和 Cloud Startup 方案中以付費附加項提供。對運費和付款規則複雜的大店，WordPress 加 WooCommerce 控制得更細。",
-          "Hostinger AI建站工具有優惠碼嗎？SONAR20適用於符合資格的新購首個合約期間，折扣20%。請在購物車確認訂閱與內含服務；網域註冊與續約除外。",
           "舊客戶也能用SONAR20嗎？可以，同一帳號符合資格的新購適用，但目前服務的續約不適用。首個合約期間折扣20%，網域註冊也除外。請確認購物車總額。"
-        ]
-      },
-      {
-        "heading": "誰在寫這篇文章",
-        "paragraphs": [
-          "Em Casa com Cecília 運行在 Hostinger 的託管主機上，是一個 Node.js Web App，網域從 2024 年起就註冊在 Hostinger。團隊中沒有人用過 AI Builder 或 Horizons：本文彙整的是產品頁面、WordPress 文件以及 Wix 和 Lovable 公開頁面的說法。"
         ]
       }
     ],
@@ -168231,14 +168180,14 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "如果你想不寫程式就做幾頁的網站、作品集、小店或簡單 Web 應用程式，就選 AI Builder（原 Horizons）。",
-        "如果你想把主機、網域和電子郵件放在同一個方案裡，也接受由 AI 搭出第一版，就選它。",
-        "如果你打算做一次，之後在不用 AI 的模式裡、不消耗額度的編輯器中改文字和照片，就選它。"
+        "想不寫程式就做幾頁的網站、作品集、小店或簡單 Web 應用程式。",
+        "想把主機、網域和電子郵件放在同一個方案裡，也接受由 AI 搭出第一版。",
+        "打算做一次，之後在不用 AI 的模式裡、不消耗額度的編輯器中改文字和照片。"
       ],
       "skipIf": [
-        "如果專案依賴某個特定外掛或你已有的主題，就別選，留在 WordPress。",
-        "如果之後由別人或外包團隊維護網站，就別選：WordPress 是市場標準。",
-        "如果你想不重做就把一切搬到別的主機，或打算每週都請 AI 改東西（每次請求都消耗額度），就別選。"
+        "專案依賴某個特定外掛或你已有的主題：留在 WordPress。",
+        "之後由別人或外包團隊維護網站：WordPress 是市場標準。",
+        "想不重做就把一切搬到別的主機，或打算每週都請 AI 改東西（每次請求都消耗額度）。"
       ]
     }
   },
@@ -168278,7 +168227,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 dá 20% na hospedagem nova da Hostinger; no domínio avulso não vale. Compare renovação, controle, elegibilidade e bloqueios antes de pagar.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa-v2.webp",
@@ -168442,17 +168391,18 @@ export const reviewsData: unknown[] = [
           "**Eu transferiria o registro** apenas depois de confirmar elegibilidade da extensão, bloqueios, custo e efeito no prazo de validade. Compare esse conjunto com o preço que paga hoje; incluir um ano não transforma toda transferência em economia.",
           "Se a dúvida é somente onde hospedar o site, comece avaliando a conexão sem transferência. Planeje qualquer alteração de DNS sem presumir que um desses caminhos garanta continuidade."
         ],
-        "emphasis": "Para a minha rotina, eu preferiria reunir registro e hospedagem no mesmo painel, desde que renovação e controle do domínio fossem adequados. É uma preferência de organização, não uma vantagem de preço garantida."
+        "emphasis": "Pelas regras de cada caminho, para quem já tem o domínio em outro lugar, a escolha é conectar o DNS sem transferir, porque o site sobe na Hostinger sem mexer no registro; comprar ou transferir só compensa depois de conferir a renovação e a elegibilidade da extensão."
       },
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. No domínio avulso, o código não vale. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
+          "Use o código **SONAR20** no campo \"Tem um cupom de desconto?\" do carrinho, ou entre pelo link deste artigo e confira o código no campo: são **20% no primeiro período** de uma compra nova elegível, para cliente novo ou antigo. Nos ciclos de 12, 24 e 48 meses, os 20% entram; no ciclo de 1 mês, depende do plano: no teste de 23/11/2026, o cupom entrou no Cloud Startup e foi recusado no Single e no Premium. Por isso, confira a linha \"Cupom aplicado\" no carrinho antes de pagar. A renovação sai pelo preço de tabela, sem desconto. No domínio avulso (registro ou transferência sem plano), o código não vale. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "Quanto custa o domínio na Hostinger? O .com.br custa R$ 64,99 no primeiro ano, ou R$ 1 com prazo de 3 anos, e renova a R$ 64,99 por ano; o .com custa R$ 94,99, ou R$ 0,01 com prazo de 3 anos, e renova a R$ 94,99 por ano.",
           "Posso trocar de hospedagem sem perder o domínio? Você pode manter o registro onde está e conectar a nova hospedagem por DNS, sem transferir o domínio. Confira os registros usados pelo site e pelo e-mail antes da mudança.",
           "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano.",
@@ -168460,23 +168410,17 @@ export const reviewsData: unknown[] = [
           "Dá para transferir o domínio da Hostinger para outro registrador? Dá, desde que a extensão permita e não haja bloqueio. Confira o procedimento e, quando exigido, desbloqueie, obtenha o código e confirme a solicitação. Uma transferência concluída não recebe reembolso padrão.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
-      },
-      {
-        "heading": "Quem escreve",
-        "paragraphs": [
-          "O Em Casa com Cecília roda em hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio emcasacomcecilia.com está registrado na Hostinger desde 2024 (registro público RDAP). Ninguém da equipe transferiu domínio: este texto reúne o que as páginas de domínio e de transferência da Hostinger dizem."
-        ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o domínio na Hostinger se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel.",
-        "Leve a transferência só se o domínio cumpre os requisitos da extensão (em genéricos, 60 dias ou mais desde o registro ou a última transferência, sem bloqueios) e a renovação na Hostinger compensa o que você paga hoje."
+        "o site vai ficar hospedado na Hostinger e você quer domínio, DNS e renovação no mesmo painel.",
+        "vai transferir, o domínio cumpre os requisitos da extensão (em genéricos, 60 dias ou mais desde o registro ou a última transferência, sem bloqueios) e a renovação na Hostinger compensa o que você paga hoje."
       ],
       "skipIf": [
-        "Passe se já tem domínio em outro registrador, prefere separar as contas ou a renovação de lá é menor: aponte o DNS e deixe o registro onde está.",
-        "Passe da transferência se a extensão ou um bloqueio atual impede o processo, ou se ainda não confirmou a elegibilidade.",
-        "Passe se o domínio ficaria no nome ou na conta de um freelancer ou de uma agência: use um e-mail que você controla."
+        "já tem domínio em outro registrador, prefere separar as contas ou a renovação de lá é menor: aponte o DNS e deixe o registro onde está.",
+        "a extensão ou um bloqueio atual impede a transferência, ou você ainda não confirmou a elegibilidade.",
+        "o domínio ficaria no nome ou na conta de um freelancer ou de uma agência: use um e-mail que você controla."
       ]
     },
     "pros": [],
@@ -168538,7 +168482,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Buy a domain at Hostinger, register elsewhere and connect, or transfer? Compare renewal, control, eligibility and transfer locks before paying.",
     "publishedAt": "October 28, 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -168640,7 +168584,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Registration and access:** check whose name will appear on the registration and who controls the management account. Use a recovery email you control. If a person or agency does the work, agree on registration and access before buying; they are not the same thing.",
           "**The renewal:** Hostinger recommends leaving auto-renewal on. An expired domain takes down the site and the email. Domain renewal is not refundable, so the card on the account has to be up to date.",
-          "**The registration refund:** a new registration can only be refunded within 96 hours, and only on extensions that allow refunds (many country-code extensions do not). For .com.br, .net.br and .br, the window is 168 hours (7 days). After that, the domain is yours until the end of the paid term, with no refund."
+          "**The registration refund:** a new registration can only be refunded within 96 hours, and only on extensions that allow refunds (many country-code extensions do not). After that, the domain is yours until the end of the paid term, with no refund."
         ]
       },
       {
@@ -168661,27 +168605,22 @@ export const reviewsData: unknown[] = [
           "**I would transfer registration** only after checking the extension's eligibility, locks, cost and effect on expiry. Compare the full terms with what you pay now; an included year does not make every transfer a saving.",
           "If the question is simply where to host the website, first compare connecting without transferring. Plan DNS changes rather than assuming either path guarantees uninterrupted service."
         ],
-        "emphasis": "For my routine, I would prefer registration and hosting in one panel if renewal and control of the domain suited my needs. That is an administration preference, not a guarantee of a lower price."
+        "emphasis": "By the rules of each path, for anyone who already has a domain elsewhere, the choice is to connect the DNS without transferring, because the site goes live on Hostinger without touching the registration; buying or transferring only pays off after checking the renewal price and whether the extension is eligible."
       },
       {
         "heading": "SONAR20 coupon and price",
         "paragraphs": [
-          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. For a domain on its own, the code does not work. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
+          "Use the code **SONAR20** in the \"Have a coupon code?\" field of the cart, or use this article's link and check the code in the field: **20% off the first period** of an eligible new purchase, for new or existing customers. On 12, 24 and 48-month terms the 20% applies; on 1-month plans acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying. Renewals are charged at the list price, with no discount. For a domain registration or transfer on its own, the code does not work. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewals are charged at the list price, with no discount.",
           "Can I change hosting without losing the domain? You can keep the registration where it is and connect the new hosting through DNS, without transferring the domain. Check the website and email records before changing them.",
           "Do I need a domain to have email? Yes. For an address like you@yourcompany.com, the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
           "Can I transfer a domain from Hostinger to another registrar? Yes, as long as the extension allows it and there is no lock. Check the procedure and, where required, unlock it, obtain the code and confirm the request. A completed transfer is excluded from standard refunds.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
-        ]
-      },
-      {
-        "heading": "Who writes this",
-        "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger managed hosting, as a Node.js Web App, and the domain emcasacomcecilia.com has been registered at Hostinger since 2024 (public RDAP record). No one on the team has transferred a domain: this text gathers what Hostinger's domain and transfer pages say."
         ]
       }
     ],
@@ -168709,13 +168648,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take the domain at Hostinger if the site will be hosted there and you want domain, DNS and renewal in the same panel.",
-        "Take the transfer only if the domain meets the extension's requirements (on generic extensions, at least 60 days since registration or the last transfer, with no transfer lock) and Hostinger's renewal is worth what you pay today."
+        "the site will be hosted at Hostinger and you want domain, DNS and renewal in the same panel.",
+        "you want to transfer, the domain meets the extension's requirements (on generic extensions, at least 60 days since registration or the last transfer, with no transfer lock) and Hostinger's renewal is worth what you pay today."
       ],
       "skipIf": [
-        "Skip it if you already have a domain at another registrar, prefer to keep the accounts separate or the renewal there is lower: point the DNS and leave the registration where it is.",
-        "Skip the transfer if the extension or a current lock prevents it, or if eligibility has not been confirmed.",
-        "Skip it if the domain would be in the name or on the account of a freelancer or an agency: use an email you control."
+        "you already have a domain at another registrar, prefer to keep the accounts separate or the renewal there is lower: point the DNS and leave the registration where it is.",
+        "the extension or a current lock prevents the transfer, or you haven't confirmed eligibility yet.",
+        "the domain would be in the name or on the account of a freelancer or an agency: use an email you control."
       ]
     }
   },
@@ -168755,7 +168694,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿Comprar un dominio en Hostinger, registrarlo fuera y conectarlo o transferirlo? Compara renovación, control del registro, elegibilidad y bloqueos antes de pagar.",
     "publishedAt": "28 de octubre de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -168878,27 +168817,22 @@ export const reviewsData: unknown[] = [
           "**Transferiría el registro** solo después de comprobar elegibilidad, bloqueos, costo y efecto en la fecha de caducidad. Compara todo con lo que pagas ahora; incluir un año no convierte cualquier transferencia en ahorro.",
           "Si la duda es solo dónde alojar la web, compara primero la conexión sin transferencia. Planifica los cambios de DNS, sin suponer continuidad garantizada por elegir un camino."
         ],
-        "emphasis": "Para mi organización, preferiría registro y alojamiento en un panel si la renovación y el control del dominio me convinieran. Es una preferencia de gestión, no una garantía de menor precio."
+        "emphasis": "Según las reglas de cada camino, para quien ya tiene el dominio en otro lugar, la elección es conectar el DNS sin transferir, porque el sitio sube a Hostinger sin tocar el registro; comprar o transferir solo compensa después de revisar la renovación y si la extensión es elegible."
       },
       {
         "heading": "Cupón SONAR20 y precio",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. En el dominio suelto, el código no vale. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido), y los planes, en [la página de Hostinger](/es/coupons/hostinger)."
+          "Usa el código **SONAR20** en el campo \"Have a coupon code?\" del carrito, o entra por el enlace de este artículo y comprueba el código en el campo: son **20% en el primer período** de una compra nueva elegible, para cliente nuevo o antiguo. En los ciclos de 12, 24 y 48 meses entran los 20%; en el ciclo de 1 mes depende del plan, así que comprueba la línea \"Coupon applied\" en el carrito antes de pagar. La renovación se cobra al precio de lista, sin descuento. En un dominio suelto (registro o transferencia), el código no vale. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido), y los planes, en [la página de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20% de descuento en el primer período de una compra nueva elegible: introduce el código en el campo \"Have a coupon code?\" del carrito y comprueba la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
           "¿Puedo cambiar de hosting sin perder el dominio? Puedes mantener el registro donde está y conectar el nuevo hosting mediante DNS, sin transferir el dominio. Comprueba los registros del sitio y del correo antes de cambiarlos.",
           "¿Necesito un dominio para tener correo? Sí. Para una dirección como tu@tuempresa.com, el dominio tiene que existir; el hosting no es obligatorio, y Hostinger dice que se puede usar el dominio solo para correo o para redirigir a otro sitio.",
           "¿Puedo transferir un dominio de Hostinger a otro registrador? Sí, siempre que la extensión lo permita y no haya bloqueo. Comprueba el procedimiento y, cuando corresponda, desbloquea, obtén el código y confirma la solicitud. Una transferencia completada queda fuera del reembolso estándar.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
-        ]
-      },
-      {
-        "heading": "Quién escribe",
-        "paragraphs": [
-          "Em Casa com Cecília funciona en hosting gestionado de Hostinger, como Node.js Web App, y el dominio emcasacomcecilia.com está registrado en Hostinger desde 2024 (registro público RDAP). Nadie del equipo ha transferido un dominio: este texto reúne lo que dicen las páginas de dominio y de transferencia de Hostinger."
         ]
       }
     ],
@@ -168926,13 +168860,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Lleva el dominio en Hostinger si el sitio va a estar alojado ahí y quieres dominio, DNS y renovación en el mismo panel.",
-        "Transfiere solo si el dominio cumple los requisitos de la extensión (en genéricos, 60 días o más desde el registro o la última transferencia, sin bloqueos) y la renovación en Hostinger compensa lo que pagas hoy."
+        "el sitio va a estar alojado en Hostinger y quieres dominio, DNS y renovación en el mismo panel.",
+        "quieres transferir, el dominio cumple los requisitos de la extensión (en genéricos, 60 días o más desde el registro o la última transferencia, sin bloqueos) y la renovación en Hostinger compensa lo que pagas hoy."
       ],
       "skipIf": [
-        "Pasa si ya tienes un dominio en otro registrador, prefieres separar las cuentas o la renovación de allá es menor: apunta el DNS y deja el registro donde está.",
-        "Descarta la transferencia si la extensión o un bloqueo actual la impiden, o si no has confirmado la elegibilidad.",
-        "Pasa si el dominio quedaría a nombre o en la cuenta de un freelancer o de una agencia: usa un correo que controles."
+        "ya tienes un dominio en otro registrador, prefieres separar las cuentas o la renovación de allá es menor: apunta el DNS y deja el registro donde está.",
+        "la extensión o un bloqueo actual impiden la transferencia, o no has confirmado la elegibilidad.",
+        "el dominio quedaría a nombre o en la cuenta de un freelancer o de una agencia: usa un correo que controles."
       ]
     }
   },
@@ -168972,7 +168906,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Acheter un domaine chez Hostinger, l’enregistrer ailleurs et le connecter, ou le transférer ? Comparez renouvellement, contrôle, éligibilité et verrouillages avant de payer.",
     "publishedAt": "28 octobre 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -169095,27 +169029,22 @@ export const reviewsData: unknown[] = [
           "**Je transférerais l’enregistrement** après vérification de l’éligibilité, des blocages, du coût et de l’effet sur l’expiration. Comparez l’ensemble avec ce que vous payez aujourd’hui ; une année incluse ne garantit pas une économie.",
           "Si la question porte seulement sur l’hébergement du site, comparez d’abord la connexion sans transfert. Planifiez les changements DNS sans supposer qu’une voie garantit la continuité."
         ],
-        "emphasis": "Pour mon organisation, je préférerais domaine et hébergement dans un même panneau si renouvellement et contrôle me convenaient. C’est un choix de gestion, pas une garantie de prix inférieur."
+        "emphasis": "Selon les règles de chaque option, pour qui a déjà son domaine ailleurs, le choix est de connecter le DNS sans transfert, car le site passe sur Hostinger sans toucher à l’enregistrement ; acheter ou transférer ne vaut la peine qu’après avoir vérifié le renouvellement et l’éligibilité de l’extension."
       },
       {
         "heading": "Coupon SONAR20 et prix",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**, sur un forfait mensuel ou annuel, pour un client nouveau ou existant. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul, le code ne vaut pas. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
+          "Utilisez le code **SONAR20** dans le champ « Have a coupon code? » du panier, ou passez par le lien de cet article et vérifiez le code dans le champ : **20% sur la première période** d'un nouvel achat éligible, pour un client nouveau ou existant. Sur les cycles de 12, 24 et 48 mois, les 20% s'appliquent ; sur un forfait d'un mois, l'acceptation dépend du forfait : vérifiez donc la ligne « Coupon applied » dans le panier avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul (enregistrement ou transfert), le code ne vaut pas. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
           "Puis-je changer d’hébergement sans perdre le domaine ? Vous pouvez conserver son enregistrement et connecter le nouvel hébergement par DNS, sans transférer le domaine. Vérifiez les enregistrements du site et de l’e-mail avant de les modifier.",
           "Ai-je besoin d'un domaine pour avoir une adresse e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine uniquement pour la messagerie ou pour rediriger vers un autre site.",
           "Puis-je transférer un domaine Hostinger vers un autre registrar ? Oui, à condition que l’extension le permette et qu’il n’y ait pas de verrouillage. Vérifiez la procédure puis, si nécessaire, déverrouillez, obtenez le code et confirmez la demande. Un transfert abouti est exclu du remboursement standard.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
-        ]
-      },
-      {
-        "heading": "Qui écrit",
-        "paragraphs": [
-          "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine emcasacomcecilia.com est enregistré chez Hostinger depuis 2024 (registre public RDAP). Personne de l'équipe n'a transféré de domaine : ce texte rassemble ce que disent les pages de domaine et de transfert de Hostinger."
         ]
       }
     ],
@@ -169143,13 +169072,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez le domaine chez Hostinger si le site sera hébergé chez elle et que vous voulez domaine, DNS et renouvellement dans le même panneau.",
-        "Ne transférez que si le domaine remplit les conditions de l’extension (en générique, 60 jours ou plus depuis l’enregistrement ou le dernier transfert, sans verrouillage) et si le renouvellement chez Hostinger compense ce que vous payez aujourd’hui."
+        "le site sera hébergé chez Hostinger et que vous voulez domaine, DNS et renouvellement dans le même panneau.",
+        "vous voulez transférer, que le domaine remplit les conditions de l'extension (en générique, 60 jours ou plus depuis l'enregistrement ou le dernier transfert, sans verrouillage) et que le renouvellement chez Hostinger compense ce que vous payez aujourd'hui."
       ],
       "skipIf": [
-        "Passez votre chemin si vous avez déjà un domaine chez un autre registrar, préférez séparer les comptes ou si le renouvellement de là-bas est moins cher : pointez le DNS et laissez l'enregistrement où il est.",
-        "Évitez le transfert si l’extension ou un verrouillage actuel l’empêche, ou si l’éligibilité n’est pas confirmée.",
-        "Passez votre chemin si le domaine serait au nom ou sur le compte d'un freelance ou d'une agence : utilisez un e-mail que vous contrôlez."
+        "vous avez déjà un domaine chez un autre registrar, préférez séparer les comptes ou le renouvellement de là-bas est moins cher : pointez le DNS et laissez l'enregistrement où il est.",
+        "l'extension ou un verrouillage actuel empêche le transfert, ou l'éligibilité n'est pas confirmée.",
+        "le domaine serait au nom ou sur le compte d'un freelance ou d'une agence : utilisez un e-mail que vous contrôlez."
       ]
     }
   },
@@ -169190,7 +169119,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Comprare un dominio su Hostinger, registrarlo altrove e collegarlo o trasferirlo? Confronta rinnovo, controllo, idoneità e blocchi prima di pagare.",
     "publishedAt": "28 ottobre 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa-v2.webp",
@@ -169312,27 +169241,22 @@ export const reviewsData: unknown[] = [
           "**Trasferirei la registrazione** dopo aver verificato idoneità, blocchi, costo ed effetto sulla scadenza. Confronta tutto con quello che paghi oggi: un anno incluso non rende ogni trasferimento un risparmio.",
           "Se il dubbio riguarda solo l’hosting del sito, confronta prima il collegamento senza trasferimento. Pianifica le modifiche DNS senza presumere che una strada garantisca continuità."
         ],
-        "emphasis": "Per la mia organizzazione, preferirei dominio e hosting nello stesso pannello se rinnovo e controllo fossero adatti alle mie esigenze. È una preferenza di gestione, non una garanzia di prezzo inferiore."
+        "emphasis": "Secondo le regole di ogni strada, per chi ha già il dominio altrove la scelta è collegare il DNS senza trasferire, perché il sito va online su Hostinger senza toccare la registrazione; comprare o trasferire conviene solo dopo aver controllato il rinnovo e l’idoneità dell’estensione."
       },
       {
         "heading": "Coupon SONAR20 e prezzo",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Sul dominio singolo, il codice non vale. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
+          "Usa il codice **SONAR20** nel campo \"Have a coupon code?\" del carrello, oppure entra dal link di questo articolo e controlla il codice nel campo: sono **20% sul primo periodo** di un nuovo acquisto idoneo, per cliente nuovo o già esistente. Nei cicli da 12, 24 e 48 mesi i 20% entrano; nel ciclo da 1 mese dipende dal piano, quindi controlla la riga \"Coupon applied\" nel carrello prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto. Sul dominio singolo (registrazione o trasferimento), il codice non vale. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
           "Posso cambiare hosting senza perdere il dominio? Puoi mantenere la registrazione dov’è e collegare il nuovo hosting tramite DNS, senza trasferire il dominio. Controlla i record del sito e della posta prima di modificarli.",
           "Mi serve un dominio per avere l'e-mail? Sì. Per un indirizzo come tu@tuaazienda.com, il dominio deve esistere; l'hosting non è obbligatorio, e Hostinger dice che si può usare il dominio solo per l'e-mail o per reindirizzare a un altro sito.",
           "Posso trasferire un dominio Hostinger a un altro registrar? Sì, purché l’estensione lo consenta e non ci siano blocchi. Verifica la procedura e, dove richiesto, sblocca, ottieni il codice e conferma la richiesta. Un trasferimento completato è escluso dal rimborso standard.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
-        ]
-      },
-      {
-        "heading": "Chi scrive",
-        "paragraphs": [
-          "Em Casa com Cecília gira sull'hosting gestito di Hostinger, come Node.js Web App, e il dominio emcasacomcecilia.com è registrato su Hostinger dal 2024 (registro pubblico RDAP). Nessuno del team ha trasferito un dominio: questo testo raccoglie quello che dicono le pagine di dominio e di trasferimento di Hostinger."
         ]
       }
     ],
@@ -169360,13 +169284,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prendi il dominio su Hostinger se il sito sarà ospitato lì e vuoi dominio, DNS e rinnovo nello stesso pannello.",
-        "Trasferisci solo se il dominio rispetta i requisiti dell’estensione (nei generici, almeno 60 giorni dalla registrazione o dall’ultimo trasferimento, senza blocchi) e il rinnovo su Hostinger compensa ciò che paghi oggi."
+        "il sito sarà ospitato su Hostinger e vuoi dominio, DNS e rinnovo nello stesso pannello.",
+        "vuoi trasferire, il dominio rispetta i requisiti dell'estensione (nei generici, almeno 60 giorni dalla registrazione o dall'ultimo trasferimento, senza blocchi) e il rinnovo su Hostinger compensa ciò che paghi oggi."
       ],
       "skipIf": [
-        "Lascia stare se hai già un dominio presso un altro registrar, preferisci tenere gli account separati o il rinnovo di lì è più basso: punta il DNS e lascia la registrazione dov'è.",
-        "Evita il trasferimento se l’estensione o un blocco attuale lo impedisce, oppure se l’idoneità non è confermata.",
-        "Lascia stare se il dominio resterebbe a nome o sull'account di un freelance o di un'agenzia: usa un'e-mail che controlli."
+        "hai già un dominio presso un altro registrar, preferisci tenere gli account separati o il rinnovo di lì è più basso: punta il DNS e lascia la registrazione dov'è.",
+        "l'estensione o un blocco attuale impedisce il trasferimento, oppure l'idoneità non è confermata.",
+        "il dominio resterebbe a nome o sull'account di un freelance o di un'agenzia: usa un'e-mail che controlli."
       ]
     }
   },
@@ -169407,7 +169331,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Domain bei Hostinger kaufen, extern registrieren und verbinden oder umziehen? Vergleichen Sie Verlängerung, Kontrolle, Transferberechtigung und Sperren vor der Zahlung.",
     "publishedAt": "28. Oktober 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa-v2.webp",
@@ -169529,27 +169453,22 @@ export const reviewsData: unknown[] = [
           "**Ich würde die Registrierung übertragen**, nachdem Voraussetzungen, Sperren, Kosten und Auswirkungen auf das Ablaufdatum geklärt sind. Vergleichen Sie alles mit Ihren heutigen Kosten; ein enthaltenes Jahr macht nicht jeden Umzug günstiger.",
           "Geht es nur um das Website-Hosting, vergleichen Sie zuerst die Verbindung ohne Transfer. Planen Sie DNS-Änderungen, statt einen unterbrechungsfreien Betrieb allein durch die Wahl eines Weges vorauszusetzen."
         ],
-        "emphasis": "Für meine Verwaltung würde ich Domain und Hosting in einem Panel bevorzugen, sofern Verlängerung und Kontrolle passen. Das ist eine Organisationsentscheidung, keine Garantie für den günstigsten Preis."
+        "emphasis": "Nach den Regeln der einzelnen Wege ist für alle, die ihre Domain schon woanders haben, die Wahl, das DNS ohne Transfer zu verbinden, denn die Website läuft dann bei Hostinger, ohne die Registrierung anzufassen; Kauf oder Transfer lohnen sich erst, nachdem Verlängerungspreis und Eignung der Endung geprüft sind."
       },
       {
         "heading": "Gutschein SONAR20 und Preis",
         "paragraphs": [
-          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Bei einer einzelnen Domain gilt der Code nicht. Wo der Code hingehört, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), und die Tarife auf [der Hostinger-Seite](/de/coupons/hostinger)."
+          "Geben Sie den Code **SONAR20** im Feld „Have a coupon code?“ des Warenkorbs ein oder kommen Sie über den Link dieses Artikels und prüfen Sie den Code im Feld: **20% im ersten Zeitraum** eines berechtigten Neukaufs, für Neu- und Bestandskunden. Bei Laufzeiten von 12, 24 und 48 Monaten greifen die 20%; bei Tarifen mit 1 Monat hängt die Annahme vom Tarif ab, prüfen Sie also die Zeile „Coupon applied“ im Warenkorb, bevor Sie zahlen. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Bei einer einzelnen Domain (Registrierung oder Umzug) gilt der Code nicht. Wo der Code hingehört, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), und die Tarife auf [der Hostinger-Seite](/de/coupons/hostinger)."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20% Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie die Zeile „Coupon applied“, bevor Sie zahlen. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Kann ich das Hosting wechseln, ohne die Domain zu verlieren? Sie können die Registrierung beibehalten und das neue Hosting per DNS verbinden, ohne die Domain umzuziehen. Prüfen Sie Website- und E-Mail-Einträge vor der Änderung.",
           "Braucht man eine Domain für E-Mail? Ja. Für eine Adresse wie sie@ihrefirma.com muss die Domain existieren; ein Hosting ist nicht nötig, und Hostinger sagt, dass man die Domain nur für E-Mail oder für die Weiterleitung auf eine andere Website nutzen kann.",
           "Kann ich eine Hostinger-Domain zu einem anderen Registrar umziehen? Ja, sofern die Endung es zulässt und keine Sperre besteht. Prüfen Sie das Verfahren und entsperren Sie die Domain, holen Sie den Code und bestätigen Sie den Antrag, soweit erforderlich. Ein abgeschlossener Transfer ist von der regulären Erstattung ausgeschlossen.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
-        ]
-      },
-      {
-        "heading": "Wer schreibt",
-        "paragraphs": [
-          "Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger, als Node.js Web App, und die Domain emcasacomcecilia.com ist seit 2024 bei Hostinger registriert (öffentlicher RDAP-Eintrag). Niemand im Team hat eine Domain umgezogen: Dieser Text fasst zusammen, was die Domain- und Umzugsseiten von Hostinger sagen."
         ]
       }
     ],
@@ -169577,13 +169496,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Nehmen Sie die Domain bei Hostinger, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen.",
-        "Ziehen Sie nur um, wenn die Domain die Voraussetzungen der Endung erfüllt (bei generischen Endungen mindestens 60 Tage seit Registrierung oder letztem Transfer, ohne Sperre) und sich die Verlängerung bei Hostinger gegenüber Ihrem heutigen Preis lohnt."
+        "die Website bei Hostinger gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen.",
+        "Sie umziehen wollen, die Domain die Voraussetzungen der Endung erfüllt (bei generischen Endungen mindestens 60 Tage seit Registrierung oder letztem Transfer, ohne Sperre) und sich die Verlängerung bei Hostinger gegenüber Ihrem heutigen Preis lohnt."
       ],
       "skipIf": [
-        "Lassen Sie es, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder die Verlängerung dort günstiger ist: Stellen Sie das DNS um und lassen Sie die Registrierung, wo sie ist.",
-        "Verzichten Sie auf den Umzug, wenn die Endung oder eine aktuelle Sperre ihn verhindert oder die Voraussetzungen nicht bestätigt sind.",
-        "Lassen Sie es, wenn die Domain auf den Namen oder im Konto eines Freelancers oder einer Agentur läge: Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren."
+        "Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder die Verlängerung dort günstiger ist: Stellen Sie das DNS um und lassen Sie die Registrierung, wo sie ist.",
+        "die Endung oder eine aktuelle Sperre den Umzug verhindert oder die Voraussetzungen nicht bestätigt sind.",
+        "die Domain auf den Namen oder im Konto eines Freelancers oder einer Agentur läge: Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren."
       ]
     }
   },
@@ -169624,7 +169543,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20は新規購入の最初の期間が20%割引で、ドメイン単独には使えません。更新料、登録の管理権限、移管条件とロックを支払う前に比べましょう。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa-v2.webp",
@@ -169746,27 +169665,22 @@ export const reviewsData: unknown[] = [
           "**登録を移管するのは**、拡張子の条件、ロック、費用、有効期限への影響を確認してからです。1年が加算される場合でも、それだけで割安とは限りません。",
           "迷っているのがサイトのホスティング先だけなら、まず移管せずに接続する方法を比較してください。どの方法でもDNS変更を計画し、無停止を前提にしないでください。"
         ],
-        "emphasis": "自分の運用なら、更新料と管理権限が希望に合うことを確認したうえで、登録とホスティングを同じ管理画面にまとめたいと思います。料金が必ず安くなるという意味ではありません。"
+        "emphasis": "それぞれの方法のルールから見ると、ドメインをすでに他社で持っているなら、移管せずにDNSを接続するのが正解です。登録情報に触れずにHostingerでサイトを公開できるからです。購入や移管は、更新料と拡張子の移管条件を確認してからにしましょう。"
       },
       {
         "heading": "SONAR20クーポンと料金",
         "paragraphs": [
-          "カートのクーポン欄に**SONAR20**と入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。ドメイン単独の購入では、コードは使えません。コードを入れる場所は[SONAR20クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)、プランは[Hostingerのページ](/ja/coupons/hostinger)にあります。"
+          "カートの「Have a coupon code?」欄に**SONAR20**と入力するか、この記事のリンクから入って欄のコードを確認してください。対象の新規購入の**最初の期間が20%引き**で、新規のお客様にも既存のお客様にも使えます。12か月、24か月、48か月の契約では20%が適用されます。1か月の契約はプランによって適用可否が変わるため、支払う前にカートの「Coupon applied」の行を確認してください。更新は通常料金で、割引はありません。ドメイン単独の購入（登録または移管）では、コードは使えません。コードを入れる場所は[SONAR20クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)、プランは[Hostingerのページ](/ja/coupons/hostinger)にあります。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostingerのクーポンコードは何ですか？ HostingerのクーポンコードはSONAR20で、対象の新規購入の最初の期間が20%割引になります。カートの「Have a coupon code?」欄にコードを入力し、支払う前に「Coupon applied」の行を確認してください。更新は通常料金で、割引はありません。",
           "ドメインを失わずにホスティングを変えられる？ 登録はそのままにし、DNSで新しいホスティングへ接続できます。ドメインの移管は不要です。変更前にサイトとメールのDNSレコードを確認してください。",
           "メールを使うのにドメインは必要ですか？ はい。you@yourcompany.comのようなアドレスには、ドメインが必要です。ホスティングは必須ではなく、Hostingerは、ドメインをメール専用にしたり、別のサイトへの転送だけに使ったりできると書いています。",
           "Hostingerのドメインを別のレジストラへ移せる？ はい。拡張子の移管条件を満たし、ロックがなければ移せます。手順を確認し、必要に応じてロック解除、コード取得、申請の確認を行ってください。完了した移管は通常の返金対象外です。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
-        ]
-      },
-      {
-        "heading": "執筆者",
-        "paragraphs": [
-          "Em Casa com CecíliaはHostingerのマネージドホスティングでNode.js Web Appとして動いており、ドメインemcasacomcecilia.comは2024年からHostingerで登録されています（公開RDAP記録）。チームの誰もドメインを移管したことはありません。この記事は、Hostingerのドメインと移管のページが書いていることをまとめたものです。"
         ]
       }
     ],
@@ -169794,13 +169708,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "ドメインをHostingerに置くのは、サイトをHostingerでホスティングし、ドメイン、DNS、更新を1つの管理画面にまとめたい場合です。",
-        "拡張子とロックの条件で移管でき、Hostingerでの更新料が今払っている額に見合う場合だけです。"
+        "サイトを Hostinger でホスティングし、ドメイン、DNS、更新を1つの管理画面にまとめたい人。",
+        "拡張子とロックの条件で移管でき、Hostinger での更新料が今払っている額に見合う人。"
       ],
       "skipIf": [
-        "すでに別のレジストラにドメインがある、契約を分けたい、またはそちらの更新料のほうが安いなら、見送ってください。DNSを向けて、登録は今の場所に置いておきます。",
-        "拡張子や現在のロックで移管できない場合、または移管条件を確認できていない場合は見送ってください。",
-        "ドメインがフリーランスや代理店の名前やアカウントになるなら、見送ってください。あなたが管理するメールアドレスを使います。"
+        "すでに別のレジストラにドメインがある、契約を分けたい、またはそちらの更新料のほうが安い人。DNS を向けて、登録は今の場所に置いておきます。",
+        "拡張子や現在のロックで移管できない人、または移管条件を確認できていない人。",
+        "ドメインがフリーランスや代理店の名前やアカウントになる人。あなたが管理するメールアドレスを使います。"
       ]
     }
   },
@@ -169840,7 +169754,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20은 신규 구매의 첫 기간 20% 할인이며 도메인 단독 구매에는 적용되지 않습니다. 갱신 비용, 등록 관리 권한, 이전 자격과 잠금을 결제 전에 비교하세요.",
     "publishedAt": "2026년 10월 28일",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -169963,27 +169877,22 @@ export const reviewsData: unknown[] = [
           "**등록 이전은** 확장자 자격 조건, 잠금, 비용과 만료일 영향을 확인한 뒤 검토하겠습니다. 1년이 포함되더라도 그것만으로 모든 이전이 절약은 아닙니다.",
           "질문이 사이트 호스팅 위치뿐이라면 우선 이전 없이 연결하는 방식을 비교하세요. 어떤 경로든 DNS 변경을 계획하고 무중단을 가정하지 마세요."
         ],
-        "emphasis": "제 관리 방식에는 갱신 요금과 도메인 관리 권한이 맞는지 확인한 뒤 등록과 호스팅을 한 패널에 두는 쪽이 좋겠습니다. 관리상 선호이지 더 저렴하다는 보장은 아닙니다."
+        "emphasis": "각 방법의 규칙으로 보면, 도메인을 이미 다른 곳에 가지고 있다면 이전하지 않고 DNS만 연결하는 것이 답입니다. 등록 정보를 건드리지 않고 Hostinger에서 사이트를 열 수 있기 때문입니다. 구매나 이전은 갱신 요금과 확장자 이전 가능 여부를 확인한 뒤에만 의미가 있습니다."
       },
       {
         "heading": "SONAR20 쿠폰과 요금",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이고, 월간 또는 연간 플랜, 신규 또는 기존 고객 모두 해당합니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 도메인 단독 구매에는 코드가 적용되지 않습니다. 코드를 붙여 넣는 곳은 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에, 플랜은 [Hostinger 페이지](/ko/coupons/hostinger)에 있습니다."
+          "장바구니의 \"Have a coupon code?\" 입력란에 **SONAR20** 코드를 입력하거나 이 글의 링크로 들어간 뒤 입력란에서 코드를 확인하세요. 대상 신규 구매의 **첫 번째 기간 20% 할인**이고, 신규 또는 기존 고객 모두 해당합니다. 12개월, 24개월, 48개월 주기에는 20%가 적용되고, 1개월 주기에서는 플랜에 따라 적용 여부가 달라지므로 결제 전에 장바구니의 \"Coupon applied\" 줄을 확인하세요. 갱신은 할인 없이 정가로 청구됩니다. 도메인 단독 구매(등록 또는 이전)에는 코드가 적용되지 않습니다. 코드를 붙여 넣는 곳은 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에, 플랜은 [Hostinger 페이지](/ko/coupons/hostinger)에 있습니다."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "Hostinger 쿠폰 코드는 무엇인가요? Hostinger 쿠폰 코드는 SONAR20이며, 대상 신규 구매의 첫 번째 기간에 20% 할인을 받을 수 있습니다. 장바구니의 \"Have a coupon code?\" 입력란에 코드를 입력하고, 결제 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 할인 없이 정가로 청구됩니다.",
           "도메인을 잃지 않고 호스팅을 바꿀 수 있나요? 도메인 등록은 그대로 두고 DNS로 새 호스팅에 연결할 수 있습니다. 도메인을 이전할 필요는 없습니다. 바꾸기 전에 사이트와 이메일의 DNS 레코드를 확인하세요.",
           "이메일을 쓰려면 도메인이 필요한가요? 네. you@yourcompany.com 같은 주소에는 도메인이 있어야 합니다. 호스팅은 필수가 아니며, Hostinger는 도메인을 이메일 전용으로 쓰거나 다른 사이트로 연결하는 용도로만 쓸 수 있다고 말합니다.",
           "Hostinger 도메인을 다른 등록 기관으로 이전할 수 있나요? 네, 확장자가 이전을 허용하고 잠금이 없다면 가능합니다. 절차를 확인하고 필요한 경우 잠금을 풀고 코드를 받아 신청을 확인하세요. 완료된 이전은 일반 환불 대상에서 제외됩니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
-        ]
-      },
-      {
-        "heading": "작성자",
-        "paragraphs": [
-          "Em Casa com Cecília는 Hostinger의 관리형 호스팅에서 Node.js Web App으로 운영되며, emcasacomcecilia.com 도메인은 2024년부터 Hostinger에 등록되어 있습니다(공개 등록 정보 RDAP). 팀에서 도메인을 이전해 본 사람은 없습니다. 이 글은 Hostinger의 도메인 페이지와 이전 페이지가 말하는 내용을 모은 것입니다."
         ]
       }
     ],
@@ -170011,13 +169920,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "사이트를 Hostinger에서 호스팅하고 도메인, DNS, 갱신을 한 패널에서 관리하고 싶다면 도메인을 Hostinger에 두세요.",
-        "확장자와 잠금 조건상 이전이 가능하고, Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 이전하세요."
+        "사이트를 Hostinger에서 호스팅하고 도메인, DNS, 갱신을 한 패널에서 관리하고 싶은 분.",
+        "확장자와 잠금 조건상 이전이 가능하고, Hostinger의 갱신 요금이 지금 내는 금액보다 나은 분."
       ],
       "skipIf": [
-        "이미 다른 등록 기관에 도메인이 있거나, 계정을 나누고 싶거나, 그쪽 갱신 요금이 더 저렴하다면 넘기세요. DNS를 연결하고 등록은 지금 있는 곳에 두세요.",
-        "확장자나 현재 잠금 때문에 이전할 수 없거나 이전 자격을 확인하지 못했다면 넘기세요.",
-        "도메인이 프리랜서나 대행사의 이름이나 계정에 들어가게 된다면 넘기세요. 본인이 관리하는 이메일을 쓰세요."
+        "이미 다른 등록 기관에 도메인이 있거나, 계정을 나누고 싶거나, 그쪽 갱신 요금이 더 저렴한 분: DNS를 연결하고 등록은 지금 있는 곳에 두세요.",
+        "확장자나 현재 잠금 때문에 이전할 수 없거나 이전 자격을 확인하지 못한 분.",
+        "도메인이 프리랜서나 대행사의 이름이나 계정에 들어가게 되는 분: 본인이 관리하는 이메일을 쓰세요."
       ]
     }
   },
@@ -170057,7 +169966,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 为新购首期 20% 折扣，单买域名不适用。付款前比较续费、注册管理权、转移资格与锁定。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -170180,27 +170089,22 @@ export const reviewsData: unknown[] = [
           "**我会在核对后转移注册**，包括后缀资格、锁定、费用和到期日影响。请与当前支出整体比较；包含额外一年不代表每次转移都省钱。",
           "如果问题只是网站放在哪里，可以先比较不转移而连接的方式。规划 DNS 变更，不要假设选择任何一条路径就保证不中断。"
         ],
-        "emphasis": "以我的管理习惯，确认续费与域名管理权适合后，会倾向将注册与主机放在同一面板。这是管理偏好，不是最低价格的保证。"
+        "emphasis": "依各种做法的规则，域名已经在别处的人，选择是不转移、只连接 DNS，因为网站可以在 Hostinger 上线而不必动到注册信息；购买或转移，要先确认续费价格与后缀是否符合条件才划算。"
       },
       {
         "heading": "SONAR20 优惠码与价格",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期优惠 20%**，月付或年付套餐都可以，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。单买域名时，代码不适用。代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)；套餐见 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
+          "在购物车的“Have a coupon code?”栏输入 **SONAR20**，或从本文的链接进入后核对栏里的代码：符合资格的新购**首期优惠 20%**，新老客户都适用。12、24、48 个月的周期可享这 20%；1 个月的周期要看套餐是否接受，所以付款前请核对购物车里的“Coupon applied”一行。续费按标价收费，没有折扣。单买域名（注册或转移）时，代码不适用。代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)；套餐见 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，对符合资格的新购首个合同期间享 20% 折扣：在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”一行。续费按标价收费，没有折扣。",
           "换主机会丢失域名吗？可以保留原本注册，通过DNS连接新主机，不必转移域名。变更前请确认网站与邮箱使用的DNS记录。",
           "用邮箱一定要有域名吗？要。像 you@yourcompany.com 这样的地址，域名必须存在；主机不是必需的，Hostinger 说域名可以只用于邮箱，或只用来跳转到另一个网站。",
           "可以把Hostinger域名转到其他注册商吗？可以，只要域名后缀允许且没有锁定。请确认程序，按需解锁、取得代码并确认申请。已完成的转移不在一般退款范围内。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
-        ]
-      },
-      {
-        "heading": "作者",
-        "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App，域名 emcasacomcecilia.com 自 2024 年起注册在 Hostinger（公开注册信息 RDAP）。团队里没有人转过域名：本文汇总的是 Hostinger 的域名页面和转移页面所写的内容。"
         ]
       }
     ],
@@ -170228,13 +170132,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "网站打算放在 Hostinger，并想把域名、DNS 和续费放在同一个面板，就把域名放在 Hostinger。",
-        "只有在域名符合资格（注册或上次转移满 60 天、没有锁定），且 Hostinger 的续费价比你现在付的划算时，才转入。"
+        "网站打算放在 Hostinger，并想把域名、DNS 和续费放在同一个面板。",
+        "域名符合转移资格（注册或上次转移满 60 天、没有锁定），且 Hostinger 的续费价比你现在付的划算。"
       ],
       "skipIf": [
-        "如果已经在别的注册商有域名、想把账户分开，或者那边续费更低，就不必转：把 DNS 指向新地址，注册留在原处。",
-        "域名后缀或当前锁定阻止转移，或尚未确认转移资格时，就先别转。",
-        "如果域名会落在自由职业者或代理公司的名下或账户里，就先别买：用你自己掌控的邮箱。"
+        "已经在别的注册商有域名、想把账户分开，或者那边续费更低：把 DNS 指向新地址，注册留在原处。",
+        "域名后缀或当前锁定阻止转移，或尚未确认转移资格。",
+        "域名会落在自由职业者或代理公司的名下或账户里：用你自己掌控的邮箱。"
       ]
     }
   },
@@ -170274,7 +170178,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 為新購首期 20% 折扣，單買網域不適用。付款前比較續訂費、註冊管理權、轉移資格與鎖定。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -170397,27 +170301,22 @@ export const reviewsData: unknown[] = [
           "**我會在確認後移轉註冊**，包括後綴資格、鎖定、費用和到期日的影響。請與目前支出整體比較；包含額外一年不代表每次移轉都省錢。",
           "如果問題只是網站放在哪裡，可以先比較不移轉而連接的方式。規劃 DNS 變更，不要假設選擇任何一條路徑就保證不中斷。"
         ],
-        "emphasis": "以我的管理習慣，確認續約與網域管理權適合後，會傾向將註冊和主機放在同一控制台。這是管理偏好，不是最低價格的保證。"
+        "emphasis": "依各種做法的規則，網域已經在別處的人，選擇是不轉移、只連接 DNS，因為網站可以在 Hostinger 上線而不必動到註冊資料；購買或轉移，要先確認續約價格與副檔名是否符合條件才划算。"
       },
       {
         "heading": "SONAR20 優惠碼與價格",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**第一個週期優惠 20%**，月繳或年繳方案都可以，新舊客戶都適用。20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。單買網域，SONAR20 不適用。代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)；方案見 [Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+          "在購物車的「Have a coupon code?」欄輸入 **SONAR20**，或從本文的連結進入後核對欄裡的代碼：符合資格的新購**第一個週期優惠 20%**，新舊客戶都適用。12、24、48 個月的週期可享這 20%；1 個月的週期要看方案是否接受，所以付款前請核對購物車裡的「Coupon applied」一行。續訂按定價計算，沒有折扣。單買網域（註冊或轉移）時，SONAR20 不適用。代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)；方案見 [Hostinger 頁面](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，對符合資格的新購首個合約期間享 20% 折扣：在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」一行。續約按定價計算，沒有折扣。",
           "換主機會失去網域嗎？可以保留原本註冊，透過DNS連接新主機，不必轉移網域。變更前請確認網站與電子郵件使用的DNS記錄。",
           "使用電子郵件一定要有網域嗎？要。像 you@yourcompany.com 這樣的位址，網域必須存在；主機不是必需的，Hostinger 說網域可以只用於電子郵件，或只用來轉址到另一個網站。",
           "可以把Hostinger網域轉到其他註冊商嗎？可以，只要網域後綴允許且沒有鎖定。請確認程序，依需要解鎖、取得代碼並確認申請。已完成的轉移不在一般退款範圍內。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
-        ]
-      },
-      {
-        "heading": "作者",
-        "paragraphs": [
-          "Em Casa com Cecília 運行在 Hostinger 的託管主機上，是一個 Node.js Web App，網域 emcasacomcecilia.com 自 2024 年起註冊在 Hostinger（公開註冊資料 RDAP）。團隊裡沒有人轉過網域：本文彙整的是 Hostinger 的網域頁面和轉移頁面所寫的內容。"
         ]
       }
     ],
@@ -170445,13 +170344,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "網站打算放在 Hostinger，並想把網域、DNS 和續訂放在同一個控制台，就把網域放在 Hostinger。",
-        "只有在網域符合資格（註冊或上次轉移滿 60 天、沒有鎖定），且 Hostinger 的續訂價比你現在付的划算時，才轉入。"
+        "網站打算放在 Hostinger，並想把網域、DNS 和續訂放在同一個控制台。",
+        "網域符合轉移資格（註冊或上次轉移滿 60 天、沒有鎖定），且 Hostinger 的續訂價比你現在付的划算。"
       ],
       "skipIf": [
-        "如果已經在別的註冊商有網域、想把帳戶分開，或者那邊續訂更低，就不必轉：把 DNS 指向新位址，註冊留在原處。",
-        "網域後綴或目前鎖定阻止轉移，或尚未確認轉移資格時，就先別轉。",
-        "如果網域會落在接案者或代理公司的名下或帳戶裡，就先別買：用你自己掌控的電子郵件。"
+        "已經在別的註冊商有網域、想把帳戶分開，或者那邊續訂更低：把 DNS 指向新位址，註冊留在原處。",
+        "網域後綴或目前鎖定阻止轉移，或尚未確認轉移資格。",
+        "網域會落在接案者或代理公司的名下或帳戶裡：用你自己掌控的電子郵件。"
       ]
     }
   },
@@ -170491,7 +170390,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom SONAR20 dá 20% OFF nos VPS da Hostinger. VPS ou hospedagem compartilhada: quadro por cenário, KVM e renovação lado a lado.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa-pt-v2.webp",
@@ -170518,11 +170417,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Antes de olhar preço, responda três perguntas. Se a resposta for \"não\" nas três, a compartilhada resolve."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
-        "imageAlt": "Quadro com três perguntas: precisa instalar um sistema fora do painel, precisa de CPU e memória reservadas, precisa de acesso root; cada sim aponta para VPS, e três não apontam para hospedagem compartilhada",
-        "imageCaption": "As três perguntas que decidem entre compartilhada e VPS. Quadro nosso, a partir das páginas da Hostinger.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7787,
+        "image": {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+          "alt": "Quadro com três perguntas: precisa instalar um sistema fora do painel, precisa de CPU e memória reservadas, precisa de acesso root; cada sim aponta para VPS, e três não apontam para hospedagem compartilhada",
+          "caption": "As três perguntas que decidem entre compartilhada e VPS. Quadro nosso, a partir das páginas da Hostinger.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
         "comparisonTable": {
           "headers": [
             "Cenário",
@@ -170717,6 +170618,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "VPS é mais rápido que hospedagem compartilhada? Não necessariamente. Recursos reservados e acesso root mudam o controle do ambiente, mas não bastam para prever o tempo de resposta do seu site. Compare os requisitos da aplicação e os limites do plano.",
           "Posso começar na compartilhada e migrar para VPS depois? Pode, se a aplicação for compatível com o novo ambiente. É uma nova contratação, com instalação do servidor e transferência do site; a hospedagem compartilhada não se converte em VPS por dentro do painel.",
           "Preciso saber Linux para ter um VPS? Sim, o básico de terminal: instalar programas, atualizar o sistema e ler um log. Na compartilhada, tudo passa pelo painel e não há terminal obrigatório.",
@@ -170724,23 +170626,17 @@ export const reviewsData: unknown[] = [
           "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês, sem desconto. Sem o cupom, R$ 29,99/mês.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
-      },
-      {
-        "heading": "Quem escreve",
-        "paragraphs": [
-          "O Em Casa com Cecília roda na Hostinger em hospedagem gerenciada, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. Este texto não traz teste de VPS: ele reúne o que as páginas da Hostinger dizem, e a experiência do site é só a da hospedagem gerenciada."
-        ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o VPS se o site precisa de um sistema, programa ou banco que não está no painel.",
-        "Leve se precisa de CPU e memória reservadas ou de acesso root.",
-        "Leve se tem um painel, bot ou automação (n8n, Docker) rodando o dia todo e alguém para manter o servidor."
+        "o site precisa de um sistema, programa ou banco que não está no painel.",
+        "precisa de CPU e memória reservadas ou de acesso root.",
+        "tem um painel, bot ou automação (n8n, Docker) rodando o dia todo e alguém para manter o servidor."
       ],
       "skipIf": [
-        "Passe se é blog, portfólio, site de empresa, loja pequena ou site em Node.js (em plano com suporte, como Ilimitado ou Cloud Startup): a compartilhada atende e a Hostinger cuida do servidor.",
-        "Passe se nunca abriu um terminal: instalar, atualizar, proteger e fazer backup passam a ser com você."
+        "é blog, portfólio, site de empresa, loja pequena ou site em Node.js (em plano com suporte, como Ilimitado ou Cloud Startup): a compartilhada atende e a Hostinger cuida do servidor.",
+        "nunca abriu um terminal: instalar, atualizar, proteger e fazer backup passam a ser com você."
       ]
     },
     "pros": [],
@@ -170802,7 +170698,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "VPS or shared hosting at Hostinger: what each one is, a chart by scenario, the specs of KVM 1 to 8 and what maintenance is left to you.",
     "publishedAt": "October 28, 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -170820,7 +170716,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What each one is",
         "paragraphs": [
-          "**Shared hosting** is one server split between several customers. Hostinger looks after the operating system, the web server and the updates; you log in to the control panel, install WordPress or upload your site's files, and that is it. At Hostinger, these are the Single, Premium and Unlimited plans, plus Cloud Startup, which is the same idea with more resources.",
+          "**Shared hosting** is one server split between several customers. Hostinger looks after the operating system, the web server and the updates; you log in to the control panel, install WordPress or upload your site's files, and that is it. At Hostinger, these are the Premium and Unlimited plans, plus Cloud Startup, which is the same idea with more resources.",
           "A **VPS** (virtual private server) is a virtual machine of your own, with reserved processor, memory and disk, plus root access, the system administrator account. You take responsibility for configuration, updates and security. The plans compared here are KVM 1, 2, 4 and 8.",
           "The difference is not “better or worse”. It is who looks after the server and how much of its resources are reserved for you."
         ]
@@ -170830,11 +170726,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Before you look at prices, answer three questions. If the answer is “no” to all three, shared hosting will do."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
-        "imageAlt": "Chart with three questions: do you need to install a system outside the control panel, do you need reserved CPU and memory, do you need root access; each yes points to VPS, and three noes point to shared hosting",
-        "imageCaption": "The three questions that decide between shared hosting and VPS. Our own chart, based on Hostinger's pages.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7787,
+        "image": {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+          "alt": "Chart with three questions: do you need to install a system outside the control panel, do you need reserved CPU and memory, do you need root access; each yes points to VPS, and three noes point to shared hosting",
+          "caption": "The three questions that decide between shared hosting and VPS. Our own chart, based on Hostinger's pages.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
         "comparisonTable": {
           "headers": [
             "Scenario",
@@ -170962,17 +170860,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewals are charged at the list price, with no discount.",
           "Is a VPS faster than shared hosting? Not necessarily. Reserved resources and root access change how you control the environment, but they do not by themselves predict how quickly your site responds. Compare the application's requirements and the plan limits.",
           "Can I start on shared hosting and move to a VPS later? Yes, if the application supports the new environment. It is a new contract, with server setup and a site transfer; shared hosting cannot be converted into a VPS from inside the panel.",
           "Do I need to know Linux to have a VPS? Yes, the basics of the terminal: installing programs, updating the system and reading a log. On shared hosting, everything goes through the panel and no terminal is required.",
           "Can a VPS run WordPress? Yes, including with a pre-installed template. You remain responsible for configuring and maintaining the environment, and capacity depends on the application. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
-        ]
-      },
-      {
-        "heading": "Who writes this",
-        "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since 2024. This text brings no VPS test: it gathers what Hostinger's pages say, and the site's own experience is only with managed hosting."
         ]
       }
     ],
@@ -171000,13 +170893,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take the VPS if the site needs a system, program or database that is not in the panel.",
-        "Take it if you need reserved CPU and memory or root access.",
-        "Take it if you have a dashboard, bot or automation (n8n, Docker) running all day and someone to maintain the server."
+        "the site needs a system, program or database that is not in the panel.",
+        "you need reserved CPU and memory or root access.",
+        "you have a dashboard, bot or automation (n8n, Docker) running all day and someone to maintain the server."
       ],
       "skipIf": [
-        "Skip it if it is a blog, portfolio, company site, small shop or Node.js site on a plan that supports it, such as Unlimited or Cloud Startup: shared hosting does the job and Hostinger looks after the server.",
-        "Skip it if you have never opened a terminal: installing, updating, securing and backing up become your job."
+        "it is a blog, portfolio, company site, small shop or Node.js site on a plan that supports it, such as Unlimited or Cloud Startup: shared hosting does the job and Hostinger looks after the server.",
+        "you have never opened a terminal: installing, updating, securing and backing up become your job."
       ]
     }
   },
@@ -171046,7 +170939,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "VPS o hosting compartido en Hostinger: qué es cada uno, cuadro por escenario, specs de los KVM 1 a 8 y qué mantenimiento queda contigo.",
     "publishedAt": "28 de octubre de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -171064,7 +170957,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué es cada uno",
         "paragraphs": [
-          "El **hosting compartido** es un servidor dividido entre varios clientes. Hostinger se encarga del sistema, del servidor web y de las actualizaciones; tú entras al panel, instalas WordPress o subes los archivos del sitio y listo. En Hostinger son los planes Single, Premium y Unlimited, y el Cloud Startup, que es la misma idea con más recursos.",
+          "El **hosting compartido** es un servidor dividido entre varios clientes. Hostinger se encarga del sistema, del servidor web y de las actualizaciones; tú entras al panel, instalas WordPress o subes los archivos del sitio y listo. En Hostinger son los planes Premium y Unlimited, y el Cloud Startup, que es la misma idea con más recursos.",
           "Un **VPS** (servidor privado virtual) es una máquina virtual solo tuya, con procesador, memoria y disco reservados y acceso root, la cuenta de administración del sistema. Tú asumes la configuración, las actualizaciones y la seguridad.  Los planes comparados son KVM 1, 2, 4 y 8.",
           "La diferencia no es «mejor o peor». Es quién cuida el servidor y cuántos recursos quedan reservados para ti."
         ]
@@ -171074,11 +170967,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Antes de mirar el precio, responde tres preguntas. Si la respuesta es «no» en las tres, el hosting compartido lo resuelve."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
-        "imageAlt": "Cuadro con tres preguntas: ¿necesitas instalar un sistema fuera del panel?, ¿necesitas CPU y memoria reservadas?, ¿necesitas acceso root?; cada sí apunta a VPS y tres no apuntan a hosting compartido",
-        "imageCaption": "Las tres preguntas que deciden entre hosting compartido y VPS. Cuadro propio, a partir de las páginas de Hostinger.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7787,
+        "image": {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
+          "alt": "Cuadro con tres preguntas: ¿necesitas instalar un sistema fuera del panel?, ¿necesitas CPU y memoria reservadas?, ¿necesitas acceso root?; cada sí apunta a VPS y tres no apuntan a hosting compartido",
+          "caption": "Las tres preguntas que deciden entre hosting compartido y VPS. Cuadro propio, a partir de las páginas de Hostinger.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
         "comparisonTable": {
           "headers": [
             "Escenario",
@@ -171206,17 +171101,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20% de descuento en el primer período de una compra nueva elegible: introduce el código en el campo \"Have a coupon code?\" del carrito y comprueba la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
           "¿Un VPS es más rápido que el hosting compartido? No necesariamente. Los recursos reservados y el acceso root cambian el control del entorno, pero no bastan para predecir el tiempo de respuesta de tu sitio. Compara los requisitos de la aplicación y los límites del plan.",
           "¿Puedo empezar en el compartido y pasar a un VPS después? Sí, si la aplicación es compatible con el nuevo entorno. Es una contratación nueva, con instalación del servidor y traslado del sitio; el hosting compartido no se convierte en VPS desde el panel.",
           "¿Necesito saber Linux para tener un VPS? Sí, lo básico de terminal: instalar programas, actualizar el sistema y leer un log. En el compartido, todo pasa por el panel y no necesitas usar la terminal.",
           "¿Un VPS aguanta WordPress? Sí. Puedes partir de la plantilla de WordPress del VPS, que ya viene instalada, pero actualizar, proteger y restaurar copias sigue siendo cosa tuya. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
-        ]
-      },
-      {
-        "heading": "Quién escribe",
-        "paragraphs": [
-          "Em Casa com Cecília funciona en Hostinger con hosting gestionado, como Node.js Web App, y el dominio está registrado en Hostinger desde 2024. Este texto no trae prueba de VPS: reúne lo que dicen las páginas de Hostinger, y la experiencia del sitio es solo la del hosting gestionado."
         ]
       }
     ],
@@ -171244,13 +171134,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Elige el VPS si el sitio necesita un sistema, programa o base de datos que no está en el panel.",
-        "Elígelo si necesitas CPU y memoria reservadas o acceso root.",
-        "Elígelo si tienes un panel, bot o automatización (n8n, Docker) funcionando todo el día y alguien que mantenga el servidor."
+        "el sitio necesita un sistema, programa o base de datos que no está en el panel.",
+        "necesitas CPU y memoria reservadas o acceso root.",
+        "tienes un panel, bot o automatización (n8n, Docker) funcionando todo el día y alguien que mantenga el servidor."
       ],
       "skipIf": [
-        "Déjalo si es un blog, portafolio, sitio de empresa, tienda pequeña o sitio en Node.js (en un plan compatible, como Unlimited o Cloud Startup): el compartido cumple y Hostinger cuida el servidor.",
-        "Déjalo si nunca has abierto una terminal: instalar, actualizar, proteger y hacer copias pasan a ser cosa tuya."
+        "es un blog, portafolio, sitio de empresa, tienda pequeña o sitio en Node.js (en un plan compatible, como Unlimited o Cloud Startup): el compartido cumple y Hostinger cuida el servidor.",
+        "nunca has abierto una terminal: instalar, actualizar, proteger y hacer copias pasan a ser cosa tuya."
       ]
     }
   },
@@ -171290,7 +171180,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "VPS ou hébergement mutualisé chez Hostinger : ce qu'est chacun, tableau par scénario, specs des KVM 1 à 8 et ce qui reste à votre charge en maintenance.",
     "publishedAt": "28 octobre 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -171308,7 +171198,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce qu'est chacun",
         "paragraphs": [
-          "L'**hébergement mutualisé** est un serveur partagé entre plusieurs clients. Hostinger s'occupe du système, du serveur web et des mises à jour ; vous entrez dans le panneau, installez WordPress ou envoyez les fichiers du site, et c'est tout. Chez Hostinger, ce sont les forfaits Single, Premium et Unlimited, et le Cloud Startup, qui suit la même idée avec plus de ressources.",
+          "L'**hébergement mutualisé** est un serveur partagé entre plusieurs clients. Hostinger s'occupe du système, du serveur web et des mises à jour ; vous entrez dans le panneau, installez WordPress ou envoyez les fichiers du site, et c'est tout. Chez Hostinger, ce sont les forfaits Premium et Unlimited, et le Cloud Startup, qui suit la même idée avec plus de ressources.",
           "Un **VPS** est une machine virtuelle rien qu'à vous, avec processeur, mémoire et disque réservés et accès root, le compte d'administration du système. La configuration, les mises à jour et la sécurité restent à votre charge.  Les offres comparées sont KVM 1, 2, 4 et 8.",
           "La différence n'est pas « meilleur ou moins bon ». C'est qui s'occupe du serveur et quelle part des ressources vous est réservée."
         ]
@@ -171318,11 +171208,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Avant de regarder le prix, répondez à trois questions. Si la réponse est « non » aux trois, l'hébergement mutualisé suffit."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
-        "imageAlt": "Tableau avec trois questions : faut-il installer un système hors du panneau, faut-il du CPU et de la mémoire réservés, faut-il l'accès root ; chaque oui mène au VPS, et trois non mènent à l'hébergement mutualisé",
-        "imageCaption": "Les trois questions qui tranchent entre mutualisé et VPS. Tableau maison, à partir des pages de Hostinger.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7787,
+        "image": {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
+          "alt": "Tableau avec trois questions : faut-il installer un système hors du panneau, faut-il du CPU et de la mémoire réservés, faut-il l'accès root ; chaque oui mène au VPS, et trois non mènent à l'hébergement mutualisé",
+          "caption": "Les trois questions qui tranchent entre mutualisé et VPS. Tableau maison, à partir des pages de Hostinger.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
         "comparisonTable": {
           "headers": [
             "Scénario",
@@ -171450,17 +171342,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
           "Un VPS est-il plus rapide qu'un hébergement mutualisé ? Pas forcément. Les ressources réservées et l'accès root changent le contrôle de l'environnement, mais ne permettent pas à eux seuls de prévoir le temps de réponse du site. Comparez les besoins de l'application et les limites du forfait.",
           "Peut-on commencer sur le mutualisé et passer au VPS plus tard ? Oui, si l'application est compatible avec le nouvel environnement. C'est un nouveau contrat, avec installation du serveur et transfert du site ; l'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
           "Faut-il connaître Linux pour avoir un VPS ? Oui, les bases du terminal : installer des programmes, mettre à jour le système et lire un journal. Sur le mutualisé, tout passe par le panneau et aucun terminal n'est obligatoire.",
           "Un VPS supporte-t-il WordPress ? Oui. Vous pouvez partir du modèle WordPress du VPS, déjà installé, mais mettre à jour, protéger et restaurer les sauvegardes reste à votre charge. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
-        ]
-      },
-      {
-        "heading": "Qui écrit",
-        "paragraphs": [
-          "Em Casa com Cecília tourne chez Hostinger en hébergement géré, comme Node.js Web App, et le domaine est enregistré chez Hostinger depuis 2024. Ce texte ne comporte aucun test de VPS : il rassemble ce que disent les pages de Hostinger, et l'expérience du site se limite à l'hébergement géré."
         ]
       }
     ],
@@ -171488,13 +171375,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez le VPS si le site a besoin d'un système, d'un programme ou d'une base absents du panneau.",
-        "Prenez-le si vous avez besoin de CPU et de mémoire réservés ou de l'accès root.",
-        "Prenez-le si vous avez un tableau de bord, un bot ou une automatisation (n8n, Docker) qui tourne toute la journée et quelqu'un pour maintenir le serveur."
+        "le site a besoin d'un système, d'un programme ou d'une base absents du panneau.",
+        "vous avez besoin de CPU et de mémoire réservés ou de l'accès root.",
+        "vous avez un tableau de bord, un bot ou une automatisation (n8n, Docker) qui tourne toute la journée et quelqu'un pour maintenir le serveur."
       ],
       "skipIf": [
-        "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js (sur une offre compatible, comme Unlimited ou Cloud Startup) : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
-        "Laissez tomber si vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder reviennent à vous."
+        "c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js (sur une offre compatible, comme Unlimited ou Cloud Startup) : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
+        "vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder reviennent à vous."
       ]
     }
   },
@@ -171534,7 +171421,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "VPS o hosting condiviso su Hostinger: cos'è ciascuno, quadro per scenario, specifiche dei KVM da 1 a 8 e cosa resta a te nella manutenzione.",
     "publishedAt": "28 ottobre 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -171552,7 +171439,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cos'è ciascuno",
         "paragraphs": [
-          "L'**hosting condiviso** è un server diviso tra più clienti. Hostinger si occupa del sistema, del server web e degli aggiornamenti; tu entri nel pannello, installi WordPress o carichi i file del sito, e basta. Su Hostinger sono i piani Single, Premium e Unlimited, più il Cloud Startup, che è la stessa idea con più risorse.",
+          "L'**hosting condiviso** è un server diviso tra più clienti. Hostinger si occupa del sistema, del server web e degli aggiornamenti; tu entri nel pannello, installi WordPress o carichi i file del sito, e basta. Su Hostinger sono i piani Premium e Unlimited, più il Cloud Startup, che è la stessa idea con più risorse.",
           "Un **VPS** (server privato virtuale) è una macchina virtuale solo tua, con processore, memoria e disco riservati e accesso root, l'account di amministrazione del sistema. Configurazione, aggiornamenti e sicurezza restano a tuo carico.  I piani confrontati sono KVM 1, 2, 4 e 8.",
           "La differenza non è «meglio o peggio». È chi si occupa del server e quante risorse restano riservate a te."
         ]
@@ -171562,11 +171449,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Prima di guardare il prezzo, rispondi a tre domande. Se la risposta è «no» a tutte e tre, l'hosting condiviso risolve."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
-        "imageAlt": "Quadro con tre domande: serve installare un sistema fuori dal pannello, servono CPU e memoria riservate, serve l'accesso root; ogni sì porta al VPS e tre no portano all'hosting condiviso",
-        "imageCaption": "Le tre domande che decidono tra hosting condiviso e VPS. Quadro nostro, a partire dalle pagine di Hostinger.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7787,
+        "image": {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+          "alt": "Quadro con tre domande: serve installare un sistema fuori dal pannello, servono CPU e memoria riservate, serve l'accesso root; ogni sì porta al VPS e tre no portano all'hosting condiviso",
+          "caption": "Le tre domande che decidono tra hosting condiviso e VPS. Quadro nostro, a partire dalle pagine di Hostinger.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
         "comparisonTable": {
           "headers": [
             "Scenario",
@@ -171694,17 +171583,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
           "Il VPS è più veloce dell'hosting condiviso? Non necessariamente. Le risorse riservate e l'accesso root cambiano il controllo dell'ambiente, ma da soli non permettono di prevedere i tempi di risposta del sito. Confronta i requisiti dell'applicazione e i limiti del piano.",
           "Posso iniziare sul condiviso e passare al VPS dopo? Sì, se l'applicazione è compatibile con il nuovo ambiente. È un nuovo contratto, con installazione del server e trasferimento del sito; l'hosting condiviso non si converte in VPS dal pannello.",
           "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Sul condiviso, tutto passa dal pannello e non devi usare il terminale.",
           "Il VPS regge WordPress? Sì. Puoi partire dal template WordPress del VPS, già installato, ma aggiornare, proteggere e ripristinare i backup resta compito tuo. Sul condiviso, WordPress arriva pronto nel pannello e Hostinger si occupa del server.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
-        ]
-      },
-      {
-        "heading": "Chi scrive",
-        "paragraphs": [
-          "Em Casa com Cecília gira su Hostinger in hosting gestito, come Node.js Web App, e il dominio è registrato su Hostinger dal 2024. Questo testo non contiene una prova di VPS: raccoglie ciò che dicono le pagine di Hostinger, e l'esperienza del sito è solo quella dell'hosting gestito."
         ]
       }
     ],
@@ -171732,13 +171616,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prendi il VPS se il sito ha bisogno di un sistema, un programma o un database che non è nel pannello.",
-        "Prendilo se ti servono CPU e memoria riservate o l'accesso root.",
-        "Prendilo se hai un pannello, un bot o un'automazione (n8n, Docker) attivi tutto il giorno e qualcuno che mantenga il server."
+        "il sito ha bisogno di un sistema, un programma o un database che non è nel pannello.",
+        "ti servono CPU e memoria riservate o l'accesso root.",
+        "hai un pannello, un bot o un'automazione (n8n, Docker) attivi tutto il giorno e qualcuno che mantenga il server."
       ],
       "skipIf": [
-        "Lascia stare se è un blog, un portfolio, un sito aziendale, un piccolo negozio o un sito in Node.js (su un piano compatibile, come Unlimited o Cloud Startup): il condiviso basta e Hostinger si occupa del server.",
-        "Lascia stare se non hai mai aperto un terminale: installare, aggiornare, proteggere e fare backup diventano compiti tuoi."
+        "è un blog, un portfolio, un sito aziendale, un piccolo negozio o un sito in Node.js (su un piano compatibile, come Unlimited o Cloud Startup): il condiviso basta e Hostinger si occupa del server.",
+        "non hai mai aperto un terminale: installare, aggiornare, proteggere e fare backup diventano compiti tuoi."
       ]
     }
   },
@@ -171778,7 +171662,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "VPS oder Shared Hosting bei Hostinger: was beides ist, Übersicht nach Szenario, Specs der KVM 1 bis 8 und was bei der Wartung an Ihnen hängen bleibt.",
     "publishedAt": "28. Oktober 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -171796,7 +171680,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was beides ist",
         "paragraphs": [
-          "**Shared Hosting** ist ein Server, der unter mehreren Kunden aufgeteilt wird. Hostinger kümmert sich um das System, den Webserver und die Updates; Sie gehen ins Panel, installieren WordPress oder laden die Dateien Ihrer Website hoch, fertig. Bei Hostinger sind das die Tarife Single, Premium und Unlimited sowie Cloud Startup, dieselbe Idee mit mehr Ressourcen.",
+          "**Shared Hosting** ist ein Server, der unter mehreren Kunden aufgeteilt wird. Hostinger kümmert sich um das System, den Webserver und die Updates; Sie gehen ins Panel, installieren WordPress oder laden die Dateien Ihrer Website hoch, fertig. Bei Hostinger sind das die Tarife Premium und Unlimited sowie Cloud Startup, dieselbe Idee mit mehr Ressourcen.",
           "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatz sowie Root-Zugriff, dem Administratorkonto des Systems. Konfiguration, Updates und Sicherheit liegen bei Ihnen.  Verglichen werden KVM 1, 2, 4 und 8.",
           "Der Unterschied ist nicht „besser oder schlechter“. Es geht darum, wer den Server betreut und wie viele Ressourcen für Sie reserviert sind."
         ]
@@ -171806,11 +171690,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Beantworten Sie vor dem Blick auf den Preis drei Fragen. Lautet die Antwort dreimal „nein“, reicht Shared Hosting."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
-        "imageAlt": "Übersicht mit drei Fragen: Muss ein System außerhalb des Panels installiert werden, braucht man reservierte CPU und reservierten Arbeitsspeicher, braucht man Root-Zugriff; jedes Ja führt zum VPS, dreimal Nein führt zum Shared Hosting",
-        "imageCaption": "Die drei Fragen, die zwischen Shared Hosting und VPS entscheiden. Eigene Übersicht, auf Grundlage der Hostinger-Seiten.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7787,
+        "image": {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+          "alt": "Übersicht mit drei Fragen: Muss ein System außerhalb des Panels installiert werden, braucht man reservierte CPU und reservierten Arbeitsspeicher, braucht man Root-Zugriff; jedes Ja führt zum VPS, dreimal Nein führt zum Shared Hosting",
+          "caption": "Die drei Fragen, die zwischen Shared Hosting und VPS entscheiden. Eigene Übersicht, auf Grundlage der Hostinger-Seiten.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
         "comparisonTable": {
           "headers": [
             "Szenario",
@@ -171938,17 +171824,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20% Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie die Zeile „Coupon applied“, bevor Sie zahlen. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Ist ein VPS schneller als Shared Hosting? Nicht unbedingt. Reservierte Ressourcen und Root-Zugriff ändern die Kontrolle über die Umgebung, bestimmen aber allein nicht die Antwortzeit Ihrer Website. Vergleichen Sie die Anforderungen der Anwendung und die Tarifgrenzen.",
           "Kann ich mit Shared Hosting beginnen und später zum VPS wechseln? Ja, sofern die Anwendung mit der neuen Umgebung kompatibel ist. Es ist ein neuer Vertrag, mit Serverinstallation und Umzug der Website; Shared Hosting lässt sich im Panel nicht in einen VPS umwandeln.",
           "Braucht man Linux-Kenntnisse für einen VPS? Ja, die Grundlagen des Terminals: Programme installieren, das System aktualisieren und ein Log lesen. Beim Shared Hosting läuft alles über das Panel, ein Terminal ist nicht nötig.",
           "Schafft ein VPS WordPress? Ja. Man kann vom WordPress-Template des VPS ausgehen, das schon installiert ist, aber Aktualisieren, Absichern und Zurückspielen von Backups bleibt bei Ihnen. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
-        ]
-      },
-      {
-        "heading": "Wer schreibt",
-        "paragraphs": [
-          "Em Casa com Cecília läuft bei Hostinger im verwalteten Hosting, als Node.js Web App, und die Domain ist seit 2024 bei Hostinger registriert. Dieser Text enthält keinen VPS-Test: Er fasst zusammen, was die Hostinger-Seiten sagen, und die Erfahrung der Website beschränkt sich auf das verwaltete Hosting."
         ]
       }
     ],
@@ -171976,13 +171857,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Nehmen Sie den VPS, wenn die Website ein System, Programm oder eine Datenbank braucht, die nicht im Panel ist.",
-        "Nehmen Sie ihn, wenn Sie reservierte CPU und reservierten Arbeitsspeicher oder Root-Zugriff brauchen.",
-        "Nehmen Sie ihn, wenn Sie ein Panel, einen Bot oder eine Automatisierung (n8n, Docker) haben, die den ganzen Tag läuft, und jemanden, der den Server wartet."
+        "die Website ein System, Programm oder eine Datenbank braucht, die nicht im Panel ist.",
+        "Sie reservierte CPU und reservierten Arbeitsspeicher oder Root-Zugriff brauchen.",
+        "Sie ein Panel, einen Bot oder eine Automatisierung (n8n, Docker) haben, die den ganzen Tag läuft, und jemanden, der den Server wartet."
       ],
       "skipIf": [
-        "Lassen Sie den VPS weg, wenn es um einen Blog, ein Portfolio, eine Firmenseite, einen kleinen Shop oder eine Node.js-Website geht (auf einem passenden Tarif wie Unlimited oder Cloud Startup): Shared Hosting genügt, und Hostinger betreut den Server.",
-        "Lassen Sie ihn, wenn Sie noch nie ein Terminal geöffnet haben: Installieren, Aktualisieren, Absichern und Backups liegen dann bei Ihnen."
+        "es um einen Blog, ein Portfolio, eine Firmenseite, einen kleinen Shop oder eine Node.js-Website geht (auf einem passenden Tarif wie Unlimited oder Cloud Startup): Shared Hosting genügt, und Hostinger betreut den Server.",
+        "Sie noch nie ein Terminal geöffnet haben: Installieren, Aktualisieren, Absichern und Backups liegen dann bei Ihnen."
       ]
     }
   },
@@ -172022,7 +171903,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger の VPS と共有ホスティングを比較。それぞれの仕組み、シナリオ別の表、KVM 1〜8 のスペック、サーバー管理で自分に残る作業をまとめました。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -172040,7 +171921,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "それぞれの仕組み",
         "paragraphs": [
-          "**共有ホスティング**は、一台のサーバーを複数の顧客で分け合う方式です。システム、ウェブサーバー、アップデートは Hostinger が面倒を見ます。あなたはパネルに入って WordPress を入れるか、サイトのファイルをアップロードするだけです。Hostinger では Single、Premium、Unlimited のプラン、そして同じ考え方でリソースを増やした Cloud Startup がこれにあたります。",
+          "**共有ホスティング**は、一台のサーバーを複数の顧客で分け合う方式です。システム、ウェブサーバー、アップデートは Hostinger が面倒を見ます。あなたはパネルに入って WordPress を入れるか、サイトのファイルをアップロードするだけです。Hostinger では Premium、Unlimited のプラン、そして同じ考え方でリソースを増やした Cloud Startup がこれにあたります。",
           "**VPS**（仮想専用サーバー）は、プランで決まったリソースと root 権限を持つ仮想マシンです。root はシステムの管理者アカウントで、設定、更新、セキュリティはあなたが担います。比較するのは KVM 1、2、4、8 です。",
           "違いは「どちらが優れているか」ではありません。誰がサーバーを管理するか、どれだけのリソースが専用に確保されるか、です。"
         ]
@@ -172050,11 +171931,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "価格を見る前に、三つの問いに答えてください。三つとも「いいえ」なら、共有ホスティングで足ります。"
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
-        "imageAlt": "三つの問いを並べた図：パネルの外にシステムを入れる必要があるか、CPU とメモリの専用確保が要るか、root 権限が要るか。一つでも「はい」なら VPS、三つとも「いいえ」なら共有ホスティング",
-        "imageCaption": "共有ホスティングと VPS を分ける三つの問い。Hostinger のページをもとにした当サイトの図です。",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7787,
+        "image": {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
+          "alt": "三つの問いを並べた図：パネルの外にシステムを入れる必要があるか、CPU とメモリの専用確保が要るか、root 権限が要るか。一つでも「はい」なら VPS、三つとも「いいえ」なら共有ホスティング",
+          "caption": "共有ホスティングと VPS を分ける三つの問い。Hostinger のページをもとにした当サイトの図です。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
         "comparisonTable": {
           "headers": [
             "シナリオ",
@@ -172182,17 +172065,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostingerのクーポンコードは何ですか？ HostingerのクーポンコードはSONAR20で、対象の新規購入の最初の期間が20%割引になります。カートの「Have a coupon code?」欄にコードを入力し、支払う前に「Coupon applied」の行を確認してください。更新は通常料金で、割引はありません。",
           "VPS は共有ホスティングより速いですか？ 必ずしもそうとは限りません。確保されたリソースや root 権限は環境の管理方法を変えますが、それだけではサイトの応答速度は予測できません。アプリケーションの要件とプランの制限を比較してください。",
           "まず共有ホスティングで始めて、後から VPS に移れますか？ 新しい環境にアプリケーションが対応していれば可能です。VPS の契約、サーバーの構築、サイトの移行が必要で、パネルから自動的に VPS へ変わるわけではありません。",
           "VPS を使うのに Linux は必要ですか？ はい、ターミナルの基本は必要です。プログラムの導入、システムのアップデート、ログの読み方です。共有ホスティングでは全部パネルから行え、ターミナルは必須ではありません。",
           "VPS で WordPress は動きますか？ 動きます。導入済みのテンプレートも使えます。ただし環境の設定と維持、OS のセキュリティ更新はあなたの責任です。共有ホスティングでは WordPress がパネルにあらかじめ用意され、サーバーは Hostinger が面倒を見ます。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
-        ]
-      },
-      {
-        "heading": "執筆者について",
-        "paragraphs": [
-          "Em Casa com Cecília は、Hostinger のマネージドホスティングで Node.js Web App として動いていて、ドメインも 2024年から Hostinger で登録しています。この記事に VPS のテストはありません。Hostinger のページの記載をまとめたもので、サイトでの経験はマネージドホスティングのものだけです。"
         ]
       }
     ],
@@ -172220,13 +172098,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "サイトに、パネルにないシステム、プログラム、データベースが必要なら VPS を。",
-        "CPU とメモリの専用確保や root 権限が必要なら VPS を。",
-        "一日中動くパネル、ボット、自動化（n8n、Docker）があり、サーバーを維持する人もいるなら VPS を。"
+        "サイトに、パネルにないシステム、プログラム、データベースが必要な人。",
+        "CPU とメモリの専用確保や root 権限が必要な人。",
+        "一日中動くパネル、ボット、自動化（n8n、Docker）があり、サーバーを維持する人もいる人。"
       ],
       "skipIf": [
-        "ブログ、ポートフォリオ、会社サイト、小さなショップ、Node.js サイト（Unlimited や Cloud Startup などの対応プラン）なら見送りを。共有ホスティングで足り、サーバーは Hostinger が面倒を見ます。",
-        "ターミナルを開いたことがないなら見送りを。インストール、アップデート、セキュリティ、バックアップが自分の仕事になります。"
+        "ブログ、ポートフォリオ、会社サイト、小さなショップ、Node.js サイト（Unlimited や Cloud Startup などの対応プラン）の人。共有ホスティングで足り、サーバーは Hostinger が面倒を見ます。",
+        "ターミナルを開いたことがない人。インストール、アップデート、セキュリティ、バックアップが自分の仕事になります。"
       ]
     }
   },
@@ -172266,7 +172144,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "호스팅어의 VPS와 공유 호스팅을 비교했습니다. 각각이 무엇인지, 상황별 표, KVM 1~8 사양, 서버 관리에서 직접 맡게 되는 일까지 정리했습니다.",
     "publishedAt": "2026년 10월 28일",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -172284,7 +172162,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "둘은 무엇이 다른가",
         "paragraphs": [
-          "**공유 호스팅**은 한 서버를 여러 고객이 나눠 쓰는 방식입니다. 시스템, 웹 서버, 업데이트는 호스팅어가 맡고, 이용자는 패널에 들어가 WordPress를 설치하거나 사이트 파일을 올리면 끝입니다. 호스팅어에서는 Single, Premium, Unlimited 플랜과, 같은 방식에 자원을 더한 Cloud Startup이 여기에 해당합니다.",
+          "**공유 호스팅**은 한 서버를 여러 고객이 나눠 쓰는 방식입니다. 시스템, 웹 서버, 업데이트는 호스팅어가 맡고, 이용자는 패널에 들어가 WordPress를 설치하거나 사이트 파일을 올리면 끝입니다. 호스팅어에서는 Premium, Unlimited 플랜과, 같은 방식에 자원을 더한 Cloud Startup이 여기에 해당합니다.",
           "**VPS**(가상 사설 서버)는 플랜에 정해진 자원과 root 접근을 제공하는 가상 머신입니다. root는 시스템 관리자 계정이며, 설정, 업데이트와 보안은 이용자가 맡습니다.  비교 대상은 KVM 1, 2, 4, 8입니다.",
           "차이는 “어느 쪽이 더 좋으냐”가 아닙니다. 누가 서버를 돌보는지, 그리고 얼마만큼의 자원이 예약되는지의 차이입니다."
         ]
@@ -172294,11 +172172,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "가격을 보기 전에 세 가지 질문에 먼저 답해 보세요. 세 가지 모두 “아니오”라면 공유 호스팅으로 충분합니다."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
-        "imageAlt": "세 가지 질문을 담은 표: 패널 밖에 시스템을 설치해야 하는가, CPU와 메모리 예약이 필요한가, root 접근이 필요한가. 하나라도 “예”면 VPS, 셋 다 “아니오”면 공유 호스팅",
-        "imageCaption": "공유 호스팅과 VPS를 가르는 세 가지 질문. 호스팅어 페이지를 바탕으로 우리가 만든 표입니다.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7787,
+        "image": {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
+          "alt": "세 가지 질문을 담은 표: 패널 밖에 시스템을 설치해야 하는가, CPU와 메모리 예약이 필요한가, root 접근이 필요한가. 하나라도 “예”면 VPS, 셋 다 “아니오”면 공유 호스팅",
+          "caption": "공유 호스팅과 VPS를 가르는 세 가지 질문. 호스팅어 페이지를 바탕으로 우리가 만든 표입니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
         "comparisonTable": {
           "headers": [
             "상황",
@@ -172426,17 +172306,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "Hostinger 쿠폰 코드는 무엇인가요? Hostinger 쿠폰 코드는 SONAR20이며, 대상 신규 구매의 첫 번째 기간에 20% 할인을 받을 수 있습니다. 장바구니의 \"Have a coupon code?\" 입력란에 코드를 입력하고, 결제 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 할인 없이 정가로 청구됩니다.",
           "VPS는 공유 호스팅보다 빠른가요? 꼭 그렇지는 않습니다. 예약된 자원과 root 접근은 환경을 관리하는 방식을 바꾸지만, 그것만으로 사이트의 응답 속도를 예측할 수는 없습니다. 애플리케이션 요구 사항과 플랜의 한도를 비교하세요.",
           "공유 호스팅으로 시작했다가 나중에 VPS로 옮길 수 있나요? 애플리케이션이 새 환경과 호환된다면 가능합니다. 서비스 계약, 환경 설정과 사이트 이전이 필요하며 패널에서 자동으로 VPS로 전환되는 것은 아닙니다.",
           "VPS를 쓰려면 Linux를 알아야 하나요? 네, 터미널 기본은 필요합니다. 프로그램 설치, 시스템 업데이트, 로그 읽기 같은 것들입니다. 공유 호스팅에서는 모든 것이 패널로 이루어져 터미널이 꼭 필요하지 않습니다.",
           "VPS에서 WordPress가 돌아가나요? 돌아갑니다. 미리 설치된 템플릿으로 시작할 수도 있지만, 환경 설정, OS 보안 패치와 유지 관리는 이용자의 책임입니다. 공유 호스팅에서는 WordPress가 패널에 준비되어 있고 서버는 호스팅어가 돌봅니다.",
           "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
-        ]
-      },
-      {
-        "heading": "작성자",
-        "paragraphs": [
-          "Em Casa com Cecília는 호스팅어의 관리형 호스팅에서 Node.js Web App으로 운영되고 있으며, 도메인도 2024년부터 호스팅어에 등록되어 있습니다. 이 글에는 VPS 테스트가 없습니다. 호스팅어 페이지의 설명을 모은 글이며, 사이트에서의 경험은 관리형 호스팅에 한정됩니다."
         ]
       }
     ],
@@ -172464,13 +172339,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "사이트에 패널에 없는 시스템, 프로그램, 데이터베이스가 필요하다면 VPS를 고르세요.",
-        "CPU와 메모리 예약이나 root 접근이 필요하다면 고르세요.",
-        "하루 종일 돌아가는 패널, 봇, 자동화(n8n, Docker)가 있고 서버를 관리할 사람도 있다면 고르세요."
+        "사이트에 패널에 없는 시스템, 프로그램, 데이터베이스가 필요한 분.",
+        "CPU와 메모리 예약이나 root 접근이 필요한 분.",
+        "하루 종일 돌아가는 패널, 봇, 자동화(n8n, Docker)가 있고 서버를 관리할 사람도 있는 분."
       ],
       "skipIf": [
-        "블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰, Node.js 사이트(Unlimited나 Cloud Startup 같은 지원 플랜)라면 건너뛰세요. 공유 호스팅으로 충분하고 서버는 호스팅어가 돌봅니다.",
-        "터미널을 한 번도 열어 본 적이 없다면 건너뛰세요. 설치, 업데이트, 보안, 백업을 직접 해야 합니다."
+        "블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰, Node.js 사이트(Unlimited나 Cloud Startup 같은 지원 플랜)를 운영하는 분: 공유 호스팅으로 충분하고 서버는 호스팅어가 돌봅니다.",
+        "터미널을 한 번도 열어 본 적이 없는 분: 설치, 업데이트, 보안, 백업을 직접 해야 합니다."
       ]
     }
   },
@@ -172510,7 +172385,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 的 VPS 与共享主机怎么选：两者各是什么、场景对照表、KVM 1 至 8 的配置，以及服务器维护中留给你的工作。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -172528,7 +172403,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "两者各是什么",
         "paragraphs": [
-          "**共享主机**是一台服务器由多位客户分用。系统、Web 服务器和更新由 Hostinger 负责；你进入面板，安装 WordPress 或上传网站文件，就完成了。在 Hostinger，这是 Single、Premium 和 Unlimited 套餐，还有 Cloud Startup，思路相同，资源更多。",
+          "**共享主机**是一台服务器由多位客户分用。系统、Web 服务器和更新由 Hostinger 负责；你进入面板，安装 WordPress 或上传网站文件，就完成了。在 Hostinger，这是 Premium 和 Unlimited 套餐，还有 Cloud Startup，思路相同，资源更多。",
           "**VPS**（虚拟专用服务器）是一台提供套餐资源和 root 权限的虚拟机。root 是系统管理员账户；配置、更新和安全由你负责。本文比较 KVM 1、2、4 和 8。",
           "区别不在于“谁更好”，而在于谁来照看服务器，以及有多少资源是专门留给你的。"
         ]
@@ -172538,11 +172413,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "看价格之前，先回答三个问题。三个都是“不”，共享主机就够了。"
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
-        "imageAlt": "列出三个问题的图表：是否需要在面板之外安装系统，是否需要独享 CPU 和内存，是否需要 root 权限；任一回答“是”就指向 VPS，三个都是“不”则指向共享主机",
-        "imageCaption": "区分共享主机与 VPS 的三个问题。本站根据 Hostinger 页面制作的图表。",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7787,
+        "image": {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
+          "alt": "列出三个问题的图表：是否需要在面板之外安装系统，是否需要独享 CPU 和内存，是否需要 root 权限；任一回答“是”就指向 VPS，三个都是“不”则指向共享主机",
+          "caption": "区分共享主机与 VPS 的三个问题。本站根据 Hostinger 页面制作的图表。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
         "comparisonTable": {
           "headers": [
             "场景",
@@ -172670,17 +172547,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，对符合资格的新购首个合同期间享 20% 折扣：在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”一行。续费按标价收费，没有折扣。",
           "VPS 比共享主机快吗？不一定。分配的资源和 root 权限改变了环境的管理方式，但仅凭这些无法预测网站的响应速度。需要比较应用要求与套餐限制。",
           "可以先用共享主机，以后再迁到 VPS 吗？如果应用兼容新环境，可以迁移。你需要购买服务、配置环境并转移网站；共享主机不能在面板中直接转成 VPS。",
           "用 VPS 需要懂 Linux 吗？需要，至少要会终端的基本操作：安装程序、更新系统、看日志。共享主机则一切通过面板完成，不必使用终端。",
           "VPS 能跑 WordPress 吗？能，也可以用预装模板起步。但操作系统的安全补丁、环境配置和维护仍由你负责。共享主机的面板里 WordPress 是现成的，服务器由 Hostinger 负责。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
-        ]
-      },
-      {
-        "heading": "作者介绍",
-        "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App，域名也从 2024 年起注册在 Hostinger。本文不含 VPS 测试，只汇总 Hostinger 页面上的说明，本站自己的经验仅限于托管主机。"
         ]
       }
     ],
@@ -172708,13 +172580,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "如果网站需要面板里没有的系统、程序或数据库，选 VPS。",
-        "如果需要独享的 CPU 和内存，或需要 root 权限，就选。",
-        "如果有整天运行的面板、机器人或自动化（n8n、Docker），并且有人维护服务器，就选。"
+        "网站需要面板里没有的系统、程序或数据库。",
+        "需要独享的 CPU 和内存，或需要 root 权限。",
+        "有整天运行的面板、机器人或自动化（n8n、Docker），并且有人维护服务器。"
       ],
       "skipIf": [
-        "如果是博客、作品集、公司网站、小型网店或 Node.js 网站（套餐需支持，如 Unlimited 或 Cloud Startup），就别选：共享主机够用，服务器由 Hostinger 负责。",
-        "如果从没打开过终端，就别选：安装、更新、防护和备份都会变成你的事。"
+        "是博客、作品集、公司网站、小型网店或 Node.js 网站（套餐需支持，如 Unlimited 或 Cloud Startup）：共享主机够用，服务器由 Hostinger 负责。",
+        "从没打开过终端：安装、更新、防护和备份都会变成你的事。"
       ]
     }
   },
@@ -172754,7 +172626,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 的 VPS 與共享主機怎麼選：兩者各是什麼、情境對照表、KVM 1 至 8 的規格，以及伺服器維護中留給你的工作。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -172772,7 +172644,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "兩者各是什麼",
         "paragraphs": [
-          "**共享主機**是一台伺服器由多位客戶分用。系統、Web 伺服器與更新由 Hostinger 負責；你進入面板，安裝 WordPress 或上傳網站檔案，就完成了。在 Hostinger，這是 Single、Premium 與 Unlimited 方案，還有 Cloud Startup，想法相同，資源更多。",
+          "**共享主機**是一台伺服器由多位客戶分用。系統、Web 伺服器與更新由 Hostinger 負責；你進入面板，安裝 WordPress 或上傳網站檔案，就完成了。在 Hostinger，這是 Premium 與 Unlimited 方案，還有 Cloud Startup，想法相同，資源更多。",
           "**VPS**（虛擬專屬伺服器）是一台提供方案資源與 root 權限的虛擬機器。root 是系統管理帳號；設定、更新與安全由你負責。本文比較 KVM 1、2、4 與 8。",
           "差別不在於「誰比較好」，而在於誰來照顧伺服器，以及有多少資源是專門留給你的。"
         ]
@@ -172782,11 +172654,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "看價格之前，先回答三個問題。三個都是「不」，共享主機就夠了。"
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
-        "imageAlt": "列出三個問題的圖表：是否需要在面板之外安裝系統，是否需要獨享 CPU 與記憶體，是否需要 root 權限；任一回答「是」就指向 VPS，三個都是「不」則指向共享主機",
-        "imageCaption": "區分共享主機與 VPS 的三個問題。本站根據 Hostinger 頁面製作的圖表。",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7787,
+        "image": {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
+          "alt": "列出三個問題的圖表：是否需要在面板之外安裝系統，是否需要獨享 CPU 與記憶體，是否需要 root 權限；任一回答「是」就指向 VPS，三個都是「不」則指向共享主機",
+          "caption": "區分共享主機與 VPS 的三個問題。本站根據 Hostinger 頁面製作的圖表。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
         "comparisonTable": {
           "headers": [
             "情境",
@@ -172914,17 +172788,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，對符合資格的新購首個合約期間享 20% 折扣：在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」一行。續約按定價計算，沒有折扣。",
           "VPS 比共享主機快嗎？不一定。分配的資源與 root 權限改變了環境的管理方式，但僅憑這些無法預測網站的回應速度。需要比較應用需求與方案限制。",
           "可以先用共享主機，之後再遷到 VPS 嗎？如果應用相容於新環境，就可以遷移。你需要購買服務、設定環境並轉移網站；共享主機不能在面板裡直接轉成 VPS。",
           "用 VPS 需要懂 Linux 嗎？需要，至少要會終端機的基本操作：安裝程式、更新系統、看日誌。共享主機則一切透過面板完成，不必使用終端機。",
           "VPS 能跑 WordPress 嗎？能，也可以用預裝範本起步。但作業系統的安全修補與伺服器設定仍由你負責。共享主機的面板裡 WordPress 是現成的，伺服器由 Hostinger 負責。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
-        ]
-      },
-      {
-        "heading": "作者介紹",
-        "paragraphs": [
-          "Em Casa com Cecília 運作在 Hostinger 的託管主機上，是一個 Node.js Web App，網域也從 2024 年起註冊在 Hostinger。本文不含 VPS 測試，只彙整 Hostinger 頁面上的說明，本站自己的經驗僅限於託管主機。"
         ]
       }
     ],
@@ -172952,13 +172821,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "如果網站需要面板裡沒有的系統、程式或資料庫，選 VPS。",
-        "如果需要獨享的 CPU 與記憶體，或需要 root 權限，就選。",
-        "如果有整天運作的面板、機器人或自動化（n8n、Docker），並且有人維護伺服器，就選。"
+        "網站需要面板裡沒有的系統、程式或資料庫。",
+        "需要獨享的 CPU 與記憶體，或需要 root 權限。",
+        "有整天運作的面板、機器人或自動化（n8n、Docker），並且有人維護伺服器。"
       ],
       "skipIf": [
-        "如果是部落格、作品集、公司網站、小型網路商店或 Node.js 網站（方案需支援，如 Unlimited 或 Cloud Startup），就別選：共享主機夠用，伺服器由 Hostinger 負責。",
-        "如果從沒開啟過終端機，就別選：安裝、更新、防護與備份都會變成你的事。"
+        "是部落格、作品集、公司網站、小型網路商店或 Node.js 網站（方案需支援，如 Unlimited 或 Cloud Startup）：共享主機夠用，伺服器由 Hostinger 負責。",
+        "從沒開啟過終端機：安裝、更新、防護與備份都會變成你的事。"
       ]
     }
   },
@@ -179118,7 +178987,7 @@ export const reviewsData: unknown[] = [
     "locale": "pt",
     "translationKey": "hostinger-reach-ou-mailchimp-brevo",
     "title": "Hostinger Reach, Mailchimp ou Brevo: qual escolher para e-mail marketing",
-    "seoTitle": "Hostinger Reach vale a pena? Comparativo com Mailchimp e Brevo",
+    "seoTitle": "Hostinger Reach vale a pena? Reach vs Mailchimp e Brevo",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -179148,7 +179017,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach com o cupom SONAR20 de 20% OFF: quadro por perfil, planos, limites de envio e WhatsApp, contra Mailchimp e Brevo.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-pt-v2.webp",
@@ -179257,8 +179126,7 @@ export const reviewsData: unknown[] = [
           "**Starter:** 100 destinatários, 200 e-mails por mês e nenhum crédito de IA. Os e-mails levam a marca da Reach.",
           "**Grow:** 500 destinatários, 3.500 e-mails por mês e 10 créditos de IA por mês. Tira a marca da Reach e traz personalização, agendamento e automações.",
           "**Pro:** 1.000 destinatários, 7.000 e-mails por mês e 20 créditos de IA por mês. Soma HTML, horário de envio otimizado, campanhas de WhatsApp, campos personalizados e colegas de equipe."
-        ],
-        "emphasis": "Na dúvida entre os planos, o que decide é o tamanho da lista. Os planos da página vão até 1.000 destinatários; acima disso, veja no carrinho se há faixa maior do Pro ou vá de Mailchimp ou Brevo."
+        ]
       },
       {
         "heading": "Mailchimp e Brevo: plano grátis e preço publicado",
@@ -179341,11 +179209,13 @@ export const reviewsData: unknown[] = [
           "**Fique no plano grátis do Mailchimp ou do Brevo** se a lista está começando e você ainda não sabe se vai mandar e-mail com frequência. O Reach não tem plano grátis na página brasileira.",
           "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se o total de e-mails do mês, automações incluídas, passa de 7.000, o teto do Pro. Os planos do Reach param em 1.000 destinatários.",
           "Se fosse para o meu site, eu levaria o Reach Grow, porque cobre a lista de até 500 com automações e renova abaixo dos planos pagos do Mailchimp e do Brevo."
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para quem já tem site na Hostinger e lista de até 1.000 destinatários, a escolha é o Reach Grow ou o Pro, porque o preço publicado e a renovação ficam abaixo dos planos pagos do Mailchimp e do Brevo; acima de 1.000 contatos, os planos do Reach acabam e a escolha é o Mailchimp ou o Brevo."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "O Hostinger Reach vale a pena? Vale para quem já tem site na Hostinger e lista de até 1.000 destinatários. O Grow custava R$ 7,69/mês em 12 meses e renovava a R$ 10,99/mês, abaixo dos planos pagos do Mailchimp e do Brevo.",
           "Quanto custa o Hostinger Reach? Na página brasileira: Starter a R$ 6,99/mês, Grow a R$ 7,69/mês e Pro a R$ 13,99/mês em 12 meses, renovando a R$ 6,99, R$ 10,99 e R$ 19,99. Em 24 meses, R$ 4,99, R$ 6,29 e R$ 10,49.",
           "O Hostinger Reach tem plano grátis? Não na página brasileira: os três planos são pagos. O Mailchimp é grátis para menos de 250 contatos e o Brevo tem plano grátis com até 300 e-mails por dia.",
@@ -179355,23 +179225,17 @@ export const reviewsData: unknown[] = [
           "O código SONAR20 vale no Hostinger Reach? Vale: no teste do Bruno, o Reach 500 de 24 meses foi de R$ 215,76 para R$ 172,61. Nos outros planos e períodos, o valor final aparece no carrinho.",
           "O SONAR20 vale para quem já é cliente? Vale em compra nova elegível, mesmo com conta existente. Registro de domínio e renovação ficam fora."
         ]
-      },
-      {
-        "heading": "Quem escreve",
-        "paragraphs": [
-          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado lá desde 2024. Este texto reúne o que as páginas de preço dos três diziam e o teste do SONAR20 no carrinho. Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
-        ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o Reach se já tem site na Hostinger e a lista cabe em até 1.000 destinatários.",
-        "Leve o Reach Pro se precisa mandar mensagem por WhatsApp.",
-        "Leve se os destinatários únicos do mês e o total de e-mails de campanhas e automações couberem nos limites mensais do plano."
+        "já tem site na Hostinger e a lista cabe em até 1.000 destinatários.",
+        "precisa mandar mensagem por WhatsApp, que só o Reach Pro oferece.",
+        "os destinatários únicos do mês e o total de e-mails de campanhas e automações cabem nos limites mensais do plano."
       ],
       "skipIf": [
-        "Passe se a lista está começando e cabe no plano grátis do Mailchimp ou do Brevo.",
-        "Passe se os destinatários únicos ou o total de e-mails do mês ultrapassarem os limites do plano escolhido."
+        "a lista está começando e cabe no plano grátis do Mailchimp ou do Brevo.",
+        "os destinatários únicos ou o total de e-mails do mês passam dos limites do plano escolhido."
       ]
     },
     "pros": [],
@@ -179403,7 +179267,7 @@ export const reviewsData: unknown[] = [
     "locale": "en",
     "translationKey": "hostinger-reach-ou-mailchimp-brevo",
     "title": "Hostinger Reach, Mailchimp or Brevo: which to choose for email marketing",
-    "seoTitle": "Is Hostinger Reach worth it? Comparison with Mailchimp and Brevo",
+    "seoTitle": "Is Hostinger Reach worth it? Reach vs Mailchimp, Brevo",
     "type": "Decision Guide",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -179433,7 +179297,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Is Hostinger Reach worth it? Chart by profile, plans, sending limits, WhatsApp and renewal in US dollars on October 30, 2026, compared with the free plans of Mailchimp and Brevo.",
     "publishedAt": "October 30, 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -179535,8 +179399,7 @@ export const reviewsData: unknown[] = [
           "**Starter:** 100 recipients, 200 emails a month and no AI credits. The emails carry the Reach branding.",
           "**Grow:** 500 recipients, 3,500 emails a month and 10 AI credits a month. It removes the Reach branding and adds personalization, scheduling and automations.",
           "**Pro:** 1,000 recipients, 7,000 emails a month and 20 AI credits a month. It adds HTML, optimized send time, WhatsApp campaigns, custom fields and team members."
-        ],
-        "emphasis": "When you are torn between the plans, the size of your list decides. The plans on the page go up to 1,000 recipients; above that, check at checkout whether a larger Pro tier exists, or go with Mailchimp or Brevo."
+        ]
       },
       {
         "heading": "Mailchimp and Brevo: the free plans",
@@ -179595,11 +179458,13 @@ export const reviewsData: unknown[] = [
           "**Stay on the free Mailchimp or Brevo plan** if your list is just starting and you don't yet know whether you will send email often. Reach has no free plan.",
           "**Go with Mailchimp or Brevo** if your list passes 1,000 contacts or if your monthly emails, automations included, pass 7,000, the Pro ceiling. The Reach plans stop at 1,000 recipients.",
           "If it were for my site, I would take Reach Grow, because it covers a list of up to 500 with automations and renews at US$ 2.49 a month."
-        ]
+        ],
+        "emphasis": "By the numbers in the table, for anyone with a Hostinger site and a list of up to 1,000 recipients, the choice is Reach Grow or Pro, because Grow covers up to 500 recipients with automations and Pro up to 1,000 with WhatsApp; above 1,000 contacts, the Reach plans run out and the choice is Mailchimp or Brevo."
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field at checkout and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
           "Is Hostinger Reach worth it? It is, for anyone with a Hostinger site and a list of up to 1,000 recipients. Grow costs US$ 1.74 a month in the first 12 months and renews at US$ 2.49 a month.",
           "How much does Hostinger Reach cost? On Hostinger's global page, in US dollars: Starter US$ 1.49, Grow US$ 1.74 and Pro US$ 2.79 a month in the first 12 months, renewing at US$ 1.49, US$ 2.49 and US$ 3.99. Prices can vary by country and currency.",
           "Does Hostinger Reach have a free plan? No: its three plans are paid. Mailchimp is free for fewer than 250 contacts, and Brevo has a free plan with up to 300 emails a day.",
@@ -179608,12 +179473,6 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach or Mailchimp? For a list of up to 1,000 recipients and a Hostinger site, Reach. To start for free, or for a list above 1,000 contacts, Mailchimp or Brevo.",
           "Does the SONAR20 code work on Hostinger Reach? Yes: in Bruno's test, the discount applied to Reach 500 for 24 months. For the other plans and periods, the final price shows in the cart.",
           "Can existing Hostinger customers use SONAR20? It applies to an eligible new purchase, even with an existing account. Domain registration and renewal are excluded."
-        ]
-      },
-      {
-        "heading": "Who writes this",
-        "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger's managed hosting, and the domain has been registered there since 2024. This text gathers what the pricing pages of the three said and the SONAR20 test in the cart. How Hostinger charges, renews and refunds is covered in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
         ]
       }
     ],
@@ -179641,13 +179500,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take Reach if you already have a Hostinger site and your list fits within 1,000 recipients.",
-        "Take Reach Pro if you need to send messages on WhatsApp.",
-        "Take it if both the unique recipients in a month and the total of campaign and automation emails fit the plan's limits."
+        "you already have a Hostinger site and your list fits within 1,000 recipients.",
+        "you need to send messages on WhatsApp, which only Reach Pro offers.",
+        "the unique recipients in a month and the total of campaign and automation emails fit the plan's limits."
       ],
       "skipIf": [
-        "Skip it if your list is just starting and fits in the free plan of Mailchimp or Brevo.",
-        "Skip it if the unique recipients or the total of monthly emails exceed the plan's limits."
+        "your list is just starting and fits in the free plan of Mailchimp or Brevo.",
+        "the unique recipients or the total of monthly emails go over the plan's limits."
       ]
     }
   },
@@ -179657,7 +179516,7 @@ export const reviewsData: unknown[] = [
     "locale": "es",
     "translationKey": "hostinger-reach-ou-mailchimp-brevo",
     "title": "Hostinger Reach, Mailchimp o Brevo: cuál elegir para el email marketing",
-    "seoTitle": "¿Vale la pena Hostinger Reach? Comparativa con Mailchimp y Brevo",
+    "seoTitle": "¿Vale la pena Hostinger Reach? Vs. Mailchimp y Brevo",
     "type": "Guía de elección",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -179687,7 +179546,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿Vale la pena Hostinger Reach? Cuadro por perfil, planes, límites de envío, WhatsApp y renovación en dólares el 30 de octubre de 2026, frente a los planes gratis de Mailchimp y Brevo.",
     "publishedAt": "30 de octubre de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -179789,8 +179648,7 @@ export const reviewsData: unknown[] = [
           "**Starter:** 100 destinatarios, 200 correos al mes y ningún crédito de IA. Los correos llevan la marca de Reach.",
           "**Grow:** 500 destinatarios, 3.500 correos al mes y 10 créditos de IA al mes. Quita la marca de Reach y suma personalización, programación y automatizaciones.",
           "**Pro:** 1.000 destinatarios, 7.000 correos al mes y 20 créditos de IA al mes. Suma HTML, horario de envío optimizado, campañas de WhatsApp, campos personalizados y compañeros de equipo."
-        ],
-        "emphasis": "Si dudas entre los planes, lo que decide es el tamaño de la lista. Los planes de la página llegan a 1.000 destinatarios; por encima, mira en el carrito si hay un tramo mayor de Pro o ve a Mailchimp o Brevo."
+        ]
       },
       {
         "heading": "Mailchimp y Brevo: los planes gratis",
@@ -179849,11 +179707,13 @@ export const reviewsData: unknown[] = [
           "**Quédate en el plan gratis de Mailchimp o de Brevo** si la lista está empezando y aún no sabes si vas a enviar correos con frecuencia. Reach no tiene plan gratis.",
           "**Ve a Mailchimp o Brevo** si la lista pasa de 1.000 contactos o si el total de correos del mes, con automatizaciones incluidas, supera los 7.000 del Pro. Los planes de Reach llegan hasta 1.000 destinatarios.",
           "Si fuera para mi sitio, elegiría Reach Grow, porque cubre una lista de hasta 500 con automatizaciones y renueva a 2,49 US$ al mes."
-        ]
+        ],
+        "emphasis": "Por los números de la tabla, para quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios, la elección es Reach Grow o Pro, porque Grow cubre hasta 500 destinatarios con automatizaciones y Pro hasta 1.000 con WhatsApp; por encima de 1.000 contactos, los planes de Reach se acaban y la elección es Mailchimp o Brevo."
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20% de descuento en el primer período de una compra nueva elegible: escribe el código en el campo \"Have a coupon code?\" del carrito y revisa la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
           "¿Vale la pena Hostinger Reach? Vale la pena para quien tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios. Grow cuesta 1,74 US$ al mes en los primeros 12 meses y renueva a 2,49 US$ al mes.",
           "¿Cuánto cuesta Hostinger Reach? En la página global de Hostinger, en dólares: Starter 1,49 US$ al mes, Grow 1,74 US$ y Pro 2,79 US$ en los primeros 12 meses, con renovación a 1,49 US$, 2,49 US$ y 3,99 US$. Los precios pueden variar según el país y la moneda.",
           "¿Hostinger Reach tiene plan gratis? No: sus tres planes son de pago. Mailchimp es gratis para menos de 250 contactos, y Brevo tiene un plan gratis con hasta 300 correos al día.",
@@ -179862,12 +179722,6 @@ export const reviewsData: unknown[] = [
           "¿Hostinger Reach o Mailchimp? Para una lista de hasta 1.000 destinatarios y un sitio en Hostinger, Reach. Para empezar gratis o para una lista de más de 1.000 contactos, Mailchimp o Brevo.",
           "¿El código SONAR20 vale en Hostinger Reach? Vale: en la prueba de Bruno, el descuento se aplicó al Reach 500 de 24 meses. En los otros planes y períodos, el precio final aparece en el carrito.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Vale para una compra nueva elegible, incluso con cuenta existente. El registro de dominio y la renovación quedan fuera."
-        ]
-      },
-      {
-        "heading": "Quién escribe",
-        "paragraphs": [
-          "Em Casa com Cecília funciona en el hosting gestionado de Hostinger, y el dominio está registrado allí desde 2024. Este texto reúne lo que decían las páginas de precios de los tres y la prueba del SONAR20 en el carrito. Cómo cobra, renueva y devuelve el dinero Hostinger está en [¿Hostinger es confiable?](/es/reviews/hostinger-es-confiable)."
         ]
       }
     ],
@@ -179895,13 +179749,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Elige Reach si ya tienes un sitio en Hostinger y tu lista cabe en hasta 1.000 destinatarios.",
-        "Elige Reach Pro si necesitas enviar mensajes por WhatsApp.",
-        "Elígelo si los destinatarios únicos del mes y el total de correos de campañas y automatizaciones caben en los límites mensuales del plan."
+        "ya tienes un sitio en Hostinger y tu lista cabe en hasta 1.000 destinatarios.",
+        "necesitas enviar mensajes por WhatsApp, algo que solo ofrece Reach Pro.",
+        "los destinatarios únicos del mes y el total de correos de campañas y automatizaciones caben en los límites mensuales del plan."
       ],
       "skipIf": [
-        "Déjalo si la lista está empezando y cabe en el plan gratis de Mailchimp o de Brevo.",
-        "Déjalo si los destinatarios únicos o los correos del mes superan los límites del plan elegido."
+        "la lista está empezando y cabe en el plan gratis de Mailchimp o de Brevo.",
+        "los destinatarios únicos o los correos del mes superan los límites del plan elegido."
       ]
     }
   },
@@ -179911,7 +179765,7 @@ export const reviewsData: unknown[] = [
     "locale": "fr",
     "translationKey": "hostinger-reach-ou-mailchimp-brevo",
     "title": "Hostinger Reach, Mailchimp ou Brevo : lequel choisir pour l'e-mail marketing",
-    "seoTitle": "Hostinger Reach vaut-il le coup ? Comparatif avec Mailchimp et Brevo",
+    "seoTitle": "Hostinger Reach vaut-il le coup ? Vs Mailchimp, Brevo",
     "type": "Guide de choix",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -179941,7 +179795,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach vaut-il le coup ? Tableau par profil, forfaits, limites d'envoi, WhatsApp et renouvellement en dollars américains au 30 octobre 2026, face aux forfaits gratuits de Mailchimp et de Brevo.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -180043,8 +179897,7 @@ export const reviewsData: unknown[] = [
           "**Starter :** 100 destinataires, 200 e-mails par mois et aucun crédit d'IA. Les e-mails portent la marque Reach.",
           "**Grow :** 500 destinataires, 3 500 e-mails par mois et 10 crédits d'IA par mois. Il retire la marque Reach et ajoute personnalisation, planification et automatisations.",
           "**Pro :** 1 000 destinataires, 7 000 e-mails par mois et 20 crédits d'IA par mois. Il ajoute le HTML, l'heure d'envoi optimisée, les campagnes WhatsApp, les champs personnalisés et les coéquipiers."
-        ],
-        "emphasis": "Si vous hésitez entre les forfaits, c'est la taille de la liste qui tranche. Les forfaits de la page vont jusqu'à 1 000 destinataires ; au-delà, regardez au panier s'il existe une tranche Pro plus grande, ou allez chez Mailchimp ou Brevo."
+        ]
       },
       {
         "heading": "Mailchimp et Brevo : les forfaits gratuits",
@@ -180103,11 +179956,13 @@ export const reviewsData: unknown[] = [
           "**Restez sur le forfait gratuit de Mailchimp ou de Brevo** si la liste débute et que vous ne savez pas encore si vous enverrez des e-mails souvent. Reach n'a pas de forfait gratuit.",
           "**Allez chez Mailchimp ou Brevo** si la liste dépasse 1 000 contacts ou si le total des e-mails du mois, automatisations comprises, dépasse les 7 000 du Pro. Les forfaits Reach s'arrêtent à 1 000 destinataires.",
           "Si c'était pour mon site, je prendrais Reach Grow, parce qu'il couvre une liste jusqu'à 500 avec des automatisations et se renouvelle à 2,49 US$ par mois."
-        ]
+        ],
+        "emphasis": "D'après les chiffres du tableau, pour qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires, le choix est Reach Grow ou Pro, car Grow couvre jusqu'à 500 destinataires avec automatisations et Pro jusqu'à 1 000 avec WhatsApp ; au-delà de 1 000 contacts, les forfaits Reach s'arrêtent et le choix est Mailchimp ou Brevo."
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ \"Have a coupon code?\" du panier et vérifiez la ligne \"Coupon applied\" avant de payer. Le renouvellement est facturé au tarif catalogue, sans réduction.",
           "Hostinger Reach vaut-il le coup ? Oui, pour qui a un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Grow coûte 1,74 US$ par mois les 12 premiers mois, puis 2,49 US$ par mois au renouvellement.",
           "Combien coûte Hostinger Reach ? Sur la page mondiale de Hostinger, en dollars américains : Starter 1,49 US$ par mois, Grow 1,74 US$ et Pro 2,79 US$ les 12 premiers mois, avec un renouvellement à 1,49 US$, 2,49 US$ et 3,99 US$. Les prix peuvent varier selon le pays et la devise.",
           "Hostinger Reach a-t-il un forfait gratuit ? Non : ses trois forfaits sont payants. Mailchimp est gratuit pour moins de 250 contacts, et Brevo propose un forfait gratuit jusqu'à 300 e-mails par jour.",
@@ -180116,12 +179971,6 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach ou Mailchimp ? Pour une liste allant jusqu'à 1 000 destinataires et un site chez Hostinger, Reach. Pour démarrer gratuitement ou pour une liste de plus de 1 000 contacts, Mailchimp ou Brevo.",
           "Le code SONAR20 fonctionne-t-il sur Hostinger Reach ? Oui : lors du test de Bruno, la réduction s'est appliquée à Reach 500 pour 24 mois. Pour les autres forfaits et périodes, le prix final s'affiche au panier.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Il s'applique à un nouvel achat éligible, même avec un compte existant. L'enregistrement de domaine et le renouvellement sont exclus."
-        ]
-      },
-      {
-        "heading": "Qui écrit",
-        "paragraphs": [
-          "Em Casa com Cecília fonctionne sur l'hébergement géré de Hostinger, et le domaine y est enregistré depuis 2024. Ce texte réunit ce que disaient les pages tarifaires des trois et le test du SONAR20 au panier. La façon dont Hostinger facture, renouvelle et rembourse est traitée dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
         ]
       }
     ],
@@ -180149,13 +179998,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez Reach si vous avez déjà un site chez Hostinger et que votre liste tient dans 1 000 destinataires.",
-        "Prenez Reach Pro si vous avez besoin d'envoyer des messages sur WhatsApp.",
-        "Prenez-le si les destinataires uniques du mois et le total des e-mails de campagnes et d'automatisations respectent les limites mensuelles du forfait."
+        "vous avez déjà un site chez Hostinger et votre liste tient dans 1 000 destinataires.",
+        "vous devez envoyer des messages sur WhatsApp, ce que seul Reach Pro permet.",
+        "les destinataires uniques du mois et le total des e-mails de campagnes et d'automatisations respectent les limites mensuelles du forfait."
       ],
       "skipIf": [
-        "Passez votre chemin si la liste débute et tient dans le forfait gratuit de Mailchimp ou de Brevo.",
-        "Passez votre chemin si les destinataires uniques ou les e-mails du mois dépassent les limites du forfait choisi."
+        "la liste débute et tient dans le forfait gratuit de Mailchimp ou de Brevo.",
+        "les destinataires uniques ou les e-mails du mois dépassent les limites du forfait choisi."
       ]
     }
   },
@@ -180196,7 +180045,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Conviene Hostinger Reach? Quadro per profilo, piani, limiti di invio, WhatsApp e rinnovo in dollari al 30 ottobre 2026, a confronto con i piani gratuiti di Mailchimp e Brevo.",
     "publishedAt": "30 ottobre 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-it-v2.webp",
@@ -180297,8 +180146,7 @@ export const reviewsData: unknown[] = [
           "**Starter:** 100 destinatari, 200 email al mese e nessun credito AI. Le email portano il marchio Reach.",
           "**Grow:** 500 destinatari, 3.500 email al mese e 10 crediti AI al mese. Toglie il marchio Reach e include personalizzazione, programmazione e automazioni.",
           "**Pro:** 1.000 destinatari, 7.000 email al mese e 20 crediti AI al mese. Aggiunge HTML, orario di invio ottimizzato, campagne WhatsApp, campi personalizzati e colleghi di team."
-        ],
-        "emphasis": "Se sei indeciso tra i piani, a decidere è la dimensione della lista. I piani della pagina arrivano a 1.000 destinatari; oltre, controlla nel carrello se esiste una fascia Pro più grande, oppure vai su Mailchimp o Brevo."
+        ]
       },
       {
         "heading": "Mailchimp e Brevo: il piano gratuito",
@@ -180360,11 +180208,13 @@ export const reviewsData: unknown[] = [
           "**Resta sul piano gratuito di Mailchimp o di Brevo** se la lista è all'inizio e non sai ancora se manderai email spesso. Reach non ha un piano gratuito.",
           "**Vai su Mailchimp o Brevo** se la lista supera i 1.000 contatti o se il totale delle email del mese, automazioni incluse, supera i 7.000 del Pro. I piani Reach si fermano a 1.000 destinatari.",
           "Se fosse per il mio sito, sceglierei il Reach Grow, perché copre una lista fino a 500 con automazioni e si rinnova a 2,49 US$ al mese."
-        ]
+        ],
+        "emphasis": "Secondo i numeri del quadro, per chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari, la scelta è Reach Grow o Pro, perché il Grow copre fino a 500 destinatari con le automazioni e il Pro fino a 1.000 con WhatsApp; oltre i 1.000 contatti i piani Reach finiscono e la scelta è Mailchimp o Brevo."
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga a prezzo di listino, senza sconto.",
           "Hostinger Reach conviene? Sì, per chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari. Il Grow costa 1,74 US$ al mese per i primi 12 mesi e si rinnova a 2,49 US$ al mese.",
           "Quanto costa Hostinger Reach? Sulla pagina globale di Hostinger, in dollari statunitensi: Starter 1,49 US$, Grow 1,74 US$ e Pro 2,79 US$ al mese per i primi 12 mesi, con rinnovo a 1,49 US$, 2,49 US$ e 3,99 US$. I prezzi possono variare per paese e valuta.",
           "Hostinger Reach ha un piano gratuito? No: tutti e tre i piani sono a pagamento. Mailchimp è gratis sotto i 250 contatti, e Brevo ha un piano gratuito con fino a 300 email al giorno.",
@@ -180373,12 +180223,6 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach o Mailchimp? Per una lista fino a 1.000 destinatari e un sito su Hostinger, Reach. Per partire gratis o per una lista oltre i 1.000 contatti, Mailchimp o Brevo.",
           "Il codice SONAR20 vale per Hostinger Reach? Sì: nel test di Bruno, lo sconto è stato applicato al Reach 500 da 24 mesi. Sugli altri piani e periodi, il prezzo finale compare nel carrello.",
           "SONAR20 vale per chi è già cliente di Hostinger? Vale su un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo restano esclusi."
-        ]
-      },
-      {
-        "heading": "Chi scrive",
-        "paragraphs": [
-          "Em Casa com Cecília gira sull'hosting gestito di Hostinger, e il dominio è registrato lì dal 2024. Questo testo raccoglie ciò che dicevano le pagine dei prezzi dei tre e il test del SONAR20 nel carrello. Come Hostinger addebita, rinnova e rimborsa è spiegato in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
         ]
       }
     ],
@@ -180406,13 +180250,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Scegli Reach se hai già un sito su Hostinger e la lista sta entro i 1.000 destinatari.",
-        "Scegli Reach Pro se ti serve inviare messaggi su WhatsApp.",
-        "Scegli Reach se i destinatari unici del mese e il totale delle email di campagne e automazioni rientrano nei limiti mensili del piano."
+        "hai già un sito su Hostinger e la lista sta entro i 1.000 destinatari.",
+        "ti serve inviare messaggi su WhatsApp, cosa che offre solo Reach Pro.",
+        "i destinatari unici del mese e il totale delle email di campagne e automazioni rientrano nei limiti mensili del piano."
       ],
       "skipIf": [
-        "Lascia stare se la lista è all'inizio e sta nel piano gratuito di Mailchimp o di Brevo.",
-        "Lascia stare se i destinatari unici o le email del mese superano i limiti del piano scelto."
+        "la lista è all'inizio e sta nel piano gratuito di Mailchimp o di Brevo.",
+        "i destinatari unici o le email del mese superano i limiti del piano scelto."
       ]
     }
   },
@@ -180423,7 +180267,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "hostinger-reach-ou-mailchimp-brevo",
     "hideFromPortugueseListings": true,
     "title": "Hostinger Reach, Mailchimp oder Brevo: welches Tool für E-Mail-Marketing",
-    "seoTitle": "Lohnt sich Hostinger Reach? Vergleich mit Mailchimp und Brevo",
+    "seoTitle": "Lohnt sich Hostinger Reach? Vergleich mit Mailchimp, Brevo",
     "type": "Entscheidungshilfe",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -180453,7 +180297,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Lohnt sich Hostinger Reach? Tabelle nach Profil, Tarife, Versandlimits, WhatsApp und Verlängerung in US-Dollar am 30. Oktober 2026, im Vergleich mit den kostenlosen Tarifen von Mailchimp und Brevo.",
     "publishedAt": "30. Oktober 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-de-v2.webp",
@@ -180554,8 +180398,7 @@ export const reviewsData: unknown[] = [
           "**Starter:** 100 Empfänger, 200 E-Mails im Monat und keine KI-Credits. Die E-Mails tragen die Marke von Reach.",
           "**Grow:** 500 Empfänger, 3.500 E-Mails im Monat und 10 KI-Credits im Monat. Entfernt die Reach-Marke und bringt Personalisierung, Terminierung und Automatisierungen.",
           "**Pro:** 1.000 Empfänger, 7.000 E-Mails im Monat und 20 KI-Credits im Monat. Dazu kommen HTML, optimierte Versandzeit, WhatsApp-Kampagnen, eigene Felder und Teammitglieder."
-        ],
-        "emphasis": "Wenn Sie zwischen den Tarifen schwanken, entscheidet die Größe der Liste. Die Tarife auf der Seite reichen bis 1.000 Empfänger; darüber prüfen Sie im Warenkorb, ob es eine größere Pro-Stufe gibt, oder gehen zu Mailchimp oder Brevo."
+        ]
       },
       {
         "heading": "Mailchimp und Brevo: der kostenlose Tarif",
@@ -180617,11 +180460,13 @@ export const reviewsData: unknown[] = [
           "**Bleiben Sie beim kostenlosen Tarif von Mailchimp oder Brevo**, wenn die Liste gerade erst beginnt und Sie noch nicht wissen, ob Sie oft E-Mails verschicken werden. Reach hat keinen kostenlosen Tarif.",
           "**Gehen Sie zu Mailchimp oder Brevo**, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn die E-Mails im Monat, Automationen eingerechnet, die 7.000 des Pro überschreiten. Die Reach-Tarife enden bei 1.000 Empfängern.",
           "Wäre es für meine Website, würde ich den Reach Grow nehmen, weil er eine Liste bis 500 mit Automatisierungen abdeckt und sich für 2,49 US$ im Monat verlängert."
-        ]
+        ],
+        "emphasis": "Nach den Zahlen der Tabelle lautet die Wahl für alle mit Hostinger-Website und einer Liste bis 1.000 Empfänger Reach Grow oder Pro, weil Grow bis 500 Empfänger mit Automatisierungen abdeckt und Pro bis 1.000 mit WhatsApp; über 1.000 Kontakten enden die Reach-Tarife, und die Wahl fällt auf Mailchimp oder Brevo."
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20% Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld \"Have a coupon code?\" im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile \"Coupon applied\". Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Lohnt sich Hostinger Reach? Ja, für alle mit einer Hostinger-Website und einer Liste bis 1.000 Empfänger. Der Grow kostet in den ersten 12 Monaten 1,74 US$ im Monat und verlängert sich auf 2,49 US$ im Monat.",
           "Was kostet Hostinger Reach? Auf der globalen Hostinger-Seite, in US-Dollar: Starter 1,49 US$, Grow 1,74 US$ und Pro 2,79 US$ im Monat in den ersten 12 Monaten, mit Verlängerung auf 1,49 US$, 2,49 US$ und 3,99 US$. Die Preise können je nach Land und Währung abweichen.",
           "Hat Hostinger Reach einen kostenlosen Tarif? Nein: Alle drei Tarife sind kostenpflichtig. Mailchimp ist für weniger als 250 Kontakte kostenlos, und Brevo bietet einen kostenlosen Tarif mit bis zu 300 E-Mails am Tag.",
@@ -180630,12 +180475,6 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach oder Mailchimp? Für eine Liste bis 1.000 Empfänger und eine Hostinger-Website: Reach. Für einen kostenlosen Start oder eine Liste über 1.000 Kontakte: Mailchimp oder Brevo.",
           "Gilt der Code SONAR20 bei Hostinger Reach? Ja: In Brunos Test wurde der Rabatt beim Reach 500 über 24 Monate angewendet. Bei den anderen Tarifen und Zeiträumen zeigt der Warenkorb den endgültigen Preis.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Bei einem berechtigten Neukauf gilt er auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen."
-        ]
-      },
-      {
-        "heading": "Wer schreibt",
-        "paragraphs": [
-          "Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger, und die Domain ist dort seit 2024 registriert. Dieser Text fasst zusammen, was die Preisseiten der drei sagten, und den SONAR20-Test im Warenkorb. Wie Hostinger abrechnet, verlängert und erstattet, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
         ]
       }
     ],
@@ -180663,13 +180502,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Nehmen Sie Reach, wenn Sie schon eine Hostinger-Website haben und Ihre Liste in 1.000 Empfänger passt.",
-        "Nehmen Sie Reach Pro, wenn Sie Nachrichten über WhatsApp verschicken müssen.",
-        "Nehmen Sie es, wenn die eindeutigen Empfänger im Monat und alle Kampagnen- und Automatisierungs-E-Mails zusammen in die Monatslimits des Tarifs passen."
+        "die Website schon bei Hostinger liegt und die Liste in 1.000 Empfänger passt.",
+        "Nachrichten über WhatsApp nötig sind, was nur der Reach Pro bietet.",
+        "die eindeutigen Empfänger im Monat und alle Kampagnen- und Automatisierungs-E-Mails zusammen in die Monatslimits des Tarifs passen."
       ],
       "skipIf": [
-        "Lassen Sie es, wenn die Liste gerade erst beginnt und in den kostenlosen Tarif von Mailchimp oder Brevo passt.",
-        "Lassen Sie es, wenn die eindeutigen Empfänger oder E-Mails im Monat die Grenzen des gewählten Tarifs überschreiten."
+        "die Liste gerade erst beginnt und in den kostenlosen Tarif von Mailchimp oder Brevo passt.",
+        "die eindeutigen Empfänger oder E-Mails im Monat die Grenzen des gewählten Tarifs überschreiten."
       ]
     }
   },
@@ -180710,7 +180549,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach は買う価値がある？ 利用者別の選び方、プラン、送信上限、WhatsApp、更新料を、Mailchimp と Brevo の無料プランと比べました。2026年10月30日時点。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-ja-v2.webp",
@@ -180811,8 +180650,7 @@ export const reviewsData: unknown[] = [
           "**Starter：** 宛先100件、月200通、AIクレジットなし。メールには Reach のブランド表示が付きます。",
           "**Grow：** 宛先500件、月3,500通、AIクレジット月10。Reach のブランド表示が消え、パーソナライズ、予約送信、自動化が使えます。",
           "**Pro：** 宛先1,000件、月7,000通、AIクレジット月20。HTML、最適な送信時間、WhatsApp キャンペーン、カスタムフィールド、チームメンバーが加わります。"
-        ],
-        "emphasis": "プランで迷ったら、決め手はリストの大きさです。ページのプランは宛先1,000件までです。それを超えるなら、カートでより大きな Pro の段階があるか確認するか、Mailchimp か Brevo を選びましょう。"
+        ]
       },
       {
         "heading": "Mailchimp と Brevo：無料プラン",
@@ -180874,11 +180712,13 @@ export const reviewsData: unknown[] = [
           "**Mailchimp か Brevo の無料プランのままに。** リストが始まったばかりで、どのくらいの頻度で送るか決めていないなら。Reach には国際サイトでも無料プランがありません。",
           "**Mailchimp か Brevo へ。** リストが1,000件を超える、または月の総メール数（自動配信を含む）がProの7,000通を超えるなら。Reach のプランは1,000件で終わります。",
           "自分のサイトに使うなら、Reach Grow を選びます。500件までのリストに自動化がつき、更新時も月 US$ 2.49 だからです。"
-        ]
+        ],
+        "emphasis": "表の数字からは、Hostinger のサイトがあり宛先が1,000件までなら、Reach の Grow か Pro が答えです。Grow は500件までを自動配信つきで、Pro は1,000件までを WhatsApp つきでカバーするからです。1,000件を超えると Reach のプランは終わるので、Mailchimp か Brevo になります。"
       },
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostinger のクーポンコードは何ですか？ Hostinger のクーポンコードは SONAR20 で、対象となる新規購入の最初の期間が20%オフになります。カートの「Have a coupon code?」欄にコードを入力し、支払い前に「Coupon applied」の行を確認してください。更新は割引なしの定価で請求されます。",
           "Hostinger Reach は買う価値がある？ Hostinger のサイトがあり、宛先が1,000件までなら、はいです。Grow は12か月で月 US$ 1.74、更新時は月 US$ 2.49 でした。",
           "Hostinger Reach の料金はいくら？ 国際サイトでは、12か月の月額が Starter US$ 1.49、Grow US$ 1.74、Pro US$ 2.79で、更新時はそれぞれ US$ 1.49、US$ 2.49、US$ 3.99です。国や通貨によって変わることがあります。",
           "Hostinger Reach に無料プランはある？ ありません。3つのプランとも有料です。Mailchimp は250件未満なら無料、Brevo は1日300通まで無料です。",
@@ -180887,12 +180727,6 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach と Mailchimp、どちらが良い？ 宛先が1,000件までなら Reach です。無料で始めたい、またはリストがもっと大きいなら Mailchimp か Brevo です。",
           "SONAR20 は Hostinger Reach でも使える？ 使えます。Bruno が試した Reach 500 の24か月プランで、割引が反映されました。ほかのプランや期間の最終価格は、カートに表示されます。",
           "SONAR20は既存のHostingerのお客様でも使えますか？ 既存アカウントでも、対象となる新規購入なら使えます。ドメイン登録と更新は対象外です。"
-        ]
-      },
-      {
-        "heading": "この記事を書いた人",
-        "paragraphs": [
-          "Em Casa com Cecília は Hostinger のマネージドホスティングで動いており、ドメインも2024年から Hostinger で登録しています。この記事は、3社の料金ページが示していた内容と、カートでの SONAR20 のテストをまとめたものです。Hostinger の請求、更新、返金については [Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja) をご覧ください。"
         ]
       }
     ],
@@ -180920,13 +180754,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Hostinger のサイトがあり、リストが1,000件までなら、Reach を選びます。",
-        "WhatsApp でメッセージを送る必要があるなら、Reach Pro を選びます。",
-        "月に送る異なる宛先数と、キャンペーン・自動配信の合計通数が、どちらもプランの上限内なら検討できます。"
+        "Hostinger のサイトがあり、リストが1,000件までの人",
+        "WhatsApp でメッセージを送る必要がある人（Reach Pro だけが対応）",
+        "月ごとの宛先数と、キャンペーン・自動配信の合計通数が、プランの上限に収まる人"
       ],
       "skipIf": [
-        "リストが始まったばかりで、Mailchimp か Brevo の無料プランに収まるなら、見送ります。",
-        "月に送る異なる宛先数や送信通数が、Reach の最上位プラン（Pro）の上限を超えるなら、見送ります。"
+        "リストを始めたばかりで、Mailchimp か Brevo の無料プランに収まる人",
+        "月ごとの宛先数や送信通数が、選んだプランの上限を超える人"
       ]
     }
   },
@@ -180966,7 +180800,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach 쓸 만한가? 프로필별 표, 플랜, 발송 한도, WhatsApp, 갱신가를 Mailchimp와 Brevo의 무료 플랜과 비교합니다. 2026년 10월 30일 기준.",
     "publishedAt": "2026년 10월 30일",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-ko-v2.webp",
@@ -181067,8 +180901,7 @@ export const reviewsData: unknown[] = [
           "**Starter:** 수신자 100명, 월 200통, AI 크레딧 없음. 메일에 Reach 브랜드가 붙습니다.",
           "**Grow:** 수신자 500명, 월 3,500통, AI 크레딧 월 10개. Reach 브랜드를 빼고 개인화, 예약 발송, 자동화를 씁니다.",
           "**Pro:** 수신자 1,000명, 월 7,000통, AI 크레딧 월 20개. HTML, 최적 발송 시간, WhatsApp 캠페인, 사용자 정의 필드, 팀원 추가를 더합니다."
-        ],
-        "emphasis": "플랜이 고민된다면 결정을 좌우하는 것은 리스트 크기입니다. 페이지의 플랜은 수신자 1,000명까지입니다. 그 이상이면 장바구니에 더 큰 Pro 구간이 있는지 확인하거나 Mailchimp나 Brevo로 가세요."
+        ]
       },
       {
         "heading": "Mailchimp와 Brevo: 무료 플랜",
@@ -181130,11 +180963,13 @@ export const reviewsData: unknown[] = [
           "**Mailchimp나 Brevo의 무료 플랜에 머무르세요.** 리스트가 막 시작했고 메일을 얼마나 자주 보낼지 아직 모른다면. Reach에는 국제 사이트에서도 무료 플랜이 없습니다.",
           "**Mailchimp나 Brevo로 가세요.** 리스트가 1,000명을 넘거나, 자동화 메일을 포함한 한 달 메일 총량이 Pro 7,000통을 넘을 때. Reach 플랜은 수신자 1,000명에서 멈춥니다.",
           "제 사이트라면 Reach Grow를 고릅니다. 500명까지의 리스트에 자동화가 붙고, 갱신해도 월 US$ 2.49이기 때문입니다."
-        ]
+        ],
+        "emphasis": "표의 수치로 보면, 이미 Hostinger에 사이트가 있고 수신자가 1,000명 이하인 경우 Reach Grow 또는 Pro가 맞습니다. Grow는 수신자 500명까지 자동화를 포함하고 Pro는 1,000명까지 WhatsApp을 지원하기 때문입니다. 1,000명을 넘으면 Reach 플랜이 끝나므로 Mailchimp나 Brevo가 답입니다."
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "Hostinger 쿠폰 코드는 무엇인가요? Hostinger 쿠폰 코드는 SONAR20이며, 적격한 신규 구매의 첫 결제 기간에 20% 할인됩니다. 장바구니의 \"Have a coupon code?\" 칸에 코드를 입력하고 결제 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 할인 없이 정가로 청구됩니다.",
           "Hostinger Reach 쓸 만한가요? 이미 Hostinger에 사이트가 있고 수신자가 1,000명 이하라면 그렇습니다. Grow는 12개월 동안 월 US$ 1.74, 갱신 시 월 US$ 2.49였습니다.",
           "Hostinger Reach 가격은 얼마인가요? 국제 사이트에서 12개월 동안 월 Starter US$ 1.49, Grow US$ 1.74, Pro US$ 2.79입니다. 갱신 가격은 각각 US$ 1.49, US$ 2.49, US$ 3.99입니다. 국가와 통화에 따라 다를 수 있습니다.",
           "Hostinger Reach에 무료 플랜이 있나요? 없습니다. 세 플랜 모두 유료입니다. Mailchimp는 연락처 250명 미만에서 무료이고, Brevo는 하루 300통까지 무료입니다.",
@@ -181143,12 +180978,6 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach와 Mailchimp 중 무엇이 나은가요? 수신자가 1,000명 이하라면 Reach입니다. 무료로 시작하고 싶거나 리스트가 더 크다면 Mailchimp나 Brevo입니다.",
           "SONAR20이 Hostinger Reach에도 적용되나요? 적용됩니다. Bruno가 Reach 500 24개월 플랜으로 테스트했더니 할인이 적용됐습니다. 다른 플랜과 기간의 최종 가격은 장바구니에 표시됩니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 기존 계정이 있어도 대상이 되는 신규 구매에는 쓸 수 있습니다. 도메인 등록과 갱신은 제외됩니다."
-        ]
-      },
-      {
-        "heading": "작성자 소개",
-        "paragraphs": [
-          "Em Casa com Cecília는 Hostinger의 관리형 호스팅에서 돌아가며, 도메인도 2024년부터 Hostinger에 등록되어 있습니다. 이 글은 세 곳의 가격 페이지 내용과 장바구니에서 한 SONAR20 테스트를 모은 것입니다. Hostinger가 어떻게 청구하고 갱신하며 환불하는지는 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에서 확인하세요."
         ]
       }
     ],
@@ -181177,13 +181006,13 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "Hostinger에 사이트가 있고 리스트가 1,000명 이하라면 Reach를 고르세요.",
-        "WhatsApp으로 메시지를 보내야 한다면 Reach Pro를 고르세요.",
-        "월간 고유 수신자 수와 캠페인·자동화 메일의 합계가 모두 플랜 한도 안에 들면 검토하세요."
+        "Hostinger에 사이트가 있고 리스트가 1,000명 이하인 분",
+        "WhatsApp으로 메시지를 보내야 하는 분(Reach Pro에서만 가능)",
+        "월간 고유 수신자 수와 캠페인·자동화 메일 총량이 플랜 한도 안에 드는 분"
       ],
       "skipIf": [
-        "리스트가 막 시작했고 Mailchimp나 Brevo의 무료 플랜 안에 들어간다면 넘기세요.",
-        "월간 고유 수신자 수나 메일 총량이 Reach 최상위 플랜(Pro)의 한도를 넘는다면 넘기세요."
+        "리스트를 막 시작해 Mailchimp나 Brevo의 무료 플랜으로 충분한 분",
+        "월간 고유 수신자 수나 메일 총량이 선택한 플랜의 한도를 넘는 분"
       ]
     }
   },
@@ -181223,7 +181052,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach 值得用吗？按情况选择的表格、套餐、发送上限、WhatsApp 与续费价，并与 Mailchimp、Brevo 的免费版对比，截至 2026 年 10 月 30 日。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-zh-hans-v2.webp",
@@ -181324,8 +181153,7 @@ export const reviewsData: unknown[] = [
           "**Starter：** 100 名收件人，每月 200 封邮件，没有 AI 额度。邮件带有 Reach 标志。",
           "**Grow：** 500 名收件人，每月 3,500 封邮件，每月 10 个 AI 额度。去掉 Reach 标志，包含个性化、定时发送和自动化。",
           "**Pro：** 1,000 名收件人，每月 7,000 封邮件，每月 20 个 AI 额度。增加 HTML、优化发送时间、WhatsApp 营销、自定义字段和团队成员。"
-        ],
-        "emphasis": "在套餐之间犹豫时，决定因素是名单的大小。页面上的套餐最多到 1,000 名收件人；超过的话，请在购物车里看看有没有更大的 Pro 档位，或者选择 Mailchimp 或 Brevo。"
+        ]
       },
       {
         "heading": "Mailchimp 与 Brevo：免费版",
@@ -181387,11 +181215,13 @@ export const reviewsData: unknown[] = [
           "**先用免费版：** 如果名单刚起步，而且你还不确定会多频繁地发邮件，就留在 Mailchimp 或 Brevo 的免费版。Reach 在国际站上也没有免费版。",
           "**选 Mailchimp 或 Brevo：** 如果名单超过 1,000 人，或者当月邮件总数（含自动化）超过 Pro 的 7,000 封。Reach 套餐在 1,000 名收件人处停止。",
           "如果是我自己的网站，我会选 Reach Grow：它为 500 人以内的名单提供自动化，续费后每月也只要 US$ 2.49。"
-        ]
+        ],
+        "emphasis": "按表中的数字，已有 Hostinger 网站且收件人在 1,000 以内的人，应选 Reach 的 Grow 或 Pro：Grow 覆盖 500 个收件人并带自动化，Pro 覆盖 1,000 个并支持 WhatsApp。超过 1,000 个联系人后，Reach 的套餐就到头了，应选 Mailchimp 或 Brevo。"
       },
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，符合条件的新购可享首个周期 20% 折扣：请在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”一行。续费按标价收取，没有折扣。",
           "Hostinger Reach 值得用吗？如果你已在 Hostinger 有网站，且收件人在 1,000 人以内，就值得。Grow 首 12 个月为 US$ 1.74/月，续费为 US$ 2.49/月。",
           "Hostinger Reach 多少钱？国际站以美元显示：Starter 每月 US$ 1.49，Grow 每月 US$ 1.74，Pro 每月 US$ 2.79，均为首 12 个月的价格。续费分别为 US$ 1.49、US$ 2.49 和 US$ 3.99。价格可能因国家和货币而异。",
           "Hostinger Reach 有免费版吗？没有，三个套餐都是付费的。Mailchimp 对少于 250 个联系人免费，Brevo 每天最多 300 封免费。",
@@ -181400,12 +181230,6 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach 还是 Mailchimp？如果收件人在 1,000 人以内，选 Reach。如果想免费开始，或名单超过 1,000 人，选 Mailchimp 或 Brevo。",
           "SONAR20 适用于 Hostinger Reach 吗？适用。Bruno 用 Reach 500 的 24 个月套餐测试过，折扣已生效。其他套餐和周期的最终价格以购物车显示为准。",
           "已有 Hostinger 账户的客户也能用 SONAR20 吗？符合条件的新购即使已有账户也可以适用。域名注册和续费不适用。"
-        ]
-      },
-      {
-        "heading": "谁在写这篇文章",
-        "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 的托管服务上，域名自 2024 年起也注册在 Hostinger。本文汇总了三家的价格页面，以及我们在购物车中测试 SONAR20 的结果。Hostinger 如何收费、续费和退款，请看 [Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)"
         ]
       }
     ],
@@ -181434,13 +181258,13 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "如果你已在 Hostinger 有网站，且名单在 1,000 人以内，就选 Reach。",
-        "如果需要用 WhatsApp 发消息，就选 Reach Pro。",
-        "当月不同收件人数与营销活动、自动邮件的总封数都在套餐额度内时，可以考虑该套餐。"
+        "已有 Hostinger 网站，名单在 1,000 个收件人以内时",
+        "需要用 WhatsApp 发消息时（只有 Reach Pro 支持）",
+        "每月的独立收件人数和活动、自动化邮件总量都在套餐上限内时"
       ],
       "skipIf": [
-        "如果名单刚起步，在 Mailchimp 或 Brevo 的免费版额度内，就先不选。",
-        "如果当月不同收件人数或邮件总封数超过 Reach 最高套餐（Pro）的额度，就不选。"
+        "名单刚起步，Mailchimp 或 Brevo 的免费版就够用时",
+        "每月的独立收件人或邮件总量超过所选套餐上限时"
       ]
     }
   },
@@ -181480,7 +181304,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach 值得用嗎？依情況選擇的表格、方案、寄送上限、WhatsApp 與續訂價，並與 Mailchimp、Brevo 的免費版比較，截至 2026 年 10 月 30 日。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-zh-hant-v2.webp",
@@ -181581,8 +181405,7 @@ export const reviewsData: unknown[] = [
           "**Starter：** 100 位收件人，每月 200 封郵件，沒有 AI 額度。郵件帶有 Reach 標誌。",
           "**Grow：** 500 位收件人，每月 3,500 封郵件，每月 10 個 AI 額度。去掉 Reach 標誌，含個人化、排程寄送和自動化。",
           "**Pro：** 1,000 位收件人，每月 7,000 封郵件，每月 20 個 AI 額度。增加 HTML、最佳寄送時間、WhatsApp 行銷、自訂欄位和團隊成員。"
-        ],
-        "emphasis": "在方案之間猶豫時，決定因素是名單的大小。頁面上的方案最多到 1,000 位收件人；超過的話，請在購物車裡看看有沒有更大的 Pro 級距，或者選擇 Mailchimp 或 Brevo。"
+        ]
       },
       {
         "heading": "Mailchimp 與 Brevo：免費版",
@@ -181644,11 +181467,13 @@ export const reviewsData: unknown[] = [
           "**先用免費版：** 如果名單剛起步，而且你還不確定會多頻繁地寄信，就留在 Mailchimp 或 Brevo 的免費版。Reach 在國際站上也沒有免費版。",
           "**選 Mailchimp 或 Brevo：** 如果名單超過 1,000 人，或者當月郵件總數（含自動化）超過 Pro 的 7,000 封。Reach 方案在 1,000 位收件人處停止。",
           "如果是我自己的網站，我會選 Reach Grow：它為 500 人以內的名單提供自動化，續訂後每月也只要 US$ 2.49。"
-        ]
+        ],
+        "emphasis": "依表中的數字，已有 Hostinger 網站且收件人在 1,000 以內的人，應選 Reach 的 Grow 或 Pro：Grow 涵蓋 500 位收件人並附自動化，Pro 涵蓋 1,000 位並支援 WhatsApp。超過 1,000 位聯絡人後，Reach 的方案就到頂了，應選 Mailchimp 或 Brevo。"
       },
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合條件的新購可享首個週期 20% 折扣：請在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」一行。續約按定價收費，沒有折扣。",
           "Hostinger Reach 值得用嗎？如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，就值得。Grow 前 12 個月為 US$ 1.74/月，續訂為 US$ 2.49/月。",
           "Hostinger Reach 多少錢？國際站以美元顯示：Starter 每月 US$ 1.49，Grow 每月 US$ 1.74，Pro 每月 US$ 2.79，均為前 12 個月的價格。續訂分別為 US$ 1.49、US$ 2.49 和 US$ 3.99。價格可能因國家和幣別而異。",
           "Hostinger Reach 有免費版嗎？沒有，三個方案都是付費的。Mailchimp 對少於 250 位聯絡人免費，Brevo 每天最多 300 封免費。",
@@ -181657,12 +181482,6 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach 還是 Mailchimp？如果收件人在 1,000 人以內，選 Reach。如果想免費開始，或名單超過 1,000 人，選 Mailchimp 或 Brevo。",
           "SONAR20 適用於 Hostinger Reach 嗎？適用。Bruno 用 Reach 500 的 24 個月方案測試過，折扣已生效。其他方案和期間的最終價格以購物車顯示為準。",
           "已有 Hostinger 帳號的客戶也能用 SONAR20 嗎？符合條件的新購即使已有帳號也可以適用。網域註冊和續訂不適用。"
-        ]
-      },
-      {
-        "heading": "誰在寫這篇文章",
-        "paragraphs": [
-          "Em Casa com Cecília 運行在 Hostinger 的託管主機上，網域自 2024 年起也註冊在 Hostinger。本文彙整了三家的價格頁面，以及我們在購物車中測試 SONAR20 的結果。Hostinger 如何收費、續訂和退款，請看 [Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)"
         ]
       }
     ],
@@ -181691,13 +181510,13 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "如果你已在 Hostinger 有網站，且名單在 1,000 人以內，就選 Reach。",
-        "如果需要用 WhatsApp 發訊息，就選 Reach Pro。",
-        "當月不同收件人數與行銷活動、自動郵件的總封數都在方案額度內時，可以考慮該方案。"
+        "已有 Hostinger 網站，名單在 1,000 位收件人以內時",
+        "需要用 WhatsApp 發訊息時（只有 Reach Pro 支援）",
+        "每月的獨立收件人數與活動、自動化郵件總量都在方案上限內時"
       ],
       "skipIf": [
-        "如果名單剛起步，在 Mailchimp 或 Brevo 的免費版額度內，就先不選。",
-        "如果當月不同收件人數或郵件總封數超過 Reach 最高方案（Pro）的額度，就不選。"
+        "名單剛起步，Mailchimp 或 Brevo 的免費版就夠用時",
+        "每月的獨立收件人或郵件總量超過所選方案上限時"
       ]
     }
   },
@@ -181737,7 +181556,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger ou HostGator, com o cupom SONAR20 de 20% OFF na Hostinger: renovação, ciclos, backup e VPS lado a lado.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -181903,8 +181722,7 @@ export const reviewsData: unknown[] = [
           "**Vários sites:** a HostGator é mais barata na promoção e bem mais barata depois (R$ 40,89 contra R$ 64,99 por mês). O Unlimited não tem limite de sites; o M diz mais de 60.",
           "**O plano mais alto:** o Cloud Startup é o plano de nuvem da Hostinger e custa cerca do dobro do Turbo nas duas fases. Só compensa se você precisa do que ele entrega a mais; para muitos sites comuns, o Turbo resolve por menos.",
           "**O Premium**, de 3 sites, não tem par na HostGator: fica entre o P e o M."
-        ],
-        "emphasis": "O total do primeiro ciclo engana: compare o preço por mês, com a renovação ao lado."
+        ]
       },
       {
         "heading": "O que o preço não mostra",
@@ -181974,7 +181792,8 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom SONAR20 na Hostinger",
         "paragraphs": [
           "Use **SONAR20** no carrinho para 20% no primeiro período de uma compra nova elegível, inclusive com conta existente. O código vale no Startup de e-commerce, no e-mail profissional e no Reach; para o plano de hospedagem ou VPS que escolher, confira a aplicação no carrinho. Registro de domínio e renovação ficam fora. Condições em [cupons da Hostinger](/cupons/hostinger).",
-          "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso."
+          "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso.",
+          "O SONAR20 entra nos ciclos de 12, 24 e 48 meses. No ciclo de 1 mês, depende do plano: no nosso teste de 23/11/2026, o cupom entrou no Cloud Startup e foi recusado no Single e no Premium. Confira a linha \"Cupom aplicado\" no carrinho antes de pagar."
         ]
       },
       {
@@ -181984,11 +181803,20 @@ export const reviewsData: unknown[] = [
           "**Escolha a HostGator** para vários sites, ou se espaço em disco e backup diário em todo plano pesam para você. No plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
           "**Nos dois casos**, olhe a coluna da renovação antes de pagar e confira o valor no carrinho. As duas estão em campanha e os preços podem mudar.",
           "Se fosse para o meu site, eu levaria a Hostinger para um site só, porque o Single custa menos na promoção e na renovação."
+        ],
+        "emphasis": "Pelos números das tabelas, para um site só a escolha é a Hostinger, porque o Single renova a R$ 23,99 por mês contra R$ 31,39 do preço regular da HostGator; para vários sites, a HostGator, porque o preço regular dela é R$ 40,89 por mês contra R$ 64,99 do Unlimited.",
+        "links": [
+          {
+            "label": "Ver cupom SONAR20 e planos da Hostinger",
+            "href": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "Qual é melhor, Hostinger ou HostGator? Depende dos requisitos do projeto e do custo completo. Para 1 site, a Hostinger custa menos na promoção e na renovação; para vários sites, a HostGator custa menos nas duas fases e dá mais espaço. A comparação com a Locaweb está em [Hostinger ou Locaweb](/reviews/hostinger-ou-locaweb).",
           "Qual renova mais barato, Hostinger ou HostGator? No plano de 1 site, a Hostinger: R$ 23,99/mês contra R$ 31,39/mês do preço regular da HostGator. No plano para vários sites, a HostGator: R$ 40,89/mês contra R$ 64,99/mês do Unlimited.",
           "Hostinger ou HostGator para VPS? Com o mesmo número de vCPU, a Hostinger traz o dobro de memória e a HostGator custa menos na promoção. A HostGator não mostra a renovação do VPS na página; pergunte antes de fechar.",
@@ -181997,22 +181825,16 @@ export const reviewsData: unknown[] = [
           "Dá para trocar de hospedagem sem perder o site? Dá, levando os arquivos e o banco de dados para a nova. A HostGator anuncia migração grátis; faça a troca antes de o plano antigo vencer.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova elegível, com a mesma conta. A renovação do serviço que você já tem sai pelo preço de tabela, sem desconto."
         ]
-      },
-      {
-        "heading": "Quem escreve",
-        "paragraphs": [
-          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, e o domínio está registrado na Hostinger desde 2024. Este texto reúne o que as páginas brasileiras das duas dizem."
-        ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve a Hostinger se é um site só, como blog, portfólio ou página de empresa, e o Single atende ao projeto: ele custa menos na promoção e na renovação.",
-        "Leve a Hostinger se quer um VPS com mais memória pelo mesmo número de vCPU."
+        "é um site só, como blog, portfólio ou página de empresa, e o Single atende ao projeto: ele custa menos na promoção e na renovação.",
+        "quer um VPS com mais memória pelo mesmo número de vCPU."
       ],
       "skipIf": [
-        "Passe para a HostGator se vai ter vários sites e o plano M atende ao projeto: no plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
-        "Passe para a HostGator se espaço em disco e backup diário em todo plano pesam para você."
+        "vai ter vários sites e o plano M da HostGator atende ao projeto: no plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
+        "espaço em disco e backup diário em todo plano pesam para você: a HostGator dá 100 GB e backup diário já no plano de entrada."
       ]
     },
     "pros": [],
@@ -182044,7 +181866,7 @@ export const reviewsData: unknown[] = [
     "locale": "en",
     "translationKey": "hostinger-ou-hostgator",
     "title": "How to choose a web host: is Hostinger worth it for your site?",
-    "seoTitle": "Choosing a web host: Hostinger prices and renewal, October 2026",
+    "seoTitle": "Choosing a web host: Hostinger price and renewal",
     "type": "Decision Guide",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -182074,7 +181896,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "How to choose a web host: renewal, the 48-month cycle, server location and VPS. Hostinger's international prices in US dollars on October 30, 2026, with the renewal next to each one.",
     "publishedAt": "October 30, 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -182162,8 +181984,7 @@ export const reviewsData: unknown[] = [
           "**Up to 3 sites:** Premium, US$2.49 a month for 48 months, renewing at US$10.99. It is the cheapest in the promotion and at renewal.",
           "**Many sites:** Unlimited, US$3.49 a month, renewing at US$16.99. It has no site limit on the page and 50 GB of NVMe, against 20 GB of SSD on Premium. The gap to Premium is US$1 a month in the promotion and US$6 at renewal.",
           "**The top plan:** Cloud Startup renews at US$25.99 a month and costs more than twice as much as Unlimited in the promotion. It only pays off if you need what it adds, such as 100 GB of NVMe; for many ordinary sites, Unlimited does the job for less."
-        ],
-        "emphasis": "The total of the first cycle is misleading: compare the monthly price, with the renewal next to it."
+        ]
       },
       {
         "heading": "What the price does not show",
@@ -182215,7 +182036,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 on Hostinger",
         "paragraphs": [
-          "Enter **SONAR20** in the cart for 20% off the first term of an eligible new purchase, including with an existing account. It works on e-commerce Startup, professional email and Reach. For the hosting or VPS plan you choose, check its application in the cart. Domain registration and renewal are excluded. See [Hostinger coupons](/en/coupons/hostinger)."
+          "Enter **SONAR20** in the cart for 20% off the first term of an eligible new purchase, including with an existing account. It works on e-commerce Startup, professional email and Reach. For the hosting or VPS plan you choose, check its application in the cart. Domain registration and renewal are excluded. See [Hostinger coupons](/en/coupons/hostinger).",
+          "SONAR20 applies to 12-, 24- and 48-month terms; on 1-month plans, acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying."
         ]
       },
       {
@@ -182225,11 +182047,20 @@ export const reviewsData: unknown[] = [
           "**Choose Unlimited** for many sites, with no site limit, daily backups and 50 GB of NVMe. Cloud Startup, which renews at more than US$25 a month, only pays off if you need the extra storage.",
           "**In both cases**, read the renewal column before you pay and confirm the amount in the cart. Hostinger is running a campaign, and prices can change.",
           "If it were for my site, I would take Premium for one site, because it costs less in the promotion and at renewal."
+        ],
+        "emphasis": "By the numbers in the tables, for up to three sites the choice is Hostinger Premium, because it renews at US$10.99 a month against US$16.99 for Unlimited; Unlimited only pays off for more than three sites.",
+        "links": [
+          {
+            "label": "See the SONAR20 coupon and Hostinger plans",
+            "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter it in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
           "Which web host is better? It depends on what the application needs, on storage and backup, and on whether the promotion or the renewal matters more to you. Site count alone does not decide it.",
           "Which Hostinger plan renews for the least? Premium, at US$10.99 a month on the international site, after a 48-month promotion at US$2.49.",
           "Is a Hostinger VPS worth it? It depends on the load the site puts on it. Compare vCPU, memory and renewal: KVM 1 renews at US$11.99 a month on the international site.",
@@ -182237,12 +182068,6 @@ export const reviewsData: unknown[] = [
           "Does SONAR20 work on a Hostinger VPS? Yes, on an eligible new VPS purchase: 20% off the first term. Check your plan's discount in the cart.",
           "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on an eligible new purchase with the same account. The renewal of a plan you already have is charged at the list price, with no discount."
-        ]
-      },
-      {
-        "heading": "Who writes this",
-        "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger's managed hosting, and the domain has been registered with Hostinger since 2024. This text gathers what Hostinger's international pages say."
         ]
       }
     ],
@@ -182270,12 +182095,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take Premium if it is one site, such as a blog, a portfolio or a company page, or up to three, and its storage and backup meet your needs: it costs less in the promotion and at renewal.",
-        "Take a VPS if the site needs guaranteed processor and memory: KVM 1 already has 4 GB."
+        "it is one site, such as a blog, a portfolio or a company page, or up to three, and Premium's storage and backup meet your needs: it costs less in the promotion and at renewal.",
+        "the site needs guaranteed processor and memory and you are choosing a VPS: KVM 1 already has 4 GB."
       ],
       "skipIf": [
-        "Skip Premium if you will have more than three sites: Unlimited has no site limit.",
-        "Skip Premium if storage and daily backups matter to you: it has 20 GB of SSD and weekly backups."
+        "you will have more than three sites: Unlimited has no site limit.",
+        "storage and daily backups matter to you: Premium has 20 GB of SSD and weekly backups."
       ]
     }
   },
@@ -182285,7 +182110,7 @@ export const reviewsData: unknown[] = [
     "locale": "es",
     "translationKey": "hostinger-ou-hostgator",
     "title": "Cómo elegir hosting para tu sitio: ¿compensa Hostinger?",
-    "seoTitle": "Cómo elegir hosting: precios y renovación de Hostinger en octubre 2026",
+    "seoTitle": "Cómo elegir hosting: precio y renovación de Hostinger",
     "type": "Guía de elección",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -182315,7 +182140,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hosting para tu sitio: renovación, ciclo de 48 meses, dónde está el servidor y VPS. Precios del sitio internacional de Hostinger en dólares el 30 de octubre de 2026, con la renovación al lado.",
     "publishedAt": "30 de octubre de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -182403,8 +182228,7 @@ export const reviewsData: unknown[] = [
           "**Hasta 3 sitios:** el Premium, a 2,49 US$ al mes durante 48 meses y 10,99 US$ al renovar. Es el más barato en la promoción y en la renovación.",
           "**Muchos sitios:** el Unlimited, a 3,49 US$ al mes y 16,99 US$ al renovar. No tiene límite de sitios en la página y trae 50 GB de NVMe, contra 20 GB de SSD del Premium. La diferencia con el Premium es de 1 US$ al mes en la promoción y de 6 US$ al renovar.",
           "**El plan más alto:** el Cloud Startup renueva a 25,99 US$ al mes y en la promoción cuesta más del doble que el Unlimited. Solo compensa si necesitas lo que ofrece de más, como los 100 GB de NVMe; para muchos sitios comunes, el Unlimited resuelve por menos."
-        ],
-        "emphasis": "El total del primer ciclo engaña: compara el precio por mes, con la renovación al lado."
+        ]
       },
       {
         "heading": "Lo que el precio no muestra",
@@ -182456,7 +182280,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 en Hostinger",
         "paragraphs": [
-          "Introduce **SONAR20** en el carrito para un 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Funciona en Startup de e-commerce, correo profesional y Reach. Para el plan de hosting o VPS que elijas, comprueba la aplicación en el carrito. Registro de dominio y renovación quedan fuera. Consulta [cupones de Hostinger](/es/coupons/hostinger)."
+          "Introduce **SONAR20** en el carrito para un 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Funciona en Startup de e-commerce, correo profesional y Reach. Para el plan de hosting o VPS que elijas, comprueba la aplicación en el carrito. Registro de dominio y renovación quedan fuera. Consulta [cupones de Hostinger](/es/coupons/hostinger).",
+          "SONAR20 se aplica a los ciclos de 12, 24 y 48 meses; en los planes de 1 mes la aceptación depende del plan, así que comprueba la línea \"Coupon applied\" en el carrito antes de pagar."
         ]
       },
       {
@@ -182466,11 +182291,20 @@ export const reviewsData: unknown[] = [
           "**Elige el Unlimited** para muchos sitios, sin límite de sitios, con backup diario y 50 GB de NVMe. El Cloud Startup, que renueva a más de 25 US$ al mes, solo compensa si necesitas el almacenamiento extra.",
           "**En los dos casos**, mira la columna de renovación antes de pagar y confirma el monto en el carrito. Hostinger está en campaña y los precios pueden cambiar.",
           "Si fuera para mi sitio, llevaría el Premium para un solo sitio, porque cuesta menos en la promoción y en la renovación."
+        ],
+        "emphasis": "Según las cifras de las tablas, para hasta tres sitios la opción es el Premium, porque renueva a 10,99 US$ al mes frente a 16,99 US$ del Unlimited; el Unlimited solo compensa con más de tres sitios.",
+        "links": [
+          {
+            "label": "Ver el cupón SONAR20 y los planes de Hostinger",
+            "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con un 20% de descuento en el primer período de una compra nueva elegible: escribe el código en el campo \"Have a coupon code?\" del carrito y comprueba la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
           "¿Qué hosting es mejor? Depende de los requisitos del proyecto y del costo total, y de si pesa más la promoción o la renovación. Compara la renovación, el ciclo, el país del servidor y el VPS, como arriba.",
           "¿Qué plan de Hostinger renueva más barato? El Premium, a 10,99 US$ al mes en el sitio internacional, después de una promoción de 48 meses a 2,49 US$.",
           "¿Vale la pena el VPS de Hostinger? Depende de la carga que tenga el sitio. Compara vCPU, memoria y renovación: el KVM 1 renueva a 11,99 US$ al mes en el sitio internacional.",
@@ -182478,12 +182312,6 @@ export const reviewsData: unknown[] = [
           "¿SONAR20 vale en el VPS de Hostinger? Sí, en una compra nueva elegible de VPS: 20% en el primer período. Revisa el descuento del plan elegido en el carrito.",
           "¿Se puede cambiar de hosting sin perder el sitio? Sí, pasando los archivos y la base de datos al nuevo hosting. Haz el cambio antes de que venza el plan anterior.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva elegible con la misma cuenta. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
-        ]
-      },
-      {
-        "heading": "Quién escribe",
-        "paragraphs": [
-          "Em Casa com Cecília funciona sobre el hosting gestionado de Hostinger, y el dominio está registrado en Hostinger desde 2024. Este texto reúne lo que dicen las páginas internacionales de Hostinger."
         ]
       }
     ],
@@ -182511,12 +182339,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Lleva el Premium si es un solo sitio, como un blog, un portafolio o la página de una empresa, o hasta tres, y el plan cubre el proyecto: cuesta menos en la promoción y en la renovación.",
-        "Lleva un VPS si el sitio necesita procesador y memoria garantizados: el KVM 1 ya trae 4 GB."
+        "es un solo sitio, como un blog, un portafolio o la página de una empresa, o hasta tres, y el plan cubre el proyecto: cuesta menos en la promoción y en la renovación.",
+        "el sitio necesita procesador y memoria garantizados y eliges un VPS: el KVM 1 ya trae 4 GB."
       ],
       "skipIf": [
-        "Pasa del Premium si vas a tener más de tres sitios: el Unlimited no tiene límite de sitios.",
-        "Pasa del Premium si pesan el espacio en disco y el backup diario: tiene 20 GB de SSD y backup semanal."
+        "vas a tener más de tres sitios: el Unlimited no tiene límite de sitios.",
+        "pesan el espacio en disco y el backup diario: el Premium tiene 20 GB de SSD y backup semanal."
       ]
     }
   },
@@ -182526,7 +182354,7 @@ export const reviewsData: unknown[] = [
     "locale": "fr",
     "translationKey": "hostinger-ou-hostgator",
     "title": "Choisir un hébergeur web : Hostinger vaut-il le coup pour votre site ?",
-    "seoTitle": "Choisir un hébergeur : prix et renouvellement Hostinger, octobre 2026",
+    "seoTitle": "Choisir un hébergeur : prix et renouvellement Hostinger",
     "type": "Guide de choix",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -182556,7 +182384,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Choisir un hébergeur web : renouvellement, cycle de 48 mois, emplacement du serveur et VPS. Prix du site international de Hostinger en dollars au 30 octobre 2026, avec le renouvellement à côté.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -182644,8 +182472,7 @@ export const reviewsData: unknown[] = [
           "**Jusqu'à 3 sites :** Premium, à 2,49 US$ par mois sur 48 mois, puis 10,99 US$ au renouvellement. C'est le moins cher en promotion comme au renouvellement.",
           "**Beaucoup de sites :** Unlimited, à 3,49 US$ par mois, puis 16,99 US$ au renouvellement. Il n'a pas de limite de sites sur la page et offre 50 Go de NVMe, contre 20 Go de SSD pour Premium. L'écart avec Premium est de 1 US$ par mois en promotion et de 6 US$ au renouvellement.",
           "**Le forfait le plus haut :** Cloud Startup se renouvelle à 25,99 US$ par mois et coûte plus du double d'Unlimited en promotion. Il ne se justifie que si vous avez besoin de ce qu'il apporte en plus, comme les 100 Go de NVMe ; pour beaucoup de sites courants, Unlimited suffit pour moins cher."
-        ],
-        "emphasis": "Le total de la première période est trompeur : comparez le prix par mois, avec le renouvellement à côté."
+        ]
       },
       {
         "heading": "Ce que le prix ne montre pas",
@@ -182697,7 +182524,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le code SONAR20 chez Hostinger",
         "paragraphs": [
-          "Saisissez **SONAR20** dans le panier : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. Il s'applique à Startup e-commerce, à l'e-mail professionnel et à Reach. Pour le forfait d'hébergement ou VPS choisi, vérifiez la remise au panier. Enregistrement de domaine et renouvellement sont exclus. Voir [les codes promo Hostinger](/fr/coupons/hostinger)."
+          "Saisissez **SONAR20** dans le panier : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. Il s'applique à Startup e-commerce, à l'e-mail professionnel et à Reach. Pour le forfait d'hébergement ou VPS choisi, vérifiez la remise au panier. Enregistrement de domaine et renouvellement sont exclus. Voir [les codes promo Hostinger](/fr/coupons/hostinger).",
+          "SONAR20 s'applique aux durées de 12, 24 et 48 mois ; sur les forfaits d'un mois, l'acceptation dépend du forfait : vérifiez donc la ligne « Coupon applied » dans le panier avant de payer."
         ]
       },
       {
@@ -182707,11 +182535,20 @@ export const reviewsData: unknown[] = [
           "**Choisissez Unlimited** pour beaucoup de sites, sans limite de sites, avec des sauvegardes quotidiennes et 50 Go de NVMe. Cloud Startup, qui se renouvelle à plus de 25 US$ par mois, ne se justifie que si vous avez besoin du stockage en plus.",
           "**Dans les deux cas**, regardez la colonne du renouvellement avant de payer et confirmez le montant dans le panier. Hostinger est en campagne et les prix peuvent changer.",
           "Si c'était pour mon site, je prendrais Premium pour un seul site, parce qu'il coûte moins en promotion et au renouvellement."
+        ],
+        "emphasis": "Selon les chiffres des tableaux, pour trois sites au plus, le choix est Premium, car il se renouvelle à 10,99 US$ par mois contre 16,99 US$ pour Unlimited ; Unlimited ne se justifie qu'au-delà de trois sites.",
+        "links": [
+          {
+            "label": "Voir le code promo SONAR20 et les offres Hostinger",
+            "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20 % de réduction sur la première période d'un nouvel achat éligible : saisissez-le dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au tarif catalogue, sans réduction.",
           "Quel hébergeur est le meilleur ? Cela dépend des besoins du projet et du coût complet, et de ce qui compte le plus pour vous, la promotion ou le renouvellement. Comparez le renouvellement, le cycle, le pays du serveur et le VPS, comme plus haut.",
           "Quel forfait Hostinger se renouvelle le moins cher ? Premium, à 10,99 US$ par mois sur le site international, après une promotion sur 48 mois à 2,49 US$.",
           "Le VPS Hostinger vaut-il le coup ? Cela dépend de la charge du site. Comparez vCPU, mémoire et renouvellement : le KVM 1 se renouvelle à 11,99 US$ par mois sur le site international.",
@@ -182719,12 +182556,6 @@ export const reviewsData: unknown[] = [
           "SONAR20 fonctionne-t-il sur un VPS Hostinger ? Oui, sur un nouvel achat de VPS éligible : 20 % sur la première période. Vérifiez la remise du forfait choisi dans le panier.",
           "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat éligible avec le même compte. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
-        ]
-      },
-      {
-        "heading": "Qui écrit",
-        "paragraphs": [
-          "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, et le domaine est enregistré chez Hostinger depuis 2024. Ce texte reprend ce que disent les pages internationales de Hostinger."
         ]
       }
     ],
@@ -182752,12 +182583,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez Premium s'il s'agit d'un seul site, comme un blog, un portfolio ou la page d'une entreprise, ou de trois sites au plus, si le forfait couvre le projet : il coûte moins en promotion et au renouvellement.",
-        "Prenez un VPS si le site a besoin d'un processeur et d'une mémoire garantis : le KVM 1 offre déjà 4 Go."
+        "il s'agit d'un seul site, comme un blog, un portfolio ou la page d'une entreprise, ou de trois sites au plus, et que le forfait couvre le projet : il coûte moins en promotion et au renouvellement.",
+        "le site a besoin d'un processeur et d'une mémoire garantis et que vous choisissez un VPS : le KVM 1 offre déjà 4 Go."
       ],
       "skipIf": [
-        "Laissez de côté Premium si vous aurez plus de trois sites : Unlimited n'a pas de limite de sites.",
-        "Laissez de côté Premium si l'espace disque et la sauvegarde quotidienne comptent pour vous : il a 20 Go de SSD et une sauvegarde hebdomadaire."
+        "vous aurez plus de trois sites : Unlimited n'a pas de limite de sites.",
+        "l'espace disque et la sauvegarde quotidienne comptent pour vous : Premium a 20 Go de SSD et une sauvegarde hebdomadaire."
       ]
     }
   },
@@ -182798,7 +182629,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Come scegliere l'hosting per un sito: piani, rinnovo e durata dello sconto. Prezzi Hostinger in dollari al 30/10/2026, per mese, con spazio, backup, server nel paese e VPS.",
     "publishedAt": "30 ottobre 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -182885,8 +182716,7 @@ export const reviewsData: unknown[] = [
           "**Fino a 3 siti:** il Premium, a 2,49 US$ al mese per 48 mesi e 10,99 US$ al rinnovo. È il più economico in promozione e al rinnovo.",
           "**Molti siti:** l'Unlimited, a 3,49 US$ al mese e 16,99 US$ al rinnovo. Non ha limite di siti sulla pagina e ha 50 GB NVMe, contro i 20 GB SSD del Premium. La differenza con il Premium è di 1 US$ al mese in promozione e di 6 US$ al rinnovo.",
           "**Il piano più alto:** il Cloud Startup si rinnova a 25,99 US$ al mese e in promozione costa più del doppio dell'Unlimited. Ha senso solo se ti serve quello che offre in più, come i 100 GB NVMe; per molti siti comuni l'Unlimited basta e costa meno."
-        ],
-        "emphasis": "Il totale del primo ciclo inganna: confronta il prezzo al mese, con il rinnovo accanto."
+        ]
       },
       {
         "heading": "Quello che il prezzo non mostra",
@@ -182938,7 +182768,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20 con la Hostinger",
         "paragraphs": [
-          "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Vale su Startup e-commerce, e-mail professionale e Reach. Per il piano hosting o VPS scelto, verifica l'applicazione nel carrello. Registrazione di dominio e rinnovo sono esclusi. Consulta i [coupon Hostinger](/it/coupons/hostinger)."
+          "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Vale su Startup e-commerce, e-mail professionale e Reach. Per il piano hosting o VPS scelto, verifica l'applicazione nel carrello. Registrazione di dominio e rinnovo sono esclusi. Consulta i [coupon Hostinger](/it/coupons/hostinger).",
+          "SONAR20 vale sui cicli di 12, 24 e 48 mesi; sui piani di 1 mese l'accettazione dipende dal piano, quindi controlla la riga \"Coupon applied\" nel carrello prima di pagare."
         ]
       },
       {
@@ -182948,11 +182779,20 @@ export const reviewsData: unknown[] = [
           "**Scegli l'Unlimited** per molti siti, senza limite di siti, con backup giornaliero e 50 GB NVMe. Il Cloud Startup, che si rinnova a più di 25 US$ al mese, ha senso solo se ti serve lo spazio in più.",
           "**In entrambi i casi**, guarda la colonna del rinnovo prima di pagare e controlla il valore nel carrello. La Hostinger è in campagna e i prezzi possono cambiare.",
           "Se fosse per il mio sito, prenderei il Premium per un sito solo, perché costa meno in promozione e al rinnovo."
+        ],
+        "emphasis": "Dai numeri delle tabelle, per fino a tre siti la scelta è il Premium, perché si rinnova a 10,99 US$ al mese contro i 16,99 US$ dell'Unlimited; l'Unlimited ha senso solo con più di tre siti.",
+        "links": [
+          {
+            "label": "Vedi il coupon SONAR20 e i piani Hostinger",
+            "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il codice sconto Hostinger? Il codice sconto Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inseriscilo nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo viene addebitato a prezzo di listino, senza sconto.",
           "Quale hosting è meglio? Dipende dai requisiti del progetto e dal costo completo, e da cosa pesa di più per te, la promozione o il rinnovo. Confronta il rinnovo, la durata, il paese del server e il VPS, come sopra.",
           "Quale piano Hostinger si rinnova al prezzo più basso? Il Premium, a 10,99 US$ al mese sul sito internazionale, dopo una promozione di 48 mesi a 2,49 US$.",
           "Conviene il VPS della Hostinger? Dipende dal carico del sito. Confronta vCPU, memoria e rinnovo: il KVM 1 si rinnova a 11,99 US$ al mese sul sito internazionale.",
@@ -182960,12 +182800,6 @@ export const reviewsData: unknown[] = [
           "SONAR20 vale sul VPS Hostinger? Sì, su un nuovo acquisto di VPS idoneo: 20% sul primo periodo. Controlla lo sconto del piano scelto nel carrello.",
           "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo hosting. Fai il passaggio prima che scada il piano vecchio.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi idonei con lo stesso account. Il rinnovo del piano che hai già si paga al prezzo di listino, senza sconto."
-        ]
-      },
-      {
-        "heading": "Chi scrive",
-        "paragraphs": [
-          "Il sito Em Casa com Cecília gira sull'hosting gestito della Hostinger, e il dominio è registrato presso la Hostinger dal 2024. Il testo riunisce quello che dicono le pagine internazionali della Hostinger."
         ]
       }
     ],
@@ -182993,12 +182827,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prendi il Premium se è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre, e il piano copre il progetto: costa meno in promozione e al rinnovo.",
-        "Prendi un VPS se il sito ha bisogno di processore e memoria garantiti: il KVM 1 ha già 4 GB."
+        "è un sito solo, come un blog, un portfolio o la pagina di un'azienda, o fino a tre, e il piano copre il progetto: costa meno in promozione e al rinnovo.",
+        "il sito ha bisogno di processore e memoria garantiti e scegli un VPS: il KVM 1 ha già 4 GB."
       ],
       "skipIf": [
-        "Lascia stare il Premium se avrai più di tre siti: l'Unlimited non ha limite di siti.",
-        "Lascia stare il Premium se contano lo spazio su disco e il backup giornaliero: ha 20 GB SSD e backup settimanale."
+        "avrai più di tre siti: l'Unlimited non ha limite di siti.",
+        "contano lo spazio su disco e il backup giornaliero: il Premium ha 20 GB SSD e backup settimanale."
       ]
     }
   },
@@ -183009,7 +182843,7 @@ export const reviewsData: unknown[] = [
     "translationKey": "hostinger-ou-hostgator",
     "hideFromPortugueseListings": true,
     "title": "Webhosting für eine Website: Was lohnt sich, wenn man auf die Verlängerung schaut?",
-    "seoTitle": "Webhosting für eine Website: Was lohnt sich? Preis und Verlängerung",
+    "seoTitle": "Webhoster wählen: Hostinger-Preis und Verlängerung",
     "type": "Entscheidungshilfe",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -183039,7 +182873,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Webhosting für eine Website wählen: Hostinger-Preise in US-Dollar vom 30. Oktober 2026, pro Monat und mit Verlängerung, dazu Speicher, Backup, Server im Land und VPS.",
     "publishedAt": "30. Oktober 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -183126,8 +182960,7 @@ export const reviewsData: unknown[] = [
           "**Bis zu 3 Websites:** der Premium, 2,49 US$ pro Monat für 48 Monate und 10,99 US$ bei der Verlängerung. Er ist in der Aktion und bei der Verlängerung der günstigste.",
           "**Viele Websites:** der Unlimited, 3,49 US$ pro Monat und 16,99 US$ bei der Verlängerung. Auf der Seite hat er keine Begrenzung der Websites und bietet 50 GB NVMe, gegenüber 20 GB SSD beim Premium. Der Abstand zum Premium beträgt 1 US$ pro Monat in der Aktion und 6 US$ bei der Verlängerung.",
           "**Der höchste Tarif:** Der Cloud Startup verlängert sich zu 25,99 US$ pro Monat und kostet in der Aktion mehr als das Doppelte des Unlimited. Er lohnt sich nur, wenn Sie das brauchen, was er zusätzlich bietet, etwa die 100 GB NVMe; für viele übliche Websites reicht der Unlimited für weniger Geld."
-        ],
-        "emphasis": "Die Summe des ersten Zyklus täuscht: Vergleichen Sie den Preis pro Monat, mit der Verlängerung daneben."
+        ]
       },
       {
         "heading": "Was der Preis nicht zeigt",
@@ -183179,7 +183012,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20 bei Hostinger",
         "paragraphs": [
-          "Geben Sie **SONAR20** im Warenkorb ein: 20 % auf die erste Laufzeit eines berechtigten Neukaufs, auch mit bestehendem Konto. Er gilt bei E-Commerce Startup, geschäftlicher E-Mail und Reach. Prüfen Sie für den gewählten Hosting- oder VPS-Tarif die Anwendung im Warenkorb. Domainregistrierungen und Verlängerungen sind ausgeschlossen. Siehe [Hostinger-Gutscheine](/de/coupons/hostinger)."
+          "Geben Sie **SONAR20** im Warenkorb ein: 20 % auf die erste Laufzeit eines berechtigten Neukaufs, auch mit bestehendem Konto. Er gilt bei E-Commerce Startup, geschäftlicher E-Mail und Reach. Prüfen Sie für den gewählten Hosting- oder VPS-Tarif die Anwendung im Warenkorb. Domainregistrierungen und Verlängerungen sind ausgeschlossen. Siehe [Hostinger-Gutscheine](/de/coupons/hostinger).",
+          "SONAR20 gilt für Laufzeiten von 12, 24 und 48 Monaten; bei Tarifen über 1 Monat hängt die Annahme vom Tarif ab, prüfen Sie deshalb vor der Zahlung die Zeile „Coupon applied“ im Warenkorb."
         ]
       },
       {
@@ -183189,11 +183023,20 @@ export const reviewsData: unknown[] = [
           "**Wählen Sie den Unlimited** für viele Websites, ohne Begrenzung der Websites, mit täglichem Backup und 50 GB NVMe. Der Cloud Startup, der sich zu mehr als 25 US$ pro Monat verlängert, lohnt sich nur, wenn Sie den zusätzlichen Speicher brauchen.",
           "**In beiden Fällen** sehen Sie vor dem Bezahlen auf die Spalte der Verlängerung und prüfen den Betrag im Warenkorb. Die Hostinger hat eine Kampagne laufen, und die Preise können sich ändern.",
           "Wenn es um meine Website ginge, würde ich den Premium für eine einzelne Website nehmen, weil er in der Aktion und bei der Verlängerung weniger kostet."
+        ],
+        "emphasis": "Nach den Zahlen der Tabellen ist für bis zu drei Websites der Premium die richtige Wahl, weil er sich zu 10,99 US$ pro Monat verlängert, der Unlimited dagegen zu 16,99 US$; der Unlimited lohnt sich erst bei mehr als drei Websites.",
+        "links": [
+          {
+            "label": "SONAR20-Gutschein und Hostinger-Tarife ansehen",
+            "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20 % Rabatt auf die erste Laufzeit eines berechtigten Neukaufs: Geben Sie ihn im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Welcher Hoster ist besser? Das hängt von den Anforderungen des Projekts und den Gesamtkosten ab und davon, ob Ihnen die Aktion oder die Verlängerung wichtiger ist. Vergleichen Sie Verlängerung, Laufzeit, Land des Servers und VPS, wie oben.",
           "Welcher Hostinger-Tarif verlängert sich am günstigsten? Der Premium, zu 10,99 US$ pro Monat auf der internationalen Seite, nach einer Aktion über 48 Monate zu 2,49 US$.",
           "Lohnt sich der VPS der Hostinger? Das hängt von der Last der Website ab. Vergleichen Sie vCPU, Arbeitsspeicher und Verlängerung: Der KVM 1 verlängert sich zu 11,99 US$ pro Monat auf der internationalen Seite.",
@@ -183201,12 +183044,6 @@ export const reviewsData: unknown[] = [
           "Gilt SONAR20 beim Hostinger-VPS? Ja, bei einem berechtigten VPS-Neukauf: 20 % auf die erste Laufzeit. Prüfen Sie den Rabatt des gewählten Tarifs im Warenkorb.",
           "Kann man den Hoster wechseln, ohne die Website zu verlieren? Ja, wenn man Dateien und Datenbank zum neuen Hoster überträgt. Machen Sie den Wechsel, bevor der alte Tarif ausläuft.",
           "Gilt SONAR20 auch für Hostinger-Bestandskunden? Ja, bei einem berechtigten Neukauf mit demselben Konto. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
-        ]
-      },
-      {
-        "heading": "Wer schreibt",
-        "paragraphs": [
-          "Em Casa com Cecília läuft auf dem verwalteten Hosting der Hostinger, und die Domain ist seit 2024 bei der Hostinger registriert. Der Text bündelt, was die internationalen Seiten der Hostinger sagen."
         ]
       }
     ],
@@ -183234,12 +183071,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Nehmen Sie den Premium, wenn es um eine einzelne Website geht, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder um bis zu drei, und der Tarif zum Projekt passt: Er kostet in der Aktion und bei der Verlängerung weniger.",
-        "Nehmen Sie einen VPS, wenn Ihre Website garantierte Prozessorleistung und Arbeitsspeicher braucht: Der KVM 1 hat schon 4 GB."
+        "es um eine einzelne Website geht, etwa einen Blog, ein Portfolio oder eine Firmenseite, oder um bis zu drei, und der Tarif zum Projekt passt: Er kostet in der Aktion und bei der Verlängerung weniger.",
+        "Ihre Website garantierte Prozessorleistung und Arbeitsspeicher braucht und ein VPS infrage kommt: Der KVM 1 hat schon 4 GB."
       ],
       "skipIf": [
-        "Verzichten Sie auf den Premium, wenn Sie mehr als drei Websites haben werden: Der Unlimited hat keine Begrenzung der Websites.",
-        "Verzichten Sie auf den Premium, wenn Speicherplatz und tägliches Backup wichtig sind: Er hat 20 GB SSD und ein wöchentliches Backup."
+        "Sie mehr als drei Websites haben werden: Der Unlimited hat keine Begrenzung der Websites.",
+        "Speicherplatz und tägliches Backup wichtig sind: Der Premium hat 20 GB SSD und ein wöchentliches Backup."
       ]
     }
   },
@@ -183280,7 +183117,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostingerの料金を2026年10月30日時点で整理。割引価格と更新料を月額で並べ、バックアップ、サーバーの場所、VPSまで、レンタルサーバー選びの基準を紹介します。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -183367,8 +183204,7 @@ export const reviewsData: unknown[] = [
           "**3サイトまで:** Premium。割引価格は月額US$2.49、更新後は月額US$10.99で、比較したプランの中でどちらもいちばん低くなっています。",
           "**サイト数が無制限:** Unlimited。50 GB NVMeと毎日のバックアップがあり、更新後は月額US$16.99です。サイトが多いなら、1サイトあたりの月額を計算してみてください。",
           "**一番上のプラン:** Cloud Startup。100 GB NVMeで、更新後は月額US$25.99です。追加の性能が本当に必要なときだけ意味があります。ふつうの複数サイトなら、Unlimitedで足ります。"
-        ],
-        "emphasis": "最初の期間の総額は誤解のもとです。月額で比べ、更新料を横に並べて見てください。"
+        ]
       },
       {
         "heading": "料金からは分からないこと",
@@ -183420,7 +183256,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "HostingerのクーポンSONAR20",
         "paragraphs": [
-          "カートで**SONAR20**を入力すると、対象の新規購入の初回契約期間が20%割引になります。既存アカウントでも対象になります。StartupのEコマース、プロ仕様メール、Reachでも使えます。選んだホスティングやVPSプランへの適用はカートで確認してください。ドメイン登録と更新は対象外です。[Hostingerのクーポン](/ja/coupons/hostinger)をご覧ください。"
+          "カートで**SONAR20**を入力すると、対象の新規購入の初回契約期間が20%割引になります。既存アカウントでも対象になります。StartupのEコマース、プロ仕様メール、Reachでも使えます。選んだホスティングやVPSプランへの適用はカートで確認してください。ドメイン登録と更新は対象外です。[Hostingerのクーポン](/ja/coupons/hostinger)をご覧ください。",
+          "SONAR20は12・24・48か月のプランに適用されます。1か月プランは、プランによって適用されるかどうかが変わるため、支払う前にカートの「Coupon applied」の行を確認してください。"
         ]
       },
       {
@@ -183430,11 +183267,20 @@ export const reviewsData: unknown[] = [
           "**サイトが4つ以上**ある場合や、容量と毎日のバックアップが大事な場合は、**Unlimited**です。更新後は月額US$16.99です。Cloud Startupは、追加の性能が必要な人向けです。",
           "**どの場合も**、支払う前に更新料の欄を見て、カートで金額を確認してください。キャンペーン中なので、料金は変わることがあります。",
           "自分のサイトなら、サイトが1つのときはPremiumを選びます。割引価格も更新料も、比較したプランの中でいちばん低いからです。"
+        ],
+        "emphasis": "表の数字で見ると、サイトが3つまでならPremiumが合います。更新後は月額US$10.99で、Unlimitedの月額US$16.99より低いからです。Unlimitedが割に合うのは、サイトが4つ以上のときだけです。",
+        "links": [
+          {
+            "label": "SONAR20クーポンとHostingerのプランを見る",
+            "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostingerのクーポンコードは何ですか？ HostingerのクーポンコードはSONAR20で、対象となる新規購入の最初の期間が20%割引になります。カートの「Have a coupon code?」欄に入力し、支払う前に「Coupon applied」の行を確認してください。更新は定価で請求され、割引はありません。",
           "1つのサイトなら、どのプランがいちばん安い？ アプリ、容量、バックアップの条件に合えば、3サイトまで使えるPremiumです。割引価格は月額US$2.49、更新後は月額US$10.99で、期間は48か月です。",
           "Hostingerの更新料はいくらですか？ 国際サイトでは、Premiumは月額US$10.99、Unlimitedは月額US$16.99、Cloud Startupは月額US$25.99です。国や通貨で変わることがあるので、支払う前にカートで確認してください。",
           "VPSはどのプランから見ればいいですか？ 入門のKVM 1（1 vCPU、4 GB、50 GB NVMe）は、24か月契約で割引価格が月額US$6.49、更新後は月額US$11.99です。KVM 2は2 vCPU、8 GBで、割引価格は月額US$8.79です。長い期間で契約する前に、カートで更新料を確認してください。",
@@ -183442,12 +183288,6 @@ export const reviewsData: unknown[] = [
           "SONAR20はVPSでも使えますか？ はい、対象の新規VPS購入なら初回契約期間が20%割引になります。カートで割引を確認してください。",
           "サイトを消さずに別のサーバーへ移せますか？ はい。ファイルとデータベースを新しいサーバーに移せば可能です。新しいサービスが無料の移行に対応しているか確認し、古いプランの期限が切れる前に移してください。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、同じアカウントで対象の新規購入に使えます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
-        ]
-      },
-      {
-        "heading": "執筆者",
-        "paragraphs": [
-          "Em Casa com Cecíliaは、Hostingerのマネージドホスティングで運営していて、ドメインも2024年からHostingerに登録しています。この記事は、Hostingerの国際サイトのページの内容をまとめたものです。"
         ]
       }
     ],
@@ -183520,7 +183360,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "2026년 10월 30일 기준 호스팅어 가격을 정리했습니다. 프로모션가와 갱신가를 월 단위로 나란히 놓고, 백업, 서버 위치, VPS까지 호스팅 고르는 기준을 소개합니다.",
     "publishedAt": "2026년 10월 30일",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -183607,8 +183447,7 @@ export const reviewsData: unknown[] = [
           "**사이트 3개까지:** Premium. 프로모션가는 월 US$ 2.49, 갱신가는 월 US$ 10.99로, 비교한 플랜 중 둘 다 가장 낮습니다.",
           "**사이트 무제한:** Unlimited. 50 GB NVMe에 일일 백업이 있고 갱신가는 월 US$ 16.99입니다. 사이트가 많다면 사이트당 월 비용을 계산해 보세요.",
           "**가장 높은 플랜:** Cloud Startup. 100 GB NVMe에 갱신가는 월 US$ 25.99입니다. 추가 성능이 실제로 필요할 때만 의미가 있고, 보통의 여러 사이트라면 Unlimited로 충분합니다."
-        ],
-        "emphasis": "첫 기간의 총액은 오해하기 쉽습니다. 월 단위 가격에 갱신가를 나란히 놓고 비교하세요."
+        ]
       },
       {
         "heading": "가격에 안 보이는 것",
@@ -183660,7 +183499,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 쿠폰",
         "paragraphs": [
-          "카트에서 **SONAR20**을 입력하면 대상 신규 구매의 첫 계약 기간에 20% 할인이 적용됩니다. 기존 계정이 있어도 적용됩니다. Startup 이커머스, 전문 이메일, Reach에서도 쓸 수 있습니다. 선택한 호스팅이나 VPS 플랜의 적용 여부는 카트에서 확인하세요. 도메인 등록과 갱신은 제외됩니다. [호스팅어 쿠폰](/ko/coupons/hostinger)을 확인하세요."
+          "카트에서 **SONAR20**을 입력하면 대상 신규 구매의 첫 계약 기간에 20% 할인이 적용됩니다. 기존 계정이 있어도 적용됩니다. Startup 이커머스, 전문 이메일, Reach에서도 쓸 수 있습니다. 선택한 호스팅이나 VPS 플랜의 적용 여부는 카트에서 확인하세요. 도메인 등록과 갱신은 제외됩니다. [호스팅어 쿠폰](/ko/coupons/hostinger)을 확인하세요.",
+          "SONAR20은 12·24·48개월 주기에 적용됩니다. 1개월 플랜은 플랜에 따라 적용 여부가 달라지므로, 결제하기 전에 장바구니의 \"Coupon applied\" 줄을 확인하세요."
         ]
       },
       {
@@ -183670,11 +183510,20 @@ export const reviewsData: unknown[] = [
           "**사이트가 4개 이상**이거나 공간과 일일 백업이 중요하다면 **Unlimited**입니다. 갱신가는 월 US$ 16.99입니다. Cloud Startup은 추가 성능이 필요한 사람을 위한 플랜입니다.",
           "**어느 경우든** 결제 전에 갱신가 칸을 보고 카트에서 금액을 확인하세요. 캠페인 중이라 가격은 바뀔 수 있습니다.",
           "제 사이트라면 사이트가 하나일 때 Premium을 고릅니다. 비교한 플랜 중 프로모션가와 갱신가가 가장 낮기 때문입니다."
+        ],
+        "emphasis": "표의 숫자로 보면 사이트가 3개까지일 때는 Premium이 맞습니다. 갱신가가 월 US$ 10.99로, Unlimited의 월 US$ 16.99보다 낮기 때문입니다. Unlimited는 사이트가 4개 이상일 때만 값을 합니다.",
+        "links": [
+          {
+            "label": "SONAR20 쿠폰과 호스팅어 플랜 보기",
+            "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "호스팅어 쿠폰 코드는 무엇인가요? 호스팅어 쿠폰 코드는 SONAR20이며, 대상이 되는 신규 구매의 첫 기간에 20% 할인이 적용됩니다. 장바구니의 \"Have a coupon code?\" 입력란에 코드를 넣고, 결제하기 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 정가로 청구되며 할인이 없습니다.",
           "사이트 하나라면 어떤 플랜이 가장 저렴한가요? 애플리케이션, 공간, 백업 요구에 맞다면 사이트 3개까지 쓸 수 있는 Premium입니다. 프로모션가는 월 US$ 2.49, 갱신가는 월 US$ 10.99이고 프로모션은 48개월입니다.",
           "호스팅어 갱신가는 얼마인가요? 국제 사이트 기준으로 Premium은 월 US$ 10.99, Unlimited는 월 US$ 16.99, Cloud Startup은 월 US$ 25.99입니다. 국가와 통화에 따라 다를 수 있으니 결제 전에 카트에서 확인하세요.",
           "VPS는 어떤 플랜부터 보면 되나요? 입문 플랜인 KVM 1(1 vCPU, 4 GB, 50 GB NVMe)은 24개월 기준 프로모션가가 월 US$ 6.49, 갱신가가 월 US$ 11.99입니다. KVM 2는 2 vCPU, 8 GB이고 프로모션가는 월 US$ 8.79입니다. 긴 기간으로 결제하기 전에 카트에서 갱신가를 확인하세요.",
@@ -183682,12 +183531,6 @@ export const reviewsData: unknown[] = [
           "SONAR20은 VPS에도 적용되나요? 네, 대상 신규 VPS 구매의 첫 계약 기간에 20% 할인이 적용됩니다. 카트에서 플랜의 할인을 확인하세요.",
           "사이트를 잃지 않고 호스팅을 옮길 수 있나요? 가능합니다. 파일과 데이터베이스를 새 호스팅으로 옮기면 됩니다. 새 호스팅이 무료 이전을 제공하는지 확인하고, 기존 플랜이 끝나기 전에 옮기세요.",
           "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 같은 계정으로 대상 신규 구매를 하면 쓸 수 있습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
-        ]
-      },
-      {
-        "heading": "작성자 소개",
-        "paragraphs": [
-          "Em Casa com Cecília는 호스팅어의 관리형 호스팅에서 운영되고, 도메인도 2024년부터 호스팅어에 등록되어 있습니다. 이 글은 호스팅어 국제 사이트 페이지의 내용을 정리한 것입니다."
         ]
       }
     ],
@@ -183761,7 +183604,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "2026年10月30日的 Hostinger 价格整理：促销价与续费价按月并排，并说明备份、服务器所在地和 VPS，帮你选主机。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -183848,8 +183691,7 @@ export const reviewsData: unknown[] = [
           "**3 个网站以内：** Premium。促销价每月 US$ 2.49，续费价每月 US$ 10.99，两项都是查看的套餐里最低的。",
           "**网站数量无限：** Unlimited。50 GB NVMe，每天备份，续费价每月 US$ 16.99。网站多，就算一算每个网站每月的成本。",
           "**最高套餐：** Cloud Startup。100 GB NVMe，续费价每月 US$ 25.99。只有真正需要额外性能时才值得；一般的多个网站，Unlimited 就够了。"
-        ],
-        "emphasis": "首期的总价容易误导。请按月比较，并把续费价放在旁边。"
+        ]
       },
       {
         "heading": "价格之外要看的",
@@ -183901,7 +183743,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 优惠码",
         "paragraphs": [
-          "符合条件的新购首个周期享 20% 折扣。在购物车的优惠码栏输入 **SONAR20**，已有账户也可适用。Startup 电商、专业邮箱和 Reach 都适用；选定的主机或 VPS 套餐请在购物车确认适用情况。域名注册与续费除外。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。"
+          "符合条件的新购首个周期享 20% 折扣。在购物车的优惠码栏输入 **SONAR20**，已有账户也可适用。Startup 电商、专业邮箱和 Reach 都适用；选定的主机或 VPS 套餐请在购物车确认适用情况。域名注册与续费除外。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。",
+          "SONAR20 适用于 12、24 和 48 个月的周期；1 个月套餐是否接受要看具体套餐，所以付款前请先确认购物车里的“Coupon applied”一行。"
         ]
       },
       {
@@ -183911,11 +183754,20 @@ export const reviewsData: unknown[] = [
           "**网站超过 3 个**，或者存储和每日备份对你很重要，选 **Unlimited**。续费价每月 US$ 16.99。Cloud Startup 留给确实需要额外性能的人。",
           "**无论哪种**，付款前先看续费价那一栏，并在购物车确认金额。目前正在做促销，价格可能变化。",
           "如果是我自己的网站，只有一个网站时我会选 Premium，因为它的促销价和续费价都是查看的套餐里最低的。"
+        ],
+        "emphasis": "按表格里的数字，网站在 3 个以内选 Premium，因为它续费每月 US$ 10.99，而 Unlimited 是 US$ 16.99；只有网站超过 3 个时，Unlimited 才划算。",
+        "links": [
+          {
+            "label": "查看 SONAR20 优惠码和 Hostinger 套餐",
+            "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，对符合条件的新购买首期享 20% 折扣：在购物车的“Have a coupon code?”栏输入，付款前确认“Coupon applied”一行。续费按标价收费，没有折扣。",
           "网站只有一个，哪个套餐最便宜？应用、空间和备份需求符合的话，3 个网站以内用 Premium。促销价每月 US$ 2.49，续费价每月 US$ 10.99，促销期 48 个月。",
           "Hostinger 续费多少钱？国际站的价格是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各国和货币可能不同，付款前请在购物车确认。",
           "VPS 从哪个套餐看起？入门的 KVM 1（1 vCPU，4 GB，50 GB NVMe）按 24 个月计，促销价每月 US$ 6.49，续费价每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促销价每月 US$ 8.79。购买长周期之前，先在购物车确认续费价。",
@@ -183923,12 +183775,6 @@ export const reviewsData: unknown[] = [
           "SONAR20 能用在 VPS 上吗？能，符合条件的新购 VPS 首个周期享 20% 折扣，请在购物车确认。",
           "能换主机而不丢失网站吗？可以，把文件和数据库迁到新主机即可。确认新主机是否提供免费迁移，并在旧套餐到期前完成。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，同一账户符合条件的新购可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
-        ]
-      },
-      {
-        "heading": "写这篇文章的人",
-        "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 的托管服务上，域名自2024年起就在 Hostinger 注册。本文整理的是 Hostinger 国际站页面的内容。"
         ]
       }
     ],
@@ -184002,7 +183848,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "2026年10月30日的 Hostinger 價格整理：促銷價與續訂價按月並排，並說明備份、伺服器所在地和 VPS，幫你挑選主機。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -184089,8 +183935,7 @@ export const reviewsData: unknown[] = [
           "**3 個網站以內：** Premium。促銷價每月 US$ 2.49，續訂價每月 US$ 10.99，兩項都是查看的方案裡最低的。",
           "**網站數量無限：** Unlimited。50 GB NVMe，每天備份，續訂價每月 US$ 16.99。網站多，就算一算每個網站每月的成本。",
           "**最高方案：** Cloud Startup。100 GB NVMe，續訂價每月 US$ 25.99。只有真正需要額外效能時才值得；一般的多個網站，Unlimited 就夠了。"
-        ],
-        "emphasis": "首期的總價容易誤導。請按月比較，並把續訂價放在旁邊。"
+        ]
       },
       {
         "heading": "價格之外要看的",
@@ -184142,7 +183987,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 優惠碼",
         "paragraphs": [
-          "符合資格的新購買首期享 20% 折扣。在購物車的優惠碼欄位輸入 **SONAR20**，已有帳號也可適用。Startup 電商方案、專業電子郵件和 Reach 都適用；選定的主機或 VPS 方案請在購物車確認適用情形。網域註冊與續訂除外。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
+          "符合資格的新購買首期享 20% 折扣。在購物車的優惠碼欄位輸入 **SONAR20**，已有帳號也可適用。Startup 電商方案、專業電子郵件和 Reach 都適用；選定的主機或 VPS 方案請在購物車確認適用情形。網域註冊與續訂除外。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。",
+          "SONAR20 適用於 12、24 和 48 個月的週期；1 個月方案是否接受要看具體方案，所以付款前請先確認購物車裡的「Coupon applied」那一行。"
         ]
       },
       {
@@ -184152,11 +183998,20 @@ export const reviewsData: unknown[] = [
           "**網站超過 3 個**，或是儲存空間和每日備份對你很重要，選 **Unlimited**。續訂價每月 US$ 16.99。Cloud Startup 留給確實需要額外效能的人。",
           "**無論哪種**，付款前先看續訂價那一欄，並在購物車確認金額。目前正在進行促銷，價格可能變動。",
           "如果是我自己的網站，只有一個網站時我會選 Premium，因為它的促銷價和續訂價都是查看的方案裡最低的。"
+        ],
+        "emphasis": "依表格裡的數字，網站在 3 個以內選 Premium，因為它續訂每月 US$ 10.99，而 Unlimited 是 US$ 16.99；只有網站超過 3 個時，Unlimited 才划算。",
+        "links": [
+          {
+            "label": "查看 SONAR20 優惠碼和 Hostinger 方案",
+            "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合條件的新購買首期享 20% 折扣：在購物車的「Have a coupon code?」欄位輸入，付款前確認「Coupon applied」那一行。續訂按定價收費，沒有折扣。",
           "網站只有一個，哪個方案最便宜？應用程式、空間與備份需求符合的話，3 個網站以內用 Premium。促銷價每月 US$ 2.49，續訂價每月 US$ 10.99，促銷期 48 個月。",
           "Hostinger 續訂要多少錢？國際站的價格是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各國和貨幣可能不同，付款前請在購物車確認。",
           "VPS 從哪個方案看起？入門的 KVM 1（1 vCPU，4 GB，50 GB NVMe）以 24 個月計，促銷價每月 US$ 6.49，續訂價每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促銷價每月 US$ 8.79。購買長週期之前，先在購物車確認續訂價。",
@@ -184164,12 +184019,6 @@ export const reviewsData: unknown[] = [
           "SONAR20 能用在 VPS 上嗎？能，符合資格的新購 VPS 首期享 20% 折扣，請在購物車確認。",
           "能換主機而不遺失網站嗎？可以，把檔案和資料庫搬到新主機即可。請確認新主機是否提供免費搬遷，並在舊方案到期前完成。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，同一帳號符合資格的新購買可享 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
-        ]
-      },
-      {
-        "heading": "寫這篇文章的人",
-        "paragraphs": [
-          "Em Casa com Cecília 運行在 Hostinger 的代管服務上，網域自2024年起就在 Hostinger 註冊。本文整理的是 Hostinger 國際站頁面的內容。"
         ]
       }
     ],
@@ -184243,7 +184092,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress na Hostinger com o cupom SONAR20 de 20% OFF nos planos Single, Premium, Unlimited e Cloud Startup, e o checklist para começar.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa-v2.webp",
@@ -184330,8 +184179,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A página não traz data de fim para a campanha, e os preços podem mudar. Na Black Friday, os créditos de IA dos planos vêm em dobro: no Single, 500 em vez de 250; no Cloud Startup, 2.000 em vez de 1.000."
-        ],
-        "emphasis": "Compare total contratado, custo mensal equivalente e renovação. Nem o preço de entrada nem a renovação decidem sozinhos."
+        ]
       },
       {
         "heading": "O que já vem nos planos",
@@ -184362,9 +184210,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Crédito promocional do Google Ads: confira a elegibilidade",
+        "heading": "Crédito do Google Ads da Hostinger: confira a elegibilidade",
         "paragraphs": [
-          "Os termos da promoção dizem que quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito, no Brasil. A elegibilidade é definida pelo Google, e a promoção pode mudar. Confira termos, ativação e prazo na sua conta antes de contar com o crédito. Não escolha hospedagem nem comece a anunciar só por esse benefício."
+          "A Hostinger tem uma promoção segundo a qual quem cria ou conecta uma conta do Google Ads pela integração do painel dela e gasta R$ 1.200 em anúncios nos primeiros 60 dias recebe R$ 1.200 em crédito, no Brasil. Quem define a elegibilidade é o Google, e a Hostinger pode mudar a promoção, então não conte com o crédito: confira termos, ativação e prazo na sua conta. Não escolha hospedagem nem comece a anunciar só por esse benefício."
         ]
       },
       {
@@ -184386,35 +184234,30 @@ export const reviewsData: unknown[] = [
           "**Pegue o Premium** se vai ter dois ou três sites. A diferença para o Single é o número de sites e o espaço, não o backup.",
           "**Pegue o Unlimited** se tem loja ou muitos sites. O backup diário é o motivo principal, e ele começa aqui.",
           "**O Cloud Startup** só faz sentido se o Unlimited já não basta. É o mais caro, e a renovação de R$ 129,99/mês pesa."
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para um site só a escolha é o Single; para dois ou três, o Premium; para loja ou muitos sites, o Unlimited, porque o backup diário começa nele. Compare o total contratado e a renovação, porque nem o preço de entrada nem a renovação decidem sozinhos."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "Qual o plano de WordPress mais barato da Hostinger? O Single, a R$ 5,99/mês em 48 meses (R$ 287,52 no total), para 1 site. Ele renova a R$ 23,99/mês.",
           "O WordPress vem instalado na Hostinger? A página diz que todos os planos incluem WordPress e cita um instalador de 1 clique no painel. Ela não detalha a instalação por plano.",
           "A Hostinger usa LiteSpeed no WordPress? A página fala em servidores LiteSpeed e cache inteligente na hospedagem WordPress, sem dizer em quais planos.",
           "Qual plano de WordPress da Hostinger para loja virtual? O Unlimited, pelos backups diários e sites ilimitados. Para loja com muito tráfego, o Cloud Startup, com backup sob demanda.",
-          "O cupom SONAR20 vale no plano de WordPress da Hostinger? SONAR20: 20% no primeiro período de compra nova elegível. Confira o plano WordPress no carrinho; registro de domínio e renovação ficam fora.",
           "O SONAR20 vale para cliente antigo? Vale numa compra nova elegível com a mesma conta, não na renovação do serviço atual. Registro de domínio também fica fora. Aplique o código e confira o total no carrinho."
-        ]
-      },
-      {
-        "heading": "Quem escreve",
-        "paragraphs": [
-          "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. O site não usa WordPress: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o Single se é um site só e você publica de vez em quando.",
-        "Leve o Premium se vai ter dois ou três sites.",
-        "Leve o Unlimited se tem loja ou muitos sites: o backup diário começa nele."
+        "é um site só e você publica de vez em quando: o Single basta.",
+        "vai ter dois ou três sites: o Premium atende.",
+        "tem loja ou muitos sites: o Unlimited, onde o backup diário começa."
       ],
       "skipIf": [
-        "Passe do Cloud Startup se o Unlimited ainda dá conta: é o plano mais caro, também na renovação.",
-        "Compare outra ferramenta se não quer administrar temas e plugins; confirme funções, integrações e custos antes de trocar WordPress pelo Criador com IA."
+        "o Unlimited ainda dá conta: o Cloud Startup é o plano mais caro, também na renovação.",
+        "não quer administrar temas e plugins: compare outra ferramenta e confirme funções, integrações e custos antes de trocar o WordPress pelo Criador com IA."
       ]
     },
     "pros": [],
@@ -184476,7 +184319,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress on Hostinger: Premium, Unlimited or Cloud Startup? Plan by project, price and renewal on October 30, 2026, and a checklist to start.",
     "publishedAt": "October 30, 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -184555,8 +184398,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "The page gives no end date for the campaign, and prices can change."
-        ],
-        "emphasis": "Compare the total commitment, equivalent monthly cost and renewal. Neither entry price nor renewal alone chooses a plan."
+        ]
       },
       {
         "heading": "What comes with the plans",
@@ -184601,23 +184443,18 @@ export const reviewsData: unknown[] = [
           "**Pick Premium** if you have one, two or three sites and publish now and then. It is the cheapest entry and renewal on the page, at US$ 10.99 a month when it renews.",
           "**Pick Unlimited** if you have a store or many sites. The daily backup is the main reason, and it starts here.",
           "**Cloud Startup** only makes sense if Unlimited is not enough. It is the most expensive, and the renewal of US$ 25.99 a month weighs on the budget."
-        ]
+        ],
+        "emphasis": "By the numbers in the table, for one to three sites the choice is Premium, and for a store or many sites it is Unlimited, because the daily backup starts there. Compare the total commitment and the renewal, because neither the entry price nor the renewal decides alone."
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field at checkout and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
           "Which is the cheapest WordPress plan on Hostinger? Premium, at US$ 2.49 a month over 48 months (US$ 119.52 in total), for up to 3 sites. It renews at US$ 10.99 a month.",
           "Does WordPress come installed on Hostinger? You install it from the hosting panel, without downloading files by hand. The checklist above covers the steps.",
           "Which WordPress plan suits an online store? Unlimited, for its daily backups and unlimited sites. For a store with heavy traffic, Cloud Startup.",
-          "Does the SONAR20 code work on the WordPress plans? SONAR20: 20% off the first period of an eligible new purchase. Check your WordPress plan at checkout; domain registration and renewal are excluded.",
           "Is the renewal price the same as the promotional price? No. After the first 48-month period, the renewal price applies: for Premium, US$ 10.99 a month.",
           "Can existing customers use SONAR20? It can apply to an eligible new purchase with the same account, not renewal of the current service. Domain registration is also excluded. Enter the code and check the cart total."
-        ]
-      },
-      {
-        "heading": "Who writes this",
-        "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since 2024. The site does not use WordPress, and no one on the team has used WordPress on Hostinger: this text gathers what Hostinger's WordPress hosting pages on the international site, in US dollars, say."
         ]
       }
     ],
@@ -184645,13 +184482,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Take Premium if it is one site only and you publish now and then: it is the entry plan.",
-        "Take Premium too if you will have two or three sites.",
-        "Take Unlimited if you have a store or many sites: the daily backup starts there."
+        "it is one site only and you publish now and then: Premium is the entry plan.",
+        "you will have two or three sites: Premium covers them too.",
+        "you have a store or many sites: Unlimited, where the daily backup starts."
       ],
       "skipIf": [
-        "Skip Cloud Startup if Unlimited is still enough: it is the most expensive plan, on renewal too.",
-        "Compare another tool if you do not want to manage themes and plugins; check functions, integrations and costs before replacing WordPress with the AI Builder."
+        "Unlimited is still enough: Cloud Startup is the most expensive plan, on renewal too.",
+        "you do not want to manage themes and plugins: compare another tool and check functions, integrations and costs before replacing WordPress with the AI Builder."
       ]
     }
   },
@@ -184691,7 +184528,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress en Hostinger: ¿Premium, Unlimited o Cloud Startup? Plan por proyecto, precio y renovación el 30 de octubre de 2026, y una lista para empezar.",
     "publishedAt": "30 de octubre de 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -184770,8 +184607,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "La página no indica fecha de fin para la campaña, y los precios pueden cambiar."
-        ],
-        "emphasis": "Compara total contratado, costo mensual equivalente y renovación. Ni el precio de entrada ni la renovación deciden por sí solos."
+        ]
       },
       {
         "heading": "Qué viene en los planes",
@@ -184816,23 +184652,18 @@ export const reviewsData: unknown[] = [
           "**Elige Premium** si es un sitio, dos o tres, y publicas de vez en cuando. Es la entrada y la renovación más baratas de la página: 10,99 US$ al mes cuando se renueva.",
           "**Elige Unlimited** si tienes una tienda o muchos sitios. El backup diario es el motivo principal, y empieza aquí.",
           "**Cloud Startup** solo tiene sentido si Unlimited no alcanza. Es el más caro, y la renovación de 25,99 US$ al mes pesa."
-        ]
+        ],
+        "emphasis": "Por los números de la tabla, para uno a tres sitios la elección es el Premium, y para una tienda o muchos sitios, el Unlimited, porque el backup diario empieza ahí. Compara el total contratado y la renovación: ni el precio de entrada ni la renovación deciden por sí solos."
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20% de descuento en el primer período de una compra nueva elegible: escribe el código en el campo \"Have a coupon code?\" del carrito y revisa la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
           "¿Cuál es el plan de WordPress más barato de Hostinger? El Premium, a 2,49 US$ al mes en 48 meses (119,52 US$ en total), para hasta 3 sitios. Se renueva a 10,99 US$ al mes.",
           "¿Viene WordPress instalado en Hostinger? Lo instalas desde el panel de hosting, sin descargar archivos a mano. La lista de arriba explica los pasos.",
           "¿Qué plan de WordPress conviene para una tienda online? Unlimited, por sus backups diarios y los sitios ilimitados. Para una tienda con mucho tráfico, Cloud Startup.",
-          "¿Funciona el código SONAR20 en los planes de WordPress? SONAR20: 20% en el primer período de una compra nueva elegible. Revisa el plan WordPress en el carrito; registro de dominio y renovación quedan fuera.",
           "¿El precio de renovación es igual al promocional? No. Después del primer período de 48 meses vale el precio de renovación: en Premium, 10,99 US$ al mes.",
           "¿Un cliente existente puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. El registro de dominio también queda fuera. Introduce el código y comprueba el total del carrito."
-        ]
-      },
-      {
-        "heading": "Quién escribe",
-        "paragraphs": [
-          "Em Casa com Cecília funciona en el hosting administrado de Hostinger, como Node.js Web App, y el dominio está registrado en Hostinger desde 2024. El sitio no usa WordPress, y nadie del equipo ha usado WordPress en Hostinger: este texto reúne lo que dicen las páginas de hosting de WordPress del sitio internacional, en dólares."
         ]
       }
     ],
@@ -184860,13 +184691,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Lleva el Premium si es un solo sitio y publicas de vez en cuando: es el plan de entrada.",
-        "Lleva también el Premium si vas a tener dos o tres sitios.",
-        "Lleva el Unlimited si tienes una tienda o muchos sitios: el backup diario empieza ahí."
+        "es un solo sitio y publicas de vez en cuando: el Premium es el plan de entrada.",
+        "vas a tener dos o tres sitios: el Premium también los cubre.",
+        "tienes una tienda o muchos sitios: el Unlimited, donde empieza el backup diario."
       ],
       "skipIf": [
-        "Descarta el Cloud Startup si el Unlimited todavía te alcanza: es el plan más caro, también en la renovación.",
-        "Compara otra herramienta si no quieres gestionar temas y plugins; comprueba funciones, integraciones y costos antes de sustituir WordPress por el creador con IA."
+        "el Unlimited todavía te alcanza: el Cloud Startup es el plan más caro, también en la renovación.",
+        "no quieres gestionar temas y plugins: compara otra herramienta y comprueba funciones, integraciones y costos antes de sustituir WordPress por el creador con IA."
       ]
     }
   },
@@ -184906,7 +184737,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress chez Hostinger : Premium, Unlimited ou Cloud Startup ? Forfait par projet, prix et renouvellement au 30 octobre 2026, et une liste pour commencer.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -184985,8 +184816,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "La page n'indique pas de date de fin pour la campagne, et les prix peuvent changer."
-        ],
-        "emphasis": "Comparez engagement total, coût mensuel équivalent et renouvellement. Ni le prix d'entrée ni le renouvellement ne décident seuls."
+        ]
       },
       {
         "heading": "Ce qui est inclus dans les forfaits",
@@ -185031,23 +184861,18 @@ export const reviewsData: unknown[] = [
           "**Choisissez Premium** si c'est un site, deux ou trois, et que vous publiez de temps en temps. C'est l'entrée et le renouvellement les moins chers de la page : 10,99 US$ par mois au renouvellement.",
           "**Choisissez Unlimited** si vous avez une boutique ou plusieurs sites. La sauvegarde quotidienne est la raison principale, et elle commence ici.",
           "**Cloud Startup** n'a de sens que si Unlimited ne suffit pas. C'est le plus cher, et le renouvellement à 25,99 US$ par mois pèse lourd."
-        ]
+        ],
+        "emphasis": "D'après les chiffres du tableau, pour un à trois sites le choix est Premium, et pour une boutique ou de nombreux sites, Unlimited, car la sauvegarde quotidienne commence là. Comparez l'engagement total et le renouvellement : ni le prix d'entrée ni le renouvellement ne décident seuls."
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20% de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ \"Have a coupon code?\" du panier et vérifiez la ligne \"Coupon applied\" avant de payer. Le renouvellement est facturé au tarif catalogue, sans réduction.",
           "Quel est le forfait WordPress le moins cher de Hostinger ? Le Premium, à 2,49 US$ par mois sur 48 mois (119,52 US$ au total), pour jusqu'à 3 sites. Il se renouvelle à 10,99 US$ par mois.",
           "WordPress est-il installé chez Hostinger ? Vous l'installez depuis le panneau d'hébergement, sans télécharger de fichiers à la main. La liste ci-dessus détaille les étapes.",
           "Quel forfait WordPress pour une boutique en ligne ? Unlimited, pour ses sauvegardes quotidiennes et ses sites illimités. Pour une boutique très fréquentée, Cloud Startup.",
-          "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? SONAR20 : 20 % sur la première période d'un nouvel achat éligible. Vérifiez le forfait WordPress au panier ; enregistrement de domaine et renouvellement sont exclus.",
           "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, 10,99 US$ par mois.",
           "Un client existant peut-il utiliser SONAR20 ? Le code peut s'appliquer à un nouvel achat éligible avec le même compte, mais pas au renouvellement du service actuel. L'enregistrement de domaine est également exclu. Saisissez le code et vérifiez le total du panier."
-        ]
-      },
-      {
-        "heading": "Qui écrit",
-        "paragraphs": [
-          "Em Casa com Cecília tourne sur l'hébergement géré de Hostinger, en Node.js Web App, et le domaine est enregistré chez Hostinger depuis 2024. Le site n'utilise pas WordPress, et personne dans l'équipe n'a utilisé WordPress chez Hostinger : ce texte réunit ce que disent les pages d'hébergement WordPress du site international, en dollars."
         ]
       }
     ],
@@ -185075,13 +184900,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prenez Premium si c'est un seul site et que vous publiez de temps en temps : c'est le forfait d'entrée.",
-        "Prenez aussi Premium si vous aurez deux ou trois sites.",
-        "Prenez Unlimited si vous avez une boutique ou plusieurs sites : la sauvegarde quotidienne commence là."
+        "c'est un seul site et vous publiez de temps en temps : Premium est le forfait d'entrée.",
+        "vous aurez deux ou trois sites : Premium les couvre aussi.",
+        "vous avez une boutique ou plusieurs sites : Unlimited, où commence la sauvegarde quotidienne."
       ],
       "skipIf": [
-        "Laissez de côté Cloud Startup si Unlimited suffit encore : c'est le forfait le plus cher, au renouvellement aussi.",
-        "Comparez un autre outil si vous ne voulez pas gérer thèmes et extensions ; vérifiez fonctions, intégrations et coûts avant de remplacer WordPress par le créateur IA."
+        "Unlimited suffit encore : Cloud Startup est le forfait le plus cher, au renouvellement aussi.",
+        "vous ne voulez pas gérer thèmes et extensions : comparez un autre outil et vérifiez fonctions, intégrations et coûts avant de remplacer WordPress par le créateur IA."
       ]
     }
   },
@@ -185121,7 +184946,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress su Hostinger: Premium, Unlimited o Cloud Startup? Piano per progetto, prezzo e rinnovo al 30/10/2026 e la checklist per iniziare.",
     "publishedAt": "30 ottobre 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -185200,8 +185025,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "La pagina non riporta una data di fine per la campagna, e i prezzi possono cambiare."
-        ],
-        "emphasis": "Confronta impegno totale, costo mensile equivalente e rinnovo. Né prezzo iniziale né rinnovo decidono da soli."
+        ]
       },
       {
         "heading": "Cosa c'è già nei piani",
@@ -185246,23 +185070,18 @@ export const reviewsData: unknown[] = [
           "**Prendi il Premium** se avrai fino a tre siti. Il backup è settimanale, e il rinnovo è il più basso dei tre piani.",
           "**Prendi l'Unlimited** se hai un negozio o più siti. Il backup giornaliero è il motivo principale, e parte da questo piano.",
           "**Il Cloud Startup** ha senso solo se l'Unlimited non basta. È il più caro, e il rinnovo di 25,99 US$ al mese pesa."
-        ]
+        ],
+        "emphasis": "Secondo i numeri del quadro, per un massimo di tre siti la scelta è il Premium, e per un negozio o molti siti l'Unlimited, perché il backup giornaliero parte da lì. Confronta il totale contrattato e il rinnovo: né il prezzo d'ingresso né il rinnovo decidono da soli."
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga a prezzo di listino, senza sconto.",
           "Qual è il piano WordPress più economico di Hostinger? Il Premium, a 2,49 US$ al mese per 48 mesi (119,52 US$ in totale), per fino a 3 siti. Si rinnova a 10,99 US$ al mese.",
           "WordPress è già installato su Hostinger? Lo installi dal pannello di hosting, senza scaricare i file a mano. La checklist qui sopra spiega i passaggi.",
           "Qual è il piano WordPress di Hostinger per un negozio online? L'Unlimited, per i backup giornalieri e i siti illimitati. Per un negozio con molto traffico, il Cloud Startup.",
-          "Il coupon SONAR20 vale sul piano WordPress di Hostinger? SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Controlla il piano WordPress nel carrello; registrazione di dominio e rinnovo sono esclusi.",
           "Il prezzo di rinnovo è uguale a quello promozionale? No. Dopo il primo periodo di 48 mesi vale il prezzo di rinnovo: per il Premium, 10,99 US$ al mese.",
           "Un cliente esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Anche la registrazione di dominio è esclusa. Inserisci il codice e controlla il totale nel carrello."
-        ]
-      },
-      {
-        "heading": "Chi scrive",
-        "paragraphs": [
-          "L'Em Casa com Cecília gira sull'hosting gestito di Hostinger, come Node.js Web App, e il dominio è registrato presso Hostinger dal 2024. Il sito non usa WordPress, e nessuno del team ha usato WordPress su Hostinger: questo testo riunisce quello che dicono le pagine di Hostinger per l'hosting WordPress del sito internazionale, in dollari."
         ]
       }
     ],
@@ -185290,13 +185109,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Prendi il Premium se è un sito solo e pubblichi ogni tanto: è il piano d'ingresso.",
-        "Prendi il Premium anche se avrai due o tre siti.",
-        "Prendi l'Unlimited se hai un negozio o più siti: il backup giornaliero parte da questo piano."
+        "è un sito solo e pubblichi ogni tanto: il Premium è il piano d'ingresso.",
+        "avrai due o tre siti: il Premium copre anche questi.",
+        "hai un negozio o più siti: l'Unlimited, da cui parte il backup giornaliero."
       ],
       "skipIf": [
-        "Lascia stare il Cloud Startup se l'Unlimited basta ancora: è il piano più caro, anche al rinnovo.",
-        "Confronta un altro strumento se non vuoi gestire temi e plugin; controlla funzioni, integrazioni e costi prima di sostituire WordPress con il builder IA."
+        "l'Unlimited basta ancora: il Cloud Startup è il piano più caro, anche al rinnovo.",
+        "non vuoi gestire temi e plugin: confronta un altro strumento e controlla funzioni, integrazioni e costi prima di sostituire WordPress con il builder IA."
       ]
     }
   },
@@ -185336,7 +185155,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress bei Hostinger: Premium, Unlimited oder Cloud Startup? Tarif pro Projekt, Preis und Verlängerung am 30.10.2026 und die Checkliste für den Start.",
     "publishedAt": "30. Oktober 2026",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -185415,8 +185234,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Die Seite nennt kein Enddatum für die Aktion, und die Preise können sich ändern."
-        ],
-        "emphasis": "Vergleichen Sie Gesamtbindung, rechnerischen Monatspreis und Verlängerung. Weder Einstiegspreis noch Verlängerung entscheiden allein."
+        ]
       },
       {
         "heading": "Was in den Tarifen schon enthalten ist",
@@ -185461,23 +185279,18 @@ export const reviewsData: unknown[] = [
           "**Nehmen Sie den Premium**, wenn Sie bis zu drei Websites betreiben. Das Backup ist wöchentlich, und die Verlängerung ist die niedrigste der drei Tarife.",
           "**Nehmen Sie den Unlimited**, wenn Sie einen Shop oder mehrere Websites haben. Das tägliche Backup ist der Hauptgrund, und es beginnt hier.",
           "**Der Cloud Startup** lohnt sich nur, wenn der Unlimited nicht reicht. Er ist der teuerste, und die Verlängerung von 25,99 US$ im Monat fällt stark ins Gewicht."
-        ]
+        ],
+        "emphasis": "Nach den Zahlen der Tabelle ist für ein bis drei Websites der Premium die Wahl und für einen Shop oder viele Websites der Unlimited, weil das tägliche Backup dort beginnt. Vergleichen Sie die Gesamtbindung und die Verlängerung: Weder der Einstiegspreis noch die Verlängerung entscheidet allein."
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20% Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld \"Have a coupon code?\" im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile \"Coupon applied\". Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Welcher WordPress-Tarif von Hostinger ist der günstigste? Der Premium: 2,49 US$ im Monat über 48 Monate (119,52 US$ insgesamt), für bis zu 3 Websites. Er verlängert sich auf 10,99 US$ im Monat.",
           "Ist WordPress bei Hostinger schon installiert? Sie installieren es im Hosting-Panel, ohne Dateien von Hand herunterzuladen. Die Checkliste oben erklärt die Schritte.",
           "Welcher WordPress-Tarif von Hostinger eignet sich für einen Online-Shop? Der Unlimited, wegen der täglichen Backups und der unbegrenzten Websites. Für einen Shop mit viel Traffic der Cloud Startup.",
-          "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. WordPress-Tarif im Warenkorb prüfen; Domainregistrierung und Verlängerung sind ausgeschlossen.",
           "Ist der Verlängerungspreis derselbe wie der Aktionspreis? Nein. Nach dem ersten Zeitraum von 48 Monaten gilt der Verlängerungspreis: beim Premium 10,99 US$ im Monat.",
           "Können Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Domainregistrierungen sind ebenfalls ausgeschlossen. Geben Sie den Code ein und prüfen Sie den Gesamtbetrag."
-        ]
-      },
-      {
-        "heading": "Wer schreibt",
-        "paragraphs": [
-          "Der Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger als Node.js Web App, und die Domain ist seit 2024 bei Hostinger registriert. Die Seite nutzt kein WordPress, und niemand aus dem Team hat WordPress bei Hostinger genutzt. Dieser Text fasst zusammen, was die WordPress-Hosting-Seiten von Hostinger auf der internationalen Seite, in US-Dollar, sagen."
         ]
       }
     ],
@@ -185505,13 +185318,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Nehmen Sie den Premium, wenn es nur eine Website ist und Sie nur ab und zu veröffentlichen: Er ist der Einstiegstarif.",
-        "Nehmen Sie den Premium auch, wenn Sie zwei oder drei Websites haben werden.",
-        "Nehmen Sie den Unlimited, wenn Sie einen Shop oder viele Websites haben: Das tägliche Backup beginnt dort."
+        "es nur eine Website ist und Sie nur ab und zu veröffentlichen: der Premium ist der Einstiegstarif.",
+        "es zwei oder drei Websites werden: der Premium deckt sie ebenfalls ab.",
+        "Sie einen Shop oder viele Websites haben: der Unlimited, ab dem das tägliche Backup beginnt."
       ],
       "skipIf": [
-        "Lassen Sie den Cloud Startup weg, wenn der Unlimited noch reicht: Er ist der teuerste Tarif, auch bei der Verlängerung.",
-        "Vergleichen Sie ein anderes Werkzeug, wenn Sie Themes und Plugins nicht verwalten möchten; vor dem Ersatz durch den KI-Builder Funktionen, Integrationen und Kosten prüfen."
+        "der Unlimited noch reicht: der Cloud Startup ist der teuerste Tarif, auch bei der Verlängerung.",
+        "Sie Themes und Plugins nicht verwalten möchten: vergleichen Sie ein anderes Werkzeug und prüfen Sie Funktionen, Integrationen und Kosten, bevor Sie WordPress durch den KI-Builder ersetzen."
       ]
     }
   },
@@ -185551,7 +185364,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger の WordPress：Premium、Unlimited、Cloud Startup のどれを選ぶか。プロジェクト別のプラン、2026年10月30日の料金と更新料、始めるためのチェックリスト。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -185630,8 +185443,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "このページには、キャンペーンの終了日は書かれていません。料金は変わることがあります。"
-        ],
-        "emphasis": "契約総額、月額換算、更新料を比べてください。入口の価格だけでも更新料だけでも決まりません。"
+        ]
       },
       {
         "heading": "プランに含まれるもの",
@@ -185676,23 +185488,18 @@ export const reviewsData: unknown[] = [
           "**Premium を選ぶ**のは、サイトが1つから3つまでの場合です。3つのプランの中で入口も更新料も一番安く、バックアップは毎週です。",
           "**Unlimited を選ぶ**のは、ショップや複数のサイトがある場合です。毎日のバックアップが主な理由で、それはこのプランから始まります。",
           "**Cloud Startup** は、Unlimited では足りない場合だけ。一番高く、更新料の US$25.99/月は大きな負担です。"
-        ]
+        ],
+        "emphasis": "表の数字からは、サイトが1〜3つなら Premium、ショップや多くのサイトなら Unlimited が答えです。毎日のバックアップが Unlimited から始まるからです。契約総額と更新料を合わせて比べてください。入口の価格だけでも更新料だけでも決まりません。"
       },
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostinger のクーポンコードは何ですか？ Hostinger のクーポンコードは SONAR20 で、対象となる新規購入の最初の期間が20%オフになります。カートの「Have a coupon code?」欄にコードを入力し、支払い前に「Coupon applied」の行を確認してください。更新は割引なしの定価で請求されます。",
           "Hostinger の WordPress で一番安いプランは？ Premium で、48か月で月額 US$2.49（合計 US$119.52）、3サイトまでです。更新料は月額 US$10.99です。",
           "Hostinger では WordPress はインストール済みですか？ ホスティングのパネルからインストールします。ファイルを手でダウンロードする必要はありません。手順は上のチェックリストにあります。",
           "オンラインショップ向けの Hostinger の WordPress プランは？ Unlimited です。毎日のバックアップとサイト数無制限が理由です。アクセスの多いショップなら Cloud Startup です。",
-          "SONAR20 は Hostinger の WordPress プランで使えますか？ SONAR20：対象となる新規購入の最初の期間が20%割引。WordPressプランはカートで確認してください。ドメイン登録と更新は対象外です。",
           "更新料はプロモーション価格と同じですか？ いいえ。最初の48か月の期間が終わると更新料になります。Premium では月額 US$10.99です。",
           "既存ユーザーもSONAR20を使える？ 同じアカウントでも対象の新規購入には使える場合がありますが、現在のサービスの更新には使えません。ドメイン登録も対象外です。コードを入力してカートの総額を確認してください。"
-        ]
-      },
-      {
-        "heading": "この記事を書いた人",
-        "paragraphs": [
-          "Em Casa com Cecília は Hostinger のマネージドホスティング上で Node.js Web App として動いており、ドメインは2024年から Hostinger に登録されています。このサイトは WordPress を使っていません。この文章は、Hostinger の国際版 WordPress ホスティングのページに書かれていることをまとめたものです。"
         ]
       }
     ],
@@ -185720,13 +185527,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "サイトが1つだけで、ときどき更新する程度なら、Premium です。入門プランです。",
-        "サイトが2つか3つになる場合も、Premium を選んでください。",
-        "ショップや多くのサイトがあるなら Unlimited です。毎日のバックアップはここから始まります。"
+        "サイトが1つだけで、ときどき更新する人（Premium が入門プラン）",
+        "サイトが2つか3つになる人（Premium で足ります）",
+        "ショップや多くのサイトがある人（毎日のバックアップは Unlimited から）"
       ],
       "skipIf": [
-        "Unlimited で足りるなら、Cloud Startup は見送りです。一番高いプランで、更新料も最も高くなります。",
-        "テーマやプラグインを管理したくなければ別のツールも比較し、AIビルダーに替える前に機能、連携、費用を確認してください。"
+        "Unlimited で足りる人（Cloud Startup は一番高く、更新料も最も高い）",
+        "テーマやプラグインを管理したくない人（別のツールも比較し、AIビルダーに替える前に機能、連携、費用を確認）"
       ]
     }
   },
@@ -185766,7 +185573,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "호스팅어 WordPress: Premium, Unlimited, Cloud Startup 중 무엇을 고를까? 프로젝트별 플랜, 2026년 10월 30일 기준 달러 가격과 갱신가, 시작 체크리스트.",
     "publishedAt": "2026년 10월 30일",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa-v2.webp",
@@ -185844,8 +185651,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "페이지에서 캠페인의 끝나는 날짜는 찾지 못했고, 가격은 바뀔 수 있습니다."
-        ],
-        "emphasis": "계약 총액, 환산 월 요금과 갱신가를 비교하세요. 처음 가격만으로도 갱신가만으로도 결정할 수 없습니다."
+        ]
       },
       {
         "heading": "플랜에 이미 들어 있는 것",
@@ -185890,23 +185696,18 @@ export const reviewsData: unknown[] = [
           "**Premium을 고르세요.** 사이트가 한 개에서 세 개 사이일 때입니다. 세 플랜 중 처음 가격도 갱신가도 가장 낮고, 백업은 주간입니다.",
           "**Unlimited를 고르세요.** 스토어가 있거나 사이트가 많을 때입니다. 매일 백업이 핵심 이유이고, 이 플랜부터 시작됩니다.",
           "**Cloud Startup은** Unlimited로 부족할 때만 의미가 있습니다. 가장 비싸고, 월 US$ 25.99의 갱신가가 부담됩니다."
-        ]
+        ],
+        "emphasis": "표의 수치로 보면 사이트가 1~3개라면 Premium, 스토어나 사이트가 많다면 Unlimited가 맞습니다. 매일 백업이 Unlimited부터 시작되기 때문입니다. 총 계약 금액과 갱신가를 함께 비교하세요. 시작 가격이나 갱신가 하나만으로는 결정되지 않습니다."
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "Hostinger 쿠폰 코드는 무엇인가요? Hostinger 쿠폰 코드는 SONAR20이며, 적격한 신규 구매의 첫 결제 기간에 20% 할인됩니다. 장바구니의 \"Have a coupon code?\" 칸에 코드를 입력하고 결제 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 할인 없이 정가로 청구됩니다.",
           "WordPress 호스팅어 플랜 중 가장 저렴한 것은 무엇인가요? Premium입니다. 48개월 선결제 월 US$ 2.49, 총액 US$ 119.52이고, 3개 사이트까지 쓸 수 있습니다. 갱신은 월 US$ 10.99입니다.",
           "호스팅어에서 WordPress가 설치되어 나오나요? 호스팅 패널에서 설치합니다. 파일을 직접 내려받을 필요는 없습니다. 단계는 위의 체크리스트에 있습니다.",
           "온라인 스토어에는 어느 WordPress 플랜이 맞나요? Unlimited입니다. 사이트 무제한과 매일 백업이 있습니다. 트래픽이 아주 많은 스토어라면 Cloud Startup을 보세요.",
-          "WordPress 플랜에도 SONAR20을 쓸 수 있나요? SONAR20: 대상 신규 구매 첫 기간 20% 할인. WordPress 플랜을 장바구니에서 확인하세요. 도메인 등록과 갱신은 제외됩니다.",
           "갱신가는 프로모션 가격과 같은가요? 아닙니다. 첫 48개월 기간이 끝나면 갱신가가 적용됩니다. Premium은 월 US$ 10.99입니다.",
           "기존 고객도 SONAR20을 쓸 수 있나요? 같은 계정의 대상 신규 구매에는 적용될 수 있지만 현재 서비스의 갱신에는 적용되지 않습니다. 도메인 등록도 제외됩니다. 코드를 입력하고 장바구니 총액을 확인하세요."
-        ]
-      },
-      {
-        "heading": "작성자 소개",
-        "paragraphs": [
-          "Em Casa com Cecília는 호스팅어의 관리형 호스팅에서 Node.js Web App으로 운영되고, 도메인은 2024년부터 호스팅어에 등록되어 있습니다. 이 사이트는 WordPress를 쓰지 않습니다. 이 글은 호스팅어 국제 사이트의 WordPress 호스팅 페이지가 말하는 내용을 정리한 것입니다."
         ]
       }
     ],
@@ -185935,13 +185736,13 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "사이트가 하나뿐이고 가끔 글을 올린다면 Premium을 고르세요. 입문 플랜입니다.",
-        "사이트가 두세 개가 될 예정이라면 이때도 Premium을 고르세요.",
-        "스토어나 사이트가 많다면 Unlimited입니다. 매일 백업은 이 플랜부터 시작됩니다."
+        "사이트가 하나뿐이고 가끔 글을 올리는 분(Premium이 입문 플랜)",
+        "사이트가 두세 개가 될 분(Premium으로 충분)",
+        "스토어나 사이트가 많은 분(매일 백업은 Unlimited부터)"
       ],
       "skipIf": [
-        "Unlimited로 충분하다면 Cloud Startup은 넘기세요. 가장 비싼 플랜이고, 갱신가도 가장 큽니다.",
-        "테마와 플러그인을 관리하고 싶지 않다면 다른 도구도 비교하세요. AI 빌더로 바꾸기 전 기능, 연동과 비용을 확인하세요."
+        "Unlimited로 충분한 분(Cloud Startup은 가장 비싼 플랜이고 갱신가도 가장 큽니다)",
+        "테마와 플러그인을 관리하고 싶지 않은 분(다른 도구와 비교하고, AI 빌더로 바꾸기 전 기능·연동·비용을 확인하세요)"
       ]
     }
   },
@@ -185981,7 +185782,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger WordPress：Premium、Unlimited 还是 Cloud Startup？按项目选套餐，2026年10月30日的美元价格与续费，以及开始使用的清单。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa-v2.webp",
@@ -186059,8 +185860,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "页面上没有显示活动的结束日期，价格可能变化。"
-        ],
-        "emphasis": "比较合同总额、折算月费与续费。入门价或续费价单独都不能决定选择。"
+        ]
       },
       {
         "heading": "套餐已包含的内容",
@@ -186105,23 +185905,18 @@ export const reviewsData: unknown[] = [
           "**选 Premium**，如果你有一到三个网站。三个套餐里它的入门价和续费价都最低，备份是每周一次。",
           "**选 Unlimited**，如果你有网店或很多网站。每日备份是主要理由，从这里开始就对了。",
           "**Cloud Startup** 只在 Unlimited 不够用时才有意义。它最贵，每月 US$ 25.99 的续费压力很大。"
-        ]
+        ],
+        "emphasis": "按表中的数字，1 到 3 个网站选 Premium，有网店或很多网站选 Unlimited，因为每日备份从它开始。请把合同总价和续费放在一起比较：入门价和续费都不能单独决定选择。"
       },
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，符合条件的新购可享首个周期 20% 折扣：请在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”一行。续费按标价收取，没有折扣。",
           "Hostinger 上最便宜的 WordPress 套餐是哪个？是 Premium：48 个月预付每月 US$ 2.49，总价 US$ 119.52，最多 3 个网站。续费为每月 US$ 10.99。",
           "Hostinger 会预装 WordPress 吗？在主机面板里安装，不需要手动下载文件。步骤见上面的清单。",
           "网店适合哪个 WordPress 套餐？Unlimited：网站不限，每日备份。流量非常大的网店可以看 Cloud Startup。",
-          "SONAR20 能用于 WordPress 套餐吗？ SONAR20：符合条件的新购首个周期优惠20%。请在购物车确认WordPress套餐；域名注册与续费除外。",
           "续费价和促销价一样吗？不一样。第一个 48 个月周期结束后，按续费价计算：Premium 为每月 US$ 10.99。",
           "已有客户也能用SONAR20吗？同一账户符合资格的新购可适用，但当前服务的续费不适用，域名注册也除外。输入代码后请确认购物车总额。"
-        ]
-      },
-      {
-        "heading": "谁在写这篇文章",
-        "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App，域名自 2024 年起在 Hostinger 注册。网站本身不使用 WordPress。本文整理的是 Hostinger 国际站 WordPress 主机页面上的内容。"
         ]
       }
     ],
@@ -186150,13 +185945,13 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "如果只有一个网站，又只是偶尔更新，选 Premium：它是入门套餐。",
-        "如果会有两三个网站，也选 Premium。",
-        "如果有网店或很多网站，选 Unlimited：每日备份从它开始。"
+        "只有一个网站、偶尔更新时：Premium 是入门套餐。",
+        "会有两三个网站时：Premium 同样够用。",
+        "有网店或很多网站时：Unlimited，每日备份从它开始。"
       ],
       "skipIf": [
-        "如果 Unlimited 已经够用，就别选 Cloud Startup：它最贵，续费也最高。",
-        "若不想管理主题与插件，也可比较其他工具；改用AI建站前请确认功能、集成与费用。"
+        "Unlimited 已经够用时：Cloud Startup 最贵，续费也最高。",
+        "不想管理主题与插件时：比较其他工具，改用AI建站前先确认功能、集成与费用。"
       ]
     }
   },
@@ -186196,7 +185991,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger WordPress：Premium、Unlimited 還是 Cloud Startup？依專案選方案，2026年10月30日的美元價格與續約價，以及開始使用的檢查清單。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa-v2.webp",
@@ -186274,8 +186069,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "頁面上沒有標示活動的結束日期，價格可能變動。"
-        ],
-        "emphasis": "比較合約總額、折算月費與續約價。入門價或續約價單獨都不能決定選擇。"
+        ]
       },
       {
         "heading": "方案已包含的內容",
@@ -186320,23 +186114,18 @@ export const reviewsData: unknown[] = [
           "**選 Premium**，如果你有一到三個網站。三個方案中，它的入門價與續約價都最低，備份為每週一次。",
           "**選 Unlimited**，如果你有網路商店或很多網站。每日備份是主要原因，從這個方案開始才有。",
           "**Cloud Startup** 只有在 Unlimited 不夠用時才有意義。它最貴，每月 US$ 25.99 的續約價負擔很重。"
-        ]
+        ],
+        "emphasis": "依表中的數字，1 到 3 個網站選 Premium，有網路商店或很多網站選 Unlimited，因為每日備份從它開始。請把合約總價和續約價放在一起比較：入門價和續約價都不能單獨決定選擇。"
       },
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合條件的新購可享首個週期 20% 折扣：請在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」一行。續約按定價收費，沒有折扣。",
           "Hostinger 最便宜的 WordPress 方案是哪一個？是 Premium：48 個月預付每月 US$ 2.49，總價 US$ 119.52，最多 3 個網站。續約價為每月 US$ 10.99。",
           "Hostinger 的 WordPress 是預先安裝好的嗎？要在主機管理面板安裝，不需要手動下載檔案。步驟請見上方的檢查清單。",
           "網路商店適合哪一個 WordPress 方案？Unlimited：網站不限，每日備份。流量非常大的商店可以考慮 Cloud Startup。",
-          "SONAR20 可以用在 WordPress 方案嗎？ SONAR20：符合條件的新購首期優惠20%。請在購物車確認WordPress方案；網域註冊與續約除外。",
           "續約價和優惠價一樣嗎？不一樣。第一個 48 個月的期間結束後，以續約價計算：Premium 為每月 US$ 10.99。",
           "舊客戶也能用SONAR20嗎？同一帳號符合資格的新購可適用，但目前服務的續約不適用，網域註冊也除外。輸入代碼後請確認購物車總額。"
-        ]
-      },
-      {
-        "heading": "誰寫了這篇文章",
-        "paragraphs": [
-          "Em Casa com Cecília 運行在 Hostinger 的代管主機上，是一個 Node.js Web App，網域自 2024 年起在 Hostinger 註冊。網站本身並未使用 WordPress。本文整理的是 Hostinger 國際站 WordPress 主機頁面上的內容。"
         ]
       }
     ],
@@ -186365,13 +186154,13 @@ export const reviewsData: unknown[] = [
     "hideFromPortugueseListings": true,
     "decision": {
       "takeIf": [
-        "如果只有一個網站，又只是偶爾更新，選 Premium：它是入門方案。",
-        "如果會有兩三個網站，也選 Premium。",
-        "如果有網路商店或很多網站，選 Unlimited：每日備份從它開始。"
+        "只有一個網站、偶爾更新時：Premium 是入門方案。",
+        "會有兩三個網站時：Premium 同樣夠用。",
+        "有網路商店或很多網站時：Unlimited，每日備份從它開始。"
       ],
       "skipIf": [
-        "如果 Unlimited 已經夠用，就不必選 Cloud Startup：它最貴，續約價也最高。",
-        "若不想管理佈景主題與外掛，也可比較其他工具；改用AI建站前請確認功能、整合與費用。"
+        "Unlimited 已經夠用時：Cloud Startup 最貴，續約價也最高。",
+        "不想管理佈景主題與外掛時：比較其他工具，改用AI建站前先確認功能、整合與費用。"
       ]
     }
   },
@@ -214342,6 +214131,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 dá 20% na compra nova dos planos Hostinger comparados de 12, 24 e 48 meses. Compare com a GoDaddy e veja a renovação.",
     "publishedAt": "6 de novembro de 2026",
     "publishedAtISO": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/hostinger-ou-godaddy-capa-v2.webp",
@@ -214543,7 +214333,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E o plano de 1 mês?",
         "paragraphs": [
-          "A Hostinger vende o Single de um mês por R$ 29,99 e o Premium por R$ 48,99. O SONAR20 não se aplica a esses dois planos de um mês, e a renovação é pelo mesmo valor de cada plano.",
+          "A Hostinger vende o Single de um mês por R$ 29,99 e o Premium por R$ 48,99, e a renovação é pelo mesmo valor de cada plano. O SONAR20 entra nos ciclos de 12, 24 e 48 meses; no ciclo de 1 mês, depende do plano. No nosso teste de 23/11/2026, o carrinho recusou o código nesses dois planos de um mês e o aceitou no Cloud Startup. Confira a linha \"Cupom aplicado\" no carrinho antes de pagar.",
           "Mantido esse preço, doze meses de Single pagos mês a mês somam R$ 359,88, cerca de três vezes o plano de 12 meses com o código. No carrinho, o menor prazo do Inicial da GoDaddy é de 12 meses. O pagamento mensal da Hostinger pode atender a um teste ou projeto curto, mas custa mais se você mantiver o site por um ano."
         ]
       },
@@ -214567,7 +214357,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "cupom Hostinger",
+            "label": "Ver cupom SONAR20 e planos da Hostinger",
             "href": "/cupons/hostinger"
           }
         ]
@@ -214579,40 +214369,35 @@ export const reviewsData: unknown[] = [
           "Dois anos, só o site: Hostinger Single de 24 meses com o SONAR20, R$ 95,95 abaixo do Inicial. Com domínio e e-mail grátis no primeiro ano: Hostinger Premium de 24 meses com o SONAR20, R$ 290,35 abaixo do Economy na hospedagem. Para manter domínio e e-mail no segundo ano, some a renovação dos dois serviços.",
           "Quatro anos, só o site: Hostinger Single de 48 meses com o SONAR20. Na projeção de 36 meses mais uma renovação, o Inicial custa mais de três vezes esse valor. Com domínio e e-mail, o Economy nessa mesma projeção custa cerca de quatro vezes o Premium de 48 meses com SONAR20. Domínio e e-mail são grátis só no primeiro ano; as renovações ficam fora da conta.",
           "Em qualquer caso, confira no carrinho o preço da renovação antes de pagar: as promoções mudam."
-        ]
+        ],
+        "emphasis": "Pelos números das tabelas, para um site que fica no ar dois anos ou mais, a escolha é a Hostinger com o SONAR20, porque o Single de 24 meses sai R$ 95,95 abaixo do Inicial da GoDaddy; para um ano, a GoDaddy custa menos nos dois pares."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "Qual é melhor, Hostinger ou GoDaddy? Depende do prazo. Pelo custo de hospedagem, a GoDaddy custa menos por um ano nos dois pares; a partir de dois anos, a Hostinger com SONAR20 custa menos nos dois. As comparações com a HostGator e a Locaweb estão em [Hostinger ou HostGator](/reviews/hostinger-ou-hostgator) e [Hostinger ou Locaweb](/reviews/hostinger-ou-locaweb).",
           "A GoDaddy renova pelo mesmo preço? Não. O carrinho mostra que o plano de 1 ano volta ao preço de lista na renovação: quase o triplo no Inicial e cinco vezes no Economy. Os valores da renovação estão na tabela de 4 anos, e os do primeiro ano, na de 1 ano.",
           "O cupom da Hostinger vale na renovação? Não. O SONAR20 vale só na compra nova, e a renovação sai pelo preço de tabela. Para a renovação, veja o [guia de renovação da Hostinger](/reviews/hostinger-renovacao-cupom-sonar20).",
           "O Single da Hostinger vem com domínio? Não. No cartão do plano, domínio e e-mail aparecem como não incluídos. Quem quer os dois na Hostinger começa no Premium, que dá domínio e e-mail grátis por um ano.",
-          "Dá para levar o site da GoDaddy para a Hostinger? A página de ajuda da Hostinger diz que a migração grátis vale para site de outra empresa nos planos Web, Cloud ou Agency. Confira o seu plano com o suporte antes de cancelar o antigo.",
-          "Qual é o cupom da Hostinger? SONAR20 dá 20% na compra nova dos planos de 12, 24 e 48 meses comparados; não vale na renovação nem nos planos de um mês do Single e do Premium."
-        ]
-      },
-      {
-        "heading": "Quem escreve",
-        "paragraphs": [
-          "O Em Casa com Cecília roda na Hostinger, e o domínio está registrado lá. Sobre a GoDaddy, o texto usa só o que a página brasileira e o carrinho mostram; ninguém da equipe usou o serviço."
+          "Dá para levar o site da GoDaddy para a Hostinger? A página de ajuda da Hostinger diz que a migração grátis vale para site de outra empresa nos planos Web, Cloud ou Agency. Confira o seu plano com o suporte antes de cancelar o antigo."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve a Hostinger se pode pagar 24 ou 48 meses de hospedagem de uma vez: com o SONAR20, Single e Premium custam menos que os respectivos planos da GoDaddy nos cenários comparados.",
-        "Considere o Premium da Hostinger se quer domínio e e-mail grátis no primeiro ano e uma renovação de hospedagem menor que a do Economy. Para comparar o gasto completo depois desse ano, some também as renovações de domínio e e-mail."
+        "pode pagar 24 ou 48 meses de hospedagem de uma vez: com o SONAR20, Single e Premium custam menos que os respectivos planos da GoDaddy nos cenários comparados.",
+        "quer domínio e e-mail grátis no primeiro ano e uma renovação de hospedagem menor que a do Economy da GoDaddy: some as renovações de domínio e e-mail para comparar o gasto completo depois desse ano."
       ],
       "skipIf": [
-        "Considere a GoDaddy Inicial se precisa apenas da hospedagem por um ano: ela custa menos que o Single nesse prazo. A renovação anual dela também fica abaixo da do Single, embora a Hostinger custe menos nas contas de dois e quatro anos.",
-        "Considere a GoDaddy Economy se o projeto dura um ano e você quer domínio e e-mail incluídos nesse período: ela custa menos que o Premium nesse prazo, mas renova a quase 600 reais por ano em hospedagem, sem contar domínio e e-mail."
+        "precisa só de um ano de hospedagem: o Inicial da GoDaddy custa menos que o Single nesse prazo, e a renovação anual dele também fica abaixo da do Single, embora a Hostinger custe menos nas contas de dois e quatro anos.",
+        "o projeto dura um ano e você quer domínio e e-mail incluídos nesse período: o Economy da GoDaddy custa menos que o Premium nesse prazo, mas renova bem mais caro em hospedagem, sem contar domínio e e-mail."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use SONAR20 no campo de cupom do carrinho ou entre pelo link: 20% na compra nova dos planos de 12, 24 e 48 meses comparados. O código não vale na renovação nem nos planos de um mês do Single e do Premium.",
+      "text": "Use SONAR20 no campo de cupom do carrinho ou entre pelo link: 20% na compra nova dos planos de 12, 24 e 48 meses comparados. No ciclo de 1 mês a aceitação depende do plano; confira a linha \"Cupom aplicado\" antes de pagar. O código não vale na renovação.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -214677,6 +214462,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 takes 20% off new 12-, 24- and 48-month Hostinger Premium purchases. Compare hosting and renewal costs with GoDaddy.",
     "publishedAt": "November 6, 2026",
     "publishedAtISO": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -214832,7 +214618,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What about the 1-month plan?",
         "paragraphs": [
-          "The cart quoted Premium at US$12.99 for one month, with the same monthly renewal price. SONAR20 does not apply to the one-month plan. At an unchanged rate, twelve monthly payments total US$155.88, about eight times the 12-month purchase with the code. Paying monthly can suit a short project or test, but costs more if you keep the site for a year."
+          "The cart quoted Premium at US$12.99 for one month, with the same monthly renewal price. SONAR20 applies to 12-, 24- and 48-month terms; on 1-month plans, acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying. At an unchanged rate, twelve monthly payments total US$155.88, about eight times the 12-month purchase with the code. Paying monthly can suit a short project or test, but costs more if you keep the site for a year."
         ]
       },
       {
@@ -214895,7 +214681,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Check the SONAR20 terms on the Hostinger coupon page",
+            "label": "See the SONAR20 coupon and Hostinger plans",
             "href": "/en/coupons/hostinger"
           }
         ]
@@ -214908,30 +214694,25 @@ export const reviewsData: unknown[] = [
           "Four years of hosting: Premium's 48-month price with SONAR20 was US$76.42. Economy projects to US$359.52 for 36 months plus one annual renewal at the quoted rate. Its 60-month offer was slightly lower, at US$359.40 upfront, but both options cost more than four times Premium's four-year price. Domain and email renewals are extra.",
           "If you only need the site, Starter has the lowest annual renewal: US$71.88, against US$131.88 for Premium. Premium with SONAR20 still costs less over the first four years. For a longer project, compare accumulated payments over your intended term, using the renewal prices available when you buy.",
           "In every case, check the renewal price in the cart before paying: promotions change."
-        ]
+        ],
+        "emphasis": "By the numbers in the tables, for a site that stays online two years or more, the choice is Hostinger Premium with SONAR20, because its 24-month price is US$38.21 against US$155.76 for GoDaddy Economy."
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter it in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
           "Which is better, Hostinger or GoDaddy? For hosting costs, Premium with SONAR20 costs less than Economy over one, two and four years, and its annual renewal is lower. Domain and email renewals are extra. GoDaddy Starter has the lowest annual renewal, but costs more than Premium over the first four years. More criteria are in [how to choose a web host](/en/reviews/how-to-choose-web-host-hostinger).",
           "Does GoDaddy renew at the same price? Economy does not: the cart shows the 1-year plan going from US$83.88 to US$143.88 at renewal. Starter has no first-year discount and renews at the same US$71.88.",
           "Does the Hostinger coupon work on the renewal? No. SONAR20 applies to a new purchase only, and the renewal is charged at the list price. For the renewal, see the [Hostinger renewal guide](/en/reviews/hostinger-renewal-price-coupon-sonar20).",
           "Does Hostinger Premium come with a domain? Yes, a domain and 2 mailboxes per site are free for the first year. After that, each renews separately.",
-          "Can I move my site from GoDaddy to Hostinger? Hostinger's help page says free migration covers a site from another company on the Web, Cloud or Agency plans. Check your plan with support before cancelling the old one.",
-          "What is the Hostinger coupon code? SONAR20 gives 20% off a new purchase of the 12-, 24- and 48-month Premium plans compared here; it does not apply to renewal or to the one-month Premium plan."
-        ]
-      },
-      {
-        "heading": "Who writes this",
-        "paragraphs": [
-          "Em Casa com Cecília runs on Hostinger, and its domain is registered there. For GoDaddy, this text uses only what its international page and cart show in US dollars; no one on the team has used the service."
+          "Can I move my site from GoDaddy to Hostinger? Hostinger's help page says free migration covers a site from another company on the Web, Cloud or Agency plans. Check your plan with support before cancelling the old one."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter SONAR20 in the cart's coupon field, or use the link, for 20% off a new purchase of the 12-, 24- or 48-month Premium plans compared here. It does not apply to renewal or to the one-month Premium plan.",
+      "text": "Enter SONAR20 in the cart's coupon field, or use the link, for 20% off the first period of an eligible new purchase of the Premium plans compared here. On 1-month plans acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying. It does not apply to renewal.",
       "label": "See the hosting plans with SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -214961,12 +214742,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Choose Hostinger Premium if you can pay upfront for 24 or 48 months of hosting: with SONAR20 it costs less than Economy in those comparisons, and the domain and email renewals are extra.",
-        "Choose Hostinger Premium if the project needs one year of hosting with a domain and email included: its 12-month price is lower than Economy's. Its quoted annual hosting renewal is also lower."
+        "you can pay for 24 or 48 months of hosting upfront: with SONAR20, Premium costs less than Economy in those comparisons, and the domain and email renewals are extra.",
+        "the project needs one year of hosting with a domain and email included: Premium's 12-month price is lower than Economy's, and its quoted annual hosting renewal is lower too."
       ],
       "skipIf": [
-        "Consider GoDaddy Starter if you only need hosting and prioritize the lowest quoted annual renewal. It costs more than Premium over the first four years; a longer-term choice needs a total-cost comparison for your intended duration.",
-        "Go with GoDaddy Economy if you prefer cPanel and accept paying more than Premium in the first year, over 2 and 4 years and at renewal."
+        "you only need hosting and put the lowest quoted annual renewal first: GoDaddy Starter wins there, but it costs more than Premium over the first four years, so a longer project needs a total-cost comparison.",
+        "you prefer cPanel and accept paying more than Premium in the first year, over 2 and 4 years and at renewal: that is the case for GoDaddy Economy."
       ]
     }
   },
@@ -215006,6 +214787,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 da 20% en compras nuevas elegibles de Hostinger. Compara el hosting con GoDaddy en dólares: 1, 2 y 4 años, más la renovación.",
     "publishedAt": "6 de noviembre de 2026",
     "publishedAtISO": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -215161,7 +214943,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "¿Y el plan de 1 mes?",
         "paragraphs": [
-          "Premium de un mes figura a 12,99 US$, no admite el descuento de SONAR20 y anuncia la misma tarifa al renovar. Si se mantuviera durante doce meses, sumaría 155,88 US$, unas ocho veces el contrato de 12 meses con el código. La opción mensual permite contratar un período corto con un desembolso inicial menor, pero tiene un coste mensual más alto."
+          "Premium de un mes figura a 12,99 US$, con la misma tarifa al renovar. SONAR20 se aplica a los ciclos de 12, 24 y 48 meses; en los planes de 1 mes la aceptación depende del plan, así que comprueba la línea \"Coupon applied\" en el carrito antes de pagar. Si se mantuviera durante doce meses, sumaría 155,88 US$, unas ocho veces el contrato de 12 meses con el código. La opción mensual permite contratar un período corto con un desembolso inicial menor, pero tiene un coste mensual más alto."
         ]
       },
       {
@@ -215224,7 +215006,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Consultar condiciones del cupón Hostinger SONAR20",
+            "label": "Ver el cupón SONAR20 y los planes de Hostinger",
             "href": "/es/coupons/hostinger"
           }
         ]
@@ -215237,30 +215019,25 @@ export const reviewsData: unknown[] = [
           "Cuatro años de hosting: Premium de 48 meses figuraba a 76,42 US$ con SONAR20. Economy suma 359,52 US$ en el escenario de 36 meses más una renovación al precio anunciado. Si aceptas pagar cinco años, Economy de 60 meses figuraba a 359,40 US$. En ambos casos, dominio y correo después del primer año se pagan aparte.",
           "Si solo necesitas hosting, Starter tiene la menor renovación anual anunciada: 71,88 US$. Aun así, Premium cuesta menos en los escenarios de uno, dos y cuatro años. Una renovación menor por sí sola no demuestra un menor gasto acumulado a más largo plazo.",
           "Antes de pagar, comprueba el total del carrito, el plazo contratado, los extras y el precio de renovación. Las promociones y las tarifas pueden cambiar."
-        ]
+        ],
+        "emphasis": "Según las cifras de las tablas, para un sitio que seguirá en línea dos años o más, la opción es Hostinger Premium con SONAR20, porque su plan de 24 meses cuesta 38,21 US$ frente a 155,76 US$ de GoDaddy Economy."
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con un 20% de descuento en el primer período de una compra nueva elegible: escribe el código en el campo \"Have a coupon code?\" del carrito y comprueba la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
           "¿Cuál es mejor, Hostinger o GoDaddy? Por precio de hosting, Premium con SONAR20 cuesta menos que Economy en los escenarios internacionales de uno, dos y cuatro años, y tiene una renovación anual anunciada menor. Dominio y correo solo son gratis el primer año. Starter tiene la renovación anual más baja, pero no el menor coste acumulado en esos plazos. Más criterios están en [cómo elegir un hosting web](/es/reviews/como-elegir-hosting-hostinger).",
           "¿GoDaddy renueva al mismo precio? No en Economy: el carrito muestra el plan de 1 año pasando de 83,88 US$ a 143,88 US$ al renovar. Starter no tiene descuento el primer año y renueva a los mismos 71,88 US$. Revisa la tarifa anunciada para el plazo que elijas.",
           "¿El cupón de Hostinger funciona en la renovación? No. SONAR20 da descuento en compras nuevas elegibles; la renovación se cobra a la tarifa del plan, sin ese descuento. Consulta la [guía de renovación de Hostinger](/es/reviews/hostinger-renovacion-cupon-sonar20).",
           "¿Hostinger Premium incluye dominio? Sí, gratis por 1 año, junto con 2 cuentas de correo por sitio. Después de ese año, el dominio se renueva por su cuenta, al precio actual de Hostinger.",
-          "¿Puedo mover mi sitio de GoDaddy a Hostinger? La página de ayuda de Hostinger dice que la migración gratuita cubre un sitio de otra empresa en los planes Web, Cloud o Agency. Revisa tu plan con el soporte antes de cancelar el anterior.",
-          "¿Cuál es el cupón de Hostinger? SONAR20 da un 20% de descuento en el primer período de compras nuevas elegibles; no se aplica a la renovación ni al Premium de un mes."
-        ]
-      },
-      {
-        "heading": "Quién escribe",
-        "paragraphs": [
-          "Em Casa com Cecília funciona en Hostinger, y su dominio está registrado allí. Para GoDaddy, este texto usa solo lo que muestran su página internacional y su carrito en dólares; nadie del equipo ha usado el servicio."
+          "¿Puedo mover mi sitio de GoDaddy a Hostinger? La página de ayuda de Hostinger dice que la migración gratuita cubre un sitio de otra empresa en los planes Web, Cloud o Agency. Revisa tu plan con el soporte antes de cancelar el anterior."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Introduce SONAR20 en el campo de cupón del carrito internacional o entra por el enlace para obtener un 20% en el primer período de una compra nueva elegible. SONAR20 no se aplica a Premium de un mes. Comprueba el total antes de pagar; SONAR20 no descuenta la renovación.",
+      "text": "Introduce SONAR20 en el campo de cupón del carrito internacional o entra por el enlace para obtener un 20% en el primer período de una compra nueva elegible. En los planes de 1 mes la aceptación depende del plan: comprueba la línea \"Coupon applied\" antes de pagar. SONAR20 no descuenta la renovación.",
       "label": "Ver los planes de hosting con el SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -215290,12 +215067,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Elige Hostinger Premium si puedes pagar 24 o 48 meses de hosting por adelantado: con SONAR20, los importes son menores que los de Economy.",
-        "Elige Hostinger Premium si necesitas un año de hosting: el contrato de 12 meses con SONAR20 cuesta menos que Economy y tiene una renovación anual anunciada menor; dominio y correo son gratis solo el primer año."
+        "puedes pagar por adelantado 24 o 48 meses de hosting: con SONAR20, Premium cuesta menos que Economy en esas comparaciones, y las renovaciones de dominio y correo van aparte.",
+        "el proyecto necesita un año de hosting con dominio y correo incluidos: el precio de 12 meses de Premium es menor que el de Economy, y su renovación anual de hosting también."
       ],
       "skipIf": [
-        "Considera GoDaddy Starter si buscas cPanel y ya resuelves el dominio y el correo por separado: tiene la menor renovación anual anunciada, pero compara el gasto acumulado, porque Premium cuesta menos en los escenarios de uno, dos y cuatro años.",
-        "Considera GoDaddy Economy si prefieres cPanel y aceptas los importes de hosting más altos comparados aquí."
+        "solo necesitas hosting y priorizas la renovación anual más baja: GoDaddy Starter gana en eso, pero cuesta más que Premium en los primeros cuatro años, así que un proyecto más largo pide comparar el costo total.",
+        "prefieres cPanel y aceptas pagar más que con Premium en el primer año, a 2 y 4 años y en la renovación: ese es el caso de GoDaddy Economy."
       ]
     }
   },
@@ -215305,7 +215082,7 @@ export const reviewsData: unknown[] = [
     "locale": "fr",
     "translationKey": "hostinger-ou-godaddy",
     "title": "Hostinger ou GoDaddy : quel hébergeur vaut le coup une fois le renouvellement compté ?",
-    "seoTitle": "Hostinger ou GoDaddy : lequel coûte moins avec le renouvellement ?",
+    "seoTitle": "Hostinger ou GoDaddy : le moins cher, renouvellement inclus",
     "type": "Guide comparatif",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -215335,6 +215112,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 offre 20 % sur un nouvel achat éligible chez Hostinger. Comparez avec GoDaddy en dollars : 1, 2 et 4 ans, puis le renouvellement.",
     "publishedAt": "6 novembre 2026",
     "publishedAtISO": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -215490,7 +215268,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Et le forfait d'un mois ?",
         "paragraphs": [
-          "Premium sur un mois est affiché à 12,99 US$, SONAR20 ne s'applique pas à ce forfait, et le renouvellement est annoncé au même tarif. À tarif inchangé, douze mois reviendraient à 155,88 US$, environ huit fois le contrat de 12 mois avec le code. L'option mensuelle permet une courte souscription avec un paiement initial plus faible, mais un coût mensuel plus élevé."
+          "Premium sur un mois est affiché à 12,99 US$, avec un renouvellement annoncé au même tarif. SONAR20 s'applique aux durées de 12, 24 et 48 mois ; sur les forfaits d'un mois, l'acceptation dépend du forfait : vérifiez donc la ligne « Coupon applied » dans le panier avant de payer. À tarif inchangé, douze mois reviendraient à 155,88 US$, environ huit fois le contrat de 12 mois avec le code. L'option mensuelle permet une courte souscription avec un paiement initial plus faible, mais un coût mensuel plus élevé."
         ]
       },
       {
@@ -215553,7 +215331,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Consulter les conditions du code promo Hostinger SONAR20",
+            "label": "Voir le code promo SONAR20 et les offres Hostinger",
             "href": "/fr/coupons/hostinger"
           }
         ]
@@ -215566,30 +215344,25 @@ export const reviewsData: unknown[] = [
           "Quatre ans d'hébergement : Premium sur 48 mois était affiché à 76,42 US$ avec SONAR20. Economy atteint 359,52 US$ dans le scénario de 36 mois plus un renouvellement au tarif annoncé. Si vous acceptez de payer cinq ans, Economy sur 60 mois était affiché à 359,40 US$. Domaine et e-mail après la première année restent à payer séparément.",
           "Pour l'hébergement seul, Starter a le renouvellement annuel annoncé le plus bas : 71,88 US$. Premium coûte pourtant moins dans les scénarios sur un, deux et quatre ans. Un renouvellement moins cher ne suffit pas à démontrer un coût cumulé inférieur sur une durée plus longue.",
           "Avant de payer, vérifiez le total du panier, la durée du contrat, les suppléments et le tarif de renouvellement. Les promotions et les tarifs peuvent changer."
-        ]
+        ],
+        "emphasis": "Selon les chiffres des tableaux, pour un site qui restera en ligne deux ans ou plus, le choix est Hostinger Premium avec SONAR20, car son forfait de 24 mois coûte 38,21 US$ contre 155,76 US$ pour GoDaddy Economy."
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20 % de réduction sur la première période d'un nouvel achat éligible : saisissez-le dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au tarif catalogue, sans réduction.",
           "Lequel est le meilleur, Hostinger ou GoDaddy ? Pour le prix de l'hébergement, Premium avec SONAR20 coûte moins qu'Economy dans les scénarios internationaux sur un, deux et quatre ans, avec un renouvellement annuel annoncé inférieur. Domaine et e-mail ne sont gratuits que la première année. Starter a le renouvellement annuel le plus bas, mais pas le coût cumulé le plus faible sur ces durées. D'autres critères figurent dans [comment choisir un hébergeur web](/fr/reviews/choisir-hebergeur-hostinger).",
           "Le renouvellement de GoDaddy coûte-t-il le même prix ? Economy sur un an affiche 83,88 US$ pour la première période, puis 143,88 US$ pour le renouvellement annuel. Starter affiche 71,88 US$ pour la première année comme pour le renouvellement. Vérifiez le tarif annoncé pour la durée choisie.",
           "Le code Hostinger fonctionne-t-il au renouvellement ? Non. SONAR20 réduit le prix des nouveaux achats éligibles ; le renouvellement est facturé au tarif du forfait, sans cette réduction. Consultez le [guide de renouvellement Hostinger](/fr/reviews/hostinger-renouvellement-code-sonar20).",
           "Le Premium de Hostinger inclut-il un domaine ? Oui, le domaine est gratuit pendant un an, tout comme les deux boîtes e-mail par site. Après cette année, leurs renouvellements sont facturés séparément, aux tarifs applicables.",
-          "Puis-je migrer mon site de GoDaddy vers Hostinger ? La page d'aide de Hostinger indique que la migration gratuite couvre un site venant d'une autre société sur les forfaits Web, Cloud ou Agency ; vérifiez votre forfait avec le support avant de résilier l'ancien.",
-          "Quel est le code promo Hostinger ? SONAR20 offre 20 % de réduction sur la première période des nouveaux achats éligibles ; il ne s'applique ni au renouvellement ni à Premium sur un mois."
-        ]
-      },
-      {
-        "heading": "Qui écrit",
-        "paragraphs": [
-          "Em Casa com Cecília tourne sur l'hébergement de Hostinger, et son domaine y est enregistré. Pour GoDaddy, ce texte ne reprend que ce que sa page internationale et son panier affichent en dollars américains ; personne dans l'équipe n'a utilisé le service."
+          "Puis-je migrer mon site de GoDaddy vers Hostinger ? La page d'aide de Hostinger indique que la migration gratuite couvre un site venant d'une autre société sur les forfaits Web, Cloud ou Agency ; vérifiez votre forfait avec le support avant de résilier l'ancien."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Saisissez SONAR20 dans le champ de code promo du panier international ou passez par le lien pour obtenir 20 % sur la première période d'un nouvel achat éligible. SONAR20 ne s'applique pas à Premium sur un mois. Vérifiez le total avant de payer ; SONAR20 ne s'applique pas au renouvellement.",
+      "text": "Saisissez SONAR20 dans le champ de code promo du panier international ou passez par le lien pour obtenir 20 % sur la première période d'un nouvel achat éligible. Sur les forfaits d'un mois, l'acceptation dépend du forfait : vérifiez la ligne « Coupon applied » avant de payer. SONAR20 ne s'applique pas au renouvellement.",
       "label": "Voir les forfaits d'hébergement avec le SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -215619,12 +215392,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Choisissez Hostinger Premium si vous pouvez payer 24 ou 48 mois d'hébergement à l'avance : avec SONAR20, les montants sont inférieurs à ceux d'Economy.",
-        "Choisissez Hostinger Premium pour un an d'hébergement : le contrat de 12 mois avec SONAR20 coûte moins qu'Economy et affiche un renouvellement annuel inférieur ; le domaine et l'e-mail ne sont gratuits que la première année."
+        "vous pouvez payer d'avance 24 ou 48 mois d'hébergement : avec SONAR20, Premium coûte moins qu'Economy dans ces comparaisons, et les renouvellements du domaine et de l'e-mail sont en plus.",
+        "le projet demande un an d'hébergement avec domaine et e-mail inclus : le prix de 12 mois de Premium est inférieur à celui d'Economy, et son renouvellement annuel d'hébergement l'est aussi."
       ],
       "skipIf": [
-        "Envisagez GoDaddy Starter si vous souhaitez cPanel et gérez déjà le domaine et l'e-mail séparément : son renouvellement annuel annoncé est le plus bas, mais comparez le coût cumulé, car Premium coûte moins sur un, deux et quatre ans.",
-        "Envisagez GoDaddy Economy si vous préférez cPanel et acceptez les montants d'hébergement plus élevés comparés ici."
+        "il ne vous faut que de l'hébergement et que le renouvellement annuel le plus bas passe en premier : GoDaddy Starter l'emporte sur ce point, mais il coûte plus que Premium sur les quatre premières années ; un projet plus long demande de comparer le coût total.",
+        "vous préférez cPanel et acceptez de payer plus que pour Premium la première année, sur 2 et 4 ans et au renouvellement : c'est le cas de GoDaddy Economy."
       ]
     }
   },
@@ -215664,6 +215437,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20: 20% sui nuovi piani Hostinger Premium di 12, 24 o 48 mesi. Confronto con GoDaddy in dollari: hosting, rinnovi e costi aggiuntivi.",
     "publishedAt": "6 novembre 2026",
     "publishedAtISO": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -215819,7 +215593,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E il piano di 1 mese?",
         "paragraphs": [
-          "Il carrello indica il Premium a 12,99 US$ per un mese, con lo stesso prezzo di rinnovo mensile. SONAR20 non si applica al piano di un mese. A tariffa invariata, dodici pagamenti mensili sommano 155,88 US$, circa otto volte l'acquisto di 12 mesi con il codice. Il pagamento mensile può andare bene per un progetto breve o un test, ma costa di più se tieni il sito per un anno."
+          "Il carrello indica il Premium a 12,99 US$ per un mese, con lo stesso prezzo di rinnovo mensile. SONAR20 vale sui cicli di 12, 24 e 48 mesi; sui piani di 1 mese l'accettazione dipende dal piano, quindi controlla la riga \"Coupon applied\" nel carrello prima di pagare. A tariffa invariata, dodici pagamenti mensili sommano 155,88 US$, circa otto volte l'acquisto di 12 mesi con il codice. Il pagamento mensile può andare bene per un progetto breve o un test, ma costa di più se tieni il sito per un anno."
         ]
       },
       {
@@ -215882,7 +215656,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Coupon Hostinger SONAR20: consulta le condizioni",
+            "label": "Vedi il coupon SONAR20 e i piani Hostinger",
             "href": "/it/coupons/hostinger"
           }
         ]
@@ -215895,30 +215669,25 @@ export const reviewsData: unknown[] = [
           "Quattro anni di hosting: il Premium di 48 mesi con SONAR20 costa 76,42 US$. Economy arriva a 359,52 US$ con 36 mesi più un rinnovo annuale alla tariffa indicata. L'offerta di 60 mesi è di poco inferiore, 359,40 US$ in anticipo, ma entrambe costano più di quattro volte il prezzo del Premium a quattro anni. I rinnovi di dominio ed e-mail sono extra.",
           "Se ti serve solo il sito, Starter ha il rinnovo annuale più basso: 71,88 US$, contro 131,88 US$ del Premium. Il Premium con SONAR20 costa comunque meno nei primi quattro anni. Per un progetto più lungo, confronta i pagamenti accumulati sulla durata prevista, con i prezzi di rinnovo disponibili al momento dell'acquisto.",
           "In ogni caso, controlla il prezzo di rinnovo nel carrello prima di pagare: le promozioni cambiano."
-        ]
+        ],
+        "emphasis": "Dai numeri delle tabelle, per un sito che resterà online due anni o più, la scelta è Hostinger Premium con SONAR20, perché il piano di 24 mesi costa 38,21 US$ contro i 155,76 US$ di GoDaddy Economy."
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Qual è il codice sconto Hostinger? Il codice sconto Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inseriscilo nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo viene addebitato a prezzo di listino, senza sconto.",
           "Qual è meglio, Hostinger o GoDaddy? Per i costi di hosting, il Premium con SONAR20 costa meno dell'Economy in uno, due e quattro anni, e il suo rinnovo annuale è più basso. I rinnovi di dominio ed e-mail sono extra. GoDaddy Starter ha il rinnovo annuale più basso, ma costa più del Premium nei primi quattro anni. Trovi altri criteri nella guida su [come scegliere un hosting web](/it/reviews/scegliere-hosting-hostinger).",
           "GoDaddy si rinnova allo stesso prezzo? L'Economy no: nel carrello il piano di 1 anno passa da 83,88 US$ a 143,88 US$ al rinnovo. Lo Starter non ha sconto nel primo anno e si rinnova allo stesso 71,88 US$.",
           "Il coupon Hostinger vale sul rinnovo? No. SONAR20 vale solo per un acquisto nuovo, e il rinnovo si paga al prezzo di listino. Per il rinnovo, vedi la [guida al rinnovo Hostinger](/it/reviews/hostinger-rinnovo-codice-sonar20).",
           "Il Premium della Hostinger include un dominio? Sì, gratis per 1 anno, insieme a 2 caselle e-mail per sito. Dopo quell'anno il dominio si rinnova per conto proprio, al prezzo attuale della Hostinger.",
-          "Posso spostare il sito da GoDaddy a Hostinger? La pagina di aiuto della Hostinger dice che la migrazione gratuita copre un sito di un'altra società sui piani Web, Cloud o Agency. Verifica il tuo piano con il supporto prima di disdire il vecchio.",
-          "Qual è il codice sconto Hostinger? SONAR20 dà il 20% su un acquisto nuovo dei piani Premium di 12, 24 e 48 mesi confrontati qui; non si applica al rinnovo né al Premium di un mese."
-        ]
-      },
-      {
-        "heading": "Chi scrive",
-        "paragraphs": [
-          "Em Casa com Cecília gira su Hostinger, e il suo dominio è registrato lì. Per GoDaddy, questo testo usa solo quello che mostrano la sua pagina internazionale e il carrello in dollari; nessuno del team ha usato il servizio."
+          "Posso spostare il sito da GoDaddy a Hostinger? La pagina di aiuto della Hostinger dice che la migrazione gratuita copre un sito di un'altra società sui piani Web, Cloud o Agency. Verifica il tuo piano con il supporto prima di disdire il vecchio."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Inserisci SONAR20 nel campo coupon del carrello, oppure apri il link, per il 20% su un acquisto nuovo dei piani Premium di 12, 24 o 48 mesi confrontati qui. Non si applica al rinnovo né al Premium di un mese.",
+      "text": "Inserisci SONAR20 nel campo coupon del carrello, oppure apri il link, per il 20% sul primo periodo di un acquisto nuovo idoneo dei piani Premium confrontati qui. Sui piani di 1 mese l'accettazione dipende dal piano: controlla la riga \"Coupon applied\" prima di pagare. Non si applica al rinnovo.",
       "label": "Vedi i piani di hosting con il SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -215948,12 +215717,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Scegli Hostinger Premium se puoi pagare in anticipo 24 o 48 mesi di hosting: con SONAR20 costa meno di Economy in quei confronti, e i rinnovi di dominio ed e-mail sono extra.",
-        "Scegli Hostinger Premium se il progetto richiede un anno di hosting con dominio ed e-mail inclusi: il prezzo di 12 mesi è inferiore a quello di Economy, e anche il rinnovo annuale dell'hosting è più basso."
+        "puoi pagare in anticipo 24 o 48 mesi di hosting: con SONAR20 il Premium costa meno dell'Economy in quei confronti, e i rinnovi di dominio ed e-mail sono extra.",
+        "il progetto richiede un anno di hosting con dominio ed e-mail inclusi: il prezzo di 12 mesi del Premium è inferiore a quello dell'Economy, e anche il rinnovo annuale dell'hosting è più basso."
       ],
       "skipIf": [
-        "Valuta GoDaddy Starter se ti serve solo l'hosting e dai priorità al rinnovo annuale più basso. Costa più del Premium nei primi quattro anni; per una scelta a lungo termine, confronta il costo totale sulla durata prevista.",
-        "Scegli GoDaddy Economy se preferisci cPanel e accetti di pagare più del Premium nel primo anno, in 2 e 4 anni e al rinnovo."
+        "ti serve solo l'hosting e dai priorità al rinnovo annuale più basso: lì vince GoDaddy Starter, ma costa più del Premium nei primi quattro anni; per un progetto più lungo confronta il costo totale.",
+        "preferisci cPanel e accetti di pagare più del Premium nel primo anno, in 2 e 4 anni e al rinnovo: è il caso di GoDaddy Economy."
       ]
     }
   },
@@ -215993,6 +215762,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20: 20% auf neue Hostinger-Premium-Tarife für 12, 24 oder 48 Monate. Hosting und Verlängerung im Vergleich mit GoDaddy, in US-Dollar.",
     "publishedAt": "6. November 2026",
     "publishedAtISO": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -216148,7 +215918,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Und der Tarif über 1 Monat?",
         "paragraphs": [
-          "Der Premium kostet bei monatlicher Zahlung 12,99 US$, und die monatliche Verlängerung liegt beim selben Preis. SONAR20 gilt nicht für den Monatstarif. Bei unverändertem Preis kosten zwölf Monatszahlungen 155,88 US$, etwa das Achtfache des 12-Monats-Tarifs mit dem Code. Monatliche Zahlung eignet sich für ein kurzes Projekt oder einen Test, kostet aber mehr, wenn Sie die Website ein Jahr behalten."
+          "Der Premium kostet bei monatlicher Zahlung 12,99 US$, und die monatliche Verlängerung liegt beim selben Preis. SONAR20 gilt für Laufzeiten von 12, 24 und 48 Monaten; bei Tarifen über 1 Monat hängt die Annahme vom Tarif ab, prüfen Sie deshalb vor der Zahlung die Zeile „Coupon applied“ im Warenkorb. Bei unverändertem Preis kosten zwölf Monatszahlungen 155,88 US$, etwa das Achtfache des 12-Monats-Tarifs mit dem Code. Monatliche Zahlung eignet sich für ein kurzes Projekt oder einen Test, kostet aber mehr, wenn Sie die Website ein Jahr behalten."
         ]
       },
       {
@@ -216211,7 +215981,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Hostinger-Gutschein SONAR20: Bedingungen prüfen",
+            "label": "SONAR20-Gutschein und Hostinger-Tarife ansehen",
             "href": "/de/coupons/hostinger"
           }
         ]
@@ -216224,30 +215994,25 @@ export const reviewsData: unknown[] = [
           "Vier Jahre Hosting: Premium über 48 Monate mit SONAR20 kostet 76,42 US$. Der Economy kommt auf 359,52 US$ bei 36 Monaten plus einer Jahresverlängerung zum angezeigten Preis. Das 60-Monats-Angebot liegt mit 359,40 US$ im Voraus etwas darunter, doch beide Optionen kosten mehr als das Vierfache des Vierjahrespreises von Premium. Verlängerungen von Domain und E-Mail kommen extra.",
           "Wenn Sie nur die Website brauchen: Der Starter hat mit 71,88 US$ die niedrigste jährliche Verlängerung, gegenüber 131,88 US$ beim Premium. Der Premium mit SONAR20 kostet in den ersten vier Jahren trotzdem weniger. Für ein längeres Projekt vergleichen Sie die aufgelaufenen Zahlungen über Ihre geplante Laufzeit mit den Verlängerungspreisen zum Kaufzeitpunkt.",
           "In jedem Fall prüfen Sie den Verlängerungspreis im Warenkorb, bevor Sie zahlen: Aktionen und Preise ändern sich."
-        ]
+        ],
+        "emphasis": "Nach den Zahlen der Tabellen ist für eine Website, die zwei Jahre oder länger online bleibt, Hostinger Premium mit SONAR20 die richtige Wahl, weil der 24-Monats-Tarif 38,21 US$ kostet, GoDaddy Economy dagegen 155,76 US$."
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20 % Rabatt auf die erste Laufzeit eines berechtigten Neukaufs: Geben Sie ihn im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Welcher ist besser, Hostinger oder GoDaddy? Bei den Hosting-Kosten kostet der Premium mit SONAR20 über ein, zwei und vier Jahre weniger als der Economy, und seine jährliche Verlängerung ist niedriger. Verlängerungen von Domain und E-Mail kommen extra. Der Starter von GoDaddy hat die niedrigste jährliche Verlängerung, kostet aber in den ersten vier Jahren mehr als der Premium. Weitere Kriterien finden Sie im [Leitfaden zur Wahl eines Webhosters](/de/reviews/webhoster-waehlen-hostinger).",
           "Verlängert sich GoDaddy zum gleichen Preis? Der Economy nicht: Im Warenkorb steigt der Einjahrestarif bei der Verlängerung von 83,88 US$ auf 143,88 US$. Der Starter hat keinen Rabatt im ersten Jahr und verlängert sich zu denselben 71,88 US$.",
           "Gilt der Hostinger-Gutschein bei der Verlängerung? Nein: Der SONAR20 gilt nur für einen Neukauf, und die Verlängerung wird zum Listenpreis berechnet. Zur Verlängerung siehe den [Verlängerungsleitfaden der Hostinger](/de/reviews/hostinger-verlaengerung-code-sonar20).",
           "Ist im Premium der Hostinger eine Domain enthalten? Ja, ein Jahr gratis, zusammen mit 2 Postfächern pro Website. Danach verlängert sich die Domain selbst, zum aktuellen Preis der Hostinger.",
-          "Kann ich meine Website von GoDaddy zur Hostinger umziehen? Die Hilfeseite der Hostinger sagt, dass die kostenlose Migration eine Website von einem anderen Anbieter auf den Tarifen Web, Cloud oder Agency abdeckt. Prüfen Sie Ihren Tarif mit dem Support, bevor Sie den alten kündigen.",
-          "Wie lautet der Hostinger-Gutscheincode? SONAR20 gibt 20 % Rabatt auf einen Neukauf der hier verglichenen Premium-Tarife über 12, 24 und 48 Monate; er gilt weder für die Verlängerung noch für den Premium-Tarif über einen Monat."
-        ]
-      },
-      {
-        "heading": "Wer schreibt",
-        "paragraphs": [
-          "Em Casa com Cecília läuft bei der Hostinger, und die Domain ist dort registriert. Für GoDaddy stützt sich dieser Text nur auf das, was dessen internationale Seite und der Warenkorb in US-Dollar zeigen; niemand im Team hat den Dienst genutzt."
+          "Kann ich meine Website von GoDaddy zur Hostinger umziehen? Die Hilfeseite der Hostinger sagt, dass die kostenlose Migration eine Website von einem anderen Anbieter auf den Tarifen Web, Cloud oder Agency abdeckt. Prüfen Sie Ihren Tarif mit dem Support, bevor Sie den alten kündigen."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Geben Sie SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % Rabatt auf einen Neukauf der hier verglichenen Premium-Tarife über 12, 24 und 48 Monate. Er gilt weder für die Verlängerung noch für den Premium-Tarif über einen Monat.",
+      "text": "Geben Sie SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % Rabatt auf die erste Laufzeit eines berechtigten Neukaufs der hier verglichenen Premium-Tarife. Bei Tarifen über 1 Monat hängt die Annahme vom Tarif ab: Prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Für die Verlängerung gilt er nicht.",
       "label": "Hosting-Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -216277,12 +216042,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Wählen Sie Hostinger Premium, wenn Sie 24 oder 48 Monate Hosting im Voraus bezahlen können: Mit SONAR20 kostet er in diesen Vergleichen weniger als der Economy; die Verlängerungen von Domain und E-Mail kommen extra.",
-        "Wählen Sie Hostinger Premium, wenn das Projekt ein Jahr Hosting mit Domain und E-Mail braucht: Der 12-Monats-Preis liegt unter dem des Economy. Auch die jährliche Hosting-Verlängerung ist niedriger."
+        "Sie 24 oder 48 Monate Hosting im Voraus bezahlen können: Mit SONAR20 kostet der Premium in diesen Vergleichen weniger als der Economy, und die Verlängerungen von Domain und E-Mail kommen extra.",
+        "das Projekt ein Jahr Hosting mit Domain und E-Mail braucht: Der 12-Monats-Preis des Premium liegt unter dem des Economy, und auch die jährliche Hosting-Verlängerung ist niedriger."
       ],
       "skipIf": [
-        "Prüfen Sie GoDaddy Starter, wenn Sie nur Hosting brauchen und die niedrigste jährliche Verlängerung Vorrang hat. Er kostet in den ersten vier Jahren mehr als der Premium; für eine längere Laufzeit brauchen Sie einen Gesamtkostenvergleich.",
-        "Entscheiden Sie sich für GoDaddy Economy, wenn Sie cPanel bevorzugen und akzeptieren, im ersten Jahr, über 2 und 4 Jahre und bei der Verlängerung mehr als für den Premium zu zahlen."
+        "Sie nur Hosting brauchen und die niedrigste jährliche Verlängerung Vorrang hat: Da liegt GoDaddy Starter vorn, kostet aber in den ersten vier Jahren mehr als der Premium; für eine längere Laufzeit brauchen Sie einen Gesamtkostenvergleich.",
+        "Sie cPanel bevorzugen und akzeptieren, im ersten Jahr, über 2 und 4 Jahre und bei der Verlängerung mehr als für den Premium zu zahlen: Dann passt GoDaddy Economy."
       ]
     }
   },
@@ -216322,6 +216087,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20でHostingerの12・24・48か月プランが新規購入なら20%割引に。1年・2年・4年の料金と更新料を、GoDaddyと米ドルで比較します。",
     "publishedAt": "2026年11月6日",
     "publishedAtISO": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -216476,7 +216242,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1か月プランはどうですか？",
         "paragraphs": [
-          "HostingerはPremiumを月額US$12.99でも販売しています。SONAR20は1か月プランには適用されません。この料金が12か月続くとUS$155.88で、SONAR20を使った12か月一括払いUS$19.10の約8.16倍です。利用期間が短い場合や、年間料金の先払いを避けたい場合に向く選択肢です。"
+          "HostingerはPremiumを月額US$12.99でも販売しています。SONAR20は12・24・48か月のプランに適用されます。1か月プランは、プランによって適用されるかどうかが変わるため、支払う前にカートの「Coupon applied」の行を確認してください。この料金が12か月続くとUS$155.88で、SONAR20を使った12か月一括払いUS$19.10の約8.16倍です。利用期間が短い場合や、年間料金の先払いを避けたい場合に向く選択肢です。"
         ]
       },
       {
@@ -216539,7 +216305,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "HostingerクーポンSONAR20の適用条件を確認",
+            "label": "SONAR20クーポンとHostingerのプランを見る",
             "href": "/ja/coupons/hostinger"
           }
         ]
@@ -216552,30 +216318,25 @@ export const reviewsData: unknown[] = [
           "4年使う場合：Premiumの48か月一括払いはSONAR20適用後でUS$76.42です。Economyは36か月分に現在の年間更新料を加えるとUS$359.52です。60か月一括払いはUS$359.40と少し安いものの、5年契約になります。ドメインとメールの初年度以降の料金は別です。",
           "サイトだけを長く使う場合：Starterは年間更新料がUS$71.88と最も低いものの、4年間のホスティング料金はSONAR20を使ったPremiumよりUS$211.10高くなります。長く使う場合は、利用予定期間の支払総額を比べてください。",
           "支払う前に、契約期間、更新料、ドメイン・メールの料金、追加商品を確認してください。表示価格やプロモーションは変わることがあります。"
-        ]
+        ],
+        "emphasis": "表の数字で見ると、サイトを2年以上使うなら、SONAR20を使ったHostinger Premiumが合います。24か月プランがUS$38.21で、GoDaddy EconomyのUS$155.76より安いからです。"
       },
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostingerのクーポンコードは何ですか？ HostingerのクーポンコードはSONAR20で、対象となる新規購入の最初の期間が20%割引になります。カートの「Have a coupon code?」欄に入力し、支払う前に「Coupon applied」の行を確認してください。更新は定価で請求され、割引はありません。",
           "HostingerとGoDaddy、どちらがいいですか？ 米ドル価格で、更新料が続くと仮定すると、SONAR20適用後のPremiumは1年・2年・4年のホスティング料金でEconomyより安く、年間更新料もPremiumのほうが低くなります。Starterは年間更新料が最も低くても、4年間のホスティング料金はPremiumより高くなります。ドメインとメールの初年度以降の料金は別に比較してください。価格以外の判断基準は[レンタルサーバーの選び方](/ja/reviews/choose-web-host-hostinger-ja)にあります。",
           "GoDaddyは更新も同じ価格ですか？ Economyは違います。カートでは1年プランが、1年目の後に定価に戻り、US$83.88からUS$143.88になると表示されています。Starterには初年度割引がなく、同じUS$71.88で更新されます。",
           "Hostingerのクーポンは更新にも使えますか？ いいえ。SONAR20は新規購入にだけ適用され、更新は通常価格で請求されます。更新については[Hostingerの更新ガイド](/ja/reviews/hostinger-renewal-sonar20-ja)をご覧ください。",
           "Hostinger Premiumにはドメインが付いていますか？ はい。1年間無料で、サイトごとに2つのメールボックスも付きます。その後、ドメインは、Hostingerの現在の価格で自動更新されます。",
-          "GoDaddyのサイトをHostingerに移せますか？ Hostingerのヘルプページによると、無料の移行は、他社のWeb、Cloud、Agencyプランのサイトに対応しています。古いプランを解約する前に、サポートで自分のプランを確認してください。",
-          "Hostingerのクーポンコードは何ですか？ SONAR20は、比較した12・24・48か月プランの新規購入を20%割引にします。更新とPremiumの1か月プランには適用されません。"
-        ]
-      },
-      {
-        "heading": "執筆者",
-        "paragraphs": [
-          "Em Casa com CecíliaはHostingerで運営しており、ドメインもHostingerに登録されています。GoDaddyについては、この文章は国際ページとカートに米ドルで表示された内容だけを使っています。チームの誰もGoDaddyを使ったことはありません。"
+          "GoDaddyのサイトをHostingerに移せますか？ Hostingerのヘルプページによると、無料の移行は、他社のWeb、Cloud、Agencyプランのサイトに対応しています。古いプランを解約する前に、サポートで自分のプランを確認してください。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄にSONAR20を入力するか、このリンクから進んでください。比較した12・24・48か月プランの新規購入が20%割引になります。このコードは更新とPremiumの1か月プランには適用されません。",
+      "text": "カートのクーポン欄にSONAR20を入力するか、このリンクから進んでください。比較したPremiumプランの対象となる新規購入の最初の期間が20%割引になります。1か月プランはプランによって適用の可否が変わるため、支払う前に「Coupon applied」の行を確認してください。更新には適用されません。",
       "label": "SONAR20で料金プランを見る",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -216606,10 +216367,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "2年分または4年分のホスティングを一括で先払いできるなら、SONAR20適用後のPremiumはこの比較でEconomyより安くなります。",
-        "1年のプロジェクトでドメインとメールが必要なら、Premiumが価格面で有利です。SONAR20適用後のホスティング料金はUS$19.10です。"
+        "1年のプロジェクトでドメインとメールが必要なら、Premiumが価格面で有利です。"
       ],
       "skipIf": [
-        "ドメインとメールが不要で、長く使う予定ならStarterも比較対象です。Starterは年間更新料がUS$71.88と最も低いものの、4年間のホスティング料金はPremiumよりUS$211.10高くなります。",
+        "ドメインとメールが不要で、長く使う予定ならStarterも比較対象です。年間更新料は最も低いものの、4年間のホスティング料金はPremiumより高くなります。",
         "cPanelが必須なら、GoDaddy StarterとEconomyを比較し、初年度のドメインとメールの無料特典が必要かで選んでください。"
       ]
     }
@@ -216650,6 +216411,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20은 호스팅어의 할인 대상 신규 구매에 20% 할인을 제공합니다. 미국 달러 기준 1년·2년·4년 호스팅 비용과 갱신가를 GoDaddy와 비교하세요.",
     "publishedAt": "2026년 11월 6일",
     "publishedAtISO": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -216805,7 +216567,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1개월 플랜은 어떤가요?",
         "paragraphs": [
-          "Premium 1개월 요금은 US$ 12.99이며, 갱신도 같은 월 요금입니다. SONAR20은 1개월 플랜에는 적용되지 않습니다. 요금이 그대로라면 12개월을 월 단위로 내면 US$ 155.88로, 코드를 적용한 12개월 선결제의 약 8배입니다. 월 단위 결제는 짧은 프로젝트나 테스트에는 맞지만, 사이트를 1년 유지하면 더 많이 듭니다."
+          "Premium 1개월 요금은 US$ 12.99이며, 갱신도 같은 월 요금입니다. SONAR20은 12·24·48개월 주기에 적용됩니다. 1개월 플랜은 플랜에 따라 적용 여부가 달라지므로, 결제하기 전에 장바구니의 \"Coupon applied\" 줄을 확인하세요. 요금이 그대로라면 12개월을 월 단위로 내면 US$ 155.88로, 코드를 적용한 12개월 선결제의 약 8배입니다. 월 단위 결제는 짧은 프로젝트나 테스트에는 맞지만, 사이트를 1년 유지하면 더 많이 듭니다."
         ]
       },
       {
@@ -216868,7 +216630,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "호스팅어 쿠폰 SONAR20 적용 조건 확인",
+            "label": "SONAR20 쿠폰과 호스팅어 플랜 보기",
             "href": "/ko/coupons/hostinger"
           }
         ]
@@ -216881,30 +216643,25 @@ export const reviewsData: unknown[] = [
           "4년 호스팅: SONAR20을 적용한 Premium 48개월은 US$ 76.42입니다. Economy는 36개월에 안내된 연간 갱신가로 1회 갱신을 더해 US$ 359.52로 계산됩니다. 60개월 선결제는 US$ 359.40로 조금 낮지만, 두 방법 모두 Premium 4년 요금의 4배를 넘습니다. 도메인과 이메일 갱신비는 별도입니다.",
           "사이트만 필요하다면 Starter의 연간 갱신가가 US$ 71.88로 Premium의 US$ 131.88보다 낮습니다. 그래도 첫 4년 동안은 SONAR20을 적용한 Premium이 더 저렴합니다. 더 오래 운영한다면 예정한 기간의 누적 결제액을 구매 시점의 갱신가로 비교하세요.",
           "어떤 경우든 결제 전에 장바구니에서 갱신가를 확인하세요. 프로모션은 바뀔 수 있습니다."
-        ]
+        ],
+        "emphasis": "표의 숫자로 보면 사이트를 2년 이상 운영한다면 SONAR20을 적용한 호스팅어 Premium이 맞습니다. 24개월 요금이 US$ 38.21로, GoDaddy Economy의 US$ 155.76보다 낮기 때문입니다."
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "호스팅어 쿠폰 코드는 무엇인가요? 호스팅어 쿠폰 코드는 SONAR20이며, 대상이 되는 신규 구매의 첫 기간에 20% 할인이 적용됩니다. 장바구니의 \"Have a coupon code?\" 입력란에 코드를 넣고, 결제하기 전에 \"Coupon applied\" 줄을 확인하세요. 갱신은 정가로 청구되며 할인이 없습니다.",
           "호스팅어와 GoDaddy 중 어느 쪽이 나은가요? 호스팅 비용만 보면 SONAR20을 적용한 Premium이 1년·2년·4년 모두 Economy보다 저렴하고, 연간 갱신가도 더 낮습니다. 도메인과 이메일 갱신비는 별도입니다. GoDaddy Starter는 연간 갱신가가 가장 낮지만 첫 4년 동안은 Premium보다 비쌉니다. 다른 기준은 [웹 호스트 고르는 법](/ko/reviews/choose-web-host-hostinger-ko)에 있습니다.",
           "GoDaddy는 갱신도 같은 가격인가요? Economy는 아닙니다. 장바구니에서 1년 플랜은 첫 해 후 정가로 돌아가 US$ 83.88에서 US$ 143.88이 됩니다. Starter는 첫 해 할인이 없어서 같은 US$ 71.88로 갱신됩니다.",
           "호스팅어 쿠폰은 갱신에도 적용되나요? 아니요. SONAR20은 신규 구매에만 적용되며, 갱신은 정가로 청구됩니다. 갱신은 [호스팅어 갱신 가이드](/ko/reviews/hostinger-renewal-sonar20-ko)를 보세요.",
           "호스팅어 Premium에는 도메인이 포함되나요? 네. 도메인과 사이트당 메일함 2개가 첫 1년 무료이며, 그 뒤에는 각각 따로 갱신됩니다.",
-          "GoDaddy 사이트를 호스팅어로 옮길 수 있나요? 호스팅어 도움말 페이지에 따르면 무료 이전은 다른 회사의 Web, Cloud, Agency 플랜 사이트에 적용됩니다. 기존 플랜을 해지하기 전에 지원팀에서 본인의 플랜을 확인하세요.",
-          "호스팅어 할인 코드는 무엇인가요? SONAR20은 여기서 비교한 12·24·48개월 Premium 플랜의 신규 구매에 20% 할인을 제공합니다. 갱신과 1개월 Premium 플랜에는 적용되지 않습니다."
-        ]
-      },
-      {
-        "heading": "작성자 소개",
-        "paragraphs": [
-          "Em Casa com Cecília는 호스팅어에서 운영되며, 도메인도 호스팅어에 등록되어 있습니다. GoDaddy에 대해서는 이 글이 국제 사이트와 장바구니에 미국 달러로 표시된 내용만 사용했습니다. 팀 중 누구도 GoDaddy를 써 본 적이 없습니다."
+          "GoDaddy 사이트를 호스팅어로 옮길 수 있나요? 호스팅어 도움말 페이지에 따르면 무료 이전은 다른 회사의 Web, Cloud, Agency 플랜 사이트에 적용됩니다. 기존 플랜을 해지하기 전에 지원팀에서 본인의 플랜을 확인하세요."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "국제 사이트 장바구니의 쿠폰 입력란에 SONAR20을 입력하거나 이 링크로 들어가세요. 여기서 비교한 12·24·48개월 Premium 플랜의 신규 구매에 20% 할인이 적용됩니다. 갱신과 1개월 Premium 플랜에는 적용되지 않습니다.",
+      "text": "국제 사이트 장바구니의 쿠폰 입력란에 SONAR20을 입력하거나 이 링크로 들어가세요. 여기서 비교한 Premium 플랜의 대상 신규 구매 첫 기간에 20% 할인이 적용됩니다. 1개월 플랜은 플랜에 따라 적용 여부가 달라지므로 결제 전에 \"Coupon applied\" 줄을 확인하세요. 갱신에는 적용되지 않습니다.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -216979,6 +216736,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 让 Hostinger Premium 的 12、24、48 个月新购买享 20% 折扣。对比 GoDaddy 的主机费用，并列出各套餐的续费价格。",
     "publishedAt": "2026年11月6日",
     "publishedAtISO": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -217134,7 +216892,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "按月套餐呢？",
         "paragraphs": [
-          "购物车中，Premium 一个月的价格为 US$ 12.99，续费的月价相同。SONAR20 不适用于一个月套餐。价格不变时，连续付 12 个月共 US$ 155.88，约为用优惠码一次购买 12 个月套餐的 8 倍。按月付费适合短期项目或测试，但网站要用一年的话成本更高。"
+          "购物车中，Premium 一个月的价格为 US$ 12.99，续费的月价相同。SONAR20 适用于 12、24 和 48 个月的周期；1 个月套餐是否接受要看具体套餐，所以付款前请先确认购物车里的“Coupon applied”一行。价格不变时，连续付 12 个月共 US$ 155.88，约为用优惠码一次购买 12 个月套餐的 8 倍。按月付费适合短期项目或测试，但网站要用一年的话成本更高。"
         ]
       },
       {
@@ -217197,7 +216955,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "到 Hostinger 优惠码页面查看 SONAR20 的条件",
+            "label": "查看 SONAR20 优惠码和 Hostinger 套餐",
             "href": "/zh-hans/coupons/hostinger"
           }
         ]
@@ -217210,30 +216968,25 @@ export const reviewsData: unknown[] = [
           "四年的主机：Premium 48 个月，用 SONAR20 为 US$ 76.42。Economy 36 个月加一次按报价的年度续费，推算为 US$ 359.52；其 60 个月方案一次付清 US$ 359.40，略低一点，但两者都超过 Premium 四年价格的四倍。域名和邮箱的续费另计。",
           "只要网站的话，Starter 的年度续费最低：US$ 71.88，Premium 为 US$ 131.88。前四年用 SONAR20 的 Premium 总价仍然更低。项目更长的话，按预计使用期限比较累计付款，续费价格以购买时的报价为准。",
           "无论哪种情况，付款前都先在购物车确认续费价：促销会变动。"
-        ]
+        ],
+        "emphasis": "按表格里的数字，网站要用两年以上的话，选使用 SONAR20 的 Hostinger Premium，因为它的 24 个月价格是 US$ 38.21，而 GoDaddy Economy 是 US$ 155.76。"
       },
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，对符合条件的新购买首期享 20% 折扣：在购物车的“Have a coupon code?”栏输入，付款前确认“Coupon applied”一行。续费按标价收费，没有折扣。",
           "Hostinger 和 GoDaddy 哪个更好？就主机费用而言，使用 SONAR20 的 Premium 在一年、两年和四年都比 Economy 便宜，年度续费也更低。域名和邮箱的续费另计。GoDaddy Starter 的年度续费最低，但前四年比 Premium 贵。更多选择标准见[如何选择网站主机](/zh-hans/reviews/choose-web-host-hostinger-zh-hans)。",
           "GoDaddy 续费价会一样吗？Economy 不一样：购物车中，一年套餐在第一年后会从 US$ 83.88 回到标价 US$ 143.88。Starter 没有首年折扣，续费价同样是 US$ 71.88。",
           "Hostinger 优惠码能用在续费上吗？不能。SONAR20 只适用于新购买，续费按原价计算。续费请看 [Hostinger 续费指南](/zh-hans/reviews/hostinger-renewal-sonar20-zh-hans)。",
           "Hostinger Premium 附域名吗？附，域名和每个网站 2 个邮箱第一年免费。之后各自单独续费。",
-          "可以把网站从 GoDaddy 迁到 Hostinger 吗？Hostinger 的说明页写道，免费迁移涵盖来自其他公司的 Web、Cloud 或 Agency 套餐网站。取消旧套餐前，请先向客服确认你的套餐。",
-          "Hostinger 的优惠码是什么？SONAR20 为本文比较的 12、24、48 个月 Premium 新购买提供 20% 折扣；不适用于续费，也不适用于一个月的 Premium 套餐。"
-        ]
-      },
-      {
-        "heading": "写这篇文章的人",
-        "paragraphs": [
-          "Em Casa com Cecília 运行在 Hostinger 上，域名也注册在 Hostinger。关于 GoDaddy，本文只采用其国际站页面与购物车中以美元显示的内容；编辑团队没有人用过这项服务。"
+          "可以把网站从 GoDaddy 迁到 Hostinger 吗？Hostinger 的说明页写道，免费迁移涵盖来自其他公司的 Web、Cloud 或 Agency 套餐网站。取消旧套餐前，请先向客服确认你的套餐。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接：本文比较的 12、24 或 48 个月 Premium 新购买享 20% 折扣。不适用于续费，也不适用于一个月的 Premium 套餐。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接：本文比较的 Premium 套餐符合条件的新购买首期享 20% 折扣。1 个月套餐是否接受要看具体套餐，付款前请确认“Coupon applied”一行。不适用于续费。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -217308,6 +217061,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 為 Hostinger 符合條件的新購買提供首期 20% 折扣。依國際站美元報價，比較 Premium 與 GoDaddy 的 1、2、4 年主機費及續訂價。",
     "publishedAt": "2026年11月6日",
     "publishedAtISO": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -217463,7 +217217,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "按月方案呢？",
         "paragraphs": [
-          "Hostinger Premium 的月繳方案為每月 US$ 12.99，續訂也是同樣的月費。SONAR20 不適用於一個月方案。月費不變時，連續使用 12 個月共 US$ 155.88，約為使用優惠碼的 12 個月預付方案的 8 倍。月繳適合短期專案或試用，但用滿一年就更貴。"
+          "Hostinger Premium 的月繳方案為每月 US$ 12.99，續訂也是同樣的月費。SONAR20 適用於 12、24 和 48 個月的週期；1 個月方案是否接受要看具體方案，所以付款前請先確認購物車裡的「Coupon applied」那一行。月費不變時，連續使用 12 個月共 US$ 155.88，約為使用優惠碼的 12 個月預付方案的 8 倍。月繳適合短期專案或試用，但用滿一年就更貴。"
         ]
       },
       {
@@ -217526,7 +217280,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "查看 SONAR20 的適用條件與續訂規則",
+            "label": "查看 SONAR20 優惠碼和 Hostinger 方案",
             "href": "/zh-hant/coupons/hostinger"
           }
         ]
@@ -217539,30 +217293,25 @@ export const reviewsData: unknown[] = [
           "使用四年：Premium 48 個月使用 SONAR20 的主機費為 US$ 76.42。若續訂價不變，Economy 的 36 個月加一次年度續訂試算為 US$ 359.52；若能接受預付五年，也可比較 US$ 359.40 的 60 個月方案。網域和電子郵件在第一年後另計。",
           "使用超過四年：Starter 的年度續訂報價為 US$ 71.88，比 Premium 的 US$ 131.88 少 US$ 60。若 Starter 每年維持 US$ 71.88，前四年的主機費為 US$ 287.52，比 Premium 預付 48 個月多 US$ 211.10。續訂較低不代表第五年起總支出就較低，應把預計使用年數的首期與續訂費加總。",
           "付款前確認所選期間、首期付款總額、續訂價，以及免費期後仍需要的網域和電子郵件費用。促銷與續訂報價可能變動。"
-        ]
+        ],
+        "emphasis": "依表格裡的數字，網站要用兩年以上的話，選使用 SONAR20 的 Hostinger Premium，因為它的 24 個月價格是 US$ 38.21，而 GoDaddy Economy 是 US$ 155.76。"
       },
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合條件的新購買首期享 20% 折扣：在購物車的「Have a coupon code?」欄位輸入，付款前確認「Coupon applied」那一行。續訂按定價收費，沒有折扣。",
           "Hostinger 和 GoDaddy 哪個比較好？以美元計算，Premium 使用 SONAR20 的 12、24 個月主機費低於 Economy 同期方案；48 個月主機費也低於 Economy 的 36 個月加一次年度續訂試算，後者假設續訂價不變。Premium 的年度續訂報價低於 Economy。Starter 的年度續訂價更低，但首期較貴，不能據此判定長期總支出最低。其他選擇標準見[如何選擇網站主機](/zh-hant/reviews/choose-web-host-hostinger-zh-hant)。",
           "GoDaddy 續訂價會一樣嗎？Economy 不一樣：購物車中，一年方案在第一年後會從 US$ 83.88 回到標價 US$ 143.88。Starter 沒有首年折扣，續訂價同樣是 US$ 71.88。",
           "Hostinger 優惠碼能用在續訂上嗎？不能。SONAR20 只適用於新購買，續訂按原價計算。續訂請看 [Hostinger 續訂指南](/zh-hant/reviews/hostinger-renewal-sonar20-zh-hant)。",
           "Hostinger Premium 附網域嗎？附，一年免費網域，另有每個網站 2 個信箱，同樣免費一年。一年後各自單獨續訂，需另付費。",
-          "可以把網站從 GoDaddy 搬到 Hostinger 嗎？Hostinger 的說明頁寫道，免費遷移涵蓋來自其他公司的 Web、Cloud 或 Agency 方案網站。取消舊方案前，請先向客服確認你的方案。",
-          "Hostinger 的優惠碼是什麼？SONAR20 為新購買提供 20% 折扣，適用於本文比較的 12、24、48 個月 Premium 方案；不適用於續訂，也不適用於一個月的 Premium 方案。"
-        ]
-      },
-      {
-        "heading": "寫這篇文章的人",
-        "paragraphs": [
-          "Em Casa com Cecília 運行在 Hostinger 上，網域也註冊在 Hostinger。關於 GoDaddy，本文只採用其國際站頁面與購物車中以美元顯示的內容；編輯團隊沒有人用過這項服務。"
+          "可以把網站從 GoDaddy 搬到 Hostinger 嗎？Hostinger 的說明頁寫道，免費遷移涵蓋來自其他公司的 Web、Cloud 或 Agency 方案網站。取消舊方案前，請先向客服確認你的方案。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從連結進入：新購買的 12、24 或 48 個月 Premium 方案可享 20% 折扣。不適用於續訂，也不適用於一個月的 Premium 方案。",
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從連結進入：本文比較的 Premium 方案符合條件的新購買首期可享 20% 折扣。1 個月方案是否接受要看具體方案，付款前請確認「Coupon applied」那一行。不適用於續訂。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -232213,6 +231962,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código SONAR20 dá 20% OFF na Hostinger em compra nova. Hostinger ou Locaweb: preço, renovação, nota fiscal e para quem cada uma compensa.",
     "publishedAt": "10 de novembro de 2026",
     "publishedAtISO": "2026-11-10",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/hostinger-ou-locaweb-capa-v2.webp",
@@ -232221,19 +231971,19 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "decision": {
       "takeIf": [
-        "Leve a Hostinger com o SONAR20 se aceita pagar 48 meses e quer o menor valor de hospedagem agora: ela custa menos nos três pares comparados.",
-        "Leve o Premium da Hostinger se até 3 sites bastam e você já contou o que vai pagar de domínio e e-mail depois do primeiro ano."
+        "aceita pagar 48 meses e quer o menor valor de hospedagem agora com o SONAR20 da Hostinger: ela custa menos nos três pares comparados.",
+        "até 3 sites bastam e você já contou o que vai pagar de domínio e e-mail depois do primeiro ano: o Premium da Hostinger atende."
       ],
       "skipIf": [
-        "Prefira a Locaweb se precisa de nota fiscal brasileira: ela emite, e a Hostinger informa que esse documento não está disponível.",
-        "Prefira o Go da Locaweb se ainda precisa de domínio e e-mail e quer os dois no plano de entrada: o Single da Hostinger não traz nenhum.",
-        "Compare outros planos se precisa de mais de 3 sites: o Premium não comporta esse número."
+        "precisa de nota fiscal brasileira: a Locaweb emite, e a Hostinger informa que esse documento não está disponível.",
+        "ainda precisa de domínio e e-mail e quer os dois no plano de entrada: o Go da Locaweb traz os dois, e o Single da Hostinger não traz nenhum.",
+        "precisa de mais de 3 sites: o Premium não comporta esse número, então compare outros planos."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use SONAR20 no campo de cupom do carrinho ou entre pelo link: 20% na compra nova dos planos de 12, 24 e 48 meses. O código não vale na renovação, em domínio nem nos planos de um mês do Single e do Premium.",
+      "text": "Use SONAR20 no campo de cupom do carrinho ou entre pelo link: 20% na compra nova dos planos de 12, 24 e 48 meses. No ciclo de 1 mês a aceitação depende do plano; confira a linha \"Cupom aplicado\" antes de pagar. O código não vale na renovação nem em domínio.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -232350,7 +232100,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "cupom Hostinger",
+            "label": "Ver cupom SONAR20 e planos da Hostinger",
             "href": "/cupons/hostinger"
           }
         ]
@@ -232506,6 +232256,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
           "Qual é melhor, Hostinger ou Locaweb? Depende do que pesa para você. A Hostinger com o SONAR20 custa menos no plano de 48 meses, e a Locaweb renova mais barato, emite nota fiscal brasileira e traz domínio e e-mail no Go.",
           "A Hostinger tem servidor no Brasil? Sim, nos planos web e cloud. A localização é escolhida ao configurar o plano.",
           "A Hostinger emite nota fiscal? A ajuda dela diz que a nota fiscal brasileira não está disponível. O cliente baixa uma fatura em PDF como comprovante de compra.",
@@ -304829,7 +304580,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "أصبح Hostinger Horizons اليوم منشئ الذكاء الاصطناعي. هل يستحق الشراء أم تختار WordPress؟ جدول حسب نوع المشروع، ومقارنة مع Wix وLovable، وأرصدة الذكاء الاصطناعي.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -305001,24 +304752,19 @@ export const reviewsData: unknown[] = [
           "**يستحق الشراء** إن كنت تريد موقعًا من بضع صفحات، أو معرض أعمال، أو متجرًا صغيرًا، أو تطبيق ويب بسيطًا، ولا تريد أن تبرمج أو ترعى إضافات. النسخة الأولى تأتي من الوصف، والوضع دون ذكاء اصطناعي يتيح لك التعديل دون إنفاق أرصدة. ابدأ بالتجربة المجانية؛ فإن أعجبتك النتيجة فخطة Premium تغطي موقعًا بسيطًا وUnlimited تغطي متجرًا.",
           "**ابقَ مع WordPress** إن كان المشروع يعتمد على إضافات، أو على قالب خاص بك، أو على شخص سيصون الموقع، أو إن أردت نقل كل شيء إلى استضافة أخرى دون إعادة عمل. خطة Hostinger واحدة في الحالتين، فالاختيار يخص الأداة فقط.",
           "**إن ترددت فجرّب منشئ الذكاء الاصطناعي قبل أن تدفع.** تحصل على 5 أرصدة مجانية دون بطاقة، تكفي لترى هل يفهم الذكاء الاصطناعي ما تريد. وإن لم يفهم فـ WordPress ما زال موجودًا."
-        ]
+        ],
+        "emphasis": "لمن يريد موقعًا أو تطبيق ويب بسيطًا دون برمجة، الخيار هو منشئ الذكاء الاصطناعي على خطة Premium، لأنها تغطي هذا المشروع ولأن الوضع دون ذكاء اصطناعي يتيح التعديل دون استهلاك أرصدة."
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما هو كوبون Hostinger؟ كوبون Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة: أدخل الكود في حقل \"Have a coupon code?\" بالسلة وتحقق من سطر \"Coupon applied\" قبل الدفع. يُحاسَب التجديد بسعر القائمة دون خصم.",
           "هل ما زال Hostinger Horizons موجودًا؟ موجود باسم آخر. في عام 2026 اندمج Horizons مع منشئ المواقع من Hostinger وصار منشئ الذكاء الاصطناعي (Hostinger AI Builder)، بوضع للسحب والإفلات ووضع للبناء عبر المحادثة. والعنوان القديم يحوّل إلى الصفحة الجديدة.",
           "هل يبني منشئ الذكاء الاصطناعي من Hostinger الموقع بنفسه؟ يبني النسخة الأولى انطلاقًا من وصفك بحسب الصفحة. أما المحتوى والصور والقرارات التجارية فتبقى عليك، وكل طلب في وضع الذكاء الاصطناعي يستهلك أرصدة.",
           "هل تحتاج إلى معرفة البرمجة لاستخدام منشئ الذكاء الاصطناعي؟ لا. تقول الصفحة إنه لا يتطلب معرفة تقنية في أي من الوضعين. ولمن يبرمج، يتضمن وضع الذكاء الاصطناعي محرر شيفرة.",
           "هل يمكن الانتقال من منشئ الذكاء الاصطناعي إلى استضافة أخرى؟ تقول الصفحة إن الشيفرة المصدرية قابلة للتصدير والاستضافة في مكان آخر. أما الواجهة الخلفية المدمجة، بقاعدة البيانات وتسجيل الدخول، فتبقى في Hostinger، ولذلك يحتاج التطبيق إلى إعادة إعداد خارجها.",
           "هل منشئ الذكاء الاصطناعي جيد لمتجر إلكتروني؟ لمتجر صغير نعم: المتجر الإلكتروني متاح في خطتي Unlimited وCloud Startup كإضافة مدفوعة. أما لمتجر كبير بقواعد شحن ودفع فيمنح WordPress مع WooCommerce تحكمًا أكبر.",
-          "هل يوجد كوبون لمنشئ الذكاء الاصطناعي من Hostinger؟ استخدم SONAR20 للحصول على خصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة. تحقق من الاشتراك والخدمات المضمنة في السلة؛ تسجيل النطاقات وتجديدها مستثنيان.",
           "هل يستطيع عملاء Hostinger الحاليون استخدام SONAR20؟ نعم، في عملية شراء جديدة مؤهلة بالحساب نفسه، وليس عند تجديد الخدمة الحالية. يمنح خصم 20% على الفترة الأولى؛ وتسجيل النطاقات مستثنى أيضًا. تحقق من إجمالي السلة."
-        ]
-      },
-      {
-        "heading": "من يكتب",
-        "paragraphs": [
-          "يعمل موقع Em Casa com Cecília على استضافة Hostinger المُدارة، كتطبيق ويب بـ Node.js، والنطاق مسجّل لدى Hostinger منذ عام 2024. لم يستخدم أحد في الفريق منشئ الذكاء الاصطناعي ولا Horizons: يجمع هذا النص ما تقوله صفحة المنتج ووثائق WordPress والصفحات العامة لـ Wix وLovable."
         ]
       }
     ],
@@ -305046,14 +304792,14 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "اختر منشئ الذكاء الاصطناعي إن أردت موقعًا من بضع صفحات، أو معرض أعمال، أو متجرًا صغيرًا، أو تطبيق ويب بسيطًا دون برمجة.",
-        "اخترْه إن أردت الاستضافة والنطاق والبريد في خطة واحدة ولا مانع لديك أن يبني الذكاء الاصطناعي النسخة الأولى.",
-        "اخترْه إن كنت ستبني الموقع مرة واحدة وتعدّل النصوص والصور في محرر الوضع دون ذكاء اصطناعي، وهو لا يستهلك أرصدة."
+        "أردت موقعًا من بضع صفحات، أو معرض أعمال، أو متجرًا صغيرًا، أو تطبيق ويب بسيطًا دون برمجة.",
+        "أردت الاستضافة والنطاق والبريد في خطة واحدة ولا مانع لديك أن يبني الذكاء الاصطناعي النسخة الأولى.",
+        "كنت ستبني الموقع مرة واحدة وتعدّل النصوص والصور في محرر الوضع دون ذكاء اصطناعي، وهو لا يستهلك أرصدة."
       ],
       "skipIf": [
-        "تجاوزه وابقَ مع WordPress إن كان المشروع يعتمد على إضافة بعينها أو على قالب تملكه أصلًا.",
-        "تجاوزه إن كان شخص آخر أو وكالة ستصون الموقع: فـ WordPress هو المعيار في السوق.",
-        "تجاوزه إن أردت نقل كل شيء إلى استضافة أخرى دون إعادة عمل، أو إن كنت ستطلب من الذكاء الاصطناعي تعديلات كل أسبوع وكل طلب يستهلك أرصدة."
+        "كان المشروع يعتمد على إضافة بعينها أو على قالب تملكه أصلًا: ابقَ مع WordPress.",
+        "كان شخص آخر أو وكالة ستصون الموقع: فـ WordPress هو المعيار في السوق.",
+        "أردت نقل كل شيء إلى استضافة أخرى دون إعادة عمل، أو كنت ستطلب من الذكاء الاصطناعي تعديلات كل أسبوع وكل طلب يستهلك أرصدة."
       ]
     }
   },
@@ -305586,7 +305332,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "هل تشتري نطاقًا من Hostinger أم تسجله في مكان آخر وتربطه أم تنقله؟ قارن التجديد والتحكم والأهلية وأقفال النقل قبل الدفع.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -305688,7 +305434,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**التسجيل والوصول:** تحقق من الاسم الذي سيظهر في التسجيل ومن يتحكم في حساب الإدارة. استخدم بريد استرداد تتحكم فيه. وإن كان شخص أو وكالة سيتولى العمل فاتفقوا على التسجيل والوصول قبل الشراء؛ فهما ليسا الشيء نفسه.",
           "**التجديد:** توصي Hostinger بإبقاء التجديد التلقائي مفعّلًا. فالنطاق المنتهي يُسقط الموقع والبريد. وتجديد النطاق غير قابل للاسترداد، فلا بد أن تكون البطاقة في الحساب محدّثة.",
-          "**استرداد التسجيل:** لا يمكن استرداد تسجيل جديد إلا خلال 96 ساعة، وفي الامتدادات التي تجيز الاسترداد فقط (كثير من امتدادات الدول لا تجيزه). وفي .com.br و.net.br و.br تكون المهلة 168 ساعة (7 أيام). وبعدها يبقى النطاق ملكك حتى نهاية المدة المدفوعة، دون استرداد."
+          "**استرداد التسجيل:** لا يمكن استرداد تسجيل جديد إلا خلال 96 ساعة، وفي الامتدادات التي تجيز الاسترداد فقط (كثير من امتدادات الدول لا تجيزه). وبعدها يبقى النطاق ملكك حتى نهاية المدة المدفوعة، دون استرداد."
         ]
       },
       {
@@ -305709,27 +305455,22 @@ export const reviewsData: unknown[] = [
           "**كنت سأنقل التسجيل** فقط بعد التحقق من أهلية الامتداد والأقفال والتكلفة وأثر ذلك على تاريخ الانتهاء. قارن الشروط كاملة بما تدفعه الآن؛ فالسنة المضمّنة لا تجعل كل نقل توفيرًا.",
           "وإن كان السؤال ببساطة أين تستضيف الموقع فقارن أولًا الربط دون نقل. خطّط لتغييرات DNS بدل أن تفترض أن أيًّا من المسارين يضمن خدمة دون انقطاع."
         ],
-        "emphasis": "في روتيني أنا، كنت سأفضّل التسجيل والاستضافة في لوحة واحدة إن ناسب التجديد والتحكم في النطاق احتياجاتي. هذا تفضيل إداري، وليس ضمانًا لسعر أقل."
+        "emphasis": "وفق قواعد كل طريق، من يملك نطاقًا لدى جهة أخرى فالخيار هو ربط DNS دون نقل، لأن الموقع يعمل على Hostinger دون المساس بالتسجيل؛ ولا يستحق الشراء أو النقل إلا بعد مراجعة سعر التجديد وأهلية الامتداد."
       },
       {
         "heading": "كوبون SONAR20 والسعر",
         "paragraphs": [
-          "استخدم الكود **SONAR20** في حقل الكوبون بالسلة، أو استخدم رابط هذا المقال: **خصم 20% على الفترة الأولى**، في خطة شهرية أو سنوية، للعملاء الجدد أو الحاليين. يسري الـ 20% على كل عملية شراء جديدة؛ ويُحاسَب التجديد بسعر القائمة دون خصم. أما لنطاق منفرد فلا يعمل الكود. أين تدخل الكود تجده في [كيفية استخدام كوبون SONAR20](/ar/reviews/hostinger-referral-code-ar)، والخطط في [صفحة Hostinger](/ar/coupons/hostinger)."
+          "استخدم الكود **SONAR20** في حقل \"Have a coupon code?\" بالسلة، أو استخدم رابط هذا المقال وتحقق من الكود في الحقل: **خصم 20% على الفترة الأولى** من عملية شراء جديدة مؤهلة، للعملاء الجدد أو الحاليين. يسري الـ 20% في دورات 12 و24 و48 شهرًا؛ أما في دورة الشهر الواحد فيتوقف القبول على الخطة، فتحقق من سطر \"Coupon applied\" في السلة قبل الدفع. ويُحاسَب التجديد بسعر القائمة دون خصم. أما لنطاق منفرد (تسجيل أو نقل) فلا يعمل الكود. أين تدخل الكود تجده في [كيفية استخدام كوبون SONAR20](/ar/reviews/hostinger-referral-code-ar)، والخطط في [صفحة Hostinger](/ar/coupons/hostinger)."
         ]
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما هو كوبون Hostinger؟ كوبون Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة: أدخل الكود في حقل \"Have a coupon code?\" بالسلة وتحقق من سطر \"Coupon applied\" قبل الدفع. يُحاسَب التجديد بسعر القائمة دون خصم.",
           "هل أستطيع تغيير الاستضافة دون أن أفقد النطاق؟ يمكنك إبقاء التسجيل حيث هو وربط الاستضافة الجديدة عبر DNS دون نقل النطاق. تحقق من سجلات الموقع والبريد قبل تغييرها.",
           "هل أحتاج إلى نطاق لأحصل على بريد إلكتروني؟ نعم. لعنوان مثل you@yourcompany.com لا بد أن يوجد النطاق؛ أما الاستضافة فليست لازمة، وتقول Hostinger إنه يمكنك استخدام النطاق للبريد فقط أو للتحويل إلى موقع آخر.",
           "هل أستطيع نقل نطاق من Hostinger إلى مسجِّل آخر؟ نعم، ما دام الامتداد يسمح ولا يوجد قفل. تحقق من الإجراء، وفكّ القفل حيث يلزم، واحصل على الرمز وأكّد الطلب. والنقل المكتمل مستثنى من حالات الاسترداد المعتادة.",
           "هل يعمل SONAR20 لمن هم عملاء Hostinger بالفعل؟ نعم، في عملية شراء جديدة: إن كان لديك حساب واشتريت خطة أو منتجًا جديدًا فلك الـ 20% أيضًا. وتجديد خطة تملكها يُحاسَب بسعر القائمة دون خصم."
-        ]
-      },
-      {
-        "heading": "من يكتب هذا",
-        "paragraphs": [
-          "يعمل Em Casa com Cecília على استضافة Hostinger المُدارة، كتطبيق ويب بـ Node.js، والنطاق emcasacomcecilia.com مسجَّل لدى Hostinger منذ عام 2024 (سجل RDAP علني). لم ينقل أحد في الفريق نطاقًا: يجمع هذا النص ما تقوله صفحتا النطاقات والنقل لدى Hostinger."
         ]
       }
     ],
@@ -305757,13 +305498,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "اختر النطاق في Hostinger إن كان الموقع سيُستضاف هناك وتريد النطاق وDNS والتجديد في اللوحة نفسها.",
-        "اختر النقل فقط إن استوفى النطاق شروط الامتداد (في الامتدادات العامة: 60 يومًا على الأقل منذ التسجيل أو آخر نقل، ودون قفل نقل) وكان تجديد Hostinger يستحق ما تدفعه اليوم."
+        "كان الموقع سيُستضاف في Hostinger وأردت النطاق وDNS والتجديد في اللوحة نفسها.",
+        "أردت النقل واستوفى النطاق شروط الامتداد (في الامتدادات العامة: 60 يومًا على الأقل منذ التسجيل أو آخر نقل، ودون قفل نقل) وكان تجديد Hostinger يستحق ما تدفعه اليوم."
       ],
       "skipIf": [
-        "تجاوزه إن كان لديك نطاق في مسجِّل آخر أو تفضّل إبقاء الحسابات منفصلة أو كان التجديد هناك أقل: وجّه DNS واترك التسجيل حيث هو.",
-        "تجاوز النقل إن منعه الامتداد أو قفل قائم، أو إن لم تتأكد الأهلية.",
-        "تجاوزه إن كان النطاق سيُسجَّل باسم مستقل أو وكالة أو في حسابهما: استخدم بريدًا تتحكم فيه."
+        "كان لديك نطاق في مسجِّل آخر أو تفضّل إبقاء الحسابات منفصلة أو كان التجديد هناك أقل: وجّه DNS واترك التسجيل حيث هو.",
+        "منع النقل الامتداد أو قفل قائم، أو لم تتأكد الأهلية.",
+        "كان النطاق سيُسجَّل باسم مستقل أو وكالة أو في حسابهما: استخدم بريدًا تتحكم فيه."
       ]
     }
   },
@@ -306883,6 +306624,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "الرمز SONAR20 يمنح خصم 20% على الاشتراكات الجديدة في Hostinger Premium لمدة 12 و24 و48 شهرًا. قارن تكاليف الاستضافة والتجديد مع GoDaddy.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -307038,7 +306780,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "وماذا عن الخطة الشهرية؟",
         "paragraphs": [
-          "عرضت السلة Premium بمبلغ 12.99 دولارًا لشهر واحد، بسعر التجديد الشهري نفسه. ولا يسري SONAR20 على الخطة الشهرية. وبسعر ثابت، تبلغ اثنتا عشرة دفعة شهرية 155.88 دولارًا، أي نحو ثمانية أضعاف شراء الـ 12 شهرًا بالرمز. قد يناسب الدفع الشهري مشروعًا قصيرًا أو تجربة، لكنه يكلّف أكثر إذا أبقيت الموقع سنة."
+          "عرضت السلة Premium بمبلغ 12.99 دولارًا لشهر واحد، بسعر التجديد الشهري نفسه. يسري SONAR20 على دورات 12 و24 و48 شهرًا؛ أما في خطط الشهر الواحد فيعتمد القبول على الخطة، لذا تحقق من سطر \"Coupon applied\" في السلة قبل الدفع. وبسعر ثابت، تبلغ اثنتا عشرة دفعة شهرية 155.88 دولارًا، أي نحو ثمانية أضعاف شراء الـ 12 شهرًا بالرمز. قد يناسب الدفع الشهري مشروعًا قصيرًا أو تجربة، لكنه يكلّف أكثر إذا أبقيت الموقع سنة."
         ]
       },
       {
@@ -307101,7 +306843,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "اطلع على شروط SONAR20 في صفحة كوبون Hostinger",
+            "label": "اطلع على كوبون SONAR20 وخطط Hostinger",
             "href": "/ar/coupons/hostinger"
           }
         ]
@@ -307114,30 +306856,25 @@ export const reviewsData: unknown[] = [
           "أربع سنوات من الاستضافة: بلغ سعر Premium لمدة 48 شهرًا مع SONAR20 مبلغ 76.42 دولارًا. وتُقدَّر Economy بمبلغ 359.52 دولارًا لـ 36 شهرًا مع تجديد سنوي واحد بالسعر المعروض. وكان عرضها لمدة 60 شهرًا أقل قليلًا، بمبلغ 359.40 دولارًا مقدّمًا، لكن كلا الخيارين يكلّف أكثر من أربعة أضعاف سعر Premium لأربع سنوات. وتجديد النطاق والبريد إضافي.",
           "إذا كنت تحتاج الموقع فقط، فلدى Starter أقل تجديد سنوي: 71.88 دولارًا، مقابل 131.88 دولارًا لـ Premium. ومع ذلك تبقى Premium مع SONAR20 أقل تكلفة خلال السنوات الأربع الأولى. ولمشروع أطول، قارن المدفوعات المتراكمة على المدة التي تنوي بقاءها، مستخدمًا أسعار التجديد المتاحة وقت الشراء.",
           "وفي كل الأحوال، تحقق من سعر التجديد في السلة قبل الدفع: فالعروض تتغير."
-        ]
+        ],
+        "emphasis": "بحسب أرقام الجداول، إذا كان الموقع سيبقى على الإنترنت سنتين أو أكثر، فالخيار هو Hostinger Premium مع SONAR20، لأن سعر الـ 24 شهرًا فيه 38.21 دولارًا مقابل 155.76 دولارًا لـ GoDaddy Economy."
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما كود خصم Hostinger؟ كود خصم Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من شراء جديد مؤهل: أدخله في حقل \"Have a coupon code?\" في السلة وتحقق من سطر \"Coupon applied\" قبل الدفع. يُحتسب التجديد بسعر القائمة دون خصم.",
           "أيهما أفضل، Hostinger أم GoDaddy؟ من حيث تكاليف الاستضافة، تكلّف Premium مع SONAR20 أقل من Economy على مدى سنة وسنتين وأربع سنوات، وتجديدها السنوي أقل. وتجديد النطاق والبريد إضافي. ولدى GoDaddy Starter أقل تجديد سنوي، لكنها تكلّف أكثر من Premium خلال السنوات الأربع الأولى. وتجد معايير أخرى في [كيف تختار استضافة ويب](/ar/reviews/choose-web-host-hostinger-ar).",
           "هل تُجدَّد GoDaddy بالسعر نفسه؟ Economy لا: تُظهر السلة أن خطة السنة الواحدة تنتقل من 83.88 دولارًا إلى 143.88 دولارًا عند التجديد. أما Starter فليس لها خصم في السنة الأولى وتُجدَّد بالمبلغ نفسه 71.88 دولارًا.",
           "هل يصلح كوبون Hostinger عند التجديد؟ لا. يسري SONAR20 على الشراء الجديد فقط، ويُحاسَب التجديد بسعر القائمة. وللتجديد راجع [دليل تجديد Hostinger](/ar/reviews/hostinger-renewal-sonar20-ar).",
           "هل تأتي Hostinger Premium مع نطاق؟ نعم، نطاق وصندوقا بريد لكل موقع مجانًا للسنة الأولى. وبعد ذلك تُجدَّد كل خدمة على حدة.",
-          "هل أستطيع نقل موقعي من GoDaddy إلى Hostinger؟ تقول صفحة المساعدة في Hostinger إن الترحيل المجاني يشمل موقعًا من شركة أخرى في خطط Web أو Cloud أو Agency. تحقق من خطتك مع الدعم قبل إلغاء القديمة.",
-          "ما كود خصم Hostinger؟ يمنح SONAR20 خصم 20% على الشراء الجديد لخطط Premium لمدة 12 و24 و48 شهرًا المقارنة هنا؛ ولا يسري على التجديد ولا على Premium الشهرية."
-        ]
-      },
-      {
-        "heading": "من يكتب هذا",
-        "paragraphs": [
-          "يعمل موقع Em Casa com Cecília على Hostinger، ونطاقه مسجَّل لديها. وبالنسبة إلى GoDaddy، لا يستخدم هذا النص إلا ما تعرضه صفحتها الدولية وسلتها بالدولار الأمريكي؛ ولم يستخدم أحد في الفريق الخدمة."
+          "هل أستطيع نقل موقعي من GoDaddy إلى Hostinger؟ تقول صفحة المساعدة في Hostinger إن الترحيل المجاني يشمل موقعًا من شركة أخرى في خطط Web أو Cloud أو Agency. تحقق من خطتك مع الدعم قبل إلغاء القديمة."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "أدخل SONAR20 في حقل الكوبون بالسلة، أو استخدم الرابط، للحصول على خصم 20% على شراء جديد لخطط Premium لمدة 12 أو 24 أو 48 شهرًا المقارنة هنا. لا يسري على التجديد ولا على Premium الشهرية.",
+      "text": "أدخل SONAR20 في حقل الكوبون بالسلة، أو استخدم الرابط، للحصول على خصم 20% على الفترة الأولى من شراء جديد مؤهل لخطط Premium المقارنة هنا. في خطط الشهر الواحد يعتمد القبول على الخطة، لذا تحقق من سطر \"Coupon applied\" قبل الدفع. لا يسري على التجديد.",
       "label": "شاهد خطط الاستضافة مع SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -307167,12 +306904,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "اختر Hostinger Premium إذا كنت تستطيع الدفع مقدّمًا لاستضافة 24 أو 48 شهرًا: فمع SONAR20 تكلّف أقل من Economy في هذه المقارنات، وتجديد النطاق والبريد إضافي.",
-        "اختر Hostinger Premium إذا كان المشروع يحتاج سنة استضافة مع نطاق وبريد مشمولين: فسعرها لمدة 12 شهرًا أقل من Economy. وتجديدها السنوي المعروض للاستضافة أقل أيضًا."
+        "كنت تستطيع الدفع مقدّمًا لاستضافة 24 أو 48 شهرًا: فمع SONAR20 تكلّف Premium أقل من Economy في هذه المقارنات، وتجديد النطاق والبريد إضافي.",
+        "كان المشروع يحتاج سنة استضافة مع نطاق وبريد مشمولين: فسعر Premium لمدة 12 شهرًا أقل من Economy، وتجديدها السنوي المعروض للاستضافة أقل أيضًا."
       ],
       "skipIf": [
-        "فكّر في GoDaddy Starter إذا كنت تحتاج الاستضافة فقط وتفضّل أقل تجديد سنوي معروض. فهي تكلّف أكثر من Premium خلال السنوات الأربع الأولى؛ والاختيار طويل الأمد يحتاج إلى مقارنة التكلفة الإجمالية للمدة التي تنوي بقاءها.",
-        "اختر GoDaddy Economy إذا كنت تفضّل cPanel وتقبل أن تدفع أكثر من Premium في السنة الأولى وعلى مدى سنتين وأربع سنوات وعند التجديد."
+        "كنت تحتاج الاستضافة فقط وتفضّل أقل تجديد سنوي معروض: فـ GoDaddy Starter تتفوق هنا، لكنها تكلّف أكثر من Premium خلال السنوات الأربع الأولى؛ والمشروع الأطول يحتاج إلى مقارنة التكلفة الإجمالية.",
+        "كنت تفضّل cPanel وتقبل أن تدفع أكثر من Premium في السنة الأولى وعلى مدى سنتين وأربع سنوات وعند التجديد: فهذه حالة GoDaddy Economy."
       ]
     }
   },
@@ -307212,7 +306949,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "كيف تختار استضافة ويب: التجديد ودورة 48 شهرًا وموقع الخادم وVPS. أسعار Hostinger الدولية بالدولار في 30 أكتوبر 2026، وبجانب كل سعر سعر التجديد.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -307300,8 +307037,7 @@ export const reviewsData: unknown[] = [
           "**حتى 3 مواقع:** Premium، بسعر 2.49 دولارًا شهريًا لمدة 48 شهرًا، وتُجدَّد بسعر 10.99 دولارًا. وهي الأرخص في العرض وعند التجديد.",
           "**مواقع كثيرة:** Unlimited، بسعر 3.49 دولارًا شهريًا، وتُجدَّد بسعر 16.99 دولارًا. لا حد للمواقع فيها بحسب الصفحة، وتضم NVMe بسعة 50 GB مقابل SSD بسعة 20 GB في Premium. والفارق عن Premium دولار واحد شهريًا في العرض و6 دولارات عند التجديد.",
           "**الخطة العليا:** تُجدَّد Cloud Startup بسعر 25.99 دولارًا شهريًا وتكلّف أكثر من ضعف Unlimited في العرض. ولا تستحق إلا إذا احتجت إلى ما تضيفه، مثل NVMe بسعة 100 GB؛ فلمواقع عادية كثيرة تؤدي Unlimited الغرض بتكلفة أقل."
-        ],
-        "emphasis": "إجمالي الدورة الأولى مضلّل: قارن السعر الشهري، وبجانبه سعر التجديد."
+        ]
       },
       {
         "heading": "ما لا يُظهره السعر",
@@ -307353,7 +307089,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 على Hostinger",
         "paragraphs": [
-          "أدخل **SONAR20** في السلة للحصول على خصم 20% على المدة الأولى من عملية شراء جديدة مؤهلة، حتى مع حساب قائم. ويعمل على Startup للتجارة الإلكترونية والبريد الاحترافي وReach. وبالنسبة لخطة الاستضافة أو VPS التي تختارها، تحقق من تطبيقه في السلة. يُستثنى تسجيل النطاقات والتجديد. راجع [كوبونات Hostinger](/ar/coupons/hostinger)."
+          "أدخل **SONAR20** في السلة للحصول على خصم 20% على المدة الأولى من عملية شراء جديدة مؤهلة، حتى مع حساب قائم. ويعمل على Startup للتجارة الإلكترونية والبريد الاحترافي وReach. وبالنسبة لخطة الاستضافة أو VPS التي تختارها، تحقق من تطبيقه في السلة. يُستثنى تسجيل النطاقات والتجديد. راجع [كوبونات Hostinger](/ar/coupons/hostinger).",
+          "يسري SONAR20 على دورات 12 و24 و48 شهرًا؛ أما في خطط الشهر الواحد فيعتمد القبول على الخطة، لذا تحقق من سطر \"Coupon applied\" في السلة قبل الدفع."
         ]
       },
       {
@@ -307363,11 +307100,20 @@ export const reviewsData: unknown[] = [
           "**اختر Unlimited** للمواقع الكثيرة، دون حد للمواقع، مع نسخ احتياطية يومية وNVMe بسعة 50 GB. أما Cloud Startup، التي تُجدَّد بأكثر من 25 دولارًا شهريًا، فلا تستحق إلا إذا احتجت إلى التخزين الإضافي.",
           "**وفي الحالتين**، اقرأ عمود التجديد قبل أن تدفع وتأكد من المبلغ في السلة. فـ Hostinger في حملة، والأسعار قد تتغير.",
           "لو كان الأمر لموقعي، لاخترت Premium لموقع واحد، لأنها تكلّف أقل في العرض وعند التجديد."
+        ],
+        "emphasis": "بحسب أرقام الجداول، تكون Premium هي الخيار لما يصل إلى ثلاثة مواقع، لأنها تُجدَّد بسعر 10.99 دولارًا شهريًا مقابل 16.99 دولارًا لـ Unlimited؛ ولا تستحق Unlimited إلا مع أكثر من ثلاثة مواقع.",
+        "links": [
+          {
+            "label": "اطلع على كوبون SONAR20 وخطط Hostinger",
+            "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما كود خصم Hostinger؟ كود خصم Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من شراء جديد مؤهل: أدخله في حقل \"Have a coupon code?\" في السلة وتحقق من سطر \"Coupon applied\" قبل الدفع. يُحتسب التجديد بسعر القائمة دون خصم.",
           "ما أفضل استضافة ويب؟ يتوقف ذلك على ما يحتاجه التطبيق، وعلى التخزين والنسخ الاحتياطي، وعلى ما إذا كان العرض أم التجديد أهم عندك. وعدد المواقع وحده لا يحسم الأمر.",
           "أي خطة من Hostinger تُجدَّد بأقل سعر؟ Premium، بسعر 10.99 دولارًا شهريًا على الموقع الدولي، بعد عرض 48 شهرًا بسعر 2.49 دولارًا.",
           "هل يستحق VPS من Hostinger؟ يتوقف على الحِمل الذي يضعه الموقع عليه. قارن vCPU والذاكرة والتجديد: تُجدَّد KVM 1 بسعر 11.99 دولارًا شهريًا على الموقع الدولي.",
@@ -307375,12 +307121,6 @@ export const reviewsData: unknown[] = [
           "هل يعمل SONAR20 على VPS من Hostinger؟ نعم، في عملية شراء جديدة مؤهلة لـ VPS: خصم 20% على المدة الأولى. تحقق من خصم خطتك في السلة.",
           "هل يمكن تغيير الاستضافة دون فقدان الموقع؟ نعم، بنقل الملفات وقاعدة البيانات إلى الاستضافة الجديدة. أجرِ النقل قبل انتهاء الخطة القديمة.",
           "هل يصلح SONAR20 لمن هو عميل لدى Hostinger بالفعل؟ نعم، في عملية شراء جديدة مؤهلة بالحساب نفسه. أما تجديد خطة تملكها فيُحاسَب بسعر القائمة دون خصم."
-        ]
-      },
-      {
-        "heading": "من يكتب هذا",
-        "paragraphs": [
-          "يعمل موقع Em Casa com Cecília على الاستضافة المُدارة من Hostinger، والنطاق مسجَّل لدى Hostinger منذ 2024. ويجمع هذا النص ما تقوله صفحات Hostinger الدولية."
         ]
       }
     ],
@@ -307408,12 +307148,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "اختر Premium إذا كان موقعًا واحدًا، مثل مدونة أو معرض أعمال أو صفحة شركة، أو حتى ثلاثة، وكان تخزينها ونسخها الاحتياطي يلبيان احتياجك: فتكلّف أقل في العرض وعند التجديد.",
-        "اختر VPS إذا كان الموقع يحتاج إلى معالج وذاكرة مضمونين: ففي KVM 1 ذاكرة 4 GB أصلًا."
+        "كان موقعًا واحدًا، مثل مدونة أو معرض أعمال أو صفحة شركة، أو حتى ثلاثة، وكان تخزينها ونسخها الاحتياطي يلبيان احتياجك: فتكلّف أقل في العرض وعند التجديد.",
+        "كان الموقع يحتاج إلى معالج وذاكرة مضمونين وكنت تختار VPS: ففي KVM 1 ذاكرة 4 GB أصلًا."
       ],
       "skipIf": [
-        "تجاوز Premium إذا كان لديك أكثر من ثلاثة مواقع: فلا حد للمواقع في Unlimited.",
-        "تجاوز Premium إذا كان التخزين والنسخ الاحتياطي اليومي مهمين لك: ففيها SSD بسعة 20 GB ونسخ أسبوعية."
+        "كان لديك أكثر من ثلاثة مواقع: فلا حد للمواقع في Unlimited.",
+        "كان التخزين والنسخ الاحتياطي اليومي مهمين لك: ففي Premium SSD بسعة 20 GB ونسخ أسبوعية."
       ]
     }
   },
@@ -307865,7 +307605,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "هل يستحق Hostinger Reach؟ جدول حسب نوع الاستخدام والخطط وحدود الإرسال وواتساب والتجديد بالدولار الأمريكي في 30 أكتوبر 2026، مقارنةً بالخطط المجانية في Mailchimp وBrevo.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -307967,8 +307707,7 @@ export const reviewsData: unknown[] = [
           "**Starter:** 100 مستلم، و200 رسالة في الشهر، ولا أرصدة ذكاء اصطناعي. وتحمل الرسائل علامة Reach التجارية.",
           "**Grow:** 500 مستلم، و3,500 رسالة في الشهر، و10 أرصدة ذكاء اصطناعي شهريًا. وتزيل علامة Reach التجارية وتضيف التخصيص والجدولة والأتمتة.",
           "**Pro:** 1,000 مستلم، و7,000 رسالة في الشهر، و20 رصيد ذكاء اصطناعي شهريًا. وتضيف HTML وتوقيت الإرسال الأمثل وحملات واتساب والحقول المخصصة وأعضاء الفريق."
-        ],
-        "emphasis": "عندما تتردد بين الخطط، فحجم قائمتك هو الحاسم. تصل الخطط في الصفحة إلى 1,000 مستلم؛ وما فوق ذلك تحقق عند الدفع من وجود فئة Pro أكبر، أو اختر Mailchimp أو Brevo."
+        ]
       },
       {
         "heading": "Mailchimp وBrevo: الخطط المجانية",
@@ -308027,11 +307766,13 @@ export const reviewsData: unknown[] = [
           "**ابقَ على الخطة المجانية في Mailchimp أو Brevo** إن كانت قائمتك في بدايتها ولا تعرف بعد هل سترسل بريدًا إلكترونيًا بانتظام. فلا توجد خطة مجانية في Reach.",
           "**اختر Mailchimp أو Brevo** إن تجاوزت قائمتك 1,000 جهة اتصال، أو تجاوزت رسائلك الشهرية، بما فيها الأتمتة، 7,000 وهي سقف Pro. فخطط Reach تتوقف عند 1,000 مستلم.",
           "لو كان الأمر لموقعي أنا، لاخترت Reach Grow، لأنها تغطي قائمة حتى 500 مع الأتمتة وتتجدد بسعر 2.49 دولار أمريكي شهريًا."
-        ]
+        ],
+        "emphasis": "بحسب أرقام الجدول، لمن لديه موقع على Hostinger وقائمة حتى 1,000 مستلم، الخيار هو Reach Grow أو Pro، لأن Grow تغطي حتى 500 مستلم مع الأتمتة وPro حتى 1,000 مع واتساب؛ وما فوق 1,000 جهة اتصال تنتهي خطط Reach ويصبح الخيار Mailchimp أو Brevo."
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما هو كوبون Hostinger؟ كوبون Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة: أدخل الرمز في خانة \"Have a coupon code?\" في السلة وتحقق من سطر \"Coupon applied\" قبل الدفع. يُحتسب التجديد بسعر القائمة دون خصم.",
           "هل يستحق Hostinger Reach؟ نعم، لمن لديه موقع على Hostinger وقائمة حتى 1,000 مستلم. تكلف Grow 1.74 دولار أمريكي شهريًا في أول 12 شهرًا وتتجدد بسعر 2.49 دولار أمريكي شهريًا.",
           "كم تبلغ تكلفة Hostinger Reach؟ في صفحة Hostinger العالمية وبالدولار الأمريكي: Starter بسعر 1.49 وGrow بسعر 1.74 وPro بسعر 2.79 شهريًا في أول 12 شهرًا، وتتجدد بسعر 1.49 و2.49 و3.99. وقد تختلف الأسعار بحسب البلد والعملة.",
           "هل لدى Hostinger Reach خطة مجانية؟ لا، فخططه الثلاث مدفوعة. وMailchimp مجانية لمن لديه أقل من 250 جهة اتصال، ولدى Brevo خطة مجانية بحد 300 رسالة يوميًا.",
@@ -308040,12 +307781,6 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach أم Mailchimp؟ لقائمة حتى 1,000 مستلم وموقع على Hostinger، Reach. وللبدء مجانًا، أو لقائمة تتجاوز 1,000 جهة اتصال، Mailchimp أو Brevo.",
           "هل يعمل الرمز SONAR20 على Hostinger Reach؟ نعم: في تجربة Bruno طُبّق الخصم على Reach 500 لمدة 24 شهرًا. وفي بقية الخطط والفترات يظهر السعر النهائي في السلة.",
           "هل يستطيع عملاء Hostinger الحاليون استخدام SONAR20؟ ينطبق على عملية شراء جديدة مؤهلة، حتى مع حساب قائم. ويُستثنى تسجيل النطاقات والتجديد."
-        ]
-      },
-      {
-        "heading": "من يكتب هذا",
-        "paragraphs": [
-          "يعمل موقع Em Casa com Cecília على الاستضافة المُدارة من Hostinger، والنطاق مسجل هناك منذ 2024. يجمع هذا النص ما ذكرته صفحات الأسعار الثلاث وتجربة SONAR20 في السلة. وكيف تحاسب Hostinger وتجدد وتستردّ المبالغ تجده في [هل Hostinger جديرة بالثقة؟](/ar/reviews/hostinger-trust-guide-ar)."
         ]
       }
     ],
@@ -308073,13 +307808,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "اختر Reach إن كان لديك موقع على Hostinger وتناسب قائمتك حد 1,000 مستلم.",
-        "اختر Reach Pro إن كنت تحتاج إلى إرسال رسائل عبر واتساب.",
-        "اختره إن كان المستلمون الفريدون في الشهر ومجموع رسائل الحملات والأتمتة يناسبان حدود الخطة."
+        "كان لديك موقع على Hostinger وتناسب قائمتك حد 1,000 مستلم.",
+        "كنت تحتاج إلى إرسال رسائل عبر واتساب، وهذا متاح في Reach Pro فقط.",
+        "ناسب المستلمون الفريدون في الشهر ومجموع رسائل الحملات والأتمتة حدود الخطة."
       ],
       "skipIf": [
-        "تجاوزه إن كانت قائمتك في بدايتها وتناسب الخطة المجانية في Mailchimp أو Brevo.",
-        "تجاوزه إن زاد المستلمون الفريدون أو مجموع الرسائل الشهرية على حدود الخطة."
+        "كانت قائمتك في بدايتها وتناسب الخطة المجانية في Mailchimp أو Brevo.",
+        "زاد المستلمون الفريدون أو مجموع الرسائل الشهرية على حدود الخطة المختارة."
       ]
     }
   },
@@ -308901,7 +308636,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "VPS أم استضافة مشتركة لدى Hostinger: ما هو كل منهما، وجدول بحسب الحالة، ومواصفات KVM 1 إلى 8، وما يتبقى عليك من الصيانة.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -308919,7 +308654,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ما هو كل منهما",
         "paragraphs": [
-          "**الاستضافة المشتركة** هي خادم واحد يُقسَّم بين عدة عملاء. تتولى Hostinger نظام التشغيل وخادم الويب والتحديثات؛ وأنت تدخل إلى لوحة التحكم وتثبّت WordPress أو ترفع ملفات موقعك، وانتهى الأمر. وفي Hostinger هذه هي الخطط Single وPremium وUnlimited، إضافةً إلى Cloud Startup، وهي الفكرة نفسها بموارد أكثر.",
+          "**الاستضافة المشتركة** هي خادم واحد يُقسَّم بين عدة عملاء. تتولى Hostinger نظام التشغيل وخادم الويب والتحديثات؛ وأنت تدخل إلى لوحة التحكم وتثبّت WordPress أو ترفع ملفات موقعك، وانتهى الأمر. وفي Hostinger هذه هي الخطط Premium وUnlimited، إضافةً إلى Cloud Startup، وهي الفكرة نفسها بموارد أكثر.",
           "أما **VPS** (الخادم الافتراضي الخاص) فهو جهاز افتراضي خاص بك، بمعالج وذاكرة وقرص محجوزة، إضافةً إلى صلاحية الجذر، وهي حساب مدير النظام. وأنت تتحمل مسؤولية الإعدادات والتحديثات والأمان. والخطط المقارنة هنا هي KVM 1 و2 و4 و8.",
           "الفرق ليس «أفضل أو أسوأ». بل هو من يتولى الخادم وما مقدار موارده المحجوزة لك."
         ]
@@ -308929,11 +308664,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "قبل أن تنظر إلى الأسعار، أجب عن ثلاثة أسئلة. فإن كانت الإجابة «لا» عن الثلاثة، فالاستضافة المشتركة تكفي."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
-        "imageAlt": "جدول بثلاثة أسئلة: هل تحتاج إلى تثبيت نظام خارج لوحة التحكم، وهل تحتاج إلى معالج وذاكرة محجوزين، وهل تحتاج إلى صلاحية الجذر؛ وكل «نعم» تشير إلى VPS، و«لا» عن الثلاثة تشير إلى الاستضافة المشتركة",
-        "imageCaption": "الأسئلة الثلاثة التي تحسم الاختيار بين الاستضافة المشتركة وVPS. جدول من إعدادنا، استنادًا إلى صفحات Hostinger.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7787,
+        "image": {
+          "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
+          "alt": "جدول بثلاثة أسئلة: هل تحتاج إلى تثبيت نظام خارج لوحة التحكم، وهل تحتاج إلى معالج وذاكرة محجوزين، وهل تحتاج إلى صلاحية الجذر؛ وكل «نعم» تشير إلى VPS، و«لا» عن الثلاثة تشير إلى الاستضافة المشتركة",
+          "caption": "الأسئلة الثلاثة التي تحسم الاختيار بين الاستضافة المشتركة وVPS. جدول من إعدادنا، استنادًا إلى صفحات Hostinger.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7787
+        },
         "comparisonTable": {
           "headers": [
             "الحالة",
@@ -309061,17 +308798,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما هو كوبون Hostinger؟ كوبون Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة: أدخل الكود في حقل \"Have a coupon code?\" بالسلة وتحقق من سطر \"Coupon applied\" قبل الدفع. يُحاسَب التجديد بسعر القائمة دون خصم.",
           "هل VPS أسرع من الاستضافة المشتركة؟ ليس بالضرورة. فالموارد المحجوزة وصلاحية الجذر تغيّران طريقة تحكمك في البيئة، لكنهما لا تتنبآن وحدهما بسرعة استجابة موقعك. قارن متطلبات التطبيق وحدود الخطة.",
           "هل أستطيع البدء بالاستضافة المشتركة ثم الانتقال إلى VPS لاحقًا؟ نعم، إذا كان التطبيق يدعم البيئة الجديدة. وهو عقد جديد، مع إعداد الخادم ونقل الموقع؛ ولا يمكن تحويل الاستضافة المشتركة إلى VPS من داخل اللوحة.",
           "هل أحتاج إلى معرفة Linux لامتلاك VPS؟ نعم، أساسيات الطرفية: تثبيت البرامج وتحديث النظام وقراءة السجل. وفي الاستضافة المشتركة، كل شيء يتم عبر اللوحة ولا حاجة إلى طرفية.",
           "هل يستطيع VPS تشغيل WordPress؟ نعم، بما في ذلك بقالب مثبّت مسبقًا. وتبقى مسؤولًا عن إعداد البيئة وصيانتها، وتعتمد السعة على التطبيق. وفي الاستضافة المشتركة يأتي WordPress جاهزًا في اللوحة وتتولى Hostinger الخادم.",
           "هل يعمل SONAR20 لمن هم عملاء لدى Hostinger بالفعل؟ نعم، في عملية شراء جديدة: إن كان لديك حساب واشتريت خطة أو منتجًا جديدًا، فلك الخصم 20% أيضًا. أما تجديد خطة لديك فيُحاسَب بسعر القائمة، دون خصم."
-        ]
-      },
-      {
-        "heading": "من يكتب هذا",
-        "paragraphs": [
-          "يعمل موقع Em Casa com Cecília على استضافة Hostinger المُدارة، بوصفه تطبيق Node.js على الويب، والنطاق مسجل لدى Hostinger منذ 2024. لا يتضمن هذا النص أي تجربة لـ VPS: إنه يجمع ما تقوله صفحات Hostinger، وتجربة الموقع نفسه مقتصرة على الاستضافة المُدارة."
         ]
       }
     ],
@@ -309099,13 +308831,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "اختر VPS إن كان الموقع يحتاج إلى نظام أو برنامج أو قاعدة بيانات ليست في اللوحة.",
-        "اختره إن كنت تحتاج إلى معالج وذاكرة محجوزين أو إلى صلاحية الجذر.",
-        "اختره إن كانت لديك لوحة متابعة أو بوت أو أتمتة (n8n، Docker) تعمل طوال اليوم ومن يتولى صيانة الخادم."
+        "كان الموقع يحتاج إلى نظام أو برنامج أو قاعدة بيانات ليست في اللوحة.",
+        "كنت تحتاج إلى معالج وذاكرة محجوزين أو إلى صلاحية الجذر.",
+        "كانت لديك لوحة متابعة أو بوت أو أتمتة (n8n، Docker) تعمل طوال اليوم ومن يتولى صيانة الخادم."
       ],
       "skipIf": [
-        "تجاوزه إن كان لديك مدونة أو معرض أعمال أو موقع شركة أو متجر صغير أو موقع Node.js على خطة تدعمه، مثل Unlimited أو Cloud Startup: فالاستضافة المشتركة تؤدي الغرض وتتولى Hostinger الخادم.",
-        "تجاوزه إن لم تفتح الطرفية من قبل: فالتثبيت والتحديث والتأمين والنسخ الاحتياطي تصبح مهمتك."
+        "كان لديك مدونة أو معرض أعمال أو موقع شركة أو متجر صغير أو موقع Node.js على خطة تدعمه، مثل Unlimited أو Cloud Startup: فالاستضافة المشتركة تؤدي الغرض وتتولى Hostinger الخادم.",
+        "لم تفتح الطرفية من قبل: فالتثبيت والتحديث والتأمين والنسخ الاحتياطي تصبح مهمتك."
       ]
     }
   },
@@ -309145,7 +308877,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress على Hostinger: Premium أم Unlimited أم Cloud Startup؟ الخطة بحسب المشروع والسعر والتجديد في 30 أكتوبر 2026، وقائمة تحقق للبدء.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -309224,8 +308956,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "لا تذكر الصفحة تاريخ انتهاء للحملة، وقد تتغير الأسعار."
-        ],
-        "emphasis": "قارن الالتزام الإجمالي والتكلفة الشهرية المكافئة والتجديد. فلا سعر البداية وحده ولا التجديد وحده يختار الخطة."
+        ]
       },
       {
         "heading": "ما الذي تشمله الخطط",
@@ -309270,23 +309001,18 @@ export const reviewsData: unknown[] = [
           "**اختر Premium** إن كان لديك موقع أو اثنان أو ثلاثة وتنشر بين الحين والآخر. وهي أرخص بداية وأرخص تجديد في الصفحة، بسعر 10.99 دولار أمريكي شهريًا عند التجديد.",
           "**اختر Unlimited** إن كان لديك متجر أو مواقع كثيرة. والنسخ الاحتياطي اليومي هو السبب الرئيسي، وهو يبدأ من هنا.",
           "**Cloud Startup** لا معنى لها إلا إذا لم تكفِ Unlimited. فهي الأغلى، وتجديدها بسعر 25.99 دولار أمريكي شهريًا يثقل الميزانية."
-        ]
+        ],
+        "emphasis": "بحسب أرقام الجدول، لموقع واحد إلى ثلاثة مواقع الخيار هو Premium، ولمتجر أو مواقع كثيرة هو Unlimited، لأن النسخ الاحتياطي اليومي يبدأ منها. قارن الالتزام الإجمالي والتجديد معًا، فلا سعر البداية وحده ولا التجديد وحده يحسم القرار."
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "ما هو كوبون Hostinger؟ كوبون Hostinger هو SONAR20، بخصم 20% على الفترة الأولى من عملية شراء جديدة مؤهلة: أدخل الرمز في خانة \"Have a coupon code?\" في السلة وتحقق من سطر \"Coupon applied\" قبل الدفع. يُحتسب التجديد بسعر القائمة دون خصم.",
           "ما أرخص خطة WordPress في Hostinger؟ Premium، بسعر 2.49 دولار أمريكي شهريًا على 48 شهرًا (119.52 دولار أمريكي إجمالًا)، لما يصل إلى 3 مواقع. وتتجدد بسعر 10.99 دولار أمريكي شهريًا.",
           "هل يأتي WordPress مثبّتًا في Hostinger؟ تثبّته من لوحة الاستضافة، دون تنزيل ملفات يدويًا. وقائمة التحقق أعلاه تغطي الخطوات.",
           "أي خطة WordPress تناسب متجرًا إلكترونيًا؟ Unlimited، لنسخها الاحتياطية اليومية ومواقعها غير المحدودة. ولمتجر بحركة زيارات كبيرة، Cloud Startup.",
-          "هل يعمل الرمز SONAR20 على خطط WordPress؟ SONAR20: خصم 20% على الفترة الأولى من أي عملية شراء جديدة مؤهلة. تحقق من خطة WordPress عند الدفع؛ ويُستثنى تسجيل النطاقات والتجديد.",
           "هل سعر التجديد هو السعر الترويجي نفسه؟ لا. بعد الفترة الأولى البالغة 48 شهرًا، ينطبق سعر التجديد: في Premium، 10.99 دولار أمريكي شهريًا.",
           "هل يستطيع العملاء الحاليون استخدام SONAR20؟ قد ينطبق على عملية شراء جديدة مؤهلة بالحساب نفسه، لا على تجديد الخدمة الحالية. ويُستثنى تسجيل النطاقات أيضًا. أدخل الرمز وتحقق من إجمالي السلة."
-        ]
-      },
-      {
-        "heading": "من يكتب هذا",
-        "paragraphs": [
-          "يعمل موقع Em Casa com Cecília على استضافة Hostinger المُدارة، بوصفه تطبيق Node.js على الويب، والنطاق مسجل لدى Hostinger منذ 2024. ولا يستخدم الموقع WordPress، ولم يستخدم أحد في الفريق WordPress على Hostinger: يجمع هذا النص ما تقوله صفحات استضافة WordPress في Hostinger على الموقع الدولي، بالدولار الأمريكي."
         ]
       }
     ],
@@ -309314,13 +309040,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "اختر Premium إن كان موقعًا واحدًا فقط وتنشر بين الحين والآخر: فهي خطة البداية.",
-        "واخترها أيضًا إن كان لديك موقعان أو ثلاثة.",
-        "اختر Unlimited إن كان لديك متجر أو مواقع كثيرة: فالنسخ الاحتياطي اليومي يبدأ منها."
+        "كان موقعًا واحدًا فقط وتنشر بين الحين والآخر: فخطة Premium هي خطة البداية.",
+        "كان لديك موقعان أو ثلاثة: فتغطيها Premium أيضًا.",
+        "كان لديك متجر أو مواقع كثيرة: فاختر Unlimited، ومنها يبدأ النسخ الاحتياطي اليومي."
       ],
       "skipIf": [
-        "تجاوز Cloud Startup إن كانت Unlimited تكفي: فهي الأغلى، وفي التجديد أيضًا.",
-        "قارن بأداة أخرى إن كنت لا تريد إدارة القوالب والإضافات؛ وتحقق من الوظائف والتكاملات والتكاليف قبل استبدال WordPress بـ AI Builder."
+        "كانت Unlimited تكفي: فـ Cloud Startup هي الأغلى، وفي التجديد أيضًا.",
+        "كنت لا تريد إدارة القوالب والإضافات: فقارن بأداة أخرى وتحقق من الوظائف والتكاليف قبل استبدال WordPress بـ AI Builder."
       ]
     }
   },

@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger Horizons is now the AI Builder. Is it worth it, or should you use WordPress? A table by project type, a comparison with Wix and Lovable, and AI credits.",
   "publishedAt": "October 28, 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -206,24 +206,19 @@
         "**It's worth it** if you want a site of a few pages, a portfolio, a small store or a simple web app and you don't want to code or look after plugins. The first version comes from the description, and the mode without AI lets you tweak without spending credits. Start with the free trial; if the result works for you, the Premium plan covers a simple site and Unlimited covers a store.",
         "**Stay with WordPress** if the project depends on plugins, on a theme of your own, on someone who will maintain the site, or if you want to move everything to another host without rework. The Hostinger plan is the same in both cases, so the choice is only about the tool.",
         "**If in doubt, try the AI Builder before paying.** You get 5 free credits, no card, enough to see whether the AI understands what you want. If it doesn't, WordPress is still there."
-      ]
+      ],
+      "emphasis": "For someone who wants a simple site or web app without coding, the choice is the AI Builder on the Premium plan, because it covers that project and the no-AI mode edits without spending credits."
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewals are charged at the list price, with no discount.",
         "Does Hostinger Horizons still exist? It exists under another name. In 2026 Horizons merged with Hostinger's website builder and became the AI Builder (Hostinger AI Builder), with a drag-and-drop mode and a mode for building through the chat. The old address redirects to the new page.",
         "Does Hostinger's AI Builder build the site on its own? It builds the first version from your description, according to the page. The content, the photos and the business decisions are still yours, and every request in AI mode uses credits.",
         "Do you need to know how to code to use the AI Builder? No. The page says it requires no technical knowledge in either mode. For people who do code, AI mode has a code editor.",
         "Can you migrate from the AI Builder to another host? The page says the source code can be exported and hosted elsewhere. The built-in back end, with database and login, stays at Hostinger, so an app needs reconfiguring outside it.",
         "Is the AI Builder good for an online store? For a small store, yes: the online store is available on the Unlimited and Cloud Startup plans as a paid add-on. For a large store, with shipping and payment rules, WordPress with WooCommerce gives more control.",
-        "Is there a coupon for Hostinger's AI Builder? Use SONAR20 for 20% off the first term of an eligible new purchase. Check the subscription and included services in the cart; domain registration and renewal are excluded.",
         "Can existing Hostinger customers use SONAR20? Yes, on an eligible new purchase with the same account, not on renewal of the current service. It gives 20% off the first term; domain registration is also excluded. Check the cart total."
-      ]
-    },
-    {
-      "heading": "Who writes",
-      "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since 2024. Nobody on the team has used the AI Builder or Horizons: this text brings together what the product page, the WordPress documentation and the public pages of Wix and Lovable say."
       ]
     }
   ],
@@ -251,14 +246,14 @@
   ],
   "decision": {
     "takeIf": [
-      "Take the AI Builder if you want a site of a few pages, a portfolio, a small store or a simple web app without coding.",
-      "Take it if you want hosting, domain and email in the same plan and you're fine with the AI building the first version.",
-      "Take it if you'll build the site once and tweak text and photos in the no-AI mode's editor, which uses no credits."
+      "you want a site of a few pages, a portfolio, a small store or a simple web app without coding.",
+      "you want hosting, domain and email in the same plan and you're fine with the AI building the first version.",
+      "you'll build the site once and tweak text and photos in the no-AI mode's editor, which uses no credits."
     ],
     "skipIf": [
-      "Skip it, and stay with WordPress, if the project depends on a specific plugin or on a theme you already have.",
-      "Skip it if someone else or an agency will maintain the site: WordPress is the market standard.",
-      "Skip it if you want to move everything to another host without rework, or if you'll ask the AI for changes every week and each request uses credits."
+      "the project depends on a specific plugin or on a theme you already have: stay with WordPress.",
+      "someone else or an agency will maintain the site: WordPress is the market standard.",
+      "you want to move everything to another host without rework, or you'll ask the AI for changes every week and each request uses credits."
     ]
   }
 }

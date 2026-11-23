@@ -35,7 +35,7 @@
   "metaDescription": "Comprare un dominio su Hostinger, registrarlo altrove e collegarlo o trasferirlo? Confronta rinnovo, controllo, idoneità e blocchi prima di pagare.",
   "publishedAt": "28 ottobre 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa-v2.webp",
@@ -157,27 +157,22 @@
         "**Trasferirei la registrazione** dopo aver verificato idoneità, blocchi, costo ed effetto sulla scadenza. Confronta tutto con quello che paghi oggi: un anno incluso non rende ogni trasferimento un risparmio.",
         "Se il dubbio riguarda solo l’hosting del sito, confronta prima il collegamento senza trasferimento. Pianifica le modifiche DNS senza presumere che una strada garantisca continuità."
       ],
-      "emphasis": "Per la mia organizzazione, preferirei dominio e hosting nello stesso pannello se rinnovo e controllo fossero adatti alle mie esigenze. È una preferenza di gestione, non una garanzia di prezzo inferiore."
+      "emphasis": "Secondo le regole di ogni strada, per chi ha già il dominio altrove la scelta è collegare il DNS senza trasferire, perché il sito va online su Hostinger senza toccare la registrazione; comprare o trasferire conviene solo dopo aver controllato il rinnovo e l’idoneità dell’estensione."
     },
     {
       "heading": "Coupon SONAR20 e prezzo",
       "paragraphs": [
-        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Sul dominio singolo, il codice non vale. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
+        "Usa il codice **SONAR20** nel campo \"Have a coupon code?\" del carrello, oppure entra dal link di questo articolo e controlla il codice nel campo: sono **20% sul primo periodo** di un nuovo acquisto idoneo, per cliente nuovo o già esistente. Nei cicli da 12, 24 e 48 mesi i 20% entrano; nel ciclo da 1 mese dipende dal piano, quindi controlla la riga \"Coupon applied\" nel carrello prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto. Sul dominio singolo (registrazione o trasferimento), il codice non vale. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
       ]
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
         "Posso cambiare hosting senza perdere il dominio? Puoi mantenere la registrazione dov’è e collegare il nuovo hosting tramite DNS, senza trasferire il dominio. Controlla i record del sito e della posta prima di modificarli.",
         "Mi serve un dominio per avere l'e-mail? Sì. Per un indirizzo come tu@tuaazienda.com, il dominio deve esistere; l'hosting non è obbligatorio, e Hostinger dice che si può usare il dominio solo per l'e-mail o per reindirizzare a un altro sito.",
         "Posso trasferire un dominio Hostinger a un altro registrar? Sì, purché l’estensione lo consenta e non ci siano blocchi. Verifica la procedura e, dove richiesto, sblocca, ottieni il codice e conferma la richiesta. Un trasferimento completato è escluso dal rimborso standard.",
         "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
-      ]
-    },
-    {
-      "heading": "Chi scrive",
-      "paragraphs": [
-        "Em Casa com Cecília gira sull'hosting gestito di Hostinger, come Node.js Web App, e il dominio emcasacomcecilia.com è registrato su Hostinger dal 2024 (registro pubblico RDAP). Nessuno del team ha trasferito un dominio: questo testo raccoglie quello che dicono le pagine di dominio e di trasferimento di Hostinger."
       ]
     }
   ],
@@ -205,13 +200,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Prendi il dominio su Hostinger se il sito sarà ospitato lì e vuoi dominio, DNS e rinnovo nello stesso pannello.",
-      "Trasferisci solo se il dominio rispetta i requisiti dell’estensione (nei generici, almeno 60 giorni dalla registrazione o dall’ultimo trasferimento, senza blocchi) e il rinnovo su Hostinger compensa ciò che paghi oggi."
+      "il sito sarà ospitato su Hostinger e vuoi dominio, DNS e rinnovo nello stesso pannello.",
+      "vuoi trasferire, il dominio rispetta i requisiti dell'estensione (nei generici, almeno 60 giorni dalla registrazione o dall'ultimo trasferimento, senza blocchi) e il rinnovo su Hostinger compensa ciò che paghi oggi."
     ],
     "skipIf": [
-      "Lascia stare se hai già un dominio presso un altro registrar, preferisci tenere gli account separati o il rinnovo di lì è più basso: punta il DNS e lascia la registrazione dov'è.",
-      "Evita il trasferimento se l’estensione o un blocco attuale lo impedisce, oppure se l’idoneità non è confermata.",
-      "Lascia stare se il dominio resterebbe a nome o sull'account di un freelance o di un'agenzia: usa un'e-mail che controlli."
+      "hai già un dominio presso un altro registrar, preferisci tenere gli account separati o il rinnovo di lì è più basso: punta il DNS e lascia la registrazione dov'è.",
+      "l'estensione o un blocco attuale impedisce il trasferimento, oppure l'idoneità non è confermata.",
+      "il dominio resterebbe a nome o sull'account di un freelance o di un'agenzia: usa un'e-mail che controlli."
     ]
   }
 }

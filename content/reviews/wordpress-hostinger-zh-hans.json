@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger WordPress：Premium、Unlimited 还是 Cloud Startup？按项目选套餐，2026年10月30日的美元价格与续费，以及开始使用的清单。",
   "publishedAt": "2026年10月30日",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa-v2.webp",
@@ -112,8 +112,7 @@
       },
       "postParagraphs": [
         "页面上没有显示活动的结束日期，价格可能变化。"
-      ],
-      "emphasis": "比较合同总额、折算月费与续费。入门价或续费价单独都不能决定选择。"
+      ]
     },
     {
       "heading": "套餐已包含的内容",
@@ -158,23 +157,18 @@
         "**选 Premium**，如果你有一到三个网站。三个套餐里它的入门价和续费价都最低，备份是每周一次。",
         "**选 Unlimited**，如果你有网店或很多网站。每日备份是主要理由，从这里开始就对了。",
         "**Cloud Startup** 只在 Unlimited 不够用时才有意义。它最贵，每月 US$ 25.99 的续费压力很大。"
-      ]
+      ],
+      "emphasis": "按表中的数字，1 到 3 个网站选 Premium，有网店或很多网站选 Unlimited，因为每日备份从它开始。请把合同总价和续费放在一起比较：入门价和续费都不能单独决定选择。"
     },
     {
       "heading": "常见问题",
       "bullets": [
+        "Hostinger 的优惠码是什么？Hostinger 的优惠码是 SONAR20，符合条件的新购可享首个周期 20% 折扣：请在购物车的“Have a coupon code?”栏输入代码，付款前确认“Coupon applied”一行。续费按标价收取，没有折扣。",
         "Hostinger 上最便宜的 WordPress 套餐是哪个？是 Premium：48 个月预付每月 US$ 2.49，总价 US$ 119.52，最多 3 个网站。续费为每月 US$ 10.99。",
         "Hostinger 会预装 WordPress 吗？在主机面板里安装，不需要手动下载文件。步骤见上面的清单。",
         "网店适合哪个 WordPress 套餐？Unlimited：网站不限，每日备份。流量非常大的网店可以看 Cloud Startup。",
-        "SONAR20 能用于 WordPress 套餐吗？ SONAR20：符合条件的新购首个周期优惠20%。请在购物车确认WordPress套餐；域名注册与续费除外。",
         "续费价和促销价一样吗？不一样。第一个 48 个月周期结束后，按续费价计算：Premium 为每月 US$ 10.99。",
         "已有客户也能用SONAR20吗？同一账户符合资格的新购可适用，但当前服务的续费不适用，域名注册也除外。输入代码后请确认购物车总额。"
-      ]
-    },
-    {
-      "heading": "谁在写这篇文章",
-      "paragraphs": [
-        "Em Casa com Cecília 运行在 Hostinger 的托管主机上，是一个 Node.js Web App，域名自 2024 年起在 Hostinger 注册。网站本身不使用 WordPress。本文整理的是 Hostinger 国际站 WordPress 主机页面上的内容。"
       ]
     }
   ],
@@ -203,13 +197,13 @@
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
-      "如果只有一个网站，又只是偶尔更新，选 Premium：它是入门套餐。",
-      "如果会有两三个网站，也选 Premium。",
-      "如果有网店或很多网站，选 Unlimited：每日备份从它开始。"
+      "只有一个网站、偶尔更新时：Premium 是入门套餐。",
+      "会有两三个网站时：Premium 同样够用。",
+      "有网店或很多网站时：Unlimited，每日备份从它开始。"
     ],
     "skipIf": [
-      "如果 Unlimited 已经够用，就别选 Cloud Startup：它最贵，续费也最高。",
-      "若不想管理主题与插件，也可比较其他工具；改用AI建站前请确认功能、集成与费用。"
+      "Unlimited 已经够用时：Cloud Startup 最贵，续费也最高。",
+      "不想管理主题与插件时：比较其他工具，改用AI建站前先确认功能、集成与费用。"
     ]
   }
 }

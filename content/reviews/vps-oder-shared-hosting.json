@@ -34,7 +34,7 @@
   "metaDescription": "VPS oder Shared Hosting bei Hostinger: was beides ist, Übersicht nach Szenario, Specs der KVM 1 bis 8 und was bei der Wartung an Ihnen hängen bleibt.",
   "publishedAt": "28. Oktober 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -52,7 +52,7 @@
     {
       "heading": "Was beides ist",
       "paragraphs": [
-        "**Shared Hosting** ist ein Server, der unter mehreren Kunden aufgeteilt wird. Hostinger kümmert sich um das System, den Webserver und die Updates; Sie gehen ins Panel, installieren WordPress oder laden die Dateien Ihrer Website hoch, fertig. Bei Hostinger sind das die Tarife Single, Premium und Unlimited sowie Cloud Startup, dieselbe Idee mit mehr Ressourcen.",
+        "**Shared Hosting** ist ein Server, der unter mehreren Kunden aufgeteilt wird. Hostinger kümmert sich um das System, den Webserver und die Updates; Sie gehen ins Panel, installieren WordPress oder laden die Dateien Ihrer Website hoch, fertig. Bei Hostinger sind das die Tarife Premium und Unlimited sowie Cloud Startup, dieselbe Idee mit mehr Ressourcen.",
         "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatz sowie Root-Zugriff, dem Administratorkonto des Systems. Konfiguration, Updates und Sicherheit liegen bei Ihnen.  Verglichen werden KVM 1, 2, 4 und 8.",
         "Der Unterschied ist nicht „besser oder schlechter“. Es geht darum, wer den Server betreut und wie viele Ressourcen für Sie reserviert sind."
       ]
@@ -62,11 +62,13 @@
       "paragraphs": [
         "Beantworten Sie vor dem Blick auf den Preis drei Fragen. Lautet die Antwort dreimal „nein“, reicht Shared Hosting."
       ],
-      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
-      "imageAlt": "Übersicht mit drei Fragen: Muss ein System außerhalb des Panels installiert werden, braucht man reservierte CPU und reservierten Arbeitsspeicher, braucht man Root-Zugriff; jedes Ja führt zum VPS, dreimal Nein führt zum Shared Hosting",
-      "imageCaption": "Die drei Fragen, die zwischen Shared Hosting und VPS entscheiden. Eigene Übersicht, auf Grundlage der Hostinger-Seiten.",
-      "imageFit": "contain",
-      "imageAspectRatio": 1.7787,
+      "image": {
+        "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
+        "alt": "Übersicht mit drei Fragen: Muss ein System außerhalb des Panels installiert werden, braucht man reservierte CPU und reservierten Arbeitsspeicher, braucht man Root-Zugriff; jedes Ja führt zum VPS, dreimal Nein führt zum Shared Hosting",
+        "caption": "Die drei Fragen, die zwischen Shared Hosting und VPS entscheiden. Eigene Übersicht, auf Grundlage der Hostinger-Seiten.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      },
       "comparisonTable": {
         "headers": [
           "Szenario",
@@ -194,17 +196,12 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20% Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie die Zeile „Coupon applied“, bevor Sie zahlen. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
         "Ist ein VPS schneller als Shared Hosting? Nicht unbedingt. Reservierte Ressourcen und Root-Zugriff ändern die Kontrolle über die Umgebung, bestimmen aber allein nicht die Antwortzeit Ihrer Website. Vergleichen Sie die Anforderungen der Anwendung und die Tarifgrenzen.",
         "Kann ich mit Shared Hosting beginnen und später zum VPS wechseln? Ja, sofern die Anwendung mit der neuen Umgebung kompatibel ist. Es ist ein neuer Vertrag, mit Serverinstallation und Umzug der Website; Shared Hosting lässt sich im Panel nicht in einen VPS umwandeln.",
         "Braucht man Linux-Kenntnisse für einen VPS? Ja, die Grundlagen des Terminals: Programme installieren, das System aktualisieren und ein Log lesen. Beim Shared Hosting läuft alles über das Panel, ein Terminal ist nicht nötig.",
         "Schafft ein VPS WordPress? Ja. Man kann vom WordPress-Template des VPS ausgehen, das schon installiert ist, aber Aktualisieren, Absichern und Zurückspielen von Backups bleibt bei Ihnen. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server.",
         "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
-      ]
-    },
-    {
-      "heading": "Wer schreibt",
-      "paragraphs": [
-        "Em Casa com Cecília läuft bei Hostinger im verwalteten Hosting, als Node.js Web App, und die Domain ist seit 2024 bei Hostinger registriert. Dieser Text enthält keinen VPS-Test: Er fasst zusammen, was die Hostinger-Seiten sagen, und die Erfahrung der Website beschränkt sich auf das verwaltete Hosting."
       ]
     }
   ],
@@ -232,13 +229,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Nehmen Sie den VPS, wenn die Website ein System, Programm oder eine Datenbank braucht, die nicht im Panel ist.",
-      "Nehmen Sie ihn, wenn Sie reservierte CPU und reservierten Arbeitsspeicher oder Root-Zugriff brauchen.",
-      "Nehmen Sie ihn, wenn Sie ein Panel, einen Bot oder eine Automatisierung (n8n, Docker) haben, die den ganzen Tag läuft, und jemanden, der den Server wartet."
+      "die Website ein System, Programm oder eine Datenbank braucht, die nicht im Panel ist.",
+      "Sie reservierte CPU und reservierten Arbeitsspeicher oder Root-Zugriff brauchen.",
+      "Sie ein Panel, einen Bot oder eine Automatisierung (n8n, Docker) haben, die den ganzen Tag läuft, und jemanden, der den Server wartet."
     ],
     "skipIf": [
-      "Lassen Sie den VPS weg, wenn es um einen Blog, ein Portfolio, eine Firmenseite, einen kleinen Shop oder eine Node.js-Website geht (auf einem passenden Tarif wie Unlimited oder Cloud Startup): Shared Hosting genügt, und Hostinger betreut den Server.",
-      "Lassen Sie ihn, wenn Sie noch nie ein Terminal geöffnet haben: Installieren, Aktualisieren, Absichern und Backups liegen dann bei Ihnen."
+      "es um einen Blog, ein Portfolio, eine Firmenseite, einen kleinen Shop oder eine Node.js-Website geht (auf einem passenden Tarif wie Unlimited oder Cloud Startup): Shared Hosting genügt, und Hostinger betreut den Server.",
+      "Sie noch nie ein Terminal geöffnet haben: Installieren, Aktualisieren, Absichern und Backups liegen dann bei Ihnen."
     ]
   }
 }

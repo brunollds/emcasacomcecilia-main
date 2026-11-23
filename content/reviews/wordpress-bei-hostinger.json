@@ -34,7 +34,7 @@
   "metaDescription": "WordPress bei Hostinger: Premium, Unlimited oder Cloud Startup? Tarif pro Projekt, Preis und Verlängerung am 30.10.2026 und die Checkliste für den Start.",
   "publishedAt": "30. Oktober 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -113,8 +113,7 @@
       },
       "postParagraphs": [
         "Die Seite nennt kein Enddatum für die Aktion, und die Preise können sich ändern."
-      ],
-      "emphasis": "Vergleichen Sie Gesamtbindung, rechnerischen Monatspreis und Verlängerung. Weder Einstiegspreis noch Verlängerung entscheiden allein."
+      ]
     },
     {
       "heading": "Was in den Tarifen schon enthalten ist",
@@ -159,23 +158,18 @@
         "**Nehmen Sie den Premium**, wenn Sie bis zu drei Websites betreiben. Das Backup ist wöchentlich, und die Verlängerung ist die niedrigste der drei Tarife.",
         "**Nehmen Sie den Unlimited**, wenn Sie einen Shop oder mehrere Websites haben. Das tägliche Backup ist der Hauptgrund, und es beginnt hier.",
         "**Der Cloud Startup** lohnt sich nur, wenn der Unlimited nicht reicht. Er ist der teuerste, und die Verlängerung von 25,99 US$ im Monat fällt stark ins Gewicht."
-      ]
+      ],
+      "emphasis": "Nach den Zahlen der Tabelle ist für ein bis drei Websites der Premium die Wahl und für einen Shop oder viele Websites der Unlimited, weil das tägliche Backup dort beginnt. Vergleichen Sie die Gesamtbindung und die Verlängerung: Weder der Einstiegspreis noch die Verlängerung entscheidet allein."
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20% Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld \"Have a coupon code?\" im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile \"Coupon applied\". Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
         "Welcher WordPress-Tarif von Hostinger ist der günstigste? Der Premium: 2,49 US$ im Monat über 48 Monate (119,52 US$ insgesamt), für bis zu 3 Websites. Er verlängert sich auf 10,99 US$ im Monat.",
         "Ist WordPress bei Hostinger schon installiert? Sie installieren es im Hosting-Panel, ohne Dateien von Hand herunterzuladen. Die Checkliste oben erklärt die Schritte.",
         "Welcher WordPress-Tarif von Hostinger eignet sich für einen Online-Shop? Der Unlimited, wegen der täglichen Backups und der unbegrenzten Websites. Für einen Shop mit viel Traffic der Cloud Startup.",
-        "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? SONAR20: 20 % im ersten Zeitraum eines berechtigten Neukaufs. WordPress-Tarif im Warenkorb prüfen; Domainregistrierung und Verlängerung sind ausgeschlossen.",
         "Ist der Verlängerungspreis derselbe wie der Aktionspreis? Nein. Nach dem ersten Zeitraum von 48 Monaten gilt der Verlängerungspreis: beim Premium 10,99 US$ im Monat.",
         "Können Bestandskunden SONAR20 nutzen? Bei einem berechtigten Neukauf mit demselben Konto kann der Code gelten, nicht bei der Verlängerung des bestehenden Dienstes. Domainregistrierungen sind ebenfalls ausgeschlossen. Geben Sie den Code ein und prüfen Sie den Gesamtbetrag."
-      ]
-    },
-    {
-      "heading": "Wer schreibt",
-      "paragraphs": [
-        "Der Em Casa com Cecília läuft auf dem verwalteten Hosting von Hostinger als Node.js Web App, und die Domain ist seit 2024 bei Hostinger registriert. Die Seite nutzt kein WordPress, und niemand aus dem Team hat WordPress bei Hostinger genutzt. Dieser Text fasst zusammen, was die WordPress-Hosting-Seiten von Hostinger auf der internationalen Seite, in US-Dollar, sagen."
       ]
     }
   ],
@@ -203,13 +197,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Nehmen Sie den Premium, wenn es nur eine Website ist und Sie nur ab und zu veröffentlichen: Er ist der Einstiegstarif.",
-      "Nehmen Sie den Premium auch, wenn Sie zwei oder drei Websites haben werden.",
-      "Nehmen Sie den Unlimited, wenn Sie einen Shop oder viele Websites haben: Das tägliche Backup beginnt dort."
+      "es nur eine Website ist und Sie nur ab und zu veröffentlichen: der Premium ist der Einstiegstarif.",
+      "es zwei oder drei Websites werden: der Premium deckt sie ebenfalls ab.",
+      "Sie einen Shop oder viele Websites haben: der Unlimited, ab dem das tägliche Backup beginnt."
     ],
     "skipIf": [
-      "Lassen Sie den Cloud Startup weg, wenn der Unlimited noch reicht: Er ist der teuerste Tarif, auch bei der Verlängerung.",
-      "Vergleichen Sie ein anderes Werkzeug, wenn Sie Themes und Plugins nicht verwalten möchten; vor dem Ersatz durch den KI-Builder Funktionen, Integrationen und Kosten prüfen."
+      "der Unlimited noch reicht: der Cloud Startup ist der teuerste Tarif, auch bei der Verlängerung.",
+      "Sie Themes und Plugins nicht verwalten möchten: vergleichen Sie ein anderes Werkzeug und prüfen Sie Funktionen, Integrationen und Kosten, bevor Sie WordPress durch den KI-Builder ersetzen."
     ]
   }
 }

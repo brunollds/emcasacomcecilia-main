@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger WordPress：Premium、Unlimited 還是 Cloud Startup？依專案選方案，2026年10月30日的美元價格與續約價，以及開始使用的檢查清單。",
   "publishedAt": "2026年10月30日",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa-v2.webp",
@@ -112,8 +112,7 @@
       },
       "postParagraphs": [
         "頁面上沒有標示活動的結束日期，價格可能變動。"
-      ],
-      "emphasis": "比較合約總額、折算月費與續約價。入門價或續約價單獨都不能決定選擇。"
+      ]
     },
     {
       "heading": "方案已包含的內容",
@@ -158,23 +157,18 @@
         "**選 Premium**，如果你有一到三個網站。三個方案中，它的入門價與續約價都最低，備份為每週一次。",
         "**選 Unlimited**，如果你有網路商店或很多網站。每日備份是主要原因，從這個方案開始才有。",
         "**Cloud Startup** 只有在 Unlimited 不夠用時才有意義。它最貴，每月 US$ 25.99 的續約價負擔很重。"
-      ]
+      ],
+      "emphasis": "依表中的數字，1 到 3 個網站選 Premium，有網路商店或很多網站選 Unlimited，因為每日備份從它開始。請把合約總價和續約價放在一起比較：入門價和續約價都不能單獨決定選擇。"
     },
     {
       "heading": "常見問題",
       "bullets": [
+        "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合條件的新購可享首個週期 20% 折扣：請在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」一行。續約按定價收費，沒有折扣。",
         "Hostinger 最便宜的 WordPress 方案是哪一個？是 Premium：48 個月預付每月 US$ 2.49，總價 US$ 119.52，最多 3 個網站。續約價為每月 US$ 10.99。",
         "Hostinger 的 WordPress 是預先安裝好的嗎？要在主機管理面板安裝，不需要手動下載檔案。步驟請見上方的檢查清單。",
         "網路商店適合哪一個 WordPress 方案？Unlimited：網站不限，每日備份。流量非常大的商店可以考慮 Cloud Startup。",
-        "SONAR20 可以用在 WordPress 方案嗎？ SONAR20：符合條件的新購首期優惠20%。請在購物車確認WordPress方案；網域註冊與續約除外。",
         "續約價和優惠價一樣嗎？不一樣。第一個 48 個月的期間結束後，以續約價計算：Premium 為每月 US$ 10.99。",
         "舊客戶也能用SONAR20嗎？同一帳號符合資格的新購可適用，但目前服務的續約不適用，網域註冊也除外。輸入代碼後請確認購物車總額。"
-      ]
-    },
-    {
-      "heading": "誰寫了這篇文章",
-      "paragraphs": [
-        "Em Casa com Cecília 運行在 Hostinger 的代管主機上，是一個 Node.js Web App，網域自 2024 年起在 Hostinger 註冊。網站本身並未使用 WordPress。本文整理的是 Hostinger 國際站 WordPress 主機頁面上的內容。"
       ]
     }
   ],
@@ -203,13 +197,13 @@
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
-      "如果只有一個網站，又只是偶爾更新，選 Premium：它是入門方案。",
-      "如果會有兩三個網站，也選 Premium。",
-      "如果有網路商店或很多網站，選 Unlimited：每日備份從它開始。"
+      "只有一個網站、偶爾更新時：Premium 是入門方案。",
+      "會有兩三個網站時：Premium 同樣夠用。",
+      "有網路商店或很多網站時：Unlimited，每日備份從它開始。"
     ],
     "skipIf": [
-      "如果 Unlimited 已經夠用，就不必選 Cloud Startup：它最貴，續約價也最高。",
-      "若不想管理佈景主題與外掛，也可比較其他工具；改用AI建站前請確認功能、整合與費用。"
+      "Unlimited 已經夠用時：Cloud Startup 最貴，續約價也最高。",
+      "不想管理佈景主題與外掛時：比較其他工具，改用AI建站前先確認功能、整合與費用。"
     ]
   }
 }

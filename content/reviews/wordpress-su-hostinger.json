@@ -34,7 +34,7 @@
   "metaDescription": "WordPress su Hostinger: Premium, Unlimited o Cloud Startup? Piano per progetto, prezzo e rinnovo al 30/10/2026 e la checklist per iniziare.",
   "publishedAt": "30 ottobre 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -113,8 +113,7 @@
       },
       "postParagraphs": [
         "La pagina non riporta una data di fine per la campagna, e i prezzi possono cambiare."
-      ],
-      "emphasis": "Confronta impegno totale, costo mensile equivalente e rinnovo. Né prezzo iniziale né rinnovo decidono da soli."
+      ]
     },
     {
       "heading": "Cosa c'è già nei piani",
@@ -159,23 +158,18 @@
         "**Prendi il Premium** se avrai fino a tre siti. Il backup è settimanale, e il rinnovo è il più basso dei tre piani.",
         "**Prendi l'Unlimited** se hai un negozio o più siti. Il backup giornaliero è il motivo principale, e parte da questo piano.",
         "**Il Cloud Startup** ha senso solo se l'Unlimited non basta. È il più caro, e il rinnovo di 25,99 US$ al mese pesa."
-      ]
+      ],
+      "emphasis": "Secondo i numeri del quadro, per un massimo di tre siti la scelta è il Premium, e per un negozio o molti siti l'Unlimited, perché il backup giornaliero parte da lì. Confronta il totale contrattato e il rinnovo: né il prezzo d'ingresso né il rinnovo decidono da soli."
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga a prezzo di listino, senza sconto.",
         "Qual è il piano WordPress più economico di Hostinger? Il Premium, a 2,49 US$ al mese per 48 mesi (119,52 US$ in totale), per fino a 3 siti. Si rinnova a 10,99 US$ al mese.",
         "WordPress è già installato su Hostinger? Lo installi dal pannello di hosting, senza scaricare i file a mano. La checklist qui sopra spiega i passaggi.",
         "Qual è il piano WordPress di Hostinger per un negozio online? L'Unlimited, per i backup giornalieri e i siti illimitati. Per un negozio con molto traffico, il Cloud Startup.",
-        "Il coupon SONAR20 vale sul piano WordPress di Hostinger? SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Controlla il piano WordPress nel carrello; registrazione di dominio e rinnovo sono esclusi.",
         "Il prezzo di rinnovo è uguale a quello promozionale? No. Dopo il primo periodo di 48 mesi vale il prezzo di rinnovo: per il Premium, 10,99 US$ al mese.",
         "Un cliente esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Anche la registrazione di dominio è esclusa. Inserisci il codice e controlla il totale nel carrello."
-      ]
-    },
-    {
-      "heading": "Chi scrive",
-      "paragraphs": [
-        "L'Em Casa com Cecília gira sull'hosting gestito di Hostinger, come Node.js Web App, e il dominio è registrato presso Hostinger dal 2024. Il sito non usa WordPress, e nessuno del team ha usato WordPress su Hostinger: questo testo riunisce quello che dicono le pagine di Hostinger per l'hosting WordPress del sito internazionale, in dollari."
       ]
     }
   ],
@@ -203,13 +197,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Prendi il Premium se è un sito solo e pubblichi ogni tanto: è il piano d'ingresso.",
-      "Prendi il Premium anche se avrai due o tre siti.",
-      "Prendi l'Unlimited se hai un negozio o più siti: il backup giornaliero parte da questo piano."
+      "è un sito solo e pubblichi ogni tanto: il Premium è il piano d'ingresso.",
+      "avrai due o tre siti: il Premium copre anche questi.",
+      "hai un negozio o più siti: l'Unlimited, da cui parte il backup giornaliero."
     ],
     "skipIf": [
-      "Lascia stare il Cloud Startup se l'Unlimited basta ancora: è il piano più caro, anche al rinnovo.",
-      "Confronta un altro strumento se non vuoi gestire temi e plugin; controlla funzioni, integrazioni e costi prima di sostituire WordPress con il builder IA."
+      "l'Unlimited basta ancora: il Cloud Startup è il piano più caro, anche al rinnovo.",
+      "non vuoi gestire temi e plugin: confronta un altro strumento e controlla funzioni, integrazioni e costi prima di sostituire WordPress con il builder IA."
     ]
   }
 }

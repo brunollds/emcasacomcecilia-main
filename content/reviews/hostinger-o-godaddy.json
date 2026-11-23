@@ -34,6 +34,7 @@
   "metaDescription": "SONAR20 da 20% en compras nuevas elegibles de Hostinger. Compara el hosting con GoDaddy en dólares: 1, 2 y 4 años, más la renovación.",
   "publishedAt": "6 de noviembre de 2026",
   "publishedAtISO": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -189,7 +190,7 @@
     {
       "heading": "¿Y el plan de 1 mes?",
       "paragraphs": [
-        "Premium de un mes figura a 12,99 US$, no admite el descuento de SONAR20 y anuncia la misma tarifa al renovar. Si se mantuviera durante doce meses, sumaría 155,88 US$, unas ocho veces el contrato de 12 meses con el código. La opción mensual permite contratar un período corto con un desembolso inicial menor, pero tiene un coste mensual más alto."
+        "Premium de un mes figura a 12,99 US$, con la misma tarifa al renovar. SONAR20 se aplica a los ciclos de 12, 24 y 48 meses; en los planes de 1 mes la aceptación depende del plan, así que comprueba la línea \"Coupon applied\" en el carrito antes de pagar. Si se mantuviera durante doce meses, sumaría 155,88 US$, unas ocho veces el contrato de 12 meses con el código. La opción mensual permite contratar un período corto con un desembolso inicial menor, pero tiene un coste mensual más alto."
       ]
     },
     {
@@ -252,7 +253,7 @@
       ],
       "links": [
         {
-          "label": "Consultar condiciones del cupón Hostinger SONAR20",
+          "label": "Ver el cupón SONAR20 y los planes de Hostinger",
           "href": "/es/coupons/hostinger"
         }
       ]
@@ -265,30 +266,25 @@
         "Cuatro años de hosting: Premium de 48 meses figuraba a 76,42 US$ con SONAR20. Economy suma 359,52 US$ en el escenario de 36 meses más una renovación al precio anunciado. Si aceptas pagar cinco años, Economy de 60 meses figuraba a 359,40 US$. En ambos casos, dominio y correo después del primer año se pagan aparte.",
         "Si solo necesitas hosting, Starter tiene la menor renovación anual anunciada: 71,88 US$. Aun así, Premium cuesta menos en los escenarios de uno, dos y cuatro años. Una renovación menor por sí sola no demuestra un menor gasto acumulado a más largo plazo.",
         "Antes de pagar, comprueba el total del carrito, el plazo contratado, los extras y el precio de renovación. Las promociones y las tarifas pueden cambiar."
-      ]
+      ],
+      "emphasis": "Según las cifras de las tablas, para un sitio que seguirá en línea dos años o más, la opción es Hostinger Premium con SONAR20, porque su plan de 24 meses cuesta 38,21 US$ frente a 155,76 US$ de GoDaddy Economy."
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con un 20% de descuento en el primer período de una compra nueva elegible: escribe el código en el campo \"Have a coupon code?\" del carrito y comprueba la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
         "¿Cuál es mejor, Hostinger o GoDaddy? Por precio de hosting, Premium con SONAR20 cuesta menos que Economy en los escenarios internacionales de uno, dos y cuatro años, y tiene una renovación anual anunciada menor. Dominio y correo solo son gratis el primer año. Starter tiene la renovación anual más baja, pero no el menor coste acumulado en esos plazos. Más criterios están en [cómo elegir un hosting web](/es/reviews/como-elegir-hosting-hostinger).",
         "¿GoDaddy renueva al mismo precio? No en Economy: el carrito muestra el plan de 1 año pasando de 83,88 US$ a 143,88 US$ al renovar. Starter no tiene descuento el primer año y renueva a los mismos 71,88 US$. Revisa la tarifa anunciada para el plazo que elijas.",
         "¿El cupón de Hostinger funciona en la renovación? No. SONAR20 da descuento en compras nuevas elegibles; la renovación se cobra a la tarifa del plan, sin ese descuento. Consulta la [guía de renovación de Hostinger](/es/reviews/hostinger-renovacion-cupon-sonar20).",
         "¿Hostinger Premium incluye dominio? Sí, gratis por 1 año, junto con 2 cuentas de correo por sitio. Después de ese año, el dominio se renueva por su cuenta, al precio actual de Hostinger.",
-        "¿Puedo mover mi sitio de GoDaddy a Hostinger? La página de ayuda de Hostinger dice que la migración gratuita cubre un sitio de otra empresa en los planes Web, Cloud o Agency. Revisa tu plan con el soporte antes de cancelar el anterior.",
-        "¿Cuál es el cupón de Hostinger? SONAR20 da un 20% de descuento en el primer período de compras nuevas elegibles; no se aplica a la renovación ni al Premium de un mes."
-      ]
-    },
-    {
-      "heading": "Quién escribe",
-      "paragraphs": [
-        "Em Casa com Cecília funciona en Hostinger, y su dominio está registrado allí. Para GoDaddy, este texto usa solo lo que muestran su página internacional y su carrito en dólares; nadie del equipo ha usado el servicio."
+        "¿Puedo mover mi sitio de GoDaddy a Hostinger? La página de ayuda de Hostinger dice que la migración gratuita cubre un sitio de otra empresa en los planes Web, Cloud o Agency. Revisa tu plan con el soporte antes de cancelar el anterior."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Introduce SONAR20 en el campo de cupón del carrito internacional o entra por el enlace para obtener un 20% en el primer período de una compra nueva elegible. SONAR20 no se aplica a Premium de un mes. Comprueba el total antes de pagar; SONAR20 no descuenta la renovación.",
+    "text": "Introduce SONAR20 en el campo de cupón del carrito internacional o entra por el enlace para obtener un 20% en el primer período de una compra nueva elegible. En los planes de 1 mes la aceptación depende del plan: comprueba la línea \"Coupon applied\" antes de pagar. SONAR20 no descuenta la renovación.",
     "label": "Ver los planes de hosting con el SONAR20",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -318,12 +314,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Elige Hostinger Premium si puedes pagar 24 o 48 meses de hosting por adelantado: con SONAR20, los importes son menores que los de Economy.",
-      "Elige Hostinger Premium si necesitas un año de hosting: el contrato de 12 meses con SONAR20 cuesta menos que Economy y tiene una renovación anual anunciada menor; dominio y correo son gratis solo el primer año."
+      "puedes pagar por adelantado 24 o 48 meses de hosting: con SONAR20, Premium cuesta menos que Economy en esas comparaciones, y las renovaciones de dominio y correo van aparte.",
+      "el proyecto necesita un año de hosting con dominio y correo incluidos: el precio de 12 meses de Premium es menor que el de Economy, y su renovación anual de hosting también."
     ],
     "skipIf": [
-      "Considera GoDaddy Starter si buscas cPanel y ya resuelves el dominio y el correo por separado: tiene la menor renovación anual anunciada, pero compara el gasto acumulado, porque Premium cuesta menos en los escenarios de uno, dos y cuatro años.",
-      "Considera GoDaddy Economy si prefieres cPanel y aceptas los importes de hosting más altos comparados aquí."
+      "solo necesitas hosting y priorizas la renovación anual más baja: GoDaddy Starter gana en eso, pero cuesta más que Premium en los primeros cuatro años, así que un proyecto más largo pide comparar el costo total.",
+      "prefieres cPanel y aceptas pagar más que con Premium en el primer año, a 2 y 4 años y en la renovación: ese es el caso de GoDaddy Economy."
     ]
   }
 }

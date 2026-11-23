@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger Horizons ahora es el creador con IA. ¿Vale la pena o WordPress? Cuadro por tipo de proyecto, comparación con Wix y Lovable y créditos de IA.",
   "publishedAt": "28 de octubre de 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -206,24 +206,19 @@
         "**Vale la pena** para quien quiere una web de pocas páginas, un portfolio, una tienda pequeña o una app web sencilla y no quiere programar ni ocuparse de plugins. La primera versión sale de la descripción, y el modo sin IA permite ajustar sin gastar créditos. Empieza por la prueba gratis; si el resultado te sirve, el plan Premium cubre una web sencilla y el Unlimited, una tienda.",
         "**Quédate en WordPress** si el proyecto depende de plugins, de un tema tuyo, de alguien que mantendrá la web, o si quieres llevártelo todo a otro hosting sin rehacer nada. El plan de Hostinger es el mismo en los dos casos, así que la elección es solo de herramienta.",
         "**Si dudas, prueba el creador con IA antes de pagar.** Son 5 créditos gratis, sin tarjeta, lo bastante para ver si la IA entiende lo que quieres. Si no lo entiende, WordPress sigue ahí."
-      ]
+      ],
+      "emphasis": "Para quien quiere una web o una app web sencilla sin programar, la elección es el creador con IA en el plan Premium, porque cubre ese proyecto y el modo sin IA edita sin gastar créditos."
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20% de descuento en el primer período de una compra nueva elegible: introduce el código en el campo \"Have a coupon code?\" del carrito y comprueba la línea \"Coupon applied\" antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
         "¿Hostinger Horizons todavía existe? Existe con otro nombre. En 2026 Horizons se fusionó con el constructor de sitios de Hostinger y pasó a ser el creador con IA (Hostinger AI Builder), con un modo de arrastrar y soltar y un modo de crear por el chat. La dirección antigua redirige a la página nueva.",
         "¿El creador con IA de Hostinger hace la web solo? Monta la primera versión a partir de tu descripción, según la página. El contenido, las fotos y las decisiones de negocio siguen siendo tuyos, y cada petición en el modo con IA consume créditos.",
         "¿Hace falta saber programar para usar el creador con IA? No. La página dice que no exige conocimientos técnicos en ninguno de los dos modos. Quien sabe programar tiene un editor de código en el modo con IA.",
         "¿Se puede migrar del creador con IA a otro hosting? La página dice que el código fuente se puede exportar y alojar en otro sitio. El back end integrado, con base de datos e inicio de sesión, se queda en Hostinger, así que una app necesita reconfigurarse fuera de ella.",
         "¿El creador con IA sirve para una tienda online? Para una tienda pequeña, sí: la tienda online está disponible en los planes Unlimited y Cloud Startup como complemento de pago. Para una tienda grande, con reglas de envío y pago, WordPress con WooCommerce da más control.",
-        "¿Hay cupón para el creador con IA de Hostinger? Usa SONAR20 para un 20 % en el primer periodo de una compra nueva elegible. Comprueba la suscripción y los servicios incluidos en el carrito; registro de dominio y renovación quedan fuera.",
         "¿Un cliente existente de Hostinger puede usar SONAR20? Sí, en una compra nueva elegible con la misma cuenta, no en la renovación del servicio actual. Da un 20 % en el primer periodo; el registro de dominio también queda fuera. Comprueba el total del carrito."
-      ]
-    },
-    {
-      "heading": "Quién escribe",
-      "paragraphs": [
-        "Em Casa com Cecília funciona en el hosting gestionado de Hostinger, como Node.js Web App, y el dominio está registrado en Hostinger desde 2024. Nadie del equipo ha usado el creador con IA ni Horizons: este texto reúne lo que dicen la página del producto, la documentación de WordPress y las páginas públicas de Wix y Lovable."
       ]
     }
   ],
@@ -251,14 +246,14 @@
   ],
   "decision": {
     "takeIf": [
-      "Elige el creador con IA si quieres una web de pocas páginas, un portfolio, una tienda pequeña o una app web sencilla sin programar.",
-      "Elígelo si quieres hosting, dominio y correo en el mismo plan y aceptas que la IA monte la primera versión.",
-      "Elígelo si vas a montar la web una vez y ajustar texto y fotos en el editor del modo sin IA, que no gasta créditos."
+      "quieres una web de pocas páginas, un portfolio, una tienda pequeña o una app web sencilla sin programar.",
+      "quieres hosting, dominio y correo en el mismo plan y aceptas que la IA monte la primera versión.",
+      "vas a montar la web una vez y ajustar texto y fotos en el editor del modo sin IA, que no gasta créditos."
     ],
     "skipIf": [
-      "Pasa, y quédate en WordPress, si el proyecto depende de un plugin concreto o de un tema que ya tienes.",
-      "Pasa si otra persona o una agencia va a mantener la web: WordPress es el estándar del mercado.",
-      "Pasa si quieres llevártelo todo a otro hosting sin rehacer nada, o si vas a pedirle cambios a la IA cada semana y cada petición gasta créditos."
+      "el proyecto depende de un plugin concreto o de un tema que ya tienes: quédate en WordPress.",
+      "otra persona o una agencia va a mantener la web: WordPress es el estándar del mercado.",
+      "quieres llevártelo todo a otro hosting sin rehacer nada, o vas a pedirle cambios a la IA cada semana y cada petición gasta créditos."
     ]
   }
 }

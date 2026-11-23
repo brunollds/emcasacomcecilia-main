@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger Reach 值得用嗎？依情況選擇的表格、方案、寄送上限、WhatsApp 與續訂價，並與 Mailchimp、Brevo 的免費版比較，截至 2026 年 10 月 30 日。",
   "publishedAt": "2026年10月30日",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa-zh-hant-v2.webp",
@@ -135,8 +135,7 @@
         "**Starter：** 100 位收件人，每月 200 封郵件，沒有 AI 額度。郵件帶有 Reach 標誌。",
         "**Grow：** 500 位收件人，每月 3,500 封郵件，每月 10 個 AI 額度。去掉 Reach 標誌，含個人化、排程寄送和自動化。",
         "**Pro：** 1,000 位收件人，每月 7,000 封郵件，每月 20 個 AI 額度。增加 HTML、最佳寄送時間、WhatsApp 行銷、自訂欄位和團隊成員。"
-      ],
-      "emphasis": "在方案之間猶豫時，決定因素是名單的大小。頁面上的方案最多到 1,000 位收件人；超過的話，請在購物車裡看看有沒有更大的 Pro 級距，或者選擇 Mailchimp 或 Brevo。"
+      ]
     },
     {
       "heading": "Mailchimp 與 Brevo：免費版",
@@ -198,11 +197,13 @@
         "**先用免費版：** 如果名單剛起步，而且你還不確定會多頻繁地寄信，就留在 Mailchimp 或 Brevo 的免費版。Reach 在國際站上也沒有免費版。",
         "**選 Mailchimp 或 Brevo：** 如果名單超過 1,000 人，或者當月郵件總數（含自動化）超過 Pro 的 7,000 封。Reach 方案在 1,000 位收件人處停止。",
         "如果是我自己的網站，我會選 Reach Grow：它為 500 人以內的名單提供自動化，續訂後每月也只要 US$ 2.49。"
-      ]
+      ],
+      "emphasis": "依表中的數字，已有 Hostinger 網站且收件人在 1,000 以內的人，應選 Reach 的 Grow 或 Pro：Grow 涵蓋 500 位收件人並附自動化，Pro 涵蓋 1,000 位並支援 WhatsApp。超過 1,000 位聯絡人後，Reach 的方案就到頂了，應選 Mailchimp 或 Brevo。"
     },
     {
       "heading": "常見問題",
       "bullets": [
+        "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合條件的新購可享首個週期 20% 折扣：請在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」一行。續約按定價收費，沒有折扣。",
         "Hostinger Reach 值得用嗎？如果你已在 Hostinger 有網站，且收件人在 1,000 人以內，就值得。Grow 前 12 個月為 US$ 1.74/月，續訂為 US$ 2.49/月。",
         "Hostinger Reach 多少錢？國際站以美元顯示：Starter 每月 US$ 1.49，Grow 每月 US$ 1.74，Pro 每月 US$ 2.79，均為前 12 個月的價格。續訂分別為 US$ 1.49、US$ 2.49 和 US$ 3.99。價格可能因國家和幣別而異。",
         "Hostinger Reach 有免費版嗎？沒有，三個方案都是付費的。Mailchimp 對少於 250 位聯絡人免費，Brevo 每天最多 300 封免費。",
@@ -211,12 +212,6 @@
         "Hostinger Reach 還是 Mailchimp？如果收件人在 1,000 人以內，選 Reach。如果想免費開始，或名單超過 1,000 人，選 Mailchimp 或 Brevo。",
         "SONAR20 適用於 Hostinger Reach 嗎？適用。Bruno 用 Reach 500 的 24 個月方案測試過，折扣已生效。其他方案和期間的最終價格以購物車顯示為準。",
         "已有 Hostinger 帳號的客戶也能用 SONAR20 嗎？符合條件的新購即使已有帳號也可以適用。網域註冊和續訂不適用。"
-      ]
-    },
-    {
-      "heading": "誰在寫這篇文章",
-      "paragraphs": [
-        "Em Casa com Cecília 運行在 Hostinger 的託管主機上，網域自 2024 年起也註冊在 Hostinger。本文彙整了三家的價格頁面，以及我們在購物車中測試 SONAR20 的結果。Hostinger 如何收費、續訂和退款，請看 [Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)"
       ]
     }
   ],
@@ -245,13 +240,13 @@
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
-      "如果你已在 Hostinger 有網站，且名單在 1,000 人以內，就選 Reach。",
-      "如果需要用 WhatsApp 發訊息，就選 Reach Pro。",
-      "當月不同收件人數與行銷活動、自動郵件的總封數都在方案額度內時，可以考慮該方案。"
+      "已有 Hostinger 網站，名單在 1,000 位收件人以內時",
+      "需要用 WhatsApp 發訊息時（只有 Reach Pro 支援）",
+      "每月的獨立收件人數與活動、自動化郵件總量都在方案上限內時"
     ],
     "skipIf": [
-      "如果名單剛起步，在 Mailchimp 或 Brevo 的免費版額度內，就先不選。",
-      "如果當月不同收件人數或郵件總封數超過 Reach 最高方案（Pro）的額度，就不選。"
+      "名單剛起步，Mailchimp 或 Brevo 的免費版就夠用時",
+      "每月的獨立收件人或郵件總量超過所選方案上限時"
     ]
   }
 }

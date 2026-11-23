@@ -34,7 +34,7 @@
   "metaDescription": "VPS o hosting condiviso su Hostinger: cos'è ciascuno, quadro per scenario, specifiche dei KVM da 1 a 8 e cosa resta a te nella manutenzione.",
   "publishedAt": "28 ottobre 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -52,7 +52,7 @@
     {
       "heading": "Cos'è ciascuno",
       "paragraphs": [
-        "L'**hosting condiviso** è un server diviso tra più clienti. Hostinger si occupa del sistema, del server web e degli aggiornamenti; tu entri nel pannello, installi WordPress o carichi i file del sito, e basta. Su Hostinger sono i piani Single, Premium e Unlimited, più il Cloud Startup, che è la stessa idea con più risorse.",
+        "L'**hosting condiviso** è un server diviso tra più clienti. Hostinger si occupa del sistema, del server web e degli aggiornamenti; tu entri nel pannello, installi WordPress o carichi i file del sito, e basta. Su Hostinger sono i piani Premium e Unlimited, più il Cloud Startup, che è la stessa idea con più risorse.",
         "Un **VPS** (server privato virtuale) è una macchina virtuale solo tua, con processore, memoria e disco riservati e accesso root, l'account di amministrazione del sistema. Configurazione, aggiornamenti e sicurezza restano a tuo carico.  I piani confrontati sono KVM 1, 2, 4 e 8.",
         "La differenza non è «meglio o peggio». È chi si occupa del server e quante risorse restano riservate a te."
       ]
@@ -62,11 +62,13 @@
       "paragraphs": [
         "Prima di guardare il prezzo, rispondi a tre domande. Se la risposta è «no» a tutte e tre, l'hosting condiviso risolve."
       ],
-      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
-      "imageAlt": "Quadro con tre domande: serve installare un sistema fuori dal pannello, servono CPU e memoria riservate, serve l'accesso root; ogni sì porta al VPS e tre no portano all'hosting condiviso",
-      "imageCaption": "Le tre domande che decidono tra hosting condiviso e VPS. Quadro nostro, a partire dalle pagine di Hostinger.",
-      "imageFit": "contain",
-      "imageAspectRatio": 1.7787,
+      "image": {
+        "src": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
+        "alt": "Quadro con tre domande: serve installare un sistema fuori dal pannello, servono CPU e memoria riservate, serve l'accesso root; ogni sì porta al VPS e tre no portano all'hosting condiviso",
+        "caption": "Le tre domande che decidono tra hosting condiviso e VPS. Quadro nostro, a partire dalle pagine di Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7787
+      },
       "comparisonTable": {
         "headers": [
           "Scenario",
@@ -194,17 +196,12 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
         "Il VPS è più veloce dell'hosting condiviso? Non necessariamente. Le risorse riservate e l'accesso root cambiano il controllo dell'ambiente, ma da soli non permettono di prevedere i tempi di risposta del sito. Confronta i requisiti dell'applicazione e i limiti del piano.",
         "Posso iniziare sul condiviso e passare al VPS dopo? Sì, se l'applicazione è compatibile con il nuovo ambiente. È un nuovo contratto, con installazione del server e trasferimento del sito; l'hosting condiviso non si converte in VPS dal pannello.",
         "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Sul condiviso, tutto passa dal pannello e non devi usare il terminale.",
         "Il VPS regge WordPress? Sì. Puoi partire dal template WordPress del VPS, già installato, ma aggiornare, proteggere e ripristinare i backup resta compito tuo. Sul condiviso, WordPress arriva pronto nel pannello e Hostinger si occupa del server.",
         "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
-      ]
-    },
-    {
-      "heading": "Chi scrive",
-      "paragraphs": [
-        "Em Casa com Cecília gira su Hostinger in hosting gestito, come Node.js Web App, e il dominio è registrato su Hostinger dal 2024. Questo testo non contiene una prova di VPS: raccoglie ciò che dicono le pagine di Hostinger, e l'esperienza del sito è solo quella dell'hosting gestito."
       ]
     }
   ],
@@ -232,13 +229,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Prendi il VPS se il sito ha bisogno di un sistema, un programma o un database che non è nel pannello.",
-      "Prendilo se ti servono CPU e memoria riservate o l'accesso root.",
-      "Prendilo se hai un pannello, un bot o un'automazione (n8n, Docker) attivi tutto il giorno e qualcuno che mantenga il server."
+      "il sito ha bisogno di un sistema, un programma o un database che non è nel pannello.",
+      "ti servono CPU e memoria riservate o l'accesso root.",
+      "hai un pannello, un bot o un'automazione (n8n, Docker) attivi tutto il giorno e qualcuno che mantenga il server."
     ],
     "skipIf": [
-      "Lascia stare se è un blog, un portfolio, un sito aziendale, un piccolo negozio o un sito in Node.js (su un piano compatibile, come Unlimited o Cloud Startup): il condiviso basta e Hostinger si occupa del server.",
-      "Lascia stare se non hai mai aperto un terminale: installare, aggiornare, proteggere e fare backup diventano compiti tuoi."
+      "è un blog, un portfolio, un sito aziendale, un piccolo negozio o un sito in Node.js (su un piano compatibile, come Unlimited o Cloud Startup): il condiviso basta e Hostinger si occupa del server.",
+      "non hai mai aperto un terminale: installare, aggiornare, proteggere e fare backup diventano compiti tuoi."
     ]
   }
 }

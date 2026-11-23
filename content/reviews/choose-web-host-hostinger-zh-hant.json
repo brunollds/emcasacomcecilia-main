@@ -34,7 +34,7 @@
   "metaDescription": "2026年10月30日的 Hostinger 價格整理：促銷價與續訂價按月並排，並說明備份、伺服器所在地和 VPS，幫你挑選主機。",
   "publishedAt": "2026年10月30日",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa-v2.webp",
@@ -121,8 +121,7 @@
         "**3 個網站以內：** Premium。促銷價每月 US$ 2.49，續訂價每月 US$ 10.99，兩項都是查看的方案裡最低的。",
         "**網站數量無限：** Unlimited。50 GB NVMe，每天備份，續訂價每月 US$ 16.99。網站多，就算一算每個網站每月的成本。",
         "**最高方案：** Cloud Startup。100 GB NVMe，續訂價每月 US$ 25.99。只有真正需要額外效能時才值得；一般的多個網站，Unlimited 就夠了。"
-      ],
-      "emphasis": "首期的總價容易誤導。請按月比較，並把續訂價放在旁邊。"
+      ]
     },
     {
       "heading": "價格之外要看的",
@@ -174,7 +173,8 @@
     {
       "heading": "SONAR20 優惠碼",
       "paragraphs": [
-        "符合資格的新購買首期享 20% 折扣。在購物車的優惠碼欄位輸入 **SONAR20**，已有帳號也可適用。Startup 電商方案、專業電子郵件和 Reach 都適用；選定的主機或 VPS 方案請在購物車確認適用情形。網域註冊與續訂除外。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
+        "符合資格的新購買首期享 20% 折扣。在購物車的優惠碼欄位輸入 **SONAR20**，已有帳號也可適用。Startup 電商方案、專業電子郵件和 Reach 都適用；選定的主機或 VPS 方案請在購物車確認適用情形。網域註冊與續訂除外。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。",
+        "SONAR20 適用於 12、24 和 48 個月的週期；1 個月方案是否接受要看具體方案，所以付款前請先確認購物車裡的「Coupon applied」那一行。"
       ]
     },
     {
@@ -184,11 +184,20 @@
         "**網站超過 3 個**，或是儲存空間和每日備份對你很重要，選 **Unlimited**。續訂價每月 US$ 16.99。Cloud Startup 留給確實需要額外效能的人。",
         "**無論哪種**，付款前先看續訂價那一欄，並在購物車確認金額。目前正在進行促銷，價格可能變動。",
         "如果是我自己的網站，只有一個網站時我會選 Premium，因為它的促銷價和續訂價都是查看的方案裡最低的。"
+      ],
+      "emphasis": "依表格裡的數字，網站在 3 個以內選 Premium，因為它續訂每月 US$ 10.99，而 Unlimited 是 US$ 16.99；只有網站超過 3 個時，Unlimited 才划算。",
+      "links": [
+        {
+          "label": "查看 SONAR20 優惠碼和 Hostinger 方案",
+          "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "常見問題",
       "bullets": [
+        "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合條件的新購買首期享 20% 折扣：在購物車的「Have a coupon code?」欄位輸入，付款前確認「Coupon applied」那一行。續訂按定價收費，沒有折扣。",
         "網站只有一個，哪個方案最便宜？應用程式、空間與備份需求符合的話，3 個網站以內用 Premium。促銷價每月 US$ 2.49，續訂價每月 US$ 10.99，促銷期 48 個月。",
         "Hostinger 續訂要多少錢？國際站的價格是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各國和貨幣可能不同，付款前請在購物車確認。",
         "VPS 從哪個方案看起？入門的 KVM 1（1 vCPU，4 GB，50 GB NVMe）以 24 個月計，促銷價每月 US$ 6.49，續訂價每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促銷價每月 US$ 8.79。購買長週期之前，先在購物車確認續訂價。",
@@ -196,12 +205,6 @@
         "SONAR20 能用在 VPS 上嗎？能，符合資格的新購 VPS 首期享 20% 折扣，請在購物車確認。",
         "能換主機而不遺失網站嗎？可以，把檔案和資料庫搬到新主機即可。請確認新主機是否提供免費搬遷，並在舊方案到期前完成。",
         "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，同一帳號符合資格的新購買可享 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
-      ]
-    },
-    {
-      "heading": "寫這篇文章的人",
-      "paragraphs": [
-        "Em Casa com Cecília 運行在 Hostinger 的代管服務上，網域自2024年起就在 Hostinger 註冊。本文整理的是 Hostinger 國際站頁面的內容。"
       ]
     }
   ],

@@ -34,7 +34,7 @@
   "metaDescription": "WordPress na Hostinger com o cupom SONAR20 de 20% OFF nos planos Single, Premium, Unlimited e Cloud Startup, e o checklist para começar.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa-v2.webp",
@@ -121,8 +121,7 @@
       },
       "postParagraphs": [
         "A página não traz data de fim para a campanha, e os preços podem mudar. Na Black Friday, os créditos de IA dos planos vêm em dobro: no Single, 500 em vez de 250; no Cloud Startup, 2.000 em vez de 1.000."
-      ],
-      "emphasis": "Compare total contratado, custo mensal equivalente e renovação. Nem o preço de entrada nem a renovação decidem sozinhos."
+      ]
     },
     {
       "heading": "O que já vem nos planos",
@@ -153,9 +152,9 @@
       ]
     },
     {
-      "heading": "Crédito promocional do Google Ads: confira a elegibilidade",
+      "heading": "Crédito do Google Ads da Hostinger: confira a elegibilidade",
       "paragraphs": [
-        "Os termos da promoção dizem que quem cria ou conecta uma conta do Google Ads pela integração do painel da Hostinger e gasta R$ 1.200 em anúncios nos primeiros 60 dias tem direito a R$ 1.200 em crédito, no Brasil. A elegibilidade é definida pelo Google, e a promoção pode mudar. Confira termos, ativação e prazo na sua conta antes de contar com o crédito. Não escolha hospedagem nem comece a anunciar só por esse benefício."
+        "A Hostinger tem uma promoção segundo a qual quem cria ou conecta uma conta do Google Ads pela integração do painel dela e gasta R$ 1.200 em anúncios nos primeiros 60 dias recebe R$ 1.200 em crédito, no Brasil. Quem define a elegibilidade é o Google, e a Hostinger pode mudar a promoção, então não conte com o crédito: confira termos, ativação e prazo na sua conta. Não escolha hospedagem nem comece a anunciar só por esse benefício."
       ]
     },
     {
@@ -177,35 +176,30 @@
         "**Pegue o Premium** se vai ter dois ou três sites. A diferença para o Single é o número de sites e o espaço, não o backup.",
         "**Pegue o Unlimited** se tem loja ou muitos sites. O backup diário é o motivo principal, e ele começa aqui.",
         "**O Cloud Startup** só faz sentido se o Unlimited já não basta. É o mais caro, e a renovação de R$ 129,99/mês pesa."
-      ]
+      ],
+      "emphasis": "Pelos números da tabela, para um site só a escolha é o Single; para dois ou três, o Premium; para loja ou muitos sites, o Unlimited, porque o backup diário começa nele. Compare o total contratado e a renovação, porque nem o preço de entrada nem a renovação decidem sozinhos."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
         "Qual o plano de WordPress mais barato da Hostinger? O Single, a R$ 5,99/mês em 48 meses (R$ 287,52 no total), para 1 site. Ele renova a R$ 23,99/mês.",
         "O WordPress vem instalado na Hostinger? A página diz que todos os planos incluem WordPress e cita um instalador de 1 clique no painel. Ela não detalha a instalação por plano.",
         "A Hostinger usa LiteSpeed no WordPress? A página fala em servidores LiteSpeed e cache inteligente na hospedagem WordPress, sem dizer em quais planos.",
         "Qual plano de WordPress da Hostinger para loja virtual? O Unlimited, pelos backups diários e sites ilimitados. Para loja com muito tráfego, o Cloud Startup, com backup sob demanda.",
-        "O cupom SONAR20 vale no plano de WordPress da Hostinger? SONAR20: 20% no primeiro período de compra nova elegível. Confira o plano WordPress no carrinho; registro de domínio e renovação ficam fora.",
         "O SONAR20 vale para cliente antigo? Vale numa compra nova elegível com a mesma conta, não na renovação do serviço atual. Registro de domínio também fica fora. Aplique o código e confira o total no carrinho."
-      ]
-    },
-    {
-      "heading": "Quem escreve",
-      "paragraphs": [
-        "O Em Casa com Cecília roda na hospedagem gerenciada da Hostinger, como Node.js Web App, e o domínio está registrado na Hostinger desde 2024. O site não usa WordPress: este texto reúne o que a página brasileira de hospedagem WordPress e os termos da promoção do Google Ads dizem."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Leve o Single se é um site só e você publica de vez em quando.",
-      "Leve o Premium se vai ter dois ou três sites.",
-      "Leve o Unlimited se tem loja ou muitos sites: o backup diário começa nele."
+      "é um site só e você publica de vez em quando: o Single basta.",
+      "vai ter dois ou três sites: o Premium atende.",
+      "tem loja ou muitos sites: o Unlimited, onde o backup diário começa."
     ],
     "skipIf": [
-      "Passe do Cloud Startup se o Unlimited ainda dá conta: é o plano mais caro, também na renovação.",
-      "Compare outra ferramenta se não quer administrar temas e plugins; confirme funções, integrações e custos antes de trocar WordPress pelo Criador com IA."
+      "o Unlimited ainda dá conta: o Cloud Startup é o plano mais caro, também na renovação.",
+      "não quer administrar temas e plugins: compare outra ferramenta e confirme funções, integrações e custos antes de trocar o WordPress pelo Criador com IA."
     ]
   },
   "pros": [],
