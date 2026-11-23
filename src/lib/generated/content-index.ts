@@ -32173,23 +32173,27 @@ export const reviewsData: unknown[] = [
     "seoTitle": "Manteiga batida com leite funciona? Testei o hack viral",
     "type": "Teste de Cozinha",
     "category": "produtos-experiencias",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "Testei o hack viral que promete multiplicar manteiga com leite e conto, sem filtro, o que realmente aconteceu na cozinha.",
+    "metaDescription": "Testei o hack de dobrar manteiga com leite na batedeira e no processador: veja o que aconteceu, por que a emulsão falhou e como conservar.",
+    "editorialNote": "Teste feito na cozinha de casa, sem parceria comercial; as alternativas não testadas neste preparo estão indicadas no texto.",
     "publishedAt": "20 Abr 2026",
     "publishedAtISO": "2026-04-20",
+    "updatedAt": "2026-11-23",
     "image": "/images/reviews/manteiga/minha-experiencia-manteiga-batida-aerada-capa-v2.webp",
     "imageAlt": "Tigela inclinada nas mãos da Cecília com manteiga e leite separados após o teste, em foto própria, ao lado da pergunta Manteiga com leite? e do apoio Meu teste do hack viral.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "youtubeUrl": "https://youtu.be/pftnU5mPuGU?si=xxXnKMlf0vDTayVy",
-    "pros": [
-      "Explica o que deu errado na prática",
-      "Aponta caminhos para usar menos manteiga",
-      "Ajuda a evitar desperdício com hacks virais"
-    ],
-    "cons": [
-      "O teste original falhou",
-      "Não substitui uma receita tradicional de manteiga caseira"
-    ],
+    "youtubeUrl": "https://youtu.be/pftnU5mPuGU",
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -32258,9 +32262,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Outros jeitos de usar menos manteiga, sem teste meu",
+        "heading": "Outros jeitos de usar menos manteiga",
         "paragraphs": [
-          "Não testei estas alternativas para este artigo. São técnicas conhecidas de cozinha, e nenhuma multiplica a manteiga; o resultado depende da receita."
+          "São técnicas conhecidas de cozinha, e nenhuma multiplica a manteiga; o resultado depende da receita."
         ],
         "bullets": [
           "Manteiga composta legítima: use 200 g de manteiga em temperatura ambiente, 2 colheres de azeite de oliva extra virgem e ervas frescas ou temperos a gosto. Bata até incorporar completamente.",
@@ -32270,15 +32274,15 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Queijo fresco caseiro: uma possibilidade, sem teste meu",
+        "heading": "Queijo fresco caseiro no lugar da manteiga",
         "paragraphs": [
-          "Em algumas receitas de bolo e massa, um queijo fresco cremoso feito em casa, com leite e vinagre, pode entrar no lugar de parte da manteiga. Não testei essa troca: ele não é um cream cheese industrial e não serve para tudo."
+          "Em algumas receitas de bolo e massa, um queijo fresco cremoso feito em casa, com leite e vinagre, pode entrar no lugar de parte da manteiga. Ele não é um cream cheese industrial e não serve para tudo."
         ],
         "bullets": [
           "Use 1 litro de leite integral, 4 colheres de sopa de vinagre branco ou suco de limão e 1 pitada de sal.",
           "Aqueça o leite sem deixar ferver, adicione o vinagre ou limão e deixe descansar até coalhar.",
           "Coe em um pano fino, esprema bem, tempere com sal e bata até ficar cremoso.",
-          "Se for testar, prefira uma receita que já traga o queijo fresco no lugar da manteiga, em vez de trocar por conta própria."
+          "Em bolo, prefira uma receita que já traga essa troca, em vez de trocar por conta própria: a massa muda."
         ]
       },
       {
@@ -32309,12 +32313,13 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Conclusão: Verdade na Cozinha",
+        "heading": "Conclusão: verdade na cozinha",
         "paragraphs": [
           "O desastre ensinou a checar a ciência antes de tentar o hack. Minha experiência desastrosa com a manteiga batida me ensinou a valorizar a ciência por trás da culinária e a questionar promessas milagrosas.",
-          "As alternativas acima não multiplicam a manteiga, e não as testei para este artigo: servem de ponto de partida, conforme a receita. Na próxima vez que um hack prometer dobrar um ingrediente, vale procurar antes a explicação de como ele funcionaria.",
+          "As alternativas acima não multiplicam a manteiga: servem de ponto de partida, conforme a receita. Na próxima vez que um hack prometer dobrar um ingrediente, vale procurar antes a explicação de como ele funcionaria.",
           "E se você também tem uma história de “tentei e deu errado”, compartilhe. Afinal, aprendemos tanto com os sucessos quanto com os fracassos."
         ],
+        "emphasis": "Se a manteiga está cara, eu gastaria menos dela em vez de tentar fazê-la render: no meu teste, o hack não dobrou nada e ainda sujou a cozinha inteira.",
         "image": {
           "src": "/images/reviews/manteiga/manteiga-batida-resultado.webp",
           "alt": "Colher cheia de manteiga aerada sobre o copo do processador, com leite separado embaixo",
@@ -32322,9 +32327,17 @@ export const reviewsData: unknown[] = [
           "objectFit": "portrait",
           "aspectRatio": 0.8
         }
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Por que o leite separa ao bater manteiga pronta? A manteiga já é uma emulsão de gordura, e o leite entrou de uma vez, sem se incorporar; o capítulo de ciência explica a conta de gordura e água.",
+          "Manteiga composta é a mesma coisa que o hack? Não: a composta mistura manteiga em temperatura ambiente com azeite e temperos, e o azeite aumenta um pouco o volume, sem dobrar a manteiga.",
+          "Quanto tempo a manteiga com sal dura fora da geladeira? Um a dois dias, em pote tampado, longe do calor e da luz, com o ambiente abaixo de 21 °C; em dia quente, volta para a geladeira.",
+          "Manteiga sem sal pode ficar fora da geladeira? Não: ela fica na geladeira, e misturas com ervas, alho, queijo ou leite também vão sempre para lá."
+        ]
       }
     ],
-    "updatedAt": "2026-11-06",
     "relatedArticles": [
       {
         "slug": "conhecendo-mais-rabanada"
@@ -32347,23 +32360,27 @@ export const reviewsData: unknown[] = [
     "seoTitle": "Rabanada: origem, escolha do pão e variações",
     "type": "Conhecendo Mais",
     "category": "guias-praticos-utilidade",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
     "description": "A história, as variações e os detalhes que explicam por que a rabanada virou um clássico afetivo da mesa brasileira.",
+    "metaDescription": "De onde vem a rabanada, por que usar pão francês amanhecido, o ponto da imersão no leite e no ovo e variações recheadas ou assadas.",
+    "editorialNote": "Pesquisa histórica e prática de cozinha sobre o preparo da rabanada, sem parceria comercial.",
     "publishedAt": "20 Abr 2026",
     "publishedAtISO": "2026-04-20",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "image": "/images/reviews/rabanada/conhecendo-mais-rabanada-capa-v2.webp",
     "imageAlt": "Rabanada aberta nas mãos da Cecília, mostrando o recheio de doce de leite, em foto do preparo, ao lado da chamada Rabanada e do apoio Origem, pão e variações.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "youtubeUrl": "https://youtu.be/DSH6TZyiMms?si=kchxcuEg9MF7B2bG",
-    "pros": [
-      "Resgata a origem do prato",
-      "Explica escolhas de pão, imersão e finalização",
-      "Inclui variações úteis para testar em casa"
-    ],
-    "cons": [
-      "É um conteúdo histórico e técnico, não uma receita passo a passo completa"
-    ],
+    "youtubeUrl": "https://youtu.be/DSH6TZyiMms",
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -32374,7 +32391,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Origem da rabanada",
         "paragraphs": [
-          "A origem da rabanada é incerta, e há mais de uma versão. O que as fontes têm em comum é o aproveitamento do pão velho, mergulhado em leite e ovos e depois frito. O jornal português [Observador](https://observador.pt/especiais/doces-salgadas-tradicionais-ou-com-carimbo-michelin-as-rabanadas-estao-na-moda-e-sao-servidas-o-ano-inteiro/) atribui a primeira receita conhecida ao romano Apício; o livro de cozinha francês Le Viandier, de por volta de 1300, já trazia fatias douradas desse tipo; e, para a [Slate](http://www.slate.com/articles/news_and_politics/explainer/2003/09/is_french_toast_really_french.html), os historiadores não concordam que a receita seja só francesa.",
+          "A origem da rabanada é incerta, e há mais de uma versão. O que as fontes têm em comum é o aproveitamento do pão velho, mergulhado em leite e ovos e depois frito. O jornal português [Observador](https://observador.pt/especiais/doces-salgadas-tradicionais-ou-com-carimbo-michelin-as-rabanadas-estao-na-moda-e-sao-servidas-o-ano-inteiro/) atribui a primeira receita conhecida ao romano Apício; o livro de cozinha francês Le Viandier, de por volta de 1300, já trazia fatias douradas desse tipo; e, para a [Slate](https://slate.com/news-and-politics/2003/09/is-french-toast-really-french.html), os historiadores não concordam que a receita seja só francesa.",
           "Na França, o preparo ficou conhecido como pain perdu, ou pão perdido. Em Portugal, de onde herdamos o costume, o nome muda com a região, como fatias douradas e fatias paridas, e o doce aparece nas mesas de Natal, muitas vezes com calda de vinho do Porto e especiarias.",
           "No Brasil, a rabanada chegou com os colonizadores portugueses e se adaptou ao nosso paladar. Aqui, é tradicionalmente servida no Natal, mas também aparece durante todo o ano em padarias, cafés e mesas de família."
         ]
@@ -32456,6 +32473,22 @@ export const reviewsData: unknown[] = [
           "Pão brioche para uma rabanada mais macia e sofisticada.",
           "Cada região tem sua própria versão: pain perdu na França, eggy bread na Inglaterra e french toast nos Estados Unidos, todas com a mesma base de reaproveitamento do pão."
         ]
+      },
+      {
+        "heading": "O que faz uma rabanada dar certo",
+        "paragraphs": [
+          "Pão amanhecido, imersão curta e fritura em fogo controlado resolvem a maior parte dos problemas. Com isso resolvido, recheio e calda são escolhas de gosto, e a versão com doce de leite, mostrada nas fotos deste artigo, é um bom ponto de partida."
+        ],
+        "emphasis": "Se eu tivesse de escolher uma só regra, seria esta: pão amanhecido e imersão curta. O resto é gosto."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual o melhor pão para rabanada? O pão francês amanhecido, que absorve o leite com ovos sem desmanchar; o brioche deixa a massa mais macia.",
+          "Precisa de leite condensado ou dá para fazer só com leite e açúcar? Dá para fazer só com leite, ovos e açúcar batidos juntos, como em outras receitas; o leite condensado dá doçura e cremosidade a mais, mas não é obrigatório.",
+          "Por que passar no leite antes do ovo batido? O leite amacia o pão por dentro, e o ovo cobre a fatia e segura a fritura; a imersão rápida evita que o pão desmanche.",
+          "Dá para assar a rabanada? Dá: a versão assada, sem fritura, é uma das variações deste artigo, e a textura sai menos crocante."
+        ]
       }
     ],
     "relatedArticles": [
@@ -32470,6 +32503,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "airfryer-uma-breve-historia"
+      },
+      {
+        "slug": "minha-experiencia-manteiga-batida-aerada"
       }
     ]
   },
@@ -32492,7 +32528,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Air fryer: 10 fatos sobre o ar quente em circulação, pré-aquecimento, cesto sem excesso, papel-manteiga e limpeza, com receitas para fazer.",
     "publishedAt": "20 Abr 2026",
     "publishedAtISO": "2026-04-20",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "image": "/images/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia-capa-v2.webp",
     "imageAlt": "Cecília ao lado de uma air fryer preta na bancada da cozinha, em foto própria com utensílios à frente, ao lado da chamada Air fryer: 10 fatos e do apoio Como usar melhor.",
     "imageFit": "contain",
@@ -32503,6 +32539,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "airfryer-uma-breve-historia"
+      },
+      {
+        "slug": "air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes"
+      },
+      {
+        "slug": "haier-e-boa-marca-de-onde-e"
+      },
+      {
+        "slug": "minha-experiencia-manteiga-batida-aerada"
       }
     ],
     "contentSections": [
@@ -32514,9 +32559,11 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "10 fatos sobre a air fryer",
-        "image": "/images/reviews/fred-van-der-weij-airfryer.avif",
-        "imageAlt": "Fred van der Weij, inventor associado ao desenvolvimento da air fryer moderna.",
-        "imageCaption": "Fred van der Weij, nome ligado ao desenvolvimento da air fryer moderna pela Philips.",
+        "image": {
+          "src": "/images/reviews/fred-van-der-weij-airfryer.avif",
+          "alt": "Fred van der Weij, inventor associado ao desenvolvimento da air fryer moderna.",
+          "caption": "Fred van der Weij, nome ligado ao desenvolvimento da air fryer moderna pela Philips."
+        },
         "bullets": [
           "1. A Airfryer da Philips nasceu na Holanda: o engenheiro Fred van der Weij começou o projeto em 2005 ou 2006, conforme a fonte, e a Philips a lançou em 2010. Antes dela, em 2006, a Tefal já vendia na França a ActiFry. As fontes estão na [história da air fryer](/reviews/airfryer-uma-breve-historia).",
           "2. A ideia é mais antiga: em 1945, o Whirlwind Oven, forno para refeições de avião da empresa de William Maxson, já fazia o ar quente circular com ventiladores, mas nunca chegou às casas.",
@@ -32544,10 +32591,20 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Conclusão",
+        "heading": "O que muda no uso diário da air fryer",
         "paragraphs": [
           "A air fryer rende mais quando você entende o que ela faz: circular ar quente em volta do alimento. Pré-aquecer quando o manual indicar, não lotar o cesto e limpar sempre resolvem a maior parte dos problemas.",
-          "Quer saber de onde veio o aparelho? Leia a [história da air fryer](/reviews/airfryer-uma-breve-historia)."
+          "Quer saber de onde veio o aparelho? Leia a [história da air fryer](/reviews/airfryer-uma-breve-historia). E, se a dúvida é se vale a pena no dia a dia, veja [o relato da air fryer Haier de 12 L](/reviews/air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes)."
+        ],
+        "emphasis": "Se eu tivesse de escolher um só hábito, seria não lotar o cesto: é o que mais muda o resultado de um preparo para o outro."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A air fryer precisa ser pré-aquecida sempre? Não: depende do modelo e da receita, e vale seguir o manual; em preparos que pedem choque térmico inicial, pré-aquecer ajuda o dourado.",
+          "Dá para forrar o cesto com papel-alumínio ou papel-manteiga? Depende do modelo: alguns manuais não aceitam, e cobrir todo o fundo reduz a circulação do ar. Se o manual liberar, use papel próprio para air fryer, sem cobrir o fundo todo.",
+          "Por que não lotar o cesto? O ar precisa circular entre os pedaços; cesto cheio cozinha de forma desigual, e fazer em levas resolve.",
+          "Precisa untar tudo com óleo? Não: alimentos com gordura própria não precisam de nada, e legumes, batatas e empanados caseiros costumam dourar melhor com um fio de óleo ou azeite."
         ]
       }
     ]
@@ -32571,7 +32628,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "A história da air fryer: o Whirlwind Oven dos anos 1940, o projeto de Fred van der Weij, o lançamento da Philips em 2010 e como o aparelho funciona.",
     "publishedAt": "20 Abr 2026",
     "publishedAtISO": "2026-04-20",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "image": "/images/reviews/airfryer-uma-breve-historia-capa-v2.webp",
     "imageAlt": "Cecília apoiada sobre uma air fryer preta na bancada, em foto própria atual usada para ilustrar o tema, ao lado da chamada História da air fryer e do apoio Da invenção à cozinha.",
     "imageFit": "contain",
@@ -32640,11 +32697,12 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Conclusão",
+        "heading": "Do forno de avião à bancada de casa",
         "paragraphs": [
           "A air fryer levou para a bancada de casa o ar quente em circulação já usado em fornos. Sua história passa por aparelhos de formatos e recursos diferentes, até a Airfryer lançada pela Philips em 2010.",
           "Quer usar melhor a sua? Leia [Air fryer: 10 fatos sobre como funciona e como usar melhor](/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia) ou faça a [batata rústica crocante](/receitas/batatas-rusticas-crocantes-na-air-fryer)."
         ],
+        "emphasis": "Para mim, o ponto da história é que a air fryer não inventou o ar quente: ela só o colocou numa cesta pequena o bastante para caber na bancada de casa.",
         "image": {
           "src": "/images/recipes/air-fryer/chips-de-batata-doce-na-air-fryer.jpg",
           "alt": "Cesto de arame com chips de batata-doce crocantes feitos na air fryer",
@@ -32652,6 +32710,29 @@ export const reviewsData: unknown[] = [
           "objectFit": "portrait",
           "aspectRatio": 0.8056
         }
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quem inventou a air fryer moderna? O engenheiro holandês Fred van der Weij desenvolveu o aparelho que a Philips lançou como Airfryer, em 2010; a ideia de ar quente em circulação é mais antiga.",
+          "Quando a Philips lançou a Airfryer? Em 2010, na feira IFA, em Berlim, com o nome Airfryer.",
+          "Qual a diferença entre o Whirlwind Oven e a ActiFry? O Whirlwind Oven, de 1945, era um forno para refeições de avião que nunca chegou às casas; a ActiFry, de 2006, já era um aparelho de cozinha para fazer batata frita com pouco óleo.",
+          "Como a air fryer deixa o alimento crocante sem mergulhar em óleo? O ventilador faz o ar quente circular rápido em volta do alimento, e essa circulação seca e doura a superfície, o que dá a crocância."
+        ]
+      }
+    ],
+    "relatedArticles": [
+      {
+        "slug": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia"
+      },
+      {
+        "slug": "air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes"
+      },
+      {
+        "slug": "haier-e-boa-marca-de-onde-e"
+      },
+      {
+        "slug": "conhecendo-mais-rabanada"
       }
     ]
   },
@@ -42748,11 +42829,11 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Minha primeira lava e seca, a Samsung 13 kg: a secagem de quatro toalhas funcionou bem, mas a porta de 80 cm e o encanamento pedem planejamento. Veja unboxing e primeiro uso.",
-    "seoTitle": "Lava e Seca Samsung 13 kg: Unboxing e Primeiras Impressões",
+    "seoTitle": "Lava e seca Samsung 13 kg: unboxing e primeiras impressões",
     "metaDescription": "Testei minha primeira lava e seca Samsung 13 kg (WD13FG): unboxing, instalação, como usar na primeira vez, app SmartThings e o primeiro ciclo com secagem.",
     "publishedAt": "17 de agosto de 2026",
     "publishedAtISO": "2026-08-17",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "hideFromListings": false,
     "image": "/images/reviews/samsung/samsung-lava-seca-13kg-primeiro-uso-capa-v2.webp",
@@ -42864,6 +42945,17 @@ export const reviewsData: unknown[] = [
       "Exige atenção rigorosa à retirada dos parafusos traseiros de transporte antes da primeira ligação",
       "Manchas profundas ou mofo antigo de cesto continuam exigindo pré-tratamento, conforme a etiqueta da peça e as instruções do produto"
     ],
+    "relatedArticles": [
+      {
+        "slug": "air-fryer-haier-12l-espeto-giratorio-primeiras-impressoes"
+      },
+      {
+        "slug": "haier-e-boa-marca-de-onde-e"
+      },
+      {
+        "slug": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia"
+      }
+    ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -42893,9 +42985,12 @@ export const reviewsData: unknown[] = [
           "Na hora de transportar a máquina para dentro, o sufoco real começou logo na garagem: como o piso ali é antiderrapante, o isopor travou e tivemos que puxar no braço com cuidado até vencer esse primeiro trecho. Já na parte interna da casa, o porcelanato ajudou demais e a base deslizou com facilidade, atravessando o caminho pelo quintal até a lavanderia.",
           "O grande suspense da tarde foi a porta da lavanderia, que tem 80 cm de vão livre. Como a esquadria e a folha de vidro comem alguns centímetros úteis de passagem, deu aquele frio na barriga. No fim, passou com margem de segurança. Se você tem portas estreitas em casa, vale medir com trena antes de receber a entrega."
         ],
-        "image": "/images/reviews/samsung/amelia-chegou-embalada.webp",
-        "imageAlt": "Cecília atrás da lava e seca Samsung ainda no plástico na lavanderia",
-        "imageCaption": "Ainda no plástico e isopor: o suspense da porta de 80 cm e o piso antiderrapante da garagem."
+        "image": {
+          "src": "/images/reviews/samsung/amelia-chegou-embalada.webp",
+          "alt": "Cecília atrás da lava e seca Samsung ainda no plástico na lavanderia",
+          "caption": "Ainda no plástico e isopor: o suspense da porta de 80 cm e o piso antiderrapante da garagem.",
+          "href": "https://link.amazon/B07YTVmpB"
+        }
       },
       {
         "heading": "O manual de uma folha e os parafusos de um palmo",
@@ -42912,9 +43007,12 @@ export const reviewsData: unknown[] = [
           "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Foi um improviso do nosso caso, não um método recomendado: siga a instalação indicada no manual do modelo ou chame a assistência técnica, e confira antes a tubulação da sua parede.",
           "Com a máquina no lugar e nivelada pelos pezinhos reguláveis, veio a melhor parte de todo o processo: puxar a película adesiva dos plásticos brilhantes da carcaça e do painel digital."
         ],
-        "image": "/images/reviews/samsung/amelia-no-lugar.webp",
-        "imageAlt": "Lava e seca Samsung 13 kg instalada ao lado da máquina Consul antiga",
-        "imageCaption": "Dona Amélia instalada no canto. Ao lado, a antiga Dona Consuelo de testemunha."
+        "image": {
+          "src": "/images/reviews/samsung/amelia-no-lugar.webp",
+          "alt": "Lava e seca Samsung 13 kg instalada ao lado da máquina Consul antiga",
+          "caption": "Dona Amélia instalada no canto. Ao lado, a antiga Dona Consuelo de testemunha.",
+          "href": "https://link.amazon/B07YTVmpB"
+        }
       },
       {
         "heading": "App SmartThings, giro do tambor e a gaveta de sabão",
@@ -42933,9 +43031,12 @@ export const reviewsData: unknown[] = [
           "Coloquei as toalhas ocupando cerca de **metade do tambor**. Respeite o limite de carga de cada programa no manual do modelo, lembrando que a capacidade é de 13 kg para lavar e 8 kg para secar.",
           "A porta travou com trava de segurança, a máquina fez o sensoriamento inteligente de peso (AI sensing) e estimou inicialmente 2h26, recalculando logo depois para **2h04** (estimativas do visor, não tempo cronometrado). O molhamento é gradual e inteligente: a água entra aos poucos em jatos enquanto a máquina gira, molhando o contorno externo antes de ensopar o miolo."
         ],
-        "image": "/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp",
-        "imageAlt": "Capa do vídeo Minha primeira lava e seca com Cecília e a Samsung 13 kg",
-        "imageCaption": "A capa do nosso vídeo: 3 dias de gravação para mostrar tudo tintim por tintim."
+        "image": {
+          "src": "/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp",
+          "alt": "Capa do vídeo Minha primeira lava e seca com Cecília e a Samsung 13 kg",
+          "caption": "A capa do nosso vídeo: 3 dias de gravação para mostrar tudo tintim por tintim.",
+          "href": "https://link.amazon/B07YTVmpB"
+        }
       },
       {
         "heading": "Centrifugação, secagem estimada em 2h45 e o veredito das toalhas",
@@ -42980,21 +43081,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que podemos afirmar e os próximos passos",
         "paragraphs": [
-          "Depois desse primeiro teste completo, resumimos as nossas principais impressões práticas:",
-          "**Pontos Fortes Observados:**",
-          "• **Secagem real e eficiente:** no nosso teste com quatro toalhas, as peças estavam 100% secas, macias e prontas para guardar quando conferi na manhã seguinte.",
-          "• **Grande alívio em dias de chuva:** reduz a dependência de varal e ajuda a evitar que peças peguem cheiro de umidade ou mofem no cesto por falta de sol.",
-          "• **Impressão de economia de produtos:** nesse uso, pareceu bastar menos sabão e amaciante, sem comparação medida.",
-          "• **Conectividade SmartThings:** monitoramento prático pelo celular de tempo de ciclo, água e energia elétrica.",
-          "• **Design compacto:** passou com facilidade na porta de 80 cm da lavanderia (máquina tem 60 cm de largura).",
-          "**Pontos de Atenção:**",
-          "• **Manual impresso mínimo:** manual físico de apenas uma folha com QR code, exigindo o celular para ler detalhes.",
-          "• **Duração dos ciclos combinados:** o programa completo de toalhas com lavagem a 60 °C e secagem térmica soma cerca de 4h50 pelas estimativas do visor.",
-          "• **Parafusos traseiros de transporte:** remoção obrigatória antes de ligar para evitar vibrações no tambor.",
-          "• **Manchas severas de mofo:** exigem pré-tratamento antes de ir para a máquina, conforme a etiqueta da peça e as instruções do produto.",
-          "Para quem lava sem varal ou em região de chuva, a secagem resolve; para quem precisa de ciclo rápido, o combinado de quase 5 horas pesa.",
-          "**Divulgação de Afiliados:** Como associado da Amazon, eu ganho com compras qualificadas. Os links para Amazon e Mercado Livre são links afiliados/comerciais que ajudam a apoiar o canal Em Casa com Cecília sem custo adicional para o comprador."
+          "Depois desse primeiro teste completo, o saldo é positivo para quem lava sem depender do varal. Na estreia, as quatro toalhas saíram secas, macias e prontas para guardar na manhã seguinte, e a impressão de usar menos sabão e amaciante que na lavadora de abertura superior apareceu sem medição. O SmartThings mostra tempo, diagnósticos e consumo de água e energia pelo celular, e a máquina de 60 cm de largura passou com margem de segurança na porta de 80 cm da lavanderia.",
+          "Os pontos de atenção são mais de planejamento do que de defeito. O manual impresso é uma folha com QR code, os quatro parafusos de transporte na traseira precisam sair antes da primeira ligação, e manchas profundas de mofo continuam pedindo pré-tratamento. O maior peso é o tempo: o programa de toalhas a 60 °C levou 2h04 de lavagem estimada pelo visor e mais 2h45 de secagem estimada, cerca de 4h50 no total.",
+          "Para quem lava sem varal ou em região de chuva, a secagem resolve. Para quem precisa de ciclo rápido, o combinado de quase cinco horas pesa."
         ],
+        "emphasis": "Se eu resumisse em uma frase, diria que a secagem convence quem lava em dia de chuva, e que o ciclo longo cansa quem tem pressa.",
         "links": [
           {
             "label": "Ver na Amazon",
@@ -43007,7 +43098,7 @@ export const reviewsData: unknown[] = [
             "sponsored": true
           },
           {
-            "label": "Vídeo Completo: Unboxing e primeiro uso da Samsung 13 kg no canal",
+            "label": "Vídeo completo: unboxing e primeiro uso da Samsung 13 kg no canal",
             "href": "/videos/minha-primeira-lava-e-seca-samsung-13kg-video"
           },
           {
@@ -43015,7 +43106,7 @@ export const reviewsData: unknown[] = [
             "href": "https://www.samsung.com/br/washers-and-dryers/washer-dryer-combo/wd6000f-front-loading-ai-ecobubble-ai-control-ai-energy-mode-13kg-white-wd13fg6b34beaz/"
           },
           {
-            "label": "Manual e Suporte Oficial Samsung WD13FG",
+            "label": "Manual e suporte oficial da Samsung WD13FG",
             "href": "https://www.samsung.com/br/support/model/WD13FG6B34BEAZ/"
           }
         ]
@@ -43024,21 +43115,17 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre a Samsung 13 kg",
         "bullets": [
           "Qual é o modelo exato da lava e seca? Samsung WD13FG6B34BEAZ, da linha Lava e Seca Smart WD13FG com AI Control Branca 127V, com capacidade para 13,0 kg de lavagem e 8,0 kg de secagem.",
-          "Como usar a lava e seca Samsung pela primeira vez? Retire os quatro parafusos de transporte na traseira, faça a instalação hidráulica e elétrica conforme o manual, abasteça a gaveta de sabão e amaciante, respeite a carga do programa escolhido (até 13 kg para lavar ou 8 kg para secar) e selecione o ciclo no painel. O pareamento com o SmartThings é opcional; o passo a passo completo está na seção acima.",
-          "Quais são as dimensões e o peso da máquina? Estão no quadro do produto, no topo: a máquina tem 60 cm de largura e passou na nossa porta de 80 cm, mas meça o vão livre antes da entrega.",
-          "O que é a tecnologia Ecobubble e VRT Plus? O Ecobubble transforma o sabão em bolhas ativas para penetrar mais rápido nas fibras, enquanto o VRT Plus (VRT+) é o sistema de sensores que reduz ruídos e vibrações durante a centrifugação.",
-          "Ela higieniza a seco? O modelo é anunciado pela Samsung como 3 em 1 (lava, seca e higieniza a seco com a tecnologia Air Wash, que usa ar quente sem água). Os resultados prometidos são alegações da fabricante; não testamos essa função.",
-          "O motor é econômico? O modelo tem motor Digital Inverter da Samsung. Para saber o consumo, consulte os dados de eficiência do modelo e considere o programa e a carga que você usa.",
-          "A lava e seca passa em portas padrão de 80 cm? Sim, no nosso teste passou na porta de 80 cm da lavanderia (a máquina tem 60 cm de largura), mas meça o vão livre e a moldura antes da entrega.",
-          "É obrigatório retirar os parafusos de transporte? Sim! São 4 parafusos compridos na parte traseira que travam o tambor durante o frete. Eles devem ser retirados com a chave inclusa antes da primeira ligação.",
-          "Quanto tempo demorou o primeiro ciclo completo? O visor estimou 2h04 para a lavagem das toalhas a 60 °C (recalculado pelo sensor de peso) e 2h45 para a secagem da mesma carga. Não cronometramos: o ciclo terminou à noite e conferi as toalhas na manhã seguinte.",
-          "A secagem realmente entrega a toalha seca? Sim, na manhã seguinte as toalhas estavam completamente secas, macias e prontas para uso.",
-          "Ela tira mancha pesada e mofo sem pré-lavagem? Não. Manchas profundas de mofo (de toalha guardada úmida no cesto) exigem pré-tratamento antes de ir para a máquina; use tira-manchas ou percarbonato de sódio só se a etiqueta da peça e as instruções do produto permitirem.",
-          "Onde consultar o produto e ofertas? Você pode conferir os preços atualizados e a disponibilidade da Samsung WD13FG de 13 kg na Amazon ou no Mercado Livre através dos links indicados neste artigo."
+          "Como usar a lava e seca Samsung pela primeira vez? Retire os quatro parafusos de transporte na traseira, faça a instalação hidráulica e elétrica conforme o manual, abasteça a gaveta, respeite a carga do programa (até 13 kg para lavar ou 8 kg para secar) e escolha o ciclo no painel. O pareamento com o SmartThings é opcional; o passo a passo completo está na seção acima.",
+          "A lava e seca passa em portas padrão de 80 cm? Sim, no nosso teste passou na porta de 80 cm da lavanderia. A máquina tem 60 cm de largura, 85 cm de altura, 60 cm de profundidade e pesa 74 kg; meça o vão livre e a moldura antes da entrega.",
+          "O que são Ecobubble, VRT Plus e o motor Digital Inverter? O Ecobubble transforma o sabão em bolhas ativas que penetram nas fibras, o VRT Plus reduz ruído e vibração na centrifugação, e o motor é o Digital Inverter da Samsung. Para o consumo, consulte os dados de eficiência do modelo e considere o programa e a carga que você usa.",
+          "Ela higieniza a seco? A Samsung anuncia o modelo como 3 em 1, com a tecnologia Air Wash, que usa ar quente sem água. Os resultados são alegações da fabricante, e essa função não entrou no nosso teste.",
+          "É obrigatório retirar os parafusos de transporte? Sim. São quatro parafusos compridos na parte traseira que travam o tambor durante o frete. Retire-os com a chave inclusa antes da primeira ligação.",
+          "Quanto tempo leva um ciclo completo e a secagem? O visor estimou 2h04 para a lavagem das toalhas a 60 °C, recalculado pelo sensor de peso, e 2h45 para a secagem da mesma carga. Não cronometramos: o ciclo terminou à noite, e conferimos as toalhas na manhã seguinte, secas e macias.",
+          "Ela tira mancha pesada e mofo sem pré-lavagem? Não. Manchas profundas de mofo, como as da toalha guardada úmida no cesto, pedem pré-tratamento; use tira-manchas ou percarbonato de sódio só se a etiqueta da peça e as instruções do produto permitirem."
         ]
       }
     ],
-    "editorialNote": "Primeiras impressões, sem uso de longo prazo. Os links da Amazon e do Mercado Livre são de afiliado e podem gerar comissão, sem custo extra.",
+    "editorialNote": "Primeiras impressões de máquina comprada por nós, sem uso de longo prazo nem parceria com a Samsung. Os links para Amazon e Mercado Livre são de afiliado e podem gerar comissão, sem custo extra.",
     "youtubeUrl": "https://youtu.be/xpXX_N002jo",
     "cta": {
       "text": "Confira a Lava e Seca Smart Samsung 13 kg WD13FG e consulte opções de compra",
@@ -251900,11 +251987,12 @@ export const reviewsData: unknown[] = [
     ],
     "publishedAt": "15 de novembro de 2026",
     "publishedAtISO": "2026-11-15",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "editorialNote": "Recebemos o aparelho para teste. Não há contrato, pagamento nem cupom, e a marca não leu este texto antes da publicação.",
+    "editorialNote": "Recebemos o aparelho para teste. Não há contrato, pagamento nem cupom, e a marca não leu este texto antes da publicação. Os links para Amazon e Mercado Livre são de afiliado e podemos receber comissão, sem custo extra para você.",
     "title": "Air fryer com espeto giratório: primeiras impressões da Haier de 12 litros",
     "seoTitle": "Air fryer com espeto giratório: Haier 12 L na prática",
     "type": "Primeiras impressões",
@@ -251974,6 +252062,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia"
+      },
+      {
+        "slug": "samsung-lava-seca-13kg-primeiro-uso"
       }
     ],
     "contentSections": [
@@ -251996,7 +252087,8 @@ export const reviewsData: unknown[] = [
             "alt": "Cecília na bancada da cozinha ao lado da air fryer forno Haier de 12 litros, com os espetinhos prontos atrás da janela da frente",
             "caption": "A Haier de 12 litros na nossa bancada, com os espetinhos já assados.",
             "objectFit": "square",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://link.amazon/B08irJgVj"
           }
         ]
       },
@@ -252059,7 +252151,8 @@ export const reviewsData: unknown[] = [
             "alt": "Mãos segurando o cesto giratório de tela com batata congelada, prestes a encaixá-lo na air fryer forno Haier",
             "caption": "O cesto giratório com a batata congelada, antes de entrar no forno.",
             "objectFit": "square",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://link.amazon/B08irJgVj"
           }
         ]
       },
@@ -252082,7 +252175,8 @@ export const reviewsData: unknown[] = [
             "alt": "Mão encaixando no forno aberto o suporte com espetinhos de batata e cebola",
             "caption": "O suporte com os espetos de batata e cebola entrando no forno.",
             "objectFit": "square",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://link.amazon/B08irJgVj"
           }
         ]
       },
@@ -252100,7 +252194,8 @@ export const reviewsData: unknown[] = [
             "alt": "Lateral da air fryer forno Haier de 12 litros, com a grade de ventilação perto da base, em imagem oficial",
             "caption": "A lateral, com uma das grades de ventilação. Imagem: Haier.",
             "objectFit": "square",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://link.amazon/B08irJgVj"
           }
         ]
       },
@@ -252117,7 +252212,8 @@ export const reviewsData: unknown[] = [
             "alt": "Air fryer forno Haier vista de cima, com os espetinhos de camarão e de batata aparecendo pela janela superior e parte do painel de toque",
             "caption": "A janela de cima, com os espetinhos girando, e a ponta do painel.",
             "objectFit": "square",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://link.amazon/B08irJgVj"
           }
         ]
       },
@@ -252126,7 +252222,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O recurso que mais interessa aqui é o giro. Se você procura um forno que também movimente batatas, espetinhos e frango, os acessórios ampliam as possibilidades de preparo e foram a parte que mais chamou a nossa atenção.",
           "Antes de escolher, confira o espaço na bancada e se você quer lidar com a montagem e a lavagem dessas peças. Para quem pretende usar só um cesto comum, vale comparar uma air fryer de gaveta com as medidas e o preço do modelo específico, em vez de escolher apenas pelos 12 litros anunciados."
-        ]
+        ],
+        "emphasis": "Se o giro é o motivo da compra, eu escolheria pelo código do modelo e não pelo nome do anúncio, porque é no código que os anúncios de 127 V se separam."
       },
       {
         "heading": "Onde comprar e qual versão escolher",
@@ -252161,10 +252258,26 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
+        "links": [
+          {
+            "label": "Haier 12 L com rotisserie, 127 V na Amazon",
+            "href": "https://link.amazon/B08irJgVj",
+            "sponsored": true
+          },
+          {
+            "label": "Haier 12 L com rotisserie, 220 V no Mercado Livre",
+            "href": "https://meli.la/2Pw4iTN",
+            "sponsored": true
+          },
+          {
+            "label": "Haier 12 L sem rotisserie, 127 V no Mercado Livre",
+            "href": "https://meli.la/1nC8rj1",
+            "sponsored": true
+          }
+        ],
         "postParagraphs": [
           "**Atenção:** há dois anúncios de 127 V na tabela, e só o primeiro tem rotisserie. Os preparos com espeto e cesto giratórios deste artigo foram feitos na versão com essa função. O primeiro link leva à Amazon e os outros dois, ao Mercado Livre.",
           "Compare também vendedor, frete, total e condição de parcelamento. A garantia precisa ser a do anúncio e do modelo escolhidos.",
-          "Os links de compra são de afiliado: se você comprar por eles, podemos receber uma comissão, sem custo extra para você.",
           "A Haier é um grupo chinês de eletrodomésticos. Para conhecer a operação brasileira e os canais de atendimento, veja [Haier é boa marca?](/reviews/haier-e-boa-marca-de-onde-e)."
         ]
       },
@@ -252208,11 +252321,12 @@ export const reviewsData: unknown[] = [
     ],
     "publishedAt": "15 de novembro de 2026",
     "publishedAtISO": "2026-11-15",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "editorialNote": "Recebemos o aparelho para teste. Não há contrato, pagamento nem cupom, e a marca não leu este texto antes da publicação.",
+    "editorialNote": "Recebemos o aparelho para teste. Não há contrato, pagamento nem cupom, e a marca não leu este texto antes da publicação. Os links para Amazon e Mercado Livre são de afiliado e podemos receber comissão, sem custo extra para você.",
     "title": "Haier é boa marca? De onde é, o que vende no Brasil e como é o atendimento",
     "seoTitle": "Haier é boa marca? De onde é e o que vende no Brasil",
     "type": "Guia de Marca",
@@ -252320,7 +252434,8 @@ export const reviewsData: unknown[] = [
             "alt": "Cecília na bancada da cozinha ao lado da air fryer forno Haier de 12 litros, com os espetinhos prontos atrás da janela da frente",
             "caption": "A air fryer forno de 12 litros na nossa bancada.",
             "objectFit": "square",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://link.amazon/B08irJgVj"
           }
         ],
         "links": [
@@ -252339,9 +252454,6 @@ export const reviewsData: unknown[] = [
             "href": "https://meli.la/1nC8rj1",
             "sponsored": true
           }
-        ],
-        "postParagraphs": [
-          "Os links de compra são de afiliado: se você comprar por eles, podemos receber uma comissão, sem custo extra para você."
         ]
       },
       {
@@ -252349,7 +252461,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Haier tem uma trajetória internacional longa. A air fryer agradou no primeiro contato da nossa casa, com ressalvas de montagem e espaço, mas isso não permite avaliar uma geladeira, uma TV ou a durabilidade dos aparelhos.",
           "Para decidir sobre outro produto, procure informações daquele modelo e confirme a assistência disponível para ele. Nossa indicação, por enquanto, fica restrita às primeiras impressões da air fryer descritas no artigo; não é uma recomendação de todo o catálogo."
-        ]
+        ],
+        "emphasis": "Eu confiaria na air fryer para o que ela faz bem e esperaria mais histórico antes de falar da marca inteira."
       },
       {
         "heading": "Perguntas frequentes",

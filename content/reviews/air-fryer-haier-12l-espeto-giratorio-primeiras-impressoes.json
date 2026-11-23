@@ -26,11 +26,12 @@
   ],
   "publishedAt": "15 de novembro de 2026",
   "publishedAtISO": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "editorialNote": "Recebemos o aparelho para teste. Não há contrato, pagamento nem cupom, e a marca não leu este texto antes da publicação.",
+  "editorialNote": "Recebemos o aparelho para teste. Não há contrato, pagamento nem cupom, e a marca não leu este texto antes da publicação. Os links para Amazon e Mercado Livre são de afiliado e podemos receber comissão, sem custo extra para você.",
   "title": "Air fryer com espeto giratório: primeiras impressões da Haier de 12 litros",
   "seoTitle": "Air fryer com espeto giratório: Haier 12 L na prática",
   "type": "Primeiras impressões",
@@ -100,6 +101,9 @@
     },
     {
       "slug": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia"
+    },
+    {
+      "slug": "samsung-lava-seca-13kg-primeiro-uso"
     }
   ],
   "contentSections": [
@@ -122,7 +126,8 @@
           "alt": "Cecília na bancada da cozinha ao lado da air fryer forno Haier de 12 litros, com os espetinhos prontos atrás da janela da frente",
           "caption": "A Haier de 12 litros na nossa bancada, com os espetinhos já assados.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://link.amazon/B08irJgVj"
         }
       ]
     },
@@ -185,7 +190,8 @@
           "alt": "Mãos segurando o cesto giratório de tela com batata congelada, prestes a encaixá-lo na air fryer forno Haier",
           "caption": "O cesto giratório com a batata congelada, antes de entrar no forno.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://link.amazon/B08irJgVj"
         }
       ]
     },
@@ -208,7 +214,8 @@
           "alt": "Mão encaixando no forno aberto o suporte com espetinhos de batata e cebola",
           "caption": "O suporte com os espetos de batata e cebola entrando no forno.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://link.amazon/B08irJgVj"
         }
       ]
     },
@@ -226,7 +233,8 @@
           "alt": "Lateral da air fryer forno Haier de 12 litros, com a grade de ventilação perto da base, em imagem oficial",
           "caption": "A lateral, com uma das grades de ventilação. Imagem: Haier.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://link.amazon/B08irJgVj"
         }
       ]
     },
@@ -243,7 +251,8 @@
           "alt": "Air fryer forno Haier vista de cima, com os espetinhos de camarão e de batata aparecendo pela janela superior e parte do painel de toque",
           "caption": "A janela de cima, com os espetinhos girando, e a ponta do painel.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://link.amazon/B08irJgVj"
         }
       ]
     },
@@ -252,7 +261,8 @@
       "paragraphs": [
         "O recurso que mais interessa aqui é o giro. Se você procura um forno que também movimente batatas, espetinhos e frango, os acessórios ampliam as possibilidades de preparo e foram a parte que mais chamou a nossa atenção.",
         "Antes de escolher, confira o espaço na bancada e se você quer lidar com a montagem e a lavagem dessas peças. Para quem pretende usar só um cesto comum, vale comparar uma air fryer de gaveta com as medidas e o preço do modelo específico, em vez de escolher apenas pelos 12 litros anunciados."
-      ]
+      ],
+      "emphasis": "Se o giro é o motivo da compra, eu escolheria pelo código do modelo e não pelo nome do anúncio, porque é no código que os anúncios de 127 V se separam."
     },
     {
       "heading": "Onde comprar e qual versão escolher",
@@ -287,10 +297,26 @@
           ]
         ]
       },
+      "links": [
+        {
+          "label": "Haier 12 L com rotisserie, 127 V na Amazon",
+          "href": "https://link.amazon/B08irJgVj",
+          "sponsored": true
+        },
+        {
+          "label": "Haier 12 L com rotisserie, 220 V no Mercado Livre",
+          "href": "https://meli.la/2Pw4iTN",
+          "sponsored": true
+        },
+        {
+          "label": "Haier 12 L sem rotisserie, 127 V no Mercado Livre",
+          "href": "https://meli.la/1nC8rj1",
+          "sponsored": true
+        }
+      ],
       "postParagraphs": [
         "**Atenção:** há dois anúncios de 127 V na tabela, e só o primeiro tem rotisserie. Os preparos com espeto e cesto giratórios deste artigo foram feitos na versão com essa função. O primeiro link leva à Amazon e os outros dois, ao Mercado Livre.",
         "Compare também vendedor, frete, total e condição de parcelamento. A garantia precisa ser a do anúncio e do modelo escolhidos.",
-        "Os links de compra são de afiliado: se você comprar por eles, podemos receber uma comissão, sem custo extra para você.",
         "A Haier é um grupo chinês de eletrodomésticos. Para conhecer a operação brasileira e os canais de atendimento, veja [Haier é boa marca?](/reviews/haier-e-boa-marca-de-onde-e)."
       ]
     },
