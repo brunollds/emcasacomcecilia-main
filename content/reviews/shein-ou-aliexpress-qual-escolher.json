@@ -19,7 +19,7 @@
   "metaDescription": "O 4CW5Y dá desconto numa seleção da SHEIN. SHEIN ou AliExpress: frete, prazo, devolução e imposto lado a lado, e o que conferir em cada anúncio.",
   "publishedAt": "17 de novembro de 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/shein/shein-ou-aliexpress-capa-pt.webp",
@@ -30,10 +30,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
+      "SHEIN: você quer mais dias para desistir, e a peça está entre as que aceitam devolução em até 20 dias do recebimento.",
       "AliExpress: a peça que você quer está lá, e a página dela mostra devolução grátis e uma previsão de entrega que serve para você."
     ],
     "skipIf": [
-      "AliExpress: o anúncio não esclarece prazo, custo e endereço da devolução, e você precisa poder devolver se o tamanho não servir."
+      "AliExpress: o anúncio não esclarece prazo, custo e endereço da devolução, e você precisa poder devolver se o tamanho não servir.",
+      "SHEIN: a peça é body, roupa de banho ou roupa íntima, que só voltam nos 7 dias da lei."
     ]
   },
   "affiliate": [
@@ -98,7 +100,7 @@
           [
             "Reclame Aqui",
             "Boa, nota 7,5",
-            "Ruim, nota 5,8"
+            "Ruim, nota 5,7"
           ]
         ]
       },
@@ -116,6 +118,7 @@
         "**O frete e a previsão de entrega**, que no AliExpress mudam com o anúncio e com o lugar de onde a peça sai.",
         "**A data de reembolso garantido** do AliExpress: se o pacote não chegar até ela, você pode pedir o valor total de volta.",
         "**Se a peça tem devolução grátis** e por quantos dias. Sem ela, a devolução por desistência no AliExpress é paga por você.",
+        "**As formas de pagamento:** no AliExpress, a lista completa só aparece no checkout, com a conta logada; confira lá se a que você usa está disponível.",
         "**O total**, com frete e imposto, no fim do checkout de cada loja, e o nome e o CPF corretos no pedido."
       ],
       "postParagraphs": [
@@ -159,22 +162,23 @@
           [
             "[SHEIN](https://www.reclameaqui.com.br/empresa/shein/)",
             "Boa, 7,5",
-            "77,7%",
+            "77,6%",
             "3 dias e 10 horas"
           ],
           [
             "[AliExpress](https://www.reclameaqui.com.br/empresa/aliexpress/)",
-            "Ruim, 5,8",
-            "53,2%",
+            "Ruim, 5,7",
+            "53,1%",
             "6 dias e 10 horas"
           ]
         ]
       },
       "postParagraphs": [
-        "De maio a outubro de 2026, a SHEIN recebeu 33.277 reclamações e o AliExpress, 10.300. O AliExpress respondeu quase todas (99,8%, contra 92,6% da SHEIN), mas resolveu menos. Entre quem avaliou o atendimento, 71,1% voltariam a comprar na SHEIN e 47,2% no AliExpress.",
+        "De maio a outubro de 2026, a SHEIN recebeu 33.252 reclamações e o AliExpress, 10.298. O AliExpress respondeu quase todas (99,8%, contra 92,6% da SHEIN), mas resolveu menos. Entre quem avaliou o atendimento, 71% voltariam a comprar na SHEIN e 47,1% no AliExpress.",
         "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama no Reclame Aqui, não a qualidade das peças nem o prazo de entrega. E o número de reclamações depende do tamanho de cada loja no Brasil: sem o número de pedidos, ele não diz em qual delas uma compra dá mais problema.",
         "Na prática: se você quer mais dias para desistir sem depender do anúncio, a SHEIN dá 20 dias do recebimento nos itens que aceitam devolução. Se a peça que você quer está no AliExpress, leia a página do anúncio antes de pagar: vendedor, previsão de entrega, data de reembolso garantido e devolução grátis."
-      ]
+      ],
+      "emphasis": "Na SHEIN, o prazo de devolução vem da política da loja; no AliExpress, vem de cada anúncio. A escolha se decide na página da peça, antes de pagar."
     },
     {
       "heading": "O que cada uma vende: uma amostra",
@@ -381,9 +385,8 @@
       ]
     },
     {
-      "heading": "Parceria e código de indicação",
+      "heading": "Links e código de indicação 4CW5Y",
       "paragraphs": [
-        "A Cecília é afiliada da SHEIN e do AliExpress e pode receber comissão pelas compras feitas pelos links deste artigo, sem custo a mais para você. Isso não muda a resposta: a escolha depende do que você vai comprar.",
         "O 4CW5Y é o código de indicação da Cecília na SHEIN e dá desconto, sim, numa seleção de produtos e promoções da SHEIN; quanto e em quais peças, a SHEIN decide. Abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, não no campo de cupom. O AliExpress não tem código nosso."
       ],
       "links": [
@@ -417,7 +420,7 @@
         "SHEIN e AliExpress são a mesma coisa? Não. A SHEIN se descreve como varejista de moda com marca própria, fundada em 2012; o AliExpress é o marketplace internacional do grupo Alibaba, em que cada vendedor tem a própria loja.",
         "Qual chega mais rápido, SHEIN ou AliExpress? Depende do pedido e, no AliExpress, do anúncio. A SHEIN mostra uma estimativa calculada para cada pedido, e o AliExpress mostra a previsão de cada peça. Compare as duas antes de pagar.",
         "Qual é mais barata, SHEIN ou AliExpress? Depende da peça e do vendedor. O que muda o total é o frete, o imposto e, na SHEIN, o desconto do código de indicação. Compare o total no fim do checkout.",
-        "O AliExpress é confiável para comprar roupa? A política do AliExpress prevê o reembolso total se o pacote não chegar até a data garantida e aceita devolver roupa nova, sem uso e com etiqueta. No Reclame Aqui, a reputação dele é Ruim, com nota 5,8; a nota mede o atendimento a quem reclama, não as peças.",
+        "O AliExpress é confiável para comprar roupa? A política do AliExpress prevê o reembolso total se o pacote não chegar até a data garantida e aceita devolver roupa nova, sem uso e com etiqueta. No Reclame Aqui, a reputação dele é Ruim, com nota 5,7; a nota mede o atendimento a quem reclama, não as peças.",
         "O 4CW5Y dá desconto? Sim. É o código de indicação da Cecília na SHEIN e dá desconto numa seleção de produtos e promoções; quanto e em quais peças, a SHEIN decide. Pesquise o código no app ou no site, não no campo de cupom."
       ]
     }

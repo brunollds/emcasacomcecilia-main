@@ -19,7 +19,7 @@
   "metaDescription": "4CW5Y gibt Rabatt auf eine SHEIN-Auswahl. SHEIN oder AliExpress: Versand, Rückgabe und Zoll im Vergleich und was Sie bei jedem Angebot prüfen sollten.",
   "publishedAt": "17. November 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -31,10 +31,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
+      "Wählen Sie SHEIN, wenn Sie mehr Zeit zum Überlegen möchten und der Artikel zu denen gehört, die SHEIN bis 30 Tage nach Erhalt zurücknimmt.",
       "Wählen Sie AliExpress, wenn Ihr Artikel dort angeboten wird und die Angebotsseite kostenlose Rückgabe und ein Lieferdatum zeigt, mit dem Sie planen können."
     ],
     "skipIf": [
-      "Meiden Sie AliExpress, wenn Rückgabefrist, Rücksendekosten oder Rücksendeadresse im Angebot unklar bleiben und Sie einen Artikel bei falscher Größe zurückgeben möchten."
+      "Meiden Sie AliExpress, wenn Rückgabefrist, Rücksendekosten oder Rücksendeadresse im Angebot unklar bleiben und Sie einen Artikel bei falscher Größe zurückgeben möchten.",
+      "Meiden Sie SHEIN, wenn der Artikel Dessous, Unterwäsche oder Modeschmuck ist, die sich nur innerhalb der 14 gesetzlichen Tage zurückgeben lassen."
     ]
   },
   "affiliate": [
@@ -109,6 +111,7 @@
         "**Versand und Lieferzeit**, die bei AliExpress je nach Angebot und Versandort wechseln.",
         "**Das Datum der garantierten Erstattung** bei AliExpress: Kommt das Paket bis dahin nicht an, können Sie den vollen Betrag zurückverlangen.",
         "**Ob der Artikel kostenlose Rückgabe hat** und für wie viele Tage. Ohne sie tragen Sie bei AliExpress die Rücksendekosten, wenn Sie den Kauf widerrufen.",
+        "**Zahlungsarten:** Bei AliExpress erscheint die vollständige Liste erst an der Kasse, wenn Sie angemeldet sind; prüfen Sie dort, ob Ihre gewohnte Zahlungsart angeboten wird.",
         "**Den Gesamtbetrag** mit Versand und Steuern am Ende der Kasse jedes Shops und die korrekten Angaben zu Name und Adresse in der Bestellung."
       ],
       "postParagraphs": [
@@ -138,7 +141,8 @@
       "heading": "Was zu welchem Einkauf passt",
       "paragraphs": [
         "SHEIN nimmt die meisten berechtigten Artikel bis 30 Tage nach Erhalt zurück. AliExpress nennt 15 Tage nach Lieferung bei Verkäufern vor Ort und 90 Tage ab Bestellung bei Verkäufern aus dem Ausland. Die Fristen beginnen an unterschiedlichen Tagen: Prüfen Sie die verbleibende Zeit nach Erhalt, die Rücksendekosten und die Rücksendeadresse. Entscheiden Sie anhand dieser Bedingungen, der Lieferprognose und der Gesamtkosten."
-      ]
+      ],
+      "emphasis": "Bei SHEIN legt die Richtlinie des Shops die Rückgabefrist fest, bei AliExpress jedes einzelne Angebot. Entschieden wird auf der Artikelseite, vor dem Bezahlen."
     },
     {
       "heading": "Was jeder Shop verkauft: ein Beispiel",
@@ -345,9 +349,8 @@
       ]
     },
     {
-      "heading": "Partnerschaft und Empfehlungscode",
+      "heading": "Links und Empfehlungscode 4CW5Y",
       "paragraphs": [
-        "Cecília ist Affiliate-Partnerin von SHEIN und AliExpress und kann für Käufe über die Links in diesem Artikel eine Provision erhalten, ohne Mehrkosten für Sie. Das ändert die Antwort nicht: Die Wahl hängt davon ab, was Sie kaufen.",
         "4CW5Y ist Cecílias Empfehlungscode bei SHEIN und gibt Rabatt, ja: auf eine Auswahl an Produkten und Aktionen von SHEIN; wie viel und auf welche Artikel, entscheidet SHEIN. Öffnen Sie SHEIN über den Link von Cecília und suchen Sie den Code in der App oder auf der Website, nicht im Feld für Gutscheine. AliExpress hat keinen Code von uns."
       ],
       "links": [
@@ -381,7 +384,7 @@
         "Sind SHEIN und AliExpress dasselbe? Nein. SHEIN beschreibt sich als Modehändler mit Eigenmarke, 2012 gegründet; AliExpress ist der internationale Marktplatz der Alibaba-Gruppe, auf dem jeder Verkäufer seinen eigenen Shop hat.",
         "Wer liefert schneller, SHEIN oder AliExpress? Das hängt von der Bestellung und bei AliExpress vom Angebot ab. SHEIN zeigt eine für jede Bestellung berechnete Schätzung, AliExpress die Lieferzeit jedes Artikels. Vergleichen Sie beides vor dem Bezahlen.",
         "Was ist günstiger, SHEIN oder AliExpress? Das hängt vom Artikel und vom Verkäufer ab. Den Gesamtbetrag bestimmen Versand, Steuern und bei SHEIN der Rabatt des Empfehlungscodes. Vergleichen Sie den Gesamtbetrag am Ende der Kasse.",
-        "Ist AliExpress für Kleidung seriös? Die Richtlinie von AliExpress sieht die volle Erstattung vor, wenn das Paket bis zum garantierten Datum nicht ankommt, und nimmt neue, ungetragene Kleidung mit Etikett zurück. Mehr als diese Richtlinie bewerten wir hier nicht.",
+        "Ist AliExpress für Kleidung seriös? Die Richtlinie von AliExpress sieht die volle Erstattung vor, wenn das Paket bis zum garantierten Datum nicht ankommt, und nimmt neue, ungetragene Kleidung mit Etikett zurück.",
         "Gibt 4CW5Y Rabatt? Ja. Es ist Cecílias Empfehlungscode bei SHEIN und gibt Rabatt auf eine Auswahl an Produkten und Aktionen; wie viel und auf welche Artikel, entscheidet SHEIN. Suchen Sie den Code in der App oder auf der Website, nicht im Feld für Gutscheine."
       ]
     }

@@ -34,7 +34,8 @@
     ],
     "skipIf": [
       "SHEIN: você conta com os 20 dias para body, moda praia ou roupa íntima; essas só voltam em 7.",
-      "SHEIN: você precisa da peça em poucos dias e ela vem do exterior; só o processamento leva de 3 a 5 dias."
+      "SHEIN: você precisa da peça em poucos dias e ela vem do exterior; só o processamento leva de 3 a 5 dias.",
+      "Shopee: você não quer comparar vendedores; cada anúncio tem o seu, e frete, origem e previsão de entrega mudam de um para outro."
     ]
   },
   "affiliate": [
@@ -143,19 +144,19 @@
           [
             "[SHEIN](https://www.reclameaqui.com.br/empresa/shein/)",
             "Boa, 7,5",
-            "77,7%",
+            "77,6%",
             "3 dias e 10 horas"
           ],
           [
             "[Shopee](https://www.reclameaqui.com.br/empresa/shopee/)",
             "Regular, 6,8",
-            "66,7%",
+            "66,5%",
             "22 dias e 19 horas"
           ]
         ]
       },
       "postParagraphs": [
-        "Nos seis meses até outubro, a SHEIN recebeu 33.277 reclamações e a Shopee, 146.650. Entre quem avaliou o atendimento, 71,1% voltariam a comprar na SHEIN e 64,1% na Shopee.",
+        "Nos seis meses até outubro, a SHEIN recebeu 33.252 reclamações e a Shopee, 146.581. Entre quem avaliou o atendimento, 71% voltariam a comprar na SHEIN e 64% na Shopee.",
         "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama no Reclame Aqui, não a qualidade das peças nem o prazo de entrega. E o número de reclamações, sem o número de pedidos de cada loja, não diz em qual delas uma compra dá mais problema.",
         "O que mais separa as duas é o tempo de resposta no Reclame Aqui: menos de quatro dias na SHEIN e quase 23 na Shopee. Quem opera a SHEIN e o que pesa na reputação dela está em [SHEIN é confiável?](/reviews/shein-e-confiavel)."
       ]
@@ -373,7 +374,8 @@
         "**Se a peça pode ser devolvida.** Na SHEIN, bodies, moda praia e roupa íntima só voltam em 7 dias.",
         "**Quem vende**, nas duas lojas: a nota do vendedor e as avaliações da peça.",
         "**Nas compras do exterior,** o nome e o CPF corretos no pedido."
-      ]
+      ],
+      "emphasis": "Na Shopee, a escolha é do anúncio e não da loja: antes do preço, olhe quem vende, de onde a peça sai e se a devolução vale para ela."
     },
     {
       "heading": "E a Temu?",

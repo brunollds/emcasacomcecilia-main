@@ -30,10 +30,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Temu: seu item aceita a devolução em 90 dias da compra e a data-limite deixa mais tempo para decidir depois da entrega do que o prazo da SHEIN; confira as datas no pedido."
+      "Temu: seu item aceita a devolução em 90 dias da compra e a data-limite deixa mais tempo para decidir depois da entrega do que o prazo da SHEIN; confira as datas no pedido.",
+      "SHEIN: o atendimento depois da compra pesa mais para você; no Reclame Aqui, a SHEIN tem nota 7,5 (boa) e a Temu, 5,6 (ruim)."
     ],
     "skipIf": [
-      "SHEIN: você conta com os 20 dias para body, roupa de banho ou roupa íntima; essas só voltam em 7."
+      "SHEIN: você conta com os 20 dias para body, roupa de banho ou roupa íntima; essas só voltam em 7.",
+      "Temu: você precisa da peça numa data próxima; a loja publica de 17 a 30 dias de entrega, mais 1 a 3 dias de processamento."
     ]
   },
   "affiliate": [
@@ -95,7 +97,7 @@
           [
             "Reclame Aqui",
             "Boa, nota 7,5",
-            "Ruim, nota 5,7"
+            "Ruim, nota 5,6"
           ]
         ]
       },
@@ -152,22 +154,23 @@
           [
             "[SHEIN](https://www.reclameaqui.com.br/empresa/shein/)",
             "Boa, 7,5",
-            "77,7%",
+            "77,6%",
             "3 dias e 10 horas"
           ],
           [
             "[Temu](https://www.reclameaqui.com.br/empresa/temu/)",
-            "Ruim, 5,7",
-            "53,7%",
+            "Ruim, 5,6",
+            "53,5%",
             "7 dias e 5 horas"
           ]
         ]
       },
       "postParagraphs": [
-        "De maio a outubro de 2026, a SHEIN recebeu 33.277 reclamações e a Temu, 9.390. A Temu respondeu quase todas (99,9%, contra 92,6% da SHEIN), mas resolveu menos. Entre quem avaliou o atendimento, 71,1% voltariam a comprar na SHEIN e 41,1% na Temu.",
+        "De maio a outubro de 2026, a SHEIN recebeu 33.252 reclamações e a Temu, 9.384. A Temu respondeu quase todas (99,9%, contra 92,6% da SHEIN), mas resolveu menos. Entre quem avaliou o atendimento, 71% voltariam a comprar na SHEIN e 41% na Temu.",
         "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama no Reclame Aqui, não a qualidade das peças nem o prazo de entrega. E o número de reclamações depende do tamanho de cada loja no Brasil: sem o número de pedidos, ele não diz em qual delas uma compra dá mais problema.",
         "Na prática: se o atendimento depois da compra pesa mais para você, a SHEIN resolve mais reclamações. Se o que pesa é ter tempo para devolver, a Temu dá mais prazo."
-      ]
+      ],
+      "emphasis": "Para roupa que você não consegue provar antes de pagar, escolha pela devolução: some o tempo de entrega ao prazo do seu item e fique com a loja que ainda deixa dias para decidir."
     },
     {
       "heading": "O que cada uma vende: uma amostra",
@@ -374,9 +377,8 @@
       ]
     },
     {
-      "heading": "Parceria e código de indicação",
+      "heading": "Links e código de indicação 4CW5Y",
       "paragraphs": [
-        "A Cecília é afiliada da SHEIN e da Temu e pode receber comissão pelas compras feitas pelos links deste artigo, sem custo a mais para você. Isso não muda a resposta: a escolha depende do que você vai comprar.",
         "O 4CW5Y é o código de indicação da Cecília na SHEIN e dá desconto, sim, numa seleção de produtos e promoções da SHEIN; quanto e em quais peças, a SHEIN decide. Abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, não no campo de cupom. A Temu não tem código nosso."
       ],
       "links": [

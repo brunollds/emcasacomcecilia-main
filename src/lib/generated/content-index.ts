@@ -80865,7 +80865,8 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "SHEIN: você conta com os 20 dias para body, moda praia ou roupa íntima; essas só voltam em 7.",
-        "SHEIN: você precisa da peça em poucos dias e ela vem do exterior; só o processamento leva de 3 a 5 dias."
+        "SHEIN: você precisa da peça em poucos dias e ela vem do exterior; só o processamento leva de 3 a 5 dias.",
+        "Shopee: você não quer comparar vendedores; cada anúncio tem o seu, e frete, origem e previsão de entrega mudam de um para outro."
       ]
     },
     "affiliate": [
@@ -80974,19 +80975,19 @@ export const reviewsData: unknown[] = [
             [
               "[SHEIN](https://www.reclameaqui.com.br/empresa/shein/)",
               "Boa, 7,5",
-              "77,7%",
+              "77,6%",
               "3 dias e 10 horas"
             ],
             [
               "[Shopee](https://www.reclameaqui.com.br/empresa/shopee/)",
               "Regular, 6,8",
-              "66,7%",
+              "66,5%",
               "22 dias e 19 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "Nos seis meses até outubro, a SHEIN recebeu 33.277 reclamações e a Shopee, 146.650. Entre quem avaliou o atendimento, 71,1% voltariam a comprar na SHEIN e 64,1% na Shopee.",
+          "Nos seis meses até outubro, a SHEIN recebeu 33.252 reclamações e a Shopee, 146.581. Entre quem avaliou o atendimento, 71% voltariam a comprar na SHEIN e 64% na Shopee.",
           "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama no Reclame Aqui, não a qualidade das peças nem o prazo de entrega. E o número de reclamações, sem o número de pedidos de cada loja, não diz em qual delas uma compra dá mais problema.",
           "O que mais separa as duas é o tempo de resposta no Reclame Aqui: menos de quatro dias na SHEIN e quase 23 na Shopee. Quem opera a SHEIN e o que pesa na reputação dela está em [SHEIN é confiável?](/reviews/shein-e-confiavel)."
         ]
@@ -81204,7 +81205,8 @@ export const reviewsData: unknown[] = [
           "**Se a peça pode ser devolvida.** Na SHEIN, bodies, moda praia e roupa íntima só voltam em 7 dias.",
           "**Quem vende**, nas duas lojas: a nota do vendedor e as avaliações da peça.",
           "**Nas compras do exterior,** o nome e o CPF corretos no pedido."
-        ]
+        ],
+        "emphasis": "Na Shopee, a escolha é do anúncio e não da loja: antes do preço, olhe quem vende, de onde a peça sai e se a devolução vale para ela."
       },
       {
         "heading": "E a Temu?",
@@ -81274,10 +81276,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Temu: seu item aceita a devolução em 90 dias da compra e a data-limite deixa mais tempo para decidir depois da entrega do que o prazo da SHEIN; confira as datas no pedido."
+        "Temu: seu item aceita a devolução em 90 dias da compra e a data-limite deixa mais tempo para decidir depois da entrega do que o prazo da SHEIN; confira as datas no pedido.",
+        "SHEIN: o atendimento depois da compra pesa mais para você; no Reclame Aqui, a SHEIN tem nota 7,5 (boa) e a Temu, 5,6 (ruim)."
       ],
       "skipIf": [
-        "SHEIN: você conta com os 20 dias para body, roupa de banho ou roupa íntima; essas só voltam em 7."
+        "SHEIN: você conta com os 20 dias para body, roupa de banho ou roupa íntima; essas só voltam em 7.",
+        "Temu: você precisa da peça numa data próxima; a loja publica de 17 a 30 dias de entrega, mais 1 a 3 dias de processamento."
       ]
     },
     "affiliate": [
@@ -81339,7 +81343,7 @@ export const reviewsData: unknown[] = [
             [
               "Reclame Aqui",
               "Boa, nota 7,5",
-              "Ruim, nota 5,7"
+              "Ruim, nota 5,6"
             ]
           ]
         },
@@ -81396,22 +81400,23 @@ export const reviewsData: unknown[] = [
             [
               "[SHEIN](https://www.reclameaqui.com.br/empresa/shein/)",
               "Boa, 7,5",
-              "77,7%",
+              "77,6%",
               "3 dias e 10 horas"
             ],
             [
               "[Temu](https://www.reclameaqui.com.br/empresa/temu/)",
-              "Ruim, 5,7",
-              "53,7%",
+              "Ruim, 5,6",
+              "53,5%",
               "7 dias e 5 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "De maio a outubro de 2026, a SHEIN recebeu 33.277 reclamações e a Temu, 9.390. A Temu respondeu quase todas (99,9%, contra 92,6% da SHEIN), mas resolveu menos. Entre quem avaliou o atendimento, 71,1% voltariam a comprar na SHEIN e 41,1% na Temu.",
+          "De maio a outubro de 2026, a SHEIN recebeu 33.252 reclamações e a Temu, 9.384. A Temu respondeu quase todas (99,9%, contra 92,6% da SHEIN), mas resolveu menos. Entre quem avaliou o atendimento, 71% voltariam a comprar na SHEIN e 41% na Temu.",
           "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama no Reclame Aqui, não a qualidade das peças nem o prazo de entrega. E o número de reclamações depende do tamanho de cada loja no Brasil: sem o número de pedidos, ele não diz em qual delas uma compra dá mais problema.",
           "Na prática: se o atendimento depois da compra pesa mais para você, a SHEIN resolve mais reclamações. Se o que pesa é ter tempo para devolver, a Temu dá mais prazo."
-        ]
+        ],
+        "emphasis": "Para roupa que você não consegue provar antes de pagar, escolha pela devolução: some o tempo de entrega ao prazo do seu item e fique com a loja que ainda deixa dias para decidir."
       },
       {
         "heading": "O que cada uma vende: uma amostra",
@@ -81618,9 +81623,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Parceria e código de indicação",
+        "heading": "Links e código de indicação 4CW5Y",
         "paragraphs": [
-          "A Cecília é afiliada da SHEIN e da Temu e pode receber comissão pelas compras feitas pelos links deste artigo, sem custo a mais para você. Isso não muda a resposta: a escolha depende do que você vai comprar.",
           "O 4CW5Y é o código de indicação da Cecília na SHEIN e dá desconto, sim, numa seleção de produtos e promoções da SHEIN; quanto e em quais peças, a SHEIN decide. Abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, não no campo de cupom. A Temu não tem código nosso."
         ],
         "links": [
@@ -81745,7 +81749,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Temu:** 90 days from purchase under Temu's policy, and 14 days by law from receipt. The 90 days apply to most items; some, clothing included, have their own conditions, so check Temu's policy for your item. The first return of each order is free; from the second, you pay the return cost.",
-          "**SHEIN:** most items up to 30 days after receipt under SHEIN's policy, and 14 days by law from receipt. Lingerie, underwear and costume jewelry only come back within the 14 days. In the US, SHEIN's site (SHEIN US Services, LLC) publishes returns up to 30 days after delivery."
+          "**SHEIN:** most items up to 30 days after receipt under SHEIN's policy, and 14 days by law from receipt. Lingerie, underwear and costume jewelry only come back within the 14 days."
         ]
       },
       {
@@ -81978,9 +81982,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Partnership and referral code",
+        "heading": "Links and referral code 4CW5Y",
         "paragraphs": [
-          "Cecília is an affiliate of SHEIN and Temu and may earn a commission on purchases made through the links in this article, at no extra cost to you. That does not change the answer: the choice depends on what you are buying.",
           "4CW5Y is Cecília's referral code at SHEIN, and it does give you a discount on a selection of SHEIN products and promotions; how much and on which items is SHEIN's call. Open SHEIN through Cecília's link and search for the code in the app or on the site: the search opens a selection with promotions and discounts. It does not go in the coupon field."
         ],
         "links": [
@@ -82029,10 +82032,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Choose Temu if your item qualifies for its 90-day return policy from purchase and the deadline leaves more time after delivery than SHEIN’s deadline for the item."
+        "Choose Temu if your item qualifies for its 90-day return policy from purchase and the deadline leaves more time after delivery than SHEIN’s deadline for the item.",
+        "Choose SHEIN if you want a delivery window published before you pay: 5 to 8 working days for Standard, against 6 to 13 working days on Temu."
       ],
       "skipIf": [
-        "Skip SHEIN if you want more room to return than the 30 days after receipt it gives on most items."
+        "Skip SHEIN if you want more room to return than the 30 days after receipt it gives on most items.",
+        "Skip Temu if you need the item by a fixed date: it publishes 6 to 13 working days for Standard delivery, on top of 1 to 3 days of processing."
       ]
     }
   },
@@ -82376,9 +82381,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Colaboración y código de referido",
+        "heading": "Enlaces y código de referido 4CW5Y",
         "paragraphs": [
-          "Cecília es afiliada de SHEIN y Temu y puede recibir una comisión por las compras hechas a través de los enlaces de este artículo, sin costo adicional para ti. Eso no cambia la respuesta: la elección depende de lo que vayas a comprar.",
           "4CW5Y es el código de referido de Cecília en SHEIN y sí da descuento, en una selección de productos y promociones de SHEIN; cuánto y en qué prendas lo decide SHEIN. Abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio: la búsqueda abre una selección con promociones y descuentos. No va en el campo del cupón."
         ],
         "links": [
@@ -82427,10 +82431,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Elige Temu si tu artículo admite la devolución en 90 días desde la compra y la fecha límite deja más tiempo tras la entrega que el plazo de SHEIN; compara las fechas del pedido."
+        "Elige Temu si tu artículo admite la devolución en 90 días desde la compra y la fecha límite deja más tiempo tras la entrega que el plazo de SHEIN; compara las fechas del pedido.",
+        "Elige SHEIN si quieres un plazo publicado antes de pagar: en España, de 8 a 11 días laborables en envío estándar, mientras que Temu lo indica producto a producto."
       ],
       "skipIf": [
-        "Pasa de SHEIN si quieres devolver con más margen que los 30 días después de la recepción que da en la mayoría de los artículos."
+        "Pasa de SHEIN si quieres devolver con más margen que los 30 días después de la recepción que da en la mayoría de los artículos.",
+        "Pasa de Temu si necesitas saber la fecha de entrega antes de pagar: depende de cada producto y, en México, el envío estándar va de 4 a 28 días hábiles."
       ]
     }
   },
@@ -82758,9 +82764,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Partenariat et code de parrainage",
+        "heading": "Liens et code de parrainage 4CW5Y",
         "paragraphs": [
-          "Cecília est affiliée à SHEIN et à Temu et peut toucher une commission sur les achats faits via les liens de cet article, sans frais supplémentaires pour vous. Cela ne change pas la réponse : le choix dépend de ce que vous achetez.",
           "Le 4CW5Y est le code de parrainage de Cecília chez SHEIN et donne bien une réduction, sur une sélection de produits et de promotions de SHEIN ; combien et sur quels articles, c'est SHEIN qui décide. Ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l’application ou sur le site : la recherche ouvre une sélection de promotions et de réductions. Il ne va pas dans le champ du coupon."
         ],
         "links": [
@@ -82809,10 +82814,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Choisissez Temu si votre article bénéficie des 90 jours depuis l’achat et si la date limite vous laisse plus de temps après livraison que celle de SHEIN ; comparez les dates dans la commande."
+        "Choisissez Temu si votre article bénéficie des 90 jours depuis l’achat et si la date limite vous laisse plus de temps après livraison que celle de SHEIN ; comparez les dates dans la commande.",
+        "Choisissez SHEIN si vous voulez un délai annoncé avant de payer : 4 à 8 jours ouvrés en livraison Standard, alors que Temu l'indique sur la page de chaque produit."
       ],
       "skipIf": [
-        "Passez votre tour chez SHEIN si vous voulez retourner avec plus de marge que les 30 jours après réception qu'elle accorde pour la plupart des articles."
+        "Passez votre tour chez SHEIN si vous voulez retourner avec plus de marge que les 30 jours après réception qu'elle accorde pour la plupart des articles.",
+        "Passez votre tour chez Temu si vous avez besoin d'une date de livraison fiable avant de payer : le délai change d'un produit à l'autre et se lit sur chaque page."
       ]
     }
   },
@@ -83140,9 +83147,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Partnerschaft und Empfehlungscode",
+        "heading": "Links und Empfehlungscode 4CW5Y",
         "paragraphs": [
-          "Cecília ist Affiliate-Partnerin von SHEIN und Temu und kann für Käufe über die Links in diesem Artikel eine Provision erhalten, ohne Mehrkosten für Sie. Das ändert die Antwort nicht: Die Wahl hängt davon ab, was Sie kaufen.",
           "4CW5Y ist Cecílias Empfehlungscode bei SHEIN und gibt Rabatt, ja: auf eine Auswahl an Produkten und Aktionen von SHEIN; wie viel und auf welche Artikel, entscheidet SHEIN. Öffnen Sie SHEIN über den Link von Cecília und suchen Sie den Code in der App oder auf der Website: Die Suche öffnet eine Auswahl mit Aktionen und Rabatten. Er gehört nicht ins Feld für Gutscheine."
         ],
         "links": [
@@ -83191,10 +83197,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Wählen Sie Temu, wenn für Ihren Artikel die 90 Tage ab Kauf gelten und das Rückgabedatum Ihnen nach der Lieferung mehr Zeit lässt als bei SHEIN; vergleichen Sie die Fristen in der Bestellung."
+        "Wählen Sie Temu, wenn für Ihren Artikel die 90 Tage ab Kauf gelten und das Rückgabedatum Ihnen nach der Lieferung mehr Zeit lässt als bei SHEIN; vergleichen Sie die Fristen in der Bestellung.",
+        "Wählen Sie SHEIN, wenn Sie schon an der Kasse ein Ankunftsdatum sehen möchten: Bei Standard nennt SHEIN 9 bis 14 Tage, Temu gibt die Zeit je Produktseite an."
       ],
       "skipIf": [
-        "Lassen Sie SHEIN aus, wenn Sie mehr Zeit zum Zurückgeben möchten als die 30 Tage nach Erhalt, die bei den meisten Artikeln gelten."
+        "Lassen Sie SHEIN aus, wenn Sie mehr Zeit zum Zurückgeben möchten als die 30 Tage nach Erhalt, die bei den meisten Artikeln gelten.",
+        "Lassen Sie Temu aus, wenn Sie vor dem Bezahlen einen verlässlichen Liefertermin brauchen: Die Zeit steht bei jedem Artikel einzeln auf der Produktseite."
       ]
     }
   },
@@ -83522,9 +83530,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Partnership e codice invito",
+        "heading": "Link e codice invito 4CW5Y",
         "paragraphs": [
-          "Cecília è affiliata di SHEIN e di Temu e può ricevere una commissione sugli acquisti fatti con i link di questo articolo, senza costi per te. Questo non cambia la risposta: la scelta dipende da cosa compri.",
           "Il 4CW5Y è il codice invito di Cecília su SHEIN e dà lo sconto, sì, su una selezione di prodotti e promozioni di SHEIN; quanto e su quali articoli lo decide SHEIN. Apri SHEIN dal link di Cecília e cerca il codice nell’app o sul sito: la ricerca apre una selezione con promozioni e sconti. Non va nel campo del coupon."
         ],
         "links": [
@@ -83573,10 +83580,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Scegli Temu se il tuo articolo rientra nei 90 giorni dall’acquisto e la scadenza lascia più tempo dopo la consegna rispetto a SHEIN; confronta le date nell’ordine."
+        "Scegli Temu se il tuo articolo rientra nei 90 giorni dall’acquisto e la scadenza lascia più tempo dopo la consegna rispetto a SHEIN; confronta le date nell’ordine.",
+        "Scegli SHEIN se vuoi una finestra di consegna dichiarata prima di pagare: in Standard sono 6-12 giorni lavorativi, mentre Temu indica il tempo nella pagina di ogni prodotto."
       ],
       "skipIf": [
-        "Lascia perdere SHEIN se vuoi restituire con più margine dei 30 giorni dal ricevimento che concede per la maggior parte degli articoli."
+        "Lascia perdere SHEIN se vuoi restituire con più margine dei 30 giorni dal ricevimento che concede per la maggior parte degli articoli.",
+        "Lascia perdere Temu se ti serve una data di consegna certa prima di pagare: i tempi cambiano da prodotto a prodotto e vanno letti nella pagina di ciascuno."
       ]
     }
   },
@@ -83907,9 +83916,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "제휴와 추천 코드",
+        "heading": "링크와 추천 코드 4CW5Y",
         "paragraphs": [
-          "Cecília는 SHEIN과 테무의 제휴(어필리에이트) 파트너로, 이 글의 링크로 구매하시면 추가 비용 없이 수수료를 받을 수 있습니다. 이 점이 답을 바꾸지는 않습니다. 무엇을 사는지에 따라 선택이 달라집니다.",
           "4CW5Y는 Cecília의 SHEIN 추천 코드로, SHEIN이 고른 상품과 프로모션에서 할인이 됩니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요. 검색하면 프로모션과 할인이 모인 페이지가 열립니다. 쿠폰 입력란에 입력하는 코드가 아닙니다."
         ],
         "links": [
@@ -83958,10 +83966,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "상품에 구매일로부터 90일 이내 반품 정책이 적용되고 실제 마감일이 SHEIN보다 배송 후 결정할 시간을 더 많이 준다면 테무를 고르세요. 주문 내역에서 날짜를 비교하세요."
+        "상품에 구매일로부터 90일 이내 반품 정책이 적용되고 실제 마감일이 SHEIN보다 배송 후 결정할 시간을 더 많이 준다면 테무를 고르세요. 주문 내역에서 날짜를 비교하세요.",
+        "배송 기간이 짧은 쪽이 좋다면 SHEIN을 고르세요. 이코노믹 배송 3~5영업일, 표준 배송 2~5영업일을 안내합니다(처리 1~3일 별도)."
       ],
       "skipIf": [
-        "수령 후 60일보다 더 긴 반품 기한이 필요하다면 SHEIN은 건너뛰세요."
+        "수령 후 60일보다 더 긴 반품 기한이 필요하다면 SHEIN은 건너뛰세요.",
+        "빨리 받아야 한다면 테무 일반 배송은 건너뛰세요. 6~11일을 안내합니다."
       ]
     }
   },
@@ -84292,9 +84302,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "提携と紹介コード",
+        "heading": "リンクと紹介コード 4CW5Y",
         "paragraphs": [
-          "Cecília は SHEIN と Temu のアフィリエイトに参加しています。この記事のリンクから購入されると、あなたの負担なしに報酬を受け取ることがあります。それでも答えは変わりません。何を買うかによって選ぶお店は変わります。",
           "4CW5Y は、Cecília の SHEIN の紹介コードで、SHEIN が選んだ商品とキャンペーンで割引が受けられます。割引額と対象商品は SHEIN が決めます。Cecília のリンクから SHEIN を開き、アプリまたはサイトでコードを検索してください。検索するとプロモーションと割引の特集が開きます（クーポン欄ではありません）。"
         ],
         "links": [
@@ -84343,10 +84352,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "試着せずに服を買い、返品期限を長く取りたいなら、Temu を選びましょう。購入日から90日以内で、対象になる商品かどうかを確認します。"
+        "試着せずに服を買い、返品期限を長く取りたいなら、Temu を選びましょう。購入日から90日以内で、対象になる商品かどうかを確認します。",
+        "届く日をあらかじめ知りたいなら、SHEIN を選びましょう。お急ぎ便のお届け予定が注文ページに表示されます。"
       ],
       "skipIf": [
-        "購入から40日より長い返品期限がほしいなら、SHEIN は見送りましょう。対象外の商品もあります。"
+        "購入から40日より長い返品期限がほしいなら、SHEIN は見送りましょう。対象外の商品もあります。",
+        "期日までに受け取りたいなら、Temu は見送りましょう。通常配送は5〜14日で、処理にさらに1〜3日かかります。"
       ]
     }
   },
@@ -84701,9 +84712,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "合作與推薦碼",
+        "heading": "連結與推薦碼 4CW5Y",
         "paragraphs": [
-          "Cecília 是 SHEIN 和 Temu 的聯盟會員。透過本文連結購買時，她可能獲得傭金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
           "4CW5Y 是 Cecília 在 SHEIN 的推薦碼，確實有折扣，適用於 SHEIN 精選商品與促銷；折多少、哪些商品，由 SHEIN 決定。請透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋代碼，搜尋會開啟含促銷與折扣的精選頁面；不是輸入到優惠券欄位。"
         ],
         "links": [
@@ -84752,10 +84762,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "如果商品適用購買後90天的退貨政策，而且實際截止日比SHEIN留出更多收貨後的考慮時間，可以選Temu；請比較訂單中的日期。"
+        "如果商品適用購買後90天的退貨政策，而且實際截止日比SHEIN留出更多收貨後的考慮時間，可以選Temu；請比較訂單中的日期。",
+        "如果你更在意到貨時間，可以選 SHEIN：新加坡站公布標準配送 3–5 個工作日，Temu 是 3–6 個工作日，另加 1–3 天處理。"
       ],
       "skipIf": [
-        "如果你想要比 SHEIN 更長的退貨期限，就先別選 SHEIN：新加坡站收到後 15 天內，馬來西亞站收到後 20 天內。"
+        "如果你想要比 SHEIN 更長的退貨期限，就先別選 SHEIN：新加坡站收到後 15 天內，馬來西亞站收到後 20 天內。",
+        "如果你需要在固定日期前收到，先別選 Temu：馬來西亞站公布的標準配送最長 15 個工作日，還要加上 1–3 天處理。"
       ]
     }
   },
@@ -85110,9 +85122,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "合作与推荐码",
+        "heading": "链接与推荐码 4CW5Y",
         "paragraphs": [
-          "Cecília 是 SHEIN 和 Temu 的联盟会员。通过本文链接购买时，她可能获得佣金，你不需要多付费。这不会改变答案：怎么选，取决于你要买什么。",
           "4CW5Y 是 Cecília 在 SHEIN 的推荐码，确实有折扣，适用于 SHEIN 精选商品与促销；折多少、哪些商品，由 SHEIN 决定。请通过 Cecília 的链接打开 SHEIN，再在应用或网站搜索代码，搜索会打开含促销与折扣的精选页面；不是输入到优惠券输入框。"
         ],
         "links": [
@@ -85161,10 +85172,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "如果商品适用购买后90天的退货政策，而且实际截止日比SHEIN留出更多收货后的考虑时间，可以选Temu；请比较订单中的日期。"
+        "如果商品适用购买后90天的退货政策，而且实际截止日比SHEIN留出更多收货后的考虑时间，可以选Temu；请比较订单中的日期。",
+        "如果你更在意到货时间，可以选 SHEIN：新加坡站公布标准配送 3–5 个工作日，Temu 是 3–6 个工作日，另加 1–3 天处理。"
       ],
       "skipIf": [
-        "如果你想要比 SHEIN 更长的退货期限，就先别选 SHEIN：新加坡站收到后 15 天内，马来西亚站收到后 20 天内。"
+        "如果你想要比 SHEIN 更长的退货期限，就先别选 SHEIN：新加坡站收到后 15 天内，马来西亚站收到后 20 天内。",
+        "如果你需要在固定日期前收到，先别选 Temu：马来西亚站公布的标准配送最长 15 个工作日，还要加上 1–3 天处理。"
       ]
     }
   },
@@ -262696,7 +262709,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O 4CW5Y dá desconto numa seleção da SHEIN. SHEIN ou AliExpress: frete, prazo, devolução e imposto lado a lado, e o que conferir em cada anúncio.",
     "publishedAt": "17 de novembro de 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/shein-ou-aliexpress-capa-pt.webp",
@@ -262707,10 +262720,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
+        "SHEIN: você quer mais dias para desistir, e a peça está entre as que aceitam devolução em até 20 dias do recebimento.",
         "AliExpress: a peça que você quer está lá, e a página dela mostra devolução grátis e uma previsão de entrega que serve para você."
       ],
       "skipIf": [
-        "AliExpress: o anúncio não esclarece prazo, custo e endereço da devolução, e você precisa poder devolver se o tamanho não servir."
+        "AliExpress: o anúncio não esclarece prazo, custo e endereço da devolução, e você precisa poder devolver se o tamanho não servir.",
+        "SHEIN: a peça é body, roupa de banho ou roupa íntima, que só voltam nos 7 dias da lei."
       ]
     },
     "affiliate": [
@@ -262775,7 +262790,7 @@ export const reviewsData: unknown[] = [
             [
               "Reclame Aqui",
               "Boa, nota 7,5",
-              "Ruim, nota 5,8"
+              "Ruim, nota 5,7"
             ]
           ]
         },
@@ -262793,6 +262808,7 @@ export const reviewsData: unknown[] = [
           "**O frete e a previsão de entrega**, que no AliExpress mudam com o anúncio e com o lugar de onde a peça sai.",
           "**A data de reembolso garantido** do AliExpress: se o pacote não chegar até ela, você pode pedir o valor total de volta.",
           "**Se a peça tem devolução grátis** e por quantos dias. Sem ela, a devolução por desistência no AliExpress é paga por você.",
+          "**As formas de pagamento:** no AliExpress, a lista completa só aparece no checkout, com a conta logada; confira lá se a que você usa está disponível.",
           "**O total**, com frete e imposto, no fim do checkout de cada loja, e o nome e o CPF corretos no pedido."
         ],
         "postParagraphs": [
@@ -262836,22 +262852,23 @@ export const reviewsData: unknown[] = [
             [
               "[SHEIN](https://www.reclameaqui.com.br/empresa/shein/)",
               "Boa, 7,5",
-              "77,7%",
+              "77,6%",
               "3 dias e 10 horas"
             ],
             [
               "[AliExpress](https://www.reclameaqui.com.br/empresa/aliexpress/)",
-              "Ruim, 5,8",
-              "53,2%",
+              "Ruim, 5,7",
+              "53,1%",
               "6 dias e 10 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "De maio a outubro de 2026, a SHEIN recebeu 33.277 reclamações e o AliExpress, 10.300. O AliExpress respondeu quase todas (99,8%, contra 92,6% da SHEIN), mas resolveu menos. Entre quem avaliou o atendimento, 71,1% voltariam a comprar na SHEIN e 47,2% no AliExpress.",
+          "De maio a outubro de 2026, a SHEIN recebeu 33.252 reclamações e o AliExpress, 10.298. O AliExpress respondeu quase todas (99,8%, contra 92,6% da SHEIN), mas resolveu menos. Entre quem avaliou o atendimento, 71% voltariam a comprar na SHEIN e 47,1% no AliExpress.",
           "Duas ressalvas mudam a leitura. A nota mede o atendimento a quem reclama no Reclame Aqui, não a qualidade das peças nem o prazo de entrega. E o número de reclamações depende do tamanho de cada loja no Brasil: sem o número de pedidos, ele não diz em qual delas uma compra dá mais problema.",
           "Na prática: se você quer mais dias para desistir sem depender do anúncio, a SHEIN dá 20 dias do recebimento nos itens que aceitam devolução. Se a peça que você quer está no AliExpress, leia a página do anúncio antes de pagar: vendedor, previsão de entrega, data de reembolso garantido e devolução grátis."
-        ]
+        ],
+        "emphasis": "Na SHEIN, o prazo de devolução vem da política da loja; no AliExpress, vem de cada anúncio. A escolha se decide na página da peça, antes de pagar."
       },
       {
         "heading": "O que cada uma vende: uma amostra",
@@ -263058,9 +263075,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Parceria e código de indicação",
+        "heading": "Links e código de indicação 4CW5Y",
         "paragraphs": [
-          "A Cecília é afiliada da SHEIN e do AliExpress e pode receber comissão pelas compras feitas pelos links deste artigo, sem custo a mais para você. Isso não muda a resposta: a escolha depende do que você vai comprar.",
           "O 4CW5Y é o código de indicação da Cecília na SHEIN e dá desconto, sim, numa seleção de produtos e promoções da SHEIN; quanto e em quais peças, a SHEIN decide. Abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, não no campo de cupom. O AliExpress não tem código nosso."
         ],
         "links": [
@@ -263094,7 +263110,7 @@ export const reviewsData: unknown[] = [
           "SHEIN e AliExpress são a mesma coisa? Não. A SHEIN se descreve como varejista de moda com marca própria, fundada em 2012; o AliExpress é o marketplace internacional do grupo Alibaba, em que cada vendedor tem a própria loja.",
           "Qual chega mais rápido, SHEIN ou AliExpress? Depende do pedido e, no AliExpress, do anúncio. A SHEIN mostra uma estimativa calculada para cada pedido, e o AliExpress mostra a previsão de cada peça. Compare as duas antes de pagar.",
           "Qual é mais barata, SHEIN ou AliExpress? Depende da peça e do vendedor. O que muda o total é o frete, o imposto e, na SHEIN, o desconto do código de indicação. Compare o total no fim do checkout.",
-          "O AliExpress é confiável para comprar roupa? A política do AliExpress prevê o reembolso total se o pacote não chegar até a data garantida e aceita devolver roupa nova, sem uso e com etiqueta. No Reclame Aqui, a reputação dele é Ruim, com nota 5,8; a nota mede o atendimento a quem reclama, não as peças.",
+          "O AliExpress é confiável para comprar roupa? A política do AliExpress prevê o reembolso total se o pacote não chegar até a data garantida e aceita devolver roupa nova, sem uso e com etiqueta. No Reclame Aqui, a reputação dele é Ruim, com nota 5,7; a nota mede o atendimento a quem reclama, não as peças.",
           "O 4CW5Y dá desconto? Sim. É o código de indicação da Cecília na SHEIN e dá desconto numa seleção de produtos e promoções; quanto e em quais peças, a SHEIN decide. Pesquise o código no app ou no site, não no campo de cupom."
         ]
       }
@@ -263121,7 +263137,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y gives a discount on selected SHEIN offers. SHEIN or AliExpress in the UK: shipping, returns and tax side by side, and what to check.",
     "publishedAt": "November 17, 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -263133,10 +263149,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
+        "Choose SHEIN if you want more time to change your mind and the item is one SHEIN takes back within 30 days of receipt.",
         "Choose AliExpress if the piece you want is sold there and its page shows free returns and a delivery forecast that works for you."
       ],
       "skipIf": [
-        "Skip AliExpress if the listing leaves the return deadline, cost or address unclear and you need to return the item if it does not fit."
+        "Skip AliExpress if the listing leaves the return deadline, cost or address unclear and you need to return the item if it does not fit.",
+        "Skip SHEIN if the item is lingerie, underwear or costume jewelry, which only come back within the 14 legal days."
       ]
     },
     "affiliate": [
@@ -263211,6 +263229,7 @@ export const reviewsData: unknown[] = [
           "**Shipping and the delivery forecast**, which at AliExpress change with the listing and with where the piece ships from.",
           "**The guaranteed refund date** at AliExpress: if the parcel has not arrived by then, you can ask for the full amount back.",
           "**Whether the piece has free returns** and for how many days. Without it, a return for a change of mind at AliExpress is paid by you.",
+          "**Payment methods:** at AliExpress, the full list only appears at checkout once you are signed in, so check there that your usual method is accepted.",
           "**The total**, with shipping and any taxes, at the end of each store's checkout, and your name and address correct on the order."
         ],
         "postParagraphs": [
@@ -263238,7 +263257,8 @@ export const reviewsData: unknown[] = [
         "heading": "Which to choose: what to weigh",
         "paragraphs": [
           "SHEIN allows most eligible items back within 30 days of receipt. AliExpress lists 15 days after delivery for local sellers and 90 days from the order for overseas sellers, while free-return terms vary by listing. These periods start on different dates: check how much time remains after arrival, who pays the return and where it goes. Choose using those terms, the delivery estimate and the final cost."
-        ]
+        ],
+        "emphasis": "At SHEIN the return window comes from the store's policy; at AliExpress it comes from each listing. The choice is settled on the item's page, before you pay."
       },
       {
         "heading": "What each one sells: a sample",
@@ -263445,9 +263465,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Partnership and referral code",
+        "heading": "Links and the 4CW5Y referral code",
         "paragraphs": [
-          "Cecília is an affiliate of SHEIN and AliExpress and may earn a commission on purchases made through the links in this article, at no extra cost to you. That does not change the answer: the choice depends on what you are buying.",
           "4CW5Y is Cecília's referral code at SHEIN, and it does give you a discount on a selection of SHEIN products and promotions; how much and on which items is SHEIN's call. Open SHEIN through Cecília's link and search for the code in the app or on the site, not in the coupon field. AliExpress has no code of ours."
         ],
         "links": [
@@ -263508,7 +263527,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y da descuento en una selección de SHEIN. SHEIN o AliExpress en España y México: envío, devolución e impuestos, y qué revisar en cada anuncio.",
     "publishedAt": "17 de noviembre de 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -263520,10 +263539,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
+        "Elige SHEIN si quieres más margen para desistir y la prenda es de las que SHEIN admite devolver hasta 30 días después de recibirla.",
         "Elige AliExpress si la prenda que quieres está allí y su página muestra devolución gratis y una previsión de entrega que te sirve."
       ],
       "skipIf": [
-        "Descarta AliExpress si el anuncio no aclara el plazo, el coste o la dirección de devolución y necesitas poder devolver la prenda si no te queda bien."
+        "Descarta AliExpress si el anuncio no aclara el plazo, el coste o la dirección de devolución y necesitas poder devolver la prenda si no te queda bien.",
+        "Descarta SHEIN si la prenda es lencería, ropa interior o bisutería, que en España solo se devuelven dentro de los 14 días legales."
       ]
     },
     "affiliate": [
@@ -263613,6 +263634,7 @@ export const reviewsData: unknown[] = [
           "**El envío y la previsión de entrega**, que en AliExpress cambian con el anuncio y con el lugar desde donde sale la prenda.",
           "**La fecha de reembolso garantizado** de AliExpress: si el paquete no llega hasta ella, puedes pedir el importe total de vuelta.",
           "**Si la prenda tiene devolución gratis** y durante cuántos días. Sin ella, la devolución por desistimiento en AliExpress la pagas tú.",
+          "**Los métodos de pago:** en AliExpress, la lista completa solo aparece en el checkout, con la sesión iniciada; comprueba allí que se acepta el que usas.",
           "**El total**, con envío e impuestos, al final del checkout de cada tienda, y tu nombre y dirección correctos en el pedido."
         ],
         "postParagraphs": [
@@ -263643,7 +263665,8 @@ export const reviewsData: unknown[] = [
         "heading": "Cuál elegir: qué conviene pesar",
         "paragraphs": [
           "SHEIN admite artículos elegibles hasta 30 días después de recibirlos en España y México. AliExpress publica 30 días tras la entrega con vendedor local en España, 15 en México y 90 desde el pedido con vendedor del exterior. Los plazos parten de fechas distintas: revisa cuánto tiempo queda al recibir la prenda, quién paga la devolución y a qué dirección se envía. Decide con esas condiciones, la entrega prevista y el coste final."
-        ]
+        ],
+        "emphasis": "En SHEIN, el plazo de devolución lo marca la política de la tienda; en AliExpress, cada anuncio. La elección se decide en la página de la prenda, antes de pagar."
       },
       {
         "heading": "Qué vende cada una: una muestra",
@@ -263850,9 +263873,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Colaboración y código de referido",
+        "heading": "Enlaces y código de referido 4CW5Y",
         "paragraphs": [
-          "Cecília es afiliada de SHEIN y AliExpress y puede recibir una comisión por las compras hechas a través de los enlaces de este artículo, sin costo adicional para ti. Eso no cambia la respuesta: la elección depende de lo que vayas a comprar.",
           "4CW5Y es el código de referido de Cecília en SHEIN y sí da descuento, en una selección de productos y promociones de SHEIN; cuánto y en qué prendas lo decide SHEIN. Abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio, no en el campo del cupón. AliExpress no tiene código nuestro."
         ],
         "links": [
@@ -263913,7 +263935,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y donne une réduction sur une sélection SHEIN. SHEIN ou AliExpress en France : livraison, retours, taxes et points à vérifier.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -263925,10 +263947,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
+        "Choisissez SHEIN si vous voulez plus de temps pour changer d’avis et que la pièce fait partie de celles que SHEIN reprend jusqu’à 30 jours après réception.",
         "Choisissez AliExpress si la pièce que vous voulez y est vendue et que sa page affiche un retour gratuit et une prévision de livraison qui vous convient."
       ],
       "skipIf": [
-        "Écartez AliExpress si l’annonce ne précise pas le délai, les frais ou l’adresse de retour et que vous devez pouvoir retourner une pièce qui ne vous va pas."
+        "Écartez AliExpress si l’annonce ne précise pas le délai, les frais ou l’adresse de retour et que vous devez pouvoir retourner une pièce qui ne vous va pas.",
+        "Écartez SHEIN si la pièce est de la lingerie, des sous-vêtements ou des bijoux fantaisie, qui ne se retournent que dans les 14 jours légaux."
       ]
     },
     "affiliate": [
@@ -264003,6 +264027,7 @@ export const reviewsData: unknown[] = [
           "**La livraison et la prévision de livraison**, qui chez AliExpress changent selon l'annonce et selon le lieu d'expédition de la pièce.",
           "**La date de remboursement garanti** d'AliExpress : si le colis n'est pas arrivé à cette date, vous pouvez demander le remboursement total.",
           "**Si la pièce a un retour gratuit** et pour combien de jours. Sans lui, le retour par simple changement d'avis chez AliExpress est à votre charge.",
+          "**Les moyens de paiement :** chez AliExpress, la liste complète n’apparaît qu’au moment du paiement, une fois connecté ; vérifiez-y que celui que vous utilisez est accepté.",
           "**Le total**, avec la livraison et les taxes, à la fin du paiement de chaque boutique, et votre nom et votre adresse corrects dans la commande."
         ],
         "postParagraphs": [
@@ -264032,7 +264057,8 @@ export const reviewsData: unknown[] = [
         "heading": "Que choisir : ce qu'il faut peser",
         "paragraphs": [
           "SHEIN accepte la plupart des articles éligibles jusqu’à 30 jours après réception. AliExpress publie 15 jours après livraison avec un vendeur local et 90 jours après la commande avec un vendeur de l’étranger. Ces délais ne commencent pas à la même date : vérifiez le temps restant après réception, les frais et l’adresse de retour. Choisissez selon ces conditions, la livraison prévue et le coût final."
-        ]
+        ],
+        "emphasis": "Chez SHEIN, le délai de retour vient de la politique de la boutique ; chez AliExpress, de chaque annonce. Le choix se joue sur la page de la pièce, avant de payer."
       },
       {
         "heading": "Ce que vend chaque boutique : un échantillon",
@@ -264239,9 +264265,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Partenariat et code de parrainage",
+        "heading": "Liens et code de parrainage 4CW5Y",
         "paragraphs": [
-          "Cecília est affiliée à SHEIN et à AliExpress et peut toucher une commission sur les achats faits via les liens de cet article, sans frais supplémentaires pour vous. Cela ne change pas la réponse : le choix dépend de ce que vous achetez.",
           "Le 4CW5Y est le code de parrainage de Cecília chez SHEIN et donne bien une réduction, sur une sélection de produits et de promotions de SHEIN ; combien et sur quels articles, c'est SHEIN qui décide. Ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l’application ou sur le site, pas dans le champ du coupon. AliExpress n'a pas de code à nous."
         ],
         "links": [
@@ -264302,7 +264327,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y gibt Rabatt auf eine SHEIN-Auswahl. SHEIN oder AliExpress: Versand, Rückgabe und Zoll im Vergleich und was Sie bei jedem Angebot prüfen sollten.",
     "publishedAt": "17. November 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -264314,10 +264339,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
+        "Wählen Sie SHEIN, wenn Sie mehr Zeit zum Überlegen möchten und der Artikel zu denen gehört, die SHEIN bis 30 Tage nach Erhalt zurücknimmt.",
         "Wählen Sie AliExpress, wenn Ihr Artikel dort angeboten wird und die Angebotsseite kostenlose Rückgabe und ein Lieferdatum zeigt, mit dem Sie planen können."
       ],
       "skipIf": [
-        "Meiden Sie AliExpress, wenn Rückgabefrist, Rücksendekosten oder Rücksendeadresse im Angebot unklar bleiben und Sie einen Artikel bei falscher Größe zurückgeben möchten."
+        "Meiden Sie AliExpress, wenn Rückgabefrist, Rücksendekosten oder Rücksendeadresse im Angebot unklar bleiben und Sie einen Artikel bei falscher Größe zurückgeben möchten.",
+        "Meiden Sie SHEIN, wenn der Artikel Dessous, Unterwäsche oder Modeschmuck ist, die sich nur innerhalb der 14 gesetzlichen Tage zurückgeben lassen."
       ]
     },
     "affiliate": [
@@ -264392,6 +264419,7 @@ export const reviewsData: unknown[] = [
           "**Versand und Lieferzeit**, die bei AliExpress je nach Angebot und Versandort wechseln.",
           "**Das Datum der garantierten Erstattung** bei AliExpress: Kommt das Paket bis dahin nicht an, können Sie den vollen Betrag zurückverlangen.",
           "**Ob der Artikel kostenlose Rückgabe hat** und für wie viele Tage. Ohne sie tragen Sie bei AliExpress die Rücksendekosten, wenn Sie den Kauf widerrufen.",
+          "**Zahlungsarten:** Bei AliExpress erscheint die vollständige Liste erst an der Kasse, wenn Sie angemeldet sind; prüfen Sie dort, ob Ihre gewohnte Zahlungsart angeboten wird.",
           "**Den Gesamtbetrag** mit Versand und Steuern am Ende der Kasse jedes Shops und die korrekten Angaben zu Name und Adresse in der Bestellung."
         ],
         "postParagraphs": [
@@ -264421,7 +264449,8 @@ export const reviewsData: unknown[] = [
         "heading": "Was zu welchem Einkauf passt",
         "paragraphs": [
           "SHEIN nimmt die meisten berechtigten Artikel bis 30 Tage nach Erhalt zurück. AliExpress nennt 15 Tage nach Lieferung bei Verkäufern vor Ort und 90 Tage ab Bestellung bei Verkäufern aus dem Ausland. Die Fristen beginnen an unterschiedlichen Tagen: Prüfen Sie die verbleibende Zeit nach Erhalt, die Rücksendekosten und die Rücksendeadresse. Entscheiden Sie anhand dieser Bedingungen, der Lieferprognose und der Gesamtkosten."
-        ]
+        ],
+        "emphasis": "Bei SHEIN legt die Richtlinie des Shops die Rückgabefrist fest, bei AliExpress jedes einzelne Angebot. Entschieden wird auf der Artikelseite, vor dem Bezahlen."
       },
       {
         "heading": "Was jeder Shop verkauft: ein Beispiel",
@@ -264628,9 +264657,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Partnerschaft und Empfehlungscode",
+        "heading": "Links und Empfehlungscode 4CW5Y",
         "paragraphs": [
-          "Cecília ist Affiliate-Partnerin von SHEIN und AliExpress und kann für Käufe über die Links in diesem Artikel eine Provision erhalten, ohne Mehrkosten für Sie. Das ändert die Antwort nicht: Die Wahl hängt davon ab, was Sie kaufen.",
           "4CW5Y ist Cecílias Empfehlungscode bei SHEIN und gibt Rabatt, ja: auf eine Auswahl an Produkten und Aktionen von SHEIN; wie viel und auf welche Artikel, entscheidet SHEIN. Öffnen Sie SHEIN über den Link von Cecília und suchen Sie den Code in der App oder auf der Website, nicht im Feld für Gutscheine. AliExpress hat keinen Code von uns."
         ],
         "links": [
@@ -264664,7 +264692,7 @@ export const reviewsData: unknown[] = [
           "Sind SHEIN und AliExpress dasselbe? Nein. SHEIN beschreibt sich als Modehändler mit Eigenmarke, 2012 gegründet; AliExpress ist der internationale Marktplatz der Alibaba-Gruppe, auf dem jeder Verkäufer seinen eigenen Shop hat.",
           "Wer liefert schneller, SHEIN oder AliExpress? Das hängt von der Bestellung und bei AliExpress vom Angebot ab. SHEIN zeigt eine für jede Bestellung berechnete Schätzung, AliExpress die Lieferzeit jedes Artikels. Vergleichen Sie beides vor dem Bezahlen.",
           "Was ist günstiger, SHEIN oder AliExpress? Das hängt vom Artikel und vom Verkäufer ab. Den Gesamtbetrag bestimmen Versand, Steuern und bei SHEIN der Rabatt des Empfehlungscodes. Vergleichen Sie den Gesamtbetrag am Ende der Kasse.",
-          "Ist AliExpress für Kleidung seriös? Die Richtlinie von AliExpress sieht die volle Erstattung vor, wenn das Paket bis zum garantierten Datum nicht ankommt, und nimmt neue, ungetragene Kleidung mit Etikett zurück. Mehr als diese Richtlinie bewerten wir hier nicht.",
+          "Ist AliExpress für Kleidung seriös? Die Richtlinie von AliExpress sieht die volle Erstattung vor, wenn das Paket bis zum garantierten Datum nicht ankommt, und nimmt neue, ungetragene Kleidung mit Etikett zurück.",
           "Gibt 4CW5Y Rabatt? Ja. Es ist Cecílias Empfehlungscode bei SHEIN und gibt Rabatt auf eine Auswahl an Produkten und Aktionen; wie viel und auf welche Artikel, entscheidet SHEIN. Suchen Sie den Code in der App oder auf der Website, nicht im Feld für Gutscheine."
         ]
       }
@@ -264691,7 +264719,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y dà uno sconto su una selezione SHEIN. SHEIN o AliExpress: spedizione, resi e dogana a confronto e cosa controllare in ogni annuncio.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -264703,10 +264731,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
+        "Scegli SHEIN se vuoi più tempo per ripensarci e l’articolo è tra quelli che SHEIN accetta in reso fino a 30 giorni dal ricevimento.",
         "Scegli AliExpress se l’articolo che vuoi è lì e la pagina dell’annuncio mostra il reso gratuito e una data di consegna che ti va bene."
       ],
       "skipIf": [
-        "Evita AliExpress se l’annuncio non chiarisce scadenza, costo o indirizzo del reso e vuoi poter restituire il capo se la taglia non va bene."
+        "Evita AliExpress se l’annuncio non chiarisce scadenza, costo o indirizzo del reso e vuoi poter restituire il capo se la taglia non va bene.",
+        "Evita SHEIN se l’articolo è lingerie, biancheria intima o bigiotteria, che si restituiscono solo entro i 14 giorni di legge."
       ]
     },
     "affiliate": [
@@ -264781,6 +264811,7 @@ export const reviewsData: unknown[] = [
           "**La spedizione e la data di consegna**, che su AliExpress cambiano con l’annuncio e con il luogo da cui parte l’articolo.",
           "**La data di rimborso garantito** di AliExpress: se il pacco non arriva entro quella data, puoi chiedere l’intero importo.",
           "**Se l’articolo ha il reso gratuito** e per quanti giorni. Senza, su AliExpress il reso per ripensamento lo paghi tu.",
+          "**I metodi di pagamento:** su AliExpress l’elenco completo compare solo nel checkout, con l’accesso effettuato; verifica lì che quello che usi sia accettato.",
           "**Il totale**, con spedizione e imposte, alla fine del checkout di ciascun negozio, e i dati di nome e indirizzo corretti nell’ordine."
         ],
         "postParagraphs": [
@@ -264810,7 +264841,8 @@ export const reviewsData: unknown[] = [
         "heading": "Quale scegliere, a seconda dell’acquisto",
         "paragraphs": [
           "SHEIN accetta la maggior parte degli articoli idonei fino a 30 giorni dal ricevimento. AliExpress pubblica 15 giorni dopo la consegna con venditori locali e 90 giorni dall’ordine con venditori esteri. I termini partono da date diverse: controlla quanto tempo resta dopo l’arrivo, chi paga il reso e a quale indirizzo va spedito. Scegli in base a queste condizioni, alla consegna prevista e al costo finale."
-        ]
+        ],
+        "emphasis": "Su SHEIN il termine per il reso lo fissa la politica del negozio; su AliExpress, ogni annuncio. La scelta si decide nella pagina dell’articolo, prima di pagare."
       },
       {
         "heading": "Cosa vende ciascun negozio: un esempio",
@@ -265017,9 +265049,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Partnership e codice invito",
+        "heading": "Link e codice invito 4CW5Y",
         "paragraphs": [
-          "Cecília è affiliata di SHEIN e di AliExpress e può ricevere una commissione sugli acquisti fatti con i link di questo articolo, senza costi per te. Questo non cambia la risposta: la scelta dipende da cosa compri.",
           "Il 4CW5Y è il codice invito di Cecília su SHEIN e dà lo sconto, sì, su una selezione di prodotti e promozioni di SHEIN; quanto e su quali articoli lo decide SHEIN. Apri SHEIN dal link di Cecília e cerca il codice nell’app o sul sito, non nel campo del coupon. AliExpress non ha un codice nostro."
         ],
         "links": [
@@ -265053,7 +265084,7 @@ export const reviewsData: unknown[] = [
           "SHEIN e AliExpress sono la stessa cosa? No. SHEIN si presenta come rivenditore di moda a marchio proprio, fondato nel 2012; AliExpress è il marketplace internazionale del gruppo Alibaba, dove ogni venditore ha il proprio negozio.",
           "Quale consegna più in fretta, SHEIN o AliExpress? Dipende dall’ordine e, su AliExpress, dall’annuncio. SHEIN mostra una stima calcolata per ogni ordine, AliExpress i tempi di ogni articolo. Confronta le due indicazioni prima di pagare.",
           "Quale costa meno, SHEIN o AliExpress? Dipende dall’articolo e dal venditore. Il totale lo cambiano spedizione, imposte e, su SHEIN, lo sconto del codice invito. Confronta il totale alla fine del checkout.",
-          "AliExpress è affidabile per i vestiti? La politica di AliExpress prevede il rimborso totale se il pacco non arriva entro la data garantita e accetta il reso di vestiti nuovi, mai usati e con etichetta. Qui non valutiamo altro che questa politica.",
+          "AliExpress è affidabile per i vestiti? La politica di AliExpress prevede il rimborso totale se il pacco non arriva entro la data garantita e accetta il reso di vestiti nuovi, mai usati e con etichetta.",
           "Il 4CW5Y dà uno sconto? Sì. È il codice invito di Cecília su SHEIN e dà uno sconto su una selezione di prodotti e promozioni; quanto e su quali articoli lo decide SHEIN. Cercalo nell’app o sul sito, non nel campo del coupon."
         ]
       }
@@ -265080,7 +265111,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5YはSHEINが選ぶ商品やキャンペーンで使える紹介コード。SHEINとAliExpressの日本向け送料、返品、関税を比較し、買う前の確認点を紹介します。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -265092,10 +265123,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
+        "返品までの猶予を長く取りたく、ほしい商品が購入から40日以内に返品できる対象なら、SHEIN が候補になります。",
         "ほしい商品が AliExpress にあり、商品ページに返品無料の表示と、都合に合うお届け予定が出ているなら、AliExpress が候補になります。"
       ],
       "skipIf": [
-        "サイズが合わなければ返品したいのに、商品ページで返品期限・返送料・返送先を確認できない場合は、AliExpressでの購入を見送りましょう。"
+        "サイズが合わなければ返品したいのに、商品ページで返品期限・返送料・返送先を確認できない場合は、AliExpressでの購入を見送りましょう。",
+        "同じ注文で2回以上返品することになりそうなら、2回目以降は返金額から手数料が引かれるため、SHEIN は見送りましょう。"
       ]
     },
     "affiliate": [
@@ -265171,6 +265204,7 @@ export const reviewsData: unknown[] = [
           "**送料とお届け予定：** AliExpress では、商品や発送元によって変わります。",
           "**返金が保証される日：** AliExpress で荷物がその日までに届かない場合は、全額の返金を申請できます。",
           "**返品無料かどうかと、その日数：** 表示がない場合、AliExpress で気が変わっての返品は返送料が自己負担です。",
+          "**支払い方法：** AliExpress では、利用できる方法の一覧はログインした状態の支払い画面で初めて表示されます。使う方法が選べるか、そこで確認しましょう。",
           "**合計金額：** 各お店の支払い画面の最後で、送料と税金を含めて確認します。注文の名前と住所も正しく入力しましょう。"
         ],
         "postParagraphs": [
@@ -265199,7 +265233,8 @@ export const reviewsData: unknown[] = [
         "heading": "買うものに合わせた選び方",
         "paragraphs": [
           "SHEINの返品対象商品は購入から40日以内です。AliExpressは国内出品者なら配達後15日以内、海外出品者なら注文から90日以内と案内し、返品無料の条件は商品ごとに異なります。起算日が違うため、届いてから残る日数、返送料、返送先を確認しましょう。お届け予定と最終的な費用も合わせて選んでください。"
-        ]
+        ],
+        "emphasis": "SHEIN の返品期限はお店の規定で決まり、AliExpress では商品ごとに決まります。選ぶ決め手は、支払い前に見る商品ページです。"
       },
       {
         "heading": "各お店で売られているもの：サンプル",
@@ -265406,9 +265441,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "提携と紹介コード",
+        "heading": "リンクと紹介コード 4CW5Y",
         "paragraphs": [
-          "Cecília は SHEIN と AliExpress のアフィリエイトに参加しています。この記事のリンクから購入されると、あなたの負担なしに報酬を受け取ることがあります。それでも答えは変わりません。何を買うかによって選ぶお店は変わります。",
           "4CW5Y は、Cecília の SHEIN の紹介コードで、SHEIN が選んだ商品とキャンペーンで割引が受けられます。割引額と対象商品は SHEIN が決めます。Cecília のリンクから SHEIN を開き、アプリまたはサイトでコードを検索してください（クーポン欄ではありません）。AliExpress には、私たちのコードはありません。"
         ],
         "links": [
@@ -265442,7 +265476,7 @@ export const reviewsData: unknown[] = [
           "SHEIN と AliExpress は同じですか？ いいえ。SHEIN は2012年創業の、自社ブランドを持つファッション小売業者です。AliExpress はアリババグループの国際マーケットプレイスで、出品者ごとにお店があります。",
           "SHEIN と AliExpress はどちらが早く届きますか？ 注文と、AliExpress では商品によって変わります。SHEIN は注文ごとに計算したお届け予定を、AliExpress は商品ごとの予定を表示します。支払う前に両方を確認してください。",
           "SHEIN と AliExpress はどちらが安いですか？ 商品と出品者によります。合計金額は、送料、税金、SHEIN では紹介コードの割引で変わります。支払い画面の最後で合計金額を比べてください。",
-          "AliExpress は衣類を買っても信頼できますか？ AliExpress の規定では、保証された日までに荷物が届かない場合は全額が返金され、新品で未使用のタグ付きの衣類は返品できます。この記事では、この規定の範囲でのみ説明しています。",
+          "AliExpress は衣類を買っても信頼できますか？ AliExpress の規定では、保証された日までに荷物が届かない場合は全額が返金され、新品で未使用のタグ付きの衣類は返品できます。",
           "4CW5Y で割引を受けられますか？ はい。Cecília の SHEIN の紹介コードで、商品とキャンペーンの一部で割引を受けられます。割引額と対象商品は SHEIN が決めます。アプリやサイトで検索してください（クーポン欄ではありません）。"
         ]
       }
@@ -265469,7 +265503,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y는 SHEIN이 정한 상품과 프로모션에서 할인받는 추천 코드입니다. SHEIN과 AliExpress의 한국 배송비, 반품 기한, 세금, 구매 전 확인할 조건을 비교합니다.",
     "publishedAt": "2026년 11월 17일",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -265481,10 +265515,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
+        "반품 가능 기간을 넉넉히 두고 싶고 원하는 상품이 수령 후 60일 이내 반품이 가능한 상품이라면 SHEIN을 고르세요.",
         "원하는 상품이 AliExpress에 있고, 그 상품 페이지에 무료 반품과 나에게 맞는 도착 예정일이 표시되어 있다면 AliExpress를 고르세요."
       ],
       "skipIf": [
-        "사이즈가 맞지 않으면 반품하려는데 상품 페이지에 반품 기한, 반송비 또는 반송 주소가 명확하지 않다면 AliExpress 구매를 보류하세요."
+        "사이즈가 맞지 않으면 반품하려는데 상품 페이지에 반품 기한, 반송비 또는 반송 주소가 명확하지 않다면 AliExpress 구매를 보류하세요.",
+        "상품 페이지에 7일만 반품 가능하다고 표시된 상품이라면 SHEIN 구매를 보류하세요."
       ]
     },
     "affiliate": [
@@ -265559,6 +265595,7 @@ export const reviewsData: unknown[] = [
           "**배송비와 도착 예정일:** AliExpress는 상품과 발송지에 따라 달라집니다.",
           "**AliExpress의 환불 보장 날짜:** 그 날짜까지 상품이 도착하지 않으면 전액 환불을 요청할 수 있습니다.",
           "**무료 반품 표시가 있는지:** 표시가 없으면 AliExpress에서 개인 사유로 반품할 때 반송비를 직접 부담합니다.",
+          "**결제 수단:** AliExpress는 사용할 수 있는 결제 수단 전체가 로그인한 상태의 결제 화면에서만 표시됩니다. 쓰려는 수단이 있는지 그곳에서 확인하세요.",
           "**배송비와 세금을 포함한 총액**은 각 쇼핑몰 결제 화면의 마지막 단계에서 확인하고, 이름과 개인통관고유부호가 정확한지도 보세요."
         ],
         "postParagraphs": [
@@ -265593,7 +265630,8 @@ export const reviewsData: unknown[] = [
         "heading": "구매 목적에 따라 고르기",
         "postParagraphs": [
           "받은 뒤에 마음이 바뀔 수 있는 옷이라면 SHEIN은 수령 후 60일 이내(일부 상품은 7일)이고, AliExpress는 개인 사유 반품이 수령 후 7일 이내입니다. 원하는 상품이 AliExpress에 있다면 결제 전에 상품 페이지에서 판매자, 도착 예정일, 환불 보장 날짜, 무료 반품 표시를 확인하세요. 배송비와 세금은 두 곳의 결제 화면 최종 금액으로 비교하세요."
-        ]
+        ],
+        "emphasis": "SHEIN의 반품 기한은 쇼핑몰 정책에서 나오고, AliExpress는 상품마다 다릅니다. 선택은 결제 전에 상품 페이지에서 갈립니다."
       },
       {
         "heading": "각 쇼핑몰은 무엇을 파는지: 샘플",
@@ -265800,9 +265838,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "제휴와 추천 코드",
+        "heading": "링크와 추천 코드 4CW5Y",
         "paragraphs": [
-          "Cecília는 SHEIN과 AliExpress의 제휴(어필리에이트) 파트너로, 이 글의 링크로 구매하시면 추가 비용 없이 수수료를 받을 수 있습니다. 이 점이 답을 바꾸지는 않습니다. 무엇을 사는지에 따라 선택이 달라집니다.",
           "4CW5Y는 Cecília의 SHEIN 추천 코드로, SHEIN이 고른 상품과 프로모션에서 할인이 됩니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요. 쿠폰 입력란에 입력하는 코드가 아닙니다. AliExpress에는 저희 코드가 없습니다."
         ],
         "links": [
@@ -265863,7 +265900,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y是SHEIN推薦碼，可享平台指定商品與促銷的折扣。比較SHEIN和AliExpress在台灣的運費、配送時間、退貨期限、稅費及購買前要確認的條件。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -265875,10 +265912,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
+        "如果你希望同一筆訂單的第一次退貨免費，而且要退的商品在 SHEIN 的可退範圍內，可以選 SHEIN。",
         "如果你要的商品在 AliExpress 上，而且商品頁面顯示了你能接受的送達時間，可以選 AliExpress。"
       ],
       "skipIf": [
-        "如果尺寸不合就需要退貨，而商品頁面沒有說清退貨期限、運費或退貨地址，請先不要在 AliExpress 下單。"
+        "如果尺寸不合就需要退貨，而商品頁面沒有說清退貨期限、運費或退貨地址，請先不要在 AliExpress 下單。",
+        "如果同一筆訂單你很可能要退不止一次，請先不要在 SHEIN 下單，除非你接受第二次起退款會被扣費。"
       ]
     },
     "affiliate": [
@@ -265953,6 +265992,7 @@ export const reviewsData: unknown[] = [
           "**運費和預計送達日期**，在 AliExpress 會隨商品和發貨地而變。",
           "**AliExpress 的保證退款日期：** 包裹沒在這個日期前送到，可以申請全額退款。",
           "**這件商品是否標示免費退貨**。沒有標示時，因個人原因退貨的運費由你負擔。",
+          "**付款方式：** 在 AliExpress，完整的付款方式清單要登入後在結帳頁面才會顯示，請到那裡確認你慣用的方式是否可用。",
           "**含運費與稅費的總額**，在每家結帳頁面的最後一步確認，並核對收件人姓名和地址。"
         ],
         "postParagraphs": [
@@ -265987,7 +266027,8 @@ export const reviewsData: unknown[] = [
         "heading": "依購物需求怎麼選",
         "postParagraphs": [
           "SHEIN 台灣站的可退商品與 AliExpress 政策列明的期限都是收貨後15天內。SHEIN 同筆訂單首次退貨免費；AliExpress 的退貨運費依原因及商品條件而定。若尺寸不合就要退，請先確認期限、費用與退貨地址，再結合預計送達和最終支出選擇。"
-        ]
+        ],
+        "emphasis": "在 SHEIN，退貨期限來自 SHEIN 的政策；在 AliExpress，則來自每個商品頁面。該怎麼選，付款前看商品頁面就能決定。"
       },
       {
         "heading": "兩家各賣什麼：一份樣本",
@@ -266194,9 +266235,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "合作與推薦碼",
+        "heading": "連結與推薦碼 4CW5Y",
         "paragraphs": [
-          "Cecília 是 SHEIN 和 AliExpress 的聯盟會員。透過本文連結購買時，她可能獲得傭金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
           "4CW5Y 是 Cecília 在 SHEIN 的推薦碼，確實有折扣，適用於 SHEIN 精選商品與促銷；折多少、哪些商品，由 SHEIN 決定。請透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋代碼；不是輸入到優惠券欄位。AliExpress 沒有我們的代碼。"
         ],
         "links": [
@@ -266257,7 +266297,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "4CW5Y是SHEIN推荐码，可享平台指定商品与促销的折扣。比较SHEIN和AliExpress在新加坡、马来西亚的运费、配送时间、退货期限及买前要确认的条件。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -266269,10 +266309,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
+        "如果你希望同一订单的第一次退货免费，而且要退的商品在 SHEIN 的可退范围内，可以选 SHEIN。",
         "如果你要的商品在 AliExpress 上，而且商品页面显示了你能接受的送达时间，可以选 AliExpress。"
       ],
       "skipIf": [
-        "如果尺码不合就需要退货，而商品页面没有说清退货期限、运费或退货地址，请先不要在 AliExpress 下单。"
+        "如果尺码不合就需要退货，而商品页面没有说清退货期限、运费或退货地址，请先不要在 AliExpress 下单。",
+        "如果同一订单你很可能要退不止一次，请先不要在 SHEIN 下单，除非你接受第二次起退款会被扣费。"
       ]
     },
     "affiliate": [
@@ -266348,6 +266390,7 @@ export const reviewsData: unknown[] = [
           "**运费和预计送达日期**，在 AliExpress 会随商品和发货地而变。",
           "**AliExpress 的保证退款日期：** 包裹没在这个日期前送到，可以申请全额退款。",
           "**这件商品是否标注免费退货**。没有标注时，因个人原因退货的运费由你承担。",
+          "**支付方式：** 在 AliExpress，完整的支付方式列表要登录后在结账页面才会显示，请到那里确认你常用的方式是否可用。",
           "**含运费与税费的总额**，在每家结账页面的最后一步确认，并核对收件人姓名和地址。"
         ],
         "postParagraphs": [
@@ -266382,7 +266425,8 @@ export const reviewsData: unknown[] = [
         "heading": "按购物需求怎么选",
         "postParagraphs": [
           "SHEIN 的可退商品在新加坡是收货后15天内，马来西亚为20天；AliExpress 政策列明从购买后至收货后15天内，退货运费按原因和商品条件确认。若尺码不合就要退，请先确认期限、费用和退货地址，再结合预计送达和最终支出选择。"
-        ]
+        ],
+        "emphasis": "在 SHEIN，退货期限来自 SHEIN 的政策；在 AliExpress，则来自每个商品页面。该怎么选，付款前看商品页面就能定。"
       },
       {
         "heading": "两家各卖什么：一份样本",
@@ -266589,9 +266633,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "合作与推荐码",
+        "heading": "链接与推荐码 4CW5Y",
         "paragraphs": [
-          "Cecília 是 SHEIN 和 AliExpress 的联盟会员。通过本文链接购买时，她可能获得佣金，你不需要多付费。这不会改变答案：怎么选，取决于你要买什么。",
           "4CW5Y 是 Cecília 在 SHEIN 的推荐码，确实有折扣，适用于 SHEIN 精选商品与促销；折多少、哪些商品，由 SHEIN 决定。请通过 Cecília 的链接打开 SHEIN，再在应用或网站搜索代码；不是输入到优惠券输入框。AliExpress 没有我们的代码。"
         ],
         "links": [
@@ -313758,7 +313801,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "رمز 4CW5Y يمنح خصمًا على عروض مختارة من SHEIN. SHEIN أم AliExpress في المملكة المتحدة: الشحن والإرجاع والضريبة جنبًا إلى جنب، وما تتحقق منه.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -313770,10 +313813,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
+        "اختر SHEIN إذا كنت تريد وقتًا أطول لتغيير رأيك وكانت القطعة مما تقبل SHEIN إرجاعه خلال 30 يومًا من الاستلام.",
         "اختر AliExpress إذا كانت القطعة التي تريدها تُباع هناك وتُظهر صفحتها إرجاعًا مجانيًا وموعد تسليم متوقعًا يناسبك."
       ],
       "skipIf": [
-        "تجنب AliExpress إذا كانت القائمة تترك مهلة الإرجاع أو تكلفته أو عنوانه غير واضحة وكنت تحتاج إلى إرجاع القطعة إن لم تناسبك."
+        "تجنب AliExpress إذا كانت القائمة تترك مهلة الإرجاع أو تكلفته أو عنوانه غير واضحة وكنت تحتاج إلى إرجاع القطعة إن لم تناسبك.",
+        "تجنب SHEIN إذا كانت القطعة من ملابس اللانجري أو الملابس الداخلية أو مجوهرات الزينة، فهذه لا تُرجع إلا خلال الأيام الـ14 القانونية."
       ]
     },
     "affiliate": [
@@ -313848,6 +313893,7 @@ export const reviewsData: unknown[] = [
           "**الشحن وموعد التسليم المتوقع**، وهما في AliExpress يتغيران بحسب القائمة ومكان شحن القطعة.",
           "**تاريخ استرداد المبلغ المضمون** في AliExpress: إذا لم يصل الطرد بحلوله، يمكنك طلب استرداد المبلغ كاملًا.",
           "**هل للقطعة إرجاع مجاني** ولكم يومًا. وبدونه، يتحمل المشتري تكلفة الإرجاع لتغيير الرأي في AliExpress.",
+          "**طرق الدفع:** في AliExpress لا تظهر القائمة الكاملة إلا عند الدفع بعد تسجيل الدخول؛ تحقق هناك من قبول الطريقة التي تستخدمها.",
           "**الإجمالي**، مع الشحن وأي ضرائب، في نهاية الدفع في كل متجر، وأن يكون اسمك وعنوانك صحيحين في الطلب."
         ],
         "postParagraphs": [
@@ -313875,7 +313921,8 @@ export const reviewsData: unknown[] = [
         "heading": "أيهما تختار: ما الذي تزنه",
         "paragraphs": [
           "تقبل SHEIN إرجاع معظم المنتجات المؤهلة خلال 30 يومًا من الاستلام. وتذكر AliExpress 15 يومًا بعد التسليم للبائعين المحليين و90 يومًا من الطلب للبائعين في الخارج، بينما تختلف شروط الإرجاع المجاني بحسب القائمة. تبدأ هذه المهل من تواريخ مختلفة: تحقق من الوقت المتبقي بعد الوصول، ومن يدفع تكلفة الإرجاع، وإلى أين يُرسل. اختر بناءً على هذه الشروط وموعد التسليم المقدَّر والتكلفة النهائية."
-        ]
+        ],
+        "emphasis": "في SHEIN تأتي مهلة الإرجاع من سياسة المتجر، وفي AliExpress من كل قائمة على حدة. ويُحسم الاختيار في صفحة القطعة قبل الدفع."
       },
       {
         "heading": "ماذا يبيع كل منهما: عيّنة",
@@ -314082,9 +314129,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "الشراكة ورمز الإحالة",
+        "heading": "الروابط ورمز الإحالة 4CW5Y",
         "paragraphs": [
-          "Cecília شريكة تسويق بالعمولة لدى SHEIN وAliExpress، وقد تحصل على عمولة على المشتريات التي تتم عبر الروابط في هذا المقال، دون أي تكلفة إضافية عليك. وهذا لا يغيّر الجواب: فالاختيار يعتمد على ما تشتريه.",
           "4CW5Y هو رمز الإحالة الخاص بـ Cecília في SHEIN، وهو يمنحك خصمًا فعلًا على مجموعة من منتجات SHEIN وعروضها؛ أما المقدار والقطع المشمولة فتقرره SHEIN. افتح SHEIN عبر رابط Cecília وابحث عن الرمز في التطبيق أو على الموقع، لا في خانة الكوبون. وليس لدى AliExpress رمز خاص بنا."
         ],
         "links": [
@@ -314118,7 +314164,7 @@ export const reviewsData: unknown[] = [
           "هل SHEIN وAliExpress الشيء نفسه؟ لا. تصف SHEIN نفسها بأنها متجر أزياء بعلامة خاصة، تأسس عام 2012؛ أما AliExpress فهو السوق الدولي لمجموعة علي بابا، حيث لكل بائع متجره.",
           "أيهما أسرع وصولًا، SHEIN أم AliExpress؟ يعتمد على الطلب، وفي AliExpress على القائمة. تنشر SHEIN من 5 إلى 8 أيام عمل للتسليم العادي في المملكة المتحدة، وتعرض AliExpress توقعًا لكل قطعة. قارن بينهما قبل الدفع.",
           "أيهما أرخص، SHEIN أم AliExpress؟ يعتمد على القطعة والبائع. ما يغيّر الإجمالي هو الشحن وضريبة الاستيراد، وفي SHEIN خصم رمز الإحالة. قارن الإجمالي في نهاية الدفع.",
-          "هل AliExpress آمنةلشراء الملابس؟ تنص سياسة AliExpress على استرداد كامل إذا لم يصل الطرد بحلول التاريخ المضمون، وتقبل إرجاع الملابس الجديدة وغير الملبوسة وعليها بطاقتها.",
+          "هل AliExpress آمنة لشراء الملابس؟ تنص سياسة AliExpress على استرداد كامل إذا لم يصل الطرد بحلول التاريخ المضمون، وتقبل إرجاع الملابس الجديدة وغير الملبوسة وعليها بطاقتها.",
           "هل يمنح 4CW5Y خصمًا؟ نعم. هو رمز الإحالة الخاص بـ Cecília في SHEIN، ويمنح خصمًا على مجموعة من المنتجات والعروض؛ أما المقدار والقطع المشمولة فتقرره SHEIN. ابحث عن الرمز في التطبيق أو على الموقع، لا في خانة الكوبون."
         ]
       }
@@ -314213,7 +314259,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Temu:** 90 يومًا من الشراء بحسب سياسة Temu، و14 يومًا بحكم القانون من الاستلام. تسري الـ90 يومًا على معظم المنتجات؛ وبعضها، ومنه الملابس، له شروطه الخاصة، فراجع سياسة Temu لقطعتك. الإرجاع الأول في كل طلب مجاني؛ ومن الثاني تدفع تكلفة الإرجاع.",
-          "**SHEIN:** معظم المنتجات حتى 30 يومًا بعد الاستلام بحسب سياسة SHEIN، و14 يومًا بحكم القانون من الاستلام. وملابس اللانجري والملابس الداخلية ومجوهرات الزينة لا تُرجع إلا خلال الأيام الـ14. وفي الولايات المتحدة ينشر موقع SHEIN (SHEIN US Services, LLC) إرجاعًا حتى 30 يومًا بعد التسليم."
+          "**SHEIN:** معظم المنتجات حتى 30 يومًا بعد الاستلام بحسب سياسة SHEIN، و14 يومًا بحكم القانون من الاستلام. وملابس اللانجري والملابس الداخلية ومجوهرات الزينة لا تُرجع إلا خلال الأيام الـ14."
         ]
       },
       {
@@ -314446,9 +314492,8 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "الشراكة ورمز الإحالة",
+        "heading": "الروابط ورمز الإحالة 4CW5Y",
         "paragraphs": [
-          "Cecília شريكة تسويق بالعمولة لدى SHEIN وTemu، وقد تحصل على عمولة على المشتريات التي تتم عبر الروابط في هذا المقال، دون أي تكلفة إضافية عليك. وهذا لا يغيّر الجواب: فالاختيار يعتمد على ما تشتريه.",
           "4CW5Y هو رمز الإحالة الخاص بـ Cecília في SHEIN، وهو يمنحك خصمًا فعلًا على مجموعة من منتجات SHEIN وعروضها؛ أما المقدار والقطع المشمولة فتقرره SHEIN. افتح SHEIN عبر رابط Cecília وابحث عن الرمز في التطبيق أو على الموقع: يفتح البحث مجموعة مع عروض وخصومات. ولا يُكتب في خانة الكوبون."
         ],
         "links": [
@@ -314497,10 +314542,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "اختر Temu إذا كانت قطعتك مؤهلة لسياسة الإرجاع لمدة 90 يومًا من الشراء، وكانت المهلة تترك بعد التسليم وقتًا أطول من مهلة SHEIN لتلك القطعة."
+        "اختر Temu إذا كانت قطعتك مؤهلة لسياسة الإرجاع لمدة 90 يومًا من الشراء، وكانت المهلة تترك بعد التسليم وقتًا أطول من مهلة SHEIN لتلك القطعة.",
+        "اختر SHEIN إذا كنت تريد مدة تسليم معلنة قبل الدفع: تنشر من 5 إلى 8 أيام عمل للتسليم العادي، بينما تنشر Temu من 6 إلى 13 يوم عمل."
       ],
       "skipIf": [
-        "تجنب SHEIN إذا كنت تريد مجالًا للإرجاع أوسع من الـ30 يومًا بعد الاستلام التي تتيحها لمعظم المنتجات."
+        "تجنب SHEIN إذا كنت تريد مجالًا للإرجاع أوسع من الـ30 يومًا بعد الاستلام التي تتيحها لمعظم المنتجات.",
+        "تجنب Temu إذا كنت تحتاج القطعة بتاريخ محدد: تنشر من 6 إلى 13 يوم عمل للتسليم العادي، إضافة إلى 1 إلى 3 أيام للمعالجة."
       ]
     }
   },

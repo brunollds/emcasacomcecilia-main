@@ -322,9 +322,8 @@
       ]
     },
     {
-      "heading": "Partnerschaft und Empfehlungscode",
+      "heading": "Links und Empfehlungscode 4CW5Y",
       "paragraphs": [
-        "Cecília ist Affiliate-Partnerin von SHEIN und Temu und kann für Käufe über die Links in diesem Artikel eine Provision erhalten, ohne Mehrkosten für Sie. Das ändert die Antwort nicht: Die Wahl hängt davon ab, was Sie kaufen.",
         "4CW5Y ist Cecílias Empfehlungscode bei SHEIN und gibt Rabatt, ja: auf eine Auswahl an Produkten und Aktionen von SHEIN; wie viel und auf welche Artikel, entscheidet SHEIN. Öffnen Sie SHEIN über den Link von Cecília und suchen Sie den Code in der App oder auf der Website: Die Suche öffnet eine Auswahl mit Aktionen und Rabatten. Er gehört nicht ins Feld für Gutscheine."
       ],
       "links": [
@@ -373,10 +372,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Wählen Sie Temu, wenn für Ihren Artikel die 90 Tage ab Kauf gelten und das Rückgabedatum Ihnen nach der Lieferung mehr Zeit lässt als bei SHEIN; vergleichen Sie die Fristen in der Bestellung."
+      "Wählen Sie Temu, wenn für Ihren Artikel die 90 Tage ab Kauf gelten und das Rückgabedatum Ihnen nach der Lieferung mehr Zeit lässt als bei SHEIN; vergleichen Sie die Fristen in der Bestellung.",
+      "Wählen Sie SHEIN, wenn Sie schon an der Kasse ein Ankunftsdatum sehen möchten: Bei Standard nennt SHEIN 9 bis 14 Tage, Temu gibt die Zeit je Produktseite an."
     ],
     "skipIf": [
-      "Lassen Sie SHEIN aus, wenn Sie mehr Zeit zum Zurückgeben möchten als die 30 Tage nach Erhalt, die bei den meisten Artikeln gelten."
+      "Lassen Sie SHEIN aus, wenn Sie mehr Zeit zum Zurückgeben möchten als die 30 Tage nach Erhalt, die bei den meisten Artikeln gelten.",
+      "Lassen Sie Temu aus, wenn Sie vor dem Bezahlen einen verlässlichen Liefertermin brauchen: Die Zeit steht bei jedem Artikel einzeln auf der Produktseite."
     ]
   }
 }

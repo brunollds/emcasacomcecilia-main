@@ -322,9 +322,8 @@
       ]
     },
     {
-      "heading": "Partenariat et code de parrainage",
+      "heading": "Liens et code de parrainage 4CW5Y",
       "paragraphs": [
-        "Cecília est affiliée à SHEIN et à Temu et peut toucher une commission sur les achats faits via les liens de cet article, sans frais supplémentaires pour vous. Cela ne change pas la réponse : le choix dépend de ce que vous achetez.",
         "Le 4CW5Y est le code de parrainage de Cecília chez SHEIN et donne bien une réduction, sur une sélection de produits et de promotions de SHEIN ; combien et sur quels articles, c'est SHEIN qui décide. Ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l’application ou sur le site : la recherche ouvre une sélection de promotions et de réductions. Il ne va pas dans le champ du coupon."
       ],
       "links": [
@@ -373,10 +372,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Choisissez Temu si votre article bénéficie des 90 jours depuis l’achat et si la date limite vous laisse plus de temps après livraison que celle de SHEIN ; comparez les dates dans la commande."
+      "Choisissez Temu si votre article bénéficie des 90 jours depuis l’achat et si la date limite vous laisse plus de temps après livraison que celle de SHEIN ; comparez les dates dans la commande.",
+      "Choisissez SHEIN si vous voulez un délai annoncé avant de payer : 4 à 8 jours ouvrés en livraison Standard, alors que Temu l'indique sur la page de chaque produit."
     ],
     "skipIf": [
-      "Passez votre tour chez SHEIN si vous voulez retourner avec plus de marge que les 30 jours après réception qu'elle accorde pour la plupart des articles."
+      "Passez votre tour chez SHEIN si vous voulez retourner avec plus de marge que les 30 jours après réception qu'elle accorde pour la plupart des articles.",
+      "Passez votre tour chez Temu si vous avez besoin d'une date de livraison fiable avant de payer : le délai change d'un produit à l'autre et se lit sur chaque page."
     ]
   }
 }
