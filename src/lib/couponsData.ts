@@ -1997,7 +1997,7 @@ const STORE_COUPONS: Coupon[] = [
       'O cupom Probiótica PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, para quem compra pela primeira vez e para quem já é cliente, soma com as promoções e vale em todas as formas de pagamento. Testado num whey em promoção e numa creatina a preço cheio: o desconto varia por item.',
     metaTitle: 'Cupom Probiótica: até 10% OFF com PRO10EMCASACOMCECILIA',
     metaDescription:
-      'Cupom Probiótica: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial para cliente novo ou antigo, soma com as promoções e vale no Pix e no cartão.',
+      'Cupom Probiótica: PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial, para cliente novo ou antigo, e vale em todas as formas de pagamento.',
     eligibleCategories: 'Produtos do site oficial da Probiótica; o desconto chega a 10% e pode ser menor em alguns itens',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2011,13 +2011,56 @@ const STORE_COUPONS: Coupon[] = [
     paymentPerks: [
       'Até 6x sem juros no cartão',
     ],
-    lastVerified: '2026-11-11',
+    relatedContent: [
+      {
+        title: 'Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% de desconto',
+        url: '/reviews/cupom-probiotica-como-usar',
+        type: 'review',
+        publishedAt: '2026-10-14',
+      },
+      {
+        title: 'Black Friday Probiótica 2026: qual whey e creatina comprar no Novembro PRO e quanto o cupom PRO10EMCASACOMCECILIA tira',
+        url: '/reviews/black-friday-probiotica',
+        type: 'review',
+        publishedAt: '2026-10-15',
+      },
+      {
+        title: 'Whey Probiótica: qual escolher entre 100% Pure, Zero Lactose, Hiper e Iso Pro',
+        url: '/reviews/whey-probiotica-qual-escolher',
+        type: 'review',
+        publishedAt: '2026-11-05',
+      },
+      {
+        title: 'Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo',
+        url: '/reviews/creatina-probiotica-qual-compensa',
+        type: 'review',
+        publishedAt: '2026-10-28',
+      },
+      {
+        title: 'Probiótica é boa? O whey, a creatina e o que vale comprar da marca',
+        url: '/reviews/probiotica-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-02',
+      },
+      {
+        title: 'Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram',
+        url: '/reviews/probiotica-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-14',
+      },
+    ],
+    lastVerified: '2026-11-22',
     testedAt: '2026-11-11',
     testNote:
       'Aplicamos o PRO10EMCASACOMCECILIA num Whey Hiper 100% Whey de 900 g em promoção, de R$ 210,39 por R$ 124,90, e o total caiu para R$ 116,16, com R$ 8,74 de desconto (7%). Numa creatina de 100 g a preço cheio, de R$ 33,89, o desconto foi de R$ 0,68 (2%). O percentual varia por produto.',
     aboutBrand:
       'A Probiótica é uma marca brasileira de suplementos alimentares, com linha de whey protein, creatina, colágeno, barras de proteína, pré-treinos e acessórios de treino vendidos no site oficial. O cupom PRO10EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e dá até 10% OFF: o percentual varia conforme o produto, e o carrinho mostra quanto cada item recebeu. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Probiótica?',
+        answer:
+          'O código da nossa parceria é PRO10EMCASACOMCECILIA, que dá até 10% OFF no site oficial da Probiótica, para conta nova e para quem já comprou, em todas as formas de pagamento. Cole no campo "Cupom de Desconto" do carrinho e confira a linha Descontos: o percentual varia por produto.',
+      },
       {
         question: 'Quanto de desconto o cupom PRO10EMCASACOMCECILIA dá?',
         answer:
@@ -2026,7 +2069,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Existe cupom Probiótica de 20%?',
         answer:
-          'Com código, o desconto que testamos é o do PRO10EMCASACOMCECILIA: até 10%, variando por produto. Não testamos os códigos de 20% que aparecem em sites de cupom. Nos produtos em promoção, o cupom soma: no teste, a creatina com preço promocional recebeu os 10% por cima.',
+          'Com código, o desconto que testamos é o do PRO10EMCASACOMCECILIA: até 10%, variando por produto. Não testamos os códigos de 20% que aparecem em sites de cupom. Nos produtos em promoção, o cupom soma, com um percentual que varia: nos testes, o Hiper 100% Whey em promoção recebeu 7% por cima, as creatinas receberam 2% e um carrinho misto teve cerca de 8,3%. A linha Descontos do carrinho mostra o valor de cada pedido.',
       },
       {
         question: 'O cupom PRO10EMCASACOMCECILIA vale para todos os produtos da Probiótica?',
@@ -2263,7 +2306,7 @@ const STORE_COUPONS: Coupon[] = [
     metaTitle: 'Cupom Dr. Peanut: 10% OFF com DREMCASACOMCECILIA',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Dr. Peanut: DREMCASACOMCECILIA dá 10% OFF em todo o site para cliente novo ou antigo, inclusive em promoção, e vale no Pix e no cartão.',
+      'Cupom Dr. Peanut: DREMCASACOMCECILIA dá 10% OFF em todo o site para cliente novo ou antigo, inclusive em promoção, e vale em todas as formas de pagamento.',
     eligibleCategories: 'Todos os produtos do site oficial da Dr. Peanut',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Conforme regras da loja',
@@ -2272,10 +2315,55 @@ const STORE_COUPONS: Coupon[] = [
     combinable: 'Soma com as promoções vigentes do site e vale com todas as formas de pagamento',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional dos produtos do site' },
-      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com os 3% do Pix no checkout, calculados sobre o valor já com o cupom' },
+      { benefit: 'assinatura', stacks: 'sim', condition: 'Soma no primeiro pedido com o desconto progressivo das pastas de 250 g, dando 10% sobre o subtotal' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões; o valor conta depois do cupom' },
     ],
-    lastVerified: '2026-11-12',
+    relatedContent: [
+      {
+        title: 'Como usar o cupom DREMCASACOMCECILIA na Dr. Peanut: 10% em todo o site',
+        url: '/reviews/cupom-dr-peanut-como-usar',
+        type: 'review',
+        publishedAt: '2026-10-14',
+      },
+      {
+        title: 'Black Friday Dr. Peanut 2026: qual pasta, combo ou snack comprar e a conta com o cupom DREMCASACOMCECILIA',
+        url: '/reviews/black-friday-dr-peanut',
+        type: 'review',
+        publishedAt: '2026-10-15',
+      },
+      {
+        title: 'Dr. Peanut: qual o melhor sabor? Os 10 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo e preço',
+        url: '/reviews/dr-peanut-melhor-sabor',
+        type: 'review',
+        publishedAt: '2026-10-16',
+      },
+      {
+        title: 'Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa',
+        url: '/reviews/dr-peanut-qual-tamanho-compensa',
+        type: 'review',
+        publishedAt: '2026-10-25',
+      },
+      {
+        title: 'Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher (proteína, açúcar e preço por unidade)',
+        url: '/reviews/snacks-dr-peanut-qual-escolher',
+        type: 'review',
+        publishedAt: '2026-10-25',
+      },
+      {
+        title: 'Dr. Peanut é boa? A pasta de amendoim, o whey, os snacks e o que vale comprar da marca',
+        url: '/reviews/dr-peanut-e-boa',
+        type: 'review',
+        publishedAt: '2026-11-03',
+      },
+      {
+        title: 'Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram',
+        url: '/reviews/dr-peanut-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-10-14',
+      },
+    ],
+    lastVerified: '2026-11-22',
     testedAt: '2026-11-12',
     testNote:
       'Aplicamos o DREMCASACOMCECILIA num carrinho com seis pastas de amendoim de R$ 25,89, R$ 155,34 no total, e os itens caíram para R$ 139,80, com R$ 15,54 de desconto, os 10%. Com entrega em São Paulo, o carrinho tinha frete grátis antes do cupom e passou a pagar R$ 12,23 de frete depois dele. Em 11/11/2026, numa pasta sabor avelã de 250 g em promoção, de R$ 28,90 por R$ 25,89, o total caiu para R$ 23,30: os 10% entraram sobre o preço promocional.',
@@ -2283,11 +2371,16 @@ const STORE_COUPONS: Coupon[] = [
       'A Dr. Peanut é uma marca paranaense de pastas de amendoim, com sabores doces como Bombom Italiano e linha de alfajores, snacks e whey protein vendidos no site oficial. O cupom DREMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site, com qualquer forma de pagamento, e soma com as promoções vigentes. A recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
       {
+        question: 'Qual é o cupom da Dr. Peanut?',
+        answer:
+          'O código da nossa parceria é DREMCASACOMCECILIA, que dá 10% OFF em todo o site da Dr. Peanut, para conta nova e para quem já comprou, em todas as formas de pagamento. Cole no campo "Código" do carrinho, clique em Adicionar e confira o desconto no resumo.',
+      },
+      {
         question: 'O cupom DREMCASACOMCECILIA vale para todos os produtos da Dr. Peanut?',
         answer: 'Sim. O DREMCASACOMCECILIA dá 10% OFF em todos os produtos do site oficial da Dr. Peanut.',
       },
       {
-        question: 'O cupom DREMCASACOMCECILIA vale no Pix, no cartão e em outras formas de pagamento?',
+        question: 'O cupom DREMCASACOMCECILIA vale em todas as formas de pagamento?',
         answer:
           'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto de 10% não depende do meio escolhido.',
       },
@@ -2344,7 +2437,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom Dr. Peanut vale na Black Friday?',
         answer:
-          'O cupom Dr. Peanut DREMCASACOMCECILIA dá 10% OFF e soma com as promoções do site, inclusive em produto que já está em promoção. Se a loja abrir campanha de Black Friday, o carrinho mostra se ele soma com a oferta.',
+          'Vale. A campanha de novembro da Dr. Peanut se chama Doctor November, com o Leve 8, pague 5, o Comprou, ganhou e a Assinatura Doctor de até 20% OFF. O DREMCASACOMCECILIA dá 10% OFF e soma com as promoções do site; confira o total no carrinho antes de pagar.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',

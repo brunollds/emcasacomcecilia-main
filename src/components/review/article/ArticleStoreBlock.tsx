@@ -1,4 +1,7 @@
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, ExternalLink } from 'lucide-react';
+import { CouponStoreLink } from '@/components/CouponComponents';
+import { SECONDARY_ACTION_COMPACT } from '@/components/coupons/CouponBlocks';
+import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { SectionHeadingReveal } from '@/components/editorial/SectionHeadingReveal';
 import { TrackedReviewsLink } from '@/components/reviews/TrackedReviewsLink';
 import { FOCUS_RING } from '@/components/ui/focusRing';
@@ -20,9 +23,10 @@ export type ArticleStoreBlockProps = {
 const PATH_LINK = `inline-flex min-h-11 items-center gap-1.5 text-[15px] font-extrabold underline underline-offset-[3px] hover:text-marinho-suave ${FOCUS_RING}`;
 
 // "Sua compra na <loja>": o recorte grande (o do topo, medido como review_end), as regras da loja, que as páginas
-// de loja também mostram, e os caminhos para a página da loja e para os artigos dela, só quando a página existe.
+// de loja também mostram, os links por produto (Proton) e os caminhos para a página da loja e os artigos dela.
 export function ArticleStoreBlock({ block, locale, copy, reviewSlug, storeLabel }: ArticleStoreBlockProps) {
-  const { rules, couponPageHref, articlesHref, articleCount } = block;
+  const { rules, productLinks, couponPageHref, articlesHref, articleCount } = block;
+  const storeCopy = COUPON_STORE_COPY[locale];
   const allArticles = articlesHref && articleCount ? copy.allStoreArticles(articleCount, block) : undefined;
 
   return (
@@ -48,6 +52,34 @@ export function ArticleStoreBlock({ block, locale, copy, reviewSlug, storeLabel 
             </div>
           ))}
         </dl>
+      )}
+
+      {productLinks && productLinks.length > 0 && (
+        <div className="mt-6" data-article="produtos-loja">
+          <h3 className="text-xs font-extrabold tracking-[0.12em] text-marinho-suave uppercase">
+            {storeCopy.productLinks.title(block.brand)}
+          </h3>
+          <ul className="mt-3 grid gap-3 sm:grid-cols-2">
+            {productLinks.map((item) => (
+              <li key={item.url} className="flex min-w-0 flex-col rounded-[10px] border-2 border-marinho bg-creme p-4">
+                <p className="text-base font-extrabold leading-[22px]">{item.name}</p>
+                <p className="mt-1 flex-1 text-sm font-medium leading-[21px] text-marinho-suave">{item.description}</p>
+                <CouponStoreLink
+                  href={item.url}
+                  brand={block.slug}
+                  contentSlug={reviewSlug}
+                  linkLabel={storeCopy.productLinks.cta(item.name)}
+                  sponsored={true}
+                  placement="review_end"
+                  className={`mt-3 ${SECONDARY_ACTION_COMPACT}`}
+                >
+                  {storeCopy.productLinks.cta(item.name)}
+                  <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
+                </CouponStoreLink>
+              </li>
+            ))}
+          </ul>
+        </div>
       )}
 
       {(couponPageHref || allArticles) && (

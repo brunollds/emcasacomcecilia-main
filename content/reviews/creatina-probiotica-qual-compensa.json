@@ -3,7 +3,7 @@
   "slug": "creatina-probiotica-qual-compensa",
   "locale": "pt",
   "title": "Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo",
-  "seoTitle": "Creatina Probiótica: qual versão compensa",
+  "seoTitle": "Creatina Probiótica: qual versão compensa por grama",
   "type": "Guia de Compra",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -18,7 +18,7 @@
   "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Creatina de 300 g, 100 g, Creapure e monodose: qual compensa pelo preço por 100 g e por dose.",
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa-v2.webp",
@@ -33,16 +33,10 @@
       ]
     },
     {
-      "heading": "Como a conta foi feita",
-      "paragraphs": [
-        "A Probiótica vende a creatina em quatro versões de 5 g por porção: pote de 300 g, pote de 100 g, Creapure de 150 g e monodose de 30 sachês, além da Pure Creatina da linha Monster, com porção de 3 g. O preço do pote sozinho engana, porque cada um tem um peso e um número de porções diferente. Por isso a conta é por 100 g de produto e por dose, com o número de porções que a tabela nutricional de cada versão declara.",
-        "A conta lê a ficha, a foto do rótulo e o preço do dia, sem cupom e no cartão. A dose, o número de porções e o selo Creapure saem da imagem do rótulo publicada na página de cada produto, não do texto de venda: na página do pote de 300 g, por exemplo, há um selo de \"3.000 mg de creatina por dose\" e um texto de \"5.000 mg por porção\", e quem resolve é a tabela."
-      ]
-    },
-    {
       "heading": "Preço por 100 g e por dose de 5 g",
       "paragraphs": [
-        "Preços de 28/10/2026 no site da Probiótica, no cartão e sem cupom. As doses vêm da tabela nutricional de cada versão."
+        "A Probiótica vende a creatina em quatro versões de 5 g por porção: [pote de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), [pote de 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), [Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e [monodose de 30 sachês](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), além da [Pure Creatina da linha Monster](https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), com porção de 3 g. O preço do pote sozinho engana, porque cada versão tem peso e número de porções diferentes: por isso a conta é por 100 g de produto e por dose, com as porções da tabela nutricional de cada versão. Na página do pote de 300 g, por exemplo, há um selo de \"3.000 mg de creatina por dose\" e um texto de \"5.000 mg por porção\", e quem resolve é a tabela.",
+        "Preços de 28/10/2026 no site da Probiótica, no cartão e sem cupom."
       ],
       "comparisonTable": {
         "headers": [
@@ -96,7 +90,7 @@
     {
       "heading": "Pote de 300 g: a que mais compensa",
       "paragraphs": [
-        "O pote de 300 g é o que mais compensa: R$ 59,90. A tabela do rótulo declara 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção, sem quantidade significativa de calorias, carboidratos, proteínas, gorduras e sódio. Dá R$ 19,97 por 100 g e R$ 1,00 por dose.",
+        "O [pote de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) é o que mais compensa: R$ 59,90. A tabela do rótulo declara 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção, sem quantidade significativa de calorias, carboidratos, proteínas, gorduras e sódio. Dá R$ 19,97 por 100 g e R$ 1,00 por dose.",
         "A página do produto traz um selo de \"3.000 mg de creatina por dose\" ao lado do texto de \"5.000 mg por porção\". A tabela do rótulo diz 5.000 mg por porção de 5 g, e é o número que a conta usa."
       ],
       "images": [
@@ -105,7 +99,8 @@
           "alt": "Pote azul de 300 g da Creatina Monohidratada da Probiótica, de frente",
           "caption": "Creatina Monohidratada Pura 300 g. Imagem: Probiótica.",
           "objectFit": "contain",
-          "aspectRatio": 0.899
+          "aspectRatio": 0.899,
+          "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
         },
         {
           "src": "/images/reviews/probiotica/probiotica-ou-growth-tabela-creatina-300g.webp",
@@ -114,12 +109,19 @@
           "objectFit": "contain",
           "aspectRatio": 1.0038
         }
+      ],
+      "links": [
+        {
+          "label": "Ver a Creatina 300 g na Probiótica",
+          "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Pote de 100 g: para experimentar",
       "paragraphs": [
-        "O pote de 100 g serve para experimentar: R$ 33,89 pela mesma tabela do grande, em 20 porções de 5 g. A página traz o mesmo selo de 3.000 mg e o mesmo texto de 5.000 mg do pote de 300 g, e a tabela resolve da mesma forma.",
+        "O [pote de 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) serve para experimentar: R$ 33,89 pela mesma tabela do grande, em 20 porções de 5 g. A página traz o mesmo selo de 3.000 mg e o mesmo texto de 5.000 mg do pote de 300 g, e a tabela resolve da mesma forma.",
         "Por 100 g, o pote pequeno custa R$ 33,89, 70% a mais que o de 300 g. Por dose, R$ 1,69 contra R$ 1,00. Vinte porções duram 20 dias com uma porção ao dia, que é a sugestão de uso da ficha. Compensa só para quem quer conhecer o produto antes de levar o pote grande; três potes de 100 g custam R$ 101,67, contra R$ 59,90 do pote de 300 g."
       ],
       "images": [
@@ -135,7 +137,7 @@
     {
       "heading": "Creapure de 150 g: o selo no rótulo e o preço por grama",
       "paragraphs": [
-        "A Creatina Creapure Monohidratada de 150 g custa R$ 99,89, sem promoção na página. A tabela diz 30 porções de 5 g, com 5.000 mg de creatina por porção, a mesma composição por dose dos potes de 300 g e de 100 g. O rótulo traz o selo Creapure na frente, com o código 18SP11, e o verso diz que a creatina vem \"da exclusiva tecnologia alemã Creapure\", com o modo de preparo de 5 g (1 dosador) em água ou na bebida preferida, uma porção ao dia.",
+        "A [Creatina Creapure Monohidratada de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) custa R$ 99,89, sem promoção na página. A tabela diz 30 porções de 5 g, com 5.000 mg de creatina por porção, a mesma composição por dose dos potes de 300 g e de 100 g. O rótulo traz o selo Creapure na frente, com o código 18SP11, e o verso diz que a creatina vem \"da exclusiva tecnologia alemã Creapure\", com o modo de preparo de 5 g (1 dosador) em água ou na bebida preferida, uma porção ao dia.",
         "Creapure é a marca da matéria-prima, que o rótulo chama de \"tecnologia alemã\"; o produto é fabricado pela Supley em Matão (SP), como diz o verso do pote. É isso que o selo declara: na tabela, a composição por porção é a mesma do pote comum.",
         "Na conta, o selo custa caro: R$ 66,59 por 100 g e R$ 3,33 por dose, mais que o triplo do pote de 300 g. Trinta porções de 5 g custam R$ 99,89 na Creapure; no pote de 300 g, as mesmas 30 porções saem por R$ 29,95. Quem quer o selo Creapure no rótulo paga essa diferença; quem quer creatina monohidratada com 5.000 mg por porção tem o mesmo número no pote comum."
       ],
@@ -145,7 +147,8 @@
           "alt": "Pote branco e azul da Creatina Creapure de 150 g da Probiótica, com o selo Creapure na frente",
           "caption": "Creatina Creapure Monohidratada 150 g, com o selo Creapure no rótulo. Imagem: Probiótica.",
           "objectFit": "contain",
-          "aspectRatio": 0.885
+          "aspectRatio": 0.885,
+          "href": "https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
         },
         {
           "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-creapure-150g.webp",
@@ -154,18 +157,44 @@
           "objectFit": "contain",
           "aspectRatio": 2.5714
         }
+      ],
+      "links": [
+        {
+          "label": "Ver a Creatina Creapure 150 g na Probiótica",
+          "href": "https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Monodose: 30 sachês de 5 g",
       "paragraphs": [
-        "A Creatina Monohidratada Monodose custa R$ 69,89 e traz 30 sachês de 5 g, com 5.000 mg de creatina por sachê, segundo a tabela impressa na caixa. São 150 g de produto a R$ 46,59 por 100 g e R$ 2,33 por dose: mais que o dobro do pote de 300 g pela mesma creatina, pagando pela embalagem individual. Se o sachê compensa para você, e quando, está no [guia da monodose da Probiótica](/reviews/monodose-probiotica-sache-ou-pote)."
+        "A [Creatina Monohidratada Monodose](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) custa R$ 69,89 e traz 30 sachês de 5 g, com 5.000 mg de creatina por sachê, segundo a tabela impressa na caixa. São 150 g de produto a R$ 46,59 por 100 g e R$ 2,33 por dose: mais que o dobro do pote de 300 g pela mesma creatina, pagando pela embalagem individual.",
+        "As mesmas 30 doses do pote de 300 g custam R$ 29,95, contra R$ 69,89 da caixa de sachês: são R$ 39,94 a mais por caixa, ou R$ 1,33 por dose. Dois potes de 100 g, com 40 porções ao todo, custam R$ 67,78, menos que a caixa de 30 sachês.",
+        "O sachê serve a quem leva a dose já separada na bolsa ou viaja; para o uso diário em casa, o pote de 300 g entrega a mesma creatina por menos da metade do preço. A conta completa está no [guia da monodose da Probiótica](/reviews/monodose-probiotica-sache-ou-pote)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+          "alt": "Caixa da Creatina Monodose da Probiótica aberta, com os 30 sachês de 5 g e um sachê à frente",
+          "caption": "Creatina Monodose, 30 sachês de 5 g. Imagem: Probiótica.",
+          "objectFit": "contain",
+          "aspectRatio": 1.0135,
+          "href": "https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a Creatina Monodose na Probiótica",
+          "href": "https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Pure Creatina Monster: porção de 3 g",
       "paragraphs": [
-        "A Pure Creatina de 150 g, da linha Monster da Probiótica, custa R$ 99,89 (de R$ 133,20 de tabela), o mesmo preço da Creapure de 150 g, e traz o selo Creapure 18SP11 no rótulo. A tabela, porém, diz 50 porções de 3 g, com 3.000 mg de creatina cada: a mesma creatina da Creapure comum, dividida em porções menores. Por 100 g, custa os mesmos R$ 66,59; por porção, R$ 2,00, mas a porção tem 3 g, não 5 g. É a mesma matéria-prima da Creapure de 150 g em outra embalagem, e a escolha entre as duas é de porção e de visual."
+        "A [Pure Creatina de 150 g](https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), da linha Monster da Probiótica, custa R$ 99,89 (de R$ 133,20 de tabela), o mesmo preço da Creapure de 150 g, e traz o selo Creapure 18SP11 no rótulo. A tabela, porém, diz 50 porções de 3 g, com 3.000 mg de creatina cada: a mesma creatina da Creapure comum, dividida em porções menores. Por 100 g, custa os mesmos R$ 66,59; por porção, R$ 2,00, mas a porção tem 3 g, não 5 g. É a mesma matéria-prima da Creapure de 150 g em outra embalagem, e a escolha entre as duas é de porção e de visual."
       ],
       "images": [
         {
@@ -173,7 +202,8 @@
           "alt": "Pote preto e branco da Pure Creatina de 150 g da linha Monster da Probiótica, com o selo Creapure",
           "caption": "Pure Creatina 150 g, linha Monster, com o selo Creapure. Imagem: Probiótica.",
           "objectFit": "contain",
-          "aspectRatio": 0.8333
+          "aspectRatio": 0.8333,
+          "href": "https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
         },
         {
           "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp",
@@ -182,10 +212,17 @@
           "objectFit": "contain",
           "aspectRatio": 1.9108
         }
+      ],
+      "links": [
+        {
+          "label": "Ver a Pure Creatina Monster 150 g na Probiótica",
+          "href": "https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "sponsored": true
+        }
       ]
     },
     {
-      "heading": "Creatina Probiótica é pura? O que o rótulo responde",
+      "heading": "Pura no nome, monohidratada no rótulo",
       "paragraphs": [
         "\"Pura\" está no nome do produto, e \"Pure\" no da linha Monster. O que o rótulo declara é outra coisa: creatina monohidratada, com 5.000 mg por porção de 5 g nos potes de 300 g, de 100 g, na Creapure e nos sachês. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa em nenhuma das versões.",
         "A Creapure acrescenta o selo de origem da matéria-prima, e só isso: a composição por porção na tabela é a mesma do pote comum. A pureza de cada lote não se mede pela ficha; quem precisa desse dado pede o laudo do lote à loja, pelo SAC do rótulo."
@@ -194,7 +231,7 @@
     {
       "heading": "Cupom PRO10EMCASACOMCECILIA",
       "paragraphs": [
-        "O PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica, com o percentual variando por produto: nem todo item recebe 10%. Soma com as promoções da loja, inclusive o preço promocional do pote de 300 g, e vale em todas as formas de pagamento. O código entra no campo de cupom do carrinho; o passo a passo está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras do mês na [página do cupom Probiótica](/cupons/probiotica)."
+        "O PRO10EMCASACOMCECILIA dá até 10% OFF no site da Probiótica, com o percentual variando por produto: nem todo item recebe 10%. Cole o código no campo \"Cupom de Desconto\" do carrinho, clique em \"Adicionar\" e confira a linha \"Descontos\" no resumo. Vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções da loja, inclusive o preço promocional do pote de 300 g, e com o desconto do Pix. Nos testes de novembro, o desconto nas creatinas foi de 2%, então as contas com 10% são o teto. O passo a passo está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras do mês na [página do cupom Probiótica](/cupons/probiotica)."
       ]
     },
     {
@@ -202,18 +239,19 @@
       "bullets": [
         "**Menor preço por grama:** [Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). R$ 19,97 por 100 g e R$ 1,00 por dose de 5 g, com 60 porções e 5.000 mg por porção na tabela. É a escolha para quem toma uma porção ao dia: dura dois meses.",
         "**Para experimentar:** [Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). Mesma tabela, 20 porções, R$ 33,89. Custa 70% a mais por grama; vale só para conhecer o produto antes do pote grande.",
-        "**Quer o selo Creapure:** [Creatina Creapure Monohidratada 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). R$ 66,59 por 100 g e R$ 3,33 por dose, com o selo 18SP11 no rótulo e os mesmos 5.000 mg por porção. A Pure Creatina Monster tem o mesmo selo e o mesmo preço, em porções de 3 g.",
+        "**Quer o selo Creapure:** [Creatina Creapure Monohidratada 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). R$ 66,59 por 100 g e R$ 3,33 por dose, com o selo 18SP11 no rótulo e os mesmos 5.000 mg por porção. A [Pure Creatina Monster](https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) tem o mesmo selo e o mesmo preço, em porções de 3 g.",
         "**Prefere dose pronta:** a [monodose de 30 sachês](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 2,33 por dose. Custa mais que o dobro do pote de 300 g pela mesma creatina."
       ],
       "postParagraphs": [
         "Quem tem objetivo de saúde, usa medicamento ou tem restrição alimentar fala com um nutricionista ou médico antes de escolher. Para comparar a creatina da Probiótica com a de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher) e o [guia da creatina Black Skull](/reviews/creatina-black-skull-qual-escolher), que usa a mesma conta por grama."
       ],
-      "emphasis": "O pote de 300 g tem o menor custo por grama: cerca de R$ 1 por porção de 5 g, contra R$ 1,69 no de 100 g."
+      "emphasis": "Pelos números da tabela, para quem toma uma porção por dia a escolha é o pote de 300 g, porque tem o menor custo por grama, cerca de R$ 1 por porção de 5 g."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Creatina Probiótica é boa? Pelo rótulo, os potes de 300 g e de 100 g, a Creapure e os sachês, todos com porção de 5 g, trazem creatina monohidratada com 5.000 mg por porção; a Pure Creatina Monster tem porção de 3 g, com 3.000 mg. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço. Quem fabrica e como a loja responde está em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
+        "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; nas creatinas, o desconto medido nos testes de novembro foi de 2%. As regras estão na página do [cupom Probiótica](/cupons/probiotica).",
+        "Creatina Probiótica é boa? Pelo rótulo, os potes de 300 g e de 100 g, a Creapure e os sachês, todos com porção de 5 g, trazem creatina monohidratada com 5.000 mg por porção; a Pure Creatina Monster tem porção de 3 g, com 3.000 mg. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço.",
         "Creatina Probiótica é pura? \"Pura\" é o nome do produto. O rótulo declara creatina monohidratada, com 5.000 mg por porção de 5 g na tabela (3.000 mg em 3 g na Pure Creatina Monster). A Creapure traz o selo de origem da matéria-prima, com a mesma composição por porção na tabela.",
         "Creatina Probiótica é Creapure? Só as versões com o selo no rótulo: a Creatina Creapure Monohidratada de 150 g e a Pure Creatina de 150 g da linha Monster, as duas a R$ 99,89. Os potes de 300 g e de 100 g e a monodose não trazem o selo.",
         "Qual tamanho custa menos por grama? O pote de 300 g, a R$ 19,97 por 100 g, contra R$ 33,89 do de 100 g, R$ 46,59 da monodose e R$ 66,59 da Creapure. Confira os preços atuais antes de comprar.",
@@ -240,7 +278,18 @@
       "slug": "cupom-probiotica-como-usar"
     },
     {
-      "slug": "probiotica-e-confiavel"
+      "slug": "monodose-probiotica-sache-ou-pote"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Leve o pote de 300 g se você toma uma porção por dia e quer o menor preço por grama.",
+      "Leve o pote de 100 g se quer conhecer o produto antes de comprar o pote grande.",
+      "Leve a Creapure de 150 g se o selo de origem no rótulo pesa na sua escolha."
+    ],
+    "skipIf": [
+      "Passe na monodose se a dose já separada não vale pagar mais que o dobro por grama.",
+      "Passe na Creapure e na Pure Creatina Monster se o preço por grama decide: custam mais que o triplo do pote de 300 g."
+    ]
+  }
 }

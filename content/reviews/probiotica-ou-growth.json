@@ -17,7 +17,7 @@
   "metaDescription": "Probiótica ou Growth, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina por 100 g de proteína e de creatina e o frete.",
   "publishedAt": "18 de outubro de 2026",
   "publishedAtISO": "2026-10-18",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/probiotica/probiotica-ou-growth-capa-v2.webp",
@@ -28,37 +28,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "No cartão, a Growth tem o menor custo por 100 g de proteína no whey, e a Probiótica de 300 g fica na frente na creatina. No Pix, o refil de 500 g da Growth sai mais barato por grama de creatina. O cupom PRO10EMCASACOMCECILIA não inverte o whey, e a Probiótica entra pela linha Zero Lactose."
-      ]
-    },
-    {
-      "heading": "Como comparamos",
-      "paragraphs": [
-        "Este texto compara whey e creatina da Probiótica, parceira do site, com o cupom PRO10EMCASACOMCECILIA, e da Growth, que não é parceira.",
-        "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes e os alergênicos vêm das páginas. O preço é o de tabela do site oficial, o valor antes do Pix e das promoções do dia, sem frete. É a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
-        "As contas são nossas, arredondadas no centavo:"
-      ],
-      "image": {
-        "src": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
-        "alt": "Quadro de preços no Pix por 100 g de proteína no whey: Growth Concentrado R$ 26,34, Probiótica Zero Lactose R$ 35,56 e 100% Pure Whey R$ 40,82; por 100 g de creatina: Growth refil R$ 14,98, Growth 250 g R$ 17,96 e Probiótica 300 g R$ 18,97",
-        "caption": "Comparação por 100 g de proteína no whey e por 100 g de creatina, com preços no Pix das lojas oficiais, sem frete.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
-      "bullets": [
-        "**preço por dose:** preço ÷ porções;",
-        "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
-        "**preço por 100 g de creatina:** preço ÷ (doses × 5 g) × 100."
-      ],
-      "postParagraphs": [
-        "A dose é de 30 g nos dois whey, mas a proteína por dose não é a mesma: 20 g na Probiótica e 23 g na Growth. Por isso a régua é o preço por 100 g de proteína, e não o preço do pote. Sabor, dissolução e digestão ficaram de fora: esta conta usa só rótulo e preço. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
-        "Este texto faz parte da série 1 a 1 contra a Growth, junto com [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
+        "No preço de venda do site, a Growth tem o menor custo por 100 g de proteína no whey, e a Probiótica de 300 g fica na frente na creatina. O cupom PRO10EMCASACOMCECILIA, com até 10% OFF, não inverte o whey. O Pix muda a conta da creatina; veja o capítulo de cupom, Pix e frete."
       ]
     },
     {
       "heading": "Whey: preço por 100 g de proteína",
       "paragraphs": [
-        "A tabela compara preços no cartão, antes do cupom, pela quantidade de proteína declarada em cada porção."
+        "A dose é de 30 g nos dois whey, mas a proteína por dose não é a mesma: 20 g na Probiótica e 23 g na Growth. Por isso a régua é o preço por 100 g de proteína, e não o preço do pote. A tabela compara preços no cartão, antes do cupom, pela quantidade de proteína declarada em cada porção."
       ],
       "comparisonTable": {
         "headers": [
@@ -70,25 +46,25 @@
         ],
         "rows": [
           [
-            "Probiótica 100% Pure Whey pote 900 g, Baunilha",
+            "[Probiótica 100% Pure Whey pote 900 g, Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "20 g em 30 g",
             "30",
             "R$ 252,49",
             "R$ 42,08"
           ],
           [
-            "Probiótica 100% Pure Whey refil 900 g, Baunilha",
+            "[Probiótica 100% Pure Whey refil 900 g, Baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "20 g em 30 g (tabela)",
             "30",
             "R$ 235,65",
             "R$ 39,28"
           ],
           [
-            "Probiótica Zero Lactose 900 g, Baunilha",
-            "22 g em 30 g",
+            "[Probiótica Zero Lactose 900 g, Baunilha](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+            "21 g em 30 g (tabela)",
             "30",
             "R$ 241,97",
-            "R$ 36,66"
+            "R$ 38,41"
           ],
           [
             "Growth (TOP) Whey Protein Concentrado 1 kg, sabores",
@@ -98,11 +74,12 @@
             "R$ 29,26"
           ]
         ],
-        "caption": "Preços dos sites oficiais em 18/10/2026, no cartão, sem frete e sem cupom. Probiótica: tabela do sabor Baunilha; Growth: 23 g por porção conforme a página, cerca de 33 porções."
+        "caption": "Preços dos sites oficiais em 18/10/2026, no cartão, sem frete e sem cupom. Conta nossa: preço ÷ (porções × proteína por porção) × 100. Probiótica: tabela do sabor Baunilha; Growth: 23 g por porção conforme a página, cerca de 33 porções."
       },
       "postParagraphs": [
-        "No Pix, a conta por 100 g de proteína fica em R$ 40,82 no pote, R$ 38,10 no refil e R$ 35,56 no Zero Lactose da Probiótica, e em R$ 26,34 na Growth. Com o cupom no teto, sobre o Pix, os três potes da Probiótica ficam entre R$ 32,01 e R$ 36,74.",
-        "A Growth fica abaixo em todas as linhas de whey desta conta. Por dose, no Pix, o refil da Probiótica (R$ 7,62) e o pote (R$ 8,16) ficam acima da Growth (R$ 6,06). Pelo preço por proteína, a diferença é maior, porque a Probiótica entrega menos proteína por dose."
+        "Com o cupom no teto de até 10% OFF, sobre o preço do cartão, o pote, o refil e o Zero Lactose da Probiótica ficam em R$ 37,87, R$ 35,35 e R$ 34,57 por 100 g de proteína. O desconto real varia por produto, então essa conta é o teto.",
+        "O Pix muda por item e por dia. Na leitura de outubro, com 3% de Pix no whey da Probiótica, a conta por 100 g de proteína ficava em R$ 40,82 no pote, R$ 38,10 no refil e R$ 37,26 no Zero Lactose, contra R$ 26,34 na Growth; com o cupom no teto sobre esse Pix, os três potes da Probiótica ficavam entre R$ 33,53 e R$ 36,74.",
+        "A Growth fica abaixo em todas as linhas de whey desta conta. Por dose, no Pix daquela leitura, o refil da Probiótica (R$ 7,62) e o pote (R$ 8,16) ficam acima da Growth (R$ 6,06). Pelo preço por proteína, a diferença é maior, porque a Probiótica entrega menos proteína por dose."
       ],
       "images": [
         {
@@ -110,15 +87,23 @@
           "alt": "Três embalagens de whey da Probiótica, de 900 g: o pote, o refil e o Zero Lactose, de frente",
           "caption": "Embalagens de whey da Probiótica: pote, refil e Zero Lactose, todos de 900 g. Imagem: Probiótica",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o Zero Lactose 900 g na Probiótica",
+          "href": "https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "sponsored": true
         }
       ]
     },
     {
       "heading": "Whey: a proteína de cada pote",
       "paragraphs": [
-        "No 100% Pure Whey Baunilha da Probiótica, a conta usa a tabela: 20 g de proteína em 30 g, com 124 kcal e 6,3 g de carboidratos. A página anuncia faixas diferentes conforme o sabor; para outra versão, compare a tabela correspondente.",
-        "O refil também traz tabela com 20 g em 30 g, mas a página e a frente da embalagem dizem 21 g. No Zero Lactose Baunilha, a tabela declara 22 g em 30 g, com 124 kcal e 4 g de carboidratos.",
+        "No [100% Pure Whey Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica, a conta usa a tabela: 20 g de proteína em 30 g, com 124 kcal e 6,3 g de carboidratos. A página anuncia faixas diferentes conforme o sabor; para outra versão, compare a tabela correspondente.",
+        "O [refil](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) também traz tabela com 20 g em 30 g, mas a página e a frente da embalagem dizem 21 g. No [Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) Baunilha, a tabela declara 21 g em 30 g, com 124 kcal e 4 g de carboidratos, e a frente do pote diz 22 g: a conta usa a tabela, e vale conferir a embalagem que chegar.",
         "A página da Growth declara 23 g em 30 g para os sabores e 24 g no Natural; a conta usa os 23 g e cerca de 33 porções."
       ],
       "images": [
@@ -134,17 +119,17 @@
     {
       "heading": "Ingredientes e alérgenos",
       "bullets": [
-        "**Probiótica 100% Pure Whey (pote):** proteína concentrada do soro do leite, lecitina de soja, aromatizantes, goma xantana e sucralose. A página declara que contém leite, soja e lactose, e que pode conter ovo. No Baunilha, a página diz \"não contém glúten\"; o Cookies & Cream da mesma página tem farinha de trigo, então a frase vale por sabor.",
-        "**Probiótica Zero Lactose 900 g:** a página declara \"contém derivados de leite\" e \"pode conter soja e ovo\". Apesar do nome, o alergênico de leite está no rótulo.",
+        "**Pote de 900 g:** o [100% Pure Whey](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica tem proteína concentrada do soro do leite, lecitina de soja, aromatizantes, goma xantana e sucralose. A página declara que contém leite, soja e lactose, e que pode conter ovo. No Baunilha, a página diz \"não contém glúten\"; o Cookies & Cream da mesma página tem farinha de trigo, então a frase vale por sabor.",
+        "**Zero Lactose:** a página do [100% Pure Whey Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) declara \"contém derivados de leite\" e \"pode conter soja e ovo\". Apesar do nome, o alergênico de leite está no rótulo.",
         "**Growth Whey Concentrado, sabor Natural:** proteína de soro do leite concentrada e lecitina. A página declara que contém derivados de soja e de leite, contém lactose e não contém glúten.",
-        "**Creatina Monohidratada Pura 300 g (Probiótica):** creatina monohidratada e dióxido de silício como antiumectante. A página diz \"não contém glúten\" e declara que pode conter derivados de leite, de ovo e de soja.",
+        "**Creatina de 300 g:** a [Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica lista creatina monohidratada e dióxido de silício como antiumectante. A página diz \"não contém glúten\" e declara que pode conter derivados de leite, de ovo e de soja.",
         "**Creatina Monohidratada 250 g (Growth):** creatina monohidratada, a página diz sem glúten. Se você tem restrição a leite, soja, ovo ou glúten, confira o alergênico do sabor exato antes de comprar."
       ]
     },
     {
       "heading": "Creatina: preço por 100 g",
       "paragraphs": [
-        "Na creatina, a Probiótica de 300 g tem a menor conta no preço de tabela, e a Growth fica acima em todos os tamanhos. A creatina da Probiótica de 300 g tem 60 porções de 5 g pela tabela, e a Growth tem 250 g, com 50 porções, e dois tamanhos de 500 g, com 100 porções cada, todos com 5 g por dose. A creatina de 100 g da Probiótica ficou fora da conta: é a mais cara por grama, com R$ 32,87 por 100 g no Pix. Os preços da creatina da Growth são de novembro, e os demais, de outubro."
+        "Na creatina, a Probiótica de 300 g tem a menor conta no preço de tabela, e a Growth fica acima em todos os tamanhos. A creatina da Probiótica de 300 g tem 60 porções de 5 g pela tabela, e a Growth tem 250 g, com 50 porções, e dois tamanhos de 500 g, com 100 porções cada, todos com 5 g por dose. A [creatina de 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica ficou fora da conta: é a mais cara por grama, com R$ 32,87 por 100 g no Pix. Os preços da creatina da Growth são de novembro, e os demais, de outubro."
       ],
       "comparisonTable": {
         "headers": [
@@ -155,7 +140,7 @@
         ],
         "rows": [
           [
-            "Probiótica Creatina Monohidratada Pura 300 g",
+            "[Probiótica Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "60",
             "R$ 59,90",
             "R$ 19,97"
@@ -178,14 +163,15 @@
             "R$ 104,60",
             "R$ 20,92"
           ]
-        ]
+        ],
+        "caption": "Conta nossa: preço ÷ (doses × 5 g) × 100. Preços de tabela, no cartão e sem cupom."
       },
       "postParagraphs": [
         "Preços de tabela, sem cupom. No Pix de outubro, a Probiótica de 300 g saía a R$ 18,97 por 100 g (R$ 17,07 com o cupom no teto), e a Growth, a R$ 17,96 no pote de 250 g, R$ 16,98 no de 500 g e R$ 14,98 no refil. O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no dia.",
         "Por dose, no Pix de outubro: R$ 0,95 na Probiótica de 300 g, R$ 0,90 na Growth de 250 g e R$ 0,75 no refil de 500 g. No preço de tabela, a Probiótica de 300 g já fica abaixo da Growth de 250 g sem precisar do cupom.",
-        "A Creapure de 150 g da Probiótica, com R$ 96,89 no Pix, sai por R$ 64,59 por 100 g, com 5.000 mg de creatina em cada dose de 5 g e 30 porções. A Probiótica declara Creapure no nome do produto; a página da Growth não declara o selo.",
+        "A [Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica, com R$ 96,89 no Pix de outubro, sai por R$ 64,59 por 100 g (R$ 66,59 no cartão), com 5.000 mg de creatina em cada dose de 5 g e 30 porções. A Probiótica declara Creapure no nome do produto; a página da Growth não declara o selo.",
         "A tabela da creatina de 300 g declara 5.000 mg de creatina por porção de 5 g e 60 porções, os números que a conta usa.",
-        "A Creatina Monodose em sachê e a creatina em cápsulas da Probiótica ficam fora desta tabela e aparecem contra a gummy e o comprimido da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
+        "A [Creatina Monodose](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) em sachê e a creatina em cápsulas da Probiótica ficam fora desta tabela e aparecem contra a gummy e o comprimido da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
       ],
       "images": [
         {
@@ -193,7 +179,8 @@
           "alt": "Potes de creatina da Probiótica, de 300 g e de 150 g (Creapure), de frente",
           "caption": "Potes de creatina da Probiótica: Monohidratada Pura 300 g e Creapure 150 g. Imagem: Probiótica",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
         },
         {
           "src": "/images/reviews/probiotica/probiotica-ou-growth-tabela-creatina-300g.webp",
@@ -201,6 +188,13 @@
           "caption": "Tabela nutricional da Creatina Monohidratada Pura 300 g: 5 g por dose, 60 porções. Imagem: Probiótica",
           "objectFit": "contain",
           "aspectRatio": 1.0038
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a Creatina 300 g na Probiótica",
+          "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "sponsored": true
         }
       ]
     },
@@ -220,7 +214,7 @@
           ],
           [
             "Desconto no Pix",
-            "3% no whey e 5% na creatina de 300 g, pelo preço da página",
+            "Até 5%, variável por produto (3% no whey e 5% na creatina de 300 g na leitura de outubro; em novembro, cerca de 3% nos kits e empate com o cartão em alguns itens)",
             "Pix abaixo do preço de tabela, em valor que varia com as promoções da loja"
           ],
           [
@@ -231,31 +225,32 @@
         ]
       },
       "postParagraphs": [
-        "O cupom PRO10EMCASACOMCECILIA dá até 10%, com percentual variável por produto. Em um teste com carrinho misto de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, o desconto foi de R$ 54,75, cerca de 8,3% do total. Vale em todas as formas de pagamento e soma com as promoções vigentes, mas as contas com cupom nas tabelas são o teto de 10%: confira o valor no carrinho. Regras e instruções estão na página do [cupom Probiótica](/cupons/probiotica).",
+        "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica, com percentual variável por produto. Cole o código no campo \"Cupom de Desconto\" do carrinho, clique em \"Adicionar\" e confira a linha \"Descontos\" no resumo. Vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções e com o desconto do Pix. Num carrinho misto de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, o desconto foi de R$ 54,75, cerca de 8,3% do total; nos testes de novembro, foi de 2% nos wheys e nas creatinas e de 7% no [Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e no [Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) em oferta. As contas com cupom nas tabelas são, portanto, o teto de 10%. Regras e instruções estão na página do [cupom Probiótica](/cupons/probiotica).",
         "A página da Probiótica mostra também o parcelamento em 6x sem juros, e o preço do cartão nas tabelas é o dessa condição. O valor parcelado depende do produto. Preço e estoque mudam: confira no carrinho."
       ]
     },
     {
       "heading": "Quem escolhe o quê",
-      "emphasis": "Pelo preço no cartão, a escolha é a Growth no whey e a Probiótica de 300 g na creatina. No Pix, o refil de 500 g da Growth ganha na creatina. Compare as duas lojas antes de decidir.",
+      "emphasis": "Pelos números das tabelas, a Growth vence o whey por 100 g de proteína e a Probiótica de 300 g vence a creatina no preço de venda; a Probiótica só entra no whey para quem quer a linha Zero Lactose.",
       "bullets": [
-        "**Quer o menor preço por 100 g de proteína no whey:** Growth Whey Concentrado de 1 kg, com R$ 26,34 no Pix.",
-        "**Quer a linha Zero Lactose:** a Probiótica é a única das opções desta comparação com essa linha. Zero lactose não exclui o alergênico de leite: confira o rótulo.",
-        "**Quer o menor preço por grama de creatina no cartão:** Probiótica Creatina de 300 g, com R$ 19,97 por 100 g. No Pix, o refil de 500 g da Growth sai mais barato.",
+        "**Quer o menor preço por 100 g de proteína no whey:** Growth Whey Concentrado de 1 kg, com R$ 29,26 no cartão (R$ 26,34 no Pix de outubro).",
+        "**Quer a linha Zero Lactose:** o [100% Pure Whey Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) é a única opção desta comparação com essa linha, a R$ 38,41 por 100 g de proteína no cartão. Zero lactose não exclui o alergênico de leite: confira o rótulo.",
+        "**Quer o menor preço por grama de creatina no cartão:** a [Creatina de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica, com R$ 19,97 por 100 g. No Pix, o refil de 500 g da Growth sai mais barato.",
         "**Quer um pote pequeno de creatina:** a Probiótica de 300 g sai abaixo da Growth de 250 g, já sem cupom (R$ 19,97 contra R$ 25,32 por 100 g, no preço de tabela).",
-        "**Quer Creapure:** a Probiótica declara o selo no produto de 150 g, por R$ 64,59 por 100 g no Pix. A página da Growth não declara o selo."
+        "**Quer Creapure:** a [Creatina Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica declara o selo, por R$ 64,59 por 100 g no Pix de outubro (R$ 66,59 no cartão). A página da Growth não declara o selo."
       ],
       "postParagraphs": [
-        "A Growth também vende whey zero lactose. A comparação com o 100% Pure Whey Zero Lactose da Probiótica, por 100 g de proteína, está em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
+        "A Growth também vende whey zero lactose. A comparação com o 100% Pure Whey Zero Lactose da Probiótica, por 100 g de proteína, está em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey). Este texto faz parte da série 1 a 1 contra a Growth, junto com [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Max Titanium ou Growth](/reviews/max-titanium-ou-growth).",
+        "Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Probiótica ou Growth: qual é melhor? No cartão, a Growth vence no whey por 100 g de proteína e a Probiótica de 300 g vence na creatina. No Pix, o refil de 500 g da Growth passa à frente na creatina. A escolha pesa também a linha Zero Lactose e os sabores.",
-        "O cupom da Probiótica vale na creatina? Vale nos produtos do site, com desconto de até 10% e percentual que varia por item. Confira a linha de descontos no seu carrinho.",
-        "A Growth tem cupom? Não temos cupom nem parceria com a Growth; as promoções dela ficam no site da marca. As instruções do PRO10EMCASACOMCECILIA estão no [guia do cupom da Probiótica](/reviews/cupom-probiotica-como-usar).",
-        "A Probiótica é confiável? Quem é a marca, o site oficial e as trocas estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel), e a comparação com a Max Titanium, em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
+        "Probiótica ou Growth: qual é melhor? No cartão, a Growth vence no whey por 100 g de proteína e a Probiótica de 300 g vence na creatina. No Pix, o refil de 500 g da Growth pode passar à frente na creatina, porque o Pix varia por item e por dia. A escolha pesa também a linha Zero Lactose e os sabores.",
+        "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; as regras estão na página do [cupom Probiótica](/cupons/probiotica).",
+        "O cupom vale na creatina? Vale nos produtos do site, e o percentual varia por item: nos testes de novembro, as creatinas receberam 2%. Confira a linha de descontos no seu carrinho.",
+        "A Growth tem cupom? Não temos cupom nem parceria com a Growth; as promoções dela ficam no site da marca. O passo a passo do PRO10EMCASACOMCECILIA está no [guia do cupom da Probiótica](/reviews/cupom-probiotica-como-usar)."
       ]
     }
   ],
@@ -286,10 +281,10 @@
       "slug": "max-titanium-ou-probiotica"
     },
     {
-      "slug": "probiotica-e-confiavel"
+      "slug": "cupom-probiotica-como-usar"
     },
     {
-      "slug": "cupom-probiotica-como-usar"
+      "slug": "whey-probiotica-qual-escolher"
     }
   ]
 }

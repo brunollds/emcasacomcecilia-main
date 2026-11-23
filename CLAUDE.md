@@ -320,7 +320,7 @@ O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerd
   Bruno (`ArticleBrunoBox`, `data-article="autor-bruno"`) vem logo depois da da Cecília; em PT leva o link
   externo do Sonar de Ofertas (sem sponsored), nos outros idiomas não tem link.
 - Os dados vêm de dois módulos de servidor: `src/lib/articleStore.ts` (`getArticleStoreBlock`: código, tipo
-  do código, desconto e as regras da loja; na YesStyle, os textos do código de recompensa da página; sem
+  do código, desconto, `cutoutNote`, `productLinks` — como os 5 produtos da Proton nos 11 idiomas, desenhados em `#loja` como `data-article="produtos-loja"` — e as regras da loja; na YesStyle, os textos do código de recompensa da página; sem
   loja devolve `null`) e `src/lib/relatedReviews.ts` (`pickRelatedReviews`: mesma loja primeiro, na ordem de sempre;
   depois os do `relatedArticles` do JSON, na ordem dele; depois categoria e tipo, no idioma do artigo). Nada `'use client'` importa o primeiro.
 - O código da própria loja citado no corpo (`HighlightCoupon`) copia ao toque, com o mesmo

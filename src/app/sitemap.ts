@@ -15,6 +15,7 @@ import { REVIEW_HUB_LOCALES, getReviewHubPath } from '@/lib/review-hubs';
 import { getLatestYesStyleVerifiedAtISO } from '@/lib/yesstyleCoupons';
 import { isoDurationToSeconds, videoPages } from '@/lib/video-pages';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
+import { isListedInPortuguese } from '@/lib/reviewVisibility.mjs';
 
 const BASE_URL = 'https://emcasacomcecilia.com';
 
@@ -27,19 +28,35 @@ function newestDate(articles: readonly { updatedAt?: string; publishedAtISO?: st
     .at(-1);
 }
 
-const staticRoutes: MetadataRoute.Sitemap = [
-  { url: BASE_URL, priority: 1.0, changeFrequency: 'daily' },
-  { url: `${BASE_URL}/receitas`, priority: 0.9, changeFrequency: 'daily' },
-  { url: `${BASE_URL}/reviews`, priority: 0.8, changeFrequency: 'weekly' },
-  { url: `${BASE_URL}/videos`, priority: 0.8, changeFrequency: 'weekly' },
-  { url: `${BASE_URL}/cupons`, priority: 0.8, changeFrequency: 'weekly' },
-  { url: `${BASE_URL}/sobre`, priority: 0.6, changeFrequency: 'monthly' },
-  { url: `${BASE_URL}/contato`, priority: 0.5, changeFrequency: 'monthly' },
-  { url: `${BASE_URL}/faqs`, priority: 0.5, changeFrequency: 'monthly' },
-  { url: `${BASE_URL}/privacidade`, priority: 0.3, changeFrequency: 'yearly' },
-];
+function maxIsoDate(...dates: (string | undefined)[]) {
+  return dates.filter((date): date is string => Boolean(date)).sort().at(-1);
+}
+
+function newestTimestampDate(dates: readonly (string | undefined)[]) {
+  return dates
+    .filter((date): date is string => Boolean(date) && Number.isFinite(Date.parse(date)))
+    .sort((a, b) => Date.parse(a) - Date.parse(b))
+    .at(-1);
+}
 
 export default function sitemap(): MetadataRoute.Sitemap {
+  const ptListedReviews = publishedReviews.filter((review) => isListedInPortuguese(review));
+  const latestPtReviewDate = newestDate(ptListedReviews);
+  const latestPtCouponDate = maxIsoDate(...getActiveCoupons().map((coupon) => coupon.lastVerified));
+  const latestVideoDate = newestTimestampDate(videoPages.map((video) => video.uploadDate));
+
+  // Só as rotas com fonte real de data levam lastModified (nunca inventar data em receitas ou páginas institucionais).
+  const staticRoutes: MetadataRoute.Sitemap = [
+    { url: BASE_URL, priority: 1.0, changeFrequency: 'daily', lastModified: maxIsoDate(latestPtReviewDate, latestPtCouponDate) },
+    { url: `${BASE_URL}/receitas`, priority: 0.9, changeFrequency: 'daily' },
+    { url: `${BASE_URL}/reviews`, priority: 0.8, changeFrequency: 'weekly', lastModified: latestPtReviewDate },
+    { url: `${BASE_URL}/videos`, priority: 0.8, changeFrequency: 'weekly', lastModified: latestVideoDate },
+    { url: `${BASE_URL}/cupons`, priority: 0.8, changeFrequency: 'weekly', lastModified: latestPtCouponDate },
+    { url: `${BASE_URL}/sobre`, priority: 0.6, changeFrequency: 'monthly' },
+    { url: `${BASE_URL}/contato`, priority: 0.5, changeFrequency: 'monthly' },
+    { url: `${BASE_URL}/faqs`, priority: 0.5, changeFrequency: 'monthly' },
+    { url: `${BASE_URL}/privacidade`, priority: 0.3, changeFrequency: 'yearly' },
+  ];
   const recipeRoutes: MetadataRoute.Sitemap = recipes.map((recipe) => ({
     url: `${BASE_URL}/receitas/${recipe.slug}`,
     priority: recipe.isPopular ? 0.8 : 0.6,
@@ -163,6 +180,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${BASE_URL}${getReviewHubPath(locale)}`,
     priority: 0.7,
     changeFrequency: 'weekly' as const,
+    lastModified: newestDate(publishedReviews.filter((review) => !review.hideFromListings && review.locale === locale)),
   }));
 
   // A home de cada idioma (/en, /ja…); a de português é a raiz, em staticRoutes.
@@ -170,6 +188,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${BASE_URL}${getLocaleHomePath(locale)}`,
     priority: 0.8,
     changeFrequency: 'weekly' as const,
+    lastModified: maxIsoDate(
+      newestDate(publishedReviews.filter((review) => !review.hideFromListings && review.locale === locale)),
+      getCouponHubLastVerified(getCouponHubEntries(locale))
+    ),
   }));
 
   return [

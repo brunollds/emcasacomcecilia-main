@@ -2,7 +2,7 @@
   "id": 521,
   "slug": "dr-peanut-e-saudavel",
   "title": "Dr. Peanut é saudável? O que a pasta, o alfajor, a Doctor Bar, a Doctor Wafer e o whey trazem no rótulo",
-  "seoTitle": "Dr. Peanut é saudável? Rótulo e números [2026]",
+  "seoTitle": "Dr. Peanut é saudável? O que o rótulo mostra, por produto",
   "type": "Guia de ingredientes",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -17,7 +17,7 @@
   "metaDescription": "Com o DREMCASACOMCECILIA, 10% OFF na Dr. Peanut: o rótulo da pasta ao whey, com açúcar, adoçantes, lactose e calorias.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-v2.webp",
@@ -28,17 +28,17 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Pelo rótulo, não dá para dizer se a Dr. Peanut é saudável para você. Sem adição de açúcares não quer dizer sem açúcar, e as pastas, as barras e o whey trazem polióis, lactose ou glúten. A decisão sobre dieta é de nutricionista ou médico, e abaixo está o que cada produto traz."
+        "Pelo rótulo, não dá para dizer se a Dr. Peanut é saudável para você. Sem adição de açúcares não quer dizer sem açúcar, e as pastas, as barras e o whey trazem polióis, lactose ou glúten. Os números de cada produto estão abaixo."
       ]
     },
     {
       "heading": "\"Sem adição de açúcares\" não é zero açúcar",
       "paragraphs": [
-        "O pote da pasta diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" da tabela marca 0 g nos 11 sabores. Essa linha conta só o açúcar posto na receita. A linha \"Açúcares totais\" conta também o açúcar que já vem nos ingredientes.",
-        "Nas pastas, os açúcares totais vão de 4,6 g (Cookies & Cream) a 10 g (Beijinho) por 100 g. Na colher de 15 g, são de 0,7 a 1,5 g.",
-        "A tabela das pastas tem ainda uma linha de polióis, como o maltitol e o xilitol, que adoçam e ficam fora da conta dos açúcares. Nas pastas, são de 6,4 a 20 g por 100 g. Menos açúcar não quer dizer menos poliol: o Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos 11 sabores.",
-        "Na Doctor Bar Avelã, a barra de 62 g tem 1,8 g de açúcares totais, 0,2 g de açúcares adicionados e 9,6 g de polióis. Ou seja, a barra não marca zero na linha de adição.",
-        "A tabela de cada um dos 11 sabores, com açúcar, polióis e calorias, está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
+        "O pote da pasta diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" da tabela marca 0 g nos 10 sabores. Essa linha conta só o açúcar posto na receita. A linha \"Açúcares totais\" conta também o açúcar que já vem nos ingredientes.",
+        "Nas pastas, os açúcares totais vão de 4,6 g (Cookies & Cream) a 9 g (Doce de Leite) por 100 g. Na colher de 15 g, são de 0,7 a 1,4 g.",
+        "A tabela das pastas tem ainda uma linha de polióis, como o maltitol e o xilitol, que adoçam e ficam fora da conta dos açúcares. Nas pastas, são de 6,4 a 20 g por 100 g. Menos açúcar não quer dizer menos poliol: o Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos 10 sabores.",
+        "Na [Doctor Bar Avelã](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p), a barra de 62 g tem 1,8 g de açúcares totais, 0,2 g de açúcares adicionados e 9,6 g de polióis. Ou seja, a barra não marca zero na linha de adição.",
+        "A tabela de cada um dos 10 sabores, com açúcar, polióis e calorias, está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
       ]
     },
     {
@@ -46,13 +46,6 @@
       "paragraphs": [
         "As porções publicadas são diferentes: a tabela compara uma colher de pasta, um alfajor, uma barra, um wafer e dois dosadores de whey. Doctor Bar e Doctor Wafer representam só o sabor Avelã; as faixas das outras linhas reúnem todos os sabores. Use esses números por porção, não como um ranking de alimentos equivalentes."
       ],
-      "image": {
-        "src": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
-        "alt": "Quadro com a porção, as calorias, os açúcares totais, o glúten e a lactose da pasta, do alfajor, da Doctor Bar, da Doctor Wafer e do whey da Dr. Peanut",
-        "caption": "A porção, as calorias, os açúcares totais, o glúten e a lactose da pasta, do alfajor, da Doctor Bar, da Doctor Wafer e do whey, segundo a tabela da loja.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
       "comparisonTable": {
         "headers": [
           "Produto",
@@ -65,25 +58,25 @@
         ],
         "rows": [
           [
-            "Pasta de amendoim (11 sabores)",
+            "Pasta de amendoim (10 sabores)",
             "15 g (1 colher de sopa)",
             "83 a 90",
-            "0,7 a 1,5 g",
+            "0,7 a 1,4 g",
             "0",
-            "1,1 a 2 g",
+            "1,1 a 1,8 g",
             "Não contém glúten; contém lactose"
           ],
           [
-            "Alfajor (5 sabores)",
+            "Alfajor (2 sabores)",
             "35 g (1 unidade)",
-            "158 a 183",
-            "0,8 a 1,3 g",
+            "158 a 164",
+            "1,3 g",
             "0",
-            "3 a 3,8 g",
+            "3,4 a 3,6 g",
             "A loja não publica"
           ],
           [
-            "Doctor Bar Avelã",
+            "[Doctor Bar Avelã](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p)",
             "62 g (1 barra)",
             "261",
             "1,8 g",
@@ -92,7 +85,7 @@
             "Contém glúten; contém lactose"
           ],
           [
-            "Doctor Wafer Avelã",
+            "[Doctor Wafer Avelã](https://www.drpeanut.com.br/doctor-wafer-avela-un/p)",
             "25 g (1 unidade)",
             "127",
             "1 g",
@@ -113,7 +106,30 @@
         "caption": "Tabelas publicadas pela loja: alfajor, Doctor Bar, Doctor Wafer, pastas e whey."
       },
       "postParagraphs": [
-        "A proteína muda muito de um produto para outro: de 2,5 a 3 g na colher de pasta, de 4 a 4,7 g no alfajor, 5 g na Doctor Wafer, 21 g na Doctor Bar e 20 g no whey. As porções também são diferentes, então compare cada produto pela porção que você de fato come."
+        "A proteína muda muito de um produto para outro: de 2,5 a 3 g na colher de pasta, de 4,4 a 4,7 g no alfajor, 5 g na Doctor Wafer, 21 g na Doctor Bar e 20 g no whey. As porções também são diferentes, então compare cada produto pela porção que você de fato come."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+          "alt": "Pote de 250 g da pasta de amendoim Dr. Peanut sabor Avelã, em foto oficial da marca",
+          "caption": "Pasta de amendoim Avelã, pote de 250 g. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p"
+        },
+        {
+          "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+          "alt": "Display e barra de proteína Doctor Bar da Dr. Peanut, sabor Avelã, em foto oficial da marca",
+          "caption": "Doctor Bar Avelã, vendida em display de 8. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver as pastas na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -122,7 +138,7 @@
         "A lista de ingredientes mostra o que adoça cada produto:"
       ],
       "bullets": [
-        "Pasta de amendoim: maltitol, xilitol, sucralose e acessulfame de potássio nos 11 sabores. Brownie e Banoffee levam também glicosídeos de esteviol.",
+        "Pasta de amendoim: maltitol, xilitol, sucralose e acessulfame de potássio nos 10 sabores. O Brownie leva também glicosídeos de esteviol.",
         "Doctor Bar Avelã: maltitol, xarope de maltitol, glicosídeos de esteviol e sucralose.",
         "Doctor Wafer Avelã: maltitol no ganache.",
         "Whey: sucralose.",
@@ -135,7 +151,7 @@
     {
       "heading": "Alfajor: o que a loja publica e o que não publica",
       "paragraphs": [
-        "A página de cada alfajor traz a tabela nutricional numa imagem e não traz a lista de ingredientes nem o aviso de alérgicos. Sem a lista, não dá para saber o que adoça o alfajor, nem se ele tem lactose ou glúten. Quem tem restrição deve conferir a embalagem antes de comer.",
+        "A página de cada [alfajor](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p) traz a tabela nutricional numa imagem e não traz a lista de ingredientes nem o aviso de alérgicos. Sem a lista, não dá para saber o que adoça o alfajor, nem se ele tem lactose ou glúten. Quem tem restrição deve conferir a embalagem antes de comer. Os alfajores Avelã, Cookies & Cream e Pistache saíram do catálogo.",
         "O que a tabela mostra, por unidade de 35 g:"
       ],
       "comparisonTable": {
@@ -151,17 +167,7 @@
         ],
         "rows": [
           [
-            "Avelã",
-            "158",
-            "15 g",
-            "0,8 g",
-            "4,6 g",
-            "9 g",
-            "3,7 g",
-            "41 mg"
-          ],
-          [
-            "Leite em Pó",
+            "[Leite em Pó](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p)",
             "164",
             "17 g",
             "1,3 g",
@@ -171,7 +177,7 @@
             "44 mg"
           ],
           [
-            "Doce de Leite",
+            "[Doce de Leite](https://www.drpeanut.com.br/alfajor-sabor-doce-de-leite-cobertura-chocolate-ao-leite-35g/p)",
             "158",
             "15 g",
             "1,3 g",
@@ -179,49 +185,36 @@
             "9 g",
             "3,6 g",
             "43 mg"
-          ],
-          [
-            "Pistache",
-            "163",
-            "17 g",
-            "1 g",
-            "4 g",
-            "9 g",
-            "3 g",
-            "46 mg"
-          ],
-          [
-            "Cookies & Cream",
-            "183",
-            "17 g",
-            "0,8 g",
-            "4 g",
-            "11 g",
-            "3,8 g",
-            "45 mg"
           ]
         ],
         "caption": "Porção de 35 g (1 unidade), tabela publicada pela loja."
       },
       "postParagraphs": [
-        "Os cinco marcam 0 g de açúcares adicionados."
+        "Os dois marcam 0 g de açúcares adicionados."
       ],
       "images": [
         {
-          "src": "/images/reviews/dr-peanut/dr-peanut-alfajor-avela-tabela-nutricional.webp",
-          "alt": "Tabela nutricional do alfajor Dr. Peanut sabor Avelã, por 100 g e por unidade de 35 g",
-          "caption": "Tabela do alfajor Avelã publicada na página do produto. Imagem: Dr. Peanut.",
+          "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-tabela-alfajor-leite-em-po.webp",
+          "alt": "Tabela nutricional do alfajor Dr. Peanut sabor Leite em Pó, porção de 35 g",
+          "caption": "Tabela do alfajor Leite em Pó publicada na página do produto. Imagem: Dr. Peanut.",
           "objectFit": "contain",
-          "aspectRatio": 2.3203
+          "aspectRatio": 1.5731
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o alfajor de Leite em Pó na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p",
+          "sponsored": true
         }
       ]
     },
     {
       "heading": "Doctor Bar e Doctor Wafer",
       "paragraphs": [
-        "Entre as porções selecionadas, a Doctor Bar Avelã tem o maior valor energético: 261 kcal na barra de 62 g. Ela tem 21 g de proteína, 21 g de carboidratos, 12 g de gorduras totais e 6,2 g de gordura saturada, que a tabela marca como 31% do valor diário. São 9,6 g de polióis e 80 mg de sódio.",
+        "Entre as porções selecionadas, a [Doctor Bar Avelã](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p) tem o maior valor energético: 261 kcal na barra de 62 g. Ela tem 21 g de proteína, 21 g de carboidratos, 12 g de gorduras totais e 6,2 g de gordura saturada, que a tabela marca como 31% do valor diário. São 9,6 g de polióis e 80 mg de sódio.",
         "Na lista de ingredientes da Doctor Bar Avelã estão leite em pó, soro de leite e caseinato de cálcio. A página diz \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\", e os alérgicos são amendoim, leite e soja.",
-        "A Doctor Wafer é vendida avulsa, em unidade de 25 g, ou em caixa com 12. No sabor Avelã, cada unidade tem 127 kcal, 5 g de proteína, 9 g de carboidratos, 1 g de açúcares totais, 0 g de açúcares adicionados e 4,8 g de gordura saturada (24% do valor diário). O wafer é de farinha de trigo, e a página diz \"CONTÉM GLÚTEN. CONTÉM LACTOSE.\""
+        "A [Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p) é vendida avulsa, em unidade de 25 g, ou em caixa com 12. No sabor Avelã, cada unidade tem 127 kcal, 5 g de proteína, 9 g de carboidratos, 1 g de açúcares totais, 0 g de açúcares adicionados e 4,8 g de gordura saturada (24% do valor diário). O wafer é de farinha de trigo, e a página diz \"CONTÉM GLÚTEN. CONTÉM LACTOSE.\""
       ],
       "images": [
         {
@@ -231,26 +224,54 @@
           "objectFit": "contain",
           "aspectRatio": 0.6962
         }
+      ],
+      "links": [
+        {
+          "label": "Ver a Doctor Bar Avelã na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a Doctor Wafer Avelã na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/doctor-wafer-avela-un/p",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Whey: açúcar e lactose",
       "paragraphs": [
-        "O whey da Dr. Peanut, feito pela Max Titanium em parceria com a marca, tem 20 g de proteína por porção de 40 g nos 5 sabores. Os açúcares totais vão de 8,5 g (Avelã) a 11 g (Doce de Leite e Paçoca) por porção, e os adicionados, de 0 a 0,5 g.",
+        "O [whey da Dr. Peanut](https://www.drpeanut.com.br/whey-dr-peanut/p), feito pela Max Titanium em parceria com a marca, tem 20 g de proteína por porção de 40 g nos 5 sabores. Os açúcares totais vão de 8,5 g (Avelã) a 11 g (Doce de Leite e Paçoca) por porção, e os adicionados, de 0 a 0,5 g.",
         "O rótulo diz \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\", e o edulcorante é a sucralose. A Paçoca tem 229 mg de sódio por porção, o dobro dos outros sabores. A tabela de cada sabor está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/whey/whey-dr-peanut.webp",
+          "alt": "Pote de 900 g do 100% Whey Dr. Peanut - Max Titanium, em foto oficial da marca",
+          "caption": "100% Whey Dr. Peanut - Max Titanium, pote de 900 g. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "href": "https://www.drpeanut.com.br/whey-dr-peanut/p"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o 100% Whey Dr. Peanut na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/whey-protein",
+          "sponsored": true
+        }
       ]
     },
     {
-      "heading": "Dr. Peanut engorda? Dieta e emagrecimento",
+      "heading": "Calorias por porção e dieta",
       "paragraphs": [
-        "A tabela mostra as calorias de cada porção: de 83 a 90 kcal na colher de pasta, de 158 a 183 kcal no alfajor, 127 kcal na Doctor Wafer, 261 kcal na Doctor Bar e de 159 a 166 kcal na porção de whey.",
-        "O rótulo não diz se um produto engorda ou emagrece. Isso depende do quanto você come e de tudo o que entra na sua dieta no dia. As páginas da loja também não prometem emagrecimento: para encaixar a pasta, a barra ou o whey na dieta, fale com um nutricionista."
+        "A tabela mostra as calorias de cada porção: de 83 a 90 kcal na colher de pasta, de 158 a 164 kcal no alfajor, 127 kcal na Doctor Wafer, 261 kcal na Doctor Bar e de 159 a 166 kcal na porção de whey.",
+        "O rótulo não diz se um produto engorda ou emagrece. Isso depende do quanto você come e de tudo o que entra na sua dieta no dia. As páginas da loja também não prometem emagrecimento."
       ]
     },
     {
-      "heading": "Dr. Peanut faz mal?",
+      "heading": "Lactose, glúten, adoçantes e alérgenos",
       "paragraphs": [
-        "O rótulo não responde a essa pergunta. Ele lista o que a pessoa com restrição precisa conferir:"
+        "O rótulo lista o que a pessoa com restrição precisa conferir:"
       ],
       "bullets": [
         "Lactose: presente nas pastas, no whey, na Doctor Bar Avelã e na Doctor Wafer Avelã.",
@@ -264,39 +285,58 @@
       ]
     },
     {
-      "heading": "Quando procurar nutricionista ou médico",
+      "heading": "Preço e cupom",
       "paragraphs": [
-        "Para usar a tabela, confira primeiro o produto e o sabor, depois a porção e os avisos de alérgenos. Em caso de restrição alimentar ou de dúvida sobre o plano alimentar, leve o rótulo ao nutricionista ou médico."
+        "Os preços abaixo são por apresentação e por quantidade da caixa."
+      ],
+      "bullets": [
+        "Pasta de amendoim: R$ 25,89 no pote de 250 g (de R$ 28,90) e R$ 59,89 no de 600 g (de R$ 64,90), em [10 sabores](https://www.drpeanut.com.br/).",
+        "[Alfajor](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p): R$ 12,99 a unidade e R$ 155,88 a caixa com 12.",
+        "[Doctor Bar](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p): R$ 122,03 a caixa com 8 barras.",
+        "[Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p): R$ 11,46 a unidade e R$ 137,52 a caixa com 12.",
+        "[Whey](https://www.drpeanut.com.br/whey-dr-peanut/p): R$ 224,39 o pote de 900 g."
+      ],
+      "postParagraphs": [
+        "O cupom DREMCASACOMCECILIA dá 10% de desconto em todo o site, para cliente novo e antigo, em todas as formas de pagamento. Soma com as promoções e com os 3% do Pix no checkout. Para usar, cole o código no campo \"Código\" do carrinho e clique em \"Adicionar\". O frete grátis conta o valor depois do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. O passo a passo está em [como usar o cupom da Dr. Peanut](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom Dr. Peanut](/cupons/dr-peanut)."
+      ],
+      "links": [
+        {
+          "label": "Ver regras e validade do cupom DREMCASACOMCECILIA",
+          "href": "/cupons/dr-peanut"
+        },
+        {
+          "label": "Ir para a Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/",
+          "sponsored": true
+        }
       ]
     },
     {
-      "heading": "Preço e cupom",
+      "heading": "Qual produto escolher pelo rótulo",
       "paragraphs": [
-        "Compare os preços abaixo pela apresentação e pela quantidade da caixa, e confira a oferta atual antes de decidir."
+        "Use o quadro assim: confira o produto e o sabor, depois a porção e os avisos de alérgenos. Se você tem restrição alimentar ou dúvida sobre o plano alimentar, leve o rótulo ao nutricionista ou médico, que decide o que cabe na sua dieta."
       ],
       "bullets": [
-        "Pasta de amendoim: R$ 25,89 no pote de 250 g (de R$ 28,90) e R$ 59,89 no de 600 g (de R$ 64,90).",
-        "Alfajor: R$ 12,99 a unidade e R$ 155,88 a caixa com 12.",
-        "Doctor Bar: R$ 122,03 a caixa com 8 barras.",
-        "Doctor Wafer: R$ 11,46 a unidade e R$ 137,52 a caixa com 12.",
-        "Whey: R$ 224,39 o pote de 900 g."
+        "**Glúten fora da mesa:** as pastas declaram não conter glúten; o whey, a Doctor Bar Avelã e a Doctor Wafer Avelã declaram conter.",
+        "**Lactose fora da mesa:** nenhum produto com lista publicada serve, porque as pastas, o whey, a Doctor Bar Avelã e a Doctor Wafer Avelã declaram lactose.",
+        "**Olhar a linha de açúcar adicionado:** pastas, alfajores e Doctor Wafer marcam 0 g; a Doctor Bar Avelã marca 0,2 g e o whey, de 0 a 0,5 g.",
+        "**Mais proteína por porção:** a Doctor Bar Avelã, com 21 g na barra de 62 g, e o whey, com 20 g em 40 g."
       ],
-      "postParagraphs": [
-        "O cupom DREMCASACOMCECILIA dá 10% de desconto em todo o site, em todas as formas de pagamento, e soma com as promoções. O frete grátis conta o valor depois do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. O passo a passo está em [como usar o cupom da Dr. Peanut](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Para saber quem fabrica e como funcionam as trocas, veja [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel)."
-      ]
+      "emphasis": "Pelo rótulo, para quem evita glúten a escolha é a pasta, a única linha com lista publicada que declara não conter glúten, e para quem evita lactose nenhum produto com lista publicada serve."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Dr. Peanut é saudável? O rótulo não responde isso. Ele mostra o que cada produto tem (açúcares, polióis, lactose, glúten, gordura e calorias), e a decisão sobre a sua dieta é de nutricionista ou médico.",
-        "Pasta de amendoim Dr. Peanut é saudável? O rótulo da pasta mostra 0 g de açúcares adicionados, de 4,6 a 10 g de açúcares totais e de 6,4 a 20 g de polióis por 100 g, com lactose e sem glúten. Se ela cabe na sua dieta, quem diz é um nutricionista.",
-        "Alfajor Dr. Peanut é saudável? A loja publica só a tabela nutricional do alfajor, com 158 a 183 kcal por unidade de 35 g, e não publica os ingredientes. Sem a lista, não dá para avaliar a composição.",
+        "Dr. Peanut é saudável? O rótulo não responde isso. Ele mostra o que cada produto tem (açúcares, polióis, lactose, glúten, gordura e calorias), e o capítulo de escolha diz como usar esses números.",
+        "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, em todas as formas de pagamento, para cliente novo e antigo. Cole no campo \"Código\" do carrinho e clique em \"Adicionar\"; as regras estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
+        "Pasta de amendoim Dr. Peanut é saudável? O rótulo da pasta mostra 0 g de açúcares adicionados, de 4,6 a 9 g de açúcares totais e de 6,4 a 20 g de polióis por 100 g, com lactose e sem glúten.",
+        "Alfajor Dr. Peanut é saudável? A loja publica só a tabela nutricional do alfajor, com 158 a 164 kcal por unidade de 35 g, e não publica os ingredientes. Sem a lista, não dá para avaliar a composição.",
         "Dr. Peanut engorda? O rótulo mostra as calorias, como 83 a 90 kcal por colher de pasta, mas não diz se engorda. Isso depende do total que você come no dia.",
-        "Dr. Peanut é bom para dieta? A loja não promete nada para dieta nas páginas dos produtos. Para encaixar o produto num plano alimentar, procure um nutricionista.",
-        "Dr. Peanut é bom para emagrecer? O rótulo não fala em emagrecimento, e este texto também não. Quem quer emagrecer deve montar o plano com um nutricionista.",
-        "Dr. Peanut faz mal? O rótulo não diz isso. Ele lista lactose, glúten em alguns produtos, polióis, edulcorantes e alérgicos, que quem tem restrição precisa conferir com um médico ou nutricionista.",
-        "Dr. Peanut tem açúcar? Tem. As pastas não têm açúcar adicionado, mas trazem de 4,6 a 10 g de açúcares totais por 100 g. O whey tem de 8,5 a 11 g por porção de 40 g.",
-        "Dr. Peanut tem adoçante? Tem. A pasta leva maltitol, xilitol, sucralose e acessulfame de potássio, e o Brownie e o Banoffee também levam glicosídeos de esteviol; a Doctor Bar Avelã, maltitol, glicosídeos de esteviol e sucralose; a Doctor Wafer Avelã, maltitol; e o whey, sucralose.",
+        "Dr. Peanut é bom para dieta? A loja não promete nada para dieta nas páginas dos produtos.",
+        "Dr. Peanut é bom para emagrecer? O rótulo não fala em emagrecimento, e este texto também não.",
+        "Dr. Peanut faz mal? O rótulo não diz isso. Ele lista lactose, glúten em alguns produtos, polióis, edulcorantes e alérgicos, que quem tem restrição precisa conferir.",
+        "Dr. Peanut tem açúcar? Tem. As pastas não têm açúcar adicionado, mas trazem de 4,6 a 9 g de açúcares totais por 100 g. O whey tem de 8,5 a 11 g por porção de 40 g.",
+        "Dr. Peanut tem adoçante? Tem. A pasta leva maltitol, xilitol, sucralose e acessulfame de potássio, e o Brownie também leva glicosídeos de esteviol; a Doctor Bar Avelã, maltitol, glicosídeos de esteviol e sucralose; a Doctor Wafer Avelã, maltitol; e o whey, sucralose.",
         "Quais são os ingredientes da Dr. Peanut? A pasta leva amendoim, proteína concentrada do soro do leite, polióis e edulcorantes. A lista de cada produto está na página dele no site, menos a do alfajor, que a loja não publica.",
         "Whey Dr. Peanut tem açúcar? Tem. São de 8,5 a 11 g de açúcares totais por porção de 40 g, conforme o sabor.",
         "Whey Dr. Peanut tem lactose? Tem. O rótulo diz \"CONTÉM LACTOSE\" e também \"CONTÉM GLÚTEN\"."
@@ -319,10 +359,20 @@
       "slug": "dr-peanut-melhor-sabor"
     },
     {
-      "slug": "dr-peanut-e-confiavel"
+      "slug": "cupom-dr-peanut-como-usar"
     },
     {
-      "slug": "cupom-dr-peanut-como-usar"
+      "slug": "snacks-dr-peanut-qual-escolher"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer ver açúcares totais, polióis e calorias de cada produto antes de comprar.",
+      "Você evita glúten e quer a linha que declara não conter: as pastas."
+    ],
+    "skipIf": [
+      "Você evita lactose: pastas, whey, Doctor Bar Avelã e Doctor Wafer Avelã declaram lactose.",
+      "Você precisa da lista de ingredientes do alfajor: a loja não publica."
+    ]
+  }
 }

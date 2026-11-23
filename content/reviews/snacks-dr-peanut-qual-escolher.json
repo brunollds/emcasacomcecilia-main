@@ -2,7 +2,7 @@
   "id": 603,
   "slug": "snacks-dr-peanut-qual-escolher",
   "title": "Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher (proteína, açúcar e preço por unidade)",
-  "seoTitle": "Dr. Peanut: Doctor Bar, alfajor ou wafer? Proteína [2026]",
+  "seoTitle": "Dr. Peanut: Doctor Bar, alfajor ou wafer? Proteína",
   "type": "Guia de Escolha",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -17,7 +17,7 @@
   "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Doctor Bar, alfajor ou Doctor Wafer: proteína, açúcar, calorias e preço por unidade.",
   "publishedAt": "25 de outubro de 2026",
   "publishedAtISO": "2026-10-25",
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-capa-v2.webp",
@@ -28,13 +28,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. Nos sabores com tabela publicada, o wafer tem menos calorias e o menor preço por unidade. O que pesa é a proteína que você quer, e o código DREMCASACOMCECILIA dá 10% no site oficial."
+        "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4,4 a 4,7 g do alfajor e 5 a 6 g do wafer. Nos sabores com tabela publicada, o wafer tem menos calorias e o menor preço por unidade. O que pesa é a proteína que você quer, e o código DREMCASACOMCECILIA dá 10% no site oficial."
       ]
     },
     {
       "heading": "Os três snacks em uma tabela",
       "paragraphs": [
-        "Este texto compara a Doctor Bar, o alfajor e a Doctor Wafer entre si: a barra tem mais proteína, o wafer tem menos calorias, e o alfajor fica no meio. Não compara com barras de outras marcas e não diz qual sabor é o melhor. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja."
+        "Este texto compara a Doctor Bar, o alfajor e a Doctor Wafer entre si: a barra tem mais proteína, o wafer tem menos calorias, e o alfajor fica no meio. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja. Os alfajores Avelã, Cookies & Cream e Pistache saíram do catálogo, e só restam o Doce de Leite e o Leite em Pó."
       ],
       "comparisonTable": {
         "headers": [
@@ -49,7 +49,7 @@
         ],
         "rows": [
           [
-            "Doctor Bar Avelã",
+            "[Doctor Bar Avelã](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p)",
             "62 g",
             "261",
             "21 g",
@@ -59,7 +59,7 @@
             "R$ 15,25"
           ],
           [
-            "Doctor Bar Cookies & Cream",
+            "[Doctor Bar Cookies & Cream](https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-cookies-e-cream-62g---8-un/p)",
             "62 g",
             "263",
             "21 g",
@@ -69,7 +69,7 @@
             "R$ 15,25"
           ],
           [
-            "Doctor Bar Doce de Leite",
+            "[Doctor Bar Doce de Leite](https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-doce-de-leite-62g---8-un/p)",
             "62 g",
             "268",
             "21 g",
@@ -79,7 +79,7 @@
             "R$ 15,25"
           ],
           [
-            "Doctor Bar Chocolate com Coco",
+            "[Doctor Bar Chocolate com Coco](https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-chocolate-com-coco/p)",
             "62 g",
             "260",
             "21 g",
@@ -89,7 +89,7 @@
             "R$ 15,25"
           ],
           [
-            "Doctor Bar Speculoos",
+            "[Doctor Bar Speculoos](https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-speculoos/p)",
             "62 g",
             "não publicada",
             "21 g (embalagem)",
@@ -99,27 +99,7 @@
             "R$ 15,25"
           ],
           [
-            "Alfajor Avelã",
-            "35 g",
-            "158",
-            "4,6 g",
-            "0,8 g",
-            "0 g",
-            "3,7 g",
-            "R$ 12,99"
-          ],
-          [
-            "Alfajor Cookies & Cream",
-            "35 g",
-            "183",
-            "4 g",
-            "0,8 g",
-            "0 g",
-            "3,8 g",
-            "R$ 12,99"
-          ],
-          [
-            "Alfajor Doce de Leite",
+            "[Alfajor Doce de Leite](https://www.drpeanut.com.br/alfajor-sabor-doce-de-leite-cobertura-chocolate-ao-leite-35g/p)",
             "35 g",
             "158",
             "4,7 g",
@@ -129,7 +109,7 @@
             "R$ 12,99"
           ],
           [
-            "Alfajor Leite em Pó",
+            "[Alfajor Leite em Pó](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p)",
             "35 g",
             "164",
             "4,4 g",
@@ -139,17 +119,7 @@
             "R$ 12,99"
           ],
           [
-            "Alfajor Pistache",
-            "35 g",
-            "163",
-            "4 g",
-            "1 g",
-            "0 g",
-            "3 g",
-            "R$ 12,99"
-          ],
-          [
-            "Doctor Wafer Avelã",
+            "[Doctor Wafer Avelã](https://www.drpeanut.com.br/doctor-wafer-avela-un/p)",
             "25 g",
             "127",
             "5 g",
@@ -159,7 +129,7 @@
             "R$ 11,46"
           ],
           [
-            "Doctor Wafer Cookies & Cream",
+            "[Doctor Wafer Cookies & Cream](https://www.drpeanut.com.br/doctor-wafer-cookies-cream/p)",
             "25 g",
             "121",
             "5 g",
@@ -169,7 +139,7 @@
             "R$ 11,46"
           ],
           [
-            "Doctor Wafer Doce de Leite",
+            "[Doctor Wafer Doce de Leite](https://www.drpeanut.com.br/doctor-wafer-doce-de-leite/p)",
             "25 g",
             "118",
             "6 g",
@@ -179,18 +149,37 @@
             "R$ 11,46"
           ]
         ],
-        "caption": "Tabelas publicadas pela loja, 24/10."
+        "caption": "Tabelas publicadas pela loja; preços de 22/11."
       },
       "postParagraphs": [
         "Calorias, proteína, açúcares e gordura são por unidade. O preço da Doctor Bar é a conta do display de 8 (R$ 122,03 ÷ 8). Na Doctor Bar Speculoos, a tabela não publicada pela loja deixa as calorias e os açúcares em branco; a proteína de 21 g vem da embalagem e da descrição do produto."
       ],
       "images": [
         {
+          "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+          "alt": "Display e barra de proteína Doctor Bar da Dr. Peanut, sabor Avelã, em foto oficial da marca",
+          "caption": "Doctor Bar Avelã, vendida em display de 8. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p"
+        },
+        {
           "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-tabela-bar-cookies.webp",
           "alt": "Tabela nutricional da barra de proteína Doctor Bar sabor Cookies & Cream, porção de 62 g da Dr. Peanut",
           "caption": "Tabela da Doctor Bar Cookies publicada na página do produto. Imagem: Dr. Peanut.",
           "objectFit": "contain",
           "aspectRatio": 0.7078
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a Doctor Bar Avelã na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a Doctor Wafer Avelã na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/doctor-wafer-avela-un/p",
+          "sponsored": true
         }
       ]
     },
@@ -217,10 +206,10 @@
           ],
           [
             "Alfajor",
-            "4 a 4,7 g",
+            "4,4 a 4,7 g",
             "R$ 12,99",
-            "R$ 2,76 a R$ 3,25",
-            "2,2 a 3,0"
+            "R$ 2,76 a R$ 2,95",
+            "2,7 a 3,0"
           ],
           [
             "Doctor Wafer",
@@ -232,15 +221,23 @@
         ]
       },
       "postParagraphs": [
-        "A barra tem a maior proteína por unidade e também o menor preço por grama de proteína. No alfajor, cada grama de proteína sai entre R$ 2,76 e R$ 3,25. No wafer, entre R$ 1,91 e R$ 2,29. Por 100 kcal, as quatro barras com tabela disponível têm mais proteína que os outros dois formatos comparados."
+        "A barra tem a maior proteína por unidade e também o menor preço por grama de proteína. No alfajor, cada grama de proteína sai entre R$ 2,76 e R$ 2,95. No wafer, entre R$ 1,91 e R$ 2,29. Por 100 kcal, as quatro barras com tabela disponível têm mais proteína que os outros dois formatos comparados."
       ]
     },
     {
       "heading": "Açúcar: o que a tabela mostra",
       "paragraphs": [
-        "Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o açúcar acrescentado na fabricação. Nos sabores de alfajor e wafer comparados, a tabela marca 0 g de adicionados. Nas quatro barras com tabela publicada, são de 0,1 a 0,4 g; o Speculoos não tem tabela publicada pela loja. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, de 0,8 a 1,3 g; e no wafer, de 1 a 2 g. O menor número do alfajor está no Avelã e no Cookies & Cream, com 0,8 g cada.",
+        "Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o açúcar acrescentado na fabricação. Nos sabores de alfajor e wafer comparados, a tabela marca 0 g de adicionados. Nas quatro barras com tabela publicada, são de 0,1 a 0,4 g; o Speculoos não tem tabela publicada pela loja. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, 1,3 g nos dois sabores; e no wafer, de 1 a 2 g. O menor número entre os três produtos é o do wafer Avelã e Cookies & Cream, com 1 g cada.",
         "Os polióis aparecem só na tabela da barra: 9,6 g por unidade na Doctor Bar Avelã e 10 g na Cookies & Cream. Alfajor e wafer não trazem essa linha, e isso não quer dizer que não tenham polióis: a lista de ingredientes da Doctor Wafer Avelã, publicada pela loja, traz maltitol, que é um poliol. A lista de adoçantes de cada produto está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel)."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-alfajor-doce-de-leite.webp",
+        "alt": "Embalagem do alfajor Dr. Peanut sabor Doce de Leite com cobertura de chocolate ao leite, 35 g",
+        "caption": "Alfajor Doce de Leite com cobertura de chocolate ao leite, 35 g. Imagem: Dr. Peanut.",
+        "objectFit": "square",
+        "aspectRatio": 1,
+        "href": "https://www.drpeanut.com.br/alfajor-sabor-doce-de-leite-cobertura-chocolate-ao-leite-35g/p"
+      }
     },
     {
       "heading": "Glúten e lactose, e o que a loja não publica",
@@ -261,7 +258,7 @@
     {
       "heading": "Preço e cupom",
       "paragraphs": [
-        "A Doctor Bar só se vende em display de 8 barras, por R$ 122,03. A barra sai a R$ 15,25 na conta do display. O alfajor vem avulso por R$ 12,99, em display de 12 por R$ 155,88, ou em kit de 10 por R$ 129,90: nos três, a unidade sai pelos mesmos R$ 12,99. O wafer vem avulso por R$ 11,46, em display de 12 por R$ 137,52, ou em kit de 12 por R$ 130,68, que dá R$ 10,89 por unidade."
+        "A [Doctor Bar](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p) só se vende em display de 8 barras, por R$ 122,03. A barra sai a R$ 15,25 na conta do display. O [alfajor](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p) vem avulso por R$ 12,99, em [display de 12](https://www.drpeanut.com.br/alfajor-sabor-doce-de-leite-cobertura-chocolate-ao-leite-35g/p) por R$ 155,88, ou em kit de 10 por R$ 129,90: nos três, a unidade sai pelos mesmos R$ 12,99. O [wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p) vem avulso por R$ 11,46, em [display de 12](https://www.drpeanut.com.br/display-doctor-wafer/p) por R$ 137,52, ou em [kit sortido de 12](https://www.drpeanut.com.br/kit-sortido-duplo-wafers/p) por R$ 130,68, que dá R$ 10,89 por unidade; o [kit sortido de 6](https://www.drpeanut.com.br/kit-sortido-wafers/p), a R$ 65,34, sai pelos mesmos R$ 10,89."
       ],
       "images": [
         {
@@ -269,41 +266,68 @@
           "alt": "Displays abertos com barras de proteína Doctor Bar sabor Speculoos da Dr. Peanut",
           "caption": "Doctor Bar Speculoos em display, foto do produto publicada pela loja. Imagem: Dr. Peanut.",
           "objectFit": "contain",
-          "aspectRatio": 0.6667
+          "aspectRatio": 0.6667,
+          "href": "https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-speculoos/p"
         }
       ],
       "postParagraphs": [
-        "O cupom DREMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Na conta com o cupom, a barra fica em cerca de R$ 13,73, o alfajor em R$ 11,69 e o wafer em R$ 10,31. São contas com o preço normal da unidade, não o preço final que você paga no carrinho.",
-        "O código fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut), e o passo a passo, em [como usar o cupom](/reviews/cupom-dr-peanut-como-usar). Quem fabrica a marca e como funcionam as trocas estão em [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel)."
+        "O cupom DREMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções e com os 3% do Pix no checkout. Para usar, cole o código no campo \"Código\" do carrinho e clique em \"Adicionar\". Na conta com o cupom, a barra fica em cerca de R$ 13,73, o alfajor em R$ 11,69 e o wafer em R$ 10,31. São contas com o preço normal da unidade, não o preço final que você paga no carrinho.",
+        "O código fica na [página do cupom Dr. Peanut](/cupons/dr-peanut), e o passo a passo, em [como usar o cupom](/reviews/cupom-dr-peanut-como-usar)."
+      ],
+      "links": [
+        {
+          "label": "Ver regras e validade do cupom DREMCASACOMCECILIA",
+          "href": "/cupons/dr-peanut"
+        },
+        {
+          "label": "Ir para a Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Qual escolher",
       "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é a Doctor Bar, porque ela tem 21 g contra até 6 g dos outros dois.",
-      "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Nenhum dos três ganha em tudo. A escolha depende do que pesa mais para você:"
       ],
       "bullets": [
-        "**Mais proteína por unidade:** a Doctor Bar, com 21 g. Na conta do display de 8, a unidade sai a R$ 15,25; confira formato e preço atuais.",
-        "**Menos calorias por unidade:** a Doctor Wafer, com 118 a 127 kcal, e também o menor preço por unidade, R$ 11,46.",
-        "**Menos açúcar total:** o alfajor Avelã ou o Cookies & Cream, com 0,8 g por unidade.",
+        "**Mais proteína por unidade:** a [Doctor Bar](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p), com 21 g. Na conta do display de 8, a unidade sai a R$ 15,25; confira formato e preço atuais.",
+        "**Menos calorias por unidade:** a [Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p), com 118 a 127 kcal, e também o menor preço por unidade, R$ 11,46.",
+        "**Menos açúcar total:** a [Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p) Avelã ou Cookies & Cream, com 1 g por unidade.",
         "**Menor preço por grama de proteína:** a Doctor Bar, com R$ 0,73 pela conta nossa.",
-        "**Meio-termo:** o alfajor, com 4 a 4,7 g de proteína e 158 a 183 kcal por R$ 12,99."
+        "**Meio-termo:** o alfajor, com 4,4 a 4,7 g de proteína e 158 a 164 kcal por R$ 12,99."
       ],
       "postParagraphs": [
-        "Nada disso diz qual snack tem o melhor sabor, nem qual cabe na sua dieta. Essa decisão é de um nutricionista ou médico. O rótulo completo, com ingredientes e adoçantes, está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel).",
+        "Qual deles cabe na sua dieta é decisão de nutricionista ou médico. O rótulo completo, com ingredientes e adoçantes, está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel).",
         "Se você já decidiu pelo wafer, o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) compara a Doctor Wafer com os wafers em caixa de outra marca, por preço e proteína.",
         "Para comparar a Doctor Bar com barras de outras marcas, veja [o guia de barras de proteína](/reviews/barra-de-proteina-qual-escolher). Aqui, a escolha é entre barra, alfajor e wafer da Dr. Peanut."
-      ]
+      ],
+      "links": [
+        {
+          "label": "Ver os snacks na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/",
+          "sponsored": true
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-kit-sortido-wafers.webp",
+        "alt": "Kit Sortido com seis Doctor Wafer da Dr. Peanut, nos sabores Avelã, Cookies & Cream e Doce de Leite",
+        "caption": "Kit Sortido com 6 Doctor Wafer, dois de cada sabor. Imagem: Dr. Peanut.",
+        "objectFit": "square",
+        "aspectRatio": 1,
+        "href": "https://www.drpeanut.com.br/kit-sortido-wafers/p"
+      }
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, em todas as formas de pagamento, para cliente novo e antigo. Cole no campo \"Código\" do carrinho e clique em \"Adicionar\"; as regras estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
         "Doctor Bar tem glúten? A página da Doctor Bar Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. Os outros sabores, o Speculoos inclusive, não têm aviso publicado na página: leia o da embalagem.",
         "Doctor Bar vende avulsa? Não. A loja vende só em display de 8 barras, por R$ 122,03, o que dá R$ 15,25 por barra na conta.",
-        "Alfajor Dr. Peanut tem quantas calorias? Tem de 158 a 183 kcal por unidade de 35 g, conforme o sabor, na tabela publicada pela loja.",
-        "Qual snack tem mais proteína? Por unidade, a Doctor Bar, com 21 g. O alfajor tem de 4 a 4,7 g, e o wafer, de 5 a 6 g."
+        "Alfajor Dr. Peanut tem quantas calorias? Tem 158 kcal (Doce de Leite) ou 164 kcal (Leite em Pó) por unidade de 35 g, na tabela publicada pela loja.",
+        "Qual snack tem mais proteína? Por unidade, a Doctor Bar, com 21 g. O alfajor tem de 4,4 a 4,7 g, e o wafer, de 5 a 6 g."
       ]
     }
   ],
@@ -311,12 +335,12 @@
     "takeIf": [
       "Leve a Doctor Bar se você quer mais proteína por unidade: 21 g.",
       "Leve a Doctor Wafer se você quer menos calorias por unidade, de 118 a 127 kcal, e o menor preço por unidade.",
-      "Leve o alfajor Avelã ou Cookies & Cream se você quer o menor açúcar total: 0,8 g por unidade."
+      "Leve a Doctor Wafer Avelã ou Cookies & Cream se você quer o menor açúcar total: 1 g por unidade."
     ],
     "skipIf": [
-      "Passe nos três se você escolhe pelo sabor: o guia compara só os números da tabela.",
-      "Passe no alfajor se você precisa evitar glúten ou lactose: a loja não publica o aviso de alérgicos dele.",
-      "Passe na escolha por tabela se você precisa encaixar o snack numa dieta: isso é com nutricionista ou médico."
+      "Você não quer comprar um display fechado: a Doctor Bar só vem em display de 8 barras.",
+      "Você precisa evitar glúten ou lactose e pensa no alfajor: a loja não publica a lista de ingredientes nem o aviso de alérgicos dele.",
+      "Você quer proteína perto da de uma barra no wafer: ele tem de 5 a 6 g por unidade, contra 21 g da Doctor Bar."
     ]
   },
   "pros": [],
@@ -338,7 +362,7 @@
       "slug": "dr-peanut-melhor-sabor"
     },
     {
-      "slug": "dr-peanut-e-confiavel"
+      "slug": "cupom-dr-peanut-como-usar"
     }
   ]
 }

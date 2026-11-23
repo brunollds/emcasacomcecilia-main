@@ -17,7 +17,7 @@
   "metaDescription": "DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut na primeira compra. O mesmo código vale para quem já comprou e soma com as promoções.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa-v2.webp",
@@ -40,10 +40,10 @@
       "slug": "cupom-dr-peanut-como-usar"
     },
     {
-      "slug": "dr-peanut-e-confiavel"
+      "slug": "dr-peanut-qual-tamanho-compensa"
     },
     {
-      "slug": "dr-peanut-qual-tamanho-compensa"
+      "slug": "black-friday-dr-peanut"
     }
   ],
   "contentSections": [
@@ -56,9 +56,16 @@
     {
       "heading": "Cupom Dr. Peanut primeira compra: qual usar",
       "paragraphs": [
-        "A Dr. Peanut vende pastas de amendoim e snacks, como barras, alfajores e wafers. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Dr. Peanut é confiável?](/reviews/dr-peanut-e-confiavel).",
-        "Use o DREMCASACOMCECILIA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
-        "É o [cupom Dr. Peanut](/cupons/dr-peanut) da nossa parceria com a marca, testado no carrinho. Pasta, wafer ou kit: o código é o mesmo."
+        "A [Dr. Peanut](https://www.drpeanut.com.br/) vende pastas de amendoim e snacks, como barras, alfajores e wafers, e o primeiro pedido usa o mesmo código de qualquer outro.",
+        "Use o DREMCASACOMCECILIA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes, também na assinatura de pastas, onde soma com o desconto progressivo, e soma com os 3% do Pix no checkout.",
+        "É o [cupom Dr. Peanut](/cupons/dr-peanut) da nossa parceria com a marca, testado no carrinho. [Pasta](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p), [wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p) ou kit: o código é o mesmo."
+      ],
+      "links": [
+        {
+          "label": "Ir para a Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -118,12 +125,6 @@
       ]
     },
     {
-      "heading": "E na segunda compra?",
-      "paragraphs": [
-        "O DREMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 10%. Na assinatura de pastas da loja, o código também entra e soma com o desconto progressivo."
-      ]
-    },
-    {
       "heading": "Onde colar o código",
       "paragraphs": [
         "O código vai no carrinho do site oficial, que abre também no navegador do celular:"
@@ -140,17 +141,42 @@
       "imageAlt": "Resumo do carrinho da Dr. Peanut depois do cupom: código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ 44,02 e Total de R$ 396,14.",
       "imageCaption": "O código aplicado no carrinho da Dr. Peanut, em outro pedido de teste: os 10% aparecem na linha “Descontos”.",
       "imageFit": "contain",
-      "imageAspectRatio": 1.042
+      "imageAspectRatio": 1.042,
+      "links": [
+        {
+          "label": "Ver a pasta de Avelã na Dr. Peanut",
+          "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Vale usar o cupom na primeira compra?",
+      "paragraphs": [
+        "O código tira 10% do pedido inteiro e vale também nas compras seguintes, então não há motivo para guardá-lo para depois. O ponto de atenção é o frete grátis: como o mínimo conta depois do desconto, um carrinho justo pode perder a isenção, como o das seis pastas acima."
+      ],
+      "emphasis": "Na primeira compra, o DREMCASACOMCECILIA vale em qualquer carrinho da Dr. Peanut, desde que o total depois do desconto continue acima do mínimo de frete grátis da sua região."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Como conseguir desconto na primeira compra na Dr. Peanut? O DREMCASACOMCECILIA dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
+        "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site oficial da Dr. Peanut. Cole o código no campo “Código” do carrinho e clique em “Adicionar”; as condições estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
+        "Como conseguir desconto na primeira compra na Dr. Peanut? Use o DREMCASACOMCECILIA: 10% em todo o site oficial, no primeiro pedido e nos seguintes, em todas as formas de pagamento.",
         "Qual cupom Dr. Peanut vale para quem já é cliente? O mesmo DREMCASACOMCECILIA, com os mesmos 10%.",
         "O cupom Dr. Peanut soma com produto em promoção? Sim. Os 10% entram sobre o preço promocional.",
         "O cupom Dr. Peanut vale no Mercado Livre? Não. Ele vale no site oficial da Dr. Peanut.",
         "Quanto é o frete grátis da Dr. Peanut? A partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas outras regiões, pela regra da loja. O mínimo conta depois do desconto do código."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você vai fazer o primeiro pedido na Dr. Peanut e quer 10% OFF em todo o site, em todas as formas de pagamento",
+      "Você já é cliente e quer saber se o mesmo código vale de novo"
+    ],
+    "skipIf": [
+      "Você pretende comprar pelo Mercado Livre, onde o código não vale",
+      "Você tem um carrinho colado no mínimo de frete grátis e o desconto pode tirar a isenção"
+    ]
+  }
 }

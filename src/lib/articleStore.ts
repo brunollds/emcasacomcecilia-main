@@ -11,6 +11,7 @@ import {
   getStoreCodeKind,
   type Coupon,
   type CouponCodeKind,
+  type ProductLink,
 } from '@/lib/couponsData';
 import { getCouponStorePath, getCouponTranslation, getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { publishedReviews, type Review } from '@/lib/data';
@@ -29,6 +30,8 @@ export type ArticleStoreBlock = {
   discount?: string;
   // Aviso de oferta/indicação direta pelo link nos recortes sem código (Proton, Starlink, AliExpress, Temu, Lejour).
   cutoutNote?: string;
+  // Links diretos por produto da marca (Proton VPN, Mail, Pass, Drive, Lumo) no bloco #loja, nos 11 idiomas.
+  productLinks?: ProductLink[];
   rules: Array<{ label: string; value: string }>;
   storeHref?: string;
   // Patrocínio do link da loja: o do cta quando o link é o dele; o link de afiliado da loja é sempre patrocinado.
@@ -166,6 +169,8 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
   const cutoutNote = !code && source?.offerMode === 'affiliate-link'
     ? source.cutoutNote || COUPON_STORE_COPY[locale].noCodeToCopy
     : undefined;
+  const productLinks =
+    source?.offerMode === 'affiliate-link' && source.productLinks?.length ? source.productLinks : undefined;
 
   const articleCount = locale === 'pt'
     ? publishedReviews.filter((item) => reviewHasStore(item, store.slug) && isListedInPortuguese(item)).length
@@ -192,6 +197,7 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, n
         ? `${matchedTier.discount} a partir de ${matchedTier.minPurchase}`
         : source?.discount,
     ...(cutoutNote && { cutoutNote }),
+    ...(productLinks && { productLinks }),
     rules: rules.filter((rule) => rule.value).slice(0, MAX_RULES).map((rule) => ({ ...rule, value: shortenRule(rule.value) })),
     storeHref,
     storeSponsored,

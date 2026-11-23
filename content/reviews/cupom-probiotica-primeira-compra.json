@@ -17,7 +17,7 @@
   "metaDescription": "Para a primeira compra na Probiótica, use PRO10EMCASACOMCECILIA: até 10% OFF no site oficial, conforme o produto. O mesmo código vale para quem já comprou.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa-v2.webp",
@@ -40,10 +40,10 @@
       "slug": "cupom-probiotica-como-usar"
     },
     {
-      "slug": "probiotica-e-confiavel"
+      "slug": "black-friday-probiotica"
     },
     {
-      "slug": "probiotica-reclame-aqui-nota-reputacao"
+      "slug": "whey-probiotica-qual-escolher"
     }
   ],
   "contentSections": [
@@ -56,8 +56,8 @@
     {
       "heading": "Cupom Probiótica primeira compra: qual usar",
       "paragraphs": [
-        "A Probiótica é uma marca de suplementos, com produtos como whey, creatina e barras na loja oficial. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
-        "Use o PRO10EMCASACOMCECILIA: até 10% OFF no site oficial. O desconto é por produto, com teto de 10%, e vale no primeiro pedido e nos seguintes.",
+        "A Probiótica é uma marca de suplementos, com produtos como whey, creatina e barras na loja oficial.",
+        "Use o PRO10EMCASACOMCECILIA: até 10% OFF no site oficial, em todas as formas de pagamento. O desconto é por produto, com teto de 10%, e vale no primeiro pedido e nos seguintes: cliente novo e cliente antigo usam o mesmo código.",
         "É o [cupom Probiótica](/cupons/probiotica) da nossa parceria com a marca, testado no carrinho. O resumo do pedido mostra o desconto aplicado em cada item."
       ]
     },
@@ -76,27 +76,27 @@
         "rows": [
           [
             "São Paulo (capital)",
-            "R$ 104,00"
+            "R$ 104"
           ],
           [
             "Sudeste",
-            "R$ 134,00"
+            "R$ 134"
           ],
           [
             "Centro-Oeste",
-            "R$ 204,00"
+            "R$ 204"
           ],
           [
             "Sul",
-            "R$ 249,00"
+            "R$ 249"
           ],
           [
             "Nordeste",
-            "R$ 299,00"
+            "R$ 299"
           ],
           [
             "Norte",
-            "R$ 599,00"
+            "R$ 599"
           ]
         ]
       },
@@ -132,7 +132,7 @@
         ]
       },
       "postParagraphs": [
-        "Conta nossa, pelos valores do teste: o código tirou 7% do preço em promoção. Numa creatina a preço cheio, no mesmo teste, o percentual foi menor. É por isso que o desconto é “até 10%”: o carrinho mostra quanto cada item recebeu.",
+        "Conta nossa, pelos valores do teste: o código tirou 7% do preço em promoção. Nas creatinas, nos testes de novembro, o percentual foi de 2%. É por isso que o desconto é “até 10%”: o carrinho mostra quanto cada item recebeu.",
         "Antes do Pix, o preço desse whey supera o mínimo para São Paulo capital, mas não o do restante do Sudeste. O código soma com o desconto do Pix; confira no pagamento se o valor final atende ao mínimo da sua região e qual modalidade de envio oferece a isenção."
       ],
       "images": [
@@ -143,12 +143,13 @@
           "objectFit": "square",
           "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
         }
-      ]
-    },
-    {
-      "heading": "E na segunda compra?",
-      "paragraphs": [
-        "Quem já comprou também pode usar PRO10EMCASACOMCECILIA, com até 10% de desconto por produto. O percentual depende do item; cliente novo e antigo usam o mesmo código para comprar no site oficial."
+      ],
+      "links": [
+        {
+          "label": "Ver o Hiper 100% Whey na Probiótica",
+          "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -157,7 +158,7 @@
         "O código vai no carrinho, antes do pagamento:"
       ],
       "bullets": [
-        "Coloque os produtos no carrinho do site oficial da Probiótica.",
+        "Coloque os produtos no carrinho do [site oficial da Probiótica](https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi).",
         "No campo “Cupom de Desconto”, cole PRO10EMCASACOMCECILIA, sem espaços, e aplique.",
         "Confira a linha de descontos e o frete. Só depois pague."
       ],
@@ -171,13 +172,33 @@
       "imageAspectRatio": 1.021
     },
     {
+      "heading": "Vale usar o código na primeira compra",
+      "paragraphs": [
+        "O código não pede cadastro novo nem primeira compra: vale para conta nova e antiga, soma com as promoções e com o Pix e não custa nada aplicar. O que muda de pedido para pedido é o percentual de cada item e o frete, e os dois aparecem no resumo antes do pagamento."
+      ],
+      "emphasis": "Na primeira compra e nas seguintes vale colar o PRO10EMCASACOMCECILIA no carrinho, desde que você confira a linha Descontos e o frete antes de pagar."
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Como conseguir desconto na primeira compra na Probiótica? O PRO10EMCASACOMCECILIA dá até 10% no site oficial, no primeiro pedido e nos seguintes.",
+        "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial, em todas as formas de pagamento. Cole o código no campo \"Cupom de Desconto\" do carrinho; as condições estão na [página do cupom da Probiótica](/cupons/probiotica).",
+        "Como conseguir desconto na primeira compra na Probiótica? Com esse mesmo código, aplicado no carrinho do site oficial, no primeiro pedido e nos seguintes. O percentual de cada item aparece na linha de descontos.",
         "Qual cupom Probiótica vale para quem já é cliente? O mesmo PRO10EMCASACOMCECILIA, com o mesmo teto de 10%.",
         "O cupom Probiótica soma com o Pix e com as promoções? Sim, com os dois. O percentual do código varia por produto; o exemplo está no capítulo da conta.",
         "O cupom Probiótica vale no Mercado Livre? Não. Ele vale só no site oficial da Probiótica."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você vai fazer o primeiro pedido na Probiótica e quer o código certo antes de pagar.",
+      "Você já comprou lá e quer saber se o mesmo código serve de novo: serve.",
+      "O total do carrinho passa do mínimo de frete grátis da sua região mesmo depois do cupom."
+    ],
+    "skipIf": [
+      "O pedido fica logo acima do mínimo de frete grátis e o cupom o derrubaria abaixo dele: confira o frete antes de pagar.",
+      "Você quer o produto no Mercado Livre, onde o código não vale.",
+      "Você espera 10% cheio em todo produto: o percentual varia por item."
+    ]
+  }
 }

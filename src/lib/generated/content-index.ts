@@ -88392,20 +88392,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Pote azul de Pro Collagen Tangerina da Probiótica, em foto oficial do produto.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "CNPJ ativo nos dados da Receita Federal em 14/10/2026, o mesmo do rodapé do site",
-      "Loja operada pela Supley, do mesmo grupo da Max Titanium e da Dr. Peanut",
-      "Política publicada: 7 dias corridos para arrependimento e 30 dias corridos para comunicar defeito, com coleta e reenvio por conta da Probiótica",
-      "Reputação Boa no Reclame Aqui, com 99% das reclamações dos últimos seis meses respondidas",
-      "Parcelamento em até 6 vezes sem juros e até 5% de desconto no Pix e no boleto, em 14/10/2026"
-    ],
-    "cons": [
-      "O frete grátis depende da região: de R$ 104 na capital paulista a R$ 599 no Norte",
-      "O frete grátis não vale para entrega por Sedex",
-      "Atraso na entrega é o problema mais citado no Reclame Aqui",
-      "Índice de solução de 79,3% entre reclamações finalizadas e avaliadas nos últimos 6 meses",
-      "A ligação com a Supley não aparece no Quem Somos da Probiótica"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Se a Probiótica faz sentido para você, entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% OFF.",
       "label": "Ir para a Probiótica com o cupom",
@@ -88427,7 +88415,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Probiótica é confiável: a loja oficial é operada pela Supley, grupo que também reúne a Max Titanium, publica identificação e política de trocas e tem reputação Boa no Reclame Aqui. Os pontos de atenção são o frete por região e o atraso na entrega; o cupom PRO10EMCASACOMCECILIA dá até 10% OFF."
+          "Sim, a Probiótica é confiável: a loja oficial é operada pela Supley, grupo que também reúne a Max Titanium, publica identificação e política de trocas e tem reputação Boa no Reclame Aqui. Os pontos de atenção são o frete por região e o atraso na entrega; o [cupom Probiótica](/cupons/probiotica) PRO10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -88472,15 +88460,8 @@ export const reviewsData: unknown[] = [
         "heading": "O que a Probiótica vende",
         "paragraphs": [
           "A loja é de suplementos e de itens ligados a eles. O menu da página inicial lista Whey Protein, Creatina, Colágeno, Endurance, Pré-treino, Barras Proteicas, Kits Promocionais e Roupas e Acessórios.",
-          "Este artigo não avalia os produtos. Dizer se um whey ou uma creatina é bom pediria laudo ou teste. Se o suplemento faz sentido para você, é conversa com um médico ou nutricionista. O que dá para verificar é quem vende, se o site é o oficial e o que acontece se você precisar trocar."
-        ],
-        "image": {
-          "src": "/images/reviews/probiotica/probiotica-confiavel-capa.webp",
-          "alt": "Página inicial do site probiotica.com.br em 14/10/2026",
-          "caption": "A página inicial da Probiótica, probiotica.com.br.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+          "O que dá para verificar, em vez do produto em si, é quem vende, se o site é o oficial e o que acontece se você precisar trocar: é o que o resto do artigo mostra."
+        ]
       },
       {
         "heading": "Trocas, devoluções e defeito",
@@ -88562,7 +88543,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação da Probiótica no Reclame Aqui?",
         "paragraphs": [
-          "A página da Probiótica Laboratórios no Reclame Aqui mostrava reputação **Boa**, com nota 7,2 nos últimos seis meses (de abril a setembro), 99% das reclamações respondidas e índice de solução de 79,3% entre as finalizadas e avaliadas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no artigo abaixo."
+          "A página da Probiótica Laboratórios no Reclame Aqui mostrava reputação **Boa**, com nota 7,9 nos últimos seis meses (de maio a outubro), 100% das 98 reclamações respondidas e índice de solução de 85,9% entre as 64 avaliadas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no artigo abaixo."
         ],
         "links": [
           {
@@ -88583,12 +88564,12 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Probiótica e pode receber comissão pelas compras feitas com o cupom **PRO10EMCASACOMCECILIA**. No carrinho do site, o campo onde ele entra se chama \"Cupom de Desconto\".",
-          "O desconto chega a 10% OFF, mas o percentual pode ser menor em alguns produtos, então confira o desconto no carrinho antes de pagar. O cupom vale em todas as formas de pagamento e funciona tanto para conta nova quanto para quem já comprou na loja. As regras completas e as condições atualizadas ficam na [página do cupom da Probiótica](/cupons/probiotica).",
+          "O desconto é de até 10% OFF, e o percentual pode ser menor em alguns produtos, então confira o desconto no carrinho antes de pagar. O cupom vale em todas as formas de pagamento e funciona tanto para conta nova quanto para quem já comprou na loja. As regras completas e as condições atualizadas ficam na [página do cupom da Probiótica](/cupons/probiotica).",
           "O passo a passo do cupom, com o que muda no carrinho, está no artigo abaixo."
         ],
         "links": [
           {
-            "label": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%",
+            "label": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o cupom de até 10% OFF",
             "href": "/reviews/cupom-probiotica-como-usar"
           }
         ]
@@ -88597,30 +88578,32 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena comprar no site da Probiótica?",
         "paragraphs": [
           "Do ponto de vista da confiança, sim. A operação pela Supley, a identificação no rodapé e a política publicada mostram quem vende e quais canais usar. A reputação Boa do Reclame Aqui reflete reclamações já registradas e não garante o resultado de um novo pedido.",
-          "Há dois pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. E o índice de solução é de 79,3% entre as reclamações finalizadas e avaliadas; atraso na entrega é o problema mais citado no Reclame Aqui, então acompanhe o rastreio do pedido."
-        ]
+          "Há dois pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. E o atraso na entrega é o problema mais citado no Reclame Aqui, então acompanhe o rastreio do pedido; o índice de solução é de 85,9% entre as 64 reclamações avaliadas nos últimos seis meses."
+        ],
+        "emphasis": "Pela identificação no rodapé, pela política de trocas publicada e pela reputação Boa, comprar no site oficial da Probiótica faz sentido para quem acompanha o prazo de entrega."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Probiótica é confiável? Sim. A loja oficial é operada pela Supley e publica identificação e política de trocas; a reputação no Reclame Aqui é Boa, com 99% das reclamações respondidas nos últimos seis meses.",
+          "A Probiótica é confiável? Sim. A loja oficial é operada pela Supley e publica identificação e política de trocas; a reputação no Reclame Aqui é Boa, com 100% das reclamações respondidas nos últimos seis meses.",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial, e o percentual pode ser menor em alguns produtos. Cole o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\". Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou. Veja o [cupom Probiótica](/cupons/probiotica).",
           "A Probiótica é da Supley? Sim. A própria Supley lista a Probiótica entre as marcas do grupo, ao lado de Max Titanium, Dr. Peanut e Znack That, e o rodapé da loja traz a razão social da Supley.",
           "A Probiótica é da Max Titanium? Não. As duas são marcas irmãs do mesmo grupo, a Supley, mas a Probiótica não pertence à Max Titanium.",
           "O site da Probiótica é seguro? O endereço oficial é probiotica.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
           "Qual é o CNPJ da Probiótica? O rodapé do site traz o CNPJ 07.578.713/0004-29, da Supley Laboratório de Alimentos e Suplementos Nutricionais Ltda., que consta como ativo nos dados públicos.",
           "Quanto tempo tenho para trocar um produto da Probiótica? São 7 dias corridos a partir do recebimento para o arrependimento, com embalagem original e lacre intacto. Para defeito, a loja informa 30 dias corridos. No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
-          "A Probiótica tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte. Não vale para Sedex.",
-          "Tem cupom de primeira compra na Probiótica? Nosso cupom é o PRO10EMCASACOMCECILIA: dá até 10% OFF, com desconto menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho."
+          "A Probiótica tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte. Não vale para Sedex."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 416,
     "slug": "probiotica-reclame-aqui-nota-reputacao",
     "bodyDatesReason": "reclame-aqui",
     "title": "Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram",
-    "seoTitle": "Probiótica no Reclame Aqui: nota e reclamações",
+    "seoTitle": "Probiótica no Reclame Aqui: nota 7,9 e reclamações",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -88631,8 +88614,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos 6 meses. Veja qual perfil olhar, já que a loja é operada pela Supley, e o que fazer se o pedido falhar.",
-    "metaDescription": "PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. No Reclame Aqui, nota 7,2 nos últimos 6 meses e 79,3% de solução entre as reclamações avaliadas.",
+    "description": "A nota da Probiótica no Reclame Aqui em cinco janelas, o que ela mede, os pontos positivos, o motivo mais citado de reclamação e como falar com a loja se o pedido tiver problema.",
+    "metaDescription": "PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. No Reclame Aqui, nota 7,9 em 6 meses e 85,9% de solução entre as avaliadas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -88641,215 +88624,228 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Pote azul de 100% Pure Beta Alanina de 150 g da Probiótica, em imagem oficial, ao lado da chamada Probiótica no Reclame Aqui.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Reputação Boa no Reclame Aqui, com nota 7,2 nos últimos 6 meses e 7,1 nos últimos 12",
-      "99% das reclamações respondidas nos últimos 6 meses e 99,6% nos últimos 12",
-      "79,3% de solução entre as 58 reclamações avaliadas nos últimos 6 meses",
-      "Avaliações de compra de 4,7 em 5 no topo do perfil"
-    ],
-    "cons": [
-      "Só 55,2% dos consumidores que avaliaram voltariam a fazer negócio",
-      "Nota média do consumidor de 5,9 nos últimos 6 meses e 5,54 nos últimos 12",
-      "Atraso na entrega é o problema mais citado, com 15,62%",
-      "Tempo médio de resposta de cerca de uma semana",
-      "Reclamações de pedidos feitos no site podem estar no perfil da Supley, e não no da Probiótica"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
-      "text": "Se você decidiu comprar na Probiótica, entre pelo link da parceria e use PRO10EMCASACOMCECILIA. O desconto é de até 10% e varia por produto; confira o valor aplicado antes de pagar.",
+      "text": "Se decidiu comprar na Probiótica, entre pelo link da parceria e use o PRO10EMCASACOMCECILIA, de até 10% OFF.",
       "label": "Ir para a Probiótica com o cupom",
       "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
       "sponsored": true
     },
     "coupon": "PRO10EMCASACOMCECILIA",
     "affiliate": "probiotica",
-    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
+    "editorialNote": "Dados do perfil público da Probiótica Laboratórios no Reclame Aqui; este artigo não avalia os produtos. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "probiotica-e-confiavel"
+        "slug": "cupom-probiotica-como-usar"
       },
       {
-        "slug": "cupom-probiotica-como-usar"
+        "slug": "probiotica-e-confiavel"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses, e 55,2% de quem avaliou disseram que voltariam a comprar. A Supley opera a loja e tem perfil próprio; veja abaixo qual perfil olhar. Para comprar, o [cupom Probiótica](/cupons/probiotica) traz o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial."
+          "No Reclame Aqui, a Probiótica Laboratórios tinha reputação Boa, nota 7,9, nos últimos seis meses, com 100% das 98 reclamações respondidas e solução de 85,9% entre as 64 avaliadas. O ponto de atenção é o atraso na entrega. O [cupom Probiótica](/cupons/probiotica) PRO10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
-        "heading": "Por que olhar o Reclame Aqui antes de comprar na Probiótica",
+        "heading": "A nota e os indicadores de cada período",
         "paragraphs": [
-          "Quem compra pela primeira vez quer saber se o pedido chega no prazo e o que acontece se der problema.",
-          "O Reclame Aqui reúne reclamações e avaliações sobre o atendimento. Os índices mostram respostas, solução informada por quem avaliou e intenção de voltar a fazer negócio. A tabela é uma fotografia dos períodos indicados; abra os perfis de novo antes de decidir.",
-          "Este artigo não avalia produto. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. O que dá para ler nos dados públicos é como a empresa lida com as reclamações que recebe."
-        ]
-      },
-      {
-        "heading": "Os números da Probiótica no Reclame Aqui",
-        "paragraphs": [
-          "O topo mostrava reputação **Boa** e avaliações de compra de 4,7 em 5, na categoria Suplementos Alimentares e Fórmulas. A tabela põe lado a lado as abas de 6 e de 12 meses, cada uma com o seu período:"
+          "Consultamos o perfil Probiótica Laboratórios, que está no Reclame Aqui há 17 anos, na categoria Suplementos Alimentares e Fórmulas, e anotamos as cinco janelas que ele mostra: seis meses, 12 meses, os anos de 2025 e 2024 e a aba Geral, que reúne até três anos. Cada coluna vem da aba de mesmo nome, e a de seis meses é a mais recente."
         ],
         "comparisonTable": {
-          "caption": "Perfil Probiótica Laboratórios no Reclame Aqui, abas de 6 e de 12 meses, em 14/10/2026",
+          "caption": "Indicadores da Probiótica Laboratórios no Reclame Aqui por aba de período, lidos em 22/11/2026. A aba de 6 meses vai de 01/05 a 31/10/2026 e a de 12 meses, de 01/11/2025 a 31/10/2026. Solução e voltariam a fazer negócio contam só as reclamações avaliadas.",
           "headers": [
             "Indicador",
-            "6 meses (01/04 a 30/09/2026)",
-            "12 meses (01/10/2025 a 30/09/2026)"
+            "6 meses",
+            "12 meses",
+            "2025",
+            "2024",
+            "Geral"
           ],
           "rows": [
             [
               "Reputação",
-              "Boa, nota 7,2",
-              "Boa, nota 7,1"
+              "Boa, 7,9",
+              "Boa, 7,3",
+              "Boa, 7,7",
+              "Boa, 7,5",
+              "Boa, 7,5"
             ],
             [
               "Reclamações recebidas",
-              "105",
-              "281"
+              "98",
+              "266",
+              "318",
+              "243",
+              "820"
             ],
             [
               "Respondidas",
-              "99% (1 aguardando)",
-              "99,6% (1 aguardando)"
+              "100%",
+              "100%",
+              "99,7%",
+              "98,8%",
+              "98,9%"
             ],
             [
-              "Resolvidas",
-              "79,3%",
-              "76,7%"
+              "Aguardando resposta",
+              "0",
+              "0",
+              "0",
+              "0",
+              "5"
             ],
             [
-              "Voltariam a fazer negócio",
-              "55,2%",
-              "56,4%"
+              "Avaliadas",
+              "64",
+              "169",
+              "182",
+              "128",
+              "467"
             ],
             [
-              "Reclamações avaliadas",
-              "58",
-              "172"
+              "Índice de solução, nas avaliadas",
+              "85,9%",
+              "78,7%",
+              "84,1%",
+              "85,2%",
+              "82,9%"
+            ],
+            [
+              "Voltariam a fazer negócio, nas avaliadas",
+              "65,6%",
+              "60,9%",
+              "63,2%",
+              "57%",
+              "60,8%"
             ],
             [
               "Nota média do consumidor",
-              "5,9",
-              "5,54"
+              "6,66",
+              "5,8",
+              "6,41",
+              "6,09",
+              "6,16"
             ],
             [
               "Tempo médio de resposta",
-              "7 dias",
-              "8 dias e 3 horas"
+              "7 dias e 22 horas",
+              "7 dias e 17 horas",
+              "13 dias e 12 horas",
+              "21 dias e 11 horas",
+              "14 dias e 1 hora"
             ]
           ]
         },
         "postParagraphs": [
-          "A diferença entre as duas janelas é pequena: os indicadores mudam pouco de uma aba para a outra, e o \"voltariam\" e a nota do consumidor ficam nos mesmos patamares nas duas. A leitura mais direta é que a Probiótica responde, resolve a maior parte dos casos, e mesmo assim uma parte grande de quem avaliou não voltaria a fazer negócio."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-6-meses.webp",
-            "alt": "Aba de 6 meses do perfil Probiótica Laboratórios no Reclame Aqui, com dados de 01/04/2026 a 30/09/2026",
-            "caption": "Aba de 6 meses do perfil \"Probiótica Laboratórios\" no Reclame Aqui. O marca-texto amarelo é nosso.",
-            "objectFit": "contain",
-            "aspectRatio": 0.3054
-          },
-          {
-            "src": "/images/reviews/probiotica/probiotica-reclame-aqui-aba-12-meses.webp",
-            "alt": "Aba de 12 meses do perfil Probiótica Laboratórios no Reclame Aqui, com dados de 01/10/2025 a 30/09/2026",
-            "caption": "Aba de 12 meses do mesmo perfil. O marca-texto amarelo é nosso.",
-            "objectFit": "contain",
-            "aspectRatio": 0.3018
-          }
+          "A faixa é Boa em todas as janelas, e a aba de seis meses tem a melhor nota da tabela. O tempo de resposta caiu de 21 dias e 11 horas em 2024 para cerca de uma semana nos períodos mais recentes."
         ]
       },
       {
-        "heading": "O que mais aparece nas reclamações",
+        "heading": "O que a nota e o selo medem, e o que não medem",
         "paragraphs": [
-          "Na aba geral, com reclamações de até 3 anos, o atraso na entrega lidera a lista de problemas:"
+          "A nota do Reclame Aqui mede como a empresa atende quem reclama na plataforma: se responde, se resolve, quanto o consumidor dá ao atendimento e se ele voltaria a comprar. Ela não mede a qualidade do whey, da creatina ou de qualquer outro produto, e muda conforme novas reclamações entram e são avaliadas. A [metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui) explica o cálculo.",
+          "Há duas notas diferentes no perfil. A de 7,9 é a reputação, calculada pela plataforma com os indicadores da tabela. A de 6,66 é a média das notas que os próprios consumidores deram ao atendimento depois de encerrar a reclamação, e nos 12 meses ela cai para 5,8. No topo do perfil há ainda as avaliações de compra, de 4,8 em 5, que são outra coisa: vêm de quem comprou, e não de quem reclamou.",
+          "O perfil não tem o selo RA1000, que exige 90% ou mais de solução entre outros critérios, nem o de Empresa Verificada. Isso descreve o que a plataforma reconhece hoje, e a nota e os indicadores da tabela continuam valendo como leitura do atendimento."
+        ]
+      },
+      {
+        "heading": "Pontos positivos nos dados",
+        "paragraphs": [
+          "Estes são os sinais favoráveis que o perfil mostrava na consulta:"
         ],
         "bullets": [
-          "**Categoria:** Suplementos Alimentares, com 58,3%.",
-          "**Problema:** atraso na entrega, com 15,62%.",
-          "**Produto:** Whey Protein, com 35,67%."
+          "**Respostas.** Nos seis meses e nos 12 meses, 100% das reclamações tiveram resposta, sem nenhuma aguardando. Na aba Geral, 98,9%, com 5 aguardando.",
+          "**Tempo de resposta.** Caiu de 21 dias e 11 horas em 2024 para 7 dias e 22 horas nos seis meses.",
+          "**Faixa e nota.** A reputação é Boa em todas as janelas, com 7,9 nos seis meses.",
+          "**Solução, nas avaliadas.** Entre as 64 reclamações avaliadas nos seis meses, 85,9% foram consideradas resolvidas, e 65,6% dos autores disseram que voltariam a fazer negócio.",
+          "**Compradores e ranking.** As avaliações de compra são de 4,8 em 5, e a empresa aparece em 43º lugar entre as melhores da categoria Suplementos Alimentares e Fórmulas.",
+          "**Tempo de casa.** O perfil está no Reclame Aqui há 17 anos."
+        ]
+      },
+      {
+        "heading": "Pontos de atenção e o que mais gera reclamação",
+        "paragraphs": [
+          "Sem o total de pedidos da Probiótica no mesmo período, as 98 reclamações dos seis meses (266 nos 12 meses) são números absolutos: não viram taxa, e não dá para dizer se são muitas ou poucas para o tamanho da operação.",
+          "Solução e \"voltariam a fazer negócio\" valem só para as reclamações avaliadas: 64 das 98 nos seis meses, e 169 das 266 nos 12 meses. Em nenhum dos casos falam de todos os clientes. O \"voltariam\" é o indicador mais baixo da tabela, e a nota do consumidor nos 12 meses (5,8) também.",
+          "Os motivos de reclamação saem da aba Geral, que reúne até três anos, e não dos seis meses da tabela, então as duas leituras não se misturam. Nela, a categoria Suplementos Alimentares responde por 57,2% dos registros, o atraso na entrega é o problema mais citado, com 16,22%, e o Whey Protein lidera a lista por produto, com 35,49%.",
+          "O Whey Protein é o produto mais citado, mas os números do perfil não permitem concluir que ele tenha mais problemas que os outros itens. Depois de pagar, acompanhe o rastreio e fale com o SAC assim que o prazo informado na compra vencer, sem esperar semanas."
         ],
-        "postParagraphs": [
-          "O atraso na entrega é o problema que mais se repete. Por isso, depois de pagar, acompanhe o rastreio e fale com a loja assim que o prazo informado na compra vencer, sem esperar semanas.",
-          "O Whey Protein é o produto mais citado (35,67%). Os números do perfil não permitem concluir que ele tenha mais problemas que os outros itens."
-        ],
-        "image": "/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas.webp",
-        "imageAlt": "Principais problemas comentados no perfil Probiótica Laboratórios no Reclame Aqui: categoria Suplementos Alimentares com 58,3%, atraso na entrega com 15,62% e Whey Protein com 35,67%",
-        "imageCaption": "Principais problemas comentados no perfil \"Probiótica Laboratórios\", com reclamações de até 3 anos na aba geral. O marca-texto amarelo é nosso.",
-        "imageFit": "contain",
+        "image": "/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas-2211.webp",
+        "imageAlt": "Bloco Principais problemas comentados do perfil Probiótica Laboratórios no Reclame Aqui: Suplementos Alimentares 57,2%, Atraso na entrega 16,22% e Whey Protein 35,49%",
+        "imageCaption": "Principais problemas do perfil Probiótica Laboratórios no Reclame Aqui, aba Geral, com reclamações de até três anos.",
+        "imageFit": "wide",
         "imageAspectRatio": 1.22
       },
       {
-        "heading": "Probiótica ou Supley: qual perfil olhar?",
+        "heading": "Probiótica ou Supley, e como falar com a loja",
         "paragraphs": [
           "Quem pesquisa encontra dois perfis no Reclame Aqui: \"Probiótica Laboratórios\" e \"Supley Laboratório de Alimentos e Suplementos Nutricionais\". A Supley é a empresa que opera a loja: a razão social e o CNPJ do rodapé de probiotica.com.br são dela, e a Probiótica é uma das marcas do grupo.",
-          "Os números deste artigo são só os do perfil da Probiótica Laboratórios; o perfil da Supley tem índices próprios, que não estão aqui. Como uma reclamação de pedido feito no site pode estar em qualquer um dos dois, vale buscar pelos dois nomes antes de decidir."
-        ]
-      },
-      {
-        "heading": "Como a Probiótica responde às reclamações",
-        "paragraphs": [
-          "Nos últimos 6 meses, 99% das reclamações estavam respondidas, com uma aguardando, e a resposta levava em média 7 dias. Entre as 58 reclamações avaliadas, 79,3% foram consideradas resolvidas e 55,2% marcaram que voltariam a fazer negócio. Resposta e solução são indicadores diferentes.",
-          "Só 58 das 105 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor falam de uma parte delas. Esses números mostram como a Probiótica foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
-        ],
-        "image": {
-          "src": "/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp",
-          "alt": "Perfil Probiótica Laboratórios no Reclame Aqui em 14/10/2026: topo com a reputação Boa, em montagem com a aba de 6 meses",
-          "caption": "O topo do perfil da Probiótica no Reclame Aqui e a aba de 6 meses.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Se o seu pedido der problema: o que fazer",
-        "paragraphs": [
-          "A política da loja está nos Termos e Condições do site, e o atendimento é o SAC da Supley, empresa que opera a loja, pelo e-mail sac@supley.com.br. O rodapé do site traz também os telefones (16) 3506-2045, (16) 3506-2046 e 4004-2696. Os prazos e as regras de troca estão detalhados em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel). Em resumo, o caminho é este:"
+          "Os números das seções acima são só os do perfil da Probiótica Laboratórios. O perfil da Supley, que está no Reclame Aqui há 5 anos, tinha nos seis meses reputação Boa, nota 7,3, com 49 reclamações, 100% respondidas, 79,3% de solução entre as 29 avaliadas e 62,1% dos autores dispostos a voltar a comprar. É uma base pequena, que mostra tendência e não garantia. Como uma reclamação de pedido feito no site pode estar em qualquer um dos dois perfis, vale buscar pelos dois nomes.",
+          "O atendimento é o SAC da Supley, pelo e-mail sac@supley.com.br, e o rodapé do site traz também os telefones (16) 3506-2045, (16) 3506-2046 e 4004-2696. Os prazos e as regras de troca estão em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel). Em resumo, o caminho é este:"
         ],
         "bullets": [
           "**Pedido atrasado:** acompanhe o rastreio e guarde o número do pedido. O prazo de entrega é contado em dias úteis e aparece na hora da compra. Quando ele vencer, escreva para o SAC com o número do pedido, sem esperar semanas.",
           "**Arrependimento:** são 7 dias corridos a partir do recebimento. O produto precisa estar na embalagem original, com o lacre intacto, e o pedido vai por e-mail para o SAC, com o número do pedido e a nota fiscal. O reembolso é integral, com o frete pago na compra.",
           "**Defeito:** são 30 dias corridos para comunicar. A loja analisa o caso, e a coleta e o reenvio ficam por conta da Probiótica. Depois da análise, você escolhe entre a troca do produto, o dinheiro de volta ou um cupom.",
           "**Cartão:** o estorno vem numa vez só, na fatura seguinte ou na outra.",
-          "**Se o atendimento direto não resolver:** abra uma reclamação no Reclame Aqui e, depois da resposta, você pode avaliar se o problema foi resolvido. Reclamações de pedidos feitos no site podem estar no perfil da Supley, e não no da Probiótica."
+          "**O que guardar:** número do pedido, nota fiscal, fotos da embalagem e do produto ao abrir e as mensagens trocadas com o SAC."
         ],
         "postParagraphs": [
           "Se o problema for mal-estar depois de consumir o produto, pare de usar, procure um profissional de saúde e avise o SAC."
         ]
       },
       {
-        "heading": "Parceria e cupom",
+        "heading": "Vale a pena comprar na Probiótica?",
         "paragraphs": [
-          "O Em Casa com Cecília tem parceria com a Probiótica e pode receber comissão pelas compras feitas com o cupom **PRO10EMCASACOMCECILIA**. Isso não mexe nos números deste artigo, que são todos do perfil público da empresa no Reclame Aqui.",
-          "O cupom dá até 10% OFF, e em alguns produtos o desconto é menor, então confira o valor no carrinho antes de pagar. Ele vale em todas as formas de pagamento e funciona para conta nova e para quem já comprou na loja. Os detalhes atualizados estão na [página do cupom da Probiótica](/cupons/probiotica), e o passo a passo no carrinho, no artigo [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar)."
-        ]
-      },
-      {
-        "heading": "Dá para confiar na Probiótica?",
-        "paragraphs": [
-          "Nos últimos 6 meses, a reputação foi Boa, nota 7,2, com 99% das reclamações respondidas. Entre as 58 avaliadas, 79,3% registraram solução e 55,2% disseram que voltariam a fazer negócio.",
-          "Antes de decidir, confira o perfil da Probiótica Laboratórios e também o da Supley, que opera a loja. Os índices resumem quem usou o Reclame Aqui; não antecipam o resultado de um pedido. Para conhecer a empresa e os procedimentos de atendimento, veja [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel)."
+          "Pelo Reclame Aqui, a loja responde a todas as reclamações dos últimos 12 meses, tem faixa Boa em todas as janelas consultadas e resolve 85,9% das avaliadas nos seis meses. O ponto de atenção é o atraso na entrega, o problema mais citado na aba Geral, e a nota do consumidor nos 12 meses, de 5,8. Ao fechar o pedido, acompanhe o rastreio e guarde a nota fiscal.",
+          "Se decidir comprar, o [cupom Probiótica](/cupons/probiotica) PRO10EMCASACOMCECILIA dá até 10% OFF no site oficial. O percentual varia por produto, então confira a linha \"Descontos\" no resumo do carrinho antes de pagar. Para aplicar, cole o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\". Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou. O passo a passo está em [como usar o cupom de até 10% OFF](/reviews/cupom-probiotica-como-usar), e para saber quem opera a loja e como funcionam as trocas, veja [se a Probiótica é confiável](/reviews/probiotica-e-confiavel)."
+        ],
+        "emphasis": "Pelos dados do perfil, a Probiótica responde a todas as reclamações e resolve a maior parte das que são avaliadas, então comprar com o cupom faz sentido para quem acompanha o rastreio do pedido.",
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+            "alt": "Pote azul do Hiper 100% Whey da Probiótica, 900 g, sabor chocolate, em foto oficial de frente.",
+            "caption": "Hiper 100% Whey de 900 g, um dos itens da loja. Foto: Probiótica.",
+            "objectFit": "square",
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Hiper 100% Whey 900 g na Probiótica",
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom Probiótica",
+            "href": "/cupons/probiotica"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Probiótica é confiável segundo o Reclame Aqui? O perfil Probiótica Laboratórios mostrava reputação Boa, com nota 7,2 nos últimos 6 meses. O ponto fraco é que só 55,2% dos consumidores que avaliaram voltariam a fazer negócio.",
-          "Qual a nota da Probiótica no Reclame Aqui? Nota 7,2 nos últimos 6 meses e 7,1 nos últimos 12 meses, ambas na faixa Boa. A nota do consumidor, dada por quem avaliou o atendimento, era 5,9 e 5,54.",
-          "A Probiótica responde às reclamações? Sim. O perfil mostrava 99% das reclamações respondidas nos últimos 6 meses e 99,6% nos últimos 12, com resposta em cerca de uma semana.",
+          "Qual a nota da Probiótica no Reclame Aqui? Na aba de seis meses, a reputação é Boa, com nota 7,9. Nos 12 meses é Boa, com 7,3. A média que os consumidores deram ao atendimento nos seis meses é 6,66.",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial. Cole o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; o percentual varia por produto e aparece na linha \"Descontos\". Ele vale em todas as formas de pagamento. Veja o [cupom Probiótica](/cupons/probiotica).",
+          "A Probiótica tem o selo RA1000 ou Empresa Verificada? Não. O perfil não mostra nenhum dos dois selos, mas tem 17 anos de cadastro e responde às reclamações.",
+          "A Probiótica responde e resolve as reclamações? Nos seis meses, respondeu 100% das 98 reclamações, em média em 7 dias e 22 horas. Entre as 64 avaliadas, 85,9% foram consideradas resolvidas.",
+          "Quais as reclamações mais comuns da Probiótica? Na aba Geral, o atraso na entrega é o problema mais citado, com 16,22%, e o Whey Protein é o produto mais citado, com 35,49%.",
           "Por que há dois perfis, Probiótica e Supley? A Supley é a empresa que opera a loja, e a razão social e o CNPJ do rodapé do site são dela, enquanto Probiótica é a marca. Por isso uma reclamação sobre um pedido do site pode estar em qualquer um dos dois perfis, e vale buscar pelos dois nomes.",
-          "O que fazer se o pedido da Probiótica atrasar? Acompanhe o rastreio e, quando o prazo de entrega informado na compra vencer, escreva para o SAC em sac@supley.com.br com o número do pedido. Se não resolver, abra uma reclamação no Reclame Aqui.",
-          "Como pedir troca ou reembolso na Probiótica? No arrependimento, são 7 dias corridos do recebimento, com embalagem original e lacre intacto, e o pedido vai por e-mail para sac@supley.com.br com o número do pedido e a nota fiscal. Em caso de defeito, são 30 dias corridos para comunicar, com coleta paga pela loja."
+          "O que fazer se o pedido da Probiótica atrasar? Acompanhe o rastreio e, quando o prazo de entrega informado na compra vencer, escreva para o SAC em sac@supley.com.br com o número do pedido e a nota fiscal, e guarde as mensagens trocadas."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 417,
     "slug": "cupom-probiotica-como-usar",
     "title": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% de desconto",
-    "seoTitle": "Onde colar o PRO10EMCASACOMCECILIA no carrinho da Probiótica (passo a passo)",
+    "seoTitle": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -88861,27 +88857,18 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF em todo o site da Probiótica. Veja o passo a passo no carrinho e como o frete grátis muda conforme a região onde você mora.",
-    "metaDescription": "Passo a passo para aplicar o PRO10EMCASACOMCECILIA no carrinho da Probiótica: onde digitar, a linha Descontos e o frete grátis por região.",
+    "metaDescription": "Como usar o PRO10EMCASACOMCECILIA na Probiótica: até 10% OFF, onde colar no carrinho, a linha Descontos e o frete grátis por região.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/probiotica/cupom-probiotica-como-usar-capa-v2.webp",
     "imageAlt": "Pote NITR4T00 Beterraba com Laranja da Probiótica em foto oficial, ao lado do código PRO10EMCASACOMCECILIA.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Até 10% OFF em todo o site, em todas as formas de pagamento",
-      "Vale para conta nova e para quem já comprou na loja",
-      "O resumo do pedido mostra a linha Descontos antes do pagamento",
-      "Código digitado no campo Cupom de Desconto do carrinho"
-    ],
-    "cons": [
-      "O desconto é menor em alguns produtos: no nosso teste, cerca de 8% do carrinho",
-      "Não dá frete grátis: o mínimo muda por região, de R$ 104 a R$ 599",
-      "Se o cupom deixar o total abaixo do mínimo da região, o frete volta a ser cobrado",
-      "Não sabemos quais categorias ou itens ficam abaixo de 10%"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Entre na Probiótica pelo link da parceria e digite o PRO10EMCASACOMCECILIA no carrinho. Confira a linha Descontos antes de pagar.",
       "label": "Ir para a Probiótica com o cupom",
@@ -88893,10 +88880,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no carrinho oficial, sem laudo nem teste dos produtos. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "probiotica-e-confiavel"
+        "slug": "black-friday-probiotica"
       },
       {
-        "slug": "probiotica-reclame-aqui-nota-reputacao"
+        "slug": "whey-probiotica-qual-escolher"
+      },
+      {
+        "slug": "cupom-probiotica-primeira-compra"
       }
     ],
     "contentSections": [
@@ -88910,26 +88900,14 @@ export const reviewsData: unknown[] = [
         "heading": "O que é o cupom PRO10EMCASACOMCECILIA",
         "paragraphs": [
           "O PRO10EMCASACOMCECILIA é o código da parceria com a Probiótica: dá até 10% OFF e entra no campo \"Cupom de Desconto\" do carrinho.",
-          "O desconto chega a **10% OFF**, mas varia por produto: nem todo item recebe os 10%. O número que vale é o que a loja mostra na linha \"Descontos\" do seu pedido. O teste do passo 4 mostra isso num carrinho misto.",
+          "O desconto chega a **10% OFF**, mas varia por produto: nem todo item recebe os 10%. O número que vale é o que a loja mostra na linha \"Descontos\" do seu pedido. O teste do passo 3 mostra isso num carrinho misto.",
           "O Em Casa com Cecília pode receber comissão pelas compras feitas com esse cupom."
-        ],
-        "image": {
-          "src": "/images/reviews/probiotica/probiotica-cupom-capa.webp",
-          "alt": "Montagem do checkout da Probiótica com o código PRO10EMCASACOMCECILIA digitado no campo Cupom de Desconto e o desconto aplicado no resumo do pedido",
-          "caption": "O código no campo Cupom de Desconto e, ao lado, o desconto já aplicado no resumo do pedido.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "1. Entre no site pelo link da parceria",
-        "paragraphs": [
-          "Use o botão da Probiótica desta página para abrir o site oficial. O código você digita no carrinho, no passo 3."
         ]
       },
       {
-        "heading": "2. Monte o carrinho",
+        "heading": "1. Entre no site pelo link da parceria e monte o carrinho",
         "paragraphs": [
+          "Abra o [site oficial da Probiótica](https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) pelo link da parceria ou pelo botão desta página. O código você digita no carrinho, no passo 2.",
           "Escolha os produtos no site e abra o carrinho. Na tela do carrinho, cada item mostra a foto, o nome, a quantidade e o preço, e do lado direito fica o resumo do pedido, com o campo \"Cupom de Desconto\", o subtotal e o total.",
           "No nosso teste, o carrinho tinha quatro produtos: um kit de colágeno, uma creatina que estava em promoção (o print mostra o preço antigo riscado e o novo), uma camiseta e uma barra de proteína.",
           "Nessa tela, antes de digitar qualquer coisa, olhe o subtotal e compare com o mínimo de frete grátis da sua região, na tabela abaixo."
@@ -88941,10 +88919,10 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.2844
       },
       {
-        "heading": "3. Digite PRO10EMCASACOMCECILIA em \"Cupom de Desconto\" e clique em \"Adicionar\"",
+        "heading": "2. Digite PRO10EMCASACOMCECILIA em \"Cupom de Desconto\" e clique em \"Adicionar\"",
         "paragraphs": [
           "Digite o código **PRO10EMCASACOMCECILIA** no campo \"Cupom de Desconto\", no alto do lado direito do carrinho, e clique em \"Adicionar\". Copiar o código pelo botão desta página evita erro de digitação.",
-          "No print, o código aparece no campo, mas cortado: o campo é estreito e só mostra o começo do texto, \"PRO10EMCASACOMCE\". O código inteiro está lá, e a prova vem no próximo passo, quando a loja o exibe completo depois de aceito.",
+          "No print, o código aparece no campo, mas cortado: o campo é estreito e só mostra o começo do texto, \"PRO10EMCASACOMCE\". O código inteiro está lá, e a prova vem no passo 3, quando a loja o exibe completo depois de aceito.",
           "Até clicar em \"Adicionar\", nada muda: o subtotal e o total seguem iguais, como no print. O desconto só entra depois do clique."
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-02-codigo-digitado.webp",
@@ -88954,10 +88932,11 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.307
       },
       {
-        "heading": "4. Confira a linha \"Descontos\" antes de pagar",
+        "heading": "3. Confira a linha \"Descontos\" antes de pagar",
         "paragraphs": [
           "Depois do clique, o resumo do pedido muda. O código aparece no lugar do campo, com um X ao lado, e surge uma linha nova, \"Descontos\", entre o subtotal e o total, com o valor abatido em reais e com sinal de menos.",
-          "No teste, a linha \"Descontos\" mostrou R$ 54,75 sobre um subtotal de R$ 659,35, cerca de 8% do carrinho. O cupom oferece até 10%, com variação por produto. Por isso, não dá para afirmar que um produto específico recebe os 10%.",
+          "No teste, a linha \"Descontos\" mostrou R$ 54,75 sobre um subtotal de R$ 659,35, cerca de 8% do carrinho, com uma creatina em promoção no meio dos itens.",
+          "Em outro teste, de 11/11, o Hiper 100% Whey de 900 g saiu de R$ 124,90 em promoção para R$ 116,16 com o código, 7% a menos. Nas creatinas e nos demais wheys testados em novembro, o código tirou 2%. O cupom oferece até 10%, e o percentual muda de produto para produto.",
           "Confira a linha \"Descontos\" e o total antes de pagar. Compare o valor abatido com o subtotal para conhecer o percentual efetivo do seu carrinho."
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
@@ -88969,7 +88948,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis com o cupom: confira o mínimo da sua região",
         "paragraphs": [
-          "A Probiótica dá frete grátis a partir de um valor de pedido que depende da região do CEP. Em 14/10/2026, a política de frete grátis do site trazia estes valores:"
+          "A Probiótica dá frete grátis a partir de um valor de pedido que depende da região do CEP. A política do site traz estes valores:"
         ],
         "comparisonTable": {
           "caption": "Valor de pedido para frete grátis da Probiótica por região, segundo a política do site",
@@ -89011,11 +88990,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Pix, primeira compra e outros cupons",
+        "heading": "Pix, primeira compra e brindes",
         "paragraphs": [
-          "O PRO10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. A página inicial da Probiótica anunciava parcelamento em até 6 vezes sem juros no cartão e até 5% de desconto no Pix e no boleto. O percentual do Pix e do boleto é da loja, e pode mudar: confira o percentual na hora de pagar.",
+          "O PRO10EMCASACOMCECILIA vale em **todas as formas de pagamento** da loja. A faixa do site anuncia parcelamento em até 6 vezes sem juros no cartão e até 5% de desconto no Pix e no boleto. Esse percentual é da loja e varia por produto: em alguns carrinhos de novembro, o Pix saiu igual ao cartão. Confira o valor na hora de pagar.",
           "Também não importa se é a sua primeira compra. O cupom vale para conta nova e para quem já comprou, na primeira compra e nas seguintes.",
-          "Se o pedido tiver brinde, os Termos e Condições da loja contavam o valor final pago, já com o desconto do cupom."
+          "Se o pedido tiver brinde, a loja conta o valor final pago, já com o desconto do cupom: a squeeze aparece por volta de R$ 235, e o galão, a toalha e a monodose, acima de R$ 299,90."
         ]
       },
       {
@@ -89034,8 +89013,20 @@ export const reviewsData: unknown[] = [
           "Roupas e Acessórios"
         ],
         "postParagraphs": [
-          "Não avaliamos produto aqui: dizer se um item é bom pediria laudo ou teste. Se o suplemento faz sentido para você, é conversa com um médico ou nutricionista.",
-          "Nenhuma fonte nossa diz quais categorias ou itens ficam abaixo de 10%: a linha \"Descontos\" mostra só o total do pedido."
+          "Nos nossos testes de cupom, o carrinho levou o [Hiper 100% Whey de 900 g](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e a [Creatina Monohidratada Pura de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). A escolha entre as versões está em [Whey Probiótica: qual escolher](/reviews/whey-probiotica-qual-escolher) e em [Creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa).",
+          "A linha \"Descontos\" mostra só o total do pedido, então o percentual de cada item vem da conta do carrinho."
+        ],
+        "links": [
+          {
+            "label": "Ver o Hiper 100% Whey na Probiótica",
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Creatina 300 g na Probiótica",
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -89048,7 +89039,7 @@ export const reviewsData: unknown[] = [
           "**Defeito:** 30 dias corridos para comunicar. A loja analisa o caso, e a coleta e o reenvio ficam por conta da Probiótica."
         ],
         "postParagraphs": [
-          "Os 7 dias correm do recebimento, e não da data da compra. Guarde a nota fiscal e abra o pedido assim que perceber o problema. O quadro completo de trocas, devoluções e defeito está em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel). Os números da loja no Reclame Aqui estão em [Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/probiotica-reclame-aqui-nota-reputacao)."
+          "Os 7 dias correm do recebimento, e não da data da compra. Guarde a nota fiscal e abra o pedido assim que perceber o problema, pelo SAC da loja, com o número do pedido."
         ]
       },
       {
@@ -89056,21 +89047,34 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se você já ia comprar na Probiótica, sim: o cupom vale em todo o site e dá até 10% OFF, menos em alguns produtos, como no nosso teste. Duas conferências evitam surpresa: a linha \"Descontos\" antes de pagar e, perto do mínimo do frete grátis da sua região, o total depois do cupom.",
           "As condições atualizadas do código ficam na [página do cupom da Probiótica](/cupons/probiotica)."
-        ]
+        ],
+        "emphasis": "Para quem já vai comprar na Probiótica, vale colar o código no carrinho: não custa nada e a linha Descontos mostra o desconto real antes de você pagar."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Probiótica? O cupom da nossa parceria é o PRO10EMCASACOMCECILIA, que dá até 10% OFF no site oficial, probiotica.com.br. Em alguns produtos o desconto é menor, então confira a linha \"Descontos\" no carrinho antes de pagar.",
-          "Tem cupom de primeira compra na Probiótica? Sim. O PRO10EMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\".",
-          "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja. A condição de pagamento do site, como o desconto de até 5% no Pix e no boleto anunciado no site, é da própria Probiótica.",
-          "Por que o cupom não deu 10% em todos os produtos? Porque o desconto varia por produto: o cupom dá até 10% OFF, e em alguns itens o percentual é menor. O total do carrinho pode ficar abaixo de 10%, e a linha \"Descontos\" mostra o valor abatido no seu pedido.",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial, probiotica.com.br. Cole o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; as condições estão na [página do cupom da Probiótica](/cupons/probiotica).",
+          "Tem cupom de primeira compra na Probiótica? Sim: o mesmo código vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou.",
+          "O cupom vale em todas as formas de pagamento? Sim. O desconto de até 5% no Pix e no boleto anunciado no site é da própria Probiótica e varia por produto.",
+          "Por que o cupom não deu 10% em todos os produtos? Porque o desconto varia por produto: o cupom dá até 10% OFF, e em alguns itens o percentual é menor. A linha \"Descontos\" mostra o valor abatido no seu pedido.",
           "O cupom da Probiótica dá frete grátis? Não. O frete grátis é uma regra da loja, que depende do valor do pedido e da região, de R$ 104 na capital de São Paulo a R$ 599 no Norte, e não vale no Sedex. Se o cupom deixar o total abaixo do mínimo da sua região, o frete volta a ser cobrado.",
-          "Tem cupom para whey da Probiótica? Sim: o PRO10EMCASACOMCECILIA vale no site oficial, que tem a categoria Whey Protein no menu. O desconto chega a 10% e é menor em alguns produtos; não testamos o whey, então confira a linha \"Descontos\" no carrinho.",
+          "Tem cupom para whey da Probiótica? Sim: o código vale no site oficial, que tem a categoria Whey Protein no menu. No teste de novembro, o Hiper 100% Whey em promoção recebeu 7%; confira a linha \"Descontos\" no carrinho.",
           "Onde o cupom vale? No site oficial da Probiótica, o probiotica.com.br, onde o código é digitado no carrinho."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você já tem whey, creatina ou colágeno na lista e vai comprar no site oficial da Probiótica.",
+        "Você quer ver o desconto de cada item na linha Descontos antes de escolher Pix, boleto ou cartão.",
+        "O total do carrinho passa do mínimo de frete grátis da sua região mesmo depois do cupom."
+      ],
+      "skipIf": [
+        "O pedido fica logo acima do mínimo de frete grátis e o cupom o derrubaria abaixo dele: compare o frete antes de aplicar.",
+        "Você espera 10% cheio em todo item: o percentual varia por produto e pode ser bem menor.",
+        "Você quer comprar pelo Mercado Livre, onde o código não vale."
+      ]
+    }
   },
   {
     "id": 418,
@@ -89091,35 +89095,24 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. A marca é confiável? Veja o CNPJ, de quem ela é, as regras de troca, o frete e o Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dr-peanut/dr-peanut-e-confiavel-capa-v2.webp",
     "imageAlt": "Colher com pasta de amendoim sobre pote aberto de Bombom Italiano, em cena promocional oficial da Dr. Peanut, ao lado da pergunta Dr. Peanut é confiável?.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "CNPJ ativo desde 02/08/2017, o mesmo que aparece no rodapé do site junto com o endereço",
-      "Fábrica brasileira de Curitiba (PR), ligada ao grupo Supley",
-      "Políticas de troca e de frete publicadas no site, com prazo e valor escritos",
-      "Arrependimento em 7 dias corridos, com reembolso integral e devolução paga pela loja",
-      "Reputação Ótima (nota 8,1) nos últimos 12 meses no Reclame Aqui"
-    ],
-    "cons": [
-      "Na troca por outro produto, o frete de ida e o de volta são seus",
-      "O frete grátis depende do mínimo da região e o valor conta depois do cupom",
-      "Reputação Boa (nota 7,4) nos últimos 6 meses, abaixo da de 12 meses",
-      "A política de trocas não informa prazo para a troca por outro produto"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Dr. Peanut é confiável: marca brasileira de Curitiba, com CNPJ ativo e ligação à Supley, o mesmo grupo da Max Titanium. O Reclame Aqui mostra reputação Boa nos últimos 6 meses e Ótima nos últimos 12. Frete grátis e troca têm regras próprias; o [cupom Dr. Peanut](/cupons/dr-peanut) traz o DREMCASACOMCECILIA, 10% OFF em todo o site."
+          "Sim, a Dr. Peanut é confiável: marca brasileira de Curitiba, com CNPJ ativo e ligação à Supley, o mesmo grupo da Max Titanium. O Reclame Aqui mostra reputação Boa nos últimos 6 e 12 meses. Frete grátis e troca têm regras próprias; o [cupom Dr. Peanut](/cupons/dr-peanut) traz o DREMCASACOMCECILIA, 10% OFF em todo o site."
         ]
       },
       {
-        "heading": "De quem é a Dr. Peanut? É brasileira?",
+        "heading": "A empresa por trás da Dr. Peanut",
         "paragraphs": [
           "A Dr. Peanut é uma marca brasileira, de Curitiba, no Paraná. A empresa por trás dela é a Body Food Fabricantes de Alimentos Saudáveis Ltda., que usa \"DR PEANUT\" como nome fantasia. O CNPJ é 28.324.667/0001-69 e o endereço da matriz, o mesmo que o site mostra no rodapé, é Rua Martha Gembaroski Tuleski, 320, no bairro CIC, em Curitiba/PR.",
           "No cadastro público do CNPJ, em 14/10/2026, a situação cadastral é ativa, com início das atividades em 02/08/2017. A atividade principal registrada é \"Fabricação de outros produtos alimentícios não especificados anteriormente\", ou seja, a empresa é cadastrada como fábrica, e não apenas como revendedora.",
@@ -89128,10 +89121,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "A Dr. Peanut é da Max Titanium?",
+        "heading": "Dr. Peanut e Max Titanium: marcas do mesmo grupo",
         "paragraphs": [
           "Não. As duas são marcas irmãs, do mesmo grupo Supley. No site do grupo, a Supley se apresenta com Max Titanium, Probiótica, Dr. Peanut e Znack That.",
-          "A ligação aparece até no catálogo. Na loja da Dr. Peanut existe o produto \"100% Whey Dr. Peanut 900g - Max Titanium\", com o nome das duas marcas. O ponto em comum é o grupo: a Dr. Peanut tem CNPJ próprio, o da Body Food, em que a Supley é sócia."
+          "A ligação aparece até no catálogo. Na loja da Dr. Peanut existe o produto [100% Whey Dr. Peanut 900g - Max Titanium](https://www.drpeanut.com.br/whey-dr-peanut/p), com o nome das duas marcas. O ponto em comum é o grupo: a Dr. Peanut tem CNPJ próprio, o da Body Food, em que a Supley é sócia."
         ],
         "links": [
           {
@@ -89164,22 +89157,23 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Dr. Peanut é conhecida pelas pastas de amendoim e tem mais categorias na loja. O menu do site traz Pastas de Amendoim, Snacks e Whey Protein, e a loja vende também alfajores:"
         ],
-        "image": {
-          "src": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa.webp",
-          "alt": "Página inicial do site da Dr. Peanut (drpeanut.com.br)",
-          "caption": "A página inicial do site da Dr. Peanut, drpeanut.com.br.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "bullets": [
-          "**Pastas de amendoim**, a categoria que dá nome à marca, em sabores como Bombom Italiano.",
+          "**Pastas de amendoim**, a categoria que dá nome à marca, em sabores como [Bombom Italiano](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-bombom-italiano/p).",
           "**Alfajores.**",
           "**Snacks.**",
-          "**Whey**, inclusive o \"100% Whey Dr. Peanut 900g - Max Titanium\"."
+          "**Whey**, inclusive o [100% Whey Dr. Peanut 900g - Max Titanium](https://www.drpeanut.com.br/whey-dr-peanut/p)."
         ],
         "postParagraphs": [
-          "A política de defeito da loja cita roupas, acessórios e coqueteleiras, com prazo de 90 dias (veja a seção de trocas). Isso vem do texto da política, e não confirmamos que a loja venda esses itens hoje.",
-          "Este guia trata de confiança na loja: quem é a empresa, como comprar e o que fazer se algo der errado. Não avaliamos sabor nem composição de nenhum produto, e não fazemos afirmações sobre saúde, dieta ou desempenho. Para isso, a referência é o rótulo de cada produto."
+          "A política de defeito da loja cita roupas, acessórios e coqueteleiras, com prazo de 90 dias (veja a seção de trocas). Isso vem do texto da política, e não confirmamos que a loja venda esses itens hoje."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-pasta-pistache-600g.webp",
+            "alt": "Pote de 600 g da pasta de amendoim Dr. Peanut sabor Pistache, em foto oficial da marca",
+            "caption": "Pasta de amendoim Pistache, pote de 600 g. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p"
+          }
         ]
       },
       {
@@ -89248,9 +89242,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "E a reputação no Reclame Aqui?",
+        "heading": "A reputação no Reclame Aqui",
         "paragraphs": [
-          "No Reclame Aqui, a Dr. Peanut tem reputação **Boa** nos últimos 6 meses (nota 7,4) e **Ótima** nos últimos 12 meses (nota 8,1). Os números, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no nosso artigo sobre o assunto. Uma nota alta não garante que o seu pedido dê certo."
+          "No Reclame Aqui, a Dr. Peanut tem reputação **Boa**, nota 7,9, tanto nos últimos 6 meses quanto nos últimos 12, e respondeu 100% das reclamações nos dois períodos. A entrega lidera as queixas do perfil. Os números, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no nosso artigo sobre o assunto. Uma nota alta não garante que o seu pedido dê certo."
         ],
         "links": [
           {
@@ -89275,14 +89269,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Dr. Peanut?",
         "paragraphs": [
-          "Do ponto de vista da confiança, sim. O CNPJ está ativo desde 2017, a empresa é uma fábrica brasileira, está ligada à Supley e mostra no rodapé o CNPJ e o endereço. As regras de troca e de frete estão escritas com número e prazo, e o arrependimento sai sem custo para você.",
-          "Os cuidados são pontuais. A troca por outro produto tem o frete por sua conta, então vale conferir o sabor ou o item antes de fechar o carrinho. O frete grátis depende do mínimo da sua região, contado depois do cupom. E, no Reclame Aqui, a reputação dos últimos 6 meses (Boa, 7,4) ficou abaixo da de 12 meses (Ótima, 8,1). Se você já pretendia comprar, vale usar o cupom e conferir o carrinho antes de pagar."
+          "O CNPJ está ativo desde 2017, a empresa é uma fábrica brasileira ligada à Supley e mostra o CNPJ e o endereço no rodapé. As regras de troca e de frete estão escritas com número e prazo, e o arrependimento sai sem custo para você.",
+          "Os cuidados são pontuais. A troca por outro produto tem o frete por sua conta, então vale conferir o sabor ou o item antes de fechar o carrinho. O frete grátis depende do mínimo da sua região, contado depois do cupom. E, no Reclame Aqui, a entrega lidera as queixas: guarde o número do pedido e acompanhe o rastreio. Se você já pretendia comprar, use o cupom e confira o carrinho antes de pagar."
+        ],
+        "emphasis": "Do ponto de vista da confiança, dá para comprar na Dr. Peanut pelo site oficial, desde que você confira o sabor antes de fechar o carrinho e o frete grátis depois do cupom.",
+        "links": [
+          {
+            "label": "Ir para o site oficial da Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Dr. Peanut é confiável? Sim. A empresa tem CNPJ ativo, fábrica em Curitiba e a Supley como sócia, com políticas de compra publicadas. No Reclame Aqui, a reputação é Boa nos últimos 6 meses e Ótima nos últimos 12; confira períodos e condições antes de comprar.",
+          "A Dr. Peanut é confiável? Sim. A empresa tem CNPJ ativo, fábrica em Curitiba e a Supley como sócia, com políticas de compra publicadas. No Reclame Aqui, a reputação é Boa nos últimos 6 e 12 meses; confira períodos e condições antes de comprar.",
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, para cliente novo e antigo e em todas as formas de pagamento. Cole o código no campo “Insira o seu cupom abaixo” do carrinho e clique em “Adicionar”. As condições estão na página do [cupom Dr. Peanut](/cupons/dr-peanut).",
           "A Dr. Peanut é brasileira? Sim. A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., com matriz em Curitiba (PR) e atividade de fabricação de produtos alimentícios no CNPJ.",
           "A Dr. Peanut é da Max Titanium? Não: as duas são marcas irmãs, ligadas à mesma empresa, a Supley. O site da Dr. Peanut chega a vender um whey que leva o nome das duas.",
           "De quem é a Dr. Peanut? A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., e a Supley Laboratório de Alimentos e Suplementos Nutricionais aparece como sócia no CNPJ. A Supley reúne também Max Titanium, Probiótica e Znack That.",
@@ -89290,7 +89293,7 @@ export const reviewsData: unknown[] = [
           "Qual é o CNPJ da Dr. Peanut? É 28.324.667/0001-69, da Body Food Fabricantes de Alimentos Saudáveis Ltda., com sede na Rua Martha Gembaroski Tuleski, 320, no bairro CIC, em Curitiba (PR).",
           "Posso trocar um produto da Dr. Peanut? Pode. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Por defeito, são 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras. Na troca por outro produto, o frete de ida e de volta é seu.",
           "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o valor depois do cupom.",
-          "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA dá 10% OFF em todo o site e vale na primeira compra e nas seguintes, em todas as formas de pagamento e somando com as promoções. A [página do cupom da Dr. Peanut](/cupons/dr-peanut) traz as condições atuais."
+          "O cupom da Dr. Peanut vale na primeira compra? Vale, e também nas seguintes: o código serve para cliente novo e antigo e soma com as promoções do site."
         ]
       }
     ],
@@ -89309,6 +89312,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "cupom-dr-peanut-como-usar"
+      },
+      {
+        "slug": "dr-peanut-e-boa"
       }
     ]
   },
@@ -89316,7 +89322,7 @@ export const reviewsData: unknown[] = [
     "id": 419,
     "slug": "dr-peanut-reclame-aqui-nota-reputacao",
     "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram",
-    "seoTitle": "Dr. Peanut no Reclame Aqui: nota e reclamações",
+    "seoTitle": "Dr. Peanut no Reclame Aqui: nota 7,9 e reclamações",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
@@ -89327,247 +89333,221 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Dá para confiar na Dr. Peanut? Os números do Reclame Aqui, com reputação Boa em 6 meses e Ótima em 12, onde as queixas se concentram e o que fazer se o pedido der problema.",
-    "metaDescription": "Com o DREMCASACOMCECILIA, 10% OFF na Dr. Peanut: a reputação no Reclame Aqui, Boa (7,4) em 6 meses e Ótima (8,1) em 12.",
+    "description": "A nota da Dr. Peanut no Reclame Aqui em cinco janelas, o que ela e o selo do rodapé medem, os pontos positivos, o que mais gera reclamação e como falar com a loja.",
+    "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF na Dr. Peanut. Veja a nota 7,9 no Reclame Aqui, o que mais gera reclamação e como falar com a loja.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-nota-reputacao-capa-v2.webp",
     "imageAlt": "Alfajores Leite em Pó da Dr. Peanut empilhados, com um deles aberto e parte da embalagem à vista em cena promocional oficial sobre fundo amarelo, ao lado da chamada Dr. Peanut no Reclame Aqui e do apoio Entrega e atendimento.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Reputação Ótima (nota 8,1) nos últimos 12 meses",
-      "95,6% das reclamações respondidas nos últimos 6 meses",
-      "84,2% das reclamações avaliadas foram resolvidas nos últimos 6 meses",
-      "Menos reclamações: 68 nos últimos 6 meses, contra cerca de 121 nos 6 meses anteriores",
-      "Resposta mais rápida: 7 dias e 7 horas nos últimos 6 meses, contra 10 a 11 dias nos períodos mais longos"
-    ],
-    "cons": [
-      "Só 52,6% de quem avaliou nos últimos 6 meses voltaria a fazer negócio",
-      "A reputação dos últimos 6 meses ficou em Boa (7,4), abaixo da Ótima de 12 meses",
-      "A nota média do consumidor segue abaixo de 7 nos três períodos",
-      "Pedido não recebido e entrega lideram as queixas de até 3 anos",
-      "Uma semana de resposta ainda é tempo para quem espera um pedido"
-    ],
+    "pros": [],
+    "cons": [],
     "bodyDatesReason": "reclame-aqui",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para confiar, com cautela: a reputação no Reclame Aqui foi Boa nos últimos 6 meses (nota 7,4) e Ótima nos 12 meses (nota 8,1). O ponto de atenção é a recompra: 52,6% das 38 reclamações avaliadas nos últimos 6 meses disseram que voltariam a fazer negócio. O [cupom Dr. Peanut](/cupons/dr-peanut) traz o DREMCASACOMCECILIA, 10% OFF."
+          "No Reclame Aqui, a Dr. Peanut tem reputação Boa, com nota 7,9 nos últimos seis meses, e respondeu 100% das 51 reclamações do período. O ponto de atenção é a entrega: “Não recebi” lidera os problemas da aba Geral. O [cupom Dr. Peanut](/cupons/dr-peanut) DREMCASACOMCECILIA dá 10% OFF em todo o site."
         ]
       },
       {
-        "heading": "Por que olhar o Reclame Aqui antes de comprar na Dr. Peanut",
+        "heading": "A nota e os indicadores de cada período",
         "paragraphs": [
-          "Na Dr. Peanut você compra no site da fábrica de Curitiba (PR). Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista; aqui o assunto é a loja.",
-          "O perfil mostra, com data, a reputação da empresa, quantas reclamações recebeu, quantas respondeu, quantas o consumidor considerou resolvidas e quantos voltariam a fazer negócio. São essas medidas que usamos aqui.",
-          "Em 14/10/2026, o perfil \"Dr. Peanut\" aparecia na categoria Alimentos e Bebidas, em Suplementos Alimentares e Fórmulas. Os números mudam com o tempo, e cada aba cobre um período próprio. Por isso cada dado abaixo traz o intervalo da aba. Vale abrir o perfil de novo no dia da sua compra."
-        ]
-      },
-      {
-        "heading": "Os números da Dr. Peanut no Reclame Aqui",
-        "paragraphs": [
-          "O perfil tem abas por período. Estas são as três abas deste artigo: os últimos 6 meses, os últimos 12 meses e o ano de 2025. Cada aba conta só as reclamações abertas dentro do próprio intervalo."
+          "Os números são do perfil “Dr. Peanut” no Reclame Aqui, nas cinco abas de período que ele mostra: seis meses, 12 meses, os anos de 2025 e 2024 e a aba Geral, que reúne até três anos. Cada coluna da tabela vem da aba de mesmo nome, e a de seis meses é a mais recente."
         ],
         "comparisonTable": {
-          "caption": "Perfil da Dr. Peanut no Reclame Aqui, abas de 6 meses, 12 meses e 2025.",
+          "caption": "Indicadores da Dr. Peanut no Reclame Aqui por aba de período, lidos em 22/11/2026. Seis meses: 01/05 a 31/10/2026; 12 meses: 01/11/2025 a 31/10/2026. Solução e voltariam a fazer negócio contam só as reclamações avaliadas.",
           "headers": [
             "Indicador",
-            "6 meses (01/04 a 30/09/2026)",
-            "12 meses (01/10/2025 a 30/09/2026)",
-            "2025 (01/01 a 31/12/2025)"
+            "6 meses",
+            "12 meses",
+            "2025",
+            "2024",
+            "Geral"
           ],
           "rows": [
             [
               "Reputação",
-              "Boa, nota 7,4",
-              "Ótima, nota 8,1",
-              "Boa, nota 7,1"
+              "Boa, 7,9",
+              "Boa, 7,9",
+              "Boa, 7,1",
+              "Boa, 7,4",
+              "Boa, 7,3"
             ],
             [
               "Reclamações recebidas",
-              "68",
-              "189",
-              "510"
+              "51",
+              "172",
+              "510",
+              "502",
+              "1.253"
             ],
             [
               "Respondidas",
-              "95,6%",
-              "98,4%",
-              "99,6%"
+              "100%",
+              "100%",
+              "99,6%",
+              "100%",
+              "99,3%"
             ],
             [
               "Aguardando resposta",
-              "3",
-              "3",
-              "0"
+              "0",
+              "0",
+              "0",
+              "0",
+              "7"
             ],
             [
-              "Resolvidas",
-              "84,2%",
-              "89,4%",
-              "79,5%"
+              "Avaliadas",
+              "34",
+              "89",
+              "268",
+              "261",
+              "653"
             ],
             [
-              "Voltariam a fazer negócio",
-              "52,6%",
-              "66%",
-              "57,1%"
+              "Índice de solução, nas avaliadas",
+              "85,3%",
+              "87,6%",
+              "79,5%",
+              "81,6%",
+              "80,7%"
             ],
             [
-              "Reclamações avaliadas",
-              "38",
-              "94",
-              "268"
+              "Voltariam a fazer negócio, nas avaliadas",
+              "64,7%",
+              "65,2%",
+              "57,1%",
+              "60,5%",
+              "59,7%"
             ],
             [
               "Nota média do consumidor",
-              "6,21",
-              "6,94",
-              "5,41"
+              "6,76",
+              "6,72",
+              "5,41",
+              "5,65",
+              "5,65"
             ],
             [
               "Tempo médio de resposta",
-              "7 dias e 7 horas",
-              "11 dias e 6 horas",
-              "10 dias e 4 horas"
+              "9 dias e 6 horas",
+              "9 dias e 9 horas",
+              "10 dias e 4 horas",
+              "4 dias e 17 horas",
+              "7 dias e 3 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "As porcentagens de solução e de recompra saem só das reclamações avaliadas: nos últimos 6 meses, foram 38 das 68. Com uma base tão pequena, poucas avaliações mexem muito nos percentuais: 52,6% de 38 equivalem a cerca de 20 avaliações. Isso mede quem avaliou, não as compras repetidas de toda a clientela."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-6-meses.webp",
-            "alt": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui",
-            "caption": "Aba de 6 meses do perfil da Dr. Peanut no Reclame Aqui. O marca-texto amarelo é nosso.",
-            "objectFit": "contain",
-            "aspectRatio": 0.3093
-          },
-          {
-            "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-12-meses.webp",
-            "alt": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui",
-            "caption": "Aba de 12 meses do perfil da Dr. Peanut no Reclame Aqui. O marca-texto amarelo é nosso.",
-            "objectFit": "contain",
-            "aspectRatio": 0.309
-          },
-          {
-            "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-2025.webp",
-            "alt": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui",
-            "caption": "Aba de 2025 do perfil da Dr. Peanut no Reclame Aqui. O marca-texto amarelo é nosso.",
-            "objectFit": "contain",
-            "aspectRatio": 0.3101
-          }
+          "Na aba Geral, 7 reclamações aguardavam resposta, e por isso o índice de respondidas aparece como 99,3%. Nas abas de seis meses e de 12 meses, nenhuma estava sem resposta."
         ]
       },
       {
-        "heading": "O que os números mostram",
+        "heading": "O que a nota e o selo medem, e o que não medem",
         "paragraphs": [
-          "**Menos reclamações.** Como os 6 meses estão dentro dos 12, os 6 meses anteriores somam cerca de 121 reclamações, contra as 68 mais recentes. O volume vem caindo de um período para o outro.",
-          "**Resposta mais rápida.** O tempo médio caiu em relação aos períodos mais longos, mas uma semana ainda é tempo para quem espera um pedido.",
-          "**Mais resolvidas que em 2025, menos recompra.** A solução e a nota média do consumidor subiram em relação a 2025. A recompra dos últimos 6 meses (52,6%) ficou abaixo da de 2025 (57,1%). A nota média do consumidor segue abaixo de 7 nos três períodos (6,21; 6,94; 5,41).",
-          "**Por que a reputação caiu.** A reputação foi de Boa em 2025 para Ótima em 12 meses e voltou a Boa em 6 meses. A conta é do período: a aba de 6 meses olha só as reclamações de abril a setembro, e a de 12 meses também inclui os 6 meses anteriores, que tiveram mais reclamações. No recorte de abril a setembro, a solução (84,2%), a recompra (52,6%) e a nota do consumidor (6,21) ficaram abaixo dos de 12 meses. O volume de reclamações não aumentou: caiu.",
-          "Também vale não exagerar na leitura. Poucas reclamações, e poucas avaliadas, não provam qualidade. A reputação Boa é a de uma empresa que responde e resolve a maior parte dos casos, e em que quase metade de quem avaliou nos últimos 6 meses não voltaria a fazer negócio."
-        ],
-        "image": {
-          "src": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp",
-          "alt": "Perfil da Dr. Peanut no Reclame Aqui: reputação Boa, avaliações de compra 4,6 de 5 e o quadro da aba de 6 meses",
-          "caption": "O topo do perfil da Dr. Peanut no Reclame Aqui e a aba de 6 meses.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+          "A nota do Reclame Aqui mede como a empresa atende quem reclama na plataforma: se responde, se resolve, quanto o consumidor dá ao atendimento e se ele voltaria a comprar. Ela não mede a qualidade das pastas, dos snacks nem do whey, e muda conforme novas reclamações entram e são avaliadas: o perfil esteve em Ótima em maio e em Boa de junho a outubro. A [metodologia do Reclame Aqui](https://manual.reclameaqui.com.br/reputacao-no-reclame-aqui) explica o cálculo.",
+          "Há duas notas diferentes no perfil. A de 7,9 é a reputação da empresa, calculada pela plataforma com os indicadores da tabela. A de 6,76 é a média das notas que os próprios consumidores deram ao atendimento depois de encerrar a reclamação, nos seis meses. O perfil não tem os selos RA1000 nem Empresa Verificada.",
+          "O selo “RA 4.7 Ótimo”, no rodapé do site da Dr. Peanut, é uma terceira medida: a nota das avaliações de compra do Reclame Aqui, 4,7 de 5, a partir de 105 avaliações verificadas nos últimos seis meses. Ela vem de quem comprou e avaliou, e o rodapé não informa o período. Por isso o “Ótimo” do selo e a reputação Boa do perfil convivem: cada um mede uma coisa."
+        ]
       },
       {
-        "heading": "O que mais aparece nas reclamações da Dr. Peanut",
+        "heading": "Pontos positivos nos dados",
         "paragraphs": [
-          "As queixas apontam para o mesmo lugar, a entrega. O Reclame Aqui reúne as de até 3 anos, da aba geral, em categoria, problema e produto:"
+          "Estes são os sinais favoráveis que o perfil mostra:"
         ],
-        "comparisonTable": {
-          "caption": "Principais problemas no perfil da Dr. Peanut no Reclame Aqui, reclamações de até 3 anos",
-          "headers": [
-            "Lista",
-            "Item que lidera",
-            "Percentual"
-          ],
-          "rows": [
-            [
-              "Categorias",
-              "Problemas na Loja",
-              "35,04%"
-            ],
-            [
-              "Problemas",
-              "Não recebi",
-              "33,36%"
-            ],
-            [
-              "Produtos",
-              "Entrega",
-              "34%"
-            ]
-          ]
-        },
+        "bullets": [
+          "**Respostas.** A Dr. Peanut respondeu 100% das 51 reclamações dos últimos seis meses e 100% das 172 dos últimos 12, sem nenhuma aguardando.",
+          "**Reputação.** A faixa é Boa, nota 7,9, tanto nos seis meses quanto nos 12 meses, acima da 7,1 de 2025 e da 7,4 de 2024.",
+          "**Solução, nas avaliadas.** Entre as 34 reclamações avaliadas nos seis meses, 85,3% foram consideradas resolvidas; nos 12 meses, 87,6% das 89. Em 2025, o índice era 79,5%.",
+          "**Voltariam a fazer negócio, nas avaliadas.** São 64,7% nos seis meses e 65,2% nos 12 meses, contra 57,1% em 2025.",
+          "**Volume.** Os 12 meses somam 172 reclamações, e 51 delas são dos seis meses mais recentes: nos seis meses anteriores foram 121. O número absoluto caiu.",
+          "**Avaliações de compra.** A nota é 4,7 de 5, com 105 avaliações verificadas nos últimos seis meses.",
+          "**Ranking e tempo de casa.** A Dr. Peanut aparece em 44º lugar em Melhor empresa, na categoria Suplementos Alimentares e Fórmulas, e o perfil está no Reclame Aqui há 9 anos."
+        ],
         "postParagraphs": [
-          "A queixa que lidera é pedido que não chegou, e não o produto em si. O perfil não mostra, nessas três listas, quanto dessas reclamações já foi resolvido, e o período é bem mais longo que o das abas da tabela: as listas cobrem até 3 anos, enquanto as abas de 6 meses, 12 meses e 2025 mostram um recorte menor. Por isso, a leitura certa é \"o tema que mais se repete\", e não \"o que acontece hoje\".",
-          "Na prática, acompanhe o rastreio e acione a loja quando o prazo informado passar. Para caixa avariada, embalagem violada ou item errado, veja \"o que fazer\" mais abaixo."
+          "A base de avaliadas dos seis meses é curta, 34: poucas avaliações mexem muito nos percentuais, e eles medem quem avaliou, não toda a clientela. O ranking é um retrato do dia da leitura, dentro da categoria."
+        ]
+      },
+      {
+        "heading": "Pontos de atenção e principais queixas",
+        "paragraphs": [
+          "Os motivos saem da aba Geral, que reúne até três anos e 1.253 reclamações, e não dos seis meses da tabela. Nela, a categoria que lidera é Problemas na Loja (35,04%), o problema é “Não recebi” (33,76%) e o produto é Entrega (34,16%). Como a entrega lidera, guarde o número do pedido e acompanhe o rastreio desde o primeiro dia. As listas não mostram quanto dessas reclamações foi resolvido.",
+          "Alguns cuidados na leitura dos números:"
         ],
-        "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-principais-problemas.webp",
-        "imageAlt": "Principais problemas comentados no perfil da Dr. Peanut no Reclame Aqui, com reclamações de até 3 anos da aba geral",
-        "imageCaption": "Principais problemas comentados no perfil da Dr. Peanut no Reclame Aqui, com reclamações de até 3 anos da aba geral. O marca-texto amarelo é nosso.",
-        "imageFit": "contain",
+        "bullets": [
+          "Sem o total de pedidos da Dr. Peanut no mesmo período, as 51 reclamações dos seis meses são um número absoluto: não viram taxa, e não dá para dizer se são muitas ou poucas para o tamanho da operação.",
+          "Solução e “voltariam a fazer negócio” valem para as 34 reclamações avaliadas, não para todos os clientes. Cerca de um em cada três autores avaliadores não voltaria a comprar.",
+          "A resposta leva em média 9 dias e 6 horas nos seis meses, contra 4 dias e 17 horas em 2024.",
+          "Os motivos da aba Geral, de até três anos, não se misturam com os indicadores dos seis meses."
+        ],
+        "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-principais-problemas-2211.webp",
+        "imageAlt": "Bloco Principais problemas comentados do perfil da Dr. Peanut no Reclame Aqui: Problemas na Loja 35,04%, Não recebi 33,76% e Entrega 34,16%",
+        "imageCaption": "Principais problemas do perfil da Dr. Peanut no Reclame Aqui, aba Geral, com reclamações de até três anos.",
+        "imageFit": "wide",
         "imageAspectRatio": 1.224
       },
       {
-        "heading": "O selo do site e o perfil do Reclame Aqui",
+        "heading": "Como a loja responde e o que conferir antes de comprar",
         "paragraphs": [
-          "O rodapé do site da Dr. Peanut, no bloco \"Segurança e Qualidade\", mostra um selo \"RA 4.7 Ótimo\". O perfil da empresa no Reclame Aqui mostrava Boa (7,4) em 6 meses, Ótima (8,1) em 12 meses e 4,6 de 5 nas avaliações de compra.",
-          "O rodapé não informa a que período ou medida o selo se refere. Para decidir, abra o perfil direto no Reclame Aqui, no dia da compra."
-        ]
-      },
-      {
-        "heading": "Se o seu pedido da Dr. Peanut der problema: o que fazer",
-        "paragraphs": [
-          "Se o pedido atrasar ou não chegar, acompanhe o rastreio e escreva para o SAC com o número do pedido assim que o prazo informado passar.",
-          "O atendimento é pelo e-mail sac@supley.com.br; a Política de Trocas e Devoluções define prazos e custos nestes casos:"
+          "O perfil é o da empresa: aparece como “Dr. Peanut”, com CNPJ 28.324.667/0001-69, na categoria Suplementos Alimentares e Fórmulas. Se algo der errado com o pedido, o caminho começa no SAC da loja, pelo e-mail sac@supley.com.br, com o número do pedido e a nota fiscal à mão. A loja informa:"
         ],
         "bullets": [
-          "**Caixa avariada, embalagem violada ou item errado na entrega:** você pode recusar a encomenda e escrever o motivo no verso da nota fiscal.",
-          "**Arrependimento:** pela política do site oficial, 7 dias corridos a partir do recebimento, com a devolução paga pela loja, com a embalagem original e o lacre intacto. Essas condições são as do canal próprio da loja; compra em outro canal segue as regras dele.",
-          "**Troca por outro produto:** o frete de ida e de volta é seu.",
+          "**Caixa avariada, embalagem violada ou item errado na entrega:** recuse a encomenda e escreva o motivo no verso da nota fiscal.",
+          "**Arrependimento:** 7 dias corridos a partir do recebimento, com a devolução paga pela loja, a embalagem original e o lacre intacto. São as condições do site oficial; compra em outro canal segue as regras dele.",
+          "**Troca por outro produto ou sabor:** o frete de ida e de volta é seu.",
           "**Defeito:** 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras, com a coleta paga pela loja."
         ],
         "postParagraphs": [
-          "Os prazos e as regras estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel). Se o SAC não resolver, o Reclame Aqui é o passo seguinte. Depois da resposta, você pode avaliar se o problema foi resolvido."
+          "Guarde os prints do pedido e o protocolo do atendimento, e fotografe a caixa ao receber, antes de abrir. Os prazos completos e os sinais do site oficial estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel)."
         ]
       },
       {
-        "heading": "Parceria e cupom",
+        "heading": "Vale a pena comprar na Dr. Peanut?",
+        "emphasis": "Pelo Reclame Aqui, dá para comprar no site oficial da Dr. Peanut, e o cuidado a tomar é com a entrega: guarde o número do pedido e acompanhe o rastreio.",
         "paragraphs": [
-          "O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom **DREMCASACOMCECILIA**. Isso não muda os números deste artigo, que vêm todos do perfil público da empresa no Reclame Aqui.",
-          "O cupom dá 10% OFF em todo o site, vale em todas as formas de pagamento e se soma às promoções que estiverem no ar. Também vale para quem já tem conta na loja e para quem cria uma agora. O passo a passo está em [Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site](/reviews/cupom-dr-peanut-como-usar). Os termos atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut)."
-        ]
-      },
-      {
-        "heading": "Dá para confiar na Dr. Peanut?",
-        "paragraphs": [
-          "Dá para comprar com cautela. O Reclame Aqui mostra uma empresa que responde quase tudo (95,6% nos últimos 6 meses) e resolve a maior parte entre as reclamações avaliadas (84,2%), com reputação Boa em 6 meses (nota 7,4) e Ótima em 12 meses (nota 8,1). As avaliações de compra do perfil estavam em 4,6 de 5.",
-          "Foram 68 reclamações nos 6 meses mais recentes, contra 121 nos seis anteriores (189 na janela de 12 meses). A contagem caiu, mas sem o volume de vendas não dá para saber se a taxa por pedido caiu. O tempo médio de resposta nos últimos 6 meses foi 7 dias e 7 horas.",
-          "Os pontos de atenção são dois. Só 52,6% de quem avaliou nos últimos 6 meses voltaria a fazer negócio, e o que mais aparece nas queixas é pedido não recebido e entrega. Por isso, acompanhe o rastreio, guarde o número do pedido e abra o perfil no Reclame Aqui no dia da compra."
+          "A Dr. Peanut respondeu a todas as reclamações dos últimos 12 meses, tem reputação Boa, nota 7,9, e solução de 85,3% entre as avaliadas dos seis meses. O ponto de atenção é a entrega, que lidera as queixas da aba Geral, e a resposta, que leva mais de nove dias em média.",
+          "Se decidir comprar, o [cupom Dr. Peanut](/cupons/dr-peanut) DREMCASACOMCECILIA dá 10% OFF em todo o site, para cliente novo e antigo, em todas as formas de pagamento, e soma com as promoções e com os 3% do Pix no checkout. Para usar, cole o código no campo “Código” do carrinho, sob “Insira o seu cupom abaixo”, e clique em “Adicionar”. O código não vale no Mercado Livre. O passo a passo está em [como usar o cupom](/reviews/cupom-dr-peanut-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+            "alt": "Pote de 250 g da pasta de amendoim Dr. Peanut sabor Avelã, em foto oficial da marca",
+            "caption": "Pasta de amendoim Avelã, pote de 250 g. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ir para o site oficial da Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a pasta Avelã 250 g na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p",
+            "sponsored": true
+          },
+          {
+            "label": "Como usar o cupom Dr. Peanut",
+            "href": "/reviews/cupom-dr-peanut-como-usar"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Dr. Peanut é confiável segundo o Reclame Aqui? A reputação era Boa nos últimos 6 meses e Ótima nos últimos 12. A empresa responde quase todas as reclamações e resolve a maior parte, mas só cerca de metade de quem avaliou nos últimos 6 meses voltaria a comprar.",
-          "Qual a nota da Dr. Peanut no Reclame Aqui? Eram 7,4 nos últimos 6 meses, 8,1 nos últimos 12 meses e 7,1 em 2025. As avaliações de compra do topo do perfil estavam em 4,6 de 5.",
-          "A Dr. Peanut responde às reclamações? Responde. Nos últimos 6 meses, 95,6% das reclamações foram respondidas, em média em 7 dias e 7 horas.",
-          "Por que a reputação é \"Boa\" em 6 meses e \"Ótima\" em 12 meses? Cada aba conta só as reclamações do próprio período: a de 6 meses cobre só os seis meses mais recentes e a de 12 meses inclui os seis anteriores. Nos últimos 6 meses, a nota ficou em 7,4, abaixo dos 8,1 de 12 meses.",
-          "O que fazer se o pedido da Dr. Peanut atrasar ou chegar avariado? Se atrasar, acompanhe o rastreio e escreva para sac@supley.com.br com o número do pedido. Se a caixa chegar avariada, você pode recusar na entrega e escrever o motivo no verso da nota fiscal."
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, para cliente novo e antigo e em todas as formas de pagamento. Cole o código no campo “Código” do carrinho e clique em “Adicionar”. As condições estão na página do [cupom Dr. Peanut](/cupons/dr-peanut).",
+          "Qual a nota da Dr. Peanut no Reclame Aqui? A reputação é Boa, com 7,9 nos últimos seis meses e também nos 12 meses, e 7,1 em 2025. A média que os consumidores deram ao atendimento nos seis meses é 6,76.",
+          "O que significa o selo “RA 4.7 Ótimo” do site? É a nota das avaliações de compra do Reclame Aqui, 4,7 de 5, e o rodapé não informa o período. Ela é diferente da reputação Boa do perfil, que mede o atendimento às reclamações.",
+          "A Dr. Peanut responde e resolve as reclamações? Nos seis meses, respondeu 100% das 51 reclamações, em média em 9 dias e 6 horas. Entre as 34 avaliadas, 85,3% foram consideradas resolvidas.",
+          "O que fazer se o pedido da Dr. Peanut não chegou? Confira o rastreio e escreva para sac@supley.com.br com o número do pedido e a nota fiscal. Se a caixa chegar avariada, recuse a entrega e escreva o motivo no verso da nota fiscal."
         ]
       }
     ],
@@ -89579,13 +89559,16 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "DREMCASACOMCECILIA",
     "affiliate": "dr-peanut",
-    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo DREMCASACOMCECILIA.",
+    "editorialNote": "Feito com os dados públicos do Reclame Aqui. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
         "slug": "dr-peanut-e-confiavel"
       },
       {
         "slug": "cupom-dr-peanut-como-usar"
+      },
+      {
+        "slug": "dr-peanut-e-boa"
       }
     ]
   },
@@ -89593,7 +89576,7 @@ export const reviewsData: unknown[] = [
     "id": 420,
     "slug": "cupom-dr-peanut-como-usar",
     "title": "Como usar o cupom DREMCASACOMCECILIA na Dr. Peanut: 10% em todo o site",
-    "seoTitle": "Como usar o cupom DREMCASACOMCECILIA na Dr. Peanut: 10% OFF",
+    "seoTitle": "Cupom DREMCASACOMCECILIA na Dr. Peanut: como usar, 10% OFF",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -89608,55 +89591,32 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado no carrinho. Veja o passo a passo, o frete grátis por região e as trocas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dr-peanut/cupom-dr-peanut-como-usar-capa-v2.webp",
     "imageAlt": "Pote de 100% Whey Dr. Peanut sabor Paçoca, produto coassinado com Max Titanium, em foto oficial, ao lado do código DREMCASACOMCECILIA.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "10% OFF em todo o site, em todas as formas de pagamento",
-      "Soma com as promoções do site",
-      "Vale para quem cria a conta agora e para quem já comprou na loja",
-      "O carrinho mostra a linha \"Descontos\" com o valor abatido antes do pagamento"
-    ],
-    "cons": [
-      "O cupom não dá frete grátis: o frete tem regra e mínimo à parte",
-      "O frete grátis vale só na opção de entrega mais barata",
-      "Na troca por outro produto, o frete de ida e de volta é seu",
-      "A regra de arrependimento descrita aqui é a do site oficial da Dr. Peanut"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
-        "heading": "Resposta rápida: como usar o cupom da Dr. Peanut",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Dr. Peanut](/cupons/dr-peanut) é DREMCASACOMCECILIA: dá 10% no site e soma com as promoções. No carrinho, digite o código no campo “Código”, clique em “Adicionar” e confira a linha “Descontos” antes de pagar. O mínimo do frete grátis varia por região e conta depois do cupom."
+          "O [cupom Dr. Peanut](/cupons/dr-peanut) é DREMCASACOMCECILIA: 10% OFF em todo o site, em todas as formas de pagamento, somando com as promoções. No carrinho, digite o código no campo “Código”, clique em “Adicionar” e confira a linha “Descontos”. O mínimo do frete grátis varia por região e conta depois do cupom."
         ]
       },
       {
         "heading": "O que é o cupom DREMCASACOMCECILIA",
         "paragraphs": [
-          "O **DREMCASACOMCECILIA** dá 10% OFF em todo o site oficial, com qualquer forma de pagamento. É o cupom da parceria do Em Casa com Cecília com a Dr. Peanut. Vale para conta nova e para quem já comprou, então serve na primeira compra e nas seguintes. O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom."
-        ],
-        "image": {
-          "src": "/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp",
-          "alt": "Carrinho da Dr. Peanut com o cupom DREMCASACOMCECILIA digitado e, depois, aplicado",
-          "caption": "O carrinho do nosso teste: o código digitado e, depois, aplicado.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "1. Entre no site oficial da Dr. Peanut",
-        "paragraphs": [
-          "O cupom vale no site oficial, o **drpeanut.com.br**. Abra a loja, escolha os produtos e digite o DREMCASACOMCECILIA no carrinho."
+          "O **DREMCASACOMCECILIA** dá 10% OFF em todo o site oficial, em todas as formas de pagamento, e soma com os 3% do Pix no checkout, calculados sobre o valor já com o cupom. É o cupom da parceria do Em Casa com Cecília com a Dr. Peanut. Vale para conta nova e para quem já comprou, então serve na primeira compra e nas seguintes. Não vale no Mercado Livre: o código é só do site. O Em Casa com Cecília tem parceria com a Dr. Peanut e pode receber comissão pelas compras feitas com o cupom."
         ]
       },
       {
-        "heading": "2. Monte o carrinho",
+        "heading": "1. Entre no site e monte o carrinho",
         "paragraphs": [
-          "Escolha os produtos normalmente e vá para o carrinho. Nele aparecem a lista de itens, com quantidade e preço, e, à direita, o resumo com o **Subtotal**, o **Total** e o campo **\"Código\"**, sob o texto \"Insira o seu cupom abaixo\", com o botão **\"Adicionar\"**.",
+          "O cupom vale no site oficial, o [drpeanut.com.br](https://www.drpeanut.com.br/). Abra a loja, escolha os produtos normalmente e vá para o carrinho. Nele aparecem a lista de itens, com quantidade e preço, e, à direita, o resumo com o **Subtotal**, o **Total** e o campo **\"Código\"**, sob o texto \"Insira o seu cupom abaixo\", com o botão **\"Adicionar\"**.",
           "No nosso teste de 13/10/2026, o carrinho tinha três itens, entre eles uma pasta de amendoim em promoção (de R$ 64,90 por R$ 59,89). O subtotal, antes do cupom, era de R$ 440,16.",
           "No topo do carrinho há uma faixa laranja sobre o frete grátis, com o mínimo de R$ 149,90 (valor que o carrinho mostrava no teste). O mínimo de cada região está na seção de frete, mais abaixo."
         ],
@@ -89664,10 +89624,17 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com três itens, Subtotal e Total de R$ 440,16, o campo do cupom e a faixa do frete grátis no topo",
         "imageCaption": "Carrinho da Dr. Peanut antes do cupom: os três itens, o Subtotal e o Total de R$ 440,16, o campo do cupom, sob \"Insira o seu cupom abaixo\", e a faixa do frete grátis no topo. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
-        "imageAspectRatio": 1.6075
+        "imageAspectRatio": 1.6075,
+        "links": [
+          {
+            "label": "Ir para a Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
+        ]
       },
       {
-        "heading": "3. Digite DREMCASACOMCECILIA e clique em \"Adicionar\"",
+        "heading": "2. Digite DREMCASACOMCECILIA e clique em \"Adicionar\"",
         "paragraphs": [
           "No resumo à direita, clique no campo **\"Código\"**, logo abaixo do texto \"Insira o seu cupom abaixo\", e digite **DREMCASACOMCECILIA**. Depois clique no botão **\"Adicionar\"**, ao lado do campo.",
           "Na nossa captura, com o código já digitado e antes de clicar em \"Adicionar\", o Subtotal e o Total seguiam em R$ 440,16."
@@ -89679,10 +89646,10 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.756
       },
       {
-        "heading": "4. Confira a linha \"Descontos\" antes de pagar",
+        "heading": "3. Confira a linha \"Descontos\" antes de pagar",
         "paragraphs": [
           "Com o cupom aceito, o resumo muda: o código aparece ao lado de \"Cupom de desconto\", com um **×** ao lado, e entra a linha **\"Descontos\"**, com o valor abatido em reais. O Total passa a mostrar o valor já com o desconto.",
-          "No mesmo teste, o Subtotal de R$ 440,16 ganhou **R$ 44,02 de desconto** e o Total ficou em **R$ 396,14**. Os R$ 44,02 correspondem a 10% do Subtotal.",
+          "No mesmo teste, o Subtotal de R$ 440,16 ganhou **R$ 44,02 de desconto** e o Total ficou em **R$ 396,14**. Os R$ 44,02 correspondem a 10% do Subtotal, inclusive da pasta Bombom Italiano que já estava em promoção: o cupom soma com as promoções do site.",
           "Antes de clicar em \"Continuar pagamento\", confira estes pontos:"
         ],
         "bullets": [
@@ -89697,15 +89664,9 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.0423
       },
       {
-        "heading": "O cupom vale em produto em promoção?",
+        "heading": "Frete grátis com o cupom: o mínimo da sua região",
         "paragraphs": [
-          "Sim. O **DREMCASACOMCECILIA** soma com as promoções do site. No nosso teste, o carrinho tinha a pasta de amendoim Bombom Italiano em promoção: o Subtotal já trazia o preço promocional (R$ 59,89), e o cupom tirou R$ 44,02, 10% do Subtotal."
-        ]
-      },
-      {
-        "heading": "Frete grátis com o cupom: confira o mínimo da sua região",
-        "paragraphs": [
-          "A Dr. Peanut dá frete grátis a partir de um valor mínimo, que depende de onde você mora. Em 14/10/2026, a política da loja era esta:"
+          "A Dr. Peanut dá frete grátis a partir de um valor mínimo, que depende de onde você mora. Pela faixa do site, a regra é esta:"
         ],
         "comparisonTable": {
           "caption": "Frete grátis da Dr. Peanut por região",
@@ -89725,21 +89686,34 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O frete grátis vale na opção de entrega mais barata. O mínimo conta o valor da compra **depois do cupom**. No teste mais recente, de novembro, com entrega em São Paulo, um carrinho de R$ 155,34 tinha frete grátis; com o cupom, os produtos caíram para R$ 139,80 e a loja cobrou R$ 12,23 de frete.",
-          "Perto do mínimo, compare o total com e sem o código: nesse carrinho, a economia final com o cupom foi de R$ 3,31.",
-          "Depois de aplicar o cupom, confira o Total antes de pagar."
+          "O frete grátis vale na opção de entrega mais barata. O mínimo conta o valor da compra **depois do cupom**. No teste de 12/11, com entrega em São Paulo, um carrinho de 6 pastas de R$ 155,34 tinha frete grátis; com o cupom, os produtos caíram para R$ 139,80 e a loja cobrou R$ 12,23 de frete, num total de R$ 152,03.",
+          "Perto do mínimo, compare o total com e sem o código: nesse carrinho, a economia final com o cupom foi de R$ 3,31. Depois de aplicar o cupom, confira o Total antes de pagar."
         ]
       },
       {
         "heading": "O que comprar com o cupom",
         "paragraphs": [
-          "O cupom vale em todo o site: Pastas de Amendoim, Snacks, Whey Protein e alfajores."
+          "O cupom vale em todo o site: pastas de amendoim, snacks, whey e alfajores. A tabela de sabores está em [Dr. Peanut: qual sabor escolher](/reviews/dr-peanut-melhor-sabor)."
         ],
         "bullets": [
-          "**Whey:** inclusive o \"100% Whey Dr. Peanut 900g - Max Titanium\". O nome das duas marcas aparece porque elas são do mesmo grupo, como explicamos em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel). Se compensa comprar na Dr. Peanut ou na Max, está em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
+          "**Pastas:** a de 250 g e a de 600 g, em qualquer sabor, como a [Avelã](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p) e a [Doce de Leite](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-doce-de-leite/p).",
+          "**Snacks:** o display da [Doctor Bar](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p), o [Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p) e os alfajores.",
+          "**Whey:** inclusive o \"100% Whey Dr. Peanut 900g - Max Titanium\", que leva o nome das duas marcas porque é coassinado. Se compensa comprar na Dr. Peanut ou na Max, está em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
         ],
         "postParagraphs": [
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
+        ],
+        "links": [
+          {
+            "label": "Ver as pastas de amendoim na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o whey na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/whey-dr-peanut/p",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -89753,16 +89727,23 @@ export const reviewsData: unknown[] = [
           "**Defeito:** 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras, com a coleta paga pela loja."
         ],
         "postParagraphs": [
-          "Estas condições e o SAC são os do site oficial; em compra feita em outro canal valem as regras daquele canal. O pedido é feito pelo SAC, no e-mail sac@supley.com.br, com o número do pedido e a nota fiscal. Os prazos, o estorno e o que fazer na entrega estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel). Para ver a reputação da loja no Reclame Aqui, veja [Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/dr-peanut-reclame-aqui-nota-reputacao)."
+          "Estas condições e o SAC são os do site oficial; em compra feita em outro canal valem as regras daquele canal. O pedido é feito pelo SAC, no e-mail sac@supley.com.br, com o número do pedido e a nota fiscal. Se o pedido chegar com avaria, recuse a entrega e anote o motivo no verso da nota fiscal."
         ]
+      },
+      {
+        "heading": "Vale usar o cupom na Dr. Peanut?",
+        "paragraphs": [
+          "O código tira 10% de tudo o que está no carrinho, inclusive do que já está em promoção, e vale em todas as formas de pagamento. A conta que pede atenção é a do frete: como o mínimo conta depois do desconto, um carrinho perto do limite pode perder o frete grátis e dar uma economia bem menor."
+        ],
+        "emphasis": "Para quem já ia comprar no site da Dr. Peanut, o DREMCASACOMCECILIA vale em qualquer carrinho, desde que o total depois do desconto continue acima do mínimo de frete grátis da sua região."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, que dá 10% OFF em todo o site da Dr. Peanut. Você digita o código no campo do cupom, no carrinho, e clica em \"Adicionar\".",
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut. Cole o código no carrinho, no campo “Código”, e clique em “Adicionar”; as condições estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
           "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para quem cria a conta agora quanto para quem já comprou.",
           "O cupom da Dr. Peanut vale em produto em promoção? Sim. No nosso teste, o cupom tirou 10% do subtotal, que já incluía uma pasta de amendoim em promoção.",
-          "O cupom vale em todas as formas de pagamento? Sim. O DREMCASACOMCECILIA vale em todas as formas de pagamento da loja e soma com as promoções do site.",
+          "O cupom vale em todas as formas de pagamento? Sim. O DREMCASACOMCECILIA vale em todas as formas de pagamento da loja, soma com as promoções do site e com os 3% do Pix no checkout.",
           "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o valor depois do cupom.",
           "Tem cupom para pasta de amendoim Dr. Peanut? Sim. O DREMCASACOMCECILIA vale em todo o site, então vale nas pastas de amendoim, inclusive nas que estão em promoção. As condições atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut).",
           "Onde o cupom vale? No site oficial da Dr. Peanut, o drpeanut.com.br, onde o código é digitado no carrinho."
@@ -89780,12 +89761,25 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado num pedido real. Podemos receber comissão pelo DREMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "dr-peanut-e-confiavel"
+        "slug": "cupom-dr-peanut-primeira-compra"
       },
       {
-        "slug": "dr-peanut-reclame-aqui-nota-reputacao"
+        "slug": "black-friday-dr-peanut"
+      },
+      {
+        "slug": "dr-peanut-melhor-sabor"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você já ia comprar pasta, snack ou whey no site da Dr. Peanut e quer 10% OFF em todos os itens do carrinho",
+        "Você compra com promoção ativa e quer somar o cupom ao preço promocional"
+      ],
+      "skipIf": [
+        "Você espera que o cupom leve o carrinho ao frete grátis, já que o mínimo conta depois do desconto",
+        "Você pretende comprar pelo Mercado Livre, onde o código não vale"
+      ]
+    }
   },
   {
     "id": 421,
@@ -94542,28 +94536,18 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Guia de Black Friday da Dr. Peanut: qual pote, combo ou snack escolher, quanto sai com o cupom DREMCASACOMCECILIA e quando o desconto tira o frete grátis do pedido.",
-    "metaDescription": "DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Black Friday 2026: qual pote, combo ou snack escolher e o mínimo de frete do pedido.",
+    "metaDescription": "DREMCASACOMCECILIA dá 10% OFF na Dr. Peanut e soma com as promoções do mês. Veja qual pote, combo ou snack escolher e o frete grátis.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dr-peanut/black-friday-dr-peanut-capa-v2.webp",
     "imageAlt": "Display de Doctor Bar Alfajor da Dr. Peanut, em recorte da fotografia usada na capa anterior do próprio artigo.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento",
-      "Soma com as promoções do site: vale nos potes e nos combos que já estão com desconto",
-      "No checkout, os 3% do Pix entraram sobre o valor já com o cupom",
-      "Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul"
-    ],
-    "cons": [
-      "Em novembro, o site não tinha datas, produtos nem preços de Black Friday identificados",
-      "O desconto do cupom pode deixar o pedido abaixo do mínimo do frete grátis",
-      "No Centro-Oeste, Nordeste e Norte, o frete grátis só começa em R$ 199,90",
-      "A página da assinatura não diz se o cupom se repete nas cobranças seguintes"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Entre no site da Dr. Peanut e digite o DREMCASACOMCECILIA no carrinho: são 10% OFF em todo o site. Confira a linha \"Descontos\" antes de pagar.",
       "label": "Ir para a Dr. Peanut",
@@ -94578,34 +94562,34 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-dr-peanut-como-usar"
       },
       {
-        "slug": "dr-peanut-e-confiavel"
+        "slug": "dr-peanut-qual-tamanho-compensa"
       },
       {
-        "slug": "dr-peanut-reclame-aqui-nota-reputacao"
+        "slug": "snacks-dr-peanut-qual-escolher"
       }
     ],
     "bodyDatesReason": "campanha",
     "contentSections": [
       {
-        "heading": "Resposta rápida: Black Friday Dr. Peanut 2026",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Em meados de novembro, a Dr. Peanut seguia sem campanha de Black Friday identificada, com os potes e os combos nos preços de outubro. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções e com os 3% do Pix. Para provar sabores, os combos de 250 g; para repor, os de 600 g."
+          "A Dr. Peanut não tem página de Black Friday: a campanha de novembro é o Doctor November. O [cupom Dr. Peanut](/cupons/dr-peanut) DREMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções e com o Pix. Para provar sabores, os combos de 250 g; para repor, os de 600 g."
         ]
       },
       {
-        "heading": "A Dr. Peanut faz Black Friday?",
+        "heading": "Doctor November: a campanha da Dr. Peanut em novembro",
         "paragraphs": [
-          "Em meados de novembro, a home seguia com o aviso de frete grátis por região, a vitrine de mais vendidos e a assinatura, sem menção à Black Friday. Os preços das pastas eram os mesmos de outubro: R$ 25,89 no pote de 250 g e R$ 59,89 no de 600 g. Confira os banners e as condições da loja no dia da compra.",
-          "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
-          "Da Black Friday de 2025, não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
+          "A Dr. Peanut não tem uma página chamada Black Friday. O que a home mostra em novembro, sem data de fim anunciada, é o Doctor November, em três frentes: leve 8 e pague 5, com brindes de 1 alfajor, 1 wafer e 1 pasta conforme a disponibilidade; \"Comprou, ganhou\", com 3 alfajores na compra de pastas de 600 g; e a Assinatura Doctor, com até 20% OFF.",
+          "Os preços das pastas seguem os de lista: R$ 25,89 no pote de 250 g e R$ 59,89 no de 600 g. O cupom soma com as promoções, então a conta é a mesma de qualquer dia, com os 10% por cima. Confira os banners e as condições da loja no dia da compra.",
+          "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha. Da Black Friday de 2025, não encontramos anúncio oficial da Dr. Peanut, e por isso este guia não usa ofertas de anos anteriores como régua de preço."
         ],
-        "image": {
-          "src": "/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp",
-          "alt": "Página inicial do site da Dr. Peanut com o banner da assinatura Assinou, economizou! e até 15% OFF",
-          "caption": "A página inicial da Dr. Peanut, com o banner da assinatura Assinou, economizou! e até 15% OFF.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        "links": [
+          {
+            "label": "Ver as campanhas na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Para provar sabores: pote de 250 g ou combo pequeno",
@@ -94628,19 +94612,19 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "1 pote de 250 g",
+              "[1 pote de 250 g](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p)",
               "R$ 25,89",
               "R$ 23,30",
               "R$ 9,32"
             ],
             [
-              "Combo de 2 potes de 250 g",
+              "[Combo de 2 potes de 250 g](https://www.drpeanut.com.br/combo-cozy-doce-de-leite-caramelo-salgado-250g/p)",
               "R$ 47,64",
               "R$ 42,88",
               "R$ 8,58"
             ],
             [
-              "Combo de 3 potes de 250 g",
+              "[Combo de 3 potes de 250 g](https://www.drpeanut.com.br/combo-favoritos-da-galera/p)",
               "R$ 68,35",
               "R$ 61,51",
               "R$ 8,20"
@@ -94651,6 +94635,21 @@ export const reviewsData: unknown[] = [
           "Os combos \"Comprou, Ganhou\" trazem um alfajor de brinde com o pote de 250 g, pelo mesmo preço do pote avulso. O brinde não baixa o preço da pasta, mas serve para provar o snack.",
           "Todas as pastas da Dr. Peanut declaram lactose e levam edulcorantes. Quem procura pasta só de amendoim, vegana ou sem lactose encontra essas opções em [Dr. Peanut ou La Ganexa: qual pasta de amendoim escolher](/reviews/dr-peanut-ou-la-ganexa). A comparação sabor a sabor está em [Dr. Peanut: qual o melhor sabor?](/reviews/dr-peanut-melhor-sabor).",
           "Pedido pequeno paga frete: num carrinho com um pote, o frete para São Paulo custava mais que o desconto do cupom. Se a ideia é só provar, vale juntar os sabores num combo."
+        ],
+        "image": {
+          "src": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+          "alt": "Pote de 250 g da pasta de amendoim sabor Avelã da Dr. Peanut, em foto oficial de frente",
+          "caption": "Pasta de amendoim Avelã, pote de 250 g. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p"
+        },
+        "links": [
+          {
+            "label": "Ver o combo Favoritos da Galera na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/combo-favoritos-da-galera/p",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -94669,35 +94668,35 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "1 pote de 600 g",
+              "[1 pote de 600 g](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p)",
               "R$ 59,89",
               "R$ 53,90",
               "R$ 8,98",
               "Não"
             ],
             [
-              "Combo de 2 potes de 600 g",
+              "[Combo de 2 potes de 600 g](https://www.drpeanut.com.br/combo-cookies-lovers-duo/p)",
               "R$ 110,20",
               "R$ 99,18",
               "R$ 8,27",
               "Não"
             ],
             [
-              "Combo de 4 potes de 250 g (1 kg)",
+              "[Combo de 4 potes de 250 g (1 kg)](https://www.drpeanut.com.br/combo-prime-avela-cookies-leite-em-po-caramelo-salgado-250g/p)",
               "R$ 88,03",
               "R$ 79,23",
               "R$ 7,92",
               "Não"
             ],
             [
-              "Combo de 3 potes de 600 g",
+              "[Combo de 3 potes de 600 g](https://www.drpeanut.com.br/combo-cookies-lovers-trio/p)",
               "R$ 158,11",
               "R$ 142,30",
               "R$ 7,91",
               "Não (sem o cupom, sim)"
             ],
             [
-              "Combo de 4 potes de 600 g",
+              "[Combo de 4 potes de 600 g](https://www.drpeanut.com.br/combo-cookies-lovers-quarteto/p)",
               "R$ 203,63",
               "R$ 183,27",
               "R$ 7,64",
@@ -94706,21 +94705,44 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
+          "Quem leva pasta de 600 g ainda entra no \"Comprou, ganhou\": 3 alfajores de brinde, pelo preço da pasta. Os combos de 600 g são o Duo, o Trio e o Quarteto, nos sabores Cookies & Cream (Cookies Lovers) e Bueníssimo.",
           "O combo de 3 potes de 600 g é o caso para olhar com calma. Sem o cupom, ele passa do mínimo e o frete sai grátis no Sul e no Sudeste. Com o cupom, cai para R$ 142,30 e a loja cobra o frete: no nosso carrinho, com entrega em São Paulo, o total ficou em R$ 154,78, ainda R$ 3,33 abaixo do pedido sem o código. Em outro CEP a diferença muda, e pode inverter. Compare os dois totais antes de pagar.",
           "No Centro-Oeste, no Nordeste e no Norte, o mínimo é de R$ 199,90, e o cuidado vale para o combo de 4 potes de 600 g: sem o cupom ele passa do mínimo, e com o cupom fica abaixo. O combo maior só compensa para quem vai consumir os potes. Levar um a mais apenas para alcançar o frete grátis aumenta o gasto.",
           "No Pix, o checkout mostrou 3% sobre o valor dos produtos já com o cupom: o pote de 600 g saiu de R$ 53,90 para R$ 52,28, antes do frete. A conta por tamanho, com todos os combos, está em [Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa](/reviews/dr-peanut-qual-tamanho-compensa)."
+        ],
+        "image": {
+          "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-pasta-pistache-600g.webp",
+          "alt": "Pote de 600 g da pasta de amendoim Dr. Peanut sabor Pistache, em foto oficial da marca",
+          "caption": "Pasta de amendoim Pistache, pote de 600 g. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p"
+        },
+        "links": [
+          {
+            "label": "Ver o Combo Cookies Lovers Quarteto na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/combo-cookies-lovers-quarteto/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Assinatura: o primeiro pedido e as cobranças seguintes",
         "paragraphs": [
-          "A assinatura da Dr. Peanut vale só para as pastas de 250 g e tem desconto progressivo. A página dela anunciava 4% com 1 pasta, 8% com 2, 12% com 3 e 20% com 4 ou mais, com entrega recorrente, cancelamento sem multa e troca de produtos e datas a qualquer momento.",
+          "A assinatura da Dr. Peanut vale só para as pastas de 250 g e tem desconto progressivo, com teto de 20%. A página dela anuncia 4% com 1 pasta, 8% com 2, 12% com 3 e 20% com 4 ou mais, com entrega recorrente, cancelamento quando quiser e troca de produtos e datas a qualquer momento. Na Assinatura Doctor do mês, quem indica ganha mais 5% adicional nas assinaturas.",
           "Com 3 pastas, a calculadora da página mostra R$ 68,35 por ciclo, o mesmo valor do combo de 3 potes. Com 4, os 20% levam a conta para R$ 82,85, abaixo dos R$ 88,03 do combo de 4 potes (conta nossa, pela regra da página)."
         ],
         "bullets": [
           "**Primeiro pedido:** no nosso teste de outubro, o DREMCASACOMCECILIA foi aceito no carrinho da assinatura com 3 pastas e somou ao desconto progressivo. O pedido ficou em R$ 60,58.",
           "**Cobranças seguintes:** a página da assinatura não diz se o cupom se repete. O código aceito no primeiro carrinho não informa, sozinho, qual será o desconto das renovações. Confirme na contratação o valor e as condições das próximas cobranças.",
           "**Frete:** os mínimos do frete grátis são os mesmos da compra avulsa, e uma assinatura de poucos potes fica abaixo deles."
+        ],
+        "links": [
+          {
+            "label": "Ver a assinatura da Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/assinaturapro",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -94746,16 +94768,16 @@ export const reviewsData: unknown[] = [
               "R$ 13,73"
             ],
             [
-              "Alfajor (35 g)",
+              "[Alfajor](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p) (35 g)",
               "4 a 4,7 g; 158 a 183 kcal",
               "Avulso ou display de 12 (R$ 155,88)",
               "R$ 12,99",
               "R$ 11,69"
             ],
             [
-              "Doctor Wafer (25 g)",
+              "[Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p) (25 g)",
               "5 a 6 g; 118 a 127 kcal",
-              "Avulso, display de 12 (R$ 137,52) ou [kit sortido de 12](https://www.drpeanut.com.br/kit-sortido-duplo-wafers/p) (R$ 130,68)",
+              "Avulso, [display de 12](https://www.drpeanut.com.br/display-doctor-wafer/p) (R$ 137,52) ou [kit sortido de 12](https://www.drpeanut.com.br/kit-sortido-duplo-wafers/p) (R$ 130,68)",
               "R$ 11,46 (R$ 10,89 no kit)",
               "R$ 10,31 (R$ 9,80 no kit)"
             ]
@@ -94768,12 +94790,27 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Sobre alérgicos: a Doctor Bar e o Doctor Wafer de Avelã declaram glúten e lactose. No alfajor, a loja publica a tabela nutricional, sem a lista de ingredientes nem o aviso de alérgicos em texto: confira a página e a embalagem. Os rótulos lado a lado estão em [Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher](/reviews/snacks-dr-peanut-qual-escolher) e em [Dr. Peanut é saudável?](/reviews/dr-peanut-e-saudavel)."
+        ],
+        "image": {
+          "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+          "alt": "Display e barra de proteína Doctor Bar da Dr. Peanut, sabor Avelã, em foto oficial da marca",
+          "caption": "Doctor Bar Avelã, vendida em display de 8. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p"
+        },
+        "links": [
+          {
+            "label": "Ver a Doctor Bar na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "Como o cupom entra na Black Friday",
+        "heading": "Como o cupom entra no Doctor November",
         "paragraphs": [
-          "O **DREMCASACOMCECILIA** soma com as promoções: 10% OFF em todo o site, em qualquer pagamento. A conferência é no carrinho, antes de pagar.",
+          "O **DREMCASACOMCECILIA** soma com as promoções: 10% OFF em todo o site, em todas as formas de pagamento. Cole o código no campo “Código” do carrinho, clique em “Adicionar” e confira a linha “Descontos” antes de pagar.",
           "Os descontos entram no carrinho nesta ordem:"
         ],
         "bullets": [
@@ -94794,7 +94831,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis por região: o mínimo conta depois do cupom",
         "paragraphs": [
-          "O frete grátis da Dr. Peanut depende de onde você mora, e o mínimo conta **depois do cupom**. No nosso teste de novembro, com entrega em São Paulo, um carrinho de R$ 155,34 tinha frete grátis; com o cupom, os produtos caíram para R$ 139,80 e a loja passou a cobrar R$ 12,23 de frete. O frete grátis vale na opção de entrega mais barata."
+          "O frete grátis da Dr. Peanut depende de onde você mora, e o mínimo conta **depois do cupom**. No nosso teste de 12/11, com entrega em São Paulo, um carrinho de 6 pastas de R$ 155,34 tinha frete grátis; com o cupom, os produtos caíram para R$ 139,80 e a loja passou a cobrar R$ 12,23 de frete. O frete grátis vale na opção de entrega mais barata."
         ],
         "comparisonTable": {
           "caption": "Frete grátis da Dr. Peanut por região: mínimo da loja, sobre o valor depois do cupom.",
@@ -94815,16 +94852,19 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Perto do mínimo, aplique o cupom, informe o CEP e compare o total com e sem o código antes de pagar.",
-          "Os mínimos eram os mesmos em outubro e no início de novembro. Mesmo assim, reconfira o aviso do carrinho: ele mostra o mínimo da sua região no momento da compra."
+          "Os mínimos eram os mesmos em outubro e em novembro. Mesmo assim, reconfira o aviso do carrinho: ele mostra o mínimo da sua região no momento da compra."
         ],
-        "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
-        "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com a faixa do frete grátis no topo, três itens e Total de R$ 440,16",
-        "imageCaption": "Carrinho da Dr. Peanut antes do cupom: a faixa laranja no topo mostra o frete grátis a partir de R$ 149,90. O marca-texto amarelo é nosso.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.6075
+        "image": {
+          "src": "/images/reviews/dr-peanut/black-friday-dr-peanut-combo-cookies-lovers-trio.webp",
+          "alt": "Combo Cookies Lovers Trio da Dr. Peanut, três potes de 600 g de pasta de amendoim sabor Cookies & Cream",
+          "caption": "Combo Cookies Lovers Trio, 3 pastas de 600 g. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.drpeanut.com.br/combo-cookies-lovers-trio/p"
+        }
       },
       {
-        "heading": "Antes de pagar: checklist da Black Friday",
+        "heading": "Antes de pagar: checklist de novembro",
         "paragraphs": [
           "Na semana de 27 de novembro, os preços e os banners mudam rápido. Passe por estes pontos antes de clicar em \"Continuar pagamento\":"
         ],
@@ -94834,28 +94874,51 @@ export const reviewsData: unknown[] = [
           "**Frete:** o mínimo do frete grátis conta o valor depois do cupom: compare o total, já com o desconto, com o mínimo da sua região.",
           "**Peso e quantidade:** confira o peso do pote e quantos potes o combo traz. Compare o preço por quilo entre o pote avulso e o combo, em vez de olhar só o preço final. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
           "**Validade e lote:** veja a validade e o lote do produto no rótulo quando o pedido chegar. Se houver avaria, embalagem violada ou item errado, você pode recusar a encomenda na entrega e escrever o motivo no verso da nota fiscal.",
-          "**Troca:** arrependimento são 7 dias corridos do recebimento, e a loja paga a devolução. A política da loja pede a embalagem original e o lacre intactos; o direito de arrependimento em 7 dias vale de qualquer jeito. A troca por outro produto tem o frete de ida e de volta por sua conta, então confira o sabor antes de fechar. Os prazos completos (inclusive o de defeito) estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel).",
+          "**Troca:** arrependimento são 7 dias corridos do recebimento, e a loja paga a devolução. A política da loja pede a embalagem original e o lacre intactos; o direito de arrependimento em 7 dias vale de qualquer jeito. A troca por outro produto tem o frete de ida e de volta por sua conta, então confira o sabor antes de fechar. Defeito em alimento tem 30 dias, e o pedido sai pelo SAC, no e-mail sac@supley.com.br, com o número do pedido e a nota fiscal.",
           "**Site oficial:** compre em drpeanut.com.br e confira, no carrinho, \"Produto fornecido e entregue por Dr. Peanut\"."
-        ],
-        "postParagraphs": [
-          "Para ver como a loja se comporta quando o volume de pedidos sobe, a nota e as reclamações mais comuns estão em [Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/dr-peanut-reclame-aqui-nota-reputacao)."
         ]
+      },
+      {
+        "heading": "Qual combo escolher e quando comprar",
+        "paragraphs": [
+          "A conta por 100 g favorece o combo maior, e o frete grátis decide onde ele compensa. Para provar sabores, os combos de 2 ou 3 potes de 250 g bastam. Para repor, os de 600 g têm o menor preço por 100 g, mas só o de 4 potes segura o frete grátis no Sul e no Sudeste depois do cupom.",
+          "Esperar a Black Friday não tem preço de campanha para comparar: a loja não publicou lista nem data, e o Doctor November já está no ar. Se o pedido não é urgente, compare o total do carrinho na semana da Black Friday com o de hoje, sempre com o cupom."
+        ],
+        "emphasis": "Para quem já consome a pasta, o combo de 4 potes de 600 g com o DREMCASACOMCECILIA tem o menor preço por 100 g da tabela e mantém o frete grátis no Sul e no Sudeste; para só provar, o de 3 potes de 250 g.",
+        "image": {
+          "src": "/images/reviews/dr-peanut/black-friday-dr-peanut-combo-flavor-fusion.webp",
+          "alt": "Combo Flavor Fusion da Dr. Peanut com quatro potes de 250 g: Leite em Pó, Avelã, Doce de Leite e Cookies & Cream",
+          "caption": "Combo Flavor Fusion, 4 pastas de 250 g. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.drpeanut.com.br/combo-flavor-fusion-4-pastas-de-250g-doce-de-leite-avela-leite-em-po-cookies---cream/p"
+        }
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Dr. Peanut? A loja não anunciou campanha: em novembro, o site não tinha datas, produtos nem preços de Black Friday. O grande dia é a última sexta-feira de novembro, e a Cyber Monday, a segunda seguinte. Se a campanha sair, o cupom DREMCASACOMCECILIA segue com 10% OFF em todo o site, e o carrinho mostra se ele soma com a oferta.",
-          "O cupom DREMCASACOMCECILIA vale na Black Friday? Vale. O cupom Dr. Peanut DREMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções no ar: no nosso teste, entrou também sobre a pasta de amendoim que já estava em promoção.",
-          "A Dr. Peanut tem frete grátis? Tem, e o mínimo conta o valor depois do cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
-          "Quanto o carrinho precisa ter para ter frete grátis com o cupom? O mínimo da sua região, já com o desconto: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. Se o cupom deixar o total abaixo disso, a loja cobra o frete.",
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, em todas as formas de pagamento. Cole o código no campo “Código” do carrinho e clique em “Adicionar”; as condições estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
+          "Quando começa e quanto dura a Black Friday da Dr. Peanut? A loja não tem página de Black Friday: a campanha de novembro é o Doctor November, com leve 8 e pague 5, \"Comprou, ganhou\" e a Assinatura Doctor, sem data de fim no site. O grande dia é a última sexta-feira de novembro, e a Cyber Monday, a segunda seguinte.",
+          "O cupom DREMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 10% OFF em todo o site e soma com as promoções no ar: no nosso teste, entrou também sobre a pasta de amendoim que já estava em promoção.",
+          "A Dr. Peanut tem frete grátis? Tem, e o mínimo conta o valor depois do cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. Se o cupom deixar o total abaixo disso, a loja cobra o frete.",
           "A Dr. Peanut tem desconto no Pix? Tem: 3%. No checkout, os 3% entraram sobre o valor dos produtos já com o cupom, que vale em todas as formas de pagamento.",
           "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, e a loja paga a devolução (a política da loja pede a embalagem original e o lacre intactos). Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",
-          "Vale esperar a Black Friday para comprar? Se o pedido não é urgente, compare o total do carrinho na semana da Black Friday com o de hoje, já com o cupom. A loja não publicou preço de campanha, então nenhum desconto está garantido.",
-          "O cupom vale na assinatura da Dr. Peanut? No nosso teste, o DREMCASACOMCECILIA foi aceito no primeiro carrinho da assinatura e somou ao desconto progressivo. A página da assinatura não informa se ele se repete nas cobranças seguintes: confirme na contratação.",
-          "Qual combo da Dr. Peanut compensa na Black Friday? Para provar, os combos de 2 ou 3 potes de 250 g. Para repor, os de 600 g têm o menor preço por 100 g, e o de 4 potes mantém o frete grátis no Sul e no Sudeste mesmo com o cupom. Compre a quantidade que você vai consumir."
+          "Vale esperar a Black Friday para comprar? A loja não publicou preço de campanha, então nenhum desconto extra está garantido. O capítulo de escolha diz como comparar o total na semana da data.",
+          "O cupom vale na assinatura da Dr. Peanut? No nosso teste, o DREMCASACOMCECILIA foi aceito no primeiro carrinho da assinatura e somou ao desconto progressivo, que chega a 20% com 4 ou mais pastas. A página da assinatura não informa se ele se repete nas cobranças seguintes: confirme na contratação.",
+          "Qual combo da Dr. Peanut compensa? Para provar, os de 2 ou 3 potes de 250 g. Para repor, os de 600 g têm o menor preço por 100 g, e o de 4 potes mantém o frete grátis no Sul e no Sudeste mesmo com o cupom."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você já consome a pasta e quer repor pelo menor preço por 100 g, conferindo o frete da sua região",
+        "Você quer provar sabores e prefere combos de 250 g a um pote grande"
+      ],
+      "skipIf": [
+        "Você levaria um pote a mais só para alcançar o frete grátis, o que aumenta o gasto",
+        "Você quer comprar pelo Mercado Livre, onde o cupom da Dr. Peanut não vale"
+      ]
+    }
   },
   {
     "id": 439,
@@ -94876,47 +94939,75 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Probiótica 2026: o cupom PRO10EMCASACOMCECILIA dá até 10% OFF. A campanha já começou, com até 5% no Pix e no boleto e frete grátis.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/probiotica/black-friday-probiotica-capa-v2.webp",
     "imageAlt": "Potes de creatina da Probiótica com colher sobre fundo bege, em composição promocional oficial.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "O cupom PRO10EMCASACOMCECILIA vale em conta nova e antiga, em todas as formas de pagamento",
-      "O cupom soma com o preço promocional: no Iso Protein Blend de 900 g, a R$ 79,00, tirou 7%",
-      "Creatina Monohidratada de 300 g por R$ 58,70 com o cupom, R$ 0,98 por porção de 5 g",
-      "Frete grátis a partir de R$ 104 na capital de São Paulo, pela forma de envio mais barata",
-      "Amostras entram sozinhas no carrinho, e os brindes maiores, a partir de faixas de valor"
-    ],
-    "cons": [
-      "Na maioria dos produtos que testamos em novembro, o cupom tirou 2%, abaixo do teto de 10%",
-      "A home anuncia até 5% no Pix e no boleto, mas o total no Pix foi igual ao do cartão nos nossos carrinhos",
-      "Os preços de novembro são os mesmos de outubro nos produtos que comparamos",
-      "A faixa dos brindes conta depois do cupom: o desconto pode tirar um brinde do carrinho",
-      "A loja não publicou data de fim nem percentual geral do Novembro PRO"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
-        "heading": "Resposta rápida: Black Friday Probiótica 2026",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "O Novembro PRO da Probiótica segue no ar, com os mesmos preços de outubro nos produtos que comparamos. O PRO10EMCASACOMCECILIA dá até 10% OFF: nos nossos carrinhos de novembro, tirou 2% na maioria dos produtos e 7% em dois wheys em oferta. O total no Pix foi igual ao do cartão."
+          "O Novembro PRO da Probiótica segue no ar, sem data de fim, e o [cupom Probiótica](/cupons/probiotica) PRO10EMCASACOMCECILIA dá até 10% OFF por cima do preço de campanha. Nos nossos carrinhos de novembro, tirou 2% na maioria dos produtos e 7% em dois wheys em oferta. O que muda o total é o frete e a faixa dos brindes."
         ]
       },
       {
         "heading": "Quando é e o que está no ar no Novembro PRO",
         "paragraphs": [
-          "A campanha de novembro da Probiótica é o Novembro PRO, e ele já começou: a home diz \"Já começou o Novembro PRO, por tempo limitado\", com Pix e boleto de até 5% OFF. A loja não publicou data de fim nem um percentual geral de desconto: o preço de campanha aparece produto a produto, com o preço riscado ao lado.",
-          "Em 2026, a Black Friday cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. Os termos da loja permitem lançar ofertas sem aviso prévio, e o estoque pode mudar. A tabela de outubro ajuda a comparar, mas não prevê os preços dessas datas nem decide, sozinha, se vale comprar agora."
+          "A campanha de novembro da Probiótica é o Novembro PRO, e a página [Novembro PRO](https://www.probiotica.com.br/novembro-pro?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) segue no ar, sem data de fim. A home diz \"Já começou o Novembro PRO, por tempo limitado\", com Pix e boleto de até 5% OFF, e o site tem \"Roupas e Acessórios com até 50% OFF\". Não existe uma página chamada Black Friday: o Novembro PRO é a campanha, e o preço aparece produto a produto, com o preço riscado ao lado.",
+          "Em 2026, a Black Friday cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. Os termos da loja permitem lançar ofertas sem aviso prévio, e o estoque pode mudar. A tabela de outubro ajuda a comparar, mas não prevê os preços dessas datas nem decide, sozinha, se vale comprar agora.",
+          "O Novembro PRO põe três kits em destaque. A tabela abaixo compara cada um com os mesmos itens comprados avulsos, e a conta é nossa, pelos preços de venda do site no cartão."
         ],
         "image": {
           "src": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
-          "alt": "Página inicial do site da Probiótica em 14/10/2026, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos (squeeze, galão de 1,8 L e toalha)",
+          "alt": "Página inicial do site da Probiótica em outubro, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos (squeeze, galão de 1,8 L e toalha)",
           "caption": "A página inicial da Probiótica em outubro, antes do Novembro PRO, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "comparisonTable": {
+          "caption": "Kits do Novembro PRO e os mesmos itens avulsos, preço de venda no cartão em 22/11, antes do cupom.",
+          "headers": [
+            "Kit",
+            "Preço do kit",
+            "Itens avulsos somados",
+            "Diferença"
+          ],
+          "rows": [
+            [
+              "Kit Hiper 100% Whey 900 g + Creatina 300 g",
+              "R$ 164,80 (de R$ 285,49; R$ 159,86 no Pix)",
+              "R$ 184,80",
+              "R$ 20,00 a menos no kit"
+            ],
+            [
+              "Kit Iso Protein Blend 900 g + Creatina 300 g",
+              "R$ 128,90",
+              "R$ 138,90",
+              "R$ 10,00 a menos no kit"
+            ],
+            [
+              "Kit 2x Hiper 100% Whey (1,8 kg)",
+              "R$ 249,80",
+              "R$ 249,80",
+              "Igual ao avulso"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os termos da loja dizem que promoção não vale para kit, porque ele já traz desconto. Por isso, compare o kit com os itens avulsos com o cupom aplicado antes de decidir, e confira a linha \"Descontos\" no carrinho."
+        ],
+        "links": [
+          {
+            "label": "Ver o Novembro PRO na Probiótica",
+            "href": "https://www.probiotica.com.br/novembro-pro?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Whey: qual levar pelo custo da proteína",
@@ -94965,13 +95056,43 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "[Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): o menor custo por proteína, com uma ressalva de composição. Ele mistura proteína isolada de soja com whey concentrado; o rótulo avisa que contém derivados de leite e de soja, pode conter ovo e contém lactose. É a escolha de quem aceita a soja na fórmula.",
-          "[Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): a opção só de whey com o menor custo por proteína entre as que testamos, a R$ 124,90 contra o preço riscado de R$ 210,39.",
+          "[Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): a opção só de whey com o menor custo por proteína entre as que testamos, a R$ 124,90 contra o preço riscado de R$ 210,39. Se a promoção sair, o preço volta ao de lista e a conta muda.",
           "100% Pure Whey, [refil](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) ou [pote](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): o conteúdo é o mesmo, e o refil custa R$ 16,84 a menos. O [kit com 2 refis](https://www.probiotica.com.br/pack-100-whey/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) saiu por R$ 461,87 com o cupom, e dois refis avulsos, por R$ 461,88: o kit não dá desconto, então só leve dois se for usar os dois.",
-          "[Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): a versão para quem evita lactose, com custo por proteína um pouco abaixo do Pure Whey em refil.",
+          "[Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): a versão para quem evita lactose, com custo por proteína um pouco abaixo do Pure Whey em refil. A frente do pote diz 22 g de proteína por porção, e a tabela nutricional declara 21 g: a conta usa a tabela.",
           "[Iso Pro Whey](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi): a maior concentração de proteína da tabela, 26 g em 30 g, e o maior preço. Isolado não é automaticamente zero lactose: o rótulo do Iso Pro avisa que contém lactose."
         ],
         "postParagraphs": [
-          "A comparação com outra marca pelo mesmo critério está em [Probiótica ou Integralmédica: whey e creatina pelo rótulo](/reviews/probiotica-ou-integralmedica), e a escolha por objetivo, em [Melhor whey em 2026: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
+          "A escolha entre os cinco wheys por perfil está em [Whey Probiótica: qual escolher](/reviews/whey-probiotica-qual-escolher). A comparação com outra marca pelo mesmo critério está em [Probiótica ou Integralmédica: whey e creatina pelo rótulo](/reviews/probiotica-ou-integralmedica), e a escolha por objetivo, em [Melhor whey em 2026: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+            "alt": "Pote azul do Hiper 100% Whey da Probiótica, 900 g, sabor chocolate, em foto oficial de frente.",
+            "caption": "Hiper 100% Whey de 900 g. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          },
+          {
+            "src": "/images/reviews/whey/probiotica-iso-protein-blend-morango.webp",
+            "alt": "Pote azul do Iso Protein Blend da Probiótica, 900 g, sabor morango, em foto oficial de frente.",
+            "caption": "Iso Protein Blend de 900 g, sabor morango. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 0.588,
+            "href": "https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Iso Protein Blend na Probiótica",
+            "href": "https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Hiper 100% Whey na Probiótica",
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -95023,6 +95144,23 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A conta por 100 g de cada versão está em [Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo](/reviews/creatina-probiotica-qual-compensa), e a do sachê, em [Monodose Probiótica: sachê ou pote, qual compensa pelo preço por 100 g](/reviews/monodose-probiotica-sache-ou-pote)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pote-300g.webp",
+            "alt": "Pote azul da Creatina Monohidratada Pura de 300 g da Probiótica, em foto oficial de frente.",
+            "caption": "Creatina Monohidratada Pura de 300 g. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 0.899,
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina 300 g na Probiótica",
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -95082,14 +95220,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nos cinco produtos, o preço de novembro é o mesmo de outubro. Até aqui, o Novembro PRO não mexeu nesses itens: o que muda o total é o cupom, o frete e os brindes.",
+          "Nos cinco produtos, o preço de novembro é o mesmo de outubro, e a conferência de 22/11 repetiu os mesmos valores. Até aqui, o Novembro PRO não mexeu nesses itens: o que muda o total é o cupom, o frete e os brindes.",
           "O [Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) segue R$ 42,99 abaixo do preço riscado, cerca de 35% antes do cupom, e a [creatina de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), R$ 15,20 abaixo, cerca de 20%. Esses descontos já existiam em outubro."
-        ],
-        "image": "/images/reviews/probiotica/probiotica-cupom-01-carrinho-sem-cupom.webp",
-        "imageAlt": "Carrinho da Probiótica em 13/10/2026 com a creatina de 300g a R$ 59,90, com o preço de R$ 75,10 riscado, junto de um kit de colágeno, uma camiseta e uma barra de proteína",
-        "imageCaption": "Carrinho da Probiótica: a creatina de 300g a R$ 59,90, com o preço de R$ 75,10 riscado. O marca-texto amarelo é nosso.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.2844
+        ]
       },
       {
         "heading": "Cupom, Pix e frete grátis: o que soma",
@@ -95098,7 +95231,7 @@ export const reviewsData: unknown[] = [
           "Ele vale em todas as formas de pagamento, para conta nova e para quem já comprou. Os outros descontos e regras que mexem no total:"
         ],
         "bullets": [
-          "**Pix e boleto:** a home anuncia até 5% OFF. Nos carrinhos que montamos em novembro, o total no Pix foi igual ao do cartão. Trate o desconto do Pix como possível, não como certo, e confira o valor na etapa de pagamento.",
+          "**Pix e boleto:** a faixa do site anuncia até 5% OFF, mas o desconto varia por item (nos kits do Novembro PRO, cerca de 3%), e nos carrinhos que montamos em novembro o Pix empatou com o cartão em alguns itens. Trate o desconto do Pix como possível, não como certo, e confira o valor na etapa de pagamento.",
           "**Preço de lista e preço no Pix:** as tabelas deste guia usam o preço que o site mostra e o total do carrinho com o cupom. Não aplicamos um desconto de Pix por cima.",
           "**Frete grátis:** depende da região do CEP e vale para a forma de envio mais barata. Sedex é por conta do cliente.",
           "**Brindes:** as amostras entram sozinhas em todo carrinho. A squeeze apareceu a partir de cerca de R$ 235, e o galão, a toalha e a monodose, acima de R$ 299,90. A faixa conta depois do cupom: um carrinho de R$ 300,38 perdeu a toalha e a monodose quando o cupom levou o total a R$ 294,37."
@@ -95138,7 +95271,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Na capital paulista, um carrinho de R$ 107,79 seguiu com frete grátis depois do cupom, a R$ 105,63, ainda acima do mínimo de R$ 104. O teste não mostra o que acontece quando o cupom leva o total para baixo do mínimo: com o pedido perto da faixa da sua região, confira o frete depois de aplicar o código.",
-          "A ordem prática é montar o carrinho, aplicar o cupom no campo \"Cupom de Desconto\", conferir a linha \"Descontos\", os brindes e o total contra o mínimo da região e só então escolher a forma de pagamento. As condições do código estão na [página do cupom da Probiótica](/cupons/probiotica), e o passo a passo, em [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar)."
+          "A ordem prática é montar o carrinho, aplicar o cupom no campo \"Cupom de Desconto\", conferir a linha \"Descontos\", os brindes e o total contra o mínimo da região e só então escolher a forma de pagamento. As condições do código estão na [página do cupom da Probiótica](/cupons/probiotica), e o passo a passo, em [como usar o cupom de até 10% OFF da Probiótica](/reviews/cupom-probiotica-como-usar)."
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Resumo do pedido da Probiótica com o cupom PRO10EMCASACOMCECILIA: subtotal R$ 659,35, descontos R$ -54,75, total R$ 604,60",
@@ -95149,7 +95282,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits e trocas: o que a loja diz nos termos",
         "paragraphs": [
-          "Os termos da loja dizem que promoções não valem para kits, porque eles já têm desconto. No kit que conferimos, o de [2 refis de 100% Pure Whey](https://www.probiotica.com.br/pack-100-whey/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), o preço foi o mesmo de dois refis avulsos, com e sem o cupom. Compare o kit com os mesmos itens avulsos antes de levar a quantidade maior.",
+          "Os termos da loja dizem que promoções não valem para kits, porque eles já têm desconto. No kit de preço fechado que conferimos, o de [2 refis de 100% Pure Whey](https://www.probiotica.com.br/pack-100-whey/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), o preço foi o mesmo de dois refis avulsos, com e sem o cupom. Compare o kit com os mesmos itens avulsos antes de levar a quantidade maior.",
           "Os prazos de troca e devolução:"
         ],
         "bullets": [
@@ -95158,18 +95291,35 @@ export const reviewsData: unknown[] = [
           "**Como a loja resolve o defeito:** depois da análise, troca, devolução do dinheiro ou cupom."
         ],
         "postParagraphs": [
-          "Os 7 dias começam quando o pacote chega, não na compra. Guarde a nota fiscal e abra o pedido assim que perceber o problema. O quadro completo está em [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel), e os números da loja no Reclame Aqui, em [Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/probiotica-reclame-aqui-nota-reputacao)."
-        ]
+          "Os 7 dias começam quando o pacote chega, não na compra. Guarde a nota fiscal e abra o pedido assim que perceber o problema, pelo SAC da loja, com o número do pedido."
+        ],
+        "image": {
+          "src": "/images/reviews/probiotica/black-friday-probiotica-pack-2x-refil.webp",
+          "alt": "Kit com dois refis de 900 g do 100% Pure Whey da Probiótica, sabor chocolate",
+          "caption": "Pack 2x 100% Pure Whey refil, 1,8 kg no total. Imagem: Probiótica.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.probiotica.com.br/pack-100-whey/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+        }
+      },
+      {
+        "heading": "Comprar agora ou esperar a Black Friday",
+        "paragraphs": [
+          "Nos cinco produtos que comparamos, o preço de novembro é o de outubro, e a loja não publicou data de fim para o Novembro PRO. Quem já escolheu o whey ou a creatina não ganha nada por esperar uma queda que ninguém anunciou: os termos permitem ofertas novas sem aviso, mas não prometem nenhuma.",
+          "Quem ainda está comparando fecha a conta pelo total do carrinho, com o cupom aplicado, os brindes e o frete da região. O percentual do código muda de item para item, e a linha \"Descontos\" mostra o valor real."
+        ],
+        "emphasis": "Quem já escolheu o produto pode comprar agora pelo preço de campanha com o cupom por cima, porque a loja não anunciou nem data de fim nem um preço melhor para a Black Friday."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial, em todas as formas de pagamento. Cole o código no campo \"Cupom de Desconto\" do carrinho, clique em \"Adicionar\" e confira a linha \"Descontos\"; as condições estão na [página do cupom da Probiótica](/cupons/probiotica).",
           "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já está no ar, por tempo limitado, sem data de fim publicada. A Black Friday do calendário é a última sexta de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba; confirme as disponíveis no dia da compra.",
           "Os preços da Probiótica caíram no Novembro PRO? Nos cinco produtos que comparamos, o preço de meados de novembro é o mesmo de outubro: Iso Protein Blend, 100% Pure Whey, creatina de 300 g, Whey Bar Creamy e Pro Collagen.",
-          "Quanto o cupom PRO10EMCASACOMCECILIA tira de verdade? Até 10%, conforme o produto. Nos nossos carrinhos de novembro, tirou 2% na maioria dos produtos e 7% no Iso Protein Blend e no Hiper 100% Whey. A linha Descontos do carrinho mostra o valor antes de pagar.",
-          "O cupom PRO10EMCASACOMCECILIA vale na Black Friday? Vale. O cupom Probiótica PRO10EMCASACOMCECILIA entrou em todos os carrinhos de novembro, inclusive nos produtos com preço promocional.",
+          "Quanto o cupom PRO10EMCASACOMCECILIA tira de verdade? Depende do produto. Nos nossos carrinhos de novembro, tirou 2% na maioria dos itens e 7% no Iso Protein Blend e no Hiper 100% Whey, que estavam em oferta. A linha \"Descontos\" do carrinho mostra o valor antes de pagar.",
+          "O cupom vale na Black Friday? Vale. Ele entrou em todos os carrinhos de novembro, inclusive nos produtos com preço promocional.",
           "Qual whey da Probiótica compensa mais? Pelo custo da proteína, o Iso Protein Blend de 900 g, que mistura soja e whey: R$ 73,47 com o cupom, R$ 13,06 por 100 g de proteína. Só de whey, o Hiper 100% Whey sai por R$ 116,16, R$ 22,45 por 100 g de proteína.",
-          "O cupom vale no Pix? Vale, em todas as formas de pagamento. A home anuncia até 5% OFF no Pix e no boleto, mas, nos nossos carrinhos de novembro, o total no Pix foi igual ao do cartão.",
+          "O cupom vale no Pix? Vale, em todas as formas de pagamento. A faixa do site anuncia até 5% OFF no Pix e no boleto, mas o desconto varia por item e, em alguns carrinhos de novembro, o total no Pix foi igual ao do cartão.",
           "A Probiótica tem frete grátis? Tem, a partir de R$ 104 (capital de SP) a R$ 599 (Norte), na forma de envio mais barata e fora o Sedex. Cupom pode derrubar o total abaixo do mínimo.",
           "O brinde conta o valor com ou sem cupom? Conta o valor depois do cupom. No nosso teste, um carrinho de R$ 300,38 perdeu dois brindes quando o cupom levou o total a R$ 294,37.",
           "Dá para trocar um produto da Probiótica? Sim. O arrependimento vale por 7 dias corridos depois do recebimento (a loja pede embalagem e lacre intactos), e o defeito, por 30 dias corridos.",
@@ -95191,13 +95341,25 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-probiotica-como-usar"
       },
       {
-        "slug": "probiotica-e-confiavel"
+        "slug": "whey-probiotica-qual-escolher"
       },
       {
-        "slug": "probiotica-reclame-aqui-nota-reputacao"
+        "slug": "creatina-probiotica-qual-compensa"
       }
     ],
-    "bodyDatesReason": "campanha"
+    "bodyDatesReason": "campanha",
+    "decision": {
+      "takeIf": [
+        "Você já escolheu o whey ou a creatina e quer pagar o menor custo por proteína ou por porção da tabela.",
+        "O total do carrinho passa do mínimo de frete grátis da sua região mesmo depois do cupom.",
+        "Você quer somar o cupom ao preço de campanha: nos carrinhos de novembro, ele entrou por cima do preço promocional."
+      ],
+      "skipIf": [
+        "Você só compraria pelo preço riscado: ele já existia em outubro e não prova desconto novo.",
+        "O total está perto do mínimo de frete ou de uma faixa de brinde e o cupom o deixaria abaixo dela.",
+        "Você espera 10% cheio em todo item: nos carrinhos de novembro, o cupom tirou 2% na maioria dos produtos."
+      ]
+    }
   },
   {
     "bodyDatesReason": "campanha",
@@ -97588,8 +97750,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 446,
     "slug": "dr-peanut-melhor-sabor",
-    "title": "Dr. Peanut: qual o melhor sabor? Os 12 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos",
-    "seoTitle": "Dr. Peanut: qual o melhor sabor? Rótulo e preço [2026]",
+    "title": "Dr. Peanut: qual o melhor sabor? Os 10 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo e preço",
+    "seoTitle": "Dr. Peanut: qual o melhor sabor? Rótulo e preço",
     "type": "Guia de escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -97600,8 +97762,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os 12 sabores de pasta de amendoim e os 5 de whey da Dr. Peanut comparados pelo rótulo e pelo preço por 100 g, com os mais vendidos segundo a loja e qual escolher pelo seu perfil.",
-    "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Sabores de pasta e de whey pelo rótulo e preço por 100 g, sem eleger o mais gostoso.",
+    "description": "Os 10 sabores de pasta de amendoim e os 5 de whey da Dr. Peanut comparados pelo rótulo e pelo preço por 100 g, com qual escolher pelo seu perfil de proteína, açúcar e sódio.",
+    "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Compare os sabores de pasta e de whey por proteína, açúcar e preço por 100 g.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -97620,12 +97782,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Todos os sabores e o preço por 100 g",
         "paragraphs": [
-          "A base é a tabela de cada sabor e o preço por 100 g, com os sabores que a loja destaca; gosto, só provando. Em 27/10/2026, a listagem da loja trazia 20 potes de pasta de amendoim, que somam **12 sabores** em dois tamanhos: 9 potes de 250 g e 11 de 600 g. Nem todo sabor aparece nos dois tamanhos:"
+          "A base é a tabela de cada sabor e o preço por 100 g; gosto, só provando. A loja tem página para **10 sabores** de pasta de amendoim, em dois tamanhos: Beijinho e Banoffee saíram do catálogo. Nem todo sabor aparece nos dois tamanhos:"
         ],
         "bullets": [
-          "Nos dois tamanhos: Avelã, Bombom Italiano, Brownie, Bueníssimo, Cookies & Cream, Doce de Leite, Leite em Pó e Pistache.",
-          "Só no pote de 600 g: Banoffee, Beijinho e Chocolate Branco.",
-          "Só no pote de 250 g: Caramelo Salgado."
+          "Nos dois tamanhos: [Avelã](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p), [Bombom Italiano](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-bombom-italiano/p), [Brownie](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-brownie/p), [Bueníssimo](https://www.drpeanut.com.br/pasta-de-amendoim-buenissimo-com-whey-proteine/p), [Cookies & Cream](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-cookies---cream/p), [Doce de Leite](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-doce-de-leite/p), [Leite em Pó](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-leite-em-po/p) e [Pistache](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p).",
+          "Só no pote de 600 g: [Chocolate Branco](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-chocolate-branco/p).",
+          "Só no pote de 250 g: [Caramelo Salgado](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-caramelo-salgado/p)."
         ],
         "comparisonTable": {
           "headers": [
@@ -97658,74 +97820,83 @@ export const reviewsData: unknown[] = [
               "R$ 9,98"
             ],
             [
-              "Combo de 2 potes de 600 g, como o Avelã Lovers Duo",
+              "Combo de 2 potes de 600 g: [Cookies Lovers Duo](https://www.drpeanut.com.br/combo-cookies-lovers-duo/p) ou [Bueníssimo Duo](https://www.drpeanut.com.br/combo-buenissimo-duo/p)",
               "2 × 600 g",
               "R$ 110,20",
               "R$ 99,18",
               "R$ 9,18"
             ],
             [
-              "Combo Best Sellers: Avelã, Bueníssimo e Cookies & Cream",
+              "Combo de 3 potes de 600 g: [Cookies Lovers Trio](https://www.drpeanut.com.br/combo-cookies-lovers-trio/p) ou [Bueníssimo Trio](https://www.drpeanut.com.br/combo-buenissimo-trio/p)",
               "3 × 600 g",
               "R$ 158,11",
               "R$ 142,30",
               "R$ 8,78"
             ],
             [
-              "Combo de 4 potes de 600 g, como os quartetos Lovers",
+              "Combo de 4 potes de 600 g: [Cookies Lovers Quarteto](https://www.drpeanut.com.br/combo-cookies-lovers-quarteto/p) ou [Bueníssimo Quarteto](https://www.drpeanut.com.br/combo-buenissimo-quarteto/p)",
               "4 × 600 g",
               "R$ 203,63",
               "R$ 183,27",
               "R$ 8,48"
             ],
             [
-              "Combo Royale",
-              "5 × 600 g",
-              "R$ 252,42",
-              "R$ 227,18",
-              "R$ 8,41"
-            ],
-            [
-              "Combo Cozy: Doce de Leite e Caramelo Salgado",
+              "Combo de 2 potes de 250 g: [Cozy](https://www.drpeanut.com.br/combo-cozy-doce-de-leite-caramelo-salgado-250g/p) (Doce de Leite e Caramelo Salgado)",
               "2 × 250 g",
               "R$ 47,64",
               "R$ 42,88",
               "R$ 9,53"
             ],
             [
-              "Combo de 3 potes de 250 g, como o Zenith",
+              "Combo de 3 potes de 250 g, como o [Zenith](https://www.drpeanut.com.br/combo-zenith-avela-cookies-leite-em-po-250g/p)",
               "3 × 250 g",
               "R$ 68,35",
               "R$ 61,52",
               "R$ 9,11"
             ],
             [
-              "Combo de 4 potes de 250 g, como o Prime",
+              "Combo de 4 potes de 250 g, como o [Prime](https://www.drpeanut.com.br/combo-prime-avela-cookies-leite-em-po-caramelo-salgado-250g/p)",
               "4 × 250 g",
               "R$ 88,03",
               "R$ 79,23",
               "R$ 8,80"
             ],
             [
-              "Combo de 5 potes de 250 g, como o Infinity",
+              "Combo de 5 potes de 250 g, como o [Infinity](https://www.drpeanut.com.br/combo-infinity-avela-cookies-leite-em-po-caramelo-salgado-doce-de-leite-250g/p)",
               "5 × 250 g",
               "R$ 109,12",
               "R$ 98,21",
               "R$ 8,73"
             ]
           ],
-          "caption": "Preços exibidos na loja, sem frete. Coluna com cupom: estimativa de 10%, sem outros descontos de pagamento."
+          "caption": "Preços da loja em 22/11, sem frete. Coluna com cupom: estimativa de 10%, sem outros descontos de pagamento."
         },
         "postParagraphs": [
-          "Na tabela, o sabor não muda o preço dentro do mesmo tamanho: o que muda é o tamanho e o combo. O pote de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g, e os combos reduzem mais esse custo: até o par de 250 g fica abaixo do pote avulso de 600 g por 100 g. Os combos e os brindes mudam; confira o valor no dia da compra."
+          "Na tabela, o sabor não muda o preço dentro do mesmo tamanho: o que muda é o tamanho e o combo. O pote de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g, e os combos reduzem mais esse custo: até o par de 250 g fica abaixo do pote avulso de 600 g por 100 g. Os combos mudam; confira o valor no dia da compra."
         ],
-        "image": {
-          "src": "/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
-          "alt": "Potes de pasta de amendoim Dr. Peanut nos 12 sabores vendidos em 27/10/2026, em fotos oficiais da loja",
-          "caption": "Os 12 sabores que a Dr. Peanut vende; o Caramelo Salgado só existe no pote de 250 g. Fotos oficiais da loja.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+            "alt": "Pote de 250 g da pasta de amendoim Dr. Peanut sabor Avelã, em foto oficial da marca",
+            "caption": "Pasta de amendoim Avelã, pote de 250 g. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p"
+          },
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-pasta-pistache-600g.webp",
+            "alt": "Pote de 600 g da pasta de amendoim Dr. Peanut sabor Pistache, em foto oficial da marca",
+            "caption": "Pasta de amendoim Pistache, pote de 600 g. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver as pastas na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Quadro nutricional dos sabores",
@@ -97743,7 +97914,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Avelã",
+              "[Avelã](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p)",
               "88",
               "2,9 g",
               "1 g",
@@ -97754,29 +97925,7 @@ export const reviewsData: unknown[] = [
               "587 / 20 g / 5,5 g / 6,4 g"
             ],
             [
-              "Banoffee",
-              "83",
-              "2,5 g",
-              "1 g",
-              "0",
-              "2,7 g",
-              "1,6 g",
-              "22 mg",
-              "551 / 17 g / 6,7 g / 18 g"
-            ],
-            [
-              "Beijinho",
-              "90",
-              "2,8 g",
-              "1,5 g",
-              "0",
-              "1,2 g",
-              "2 g",
-              "28 mg",
-              "601 / 19 g / 10 g / 8 g"
-            ],
-            [
-              "Bombom Italiano",
+              "[Bombom Italiano](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-bombom-italiano/p)",
               "84",
               "2,5 g",
               "1,1 g",
@@ -97787,7 +97936,7 @@ export const reviewsData: unknown[] = [
               "557 / 17 g / 7,4 g / 17 g"
             ],
             [
-              "Brownie",
+              "[Brownie](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-brownie/p)",
               "87",
               "2,9 g",
               "0,7 g",
@@ -97798,7 +97947,7 @@ export const reviewsData: unknown[] = [
               "579 / 19 g / 4,7 g / 6,7 g"
             ],
             [
-              "Bueníssimo",
+              "[Bueníssimo](https://www.drpeanut.com.br/pasta-de-amendoim-buenissimo-com-whey-proteine/p)",
               "88",
               "2,8 g",
               "1 g",
@@ -97809,7 +97958,7 @@ export const reviewsData: unknown[] = [
               "590 / 19 g / 6,6 g / 6,7 g"
             ],
             [
-              "Caramelo Salgado",
+              "[Caramelo Salgado](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-caramelo-salgado/p)",
               "83",
               "2,5 g",
               "1,3 g",
@@ -97820,7 +97969,7 @@ export const reviewsData: unknown[] = [
               "553 / 17 g / 8,7 g / 19 g"
             ],
             [
-              "Chocolate Branco",
+              "[Chocolate Branco](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-chocolate-branco/p)",
               "87",
               "3 g",
               "0,8 g",
@@ -97831,7 +97980,7 @@ export const reviewsData: unknown[] = [
               "580 / 17 g / 5,1 g / 19 g"
             ],
             [
-              "Cookies & Cream",
+              "[Cookies & Cream](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-cookies---cream/p)",
               "85",
               "2,6 g",
               "0,7 g",
@@ -97842,7 +97991,7 @@ export const reviewsData: unknown[] = [
               "557 / 17 g / 4,6 g / 20 g"
             ],
             [
-              "Doce de Leite",
+              "[Doce de Leite](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-doce-de-leite/p)",
               "85",
               "2,8 g",
               "1,4 g",
@@ -97853,7 +98002,7 @@ export const reviewsData: unknown[] = [
               "568 / 18 g / 9 g / 12 g"
             ],
             [
-              "Leite em Pó",
+              "[Leite em Pó](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-leite-em-po/p)",
               "87",
               "3 g",
               "1,3 g",
@@ -97864,7 +98013,7 @@ export const reviewsData: unknown[] = [
               "579 / 20 g / 8,5 g / 8,4 g"
             ],
             [
-              "Pistache",
+              "[Pistache](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p)",
               "90",
               "2,8 g",
               "1,1 g",
@@ -97878,33 +98027,33 @@ export const reviewsData: unknown[] = [
           "caption": "Tabelas publicadas pela loja: 40 porções por embalagem, salvo o Caramelo Salgado, com cerca de 17."
         },
         "postParagraphs": [
-          "Para comparar proteína, use a coluna por 100 g. Na colher, o Chocolate Branco aparece com 3 g e o Avelã com 2,9 g, mas por 100 g são 17 g contra 20 g. A diferença entre a porção e os 100 g vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Banoffee, Bombom Italiano, Caramelo Salgado, Chocolate Branco e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
-          "Na gordura saturada, Bombom Italiano e Cookies & Cream têm a menor, com 1,1 g por colher, e Beijinho a maior, com 2 g. O sódio vai de 19 mg (Brownie) a 49 mg (Caramelo Salgado) por colher; sem o Caramelo, nenhum sabor passa de 29 mg (Doce de Leite e Leite em Pó). As imagens trazem também fibras, de 0 g (Caramelo Salgado) a 1 g por colher, e gorduras totais, de 6,5 a 7,3 g."
+          "Para comparar proteína, use a coluna por 100 g. Na colher, o Chocolate Branco aparece com 3 g e o Avelã com 2,9 g, mas por 100 g são 17 g contra 20 g. A diferença entre a porção e os 100 g vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Bombom Italiano, Caramelo Salgado, Chocolate Branco e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
+          "Na gordura saturada, Bombom Italiano e Cookies & Cream têm a menor, com 1,1 g por colher, e Avelã e Leite em Pó a maior, com 1,8 g. O sódio vai de 19 mg (Brownie) a 49 mg (Caramelo Salgado) por colher; sem o Caramelo, nenhum sabor passa de 29 mg (Doce de Leite e Leite em Pó). As imagens trazem também fibras, de 0 g (Caramelo Salgado) a 1 g por colher, e gorduras totais, de 6,5 a 7,3 g."
         ]
       },
       {
-        "heading": "Dr. Peanut é zero açúcar?",
+        "heading": "Açúcar e adoçantes por sabor",
         "paragraphs": [
-          "Não. A Dr. Peanut é **sem adição de açúcares**, que é outra coisa. O pote diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" marca 0 g nos 12 sabores. Mas todos têm açúcares na tabela: de 4,6 g por 100 g, no Cookies & Cream, a 10 g, no Beijinho. Na colher de 15 g, são 0,7 a 1,5 g.",
-          "O doce vem também de **polióis** e de edulcorantes. Os 12 sabores levam maltitol, xilitol, sucralose e acessulfame de potássio. Brownie e Banoffee levam também glicosídeos de esteviol. A quantidade de polióis por 100 g separa os sabores em três faixas (os gramas de cada um estão no quadro acima):"
+          "Não é zero açúcar: a Dr. Peanut é **sem adição de açúcares**, que é outra coisa. O pote diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" marca 0 g nos 10 sabores. Mas todos têm açúcares na tabela: de 4,6 g por 100 g, no Cookies & Cream, a 9 g, no Doce de Leite. Na colher de 15 g, são 0,7 a 1,4 g.",
+          "O doce vem também de **polióis** e de edulcorantes. Os 10 sabores levam maltitol, xilitol, sucralose e acessulfame de potássio, e o Brownie leva também glicosídeos de esteviol. A quantidade de polióis por 100 g separa os sabores em três faixas (os gramas de cada um estão no quadro acima):"
         ],
         "bullets": [
-          "Mais leve, até 8,4 g: Avelã, Brownie, Bueníssimo, Beijinho e Leite em Pó.",
+          "Mais leve, até 8,4 g: Avelã, Brownie, Bueníssimo e Leite em Pó.",
           "No meio, com 12 g: Doce de Leite.",
-          "Mais alta, de 16 a 20 g: Pistache, Bombom Italiano, Banoffee, Caramelo Salgado, Chocolate Branco e Cookies & Cream."
+          "Mais alta, de 16 a 20 g: Pistache, Bombom Italiano, Caramelo Salgado, Chocolate Branco e Cookies & Cream."
         ],
         "postParagraphs": [
-          "Menos açúcar não quer dizer menos poliol. O Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos 12. O Brownie é o único com açúcares totais abaixo de 5 g e polióis abaixo de 7 g por 100 g."
+          "Menos açúcar não quer dizer menos poliol. O Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos 10. O Brownie é o único com açúcares totais abaixo de 5 g e polióis abaixo de 7 g por 100 g."
         ]
       },
       {
-        "heading": "Tem Dr. Peanut zero lactose?",
+        "heading": "Lactose, glúten e alérgenos por sabor",
         "paragraphs": [
-          "Não. As páginas dos 12 sabores dizem **\"CONTÉM LACTOSE\"**, e a loja não vendia versão sem lactose. Todas as pastas levam proteína concentrada do soro do leite. Todos os sabores trazem também **\"NÃO CONTÉM GLÚTEN\"**.",
+          "Zero lactose não existe na linha. As páginas dos 10 sabores dizem **\"CONTÉM LACTOSE\"**, e a loja não vende versão sem lactose. Todas as pastas levam proteína concentrada do soro do leite. Todos os sabores trazem também **\"NÃO CONTÉM GLÚTEN\"**.",
           "Nos alérgicos, as páginas de produto trazem:"
         ],
         "bullets": [
-          "Banoffee, Beijinho, Caramelo Salgado, Chocolate Branco, Cookies & Cream, Doce de Leite e Leite em Pó: contém amendoim, derivados de leite e soja.",
+          "Caramelo Salgado, Chocolate Branco, Cookies & Cream, Doce de Leite e Leite em Pó: contém amendoim, derivados de leite e soja.",
           "Avelã: contém amendoim, avelã, derivados de leite e soja.",
           "Bombom Italiano: contém amendoim, avelã e derivados de leite; a soja aparece no \"pode conter\".",
           "Brownie: contém amendoim, derivados de leite, ovo e soja.",
@@ -97912,21 +98061,21 @@ export const reviewsData: unknown[] = [
           "Pistache: contém amendoim, pistache, derivados de leite e soja."
         ],
         "postParagraphs": [
-          "Todos os 12 trazem ainda um \"pode conter\" com outras castanhas e aveia, e todos menos o Brownie incluem ovos nesse aviso. A página do Caramelo Salgado lista também corantes, extrato de urucum, vermelho allura AC, tartrazina e azul brilhante FCF, e um biscoito triturado de farinha de arroz e fécula de mandioca. Quem tem intolerância à lactose ou alergia a leite tira a dúvida sobre o consumo com um nutricionista."
+          "Todos os 10 trazem ainda um \"pode conter\" com outras castanhas e aveia, e todos menos o Brownie incluem ovos nesse aviso. A página do Caramelo Salgado lista também corantes, extrato de urucum, vermelho allura AC, tartrazina e azul brilhante FCF, e um biscoito triturado de farinha de arroz e fécula de mandioca. Quem tem intolerância à lactose ou alergia a leite tira a dúvida sobre o consumo com um nutricionista."
         ]
       },
       {
-        "heading": "Dr. Peanut é calórico?",
+        "heading": "Calorias por colher e por porção",
         "paragraphs": [
-          "Uma colher de sopa de pasta de amendoim Dr. Peanut tem de **83 a 90 kcal**. A tabela da loja conta a colher como 15 g. Em 100 g, são de 551 a 602 kcal.",
-          "A diferença entre os sabores é pequena: 7 kcal por colher. Banoffee e Caramelo Salgado ficam na ponta de baixo, com 83 kcal. Beijinho e Pistache ficam na ponta de cima, com 90 kcal.",
+          "Uma colher de sopa de pasta de amendoim Dr. Peanut tem de **83 a 90 kcal**. A tabela da loja conta a colher como 15 g. Em 100 g, são de 553 a 602 kcal.",
+          "A diferença entre os sabores é pequena: 7 kcal por colher. O Caramelo Salgado fica na ponta de baixo, com 83 kcal, e o Pistache na de cima, com 90 kcal.",
           "A gordura total é a maior linha da tabela, de 6,5 a 7,3 g por colher. A conta acompanha a quantidade: duas colheres (30 g) dão de 166 a 180 kcal, pela nossa soma da tabela. O pote de 600 g rende 40 colheres de 15 g; o de 250 g, cerca de 17."
         ]
       },
       {
         "heading": "Whey Dr. Peanut: qual sabor escolher",
         "paragraphs": [
-          "O whey da Dr. Peanut tem **5 sabores**: Avelã, Bombom Italiano, Bueníssimo, Doce de Leite e Paçoca. Todos vêm em pote de 900 g, a R$ 224,39 cada, ou R$ 201,95 com o cupom (conta nossa). A porção é de 40 g (2 dosadores), com cerca de 23 porções por pote."
+          "O whey da Dr. Peanut tem **5 sabores**: [Avelã](https://www.drpeanut.com.br/whey-dr-peanut/p), [Bombom Italiano](https://www.drpeanut.com.br/whey-dr-peanut-bombom-italiano/p), [Bueníssimo](https://www.drpeanut.com.br/100--whey-dr--peanut---max-titanium-buenissimo/p), [Doce de Leite](https://www.drpeanut.com.br/whey-dr-peanut-doce-de-leite/p) e [Paçoca](https://www.drpeanut.com.br/whey-dr-peanut-pacoca/p). Todos vêm em pote de 900 g, a R$ 224,39 cada, ou R$ 201,95 com o cupom (conta nossa). A porção é de 40 g (2 dosadores), com cerca de 23 porções por pote."
         ],
         "comparisonTable": {
           "headers": [
@@ -97999,30 +98148,28 @@ export const reviewsData: unknown[] = [
           "Quatro sabores têm o mesmo nome de uma pasta: Avelã, Bombom Italiano, Bueníssimo e Doce de Leite. A Paçoca só existe no whey.",
           "O rótulo do whey é diferente do das pastas em dois pontos. O whey **contém glúten**, e as pastas não. O whey também contém lactose e leva sucralose como edulcorante.",
           "**O whey Dr. Peanut é da Max Titanium?** Leva as duas marcas e está à venda nas duas lojas, pelo mesmo preço; qual compensa, e com qual código, está em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
-        ]
-      },
-      {
-        "heading": "Qual sabor escolher pelo seu perfil",
-        "emphasis": "Pelos números da tabela, para quem quer menos açúcar com menos poliol a escolha é o Brownie, porque é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g.",
-        "emphasisAfterParagraph": 1,
-        "paragraphs": [
-          "Compare os sabores pelo critério que importa para você: açúcar, proteína, sódio ou preço por peso. A posição na vitrine e o nome Best Sellers são informações da loja, não uma prova de qual sabor você vai preferir."
         ],
-        "bullets": [
-          "**Quer o sabor que a loja mais destaca:** Avelã, Bueníssimo e Cookies & Cream, os três do Combo Best Sellers. A vitrine \"Mais Vendidos\" da home abria com Bombom Italiano, Bueníssimo e Avelã, nessa ordem, e a listagem de pastas, na ordem padrão \"Mais vendidos\", começava do mesmo jeito. É a ordem que a loja mostra, sem número de vendas.",
-          "**Quer menos açúcar total:** Cookies & Cream (4,6 g por 100 g), Brownie (4,7 g) e Chocolate Branco (5,1 g). Se você também quer menos polióis, o Brownie tem 6,7 g por 100 g, contra 20 g do Cookies & Cream e 19 g do Chocolate Branco.",
-          "**Quer mais proteína:** Avelã e Leite em Pó, com 20 g por 100 g. Beijinho, Brownie, Bueníssimo e Pistache vêm logo atrás, com 19 g.",
-          "**Quer menos gordura saturada:** Bombom Italiano e Cookies & Cream, com 1,1 g por colher. O Chocolate Branco vem logo depois, com 1,2 g.",
-          "**Quer menos sódio:** Brownie, com 19 mg por colher. O Caramelo Salgado é o de maior sódio da linha, com 49 mg, bem acima dos 29 mg do Doce de Leite e do Leite em Pó, os seguintes.",
-          "**Quer pagar menos por 100 g:** um combo de potes de 600 g, montado com os sabores que você já conhece. Entre os de 250 g, qualquer combo já sai mais barato por 100 g que o pote de 600 g avulso.",
-          "**Quer experimentar gastando menos:** o pote de 250 g, que não existe para Banoffee, Beijinho e Chocolate Branco. O Caramelo Salgado só existe nele.",
-          "**Já conhece os clássicos e quer variar:** os sabores de sobremesa, Banoffee, Beijinho, Brownie e Pistache, e o Caramelo Salgado, o mais novo da lista."
+        "images": [
+          {
+            "src": "/images/reviews/whey/whey-dr-peanut.webp",
+            "alt": "Pote de 900 g do 100% Whey Dr. Peanut - Max Titanium, em foto oficial da marca",
+            "caption": "100% Whey Dr. Peanut - Max Titanium, pote de 900 g. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/whey-dr-peanut/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o 100% Whey Dr. Peanut na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/whey-protein",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Preço e cupom da Dr. Peanut",
         "paragraphs": [
-          "O cupom **DREMCASACOMCECILIA** dá 10% de desconto em todo o site da Dr. Peanut. Vale em todas as formas de pagamento e soma com as promoções do site. Os 10% valem num combo de três pastas que já estava em promoção: de R$ 68,35, o total caiu para R$ 61,51. Nas condições de pagamento da página do produto, o Pix tinha 3% de desconto adicional.",
+          "O cupom **DREMCASACOMCECILIA** dá 10% de desconto em todo o site da Dr. Peanut, para cliente novo e antigo. Vale em todas as formas de pagamento, soma com as promoções do site e soma com os 3% do Pix no checkout, que incidem sobre o valor já com cupom. Os 10% valem num combo de três pastas que já estava em promoção: de R$ 68,35, o total caiu para R$ 61,51. Para usar, cole o código no campo \"Código\" do carrinho, abaixo de \"Insira o seu cupom abaixo\", e clique em \"Adicionar\".",
           "O frete grátis conta o valor depois do cupom. Pela faixa do site, ele vale no Sul e no Sudeste em compras acima de R$ 149,90 e, nas demais regiões, acima de R$ 199,90. O quadro mostra quais compras chegam ao mínimo pelo preço de tabela, sem o cupom:"
         ],
         "comparisonTable": {
@@ -98043,7 +98190,7 @@ export const reviewsData: unknown[] = [
               "Não"
             ],
             [
-              "Combo de 2 potes de 600 g",
+              "Combo de 2 potes de 600 g (Duo)",
               "Não",
               "Não"
             ],
@@ -98053,17 +98200,12 @@ export const reviewsData: unknown[] = [
               "Não"
             ],
             [
-              "Combo Best Sellers (3 × 600 g)",
+              "Combo de 3 potes de 600 g (Trio)",
               "Sim",
               "Não"
             ],
             [
-              "Combo de 4 potes de 600 g",
-              "Sim",
-              "Sim"
-            ],
-            [
-              "Combo Royale (5 × 600 g)",
+              "Combo de 4 potes de 600 g (Quarteto)",
               "Sim",
               "Sim"
             ],
@@ -98077,23 +98219,63 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Com o cupom, a compra que passa do mínimo por pouco pode perder o frete grátis: os 10% baixam o total, e é ele que conta. O combo de cinco potes de 250 g, a R$ 109,12 pelo preço de tabela, não chega ao mínimo com ou sem o código. Aplique o cupom, informe o CEP e confira o frete antes de pagar.",
-          "Escolha o sabor antes de fechar o pedido. Na troca por outro produto, o frete de ida e o de volta ficam por sua conta. O passo a passo do código no carrinho está no [Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Se você pode esperar novembro, veja o que a loja já anunciou em [Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis](/reviews/black-friday-dr-peanut)."
+          "Escolha o sabor antes de fechar o pedido. Na troca por outro produto, o frete de ida e o de volta ficam por sua conta. O passo a passo do código no carrinho está no [Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom Dr. Peanut](/cupons/dr-peanut). A campanha de novembro da loja, a Doctor November, está no [Black Friday Dr. Peanut 2026](/reviews/black-friday-dr-peanut)."
         ],
         "links": [
           {
             "label": "Ver regras e validade do cupom DREMCASACOMCECILIA",
             "href": "/cupons/dr-peanut"
+          },
+          {
+            "label": "Ir para a Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Qual sabor escolher pelo seu perfil",
+        "emphasis": "Pelos números da tabela, para quem quer menos açúcar com menos poliol a escolha é o Brownie, porque é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g.",
+        "paragraphs": [
+          "Escolha pelo critério que importa para você: açúcar, proteína, sódio ou preço por peso. O rótulo mostra os números; qual sabor agrada mais fica com quem vai comer."
+        ],
+        "bullets": [
+          "**Quer os sabores com combo de 600 g:** [Cookies & Cream](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-cookies---cream/p) e [Bueníssimo](https://www.drpeanut.com.br/pasta-de-amendoim-buenissimo-com-whey-proteine/p) são os dois com Duo, Trio e Quarteto na loja.",
+          "**Quer menos açúcar total:** Cookies & Cream (4,6 g por 100 g), [Brownie](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-brownie/p) (4,7 g) e [Chocolate Branco](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-chocolate-branco/p) (5,1 g). Se você também quer menos polióis, o Brownie tem 6,7 g por 100 g, contra 20 g do Cookies & Cream e 19 g do Chocolate Branco.",
+          "**Quer mais proteína:** [Avelã](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p) e [Leite em Pó](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-leite-em-po/p), com 20 g por 100 g. Brownie, Bueníssimo e [Pistache](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p) vêm logo atrás, com 19 g.",
+          "**Quer menos gordura saturada:** [Bombom Italiano](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-bombom-italiano/p) e Cookies & Cream, com 1,1 g por colher. O Chocolate Branco vem logo depois, com 1,2 g.",
+          "**Quer menos sódio:** Brownie, com 19 mg por colher. O [Caramelo Salgado](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-caramelo-salgado/p) é o de maior sódio da linha, com 49 mg, bem acima dos 29 mg do [Doce de Leite](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-doce-de-leite/p) e do Leite em Pó, os seguintes.",
+          "**Quer pagar menos por 100 g:** um combo de potes de 600 g, montado com os sabores que você já conhece. Entre os de 250 g, qualquer combo já sai mais barato por 100 g que o pote de 600 g avulso.",
+          "**Quer experimentar gastando menos:** o pote de 250 g, que não existe para o Chocolate Branco. O Caramelo Salgado só existe nele.",
+          "**Já conhece os clássicos e quer variar:** os sabores de sobremesa, Brownie, Pistache e Caramelo Salgado."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-ou-la-ganexa-pote-buenissimo-600g.webp",
+            "alt": "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Bueníssimo, em foto oficial da loja",
+            "caption": "Pasta de amendoim Bueníssimo, pote de 600 g. Imagem: Dr. Peanut.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7614,
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-buenissimo-com-whey-proteine/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver as pastas na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, em todas as formas de pagamento, para cliente novo e antigo. Cole no campo \"Código\" do carrinho e clique em \"Adicionar\"; as regras estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
           "Qual o melhor sabor da Dr. Peanut? Pelo rótulo, depende do seu perfil: o capítulo de perfil indica quem prioriza proteína, menos açúcar ou menos sódio.",
-          "Qual o sabor mais vendido da Dr. Peanut? A loja não publica número de vendas. O Combo Best Sellers junta Avelã, Bueníssimo e Cookies & Cream, e a vitrine \"Mais Vendidos\" da home abria com Bombom Italiano, Bueníssimo e Avelã.",
-          "Dr. Peanut é zero açúcar? Não. As pastas não têm açúcar adicionado, mas o rótulo mostra de 4,6 a 10 g de açúcares totais por 100 g, além de polióis.",
-          "Tem Dr. Peanut zero lactose? Não. Os 12 sabores de pasta dizem \"contém lactose\", e as páginas do whey dizem o mesmo.",
-          "Quantas calorias tem uma colher de Dr. Peanut? De 83 a 90 kcal por colher de sopa de 15 g, conforme o sabor. Banoffee e Caramelo Salgado têm menos; Beijinho e Pistache, mais.",
+          "Qual o sabor mais vendido da Dr. Peanut? A loja não publica número de vendas. Os combos de 600 g existem só para Cookies & Cream e Bueníssimo.",
+          "Dr. Peanut é zero açúcar? Não. As pastas não têm açúcar adicionado, mas o rótulo mostra de 4,6 a 9 g de açúcares totais por 100 g, além de polióis.",
+          "Tem Dr. Peanut zero lactose? Não. Os 10 sabores de pasta dizem \"contém lactose\", e as páginas do whey dizem o mesmo.",
+          "Quantas calorias tem uma colher de Dr. Peanut? De 83 a 90 kcal por colher de sopa de 15 g, conforme o sabor. O Caramelo Salgado tem menos; o Pistache, mais.",
           "Qual o melhor sabor do whey Dr. Peanut? Os 5 sabores têm 20 g de proteína por porção e o mesmo preço. Mudam os açúcares totais (de 8,5 a 11 g) e o sódio, que na Paçoca é o dobro dos outros.",
           "O whey Dr. Peanut é da Max Titanium? Leva as duas marcas, e o mesmo pote está na Max e na Dr. Peanut; qual loja compensa está em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
         ]
@@ -98101,13 +98283,14 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer pouco açúcar e poucos polióis no mesmo pote.",
-        "Você quer o sabor com menos sódio da linha."
+        "Você quer pouco açúcar e poucos polióis no mesmo pote: o Brownie é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g.",
+        "Você quer mais proteína por 100 g: Avelã e Leite em Pó têm 20 g.",
+        "Você quer pagar menos por 100 g num sabor que já conhece: os combos de potes de 600 g saem abaixo do pote avulso."
       ],
       "skipIf": [
-        "Você quer o máximo de proteína: aí são o Avelã e o Leite em Pó, com 20 g por 100 g.",
-        "Você quer saber qual sabor é mais gostoso: o artigo compara só o rótulo.",
-        "Você precisa de versão sem lactose: os 12 sabores contêm lactose."
+        "Você precisa de versão sem lactose: os 10 sabores de pasta e os 5 de whey contêm lactose.",
+        "Você quer pasta sem nenhum poliol ou edulcorante: os 10 sabores levam maltitol, xilitol, sucralose e acessulfame de potássio.",
+        "Você quer evitar glúten e pensa no whey: o whey contém glúten, e as pastas não."
       ]
     },
     "pros": [],
@@ -98123,16 +98306,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo cupom DREMCASACOMCECILIA. Não provamos os sabores: os dados são do site oficial da loja.",
     "relatedArticles": [
       {
-        "slug": "dr-peanut-e-confiavel"
-      },
-      {
         "slug": "cupom-dr-peanut-como-usar"
       },
       {
         "slug": "black-friday-dr-peanut"
+      },
+      {
+        "slug": "dr-peanut-qual-tamanho-compensa"
       }
     ],
-    "updatedAt": "2026-11-07"
+    "updatedAt": "2026-11-22"
   },
   {
     "id": 447,
@@ -105963,7 +106146,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Probiótica ou Growth, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina por 100 g de proteína e de creatina e o frete.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/probiotica/probiotica-ou-growth-capa-v2.webp",
@@ -105974,37 +106157,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No cartão, a Growth tem o menor custo por 100 g de proteína no whey, e a Probiótica de 300 g fica na frente na creatina. No Pix, o refil de 500 g da Growth sai mais barato por grama de creatina. O cupom PRO10EMCASACOMCECILIA não inverte o whey, e a Probiótica entra pela linha Zero Lactose."
-        ]
-      },
-      {
-        "heading": "Como comparamos",
-        "paragraphs": [
-          "Este texto compara whey e creatina da Probiótica, parceira do site, com o cupom PRO10EMCASACOMCECILIA, e da Growth, que não é parceira.",
-          "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes e os alergênicos vêm das páginas. O preço é o de tabela do site oficial, o valor antes do Pix e das promoções do dia, sem frete. É a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
-          "As contas são nossas, arredondadas no centavo:"
-        ],
-        "image": {
-          "src": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
-          "alt": "Quadro de preços no Pix por 100 g de proteína no whey: Growth Concentrado R$ 26,34, Probiótica Zero Lactose R$ 35,56 e 100% Pure Whey R$ 40,82; por 100 g de creatina: Growth refil R$ 14,98, Growth 250 g R$ 17,96 e Probiótica 300 g R$ 18,97",
-          "caption": "Comparação por 100 g de proteína no whey e por 100 g de creatina, com preços no Pix das lojas oficiais, sem frete.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "bullets": [
-          "**preço por dose:** preço ÷ porções;",
-          "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
-          "**preço por 100 g de creatina:** preço ÷ (doses × 5 g) × 100."
-        ],
-        "postParagraphs": [
-          "A dose é de 30 g nos dois whey, mas a proteína por dose não é a mesma: 20 g na Probiótica e 23 g na Growth. Por isso a régua é o preço por 100 g de proteína, e não o preço do pote. Sabor, dissolução e digestão ficaram de fora: esta conta usa só rótulo e preço. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
-          "Este texto faz parte da série 1 a 1 contra a Growth, junto com [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
+          "No preço de venda do site, a Growth tem o menor custo por 100 g de proteína no whey, e a Probiótica de 300 g fica na frente na creatina. O cupom PRO10EMCASACOMCECILIA, com até 10% OFF, não inverte o whey. O Pix muda a conta da creatina; veja o capítulo de cupom, Pix e frete."
         ]
       },
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "A tabela compara preços no cartão, antes do cupom, pela quantidade de proteína declarada em cada porção."
+          "A dose é de 30 g nos dois whey, mas a proteína por dose não é a mesma: 20 g na Probiótica e 23 g na Growth. Por isso a régua é o preço por 100 g de proteína, e não o preço do pote. A tabela compara preços no cartão, antes do cupom, pela quantidade de proteína declarada em cada porção."
         ],
         "comparisonTable": {
           "headers": [
@@ -106016,25 +106175,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Probiótica 100% Pure Whey pote 900 g, Baunilha",
+              "[Probiótica 100% Pure Whey pote 900 g, Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "20 g em 30 g",
               "30",
               "R$ 252,49",
               "R$ 42,08"
             ],
             [
-              "Probiótica 100% Pure Whey refil 900 g, Baunilha",
+              "[Probiótica 100% Pure Whey refil 900 g, Baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "20 g em 30 g (tabela)",
               "30",
               "R$ 235,65",
               "R$ 39,28"
             ],
             [
-              "Probiótica Zero Lactose 900 g, Baunilha",
-              "22 g em 30 g",
+              "[Probiótica Zero Lactose 900 g, Baunilha](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "21 g em 30 g (tabela)",
               "30",
               "R$ 241,97",
-              "R$ 36,66"
+              "R$ 38,41"
             ],
             [
               "Growth (TOP) Whey Protein Concentrado 1 kg, sabores",
@@ -106044,11 +106203,12 @@ export const reviewsData: unknown[] = [
               "R$ 29,26"
             ]
           ],
-          "caption": "Preços dos sites oficiais em 18/10/2026, no cartão, sem frete e sem cupom. Probiótica: tabela do sabor Baunilha; Growth: 23 g por porção conforme a página, cerca de 33 porções."
+          "caption": "Preços dos sites oficiais em 18/10/2026, no cartão, sem frete e sem cupom. Conta nossa: preço ÷ (porções × proteína por porção) × 100. Probiótica: tabela do sabor Baunilha; Growth: 23 g por porção conforme a página, cerca de 33 porções."
         },
         "postParagraphs": [
-          "No Pix, a conta por 100 g de proteína fica em R$ 40,82 no pote, R$ 38,10 no refil e R$ 35,56 no Zero Lactose da Probiótica, e em R$ 26,34 na Growth. Com o cupom no teto, sobre o Pix, os três potes da Probiótica ficam entre R$ 32,01 e R$ 36,74.",
-          "A Growth fica abaixo em todas as linhas de whey desta conta. Por dose, no Pix, o refil da Probiótica (R$ 7,62) e o pote (R$ 8,16) ficam acima da Growth (R$ 6,06). Pelo preço por proteína, a diferença é maior, porque a Probiótica entrega menos proteína por dose."
+          "Com o cupom no teto de até 10% OFF, sobre o preço do cartão, o pote, o refil e o Zero Lactose da Probiótica ficam em R$ 37,87, R$ 35,35 e R$ 34,57 por 100 g de proteína. O desconto real varia por produto, então essa conta é o teto.",
+          "O Pix muda por item e por dia. Na leitura de outubro, com 3% de Pix no whey da Probiótica, a conta por 100 g de proteína ficava em R$ 40,82 no pote, R$ 38,10 no refil e R$ 37,26 no Zero Lactose, contra R$ 26,34 na Growth; com o cupom no teto sobre esse Pix, os três potes da Probiótica ficavam entre R$ 33,53 e R$ 36,74.",
+          "A Growth fica abaixo em todas as linhas de whey desta conta. Por dose, no Pix daquela leitura, o refil da Probiótica (R$ 7,62) e o pote (R$ 8,16) ficam acima da Growth (R$ 6,06). Pelo preço por proteína, a diferença é maior, porque a Probiótica entrega menos proteína por dose."
         ],
         "images": [
           {
@@ -106056,15 +106216,23 @@ export const reviewsData: unknown[] = [
             "alt": "Três embalagens de whey da Probiótica, de 900 g: o pote, o refil e o Zero Lactose, de frente",
             "caption": "Embalagens de whey da Probiótica: pote, refil e Zero Lactose, todos de 900 g. Imagem: Probiótica",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Zero Lactose 900 g na Probiótica",
+            "href": "https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Whey: a proteína de cada pote",
         "paragraphs": [
-          "No 100% Pure Whey Baunilha da Probiótica, a conta usa a tabela: 20 g de proteína em 30 g, com 124 kcal e 6,3 g de carboidratos. A página anuncia faixas diferentes conforme o sabor; para outra versão, compare a tabela correspondente.",
-          "O refil também traz tabela com 20 g em 30 g, mas a página e a frente da embalagem dizem 21 g. No Zero Lactose Baunilha, a tabela declara 22 g em 30 g, com 124 kcal e 4 g de carboidratos.",
+          "No [100% Pure Whey Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica, a conta usa a tabela: 20 g de proteína em 30 g, com 124 kcal e 6,3 g de carboidratos. A página anuncia faixas diferentes conforme o sabor; para outra versão, compare a tabela correspondente.",
+          "O [refil](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) também traz tabela com 20 g em 30 g, mas a página e a frente da embalagem dizem 21 g. No [Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) Baunilha, a tabela declara 21 g em 30 g, com 124 kcal e 4 g de carboidratos, e a frente do pote diz 22 g: a conta usa a tabela, e vale conferir a embalagem que chegar.",
           "A página da Growth declara 23 g em 30 g para os sabores e 24 g no Natural; a conta usa os 23 g e cerca de 33 porções."
         ],
         "images": [
@@ -106080,17 +106248,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ingredientes e alérgenos",
         "bullets": [
-          "**Probiótica 100% Pure Whey (pote):** proteína concentrada do soro do leite, lecitina de soja, aromatizantes, goma xantana e sucralose. A página declara que contém leite, soja e lactose, e que pode conter ovo. No Baunilha, a página diz \"não contém glúten\"; o Cookies & Cream da mesma página tem farinha de trigo, então a frase vale por sabor.",
-          "**Probiótica Zero Lactose 900 g:** a página declara \"contém derivados de leite\" e \"pode conter soja e ovo\". Apesar do nome, o alergênico de leite está no rótulo.",
+          "**Pote de 900 g:** o [100% Pure Whey](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica tem proteína concentrada do soro do leite, lecitina de soja, aromatizantes, goma xantana e sucralose. A página declara que contém leite, soja e lactose, e que pode conter ovo. No Baunilha, a página diz \"não contém glúten\"; o Cookies & Cream da mesma página tem farinha de trigo, então a frase vale por sabor.",
+          "**Zero Lactose:** a página do [100% Pure Whey Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) declara \"contém derivados de leite\" e \"pode conter soja e ovo\". Apesar do nome, o alergênico de leite está no rótulo.",
           "**Growth Whey Concentrado, sabor Natural:** proteína de soro do leite concentrada e lecitina. A página declara que contém derivados de soja e de leite, contém lactose e não contém glúten.",
-          "**Creatina Monohidratada Pura 300 g (Probiótica):** creatina monohidratada e dióxido de silício como antiumectante. A página diz \"não contém glúten\" e declara que pode conter derivados de leite, de ovo e de soja.",
+          "**Creatina de 300 g:** a [Creatina Monohidratada Pura](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica lista creatina monohidratada e dióxido de silício como antiumectante. A página diz \"não contém glúten\" e declara que pode conter derivados de leite, de ovo e de soja.",
           "**Creatina Monohidratada 250 g (Growth):** creatina monohidratada, a página diz sem glúten. Se você tem restrição a leite, soja, ovo ou glúten, confira o alergênico do sabor exato antes de comprar."
         ]
       },
       {
         "heading": "Creatina: preço por 100 g",
         "paragraphs": [
-          "Na creatina, a Probiótica de 300 g tem a menor conta no preço de tabela, e a Growth fica acima em todos os tamanhos. A creatina da Probiótica de 300 g tem 60 porções de 5 g pela tabela, e a Growth tem 250 g, com 50 porções, e dois tamanhos de 500 g, com 100 porções cada, todos com 5 g por dose. A creatina de 100 g da Probiótica ficou fora da conta: é a mais cara por grama, com R$ 32,87 por 100 g no Pix. Os preços da creatina da Growth são de novembro, e os demais, de outubro."
+          "Na creatina, a Probiótica de 300 g tem a menor conta no preço de tabela, e a Growth fica acima em todos os tamanhos. A creatina da Probiótica de 300 g tem 60 porções de 5 g pela tabela, e a Growth tem 250 g, com 50 porções, e dois tamanhos de 500 g, com 100 porções cada, todos com 5 g por dose. A [creatina de 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica ficou fora da conta: é a mais cara por grama, com R$ 32,87 por 100 g no Pix. Os preços da creatina da Growth são de novembro, e os demais, de outubro."
         ],
         "comparisonTable": {
           "headers": [
@@ -106101,7 +106269,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Probiótica Creatina Monohidratada Pura 300 g",
+              "[Probiótica Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "60",
               "R$ 59,90",
               "R$ 19,97"
@@ -106124,14 +106292,15 @@ export const reviewsData: unknown[] = [
               "R$ 104,60",
               "R$ 20,92"
             ]
-          ]
+          ],
+          "caption": "Conta nossa: preço ÷ (doses × 5 g) × 100. Preços de tabela, no cartão e sem cupom."
         },
         "postParagraphs": [
           "Preços de tabela, sem cupom. No Pix de outubro, a Probiótica de 300 g saía a R$ 18,97 por 100 g (R$ 17,07 com o cupom no teto), e a Growth, a R$ 17,96 no pote de 250 g, R$ 16,98 no de 500 g e R$ 14,98 no refil. O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no dia.",
           "Por dose, no Pix de outubro: R$ 0,95 na Probiótica de 300 g, R$ 0,90 na Growth de 250 g e R$ 0,75 no refil de 500 g. No preço de tabela, a Probiótica de 300 g já fica abaixo da Growth de 250 g sem precisar do cupom.",
-          "A Creapure de 150 g da Probiótica, com R$ 96,89 no Pix, sai por R$ 64,59 por 100 g, com 5.000 mg de creatina em cada dose de 5 g e 30 porções. A Probiótica declara Creapure no nome do produto; a página da Growth não declara o selo.",
+          "A [Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica, com R$ 96,89 no Pix de outubro, sai por R$ 64,59 por 100 g (R$ 66,59 no cartão), com 5.000 mg de creatina em cada dose de 5 g e 30 porções. A Probiótica declara Creapure no nome do produto; a página da Growth não declara o selo.",
           "A tabela da creatina de 300 g declara 5.000 mg de creatina por porção de 5 g e 60 porções, os números que a conta usa.",
-          "A Creatina Monodose em sachê e a creatina em cápsulas da Probiótica ficam fora desta tabela e aparecem contra a gummy e o comprimido da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
+          "A [Creatina Monodose](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) em sachê e a creatina em cápsulas da Probiótica ficam fora desta tabela e aparecem contra a gummy e o comprimido da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
         ],
         "images": [
           {
@@ -106139,7 +106308,8 @@ export const reviewsData: unknown[] = [
             "alt": "Potes de creatina da Probiótica, de 300 g e de 150 g (Creapure), de frente",
             "caption": "Potes de creatina da Probiótica: Monohidratada Pura 300 g e Creapure 150 g. Imagem: Probiótica",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
           },
           {
             "src": "/images/reviews/probiotica/probiotica-ou-growth-tabela-creatina-300g.webp",
@@ -106147,6 +106317,13 @@ export const reviewsData: unknown[] = [
             "caption": "Tabela nutricional da Creatina Monohidratada Pura 300 g: 5 g por dose, 60 porções. Imagem: Probiótica",
             "objectFit": "contain",
             "aspectRatio": 1.0038
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina 300 g na Probiótica",
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
           }
         ]
       },
@@ -106166,7 +106343,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Desconto no Pix",
-              "3% no whey e 5% na creatina de 300 g, pelo preço da página",
+              "Até 5%, variável por produto (3% no whey e 5% na creatina de 300 g na leitura de outubro; em novembro, cerca de 3% nos kits e empate com o cartão em alguns itens)",
               "Pix abaixo do preço de tabela, em valor que varia com as promoções da loja"
             ],
             [
@@ -106177,31 +106354,32 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom PRO10EMCASACOMCECILIA dá até 10%, com percentual variável por produto. Em um teste com carrinho misto de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, o desconto foi de R$ 54,75, cerca de 8,3% do total. Vale em todas as formas de pagamento e soma com as promoções vigentes, mas as contas com cupom nas tabelas são o teto de 10%: confira o valor no carrinho. Regras e instruções estão na página do [cupom Probiótica](/cupons/probiotica).",
+          "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica, com percentual variável por produto. Cole o código no campo \"Cupom de Desconto\" do carrinho, clique em \"Adicionar\" e confira a linha \"Descontos\" no resumo. Vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções e com o desconto do Pix. Num carrinho misto de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, o desconto foi de R$ 54,75, cerca de 8,3% do total; nos testes de novembro, foi de 2% nos wheys e nas creatinas e de 7% no [Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e no [Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) em oferta. As contas com cupom nas tabelas são, portanto, o teto de 10%. Regras e instruções estão na página do [cupom Probiótica](/cupons/probiotica).",
           "A página da Probiótica mostra também o parcelamento em 6x sem juros, e o preço do cartão nas tabelas é o dessa condição. O valor parcelado depende do produto. Preço e estoque mudam: confira no carrinho."
         ]
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelo preço no cartão, a escolha é a Growth no whey e a Probiótica de 300 g na creatina. No Pix, o refil de 500 g da Growth ganha na creatina. Compare as duas lojas antes de decidir.",
+        "emphasis": "Pelos números das tabelas, a Growth vence o whey por 100 g de proteína e a Probiótica de 300 g vence a creatina no preço de venda; a Probiótica só entra no whey para quem quer a linha Zero Lactose.",
         "bullets": [
-          "**Quer o menor preço por 100 g de proteína no whey:** Growth Whey Concentrado de 1 kg, com R$ 26,34 no Pix.",
-          "**Quer a linha Zero Lactose:** a Probiótica é a única das opções desta comparação com essa linha. Zero lactose não exclui o alergênico de leite: confira o rótulo.",
-          "**Quer o menor preço por grama de creatina no cartão:** Probiótica Creatina de 300 g, com R$ 19,97 por 100 g. No Pix, o refil de 500 g da Growth sai mais barato.",
+          "**Quer o menor preço por 100 g de proteína no whey:** Growth Whey Concentrado de 1 kg, com R$ 29,26 no cartão (R$ 26,34 no Pix de outubro).",
+          "**Quer a linha Zero Lactose:** o [100% Pure Whey Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) é a única opção desta comparação com essa linha, a R$ 38,41 por 100 g de proteína no cartão. Zero lactose não exclui o alergênico de leite: confira o rótulo.",
+          "**Quer o menor preço por grama de creatina no cartão:** a [Creatina de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica, com R$ 19,97 por 100 g. No Pix, o refil de 500 g da Growth sai mais barato.",
           "**Quer um pote pequeno de creatina:** a Probiótica de 300 g sai abaixo da Growth de 250 g, já sem cupom (R$ 19,97 contra R$ 25,32 por 100 g, no preço de tabela).",
-          "**Quer Creapure:** a Probiótica declara o selo no produto de 150 g, por R$ 64,59 por 100 g no Pix. A página da Growth não declara o selo."
+          "**Quer Creapure:** a [Creatina Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica declara o selo, por R$ 64,59 por 100 g no Pix de outubro (R$ 66,59 no cartão). A página da Growth não declara o selo."
         ],
         "postParagraphs": [
-          "A Growth também vende whey zero lactose. A comparação com o 100% Pure Whey Zero Lactose da Probiótica, por 100 g de proteína, está em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
+          "A Growth também vende whey zero lactose. A comparação com o 100% Pure Whey Zero Lactose da Probiótica, por 100 g de proteína, está em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey). Este texto faz parte da série 1 a 1 contra a Growth, junto com [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Max Titanium ou Growth](/reviews/max-titanium-ou-growth).",
+          "Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Probiótica ou Growth: qual é melhor? No cartão, a Growth vence no whey por 100 g de proteína e a Probiótica de 300 g vence na creatina. No Pix, o refil de 500 g da Growth passa à frente na creatina. A escolha pesa também a linha Zero Lactose e os sabores.",
-          "O cupom da Probiótica vale na creatina? Vale nos produtos do site, com desconto de até 10% e percentual que varia por item. Confira a linha de descontos no seu carrinho.",
-          "A Growth tem cupom? Não temos cupom nem parceria com a Growth; as promoções dela ficam no site da marca. As instruções do PRO10EMCASACOMCECILIA estão no [guia do cupom da Probiótica](/reviews/cupom-probiotica-como-usar).",
-          "A Probiótica é confiável? Quem é a marca, o site oficial e as trocas estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel), e a comparação com a Max Titanium, em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
+          "Probiótica ou Growth: qual é melhor? No cartão, a Growth vence no whey por 100 g de proteína e a Probiótica de 300 g vence na creatina. No Pix, o refil de 500 g da Growth pode passar à frente na creatina, porque o Pix varia por item e por dia. A escolha pesa também a linha Zero Lactose e os sabores.",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; as regras estão na página do [cupom Probiótica](/cupons/probiotica).",
+          "O cupom vale na creatina? Vale nos produtos do site, e o percentual varia por item: nos testes de novembro, as creatinas receberam 2%. Confira a linha de descontos no seu carrinho.",
+          "A Growth tem cupom? Não temos cupom nem parceria com a Growth; as promoções dela ficam no site da marca. O passo a passo do PRO10EMCASACOMCECILIA está no [guia do cupom da Probiótica](/reviews/cupom-probiotica-como-usar)."
         ]
       }
     ],
@@ -106232,10 +106410,10 @@ export const reviewsData: unknown[] = [
         "slug": "max-titanium-ou-probiotica"
       },
       {
-        "slug": "probiotica-e-confiavel"
+        "slug": "cupom-probiotica-como-usar"
       },
       {
-        "slug": "cupom-probiotica-como-usar"
+        "slug": "whey-probiotica-qual-escolher"
       }
     ]
   },
@@ -118629,7 +118807,7 @@ export const reviewsData: unknown[] = [
     "id": 521,
     "slug": "dr-peanut-e-saudavel",
     "title": "Dr. Peanut é saudável? O que a pasta, o alfajor, a Doctor Bar, a Doctor Wafer e o whey trazem no rótulo",
-    "seoTitle": "Dr. Peanut é saudável? Rótulo e números [2026]",
+    "seoTitle": "Dr. Peanut é saudável? O que o rótulo mostra, por produto",
     "type": "Guia de ingredientes",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -118644,7 +118822,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o DREMCASACOMCECILIA, 10% OFF na Dr. Peanut: o rótulo da pasta ao whey, com açúcar, adoçantes, lactose e calorias.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-v2.webp",
@@ -118655,17 +118833,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, não dá para dizer se a Dr. Peanut é saudável para você. Sem adição de açúcares não quer dizer sem açúcar, e as pastas, as barras e o whey trazem polióis, lactose ou glúten. A decisão sobre dieta é de nutricionista ou médico, e abaixo está o que cada produto traz."
+          "Pelo rótulo, não dá para dizer se a Dr. Peanut é saudável para você. Sem adição de açúcares não quer dizer sem açúcar, e as pastas, as barras e o whey trazem polióis, lactose ou glúten. Os números de cada produto estão abaixo."
         ]
       },
       {
         "heading": "\"Sem adição de açúcares\" não é zero açúcar",
         "paragraphs": [
-          "O pote da pasta diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" da tabela marca 0 g nos 11 sabores. Essa linha conta só o açúcar posto na receita. A linha \"Açúcares totais\" conta também o açúcar que já vem nos ingredientes.",
-          "Nas pastas, os açúcares totais vão de 4,6 g (Cookies & Cream) a 10 g (Beijinho) por 100 g. Na colher de 15 g, são de 0,7 a 1,5 g.",
-          "A tabela das pastas tem ainda uma linha de polióis, como o maltitol e o xilitol, que adoçam e ficam fora da conta dos açúcares. Nas pastas, são de 6,4 a 20 g por 100 g. Menos açúcar não quer dizer menos poliol: o Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos 11 sabores.",
-          "Na Doctor Bar Avelã, a barra de 62 g tem 1,8 g de açúcares totais, 0,2 g de açúcares adicionados e 9,6 g de polióis. Ou seja, a barra não marca zero na linha de adição.",
-          "A tabela de cada um dos 11 sabores, com açúcar, polióis e calorias, está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
+          "O pote da pasta diz \"ZERO adição de açúcares\", e a linha \"Açúcares adicionados\" da tabela marca 0 g nos 10 sabores. Essa linha conta só o açúcar posto na receita. A linha \"Açúcares totais\" conta também o açúcar que já vem nos ingredientes.",
+          "Nas pastas, os açúcares totais vão de 4,6 g (Cookies & Cream) a 9 g (Doce de Leite) por 100 g. Na colher de 15 g, são de 0,7 a 1,4 g.",
+          "A tabela das pastas tem ainda uma linha de polióis, como o maltitol e o xilitol, que adoçam e ficam fora da conta dos açúcares. Nas pastas, são de 6,4 a 20 g por 100 g. Menos açúcar não quer dizer menos poliol: o Cookies & Cream tem os menores açúcares totais e a maior quantidade de polióis dos 10 sabores.",
+          "Na [Doctor Bar Avelã](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p), a barra de 62 g tem 1,8 g de açúcares totais, 0,2 g de açúcares adicionados e 9,6 g de polióis. Ou seja, a barra não marca zero na linha de adição.",
+          "A tabela de cada um dos 10 sabores, com açúcar, polióis e calorias, está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
         ]
       },
       {
@@ -118673,13 +118851,6 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "As porções publicadas são diferentes: a tabela compara uma colher de pasta, um alfajor, uma barra, um wafer e dois dosadores de whey. Doctor Bar e Doctor Wafer representam só o sabor Avelã; as faixas das outras linhas reúnem todos os sabores. Use esses números por porção, não como um ranking de alimentos equivalentes."
         ],
-        "image": {
-          "src": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
-          "alt": "Quadro com a porção, as calorias, os açúcares totais, o glúten e a lactose da pasta, do alfajor, da Doctor Bar, da Doctor Wafer e do whey da Dr. Peanut",
-          "caption": "A porção, as calorias, os açúcares totais, o glúten e a lactose da pasta, do alfajor, da Doctor Bar, da Doctor Wafer e do whey, segundo a tabela da loja.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
         "comparisonTable": {
           "headers": [
             "Produto",
@@ -118692,25 +118863,25 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Pasta de amendoim (11 sabores)",
+              "Pasta de amendoim (10 sabores)",
               "15 g (1 colher de sopa)",
               "83 a 90",
-              "0,7 a 1,5 g",
+              "0,7 a 1,4 g",
               "0",
-              "1,1 a 2 g",
+              "1,1 a 1,8 g",
               "Não contém glúten; contém lactose"
             ],
             [
-              "Alfajor (5 sabores)",
+              "Alfajor (2 sabores)",
               "35 g (1 unidade)",
-              "158 a 183",
-              "0,8 a 1,3 g",
+              "158 a 164",
+              "1,3 g",
               "0",
-              "3 a 3,8 g",
+              "3,4 a 3,6 g",
               "A loja não publica"
             ],
             [
-              "Doctor Bar Avelã",
+              "[Doctor Bar Avelã](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p)",
               "62 g (1 barra)",
               "261",
               "1,8 g",
@@ -118719,7 +118890,7 @@ export const reviewsData: unknown[] = [
               "Contém glúten; contém lactose"
             ],
             [
-              "Doctor Wafer Avelã",
+              "[Doctor Wafer Avelã](https://www.drpeanut.com.br/doctor-wafer-avela-un/p)",
               "25 g (1 unidade)",
               "127",
               "1 g",
@@ -118740,7 +118911,30 @@ export const reviewsData: unknown[] = [
           "caption": "Tabelas publicadas pela loja: alfajor, Doctor Bar, Doctor Wafer, pastas e whey."
         },
         "postParagraphs": [
-          "A proteína muda muito de um produto para outro: de 2,5 a 3 g na colher de pasta, de 4 a 4,7 g no alfajor, 5 g na Doctor Wafer, 21 g na Doctor Bar e 20 g no whey. As porções também são diferentes, então compare cada produto pela porção que você de fato come."
+          "A proteína muda muito de um produto para outro: de 2,5 a 3 g na colher de pasta, de 4,4 a 4,7 g no alfajor, 5 g na Doctor Wafer, 21 g na Doctor Bar e 20 g no whey. As porções também são diferentes, então compare cada produto pela porção que você de fato come."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-pasta-avela-250g.webp",
+            "alt": "Pote de 250 g da pasta de amendoim Dr. Peanut sabor Avelã, em foto oficial da marca",
+            "caption": "Pasta de amendoim Avelã, pote de 250 g. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p"
+          },
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+            "alt": "Display e barra de proteína Doctor Bar da Dr. Peanut, sabor Avelã, em foto oficial da marca",
+            "caption": "Doctor Bar Avelã, vendida em display de 8. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver as pastas na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -118749,7 +118943,7 @@ export const reviewsData: unknown[] = [
           "A lista de ingredientes mostra o que adoça cada produto:"
         ],
         "bullets": [
-          "Pasta de amendoim: maltitol, xilitol, sucralose e acessulfame de potássio nos 11 sabores. Brownie e Banoffee levam também glicosídeos de esteviol.",
+          "Pasta de amendoim: maltitol, xilitol, sucralose e acessulfame de potássio nos 10 sabores. O Brownie leva também glicosídeos de esteviol.",
           "Doctor Bar Avelã: maltitol, xarope de maltitol, glicosídeos de esteviol e sucralose.",
           "Doctor Wafer Avelã: maltitol no ganache.",
           "Whey: sucralose.",
@@ -118762,7 +118956,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Alfajor: o que a loja publica e o que não publica",
         "paragraphs": [
-          "A página de cada alfajor traz a tabela nutricional numa imagem e não traz a lista de ingredientes nem o aviso de alérgicos. Sem a lista, não dá para saber o que adoça o alfajor, nem se ele tem lactose ou glúten. Quem tem restrição deve conferir a embalagem antes de comer.",
+          "A página de cada [alfajor](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p) traz a tabela nutricional numa imagem e não traz a lista de ingredientes nem o aviso de alérgicos. Sem a lista, não dá para saber o que adoça o alfajor, nem se ele tem lactose ou glúten. Quem tem restrição deve conferir a embalagem antes de comer. Os alfajores Avelã, Cookies & Cream e Pistache saíram do catálogo.",
           "O que a tabela mostra, por unidade de 35 g:"
         ],
         "comparisonTable": {
@@ -118778,17 +118972,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Avelã",
-              "158",
-              "15 g",
-              "0,8 g",
-              "4,6 g",
-              "9 g",
-              "3,7 g",
-              "41 mg"
-            ],
-            [
-              "Leite em Pó",
+              "[Leite em Pó](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p)",
               "164",
               "17 g",
               "1,3 g",
@@ -118798,7 +118982,7 @@ export const reviewsData: unknown[] = [
               "44 mg"
             ],
             [
-              "Doce de Leite",
+              "[Doce de Leite](https://www.drpeanut.com.br/alfajor-sabor-doce-de-leite-cobertura-chocolate-ao-leite-35g/p)",
               "158",
               "15 g",
               "1,3 g",
@@ -118806,49 +118990,36 @@ export const reviewsData: unknown[] = [
               "9 g",
               "3,6 g",
               "43 mg"
-            ],
-            [
-              "Pistache",
-              "163",
-              "17 g",
-              "1 g",
-              "4 g",
-              "9 g",
-              "3 g",
-              "46 mg"
-            ],
-            [
-              "Cookies & Cream",
-              "183",
-              "17 g",
-              "0,8 g",
-              "4 g",
-              "11 g",
-              "3,8 g",
-              "45 mg"
             ]
           ],
           "caption": "Porção de 35 g (1 unidade), tabela publicada pela loja."
         },
         "postParagraphs": [
-          "Os cinco marcam 0 g de açúcares adicionados."
+          "Os dois marcam 0 g de açúcares adicionados."
         ],
         "images": [
           {
-            "src": "/images/reviews/dr-peanut/dr-peanut-alfajor-avela-tabela-nutricional.webp",
-            "alt": "Tabela nutricional do alfajor Dr. Peanut sabor Avelã, por 100 g e por unidade de 35 g",
-            "caption": "Tabela do alfajor Avelã publicada na página do produto. Imagem: Dr. Peanut.",
+            "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-tabela-alfajor-leite-em-po.webp",
+            "alt": "Tabela nutricional do alfajor Dr. Peanut sabor Leite em Pó, porção de 35 g",
+            "caption": "Tabela do alfajor Leite em Pó publicada na página do produto. Imagem: Dr. Peanut.",
             "objectFit": "contain",
-            "aspectRatio": 2.3203
+            "aspectRatio": 1.5731
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o alfajor de Leite em Pó na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Doctor Bar e Doctor Wafer",
         "paragraphs": [
-          "Entre as porções selecionadas, a Doctor Bar Avelã tem o maior valor energético: 261 kcal na barra de 62 g. Ela tem 21 g de proteína, 21 g de carboidratos, 12 g de gorduras totais e 6,2 g de gordura saturada, que a tabela marca como 31% do valor diário. São 9,6 g de polióis e 80 mg de sódio.",
+          "Entre as porções selecionadas, a [Doctor Bar Avelã](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p) tem o maior valor energético: 261 kcal na barra de 62 g. Ela tem 21 g de proteína, 21 g de carboidratos, 12 g de gorduras totais e 6,2 g de gordura saturada, que a tabela marca como 31% do valor diário. São 9,6 g de polióis e 80 mg de sódio.",
           "Na lista de ingredientes da Doctor Bar Avelã estão leite em pó, soro de leite e caseinato de cálcio. A página diz \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\", e os alérgicos são amendoim, leite e soja.",
-          "A Doctor Wafer é vendida avulsa, em unidade de 25 g, ou em caixa com 12. No sabor Avelã, cada unidade tem 127 kcal, 5 g de proteína, 9 g de carboidratos, 1 g de açúcares totais, 0 g de açúcares adicionados e 4,8 g de gordura saturada (24% do valor diário). O wafer é de farinha de trigo, e a página diz \"CONTÉM GLÚTEN. CONTÉM LACTOSE.\""
+          "A [Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p) é vendida avulsa, em unidade de 25 g, ou em caixa com 12. No sabor Avelã, cada unidade tem 127 kcal, 5 g de proteína, 9 g de carboidratos, 1 g de açúcares totais, 0 g de açúcares adicionados e 4,8 g de gordura saturada (24% do valor diário). O wafer é de farinha de trigo, e a página diz \"CONTÉM GLÚTEN. CONTÉM LACTOSE.\""
         ],
         "images": [
           {
@@ -118858,26 +119029,54 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 0.6962
           }
+        ],
+        "links": [
+          {
+            "label": "Ver a Doctor Bar Avelã na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Doctor Wafer Avelã na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/doctor-wafer-avela-un/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Whey: açúcar e lactose",
         "paragraphs": [
-          "O whey da Dr. Peanut, feito pela Max Titanium em parceria com a marca, tem 20 g de proteína por porção de 40 g nos 5 sabores. Os açúcares totais vão de 8,5 g (Avelã) a 11 g (Doce de Leite e Paçoca) por porção, e os adicionados, de 0 a 0,5 g.",
+          "O [whey da Dr. Peanut](https://www.drpeanut.com.br/whey-dr-peanut/p), feito pela Max Titanium em parceria com a marca, tem 20 g de proteína por porção de 40 g nos 5 sabores. Os açúcares totais vão de 8,5 g (Avelã) a 11 g (Doce de Leite e Paçoca) por porção, e os adicionados, de 0 a 0,5 g.",
           "O rótulo diz \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\", e o edulcorante é a sucralose. A Paçoca tem 229 mg de sódio por porção, o dobro dos outros sabores. A tabela de cada sabor está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/whey/whey-dr-peanut.webp",
+            "alt": "Pote de 900 g do 100% Whey Dr. Peanut - Max Titanium, em foto oficial da marca",
+            "caption": "100% Whey Dr. Peanut - Max Titanium, pote de 900 g. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/whey-dr-peanut/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o 100% Whey Dr. Peanut na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/whey-protein",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "Dr. Peanut engorda? Dieta e emagrecimento",
+        "heading": "Calorias por porção e dieta",
         "paragraphs": [
-          "A tabela mostra as calorias de cada porção: de 83 a 90 kcal na colher de pasta, de 158 a 183 kcal no alfajor, 127 kcal na Doctor Wafer, 261 kcal na Doctor Bar e de 159 a 166 kcal na porção de whey.",
-          "O rótulo não diz se um produto engorda ou emagrece. Isso depende do quanto você come e de tudo o que entra na sua dieta no dia. As páginas da loja também não prometem emagrecimento: para encaixar a pasta, a barra ou o whey na dieta, fale com um nutricionista."
+          "A tabela mostra as calorias de cada porção: de 83 a 90 kcal na colher de pasta, de 158 a 164 kcal no alfajor, 127 kcal na Doctor Wafer, 261 kcal na Doctor Bar e de 159 a 166 kcal na porção de whey.",
+          "O rótulo não diz se um produto engorda ou emagrece. Isso depende do quanto você come e de tudo o que entra na sua dieta no dia. As páginas da loja também não prometem emagrecimento."
         ]
       },
       {
-        "heading": "Dr. Peanut faz mal?",
+        "heading": "Lactose, glúten, adoçantes e alérgenos",
         "paragraphs": [
-          "O rótulo não responde a essa pergunta. Ele lista o que a pessoa com restrição precisa conferir:"
+          "O rótulo lista o que a pessoa com restrição precisa conferir:"
         ],
         "bullets": [
           "Lactose: presente nas pastas, no whey, na Doctor Bar Avelã e na Doctor Wafer Avelã.",
@@ -118891,39 +119090,58 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Quando procurar nutricionista ou médico",
+        "heading": "Preço e cupom",
         "paragraphs": [
-          "Para usar a tabela, confira primeiro o produto e o sabor, depois a porção e os avisos de alérgenos. Em caso de restrição alimentar ou de dúvida sobre o plano alimentar, leve o rótulo ao nutricionista ou médico."
+          "Os preços abaixo são por apresentação e por quantidade da caixa."
+        ],
+        "bullets": [
+          "Pasta de amendoim: R$ 25,89 no pote de 250 g (de R$ 28,90) e R$ 59,89 no de 600 g (de R$ 64,90), em [10 sabores](https://www.drpeanut.com.br/).",
+          "[Alfajor](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p): R$ 12,99 a unidade e R$ 155,88 a caixa com 12.",
+          "[Doctor Bar](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p): R$ 122,03 a caixa com 8 barras.",
+          "[Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p): R$ 11,46 a unidade e R$ 137,52 a caixa com 12.",
+          "[Whey](https://www.drpeanut.com.br/whey-dr-peanut/p): R$ 224,39 o pote de 900 g."
+        ],
+        "postParagraphs": [
+          "O cupom DREMCASACOMCECILIA dá 10% de desconto em todo o site, para cliente novo e antigo, em todas as formas de pagamento. Soma com as promoções e com os 3% do Pix no checkout. Para usar, cole o código no campo \"Código\" do carrinho e clique em \"Adicionar\". O frete grátis conta o valor depois do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. O passo a passo está em [como usar o cupom da Dr. Peanut](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom Dr. Peanut](/cupons/dr-peanut)."
+        ],
+        "links": [
+          {
+            "label": "Ver regras e validade do cupom DREMCASACOMCECILIA",
+            "href": "/cupons/dr-peanut"
+          },
+          {
+            "label": "Ir para a Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "Preço e cupom",
+        "heading": "Qual produto escolher pelo rótulo",
         "paragraphs": [
-          "Compare os preços abaixo pela apresentação e pela quantidade da caixa, e confira a oferta atual antes de decidir."
+          "Use o quadro assim: confira o produto e o sabor, depois a porção e os avisos de alérgenos. Se você tem restrição alimentar ou dúvida sobre o plano alimentar, leve o rótulo ao nutricionista ou médico, que decide o que cabe na sua dieta."
         ],
         "bullets": [
-          "Pasta de amendoim: R$ 25,89 no pote de 250 g (de R$ 28,90) e R$ 59,89 no de 600 g (de R$ 64,90).",
-          "Alfajor: R$ 12,99 a unidade e R$ 155,88 a caixa com 12.",
-          "Doctor Bar: R$ 122,03 a caixa com 8 barras.",
-          "Doctor Wafer: R$ 11,46 a unidade e R$ 137,52 a caixa com 12.",
-          "Whey: R$ 224,39 o pote de 900 g."
+          "**Glúten fora da mesa:** as pastas declaram não conter glúten; o whey, a Doctor Bar Avelã e a Doctor Wafer Avelã declaram conter.",
+          "**Lactose fora da mesa:** nenhum produto com lista publicada serve, porque as pastas, o whey, a Doctor Bar Avelã e a Doctor Wafer Avelã declaram lactose.",
+          "**Olhar a linha de açúcar adicionado:** pastas, alfajores e Doctor Wafer marcam 0 g; a Doctor Bar Avelã marca 0,2 g e o whey, de 0 a 0,5 g.",
+          "**Mais proteína por porção:** a Doctor Bar Avelã, com 21 g na barra de 62 g, e o whey, com 20 g em 40 g."
         ],
-        "postParagraphs": [
-          "O cupom DREMCASACOMCECILIA dá 10% de desconto em todo o site, em todas as formas de pagamento, e soma com as promoções. O frete grátis conta o valor depois do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. O passo a passo está em [como usar o cupom da Dr. Peanut](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Para saber quem fabrica e como funcionam as trocas, veja [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel)."
-        ]
+        "emphasis": "Pelo rótulo, para quem evita glúten a escolha é a pasta, a única linha com lista publicada que declara não conter glúten, e para quem evita lactose nenhum produto com lista publicada serve."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Dr. Peanut é saudável? O rótulo não responde isso. Ele mostra o que cada produto tem (açúcares, polióis, lactose, glúten, gordura e calorias), e a decisão sobre a sua dieta é de nutricionista ou médico.",
-          "Pasta de amendoim Dr. Peanut é saudável? O rótulo da pasta mostra 0 g de açúcares adicionados, de 4,6 a 10 g de açúcares totais e de 6,4 a 20 g de polióis por 100 g, com lactose e sem glúten. Se ela cabe na sua dieta, quem diz é um nutricionista.",
-          "Alfajor Dr. Peanut é saudável? A loja publica só a tabela nutricional do alfajor, com 158 a 183 kcal por unidade de 35 g, e não publica os ingredientes. Sem a lista, não dá para avaliar a composição.",
+          "Dr. Peanut é saudável? O rótulo não responde isso. Ele mostra o que cada produto tem (açúcares, polióis, lactose, glúten, gordura e calorias), e o capítulo de escolha diz como usar esses números.",
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, em todas as formas de pagamento, para cliente novo e antigo. Cole no campo \"Código\" do carrinho e clique em \"Adicionar\"; as regras estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
+          "Pasta de amendoim Dr. Peanut é saudável? O rótulo da pasta mostra 0 g de açúcares adicionados, de 4,6 a 9 g de açúcares totais e de 6,4 a 20 g de polióis por 100 g, com lactose e sem glúten.",
+          "Alfajor Dr. Peanut é saudável? A loja publica só a tabela nutricional do alfajor, com 158 a 164 kcal por unidade de 35 g, e não publica os ingredientes. Sem a lista, não dá para avaliar a composição.",
           "Dr. Peanut engorda? O rótulo mostra as calorias, como 83 a 90 kcal por colher de pasta, mas não diz se engorda. Isso depende do total que você come no dia.",
-          "Dr. Peanut é bom para dieta? A loja não promete nada para dieta nas páginas dos produtos. Para encaixar o produto num plano alimentar, procure um nutricionista.",
-          "Dr. Peanut é bom para emagrecer? O rótulo não fala em emagrecimento, e este texto também não. Quem quer emagrecer deve montar o plano com um nutricionista.",
-          "Dr. Peanut faz mal? O rótulo não diz isso. Ele lista lactose, glúten em alguns produtos, polióis, edulcorantes e alérgicos, que quem tem restrição precisa conferir com um médico ou nutricionista.",
-          "Dr. Peanut tem açúcar? Tem. As pastas não têm açúcar adicionado, mas trazem de 4,6 a 10 g de açúcares totais por 100 g. O whey tem de 8,5 a 11 g por porção de 40 g.",
-          "Dr. Peanut tem adoçante? Tem. A pasta leva maltitol, xilitol, sucralose e acessulfame de potássio, e o Brownie e o Banoffee também levam glicosídeos de esteviol; a Doctor Bar Avelã, maltitol, glicosídeos de esteviol e sucralose; a Doctor Wafer Avelã, maltitol; e o whey, sucralose.",
+          "Dr. Peanut é bom para dieta? A loja não promete nada para dieta nas páginas dos produtos.",
+          "Dr. Peanut é bom para emagrecer? O rótulo não fala em emagrecimento, e este texto também não.",
+          "Dr. Peanut faz mal? O rótulo não diz isso. Ele lista lactose, glúten em alguns produtos, polióis, edulcorantes e alérgicos, que quem tem restrição precisa conferir.",
+          "Dr. Peanut tem açúcar? Tem. As pastas não têm açúcar adicionado, mas trazem de 4,6 a 9 g de açúcares totais por 100 g. O whey tem de 8,5 a 11 g por porção de 40 g.",
+          "Dr. Peanut tem adoçante? Tem. A pasta leva maltitol, xilitol, sucralose e acessulfame de potássio, e o Brownie também leva glicosídeos de esteviol; a Doctor Bar Avelã, maltitol, glicosídeos de esteviol e sucralose; a Doctor Wafer Avelã, maltitol; e o whey, sucralose.",
           "Quais são os ingredientes da Dr. Peanut? A pasta leva amendoim, proteína concentrada do soro do leite, polióis e edulcorantes. A lista de cada produto está na página dele no site, menos a do alfajor, que a loja não publica.",
           "Whey Dr. Peanut tem açúcar? Tem. São de 8,5 a 11 g de açúcares totais por porção de 40 g, conforme o sabor.",
           "Whey Dr. Peanut tem lactose? Tem. O rótulo diz \"CONTÉM LACTOSE\" e também \"CONTÉM GLÚTEN\"."
@@ -118946,12 +119164,22 @@ export const reviewsData: unknown[] = [
         "slug": "dr-peanut-melhor-sabor"
       },
       {
-        "slug": "dr-peanut-e-confiavel"
+        "slug": "cupom-dr-peanut-como-usar"
       },
       {
-        "slug": "cupom-dr-peanut-como-usar"
+        "slug": "snacks-dr-peanut-qual-escolher"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer ver açúcares totais, polióis e calorias de cada produto antes de comprar.",
+        "Você evita glúten e quer a linha que declara não conter: as pastas."
+      ],
+      "skipIf": [
+        "Você evita lactose: pastas, whey, Doctor Bar Avelã e Doctor Wafer Avelã declaram lactose.",
+        "Você precisa da lista de ingredientes do alfajor: a loja não publica."
+      ]
+    }
   },
   {
     "id": 522,
@@ -120857,7 +121085,7 @@ export const reviewsData: unknown[] = [
     "id": 527,
     "slug": "probiotica-ou-dux",
     "title": "Probiótica ou Dux: whey e creatina comparados por dose, proteína e preço",
-    "seoTitle": "Probiótica ou Dux: whey e creatina por dose",
+    "seoTitle": "Probiótica ou Dux: whey e creatina por dose e preço",
     "type": "Comparativo de Suplemento",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -120872,7 +121100,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Probiótica ou Dux, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina por 100 g de proteína e de creatina, Creapure e frete.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/probiotica/probiotica-ou-dux-capa-v2.webp",
@@ -120883,37 +121111,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Probiótica sai mais barata que a Dux por 100 g de proteína no whey e por 100 g de creatina, incluindo a Creapure, pelos preços publicados. A Probiótica tem o cupom PRO10EMCASACOMCECILIA; a Dux dá 5% no Pix e tem lista de ingredientes mais enxuta em algumas versões. Veja Onde cada uma ganha e Quem escolhe o quê."
-        ]
-      },
-      {
-        "heading": "Como comparamos",
-        "paragraphs": [
-          "Este texto compara whey e creatina da Probiótica, parceira do site, com o cupom PRO10EMCASACOMCECILIA, e da Dux, que não é parceira, com os preços publicados.",
-          "A comparação com a Growth está em [Probiótica ou Growth](/reviews/probiotica-ou-growth). Este texto é o da série contra a Dux, junto com [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Max Titanium ou Dux](/reviews/max-titanium-ou-dux).",
-          "Comparamos o que as lojas publicam: a tabela nutricional, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são sem o frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. Sabor, dissolução e digestão ficam de fora: compare pelo rótulo e pelo preço.",
-          "As contas são estas, arredondadas no centavo:"
-        ],
-        "image": {
-          "src": "/images/reviews/probiotica/probiotica-ou-dux-capa.webp",
-          "alt": "Quadro com o preço por 100 g no Pix em 20/10/2026: whey Probiótica refil R$ 38,10 e pote R$ 40,82, Dux Concentrado 1,8 kg R$ 51,29 e 900 g R$ 58,41; creatina Probiótica 300 g R$ 18,97 e Creapure R$ 64,59, Dux monohidratada R$ 20,55 e Creapure R$ 87,05",
-          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "bullets": [
-          "preço por dose: preço ÷ número de doses do pote;",
-          "preço por 100 g de proteína: preço ÷ (doses × proteína por dose) × 100;",
-          "preço por 100 g de creatina: preço ÷ gramas do pote × 100."
-        ],
-        "postParagraphs": [
-          "O preço do pote, sozinho, engana. As doses das duas têm 30 g de pó e 20 g de proteína, e a conta por 100 g de proteína iguala potes de tamanhos diferentes, como o de 1,8 kg da Dux. A conta com cupom é o teto: 10% sobre o preço no Pix da Probiótica, o maior desconto possível."
+          "A Probiótica sai mais barata que a Dux por 100 g de proteína no whey e por 100 g de creatina, incluindo a Creapure, pelos preços publicados. A Probiótica tem o cupom PRO10EMCASACOMCECILIA, com até 10% OFF; a Dux dá 5% no Pix e tem lista de ingredientes mais enxuta em algumas versões, o que pode inverter a escolha."
         ]
       },
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "No whey, a Probiótica sai mais barata por 100 g de proteína nos dois potes. Preços de 20/10/2026 no cartão, sem o cupom.",
+          "No whey, a Probiótica sai mais barata por 100 g de proteína nos dois potes. As doses das duas têm 30 g de pó e 20 g de proteína, e a conta por 100 g de proteína iguala potes de tamanhos diferentes, como o de 1,8 kg da Dux. Preços de 20/10/2026 no cartão, sem o cupom.",
           "A dose da Probiótica tem 20 g de proteína em 30 g, pela tabela nutricional do sabor Baunilha. A página do pote traz outra faixa, de 20 g a 24 g por dose, e a conta não usa essa faixa. A Dux declara 20 g de proteína em 30 g no Baunilha."
         ],
         "comparisonTable": {
@@ -120953,27 +121157,35 @@ export const reviewsData: unknown[] = [
               "R$ 647,90",
               "R$ 53,99"
             ]
-          ]
+          ],
+          "caption": "Conta nossa: preço ÷ (doses × proteína por dose) × 100."
         },
         "postParagraphs": [
-          "No Pix, a conta por 100 g de proteína fica em R$ 40,82 no pote e R$ 38,10 no refil da Probiótica, e em R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) na Dux. Com o cupom no teto, sobre o Pix, o pote cai para R$ 36,74 e o refil, para R$ 34,29.",
+          "Com o cupom no teto de até 10% OFF, sobre o preço do cartão, o pote cai para R$ 37,87 e o refil, para R$ 35,35 por 100 g de proteína; o desconto real varia por produto. O Pix muda por item e por dia: na leitura de outubro, a conta ficava em R$ 40,82 (pote) e R$ 38,10 (refil) na Probiótica, e em R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) na Dux, e o cupom no teto sobre esse Pix levava o pote a R$ 36,74 e o refil a R$ 34,29.",
           "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. A página diz 30 doses, e a conta usa o peso."
         ],
         "images": [
           {
             "src": "/images/reviews/probiotica/probiotica-ou-dux-whey-por-dose.webp",
             "alt": "Barras com o preço por dose de whey no Pix: Probiótica refil R$ 7,62 (R$ 6,86 com cupom), Probiótica pote R$ 8,16 (R$ 7,35), Dux 1,8 kg R$ 10,26 e Dux 900 g R$ 11,68",
-            "caption": "Quanto custa cada dose de 30 g de whey no Pix, com os preços das páginas oficiais.",
+            "caption": "Quanto custa cada dose de 30 g de whey no Pix da leitura de outubro, com os preços das páginas oficiais.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o 100% Pure Whey refil na Probiótica",
+            "href": "https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Pote de 900 g: a diferença é o preço",
         "paragraphs": [
-          "Os dois potes de 900 g têm 30 doses de 30 g e 20 g de proteína por dose, ou seja, 600 g de proteína cada um. O pote da Probiótica sai a R$ 40,82 por 100 g de proteína no Pix. O da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão. A diferença no Pix é de R$ 17,59 por 100 g de proteína.",
-          "O concentrado de 1,8 kg é a linha mais barata da Dux por 100 g de proteína: R$ 51,29 no Pix. Mesmo assim, fica acima do pote de 900 g da Probiótica, a R$ 40,82 no Pix."
+          "Os dois potes de 900 g têm 30 doses de 30 g e 20 g de proteína por dose, ou seja, 600 g de proteína cada um. O [pote de 900 g da Probiótica](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) sai a R$ 42,08 por 100 g de proteína no cartão e o da Dux, a R$ 61,48: são R$ 19,40 de diferença. No Pix da leitura de outubro, R$ 40,82 contra R$ 58,41, ou R$ 17,59 de diferença.",
+          "O concentrado de 1,8 kg é a linha mais barata da Dux por 100 g de proteína: R$ 53,99 no cartão (R$ 51,29 no Pix de outubro). Mesmo assim, fica acima do pote de 900 g da Probiótica, a R$ 42,08 no cartão (R$ 40,82 no Pix)."
         ],
         "images": [
           {
@@ -120981,7 +121193,8 @@ export const reviewsData: unknown[] = [
             "alt": "Três embalagens de whey da Probiótica, de 900 g: o pote, o refil e o Zero Lactose, de frente",
             "caption": "Embalagens de whey da Probiótica: pote, refil e Zero Lactose, todos de 900 g. Imagem: Probiótica",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
           }
         ]
       },
@@ -120996,7 +121209,8 @@ export const reviewsData: unknown[] = [
             "alt": "Potes de creatina da Probiótica, de 300 g e de 150 g (Creapure), de frente",
             "caption": "Potes de creatina da Probiótica: Monohidratada Pura 300 g e Creapure 150 g. Imagem: Probiótica",
             "objectFit": "contain",
-            "aspectRatio": 1.7778
+            "aspectRatio": 1.7778,
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
           }
         ],
         "comparisonTable": {
@@ -121019,34 +121233,41 @@ export const reviewsData: unknown[] = [
               "R$ 64,90",
               "R$ 21,63"
             ]
-          ]
+          ],
+          "caption": "Conta nossa: preço ÷ gramas do pote × 100."
         },
         "postParagraphs": [
-          "No Pix, a Probiótica sai a R$ 18,97 por 100 g (R$ 17,07 com o cupom no teto), e a Dux, a R$ 20,55. A Probiótica de 300 g é a mais barata por grama, e por dose a diferença no Pix é de R$ 0,08 (R$ 0,95 contra R$ 1,03)."
+          "No cartão, a Probiótica de 300 g sai a R$ 19,97 por 100 g (R$ 17,97 com o cupom no teto) e a Dux, a R$ 21,63; por dose, R$ 1,00 contra R$ 1,08. No Pix da leitura de outubro, a Probiótica saía a R$ 18,97 (R$ 17,07 com o cupom no teto) e a Dux, a R$ 20,55, com R$ 0,95 contra R$ 1,03 por dose."
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina 300 g na Probiótica",
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Creapure: o que cada loja declara",
         "paragraphs": [
-          "A Dux declara Creapure na linha de 300 g. A página diz que a creatina é produzida pela AlzChem, na Alemanha. O selo é declaração da Dux. A dose dessa linha é de 3 g, meio dosador. A Probiótica usa o nome Creapure no pote de 150 g, com dose de 5 g e 30 doses.",
-          "Por 100 g, a Creapure da Probiótica sai a R$ 64,59 no Pix (R$ 66,59 no cartão). A da Dux sai a R$ 87,05 no Pix (R$ 91,63 no cartão). Pelo preço por grama, a Probiótica fica cerca de 26% abaixo no Pix. Quem quer o selo declarado pela Dux paga por ele; quem compara por grama de creatina, não.",
-          "Esta comparação não trata de efeito no corpo. Para creatina, o rótulo diz quanto de creatina vem em cada dose e quanto custa."
+          "A Dux declara Creapure na linha de 300 g. A página diz que a creatina é produzida pela AlzChem, na Alemanha. O selo é declaração da Dux. A dose dessa linha é de 3 g, meio dosador. A Probiótica usa o nome Creapure no [pote de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), com dose de 5 g e 30 doses.",
+          "Por 100 g, a Creapure da Probiótica sai a R$ 66,59 no cartão (R$ 64,59 no Pix de outubro) e a da Dux, a R$ 91,63 (R$ 87,05 no Pix). Pelo preço por grama, a Probiótica fica cerca de 27% abaixo no cartão. Quem quer o selo declarado pela Dux paga por ele; quem compara por grama de creatina, não."
         ]
       },
       {
         "heading": "Ingredientes e alérgenos",
         "paragraphs": [
-          "O whey Baunilha da Probiótica lista proteína concentrada do soro do leite (WPC), emulsificante lecitina de soja, aromatizantes, espessante goma xantana e edulcorante sucralose. A página diz que o Baunilha não contém glúten.",
+          "O [100% Pure Whey Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica lista proteína concentrada do soro do leite (WPC), emulsificante lecitina de soja, aromatizantes, espessante goma xantana e edulcorante sucralose. A página diz que o Baunilha não contém glúten.",
           "O whey Baunilha da Dux lista proteína de soro do leite concentrada, aromatizante, edulcorantes sucralose e acessulfame de potássio, e corantes extrato de urucum, base norbixina e curcumina. A lista não tem lecitina nem goma xantana. A Dux diz, na página, que a proteína do concentrado é 100% do soro do leite, sem blend com outras proteínas. Os aditivos de sabor estão na lista acima.",
           "Os avisos de glúten da Dux não batem entre as páginas. O FAQ diz que só os sabores Cookies, Butter Cookies e Banoffee têm trigo. Na página do pote de 1,8 kg, o aviso de alergênicos do Baunilha diz que contém derivados de soja e de leite, lactose e glúten. A página do pote de 900 g não traz esse aviso para o Baunilha. Confira o rótulo antes de comprar.",
-          "Na creatina, a Probiótica de 300 g declara \"não contém glúten\" e \"lactose: não contém\". A monohidratada da Dux diz que pode conter glúten, porque os equipamentos têm contato com alimentos que contêm glúten. A linha Creapure da Dux traz \"contém glúten\" no aviso de alergênicos. A Creapure de 150 g da Probiótica declara \"não contém glúten\".",
+          "Na creatina, a [Probiótica de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) declara \"não contém glúten\" e \"lactose: não contém\". A monohidratada da Dux diz que pode conter glúten, porque os equipamentos têm contato com alimentos que contêm glúten. A linha Creapure da Dux traz \"contém glúten\" no aviso de alergênicos. A Creapure de 150 g da Probiótica declara \"não contém glúten\".",
           "Quem tem alergia ou intolerância deve ler o rótulo na hora da compra e, na dúvida, falar com um nutricionista ou médico."
         ]
       },
       {
         "heading": "Cupom, Pix e frete",
         "paragraphs": [
-          "O cupom PRO10EMCASACOMCECILIA dá até 10%, e o desconto muda por item: o resumo do pedido mostra quanto cada um recebeu. As regras e o passo a passo estão na [página do cupom da Probiótica](/cupons/probiotica). A página do cupom registra aceite no checkout. A regra do cupom diz que ele vale com todas as formas de pagamento e soma com as promoções vigentes do site. A Dux não é parceira do site e não tem cupom nosso."
+          "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica, e o desconto muda por item: o resumo do pedido mostra quanto cada um recebeu. Cole o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\". Vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções do site e com o desconto do Pix; as regras estão na [página do cupom da Probiótica](/cupons/probiotica). Nos testes de novembro, o desconto foi de 2% nos wheys e nas creatinas e de 7% no [Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e no [Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) em oferta. A Dux não é parceira do site e não tem cupom nosso."
         ],
         "comparisonTable": {
           "headers": [
@@ -121062,7 +121283,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Desconto no Pix",
-              "3% no whey e 5% na creatina, pelo preço da página",
+              "Até 5%, variável por produto (3% no whey e 5% na creatina na leitura de outubro)",
               "5% no Pix, não acumulável com algumas promoções"
             ],
             [
@@ -121073,7 +121294,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A conta com cupom parte do preço no Pix e tira 10%. Um item que recebe menos de 10% fica acima dessa conta. Os fretes são os da tabela."
+          "A conta com cupom parte do preço do cartão e tira 10%, o teto: um item que recebe menos de 10% fica acima dessa conta. Os fretes são os da tabela, e o frete grátis conta o total já com o cupom."
         ]
       },
       {
@@ -121081,11 +121302,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Dux ganha na creatina de 300 g: a lista tem só creatina monohidratada. A da Probiótica de 300 g lista antiumectante dióxido de silício.",
           "A Dux ganha na versão neutra: o Neutro tem 27 g por dose, com 20 g de proteína, e a lista traz só proteína concentrada do soro do leite.",
-          "A Dux ganha no Pix: 5% em todos os produtos. Na Probiótica, o Pix dá 3% no whey e 5% na creatina.",
-          "A Probiótica ganha no whey de 900 g: R$ 40,82 por 100 g de proteína no Pix, contra R$ 58,41 da Dux. Com o cupom no teto, R$ 36,74.",
-          "A Probiótica ganha na creatina de 300 g: R$ 18,97 por 100 g no Pix, contra R$ 20,55 da Dux. Com o cupom no teto, R$ 17,07.",
-          "A Probiótica ganha no Creapure: R$ 64,59 por 100 g no Pix, contra R$ 87,05 da Dux.",
-          "A Probiótica ganha no cupom: até 10% em todo o site, com desconto por item.",
+          "A Dux ganha no Pix: 5% em todos os produtos. Na Probiótica, o Pix é de até 5% e varia por item.",
+          "A Probiótica ganha no whey de 900 g: R$ 42,08 por 100 g de proteína no cartão, contra R$ 61,48 da Dux. Com o cupom no teto, R$ 37,87.",
+          "A Probiótica ganha na creatina de 300 g: R$ 19,97 por 100 g no cartão, contra R$ 21,63 da Dux. Com o cupom no teto, R$ 17,97.",
+          "A Probiótica ganha no Creapure: R$ 66,59 por 100 g no cartão, contra R$ 91,63 da Dux.",
+          "A Probiótica ganha no cupom: até 10% OFF em todo o site, com desconto por item.",
           "A Probiótica ganha no frete: grátis a partir de R$ 134 no Sudeste (R$ 104 na capital paulista), contra R$ 250 da Dux."
         ],
         "postParagraphs": [
@@ -121096,28 +121317,29 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quem escolhe o quê",
         "emphasis": "Pelos números da tabela, para o menor preço por grama no whey, na creatina e na Creapure a escolha é a Probiótica; para a lista de ingredientes mais enxuta nas versões indicadas, a escolha é a Dux.",
-        "emphasisAfterParagraph": 1,
         "bullets": [
-          "Quer o menor preço por 100 g de proteína no whey: [100% Pure Whey Refil, 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 38,10 no Pix, ou R$ 34,29 com o cupom no teto.",
-          "Prefere o pote rígido de 900 g: [100% Pure Whey, pote de 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 40,82 no Pix, ou R$ 36,74 com o cupom no teto.",
-          "Quer whey concentrado da Dux: o pote de 900 g Baunilha sai a R$ 58,41 por 100 g de proteína no Pix. Fica acima da Probiótica nessa conta.",
-          "Quer a creatina mais barata por grama: [Creatina Monohidratada Pura de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 18,97 no Pix, ou R$ 17,07 com o cupom no teto.",
-          "Quer a creatina com a lista de um ingrediente só: a monohidratada de 300 g da Dux, a R$ 20,55 por 100 g no Pix, sem antiumectante.",
-          "Quer Creapure: [Creatina Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 64,59 por 100 g no Pix. Se a declaração de Creapure da Dux pesa mais, o pote de 300 g da Dux sai a R$ 87,05 por 100 g no Pix."
+          "Quer o menor preço por 100 g de proteína no whey: [100% Pure Whey Refil, 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 39,28 no cartão, ou R$ 35,35 com o cupom no teto.",
+          "Prefere o pote rígido de 900 g: [100% Pure Whey, pote de 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 42,08 no cartão, ou R$ 37,87 com o cupom no teto.",
+          "Quer whey concentrado da Dux: o pote de 900 g Baunilha sai a R$ 61,48 por 100 g de proteína no cartão. Fica acima da Probiótica nessa conta.",
+          "Quer a creatina mais barata por grama: [Creatina Monohidratada Pura de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 19,97 no cartão, ou R$ 17,97 com o cupom no teto.",
+          "Quer a creatina com a lista de um ingrediente só: a monohidratada de 300 g da Dux, a R$ 21,63 por 100 g no cartão, sem antiumectante.",
+          "Quer Creapure: [Creatina Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 66,59 por 100 g no cartão. Se a declaração de Creapure da Dux pesa mais, o pote de 300 g da Dux sai a R$ 91,63 por 100 g no cartão."
         ],
         "postParagraphs": [
-          "Se o preço mudar, a conta muda. Refaça as contas com o preço do dia antes de comprar."
+          "Se o preço mudar, a conta muda. Refaça as contas com o preço do dia antes de comprar.",
+          "A comparação com a Growth está em [Probiótica ou Growth](/reviews/probiotica-ou-growth). Este texto é o da série contra a Dux, junto com [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Max Titanium ou Dux](/reviews/max-titanium-ou-dux)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Probiótica ou Dux: qual é melhor? Depende da linha. No whey de 900 g, a Probiótica sai mais barata por 100 g de proteína. Na creatina de 300 g, também. A Dux tem a creatina com a lista mais curta. As duas vendem uma linha Creapure, e a da Probiótica sai mais barata por grama.",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; as regras estão na página do [cupom Probiótica](/cupons/probiotica).",
           "Qual o melhor whey, Probiótica ou Dux? Pelo preço por 100 g de proteína, o refil de 900 g da Probiótica, a R$ 38,10 no Pix (R$ 40,82 no pote). O concentrado Baunilha de 900 g da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão.",
           "Qual a melhor creatina, Probiótica ou Dux? Por grama, a monohidratada de 300 g da Probiótica, a R$ 18,97 no Pix. A da Dux sai a R$ 20,55 no Pix.",
-          "A Dux é boa marca? Este texto responde só pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz que a proteína do concentrado é só do soro do leite, sem blend, e declara Creapure na linha de 300 g. A creatina monohidratada dela lista só creatina. O concentrado de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
+          "A Dux é boa marca? Este texto responde pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz que a proteína do concentrado é só do soro do leite, sem blend, e declara Creapure na linha de 300 g. A creatina monohidratada dela lista só creatina. O concentrado de 900 g sai a R$ 61,48 por 100 g de proteína no cartão.",
           "A Dux tem cupom nosso? Não. A Dux não é parceira do site, e o PRO10EMCASACOMCECILIA vale só na Probiótica; se a Dux tem promoção própria, a informação está no site dela.",
-          "O cupom soma com o Pix? A regra do cupom diz que ele vale com todas as formas de pagamento. O desconto muda por item, e o resumo do pedido mostra quanto cada um recebeu.",
+          "O cupom soma com o Pix? Soma: ele vale com todas as formas de pagamento e com o desconto do Pix. O desconto muda por item, e o resumo do pedido mostra quanto cada um recebeu.",
           "Os preços valem hoje? Eles mudam com as promoções. Confira nos dois sites antes de comprar."
         ]
       }
@@ -121151,7 +121373,7 @@ export const reviewsData: unknown[] = [
         "slug": "max-titanium-ou-probiotica"
       },
       {
-        "slug": "probiotica-e-confiavel"
+        "slug": "whey-probiotica-qual-escolher"
       }
     ]
   },
@@ -142158,7 +142380,7 @@ export const reviewsData: unknown[] = [
     "id": 603,
     "slug": "snacks-dr-peanut-qual-escolher",
     "title": "Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher (proteína, açúcar e preço por unidade)",
-    "seoTitle": "Dr. Peanut: Doctor Bar, alfajor ou wafer? Proteína [2026]",
+    "seoTitle": "Dr. Peanut: Doctor Bar, alfajor ou wafer? Proteína",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -142173,7 +142395,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Doctor Bar, alfajor ou Doctor Wafer: proteína, açúcar, calorias e preço por unidade.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
-    "updatedAt": "2026-11-14",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-capa-v2.webp",
@@ -142184,13 +142406,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. Nos sabores com tabela publicada, o wafer tem menos calorias e o menor preço por unidade. O que pesa é a proteína que você quer, e o código DREMCASACOMCECILIA dá 10% no site oficial."
+          "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4,4 a 4,7 g do alfajor e 5 a 6 g do wafer. Nos sabores com tabela publicada, o wafer tem menos calorias e o menor preço por unidade. O que pesa é a proteína que você quer, e o código DREMCASACOMCECILIA dá 10% no site oficial."
         ]
       },
       {
         "heading": "Os três snacks em uma tabela",
         "paragraphs": [
-          "Este texto compara a Doctor Bar, o alfajor e a Doctor Wafer entre si: a barra tem mais proteína, o wafer tem menos calorias, e o alfajor fica no meio. Não compara com barras de outras marcas e não diz qual sabor é o melhor. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja."
+          "Este texto compara a Doctor Bar, o alfajor e a Doctor Wafer entre si: a barra tem mais proteína, o wafer tem menos calorias, e o alfajor fica no meio. As pastas de amendoim e o whey ficam de fora; a tabela deles está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor). Cada linha é um sabor, com os números da tabela publicada pela loja. Os alfajores Avelã, Cookies & Cream e Pistache saíram do catálogo, e só restam o Doce de Leite e o Leite em Pó."
         ],
         "comparisonTable": {
           "headers": [
@@ -142205,7 +142427,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Doctor Bar Avelã",
+              "[Doctor Bar Avelã](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p)",
               "62 g",
               "261",
               "21 g",
@@ -142215,7 +142437,7 @@ export const reviewsData: unknown[] = [
               "R$ 15,25"
             ],
             [
-              "Doctor Bar Cookies & Cream",
+              "[Doctor Bar Cookies & Cream](https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-cookies-e-cream-62g---8-un/p)",
               "62 g",
               "263",
               "21 g",
@@ -142225,7 +142447,7 @@ export const reviewsData: unknown[] = [
               "R$ 15,25"
             ],
             [
-              "Doctor Bar Doce de Leite",
+              "[Doctor Bar Doce de Leite](https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-doce-de-leite-62g---8-un/p)",
               "62 g",
               "268",
               "21 g",
@@ -142235,7 +142457,7 @@ export const reviewsData: unknown[] = [
               "R$ 15,25"
             ],
             [
-              "Doctor Bar Chocolate com Coco",
+              "[Doctor Bar Chocolate com Coco](https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-chocolate-com-coco/p)",
               "62 g",
               "260",
               "21 g",
@@ -142245,7 +142467,7 @@ export const reviewsData: unknown[] = [
               "R$ 15,25"
             ],
             [
-              "Doctor Bar Speculoos",
+              "[Doctor Bar Speculoos](https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-speculoos/p)",
               "62 g",
               "não publicada",
               "21 g (embalagem)",
@@ -142255,27 +142477,7 @@ export const reviewsData: unknown[] = [
               "R$ 15,25"
             ],
             [
-              "Alfajor Avelã",
-              "35 g",
-              "158",
-              "4,6 g",
-              "0,8 g",
-              "0 g",
-              "3,7 g",
-              "R$ 12,99"
-            ],
-            [
-              "Alfajor Cookies & Cream",
-              "35 g",
-              "183",
-              "4 g",
-              "0,8 g",
-              "0 g",
-              "3,8 g",
-              "R$ 12,99"
-            ],
-            [
-              "Alfajor Doce de Leite",
+              "[Alfajor Doce de Leite](https://www.drpeanut.com.br/alfajor-sabor-doce-de-leite-cobertura-chocolate-ao-leite-35g/p)",
               "35 g",
               "158",
               "4,7 g",
@@ -142285,7 +142487,7 @@ export const reviewsData: unknown[] = [
               "R$ 12,99"
             ],
             [
-              "Alfajor Leite em Pó",
+              "[Alfajor Leite em Pó](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p)",
               "35 g",
               "164",
               "4,4 g",
@@ -142295,17 +142497,7 @@ export const reviewsData: unknown[] = [
               "R$ 12,99"
             ],
             [
-              "Alfajor Pistache",
-              "35 g",
-              "163",
-              "4 g",
-              "1 g",
-              "0 g",
-              "3 g",
-              "R$ 12,99"
-            ],
-            [
-              "Doctor Wafer Avelã",
+              "[Doctor Wafer Avelã](https://www.drpeanut.com.br/doctor-wafer-avela-un/p)",
               "25 g",
               "127",
               "5 g",
@@ -142315,7 +142507,7 @@ export const reviewsData: unknown[] = [
               "R$ 11,46"
             ],
             [
-              "Doctor Wafer Cookies & Cream",
+              "[Doctor Wafer Cookies & Cream](https://www.drpeanut.com.br/doctor-wafer-cookies-cream/p)",
               "25 g",
               "121",
               "5 g",
@@ -142325,7 +142517,7 @@ export const reviewsData: unknown[] = [
               "R$ 11,46"
             ],
             [
-              "Doctor Wafer Doce de Leite",
+              "[Doctor Wafer Doce de Leite](https://www.drpeanut.com.br/doctor-wafer-doce-de-leite/p)",
               "25 g",
               "118",
               "6 g",
@@ -142335,18 +142527,37 @@ export const reviewsData: unknown[] = [
               "R$ 11,46"
             ]
           ],
-          "caption": "Tabelas publicadas pela loja, 24/10."
+          "caption": "Tabelas publicadas pela loja; preços de 22/11."
         },
         "postParagraphs": [
           "Calorias, proteína, açúcares e gordura são por unidade. O preço da Doctor Bar é a conta do display de 8 (R$ 122,03 ÷ 8). Na Doctor Bar Speculoos, a tabela não publicada pela loja deixa as calorias e os açúcares em branco; a proteína de 21 g vem da embalagem e da descrição do produto."
         ],
         "images": [
           {
+            "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+            "alt": "Display e barra de proteína Doctor Bar da Dr. Peanut, sabor Avelã, em foto oficial da marca",
+            "caption": "Doctor Bar Avelã, vendida em display de 8. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p"
+          },
+          {
             "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-tabela-bar-cookies.webp",
             "alt": "Tabela nutricional da barra de proteína Doctor Bar sabor Cookies & Cream, porção de 62 g da Dr. Peanut",
             "caption": "Tabela da Doctor Bar Cookies publicada na página do produto. Imagem: Dr. Peanut.",
             "objectFit": "contain",
             "aspectRatio": 0.7078
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Doctor Bar Avelã na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Doctor Wafer Avelã na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/doctor-wafer-avela-un/p",
+            "sponsored": true
           }
         ]
       },
@@ -142373,10 +142584,10 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Alfajor",
-              "4 a 4,7 g",
+              "4,4 a 4,7 g",
               "R$ 12,99",
-              "R$ 2,76 a R$ 3,25",
-              "2,2 a 3,0"
+              "R$ 2,76 a R$ 2,95",
+              "2,7 a 3,0"
             ],
             [
               "Doctor Wafer",
@@ -142388,15 +142599,23 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A barra tem a maior proteína por unidade e também o menor preço por grama de proteína. No alfajor, cada grama de proteína sai entre R$ 2,76 e R$ 3,25. No wafer, entre R$ 1,91 e R$ 2,29. Por 100 kcal, as quatro barras com tabela disponível têm mais proteína que os outros dois formatos comparados."
+          "A barra tem a maior proteína por unidade e também o menor preço por grama de proteína. No alfajor, cada grama de proteína sai entre R$ 2,76 e R$ 2,95. No wafer, entre R$ 1,91 e R$ 2,29. Por 100 kcal, as quatro barras com tabela disponível têm mais proteína que os outros dois formatos comparados."
         ]
       },
       {
         "heading": "Açúcar: o que a tabela mostra",
         "paragraphs": [
-          "Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o açúcar acrescentado na fabricação. Nos sabores de alfajor e wafer comparados, a tabela marca 0 g de adicionados. Nas quatro barras com tabela publicada, são de 0,1 a 0,4 g; o Speculoos não tem tabela publicada pela loja. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, de 0,8 a 1,3 g; e no wafer, de 1 a 2 g. O menor número do alfajor está no Avelã e no Cookies & Cream, com 0,8 g cada.",
+          "Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o açúcar acrescentado na fabricação. Nos sabores de alfajor e wafer comparados, a tabela marca 0 g de adicionados. Nas quatro barras com tabela publicada, são de 0,1 a 0,4 g; o Speculoos não tem tabela publicada pela loja. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, 1,3 g nos dois sabores; e no wafer, de 1 a 2 g. O menor número entre os três produtos é o do wafer Avelã e Cookies & Cream, com 1 g cada.",
           "Os polióis aparecem só na tabela da barra: 9,6 g por unidade na Doctor Bar Avelã e 10 g na Cookies & Cream. Alfajor e wafer não trazem essa linha, e isso não quer dizer que não tenham polióis: a lista de ingredientes da Doctor Wafer Avelã, publicada pela loja, traz maltitol, que é um poliol. A lista de adoçantes de cada produto está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-alfajor-doce-de-leite.webp",
+          "alt": "Embalagem do alfajor Dr. Peanut sabor Doce de Leite com cobertura de chocolate ao leite, 35 g",
+          "caption": "Alfajor Doce de Leite com cobertura de chocolate ao leite, 35 g. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.drpeanut.com.br/alfajor-sabor-doce-de-leite-cobertura-chocolate-ao-leite-35g/p"
+        }
       },
       {
         "heading": "Glúten e lactose, e o que a loja não publica",
@@ -142417,7 +142636,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e cupom",
         "paragraphs": [
-          "A Doctor Bar só se vende em display de 8 barras, por R$ 122,03. A barra sai a R$ 15,25 na conta do display. O alfajor vem avulso por R$ 12,99, em display de 12 por R$ 155,88, ou em kit de 10 por R$ 129,90: nos três, a unidade sai pelos mesmos R$ 12,99. O wafer vem avulso por R$ 11,46, em display de 12 por R$ 137,52, ou em kit de 12 por R$ 130,68, que dá R$ 10,89 por unidade."
+          "A [Doctor Bar](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p) só se vende em display de 8 barras, por R$ 122,03. A barra sai a R$ 15,25 na conta do display. O [alfajor](https://www.drpeanut.com.br/alfajor-sabor-leite-em-po-35g/p) vem avulso por R$ 12,99, em [display de 12](https://www.drpeanut.com.br/alfajor-sabor-doce-de-leite-cobertura-chocolate-ao-leite-35g/p) por R$ 155,88, ou em kit de 10 por R$ 129,90: nos três, a unidade sai pelos mesmos R$ 12,99. O [wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p) vem avulso por R$ 11,46, em [display de 12](https://www.drpeanut.com.br/display-doctor-wafer/p) por R$ 137,52, ou em [kit sortido de 12](https://www.drpeanut.com.br/kit-sortido-duplo-wafers/p) por R$ 130,68, que dá R$ 10,89 por unidade; o [kit sortido de 6](https://www.drpeanut.com.br/kit-sortido-wafers/p), a R$ 65,34, sai pelos mesmos R$ 10,89."
         ],
         "images": [
           {
@@ -142425,41 +142644,68 @@ export const reviewsData: unknown[] = [
             "alt": "Displays abertos com barras de proteína Doctor Bar sabor Speculoos da Dr. Peanut",
             "caption": "Doctor Bar Speculoos em display, foto do produto publicada pela loja. Imagem: Dr. Peanut.",
             "objectFit": "contain",
-            "aspectRatio": 0.6667
+            "aspectRatio": 0.6667,
+            "href": "https://www.drpeanut.com.br/display-barra-de-proteina-doctor-bar-sabor-speculoos/p"
           }
         ],
         "postParagraphs": [
-          "O cupom DREMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Na conta com o cupom, a barra fica em cerca de R$ 13,73, o alfajor em R$ 11,69 e o wafer em R$ 10,31. São contas com o preço normal da unidade, não o preço final que você paga no carrinho.",
-          "O código fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut), e o passo a passo, em [como usar o cupom](/reviews/cupom-dr-peanut-como-usar). Quem fabrica a marca e como funcionam as trocas estão em [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel)."
+          "O cupom DREMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções e com os 3% do Pix no checkout. Para usar, cole o código no campo \"Código\" do carrinho e clique em \"Adicionar\". Na conta com o cupom, a barra fica em cerca de R$ 13,73, o alfajor em R$ 11,69 e o wafer em R$ 10,31. São contas com o preço normal da unidade, não o preço final que você paga no carrinho.",
+          "O código fica na [página do cupom Dr. Peanut](/cupons/dr-peanut), e o passo a passo, em [como usar o cupom](/reviews/cupom-dr-peanut-como-usar)."
+        ],
+        "links": [
+          {
+            "label": "Ver regras e validade do cupom DREMCASACOMCECILIA",
+            "href": "/cupons/dr-peanut"
+          },
+          {
+            "label": "Ir para a Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Qual escolher",
         "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é a Doctor Bar, porque ela tem 21 g contra até 6 g dos outros dois.",
-        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Nenhum dos três ganha em tudo. A escolha depende do que pesa mais para você:"
         ],
         "bullets": [
-          "**Mais proteína por unidade:** a Doctor Bar, com 21 g. Na conta do display de 8, a unidade sai a R$ 15,25; confira formato e preço atuais.",
-          "**Menos calorias por unidade:** a Doctor Wafer, com 118 a 127 kcal, e também o menor preço por unidade, R$ 11,46.",
-          "**Menos açúcar total:** o alfajor Avelã ou o Cookies & Cream, com 0,8 g por unidade.",
+          "**Mais proteína por unidade:** a [Doctor Bar](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p), com 21 g. Na conta do display de 8, a unidade sai a R$ 15,25; confira formato e preço atuais.",
+          "**Menos calorias por unidade:** a [Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p), com 118 a 127 kcal, e também o menor preço por unidade, R$ 11,46.",
+          "**Menos açúcar total:** a [Doctor Wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p) Avelã ou Cookies & Cream, com 1 g por unidade.",
           "**Menor preço por grama de proteína:** a Doctor Bar, com R$ 0,73 pela conta nossa.",
-          "**Meio-termo:** o alfajor, com 4 a 4,7 g de proteína e 158 a 183 kcal por R$ 12,99."
+          "**Meio-termo:** o alfajor, com 4,4 a 4,7 g de proteína e 158 a 164 kcal por R$ 12,99."
         ],
         "postParagraphs": [
-          "Nada disso diz qual snack tem o melhor sabor, nem qual cabe na sua dieta. Essa decisão é de um nutricionista ou médico. O rótulo completo, com ingredientes e adoçantes, está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel).",
+          "Qual deles cabe na sua dieta é decisão de nutricionista ou médico. O rótulo completo, com ingredientes e adoçantes, está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel).",
           "Se você já decidiu pelo wafer, o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) compara a Doctor Wafer com os wafers em caixa de outra marca, por preço e proteína.",
           "Para comparar a Doctor Bar com barras de outras marcas, veja [o guia de barras de proteína](/reviews/barra-de-proteina-qual-escolher). Aqui, a escolha é entre barra, alfajor e wafer da Dr. Peanut."
-        ]
+        ],
+        "links": [
+          {
+            "label": "Ver os snacks na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-kit-sortido-wafers.webp",
+          "alt": "Kit Sortido com seis Doctor Wafer da Dr. Peanut, nos sabores Avelã, Cookies & Cream e Doce de Leite",
+          "caption": "Kit Sortido com 6 Doctor Wafer, dois de cada sabor. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.drpeanut.com.br/kit-sortido-wafers/p"
+        }
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, em todas as formas de pagamento, para cliente novo e antigo. Cole no campo \"Código\" do carrinho e clique em \"Adicionar\"; as regras estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
           "Doctor Bar tem glúten? A página da Doctor Bar Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. Os outros sabores, o Speculoos inclusive, não têm aviso publicado na página: leia o da embalagem.",
           "Doctor Bar vende avulsa? Não. A loja vende só em display de 8 barras, por R$ 122,03, o que dá R$ 15,25 por barra na conta.",
-          "Alfajor Dr. Peanut tem quantas calorias? Tem de 158 a 183 kcal por unidade de 35 g, conforme o sabor, na tabela publicada pela loja.",
-          "Qual snack tem mais proteína? Por unidade, a Doctor Bar, com 21 g. O alfajor tem de 4 a 4,7 g, e o wafer, de 5 a 6 g."
+          "Alfajor Dr. Peanut tem quantas calorias? Tem 158 kcal (Doce de Leite) ou 164 kcal (Leite em Pó) por unidade de 35 g, na tabela publicada pela loja.",
+          "Qual snack tem mais proteína? Por unidade, a Doctor Bar, com 21 g. O alfajor tem de 4,4 a 4,7 g, e o wafer, de 5 a 6 g."
         ]
       }
     ],
@@ -142467,12 +142713,12 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Leve a Doctor Bar se você quer mais proteína por unidade: 21 g.",
         "Leve a Doctor Wafer se você quer menos calorias por unidade, de 118 a 127 kcal, e o menor preço por unidade.",
-        "Leve o alfajor Avelã ou Cookies & Cream se você quer o menor açúcar total: 0,8 g por unidade."
+        "Leve a Doctor Wafer Avelã ou Cookies & Cream se você quer o menor açúcar total: 1 g por unidade."
       ],
       "skipIf": [
-        "Passe nos três se você escolhe pelo sabor: o guia compara só os números da tabela.",
-        "Passe no alfajor se você precisa evitar glúten ou lactose: a loja não publica o aviso de alérgicos dele.",
-        "Passe na escolha por tabela se você precisa encaixar o snack numa dieta: isso é com nutricionista ou médico."
+        "Você não quer comprar um display fechado: a Doctor Bar só vem em display de 8 barras.",
+        "Você precisa evitar glúten ou lactose e pensa no alfajor: a loja não publica a lista de ingredientes nem o aviso de alérgicos dele.",
+        "Você quer proteína perto da de uma barra no wafer: ele tem de 5 a 6 g por unidade, contra 21 g da Doctor Bar."
       ]
     },
     "pros": [],
@@ -142494,7 +142740,7 @@ export const reviewsData: unknown[] = [
         "slug": "dr-peanut-melhor-sabor"
       },
       {
-        "slug": "dr-peanut-e-confiavel"
+        "slug": "cupom-dr-peanut-como-usar"
       }
     ]
   },
@@ -142503,7 +142749,7 @@ export const reviewsData: unknown[] = [
     "slug": "dr-peanut-qual-tamanho-compensa",
     "locale": "pt",
     "title": "Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa",
-    "seoTitle": "Dr. Peanut: qual tamanho compensa (250 g, 600 g, kit) [2026]",
+    "seoTitle": "Dr. Peanut: qual tamanho compensa (250 g, 600 g, kit)",
     "type": "Guia de escolha",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -142518,7 +142764,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Pote de 250 g, 600 g ou kit: qual tamanho compensa, pelo preço por 100 g e o frete por região.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-v2.webp",
@@ -142529,24 +142775,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O kit de 5 potes de 600 g tem o menor custo por 100 g entre os formatos comparados, mas leva 3 kg. Para um pote só, o de 600 g custa menos por grama que o de 250 g. O código DREMCASACOMCECILIA dá 10% no site oficial e soma com as promoções; compare consumo, validade e frete."
+          "Entre os kits avulsos, o de 4 potes de 600 g tem o menor custo por 100 g, mas leva 2,4 kg; a assinatura de 4 pastas de 250 g com o cupom sai ainda abaixo. Para um pote só, o de 600 g custa menos por grama que o de 250 g. O código DREMCASACOMCECILIA dá 10% OFF."
         ]
-      },
-      {
-        "heading": "Como comparar: o preço por 100 g",
-        "paragraphs": [
-          "Cada pote e kit da Dr. Peanut tem um peso diferente, então o preço da embalagem sozinho não diz qual compensa. Dividimos o preço \"por\" pelo peso em gramas para saber quanto sai cada 100 g de pasta. Os valores são os que o site oficial mostrava em 24/10/2026. Com o cupom, a conta é o preço \"por\" menos 10%."
-        ],
-        "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-pote-250g.webp",
-        "imageAlt": "Pote de 250 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem",
-        "imageCaption": "Pote de 250 g: R$ 25,89 no site, R$ 10,36 por 100 g.",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.638
       },
       {
         "heading": "Tabela de todos os formatos",
         "paragraphs": [
-          "Com o cupom DREMCASACOMCECILIA, no carrinho, o desconto é de 10%, somado às promoções vigentes. As regras do cupom estão na [página da Dr. Peanut](/cupons/dr-peanut), e como colocá-lo no carrinho, no [guia do cupom](/reviews/cupom-dr-peanut-como-usar)."
+          "O preço por 100 g é o preço \"por\" do site dividido pelo peso em gramas, porque o preço da embalagem sozinho não diz qual compensa; com o cupom, é o preço menos 10%. O cupom DREMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções e com os 3% do Pix no checkout; os preços da tabela não abatem o Pix. Cole o código no campo \"Código\" do carrinho e clique em \"Adicionar\". As regras do cupom estão na [página do cupom Dr. Peanut](/cupons/dr-peanut), e como colocá-lo no carrinho, no [guia do cupom](/reviews/cupom-dr-peanut-como-usar)."
         ],
         "comparisonTable": {
           "headers": [
@@ -142559,7 +142794,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Pote 250 g",
+              "[Pote 250 g](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p)",
               "250 g",
               "R$ 25,89",
               "R$ 10,36",
@@ -142567,7 +142802,7 @@ export const reviewsData: unknown[] = [
               "R$ 9,32"
             ],
             [
-              "Pote 600 g",
+              "[Pote 600 g](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p)",
               "600 g",
               "R$ 59,89",
               "R$ 9,98",
@@ -142575,7 +142810,7 @@ export const reviewsData: unknown[] = [
               "R$ 8,98"
             ],
             [
-              "Kit 2 × 250 g",
+              "Kit 2 × 250 g ([Cozy](https://www.drpeanut.com.br/combo-cozy-doce-de-leite-caramelo-salgado-250g/p))",
               "500 g",
               "R$ 47,64",
               "R$ 9,53",
@@ -142583,7 +142818,7 @@ export const reviewsData: unknown[] = [
               "R$ 8,58"
             ],
             [
-              "Kit 3 × 250 g",
+              "Kit 3 × 250 g ([Zenith](https://www.drpeanut.com.br/combo-zenith-avela-cookies-leite-em-po-250g/p))",
               "750 g",
               "R$ 68,35",
               "R$ 9,11",
@@ -142591,7 +142826,7 @@ export const reviewsData: unknown[] = [
               "R$ 8,20"
             ],
             [
-              "Kit 4 × 250 g",
+              "Kit 4 × 250 g ([Prime](https://www.drpeanut.com.br/combo-prime-avela-cookies-leite-em-po-caramelo-salgado-250g/p))",
               "1 kg",
               "R$ 88,03",
               "R$ 8,80",
@@ -142599,7 +142834,15 @@ export const reviewsData: unknown[] = [
               "R$ 7,92"
             ],
             [
-              "Kit 2 × 600 g",
+              "Kit 5 × 250 g ([Infinity](https://www.drpeanut.com.br/combo-infinity-avela-cookies-leite-em-po-caramelo-salgado-doce-de-leite-250g/p))",
+              "1,25 kg",
+              "R$ 109,12",
+              "R$ 8,73",
+              "R$ 98,21",
+              "R$ 7,86"
+            ],
+            [
+              "Kit 2 × 600 g ([Cookies Lovers Duo](https://www.drpeanut.com.br/combo-cookies-lovers-duo/p) ou [Bueníssimo Duo](https://www.drpeanut.com.br/combo-buenissimo-duo/p))",
               "1,2 kg",
               "R$ 110,20",
               "R$ 9,18",
@@ -142607,7 +142850,7 @@ export const reviewsData: unknown[] = [
               "R$ 8,27"
             ],
             [
-              "Kit 3 × 600 g",
+              "Kit 3 × 600 g ([Cookies Lovers Trio](https://www.drpeanut.com.br/combo-cookies-lovers-trio/p) ou [Bueníssimo Trio](https://www.drpeanut.com.br/combo-buenissimo-trio/p))",
               "1,8 kg",
               "R$ 158,11",
               "R$ 8,78",
@@ -142615,70 +142858,79 @@ export const reviewsData: unknown[] = [
               "R$ 7,91"
             ],
             [
-              "Kit 4 × 600 g",
+              "Kit 4 × 600 g ([Cookies Lovers Quarteto](https://www.drpeanut.com.br/combo-cookies-lovers-quarteto/p) ou [Bueníssimo Quarteto](https://www.drpeanut.com.br/combo-buenissimo-quarteto/p))",
               "2,4 kg",
               "R$ 203,63",
               "R$ 8,48",
               "R$ 183,27",
               "R$ 7,64"
-            ],
-            [
-              "Kit 5 × 600 g",
-              "3 kg",
-              "R$ 252,42",
-              "R$ 8,41",
-              "R$ 227,18",
-              "R$ 7,57"
             ]
           ],
-          "caption": "Formatos comparados, custo por 100 g e preço com o cupom de 10%, sem desconto do Pix."
+          "caption": "Preços do site em 22/11, custo por 100 g e preço com o cupom de 10%, sem desconto do Pix."
         },
         "postParagraphs": [
-          "O pote de 250 g estava de R$ 28,90 por R$ 25,89, e o de 600 g, de R$ 64,90 por R$ 59,89. Os preços são do site, sem desconto de Pix."
+          "O pote de 250 g está de R$ 28,90 por R$ 25,89, e o de 600 g, de R$ 64,90 por R$ 59,89. Os preços são do site, sem desconto de Pix. Os kits de 600 g existem só nos sabores Cookies & Cream e Bueníssimo."
         ],
-        "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-tabela-por-100g.webp",
-        "imageAlt": "Tabela com o preço por 100 g de cada formato da Dr. Peanut, sem cupom e com o cupom de 10%, e da assinatura com cupom.",
-        "imageCaption": "Preços do site oficial. Com o cupom, o preço de página cai 10%.",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.933
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-pote-250g.webp",
+            "alt": "Pote de 250 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem",
+            "caption": "Pote de 250 g: R$ 25,89 no site, R$ 10,36 por 100 g.",
+            "objectFit": "contain",
+            "aspectRatio": 0.638,
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver os combos de pasta na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "250 g ou 600 g: a diferença por 100 g",
         "paragraphs": [
           "O pote de 600 g sai por R$ 9,98 por 100 g, e o de 250 g, por R$ 10,36. A diferença é de cerca de 4%, ou R$ 0,38 a cada 100 g. Com cupom, a ordem não muda: R$ 8,98 contra R$ 9,32.",
-          "Pelo sabor, o tamanho também pode limitar a escolha: Banoffee e Beijinho apareciam só no pote de 600 g, e Caramelo Salgado só no de 250 g. Antes de escolher, confira se o sabor aparece no formato que você quer; o [guia de sabores da Dr. Peanut](/reviews/dr-peanut-melhor-sabor) reúne sabores e dados nutricionais."
+          "Pelo sabor, o tamanho também pode limitar a escolha: o Chocolate Branco só existe no pote de 600 g, e o Caramelo Salgado só no de 250 g. Antes de escolher, confira se o sabor aparece no formato que você quer; o [guia de sabores da Dr. Peanut](/reviews/dr-peanut-melhor-sabor) reúne sabores e dados nutricionais."
         ],
-        "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-pote-600g.webp",
-        "imageAlt": "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem",
-        "imageCaption": "Pote de 600 g: R$ 59,89 no site, R$ 9,98 por 100 g.",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.751
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-pote-600g.webp",
+            "alt": "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem",
+            "caption": "Pote de 600 g: R$ 59,89 no site, R$ 9,98 por 100 g.",
+            "objectFit": "contain",
+            "aspectRatio": 0.751,
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p"
+          }
+        ]
       },
       {
         "heading": "Kits: quanto mais potes, menor o preço por 100 g",
         "paragraphs": [
-          "Nos kits de 250 g, o preço por 100 g cai de R$ 9,53 com 2 potes para R$ 9,11 com 3 e R$ 8,80 com 4. Nos de 600 g, cai de R$ 9,18 com 2 para R$ 8,78 com 3, R$ 8,48 com 4 e R$ 8,41 com 5.",
+          "Nos kits de 250 g, o preço por 100 g cai de R$ 9,53 com 2 potes para R$ 9,11 com 3, R$ 8,80 com 4 e R$ 8,73 com 5. Nos de 600 g, cai de R$ 9,18 com 2 para R$ 8,78 com 3 e R$ 8,48 com 4.",
           "O kit de 2 × 250 g já sai R$ 0,83 mais barato por 100 g que o pote avulso de 250 g. O kit de 2 × 600 g sai R$ 0,80 abaixo do pote avulso de 600 g. O kit de 3 × 250 g (R$ 9,11) fica abaixo do kit de 2 × 600 g (R$ 9,18), mesmo com potes menores.",
-          "Com cupom, o kit de 5 × 600 g cai para R$ 7,57 por 100 g, o menor preço da tabela."
+          "Com cupom, o kit de 4 × 600 g cai para R$ 7,64 por 100 g, o menor preço de kit da tabela."
         ]
       },
       {
         "heading": "800 g e 1 kg: o que a loja vende",
         "paragraphs": [
-          "Na loja, não havia pote de 800 g nem de 1 kg. Quem busca 1 kg encontra o kit de 4 × 250 g, que soma 1 kg, sai por R$ 88,03 (R$ 79,23 com cupom) e fica em R$ 8,80 por 100 g. Na assinatura, 4 pastas de 250 g com o cupom saem por R$ 77,67, R$ 7,77 por 100 g (ver o capítulo da assinatura). Os kits de 600 g somam 1,2 kg, 1,8 kg, 2,4 kg e 3 kg."
+          "A loja não tem pote de 800 g nem de 1 kg. Quem busca 1 kg encontra o kit de 4 × 250 g, que soma 1 kg, sai por R$ 88,03 (R$ 79,23 com cupom) e fica em R$ 8,80 por 100 g. Na assinatura, 4 pastas de 250 g com o cupom saem por R$ 72,49, R$ 7,25 por 100 g (ver o capítulo da assinatura). Os kits de 600 g somam 1,2 kg, 1,8 kg e 2,4 kg."
         ]
       },
       {
         "heading": "Frete grátis: onde o kit compensa",
         "paragraphs": [
           "O frete é grátis quando o valor do carrinho, depois do cupom, chega a R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e a R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Vale para a entrega mais barata. Abaixo desse valor, a loja cobra o frete.",
-          "O mínimo conta o valor depois do cupom, então o desconto pode tirar o frete grátis de quem passa por pouco. Sem o cupom, o kit de 3 × 600 g (R$ 158,11) passa o limite do Sudeste e do Sul; com ele, cai para R$ 142,30 e fica abaixo. O kit de 4 × 600 g (R$ 183,27 com o cupom) passa o limite do Sudeste e do Sul, mas não o das outras regiões. O de 5 × 600 g (R$ 227,18 com o cupom) passa o limite em todas as regiões."
+          "O mínimo conta o valor depois do cupom, então o desconto pode tirar o frete grátis de quem passa por pouco. Sem o cupom, o [kit de 3 × 600 g](https://www.drpeanut.com.br/combo-cookies-lovers-trio/p) (R$ 158,11) passa o limite do Sudeste e do Sul; com ele, cai para R$ 142,30 e fica abaixo. O [kit de 4 × 600 g](https://www.drpeanut.com.br/combo-cookies-lovers-quarteto/p) (R$ 183,27 com o cupom) passa o limite do Sudeste e do Sul, mas não o das outras regiões."
         ]
       },
       {
         "heading": "Assinatura: com o cupom, o menor preço nos potes de 250 g",
         "paragraphs": [
-          "A assinatura (\"Monte sua assinatura\") só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral. O desconto sobe com a quantidade: 4% com 1 pasta, 8% com 2, 12% com 3, e 15% com 4 ou mais. Sem cupom, o total é R$ 24,85 com 1 pasta, R$ 47,64 com 2, R$ 68,35 com 3 e R$ 88,03 com 4, os mesmos valores dos kits de 250 g.",
+          "A [assinatura](https://www.drpeanut.com.br/assinaturapro) (\"Monte sua assinatura\") só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral. O desconto sobe com a quantidade: 4% com 1 pasta, 8% com 2, 12% com 3 e 20% com 4 ou mais. Sem cupom, o total é R$ 24,85 com 1 pasta, R$ 47,64 com 2 e R$ 68,35 com 3, os mesmos valores dos kits de 250 g, e R$ 82,85 com 4, abaixo dos R$ 88,03 do kit de 4 × 250 g. A campanha Doctor November anuncia a assinatura com até 20% OFF.",
           "O cupom DREMCASACOMCECILIA entra na assinatura e soma com o desconto progressivo. Os 10% saem sobre o subtotal, não sobre o valor já descontado. Com 3 pastas a R$ 25,89, o subtotal é R$ 77,67, o desconto de 12% tira R$ 9,32, o cupom tira R$ 7,77 e o total fica em R$ 60,58, ou R$ 20,19 por pasta e R$ 8,08 por 100 g."
         ],
         "comparisonTable": {
@@ -142710,56 +142962,70 @@ export const reviewsData: unknown[] = [
             [
               "4 ou mais",
               "1 kg ou mais",
-              "R$ 77,67 com 4 (R$ 19,42 por pasta)",
-              "R$ 7,77"
+              "R$ 72,49 com 4 (R$ 18,12 por pasta)",
+              "R$ 7,25"
             ]
           ],
-          "caption": "Assinatura com cupom de 10%, sobre o subtotal e com o desconto progressivo de cada quantidade."
+          "caption": "Assinatura com cupom de 10%, sobre o subtotal e com o desconto progressivo de cada quantidade (conta nossa)."
         },
         "postParagraphs": [
-          "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom nas quantidades comparadas: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo. Confira na contratação o valor e as condições das próximas cobranças.",
+          "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom nas quantidades comparadas: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 72,49 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 6,74 a menos por ciclo. A partir de 4 pastas, R$ 7,25 por 100 g fica abaixo até do kit de 4 × 600 g com cupom (R$ 7,64). Confira na contratação o valor e as condições das próximas cobranças.",
           "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. O mínimo conta o valor depois do cupom. Na assinatura, o aviso do carrinho mostra quando o pedido chega lá."
+        ],
+        "links": [
+          {
+            "label": "Ver a assinatura na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/assinaturapro",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Comprou, Ganhou: o brinde não baixa o preço",
         "paragraphs": [
-          "A loja tem combos com brinde de alfajor ou de wafer. Um deles é 1 pote de 600 g com 3 alfajores de brinde, por R$ 59,89, o mesmo preço do pote avulso. Outro é 1 pote de 250 g com 1 alfajor, por R$ 25,89, também o preço do pote avulso.",
+          "A loja tem combos Comprou, Ganhou, com brinde de alfajor. Um deles é 1 pote de 600 g com 3 alfajores de brinde, por R$ 59,89, o mesmo preço do pote avulso. Outro é 1 pote de 250 g com 1 alfajor, por R$ 25,89, também o preço do pote avulso.",
           "O alfajor tem preço de catálogo de R$ 12,99, ou R$ 38,97 os três. O brinde não baixa o preço do pote: a conta por 100 g vale só para a pasta.",
           "O cupom pode não valer sobre o combo ou sobre o brinde: confira o desconto no carrinho antes de fechar."
         ]
       },
       {
         "heading": "Qual tamanho compensa",
-        "emphasis": "Pelos preços da tabela, o kit de 5 × 600 g tem o menor custo por 100 g. Confira se os 3 kg cabem no consumo e na validade das embalagens; depois compare o total com frete.",
-        "emphasisAfterParagraph": 5,
+        "emphasis": "Pelos preços da tabela, a assinatura de 4 pastas de 250 g com o cupom tem o menor custo por 100 g, R$ 7,25, e entre os kits avulsos o de 4 × 600 g, com R$ 7,64.",
         "paragraphs": [
-          "Na tabela, o kit de 5 × 600 g sai a R$ 8,41 por 100 g sem cupom e R$ 7,57 com o código, e o total passa do mínimo de frete grátis em todas as regiões mesmo com o cupom. Esse resultado favorece o kit se você pretende consumir os 3 kg dentro da validade das embalagens.",
+          "Entre os kits avulsos, o de 4 × 600 g sai a R$ 8,48 por 100 g sem cupom e R$ 7,64 com o código, e o total passa do mínimo de frete grátis no Sudeste e no Sul mesmo com o cupom, mas não nas outras regiões. Esse resultado favorece o kit se você pretende consumir os 2,4 kg dentro da validade das embalagens.",
           "Para levar um único pote, o de 600 g custa menos por 100 g que o de 250 g: R$ 9,98 sem cupom ou R$ 8,98 com o código, antes do frete.",
           "Para testar a pasta, leve 2 × 250 g em vez do pote avulso de 250 g: sai R$ 9,53 por 100 g, 8% abaixo do avulso. O pote de 250 g sozinho só faz sentido se você quer um pote só.",
-          "Para quem busca 1 kg, ou quer potes de 250 g todo mês, a assinatura com o cupom: 4 pastas saem por R$ 77,67, R$ 7,77 por 100 g, abaixo do kit de 4 × 250 g com cupom (R$ 79,23). Sem assinatura, o kit de 4 × 250 g.",
-          "O que pesa na escolha é a conta por 100 g e o frete. O sabor de cada tamanho está no artigo sobre o melhor sabor."
+          "Para quem busca 1 kg, ou quer potes de 250 g todo mês, a assinatura com o cupom: 4 pastas saem por R$ 72,49, R$ 7,25 por 100 g, abaixo do kit de 4 × 250 g com cupom (R$ 79,23). Sem assinatura, o kit de 4 × 250 g.",
+          "O que pesa na escolha é a conta por 100 g e o frete. O sabor de cada tamanho está no [artigo sobre o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
+        ],
+        "links": [
+          {
+            "label": "Ir para a Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, em todas as formas de pagamento, para cliente novo e antigo. Cole no campo \"Código\" do carrinho e clique em \"Adicionar\"; as regras estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
           "O cupom vale no pote avulso? Sim. O cupom dá 10% em todo o site e entra em todos os itens do carrinho, inclusive nos que já estão em promoção.",
-          "O Pix entra na conta? Não há soma confirmada com o Pix, e os preços deste artigo não incluem desconto de Pix.",
-          "A Dr. Peanut tem pote de 1 kg? Na loja, não havia pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg, ou 4 pastas de 250 g na assinatura; confira o catálogo antes de escolher.",
+          "O Pix entra na conta? O cupom soma com os 3% do Pix no checkout, sobre o valor já com cupom. Os preços deste artigo não abatem esses 3%.",
+          "A Dr. Peanut tem pote de 1 kg? A loja não tem pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg, ou 4 pastas de 250 g na assinatura; confira o catálogo antes de escolher.",
           "O cupom entra na assinatura? Sim. Com 3 pastas no carrinho, o DREMCASACOMCECILIA somou com o desconto progressivo, com os 10% calculados sobre o subtotal. Confira na contratação as condições do código e das renovações."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Considere o kit de 5 × 600 g se pretende consumir os 3 kg dentro da validade e o total com frete compensar: ele tem o menor preço por 100 g entre os formatos comparados.",
+        "Considere o kit de 4 × 600 g se pretende consumir os 2,4 kg dentro da validade e o total com frete compensar: ele tem o menor preço por 100 g entre os kits avulsos.",
         "Leve a assinatura com cupom se você quer potes de 250 g todo mês: ela sai abaixo do kit de 250 g com cupom.",
         "Considere o pote de 600 g se quer um único pote e pretende consumir essa quantidade; confira o total com frete."
       ],
       "skipIf": [
         "Passe no pote avulso de 250 g se você quer mais de um pote: é o mais caro por grama.",
-        "Você precisa de uma única embalagem de 800 g ou 1 kg: a loja não tinha, e o equivalente é o kit de potes menores ou a assinatura."
+        "Você precisa de uma única embalagem de 800 g ou 1 kg: a loja não tem, e o equivalente é o kit de potes menores ou a assinatura."
       ]
     },
     "pros": [],
@@ -160952,7 +161218,7 @@ export const reviewsData: unknown[] = [
     "description": "A Integralmédica sai mais barata na creatina e no whey de 1,8 kg; no refil de 900 g, o PRO10EMCASACOMCECILIA (até 10%) pode inverter a conta. Veja rótulos, preços e qual escolher.",
     "metaDescription": "Probiótica ou Integralmédica, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina pelo rótulo e pelo preço por 100 g.",
     "publishedAt": "28 de outubro de 2026",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "publishedAtISO": "2026-10-28",
     "draft": false,
     "isNew": false,
@@ -160964,22 +161230,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na creatina, a Integralmédica sai mais barata nos tamanhos comparados. No whey de 1,8 kg, o pouch da Integralmédica tem o menor preço por proteína. No par de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA no teto de 10% fica abaixo do pouch da Integralmédica; sem ele, a Integralmédica vence."
-        ]
-      },
-      {
-        "heading": "Como comparamos",
-        "paragraphs": [
-          "Este guia compara whey e creatina da Probiótica, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: a tabela nutricional da ficha, o texto da página e o preço do site em 28/10/2026, sem frete, sem desconto de Pix e sem cupom.",
-          "Entram os tamanhos que mais se parecem entre as duas, o mesmo critério de [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica): whey de 900 g e de 1,8 kg e creatina de 300 g, com o pouch de 1 kg da Integralmédica, o mais barato dela por grama. Os isolados ficam de fora: o Iso Pro Whey de 900 g da Probiótica custava R$ 346,28 e o Whey Protein Isolado de 900 g da Integralmédica, R$ 483,00. As linhas com Creapure no nome também ficam de fora.",
-          "Dose, número de porções e proteína por porção só entram com o número da tabela nutricional de cada ficha. Na Probiótica, a tabela é a do sabor Baunilha; na Integralmédica, a da página de cada produto. Sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
-          "A série compara a Probiótica com uma marca por vez: [Probiótica ou Growth](/reviews/probiotica-ou-growth), [Probiótica ou Dux](/reviews/probiotica-ou-dux) e [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica) seguem o mesmo método."
+          "Na creatina, a Integralmédica sai mais barata nos tamanhos comparados. No whey de 1,8 kg, o pouch da Integralmédica tem o menor preço por proteína. No par de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA no teto de até 10% OFF fica abaixo do pouch da Integralmédica; sem ele, a Integralmédica vence."
         ]
       },
       {
         "heading": "De onde vem cada marca",
         "paragraphs": [
-          "A Probiótica é uma marca do Grupo Supley, o mesmo da Max Titanium e da Dr. Peanut. A loja oficial é a probiotica.com.br. Quem fabrica, as trocas e a reputação da loja estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
+          "A Probiótica é uma marca do Grupo Supley, o mesmo da Max Titanium e da Dr. Peanut. A loja oficial é a probiotica.com.br.",
           "O rodapé do site da Integralmédica diz que a loja é operada pela After Click, CNPJ 58.450.630/0001-48, de Extrema (MG). A BrasilAPI registra a razão social AFTERCLICK SERVICOS INTEGRADOS LTDA como ativa, aberta em 2024. O \"Sobre nós\" da Integralmédica diz que a marca tem mais de 40 anos de história e que o Grupo BRG reúne a Integralmédica, a Darkness e a Nutrify. A Probiótica não está entre elas.",
           "Nas fontes oficiais, são empresas diferentes: a Probiótica não é da Integralmédica, e a Integralmédica não é da Probiótica."
         ]
@@ -160987,7 +161244,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g de produto",
         "paragraphs": [
-          "Por 100 g, a Integralmédica sai mais barata nos três tamanhos: R$ 16,67, R$ 16,60 e R$ 12,50, contra R$ 19,97 da Probiótica de 300 g. \"100% Pura\" é o nome do produto da Integralmédica, e \"Pura\" é parte do nome do produto da Probiótica: nenhum dos dois é selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, sem desconto de Pix. A Probiótica de 300 g aparecia com preço riscado de R$ 75,10, e o pouch de 1 kg da Integralmédica, de R$ 156,00."
+          "Entram os tamanhos que mais se parecem entre as duas, o mesmo critério de [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica): creatina de 300 g, com o pouch de 1 kg da Integralmédica, o mais barato dela por grama. As linhas com Creapure no nome ficam de fora. Por 100 g, a Integralmédica sai mais barata nos três tamanhos: R$ 16,67, R$ 16,60 e R$ 12,50, contra R$ 19,97 da Probiótica de 300 g. \"100% Pura\" é o nome do produto da Integralmédica, e \"Pura\" é parte do nome do produto da Probiótica: nenhum dos dois é selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, sem desconto de Pix. A Probiótica de 300 g aparecia com preço riscado de R$ 75,10, e o pouch de 1 kg da Integralmédica, de R$ 156,00."
         ],
         "images": [
           {
@@ -160995,7 +161252,8 @@ export const reviewsData: unknown[] = [
             "alt": "Pote da Creatina Monohidratada Pura de 300 g da Probiótica, de frente.",
             "caption": "Creatina Monohidratada Pura 300 g, a linha da Probiótica na conta por 100 g. Imagem: Probiótica",
             "objectFit": "contain",
-            "aspectRatio": 0.899
+            "aspectRatio": 0.899,
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
           }
         ],
         "comparisonTable": {
@@ -161036,17 +161294,25 @@ export const reviewsData: unknown[] = [
               "R$ 125,00",
               "R$ 12,50"
             ]
-          ]
+          ],
+          "caption": "Preços do site em 28/10/2026, no cartão, sem frete, sem desconto de Pix e sem cupom. Dose e porções vêm da tabela nutricional de cada ficha."
         },
         "postParagraphs": [
           "No teto de 10% do PRO10EMCASACOMCECILIA, a Probiótica de 300 g ficaria em R$ 17,97 por 100 g, e a de 100 g, em R$ 30,50. Nos preços da tabela, as duas seguem acima das opções da Integralmédica indicadas. O código vale só na Probiótica.",
           "Por dose de 5 g, nas linhas com tabela nutricional, a Probiótica de 300 g fica em R$ 1,00 no cartão (60 porções) e em R$ 0,90 com o cupom no teto; o pouch de 1 kg da Integralmédica fica em R$ 0,63."
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina 300 g na Probiótica",
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "A conta é o preço dividido pela proteína total da embalagem: a proteína de cada porção vezes o número de porções da tabela nutricional. Na Probiótica, o número é o da tabela do sabor Baunilha do 100% Pure Whey: 20 g de proteína em cada porção de 30 g, 30 porções no pote e no refil de 900 g. A frente do pote traz \"21 g de proteína\" e a página diz \"de 20 g a 24 g de proteína por porção\", porque o número varia por sabor; a conta usa a tabela. O kit de 1,8 kg da Probiótica são dois refis de 900 g, na combinação Baunilha + Baunilha. Na Integralmédica, os pouches de 900 g e de 1,8 kg trazem 21 g em cada porção de 30 g, com 30 e 60 porções. Os preços eram os mesmos em todos os sabores de cada linha da Probiótica; na Integralmédica, o texto usa o preço do sabor aberto por padrão na página."
+          "Entram os whey de 900 g e de 1,8 kg. Os isolados ficam de fora: o [Iso Pro Whey de 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica custava R$ 346,28 e o Whey Protein Isolado de 900 g da Integralmédica, R$ 483,00. A conta é o preço dividido pela proteína total da embalagem: a proteína de cada porção vezes o número de porções da tabela nutricional. Na Probiótica, o número é o da tabela do sabor Baunilha do 100% Pure Whey: 20 g de proteína em cada porção de 30 g, 30 porções no pote e no refil de 900 g. A frente do pote traz \"21 g de proteína\" e a página diz \"de 20 g a 24 g de proteína por porção\", porque o número varia por sabor; a conta usa a tabela. O kit de 1,8 kg da Probiótica são dois refis de 900 g, na combinação Baunilha + Baunilha. Na Integralmédica, os pouches de 900 g e de 1,8 kg trazem 21 g em cada porção de 30 g, com 30 e 60 porções. Os preços eram os mesmos em todos os sabores de cada linha da Probiótica; na Integralmédica, o texto usa o preço do sabor aberto por padrão na página."
         ],
         "images": [
           {
@@ -161054,7 +161320,8 @@ export const reviewsData: unknown[] = [
             "alt": "Pote do 100% Pure Whey de 900 g da Probiótica, sabor Baunilha, de frente.",
             "caption": "100% Pure Whey 900 g, Baunilha: o sabor da tabela nutricional usada na conta. Imagem: Probiótica",
             "objectFit": "contain",
-            "aspectRatio": 0.595
+            "aspectRatio": 0.595,
+            "href": "https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
           }
         ],
         "comparisonTable": {
@@ -161101,7 +161368,8 @@ export const reviewsData: unknown[] = [
               "R$ 404,00",
               "R$ 32,06"
             ]
-          ]
+          ],
+          "caption": "Preços da mesma leitura, no cartão, sem cupom e sem Pix. Conta nossa: preço ÷ (proteína por porção × porções) × 100."
         },
         "postParagraphs": [
           "Com o cupom no teto de 10%, sem frete, o pote da Probiótica ficaria em R$ 37,87 por 100 g de proteína, e o refil e o kit, em R$ 35,35. No par de 900 g, o refil fica abaixo do pouch da Integralmédica, de R$ 36,03. Em 1,8 kg, a Integralmédica segue abaixo, a R$ 32,06. O desconto pode ser menor conforme o item; confirme o valor no carrinho.",
@@ -161111,8 +161379,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o rótulo diz",
         "paragraphs": [
-          "A Creatina Monohidratada Pura de 300 g da Probiótica traz, na tabela nutricional, porção de 5 g (1 dosador), 5.000 mg de creatina e 60 porções por embalagem; a página diz que não contém lactose. O selo \"3.000 mg de creatina por dose\" que aparece na mesma página não bate com a tabela, e a conta usa a tabela. Na Integralmédica, a 100% Pura de 1 kg traz porção de 5 g (5.000 mg), creatina monohidratada e não contém glúten, diz o site. O pouch da Hardcore traz a mesma porção de 5 g e pode conter leite, soja e ovo, segundo o rótulo do pouch.",
-          "No whey, a tabela do 100% Pure Whey Baunilha da Probiótica traz 20 g de proteína, 6,3 g de carboidratos e 2,1 g de gorduras totais em cada porção de 30 g, 124 kcal. Os pouches da Integralmédica trazem 21 g de proteína em cada porção de 30 g. A lista de ingredientes do pouch de 1,8 kg da Integralmédica cita proteína de soro do leite concentrada, aromatizante e edulcorante sucralose. Confira os edulcorantes na embalagem."
+          "A [Creatina Monohidratada Pura de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica traz, na tabela nutricional, porção de 5 g (1 dosador), 5.000 mg de creatina e 60 porções por embalagem; a página diz que não contém lactose. O selo \"3.000 mg de creatina por dose\" que aparece na mesma página não bate com a tabela, e a conta usa a tabela. Na Integralmédica, a 100% Pura de 1 kg traz porção de 5 g (5.000 mg), creatina monohidratada e não contém glúten, diz o site. O pouch da Hardcore traz a mesma porção de 5 g e pode conter leite, soja e ovo, segundo o rótulo do pouch.",
+          "No whey, a tabela do [100% Pure Whey Baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) da Probiótica traz 20 g de proteína, 6,3 g de carboidratos e 2,1 g de gorduras totais em cada porção de 30 g, 124 kcal. Os pouches da Integralmédica trazem 21 g de proteína em cada porção de 30 g. A lista de ingredientes do pouch de 1,8 kg da Integralmédica cita proteína de soro do leite concentrada, aromatizante e edulcorante sucralose. Confira os edulcorantes na embalagem."
         ],
         "images": [
           {
@@ -161134,12 +161402,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom e onde comprar",
         "paragraphs": [
-          "Cupom: PRO10EMCASACOMCECILIA, o cupom da Probiótica. Dá até 10%, e o desconto pode ser menor em alguns produtos; vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções do site. Este texto não traz cupom da Integralmédica. As regras e o passo a passo ficam na [página do cupom](/cupons/probiotica) e em [Cupom Probiótica: como usar](/reviews/cupom-probiotica-como-usar). A loja oficial é a [Probiótica](https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), com link comissionado."
+          "O PRO10EMCASACOMCECILIA é o cupom da Probiótica e dá até 10% OFF, com desconto menor em alguns produtos. Cole o código no campo \"Cupom de Desconto\" do carrinho, clique em \"Adicionar\" e confira a linha \"Descontos\". Vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções do site e com o desconto do Pix. Nos testes de novembro, o desconto foi de 2% nos wheys e nas creatinas e de 7% no [Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e no [Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) em oferta, por isso as contas com cupom acima são o teto. Este texto não traz cupom da Integralmédica. As regras e o passo a passo ficam na [página do cupom](/cupons/probiotica) e em [Cupom Probiótica: como usar](/reviews/cupom-probiotica-como-usar). A loja oficial é a [Probiótica](https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), com link comissionado."
         ]
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Compare primeiro a quantidade que você precisa. A Integralmédica tem o menor custo por peso nas opções maiores da tabela; no whey de 900 g, o refil da Probiótica pode compensar com o cupom no teto. Confira no carrinho o desconto que de fato aparece.",
+        "emphasis": "Pelos números das tabelas, a Integralmédica vence a creatina e o whey de 1,8 kg pelo preço por grama; só no refil de 900 g a Probiótica passa à frente, e apenas com o cupom no teto.",
         "paragraphs": [
           "**Creatina: a Integralmédica, pelo preço.** O pouch de 1 kg sai por R$ 12,50 por 100 g no cartão, e a de 300 g, por R$ 16,67. A Probiótica de 300 g fica em R$ 19,97 no cartão e em R$ 17,97 com o PRO10EMCASACOMCECILIA no teto: acima da Integralmédica nos dois tamanhos.",
           "**Whey: depende do tamanho e do cupom.**"
@@ -161150,13 +161418,23 @@ export const reviewsData: unknown[] = [
           "O pote de 900 g da Probiótica é o maior valor da tabela: R$ 42,08 por 100 g de proteína no cartão, ou R$ 37,87 com o cupom."
         ],
         "postParagraphs": [
-          "Quem compra pelo preço por grama vai de Integralmédica na creatina e no whey de 1,8 kg. Na Probiótica, o refil de 900 g com o cupom no teto fica abaixo do pouch de 900 g da Integralmédica; se o desconto no item for menor que 10%, a Integralmédica volta a ganhar. Confira preço, desconto aplicado e frete antes de comprar."
+          "Quem compra pelo preço por grama vai de Integralmédica na creatina e no whey de 1,8 kg. Na Probiótica, o refil de 900 g com o cupom no teto fica abaixo do pouch de 900 g da Integralmédica; se o desconto no item for menor que 10%, a Integralmédica volta a ganhar. Confira preço, desconto aplicado e frete antes de comprar.",
+          "A série compara a Probiótica com uma marca por vez: [Probiótica ou Growth](/reviews/probiotica-ou-growth), [Probiótica ou Dux](/reviews/probiotica-ou-dux) e [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica) seguem o mesmo método.",
+          "Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
+        ],
+        "links": [
+          {
+            "label": "Ver o 100% Pure Whey refil na Probiótica",
+            "href": "https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Probiótica ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína, o pouch de 1,8 kg da Integralmédica, a R$ 32,06 no cartão. No tamanho de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA no teto sai por R$ 35,35, abaixo dos R$ 36,03 do pouch de 900 g da Integralmédica.",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; as regras estão na página do [cupom Probiótica](/cupons/probiotica).",
           "Creatina Probiótica ou Integralmédica, qual compensa? Pelo preço por 100 g de produto, a Integralmédica. O pouch de 1 kg sai por R$ 12,50 e a de 300 g por R$ 16,67; a Probiótica de 300 g sai por R$ 19,97 no cartão, ou R$ 17,97 com o cupom no teto.",
           "A Probiótica é da Integralmédica? Não. Nas fontes oficiais, são empresas diferentes: a Probiótica é do Grupo Supley, e o site da Integralmédica lista as marcas do Grupo BRG, sem a Probiótica entre elas.",
           "Quantos gramas de proteína tem o whey da Probiótica? A tabela nutricional do 100% Pure Whey Baunilha de 900 g traz 20 g de proteína em cada porção de 30 g. A página diz que o número varia de 20 g a 24 g por porção, conforme o sabor.",
@@ -161182,7 +161460,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe o pote de 900 g da Probiótica se o preço por grama pesa mais: é o maior valor da tabela.",
-        "Passe esta comparação se procura whey isolado: os isolados ficaram de fora."
+        "Passe o refil da Probiótica se o desconto do carrinho ficar abaixo de 10%: a Integralmédica volta a sair mais barata."
       ]
     },
     "relatedArticles": [
@@ -161199,7 +161477,7 @@ export const reviewsData: unknown[] = [
         "slug": "black-skull-ou-integralmedica"
       },
       {
-        "slug": "probiotica-e-confiavel"
+        "slug": "whey-probiotica-qual-escolher"
       }
     ]
   },
@@ -161208,7 +161486,7 @@ export const reviewsData: unknown[] = [
     "slug": "creatina-probiotica-qual-compensa",
     "locale": "pt",
     "title": "Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo",
-    "seoTitle": "Creatina Probiótica: qual versão compensa",
+    "seoTitle": "Creatina Probiótica: qual versão compensa por grama",
     "type": "Guia de Compra",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -161223,7 +161501,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Creatina de 300 g, 100 g, Creapure e monodose: qual compensa pelo preço por 100 g e por dose.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa-v2.webp",
@@ -161238,16 +161516,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como a conta foi feita",
-        "paragraphs": [
-          "A Probiótica vende a creatina em quatro versões de 5 g por porção: pote de 300 g, pote de 100 g, Creapure de 150 g e monodose de 30 sachês, além da Pure Creatina da linha Monster, com porção de 3 g. O preço do pote sozinho engana, porque cada um tem um peso e um número de porções diferente. Por isso a conta é por 100 g de produto e por dose, com o número de porções que a tabela nutricional de cada versão declara.",
-          "A conta lê a ficha, a foto do rótulo e o preço do dia, sem cupom e no cartão. A dose, o número de porções e o selo Creapure saem da imagem do rótulo publicada na página de cada produto, não do texto de venda: na página do pote de 300 g, por exemplo, há um selo de \"3.000 mg de creatina por dose\" e um texto de \"5.000 mg por porção\", e quem resolve é a tabela."
-        ]
-      },
-      {
         "heading": "Preço por 100 g e por dose de 5 g",
         "paragraphs": [
-          "Preços de 28/10/2026 no site da Probiótica, no cartão e sem cupom. As doses vêm da tabela nutricional de cada versão."
+          "A Probiótica vende a creatina em quatro versões de 5 g por porção: [pote de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), [pote de 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), [Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e [monodose de 30 sachês](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), além da [Pure Creatina da linha Monster](https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), com porção de 3 g. O preço do pote sozinho engana, porque cada versão tem peso e número de porções diferentes: por isso a conta é por 100 g de produto e por dose, com as porções da tabela nutricional de cada versão. Na página do pote de 300 g, por exemplo, há um selo de \"3.000 mg de creatina por dose\" e um texto de \"5.000 mg por porção\", e quem resolve é a tabela.",
+          "Preços de 28/10/2026 no site da Probiótica, no cartão e sem cupom."
         ],
         "comparisonTable": {
           "headers": [
@@ -161301,7 +161573,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pote de 300 g: a que mais compensa",
         "paragraphs": [
-          "O pote de 300 g é o que mais compensa: R$ 59,90. A tabela do rótulo declara 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção, sem quantidade significativa de calorias, carboidratos, proteínas, gorduras e sódio. Dá R$ 19,97 por 100 g e R$ 1,00 por dose.",
+          "O [pote de 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) é o que mais compensa: R$ 59,90. A tabela do rótulo declara 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção, sem quantidade significativa de calorias, carboidratos, proteínas, gorduras e sódio. Dá R$ 19,97 por 100 g e R$ 1,00 por dose.",
           "A página do produto traz um selo de \"3.000 mg de creatina por dose\" ao lado do texto de \"5.000 mg por porção\". A tabela do rótulo diz 5.000 mg por porção de 5 g, e é o número que a conta usa."
         ],
         "images": [
@@ -161310,7 +161582,8 @@ export const reviewsData: unknown[] = [
             "alt": "Pote azul de 300 g da Creatina Monohidratada da Probiótica, de frente",
             "caption": "Creatina Monohidratada Pura 300 g. Imagem: Probiótica.",
             "objectFit": "contain",
-            "aspectRatio": 0.899
+            "aspectRatio": 0.899,
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
           },
           {
             "src": "/images/reviews/probiotica/probiotica-ou-growth-tabela-creatina-300g.webp",
@@ -161319,12 +161592,19 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.0038
           }
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina 300 g na Probiótica",
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Pote de 100 g: para experimentar",
         "paragraphs": [
-          "O pote de 100 g serve para experimentar: R$ 33,89 pela mesma tabela do grande, em 20 porções de 5 g. A página traz o mesmo selo de 3.000 mg e o mesmo texto de 5.000 mg do pote de 300 g, e a tabela resolve da mesma forma.",
+          "O [pote de 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) serve para experimentar: R$ 33,89 pela mesma tabela do grande, em 20 porções de 5 g. A página traz o mesmo selo de 3.000 mg e o mesmo texto de 5.000 mg do pote de 300 g, e a tabela resolve da mesma forma.",
           "Por 100 g, o pote pequeno custa R$ 33,89, 70% a mais que o de 300 g. Por dose, R$ 1,69 contra R$ 1,00. Vinte porções duram 20 dias com uma porção ao dia, que é a sugestão de uso da ficha. Compensa só para quem quer conhecer o produto antes de levar o pote grande; três potes de 100 g custam R$ 101,67, contra R$ 59,90 do pote de 300 g."
         ],
         "images": [
@@ -161340,7 +161620,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creapure de 150 g: o selo no rótulo e o preço por grama",
         "paragraphs": [
-          "A Creatina Creapure Monohidratada de 150 g custa R$ 99,89, sem promoção na página. A tabela diz 30 porções de 5 g, com 5.000 mg de creatina por porção, a mesma composição por dose dos potes de 300 g e de 100 g. O rótulo traz o selo Creapure na frente, com o código 18SP11, e o verso diz que a creatina vem \"da exclusiva tecnologia alemã Creapure\", com o modo de preparo de 5 g (1 dosador) em água ou na bebida preferida, uma porção ao dia.",
+          "A [Creatina Creapure Monohidratada de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) custa R$ 99,89, sem promoção na página. A tabela diz 30 porções de 5 g, com 5.000 mg de creatina por porção, a mesma composição por dose dos potes de 300 g e de 100 g. O rótulo traz o selo Creapure na frente, com o código 18SP11, e o verso diz que a creatina vem \"da exclusiva tecnologia alemã Creapure\", com o modo de preparo de 5 g (1 dosador) em água ou na bebida preferida, uma porção ao dia.",
           "Creapure é a marca da matéria-prima, que o rótulo chama de \"tecnologia alemã\"; o produto é fabricado pela Supley em Matão (SP), como diz o verso do pote. É isso que o selo declara: na tabela, a composição por porção é a mesma do pote comum.",
           "Na conta, o selo custa caro: R$ 66,59 por 100 g e R$ 3,33 por dose, mais que o triplo do pote de 300 g. Trinta porções de 5 g custam R$ 99,89 na Creapure; no pote de 300 g, as mesmas 30 porções saem por R$ 29,95. Quem quer o selo Creapure no rótulo paga essa diferença; quem quer creatina monohidratada com 5.000 mg por porção tem o mesmo número no pote comum."
         ],
@@ -161350,7 +161630,8 @@ export const reviewsData: unknown[] = [
             "alt": "Pote branco e azul da Creatina Creapure de 150 g da Probiótica, com o selo Creapure na frente",
             "caption": "Creatina Creapure Monohidratada 150 g, com o selo Creapure no rótulo. Imagem: Probiótica.",
             "objectFit": "contain",
-            "aspectRatio": 0.885
+            "aspectRatio": 0.885,
+            "href": "https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
           },
           {
             "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-creapure-150g.webp",
@@ -161359,18 +161640,44 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 2.5714
           }
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina Creapure 150 g na Probiótica",
+            "href": "https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Monodose: 30 sachês de 5 g",
         "paragraphs": [
-          "A Creatina Monohidratada Monodose custa R$ 69,89 e traz 30 sachês de 5 g, com 5.000 mg de creatina por sachê, segundo a tabela impressa na caixa. São 150 g de produto a R$ 46,59 por 100 g e R$ 2,33 por dose: mais que o dobro do pote de 300 g pela mesma creatina, pagando pela embalagem individual. Se o sachê compensa para você, e quando, está no [guia da monodose da Probiótica](/reviews/monodose-probiotica-sache-ou-pote)."
+          "A [Creatina Monohidratada Monodose](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) custa R$ 69,89 e traz 30 sachês de 5 g, com 5.000 mg de creatina por sachê, segundo a tabela impressa na caixa. São 150 g de produto a R$ 46,59 por 100 g e R$ 2,33 por dose: mais que o dobro do pote de 300 g pela mesma creatina, pagando pela embalagem individual.",
+          "As mesmas 30 doses do pote de 300 g custam R$ 29,95, contra R$ 69,89 da caixa de sachês: são R$ 39,94 a mais por caixa, ou R$ 1,33 por dose. Dois potes de 100 g, com 40 porções ao todo, custam R$ 67,78, menos que a caixa de 30 sachês.",
+          "O sachê serve a quem leva a dose já separada na bolsa ou viaja; para o uso diário em casa, o pote de 300 g entrega a mesma creatina por menos da metade do preço. A conta completa está no [guia da monodose da Probiótica](/reviews/monodose-probiotica-sache-ou-pote)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+            "alt": "Caixa da Creatina Monodose da Probiótica aberta, com os 30 sachês de 5 g e um sachê à frente",
+            "caption": "Creatina Monodose, 30 sachês de 5 g. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0135,
+            "href": "https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina Monodose na Probiótica",
+            "href": "https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Pure Creatina Monster: porção de 3 g",
         "paragraphs": [
-          "A Pure Creatina de 150 g, da linha Monster da Probiótica, custa R$ 99,89 (de R$ 133,20 de tabela), o mesmo preço da Creapure de 150 g, e traz o selo Creapure 18SP11 no rótulo. A tabela, porém, diz 50 porções de 3 g, com 3.000 mg de creatina cada: a mesma creatina da Creapure comum, dividida em porções menores. Por 100 g, custa os mesmos R$ 66,59; por porção, R$ 2,00, mas a porção tem 3 g, não 5 g. É a mesma matéria-prima da Creapure de 150 g em outra embalagem, e a escolha entre as duas é de porção e de visual."
+          "A [Pure Creatina de 150 g](https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), da linha Monster da Probiótica, custa R$ 99,89 (de R$ 133,20 de tabela), o mesmo preço da Creapure de 150 g, e traz o selo Creapure 18SP11 no rótulo. A tabela, porém, diz 50 porções de 3 g, com 3.000 mg de creatina cada: a mesma creatina da Creapure comum, dividida em porções menores. Por 100 g, custa os mesmos R$ 66,59; por porção, R$ 2,00, mas a porção tem 3 g, não 5 g. É a mesma matéria-prima da Creapure de 150 g em outra embalagem, e a escolha entre as duas é de porção e de visual."
         ],
         "images": [
           {
@@ -161378,7 +161685,8 @@ export const reviewsData: unknown[] = [
             "alt": "Pote preto e branco da Pure Creatina de 150 g da linha Monster da Probiótica, com o selo Creapure",
             "caption": "Pure Creatina 150 g, linha Monster, com o selo Creapure. Imagem: Probiótica.",
             "objectFit": "contain",
-            "aspectRatio": 0.8333
+            "aspectRatio": 0.8333,
+            "href": "https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
           },
           {
             "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-tabela-pure-monster-150g.webp",
@@ -161387,10 +161695,17 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.9108
           }
+        ],
+        "links": [
+          {
+            "label": "Ver a Pure Creatina Monster 150 g na Probiótica",
+            "href": "https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "Creatina Probiótica é pura? O que o rótulo responde",
+        "heading": "Pura no nome, monohidratada no rótulo",
         "paragraphs": [
           "\"Pura\" está no nome do produto, e \"Pure\" no da linha Monster. O que o rótulo declara é outra coisa: creatina monohidratada, com 5.000 mg por porção de 5 g nos potes de 300 g, de 100 g, na Creapure e nos sachês. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa em nenhuma das versões.",
           "A Creapure acrescenta o selo de origem da matéria-prima, e só isso: a composição por porção na tabela é a mesma do pote comum. A pureza de cada lote não se mede pela ficha; quem precisa desse dado pede o laudo do lote à loja, pelo SAC do rótulo."
@@ -161399,7 +161714,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom PRO10EMCASACOMCECILIA",
         "paragraphs": [
-          "O PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica, com o percentual variando por produto: nem todo item recebe 10%. Soma com as promoções da loja, inclusive o preço promocional do pote de 300 g, e vale em todas as formas de pagamento. O código entra no campo de cupom do carrinho; o passo a passo está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras do mês na [página do cupom Probiótica](/cupons/probiotica)."
+          "O PRO10EMCASACOMCECILIA dá até 10% OFF no site da Probiótica, com o percentual variando por produto: nem todo item recebe 10%. Cole o código no campo \"Cupom de Desconto\" do carrinho, clique em \"Adicionar\" e confira a linha \"Descontos\" no resumo. Vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções da loja, inclusive o preço promocional do pote de 300 g, e com o desconto do Pix. Nos testes de novembro, o desconto nas creatinas foi de 2%, então as contas com 10% são o teto. O passo a passo está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras do mês na [página do cupom Probiótica](/cupons/probiotica)."
         ]
       },
       {
@@ -161407,18 +161722,19 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Menor preço por grama:** [Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). R$ 19,97 por 100 g e R$ 1,00 por dose de 5 g, com 60 porções e 5.000 mg por porção na tabela. É a escolha para quem toma uma porção ao dia: dura dois meses.",
           "**Para experimentar:** [Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). Mesma tabela, 20 porções, R$ 33,89. Custa 70% a mais por grama; vale só para conhecer o produto antes do pote grande.",
-          "**Quer o selo Creapure:** [Creatina Creapure Monohidratada 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). R$ 66,59 por 100 g e R$ 3,33 por dose, com o selo 18SP11 no rótulo e os mesmos 5.000 mg por porção. A Pure Creatina Monster tem o mesmo selo e o mesmo preço, em porções de 3 g.",
+          "**Quer o selo Creapure:** [Creatina Creapure Monohidratada 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi). R$ 66,59 por 100 g e R$ 3,33 por dose, com o selo 18SP11 no rótulo e os mesmos 5.000 mg por porção. A [Pure Creatina Monster](https://www.probiotica.com.br/pure-creatina-150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) tem o mesmo selo e o mesmo preço, em porções de 3 g.",
           "**Prefere dose pronta:** a [monodose de 30 sachês](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), a R$ 2,33 por dose. Custa mais que o dobro do pote de 300 g pela mesma creatina."
         ],
         "postParagraphs": [
           "Quem tem objetivo de saúde, usa medicamento ou tem restrição alimentar fala com um nutricionista ou médico antes de escolher. Para comparar a creatina da Probiótica com a de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher) e o [guia da creatina Black Skull](/reviews/creatina-black-skull-qual-escolher), que usa a mesma conta por grama."
         ],
-        "emphasis": "O pote de 300 g tem o menor custo por grama: cerca de R$ 1 por porção de 5 g, contra R$ 1,69 no de 100 g."
+        "emphasis": "Pelos números da tabela, para quem toma uma porção por dia a escolha é o pote de 300 g, porque tem o menor custo por grama, cerca de R$ 1 por porção de 5 g."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Creatina Probiótica é boa? Pelo rótulo, os potes de 300 g e de 100 g, a Creapure e os sachês, todos com porção de 5 g, trazem creatina monohidratada com 5.000 mg por porção; a Pure Creatina Monster tem porção de 3 g, com 3.000 mg. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço. Quem fabrica e como a loja responde está em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; nas creatinas, o desconto medido nos testes de novembro foi de 2%. As regras estão na página do [cupom Probiótica](/cupons/probiotica).",
+          "Creatina Probiótica é boa? Pelo rótulo, os potes de 300 g e de 100 g, a Creapure e os sachês, todos com porção de 5 g, trazem creatina monohidratada com 5.000 mg por porção; a Pure Creatina Monster tem porção de 3 g, com 3.000 mg. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço.",
           "Creatina Probiótica é pura? \"Pura\" é o nome do produto. O rótulo declara creatina monohidratada, com 5.000 mg por porção de 5 g na tabela (3.000 mg em 3 g na Pure Creatina Monster). A Creapure traz o selo de origem da matéria-prima, com a mesma composição por porção na tabela.",
           "Creatina Probiótica é Creapure? Só as versões com o selo no rótulo: a Creatina Creapure Monohidratada de 150 g e a Pure Creatina de 150 g da linha Monster, as duas a R$ 99,89. Os potes de 300 g e de 100 g e a monodose não trazem o selo.",
           "Qual tamanho custa menos por grama? O pote de 300 g, a R$ 19,97 por 100 g, contra R$ 33,89 do de 100 g, R$ 46,59 da monodose e R$ 66,59 da Creapure. Confira os preços atuais antes de comprar.",
@@ -161445,9 +161761,20 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-probiotica-como-usar"
       },
       {
-        "slug": "probiotica-e-confiavel"
+        "slug": "monodose-probiotica-sache-ou-pote"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve o pote de 300 g se você toma uma porção por dia e quer o menor preço por grama.",
+        "Leve o pote de 100 g se quer conhecer o produto antes de comprar o pote grande.",
+        "Leve a Creapure de 150 g se o selo de origem no rótulo pesa na sua escolha."
+      ],
+      "skipIf": [
+        "Passe na monodose se a dose já separada não vale pagar mais que o dobro por grama.",
+        "Passe na Creapure e na Pure Creatina Monster se o preço por grama decide: custam mais que o triplo do pote de 300 g."
+      ]
+    }
   },
   {
     "id": 652,
@@ -161483,25 +161810,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como a conta é feita",
-        "paragraphs": [
-          "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço. A comparação usa os preços do site da Probiótica, sem cupom, por 100 g de produto e por porção do rótulo.",
-          "A porção e o número de doses vêm da tabela nutricional na imagem de cada produto. Nos três produtos, a tabela diz porção de 5 g com 5.000 mg de creatina. Nenhum texto de benefício da loja entra neste guia."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
-            "alt": "Caixa da Creatina Monodose da Probiótica aberta, com os 30 sachês de 5 g e um sachê à frente",
-            "caption": "Creatina Monodose, 30 sachês de 5 g. Imagem: Probiótica.",
-            "objectFit": "contain",
-            "aspectRatio": 1.0135
-          }
-        ]
-      },
-      {
         "heading": "Creatina: pote contra monodose, por 100 g e por dose",
         "paragraphs": [
-          "Preços de 28/10/2026, no site da Probiótica, sem cupom. A porção e o número de doses são os da tabela nutricional de cada ficha."
+          "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço: nos três produtos, a tabela nutricional diz porção de 5 g com 5.000 mg de creatina, e a comparação usa o preço do site, sem cupom, por 100 g de produto e por porção.",
+          "Preços de 28/10/2026, no site da Probiótica, no cartão e sem cupom. A porção e o número de doses são os da tabela nutricional de cada ficha."
         ],
         "comparisonTable": {
           "headers": [
@@ -161537,13 +161849,22 @@ export const reviewsData: unknown[] = [
               "R$ 46,59",
               "R$ 2,33"
             ]
-          ]
+          ],
+          "caption": "Conta nossa: por 100 g, preço ÷ gramas do pote × 100; por dose, preço ÷ doses."
         },
         "postParagraphs": [
           "A monodose custa 133% a mais por grama que o pote de 300 g (R$ 46,59 contra R$ 19,97 por 100 g) e 37% a mais que o pote de 100 g (R$ 33,89). Por dose, são R$ 2,33 no sachê, R$ 1,69 no pote pequeno e R$ 1,00 no pote de 300 g, que estava de R$ 75,10 por R$ 59,90.",
           "Com o cupom PRO10EMCASACOMCECILIA, até 10% (pode ser menos em alguns produtos), a conta muda, mas a ordem não: com os 10% cheios, o pote de 300 g iria a R$ 53,91 e a monodose a R$ 62,90. As regras do cupom estão em \"Cupom da Probiótica\"."
         ],
         "images": [
+          {
+            "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-monodose-caixa.webp",
+            "alt": "Caixa da Creatina Monodose da Probiótica aberta, com os 30 sachês de 5 g e um sachê à frente",
+            "caption": "Creatina Monodose, 30 sachês de 5 g. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0135,
+            "href": "https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          },
           {
             "src": "/images/reviews/probiotica/monodose-probiotica-sache-ou-pote-tabela-monodose.webp",
             "alt": "Tabela nutricional da Creatina Monodose da Probiótica: porção de 5 g (1 sachê) com 5.000 mg de creatina",
@@ -161584,14 +161905,22 @@ export const reviewsData: unknown[] = [
             "alt": "Pote de 300 g da Creatina Monohidratada da Probiótica",
             "caption": "Creatina Monohidratada Pura, pote de 300 g. Imagem: Probiótica.",
             "objectFit": "contain",
-            "aspectRatio": 0.899
+            "aspectRatio": 0.899,
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver a Creatina Monodose na Probiótica",
+            "href": "https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Cupom da Probiótica",
         "paragraphs": [
-          "O PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica. O percentual varia por produto, e nem todo item recebe os 10%. O cupom soma com as promoções do site e vale em todas as formas de pagamento. O passo a passo no carrinho está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras, na [página do cupom Probiótica](/cupons/probiotica)."
+          "O PRO10EMCASACOMCECILIA dá até 10% OFF no site da Probiótica. O percentual varia por produto, e nem todo item recebe os 10%. Cole o código no campo \"Cupom de Desconto\" do carrinho, clique em \"Adicionar\" e confira a linha \"Descontos\" no resumo. Vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções do site e com o desconto do Pix. Nos testes de novembro, o desconto nas creatinas foi de 2%: a conta com 10% é o teto, e a ordem entre sachê e pote não muda. O passo a passo está em [como usar o cupom da Probiótica](/reviews/cupom-probiotica-como-usar), e as regras, na [página do cupom Probiótica](/cupons/probiotica)."
         ]
       },
       {
@@ -161610,10 +161939,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; nas creatinas, o desconto medido nos testes de novembro foi de 2%. As regras estão na página do [cupom Probiótica](/cupons/probiotica).",
           "Creatina monodose da Probiótica vale a pena? Pelo preço da tabela acima, o sachê sai a R$ 2,33 por porção de 5 g, contra cerca de R$ 1 no pote de 300 g. A diferença é de R$ 1,33 por porção; escolha o sachê se a conveniência justificar esse custo para você.",
           "A creatina monodose tem a mesma dose do pote? Pelo rótulo, sim: a tabela do sachê diz porção de 5 g com 5.000 mg de creatina, a mesma dos potes de 300 g e de 100 g.",
           "Quantos sachês vêm na creatina monodose da Probiótica? São 30 sachês de 5 g, 150 g no total, por R$ 69,89.",
-          "Qual é o cupom da Probiótica para a creatina? O PRO10EMCASACOMCECILIA, de até 10%, com o percentual variando por produto. Soma com as promoções do site e vale em todas as formas de pagamento.",
           "Whey em sachê da Probiótica compensa? Este guia trata só da creatina. O whey, com o perfil de quem compra em sachê, está no guia de melhor whey por objetivo."
         ]
       }
@@ -161637,9 +161966,19 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-probiotica-como-usar"
       },
       {
-        "slug": "probiotica-e-confiavel"
+        "slug": "whey-probiotica-qual-escolher"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve o pote de 300 g se você toma uma porção por dia em casa e quer o menor preço por dose.",
+        "Leve a monodose se a dose já separada, para a bolsa ou para viagem, vale para você pagar mais que o dobro por dose."
+      ],
+      "skipIf": [
+        "Passe na monodose se o preço por dose decide: o sachê custa mais que o dobro do pote de 300 g.",
+        "Passe no pote de 100 g se vai tomar a creatina por mais de um mês: o de 300 g sai mais barato por dose."
+      ]
+    }
   },
   {
     "id": 653,
@@ -193790,7 +194129,7 @@ export const reviewsData: unknown[] = [
     "id": 778,
     "slug": "probiotica-e-boa",
     "title": "Probiótica é boa? O whey, a creatina e o que vale comprar da marca",
-    "seoTitle": "Probiótica é boa? 100% Pure Whey, zero lactose e creatina pelo rótulo",
+    "seoTitle": "Probiótica é boa? Whey, creatina e o que vale comprar",
     "type": "Guia de Marca",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -193805,24 +194144,15 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Whey, creatina e glutamina pelo rótulo, com o preço por 100 g e para quem a marca compensa.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/probiotica-e-boa-capa-v2.webp",
     "imageAlt": "Pote do Iso Pro Whey Baunilha da Probiótica em foto oficial, ao lado da pergunta Probiótica é boa?",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Rótulo com o tipo de proteína e a proteína por dose em todos os wheys",
-      "Whey que o rótulo declara sem lactose, o Zero Lactose",
-      "Creatina com 5 g por porção, com o pote de 300 g como o mais barato por grama",
-      "Cupom de até 10% que soma com as promoções do site e vale em todas as formas de pagamento"
-    ],
-    "cons": [
-      "O aviso do Zero Lactose cita derivados de leite",
-      "O cupom varia por produto e não chega a 10% em todos",
-      "O Iso Pro cobra mais por grama de proteína, e a página do produto declara lactose"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -193833,7 +194163,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Probiótica vende",
         "paragraphs": [
-          "A Probiótica é uma marca de suplementos com loja própria no site oficial. O catálogo vai do whey e da creatina a hipercalóricos, colágeno, barras de proteína e kits. Este artigo te guia pelos itens mais procurados da marca e indica o guia que já escrevemos sobre cada um."
+          "A Probiótica é uma marca de suplementos do Grupo Supley, com loja própria no site oficial, e diz atuar desde 1986. O catálogo vai do whey e da creatina a hipercalóricos, colágeno, barras de proteína e kits. Este artigo te guia pelos itens mais procurados da marca e indica o guia que já escrevemos sobre cada um."
         ],
         "bullets": [
           "**Whey:** 100% Pure Whey (pote e refil), Zero Lactose, Hiper 100% Whey e o isolado Iso Pro, no próximo capítulo.",
@@ -193844,19 +194174,104 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O whey da Probiótica é bom? Resumo por pote",
+        "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Cada pote declara o tipo de proteína e a proteína por dose. O Hiper 100% Whey é o mais barato por grama enquanto a promoção durar; sem ela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente. O Iso Pro tem a maior dose de proteína e o maior preço por grama.",
-          "A tabela com a proteína de cada pote, a conta por 100 g e o veredito por perfil estão em [whey Probiótica: qual escolher](/reviews/whey-probiotica-qual-escolher)."
+          "O que separa os cinco wheys da Probiótica é a proteína por dose, a lactose declarada e o preço por 100 g de proteína. O Pure (pote e refil), o Zero Lactose e o Hiper são de proteína concentrada do soro do leite (WPC); o Iso Pro é isolado (WPI). O Hiper 100% Whey é o mais barato por grama enquanto a promoção durar; sem ela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente do pote e do Iso Pro."
+        ],
+        "comparisonTable": {
+          "caption": "Preços do site em 22/11, no cartão, sem cupom e sem Pix; entre parênteses, o preço de lista. Conta nossa: preço ÷ proteína da embalagem (peso ÷ porção × proteína declarada) × 100, com 20 g no Pure e 21 g no Zero Lactose, pela tabela nutricional. A frente do Pure diz 21 g e a do Zero Lactose, 22 g: confira a embalagem que chegar.",
+          "headers": [
+            "Produto",
+            "Porção: proteína",
+            "Proteína na embalagem",
+            "Preço de venda",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[100% Pure Whey pote 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "30 g: 20 g",
+              "600 g",
+              "R$ 252,49",
+              "R$ 42,08"
+            ],
+            [
+              "[100% Pure Whey refil 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "30 g: 20 g",
+              "600 g",
+              "R$ 235,65",
+              "R$ 39,28"
+            ],
+            [
+              "[100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "30 g: 21 g",
+              "630 g",
+              "R$ 241,97",
+              "R$ 38,41"
+            ],
+            [
+              "[Hiper 100% Whey 900 g](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "40 g: 23 g",
+              "517,5 g",
+              "R$ 124,90 (de R$ 210,39)",
+              "R$ 24,14 (de R$ 40,66)"
+            ],
+            [
+              "[Iso Pro Whey 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "30 g: 26 g",
+              "780 g",
+              "R$ 346,28",
+              "R$ 44,39"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O refil do 100% Pure Whey custa R$ 16,84 menos que o pote de 900 g, com a mesma proteína declarada por porção. O Zero Lactose declara \"lactose: não contém\", mas o aviso de alergênicos cita derivados de leite; o Iso Pro, o de maior dose de proteína, declara lactose e cobra mais por grama.",
+          "A promoção do Hiper não tem data de fim anunciada: refaça a conta por 100 g de proteína se o preço mudar. A comparação completa, com o veredito por perfil, está em [whey Probiótica: qual escolher](/reviews/whey-probiotica-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+            "alt": "Pote azul do Hiper 100% Whey da Probiótica, 900 g, sabor chocolate, em foto oficial de frente.",
+            "caption": "Hiper 100% Whey de 900 g. Imagem: Probiótica.",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          },
+          {
+            "src": "/images/reviews/whey/probiotica-pure-whey-zero-lactose.webp",
+            "alt": "Pote azul de 900 g do 100% Pure Whey Zero Lactose da Probiótica, sabor Chocolate, com o selo redondo azul de zero lactose no canto",
+            "caption": "100% Pure Whey Zero Lactose 900 g. Foto oficial da Probiótica.",
+            "objectFit": "square",
+            "aspectRatio": 1,
+            "href": "https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Hiper 100% Whey na Probiótica",
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o Zero Lactose 900 g na Probiótica",
+            "href": "https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o 100% Pure Whey refil na Probiótica",
+            "href": "https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "A creatina da Probiótica é boa?",
+        "heading": "Creatina: 300 g, 100 g, Creapure e monodose por 100 g",
         "paragraphs": [
-          "Pelo rótulo, sim: a creatina é monohidratada, com 5 g por porção (5.000 mg) nas versões de 5 g, e a tabela não lista outros nutrientes em quantidade significativa. O que muda é o tamanho do pote e o preço por grama. A conta completa, com a Pure Creatina Monster, de porção de 3 g, está em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa)."
+          "O rótulo declara creatina monohidratada, com 5 g por porção (5.000 mg) nas versões de 5 g, e a tabela não lista outros nutrientes em quantidade significativa. O que muda é o tamanho do pote e o preço por grama. A conta completa, com a Pure Creatina Monster, de porção de 3 g, está em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa)."
         ],
         "comparisonTable": {
-          "caption": "Preços no site, da mesma data que os do whey. Porções da tabela nutricional de cada versão.",
+          "caption": "Preços do site na mesma leitura do whey. Porções da tabela nutricional de cada versão.",
           "headers": [
             "Versão",
             "Porções de 5 g",
@@ -193898,8 +194313,16 @@ export const reviewsData: unknown[] = [
           "alt": "Pote azul de 300 g da Creatina Monohidratada da Probiótica, de frente",
           "caption": "Creatina Monohidratada Pura 300 g. Imagem: Probiótica.",
           "objectFit": "contain",
-          "aspectRatio": 0.899
-        }
+          "aspectRatio": 0.899,
+          "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+        },
+        "links": [
+          {
+            "label": "Ver a Creatina 300 g na Probiótica",
+            "href": "https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Hipercalórico, monodose e glutamina",
@@ -193912,9 +194335,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
-          "O PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica, e o percentual varia por produto: nem todo item chega a 10%. O cupom vale para conta nova e para quem já comprou, soma com as promoções da loja e vale em todas as formas de pagamento.",
-          "Num carrinho com colágeno, creatina em promoção, camiseta e barra de proteína, o desconto no total foi de cerca de 8,3%. Os preços das tabelas são de antes do cupom, e o desconto de cada produto só aparece no carrinho, no campo \"Cupom de Desconto\": confira a linha do desconto antes de pagar.",
-          "A compra é no site oficial, probiotica.com.br, entrando pelo link da parceria."
+          "O PRO10EMCASACOMCECILIA dá até 10% OFF no site da Probiótica, e o percentual varia por produto: nem todo item chega a 10%. Cole o código no campo \"Cupom de Desconto\" do carrinho, clique em \"Adicionar\" e confira a linha \"Descontos\" no resumo. Vale em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções da loja e com o desconto do Pix.",
+          "Num carrinho com colágeno, creatina em promoção, camiseta e barra de proteína, o desconto no total foi de cerca de 8,3%; nos testes de novembro, foi de 2% nos wheys e nas creatinas e de 7% no [Hiper 100% Whey](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e no [Iso Protein Blend](https://www.probiotica.com.br/iso-protein-blend/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) em oferta. Os preços das tabelas são de antes do cupom.",
+          "A compra é no site oficial, [probiotica.com.br](https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), entrando pelo link da parceria."
         ],
         "links": [
           {
@@ -193928,19 +194351,12 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "A Probiótica é confiável?",
-        "paragraphs": [
-          "É. A loja é operada pela Supley, cuja razão social, CNPJ e endereço, em Matão (SP), aparecem no rodapé do site, e a marca diz, em \"Quem Somos\", que investe em pesquisa e inovação \"desde 1986\". Essa idade é afirmação da própria marca.",
-          "Troca, frete, site oficial e reputação estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel) e em [Probiótica no Reclame Aqui](/reviews/probiotica-reclame-aqui-nota-reputacao)."
-        ]
-      },
-      {
         "heading": "Para quem vale e para quem não vale",
-        "emphasis": "Vale para quem compara whey e creatina pela tabela nutricional, pelos avisos de alergênicos e pelo preço por grama. A Probiótica diz atuar desde 1986.",
+        "emphasis": "Pelos números das tabelas, a Probiótica compensa para quem compra whey e creatina pelo preço por grama, com o Hiper 100% Whey enquanto durar a promoção e o pote de 300 g na creatina.",
         "bullets": [
-          "Para pagar menos pela proteína, o Hiper 100% Whey enquanto estiver em promoção; fora dela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente.",
+          "Para pagar menos pela proteína, o Hiper 100% Whey enquanto estiver em promoção (R$ 24,14 por 100 g de proteína); fora dela, o Zero Lactose (R$ 38,41) e o refil do 100% Pure Whey (R$ 39,28) ficam à frente.",
           "Para um whey que o rótulo declara sem lactose, o Zero Lactose, lembrando que o aviso de alergênicos cita derivados de leite.",
-          "Para menos carboidrato por dose, o Iso Pro, que cobra mais por grama de proteína.",
+          "Para mais proteína por dose, o Iso Pro, que cobra mais por grama de proteína (R$ 44,39 por 100 g) e declara lactose.",
           "Na creatina, o pote de 300 g para uso regular e o de 100 g só para experimentar; Creapure e monodose custam mais pelo selo e pela embalagem.",
           "Não vale esperar 10% em tudo: o cupom chega a 10% e varia por produto."
         ]
@@ -193948,14 +194364,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial da Probiótica, em todas as formas de pagamento. Cole no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\"; as regras estão na página do [cupom Probiótica](/cupons/probiotica).",
           "O whey da Probiótica é bom? O rótulo declara o tipo de proteína e a proteína por dose. O que muda entre as versões é o preço por grama e a lactose, no [guia do whey](/reviews/whey-probiotica-qual-escolher).",
           "O 100% Pure Whey é concentrado? É: a descrição da loja e o rótulo dizem proteína concentrada do soro do leite (WPC), e o produto contém lactose.",
           "O zero lactose serve para quem tem intolerância? O rótulo declara \"lactose: não contém\", e o aviso de alergênicos cita derivados de leite. Quem tem intolerância decide com médico ou nutricionista.",
           "O Iso Pro é zero lactose? Não: a página do produto declara lactose, e o aviso cita derivados de leite e soja. Confira o rótulo do sabor e da embalagem que você vai comprar.",
           "O Hiper 100% Whey é concentrado? É: proteína concentrada do soro do leite, em dose de 40 g, e o rótulo diz que contém lactose.",
           "A creatina Probiótica é boa? Pelo rótulo, a creatina monohidratada traz 5.000 mg por porção de 5 g nos potes e nos sachês, e o pote de 300 g é o mais barato por grama; os números estão em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa).",
-          "O cupom da Probiótica dá 10% em tudo? Não: o PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. Vale para conta nova e antiga e soma com as promoções da loja.",
-          "A Probiótica é confiável? É, e os detalhes estão no [guia de confiabilidade da marca](/reviews/probiotica-e-confiavel)."
+          "O cupom dá 10% em todos os produtos? Não: o percentual varia por produto, e nos testes de novembro foi de 2% nos wheys e nas creatinas e de 7% nos itens em oferta. Confira a linha \"Descontos\" no carrinho."
         ]
       }
     ],
@@ -193983,7 +194399,7 @@ export const reviewsData: unknown[] = [
         "slug": "creatina-probiotica-qual-compensa"
       },
       {
-        "slug": "probiotica-e-confiavel"
+        "slug": "whey-probiotica-qual-escolher"
       },
       {
         "slug": "probiotica-ou-growth"
@@ -195427,7 +195843,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O DREMCASACOMCECILIA dá 10% OFF na Dr. Peanut: a pasta de amendoim, o whey e os snacks pelo rótulo, o preço por 100 g e para quem a marca compensa.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/dr-peanut-e-boa-capa-v2.webp",
@@ -195447,45 +195863,58 @@ export const reviewsData: unknown[] = [
           "A Dr. Peanut é a marca da pasta de amendoim: é por ela que a loja existe, e o whey e os snacks vêm em volta. O site se divide em três prateleiras:"
         ],
         "bullets": [
-          "**Pastas de amendoim:** 12 sabores, em potes de 250 g e de 600 g, mais combos de 2 a 5 potes e a assinatura, que só tem potes de 250 g. O capítulo seguinte lê o rótulo.",
+          "**Pastas de amendoim:** 10 sabores, em potes de 250 g e de 600 g, mais combos de 2 a 5 potes e a assinatura, que só tem potes de 250 g. O capítulo seguinte lê o rótulo.",
           "**Snacks:** a Doctor Bar, barra de proteína vendida só em display de 8, o alfajor e a Doctor Wafer, comparados mais abaixo.",
           "**Whey:** o \"100% Whey Dr. Peanut - Max Titanium\", pote de 900 g em 5 sabores."
         ],
         "postParagraphs": [
           "Por trás da marca está a Body Food, fábrica de Curitiba que tem a Supley como sócia, o mesmo grupo da Probiótica e da Max Titanium. É daí que vem o nome duplo do whey: a página o apresenta como uma criação da Max Titanium em parceria com a Dr. Peanut, vendida na loja da Dr. Peanut."
+        ],
+        "links": [
+          {
+            "label": "Ver as pastas na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "A pasta de amendoim Dr. Peanut é boa?",
+        "heading": "Pasta de amendoim: o que o rótulo mostra",
         "paragraphs": [
-          "Pelo rótulo, é uma pasta de amendoim com proteína do soro do leite e sem adição de açúcares, e o que decide entre os 12 sabores é a linha dos polióis, não o preço, que é o mesmo em todos. A lista de ingredientes se repete: amendoim, proteína concentrada do soro do leite, os polióis maltitol e xilitol e os edulcorantes sucralose e acessulfame de potássio; o Brownie e o Banoffee levam também glicosídeos de esteviol. Todos dizem que contêm lactose e que não contêm glúten. Os alérgicos trazem amendoim e derivados de leite em todos os sabores, e avelã, castanha-de-caju, pistache, ovo ou soja conforme o sabor.",
-          "Na colher de 15 g, a tabela traz de 2,5 a 3 g de proteína, de 0,7 a 1,5 g de açúcares totais, 0 g de açúcares adicionados e de 1,1 a 2 g de gordura saturada. Por 100 g, a proteína vai de 17 g a 20 g e os polióis, de 6,4 g a 20 g, e é essa linha que separa os sabores: o Brownie é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g, e o Cookies & Cream tem o menor açúcar e o maior poliol dos 12. A tabela sabor a sabor, com os alérgicos de cada um, está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
+          "Pelo rótulo, é uma pasta de amendoim com proteína do soro do leite e sem adição de açúcares, e o que decide entre os 10 sabores é a linha dos polióis, não o preço, que é o mesmo em todos. A lista de ingredientes se repete: amendoim, proteína concentrada do soro do leite, os polióis maltitol e xilitol e os edulcorantes sucralose e acessulfame de potássio; o Brownie leva também glicosídeos de esteviol. Todos dizem que contêm lactose e que não contêm glúten. Os alérgicos trazem amendoim e derivados de leite em todos os sabores, e avelã, castanha-de-caju, pistache, ovo ou soja conforme o sabor.",
+          "Na colher de 15 g, a tabela traz de 2,5 a 3 g de proteína, de 0,7 a 1,4 g de açúcares totais, 0 g de açúcares adicionados e de 1,1 a 1,8 g de gordura saturada. Por 100 g, a proteína vai de 17 g a 20 g e os polióis, de 6,4 g a 20 g, e é essa linha que separa os sabores: o Brownie é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g, e o Cookies & Cream tem o menor açúcar e o maior poliol dos 10. A tabela sabor a sabor, com os alérgicos de cada um, está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
         ],
         "comparisonTable": {
           "headers": [
             "Formato",
             "Peso",
-            "Preço de lista",
-            "Por 100 g"
+            "Preço de venda",
+            "Por 100 g",
+            "Com o cupom",
+            "Por 100 g com cupom"
           ],
           "rows": [
             [
               "[Pote de 250 g, Avelã](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p)",
               "250 g",
-              "R$ 28,90",
-              "R$ 11,56"
+              "R$ 25,89",
+              "R$ 10,36",
+              "R$ 23,30",
+              "R$ 9,32"
             ],
             [
               "[Pote de 600 g, Bombom Italiano](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-bombom-italiano/p)",
               "600 g",
-              "R$ 64,90",
-              "R$ 10,82"
+              "R$ 59,89",
+              "R$ 9,98",
+              "R$ 53,90",
+              "R$ 8,98"
             ]
           ],
-          "caption": "Preço de lista no site, 03/11, igual em todos os sabores do mesmo tamanho."
+          "caption": "Preço de venda no site em 22/11, igual em todos os sabores do mesmo tamanho; o cupom tira 10%."
         },
         "postParagraphs": [
-          "Conta nossa: pelo preço de lista e pelo peso do pote, o de 600 g sai cerca de 6% mais barato por 100 g que o de 250 g, e os combos de 2 a 5 potes e a assinatura baixam mais. A loja vende os dois potes com desconto em promoção, e o cupom entra em cima do preço do dia.",
+          "Conta nossa: pelo preço de venda e pelo peso do pote, o de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g, e os combos de 2 a 5 potes e a assinatura baixam mais. O cupom entra em cima do preço de venda do dia.",
           "Serve para quem quer pasta de amendoim com proteína do soro e sem açúcar adicionado, e escolhe o sabor pelo poliol. Não escolha se você precisa evitar lactose ou quer pasta só de amendoim: a loja não vende versão sem lactose nem pasta de um ingrediente só."
         ],
         "images": [
@@ -195496,19 +195925,26 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p"
           }
+        ],
+        "links": [
+          {
+            "label": "Ver as pastas na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "Dr. Peanut é boa para dieta?",
+        "heading": "Dieta: os números do rótulo",
         "paragraphs": [
           "O rótulo não responde isso: quem encaixa a pasta, o whey ou a barra no seu plano é o nutricionista. O que o rótulo dá são os números que entram nessa conversa. A colher de 15 g de pasta tem de 83 a 90 kcal; a porção de 40 g de whey, de 159 a 166 kcal; a Doctor Bar de 62 g, 261 kcal e 6,2 g de gordura saturada. Leve esses números, e a porção que você come de verdade, para a consulta.",
           "Adoçantes, polióis, lactose e glúten de cada produto estão no [guia do rótulo da Dr. Peanut](/reviews/dr-peanut-e-saudavel)."
         ]
       },
       {
-        "heading": "O whey Dr. Peanut é bom?",
+        "heading": "Whey: o que o rótulo mostra",
         "paragraphs": [
-          "Pelo rótulo, é um whey concentrado (WPC) com 20 g de proteína por dose de 40 g, nos 5 sabores, e o que decide é o aviso: contém glúten e lactose. O mesmo pote está na Dr. Peanut e na Max Titanium, pelo mesmo preço; o rótulo, a conta por 100 g de proteína e qual código usar estão em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
+          "Pelo rótulo, é um whey concentrado (WPC) com 20 g de proteína por dose de 40 g, nos 5 sabores, e o que decide é o aviso: contém glúten e lactose. O mesmo pote está na [Dr. Peanut](https://www.drpeanut.com.br/whey-dr-peanut/p) e na Max Titanium, pelo mesmo preço; o rótulo, a conta por 100 g de proteína e qual código usar estão em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
         ],
         "images": [
           {
@@ -195517,6 +195953,13 @@ export const reviewsData: unknown[] = [
             "caption": "100% Whey Dr. Peanut - Max Titanium, sabor Paçoca, o único sabor que não existe na pasta. Imagem: Dr. Peanut.",
             "objectFit": "square",
             "href": "https://www.drpeanut.com.br/whey-dr-peanut-pacoca/p"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o 100% Whey Dr. Peanut na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/whey-protein",
+            "sponsored": true
           }
         ]
       },
@@ -195530,7 +195973,7 @@ export const reviewsData: unknown[] = [
             "Snack",
             "Porção",
             "Proteína",
-            "Preço de lista da unidade"
+            "Preço da unidade"
           ],
           "rows": [
             [
@@ -195542,7 +195985,7 @@ export const reviewsData: unknown[] = [
             [
               "[Alfajor Doce de Leite](https://www.drpeanut.com.br/alfajor-sabor-doce-de-leite-cobertura-chocolate-ao-leite-35g/p)",
               "35 g",
-              "4,7 g (de 4 a 4,7 g nos 5 sabores)",
+              "4,7 g (de 4,4 a 4,7 g nos 2 sabores)",
               "R$ 12,99"
             ],
             [
@@ -195552,7 +195995,7 @@ export const reviewsData: unknown[] = [
               "R$ 11,46"
             ]
           ],
-          "caption": "Preço de lista no site. A Doctor Bar só se vende em display de 8."
+          "caption": "Preço no site. A Doctor Bar só se vende em display de 8."
         },
         "postParagraphs": [
           "Por grama de proteína, a barra sai a R$ 0,73 e o alfajor passa de R$ 2,76: quem compra snack pela proteína fica na barra, quem quer um doce de 35 g fica no alfajor, e o wafer é o menor preço por unidade. A Doctor Bar Avelã e a Doctor Wafer Avelã dizem \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\"; o wafer é de farinha de trigo, e a barra leva maltitol, glicosídeos de esteviol e sucralose. O alfajor é o caso à parte: a loja publica só a tabela nutricional, em imagem, e não publica a lista de ingredientes nem o aviso de alérgicos, então este texto não diz o que ele leva. Quem tem restrição confere a embalagem antes de comer."
@@ -195565,19 +196008,42 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p"
           }
+        ],
+        "links": [
+          {
+            "label": "Ver a Doctor Bar Avelã na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Doctor Wafer Avelã na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/doctor-wafer-avela-un/p",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
-          "O DREMCASACOMCECILIA tira 10% de todo o site, em todas as formas de pagamento, e soma com as promoções: entra até no item que já está com preço promocional. Entra também na assinatura, que só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral e desconto progressivo de 4% com uma pasta a 15% com quatro ou mais; o cupom soma com esse desconto, com os 10% sobre o subtotal. Na comparação de preço, a assinatura com cupom ficou abaixo do kit de 250 g com a mesma quantidade, antes do frete.",
+          "O DREMCASACOMCECILIA tira 10% de todo o site, para cliente novo e antigo, em todas as formas de pagamento, e soma com as promoções e com os 3% do Pix no checkout: entra até no item que já está com preço promocional. Para usar, cole o código no campo \"Código\" do carrinho e clique em \"Adicionar\". Entra também na assinatura, que só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral e desconto progressivo de 4% com uma pasta a 20% com quatro ou mais; o cupom soma com esse desconto, com os 10% sobre o subtotal. Na comparação de preço, a assinatura com cupom ficou abaixo do kit de 250 g com a mesma quantidade, antes do frete.",
           "O frete grátis conta o valor depois do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Um pote de 600 g sozinho não chega; o pote de whey chega em qualquer região. A compra é no site oficial, drpeanut.com.br, e o código para copiar fica na página do [cupom Dr. Peanut](/cupons/dr-peanut)."
+        ],
+        "links": [
+          {
+            "label": "Ver regras e validade do cupom DREMCASACOMCECILIA",
+            "href": "/cupons/dr-peanut"
+          },
+          {
+            "label": "Ir para a Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Confiança: quem fabrica e como a loja responde",
         "paragraphs": [
-          "A Body Food, de Curitiba, fabrica a Dr. Peanut, e a Supley aparece como sócia; o CNPJ e o endereço ficam no rodapé do site. No Reclame Aqui, a reputação é Boa nos últimos 6 meses e Ótima nos últimos 12, e as queixas se concentram na entrega: guarde o rastreio e acione o atendimento assim que o prazo vencer. Os períodos e o que aparece nas reclamações estão no [guia de reputação da Dr. Peanut](/reviews/dr-peanut-reclame-aqui-nota-reputacao).",
+          "A Body Food, de Curitiba, fabrica a Dr. Peanut, e a Supley aparece como sócia; o CNPJ e o endereço ficam no rodapé do site. No Reclame Aqui, a reputação é Boa, com nota 7,9, tanto nos últimos 6 quanto nos últimos 12 meses, e as queixas se concentram na entrega: guarde o rastreio e, assim que o prazo vencer, escreva ao SAC da loja (sac@supley.com.br) com o número do pedido e a nota fiscal.",
           "Na troca, o arrependimento em 7 dias sai sem custo para você, e a troca por outro produto tem o frete por sua conta. Escolha o sabor antes de fechar o carrinho."
         ]
       },
@@ -195588,18 +196054,19 @@ export const reviewsData: unknown[] = [
           "Vale para quem já compra a pasta e quer o whey na mesma loja, com um cupom que vale em todo o site e soma com as promoções.",
           "Não vale para quem precisa evitar lactose: as pastas, o whey, a Doctor Bar Avelã e o wafer Avelã declaram que contêm, e a loja não tem versão sem lactose; no alfajor, confira a embalagem.",
           "Não vale para quem precisa evitar glúten e quer o whey, a Doctor Bar Avelã ou o wafer Avelã, que dizem conter; o alfajor não publica aviso, então confira a embalagem. Só a pasta diz que não contém.",
-          "Não vale para quem quer uma resposta sobre dieta: o rótulo dá os números, e a resposta é do nutricionista."
+          "Não vale para quem procura produto sem polióis nem edulcorantes: a pasta leva maltitol, xilitol, sucralose e acessulfame de potássio."
         ],
         "emphasis": "Se é para conhecer a marca por um produto só, que seja a pasta: é onde o rótulo mostra tudo, do ingrediente ao poliol, e o whey e os snacks vêm depois."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, em todas as formas de pagamento, para cliente novo e antigo. Cole no campo \"Código\" do carrinho e clique em \"Adicionar\"; as regras estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
           "A pasta de amendoim Dr. Peanut é boa? Pelo rótulo, é uma pasta de amendoim com proteína do soro do leite, sem adição de açúcares e com polióis, que contém lactose e não contém glúten; o capítulo da pasta mostra as faixas por colher e por 100 g.",
           "Qual o melhor sabor da Dr. Peanut? Pelo rótulo, depende do que você procura: Avelã e Leite em Pó têm mais proteína por 100 g, e o Brownie tem menos açúcar com menos poliol; o preço é o mesmo em todos os sabores do mesmo tamanho.",
           "O whey da Dr. Peanut é bom? Pelo rótulo, é um whey concentrado com 20 g de proteína por dose de 40 g, nos 5 sabores, e contém glúten e lactose; a conta por 100 g de proteína está em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium).",
-          "Dr. Peanut é boa para dieta? O rótulo não responde isso: ele mostra as calorias, os açúcares e a gordura de cada porção, e quem encaixa o produto no seu plano é o nutricionista.",
-          "Tem pasta Dr. Peanut zero lactose? Não: os 12 sabores dizem \"contém lactose\", e a loja não vende versão sem lactose."
+          "Dr. Peanut é boa para dieta? O rótulo não responde isso: ele mostra as calorias, os açúcares e a gordura de cada porção, e o capítulo de dieta traz os números por produto.",
+          "Tem pasta Dr. Peanut zero lactose? Não: os 10 sabores dizem \"contém lactose\", e a loja não vende versão sem lactose."
         ]
       }
     ],
@@ -195614,7 +196081,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Você precisa evitar lactose: as pastas, o whey, a Doctor Bar Avelã e o wafer Avelã declaram que contêm, e a loja não tem versão sem lactose; no alfajor, confira a embalagem.",
         "Você precisa evitar glúten e quer o whey, a Doctor Bar Avelã ou o wafer Avelã, que dizem conter: só a pasta diz que não contém, e o alfajor não publica aviso.",
-        "Você quer saber se cabe na sua dieta: o rótulo dá os números, e a resposta é do nutricionista."
+        "Você quer produto sem polióis nem edulcorantes: a pasta leva maltitol, xilitol, sucralose e acessulfame de potássio."
       ]
     },
     "cta": {
@@ -195634,7 +196101,7 @@ export const reviewsData: unknown[] = [
         "slug": "dr-peanut-qual-tamanho-compensa"
       },
       {
-        "slug": "dr-peanut-reclame-aqui-nota-reputacao"
+        "slug": "cupom-dr-peanut-como-usar"
       }
     ]
   },
@@ -207428,7 +207895,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no whey Dr. Peanut, que a Max Titanium também vende. Veja sabores e preço por 100 g nas duas lojas.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa-v2.webp",
@@ -207439,7 +207906,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O 100% Whey Dr. Peanut é o mesmo pote na Dr. Peanut e na Max Titanium, com os mesmos cinco sabores e o mesmo preço. O que muda é o cupom: na Dr. Peanut, o DREMCASACOMCECILIA dá 10% e soma com o Pix; na Max, o código dela também funciona, mas o percentual varia por produto."
+          "O 100% Whey Dr. Peanut é o mesmo pote na Dr. Peanut e na Max Titanium, com os mesmos cinco sabores e o mesmo preço. Na Dr. Peanut, o [cupom DREMCASACOMCECILIA](/cupons/dr-peanut) dá 10% OFF e soma com o Pix; na Max, o código dela também funciona, mas o percentual varia por produto."
         ]
       },
       {
@@ -207454,12 +207921,20 @@ export const reviewsData: unknown[] = [
           "O que decide aqui é o aviso de glúten e lactose, não a proteína: o pote contém os dois, e quem precisa evitar um deles não compra em loja nenhuma. Quem tem intolerância a um dos dois decide com médico ou nutricionista.",
           "A loja informa: a porção é de 40 g, dois dosadores, com 20 g de proteína, 162 kcal, 8,5 g de açúcares totais (0,1 g adicionados), 3,1 g de gordura e 112 mg de sódio. A proteína é concentrada do soro do leite (WPC), com amendoim torrado e granulado, cacau, sal, lecitina de soja, gomas, corante caramelo IV e sucralose.",
           "É nos alérgenos que as páginas divergem. As duas dizem que contém amendoim e leite. A da Dr. Peanut diz que contém soja também, e que pode conter trigo, centeio, cevada, aveia, castanhas, nozes e ovo; a da Max diz que a soja e o ovo só podem estar. Confira a embalagem que chegar."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/whey/whey-dr-peanut.webp",
+          "alt": "Pote de 900 g do 100% Whey Dr. Peanut - Max Titanium, em foto oficial da marca",
+          "caption": "100% Whey Dr. Peanut - Max Titanium, pote de 900 g, vendido no site da Dr. Peanut. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.drpeanut.com.br/whey-dr-peanut/p"
+        }
       },
       {
         "heading": "Os cinco sabores",
         "paragraphs": [
-          "As duas lojas tinham os cinco sabores, Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos pelo mesmo preço. No rótulo, eles mudam pouco: os açúcares totais ficam entre 8,5 g e 11 g por dose, e a Paçoca, que não existe na pasta, tem o dobro de sódio dos outros. A comparação de sabores da pasta está em [Dr. Peanut: qual o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
+          "As duas lojas tinham os cinco sabores, [Avelã](https://www.drpeanut.com.br/whey-dr-peanut/p), [Bueníssimo](https://www.drpeanut.com.br/100--whey-dr--peanut---max-titanium-buenissimo/p), [Paçoca](https://www.drpeanut.com.br/whey-dr-peanut-pacoca/p), [Bombom Italiano](https://www.drpeanut.com.br/whey-dr-peanut-bombom-italiano/p) e [Doce de Leite](https://www.drpeanut.com.br/whey-dr-peanut-doce-de-leite/p), todos pelo mesmo preço. No rótulo, eles mudam pouco: os açúcares totais ficam entre 8,5 g e 11 g por dose, e a Paçoca, que não existe na pasta, tem o dobro de sódio dos outros. A comparação de sabores da pasta está em [Dr. Peanut: qual o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
         ],
         "images": [
           {
@@ -207493,23 +207968,38 @@ export const reviewsData: unknown[] = [
               "10%: R$ 201,95 o pote, R$ 44,88 por 100 g de proteína"
             ],
             [
-              "[100% Whey Dr. Peanut, pote 900 g](https://www.maxtitanium.com.br/100-whey-dr-peanut/p)",
+              "100% Whey Dr. Peanut, pote 900 g",
               "Max Titanium",
               "R$ 224,39",
               "R$ 49,86",
               "Até 10%, e o valor muda por produto: aparece no carrinho"
             ]
           ],
-          "caption": "Preço de venda de 05/11, igual nas duas lojas e nos cinco sabores. Proteína pelo rótulo: 20 g por dose de 40 g."
+          "caption": "Preço de venda de 22/11, igual nas duas lojas e nos cinco sabores. Proteína pelo rótulo: 20 g por dose de 40 g."
         },
         "postParagraphs": [
           "Conta nossa, pelo rótulo e pelo preço da tabela: o pote de 900 g dá 22,5 doses de 40 g, 450 g de proteína, e o preço do pote dividido por 4,5 é o valor por 100 g. Sem cupom, a dose sai a R$ 9,97; com 10%, o pote cai para R$ 201,95 e a dose, para R$ 8,98. O Pix fica fora da conta: o desconto dele aparece só no carrinho."
-        ]
+        ],
+        "links": [
+          {
+            "label": "Ver o whey na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/whey-protein",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-whey-avela.webp",
+          "alt": "Pote de 900 g do 100% Whey Dr. Peanut - Max Titanium sabor Avelã, em foto oficial",
+          "caption": "100% Whey Dr. Peanut - Max Titanium sabor Avelã, pote de 900 g. Imagem: Dr. Peanut.",
+          "objectFit": "square",
+          "aspectRatio": 1,
+          "href": "https://www.drpeanut.com.br/whey-dr-peanut/p"
+        }
       },
       {
         "heading": "Cupom e Pix em cada loja",
         "paragraphs": [
-          "Na Dr. Peanut, o cupom DREMCASACOMCECILIA dá 10% em todo o site, e no checkout deste whey ele funcionou e somou com o Pix. A linha do desconto aparece no carrinho antes de pagar.",
+          "Na Dr. Peanut, o cupom DREMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento. Cole o código no campo “Código” do carrinho e clique em “Adicionar”: no checkout deste whey ele funcionou e somou com o Pix, que dá 3% sobre o valor já com o cupom. A linha do desconto aparece no carrinho antes de pagar.",
           "Na Max Titanium, o cupom MAX10EMCASACOMCECILIA também funciona neste pote. Ele dá até 10%, e o percentual muda de produto para produto, então o valor certo aparece no carrinho. Mesmo com percentuais diferentes, Pix e frete podem mudar o total de cada pedido. Antes de fechar, ponha o pote nos dois carrinhos com o cupom de cada uma e compare o total.",
           "O Pix é desconto da própria loja, e cada uma tem o seu. O valor de cada um aparece na tela de pagamento. As regras dos códigos estão em [cupom Dr. Peanut](/cupons/dr-peanut) e [cupons da Max Titanium](/cupons/max-titanium)."
         ]
@@ -207536,6 +208026,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site da Dr. Peanut, whey incluído. Cole o código no campo “Código” do carrinho e clique em “Adicionar”; as regras estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
           "O whey Dr. Peanut é da Max Titanium? O pote leva as duas marcas: a página do produto o apresenta como criação da Max Titanium em parceria com a Dr. Peanut, e as duas marcas são do mesmo grupo.",
           "Quais sabores tem o whey Dr. Peanut? Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, nas duas lojas e pelo mesmo preço. Confira sabores e valores atuais na loja.",
           "O cupom DREMCASACOMCECILIA soma com o Pix? Sim: no checkout do whey, o cupom funcionou e somou com o desconto no Pix da Dr. Peanut.",
@@ -208329,6 +208820,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o cupom PRO10EMCASACOMCECILIA, até 10% OFF na Probiótica. 100% Pure, Zero Lactose, Hiper e Iso Pro comparados por dose e preço por 100 g de proteína.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/whey-probiotica-qual-escolher-capa-v2.webp",
@@ -208337,26 +208829,18 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "decision": {
       "takeIf": [
-        "Considere o Hiper se o preço atual mantiver a vantagem por proteína da tabela e a porção de 40 g atender ao que você procura.",
-        "Leve o Zero Lactose se você procura um whey com a lactose declarada como ausente no rótulo, lembrando que o aviso cita derivados de leite.",
-        "Considere o Iso Pro se você procura mais proteína por porção entre os cinco itens comparados e aceita seu custo, o maior por grama nos preços da tabela."
+        "Você quer pagar menos por proteína e o Hiper segue em promoção na hora da compra: é o menor custo por proteína da tabela.",
+        "Você procura um whey com lactose declarada como ausente no rótulo: o Zero Lactose, que ainda lista derivados de leite no aviso.",
+        "Você quer mais proteína por porção de 30 g e aceita o custo por grama mais alto: o Iso Pro."
       ],
       "skipIf": [
-        "Passe no Hiper se ele estiver no preço de lista: nesse caso, o Zero Lactose e o refil custam menos por proteína.",
-        "Passe no Iso Pro se sua prioridade for o menor custo por proteína e os preços seguirem os da tabela: ele custa mais por grama entre os cinco itens."
+        "O Hiper voltou ao preço de lista: nesse caso, o Zero Lactose e o refil do Pure custam menos por proteína.",
+        "Você evita lactose: o Iso Pro declara lactose e não é a escolha.",
+        "Você já tem o pote do Pure em casa: o refil dá a mesma proteína por porção e custa menos."
       ]
     },
-    "pros": [
-      "Tabela nutricional de cada pote na página da loja, com a dose e a proteína por porção",
-      "Três opções ficaram abaixo de R$ 40 por 100 g de proteína nos preços de venda da tabela",
-      "Zero Lactose com a lactose declarada como ausente no rótulo",
-      "Cupom de até 10% que soma com as promoções do site"
-    ],
-    "cons": [
-      "O aviso do Zero Lactose cita derivados de leite",
-      "Na tabela, o Hiper perde a liderança de custo por proteína quando se usa seu preço de lista",
-      "O Iso Pro tem o maior custo por proteína entre as cinco opções comparadas"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% de desconto no site da Probiótica. Confira o desconto de cada item antes de pagar.",
       "label": "Ir para a Probiótica com o cupom",
@@ -208379,9 +208863,9 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Resposta rápida: qual whey da Probiótica comprar",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços da tabela, o Hiper tem o menor custo por proteína com a promoção registrada. Zero Lactose declara ausência de lactose; Iso Pro tem mais proteína por porção entre os cinco itens. O preço de lista do Hiper muda a escolha, e no site oficial o PRO10EMCASACOMCECILIA dá até 10% OFF."
+          "Nos preços da tabela, o Hiper tem o menor custo por proteína com a promoção registrada. O Zero Lactose declara ausência de lactose, e o Iso Pro tem mais proteína por porção. O [cupom Probiótica](/cupons/probiotica) PRO10EMCASACOMCECILIA dá até 10% OFF, mas o preço de lista do Hiper muda a escolha."
         ]
       },
       {
@@ -208397,7 +208881,7 @@ export const reviewsData: unknown[] = [
           "Conta nossa: proteína estimada na embalagem = peso ÷ porção × proteína declarada por porção. O preço por 100 g de proteína = preço ÷ proteína estimada na embalagem × 100. Quanto menor o resultado, menor o custo por proteína declarada."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda em 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando diferente. Porção e proteína declarada vêm das tabelas nutricionais: a conta usa 20 g para Pure pote e refil e 21 g para Zero Lactose, por porção de 30 g. O total de proteína por embalagem é estimado.",
+          "caption": "Preços de venda em 22 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando diferente. Porção e proteína declarada vêm das tabelas nutricionais: a conta usa 20 g para Pure pote e refil e 21 g para Zero Lactose, por porção de 30 g. O total de proteína por embalagem é estimado.",
           "headers": [
             "Produto",
             "Porção: proteína declarada",
@@ -208451,7 +208935,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "100% Pure Whey: pote ou refil",
         "paragraphs": [
-          "Pote e refil do Pure têm a mesma proteína declarada por porção na tabela. O refil custa R$ 16,84 menos por embalagem de 900 g; compare o mesmo sabor e o preço atual antes de escolher.",
+          "Pote e refil do Pure têm a mesma proteína declarada por porção na tabela. O [refil de 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) custa R$ 16,84 menos que o [pote](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi); compare o mesmo sabor e o preço atual antes de escolher.",
           "A embalagem fotografada declara 21 g de proteína por porção, enquanto a tabela nutricional usada na conta declara 20 g: confira a embalagem que chegar.",
           "Serve para quem quer um concentrado comum e aceita a lactose que o rótulo declara."
         ],
@@ -208462,12 +208946,24 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 0.595,
           "href": "https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
-        }
+        },
+        "links": [
+          {
+            "label": "Ver o 100% Pure Whey refil na Probiótica",
+            "href": "https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o 100% Pure Whey pote na Probiótica",
+            "href": "https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Zero Lactose: o que o rótulo declara",
         "paragraphs": [
-          "O que decide o Zero Lactose é a declaração de lactose. A loja informa: \"lactose: não contém\" na página do produto.",
+          "O que decide o [Zero Lactose](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) é a declaração de lactose. A loja informa: \"lactose: não contém\" na página do produto.",
           "O aviso de alergênicos, porém, cita derivados de leite. Sem lactose não é sem leite, e quem tem intolerância à lactose decide com médico ou nutricionista.",
           "A embalagem fotografada declara 22 g de proteína por porção, enquanto a tabela nutricional usada na conta declara 21 g: confira a embalagem que chegar.",
           "Serve para quem procura um whey com ausência de lactose declarada. Entre os cinco itens da tabela, o Iso Pro tem mais proteína por porção, mas declara lactose."
@@ -208479,33 +208975,74 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.7778,
           "href": "https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
-        }
+        },
+        "links": [
+          {
+            "label": "Ver o Zero Lactose na Probiótica",
+            "href": "https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Hiper 100% Whey: a dose de 40 g e a promoção",
         "paragraphs": [
-          "A porção do Hiper é a maior da tabela, e o rótulo declara lactose. Havia baunilha esgotada; chocolate, cookies & cream e morango tinham estoque. Confira o sabor disponível antes de comprar.",
+          "A porção do [Hiper](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) é a maior da tabela, e o rótulo declara lactose. Confira o sabor disponível antes de comprar.",
           "O Hiper pode ser a escolha pelo custo se a oferta atual mantiver a vantagem por proteína da tabela. Com o preço de lista registrado, ele perde essa vantagem para o Zero Lactose e o refil."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-hiper-whey-900g.webp",
+            "alt": "Pote azul do Hiper 100% Whey da Probiótica, 900 g, sabor chocolate, em foto oficial de frente.",
+            "caption": "Hiper 100% Whey de 900 g. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Hiper 100% Whey na Probiótica",
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Iso Pro: proteína por porção entre as opções comparadas",
         "paragraphs": [
-          "O Iso Pro usa proteína isolada do soro do leite (WPI). Entre os cinco itens da tabela, tem mais proteína declarada por porção, mesmo com uma porção menor que a do Hiper.",
+          "O [Iso Pro](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) usa proteína isolada do soro do leite (WPI). Entre os cinco itens da tabela, tem mais proteína declarada por porção, mesmo com uma porção menor que a do Hiper.",
           "A página diz que contém lactose, e o aviso cita derivados de leite e soja. Não é a opção para quem evita lactose.",
           "Serve para quem procura mais proteína em uma porção de 30 g e aceita o custo por grama, o maior entre os cinco itens nos preços comparados."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/whey/probiotica-iso-pro-baunilha.webp",
+            "alt": "Pote azul do Iso Pro Whey da Probiótica, 900 g, sabor baunilha, em foto oficial de frente.",
+            "caption": "Iso Pro Whey de 900 g, sabor baunilha. Imagem: Probiótica.",
+            "objectFit": "contain",
+            "aspectRatio": 0.602,
+            "href": "https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+          }
+        ],
+        "links": [
+          {
+            "label": "Ver o Iso Pro Whey na Probiótica",
+            "href": "https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Cupom PRO10EMCASACOMCECILIA: até 10%, por produto",
         "paragraphs": [
-          "O cupom PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica, e o percentual varia por produto. O valor de cada item aparece no carrinho, no campo Cupom de Desconto.",
-          "No teste no carrinho, ele funcionou no 100% Pure Whey e no Hiper em promoção, e somou com o Pix. Ele também soma com as promoções da loja. As regras estão em [cupom Probiótica](/cupons/probiotica)."
+          "O cupom PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica, em todas as formas de pagamento, e o percentual varia por produto. Cole o código no campo \"Cupom de Desconto\" do carrinho e clique em \"Adicionar\": o valor de cada item aparece na linha \"Descontos\".",
+          "Nos testes de novembro, o Hiper em promoção recebeu 7% e os demais wheys, 2%. O cupom soma com as promoções da loja e com o desconto do Pix. As regras estão em [cupom Probiótica](/cupons/probiotica)."
         ]
       },
       {
         "heading": "Qual whey escolher",
-        "emphasis": "Pelos preços da tabela, o Hiper é a escolha para pagar menos por proteína enquanto a promoção durar: R$ 24,14 por 100 g com a promoção. Com o preço de lista dele e os demais preços iguais, o Zero Lactose lidera, a R$ 38,41 por 100 g. Confira os valores antes de comprar.",
+        "emphasis": "Entre os cinco wheys da tabela, o Hiper é a escolha para pagar menos por proteína enquanto a promoção durar, a R$ 24,14 por 100 g contra R$ 38,41 do Zero Lactose, o menor custo entre os potes sem promoção.",
         "bullets": [
           "Quer pagar menos por proteína: considere o Hiper se o preço atual mantiver a vantagem da tabela e sua porção atender ao que você procura.",
           "Quer um whey que o rótulo declara sem lactose: Zero Lactose, com o aviso de derivados de leite.",
@@ -208516,13 +209053,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial, em todas as formas de pagamento. Cole o código no campo \"Cupom de Desconto\" do carrinho; as condições estão na [página do cupom da Probiótica](/cupons/probiotica).",
           "O whey da Probiótica é bom? O rótulo sozinho não comprova qualidade. Para escolher entre estes cinco itens, compare a proteína declarada por porção, a lactose e o custo por proteína na tabela.",
           "O 100% Pure Whey é concentrado? É: o rótulo e a descrição da loja dizem proteína concentrada do soro do leite (WPC), e o produto contém lactose.",
           "O Zero Lactose serve para quem tem intolerância? O rótulo declara lactose não contém, e o aviso cita derivados de leite. O capítulo do Zero Lactose mostra o que a embalagem diz.",
           "O Iso Pro é zero lactose? Não: a página diz que contém lactose, e o aviso cita derivados de leite e soja.",
           "O Hiper é concentrado? É: proteína concentrada do soro do leite, em dose de 40 g, e o rótulo diz que contém lactose.",
-          "O cupom dá 10% em tudo? Não: o PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. O carrinho mostra o valor de cada item.",
-          "A Probiótica é confiável? Sim: loja operada pela Supley, CNPJ ativo e reputação Boa no Reclame Aqui. Os detalhes estão no [guia de confiabilidade da Probiótica](/reviews/probiotica-e-confiavel)."
+          "O cupom dá 10% em todo whey? Não: o percentual varia por produto. Nos testes de novembro, o Hiper em promoção recebeu 7% e os demais wheys, 2%; o carrinho mostra o valor de cada item."
         ]
       }
     ]
@@ -234050,7 +234587,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na Probiótica, use PRO10EMCASACOMCECILIA: até 10% OFF no site oficial, conforme o produto. O mesmo código vale para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/cupom-probiotica-primeira-compra-capa-v2.webp",
@@ -234073,10 +234610,10 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-probiotica-como-usar"
       },
       {
-        "slug": "probiotica-e-confiavel"
+        "slug": "black-friday-probiotica"
       },
       {
-        "slug": "probiotica-reclame-aqui-nota-reputacao"
+        "slug": "whey-probiotica-qual-escolher"
       }
     ],
     "contentSections": [
@@ -234089,8 +234626,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Probiótica primeira compra: qual usar",
         "paragraphs": [
-          "A Probiótica é uma marca de suplementos, com produtos como whey, creatina e barras na loja oficial. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
-          "Use o PRO10EMCASACOMCECILIA: até 10% OFF no site oficial. O desconto é por produto, com teto de 10%, e vale no primeiro pedido e nos seguintes.",
+          "A Probiótica é uma marca de suplementos, com produtos como whey, creatina e barras na loja oficial.",
+          "Use o PRO10EMCASACOMCECILIA: até 10% OFF no site oficial, em todas as formas de pagamento. O desconto é por produto, com teto de 10%, e vale no primeiro pedido e nos seguintes: cliente novo e cliente antigo usam o mesmo código.",
           "É o [cupom Probiótica](/cupons/probiotica) da nossa parceria com a marca, testado no carrinho. O resumo do pedido mostra o desconto aplicado em cada item."
         ]
       },
@@ -234109,27 +234646,27 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "São Paulo (capital)",
-              "R$ 104,00"
+              "R$ 104"
             ],
             [
               "Sudeste",
-              "R$ 134,00"
+              "R$ 134"
             ],
             [
               "Centro-Oeste",
-              "R$ 204,00"
+              "R$ 204"
             ],
             [
               "Sul",
-              "R$ 249,00"
+              "R$ 249"
             ],
             [
               "Nordeste",
-              "R$ 299,00"
+              "R$ 299"
             ],
             [
               "Norte",
-              "R$ 599,00"
+              "R$ 599"
             ]
           ]
         },
@@ -234165,7 +234702,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Conta nossa, pelos valores do teste: o código tirou 7% do preço em promoção. Numa creatina a preço cheio, no mesmo teste, o percentual foi menor. É por isso que o desconto é “até 10%”: o carrinho mostra quanto cada item recebeu.",
+          "Conta nossa, pelos valores do teste: o código tirou 7% do preço em promoção. Nas creatinas, nos testes de novembro, o percentual foi de 2%. É por isso que o desconto é “até 10%”: o carrinho mostra quanto cada item recebeu.",
           "Antes do Pix, o preço desse whey supera o mínimo para São Paulo capital, mas não o do restante do Sudeste. O código soma com o desconto do Pix; confira no pagamento se o valor final atende ao mínimo da sua região e qual modalidade de envio oferece a isenção."
         ],
         "images": [
@@ -234176,12 +234713,13 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
           }
-        ]
-      },
-      {
-        "heading": "E na segunda compra?",
-        "paragraphs": [
-          "Quem já comprou também pode usar PRO10EMCASACOMCECILIA, com até 10% de desconto por produto. O percentual depende do item; cliente novo e antigo usam o mesmo código para comprar no site oficial."
+        ],
+        "links": [
+          {
+            "label": "Ver o Hiper 100% Whey na Probiótica",
+            "href": "https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -234190,7 +234728,7 @@ export const reviewsData: unknown[] = [
           "O código vai no carrinho, antes do pagamento:"
         ],
         "bullets": [
-          "Coloque os produtos no carrinho do site oficial da Probiótica.",
+          "Coloque os produtos no carrinho do [site oficial da Probiótica](https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi).",
           "No campo “Cupom de Desconto”, cole PRO10EMCASACOMCECILIA, sem espaços, e aplique.",
           "Confira a linha de descontos e o frete. Só depois pague."
         ],
@@ -234204,15 +234742,35 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.021
       },
       {
+        "heading": "Vale usar o código na primeira compra",
+        "paragraphs": [
+          "O código não pede cadastro novo nem primeira compra: vale para conta nova e antiga, soma com as promoções e com o Pix e não custa nada aplicar. O que muda de pedido para pedido é o percentual de cada item e o frete, e os dois aparecem no resumo antes do pagamento."
+        ],
+        "emphasis": "Na primeira compra e nas seguintes vale colar o PRO10EMCASACOMCECILIA no carrinho, desde que você confira a linha Descontos e o frete antes de pagar."
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como conseguir desconto na primeira compra na Probiótica? O PRO10EMCASACOMCECILIA dá até 10% no site oficial, no primeiro pedido e nos seguintes.",
+          "Qual é o cupom da Probiótica? É o PRO10EMCASACOMCECILIA, com até 10% OFF no site oficial, em todas as formas de pagamento. Cole o código no campo \"Cupom de Desconto\" do carrinho; as condições estão na [página do cupom da Probiótica](/cupons/probiotica).",
+          "Como conseguir desconto na primeira compra na Probiótica? Com esse mesmo código, aplicado no carrinho do site oficial, no primeiro pedido e nos seguintes. O percentual de cada item aparece na linha de descontos.",
           "Qual cupom Probiótica vale para quem já é cliente? O mesmo PRO10EMCASACOMCECILIA, com o mesmo teto de 10%.",
           "O cupom Probiótica soma com o Pix e com as promoções? Sim, com os dois. O percentual do código varia por produto; o exemplo está no capítulo da conta.",
           "O cupom Probiótica vale no Mercado Livre? Não. Ele vale só no site oficial da Probiótica."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai fazer o primeiro pedido na Probiótica e quer o código certo antes de pagar.",
+        "Você já comprou lá e quer saber se o mesmo código serve de novo: serve.",
+        "O total do carrinho passa do mínimo de frete grátis da sua região mesmo depois do cupom."
+      ],
+      "skipIf": [
+        "O pedido fica logo acima do mínimo de frete grátis e o cupom o derrubaria abaixo dele: confira o frete antes de pagar.",
+        "Você quer o produto no Mercado Livre, onde o código não vale.",
+        "Você espera 10% cheio em todo produto: o percentual varia por item."
+      ]
+    }
   },
   {
     "id": 914,
@@ -235478,7 +236036,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut na primeira compra. O mesmo código vale para quem já comprou e soma com as promoções.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-22",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/cupom-dr-peanut-primeira-compra-capa-v2.webp",
@@ -235501,10 +236059,10 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-dr-peanut-como-usar"
       },
       {
-        "slug": "dr-peanut-e-confiavel"
+        "slug": "dr-peanut-qual-tamanho-compensa"
       },
       {
-        "slug": "dr-peanut-qual-tamanho-compensa"
+        "slug": "black-friday-dr-peanut"
       }
     ],
     "contentSections": [
@@ -235517,9 +236075,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom Dr. Peanut primeira compra: qual usar",
         "paragraphs": [
-          "A Dr. Peanut vende pastas de amendoim e snacks, como barras, alfajores e wafers. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Dr. Peanut é confiável?](/reviews/dr-peanut-e-confiavel).",
-          "Use o DREMCASACOMCECILIA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes.",
-          "É o [cupom Dr. Peanut](/cupons/dr-peanut) da nossa parceria com a marca, testado no carrinho. Pasta, wafer ou kit: o código é o mesmo."
+          "A [Dr. Peanut](https://www.drpeanut.com.br/) vende pastas de amendoim e snacks, como barras, alfajores e wafers, e o primeiro pedido usa o mesmo código de qualquer outro.",
+          "Use o DREMCASACOMCECILIA: 10% OFF em todos os produtos do site oficial, com todas as formas de pagamento. Ele vale no primeiro pedido e nos seguintes, também na assinatura de pastas, onde soma com o desconto progressivo, e soma com os 3% do Pix no checkout.",
+          "É o [cupom Dr. Peanut](/cupons/dr-peanut) da nossa parceria com a marca, testado no carrinho. [Pasta](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p), [wafer](https://www.drpeanut.com.br/doctor-wafer-avela-un/p) ou kit: o código é o mesmo."
+        ],
+        "links": [
+          {
+            "label": "Ir para a Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -235579,12 +236144,6 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "E na segunda compra?",
-        "paragraphs": [
-          "O DREMCASACOMCECILIA vale de novo para quem já comprou, com os mesmos 10%. Na assinatura de pastas da loja, o código também entra e soma com o desconto progressivo."
-        ]
-      },
-      {
         "heading": "Onde colar o código",
         "paragraphs": [
           "O código vai no carrinho do site oficial, que abre também no navegador do celular:"
@@ -235601,19 +236160,44 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Resumo do carrinho da Dr. Peanut depois do cupom: código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ 44,02 e Total de R$ 396,14.",
         "imageCaption": "O código aplicado no carrinho da Dr. Peanut, em outro pedido de teste: os 10% aparecem na linha “Descontos”.",
         "imageFit": "contain",
-        "imageAspectRatio": 1.042
+        "imageAspectRatio": 1.042,
+        "links": [
+          {
+            "label": "Ver a pasta de Avelã na Dr. Peanut",
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Vale usar o cupom na primeira compra?",
+        "paragraphs": [
+          "O código tira 10% do pedido inteiro e vale também nas compras seguintes, então não há motivo para guardá-lo para depois. O ponto de atenção é o frete grátis: como o mínimo conta depois do desconto, um carrinho justo pode perder a isenção, como o das seis pastas acima."
+        ],
+        "emphasis": "Na primeira compra, o DREMCASACOMCECILIA vale em qualquer carrinho da Dr. Peanut, desde que o total depois do desconto continue acima do mínimo de frete grátis da sua região."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como conseguir desconto na primeira compra na Dr. Peanut? O DREMCASACOMCECILIA dá 10% em todo o site oficial, no primeiro pedido e nos seguintes.",
+          "Qual é o cupom da Dr. Peanut? É o DREMCASACOMCECILIA, com 10% OFF em todo o site oficial da Dr. Peanut. Cole o código no campo “Código” do carrinho e clique em “Adicionar”; as condições estão na [página do cupom Dr. Peanut](/cupons/dr-peanut).",
+          "Como conseguir desconto na primeira compra na Dr. Peanut? Use o DREMCASACOMCECILIA: 10% em todo o site oficial, no primeiro pedido e nos seguintes, em todas as formas de pagamento.",
           "Qual cupom Dr. Peanut vale para quem já é cliente? O mesmo DREMCASACOMCECILIA, com os mesmos 10%.",
           "O cupom Dr. Peanut soma com produto em promoção? Sim. Os 10% entram sobre o preço promocional.",
           "O cupom Dr. Peanut vale no Mercado Livre? Não. Ele vale no site oficial da Dr. Peanut.",
           "Quanto é o frete grátis da Dr. Peanut? A partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas outras regiões, pela regra da loja. O mínimo conta depois do desconto do código."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai fazer o primeiro pedido na Dr. Peanut e quer 10% OFF em todo o site, em todas as formas de pagamento",
+        "Você já é cliente e quer saber se o mesmo código vale de novo"
+      ],
+      "skipIf": [
+        "Você pretende comprar pelo Mercado Livre, onde o código não vale",
+        "Você tem um carrinho colado no mínimo de frete grátis e o desconto pode tirar a isenção"
+      ]
+    }
   },
   {
     "id": 923,
