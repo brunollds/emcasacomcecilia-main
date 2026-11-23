@@ -75,7 +75,7 @@
         {
           "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
           "alt": "SHEIN page opened by searching 4CW5Y, titled \"Acho que você pode gostar\" (\"I think you might like\"), with items marked with a discount badge",
-          "caption": "Page opened by searching for 4CW5Y. The screenshot is in Portuguese, with prices in reais.",
+          "caption": "Page opened by searching for 4CW5Y. The screenshot is from another country's site, so the prices shown may differ from yours.",
           "objectFit": "contain",
           "aspectRatio": 0.7581
         }
@@ -101,7 +101,8 @@
       "paragraphs": [
         "For later orders, the code is the same: 4CW5Y keeps working as a referral code.",
         "The page opens even without logging in: the code does not depend on it being your first order."
-      ]
+      ],
+      "emphasis": "I would not wait for a first-order code: 4CW5Y opens SHEIN's selection on any order, and it is where I start, on the first one and the later ones."
     },
     {
       "heading": "Where to search the code",
@@ -126,5 +127,15 @@
         "Does 4CW5Y work on the website and in the app? Yes, on both: the search in the app and on the website open the code's page."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "You are placing your first SHEIN order and want to reach a selection of promotions and discounts through search, without pasting anything in the cart.",
+      "You have ordered before and want to know if the code still works: it does, and the page opens even without logging in."
+    ],
+    "skipIf": [
+      "You are looking for a coupon to paste at checkout: 4CW5Y does not do that, and checkout coupons live in your account's coupons area and on our SHEIN coupon page.",
+      "You want to know the exact discount before opening the page: how much and on which pieces is up to SHEIN."
+    ]
+  }
 }

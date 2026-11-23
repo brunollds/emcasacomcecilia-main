@@ -32,7 +32,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "El código de referido de SHEIN sí da descuento. Abre SHEIN con el enlace de Cecília y busca 4CW5Y en el buscador de la tienda, en la app o en el sitio, y no en el campo de cupón: el código abre una página especial con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN, y varía."
+        "El código de referido de SHEIN sí da descuento. Abre SHEIN con el enlace de Cecília o copia 4CW5Y y búscalo en el buscador de la tienda, en la app o en el sitio, no en el campo de cupón. Abre una página con productos, promociones y descuentos; cuánto y en qué prendas lo decide SHEIN."
       ]
     },
     {
@@ -85,9 +85,7 @@
           "href": "/es/coupons/shein"
         }
       ],
-      "postParagraphs": [
-        "Las compras realizadas a través del enlace o del código pueden generar una comisión para quien lo compartió, sin costo extra para ti."
-      ]
+      "emphasis": "Trato el 4CW5Y como la puerta de entrada a las promociones de SHEIN, no como un cupón: el descuento de cada prenda lo muestra la página que abre."
     },
     {
       "heading": "Por qué las guías antiguas, con el cupón del programa antiguo, ya no valen",
@@ -133,6 +131,19 @@
     },
     {
       "slug": "black-friday-shein-fechas-impuestos"
+    },
+    {
+      "slug": "cupon-shein-primera-compra"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Vas a comprar en SHEIN y quieres llegar a la selección de promociones y descuentos desde el buscador, sin ir tras un cupón.",
+      "Quieres el paso a paso con capturas de dónde escribir el código en la app o en el sitio."
+    ],
+    "skipIf": [
+      "Buscas un cupón para pegar en el carrito: el código de referido va en el buscador, no en el campo de cupón.",
+      "Quieres tener un código propio para compartir: el tuyo sale del programa de afiliados de SHEIN, con registro y requisitos."
+    ]
+  }
 }

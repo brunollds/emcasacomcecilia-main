@@ -19,7 +19,7 @@
   "metaDescription": "SHEIN est-il fiable et sûr ? Qui l'exploite en France, d'où vient l'entreprise, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
   "publishedAt": "13 octobre 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -106,9 +106,9 @@
       ]
     },
     {
-      "heading": "Partenariat et code de parrainage",
+      "heading": "Comment utiliser le code de parrainage 4CW5Y",
       "paragraphs": [
-        "Cet article est éditorial, et Cecília est affiliée à SHEIN : les achats faits via ses liens peuvent générer une commission, sans frais pour vous. Le 4CW5Y est le code de parrainage de Cecília pour SHEIN, et il donne bien une réduction : ouvrez SHEIN via son lien, copiez le code et cherchez-le dans l'appli ou sur le site de SHEIN : une page s'ouvre avec une sélection de produits, de promotions et de réductions. Combien et sur quelles pièces, c'est SHEIN qui décide, et cela varie. Le code ne va pas dans le champ des coupons."
+        "Le 4CW5Y est le code de parrainage de Cecília pour SHEIN, et il donne bien une réduction : ouvrez SHEIN via son lien, ou copiez le code et cherchez-le dans l'appli ou sur le site de SHEIN. Une page s'ouvre avec une sélection de produits, de promotions et de réductions. Combien et sur quelles pièces, c'est SHEIN qui décide, et cela varie. Le code ne va pas dans le champ des coupons."
       ],
       "links": [
         {
@@ -126,7 +126,8 @@
       "paragraphs": [
         "Oui, à condition d'acheter sur le site officiel de votre marché ou dans l'application officielle de SHEIN. Selon la politique de confidentialité du site, la société qui l'exploite en France est Infinite Styles Services Co., Limited (« ISSL »), et SHEIN dit ne pas vendre les données de ses clients.",
         "Avant de payer, vérifiez les frais et le délai de livraison sur la page de la commande, les taxes d'importation au paiement et le délai de retour, et gardez la confirmation de commande. Le délai de rétractation légal est de 14 jours à compter de la réception, et, selon la politique de SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après la réception."
-      ]
+      ],
+      "emphasis": "Pour un article qui peut attendre, SHEIN est une boutique sûre ; pour un cadeau ou une tenue à date fixe, je ne me fierais pas à l'estimation de livraison."
     },
     {
       "heading": "Questions fréquentes",
@@ -162,5 +163,15 @@
     {
       "slug": "code-de-parrainage-shein-ou-le-mettre"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "À choisir si vous achetez sur le site officiel de votre marché ou dans l'appli et vérifiez la livraison, les taxes d'importation et le délai de retour avant de payer.",
+      "À choisir si l'article n'a pas de date limite et que vous pouvez attendre la livraison."
+    ],
+    "skipIf": [
+      "À éviter si vous avez besoin de l'article pour une date précise, comme une fête ou un voyage.",
+      "À éviter si l'article a un délai de retour plus court et que vous hésitez sur la taille."
+    ]
+  }
 }

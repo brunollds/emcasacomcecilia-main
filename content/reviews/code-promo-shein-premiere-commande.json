@@ -75,7 +75,7 @@
         {
           "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
           "alt": "Page SHEIN ouverte après la recherche de 4CW5Y, avec le titre « Acho que você pode gostar » (« Je pense que vous pourriez aimer ») et des pièces avec un badge de réduction",
-          "caption": "Sélection ouverte en recherchant 4CW5Y. La capture est en portugais, avec des prix en réaux (R$).",
+          "caption": "Sélection ouverte en recherchant 4CW5Y. La capture vient du site d'un autre pays : les prix affichés peuvent différer des vôtres.",
           "objectFit": "contain",
           "aspectRatio": 0.7581
         }
@@ -101,7 +101,8 @@
       "paragraphs": [
         "Pour les commandes suivantes, le code est le même : le 4CW5Y reste valable comme code de parrainage.",
         "La page s'ouvre même sans connexion : le code ne dépend pas de la première commande."
-      ]
+      ],
+      "emphasis": "Je n'attendrais pas un code de première commande : le 4CW5Y ouvre la sélection de SHEIN à chaque commande, et c'est par lui que je commence, la première comme les suivantes."
     },
     {
       "heading": "Où rechercher le code",
@@ -126,5 +127,15 @@
         "Le 4CW5Y est-il valable sur le site et dans l'application ? Dans les deux : la recherche de l'application comme celle du site ouvrent la page du code."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Vous passez votre première commande SHEIN et voulez arriver à une sélection de promotions et de réductions par la recherche, sans rien coller dans le panier.",
+      "Vous avez déjà commandé et voulez savoir si le code fonctionne encore : oui, et la page s'ouvre même sans connexion."
+    ],
+    "skipIf": [
+      "Vous cherchez un code promo à coller au paiement : le 4CW5Y ne fait pas cela, et les codes promo de paiement se trouvent dans l'espace codes promo de votre compte et sur notre page code promo SHEIN.",
+      "Vous voulez connaître le montant exact de la réduction avant d'ouvrir la page : le montant et les pièces, c'est SHEIN qui les décide."
+    ]
+  }
 }

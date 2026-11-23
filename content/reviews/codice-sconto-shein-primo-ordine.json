@@ -75,7 +75,7 @@
         {
           "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
           "alt": "Pagina SHEIN aperta dalla ricerca di 4CW5Y, con il titolo \"Acho que você pode gostar\" (\"Penso che potrebbe piacerti\") e capi con il bollino di sconto",
-          "caption": "Selezione aperta cercando 4CW5Y. La schermata è in portoghese, con i prezzi in real (R$).",
+          "caption": "Selezione aperta cercando 4CW5Y. La schermata viene dal sito di un altro paese: i prezzi mostrati possono essere diversi dai tuoi.",
           "objectFit": "contain",
           "aspectRatio": 0.7581
         }
@@ -101,7 +101,8 @@
       "paragraphs": [
         "Per gli ordini successivi il codice è lo stesso: il 4CW5Y continua a valere come codice invito.",
         "La pagina si apre anche senza accesso: il codice non dipende dal fatto che sia il primo ordine."
-      ]
+      ],
+      "emphasis": "Non aspetterei un codice per il primo ordine: il 4CW5Y apre la selezione di SHEIN a ogni ordine, ed è da lì che parto, al primo e ai successivi."
     },
     {
       "heading": "Dove cercare il codice",
@@ -126,5 +127,15 @@
         "Il 4CW5Y vale sul sito e nell'app? Vale su entrambi: la ricerca dell'app e quella del sito aprono la pagina del codice."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Stai facendo il primo ordine su SHEIN e vuoi arrivare a una selezione di promozioni e sconti dalla ricerca, senza incollare nulla nel carrello.",
+      "Hai già ordinato e vuoi sapere se il codice vale ancora: vale, e la pagina si apre anche senza accesso."
+    ],
+    "skipIf": [
+      "Cerchi un coupon da incollare al pagamento: il 4CW5Y non lo fa, e i coupon del checkout stanno nell'area coupon del tuo account e nella nostra pagina coupon SHEIN.",
+      "Vuoi sapere lo sconto esatto prima di aprire la pagina: quanto e su quali capi lo decide SHEIN."
+    ]
+  }
 }

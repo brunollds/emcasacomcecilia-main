@@ -32,7 +32,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Il codice invito SHEIN dà sconto, sì. Apri SHEIN con il link di Cecília e cerca 4CW5Y nella ricerca del negozio, nell'app o nel sito, e non nel campo del coupon: il codice apre una pagina speciale con una selezione di prodotti, promozioni e sconti. Quanto e su quali capi lo decide SHEIN, e varia."
+        "Il codice invito SHEIN dà sconto, sì. Apri SHEIN con il link di Cecília oppure copia 4CW5Y e cercalo nella ricerca del negozio, nell'app o nel sito, non nel campo del coupon. Apre una pagina con prodotti, promozioni e sconti; quanto e su quali capi lo decide SHEIN."
       ]
     },
     {
@@ -85,9 +85,7 @@
           "href": "/it/coupons/shein"
         }
       ],
-      "postParagraphs": [
-        "Gli acquisti effettuati tramite il link o il codice possono generare una commissione per chi lo ha condiviso, senza costi aggiuntivi per te."
-      ]
+      "emphasis": "Considero il 4CW5Y la porta d'ingresso alle promozioni di SHEIN, non un coupon: lo sconto di ogni capo lo mostra la pagina che apre."
     },
     {
       "heading": "Perché le vecchie guide, con il coupon del vecchio programma, non valgono più",
@@ -133,6 +131,19 @@
     },
     {
       "slug": "black-friday-shein-date-e-tasse"
+    },
+    {
+      "slug": "codice-sconto-shein-primo-ordine"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Stai per comprare su SHEIN e vuoi arrivare alla selezione di promozioni e sconti dalla ricerca, senza cercare un coupon.",
+      "Vuoi la guida passo passo con le schermate di dove digitare il codice nell'app o nel sito."
+    ],
+    "skipIf": [
+      "Cerchi un coupon da incollare nel carrello: il codice invito va nella ricerca, non nel campo del coupon.",
+      "Vuoi un codice tuo da condividere: il tuo nasce dal programma di affiliazione di SHEIN, con registrazione e requisiti."
+    ]
+  }
 }
