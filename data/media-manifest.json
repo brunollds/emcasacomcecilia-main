@@ -116892,6 +116892,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/magalu/black-friday-magalu-air-fryer-mondial-afn-40-bf.webp",
+      "local_url": "/images/reviews/magalu/black-friday-magalu-air-fryer-mondial-afn-40-bf.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35862,
+      "sha256": "35264fdfc82db1644ef2486658d083ea261bc1dc2e1fb0db0afcdacd33e6c621",
+      "width": 1200,
+      "height": 904,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-magalu-air-fryer-mondial-afn-40-bf.webp",
+      "storage_filename": "black-friday-magalu-air-fryer-mondial-afn-40-bf.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-magalu.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-magalu.json",
+          "line": 251,
+          "column": 17,
+          "literal": "/images/reviews/magalu/black-friday-magalu-air-fryer-mondial-afn-40-bf.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 57684,
+          "column": 19,
+          "literal": "/images/reviews/magalu/black-friday-magalu-air-fryer-mondial-afn-40-bf.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/35264fdfc82db1644ef2486658d083ea261bc1dc2e1fb0db0afcdacd33e6c621/black-friday-magalu-air-fryer-mondial-afn-40-bf.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/35264fdfc82db1644ef2486658d083ea261bc1dc2e1fb0db0afcdacd33e6c621/black-friday-magalu-air-fryer-mondial-afn-40-bf.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T00:47:40.093Z",
+      "verification_etag_or_digest": "35264fdfc82db1644ef2486658d083ea261bc1dc2e1fb0db0afcdacd33e6c621",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/magalu/black-friday-magalu-capa-discover-v2.webp",
       "local_url": "/images/reviews/magalu/black-friday-magalu-capa-discover-v2.webp",
       "media_kind": "image",
@@ -118833,6 +118879,52 @@
       "uploaded_at": null,
       "verified_at": "2026-10-12T21:19:47.244Z",
       "verification_etag_or_digest": "4bb558006a9da56cd2a25d8f3289de8fa5357de7a68e1a0854a741a4a23b335d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/magalu/magazine-voce-vitrine-emcasacomcecilia-topo.webp",
+      "local_url": "/images/reviews/magalu/magazine-voce-vitrine-emcasacomcecilia-topo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23622,
+      "sha256": "4d6f2b68e9a9d23f8250e1e85829e1ff641f4e1b065ab8aafd513f02e8362744",
+      "width": 1369,
+      "height": 300,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "magazine-voce-vitrine-emcasacomcecilia-topo.webp",
+      "storage_filename": "magazine-voce-vitrine-emcasacomcecilia-topo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-magalu-em-casa-com-cecilia.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-magalu-em-casa-com-cecilia.json",
+          "line": 74,
+          "column": 17,
+          "literal": "/images/reviews/magalu/magazine-voce-vitrine-emcasacomcecilia-topo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 36250,
+          "column": 19,
+          "literal": "/images/reviews/magalu/magazine-voce-vitrine-emcasacomcecilia-topo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4d6f2b68e9a9d23f8250e1e85829e1ff641f4e1b065ab8aafd513f02e8362744/magazine-voce-vitrine-emcasacomcecilia-topo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4d6f2b68e9a9d23f8250e1e85829e1ff641f4e1b065ab8aafd513f02e8362744/magazine-voce-vitrine-emcasacomcecilia-topo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T00:47:40.393Z",
+      "verification_etag_or_digest": "4d6f2b68e9a9d23f8250e1e85829e1ff641f4e1b065ab8aafd513f02e8362744",
       "verification_status": "verified"
     },
     {
@@ -130885,6 +130977,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T22:12:32.255Z",
       "verification_etag_or_digest": "7df9bcb0c7e33331af912c1ed533c1a2368ed3d050429b155063b4a444bd3746",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/petz/petz-reclame-aqui-golden-formula-mini-bits.webp",
+      "local_url": "/images/reviews/petz/petz-reclame-aqui-golden-formula-mini-bits.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 32338,
+      "sha256": "6847983da5ea3d8148adb4f98baf24d1582cb201da2f89da72acb06f191c89be",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "petz-reclame-aqui-golden-formula-mini-bits.webp",
+      "storage_filename": "petz-reclame-aqui-golden-formula-mini-bits.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/petz-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/petz-reclame-aqui-nota-reputacao.json",
+          "line": 221,
+          "column": 19,
+          "literal": "/images/reviews/petz/petz-reclame-aqui-golden-formula-mini-bits.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 232148,
+          "column": 21,
+          "literal": "/images/reviews/petz/petz-reclame-aqui-golden-formula-mini-bits.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6847983da5ea3d8148adb4f98baf24d1582cb201da2f89da72acb06f191c89be/petz-reclame-aqui-golden-formula-mini-bits.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6847983da5ea3d8148adb4f98baf24d1582cb201da2f89da72acb06f191c89be/petz-reclame-aqui-golden-formula-mini-bits.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T00:47:40.662Z",
+      "verification_etag_or_digest": "6847983da5ea3d8148adb4f98baf24d1582cb201da2f89da72acb06f191c89be",
       "verification_status": "verified"
     },
     {
@@ -188851,6 +188989,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/gocase/gocase-bolsa-joy-pro-aberta.webp",
+      "local_url": "/images/reviews/gocase/gocase-bolsa-joy-pro-aberta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60552,
+      "sha256": "942568184db14f0bbdf74bb32d9ecc1d71fa4d116b21cc7e90cf3c1d936ab300",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-bolsa-joy-pro-aberta.webp",
+      "storage_filename": "gocase-bolsa-joy-pro-aberta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-e-boa.json",
+          "line": 192,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-bolsa-joy-pro-aberta.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277254,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-bolsa-joy-pro-aberta.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/942568184db14f0bbdf74bb32d9ecc1d71fa4d116b21cc7e90cf3c1d936ab300/gocase-bolsa-joy-pro-aberta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/942568184db14f0bbdf74bb32d9ecc1d71fa4d116b21cc7e90cf3c1d936ab300/gocase-bolsa-joy-pro-aberta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T00:47:38.249Z",
+      "verification_etag_or_digest": "942568184db14f0bbdf74bb32d9ecc1d71fa4d116b21cc7e90cf3c1d936ab300",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-bolsa-joy-pro-clear.webp",
+      "local_url": "/images/reviews/gocase/gocase-bolsa-joy-pro-clear.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 19508,
+      "sha256": "9527a35f4eb2b8bb54150fd03498b6220a2092393e253911c562842395deae1f",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-bolsa-joy-pro-clear.webp",
+      "storage_filename": "gocase-bolsa-joy-pro-clear.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-gocase.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-gocase.json",
+          "line": 193,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-bolsa-joy-pro-clear.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276864,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-bolsa-joy-pro-clear.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9527a35f4eb2b8bb54150fd03498b6220a2092393e253911c562842395deae1f/gocase-bolsa-joy-pro-clear.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9527a35f4eb2b8bb54150fd03498b6220a2092393e253911c562842395deae1f/gocase-bolsa-joy-pro-clear.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T00:47:38.536Z",
+      "verification_etag_or_digest": "9527a35f4eb2b8bb54150fd03498b6220a2092393e253911c562842395deae1f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/gocase/gocase-copo-life-oficial.webp",
       "local_url": "/images/reviews/gocase/gocase-copo-life-oficial.webp",
       "media_kind": "image",
@@ -188909,6 +189139,98 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:45:43.319Z",
       "verification_etag_or_digest": "141fb0abd12b894bfc7d6089f5c3431ec30e07413e6961e3068ae8228c59a539",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-copo-life-quadrado.webp",
+      "local_url": "/images/reviews/gocase/gocase-copo-life-quadrado.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7284,
+      "sha256": "2528e8818989e5dd8f363437d3f05c988bd40c637cd5e80227e2b1ce039edc01",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-copo-life-quadrado.webp",
+      "storage_filename": "gocase-copo-life-quadrado.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-e-boa.json",
+          "line": 134,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-copo-life-quadrado.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277196,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-copo-life-quadrado.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2528e8818989e5dd8f363437d3f05c988bd40c637cd5e80227e2b1ce039edc01/gocase-copo-life-quadrado.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2528e8818989e5dd8f363437d3f05c988bd40c637cd5e80227e2b1ce039edc01/gocase-copo-life-quadrado.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T00:47:38.808Z",
+      "verification_etag_or_digest": "2528e8818989e5dd8f363437d3f05c988bd40c637cd5e80227e2b1ce039edc01",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-copo-termico-moove.webp",
+      "local_url": "/images/reviews/gocase/gocase-copo-termico-moove.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20474,
+      "sha256": "2e491020c6c22a7b3bc5fea72e1c6e48887159368db35246f65fdbed9090dbad",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-copo-termico-moove.webp",
+      "storage_filename": "gocase-copo-termico-moove.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-gocase-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-gocase-como-usar.json",
+          "line": 127,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-copo-termico-moove.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 276606,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-copo-termico-moove.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2e491020c6c22a7b3bc5fea72e1c6e48887159368db35246f65fdbed9090dbad/gocase-copo-termico-moove.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2e491020c6c22a7b3bc5fea72e1c6e48887159368db35246f65fdbed9090dbad/gocase-copo-termico-moove.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T00:47:39.070Z",
+      "verification_etag_or_digest": "2e491020c6c22a7b3bc5fea72e1c6e48887159368db35246f65fdbed9090dbad",
       "verification_status": "verified"
     },
     {
@@ -189096,6 +189418,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/gocase/gocase-garrafa-fresh-650-quadrada.webp",
+      "local_url": "/images/reviews/gocase/gocase-garrafa-fresh-650-quadrada.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15186,
+      "sha256": "50ba01f40ffe4dc220a55f70eaa1a7f0a199ee0bb3cd5a8ecee15cd92f4445ee",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-garrafa-fresh-650-quadrada.webp",
+      "storage_filename": "gocase-garrafa-fresh-650-quadrada.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-e-boa.json",
+          "line": 110,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-garrafa-fresh-650-quadrada.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277172,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-garrafa-fresh-650-quadrada.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/50ba01f40ffe4dc220a55f70eaa1a7f0a199ee0bb3cd5a8ecee15cd92f4445ee/gocase-garrafa-fresh-650-quadrada.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/50ba01f40ffe4dc220a55f70eaa1a7f0a199ee0bb3cd5a8ecee15cd92f4445ee/gocase-garrafa-fresh-650-quadrada.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T00:47:39.297Z",
+      "verification_etag_or_digest": "50ba01f40ffe4dc220a55f70eaa1a7f0a199ee0bb3cd5a8ecee15cd92f4445ee",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
       "local_url": "/images/reviews/gocase/gocase-garrafa-fresh-oficial.webp",
       "media_kind": "image",
@@ -189200,6 +189568,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:45:43.319Z",
       "verification_etag_or_digest": "5be24c407d1260189e7e650cc3d764a225619804df3102f48d04b1e08e90dc19",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-garrafa-urban-futurist.webp",
+      "local_url": "/images/reviews/gocase/gocase-garrafa-urban-futurist.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 14076,
+      "sha256": "0a8ab0b9f720e3e87286023bf972a54b6f00e51f2e230d9d42000f66722af27c",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-garrafa-urban-futurist.webp",
+      "storage_filename": "gocase-garrafa-urban-futurist.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-gocase-primeira-compra.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-gocase-primeira-compra.json",
+          "line": 82,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-garrafa-urban-futurist.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277616,
+          "column": 21,
+          "literal": "/images/reviews/gocase/gocase-garrafa-urban-futurist.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0a8ab0b9f720e3e87286023bf972a54b6f00e51f2e230d9d42000f66722af27c/gocase-garrafa-urban-futurist.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0a8ab0b9f720e3e87286023bf972a54b6f00e51f2e230d9d42000f66722af27c/gocase-garrafa-urban-futurist.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T00:47:39.535Z",
+      "verification_etag_or_digest": "0a8ab0b9f720e3e87286023bf972a54b6f00e51f2e230d9d42000f66722af27c",
       "verification_status": "verified"
     },
     {
@@ -189353,6 +189767,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-19T20:45:43.319Z",
       "verification_etag_or_digest": "38ca744a2b51f1e52bcc3cfd3746aa2e6ce7eaef4281cb5dbd82f749ce47e1fa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/gocase/gocase-tote-mini-clear.webp",
+      "local_url": "/images/reviews/gocase/gocase-tote-mini-clear.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23634,
+      "sha256": "d436813b165727a65eb00c30e74a04e2f7736791d379d746d74976c2e3849a18",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gocase-tote-mini-clear.webp",
+      "storage_filename": "gocase-tote-mini-clear.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/gocase-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/gocase-reclame-aqui-nota-reputacao.json",
+          "line": 144,
+          "column": 17,
+          "literal": "/images/reviews/gocase/gocase-tote-mini-clear.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 277492,
+          "column": 19,
+          "literal": "/images/reviews/gocase/gocase-tote-mini-clear.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d436813b165727a65eb00c30e74a04e2f7736791d379d746d74976c2e3849a18/gocase-tote-mini-clear.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d436813b165727a65eb00c30e74a04e2f7736791d379d746d74976c2e3849a18/gocase-tote-mini-clear.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T00:47:39.788Z",
+      "verification_etag_or_digest": "d436813b165727a65eb00c30e74a04e2f7736791d379d746d74976c2e3849a18",
       "verification_status": "verified"
     },
     {
