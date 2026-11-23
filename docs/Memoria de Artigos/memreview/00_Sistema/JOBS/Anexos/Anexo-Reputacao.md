@@ -25,6 +25,7 @@ Vale para `<loja>-reclame-aqui-nota-reputacao` e `<loja>-trustpilot-reviews` (e 
 ## Tabela e imagens
 
 - **A tabela é a fonte dos números.** Ela fica nítida no celular, o Google e as IAs leem, e atualizar não exige refazer imagem. No Reclame Aqui: reputação, nota, recebidas, respondidas, tempo de resposta, avaliadas, solução, voltariam a fazer negócio e nota do consumidor, com a janela na legenda. Na Trustpilot: TrustScore, total, 5 a 1 estrelas e taxa de resposta.
+- **Ou a faixa de indicadores (`metrics`, desde 22/11/2026).** Quando os indicadores principais cabem em até 6 cartões (nota, respostas, solução, tempo de resposta), a faixa substitui a tabela, com o selo no `badge` e a janela, as reclamações do período e o "voltariam" no resumo (modelo: `damie-reclame-aqui-o-que-os-dados-mostram`). O indicador que não couber vai no texto do capítulo 2. Nunca a faixa e a tabela com os mesmos números.
 - **Print da plataforma só quando prova o que a tabela não traz**, e sempre horizontal e curto:
   - o recorte do selo RA1000 ou Empresa Verificada (modelo: `barbours-reclame-aqui-ra1000.webp`), com o texto explicando o que o selo reconhece;
   - o gráfico de principais problemas, que a tabela não tem.
