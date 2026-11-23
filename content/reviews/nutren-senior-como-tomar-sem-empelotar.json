@@ -36,7 +36,7 @@
     {
       "heading": "Por que o Nutren Senior empelota",
       "paragraphs": [
-        "Quem prepara suplemento em pó conhece a cena: o líquido entra todo de uma vez, e o pó fica em bolinhas secas ou grudado no fundo do copo.",
+        "Quem prepara bebida em pó conhece a cena: o líquido entra todo de uma vez, e o pó fica em bolinhas secas ou grudado no fundo do copo.",
         "A Nestlé orienta começar com pouco líquido, formar uma pasta e só depois completar. O passo a passo abaixo separa as medidas por versão; confira a indicação da sua lata."
       ]
     },
@@ -44,12 +44,12 @@
       "heading": "O método da pasta, passo a passo",
       "paragraphs": [
         "Este é o preparo indicado pela Nestlé na loja oficial e no FAQ do Nutren Senior. O que muda de uma versão para outra é a medida do pó e o líquido recomendado.",
-        "As páginas da marca não são idênticas entre si: o FAQ fala em completar com mais 150 ml (200 ml no total), enquanto a página de vários produtos fala em 130 ml (180 ml no total). O que não muda é a lógica, e a indicação impressa na lata é a que vale. A Baunilha comum também diverge: a [página da Baunilha 740 g](https://www.nestlehealthscience.com.br/marcas/nutren-senior/n-s-baunilha-740) indica 27,5 g (colheres rasas), e a [página geral de sabores](https://www.nestlehealthscience.com.br/marcas/nutren-senior/po-sabor-lata-740g), 31,5 g (colheres cheias). A Baunilha Zero Lactose é outro produto, com 27,5 g."
+        "As páginas da marca divergem em dois pontos: completar com 130 ou 150 ml, e a Baunilha comum com 27,5 g ou 31,5 g. Vale a medida impressa na lata."
       ],
       "bullets": [
-        "1. Pó no copo seco: 3 colheres de sopa. No Sem Sabor, no Zero Lactose e na Baunilha (pela página do produto), rasas (27,5 g); nos demais sabores, cheias (31,5 g); na dúvida, vale a lata;",
-        "2. Um pouco de líquido: cerca de 50 ml. Água no Sem Sabor e no Zero Lactose; nos sabores, a marca recomenda leite desnatado. Mexa bem até formar uma pasta cremosa, sem pontinhos secos;",
-        "3. Complete: junte o restante do líquido e mexa até dissolver por completo;",
+        "1. Pó no copo seco: 3 colheres de sopa. No Sem Sabor, no Zero Lactose e na Baunilha (pela página do produto), rasas (27,5 g); nos demais sabores, cheias (31,5 g); na dúvida, vale a lata.",
+        "2. Um pouco de líquido: cerca de 50 ml. Água no Sem Sabor e no Zero Lactose; nos sabores, a marca recomenda leite desnatado. Mexa bem até formar uma pasta cremosa, sem pontinhos secos.",
+        "3. Complete: junte o restante do líquido e mexa até dissolver por completo.",
         "4. Beba logo: o rótulo pede para consumir imediatamente após o preparo."
       ],
       "image": "/images/reviews/nutren/nutren-senior-metodo-da-pasta-3-passos.webp",
@@ -79,7 +79,17 @@
             "130 ml (página do produto) ou 150 ml (FAQ)"
           ]
         ]
-      }
+      },
+      "links": [
+        {
+          "label": "Página da Baunilha 740 g (Nestlé Health Science)",
+          "href": "https://www.nestlehealthscience.com.br/marcas/nutren-senior/n-s-baunilha-740"
+        },
+        {
+          "label": "Página geral de sabores (Nestlé Health Science)",
+          "href": "https://www.nestlehealthscience.com.br/marcas/nutren-senior/po-sabor-lata-740g"
+        }
+      ]
     },
     {
       "heading": "Qual utensílio desfaz os grumos",
@@ -122,7 +132,7 @@
       "paragraphs": [
         "A Nestlé orienta sabor com leite desnatado e Sem Sabor com água ou em receitas. Por isso a tabela compara o Café com Leite (31,5 g) com água e com 180 ml de leite desnatado, pelos números da página do produto. Os outros sabores variam um pouco: o Mix de Frutas, por exemplo, tem 133 kcal por porção.",
         "No Sem Sabor Zero Lactose, a porção de 27,5 g tem 113 kcal e 10 g de proteína, pelos números oficiais.",
-        "A marca não traz tabela para leite integral. Se preferir usá-lo, a gordura e as calorias do copo ficam maiores do que as da tabela, e vale conversar com o nutricionista se a pessoa controla peso, colesterol ou glicemia."
+        "A marca não traz tabela para leite integral. Se preferir usá-lo, a gordura e as calorias do copo ficam maiores do que as da tabela."
       ],
       "comparisonTable": {
         "caption": "Nutren Senior Café com Leite, porção de 31,5 g: com água x com leite desnatado (página oficial)",
@@ -156,7 +166,7 @@
       }
     },
     {
-      "heading": "Pode esquentar ou ferver? E usar em sopas e receitas salgadas?",
+      "heading": "Pode esquentar ou ferver, e como usar em sopas",
       "paragraphs": [
         "Ferver, não. No FAQ, a Nestlé responde que o Nutren Senior deve ser adicionado ao final da preparação da receita, para que os nutrientes não sofram alteração com o aumento de temperatura. Nas versões com sabor, a marca diz que dá para fazer uma bebida quente nos dias frios, desde que o pó entre no final e não ferva.",
         "A marca não informa uma temperatura máxima, e a página do Café com Leite chega a citar água fria ou quente para fazer a pasta. O caminho prático é o do bom senso: aqueça o líquido (água ou leite) à parte, desligue o fogo, espere ficar morno e só então faça o método da pasta. Líquido fervendo, além de contrariar a orientação da marca, costuma deixar o pó de leite e de soro mais propenso a empelotar.",
@@ -164,8 +174,8 @@
         "O Sem Sabor tem uso em receitas indicado pela própria marca: versatilidade em preparos doces ou salgados, quentes ou frios. As dicas abaixo são nossas, não da marca, e seguem a regra de adicionar o pó no final:"
       ],
       "bullets": [
-        "Sopas, caldos e purês: nunca coloque o pó na panela sobre a chama. Tire do fogo, sirva o prato, espere parar de ferver e misture o pó aos poucos, mexendo; se formar grumos, desmanche o pó antes em um pouco de caldo morno e junte ao restante;",
-        "Vitaminas de frutas e mingaus: misture ou bata depois de pronto, com a mistura fora do fogo;",
+        "Sopas, caldos e purês: nunca coloque o pó na panela sobre a chama. Tire do fogo, sirva o prato, espere parar de ferver e misture o pó aos poucos, mexendo; se formar grumos, desmanche o pó antes em um pouco de caldo morno e junte ao restante.",
+        "Vitaminas de frutas e mingaus: misture ou bata depois de pronto, com a mistura fora do fogo.",
         "Café com leite ou leite quente: faça a pasta com um pouco do líquido já morno e complete com o restante."
       ]
     },
@@ -176,7 +186,7 @@
         "Um detalhe que confunde: no Sem Sabor, a lata destaca 20 g de proteína na porção diária, que equivale a duas preparações de 3 colheres. A página do Zero Lactose mostra a tabela por 27,5 g (3 colheres), com 10 g de proteína. Os números são os mesmos; só muda a porção usada na conta.",
         "Quanto dura: a lata de 740 g rende cerca de 27 porções de 27,5 g (Zero Lactose) ou 23 de 31,5 g (Mix de Frutas), pelas tabelas dos produtos. Depois de aberta, a marca recomenda consumir em até 30 dias: uma porção por dia cabe nessa janela, mas duas por dia fazem a lata acabar em cerca de duas semanas.",
         "Como guardar: lata sempre bem fechada, em local fresco, seco e sem cheiro, como diz o rótulo. Bebida pronta: a marca pede para consumir imediatamente após o preparo, então prepare só a porção que vai ser tomada.",
-        "Horário: a marca não define. Se a pessoa come pouco, vale perguntar ao nutricionista se o copo deve ser tomado longe das refeições principais, para não tirar o apetite do prato."
+        "Horário: a marca não define."
       ]
     },
     {
@@ -202,7 +212,7 @@
         "rows": [
           [
             "Sabores (Chocolate, Café com Leite, Mix de Frutas e, na página geral de sabores, a Baunilha comum)",
-            "Quem gosta de bebida doce pronta. A marca os descreve como reduzidos em açúcares (o que não quer dizer reduzidos em calorias)",
+            "Quem gosta de bebida doce. A marca os descreve como reduzidos em açúcares (o que não quer dizer reduzidos em calorias)",
             "3 colheres cheias (31,5 g) com o método da pasta, de preferência em leite desnatado (na Baunilha, a página do produto indica 27,5 g, rasas); podem ir a receitas, adicionados no final"
           ],
           [
@@ -228,12 +238,13 @@
           "href": "https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740",
           "sponsored": true
         }
-      ]
+      ],
+      "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
       "heading": "Cuidados: disfagia, diabetes, lactose e orientação profissional",
       "paragraphs": [
-        "O Nutren Senior é um suplemento alimentar para adultos a partir de 50 anos, e o rótulo avisa que não é medicamento. Alguns cuidados valem antes de entrar na rotina:"
+        "O Nutren Senior é um produto para adultos a partir de 50 anos, e o rótulo avisa que não é medicamento. Alguns cuidados valem antes de entrar na rotina:"
       ],
       "bullets": [
         "Dificuldade para engolir (disfagia): se a pessoa engasga ou tosse ao beber líquidos, converse com o médico ou o fonoaudiólogo antes. A consistência da bebida pode precisar de ajuste, e este guia não substitui essa orientação;",
@@ -267,7 +278,8 @@
           "href": "https://www.nestlenutre.com.br/nutren-senior",
           "sponsored": true
         }
-      ]
+      ],
+      "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
       "heading": "Qual preparo para cada caso",
@@ -280,7 +292,7 @@
         "Versões com sabor: leite desnatado e a medida cheia da tabela de medidas, mais acima.",
         "Sem Sabor e Zero Lactose: água e a medida rasa da mesma tabela, ou o pó adicionado no final de receitas doces e salgadas.",
         "Bebida quente: o líquido aquecido à parte, morno, e o pó por último, sem ferver.",
-        "Quem tem dificuldade para engolir, controla o açúcar ou toma vários remédios: a quantidade por dia e o preparo ficam com o médico ou o nutricionista."
+        "Quem tem dificuldade para engolir, controla o açúcar ou toma vários remédios: a quantidade por dia e o preparo seguem o capítulo de cuidados."
       ]
     },
     {

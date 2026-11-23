@@ -163,7 +163,7 @@
         ]
       },
       "postParagraphs": [
-        "Por 100 g de pó, a conta dá cerca de 438 kcal e 30 g de proteína. Os primeiros ingredientes são maltodextrina, caseinato de cálcio e um ingrediente à base de óleo de peixe.",
+        "Conta nossa: por 100 g de pó, cerca de 438 kcal e 30 g de proteína. Os primeiros ingredientes são maltodextrina, caseinato de cálcio e um ingrediente à base de óleo de peixe.",
         "A porção contém 1,5 g de açúcares adicionados. Esse é o dado da tabela nutricional, embora a vitrine da loja exiba a chamada “Sem Açúcar”."
       ]
     },
@@ -178,7 +178,7 @@
     {
       "heading": "Quanto custa o Nutren Fortify por porção: lata, combo ou assinatura",
       "paragraphs": [
-        "O combo de três latas na compra única com CECI teve o menor custo por porção. Para comprar apenas uma lata, a assinatura apareceu mais barata naquele dia e envolve entregas recorrentes."
+        "O combo de três latas na compra única com CECI teve o menor custo por porção. Para uma lata só, a assinatura e a compra única com o CECI ficaram a centavos por porção; a assinatura envolve entregas recorrentes."
       ],
       "comparisonTable": {
         "caption": "Preços da Nestlé Nutre em 19/11, sem frete. A lata rende seis porções de 60 g, conforme a ficha. Os valores com CECI vêm dos testes de compra única.",
@@ -223,7 +223,8 @@
       },
       "postParagraphs": [
         "A comparação da assinatura usa o preço exibido pela loja, sem aplicar o CECI. Confira a frequência das entregas e o frete pelo seu CEP antes de fechar.",
-        "O [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar) mostra como aplicar o código. O CECI vale só na compra única, e não na assinatura."
+        "O [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar) mostra como aplicar o código. O CECI vale só na compra única, e não na assinatura.",
+        "A assinatura dá 10% nas três primeiras entregas e 15% a partir da quarta."
       ],
       "links": [
         {
@@ -303,7 +304,7 @@
         ]
       },
       "postParagraphs": [
-        "A loja põe o Senior em nutrição adulta e o Fortify em nutrição especializada. A escolha entre os dois é de quem acompanha o caso, com as duas tabelas na mão. A ficha completa do Senior está no nosso [guia do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+        "A loja põe o Senior em nutrição adulta e o Fortify em nutrição especializada. A ficha completa do Senior está no nosso [guia do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
       ]
     },
     {
@@ -311,7 +312,7 @@
       "paragraphs": [
         "A diferença entre lata, combo e assinatura está no custo por porção, na tabela de preços acima."
       ],
-      "emphasis": "Pelos números da tabela, para quem usa o pó com frequência a escolha é o combo de 3 latas na compra única com o CECI, porque sai a R$ 13,83 por porção, contra R$ 18,09 da lata avulsa com o CECI; para uma lata só, a assinatura, a R$ 17,74 por porção, fica logo abaixo.",
+      "emphasis": "Pelos números da tabela, para quem usa o pó com frequência a escolha é o combo de 3 latas na compra única com o CECI, porque sai a R$ 13,83 por porção, contra R$ 18,09 da lata avulsa com o CECI; para uma lata só, compra única com o CECI e assinatura ficam a centavos uma da outra, e vale comparar no dia.",
       "postParagraphs": [
         "A fabricante orienta consumir o Fortify preferencialmente com acompanhamento de nutricionista ou médico, e a escolha entre ele e o Senior é de quem acompanha o caso."
       ]
@@ -330,7 +331,7 @@
   "decision": {
     "takeIf": [
       "o combo de 3 latas na compra única com o CECI: você usa o pó com frequência e quer o menor custo por porção.",
-      "uma lata avulsa, assinando: você quer só uma lata e aceita entregas recorrentes."
+      "uma lata avulsa: você quer testar antes de fechar o combo; compare no dia a compra única com o CECI e a assinatura."
     ],
     "skipIf": [
       "o Nutren Fortify: você procura produto sem açúcar adicionado, porque a tabela declara 1,5 g por porção, embora a vitrine mostre a chamada \"Sem Açúcar\".",

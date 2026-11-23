@@ -58,8 +58,8 @@
     {
       "heading": "Para que serve o Novasource Proline, segundo a Nestlé",
       "paragraphs": [
-        "Na caixinha de 200 ml, o rótulo identifica o Novasource Proline como fórmula modificada para nutrição enteral e oral, com arginina e prolina. A página da Nestlé Nutre declara como finalidade o “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”.",
-        "A embalagem exige orientação médica ou de nutricionista e proíbe o uso por via parenteral. O profissional define a apresentação e a quantidade para cada caso."
+        "Na caixinha de 200 ml, o rótulo identifica o Novasource Proline como fórmula modificada para nutrição enteral e oral, com arginina e prolina. A fabricante informa: “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”.",
+        "A embalagem exige orientação médica ou de nutricionista e proíbe o uso por via parenteral."
       ],
       "image": {
         "src": "/images/reviews/nutren/novasource-proline-baunilha-200ml-oficial.webp",
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "heading": "Como conservar cada versão",
+      "heading": "Como conservar a caixinha e o pó",
       "bullets": [
         "A caixinha vem pronta. A Nestlé orienta agitar antes de usar e manter a embalagem fechada em local seco e fresco. Depois de aberta, deve ficar tampada na geladeira por até 24 horas.",
         "Para o pó, use a colher de medida que acompanha a lata e siga o preparo da embalagem. A ficha orienta consumo imediatamente após o preparo e uso do pó em até 30 dias após abrir a lata."
@@ -313,7 +313,7 @@
         "Os formatos não são intercambiáveis: a caixinha vem pronta, o pó é para adultos e não é única fonte de nutrição, e o litro usa equipo. Dentro do que cada ficha informa, a conta abaixo compara o custo por grama de proteína com os preços com CECI da tabela de preços. O litro fica de fora, porque a ficha não traz a proteína."
       ],
       "comparisonTable": {
-        "caption": "Contas nossas: preço com o CECI da tabela de preços dividido pelos gramas de proteína de cada formato.",
+        "caption": "Preço com o CECI da tabela de preços dividido pelos gramas de proteína de cada formato.",
         "headers": [
           "Formato",
           "Proteína",
@@ -340,7 +340,7 @@
       "postParagraphs": [
         "Qual formato usar, em que quantidade e por qual via é definição do médico ou nutricionista que acompanha o caso."
       ],
-      "emphasis": "Pelos números da tabela, para o perfil que compara o custo por grama de proteína a escolha é o pó de 330 g, a cerca de R$ 0,61 por grama; para quem usa a caixinha pronta, o combo de 10 de baunilha sai a cerca de R$ 0,79, contra R$ 0,89 na avulsa, porque o preço por caixinha cai de R$ 17,81 para R$ 15,83."
+      "emphasis": "Pelos números da tabela, o pó de 330 g tem o menor custo por grama de proteína (R$ 0,61) e, entre as caixinhas, o combo de 10 sai a R$ 0,79 contra R$ 0,89 da avulsa; a conta só vale dentro do formato que a prescrição definiu, porque os três não são intercambiáveis."
     },
     {
       "heading": "Perguntas frequentes",
@@ -359,8 +359,8 @@
       "o pó de 330 g: a prescrição aceita o pó, para adultos e sem ser a única fonte de nutrição, e você compara pelo custo por porção."
     ],
     "skipIf": [
-      "Você não tem a apresentação definida pelo profissional: caixinha, pó e litro têm fórmulas e usos diferentes.",
-      "Você pensa em trocar de formato só pelo preço: a troca é decisão de quem prescreve."
+      "você não tem a apresentação definida pelo profissional: caixinha, pó e litro têm fórmulas e usos diferentes.",
+      "você pensa em trocar de formato só pelo preço: a troca é decisão de quem prescreve."
     ]
   },
   "updatedAt": "2026-11-23"

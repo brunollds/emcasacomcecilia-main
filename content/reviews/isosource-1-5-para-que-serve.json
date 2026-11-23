@@ -62,7 +62,7 @@
         "headers": [
           "Item",
           "Por 100 mL (rótulo)",
-          "Por litro (conta nossa)"
+          "Por litro"
         ],
         "rows": [
           [
@@ -200,7 +200,7 @@
     {
       "heading": "Quanto rende o litro",
       "paragraphs": [
-        "Contas nossas, feitas com a tabela do rótulo (151 kcal e 6,3 g de proteína por 100 mL). Não são dose nem recomendação."
+        "Feitas com a tabela do rótulo (151 kcal e 6,3 g de proteína por 100 mL). Não são dose nem recomendação."
       ],
       "comparisonTable": {
         "headers": [
@@ -233,7 +233,7 @@
     {
       "heading": "Preço na Nestlé Nutre",
       "paragraphs": [
-        "Preço e estoque mudam, e vale o que aparece na loja na hora da compra."
+        "A compra única sai mais cara que a assinatura, e o CECI só entra na compra única. Preço e estoque mudam, e vale o que aparece na loja na hora da compra."
       ],
       "comparisonTable": {
         "headers": [
@@ -261,7 +261,7 @@
         "caption": "Preços da página do produto na Nestlé Nutre em 17/10, sem o cupom."
       },
       "postParagraphs": [
-        "Contas nossas, com o preço de compra única: R$ 32,72 por litro equivale a cerca de R$ 3,27 por 100 mL e cerca de R$ 2,17 por 100 kcal."
+        "Com o preço de compra única: R$ 32,72 por litro equivale a cerca de R$ 3,27 por 100 mL e cerca de R$ 2,17 por 100 kcal."
       ],
       "links": [
         {
@@ -284,11 +284,11 @@
       ]
     },
     {
-      "heading": "Qual escolher: quem leva o Isosource 1.5 de 1 L",
+      "heading": "Quem leva o Isosource 1.5 de 1 L",
       "paragraphs": [
-        "Os números que decidem estão na tabela: 1.510 kcal, 63 g de proteína e 8 g de fibras por litro, 410 mOsm/L de água e cerca de R$ 3,27 por 100 mL na compra única. O rótulo não traz dose nem frequência: volume, horários e via de administração vêm da prescrição do médico ou do nutricionista."
+        "O rótulo não traz dose nem frequência: volume, horários e via de administração vêm da prescrição do médico ou do nutricionista."
       ],
-      "emphasis": "Pelos números da tabela, para o perfil que procura uma fórmula de 1,5 kcal por mL com fibras e lactose zero declarada, o Isosource 1.5 Sem Sabor de 1 L entrega 1.510 kcal, 63 g de proteína e 8 g de fibras por litro, a cerca de R$ 3,27 por 100 mL, porque a tabela do rótulo traz os três valores."
+      "emphasis": "Pelos números da tabela, para a prescrição que pede 1,5 kcal por mL com fibras e sem lactose, a caixa de 1 L entrega 1.510 kcal, 63 g de proteína e 8 g de fibras, a cerca de R$ 3,27 por 100 mL na compra única."
     },
     {
       "heading": "Perguntas frequentes",
@@ -296,9 +296,8 @@
         "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
         "Isosource 1.5 Sem Sabor tem lactose? A frente da embalagem declara \"Não contém lactose\", e a tabela traz lactose 0 g. O produto contém derivados de leite (caseinato) e de soja.",
         "Isosource 1.5 pode ser tomado pela boca? O rótulo o define como fórmula padrão para nutrição enteral e oral. A via em cada caso é definida pelo médico ou nutricionista.",
-        "Quanto tomar de Isosource 1.5 por dia? O rótulo não traz dose diária. Volume e frequência são definidos pelo médico ou nutricionista.",
-        "Quem pode tomar Isosource 1.5? O rótulo manda usar somente sob orientação médica ou de nutricionista, e é o profissional quem avalia cada caso.",
-        "Quantas kcal tem o Isosource 1.5 de 1 litro? São 151 kcal por 100 mL no rótulo, o que dá 1.510 kcal por litro (conta nossa). O rótulo arredonda para 1,5 kcal por mL."
+        "Quem pode tomar Isosource 1.5 e quanto por dia? O rótulo manda usar somente sob orientação médica ou de nutricionista e não traz dose diária: quem avalia cada caso e define volume e frequência é o médico ou o nutricionista.",
+        "Quantas kcal tem o Isosource 1.5 de 1 litro? São 151 kcal por 100 mL no rótulo, o que dá 1.510 kcal por litro. O rótulo arredonda para 1,5 kcal por mL."
       ]
     }
   ],
@@ -333,8 +332,8 @@
       "a compra única no site oficial: você compara o custo por 100 mL e quer o cupom CECI aplicado no carrinho."
     ],
     "skipIf": [
-      "Você não tem prescrição: o rótulo manda usar somente sob orientação médica ou de nutricionista.",
-      "A prescrição pede fórmula sem fibras, sem derivados de leite e soja ou outra apresentação, como a de Sistema Fechado: os dados deste guia são só os da caixa de 1 L com tampa."
+      "você não tem prescrição: o rótulo manda usar somente sob orientação médica ou de nutricionista.",
+      "a prescrição pede fórmula sem fibras, sem derivados de leite e soja ou outra apresentação, como a de Sistema Fechado: os dados deste guia são só os da caixa de 1 L com tampa."
     ]
   },
   "updatedAt": "2026-11-23"

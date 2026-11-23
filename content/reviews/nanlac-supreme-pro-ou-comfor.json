@@ -79,7 +79,7 @@
     {
       "heading": "O que cada rótulo declara",
       "paragraphs": [
-        "Os números são os do rótulo: o do Supreme Pro, da página da Nestlé Nutre, e o do Comfor, do verso da lata de 800 g, na galeria de fotos da loja (a tabela em texto da página traz valores um pouco diferentes). A comparação é só do que está declarado no rótulo, e a escolha entre as fórmulas é do pediatra ou nutricionista."
+        "O Supreme Pro declara mais proteína, DHA, ARA e açúcares adicionados; o Comfor, mais fibras. Os números do Comfor são os do verso da lata; a tabela em texto da página difere um pouco, então confira a embalagem que chegar."
       ],
       "comparisonTable": {
         "headers": [
@@ -120,7 +120,7 @@
           ],
           [
             "HMO",
-            "4 (2'-FL, LNT, 3'-SL, 6'-SL), 0,37 g somados (conta nossa)",
+            "4 (2'-FL, LNT, 3'-SL, 6'-SL), 0,37 g somados",
             "1 (2'-FL), 0,2 g"
           ],
           [
@@ -204,8 +204,8 @@
           ],
           [
             "Rendimento de 800 g",
-            "cerca de 5,7 L (conta nossa)",
-            "cerca de 5,7 L (conta nossa)"
+            "cerca de 5,7 L",
+            "cerca de 5,7 L"
           ],
           [
             "Preço da lata, Nestlé Nutre",
@@ -214,13 +214,13 @@
           ],
           [
             "Preço por litro preparado",
-            "cerca de R$ 16,84 (conta nossa)",
-            "cerca de R$ 12,22 (conta nossa)"
+            "cerca de R$ 16,84",
+            "cerca de R$ 12,22"
           ]
         ]
       },
       "postParagraphs": [
-        "É uma conta de referência: a quantidade real depende de como se mede o pó. Siga as medidas da lata."
+        "Rendimento e preço por litro são conta nossa, de referência: a quantidade real depende de como se mede o pó. Siga as medidas da lata."
       ],
       "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-preparo.webp",
       "imageAlt": "Lateral da lata do Nanlac Supreme Pro com o modo de preparo em oito passos e a tabela de medidas",
@@ -229,9 +229,9 @@
       "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
-      "heading": "Recolhimento de janeiro: lotes do Comfor",
+      "heading": "Recolhimento: lotes do Comfor",
       "paragraphs": [
-        "O Comfor 800 g também entrou em o recolhimento de lotes de janeiro de 2026. Estes são os lotes e as validades do comunicado da Nestlé (nestlefamilynes.com.br/recolhimento-de-produto):"
+        "O Comfor 800 g também entrou no recolhimento de lotes de janeiro de 2026. Estes são os lotes e as validades do comunicado da Nestlé (nestlefamilynes.com.br/recolhimento-de-produto):"
       ],
       "bullets": [
         "Validade em novembro, lotes 5327046041, 5327046043 e 5328046041",
@@ -250,7 +250,7 @@
         "Quem procura mais HMOs declarados na tabela encontra quatro no Supreme Pro. O Comfor declara um, o 2'-FL.",
         "Quem procura GOS, FOS e nucleotídeos na tabela encontra os três no Comfor.",
         "Quem compara proteína, DHA e ARA por 100 g vê números maiores no Supreme Pro.",
-        "Quem compara açúcares adicionados vê 31 g por 100 g no Supreme Pro e 5,1 g no Comfor.",
+        "Quem compara açúcares adicionados vê bem menos no Comfor.",
         "Quem compara preço por litro preparado paga menos no Comfor."
       ],
       "postParagraphs": [
@@ -262,7 +262,7 @@
       "heading": "Onde comprar e quanto custa",
       "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
       "paragraphs": [
-        "Preços da Nestlé Nutre, loja oficial, em 17/10/2026:"
+        "Na Nestlé Nutre, loja oficial:"
       ],
       "comparisonTable": {
         "headers": [
@@ -276,7 +276,7 @@
           ],
           [
             "Nanlac Supreme Pro, combo leve 5 pague 4",
-            "R$ 449,56 (conta nossa: R$ 89,91 por lata)"
+            "R$ 449,56 (R$ 89,91 por lata)"
           ],
           [
             "Nanlac Comfor HMO 800 g",
@@ -284,12 +284,13 @@
           ],
           [
             "Nanlac Comfor HMO, combo com 4 unidades",
-            "R$ 261,09 (conta nossa: R$ 65,27 por lata)"
+            "R$ 261,09 (R$ 65,27 por lata)"
           ]
-        ]
+        ],
+        "caption": "Preços da Nestlé Nutre em 17/10/2026, sem o cupom."
       },
       "postParagraphs": [
-        "O código CECI dá 10% OFF na loja oficial da Nestlé Nutre, em todas as formas de pagamento, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Os dois produtos, de 1 a 3 anos, não estão nessas exceções. As condições atuais estão na página do [cupom Nestlé Nutre](/cupons/nestle-nutre).",
+        "O CECI dá 10% OFF na compra única da loja oficial da Nestlé Nutre, em todas as formas de pagamento, e soma com as promoções da loja. Ficam de fora Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, a assinatura e o Mercado Livre. Os dois produtos, de 1 a 3 anos, não estão nessas exceções. As condições atuais estão na página do [cupom Nestlé Nutre](/cupons/nestle-nutre).",
         "Preço e desconto mudam. O valor que vale é o da loja no momento da compra."
       ],
       "links": [

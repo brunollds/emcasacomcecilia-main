@@ -29,18 +29,18 @@
   "decision": {
     "takeIf": [
       "a loja oficial: você quer comprar direto da Nestlé, com CNPJ da Nestlé Brasil, SAC e devolução em 7 dias, e usar o CECI.",
-      "o cuidado com o comprovante: você aceita guardar nota fiscal e rastreio para resolver qualquer problema com o pedido."
+      "a compra com comprovante guardado: nota fiscal e rastreio resolvem qualquer problema com o pedido."
     ],
     "skipIf": [
-      "Você prefere farmácia ou Mercado Livre: o CECI não vale lá, e a troca segue as regras de cada vendedor.",
-      "O item é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses: ficam fora do cupom, e quem indica é o médico ou o pediatra."
+      "você prefere farmácia ou Mercado Livre: o CECI não vale lá, e a troca segue as regras de cada vendedor.",
+      "o item é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses: ficam fora do cupom, e quem indica é o médico ou o pediatra."
     ]
   },
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, com uma condição: guarde o comprovante e o rastreio. A Nestlé Nutre é a loja oficial da Nestlé Health Science, sob o CNPJ da Nestlé Brasil, e no Reclame Aqui tem reputação Regular, com todas as reclamações respondidas. Lá, o CECI dá 10% OFF na compra única."
+        "Sim, com uma condição: guarde o comprovante e o rastreio. A Nestlé Nutre é a loja oficial da Nestlé Health Science, sob o CNPJ da Nestlé Brasil, e no Reclame Aqui tem reputação Regular, com todas as reclamações respondidas. Na loja, o CECI dá 10% OFF na compra única."
       ]
     },
     {
@@ -92,7 +92,7 @@
         "A loja tem perfil próprio no Reclame Aqui, \"Nestle Nutre\", ligado ao domínio nestlenutre.com.br e separado do perfil da Nestlé institucional. A empresa por trás é a Nestlé Brasil Ltda., CNPJ 60.409.075/0001-52. A reputação é Regular, e os números abaixo são da aba dos últimos 6 meses."
       ],
       "comparisonTable": {
-        "caption": "Reclame Aqui, últimos 6 meses, lido em 23/11/2026",
+        "caption": "Reclame Aqui, últimos 6 meses, em 23/11/2026",
         "headers": [
           "Indicador",
           "Perfil Nestle Nutre"
@@ -125,7 +125,7 @@
         ]
       },
       "postParagraphs": [
-        "Conta nossa, pela tabela: a loja respondeu a todas as 79 reclamações, e cerca de duas em cada três foram dadas como resolvidas. Pouco mais da metade dos clientes que avaliaram voltaria a comprar, o que explica a nota Regular. Por isso o cuidado prático é guardar a nota fiscal, o rastreio e o protocolo do atendimento antes de reclamar."
+        "Conta nossa: a loja respondeu a todas as 79 reclamações; entre as 43 avaliadas pelo cliente, cerca de duas em cada três foram dadas como resolvidas, e pouco mais da metade voltaria a comprar, o que explica a nota Regular. Por isso o cuidado prático é guardar a nota fiscal, o rastreio e o protocolo do atendimento antes de reclamar."
       ]
     },
     {
@@ -156,7 +156,7 @@
     {
       "heading": "Dá para confiar na Nestlé Nutre?",
       "paragraphs": [
-        "Dá, com uma condição. A loja opera sob o CNPJ da Nestlé Brasil Ltda., no domínio nestlenutre.com.br, com telefone, WhatsApp e assistente virtual, e o arrependimento segue o CDC: 7 dias corridos após o recebimento, com a coleta paga pela Nestlé. No Reclame Aqui, a reputação é Regular (6,7), mas a loja respondeu a 100% das reclamações e 65,1% foram resolvidas; 58,1% dos clientes que avaliaram voltariam a comprar.",
+        "Dá, com uma condição. A loja opera sob o CNPJ da Nestlé Brasil Ltda., no domínio nestlenutre.com.br, com telefone, WhatsApp e assistente virtual, e o arrependimento segue o CDC: 7 dias corridos após o recebimento, com a coleta paga pela Nestlé. No Reclame Aqui, a reputação é Regular, com todas as reclamações respondidas; os números estão na tabela acima.",
         "A condição é guardar a nota fiscal e o rastreio, conferir o domínio antes de pagar e seguir o rótulo nos itens de nutrição clínica e pediátrica. Em dúvida de saúde, a conversa é com um médico ou nutricionista."
       ],
       "emphasis": "Pelos números do Reclame Aqui, para quem compra na loja oficial a resposta é sim, porque a Nestlé Nutre responde a todas as reclamações e resolve a maioria, com a ressalva da nota Regular."
@@ -165,8 +165,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o cupom da Nestlé Nutre? O cupom da Nestlé Nutre é o CECI, com 10% OFF na compra única do site oficial, em todas as formas de pagamento, e soma com as promoções da loja. Não vale em Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, na assinatura nem no Mercado Livre.",
-        "A Nestlé Nutre é a mesma empresa da Nestlé? Sim. É o e-commerce oficial da Nestlé Health Science no Brasil, operado sob o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52).",
-        "O site da Nestlé Nutre é confiável para comprar Nutren? Sim: o nestlenutre.com.br é o e-commerce oficial da Nestlé Health Science no Brasil, com o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52) e conexão segura.",
+        "A Nestlé Nutre é a mesma empresa da Nestlé? Sim. É o e-commerce oficial da Nestlé no Brasil, com o CNPJ da Nestlé Brasil Ltda., no domínio nestlenutre.com.br.",
         "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
         "A Nestlé Nutre entrega no meu CEP? Digite o CEP no carrinho: o site mostra se entrega, o prazo e o frete antes do pagamento.",
         "A Nestlé Nutre tem reclamações no Reclame Aqui? Tem, como toda loja de volume. O perfil da loja tem reputação Regular, e todas as reclamações dos últimos 6 meses foram respondidas. Os números estão na tabela do capítulo do Reclame Aqui.",

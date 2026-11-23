@@ -29,12 +29,12 @@
   "decision": {
     "takeIf": [
       "o CECI na compra única: você faz a primeira compra e quer 10% OFF sem valor mínimo, em qualquer forma de pagamento.",
-      "o mesmo código nas compras seguintes: você já é cliente e quer saber se o CECI vale de novo, e vale."
+      "o mesmo código nas compras seguintes: você já é cliente e quer os mesmos 10% de novo."
     ],
     "skipIf": [
-      "Você vai assinar: a assinatura tem desconto próprio e não aceita o CECI.",
-      "O produto é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses: ficam fora do código, e quem indica é o pediatra.",
-      "Você vai comprar pelo Mercado Livre: o CECI só vale no site oficial."
+      "você vai assinar: a assinatura tem desconto próprio e não aceita o CECI.",
+      "o produto é Alfamino, Alfaré ou fórmula infantil de 0 a 12 meses: ficam fora do código, e quem indica é o pediatra.",
+      "você vai comprar pelo Mercado Livre: o CECI só vale no site oficial."
     ]
   },
   "cta": {
@@ -70,9 +70,9 @@
     {
       "heading": "Cupom Nestlé Nutre primeira compra: qual usar",
       "paragraphs": [
-        "A Nestlé Nutre é uma loja online da Nestlé voltada a produtos de nutrição. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Nestlé Nutre é confiável?](/reviews/nestle-nutre-e-confiavel).",
-        "Use o CECI: 10% OFF nos produtos elegíveis do site oficial, sem valor mínimo, na opção “Compra única”. Ele vale no primeiro pedido e nos seguintes. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam de fora; a assinatura não aceita o código.",
-        "É o [cupom Nestlé Nutre](/cupons/nestle-nutre) da nossa parceria com a loja, testado no checkout. O carrinho mostra o desconto antes do pagamento."
+        "Use o CECI: 10% OFF nos produtos elegíveis do site oficial, sem valor mínimo, na opção “Compra única”. Ele vale no primeiro pedido e nos seguintes.",
+        "É o [cupom Nestlé Nutre](/cupons/nestle-nutre) da nossa parceria com a loja, testado no checkout. O carrinho mostra o desconto antes do pagamento.",
+        "Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Nestlé Nutre é confiável?](/reviews/nestle-nutre-e-confiavel)."
       ]
     },
     {
@@ -93,7 +93,7 @@
     {
       "heading": "Kit de duas latas: a conta na compra única",
       "paragraphs": [
-        "No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o CECI entrou num kit com duas latas de 740 g do Nutren Senior Zero Lactose, na compra única:"
+        "No teste de 11/11/2026, o CECI entrou num kit com duas latas de 740 g do Nutren Senior Zero Lactose, na compra única:"
       ],
       "comparisonTable": {
         "caption": "Kit Nutren Senior Zero Lactose, duas latas de 740 g: valores do teste no carrinho, antes do frete.",
@@ -117,14 +117,14 @@
         ]
       },
       "postParagraphs": [
-        "Nos produtos elegíveis da compra única, o CECI soma com as promoções da loja. Alfamino, Alfaré e fórmulas para bebês de 0 a 12 meses ficam de fora; confira o total antes de pagar."
+        "Nos produtos elegíveis da compra única, o CECI soma com as promoções da loja; confira o total antes de pagar."
       ],
       "images": [
         {
           "src": "/images/reviews/nutren/cupom-nestle-nutre-primeira-compra-nutren-senior-zero-lactose.webp",
           "alt": "Lata de Nutren Senior Zero Lactose sem sabor, 740 g, em foto oficial de frente.",
           "caption": "Nutren Senior Zero Lactose de 740 g: o kit usado no teste do cupom leva duas latas. Foto: Nestlé Nutre.",
-          "objectFit": "square",
+          "objectFit": "contain",
           "href": "https://www.nestlenutre.com.br/senior-kit-sem-sabor-zero-lactose-lata-740"
         }
       ],
@@ -139,7 +139,7 @@
     {
       "heading": "E na segunda compra?",
       "paragraphs": [
-        "O CECI vale de novo para quem já comprou, com os mesmos 10% nos produtos elegíveis da compra única. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam de fora; a assinatura não aceita o código. Se houver limite de uso, o checkout informa."
+        "O CECI vale de novo para quem já comprou, com os mesmos 10% na compra única. Se houver limite de uso, o checkout informa."
       ]
     },
     {
@@ -166,7 +166,7 @@
       "paragraphs": [
         "O CECI serve à primeira compra e às seguintes, sempre na compra única do site oficial, com os mesmos 10% e sem valor mínimo. A conta do kit mostra o tamanho da economia: o código tirou 10% do total, e o carrinho mostra o desconto antes do pagamento.",
         "Quem prefere receber o mesmo produto todo mês tem outro caminho: a loja informa que a assinatura dá 10% OFF da 1ª à 3ª entrega e 15% a partir da 4ª entrega, mas não aceita o CECI. Os dois descontos não se somam. Em campanhas como a [Black Friday da Nestlé Nutre](/reviews/black-friday-nestle-nutre), o CECI soma com os preços da loja.",
-        "Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses ficam fora do código; para elas, quem indica é o pediatra ou o médico."
+        "Para as fórmulas que ficam de fora do código, quem indica é o pediatra ou o médico."
       ],
       "emphasis": "Pelos números do kit de duas latas, para a primeira compra na compra única a escolha é o CECI, porque ele tirou 10% do total sem valor mínimo e vale de novo nas compras seguintes; a assinatura fica para quem quer reposição mensal.",
       "links": [

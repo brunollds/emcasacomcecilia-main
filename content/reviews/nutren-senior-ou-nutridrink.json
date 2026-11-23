@@ -34,10 +34,9 @@
     {
       "heading": "Qual versão de cada lado",
       "paragraphs": [
-        "Do lado da Nutren, entra o Nutren Senior Baunilha, lata de 740 g, da loja oficial da Nestlé Nutre. A página o apresenta como composto lácteo, \"reduzido em açúcares\". Os outros sabores de 740 g são Café com leite, Chocolate e Mix de Frutas.",
+        "Do lado da Nutren, entra o Nutren Senior Baunilha, lata de 740 g, da loja oficial da Nestlé Nutre. A página o apresenta como composto lácteo, \"reduzido em açúcares\". Há outras versões de 740 g, como Café com Leite e Zero Lactose.",
         "Do lado da Danone, entra o Nutridrink Protein Senior em pó, lata de 750 g, sabor Café com Leite, com página no Mundo Danone, a loja da fabricante. A versão líquida de 200 ml não entra: pó e bebida pronta não se comparam de forma justa.",
-        "O Nutren Senior em três versões está em [Nutren Senior, Ensure ou Sustagen Senior](/reviews/nutren-senior-ensure-ou-sustagen-senior).",
-        "Este texto compara só as diferenças entre os dois."
+        "O Nutren Senior em três versões está em [Nutren Senior, Ensure ou Sustagen Senior](/reviews/nutren-senior-ensure-ou-sustagen-senior)."
       ],
       "image": {
         "src": "/images/reviews/nutren/nutren-senior-tres-versoes-oficial.webp",
@@ -45,12 +44,13 @@
         "caption": "Versões do Nutren Senior em lata de 740 g.",
         "objectFit": "contain",
         "href": "https://www.nestlenutre.com.br/nutren-senior"
-      }
+      },
+      "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
       "heading": "O que cada página informa",
       "paragraphs": [
-        "A tabela junta o que as páginas dos fabricantes dizem. Nutren: Nestlé Nutre. Nutridrink: Mundo Danone. Conta nossa, pelos valores da porção na tabela: os valores \"por 100 g de pó\" dividem o valor da porção pelo peso dela e multiplicam por 100."
+        "A tabela junta o que a Nestlé Nutre e o Mundo Danone publicam. Conta nossa: os valores \"por 100 g de pó\" dividem o valor da porção pelo peso dela e multiplicam por 100."
       ],
       "comparisonTable": {
         "headers": [
@@ -127,31 +127,31 @@
     {
       "heading": "Preço da lata e da porção",
       "paragraphs": [
-        "A tabela junta os preços lidos nas lojas de cada fabricante: Nestlé Nutre para o Nutren e Mundo Danone para o Nutridrink. O preço de cada porção é conta nossa: o preço da lata dividido pelo número de porções. Preço e estoque mudam, e vale o que aparece na loja na hora; a Nestlé Nutre está na Semana Black Friday, e o preço vigente do Nutren está no site e no carrinho."
+        "A tabela junta os preços lidos nas lojas de cada fabricante: Nestlé Nutre para o Nutren e Mundo Danone para o Nutridrink. O preço de cada porção é o da lata dividido pelo número de porções. Preço e estoque mudam, e vale o que aparece na loja na hora; a Nestlé Nutre está na Semana Black Friday, e o preço vigente do Nutren está no site e no carrinho."
       ],
       "postParagraphs": [
-        "A lata da Danone sai R$ 47,78 mais barata (conta nossa). Mas a porção é diferente em peso e em proteína, então compare pelo custo da porção na tabela, não só pelo preço da lata. Olhar só o preço da porção, sem ver o que vem nela, engana."
+        "A lata da Danone sai R$ 47,78 mais barata. Mas a porção é diferente em peso e em proteína, então compare pelo custo da porção na tabela, não só pelo preço da lata. Olhar só o preço da porção, sem ver o que vem nela, engana."
       ],
       "comparisonTable": {
-        "caption": "Preços lidos em 17/10/2026, compra única. A porção do Nutren é de 31,5 g e a do Nutridrink, de 30 g.",
+        "caption": "Preços lidos em 17/10/2026, compra única. A porção do Nutren é de 31,5 g e a do Nutridrink, de 30 g. Por porção: preço da lata dividido por (peso da lata ÷ porção).",
         "headers": [
           "Lata",
           "Preço lido",
           "Porções por lata",
-          "Por porção (conta nossa)"
+          "Por porção"
         ],
         "rows": [
           [
             "Nutren Senior Baunilha 740 g",
             "R$ 169,37 (de R$ 188,19)",
-            "Cerca de 23",
+            "Cerca de 23,5",
             "R$ 7,21"
           ],
           [
             "Nutren Senior Sem Sabor Zero Lactose 740 g",
             "R$ 190,61",
             "Cerca de 27 (porção de 27,5 g)",
-            "R$ 7,06"
+            "R$ 7,08"
           ],
           [
             "Nutridrink Protein Senior Café com Leite 750 g",
@@ -178,7 +178,8 @@
           "href": "https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740",
           "sponsored": true
         }
-      ]
+      ],
+      "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
     },
     {
       "heading": "Para quem cada um faz sentido",
@@ -213,7 +214,7 @@
         "Nutridrink Protein Senior tem lactose? Sim, a página do Mundo Danone diz \"contém lactose\". O Nutren Senior Zero Lactose traz 0 g.",
         "Nutren Senior Baunilha tem lactose? A página não traz a linha de lactose. A versão com lactose zero declarada é o Nutren Senior Zero Lactose.",
         "Nutridrink Protein Senior tem açúcar? A tabela traz 11 g de açúcares totais e 0,6 g de açúcares adicionados na porção de 30 g.",
-        "Quantas porções tem a lata do Nutridrink? Cerca de 25, pela conta nossa (750 g divididos por 30 g).",
+        "Quantas porções tem a lata do Nutridrink? Cerca de 25 (750 g divididos por 30 g).",
         "Tem cupom para o Nutridrink? Não temos código para a Danone. O CECI vale só na Nestlé Nutre."
       ]
     }

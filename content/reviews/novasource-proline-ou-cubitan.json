@@ -58,7 +58,7 @@
     {
       "heading": "Os dois produtos lado a lado",
       "paragraphs": [
-        "O Novasource Proline é da Nestlé, parceira do site, e o Cubitan é da Danone. Comparamos as informações das páginas das fabricantes."
+        "O Novasource Proline é da Nestlé, parceira do site, e o Cubitan é da Danone."
       ],
       "comparisonTable": {
         "headers": [
@@ -123,7 +123,7 @@
         "Multiplicamos os valores publicados por 100 ml para mostrar o que cada unidade de 200 ml declara. Para o Cubitan, confira os carboidratos na embalagem."
       ],
       "comparisonTable": {
-        "caption": "Dados da Nestlé Nutre e da Danone. As faixas do Proline refletem diferenças entre sabores. O Cubitan é o de baunilha. O traço indica valor não confirmado na página consultada.",
+        "caption": "Dados da Nestlé Nutre e da Danone. As faixas do Proline refletem diferenças entre sabores. O Cubitan é o de baunilha. O traço indica valor que a página não informa.",
         "headers": [
           "Item",
           "Novasource Proline",
@@ -231,7 +231,7 @@
     {
       "heading": "O que cada fabricante diz",
       "paragraphs": [
-        "Para o Novasource Proline, a página da Nestlé Nutre declara “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”. A loja da Danone declara que o Cubitan tem nutrientes “que auxiliam na cicatrização de lesões”, com consumo “conforme recomendação do profissional de saúde”.",
+        "Para o Novasource Proline, a página da Nestlé Nutre declara “manejo nutricional de pessoas que possuem problemas de cicatrização no geral”. A loja da Danone apresenta o Cubitan para pessoas com lesões em cicatrização, com consumo “conforme recomendação do profissional de saúde”.",
         "As duas fórmulas pedem orientação médica ou de nutricionista e proíbem o uso por via parenteral."
       ]
     },
@@ -322,7 +322,7 @@
           ]
         ]
       },
-      "emphasis": "Pelos números da tabela, para o perfil que compara o preço por grama de proteína (20 g nas duas) a escolha é o Proline com o CECI, a cerca de R$ 0,89 contra R$ 0,99 do Cubitan avulso, e para o perfil que olha cálcio, ferro e cobre é o Cubitan (450 mg, 6 mg e 1.360 µg, contra 192 mg, 3,2 mg e 260 µg), porque o Proline traz menos dos três."
+      "emphasis": "Pelos números da tabela, para o perfil que compara o preço por grama de proteína (20 g nas duas) a escolha é o Proline com o CECI, a cerca de R$ 0,89 contra R$ 0,99 do Cubitan avulso, e para quem olha cálcio, ferro e cobre, os valores maiores estão no Cubitan (450 mg, 6 mg e 1.360 µg, contra 192 mg, 3,2 mg e 260 µg)."
     },
     {
       "heading": "Perguntas frequentes",
@@ -341,8 +341,8 @@
       "o Cubitan: a prescrição pede mais cálcio, ferro e cobre por 200 ml, valores maiores na tabela da Danone."
     ],
     "skipIf": [
-      "Você precisa evitar lactose: o Cubitan declara que contém lactose.",
-      "Você pensa em trocar uma fórmula pela outra só pelo preço: a troca é decisão de quem prescreve."
+      "você precisa evitar lactose: o Cubitan declara que contém lactose.",
+      "você pensa em trocar uma fórmula pela outra só pelo preço: a troca é decisão de quem prescreve."
     ]
   },
   "updatedAt": "2026-11-23"

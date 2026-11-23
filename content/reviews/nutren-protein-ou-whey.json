@@ -220,7 +220,7 @@
       "heading": "Nutren Protein ou Nutren Senior",
       "paragraphs": [
         "Na mesma porção de 31,5 g, o Protein leva vantagem em proteína (14 g contra 11 g, na tabela acima) e em cálcio (441 mg contra 375 mg), e o Senior, em vitamina D (25 µg contra 3,2 µg). A tabela do Senior não traz linha de cafeína.",
-        "A indicação também muda. A Nestlé descreve o Senior como linha para adultos acima dos 50 anos. Para o Nutren Protein, a página do Baunilha fala em \"jovens e adultos que querem mais foco e energia\"; a do Chocolate acrescenta pessoas \"especialmente a partir dos 50 anos\". Se a dúvida é lactose, a ficha do Senior Zero Lactose está no nosso guia."
+        "A indicação também muda. A Nestlé descreve o Senior como linha para adultos acima dos 50 anos. Para o Nutren Protein, a página do Baunilha fala em jovens e adultos; a do Chocolate acrescenta pessoas \"especialmente a partir dos 50 anos\". Se a dúvida é lactose, a ficha do Senior Zero Lactose está no nosso guia."
       ],
       "image": {
         "src": "/images/reviews/nutren/nutren-protein-baunilha-e-senior-cafe-com-leite.webp",
@@ -259,18 +259,15 @@
         "objectFit": "contain",
         "aspectRatio": 1.3333,
         "href": "https://www.nestlenutre.com.br/nutren-protein-15g-proteina-chocolate-260ml"
-      }
-    },
-    {
-      "heading": "Quando procurar médico ou nutricionista",
-      "paragraphs": [
+      },
+      "postParagraphs": [
         "A Nestlé diz no FAQ que o Nutren Protein complementa a alimentação e não cobre sozinho a necessidade de proteína de um adulto. Para diabetes e cirurgia bariátrica, o FAQ da marca manda procurar médico ou nutricionista, e a YoPRO também manda consultar um médico ou nutricionista quando perguntam se ela substitui o whey. Vale também para quem tem 50 anos ou mais e está em dúvida entre o Protein e o Senior."
       ]
     },
     {
       "heading": "Preço e o cupom CECI",
       "paragraphs": [
-        "Os preços abaixo são da loja oficial, na mesma leitura da tabela comparativa. Promoção muda os valores, então confira no carrinho.",
+        "Os preços são da loja oficial, do mesmo dia da tabela comparativa. Promoção muda os valores, então confira no carrinho.",
         "O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na compra única da loja oficial, em todas as formas de pagamento, e soma com as promoções. Não vale para Alfamino, Alfaré, fórmulas infantis de 0 a 12 meses, assinatura nem Mercado Livre. Não temos código para a YoPRO."
       ],
       "links": [
@@ -290,32 +287,42 @@
         }
       ],
       "comparisonTable": {
-        "caption": "Preços da loja oficial na leitura desta comparação, compra única, sem cupom.",
+        "caption": "Preços da loja oficial na leitura desta comparação, compra única, sem cupom. Conta nossa: porção de 31,5 g no pó (14 g de proteína), 15 g no Just Protein (13 g) e 1 garrafa (15 g).",
         "headers": [
           "Produto",
           "Preço",
-          "Antes (\"de\")"
+          "Antes (\"de\")",
+          "Por porção",
+          "Por grama de proteína (conta nossa)"
         ],
         "rows": [
           [
             "Nutren Protein pó, 400 g (baunilha ou chocolate)",
             "R$ 79,72",
-            "R$ 93,79"
+            "R$ 93,79",
+            "R$ 6,28",
+            "R$ 0,45"
           ],
           [
             "Nutren Protein pó, 800 g (baunilha)",
             "R$ 134,71",
-            "R$ 168,39"
+            "R$ 168,39",
+            "R$ 5,30",
+            "R$ 0,38"
           ],
           [
             "Nutren Protein pronto, 260 ml (baunilha ou chocolate)",
             "R$ 10,59",
-            "—"
+            "—",
+            "R$ 10,59",
+            "R$ 0,71"
           ],
           [
             "Nutren Just Protein, 280 g",
             "R$ 115,91",
-            "—"
+            "—",
+            "R$ 6,21",
+            "R$ 0,48"
           ]
         ]
       }
@@ -330,7 +337,7 @@
         "Quer só a proteína do soro do leite, com carboidratos e açúcares em 0 g na tabela: o Nutren Just Protein, que a Nestlé descreve como \"100% whey protein isolado\", com 13 g de proteína em 15 g.",
         "Quer um suplemento com vitaminas e minerais: o Nutren Protein em pó, com 14 g de proteína em 31,5 g, mas também 80 mg de cafeína, lactose e glúten.",
         "Quer bebida pronta: a garrafa de 260 ml do Nutren Protein (15 g de proteína) ou a YoPRO de 250 ml (15 g de proteína), que têm lactose 0 g na tabela.",
-        "Tem 50 anos ou mais, ou dúvida sobre lactose: veja a linha Nutren Senior e confirme na embalagem."
+        "Tem 50 anos ou mais e está entre o Protein e o Senior: compare cafeína, lactose e vitamina D na tabela e leve a dúvida à consulta."
       ]
     },
     {
@@ -370,8 +377,8 @@
       "a garrafa de 260 ml do Nutren Protein ou a YoPRO: você quer bebida pronta, com lactose 0 g na tabela."
     ],
     "skipIf": [
-      "o Nutren Protein em pó: você evita cafeína, lactose ou glúten; confira o rótulo antes.",
-      "você tem 50 anos ou mais ou uma dúvida de saúde: veja a linha Nutren Senior e leve a dúvida a um médico ou nutricionista."
+      "o Nutren Protein em pó: você evita cafeína, lactose ou glúten.",
+      "a dúvida é entre o Protein e o Senior depois dos 50 anos: essa escolha passa pelo médico ou nutricionista."
     ]
   },
   "editorialNote": "Informações de rótulos e páginas oficiais da Nestlé e da YoPRO, sem uso próprio. Podemos receber comissão pelo cupom CECI.",
