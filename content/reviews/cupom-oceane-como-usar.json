@@ -1,0 +1,228 @@
+{
+  "id": 1291,
+  "slug": "cupom-oceane-como-usar",
+  "locale": "pt",
+  "category": "cupons-como-usar",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "23 de novembro de 2026",
+  "publishedAtISO": "2026-11-23",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASA",
+  "affiliate": "oceane",
+  "title": "Cupom Océane no app e no site: como usar o EMCASA e o que conferir antes de pagar",
+  "seoTitle": "Cupom Océane no app e no site: como usar o EMCASA",
+  "type": "Guia & Cupons",
+  "description": "O EMCASA na Océane vale no site e no app. Veja onde digitar em cada um, o que soma com o preço especial do app, o frete, a troca e o que conferir antes de pagar.",
+  "metaDescription": "EMCASA na Océane dá 10% OFF no pedido, no site e no app. Veja onde digitar, o que soma com o preço especial do app e o que conferir antes de pagar.",
+  "image": "/images/reviews/oceane/cupom-oceane-como-usar-capa.webp",
+  "imageAlt": "Capa verde com o logo da Océane, a chamada “Cupom no app e no site” e o cupom EMCASA.",
+  "cta": {
+    "text": "Monte a sacola no site ou no app da Océane e aplique o EMCASA antes de pagar. Confira a linha de desconto e o frete pelo CEP.",
+    "label": "Ir para a Océane",
+    "url": "https://www.oceane.com.br/?utmi_pc=emcasa",
+    "sponsored": true
+  },
+  "editorialNote": "Cupom testado pelo carrinho da loja. Somos parceiros da Océane e podemos receber comissão pelo cupom. Ninguém da equipe usou os produtos.",
+  "relatedArticles": [
+    {
+      "slug": "cupom-oceane-primeira-compra"
+    },
+    {
+      "slug": "black-friday-oceane"
+    },
+    {
+      "slug": "oceane-e-confiavel"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Seu produto está em preço especial no app: o EMCASA soma com ele.",
+      "Você quer pagar no Pix ou parcelar: o cupom vale em todas as formas de pagamento."
+    ],
+    "skipIf": [
+      "Sua compra depende de combo ou de brinde: aplique o cupom e confira o total da sacola antes de pagar."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O EMCASA na Océane dá 10% OFF no pedido, no site e no app, em todas as formas de pagamento, para cliente novo e antigo. No site, o campo fica na sacola, antes da identificação; no app, o cupom entra na Sacola. O preço especial do app soma com o cupom: veja abaixo o teste e o que conferir."
+      ]
+    },
+    {
+      "heading": "Onde digitar o EMCASA: site ou app",
+      "paragraphs": [
+        "No site, o cupom entra na sacola, antes de você se identificar. Quem já está na tela de pagamento precisa voltar à sacola para aplicar o código."
+      ],
+      "bullets": [
+        "Escolha o produto e clique em “Adicionar à sacola”.",
+        "Na gaveta que abre, clique no botão do fim para ir à sacola de compras.",
+        "No campo “Cupom de desconto”, digite EMCASA e clique em “Adicionar”.",
+        "Confira a linha “Descontos” no resumo: ela mostra quanto o cupom tirou. Só depois siga em “Continuar pagamento”."
+      ],
+      "postParagraphs": [
+        "No app, o cupom entra na Sacola, como no site, antes de “Finalizar Compra”. O código EMCASA também é o de outras lojas parceiras do Em Casa com Cecília, mas o desconto de 10% descrito aqui vale na Océane. Os detalhes da loja estão na página do [cupom Océane](/cupons/oceane)."
+      ]
+    },
+    {
+      "heading": "O que o app mostra com o cupom",
+      "paragraphs": [
+        "No app, o desconto aparece duas vezes: o preço de cada item da Sacola já vem com o EMCASA aplicado, e o resumo traz a linha “Desconto” com o valor abatido. Por isso o preço do item na Sacola fica menor que o da vitrine, e o que vale é o total.",
+        "Testamos o cupom nos dois canais. No app, numa Sacola com três itens, dois deles em preço especial do app, o EMCASA tirou 10% do pedido. No site, o mesmo desconto entrou sobre o preço de um creme para a área dos olhos."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/oceane/cupom-oceane-sacola-app-com-cupom.webp",
+          "alt": "Sacola do aplicativo da Océane com o cupom EMCASA aplicado: subtotal de R$ 201,70, desconto de R$ 20,17 e total de R$ 181,53",
+          "caption": "A Sacola do app com o EMCASA: o preço de cada item já vem com o desconto, e o resumo mostra a linha “Desconto”.",
+          "objectFit": "contain",
+          "aspectRatio": 0.5
+        }
+      ],
+      "comparisonTable": {
+        "caption": "Teste do cupom no carrinho, 23/11. Na Sacola do app, a Face Palette e o Mini Retouch estavam em preço especial do app.",
+        "headers": [
+          "Onde",
+          "O que estava na sacola",
+          "Subtotal",
+          "Desconto do EMCASA",
+          "Total"
+        ],
+        "rows": [
+          [
+            "App",
+            "Face Palette Océane Edition, Mini Retouch My Glam Océane Edition e Repair Eye Cream",
+            "R$ 201,70",
+            "R$ 20,17",
+            "R$ 181,53"
+          ],
+          [
+            "Site",
+            "Repair Eye Cream",
+            "R$ 65,90",
+            "R$ 6,59",
+            "R$ 59,31"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "O que soma com o EMCASA e o que não testamos",
+      "paragraphs": [
+        "O EMCASA soma com o preço especial do app: na Sacola testada, os dois itens que já estavam em preço especial ganharam os 10% por cima. O que não foi testado não se soma por suposição."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Situação",
+          "Com o EMCASA na Océane"
+        ],
+        "rows": [
+          [
+            "Preço especial do app",
+            "Testado: soma, 10% sobre o preço especial"
+          ],
+          [
+            "Produtos da Black Month",
+            "Testado: 10% sobre o preço de oferta"
+          ],
+          [
+            "Kits de presente Minis Edition",
+            "Testado: 10% no kit"
+          ],
+          [
+            "“Leve X por R$ Y”",
+            "Não testado"
+          ],
+          [
+            "Brinde na compra",
+            "Não testado"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A Black Month é a campanha de novembro da loja, com os produtos marcados com “MÊS DA BLACK”. A loja diz que os preços podem variar de acordo com o canal, então vale conferir no carrinho antes de decidir. A campanha tem artigo próprio: [Black Friday na Océane](/reviews/black-friday-oceane).",
+        "Onde está “não testado”, a regra é a da sacola: aplique o EMCASA, olhe a linha “Descontos” e só pague se o total for o que você esperava."
+      ]
+    },
+    {
+      "heading": "Formas de pagamento",
+      "paragraphs": [
+        "O EMCASA vale em todas as formas de pagamento. Quem paga no Pix não perde o cupom, e quem parcela também não.",
+        "A loja informa: cartão de crédito Visa, MasterCard, American Express, Diners Club, Elo e Hipercard, em até 6x sem juros no site todo, com parcela mínima de R$ 30. O Pix gera QR Code no computador e copia e cola no celular. Na Black Month, a loja lista também PicPay, boleto e Ame Digital.",
+        "Um detalhe do caminho: para pagar, a loja pede que você se identifique com e-mail e senha depois da sacola. O cupom entra antes disso, então digite o EMCASA primeiro e identifique-se depois."
+      ]
+    },
+    {
+      "heading": "Frete: o que a sacola mostra",
+      "paragraphs": [
+        "O cupom não mexe no frete: ele desconta 10% do pedido e mais nada. A Océane dá frete grátis em campanha, com um valor mínimo de compra que a política de entrega não diz. O valor do frete e as opções aparecem na sacola depois que você digita o CEP.",
+        "Por isso, não conte com o frete antes do CEP. Na Black Month, a loja avisa que o prazo de entrega pode mudar pela demanda, e é o carrinho, com o CEP, que mostra o prazo de verdade. Quem está na primeira compra encontra o assunto no artigo do [cupom Océane na primeira compra](/reviews/cupom-oceane-primeira-compra)."
+      ]
+    },
+    {
+      "heading": "Se o produto não servir: troca e devolução",
+      "paragraphs": [
+        "Pela página de trocas, a devolução por arrependimento pode ser pedida em até 7 dias corridos do recebimento, e o produto com defeito, em até 30 dias corridos. Em qualquer caso, o produto volta sem sinais de uso, na embalagem original, com a nota fiscal (DANFE), os lacres, as etiquetas, os acessórios e os manuais.",
+        "O pedido é pelo e-mail info@oceane.com.br, com número do pedido, lote, validade, nome e foto do produto e o motivo. A loja responde em até 24 horas úteis. A devolução pelos Correios usa um código de autorização de postagem, com um envio por pedido, e a análise leva até 9 dias úteis depois que a caixa chega ao centro de distribuição.",
+        "A Océane não troca produto por produto: a troca sai como vale-compras. O reembolso, quando é o caso, é pelo valor pago: com o EMCASA, o valor já vem com o desconto. Se a compra tinha brinde e a devolução deixa o total abaixo do valor que dava direito a ele, o brinde volta para a loja."
+      ]
+    },
+    {
+      "heading": "Antes de fechar o pedido",
+      "paragraphs": [
+        "Mexeu na sacola depois de aplicar o cupom? Confira de novo antes de pagar."
+      ],
+      "checklist": {
+        "items": [
+          "Conferir se o EMCASA aparece em “Descontos”, antes da identificação (site).",
+          "No app, conferir a linha “Desconto” e o preço de cada item.",
+          "Ver se o preço especial da vitrine continua no carrinho.",
+          "Ver o frete depois de digitar o CEP, sem contar com o valor da vitrine.",
+          "Confirmar que o total da sacola é o mesmo do pagamento, antes do Pix ou do cartão."
+        ]
+      }
+    },
+    {
+      "heading": "App ou site: onde usar o EMCASA",
+      "paragraphs": [
+        "O EMCASA dá os mesmos 10% no site e no app. O app ganha quando o produto está em preço especial lá, porque o cupom soma. No site, a prova é a linha “Descontos”; no app, a linha “Desconto” e o preço de cada item. Nos dois, o número que vale é o total da sacola."
+      ],
+      "emphasis": "Eu fecharia pelo app quando o produto está em preço especial lá: o EMCASA entra por cima, e o total da Sacola mostra a conta inteira antes de pagar.",
+      "links": [
+        {
+          "label": "Ir para a Océane com o EMCASA",
+          "href": "https://www.oceane.com.br/?utmi_pc=emcasa",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Océane",
+          "href": "/cupons/oceane"
+        }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o cupom da Océane? O cupom da Océane da nossa parceria é EMCASA, com 10% OFF no pedido, no site e no app, em todas as formas de pagamento.",
+        "O EMCASA funciona no app da Océane? Funciona: no app, o cupom entra na Sacola, o preço de cada item já vem com o desconto e o resumo traz a linha “Desconto”.",
+        "O cupom soma com o preço especial do app? Soma: no nosso teste, os itens que já estavam em preço especial do app ganharam os 10% por cima.",
+        "O cupom vale no Pix? Vale. O EMCASA funciona em todas as formas de pagamento, e o Pix pede identificação depois da sacola, onde o cupom já entrou.",
+        "Quantos dias para trocar na Océane? Segundo a loja, a devolução pode ser pedida em até 7 dias corridos do recebimento e o defeito, em até 30 dias corridos; a troca sai como vale-compras."
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-23"
+}

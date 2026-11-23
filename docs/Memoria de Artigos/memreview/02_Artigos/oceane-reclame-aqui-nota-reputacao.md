@@ -11,9 +11,9 @@ category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
 anexo_tipo: "Anexo-Reputacao"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redacao"
+status: "pronto-para-deploy"
+responsavel: "Job-5"
+proxima_acao: "deploy, só com GO do Bruno"
 bloqueado_por: null
 score_autoridade: 62
 score_conversao: 70
@@ -205,3 +205,12 @@ Pendências:
 - GO do pacote da Océane (OC1 a OC10): o pedido do Bruno em 23/11 ("Faça as pautas da Oceane").
 - Decisões tomadas por Claude pelas regras já escritas (sem pergunta ao Bruno) estão marcadas como "regra".
 - Regra: a faixa `metrics` substitui a tabela (Anexo-Reputacao, PR #1363). Os 12 meses são opcionais.
+
+## Redação, revisão e mídia (23/11/2026, sessão de artigos)
+
+- Job 2 por redator Sonnet com os fatos ao vivo de 23/11 (Reclame Aqui nas 5 janelas, trocas, pagamento, Black Month); Job 3 pelo Fable, correções aplicadas.
+- Job 6: folha aprovada pelo Bruno em 23/11/2026; upload FTPS e verificação HTTPS feitos. Fotos oficiais do site da Océane (oceane.vteximg.com.br), lidas em 23/11, sem antes e depois.
+  - capa: foto oficial da Esponja Flat Blend, "Reclame Aqui nota 8,3"
+  - corpo: quadro Principais problemas comentados, aba Geral (print do perfil, aspect 1.217)
+- Job 4: content/reviews/oceane-reclame-aqui-nota-reputacao.json, imageFit contain, relacionados só da leva.
+- Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.

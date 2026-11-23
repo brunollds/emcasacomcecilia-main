@@ -9,9 +9,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redacao"
+status: "pronto-para-deploy"
+responsavel: "Job-5"
+proxima_acao: "deploy, só com GO do Bruno"
 bloqueado_por: null
 pauta_id: "OC3"
 score_autoridade: 58
@@ -192,3 +192,12 @@ Portões: 1 sim (site e catálogo); 2 sim (sem efeito de pele, sem Anvisa); 3 si
 - Decisões tomadas por Claude pelas regras já escritas (sem pergunta ao Bruno) estão marcadas como "regra".
 - Regra: "na ordem de mais vendidos do site", atribuída à loja (`OrderByTopSaleDESC` é o filtro "Mais vendidos" do site).
 - Regra: faixa de preço por categoria só de maquiagem e skincare (o que o artigo trata); cabelos e bem-estar numa linha.
+
+## Redação, revisão e mídia (23/11/2026, sessão de artigos)
+
+- Job 2 por redator Sonnet com os fatos ao vivo de 23/11 (Reclame Aqui nas 5 janelas, trocas, pagamento, Black Month); Job 3 pelo Fable, correções aplicadas.
+- Job 6: folha aprovada pelo Bruno em 23/11/2026; upload FTPS e verificação HTTPS feitos. Fotos oficiais do site da Océane (oceane.vteximg.com.br), lidas em 23/11, sem antes e depois.
+  - capa: foto oficial da Base em Bastão (braços com os tons), "A marca é boa?"
+  - corpo: Batom Glossy Rosé Pink, Pó Cover Me Up e Kit Minis Trio de Batons (fotos oficiais, href do produto)
+- Job 4: content/reviews/oceane-e-boa.json, imageFit contain, relacionados só da leva.
+- Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.

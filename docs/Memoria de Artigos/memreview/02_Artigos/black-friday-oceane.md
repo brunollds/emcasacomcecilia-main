@@ -9,9 +9,9 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de Black Friday"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redação (Job 2), na 1ª leva com OC1 a OC5 (tem prazo: Black Friday em 27/11)"
+status: "pronto-para-deploy"
+responsavel: "Job-5"
+proxima_acao: "deploy, só com GO do Bruno"
 bloqueado_por: "página /cupons/oceane no ar (PR feat/parceiro-oceane)"
 score_autoridade: 60
 score_conversao: 80
@@ -199,3 +199,12 @@ Nenhuma que mude o artigo. Se a Océane mandar regra ou data da campanha, entra 
 ## Decisões do Bruno (23/11/2026)
 
 - GO: "vamos fazer OC Black Friday". Entra na 1ª leva de redação, com OC1 a OC5.
+
+## Redação, revisão e mídia (23/11/2026, sessão de artigos)
+
+- Job 2 por redator Sonnet com os fatos ao vivo de 23/11 (Reclame Aqui nas 5 janelas, trocas, pagamento, Black Month); Job 3 pelo Fable, correções aplicadas.
+- Job 6: folha aprovada pelo Bruno em 23/11/2026; upload FTPS e verificação HTTPS feitos. Fotos oficiais do site da Océane (oceane.vteximg.com.br), lidas em 23/11, sem antes e depois.
+  - capa: foto oficial do kit Minis blush e iluminador (mão), "Black Friday" e EMCASA
+  - corpo: Paleta Multifuncional (foto oficial, href do produto); print da Sacola do app
+- Job 4: content/reviews/black-friday-oceane.json, imageFit contain, relacionados só da leva.
+- Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.

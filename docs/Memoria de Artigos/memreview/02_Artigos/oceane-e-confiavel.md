@@ -9,9 +9,9 @@ category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redacao"
+status: "pronto-para-deploy"
+responsavel: "Job-5"
+proxima_acao: "deploy, só com GO do Bruno"
 bloqueado_por: null
 pauta_id: "OC5"
 score_autoridade: 70
@@ -196,3 +196,12 @@ experiência própria); 4 sim (a empresa não divide intenção com `/cupons/oce
 - GO do pacote da Océane (OC1 a OC10): o pedido do Bruno em 23/11 ("Faça as pautas da Oceane").
 - Decisões tomadas por Claude pelas regras já escritas (sem pergunta ao Bruno) estão marcadas como "regra".
 - Regra (Job 1, lição da L17): a loja oficial na Shopee fica numa linha do quadro de canais, sem destaque e fora do FAQ.
+
+## Redação, revisão e mídia (23/11/2026, sessão de artigos)
+
+- Job 2 por redator Sonnet com os fatos ao vivo de 23/11 (Reclame Aqui nas 5 janelas, trocas, pagamento, Black Month); Job 3 pelo Fable, correções aplicadas.
+- Job 6: folha aprovada pelo Bruno em 23/11/2026; upload FTPS e verificação HTTPS feitos. Fotos oficiais do site da Océane (oceane.vteximg.com.br), lidas em 23/11, sem antes e depois.
+  - capa: foto oficial do Blush Líquido (modelo), "É loja confiável?"
+  - corpo: esponjas Flat Blend (foto oficial, href do produto)
+- Job 4: content/reviews/oceane-e-confiavel.json, imageFit contain, relacionados só da leva.
+- Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.

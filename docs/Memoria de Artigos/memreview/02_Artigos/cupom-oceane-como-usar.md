@@ -9,9 +9,9 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
-responsavel: "Job-1"
-proxima_acao: "redacao"
+status: "pronto-para-deploy"
+responsavel: "Job-5"
+proxima_acao: "deploy, só com GO do Bruno"
 bloqueado_por: null
 score_autoridade: 52
 score_conversao: 78
@@ -176,3 +176,12 @@ vai na legenda, não no corpo. Sem "X% OFF" sobre o riscado.
 - Decisões tomadas por Claude pelas regras já escritas (sem pergunta ao Bruno) estão marcadas como "regra".
 - **Resposta do Bruno (23/11):** no app, o EMCASA entra no carrinho, que o app chama de **Sacola**, como no site. O passo a passo do app diz isso.
 - O print da sacola do app (o mesmo da página da loja) entra no corpo (regra: piso de imagem do Job 6, print próprio do Bruno).
+
+## Redação, revisão e mídia (23/11/2026, sessão de artigos)
+
+- Job 2 por redator Sonnet com os fatos ao vivo de 23/11 (Reclame Aqui nas 5 janelas, trocas, pagamento, Black Month); Job 3 pelo Fable, correções aplicadas.
+- Job 6: folha aprovada pelo Bruno em 23/11/2026; upload FTPS e verificação HTTPS feitos. Fotos oficiais do site da Océane (oceane.vteximg.com.br), lidas em 23/11, sem antes e depois.
+  - capa: foto oficial do Kit Presente Minis (modelo), painel verde, "Cupom de 10% OFF" e EMCASA
+  - corpo: print da Sacola do app (cupom-oceane-sacola-app-com-cupom.webp, print do Bruno)
+- Job 4: content/reviews/cupom-oceane-como-usar.json, imageFit contain, relacionados só da leva.
+- Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.
