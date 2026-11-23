@@ -17,6 +17,7 @@
   "metaDescription": "Caramelo Salgado Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: 78 kcal por cápsula, ingredientes, açúcar, cafeína e preço.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-capa-v2.webp",
@@ -27,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Caramelo Salgado Dolce Gusto é um cappuccino em cápsula com leite em pó, açúcar, café solúvel e sal: 78 kcal e 7,9 g de açúcares adicionados por cápsula, com glúten e lactose. Tem café, mas a loja não informa a cafeína. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+        "O Caramelo Salgado Dolce Gusto é um cappuccino em cápsula com leite em pó, açúcar, café solúvel e sal: 78 kcal por cápsula, com glúten e lactose. Tem café, mas a loja não informa a cafeína. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, com 10% OFF a partir de 100 reais."
       ]
     },
     {
@@ -37,10 +38,13 @@
         "A tabela nutricional trata 1 cápsula como 1 porção e traz 10 porções por caixa: é uma cápsula por bebida.",
         "Conta nossa, pelos números da tabela da loja: 78 kcal por cápsula divididas por 65 kcal a cada 100 ml, vezes 100, dão cerca de 120 ml. Para entender como os níveis da máquina se ligam aos mililitros, veja a [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
       ],
-      "image": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-xicara.webp",
-      "imageAlt": "Cápsula e xícara do Caramelo Salgado Dolce Gusto",
-      "imageCaption": "Cápsula e bebida pronta, em foto da loja oficial.",
-      "imageFit": "contain"
+      "image": {
+        "src": "/images/reviews/dolcegusto/caramelo-salgado-dolce-gusto-xicara.webp",
+        "alt": "Cápsula e xícara do Caramelo Salgado Dolce Gusto",
+        "caption": "Cápsula e bebida pronta, em foto da loja oficial.",
+        "href": "https://www.nescafe-dolcegusto.com.br/sabores/caramelo-salgado",
+        "objectFit": "contain"
+      }
     },
     {
       "heading": "Ingredientes: tem café?",
@@ -140,14 +144,32 @@
     {
       "heading": "Preço por cápsula e CECI",
       "paragraphs": [
-        "A cápsula sai por R$ 2,59, sem desconto na página: em 17/10/2026, a caixa com 10 custava R$ 25,90 na loja oficial. Conta nossa: o preço dividido por 10. Para comparar com os outros sabores, veja [quanto custa uma cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto). Se ainda não sabe qual sabor escolher, o guia de [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026) separa por perfil.",
-        "O cupom CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. As regras e a validade estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto) e no passo a passo de [como usar o cupom CECI](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar). Confira a linha de desconto no resumo do pedido antes de finalizar."
+        "A cápsula sai por R$ 2,59, sem desconto na página: na consulta de outubro, a caixa com 10 do [Caramelo Salgado](https://www.nescafe-dolcegusto.com.br/sabores/caramelo-salgado) custava R$ 25,90 na loja oficial. Conta nossa: o preço dividido por 10. Na consulta de novembro, a caixa estava a R$ 17,90 na promoção de bebidas; o preço muda quase todo dia e a promoção pode acabar sem aviso, então confira o preço do dia na página. Para comparar com os outros sabores, veja [quanto custa uma cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto). Se ainda não sabe qual sabor escolher, o guia de [melhores cápsulas Dolce Gusto](/reviews/melhores-capsulas-dolce-gusto-2026) separa por perfil.",
+        "O cupom CECI dá 10% OFF na loja oficial e no app, em compras a partir de 100 reais e em todas as formas de pagamento. Uma caixa sozinha fica abaixo do mínimo: junte caixas até o subtotal passar disso. No carrinho, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar. O código vale em mais de um pedido, mas não vale no frete, nem junto com o resgate de pontos do Club, nem no Mercado Livre. As regras estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto) e no passo a passo de [como usar o cupom CECI](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar)."
+      ]
+    },
+    {
+      "heading": "Vale levar o Caramelo Salgado?",
+      "paragraphs": [
+        "É um cappuccino de uma cápsula só: dez bebidas por caixa, cerca de 120 ml cada. O que pesa é o açúcar, o glúten e a lactose: quem evita algum deles passa."
+      ],
+      "emphasis": "Para quem quer um cappuccino doce com toque de sal e sem conta de duas cápsulas, o Caramelo Salgado vale a caixa.",
+      "links": [
+        {
+          "label": "Ver o Caramelo Salgado na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/sabores/caramelo-salgado",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual o código de desconto da Dolce Gusto? O cupom é CECI, que dá 10% OFF na loja oficial em compras a partir de R$ 100.",
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
         "O Caramelo Salgado Dolce Gusto tem cafeína? A lista tem café solúvel, mas a loja não informa a quantidade de cafeína em mg.",
         "O Caramelo Salgado tem café? Sim, café solúvel, segundo a lista de ingredientes da loja.",
         "Quantas calorias tem o Caramelo Salgado Dolce Gusto? A tabela da loja mostra 78 kcal por cápsula (17,5 g) e 65 kcal por 100 ml.",
@@ -167,7 +189,16 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Texto feito a partir da página do produto na loja oficial, sem teste de sabor: as medidas e as contas são identificadas no texto. Parceria comercial com a Dolce Gusto: pode haver comissão nas compras feitas com o CECI.",
+  "decision": {
+    "takeIf": [
+      "Você quer um cappuccino doce com toque de sal, com uma cápsula por bebida e dez bebidas por caixa."
+    ],
+    "skipIf": [
+      "Você evita glúten ou lactose: a loja informa que o Caramelo Salgado contém os dois.",
+      "Você controla o açúcar: são 7,9 g de açúcares adicionados por cápsula."
+    ]
+  },
+  "editorialNote": "Podemos receber comissão da Dolce Gusto. Feito pela página da loja, sem teste de sabor.",
   "relatedArticles": [
     {
       "slug": "melhores-capsulas-dolce-gusto-2026"

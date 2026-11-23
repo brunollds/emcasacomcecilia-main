@@ -17,6 +17,7 @@
   "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Qual sabor de cápsula Dolce Gusto escolher: cafés, com leite, chocolates, chás, gelados e NEO.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/dolcegusto/melhores-capsulas-dolce-gusto-2026-capa-v2.webp",
@@ -27,17 +28,17 @@
   "cons": [],
   "contentSections": [
     {
-      "heading": "Resposta rápida: qual sabor para cada perfil",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "Para café puro de menor intensidade, compare Espresso, Lungo e Café Caseiro. Para café com leite, veja Café au Lait, Pingado e Mochaccino Canela, todos da linha Original; confira o sistema da sua máquina antes de escolher. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF em compras a partir de 100 reais."
+        "Para café puro, compare Espresso, Lungo e Café Caseiro; para café com leite, veja Café au Lait, Pingado e Mochaccino Canela. Antes do sabor, confira se a cápsula serve na sua máquina, Original ou NEO. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, com 10% OFF a partir de 100 reais."
       ]
     },
     {
       "heading": "Original ou NEO: a máquina escolhe primeiro",
       "paragraphs": [
         "Antes do sabor, veja a máquina: só a linha certa serve nela.",
-        "A loja tem duas linhas de cápsulas. As Original, quase todo o catálogo, só servem nas máquinas Original, como a Mini Me 2.0 e as Genio S. As NEO, de papel, são para as máquinas NEO.",
-        "A NEO tem só cafés pretos: oito na loja, dois deles sem estoque. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start."
+        "A loja tem duas linhas de cápsulas. As Original, quase todo o catálogo, só servem nas máquinas Original, como a [Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2) e as [Genio S](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios). As NEO, de papel, são para as máquinas NEO.",
+        "A NEO tem só cafés pretos: oito na loja, dois deles sem estoque. Alguns cafés NEO funcionam em máquinas Original com o [Adaptador NEO Start](https://www.nescafe-dolcegusto.com.br/adaptador-neo-start); a lista de cafés compatíveis e o estoque mudam, então confira na página do adaptador antes de comprar."
       ],
       "links": [
         {
@@ -76,7 +77,8 @@
         "src": "/images/reviews/dolcegusto/dolce-gusto-cafes-pretos-intensidade-oficial.webp",
         "alt": "Caixas de cápsulas Dolce Gusto Espresso, Caffè Matinal e Doppio Espresso lado a lado, com as intensidades 5, 9 e 10, em fotos oficiais da loja",
         "caption": "Espresso, Caffè Matinal e Doppio Espresso: intensidades 5, 9 e 10 na escala da loja.",
-        "objectFit": "cover"
+        "objectFit": "cover",
+        "href": "https://www.nescafe-dolcegusto.com.br/sabores/capsulas-espresso-10"
       },
       "comparisonTable": {
         "caption": "Intensidade informada na página de cada café da loja oficial. Todos usam uma cápsula por bebida.",
@@ -128,7 +130,8 @@
         "src": "/images/reviews/dolcegusto/dolce-gusto-cafes-com-leite-oficial.webp",
         "alt": "Caixas de cápsulas Dolce Gusto Café au Lait, Mochaccino Canela e Latte Macchiato lado a lado, em fotos oficiais da loja",
         "caption": "Café au Lait e Mochaccino Canela usam uma cápsula por bebida; o Latte Macchiato usa duas.",
-        "objectFit": "cover"
+        "objectFit": "cover",
+        "href": "https://www.nescafe-dolcegusto.com.br/sabores/capsulas-cafe-au-lait-10"
       },
       "comparisonTable": {
         "caption": "Cápsulas por bebida informadas na loja oficial.",
@@ -165,7 +168,8 @@
         "src": "/images/reviews/dolcegusto/dolce-gusto-chocolates-e-chas-oficial.webp",
         "alt": "Caixas de cápsulas Dolce Gusto Nescau, Galak, Nestea Pêssego e Chai Tea Latte, em duas fileiras, em fotos oficiais da loja",
         "caption": "Nescau e Galak, da categoria chocolate, e os chás Nestea Pêssego e Chai Tea Latte.",
-        "objectFit": "cover"
+        "objectFit": "cover",
+        "href": "https://www.nescafe-dolcegusto.com.br/sabores"
       }
     },
     {
@@ -184,14 +188,15 @@
     {
       "heading": "Starbucks e Kopenhagen",
       "paragraphs": [
-        "São cinco Starbucks: Espresso Colombia (7), Americano House Blend (8), Cappuccino de duas cápsulas, Caramel Macchiato, que estava sem estoque, e o Toffee Nut Latte, edição limitada em caixa de 12.",
+        "São cinco [Starbucks](https://www.nescafe-dolcegusto.com.br/starbucks): Espresso Colombia (7), Americano House Blend (8), Cappuccino de duas cápsulas, Caramel Macchiato, que estava sem estoque, e o Toffee Nut Latte, edição limitada em caixa de 12.",
         "A Kopenhagen tem cinco: Espresso, Cappuccino, Lajotinha, Língua de Gato e Chococino Cereja."
       ],
       "image": {
         "src": "/images/reviews/dolcegusto/dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
         "alt": "Caixas de cápsulas Starbucks Cappuccino, Starbucks Toffee Nut Latte e Kopenhagen Língua de Gato para Dolce Gusto, em fotos oficiais da loja",
         "caption": "Starbucks Cappuccino, Starbucks Toffee Nut Latte, na caixa de 12, e Kopenhagen Língua de Gato.",
-        "objectFit": "cover"
+        "objectFit": "cover",
+        "href": "https://www.nescafe-dolcegusto.com.br/starbucks"
       }
     },
     {
@@ -210,7 +215,8 @@
         "src": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
         "alt": "Caixa DGusta de 50 cápsulas aberta, com cápsulas saindo, ao lado de caixas avulsas de Café au Lait, Doppio Espresso e Starbucks",
         "caption": "A caixa DGusta, à direita, junta 50 ou 100 cápsulas de sabores escolhidos um a um.",
-        "objectFit": "contain"
+        "objectFit": "contain",
+        "href": "https://www.nescafe-dolcegusto.com.br/sabores"
       },
       "comparisonTable": {
         "caption": "O que a loja oficial mostrava em 12/10/2026. Preço e composição mudam sem aviso.",
@@ -278,13 +284,15 @@
         ]
       },
       "postParagraphs": [
+        "Em novembro, a loja pôs no ar os combos da Black Friday: o \"Leve 10 pague 6\" de Espresso, Espresso Intenso, Cappuccino, Caffè Matinal, Au Lait, Mochaccino Canela e Língua de Gato, o combo de 8 caixas de Mochaccino Canela com 30% OFF e o combo Kopenhagen com 30% OFF. Os combos de bebidas não somam com outras ofertas do site, mas o CECI somou no nosso teste do combo. As promoções mudam quase todo dia e podem acabar sem aviso: confira no [regulamento das promoções](https://www.nescafe-dolcegusto.com.br/sobre/regulamentos2026) e no carrinho.",
         "Os kits de 50 ou 100 cápsulas dos marketplaces são pacotes montados por vendedores; este guia fica nos kits da loja oficial."
       ]
     },
     {
       "heading": "Onde comprar e o cupom CECI",
       "paragraphs": [
-        "Na loja oficial, o cupom CECI dá 10% OFF em compras a partir de R$ 100. A loja também dava frete grátis em pedidos de bebidas acima de R$ 100. Quantas caixas fecham esse valor está no nosso guia de custo."
+        "Na loja oficial, o cupom CECI dá 10% OFF e vale no site e no app, em compras a partir de 100 reais e em todas as formas de pagamento. O mínimo conta sobre o subtotal já com o desconto da promoção. No carrinho, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar. O código vale em mais de um pedido, mas não vale no frete, nem junto com o resgate de pontos do Club, nem no Mercado Livre.",
+        "A promoção de bebidas dá frete grátis acima de 100 reais. Quantas caixas fecham esse valor está no nosso guia de custo."
       ],
       "links": [
         {
@@ -316,30 +324,34 @@
         "Chá: Nestea Pêssego, Nestea Mate Limão ou Chai Tea Latte.",
         "Gelado: Frappe, Shakerato ou Nestea Pêssego.",
         "Marca parceira: Starbucks ou Kopenhagen.",
-        "Máquina NEO: só os cafés NEO, como o NEO Espresso Sul de Minas Orgânico."
+        "Máquina NEO: só os cafés NEO, como o [NEO Espresso Sul de Minas Orgânico](https://www.nescafe-dolcegusto.com.br/sabores/espresso-sul-de-minas)."
       ],
       "postParagraphs": [
         "Se a casa tem gostos diferentes, uma saída é fixar dois ou três sabores e trocar um a cada pedido."
+      ],
+      "emphasis": "Na dúvida, comece por um sabor de uma cápsula: a caixa rende 10 bebidas, o dobro de um cappuccino, e você descobre do que gosta gastando menos por xícara.",
+      "links": [
+        {
+          "label": "Ver os sabores na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/sabores",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quais são as melhores cápsulas Dolce Gusto? Não existe uma melhor: a escolha depende de você tomar café puro, café com leite, chocolate ou chá, e da sua máquina, Original ou NEO.",
-        "Qual é o melhor sabor de cápsula Dolce Gusto? Depende do perfil: o capítulo Qual sabor escolher separa café puro, café forte, com leite, chocolate, chá, gelado, Starbucks, Kopenhagen e NEO.",
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
+        "Quais são as melhores cápsulas Dolce Gusto? Não existe uma melhor: depende de você tomar café puro, com leite, chocolate ou chá e da sua máquina, Original ou NEO. O capítulo Qual sabor escolher separa os perfis.",
         "Qual é a cápsula Dolce Gusto mais vendida? A loja tem a ordem \"Mais Vendidos\", mas não informa o critério, então não há ranking oficial e este guia não faz um.",
-        "Qual o café mais gostoso da Dolce Gusto? Depende do seu gosto: compare pela intensidade que a loja informa e pelo leite ou chocolate da bebida.",
-        "Quais são os sabores das cápsulas Dolce Gusto? A loja listava 52 caixas Original (19 cafés, 19 cappuccinos e lattes, 9 chocolates e 5 chás) e 8 cafés NEO.",
-        "Qual a melhor cápsula de cappuccino da Dolce Gusto? Não há uma melhor. O Cappuccino, o Kopenhagen Cappuccino e o Starbucks Cappuccino usam duas cápsulas por bebida; o Cappuccino Moça Doce de Leite e o Caramelo Salgado usam uma.",
-        "Qual a melhor cápsula de chocolate da Dolce Gusto? Não há uma melhor. Nescau, Galak, KitKat e Chococino Alpino usam uma cápsula por bebida; Chococino Nestlé e Kopenhagen Língua de Gato usam duas.",
+        "Quais são os sabores das cápsulas Dolce Gusto, e tem descafeinado? A loja listava 52 caixas Original (19 cafés, 19 cappuccinos e lattes, 9 chocolates e 5 chás) e 8 cafés NEO. Sim, tem descafeinado: o Espresso Descafeinado, de intensidade 5.",
+        "Qual a melhor cápsula de cappuccino ou de chocolate da Dolce Gusto? Não há uma melhor. Nos dois grupos, uns usam uma cápsula por bebida e outros duas, e isso muda quantas bebidas saem da caixa; a lista está nos capítulos de cafés com leite e de chocolates.",
         "Quais cápsulas dão certo na Dolce Gusto? As Original nas máquinas Original e as NEO nas máquinas NEO. Alguns cafés NEO funcionam em máquinas Original com o Adaptador NEO Start.",
-        "Onde comprar 50 ou 100 cápsulas Dolce Gusto? No DGusta da loja oficial: você escolhe os sabores de uma caixa de 50 ou 100 cápsulas ou leva uma das quatro seleções prontas de 50, como a Nossos Favoritos.",
-        "Quantas bebidas faz uma caixa de cápsulas Dolce Gusto? Nas caixas de 10 cápsulas, são 10 bebidas nos sabores de uma cápsula e 5 nos de duas, como o Cappuccino. A Starbucks Toffee Nut Latte, em caixa de 12 cápsulas, faz 6 bebidas.",
-        "Existe kit de cápsulas Dolce Gusto? Sim: a loja oficial tem as seleções prontas do DGusta, combos de 6 e 8 caixas e combos com xícara.",
-        "Existe cápsula Dolce Gusto sortida? A loja chama de seleções do DGusta: Nossos Favoritos, Cafés, Lattes e Chocolates, com 50 cápsulas cada.",
-        "Tem leve 3 pague 2 na Dolce Gusto? Não encontramos na loja oficial: os descontos são em porcentagem.",
-        "Tem cápsula Dolce Gusto descafeinada? Sim, a loja tem o Espresso Descafeinado, de intensidade 5.",
-        "O cupom CECI vale para cápsulas? Sim: 10% OFF em compras a partir de R$ 100 na loja oficial."
+        "Existe kit ou caixa sortida de cápsulas Dolce Gusto, de 50 ou 100? Sim: o DGusta, da loja oficial, monta caixas de 50 ou 100 cápsulas e tem quatro seleções prontas de 50. Não há \"leve 3 pague 2\": os descontos são em porcentagem. Os combos de caixas estão no capítulo de kits e combos."
       ]
     }
   ],
@@ -351,6 +363,16 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
+  "decision": {
+    "takeIf": [
+      "Você já sabe se a sua máquina é Original ou NEO e quer escolher o sabor pelo seu jeito de tomar café: puro, com leite, chocolate ou chá.",
+      "Você quer provar mais de um sabor sem se comprometer: as caixas de 10 cápsulas e as seleções de 50 do DGusta deixam misturar."
+    ],
+    "skipIf": [
+      "Você procura um ranking dos mais vendidos: a loja não informa o critério da ordem \"Mais Vendidos\", e este guia não monta um.",
+      "A sua máquina é NEO: o catálogo dela é só de cafés pretos, e as cápsulas Original não servem."
+    ]
+  },
   "editorialNote": "Podemos receber comissão da Dolce Gusto. Dados das páginas oficiais da loja.",
   "relatedArticles": [
     {

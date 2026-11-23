@@ -25,13 +25,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na Dolce Gusto, 1 barra rende cerca de 35 a 40 ml, 4 barras 110 a 120 ml, 7 barras 200 a 220 ml, e o XL chega a 300 ml. A Nestlé não publica tabela oficial única, então são faixas de referência. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+        "Na Dolce Gusto, 1 barra rende cerca de 35 a 40 ml, 4 barras 110 a 120 ml, 7 barras 200 a 220 ml e o XL da Genio S Touch, 300 ml. São faixas dos manuais, sem tabela oficial única. No site oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI: 10% OFF a partir de 100 reais."
       ]
     },
     {
       "heading": "Tabela de referência: volumes encontrados no manual",
       "paragraphs": [
-        "São faixas dos manuais da Genio S Touch e da Mini Me 2.0, não calibração oficial. Alguns aparecem em cartões de receita e outros junto aos ícones da escala de barras; por isso, devem ser lidos como faixas de referência:"
+        "São faixas dos manuais da [Genio S Touch](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1) e da [Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2), não calibração oficial: a Nestlé não publica uma tabela única que ligue cada nível aos mililitros. Reunimos os valores dos cartões de receita e dos ícones da escala de barras do manual impresso da Genio S Touch, e o da Mini Me 2.0 repete as medidas de 1 a 7. A foto da embalagem mostra a tabela de preparo por bebida, inclusive as de duas etapas. Leia tudo como faixas de referência:"
       ],
       "bullets": [
         "1 barra (1 nível): cerca de 35 ml a 40 ml, exemplos de ristretto e espresso curto",
@@ -49,22 +49,12 @@
       "imageFit": "contain"
     },
     {
-      "heading": "Como chegamos a estes números",
-      "paragraphs": [
-        "O painel da Genio S Touch mostra tracinhos, sem mililitros, e as fontes online divergem: algumas dão 280 ml ao XL, mas o manual da nossa Genio S Touch mostra 300 ml.",
-        "A Nestlé não publica, no manual nem no site oficial, uma tabela única que relacione todos os níveis aos volumes em mililitros. Por isso, reunimos os valores que aparecem nos diferentes exemplos e cartões de receita do manual impresso da Genio S Touch. O manual da Mini Me 2.0 repete as medidas dos níveis de 1 a 7, reforçando essa referência em dois modelos; a função XL, que a Mini Me 2.0 não tem, vem só da Genio S Touch. Ainda assim, as faixas abaixo são uma compilação editorial, não uma calibração oficial válida para todas as máquinas e cápsulas.",
-        "Também fotografamos a tabela de preparo impressa em uma embalagem da linha Dolce Gusto. As imagens abaixo tornam visíveis as recomendações por bebida, inclusive as receitas feitas em duas etapas. Elas documentam essa tabela específica e não substituem a orientação impressa na cápsula ou no manual do seu modelo."
-      ],
-      "bullets": []
-    },
-    {
       "heading": "Como funciona a variação de volume por nível",
       "paragraphs": [
         "A escala vai de 1 a 7 barras, mais a opção XL. Os volumes sobem a cada barra, do curto ao longo, e o XL é um passo extra: entre os dois manuais, só o da Genio S Touch traz o XL, porque a Mini Me 2.0 não tem essa função; os valores de cada nível estão na tabela acima.",
         "Cada cápsula traz uma quantidade recomendada impressa na embalagem em forma de barras. Ao selecionar o número correspondente no painel touch, a máquina segue o nível indicado para aquela receita; o volume final deve ser entendido como aproximado e pode variar conforme a bebida e o modelo.",
         "Nas bebidas preparadas em duas etapas, como lattes e cappuccinos, o volume total no copo é a soma das extrações. Na tabela fotografada, o cappuccino combina 200 ml da etapa de leite com 40 ml da etapa de café, totalizando 240 ml. O latte macchiato combina 170 ml de leite e 50 ml de café, totalizando 220 ml."
       ],
-      "bullets": [],
       "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-chocolates-chas.webp",
       "imageAlt": "Tabela impressa em uma embalagem Dolce Gusto com os volumes de chocolates, mochas e chás",
       "imageCaption": "A mesma tabela traz receitas de chocolate, mocha e chá, incluindo os volumes de cada etapa quando há duas cápsulas.",
@@ -74,10 +64,9 @@
       "heading": "Risco, traço, tracinho ou barra: é tudo o mesmo nível",
       "paragraphs": [
         "Risco, risquinho, traço, tracinho ou barra: são nomes diferentes para a mesma marcação da escala de água. O manual da Genio S Touch fala em barras, e a Nestlé, em tracinhos.",
-        "A própria Nestlé usa 'tracinho' na documentação oficial: a página do Adaptador NEO Start recomenda '1 tracinho de água' para espressos e '4 tracinhos' para lungos. Essa orientação é para as cápsulas NEO compatíveis preparadas com o adaptador; nas outras cápsulas, vale o número de tracinhos impresso na embalagem.",
+        "A própria Nestlé usa 'tracinho' na documentação oficial: a página do [Adaptador NEO Start](https://www.nescafe-dolcegusto.com.br/adaptador-neo-start) recomenda '1 tracinho de água' para espressos e '4 tracinhos' para lungos. Essa orientação é para as cápsulas NEO compatíveis preparadas com o adaptador; nas outras cápsulas, vale o número de tracinhos impresso na embalagem.",
         "Nos exemplos reunidos no manual, 4 barras aparecem associadas a aproximadamente 110-120 ml, mas não existe uma tabela oficial única que estabeleça essa equivalência para todas as cápsulas e máquinas."
       ],
-      "bullets": [],
       "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
       "imageAlt": "Foto real do manual da NESCAFÉ Dolce Gusto com a indicação de tracinhos e níveis",
       "imageFit": "square"
@@ -89,7 +78,6 @@
         "Na área de lattes, a mesma tabela mostra 80 ml para Cortado, 120 ml para [Mochaccino Canela](/reviews/mochaccino-canela-dolce-gusto), 140 ml para Café au Lait Desnatado e 180 ml para [Café au Lait](/reviews/cafe-au-lait-dolce-gusto). Para bebidas em duas etapas, os exemplos visíveis são Vanilla Latte Macchiato (175 ml de leite + 25 ml de café), Latte Macchiato (170 ml + 50 ml), Cappuccino (200 ml + 40 ml), Chococino (100 ml de chocolate + 110 ml de leite), Chococino Caramel (100 ml de leite + 110 ml de chocolate), Mocha (110 ml de café + 110 ml de leite) e Chai Tea Latte (120 ml de leite + 100 ml de chá).",
         "A tabela também lista Nestea Limão e Nestea Pêssego com 200 ml. Use esses exemplos para escolher uma xícara que comporte o volume recomendado; para uma cápsula diferente, prevalece sempre o número de barras indicado na sua própria embalagem."
       ],
-      "bullets": [],
       "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
       "imageAlt": "Visão geral da tabela de preparo impressa em uma embalagem Dolce Gusto, com cafés, lattes, chocolates e chás",
       "imageCaption": "Visão geral fotografada da tabela de preparo na embalagem. Toque para ampliar e ler os exemplos por categoria.",
@@ -98,10 +86,9 @@
     {
       "heading": "XL no manual da Genio S Touch: 300 ml",
       "paragraphs": [
-        "O gráfico do manual da Genio S Touch mostra 300 ml para XL, não 280 ml. O comparativo da loja oficial mostra a Mini Me 2.0 sem XL, e a Nestlé não publica tabela única.",
-        "Se o manual do seu modelo traz outros valores, siga o do seu modelo. O XL de 300 ml é o do manual da Genio S Touch, e a página oficial da Genio S Plus fala no mesmo limite, de até 300 ml."
+        "O gráfico do manual da Genio S Touch mostra 300 ml para XL, não 280 ml. O comparativo da loja oficial mostra a [Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2) sem XL, e a Nestlé não publica tabela única.",
+        "Se o manual do seu modelo traz outros valores, siga o do seu modelo. O XL de 300 ml é o do manual da Genio S Touch, e a página oficial da [Genio S Plus](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-plus-preta-110v-new) fala no mesmo limite, de até 300 ml."
       ],
-      "bullets": [],
       "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp",
       "imageAlt": "Confirmação do volume máximo de 300 ml para a função XL no manual da máquina",
       "imageFit": "square"
@@ -109,14 +96,26 @@
     {
       "heading": "Cupom CECI para comprar na loja oficial",
       "paragraphs": [
-        "Se você chegou diretamente a este guia e pretende comprar cápsulas ou uma máquina, use o cupom **CECI** na loja oficial da NESCAFÉ Dolce Gusto para obter **10% de desconto** em compras a partir de R$ 100, conforme as regras vigentes no momento da compra.",
-        "Digite CECI no campo de cupom antes de concluir o pedido e confirme se o desconto foi aplicado. O cupom faz parte da nossa parceria comercial com a marca, sem custo adicional para você.",
+        "Se você veio só pela tabela e vai repor cápsulas ou comprar uma máquina, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI: 10% OFF na loja oficial e no app da Nescafé Dolce Gusto, em compras a partir de 100 reais, em todas as formas de pagamento.",
+        "No carrinho, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar. O mínimo conta sobre o subtotal já com a promoção, e o código não vale no frete nem com resgate de pontos do Club. A parceria é comercial e não custa nada a mais para quem compra.",
         "Para decidir como comprar, compare [quanto custa cada bebida Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto) por cápsula e por caixa, veja se a [assinatura Dolce Gusto vale a pena](/reviews/assinatura-dolce-gusto-vale-a-pena) para o seu consumo e [como funciona a assinatura](/reviews/assinatura-dolce-gusto-como-funciona), quando o [combo com a Mini Me](/reviews/promocao-dolce-gusto-caixas-mini-me-gratis) compensa e como juntar pontos no [Clube Dolce Gusto](/reviews/clube-dolce-gusto-como-funciona)."
+      ]
+    },
+    {
+      "heading": "Na dúvida, qual nível escolher",
+      "paragraphs": [
+        "Escolha o nível pela cápsula, não pela tabela: o número de barras impresso na embalagem é o que vale para aquela bebida. A tabela serve para escolher a xícara e para saber quanto vai sair no copo.",
+        "Quem quer o volume máximo precisa da [Genio S Touch](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1): a [Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2) para no nível 7, de 200 a 220 ml, e não tem XL. Em outro modelo, o manual dele manda mais que estas faixas."
       ],
-      "bullets": [],
+      "emphasis": "Na dúvida, siga o número de barras impresso na cápsula e use esta tabela para escolher a xícara.",
       "links": [
         {
-          "label": "Consultar validade e regras do cupom CECI",
+          "label": "Ver a Genio S Touch na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
           "href": "/cupons/dolce-gusto"
         }
       ]
@@ -124,20 +123,20 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quantos ml tem cada risco (tracinho) da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml (o XL vem do manual da Genio S Touch; a Mini Me 2.0 não tem XL).",
+        "Quantos ml tem cada risco (tracinho) da Dolce Gusto? Cada barra aumenta o volume, de 35 a 40 ml na primeira a 200 a 220 ml na sétima, e o XL da Genio S Touch chega a 300 ml. A Nestlé não publica uma equivalência única para toda a linha: a lista completa está em \"Tabela de referência: volumes encontrados no manual\".",
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
         "Quantos ml faz uma cápsula Dolce Gusto? Depende da bebida: na tabela da caixa, os cafés pretos vão de 35 ml (Ristretto Ardenza) a 145 ml (Café Caseiro), e o número de riscos certo vem impresso em cada cápsula.",
-        "E os níveis intermediários? Nos exemplos do manual, os volumes aumentam progressivamente entre as barras. As faixas deste artigo são uma compilação de diferentes cartões de receita, não uma calibração oficial universal.",
-        "O que significam os tracinhos ou barras da Dolce Gusto? Eles indicam o nível de água recomendado para o preparo da cápsula. Mais tracinhos normalmente significam uma bebida de maior volume, mas o resultado deve ser tratado como aproximado.",
+        "O que significam os tracinhos ou barras da Dolce Gusto? Eles indicam o nível de água do preparo: mais tracinhos, mais volume, com crescimento progressivo entre as barras nos exemplos do manual. Trate o resultado como aproximado.",
         "Quantos tracinhos para lungo? A Nestlé recomenda 4 tracinhos de água para lungos na página do Adaptador NEO Start, para as cápsulas NEO compatíveis com o adaptador. Nas outras cápsulas, siga o número impresso na embalagem.",
-        "Dolce Gusto XL: realmente 300 ml? No manual da Genio S Touch, sim: o gráfico mostra 300 ml para a função XL, e a página oficial da Genio S Plus também fala em até 300 ml. A Mini Me 2.0 não tem XL, segundo o comparativo da loja oficial, e outros modelos podem apresentar informações diferentes.",
-        "O cupom CECI ainda é válido? Sim. Não tem data de fim marcada e dá 10% OFF em compras a partir de R$ 100 na loja oficial; as regras atuais estão na página do [cupom Dolce Gusto](/cupons/dolce-gusto)."
+        "Dolce Gusto XL: realmente 300 ml? No manual da Genio S Touch, sim: o gráfico mostra 300 ml para a função XL, e a página oficial da Genio S Plus também fala em até 300 ml. A Mini Me 2.0 não tem XL, segundo o comparativo da loja oficial, e outros modelos podem apresentar informações diferentes."
       ]
     }
   ],
   "cta": {
     "text": "Confira cápsulas e máquinas Dolce Gusto no site oficial com cupom CECI",
     "label": "Visitar loja",
-    "url": "https://www.nescafe-dolcegusto.com.br/"
+    "url": "https://www.nescafe-dolcegusto.com.br/",
+    "sponsored": true
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
@@ -200,5 +199,15 @@
     "alt": "Demonstração em vídeo da seleção de nível de água no painel da máquina NESCAFÉ Dolce Gusto",
     "aspect": "square"
   },
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-23",
+  "decision": {
+    "takeIf": [
+      "Você quer saber quantos ml saem em cada nível da Genio S Touch ou da Mini Me 2.0 antes de escolher a xícara.",
+      "Sua cápsula traz as barras impressas e você só precisa converter em volume."
+    ],
+    "skipIf": [
+      "Sua máquina é de outro modelo: o manual dela manda mais que as faixas dos manuais da Genio S Touch e da Mini Me 2.0.",
+      "Você quer o volume exato de uma bebida: a tabela da embalagem e as barras da própria cápsula valem mais que qualquer faixa."
+    ]
+  }
 }

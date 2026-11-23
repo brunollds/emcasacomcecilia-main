@@ -27,35 +27,28 @@
   "cons": [],
   "contentSections": [
     {
-      "heading": "Resposta rápida: Dolce Gusto ou Nespresso",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "A Dolce Gusto é a melhor escolha para quem quer cappuccino, achocolatado e chá na mesma máquina; a Nespresso Original prioriza cafés e variedade de cápsulas, e o custo por dose pesa na conta. Nos modelos básicos, cappuccino na Nespresso pede espumador. No site oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% a partir de 100 reais."
+        "A Dolce Gusto é a melhor escolha para quem quer cappuccino, achocolatado e chá na mesma máquina; a Nespresso Original prioriza cafés e variedade de cápsulas, e o custo por dose pesa na conta. Nos modelos básicos, cappuccino na Nespresso pede espumador. O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% a partir de 100 reais."
       ]
-    },
-    {
-      "heading": "O que este comparativo ajuda a escolher",
-      "paragraphs": [
-        "A primeira escolha é o que você quer preparar: café preto, bebidas com leite, chocolate ou chá. Aqui comparamos a Dolce Gusto Clássica com a Nespresso Original, pelo catálogo, pelo custo das cápsulas e pelo trabalho na bancada.",
-        "O [comparativo de três marcas](/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes) inclui TRES, NEO e Vertuo e detalha a amostra de preços usada nas contas."
-      ],
-      "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-hero.webp",
-      "imageAlt": "Cafeteiras Dolce Gusto e Nespresso lado a lado em uma bancada moderna de cozinha",
-      "imageCaption": "As duas máquinas lado a lado: propostas diferentes para rotinas diferentes.",
-      "imageFit": "contain"
     },
     {
       "heading": "Dolce Gusto em casa e Nespresso nas fichas oficiais",
       "paragraphs": [
+        "A primeira escolha é o que você quer preparar: café preto, bebidas com leite, chocolate ou chá. Aqui a Dolce Gusto Clássica encara a Nespresso Original pelo catálogo, pelo custo da cápsula e pelo trabalho na bancada. O [comparativo de três marcas](/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes) inclui TRES, NEO e Vertuo e detalha a amostra de preços usada nas contas.",
         "Em casa usamos a Genio S Touch e a NEO. Já publicamos relatos da Touch e do teste com a Mini Me 2.0; da Nespresso, usamos os dados das páginas oficiais.",
         "A Dolce Gusto é a nossa preferência no dia a dia por custo-benefício e conveniência. A parceria comercial com a marca também pesa nessa escolha, e preferimos deixar isso explícito em vez de apresentar a preferência como neutra.",
         "A Nespresso se destaca em um ponto: para quem busca uma experiência premium, as coleções sazonais e limitadas de café oferecem perfis que não aparecem de forma parecida na Dolce Gusto. Essa exclusividade também aparece no preço das cápsulas.",
         "A Dolce Gusto ganha em variedade: Mochaccino Canela, Caramelo Salgado e Moça® Pistachio Latte estão no catálogo, e ela é a única das duas com café NESCAFÉ Gold em Espresso e Lungo.",
         "Por isso o restante deste comparativo foca na Nespresso Original, o sistema que compete de frente com a Dolce Gusto Clássica no dia a dia."
       ],
-      "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
-      "imageAlt": "Cecília Mauad operando cafeteira Dolce Gusto em sua bancada doméstica",
-      "imageCaption": "Parada automática, regulagem de dosagem e praticidade matinal na bancada de casa.",
-      "imageFit": "square",
+      "image": {
+        "src": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
+        "alt": "Cecília Mauad operando cafeteira Dolce Gusto em sua bancada doméstica",
+        "caption": "Parada automática, regulagem de dosagem e praticidade matinal na bancada de casa.",
+        "objectFit": "square",
+        "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1"
+      },
       "links": [
         {
           "label": "Nossa experiência com a Dolce Gusto Genio S Touch",
@@ -64,6 +57,14 @@
         {
           "label": "Review da Dolce Gusto Mini Me 2.0",
           "href": "/reviews/dolce-gusto-mini-me-2-0-vale-a-pena"
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-hero.webp",
+          "alt": "Cafeteiras Dolce Gusto e Nespresso lado a lado em uma bancada moderna de cozinha",
+          "caption": "As duas máquinas lado a lado: propostas diferentes para rotinas diferentes.",
+          "objectFit": "contain"
         }
       ]
     },
@@ -88,13 +89,15 @@
           "src": "/images/reviews/dolcegusto/dolce-gusto-genio-arno-produto.webp",
           "alt": "Cafeteira NESCAFÉ Dolce Gusto Genio, fabricada pela Arno no Brasil",
           "caption": "Dolce Gusto: estação multibebidas com painel de seleção de dose.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios"
         },
         {
           "src": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
           "alt": "Caixas de cápsulas variadas NESCAFÉ Dolce Gusto",
           "caption": "A Dolce Gusto aposta na variedade familiar: dezenas de opções que vão de cafés intensos a achocolatados e chás gelados.",
-          "objectFit": "contain"
+          "objectFit": "contain",
+          "href": "https://www.nescafe-dolcegusto.com.br/sabores"
         }
       ]
     },
@@ -121,7 +124,7 @@
         },
         {
           "label": "Máquinas da linha clássica na loja oficial Dolce Gusto",
-          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-de-cafe",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe",
           "sponsored": true
         }
       ]
@@ -132,7 +135,6 @@
         "Comprar a máquina é apenas a taxa de entrada; o custo de longo prazo está no abastecimento diário. Os preços vêm dos sites oficiais e da Amazon e estão sujeitos a estoque e promoções.",
         "Para manter a conta comparável, separamos cápsulas oficiais de alternativas compatíveis. A média por 100 ml considera apenas os produtos com preço e volume identificáveis; não representa um preço universal de cada sistema."
       ],
-      "bullets": [],
       "comparisonTable": {
         "caption": "Custo por dose e por mês: Dolce Gusto vs. Nespresso Original. Preços de agosto de 2026.",
         "headers": [
@@ -170,11 +172,7 @@
       },
       "links": [
         {
-          "label": "Consulte regras e ative o cupom CECI na página Dolce Gusto",
-          "href": "/cupons/dolce-gusto"
-        },
-        {
-          "label": "Veja a metodologia completa no comparativo com Dolce Gusto, Nespresso e TRES",
+          "label": "Amostra de preços completa no comparativo com Dolce Gusto, Nespresso e TRES",
           "href": "/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes"
         }
       ]
@@ -184,7 +182,6 @@
       "paragraphs": [
         "O resumo ponto a ponto entre as duas máquinas:"
       ],
-      "bullets": [],
       "comparisonTable": {
         "caption": "Dolce Gusto (Genio S / Mini Me) vs. Nespresso (linha Original / Essenza Mini).",
         "headers": [
@@ -270,9 +267,10 @@
     {
       "heading": "Onde comprar e cupons ativos",
       "paragraphs": [
-        "Dolce Gusto sai no site oficial com cupom; Nespresso, na Amazon. Como associado da Amazon, ganhamos com compras qualificadas."
+        "Dolce Gusto sai no site oficial com cupom; Nespresso, na Amazon. Como associado da Amazon, ganhamos com compras qualificadas.",
+        "O CECI dá 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. No carrinho, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar. O código não vale no frete nem junto com resgate de pontos do Club.",
+        "As promoções da loja mudam quase todo dia e podem acabar sem aviso: confira o [regulamento das promoções](https://www.nescafe-dolcegusto.com.br/sobre/regulamentos2026) e o carrinho."
       ],
-      "bullets": [],
       "links": [
         {
           "label": "Ver regras e ativar 10% OFF com o cupom CECI na loja oficial Dolce Gusto",
@@ -280,7 +278,7 @@
         },
         {
           "label": "Loja oficial Nescafé Dolce Gusto Brasil (máquinas e cápsulas)",
-          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-de-cafe",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe",
           "sponsored": true
         },
         {
@@ -313,7 +311,7 @@
     },
     {
       "heading": "Qual escolher: os 4 perfis e os números",
-      "emphasis": "Aqui em casa usamos a Touch e a NEO. Para cappuccino e chá, eu escolheria o sistema Original da Touch, cujas cápsulas oficiais saíram mais baratas que as da Nespresso Original na amostra.",
+      "emphasis": "Para cappuccino e chá, eu escolheria o sistema Original da Touch que usamos em casa: a cápsula oficial dele saiu mais barata que a da Nespresso Original na amostra.",
       "emphasisAfterParagraph": 1,
       "paragraphs": [
         "O custo da cápsula pesa tanto quanto a máquina. Na amostra de preços (sujeita a estoque e promoções), a cápsula oficial da Dolce Gusto Clássica custou de R$ 1,69 a R$ 2,10, e a da Nespresso Original, de R$ 3,70 a R$ 4,20. Veja qual perfil é o seu:"
@@ -323,13 +321,25 @@
         "Perfil 2, a família multibebidas e fã de cappuccino: vá de Dolce Gusto (Genio S Plus ou Touch com o cupom CECI). Cafés, achocolatados e chás na mesma máquina, com a cápsula a partir de R$ 1,69 na amostra.",
         "Perfil 3, quem compra cápsula no supermercado: vá de Nespresso Original, que tem ampla oferta de cápsulas compatíveis. O Farmers Origins, a cerca de R$ 1,70 por cápsula na amostra, aproxima o custo ao da Dolce Gusto.",
         "Perfil 4, o fã de canecão de café longo: a Dolce Gusto resolve com o recurso XL (300 ml). Se você faz questão de crema em volume alto, avalie a Vertuo, ciente do custo das cápsulas oficiais."
+      ],
+      "links": [
+        {
+          "label": "Ver as cafeteiras Dolce Gusto na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes sobre Dolce Gusto e Nespresso",
       "bullets": [
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
         "A Nespresso faz cappuccino e chocolate quente? A Essenza Mini e a Pixie preparam café. Para cappuccino, use um espumador separado ou escolha uma máquina Nespresso com sistema de leite; as cápsulas Nespresso são de café, não de chocolate quente.",
-        "Qual cafeteira tem a cápsula mais barata? A Dolce Gusto clássica oficial custa de R$ 1,69 a R$ 2,10 por cápsula; a Nespresso Original oficial, de R$ 3,70 a R$ 4,20. A compatível Farmers Origins sai por cerca de R$ 1,70. Preços mudam e devem ser conferidos antes da compra.",
+        "Qual cafeteira tem a cápsula mais barata? Na amostra, a cápsula oficial da Dolce Gusto clássica saiu bem abaixo da oficial da Nespresso Original, e a compatível Farmers Origins chegou perto da Dolce Gusto. As faixas estão no capítulo \"A matemática da xícara\"; preços mudam e devem ser conferidos antes da compra.",
         "A Nespresso Vertuo aceita cápsulas de outras marcas? A página oficial brasileira informa que a Vertuo Pop aceita somente cápsulas da linha Vertuo. Para maior variedade de marcas compatíveis, considere o sistema Nespresso Original.",
         "A Dolce Gusto ocupa muito espaço na cozinha? Pouco: as Genio S e a Essenza Mini são compactas, e a Mini Me 2.0 é mais larga. Confira as medidas do modelo exato na ficha do fabricante."
       ]
@@ -348,7 +358,7 @@
   "cta": {
     "text": "Confira os modelos e cápsulas na loja oficial Dolce Gusto e use o cupom CECI",
     "label": "Ver cafeteiras na loja oficial Dolce Gusto",
-    "url": "https://www.nescafe-dolcegusto.com.br/maquinas-de-cafe",
+    "url": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe",
     "sponsored": true
   },
   "coupon": "CECI",
@@ -400,5 +410,5 @@
       "caption": "Variedade ampla de bebidas com leite, cafés intensos e opções frias."
     }
   ],
-  "updatedAt": "2026-11-08"
+  "updatedAt": "2026-11-23"
 }

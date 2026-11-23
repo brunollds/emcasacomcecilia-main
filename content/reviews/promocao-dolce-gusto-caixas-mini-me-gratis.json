@@ -24,61 +24,68 @@
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],
+  "decision": {
+    "takeIf": [
+      "Você já ia comprar umas 20 caixas de cápsulas Original e quer a máquina junto.",
+      "Você toma café todo dia e repõe as caixas com frequência."
+    ],
+    "skipIf": [
+      "Você toma pouco: 20 caixas ou mais só para levar a máquina viram estoque parado.",
+      "Você prefere NEO ou DGusta: o combo da Mini Me grátis não vale para eles."
+    ]
+  },
   "gallery": [
     {
       "image": "/images/reviews/dolcegusto/promocao-55-caixas-art-1.webp",
-      "alt": "Arte promocional da Dolce Gusto de junho de 2026, 1 de 5",
-      "caption": "Arte da promoção de junho de 2026: 55 caixas e Mini Me"
+      "alt": "Arte promocional antiga da Dolce Gusto, campanha de junho, 1 de 5",
+      "caption": "Arte da campanha de junho (regra antiga): 55 caixas e Mini Me"
     },
     {
       "image": "/images/reviews/dolcegusto/promocao-55-caixas-art-2.webp",
-      "alt": "Arte promocional da Dolce Gusto de junho de 2026, 2 de 5",
+      "alt": "Arte promocional antiga da Dolce Gusto, campanha de junho, 2 de 5",
       "caption": "Regras da arte de junho sobre cores e voltagem da Mini Me"
     },
     {
       "image": "/images/reviews/dolcegusto/promocao-55-caixas-art-3.webp",
-      "alt": "Arte promocional da Dolce Gusto de junho de 2026, 3 de 5",
+      "alt": "Arte promocional antiga da Dolce Gusto, campanha de junho, 3 de 5",
       "caption": "Limitações e acúmulo de descontos na arte de junho"
     },
     {
       "image": "/images/reviews/dolcegusto/promocao-55-caixas-art-4.webp",
-      "alt": "Arte promocional da Dolce Gusto de junho de 2026, 4 de 5",
-      "caption": "Análise de custo-benefício da promoção de junho"
+      "alt": "Arte promocional antiga da Dolce Gusto, campanha de junho, 4 de 5",
+      "caption": "Análise de custo-benefício da campanha de junho"
     },
     {
       "image": "/images/reviews/dolcegusto/promocao-55-caixas-art-5.webp",
-      "alt": "Arte promocional da Dolce Gusto de junho de 2026, 5 de 5",
-      "caption": "Cupom CECI na promoção de junho"
+      "alt": "Arte promocional antiga da Dolce Gusto, campanha de junho, 5 de 5",
+      "caption": "Cupom CECI na campanha de junho"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas, e a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho. No site oficial, o cupom CECI dá 10% OFF acima do pedido mínimo, e a aplicação em combos depende da campanha."
+        "A Mini Me sai de graça no combo com muitas caixas de cápsulas Original, e o combo com 20 caixas também leva a máquina: a conta fecha quando você já compraria as caixas. O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, com 10% OFF a partir de 100 reais, mas a soma com cada combo se confere no carrinho."
       ]
     },
     {
       "heading": "Como ganhar ou comprar a Mini Me",
       "paragraphs": [
-        "O grátis exige combos somente com cápsulas ORIGINAL, em até 10x sem juros. O número de caixas muda com a campanha (a regra em vigor pede mais de 70), e o carrinho mostra o que vale para o seu pedido.",
-        "Há outro caminho: o combo Mini Me 2.0 com 20 caixas (200 cápsulas), a R$ 797,00, nas versões 110V e 220V. A loja o anuncia como \"para negócios\". A Mini Me 2.0 avulsa custa R$ 419,90, em Terracota, Cinza Chumbo, Cinza Gelo e Preto Onyx. Esses dois preços são a comparação que fiz na loja em 24/10/2026; releia ambos no carrinho antes de decidir."
+        "O grátis exige combos somente com cápsulas ORIGINAL, em até 10x sem juros. O número de caixas muda de uma campanha para outra (já foi de 45 a 80 caixas); confira o piso no regulamento e no carrinho.",
+        "Há outro caminho: o combo [Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2) com 20 caixas (200 cápsulas), a R$ 797,00, nas versões 110V e 220V. A loja o anuncia como \"para negócios\". Em outubro, a Mini Me 2.0 avulsa custava R$ 419,90, em Terracota, Cinza Chumbo, Cinza Gelo e Preto Onyx; em novembro, estava a R$ 349,90. A conta abaixo usa a comparação de outubro; releia os preços no carrinho antes de decidir."
       ],
       "links": [
         {
-          "label": "Conferir cupons e ofertas vigentes",
-          "href": "/cupons/dolce-gusto"
-        },
-        {
-          "label": "Regulamentos da Dolce Gusto",
-          "href": "https://www.nescafe-dolcegusto.com.br/sobre/regulamentos"
+          "label": "Regulamento das promoções da Dolce Gusto",
+          "href": "https://www.nescafe-dolcegusto.com.br/sobre/regulamentos2026",
+          "sponsored": true
         }
       ]
     },
     {
       "heading": "Regras da Mini Me grátis",
       "paragraphs": [
-        "O [regulamento das promoções](https://www.nescafe-dolcegusto.com.br/sobre/regulamentos) traz estas regras para o combo com a Mini Me grátis:"
+        "O [regulamento das promoções](https://www.nescafe-dolcegusto.com.br/sobre/regulamentos2026) traz estas regras para o combo com a Mini Me grátis:"
       ],
       "bullets": [
         "Produtos elegíveis: caixas de cápsulas ORIGINAL (sabores da linha padrão). Não válido para NEO nem DGusta.",
@@ -93,25 +100,26 @@
       "heading": "Combo com 20 caixas ou Mini Me avulsa",
       "paragraphs": [
         "No combo, você paga R$ 797,00 por máquina e 20 caixas. Avulsa, a máquina sai por R$ 419,90 e as caixas são compradas à parte.",
-        "Na comparação acima, o combo custava R$ 377,10 a mais que a máquina avulsa. Dividindo essa diferença por 20, o ponto de equilíbrio é de aproximadamente R$ 18,86 por caixa: acima disso, comprar máquina e caixas no combo sai mais barato do que comprar os mesmos itens separados. Se a caixa avulsa custar R$ 25, as 20 somam R$ 500; nesse cálculo, R$ 297 do combo ficam atribuídos à máquina. Esse é um rateio para comparar as ofertas, não o preço de uma máquina vendida separadamente. Inclua frete e descontos elegíveis e use as mesmas caixas nos dois cenários."
+        "Na comparação de outubro, o combo custava R$ 377,10 a mais que a máquina avulsa. Dividindo essa diferença por 20, o ponto de equilíbrio é de aproximadamente R$ 18,86 por caixa: acima disso, comprar máquina e caixas no combo sai mais barato do que comprar os mesmos itens separados. Se a caixa avulsa custar R$ 25, as 20 somam R$ 500; nesse cálculo, R$ 297 do combo ficam atribuídos à máquina. Esse é um rateio para comparar as ofertas, não o preço de uma máquina vendida separadamente. Inclua frete e descontos elegíveis e use as mesmas caixas nos dois cenários.",
+        "Conta nossa, com a Mini Me 2.0 avulsa a R$ 349,90 em novembro: a diferença para o combo sobe para R$ 447,10, e o ponto de equilíbrio, para cerca de R$ 22,36 por caixa. Quanto mais barata a máquina avulsa, mais pesa a caixa dentro do combo."
       ],
       "bullets": [
         "Combo Mini Me 2.0 + 20 caixas: R$ 797,00.",
-        "Mini Me 2.0 avulsa: R$ 419,90.",
+        "Mini Me 2.0 avulsa: R$ 419,90 em outubro e R$ 349,90 em novembro.",
         "Mini Me da geração anterior: R$ 579,90 avulsa, mais cara que a 2.0 na loja naquele dia."
       ]
     },
     {
       "heading": "O número de caixas muda com frequência",
       "paragraphs": [
-        "A campanha de junho pedia 55 caixas ORIGINAL e, depois, 60. Só em outubro, o regulamento passou por 45, 50, 60 e 65 caixas, e desde 02/11 pede mais de 70. Como o número muda sem aviso, confira no [regulamento](https://www.nescafe-dolcegusto.com.br/sobre/regulamentos) e no carrinho antes de pagar."
+        "A campanha de junho pedia 55 caixas ORIGINAL e, depois, 60. Em outubro, o regulamento passou por 45, 50, 60 e 65 caixas, e em novembro o piso foi de 65 a 80. O número de caixas muda de uma campanha para outra (já foi de 45 a 80 caixas); confira o piso no [regulamento](https://www.nescafe-dolcegusto.com.br/sobre/regulamentos2026) e no carrinho antes de pagar. As promoções mudam quase todo dia e podem acabar sem aviso, mesmo com o item no carrinho."
       ]
     },
     {
       "heading": "Como usar o cupom CECI",
       "paragraphs": [
-        "O cupom CECI (10% OFF em compras a partir de R$ 100) vale no site e no app oficiais. Aplique o código antes de finalizar e confira no resumo do pedido se o desconto aparece, porque a soma com a campanha da Mini Me depende das regras dela.",
-        "Para conferir descontos e condições vigentes, veja a página do cupom, que é mantida atualizada."
+        "O CECI dá 10% OFF no site e no app oficiais em compras a partir de R$ 100, em todas as formas de pagamento. No carrinho, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
+        "A soma com a campanha da Mini Me depende das regras dela, e o mínimo de 100 reais conta sobre o subtotal já com o desconto da promoção. Para conferir descontos e condições vigentes, veja a página do cupom, que é mantida atualizada."
       ],
       "links": [
         {
@@ -123,20 +131,43 @@
     {
       "heading": "Vale a pena?",
       "paragraphs": [
-        "Vale se você já compraria as caixas. No combo de 20 caixas, a máquina sai mais barata que a avulsa quando a caixa passa de R$ 18,86 no carrinho. Já o combo com Mini Me grátis entrega a máquina sem custo para quem passa do mínimo de caixas do regulamento.",
-        "Não vale se o consumo é esporádico: comprar 20 caixas ou mais só para levar a máquina cria um estoque que pode demorar para acabar. Nesse caso, a Mini Me 2.0 avulsa por R$ 419,90 é a conta mais segura.",
-        "Confirme preço, quantidade de caixas, frete e regras vigentes no carrinho antes de pagar. Com consumo moderado, eu levaria a Mini Me 2.0 avulsa e reporia as cápsulas aos poucos, em vez de pagar de uma vez por 20 caixas ou mais."
+        "Vale se você já compraria as caixas. No combo de 20 caixas, a máquina sai mais barata que a avulsa quando a caixa passa do ponto de equilíbrio da conta acima. Já o combo com Mini Me grátis entrega a máquina sem custo para quem passa do mínimo de caixas do regulamento.",
+        "Não vale se o consumo é esporádico: comprar 20 caixas ou mais só para levar a máquina cria um estoque que pode demorar para acabar. Nesse caso, a Mini Me 2.0 avulsa é a conta mais segura.",
+        "Confirme preço, quantidade de caixas, frete e regras vigentes no carrinho antes de pagar."
       ],
       "bullets": [
         "Consumo frequente: combo com 20 caixas ou combo com Mini Me grátis.",
         "Consumo esporádico: Mini Me 2.0 avulsa e cápsulas conforme o uso."
+      ],
+      "emphasis": "Com consumo moderado, eu levaria a Mini Me 2.0 avulsa e reporia as cápsulas aos poucos, em vez de pagar de uma vez por 20 caixas ou mais.",
+      "emphasisAfterParagraph": 2,
+      "links": [
+        {
+          "label": "Ver a Mini Me 2.0 na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
+        }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
+        "A Mini Me grátis soma com o CECI? No nosso teste de carrinho, o CECI entrou numa Mini Me 2.0 em promoção. No combo com muitas caixas, o resumo do carrinho mostra se os 10% entram; as regras do combo estão em \"Regras da Mini Me grátis\".",
+        "Quantas caixas preciso para ganhar a Mini Me? O número de caixas muda de uma campanha para outra (já foi de 45 a 80 caixas); confira o piso no regulamento e no carrinho. Veja \"O número de caixas muda com frequência\".",
+        "Combo com 20 caixas ou Mini Me avulsa: qual compensa? Depende do preço da caixa no carrinho. O ponto de equilíbrio e o veredito estão em \"Combo com 20 caixas ou Mini Me avulsa\" e em \"Vale a pena?\".",
+        "Dá para escolher a cor e a voltagem da Mini Me grátis? A cor não se escolhe, e a voltagem é selecionada no carrinho e não muda depois da compra. Veja \"Regras da Mini Me grátis\"."
       ]
     }
   ],
   "cta": {
     "text": "Veja os combos com máquina Mini Me na loja oficial e use o cupom CECI para economizar 10% a partir de R$ 100 quando estiver elegível.",
     "label": "Ir para a loja oficial",
-    "url": "https://www.nescafe-dolcegusto.com.br/sabores",
+    "url": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2",
     "sponsored": true
   },
   "coupon": "CECI",
@@ -150,5 +181,5 @@
       "slug": "clube-dolce-gusto-como-funciona"
     }
   ],
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-23"
 }

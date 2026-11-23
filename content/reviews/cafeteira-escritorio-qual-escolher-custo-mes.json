@@ -17,7 +17,7 @@
   "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Cafeteira para equipe: custo mensal para 5, 10 e 20 pessoas em Dolce Gusto, Nespresso e filtro.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/dolcegusto/cafeteira-escritorio-qual-escolher-custo-mes-capa-v2.webp",
@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para um escritório em que nem todo mundo toma só café, a Dolce Gusto atende melhor: faz café, bebidas com leite, chocolate e chá na mesma máquina. Quem só toma café preto paga bem menos com filtro. Na Dolce Gusto, o cupom CECI dá 10% OFF no site oficial em compras a partir de 100 reais."
+        "Para um escritório em que nem todo mundo toma só café, a Dolce Gusto atende melhor: faz café, bebidas com leite, chocolate e chá na mesma máquina. Quem só toma café preto paga bem menos com filtro. Na Dolce Gusto, o [cupom Dolce Gusto](/cupons/dolce-gusto), o CECI, dá 10% OFF no site oficial a partir de 100 reais."
       ]
     },
     {
@@ -80,8 +80,8 @@
         ]
       },
       "postParagraphs": [
-        "Para quem não quer cápsula, a opção é a cafeteira elétrica de filtro. A Oster lista três modelos: a 2Day Inox 2 em 1, com copo térmico, por R$ 179,90; a Black, com jarra térmica de inox de 0,7 L, por R$ 309,90; e a Coffee To Go de 600 ml, por R$ 179,90. A listagem não traz a capacidade em xícaras de cada modelo, então o texto não compara volumes. O café de filtro usado na conta é o Melitta Tradicional, pacote de 500 g a R$ 27,46, com a dose da embalagem de 80 g por litro. A Melitta não vende cafeteira de filtro no site; só a Amano, a R$ 1.149,00.",
-        "Grão, em kit, aparece com o Melitta Spresso em grão, quatro pacotes de 500 g por R$ 234,60. O texto não calcula o custo por xícara de grão, porque a listagem não traz a dose da embalagem. A superautomática de grãos fica fora da tabela, porque não temos preço de nenhuma superautomática.",
+        "Para quem não quer cápsula, a opção é a cafeteira elétrica de filtro. A Oster lista três modelos: a 2Day Inox 2 em 1, com copo térmico, por R$ 179,90; a Black, com jarra térmica de inox de 0,7 L, por R$ 309,90; e a Coffee To Go de 600 ml, por R$ 179,90. O café de filtro usado na conta é o Melitta Tradicional, pacote de 500 g a R$ 27,46, com a dose da embalagem de 80 g por litro. A Melitta não vende cafeteira de filtro no site; só a Amano, a R$ 1.149,00.",
+        "Grão, em kit, aparece com o Melitta Spresso em grão, quatro pacotes de 500 g por R$ 234,60, e fica fora da conta, porque a listagem não traz a dose da embalagem. A superautomática de grãos também fica fora da tabela: não temos preço de nenhuma.",
         "Na cápsula de terceiros, a L'OR é compatível com Nespresso Original, não com Dolce Gusto, e a marca não vende máquina própria no site. A Baggio vende caixa de 10 cápsulas para Dolce Gusto a R$ 25,90; sobre compatibilidade, vale o que já diz o [guia de cápsulas compatíveis](/reviews/dolce-gusto-capsulas-compativeis-guia). Se a equipe usa a Dolce Gusto NEO, a máquina aceita só cápsula NEO."
       ]
     },
@@ -121,7 +121,7 @@
             "R$ 1.490,06"
           ],
           [
-            "Dolce Gusto caixa avulsa, preço cheio",
+            "Dolce Gusto caixa avulsa, base R$ 24,90",
             "R$ 2,49",
             "R$ 547,80",
             "R$ 1.095,60",
@@ -168,20 +168,20 @@
       "images": [
         {
           "src": "/images/reviews/dolcegusto/cafeteira-escritorio-custo-por-bebida.webp",
-          "alt": "Barras com o custo por bebida de cada opção em 19/10/2026, do filtro Melitta a R$ 0,44 à Nespresso Original a R$ 3,70–4,20",
+          "alt": "Barras com o custo por bebida de cada opção, do filtro Melitta a R$ 0,44 à Nespresso Original a R$ 3,70–4,20",
           "caption": "Custo por bebida, sem cupom. Quadro do Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
       ],
       "postParagraphs": [
-        "Exemplo de compra, só com o combo de 50 caixas (500 cápsulas) a R$ 809,25: para 5 pessoas, que consomem 220 cápsulas no mês, o desembolso é de R$ 809,25 e sobram 280 cápsulas; para 20 pessoas, que consomem 880, são dois combos, R$ 1.618,50, e sobram 120. São exemplos de compra só desse combo, não a combinação mais econômica entre todos os lotes. Os preços mudam com a promoção do dia. A faixa da Nespresso Original vem da caixa de 10 cápsulas, de R$ 37,00 a R$ 42,00. A Baggio é de terceiro: a caixa de 10 para Dolce Gusto custa R$ 25,90, e a própria loja diz que Nespresso e Dolce Gusto são marcas de terceiros, sem relação com ela. A xícara do filtro, de 100 ml, é o único volume que entra na conta."
+        "Exemplo de compra, só com o combo de 50 caixas (500 cápsulas) a R$ 809,25: para 5 pessoas, que consomem 220 cápsulas no mês, o desembolso é de R$ 809,25 e sobram 280 cápsulas; para 20 pessoas, que consomem 880, são dois combos, R$ 1.618,50, e sobram 120. São exemplos de compra só desse combo, não a combinação mais econômica entre todos os lotes. A linha da caixa avulsa usa R$ 24,90, a base dos combos Negócios; a caixa da loja comum tem preço cheio de R$ 25,90, ou R$ 2,59 por cápsula. Os preços mudam com a promoção do dia. A faixa da Nespresso Original vem da caixa de 10 cápsulas, de R$ 37,00 a R$ 42,00. A Baggio é de terceiro: a caixa de 10 para Dolce Gusto custa R$ 25,90, e a própria loja diz que Nespresso e Dolce Gusto são marcas de terceiros, sem relação com ela. A xícara do filtro, de 100 ml, é o único volume que entra na conta."
       ]
     },
     {
       "heading": "Mais que café: chocolate, chá gelado e bebidas com leite",
       "paragraphs": [
-        "Num escritório, nem todo mundo toma café. A Dolce Gusto faz as bebidas da tabela abaixo com a mesma máquina. O preço por bebida é o da caixa de 10 cápsulas, dividido pelo número de bebidas que ela rende, com o preço do dia. A lista completa de sabores e preços está em [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
+        "Num escritório, nem todo mundo toma café. A Dolce Gusto faz as bebidas da tabela abaixo com a mesma máquina. O preço por bebida é o da caixa de 10 cápsulas, dividido pelo número de bebidas que ela rende, com o preço da consulta de outubro; hoje as caixas regulares partem de R$ 15,90 na campanha da loja. A lista completa de sabores e preços está em [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
       ],
       "comparisonTable": {
         "headers": [
@@ -248,7 +248,8 @@
             "R$ 19,99",
             "R$ 4,00"
           ]
-        ]
+        ],
+        "caption": "Preço por bebida com os preços da consulta de outubro; as promoções da loja mudam quase todo dia."
       },
       "postParagraphs": [
         "O Mochaccino Canela está nos combos para negócios de 20 caixas, a R$ 1,87 por bebida. Ele é uma bebida de uma cápsula, com leite na receita; as bebidas de duas cápsulas da tabela contam o dobro. Quanto maior o combo, menor o preço de cada cápsula: o de 50 caixas sai a R$ 1,62.",
@@ -260,7 +261,8 @@
           "alt": "Caixas de Nescau, Galak, Nestea Pêssego e Chai Tea Latte da Dolce Gusto, com 10 cápsulas cada",
           "caption": "Chocolates e chás da Dolce Gusto. Imagem: Nescafé Dolce Gusto.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://www.nescafe-dolcegusto.com.br/sabores"
         }
       ]
     },
@@ -309,8 +311,9 @@
         ]
       },
       "postParagraphs": [
-        "A conta por bebida divide o preço do combo pelas cápsulas, e vale para bebida de uma cápsula, como o espresso e o Mochaccino Canela. Bebida com leite de duas cápsulas, como o cappuccino, conta em dobro. A seção de bebidas mostra o preço de cada uma. Na loja comum, sem combo, a caixa de 10 sai a R$ 24,90 cheia, ou R$ 2,49 por bebida, e a diferença para o combo de 50 caixas é de R$ 0,87 por bebida. Quem ainda não tem máquina pode levar o combo Mini Me 2.0 com 20 caixas por R$ 797,00. Para receber caixas todo mês sem fazer pedido, há a [assinatura da Dolce Gusto](/reviews/assinatura-dolce-gusto-vale-a-pena).",
-        "O cupom CECI vale na mesma loja onde ficam os combos de negócios: 10% OFF em compras a partir de R$ 100, e soma com as promoções. Nos combos, ele incide sobre o preço do dia. O combo de 50 caixas, por exemplo, sai de R$ 809,25 para R$ 728,33, ou R$ 1,46 por bebida. Confira no carrinho.",
+        "A conta por bebida divide o preço do combo pelas cápsulas, e vale para bebida de uma cápsula, como o espresso e o Mochaccino Canela. Bebida com leite de duas cápsulas, como o cappuccino, conta em dobro. A seção de bebidas mostra o preço de cada uma. Na conta do guia, a caixa de 10 sai a R$ 24,90, a base dos combos, ou R$ 2,49 por bebida; a caixa da loja comum tem preço cheio de R$ 25,90, ou R$ 2,59. A diferença para o combo de 50 caixas é de R$ 0,87 por bebida. Quem ainda não tem máquina pode levar o combo Mini Me 2.0 com 20 caixas por R$ 797,00. Para receber caixas todo mês sem fazer pedido, há a [assinatura da Dolce Gusto](/reviews/assinatura-dolce-gusto-vale-a-pena).",
+        "O combo de 8 caixas de Espresso da tabela mensal era de outubro. Na Black Friday, o site tem o \"Leve 10 pague 6\" em sabores como Espresso, Cappuccino e Matinal e combos como o de Mochaccino Canela, com 30% OFF. Eles não somam com outras ofertas do site e podem acabar sem aviso: confira no [regulamento das promoções](https://www.nescafe-dolcegusto.com.br/sobre/regulamentos2026) e no carrinho.",
+        "O CECI vale na mesma loja onde ficam os combos de negócios: 10% OFF na loja oficial e no app, em compras a partir de 100 reais, em todas as formas de pagamento, e soma com as promoções. Nos combos, ele incide sobre o preço do dia. O combo de 50 caixas, por exemplo, sai de R$ 809,25 para R$ 728,33, ou R$ 1,46 por bebida; com a conta Business, os 10% de CNPJ entram antes e o total cai para cerca de R$ 655, como mostra o guia de [Dolce Gusto para CNPJ](/reviews/dolce-gusto-cnpj-negocios-combos). Para aplicar o código, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
         "Para compra sob medida, a própria loja tem o formulário Soluções Personalizadas, e o cupom CECI não é prometido nesse canal. Os combos estão em [Dolce Gusto Negócios na loja oficial](https://www.nescafe-dolcegusto.com.br/negocios-combos), e as condições do código, na página do [cupom Dolce Gusto](/cupons/dolce-gusto)."
       ],
       "images": [
@@ -319,7 +322,8 @@
           "alt": "Xícara de Mochaccino Canela ao lado da cápsula laranja da Dolce Gusto",
           "caption": "Mochaccino Canela, uma das opções do combo de 20 caixas. Imagem: Nescafé Dolce Gusto.",
           "objectFit": "contain",
-          "aspectRatio": 1.3737
+          "aspectRatio": 1.3737,
+          "href": "https://www.nescafe-dolcegusto.com.br/sabores/capsulas-mochaccino-canela-10caps"
         }
       ]
     },
@@ -335,14 +339,15 @@
           "alt": "Três cafeteiras Genio S da Dolce Gusto, em branco, vermelho e prata, servindo café e bebida com leite",
           "caption": "Genio S: o reservatório é de 0,8 L. Imagem: Nescafé Dolce Gusto.",
           "objectFit": "contain",
-          "aspectRatio": 3.1346
+          "aspectRatio": 3.1346,
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios"
         }
       ]
     },
     {
       "heading": "Garantia e uso comercial",
       "paragraphs": [
-        "A ficha oficial da máquina Dolce Gusto diz 1 ano de garantia. O site não fala de uso comercial: não diz se a garantia cobre uma máquina usada o dia inteiro por uma equipe, nem o que muda quando a compra é feita em nome de empresa. Não prometemos nada nesse ponto, e vale perguntar à marca antes de fechar a compra para o escritório.",
+        "A ficha oficial da máquina Dolce Gusto diz 1 ano de garantia. O site não fala de uso comercial: não diz se a garantia cobre uma máquina usada o dia inteiro por uma equipe, nem o que muda quando a compra é feita em nome de empresa. Vale perguntar à marca antes de fechar a compra para o escritório.",
         "A Nespresso tem uma linha profissional, com Zenius, Momento 100, Momento 200 e Aguila 220, vendida sob contato e com assinatura para empresas. O preço dessa linha não aparece no site. Para quem precisa de máquina de uso intenso com contrato, é a linha que se pede por contato."
       ]
     },
@@ -355,16 +360,11 @@
       ]
     },
     {
-      "heading": "Comparação geral dos sistemas de cápsula",
-      "paragraphs": [
-        "Se a dúvida é entre Dolce Gusto, Nespresso e 3 Corações, a comparação geral dos sistemas de cápsula está em [Dolce Gusto, Nespresso ou 3 Corações: qual escolher](/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes). Este texto fica na escolha para o escritório: quantas pessoas, quanto custa por mês e o que a máquina faz para quem não toma café."
-      ]
-    },
-    {
       "heading": "Quando a cápsula não vale",
       "paragraphs": [
         "Se a equipe só toma café preto, a cápsula perde para o filtro por xícara. Na Dolce Gusto, uma bebida de uma cápsula custa de R$ 1,62 a R$ 2,49 no combo ou na caixa avulsa. No filtro, com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44. A Melitta vende o café, mas o site dela não vende cafeteira elétrica de filtro, só a Amano, a R$ 1.149,00, então a máquina de filtro vem de outra marca, como a Oster.",
-        "Se o escritório quer espresso com leite fresco em volume, a cápsula de consumo não é a resposta. A linha profissional da Nespresso, com Momento 200 e Aguila 220, faz bebidas com leite e tem refrigerador de leite integrado, mas o preço é sob contato. As cápsulas Nespresso Original custam R$ 3,70 a R$ 4,20 cada."
+        "Se o escritório quer espresso com leite fresco em volume, a cápsula de consumo não é a resposta. A linha profissional da Nespresso, com Momento 200 e Aguila 220, faz bebidas com leite e tem refrigerador de leite integrado, mas o preço é sob contato. As cápsulas Nespresso Original custam R$ 3,70 a R$ 4,20 cada.",
+        "Se a dúvida é entre Dolce Gusto, Nespresso e 3 Corações, a comparação geral dos sistemas de cápsula está em [Dolce Gusto, Nespresso ou 3 Corações: qual escolher](/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes)."
       ]
     },
     {
@@ -380,16 +380,28 @@
       "postParagraphs": [
         "No escritório nem todo mundo toma café. A Dolce Gusto faz café, bebidas com leite, chocolate, chá gelado e chá com a mesma máquina, e por isso atende o time inteiro. Para quem só toma café preto, o filtro é muito mais barato por xícara: R$ 0,44 na xícara de 100 ml, contra R$ 1,62 a R$ 1,87 por bebida nos combos da Dolce Gusto e R$ 3,70 a R$ 4,20 por cápsula da Nespresso Original."
       ],
-      "emphasis": "Se fosse para o meu escritório, eu consideraria a Dolce Gusto pela variedade de café, leite, chocolate e chá. Para escolher o combo, compararia o consumo da equipe com a quantidade de caixas que precisaria comprar de uma vez."
+      "emphasis": "Se fosse para o meu escritório, eu consideraria a Dolce Gusto pela variedade de café, leite, chocolate e chá. Para escolher o combo, compararia o consumo da equipe com a quantidade de caixas que precisaria comprar de uma vez.",
+      "links": [
+        {
+          "label": "Ver os combos Dolce Gusto Negócios na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/negocios-combos",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Cafeteira para escritório sem cápsula existe? Sim. A cafeteira elétrica de filtro, como as Oster de R$ 179,90 a R$ 309,90, não usa cápsula, e o café moído da Melitta sai a R$ 0,44 por xícara de 100 ml.",
+        "Cafeteira para escritório sem cápsula existe? Existe: a cafeteira elétrica de filtro, como as Oster de cerca de 180 a 310 reais, não usa cápsula, e a xícara do Melitta Tradicional sai em menos de meio real. Veja \"Quando a cápsula não vale\".",
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
+        "O CECI vale nos combos para negócios? Vale, também em compra de CNPJ: o desconto incide sobre o preço do dia do combo, e a conta está em \"Dolce Gusto Negócios: os combos para escritório\".",
         "Qual a melhor cafeteira de cápsula para escritório? Não há uma melhor para todos: para a equipe que quer variedade e custo baixo por bebida, a Dolce Gusto com combo de negócios; para espresso com leite fresco em volume, a linha profissional da Nespresso, com preço sob contato.",
         "Cafeteira grande para escritório: qual escolher? Grande aqui quer dizer volume: a Oster Black tem jarra de 0,7 L, e o reservatório das Dolce Gusto Mini Me e Genio S é de 0,8 L. Litros de reservatório não dizem quantas pessoas a máquina atende.",
-        "O cupom CECI vale nos combos para negócios? Vale, na loja oficial da Dolce Gusto, com 10% OFF sobre o preço do dia em compras a partir de R$ 100; o combo de 50 caixas sai por R$ 728,33.",
-        "Quanto gasta uma cafeteira de cápsula por mês? Depende das pessoas e das bebidas: com 5 pessoas e 44 bebidas cada no mês, o combo de 20 caixas da Dolce Gusto sai a R$ 410,85 em cápsulas consumidas, e a tabela mensal tem as contas para 5, 10 e 20 pessoas. O combo é vendido fechado: o de 20 caixas custa R$ 373,50 de uma vez."
+        "Quanto gasta uma cafeteira de cápsula por mês? Depende das pessoas e das bebidas. O capítulo \"Quanto custa por mês para 5, 10 e 20 pessoas\" tem as contas, e o combo é vendido fechado: o custo da compra e o das cápsulas consumidas no mês são números diferentes."
       ]
     }
   ],
@@ -413,6 +425,9 @@
     },
     {
       "slug": "quanto-custa-capsula-dolce-gusto"
+    },
+    {
+      "slug": "dolce-gusto-cnpj-negocios-combos"
     }
   ],
   "decision": {

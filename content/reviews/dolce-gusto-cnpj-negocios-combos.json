@@ -16,7 +16,7 @@
   },
   "publishedAt": "5 de novembro de 2026",
   "publishedAtISO": "2026-11-05",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "description": "Com CNPJ, a Dolce Gusto dá 10% extra nos combos de 20 a 50 caixas, e o CECI soma. Veja como abrir a conta Business, quanto custa cada cápsula e qual combo escolher.",
@@ -62,7 +62,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Com CNPJ, a Dolce Gusto dá 10% extra no carrinho nos combos da linha Negócios, e o cupom CECI soma com esse desconto e com o do combo. Os combos prontos vão de 20 a 50 caixas; volume maior pede proposta. O que decide é o tamanho do combo: a conta está no capítulo de preço."
+        "Com CNPJ, a Dolce Gusto dá 10% extra no carrinho nos combos da linha Negócios, e o [cupom Dolce Gusto](/cupons/dolce-gusto), o CECI, soma com esse desconto e com o do combo. Os combos prontos vão de 20 a 50 caixas; volume maior pede proposta. O que decide é o tamanho do combo: a conta está no capítulo de preço."
       ]
     },
     {
@@ -168,7 +168,7 @@
     {
       "heading": "Quanto custa cada cápsula com os 10% de CNPJ e o CECI",
       "paragraphs": [
-        "Na estimativa abaixo, o combo de 50 caixas fica em cerca de R$ 1,31 por cápsula. A referência de R$ 2,49 por cápsula é a caixa avulsa no preço de lista, sem desconto; compare também a oferta disponível no dia.",
+        "Na estimativa abaixo, o combo de 50 caixas fica em cerca de R$ 1,31 por cápsula. A referência de R$ 2,49 por cápsula é a caixa na base de preço dos combos (R$ 24,90), sem desconto. A caixa avulsa da loja comum tem preço cheio de R$ 25,90, então a avulsa de verdade custa um pouco mais; compare também a oferta disponível no dia.",
         "Conta nossa: aplicando 10% de CNPJ e depois 10% de CECI ao preço do combo, multiplicando por 0,9 duas vezes. A soma dos benefícios foi confirmada; estes valores são uma estimativa, e o resumo do carrinho confirma base de cálculo, arredondamento e total."
       ],
       "comparisonTable": {
@@ -194,12 +194,12 @@
             "R$ 1,31"
           ],
           [
-            "Caixa avulsa, preço de lista",
+            "Caixa na base de preço dos combos, sem desconto",
             "R$ 24,90",
             "R$ 2,49"
           ]
         ],
-        "caption": "Estimativa de dois descontos sucessivos sobre os preços de combo da tabela anterior. A caixa avulsa está no preço de lista, sem desconto, como referência."
+        "caption": "Estimativa de dois descontos sucessivos sobre os preços de combo da tabela anterior. A última linha é a caixa a R$ 24,90, a base dos combos Negócios, sem desconto, como referência."
       },
       "postParagraphs": [
         "Cada degrau tira cerca de 10 centavos por cápsula. Passar de 20 para 30 caixas poupa o mesmo que passar de 30 para 50, mas o segundo pede 200 cápsulas a mais na prateleira.",
@@ -209,7 +209,8 @@
     {
       "heading": "O cupom CECI soma com o CNPJ e com o combo",
       "paragraphs": [
-        "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, também para CNPJ, e na linha Negócios ele deve somar com os 10% de CNPJ e com o desconto do combo; o carrinho mostra o valor final. As condições vigentes ficam na página do [cupom Dolce Gusto](/cupons/dolce-gusto)."
+        "O CECI dá 10% OFF na loja oficial e no app, em compras a partir de 100 reais e em todas as formas de pagamento, também para CNPJ. Na linha Negócios ele soma com os 10% de CNPJ e com o desconto do combo; o carrinho mostra o valor final. As condições vigentes ficam na página do [cupom Dolce Gusto](/cupons/dolce-gusto).",
+        "Para aplicar, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar. O CECI não vale no frete nem junto com o resgate de pontos do Club."
       ]
     },
     {
@@ -255,17 +256,22 @@
           "label": "Ver os combos para negócios",
           "href": "https://www.nescafe-dolcegusto.com.br/negocios-combos",
           "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
         }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Pessoa física compra os combos? A página não diz se o combo fecha sem CNPJ; o que ela diz é que os 10% extras são só para CNPJ. Sem CNPJ, o desconto com código é o CECI, 10% OFF a partir de R$ 100.",
-        "O CECI soma com os 10% de CNPJ? Soma, e também com o desconto do combo; o carrinho mostra o valor final antes de pagar.",
-        "Precisa de inscrição estadual para abrir a conta Business? Não: o cadastro tem a opção \"Sou isento\".",
+        "Pessoa física compra os combos? A página não diz se o combo fecha sem CNPJ; o que ela diz é que os 10% extras são só para CNPJ. Sem CNPJ, o desconto com código é o CECI, 10% OFF a partir de 100 reais.",
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
+        "O CECI soma com os 10% de CNPJ? Soma, e também com o desconto do combo; o carrinho mostra o valor final antes de pagar. Veja \"O cupom CECI soma com o CNPJ e com o combo\".",
+        "Precisa de inscrição estadual para abrir a conta Business? Não: o cadastro tem a opção \"Sou isento\". Veja \"Como abrir a conta Business\".",
         "Dá para comprar máquina junto com o combo? Dá, no combo da Mini Me 2.0 com 20 caixas; os outros combos são só de cápsulas.",
-        "Quantas caixas têm os combos prontos? De 20 a 50, com o preço na hora; para volume maior ou outra máquina, o caminho é a proposta personalizada."
+        "Quantas caixas têm os combos prontos? De 20 a 50, com o preço na hora; para volume maior ou outra máquina, o caminho é a proposta personalizada, em \"Combo pronto ou proposta personalizada\"."
       ]
     }
   ]

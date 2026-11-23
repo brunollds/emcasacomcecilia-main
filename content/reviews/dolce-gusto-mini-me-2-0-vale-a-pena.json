@@ -26,7 +26,7 @@
   "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Review da Mini Me 2.0 Terracota: controles, Lungo e Matinal e o aquecimento.",
   "publishedAt": "12 de agosto de 2026",
   "publishedAtISO": "2026-08-12",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "image": "/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-vale-a-pena-capa-v2.webp",
   "imageAlt": "Mini Me 2.0 Terracota dispensando bebida no copo, em frame do vídeo próprio do teste.",
   "imageFit": "contain",
@@ -75,9 +75,11 @@
   ],
   "rating": 4.5,
   "verdict": {
-    "title": "Veredito do Bruno",
+    "stars": 4,
+    "recommendation": "com ressalvas",
     "summary": "A Dolce Gusto Mini Me 2.0 na cor Terracota se destaca pelo design moderno e pelos controles superiores que substituem a alavanca da Mini Me clássica. O modo Eco desliga a máquina em 1 minuto. Na unidade 127V testada, atente-se ao plugue de 20A, ao aquecimento inicial de 20-30s e ao pingamento prolongado após o preparo."
   },
+  "pullQuote": "Na rotina de trabalho, as bebidas que o Bruno mais prepara na Mini Me 2.0 são o Lungo, no nível 4, e o Café Matinal, nos níveis 6 a 7.",
   "pros": [
     "Design compacto e acabamento Terracota moderno que valoriza a bancada",
     "Controles de temperatura e preparo com dosagem automática por barras, que ajudam a respeitar o volume selecionado (desde que a xícara comporte a bebida escolhida)",
@@ -93,7 +95,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada pelo Bruno, pesam o plugue de 20A e o pingamento; ela usa cápsulas ORIGINAL, e cafés NEO selecionados pedem adaptador. Na loja oficial, o CECI dá 10% OFF a partir de 100 reais."
+        "A Mini Me 2.0 é boa para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V que o Bruno testou, pesam o plugue de 20A e o pingamento. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, com 10% OFF a partir de 100 reais."
       ]
     },
     {
@@ -157,41 +159,60 @@
     {
       "heading": "Onde comprar e cupom de desconto",
       "paragraphs": [
-        "A compra é na loja oficial, com campanhas de cápsulas e cores exclusivas. O preço de tabela individual varia de acordo com a cor e as ofertas ativas.",
-        "Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% em compras a partir de R$ 100. No nosso teste de carrinho, ele entrou na Mini Me 2.0 em promoção: de R$ 369,90 para R$ 332,91.",
+        "A compra é na loja oficial, com campanhas de cápsulas e cores exclusivas. Na consulta de novembro, a Mini Me 2.0 saía por R$ 349,90, de R$ 599,90, e a loja tinha o combo com máquina: acima de 65 caixas de cápsulas Original no carrinho, ela vai de brinde (uma máquina por pedido, sem valer para NEO nem DGusta). O número de caixas muda de uma campanha para outra (já foi de 45 a 80 caixas); confira o piso no regulamento e no carrinho.",
+        "Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF na loja e no app, em compras a partir de 100 reais e em todas as formas de pagamento. No nosso teste de carrinho, ele entrou na Mini Me 2.0 em promoção: de R$ 369,90 para R$ 332,91. Para usar, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar. O código não vale no frete nem junto com o resgate de pontos do Club.",
         "Assista também ao vídeo especial do Bruno no canal Em Casa com Cecília no YouTube Shorts, gravado para a campanha de Dia dos Pais com a NESCAFÉ Dolce Gusto Mini Me 2.0, mostrando a máquina em ação."
       ],
       "links": [
-        {
-          "label": "Ver regras e validade do cupom CECI para NESCAFÉ Dolce Gusto",
-          "href": "/cupons/dolce-gusto"
-        },
         {
           "label": "Vídeo Especial: Bruno apresenta a Mini Me 2.0 no nosso canal",
           "href": "/videos/unboxing-dolce-gusto-mini-me-2-0-primeiro-cafe"
         }
       ],
-      "image": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp",
-      "imageAlt": "Bruno apresentando os detalhes da Mini Me 2.0 no vídeo de Dia dos Pais",
-      "imageFit": "portrait"
+      "image": {
+        "src": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-2.webp",
+        "alt": "Bruno apresentando os detalhes da Mini Me 2.0 no vídeo de Dia dos Pais",
+        "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2",
+        "objectFit": "portrait"
+      }
+    },
+    {
+      "heading": "Vale a pena?",
+      "paragraphs": [
+        "Vale para quem quer uma Dolce Gusto pequena para o cantinho do café e prepara uma xícara por vez. O Modo Eco desliga a máquina em 1 minuto, os controles dispensam a alavanca da Mini Me clássica e as cápsulas Original servem sem adaptação. Pesam contra o plugue de 20A da unidade 127V, o aquecimento de 20 a 30 segundos e o pingamento depois do preparo: antes de pedir, confira a tomada da sua casa e deixe a bandeja à mão."
+      ],
+      "emphasis": "Para uma bancada pequena e uma xícara por vez, a Mini Me 2.0 é uma boa compra; só confira a tomada de 20A antes de pedir.",
+      "emphasisAfterParagraph": 1,
+      "links": [
+        {
+          "label": "Ver Mini Me 2.0 na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
         "Como funciona a Dolce Gusto Mini Me 2.0? O painel tem um botão para selecionar a temperatura e outro para iniciar o preparo. A dosagem automática segue o número de barras indicado na cápsula e interrompe o fluxo ao atingir o volume selecionado.",
-        "O que é o Modo Eco da Mini Me 2.0? É o sistema de desligamento automático da máquina após 1 minuto de inatividade, que, segundo a fabricante, reduz o consumo de energia em até 20%.",
-        "Quanto tempo a Mini Me 2.0 demora para esquentar? O pré-aquecimento do termobloco leva entre 20 e 30 segundos, quando o LED passa de vermelho para verde.",
+        "Quanto tempo a Mini Me 2.0 demora para esquentar e quando ela desliga? O pré-aquecimento leva de 20 a 30 segundos, até o LED passar de vermelho para verde. O Modo Eco desliga a máquina após 1 minuto parada e, segundo a fabricante, reduz o consumo de energia em até 20%.",
         "Qual o padrão de tomada da Mini Me 2.0? Na unidade 127V testada, a máquina utiliza o plugue de 20 Amperes (20A) com pinos de 4,8mm. Recomenda-se confirmar a voltagem e o plugue no manual do fabricante antes de instalar.",
         "A Mini Me 2.0 aceita cápsulas NEO? Só com o Adaptador NEO Start. Segundo a página oficial, a máquina é compatível com cápsulas Original; o adaptador prepara apenas cafés pretos NEO selecionados, só com água quente, então confira a compatibilidade do sabor antes de comprar.",
         "A Mini Me 2.0 aceita cápsulas Starbucks? Sim. Ela é compatível com a linha de cápsulas Starbucks by NESCAFÉ Dolce Gusto para o sistema Original disponíveis no mercado.",
-        "O cupom CECI vale para a Mini Me 2.0? Sim. No nosso teste com uma Mini Me 2.0 em promoção, o CECI aplicou 10% de desconto e o preço foi de R$ 369,90 para R$ 332,91. O código exige compra a partir de R$ 100 na loja oficial; confira a linha do desconto antes de pagar."
+        "O CECI vale na Mini Me 2.0? Sim. No nosso teste de novembro, com a máquina em promoção, o CECI aplicou 10% de desconto. O código exige compra a partir de 100 reais na loja oficial; confira a linha do desconto antes de pagar."
       ]
     }
   ],
   "cta": {
     "text": "Confira a Mini Me 2.0 na loja oficial com o cupom CECI",
     "label": "Ver na loja oficial",
-    "url": "https://www.nescafe-dolcegusto.com.br/"
+    "url": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2",
+    "sponsored": true
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
