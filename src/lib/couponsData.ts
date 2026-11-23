@@ -1547,10 +1547,10 @@ const STORE_COUPONS: Coupon[] = [
       { benefit: 'outro-cupom', stacks: 'nao', condition: 'A loja aceita um cupom por pedido' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis em compras acima de R$ 399; o valor conta depois do cupom' },
     ],
-    lastVerified: '2026-11-11',
-    testedAt: '2026-11-11',
+    lastVerified: '2026-11-23',
+    testedAt: '2026-11-23',
     testNote:
-      'No kit "Compre 1 Daily T-shirt e ganhe 1 Cueca Boxer Comfort", o carrinho sem cupom deu R$ 139,00, com a cueca grátis. Com o EMCASACOMCECILIA, o kit saiu por R$ 118,15: os 15% entraram e a cueca continuou grátis. No mesmo kit, o cupom da campanha da loja deu 5%, R$ 132,05. Em 31/10/2026, no esquenta de Black Friday da Insider, o EMCASACOMCECILIA deu os 15% sobre o preço já reduzido: a Tech T-Shirt, de R$ 169,00 por R$ 129,00, saiu por R$ 109,65, e uma Calça Pantalona InLounge do Outlet, de R$ 299,00 por R$ 179,00, saiu por R$ 152,15. O checkout fechou em R$ 261,80 com o cupom aplicado. Em 26/10, o cupom também valeu numa cueca em promoção e, nos testes de outubro, numa meia sozinha no carrinho, sem valor mínimo.',
+      'Em 23/11/2026, na Black Week, o EMCASACOMCECILIA deu os 15% em cada item do carrinho: a Tech T-Shirt, de R$ 135,00, saiu por R$ 114,75; a Camiseta Básica Tech Daily, de R$ 104,00, por R$ 88,40; e a Undershirt Antissuor Moderado, de R$ 159,00, por R$ 135,15. O carrinho caiu de R$ 398,00 para R$ 338,30, abaixo dos R$ 399 do frete grátis. Em 11/11, no kit "Compre 1 Daily T-shirt e ganhe 1 Cueca Boxer Comfort", o carrinho sem cupom deu R$ 139,00, com a cueca grátis. Com o EMCASACOMCECILIA, o kit saiu por R$ 118,15: os 15% entraram e a cueca continuou grátis. No mesmo kit, o cupom da campanha da loja deu 5%, R$ 132,05. Em 31/10/2026, no esquenta de Black Friday da Insider, o EMCASACOMCECILIA deu os 15% sobre o preço já reduzido: a Tech T-Shirt, de R$ 169,00 por R$ 129,00, saiu por R$ 109,65, e uma Calça Pantalona InLounge do Outlet, de R$ 299,00 por R$ 179,00, saiu por R$ 152,15. O checkout fechou em R$ 261,80 com o cupom aplicado. Em 26/10, o cupom também valeu numa cueca em promoção e, nos testes de outubro, numa meia sozinha no carrinho, sem valor mínimo.',
     codeInstructions: [
       'Copie o código EMCASACOMCECILIA no card acima.',
       'Acesse a loja online da Insider pelo botão indicado: o link já leva o cupom para o carrinho.',
@@ -1561,6 +1561,11 @@ const STORE_COUPONS: Coupon[] = [
     aboutBrand:
       'A Insider é uma marca brasileira de roupas com tecnologia têxtil, que cria peças funcionais e com proposta sustentável: camisetas, underwear, roupas esportivas e acessórios para usar no dia a dia. O cupom EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília e vale nas compras da loja online, com exceção dos lançamentos. Ele não vale nas lojas físicas e não acumula com outro cupom no mesmo pedido. O cupom dá 15% OFF, e o desconto aparece no carrinho quando o código é aceito; a recomendação é conferir o resumo do pedido antes de finalizar.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Insider?',
+        answer:
+          'É o EMCASACOMCECILIA, com 15% OFF no site oficial da Insider, sem valor mínimo e em todas as formas de pagamento. Não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido.',
+      },
       {
         question: 'O cupom EMCASACOMCECILIA vale para todos os produtos da Insider?',
         answer:
@@ -1579,7 +1584,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
         answer:
-          'Sim. No teste de checkout mais recente, o EMCASACOMCECILIA aplicou os 15% num kit com brinde, que saiu de R$ 139,00 por R$ 118,15. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+          'Sim. No teste mais recente, o EMCASACOMCECILIA aplicou os 15% em cada item do carrinho, inclusive na Camiseta Básica Tech Daily. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O cupom Insider vale na primeira compra? É melhor que o de boas-vindas?',
@@ -1614,7 +1619,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom Insider vale na Black Friday?',
         answer:
-          'Vale. O cupom Insider EMCASACOMCECILIA dá 15% OFF e entrou sobre os preços já reduzidos no nosso teste do esquenta de Black Friday: a Tech T-Shirt de R$ 129,00 saiu por R$ 109,65. Como a loja aceita um cupom por pedido, compare os 15% com o cupom da campanha da própria Insider antes de pagar.',
+          'Vale. O cupom Insider EMCASACOMCECILIA dá 15% OFF e entrou sobre os preços da Black Week no nosso teste: a Tech T-Shirt de R$ 135,00 saiu por R$ 114,75. Como a loja aceita um cupom por pedido, compare os 15% com o cupom da campanha da própria Insider antes de pagar.',
       },
       {
         question: 'O cupom vale nas lojas físicas da Insider?',
@@ -1670,6 +1675,18 @@ const STORE_COUPONS: Coupon[] = [
         url: '/reviews/insider-store-reclame-aqui-nota-reputacao',
         type: 'review',
         publishedAt: '2026-10-05',
+      },
+      {
+        title: 'Black Friday Insider: o que comprar e a conta com o cupom',
+        url: '/reviews/black-friday-insider',
+        type: 'review',
+        publishedAt: '2026-10-10',
+      },
+      {
+        title: 'Kit Insider: quando compensa mais que a peça avulsa',
+        url: '/reviews/kit-insider-quando-compensa',
+        type: 'review',
+        publishedAt: '2026-10-30',
       },
     ],
     monthlyHighlight: {

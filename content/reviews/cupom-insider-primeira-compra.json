@@ -17,7 +17,7 @@
   "metaDescription": "Para a primeira compra na Insider, use EMCASACOMCECILIA: 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. Vale também para quem já comprou.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/insider/cupom-insider-primeira-compra-capa-v2.webp",
@@ -40,6 +40,12 @@
       "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
     },
     {
+      "slug": "black-friday-insider"
+    },
+    {
+      "slug": "kit-insider-quando-compensa"
+    },
+    {
       "slug": "insider-store-e-confiavel"
     },
     {
@@ -50,7 +56,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para a primeira compra na Insider, use EMCASACOMCECILIA: 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. O mesmo código vale para quem já comprou, e a loja aceita um cupom por pedido. Lançamentos ficam de fora; confira abaixo como o desconto afeta o frete."
+        "Para a primeira compra na Insider, use o [cupom Insider](/cupons/insider) EMCASACOMCECILIA: 15% OFF no site, sem valor mínimo e em todas as formas de pagamento. O mesmo código vale para quem já comprou, e a loja aceita um cupom por pedido. O que pesa é o frete: veja abaixo como os 15% mexem no frete grátis."
       ]
     },
     {
@@ -58,7 +64,7 @@
       "paragraphs": [
         "A Insider vende roupas, como camisetas, camisas, calças e peças íntimas. Antes do primeiro pedido, veja os dados da empresa e os cuidados de compra em [Insider Store é confiável?](/reviews/insider-store-e-confiavel).",
         "Use o EMCASACOMCECILIA: 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. Ele vale no primeiro pedido e nos seguintes. Você digita o código direto no checkout, sem cadastro prévio na loja.",
-        "É o [cupom Insider](/cupons/insider) da nossa parceria com a marca, testado no checkout. Em respostas no Reclame Aqui sobre um cupom pessoal divulgado indevidamente, a Insider informou que cancelou e estornou os pedidos."
+        "É o cupom Insider da nossa parceria com a marca, testado no checkout. Em respostas no Reclame Aqui sobre um cupom pessoal divulgado indevidamente, a Insider informou que cancelou e estornou os pedidos."
       ]
     },
     {
@@ -67,17 +73,16 @@
         "O cupom não exige valor mínimo, mas há regras de produto, canal de compra e frete:"
       ],
       "bullets": [
-        "**Lançamentos ficam de fora.** O carrinho mostra, item a item, quais peças receberam os 15%.",
+        "**Lançamentos ficam de fora pela regra publicada.** A etiqueta sozinha não decide: o carrinho mostra, item a item, quais peças receberam os 15%.",
         "**Um cupom por pedido.** A loja aceita um só, e descontos de cupons diferentes não se somam.",
-        "**Só na loja online.** Lojas físicas e Mercado Livre ficam de fora, e a Insider não tem aplicativo.",
-        "**Frete grátis acima de R$ 399, depois do desconto.** A loja informa: se o cupom deixar o pedido abaixo desse valor, o envio é cobrado."
-      ],
-      "postParagraphs": []
+        "**Só na loja online.** Loja física, Mercado Livre e pedido pago com saldo de gift card ficam de fora, e a Insider não tem aplicativo.",
+        "**Frete grátis a partir de R$ 399, depois do desconto.** A loja informa: se o cupom deixar o pedido abaixo desse valor, o envio é cobrado."
+      ]
     },
     {
       "heading": "Kit com brinde: o que o código mudou no teste",
       "paragraphs": [
-        "No teste do cupom de 11/11/2026, registrado na nossa página de cupom, o EMCASACOMCECILIA entrou num kit com Daily T-shirt e Cueca Boxer Comfort de brinde. O resultado foi este:"
+        "No teste de novembro, registrado na nossa página de cupom, o EMCASACOMCECILIA entrou num kit com Daily T-shirt e Cueca Boxer Comfort de brinde, no estilo do Compre e Ganhe da Black Week. O resultado foi este:"
       ],
       "comparisonTable": {
         "caption": "Kit da Daily T-shirt com Cueca Boxer Comfort de brinde: teste do código, antes do Pix e do frete.",
@@ -98,7 +103,7 @@
       },
       "postParagraphs": [
         "Nesse kit, a cueca continuou grátis depois do código. Outros brindes dependem das condições de cada oferta.",
-        "O cupom soma com promoções, Outlet e kits em promoção, e também com o desconto do Pix. Lançamentos permanecem fora da regra publicada; confira os itens elegíveis e o total no checkout."
+        "O cupom soma com promoções, Outlet e kits em promoção, e também com o desconto do Pix, que aparece no checkout. No teste de novembro, ele entrou na Daily avulsa também. Lançamentos seguem fora da regra publicada; confira a linha do código em cada item e o total no checkout."
       ],
       "images": [
         {
@@ -136,13 +141,43 @@
       "imageAspectRatio": 1.343
     },
     {
+      "heading": "Vale usar o cupom na primeira compra?",
+      "paragraphs": [
+        "Vale. O cupom não pede cadastro nem valor mínimo, entra em todas as formas de pagamento e mostra o desconto item a item antes de pagar. O cuidado fica no frete: em pedido pequeno, os 15% podem deixar o total abaixo da faixa do frete grátis.",
+        "Outro ponto da primeira compra é o tamanho. Cueca, calcinha e undershirt só trocam por defeito, pela política comercial da loja, o que convive com o direito de arrependimento da compra online; camiseta tem 21 dias para troca por tamanho."
+      ],
+      "emphasis": "Na primeira compra, comece por uma camiseta e deixe cueca e calcinha para quando você já souber o seu tamanho.",
+      "links": [
+        {
+          "label": "Ver a Daily T-shirt na Insider",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/daily-t-shirt?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Insider: EMCASACOMCECILIA",
+          "href": "/cupons/insider"
+        }
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Como conseguir desconto na primeira compra na Insider? O EMCASACOMCECILIA dá 15% nos produtos elegíveis da loja online, no primeiro pedido e nos seguintes.",
+        "Qual é o cupom da Insider? É o EMCASACOMCECILIA, com 15% OFF no site oficial da Insider, sem valor mínimo e em todas as formas de pagamento. Não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido.",
+        "Como conseguir desconto na primeira compra na Insider? Entre pelo link da parceria ou digite o código no campo de cupom do checkout; o capítulo \"Onde colar o código\" mostra o caminho.",
         "Qual cupom Insider vale para quem já é cliente? O mesmo EMCASACOMCECILIA, com os mesmos 15%.",
-        "O cupom Insider soma com o Pix e com as promoções? Sim, com os dois. Lançamentos continuam fora do desconto.",
+        "O cupom Insider soma com o Pix e com as promoções? Soma com o desconto do Pix, que aparece no checkout, e com os preços promocionais. Em lançamento, confira a linha do código no resumo.",
         "O cupom Insider vale no Mercado Livre? Não. Ele vale no site oficial, pelo carrinho."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Use na primeira compra se quer começar por uma camiseta: o cupom entra sem cadastro prévio e sem valor mínimo.",
+      "Use se já é cliente e vai comprar de novo: o mesmo código vale nas compras seguintes."
+    ],
+    "skipIf": [
+      "Não conte com o cupom em lançamento sem conferir a linha do código no resumo do pedido.",
+      "Pense duas vezes antes de levar cueca ou calcinha na primeira compra sem saber o seu tamanho: essas linhas só trocam por defeito."
+    ]
+  }
 }

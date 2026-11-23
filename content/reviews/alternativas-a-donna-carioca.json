@@ -18,6 +18,7 @@
   "metaDescription": "Alternativas à Donna Carioca: onde a legging custa menos, quem faz do PP ao XGG e quem dá 30 dias para trocar. E quando compensa ficar na própria marca.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/insider/alternativas-a-donna-carioca-capa-v2.webp",
@@ -104,7 +105,7 @@
     {
       "heading": "Para o tamanho que ela não faz: Insider e SHEIN",
       "paragraphs": [
-        "A Donna Carioca vai do P ao GG em todas as peças lidas. Na Insider, as peças de entrada da linha fitness vão do PP ao XGG: a Legging Easy, os tops Action e Energy e o Short Motion curto."
+        "A Donna Carioca vai do P ao GG em todas as peças lidas. Na Insider, as peças de entrada da linha fitness vão do PP ao XGG: a Legging Easy, os tops Action e Energy e o Short Motion curto. Na consulta de novembro a Easy tinha só 8 de 57 combinações de cor e tamanho em estoque, então confira o seu tamanho antes de contar com ela."
       ],
       "comparisonTable": {
         "headers": [
@@ -189,7 +190,7 @@
         "As peças de entrada da Insider declaram 77% de poliamida e 23% de elastano, e o Top Segunda Pele SkinUp da Toda Up, 76,5% e 23,5%. Nas mais vendidas da Donna Carioca, a ficha diz 84% e 16%. A ficha não mostra qual segura mais no treino: use o número para comparar com a etiqueta de uma peça que você já tem."
       ],
       "comparisonTable": {
-        "caption": "Antes do frete. Legging Easy, Top Action e Top Segunda Pele com o código aplicado no carrinho de teste; no Short Motion, é a conta de 15% sobre o preço da página, sem teste no carrinho. Os preços da Insider e da Toda Up são de promoção, em novembro.",
+        "caption": "Antes do frete. Legging Easy, Top Action e Top Segunda Pele com o código aplicado no carrinho de teste; no Short Motion, é a conta de 15% sobre o preço da página, sem teste no carrinho. Os preços da Insider e da Toda Up são os da Black Week, com preços de promoção.",
         "headers": [
           "Peça",
           "Preço de tabela",
@@ -206,8 +207,8 @@
           [
             "[Insider Top Action](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/action-top-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
             "R$ 155",
-            "R$ 99",
-            "R$ 84,15"
+            "R$ 104",
+            "R$ 88,40"
           ],
           [
             "[Insider Short Motion curto](https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/motion-shorts-90-feminino?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA)",
@@ -289,7 +290,7 @@
         "Cada loja tem o seu código da parceria, e ele só vale nela."
       ],
       "bullets": [
-        "Insider: EMCASACOMCECILIA. No carrinho de teste, deu 15% na Legging Easy e no Top Action. Confira o percentual no resumo do pedido.",
+        "Insider: o [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF em todas as formas de pagamento. No carrinho de teste, valeu na Legging Easy e no Top Action. O botão da loja já leva o cupom; se preferir, cole o código no campo \"Cupom de desconto ou Gift Card\" e confira a linha do código em cada item. Ele não vale em lançamentos, na loja física, no Mercado Livre nem em pedido pago com saldo de gift card, e a loja aceita um cupom por pedido.",
         "Toda Up: MAUAD, 10%. No carrinho de teste, entrou no Top Segunda Pele. Não vale nos produtos Black VIP: use a página comum da peça.",
         "SHEIN: 4CW5Y é o código de indicação da Cecília, sem percentual fixo. Pesquise o código no app ou no site da SHEIN para abrir a seleção com promoções. As peças deste guia abrem pelos links da tabela, sem precisar dele."
       ],
@@ -309,8 +310,34 @@
       ]
     },
     {
+      "heading": "Qual escolher",
+      "paragraphs": [
+        "Para pagar o mínimo por peça, a SHEIN, lendo a composição de cada anúncio. Para o PP ou o XGG, a Insider, depois de conferir o estoque do seu tamanho. Para top ou calcinha avulsos com 30 dias de troca, a Toda Up. Para três peças ou mais com o selo de promoção, fique na Donna Carioca."
+      ],
+      "emphasis": "Para uma legging só, eu iria na Insider na campanha; para gastar o mínimo, na SHEIN, lendo a composição antes de pagar.",
+      "links": [
+        {
+          "label": "Ver Legging Easy na Insider",
+          "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/products/easy-legging?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+          "sponsored": true,
+          "store": "insider"
+        },
+        {
+          "label": "Ver Top Segunda Pele na Toda Up",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "sponsored": true,
+          "store": "toda-up"
+        },
+        {
+          "label": "Cupom Insider: EMCASACOMCECILIA",
+          "href": "/cupons/insider"
+        }
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom de cada loja? Insider: [EMCASACOMCECILIA](/cupons/insider), 15% OFF. Toda Up: [MAUAD](/cupons/toda-up), 10% OFF. SHEIN: o código de indicação 4CW5Y, que se pesquisa no app ou no site da [SHEIN](/cupons/shein) e não tem percentual fixo.",
         "Qual loja é parecida com a Donna Carioca e mais barata? A SHEIN tem legging por cerca de metade do preço de tabela dela. No top, a diferença é pequena quando a Donna Carioca está em promoção. Leia a composição de cada peça: entre as leggings da tabela, há poliamida e poliéster.",
         "Qual marca de moda fitness tem plus size? Na Insider, as peças de entrada vão do PP ao XGG. Na SHEIN, a Legging Easithlete tem grade plus de 1XL a 3XL. A Donna Carioca vai do P ao GG.",
         "A Insider é mais cara que a Donna Carioca? Na tabela, sim: cerca do dobro na legging e quase o dobro no top. Na campanha de novembro, a Legging Easy e os tops chegam perto do preço da Donna Carioca.",
@@ -326,7 +353,8 @@
       "Leve a Toda Up se quer top ou calcinha com 30 dias para trocar."
     ],
     "skipIf": [
-      "Passe a Insider se vai levar três peças ou mais com o selo de promoção da Donna Carioca: o Leve 3 Pague 2 e o progressivo deixam a conta menor que a da Insider."
+      "Passe a Insider se vai levar três peças ou mais com o selo de promoção da Donna Carioca: o Leve 3 Pague 2 e o progressivo deixam a conta menor que a da Insider.",
+      "Passe a Insider se o seu tamanho não estiver na Legging Easy: na consulta de novembro ela tinha só 8 de 57 tamanhos em estoque."
     ]
   },
   "pros": [],
