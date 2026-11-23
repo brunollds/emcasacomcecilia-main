@@ -126,3 +126,15 @@ Perfil "Océane Beauty & Smart - Loja Online", CNPJ 04.484.321/0007-55, no Recla
 - **Coreia:** a recontagem de um subagente deu 21 itens fora dos kits, não 23; nenhum número entra no texto, só a ficha
   de cada produto.
 - **Mari Maria** (para o OC10): ver a seção de leitura no briefing `oceane-ou-mari-maria`.
+
+## Black Month (lido em 23/11/2026, para a OC11)
+
+- Página `/black-friday`: faixa "A BLACK MONTH COMEÇOU! São mais de 250 produtos com até 70% OFF", com "descontos extras"
+  no app; o título da página diz "até 80% OFF". Etiqueta "MÊS DA BLACK" nos produtos. Sem data de fim. Lojas físicas
+  participam com outros preços. Pagamento: cartão, Pix, PicPay, boleto e Ame Digital.
+- Coleção 1733 na API de busca: 407 produtos, 399 com estoque, de R$ 8,90 a R$ 559,90; maior desconto de lista para o
+  preço do dia, 71%; nenhum a 80%.
+- **EMCASA sobre preço de Black Month (simulação da sacola, sem compra):** Foundation Stick Almond R$ 49,90, desconto
+  de R$ 4,99; sacola de R$ 62,80, desconto de R$ 6,28; sacola de R$ 192,50, desconto de R$ 19,25. 10% em todos os itens.
+- Não testado: EMCASA com "leve X por R$ Y" e com brinde. Frete cobrado nas três sacolas em São Paulo.
+- Detalhes e tabelas em [[black-friday-oceane]].
