@@ -1077,7 +1077,8 @@ const STORE_COUPONS: Coupon[] = [
       'Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília: acesse a loja pelo navegador do celular ou computador (não funcionam no app do Magalu).',
       'Entre com a sua conta Magalu de sempre — o login é o mesmo do site e do app.',
       'Monte o carrinho com produtos vendidos e entregues pelo Magalu até atingir o valor mínimo da faixa desejada.',
-      'No checkout, aplique o código correspondente à sua faixa (ex.: 50EMCASACOMCECILIA para R$ 50 OFF em compras a partir de R$ 2.499,90).',
+      'O campo do código não fica na sacola: ele aparece na etapa de pagamento, depois de entrar na conta e escolher a entrega.',
+      'No pagamento, aplique o código correspondente à sua faixa (ex.: 50EMCASACOMCECILIA para R$ 50 OFF em compras a partir de R$ 2.499,90).',
       'Confira se o desconto apareceu no resumo do pedido antes de finalizar.',
     ],
     category: 'Eletrônicos, eletrodomésticos, móveis e mais',
@@ -1097,6 +1098,16 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política do Magalu',
     combinable:
       'Soma com as promoções vigentes da loja e com o desconto do Pix; confirme o valor no checkout',
+    stacking: [
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Vale sobre o preço em oferta, inclusive o da Black Friday, nos produtos vendidos e entregues pelo Magalu' },
+      { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, que muda de produto para produto (de 0% a 12% nas listas que lemos)' },
+      { benefit: 'outro-cupom', stacks: 'nao', condition: 'Vale um cupom por pedido: se o produto mostrar um cupom do Magalu, compare e use o que der mais desconto' },
+      { benefit: 'frete', stacks: 'depende', condition: 'O desconto é só nos produtos; o frete é calculado pelo CEP' },
+    ],
+    paymentPerks: [
+      'O código vale em todas as formas de pagamento',
+      'No Pix, o desconto da loja muda por produto e aparece na página do item',
+    ],
     lastVerified: '2026-11-11',
     testedAt: '2026-10-01',
     testNote:
@@ -1104,6 +1115,11 @@ const STORE_COUPONS: Coupon[] = [
     aboutBrand:
       'A loja Magazine Você da Cecília faz parte do programa oficial Influenciador Magalu (antigo Magazine Você), mantido pela Magazine Luiza S/A (CNPJ 47.960.950/0001-21). O domínio magazinevoce.com.br pertence à própria Magalu desde 2011, o que significa que quem vende, cobra, entrega e faz o pós-venda é o Magalu — e o login usado na loja é a conta Magalu que você já tem no site e no app. Os códigos desta campanha são criados pela Cecília para a própria loja: estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília — não no app do Magalu nem no site principal. Comprar por essa loja pode gerar comissão para o Em Casa com Cecília, sem custo extra para você: o preço e o desconto exibidos no checkout são exatamente os da sua faixa.',
     faqs: [
+      {
+        question: 'Qual é o cupom do Magalu?',
+        answer:
+          'Na loja Magazine Você da Cecília, pelo navegador, os códigos vão de 10EMCASACOMCECILIA (R$ 10 OFF a partir de R$ 499,90) até 100EMCASACOMCECILIA (R$ 100 OFF a partir de R$ 4.999,90), em produtos vendidos e entregues pelo Magalu e em todas as formas de pagamento. Use o código da maior faixa que o seu carrinho alcançar; no app do Magalu, ele não funciona.',
+      },
       {
         question: 'Os cupons funcionam no app do Magalu?',
         answer:
@@ -1189,6 +1205,9 @@ const STORE_COUPONS: Coupon[] = [
         type: 'review',
         publishedAt: '2026-07-17',
       },
+      { title: 'Black Friday Magalu 2026: é 27 de novembro, as ofertas antecipadas já estão no ar e qual código da Cecília usar', url: '/reviews/black-friday-magalu', type: 'review', publishedAt: '2026-10-11' },
+      { title: 'Cupom Magalu primeira compra: os códigos valem para cliente novo e antigo', url: '/reviews/cupom-magalu-primeira-compra', type: 'review', publishedAt: '2026-11-12' },
+      { title: 'Magazine Você é confiável? É golpe? Como funciona a loja de influenciador do Magalu', url: '/reviews/magazine-voce-e-confiavel', type: 'review', publishedAt: '2026-10-12' },
     ],
     monthlyHighlight: {
       scope: 'na loja Magazine Você da Cecília',
@@ -3867,7 +3886,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'petz',
-    cartPrint: { src: '/images/reviews/petz/cupom-petz-sacola-celular-com-cupom.webp', alt: 'Sacola da Petz no celular com o produto, o cupom EMCASA aplicado no campo Cupom de desconto e a linha Desconto Aplicado', aspectRatio: 1.013 },
+    cartPrint: { article: 'cupom-petz-como-usar', src: '/images/reviews/petz/cupom-petz-sacola-celular-com-cupom.webp', alt: 'Sacola da Petz no celular com o produto, o cupom EMCASA aplicado no campo Cupom de desconto e a linha Desconto Aplicado', aspectRatio: 1.013 },
     brand: 'Petz',
     officialUrl: 'https://www.petz.com.br/',
     // Loja da Cecília no programa Parceiro Petz (11/11/2026): o link marca a compra para a parceria, mas não aplica o
@@ -3902,6 +3921,7 @@ const STORE_COUPONS: Coupon[] = [
     stacking: [
       { benefit: 'retirada', stacks: 'sim', condition: 'Soma com os 5% do Retire na Loja: 14,5% no total, em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste' },
       { benefit: 'promocoes', stacks: 'nao', condition: 'Num produto já em oferta, a sacola fica com o desconto maior' },
+      { benefit: 'assinatura', stacks: 'nao', condition: 'Não soma com os 10% da Assinatura Petz; o EMCASA entra nas compras avulsas' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
       { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 199 no Sul e no Sudeste e de R$ 299 nas demais regiões; medicamentos, acima de R$ 199' },
     ],
@@ -3914,7 +3934,7 @@ const STORE_COUPONS: Coupon[] = [
       'Aplicamos o EMCASA numa sacola com uma Cama Suspensa Cansei de Ser Gato a preço cheio, R$ 319,99: o cupom tirou R$ 32,00 e o total caiu para R$ 287,99, os 10%. Em 11/11/2026, numa sacola com uma ração Golden de R$ 22,99 e dois itens em promoção da Royal Canin, um sachê por R$ 9,90 (de R$ 10,99) e uma ração Maxi 12 kg por R$ 279,99 (de R$ 349,99), a Golden caiu para R$ 20,69; o sachê ficou com os 10% sobre o preço cheio, R$ 9,89; e a ração Maxi manteve os 20% da promoção.',
     codeInstructions: [
       'Copie o código EMCASA no card acima.',
-      'Entre na Petz pelo botão desta página e coloque os produtos na sacola.',
+      'Entre na Petz pelo botão desta página e coloque os produtos na sacola. O botão abre a loja da Cecília na Petz (petz.com.br/parceiro/emcasa), mas não aplica o EMCASA sozinho; os preços 10% menores que aparecem nos produtos são os de assinante.',
       'Na sacola, cole o código no campo "Digite seu cupom" e aplique.',
       'No Centro-Oeste, no Sul e no Sudeste, em compras acima de R$ 199, escolha "Retire na Loja" para somar mais 5% OFF ao cupom.',
       'Confira a linha "Total de descontos" no resumo do pedido antes de ir para o pagamento.',
@@ -3922,6 +3942,11 @@ const STORE_COUPONS: Coupon[] = [
     aboutBrand:
       'A Petz é uma rede brasileira de pet shops, com lojas físicas, site e app, que vende ração, petiscos, higiene, farmácia, acessórios e itens de casa e jardim. O cupom EMCASA vem do programa Parceiro Petz e é o benefício para quem acompanha o Em Casa com Cecília: dá 10% OFF nas compras no site e no app. A recomendação é conferir o resumo do pedido antes de pagar.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Petz?',
+        answer:
+          'O cupom da Petz é o EMCASA, que dá 10% OFF no site e no app, em todas as formas de pagamento, para quem compra pela primeira vez e para quem já é cliente. Cole o código no campo "Digite seu cupom" da sacola: o botão da loja não aplica o desconto sozinho.',
+      },
       {
         question: 'O cupom EMCASA vale para todos os produtos da Petz?',
         answer:
@@ -4001,6 +4026,15 @@ const STORE_COUPONS: Coupon[] = [
       scope: 'no site e no app',
       note: 'Na retirada em loja, em compras acima de R$ 199 no Centro-Oeste, no Sul e no Sudeste, a Petz tira mais 5% do valor já com o cupom: 14,5% no total. Em produto já em promoção, o cupom não soma: vale o desconto maior',
     },
+    relatedContent: [
+      { title: 'Como usar o cupom EMCASA na Petz: promoção, retirada e frete', url: '/reviews/cupom-petz-como-usar', type: 'review', publishedAt: '2026-11-11' },
+      { title: 'Black Friday Petz 2026: regras, Clubz e quando o cupom ainda ajuda', url: '/reviews/black-friday-petz', type: 'review', publishedAt: '2026-11-11' },
+      { title: 'Assinatura Petz ou cupom EMCASA: qual sai mais barato', url: '/reviews/assinatura-petz-ou-cupom', type: 'review', publishedAt: '2026-11-11' },
+      { title: 'Areia para gato na Petz: quanto custa o quilo de cada tipo', url: '/reviews/areia-para-gato-petz-custo-por-quilo', type: 'review', publishedAt: '2026-11-15' },
+      { title: 'Enxoval do filhote de cachorro: a lista com preço na Petz', url: '/reviews/enxoval-filhote-cachorro-lista-com-preco', type: 'review', publishedAt: '2026-11-21' },
+      { title: 'Peitoral para cachorro: os modelos da Petz, com preço e medidas', url: '/reviews/peitoral-cachorro', type: 'review', publishedAt: '2026-11-21' },
+      { title: 'Petz no Reclame Aqui: nota, reputação e o que mais gera reclamação', url: '/reviews/petz-reclame-aqui-nota-reputacao', type: 'review', publishedAt: '2026-11-11' },
+    ],
     status: 'ativo',
     featured: false,
   },
@@ -5433,6 +5467,7 @@ const STORE_COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/gocase.webp',
     brandColor: '#005BAA',
     cartPrint: {
+      article: 'cupom-gocase-como-usar',
       src: '/images/reviews/gocase/cupom-gocase-checkout-com-cupom.webp',
       alt: 'Resumo do checkout da Gocase com o cupom CECILIAA aplicado: desconto de R$ 18,99 sobre R$ 379,70 em produtos e total de R$ 360,71',
       aspectRatio: 0.65,
@@ -5454,12 +5489,12 @@ const STORE_COUPONS: Coupon[] = [
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Pode ser usado por clientes novos e antigos',
     shipping:
-      'Frete grátis na entrega Normal acima de R$ 199,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP e acima de R$ 399,00 nos demais estados, pelo valor final com os descontos, segundo o regulamento da loja; pedidos com mala de bordo ou mochila de rodinhas ficam fora, e o valor do seu estado aparece no carrinho',
-    combinable: 'Soma com as promoções vigentes do site, inclusive os preços da GoBlack, e vale com todas as formas de pagamento',
+      'Frete grátis na entrega Normal pelo valor final com os descontos: o regulamento e a faixa do site informam R$ 229,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP, enquanto a Central de Ajuda cita R$ 199,90 para esses estados; nos demais, R$ 399,00. Pedidos com mala de bordo ou mochila de rodinhas ficam fora, e o valor que vale para o seu estado aparece no carrinho',
+    combinable: 'Soma com as promoções vigentes do site, inclusive os preços da GoBlack, e vale com todas as formas de pagamento. A exceção é o Compre 1 e Leve 2 das capinhas, que pelo regulamento não soma com cupom',
     stacking: [
-      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço da GoBlack: no teste, a Tote Mini de R$ 219,90 por R$ 149,90 também ganhou os 5%' },
+      { benefit: 'promocoes', stacks: 'sim', condition: 'Entra sobre o preço da GoBlack: no teste, a Tote Mini de R$ 219,90 por R$ 149,90 também ganhou os 5%. O Compre 1 e Leve 2 das capinhas não soma com cupom' },
       { benefit: 'pix', stacks: 'sim', condition: 'O cupom vale no Pix, como nas outras formas de pagamento' },
-      { benefit: 'frete', stacks: 'depende', condition: 'Pelo regulamento, grátis na entrega Normal acima de R$ 199,90 no Sul, no Sudeste e em parte do Centro-Oeste; confira o valor no carrinho' },
+      { benefit: 'frete', stacks: 'depende', condition: 'Grátis acima de R$ 229,90 pelo regulamento (a Central de Ajuda cita R$ 199,90) no Sul, no Sudeste e em parte do Centro-Oeste; R$ 399,00 nos demais' },
     ],
     lastVerified: '2026-11-19',
     testedAt: '2026-11-19',
@@ -5468,12 +5503,18 @@ const STORE_COUPONS: Coupon[] = [
     codeInstructions: [
       'Copie o código CECILIAA no card acima.',
       'Acesse o site oficial da Gocase pelo botão indicado, adicione os produtos ao carrinho e clique em Finalizar compra.',
+      'No checkout, informe primeiro o seu e-mail e o CPF: antes dessa etapa, o campo Tem um cupom? recusa o CECILIAA.',
       'No resumo do checkout, digite o código no campo Tem um cupom? e clique em Aplicar.',
       'Confira o aviso Cupom CECILIAA aplicado e a linha Desconto (CECILIAA) antes de pagar.',
     ],
     aboutBrand:
       'A Gocase é uma marca brasileira com mais de 10 anos de capinhas de celular, garrafas e copos térmicos, bolsas, mochilas, malas, acessórios e linha pet, muitos deles personalizáveis, vendidos no site oficial e em lojas em Fortaleza, Brasília e São Paulo. O cupom CECILIAA é o benefício da parceria para quem acompanha o Em Casa com Cecília: 5% OFF, com qualquer forma de pagamento e também sobre os preços em promoção.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Gocase?',
+        answer:
+          'O cupom da Gocase é o CECILIAA, com dois A no fim, que dá 5% OFF no site oficial, em todas as formas de pagamento, para clientes novos e antigos, e soma com os preços da GoBlack. No checkout, informe o e-mail e o CPF antes de digitar o código no campo Tem um cupom?.',
+      },
       {
         question: 'Quanto de desconto o cupom CECILIAA dá na Gocase?',
         answer:
@@ -5505,7 +5546,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Onde coloco o cupom na Gocase?',
         answer:
-          'No checkout do site oficial, que abre pelo botão Finalizar compra do carrinho: digite CECILIAA no campo Tem um cupom?, no resumo, e clique em Aplicar. Aparece o aviso Cupom CECILIAA aplicado, e o resumo passa a mostrar a linha Desconto (CECILIAA).',
+          'No checkout do site oficial, que abre pelo botão Finalizar compra do carrinho. Informe primeiro o e-mail e o CPF; depois, digite CECILIAA no campo Tem um cupom?, no resumo, e clique em Aplicar. Aparece o aviso Cupom CECILIAA aplicado, e o resumo passa a mostrar a linha Desconto (CECILIAA).',
+      },
+      {
+        question: 'O cupom soma com o Compre 1 e Leve 2 das capinhas?',
+        answer:
+          'Não. Pelo regulamento da Gocase, a promoção Compre 1 e Leve 2 das capinhas não soma com cupom. Nas outras promoções do site, como os preços da GoBlack, o CECILIAA entra normalmente.',
       },
       {
         question: 'Tem cupom Gocase na Black Friday?',
@@ -5520,7 +5566,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'O cupom não mexe no frete. Pelo regulamento da Gocase, o frete grátis na entrega Normal vale acima de R$ 199,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP e acima de R$ 399,00 nos demais estados, pelo valor final do pedido com os descontos, e pedidos com mala de bordo ou mochila de rodinhas ficam fora. Durante as campanhas, o site pode mostrar outro valor para o seu estado: confira no carrinho.',
+          'O cupom não mexe no frete. O regulamento e a faixa do site da Gocase informam frete grátis na entrega Normal acima de R$ 229,90 no DF, ES, GO, MG, MS, PR, RJ, RS, SC e SP, enquanto a Central de Ajuda cita R$ 199,90 para esses estados; nos demais, o valor é R$ 399,00. Conta o valor final do pedido com os descontos, e pedidos com mala de bordo ou mochila de rodinhas ficam fora. O valor que vale para o seu estado aparece no carrinho.',
       },
       {
         question: 'Como funciona a troca na Gocase?',
@@ -5542,6 +5588,14 @@ const STORE_COUPONS: Coupon[] = [
       scope: 'no site oficial',
       note: 'Soma com os preços da GoBlack',
     },
+    relatedContent: [
+      { title: 'Cupom Gocase: como aplicar o CECILIAA no checkout e com o que ele soma', url: '/reviews/cupom-gocase-como-usar', type: 'review', publishedAt: '2026-11-19' },
+      { title: 'Black Friday Gocase 2026: preços de garrafas, copos e bolsas com o CECILIAA', url: '/reviews/black-friday-gocase', type: 'review', publishedAt: '2026-11-19' },
+      { title: 'Gocase é boa? Como escolher garrafa térmica, bolsa e capinha', url: '/reviews/gocase-e-boa', type: 'review', publishedAt: '2026-11-19' },
+      { title: 'Garrafa térmica: qual escolher entre Gocase e Bagaggio', url: '/reviews/garrafa-termica-qual-escolher-parceiras', type: 'review', publishedAt: '2026-11-21' },
+      { title: 'Cupom Gocase na primeira compra: 5% OFF com CECILIAA', url: '/reviews/cupom-gocase-primeira-compra', type: 'review', publishedAt: '2026-11-19' },
+      { title: 'Gocase no Reclame Aqui: a nota, o que mais gera reclamação e como a loja responde', url: '/reviews/gocase-reclame-aqui-nota-reputacao', type: 'review', publishedAt: '2026-11-19' },
+    ],
     status: 'ativo',
     featured: false,
   },
