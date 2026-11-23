@@ -248,7 +248,7 @@ export function ShelfHeading({ id, children }: { id: string; children: React.Rea
     <div className="flex items-center gap-2.5">
       <h2
         id={id}
-        className="font-condensada text-[28px] font-black leading-7 font-stretch-extra-condensed md:text-[32px] md:leading-8"
+        className="scroll-mt-24 font-condensada text-[28px] font-black leading-7 font-stretch-extra-condensed md:text-[32px] md:leading-8"
       >
         {children}
       </h2>
