@@ -219,6 +219,16 @@
           "label": "Cupom MAUAD: regras e validade",
           "href": "/cupons/letseatit"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/letseatit/tacas-tresor-incolor-515ml.webp",
+          "alt": "Taça Trésor incolor de 515 ml com drinque de laranja",
+          "caption": "Taça Trésor 515 ml, incolor, da Linha Sintonia. Imagem: Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://letseatit.com.br/products/jogo-de-6-tacas-para-agua-gioia-vidro-incolor-linha-sintonia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        }
       ]
     },
     {

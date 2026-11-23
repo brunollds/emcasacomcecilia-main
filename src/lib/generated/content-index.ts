@@ -51965,6 +51965,16 @@ export const reviewsData: unknown[] = [
             "label": "Cupom MAUAD: regras e validade",
             "href": "/cupons/letseatit"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/tacas-tresor-incolor-515ml.webp",
+            "alt": "Taça Trésor incolor de 515 ml com drinque de laranja",
+            "caption": "Taça Trésor 515 ml, incolor, da Linha Sintonia. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/jogo-de-6-tacas-para-agua-gioia-vidro-incolor-linha-sintonia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
         ]
       },
       {
@@ -52071,6 +52081,16 @@ export const reviewsData: unknown[] = [
             "label": "Ver a coleção Porto Brasil na Let's Eat It",
             "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
             "sponsored": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-camomille-colecao-mesa.webp",
+            "alt": "Panelas Le Creuset Camomille de vários tamanhos sobre uma mesa ao ar livre",
+            "caption": "Linha Le Creuset Camomille. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -73830,14 +73850,6 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Let's Eat It vende sobretudo o stoneware da [Porto Brasil](https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): quase todas as peças da marca no catálogo da loja são desse material. Confira o material e as indicações de uso na página de cada produto. Na última conferência, três aparelhos de 30 peças estavam disponíveis em pré-venda:"
         ],
-        "image": {
-          "src": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
-          "alt": "Página da Porto Brasil na Let's Eat It, com o menu da loja, as cores da linha e o banner da marca",
-          "caption": "A página da Porto Brasil na Let's Eat It. Print da página.",
-          "objectFit": "contain",
-          "aspectRatio": 1.6227,
-          "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
-        },
         "links": [
           {
             "label": "Ver a Porto Brasil na Let's Eat It",
@@ -73860,6 +73872,24 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD, em todas as formas de pagamento, e soma com o desconto do Pix, com as promoções e com a pré-venda. Cole o código no campo “Código de desconto” do checkout. Os preços do restante do catálogo estão no nosso guia de Black Friday da loja."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
+            "alt": "Página da Porto Brasil na Let's Eat It, com o menu da loja, as cores da linha e o banner da marca",
+            "caption": "A página da Porto Brasil na Let's Eat It. Print da página.",
+            "objectFit": "contain",
+            "aspectRatio": 1.6227,
+            "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          },
+          {
+            "src": "/images/reviews/letseatit/porto-brasil-aparelho-bio-latte-30-pecas.webp",
+            "alt": "Aparelho de jantar Porto Brasil Bio Latte de 30 peças empilhado",
+            "caption": "Aparelho de jantar Stoneware Bio Latte, 30 peças, Porto Brasil. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
         ]
       },
       {
@@ -146832,6 +146862,24 @@ export const reviewsData: unknown[] = [
             "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
             "sponsored": true
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-redonda-signature-azure-20cm.webp",
+            "alt": "Panela Le Creuset Redonda Signature 20 cm, Azure",
+            "caption": "Redonda Signature 20 cm, 2,4 L, Azure. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          },
+          {
+            "src": "/images/reviews/letseatit/le-creuset-redonda-signature-camomille-24cm.webp",
+            "alt": "Panela Le Creuset Redonda Signature 24 cm, Camomille",
+            "caption": "Redonda Signature 24 cm, 4,2 L, Camomille. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
         ]
       },
       {
@@ -146927,19 +146975,29 @@ export const reviewsData: unknown[] = [
           "A marca informa a linha de 22 a 32 cm.",
           "O formato aparece nos números. A buffet de 26 cm leva 2,2 L, menos que a redonda de 20 cm, que leva 2,4 L, mesmo sendo mais larga. A buffet ganha em diâmetro e perde em volume. A loja a põe entre o fogão, o forno e a mesa; a marca, do forno à mesa. Se o que você precisa é de litros, a redonda leva mais."
         ],
-        "image": {
-          "src": "/images/reviews/letseatit/le-creuset-buffet-30-x-redonda-24.webp",
-          "alt": "Caçarola Buffet Signature azul de 30 cm, baixa e larga, ao lado da Panela Redonda Signature vermelha de 24 cm, mais alta",
-          "caption": "A buffet de 30 cm (3,5 L) é mais larga e mais baixa que a redonda de 24 cm (4,2 L). Montagem nossa com fotos da Let's Eat It.",
-          "objectFit": "contain",
-          "aspectRatio": 3.0189,
-          "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
-        },
         "links": [
           {
             "label": "Ver a caçarola buffet Sage 30 cm na Let's Eat It",
             "href": "https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
             "sponsored": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-buffet-30-x-redonda-24.webp",
+            "alt": "Caçarola Buffet Signature azul de 30 cm, baixa e larga, ao lado da Panela Redonda Signature vermelha de 24 cm, mais alta",
+            "caption": "A buffet de 30 cm (3,5 L) é mais larga e mais baixa que a redonda de 24 cm (4,2 L). Montagem nossa com fotos da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 3.0189,
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          },
+          {
+            "src": "/images/reviews/letseatit/le-creuset-cacarola-buffet-sage-30cm.webp",
+            "alt": "Caçarola Buffet Signature Le Creuset 30 cm, Sage",
+            "caption": "Caçarola Buffet Signature 30 cm, 3,5 L, Sage. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -147206,6 +147264,16 @@ export const reviewsData: unknown[] = [
             "label": "Ver a coleção Le Creuset na Let's Eat It",
             "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
             "sponsored": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-redonda-azure-20cm-mesa.webp",
+            "alt": "Panela Le Creuset Redonda Signature Azure 20 cm sobre a mesa",
+            "caption": "Redonda Signature Azure 20 cm. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ]
       },
@@ -187017,6 +187085,24 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A taça de 450 ml mede 15 cm de altura e 8,5 cm de diâmetro, diz a página. É de vidro, transparente, com base colorida.",
           "A de 250 ml tem o nome de [taça para champanhe](https://letseatit.com.br/products/taca-para-champagne-base-esfera-verde-sphere-250ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). A descrição da loja não diz para qual bebida serve a de 450 ml."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/taca-base-esfera-azul-sphere-450ml.webp",
+            "alt": "Conjunto de 6 taças base esfera Sphere 450 ml, azul, com gin-tônica",
+            "caption": "Taça base esfera Sphere 450 ml, azul, da Linha Sintonia. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/taca-base-esfera-azul-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          },
+          {
+            "src": "/images/reviews/letseatit/taca-champagne-base-esfera-verde-sphere-250ml.webp",
+            "alt": "Taça para champanhe base esfera Sphere 250 ml, verde",
+            "caption": "Taça para champanhe base esfera Sphere 250 ml, verde, da Linha Sintonia. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/taca-para-champagne-base-esfera-verde-sphere-250ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
         ]
       },
       {
@@ -199029,6 +199115,14 @@ export const reviewsData: unknown[] = [
             "caption": "A Let's Eat It no localizador oficial da Le Creuset Brasil, no endereço da filial de Serra. Imagem: Le Creuset Brasil.",
             "objectFit": "contain",
             "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          },
+          {
+            "src": "/images/reviews/letseatit/le-creuset-travessa-heritage-mist-grey-32cm.webp",
+            "alt": "Travessa retangular Le Creuset Heritage 32 cm, Mist Grey",
+            "caption": "Travessa Heritage 32 cm, Mist Grey. Imagem: Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-mist-grey-32cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
           }
         ],
         "links": [

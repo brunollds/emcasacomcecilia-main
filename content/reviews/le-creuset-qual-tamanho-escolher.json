@@ -136,6 +136,24 @@
           "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
           "sponsored": true
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/letseatit/le-creuset-redonda-signature-azure-20cm.webp",
+          "alt": "Panela Le Creuset Redonda Signature 20 cm, Azure",
+          "caption": "Redonda Signature 20 cm, 2,4 L, Azure. Imagem: Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        },
+        {
+          "src": "/images/reviews/letseatit/le-creuset-redonda-signature-camomille-24cm.webp",
+          "alt": "Panela Le Creuset Redonda Signature 24 cm, Camomille",
+          "caption": "Redonda Signature 24 cm, 4,2 L, Camomille. Imagem: Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        }
       ]
     },
     {
@@ -231,19 +249,29 @@
         "A marca informa a linha de 22 a 32 cm.",
         "O formato aparece nos números. A buffet de 26 cm leva 2,2 L, menos que a redonda de 20 cm, que leva 2,4 L, mesmo sendo mais larga. A buffet ganha em diâmetro e perde em volume. A loja a põe entre o fogão, o forno e a mesa; a marca, do forno à mesa. Se o que você precisa é de litros, a redonda leva mais."
       ],
-      "image": {
-        "src": "/images/reviews/letseatit/le-creuset-buffet-30-x-redonda-24.webp",
-        "alt": "Caçarola Buffet Signature azul de 30 cm, baixa e larga, ao lado da Panela Redonda Signature vermelha de 24 cm, mais alta",
-        "caption": "A buffet de 30 cm (3,5 L) é mais larga e mais baixa que a redonda de 24 cm (4,2 L). Montagem nossa com fotos da Let's Eat It.",
-        "objectFit": "contain",
-        "aspectRatio": 3.0189,
-        "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
-      },
       "links": [
         {
           "label": "Ver a caçarola buffet Sage 30 cm na Let's Eat It",
           "href": "https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
           "sponsored": true
+        }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/letseatit/le-creuset-buffet-30-x-redonda-24.webp",
+          "alt": "Caçarola Buffet Signature azul de 30 cm, baixa e larga, ao lado da Panela Redonda Signature vermelha de 24 cm, mais alta",
+          "caption": "A buffet de 30 cm (3,5 L) é mais larga e mais baixa que a redonda de 24 cm (4,2 L). Montagem nossa com fotos da Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 3.0189,
+          "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        },
+        {
+          "src": "/images/reviews/letseatit/le-creuset-cacarola-buffet-sage-30cm.webp",
+          "alt": "Caçarola Buffet Signature Le Creuset 30 cm, Sage",
+          "caption": "Caçarola Buffet Signature 30 cm, 3,5 L, Sage. Imagem: Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://letseatit.com.br/products/cacarola-buffet-signature-sage-3-5l-30cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
         }
       ]
     },

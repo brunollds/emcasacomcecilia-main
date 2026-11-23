@@ -69,6 +69,16 @@
           "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
           "sponsored": true
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/letseatit/le-creuset-camomille-colecao-mesa.webp",
+          "alt": "Panelas Le Creuset Camomille de vários tamanhos sobre uma mesa ao ar livre",
+          "caption": "Linha Le Creuset Camomille. Imagem: Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-camomille-4-2l-24cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        }
       ]
     },
     {

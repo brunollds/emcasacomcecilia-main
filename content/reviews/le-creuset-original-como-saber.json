@@ -181,6 +181,16 @@
           "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
           "sponsored": true
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/letseatit/le-creuset-redonda-azure-20cm-mesa.webp",
+          "alt": "Panela Le Creuset Redonda Signature Azure 20 cm sobre a mesa",
+          "caption": "Redonda Signature Azure 20 cm. Imagem: Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://letseatit.com.br/products/panela-le-creuset-redonda-signature-azure-blue-2-4l-20cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        }
       ]
     },
     {

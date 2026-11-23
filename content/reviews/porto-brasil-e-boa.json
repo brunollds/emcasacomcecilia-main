@@ -132,14 +132,6 @@
       "paragraphs": [
         "A Let's Eat It vende sobretudo o stoneware da [Porto Brasil](https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico): quase todas as peças da marca no catálogo da loja são desse material. Confira o material e as indicações de uso na página de cada produto. Na última conferência, três aparelhos de 30 peças estavam disponíveis em pré-venda:"
       ],
-      "image": {
-        "src": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
-        "alt": "Página da Porto Brasil na Let's Eat It, com o menu da loja, as cores da linha e o banner da marca",
-        "caption": "A página da Porto Brasil na Let's Eat It. Print da página.",
-        "objectFit": "contain",
-        "aspectRatio": 1.6227,
-        "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
-      },
       "links": [
         {
           "label": "Ver a Porto Brasil na Let's Eat It",
@@ -162,6 +154,24 @@
       ],
       "postParagraphs": [
         "No site, o [cupom Let's Eat It](/cupons/letseatit) dá 5% de desconto com o código MAUAD, em todas as formas de pagamento, e soma com o desconto do Pix, com as promoções e com a pré-venda. Cole o código no campo “Código de desconto” do checkout. Os preços do restante do catálogo estão no nosso guia de Black Friday da loja."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/letseatit/lets-eat-it-porto-brasil-pagina.webp",
+          "alt": "Página da Porto Brasil na Let's Eat It, com o menu da loja, as cores da linha e o banner da marca",
+          "caption": "A página da Porto Brasil na Let's Eat It. Print da página.",
+          "objectFit": "contain",
+          "aspectRatio": 1.6227,
+          "href": "https://letseatit.com.br/collections/porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        },
+        {
+          "src": "/images/reviews/letseatit/porto-brasil-aparelho-bio-latte-30-pecas.webp",
+          "alt": "Aparelho de jantar Porto Brasil Bio Latte de 30 peças empilhado",
+          "caption": "Aparelho de jantar Stoneware Bio Latte, 30 peças, Porto Brasil. Imagem: Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://letseatit.com.br/products/aparelho-de-jantar-stoneware-bio-latte-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        }
       ]
     },
     {

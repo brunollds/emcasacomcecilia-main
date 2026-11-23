@@ -50,6 +50,24 @@
       "paragraphs": [
         "A taça de 450 ml mede 15 cm de altura e 8,5 cm de diâmetro, diz a página. É de vidro, transparente, com base colorida.",
         "A de 250 ml tem o nome de [taça para champanhe](https://letseatit.com.br/products/taca-para-champagne-base-esfera-verde-sphere-250ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico). A descrição da loja não diz para qual bebida serve a de 450 ml."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/letseatit/taca-base-esfera-azul-sphere-450ml.webp",
+          "alt": "Conjunto de 6 taças base esfera Sphere 450 ml, azul, com gin-tônica",
+          "caption": "Taça base esfera Sphere 450 ml, azul, da Linha Sintonia. Imagem: Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://letseatit.com.br/products/taca-base-esfera-azul-sphere-450ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        },
+        {
+          "src": "/images/reviews/letseatit/taca-champagne-base-esfera-verde-sphere-250ml.webp",
+          "alt": "Taça para champanhe base esfera Sphere 250 ml, verde",
+          "caption": "Taça para champanhe base esfera Sphere 250 ml, verde, da Linha Sintonia. Imagem: Let's Eat It.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://letseatit.com.br/products/taca-para-champagne-base-esfera-verde-sphere-250ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+        }
       ]
     },
     {
