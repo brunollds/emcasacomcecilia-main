@@ -77565,7 +77565,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Código de indicação SHEIN 4CW5Y: dá desconto, sim, numa seleção de produtos. Use o link ou pesquise no app ou no site. Passo a passo com telas.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
@@ -77631,9 +77631,7 @@ export const reviewsData: unknown[] = [
             "href": "/cupons/shein"
           }
         ],
-        "postParagraphs": [
-          "Compras feitas pelo link ou pelo código podem gerar comissão para quem o divulga, sem custo extra para você."
-        ]
+        "emphasis": "Eu trato o 4CW5Y como a porta de entrada para as promoções da SHEIN, e não como cupom: quem mostra o desconto de cada peça é a página que ele abre."
       },
       {
         "heading": "Por que os guias antigos, com o cupom de R$ 10, não valem mais",
@@ -77679,8 +77677,21 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-shein"
+      },
+      {
+        "slug": "cupom-shein-primeira-compra"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai comprar na SHEIN e quer chegar à seleção de promoções e descontos pela busca, sem procurar cupom.",
+        "Você quer o passo a passo com telas de onde digitar o código no app ou no site."
+      ],
+      "skipIf": [
+        "Você procura um cupom para colar no carrinho: o código de indicação vai na busca, e não no campo de cupom.",
+        "Você quer ter um código para divulgar: o seu sai do programa de afiliados da SHEIN, com cadastro e requisitos."
+      ]
+    }
   },
   {
     "id": 366,
@@ -77716,7 +77727,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The SHEIN referral code does give a discount. Open SHEIN through Cecília's link and search 4CW5Y in the store's search bar, in the app or on the website, not in the coupon field: the code opens a special page with a selection of products, promotions and discounts. How much and on which pieces is up to SHEIN, and it varies."
+          "The SHEIN referral code does give a discount. Open SHEIN through Cecília's link, or copy 4CW5Y and search it in the store's search bar, in the app or on the website, not in the coupon field. It opens a page of products, promotions and discounts; how much and on which pieces is up to SHEIN."
         ]
       },
       {
@@ -77769,9 +77780,7 @@ export const reviewsData: unknown[] = [
             "href": "/en/coupons/shein"
           }
         ],
-        "postParagraphs": [
-          "Purchases made through the link or code may earn the person who shared it a commission, at no extra cost to you."
-        ]
+        "emphasis": "I treat 4CW5Y as the way into SHEIN's promotions, not as a coupon: the discount on each piece is shown by the page it opens."
       },
       {
         "heading": "Why the old guides, with the old program's coupon, no longer apply",
@@ -77817,8 +77826,21 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "shein-black-friday-dates-taxes"
+      },
+      {
+        "slug": "shein-first-order-referral-code"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "You are about to shop on SHEIN and want to reach the selection of promotions and discounts through search, without hunting for a coupon.",
+        "You want a step-by-step with screenshots of where to type the code in the app or on the website."
+      ],
+      "skipIf": [
+        "You are looking for a coupon to paste in the cart: the referral code goes in the search bar, not in the coupon field.",
+        "You want a code of your own to share: yours comes from SHEIN's affiliate program, with sign-up and requirements."
+      ]
+    }
   },
   {
     "id": 367,
@@ -77854,7 +77876,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El código de referido de SHEIN sí da descuento. Abre SHEIN con el enlace de Cecília y busca 4CW5Y en el buscador de la tienda, en la app o en el sitio, y no en el campo de cupón: el código abre una página especial con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN, y varía."
+          "El código de referido de SHEIN sí da descuento. Abre SHEIN con el enlace de Cecília o copia 4CW5Y y búscalo en el buscador de la tienda, en la app o en el sitio, no en el campo de cupón. Abre una página con productos, promociones y descuentos; cuánto y en qué prendas lo decide SHEIN."
         ]
       },
       {
@@ -77907,9 +77929,7 @@ export const reviewsData: unknown[] = [
             "href": "/es/coupons/shein"
           }
         ],
-        "postParagraphs": [
-          "Las compras realizadas a través del enlace o del código pueden generar una comisión para quien lo compartió, sin costo extra para ti."
-        ]
+        "emphasis": "Trato el 4CW5Y como la puerta de entrada a las promociones de SHEIN, no como un cupón: el descuento de cada prenda lo muestra la página que abre."
       },
       {
         "heading": "Por qué las guías antiguas, con el cupón del programa antiguo, ya no valen",
@@ -77955,8 +77975,21 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-shein-fechas-impuestos"
+      },
+      {
+        "slug": "cupon-shein-primera-compra"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vas a comprar en SHEIN y quieres llegar a la selección de promociones y descuentos desde el buscador, sin ir tras un cupón.",
+        "Quieres el paso a paso con capturas de dónde escribir el código en la app o en el sitio."
+      ],
+      "skipIf": [
+        "Buscas un cupón para pegar en el carrito: el código de referido va en el buscador, no en el campo de cupón.",
+        "Quieres tener un código propio para compartir: el tuyo sale del programa de afiliados de SHEIN, con registro y requisitos."
+      ]
+    }
   },
   {
     "id": 368,
@@ -77992,7 +78025,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le code de parrainage SHEIN donne bien une réduction. Ouvrez SHEIN avec le lien de Cecília et recherchez 4CW5Y dans la recherche de la boutique, dans l'application ou sur le site, et non dans le champ du code promo : le code ouvre une page spéciale avec une sélection de produits, des promotions et des réductions. Le montant et les pièces, c'est SHEIN qui décide, et cela varie."
+          "Le code de parrainage SHEIN donne bien une réduction. Ouvrez SHEIN via le lien de Cecília ou copiez 4CW5Y et recherchez-le dans la boutique, sur l'application ou le site, pas dans le champ du code promo. Il ouvre une page de produits, promotions et réductions ; le montant et les pièces, c'est SHEIN qui décide."
         ]
       },
       {
@@ -78045,9 +78078,7 @@ export const reviewsData: unknown[] = [
             "href": "/fr/coupons/shein"
           }
         ],
-        "postParagraphs": [
-          "Les achats effectués via le lien ou le code peuvent rapporter une commission à la personne qui l'a partagé, sans frais supplémentaires pour vous."
-        ]
+        "emphasis": "Je traite le 4CW5Y comme la porte d'entrée vers les promotions de SHEIN, et non comme un code promo : la réduction de chaque pièce, c'est la page qu'il ouvre qui la montre."
       },
       {
         "heading": "Pourquoi les anciens guides, avec le code promo de l'ancien programme, ne valent plus",
@@ -78093,8 +78124,21 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-shein-dates-et-taxes"
+      },
+      {
+        "slug": "code-promo-shein-premiere-commande"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous allez acheter sur SHEIN et voulez arriver à la sélection de promotions et de réductions par la recherche, sans chercher de code promo.",
+        "Vous voulez le pas à pas avec captures pour savoir où saisir le code dans l'application ou sur le site."
+      ],
+      "skipIf": [
+        "Vous cherchez un code promo à coller dans le panier : le code de parrainage se saisit dans la recherche, pas dans le champ du code promo.",
+        "Vous voulez votre propre code à partager : le vôtre vient du programme d'affiliation de SHEIN, avec inscription et conditions."
+      ]
+    }
   },
   {
     "id": 369,
@@ -78130,7 +78174,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der SHEIN-Empfehlungscode gibt Rabatt. Öffnen Sie SHEIN über Cecílias Link und suchen Sie 4CW5Y in der Suche des Shops, in der App oder auf der Website, nicht im Gutscheinfeld: Der Code öffnet eine spezielle Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie hoch und auf welche Teile, entscheidet SHEIN, und das variiert."
+          "Der SHEIN-Empfehlungscode gibt Rabatt. Öffnen Sie SHEIN über Cecílias Link oder kopieren Sie 4CW5Y und suchen Sie in der Suche des Shops danach, in der App oder auf der Website, nicht im Gutscheinfeld. Er öffnet eine Seite mit Produkten, Aktionen und Rabatten; wie hoch und auf welche Teile, entscheidet SHEIN."
         ]
       },
       {
@@ -78183,9 +78227,7 @@ export const reviewsData: unknown[] = [
             "href": "/de/coupons/shein"
           }
         ],
-        "postParagraphs": [
-          "Käufe über den Link oder Code können der Person, die ihn geteilt hat, eine Provision einbringen, ohne Mehrkosten für Sie."
-        ]
+        "emphasis": "Ich behandle 4CW5Y als Eingang zu den Aktionen von SHEIN und nicht als Gutschein: Den Rabatt auf jedes Teil zeigt die Seite, die er öffnet."
       },
       {
         "heading": "Warum die alten Anleitungen mit dem Gutschein des alten Programms nicht mehr gelten",
@@ -78231,8 +78273,21 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "shein-black-friday-termine-steuern"
+      },
+      {
+        "slug": "shein-gutschein-erstbestellung"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie wollen bei SHEIN einkaufen und über die Suche zur Auswahl an Aktionen und Rabatten kommen, ohne nach einem Gutschein zu suchen.",
+        "Sie wollen die Anleitung mit Screenshots, wo Sie den Code in der App oder auf der Website eingeben."
+      ],
+      "skipIf": [
+        "Sie suchen einen Gutschein zum Einfügen im Warenkorb: Der Empfehlungscode gehört in die Suche, nicht ins Gutscheinfeld.",
+        "Sie wollen einen eigenen Code zum Weitergeben: Ihrer stammt aus dem Affiliate-Programm von SHEIN, mit Anmeldung und Voraussetzungen."
+      ]
+    }
   },
   {
     "id": 370,
@@ -78268,7 +78323,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il codice invito SHEIN dà sconto, sì. Apri SHEIN con il link di Cecília e cerca 4CW5Y nella ricerca del negozio, nell'app o nel sito, e non nel campo del coupon: il codice apre una pagina speciale con una selezione di prodotti, promozioni e sconti. Quanto e su quali capi lo decide SHEIN, e varia."
+          "Il codice invito SHEIN dà sconto, sì. Apri SHEIN con il link di Cecília oppure copia 4CW5Y e cercalo nella ricerca del negozio, nell'app o nel sito, non nel campo del coupon. Apre una pagina con prodotti, promozioni e sconti; quanto e su quali capi lo decide SHEIN."
         ]
       },
       {
@@ -78321,9 +78376,7 @@ export const reviewsData: unknown[] = [
             "href": "/it/coupons/shein"
           }
         ],
-        "postParagraphs": [
-          "Gli acquisti effettuati tramite il link o il codice possono generare una commissione per chi lo ha condiviso, senza costi aggiuntivi per te."
-        ]
+        "emphasis": "Considero il 4CW5Y la porta d'ingresso alle promozioni di SHEIN, non un coupon: lo sconto di ogni capo lo mostra la pagina che apre."
       },
       {
         "heading": "Perché le vecchie guide, con il coupon del vecchio programma, non valgono più",
@@ -78369,8 +78422,21 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-shein-date-e-tasse"
+      },
+      {
+        "slug": "codice-sconto-shein-primo-ordine"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Stai per comprare su SHEIN e vuoi arrivare alla selezione di promozioni e sconti dalla ricerca, senza cercare un coupon.",
+        "Vuoi la guida passo passo con le schermate di dove digitare il codice nell'app o nel sito."
+      ],
+      "skipIf": [
+        "Cerchi un coupon da incollare nel carrello: il codice invito va nella ricerca, non nel campo del coupon.",
+        "Vuoi un codice tuo da condividere: il tuo nasce dal programma di affiliazione di SHEIN, con registrazione e requisiti."
+      ]
+    }
   },
   {
     "id": 371,
@@ -78406,7 +78472,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "SHEIN 추천 코드에는 할인이 있습니다. Cecília의 링크로 SHEIN을 열고, 쿠폰 칸이 아니라 앱이나 사이트의 쇼핑몰 검색창에서 4CW5Y를 검색하세요. 코드를 검색하면 상품, 프로모션, 할인을 모은 특별한 페이지가 열리며, 할인 폭과 대상 상품은 SHEIN이 정하고 달라집니다."
+          "SHEIN 추천 코드에는 할인이 있습니다. Cecília의 링크로 SHEIN을 열거나, 4CW5Y를 복사해 앱이나 사이트의 쇼핑몰 검색창에서 검색하세요. 쿠폰 칸이 아닙니다. 코드를 검색하면 상품, 프로모션, 할인을 모은 특별한 페이지가 열리며, 할인 폭과 대상 상품은 SHEIN이 정하고 달라집니다."
         ]
       },
       {
@@ -78459,9 +78525,7 @@ export const reviewsData: unknown[] = [
             "href": "/ko/coupons/shein"
           }
         ],
-        "postParagraphs": [
-          "링크나 코드를 통해 구매하면 코드를 공유한 사람에게 수수료가 지급될 수 있으며, 구매자에게 추가 비용은 없습니다."
-        ]
+        "emphasis": "저는 4CW5Y를 쿠폰이 아니라 SHEIN 프로모션으로 들어가는 입구로 봅니다. 각 상품의 할인은 코드가 여는 페이지에서 확인할 수 있습니다."
       },
       {
         "heading": "이전 프로그램의 쿠폰을 안내하는 옛날 가이드가 더 이상 맞지 않는 이유",
@@ -78507,8 +78571,21 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "shein-black-friday-ko"
+      },
+      {
+        "slug": "shein-first-order-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "SHEIN에서 쇼핑할 예정이고, 쿠폰을 찾아 헤매지 않고 검색으로 프로모션과 할인 모음에 들어가고 싶은 분.",
+        "앱이나 사이트에서 코드를 어디에 입력하는지 화면과 함께 단계별로 보고 싶은 분."
+      ],
+      "skipIf": [
+        "장바구니에 붙여 넣을 쿠폰을 찾는 분: 추천 코드는 쿠폰 칸이 아니라 검색창에 입력합니다.",
+        "공유할 자기만의 코드를 갖고 싶은 분: 코드는 SHEIN 제휴 프로그램에서 발급되며 가입과 요건이 있습니다."
+      ]
+    }
   },
   {
     "id": 372,
@@ -78544,7 +78621,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "SHEINの紹介コードには割引があります。Cecíliaのリンクから SHEINを開き、クーポン欄ではなく、アプリまたはサイトにあるストアの検索で4CW5Yを検索すると、商品、セール、割引を集めた特別なページが開きます。割引の大きさと対象の商品はSHEINが決め、変わります。"
+          "SHEINの紹介コードには割引があります。CecíliaのリンクからSHEINを開くか、4CW5Yをコピーして、クーポン欄ではなく、アプリまたはサイトにあるストアの検索で検索してください。商品、セール、割引を集めた特別なページが開きます。割引の大きさと対象の商品はSHEINが決め、変わります。"
         ]
       },
       {
@@ -78597,9 +78674,7 @@ export const reviewsData: unknown[] = [
             "href": "/ja/coupons/shein"
           }
         ],
-        "postParagraphs": [
-          "リンクやコードを経由した購入により、コードを紹介した人が手数料を受け取る場合があります。購入者の負担は増えません。"
-        ]
+        "emphasis": "私は4CW5Yをクーポンではなく、SHEINのセールへの入口として扱っています。商品ごとの割引は、コードが開くページで確認できます。"
       },
       {
         "heading": "旧プログラムのクーポンつきの古いガイドが使えなくなった理由",
@@ -78645,8 +78720,21 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "shein-black-friday-ja"
+      },
+      {
+        "slug": "shein-first-order-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "SHEINで買い物をする予定で、クーポンを探さずに、検索からセールと割引の特集に入りたい人。",
+        "アプリやサイトのどこにコードを入力するか、画面つきの手順で知りたい人。"
+      ],
+      "skipIf": [
+        "カートに貼り付けるクーポンを探している人：紹介コードはクーポン欄ではなく、検索に入力します。",
+        "自分のコードを配りたい人：コードはSHEINのアフィリエイトプログラムで発行され、登録と条件があります。"
+      ]
+    }
   },
   {
     "id": 373,
@@ -78682,7 +78770,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 推薦碼有折扣。先透過 Cecília 的連結開啟 SHEIN，再在 App 或網站的商店搜尋欄裡搜尋 4CW5Y，不要填進優惠券欄：推薦碼會開啟一個特別頁面，裡面是精選商品、促銷和折扣。折扣多少、適用哪些單品由 SHEIN 決定，並且會變化。"
+          "SHEIN 推薦碼有折扣。可以透過 Cecília 的連結開啟 SHEIN，或複製 4CW5Y，在 App 或網站的商店搜尋欄裡搜尋，不要填進優惠券欄：推薦碼會開啟一個特別頁面，裡面是精選商品、促銷和折扣。折扣多少、適用哪些單品由 SHEIN 決定，並且會變化。"
         ]
       },
       {
@@ -78735,9 +78823,7 @@ export const reviewsData: unknown[] = [
             "href": "/zh-hant/coupons/shein"
           }
         ],
-        "postParagraphs": [
-          "透過連結或推薦碼購物，分享推薦碼的人可能獲得傭金，你無須額外付費。"
-        ]
+        "emphasis": "我把 4CW5Y 當作進入 SHEIN 促銷的入口，而不是優惠券：每件商品的折扣，要看它開啟的那個頁面。"
       },
       {
         "heading": "為什麼附有舊計畫優惠券的舊攻略已經不適用",
@@ -78783,8 +78869,21 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "shein-black-friday-zh-hant"
+      },
+      {
+        "slug": "shein-first-order-zh-hant"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你準備在 SHEIN 購物，想從搜尋進入精選促銷和折扣頁面，而不是到處找優惠券。",
+        "你想看附截圖的步驟，了解在 App 或網站的哪裡輸入推薦碼。"
+      ],
+      "skipIf": [
+        "你在找可以貼進購物車的優惠券：推薦碼要填在搜尋欄，而不是優惠券欄。",
+        "你想要自己的推薦碼來分享：它來自 SHEIN 的聯盟計畫，需要註冊並符合條件。"
+      ]
+    }
   },
   {
     "id": 374,
@@ -78820,7 +78919,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 推荐码有折扣。先通过 Cecília 的链接打开 SHEIN，再在应用或网站的商店搜索栏里搜索 4CW5Y，不要填进优惠券栏：推荐码会打开一个特别页面，里面是精选商品、促销和折扣。折扣多少、适用哪些单品由 SHEIN 决定，并且会变化。"
+          "SHEIN 推荐码有折扣。可以通过 Cecília 的链接打开 SHEIN，或复制 4CW5Y，在应用或网站的商店搜索栏里搜索，不要填进优惠券栏：推荐码会打开一个特别页面，里面是精选商品、促销和折扣。折扣多少、适用哪些单品由 SHEIN 决定，并且会变化。"
         ]
       },
       {
@@ -78873,9 +78972,7 @@ export const reviewsData: unknown[] = [
             "href": "/zh-hans/coupons/shein"
           }
         ],
-        "postParagraphs": [
-          "通过链接或推荐码购物，分享推荐码的人可能获得佣金，你无需额外付费。"
-        ]
+        "emphasis": "我把 4CW5Y 当作进入 SHEIN 促销的入口，而不是优惠券：每件商品的折扣，要看它打开的那个页面。"
       },
       {
         "heading": "为什么带有旧计划优惠券的旧攻略已经不适用",
@@ -78921,8 +79018,21 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "shein-black-friday-zh-hans"
+      },
+      {
+        "slug": "shein-first-order-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你准备在 SHEIN 购物，想从搜索进入精选促销和折扣页面，而不是到处找优惠券。",
+        "你想看带截图的步骤，了解在应用或网站的哪里输入推荐码。"
+      ],
+      "skipIf": [
+        "你在找可以粘贴到购物车的优惠券：推荐码要填在搜索栏，而不是优惠券栏。",
+        "你想要自己的推荐码来分享：它来自 SHEIN 的联盟计划，需要注册并满足条件。"
+      ]
+    }
   },
   {
     "id": 375,
@@ -78942,10 +79052,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a SHEIN é uma loja legítima, operada no Brasil por uma empresa registrada. Veja o que pesa na decisão, como prazo, imposto e devolução, e o que conferir antes de pagar.",
-    "metaDescription": "SHEIN é confiável, com empresa no Brasil: o código 4CW5Y dá desconto em uma seleção da SHEIN. Reputação Boa no Reclame Aqui nos seis meses até set/2026.",
+    "metaDescription": "SHEIN é confiável, com empresa no Brasil: o código 4CW5Y dá desconto em uma seleção da SHEIN. Reputação Boa no Reclame Aqui nos seis meses até out/2026.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/shein/shein-e-confiavel-capa-v2.webp",
@@ -78958,7 +79068,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a SHEIN é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui estava Boa em setembro. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um e o que conferir antes de pagar."
+          "Sim, a SHEIN é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui está Boa, com nota 7,5, nos seis meses até outubro. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um."
         ]
       },
       {
@@ -78997,7 +79107,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,5 de 10. Os números abaixo são dos seis meses até 30 de setembro de 2026. É uma fotografia desse período, não a nota de hoje."
+          "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,5 de 10 nos seis meses de 1º de maio a 31 de outubro de 2026. É uma fotografia desse período, não a nota de hoje."
         ],
         "comparisonTable": {
           "caption": "Perfil da SHEIN no Reclame Aqui, na janela de seis meses descrita acima; as duas últimas linhas são dos últimos três anos.",
@@ -79012,35 +79122,35 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Reclamações",
-              "32.431"
+              "33.252"
             ],
             [
               "Respondidas",
-              "95,3%"
+              "92,6%"
             ],
             [
               "Resolvidas",
-              "77,8%"
+              "77,6%"
             ],
             [
               "Voltariam a fazer negócio",
-              "70,6%"
+              "71%"
             ],
             [
               "Nota do consumidor",
-              "6,3 de 10"
+              "6,33 de 10"
             ],
             [
               "Tempo médio de resposta",
-              "3 dias e 5 horas"
+              "3 dias e 10 horas"
             ],
             [
               "Problema mais citado (últimos 3 anos)",
-              "Produto não recebido, 36,47%"
+              "Produto não recebido, 36,01%"
             ],
             [
               "Categoria mais citada (últimos 3 anos)",
-              "Moda feminina, 19,62%"
+              "Moda feminina, 18,87%"
             ]
           ]
         },
@@ -79088,9 +79198,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Parceria e código de indicação",
+        "heading": "Como usar o código de indicação 4CW5Y",
         "paragraphs": [
-          "Este artigo é editorial, e a Cecília é afiliada da SHEIN: compras pelos links dela podem gerar comissão, sem custo para você. O 4CW5Y é o código de indicação dela e dá desconto, sim: pelo link da Cecília, ou copiando o código e pesquisando no app ou no site da SHEIN, abre uma página com uma seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN, e varia. O código não vai no campo de cupom."
+          "O 4CW5Y é o código de indicação da Cecília e dá desconto, sim: abra a SHEIN pelo link dela, ou copie o código e pesquise na busca do app ou do site da SHEIN. Abre uma página com uma seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN, e varia. O código não vai no campo de cupom."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
@@ -79115,7 +79225,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Sim, desde que você compre pelo site ou pelo aplicativo oficial. Na janela de seis meses do quadro acima, a SHEIN tinha reputação Boa, com nota 7,5 de 10; os percentuais de resposta e solução estão lá.",
           "O problema mais citado é produto não recebido, então confira o prazo na página do pedido, o imposto no resumo e guarde a confirmação da compra."
-        ]
+        ],
+        "emphasis": "Para uma peça sem pressa, a SHEIN é uma loja segura de usar; para um presente ou um look com data marcada, eu não apostaria no prazo do pedido internacional."
       },
       {
         "heading": "Perguntas frequentes",
@@ -79153,7 +79264,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "codigo-de-indicacao-shein"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve se a peça não tem data marcada e você aceita esperar o prazo do pedido internacional, que a SHEIN estima entre 5 e 30 dias.",
+        "Leve se você confere prazo, imposto e frete no resumo do pedido antes de pagar e guarda a confirmação da compra."
+      ],
+      "skipIf": [
+        "Passe se você precisa da peça numa data fixa, como uma festa ou uma viagem, e não quer depender da estimativa de entrega.",
+        "Passe se o imposto do resumo do pedido, somado ao frete, tira a vantagem do preço da peça."
+      ]
+    }
   },
   {
     "id": 376,
@@ -79276,9 +79397,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Partnership and referral code",
+        "heading": "How to use the 4CW5Y referral code",
         "paragraphs": [
-          "This article is editorial, and Cecília is a SHEIN affiliate: purchases made through her links may earn a commission, at no cost to you. 4CW5Y is Cecília's referral code for SHEIN, and it does give you a discount: open SHEIN through her link, then copy the code and search it in the SHEIN app or on the SHEIN site: a special SHEIN page opens with a selection of products, promotions and discounts. How much and on which items is up to SHEIN, and it varies. It is not entered in the coupon field."
+          "4CW5Y is Cecília's referral code for SHEIN, and it does give you a discount: open SHEIN through her link, or copy the code and search it in the SHEIN app or on the SHEIN site. A special SHEIN page opens with a selection of products, promotions and discounts. How much and on which items is up to SHEIN, and it varies. The code is not entered in the coupon field."
         ],
         "links": [
           {
@@ -79296,7 +79417,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Yes, as long as you buy on your market's official site or in the official SHEIN app. According to their privacy policies, SHEIN US Services, LLC runs the US site and Infinite Styles Services Co., Limited the UK one, and SHEIN says it does not sell customer data.",
           "Before you pay, check the shipping cost and delivery time on the order page, the import taxes at checkout and the return deadline, and keep the order confirmation. In the US you have up to 30 days from delivery to return; in the UK, 14 days by law and most items up to 30 days under SHEIN's policy."
-        ]
+        ],
+        "emphasis": "For something that can wait, SHEIN is a safe store to use; for a gift or an outfit with a fixed date, I would not count on the delivery estimate."
       },
       {
         "heading": "Frequently asked questions",
@@ -79331,7 +79453,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "shein-referral-code-where-to-enter"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Take it if you buy on your market's official site or in the app and check shipping, import taxes and the return deadline before paying.",
+        "Take it if the item has no fixed date and you can wait for delivery."
+      ],
+      "skipIf": [
+        "Skip it if you need the item by a specific date, such as a party or a trip.",
+        "Skip it if the item has a shorter return window and you are not sure about the size."
+      ]
+    }
   },
   {
     "id": 377,
@@ -79354,7 +79486,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿SHEIN es confiable y segura? Quién opera los sitios de España y México, de qué país es, si es seguro pagar, la devolución, la aduana y qué revisar antes de pagar.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -79463,9 +79595,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Colaboración y código de referido",
+        "heading": "Cómo usar el código de referido 4CW5Y",
         "paragraphs": [
-          "Este artículo es editorial, y Cecília es afiliada de SHEIN: las compras hechas por sus enlaces pueden generar una comisión, sin costo para ti. 4CW5Y es el código de referido de Cecília para SHEIN y sí da descuento: abre SHEIN por su enlace, copia el código y búscalo en la app o en el sitio de SHEIN: se abre una página con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN, y varía. El código no va en el campo de cupón."
+          "4CW5Y es el código de referido de Cecília para SHEIN y sí da descuento: abre SHEIN por su enlace, o copia el código y búscalo en la app o en el sitio de SHEIN. Se abre una página con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN, y varía. El código no va en el campo de cupón."
         ],
         "links": [
           {
@@ -79483,7 +79615,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Sí, siempre que compres en el sitio oficial de tu mercado o en la app oficial de SHEIN. Según la política de privacidad de cada sitio, en España lo opera Infinite Styles Services Co., Limited (“ISSL”), y SHEIN dice que no vende los datos de sus clientes.",
           "Antes de pagar, revisa el costo y el plazo de envío en la página del pedido, los impuestos de importación en el checkout y el plazo de devolución, y guarda la confirmación del pedido. En España tienes 14 días de desistimiento por ley y, según la política de SHEIN, la mayoría de los artículos puede devolverse hasta 30 días después de recibirlos; en México, hasta 30 días desde la recepción."
-        ]
+        ],
+        "emphasis": "Para algo que puede esperar, SHEIN es una tienda segura; para un regalo o un look con fecha fija, no confiaría en la estimación de entrega."
       },
       {
         "heading": "Preguntas frecuentes",
@@ -79519,7 +79652,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "codigo-de-referido-shein-donde-ponerlo"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Compra si lo haces en el sitio oficial de tu mercado o en la app y revisas envío, impuestos de importación y plazo de devolución antes de pagar.",
+        "Compra si la prenda no tiene fecha fija y puedes esperar la entrega."
+      ],
+      "skipIf": [
+        "Evítalo si necesitas el artículo para una fecha concreta, como una fiesta o un viaje.",
+        "Evítalo si el artículo tiene un plazo de devolución menor y no estás seguro de la talla."
+      ]
+    }
   },
   {
     "id": 378,
@@ -79542,7 +79685,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN est-il fiable et sûr ? Qui l'exploite en France, d'où vient l'entreprise, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -79629,9 +79772,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Partenariat et code de parrainage",
+        "heading": "Comment utiliser le code de parrainage 4CW5Y",
         "paragraphs": [
-          "Cet article est éditorial, et Cecília est affiliée à SHEIN : les achats faits via ses liens peuvent générer une commission, sans frais pour vous. Le 4CW5Y est le code de parrainage de Cecília pour SHEIN, et il donne bien une réduction : ouvrez SHEIN via son lien, copiez le code et cherchez-le dans l'appli ou sur le site de SHEIN : une page s'ouvre avec une sélection de produits, de promotions et de réductions. Combien et sur quelles pièces, c'est SHEIN qui décide, et cela varie. Le code ne va pas dans le champ des coupons."
+          "Le 4CW5Y est le code de parrainage de Cecília pour SHEIN, et il donne bien une réduction : ouvrez SHEIN via son lien, ou copiez le code et cherchez-le dans l'appli ou sur le site de SHEIN. Une page s'ouvre avec une sélection de produits, de promotions et de réductions. Combien et sur quelles pièces, c'est SHEIN qui décide, et cela varie. Le code ne va pas dans le champ des coupons."
         ],
         "links": [
           {
@@ -79649,7 +79792,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Oui, à condition d'acheter sur le site officiel de votre marché ou dans l'application officielle de SHEIN. Selon la politique de confidentialité du site, la société qui l'exploite en France est Infinite Styles Services Co., Limited (« ISSL »), et SHEIN dit ne pas vendre les données de ses clients.",
           "Avant de payer, vérifiez les frais et le délai de livraison sur la page de la commande, les taxes d'importation au paiement et le délai de retour, et gardez la confirmation de commande. Le délai de rétractation légal est de 14 jours à compter de la réception, et, selon la politique de SHEIN, la plupart des articles peuvent être retournés jusqu'à 30 jours après la réception."
-        ]
+        ],
+        "emphasis": "Pour un article qui peut attendre, SHEIN est une boutique sûre ; pour un cadeau ou une tenue à date fixe, je ne me fierais pas à l'estimation de livraison."
       },
       {
         "heading": "Questions fréquentes",
@@ -79685,7 +79829,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "code-de-parrainage-shein-ou-le-mettre"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "À choisir si vous achetez sur le site officiel de votre marché ou dans l'appli et vérifiez la livraison, les taxes d'importation et le délai de retour avant de payer.",
+        "À choisir si l'article n'a pas de date limite et que vous pouvez attendre la livraison."
+      ],
+      "skipIf": [
+        "À éviter si vous avez besoin de l'article pour une date précise, comme une fête ou un voyage.",
+        "À éviter si l'article a un délai de retour plus court et que vous hésitez sur la taille."
+      ]
+    }
   },
   {
     "id": 379,
@@ -79708,7 +79862,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Ist SHEIN seriös und sicher? Betreiber in Deutschland, Herkunft, Daten, Rückgabefristen ab Erhalt, EU-Zoll von € 3, Verfahren und Mitteilung der EU-Behörden.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -79790,9 +79944,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Partnerschaft und Empfehlungscode",
+        "heading": "So nutzen Sie den Empfehlungscode 4CW5Y",
         "paragraphs": [
-          "Dieser Artikel ist redaktionell, und Cecília ist Affiliate-Partnerin von SHEIN: Käufe über ihre Links können eine Provision bringen, ohne Mehrkosten für Sie. 4CW5Y ist der Empfehlungscode von Cecília bei SHEIN, und er bringt Ihnen tatsächlich Rabatt: Öffnen Sie SHEIN über ihren Link, kopieren Sie den Code und suchen Sie ihn in der SHEIN-App oder auf der SHEIN-Website: Dann öffnet sich eine Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie hoch der Rabatt ist und auf welche Artikel er gilt, entscheidet SHEIN, und es variiert. Der Code gehört nicht ins Gutscheinfeld."
+          "4CW5Y ist der Empfehlungscode von Cecília bei SHEIN, und er bringt Ihnen tatsächlich Rabatt: Öffnen Sie SHEIN über ihren Link oder kopieren Sie den Code und suchen Sie ihn in der SHEIN-App oder auf der SHEIN-Website. Dann öffnet sich eine Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie hoch der Rabatt ist und auf welche Artikel er gilt, entscheidet SHEIN, und es variiert. Der Code gehört nicht ins Gutscheinfeld."
         ],
         "links": [
           {
@@ -79810,7 +79964,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Ja, solange Sie auf der offiziellen Website Ihres Marktes oder in der offiziellen SHEIN-App einkaufen. Laut der Datenschutzerklärung von de.shein.com betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website, und SHEIN sagt, dass es keine Kundendaten verkauft.",
           "Prüfen Sie vor der Zahlung die Versandkosten und die Lieferzeit auf der Bestellseite, die Einfuhrabgaben an der Kasse und die Rückgabefrist, und bewahren Sie die Bestellbestätigung auf. Sie haben 14 Tage gesetzliches Widerrufsrecht ab Erhalt der Ware, und nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden."
-        ]
+        ],
+        "emphasis": "Für etwas, das warten kann, ist SHEIN ein sicherer Shop; für ein Geschenk oder ein Outfit mit festem Termin würde ich mich nicht auf die Lieferschätzung verlassen."
       },
       {
         "heading": "Häufige Fragen",
@@ -79846,7 +80001,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "shein-empfehlungscode-wo-eingeben"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Kaufen Sie, wenn Sie auf der offiziellen Website Ihres Marktes oder in der SHEIN-App bestellen und Versand, Einfuhrabgaben und Rückgabefrist vor der Zahlung prüfen.",
+        "Kaufen Sie, wenn der Artikel keinen festen Termin hat und Sie auf die Lieferung warten können."
+      ],
+      "skipIf": [
+        "Lassen Sie es, wenn Sie den Artikel zu einem festen Datum brauchen, etwa für eine Feier oder eine Reise.",
+        "Lassen Sie es, wenn für den Artikel eine kürzere Rückgabefrist gilt und Sie bei der Größe unsicher sind."
+      ]
+    }
   },
   {
     "id": 380,
@@ -79869,7 +80034,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN è affidabile e sicuro? Gestore in Italia, origine, dati, termini di reso dal ricevimento, dazio UE di € 3, procedimento e notifica delle autorità UE.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -79951,9 +80116,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Collaborazione e codice invito",
+        "heading": "Come usare il codice invito 4CW5Y",
         "paragraphs": [
-          "Questo articolo è editoriale, e Cecília è affiliata di SHEIN: gli acquisti fatti dai suoi link possono generare una commissione, senza costi per te. Il 4CW5Y è il codice invito di Cecília su SHEIN e dà diritto a uno sconto, sì: apri SHEIN dal suo link, copia il codice e cercalo nell'app o sul sito di SHEIN: si apre una pagina con una selezione di prodotti, promozioni e sconti. Quanto sia lo sconto e su quali capi lo decide SHEIN, e varia. Il codice non va nel campo del coupon."
+          "Il 4CW5Y è il codice invito di Cecília su SHEIN e dà diritto a uno sconto, sì: apri SHEIN dal suo link, oppure copia il codice e cercalo nell'app o sul sito di SHEIN. Si apre una pagina con una selezione di prodotti, promozioni e sconti. Quanto sia lo sconto e su quali capi lo decide SHEIN, e varia. Il codice non va nel campo del coupon."
         ],
         "links": [
           {
@@ -79971,7 +80136,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Sì, purché tu compri sul sito ufficiale del tuo mercato o nell'app ufficiale di SHEIN. Secondo l'informativa sulla privacy di it.shein.com, il sito è gestito da Infinite Styles Services Co., Limited («ISSL»), e SHEIN dice di non vendere i dati dei clienti.",
           "Prima di pagare, controlla le spese e i tempi di consegna nella pagina dell'ordine, le imposte di importazione al checkout e il termine per il reso, e conserva la conferma dell'ordine. Il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce e, secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento."
-        ]
+        ],
+        "emphasis": "Per qualcosa che può aspettare, SHEIN è un negozio sicuro; per un regalo o un look con data fissa non farei affidamento sulla stima di consegna."
       },
       {
         "heading": "Domande frequenti",
@@ -80007,7 +80173,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "codice-invito-shein-dove-inserirlo"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Da prendere se compri sul sito ufficiale del tuo mercato o nell'app e controlli spedizione, imposte di importazione e termine di reso prima di pagare.",
+        "Da prendere se il capo non ha una data precisa e puoi aspettare la consegna."
+      ],
+      "skipIf": [
+        "Da lasciare se ti serve per una data precisa, come una festa o un viaggio.",
+        "Da lasciare se l'articolo ha un termine di reso più breve e non sei sicuro della taglia."
+      ]
+    }
   },
   {
     "id": 381,
@@ -80100,9 +80276,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "파트너십과 추천 코드",
+        "heading": "추천 코드 4CW5Y 사용법",
         "paragraphs": [
-          "이 글은 에디토리얼이며, Cecília는 SHEIN의 제휴 파트너입니다. Cecília의 링크로 구매하면 수수료가 발생할 수 있고, 구매자가 더 내는 비용은 없습니다. 4CW5Y는 Cecília의 SHEIN 추천 코드이며, 할인이 있습니다. Cecília의 링크로 SHEIN을 열고 코드를 복사해 앱이나 사이트에서 검색하면, 추천 상품과 프로모션·할인을 모은 전용 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다. 쿠폰 입력란에는 넣지 않습니다."
+          "4CW5Y는 Cecília의 SHEIN 추천 코드이며, 할인이 있습니다. Cecília의 링크로 SHEIN을 열거나, 코드를 복사해 앱이나 사이트에서 검색하면 추천 상품과 프로모션·할인을 모은 전용 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정하며 달라집니다. 쿠폰 입력란에는 넣지 않습니다."
         ],
         "links": [
           {
@@ -80120,7 +80296,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "네, 공식 사이트 kr.shein.com이나 공식 SHEIN 앱에서 구매하는 한 믿고 이용할 수 있는 쇼핑몰입니다. 개인정보 처리방침에 따르면 한국 사이트는 싱가포르의 Wonderflow Support Pte. Ltd.에서 운영하며, SHEIN은 고객 데이터를 판매하지 않는다고 말합니다.",
           "결제 전에 주문 페이지의 배송비와 배송 기간, 결제 화면의 세금과 수입 관련 비용, 반품 기한을 확인하고 주문 확인 내역을 보관하세요. kr.shein.com의 반품은 수령 후 60일 이내에 할 수 있습니다."
-        ]
+        ],
+        "emphasis": "급하지 않은 쇼핑이라면 SHEIN은 안심하고 이용할 만한 쇼핑몰입니다. 날짜가 정해진 선물이나 코디라면 저는 배송 예상일을 믿고 기다리지 않겠습니다."
       },
       {
         "heading": "자주 묻는 질문",
@@ -80155,7 +80332,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "shein-referral-code-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "공식 사이트나 앱에서 구매하고, 결제 전에 배송비·수입 관련 비용·반품 기한을 확인할 수 있다면 구매해도 좋습니다.",
+        "사용할 날짜가 정해져 있지 않고 배송을 기다릴 수 있는 상품에 알맞습니다."
+      ],
+      "skipIf": [
+        "파티나 여행처럼 정해진 날짜까지 꼭 필요한 상품은 피하세요.",
+        "반품 기한이 더 짧은 상품인데 사이즈에 자신이 없다면 피하세요."
+      ]
+    }
   },
   {
     "id": 382,
@@ -80178,7 +80365,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SHEIN は信頼できる？日本のサイトの運営会社、どこの国の会社か、返品期限（ほとんどの新品は購入日から40日）、関税、支払う前に確認することをまとめました。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -80251,9 +80438,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "提携と紹介コード",
+        "heading": "紹介コード 4CW5Y の使い方",
         "paragraphs": [
-          "この記事は編集記事で、Cecília は SHEIN のアフィリエイトです。Cecília のリンクから購入すると、報酬が発生することがありますが、あなたの負担は増えません。4CW5Y は Cecília の SHEIN 紹介コードで、割引があります。Cecília のリンクで SHEIN を開き、コードをコピーしてアプリかサイトで検索すると、おすすめ商品とセール・割引をまとめた専用ページが開きます。割引の幅や対象商品は SHEIN が決めるため、変わります。クーポンの入力欄には入れません。"
+          "4CW5Y は Cecília の SHEIN 紹介コードで、割引があります。Cecília のリンクで SHEIN を開くか、コードをコピーしてアプリかサイトで検索すると、おすすめ商品とセール・割引をまとめた専用ページが開きます。割引の幅や対象商品は SHEIN が決めるため、変わります。クーポンの入力欄には入れません。"
         ],
         "links": [
           {
@@ -80271,7 +80458,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "はい、公式サイト（jp.shein.com）か公式アプリで買うかぎり、信頼できるお店です。日本のサイトの運営会社は、プライバシーポリシーによるとシンガポールの Fashion Choice Pte. Ltd. で、SHEIN はお客様のデータを販売していないと述べています。",
           "支払う前に、注文ページの送料と配送日数、チェックアウトの輸入税や手数料、返品期限を確認し、注文の確認を保存しておきましょう。日本のサイトの返品期限は、条件を満たす新品のほとんどの商品で、購入日から40日以内です。対象外の商品もあるため、最新の返品ポリシーで確認してください。"
-        ]
+        ],
+        "emphasis": "急がない買い物なら、SHEIN は安心して使えるお店です。日付の決まったプレゼントやコーディネートなら、私は配送の目安をあてにしません。"
       },
       {
         "heading": "よくある質問",
@@ -80307,7 +80495,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "shein-referral-code-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "お住まいの地域の公式サイトかアプリで買い、支払う前に送料・輸入税・返品期限を確認できるなら、おすすめです。",
+        "使う日が決まっておらず、届くまで待てる商品なら向いています。"
+      ],
+      "skipIf": [
+        "パーティーや旅行など、決まった日までに必要な商品は見送りましょう。",
+        "返品期限が短い商品で、サイズに自信がないときは見送りましょう。"
+      ]
+    }
   },
   {
     "id": 383,
@@ -80402,9 +80600,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "合作與推薦碼",
+        "heading": "如何使用推薦碼 4CW5Y",
         "paragraphs": [
-          "本文是編輯專題，Cecília 是 SHEIN 的聯盟推廣者：透過她的連結購買，可能產生傭金，你不需要額外付費。4CW5Y 是 Cecília 的 SHEIN 推薦碼，用它有優惠：透過她的連結開啟 SHEIN，再複製代碼在 App 或網站搜尋，會開啟一個專屬頁面，裡面是精選商品、促銷和折扣。優惠多少、涵蓋哪些商品由 SHEIN 決定，會有變動。它不是填在優惠券欄位的。"
+          "4CW5Y 是 Cecília 的 SHEIN 推薦碼，用它有優惠：透過她的連結開啟 SHEIN，或者複製代碼在 App 或網站搜尋，會開啟一個專屬頁面，裡面是精選商品、促銷和折扣。優惠多少、涵蓋哪些商品由 SHEIN 決定，會有變動。它不是填在優惠券欄位的。"
         ],
         "links": [
           {
@@ -80422,7 +80620,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "可以，前提是只在官方網站（台灣站為 shein.tw）或官方 App 上購買。根據其隱私權政策，台灣站的營運公司是新加坡的 Fashion Choice Pte. Ltd.，SHEIN 也表示不會販售客戶資料。",
           "付款前請確認訂單頁面上的運費與配送時間、結帳頁面上的進口稅與相關費用，以及退貨期限，並保留訂單確認。台灣站的退貨期限是收到商品後 15 天內。"
-        ]
+        ],
+        "emphasis": "不趕時間的購物，SHEIN 是可以放心使用的商店；禮物或日期固定的搭配，我不會指望配送預估。"
       },
       {
         "heading": "常見問題",
@@ -80457,7 +80656,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "shein-referral-code-zh-hant"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "如果你在所在市場的官方網站或官方 App 下單，並在付款前確認運費、進口稅和退貨期限，可以買。",
+        "商品沒有固定使用日期、可以等待送達時，適合買。"
+      ],
+      "skipIf": [
+        "聚會、旅行等需要在固定日期前拿到的商品，建議先不買。",
+        "退貨期限較短的商品，如果你對尺寸沒把握，建議先不買。"
+      ]
+    }
   },
   {
     "id": 384,
@@ -80552,9 +80761,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "合作与推荐码",
+        "heading": "如何使用推荐码 4CW5Y",
         "paragraphs": [
-          "本文是编辑专题，Cecília 是 SHEIN 的联盟推广者：通过她的链接购买，可能产生佣金，你不需要额外付费。4CW5Y 是 Cecília 的 SHEIN 推荐码，用它有优惠：通过她的链接打开 SHEIN，再复制代码在 App 或网站里搜索，会打开一个专属页面，里面是精选商品、促销和折扣。优惠多少、涵盖哪些商品由 SHEIN 决定，会有变化。它不是填在优惠券输入框里的。"
+          "4CW5Y 是 Cecília 的 SHEIN 推荐码，用它有优惠：通过她的链接打开 SHEIN，或者复制代码在 App 或网站里搜索，会打开一个专属页面，里面是精选商品、促销和折扣。优惠多少、涵盖哪些商品由 SHEIN 决定，会有变化。它不是填在优惠券输入框里的。"
         ],
         "links": [
           {
@@ -80572,7 +80781,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "可以，前提是只在官方网站（新加坡站为 sg.shein.com）或官方 App 上购买。据其隐私政策，新加坡站的运营公司是 Fashion Choice Pte. Ltd.，SHEIN 也表示不会出售客户数据。",
           "付款前请确认订单页面上的运费与配送时间、结账页面上的进口税与相关费用，以及退货期限，并保留订单确认。退货期限请在 sg.shein.com 上确认，以及它从哪一天开始计算。"
-        ]
+        ],
+        "emphasis": "不赶时间的购物，SHEIN 是可以放心使用的商店；礼物或日期固定的搭配，我不会指望配送预估。"
       },
       {
         "heading": "常见问题",
@@ -80607,7 +80817,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "shein-referral-code-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "如果你在所在市场的官方网站或官方 App 下单，并在付款前确认运费、进口税和退货期限，可以买。",
+        "商品没有固定使用日期、可以等待送达时，适合买。"
+      ],
+      "skipIf": [
+        "聚会、旅行等需要在固定日期前拿到的商品，建议先不买。",
+        "退货期限更短的商品，如果你对尺码没把握，建议先不买。"
+      ]
+    }
   },
   {
     "id": 385,
@@ -174731,11 +174951,11 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
-    "description": "O que a nota 7,5 da SHEIN no Reclame Aqui mede em novembro, por que produto não recebido lidera as queixas dos últimos três anos e o que a Trustpilot acrescenta.",
-    "metaDescription": "SHEIN no Reclame Aqui (maio a outubro): reputação Boa, nota 7,5, 92,2% respondidas. Produto não recebido lidera as queixas dos últimos 3 anos.",
+    "description": "A nota 7,5 da SHEIN no Reclame Aqui nos últimos seis meses, o que ela mede, por que produto não recebido lidera as queixas e o que a Trustpilot acrescenta.",
+    "metaDescription": "4CW5Y: no Reclame Aqui, a SHEIN tem 92,6% das reclamações respondidas e nota 7,5 em seis meses. Produto não recebido lidera as queixas de três anos.",
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa-pt-v2.webp",
     "imageAlt": "Modelo de jaqueta marrom e jeans, com celular e bolsa junto à parede de pedra, em foto institucional da SHEIN. Na capa, “SHEIN no Reclame Aqui”, “Entrega e reembolso” e o código de indicação 4CW5Y.",
     "imageFit": "contain",
@@ -174753,52 +174973,134 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados públicos que mudam com o tempo. Podemos receber comissão pelas compras na SHEIN.",
     "relatedArticles": [
       {
-        "slug": "shein-ou-shopee-temu"
+        "slug": "shein-e-confiavel"
+      },
+      {
+        "slug": "shein-vale-a-pena"
+      },
+      {
+        "slug": "black-friday-shein"
       },
       {
         "slug": "codigo-de-indicacao-shein"
-      },
-      {
-        "slug": "shein-e-confiavel"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A reputação é Boa, com ressalvas. Nos seis meses de maio a outubro, a SHEIN tinha nota 7,5 no Reclame Aqui, com 92,2% das reclamações respondidas e 78% resolvidas entre as avaliadas. Produto não recebido é a queixa mais citada nos últimos três anos, e quase três em cada dez avaliadores não voltariam a comprar."
+          "A SHEIN tem reputação Boa no Reclame Aqui, com nota 7,5 nos últimos seis meses. Respondeu a 92,6% das reclamações, e 77,6% das avaliadas foram dadas como resolvidas. O ponto de atenção é o produto não recebido, a queixa mais citada em três anos. Se for comprar, o código de indicação 4CW5Y abre a seleção da SHEIN."
+        ]
+      },
+      {
+        "heading": "A nota e os indicadores do período",
+        "paragraphs": [
+          "A tabela traz as três abas do perfil da SHEIN no Reclame Aqui, consultadas em 23/11/2026. A aba de seis meses mostra a reputação atual; as outras duas dizem se o padrão se mantém."
+        ],
+        "comparisonTable": {
+          "caption": "Abas do perfil da SHEIN no Reclame Aqui, consultadas em 23/11/2026: 6 meses (01/05 a 31/10/2026), 12 meses (01/11/2025 a 31/10/2026) e Geral (24/11/2023 a 23/11/2026). Solução e voltariam a fazer negócio contam só as reclamações avaliadas.",
+          "headers": [
+            "Indicador",
+            "6 meses",
+            "12 meses",
+            "Geral"
+          ],
+          "rows": [
+            [
+              "Reputação e nota",
+              "Boa, 7,5",
+              "Boa, 7,4",
+              "Regular, 6,9"
+            ],
+            [
+              "Reclamações recebidas",
+              "33.252",
+              "67.915",
+              "235.365"
+            ],
+            [
+              "Respondidas",
+              "92,6%",
+              "96,3%",
+              "98,1%"
+            ],
+            [
+              "Aguardando resposta",
+              "2.212",
+              "2.255",
+              "4.242"
+            ],
+            [
+              "Avaliadas (de cada total)",
+              "13.894 de 33.252",
+              "29.328 de 67.915",
+              "99.263 de 235.365"
+            ],
+            [
+              "Índice de solução, nas avaliadas",
+              "77,6%",
+              "76,2%",
+              "68,8%"
+            ],
+            [
+              "Voltariam a fazer negócio, nas avaliadas",
+              "71%",
+              "67,8%",
+              "60,9%"
+            ],
+            [
+              "Nota média do consumidor",
+              "6,33",
+              "5,99",
+              "5,38"
+            ],
+            [
+              "Tempo médio de resposta",
+              "3 dias e 10 horas",
+              "2 dias e 14 horas",
+              "1 dia e 22 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Das 33.252 reclamações dos seis meses, 13.894 foram avaliadas. Solução e “voltariam” saem só dessas 13.894, e não de todos os clientes da loja."
         ]
       },
       {
         "heading": "O que a nota do Reclame Aqui mede",
         "paragraphs": [
-          "A nota do Reclame Aqui mede como a loja atende quem reclama. Ela não mede a qualidade das peças nem a experiência de quem comprou e não reclamou. Entram na conta quatro indicadores do período: a parte das reclamações respondidas, a parte dada como resolvida, a parte de quem voltaria a fazer negócio e a nota que o consumidor dá ao atendimento.",
-          "Em novembro, na aba de 6 meses, de 01/05/2026 a 31/10/2026, a SHEIN tinha reputação Boa e nota 7,5. Foram 33.331 reclamações, 92,2% respondidas e 78% resolvidas; 71,3% de quem avaliou disseram que voltariam a fazer negócio, e a nota média do consumidor era 6,36.",
-          "Resolvidas, voltariam e a nota do consumidor saem só das reclamações avaliadas: 13.457 das 33.331. Quem não voltou ao site para avaliar a resposta não entra nessa parte da conta.",
-          "Em outubro, a nota também era 7,5; antes disso, 7,6."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-reclame-aqui-numeros-2810.webp",
-          "alt": "Quadro com os números da SHEIN no Reclame Aqui de 01/04/2026 a 30/09/2026: nota 7,5, 95,3% das reclamações respondidas, 77,8% resolvidas e 70,6% voltariam a fazer negócio",
-          "caption": "Números do perfil da SHEIN no Reclame Aqui, aba de 6 meses. Quadro nosso.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Três leituras que mudam a conta",
-        "paragraphs": [
-          "Primeiro, quase três em cada dez não voltariam. Entre os 13.457 que avaliaram, 71,3% disseram que voltariam a fazer negócio com a SHEIN. O resto não voltaria.",
-          "Segundo, responder não é resolver. A SHEIN respondeu a 92,2% das reclamações, mas, entre quem avaliou, 78% deram o problema como resolvido. A resposta é o primeiro passo; a solução é o que o consumidor confirma depois.",
-          "Terceiro, a resposta demora. O tempo médio nos 6 meses foi de 3 dias e 9 horas, e 2.406 reclamações aguardavam resposta em novembro. Quem está com um pedido que não chegou conta esses dias."
+          "A nota mede como a loja atende quem reclama na plataforma. Ela não mede a qualidade das peças nem a experiência de quem comprou sem reclamar, e muda conforme o volume e o desfecho das reclamações do período.",
+          "A reputação Boa é a faixa que a plataforma dá à nota do período. Não se confunde com a média das avaliações dos consumidores: a nota do consumidor, de 6,33 nos seis meses, é a média que quem avaliou deu ao atendimento.",
+          "Na Trustpilot, para contexto, a SHEIN tem 3,8 em 5, com 353.689 avaliações de clientes de vários países. Essa nota é global e não separa o Brasil, por isso não substitui o Reclame Aqui para quem compra daqui."
         ]
       },
       {
-        "heading": "O que as pessoas reclamam",
+        "heading": "Pontos positivos",
         "paragraphs": [
-          "Produto não recebido é o problema mais citado, com 36,47%: mais de uma em cada três reclamações de até 3 anos.",
-          "Na mesma lista de até 3 anos, Moda Feminina era a categoria mais citada, com 19,62%; “Blusas” vinha em seguida, com 9,83%.",
-          "O rótulo não diz o motivo nem o desfecho de cada caso. E o Reclame Aqui não mostra quantos pedidos a SHEIN entrega no Brasil: 33.331 reclamações em seis meses dizem quanto a loja recebe de queixas, não a chance de o seu pedido dar problema."
+          "O perfil tem vários números a favor, todos públicos:"
+        ],
+        "bullets": [
+          "Reputação Boa nos seis meses e nos doze meses, com nota 7,5 e 7,4.",
+          "Perfil no Reclame Aqui há 8 anos.",
+          "92,6% das reclamações respondidas nos seis meses, e 96,3% nos doze meses.",
+          "77,6% das reclamações avaliadas dadas como resolvidas nos seis meses.",
+          "71% de quem avaliou disse que voltaria a fazer negócio com a loja."
+        ],
+        "postParagraphs": [
+          "A nota dos seis meses está acima da nota da aba geral, de 6,9. O tempo de resposta, porém, não acompanha, e fica nos pontos de atenção."
+        ]
+      },
+      {
+        "heading": "Pontos de atenção e principais queixas",
+        "paragraphs": [
+          "Na aba geral, dos últimos três anos, o problema mais citado é produto não recebido: 84.775 reclamações, ou 36,01% do total de 235.365. A categoria mais citada nessa aba é Moda Feminina, com 18,87%. Os cinco motivos mais citados são:"
+        ],
+        "bullets": [
+          "Produto não recebido: 84.775 (36,01%).",
+          "Atraso na entrega: 35.073.",
+          "Estorno do valor pago: 31.347.",
+          "Troca ou devolução: 13.807.",
+          "Produto errado: 3.972."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
@@ -174806,75 +175108,49 @@ export const reviewsData: unknown[] = [
           "caption": "Ilustração nossa do pacote que não chega e do reembolso, os temas das queixas. Guarde o comprovante e o código de rastreio.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Trustpilot: a nota de quem avalia",
-        "paragraphs": [
-          "A Trustpilot é internacional: a SHEIN tinha ali 3,8 em 5, em 353.527 avaliações de vários países. O perfil é global e não separa o Brasil: a nota fala dos clientes de todos os países, não do atendimento no Brasil."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-          "alt": "Celular com o perfil da SHEIN na Trustpilot: nota 3,8, distribuição das estrelas e 98% das avaliações negativas respondidas",
-          "caption": "Perfil da SHEIN na Trustpilot, versão de celular. Print do site, com dois trechos ampliados.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Nossa checagem",
-        "paragraphs": [
-          "Os números vêm de leitura pública, feita sem login, em dois perfis:"
-        ],
-        "bullets": [
-          "Reclame Aqui: a aba de 6 meses (de maio a outubro) e o recorte de 3 anos dos principais problemas.",
-          "Trustpilot: a nota, o número de avaliações e o escopo do perfil, que é global."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-reclame-aqui-perfil-2910.webp",
-          "alt": "Celular com a página da SHEIN no Reclame Aqui: reputação Boa, nota 7,5 nos últimos 6 meses e os números das reclamações",
-          "caption": "Página da SHEIN no Reclame Aqui, versão de celular. Print do site, com dois trechos ampliados.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "O que não lemos: o texto das respostas da SHEIN e o histórico mês a mês da nota. Por isso o texto não diz se as respostas resolvem.",
-          "Os números mudam todo mês. Confira o perfil no dia da compra.",
-          "A Cecília é afiliada da SHEIN: compras pelos links do site podem gerar comissão, sem custo para você. Isso não muda os números, que são do perfil público."
-        ],
-        "links": [
-          {
-            "label": "Perfil da SHEIN no Reclame Aqui",
-            "href": "https://www.reclameaqui.com.br/empresa/shein/"
-          }
+          "Na aba de seis meses, o ponto de atenção é o tempo: 3 dias e 10 horas de resposta em média, contra 1 dia e 22 horas na média de três anos. Havia 2.212 reclamações aguardando resposta na consulta, e a parte respondida caiu de 98,1% na aba geral para 92,6%.",
+          "Os 33.252 são números absolutos: dizem quanto a loja recebe de queixas, não a chance de um pedido dar problema. O Reclame Aqui não mostra quantos pedidos a SHEIN entrega no Brasil."
         ]
       },
       {
-        "heading": "Dá para confiar na SHEIN pelo Reclame Aqui?",
+        "heading": "Como a SHEIN responde e o que conferir antes de comprar",
         "paragraphs": [
-          "Pelo Reclame Aqui, a SHEIN responde e resolve a maior parte. A reputação era Boa, com nota 7,5 nos últimos seis meses, 92,2% das 33.331 reclamações respondidas e 78% dadas como resolvidas entre as 13.457 avaliadas.",
-          "As ressalvas são três: produto não recebido lidera as queixas do recorte de 3 anos, com 36,47%; a resposta leva em média 3 dias e 9 horas, com 2.406 reclamações na fila; e quase três em cada dez de quem avaliou não voltariam a fazer negócio."
-        ]
-      },
-      {
-        "heading": "Antes de pagar",
-        "paragraphs": [
-          "Os números apontam o que guardar. Salve o comprovante do pagamento e o código de rastreio do pedido: o problema mais citado é produto não recebido, e são esses dois que mostram o que foi pago e onde o pacote parou.",
+          "A página do perfil traz a razão social IN GLOW BRASIL INTERMEDIACAO DE NEGOCIOS. Antes de pagar, confira se o site ou o aplicativo que você usa é o da SHEIN, e guarde o comprovante e o código de rastreio do pedido.",
           "Se o pedido não chegar, peça o reembolso pelo canal da loja, no site ou no aplicativo. Se não resolver, registre a reclamação no Reclame Aqui: ela fica pública, e a resposta da SHEIN também.",
-          "O imposto do pedido internacional e a regra de devolução estão no [guia da SHEIN com o imposto e a devolução](/reviews/black-friday-shein). Para saber quem opera a SHEIN no Brasil e de que país ela é, veja [SHEIN é confiável?](/reviews/shein-e-confiavel).",
-          "Se for comprar, a [página da SHEIN](/cupons/shein) leva ao site oficial."
+          "O imposto do pedido internacional e a regra de devolução estão no [guia da SHEIN com o imposto e a devolução](/reviews/black-friday-shein). Para saber quem opera a SHEIN e de que país ela é, veja [SHEIN é confiável?](/reviews/shein-e-confiavel)."
         ]
+      },
+      {
+        "heading": "Vale a pena comprar na SHEIN?",
+        "paragraphs": [
+          "Pelo Reclame Aqui, a SHEIN responde a maior parte das reclamações e resolve boa parte delas. As ressalvas são três: o produto que não chega, o tempo de resposta acima da média dos três anos e quase três em cada dez avaliadores que não voltariam a comprar.",
+          "Se for comprar, a [página da SHEIN](/cupons/shein) leva ao site oficial, e o [guia do código 4CW5Y](/reviews/codigo-de-indicacao-shein) explica como ele funciona."
+        ],
+        "emphasis": "A nota diz como a loja trata quem reclama, não se o seu pedido vai chegar. Por isso a compra vale a pena, desde que você saiba o que fazer se o pacote parar."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A SHEIN tem boa nota no Reclame Aqui? A reputação era Boa, com nota 7,5 nos últimos seis meses, a mesma de outubro.",
-          "Quais são as reclamações mais comuns sobre a SHEIN? No recorte de 3 anos do Reclame Aqui, o problema mais citado era produto não recebido, com 36,47%, e a categoria mais citada era Moda Feminina, com 19,62%.",
-          "A SHEIN responde às reclamações? Nos últimos seis meses, respondeu a 92,2%, em 3 dias e 9 horas em média, e 2.406 aguardavam resposta em novembro. Entre quem avaliou, 78% deram o problema como resolvido.",
-          "A SHEIN tem boa nota na Trustpilot? A nota era 3,8 em 5, com 353.527 avaliações de clientes de vários países. O perfil é global e não separa o Brasil."
+          "A SHEIN tem boa nota no Reclame Aqui? A reputação é Boa, com nota 7,5 nos últimos seis meses e 7,4 nos últimos doze.",
+          "Quais são as reclamações mais comuns sobre a SHEIN? Na aba geral dos últimos três anos, a mais citada é produto não recebido, com 36,01%, seguida de atraso na entrega e estorno do valor pago.",
+          "A SHEIN responde às reclamações? Nos seis meses, respondeu a 92,6%, com tempo médio de 3 dias e 10 horas. Na consulta, 2.212 reclamações aguardavam resposta.",
+          "A SHEIN tem boa nota na Trustpilot? A nota é 3,8 em 5, com 353.689 avaliações de clientes de vários países. O perfil é global e não separa o Brasil.",
+          "O que é o 4CW5Y e como usar? É o código de indicação da Cecília, não um cupom de checkout. Use o link da Cecília ou pesquise 4CW5Y na busca do app ou do site da SHEIN: abre uma seleção de produtos, promoções e descontos, e a SHEIN decide quanto e em quais peças."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você aceita esperar uma entrega longa e quer moda e casa com preço baixo.",
+        "Você guarda o comprovante e o código de rastreio, e sabe pedir reembolso pelo canal da loja."
+      ],
+      "skipIf": [
+        "Você precisa do produto numa data fixa, porque a queixa mais citada é o produto que não chega.",
+        "Você não quer depender de uma resposta que, nos seis meses, levou em média mais de três dias."
+      ]
+    }
   },
   {
     "id": 697,
@@ -174893,11 +175169,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. See what over 350,000 reviews show, the complaints about packages and refunds, and why the score is global.",
-    "metaDescription": "SHEIN on Trustpilot in November 2026: TrustScore 3.8 from 353,527 reviews, 59% five stars and 18% one star, complaints about delivery and refunds. See what the score does not show.",
+    "description": "SHEIN has 3.8 out of 5 on Trustpilot from 353,689 reviews. What the score shows, the complaints about parcels and refunds, and why the profile is global.",
+    "metaDescription": "SHEIN on Trustpilot in November 2026: TrustScore 3.8 from 353,689 reviews, 59% five stars, 18% one star. Complaints about parcels and refunds, and what the score misses.",
     "publishedAt": "October 29, 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -174911,41 +175187,71 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. That score came from 353,527 reviews by customers in many countries, and the themes in the negative reviews are packages that never arrived and refunds that were late or denied. The profile is global and does not separate countries."
+          "SHEIN has a TrustScore of 3.8 out of 5 on Trustpilot, labelled “Great”, from 353,689 reviews. Most are five stars, but the one-star reviews arrive fast and cluster on parcels that never arrived and refunds that are late or denied. The profile is global, so the score does not say how an order to your country will go."
         ]
       },
       {
         "heading": "What the score measures",
         "paragraphs": [
-          "The TrustScore is the profile's rating on Trustpilot. It adds up the whole purchase, not only the quality of the items. In November 2026, SHEIN had 3.8, with the label \"Great\", from 353,527 reviews; 22,625 of them were posted in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
-          "The breakdown by star: 59% five stars, 12% four, 6% three, 5% two and 18% one. Five and four stars make up most of the reviews."
+          "The TrustScore is the profile’s rating on Trustpilot. In November 2026, SHEIN had 3.8 with the label “Great”, from 353,689 reviews, and 14,994 of them were posted in the last 12 months."
         ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
-          "alt": "Bars from five stars to one with the breakdown of SHEIN's Trustpilot reviews: 59%, 12%, 6%, 5% and 18%",
-          "caption": "Breakdown of SHEIN's Trustpilot reviews by star. Our chart.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "SHEIN’s Trustpilot profile (www.shein.com), read on November 23, 2026.",
+          "headers": [
+            "Indicator",
+            "What the profile shows"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "3.8 out of 5, “Great”"
+            ],
+            [
+              "Total reviews",
+              "353,689"
+            ],
+            [
+              "Reviews in the last 12 months",
+              "14,994"
+            ],
+            [
+              "Stars, from five to one",
+              "59%, 12%, 6%, 5% and 18%"
+            ],
+            [
+              "Profile status",
+              "Claimed since 2015, with a paid plan"
+            ],
+            [
+              "Where the reviews come from",
+              "The store invites customers to review after purchase"
+            ],
+            [
+              "Replies to negative reviews",
+              "98%, usually within 24 hours; the store may use AI"
+            ]
+          ]
         }
       },
       {
         "heading": "Three readings that change the picture",
         "paragraphs": [
-          "First, the one-star share. 18% of the reviews give one star, more than the 11% of two and three stars combined, and that is where the complaints appear.",
-          "Second, replying is not resolving. SHEIN replied to 98% of negative reviews, usually within 24 hours, and the page notes that the company may use AI in its replies. The numbers do not say whether they solved the problem of the person who complained.",
-          "Third, the score is global. The profile does not split reviews by country, and shoppers with different shipping, delivery times and customs rules sit in one rating. How delivery to your country will go is not in this number."
+          "First, the invitations. The store asks for a review after purchase, and a paid profile that invites reviews attracts many short five-star ones. The 3.8 adds years of reviews and invitations together.",
+          "Second, the recent flow. In our reading, the one-star reviews arrived much faster than the five-star ones: the 40 newest one-star reviews fit inside one week, while the 40 newest five-star reviews cover three months.",
+          "Third, replying is not resolving. The store replied to 98% of the negative reviews, usually within 24 hours. A public reply does not show that the problem was solved."
         ]
       },
       {
         "heading": "What the complaints say",
         "paragraphs": [
-          "The negative reviews visible on the profile on October 28, 2026 revolve around the package and the money:"
+          "We read the 40 newest one-star reviews, posted between November 16 and 23, 2026. All were unprompted, and the store replied to 35 of them. The themes:"
         ],
         "bullets": [
-          "A package that was lost, stolen or never delivered, sometimes with a delivery photo the customer disputes.",
-          "A refund that took a long time or was denied, including returns the store said it never received.",
-          "Customer service that was slow or answered with templated replies.",
-          "Product problems: size, quality, the wrong item or a missing item."
+          "Delivery (11): a parcel never received, sent to the wrong address or to a locker nobody asked for, or marked as delivered without arriving.",
+          "Returns and refunds (9): a return that arrived but was not refunded, items said to be missing from the return, slow refunds.",
+          "Items missing or swapped in the parcel (6).",
+          "Product and size (5): different from the listing, quality, sizes that run large.",
+          "Service, account and charges (9): support by bot only, blocked accounts, extra fees, points games."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
@@ -174955,84 +175261,56 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "These are the themes in the reviews, not a measure of how often an order goes wrong. They say where to look: the tracking after dispatch, the proof of delivery, the return receipt and the refund request."
+          "These are themes from 40 reviews, not a measure of how often an order goes wrong. They show where to look: the tracking after dispatch, the proof of delivery, the return receipt and the refund request."
         ]
       },
       {
         "heading": "What the praise says",
         "paragraphs": [
-          "The positive reviews visible on the profile were few, so this is a small sample. Their themes are different:"
+          "We read the 40 newest five-star reviews, which cover three months (August 29 to November 19, 2026): 10 came from the store’s automatic invitation, 1 from a link and 29 were unprompted. The praise is about:"
         ],
         "bullets": [
           "Low prices.",
           "A wide selection.",
-          "Reasonable quality.",
-          "Delivery that went through without problems."
+          "Fast delivery.",
+          "Easy returns and refunds.",
+          "Good quality for the price."
         ],
         "postParagraphs": [
-          "Praise and complaint describe different moments of the purchase: the praise speaks of the catalog, the price and the parcel that arrived; the complaint, of the parcel that did not arrive and the refund that did not come. The score adds both together."
+          "Some of these reviews do not mention the store at all. We did not read the four- and two-star reviews, which count toward the score too. Praise and complaints describe different moments of the purchase: the catalogue and the price on one side, the parcel that never arrived on the other. The score adds both together."
         ]
       },
       {
         "heading": "Trustpilot: who writes the reviews, and from where",
         "paragraphs": [
-          "The www.shein.com profile combines reviews from different countries, without reporting how many came from each one. It does not isolate delivery or customer service for your destination.",
-          "The UK Trustpilot site showed the same profile and figures.",
-          "So the score speaks for the store's customers worldwide, not for how an order to your address will go."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-          "alt": "Phone showing SHEIN's Trustpilot profile: a 3.8 score, the star breakdown and 98% of negative reviews answered",
-          "caption": "SHEIN's Trustpilot profile, mobile version. Screenshot of the site, with two parts enlarged.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Our check",
-        "paragraphs": [
-          "The numbers come from a public reading, made without logging in, of SHEIN's Trustpilot profile:"
-        ],
-        "bullets": [
-          "The score, the number of reviews, the breakdown by star, the reply rate and the visible reviews, which is where the themes came from.",
-          "The scope of the profile, which is global, and the United Kingdom regional site, which showed the same one."
-        ],
-        "postParagraphs": [
-          "What was not read: the text of the store's replies, reviews by country, and Trustpilot's regional sites other than the United Kingdom one. That is why the text does not say whether the replies resolve anything.",
-          "The numbers change every month. Check the profile on the day you buy.",
-          "Cecília is a SHEIN affiliate: purchases through the links on this site may earn a commission, at no cost to you. That does not change the numbers, which come from the public profile."
-        ],
-        "links": [
-          {
-            "label": "SHEIN's Trustpilot profile",
-            "href": "https://www.trustpilot.com/review/www.shein.com"
-          }
+          "The www.shein.com profile combines reviews from customers in many countries and does not split the score by country. The page also notes that the company has received attention from regulatory bodies. Trustpilot says it presents that note neutrally and only for information, and we report it the same way: it is on the profile, and the score does not explain it.",
+          "For an order to your country, check on SHEIN’s official site or app for your country: shipping cost, delivery time, import VAT or customs duties, and the return rules."
         ]
       },
       {
         "heading": "Can you trust SHEIN based on Trustpilot?",
         "paragraphs": [
-          "Going by Trustpilot, the numbers are these: a TrustScore of 3.8, \"Great\", from 353,527 reviews, 59% of them five stars and 18% one star, with 98% of negative reviews answered, usually within 24 hours.",
-          "The caveats are about scope and theme. The profile is global and does not separate countries, so it says how the store behaves overall, not how an order to your address will go. And the negative reviews are about packages that never arrived and about refunds that were late or denied: the score alone does not tell you how often that happens."
-        ]
+          "Going by Trustpilot, the store has a 3.8 out of 5, with more five-star reviews than any other kind and 18% one-star, and it replies to 98% of the negative ones. Two things hold the score back: the fast one-star complaints about parcels and money, and a profile that is global. The score shows how the store treats its customers overall, not how a given order will reach your country."
+        ],
+        "emphasis": "The score tells you how SHEIN treats its customers as a whole, and the complaints show where the risk sits: the parcel and the refund. Keep the proof of both."
       },
       {
         "heading": "Before you pay",
         "paragraphs": [
-          "The complaints point to what to protect. Buy through SHEIN's official site or app for your country and keep the payment receipt and the tracking number: they show what was paid and where the parcel stopped.",
-          "If the parcel does not arrive or the item is wrong, request the refund through the store's own channel, on the site or in the app, and keep the return receipt if you send something back.",
-          "Before buying, open a few one-star reviews on the profile and read the store's reply under each one, especially the ones about packages that did not arrive and about refunds.",
-          "To see who runs SHEIN in your country and where the company is from, read [Is SHEIN legit and safe?](/en/reviews/is-shein-legit-and-safe).",
+          "Keep the payment receipt and the tracking number: they show what you paid and where the parcel stopped.",
+          "If the parcel does not arrive or the item is wrong, request the refund through the store’s own channel, on the site or in the app, and keep the return receipt if you send something back.",
+          "To see who runs SHEIN and which country the company is from, read [Is SHEIN legit and safe?](/en/reviews/is-shein-legit-and-safe).",
           "If you have decided to buy, the [SHEIN page](/en/coupons/shein) leads to the official site."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Does SHEIN have a good score on Trustpilot? The TrustScore was 3.8, with the label \"Great\", from 353,527 reviews; 59% gave five stars and 18% gave one.",
-          "What are the most common complaints about SHEIN? In the negative reviews, the themes were packages that were lost, stolen or never arrived, sometimes with a disputed delivery photo; refunds that were late or denied, including returns the store said it never received; slow or templated customer service; and product problems such as size, quality, the wrong item or a missing item. These are themes, not counts.",
-          "Does SHEIN reply to negative reviews? According to the Trustpilot profile, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use AI. The numbers do not say whether the replies solved the problem.",
-          "Does the Trustpilot score apply to my country? It does not provide a country-specific result. The global profile combines reviews from different countries; check delivery times and return rules for your destination on SHEIN's official site or app."
+          "Does SHEIN have a good score on Trustpilot? The TrustScore is 3.8 out of 5, labelled “Great”, from 353,689 reviews; 59% are five stars and 18% are one star.",
+          "What are the most common complaints about SHEIN? In the 40 newest one-star reviews we read, the themes were delivery, returns and refunds, missing or swapped items, product and size, and service, accounts and charges. These are themes from a sample, not counts for the whole profile.",
+          "Does SHEIN reply to negative reviews? According to the profile, the store replied to 98%, usually within 24 hours, and may use AI in its replies. A reply does not show whether the problem was solved.",
+          "Does the Trustpilot score apply to my country? No. The profile is global and does not split reviews by country. Check delivery time, shipping cost, import taxes and returns on the official site or app for your country.",
+          "What is the 4CW5Y code and how do I use it? It is Cecília’s referral code, not a checkout coupon. Open SHEIN through the link on this site, or search 4CW5Y in the SHEIN app or website: it opens a selection of products, promotions and discounts, and SHEIN decides how much and on which items."
         ]
       }
     ],
@@ -175050,9 +175328,25 @@ export const reviewsData: unknown[] = [
         "slug": "is-shein-legit-and-safe"
       },
       {
-        "slug": "shein-vs-temu-which-to-choose"
+        "slug": "is-shein-worth-it"
+      },
+      {
+        "slug": "shein-referral-code-where-to-enter"
+      },
+      {
+        "slug": "shein-black-friday-dates-taxes"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "You accept long delivery times and want fashion and home items at low prices.",
+        "You keep the receipt and tracking number, and you know how to ask for a refund through the store’s channel."
+      ],
+      "skipIf": [
+        "You need the item on a fixed date, because the most common one-star complaint is a parcel that never arrives.",
+        "You do not want to depend on slow customer service, which one-star reviews often mention."
+      ]
+    }
   },
   {
     "id": 698,
@@ -175071,11 +175365,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN tiene 3,8 sobre 5 en Trustpilot en noviembre de 2026. Las opiniones negativas tratan de paquetes y reembolsos, y el perfil es global: no separa los países.",
-    "metaDescription": "SHEIN en Trustpilot en noviembre de 2026: calificación 3,8 con 353.527 opiniones, 59 % de cinco estrellas y 18 % de una, quejas por entregas y reembolsos. Lo que la nota no muestra.",
+    "description": "SHEIN tiene 3,8 sobre 5 en Trustpilot, con 353.689 opiniones. Qué mide la nota, las quejas por paquetes y reembolsos, y por qué el perfil es global.",
+    "metaDescription": "SHEIN en Trustpilot: TrustScore 3,8 con 353.689 opiniones, 59% de cinco estrellas y 18% de una. Quejas por entrega y reembolsos, y lo que la nota no muestra.",
     "publishedAt": "29 de octubre de 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -175089,128 +175383,130 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "SHEIN tiene 3,8 sobre 5 en Trustpilot, con reservas. Esa calificación sale de 353.527 opiniones de clientes de varios países, y los temas de las opiniones negativas son paquetes que no llegaron y reembolsos tardíos o negados. El perfil es global y no separa países."
+          "SHEIN tiene una TrustScore de 3,8 sobre 5 en Trustpilot, con la etiqueta «Great», a partir de 353.689 opiniones. La mayoría son de cinco estrellas, pero las de una estrella llegan rápido y se concentran en paquetes que no llegan y en reembolsos lentos o denegados. El perfil es global, así que la nota no dice cómo llegará un pedido a tu país."
         ]
       },
       {
         "heading": "Qué mide la calificación",
         "paragraphs": [
-          "El TrustScore es la calificación del perfil en Trustpilot. Suma la compra entera, no solo la calidad de los artículos. En noviembre de 2026, SHEIN tenía 3,8, con la etiqueta \"Great\" en la versión en inglés del sitio, con 353.527 opiniones; 22.625 de ellas se publicaron en los últimos 12 meses. El perfil está reclamado por la empresa y tiene una suscripción de pago, como informa la propia página.",
-          "La distribución por estrellas: 59 % de cinco estrellas, 12 % de cuatro, 6 % de tres, 5 % de dos y 18 % de una. Cinco y cuatro estrellas suman la mayor parte."
+          "La TrustScore es la calificación del perfil en Trustpilot. En noviembre de 2026, SHEIN tenía 3,8 con la etiqueta «Great», a partir de 353.689 opiniones, y 14.994 se publicaron en los últimos 12 meses."
         ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
-          "alt": "Barras de cinco a una estrella con la distribución de las opiniones de SHEIN en Trustpilot: 59 %, 12 %, 6 %, 5 % y 18 %",
-          "caption": "Distribución de las opiniones de SHEIN en Trustpilot por estrellas. Cuadro nuestro.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Perfil de SHEIN en Trustpilot (www.shein.com), leído el 23/11/2026.",
+          "headers": [
+            "Indicador",
+            "Lo que muestra el perfil"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "3,8 sobre 5, «Great»"
+            ],
+            [
+              "Total de opiniones",
+              "353.689"
+            ],
+            [
+              "Opiniones de los últimos 12 meses",
+              "14.994"
+            ],
+            [
+              "Estrellas, de cinco a una",
+              "59%, 12%, 6%, 5% y 18%"
+            ],
+            [
+              "Estado del perfil",
+              "Perfil reclamado desde 2015, con plan de pago"
+            ],
+            [
+              "De dónde vienen las opiniones",
+              "La tienda invita a los clientes a opinar tras la compra"
+            ],
+            [
+              "Respuestas a las negativas",
+              "98%, normalmente en 24 horas; la tienda puede usar IA"
+            ]
+          ]
         }
       },
       {
         "heading": "Tres lecturas que cambian la cuenta",
         "paragraphs": [
-          "Primero, el 18 % de una estrella. Casi una de cada cinco opiniones es de una estrella, más que el 11 % de dos y tres estrellas juntas, y es ahí donde aparecen las quejas.",
-          "Segundo, responder no es resolver. SHEIN respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la página avisa que la respuesta puede usar inteligencia artificial. Los números no dicen si resolvieron el problema de quien se quejó.",
-          "Tercero, la calificación es global. El perfil no separa las opiniones por país, y compradores con envíos, plazos y reglas de aduana distintos caben en una sola nota. Cómo irá la entrega en tu país no está en ese número."
+          "Primero, las invitaciones. La tienda pide opinión después de la compra, y un perfil de pago que invita a opinar atrae muchas opiniones cortas de cinco estrellas. El 3,8 suma años de opiniones e invitaciones.",
+          "Segundo, el flujo reciente. En nuestra lectura, las de una estrella llegaron mucho más rápido que las de cinco: las 40 más recientes de una estrella caben en una semana, y las 40 de cinco estrellas abarcan tres meses.",
+          "Tercero, responder no es resolver. La tienda respondió al 98% de las opiniones negativas, normalmente en 24 horas. Una respuesta pública no demuestra que el problema se resolvió."
         ]
       },
       {
-        "heading": "Qué aparece en las quejas",
+        "heading": "Lo que dicen las quejas",
         "paragraphs": [
-          "Las opiniones negativas visibles en el perfil el 28 de octubre de 2026 giran en torno al paquete y al dinero:"
+          "Leímos las 40 opiniones de una estrella más recientes, publicadas entre el 16 y el 23 de noviembre de 2026. Todas fueron espontáneas, y la tienda respondió a 35. Los temas:"
         ],
         "bullets": [
-          "Paquete perdido, robado o que nunca llegó, a veces con una foto de entrega que el cliente discute.",
-          "Reembolso que tardó o fue negado, incluidas devoluciones que la tienda dijo no haber recibido.",
-          "Atención lenta o con respuestas estandarizadas.",
-          "Problemas con el producto: talla, calidad, artículo equivocado o faltante."
+          "Entrega (11): paquete que no llegó, enviado a una dirección equivocada o a un punto de recogida que nadie pidió, o marcado como entregado sin llegar.",
+          "Devolución y reembolso (9): devolución recibida y no reembolsada, artículos que dicen faltar en la devolución, reembolsos lentos.",
+          "Artículos que faltan o llegan cambiados en el paquete (6).",
+          "Producto y talla (5): distinto a la publicación, calidad, numeración grande.",
+          "Atención, cuenta y cobros (9): atención solo con robot, cuentas bloqueadas, cargos extra, juegos de puntos."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
-          "alt": "Ilustración de una pantalla de seguimiento con la entrega detenida y la casa todavía esperando, junto a un comprobante con código de barras y una moneda con una flecha de vuelta, el reembolso",
+          "alt": "Ilustración de una pantalla de seguimiento con la entrega detenida y la casa aún esperando, junto a un comprobante con código de barras y una moneda con una flecha de vuelta, el reembolso",
           "caption": "Ilustración nuestra del paquete que no llega y del reembolso, los temas de las quejas. Guarda el comprobante y el número de seguimiento.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Son los temas de las opiniones, no una medida de con qué frecuencia falla un pedido. Dicen dónde mirar: el seguimiento después del envío, la prueba de entrega, el comprobante de la devolución y la solicitud de reembolso."
+          "Son temas de 40 opiniones, no una medida de cuántos pedidos salen mal. Indican dónde mirar: el seguimiento después del envío, la prueba de entrega, el recibo de la devolución y la solicitud de reembolso."
         ]
       },
       {
-        "heading": "Qué aparece en los elogios",
+        "heading": "Lo que dicen los elogios",
         "paragraphs": [
-          "Las opiniones positivas visibles en el perfil eran pocas, así que la muestra es pequeña. Sus temas son otros:"
+          "Leímos las 40 opiniones de cinco estrellas más recientes, que abarcan tres meses (del 29 de agosto al 19 de noviembre de 2026): 10 llegaron por la invitación automática de la tienda, 1 por un enlace y 29 fueron espontáneas. Los elogios hablan de:"
         ],
         "bullets": [
           "Precios bajos.",
-          "Mucha variedad.",
-          "Calidad razonable.",
-          "Entrega sin problemas."
+          "Variedad de productos.",
+          "Entrega rápida.",
+          "Devolución y reembolso fáciles.",
+          "Buena calidad para el precio."
         ],
         "postParagraphs": [
-          "Elogio y queja hablan de momentos distintos de la compra: el elogio, del catálogo, del precio y del paquete que llegó; la queja, del paquete que no llegó y del reembolso que no vino. La calificación suma los dos."
+          "Algunas de esas opiniones ni mencionan la tienda. No leímos las de cuatro y dos estrellas, que también forman la nota. Elogios y quejas describen momentos distintos de la compra: el catálogo y el precio de un lado, el paquete que no llega del otro. La nota suma las dos cosas."
         ]
       },
       {
         "heading": "Trustpilot: quién opina, y desde dónde",
         "paragraphs": [
-          "El perfil de www.shein.com reúne opiniones de distintos países, sin informar cuántas vienen de cada uno. No aísla la entrega ni el servicio al cliente de tu destino.",
-          "El sitio de Trustpilot del Reino Unido mostraba el mismo perfil y las mismas cifras.",
-          "Por eso la calificación habla de los clientes de la tienda en todo el mundo, no de cómo irá un pedido a tu dirección."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-          "alt": "Móvil con el perfil de SHEIN en Trustpilot: nota 3,8, reparto de estrellas y respuesta al 98 % de las reseñas negativas",
-          "caption": "Perfil de SHEIN en Trustpilot, versión móvil. Captura del sitio, con dos partes ampliadas.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Nuestra verificación",
-        "paragraphs": [
-          "Los números vienen de una lectura pública, hecha sin iniciar sesión, del perfil de SHEIN en Trustpilot:"
-        ],
-        "bullets": [
-          "La calificación, el número de opiniones, la distribución por estrellas, el índice de respuestas y las opiniones visibles, de donde salieron los temas.",
-          "El alcance del perfil, que es global, y el sitio regional del Reino Unido, que mostraba el mismo."
-        ],
-        "postParagraphs": [
-          "Lo que no se leyó: el texto de las respuestas de la tienda, las opiniones por país y los demás sitios regionales de Trustpilot aparte del del Reino Unido. Por eso el texto no dice si las respuestas resuelven algo.",
-          "Los números cambian todos los meses. Revisa el perfil el día de la compra.",
-          "Cecília es afiliada de SHEIN: las compras por los enlaces de este sitio pueden generar una comisión, sin costo para ti. Eso no cambia los números, que vienen del perfil público."
-        ],
-        "links": [
-          {
-            "label": "Perfil de SHEIN en Trustpilot",
-            "href": "https://www.trustpilot.com/review/www.shein.com"
-          }
+          "El perfil www.shein.com reúne opiniones de clientes de varios países y no separa la nota por país. La página también informa de que la empresa recibió atención de organismos reguladores. Trustpilot dice que presenta esa información de forma neutral y solo a modo informativo; la contamos del mismo modo. Está en el perfil, y la nota no la explica.",
+          "Para un pedido a tu país, revisa en el sitio o la app oficial de SHEIN de tu país el costo de envío, el plazo, el IVA o los aranceles de importación y las reglas de devolución."
         ]
       },
       {
         "heading": "¿Se puede confiar en SHEIN por Trustpilot?",
         "paragraphs": [
-          "Por Trustpilot, los números son estos: TrustScore 3,8, \"Great\", con 353.527 opiniones, 59 % de cinco estrellas y 18 % de una, y el 98 % de las negativas respondidas, en general en menos de 24 horas.",
-          "Las salvedades son de alcance y de tema. El perfil es global y no separa países, así que dice cómo se comporta la tienda en conjunto, no cómo irá un pedido a tu dirección. Y las opiniones negativas tratan de paquetes que no llegaron y de reembolsos tardíos o negados: la calificación sola no dice con qué frecuencia pasa."
-        ]
+          "Según Trustpilot, la tienda tiene una calificación de 3,8 sobre 5, con una mayoría de opiniones de cinco estrellas y un 18% de una estrella, y responde al 98% de las negativas. Dos cosas frenan la nota: las quejas rápidas de una estrella sobre paquetes y dinero, y un perfil global. La nota dice cómo trata la tienda a sus clientes en conjunto, no cómo llegará un pedido concreto a tu país."
+        ],
+        "emphasis": "La nota dice cómo trata SHEIN a sus clientes en conjunto, y las quejas muestran dónde está el riesgo: el paquete y el reembolso. Guarda pruebas de los dos."
       },
       {
         "heading": "Antes de pagar",
         "paragraphs": [
-          "Las quejas señalan qué proteger. Compra por el sitio o la app oficial de SHEIN de tu país y guarda el comprobante de pago y el número de seguimiento: muestran qué se pagó y dónde quedó el paquete.",
-          "Si el paquete no llega o el artículo viene mal, pide el reembolso por el canal de la propia tienda, en el sitio o en la app, y guarda el comprobante de la devolución si envías algo de vuelta.",
-          "Antes de comprar, abre algunas opiniones de una estrella en el perfil y lee la respuesta de la tienda debajo de cada una, sobre todo las de paquetes que no llegaron y de reembolsos.",
-          "Quién opera SHEIN en tu país y de dónde es la empresa está en [¿SHEIN es confiable y segura?](/es/reviews/shein-es-confiable-y-seguro).",
+          "Guarda el comprobante del pago y el número de seguimiento: muestran lo que pagaste y dónde se detuvo el paquete.",
+          "Si el paquete no llega o el artículo viene mal, pide el reembolso por el canal de la tienda, en el sitio o en la app, y guarda el recibo de la devolución si envías algo de vuelta.",
+          "Para saber quién opera SHEIN y de qué país es la empresa, lee [¿SHEIN es confiable y segura?](/es/reviews/shein-es-confiable-y-seguro).",
           "Si ya decidiste comprar, la [página de SHEIN](/es/coupons/shein) lleva al sitio oficial."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿SHEIN tiene buena calificación en Trustpilot? El TrustScore era 3,8, con la etiqueta \"Great\", con 353.527 opiniones; el 59 % daba cinco estrellas y el 18 %, una.",
-          "¿Cuáles son las quejas más comunes sobre SHEIN? En las opiniones negativas, los temas eran paquetes perdidos, robados o que nunca llegaron, a veces con una foto de entrega discutida; reembolsos tardíos o negados, incluidas devoluciones que la tienda dijo no haber recibido; atención lenta o estandarizada; y problemas de producto como talla, calidad, artículo equivocado o faltante. Son temas, no un recuento.",
-          "¿SHEIN responde a las opiniones negativas? Según el perfil de Trustpilot, la tienda respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la respuesta puede usar inteligencia artificial. Los números no dicen si las respuestas resolvieron el problema.",
-          "¿La calificación de Trustpilot vale para mi país? No ofrece un resultado específico por país. El perfil global reúne opiniones de varios países; consulta los plazos de entrega y las reglas de devolución de tu destino en el sitio o la app oficial de SHEIN."
+          "¿SHEIN tiene buena calificación en Trustpilot? La TrustScore es de 3,8 sobre 5, con la etiqueta «Great», a partir de 353.689 opiniones; el 59% son de cinco estrellas y el 18% de una.",
+          "¿Cuáles son las quejas más comunes sobre SHEIN? En las 40 opiniones de una estrella que leímos, los temas fueron entrega, devoluciones y reembolsos, artículos que faltan o llegan cambiados, producto y talla, y atención, cuenta y cobros. Son temas de una muestra, no cifras de todo el perfil.",
+          "¿SHEIN responde a las opiniones negativas? Según el perfil, respondió al 98%, normalmente en 24 horas, y puede usar IA en sus respuestas. Una respuesta no demuestra que el problema se resolvió.",
+          "¿La nota de Trustpilot vale para mi país? No hay una nota por país. El perfil es global y no separa las opiniones por país; revisa plazos, envío, impuestos de importación y devoluciones en el sitio o la app oficial de tu país.",
+          "¿Qué es el código 4CW5Y y cómo se usa? Es el código de referido de Cecília, no un cupón de pago. Abre SHEIN con el enlace de este sitio, o busca 4CW5Y en la app o el sitio de SHEIN: se abre una selección de productos, promociones y descuentos, y SHEIN decide cuánto y en qué artículos."
         ]
       }
     ],
@@ -175228,9 +175524,25 @@ export const reviewsData: unknown[] = [
         "slug": "shein-es-confiable-y-seguro"
       },
       {
-        "slug": "shein-o-temu-cual-elegir"
+        "slug": "vale-la-pena-shein"
+      },
+      {
+        "slug": "codigo-de-referido-shein-donde-ponerlo"
+      },
+      {
+        "slug": "black-friday-shein-fechas-impuestos"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Aceptas plazos de entrega largos y buscas moda y hogar a precios bajos.",
+        "Guardas el comprobante y el número de seguimiento, y sabes pedir el reembolso por el canal de la tienda."
+      ],
+      "skipIf": [
+        "Necesitas el artículo en una fecha fija, porque la queja de una estrella más frecuente es el paquete que no llega.",
+        "No quieres depender de una atención lenta, de la que se quejan a menudo las opiniones de una estrella."
+      ]
+    }
   },
   {
     "id": 699,
@@ -175249,11 +175561,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN affiche 3,8 sur 5 sur Trustpilot en novembre 2026. Les avis négatifs portent sur des colis et des remboursements, et le profil est mondial : il ne sépare pas les pays.",
-    "metaDescription": "SHEIN sur Trustpilot en novembre 2026 : TrustScore de 3,8 pour 353 527 avis, 59 % de cinq étoiles et 18 % d’une, plaintes sur la livraison et les remboursements. Ce que la note ne montre pas.",
+    "description": "SHEIN obtient 3,8 sur 5 sur Trustpilot, à partir de 353 689 avis. Ce que mesure la note, les plaintes sur les colis et les remboursements, et pourquoi le profil est mondial.",
+    "metaDescription": "SHEIN sur Trustpilot : TrustScore 3,8 à partir de 353 689 avis, 59 % de cinq étoiles et 18 % d’une étoile. Plaintes sur les colis et les remboursements.",
     "publishedAt": "29 octobre 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -175267,128 +175579,130 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "SHEIN affiche 3,8 sur 5 sur Trustpilot, avec des réserves. Cette note vient de 353 527 avis de clients de nombreux pays, et les thèmes des avis négatifs sont des colis jamais reçus et des remboursements tardifs ou refusés. Le profil est mondial et ne distingue pas les pays."
+          "SHEIN obtient une TrustScore de 3,8 sur 5 sur Trustpilot, avec la mention « Great », à partir de 353 689 avis. La plupart sont à cinq étoiles, mais les avis à une étoile arrivent vite et portent sur des colis jamais livrés et des remboursements lents ou refusés. Le profil est mondial : la note ne dit donc pas comment arrivera une commande dans votre pays."
         ]
       },
       {
         "heading": "Ce que mesure la note",
         "paragraphs": [
-          "Le TrustScore est la note du profil sur Trustpilot. Elle additionne l’achat tout entier, pas seulement la qualité des articles. En novembre 2026, SHEIN avait 3,8, avec la mention « Great » sur la version anglaise du site, pour 353 527 avis ; 22 625 d’entre eux ont été publiés au cours des 12 derniers mois. Le profil est revendiqué par l’entreprise et dispose d’un abonnement payant à Trustpilot, comme la page elle-même l’indique.",
-          "La répartition par étoile : 59 % de cinq étoiles, 12 % de quatre, 6 % de trois, 5 % de deux et 18 % d’une. Cinq et quatre étoiles représentent la plus grande part."
+          "La TrustScore est la note du profil sur Trustpilot. En novembre 2026, SHEIN avait 3,8 avec la mention « Great », à partir de 353 689 avis, dont 14 994 publiés au cours des 12 derniers mois."
         ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
-          "alt": "Barres de cinq à une étoile avec la répartition des avis sur SHEIN sur Trustpilot : 59 %, 12 %, 6 %, 5 % et 18 %",
-          "caption": "Répartition des avis sur SHEIN sur Trustpilot, par étoile. Graphique de notre rédaction.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Profil de SHEIN sur Trustpilot (www.shein.com), consulté le 23/11/2026.",
+          "headers": [
+            "Indicateur",
+            "Ce que montre le profil"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "3,8 sur 5, « Great »"
+            ],
+            [
+              "Total des avis",
+              "353 689"
+            ],
+            [
+              "Avis des 12 derniers mois",
+              "14 994"
+            ],
+            [
+              "Étoiles, de cinq à une",
+              "59 %, 12 %, 6 %, 5 % et 18 %"
+            ],
+            [
+              "Statut du profil",
+              "Profil revendiqué depuis 2015, avec abonnement payant"
+            ],
+            [
+              "Origine des avis",
+              "La boutique invite ses clients à donner leur avis après l’achat"
+            ],
+            [
+              "Réponses aux avis négatifs",
+              "98 %, en général sous 24 heures ; la boutique peut utiliser l’IA"
+            ]
+          ]
         }
       },
       {
         "heading": "Trois lectures qui changent le calcul",
         "paragraphs": [
-          "Premièrement, les 18 % d’une étoile. Près d’un avis sur cinq est à une étoile, soit plus que les 11 % de deux et trois étoiles réunies, et c’est là que les plaintes apparaissent.",
-          "Deuxièmement, répondre n’est pas résoudre. SHEIN a répondu à 98 % des avis négatifs, en général sous 24 heures, et la page précise que la réponse peut faire appel à l’intelligence artificielle. Les chiffres ne disent pas si elles ont réglé le problème de la personne qui s’est plainte.",
-          "Troisièmement, la note est mondiale. Le profil ne sépare pas les avis par pays, et des acheteurs soumis à des frais de port, des délais et des règles de douane différents entrent dans une seule note. Comment se passera la livraison dans votre pays n’est pas dans ce chiffre."
+          "D’abord, les invitations. La boutique demande un avis après l’achat, et un profil payant qui invite à noter attire beaucoup d’avis courts à cinq étoiles. Le 3,8 additionne des années d’avis et d’invitations.",
+          "Ensuite, le rythme récent. Dans notre lecture, les avis à une étoile sont arrivés beaucoup plus vite que ceux à cinq : les 40 plus récents à une étoile tiennent dans une semaine, les 40 à cinq étoiles couvrent trois mois.",
+          "Enfin, répondre n’est pas résoudre. La boutique a répondu à 98 % des avis négatifs, en général sous 24 heures. Une réponse publique ne prouve pas que le problème a été réglé."
         ]
       },
       {
         "heading": "Ce qui ressort des plaintes",
         "paragraphs": [
-          "Les avis négatifs visibles sur le profil le 28 octobre 2026 tournent autour du colis et de l’argent :"
+          "Nous avons lu les 40 avis à une étoile les plus récents, publiés entre le 16 et le 23 novembre 2026. Tous étaient spontanés, et la boutique a répondu à 35 d’entre eux. Les thèmes :"
         ],
         "bullets": [
-          "Colis perdu, volé ou jamais reçu, parfois avec une photo de livraison que le client conteste.",
-          "Remboursement tardif ou refusé, y compris des retours que la boutique dit ne pas avoir reçus.",
-          "Service client lent ou avec des réponses standardisées.",
-          "Problèmes de produit : taille, qualité, mauvais article ou article manquant."
+          "Livraison (11) : colis jamais reçu, envoyé à une mauvaise adresse ou à un point relais non demandé, ou marqué comme livré sans l’être.",
+          "Retour et remboursement (9) : retour bien reçu mais non remboursé, articles déclarés manquants au retour, remboursements lents.",
+          "Articles manquants ou échangés dans le colis (6).",
+          "Produit et taille (5) : différent de l’annonce, qualité, tailles qui vont grand.",
+          "Service client, compte et frais (9) : service uniquement par robot, comptes bloqués, frais supplémentaires, jeux de points."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
-          "alt": "Illustration d’un écran de suivi avec la livraison bloquée et la maison toujours en attente, à côté d’un reçu avec code-barres et d’une pièce avec une flèche de retour, le remboursement",
-          "caption": "Notre illustration du colis qui n’arrive pas et du remboursement, les thèmes des plaintes. Gardez le reçu et le numéro de suivi.",
+          "alt": "Illustration d’un écran de suivi avec la livraison bloquée et la maison encore en attente, à côté d’un justificatif à code-barres et d’une pièce avec une flèche de retour, le remboursement",
+          "caption": "Illustration maison du colis qui n’arrive pas et du remboursement, les thèmes des plaintes. Gardez le justificatif et le numéro de suivi.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Ce sont les thèmes des avis, pas une mesure de la fréquence des problèmes. Ils disent où regarder : le suivi après l’expédition, la preuve de livraison, le justificatif du retour et la demande de remboursement."
+          "Ce sont des thèmes tirés de 40 avis, pas une mesure de la fréquence des commandes problématiques. Ils indiquent où regarder : le suivi après l’expédition, la preuve de livraison, le justificatif de retour et la demande de remboursement."
         ]
       },
       {
         "heading": "Ce qui ressort des éloges",
         "paragraphs": [
-          "Les avis positifs visibles sur le profil étaient peu nombreux, donc l’échantillon est petit. Leurs thèmes sont différents :"
+          "Nous avons lu les 40 avis à cinq étoiles les plus récents, qui couvrent trois mois (du 29 août au 19 novembre 2026) : 10 viennent de l’invitation automatique de la boutique, 1 d’un lien et 29 sont spontanés. Les éloges portent sur :"
         ],
         "bullets": [
-          "Des prix bas.",
-          "Un large choix.",
-          "Une qualité correcte.",
-          "Une livraison sans problème."
+          "Les prix bas.",
+          "Le choix de produits.",
+          "La livraison rapide.",
+          "Des retours et remboursements faciles.",
+          "Une bonne qualité pour le prix."
         ],
         "postParagraphs": [
-          "Éloge et plainte parlent de moments différents de l’achat : l’éloge, du catalogue, du prix et du colis arrivé ; la plainte, du colis qui n’est pas arrivé et du remboursement qui n’est pas venu. La note additionne les deux."
+          "Certains de ces avis ne parlent même pas de la boutique. Nous n’avons pas lu les avis à quatre et deux étoiles, qui comptent aussi dans la note. Éloges et plaintes décrivent des moments différents de l’achat : le catalogue et le prix d’un côté, le colis qui n’arrive pas de l’autre. La note additionne les deux."
         ]
       },
       {
         "heading": "Trustpilot : qui donne son avis, et d’où",
         "paragraphs": [
-          "Le profil www.shein.com rassemble des avis de plusieurs pays, sans en préciser le nombre pour chacun. Il n’isole pas la livraison ni le service client de votre destination.",
-          "Le site britannique de Trustpilot affichait le même profil et les mêmes chiffres.",
-          "La note parle donc des clients de la boutique dans le monde entier, pas de la façon dont se passera une commande à votre adresse."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-          "alt": "Téléphone affichant le profil Trustpilot de SHEIN : note de 3,8, répartition des étoiles et réponse à 98 % des avis négatifs",
-          "caption": "Profil Trustpilot de SHEIN, version mobile. Capture du site, avec deux passages agrandis.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Notre vérification",
-        "paragraphs": [
-          "Les chiffres viennent d’une lecture publique, faite sans connexion, du profil de SHEIN sur Trustpilot :"
-        ],
-        "bullets": [
-          "La note, le nombre d’avis, la répartition par étoile, le taux de réponse et les avis visibles, d’où viennent les thèmes.",
-          "Le périmètre du profil, qui est mondial, et le site régional du Royaume-Uni, qui affichait le même."
-        ],
-        "postParagraphs": [
-          "Ce qui n’a pas été lu : le texte des réponses de la boutique, les avis par pays et les autres sites régionaux de Trustpilot en dehors de celui du Royaume-Uni. C’est pourquoi le texte ne dit pas si les réponses règlent quoi que ce soit.",
-          "Les chiffres changent chaque mois. Consultez le profil le jour de l’achat.",
-          "Cecília est affiliée à SHEIN : les achats faits par les liens de ce site peuvent générer une commission, sans frais pour vous. Cela ne change pas les chiffres, qui viennent du profil public."
-        ],
-        "links": [
-          {
-            "label": "Profil de SHEIN sur Trustpilot",
-            "href": "https://www.trustpilot.com/review/www.shein.com"
-          }
+          "Le profil www.shein.com regroupe des avis de clients de plusieurs pays et ne sépare pas la note par pays. La page indique aussi que l’entreprise a fait l’objet de l’attention d’organismes de régulation. Trustpilot précise présenter cette information de façon neutre, à titre informatif ; nous la rapportons de la même manière. Elle figure sur le profil, et la note ne l’explique pas.",
+          "Pour une commande vers votre pays, vérifiez sur le site ou l’application officielle de SHEIN de votre pays les frais de port, le délai, la TVA ou les droits de douane à l’importation, et les règles de retour."
         ]
       },
       {
         "heading": "Peut-on faire confiance à SHEIN d’après Trustpilot ?",
         "paragraphs": [
-          "D’après Trustpilot, les chiffres sont ceux-ci : un TrustScore de 3,8, « Great », pour 353 527 avis, dont 59 % à cinq étoiles et 18 % à une étoile, avec 98 % des avis négatifs ayant reçu une réponse, en général sous 24 heures.",
-          "Les réserves portent sur le périmètre et sur le thème. Le profil est mondial et ne distingue pas les pays : il dit comment la boutique se comporte dans l’ensemble, pas comment se passera une commande à votre adresse. Et les avis négatifs parlent de colis jamais reçus et de remboursements tardifs ou refusés : la note seule ne dit pas à quelle fréquence cela arrive."
-        ]
+          "Selon Trustpilot, la boutique a une note de 3,8 sur 5, avec une majorité d’avis à cinq étoiles et 18 % à une étoile, et elle répond à 98 % des avis négatifs. Deux choses tirent la note vers le bas : les plaintes rapides à une étoile sur les colis et l’argent, et un profil mondial. La note dit comment la boutique traite ses clients dans l’ensemble, pas comment arrivera une commande précise dans votre pays."
+        ],
+        "emphasis": "La note dit comment SHEIN traite ses clients dans l’ensemble, et les plaintes montrent où est le risque : le colis et le remboursement. Gardez les preuves des deux."
       },
       {
         "heading": "Avant de payer",
         "paragraphs": [
-          "Les plaintes indiquent ce qu’il faut protéger. Achetez sur le site ou l’application officielle de SHEIN de votre pays et conservez le reçu de paiement et le numéro de suivi : ils montrent ce qui a été payé et où le colis s’est arrêté.",
-          "Si le colis n’arrive pas ou si l’article ne correspond pas, demandez le remboursement par le canal de la boutique, sur le site ou dans l’application, et gardez le justificatif du retour si vous renvoyez quelque chose.",
-          "Avant d’acheter, ouvrez quelques avis à une étoile sur le profil et lisez la réponse de la boutique sous chacun, surtout ceux qui parlent de colis non reçus et de remboursements.",
-          "Qui exploite SHEIN dans votre pays et d’où vient l’entreprise, c’est dans [SHEIN est-il fiable et sûr ?](/fr/reviews/shein-est-il-fiable-et-sur).",
+          "Gardez le justificatif de paiement et le numéro de suivi : ils montrent ce que vous avez payé et où le colis s’est arrêté.",
+          "Si le colis n’arrive pas ou si l’article est incorrect, demandez le remboursement par le canal de la boutique, sur le site ou dans l’application, et gardez le justificatif de retour si vous renvoyez quelque chose.",
+          "Pour savoir qui exploite SHEIN et de quel pays vient l’entreprise, lisez [SHEIN est-il fiable et sûr ?](/fr/reviews/shein-est-il-fiable-et-sur).",
           "Si vous avez décidé d’acheter, la [page SHEIN](/fr/coupons/shein) mène au site officiel."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "La note de SHEIN sur Trustpilot est-elle bonne ? Le TrustScore était de 3,8, avec la mention « Great », pour 353 527 avis ; 59 % donnaient cinq étoiles et 18 %, une seule.",
-          "Quelles sont les plaintes les plus fréquentes sur SHEIN ? Dans les avis négatifs, les thèmes étaient des colis perdus, volés ou jamais reçus, parfois avec une photo de livraison contestée ; des remboursements tardifs ou refusés, y compris des retours que la boutique dit ne pas avoir reçus ; un service client lent ou standardisé ; et des problèmes de produit comme la taille, la qualité, un mauvais article ou un article manquant. Ce sont des thèmes, pas un décompte.",
-          "SHEIN répond-il aux avis négatifs ? Selon le profil Trustpilot, la boutique a répondu à 98 % des avis négatifs, en général sous 24 heures, et la réponse peut faire appel à l’intelligence artificielle. Les chiffres ne disent pas si les réponses ont réglé le problème.",
-          "La note Trustpilot vaut-elle pour mon pays ? Elle ne fournit pas de résultat propre à un pays. Le profil mondial regroupe des avis de plusieurs pays ; consultez les délais et les règles de retour de votre destination sur le site ou l’application officielle de SHEIN."
+          "SHEIN a-t-il une bonne note sur Trustpilot ? La TrustScore est de 3,8 sur 5, avec la mention « Great », à partir de 353 689 avis ; 59 % sont à cinq étoiles et 18 % à une étoile.",
+          "Quelles sont les plaintes les plus fréquentes contre SHEIN ? Dans les 40 avis à une étoile que nous avons lus, les thèmes sont la livraison, les retours et remboursements, les articles manquants ou échangés, le produit et la taille, et le service client, le compte et les frais. Ce sont des thèmes tirés d’un échantillon, pas des chiffres sur tout le profil.",
+          "SHEIN répond-il aux avis négatifs ? Selon le profil, la boutique a répondu à 98 %, en général sous 24 heures, et peut utiliser l’IA dans ses réponses. Une réponse ne prouve pas que le problème a été réglé.",
+          "La note Trustpilot vaut-elle pour mon pays ? Non. Le profil est mondial et ne sépare pas les avis par pays ; vérifiez les délais, les frais d’envoi, les taxes d’importation et les retours sur le site ou l’application officielle de votre pays.",
+          "Qu’est-ce que le code 4CW5Y et comment l’utiliser ? C’est le code de parrainage de Cecília, pas un coupon de caisse. Ouvrez SHEIN par le lien de ce site, ou recherchez 4CW5Y dans l’application ou sur le site de SHEIN : une sélection de produits, de promotions et de remises s’affiche, et SHEIN décide du montant et des articles concernés."
         ]
       }
     ],
@@ -175406,9 +175720,25 @@ export const reviewsData: unknown[] = [
         "slug": "shein-est-il-fiable-et-sur"
       },
       {
-        "slug": "shein-ou-temu-comment-choisir"
+        "slug": "shein-ca-vaut-le-coup"
+      },
+      {
+        "slug": "code-de-parrainage-shein-ou-le-mettre"
+      },
+      {
+        "slug": "black-friday-shein-dates-et-taxes"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous acceptez des délais de livraison longs et cherchez mode et maison à petits prix.",
+        "Vous gardez le justificatif et le numéro de suivi, et vous savez demander un remboursement par le canal de la boutique."
+      ],
+      "skipIf": [
+        "Vous avez besoin de l’article à une date fixe, car la plainte à une étoile la plus fréquente est le colis qui n’arrive pas.",
+        "Vous ne voulez pas dépendre d’un service client lent, dont se plaignent souvent les avis à une étoile."
+      ]
+    }
   },
   {
     "id": 700,
@@ -175427,11 +175757,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN ha 3,8 su 5 su Trustpilot a novembre 2026. Le recensioni negative riguardano soprattutto pacchi e rimborsi, e il profilo è globale: non separa i paesi.",
-    "metaDescription": "SHEIN su Trustpilot a novembre 2026: 3,8 su 353.527 recensioni, 59% di cinque stelle, 18% di una. Reclami su consegne e rimborsi, e cosa il punteggio non mostra.",
+    "description": "SHEIN ha 3,8 su 5 su Trustpilot, su 353.689 recensioni. Cosa misura il punteggio, quali reclami arrivano su pacchi e rimborsi e perché il profilo è globale.",
+    "metaDescription": "SHEIN su Trustpilot: TrustScore 3,8 su 353.689 recensioni, 59% a cinque stelle e 18% a una. Reclami su consegne e rimborsi, e cosa il punteggio non mostra.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -175445,128 +175775,130 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "SHEIN ha 3,8 su 5 su Trustpilot, con delle riserve. Il punteggio viene da 353.527 recensioni di clienti di molti paesi, e i temi delle recensioni negative sono i pacchi non consegnati e i rimborsi in ritardo o negati. Il profilo è globale e non separa i paesi."
+          "SHEIN ha un TrustScore di 3,8 su 5 su Trustpilot, con l’etichetta «Great», su 353.689 recensioni. Le più sono a cinque stelle, ma le recensioni a una stella arrivano in fretta e riguardano pacchi mai consegnati e rimborsi lenti o negati. Il profilo è globale, quindi il punteggio non dice come arriverà un ordine nel tuo paese."
         ]
       },
       {
         "heading": "Cosa misura il punteggio",
         "paragraphs": [
-          "Il TrustScore è il punteggio del profilo su Trustpilot. Somma l’acquisto intero, non solo la qualità degli articoli. A novembre 2026 SHEIN aveva 3,8, con l’etichetta «Great», su 353.527 recensioni; 22.625 di queste erano state pubblicate negli ultimi 12 mesi. Il profilo è rivendicato dall’azienda e ha un abbonamento a pagamento a Trustpilot, come indica la pagina stessa.",
-          "La distribuzione per stelle: 59% di cinque stelle, 12% di quattro, 6% di tre, 5% di due e 18% di una. Cinque e quattro stelle insieme fanno la maggior parte."
+          "Il TrustScore è il punteggio del profilo su Trustpilot. A novembre 2026 SHEIN aveva 3,8 con l’etichetta «Great», su 353.689 recensioni, di cui 14.994 negli ultimi 12 mesi."
         ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
-          "alt": "Barre da cinque a una stella con la distribuzione delle recensioni di SHEIN su Trustpilot: 59%, 12%, 6%, 5% e 18%",
-          "caption": "Distribuzione per stelle delle recensioni di SHEIN su Trustpilot. Grafico nostro.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Profilo di SHEIN su Trustpilot (www.shein.com), letto il 23/11/2026.",
+          "headers": [
+            "Indicatore",
+            "Cosa mostra il profilo"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "3,8 su 5, «Great»"
+            ],
+            [
+              "Recensioni totali",
+              "353.689"
+            ],
+            [
+              "Recensioni degli ultimi 12 mesi",
+              "14.994"
+            ],
+            [
+              "Stelle, da cinque a una",
+              "59%, 12%, 6%, 5% e 18%"
+            ],
+            [
+              "Stato del profilo",
+              "Profilo rivendicato dal 2015, con piano a pagamento"
+            ],
+            [
+              "Da dove arrivano le recensioni",
+              "Il negozio invita i clienti a recensire dopo l’acquisto"
+            ],
+            [
+              "Risposte alle recensioni negative",
+              "98%, di solito entro 24 ore; il negozio può usare l’IA"
+            ]
+          ]
         }
       },
       {
         "heading": "Tre letture che cambiano il conto",
         "paragraphs": [
-          "Primo, il 18% di una stella. Circa una recensione su cinque è da una stella, più dell’11% di due e tre stelle messe insieme, ed è lì che compaiono i reclami.",
-          "Secondo, rispondere non è risolvere. SHEIN ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la pagina avverte che la risposta può usare l’intelligenza artificiale. I numeri non dicono se abbiano risolto il problema di chi si è lamentato.",
-          "Terzo, il punteggio è globale. Il profilo non separa le recensioni per paese, e clienti con spedizioni, tempi e dogane diverse stanno in un’unica valutazione. Come andrà la consegna nel tuo paese non sta in questo numero."
+          "Primo, gli inviti. Il negozio chiede la recensione dopo l’acquisto, e un profilo a pagamento che invita attira molte recensioni brevi a cinque stelle. Il 3,8 somma anni di recensioni e inviti.",
+          "Secondo, il flusso recente. Nella nostra lettura, le recensioni a una stella sono arrivate molto più in fretta di quelle a cinque: le 40 più recenti a una stella stanno in una settimana, le 40 a cinque stelle coprono tre mesi.",
+          "Terzo, rispondere non vuol dire risolvere. Il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore. Una risposta pubblica non dimostra che il problema sia stato risolto."
         ]
       },
       {
         "heading": "Cosa compare nei reclami",
         "paragraphs": [
-          "Le recensioni negative visibili sul profilo il 28 ottobre 2026 ruotano intorno al pacco e ai soldi:"
+          "Abbiamo letto le 40 recensioni a una stella più recenti, pubblicate tra il 16 e il 23 novembre 2026. Erano tutte spontanee, e il negozio ne ha risposto a 35. I temi:"
         ],
         "bullets": [
-          "Pacco perso, rubato o non consegnato, a volte con una foto di consegna che il cliente contesta.",
-          "Rimborso in ritardo o negato, compreso il reso che il negozio dice di non aver ricevuto.",
-          "Assistenza lenta o con risposte standard.",
-          "Problemi con il prodotto: taglia, qualità, articolo sbagliato o mancante."
+          "Consegna (11): pacco mai ricevuto, spedito a un indirizzo sbagliato o a un punto di ritiro non richiesto, oppure segnato come consegnato senza esserlo.",
+          "Resi e rimborsi (9): reso arrivato ma non rimborsato, articoli dichiarati mancanti nel reso, rimborsi lenti.",
+          "Articoli mancanti o scambiati nel pacco (6).",
+          "Prodotto e taglia (5): diverso dalla scheda, qualità, taglie grandi.",
+          "Assistenza, account e addebiti (9): assistenza solo con robot, account bloccati, costi extra, giochi a punti."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
-          "alt": "Illustrazione di una schermata di tracciamento con la consegna ferma e la casa ancora in attesa, accanto a una ricevuta con codice a barre e a una moneta con una freccia di ritorno, il rimborso",
-          "caption": "Nostra illustrazione del pacco che non arriva e del rimborso, i temi dei reclami. Conserva la ricevuta e il codice di tracciamento.",
+          "alt": "Illustrazione di una schermata di tracciamento con la consegna ferma e la casa che aspetta ancora, accanto a una ricevuta con codice a barre e a una moneta con una freccia di ritorno, il rimborso",
+          "caption": "Illustrazione nostra del pacco che non arriva e del rimborso, i temi dei reclami. Conserva la ricevuta e il codice di tracciamento.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Sono i temi delle recensioni, non una misura di quanto spesso un ordine va storto. Indicano dove guardare: il tracciamento dopo la spedizione, la prova di consegna, la ricevuta del reso e la richiesta di rimborso."
+          "Sono temi di 40 recensioni, non una misura di quanti ordini vanno storti. Indicano dove guardare: il tracciamento dopo la spedizione, la prova di consegna, la ricevuta del reso e la richiesta di rimborso."
         ]
       },
       {
         "heading": "Cosa compare negli elogi",
         "paragraphs": [
-          "Le recensioni positive visibili sul profilo erano poche, quindi il campione è piccolo. I temi sono altri:"
+          "Abbiamo letto le 40 recensioni a cinque stelle più recenti, che coprono tre mesi (dal 29 agosto al 19 novembre 2026): 10 vengono dall’invito automatico del negozio, 1 da un link e 29 sono spontanee. Gli elogi riguardano:"
         ],
         "bullets": [
-          "Prezzi bassi.",
-          "Ampia scelta.",
-          "Qualità ragionevole.",
-          "Consegna arrivata senza problemi."
+          "prezzi bassi.",
+          "ampia scelta.",
+          "consegna rapida.",
+          "resi e rimborsi semplici.",
+          "buona qualità per il prezzo."
         ],
         "postParagraphs": [
-          "Elogio e reclamo parlano di momenti diversi dell’acquisto: l’elogio, del catalogo, del prezzo e del pacco arrivato; il reclamo, del pacco che non è arrivato e del rimborso che non è tornato. Il punteggio li somma."
+          "Alcune di queste recensioni non parlano nemmeno del negozio. Non abbiamo letto quelle a quattro e a due stelle, che pesano anch’esse sul punteggio. Elogi e lamentele descrivono momenti diversi dell’acquisto: il catalogo e il prezzo da una parte, il pacco che non arriva dall’altra. Il punteggio somma le due cose."
         ]
       },
       {
         "heading": "Trustpilot: chi recensisce, e da dove",
         "paragraphs": [
-          "Il profilo www.shein.com raccoglie recensioni di più paesi, senza indicare quante ne arrivino da ciascuno. Non isola la consegna o l’assistenza per la tua destinazione.",
-          "Il sito britannico di Trustpilot mostrava lo stesso profilo e gli stessi numeri.",
-          "Per questo il punteggio parla dei clienti del negozio in tutto il mondo, non di come andrà un ordine al tuo indirizzo."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-          "alt": "Smartphone con il profilo di SHEIN su Trustpilot: punteggio 3,8, distribuzione delle stelle e risposta al 98% delle recensioni negative",
-          "caption": "Profilo di SHEIN su Trustpilot, versione mobile. Screenshot del sito, con due parti ingrandite.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "La nostra verifica",
-        "paragraphs": [
-          "I numeri vengono da una lettura pubblica, fatta senza accedere con un account, del profilo di SHEIN su Trustpilot:"
-        ],
-        "bullets": [
-          "Il punteggio, il numero di recensioni, la distribuzione per stelle, la quota di risposte e le recensioni visibili, da cui sono usciti i temi.",
-          "L’ambito del profilo, che è globale, e il sito regionale del Regno Unito, che mostrava lo stesso."
-        ],
-        "postParagraphs": [
-          "Cosa non è stato letto: il testo delle risposte del negozio, le recensioni divise per paese e i siti regionali di Trustpilot diversi da quello del Regno Unito. Per questo il testo non dice se le risposte risolvono qualcosa.",
-          "I numeri cambiano ogni mese. Controlla il profilo il giorno dell’acquisto.",
-          "Cecília è affiliata di SHEIN: gli acquisti fatti dai link del sito possono generare una commissione, senza costi per te. Questo non cambia i numeri, che vengono dal profilo pubblico."
-        ],
-        "links": [
-          {
-            "label": "Profilo di SHEIN su Trustpilot",
-            "href": "https://www.trustpilot.com/review/www.shein.com"
-          }
+          "Il profilo www.shein.com raccoglie recensioni di clienti di più paesi e non separa il punteggio per paese. La pagina riferisce anche che l’azienda ha ricevuto attenzione da parte di autorità di vigilanza. Trustpilot dichiara di presentare questa informazione in modo neutro e solo a scopo informativo; la riportiamo nello stesso modo. È sul profilo, e il punteggio non la spiega.",
+          "Per un ordine verso il tuo paese, controlla sul sito o nell’app ufficiale di SHEIN del tuo paese le spese di spedizione, i tempi di consegna, l’IVA o i dazi all’importazione e le regole per i resi."
         ]
       },
       {
         "heading": "Ci si può fidare di SHEIN guardando Trustpilot?",
         "paragraphs": [
-          "Da Trustpilot, i numeri sono questi: TrustScore 3,8, «Great», su 353.527 recensioni, il 59% di cinque stelle e il 18% di una, con risposta al 98% delle negative, di solito entro 24 ore.",
-          "Le riserve sono di ambito e di tema. Il profilo è globale e non separa i paesi, quindi dice come si comporta il negozio nell’insieme, non come andrà un ordine al tuo indirizzo. E le recensioni negative parlano di pacchi non consegnati e di rimborsi in ritardo o negati: il punteggio da solo non dice quanto spesso succeda."
-        ]
+          "Secondo Trustpilot il negozio ha 3,8 su 5, con una maggioranza di recensioni a cinque stelle e il 18% a una stella, e risponde al 98% delle recensioni negative. Due cose frenano il punteggio: i reclami rapidi a una stella su pacchi e denaro, e un profilo globale. Il punteggio dice come il negozio tratta i suoi clienti nel complesso, non come arriverà un ordine preciso nel tuo paese."
+        ],
+        "emphasis": "Il punteggio dice come SHEIN tratta i suoi clienti nel complesso, e i reclami mostrano dove sta il rischio: il pacco e il rimborso. Conserva le prove di entrambi."
       },
       {
         "heading": "Prima di pagare",
         "paragraphs": [
-          "I reclami indicano cosa proteggere. Compra dal sito o dall’app ufficiale di SHEIN del tuo paese e conserva la ricevuta del pagamento e il codice di tracciamento: mostrano cosa è stato pagato e dove si è fermato il pacco.",
-          "Se il pacco non arriva o l’articolo è sbagliato, chiedi il rimborso tramite il canale del negozio, sul sito o nell’app, e conserva la ricevuta del reso se rispedisci qualcosa.",
-          "Prima di comprare, apri alcune recensioni a una stella sul profilo e leggi la risposta del negozio sotto ciascuna, soprattutto quelle sui pacchi non consegnati e sui rimborsi.",
-          "Chi gestisce SHEIN nel tuo paese e da dove viene l’azienda è in [SHEIN è affidabile e sicuro?](/it/reviews/shein-e-affidabile-e-sicuro).",
+          "Conserva la ricevuta del pagamento e il codice di tracciamento: mostrano cosa hai pagato e dove il pacco si è fermato.",
+          "Se il pacco non arriva o l’articolo è sbagliato, chiedi il rimborso attraverso il canale del negozio, sul sito o nell’app, e conserva la ricevuta del reso se rimandi qualcosa indietro.",
+          "Per capire chi gestisce SHEIN e da quale paese viene l’azienda, leggi [SHEIN è affidabile e sicuro?](/it/reviews/shein-e-affidabile-e-sicuro).",
           "Se hai deciso di comprare, la [pagina di SHEIN](/it/coupons/shein) porta al sito ufficiale."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "SHEIN ha un buon punteggio su Trustpilot? Il TrustScore era 3,8, con l’etichetta «Great», su 353.527 recensioni; il 59% dava cinque stelle e il 18% una.",
-          "Quali sono i reclami più comuni su SHEIN? Nelle recensioni negative, i temi erano pacchi persi, rubati o mai arrivati, a volte con una foto di consegna contestata; rimborsi in ritardo o negati, compresi resi che il negozio dice di non aver ricevuto; assistenza lenta o con risposte standard; e problemi con il prodotto, come taglia, qualità, articolo sbagliato o mancante. Sono temi, non un conteggio.",
-          "SHEIN risponde alle recensioni negative? Secondo il profilo su Trustpilot, il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la risposta può usare l’intelligenza artificiale. I numeri non dicono se le risposte abbiano risolto il problema.",
-          "Il punteggio Trustpilot vale per il mio paese? Non dà un risultato specifico per paese. Il profilo globale raccoglie recensioni da più paesi; consulta tempi di consegna e regole di reso della tua destinazione sul sito o sull’app ufficiale di SHEIN."
+          "SHEIN ha un buon punteggio su Trustpilot? Il TrustScore è 3,8 su 5, con l’etichetta «Great», su 353.689 recensioni; il 59% sono a cinque stelle e il 18% a una.",
+          "Quali sono i reclami più comuni su SHEIN? Nelle 40 recensioni a una stella che abbiamo letto, i temi sono consegna, resi e rimborsi, articoli mancanti o scambiati, prodotto e taglia, e assistenza, account e addebiti. Sono temi di un campione, non cifre dell’intero profilo.",
+          "SHEIN risponde alle recensioni negative? Secondo il profilo ha risposto al 98%, di solito entro 24 ore, e può usare l’IA nelle risposte. Una risposta non dimostra che il problema sia stato risolto.",
+          "Il punteggio di Trustpilot vale per il mio paese? No. Non c’è un punteggio per paese: il profilo è globale e non separa le recensioni per paese. Controlla tempi, spedizione, imposte d’importazione e resi sul sito o nell’app ufficiale del tuo paese.",
+          "Che cos’è il codice 4CW5Y e come si usa? È il codice invito di Cecília, non un coupon da inserire alla cassa. Apri SHEIN dal link di questo sito, oppure cerca 4CW5Y nell’app o sul sito di SHEIN: si apre una selezione di prodotti, promozioni e sconti, e SHEIN decide quanto e su quali articoli."
         ]
       }
     ],
@@ -175584,9 +175916,25 @@ export const reviewsData: unknown[] = [
         "slug": "shein-e-affidabile-e-sicuro"
       },
       {
-        "slug": "shein-o-temu-come-scegliere"
+        "slug": "shein-conviene"
+      },
+      {
+        "slug": "codice-invito-shein-dove-inserirlo"
+      },
+      {
+        "slug": "black-friday-shein-date-e-tasse"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Accetti tempi di consegna lunghi e cerchi moda e casa a prezzi bassi.",
+        "Conservi ricevuta e codice di tracciamento e sai chiedere il rimborso attraverso il canale del negozio."
+      ],
+      "skipIf": [
+        "Ti serve l’articolo per una data fissa, perché il reclamo più frequente a una stella è il pacco che non arriva.",
+        "Non vuoi aspettare un’assistenza lenta, di cui si lamentano spesso le recensioni a una stella."
+      ]
+    }
   },
   {
     "id": 701,
@@ -175605,11 +175953,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN hat auf Trustpilot im November 2026 3,8 von 5. Die negativen Bewertungen drehen sich um Pakete und Erstattungen, und das Profil ist global: Es trennt die Länder nicht.",
-    "metaDescription": "SHEIN auf Trustpilot im November 2026: 3,8 aus 353.527 Bewertungen, 59 % fünf Sterne, 18 % ein Stern. Beschwerden über Zustellung und Erstattungen und was die Zahl nicht zeigt.",
+    "description": "SHEIN hat auf Trustpilot 3,8 von 5 aus 353.689 Bewertungen. Was die Note misst, welche Beschwerden zu Paketen und Erstattungen kommen und warum das Profil global ist.",
+    "metaDescription": "SHEIN bei Trustpilot: TrustScore 3,8 aus 353.689 Bewertungen, 59 % Fünf-Sterne- und 18 % Ein-Stern-Bewertungen. Beschwerden zu Lieferung und Erstattung.",
     "publishedAt": "29. Oktober 2026",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -175623,128 +175971,130 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "SHEIN hat auf Trustpilot 3,8 von 5, mit Vorbehalten. Die Zahl stammt aus 353.527 Bewertungen von Kunden aus vielen Ländern, und die Themen der negativen Bewertungen sind nicht zugestellte Pakete sowie verspätete oder abgelehnte Erstattungen. Das Profil ist global und trennt nicht nach Ländern."
+          "SHEIN erreicht auf Trustpilot einen TrustScore von 3,8 von 5 mit dem Label „Great“, aus 353.689 Bewertungen. Die meisten sind Fünf-Sterne-Bewertungen, doch die Ein-Stern-Bewertungen kommen schnell und drehen sich um Pakete, die nie ankamen, und Erstattungen, die langsam erfolgen oder abgelehnt werden. Das Profil ist global. Die Note sagt deshalb nicht, wie eine Bestellung in Ihr Land ankommt."
         ]
       },
       {
         "heading": "Was die Bewertung misst",
         "paragraphs": [
-          "Der TrustScore ist die Bewertung des Profils auf Trustpilot. Sie fasst den ganzen Kauf zusammen, nicht nur die Qualität der Artikel. Im November 2026 hatte SHEIN 3,8 mit dem Etikett „Great“, aus 353.527 Bewertungen; 22.625 davon wurden in den letzten 12 Monaten veröffentlicht. Das Profil ist vom Unternehmen beansprucht und hat ein kostenpflichtiges Trustpilot-Abo, wie die Seite selbst angibt.",
-          "Die Verteilung nach Sternen: 59 % fünf Sterne, 12 % vier, 6 % drei, 5 % zwei und 18 % ein Stern. Fünf und vier Sterne machen zusammen den größten Teil aus."
+          "Der TrustScore ist die Bewertung des Profils auf Trustpilot. Im November 2026 lag SHEIN bei 3,8 mit dem Label „Great“, aus 353.689 Bewertungen, davon 14.994 in den letzten zwölf Monaten."
         ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
-          "alt": "Balken von fünf bis ein Stern mit der Verteilung der SHEIN-Bewertungen auf Trustpilot: 59 %, 12 %, 6 %, 5 % und 18 %",
-          "caption": "Verteilung der SHEIN-Bewertungen auf Trustpilot nach Sternen. Eigene Grafik.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "Trustpilot-Profil von SHEIN (www.shein.com), abgerufen am 23.11.2026.",
+          "headers": [
+            "Indikator",
+            "Was das Profil zeigt"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "3,8 von 5, „Great“"
+            ],
+            [
+              "Bewertungen insgesamt",
+              "353.689"
+            ],
+            [
+              "Bewertungen der letzten 12 Monate",
+              "14.994"
+            ],
+            [
+              "Sterne, von fünf bis eins",
+              "59 %, 12 %, 6 %, 5 % und 18 %"
+            ],
+            [
+              "Profilstatus",
+              "Seit 2015 beansprucht, mit kostenpflichtigem Abo"
+            ],
+            [
+              "Herkunft der Bewertungen",
+              "Der Shop lädt Kundinnen und Kunden nach dem Kauf zur Bewertung ein"
+            ],
+            [
+              "Antworten auf negative Bewertungen",
+              "98 %, meist innerhalb von 24 Stunden; der Shop kann KI verwenden"
+            ]
+          ]
         }
       },
       {
         "heading": "Drei Lesarten, die die Rechnung ändern",
         "paragraphs": [
-          "Erstens: die 18 % mit einem Stern. Rund jede fünfte Bewertung hat einen Stern, mehr als die 11 % mit zwei und drei Sternen zusammen, und dort stehen die Beschwerden.",
-          "Zweitens: Antworten heißt nicht lösen. SHEIN hat auf 98 % der negativen Bewertungen geantwortet, meist innerhalb von 24 Stunden, und die Seite weist darauf hin, dass die Antwort KI nutzen kann. Die Zahlen sagen also nicht, ob sie das Problem der Beschwerdeführer gelöst haben.",
-          "Drittens: Die Zahl ist global. Das Profil trennt die Bewertungen nicht nach Land, und Kunden mit unterschiedlichem Versand, unterschiedlichen Lieferzeiten und unterschiedlichem Zoll stecken in einer einzigen Bewertung. Wie die Zustellung in Ihr Land läuft, steht nicht in dieser Zahl."
+          "Erstens: die Einladungen. Der Shop bittet nach dem Kauf um eine Bewertung, und ein kostenpflichtiges Profil mit Einladungen zieht viele kurze Fünf-Sterne-Bewertungen an. Die 3,8 addieren Jahre von Bewertungen und Einladungen.",
+          "Zweitens: der aktuelle Verlauf. Nach unserer Lektüre kamen die Ein-Stern-Bewertungen viel schneller als die Fünf-Sterne-Bewertungen: die 40 neuesten Ein-Stern-Bewertungen passen in eine Woche, die 40 neuesten Fünf-Sterne-Bewertungen umfassen drei Monate.",
+          "Drittens: Antworten sind keine Lösung. Der Shop hat 98 % der negativen Bewertungen beantwortet, meist innerhalb von 24 Stunden. Eine öffentliche Antwort zeigt nicht, dass das Problem gelöst wurde."
         ]
       },
       {
         "heading": "Was in den Beschwerden steht",
         "paragraphs": [
-          "Die am 28. Oktober 2026 im Profil sichtbaren negativen Bewertungen drehen sich um das Paket und das Geld:"
+          "Wir haben die 40 neuesten Ein-Stern-Bewertungen gelesen, veröffentlicht zwischen dem 16. und dem 23. November 2026. Alle waren spontan, und der Shop hat 35 davon beantwortet. Die Themen:"
         ],
         "bullets": [
-          "Paket verloren, gestohlen oder nicht zugestellt, manchmal mit einem Zustellfoto, das der Kunde anzweifelt.",
-          "Erstattung verspätet oder abgelehnt, auch bei Rücksendungen, die der Shop nach eigenen Angaben nicht erhalten hat.",
-          "Kundenservice langsam oder mit Standardantworten.",
-          "Probleme mit dem Produkt: Größe, Qualität, falscher oder fehlender Artikel."
+          "Lieferung (11): Paket nie angekommen, an eine falsche Adresse oder an einen nicht gewählten Abholpunkt geliefert, oder als zugestellt markiert, ohne anzukommen.",
+          "Rücksendung und Erstattung (9): Rücksendung angekommen, aber nicht erstattet, Artikel angeblich bei der Rücksendung fehlend, langsame Erstattung.",
+          "Fehlende oder vertauschte Artikel im Paket (6).",
+          "Produkt und Größe (5): anders als im Angebot, Qualität, Größen fallen zu groß aus.",
+          "Kundendienst, Konto und Gebühren (9): Service nur per Bot, gesperrte Konten, Zusatzgebühren, Punktespiele."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
-          "alt": "Illustration eines Tracking-Bildschirms mit stockender Zustellung und wartendem Haus, daneben ein Beleg mit Strichcode und eine Münze mit Rückpfeil, die Erstattung",
-          "caption": "Unsere Illustration des Pakets, das nicht ankommt, und der Erstattung, der Beschwerdethemen. Bewahren Sie Beleg und Sendungsnummer auf.",
+          "alt": "Illustration einer Sendungsverfolgung mit stehender Lieferung und einem Haus, das noch wartet, daneben ein Beleg mit Barcode und eine Münze mit Rückpfeil, die Erstattung",
+          "caption": "Eigene Illustration: das Paket, das nicht ankommt, und die Erstattung, die Themen der Beschwerden. Bewahren Sie Beleg und Sendungsnummer auf.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Das sind die Themen der Bewertungen, kein Maß dafür, wie oft eine Bestellung schiefgeht. Sie zeigen, wohin Sie schauen sollten: auf die Sendungsverfolgung nach dem Versand, den Zustellnachweis, den Beleg der Rücksendung und den Erstattungsantrag."
+          "Das sind Themen aus 40 Bewertungen, keine Messung, wie oft eine Bestellung schiefgeht. Sie zeigen, wohin man schauen sollte: Sendungsverfolgung nach dem Versand, Zustellnachweis, Rücksendebeleg und Erstattungsantrag."
         ]
       },
       {
         "heading": "Was im Lob steht",
         "paragraphs": [
-          "Die im Profil sichtbaren positiven Bewertungen waren wenige, die Stichprobe ist also klein. Ihre Themen sind andere:"
+          "Wir haben die 40 neuesten Fünf-Sterne-Bewertungen gelesen, die drei Monate umfassen (29. August bis 19. November 2026): 10 stammen aus der automatischen Einladung des Shops, 1 aus einem Link und 29 waren spontan. Das Lob betrifft:"
         ],
         "bullets": [
-          "Niedrige Preise.",
-          "Große Auswahl.",
-          "Angemessene Qualität.",
-          "Zustellung ohne Probleme."
+          "niedrige Preise.",
+          "eine große Auswahl.",
+          "schnelle Lieferung.",
+          "einfache Rücksendung und Erstattung.",
+          "gute Qualität für den Preis."
         ],
         "postParagraphs": [
-          "Lob und Beschwerde sprechen von verschiedenen Momenten des Kaufs: das Lob vom Katalog, vom Preis und vom angekommenen Paket; die Beschwerde vom Paket, das nicht kam, und von der Erstattung, die ausblieb. Die Bewertung zählt beides zusammen."
+          "Einige dieser Bewertungen erwähnen den Shop gar nicht. Die Vier- und Zwei-Sterne-Bewertungen, die ebenfalls in die Note eingehen, haben wir nicht gelesen. Lob und Beschwerden beschreiben verschiedene Momente des Kaufs: der Katalog und der Preis auf der einen Seite, das Paket, das nicht kommt, auf der anderen. Die Note addiert beides."
         ]
       },
       {
         "heading": "Trustpilot: wer bewertet, und von wo",
         "paragraphs": [
-          "Das Profil www.shein.com enthält Bewertungen aus mehreren Ländern, ohne die Anzahl je Land auszuweisen. Es weist weder Zustellung noch Kundenservice für Ihr Ziel gesondert aus.",
-          "Die britische Trustpilot-Seite zeigte dasselbe Profil mit denselben Zahlen.",
-          "Die Zahl spricht deshalb für die Kunden des Shops weltweit, nicht dafür, wie eine Bestellung an Ihre Adresse läuft."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-          "alt": "Smartphone mit dem Trustpilot-Profil von SHEIN: Bewertung 3,8, Verteilung der Sterne und Antwort auf 98 % der negativen Bewertungen",
-          "caption": "Trustpilot-Profil von SHEIN, mobile Ansicht. Screenshot der Website, zwei Ausschnitte vergrößert.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "Unsere Prüfung",
-        "paragraphs": [
-          "Die Zahlen stammen aus einer öffentlichen Ablesung des SHEIN-Profils auf Trustpilot, ohne Login:"
-        ],
-        "bullets": [
-          "Die Bewertung, die Zahl der Bewertungen, die Verteilung nach Sternen, die Antwortquote und die sichtbaren Bewertungen, aus denen die Themen stammen.",
-          "Der Rahmen des Profils, das global ist, und die britische Regionalseite, die dasselbe zeigte."
-        ],
-        "postParagraphs": [
-          "Was nicht gelesen wurde: der Text der Antworten des Shops, die Bewertungen nach Land und die Regionalseiten von Trustpilot außer der britischen. Deshalb sagt der Text nicht, ob die Antworten etwas lösen.",
-          "Die Zahlen ändern sich jeden Monat. Prüfen Sie das Profil am Tag des Kaufs.",
-          "Cecília ist Affiliate von SHEIN: Käufe über die Links dieser Website können eine Provision einbringen, ohne Mehrkosten für Sie. Das ändert nichts an den Zahlen, die aus dem öffentlichen Profil stammen."
-        ],
-        "links": [
-          {
-            "label": "SHEIN-Profil auf Trustpilot",
-            "href": "https://www.trustpilot.com/review/www.shein.com"
-          }
+          "Das Profil www.shein.com vereint Bewertungen aus mehreren Ländern und weist die Note nicht nach Land aus. Die Seite vermerkt außerdem, dass das Unternehmen Aufmerksamkeit von Aufsichtsbehörden erhalten hat. Trustpilot erklärt, diesen Hinweis neutral und nur informierend anzuzeigen; wir geben ihn ebenso wieder. Er steht auf dem Profil, und die Note erklärt ihn nicht.",
+          "Bei einer Bestellung in Ihr Land prüfen Sie auf der offiziellen Website oder in der App von SHEIN für Ihr Land Versandkosten, Lieferzeit, Einfuhrumsatzsteuer oder Zoll sowie die Rückgaberegeln."
         ]
       },
       {
         "heading": "Kann man SHEIN nach Trustpilot vertrauen?",
         "paragraphs": [
-          "Nach Trustpilot sind die Zahlen diese: ein TrustScore von 3,8, „Great“, aus 353.527 Bewertungen, 59 % mit fünf Sternen und 18 % mit einem Stern, und 98 % der negativen Bewertungen mit einer Antwort, meist innerhalb von 24 Stunden.",
-          "Die Vorbehalte betreffen den Rahmen und das Thema. Das Profil ist global und trennt nicht nach Ländern, es sagt also, wie sich der Shop insgesamt verhält, nicht, wie eine Bestellung an Ihre Adresse läuft. Und die negativen Bewertungen handeln von nicht zugestellten Paketen und von verspäteten oder abgelehnten Erstattungen: Die Zahl allein sagt nicht, wie oft das passiert."
-        ]
+          "Laut Trustpilot liegt der Shop bei 3,8 von 5, mit einer Mehrheit an Fünf-Sterne-Bewertungen und 18 % Ein-Stern-Bewertungen, und er beantwortet 98 % der negativen Bewertungen. Zwei Dinge drücken die Note: die schnellen Ein-Stern-Beschwerden über Pakete und Geld sowie das globale Profil. Die Note zeigt, wie der Shop seine Kundschaft insgesamt behandelt, nicht, wie eine bestimmte Bestellung in Ihr Land kommt."
+        ],
+        "emphasis": "Die Note sagt, wie SHEIN seine Kundschaft insgesamt behandelt, und die Beschwerden zeigen, wo das Risiko liegt: beim Paket und bei der Erstattung. Bewahren Sie für beides Belege auf."
       },
       {
         "heading": "Vor dem Bezahlen",
         "paragraphs": [
-          "Die Beschwerden zeigen, was Sie schützen sollten. Kaufen Sie über die offizielle Website oder App von SHEIN für Ihr Land und bewahren Sie den Zahlungsbeleg und die Sendungsnummer auf: Sie zeigen, was bezahlt wurde und wo das Paket stehen geblieben ist.",
-          "Kommt das Paket nicht an oder stimmt der Artikel nicht, fordern Sie die Erstattung über den Weg des Shops an, auf der Website oder in der App, und bewahren Sie den Beleg der Rücksendung auf, wenn Sie etwas zurückschicken.",
-          "Vor dem Kauf lohnt es sich, im Profil einige Ein-Stern-Bewertungen zu öffnen und die Antwort des Shops darunter zu lesen, vor allem bei nicht zugestellten Paketen und Erstattungen.",
-          "Wer SHEIN in Ihrem Land betreibt und woher das Unternehmen kommt, steht in [Ist SHEIN seriös und sicher?](/de/reviews/ist-shein-serioes-und-sicher).",
+          "Bewahren Sie den Zahlungsbeleg und die Sendungsnummer auf: Sie zeigen, was Sie bezahlt haben und wo das Paket stehen geblieben ist.",
+          "Kommt das Paket nicht an oder ist der Artikel falsch, fordern Sie die Erstattung über den eigenen Kanal des Shops an, auf der Website oder in der App, und bewahren Sie den Rücksendebeleg auf, wenn Sie etwas zurückschicken.",
+          "Wer SHEIN betreibt und aus welchem Land das Unternehmen stammt, steht in [Ist SHEIN seriös und sicher?](/de/reviews/ist-shein-serioes-und-sicher).",
           "Wenn Sie sich für den Kauf entschieden haben, führt die [SHEIN-Seite](/de/coupons/shein) zur offiziellen Website."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Hat SHEIN eine gute Bewertung auf Trustpilot? Der TrustScore lag bei 3,8 mit dem Etikett „Great“, aus 353.527 Bewertungen; 59 % gaben fünf Sterne und 18 % einen.",
-          "Was sind die häufigsten Beschwerden über SHEIN? In den negativen Bewertungen waren die Themen verlorene, gestohlene oder nie angekommene Pakete, manchmal mit einem angezweifelten Zustellfoto; verspätete oder abgelehnte Erstattungen, auch bei Rücksendungen, die der Shop nach eigenen Angaben nicht erhalten hat; langsamer Kundenservice oder Standardantworten; und Produktprobleme wie Größe, Qualität, falscher oder fehlender Artikel. Das sind Themen, keine Zählung.",
-          "Antwortet SHEIN auf negative Bewertungen? Laut dem Trustpilot-Profil hat der Shop auf 98 % der negativen Bewertungen geantwortet, meist innerhalb von 24 Stunden, und die Antwort kann KI nutzen. Die Zahlen sagen nicht, ob die Antworten das Problem gelöst haben.",
-          "Gilt die Trustpilot-Bewertung für mein Land? Sie liefert kein länderspezifisches Ergebnis. Das globale Profil umfasst Bewertungen aus mehreren Ländern; prüfen Sie Lieferzeiten und Rückgaberegeln für Ihr Ziel auf der offiziellen SHEIN-Website oder in der App."
+          "Hat SHEIN eine gute Bewertung bei Trustpilot? Der TrustScore liegt bei 3,8 von 5, mit dem Label „Great“, aus 353.689 Bewertungen; 59 % sind Fünf-Sterne-Bewertungen und 18 % Ein-Stern-Bewertungen.",
+          "Was sind die häufigsten Beschwerden über SHEIN? In den 40 Ein-Stern-Bewertungen, die wir gelesen haben, ging es um Lieferung, Rücksendung und Erstattung, fehlende oder vertauschte Artikel, Produkt und Größe sowie Kundendienst, Konto und Gebühren. Das sind Themen aus einer Stichprobe, keine Zahlen für das ganze Profil.",
+          "Antwortet SHEIN auf negative Bewertungen? Laut Profil hat der Shop 98 % beantwortet, meist innerhalb von 24 Stunden, und kann dabei KI verwenden. Eine Antwort zeigt nicht, dass das Problem gelöst wurde.",
+          "Gilt die Trustpilot-Note für mein Land? Nein. Es gibt keine Länderwertung; das Profil ist global. Prüfen Sie Lieferzeit, Versand, Einfuhrsteuern und Rückgabe auf der offiziellen Website oder App für Ihr Land.",
+          "Was ist der Code 4CW5Y und wie nutze ich ihn? Es ist Cecílias Empfehlungscode, kein Gutschein an der Kasse. Öffnen Sie SHEIN über den Link auf dieser Seite oder suchen Sie 4CW5Y in der App oder auf der Website von SHEIN: Dann öffnet sich eine Auswahl an Produkten, Aktionen und Rabatten, und SHEIN entscheidet, wie viel und bei welchen Artikeln."
         ]
       }
     ],
@@ -175762,9 +176112,25 @@ export const reviewsData: unknown[] = [
         "slug": "ist-shein-serioes-und-sicher"
       },
       {
-        "slug": "shein-oder-temu-was-waehlen"
+        "slug": "lohnt-sich-shein"
+      },
+      {
+        "slug": "shein-empfehlungscode-wo-eingeben"
+      },
+      {
+        "slug": "shein-black-friday-termine-steuern"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie nehmen lange Lieferzeiten in Kauf und suchen Mode und Wohnen zu niedrigen Preisen.",
+        "Sie bewahren Beleg und Sendungsnummer auf und wissen, wie Sie über den Kanal des Shops eine Erstattung anfordern."
+      ],
+      "skipIf": [
+        "Sie brauchen den Artikel zu einem festen Termin, denn die häufigste Ein-Stern-Beschwerde ist das Paket, das nie ankommt.",
+        "Sie wollen nicht auf langsamen Kundendienst warten, über den sich viele Ein-Stern-Bewertungen beklagen."
+      ]
+    }
   },
   {
     "id": 702,
@@ -175783,11 +176149,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年11月時点の SHEIN の Trustpilot 評価です。TrustScore 3.8（レビュー 353,527 件）、星 1 つが 18%、否定的なレビューのテーマは届かない荷物と返金。数字が示すことと示さないことをまとめました。",
-    "metaDescription": "SHEIN の Trustpilot（2026年11月）：TrustScore 3.8、レビュー 353,527 件、星 5 つ 59%、星 1 つ 18%。否定的なレビューのテーマは届かない荷物と返金です。支払う前にすることも紹介します。",
+    "description": "SHEIN は Trustpilot で 353,689 件のレビューから 5 点満点 3.8 です。点数が示すこと、荷物と返金への苦情、プロフィールが世界全体である理由。",
+    "metaDescription": "SHEIN の Trustpilot：TrustScore 3.8、レビュー 353,689 件、星5つ 59%・星1つ 18%。荷物と返金の苦情と、点数が示さないこと。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -175801,127 +176167,130 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "評価は良好ですが、注意が要ります。SHEIN の Trustpilot の TrustScore は 5 点満点で 3.8、ラベルは「Great」で、各国の顧客による 353,527 件のレビューに基づいています。否定的なレビューのテーマは届かない荷物と返金で、星 1 つは 18% です。"
+          "SHEIN は Trustpilot で TrustScore 3.8（5点満点、ラベルは「Great」）、353,689件のレビューを集めています。大半は星5つですが、星1つのレビューは速く増えており、届かない荷物や遅い、あるいは断られる返金に集中しています。プロフィールは世界全体のもので、この点数からご自身の国への注文がどうなるかはわかりません。"
         ]
       },
       {
         "heading": "この評価が測っているもの",
         "paragraphs": [
-          "TrustScore は、Trustpilot 上のプロフィールの評価です。2026年11月時点で、SHEIN は 3.8、レビューは 353,527 件で、そのうち 22,625 件は直近 12 か月のものでした。プロフィールは企業が請求済みで、ページに書かれているとおり Trustpilot の有料契約があります。",
-          "星ごとの分布は、星 5 つが 59%、星 4 つが 12%、星 3 つが 6%、星 2 つが 5%、星 1 つが 18% でした。星 5 つと星 4 つで大半を占めています。",
-          "この評価は、商品の質ではなく、レビューを書いた人の受け止め方をまとめたものです。商品、配送、対応がひとつの星にまとまっています。"
+          "TrustScore は Trustpilot 上のプロフィールの評価です。2026年11月時点で SHEIN は「Great」ラベルの3.8で、レビューは353,689件、そのうち14,994件は直近12か月に投稿されたものです。"
         ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
-          "alt": "Trustpilot の SHEIN のレビュー分布を示す、星 5 つから星 1 つまでの棒グラフ：59%、12%、6%、5%、18%",
-          "caption": "Trustpilot の SHEIN のレビュー分布。図は当サイト作成。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "SHEIN の Trustpilot プロフィール（www.shein.com）、2026年11月23日に確認。",
+          "headers": [
+            "指標",
+            "プロフィールに表示される内容"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "5点満点で3.8、「Great」"
+            ],
+            [
+              "レビュー総数",
+              "353,689"
+            ],
+            [
+              "直近12か月のレビュー",
+              "14,994"
+            ],
+            [
+              "星の内訳（5から1）",
+              "59%、12%、6%、5%、18%"
+            ],
+            [
+              "プロフィールの状態",
+              "2015年から所有者確認済み、有料プラン"
+            ],
+            [
+              "レビューの出所",
+              "購入後にストアが顧客を招待してレビューを集める"
+            ],
+            [
+              "否定的なレビューへの返信",
+              "98%、通常24時間以内。AIを使う場合がある"
+            ]
+          ]
         }
       },
       {
         "heading": "数字の読み方を変える三つのこと",
         "paragraphs": [
-          "一つ目は、星 1 つの 18% です。約 5 件に 1 件は最低評価で、星 2 つと星 3 つを合わせた 11% より多くなっています。",
-          "二つ目は、返信と解決は別だということです。SHEIN は否定的なレビューの 98% に返信しており、多くは 24 時間以内です。ページには、返信に AI を使うことがあるとも書かれています。ただ、苦情を出した人の問題が解決したかどうかは数字からは分かりません。",
-          "三つ目は、数字が世界共通だということです。プロフィールは国別に分かれておらず、送料、配送期間、関税の条件が違う国々の顧客がひとつの評価に入っています。お住まいの国での配送がどうなるかは、この数字からは分かりません。"
+          "一つ目は招待です。ストアは購入後にレビューを依頼し、招待を使う有料プロフィールには短い星5つのレビューが多く集まります。3.8という数字は、長年のレビューと招待をまとめたものです。",
+          "二つ目は最近の流れです。私たちが読んだ限り、星1つのレビューは星5つより速く増えています。最新の星1つのレビュー40件は1週間に収まり、星5つの最新40件は3か月にわたっています。",
+          "三つ目は、返信は解決ではないということです。ストアは否定的なレビューの98%に返信し、多くは24時間以内でした。公開の返信は、問題が解決したことを示すものではありません。"
         ]
       },
       {
         "heading": "苦情に出てくること",
         "paragraphs": [
-          "2026年10月28日にプロフィールで見られた否定的なレビューのテーマは配送と返金です："
+          "2026年11月16日から23日に投稿された、星1つのレビューの最新40件を読みました。すべて自発的な投稿で、ストアは35件に返信していました。テーマは次のとおりです。"
         ],
         "bullets": [
-          "荷物の紛失、盗難、未着。顧客が納得していない配達完了の写真が添えられていることもあります。",
-          "返金の遅れや拒否。店が「受け取っていない」とする返送品のケースを含みます。",
-          "対応が遅い、または定型文の返答。",
-          "商品の問題。サイズ、品質、違う商品、足りない商品。"
+          "配送（11件）：荷物が届かない、違う住所や頼んでいない受け取り場所に届く、届いていないのに配達済みになる。",
+          "返品と返金（9件）：返品は届いたのに返金されない、返品時に商品が足りないとされた、返金が遅い。",
+          "荷物の中身の欠品や取り違え（6件）。",
+          "商品とサイズ（5件）：商品ページと違う、品質、サイズが大きい。",
+          "サポート、アカウント、請求（9件）：ボットだけの対応、アカウント停止、追加料金、ポイントのゲーム。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
-          "alt": "配送が止まり、家がまだ待っている追跡画面のイラスト。横にバーコード付きの控えと、戻る矢印の付いたコイン（返金）",
-          "caption": "当サイトのイラスト：届かない荷物と返金は苦情のテーマです。控えと追跡番号を保管してください。",
+          "alt": "配送が止まったままの追跡画面と家の絵、バーコード付きのレシートと戻り矢印のついたコイン（返金）を並べたイラスト",
+          "caption": "当サイト制作のイラスト：届かない荷物と返金という苦情のテーマです。レシートと追跡番号を保管してください。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "これはレビューのテーマで、あなたの注文に問題が起きる確率ではありません。ただ、見るべき場所は分かります。発送後の追跡、受け取りの証明、そして返品と返金のための店の窓口です。"
+          "これは40件のレビューに出てくるテーマで、注文が失敗する頻度を測ったものではありません。どこを確認すればよいかを示しています。発送後の追跡、受け取りの証明、返品の控え、返金の申請です。"
         ]
       },
       {
         "heading": "称賛に出てくること",
         "paragraphs": [
-          "プロフィールで見られる肯定的なレビューのテーマは別でした。目に入った称賛のサンプルは小さかったので、下の点は目安であり、割合ではありません："
+          "2026年8月29日から11月19日までの3か月にわたる、星5つの最新40件を読みました。そのうち10件はストアの自動招待から、1件はリンクから、29件は自発的な投稿でした。称賛の内容は次のとおりです。"
         ],
         "bullets": [
-          "価格が安い。",
-          "品数が多い。",
-          "価格のわりに品質はまずまず。",
-          "配送に問題がなかった。"
+          "低価格",
+          "品ぞろえの豊富さ",
+          "配送の速さ",
+          "返品と返金のしやすさ",
+          "価格に見合う品質"
         ],
         "postParagraphs": [
-          "称賛は価格、品ぞろえ、届いた荷物について。苦情は届かなかった荷物と、戻ってこなかった返金について。評価はその両方を合算しています。"
+          "これらのレビューの中には、ストアについて触れていないものもあります。総合点に含まれる星4つと星2つのレビューは読んでいません。称賛と苦情は購入の別々の場面を語っています。カタログと価格、そして届かなかった荷物です。点数はその両方を合わせたものです。"
         ]
       },
       {
         "heading": "Trustpilot：誰が、どこから評価しているか",
         "paragraphs": [
-          "対象のプロフィールは www.shein.com のもので、世界共通です。レビューは国別に分かれておらず、お住まいの国やほかの国から何件来ているかはページに書かれていません。",
-          "Trustpilot のイギリス向け地域サイトでも、同じプロフィールと同じ数字が表示されました。この評価は店が全体としてどう振る舞っているかを示すもので、あなたの住所への配送を示すものではありません。"
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-          "alt": "スマートフォンに表示した SHEIN の Trustpilot プロフィール：スコア 3.8、星の内訳、否定的なレビューの 98% への返信",
-          "caption": "SHEIN の Trustpilot プロフィール（モバイル表示）。サイトのスクリーンショットで、2か所を拡大しています。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "私たちの確認方法",
-        "paragraphs": [
-          "2026年10月28日に、ログインせずに Trustpilot の SHEIN の公開プロフィールを読みました。次の項目を見ています："
-        ],
-        "bullets": [
-          "評価、レビュー数、星ごとの分布、否定的なレビューへの返信率。",
-          "表示されていたレビュー。テーマはそこから取り出しました。イギリス向けの地域サイトも開き、同じプロフィールであることを確かめました。"
-        ],
-        "postParagraphs": [
-          "読んでいないもの：返信の本文、国別のレビュー、Trustpilot のほかの地域サイト。そのため、この記事は返信が問題を解決しているかどうかは言いません。",
-          "数字は毎月変わります。買う日にプロフィールを確認してください。",
-          "Cecília は SHEIN のアフィリエイトです。当サイトのリンクからの購入には手数料が入ることがありますが、あなたに追加費用はかかりません。数字は公開プロフィールのもので、これによって変わることはありません。"
-        ],
-        "links": [
-          {
-            "label": "Trustpilot の SHEIN プロフィール",
-            "href": "https://www.trustpilot.com/review/www.shein.com"
-          }
+          "www.shein.com のプロフィールは複数の国の顧客のレビューをまとめており、点数を国別には分けていません。ページには、同社が規制当局の注目を受けたという注記もあります。Trustpilot はこの注記を中立的に、情報として表示していると説明しています。私たちも同じように伝えます。プロフィールに載っていることで、点数はそれを説明していません。",
+          "ご自身の国への注文であれば、その国の SHEIN 公式サイトやアプリで、送料、配送日数、輸入時の付加価値税や関税、返品のルールを確認してください。"
         ]
       },
       {
         "heading": "Trustpilot を見て SHEIN は信頼できる？",
         "paragraphs": [
-          "Trustpilot で見ると、SHEIN は評価が良く、返信もしています。2026年11月時点で TrustScore 3.8、レビュー 353,527 件のうち 59% が星 5 つで、否定的なレビューの 98% に返信がありました。",
-          "注意点は三つです。否定的なレビューのテーマが届かない荷物と返金で、星 1 つが 18% あること。返信率は高くても、問題が解決したことまでは示さないこと。そして、プロフィールは世界共通で、お住まいの国の配送を示すものではないことです。"
-        ]
+          "Trustpilot によると、ストアは5点満点で3.8で、星5つのレビューが多数を占め、星1つは18%です。ストアは否定的なレビューの98%に返信しています。点数を下げているのは、荷物やお金に関する速く増える星1つの苦情と、世界全体のプロフィールという2点です。この点数は、ストアが全体として顧客にどう接しているかを示すものであり、特定の注文がご自身の国にどう届くかは示しません。"
+        ],
+        "emphasis": "点数は SHEIN が顧客全体にどう接しているかを語り、苦情はリスクがどこにあるかを示しています。荷物と返金です。両方の証拠を保管してください。"
       },
       {
         "heading": "支払う前に",
         "paragraphs": [
-          "数字が示すのは、保管しておくものです。支払いの控えと注文の追跡番号を保存してください。この二つが、何を支払い、荷物がどこで止まったかを示します。",
-          "荷物が届かないときは、サイトかアプリの店の窓口から返金を申請してください。",
-          "返品のルールは [SHEIN のブラックフライデーガイド](/ja/reviews/shein-black-friday-ja)にあります。SHEIN を運営しているのは誰で、どこの国の会社かは、[SHEIN は信頼できる？](/ja/reviews/shein-trust-guide-ja)をご覧ください。",
-          "買うと決めたなら、[SHEIN のページ](/ja/coupons/shein)から公式サイトに行けます。"
+          "決済の領収書と追跡番号を保管してください。何を支払ったか、荷物がどこで止まったかを示すものです。",
+          "荷物が届かない場合や商品が違う場合は、サイトかアプリでストアの自社窓口を通して返金を依頼してください。何かを返送する場合は、返品の控えも保管してください。",
+          "SHEIN を運営しているのは誰か、会社がどの国のものかは、[SHEIN は信頼できる？](/ja/reviews/shein-trust-guide-ja) でご確認いただけます。",
+          "購入を決めたなら、[SHEIN のページ](/ja/coupons/shein) から公式サイトに行けます。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "SHEIN の Trustpilot の評価は良いですか？TrustScore は 5 点満点で 3.8、ラベルは「Great」で、レビューは 353,527 件、そのうち星 5 つが 59%、星 1 つが 18% でした。",
-          "SHEIN についてよくある苦情は何ですか？否定的なレビューのテーマは、荷物の紛失や未着、返金の遅れや拒否、遅いか定型文の対応、そしてサイズ、品質、違う商品といった商品の問題でした。",
-          "SHEIN は否定的なレビューに返信していますか？否定的なレビューの 98% に、多くは 24 時間以内に返信しており、返信に AI を使うことがあります。返信が問題を解決したかどうかは、数字からは分かりません。",
-          "Trustpilot の評価は国別ですか？いいえ。SHEIN のプロフィールは世界共通で、レビューを国別に分けていません。"
+          "SHEIN は Trustpilot で評価が高いですか？ TrustScore は5点満点で3.8、ラベルは「Great」、レビューは353,689件です。星5つが59%、星1つが18%です。",
+          "SHEIN についてよくある苦情は何ですか？ 読んだ星1つのレビュー40件では、配送、返品と返金、欠品や取り違え、商品とサイズ、サポートとアカウントと請求がテーマでした。これは一部のサンプルのテーマで、プロフィール全体の件数ではありません。",
+          "SHEIN は否定的なレビューに返信しますか？ プロフィールによると98%に返信しており、多くは24時間以内で、返信にAIを使う場合があります。返信で問題が解決したかどうかはわかりません。",
+          "Trustpilot の点数は私の国にも当てはまりますか？ いいえ。国別の点数はなく、プロフィールは世界全体で国別には分けていません。配送日数、送料、輸入税、返品は、お住まいの国の SHEIN 公式サイトかアプリで確認してください。",
+          "4CW5Y とは何で、どう使いますか？ Cecília の紹介コードで、会計時に入力するクーポンではありません。このサイトのリンクから SHEIN を開くか、SHEIN のアプリやサイトで 4CW5Y を検索してください。商品、プロモーション、割引のページが開き、どれだけ割り引かれるか、どの商品かは SHEIN が決めます。"
         ]
       }
     ],
@@ -175939,9 +176308,25 @@ export const reviewsData: unknown[] = [
         "slug": "shein-trust-guide-ja"
       },
       {
-        "slug": "shein-vs-temu-ja"
+        "slug": "shein-worth-it-ja"
+      },
+      {
+        "slug": "shein-referral-code-ja"
+      },
+      {
+        "slug": "shein-black-friday-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "配送に時間がかかってもかまわず、安いファッションや雑貨を探しているなら合っています。",
+        "レシートと追跡番号を保管し、ストアの窓口から返金を請求できるなら合っています。"
+      ],
+      "skipIf": [
+        "決まった日までに商品が必要なら合いません。最も多い星1つの苦情は、届かない荷物だからです。",
+        "問題が起きたときに遅いサポートを待ちたくないなら合いません。星1つのレビューでもその点がよく挙がります。"
+      ]
+    }
   },
   {
     "id": 703,
@@ -175960,11 +176345,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026년 11월 기준 SHEIN의 Trustpilot 평점입니다. 리뷰 353,527건에 TrustScore 3.8, 별 한 개 18%, 받지 못한 소포와 환불이라는 부정적 리뷰의 주제, 그리고 숫자가 보여 주는 것과 보여 주지 않는 것을 담았습니다.",
-    "metaDescription": "SHEIN Trustpilot(2026년 11월): TrustScore 3.8, 리뷰 353,527건, 별 다섯 개 59%, 별 한 개 18%. 부정적 리뷰의 주제는 소포와 환불입니다. 결제 전에 할 일도 정리했습니다.",
+    "description": "SHEIN은 Trustpilot에서 리뷰 353,689건으로 5점 만점에 3.8점입니다. 점수가 보여 주는 것, 소포와 환불에 대한 불만, 프로필이 전 세계 단위인 이유.",
+    "metaDescription": "SHEIN 트러스트파일럿 TrustScore 3.8점, 리뷰 353,689건, 별 다섯 개 59%와 별 한 개 18%. 소포와 환불 관련 불만과 점수가 보여 주지 않는 것.",
     "publishedAt": "2026년 10월 29일",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -175978,127 +176363,130 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 답변",
         "paragraphs": [
-          "평점은 괜찮은 편이지만 단서가 있습니다. SHEIN의 Trustpilot TrustScore는 5점 만점에 3.8이고 표시는 \"Great\"이며, 여러 나라 고객이 남긴 리뷰 353,527건을 바탕으로 합니다. 부정적 리뷰의 주제는 받지 못한 소포와 환불이고, 별 한 개는 18%입니다."
+          "SHEIN은 트러스트파일럿에서 TrustScore 3.8점(5점 만점, 등급 “Great”)을 받았고 리뷰는 353,689건입니다. 대부분 별 다섯 개지만 별 한 개 리뷰는 빨리 올라오며, 배송되지 않은 소포와 늦거나 거절된 환불에 몰려 있습니다. 프로필이 전 세계 단위라서, 이 점수만으로는 내 나라로 가는 주문이 어떨지 알 수 없습니다."
         ]
       },
       {
         "heading": "평점이 측정하는 것",
         "paragraphs": [
-          "TrustScore는 Trustpilot 프로필의 평점입니다. 2026년 11월 기준 SHEIN의 TrustScore는 3.8이고, 리뷰는 353,527건이며, 그중 22,625건이 최근 12개월 안에 올라왔습니다. 프로필은 회사가 인증해 관리하며, 페이지에 적힌 대로 Trustpilot 유료 구독을 이용합니다.",
-          "별점 분포는 별 다섯 개 59%, 네 개 12%, 세 개 6%, 두 개 5%, 한 개 18%입니다. 다섯 개와 네 개가 대부분을 차지합니다.",
-          "이 평점은 상품의 품질이 아니라 리뷰를 쓴 사람들의 평가를 모은 것입니다. 상품, 배송, 고객 지원이 별점 하나에 함께 들어갑니다."
+          "TrustScore는 트러스트파일럿 프로필의 평점입니다. 2026년 11월 기준 SHEIN은 “Great” 등급에 3.8점이었고, 리뷰는 353,689건이며 그중 14,994건은 최근 12개월에 올라온 것입니다."
         ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
-          "alt": "SHEIN의 Trustpilot 리뷰 분포를 별 다섯 개부터 한 개까지 막대로 나타낸 그림: 59%, 12%, 6%, 5%, 18%",
-          "caption": "SHEIN의 Trustpilot 리뷰 분포. 그림은 저희가 만들었습니다.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "SHEIN 트러스트파일럿 프로필(www.shein.com), 2026년 11월 23일 기준 조회.",
+          "headers": [
+            "지표",
+            "프로필이 보여 주는 것"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "5점 만점에 3.8, “Great”"
+            ],
+            [
+              "전체 리뷰",
+              "353,689"
+            ],
+            [
+              "최근 12개월 리뷰",
+              "14,994"
+            ],
+            [
+              "별점 분포(5점에서 1점)",
+              "59%, 12%, 6%, 5%, 18%"
+            ],
+            [
+              "프로필 상태",
+              "2015년부터 소유 인증, 유료 구독"
+            ],
+            [
+              "리뷰가 쌓이는 방식",
+              "구매 후 고객에게 리뷰를 요청하는 초대 기능 사용"
+            ],
+            [
+              "부정 리뷰 답변",
+              "98%, 대개 24시간 이내; AI를 쓸 수 있음"
+            ]
+          ]
         }
       },
       {
         "heading": "숫자를 다르게 읽게 하는 세 가지",
         "paragraphs": [
-          "첫째, 별 한 개 18%입니다. 다섯 건 중 한 건 가까이가 최저 평점이고, 이는 별 두 개와 세 개를 합친 11%보다 많습니다.",
-          "둘째, 답변과 해결은 다릅니다. SHEIN은 부정적 리뷰의 98%에 답했고 보통 24시간 이내였습니다. 페이지는 답변에 AI를 쓸 수 있다고도 알립니다. 다만 불만을 제기한 사람의 문제가 해결되었는지는 숫자로 알 수 없습니다.",
-          "셋째, 숫자는 글로벌입니다. 프로필은 나라별로 나뉘지 않아서, 배송비, 배송 기간, 통관 조건이 서로 다른 여러 나라의 고객이 한 평점에 들어 있습니다. 여러분이 계신 나라의 배송이 어떨지는 이 숫자로 알 수 없습니다."
+          "첫째, 초대입니다. 매장이 구매 후 리뷰를 요청하고, 초대를 쓰는 유료 프로필에는 짧은 별 다섯 개 리뷰가 많이 모입니다. 3.8점에는 몇 년치 리뷰와 초대가 함께 들어 있습니다.",
+          "둘째, 최근의 흐름입니다. 우리가 읽은 바로는 별 한 개 리뷰가 별 다섯 개 리뷰보다 훨씬 빨리 올라왔습니다. 가장 최근의 별 한 개 리뷰 40건은 일주일 안에 들어가고, 별 다섯 개 리뷰 40건은 석 달에 걸쳐 있습니다.",
+          "셋째, 답변이 해결은 아닙니다. 매장은 부정 리뷰의 98%에 답했고, 대개 24시간 안이었습니다. 공개 답변이 문제가 해결됐다는 증거가 되지는 않습니다."
         ]
       },
       {
         "heading": "불만에서 나타나는 것",
         "paragraphs": [
-          "2026년 10월 28일에 프로필에서 볼 수 있는 부정적 리뷰의 주제는 배송과 환불입니다:"
+          "2026년 11월 16일부터 23일 사이에 올라온 별 한 개 리뷰 최신 40건을 읽었습니다. 모두 자발적으로 쓴 리뷰였고, 매장은 그중 35건에 답했습니다. 주요 주제는 다음과 같습니다."
         ],
         "bullets": [
-          "소포가 분실되거나 도난당했거나 배송되지 않았고, 배송 완료 사진에 이의가 제기된 경우.",
-          "환불이 늦어지거나 거절된 경우. 회사가 받지 못했다고 말하는 반품도 포함됩니다.",
-          "고객 지원이 느리거나 정해진 문구로만 답하는 경우.",
-          "상품 문제: 사이즈, 품질, 잘못 온 상품이나 빠진 상품."
+          "배송(11건): 소포를 받지 못함, 엉뚱한 주소나 요청하지 않은 픽업 장소로 배송됨, 도착하지 않았는데 배송 완료로 표시됨.",
+          "반품과 환불(9건): 반품은 도착했는데 환불되지 않음, 반품 과정에서 상품이 빠졌다고 함, 환불이 느림.",
+          "소포 안 상품 누락 또는 바뀜(6건).",
+          "상품과 사이즈(5건): 상품 페이지와 다름, 품질, 사이즈가 큼.",
+          "고객 응대, 계정, 요금(9건): 봇 응대만 가능, 계정 정지, 추가 요금, 포인트 게임."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
-          "alt": "배송이 멈춘 채 집이 아직 기다리는 배송 조회 화면 일러스트, 옆에 바코드가 있는 영수증과 되돌아가는 화살표가 있는 동전(환불)",
-          "caption": "저희가 만든 일러스트로, 도착하지 않는 소포와 환불이 불만 주제입니다. 영수증과 운송장 번호를 보관하세요.",
+          "alt": "배송이 멈춘 채 집 모양이 아직 기다리는 배송 추적 화면과, 바코드가 있는 영수증 및 되돌아가는 화살표가 그려진 동전(환불)을 함께 그린 일러스트",
+          "caption": "직접 그린 일러스트: 도착하지 않은 소포와 환불, 불만의 주제입니다. 영수증과 운송장 번호를 보관하세요.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "이것은 리뷰의 주제일 뿐, 주문에 문제가 생길 확률은 아닙니다. 다만 어디를 봐야 하는지는 알려 줍니다. 발송 뒤의 배송 조회, 수령 증거, 그리고 반품과 환불을 위한 회사의 창구입니다."
+          "40건 리뷰에서 나온 주제이지 주문이 잘못되는 빈도를 잰 값이 아닙니다. 어디를 봐야 할지 알려 줍니다. 발송 후 배송 추적, 수령 확인, 반품 영수증, 환불 요청입니다."
         ]
       },
       {
         "heading": "칭찬에서 나타나는 것",
         "paragraphs": [
-          "프로필에서 볼 수 있는 긍정적 리뷰의 주제는 달랐습니다. 눈에 보이는 칭찬 표본이 작았기 때문에, 아래는 주제일 뿐 비율이 아닙니다:"
+          "2026년 8월 29일부터 11월 19일까지 석 달에 걸친 별 다섯 개 리뷰 최신 40건을 읽었습니다. 그중 10건은 매장의 자동 초대에서, 1건은 링크에서, 29건은 자발적으로 올라온 것입니다. 칭찬의 내용은 다음과 같습니다."
         ],
         "bullets": [
-          "낮은 가격.",
-          "다양한 상품.",
-          "가격에 비해 무난한 품질.",
-          "문제없이 도착한 배송."
+          "낮은 가격",
+          "다양한 상품",
+          "빠른 배송",
+          "쉬운 반품과 환불",
+          "가격 대비 괜찮은 품질"
         ],
         "postParagraphs": [
-          "칭찬은 가격, 선택의 폭, 도착한 소포에 대한 것이고, 불만은 오지 않은 소포와 들어오지 않은 환불에 대한 것입니다. 평점은 둘을 합친 것입니다."
+          "이 리뷰 중 일부는 매장 이야기를 아예 하지 않습니다. 점수에 들어가는 별 네 개와 별 두 개 리뷰는 읽지 않았습니다. 칭찬과 불만은 구매 과정의 서로 다른 순간을 말합니다. 카탈로그와 가격 쪽, 도착하지 않은 소포 쪽입니다. 점수는 둘을 함께 더합니다."
         ]
       },
       {
         "heading": "Trustpilot: 누가, 어디에서 평가하나",
         "paragraphs": [
-          "대상 프로필은 www.shein.com의 프로필 하나로, 글로벌 프로필입니다. 리뷰를 나라별로 나누지 않고, 여러분이 계신 나라나 다른 나라에서 온 리뷰가 몇 건인지도 페이지에 나오지 않습니다.",
-          "Trustpilot의 영국 지역 사이트도 같은 프로필과 같은 숫자를 보여 주었습니다. 이 평점은 회사가 전체적으로 어떻게 움직이는지를 말해 줄 뿐, 여러분 주소로 오는 배송이 어떤지를 말해 주지는 않습니다."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-          "alt": "휴대폰에 표시한 SHEIN의 Trustpilot 프로필: 평점 3.8, 별점 분포, 부정적인 리뷰 98%에 대한 답변",
-          "caption": "SHEIN의 Trustpilot 프로필(모바일 화면). 사이트 화면을 캡처하고 두 부분을 확대했습니다.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "우리의 확인 방법",
-        "paragraphs": [
-          "2026년 10월 28일, 로그인하지 않은 상태에서 SHEIN의 Trustpilot 공개 프로필을 읽었습니다. 확인한 항목은 다음과 같습니다:"
-        ],
-        "bullets": [
-          "평점, 리뷰 수, 별점 분포, 부정적 리뷰에 대한 답변율.",
-          "눈에 보이는 리뷰. 주제는 그 리뷰에서 나왔고, Trustpilot의 영국 사이트도 열어 같은 프로필인지 확인했습니다."
-        ],
-        "postParagraphs": [
-          "읽지 않은 것: 답변의 본문, 나라별 리뷰, Trustpilot의 다른 지역 사이트. 그래서 이 글은 답변이 문제를 해결하는지 말하지 않습니다.",
-          "숫자는 매달 바뀝니다. 구매하는 날 프로필을 확인하세요.",
-          "Cecília는 SHEIN의 제휴 파트너입니다. 이 사이트의 링크로 구매하면 수수료가 생길 수 있고, 여러분에게 추가 비용은 없습니다. 숫자는 공개 프로필의 것이며 이 때문에 달라지지 않습니다."
-        ],
-        "links": [
-          {
-            "label": "Trustpilot의 SHEIN 프로필",
-            "href": "https://www.trustpilot.com/review/www.shein.com"
-          }
+          "www.shein.com 프로필은 여러 나라 고객의 리뷰를 함께 모으며, 점수를 나라별로 나누지 않습니다. 페이지에는 또 회사가 규제 기관의 주목을 받았다는 안내가 있습니다. Trustpilot은 이 안내를 중립적으로, 정보 제공 목적으로 표시한다고 밝힙니다. 우리도 같은 방식으로 옮깁니다. 프로필에 있는 내용이고, 점수는 이를 설명하지 않습니다.",
+          "내 나라로 가는 주문이라면, 거주 국가의 SHEIN 공식 사이트나 앱에서 배송비, 배송 기간, 수입 부가세나 관세, 반품 규정을 확인하세요."
         ]
       },
       {
         "heading": "Trustpilot으로 SHEIN을 믿을 수 있을까요?",
         "paragraphs": [
-          "Trustpilot으로 보면 SHEIN은 평점이 좋은 편이고 답변도 합니다. 2026년 11월 기준 TrustScore 3.8, 리뷰 353,527건 중 59%가 별 다섯 개였고, 부정적 리뷰의 98%에 답변이 달렸습니다.",
-          "단서는 세 가지입니다. 부정적 리뷰의 주제가 받지 못한 소포와 환불이고 별 한 개가 18%라는 점, 답변율이 높아도 문제가 해결되었다는 뜻은 아니라는 점, 그리고 프로필이 글로벌이어서 회원님이 계신 나라의 배송을 보여 주지 않는다는 점입니다."
-        ]
+          "Trustpilot 기준으로 매장은 5점 만점에 3.8점이고, 별 다섯 개 리뷰가 다수이며 별 한 개가 18%입니다. 매장은 부정 리뷰의 98%에 답합니다. 점수를 끌어내리는 것은 두 가지입니다. 소포와 돈에 관한 빠른 별 한 개 불만, 그리고 전 세계 단위의 프로필입니다. 이 점수는 매장이 고객을 전반적으로 어떻게 대하는지를 보여 줄 뿐, 특정 주문이 내 나라에 어떻게 도착할지는 말해 주지 않습니다."
+        ],
+        "emphasis": "점수는 SHEIN이 고객을 전반적으로 어떻게 대하는지를 말하고, 불만은 위험이 어디에 있는지를 보여 줍니다. 소포와 환불입니다. 두 가지의 증거를 보관하세요."
       },
       {
         "heading": "결제 전에",
         "paragraphs": [
-          "숫자는 무엇을 보관해야 하는지 알려 줍니다. 결제 내역과 주문의 운송장 번호를 저장하세요. 이 둘이 무엇을 결제했고 소포가 어디에서 멈췄는지 보여 줍니다.",
-          "소포가 오지 않으면 사이트나 앱의 회사 채널로 환불을 요청하세요.",
-          "반품 규정은 [SHEIN 블랙프라이데이 가이드](/ko/reviews/shein-black-friday-ko)에 있습니다. 누가 SHEIN을 운영하고 어느 나라 회사인지는 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko)에서 볼 수 있습니다.",
+          "결제 영수증과 운송장 번호를 보관하세요. 무엇을 결제했는지, 소포가 어디에서 멈췄는지를 보여 줍니다.",
+          "소포가 도착하지 않았거나 상품이 잘못 왔다면, 웹사이트나 앱에서 매장의 자체 채널을 통해 환불을 요청하세요. 무언가를 반송한다면 반품 영수증도 보관하세요.",
+          "SHEIN을 누가 운영하고 회사가 어느 나라 회사인지는 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko)에서 볼 수 있습니다.",
           "구매를 결정했다면 [SHEIN 페이지](/ko/coupons/shein)가 공식 사이트로 연결합니다."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "SHEIN의 Trustpilot 평점은 좋은가요? TrustScore는 5점 만점에 3.8, 표시는 \"Great\"였고, 리뷰 353,527건 중 59%가 별 다섯 개, 18%가 별 한 개였습니다.",
-          "SHEIN에 대한 가장 흔한 불만은 무엇인가요? 부정적 리뷰의 주제는 분실·도난·미배송 소포, 늦거나 거절된 환불, 느리거나 정형화된 고객 지원, 그리고 사이즈·품질·오배송·누락 같은 상품 문제였습니다.",
-          "SHEIN은 부정적 리뷰에 답하나요? 부정적 리뷰의 98%에 보통 24시간 이내로 답했고, 답변에 AI를 쓸 수 있습니다. 답변이 문제를 해결했는지는 숫자로 알 수 없습니다.",
-          "Trustpilot 평점은 나라별인가요? 아닙니다. SHEIN의 프로필은 글로벌이고 리뷰를 나라별로 나누지 않습니다."
+          "SHEIN은 트러스트파일럿에서 점수가 좋은가요? TrustScore는 5점 만점에 3.8점, 등급 “Great”이며 리뷰는 353,689건입니다. 별 다섯 개가 59%, 별 한 개가 18%입니다.",
+          "SHEIN에 대한 가장 흔한 불만은 무엇인가요? 우리가 읽은 별 한 개 리뷰 40건에서 주제는 배송, 반품과 환불, 누락되거나 바뀐 상품, 상품과 사이즈, 고객 응대와 계정 및 요금이었습니다. 표본에서 나온 주제이며 전체 프로필의 수치가 아닙니다.",
+          "SHEIN은 부정적인 리뷰에 답하나요? 프로필에 따르면 98%에 답했고, 대개 24시간 이내이며, 답변에 AI를 쓸 수 있습니다. 답변이 문제를 해결했는지는 알 수 없습니다.",
+          "Trustpilot 점수가 내 나라에도 적용되나요? 아니요. 나라별 점수는 없습니다. 프로필은 전 세계 단위이며 나라별로 나누지 않습니다. 배송 기간, 배송비, 수입세, 반품은 거주 국가의 공식 사이트나 앱에서 확인하세요.",
+          "4CW5Y 코드는 무엇이고 어떻게 쓰나요? Cecília의 추천 코드이며, 결제할 때 넣는 쿠폰이 아닙니다. 이 사이트의 링크로 SHEIN을 열거나, SHEIN 앱이나 웹사이트에서 4CW5Y를 검색하세요. 상품, 프로모션, 할인 모음이 열리며, 얼마나 할인되고 어떤 상품에 적용되는지는 SHEIN이 정합니다."
         ]
       }
     ],
@@ -176116,9 +176504,25 @@ export const reviewsData: unknown[] = [
         "slug": "shein-trust-guide-ko"
       },
       {
-        "slug": "shein-vs-temu-vs-ali-ko"
+        "slug": "shein-worth-it-ko"
+      },
+      {
+        "slug": "shein-referral-code-ko"
+      },
+      {
+        "slug": "shein-black-friday-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "긴 배송 기간을 감수할 수 있고, 저렴한 패션과 생활용품을 찾는다면 맞습니다.",
+        "영수증과 운송장 번호를 보관하고, 매장 채널로 환불을 요청할 줄 안다면 맞습니다."
+      ],
+      "skipIf": [
+        "정해진 날짜까지 상품이 꼭 필요하다면 맞지 않습니다. 가장 흔한 별 한 개 불만이 도착하지 않는 소포이기 때문입니다.",
+        "문제가 생겼을 때 느린 응대를 기다리고 싶지 않다면 맞지 않습니다. 별 한 개 리뷰에서 그 점을 자주 지적합니다."
+      ]
+    }
   },
   {
     "id": 704,
@@ -176137,11 +176541,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年11月 SHEIN 在 Trustpilot 的评分：TrustScore 3.8，共 353,527 条评价，18% 为一星；负面评价的主题是包裹未送达和退款。看看数据说明了什么，又没有说明什么。",
-    "metaDescription": "SHEIN 在 Trustpilot（2026年11月）：评分 3.8，共 353,527 条评价，59% 五星、18% 一星。负面评价的主题是包裹未送达和退款。付款之前该做什么，这里也有。",
+    "description": "SHEIN 在 Trustpilot 上满分 5 分得 3.8，共 353,689 条评价。评分衡量什么、包裹与退款的投诉，以及为什么这是全球资料。",
+    "metaDescription": "SHEIN 在 Trustpilot：TrustScore 3.8，353,689 条评价，59% 为五星、18% 为一星。包裹与退款投诉，以及评分没有显示的内容。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -176155,127 +176559,130 @@ export const reviewsData: unknown[] = [
       {
         "heading": "简要回答",
         "paragraphs": [
-          "口碑不错，但有保留。SHEIN 在 Trustpilot 的 TrustScore 为 3.8（满分 5 分），网站标注为“Great”，基于多个国家顾客留下的 353,527 条评价。负面评价的主题是包裹未送达和退款，一星评价占 18%。"
+          "SHEIN 在 Trustpilot 的 TrustScore 为 3.8（满分 5），标签为「Great」，共 353,689 条评价。多数是五星，但一星评价来得快，集中在没有送达的包裹和拖延或被拒的退款上。这是全球资料，评分无法说明寄到你所在国家的订单会怎样。"
         ]
       },
       {
         "heading": "分数衡量的是什么",
         "paragraphs": [
-          "TrustScore 是主页在 Trustpilot 上的评分。2026年11月，SHEIN 为 3.8，共 353,527 条评价，其中 22,625 条发布于最近 12 个月。主页由公司认领并管理，并且如页面所写，使用 Trustpilot 的付费订阅。",
-          "星级分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起来占了大部分。",
-          "这个分数汇总的是写评价的人的感受，不是商品的质量。商品、配送和客服被合在同一颗星里。"
+          "TrustScore 是 Trustpilot 上该资料的评分。2026 年 11 月，SHEIN 为 3.8，标签「Great」，共 353,689 条评价，其中 14,994 条在最近 12 个月发布。"
         ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
-          "alt": "从五星到一星的条形图，显示 SHEIN 在 Trustpilot 的评价分布：59%、12%、6%、5% 和 18%",
-          "caption": "SHEIN 在 Trustpilot 的评价分布。图表由我们绘制。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "SHEIN 在 Trustpilot 的资料（www.shein.com），2026 年 11 月 23 日查看。",
+          "headers": [
+            "指标",
+            "资料显示的内容"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "满分 5 分得 3.8，「Great」"
+            ],
+            [
+              "评价总数",
+              "353,689"
+            ],
+            [
+              "最近 12 个月的评价",
+              "14,994"
+            ],
+            [
+              "星级分布（五星到一星）",
+              "59%、12%、6%、5%、18%"
+            ],
+            [
+              "资料状态",
+              "2015 年起已认领，有付费套餐"
+            ],
+            [
+              "评价来源",
+              "商家在购买后邀请顾客评价"
+            ],
+            [
+              "对负面评价的回复",
+              "98%，通常在 24 小时内；可能使用 AI"
+            ]
+          ]
         }
       },
       {
         "heading": "改变读法的三点",
         "paragraphs": [
-          "第一，一星占 18%。差不多每五条就有一条是最低分，比二星和三星加起来的 11% 还多。",
-          "第二，回复不等于解决。SHEIN 回复了 98% 的负面评价，通常在 24 小时内。页面还提示，公司可能在回复中使用 AI。但投诉者的问题有没有解决，这些数字说明不了。",
-          "第三，数字是全球性的。主页不按国家区分，运费、时效和清关各不相同的多国顾客被放在同一个分数里。送到你所在国家会怎么样，这些数字说明不了。"
+          "第一，邀请。商家在购买后邀请评价，付费并邀请的资料会吸引大量简短的五星评价。这个 3.8 是多年评价和邀请加在一起的结果。",
+          "第二，近期的走势。依我们的阅读，一星评价出现的速度远快于五星评价：最新 40 条一星评价只覆盖一周，最新 40 条五星评价则跨越三个月。",
+          "第三，回复不等于解决。商家回复了 98% 的负面评价，通常在 24 小时内。公开回复并不能证明问题已经解决。"
         ]
       },
       {
         "heading": "投诉里出现了什么",
         "paragraphs": [
-          "2026年10月28日主页上可见的负面评价，主题是配送和退款："
+          "我们读了 2026 年 11 月 16 日至 23 日发布的最新 40 条一星评价。全部是自发的，商家回复了其中 35 条。主题如下："
         ],
         "bullets": [
-          "包裹丢失、被盗或未送达，配送完成的照片受到质疑。",
-          "退款延迟或被拒，包括店家称没有收到的退货。",
-          "客服回应慢，或只用模板式的回复。",
-          "产品问题：尺码、质量、发错货或少件。"
+          "配送（11 条）：包裹没收到，寄到错误地址或未选择的自提点，或显示已送达但实际没到。",
+          "退货和退款（9 条）：退货已到但没有退款，商家称退货时少了东西，退款慢。",
+          "包裹内缺件或错件（6 条）。",
+          "商品和尺码（5 条）：与商品页不符、质量、尺码偏大。",
+          "客服、账户和费用（9 条）：只有机器人客服，账户被冻结，额外收费，积分游戏。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
-          "alt": "物流追踪界面插图：派送停住，房子还在等待，旁边是带条形码的凭证和一枚带返回箭头的硬币，代表退款",
-          "caption": "我们的插图：包裹没到和退款，是投诉的主题。请保存凭证和物流单号。",
+          "alt": "一幅插图：物流追踪页面上配送停滞，房子仍在等待，旁边是带条形码的收据和带回箭头的硬币，代表退款",
+          "caption": "本站绘制的插图：没有送达的包裹和退款，是投诉的主题。请保存收据和物流单号。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "这是评价里的主题，不是你的订单出问题的概率。但它指出了该留意的地方：发货后的物流跟踪、签收时的凭证，以及退货和退款要找的店家渠道。"
+          "这些是 40 条评价中的主题，并不是衡量订单出错频率的数字。它们说明应该查看哪里：发货后的物流追踪、签收证明、退货收据和退款申请。"
         ]
       },
       {
         "heading": "好评里出现了什么",
         "paragraphs": [
-          "主页上可见的正面评价，主题不一样。可见的好评样本很小，所以下面只是主题，不是比例："
+          "我们读了 2026 年 8 月 29 日至 11 月 19 日、跨越三个月的最新 40 条五星评价：其中 10 条来自商家的自动邀请，1 条来自链接，29 条是自发的。好评主要谈到："
         ],
         "bullets": [
           "价格低。",
-          "品种多。",
-          "以这个价格来说质量尚可。",
-          "配送顺利，没有问题。"
+          "选择丰富。",
+          "配送快。",
+          "退货和退款方便。",
+          "性价比好，质量不错。"
         ],
         "postParagraphs": [
-          "好评说的是价格、选择和收到的包裹；投诉说的是没收到的包裹和没到账的退款。分数把两者合在一起。"
+          "其中一些评价根本没有提到商家。我们没有读四星和二星评价，它们同样计入总分。好评和投诉描述的是购物过程的不同环节：一边是商品目录和价格，另一边是没有送达的包裹。总分把两者加在一起。"
         ]
       },
       {
         "heading": "Trustpilot：谁在评价，来自哪里",
         "paragraphs": [
-          "对象是 www.shein.com 这一个主页，它是全球性的。评价不按国家区分，页面也没有说其中有多少来自你所在的国家或其他地方。",
-          "Trustpilot 的英国地区站显示的是同一个主页和同样的数字。这个分数说的是店家整体的表现，不是送到你地址的配送怎么样。"
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-          "alt": "手机上的 SHEIN Trustpilot 页面：评分 3.8、星级分布，以及 98% 的差评有回复",
-          "caption": "SHEIN 在 Trustpilot 的页面（手机版）。网站截图，放大了其中两处。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "我们的核查",
-        "paragraphs": [
-          "2026年10月28日，在未登录的情况下读取了 SHEIN 在 Trustpilot 的公开主页，看了这些内容："
-        ],
-        "bullets": [
-          "分数、评价数量、星级分布，以及负面评价的回复率。",
-          "可见的评价，主题就来自这些评价；还打开了 Trustpilot 的英国站，确认它显示的是同一个主页。"
-        ],
-        "postParagraphs": [
-          "没有读的：回复的文字、按国家划分的评价，以及 Trustpilot 的其他地区站。所以本文不说这些回复是否解决了问题。",
-          "数字每个月都在变，请在购买当天查看主页。",
-          "Cecília 是 SHEIN 的联盟推广者：通过本站链接购买可能产生佣金，不会增加你的花费。这不会改变数字，它们来自公开主页。"
-        ],
-        "links": [
-          {
-            "label": "SHEIN 在 Trustpilot 的主页",
-            "href": "https://www.trustpilot.com/review/www.shein.com"
-          }
+          "www.shein.com 资料汇集了多个国家顾客的评价，没有按国家拆分评分。页面还提到，该公司受到监管机构的关注。Trustpilot 说明，这一信息是中立展示、仅供参考的；我们也如实转述。它就在资料里，而评分本身并没有解释它。",
+          "如果是寄到你所在国家的订单，请在你所在国家的 SHEIN 官方网站或应用中核对运费、时效、进口增值税或关税，以及退货规则。"
         ]
       },
       {
         "heading": "凭 Trustpilot 可以信任 SHEIN 吗？",
         "paragraphs": [
-          "从 Trustpilot 来看，SHEIN 的评分不错，也会回复。2026年11月，TrustScore 为 3.8，353,527 条评价中 59% 是五星，98% 的负面评价得到了回复。",
-          "保留之处有三点：负面评价的主题是包裹未送达和退款，一星占 18%；回复率再高，也不说明问题已经解决；主页是全球性的，看不出你所在国家的配送情况。"
-        ]
+          "根据 Trustpilot，该商家得分 3.8（满分 5），五星评价占多数，一星占 18%，并回复了 98% 的负面评价。有两件事拖低了评分：关于包裹和钱的快速一星投诉，以及全球资料的性质。评分说明的是商家整体如何对待顾客，并不能说明某个订单寄到你所在国家会怎样。"
+        ],
+        "emphasis": "评分说明 SHEIN 整体如何对待顾客，投诉则显示风险在哪里：包裹和退款。这两方面都请保留证据。"
       },
       {
         "heading": "付款之前",
         "paragraphs": [
-          "数字告诉你该留什么。保存付款凭证和订单的物流单号：这两样能证明你付了什么、包裹停在了哪里。",
-          "如果包裹没到，通过店家的渠道申请退款，在网站或应用里操作。",
-          "退货规则见 [SHEIN 黑色星期五指南](/zh-hans/reviews/shein-black-friday-zh-hans)。想知道谁在运营 SHEIN、它是哪个国家的公司，见 [SHEIN 可靠吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)。",
+          "保存付款凭证和物流单号。它们能证明你付了什么，以及包裹停在了哪里。",
+          "如果包裹没到或商品有误，请通过商家的网站或应用内渠道申请退款；如果要寄回东西，也请保存退货收据。",
+          "想知道谁在运营 SHEIN、公司属于哪个国家，请阅读 [SHEIN 可靠吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)。",
           "如果你决定购买，[SHEIN 页面](/zh-hans/coupons/shein)会带你去官方网站。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "SHEIN 在 Trustpilot 上的评分好吗？TrustScore 为 3.8（满分 5 分），网站标注为“Great”，共 353,527 条评价，59% 是五星，18% 是一星。",
-          "关于 SHEIN 最常见的投诉是什么？负面评价的主题是包裹丢失、被盗或未送达，退款延迟或被拒，客服回应慢或模板化，以及尺码、质量、发错货或少件等产品问题。",
-          "SHEIN 会回复负面评价吗？回复了 98% 的负面评价，通常在 24 小时内，回复可能使用 AI。这些数字说明不了回复是否解决了问题。",
-          "Trustpilot 的分数是按国家区分的吗？不是。SHEIN 的主页是全球性的，评价不按国家区分。"
+          "SHEIN 在 Trustpilot 上评分好吗？TrustScore 为满分 5 分的 3.8，标签「Great」，共 353,689 条评价；59% 为五星，18% 为一星。",
+          "关于 SHEIN 最常见的投诉是什么？我们读的 40 条一星评价涉及：配送、退货和退款、缺件或错件、商品和尺码、客服、账户和费用。这些是样本中的主题，不是整个资料的数量。",
+          "SHEIN 会回复负面评价吗？据资料显示，商家回复了 98%，通常在 24 小时内，回复可能使用 AI。回复并不能证明问题已经解决。",
+          "Trustpilot 的评分适用于我的国家吗？不适用。没有分国家的评分，资料是全球性的，不按国家拆分。请在你所在国家的 SHEIN 官方网站或应用中核对时效、运费、进口税和退货。",
+          "4CW5Y 是什么，怎么用？它是Cecília 的推荐码，不是结账时输入的优惠券。通过本站的链接打开 SHEIN，或在 SHEIN 应用或网站搜索 4CW5Y：会打开一个包含商品、促销和折扣的页面，折扣多少、适用哪些商品由 SHEIN 决定。"
         ]
       }
     ],
@@ -176293,9 +176700,25 @@ export const reviewsData: unknown[] = [
         "slug": "shein-trust-guide-zh-hans"
       },
       {
-        "slug": "shein-vs-temu-zh-hans"
+        "slug": "shein-worth-it-zh-hans"
+      },
+      {
+        "slug": "shein-referral-code-zh-hans"
+      },
+      {
+        "slug": "shein-black-friday-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你能接受较长的配送时间，并想以低价购买服饰和家居用品。",
+        "你会保存收据和物流单号，并知道如何通过商家渠道申请退款。"
+      ],
+      "skipIf": [
+        "你需要在固定日期前拿到商品，因为最常见的一星投诉就是包裹没到。",
+        "你不想等待缓慢的客服，很多一星评价都抱怨这一点。"
+      ]
+    }
   },
   {
     "id": 705,
@@ -176314,11 +176737,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年11月 SHEIN 在 Trustpilot 的評分：TrustScore 3.8，共 353,527 則評價，18% 為一星；負面評價的主題是包裹未送達和退款。看看數據說明了什麼，又沒有說明什麼。",
-    "metaDescription": "SHEIN 在 Trustpilot（2026年11月）：評分 3.8，共 353,527 則評價，59% 五星、18% 一星。負面評價的主題是包裹未送達和退款。付款之前該做什麼，這裡也有。",
+    "description": "SHEIN 在 Trustpilot 上滿分 5 分得 3.8，共 353,689 則評價。評分衡量什麼、包裹與退款的投訴，以及為什麼這是全球資料。",
+    "metaDescription": "SHEIN 在 Trustpilot：TrustScore 3.8，353,689 則評價，59% 為五星、18% 為一星。包裹與退款投訴，以及評分沒有顯示的內容。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -176332,127 +176755,130 @@ export const reviewsData: unknown[] = [
       {
         "heading": "簡要回答",
         "paragraphs": [
-          "口碑不錯，但有保留。SHEIN 在 Trustpilot 的 TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，依據多個國家顧客留下的 353,527 則評價。負面評價的主題是包裹未送達和退款，一星評價佔 18%。"
+          "SHEIN 在 Trustpilot 的 TrustScore 為 3.8（滿分 5），標籤為「Great」，共 353,689 則評價。多數是五星，但一星評價來得快，集中在沒有送達的包裹和拖延或被拒的退款上。這是全球資料，評分無法說明寄到你所在國家的訂單會怎樣。"
         ]
       },
       {
         "heading": "分數衡量的是什麼",
         "paragraphs": [
-          "TrustScore 是檔案在 Trustpilot 上的評分。2026年11月，SHEIN 為 3.8，共 353,527 則評價，其中 22,625 則發布於最近 12 個月。檔案由公司認領並管理，而且如頁面所寫，使用 Trustpilot 的付費訂閱。",
-          "星級分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起來佔了大部分。",
-          "這個分數彙整的是寫評價的人的感受，不是商品的品質。商品、配送和客服被合在同一顆星裡。"
+          "TrustScore 是 Trustpilot 上該資料的評分。2026 年 11 月，SHEIN 為 3.8，標籤「Great」，共 353,689 則評價，其中 14,994 則在最近 12 個月發布。"
         ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
-          "alt": "從五星到一星的長條圖，顯示 SHEIN 在 Trustpilot 的評價分布：59%、12%、6%、5% 和 18%",
-          "caption": "SHEIN 在 Trustpilot 的評價分布。圖表由我們繪製。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "SHEIN 在 Trustpilot 的資料（www.shein.com），2026 年 11 月 23 日查看。",
+          "headers": [
+            "指標",
+            "資料顯示的內容"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "滿分 5 分得 3.8，「Great」"
+            ],
+            [
+              "評價總數",
+              "353,689"
+            ],
+            [
+              "最近 12 個月的評價",
+              "14,994"
+            ],
+            [
+              "星級分布（五星到一星）",
+              "59%、12%、6%、5%、18%"
+            ],
+            [
+              "資料狀態",
+              "2015 年起已認領，有付費方案"
+            ],
+            [
+              "評價來源",
+              "商家在購買後邀請顧客評價"
+            ],
+            [
+              "對負面評價的回覆",
+              "98%，通常在 24 小時內；可能使用 AI"
+            ]
+          ]
         }
       },
       {
         "heading": "改變讀法的三點",
         "paragraphs": [
-          "第一，一星佔 18%。差不多每五則就有一則是最低分，比二星和三星加起來的 11% 還多。",
-          "第二，回覆不等於解決。SHEIN 回覆了 98% 的負面評價，通常在 24 小時內。頁面還提醒，公司可能在回覆中使用 AI。但投訴者的問題有沒有解決，這些數字說明不了。",
-          "第三，數字是全球性的。檔案不按國家或地區區分，運費、時效和清關各不相同的多國顧客被放在同一個分數裡。送到你所在地會怎麼樣，這些數字說明不了。"
+          "第一，邀請。商家在購買後邀請評價，付費並邀請的資料會吸引大量簡短的五星評價。這個 3.8 是多年評價和邀請加在一起的結果。",
+          "第二，近期的走勢。依我們的閱讀，一星評價出現的速度遠快於五星評價：最新 40 則一星評價只涵蓋一週，最新 40 則五星評價則跨越三個月。",
+          "第三，回覆不等於解決。商家回覆了 98% 的負面評價，通常在 24 小時內。公開回覆並不能證明問題已經解決。"
         ]
       },
       {
         "heading": "投訴裡出現了什麼",
         "paragraphs": [
-          "2026年10月28日檔案上可見的負面評價，主題是配送和退款："
+          "我們讀了 2026 年 11 月 16 日至 23 日發布的最新 40 則一星評價。全部是自發的，商家回覆了其中 35 則。主題如下："
         ],
         "bullets": [
-          "包裹遺失、被竊或未送達，配送完成的照片受到質疑。",
-          "退款延遲或被拒，包括店家稱沒有收到的退貨。",
-          "客服回應慢，或只用罐頭式的回覆。",
-          "商品問題：尺碼、品質、寄錯貨或少件。"
+          "配送（11 則）：包裹沒收到，寄到錯誤地址或未選擇的取貨點，或顯示已送達但實際沒到。",
+          "退貨和退款（9 則）：退貨已到但沒有退款，商家稱退貨時少了東西，退款慢。",
+          "包裹內缺件或錯件（6 則）。",
+          "商品和尺寸（5 則）：與商品頁不符、品質、尺碼偏大。",
+          "客服、帳戶和費用（9 則）：只有機器人客服，帳戶被凍結，額外收費，積分遊戲。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
-          "alt": "物流追蹤畫面插圖：配送停住，房子還在等待，旁邊是帶條碼的憑證和一枚帶返回箭頭的硬幣，代表退款",
-          "caption": "我們的插圖：包裹沒到和退款，是投訴的主題。請保存憑證和物流單號。",
+          "alt": "一幅插圖：物流追蹤頁面上配送停滯，房子仍在等待，旁邊是帶條碼的收據和帶回箭頭的硬幣，代表退款",
+          "caption": "本站繪製的插圖：沒有送達的包裹和退款，是投訴的主題。請保存收據和物流單號。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "這是評價裡的主題，不是你的訂單出問題的機率。但它指出了該留意的地方：出貨後的物流追蹤、簽收時的憑證，以及退貨和退款要找的店家管道。"
+          "這些是 40 則評價中的主題，並不是衡量訂單出錯頻率的數字。它們說明應該查看哪裡：發貨後的物流追蹤、簽收證明、退貨收據和退款申請。"
         ]
       },
       {
         "heading": "好評裡出現了什麼",
         "paragraphs": [
-          "檔案上可見的正面評價，主題不一樣。可見的好評樣本很小，所以下面只是主題，不是比例："
+          "我們讀了 2026 年 8 月 29 日至 11 月 19 日、跨越三個月的最新 40 則五星評價：其中 10 則來自商家的自動邀請，1 則來自連結，29 則是自發的。好評主要談到："
         ],
         "bullets": [
           "價格低。",
-          "款式多。",
-          "以這個價格來說品質尚可。",
-          "配送順利，沒有問題。"
+          "選擇豐富。",
+          "配送快。",
+          "退貨和退款方便。",
+          "性價比好，品質不錯。"
         ],
         "postParagraphs": [
-          "好評說的是價格、選擇和收到的包裹；投訴說的是沒收到的包裹和沒入帳的退款。分數把兩者合在一起。"
+          "其中一些評價根本沒有提到商家。我們沒有讀四星和二星評價，它們同樣計入總分。好評和投訴描述的是購物過程的不同環節：一邊是商品目錄和價格，另一邊是沒有送達的包裹。總分把兩者加在一起。"
         ]
       },
       {
         "heading": "Trustpilot：誰在評價，來自哪裡",
         "paragraphs": [
-          "對象是 www.shein.com 這一個檔案，它是全球性的。評價不按國家或地區區分，頁面也沒有說其中有多少來自你所在的地方或其他地方。",
-          "Trustpilot 的英國地區站顯示的是同一個檔案和同樣的數字。這個分數說的是店家整體的表現，不是送到你地址的配送怎麼樣。"
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-          "alt": "手機上的 SHEIN Trustpilot 頁面：評分 3.8、星級分布，以及 98% 的負評有回覆",
-          "caption": "SHEIN 在 Trustpilot 的頁面（手機版）。網站截圖，放大了其中兩處。",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "我們的查核",
-        "paragraphs": [
-          "2026年10月28日，在未登入的情況下讀取了 SHEIN 在 Trustpilot 的公開檔案，看了這些內容："
-        ],
-        "bullets": [
-          "分數、評價數量、星級分布，以及負面評價的回覆率。",
-          "可見的評價，主題就來自這些評價；還打開了 Trustpilot 的英國站，確認它顯示的是同一個檔案。"
-        ],
-        "postParagraphs": [
-          "沒有讀的：回覆的文字、按國家或地區劃分的評價，以及 Trustpilot 的其他地區站。所以本文不說這些回覆是否解決了問題。",
-          "數字每個月都在變，請在購買當天查看檔案。",
-          "Cecília 是 SHEIN 的聯盟行銷夥伴：透過本站連結購買可能產生傭金，不會增加你的花費。這不會改變數字，它們來自公開檔案。"
-        ],
-        "links": [
-          {
-            "label": "SHEIN 在 Trustpilot 的檔案",
-            "href": "https://www.trustpilot.com/review/www.shein.com"
-          }
+          "www.shein.com 資料匯集了多個國家顧客的評價，沒有按國家拆分評分。頁面還提到，該公司受到監管機構的關注。Trustpilot 說明，這一資訊是中立呈現、僅供參考的；我們也照實轉述。它就在資料裡，而評分本身並沒有解釋它。",
+          "如果是寄到你所在國家的訂單，請在你所在國家或地區的 SHEIN 官方網站或 App 中核對運費、時效、進口增值稅或關稅，以及退貨規則。"
         ]
       },
       {
         "heading": "憑 Trustpilot 可以信任 SHEIN 嗎？",
         "paragraphs": [
-          "從 Trustpilot 來看，SHEIN 的評分不錯，也會回覆。2026年11月，TrustScore 為 3.8，353,527 則評價中 59% 是五星，98% 的負面評價得到了回覆。",
-          "保留之處有三點：負面評價的主題是包裹未送達和退款，一星佔 18%；回覆率再高，也不說明問題已經解決；檔案是全球性的，看不出你所在地的配送情況。"
-        ]
+          "根據 Trustpilot，該商家得分 3.8（滿分 5），五星評價佔多數，一星佔 18%，並回覆了 98% 的負面評價。有兩件事拖低了評分：關於包裹和錢的快速一星投訴，以及全球資料的性質。評分說明的是商家整體如何對待顧客，並不能說明某個訂單寄到你所在國家會怎樣。"
+        ],
+        "emphasis": "評分說明 SHEIN 整體如何對待顧客，投訴則顯示風險在哪裡：包裹和退款。這兩方面都請保留證據。"
       },
       {
         "heading": "付款之前",
         "paragraphs": [
-          "數字告訴你該留什麼。保存付款憑證和訂單的物流單號：這兩樣能證明你付了什麼、包裹停在了哪裡。",
-          "如果包裹沒到，透過店家的管道申請退款，在網站或 App 裡操作。",
-          "退貨規則見 [SHEIN 黑色星期五指南](/zh-hant/reviews/shein-black-friday-zh-hant)。想知道誰在營運 SHEIN、它是哪個國家的公司，見 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)。",
+          "保存付款憑證和物流單號。它們能證明你付了什麼，以及包裹停在了哪裡。",
+          "如果包裹沒到或商品有誤，請透過商家的網站或 App 內管道申請退款；如果要寄回東西，也請保存退貨收據。",
+          "想知道誰在營運 SHEIN、公司屬於哪個國家，請閱讀 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)。",
           "如果你決定購買，[SHEIN 頁面](/zh-hant/coupons/shein)會帶你去官方網站。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "SHEIN 在 Trustpilot 上的評分好嗎？TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，共 353,527 則評價，59% 是五星，18% 是一星。",
-          "關於 SHEIN 最常見的投訴是什麼？負面評價的主題是包裹遺失、被竊或未送達，退款延遲或被拒，客服回應慢或罐頭式回覆，以及尺碼、品質、寄錯貨或少件等商品問題。",
-          "SHEIN 會回覆負面評價嗎？回覆了 98% 的負面評價，通常在 24 小時內，回覆可能使用 AI。這些數字說明不了回覆是否解決了問題。",
-          "Trustpilot 的分數是按國家或地區區分的嗎？不是。SHEIN 的檔案是全球性的，評價不按國家或地區區分。"
+          "SHEIN 在 Trustpilot 上評分好嗎？TrustScore 為滿分 5 分的 3.8，標籤「Great」，共 353,689 則評價；59% 為五星，18% 為一星。",
+          "關於 SHEIN 最常見的投訴是什麼？我們讀的 40 則一星評價涉及：配送、退貨和退款、缺件或錯件、商品和尺寸，以及客服、帳戶和費用。這些是樣本中的主題，不是整個資料的數量。",
+          "SHEIN 會回覆負面評價嗎？據資料顯示，商家回覆了 98%，通常在 24 小時內，回覆可能使用 AI。回覆並不能證明問題已經解決。",
+          "Trustpilot 的評分適用於我的國家嗎？不適用。沒有分國家的評分，資料是全球性的，不按國家拆分。請在你所在國家或地區的 SHEIN 官方網站或 App 中核對時效、運費、進口稅和退貨。",
+          "4CW5Y 是什麼，怎麼用？它是Cecília 的推薦碼，不是結帳時輸入的優惠券。透過本站的連結打開 SHEIN，或在 SHEIN App 或網站搜尋 4CW5Y：會打開一個包含商品、促銷和折扣的頁面，折扣多少、適用哪些商品由 SHEIN 決定。"
         ]
       }
     ],
@@ -176470,9 +176896,25 @@ export const reviewsData: unknown[] = [
         "slug": "shein-trust-guide-zh-hant"
       },
       {
-        "slug": "shein-vs-shopee-zh-hant"
+        "slug": "shein-worth-it-zh-hant"
+      },
+      {
+        "slug": "shein-referral-code-zh-hant"
+      },
+      {
+        "slug": "shein-black-friday-zh-hant"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你能接受較長的配送時間，並想以低價買服飾和家居用品。",
+        "你會保存收據和物流單號，並知道如何透過商家管道申請退款。"
+      ],
+      "skipIf": [
+        "你需要在固定日期前拿到商品，因為最常見的一星投訴就是包裹沒到。",
+        "你不想等待緩慢的客服，很多一星評價都抱怨這一點。"
+      ]
+    }
   },
   {
     "id": 706,
@@ -244067,7 +244509,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O 4CW5Y é código de indicação da SHEIN para o primeiro pedido e os seguintes: pesquise no app ou no site e veja a seleção de promoções e descontos.",
     "publishedAt": "13 de novembro de 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-pt-v2.webp",
@@ -244148,7 +244590,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para os pedidos seguintes, o código é o mesmo: o 4CW5Y segue valendo como código de indicação.",
           "A página abre até sem login: o código não depende de ser o primeiro pedido."
-        ]
+        ],
+        "emphasis": "Eu não esperaria um código de primeira compra: o 4CW5Y abre a seleção da SHEIN em qualquer pedido, e é por ele que eu começo, no primeiro e nos seguintes."
       },
       {
         "heading": "Onde pesquisar o código",
@@ -244173,7 +244616,17 @@ export const reviewsData: unknown[] = [
           "O 4CW5Y vale no site e no app? Vale nos dois: a busca do app e a do site abrem a página do código."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você vai fazer o primeiro pedido na SHEIN e quer chegar a uma seleção de promoções e descontos pela busca, sem colar nada no carrinho.",
+        "Você já comprou antes e quer saber se o código ainda serve: serve, e a página abre até sem login."
+      ],
+      "skipIf": [
+        "Você procura um cupom para colar no fechamento do pedido: o 4CW5Y não faz isso, e os cupons de checkout ficam em Meus Cupons e na nossa página de cupom SHEIN.",
+        "Você quer saber o desconto exato antes de abrir a página: quanto e em quais peças, quem decide é a SHEIN."
+      ]
+    }
   },
   {
     "id": 944,
@@ -247496,7 +247949,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "SHEIN page opened by searching 4CW5Y, titled \"Acho que você pode gostar\" (\"I think you might like\"), with items marked with a discount badge",
-            "caption": "Page opened by searching for 4CW5Y. The screenshot is in Portuguese, with prices in reais.",
+            "caption": "Page opened by searching for 4CW5Y. The screenshot is from another country's site, so the prices shown may differ from yours.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -247522,7 +247975,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "For later orders, the code is the same: 4CW5Y keeps working as a referral code.",
           "The page opens even without logging in: the code does not depend on it being your first order."
-        ]
+        ],
+        "emphasis": "I would not wait for a first-order code: 4CW5Y opens SHEIN's selection on any order, and it is where I start, on the first one and the later ones."
       },
       {
         "heading": "Where to search the code",
@@ -247547,7 +248001,17 @@ export const reviewsData: unknown[] = [
           "Does 4CW5Y work on the website and in the app? Yes, on both: the search in the app and on the website open the code's page."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "You are placing your first SHEIN order and want to reach a selection of promotions and discounts through search, without pasting anything in the cart.",
+        "You have ordered before and want to know if the code still works: it does, and the page opens even without logging in."
+      ],
+      "skipIf": [
+        "You are looking for a coupon to paste at checkout: 4CW5Y does not do that, and checkout coupons live in your account's coupons area and on our SHEIN coupon page.",
+        "You want to know the exact discount before opening the page: how much and on which pieces is up to SHEIN."
+      ]
+    }
   },
   {
     "id": 965,
@@ -247652,7 +248116,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para los pedidos siguientes, el código es el mismo: el 4CW5Y sigue valiendo como código de referido.",
           "La página se abre incluso sin iniciar sesión: el código no depende de que sea tu primer pedido."
-        ]
+        ],
+        "emphasis": "No esperaría un código de primera compra: el 4CW5Y abre la selección de SHEIN en cualquier pedido, y por ahí empiezo yo, en el primero y en los siguientes."
       },
       {
         "heading": "Dónde buscar el código",
@@ -247677,7 +248142,17 @@ export const reviewsData: unknown[] = [
           "¿El 4CW5Y vale en el sitio y en la app? Vale en los dos: el buscador de la app y el del sitio abren la página del código."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vas a hacer tu primer pedido en SHEIN y quieres llegar a una selección de promociones y descuentos desde el buscador, sin pegar nada en el carrito.",
+        "Ya compraste antes y quieres saber si el código sigue sirviendo: sirve, y la página se abre incluso sin iniciar sesión."
+      ],
+      "skipIf": [
+        "Buscas un cupón para pegar al pagar: el 4CW5Y no hace eso, y los cupones del pago están en el área de cupones de tu cuenta y en nuestra página de cupón SHEIN.",
+        "Quieres saber el descuento exacto antes de abrir la página: cuánto y en qué prendas lo decide SHEIN."
+      ]
+    }
   },
   {
     "id": 966,
@@ -247756,7 +248231,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "Page SHEIN ouverte après la recherche de 4CW5Y, avec le titre « Acho que você pode gostar » (« Je pense que vous pourriez aimer ») et des pièces avec un badge de réduction",
-            "caption": "Sélection ouverte en recherchant 4CW5Y. La capture est en portugais, avec des prix en réaux (R$).",
+            "caption": "Sélection ouverte en recherchant 4CW5Y. La capture vient du site d'un autre pays : les prix affichés peuvent différer des vôtres.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -247782,7 +248257,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pour les commandes suivantes, le code est le même : le 4CW5Y reste valable comme code de parrainage.",
           "La page s'ouvre même sans connexion : le code ne dépend pas de la première commande."
-        ]
+        ],
+        "emphasis": "Je n'attendrais pas un code de première commande : le 4CW5Y ouvre la sélection de SHEIN à chaque commande, et c'est par lui que je commence, la première comme les suivantes."
       },
       {
         "heading": "Où rechercher le code",
@@ -247807,7 +248283,17 @@ export const reviewsData: unknown[] = [
           "Le 4CW5Y est-il valable sur le site et dans l'application ? Dans les deux : la recherche de l'application comme celle du site ouvrent la page du code."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous passez votre première commande SHEIN et voulez arriver à une sélection de promotions et de réductions par la recherche, sans rien coller dans le panier.",
+        "Vous avez déjà commandé et voulez savoir si le code fonctionne encore : oui, et la page s'ouvre même sans connexion."
+      ],
+      "skipIf": [
+        "Vous cherchez un code promo à coller au paiement : le 4CW5Y ne fait pas cela, et les codes promo de paiement se trouvent dans l'espace codes promo de votre compte et sur notre page code promo SHEIN.",
+        "Vous voulez connaître le montant exact de la réduction avant d'ouvrir la page : le montant et les pièces, c'est SHEIN qui les décide."
+      ]
+    }
   },
   {
     "id": 967,
@@ -247886,7 +248372,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "SHEIN-Seite, geöffnet durch die Suche nach 4CW5Y, mit dem Titel \"Acho que você pode gostar\" („Ich glaube, das könnte Ihnen gefallen“) und Artikeln mit Rabattsiegel",
-            "caption": "Auswahl, die sich bei der Suche nach 4CW5Y öffnet. Der Screenshot ist auf Portugiesisch und zeigt Preise in Real (R$).",
+            "caption": "Auswahl, die sich bei der Suche nach 4CW5Y öffnet. Der Screenshot stammt von der Website eines anderen Landes; die angezeigten Preise können von Ihren abweichen.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -247912,7 +248398,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Für weitere Bestellungen bleibt der Code derselbe: 4CW5Y gilt weiterhin als Empfehlungscode.",
           "Die Seite öffnet sich sogar ohne Anmeldung: Der Code hängt nicht davon ab, dass es die erste Bestellung ist."
-        ]
+        ],
+        "emphasis": "Auf einen Code für die Erstbestellung würde ich nicht warten: 4CW5Y öffnet die Auswahl von SHEIN bei jeder Bestellung, und damit fange ich an, bei der ersten wie bei den weiteren."
       },
       {
         "heading": "Wo Sie den Code suchen",
@@ -247937,7 +248424,17 @@ export const reviewsData: unknown[] = [
           "Gilt 4CW5Y auf der Website und in der App? Auf beidem: Die Suche der App und die der Website öffnen die Seite des Codes."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie geben Ihre erste SHEIN-Bestellung auf und wollen über die Suche zu einer Auswahl an Aktionen und Rabatten kommen, ohne etwas in den Warenkorb einzufügen.",
+        "Sie haben schon bestellt und wollen wissen, ob der Code noch funktioniert: Ja, und die Seite öffnet sich auch ohne Anmeldung."
+      ],
+      "skipIf": [
+        "Sie suchen einen Gutschein zum Einfügen beim Bezahlen: Das leistet 4CW5Y nicht, Checkout-Gutscheine finden Sie im Gutscheinbereich Ihres Kontos und auf unserer SHEIN-Gutschein-Seite.",
+        "Sie wollen den genauen Rabatt kennen, bevor Sie die Seite öffnen: Wie hoch und auf welche Teile, entscheidet SHEIN."
+      ]
+    }
   },
   {
     "id": 968,
@@ -248016,7 +248513,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "Pagina SHEIN aperta dalla ricerca di 4CW5Y, con il titolo \"Acho que você pode gostar\" (\"Penso che potrebbe piacerti\") e capi con il bollino di sconto",
-            "caption": "Selezione aperta cercando 4CW5Y. La schermata è in portoghese, con i prezzi in real (R$).",
+            "caption": "Selezione aperta cercando 4CW5Y. La schermata viene dal sito di un altro paese: i prezzi mostrati possono essere diversi dai tuoi.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -248042,7 +248539,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Per gli ordini successivi il codice è lo stesso: il 4CW5Y continua a valere come codice invito.",
           "La pagina si apre anche senza accesso: il codice non dipende dal fatto che sia il primo ordine."
-        ]
+        ],
+        "emphasis": "Non aspetterei un codice per il primo ordine: il 4CW5Y apre la selezione di SHEIN a ogni ordine, ed è da lì che parto, al primo e ai successivi."
       },
       {
         "heading": "Dove cercare il codice",
@@ -248067,7 +248565,17 @@ export const reviewsData: unknown[] = [
           "Il 4CW5Y vale sul sito e nell'app? Vale su entrambi: la ricerca dell'app e quella del sito aprono la pagina del codice."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Stai facendo il primo ordine su SHEIN e vuoi arrivare a una selezione di promozioni e sconti dalla ricerca, senza incollare nulla nel carrello.",
+        "Hai già ordinato e vuoi sapere se il codice vale ancora: vale, e la pagina si apre anche senza accesso."
+      ],
+      "skipIf": [
+        "Cerchi un coupon da incollare al pagamento: il 4CW5Y non lo fa, e i coupon del checkout stanno nell'area coupon del tuo account e nella nostra pagina coupon SHEIN.",
+        "Vuoi sapere lo sconto esatto prima di aprire la pagina: quanto e su quali capi lo decide SHEIN."
+      ]
+    }
   },
   {
     "id": 969,
@@ -248146,7 +248654,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "4CW5Yの検索で開いたSHEINのページ。タイトルは「Acho que você pode gostar」（「お気に入りが見つかるかも」）で、割引ラベルのついた商品が表示されている",
-            "caption": "4CW5Yを検索して開いた商品一覧。画面はポルトガル語で、価格はレアル表示です。",
+            "caption": "4CW5Yを検索して開いた商品一覧。画面は別の国のサイトのもので、表示価格はお住まいの国と異なる場合があります。",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -248172,7 +248680,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "2回目以降の注文でも、コードは同じです。4CW5Yは引き続き紹介コードとして使えます。",
           "ページはログインなしでも開きます。初めての注文かどうかに、コードは左右されません。"
-        ]
+        ],
+        "emphasis": "初回注文限定のコードを待つことはしません。4CW5Yはどの注文でもSHEINの特集を開いてくれるので、最初の注文でも2回目以降でも、私はここから始めます。"
       },
       {
         "heading": "コードを検索する場所",
@@ -248197,7 +248706,17 @@ export const reviewsData: unknown[] = [
           "4CW5Yはサイトとアプリのどちらで使えますか？ どちらでも使えます。アプリの検索でも、サイトの検索でも、コードのページが開きます。"
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "SHEINで最初の注文をするところで、カートに何も貼り付けずに、検索からセールと割引の特集に入りたい人。",
+        "すでに注文したことがあり、コードがまだ使えるか知りたい人：使えますし、ログインなしでもページが開きます。"
+      ],
+      "skipIf": [
+        "支払い時に貼り付けるクーポンを探している人：4CW5Yはそのためのものではなく、チェックアウト用のクーポンはアカウントのクーポン欄と当サイトのSHEINクーポンのページにあります。",
+        "ページを開く前に正確な割引額を知りたい人：割引の大きさと対象の商品はSHEINが決めます。"
+      ]
+    }
   },
   {
     "id": 970,
@@ -248276,7 +248795,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "4CW5Y 검색으로 열린 SHEIN 페이지. 제목은 \"Acho que você pode gostar\"(\"마음에 드실 만한 상품\")이고 할인 표시가 붙은 상품이 보인다",
-            "caption": "4CW5Y를 검색해 열린 상품 목록입니다. 캡처 화면은 포르투갈어이고 가격은 헤알(R$)로 표시되어 있습니다.",
+            "caption": "4CW5Y를 검색해 열린 상품 목록입니다. 캡처는 다른 나라 사이트 화면이라, 표시된 가격은 내 나라 가격과 다를 수 있습니다.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -248302,7 +248821,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "이후 주문에도 같은 코드를 씁니다. 4CW5Y는 계속 추천 코드로 사용할 수 있습니다.",
           "로그인하지 않아도 페이지가 열립니다. 코드는 첫 주문 여부와 상관이 없습니다."
-        ]
+        ],
+        "emphasis": "저라면 첫 주문 전용 코드를 기다리지 않겠습니다. 4CW5Y는 어떤 주문에서든 SHEIN의 추천 상품 페이지를 열어 주고, 저는 첫 주문과 이후 주문 모두 여기서 시작합니다."
       },
       {
         "heading": "코드를 검색하는 곳",
@@ -248327,7 +248847,17 @@ export const reviewsData: unknown[] = [
           "4CW5Y는 사이트와 앱 모두에서 쓸 수 있나요? 네. 앱 검색과 사이트 검색 모두 코드 페이지를 엽니다."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "SHEIN에서 첫 주문을 하면서, 장바구니에 아무것도 붙여 넣지 않고 검색으로 프로모션과 할인 모음에 들어가고 싶은 분.",
+        "이미 주문한 적이 있어 코드가 아직 유효한지 궁금한 분: 유효하며 로그인하지 않아도 페이지가 열립니다."
+      ],
+      "skipIf": [
+        "결제 때 붙여 넣을 쿠폰을 찾는 분: 4CW5Y는 그런 코드가 아니며, 결제용 쿠폰은 계정의 쿠폰 메뉴와 SHEIN 쿠폰 페이지에 있습니다.",
+        "페이지를 열기 전에 정확한 할인 폭을 알고 싶은 분: 할인 폭과 대상 상품은 SHEIN이 정합니다."
+      ]
+    }
   },
   {
     "id": 971,
@@ -248406,7 +248936,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "搜尋 4CW5Y 後開啟的 SHEIN 頁面，標題為「Acho que você pode gostar」（「你可能會喜歡」），商品帶有折扣標籤",
-            "caption": "搜尋 4CW5Y 後開啟的頁面。截圖為葡萄牙文介面，價格以雷亞爾（R$）顯示。",
+            "caption": "搜尋 4CW5Y 後開啟的頁面。截圖來自其他國家的網站，顯示的價格可能與你所在國家不同。",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -248432,7 +248962,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "之後的訂單用的是同一個推薦碼：4CW5Y 依然是有效的推薦碼。",
           "這個頁面甚至不用登入就能開啟：推薦碼不限於第一筆訂單。"
-        ]
+        ],
+        "emphasis": "我不會等什麼首購專用碼：4CW5Y 在任何一筆訂單都會開啟 SHEIN 的精選頁，我從它開始，第一筆和之後的訂單都一樣。"
       },
       {
         "heading": "在哪裡搜尋推薦碼",
@@ -248457,7 +248988,17 @@ export const reviewsData: unknown[] = [
           "4CW5Y 在網站和 App 都能用嗎？都能用：App 和網站的搜尋，都會開啟推薦碼的頁面。"
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你要在 SHEIN 下第一筆訂單，想從搜尋進入促銷和折扣精選頁，不必在購物車貼上任何東西。",
+        "你以前買過，想知道推薦碼還能不能用：能用，而且不登入也能開啟頁面。"
+      ],
+      "skipIf": [
+        "你在找結帳時貼上的優惠券：4CW5Y 不是這個用途，結帳優惠券在帳號的優惠券區和本站的 SHEIN 優惠券頁面。",
+        "你想在開啟頁面前就知道確切的折扣：折扣多少、適用哪些單品，由 SHEIN 決定。"
+      ]
+    }
   },
   {
     "id": 972,
@@ -248536,7 +249077,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "搜索 4CW5Y 后打开的 SHEIN 页面，标题为“Acho que você pode gostar”（“你可能会喜欢”），商品上带有折扣标签",
-            "caption": "搜索 4CW5Y 后打开的商品列表。截图为葡萄牙语界面，价格以雷亚尔（R$）显示。",
+            "caption": "搜索 4CW5Y 后打开的商品列表。截图来自其他国家的网站，显示的价格可能与你所在国家不同。",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -248562,7 +249103,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "之后下单时，推荐码还是同一个：4CW5Y 继续作为推荐码使用。",
           "这个页面甚至不用登录就能打开：推荐码并不要求必须是首单。"
-        ]
+        ],
+        "emphasis": "我不会等什么首单专用码：4CW5Y 在任何一笔订单都会打开 SHEIN 的精选页，我从它开始，首单和之后的订单都一样。"
       },
       {
         "heading": "在哪里搜索推荐码",
@@ -248587,7 +249129,17 @@ export const reviewsData: unknown[] = [
           "4CW5Y 在网站和应用上都能用吗？都能用：应用和网站的搜索都会打开该推荐码的页面。"
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你要在 SHEIN 下第一单，想从搜索进入促销和折扣精选页，不必在购物车粘贴任何东西。",
+        "你以前买过，想知道推荐码还能不能用：能用，而且不登录也能打开页面。"
+      ],
+      "skipIf": [
+        "你在找结账时粘贴的优惠券：4CW5Y 不是这个用途，结账优惠券在账号的优惠券区和本站的 SHEIN 优惠券页面。",
+        "你想在打开页面前就知道确切的折扣：折扣多少、适用哪些单品，由 SHEIN 决定。"
+      ]
+    }
   },
   {
     "id": 973,
@@ -311794,7 +312346,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
             "alt": "صفحة SHEIN التي فُتحت بالبحث عن 4CW5Y بعنوان «Acho que você pode gostar» (أي «أظن أنه قد يعجبك»)، وفيها قطع عليها شارة خصم",
-            "caption": "الصفحة التي تفتح عند البحث عن 4CW5Y. لقطة الشاشة بالبرتغالية، والأسعار بعملة الريال.",
+            "caption": "الصفحة التي تفتح عند البحث عن 4CW5Y. لقطة الشاشة من موقع بلد آخر، وقد تختلف الأسعار الظاهرة عن أسعارك.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
           }
@@ -311820,7 +312372,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "في الطلبات التالية يبقى الرمز نفسه: 4CW5Y يظل يعمل كرمز إحالة.",
           "الصفحة تفتح حتى دون تسجيل الدخول: فالرمز لا يعتمد على كون الطلب هو الأول."
-        ]
+        ],
+        "emphasis": "لن أنتظر رمزًا خاصًا بأول طلب: 4CW5Y يفتح اختيارات SHEIN في أي طلب، ومنه أبدأ، في الأول وفي الطلبات التالية."
       },
       {
         "heading": "أين تبحث عن الرمز",
@@ -311845,7 +312398,17 @@ export const reviewsData: unknown[] = [
           "هل يعمل 4CW5Y على الموقع وفي التطبيق؟ نعم، في الاثنين: البحث في التطبيق وعلى الموقع يفتحان صفحة الرمز."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "أنت تقدّم أول طلب لك من SHEIN وتريد الوصول إلى مجموعة العروض والخصومات عبر البحث، دون لصق أي شيء في السلة.",
+        "طلبت من قبل وتريد أن تعرف هل ما زال الرمز يعمل: نعم، والصفحة تفتح حتى دون تسجيل الدخول."
+      ],
+      "skipIf": [
+        "تبحث عن كوبون تلصقه عند الدفع: 4CW5Y لا يؤدي هذا الغرض، وكوبونات الدفع في قسم الكوبونات في حسابك وفي صفحة كوبون SHEIN عندنا.",
+        "تريد معرفة قيمة الخصم بالضبط قبل فتح الصفحة: قيمة الخصم والقطع المشمولة تقررها SHEIN."
+      ]
+    }
   },
   {
     "id": 1242,
@@ -311882,7 +312445,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "رمز الإحالة من SHEIN يمنح خصمًا فعلًا. افتح SHEIN عبر رابط Cecília وابحث عن 4CW5Y في شريط البحث في المتجر، في التطبيق أو على الموقع، لا في خانة الكوبون: يفتح الرمز صفحة خاصة فيها مجموعة منتجات وعروض وخصومات. أما قيمة الخصم والقطع المشمولة فتقررها SHEIN وتتفاوت."
+          "رمز الإحالة من SHEIN يمنح خصمًا فعلًا. افتح SHEIN عبر رابط Cecília، أو انسخ 4CW5Y وابحث عنه في شريط البحث في المتجر، في التطبيق أو على الموقع، لا في خانة الكوبون: يفتح الرمز صفحة خاصة فيها مجموعة منتجات وعروض وخصومات. أما قيمة الخصم والقطع المشمولة فتقررها SHEIN وتتفاوت."
         ]
       },
       {
@@ -311935,9 +312498,7 @@ export const reviewsData: unknown[] = [
             "href": "/ar/coupons/shein"
           }
         ],
-        "postParagraphs": [
-          "قد يحصل من شارك الرابط أو الرمز على عمولة من المشتريات التي تتم عبره، دون أي تكلفة إضافية عليك."
-        ]
+        "emphasis": "أتعامل مع 4CW5Y على أنه مدخل إلى عروض SHEIN لا ككوبون: خصم كل قطعة تعرضه الصفحة التي يفتحها."
       },
       {
         "heading": "لماذا لم تعد الأدلة القديمة، بكوبون البرنامج القديم، صالحة",
@@ -311983,8 +312544,21 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "shein-black-friday-ar"
+      },
+      {
+        "slug": "shein-first-order-ar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "ستشتري من SHEIN وتريد الوصول إلى مجموعة العروض والخصومات عبر البحث، دون البحث عن كوبون.",
+        "تريد شرحًا بالخطوات واللقطات لمكان كتابة الرمز في التطبيق أو على الموقع."
+      ],
+      "skipIf": [
+        "تبحث عن كوبون تلصقه في السلة: رمز الإحالة يُكتب في شريط البحث لا في خانة الكوبون.",
+        "تريد رمزًا خاصًا بك لتشاركه: رمزك يأتي من برنامج الشراكة بالعمولة في SHEIN، بعد التسجيل واستيفاء الشروط."
+      ]
+    }
   },
   {
     "id": 1243,
@@ -312003,11 +312577,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "تحصل SHEIN على 3.8 من 5 على Trustpilot، مع تحفظات. اطّلع على ما تُظهره أكثر من 350,000 مراجعة، والشكاوى عن الطرود والمبالغ المستردة، ولماذا التقييم عالمي.",
-    "metaDescription": "SHEIN على Trustpilot في نوفمبر 2026: درجة TrustScore 3.8 من 353,527 مراجعة، 59% منها خمس نجوم و18% نجمة واحدة، وشكاوى عن التوصيل والاسترداد. اعرف ما لا يعرضه التقييم.",
+    "description": "حصلت SHEIN على 3.8 من 5 على Trustpilot من 353,689 مراجعة. ما تقيسه النتيجة، والشكاوى حول الطرود والاسترداد، ولماذا الملف عالمي.",
+    "metaDescription": "SHEIN على Trustpilot: TrustScore 3.8 من 353,689 مراجعة، و59% بخمس نجوم و18% بنجمة واحدة. شكاوى التوصيل والاسترداد، وما لا تُظهره النتيجة.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -312021,128 +312595,130 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "تحصل SHEIN على 3.8 من 5 على Trustpilot، مع تحفظات. جاء هذا التقييم من 353,527 مراجعة كتبها عملاء من بلدان كثيرة، ومحاور المراجعات السلبية هي طرود لم تصل ومبالغ مستردة تأخرت أو رُفضت. والملف عالمي ولا يفصل بين البلدان."
+          "حصلت SHEIN على تقييم TrustScore يبلغ 3.8 من 5 على Trustpilot، بعبارة «Great»، من 353,689 مراجعة. أغلبها خمس نجوم، لكن مراجعات النجمة الواحدة تصل بسرعة وتتركز على طرود لم تصل ومبالغ مستردة متأخرة أو مرفوضة. الملف عالمي، لذلك لا تخبرك النتيجة بكيفية وصول طلب إلى بلدك."
         ]
       },
       {
-        "heading": "ماذا يقيس التقييم",
+        "heading": "ماذا تقيس النتيجة",
         "paragraphs": [
-          "TrustScore هو تقييم الملف على Trustpilot. وهو يجمع تجربة الشراء كلها، لا جودة القطع فقط. في نوفمبر 2026 كان لدى SHEIN تقييم 3.8، بوصف «Great» (أي «رائع»)، من 353,527 مراجعة؛ منها 22,625 نُشرت في آخر 12 شهرًا. الشركة طالبت بالملف وتديره، ولها اشتراك مدفوع في Trustpilot، كما تذكر الصفحة نفسها.",
-          "التوزيع بحسب النجوم: 59% خمس نجوم، و12% أربع، و6% ثلاث، و5% اثنتان، و18% واحدة. الخمس والأربع نجوم تشكلان معظم المراجعات."
+          "TrustScore هو تقييم الملف على Trustpilot. في نوفمبر 2026 كانت SHEIN عند 3.8 بعبارة «Great»، من 353,689 مراجعة، منها 14,994 خلال الأشهر الاثني عشر الأخيرة."
         ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
-          "alt": "أعمدة من خمس نجوم إلى نجمة واحدة تعرض توزيع مراجعات SHEIN على Trustpilot: 59% و12% و6% و5% و18%",
-          "caption": "توزيع مراجعات SHEIN على Trustpilot بحسب النجوم. رسم بياني من إعدادنا.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+        "comparisonTable": {
+          "caption": "ملف SHEIN على Trustpilot (www.shein.com)، قُرئ في 23/11/2026.",
+          "headers": [
+            "المؤشر",
+            "ما يعرضه الملف"
+          ],
+          "rows": [
+            [
+              "TrustScore",
+              "3.8 من 5، «Great»"
+            ],
+            [
+              "إجمالي المراجعات",
+              "353,689"
+            ],
+            [
+              "مراجعات الأشهر الاثني عشر الأخيرة",
+              "14,994"
+            ],
+            [
+              "النجوم، من خمس إلى واحدة",
+              "59%، 12%، 6%، 5% و18%"
+            ],
+            [
+              "حالة الملف",
+              "ملف مطالَب به منذ 2015، باشتراك مدفوع"
+            ],
+            [
+              "مصدر المراجعات",
+              "يدعو المتجر العملاء إلى المراجعة بعد الشراء"
+            ],
+            [
+              "الرد على المراجعات السلبية",
+              "98%، غالباً خلال 24 ساعة؛ وقد يستخدم المتجر الذكاء الاصطناعي"
+            ]
+          ]
         }
       },
       {
         "heading": "ثلاث قراءات تغيّر الصورة",
         "paragraphs": [
-          "الأولى، حصة النجمة الواحدة. 18% من المراجعات تمنح نجمة واحدة، أكثر من نسبة النجمتين والثلاث نجوم مجتمعتين (11%)، وهناك تظهر الشكاوى.",
-          "الثانية، الرد ليس حلًّا. ردّت SHEIN على 98% من المراجعات السلبية، عادةً خلال 24 ساعة، وتشير الصفحة إلى أن الشركة قد تستخدم الذكاء الاصطناعي في ردودها. والأرقام لا تقول إن كانت الردود حلّت مشكلة صاحب الشكوى.",
-          "الثالثة، التقييم عالمي. الملف لا يقسم المراجعات بحسب البلد، ويجمع المتسوقين ذوي الشحن وأوقات التوصيل وقواعد الجمارك المختلفة في تقييم واحد. وكيف سيجري التوصيل إلى بلدك ليس في هذا الرقم."
+          "أولاً، الدعوات. يطلب المتجر المراجعة بعد الشراء، والملف المدفوع الذي يدعو العملاء يجذب كثيراً من المراجعات القصيرة بخمس نجوم. الرقم 3.8 يجمع سنوات من المراجعات والدعوات معاً.",
+          "ثانياً، الوتيرة الأخيرة. في قراءتنا وصلت مراجعات النجمة الواحدة أسرع بكثير من مراجعات الخمس نجوم: أحدث 40 مراجعة بنجمة واحدة تتسع في أسبوع، وأحدث 40 بخمس نجوم تغطي ثلاثة أشهر.",
+          "ثالثاً، الرد ليس حلاً. ردّ المتجر على 98% من المراجعات السلبية، غالباً خلال 24 ساعة. الرد العلني لا يثبت أن المشكلة حُلّت."
         ]
       },
       {
         "heading": "ماذا تقول الشكاوى",
         "paragraphs": [
-          "المراجعات السلبية الظاهرة في الملف بتاريخ 28 أكتوبر 2026 تدور حول الطرد والمال:"
+          "قرأنا أحدث 40 مراجعة بنجمة واحدة، نُشرت بين 16 و23 نوفمبر 2026. كانت كلها عفوية، ورد المتجر على 35 منها. الموضوعات:"
         ],
         "bullets": [
-          "طرد ضاع أو سُرق أو لم يُسلَّم أبدًا، وأحيانًا مع صورة تسليم يعترض عليها العميل.",
-          "مبلغ مسترد استغرق وقتًا طويلًا أو رُفض، ومنه مرتجعات قال المتجر إنه لم يستلمها.",
-          "خدمة عملاء بطيئة أو ترد بردود جاهزة.",
-          "مشكلات في المنتج: المقاس أو الجودة أو قطعة خاطئة أو ناقصة."
+          "التوصيل (11): طرد لم يُستلم، أو أُرسل إلى عنوان خاطئ أو إلى نقطة استلام لم يطلبها صاحبه، أو عُلّم بأنه سُلّم دون أن يصل.",
+          "الإرجاع والاسترداد (9): مرتجع وصل ولم يُسترد ثمنه، وقطع قيل إنها ناقصة عند الإرجاع، واسترداد بطيء.",
+          "قطع ناقصة أو مستبدلة داخل الطرد (6).",
+          "المنتج والمقاس (5): مختلف عن الوصف، والجودة، ومقاسات كبيرة.",
+          "خدمة العملاء والحساب والرسوم (9): خدمة بالروبوت فقط، حسابات مقفلة، رسوم إضافية، ألعاب نقاط."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
-          "alt": "رسم توضيحي لشاشة تتبّع توقف فيها التوصيل والبيت لا يزال ينتظر، بجانب إيصال بباركود وعملة عليها سهم إرجاع تمثل المبلغ المسترد",
-          "caption": "رسم توضيحي من إعدادنا للطرد الذي لا يصل وللمبلغ المسترد، وهما محورا الشكاوى. احتفظ بالإيصال ورقم التتبع.",
+          "alt": "رسم توضيحي لشاشة تتبع شحنة متوقفة، والمنزل ما زال ينتظر، بجانب إيصال عليه باركود وعملة عليها سهم عودة، يمثل الاسترداد",
+          "caption": "رسم توضيحي من إعدادنا للطرد الذي لا يصل والاسترداد، وهما موضوعا الشكاوى. احتفظ بالإيصال ورقم التتبع.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "هذه محاور المراجعات، لا مقياسًا لمدى تكرار فشل الطلب. هي تدل على أين تنظر: التتبع بعد الشحن، وإثبات التسليم، وإيصال الإرجاع، وطلب الاسترداد."
+          "هذه موضوعات من 40 مراجعة، وليست قياساً لعدد الطلبات التي تسوء. إنها تدلّ على ما تنظر إليه: التتبع بعد الشحن، وإثبات الاستلام، وإيصال الإرجاع، وطلب الاسترداد."
         ]
       },
       {
         "heading": "ماذا يقول المديح",
         "paragraphs": [
-          "المراجعات الإيجابية الظاهرة في الملف كانت قليلة، فهذه عيّنة صغيرة. محاورها مختلفة:"
+          "قرأنا أحدث 40 مراجعة بخمس نجوم، وتغطي ثلاثة أشهر (من 29 أغسطس إلى 19 نوفمبر 2026): جاءت 10 منها من دعوة المتجر التلقائية، وواحدة من رابط، و29 كانت عفوية. يدور المديح حول:"
         ],
         "bullets": [
-          "أسعار منخفضة.",
-          "تشكيلة واسعة.",
-          "جودة معقولة.",
-          "توصيل مرّ دون مشكلات."
+          "الأسعار المنخفضة.",
+          "تنوع المنتجات.",
+          "التوصيل السريع.",
+          "سهولة الإرجاع والاسترداد.",
+          "جودة جيدة مقابل السعر."
         ],
         "postParagraphs": [
-          "المديح والشكوى يصفان لحظتين مختلفتين من الشراء: المديح يتحدث عن الكتالوج والسعر والطرد الذي وصل؛ والشكوى عن الطرد الذي لم يصل والمبلغ الذي لم يُسترد. والتقييم يجمع الاثنين معًا."
+          "بعض هذه المراجعات لا يذكر المتجر أصلاً. لم نقرأ مراجعات الأربع نجوم والنجمتين، وهي تدخل في النتيجة أيضاً. المديح والشكوى يصفان لحظات مختلفة من الشراء: الكتالوج والسعر من جهة، والطرد الذي لم يصل من جهة أخرى. والنتيجة تجمع الاثنين."
         ]
       },
       {
         "heading": "Trustpilot: من يكتب المراجعات ومن أين",
         "paragraphs": [
-          "ملف www.shein.com يجمع مراجعات من بلدان مختلفة، دون الإفصاح عن عدد ما جاء من كل بلد. وهو لا يعزل التوصيل أو خدمة العملاء لوجهتك.",
-          "أظهر موقع Trustpilot البريطاني الملف نفسه والأرقام نفسها.",
-          "فالتقييم يتحدث عن عملاء المتجر في العالم كله، لا عن كيف سيجري طلب إلى عنوانك."
-        ],
-        "image": {
-          "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-          "alt": "هاتف يعرض ملف SHEIN على Trustpilot: تقييم 3.8 وتوزيع النجوم و98% من المراجعات السلبية تم الرد عليها",
-          "caption": "ملف SHEIN على Trustpilot، نسخة الجوال. لقطة شاشة من الموقع، مع تكبير جزأين.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
-      },
-      {
-        "heading": "كيف تحققنا",
-        "paragraphs": [
-          "الأرقام مأخوذة من قراءة لملف SHEIN العلني على Trustpilot، أُجريت دون تسجيل الدخول:"
-        ],
-        "bullets": [
-          "التقييم وعدد المراجعات والتوزيع بحسب النجوم ونسبة الردود والمراجعات الظاهرة، ومنها استُخرجت المحاور.",
-          "نطاق الملف، وهو عالمي، والموقع الإقليمي للمملكة المتحدة الذي أظهر الملف نفسه."
-        ],
-        "postParagraphs": [
-          "ما لم يُقرأ: نص ردود المتجر، والمراجعات بحسب البلد، ومواقع Trustpilot الإقليمية غير موقع المملكة المتحدة. ولهذا لا يقول النص إن كانت الردود تحلّ شيئًا.",
-          "الأرقام تتغير كل شهر. تحقق من الملف في يوم الشراء.",
-          "Cecília شريكة بالعمولة لدى SHEIN: المشتريات عبر الروابط في هذا الموقع قد تحقق لنا عمولة، دون تكلفة عليك. وهذا لا يغيّر الأرقام، فهي من الملف العلني."
-        ],
-        "links": [
-          {
-            "label": "ملف SHEIN على Trustpilot",
-            "href": "https://www.trustpilot.com/review/www.shein.com"
-          }
+          "يجمع ملف www.shein.com مراجعات عملاء من بلدان مختلفة، ولا يفصل النتيجة حسب البلد. وتذكر الصفحة أيضاً أن الشركة حظيت باهتمام جهات تنظيمية. ويقول Trustpilot إنه يعرض هذه المعلومة بحياد ولأغراض إعلامية فقط، ونعرضها بالطريقة نفسها: هي موجودة في الملف، والنتيجة لا تشرحها.",
+          "بالنسبة إلى طلب يصل إلى بلدك، راجع على موقع SHEIN أو تطبيقها الرسمي لبلدك تكلفة الشحن ومدة التوصيل وضريبة القيمة المضافة أو الرسوم الجمركية عند الاستيراد، وقواعد الإرجاع."
         ]
       },
       {
         "heading": "هل يمكن الوثوق بـSHEIN بحسب Trustpilot؟",
         "paragraphs": [
-          "بحسب Trustpilot، الأرقام هي: TrustScore 3.8، «Great»، من 353,527 مراجعة، 59% منها خمس نجوم و18% نجمة واحدة، مع الرد على 98% من المراجعات السلبية، عادةً خلال 24 ساعة.",
-          "التحفظات تخص النطاق والمحاور. الملف عالمي ولا يفصل البلدان، فهو يقول كيف يتصرف المتجر عمومًا، لا كيف سيجري طلب إلى عنوانك. والمراجعات السلبية تدور حول طرود لم تصل ومبالغ مستردة تأخرت أو رُفضت: والتقييم وحده لا يخبرك بمدى تكرار ذلك."
-        ]
+          "بحسب Trustpilot، يحصل المتجر على 3.8 من 5، مع أغلبية من المراجعات بخمس نجوم، ونسبة 18% بنجمة واحدة، وقد ردّ على 98% من المراجعات السلبية. أمران يخفضان النتيجة: شكاوى سريعة بنجمة واحدة عن الطرود والأموال، والطابع العالمي للملف. تدلّ النتيجة على طريقة تعامل المتجر مع عملائه عموماً، لا على كيفية وصول طلب بعينه إلى بلدك."
+        ],
+        "emphasis": "النتيجة تقول كيف تتعامل SHEIN مع عملائها عموماً، والشكاوى تبيّن أين يقع الخطر: الطرد والاسترداد. احتفظ بإثبات للأمرين."
       },
       {
         "heading": "قبل أن تدفع",
         "paragraphs": [
-          "الشكاوى تشير إلى ما يجب حمايته. اشترِ عبر موقع SHEIN أو تطبيقها الرسمي لبلدك، واحتفظ بإيصال الدفع ورقم التتبع: فهما يُظهران ما دفعته وأين توقف الطرد.",
-          "إن لم يصل الطرد أو كانت القطعة خاطئة، اطلب الاسترداد عبر قناة المتجر نفسه، على الموقع أو في التطبيق، واحتفظ بإيصال الإرجاع إن أرسلت شيئًا.",
-          "قبل الشراء، افتح بعض مراجعات النجمة الواحدة في الملف واقرأ رد المتجر تحت كل واحدة، خصوصًا ما يتعلق بالطرود التي لم تصل والمبالغ المستردة.",
-          "لمعرفة من يدير SHEIN في بلدك ومن أين الشركة، اقرأ [هل SHEIN موثوقة وآمنة؟](/ar/reviews/shein-trust-guide-ar).",
+          "احتفظ بإيصال الدفع ورقم التتبع: فهما يثبتان ما دفعته وأين توقف الطرد.",
+          "إذا لم يصل الطرد أو كان المنتج خاطئاً، فاطلب الاسترداد عبر قناة المتجر نفسها، على الموقع أو في التطبيق، واحتفظ بإيصال الإرجاع إن أرسلت شيئاً.",
+          "لمعرفة من يدير SHEIN وما البلد الذي تنتمي إليه الشركة، اقرأ [هل SHEIN موثوقة وآمنة؟](/ar/reviews/shein-trust-guide-ar).",
           "إن قررت الشراء، فإن [صفحة SHEIN](/ar/coupons/shein) تقودك إلى الموقع الرسمي."
         ]
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
-          "هل لدى SHEIN تقييم جيد على Trustpilot؟ كان TrustScore 3.8، بوصف «Great»، من 353,527 مراجعة؛ 59% منحت خمس نجوم و18% منحت نجمة واحدة.",
-          "ما أكثر الشكاوى شيوعًا عن SHEIN؟ في المراجعات السلبية، كانت المحاور طرودًا ضاعت أو سُرقت أو لم تصل، وأحيانًا مع صورة تسليم متنازع عليها؛ ومبالغ مستردة تأخرت أو رُفضت، ومنها مرتجعات قال المتجر إنه لم يستلمها؛ وخدمة عملاء بطيئة أو بردود جاهزة؛ ومشكلات في المنتج مثل المقاس أو الجودة أو القطعة الخاطئة أو الناقصة. هذه محاور لا أعداد.",
-          "هل ترد SHEIN على المراجعات السلبية؟ بحسب ملف Trustpilot، ردّ المتجر على 98% من المراجعات السلبية، عادةً خلال 24 ساعة، وقد يستخدم الرد الذكاء الاصطناعي. والأرقام لا تقول إن كانت الردود حلّت المشكلة.",
-          "هل ينطبق تقييم Trustpilot على بلدي؟ لا يقدّم نتيجة خاصة ببلد بعينه. الملف العالمي يجمع مراجعات من بلدان مختلفة؛ تحقق من مواعيد التوصيل وقواعد الإرجاع لوجهتك في موقع SHEIN أو تطبيقها الرسمي."
+          "هل تحصل SHEIN على تقييم جيد في Trustpilot؟ بلغ TrustScore 3.8 من 5، بعبارة «Great»، من 353,689 مراجعة، و59% منها بخمس نجوم و18% بنجمة واحدة.",
+          "ما أكثر الشكاوى شيوعاً عن SHEIN؟ في الأربعين مراجعة بنجمة واحدة التي قرأناها، كانت الموضوعات: التوصيل، والإرجاع والاسترداد، والقطع الناقصة أو المستبدلة، والمنتج والمقاس، وخدمة العملاء والحساب والرسوم. وهي موضوعات من عينة، لا أرقام للملف كله.",
+          "هل ترد SHEIN على المراجعات السلبية؟ بحسب الملف، ردّت على 98%، غالباً خلال 24 ساعة، وقد تستخدم الذكاء الاصطناعي في الردود. الرد لا يثبت أن المشكلة حُلّت.",
+          "هل تنطبق نتيجة Trustpilot على بلدي؟ لا توجد نتيجة لكل بلد؛ فالملف عالمي ولا يفصل المراجعات حسب البلد. راجع مدة التوصيل والشحن والضرائب والإرجاع على الموقع أو التطبيق الرسمي لبلدك.",
+          "ما الرمز 4CW5Y وكيف أستخدمه؟ هو رمز الإحالة الخاص بسيسيليا، وليس كوبوناً يُدخل عند الدفع. افتح SHEIN من الرابط في هذا الموقع، أو ابحث عن 4CW5Y في تطبيق SHEIN أو موقعها، فتفتح صفحة تضم منتجات وعروضاً وخصومات، وتقرر SHEIN مقدار الخصم وعلى أي منتجات."
         ]
       }
     ],
@@ -312160,9 +312736,25 @@ export const reviewsData: unknown[] = [
         "slug": "shein-trust-guide-ar"
       },
       {
-        "slug": "shein-vs-temu-ar"
+        "slug": "shein-worth-it-ar"
+      },
+      {
+        "slug": "shein-referral-code-ar"
+      },
+      {
+        "slug": "shein-black-friday-ar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "تتقبل انتظار توصيل طويل، وتبحث عن الموضة والمنزل بأسعار منخفضة.",
+        "تحتفظ بالإيصال ورقم التتبع، وتعرف كيف تطلب الاسترداد عبر قناة المتجر."
+      ],
+      "skipIf": [
+        "تحتاج المنتج في موعد محدد، لأن أكثر شكوى بنجمة واحدة هي طرد لا يصل.",
+        "لا تريد أن تنتظر خدمة بطيئة، وهي شكوى تتكرر في مراجعات النجمة الواحدة."
+      ]
+    }
   },
   {
     "id": 1244,
@@ -312457,7 +313049,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "هل SHEIN موثوقة وآمنة؟ من يدير موقعي الولايات المتحدة والمملكة المتحدة، وما بلد SHEIN، وهل الدفع آمن، والإرجاع وضريبة الاستيراد، وما تتحقق منه قبل الدفع.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -312558,9 +313150,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "الشراكة ورمز الإحالة",
+        "heading": "كيف تستخدم رمز الإحالة 4CW5Y",
         "paragraphs": [
-          "هذا المقال تحريري، و Cecília شريكة تسويق بالعمولة لدى SHEIN: قد تحصل على عمولة على المشتريات التي تتم عبر روابطها، دون أي تكلفة عليك. 4CW5Y هو رمز الإحالة الخاص بـ Cecília لدى SHEIN، وهو يمنحك خصمًا فعلًا: افتح SHEIN عبر رابطها، ثم انسخ الرمز وابحث عنه في تطبيق SHEIN أو على موقعها، فتُفتح صفحة خاصة من SHEIN تضم منتجات وعروضًا وخصومات مختارة. أما مقدار الخصم والمنتجات المشمولة فتقرره SHEIN، وهو يتفاوت. ولا يُكتب الرمز في خانة الكوبون."
+          "4CW5Y هو رمز الإحالة الخاص بـ Cecília لدى SHEIN، وهو يمنحك خصمًا فعلًا: افتح SHEIN عبر رابطها، أو انسخ الرمز وابحث عنه في تطبيق SHEIN أو على موقعها، فتُفتح صفحة خاصة من SHEIN تضم منتجات وعروضًا وخصومات مختارة. أما مقدار الخصم والمنتجات المشمولة فتقرره SHEIN، وهو يتفاوت. ولا يُكتب الرمز في خانة الكوبون."
         ],
         "links": [
           {
@@ -312578,7 +313170,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "نعم، ما دمت تشتري من الموقع الرسمي لسوقك أو من تطبيق SHEIN الرسمي. وبحسب سياسات الخصوصية، تدير SHEIN US Services, LLC الموقع الأمريكي، وتدير Infinite Styles Services Co., Limited الموقع البريطاني، وتقول SHEIN إنها لا تبيع بيانات العملاء.",
           "قبل الدفع، تحقق من تكلفة الشحن ومدة التسليم في صفحة الطلب، ومن ضرائب الاستيراد عند الدفع، ومن مهلة الإرجاع، واحتفظ بتأكيد الطلب. في الولايات المتحدة لديك حتى 30 يومًا من التسليم للإرجاع؛ وفي المملكة المتحدة 14 يومًا بحكم القانون، ومعظم المنتجات حتى 30 يومًا بحسب سياسة SHEIN."
-        ]
+        ],
+        "emphasis": "إذا كان الطلب يحتمل الانتظار فمتجر SHEIN آمن للشراء منه؛ أما الهدية أو الإطلالة المرتبطة بموعد ثابت فلن أعتمد فيها على تقدير موعد التسليم."
       },
       {
         "heading": "الأسئلة الشائعة",
@@ -312613,7 +313206,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "shein-referral-code-ar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "اشترِ إن كنت تطلب من الموقع الرسمي لسوقك أو من التطبيق، وتراجع الشحن وضرائب الاستيراد ومهلة الإرجاع قبل الدفع.",
+        "اشترِ إن لم يكن للمنتج موعد محدد ويمكنك انتظار وصوله."
+      ],
+      "skipIf": [
+        "تجنّب الشراء إن كنت تحتاج المنتج في تاريخ محدد، كحفلة أو سفر.",
+        "تجنّب الشراء إن كانت مهلة الإرجاع للمنتج أقصر ولم تكن متأكدًا من المقاس."
+      ]
+    }
   },
   {
     "id": 1246,

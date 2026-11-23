@@ -75,7 +75,7 @@
         {
           "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
           "alt": "SHEIN-Seite, geöffnet durch die Suche nach 4CW5Y, mit dem Titel \"Acho que você pode gostar\" („Ich glaube, das könnte Ihnen gefallen“) und Artikeln mit Rabattsiegel",
-          "caption": "Auswahl, die sich bei der Suche nach 4CW5Y öffnet. Der Screenshot ist auf Portugiesisch und zeigt Preise in Real (R$).",
+          "caption": "Auswahl, die sich bei der Suche nach 4CW5Y öffnet. Der Screenshot stammt von der Website eines anderen Landes; die angezeigten Preise können von Ihren abweichen.",
           "objectFit": "contain",
           "aspectRatio": 0.7581
         }
@@ -101,7 +101,8 @@
       "paragraphs": [
         "Für weitere Bestellungen bleibt der Code derselbe: 4CW5Y gilt weiterhin als Empfehlungscode.",
         "Die Seite öffnet sich sogar ohne Anmeldung: Der Code hängt nicht davon ab, dass es die erste Bestellung ist."
-      ]
+      ],
+      "emphasis": "Auf einen Code für die Erstbestellung würde ich nicht warten: 4CW5Y öffnet die Auswahl von SHEIN bei jeder Bestellung, und damit fange ich an, bei der ersten wie bei den weiteren."
     },
     {
       "heading": "Wo Sie den Code suchen",
@@ -126,5 +127,15 @@
         "Gilt 4CW5Y auf der Website und in der App? Auf beidem: Die Suche der App und die der Website öffnen die Seite des Codes."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Sie geben Ihre erste SHEIN-Bestellung auf und wollen über die Suche zu einer Auswahl an Aktionen und Rabatten kommen, ohne etwas in den Warenkorb einzufügen.",
+      "Sie haben schon bestellt und wollen wissen, ob der Code noch funktioniert: Ja, und die Seite öffnet sich auch ohne Anmeldung."
+    ],
+    "skipIf": [
+      "Sie suchen einen Gutschein zum Einfügen beim Bezahlen: Das leistet 4CW5Y nicht, Checkout-Gutscheine finden Sie im Gutscheinbereich Ihres Kontos und auf unserer SHEIN-Gutschein-Seite.",
+      "Sie wollen den genauen Rabatt kennen, bevor Sie die Seite öffnen: Wie hoch und auf welche Teile, entscheidet SHEIN."
+    ]
+  }
 }

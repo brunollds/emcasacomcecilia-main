@@ -101,7 +101,8 @@
       "paragraphs": [
         "Para los pedidos siguientes, el código es el mismo: el 4CW5Y sigue valiendo como código de referido.",
         "La página se abre incluso sin iniciar sesión: el código no depende de que sea tu primer pedido."
-      ]
+      ],
+      "emphasis": "No esperaría un código de primera compra: el 4CW5Y abre la selección de SHEIN en cualquier pedido, y por ahí empiezo yo, en el primero y en los siguientes."
     },
     {
       "heading": "Dónde buscar el código",
@@ -126,5 +127,15 @@
         "¿El 4CW5Y vale en el sitio y en la app? Vale en los dos: el buscador de la app y el del sitio abren la página del código."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Vas a hacer tu primer pedido en SHEIN y quieres llegar a una selección de promociones y descuentos desde el buscador, sin pegar nada en el carrito.",
+      "Ya compraste antes y quieres saber si el código sigue sirviendo: sirve, y la página se abre incluso sin iniciar sesión."
+    ],
+    "skipIf": [
+      "Buscas un cupón para pegar al pagar: el 4CW5Y no hace eso, y los cupones del pago están en el área de cupones de tu cuenta y en nuestra página de cupón SHEIN.",
+      "Quieres saber el descuento exacto antes de abrir la página: cuánto y en qué prendas lo decide SHEIN."
+    ]
+  }
 }

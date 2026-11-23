@@ -19,7 +19,7 @@
   "metaDescription": "Ist SHEIN seriös und sicher? Betreiber in Deutschland, Herkunft, Daten, Rückgabefristen ab Erhalt, EU-Zoll von € 3, Verfahren und Mitteilung der EU-Behörden.",
   "publishedAt": "13. Oktober 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -101,9 +101,9 @@
       ]
     },
     {
-      "heading": "Partnerschaft und Empfehlungscode",
+      "heading": "So nutzen Sie den Empfehlungscode 4CW5Y",
       "paragraphs": [
-        "Dieser Artikel ist redaktionell, und Cecília ist Affiliate-Partnerin von SHEIN: Käufe über ihre Links können eine Provision bringen, ohne Mehrkosten für Sie. 4CW5Y ist der Empfehlungscode von Cecília bei SHEIN, und er bringt Ihnen tatsächlich Rabatt: Öffnen Sie SHEIN über ihren Link, kopieren Sie den Code und suchen Sie ihn in der SHEIN-App oder auf der SHEIN-Website: Dann öffnet sich eine Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie hoch der Rabatt ist und auf welche Artikel er gilt, entscheidet SHEIN, und es variiert. Der Code gehört nicht ins Gutscheinfeld."
+        "4CW5Y ist der Empfehlungscode von Cecília bei SHEIN, und er bringt Ihnen tatsächlich Rabatt: Öffnen Sie SHEIN über ihren Link oder kopieren Sie den Code und suchen Sie ihn in der SHEIN-App oder auf der SHEIN-Website. Dann öffnet sich eine Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie hoch der Rabatt ist und auf welche Artikel er gilt, entscheidet SHEIN, und es variiert. Der Code gehört nicht ins Gutscheinfeld."
       ],
       "links": [
         {
@@ -121,7 +121,8 @@
       "paragraphs": [
         "Ja, solange Sie auf der offiziellen Website Ihres Marktes oder in der offiziellen SHEIN-App einkaufen. Laut der Datenschutzerklärung von de.shein.com betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website, und SHEIN sagt, dass es keine Kundendaten verkauft.",
         "Prüfen Sie vor der Zahlung die Versandkosten und die Lieferzeit auf der Bestellseite, die Einfuhrabgaben an der Kasse und die Rückgabefrist, und bewahren Sie die Bestellbestätigung auf. Sie haben 14 Tage gesetzliches Widerrufsrecht ab Erhalt der Ware, und nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden."
-      ]
+      ],
+      "emphasis": "Für etwas, das warten kann, ist SHEIN ein sicherer Shop; für ein Geschenk oder ein Outfit mit festem Termin würde ich mich nicht auf die Lieferschätzung verlassen."
     },
     {
       "heading": "Häufige Fragen",
@@ -157,5 +158,15 @@
     {
       "slug": "shein-empfehlungscode-wo-eingeben"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Kaufen Sie, wenn Sie auf der offiziellen Website Ihres Marktes oder in der SHEIN-App bestellen und Versand, Einfuhrabgaben und Rückgabefrist vor der Zahlung prüfen.",
+      "Kaufen Sie, wenn der Artikel keinen festen Termin hat und Sie auf die Lieferung warten können."
+    ],
+    "skipIf": [
+      "Lassen Sie es, wenn Sie den Artikel zu einem festen Datum brauchen, etwa für eine Feier oder eine Reise.",
+      "Lassen Sie es, wenn für den Artikel eine kürzere Rückgabefrist gilt und Sie bei der Größe unsicher sind."
+    ]
+  }
 }
