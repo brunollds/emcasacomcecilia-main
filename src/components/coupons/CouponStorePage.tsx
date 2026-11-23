@@ -1,9 +1,11 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getPendingCodeSeasonNotice, storeTakesCodeSeasonNotice } from '@/lib/codeSeasonNotice';
-import { CalendarDays, Check, Copy, CreditCard, ExternalLink, Layers, Play, Repeat, ShoppingBag, Truck } from 'lucide-react';
+import { ArrowRight, CalendarDays, Check, Copy, CreditCard, ExternalLink, Layers, Play, Repeat, ShoppingBag, Truck } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
+import { getArticleCopy } from '@/components/review/articleCopy';
 import { getCouponHubPath } from '@/lib/couponHub';
+import { resolveStoreRelatedContent } from '@/lib/couponRelatedContent';
 import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslations';
 import { getOtherActiveCoupons, getPendingLimitedCodes, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
@@ -240,6 +242,10 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
 
   // As outras lojas só têm página em PT; fora dele a seção sairia com links e textos em português.
   const otherCoupons = locale === 'pt' ? getOtherActiveCoupons(coupon.slug) : [];
+  const related = resolveStoreRelatedContent(coupon, locale);
+  const allArticlesLabel = related.articlesHref
+    ? getArticleCopy(locale).allStoreArticles(related.articleCount, coupon)
+    : undefined;
   const jsonLd = getJsonLd(coupon, locale, copy);
   const breadcrumb = getBreadcrumb(coupon, locale, copy);
   const couponCodeOffer = coupon.offerMode === 'discount-code' ? coupon : null;
@@ -641,11 +647,11 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
             <p className={`mt-4 ${BODY_TEXT}`}>{coupon.aboutBrand}</p>
           </section>
 
-          {coupon.relatedContent && coupon.relatedContent.length > 0 && (
+          {related.items.length > 0 && (
             <section aria-labelledby="leia-antes">
               <SectionHeading id="leia-antes">{copy.relatedTitle}</SectionHeading>
               <div className="mt-5 grid gap-2.5 md:grid-cols-2">
-                {coupon.relatedContent.map((item) => (
+                {related.items.map((item) => (
                   <RelatedLink key={item.url} href={item.url}>
                     <span className="text-xs font-extrabold leading-4 text-marinho-suave">
                       {copy.relatedType[item.type]} · {formatShortDate(item.publishedAt)}
@@ -654,6 +660,15 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
                   </RelatedLink>
                 ))}
               </div>
+              {related.articlesHref && allArticlesLabel && (
+                <Link
+                  href={related.articlesHref}
+                  className={`mt-4 inline-flex min-h-11 items-center gap-1.5 text-[15px] font-extrabold underline underline-offset-[3px] hover:text-marinho-suave ${FOCUS_RING}`}
+                >
+                  {allArticlesLabel}
+                  <ArrowRight aria-hidden="true" className="size-4 shrink-0 rtl:-scale-x-100" />
+                </Link>
+              )}
             </section>
           )}
 

@@ -12,6 +12,8 @@ import {
   type AffiliateLinkOffer,
 } from '../src/lib/couponsData';
 import { filterCouponHubStores } from '../src/components/coupons/CouponHubControls';
+import { MAX_AUTO_STORE_RELATED, resolveStoreRelatedContent } from '../src/lib/couponRelatedContent';
+import type { Review } from '../src/lib/data';
 import mediaMap from '../src/lib/generated/media-delivery-map.json';
 import { getBrasiliaDate, getCouponMetaTitle, getOfferMonth } from '../src/lib/offerMonth';
 import { foldSearchText } from '../src/lib/reviewsShelf';
@@ -559,6 +561,68 @@ assert.deepEqual(
   assert.deepEqual([...filterCouponHubStores(sample, '4cw5y')], ['shein']);
   assert.deepEqual([...filterCouponHubStores(sample, 'barbour')], ['barbours']);
   assert.deepEqual([...filterCouponHubStores(sample, 'loja-inexistente')], []);
+}
+
+// resolveStoreRelatedContent: preserva curadoria manual, prioriza artigos exclusivos antes de comparativos, limita o
+// fallback automático a 6 itens, gera o "Ver todos" em PT a partir de 3 artigos e isola cada idioma fora do PT.
+{
+  const makeReview = (overrides: Partial<Review> & { id: number; slug: string; publishedAtISO: string }): Review =>
+    ({
+      title: `Título ${overrides.slug}`,
+      type: 'Guia',
+      description: 'Descrição',
+      publishedAt: overrides.publishedAtISO,
+      category: 'cupons-como-usar',
+      affiliate: 'loja-teste',
+      ...overrides,
+    }) as Review;
+
+  const synthetic: Review[] = [
+    makeReview({ id: 10, slug: 'comparativo-mais-novo', publishedAtISO: '2026-11-20', affiliate: ['outra', 'loja-teste'] }),
+    makeReview({ id: 1, slug: 'exclusivo-1', publishedAtISO: '2026-11-10' }),
+    makeReview({ id: 2, slug: 'exclusivo-2', publishedAtISO: '2026-11-12' }),
+    makeReview({ id: 3, slug: 'exclusivo-3', publishedAtISO: '2026-11-14' }),
+    makeReview({ id: 4, slug: 'exclusivo-4', publishedAtISO: '2026-11-15' }),
+    makeReview({ id: 5, slug: 'exclusivo-5', publishedAtISO: '2026-11-16' }),
+    makeReview({ id: 6, slug: 'rascunho', publishedAtISO: '2026-11-22', draft: true }),
+    makeReview({ id: 7, slug: 'ingles-1', publishedAtISO: '2026-11-18', locale: 'en' }),
+    makeReview({ id: 8, slug: 'ingles-2', publishedAtISO: '2026-11-19', locale: 'en' }),
+    makeReview({ id: 9, slug: 'ingles-3', publishedAtISO: '2026-11-21', locale: 'en' }),
+  ];
+
+  const autoPt = resolveStoreRelatedContent({ slug: 'loja-teste' }, 'pt', synthetic);
+  assert.equal(autoPt.items.length, MAX_AUTO_STORE_RELATED);
+  assert.deepEqual(
+    autoPt.items.map((item) => item.url),
+    [
+      '/reviews/exclusivo-5',
+      '/reviews/exclusivo-4',
+      '/reviews/exclusivo-3',
+      '/reviews/exclusivo-2',
+      '/reviews/exclusivo-1',
+      '/reviews/comparativo-mais-novo',
+    ],
+    'artigos exclusivos da loja devem vir antes do comparativo de várias lojas'
+  );
+  assert.equal(autoPt.articleCount, 6);
+  assert.equal(autoPt.articlesHref, '/reviews/loja/loja-teste');
+
+  const manualItem = { title: 'Curado', url: '/reviews/curado', type: 'review' as const, publishedAt: '2026-10-01' };
+  const curatedPt = resolveStoreRelatedContent({ slug: 'loja-teste', relatedContent: [manualItem] }, 'pt', synthetic);
+  assert.deepEqual(curatedPt.items, [manualItem], 'relatedContent manual deve prevalecer sobre o fallback');
+  assert.equal(curatedPt.articlesHref, '/reviews/loja/loja-teste', 'loja curada com >= 3 artigos segue com link para /reviews/loja/<marca>');
+
+  const twoOnly = resolveStoreRelatedContent({ slug: 'loja-teste' }, 'pt', synthetic.slice(1, 3));
+  assert.equal(twoOnly.articleCount, 2);
+  assert.equal(twoOnly.articlesHref, undefined, 'abaixo de 3 artigos não há subpágina /reviews/loja/<marca>');
+
+  const autoEn = resolveStoreRelatedContent({ slug: 'loja-teste' }, 'en', synthetic);
+  assert.deepEqual(
+    autoEn.items.map((item) => item.url),
+    ['/en/reviews/ingles-3', '/en/reviews/ingles-2', '/en/reviews/ingles-1'],
+    'página em inglês só lista artigos do idioma'
+  );
+  assert.equal(autoEn.articlesHref, undefined, 'fora do PT não existe /reviews/loja/<marca>');
 }
 
 console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, HolyFoods, Petz, Prohall, La Ganexa, BAW Clothing, L'Amazonie, Rituária, Adaptogen, Barbour's Beauty, BOLD Snacks, Pink Cheeks, Gocase, Cola e Decora, Denavita, Hostinger, Starlink, BioBio, Océane e prateleiras do hub conferidos.");
