@@ -1121,6 +1121,8 @@ public/images/reviews/dolcegusto/tabela-medidas-dolce-gusto-ml-por-nivel-capa-v2
 public/images/reviews/dr-peanut/black-friday-dr-peanut-capa-discover-v2.webp -text export-ignore
 public/images/reviews/dr-peanut/black-friday-dr-peanut-capa-discover.webp -text export-ignore
 public/images/reviews/dr-peanut/black-friday-dr-peanut-capa-v2.webp -text export-ignore
+public/images/reviews/dr-peanut/black-friday-dr-peanut-combo-cookies-lovers-trio.webp -text export-ignore
+public/images/reviews/dr-peanut/black-friday-dr-peanut-combo-flavor-fusion.webp -text export-ignore
 public/images/reviews/dr-peanut/black-friday-dr-peanut-home.webp -text export-ignore
 public/images/reviews/dr-peanut/cupom-dr-peanut-capa-discover.webp -text export-ignore
 public/images/reviews/dr-peanut/cupom-dr-peanut-como-usar-capa-v2.webp -text export-ignore
@@ -1169,15 +1171,19 @@ public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-aba-6-meses.webp -text ex
 public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa-discover.webp -text export-ignore
 public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa.webp -text export-ignore
 public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-nota-reputacao-capa-v2.webp -text export-ignore
+public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-principais-problemas-2211.webp -text export-ignore
 public/images/reviews/dr-peanut/dr-peanut-reclame-aqui-principais-problemas.webp -text export-ignore
 public/images/reviews/dr-peanut/dr-peanut-rodape-cnpj.webp -text export-ignore
+public/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-alfajor-doce-de-leite.webp -text export-ignore
 public/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-capa-discover.webp -text export-ignore
 public/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-capa-v2.webp -text export-ignore
 public/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-display-speculoos.webp -text export-ignore
+public/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-kit-sortido-wafers.webp -text export-ignore
 public/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-tabela-alfajor-leite-em-po.webp -text export-ignore
 public/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-tabela-bar-cookies.webp -text export-ignore
 public/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa-v2.webp -text export-ignore
 public/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa.webp -text export-ignore
+public/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-whey-avela.webp -text export-ignore
 public/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp -text export-ignore
 public/images/reviews/eames-lounge-chair-janela-vintage.jpg -text export-ignore
 public/images/reviews/eames-lounge-chair-leitura-vintage.png -text export-ignore
@@ -2533,6 +2539,7 @@ public/images/reviews/probiotica/alternativas-a-creatina-da-growth-tabela-capsul
 public/images/reviews/probiotica/black-friday-probiotica-capa-discover.webp -text export-ignore
 public/images/reviews/probiotica/black-friday-probiotica-capa-v2.webp -text export-ignore
 public/images/reviews/probiotica/black-friday-probiotica-home.webp -text export-ignore
+public/images/reviews/probiotica/black-friday-probiotica-pack-2x-refil.webp -text export-ignore
 public/images/reviews/probiotica/creatina-com-sabor-qual-escolher-probiotica-pura-300g.webp -text export-ignore
 public/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa-v2.webp -text export-ignore
 public/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp -text export-ignore
@@ -2582,6 +2589,7 @@ public/images/reviews/probiotica/probiotica-reclame-aqui-aba-6-meses.webp -text 
 public/images/reviews/probiotica/probiotica-reclame-aqui-capa-discover.webp -text export-ignore
 public/images/reviews/probiotica/probiotica-reclame-aqui-capa.webp -text export-ignore
 public/images/reviews/probiotica/probiotica-reclame-aqui-nota-reputacao-capa-v2.webp -text export-ignore
+public/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas-2211.webp -text export-ignore
 public/images/reviews/probiotica/probiotica-reclame-aqui-principais-problemas.webp -text export-ignore
 public/images/reviews/probiotica/probiotica-rodape-cnpj.webp -text export-ignore
 public/images/reviews/probiotica/whey-probiotica-qual-escolher-capa-v2.webp -text export-ignore
