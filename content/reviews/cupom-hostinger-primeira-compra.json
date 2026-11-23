@@ -34,7 +34,7 @@
   "metaDescription": "Para a primeira compra na Hostinger, use SONAR20: 20% no primeiro período do plano. A renovação sai pelo preço de tabela; escolha o ciclo antes.",
   "publishedAt": "13 de novembro de 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-pt-v2.webp",
@@ -81,7 +81,8 @@
     {
       "heading": "O primeiro pedido decide o ciclo",
       "paragraphs": [
-        "Os 20% valem só no primeiro período, então o ciclo que você escolhe no primeiro pedido decide por quantos meses o desconto rende. O plano de 1 mês serve para testar a hospedagem: você paga menos agora, mas o mês sai mais caro e a renovação chega ao fim do mês. Os ciclos de 12, 24 e 48 meses servem para quem já decidiu ficar: os 20% valem sobre o período inteiro, e a renovação só chega no fim dele."
+        "Os 20% valem só no primeiro período, então o ciclo que você escolhe no primeiro pedido decide por quantos meses o desconto rende. O plano de 1 mês serve para testar a hospedagem: você paga menos agora, mas o mês sai mais caro e a renovação chega ao fim do mês. Os ciclos de 12, 24 e 48 meses servem para quem já decidiu ficar: os 20% valem sobre o período inteiro, e a renovação só chega no fim dele.",
+        "No ciclo de 1 mês, a aceitação do código depende do plano: no teste de 23/11/2026, o Cloud Startup de 1 mês (a primeira linha da tabela) aceitou o SONAR20, e o Single e o Premium o recusaram. Nos ciclos de 12, 24 e 48 meses, os 20% entram."
       ],
       "comparisonTable": {
         "caption": "Plano Cloud Startup no carrinho, em 13/11/2026: preço sem o código e com o SONAR20",
@@ -164,16 +165,34 @@
           "objectFit": "contain",
           "aspectRatio": 1.096
         }
+      ],
+      "emphasis": "Pelo teste de carrinho, para quem faz o primeiro pedido por 12, 24 ou 48 meses, a escolha é colar o SONAR20 no campo do cupom, porque os 20% entram nesses ciclos; no ciclo de 1 mês, só o Cloud Startup aceitou o código, e a linha \"Cupom aplicado\" é a que confirma.",
+      "links": [
+        {
+          "label": "Ver cupom SONAR20 e planos da Hostinger",
+          "href": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o desconto na primeira compra na Hostinger? O SONAR20 dá 20% no primeiro período de um plano novo. O desconto não se estende à renovação; escolha o ciclo e confira o total no carrinho.",
-        "O cupom Hostinger vale no plano mensal? No nosso teste, sim: o plano de 1 mês também teve os 20%. Confira o desconto no carrinho do ciclo que você escolher.",
+        "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
+        "O cupom Hostinger vale no plano mensal? Depende do plano. No nosso teste, o plano de 1 mês do Cloud Startup aceitou o SONAR20, e o Single e o Premium o recusaram. Nos ciclos de 12, 24 e 48 meses os 20% entram; confira a linha \"Cupom aplicado\" antes de pagar.",
         "O SONAR20 dá desconto na renovação? Não. A renovação sai pelo preço de tabela, que aparece no carrinho abaixo do plano.",
         "O cupom vale para domínio? Não no domínio avulso. Ele vale em compra nova de hospedagem, VPS, e-mail profissional e Reach."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "vai contratar o primeiro plano por 12, 24 ou 48 meses e já decidiu ficar.",
+      "quer o desconto no primeiro pedido e vai conferir a linha \"Cupom aplicado\" antes de pagar."
+    ],
+    "skipIf": [
+      "quer testar a hospedagem por 1 mês no Single ou no Premium: o carrinho recusou o código nesse ciclo.",
+      "só vai renovar ou registrar um domínio avulso: nenhum dos dois leva o desconto."
+    ]
+  }
 }

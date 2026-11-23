@@ -31,11 +31,11 @@
       "initials": "BL"
     }
   ],
-  "description": "A nota da Hostinger no Reclame Aqui em 30/09/2026: reputação Ótima, cobrança indevida no topo das queixas e como desligar a renovação automática.",
-  "metaDescription": "Hostinger no Reclame Aqui, com o cupom SONAR20 de 20% OFF: nota 8,6 e 88,6% das reclamações resolvidas nos 6 meses até set/2026.",
+  "description": "A nota da Hostinger no Reclame Aqui em 23/11/2026: reputação Ótima, cobrança indevida no topo das queixas e como desligar a renovação automática.",
+  "metaDescription": "Hostinger no Reclame Aqui, com o cupom SONAR20 de 20% OFF: nota 8,4 e 86,6% das reclamações resolvidas nos 6 meses até out/2026.",
   "publishedAt": "19 de outubro de 2026",
   "publishedAtISO": "2026-10-19",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-pt-v2.webp",
@@ -46,71 +46,81 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, com uma ressalva. Nos seis meses até setembro, a Hostinger tinha reputação Ótima no Reclame Aqui, mas a cobrança indevida lidera o ranking de problemas dos últimos três anos, e na hospedagem a renovação automática pede atenção. Veja abaixo como desligá-la; para compra nova elegível, o [cupom SONAR20 da Hostinger](/cupons/hostinger) dá 20% no primeiro período."
+        "Sim, com uma ressalva. Nos seis meses até outubro, a Hostinger tinha reputação Ótima no Reclame Aqui, nota 8,4, mas a cobrança indevida lidera o ranking de problemas dos últimos três anos, e na hospedagem a renovação automática pede atenção. Abaixo está o caminho para desligá-la. Para compra nova elegível, o cupom SONAR20 dá 20% OFF no primeiro período."
       ]
     },
     {
       "heading": "O que a nota diz e o que não diz",
       "paragraphs": [
         "A nota Ótima é o ponto de partida, mas ela resume muita coisa. Vale ver o que está por trás dela.",
-        "O perfil mostra um quadro para cada período. A tabela reúne as duas abas, com as datas que o próprio Reclame Aqui mostra embaixo de cada uma."
+        "O perfil mostra um quadro para cada período. A tabela reúne as três abas, com as datas que o próprio Reclame Aqui mostra embaixo de cada uma."
       ],
       "comparisonTable": {
         "headers": [
           "Indicador",
-          "6 meses (01/04 a 30/09/2026)",
-          "12 meses (01/10/2025 a 30/09/2026)"
+          "6 meses (01/05 a 31/10/2026)",
+          "12 meses (01/11/2025 a 31/10/2026)",
+          "Geral (24/11/2023 a 23/11/2026)"
         ],
         "rows": [
           [
             "Reputação",
-            "Ótima, nota 8,6",
+            "Ótima, nota 8,4",
+            "Ótima, nota 8,4",
             "Ótima, nota 8,4"
           ],
           [
             "Reclamações recebidas",
-            "1.352",
-            "2.416"
+            "1.418",
+            "2.491",
+            "5.859"
           ],
           [
             "Respondidas",
-            "99,3%",
-            "99,6%"
+            "99,9%",
+            "100%",
+            "98,7%"
           ],
           [
             "Aguardando resposta",
-            "10",
-            "10"
+            "1",
+            "1",
+            "74"
           ],
           [
             "Resolvidas",
-            "88,6%",
-            "87,9%"
+            "86,6%",
+            "87,3%",
+            "89%"
           ],
           [
             "Voltariam a fazer negócio",
-            "80,3%",
-            "77,6%"
+            "78,5%",
+            "77,6%",
+            "78,6%"
           ],
           [
             "Reclamações avaliadas",
-            "652",
-            "1.185"
+            "685",
+            "1.253",
+            "2.879"
           ],
           [
             "Nota média do consumidor",
-            "7,71",
-            "7,38"
+            "7,51",
+            "7,41",
+            "7,33"
           ],
           [
             "Tempo médio de resposta",
-            "8 dias e 1 hora",
-            "7 dias e 17 horas"
+            "7 dias e 23 horas",
+            "7 dias e 17 horas",
+            "7 dias e 4 horas"
           ]
         ]
       },
       "postParagraphs": [
-        "A reputação é a mesma nas duas abas. Da de 6 meses para a de 12, a taxa de resolução cai 0,7 ponto, e a de quem voltaria a fazer negócio cai 2,7 pontos."
+        "A nota é 8,4 nas três abas, mas o selo mudou: o histórico do perfil mostra RA1000 de maio a julho de 2026 e reputação Ótima de agosto a outubro. Da aba de 6 meses para a de 12, a taxa de resolução sobe 0,7 ponto, e a de quem voltaria a fazer negócio cai 0,9 ponto."
       ],
       "images": [
         {
@@ -119,23 +129,16 @@
           "caption": "Perfil da Hostinger no Reclame Aqui.",
           "objectFit": "contain",
           "aspectRatio": 3.5556
-        },
-        {
-          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-montagem-6-e-12-meses.webp",
-          "alt": "Abas de 6 meses e de 12 meses do perfil da Hostinger no Reclame Aqui, lado a lado, com as datas de cada período",
-          "caption": "Aba de 6 meses e de 12 meses do Reclame Aqui.",
-          "objectFit": "contain",
-          "aspectRatio": 0.6521
         }
       ]
     },
     {
       "heading": "Três leituras que mudam a conta",
       "paragraphs": [
-        "Primeiro, entre as reclamações avaliadas, 80,3% dizem que voltariam a fazer negócio nos 6 meses. O resto, quase um em cada cinco, não voltaria.",
-        "Segundo, menos da metade das reclamações foi avaliada: 652 de 1.352 nos 6 meses. A nota média do consumidor, 7,71, vem só dessa parte.",
-        "Terceiro, a resposta demora. O tempo médio nos 6 meses foi de 8 dias e 1 hora. A empresa responde quase tudo (99,3%), mas quem está sem site no ar não espera uma semana.",
-        "O print também não mostra o total de clientes da empresa. Sem esse número, 1.352 reclamações em 6 meses dizem quanto a empresa recebe de queixas, mas não dizem a frequência do problema para cada cliente."
+        "Primeiro, entre as reclamações avaliadas, 78,5% dizem que voltariam a fazer negócio nos 6 meses. O resto, mais de um em cada cinco, não voltaria.",
+        "Segundo, menos da metade das reclamações foi avaliada: 685 de 1.418 nos 6 meses. A nota média do consumidor, 7,51, vem só dessa parte.",
+        "Terceiro, a resposta demora. O tempo médio nos 6 meses foi de 7 dias e 23 horas. A empresa responde quase tudo (99,9%), mas quem está sem site no ar não espera uma semana.",
+        "O print também não mostra o total de clientes da empresa. Sem esse número, 1.418 reclamações em 6 meses dizem quanto a empresa recebe de queixas, mas não dizem a frequência do problema para cada cliente."
       ]
     },
     {
@@ -197,30 +200,23 @@
     {
       "heading": "Trustpilot: a nota de quem avalia",
       "paragraphs": [
-        "Em novembro, no Trustpilot, a Hostinger tinha 4,6 em 73.830 avaliações, mas a página mostra convites da empresa. Cinco estrelas somam 87%; uma estrela, 7%, cerca de 5,2 mil avaliações.",
+        "Em novembro, no Trustpilot, a Hostinger tinha 4,6 em 74.384 avaliações, mas a página mostra convites da empresa. Cinco estrelas somam 87%; uma estrela, 7%, cerca de 5,3 mil avaliações.",
         "Antes de usar esse número, veja o que a própria página mostra:"
       ],
       "bullets": [
         "O perfil é reivindicado desde 2017, ou seja, a empresa administra a página.",
         "A empresa tem assinatura paga do Trustpilot.",
         "A página diz que a Hostinger convida os clientes a avaliar, tanto as positivas quanto as negativas. Isso pode puxar a média para cima, e a página não mostra quem foi convidado e não respondeu.",
-        "A empresa responde 99% das avaliações negativas, em geral em até 24 horas, e pode usar IA nas respostas.",
+        "A empresa responde 99% das avaliações negativas (1.696 de 1.715), em média em menos de 1 dia, e pode usar IA nas respostas.",
         "O próprio Trustpilot diz que não checa as avaliações uma a uma."
       ],
       "images": [
         {
           "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
           "alt": "Topo do perfil da Hostinger no Trustpilot, com nota 4,6, 73.316 avaliações, perfil reivindicado, assinatura paga e o aviso de que a empresa convida os clientes a avaliar",
-          "caption": "Perfil da Hostinger no Trustpilot. Imagem: print do Bruno.",
+          "caption": "Perfil da Hostinger no Trustpilot em outubro. Imagem: print do Bruno.",
           "objectFit": "contain",
           "aspectRatio": 3.7969
-        },
-        {
-          "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-estrelas-trustpilot.webp",
-          "alt": "Barras de avaliação da Hostinger no Trustpilot, de 5 a 1 estrela, com os percentuais",
-          "caption": "Distribuição das avaliações da Hostinger no Trustpilot.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
         }
       ],
       "postParagraphs": [
@@ -230,7 +226,7 @@
     {
       "heading": "O que a Hostinger responde",
       "paragraphs": [
-        "Os prints mostram o índice de respostas (99,3% nos 6 meses, com 10 reclamações aguardando) e não o texto das respostas. Por isso, este texto não diz se as respostas resolvem. Antes de contratar, leia algumas respostas no perfil, principalmente as que tratam de cobrança."
+        "Os prints mostram o índice de respostas (99,9% nos 6 meses, com 1 reclamação aguardando) e não o texto das respostas. Por isso, este texto não diz se as respostas resolvem. Antes de contratar, leia algumas respostas no perfil, principalmente as que tratam de cobrança."
       ]
     },
     {
@@ -244,25 +240,27 @@
     {
       "heading": "Dá para confiar na Hostinger?",
       "paragraphs": [
-        "Pelo Reclame Aqui, sim. Nos seis meses até setembro, a reputação era Ótima (nota 8,6; em 12 meses, 8,4). A empresa respondeu 99,3% das 1.352 reclamações dos 6 meses e marcou 88,6% como resolvidas, e 80,3% de quem avaliou voltaria a fazer negócio.",
-        "A ressalva é o tipo de queixa. A cobrança indevida lidera o ranking de problemas, com 21,72%, e a resposta leva em média 8 dias e 1 hora. Na hospedagem, a renovação automática cobra sozinha antes do vencimento, e a ligação entre as duas coisas é uma leitura nossa.",
+        "Pelo Reclame Aqui, sim. Nos seis meses até outubro, a reputação era Ótima, nota 8,4 (a mesma em 12 meses e no geral; o selo RA1000 valeu de maio a julho). A empresa respondeu 99,9% das 1.418 reclamações dos 6 meses e marcou 86,6% como resolvidas, e 78,5% de quem avaliou voltaria a fazer negócio.",
+        "A ressalva é o tipo de queixa. A cobrança indevida lidera o ranking de problemas, com 21,72%, e a resposta leva em média 7 dias e 23 horas. Na hospedagem, a renovação automática cobra sozinha antes do vencimento, e a ligação entre as duas coisas é uma leitura nossa.",
         "Na prática: confira a data de renovação, desligue a renovação automática se não quiser continuar e abra o perfil no Reclame Aqui antes de contratar, porque os números mudam todo mês."
+      ],
+      "emphasis": "Pelos números do Reclame Aqui, para quem vai contratar hospedagem, a escolha é contratar com a renovação automática sob controle, porque a nota é Ótima (8,4) e 86,6% das reclamações dos 6 meses foram resolvidas, mas a cobrança indevida lidera as queixas, com 21,72%."
+    },
+    {
+      "heading": "Se você já decidiu",
+      "paragraphs": [
+        "Se decidiu contratar, use SONAR20 no campo \"Tem um cupom de desconto?\" do carrinho: 20% no primeiro período de uma compra nova elegível, inclusive para quem já tem conta. Nos ciclos de 12, 24 e 48 meses os 20% entram; no ciclo de 1 mês depende do plano (no teste de 23/11/2026, o cupom entrou no Cloud Startup e foi recusado no Single e no Premium), por isso confira a linha \"Cupom aplicado\" antes de pagar. O desconto não vale para registro de domínio, e a renovação sai pelo preço de tabela. Veja a [página da Hostinger](/cupons/hostinger) e o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Hostinger tem nota boa no Reclame Aqui? Nos 6 meses até setembro, a reputação era Ótima: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses.",
+        "Qual é o cupom da Hostinger? O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo \"Tem um cupom de desconto?\" do carrinho e confira a linha \"Cupom aplicado\" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.",
+        "A Hostinger tem nota boa no Reclame Aqui? Nos 6 meses até outubro, a reputação era Ótima: nota 8,4 nos últimos 6 meses, nos últimos 12 meses e no geral.",
         "Quais são as reclamações mais comuns da Hostinger? No ranking de problemas do Reclame Aqui (aba geral, até 3 anos), cobrança indevida aparece com 21,72%, o item mais citado.",
-        "A Hostinger responde reclamações? Sim. 99,3% das reclamações dos últimos 6 meses foram respondidas, e 10 aguardavam resposta.",
+        "A Hostinger responde reclamações? Sim. 99,9% das reclamações dos últimos 6 meses foram respondidas, e 1 aguardava resposta.",
         "Como desligar a renovação automática da Hostinger? No hPanel, abra o perfil, vá em Faturamento e depois em Assinaturas, localize o serviço e clique na chave ao lado. Leia os avisos e confirme. O produto segue ativo até o vencimento.",
         "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20% (o registro de domínio fica de fora). A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
-      ]
-    },
-    {
-      "heading": "Se você já decidiu",
-      "paragraphs": [
-        "Se decidiu contratar, use SONAR20 no campo de cupom do carrinho: 20% no primeiro período de uma compra nova elegível, inclusive para quem já tem conta. O desconto não vale para registro de domínio, e a renovação sai pelo preço de tabela. Veja a [página da Hostinger](/cupons/hostinger) e o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
       ]
     }
   ],
@@ -287,5 +285,15 @@
     {
       "slug": "black-friday-hostinger"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "vai usar o Reclame Aqui e o Trustpilot só como ponto de partida e ler as respostas e as queixas mais citadas antes de contratar",
+      "vai manter a renovação automática sob controle, com a data de vencimento anotada e a chave de Assinaturas à mão"
+    ],
+    "skipIf": [
+      "quer decidir só pela nota, sem olhar o tipo de queixa nem o tempo de resposta",
+      "não aguentaria uma cobrança de renovação inesperada nem uma espera longa por resposta"
+    ]
+  }
 }

@@ -34,7 +34,7 @@
   "metaDescription": "Is Hostinger legit? See who bills you, the 30-day refund and its exceptions, automatic renewal at a new price and what to check before you sign up.",
   "publishedAt": "October 19, 2026",
   "publishedAtISO": "2026-10-19",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -160,23 +160,13 @@
       "heading": "When Hostinger fits, and when it does not",
       "paragraphs": [
         "For a blog, a personal site or a small store, Hostinger delivers the service with clear rules; the 30-day refund depends on product eligibility and is not a free trial for every product. If the site cannot go offline, know what the 99.9% on the pricing page is worth: the hosting agreement promises that minimum each month and, when it fails, a credit of 5% of the monthly fee, claimed within 30 days; it does not cover what you failed to sell. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) has the dates and rules for each offer."
-      ]
+      ],
+      "emphasis": "By its public rules, Hostinger fits a blog, a personal site or a small store, as long as you check before paying what the 30-day refund covers and the renewal price, since renewal is on by default."
     },
     {
       "heading": "Where to see the plans",
       "paragraphs": [
-        "The code SONAR20, in the coupon field of the cart, gives 20% off the first period, for new or existing customers. If it makes sense for your site, the code and the plans are on the [Hostinger page on this site](/en/coupons/hostinger)."
-      ]
-    },
-    {
-      "heading": "Frequently asked questions",
-      "bullets": [
-        "Is Hostinger legit? Yes. Our experience with its hosting and support has been positive. Before buying, check refund eligibility, the renewal price and the company named at checkout; company size and public policies do not replace those checks.",
-        "Does Hostinger offer refunds? Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
-        "Is Hostinger renewal automatic? Yes, by default. You can turn it off in your account at any time; without a manual renewal, the service ends at the end of the period.",
-        "Who bills you at Hostinger? It depends on your country. The contracting company follows section 2 of the terms, and other companies in the group may also bill you. Check the name shown at checkout.",
-        "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The 20% applies to a new plan purchase (domain registration is excluded); renewals are charged at the list price, with no discount.",
-        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or service (not a domain registration), you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+        "The code SONAR20, in the coupon field of the cart, gives 20% off the first period, for new or existing customers. If it makes sense for your site, the code and the plans are on the [Hostinger page on this site](/en/coupons/hostinger). On 12-, 24- and 48-month terms the 20% applies; on 1-month plans acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying."
       ]
     },
     {
@@ -187,6 +177,17 @@
         "Turn off automatic renewal right after purchase if you do not want it to continue.",
         "Check at checkout and on your invoice which company appears as the biller.",
         "Look for the availability guarantee in your plan's document."
+      ]
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field of the cart and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
+        "Is Hostinger legit? Yes. Our experience with its hosting and support has been positive. Before buying, check refund eligibility, the renewal price and the company named at checkout; company size and public policies do not replace those checks.",
+        "Does Hostinger offer refunds? Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
+        "Is Hostinger renewal automatic? Yes, by default. You can turn it off in your account at any time; without a manual renewal, the service ends at the end of the period.",
+        "Who bills you at Hostinger? It depends on your country. The contracting company follows section 2 of the terms, and other companies in the group may also bill you. Check the name shown at checkout.",
+        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or service (not a domain registration), you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     }
   ],
@@ -201,6 +202,16 @@
   "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Purchases with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. Hostinger hosts this site.",
+  "decision": {
+    "takeIf": [
+      "you have a blog, a personal site or a small store and want public refund and renewal rules.",
+      "you are willing to check the product covered by the refund and the renewal price before paying."
+    ],
+    "skipIf": [
+      "your site cannot go offline and you expect compensation for lost sales.",
+      "you are counting on a free trial for every product: the refund depends on eligibility."
+    ]
+  },
   "relatedArticles": [
     {
       "slug": "hostinger-trustpilot-reviews"

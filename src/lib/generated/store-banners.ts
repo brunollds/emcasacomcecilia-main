@@ -298,7 +298,7 @@ export const storeBannersData: StoreBanner[] = [
     "endsAt": "2026-12-14T23:59:59-03:00",
     "copy": {
       "pt": {
-        "headline": "Black Friday da Hostinger: até 85% OFF",
+        "headline": "Black Friday da Hostinger: até 82% OFF",
         "text": "Campanha da própria Hostinger. Os preços e as condições aparecem no site da Hostinger.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
@@ -364,8 +364,8 @@ export const storeBannersData: StoreBanner[] = [
         "tag": "حتى"
       }
     },
-    "source": "Página hostinger.com/br/black-friday: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026\" (04/11/2026); home hostinger.com com \"Up to 85% off\" e \"Special offer • 85% off\", lida no navegador em 18/11/2026",
-    "verifiedAt": "2026-11-18"
+    "source": "Página hostinger.com/br/black-friday: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026\" (04/11/2026); home hostinger.com com \"Up to 85% off\" e \"Special offer • 85% off\", lida no navegador em 18/11/2026. Em 23/11/2026: hostinger.com/br/black-friday com até 82% (Unlimited) e o carrinho do /br com \"Ofertas da Black Friday com até 82% de desconto\"; hostinger.com/black-friday com \"Up to 85% Off Plans\"; campanha de 19/10 a 14/12/2026",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "insider-black-99-2026",

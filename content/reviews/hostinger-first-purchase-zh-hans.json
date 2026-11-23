@@ -34,7 +34,7 @@
   "metaDescription": "首次购买 Hostinger 请用 SONAR20：套餐首个计费周期减 20%。续费按标价，请先选好周期。",
   "publishedAt": "2026年11月13日",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-zh-hans-v2.webp",
@@ -81,7 +81,8 @@
     {
       "heading": "第一单决定周期",
       "paragraphs": [
-        "20% 只在首个计费周期有效，所以第一单选的周期，决定折扣覆盖多长时间。20% 适用于你所选周期的首个计费周期；续费要等这个周期结束才会到来。"
+        "20% 只在首个计费周期有效，所以第一单选的周期，决定折扣覆盖多长时间。20% 适用于你所选周期的首个计费周期；续费要等这个周期结束才会到来。",
+        "1 个月的周期是否接受优惠码要看套餐，付款前请确认购物车里的 “Coupon applied” 那一行；12、24、48 个月的周期适用 20%。"
       ],
       "comparisonTable": {
         "caption": "Cloud Startup 套餐在全球站购物车中，2026 年 11 月 13 日测试：不用优惠码与使用 SONAR20 的价格",
@@ -152,16 +153,35 @@
           "objectFit": "contain",
           "aspectRatio": 1.829
         }
+      ],
+      "emphasis": "按购物车测试结果，以 12、24 或 48 个月下第一单的人，应在优惠码栏输入 SONAR20，因为 20% 折扣算在这个首个周期；1 个月的周期则只有 “Coupon applied” 那一行能确认。",
+      "links": [
+        {
+          "label": "查看 SONAR20 优惠码与 Hostinger 套餐",
+          "href": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "常见问题",
       "bullets": [
-        "Hostinger 首次购买能优惠多少？ SONAR20 让新套餐的首个计费周期减 20%。折扣不适用于续费；请选好计费周期，并在购物车里确认总额。",
+        "Hostinger 的优惠码是什么？ Hostinger 的优惠码是 SONAR20，符合条件的新购订单首个计费周期享 20% 折扣：在购物车的 “Have a coupon code?” 栏输入，付款前确认 “Coupon applied” 那一行。续费按标价收费，没有折扣。",
+        "Hostinger 优惠码适用于月付套餐吗？ 要看套餐。12、24、48 个月的周期适用 20% 折扣；1 个月的周期请在付款前确认购物车里的 “Coupon applied” 那一行。",
         "SONAR20 对续费有折扣吗？ 没有。续费按标价收费，价格显示在购物车的套餐下方。",
         "优惠码适用于域名吗？ 单买域名不适用。它适用于新购买的主机、VPS、专业邮箱和 Reach。",
         "20% 是在整个周期里都有效吗？ 20% 适用于你所选周期的首个计费周期，之后续费按标价。付款前请在购物车确认。"
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "你要以 12、24 或 48 个月下第一单，而且已经决定长期使用。",
+      "你想在首个周期使用折扣，并会在付款前确认 “Coupon applied” 那一行。"
+    ],
+    "skipIf": [
+      "你只想先试用 1 个月主机：优惠码是否接受要看套餐，请先在购物车确认。",
+      "你只需要续费或单买域名：两者都没有折扣。"
+    ]
+  }
 }

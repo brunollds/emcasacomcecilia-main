@@ -34,7 +34,7 @@
   "metaDescription": "The SONAR20 code gives 20% off a new Hostinger plan; renewal is charged at the list price. See what each plan costs to renew, plus the refund rules.",
   "publishedAt": "November 5, 2026",
   "publishedAtISO": "2026-11-05",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -44,12 +44,12 @@
   "imageAspect": "landscape",
   "decision": {
     "takeIf": [
-      "Take this guide if you already have hosting or a VPS at Hostinger and want to settle the renewal before the charge hits.",
-      "Take it too if you have several services on the account and want to know what renews, what to switch off and what is left out, like the domain."
+      "you already have hosting or a VPS at Hostinger and want to settle the renewal before the charge hits.",
+      "you have several services on the account and want to know what renews, what to switch off and what is left out, like the domain."
     ],
     "skipIf": [
-      "Skip it if you only want to buy your first plan: the coupon guide answers that better.",
-      "Skip it if all you need is to renew a domain: the domain guide answers that better."
+      "you only want to buy your first plan: the coupon guide answers that better.",
+      "all you need is to renew a domain: the domain guide answers that better."
     ]
   },
   "pros": [],
@@ -247,11 +247,12 @@
       "postParagraphs": [
         "Keep auto-renew on for services you want to continue paying for at the stated price. If you prefer to decide before each charge, turn it off and set a reminder to renew manually before expiry. Check every service separately, including domains."
       ],
-      "emphasis": "Renewal is something to decide calmly, before the charge arrives, not on the due date."
+      "emphasis": "Under Hostinger’s rules, for existing customers, the move is to decide what to renew and for how long before the automatic charge, because SONAR20 does not apply to renewals, which are billed at the list price."
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the “Have a coupon code?” field in the cart and check the “Coupon applied” line before paying. Renewal is charged at the list price, with no discount.",
         "Does the Hostinger coupon work on renewal? No: SONAR20 gives 20% off a new purchase, and renewal is charged at the list price. The SONAR20 section explains where the code comes in.",
         "How do I cancel Hostinger auto-renewal? Under Billing, then Subscriptions, switch off the service's toggle; it stays active until the due date. The steps are in the section on how to turn it off.",
         "Does Hostinger refund a renewal? Yes, within 30 days of the charge, on eligible hosting and VPS KVM; domain renewal has no refund. The exceptions are in the refund section.",

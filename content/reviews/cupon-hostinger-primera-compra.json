@@ -34,7 +34,7 @@
   "metaDescription": "Para tu primera compra en Hostinger, usa SONAR20: 20% en el primer período del plan. La renovación sale a precio de lista; elige el ciclo antes de pagar.",
   "publishedAt": "13 de noviembre de 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -82,7 +82,8 @@
     {
       "heading": "El primer pedido decide el ciclo",
       "paragraphs": [
-        "Los 20% valen solo en el primer período, así que el ciclo que eliges en el primer pedido decide durante cuántos meses rinde el descuento. Un ciclo corto sirve para probar el hosting, pero el ahorro es menor y la renovación llega pronto. Un ciclo largo, como el de 48 meses, sirve para quien ya decidió quedarse: los 20% valen sobre el período entero, y la renovación solo llega al final de ese período."
+        "Los 20% valen solo en el primer período, así que el ciclo que eliges en el primer pedido decide durante cuántos meses rinde el descuento. Un ciclo corto sirve para probar el hosting, pero el ahorro es menor y la renovación llega pronto. Un ciclo largo, como el de 48 meses, sirve para quien ya decidió quedarse: los 20% valen sobre el período entero, y la renovación solo llega al final de ese período.",
+        "En el ciclo de 1 mes, la aceptación depende del plan, así que revisa la línea «Coupon applied» del carrito antes de pagar; en los ciclos de 12, 24 y 48 meses los 20% entran."
       ],
       "comparisonTable": {
         "caption": "Plan Startup en el carrito del sitio global, el 13 de noviembre de 2026: precio sin el código y con SONAR20",
@@ -153,16 +154,34 @@
           "objectFit": "contain",
           "aspectRatio": 1.829
         }
+      ],
+      "emphasis": "Según las pruebas del carrito, para quien hace su primer pedido en un ciclo de 12, 24 o 48 meses, lo indicado es introducir SONAR20 en el campo del cupón, porque los 20% entran en ese primer período; en el ciclo de 1 mes, solo la línea «Coupon applied» lo confirma.",
+      "links": [
+        {
+          "label": "Ver el cupón SONAR20 y los planes de Hostinger",
+          "href": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Qué descuento hay en la primera compra de Hostinger? SONAR20 da 20% en el primer período de un plan nuevo. El descuento no se extiende a la renovación; elige el ciclo y comprueba el total en el carrito.",
-        "¿El cupón Hostinger vale en el plan mensual? En nuestra prueba, sí: el plan de 1 mes también recibió los 20%. Comprueba el descuento en el carrito para el ciclo que elijas.",
+        "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20% de descuento en el primer período de una compra nueva elegible: introdúcelo en el campo «Have a coupon code?» del carrito y comprueba la línea «Coupon applied» antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
+        "¿El cupón Hostinger vale en el plan mensual? Depende del plan. En los ciclos de 12, 24 y 48 meses los 20% entran; en el de 1 mes, comprueba la línea «Coupon applied» del carrito antes de pagar.",
         "¿SONAR20 da descuento en la renovación? No. La renovación sale a precio de lista, que aparece en el carrito debajo del plan.",
         "¿El cupón vale para dominios? No para un dominio suelto. Vale en compras nuevas de hosting, VPS, correo profesional y Reach."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "vas a hacer tu primer pedido en un ciclo de 12, 24 o 48 meses y ya decidiste quedarte.",
+      "quieres el descuento en el primer período y vas a revisar la línea «Coupon applied» antes de pagar."
+    ],
+    "skipIf": [
+      "quieres probar el hosting durante 1 mes: la aceptación del código depende del plan, así que revisa antes el carrito.",
+      "solo necesitas renovar o registrar un dominio suelto: ninguno de los dos recibe el descuento."
+    ]
+  }
 }

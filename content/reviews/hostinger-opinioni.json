@@ -46,12 +46,12 @@
   "editorialNote": "Gli acquisti con SONAR20 o tramite il link possono fruttarmi una commissione, senza costi aggiuntivi per te. I dati sul costruttore con IA, sul negozio online e su Minecraft vengono da Hostinger.",
   "decision": {
     "takeIf": [
-      "Vuoi sito, WordPress, email e dominio nello stesso pannello e sai già quanto pagherai quando il piano si rinnova.",
-      "Devi far girare un'applicazione, un'automazione o un agente di IA e hai chi cura il server: in quel caso il VPS ha senso."
+      "vuoi sito, WordPress, email e dominio nello stesso pannello e sai già quanto pagherai quando il piano si rinnova.",
+      "devi far girare un'applicazione, un'automazione o un agente di IA e hai chi cura il server: in quel caso il VPS ha senso."
     ],
     "skipIf": [
-      "Il tuo budget regge solo con il prezzo d'ingresso del piano più lungo.",
-      "Vorresti un VPS ma nessuno manterrà il server: per un sito normale basta l'hosting."
+      "il tuo budget regge solo con il prezzo d'ingresso del piano più lungo.",
+      "vorresti un VPS ma nessuno manterrà il server: per un sito normale basta l'hosting."
     ]
   },
   "relatedArticles": [
@@ -151,7 +151,7 @@
     {
       "heading": "Prezzi dell’hosting web",
       "comparisonTable": {
-        "caption": "Prezzi del sito internazionale di Hostinger rilevati il 19/11, prima di applicare SONAR20. Possono variare in base al paese.",
+        "caption": "Prezzi del sito internazionale di Hostinger rilevati il 23/11, prima di applicare SONAR20. Possono variare in base al paese.",
         "headers": [
           "Piano e durata iniziale",
           "Ingresso al mese",
@@ -269,18 +269,20 @@
         "Se il rinnovo supera il tuo budget, verifica in hPanel se puoi cambiare piano o periodo di fatturazione. Se scegli un altro provider, organizza la migrazione prima della scadenza.",
         "Se vuoi confrontarla con un'altra azienda prima di decidere, [Come scegliere un hosting](/it/reviews/scegliere-hosting-hostinger) e [Hostinger o GoDaddy](/it/reviews/hostinger-o-godaddy-confronto) fanno il conto con il rinnovo.",
         "Se il dubbio è se ci si può fidare, [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile) mostra chi addebita e come funzionano i 30 giorni per chiedere il rimborso su hosting e VPS; la [reputazione su Trustpilot](/it/reviews/hostinger-recensioni-trustpilot) ha un articolo a parte."
-      ]
+      ],
+      "emphasis": "Secondo la tabella, il Premium di 48 mesi costa 1,99 US$ al mese all'ingresso e 10,99 US$ al rinnovo, circa 5,5 volte di più: Hostinger conviene a chi mette in conto il prezzo del rinnovo fin dal giorno dell'acquisto."
     },
     {
       "heading": "SONAR20: dove vale",
       "paragraphs": [
-        "SONAR20 dà il 20% di sconto sul primo periodo di un nuovo acquisto idoneo. Vale per hosting, VPS, WordPress ed email professionale. Domini e rinnovi sono esclusi. Chi è già cliente può usarlo per acquistare un prodotto idoneo che non ha ancora.",
+        "SONAR20 dà il 20% di sconto sul primo periodo di un nuovo acquisto idoneo. Vale per hosting, VPS, WordPress ed email professionale. Domini e rinnovi sono esclusi. Chi è già cliente può usarlo per acquistare un prodotto idoneo che non ha ancora. Sui cicli da 12, 24 e 48 mesi il 20% si applica; sui piani da 1 mese l'accettazione dipende dal piano, quindi controlla la riga «Coupon applied» nel carrello prima di pagare.",
         "Inserisci il codice nel carrello, nel campo «Have a coupon code?», oppure entra dai [piani di Hostinger](https://www.hostinger.com/?REFERRALCODE=SONAR20) e controlla il totale prima di pagare. La pagina del [codice sconto Hostinger](/it/coupons/hostinger) ha il passo passo e i test del codice, e il [rinnovo su Hostinger](/it/reviews/hostinger-rinnovo-codice-sonar20) ha un articolo tutto suo."
       ]
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Qual è il codice sconto di Hostinger? Il codice sconto di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo «Have a coupon code?» del carrello e controlla la riga «Coupon applied» prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
         "Hostinger conviene? Per chi vuole sito, WordPress, email o VPS con un ingresso economico e mette in conto il rinnovo; il capitolo sui costi mostra di quanto sale.",
         "Hostinger va bene per WordPress? Sì: WordPress si installa nei piani di hosting, e il capitolo su come creare un sito indica il piano per ogni numero di siti.",
         "Hostinger è affidabile? Per me, che uso quattro suoi prodotti e ho questo sito da loro, sì; chi addebita e come funziona il rimborso sono in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile).",
@@ -288,5 +290,6 @@
         "SONAR20 vale sul rinnovo? No: vale sul primo periodo di un acquisto nuovo, e il rinnovo costa il prezzo di listino."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

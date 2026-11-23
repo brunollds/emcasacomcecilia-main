@@ -34,7 +34,7 @@
   "metaDescription": "Pour un premier achat chez Hostinger, utilisez SONAR20 : 20 % sur la première période du forfait. Le renouvellement est au prix catalogue ; choisissez la durée avant de payer.",
   "publishedAt": "13 novembre 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -82,7 +82,8 @@
     {
       "heading": "Le premier achat décide de la durée",
       "paragraphs": [
-        "Les 20 % ne valent que sur la première période : la durée choisie à la première commande décide donc de combien de temps la réduction joue, et de la date à laquelle le prix catalogue s'applique. Si vous hésitez encore, une durée courte laisse le renouvellement arriver plus tôt ; si vous avez déjà décidé de rester, une durée longue étend les 20 % sur toute la période, et le renouvellement n'arrive qu'à la fin."
+        "Les 20 % ne valent que sur la première période : la durée choisie à la première commande décide donc de combien de temps la réduction joue, et de la date à laquelle le prix catalogue s'applique. Si vous hésitez encore, une durée courte laisse le renouvellement arriver plus tôt ; si vous avez déjà décidé de rester, une durée longue étend les 20 % sur toute la période, et le renouvellement n'arrive qu'à la fin.",
+        "Pour 1 mois, l'acceptation du code dépend du forfait : vérifiez la ligne « Coupon applied » du panier avant de payer ; pour 12, 24 et 48 mois, les 20 % s'appliquent."
       ],
       "comparisonTable": {
         "caption": "Forfait Cloud Startup, panier du site global, le 13 novembre 2026 : prix sans le code et avec SONAR20",
@@ -153,16 +154,35 @@
           "objectFit": "contain",
           "aspectRatio": 1.829
         }
+      ],
+      "emphasis": "D'après les essais en panier, pour une première commande sur 12, 24 ou 48 mois, le bon choix est de saisir SONAR20 dans le champ du code promo, car les 20 % s'appliquent à cette première période ; pour 1 mois, seule la ligne « Coupon applied » le confirme.",
+      "links": [
+        {
+          "label": "Voir le code SONAR20 et les forfaits Hostinger",
+          "href": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Quelle est la réduction sur un premier achat chez Hostinger ? SONAR20 donne 20 % sur la première période d'un nouveau forfait. La réduction ne s'applique pas au renouvellement ; choisissez la durée et vérifiez le total dans le panier.",
+        "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20 % de réduction sur la première période d'un nouvel achat éligible : saisissez-le dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
+        "Le code Hostinger vaut-il pour le forfait mensuel ? Cela dépend du forfait. Pour 12, 24 et 48 mois, les 20 % s'appliquent ; pour 1 mois, vérifiez la ligne « Coupon applied » du panier avant de payer.",
         "SONAR20 donne-t-il une réduction sur le renouvellement ? Non. Le renouvellement est facturé au prix catalogue, affiché dans le panier sous le forfait.",
         "Les 20 % valent-ils sur toute la durée du forfait ? Ils valent sur la première période de la durée choisie. Vérifiez le total dans le panier avant de payer.",
         "Le code vaut-il pour un domaine ? Pas pour un domaine seul. Il vaut pour un nouvel achat d'hébergement, de VPS, de messagerie professionnelle et de Reach."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "vous passez une première commande sur 12, 24 ou 48 mois et avez déjà décidé de rester.",
+      "vous voulez la réduction sur la première période et vérifierez la ligne « Coupon applied » avant de payer."
+    ],
+    "skipIf": [
+      "vous voulez tester l'hébergement pendant 1 mois : l'acceptation du code dépend du forfait, vérifiez d'abord le panier.",
+      "vous voulez seulement renouveler ou enregistrer un domaine seul : aucun des deux n'a la réduction."
+    ]
+  }
 }

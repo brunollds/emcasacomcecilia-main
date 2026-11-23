@@ -6359,14 +6359,14 @@ const STORE_COUPONS: Coupon[] = [
     category: 'Hospedagem de sites e domínios',
     hubCategory: 'diversos',
     hubCard: 'destaque',
-    shortDescription: 'todos os planos da Hostinger, mensais ou anuais, para clientes novos e antigos',
+    shortDescription: 'compra nova de planos da Hostinger, para clientes novos e antigos',
     longDescription:
-      'O cupom Hostinger SONAR20 dá 20% OFF em todos os planos, mensais ou anuais, para quem está chegando e para quem já é cliente. Cole o código no campo de cupom do carrinho. Testado no plano Startup, sobre o preço de Black Friday. O Em Casa com Cecília roda na Hostinger desde 2024.',
-    metaTitle: 'Cupom Hostinger: 20% OFF em tudo com SONAR20',
+      'O cupom Hostinger SONAR20 dá 20% OFF no primeiro período de uma compra nova, para quem está chegando e para quem já é cliente. Nos planos de 12, 24 e 48 meses ele entra; no de 1 mês, depende do plano. Cole o código no campo de cupom do carrinho e confira a linha "Cupom aplicado". O Em Casa com Cecília roda na Hostinger desde 2024.',
+    metaTitle: 'Cupom Hostinger: SONAR20 com 20% OFF na compra nova',
     metaTitleMonth: true,
     metaDescription:
-      'Cupom Hostinger: SONAR20 dá 20% OFF em planos mensais e anuais, para cliente novo ou antigo, inclusive na Black Friday.',
-    eligibleCategories: 'Compra nova de qualquer plano da Hostinger, mensal ou anual, para clientes novos e antigos; a renovação sai sem desconto',
+      'Cupom Hostinger: SONAR20 dá 20% OFF na compra nova, para cliente novo ou antigo, inclusive na Black Friday, nos planos de 12 meses ou mais.',
+    eligibleCategories: 'Compra nova de planos da Hostinger, para clientes novos e antigos, nos ciclos de 12, 24 e 48 meses; no ciclo de 1 mês, depende do plano; a renovação e o domínio avulso saem sem desconto',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
     reusable: 'Vale em compra nova, para clientes novos e para quem já tem conta na Hostinger; na renovação, não há desconto',
     shipping: 'Não se aplica',
@@ -6378,24 +6378,29 @@ const STORE_COUPONS: Coupon[] = [
     paymentPerks: [
       'O total do plano pode ser dividido em até 12 parcelas no cartão',
     ],
-    lastVerified: '2026-11-14',
-    testedAt: '2026-11-12',
+    lastVerified: '2026-11-23',
+    testedAt: '2026-11-23',
     testNote:
-      'Aplicamos o SONAR20 no campo "Tem um cupom de desconto?" do carrinho da Hostinger com o plano Single de 48 meses: o total foi de R$ 287,52 para R$ 230,02, R$ 57,50 a menos, 20% sobre o preço de Black Friday que a Hostinger já mostrava. Em 07/11/2026, com o plano Startup, que não entra no link de indicação, o período de 48 meses foi de R$ 1.919,52 para R$ 1.535,62 e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, em dólar, no teste de 14/11/2026, o mesmo plano Startup de 48 meses caiu de US$ 383,52 para US$ 306,82, os mesmos valores do teste de 29/10/2026.',
+      'Aplicamos o SONAR20 no campo "Tem um cupom de desconto?" do carrinho da Hostinger em 23/11/2026, já com os preços de Black Friday. No plano Single de 12 meses, o total foi de R$ 143,88 para R$ 115,10. No Cloud Startup de 1 mês, de R$ 139,99 para R$ 111,99. Nos planos Single e Premium de 1 mês, o carrinho respondeu "O cupom é inválido". No site global, em dólar, no teste de 14/11/2026, o Startup de 48 meses caiu de US$ 383,52 para US$ 306,82.',
     codeFieldLabel: 'Tem um cupom de desconto?',
     codeInstructions: [
       'Copie o código SONAR20 no card acima.',
       'Abra a Hostinger pelo botão desta página, escolha o plano e o período e siga para o carrinho.',
       'No resumo do pedido, clique em "Tem um cupom de desconto?", cole o SONAR20 e clique em Aplicar.',
-      'Confira o desconto no carrinho antes de pagar. A renovação, no fim do período, sai pelo preço de tabela que aparece abaixo do plano.',
+      'Confira a linha "Cupom aplicado" antes de pagar: no plano de 1 mês, o cupom pode ser recusado. A renovação, no fim do período, sai pelo preço de tabela que aparece abaixo do plano.',
     ],
     aboutBrand:
-      'A Hostinger é uma empresa de hospedagem de sites, com planos de hospedagem, criador de sites, VPS, domínios e e-mail. O Em Casa com Cecília roda na Hostinger desde 2024, como aplicação Node.js. O SONAR20 é o cupom da parceria: dá 20% OFF em todos os planos, para clientes novos e antigos.',
+      'A Hostinger é uma empresa de hospedagem de sites, com planos de hospedagem, criador de sites, VPS, domínios e e-mail. O Em Casa com Cecília roda na Hostinger desde 2024, como aplicação Node.js. O SONAR20 é o cupom da parceria: dá 20% OFF no primeiro período da compra nova, para clientes novos e antigos.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Hostinger?',
+        answer:
+          'O cupom da Hostinger é o SONAR20, com 20% OFF no primeiro período de uma compra nova elegível: digite o código no campo "Tem um cupom de desconto?" do carrinho e confira a linha "Cupom aplicado" antes de pagar. A renovação sai pelo preço de tabela, sem desconto.',
+      },
       {
         question: 'O cupom SONAR20 da Hostinger está funcionando hoje?',
         answer:
-          'Sim. No teste mais recente, o SONAR20 tirou 20% do plano Single de 48 meses no site brasileiro. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
+          'Sim. No teste mais recente, o SONAR20 tirou 20% do plano Single de 12 meses no site brasileiro. A data e os valores do teste estão em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O SONAR20 vale para quem já é cliente da Hostinger?',
@@ -6404,17 +6409,17 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom de primeira compra na Hostinger?',
         answer:
-          'Sim. O SONAR20 dá 20% OFF já no primeiro plano, mensal ou anual, e vale também para quem já é cliente.',
+          'Sim. O SONAR20 dá 20% OFF já no primeiro plano, nos ciclos de 12 meses ou mais, e vale também para quem já é cliente.',
       },
       {
         question: 'Existe cupom Hostinger de 15%?',
         answer:
-          'O SONAR20 dá mais: 20% OFF em todos os planos, mensais ou anuais, para clientes novos e antigos. No teste, os 20% entraram sobre o preço de Black Friday que a Hostinger já mostrava.',
+          'O SONAR20 dá mais: 20% OFF na compra nova, para clientes novos e antigos. No teste, os 20% entraram sobre o preço de Black Friday que a Hostinger já mostrava.',
       },
       {
         question: 'O cupom vale no plano mensal?',
         answer:
-          'Sim. Num teste nosso, o plano Startup de 1 mês caiu de R$ 139,99 para R$ 111,99 com o SONAR20, os mesmos 20% do plano de 48 meses.',
+          'Depende do plano. No nosso teste de novembro, o Cloud Startup de 1 mês caiu de R$ 139,99 para R$ 111,99, mas o carrinho recusou o código no Single e no Premium de 1 mês. Nos ciclos de 12, 24 e 48 meses, os 20% entraram. Confira a linha "Cupom aplicado" antes de pagar.',
       },
       {
         question: 'Onde coloco o cupom na Hostinger?',
@@ -6447,8 +6452,8 @@ const STORE_COUPONS: Coupon[] = [
       },
     ],
     monthlyHighlight: {
-      scope: 'em todos os planos',
-      note: 'Vale na compra nova, para clientes novos e antigos, em planos mensais ou anuais; a renovação sai sem desconto',
+      scope: 'na compra nova',
+      note: 'Vale na compra nova, para clientes novos e antigos, nos planos de 12 meses ou mais (no de 1 mês, depende do plano); a renovação sai sem desconto',
     },
     status: 'ativo',
     featured: false,

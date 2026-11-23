@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger est-il fiable ? Voyez qui facture, le remboursement sous 30 jours et ses exceptions, le renouvellement automatique à un nouveau prix et ce qu'il faut vérifier avant de souscrire.",
   "publishedAt": "19 octobre 2026",
   "publishedAtISO": "2026-10-19",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -160,23 +160,13 @@
       "heading": "Quand Hostinger convient, et quand non",
       "paragraphs": [
         "Pour un blog, un site personnel ou une petite boutique, Hostinger fournit le service avec des règles claires ; le remboursement sous 30 jours dépend du produit et n'est pas un essai gratuit pour tous les produits. Si le site ne peut pas tomber, sachez ce que vaut le 99,9 % de la page des tarifs : le contrat d'hébergement promet ce minimum chaque mois et, en cas de manquement, un crédit de 5 % de la mensualité, à demander sous 30 jours ; il ne couvre pas ce que vous n'avez pas pu vendre. Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) donne les dates et les règles de chaque offre."
-      ]
+      ],
+      "emphasis": "D'après ses règles publiques, Hostinger convient à un blog, un site personnel ou une petite boutique, à condition de vérifier avant de payer ce que couvre le remboursement sous 30 jours et le prix du renouvellement, activé par défaut."
     },
     {
       "heading": "Où voir les offres",
       "paragraphs": [
-        "Le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période, pour un client nouveau ou ancien. Si cela convient à votre site, le code et les offres se trouvent sur la [page Hostinger de ce site](/fr/coupons/hostinger)."
-      ]
-    },
-    {
-      "heading": "Questions fréquentes",
-      "bullets": [
-        "Hostinger est-il fiable ? Oui. Notre expérience de l'hébergement et du support a été positive. Avant de souscrire, vérifiez les produits remboursables, le tarif de renouvellement et la société indiquée au paiement ; la taille de l'entreprise et ses politiques publiques ne remplacent pas ces vérifications.",
-        "Hostinger rembourse-t-il ? Oui, sous 30 jours pour l'hébergement et le VPS, avec les exceptions du tableau. Le renouvellement de domaine et les services de support payants ne sont pas remboursés.",
-        "Le renouvellement chez Hostinger est-il automatique ? Oui, par défaut. Vous pouvez le désactiver dans le compte à tout moment ; sans renouvellement manuel, le service s'arrête à la fin de la période.",
-        "Qui facture chez Hostinger ? Cela dépend du pays. La société contractante suit la section 2 des conditions, et d'autres sociétés du groupe peuvent aussi facturer. Vérifiez le nom affiché au paiement.",
-        "Existe-t-il un code promo Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période, en forfait mensuel ou annuel. Les 20 % valent pour le nouvel achat d'un forfait (l'enregistrement de domaine est exclu) ; le renouvellement est facturé au prix catalogue, sans réduction.",
-        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un service nouveau (hors enregistrement de domaine) obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+        "Le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période, pour un client nouveau ou ancien. Si cela convient à votre site, le code et les offres se trouvent sur la [page Hostinger de ce site](/fr/coupons/hostinger). Sur les durées de 12, 24 et 48 mois, les 20 % s'appliquent ; sur les forfaits d'1 mois, l'acceptation dépend du forfait : vérifiez la ligne « Coupon applied » du panier avant de payer."
       ]
     },
     {
@@ -187,6 +177,17 @@
         "Désactivez le renouvellement automatique juste après l'achat, si vous ne voulez pas qu'il continue.",
         "Vérifiez au paiement et sur la facture quelle société apparaît comme émettrice.",
         "Cherchez la garantie de disponibilité dans le document de votre forfait."
+      ]
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20 % de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
+        "Hostinger est-il fiable ? Oui. Notre expérience de l'hébergement et du support a été positive. Avant de souscrire, vérifiez les produits remboursables, le tarif de renouvellement et la société indiquée au paiement ; la taille de l'entreprise et ses politiques publiques ne remplacent pas ces vérifications.",
+        "Hostinger rembourse-t-il ? Oui, sous 30 jours pour l'hébergement et le VPS, avec les exceptions du tableau. Le renouvellement de domaine et les services de support payants ne sont pas remboursés.",
+        "Le renouvellement chez Hostinger est-il automatique ? Oui, par défaut. Vous pouvez le désactiver dans le compte à tout moment ; sans renouvellement manuel, le service s'arrête à la fin de la période.",
+        "Qui facture chez Hostinger ? Cela dépend du pays. La société contractante suit la section 2 des conditions, et d'autres sociétés du groupe peuvent aussi facturer. Vérifiez le nom affiché au paiement.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un service nouveau (hors enregistrement de domaine) obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     }
   ],
@@ -201,6 +202,16 @@
   "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Les achats avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Hostinger héberge ce site.",
+  "decision": {
+    "takeIf": [
+      "vous avez un blog, un site personnel ou une petite boutique et voulez des règles publiques de remboursement et de renouvellement.",
+      "vous acceptez de vérifier le produit couvert par le remboursement et le prix du renouvellement avant de payer."
+    ],
+    "skipIf": [
+      "votre site ne peut pas tomber et vous attendez une compensation pour les ventes perdues.",
+      "vous comptez sur un essai gratuit pour n'importe quel produit : le remboursement dépend de l'éligibilité."
+    ]
+  },
   "relatedArticles": [
     {
       "slug": "hostinger-avis-trustpilot"
