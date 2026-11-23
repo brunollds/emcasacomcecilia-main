@@ -92,7 +92,7 @@
     },
     {
       "key": "Preço oficial",
-      "value": "R$ 979,90 por R$ 799,90 (preço de 13 Out 2026)"
+      "value": "R$ 799,90, de R$ 979,90, na loja oficial"
     },
     {
       "key": "Cupom de desconto",
@@ -103,7 +103,8 @@
   "cta": {
     "text": "Conheça a Genio S Touch na loja oficial e aproveite o cupom CECI",
     "label": "Ver na loja oficial",
-    "url": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1"
+    "url": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1",
+    "sponsored": true
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
@@ -123,28 +124,29 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Vale a pena, com ressalvas, para quem quer uma máquina de cápsula rápida e compacta, com painel touch que responde bem. Nas primeiras impressões, pesam contra o pingo entre preparos e a pouca conectividade em relação à NEO e à Vertuo. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+        "Vale a pena, com ressalvas, para quem quer uma máquina de cápsula rápida e compacta, com painel touch que responde bem. Pesam contra o pingo entre um preparo e outro e a pouca conectividade perto da NEO e da Vertuo. No site oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, com 10% OFF a partir de 100 reais."
       ]
     },
     {
-      "heading": "Por que testamos a Genio S Touch",
+      "heading": "A Genio S Touch e o primeiro uso",
       "paragraphs": [
         "A Genio S Touch é a versão da família com painel touchscreen. Usa cápsulas ORIGINAL e oferece Espresso Boost, quatro temperaturas e função XL.",
-        "Este artigo traz nossas primeiras impressões reais de uso: unboxing, o painel touch, a primeira xícara e o que já incomodou. Ainda é cedo pra falar de durabilidade, então vamos atualizar esta mesma página conforme usarmos mais a máquina no dia a dia, em vez de publicar uma review nova do zero."
+        "Aqui estão as primeiras impressões de uso: unboxing, o painel touch, a primeira xícara e o que já incomodou. Ainda é cedo para falar de durabilidade, então esta mesma página será atualizada conforme a máquina for usada, em vez de virar uma review nova do zero."
       ],
-      "bullets": [],
-      "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
-      "imageAlt": "Cecília Mauad apresentando a NESCAFÉ Dolce Gusto Genio S Touch na cozinha",
-      "imageFit": "square"
+      "image": {
+        "src": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
+        "alt": "Cecília Mauad apresentando a NESCAFÉ Dolce Gusto Genio S Touch na cozinha",
+        "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1",
+        "objectFit": "square"
+      }
     },
     {
       "heading": "Unboxing e primeiro contato",
       "paragraphs": [
-        "A máquina veio bem embalada, junto com o suporte para xícara/copo (que também funciona como apoio na hora da limpeza) e um código de 20% OFF de brinde (um cupom promocional do próprio fabricante, específico daquela unidade, então não é algo que garantimos pra todo comprador). Não veio nenhuma cápsula de amostra nem copo medidor.",
+        "A máquina veio bem embalada, junto com o suporte para xícara/copo (que também funciona como apoio na hora da limpeza). Não veio nenhuma cápsula de amostra nem copo medidor.",
         "No primeiro contato, o que chamou atenção foi o quanto ela é leve e compacta. O reservatório de água, de 800 ml, sai e encaixa de volta com facilidade na hora de reabastecer. A construção é sólida, sem rebarbas ou acabamento malfeito em nenhuma parte que verificamos.",
         "A única etapa antes do primeiro café é o ciclo de limpeza inicial (rodar água sem cápsula), simples e bem explicado no manual e no guia rápido que acompanham a máquina."
       ],
-      "bullets": [],
       "image": "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
       "imageAlt": "Esquema de dimensões da Arno para a NESCAFÉ Dolce Gusto Genio S Touch: 27,2 cm de altura, 12,1 cm de largura e 28,1 cm de profundidade",
       "imageCaption": "Esquema da Arno, a fabricante, com 12,1 cm de largura e 28,1 cm de profundidade. O comparativo da loja oficial informa 11,2 cm e 28,6 cm.",
@@ -156,7 +158,6 @@
         "O touch é intuitivo; o extra está no Espresso Boost e nas 4 temperaturas. O Espresso Boost é um adicional bem interessante pra quem aprecia espresso: intensifica o preparo e melhora bastante a experiência de tomar café na Dolce Gusto. Um detalhe legal: o painel só ativa quando você levanta a tampa frontal pra trocar a cápsula, o que torna trocar de bebida bem intuitivo.",
         "O toque responde bem, sem delay perceptível: não precisamos apertar duas vezes ou esperar a tela 'acordar'."
       ],
-      "bullets": [],
       "video": {
         "mp4": "/videos/reviews/dolcegusto/genio-s-touch-loop-2.mp4",
         "poster": "/images/reviews/dolcegusto/genio-s-touch-loop-2-poster.webp",
@@ -168,8 +169,7 @@
       "paragraphs": [
         "O painel mostra níveis, com os mesmos riscos da cápsula e da caixa, sem indicar ml. O manual impresso traz uma referência de volume por nível, incluindo o XL; ela não substitui a indicação de preparo da cápsula escolhida.",
         "Como esse é um dado que vale um artigo à parte (inclusive porque encontramos informação incorreta sobre isso em outros sites), a tabela completa de ml por nível está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)."
-      ],
-      "bullets": []
+      ]
     },
     {
       "heading": "A primeira xícara",
@@ -177,7 +177,6 @@
         "Das máquinas de cápsula que já tivemos em casa, a Touch foi a mais rápida a ficar pronta para a primeira bebida, Vertuo da Nespresso incluída. (A NEO, outra máquina Dolce Gusto, é um pouco menos rápida que a Touch, mas isso fica pro artigo específico dela.)",
         "O barulho ficou dentro do aceitável e não notamos vazamento. Bebida saiu na temperatura e na quantidade esperadas. O que incomodou foi ela ficar pingando entre um preparo e o outro, algo que não acontece na NEO nem na Vertuo, pelo menos no nosso uso."
       ],
-      "bullets": [],
       "video": {
         "mp4": "/videos/reviews/dolcegusto/genio-s-touch-loop-1.mp4",
         "poster": "/images/reviews/dolcegusto/genio-s-touch-loop-1-poster.webp",
@@ -188,23 +187,21 @@
     {
       "heading": "O que incomodou (sem só elogiar)",
       "paragraphs": [
-        "Além do pingo entre preparos, dois pontos práticos: a unidade 127V testada possui plugue de 20A e deve ser ligada a uma tomada compatível, sem adaptadores improvisados. E, em recursos de conectividade, ela fica atrás: a NEO tem mais integração (IoT) e custa menos (com preço de 23 de julho de 2026), e a Nespresso Vertuo (como o modelo Vertuo Pop) também oferece mais nesse quesito por um preço parecido ou um pouco mais alto.",
+        "Além do pingo entre preparos, dois pontos práticos: a unidade 127V testada possui plugue de 20A e deve ser ligada a uma tomada compatível, sem adaptadores improvisados. E, em conectividade, ela fica atrás: a NEO tem mais integração (IoT) e hoje custa praticamente o mesmo que a Touch, e a Nespresso Vertuo (como o modelo Vertuo Pop) também oferece mais nesse quesito por um preço parecido ou um pouco mais alto.",
         "Vale registrar também: existem relatos de seguidores e reclamações públicas (inclusive no Reclame Aqui) sobre o painel touch da Genio S Touch apresentando problemas depois de um tempo de uso. Com poucos dias de máquina, não temos como confirmar nem descartar esse risco: é algo que vamos acompanhar e atualizar aqui."
-      ],
-      "bullets": []
+      ]
     },
     {
       "heading": "E bebidas frias?",
       "paragraphs": [
         "O painel touch tem sim uma opção de preparo frio (ícone de xícara azul), um bom exemplo prático do que dá pra fazer no touch. Usamos exatamente essa opção pra testar o Chá de Pêssego (Nestea), pensado pra ser consumido gelado.",
         "Mesmo selecionando o preparo frio, a bebida saiu morna, por volta de 40°C, não gelada: o \"frio\" do painel muda o modo de preparo, mas não refrigera a água. Se você quer o chá (ou qualquer bebida) realmente gelado, o jeito é preparar com antecedência e levar à geladeira ou freezer, ou já deixar gelo pronto no copo antes de servir."
-      ],
-      "bullets": []
+      ]
     },
     {
-      "heading": "Cápsulas que já testamos (e as próximas da lista)",
+      "heading": "Cápsulas que já preparamos na Touch",
       "paragraphs": [
-        "Sabor saiu correto em todas as cápsulas que já testamos. Por enquanto, já passaram por aqui:"
+        "O sabor saiu correto em todas as cápsulas que já passaram por aqui:"
       ],
       "bullets": [
         "Café Caseiro",
@@ -219,33 +216,46 @@
     {
       "heading": "Veredito: vale a pena, com ressalvas",
       "paragraphs": [
-        "Nas primeiras impressões, nota 4 de 5: a velocidade e o painel touch compensam, o pingo entre preparos e a pouca conectividade pedem cautela, e ainda não dá para afirmar nada sobre durabilidade. Pelo que testamos até agora, a Genio S Touch faz mais sentido pra quem:"
+        "Nas primeiras impressões, nota 4 de 5: a velocidade e o painel touch compensam, o pingo entre preparos e a pouca conectividade pedem cautela, e ainda não dá para afirmar nada sobre durabilidade. A Genio S Touch faz mais sentido para quem:"
       ],
       "bullets": [
         "Vai usar a máquina todos os dias e valoriza um preparo rápido: foi a mais rápida que já tivemos em casa.",
         "Gosta de um painel touch intuitivo e não se importa em abrir mão de recursos de app/IoT em troca disso.",
         "Tem espaço de bancada limitado: ela é compacta e não disputa espaço.",
         "Já quem prioriza conectividade (controle por app, integração smart) ou quer evitar qualquer pingo entre preparos pode se incomodar mais: vale considerar a NEO nesses casos."
+      ],
+      "emphasis": "A Touch é a máquina de cápsula mais rápida que já tivemos em casa, e isso vale a compra para quem toma café todo dia e aguenta um pingo entre um preparo e outro.",
+      "emphasisAfterParagraph": 1,
+      "links": [
+        {
+          "label": "Ver Genio S Touch na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
+        }
       ]
     },
     {
       "heading": "Preço e como comprar",
       "paragraphs": [
-        "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço de 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF em produtos elegíveis da loja oficial, em compras a partir de R$ 100. Ele entrou no nosso teste com uma Mini Me 2.0 em promoção; para a Genio S Touch, confira o desconto no resumo antes de pagar.",
-        "Como todo cupom promocional, o CECI pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
-      ],
-      "bullets": []
+        "Na loja oficial, a Genio S Touch Prata (127V) sai por R$ 799,90, de R$ 979,90. Na consulta de novembro, a loja também dava 30 cápsulas na compra de uma máquina Original, com os brindes entrando sozinhos no carrinho. As promoções do site mudam quase todo dia e podem acabar sem aviso, então confira no regulamento e no carrinho.",
+        "O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF na loja oficial e no app, em compras a partir de 100 reais e em todas as formas de pagamento. O mínimo conta sobre o subtotal já com o desconto da promoção. Para usar, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto no resumo antes de pagar. Ele entrou no nosso teste com uma Mini Me 2.0 em promoção; na Genio S Touch, vale a mesma conferência. O código não vale no frete nem junto com o resgate de pontos do Club.",
+        "Como todo cupom promocional, o CECI pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o botão da loja oficial leva ao preço e às condições vigentes."
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
         "Qual a diferença entre a Genio S Touch e a Genio S Plus? A principal diferença é o painel: a Touch tem touchscreen, enquanto a Plus tem controle tradicional, sem touchscreen, com o nível de água escolhido por um toque no círculo de LED. Em recursos, as duas oferecem Espresso Boost, níveis de temperatura e Função XL.",
         "A Genio S Touch é compatível com cápsulas NEO? Não diretamente: ela usa o sistema ORIGINAL. Para cápsulas NEO de café preto selecionadas, é preciso comprar o Adaptador NEO Start (vendido à parte).",
         "Quantos ml saem em cada nível do painel touch? O painel mostra níveis, não o volume em ml. Veja a compilação aproximada no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel) e siga a indicação da cápsula para o preparo.",
         "A máquina vaza ou pinga água? No nosso uso, não vazou, mas pinga um pouco entre um preparo e outro, um ponto que incomodou e que não notamos em outras máquinas de cápsula que já usamos.",
         "Precisa de tomada especial? Sim, a unidade 127V testada possui plugue de 20A e deve ser ligada diretamente a uma tomada de 20A compatível, sem adaptadores improvisados.",
-        "O que é o Espresso Boost? É uma função selecionável no painel touch que intensifica o preparo do espresso. Na nossa experiência, é um adicional que vale a pena principalmente pra quem aprecia espresso: melhora bastante o resultado na xícara.",
-        "O cupom CECI ainda é válido? O CECI é o código de parceria da Dolce Gusto: 10% OFF em compras a partir de R$ 100 na loja oficial. As condições vigentes estão na página do [cupom Dolce Gusto](/cupons/dolce-gusto); confira o desconto no resumo do pedido antes de pagar."
+        "O que é o Espresso Boost? É uma função selecionável no painel touch que intensifica o preparo do espresso. Na nossa experiência, é um adicional que vale a pena principalmente pra quem aprecia espresso: melhora bastante o resultado na xícara."
       ]
     }
   ],
@@ -253,17 +263,17 @@
   "rating": 4,
   "gallery": [
     {
-      "url": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
+      "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
       "alt": "Cecília Mauad com a NESCAFÉ Dolce Gusto Genio S Touch"
     },
     {
-      "url": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
+      "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-2.webp",
       "alt": "Cecília Mauad testando a NESCAFÉ Dolce Gusto Genio S Touch em casa"
     },
     {
-      "url": "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
+      "image": "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
       "alt": "Esquema de dimensões da NESCAFÉ Dolce Gusto Genio S Touch"
     }
   ],
-  "updatedAt": "2026-11-06"
+  "updatedAt": "2026-11-23"
 }

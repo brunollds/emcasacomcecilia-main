@@ -204,31 +204,31 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Black Friday da Dolce Gusto: ofertas novas todos os dias",
-        "text": "Campanha da própria Dolce Gusto. As ofertas mudam sem aviso e as condições aparecem no site da loja.",
+        "headline": "Black Friday da Dolce Gusto: caixas a partir de R$ 15,90",
+        "text": "Campanha da própria Dolce Gusto, com ofertas que mudam sem aviso e frete grátis em bebidas acima de R$ 100. As condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Home de nescafe-dolcegusto.com.br (\"Começou a Black\") e artigo black-friday-dolce-gusto, revisado com a campanha (03/11/2026)",
-    "verifiedAt": "2026-11-03"
+    "source": "Home de nescafe-dolcegusto.com.br (\"Todo o site em oferta + frete grátis acima de R$100\") e /sobre/regulamentos2026, \"Caixas regulares a partir de R$15,90\" (sem data de fim publicada), lidos em 23/11/2026",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "dolce-gusto-maquinas-30-capsulas",
     "affiliate": "dolce-gusto",
     "slot": "mid",
-    "href": "https://www.nescafe-dolcegusto.com.br/",
+    "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe",
     "art": {
       "kind": "bag"
     },
     "copy": {
       "pt": {
-        "headline": "Mini Me 2.0 e Genio S com 30 cápsulas na Black Friday",
-        "text": "Campanha da própria Dolce Gusto, com 10 vezes sem juros. As condições aparecem no site da loja.",
+        "headline": "Máquina Original com 30 cápsulas de brinde",
+        "text": "Campanha da própria Dolce Gusto: na compra de uma Mini Me 2.0 ou Genio S no site, as 30 cápsulas entram sozinhas no carrinho, com 10 vezes sem juros.",
         "action": "Ver as máquinas"
       }
     },
-    "source": "Banners da Black Friday em nescafe-dolcegusto.com.br e artigo black-friday-dolce-gusto (03/11/2026)",
-    "verifiedAt": "2026-11-03"
+    "source": "/sobre/regulamentos2026, \"PROMOÇÃO MÁQUINA - Na compra de 1 máquina da linha ORIGINAL, ganhe 30 cápsulas\" (ativa desde 31/10/2026, sem data de fim publicada), lido em 23/11/2026",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "dr-peanut-assinatura-doctor-2026",

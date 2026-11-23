@@ -17,7 +17,7 @@
   "metaDescription": "O cupom CECI dá 10% OFF em produtos elegíveis da loja oficial a partir de R$ 100. Genio S Basic, Plus e Touch: painel, temperaturas e Espresso Boost.",
   "publishedAt": "24 de agosto de 2026",
   "publishedAtISO": "2026-08-24",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "image": "/images/reviews/dolcegusto/dolce-gusto-genio-s-basic-vs-plus-vs-touch-capa-v2.webp",
   "imageAlt": "Genio S Touch prateada em bancada com painel aceso e copo à frente, em frame de vídeo próprio.",
@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Genio S Plus é a mais equilibrada: traz Espresso Boost e quatro temperaturas sem painel touch, e compensa se a diferença para a Touch for relevante. A Basic serve a quem quer o essencial, se mais barata que a Plus; a Touch, a quem prefere toque. Na loja oficial, o CECI dá 10% OFF a partir de 100 reais."
+        "A Genio S Plus é a mais equilibrada: traz Espresso Boost e quatro temperaturas sem painel touch. A Basic serve a quem quer o essencial pagando menos, e a Touch, a quem prefere o toque. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, com 10% OFF a partir de 100 reais."
       ]
     },
     {
@@ -37,44 +37,36 @@
       "paragraphs": [
         "De olho numa Dolce Gusto compacta? A Genio S da Arno é a primeira que aparece.",
         "No entanto, existem três versões no mercado brasileiro com carcaças semelhantes: Genio S Basic (também anunciada apenas como Genio S), Genio S Plus e Genio S Touch. Os preços mudam conforme cor, voltagem e campanha, por isso a comparação deve partir dos recursos de cada modelo e do valor exibido no checkout.",
-        "Para quem está decidindo a compra, a dúvida é comum: a versão mais cara muda a extração ou principalmente a interface? Abaixo, comparamos as fichas oficiais da Basic, Plus e Touch. As observações de uso próprio se referem à Genio S Touch que utilizamos em casa; Basic e Plus não foram testadas por nós."
+        "Para quem está decidindo a compra, a dúvida é comum: a versão mais cara muda a extração ou principalmente a interface? Abaixo, comparamos as fichas oficiais da Basic, Plus e Touch. As observações de uso próprio se referem à Genio S Touch que utilizamos em casa; Basic e Plus ficam pelas fichas oficiais."
       ],
-      "bullets": [],
       "images": [
         {
           "src": "/images/reviews/dolcegusto/genio-s-basic-lateral.webp",
           "alt": "Imagem comercial da cafeteira Genio S Basic vista de lado",
           "caption": "Genio S Basic: seletor físico, dosagem automática e opções quente ou fria.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-basic-grafite-110v-new-2"
         },
         {
           "src": "/images/reviews/dolcegusto/genio-s-plus-lateral.webp",
           "alt": "Imagem comercial da cafeteira Genio S Plus vista de lado",
           "caption": "Genio S Plus: seletor físico, quatro temperaturas e Espresso Boost.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-plus-preta-110v-new"
         },
         {
           "src": "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
           "alt": "Imagem comercial da cafeteira Genio S Touch vista de lado",
           "caption": "Genio S Touch: painel sensível ao toque, quatro temperaturas e Espresso Boost.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1"
         }
       ]
     },
     {
       "heading": "Tabela comparativa: Genio S Basic vs Plus vs Touch",
       "paragraphs": [
-        "O que separa os três modelos, pelos dados da Arno:"
-      ],
-      "bullets": [
-        "Tipo de painel: Basic e Plus usam seletor físico; a Touch utiliza painel sensível ao toque;",
-        "Ajuste de Temperatura: Basic (2 opções: quente ou frio), Plus (4 níveis, do Modo Frio até bem quente) e Touch (4 níveis, do Modo Frio até bem quente);",
-        "Tecnologia Espresso Boost: Basic (não possui), Plus (sim, pré-umectação inteligente) e Touch (sim, pré-umectação inteligente);",
-        "Função XL (até 300 ml): presente em todos os três modelos para dosagem de bebidas grandes;",
-        "Aviso de limpeza/manutenção: presente nos três modelos por meio de luz indicadora;",
-        "Pressão da Bomba e Tanque: 15 bar de pressão e reservatório de 0,8 litro em todas as versões;",
-        "Desligamento Automático: Eco Mode de 1 minuto em todos os modelos;",
-        "Cores e acabamentos: variam conforme o modelo e a disponibilidade na loja oficial."
+        "O que separa a [Genio S Basic](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-basic-grafite-110v-new-2), a [Genio S Plus](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-plus-preta-110v-new) e a [Genio S Touch](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1), pelos dados da Arno:"
       ],
       "links": [
         {
@@ -88,8 +80,66 @@
         {
           "label": "Consultar a ficha oficial da Genio S Touch na Arno",
           "href": "https://www.arno.com.br/nescafe-dolce-gusto-arno-genio-s-touch-multibebidas-digital-automatica-cinza-dgs4-8010000940/p"
+        },
+        {
+          "label": "Ver a linha Genio S na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios",
+          "sponsored": true
         }
-      ]
+      ],
+      "comparisonTable": {
+        "caption": "Dados da Arno; preços da loja oficial em 23/11. Cores e acabamentos variam conforme o modelo e a disponibilidade.",
+        "headers": [
+          "Recurso",
+          "Genio S Basic",
+          "Genio S Plus",
+          "Genio S Touch"
+        ],
+        "rows": [
+          [
+            "Preço na loja oficial",
+            "R$ 389,90",
+            "R$ 489,90",
+            "R$ 799,90"
+          ],
+          [
+            "Tipo de painel",
+            "Seletor físico",
+            "Seletor físico",
+            "Painel sensível ao toque"
+          ],
+          [
+            "Ajuste de temperatura",
+            "2 opções: quente ou frio",
+            "4 níveis, do Modo Frio até bem quente",
+            "4 níveis, do Modo Frio até bem quente"
+          ],
+          [
+            "Espresso Boost (pré-umectação inteligente)",
+            "Não",
+            "Sim",
+            "Sim"
+          ],
+          [
+            "Bandeja de metal",
+            "Não",
+            "Sim",
+            "Sim"
+          ],
+          [
+            "Aviso de limpeza e manutenção",
+            "Luz indicadora",
+            "Luz indicadora",
+            "Luz indicadora"
+          ],
+          [
+            "Desligamento automático",
+            "Eco Mode de 1 minuto",
+            "Eco Mode de 1 minuto",
+            "Eco Mode de 1 minuto"
+          ]
+        ]
+      }
     },
     {
       "heading": "O que cada recurso exclusivo faz na prática?",
@@ -101,10 +151,13 @@
         "Controle de 4 temperaturas: presente na Plus e na Touch. O primeiro nível é o Modo Frio, sem aquecimento, e os outros três permitem ajustar a bebida de morna a bem quente. A temperatura final varia conforme o recipiente, o ambiente e o preparo;",
         "Painel sensível ao toque vs seletor físico: Basic e Plus mantêm controle físico; a Touch concentra os comandos num painel touch. A bandeja de metal vem na Plus e na Touch, diz a fabricante."
       ],
-      "image": "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
-      "imageAlt": "Vista lateral da Genio S Touch mostrando a estrutura compacta e vertical da linha",
-      "imageCaption": "Genio S Touch em vista lateral; dimensões e acabamento variam entre as versões da família Genio S.",
-      "imageFit": "square"
+      "image": {
+        "src": "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
+        "alt": "Vista lateral da Genio S Touch mostrando a estrutura compacta e vertical da linha",
+        "caption": "Genio S Touch em vista lateral; dimensões e acabamento variam entre as versões da família Genio S.",
+        "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1",
+        "objectFit": "square"
+      }
     },
     {
       "heading": "O que os três modelos têm em comum?",
@@ -128,38 +181,51 @@
       "bullets": [
         "Melhor equilíbrio de recursos (Genio S Plus): reúne Espresso Boost, quatro temperaturas e bandeja de metal sem exigir o painel touch. Compensa mais que a Touch quando a diferença de preço do momento for relevante; compare os dois antes da compra;",
         "Para priorizar o menor preço (Genio S Basic): uma alternativa quando estiver mais barata que a Plus, indicada para quem busca dosagem automática, modos quente e frio, função XL e os recursos básicos da linha;",
-        "Para priorizar interface (Genio S Touch): indicada para quem prefere comandos sensíveis ao toque. É o único modelo deste comparativo que usamos em casa, por isso as fotos e impressões práticas se referem a ele."
+        "Para priorizar interface (Genio S Touch): indicada para quem prefere comandos sensíveis ao toque e quer o painel mais completo da linha."
       ],
       "images": [
         {
           "src": "/images/reviews/dolcegusto/genio-s-touch-cecilia-capsula.webp",
           "alt": "Cecília com uma cápsula NESCAFÉ Dolce Gusto na mão, ao lado da Genio S Touch",
           "caption": "Nossa Genio S Touch de verdade, em uso no dia a dia aqui em casa.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1"
         },
         {
           "src": "/images/reviews/dolcegusto/genio-s-touch-cecilia-servindo.webp",
           "alt": "Cecília servindo uma bebida na Genio S Touch",
           "caption": "Extração real: a mesma máquina que usamos para testar o painel touch.",
-          "objectFit": "portrait"
+          "objectFit": "portrait",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver Genio S Plus na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-plus-preta-110v-new",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
         }
       ]
     },
     {
       "heading": "Onde comprar com desconto e como usar o cupom CECI",
       "paragraphs": [
-        "A linha Genio S sai na loja oficial da NESCAFÉ Dolce Gusto Brasil, com garantia Arno de 1 ano e versões 127V ou 220V, quando disponíveis.",
-        "Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% de desconto em produtos elegíveis, em compras a partir de R$ 100. O nosso teste em máquina foi com uma Mini Me 2.0 já em promoção. Ao escolher a Basic, a Plus ou a Touch, confira a linha de desconto no resumo antes de pagar."
+        "A linha Genio S sai na loja oficial da NESCAFÉ Dolce Gusto Brasil, com garantia Arno de 1 ano e versões 127V ou 220V, quando disponíveis. O parcelamento vai até 10x sem juros. As promoções do site mudam quase todo dia e podem acabar sem aviso: confira no regulamento e no carrinho. Na consulta de novembro, a compra de uma máquina Original dava 30 cápsulas predefinidas, com os brindes entrando sozinhos no carrinho.",
+        "Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI e dá 10% OFF na loja e no app, em compras a partir de 100 reais e em todas as formas de pagamento. Para usar, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto no resumo antes de pagar. O nosso teste em máquina foi com uma Mini Me 2.0 já em promoção; na Basic, na Plus ou na Touch, vale a mesma conferência. O código não vale no frete nem junto com o resgate de pontos do Club."
       ],
-      "bullets": [],
       "links": [
         {
-          "label": "Consultar regras e validade do cupom CECI na página Dolce Gusto",
-          "href": "/cupons/dolce-gusto"
+          "label": "Ver preços e modelos da linha Genio S na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios",
+          "sponsored": true
         },
         {
-          "label": "Ver preços e modelos da linha Genio S na loja oficial",
-          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-de-cafe",
+          "label": "Ver o regulamento das promoções da loja",
+          "href": "https://www.nescafe-dolcegusto.com.br/sobre/regulamentos2026",
           "sponsored": true
         },
         {
@@ -175,18 +241,13 @@
     {
       "heading": "Perguntas frequentes sobre as cafeteiras Genio S",
       "bullets": [
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
         "Qual a principal diferença entre a Genio S Basic e a Genio S Plus? A Basic oferece modos quente e frio e não possui Espresso Boost. A Plus adiciona quatro níveis de temperatura e a função Espresso Boost, descrita pela fabricante como pré-umectação para uma bebida mais intensa e concentrada.",
-        "O café sai com sabor diferente na Genio S Touch em relação à Basic? As duas têm pressão máxima informada de 15 bar, mas não é correto prometer resultado idêntico. Cápsula, água, volume e temperatura influenciam a bebida, e a Touch ainda oferece Espresso Boost e quatro temperaturas.",
-        "A Genio S Basic desliga sozinha? Sim, todos os modelos desligam sozinhos após 1 minuto sem uso (Eco Mode).",
         "Qual a diferença entre a Genio S Plus e a Genio S Touch? Ambas oferecem Espresso Boost e quatro temperaturas. A diferença está na interface: a Plus usa seletor físico, e a Touch, painel sensível ao toque. As duas têm bandeja de metal.",
-        "As cafeteiras Genio S têm função XL? Sim, os três modelos (Basic, Plus e Touch) contam com a opção XL para preparo de bebidas de até 300 ml.",
-        "Quem fabrica as máquinas Genio S? A linha Genio S é fabricada pela Arno sob licença NESCAFÉ Dolce Gusto, com garantia oficial de 1 ano.",
+        "As Genio S têm função XL e desligam sozinhas? Sim. Os três modelos (Basic, Plus e Touch) têm a opção XL, para bebidas de até 300 ml, e desligam após 1 minuto sem uso (Eco Mode).",
         "As três máquinas (Basic, Plus e Touch) têm modo frio? Sim. A Basic tem uma posição 'frio' no anel de duas opções; a Plus e a Touch trazem esse mesmo modo sem aquecimento como o primeiro dos 4 níveis de temperatura, ideal para bebidas geladas como o Nestea.",
-        "As máquinas Genio S só fazem café? Não. Elas aceitam cápsulas do sistema NESCAFÉ Dolce Gusto ORIGINAL, incluindo opções de chocolate, cappuccino e chá, conforme disponibilidade do catálogo.",
-        "Dá para usar cápsulas de outras marcas, como Nespresso, nas máquinas Genio S? Não. O sistema Dolce Gusto ORIGINAL usa um formato de cápsula e porta-cápsula próprio, fisicamente incompatível com o sistema Nespresso.",
         "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente: os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos NEO selecionados é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S. Segundo o [manual oficial do NEO Start](https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf), o preparo é só com água quente, sem o modo frio.",
-        "As máquinas Genio S vêm em 127V e 220V? Sim, há versões 127V e 220V, conforme modelo e disponibilidade. Verifique a tensão e o padrão da tomada antes da compra, sem usar adaptadores improvisados.",
-        "Qual o cupom de desconto para comprar cafeteiras Dolce Gusto? O CECI dá 10% de desconto em produtos elegíveis da loja oficial, em compras a partir de R$ 100, e funcionou no nosso teste com uma Mini Me 2.0 em promoção. Para a Genio S escolhida, confira a aplicação no resumo do carrinho."
+        "As máquinas Genio S vêm em 127V e 220V? Sim, há versões 127V e 220V, conforme modelo e disponibilidade. Verifique a tensão e o padrão da tomada antes da compra, sem usar adaptadores improvisados."
       ]
     }
   ],
@@ -202,7 +263,7 @@
   "cta": {
     "text": "Confira os modelos da linha Genio S na loja oficial e aplique o cupom CECI no checkout",
     "label": "Ver cafeteiras na loja oficial",
-    "url": "https://www.nescafe-dolcegusto.com.br/maquinas-de-cafe",
+    "url": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genios",
     "sponsored": true
   },
   "coupon": "CECI",
@@ -234,11 +295,6 @@
       "image": "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
       "alt": "Dimensões detalhadas da cafeteira Genio S",
       "caption": "Design compacto com reservatório de 0,8L e 15 bar de pressão."
-    },
-    {
-      "image": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
-      "alt": "Cupom de desconto CECI para NESCAFÉ Dolce Gusto",
-      "caption": "Cupom CECI: 10% de desconto em máquinas e cápsulas na loja oficial, em compras a partir de R$ 100."
     }
   ]
 }

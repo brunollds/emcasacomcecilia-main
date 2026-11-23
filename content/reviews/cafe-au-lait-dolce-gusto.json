@@ -17,6 +17,7 @@
   "metaDescription": "Café au Lait Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: açúcar, ml, calorias e alérgenos, Desnatado e Vanilla.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-capa-v2.webp",
@@ -27,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Café au Lait Dolce Gusto clássico não tem açúcar adicionado, e o Desnatado também não: os açúcares que aparecem vêm do leite. O Vanilla é a exceção, com açúcar na lista de ingredientes. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+        "O Café au Lait Dolce Gusto clássico não tem açúcar adicionado, e o Desnatado também não: os açúcares que aparecem vêm do leite. O Vanilla é a exceção, com açúcar na lista de ingredientes. Na loja oficial, o [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI, com 10% OFF a partir de 100 reais."
       ]
     },
     {
@@ -127,15 +128,18 @@
         "Uma cápsula prepara uma bebida. O clássico rende cerca de 180 ml; o Desnatado e o Vanilla, cerca de 140 ml.",
         "Conta nossa para o clássico, com os números da loja: 45 kcal por cápsula ÷ 25 kcal por 100 ml × 100 = 180 ml. Esse volume coincide com a tabela impressa na embalagem, que reunimos em nossa [tabela de medidas por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel), onde o Café au Lait aparece com 180 ml (nível 6 de 7 barras) e o Desnatado com 140 ml (nível 5). No Vanilla, o volume de cerca de 140 ml vem da nossa conta."
       ],
-      "image": "/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-xicara.webp",
-      "imageAlt": "Cápsula e xícara grande do Café au Lait Dolce Gusto",
-      "imageCaption": "Cápsula e xícara do Café au Lait, em foto da loja oficial.",
-      "imageFit": "contain"
+      "image": {
+        "src": "/images/reviews/dolcegusto/cafe-au-lait-dolce-gusto-xicara.webp",
+        "alt": "Cápsula e xícara grande do Café au Lait Dolce Gusto",
+        "caption": "Cápsula e xícara do Café au Lait, em foto da loja oficial.",
+        "href": "https://www.nescafe-dolcegusto.com.br/sabores/capsulas-cafe-au-lait-10",
+        "objectFit": "contain"
+      }
     },
     {
       "heading": "Café au Lait Desnatado: o que muda",
       "paragraphs": [
-        "O Desnatado troca o leite integral pelo desnatado. Os ingredientes são soro de leite, leite em pó desnatado, café solúvel, TCM e lecitina de soja."
+        "O [Café au Lait Desnatado](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-cafe-au-lait-desnatado-10) troca o leite integral pelo desnatado. Os ingredientes são soro de leite, leite em pó desnatado, café solúvel, TCM e lecitina de soja."
       ],
       "comparisonTable": {
         "headers": [
@@ -223,8 +227,8 @@
     {
       "heading": "Quanto custa a cápsula",
       "paragraphs": [
-        "Em 17/10/2026, a caixa do clássico com 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial. O custo era de R$ 2,25 por bebida: R$ 22,50 ÷ 10, com uma cápsula por bebida.",
-        "O Desnatado e o Vanilla estavam a R$ 25,90 por caixa, sem preço promocional. O preço muda; confira na loja.",
+        "Na consulta de outubro, a caixa do clássico com 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial. O custo era de R$ 2,25 por bebida: R$ 22,50 ÷ 10, com uma cápsula por bebida.",
+        "O Desnatado e o Vanilla estavam a R$ 25,90 por caixa, sem preço promocional. Na consulta de novembro, as três versões estavam a R$ 15,90 na promoção de bebidas da loja. O preço muda quase todo dia e a promoção pode acabar sem aviso: confira na página do produto.",
         "Para comparar com outros sabores, veja [quanto custa a cápsula Dolce Gusto](/reviews/quanto-custa-capsula-dolce-gusto)."
       ]
     },
@@ -237,12 +241,31 @@
     {
       "heading": "Onde comprar e como usar o CECI",
       "paragraphs": [
-        "O Café au Lait está na loja oficial da NESCAFÉ Dolce Gusto. O CECI dá 10% OFF na loja oficial, em compras a partir de R$ 100. Digite o código no carrinho e confira o desconto no resumo do pedido. Veja o passo a passo em [como usar o CECI na Dolce Gusto](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar) e as regras na página do [cupom Dolce Gusto](/cupons/dolce-gusto)."
+        "O [Café au Lait](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-cafe-au-lait-10) está na loja oficial da NESCAFÉ Dolce Gusto. O CECI dá 10% OFF na loja oficial e no app, em compras a partir de 100 reais e em todas as formas de pagamento. Uma caixa sozinha fica abaixo do mínimo: junte caixas até o subtotal passar disso. No carrinho, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar. O código vale em mais de um pedido, mas não vale no frete, nem junto com o resgate de pontos do Club, nem no Mercado Livre. Veja o passo a passo em [como usar o CECI na Dolce Gusto](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar) e as regras na página do [cupom Dolce Gusto](/cupons/dolce-gusto)."
+      ]
+    },
+    {
+      "heading": "Qual Café au Lait escolher: clássico, Desnatado ou Vanilla",
+      "paragraphs": [
+        "Os três usam uma cápsula por bebida. O clássico rende cerca de 180 ml, com 45 kcal; o Desnatado e o Vanilla, cerca de 140 ml, com 34 e 47 kcal. Só o Vanilla tem açúcar adicionado."
+      ],
+      "emphasis": "Na dúvida, vá no clássico: sem açúcar adicionado e com a xícara maior, de 180 ml; o Desnatado e o Vanilla ficam para quando você quiser menos gordura ou um café mais doce.",
+      "links": [
+        {
+          "label": "Ver o Café au Lait na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/sabores/capsulas-cafe-au-lait-10",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
         "Café au Lait Dolce Gusto tem açúcar? O clássico e o Desnatado não têm açúcar adicionado (0 g); os açúcares vêm do leite. O Vanilla tem 2,9 g de açúcares adicionados por cápsula.",
         "Quantos ml faz o Café au Lait Dolce Gusto? Pela nossa conta, cerca de 180 ml no clássico (nível 6 de 7 barras na máquina) e cerca de 140 ml no Desnatado (nível 5) e no Vanilla.",
         "Quantas calorias tem o Café au Lait Dolce Gusto? O clássico tem 45 kcal por cápsula de 10 g. O Desnatado tem 34 kcal e o Vanilla, 47 kcal por cápsula de 11 g.",
@@ -262,7 +285,17 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Texto feito a partir das páginas do produto na loja oficial, sem teste próprio. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI.",
+  "decision": {
+    "takeIf": [
+      "Você quer o café com leite sem açúcar adicionado, na xícara maior de 180 ml: o clássico.",
+      "Você quer menos gordura e calorias: o Desnatado, de 34 kcal por cápsula."
+    ],
+    "skipIf": [
+      "Você evita açúcar adicionado: o Vanilla tem 2,9 g por cápsula.",
+      "Você evita glúten ou lactose: a loja informa que as três versões contêm os dois."
+    ]
+  },
+  "editorialNote": "Podemos receber comissão da Dolce Gusto. Feito pelas páginas da loja, sem teste próprio.",
   "relatedArticles": [
     {
       "slug": "melhores-capsulas-dolce-gusto-2026"

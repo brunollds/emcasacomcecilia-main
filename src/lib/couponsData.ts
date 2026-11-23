@@ -403,7 +403,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'dolce-gusto',
-    cartPrint: { src: '/images/reviews/dolcegusto/cupom-dolce-gusto-carrinho-com-cupom.webp', alt: 'Carrinho da NESCAFÉ Dolce Gusto com o código CECI aplicado e, no resumo do pedido, a linha Você ganhou 10% OFF', aspectRatio: 1.263 },
+    cartPrint: { article: 'cupom-ceci-nescafe-dolce-gusto-como-usar', src: '/images/reviews/dolcegusto/cupom-dolce-gusto-carrinho-com-cupom.webp', alt: 'Carrinho da NESCAFÉ Dolce Gusto com o código CECI aplicado e, no resumo do pedido, a linha Você ganhou 10% OFF', aspectRatio: 1.263 },
     brand: 'Dolce Gusto',
     officialUrl: 'https://www.nescafe-dolcegusto.com.br/',
     offerUrl: 'https://www.nescafe-dolcegusto.com.br/',
@@ -431,20 +431,27 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories:
       'Todo o site oficial Dolce Gusto, em compras a partir de R$ 100',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
-    reusable: 'Conforme regras da loja',
-    shipping: 'Calculado separadamente, conforme política da loja',
-    combinable: 'Soma com as promoções vigentes da loja oficial',
+    reusable: 'Sim, vale em mais de um pedido',
+    shipping: 'O cupom desconta só os produtos; o frete segue a política da loja',
+    combinable: 'Soma com as promoções vigentes da loja oficial e com a assinatura; não vale com o resgate de pontos do Club',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional, inclusive em produtos que já estão em promoção' },
+      { benefit: 'assinatura', stacks: 'sim', condition: 'Os 10% entram sobre o preço do plano quando o subtotal, já com o desconto da assinatura, passa de R$ 100' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
-    lastVerified: '2026-11-17',
+    codeFieldLabel: 'Código do voucher',
+    lastVerified: '2026-11-23',
     testedAt: '2026-11-17',
     testNote:
       'Numa máquina Mini Me 2.0 em promoção, de R$ 599,90 por R$ 369,90, o CECI tirou R$ 36,99, os 10%, e o total caiu para R$ 332,91. Em 12/11/2026, num carrinho de sete caixas de Espresso Intenso, de R$ 19,99 cada, o CECI tirou R$ 13,99 dos R$ 139,93 e o total caiu para R$ 125,94; no mesmo dia, num combo da Black Friday, de R$ 207,20 por R$ 145,04, o CECI tirou R$ 14,50 e o total caiu para R$ 130,54. Em 11/11/2026, em sete caixas de Cappuccino em promoção, de R$ 25,90 por R$ 15,90 cada, o CECI tirou R$ 11,13 dos R$ 111,30. Em 26/10/2026, com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
     aboutBrand:
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Dolce Gusto?',
+        answer:
+          'É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de R$ 100, em todas as formas de pagamento. No carrinho, clique em "Resgatar códigos promocionais", digite CECI em "Código do voucher" e confira a linha do desconto antes de pagar.',
+      },
       {
         question: 'O cupom CECI vale para todas as cápsulas Dolce Gusto?',
         answer:
@@ -468,12 +475,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Existe cupom Dolce Gusto de 20% ou 50%?',
         answer:
-          'Com código, o desconto que testamos é o do CECI: 10% em compras a partir de R$ 100. Não testamos os códigos de 20% ou 50% que aparecem em sites de cupom. Quando a própria loja põe cápsulas ou máquinas em promoção, o CECI soma: os 10% entram sobre o preço promocional.',
+          'O código da parceria é o CECI: 10% em compras a partir de R$ 100. Os descontos maiores da Dolce Gusto vêm das promoções da própria loja, e o CECI soma com elas: os 10% entram sobre o preço promocional.',
       },
       {
         question: 'Posso usar o cupom CECI mais de uma vez?',
         answer:
-          'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
+          'Pode. O CECI vale em mais de um pedido, sempre em compras a partir de R$ 100. Se o checkout recusar o código, confira o valor do carrinho e se há resgate de pontos do Club no pedido.',
       },
       {
         question: 'O cupom CECI está funcionando hoje?',
@@ -499,17 +506,17 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O CECI dá 5% ou 10% na Dolce Gusto?',
         answer:
-          'Hoje, dá 10%: no teste de 17/11/2026, o checkout mostrou 10% numa máquina em promoção. No começo de outubro de 2026, o código dava 5%; desde 26/10, os testes mostram 10%. O que vale é a linha "Você ganhou 10% OFF" no resumo do carrinho, antes de pagar.',
+          'Hoje, dá 10%, em compras a partir de R$ 100. O código já deu 5% numa campanha anterior; os testes de novembro mostram 10%, inclusive numa máquina em promoção. O que vale é a linha "Você ganhou 10% OFF" no resumo do carrinho, antes de pagar.',
       },
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'Não necessariamente. O cupom concede desconto nos produtos; frete, prazo e condições de entrega seguem as regras da loja oficial Dolce Gusto.',
+          'Não. O CECI desconta só os produtos. O frete grátis, quando existe, vem das promoções da própria loja, e o prazo e as condições de entrega seguem a política da loja oficial.',
       },
       {
         question: 'O cupom CECI é cumulativo?',
         answer:
-          'Sim. O CECI soma com as promoções vigentes da loja oficial, inclusive em produtos que já estão com preço promocional. O resumo do carrinho mostra o desconto antes de você pagar.',
+          'Sim. O CECI soma com as promoções vigentes da loja oficial, inclusive em produtos que já estão com preço promocional, e com a assinatura. Só não vale com o resgate de pontos do Club no mesmo carrinho. O resumo do carrinho mostra o desconto antes de você pagar.',
       },
       {
         question: 'O link leva para a loja oficial?',
@@ -552,6 +559,36 @@ const STORE_COUPONS: Coupon[] = [
         url: '/reviews/dolce-gusto-e-confiavel',
         type: 'review',
         publishedAt: '2026-07-14',
+      },
+      {
+        title: 'Black Friday Dolce Gusto: qual máquina comprar e a conta das cápsulas',
+        url: '/reviews/black-friday-dolce-gusto',
+        type: 'review',
+        publishedAt: '2026-10-09',
+      },
+      {
+        title: 'Qual Dolce Gusto comprar: Mini Me 2.0, Genio S ou NEO',
+        url: '/reviews/dolce-gusto-maquinas-qual-escolher',
+        type: 'review',
+        publishedAt: '2026-10-12',
+      },
+      {
+        title: 'Quanto custa cada bebida Dolce Gusto, por cápsula e por xícara',
+        url: '/reviews/quanto-custa-capsula-dolce-gusto',
+        type: 'review',
+        publishedAt: '2026-10-12',
+      },
+      {
+        title: 'Assinatura Dolce Gusto vale a pena? Valor e cupom CECI',
+        url: '/reviews/assinatura-dolce-gusto-vale-a-pena',
+        type: 'review',
+        publishedAt: '2026-10-05',
+      },
+      {
+        title: 'Dolce Gusto no Reclame Aqui: nota e reclamações',
+        url: '/reviews/dolce-gusto-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-11-05',
       },
     ],
     monthlyHighlight: {
