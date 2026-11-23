@@ -603,7 +603,12 @@ O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerd
   quatro combinações nos 11; o print é o do app, em inglês, com o alt e o link do artigo do app no idioma da página):
   linha nova só com fonte (os termos dos cupons da loja ou um teste nosso), e a legenda do print diz que é o código
   de recompensa, sem data nem valor. Loja de link não tem código no carrinho: o `cartPrint` dela leva `caption` própria (a SHEIN,
-  com o 4CW5Y na busca), e o `test:coupon-offer-modes` cobra.
+  com o 4CW5Y na busca), e o `test:coupon-offer-modes` cobra. A seção "Leia antes de comprar" (`#leia-antes`) de
+  `CouponStorePage.tsx` usa `resolveStoreRelatedContent` (`src/lib/couponRelatedContent.ts`): preserva o
+  `relatedContent` curado da loja quando existe e, sem ele (inclusive nas páginas traduzidas `/<locale>/coupons/<marca>`),
+  lista até 6 artigos publicados da loja no idioma da página (exclusivos da loja antes de comparativos de várias lojas),
+  mais o link "Todos os N artigos" para `/reviews/loja/<marca>` em PT quando a loja tem 3+ artigos; a `YesStyleCouponPage`
+  mantém a seção própria dela.
 - O recorte do topo (`StoreCutout`) recebe `copyable`. Com botão de copiar, ele é um `.recorte`: fica verde e
   se solta ao copiar, e a tesoura dele corre pela linha. Sem botão (faixas ou só link), a tesoura fica parada.
   A caixa de indicação, os cupons da lista da YesStyle e as caixas de código dos "Outros cupons" também são
