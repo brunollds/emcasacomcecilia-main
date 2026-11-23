@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN tiene 3,8 sobre 5 en Trustpilot en noviembre de 2026. Las opiniones negativas tratan de paquetes y reembolsos, y el perfil es global: no separa los países.",
-  "metaDescription": "SHEIN en Trustpilot en noviembre de 2026: calificación 3,8 con 353.527 opiniones, 59 % de cinco estrellas y 18 % de una, quejas por entregas y reembolsos. Lo que la nota no muestra.",
+  "description": "SHEIN tiene 3,8 sobre 5 en Trustpilot, con 353.689 opiniones. Qué mide la nota, las quejas por paquetes y reembolsos, y por qué el perfil es global.",
+  "metaDescription": "SHEIN en Trustpilot: TrustScore 3,8 con 353.689 opiniones, 59% de cinco estrellas y 18% de una. Quejas por entrega y reembolsos, y lo que la nota no muestra.",
   "publishedAt": "29 de octubre de 2026",
   "publishedAtISO": "2026-10-29",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -33,128 +33,130 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "SHEIN tiene 3,8 sobre 5 en Trustpilot, con reservas. Esa calificación sale de 353.527 opiniones de clientes de varios países, y los temas de las opiniones negativas son paquetes que no llegaron y reembolsos tardíos o negados. El perfil es global y no separa países."
+        "SHEIN tiene una TrustScore de 3,8 sobre 5 en Trustpilot, con la etiqueta «Great», a partir de 353.689 opiniones. La mayoría son de cinco estrellas, pero las de una estrella llegan rápido y se concentran en paquetes que no llegan y en reembolsos lentos o denegados. El perfil es global, así que la nota no dice cómo llegará un pedido a tu país."
       ]
     },
     {
       "heading": "Qué mide la calificación",
       "paragraphs": [
-        "El TrustScore es la calificación del perfil en Trustpilot. Suma la compra entera, no solo la calidad de los artículos. En noviembre de 2026, SHEIN tenía 3,8, con la etiqueta \"Great\" en la versión en inglés del sitio, con 353.527 opiniones; 22.625 de ellas se publicaron en los últimos 12 meses. El perfil está reclamado por la empresa y tiene una suscripción de pago, como informa la propia página.",
-        "La distribución por estrellas: 59 % de cinco estrellas, 12 % de cuatro, 6 % de tres, 5 % de dos y 18 % de una. Cinco y cuatro estrellas suman la mayor parte."
+        "La TrustScore es la calificación del perfil en Trustpilot. En noviembre de 2026, SHEIN tenía 3,8 con la etiqueta «Great», a partir de 353.689 opiniones, y 14.994 se publicaron en los últimos 12 meses."
       ],
-      "image": {
-        "src": "/images/reviews/shein/shein-trustpilot-estrelas-2810.webp",
-        "alt": "Barras de cinco a una estrella con la distribución de las opiniones de SHEIN en Trustpilot: 59 %, 12 %, 6 %, 5 % y 18 %",
-        "caption": "Distribución de las opiniones de SHEIN en Trustpilot por estrellas. Cuadro nuestro.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
+      "comparisonTable": {
+        "caption": "Perfil de SHEIN en Trustpilot (www.shein.com), leído el 23/11/2026.",
+        "headers": [
+          "Indicador",
+          "Lo que muestra el perfil"
+        ],
+        "rows": [
+          [
+            "TrustScore",
+            "3,8 sobre 5, «Great»"
+          ],
+          [
+            "Total de opiniones",
+            "353.689"
+          ],
+          [
+            "Opiniones de los últimos 12 meses",
+            "14.994"
+          ],
+          [
+            "Estrellas, de cinco a una",
+            "59%, 12%, 6%, 5% y 18%"
+          ],
+          [
+            "Estado del perfil",
+            "Perfil reclamado desde 2015, con plan de pago"
+          ],
+          [
+            "De dónde vienen las opiniones",
+            "La tienda invita a los clientes a opinar tras la compra"
+          ],
+          [
+            "Respuestas a las negativas",
+            "98%, normalmente en 24 horas; la tienda puede usar IA"
+          ]
+        ]
       }
     },
     {
       "heading": "Tres lecturas que cambian la cuenta",
       "paragraphs": [
-        "Primero, el 18 % de una estrella. Casi una de cada cinco opiniones es de una estrella, más que el 11 % de dos y tres estrellas juntas, y es ahí donde aparecen las quejas.",
-        "Segundo, responder no es resolver. SHEIN respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la página avisa que la respuesta puede usar inteligencia artificial. Los números no dicen si resolvieron el problema de quien se quejó.",
-        "Tercero, la calificación es global. El perfil no separa las opiniones por país, y compradores con envíos, plazos y reglas de aduana distintos caben en una sola nota. Cómo irá la entrega en tu país no está en ese número."
+        "Primero, las invitaciones. La tienda pide opinión después de la compra, y un perfil de pago que invita a opinar atrae muchas opiniones cortas de cinco estrellas. El 3,8 suma años de opiniones e invitaciones.",
+        "Segundo, el flujo reciente. En nuestra lectura, las de una estrella llegaron mucho más rápido que las de cinco: las 40 más recientes de una estrella caben en una semana, y las 40 de cinco estrellas abarcan tres meses.",
+        "Tercero, responder no es resolver. La tienda respondió al 98% de las opiniones negativas, normalmente en 24 horas. Una respuesta pública no demuestra que el problema se resolvió."
       ]
     },
     {
-      "heading": "Qué aparece en las quejas",
+      "heading": "Lo que dicen las quejas",
       "paragraphs": [
-        "Las opiniones negativas visibles en el perfil el 28 de octubre de 2026 giran en torno al paquete y al dinero:"
+        "Leímos las 40 opiniones de una estrella más recientes, publicadas entre el 16 y el 23 de noviembre de 2026. Todas fueron espontáneas, y la tienda respondió a 35. Los temas:"
       ],
       "bullets": [
-        "Paquete perdido, robado o que nunca llegó, a veces con una foto de entrega que el cliente discute.",
-        "Reembolso que tardó o fue negado, incluidas devoluciones que la tienda dijo no haber recibido.",
-        "Atención lenta o con respuestas estandarizadas.",
-        "Problemas con el producto: talla, calidad, artículo equivocado o faltante."
+        "Entrega (11): paquete que no llegó, enviado a una dirección equivocada o a un punto de recogida que nadie pidió, o marcado como entregado sin llegar.",
+        "Devolución y reembolso (9): devolución recibida y no reembolsada, artículos que dicen faltar en la devolución, reembolsos lentos.",
+        "Artículos que faltan o llegan cambiados en el paquete (6).",
+        "Producto y talla (5): distinto a la publicación, calidad, numeración grande.",
+        "Atención, cuenta y cobros (9): atención solo con robot, cuentas bloqueadas, cargos extra, juegos de puntos."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
-        "alt": "Ilustración de una pantalla de seguimiento con la entrega detenida y la casa todavía esperando, junto a un comprobante con código de barras y una moneda con una flecha de vuelta, el reembolso",
+        "alt": "Ilustración de una pantalla de seguimiento con la entrega detenida y la casa aún esperando, junto a un comprobante con código de barras y una moneda con una flecha de vuelta, el reembolso",
         "caption": "Ilustración nuestra del paquete que no llega y del reembolso, los temas de las quejas. Guarda el comprobante y el número de seguimiento.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
       "postParagraphs": [
-        "Son los temas de las opiniones, no una medida de con qué frecuencia falla un pedido. Dicen dónde mirar: el seguimiento después del envío, la prueba de entrega, el comprobante de la devolución y la solicitud de reembolso."
+        "Son temas de 40 opiniones, no una medida de cuántos pedidos salen mal. Indican dónde mirar: el seguimiento después del envío, la prueba de entrega, el recibo de la devolución y la solicitud de reembolso."
       ]
     },
     {
-      "heading": "Qué aparece en los elogios",
+      "heading": "Lo que dicen los elogios",
       "paragraphs": [
-        "Las opiniones positivas visibles en el perfil eran pocas, así que la muestra es pequeña. Sus temas son otros:"
+        "Leímos las 40 opiniones de cinco estrellas más recientes, que abarcan tres meses (del 29 de agosto al 19 de noviembre de 2026): 10 llegaron por la invitación automática de la tienda, 1 por un enlace y 29 fueron espontáneas. Los elogios hablan de:"
       ],
       "bullets": [
         "Precios bajos.",
-        "Mucha variedad.",
-        "Calidad razonable.",
-        "Entrega sin problemas."
+        "Variedad de productos.",
+        "Entrega rápida.",
+        "Devolución y reembolso fáciles.",
+        "Buena calidad para el precio."
       ],
       "postParagraphs": [
-        "Elogio y queja hablan de momentos distintos de la compra: el elogio, del catálogo, del precio y del paquete que llegó; la queja, del paquete que no llegó y del reembolso que no vino. La calificación suma los dos."
+        "Algunas de esas opiniones ni mencionan la tienda. No leímos las de cuatro y dos estrellas, que también forman la nota. Elogios y quejas describen momentos distintos de la compra: el catálogo y el precio de un lado, el paquete que no llega del otro. La nota suma las dos cosas."
       ]
     },
     {
       "heading": "Trustpilot: quién opina, y desde dónde",
       "paragraphs": [
-        "El perfil de www.shein.com reúne opiniones de distintos países, sin informar cuántas vienen de cada uno. No aísla la entrega ni el servicio al cliente de tu destino.",
-        "El sitio de Trustpilot del Reino Unido mostraba el mismo perfil y las mismas cifras.",
-        "Por eso la calificación habla de los clientes de la tienda en todo el mundo, no de cómo irá un pedido a tu dirección."
-      ],
-      "image": {
-        "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
-        "alt": "Móvil con el perfil de SHEIN en Trustpilot: nota 3,8, reparto de estrellas y respuesta al 98 % de las reseñas negativas",
-        "caption": "Perfil de SHEIN en Trustpilot, versión móvil. Captura del sitio, con dos partes ampliadas.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      }
-    },
-    {
-      "heading": "Nuestra verificación",
-      "paragraphs": [
-        "Los números vienen de una lectura pública, hecha sin iniciar sesión, del perfil de SHEIN en Trustpilot:"
-      ],
-      "bullets": [
-        "La calificación, el número de opiniones, la distribución por estrellas, el índice de respuestas y las opiniones visibles, de donde salieron los temas.",
-        "El alcance del perfil, que es global, y el sitio regional del Reino Unido, que mostraba el mismo."
-      ],
-      "postParagraphs": [
-        "Lo que no se leyó: el texto de las respuestas de la tienda, las opiniones por país y los demás sitios regionales de Trustpilot aparte del del Reino Unido. Por eso el texto no dice si las respuestas resuelven algo.",
-        "Los números cambian todos los meses. Revisa el perfil el día de la compra.",
-        "Cecília es afiliada de SHEIN: las compras por los enlaces de este sitio pueden generar una comisión, sin costo para ti. Eso no cambia los números, que vienen del perfil público."
-      ],
-      "links": [
-        {
-          "label": "Perfil de SHEIN en Trustpilot",
-          "href": "https://www.trustpilot.com/review/www.shein.com"
-        }
+        "El perfil www.shein.com reúne opiniones de clientes de varios países y no separa la nota por país. La página también informa de que la empresa recibió atención de organismos reguladores. Trustpilot dice que presenta esa información de forma neutral y solo a modo informativo; la contamos del mismo modo. Está en el perfil, y la nota no la explica.",
+        "Para un pedido a tu país, revisa en el sitio o la app oficial de SHEIN de tu país el costo de envío, el plazo, el IVA o los aranceles de importación y las reglas de devolución."
       ]
     },
     {
       "heading": "¿Se puede confiar en SHEIN por Trustpilot?",
       "paragraphs": [
-        "Por Trustpilot, los números son estos: TrustScore 3,8, \"Great\", con 353.527 opiniones, 59 % de cinco estrellas y 18 % de una, y el 98 % de las negativas respondidas, en general en menos de 24 horas.",
-        "Las salvedades son de alcance y de tema. El perfil es global y no separa países, así que dice cómo se comporta la tienda en conjunto, no cómo irá un pedido a tu dirección. Y las opiniones negativas tratan de paquetes que no llegaron y de reembolsos tardíos o negados: la calificación sola no dice con qué frecuencia pasa."
-      ]
+        "Según Trustpilot, la tienda tiene una calificación de 3,8 sobre 5, con una mayoría de opiniones de cinco estrellas y un 18% de una estrella, y responde al 98% de las negativas. Dos cosas frenan la nota: las quejas rápidas de una estrella sobre paquetes y dinero, y un perfil global. La nota dice cómo trata la tienda a sus clientes en conjunto, no cómo llegará un pedido concreto a tu país."
+      ],
+      "emphasis": "La nota dice cómo trata SHEIN a sus clientes en conjunto, y las quejas muestran dónde está el riesgo: el paquete y el reembolso. Guarda pruebas de los dos."
     },
     {
       "heading": "Antes de pagar",
       "paragraphs": [
-        "Las quejas señalan qué proteger. Compra por el sitio o la app oficial de SHEIN de tu país y guarda el comprobante de pago y el número de seguimiento: muestran qué se pagó y dónde quedó el paquete.",
-        "Si el paquete no llega o el artículo viene mal, pide el reembolso por el canal de la propia tienda, en el sitio o en la app, y guarda el comprobante de la devolución si envías algo de vuelta.",
-        "Antes de comprar, abre algunas opiniones de una estrella en el perfil y lee la respuesta de la tienda debajo de cada una, sobre todo las de paquetes que no llegaron y de reembolsos.",
-        "Quién opera SHEIN en tu país y de dónde es la empresa está en [¿SHEIN es confiable y segura?](/es/reviews/shein-es-confiable-y-seguro).",
+        "Guarda el comprobante del pago y el número de seguimiento: muestran lo que pagaste y dónde se detuvo el paquete.",
+        "Si el paquete no llega o el artículo viene mal, pide el reembolso por el canal de la tienda, en el sitio o en la app, y guarda el recibo de la devolución si envías algo de vuelta.",
+        "Para saber quién opera SHEIN y de qué país es la empresa, lee [¿SHEIN es confiable y segura?](/es/reviews/shein-es-confiable-y-seguro).",
         "Si ya decidiste comprar, la [página de SHEIN](/es/coupons/shein) lleva al sitio oficial."
       ]
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿SHEIN tiene buena calificación en Trustpilot? El TrustScore era 3,8, con la etiqueta \"Great\", con 353.527 opiniones; el 59 % daba cinco estrellas y el 18 %, una.",
-        "¿Cuáles son las quejas más comunes sobre SHEIN? En las opiniones negativas, los temas eran paquetes perdidos, robados o que nunca llegaron, a veces con una foto de entrega discutida; reembolsos tardíos o negados, incluidas devoluciones que la tienda dijo no haber recibido; atención lenta o estandarizada; y problemas de producto como talla, calidad, artículo equivocado o faltante. Son temas, no un recuento.",
-        "¿SHEIN responde a las opiniones negativas? Según el perfil de Trustpilot, la tienda respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la respuesta puede usar inteligencia artificial. Los números no dicen si las respuestas resolvieron el problema.",
-        "¿La calificación de Trustpilot vale para mi país? No ofrece un resultado específico por país. El perfil global reúne opiniones de varios países; consulta los plazos de entrega y las reglas de devolución de tu destino en el sitio o la app oficial de SHEIN."
+        "¿SHEIN tiene buena calificación en Trustpilot? La TrustScore es de 3,8 sobre 5, con la etiqueta «Great», a partir de 353.689 opiniones; el 59% son de cinco estrellas y el 18% de una.",
+        "¿Cuáles son las quejas más comunes sobre SHEIN? En las 40 opiniones de una estrella que leímos, los temas fueron entrega, devoluciones y reembolsos, artículos que faltan o llegan cambiados, producto y talla, y atención, cuenta y cobros. Son temas de una muestra, no cifras de todo el perfil.",
+        "¿SHEIN responde a las opiniones negativas? Según el perfil, respondió al 98%, normalmente en 24 horas, y puede usar IA en sus respuestas. Una respuesta no demuestra que el problema se resolvió.",
+        "¿La nota de Trustpilot vale para mi país? No hay una nota por país. El perfil es global y no separa las opiniones por país; revisa plazos, envío, impuestos de importación y devoluciones en el sitio o la app oficial de tu país.",
+        "¿Qué es el código 4CW5Y y cómo se usa? Es el código de referido de Cecília, no un cupón de pago. Abre SHEIN con el enlace de este sitio, o busca 4CW5Y en la app o el sitio de SHEIN: se abre una selección de productos, promociones y descuentos, y SHEIN decide cuánto y en qué artículos."
       ]
     }
   ],
@@ -172,7 +174,23 @@
       "slug": "shein-es-confiable-y-seguro"
     },
     {
-      "slug": "shein-o-temu-cual-elegir"
+      "slug": "vale-la-pena-shein"
+    },
+    {
+      "slug": "codigo-de-referido-shein-donde-ponerlo"
+    },
+    {
+      "slug": "black-friday-shein-fechas-impuestos"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Aceptas plazos de entrega largos y buscas moda y hogar a precios bajos.",
+      "Guardas el comprobante y el número de seguimiento, y sabes pedir el reembolso por el canal de la tienda."
+    ],
+    "skipIf": [
+      "Necesitas el artículo en una fecha fija, porque la queja de una estrella más frecuente es el paquete que no llega.",
+      "No quieres depender de una atención lenta, de la que se quejan a menudo las opiniones de una estrella."
+    ]
+  }
 }

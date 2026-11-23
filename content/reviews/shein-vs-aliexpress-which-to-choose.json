@@ -19,7 +19,7 @@
   "metaDescription": "4CW5Y gives a discount on selected SHEIN offers. SHEIN or AliExpress in the UK: shipping, returns and tax side by side, and what to check.",
   "publishedAt": "November 17, 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -31,10 +31,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
+      "Choose SHEIN if you want more time to change your mind and the item is one SHEIN takes back within 30 days of receipt.",
       "Choose AliExpress if the piece you want is sold there and its page shows free returns and a delivery forecast that works for you."
     ],
     "skipIf": [
-      "Skip AliExpress if the listing leaves the return deadline, cost or address unclear and you need to return the item if it does not fit."
+      "Skip AliExpress if the listing leaves the return deadline, cost or address unclear and you need to return the item if it does not fit.",
+      "Skip SHEIN if the item is lingerie, underwear or costume jewelry, which only come back within the 14 legal days."
     ]
   },
   "affiliate": [
@@ -109,6 +111,7 @@
         "**Shipping and the delivery forecast**, which at AliExpress change with the listing and with where the piece ships from.",
         "**The guaranteed refund date** at AliExpress: if the parcel has not arrived by then, you can ask for the full amount back.",
         "**Whether the piece has free returns** and for how many days. Without it, a return for a change of mind at AliExpress is paid by you.",
+        "**Payment methods:** at AliExpress, the full list only appears at checkout once you are signed in, so check there that your usual method is accepted.",
         "**The total**, with shipping and any taxes, at the end of each store's checkout, and your name and address correct on the order."
       ],
       "postParagraphs": [
@@ -136,7 +139,8 @@
       "heading": "Which to choose: what to weigh",
       "paragraphs": [
         "SHEIN allows most eligible items back within 30 days of receipt. AliExpress lists 15 days after delivery for local sellers and 90 days from the order for overseas sellers, while free-return terms vary by listing. These periods start on different dates: check how much time remains after arrival, who pays the return and where it goes. Choose using those terms, the delivery estimate and the final cost."
-      ]
+      ],
+      "emphasis": "At SHEIN the return window comes from the store's policy; at AliExpress it comes from each listing. The choice is settled on the item's page, before you pay."
     },
     {
       "heading": "What each one sells: a sample",
@@ -343,9 +347,8 @@
       ]
     },
     {
-      "heading": "Partnership and referral code",
+      "heading": "Links and the 4CW5Y referral code",
       "paragraphs": [
-        "Cecília is an affiliate of SHEIN and AliExpress and may earn a commission on purchases made through the links in this article, at no extra cost to you. That does not change the answer: the choice depends on what you are buying.",
         "4CW5Y is Cecília's referral code at SHEIN, and it does give you a discount on a selection of SHEIN products and promotions; how much and on which items is SHEIN's call. Open SHEIN through Cecília's link and search for the code in the app or on the site, not in the coupon field. AliExpress has no code of ours."
       ],
       "links": [

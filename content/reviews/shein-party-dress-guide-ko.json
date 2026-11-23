@@ -27,14 +27,8 @@
   "imageAlt": "SHEIN 상품 등록 이미지에서 성인 모델이 거울 앞에 서서 트레인이 있는 남색 ADYCE 이브닝드레스를 입고 있으며, 옆에 추천 코드 4CW5Y가 표시되어 있습니다.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "각 상품 페이지의 소재, 안감, 평점이 있는 드레스 3벌",
-    "모든 상품에 센티미터 단위 사이즈 가이드 제공"
-  ],
-  "cons": [
-    "배송이 파티 날짜에 맞아야 함",
-    "할인 가격은 바뀜"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "SHEIN에서 이름으로 드레스를 검색하고, 결제 전에 주문 페이지에서 배송 예정일을 확인하세요.",
     "label": "SHEIN으로 이동",
@@ -47,6 +41,15 @@
   "relatedArticles": [
     {
       "slug": "shein-trust-guide-ko"
+    },
+    {
+      "slug": "shein-size-guide-ko"
+    },
+    {
+      "slug": "shein-worth-it-ko"
+    },
+    {
+      "slug": "shein-black-friday-ko"
     }
   ],
   "contentSections": [
@@ -339,7 +342,8 @@
           "aspectRatio": 0.7506,
           "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "emphasis": "저라면 색보다 먼저 파티 날짜로 드레스를 고르겠습니다. 전날 도착하면 입어 보거나 기장을 줄이거나 사이즈를 바꿀 시간이 없습니다."
     },
     {
       "heading": "자주 묻는 질문",

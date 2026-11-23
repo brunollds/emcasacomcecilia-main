@@ -16,10 +16,10 @@
     "url": "/sobre"
   },
   "description": "Sim, a SHEIN é uma loja legítima, operada no Brasil por uma empresa registrada. Veja o que pesa na decisão, como prazo, imposto e devolução, e o que conferir antes de pagar.",
-  "metaDescription": "SHEIN é confiável, com empresa no Brasil: o código 4CW5Y dá desconto em uma seleção da SHEIN. Reputação Boa no Reclame Aqui nos seis meses até set/2026.",
+  "metaDescription": "SHEIN é confiável, com empresa no Brasil: o código 4CW5Y dá desconto em uma seleção da SHEIN. Reputação Boa no Reclame Aqui nos seis meses até out/2026.",
   "publishedAt": "13 de outubro de 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/shein/shein-e-confiavel-capa-v2.webp",
@@ -32,7 +32,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, a SHEIN é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui estava Boa em setembro. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um e o que conferir antes de pagar."
+        "Sim, a SHEIN é uma loja legítima: no Brasil, o site e o aplicativo são operados por uma empresa registrada, e a reputação no Reclame Aqui está Boa, com nota 7,5, nos seis meses até outubro. O que pesa na decisão é o prazo do pedido internacional, o imposto e a devolução; os capítulos abaixo explicam cada um."
       ]
     },
     {
@@ -71,7 +71,7 @@
     {
       "heading": "O que o Reclame Aqui mostra",
       "paragraphs": [
-        "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,5 de 10. Os números abaixo são dos seis meses até 30 de setembro de 2026. É uma fotografia desse período, não a nota de hoje."
+        "No Reclame Aqui, a SHEIN tem reputação \"Boa\", com nota 7,5 de 10 nos seis meses de 1º de maio a 31 de outubro de 2026. É uma fotografia desse período, não a nota de hoje."
       ],
       "comparisonTable": {
         "caption": "Perfil da SHEIN no Reclame Aqui, na janela de seis meses descrita acima; as duas últimas linhas são dos últimos três anos.",
@@ -86,35 +86,35 @@
           ],
           [
             "Reclamações",
-            "32.431"
+            "33.252"
           ],
           [
             "Respondidas",
-            "95,3%"
+            "92,6%"
           ],
           [
             "Resolvidas",
-            "77,8%"
+            "77,6%"
           ],
           [
             "Voltariam a fazer negócio",
-            "70,6%"
+            "71%"
           ],
           [
             "Nota do consumidor",
-            "6,3 de 10"
+            "6,33 de 10"
           ],
           [
             "Tempo médio de resposta",
-            "3 dias e 5 horas"
+            "3 dias e 10 horas"
           ],
           [
             "Problema mais citado (últimos 3 anos)",
-            "Produto não recebido, 36,47%"
+            "Produto não recebido, 36,01%"
           ],
           [
             "Categoria mais citada (últimos 3 anos)",
-            "Moda feminina, 19,62%"
+            "Moda feminina, 18,87%"
           ]
         ]
       },
@@ -162,9 +162,9 @@
       ]
     },
     {
-      "heading": "Parceria e código de indicação",
+      "heading": "Como usar o código de indicação 4CW5Y",
       "paragraphs": [
-        "Este artigo é editorial, e a Cecília é afiliada da SHEIN: compras pelos links dela podem gerar comissão, sem custo para você. O 4CW5Y é o código de indicação dela e dá desconto, sim: pelo link da Cecília, ou copiando o código e pesquisando no app ou no site da SHEIN, abre uma página com uma seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN, e varia. O código não vai no campo de cupom."
+        "O 4CW5Y é o código de indicação da Cecília e dá desconto, sim: abra a SHEIN pelo link dela, ou copie o código e pesquise na busca do app ou do site da SHEIN. Abre uma página com uma seleção de produtos, promoções e descontos. Quanto e em quais peças, quem decide é a SHEIN, e varia. O código não vai no campo de cupom."
       ],
       "image": {
         "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
@@ -189,7 +189,8 @@
       "paragraphs": [
         "Sim, desde que você compre pelo site ou pelo aplicativo oficial. Na janela de seis meses do quadro acima, a SHEIN tinha reputação Boa, com nota 7,5 de 10; os percentuais de resposta e solução estão lá.",
         "O problema mais citado é produto não recebido, então confira o prazo na página do pedido, o imposto no resumo e guarde a confirmação da compra."
-      ]
+      ],
+      "emphasis": "Para uma peça sem pressa, a SHEIN é uma loja segura de usar; para um presente ou um look com data marcada, eu não apostaria no prazo do pedido internacional."
     },
     {
       "heading": "Perguntas frequentes",
@@ -227,5 +228,15 @@
     {
       "slug": "codigo-de-indicacao-shein"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Leve se a peça não tem data marcada e você aceita esperar o prazo do pedido internacional, que a SHEIN estima entre 5 e 30 dias.",
+      "Leve se você confere prazo, imposto e frete no resumo do pedido antes de pagar e guarda a confirmação da compra."
+    ],
+    "skipIf": [
+      "Passe se você precisa da peça numa data fixa, como uma festa ou uma viagem, e não quer depender da estimativa de entrega.",
+      "Passe se o imposto do resumo do pedido, somado ao frete, tira a vantagem do preço da peça."
+    ]
+  }
 }

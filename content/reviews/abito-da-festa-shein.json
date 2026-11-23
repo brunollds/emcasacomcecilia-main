@@ -4,7 +4,7 @@
   "locale": "it",
   "translationKey": "shein-vestido-festa",
   "title": "Abito da festa su SHEIN: come scegliere per occasione, tessuto e tempi di consegna",
-  "seoTitle": "Abito da festa SHEIN: come scegliere per Natale, Capodanno e laurea",
+  "seoTitle": "Abito da festa SHEIN: tessuto, taglia e consegna",
   "type": "Guida all'acquisto",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -27,14 +27,8 @@
   "imageAlt": "Modella adulta in una foto della scheda prodotto SHEIN, con un abito da sera ADYCE blu navy con strascico davanti a uno specchio, accanto al codice invito 4CW5Y.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "Tre abiti con tessuto, fodera e valutazione dalla pagina di ogni prodotto",
-    "Guida alle taglie in centimetri per ogni capo"
-  ],
-  "cons": [
-    "La consegna deve arrivare prima della data della festa",
-    "Il prezzo in offerta cambia"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "Cercate l'abito per nome su SHEIN e controllate i tempi di consegna nella pagina dell'ordine prima di pagare.",
     "label": "Vai su SHEIN",
@@ -47,6 +41,15 @@
   "relatedArticles": [
     {
       "slug": "shein-e-affidabile-e-sicuro"
+    },
+    {
+      "slug": "taglie-shein"
+    },
+    {
+      "slug": "shein-conviene"
+    },
+    {
+      "slug": "black-friday-shein-date-e-tasse"
     }
   ],
   "contentSections": [
@@ -339,7 +342,8 @@
           "aspectRatio": 0.7506,
           "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "emphasis": "Se fosse per me, sceglierei l'abito partendo dalla data della festa, prima del colore. Un abito bellissimo che arriva il giorno prima non lascia il tempo di provarlo, accorciarlo o cambiare taglia."
     },
     {
       "heading": "Domande frequenti",

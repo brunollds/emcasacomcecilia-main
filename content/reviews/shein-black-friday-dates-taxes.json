@@ -28,9 +28,7 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
-  "cons": [
-    "The percentage in the ad applies to some items, not the whole cart"
-  ],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Quick answer",
@@ -118,14 +116,14 @@
         ],
         "rows": [
           [
-            "[Campaign best sellers](https://onelink.shein.com/60/68f7ufe4ubai)",
+            "[Shoes and bags flash sale](https://onelink.shein.com/60/68f7ufe4ubai)",
             "24V7643",
-            "The campaign's most sold items"
+            "Shoes, sandals and bags at flash-sale prices"
           ],
           [
-            "[Clearance and new-user coupon](https://onelink.shein.com/60/68f7vymzstri)",
+            "[Super offers](https://onelink.shein.com/60/68f7vymzstri)",
             "B75N67A",
-            "Clearance items and a coupon SHEIN announces for new users"
+            "Discounted items from several categories"
           ],
           [
             "[Sleepwear and lingerie](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -150,7 +148,7 @@
         ]
       },
       "postParagraphs": [
-        "The coupon in the B75N67A selection is for new users only. The cap, the minimum spend and who can use it appear in your account and at checkout.",
+        "In the B75N67A selection, SHEIN sometimes shows a coupon for new users. When it appears, the cap, the minimum spend and who can use it show in your account and at checkout.",
         "4CW5Y is something else: it is Cecília's referral code. Searched in the app or on the site, or opened through the link in this guide, it leads to a selection with promotions and discounts, and it works for existing customers too.",
         "Two selections call for care with returns. Lingerie and underwear usually have stricter return rules, and so do cosmetics once the seal is open: check the shade and the ingredient list on the SHEGLAM page before opening, and read your store's return policy before paying.",
         "The M3UP428 selection groups clothes by style and fit. Use it together with the size chart of each piece."
@@ -878,7 +876,8 @@
       ],
       "paragraphs": [
         "**Shipping:** check the delivery charge for your address and the conditions of any free shipping offer in the cart."
-      ]
+      ],
+      "emphasis": "I would compare the final price in the cart before getting excited about the percentage in the ad: it is the closed total, with delivery and any taxes, that tells you whether a deal is worth it."
     },
     {
       "heading": "Frequently asked questions",
@@ -916,5 +915,17 @@
     {
       "slug": "yesstyle-black-friday-dates-coupons"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "You want 17 pieces sorted by need, with fabric and measurements, before you open the SHEIN page.",
+      "You are buying a Christmas gift and want to check the delivery estimate before paying.",
+      "You don't mind checking price, currency and stock in your own country's SHEIN store before deciding."
+    ],
+    "skipIf": [
+      "You need a hard-to-find size and plan to wait for the last phase: stock can run out first.",
+      "You expect the same percentage on every piece: the “up to” in the ad covers selected items.",
+      "You want an identical price in every country: price, currency and offers change from store to store."
+    ]
+  }
 }

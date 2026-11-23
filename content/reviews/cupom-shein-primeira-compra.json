@@ -19,7 +19,7 @@
   "metaDescription": "O 4CW5Y é código de indicação da SHEIN para o primeiro pedido e os seguintes: pesquise no app ou no site e veja a seleção de promoções e descontos.",
   "publishedAt": "13 de novembro de 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/shein/cupom-shein-primeira-compra-capa-pt-v2.webp",
@@ -100,7 +100,8 @@
       "paragraphs": [
         "Para os pedidos seguintes, o código é o mesmo: o 4CW5Y segue valendo como código de indicação.",
         "A página abre até sem login: o código não depende de ser o primeiro pedido."
-      ]
+      ],
+      "emphasis": "Eu não esperaria um código de primeira compra: o 4CW5Y abre a seleção da SHEIN em qualquer pedido, e é por ele que eu começo, no primeiro e nos seguintes."
     },
     {
       "heading": "Onde pesquisar o código",
@@ -125,5 +126,15 @@
         "O 4CW5Y vale no site e no app? Vale nos dois: a busca do app e a do site abrem a página do código."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você vai fazer o primeiro pedido na SHEIN e quer chegar a uma seleção de promoções e descontos pela busca, sem colar nada no carrinho.",
+      "Você já comprou antes e quer saber se o código ainda serve: serve, e a página abre até sem login."
+    ],
+    "skipIf": [
+      "Você procura um cupom para colar no fechamento do pedido: o 4CW5Y não faz isso, e os cupons de checkout ficam em Meus Cupons e na nossa página de cupom SHEIN.",
+      "Você quer saber o desconto exato antes de abrir a página: quanto e em quais peças, quem decide é a SHEIN."
+    ]
+  }
 }

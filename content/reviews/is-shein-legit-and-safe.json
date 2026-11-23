@@ -119,9 +119,9 @@
       ]
     },
     {
-      "heading": "Partnership and referral code",
+      "heading": "How to use the 4CW5Y referral code",
       "paragraphs": [
-        "This article is editorial, and Cecília is a SHEIN affiliate: purchases made through her links may earn a commission, at no cost to you. 4CW5Y is Cecília's referral code for SHEIN, and it does give you a discount: open SHEIN through her link, then copy the code and search it in the SHEIN app or on the SHEIN site: a special SHEIN page opens with a selection of products, promotions and discounts. How much and on which items is up to SHEIN, and it varies. It is not entered in the coupon field."
+        "4CW5Y is Cecília's referral code for SHEIN, and it does give you a discount: open SHEIN through her link, or copy the code and search it in the SHEIN app or on the SHEIN site. A special SHEIN page opens with a selection of products, promotions and discounts. How much and on which items is up to SHEIN, and it varies. The code is not entered in the coupon field."
       ],
       "links": [
         {
@@ -139,7 +139,8 @@
       "paragraphs": [
         "Yes, as long as you buy on your market's official site or in the official SHEIN app. According to their privacy policies, SHEIN US Services, LLC runs the US site and Infinite Styles Services Co., Limited the UK one, and SHEIN says it does not sell customer data.",
         "Before you pay, check the shipping cost and delivery time on the order page, the import taxes at checkout and the return deadline, and keep the order confirmation. In the US you have up to 30 days from delivery to return; in the UK, 14 days by law and most items up to 30 days under SHEIN's policy."
-      ]
+      ],
+      "emphasis": "For something that can wait, SHEIN is a safe store to use; for a gift or an outfit with a fixed date, I would not count on the delivery estimate."
     },
     {
       "heading": "Frequently asked questions",
@@ -174,5 +175,15 @@
     {
       "slug": "shein-referral-code-where-to-enter"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Take it if you buy on your market's official site or in the app and check shipping, import taxes and the return deadline before paying.",
+      "Take it if the item has no fixed date and you can wait for delivery."
+    ],
+    "skipIf": [
+      "Skip it if you need the item by a specific date, such as a party or a trip.",
+      "Skip it if the item has a shorter return window and you are not sure about the size."
+    ]
+  }
 }

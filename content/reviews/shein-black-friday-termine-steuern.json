@@ -28,9 +28,7 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
-  "cons": [
-    "Der Prozentsatz der Ankündigung gilt für einzelne Artikel, nicht für den ganzen Warenkorb"
-  ],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Kurze Antwort",
@@ -87,14 +85,14 @@
         ],
         "rows": [
           [
-            "[Bestseller der Kampagne](https://onelink.shein.com/60/68f7ufe4ubai)",
+            "[Schuhe und Taschen im Blitzverkauf](https://onelink.shein.com/60/68f7ufe4ubai)",
             "24V7643",
-            "Die meistverkauften Artikel der Kampagne"
+            "Schuhe, Sandalen und Taschen zu Blitzangebotspreisen"
           ],
           [
-            "[Restposten und Gutschein für Neukunden](https://onelink.shein.com/60/68f7vymzstri)",
+            "[Superangebote](https://onelink.shein.com/60/68f7vymzstri)",
             "B75N67A",
-            "Restposten und ein Gutschein, den SHEIN für Neukunden ankündigt"
+            "Reduzierte Artikel aus mehreren Kategorien"
           ],
           [
             "[Schlafmode und Dessous](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -119,7 +117,7 @@
         ]
       },
       "postParagraphs": [
-        "Der Gutschein in der Auswahl B75N67A gilt nur für Neukunden. Obergrenze, Mindestbestellwert und wer ihn nutzen kann, sehen Sie in Ihrem Konto und an der Kasse.",
+        "In der Auswahl B75N67A zeigt SHEIN manchmal einen Gutschein für Neukunden. Wenn er erscheint, sehen Sie Obergrenze, Mindestbestellwert und wer ihn nutzen kann in Ihrem Konto und an der Kasse.",
         "4CW5Y ist etwas anderes: Es ist Cecílias Empfehlungscode. Wenn Sie ihn in der App oder auf der Website suchen oder über den Link in diesem Leitfaden öffnen, führt er zu einer Auswahl mit Aktionen und Rabatten, und er funktioniert auch für Bestandskunden.",
         "Bei zwei Auswahlen sollten Sie auf die Rückgabe achten. Dessous und Unterwäsche haben meist strengere Rückgaberegeln, ebenso Kosmetik, sobald das Siegel geöffnet ist: Prüfen Sie Farbton und Inhaltsstoffe auf der SHEGLAM-Seite, bevor Sie öffnen, und lesen Sie die Rückgaberichtlinie Ihres Shops, bevor Sie bezahlen.",
         "Die Auswahl M3UP428 gruppiert Kleidung nach Stil und Passform. Nutzen Sie sie zusammen mit der Größentabelle jedes Teils."
@@ -847,7 +845,8 @@
       ],
       "paragraphs": [
         "**Versand:** Prüfen Sie im Warenkorb die Lieferkosten für Ihre Adresse und die Bedingungen eines möglichen Gratisversands."
-      ]
+      ],
+      "emphasis": "Bevor ich mich vom Prozentsatz der Anzeige begeistern ließe, würde ich den Endpreis im Warenkorb vergleichen: Erst die Summe mit Versand und Steuern zeigt, ob sich das Angebot lohnt."
     },
     {
       "heading": "Häufige Fragen",
@@ -885,5 +884,17 @@
     {
       "slug": "yesstyle-black-friday-termine-gutscheine"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Sie möchten 17 Teile nach Bedarf sortiert sehen, mit Stoff und Maßen, bevor Sie die SHEIN-Seite öffnen.",
+      "Sie kaufen ein Weihnachtsgeschenk und wollen die voraussichtliche Lieferung vor dem Bezahlen prüfen.",
+      "Es stört Sie nicht, Preis, Währung und Bestand im SHEIN-Shop Ihres Landes zu prüfen, bevor Sie sich entscheiden."
+    ],
+    "skipIf": [
+      "Sie brauchen eine schwer zu findende Größe und wollen auf die letzte Phase warten: Der Bestand kann vorher ausgehen.",
+      "Sie erwarten denselben Prozentsatz auf jedes Teil: Das „bis zu“ der Anzeige gilt für ausgewählte Artikel.",
+      "Sie wollen in jedem Land denselben Preis: Preis, Währung und Angebote ändern sich von Shop zu Shop."
+    ]
+  }
 }

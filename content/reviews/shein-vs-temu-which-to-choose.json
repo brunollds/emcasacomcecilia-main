@@ -87,7 +87,7 @@
       ],
       "bullets": [
         "**Temu:** 90 days from purchase under Temu's policy, and 14 days by law from receipt. The 90 days apply to most items; some, clothing included, have their own conditions, so check Temu's policy for your item. The first return of each order is free; from the second, you pay the return cost.",
-        "**SHEIN:** most items up to 30 days after receipt under SHEIN's policy, and 14 days by law from receipt. Lingerie, underwear and costume jewelry only come back within the 14 days. In the US, SHEIN's site (SHEIN US Services, LLC) publishes returns up to 30 days after delivery."
+        "**SHEIN:** most items up to 30 days after receipt under SHEIN's policy, and 14 days by law from receipt. Lingerie, underwear and costume jewelry only come back within the 14 days."
       ]
     },
     {
@@ -320,9 +320,8 @@
       ]
     },
     {
-      "heading": "Partnership and referral code",
+      "heading": "Links and referral code 4CW5Y",
       "paragraphs": [
-        "Cecília is an affiliate of SHEIN and Temu and may earn a commission on purchases made through the links in this article, at no extra cost to you. That does not change the answer: the choice depends on what you are buying.",
         "4CW5Y is Cecília's referral code at SHEIN, and it does give you a discount on a selection of SHEIN products and promotions; how much and on which items is SHEIN's call. Open SHEIN through Cecília's link and search for the code in the app or on the site: the search opens a selection with promotions and discounts. It does not go in the coupon field."
       ],
       "links": [
@@ -371,10 +370,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Choose Temu if your item qualifies for its 90-day return policy from purchase and the deadline leaves more time after delivery than SHEIN’s deadline for the item."
+      "Choose Temu if your item qualifies for its 90-day return policy from purchase and the deadline leaves more time after delivery than SHEIN’s deadline for the item.",
+      "Choose SHEIN if you want a delivery window published before you pay: 5 to 8 working days for Standard, against 6 to 13 working days on Temu."
     ],
     "skipIf": [
-      "Skip SHEIN if you want more room to return than the 30 days after receipt it gives on most items."
+      "Skip SHEIN if you want more room to return than the 30 days after receipt it gives on most items.",
+      "Skip Temu if you need the item by a fixed date: it publishes 6 to 13 working days for Standard delivery, on top of 1 to 3 days of processing."
     ]
   }
 }

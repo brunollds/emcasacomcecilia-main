@@ -32,7 +32,7 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Der SHEIN-Empfehlungscode gibt Rabatt. Öffnen Sie SHEIN über Cecílias Link und suchen Sie 4CW5Y in der Suche des Shops, in der App oder auf der Website, nicht im Gutscheinfeld: Der Code öffnet eine spezielle Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie hoch und auf welche Teile, entscheidet SHEIN, und das variiert."
+        "Der SHEIN-Empfehlungscode gibt Rabatt. Öffnen Sie SHEIN über Cecílias Link oder kopieren Sie 4CW5Y und suchen Sie in der Suche des Shops danach, in der App oder auf der Website, nicht im Gutscheinfeld. Er öffnet eine Seite mit Produkten, Aktionen und Rabatten; wie hoch und auf welche Teile, entscheidet SHEIN."
       ]
     },
     {
@@ -85,9 +85,7 @@
           "href": "/de/coupons/shein"
         }
       ],
-      "postParagraphs": [
-        "Käufe über den Link oder Code können der Person, die ihn geteilt hat, eine Provision einbringen, ohne Mehrkosten für Sie."
-      ]
+      "emphasis": "Ich behandle 4CW5Y als Eingang zu den Aktionen von SHEIN und nicht als Gutschein: Den Rabatt auf jedes Teil zeigt die Seite, die er öffnet."
     },
     {
       "heading": "Warum die alten Anleitungen mit dem Gutschein des alten Programms nicht mehr gelten",
@@ -133,6 +131,19 @@
     },
     {
       "slug": "shein-black-friday-termine-steuern"
+    },
+    {
+      "slug": "shein-gutschein-erstbestellung"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Sie wollen bei SHEIN einkaufen und über die Suche zur Auswahl an Aktionen und Rabatten kommen, ohne nach einem Gutschein zu suchen.",
+      "Sie wollen die Anleitung mit Screenshots, wo Sie den Code in der App oder auf der Website eingeben."
+    ],
+    "skipIf": [
+      "Sie suchen einen Gutschein zum Einfügen im Warenkorb: Der Empfehlungscode gehört in die Suche, nicht ins Gutscheinfeld.",
+      "Sie wollen einen eigenen Code zum Weitergeben: Ihrer stammt aus dem Affiliate-Programm von SHEIN, mit Anmeldung und Voraussetzungen."
+    ]
+  }
 }

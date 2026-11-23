@@ -19,7 +19,7 @@
   "metaDescription": "¿SHEIN es confiable y segura? Quién opera los sitios de España y México, de qué país es, si es seguro pagar, la devolución, la aduana y qué revisar antes de pagar.",
   "publishedAt": "13 de octubre de 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -128,9 +128,9 @@
       ]
     },
     {
-      "heading": "Colaboración y código de referido",
+      "heading": "Cómo usar el código de referido 4CW5Y",
       "paragraphs": [
-        "Este artículo es editorial, y Cecília es afiliada de SHEIN: las compras hechas por sus enlaces pueden generar una comisión, sin costo para ti. 4CW5Y es el código de referido de Cecília para SHEIN y sí da descuento: abre SHEIN por su enlace, copia el código y búscalo en la app o en el sitio de SHEIN: se abre una página con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN, y varía. El código no va en el campo de cupón."
+        "4CW5Y es el código de referido de Cecília para SHEIN y sí da descuento: abre SHEIN por su enlace, o copia el código y búscalo en la app o en el sitio de SHEIN. Se abre una página con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN, y varía. El código no va en el campo de cupón."
       ],
       "links": [
         {
@@ -148,7 +148,8 @@
       "paragraphs": [
         "Sí, siempre que compres en el sitio oficial de tu mercado o en la app oficial de SHEIN. Según la política de privacidad de cada sitio, en España lo opera Infinite Styles Services Co., Limited (“ISSL”), y SHEIN dice que no vende los datos de sus clientes.",
         "Antes de pagar, revisa el costo y el plazo de envío en la página del pedido, los impuestos de importación en el checkout y el plazo de devolución, y guarda la confirmación del pedido. En España tienes 14 días de desistimiento por ley y, según la política de SHEIN, la mayoría de los artículos puede devolverse hasta 30 días después de recibirlos; en México, hasta 30 días desde la recepción."
-      ]
+      ],
+      "emphasis": "Para algo que puede esperar, SHEIN es una tienda segura; para un regalo o un look con fecha fija, no confiaría en la estimación de entrega."
     },
     {
       "heading": "Preguntas frecuentes",
@@ -184,5 +185,15 @@
     {
       "slug": "codigo-de-referido-shein-donde-ponerlo"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Compra si lo haces en el sitio oficial de tu mercado o en la app y revisas envío, impuestos de importación y plazo de devolución antes de pagar.",
+      "Compra si la prenda no tiene fecha fija y puedes esperar la entrega."
+    ],
+    "skipIf": [
+      "Evítalo si necesitas el artículo para una fecha concreta, como una fiesta o un viaje.",
+      "Evítalo si el artículo tiene un plazo de devolución menor y no estás seguro de la talla."
+    ]
+  }
 }

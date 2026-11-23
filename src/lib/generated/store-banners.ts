@@ -825,8 +825,8 @@ export const storeBannersData: StoreBanner[] = [
         "tag": "حتى"
       }
     },
-    "source": "Mensagem da campanha (Mega Promoção 11.11, #SHEIN1111) e link enviados pelo Bruno em 07/11/2026; a loja mostra \"termina em 38 dias\", sem data fixa",
-    "verifiedAt": "2026-11-07"
+    "source": "Mensagem da campanha (Mega Promoção 11.11, #SHEIN1111) e link enviados pelo Bruno em 07/11/2026; a loja mostra \"termina em 38 dias\", sem data fixa; código confirmado ativo pelo Bruno em 23/11/2026",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "shein-novos-usuarios",
@@ -906,8 +906,8 @@ export const storeBannersData: StoreBanner[] = [
         "tag": "حتى"
       }
     },
-    "source": "Link e código enviados pelo Bruno em 02/11 (antes no coupon.campaigns da SHEIN)",
-    "verifiedAt": "2026-11-02"
+    "source": "Link e código enviados pelo Bruno em 02/11 (antes no coupon.campaigns da SHEIN); código confirmado ativo pelo Bruno em 23/11/2026",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "shein-produtos-selecionados",
@@ -975,8 +975,8 @@ export const storeBannersData: StoreBanner[] = [
         "action": "شاهد الحملة"
       }
     },
-    "source": "coupon.campaigns da SHEIN em couponsData.ts, migrado em 02/11 (verificado em 24/10)",
-    "verifiedAt": "2026-10-24"
+    "source": "coupon.campaigns da SHEIN em couponsData.ts, migrado em 02/11 (verificado em 24/10); código confirmado ativo pelo Bruno em 23/11/2026",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "simple-organic-clean-friday-2026",

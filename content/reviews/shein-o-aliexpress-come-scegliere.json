@@ -19,7 +19,7 @@
   "metaDescription": "4CW5Y dà uno sconto su una selezione SHEIN. SHEIN o AliExpress: spedizione, resi e dogana a confronto e cosa controllare in ogni annuncio.",
   "publishedAt": "17 novembre 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -31,10 +31,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
+      "Scegli SHEIN se vuoi più tempo per ripensarci e l’articolo è tra quelli che SHEIN accetta in reso fino a 30 giorni dal ricevimento.",
       "Scegli AliExpress se l’articolo che vuoi è lì e la pagina dell’annuncio mostra il reso gratuito e una data di consegna che ti va bene."
     ],
     "skipIf": [
-      "Evita AliExpress se l’annuncio non chiarisce scadenza, costo o indirizzo del reso e vuoi poter restituire il capo se la taglia non va bene."
+      "Evita AliExpress se l’annuncio non chiarisce scadenza, costo o indirizzo del reso e vuoi poter restituire il capo se la taglia non va bene.",
+      "Evita SHEIN se l’articolo è lingerie, biancheria intima o bigiotteria, che si restituiscono solo entro i 14 giorni di legge."
     ]
   },
   "affiliate": [
@@ -109,6 +111,7 @@
         "**La spedizione e la data di consegna**, che su AliExpress cambiano con l’annuncio e con il luogo da cui parte l’articolo.",
         "**La data di rimborso garantito** di AliExpress: se il pacco non arriva entro quella data, puoi chiedere l’intero importo.",
         "**Se l’articolo ha il reso gratuito** e per quanti giorni. Senza, su AliExpress il reso per ripensamento lo paghi tu.",
+        "**I metodi di pagamento:** su AliExpress l’elenco completo compare solo nel checkout, con l’accesso effettuato; verifica lì che quello che usi sia accettato.",
         "**Il totale**, con spedizione e imposte, alla fine del checkout di ciascun negozio, e i dati di nome e indirizzo corretti nell’ordine."
       ],
       "postParagraphs": [
@@ -138,7 +141,8 @@
       "heading": "Quale scegliere, a seconda dell’acquisto",
       "paragraphs": [
         "SHEIN accetta la maggior parte degli articoli idonei fino a 30 giorni dal ricevimento. AliExpress pubblica 15 giorni dopo la consegna con venditori locali e 90 giorni dall’ordine con venditori esteri. I termini partono da date diverse: controlla quanto tempo resta dopo l’arrivo, chi paga il reso e a quale indirizzo va spedito. Scegli in base a queste condizioni, alla consegna prevista e al costo finale."
-      ]
+      ],
+      "emphasis": "Su SHEIN il termine per il reso lo fissa la politica del negozio; su AliExpress, ogni annuncio. La scelta si decide nella pagina dell’articolo, prima di pagare."
     },
     {
       "heading": "Cosa vende ciascun negozio: un esempio",
@@ -345,9 +349,8 @@
       ]
     },
     {
-      "heading": "Partnership e codice invito",
+      "heading": "Link e codice invito 4CW5Y",
       "paragraphs": [
-        "Cecília è affiliata di SHEIN e di AliExpress e può ricevere una commissione sugli acquisti fatti con i link di questo articolo, senza costi per te. Questo non cambia la risposta: la scelta dipende da cosa compri.",
         "Il 4CW5Y è il codice invito di Cecília su SHEIN e dà lo sconto, sì, su una selezione di prodotti e promozioni di SHEIN; quanto e su quali articoli lo decide SHEIN. Apri SHEIN dal link di Cecília e cerca il codice nell’app o sul sito, non nel campo del coupon. AliExpress non ha un codice nostro."
       ],
       "links": [
@@ -381,7 +384,7 @@
         "SHEIN e AliExpress sono la stessa cosa? No. SHEIN si presenta come rivenditore di moda a marchio proprio, fondato nel 2012; AliExpress è il marketplace internazionale del gruppo Alibaba, dove ogni venditore ha il proprio negozio.",
         "Quale consegna più in fretta, SHEIN o AliExpress? Dipende dall’ordine e, su AliExpress, dall’annuncio. SHEIN mostra una stima calcolata per ogni ordine, AliExpress i tempi di ogni articolo. Confronta le due indicazioni prima di pagare.",
         "Quale costa meno, SHEIN o AliExpress? Dipende dall’articolo e dal venditore. Il totale lo cambiano spedizione, imposte e, su SHEIN, lo sconto del codice invito. Confronta il totale alla fine del checkout.",
-        "AliExpress è affidabile per i vestiti? La politica di AliExpress prevede il rimborso totale se il pacco non arriva entro la data garantita e accetta il reso di vestiti nuovi, mai usati e con etichetta. Qui non valutiamo altro che questa politica.",
+        "AliExpress è affidabile per i vestiti? La politica di AliExpress prevede il rimborso totale se il pacco non arriva entro la data garantita e accetta il reso di vestiti nuovi, mai usati e con etichetta.",
         "Il 4CW5Y dà uno sconto? Sì. È il codice invito di Cecília su SHEIN e dà uno sconto su una selezione di prodotti e promozioni; quanto e su quali articoli lo decide SHEIN. Cercalo nell’app o sul sito, non nel campo del coupon."
       ]
     }

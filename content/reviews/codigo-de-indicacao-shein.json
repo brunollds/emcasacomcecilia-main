@@ -19,7 +19,7 @@
   "metaDescription": "Código de indicação SHEIN 4CW5Y: dá desconto, sim, numa seleção de produtos. Use o link ou pesquise no app ou no site. Passo a passo com telas.",
   "publishedAt": "13 de outubro de 2026",
   "publishedAtISO": "2026-10-13",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/shein/codigo-de-indicacao-shein-capa-v2.webp",
@@ -85,9 +85,7 @@
           "href": "/cupons/shein"
         }
       ],
-      "postParagraphs": [
-        "Compras feitas pelo link ou pelo código podem gerar comissão para quem o divulga, sem custo extra para você."
-      ]
+      "emphasis": "Eu trato o 4CW5Y como a porta de entrada para as promoções da SHEIN, e não como cupom: quem mostra o desconto de cada peça é a página que ele abre."
     },
     {
       "heading": "Por que os guias antigos, com o cupom de R$ 10, não valem mais",
@@ -133,6 +131,19 @@
     },
     {
       "slug": "black-friday-shein"
+    },
+    {
+      "slug": "cupom-shein-primeira-compra"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você vai comprar na SHEIN e quer chegar à seleção de promoções e descontos pela busca, sem procurar cupom.",
+      "Você quer o passo a passo com telas de onde digitar o código no app ou no site."
+    ],
+    "skipIf": [
+      "Você procura um cupom para colar no carrinho: o código de indicação vai na busca, e não no campo de cupom.",
+      "Você quer ter um código para divulgar: o seu sai do programa de afiliados da SHEIN, com cadastro e requisitos."
+    ]
+  }
 }

@@ -32,7 +32,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "The SHEIN referral code does give a discount. Open SHEIN through Cecília's link and search 4CW5Y in the store's search bar, in the app or on the website, not in the coupon field: the code opens a special page with a selection of products, promotions and discounts. How much and on which pieces is up to SHEIN, and it varies."
+        "The SHEIN referral code does give a discount. Open SHEIN through Cecília's link, or copy 4CW5Y and search it in the store's search bar, in the app or on the website, not in the coupon field. It opens a page of products, promotions and discounts; how much and on which pieces is up to SHEIN."
       ]
     },
     {
@@ -85,9 +85,7 @@
           "href": "/en/coupons/shein"
         }
       ],
-      "postParagraphs": [
-        "Purchases made through the link or code may earn the person who shared it a commission, at no extra cost to you."
-      ]
+      "emphasis": "I treat 4CW5Y as the way into SHEIN's promotions, not as a coupon: the discount on each piece is shown by the page it opens."
     },
     {
       "heading": "Why the old guides, with the old program's coupon, no longer apply",
@@ -133,6 +131,19 @@
     },
     {
       "slug": "shein-black-friday-dates-taxes"
+    },
+    {
+      "slug": "shein-first-order-referral-code"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "You are about to shop on SHEIN and want to reach the selection of promotions and discounts through search, without hunting for a coupon.",
+      "You want a step-by-step with screenshots of where to type the code in the app or on the website."
+    ],
+    "skipIf": [
+      "You are looking for a coupon to paste in the cart: the referral code goes in the search bar, not in the coupon field.",
+      "You want a code of your own to share: yours comes from SHEIN's affiliate program, with sign-up and requirements."
+    ]
+  }
 }

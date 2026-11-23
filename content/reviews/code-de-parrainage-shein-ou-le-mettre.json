@@ -32,7 +32,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Le code de parrainage SHEIN donne bien une réduction. Ouvrez SHEIN avec le lien de Cecília et recherchez 4CW5Y dans la recherche de la boutique, dans l'application ou sur le site, et non dans le champ du code promo : le code ouvre une page spéciale avec une sélection de produits, des promotions et des réductions. Le montant et les pièces, c'est SHEIN qui décide, et cela varie."
+        "Le code de parrainage SHEIN donne bien une réduction. Ouvrez SHEIN via le lien de Cecília ou copiez 4CW5Y et recherchez-le dans la boutique, sur l'application ou le site, pas dans le champ du code promo. Il ouvre une page de produits, promotions et réductions ; le montant et les pièces, c'est SHEIN qui décide."
       ]
     },
     {
@@ -85,9 +85,7 @@
           "href": "/fr/coupons/shein"
         }
       ],
-      "postParagraphs": [
-        "Les achats effectués via le lien ou le code peuvent rapporter une commission à la personne qui l'a partagé, sans frais supplémentaires pour vous."
-      ]
+      "emphasis": "Je traite le 4CW5Y comme la porte d'entrée vers les promotions de SHEIN, et non comme un code promo : la réduction de chaque pièce, c'est la page qu'il ouvre qui la montre."
     },
     {
       "heading": "Pourquoi les anciens guides, avec le code promo de l'ancien programme, ne valent plus",
@@ -133,6 +131,19 @@
     },
     {
       "slug": "black-friday-shein-dates-et-taxes"
+    },
+    {
+      "slug": "code-promo-shein-premiere-commande"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Vous allez acheter sur SHEIN et voulez arriver à la sélection de promotions et de réductions par la recherche, sans chercher de code promo.",
+      "Vous voulez le pas à pas avec captures pour savoir où saisir le code dans l'application ou sur le site."
+    ],
+    "skipIf": [
+      "Vous cherchez un code promo à coller dans le panier : le code de parrainage se saisit dans la recherche, pas dans le champ du code promo.",
+      "Vous voulez votre propre code à partager : le vôtre vient du programme d'affiliation de SHEIN, avec inscription et conditions."
+    ]
+  }
 }

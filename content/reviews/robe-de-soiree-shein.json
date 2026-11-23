@@ -4,7 +4,7 @@
   "locale": "fr",
   "translationKey": "shein-vestido-festa",
   "title": "Robe de soirée sur SHEIN : comment choisir selon l'occasion, le tissu et le délai",
-  "seoTitle": "Robe de soirée SHEIN : comment choisir pour Noël, le réveillon et la remise de diplôme",
+  "seoTitle": "Robe de soirée SHEIN : tissu, taille et délai",
   "type": "Guide d'achat",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -27,14 +27,8 @@
   "imageAlt": "Mannequin adulte sur une image de la fiche produit SHEIN, portant une robe de soirée ADYCE bleu marine avec une traîne devant un miroir, à côté du code de parrainage 4CW5Y.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "Trois robes avec tissu, doublure et note de la page de chaque produit",
-    "Guide des tailles en centimètres pour chaque pièce"
-  ],
-  "cons": [
-    "La livraison doit arriver avant la date de la fête",
-    "Le prix en promotion change"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "Recherchez la robe par son nom sur SHEIN et vérifiez le délai sur la page de la commande avant de payer.",
     "label": "Aller sur SHEIN",
@@ -47,6 +41,15 @@
   "relatedArticles": [
     {
       "slug": "shein-est-il-fiable-et-sur"
+    },
+    {
+      "slug": "tailles-shein"
+    },
+    {
+      "slug": "shein-ca-vaut-le-coup"
+    },
+    {
+      "slug": "black-friday-shein-dates-et-taxes"
     }
   ],
   "contentSections": [
@@ -339,7 +342,8 @@
           "aspectRatio": 0.7506,
           "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "emphasis": "Si c'était pour moi, je choisirais la robe d'abord selon la date de la fête, puis selon la couleur. Une belle robe qui arrive la veille ne laisse pas le temps de l'essayer, de la faire raccourcir ou de changer de taille."
     },
     {
       "heading": "Questions fréquentes",

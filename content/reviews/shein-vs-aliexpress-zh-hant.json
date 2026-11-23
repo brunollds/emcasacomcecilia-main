@@ -19,7 +19,7 @@
   "metaDescription": "4CW5Y是SHEIN推薦碼，可享平台指定商品與促銷的折扣。比較SHEIN和AliExpress在台灣的運費、配送時間、退貨期限、稅費及購買前要確認的條件。",
   "publishedAt": "2026年11月17日",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -31,10 +31,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
+      "如果你希望同一筆訂單的第一次退貨免費，而且要退的商品在 SHEIN 的可退範圍內，可以選 SHEIN。",
       "如果你要的商品在 AliExpress 上，而且商品頁面顯示了你能接受的送達時間，可以選 AliExpress。"
     ],
     "skipIf": [
-      "如果尺寸不合就需要退貨，而商品頁面沒有說清退貨期限、運費或退貨地址，請先不要在 AliExpress 下單。"
+      "如果尺寸不合就需要退貨，而商品頁面沒有說清退貨期限、運費或退貨地址，請先不要在 AliExpress 下單。",
+      "如果同一筆訂單你很可能要退不止一次，請先不要在 SHEIN 下單，除非你接受第二次起退款會被扣費。"
     ]
   },
   "affiliate": [
@@ -109,6 +111,7 @@
         "**運費和預計送達日期**，在 AliExpress 會隨商品和發貨地而變。",
         "**AliExpress 的保證退款日期：** 包裹沒在這個日期前送到，可以申請全額退款。",
         "**這件商品是否標示免費退貨**。沒有標示時，因個人原因退貨的運費由你負擔。",
+        "**付款方式：** 在 AliExpress，完整的付款方式清單要登入後在結帳頁面才會顯示，請到那裡確認你慣用的方式是否可用。",
         "**含運費與稅費的總額**，在每家結帳頁面的最後一步確認，並核對收件人姓名和地址。"
       ],
       "postParagraphs": [
@@ -143,7 +146,8 @@
       "heading": "依購物需求怎麼選",
       "postParagraphs": [
         "SHEIN 台灣站的可退商品與 AliExpress 政策列明的期限都是收貨後15天內。SHEIN 同筆訂單首次退貨免費；AliExpress 的退貨運費依原因及商品條件而定。若尺寸不合就要退，請先確認期限、費用與退貨地址，再結合預計送達和最終支出選擇。"
-      ]
+      ],
+      "emphasis": "在 SHEIN，退貨期限來自 SHEIN 的政策；在 AliExpress，則來自每個商品頁面。該怎麼選，付款前看商品頁面就能決定。"
     },
     {
       "heading": "兩家各賣什麼：一份樣本",
@@ -350,9 +354,8 @@
       ]
     },
     {
-      "heading": "合作與推薦碼",
+      "heading": "連結與推薦碼 4CW5Y",
       "paragraphs": [
-        "Cecília 是 SHEIN 和 AliExpress 的聯盟會員。透過本文連結購買時，她可能獲得傭金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
         "4CW5Y 是 Cecília 在 SHEIN 的推薦碼，確實有折扣，適用於 SHEIN 精選商品與促銷；折多少、哪些商品，由 SHEIN 決定。請透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋代碼；不是輸入到優惠券欄位。AliExpress 沒有我們的代碼。"
       ],
       "links": [
