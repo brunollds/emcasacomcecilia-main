@@ -1580,7 +1580,7 @@ function bodyCitesCode(review: Review, code: string): boolean {
 }
 
 // O fim do artigo, nesta ordem: galeria, veredito (só produto), bloco da loja (#loja, no lugar do bloco verde
-// "Interessou?"), caixa da Cecília, relacionados e compartilhar.
+// "Interessou?"), caixa da Cecília, caixa do Bruno (quando assina), compartilhar e relacionados.
 // - A galeria não repete o vídeo do topo e, com um item só, não vira carrossel; sem item, não existe. O título diz
 //   o que ela mostra: "Fotos e vídeos" só com os dois.
 // - Prós e contras são duas listas, cada uma só com os itens dela, sem linha vazia de enchimento.
@@ -1771,8 +1771,12 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
 
   const share = body.indexOf(`aria-label="${escapeHtml(getShareCopy(expected.locale).shareByEmail)}"`);
   if (share < 0) problems.push('sem a barra de compartilhar');
-  const order = [gallery, verdict, store, author, bruno, related].flatMap((found) => (found ? [found.at] : [])).concat(share < 0 ? [] : [share]);
-  if (order.some((at, index) => index > 0 && at < order[index - 1])) problems.push('fim do artigo fora da ordem galeria, veredito, loja, Cecília, Bruno, relacionados, compartilhar');
+  const order = [gallery, verdict, store, author, bruno]
+    .flatMap((found) => (found ? [found.at] : []))
+    .concat(share < 0 ? [] : [share], related ? [related.at] : []);
+  if (order.some((at, index) => index > 0 && at < order[index - 1])) {
+    problems.push('fim do artigo fora da ordem galeria, veredito, loja, Cecília, Bruno, compartilhar, relacionados');
+  }
   return problems;
 }
 // O guarda acima passa no fim certo e falha sem o bloco da loja, com relacionados fora da ordem, com o vídeo do
@@ -1788,6 +1792,7 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     `<section aria-label="${getCodeTitle(getSidebarCopy('pt'), undefined, 'Damie')}" class="recorte"><p>${getCodeTitle(getSidebarCopy('pt'), undefined, 'Damie')}</p><code>CECILIA12</code>` +
     `<a href="https://damie.example/" target="_blank" data-copied="false">${getCouponCopyLabels('pt').copyAndGo}</a>` +
     `<button data-copied="false">${getCouponCopyLabels('pt').copyOnly}</button><p>${getCouponCopyLabels('pt').goHint()}</p><p>${pt.copiedHint(block)}</p></section>`;
+  const shareBlock = `<div><a aria-label="${escapeHtml(getShareCopy('pt').shareByEmail)}" href="mailto:">e</a></div>`;
   const end =
     `<section data-article="galeria"><h2><span class="marca-texto">${getGalleryCopy('pt').tabPhotos}</span></h2><button data-gallery-card="">1</button><button data-gallery-card="">2</button></section>` +
     '<section id="veredito"><div id="pros-e-contras"><ul data-lista="pros"><li>a</li><li>b</li></ul><ul data-lista="contras"><li>c</li></ul></div></section>' +
@@ -1795,9 +1800,9 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
     `<a href="/cupons/damie">${pt.allRules}</a><a href="/reviews/loja/damie">${pt.allStoreArticles(9, block)}</a></section>` +
     `<section data-article="autora"><p>${pt.authorBoxTitle}</p><p>${pt.authorBoxBody}</p><a href="/sobre">${pt.authorBoxLink}</a></section>` +
     `<section data-article="autor-bruno"><p>${pt.brunoBoxTitle}</p><p>${pt.brunoBoxBody}</p><a href="https://sonardeofertas.com.br" target="_blank" rel="noopener">${pt.brunoBoxLink}</a></section>` +
+    shareBlock +
     '<section data-article="relacionados"><ul data-relacionados-cartoes=""><li class="revela"><a href="/reviews/a">A</a></li><li class="revela"><a href="/reviews/b">B</a></li></ul>' +
-    `<a href="/reviews/loja/damie">${getTemplateUi('pt').viewAll}</a></section>` +
-    `<div><a aria-label="${escapeHtml(getShareCopy('pt').shareByEmail)}" href="mailto:">e</a></div>`;
+    `<a href="/reviews/loja/damie">${getTemplateUi('pt').viewAll}</a></section>`;
   const expected: ArticleEndExpectation = {
     locale: 'pt', storeBlock: block, storeBlocks: [], affiliateCta: null, galleryItems: 2, galleryVideos: 0, topVideoId: 'abcdefghijk', verdict: true, pros: 2, cons: 1,
     authorHref: '/sobre', brunoBox: { link: pt.brunoBoxLink }, related: ['/reviews/a', '/reviews/b'], relatedAllHref: '/reviews/loja/damie',
@@ -1815,7 +1820,8 @@ function articleEndProblems(body: string, expected: ArticleEndExpectation): stri
   assert.notDeepEqual(articleEndProblems(end, { ...expected, brunoBox: { link: null } }), [], 'link na caixa do Bruno fora do PT passou');
   assert.notDeepEqual(articleEndProblems(end.replace('https://sonardeofertas.com.br', 'https://example.com'), expected), [], 'caixa do Bruno com o link errado passou');
   assert.notDeepEqual(articleEndProblems(end.replace(brunoSection, '').replace(/(<section data-article="autora">)/, `${brunoSection}$1`), expected), [], 'caixa do Bruno antes da Cecília passou');
-  assert.notDeepEqual(articleEndProblems(end.replace(brunoSection, '').replace(/(<div><a aria-label)/, `${brunoSection}$1`), expected), [], 'caixa do Bruno depois dos relacionados passou');
+  assert.notDeepEqual(articleEndProblems(end.replace(brunoSection, '').replace(shareBlock, `${shareBlock}${brunoSection}`), expected), [], 'caixa do Bruno depois do compartilhar passou');
+  assert.notDeepEqual(articleEndProblems(end.replace(shareBlock, '') + shareBlock, expected), [], 'compartilhar depois dos relacionados passou');
   assert.notDeepEqual(articleEndProblems(end.replace('<li>c</li>', '<li>c</li><li>—</li>'), expected), [], 'linha vazia nos prós e contras passou');
   assert.notDeepEqual(articleEndProblems(end.replace(pt.allRules, 'x'), expected), [], 'bloco da loja sem "Ver todas as regras" passou');
   assert.notDeepEqual(articleEndProblems(end, { ...expected, storeBlock: { ...block, articlesHref: undefined, articleCount: undefined } }), [], '"Todos os N artigos" sem a subpágina passou');
@@ -2101,8 +2107,8 @@ for (const url of articleUrls) {
     assert.deepEqual([...new Set(pageTexts.filter((text) => portuguese.has(text)))], [], `${pagePath}: interface do artigo em português`);
   }
 
-  // A trilha vai da home do idioma à lista de artigos e ao artigo, e o JSON-LD repete a da página.
-  // Ela é procurada antes da gaveta, cujo sumário também é uma <nav><ol>.
+  // A trilha vai da home do idioma à lista de artigos, à subpágina da loja em PT (quando existe) e ao artigo,
+  // e o JSON-LD repete a da página. Ela é procurada antes da gaveta, cujo sumário também é uma <nav><ol>.
   const reviewHub = locale === 'pt' ? { label: 'Guias & Análises', href: '/reviews' } : getInternationalReviewHub(locale);
   const crumbs = visibleTrailOf(body.slice(0, dialogStart), pagePath);
   assert.deepEqual(
@@ -2110,9 +2116,10 @@ for (const url of articleUrls) {
     [
       { name: getShellCopy(locale).homeLabel, href: getShellHomeHref(locale) },
       { name: reviewHub.label, href: reviewHub.href },
+      ...(storeBlock?.articlesHref ? [{ name: storeBlock.brand, href: storeBlock.articlesHref }] : []),
       { name: review.title, href: pagePath },
     ].map(({ name, href }) => ({ name, url: new URL(href, SITE_URL).href })),
-    `${pagePath}: a trilha não é home do idioma > lista de artigos > artigo`
+    `${pagePath}: a trilha visível não bate com o esperado`
   );
   assert.deepEqual(
     schemaTrailOf(jsonLdOf(html).find((schema) => schema['@type'] === 'BreadcrumbList')),
@@ -2495,7 +2502,8 @@ for (const url of articleUrls) {
   let code: string | undefined;
   if (storeBlock) {
     assert.deepEqual(cutoutProblems(sidebarCutouts[0], locale, storeBlock), [], `${pagePath}: recorte da lateral`);
-    code = sidebarCutouts[0].match(/<code\b[^>]*>([^<]+)<\/code>/)?.[1];
+    const codeHtml = sidebarCutouts[0].match(/<code\b[^>]*>([\s\S]*?)<\/code>/)?.[1];
+    code = codeHtml ? textOf(codeHtml) : undefined;
     sidebarCutoutArticles++;
   } else {
     code = sidebar.match(/data-copied="false"[^>]*>([^<]+)</)?.[1];
