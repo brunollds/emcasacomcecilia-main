@@ -27,14 +27,8 @@
   "imageAlt": "SHEIN商品展示图中的成年模特在镜子前身穿带拖尾的藏蓝色ADYCE晚礼服，旁边标有推荐码4CW5Y。",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "三条裙子，面料、里衬和评分取自各商品页",
-    "每件都有以厘米标注的尺码指南"
-  ],
-  "cons": [
-    "到货时间必须赶得上聚会日期",
-    "促销价会变动"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "在 SHEIN 按名称搜索礼服，付款前请在订单页面确认送达时间。",
     "label": "前往 SHEIN",
@@ -47,6 +41,15 @@
   "relatedArticles": [
     {
       "slug": "shein-trust-guide-zh-hans"
+    },
+    {
+      "slug": "shein-size-guide-zh-hans"
+    },
+    {
+      "slug": "shein-worth-it-zh-hans"
+    },
+    {
+      "slug": "shein-black-friday-zh-hans"
     }
   ],
   "contentSections": [
@@ -339,7 +342,8 @@
           "aspectRatio": 0.7506,
           "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "emphasis": "如果是我，会先按聚会日期挑裙子，再看颜色。前一天才到的裙子，来不及试穿、改长度，也来不及换尺码。"
     },
     {
       "heading": "常见问题",

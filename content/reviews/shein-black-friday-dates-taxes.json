@@ -28,9 +28,7 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
-  "cons": [
-    "The percentage in the ad applies to some items, not the whole cart"
-  ],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Quick answer",
@@ -878,7 +876,8 @@
       ],
       "paragraphs": [
         "**Shipping:** check the delivery charge for your address and the conditions of any free shipping offer in the cart."
-      ]
+      ],
+      "emphasis": "I would compare the final price in the cart before getting excited about the percentage in the ad: it is the closed total, with delivery and any taxes, that tells you whether a deal is worth it."
     },
     {
       "heading": "Frequently asked questions",
@@ -916,5 +915,17 @@
     {
       "slug": "yesstyle-black-friday-dates-coupons"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "You want 17 pieces sorted by need, with fabric and measurements, before you open the SHEIN page.",
+      "You are buying a Christmas gift and want to check the delivery estimate before paying.",
+      "You don't mind checking price, currency and stock in your own country's SHEIN store before deciding."
+    ],
+    "skipIf": [
+      "You need a hard-to-find size and plan to wait for the last phase: stock can run out first.",
+      "You expect the same percentage on every piece: the “up to” in the ad covers selected items.",
+      "You want an identical price in every country: price, currency and offers change from store to store."
+    ]
+  }
 }

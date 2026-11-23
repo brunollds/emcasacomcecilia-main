@@ -28,9 +28,7 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
-  "cons": [
-    "El porcentaje del anuncio vale para algunos artículos, no para todo el carrito"
-  ],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Respuesta rápida",
@@ -847,7 +845,8 @@
       ],
       "paragraphs": [
         "**Envío:** revisa en el carrito el coste de entrega para tu dirección y las condiciones de cualquier oferta de envío gratis."
-      ]
+      ],
+      "emphasis": "Antes de ilusionarme con el porcentaje del anuncio, compararía el precio final en el carrito: es el total con envío e impuestos el que dice si la oferta vale la pena."
     },
     {
       "heading": "Preguntas frecuentes",
@@ -885,5 +884,17 @@
     {
       "slug": "black-friday-yesstyle-fechas-cupones"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Quieres 17 prendas ordenadas por necesidad, con tejido y medidas, antes de abrir la página de SHEIN.",
+      "Compras un regalo de Navidad y quieres revisar la entrega estimada antes de pagar.",
+      "No te importa comprobar precio, moneda y stock en la tienda SHEIN de tu país antes de decidir."
+    ],
+    "skipIf": [
+      "Necesitas una talla difícil de encontrar y piensas esperar a la última fase: el stock puede agotarse antes.",
+      "Esperas el mismo porcentaje en todas las prendas: el «hasta» del anuncio vale para artículos seleccionados.",
+      "Quieres un precio idéntico en todos los países: precio, moneda y ofertas cambian de una tienda a otra."
+    ]
+  }
 }

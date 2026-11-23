@@ -3,8 +3,8 @@
   "slug": "black-friday-shein",
   "locale": "pt",
   "translationKey": "shein-black-friday",
-  "title": "Black Friday SHEIN 2026: o que comprar, quando começa e imposto de importação zero até US$ 50",
-  "seoTitle": "Black Friday SHEIN 2026: o que comprar e quando começa",
+  "title": "Black Friday SHEIN 2026: o que comprar, as datas e imposto de importação zero até US$ 50",
+  "seoTitle": "Black Friday SHEIN 2026: o que comprar e as datas",
   "type": "Guia de Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -26,29 +26,19 @@
   "imageAlt": "Cecília Mauad em dois looks de um haul da SHEIN: blusa clara amarrada na cintura com saia midi preta, e vestido longo preto com recortes claros",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "Desde 12 de maio de 2026, pedidos de até US$ 50 têm alíquota zero de imposto de importação federal (ICMS estadual continua cobrado)",
-    "Nos três últimos anos, as ofertas começaram antes da Black Friday e continuaram depois dela",
-    "Produtos de Envio Nacional não pagam imposto de importação",
-    "Devolução em até 20 dias, com a primeira devolução de cada pedido grátis"
-  ],
-  "cons": [
-    "O desconto máximo anunciado vale para itens selecionados e depende das condições da campanha",
-    "O ICMS de 17% a 20% continua em toda compra internacional",
-    "Acima de US$ 50, o imposto de importação volta: 60%, menos US$ 30 no valor do imposto",
-    "Um cupom da SHEIN por pedido. Confira como cupom e impostos entram no reembolso de uma devolução"
-  ],
+  "pros": [],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Black Friday de 2026 cai na última sexta de novembro, dia 27, e a SHEIN já está em campanha, sem calendário completo. Este guia traz 17 peças com preço e medidas e seis atalhos de campanha. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site, abre uma seleção com promoções."
+        "A Black Friday de 2026 cai na última sexta de novembro, dia 27, e a campanha da SHEIN está no ar, sem calendário completo. Este guia traz 17 peças com preço e medidas e seis atalhos de campanha. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site, abre uma seleção com promoções."
       ]
     },
     {
-      "heading": "Quando começa a Black Friday da SHEIN",
+      "heading": "As datas da Black Friday da SHEIN",
       "paragraphs": [
-        "Em 2026, a SHEIN junta o 11.11 e a Black Friday numa campanha só, com a cantora IZA, segundo o diretor de marketing em [entrevista à VEJA](https://veja.abril.com.br/economia/shein-aposta-na-cantora-iza-para-impulsionar-vendas-na-black-friday/). A primeira etapa foi de 19 de outubro a 2 de novembro. A campanha anunciou reforço na semana do 11.11 e na Black Friday, com descontos de até 95% em itens selecionados. Falta o calendário completo: não encontramos as datas das próximas fases nem a data de fim. A tabela abaixo mostra o que a SHEIN anunciou nos três últimos anos."
+        "Em 2026, a SHEIN junta o 11.11 e a Black Friday numa campanha só, com a cantora IZA, segundo o diretor de marketing em [entrevista à VEJA](https://veja.abril.com.br/economia/shein-aposta-na-cantora-iza-para-impulsionar-vendas-na-black-friday/). A primeira etapa foi de 19 de outubro a 2 de novembro. A campanha anunciou reforço na semana do 11.11 e na Black Friday, com descontos de até 95% em itens selecionados, e a semana da Black Friday está no ar. Não encontramos o calendário completo: faltam as datas das fases desta semana e a de fim. A tabela abaixo mostra o que a SHEIN anunciou nos três últimos anos."
       ],
       "comparisonTable": {
         "caption": "Fases e descontos máximos anunciados pela SHEIN, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
@@ -76,12 +66,12 @@
         ]
       },
       "postParagraphs": [
-        "Em 2024 e 2025, a campanha foi até o fim de novembro; em 2023, até o sábado depois da Black Friday. Isso é histórico, não o prazo de 2026, e este guia é atualizado quando as datas saírem.",
+        "Em 2024 e 2025, a campanha foi até o fim de novembro; em 2023, até o sábado depois da Black Friday. Isso é histórico, não o prazo de 2026, que não encontramos; o guia é atualizado se a SHEIN divulgar as datas.",
         "Nos três anos, o desconto máximo subiu perto do fim. Isso não garante que a peça que você quer fique mais barata: compare o preço final e o estoque; se precisa de tamanho difícil, não espere a última fase."
       ],
       "image": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
       "imageAlt": "Página inicial do site da SHEIN em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-      "imageCaption": "A página inicial da SHEIN, que ainda não trazia a campanha da Black Friday de 2026.",
+      "imageCaption": "A página inicial da SHEIN na data da captura, antes de a campanha da Black Friday de 2026 entrar no ar.",
       "imageFit": "contain",
       "imageAspectRatio": 1.7778
     },
@@ -999,12 +989,13 @@
       ],
       "paragraphs": [
         "Frete: confira no carrinho o valor de entrega para seu endereço e as condições de eventual frete grátis."
-      ]
+      ],
+      "emphasis": "Eu compararia o preço final no carrinho antes de me animar com o percentual do anúncio: numa campanha que mistura peça de fora e Envio Nacional, é a conta fechada, com frete, imposto e prazo, que diz se a oferta compensa."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quando começa e quanto dura a Black Friday da SHEIN? A campanha que junta o 11.11 e a Black Friday já começou, em outubro. A Black Friday cai na última sexta de novembro, dia 27, e não encontramos as datas das próximas fases nem a de fim.",
+        "Quando é a Black Friday da SHEIN e até quando vai a campanha? A campanha que junta o 11.11 e a Black Friday está no ar desde outubro, e a semana da Black Friday está em curso. A Black Friday cai na última sexta de novembro, dia 27, e não encontramos as datas das fases desta semana nem a de fim.",
         "Como funciona a Black Friday da SHEIN? As ofertas podem ter períodos e condições diferentes. Confira quais produtos recebem o desconto anunciado e compare o preço final no carrinho.",
         "A SHEIN tem Cyber Monday? A Cyber Monday de 2026 cai na última segunda de novembro, dia 30. Não encontramos anúncio da SHEIN no Brasil para esse dia: confira a campanha na loja.",
         "A compra da Black Friday chega antes do Natal? Não dá para garantir uma data. O prazo de entrega aparece na página do pedido antes de pagar: confira esse prazo em cada compra, porque o pedido internacional ainda leva de 3 a 5 dias para ser processado antes do envio.",
@@ -1039,5 +1030,17 @@
     {
       "slug": "black-friday-yesstyle"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer 17 peças separadas por necessidade, com preço, tecido e medidas da ficha, antes de abrir a página da SHEIN.",
+      "Você faz um pedido internacional dentro do limite do imposto zero e quer entender como o ICMS entra na conta.",
+      "Você quer margem para se arrepender: a devolução vai até 20 dias depois do recebimento, e a primeira de cada pedido é grátis."
+    ],
+    "skipIf": [
+      "Você precisa de um tamanho difícil de achar e pretende esperar a última fase: o estoque pode acabar antes.",
+      "Você espera o mesmo percentual em todas as peças: o “até” do anúncio vale para itens selecionados.",
+      "Você pensa em devolver mais de uma vez no mesmo pedido: da segunda devolução em diante, o frete sai do reembolso."
+    ]
+  }
 }

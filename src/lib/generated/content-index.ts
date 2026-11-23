@@ -65310,8 +65310,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein",
     "locale": "pt",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026: o que comprar, quando começa e imposto de importação zero até US$ 50",
-    "seoTitle": "Black Friday SHEIN 2026: o que comprar e quando começa",
+    "title": "Black Friday SHEIN 2026: o que comprar, as datas e imposto de importação zero até US$ 50",
+    "seoTitle": "Black Friday SHEIN 2026: o que comprar e as datas",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -65333,29 +65333,19 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília Mauad em dois looks de um haul da SHEIN: blusa clara amarrada na cintura com saia midi preta, e vestido longo preto com recortes claros",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Desde 12 de maio de 2026, pedidos de até US$ 50 têm alíquota zero de imposto de importação federal (ICMS estadual continua cobrado)",
-      "Nos três últimos anos, as ofertas começaram antes da Black Friday e continuaram depois dela",
-      "Produtos de Envio Nacional não pagam imposto de importação",
-      "Devolução em até 20 dias, com a primeira devolução de cada pedido grátis"
-    ],
-    "cons": [
-      "O desconto máximo anunciado vale para itens selecionados e depende das condições da campanha",
-      "O ICMS de 17% a 20% continua em toda compra internacional",
-      "Acima de US$ 50, o imposto de importação volta: 60%, menos US$ 30 no valor do imposto",
-      "Um cupom da SHEIN por pedido. Confira como cupom e impostos entram no reembolso de uma devolução"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday de 2026 cai na última sexta de novembro, dia 27, e a SHEIN já está em campanha, sem calendário completo. Este guia traz 17 peças com preço e medidas e seis atalhos de campanha. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site, abre uma seleção com promoções."
+          "A Black Friday de 2026 cai na última sexta de novembro, dia 27, e a campanha da SHEIN está no ar, sem calendário completo. Este guia traz 17 peças com preço e medidas e seis atalhos de campanha. O 4CW5Y dá desconto, sim: pelo link da Cecília, ou pesquisando o código no app ou no site, abre uma seleção com promoções."
         ]
       },
       {
-        "heading": "Quando começa a Black Friday da SHEIN",
+        "heading": "As datas da Black Friday da SHEIN",
         "paragraphs": [
-          "Em 2026, a SHEIN junta o 11.11 e a Black Friday numa campanha só, com a cantora IZA, segundo o diretor de marketing em [entrevista à VEJA](https://veja.abril.com.br/economia/shein-aposta-na-cantora-iza-para-impulsionar-vendas-na-black-friday/). A primeira etapa foi de 19 de outubro a 2 de novembro. A campanha anunciou reforço na semana do 11.11 e na Black Friday, com descontos de até 95% em itens selecionados. Falta o calendário completo: não encontramos as datas das próximas fases nem a data de fim. A tabela abaixo mostra o que a SHEIN anunciou nos três últimos anos."
+          "Em 2026, a SHEIN junta o 11.11 e a Black Friday numa campanha só, com a cantora IZA, segundo o diretor de marketing em [entrevista à VEJA](https://veja.abril.com.br/economia/shein-aposta-na-cantora-iza-para-impulsionar-vendas-na-black-friday/). A primeira etapa foi de 19 de outubro a 2 de novembro. A campanha anunciou reforço na semana do 11.11 e na Black Friday, com descontos de até 95% em itens selecionados, e a semana da Black Friday está no ar. Não encontramos o calendário completo: faltam as datas das fases desta semana e a de fim. A tabela abaixo mostra o que a SHEIN anunciou nos três últimos anos."
         ],
         "comparisonTable": {
           "caption": "Fases e descontos máximos anunciados pela SHEIN, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
@@ -65383,12 +65373,12 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Em 2024 e 2025, a campanha foi até o fim de novembro; em 2023, até o sábado depois da Black Friday. Isso é histórico, não o prazo de 2026, e este guia é atualizado quando as datas saírem.",
+          "Em 2024 e 2025, a campanha foi até o fim de novembro; em 2023, até o sábado depois da Black Friday. Isso é histórico, não o prazo de 2026, que não encontramos; o guia é atualizado se a SHEIN divulgar as datas.",
           "Nos três anos, o desconto máximo subiu perto do fim. Isso não garante que a peça que você quer fique mais barata: compare o preço final e o estoque; se precisa de tamanho difícil, não espere a última fase."
         ],
         "image": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
         "imageAlt": "Página inicial do site da SHEIN em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-        "imageCaption": "A página inicial da SHEIN, que ainda não trazia a campanha da Black Friday de 2026.",
+        "imageCaption": "A página inicial da SHEIN na data da captura, antes de a campanha da Black Friday de 2026 entrar no ar.",
         "imageFit": "contain",
         "imageAspectRatio": 1.7778
       },
@@ -66306,12 +66296,13 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "Frete: confira no carrinho o valor de entrega para seu endereço e as condições de eventual frete grátis."
-        ]
+        ],
+        "emphasis": "Eu compararia o preço final no carrinho antes de me animar com o percentual do anúncio: numa campanha que mistura peça de fora e Envio Nacional, é a conta fechada, com frete, imposto e prazo, que diz se a oferta compensa."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da SHEIN? A campanha que junta o 11.11 e a Black Friday já começou, em outubro. A Black Friday cai na última sexta de novembro, dia 27, e não encontramos as datas das próximas fases nem a de fim.",
+          "Quando é a Black Friday da SHEIN e até quando vai a campanha? A campanha que junta o 11.11 e a Black Friday está no ar desde outubro, e a semana da Black Friday está em curso. A Black Friday cai na última sexta de novembro, dia 27, e não encontramos as datas das fases desta semana nem a de fim.",
           "Como funciona a Black Friday da SHEIN? As ofertas podem ter períodos e condições diferentes. Confira quais produtos recebem o desconto anunciado e compare o preço final no carrinho.",
           "A SHEIN tem Cyber Monday? A Cyber Monday de 2026 cai na última segunda de novembro, dia 30. Não encontramos anúncio da SHEIN no Brasil para esse dia: confira a campanha na loja.",
           "A compra da Black Friday chega antes do Natal? Não dá para garantir uma data. O prazo de entrega aparece na página do pedido antes de pagar: confira esse prazo em cada compra, porque o pedido internacional ainda leva de 3 a 5 dias para ser processado antes do envio.",
@@ -66346,7 +66337,19 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-yesstyle"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer 17 peças separadas por necessidade, com preço, tecido e medidas da ficha, antes de abrir a página da SHEIN.",
+        "Você faz um pedido internacional dentro do limite do imposto zero e quer entender como o ICMS entra na conta.",
+        "Você quer margem para se arrepender: a devolução vai até 20 dias depois do recebimento, e a primeira de cada pedido é grátis."
+      ],
+      "skipIf": [
+        "Você precisa de um tamanho difícil de achar e pretende esperar a última fase: o estoque pode acabar antes.",
+        "Você espera o mesmo percentual em todas as peças: o “até” do anúncio vale para itens selecionados.",
+        "Você pensa em devolver mais de uma vez no mesmo pedido: da segunda devolução em diante, o frete sai do reembolso."
+      ]
+    }
   },
   {
     "id": 348,
@@ -66378,9 +66381,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
-    "cons": [
-      "The percentage in the ad applies to some items, not the whole cart"
-    ],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Quick answer",
@@ -67228,7 +67229,8 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "**Shipping:** check the delivery charge for your address and the conditions of any free shipping offer in the cart."
-        ]
+        ],
+        "emphasis": "I would compare the final price in the cart before getting excited about the percentage in the ad: it is the closed total, with delivery and any taxes, that tells you whether a deal is worth it."
       },
       {
         "heading": "Frequently asked questions",
@@ -67266,7 +67268,19 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-dates-coupons"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "You want 17 pieces sorted by need, with fabric and measurements, before you open the SHEIN page.",
+        "You are buying a Christmas gift and want to check the delivery estimate before paying.",
+        "You don't mind checking price, currency and stock in your own country's SHEIN store before deciding."
+      ],
+      "skipIf": [
+        "You need a hard-to-find size and plan to wait for the last phase: stock can run out first.",
+        "You expect the same percentage on every piece: the “up to” in the ad covers selected items.",
+        "You want an identical price in every country: price, currency and offers change from store to store."
+      ]
+    }
   },
   {
     "id": 349,
@@ -67298,9 +67312,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
-    "cons": [
-      "El porcentaje del anuncio vale para algunos artículos, no para todo el carrito"
-    ],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Respuesta rápida",
@@ -68117,7 +68129,8 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "**Envío:** revisa en el carrito el coste de entrega para tu dirección y las condiciones de cualquier oferta de envío gratis."
-        ]
+        ],
+        "emphasis": "Antes de ilusionarme con el porcentaje del anuncio, compararía el precio final en el carrito: es el total con envío e impuestos el que dice si la oferta vale la pena."
       },
       {
         "heading": "Preguntas frecuentes",
@@ -68155,7 +68168,19 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-yesstyle-fechas-cupones"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Quieres 17 prendas ordenadas por necesidad, con tejido y medidas, antes de abrir la página de SHEIN.",
+        "Compras un regalo de Navidad y quieres revisar la entrega estimada antes de pagar.",
+        "No te importa comprobar precio, moneda y stock en la tienda SHEIN de tu país antes de decidir."
+      ],
+      "skipIf": [
+        "Necesitas una talla difícil de encontrar y piensas esperar a la última fase: el stock puede agotarse antes.",
+        "Esperas el mismo porcentaje en todas las prendas: el «hasta» del anuncio vale para artículos seleccionados.",
+        "Quieres un precio idéntico en todos los países: precio, moneda y ofertas cambian de una tienda a otra."
+      ]
+    }
   },
   {
     "id": 350,
@@ -68187,9 +68212,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
-    "cons": [
-      "Le pourcentage de l'annonce vaut pour certains articles, pas pour tout le panier"
-    ],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Réponse rapide",
@@ -69006,7 +69029,8 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "**Livraison :** vérifiez dans le panier les frais pour votre adresse et les conditions de toute offre de livraison gratuite."
-        ]
+        ],
+        "emphasis": "Avant de me réjouir du pourcentage de l'annonce, je comparerais le prix final dans le panier : c'est le total avec livraison et taxes qui dit si l'offre vaut le coup."
       },
       {
         "heading": "Questions fréquentes",
@@ -69044,7 +69068,19 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-yesstyle-dates-et-coupons"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous voulez 17 pièces classées par besoin, avec matière et mesures, avant d'ouvrir la page de SHEIN.",
+        "Vous achetez un cadeau de Noël et voulez vérifier la livraison estimée avant de payer.",
+        "Cela ne vous dérange pas de vérifier prix, devise et stock sur la boutique SHEIN de votre pays avant de décider."
+      ],
+      "skipIf": [
+        "Il vous faut une taille difficile à trouver et vous comptez attendre la dernière phase : le stock peut partir avant.",
+        "Vous attendez le même pourcentage sur chaque pièce : le « jusqu'à » de l'annonce vaut pour des articles sélectionnés.",
+        "Vous voulez un prix identique dans tous les pays : prix, devise et offres changent d'une boutique à l'autre."
+      ]
+    }
   },
   {
     "id": 351,
@@ -69076,9 +69112,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
-    "cons": [
-      "Der Prozentsatz der Ankündigung gilt für einzelne Artikel, nicht für den ganzen Warenkorb"
-    ],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Kurze Antwort",
@@ -69895,7 +69929,8 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "**Versand:** Prüfen Sie im Warenkorb die Lieferkosten für Ihre Adresse und die Bedingungen eines möglichen Gratisversands."
-        ]
+        ],
+        "emphasis": "Bevor ich mich vom Prozentsatz der Anzeige begeistern ließe, würde ich den Endpreis im Warenkorb vergleichen: Erst die Summe mit Versand und Steuern zeigt, ob sich das Angebot lohnt."
       },
       {
         "heading": "Häufige Fragen",
@@ -69933,7 +69968,19 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-termine-gutscheine"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie möchten 17 Teile nach Bedarf sortiert sehen, mit Stoff und Maßen, bevor Sie die SHEIN-Seite öffnen.",
+        "Sie kaufen ein Weihnachtsgeschenk und wollen die voraussichtliche Lieferung vor dem Bezahlen prüfen.",
+        "Es stört Sie nicht, Preis, Währung und Bestand im SHEIN-Shop Ihres Landes zu prüfen, bevor Sie sich entscheiden."
+      ],
+      "skipIf": [
+        "Sie brauchen eine schwer zu findende Größe und wollen auf die letzte Phase warten: Der Bestand kann vorher ausgehen.",
+        "Sie erwarten denselben Prozentsatz auf jedes Teil: Das „bis zu“ der Anzeige gilt für ausgewählte Artikel.",
+        "Sie wollen in jedem Land denselben Preis: Preis, Währung und Angebote ändern sich von Shop zu Shop."
+      ]
+    }
   },
   {
     "id": 352,
@@ -69965,9 +70012,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
-    "cons": [
-      "La percentuale dell'annuncio vale per alcuni articoli, non per tutto il carrello"
-    ],
+    "cons": [],
     "contentSections": [
       {
         "heading": "Risposta rapida",
@@ -70784,7 +70829,8 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "**Spedizione:** controlla nel carrello il costo di consegna al tuo indirizzo e le condizioni di eventuali offerte di spedizione gratuita."
-        ]
+        ],
+        "emphasis": "Prima di entusiasmarmi per la percentuale dell'annuncio, confronterei il prezzo finale nel carrello: è il totale con spedizione e tasse a dire se l'offerta conviene."
       },
       {
         "heading": "Domande frequenti",
@@ -70822,7 +70868,19 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-yesstyle-date-e-coupon"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Vuoi 17 capi divisi per esigenza, con tessuto e misure, prima di aprire la pagina di SHEIN.",
+        "Compri un regalo di Natale e vuoi controllare la consegna stimata prima di pagare.",
+        "Non ti pesa verificare prezzo, valuta e disponibilità nello store SHEIN del tuo paese prima di decidere."
+      ],
+      "skipIf": [
+        "Ti serve una taglia difficile da trovare e pensi di aspettare l'ultima fase: le scorte possono finire prima.",
+        "Ti aspetti la stessa percentuale su ogni capo: il «fino a» dell'annuncio vale per articoli selezionati.",
+        "Vuoi un prezzo identico in ogni paese: prezzo, valuta e offerte cambiano da uno store all'altro."
+      ]
+    }
   },
   {
     "id": 353,
@@ -70854,9 +70912,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
-    "cons": [
-      "광고의 할인율은 일부 상품에만 해당하며 장바구니 전체가 아닙니다"
-    ],
+    "cons": [],
     "contentSections": [
       {
         "heading": "답변 요약",
@@ -71673,7 +71729,8 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "**배송비:** 장바구니에서 내 주소의 배송비와 무료 배송 혜택이 있을 경우 그 조건을 확인하세요."
-        ]
+        ],
+        "emphasis": "광고에 나온 할인율에 마음이 끌리기 전에, 저라면 장바구니의 최종 가격부터 비교하겠습니다. 배송비와 세금까지 포함한 합계가 그 할인이 이득인지 알려 주기 때문입니다."
       },
       {
         "heading": "자주 묻는 질문",
@@ -71711,7 +71768,19 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "SHEIN 페이지를 열기 전에 소재와 치수가 적힌 17개 상품을 필요별로 나눠 보고 싶은 분.",
+        "크리스마스 선물을 사면서 결제 전에 예상 배송일을 확인하려는 분.",
+        "결정하기 전에 내 나라 SHEIN 스토어에서 가격, 통화, 재고를 확인하는 수고를 마다하지 않는 분."
+      ],
+      "skipIf": [
+        "찾기 어려운 사이즈가 필요한데 마지막 단계까지 기다릴 생각인 분. 그 전에 재고가 떨어질 수 있습니다.",
+        "모든 상품에 같은 할인율을 기대하는 분. 광고의 '최대'는 일부 상품에만 해당합니다.",
+        "어느 나라에서나 같은 가격을 기대하는 분. 가격, 통화, 할인은 스토어마다 다릅니다."
+      ]
+    }
   },
   {
     "id": 354,
@@ -71743,9 +71812,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
-    "cons": [
-      "広告の割引率は一部の商品が対象で、カート全体ではありません"
-    ],
+    "cons": [],
     "contentSections": [
       {
         "heading": "まずは結論",
@@ -71757,7 +71824,7 @@ export const reviewsData: unknown[] = [
         "heading": "SHEINのブラックフライデーはいつ始まるか",
         "paragraphs": [
           "カレンダー上のブラックフライデーは11月の最後の金曜日で、2026年は27日です。サイバーマンデーは30日ですが、日本での発表は見つかっていません。この日付は、SHEINがセールをいつ始め、いつ終えるかを示すものではありません。",
-          "SHEINは日本で[#SHEIN1111](https://prtimes.jp/main/html/rd/p/000000293.000084888.html)を10月19日12:00から11月16日12:00まで開催しています。ブラックフライデーではありません。下の表は、日本でSHEINが発表した過去のセールです。"
+          "SHEINは日本で[#SHEIN1111](https://prtimes.jp/main/html/rd/p/000000293.000084888.html)を10月19日12:00から11月16日12:00まで開催しました。ブラックフライデーではありません。下の表は、日本でSHEINが発表した過去のセールです。"
         ],
         "comparisonTable": {
           "caption": "日本でSHEINが発表した内容（日本時間）。出典はSHEINのプレスリリースです。「最大」は一部の商品に適用されます。",
@@ -72588,7 +72655,8 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "**送料：** 配送先への送料と、送料無料キャンペーンがある場合の条件をカートで確認してください。"
-        ]
+        ],
+        "emphasis": "広告の割引率に心を動かされる前に、私ならカートの最終価格を比べます。送料と税金を含めた合計こそが、そのセールがお得かどうかを教えてくれるからです。"
       },
       {
         "heading": "よくある質問",
@@ -72626,7 +72694,19 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "素材と寸法つきの17点を用途別に整理した形で、SHEINのページを開く前に見たい。",
+        "クリスマスプレゼントを買うので、支払う前にお届け予定日を確認したい。",
+        "決める前に、お住まいの国のSHEINストアで価格、通貨、在庫を確認することを苦にしない。"
+      ],
+      "skipIf": [
+        "探しにくいサイズが必要なのに、最後のフェーズまで待つつもりでいる。その前に在庫がなくなることがあります。",
+        "すべての商品に同じ割引率を期待している。広告の「最大」は一部の商品が対象です。",
+        "どの国でも同じ価格を期待している。価格、通貨、セールはストアごとに異なります。"
+      ]
+    }
   },
   {
     "id": 355,
@@ -72658,9 +72738,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
-    "cons": [
-      "廣告上的百分比只適用於部分商品，不是整個購物車"
-    ],
+    "cons": [],
     "contentSections": [
       {
         "heading": "快速解答",
@@ -73477,7 +73555,8 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "**運費：** 請在購物車確認收貨地址對應的運費，以及免運費優惠的適用條件。"
-        ]
+        ],
+        "emphasis": "在被廣告上的折扣比例打動之前，我會先比較購物車裡的最終價格：含運費和稅費的總額，才能說明這個優惠划不划算。"
       },
       {
         "heading": "常見問題",
@@ -73515,7 +73594,19 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-zh-hant"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你想在打開 SHEIN 頁面之前，先看到依需求分好類、附布料和尺寸的 17 件單品。",
+        "你在買聖誕禮物，想在付款前確認預計送達時間。",
+        "你不介意在決定前，到所在國家的 SHEIN 站點核對價格、貨幣和庫存。"
+      ],
+      "skipIf": [
+        "你需要不好找的尺寸，卻打算等到最後一個階段：庫存可能先賣完。",
+        "你以為每件商品都是同一個折扣比例：廣告裡的「最高」只適用於部分商品。",
+        "你想要各國一模一樣的價格：價格、貨幣和優惠因站點而異。"
+      ]
+    }
   },
   {
     "id": 356,
@@ -73547,9 +73638,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
-    "cons": [
-      "广告上的百分比只适用于部分商品，不是整个购物车"
-    ],
+    "cons": [],
     "contentSections": [
       {
         "heading": "快速解答",
@@ -74366,7 +74455,8 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "**运费：** 请在购物车确认收货地址对应的运费，以及免运费优惠的适用条件。"
-        ]
+        ],
+        "emphasis": "在被广告上的折扣比例打动之前，我会先比较购物车里的最终价格：含运费和税费的总额，才能说明这个优惠划不划算。"
       },
       {
         "heading": "常见问题",
@@ -74404,7 +74494,19 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你想在打开 SHEIN 页面之前，先看到按需求分好类、附面料和尺寸的 17 件单品。",
+        "你在买圣诞礼物，想在付款前确认预计送达时间。",
+        "你不介意在决定前，到所在国家的 SHEIN 站点核对价格、货币和库存。"
+      ],
+      "skipIf": [
+        "你需要不好找的尺码，却打算等到最后一个阶段：库存可能先卖完。",
+        "你以为每件商品都是同一个折扣比例：广告里的“最高”只适用于部分商品。",
+        "你想要各国一模一样的价格：价格、货币和优惠因站点而异。"
+      ]
+    }
   },
   {
     "id": 357,
@@ -155685,8 +155787,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-11-11-selecao-da-cecilia",
     "locale": "pt",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: 19 achados da seleção da Cecília, de pijama a acessório (até 12/11)",
-    "seoTitle": "SHEIN 11.11 2026: 19 achados com preço e tamanhos",
+    "title": "SHEIN 11.11: 19 achados da seleção da Cecília, de pijama a acessório (campanha encerrada)",
+    "seoTitle": "SHEIN 11.11 2026: 19 achados da Cecília, campanha encerrada",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -155699,11 +155801,11 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
-    "description": "A SHEIN anuncia até 90% off na Mega Promoção 11.11, e a Cecília escolheu 19 peças em 5 grupos, de pijamas a masculino. Veja os preços, os tamanhos e o link de cada peça.",
-    "metaDescription": "O 4CW5Y dá desconto na SHEIN, pelo link ou no app e no site. SHEIN 11.11: 19 peças escolhidas pela Cecília, de pijama a camisa masculina.",
+    "description": "A Mega Promoção 11.11 da SHEIN terminou, mas a seleção de 19 peças da Cecília segue como lista de consulta, de pijama a camisa masculina, com os preços lidos na campanha.",
+    "metaDescription": "O 4CW5Y dá desconto na SHEIN, pelo link ou no app e no site. A 11.11 terminou: veja as 19 peças da Cecília e confira o preço de hoje.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-pt-v2.webp",
     "imageAlt": "Conjunto listrado azul de blusa sem mangas e calça de pernas largas, sobre uma mesa com sapatos na imagem de catálogo da SHEIN, com o logo da marca, a chamada “11.11: a seleção da Cecília” e o código de indicação 4CW5Y.",
     "imageFit": "contain",
@@ -155711,14 +155813,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Os links desta seleção levam às peças da Mega Promoção 11.11 da SHEIN, que vai até 12/11/2026. Confira o preço e a tabela de tamanhos na página da peça antes de fechar o pedido.",
+      "text": "A Mega Promoção 11.11 da SHEIN terminou em 12/11/2026. Os links desta seleção levam às peças na SHEIN: confira o preço de hoje e a tabela de tamanhos na página da peça antes de fechar o pedido.",
       "label": "Ver a seleção na SHEIN",
-      "url": "https://onelink.shein.com/58/66i60wu7xjjd",
+      "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
       "sponsored": true
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Seleção da Cecília, com preços lidos na SHEIN no dia da atualização; ninguém do site usou as peças. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y.",
+    "editorialNote": "Seleção da Cecília, com os preços lidos na SHEIN durante a campanha; ninguém do site usou as peças. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y.",
     "relatedArticles": [
       {
         "slug": "codigo-de-indicacao-shein"
@@ -155734,14 +155836,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja anuncia descontos grandes na Mega Promoção 11.11, até o dia 12. A Cecília escolheu 19 peças em 5 grupos: pijamas, infantil, feminino, acessórios e masculino. O 4CW5Y dá desconto, sim: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, que ele abre uma seleção com promoções; quanto e em quais peças, a SHEIN decide."
+          "A Mega Promoção 11.11 da SHEIN terminou em 12/11. Os preços das 19 peças da Cecília foram lidos na campanha e hoje podem ser outros. O 4CW5Y dá desconto, sim: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site; quanto e em quais peças, a SHEIN decide."
         ]
       },
       {
         "heading": "A campanha 11.11",
         "paragraphs": [
-          "A Mega Promoção 11.11 da SHEIN já começou. São até 90% off em mais de 800 mil produtos, diz a SHEIN, e a loja puxa a campanha para o aplicativo.",
-          "A página de entrada é a de [Seleções de Vendas Globais da 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Nas 19 peças abaixo, a foto e o card abrem a página de cada uma dentro da campanha.",
+          "A Mega Promoção 11.11 da SHEIN de 2026 já terminou. Durante a campanha a loja anunciava até 90% off em mais de 800 mil produtos, e foi nesse período que a Cecília montou a seleção e leu o preço de cada peça.",
+          "A seleção continua útil de dois jeitos: como lista de peças para consultar o preço de hoje na SHEIN e como ponto de comparação com a campanha de novembro, no guia [Black Friday SHEIN](/reviews/black-friday-shein). A foto e o card de cada peça levam à página dela na SHEIN, onde ficam o preço atual e a tabela de tamanhos.",
           "O 4CW5Y é o código de indicação da SHEIN e dá desconto, sim: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, que ele abre uma página com uma seleção de produtos, promoções e descontos. Quanto e em quais peças, a SHEIN decide. Não é cupom e não se cola no checkout. O passo a passo está em [Código de indicação SHEIN: como usar o 4CW5Y](/reviews/codigo-de-indicacao-shein)."
         ]
       },
@@ -155750,8 +155852,8 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Peça",
-            "Preço",
-            "Desconto"
+            "Preço na campanha",
+            "Desconto na campanha"
           ],
           "rows": [
             [
@@ -155852,7 +155954,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "Preços de 08/11/2026, na página de cada peça. O maior desconto é o do kit de short de linho (-48%), seguido do scarpin (-31%). Outras 11 peças têm de -2% a -8%, e 6 estão sem preço riscado. \"A partir de\" quer dizer que o preço muda por cor ou tamanho."
+          "Os preços e descontos da tabela foram lidos na página de cada peça durante a campanha 11.11 e podem ter mudado: use-os para comparar, não como preço de hoje. O maior desconto foi o do kit de short de linho (-48%), seguido do scarpin (-31%). Outras 11 peças tiveram de -2% a -8%, e 6 estavam sem preço riscado. \"A partir de\" quer dizer que o preço muda por cor ou tamanho."
         ]
       },
       {
@@ -155864,7 +155966,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama floral Serenescape",
         "bullets": [
-          "Preço: R$ 62,10 (de R$ 64,99, -4%).",
+          "Preço na campanha: R$ 62,10 (de R$ 64,99, -4%).",
           "Tamanhos: PP a EG.",
           "Nota 4,91 na loja, com mais de mil comentários."
         ],
@@ -155893,7 +155995,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama regata e short listrado com corações",
         "bullets": [
-          "Preço: a partir de R$ 43,95.",
+          "Preço na campanha: a partir de R$ 43,95.",
           "Tamanhos: XPP a EG.",
           "Nota 4,86 na loja, com mais de mil comentários."
         ],
@@ -155927,7 +156029,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de 3 peças com estampa de cartoon",
         "bullets": [
-          "Preço: R$ 40,25 (de R$ 42,95, -6%).",
+          "Preço na campanha: R$ 40,25 (de R$ 42,95, -6%).",
           "Tamanhos: PP a EG.",
           "Nota 4,95 na loja, com mais de mil comentários, a maior da seleção."
         ],
@@ -155962,7 +156064,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Conjunto de menina com regata de coração e pantalona",
         "bullets": [
-          "Preço: a partir de R$ 60,95.",
+          "Preço na campanha: a partir de R$ 60,95.",
           "Tamanhos: 4 a 7 anos; a loja também tem 8 a 12 anos.",
           "Nota 4,88 na loja, com mais de mil comentários."
         ],
@@ -155999,7 +156101,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de menino com dinossauro que brilha no escuro",
         "bullets": [
-          "Preço: a partir de R$ 69,90.",
+          "Preço na campanha: a partir de R$ 69,90.",
           "Tamanhos: 4 a 7 anos.",
           "Nota 4,36 na loja, com 83 comentários."
         ],
@@ -156028,7 +156130,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Blusa de bebê com bichos desenhados a giz",
         "bullets": [
-          "Preço: a partir de R$ 36,90.",
+          "Preço na campanha: a partir de R$ 36,90.",
           "Tamanhos: 6 meses a 3 anos.",
           "Nota 4,12 na loja, com mais de mil comentários."
         ],
@@ -156065,7 +156167,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pijama de menino de manga longa, estampa sortida",
         "bullets": [
-          "Preço: R$ 54,62 (de R$ 56,90, -4%).",
+          "Preço na campanha: R$ 54,62 (de R$ 56,90, -4%).",
           "Tamanhos: 9 meses a 7 anos.",
           "Nota 4,09 na loja, com 62 comentários."
         ],
@@ -156100,7 +156202,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Conjunto listrado azul de regata e pantalona",
         "bullets": [
-          "Preço: a partir de R$ 113,44 (de R$ 116,95, -3%).",
+          "Preço na campanha: a partir de R$ 113,44 (de R$ 116,95, -3%).",
           "Tamanhos: XPP a EG.",
           "Nota 4,70 na loja, com mais de mil comentários."
         ],
@@ -156141,7 +156243,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cardigã esportivo slim DAZY",
         "bullets": [
-          "Preço: R$ 62,24 (de R$ 67,90, -8%).",
+          "Preço na campanha: R$ 62,24 (de R$ 67,90, -8%).",
           "Tamanhos: XPP a P e Petite.",
           "Nota 4,78 na loja, com mais de mil comentários."
         ],
@@ -156182,7 +156284,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Short estampado clochard",
         "bullets": [
-          "Preço: R$ 45,11 (de R$ 46,99, -4%).",
+          "Preço na campanha: R$ 45,11 (de R$ 46,99, -4%).",
           "Tamanhos: XPP a EG, e também Plus.",
           "Nota 4,88 na loja, com mais de mil comentários."
         ],
@@ -156219,7 +156321,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calça jeans pantalona com cintura elástica",
         "bullets": [
-          "Preço: R$ 161,65 (de R$ 164,95, -2%).",
+          "Preço na campanha: R$ 161,65 (de R$ 164,95, -2%).",
           "Tamanhos: PP a G.",
           "Nota 4,31 na loja, com 48 comentários."
         ],
@@ -156266,7 +156368,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Scarpin slingback branco e caramelo",
         "bullets": [
-          "Preço: R$ 68,32 (de R$ 99,70, -31%).",
+          "Preço na campanha: R$ 68,32 (de R$ 99,70, -31%).",
           "Tamanhos: BR34 a BR39.",
           "Nota 4,82 na loja, com mais de 100 comentários."
         ],
@@ -156304,7 +156406,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brincos de laço com pérola e coração",
         "bullets": [
-          "Preço: R$ 13,90.",
+          "Preço na campanha: R$ 13,90.",
           "Tamanho: único.",
           "Nota 4,92 na loja, com mais de mil comentários."
         ],
@@ -156333,7 +156435,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de relógio verde com pulseira, colar e brincos",
         "bullets": [
-          "Preço: R$ 33,55 (de R$ 34,95, -4%).",
+          "Preço na campanha: R$ 33,55 (de R$ 34,95, -4%).",
           "Tamanho: único.",
           "Nota 4,75 na loja, com mais de mil comentários."
         ],
@@ -156362,7 +156464,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Óculos de lente degradê poligonal",
         "bullets": [
-          "Preço: R$ 59,51 (de R$ 61,99, -4%).",
+          "Preço na campanha: R$ 59,51 (de R$ 61,99, -4%).",
           "Tamanhos: não há; escolhe-se só a cor.",
           "Nota 4,88 na loja, com mais de mil comentários."
         ],
@@ -156397,7 +156499,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camiseta Henley azul-marinho com textura de linho",
         "bullets": [
-          "Preço: a partir de R$ 61,90.",
+          "Preço na campanha: a partir de R$ 61,90.",
           "Tamanhos: PP a EEGG.",
           "Nota 4,61 na loja, com mais de 500 comentários."
         ],
@@ -156438,12 +156540,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit de short de linho",
         "bullets": [
-          "Preço: R$ 51,51 (de R$ 99,90, -48%).",
+          "Preço na campanha: R$ 51,51 (de R$ 99,90, -48%).",
           "Tamanhos: P a GG.",
           "Nota 4,76 na loja, com 34 comentários."
         ],
         "paragraphs": [
-          "É um kit de short de linho em cores variadas, para quem quer renovar o básico de verão de uma vez. É a peça de maior desconto da seleção. A página não diz quantas peças vêm no kit: confira antes de comprar."
+          "É um kit de short de linho em cores variadas, para quem quer renovar o básico de verão de uma vez. Foi a peça de maior desconto da seleção. A página não diz quantas peças vêm no kit: confira antes de comprar."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-18-kit-short-linho.webp",
@@ -156479,7 +156581,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisa masculina de manga longa Manfinity Mode",
         "bullets": [
-          "Preço: a partir de R$ 86,28 (de R$ 88,95, -3%).",
+          "Preço na campanha: a partir de R$ 86,28 (de R$ 88,95, -3%).",
           "Tamanhos: PP a EG.",
           "Nota 4,86 na loja, com mais de mil comentários."
         ],
@@ -156519,7 +156621,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Regata preta estonada de caimento solto",
         "bullets": [
-          "Preço: R$ 81,80 (de R$ 84,99, -4%, em Oferta Relâmpago).",
+          "Preço na campanha: R$ 81,80 (de R$ 84,99, -4%, em Oferta Relâmpago).",
           "Tamanhos: P a EG, e também Plus.",
           "Nota 4,73 na loja, com mais de 500 comentários."
         ],
@@ -156559,7 +156661,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de comprar",
         "bullets": [
-          "**Preço muda todo dia:** o preço e o desconto de cada peça são os do dia da atualização. A SHEIN muda os preços durante a campanha, e \"a partir de\" quer dizer que o preço muda por cor ou tamanho.",
+          "**A campanha acabou:** os preços e descontos deste guia são os lidos durante a 11.11 e podem ter mudado. \"A partir de\" quer dizer que o preço varia por cor ou tamanho; confira o de hoje na página da peça.",
           "**Tamanho:** se você está entre dois tamanhos, confira a tabela de medidas da peça antes de escolher, porque a grade muda de peça para peça.",
           "**O 4CW5Y dá desconto, sim, mas não é cupom:** abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site, sem colar no checkout. Quanto e em quais peças, a SHEIN decide. Veja o [código de indicação SHEIN](/reviews/codigo-de-indicacao-shein) e a [página da SHEIN](/cupons/shein), com o link principal da loja.",
           "**Vai esperar a Black Friday?** O guia da [Black Friday SHEIN](/reviews/black-friday-shein) traz o que já se sabe da campanha de novembro.",
@@ -156567,23 +156669,40 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "A seleção ainda vale depois da campanha?",
+        "paragraphs": [
+          "Como lista de peças, vale. Como oferta, não: os preços da 11.11 eram os da campanha. Abra a página da peça de que você gostou, veja o preço atual e a tabela de tamanhos e decida a partir daí. Se a ideia é esperar novembro, guarde a lista e compare com o guia da Black Friday."
+        ],
+        "emphasis": "Eu trataria esta seleção como uma boa lista de peças e uma régua de preço, não como oferta: a 11.11 acabou, e o que vale agora é o que a página de cada peça mostra hoje."
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Até quando vai a 11.11 da SHEIN? Termina no dia seguinte ao 11.11, segundo a SHEIN; a data está na resposta rápida acima.",
-          "O preço das peças pode mudar? Sim. Os preços e os descontos deste guia são os do dia da atualização, e a SHEIN muda o preço durante a campanha e por cor ou tamanho.",
+          "A 11.11 da SHEIN ainda está valendo? Não. A campanha de 2026 já terminou. As ofertas de hoje estão na SHEIN.",
+          "Os preços do guia valem hoje? Não necessariamente. São os preços e descontos lidos durante a campanha, e a SHEIN muda o preço por cor, por tamanho e ao longo do tempo. Confira na página da peça.",
           "O 4CW5Y é cupom? Não, mas dá desconto, sim. É o código de indicação da SHEIN: abra a SHEIN pelo link da Cecília e pesquise o código no app ou no site para chegar a uma seleção com promoções e descontos; ele não se cola no checkout.",
-          "Os links levam direto à peça? Sim. A foto e o card de cada peça abrem a página dela dentro da campanha 11.11, e o link da campanha abre a página de Seleções de Vendas Globais."
+          "Os links levam direto à peça? Sim. A foto e o card de cada peça abrem a página dela na SHEIN, com o preço atual e a tabela de tamanhos."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer uma lista pronta de 19 peças, de pijama a camisa masculina, para consultar o preço de hoje na SHEIN.",
+        "Você pretende esperar a Black Friday e quer uma referência do que a loja cobrava durante a 11.11."
+      ],
+      "skipIf": [
+        "Você procura uma oferta da 11.11: a campanha acabou e os preços do guia são os lidos nela.",
+        "Você quer saber se a peça serve em você: confira a tabela de tamanhos na página dela, porque a grade muda de peça para peça."
+      ]
+    }
   },
   {
     "id": 641,
     "slug": "shein-11-11-sale-picks",
     "locale": "en",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: Cecília's 19 picks, from pajamas to accessories",
-    "seoTitle": "SHEIN 11.11 2026: Cecília's 19 picks with store ratings",
+    "title": "SHEIN 11.11: Cecília's 19 picks, from pajamas to accessories (sale ended)",
+    "seoTitle": "SHEIN 11.11 2026: Cecília's 19 picks after the sale",
     "type": "Guide & Coupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -156599,8 +156718,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília picked 19 SHEIN pieces in 5 groups, from pajamas to menswear. See the store ratings, sizes and direct links for each piece.",
-    "metaDescription": "SHEIN 11.11: Cecília's 19 picks, with store ratings and product links. Referral code 4CW5Y opens a selection with promotions and discounts.",
+    "description": "SHEIN's 11.11 sale is over, but Cecília's 19 picks still work as a checklist: pajamas, kids, women, accessories and men, with store ratings and a link to each piece.",
+    "metaDescription": "SHEIN 11.11 has ended. Cecília's 19 picks, with store ratings and links. Referral code 4CW5Y opens a selection with promotions and discounts.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-en-v2.webp",
     "imageAlt": "Blue striped sleeveless top and wide-leg trousers laid on a table with shoes in a SHEIN catalogue image, with the SHEIN logo, “11.11: Cecília’s picks” and referral code 4CW5Y.",
     "imageFit": "contain",
@@ -156608,7 +156727,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Open SHEIN to check the current offers. Before placing your order, confirm the price and size chart for each piece you choose.",
+      "text": "SHEIN's 11.11 sale ended on 12 November 2026. Open SHEIN to check the current offers, and confirm the price and size chart on the page of each piece before you order.",
       "label": "See the picks on SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -156631,14 +156750,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Cecília picked 19 pieces in 5 groups: pajamas, kids, women, accessories and men. 4CW5Y does give you a discount: open SHEIN through Cecília's link and search the code in the app or on the site to reach a selection with promotions; SHEIN decides how much and on which pieces."
+          "SHEIN's 11.11 sale ended on 12 November. Cecília's 19 picks stay here as a list to check today's price or to compare with the Black Friday guide. 4CW5Y does give you a discount: open SHEIN through Cecília's link and search the code in the app or on the site; SHEIN decides how much and on which pieces."
         ]
       },
       {
         "heading": "The 11.11 campaign",
         "paragraphs": [
-          "The 11.11 selection brings together 19 pieces chosen by Cecília. Check SHEIN for the campaign dates and offers available when you shop.",
-          "The entry page is [11.11 Global Sale Selections](https://onelink.shein.com/58/66i60wu7xjjd). For the 19 pieces below, the photo and the card open each piece's page inside the campaign.",
+          "SHEIN's 11.11 sale in 2026 ended on 12 November. Cecília put this selection together while it ran, and the store ratings in the table are the ones recorded for it.",
+          "The selection still works in two ways: as a list of pieces to look up on SHEIN today, and as a reference to compare with the November campaign. The photo and the card of each piece lead to its page on SHEIN, where the current price and size chart are. For November, see the [SHEIN Black Friday](/en/reviews/shein-black-friday-dates-taxes) guide.",
           "4CW5Y is SHEIN's referral code, and it does give you a discount: open SHEIN through Cecília's link and search the code in the app or on the site, and it opens a page with a selection of products, promotions and discounts. SHEIN decides how much and on which pieces. It is not a coupon and is not pasted at checkout. The step-by-step is in [SHEIN referral code: how to use 4CW5Y](/en/reviews/shein-referral-code-where-to-enter)."
         ]
       },
@@ -156729,7 +156848,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "The table brings together the 19 pieces and the store ratings recorded for this selection. Check each product page for the current price and any discount."
+          "The table brings together the 19 pieces and the store ratings recorded for this selection. Prices and discounts changed during the campaign and have kept changing, so check the current price on each product page."
         ]
       },
       {
@@ -157405,7 +157524,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Before you buy",
         "bullets": [
-          "**Prices and offers can change:** check the price and any discount on the product page before placing your order.",
+          "**The sale is over:** 11.11 prices and discounts no longer apply. Check the current price and any discount on the product page before placing your order.",
           "**Size:** if you are between two sizes, check the piece's size chart before choosing, because the sizing changes from piece to piece.",
           "**4CW5Y does give you a discount, but it is not a coupon:** open SHEIN through Cecília's link and search the code in the app or on the site, and do not paste it at checkout. SHEIN decides how much and on which pieces. See the [SHEIN referral code](/en/reviews/shein-referral-code-where-to-enter) and the [SHEIN page](/en/coupons/shein), with the store's main link.",
           "**Waiting for Black Friday?** The [SHEIN Black Friday](/en/reviews/shein-black-friday-dates-taxes) guide covers what is already known about the November campaign.",
@@ -157413,23 +157532,41 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Is the selection still worth using?",
+        "paragraphs": [
+          "As a shopping list, yes. As a sale, no: the 11.11 prices belonged to the campaign. Open the page of the piece you like, check the current price and size chart, and decide from there. If you plan to wait for November, keep the list and compare it with the Black Friday guide."
+        ],
+        "emphasis": "I would treat this selection as a good list of pieces, not as a promise of a deal: the 11.11 sale is over, and what counts now is what each piece's page shows today."
+      },
+      {
         "heading": "Frequently asked questions",
         "bullets": [
-          "When does SHEIN's 11.11 sale end? Check the campaign currently displayed on SHEIN for its end date.",
+          "Is SHEIN's 11.11 sale still on? No. The 2026 campaign ended on 12 November. Check SHEIN for the current offers.",
           "Can prices and discounts change? Yes. Check the price and any discount on the product page before placing your order.",
           "Is 4CW5Y a coupon? No, but it does give you a discount. It is SHEIN's referral code: open SHEIN through Cecília's link and search the code in the app or on the site to reach a selection with promotions and discounts; it is not pasted at checkout.",
-          "Do the links go straight to the piece? Yes. The photo and the card of each piece open its page inside the 11.11 campaign, and the campaign link opens the Global Sale Selections page."
+          "Do the links go straight to the piece? Yes. The photo and the card of each piece open its page on SHEIN, with the current price and size chart."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23",
+    "decision": {
+      "takeIf": [
+        "You want a ready list of 19 pieces, from pajamas to men's shirts, to look up on SHEIN today.",
+        "You plan to wait for Black Friday and want a shortlist to compare against."
+      ],
+      "skipIf": [
+        "You are looking for an 11.11 deal: the sale ended on 12 November.",
+        "You need a quick fit answer: the size chart on each piece's page is what counts, because sizing changes from piece to piece."
+      ]
+    }
   },
   {
     "id": 642,
     "slug": "shein-11-11-seleccion-ofertas",
     "locale": "es",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: los 19 hallazgos de la selección de Cecília, de pijamas a accesorios",
-    "seoTitle": "SHEIN 11.11 2026: 19 hallazgos con notas de la tienda",
+    "title": "SHEIN 11.11: los 19 hallazgos de la selección de Cecília, de pijamas a accesorios (campaña terminada)",
+    "seoTitle": "SHEIN 11.11 2026: 19 hallazgos de Cecília tras la campaña",
     "type": "Guía & Cupones",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -157445,8 +157582,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília eligió 19 artículos de SHEIN en 5 grupos, de pijamas a moda masculina. Consulta las notas de la tienda, las tallas y los enlaces de cada artículo.",
-    "metaDescription": "SHEIN 11.11: 19 artículos elegidos por Cecília, con notas y enlaces. El código de referido 4CW5Y abre una selección con promociones y descuentos.",
+    "description": "La campaña 11.11 de SHEIN terminó, pero los 19 artículos de Cecília siguen sirviendo como lista: pijamas, infantil, mujer, accesorios y hombre, con notas de la tienda y enlaces.",
+    "metaDescription": "SHEIN 11.11 terminó: 19 artículos elegidos por Cecília, con notas y enlaces. El código de referido 4CW5Y abre una selección con promociones y descuentos.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-es-v2.webp",
     "imageAlt": "Conjunto de rayas azules con blusa sin mangas y pantalón ancho, sobre una mesa con zapatos en una imagen de catálogo de SHEIN, con el logo, “11.11: la selección de Cecília” y el código de referido 4CW5Y.",
     "imageFit": "contain",
@@ -157454,7 +157591,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Abre SHEIN para consultar las ofertas actuales. Antes de hacer el pedido, confirma el precio y la tabla de tallas de cada artículo que elijas.",
+      "text": "La campaña 11.11 de SHEIN terminó el 12 de noviembre de 2026. Abre SHEIN para consultar las ofertas actuales y, antes de hacer el pedido, confirma el precio y la tabla de tallas en la página de cada artículo.",
       "label": "Ver la selección en SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -157477,14 +157614,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Cecília eligió 19 prendas en 5 grupos: pijamas, infantil, mujer, accesorios y hombre. El 4CW5Y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o el sitio para llegar a una selección con promociones; cuánto y en qué prendas, lo decide SHEIN."
+          "La campaña 11.11 de SHEIN terminó el 12 de noviembre. Los 19 artículos de Cecília sirven para consultar el precio de hoy o compararlo con la guía del Black Friday. El 4CW5Y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o el sitio; SHEIN decide cuánto y en qué prendas."
         ]
       },
       {
         "heading": "La campaña 11.11",
         "paragraphs": [
-          "La selección del 11.11 reúne 19 artículos elegidos por Cecília. Consulta en SHEIN las fechas y ofertas de la campaña que aparezca al comprar.",
-          "La página de entrada es la de [Selecciones de Ventas Globales del 11.11](https://onelink.shein.com/58/66i60wu7xjjd). En las 19 prendas de abajo, la foto y la tarjeta abren la página de cada una dentro de la campaña.",
+          "La campaña 11.11 de SHEIN de 2026 terminó el 12 de noviembre. Cecília armó esta selección mientras duraba, y las notas de la tienda de la tabla son las registradas para ella.",
+          "La selección sigue sirviendo de dos maneras: como lista de prendas para consultar hoy en SHEIN y como referencia para comparar con la campaña de noviembre. La foto y la tarjeta de cada prenda llevan a su página en SHEIN, donde están el precio actual y la tabla de tallas. Para noviembre, mira la guía [Black Friday de SHEIN](/es/reviews/black-friday-shein-fechas-impuestos).",
           "El 4CW5Y es el código de referido de SHEIN y sí da descuento: abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio, y se abre una página con una selección de productos, promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN. No es un cupón y no se pega en el checkout. El paso a paso está en [Código de referido de SHEIN: cómo usar el 4CW5Y](/es/reviews/codigo-de-referido-shein-donde-ponerlo)."
         ]
       },
@@ -157575,7 +157712,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "La tabla reúne los 19 artículos y las notas de la tienda registradas para esta selección. Consulta el precio actual y los posibles descuentos en la ficha de cada artículo."
+          "La tabla reúne los 19 artículos y las notas de la tienda registradas para esta selección. Los precios y descuentos cambiaron durante la campaña y han seguido cambiando; consulta el precio actual en la ficha de cada artículo."
         ]
       },
       {
@@ -158251,7 +158388,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de comprar",
         "bullets": [
-          "**Los precios y las ofertas pueden cambiar:** consulta el precio y los posibles descuentos en la ficha antes de hacer el pedido.",
+          "**La campaña terminó:** los precios y descuentos del 11.11 ya no valen. Consulta el precio actual y los posibles descuentos en la ficha antes de hacer el pedido.",
           "**Talla:** si estás entre dos tallas, mira la tabla de medidas de la prenda antes de elegir, porque la talla cambia de una prenda a otra.",
           "**El 4CW5Y sí da descuento, pero no es un cupón:** abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio, sin pegarlo en el checkout. Cuánto y en qué prendas lo decide SHEIN. Mira el [código de referido de SHEIN](/es/reviews/codigo-de-referido-shein-donde-ponerlo) y la [página de SHEIN](/es/coupons/shein), con el enlace principal de la tienda.",
           "**¿Vas a esperar al Black Friday?** La guía del [Black Friday de SHEIN](/es/reviews/black-friday-shein-fechas-impuestos) recoge lo que ya se sabe de la campaña de noviembre.",
@@ -158259,23 +158396,41 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "¿Sigue valiendo la pena esta selección?",
+        "paragraphs": [
+          "Como lista de compras, sí. Como oferta, no: los precios del 11.11 eran los de la campaña. Abre la página de la prenda que te guste, mira el precio actual y la tabla de tallas y decide desde ahí. Si piensas esperar a noviembre, guarda la lista y compárala con la guía del Black Friday."
+        ],
+        "emphasis": "Yo vería esta selección como una buena lista de prendas, no como una promesa de descuento: el 11.11 terminó y lo que cuenta es lo que muestra hoy la página de cada una."
+      },
+      {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuándo termina el 11.11 de SHEIN? Consulta la fecha de cierre de la campaña que aparezca en SHEIN al entrar.",
+          "¿Sigue en marcha el 11.11 de SHEIN? No. La campaña de 2026 terminó el 12 de noviembre. Consulta las ofertas actuales en SHEIN.",
           "¿Pueden cambiar los precios y descuentos? Sí. Consulta el precio y los posibles descuentos en la ficha antes de hacer el pedido.",
           "¿El 4CW5Y es un cupón? No, pero sí da descuento. Es el código de referido de SHEIN: abre SHEIN con el enlace de Cecília y busca el código en la app o en el sitio para llegar a una selección con promociones y descuentos; no se pega en el checkout.",
-          "¿Los enlaces llevan directo a la prenda? Sí. La foto y la tarjeta de cada prenda abren su página dentro de la campaña 11.11, y el enlace de la campaña abre la página de Selecciones de Ventas Globales."
+          "¿Los enlaces llevan directo a la prenda? Sí. La foto y la tarjeta de cada prenda abren su página en SHEIN, con el precio actual y la tabla de tallas."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23",
+    "decision": {
+      "takeIf": [
+        "Quieres una lista hecha de 19 prendas, de pijamas a camisas de hombre, para consultar hoy en SHEIN.",
+        "Piensas esperar al Black Friday y buscas una lista corta para comparar."
+      ],
+      "skipIf": [
+        "Buscas una oferta del 11.11: la campaña terminó el 12 de noviembre.",
+        "Necesitas saber cómo te queda: manda la tabla de tallas de la página de cada prenda, porque la talla cambia de una a otra."
+      ]
+    }
   },
   {
     "id": 643,
     "slug": "shein-11-11-selection-promos",
     "locale": "fr",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11 : les 19 trouvailles de la sélection de Cecília, du pyjama aux accessoires",
-    "seoTitle": "SHEIN 11.11 2026 : 19 trouvailles et leurs notes en boutique",
+    "title": "SHEIN 11.11 : les 19 trouvailles de la sélection de Cecília, du pyjama aux accessoires (campagne terminée)",
+    "seoTitle": "SHEIN 11.11 2026 : 19 trouvailles après la campagne",
     "type": "Guide & Coupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -158291,8 +158446,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília a choisi 19 pièces SHEIN en 5 groupes, du pyjama à la mode homme. Consultez les notes de la boutique, les tailles et les liens de chaque pièce.",
-    "metaDescription": "SHEIN 11.11 : 19 pièces choisies par Cecília, avec notes et liens. Le code de parrainage 4CW5Y ouvre une sélection de promotions et de remises.",
+    "description": "La campagne 11.11 de SHEIN est terminée, mais les 19 pièces de Cecília servent encore de liste : pyjamas, enfant, femme, accessoires et homme, avec notes et liens.",
+    "metaDescription": "SHEIN 11.11 est terminé : 19 pièces choisies par Cecília, avec notes et liens. Le code de parrainage 4CW5Y ouvre une sélection de promotions et de remises.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-fr-v2.webp",
     "imageAlt": "Ensemble rayé bleu avec haut sans manches et pantalon large, posé sur une table avec des chaussures dans une image du catalogue SHEIN, avec le logo, «11.11 : la sélection de Cecília» et le code de parrainage 4CW5Y.",
     "imageFit": "contain",
@@ -158300,7 +158455,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Ouvrez SHEIN pour consulter les offres actuelles. Avant de passer commande, vérifiez le prix et le guide des tailles de chaque pièce choisie.",
+      "text": "La campagne 11.11 de SHEIN s'est terminée le 12 novembre 2026. Ouvrez SHEIN pour consulter les offres actuelles et, avant de commander, vérifiez le prix et le guide des tailles sur la page de chaque pièce.",
       "label": "Voir la sélection sur SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -158323,14 +158478,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Cecília a choisi 19 pièces en 5 groupes : pyjamas, enfant, femme, accessoires et homme. Le 4CW5Y donne bien une remise : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site pour arriver sur une sélection avec promotions ; SHEIN décide du montant et des pièces."
+          "La campagne 11.11 de SHEIN s'est terminée le 12 novembre. Les 19 pièces de Cecília servent de liste pour le prix du jour ou pour comparer avec le Black Friday. Le 4CW5Y donne bien une remise : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou le site ; SHEIN décide du montant et des pièces."
         ]
       },
       {
         "heading": "La campagne 11.11",
         "paragraphs": [
-          "La sélection du 11.11 réunit 19 pièces choisies par Cecília. Consultez SHEIN pour connaître les dates et les offres de la campagne affichée lors de votre visite.",
-          "La page d'entrée est celle des [Sélections des ventes mondiales du 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Pour les 19 pièces ci-dessous, la photo et la carte ouvrent la page de chacune dans la campagne.",
+          "La campagne 11.11 de SHEIN en 2026 s'est terminée le 12 novembre. Cecília a composé cette sélection pendant la campagne, et les notes de la boutique du tableau sont celles relevées pour elle.",
+          "La sélection reste utile de deux façons : comme liste de pièces à consulter aujourd'hui sur SHEIN et comme repère pour comparer avec la campagne de novembre. La photo et la carte de chaque pièce mènent à sa page sur SHEIN, où se trouvent le prix actuel et le guide des tailles. Pour novembre, voyez le guide [Black Friday SHEIN](/fr/reviews/black-friday-shein-dates-et-taxes).",
           "Le 4CW5Y est le code de parrainage de SHEIN et il donne bien une remise : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site, et il ouvre une page avec une sélection de produits, de promotions et de remises. SHEIN décide du montant et des pièces concernées. Ce n'est pas un coupon et on ne le colle pas au paiement. Le pas à pas est dans [Code de parrainage SHEIN : comment utiliser le 4CW5Y](/fr/reviews/code-de-parrainage-shein-ou-le-mettre)."
         ]
       },
@@ -158421,7 +158576,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "Le tableau réunit les 19 pièces et les notes de la boutique relevées pour cette sélection. Consultez le prix actuel et les remises éventuelles sur chaque fiche produit."
+          "Le tableau réunit les 19 pièces et les notes de la boutique relevées pour cette sélection. Les prix et les remises ont changé pendant la campagne et continuent de bouger ; consultez le prix actuel sur la fiche de chaque pièce."
         ]
       },
       {
@@ -159097,7 +159252,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avant d'acheter",
         "bullets": [
-          "**Les prix et les offres peuvent changer :** consultez le prix et les remises éventuelles sur la fiche produit avant de passer commande.",
+          "**La campagne est terminée :** les prix et les remises du 11.11 ne s'appliquent plus. Consultez le prix actuel et les remises éventuelles sur la fiche produit avant de passer commande.",
           "**Taille :** si vous hésitez entre deux tailles, regardez le guide des tailles de la pièce avant de choisir, parce que les tailles changent d'une pièce à l'autre.",
           "**Le 4CW5Y donne bien une remise, mais ce n'est pas un coupon :** ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site, sans le coller au paiement. SHEIN décide du montant et des pièces concernées. Voir le [code de parrainage SHEIN](/fr/reviews/code-de-parrainage-shein-ou-le-mettre) et la [page SHEIN](/fr/coupons/shein), avec le lien principal de la boutique.",
           "**Vous allez attendre le Black Friday ?** Le guide du [Black Friday SHEIN](/fr/reviews/black-friday-shein-dates-et-taxes) rassemble ce que l'on sait déjà de la campagne de novembre.",
@@ -159105,23 +159260,41 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Cette sélection vaut-elle encore le coup ?",
+        "paragraphs": [
+          "Comme liste d'envies, oui. Comme promotion, non : les prix du 11.11 appartenaient à la campagne. Ouvrez la page de la pièce qui vous plaît, regardez le prix actuel et le guide des tailles, puis décidez. Si vous comptez attendre novembre, gardez la liste et comparez-la avec le guide du Black Friday."
+        ],
+        "emphasis": "Je verrais cette sélection comme une bonne liste de pièces, pas comme une promesse de remise : le 11.11 est terminé, et ce qui compte, c'est ce que la page de chaque pièce affiche aujourd'hui."
+      },
+      {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quand se termine le 11.11 de SHEIN ? Consultez la date de fin de la campagne qui s'affiche sur SHEIN lors de votre visite.",
+          "Le 11.11 de SHEIN est-il encore en cours ? Non. La campagne de 2026 s'est terminée le 12 novembre. Consultez les offres actuelles sur SHEIN.",
           "Les prix et les remises peuvent-ils changer ? Oui. Consultez le prix et les remises éventuelles sur la fiche produit avant de passer commande.",
           "Le 4CW5Y est-il un coupon ? Non, mais il donne bien une remise. C'est le code de parrainage de SHEIN : ouvrez SHEIN avec le lien de Cecília et recherchez le code dans l'appli ou sur le site pour arriver sur une sélection avec promotions et remises ; on ne le colle pas au paiement.",
-          "Les liens mènent-ils directement à la pièce ? Oui. La photo et la carte de chaque pièce ouvrent sa page dans la campagne 11.11, et le lien de la campagne ouvre la page des Sélections des ventes mondiales."
+          "Les liens mènent-ils directement à la pièce ? Oui. La photo et la carte de chaque pièce ouvrent sa page sur SHEIN, avec le prix actuel et le guide des tailles."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23",
+    "decision": {
+      "takeIf": [
+        "Vous voulez une liste toute prête de 19 pièces, du pyjama à la chemise homme, à consulter aujourd'hui sur SHEIN.",
+        "Vous comptez attendre le Black Friday et cherchez une courte liste de comparaison."
+      ],
+      "skipIf": [
+        "Vous cherchez une offre du 11.11 : la campagne s'est terminée le 12 novembre.",
+        "Vous voulez savoir si la pièce vous ira : seul le guide des tailles de sa page fait foi, car les tailles changent d'une pièce à l'autre."
+      ]
+    }
   },
   {
     "id": 644,
     "slug": "shein-11-11-selezione-offerte",
     "locale": "it",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: i 19 articoli scelti da Cecília, dal pigiama agli accessori",
-    "seoTitle": "SHEIN 11.11 2026: 19 articoli con valutazioni del negozio",
+    "title": "SHEIN 11.11: i 19 articoli scelti da Cecília, dal pigiama agli accessori (campagna conclusa)",
+    "seoTitle": "SHEIN 11.11 2026: 19 articoli di Cecília dopo la campagna",
     "type": "Guida e coupon",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -159137,8 +159310,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília ha scelto 19 articoli SHEIN in 5 gruppi, dai pigiami alla moda uomo. Consulta valutazioni, taglie e link diretti di ogni articolo.",
-    "metaDescription": "SHEIN 11.11: 19 articoli scelti da Cecília, con valutazioni e link. Il codice invito 4CW5Y apre una selezione con promozioni e sconti.",
+    "description": "La campagna 11.11 di SHEIN è finita, ma i 19 articoli di Cecília restano utili come lista: pigiami, bambini, donna, accessori e uomo, con valutazioni del negozio e link diretti.",
+    "metaDescription": "SHEIN 11.11 è finito: 19 articoli scelti da Cecília, con valutazioni e link. Il codice invito 4CW5Y apre una selezione con promozioni e sconti.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-it-v2.webp",
     "imageAlt": "Completo a righe blu con top senza maniche e pantaloni ampi, su un tavolo con scarpe in un’immagine di catalogo SHEIN, con il logo, “11.11: le scelte di Cecília” e il codice invito 4CW5Y.",
     "imageFit": "contain",
@@ -159146,7 +159319,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Apri SHEIN per consultare le offerte attuali. Prima di completare l'ordine, controlla il prezzo e la tabella delle taglie di ogni articolo scelto.",
+      "text": "La campagna 11.11 di SHEIN è terminata il 12 novembre 2026. Apri SHEIN per consultare le offerte attuali e, prima di completare l'ordine, controlla prezzo e tabella delle taglie nella pagina di ogni articolo.",
       "label": "Vedi la selezione su SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -159169,14 +159342,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo. Il 4CW5Y dà sconto, sì: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito per arrivare a una selezione con promozioni; quanto e su quali articoli lo decide SHEIN."
+          "La campagna 11.11 di SHEIN è terminata il 12 novembre. I 19 articoli di Cecília restano come lista per controllare il prezzo di oggi o confrontarlo con la guida al Black Friday. Il 4CW5Y dà sconto, sì: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito; quanto e su quali articoli lo decide SHEIN."
         ]
       },
       {
         "heading": "La campagna 11.11",
         "paragraphs": [
-          "La selezione dell'11.11 riunisce 19 articoli scelti da Cecília. Consulta SHEIN per le date e le offerte della campagna visualizzata al momento dell'acquisto.",
-          "La pagina di ingresso è quella delle [Selezioni di Vendita Globali dell'11.11](https://onelink.shein.com/58/66i60wu7xjjd). Per i 19 articoli qui sotto, la foto e la scheda aprono la pagina di ciascuno dentro la campagna.",
+          "La campagna 11.11 di SHEIN del 2026 è terminata il 12 novembre. Cecília ha composto questa selezione mentre era in corso, e le valutazioni del negozio in tabella sono quelle registrate per lei.",
+          "La selezione resta utile in due modi: come lista di articoli da controllare oggi su SHEIN e come riferimento per confrontare la campagna di novembre. La foto e la scheda di ogni articolo portano alla sua pagina su SHEIN, dove ci sono il prezzo attuale e la tabella delle taglie. Per novembre, vedi la guida [Black Friday SHEIN](/it/reviews/black-friday-shein-date-e-tasse).",
           "Il 4CW5Y è il codice invito di SHEIN e dà sconto, sì: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito, e si apre una pagina con una selezione di prodotti, promozioni e sconti. Quanto e su quali articoli lo decide SHEIN. Non è un coupon e non si incolla al checkout. I passaggi sono in [Codice invito SHEIN: come usare il 4CW5Y](/it/reviews/codice-invito-shein-dove-inserirlo)."
         ]
       },
@@ -159267,7 +159440,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "La tabella riunisce i 19 articoli e le valutazioni del negozio registrate per questa selezione. Consulta il prezzo attuale e gli eventuali sconti nella scheda di ogni articolo."
+          "La tabella riunisce i 19 articoli e le valutazioni del negozio registrate per questa selezione. Prezzi e sconti sono cambiati durante la campagna e continuano a cambiare: controlla il prezzo attuale nella scheda di ogni articolo."
         ]
       },
       {
@@ -159943,7 +160116,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prima di comprare",
         "bullets": [
-          "**Prezzi e offerte possono cambiare:** controlla il prezzo e gli eventuali sconti nella scheda prima di completare l'ordine.",
+          "**La campagna è finita:** prezzi e sconti dell'11.11 non valgono più. Controlla il prezzo attuale e gli eventuali sconti nella scheda prima di completare l'ordine.",
           "**Taglia:** se sei tra due taglie, controlla la tabella delle misure dell'articolo prima di scegliere, perché la vestibilità cambia da capo a capo.",
           "**Il 4CW5Y dà sconto, sì, ma non è un coupon:** apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito, senza incollarlo al checkout. Quanto e su quali articoli lo decide SHEIN. Vedi il [codice invito SHEIN](/it/reviews/codice-invito-shein-dove-inserirlo) e la [pagina di SHEIN](/it/coupons/shein), con il link principale del negozio.",
           "**Aspetti il Black Friday?** La guida al [Black Friday SHEIN](/it/reviews/black-friday-shein-date-e-tasse) raccoglie quello che già si sa della campagna di novembre.",
@@ -159951,23 +160124,41 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Vale ancora la pena usare questa selezione?",
+        "paragraphs": [
+          "Come lista della spesa, sì. Come offerta, no: i prezzi dell'11.11 erano quelli della campagna. Apri la pagina dell'articolo che ti piace, guarda prezzo attuale e tabella delle taglie e decidi da lì. Se pensi di aspettare novembre, tieni la lista e confrontala con la guida al Black Friday."
+        ],
+        "emphasis": "Vedrei questa selezione come una buona lista di articoli, non come una promessa di sconto: l'11.11 è finito e conta quello che la pagina di ciascun articolo mostra oggi."
+      },
+      {
         "heading": "Domande frequenti",
         "bullets": [
-          "Quando termina l'11.11 di SHEIN? Consulta la data di fine della campagna visualizzata su SHEIN al momento della visita.",
+          "L'11.11 di SHEIN è ancora in corso? No. La campagna del 2026 è terminata il 12 novembre. Consulta le offerte attuali su SHEIN.",
           "Prezzi e sconti possono cambiare? Sì. Controlla il prezzo e gli eventuali sconti nella scheda prima di completare l'ordine.",
           "Il 4CW5Y è un coupon? No, ma dà sconto, sì. È il codice invito di SHEIN: apri SHEIN con il link di Cecília e cerca il codice nell'app o sul sito per arrivare a una selezione con promozioni e sconti; non si incolla al checkout.",
-          "I link portano direttamente all'articolo? Sì. La foto e la scheda di ogni articolo aprono la sua pagina dentro la campagna 11.11, e il link della campagna apre la pagina delle Selezioni di Vendita Globali."
+          "I link portano direttamente all'articolo? Sì. La foto e la scheda di ogni articolo aprono la sua pagina su SHEIN, con prezzo attuale e tabella delle taglie."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23",
+    "decision": {
+      "takeIf": [
+        "Vuoi una lista pronta di 19 articoli, dal pigiama alla camicia da uomo, da controllare oggi su SHEIN.",
+        "Pensi di aspettare il Black Friday e cerchi una lista breve per il confronto."
+      ],
+      "skipIf": [
+        "Cerchi un'offerta dell'11.11: la campagna è terminata il 12 novembre.",
+        "Vuoi sapere subito come veste: conta la tabella delle taglie nella pagina dell'articolo, perché la vestibilità cambia da capo a capo."
+      ]
+    }
   },
   {
     "id": 645,
     "slug": "shein-11-11-auswahl-angebote",
     "locale": "de",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: Cecílias 19 Fundstücke, vom Pyjama bis zum Accessoire",
-    "seoTitle": "SHEIN 11.11 2026: 19 Fundstücke mit Shopbewertungen",
+    "title": "SHEIN 11.11: Cecílias 19 Fundstücke, vom Pyjama bis zum Accessoire (Aktion beendet)",
+    "seoTitle": "SHEIN 11.11 2026: Cecílias 19 Fundstücke nach der Aktion",
     "type": "Ratgeber & Gutscheine",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -159983,8 +160174,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília hat 19 SHEIN-Teile in 5 Gruppen ausgewählt, vom Pyjama bis zur Herrenmode. Sehen Sie Bewertungen, Größen und direkte Produktlinks.",
-    "metaDescription": "SHEIN 11.11: Cecílias 19 Fundstücke mit Shopbewertungen und Produktlinks. Der Empfehlungscode 4CW5Y öffnet eine Auswahl mit Aktionen und Rabatten.",
+    "description": "Die 11.11-Aktion von SHEIN ist vorbei, doch Cecílias 19 Fundstücke taugen weiter als Merkliste: Pyjamas, Kinder, Damen, Accessoires und Herren, mit Bewertungen und Produktlinks.",
+    "metaDescription": "SHEIN 11.11 ist vorbei: Cecílias 19 Fundstücke mit Shopbewertungen und Links. Der Empfehlungscode 4CW5Y öffnet eine Auswahl mit Aktionen und Rabatten.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-de-v2.webp",
     "imageAlt": "Blau gestreiftes Set aus ärmellosem Oberteil und weiter Hose auf einem Tisch mit Schuhen in einem SHEIN-Katalogbild, mit dem Logo, „11.11: Cecílias Auswahl“ und dem Empfehlungscode 4CW5Y.",
     "imageFit": "contain",
@@ -159992,7 +160183,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Öffnen Sie SHEIN, um die aktuellen Angebote zu prüfen. Kontrollieren Sie vor der Bestellung den Preis und die Größentabelle jedes ausgewählten Teils.",
+      "text": "Die 11.11-Aktion von SHEIN endete am 12. November 2026. Öffnen Sie SHEIN, um die aktuellen Angebote zu prüfen, und kontrollieren Sie vor der Bestellung Preis und Größentabelle auf der Seite des Teils.",
       "label": "Die Auswahl bei SHEIN ansehen",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -160015,14 +160206,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Cecília hat 19 Teile in 5 Gruppen ausgewählt: Pyjamas, Kinder, Damen, Accessoires und Herren. 4CW5Y gibt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, dann gelangen Sie zu einer Auswahl mit Aktionen; wie viel und bei welchen Teilen, entscheidet SHEIN."
+          "Die 11.11-Aktion von SHEIN endete am 12. November. Cecílias 19 Fundstücke bleiben als Liste, um den heutigen Preis zu prüfen oder mit dem Black-Friday-Ratgeber zu vergleichen. 4CW5Y gibt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website; wie viel und bei welchen Teilen, entscheidet SHEIN."
         ]
       },
       {
         "heading": "Die Aktion 11.11",
         "paragraphs": [
-          "Die 11.11-Auswahl umfasst 19 Teile, die Cecília ausgesucht hat. Prüfen Sie bei SHEIN, welche Aktionszeiträume und Angebote beim Einkauf gelten.",
-          "Die Einstiegsseite ist die der [globalen Sale-Auswahl zum 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Bei den 19 Teilen unten öffnen Foto und Karte jeweils die Produktseite innerhalb der Aktion.",
+          "Die 11.11-Aktion von SHEIN 2026 endete am 12. November. Cecília hat diese Auswahl während der Aktion zusammengestellt; die Shopbewertungen in der Tabelle sind die, die dafür erfasst wurden.",
+          "Die Auswahl taugt weiterhin auf zwei Arten: als Liste von Teilen, die Sie heute bei SHEIN nachschlagen, und als Vergleichsbasis für die November-Aktion. Foto und Karte jedes Teils führen zu seiner Seite bei SHEIN, wo Sie den aktuellen Preis und die Größentabelle finden. Zur November-Aktion siehe den Ratgeber [Black Friday bei SHEIN](/de/reviews/shein-black-friday-termine-steuern).",
           "4CW5Y ist der Empfehlungscode von SHEIN und gibt Rabatt, ja: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, dann öffnet sich eine Seite mit einer Auswahl an Produkten, Aktionen und Rabatten. Wie viel und bei welchen Teilen, entscheidet SHEIN. Er ist kein Gutschein und wird nicht an der Kasse eingegeben. Die Schritte stehen in [SHEIN-Empfehlungscode: so verwenden Sie 4CW5Y](/de/reviews/shein-empfehlungscode-wo-eingeben)."
         ]
       },
@@ -160113,7 +160304,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "Die Tabelle zeigt die 19 Teile und die für diese Auswahl erfassten Shopbewertungen. Den aktuellen Preis und einen möglichen Rabatt finden Sie auf der jeweiligen Produktseite."
+          "Die Tabelle zeigt die 19 Teile und die für diese Auswahl erfassten Shopbewertungen. Preise und Rabatte änderten sich schon während der Aktion und seither weiter; den aktuellen Preis finden Sie auf der jeweiligen Produktseite."
         ]
       },
       {
@@ -160789,7 +160980,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vor dem Kauf",
         "bullets": [
-          "**Preise und Angebote können sich ändern:** Prüfen Sie vor der Bestellung den Preis und einen möglichen Rabatt auf der Produktseite.",
+          "**Die Aktion ist vorbei:** Preise und Rabatte der 11.11 gelten nicht mehr. Prüfen Sie vor der Bestellung den aktuellen Preis und einen möglichen Rabatt auf der Produktseite.",
           "**Größe:** Wenn Sie zwischen zwei Größen liegen, prüfen Sie die Maßtabelle des Teils, bevor Sie wählen, denn die Größen fallen von Teil zu Teil anders aus.",
           "**4CW5Y gibt Rabatt, ist aber kein Gutschein:** Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, nicht an der Kasse. Wie viel und bei welchen Teilen, entscheidet SHEIN. Siehe den [SHEIN-Empfehlungscode](/de/reviews/shein-empfehlungscode-wo-eingeben) und die [SHEIN-Seite](/de/coupons/shein) mit dem Hauptlink des Shops.",
           "**Warten Sie auf den Black Friday?** Der Ratgeber zum [Black Friday bei SHEIN](/de/reviews/shein-black-friday-termine-steuern) fasst zusammen, was über die November-Aktion schon bekannt ist.",
@@ -160797,23 +160988,41 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Taugt die Auswahl nach der Aktion noch?",
+        "paragraphs": [
+          "Als Merkliste ja, als Angebot nein: Die Preise der 11.11 gehörten zur Aktion. Öffnen Sie die Seite des Teils, das Ihnen gefällt, prüfen Sie Preis und Größentabelle und entscheiden Sie dann. Wer auf November wartet, behält die Liste und vergleicht sie mit dem Black-Friday-Ratgeber."
+        ],
+        "emphasis": "Ich würde diese Auswahl als gute Liste von Teilen sehen, nicht als Rabattversprechen: Die 11.11 ist vorbei, und es zählt, was die Seite jedes Teils heute zeigt."
+      },
+      {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Bis wann läuft die 11.11-Aktion von SHEIN? Prüfen Sie das Enddatum der Aktion, die Ihnen bei SHEIN angezeigt wird.",
+          "Läuft die 11.11-Aktion von SHEIN noch? Nein. Die Aktion 2026 endete am 12. November. Die aktuellen Angebote sehen Sie bei SHEIN.",
           "Können sich Preise und Rabatte ändern? Ja. Prüfen Sie vor der Bestellung den Preis und einen möglichen Rabatt auf der Produktseite.",
           "Ist 4CW5Y ein Gutschein? Nein, aber er gibt Rabatt. Es ist der Empfehlungscode von SHEIN: Öffnen Sie SHEIN über Cecílias Link und suchen Sie den Code in der App oder auf der Website, um zu einer Auswahl mit Aktionen und Rabatten zu gelangen; an der Kasse wird er nicht eingegeben.",
-          "Führen die Links direkt zum Teil? Ja. Foto und Karte jedes Teils öffnen seine Produktseite innerhalb der Aktion 11.11, und der Link der Aktion öffnet die Seite der globalen Sale-Auswahl."
+          "Führen die Links direkt zum Teil? Ja. Foto und Karte jedes Teils öffnen seine Seite bei SHEIN, mit aktuellem Preis und Größentabelle."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23",
+    "decision": {
+      "takeIf": [
+        "Sie möchten eine fertige Liste mit 19 Teilen, vom Pyjama bis zum Herrenhemd, die Sie heute bei SHEIN nachschlagen.",
+        "Sie wollen auf den Black Friday warten und suchen eine Liste zum Vergleichen."
+      ],
+      "skipIf": [
+        "Sie suchen ein Angebot der 11.11: Die Aktion endete am 12. November.",
+        "Sie brauchen schnell eine Passform-Auskunft: Maßgeblich ist die Größentabelle auf der Seite des Teils, denn die Größen fallen von Teil zu Teil anders aus."
+      ]
+    }
   },
   {
     "id": 646,
     "slug": "shein-11-11-picks-ja",
     "locale": "ja",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11：Cecília が選んだ19アイテム、パジャマからアクセサリーまで（11月16日まで）",
-    "seoTitle": "SHEIN 11.11 2026：ショップの評価つき19アイテム",
+    "title": "SHEIN 11.11：Cecília が選んだ19アイテム、パジャマからアクセサリーまで（キャンペーン終了）",
+    "seoTitle": "SHEIN 11.11 2026：キャンペーン後に見る19アイテム",
     "type": "ガイド＆クーポン",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -160829,8 +161038,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecíliaが選んだSHEINの19アイテム。パジャマ、キッズ、レディース、アクセサリー、メンズの5グループに分け、ショップの評価、サイズ、商品リンクをまとめました。",
-    "metaDescription": "SHEIN 11.11は2026年11月16日12:00まで。Cecíliaが選んだ19アイテム。紹介コード4CW5Yでプロモーションや割引のあるセレクションへ。",
+    "description": "SHEIN 11.11 キャンペーンは終了しましたが、Cecíliaが選んだ19アイテムは確認用リストとして使えます。パジャマ、キッズ、レディース、アクセサリー、メンズに分け、ショップの評価と商品リンクをまとめました。",
+    "metaDescription": "SHEIN 11.11は終了しました。Cecíliaが選んだ19アイテムと、ショップの評価、商品リンク。紹介コード4CW5Yでプロモーションや割引のあるセレクションへ。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-ja-v2.webp",
     "imageAlt": "青いストライプのノースリーブトップスとワイドパンツを靴とともにテーブルに並べたSHEINのカタログ画像。SHEINロゴ、「11.11 Cecíliaのセレクト」、紹介コード4CW5Y。",
     "imageFit": "contain",
@@ -160838,7 +161047,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "SHEINで現在のキャンペーンを確認してください。11.11キャンペーンは2026年11月16日12:00までと公式発表されています。注文前に、選んだ商品の価格とサイズ表を確認してください。",
+      "text": "SHEIN 11.11 キャンペーンは終了しました（最終段階は2026年11月16日12:00まで）。SHEINで現在のキャンペーンを確認し、注文前に各商品ページで価格とサイズ表を確認してください。",
       "label": "SHEIN でセレクションを見る",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -160861,14 +161070,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "SHEIN はメガセールを11月16日12:00まで開催しています。Cecíliaは、パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選びました。4CW5Y で割引が受けられます：Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索すると、プロモーション付きのセレクションに進めます（割引額と対象アイテムは SHEIN が決めます）。"
+          "SHEIN 11.11 キャンペーンは終了しました。最後の段階は11月16日12:00まででした。Cecíliaが選んだ19アイテムは、今日の価格を確認したり、ブラックフライデーのガイドと比べたりするためのリストとして残してあります。4CW5Y で割引が受けられます：Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索してください（割引額と対象アイテムは SHEIN が決めます）。"
         ]
       },
       {
         "heading": "11.11 キャンペーンについて",
         "paragraphs": [
-          "SHEIN によると、11.11キャンペーンは11月16日12:00まで。11月9日12:00からの最終段階は80万点以上の商品が最大95%オフで、キャンペーンの中心はアプリです。",
-          "入口になるのは [11.11 グローバルセール セレクション](https://onelink.shein.com/58/66i60wu7xjjd) のページです。下の19アイテムは、写真とカードからキャンペーン内の各商品ページが開きます。",
+          "2026年の SHEIN 11.11 キャンペーンは、11月9日12:00から始まった最終段階も11月16日12:00で終わりました。Cecíliaはキャンペーン中にこのセレクションを作り、表のショップ評価はそのときに確認したものです。",
+          "このセレクションは今も二通りに使えます。今日 SHEIN で探す商品リストとして、そして11月のキャンペーンと比べる目安として。各アイテムの写真とカードは SHEIN の商品ページにつながり、現在の価格とサイズ表はそこで確認できます。11月の動きは [SHEIN のブラックフライデー](/ja/reviews/shein-black-friday-ja) のガイドをご覧ください。",
           "4CW5Y は SHEIN の紹介コードで、割引が受けられます。Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索すると、商品・プロモーション・割引のセレクションのページが開きます。割引額と対象アイテムは SHEIN が決めます。クーポンではないので、チェックアウトには貼り付けません。手順は [SHEIN の紹介コード：4CW5Y の使い方](/ja/reviews/shein-referral-code-ja) をご覧ください。"
         ]
       },
@@ -160959,7 +161168,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "19アイテムと、このセレクションの作成時に確認したショップの評価を表にまとめました。現在の価格や割引の有無は、各商品ページで確認してください。"
+          "表には19アイテムと、このセレクションの作成時に確認したショップの評価をまとめました。価格や割引はキャンペーン中もその後も変わっているので、現在の価格は各商品ページで確認してください。"
         ]
       },
       {
@@ -161635,7 +161844,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "買う前に",
         "bullets": [
-          "**価格や特典は変わることがあります：** 注文前に、商品ページで価格と割引の有無を確認してください。",
+          "**キャンペーンは終了しました：** 11.11の価格や割引はもう適用されません。注文前に、商品ページで現在の価格と割引の有無を確認してください。",
           "**サイズ：** 2つのサイズで迷っている場合は、選ぶ前に商品ページのサイズ表を確認してください。サイズ感はアイテムごとに違います。",
           "**4CW5Y は割引が受けられる紹介コードで、クーポンではありません：** Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索してください。チェックアウトには貼り付けません。割引額と対象アイテムは SHEIN が決めます。[SHEIN の紹介コード](/ja/reviews/shein-referral-code-ja) と、ショップのメインリンクを載せた [SHEIN のページ](/ja/coupons/shein) をご覧ください。",
           "**ブラックフライデーまで待ちますか？** [SHEIN のブラックフライデー](/ja/reviews/shein-black-friday-ja) のガイドに、11月のキャンペーンについて、これまでにわかっていることをまとめています。",
@@ -161643,23 +161852,41 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "キャンペーンのあとも、このセレクションは使えますか？",
+        "paragraphs": [
+          "買い物リストとしては使えます。セール情報としては使えません。11.11の価格はキャンペーン中のものでした。気に入ったアイテムのページを開いて現在の価格とサイズ表を確認し、そこから決めてください。11月を待つなら、リストを手元に置いてブラックフライデーのガイドと見比べてみてください。"
+        ],
+        "emphasis": "私はこのセレクションを、割引の約束ではなく、よく選んだアイテムのリストとして見ます。11.11は終わっていて、今大事なのは各アイテムのページが今日示している内容です。"
+      },
+      {
         "heading": "よくある質問",
         "bullets": [
-          "SHEIN の11.11はいつまでですか？ SHEIN によると、11月16日12:00までです。日付は上の「まずは結論」にあります。",
+          "SHEIN の11.11はまだ続いていますか？ いいえ。2026年のキャンペーンは終了しました。最終段階は11月16日12:00まででした。現在の特典は SHEIN で確認してください。",
           "価格や割引は変わりますか？ はい。注文前に、商品ページで価格と割引の有無を確認してください。",
           "4CW5Y はクーポンですか？ いいえ、ただし割引は受けられます。SHEIN の紹介コードで、Cecíliaのリンクから SHEIN を開き、アプリかサイトでコードを検索するとプロモーションと割引のセレクションに進めます。チェックアウトには貼り付けません。",
-          "リンクは商品に直接飛びますか？ はい。各アイテムの写真とカードは11.11キャンペーン内のその商品ページを開き、キャンペーンのリンクはグローバルセール セレクションのページを開きます。"
+          "リンクは商品に直接飛びますか？ はい。各アイテムの写真とカードは SHEIN のその商品ページを開き、現在の価格とサイズ表を確認できます。"
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23",
+    "decision": {
+      "takeIf": [
+        "今日 SHEIN で探す、パジャマからメンズシャツまでの19アイテムのリストが欲しい。",
+        "ブラックフライデーを待つつもりで、比べるための短いリストが欲しい。"
+      ],
+      "skipIf": [
+        "11.11の特価を探している。キャンペーンは終了しました。",
+        "着用感をすぐ知りたい。サイズ感はアイテムごとに違うので、各ページのサイズ表が基準になります。"
+      ]
+    }
   },
   {
     "id": 647,
     "slug": "shein-11-11-picks-ko",
     "locale": "ko",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: Cecília가 고른 19가지, 잠옷부터 액세서리까지",
-    "seoTitle": "SHEIN 11.11 2026: 스토어 평점과 함께 보는 19가지 추천",
+    "title": "SHEIN 11.11: Cecília가 고른 19가지, 잠옷부터 액세서리까지 (캠페인 종료)",
+    "seoTitle": "SHEIN 11.11 2026: 캠페인 뒤에 보는 Cecília의 19가지",
     "type": "가이드 & 쿠폰",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -161675,8 +161902,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília가 SHEIN에서 고른 19가지입니다. 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹으로 나누고, 상품별 스토어 평점과 사이즈, 바로 가는 링크를 담았습니다.",
-    "metaDescription": "SHEIN 11.11: Cecília가 고른 19가지와 스토어 평점, 상품 링크. 추천 코드 4CW5Y로 프로모션과 할인이 있는 셀렉션을 열 수 있습니다.",
+    "description": "SHEIN 11.11 캠페인은 끝났지만, Cecília가 고른 19가지는 확인용 목록으로 쓸 수 있습니다. 잠옷, 아동, 여성, 액세서리, 남성으로 나누고 스토어 평점과 상품 링크를 담았습니다.",
+    "metaDescription": "SHEIN 11.11은 종료되었습니다. Cecília가 고른 19가지와 스토어 평점, 상품 링크. 추천 코드 4CW5Y로 프로모션과 할인이 있는 셀렉션을 열 수 있습니다.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-ko-v2.webp",
     "imageAlt": "민소매 상의와 와이드 팬츠로 구성된 블루 스트라이프 세트를 신발과 함께 테이블에 놓은 SHEIN 카탈로그 이미지. SHEIN 로고, “11.11 Cecília의 선택”, 추천 코드 4CW5Y가 표시되어 있다.",
     "imageFit": "contain",
@@ -161684,7 +161911,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "SHEIN에서 현재 혜택을 확인하세요. 주문하기 전에 고른 상품의 가격과 사이즈표를 확인하세요.",
+      "text": "SHEIN 11.11 캠페인은 2026년 11월 12일에 끝났습니다. SHEIN에서 현재 혜택을 확인하고, 주문하기 전에 각 상품 페이지에서 가격과 사이즈표를 확인하세요.",
       "label": "SHEIN에서 셀렉션 보기",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -161707,14 +161934,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "Cecília는 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지를 골랐습니다. 4CW5Y를 쓰면 할인을 받을 수 있습니다: Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션이 있는 셀렉션으로 이동합니다(할인 폭과 대상 상품은 SHEIN이 정합니다)."
+          "SHEIN 11.11 캠페인은 11월 12일에 끝났습니다. Cecília가 고른 19가지는 오늘의 가격을 확인하거나 블랙 프라이데이 가이드와 비교하는 목록으로 남겨 두었습니다. 4CW5Y를 쓰면 할인을 받을 수 있습니다: Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요(할인 폭과 대상 상품은 SHEIN이 정합니다)."
         ]
       },
       {
         "heading": "11.11 캠페인",
         "paragraphs": [
-          "11.11 셀렉션에는 Cecília가 고른 상품 19가지가 담겨 있습니다. 구매할 때 SHEIN에 표시되는 캠페인의 기간과 혜택을 확인하세요.",
-          "진입 페이지는 [11.11 글로벌 세일 셀렉션](https://onelink.shein.com/58/66i60wu7xjjd)입니다. 아래 19가지는 사진과 카드를 누르면 캠페인 안의 각 상품 페이지가 열립니다.",
+          "2026년 SHEIN 11.11 캠페인은 11월 12일에 끝났습니다. Cecília는 캠페인이 진행되는 동안 이 셀렉션을 만들었고, 표의 스토어 평점은 그때 확인한 값입니다.",
+          "이 셀렉션은 두 가지로 여전히 쓸모가 있습니다. 오늘 SHEIN에서 찾아볼 상품 목록으로, 그리고 11월 캠페인과 비교하는 기준으로요. 각 상품의 사진과 카드는 SHEIN의 상품 페이지로 연결되며, 거기서 현재 가격과 사이즈표를 볼 수 있습니다. 11월 캠페인은 [SHEIN 블랙 프라이데이](/ko/reviews/shein-black-friday-ko) 가이드를 참고하세요.",
           "4CW5Y는 SHEIN의 추천 코드이며 할인을 받을 수 있습니다. Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 상품, 프로모션, 할인이 담긴 셀렉션 페이지가 열립니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. 쿠폰이 아니므로 결제 화면에는 붙여 넣지 않습니다. 사용 방법은 [SHEIN 추천 코드: 4CW5Y 사용법](/ko/reviews/shein-referral-code-ko)에 있습니다."
         ]
       },
@@ -161805,7 +162032,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "표에는 상품 19가지와 이 셀렉션을 위해 확인한 스토어 평점을 모았습니다. 현재 가격과 할인 여부는 각 상품 페이지에서 확인하세요."
+          "표에는 상품 19가지와 이 셀렉션을 위해 확인한 스토어 평점을 모았습니다. 가격과 할인은 캠페인 중에도, 그 뒤로도 바뀌었으니 현재 가격은 각 상품 페이지에서 확인하세요."
         ]
       },
       {
@@ -162481,7 +162708,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "구매 전에 확인할 것",
         "bullets": [
-          "**가격과 혜택은 바뀔 수 있습니다:** 주문하기 전에 상품 페이지에서 가격과 할인 여부를 확인하세요.",
+          "**캠페인이 끝났습니다:** 11.11의 가격과 할인은 더 이상 적용되지 않습니다. 주문하기 전에 상품 페이지에서 현재 가격과 할인 여부를 확인하세요.",
           "**사이즈:** 두 사이즈 사이에서 고민된다면, 고르기 전에 상품 페이지의 사이즈표를 확인하세요. 사이즈 구성은 상품마다 다릅니다.",
           "**4CW5Y는 할인을 받을 수 있는 추천 코드이며 쿠폰은 아닙니다:** Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하세요. 결제 화면에는 붙여 넣지 않습니다. 할인 폭과 대상 상품은 SHEIN이 정합니다. [SHEIN 추천 코드](/ko/reviews/shein-referral-code-ko)와 스토어의 대표 링크가 있는 [SHEIN 페이지](/ko/coupons/shein)를 보세요.",
           "**블랙 프라이데이를 기다리시나요?** [SHEIN 블랙 프라이데이](/ko/reviews/shein-black-friday-ko) 가이드에 11월 캠페인에 대해 지금까지 알려진 내용을 정리했습니다.",
@@ -162489,23 +162716,41 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "캠페인이 끝난 뒤에도 이 셀렉션을 쓸 만할까요?",
+        "paragraphs": [
+          "쇼핑 목록으로는 그렇습니다. 할인 정보로는 아닙니다. 11.11의 가격은 캠페인 때의 것이었습니다. 마음에 드는 상품의 페이지를 열어 현재 가격과 사이즈표를 확인한 뒤 결정하세요. 11월을 기다릴 생각이라면 목록을 두고 블랙 프라이데이 가이드와 비교해 보세요."
+        ],
+        "emphasis": "저는 이 셀렉션을 할인 약속이 아니라 괜찮은 상품 목록으로 보겠습니다. 11.11은 끝났고, 지금 중요한 것은 각 상품 페이지가 오늘 보여 주는 내용입니다."
+      },
+      {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "SHEIN 11.11은 언제 끝나나요? SHEIN에 접속했을 때 표시되는 캠페인의 종료일을 확인하세요.",
+          "SHEIN 11.11은 아직 진행 중인가요? 아니요. 2026년 캠페인은 11월 12일에 끝났습니다. 현재 혜택은 SHEIN에서 확인하세요.",
           "가격과 할인율이 바뀔 수 있나요? 네. 주문하기 전에 상품 페이지에서 가격과 할인 여부를 확인하세요.",
           "4CW5Y는 쿠폰인가요? 아니요, 하지만 할인은 받을 수 있습니다. SHEIN의 추천 코드로, Cecília의 링크로 SHEIN을 열고 앱이나 사이트에서 코드를 검색하면 프로모션과 할인이 있는 셀렉션으로 이동하며 결제 화면에는 붙여 넣지 않습니다.",
-          "링크를 누르면 바로 그 상품으로 가나요? 네. 각 상품의 사진과 카드는 11.11 캠페인 안에서 그 상품의 페이지를 열고, 캠페인 링크는 글로벌 세일 셀렉션 페이지를 엽니다."
+          "링크를 누르면 바로 그 상품으로 가나요? 네. 각 상품의 사진과 카드는 SHEIN의 해당 상품 페이지를 열고, 거기서 현재 가격과 사이즈표를 볼 수 있습니다."
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23",
+    "decision": {
+      "takeIf": [
+        "오늘 SHEIN에서 찾아볼 잠옷부터 남성 셔츠까지 19가지 목록이 필요합니다.",
+        "블랙 프라이데이를 기다릴 생각이고, 비교할 짧은 목록을 찾습니다."
+      ],
+      "skipIf": [
+        "11.11 특가를 찾고 있습니다. 캠페인은 11월 12일에 끝났습니다.",
+        "사이즈가 맞는지 바로 알고 싶습니다. 상품마다 사이즈 구성이 다르니 각 페이지의 사이즈표가 기준입니다."
+      ]
+    }
   },
   {
     "id": 648,
     "slug": "shein-11-11-picks-zh-hans",
     "locale": "zh-hans",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11：Cecília 挑的 19 件好物，从睡衣到配饰",
-    "seoTitle": "SHEIN 11.11 2026：19 件好物，附店铺评分",
+    "title": "SHEIN 11.11：Cecília 挑的 19 件好物，从睡衣到配饰（活动已结束）",
+    "seoTitle": "SHEIN 11.11 2026：活动结束后的 19 件精选",
     "type": "指南与优惠码",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -162521,8 +162766,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília 挑选的 19 件 SHEIN 商品，分为睡衣、童装、女装、配饰和男装 5 组，附店铺评分、尺码信息和商品直达链接。",
-    "metaDescription": "SHEIN 11.11：Cecília 挑选的 19 件商品，附店铺评分和链接。搜索推荐码 4CW5Y，可进入有促销和折扣的精选页面。",
+    "description": "SHEIN 11.11 大促已经结束，但 Cecília 挑的 19 件商品仍可当作查价清单：睡衣、童装、女装、配饰和男装 5 组，附店铺评分和商品链接。",
+    "metaDescription": "SHEIN 11.11 已结束：Cecília 挑选的 19 件商品，附店铺评分和链接。搜索推荐码 4CW5Y，可进入有促销和折扣的精选页面。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-zh-hans-v2.webp",
     "imageAlt": "SHEIN商品目录图中，蓝色条纹无袖上衣与阔腿裤和鞋摆放在桌上，配有SHEIN标志、“11.11 Cecília精选”和推荐码4CW5Y。",
     "imageFit": "contain",
@@ -162530,7 +162775,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "打开 SHEIN 查看当前优惠。下单前，请在所选商品的页面核对价格和尺码表。",
+      "text": "SHEIN 11.11 大促已于 2026 年 11 月 12 日结束。打开 SHEIN 查看当前优惠；下单前，请在每件商品的页面核对价格和尺码表。",
       "label": "去 SHEIN 看这份精选",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -162553,14 +162798,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Cecília 挑了 19 件，分 5 组：睡衣、童装、女装、配饰和男装，价格和折扣因商品而异。用 4CW5Y 确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，就能进入带促销的精选（折扣多少、哪些商品，由 SHEIN 决定）。"
+          "SHEIN 11.11 大促已于 11 月 12 日结束。Cecília 挑的 19 件商品留作清单，可以用来查今天的价格，也可以和黑五指南对照。用 4CW5Y 确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码（折扣多少、哪些商品，由 SHEIN 决定）。"
         ]
       },
       {
         "heading": "11.11 大促",
         "paragraphs": [
-          "这份 11.11 精选收录了 Cecília 挑选的 19 件商品。购买时，请以 SHEIN 页面显示的活动时间和优惠为准。",
-          "入口页是[11.11 全球热卖精选](https://onelink.shein.com/58/66i60wu7xjjd)。下面的 19 件，点图片和卡片都会在活动里打开各自的商品页。",
+          "2026 年的 SHEIN 11.11 大促已于 11 月 12 日结束。Cecília 是在活动期间整理这份精选的，表里的店铺评分是当时记录的。",
+          "这份精选现在还有两种用法：当作清单，到 SHEIN 查今天的价格；或者作为参照，和 11 月的活动对比。每件商品的图片和卡片都会打开它在 SHEIN 的页面，当前价格和尺码表就在那里。11 月的活动见[SHEIN 黑色星期五](/zh-hans/reviews/shein-black-friday-zh-hans)指南。",
           "4CW5Y 是 SHEIN 的推荐码，确实有折扣：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，会打开一个包含精选商品、促销和折扣的页面。折扣多少、哪些商品，由 SHEIN 决定。它不是优惠券，不粘贴到结算页。步骤见[SHEIN 推荐码：如何使用 4CW5Y](/zh-hans/reviews/shein-referral-code-zh-hans)。"
         ]
       },
@@ -162651,7 +162896,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "表格汇总了 19 件商品，以及整理这份精选时查看的店铺评分。当前价格和是否有折扣，请到各商品页确认。"
+          "表格汇总了 19 件商品，以及整理这份精选时查看的店铺评分。价格和折扣在活动期间就在变，之后也一直在变，当前价格请到各商品页确认。"
         ]
       },
       {
@@ -163327,7 +163572,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "下单前",
         "bullets": [
-          "**价格和优惠可能变化：** 下单前，请在商品页确认价格和是否有折扣。",
+          "**活动已结束：** 11.11 的价格和折扣不再适用。下单前，请在商品页确认当前价格和是否有折扣。",
           "**尺码：**如果你在两个码之间犹豫，选之前先看商品页的尺码表，因为每件的尺码都不一样。",
           "**4CW5Y 是推荐码，确实有折扣，但不是优惠券：**通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索这个码，不粘贴到结算页。折扣多少、哪些商品，由 SHEIN 决定。见[SHEIN 推荐码](/zh-hans/reviews/shein-referral-code-zh-hans)和带商店主链接的[SHEIN 店铺页面](/zh-hans/coupons/shein)。",
           "**想等黑五？**[SHEIN 黑色星期五](/zh-hans/reviews/shein-black-friday-zh-hans)指南整理了 11 月活动目前已知的信息。",
@@ -163335,23 +163580,41 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "活动结束后，这份精选还值得用吗？",
+        "paragraphs": [
+          "当购物清单用，值得。当优惠信息用，不行：11.11 的价格属于那次活动。点开你喜欢的那件，看当前价格和尺码表，再做决定。打算等 11 月的话，先留着这份清单，再和黑五指南对照。"
+        ],
+        "emphasis": "我会把这份精选当成一份不错的商品清单，而不是折扣承诺：11.11 已经结束，现在算数的是每件商品页面今天显示的内容。"
+      },
+      {
         "heading": "常见问题",
         "bullets": [
-          "SHEIN 11.11 什么时候结束？请查看打开 SHEIN 时页面显示的活动截止日期。",
+          "SHEIN 11.11 还在进行吗？没有。2026 年的活动已于 11 月 12 日结束。当前优惠请到 SHEIN 查看。",
           "价格和折扣会变吗？会。下单前，请在商品页确认价格和是否有折扣。",
           "4CW5Y 是优惠券吗？不是，但确实有折扣。它是 SHEIN 的推荐码：通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索，就能进入带促销和折扣的精选，不粘贴到结算页。",
-          "链接直接到商品吗？是。每件商品的图片和卡片都在 11.11 活动里打开该商品的页面，活动链接打开的是全球热卖精选页面。"
+          "链接直接到商品吗？是。每件商品的图片和卡片都会打开它在 SHEIN 的页面，可以在那里看当前价格和尺码表。"
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23",
+    "decision": {
+      "takeIf": [
+        "你想要一份现成的 19 件清单，从睡衣到男士衬衫，今天去 SHEIN 逐件查看。",
+        "你打算等黑五，想先有一份用来对比的短清单。"
+      ],
+      "skipIf": [
+        "你在找 11.11 的特价：活动已于 11 月 12 日结束。",
+        "你想马上知道合不合身：以每件商品页的尺码表为准，因为每件的尺码都不一样。"
+      ]
+    }
   },
   {
     "id": 649,
     "slug": "shein-11-11-picks-zh-hant",
     "locale": "zh-hant",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11：Cecília 挑的 19 件好物，從睡衣到配件",
-    "seoTitle": "SHEIN 11.11 2026：19 件好物，附店家評分",
+    "title": "SHEIN 11.11：Cecília 挑的 19 件好物，從睡衣到配件（活動已結束）",
+    "seoTitle": "SHEIN 11.11 2026：活動結束後的 19 件精選",
     "type": "指南與優惠碼",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -163367,8 +163630,8 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília 挑選的 19 件 SHEIN 商品，分為睡衣、童裝、女裝、配件和男裝 5 組，附店家評分、尺寸資訊和商品直達連結。",
-    "metaDescription": "SHEIN 11.11：Cecília 挑選的 19 件商品，附店家評分和連結。搜尋推薦碼 4CW5Y，可進入有促銷和折扣的精選頁面。",
+    "description": "SHEIN 11.11 大促已經結束，但 Cecília 挑的 19 件商品仍可當作查價清單：睡衣、童裝、女裝、配件和男裝 5 組，附店家評分和商品連結。",
+    "metaDescription": "SHEIN 11.11 已結束：Cecília 挑選的 19 件商品，附店家評分和連結。搜尋推薦碼 4CW5Y，可進入有促銷和折扣的精選頁面。",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-zh-hant-v2.webp",
     "imageAlt": "SHEIN商品目錄圖中，藍色條紋無袖上衣與寬褲和鞋擺放在桌上，配有SHEIN標誌、「11.11 Cecília精選」和推薦碼4CW5Y。",
     "imageFit": "contain",
@@ -163376,7 +163639,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "開啟 SHEIN 查看目前優惠。下單前，請在所選商品的頁面核對價格和尺寸表。",
+      "text": "SHEIN 11.11 大促已於 2026 年 11 月 12 日結束。開啟 SHEIN 查看目前優惠；下單前，請在每件商品的頁面核對價格和尺寸表。",
       "label": "到 SHEIN 看這份精選",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -163399,14 +163662,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝，價格和折扣因商品而異。用 4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，就能進入帶促銷的精選（折扣多少、哪些商品，由 SHEIN 決定）。"
+          "SHEIN 11.11 大促已於 11 月 12 日結束。Cecília 挑的 19 件商品留作清單，可以用來查今天的價格，也可以和黑五指南對照。用 4CW5Y 確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼（折扣多少、哪些商品，由 SHEIN 決定）。"
         ]
       },
       {
         "heading": "11.11 大促",
         "paragraphs": [
-          "這份 11.11 精選收錄了 Cecília 挑選的 19 件商品。購買時，請以 SHEIN 頁面顯示的活動時間和優惠為準。",
-          "入口頁是[11.11 全球熱銷精選](https://onelink.shein.com/58/66i60wu7xjjd)。下面的 19 件，點圖片和卡片都會在活動裡開啟各自的商品頁。",
+          "2026 年的 SHEIN 11.11 大促已於 11 月 12 日結束。Cecília 是在活動期間整理這份精選的，表裡的店家評分是當時記錄的。",
+          "這份精選現在還有兩種用法：當作清單，到 SHEIN 查今天的價格；或者作為參照，和 11 月的活動對比。每件商品的圖片和卡片都會開啟它在 SHEIN 的頁面，目前價格和尺寸表就在那裡。11 月的活動見[SHEIN 黑色星期五](/zh-hant/reviews/shein-black-friday-zh-hant)指南。",
           "4CW5Y 是 SHEIN 的推薦碼，確實有折扣：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，會開啟一個包含精選商品、促銷和折扣的頁面。折扣多少、哪些商品，由 SHEIN 決定。它不是優惠券，不貼到結帳頁。步驟見[SHEIN 推薦碼：如何使用 4CW5Y](/zh-hant/reviews/shein-referral-code-zh-hant)。"
         ]
       },
@@ -163497,7 +163760,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "表格彙整了 19 件商品，以及整理這份精選時查看的店家評分。目前價格和是否有折扣，請到各商品頁確認。"
+          "表格彙整了 19 件商品，以及整理這份精選時查看的店家評分。價格和折扣在活動期間就在變，之後也一直在變，目前價格請到各商品頁確認。"
         ]
       },
       {
@@ -164173,7 +164436,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "下單前",
         "bullets": [
-          "**價格和優惠可能變動：** 下單前，請在商品頁確認價格和是否有折扣。",
+          "**活動已結束：** 11.11 的價格和折扣不再適用。下單前，請在商品頁確認目前價格和是否有折扣。",
           "**尺寸：**如果你在兩個尺寸之間猶豫，選之前先看商品頁的尺寸表，因為每件的尺寸都不一樣。",
           "**4CW5Y 是推薦碼，確實有折扣，但不是優惠券：**透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋這個碼，不貼到結帳頁。折扣多少、哪些商品，由 SHEIN 決定。見[SHEIN 推薦碼](/zh-hant/reviews/shein-referral-code-zh-hant)和附商店主連結的[SHEIN 商店頁面](/zh-hant/coupons/shein)。",
           "**想等黑五？**[SHEIN 黑色星期五](/zh-hant/reviews/shein-black-friday-zh-hant)指南整理了 11 月活動目前已知的資訊。",
@@ -164181,15 +164444,33 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "活動結束後，這份精選還值得用嗎？",
+        "paragraphs": [
+          "當購物清單用，值得。當優惠資訊用，不行：11.11 的價格屬於那次活動。點開你喜歡的那件，看目前價格和尺寸表，再做決定。打算等 11 月的話，先留著這份清單，再和黑五指南對照。"
+        ],
+        "emphasis": "我會把這份精選當成一份不錯的商品清單，而不是折扣承諾：11.11 已經結束，現在算數的是每件商品頁面今天顯示的內容。"
+      },
+      {
         "heading": "常見問題",
         "bullets": [
-          "SHEIN 11.11 什麼時候結束？請查看開啟 SHEIN 時頁面顯示的活動截止日期。",
+          "SHEIN 11.11 還在進行嗎？沒有。2026 年的活動已於 11 月 12 日結束。目前優惠請到 SHEIN 查看。",
           "價格和折扣會變嗎？會。下單前，請在商品頁確認價格和是否有折扣。",
           "4CW5Y 是優惠券嗎？不是，但確實有折扣。它是 SHEIN 的推薦碼：透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋，就能進入帶促銷和折扣的精選，不貼到結帳頁。",
-          "連結直接到商品嗎？是。每件商品的圖片和卡片都在 11.11 活動裡開啟該商品的頁面，活動連結開啟的是全球熱銷精選頁面。"
+          "連結直接到商品嗎？是。每件商品的圖片和卡片都會開啟它在 SHEIN 的頁面，可以在那裡看目前價格和尺寸表。"
         ]
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23",
+    "decision": {
+      "takeIf": [
+        "你想要一份現成的 19 件清單，從睡衣到男士襯衫，今天去 SHEIN 逐件查看。",
+        "你打算等黑五，想先有一份用來對比的短清單。"
+      ],
+      "skipIf": [
+        "你在找 11.11 的特價：活動已於 11 月 12 日結束。",
+        "你想馬上知道合不合身：以每件商品頁的尺寸表為準，因為每件的尺寸都不一樣。"
+      ]
+    }
   },
   {
     "id": 650,
@@ -190693,7 +190974,7 @@ export const reviewsData: unknown[] = [
     "locale": "pt",
     "translationKey": "shein-vestido-festa",
     "title": "Vestido de festa na SHEIN: como escolher pela ocasião, pelo tecido e pelo prazo",
-    "seoTitle": "Vestido de festa SHEIN: como escolher para Natal, Réveillon e formatura",
+    "seoTitle": "Vestido de festa SHEIN: tecido, tamanho e prazo",
     "type": "Guia de Compra",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -190715,16 +190996,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Modelo adulta em imagem do anúncio SHEIN usando vestido de festa ADYCE azul-marinho com cauda, diante de espelho, ao lado do código de indicação 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Três vestidos com preço, envio e tecido da página de cada produto",
-      "Guia de tamanho em centímetros para cada peça",
-      "Devolução em 20 dias, com a primeira de cada pedido grátis"
-    ],
-    "cons": [
-      "Pedido internacional acima de US$ 50 paga imposto de importação; o ICMS vale em toda compra internacional.",
-      "A entrega precisa caber na data da festa",
-      "O preço de promoção muda"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Busque o vestido pelo nome na SHEIN e confira o prazo na página do pedido antes de pagar.",
       "label": "Ir para a SHEIN",
@@ -190737,6 +191010,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "shein-e-confiavel"
+      },
+      {
+        "slug": "tamanho-shein-brasil"
+      },
+      {
+        "slug": "shein-vale-a-pena"
+      },
+      {
+        "slug": "black-friday-shein"
       }
     ],
     "contentSections": [
@@ -190858,7 +191140,7 @@ export const reviewsData: unknown[] = [
             [
               "[Vestido longo Firerie, um ombro, tule (azul empoeirado)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
               "R$ 153,99",
-              "Internacional, frete grátis. Previsão de 7 a 17 de novembro.",
+              "Internacional, frete grátis. Previsão na consulta: de 8 a 18 dias.",
               "95% poliéster e 5% elastano. Forrado, não transparente, maxi.",
               "Casamento, pela loja. Nota 4,84, com mais de 1.000 comentários."
             ],
@@ -190872,7 +191154,7 @@ export const reviewsData: unknown[] = [
             [
               "[Vestido longo ADYCE, lantejoulas, ombro a ombro, fenda (azul-marinho)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
               "R$ 303,12 (em promoção)",
-              "Internacional, frete grátis. Previsão de 7 a 17 de novembro.",
+              "Internacional, frete grátis. Previsão na consulta: de 8 a 18 dias.",
               "95% poliéster e 5% elastano. Forrado, não transparente, longo, com fenda.",
               "Festa, formal e noturno, pela loja. Nota 4,89, com mais de 1.000 comentários."
             ]
@@ -191045,7 +191327,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.7506,
             "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "emphasis": "Se fosse para mim, escolheria o vestido pela data da festa antes de escolher pela cor. Um vestido lindo que chega na véspera não deixa tempo para provar, ajustar a barra ou trocar o tamanho."
       },
       {
         "heading": "Perguntas frequentes",
@@ -191074,7 +191357,7 @@ export const reviewsData: unknown[] = [
     "locale": "en",
     "translationKey": "shein-vestido-festa",
     "title": "Party dress on SHEIN: how to choose by occasion, fabric and delivery time",
-    "seoTitle": "SHEIN party dress: how to choose for Christmas, New Year's Eve and graduation",
+    "seoTitle": "SHEIN party dress: fabric, size and delivery timing",
     "type": "Buying Guide",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -191097,14 +191380,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Adult model in a SHEIN product listing wearing a navy-blue ADYCE evening gown with a train in front of a mirror, beside referral code 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Three dresses with fabric, lining and rating from each product page",
-      "Size guide in centimeters for each piece"
-    ],
-    "cons": [
-      "Delivery has to arrive before the party date",
-      "Promotional prices change"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Search for the dress by name on SHEIN and check the delivery estimate on the order page before you pay.",
       "label": "Go to SHEIN",
@@ -191117,6 +191394,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "is-shein-legit-and-safe"
+      },
+      {
+        "slug": "shein-size-guide"
+      },
+      {
+        "slug": "is-shein-worth-it"
+      },
+      {
+        "slug": "shein-black-friday-dates-taxes"
       }
     ],
     "contentSections": [
@@ -191409,7 +191695,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.7506,
             "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "emphasis": "If it were me, I would pick the dress by the party date before the color. A lovely dress that arrives the day before leaves no time to try it on, hem it or swap the size."
       },
       {
         "heading": "Frequently asked questions",
@@ -191437,7 +191724,7 @@ export const reviewsData: unknown[] = [
     "locale": "es",
     "translationKey": "shein-vestido-festa",
     "title": "Vestido de fiesta en SHEIN: cómo elegir según la ocasión, la tela y el plazo",
-    "seoTitle": "Vestido de fiesta SHEIN: cómo elegir para Navidad, Nochevieja y graduación",
+    "seoTitle": "Vestido de fiesta SHEIN: tela, talla y plazo",
     "type": "Guía de compra",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -191460,14 +191747,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Modelo adulta en una imagen del anuncio de SHEIN, con un vestido de fiesta ADYCE azul marino con cola frente a un espejo, junto al código de referido 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Tres vestidos con tela, forro y valoración de la página de cada producto",
-      "Guía de tallas en centímetros para cada prenda"
-    ],
-    "cons": [
-      "La entrega tiene que llegar antes de la fecha de la fiesta",
-      "El precio de oferta cambia"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Busque el vestido por su nombre en SHEIN y revise el plazo en la página del pedido antes de pagar.",
       "label": "Ir a SHEIN",
@@ -191480,6 +191761,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "shein-es-confiable-y-seguro"
+      },
+      {
+        "slug": "tallas-shein"
+      },
+      {
+        "slug": "vale-la-pena-shein"
+      },
+      {
+        "slug": "black-friday-shein-fechas-impuestos"
       }
     ],
     "contentSections": [
@@ -191772,7 +192062,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.7506,
             "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "emphasis": "Si fuera para mí, elegiría el vestido primero por la fecha de la fiesta y después por el color. Un vestido precioso que llega la víspera no deja tiempo para probarlo, arreglar el largo o cambiar de talla."
       },
       {
         "heading": "Preguntas frecuentes",
@@ -191800,7 +192091,7 @@ export const reviewsData: unknown[] = [
     "locale": "fr",
     "translationKey": "shein-vestido-festa",
     "title": "Robe de soirée sur SHEIN : comment choisir selon l'occasion, le tissu et le délai",
-    "seoTitle": "Robe de soirée SHEIN : comment choisir pour Noël, le réveillon et la remise de diplôme",
+    "seoTitle": "Robe de soirée SHEIN : tissu, taille et délai",
     "type": "Guide d'achat",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -191823,14 +192114,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Mannequin adulte sur une image de la fiche produit SHEIN, portant une robe de soirée ADYCE bleu marine avec une traîne devant un miroir, à côté du code de parrainage 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Trois robes avec tissu, doublure et note de la page de chaque produit",
-      "Guide des tailles en centimètres pour chaque pièce"
-    ],
-    "cons": [
-      "La livraison doit arriver avant la date de la fête",
-      "Le prix en promotion change"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Recherchez la robe par son nom sur SHEIN et vérifiez le délai sur la page de la commande avant de payer.",
       "label": "Aller sur SHEIN",
@@ -191843,6 +192128,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "shein-est-il-fiable-et-sur"
+      },
+      {
+        "slug": "tailles-shein"
+      },
+      {
+        "slug": "shein-ca-vaut-le-coup"
+      },
+      {
+        "slug": "black-friday-shein-dates-et-taxes"
       }
     ],
     "contentSections": [
@@ -192135,7 +192429,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.7506,
             "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "emphasis": "Si c'était pour moi, je choisirais la robe d'abord selon la date de la fête, puis selon la couleur. Une belle robe qui arrive la veille ne laisse pas le temps de l'essayer, de la faire raccourcir ou de changer de taille."
       },
       {
         "heading": "Questions fréquentes",
@@ -192163,7 +192458,7 @@ export const reviewsData: unknown[] = [
     "locale": "de",
     "translationKey": "shein-vestido-festa",
     "title": "Partykleid bei SHEIN: so wählen Sie nach Anlass, Stoff und Lieferzeit",
-    "seoTitle": "SHEIN-Partykleid: so wählen Sie für Weihnachten, Silvester und Abschlussfeier",
+    "seoTitle": "SHEIN-Partykleid: Stoff, Größe und Lieferzeit",
     "type": "Kaufratgeber",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -192186,14 +192481,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Erwachsenes Model auf einem SHEIN-Produktfoto in einem marineblauen ADYCE-Abendkleid mit Schleppe vor einem Spiegel, neben dem Empfehlungscode 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Drei Kleider mit Stoff, Futter und Bewertung von der Seite jedes Produkts",
-      "Größentabelle in Zentimetern für jedes Teil"
-    ],
-    "cons": [
-      "Die Lieferung muss vor dem Termin der Feier eintreffen",
-      "Der Aktionspreis ändert sich"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Suchen Sie das Kleid bei SHEIN nach seinem Namen und prüfen Sie die Lieferzeit auf der Bestellseite, bevor Sie bezahlen.",
       "label": "Zu SHEIN",
@@ -192206,6 +192495,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "ist-shein-serioes-und-sicher"
+      },
+      {
+        "slug": "shein-groessen"
+      },
+      {
+        "slug": "lohnt-sich-shein"
+      },
+      {
+        "slug": "shein-black-friday-termine-steuern"
       }
     ],
     "contentSections": [
@@ -192498,7 +192796,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.7506,
             "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "emphasis": "Wäre es meine Entscheidung, würde ich das Kleid zuerst nach dem Termin der Feier wählen und erst dann nach der Farbe. Ein schönes Kleid, das am Vortag ankommt, lässt keine Zeit zum Anprobieren, Kürzen oder Umtauschen der Größe."
       },
       {
         "heading": "Häufige Fragen",
@@ -192526,7 +192825,7 @@ export const reviewsData: unknown[] = [
     "locale": "it",
     "translationKey": "shein-vestido-festa",
     "title": "Abito da festa su SHEIN: come scegliere per occasione, tessuto e tempi di consegna",
-    "seoTitle": "Abito da festa SHEIN: come scegliere per Natale, Capodanno e laurea",
+    "seoTitle": "Abito da festa SHEIN: tessuto, taglia e consegna",
     "type": "Guida all'acquisto",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -192549,14 +192848,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Modella adulta in una foto della scheda prodotto SHEIN, con un abito da sera ADYCE blu navy con strascico davanti a uno specchio, accanto al codice invito 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Tre abiti con tessuto, fodera e valutazione dalla pagina di ogni prodotto",
-      "Guida alle taglie in centimetri per ogni capo"
-    ],
-    "cons": [
-      "La consegna deve arrivare prima della data della festa",
-      "Il prezzo in offerta cambia"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "Cercate l'abito per nome su SHEIN e controllate i tempi di consegna nella pagina dell'ordine prima di pagare.",
       "label": "Vai su SHEIN",
@@ -192569,6 +192862,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "shein-e-affidabile-e-sicuro"
+      },
+      {
+        "slug": "taglie-shein"
+      },
+      {
+        "slug": "shein-conviene"
+      },
+      {
+        "slug": "black-friday-shein-date-e-tasse"
       }
     ],
     "contentSections": [
@@ -192861,7 +193163,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.7506,
             "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "emphasis": "Se fosse per me, sceglierei l'abito partendo dalla data della festa, prima del colore. Un abito bellissimo che arriva il giorno prima non lascia il tempo di provarlo, accorciarlo o cambiare taglia."
       },
       {
         "heading": "Domande frequenti",
@@ -192912,14 +193215,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "SHEIN 상품 등록 이미지에서 성인 모델이 거울 앞에 서서 트레인이 있는 남색 ADYCE 이브닝드레스를 입고 있으며, 옆에 추천 코드 4CW5Y가 표시되어 있습니다.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "각 상품 페이지의 소재, 안감, 평점이 있는 드레스 3벌",
-      "모든 상품에 센티미터 단위 사이즈 가이드 제공"
-    ],
-    "cons": [
-      "배송이 파티 날짜에 맞아야 함",
-      "할인 가격은 바뀜"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "SHEIN에서 이름으로 드레스를 검색하고, 결제 전에 주문 페이지에서 배송 예정일을 확인하세요.",
       "label": "SHEIN으로 이동",
@@ -192932,6 +193229,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-ko"
+      },
+      {
+        "slug": "shein-size-guide-ko"
+      },
+      {
+        "slug": "shein-worth-it-ko"
+      },
+      {
+        "slug": "shein-black-friday-ko"
       }
     ],
     "contentSections": [
@@ -193224,7 +193530,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.7506,
             "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "emphasis": "저라면 색보다 먼저 파티 날짜로 드레스를 고르겠습니다. 전날 도착하면 입어 보거나 기장을 줄이거나 사이즈를 바꿀 시간이 없습니다."
       },
       {
         "heading": "자주 묻는 질문",
@@ -193275,14 +193582,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "SHEINの商品掲載画像。鏡の前で裾を引くネイビーブルーのADYCEのパーティードレスを着た成人モデルと、紹介コード4CW5Y。",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "各商品ページの生地・裏地・評価つきのドレス3着",
-      "全商品にセンチ表記のサイズガイドあり"
-    ],
-    "cons": [
-      "配達がパーティーの日に間に合う必要がある",
-      "セール価格は変わる"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "SHEIN で名前からドレスを検索し、支払う前に注文ページでお届け予定日を確認してください。",
       "label": "SHEIN へ進む",
@@ -193295,6 +193596,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-ja"
+      },
+      {
+        "slug": "shein-size-guide-ja"
+      },
+      {
+        "slug": "shein-worth-it-ja"
+      },
+      {
+        "slug": "shein-black-friday-ja"
       }
     ],
     "contentSections": [
@@ -193587,7 +193897,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.7506,
             "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "emphasis": "私なら、色より先にパーティーの日程でドレスを選びます。前日に届いたドレスでは、試着も、丈直しも、サイズ交換もできません。"
       },
       {
         "heading": "よくある質問",
@@ -193638,14 +193949,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "SHEIN商品展示圖中的成年模特兒在鏡子前身穿帶拖尾的藏藍色ADYCE晚禮服，旁邊標有推薦碼4CW5Y。",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "三件洋裝，布料、內裡與評分取自各商品頁",
-      "每件商品都有以公分標示的尺寸指南"
-    ],
-    "cons": [
-      "到貨時間必須趕得上聚會日期",
-      "促銷價會變動"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "在 SHEIN 依名稱搜尋洋裝，付款前請在訂單頁面確認送達時間。",
       "label": "前往 SHEIN",
@@ -193658,6 +193963,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-zh-hant"
+      },
+      {
+        "slug": "shein-size-guide-zh-hant"
+      },
+      {
+        "slug": "shein-worth-it-zh-hant"
+      },
+      {
+        "slug": "shein-black-friday-zh-hant"
       }
     ],
     "contentSections": [
@@ -193950,7 +194264,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.7506,
             "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "emphasis": "如果是我，會先依聚會日期挑洋裝，再看顏色。前一天才到的洋裝，來不及試穿、修改長度，也來不及換尺寸。"
       },
       {
         "heading": "常見問題",
@@ -194001,14 +194316,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "SHEIN商品展示图中的成年模特在镜子前身穿带拖尾的藏蓝色ADYCE晚礼服，旁边标有推荐码4CW5Y。",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "三条裙子，面料、里衬和评分取自各商品页",
-      "每件都有以厘米标注的尺码指南"
-    ],
-    "cons": [
-      "到货时间必须赶得上聚会日期",
-      "促销价会变动"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "在 SHEIN 按名称搜索礼服，付款前请在订单页面确认送达时间。",
       "label": "前往 SHEIN",
@@ -194021,6 +194330,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-zh-hans"
+      },
+      {
+        "slug": "shein-size-guide-zh-hans"
+      },
+      {
+        "slug": "shein-worth-it-zh-hans"
+      },
+      {
+        "slug": "shein-black-friday-zh-hans"
       }
     ],
     "contentSections": [
@@ -194313,7 +194631,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.7506,
             "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "emphasis": "如果是我，会先按聚会日期挑裙子，再看颜色。前一天才到的裙子，来不及试穿、改长度，也来不及换尺码。"
       },
       {
         "heading": "常见问题",
@@ -202990,7 +203309,7 @@ export const reviewsData: unknown[] = [
     "locale": "fr",
     "translationKey": "shein-vale-a-pena",
     "title": "SHEIN vaut-il le coup ? Quand acheter et quand passer son tour",
-    "seoTitle": "SHEIN, ça vaut le coup ? Délais, retours et points à vérifier",
+    "seoTitle": "SHEIN, ça vaut le coup ? Délais, retours, points à vérifier",
     "type": "Guide d'achat",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -204082,7 +204401,7 @@ export const reviewsData: unknown[] = [
     "locale": "pt",
     "translationKey": "shein-tamanho",
     "title": "Tamanho na SHEIN: qual letra pedir, o tamanho brasileiro e como ler o guia de cada peça",
-    "seoTitle": "Tamanho SHEIN: qual pedir e o tamanho brasileiro de cada peça",
+    "seoTitle": "Tamanho SHEIN: qual letra pedir e guia em centímetros",
     "type": "Guia de Tamanho",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -204368,7 +204687,8 @@ export const reviewsData: unknown[] = [
           "O M da SHEIN é o M brasileiro? Depende da marca: o seletor \"BR Tamanho\" mostra a letra daqui ao lado da internacional, e o M internacional da DAZY aparece como PP, enquanto o da SHEIN Essnce segue M.",
           "Os tamanhos da SHEIN são pequenos? Não dá para responder pela letra: a página de cada peça mostra o tipo de ajuste, a elasticidade e a porcentagem de compradores que acharam fiel ao tamanho, e nas duas camisetas deste guia a maioria achou fiel; os números estão no capítulo \"O que mais a página mostra\".",
           "A SHEIN troca por outro tamanho? Não; a política tem devolução e reembolso, e o tamanho certo vem num pedido novo, como explica o capítulo da devolução.",
-          "Como medir o busto para a SHEIN? Com a fita na parte mais cheia do busto, reta nas costas e sem apertar; o capítulo de como medir traz a cintura e o quadril."
+          "Como medir o busto para a SHEIN? Com a fita na parte mais cheia do busto, reta nas costas e sem apertar; o capítulo de como medir traz a cintura e o quadril.",
+          "O 4CW5Y dá desconto na SHEIN? Sim: é código de indicação que abre uma seleção de produtos com promoções e descontos, pelo link ou pesquisado no aplicativo ou no site. Quanto e em quais peças, a SHEIN decide; não é cupom."
         ]
       }
     ],
@@ -204640,7 +204960,8 @@ export const reviewsData: unknown[] = [
           "What is my size at SHEIN? Whatever the piece's size guide gives for your measurement in centimeters; the letter changes from brand to brand, as the two T-shirts in the first section show.",
           "Are SHEIN sizes small? You can't answer by the letter: each piece's page shows the fit type, the stretch and the percentage of buyers who found it true to size, and for the two T-shirts in this guide most found it true to size; the numbers are in the section “What else the page shows”.",
           "Does SHEIN exchange for another size? It depends on the country: the return and exchange policy for each one is in SHEIN's help center.",
-          "How do I measure my bust for SHEIN? With the tape at the fullest part of the bust, level across the back and not pulling; the section on how to measure also covers the waist and hips."
+          "How do I measure my bust for SHEIN? With the tape at the fullest part of the bust, level across the back and not pulling; the section on how to measure also covers the waist and hips.",
+          "Does the 4CW5Y give a discount at SHEIN? Yes: it's a referral code. Open SHEIN through Cecília's link and search it in the app or on the site: it opens a selection of products with promotions and discounts. How much and on which pieces is up to SHEIN; it's not a coupon."
         ]
       }
     ],
@@ -204912,7 +205233,8 @@ export const reviewsData: unknown[] = [
           "¿Cuál es mi talla en SHEIN? La que diga la guía de tallas de la prenda para tu medida en centímetros; la letra cambia de marca en marca, como muestran las dos camisetas del primer capítulo.",
           "¿Las tallas de SHEIN son pequeñas? No se puede responder por la letra: la ficha de cada prenda muestra el tipo de ajuste, la elasticidad y el porcentaje de compradores que la encontraron fiel a la talla. En las dos camisetas de esta guía, la mayoría la encontró fiel; los números están en el capítulo «Qué más muestra la ficha».",
           "¿SHEIN cambia por otra talla? Depende del país: la política de devolución y cambio de cada uno está en el centro de ayuda de SHEIN.",
-          "¿Cómo mido el busto para SHEIN? Con la cinta en la parte más llena del busto, recta en la espalda y sin apretar; el capítulo de cómo medir trae también la cintura y la cadera."
+          "¿Cómo mido el busto para SHEIN? Con la cinta en la parte más llena del busto, recta en la espalda y sin apretar; el capítulo de cómo medir trae también la cintura y la cadera.",
+          "¿El 4CW5Y da descuento en SHEIN? Sí: es un código de referido. Abre SHEIN con el enlace de Cecília y búscalo en la app o en el sitio: abre una selección de productos con promociones y descuentos. Cuánto y en qué prendas lo decide SHEIN; no es un cupón."
         ]
       }
     ],
@@ -204933,7 +205255,7 @@ export const reviewsData: unknown[] = [
     "locale": "fr",
     "translationKey": "shein-tamanho",
     "title": "Tailles SHEIN : quelle taille commander et comment lire le guide de chaque article",
-    "seoTitle": "Tailles SHEIN : quelle taille prendre et comment lire le guide",
+    "seoTitle": "Tailles SHEIN : quelle taille prendre, comment lire le guide",
     "type": "Guide des tailles",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -205184,7 +205506,8 @@ export const reviewsData: unknown[] = [
           "Quelle est ma taille chez SHEIN ? Celle que donne le guide des tailles de l'article pour votre mesure en centimètres ; la lettre change d'une marque à l'autre, comme le montrent les deux t-shirts du premier chapitre.",
           "Les tailles SHEIN sont-elles petites ? On ne peut pas répondre à partir de la lettre : la fiche de chaque article indique le type de coupe, l'élasticité et le pourcentage d'acheteurs qui ont trouvé la taille fidèle. Pour les deux t-shirts de ce guide, la majorité l'a trouvée fidèle ; les chiffres sont dans le chapitre « Ce que la fiche montre en plus ».",
           "SHEIN échange-t-il contre une autre taille ? Cela dépend du pays : la politique de retour et d'échange de chacun figure dans le centre d'aide SHEIN.",
-          "Comment mesurer le buste pour SHEIN ? Avec le mètre à la partie la plus forte du buste, droit dans le dos et sans serrer ; le chapitre sur la mesure couvre aussi la taille et les hanches."
+          "Comment mesurer le buste pour SHEIN ? Avec le mètre à la partie la plus forte du buste, droit dans le dos et sans serrer ; le chapitre sur la mesure couvre aussi la taille et les hanches.",
+          "Le 4CW5Y donne-t-il une réduction chez SHEIN ? Oui : c'est un code de parrainage. Ouvrez SHEIN via le lien de Cecília et cherchez-le dans l'appli ou sur le site : il ouvre une sélection de produits avec promotions et réductions. Combien et sur quelles pièces, c'est SHEIN qui décide ; ce n'est pas un coupon."
         ]
       }
     ],
@@ -205456,7 +205779,8 @@ export const reviewsData: unknown[] = [
           "Welche Größe braucht man bei SHEIN? Die, die der Größenguide des Artikels für Ihr Maß in Zentimetern angibt; der Buchstabe ändert sich von Marke zu Marke, wie die beiden T-Shirts im ersten Kapitel zeigen.",
           "Fallen die Größen bei SHEIN klein aus? Mit dem Buchstaben allein lässt sich das nicht beantworten: Die Produktseite zeigt Schnitt, Elastizität und den Anteil der Käufer, die die Größe passend fanden. Bei den beiden T-Shirts dieses Guides fand die Mehrheit sie passend; die Zahlen stehen im Kapitel „Was die Seite sonst zeigt“.",
           "Tauscht SHEIN gegen eine andere Größe? Das hängt vom Land ab: Die Rückgabe- und Umtauschregeln stehen im Hilfecenter von SHEIN.",
-          "Wie misst man die Brust für SHEIN? Mit dem Band an der vollsten Stelle der Brust, gerade am Rücken und ohne zu ziehen; das Kapitel zum Messen umfasst auch Taille und Hüfte."
+          "Wie misst man die Brust für SHEIN? Mit dem Band an der vollsten Stelle der Brust, gerade am Rücken und ohne zu ziehen; das Kapitel zum Messen umfasst auch Taille und Hüfte.",
+          "Gibt der 4CW5Y bei SHEIN Rabatt? Ja: Es ist ein Empfehlungscode, den Sie nach dem Öffnen von SHEIN über Cecílias Link in App oder Website suchen; er öffnet eine Auswahl an Produkten mit Aktionen und Rabatten. Wie viel und auf welche Teile, entscheidet SHEIN; er ist kein Gutschein."
         ]
       }
     ],
@@ -205728,7 +206052,8 @@ export const reviewsData: unknown[] = [
           "Qual è la mia taglia su SHEIN? Quella che la guida alle taglie del capo indica per la tua misura in centimetri; la lettera cambia da marchio a marchio, come mostrano le due magliette del primo capitolo.",
           "Le taglie SHEIN sono piccole? Dalla lettera non si può rispondere: la scheda di ogni capo mostra il tipo di vestibilità, l'elasticità e la percentuale di acquirenti che l'ha trovata fedele alla taglia. Per le due magliette di questa guida la maggioranza l'ha trovata fedele; i numeri sono nel capitolo «Cosa mostra in più la scheda».",
           "SHEIN cambia con un'altra taglia? Dipende dal paese: la politica di reso e cambio di ciascuno è nel centro assistenza SHEIN.",
-          "Come si misura il busto per SHEIN? Con il metro nel punto più pieno del busto, dritto sulla schiena e senza stringere; il capitolo su come misurare comprende anche vita e fianchi."
+          "Come si misura il busto per SHEIN? Con il metro nel punto più pieno del busto, dritto sulla schiena e senza stringere; il capitolo su come misurare comprende anche vita e fianchi.",
+          "Il 4CW5Y dà sconto su SHEIN? Sì: è un codice invito. Apri SHEIN con il link di Cecília e cercalo nell'app o sul sito: apre una selezione di prodotti con promozioni e sconti. Quanto e su quali capi lo decide SHEIN; non è un coupon."
         ]
       }
     ],
@@ -206000,7 +206325,8 @@ export const reviewsData: unknown[] = [
           "SHEIN에서 자신의 사이즈는 무엇입니까? 상품의 사이즈 가이드에서 자신의 치수(cm)에 해당하는 사이즈가 답입니다. 브랜드마다 글자가 다르다는 것은 첫 장의 티셔츠 두 장에서 보신 그대로입니다.",
           "SHEIN 사이즈는 작은 편입니까? 글자만으로는 답할 수 없습니다. 상품 페이지에서는 핏 타입, 신축성, 그리고 사이즈가 맞았다고 답한 구매자 비율을 볼 수 있습니다. 이 가이드의 티셔츠 두 장에서는 대다수가 사이즈가 맞았다고 답했습니다. 숫자는 “모델과 구매자” 장에 있습니다.",
           "SHEIN에서 다른 사이즈로 교환해 줍니까? 나라마다 다릅니다. 반품과 교환 정책은 거주 국가의 SHEIN 고객센터에서 확인하십시오.",
-          "SHEIN 기준으로 가슴둘레는 어떻게 잽니까? 가슴에서 가장 볼록한 부분에 줄자를 수평으로 두르고, 조이지 않게 잽니다. 허리와 엉덩이는 측정 방법 장에 있습니다."
+          "SHEIN 기준으로 가슴둘레는 어떻게 잽니까? 가슴에서 가장 볼록한 부분에 줄자를 수평으로 두르고, 조이지 않게 잽니다. 허리와 엉덩이는 측정 방법 장에 있습니다.",
+          "4CW5Y로 SHEIN에서 할인을 받을 수 있나요? 네. 추천 코드예요. Cecília의 링크로 SHEIN에 들어간 뒤 앱이나 사이트에서 검색하면 프로모션과 할인이 있는 추천 상품 페이지가 열려요. 얼마나, 어떤 상품에 적용되는지는 SHEIN이 정해요. 쿠폰은 아니에요."
         ]
       }
     ],
@@ -206272,7 +206598,8 @@ export const reviewsData: unknown[] = [
           "SHEINで自分のサイズは何ですか？商品のサイズガイドで、自分の寸法（cm）に合うサイズが答えです。ブランドによって文字が違うのは、最初の章にある2枚のTシャツのとおりです。",
           "SHEINのサイズは小さめですか？文字だけでは答えられません。商品ページには、フィットのタイプ、伸縮性、そしてサイズどおりと答えた購入者の割合が出ています。このガイドの2枚のTシャツでは、大多数がサイズどおりと答えています。数字は「モデルと購入者」の章にあります。",
           "SHEINは別のサイズと交換してくれますか？国によって異なります。返品と交換のルールは、お住まいの国のSHEINのヘルプセンターで確認してください。",
-          "SHEINで胸囲はどう測ればいいですか？胸のいちばん張っている部分にメジャーを水平に当て、きつく締めずに測ります。ウエストとヒップは、測り方の章にあります。"
+          "SHEINで胸囲はどう測ればいいですか？胸のいちばん張っている部分にメジャーを水平に当て、きつく締めずに測ります。ウエストとヒップは、測り方の章にあります。",
+          "4CW5Yで割引になる？なります。紹介コードです。CecíliaのリンクからSHEINを開き、アプリやサイトで検索すると、セールや割引のあるおすすめ商品のページが開きます。どの商品がいくら安くなるかはSHEINが決めます。クーポンではありません。"
         ]
       }
     ],
@@ -206544,7 +206871,8 @@ export const reviewsData: unknown[] = [
           "SHEIN 上我的尺碼是多少？商品尺碼表裡，對應你公分尺寸的那一欄就是答案。同一個字母在不同品牌裡尺寸不同，前面兩件 T 恤就是例子。",
           "SHEIN 的尺寸偏小嗎？只看字母無法回答。每件商品的頁面會顯示版型、彈性，以及覺得尺寸合適的買家比例。本指南的兩件 T 恤，多數買家都覺得尺寸合適。數字在“模特與買家”那一章。",
           "SHEIN 可以換其他尺碼嗎？要看國家。各地的退換貨政策，都寫在 SHEIN 幫助中心。",
-          "SHEIN 的胸圍要怎麼量？用軟尺量最豐滿的地方，保持水平、不要勒緊。腰圍和臀圍在量法那一章。"
+          "SHEIN 的胸圍要怎麼量？用軟尺量最豐滿的地方，保持水平、不要勒緊。腰圍和臀圍在量法那一章。",
+          "4CW5Y 能在 SHEIN 打折嗎？能。它是推薦碼。透過 Cecília 的連結開啟 SHEIN，再在 App 或網站搜尋，就能看到有優惠與折扣的精選商品。折多少、哪些商品，由 SHEIN 決定。它不是優惠券。"
         ]
       }
     ],
@@ -206816,7 +207144,8 @@ export const reviewsData: unknown[] = [
           "SHEIN 上我的尺码是多少？商品尺码表里，对应你厘米尺寸的那一档就是答案。同一个字母在不同品牌里尺寸不同，前面两件 T 恤就是例子。",
           "SHEIN 的尺寸偏小吗？只看字母无法回答。每件商品的页面会显示版型、弹性，以及觉得尺寸合适的买家比例。本指南的两件 T 恤，多数买家都觉得尺寸合适。数字在“模特和买家”那一章。",
           "SHEIN 可以换其他尺码吗？要看国家。各地的退换货政策，都写在 SHEIN 帮助中心。",
-          "SHEIN 的胸围要怎么量？用软尺量最丰满的地方，保持水平、不要勒紧。腰围和臀围在量法那一章。"
+          "SHEIN 的胸围要怎么量？用软尺量最丰满的地方，保持水平、不要勒紧。腰围和臀围在量法那一章。",
+          "4CW5Y 能在 SHEIN 打折吗？能。它是推荐码。通过 Cecília 的链接打开 SHEIN，再在 App 或网站搜索，就能看到有优惠和折扣的精选商品。具体折多少、哪些商品，由 SHEIN 决定。它不是优惠券。"
         ]
       }
     ],
@@ -310550,8 +310879,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-11-11-picks-ar",
     "locale": "ar",
     "translationKey": "shein-11-11",
-    "title": "SHEIN 11.11: اختيارات Cecília الـ19، من البيجامات إلى الإكسسوارات",
-    "seoTitle": "SHEIN 11.11 لعام 2026: اختيارات Cecília الـ19 مع تقييمات المتجر",
+    "title": "SHEIN 11.11: اختيارات Cecília الـ19، من البيجامات إلى الإكسسوارات (انتهت الحملة)",
+    "seoTitle": "SHEIN 11.11 2026: اختيارات Cecília الـ19 بعد الحملة",
     "type": "دليل وكوبونات",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -310564,12 +310893,12 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
-    "description": "اختارت Cecília 19 قطعة من SHEIN في 5 مجموعات، من البيجامات إلى ملابس الرجال. تعرّف على تقييمات المتجر والمقاسات والروابط المباشرة لكل قطعة.",
-    "metaDescription": "SHEIN 11.11: اختيارات Cecília الـ19 مع تقييمات المتجر وروابط المنتجات. رمز الإحالة 4CW5Y يفتح مجموعة فيها عروض وخصومات.",
+    "description": "انتهت حملة 11.11 من SHEIN، لكن اختيارات Cecília الـ19 تصلح قائمة للمراجعة: بيجامات وملابس أطفال ونساء وإكسسوارات ورجال، مع تقييمات المتجر وروابط القطع.",
+    "metaDescription": "انتهت حملة SHEIN 11.11: اختيارات Cecília الـ19 مع تقييمات المتجر والروابط. رمز الإحالة 4CW5Y يفتح مجموعة فيها عروض وخصومات.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa-en-v2.webp",
     "imageAlt": "بلوزة زرقاء مخططة بلا أكمام وبنطال واسع الساق موضوعان على طاولة مع حذاء في صورة من كتالوج SHEIN، مع شعار SHEIN وعبارة «11.11: اختيارات Cecília» ورمز الإحالة 4CW5Y.",
     "imageFit": "contain",
@@ -310577,7 +310906,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "افتح SHEIN لتطّلع على العروض الحالية. قبل إتمام طلبك، تأكد من السعر وجدول المقاسات لكل قطعة تختارها.",
+      "text": "انتهت حملة 11.11 من SHEIN في 12 نوفمبر 2026. افتح SHEIN لتطّلع على العروض الحالية، وقبل إتمام طلبك تأكد من السعر وجدول المقاسات في صفحة كل قطعة.",
       "label": "شاهد الاختيارات على SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -310600,14 +310929,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "اختارت Cecília 19 قطعة في 5 مجموعات: بيجامات وملابس أطفال وملابس نسائية وإكسسوارات وملابس رجالية. الرمز 4CW5Y يمنحك خصمًا فعلًا: افتح SHEIN عبر رابط Cecília وابحث عن الرمز في التطبيق أو الموقع لتصل إلى مجموعة فيها عروض؛ وSHEIN هي التي تحدد قيمة الخصم والقطع المشمولة."
+          "انتهت حملة 11.11 من SHEIN في 12 نوفمبر. تبقى اختيارات Cecília الـ19 قائمةً تراجع بها سعر اليوم أو تقارنه بدليل الجمعة البيضاء. الرمز 4CW5Y يمنحك خصمًا فعلًا: افتح SHEIN عبر رابط Cecília وابحث عن الرمز في التطبيق أو الموقع؛ وSHEIN هي التي تحدد قيمة الخصم والقطع المشمولة."
         ]
       },
       {
         "heading": "حملة 11.11",
         "paragraphs": [
-          "تجمع مجموعة 11.11 تسعَ عشرة قطعة اختارتها Cecília. راجع SHEIN لمعرفة مواعيد الحملة والعروض المتاحة وقت تسوّقك.",
-          "صفحة الدخول هي [11.11 Global Sale Selections](https://onelink.shein.com/58/66i60wu7xjjd). أما القطع الـ19 أدناه، فالصورة والبطاقة تفتحان صفحة كل قطعة داخل الحملة.",
+          "انتهت حملة 11.11 من SHEIN لعام 2026 في 12 نوفمبر. أعدّت Cecília هذه المجموعة أثناء الحملة، وتقييمات المتجر في الجدول هي التي سُجّلت لها.",
+          "ما زالت المجموعة مفيدة بطريقتين: قائمةً بالقطع تراجعها اليوم على SHEIN، ومرجعًا تقارن به حملة نوفمبر. الصورة وبطاقة كل قطعة تفتحان صفحتها على SHEIN، وفيها السعر الحالي وجدول المقاسات. وبشأن حملة نوفمبر راجع دليل [الجمعة البيضاء من SHEIN](/ar/reviews/shein-black-friday-ar).",
           "الرمز 4CW5Y هو رمز الإحالة من SHEIN، وهو يمنحك خصمًا فعلًا: افتح SHEIN عبر رابط Cecília وابحث عن الرمز في التطبيق أو الموقع، فتُفتح صفحة فيها مجموعة منتجات وعروض وخصومات. وSHEIN هي التي تحدد قيمة الخصم والقطع المشمولة. وهو ليس كوبونًا ولا يُلصق عند الدفع. الخطوات التفصيلية في [رمز الإحالة من SHEIN: كيف تستخدم 4CW5Y](/ar/reviews/shein-referral-code-ar)."
         ]
       },
@@ -310698,7 +311027,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "paragraphs": [
-          "يجمع الجدول القطع الـ19 وتقييمات المتجر المسجّلة لهذه المجموعة. راجع صفحة كل منتج لمعرفة السعر الحالي وأي خصم."
+          "يجمع الجدول القطع الـ19 وتقييمات المتجر المسجّلة لهذه المجموعة. الأسعار والخصومات تغيّرت أثناء الحملة وما زالت تتغير، فراجع السعر الحالي في صفحة كل منتج."
         ]
       },
       {
@@ -311374,7 +311703,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "قبل أن تشتري",
         "bullets": [
-          "**الأسعار والعروض قد تتغير:** تحقق من السعر وأي خصم في صفحة المنتج قبل إتمام طلبك.",
+          "**انتهت الحملة:** أسعار 11.11 وخصوماتها لم تعد سارية. تحقق من السعر الحالي وأي خصم في صفحة المنتج قبل إتمام طلبك.",
           "**المقاس:** إن كنت بين مقاسين، راجع جدول مقاسات القطعة قبل الاختيار، فالمقاسات تختلف من قطعة إلى أخرى.",
           "**الرمز 4CW5Y يمنحك خصمًا، لكنه ليس كوبونًا:** افتح SHEIN عبر رابط Cecília وابحث عن الرمز في التطبيق أو الموقع، ولا تلصقه عند الدفع. وSHEIN هي التي تحدد قيمة الخصم والقطع المشمولة. راجع [رمز الإحالة من SHEIN](/ar/reviews/shein-referral-code-ar) و[صفحة SHEIN](/ar/coupons/shein) فيها الرابط الرئيسي للمتجر.",
           "**تنتظر الجمعة البيضاء؟** دليل [الجمعة البيضاء من SHEIN](/ar/reviews/shein-black-friday-ar) يشرح ما هو معروف حتى الآن عن حملة نوفمبر.",
@@ -311382,15 +311711,32 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "هل ما زالت هذه المجموعة تستحق الاستعانة بها؟",
+        "paragraphs": [
+          "قائمةً للتسوق، نعم. عرضًا مخفضًا، لا: أسعار 11.11 كانت للحملة. افتح صفحة القطعة التي تعجبك، وانظر إلى السعر الحالي وجدول المقاسات، ثم قرّر. وإن كنت تنوي انتظار نوفمبر، فاحتفظ بالقائمة وقارنها بدليل الجمعة البيضاء."
+        ],
+        "emphasis": "أراها قائمة قطع جيدة لا وعدًا بخصم: انتهت حملة 11.11، وما يهم الآن هو ما تعرضه صفحة كل قطعة اليوم."
+      },
+      {
         "heading": "الأسئلة الشائعة",
         "bullets": [
-          "متى ينتهي تخفيض 11.11 من SHEIN؟ راجع الحملة المعروضة حاليًا على SHEIN لمعرفة تاريخ انتهائها.",
+          "هل ما زالت حملة 11.11 من SHEIN قائمة؟ لا. انتهت حملة 2026 في 12 نوفمبر. راجع العروض الحالية على SHEIN.",
           "هل يمكن أن تتغير الأسعار والخصومات؟ نعم. تحقق من السعر وأي خصم في صفحة المنتج قبل إتمام طلبك.",
           "هل 4CW5Y هو كوبون؟ لا، لكنه يمنحك خصمًا. هو رمز الإحالة من SHEIN: افتح SHEIN عبر رابط Cecília وابحث عن الرمز في التطبيق أو الموقع لتصل إلى مجموعة فيها عروض وخصومات؛ ولا يُلصق عند الدفع.",
-          "هل تقود الروابط مباشرة إلى القطعة؟ نعم. الصورة وبطاقة كل قطعة تفتحان صفحتها داخل حملة 11.11، ورابط الحملة يفتح صفحة Global Sale Selections."
+          "هل تقود الروابط مباشرة إلى القطعة؟ نعم. الصورة وبطاقة كل قطعة تفتحان صفحتها على SHEIN، وفيها السعر الحالي وجدول المقاسات."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "تريد قائمة جاهزة من 19 قطعة، من البيجامات إلى قمصان الرجال، تراجعها اليوم على SHEIN.",
+        "تنوي انتظار الجمعة البيضاء وتريد قائمة قصيرة للمقارنة."
+      ],
+      "skipIf": [
+        "تبحث عن عرض 11.11: انتهت الحملة في 12 نوفمبر.",
+        "تريد معرفة المقاس سريعًا: المرجع هو جدول المقاسات في صفحة كل قطعة، فالمقاسات تختلف من قطعة إلى أخرى."
+      ]
+    }
   },
   {
     "id": 1240,
@@ -311422,9 +311768,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
-    "cons": [
-      "النسبة المعلنة في الإعلان تنطبق على بعض القطع، لا على السلة كلها"
-    ],
+    "cons": [],
     "contentSections": [
       {
         "heading": "الإجابة السريعة",
@@ -312272,7 +312616,8 @@ export const reviewsData: unknown[] = [
         ],
         "paragraphs": [
           "**الشحن:** تحقق من رسوم التوصيل لعنوانك وشروط أي عرض شحن مجاني في السلة."
-        ]
+        ],
+        "emphasis": "سأقارن السعر النهائي في السلة قبل أن أنجذب إلى النسبة المعلنة في الإعلان، فالإجمالي بعد الشحن والضرائب هو ما يبيّن إن كان العرض يستحق."
       },
       {
         "heading": "الأسئلة الشائعة",
@@ -312310,7 +312655,19 @@ export const reviewsData: unknown[] = [
       {
         "slug": "yesstyle-black-friday-ar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "تريد 17 قطعة مرتبة بحسب الحاجة، مع القماش والقياسات، قبل أن تفتح صفحة SHEIN.",
+        "تشتري هدية لعيد الميلاد وتريد التحقق من موعد التوصيل المقدَّر قبل الدفع.",
+        "لا يضيرك أن تتحقق من السعر والعملة والمخزون في متجر SHEIN في بلدك قبل أن تقرر."
+      ],
+      "skipIf": [
+        "تحتاج مقاسًا يصعب إيجاده وتنوي الانتظار حتى المرحلة الأخيرة: قد ينفد المخزون قبلها.",
+        "تتوقع النسبة نفسها على كل قطعة: فعبارة «حتى» في الإعلان تخص قطعًا مختارة.",
+        "تريد سعرًا واحدًا في كل البلدان: فالسعر والعملة والعروض تختلف من متجر إلى آخر."
+      ]
+    }
   },
   {
     "id": 1241,
@@ -313056,7 +313413,8 @@ export const reviewsData: unknown[] = [
           "ما مقاسي في SHEIN؟ هو ما يذكره دليل مقاسات القطعة لقياسك بالسنتيمتر؛ فالحرف يتغير من علامة إلى أخرى، كما يبيّن التيشيرتان في القسم الأول.",
           "هل مقاسات SHEIN صغيرة؟ لا يمكن الجواب بالحرف: صفحة كل قطعة تعرض نوع القصّة والمرونة ونسبة المشترين الذين وجدوها مطابقة للمقاس، وفي التيشيرتين المذكورين في هذا الدليل وجدها معظمهم مطابقة؛ والأرقام في قسم «ماذا تُظهر الصفحة أيضًا».",
           "هل تبدّل SHEIN بمقاس آخر؟ يعتمد على البلد: سياسة الإرجاع والاستبدال لكل بلد في مركز مساعدة SHEIN.",
-          "كيف أقيس صدري لأطلب من SHEIN؟ بوضع الشريط عند أعرض جزء من الصدر، مستويًا عبر الظهر ودون شدّ؛ وقسم طريقة القياس يشمل الخصر والوركين أيضًا."
+          "كيف أقيس صدري لأطلب من SHEIN؟ بوضع الشريط عند أعرض جزء من الصدر، مستويًا عبر الظهر ودون شدّ؛ وقسم طريقة القياس يشمل الخصر والوركين أيضًا.",
+          "هل يمنح 4CW5Y خصمًا في SHEIN؟ نعم، فهو رمز إحالة: افتح SHEIN عبر رابط Cecília وابحث عنه في التطبيق أو على الموقع، فتُفتح مجموعة منتجات مع عروض وخصومات. أما المقدار والقطع المشمولة فتقرره SHEIN، وهو ليس كوبونًا."
         ]
       }
     ],
@@ -313446,14 +313804,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "عارضة بالغة في صفحة منتج على SHEIN ترتدي فستان سهرة طويلًا بلون أزرق داكن من ADYCE بذيل أمام مرآة، بجوار رمز الإحالة 4CW5Y.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "ثلاثة فساتين مع القماش والبطانة والتقييم من صفحة كل منتج",
-      "دليل مقاسات بالسنتيمترات لكل قطعة"
-    ],
-    "cons": [
-      "يجب أن يصل الطلب قبل موعد الحفل",
-      "الأسعار الترويجية تتغير"
-    ],
+    "pros": [],
+    "cons": [],
     "cta": {
       "text": "ابحث عن الفستان بالاسم في SHEIN وتحقق من موعد التسليم المقدَّر في صفحة الطلب قبل أن تدفع.",
       "label": "اذهب إلى SHEIN",
@@ -313466,6 +313818,15 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-ar"
+      },
+      {
+        "slug": "shein-size-guide-ar"
+      },
+      {
+        "slug": "shein-worth-it-ar"
+      },
+      {
+        "slug": "shein-black-friday-ar"
       }
     ],
     "contentSections": [
@@ -313758,7 +314119,8 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 0.7506,
             "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
           }
-        ]
+        ],
+        "emphasis": "لو كان الأمر لي، لاخترت الفستان أولًا بحسب موعد الحفلة ثم بحسب اللون. فستان جميل يصل في اليوم السابق لا يترك وقتًا لتجربته أو تعديل طوله أو تبديل المقاس."
       },
       {
         "heading": "الأسئلة الشائعة",

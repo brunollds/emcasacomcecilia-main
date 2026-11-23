@@ -28,9 +28,7 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
-  "cons": [
-    "Der Prozentsatz der Ankündigung gilt für einzelne Artikel, nicht für den ganzen Warenkorb"
-  ],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Kurze Antwort",
@@ -847,7 +845,8 @@
       ],
       "paragraphs": [
         "**Versand:** Prüfen Sie im Warenkorb die Lieferkosten für Ihre Adresse und die Bedingungen eines möglichen Gratisversands."
-      ]
+      ],
+      "emphasis": "Bevor ich mich vom Prozentsatz der Anzeige begeistern ließe, würde ich den Endpreis im Warenkorb vergleichen: Erst die Summe mit Versand und Steuern zeigt, ob sich das Angebot lohnt."
     },
     {
       "heading": "Häufige Fragen",
@@ -885,5 +884,17 @@
     {
       "slug": "yesstyle-black-friday-termine-gutscheine"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Sie möchten 17 Teile nach Bedarf sortiert sehen, mit Stoff und Maßen, bevor Sie die SHEIN-Seite öffnen.",
+      "Sie kaufen ein Weihnachtsgeschenk und wollen die voraussichtliche Lieferung vor dem Bezahlen prüfen.",
+      "Es stört Sie nicht, Preis, Währung und Bestand im SHEIN-Shop Ihres Landes zu prüfen, bevor Sie sich entscheiden."
+    ],
+    "skipIf": [
+      "Sie brauchen eine schwer zu findende Größe und wollen auf die letzte Phase warten: Der Bestand kann vorher ausgehen.",
+      "Sie erwarten denselben Prozentsatz auf jedes Teil: Das „bis zu“ der Anzeige gilt für ausgewählte Artikel.",
+      "Sie wollen in jedem Land denselben Preis: Preis, Währung und Angebote ändern sich von Shop zu Shop."
+    ]
+  }
 }
