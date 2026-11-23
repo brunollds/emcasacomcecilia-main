@@ -32,19 +32,19 @@
       "Você quer seguir o passo a passo que a própria loja publica, com shampoo, máscara e ampola."
     ],
     "skipIf": [
-      "Você quer saber se funciona no seu cabelo: este guia não traz resultado de uso.",
+      "Você quer só experimentar: o pote de 500 g só compensa para quem usa toda semana.",
       "Você precisa da composição completa: as páginas não trazem a lista inteira de ingredientes."
     ]
   },
   "cta": {
-    "text": "Se a Biomask faz sentido para o seu cabelo, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+    "text": "Se a Biomask faz sentido para o seu cabelo, abra o site oficial pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
     "label": "Ir para a Prohall",
     "url": "https://lojaprohall.com.br/",
     "sponsored": true
   },
   "coupon": "CECILIAMC",
   "affiliate": "prohall",
-  "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Dados das páginas dos produtos, sem uso. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "prohall-e-boa"
@@ -56,7 +56,7 @@
       "slug": "force-hair-prohall-para-que-serve"
     },
     {
-      "slug": "prohall-e-confiavel"
+      "slug": "cabelo-fino-e-fraco-qual-linha-prohall"
     }
   ],
   "contentSections": [
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "heading": "Quanto custam os potes e o sachê Biomask",
+      "heading": "O que é a Biomask e quanto custa cada tamanho",
       "paragraphs": [
         "A loja vende a máscara como hidratação para cabelo seco e danificado e a indica para todos os tipos de cabelo, com química ou em transição. Os ativos que ela lista são proteína de trigo e manteiga de karité, sem quantidade.",
         "Em volta da máscara, a linha tem shampoo e condicionador de 300 ml, com óleo de coco e ácido lático como ativos listados, e a ampola de 15 ml. A máscara vem em pote de 300 g e de 500 g e em sachê de 50 g. Existe ainda uma mini máscara de 50 g, fora da tabela."
@@ -177,13 +177,13 @@
       "paragraphs": [
         "O pote de 500 g é o mais barato por grama, e o sachê, o mais caro: entre os dois, a diferença é de R$ 0,09 por grama.",
         "O sachê serve a quem quer só conhecer o produto ou levar na mala. Pela página, ele é usado do comprimento às pontas, evitando a raiz, de 5 a 10 minutos. Já o pote de 500 g só compensa se você for usar a máscara de 1 a 2 vezes por semana, como a loja indica, até o fim.",
-        "No shampoo, a loja diz que o frasco de 300 ml rende cerca de 2 meses de uso diário. É a estimativa dela, que não conferimos."
+        "No shampoo, a loja diz que o frasco de 300 ml rende cerca de 2 meses de uso diário. É a estimativa da loja."
       ]
     },
     {
       "heading": "O que a loja não publica sobre a Biomask",
       "paragraphs": [
-        "As páginas dos produtos não trazem a lista completa de ingredientes (a composição que vem no rótulo), a quantidade de cada ativo nem estudo sobre a linha. Por isso este guia fica no modo de uso e no preço.",
+        "As páginas dos produtos não trazem a lista completa de ingredientes (a composição que vem no rótulo), a quantidade de cada ativo nem estudo sobre a linha.",
         "Quem tem alergia ou sensibilidade deve ler o rótulo do pote antes de usar. Para dúvida de saúde do couro cabeludo ou do fio, vale a orientação de um profissional. Quem procura a linha com tônico de couro cabeludo encontra a descrição no guia da [Force Hair](/reviews/force-hair-prohall-para-que-serve)."
       ]
     },
@@ -191,12 +191,25 @@
       "heading": "Qual tamanho levar e quanto sai com o código",
       "paragraphs": [
         "O pote de 500 g custa menos por grama. O sachê tem o menor preço para experimentar e leva a orientação de uso na própria embalagem.",
-        "O CECILIAMC vale até 10% na Prohall, e nos nossos testes o carrinho mostrou 7%. Conta nossa: com os 7% dos testes, o pote de 500 g, de R$ 74,90, ficaria em cerca de R$ 69,66. É estimativa; o valor certo aparece no resumo do pedido. O código é digitado em “Tem um cupom?”, no checkout, e as condições estão na página do [cupom Prohall](/cupons/prohall). O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        "O CECILIAMC vale até 10% na Prohall, e nos nossos testes o carrinho mostrou 7%. Conta nossa: com os 7% dos testes, o pote de 500 g, de R$ 74,90, ficaria em cerca de R$ 69,66. É estimativa; o valor certo aparece no resumo do pedido. Para usar, no checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra o “Desconto no pedido”. Vale também no aplicativo. As condições estão na página do [cupom Prohall](/cupons/prohall), e o passo a passo, em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+      ],
+      "emphasis": "Para quem já usa máscara toda semana, eu levaria o pote de 500 g, o mais barato por grama. Para só conhecer a textura, eu começaria pelo sachê de 50 g.",
+      "links": [
+        {
+          "label": "Ir para a Prohall com o CECILIAMC",
+          "href": "https://lojaprohall.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Prohall",
+          "href": "/cupons/prohall"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale na máscara, no shampoo, no condicionador e na ampola Biomask.",
         "Biomask Prohall serve para quê? A Prohall vende a Biomask como linha de hidratação. Indica a máscara para cabelo seco ou danificado e cita fios com química ou em transição.",
         "Biomask Prohall: como usar a máscara? Depois do shampoo Biomask, com os fios úmidos, aplique mecha por mecha, penteie até uniformizar, deixe 5 minutos e enxágue. A loja indica de 1 a 2 vezes por semana.",
         "Ampola Biomask: como usar? A Prohall orienta misturar partes iguais de água e de ampola em um recipiente não metálico. Aplique nos fios limpos e úmidos, deixe cinco minutos e enxágue.",
@@ -204,5 +217,6 @@
         "Quanto custa a máscara Biomask? Depende do tamanho: há pote de 300 g, pote de 500 g e sachê de 50 g, com os preços na tabela do início. O pote de 500 g é o mais barato por grama."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

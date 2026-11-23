@@ -138055,6 +138055,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/cupom-prohall-checkout-desktop-com-cupom.webp",
+      "local_url": "/images/reviews/prohall/cupom-prohall-checkout-desktop-com-cupom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16186,
+      "sha256": "bddd57f6a0e6d7a3c9928987228869d312b78616ae5a29559052273b208e7a5d",
+      "width": 855,
+      "height": 471,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-prohall-checkout-desktop-com-cupom.webp",
+      "storage_filename": "cupom-prohall-checkout-desktop-com-cupom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "src/lib/couponsData.ts"
+      ],
+      "references": [
+        {
+          "file": "src/lib/couponsData.ts",
+          "line": 4261,
+          "column": 60,
+          "literal": "/images/reviews/prohall/cupom-prohall-checkout-desktop-com-cupom.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bddd57f6a0e6d7a3c9928987228869d312b78616ae5a29559052273b208e7a5d/cupom-prohall-checkout-desktop-com-cupom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bddd57f6a0e6d7a3c9928987228869d312b78616ae5a29559052273b208e7a5d/cupom-prohall-checkout-desktop-com-cupom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T04:19:39.624Z",
+      "verification_etag_or_digest": "bddd57f6a0e6d7a3c9928987228869d312b78616ae5a29559052273b208e7a5d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/cupom-prohall-como-usar-capa-v2.webp",
       "local_url": "/images/reviews/prohall/cupom-prohall-como-usar-capa-v2.webp",
       "media_kind": "image",
@@ -165662,6 +165700,34 @@
       "uploaded_at": null,
       "verified_at": "2026-11-11T21:37:13.512Z",
       "verification_etag_or_digest": "1f56cea4e24a62437a81919215fa986d2a69295486d1bf52a7a781a8746f7522",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/skelt-reclame-aqui-problemas-geral.webp",
+      "local_url": "/images/reviews/skelt/skelt-reclame-aqui-problemas-geral.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17040,
+      "sha256": "225a8722741fe24b6904148d988e80ef6a17cd3b71ab9f1b94ffdefa465257fd",
+      "width": 627,
+      "height": 515,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "skelt-reclame-aqui-problemas-geral.webp",
+      "storage_filename": "skelt-reclame-aqui-problemas-geral.webp",
+      "status": "candidate",
+      "reference_status": "unknown",
+      "draft_owners": [],
+      "owners": [],
+      "references": [],
+      "remote_key": "v1/image/225a8722741fe24b6904148d988e80ef6a17cd3b71ab9f1b94ffdefa465257fd/skelt-reclame-aqui-problemas-geral.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/225a8722741fe24b6904148d988e80ef6a17cd3b71ab9f1b94ffdefa465257fd/skelt-reclame-aqui-problemas-geral.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-23T04:19:39.987Z",
+      "verification_etag_or_digest": "225a8722741fe24b6904148d988e80ef6a17cd3b71ab9f1b94ffdefa465257fd",
       "verification_status": "verified"
     },
     {

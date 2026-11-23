@@ -3,7 +3,7 @@
   "slug": "select-one-ou-burix-one",
   "locale": "pt",
   "title": "Select One ou Burix One: qual escolher, pelo que a Prohall declara e pelo preço por ml",
-  "seoTitle": "Select One ou Burix One: qual escolher",
+  "seoTitle": "Select One ou Burix One: qual escolher e preço por ml",
   "type": "Comparativo",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,7 +15,7 @@
     "url": "/sobre"
   },
   "description": "Select One e Burix One lado a lado, pelo que a Prohall publica: o que cada página declara, tamanhos, preço do dia e preço por ml, sem veredito de resultado.",
-  "metaDescription": "O CECILIAMC dá até 10% na Prohall; nos testes, 7%. Select One ou Burix One: o que cada página declara e quanto sai o ml.",
+  "metaDescription": "O CECILIAMC dá até 10% OFF na Prohall; nos testes, 7%. Select One ou Burix One: o que cada página declara e quanto sai o ml.",
   "publishedAt": "20 de novembro de 2026",
   "publishedAtISO": "2026-11-20",
   "draft": false,
@@ -37,14 +37,14 @@
     ]
   },
   "cta": {
-    "text": "Se a comparação ajudou, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+    "text": "Se a comparação ajudou, abra o site oficial pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
     "label": "Ir para a Prohall",
     "url": "https://lojaprohall.com.br/",
     "sponsored": true
   },
   "coupon": "CECILIAMC",
   "affiliate": "prohall",
-  "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Páginas dos produtos; não usamos os produtos. Pode haver comissão.",
   "relatedArticles": [
     {
       "slug": "prohall-e-boa"
@@ -53,10 +53,10 @@
       "slug": "cupom-prohall-como-usar"
     },
     {
-      "slug": "prohall-e-confiavel"
+      "slug": "select-one-como-usar"
     },
     {
-      "slug": "select-one-como-usar"
+      "slug": "black-friday-prohall"
     }
   ],
   "contentSections": [
@@ -107,7 +107,7 @@
         ]
       },
       "postParagraphs": [
-        "A Prohall indica a Equalize Mask após os dois procedimentos. Para a Select One, estima duração de 3 a 5 meses conforme os cuidados posteriores. A página consultada da Burix One não especifica duração."
+        "A Prohall indica a Equalize Mask após os dois procedimentos. Para a Select One, a loja informa duração de 3 a 5 meses, conforme os cuidados posteriores. A página consultada da Burix One não especifica duração."
       ],
       "images": [
         {
@@ -140,7 +140,7 @@
         "Conta nossa: o preço de venda do dia dividido pelo volume da embalagem, arredondado para o centavo. Os valores da loja mudam, então confira na página antes de decidir."
       ],
       "comparisonTable": {
-        "caption": "Preço de venda na loja em 20 de novembro de 2026, sem o cupom. Preço por ml = preço dividido pelo volume.",
+        "caption": "Preço de venda na loja em 22 de novembro de 2026, sem o cupom. Preço por ml = preço dividido pelo volume.",
         "headers": [
           "Tamanho",
           "Select One",
@@ -149,18 +149,18 @@
         "rows": [
           [
             "120 ml",
-            "R$ 46,90 (R$ 0,39 por ml)",
-            "R$ 46,90 (R$ 0,39 por ml)"
+            "[R$ 46,90](https://lojaprohall.com.br/products/select-one-um-so-passo-120ml) (R$ 0,39 por ml)",
+            "[R$ 46,90](https://lojaprohall.com.br/products/reestruturacao-molecular-tanino-organica-burix-one-120ml) (R$ 0,39 por ml)"
           ],
           [
             "300 ml",
-            "R$ 79,90 (R$ 0,27 por ml)",
-            "R$ 99,90 (R$ 0,33 por ml)"
+            "[R$ 79,90](https://lojaprohall.com.br/products/select-one-um-so-passo-300ml) (R$ 0,27 por ml)",
+            "[R$ 99,90](https://lojaprohall.com.br/products/reestruturacao-molecular-tanino-organica-burix-one-300ml) (R$ 0,33 por ml)"
           ],
           [
             "1 L",
-            "R$ 219,90 (R$ 0,22 por ml)",
-            "R$ 229,90 (R$ 0,23 por ml)"
+            "[R$ 219,90](https://lojaprohall.com.br/products/select-one-um-so-passo-1l-344426850) (R$ 0,22 por ml)",
+            "[R$ 229,90](https://lojaprohall.com.br/products/reestruturacao-molecular-tanino-organica-burix-one-1l) (R$ 0,23 por ml)"
           ]
         ]
       },
@@ -169,39 +169,54 @@
       ]
     },
     {
-      "heading": "O que sai no carrinho com o CECILIAMC",
+      "heading": "O que sai no carrinho com o CECILIAMC?",
       "paragraphs": [
-        "O CECILIAMC é o código da Cecília na Prohall: até 10%, digitado em “Tem um cupom?” no checkout. As condições do [cupom Prohall](/cupons/prohall) estão na página da loja no nosso site, e o passo a passo de onde digitar, em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar).",
+        "O CECILIAMC é o código da Cecília na Prohall: até 10% OFF, em todas as formas de pagamento. As condições do [cupom Prohall](/cupons/prohall) estão na página da loja no nosso site, e o passo a passo de onde digitar, em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar).",
         "No teste, um frasco de 300 ml de cada linha somou R$ 179,80. O CECILIAMC tirou R$ 12,58 (7%) e deixou o pedido em R$ 167,22 antes do frete. Dividindo o desconto proporcionalmente, são R$ 74,31 pela Select One e R$ 92,91 pela Burix One."
       ]
     },
     {
-      "heading": "Uso profissional: o que isso quer dizer para você",
+      "heading": "Uso profissional: o que isso quer dizer para você?",
       "paragraphs": [
         "As precauções das duas páginas trazem a indicação de uso profissional. Para a Select One, a loja é direta: não é para uso em casa, e a aplicação deve ser feita por cabeleireiro habilitado, que faz o teste de alergia e o de mecha antes.",
         "Por isso o preço do 1 L, que parece o melhor por ml, só faz sentido para quem aplica em vários clientes. Na gestação e na amamentação, as duas páginas mandam procurar orientação antes: médica, na da Select One, e de um especialista, na da Burix One. Química recente no cabelo é conversa com o profissional que vai aplicar."
       ]
     },
     {
-      "heading": "Kit com as duas de 300 ml",
+      "heading": "Vale o kit com as duas de 300 ml?",
       "paragraphs": [
-        "A loja vende um kit com a Burix One de 300 ml e a Select One de 300 ml por R$ 174,90 no dia da consulta. Comprando separado, as duas saem R$ 4,90 mais caras. É a conta de quem já decidiu usar as duas; para quem ainda compara, o kit não responde qual escolher."
+        "A loja vende um [kit com a Burix One de 300 ml e a Select One de 300 ml](https://lojaprohall.com.br/products/kit-reestruturacao-molecular-tanino-organica-burix-one-300ml-select-one-300ml) por R$ 174,90 no dia da consulta. Comprando separado, as duas saem R$ 4,90 mais caras. É a conta de quem já decidiu usar as duas; para quem ainda compara, o kit não responde qual escolher."
       ]
     },
     {
-      "heading": "Quem leva qual",
+      "heading": "Quem leva qual?",
       "paragraphs": [
-        "Se o cabeleireiro já trabalha com uma das duas, pergunte qual cabe no seu caso antes de comprar. No mesmo tamanho de 300 ml, a Select One custa R$ 20 a menos. Para outras linhas, veja [Prohall é boa?](/reviews/prohall-e-boa)."
+        "Se o cabeleireiro já trabalha com uma das duas, pergunte qual cabe no seu caso antes de comprar. Para outras linhas, veja [Prohall é boa?](/reviews/prohall-e-boa).",
+        "No checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra “Desconto no pedido” com o código. O cupom vale também no aplicativo."
+      ],
+      "emphasis": "Se o seu cabeleireiro já trabalha com uma das duas, eu seguiria a escolha dele; sem preferência, eu levaria a Select One de 300 ml, que sai R$ 20 mais barata que a Burix One no mesmo tamanho.",
+      "links": [
+        {
+          "label": "Ir para a Prohall com o CECILIAMC",
+          "href": "https://lojaprohall.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Prohall",
+          "href": "/cupons/prohall"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual alisa mais, Select One ou Burix One? A Prohall não compara as duas e nós não usamos nenhuma. A página da Select One diz que o resultado depende da curvatura, do diagnóstico do profissional e do calor.",
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale nos frascos da Select One e da Burix One.",
+        "Qual alisa mais, Select One ou Burix One? A Prohall não compara as duas. A página da Select One diz que o resultado depende da curvatura, do diagnóstico do profissional e do calor.",
         "Qual a melhor, Select One ou Burix One? Pelo preço, a Select One sai mais barata no 300 ml e as duas ficam quase iguais no 1 L. Pelo resultado, não há dado: quem decide é o cabeleireiro que aplica.",
-        "O que a Prohall declara sobre formol na Select One e na Burix One? A página da Select One diz que ela não é formulada com formol. A página da Burix One de 300 ml também traz a declaração “sem formol”. São declarações da loja. Confira o rótulo do item e consulte a Anvisa pelo nome ou número do processo.",
+        "O que a Prohall declara sobre formol na Select One e na Burix One? A página da Select One diz que ela não é formulada com formol. A página da Burix One de 300 ml também traz a declaração “sem formol”. São declarações da loja. Confira o rótulo do frasco que você vai comprar.",
         "Select One e Burix One são para usar em casa? As páginas trazem a indicação de uso profissional, e a da Select One diz que a aplicação deve ser feita por cabeleireiro habilitado."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

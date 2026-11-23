@@ -30,12 +30,12 @@
   "image": "/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa-v2.webp",
   "imageAlt": "Mão segurando frasco de Sérum Noturno Adaptativo Raízes & Vibes 120 ml junto a cabelo cacheado, em cena oficial da loja Prohall, com o logo Prohall, a chamada “Prohall no Reclame Aqui” e o cupom CECILIAMC.",
   "cta": {
-    "text": "Se a Prohall faz sentido para a sua compra, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+    "text": "Se a Prohall faz sentido para a sua compra, abra o site oficial pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
     "label": "Ir para a Prohall",
     "url": "https://lojaprohall.com.br/",
     "sponsored": true
   },
-  "editorialNote": "Feito com os dados públicos do Reclame Aqui e as políticas da loja. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Dados públicos do Reclame Aqui e da loja. Não usamos os produtos. Pode haver comissão.",
   "relatedArticles": [
     {
       "slug": "prohall-e-confiavel"
@@ -51,87 +51,116 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Prohall tem reputação Boa no Reclame Aqui, com nota 7,2 em seis meses. A empresa respondeu todas as reclamações do período e resolveu cerca de três em cada quatro. O problema mais citado é atraso na entrega. O perfil certo se chama Prohall Professional e tem o mesmo CNPJ da loja."
+        "A Prohall tem reputação Boa no Reclame Aqui nos últimos seis meses (nota 7,2) e Ótima em doze (8,1), com 100% das reclamações respondidas. O ponto de atenção é o atraso na entrega. O perfil certo é o “Prohall Professional”, de mesmo CNPJ da loja. Com o CECILIAMC, a compra sai com até 10% OFF."
       ]
     },
     {
-      "heading": "A nota em números",
+      "heading": "Os números da Prohall no Reclame Aqui",
       "paragraphs": [
-        "O perfil “Prohall Professional” tem o selo de empresa verificada e mostra os indicadores por período. Os dois recortes mais recentes ficam assim:"
+        "O perfil “Prohall Professional” tem o selo de Empresa Verificada e mostra os indicadores por período. Estas são as quatro janelas, lidas em novembro de 2026:"
       ],
       "comparisonTable": {
-        "caption": "Perfil “Prohall Professional” no Reclame Aqui. 6 meses: maio a outubro de 2026. 12 meses: novembro de 2025 a outubro de 2026. As janelas se sobrepõem.",
+        "caption": "Perfil “Prohall Professional” no Reclame Aqui. As janelas se sobrepõem, e a aba Geral reúne até três anos de registros.",
         "headers": [
           "Indicador",
           "6 meses",
-          "12 meses"
+          "12 meses",
+          "2025",
+          "Geral"
         ],
         "rows": [
           [
             "Reputação",
             "Boa",
-            "Ótima"
+            "Ótima",
+            "RA1000",
+            "RA1000"
           ],
           [
             "Nota",
             "7,2",
-            "8,1"
+            "8,1",
+            "9,0",
+            "9,0"
           ],
           [
             "Reclamações recebidas",
-            "127",
-            "348"
+            "126",
+            "347",
+            "494",
+            "1.112"
           ],
           [
             "Respondidas",
             "100%",
-            "100%"
+            "100%",
+            "100%",
+            "98,9%"
           ],
           [
             "Resolvidas",
-            "73,7%",
-            "84,2%"
+            "73,2%",
+            "84,2%",
+            "93,1%",
+            "93%"
           ],
           [
             "Voltariam a fazer negócio",
-            "56,1%",
-            "67,9%"
+            "55,4%",
+            "67,8%",
+            "83,7%",
+            "82,6%"
           ],
           [
             "Avaliadas",
-            "69",
-            "202"
+            "68",
+            "201",
+            "342",
+            "754"
           ],
           [
             "Nota média do consumidor",
-            "6,33",
-            "7,37"
+            "6,27",
+            "7,36",
+            "8,55",
+            "8,54"
           ],
           [
             "Tempo médio de resposta",
             "1 dia e 19 horas",
-            "1 dia e 16 horas"
+            "1 dia e 16 horas",
+            "17 horas",
+            "23 horas"
           ]
         ]
       },
       "postParagraphs": [
-        "É por isso que a mesma empresa aparece no Google com notas diferentes: cada resultado guarda um período ou uma leitura de outra data. A nota de seis meses é 7,2; a de doze meses é 8,1.",
-        "No ranking do Reclame Aqui, o perfil está em 33º lugar em “Melhor empresa” na categoria Higiene Pessoal."
+        "É por isso que a mesma empresa aparece no Google com notas diferentes: cada resultado guarda um período ou uma leitura de outra data."
       ]
     },
     {
-      "heading": "Como a nota mudou",
+      "heading": "O que a nota e o selo medem, e o que não medem",
       "paragraphs": [
-        "O histórico mensal do perfil mostra reputação Ótima em maio de 2026 e Boa de junho a outubro.",
-        "Os dois recortes contam a mesma história. Das 348 reclamações de doze meses, 127 são dos últimos seis: o volume caiu. O índice de solução, porém, é menor no recorte recente, de 73,7%, contra 84,2% em doze meses. O perfil não informa o motivo."
+        "A nota do Reclame Aqui mede como a empresa atende as reclamações registradas na plataforma. Ela não mede a qualidade do produto e muda com o tempo: o perfil é Boa em seis meses e RA1000, o selo máximo, em 2025 e no acumulado.",
+        "O índice de solução e o de “voltariam a fazer negócio” valem só para as reclamações finalizadas e avaliadas pelo consumidor, não para todos os clientes. A nota média do consumidor é outra conta, dada por quem avaliou o atendimento."
+      ]
+    },
+    {
+      "heading": "Pontos positivos nos dados",
+      "paragraphs": [
+        "O que o perfil mostra de bom:"
+      ],
+      "bullets": [
+        "**Empresa Verificada:** o perfil tem o selo, e a aba Geral e o ano de 2025 chegam ao RA1000, com nota 9,0.",
+        "**Resposta:** 100% das reclamações respondidas em seis meses e em doze, com tempo médio abaixo de dois dias (1 dia e 19 horas no semestre).",
+        "**Solução em doze meses:** 84,2% das reclamações avaliadas foram resolvidas, e 67,8% dos consumidores voltariam a fazer negócio."
       ]
     },
     {
       "heading": "O que mais gera reclamação",
       "paragraphs": [
-        "Atraso na entrega. Na aba geral, que reúne até três anos de registros, o Reclame Aqui aponta atraso como o problema mais citado (21,69%) e Cabelos como a categoria principal (20,48%). São classificações das reclamações publicadas, não percentuais de todos os pedidos.",
-        "As reclamações mais recentes seguem três linhas: pedido que não chegou ou voltou por erro de endereço, produto que não deu o resultado esperado e relatos de reação alérgica e de queda de cabelo. O Reclame Aqui publica o relato do consumidor e não aponta a causa; este artigo também não.",
-        "Parte do catálogo da Prohall é de uso profissional. O rótulo e a página de cada produto trazem o modo de uso e as precauções do fabricante."
+        "Atraso na entrega. Na aba Geral, o Reclame Aqui aponta o atraso como o problema mais citado (21,47%). Cabelos é a categoria mais citada (20,04%), e Cabeleireiro, o tipo de produto mais citado (13,3%). São classificações das reclamações publicadas, não percentuais de todos os pedidos.",
+        "Os números absolutos também não viram taxa: 126 reclamações em seis meses não dizem quanto isso pesa no total de pedidos, que a Prohall não informa. E 68 avaliadas é uma base moderada, então os índices de solução do semestre variam mais."
       ],
       "images": [
         {
@@ -144,47 +173,45 @@
       ]
     },
     {
-      "heading": "Qual perfil é a Prohall",
+      "heading": "Qual perfil é a Prohall e o que fazer se o pedido der problema?",
       "paragraphs": [
-        "A busca por “prohall” no Reclame Aqui traz dez empresas, a maioria de nome parecido e de outros ramos. O perfil da marca é o “Prohall Professional”, na categoria Cabelos e Produtos Capilares, com o site prohall.com.br.",
-        "Para conferir, compare o CNPJ: o perfil mostra 24.815.160/0001-57, o mesmo do rodapé de lojaprohall.com.br. O rodapé da loja também tem um link direto para esse perfil."
-      ]
-    },
-    {
-      "heading": "Como evitar dor de cabeça",
-      "paragraphs": [
-        "As regras da loja respondem às queixas mais comuns:"
+        "A busca por “prohall” no Reclame Aqui traz empresas de nome parecido e de outros ramos. O perfil da marca é o “Prohall Professional”, na categoria Cabelos e Produtos Capilares. Para conferir, compare o CNPJ: o perfil mostra 24.815.160/0001-57, o mesmo do rodapé de lojaprohall.com.br.",
+        "Comece pelos canais da loja: WhatsApp (14) 99905-2648, telefone (14) 3436-1028, e-mail contato@prohall.com.br e a central de ajuda, em central.prohall.com.br, de segunda a sexta, das 9h às 12h e das 14h às 17h. Produto com defeito ou avaria vai por foto para SAC@prohall.com.br. Se o atendimento não resolver, registre a queixa no Reclame Aqui, com o número do pedido."
       ],
       "bullets": [
-        "**Endereço e prazo.** Confira o CEP e o prazo no checkout. A loja informa que posta o pedido em até 24 horas úteis depois da confirmação do pagamento, e o prazo de entrega varia por localidade.",
-        "**Acompanhamento.** O aviso do pedido chega por e-mail (olhe a caixa de spam), e o status fica na conta do cliente no site.",
-        "**Caixa na entrega.** Se a embalagem chegar avariada, recuse. Se faltar item, recuse e registre com o entregador: a loja não aceita reclamação posterior de produto faltante.",
-        "**Lacre.** A troca vale por 30 dias corridos a partir do recebimento, mas só com o lacre intacto e sem sinais de uso. Se o lacre externo já chegar violado, não abra e fale com o atendimento.",
-        "**Pedido inteiro.** A loja não aceita devolução parcial, e a postagem da troca fica por conta do cliente."
+        "**Endereço e prazo:** confira o CEP e o prazo no checkout; a loja informa que posta o pedido em até 24 horas úteis depois da confirmação do pagamento.",
+        "**Caixa na entrega:** se a embalagem chegar avariada, recuse. Se faltar item, recuse e registre com o entregador.",
+        "**Lacre e pedido inteiro:** a troca vale por 30 dias corridos, só com o lacre intacto e sem sinais de uso, e a loja não aceita devolução parcial."
       ]
     },
     {
-      "heading": "Se der problema",
+      "heading": "Vale a pena comprar na Prohall?",
+      "emphasis": "Pelos números do perfil, eu compraria na Prohall sabendo que ela responde todas as reclamações, mas conferindo o CEP e o prazo antes de pagar, porque o atraso é o motivo mais citado.",
       "paragraphs": [
-        "Comece pelos canais da loja: WhatsApp (14) 99905-2648, telefone (14) 3436-1028, e-mail contato@prohall.com.br e a central de ajuda, em central.prohall.com.br. O atendimento funciona de segunda a sexta, das 9h às 12h e das 14h às 17h.",
-        "Para produto com defeito ou avaria, a loja pede uma foto pelo e-mail SAC@prohall.com.br e dá retorno em até 30 dias depois de receber o produto. Se o atendimento não resolver, registre a queixa no Reclame Aqui, com o número do pedido."
-      ]
-    },
-    {
-      "heading": "O que os números indicam",
-      "paragraphs": [
-        "A Prohall responde todas as reclamações, em menos de dois dias, e resolveu cerca de três em cada quatro nos últimos seis meses. O risco mais citado é o prazo, e a regra que mais pesa é a do lacre: produto aberto não entra em troca. Quem é a empresa e como funciona a devolução está em [Prohall é confiável?](/reviews/prohall-e-confiavel).",
-        "Se decidir comprar, o CECILIAMC dá até 10% OFF no site e no app. As condições estão na página do [cupom Prohall](/cupons/prohall)."
+        "A Prohall responde todas as reclamações, em menos de dois dias, e resolveu 84,2% das avaliadas em doze meses. O risco mais citado é o prazo, e a regra que mais pesa é a do lacre: produto aberto não entra em troca. No checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra “Desconto no pedido” com o código. O cupom vale também no aplicativo."
+      ],
+      "links": [
+        {
+          "label": "Ir para a Prohall com o CECILIAMC",
+          "href": "https://lojaprohall.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Prohall",
+          "href": "/cupons/prohall"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Prohall é confiável no Reclame Aqui? O perfil Prohall Professional tem reputação Boa nos últimos seis meses e Ótima em doze, com todas as reclamações respondidas.",
-        "A Prohall responde as reclamações? Sim. O perfil mostra 100% de respostas nos dois períodos, com tempo médio abaixo de dois dias.",
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento.",
+        "A Prohall é confiável no Reclame Aqui? O perfil Prohall Professional tem reputação Boa nos últimos seis meses e Ótima em doze, com todas as reclamações respondidas, e RA1000 em 2025 e no acumulado.",
+        "A Prohall responde as reclamações? Sim. O perfil mostra 100% de respostas nos dois períodos recentes, com tempo médio abaixo de dois dias.",
         "O que fazer se o pedido da Prohall não chegou? Fale primeiro com a loja, pelo WhatsApp ou pelo e-mail, com o número do pedido. Se não resolver, registre a queixa no Reclame Aqui.",
         "Dá para devolver um produto aberto? Pela política da loja, não. Troca e devolução exigem o lacre intacto e o produto sem sinais de uso; defeito e avaria têm análise própria, com foto para o SAC."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

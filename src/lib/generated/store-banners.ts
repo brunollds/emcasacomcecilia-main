@@ -664,19 +664,21 @@ export const storeBannersData: StoreBanner[] = [
     "id": "prohall-black-friday-2026",
     "affiliate": "prohall",
     "slot": "top",
-    "href": "https://lojaprohall.com.br/",
+    "href": "https://lojaprohall.com.br/collections/black-friday-prohall-ofertas-imperdiveis",
     "art": {
-      "kind": "bag"
+      "kind": "tag",
+      "value": "80%"
     },
     "copy": {
       "pt": {
-        "headline": "Black Friday da Prohall: brindes progressivos a partir de R$ 300",
-        "text": "Campanha da própria Prohall. Os brindes sobem com o valor da compra; as condições aparecem no site da loja.",
-        "action": "Ver a campanha"
+        "headline": "Black Prohall: até 80% OFF em produtos selecionados",
+        "text": "Campanha da própria Prohall, com o desconto em produtos da coleção da Black. As condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
       }
     },
-    "source": "Banner da home de lojaprohall.com.br (\"Black Friday\", brindes em compras a partir de R$ 300, 400, 500, 750 e 999), lido no navegador em 18/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-18"
+    "source": "Home e coleção /collections/black-friday-prohall-ofertas-imperdiveis de lojaprohall.com.br (\"BLACK PROHALL ATÉ 80% OFF\"), lidas no navegador em 22/11/2026, sem data de fim; as faixas de brinde de R$ 300 a R$ 999 de 18/11 não aparecem mais",
+    "verifiedAt": "2026-11-22"
   },
   {
     "id": "proton-black-friday-2026",
@@ -1033,47 +1035,6 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Black Friday de 27/11/2026, informada pelo Bruno (02/11/2026)",
     "verifiedAt": "2026-11-02"
-  },
-  {
-    "id": "skelt-november-glow-2026",
-    "affiliate": "skelt",
-    "slot": "end",
-    "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
-    "art": {
-      "kind": "tag",
-      "value": "20%"
-    },
-    "copy": {
-      "pt": {
-        "headline": "November Glow da Skelt: até 20% OFF progressivo",
-        "text": "Campanha da própria Skelt. O desconto sobe com o número de itens participantes; as condições aparecem no site da loja.",
-        "action": "Ver a campanha",
-        "tag": "ATÉ"
-      }
-    },
-    "source": "Barra do topo e página /november-glow de skelt.com.br (\"Desconto progressivo: 10% em 1 item, 15% em 2 itens e 20% em 3 itens ou mais\"), conferidas em 04/11/2026",
-    "verifiedAt": "2026-11-04"
-  },
-  {
-    "id": "skelt-promo-progressiva-2111",
-    "affiliate": "skelt",
-    "slot": "top",
-    "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
-    "art": {
-      "kind": "tag",
-      "value": "25%"
-    },
-    "endsAt": "2026-11-22T23:59:59-03:00",
-    "copy": {
-      "pt": {
-        "headline": "Promo da Skelt: desconto progressivo de 15%, 20% e 25% e brinde Body Splash Mystic Bloom",
-        "text": "Campanha da própria Skelt. O brinde vale em compras acima de R$ 249; as condições aparecem no site da loja.",
-        "action": "Ver a campanha",
-        "tag": "ATÉ"
-      }
-    },
-    "source": "Guia para creators da Skelt, e-mail \"PROMO SKELT 21 A 22/11\" repassado pelo Bruno em 21/11/2026 (\"Progressiva: três níveis de desconto, 15%, 20% e 25%, + brinde Body Splash Mystic Bloom em compras acima de R$ 249,00\"); o fim em 22/11 vem do título do e-mail, que não traz a hora; a home de skelt.com.br, às 19h18 de 21/11, ainda não mostrava os níveis, só o November Glow com contador até a noite de 21/11",
-    "verifiedAt": "2026-11-21"
   },
   {
     "id": "toda-up-black-november-2026",

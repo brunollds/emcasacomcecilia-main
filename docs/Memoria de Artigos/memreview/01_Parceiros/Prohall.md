@@ -31,6 +31,11 @@ Absolut One (R$ 89,90, de R$ 149,90) e um Kit Professional de brinde (R$ 0,00). 
 com o CECILIAMC (menos R$ 26,64, 7%). O campo fica em "Tem um cupom?" → "Código do cupom" → "Aplicar", e o
 aviso é "Cupom CECILIAMC aplicado".
 
+Reteste da sessão do Lote 6A, 2026-11-22 (checkout no computador, sem login e sem finalizar): kit Force Hair
+(R$ 99,90), Burix One 300 ml (R$ 99,90) e Select One 300 ml (R$ 79,90), R$ 279,70 → R$ 260,13 (menos R$ 19,57, 7%).
+O checkout mudou: o campo hoje é "Código de desconto" → "Aplicar", e o resumo mostra "Desconto no pedido" com o
+código. Na Black Prohall ("até 80% OFF", sem data de fim), as faixas de brinde de R$ 300 a R$ 999 não aparecem mais.
+
 Testes da sessão de cupons, 2026-11-12 (navegador embutido, sem login e sem finalizar, pelo link de carrinho
 com `?discount=CECILIAMC`): Máscara Secar sem Frizz (R$ 69,90) com o kit Shampoo + Condicionador (R$ 89,90),
 R$ 159,80 → R$ 148,62; Force Hair, R$ 264,90 → R$ 246,36; Condicionador Bruma Ametista, R$ 44,90 → R$ 41,76;

@@ -2,17 +2,19 @@
   "id": "prohall-black-friday-2026",
   "affiliate": "prohall",
   "slot": "top",
-  "href": "https://lojaprohall.com.br/",
+  "href": "https://lojaprohall.com.br/collections/black-friday-prohall-ofertas-imperdiveis",
   "art": {
-    "kind": "bag"
+    "kind": "tag",
+    "value": "80%"
   },
   "copy": {
     "pt": {
-      "headline": "Black Friday da Prohall: brindes progressivos a partir de R$ 300",
-      "text": "Campanha da própria Prohall. Os brindes sobem com o valor da compra; as condições aparecem no site da loja.",
-      "action": "Ver a campanha"
+      "headline": "Black Prohall: até 80% OFF em produtos selecionados",
+      "text": "Campanha da própria Prohall, com o desconto em produtos da coleção da Black. As condições aparecem no site da loja.",
+      "action": "Ver a campanha",
+      "tag": "ATÉ"
     }
   },
-  "source": "Banner da home de lojaprohall.com.br (\"Black Friday\", brindes em compras a partir de R$ 300, 400, 500, 750 e 999), lido no navegador em 18/11/2026, sem data de fim",
-  "verifiedAt": "2026-11-18"
+  "source": "Home e coleção /collections/black-friday-prohall-ofertas-imperdiveis de lojaprohall.com.br (\"BLACK PROHALL ATÉ 80% OFF\"), lidas no navegador em 22/11/2026, sem data de fim; as faixas de brinde de R$ 300 a R$ 999 de 18/11 não aparecem mais",
+  "verifiedAt": "2026-11-22"
 }

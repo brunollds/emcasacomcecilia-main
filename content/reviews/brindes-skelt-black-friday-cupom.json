@@ -14,10 +14,10 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A promoção de 48 horas da Skelt, com creme para mãos e Body Cream de brinde no cupom SKEMCASACOMCECILIA, está encerrada. Veja como foram as faixas.",
+  "description": "A promoção de 48 horas da Skelt, com creme para mãos e Body Cream de brinde no cupom SKEMCASACOMCECILIA, está encerrada. Veja como foram as faixas e o que esperar da Black Friday.",
   "metaDescription": "O SKEMCASACOMCECILIA (10%) na Skelt rendeu dois brindes em 48 horas, promoção já encerrada. Veja as faixas e como o cupom somava.",
   "publishedAt": "5 de novembro de 2026",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "publishedAtISO": "2026-11-05",
   "draft": false,
   "isNew": true,
@@ -36,7 +36,7 @@
   },
   "coupon": "SKEMCASACOMCECILIA",
   "affiliate": "skelt",
-  "editorialNote": "Ninguém da equipe usou os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
+  "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "black-friday-skelt"
@@ -103,7 +103,7 @@
     {
       "heading": "O desconto progressivo e o cupom",
       "paragraphs": [
-        "O site dá desconto pelo número de produtos no carrinho, e o cupom de 10% entra por cima. Ele também soma com os 5% do Pix."
+        "Na promoção, o site dava desconto pelo número de produtos no carrinho, e o cupom de 10% entrava por cima, somando com os 5% do Pix."
       ],
       "comparisonTable": {
         "caption": "Desconto progressivo informado pela Skelt para a promoção.",
@@ -164,14 +164,34 @@
         ]
       },
       "postParagraphs": [
-        "Se a loja somar os descontos em vez de aplicar um sobre o outro, o total fica um pouco menor. Conta nossa, nesse pior caso e pagando no Pix: com 3 produtos ou mais, o carrinho cheio precisa passar de cerca de R$ 307 para a primeira faixa e de R$ 384 para a segunda.",
+        "Se a loja somar os descontos em vez de aplicar um sobre o outro, o total fica um pouco menor. Conta nossa, nesse pior caso e pagando no Pix: com 3 produtos ou mais, o carrinho cheio precisava passar de cerca de R$ 306 para a primeira faixa e de R$ 383 para a segunda.",
         "Em qualquer brinde por faixa da loja, confira o valor final no resumo do pedido antes de pagar. O passo a passo do cupom está em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar)."
+      ]
+    },
+    {
+      "heading": "E o que vem na Black Friday?",
+      "paragraphs": [
+        "A Skelt marca a Black Friday para 27 de novembro e ainda não publicou como será a oferta, nem se haverá brinde. A regra da Política de Brindes segue a mesma: o mínimo conta o valor final do pedido, depois de cupom, promoções e Pix. Os preços e as contas da loja estão em [Black Friday Skelt](/reviews/black-friday-skelt).",
+        "Quando a oferta sair, o caminho é o de sempre: cole SKEMCASACOMCECILIA no campo de cupom de desconto do carrinho ou do checkout do site oficial e aplique; o resumo mostra o desconto e diz se o brinde continua na sacola. O cupom não vale no Mercado Livre, e a Skelt não tem aplicativo."
+      ],
+      "emphasis": "Quando a Black Friday abrir, eu montaria a sacola e conferiria o resumo antes de pagar, porque o brinde sai do carrinho sozinho se o total cair abaixo da faixa.",
+      "links": [
+        {
+          "label": "Ir para a Skelt com o cupom",
+          "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Skelt",
+          "href": "/cupons/skelt"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O brinde valia sem o cupom? Não: segundo a Skelt, os dois brindes só saíam com o cupom de creator, e o nosso é o SKEMCASACOMCECILIA.",
+        "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. Os brindes de 48 horas saíam só com ele e já acabaram.",
+        "O brinde valia sem o cupom? Não: segundo a Skelt, os dois brindes só saíam com o cupom de parceiro, e o nosso é o SKEMCASACOMCECILIA.",
         "Os dois brindes acumulavam? Sim: o pedido acima da segunda faixa levava o creme para mãos e o Body Cream.",
         "A promoção ainda vale? Não: foram 48 horas, e a promoção já terminou.",
         "O cupom somava com o desconto progressivo? Sim: os 10% do cupom entravam junto com os 10%, 15% ou 20% do progressivo.",
@@ -179,5 +199,15 @@
         "A faixa contava antes ou depois dos descontos? Depois: a Política de Brindes da Skelt diz que vale o valor final do pedido, com cupom, promoções e Pix."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Quer entender como a faixa de brinde da Skelt conta o valor do pedido antes de montar a sacola.",
+      "Está de olho na Black Friday da loja e quer saber o que já se sabe sobre brindes."
+    ],
+    "skipIf": [
+      "Procura um brinde vigente agora: a promoção de 48 horas acabou e nenhuma regra nova foi publicada.",
+      "Pretende comprar só um item barato: a faixa conta o valor final, depois dos descontos, e o pedido pode nem chegar a ela."
+    ]
+  }
 }

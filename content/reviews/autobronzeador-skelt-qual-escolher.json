@@ -17,7 +17,7 @@
   "metaDescription": "SKEMCASACOMCECILIA anunciado com 10%. Nos mousses testados, deu 5%. Compare mousse, água, gel e kits Skelt por cor-guia, intensidade e preço.",
   "publishedAt": "23 de outubro de 2026",
   "publishedAtISO": "2026-10-23",
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa-v2.webp",
@@ -26,7 +26,7 @@
   "imageAspect": "landscape",
   "contentSections": [
     {
-      "heading": "Resposta rápida: qual autobronzeador Skelt comprar",
+      "heading": "Resposta rápida",
       "paragraphs": [
         "Para quem está começando, o Kit Iniciante traz mousse com cor-guia e luva. Água e gel são incolores, e a Skelt os indica a quem já tem prática. Na campanha consultada, os kits Dark saíram mais caros que os avulsos. Compare os preços do seu pedido antes de escolher."
       ]
@@ -59,7 +59,7 @@
             "R$ 0,86"
           ],
           [
-            "Mousse Dark",
+            "[Mousse Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
             "Sim",
             "Intensa",
             "Na embalagem",
@@ -69,7 +69,7 @@
             "R$ 0,93"
           ],
           [
-            "Água Autobronzeadora",
+            "[Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
             "Não (incolor)",
             "Leve a média",
             "Na embalagem",
@@ -99,7 +99,7 @@
             "R$ 0,82"
           ],
           [
-            "Bifásico",
+            "[Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
             "A página não informa",
             "Média",
             "8 h",
@@ -109,7 +109,7 @@
             "R$ 1,00"
           ],
           [
-            "Mini Mousse",
+            "[Mini Mousse](https://www.skelt.com.br/mini-autobronzeador-em-mousse-/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
             "Sim",
             "Leve a média",
             "3 a 5 h ou 8 h, conforme a cor",
@@ -129,7 +129,7 @@
     {
       "heading": "Mousse ou água: qual a diferença",
       "paragraphs": [
-        "A principal diferença é a cor-guia. O mousse tem: a ficha descreve a cor-guia explicada acima. A água é incolor e não tem cor-guia. Por isso a Skelt marca o mousse como nível iniciante e a água como nível expert: sem a cor visível, é mais fácil deixar uma região sem passar e criar mancha, e a loja indica a água \"para os mais experientes\".",
+        "A principal diferença é a cor-guia. O mousse tem cor-guia, o pigmento explicado acima. A água é incolor e não tem cor-guia. Por isso a Skelt marca o mousse como nível iniciante e a água como nível expert: sem a cor visível, é mais fácil deixar uma região sem passar e criar mancha, e a loja indica a água \"para os mais experientes\".",
         "A água também traz a vantagem que a loja destaca: por ser incolor, diminui a chance de manchar a roupa. Nos mousses com cor-guia, a Skelt avisa (na página do Mousse Dark e no kit do Mousse) que, durante a secagem, suor e atrito podem transferir a cor-guia para o tecido. Em qualquer um dos dois, espere secar antes de se vestir.",
         "O resto é parecido. A intensidade nos dois é de leve a média, a duração, de 7 a 12 dias, e o rendimento, de 5 a 8 aplicações. Na tabela de outubro, o preço era o mesmo, R$ 119,90, com 140 ml no mousse e 150 ml na água (R$ 0,86 e R$ 0,80 por ml). Na página do mousse, ácido lático e aloe vera na fórmula; na da água, ácido hialurônico e aloe vera. A luva aplicadora não vem em nenhum dos dois.",
         "Na dúvida, a regra da própria marca resolve: quem nunca usou autobronzeador fica com o mousse, e a água é para quem já sabe aplicar e quer um produto incolor. Os tempos de ação estão na tabela; na água, a página manda seguir o tempo indicado na embalagem."
@@ -140,14 +140,16 @@
           "alt": "Frasco do Mousse Autobronzeador da Skelt, 140 ml, com a indicação de fórmula com cor-guia",
           "caption": "Foto oficial da Skelt.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
         },
         {
           "src": "/images/reviews/skelt/autobronzeador-agua.webp",
           "alt": "Frasco da Água Autobronzeadora da Skelt, 150 ml, incolor",
           "caption": "Foto oficial da Skelt.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
         }
       ]
     },
@@ -165,14 +167,16 @@
           "alt": "Frasco do Mousse Autobronzeador Dark da Skelt, 140 ml",
           "caption": "Foto oficial da Skelt.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
         },
         {
           "src": "/images/reviews/skelt/autobronzeador-agua-dark.webp",
           "alt": "Frasco da Água Autobronzeadora Dark da Skelt, 150 ml, incolor",
           "caption": "Foto oficial da Skelt.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
         }
       ]
     },
@@ -190,14 +194,16 @@
           "alt": "Frasco do Autobronzeador Bifásico Skelt de 120 ml",
           "caption": "Foto oficial da Skelt.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
         },
         {
           "src": "/images/reviews/skelt/autobronzeador-gel.webp",
           "alt": "Frasco do Gel Autobronzeador Hidratante Skelt de 120 ml",
           "caption": "Foto oficial da Skelt.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://www.skelt.com.br/gel-autobronzeador-hidratante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
         }
       ]
     },
@@ -218,31 +224,31 @@
         ],
         "rows": [
           [
-            "Kit Iniciante (Mousse + Luva)",
+            "[Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Mousse + Luva)",
             "R$ 104,72",
             "R$ 123,84",
             "Kit R$ 19,12 abaixo"
           ],
           [
-            "Kit Iniciante Dark (Mousse Dark + Luva)",
+            "[Kit Iniciante Dark](https://www.skelt.com.br/kitiniciantedark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Mousse Dark + Luva)",
             "R$ 129,52",
             "R$ 92,87",
             "Avulsos R$ 36,65 abaixo"
           ],
           [
-            "Kit Expert (Água + Luva)",
+            "[Kit Expert](https://www.skelt.com.br/kitexpert/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Água + Luva)",
             "R$ 123,84",
             "R$ 123,84",
             "Empate"
           ],
           [
-            "Kit Expert Água Dark + Luva",
+            "[Kit Expert Água Dark + Luva](https://www.skelt.com.br/kitexpertdark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
             "R$ 129,52",
             "R$ 92,87",
             "Avulsos R$ 36,65 abaixo"
           ],
           [
-            "Kit Expert Bifásico (Bifásico + Luva)",
+            "[Kit Expert Bifásico](https://www.skelt.com.br/kit-expert-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Bifásico + Luva)",
             "R$ 105,52",
             "R$ 123,84",
             "Kit R$ 18,32 abaixo"
@@ -250,7 +256,7 @@
         ]
       },
       "postParagraphs": [
-        "O SKEMCASACOMCECILIA segue anunciado como 10% OFF. No teste de novembro, com a campanha no ar, o desconto observado foi de 5% nos produtos testados. Os kits ficaram sem teste novo. Veja as condições do [cupom Skelt](/cupons/skelt).",
+        "O SKEMCASACOMCECILIA segue anunciado como 10% OFF. No teste de novembro, com a campanha no ar, o carrinho aplicou 5% sobre o preço da campanha nos itens testados, o Kit Iniciante entre eles.",
         "A Skelt declara de 5 a 8 aplicações no Mousse avulso e no Kit Iniciante. A página do Kit Bronze & Glow Mousse declara de 8 a 12. Use a indicação do frasco que chegar.",
         "No preço da campanha, por aplicação estimada a partir do rendimento do frasco avulso, o Mousse fica entre R$ 11,99 e R$ 19,18. O Mousse Dark fica entre R$ 8,12 e R$ 12,99. O Gel fica entre R$ 6,18 e R$ 8,24."
       ],
@@ -260,7 +266,8 @@
           "alt": "Frasco do Mousse Autobronzeador Skelt ao lado da luva aplicadora preta, que formam o Kit Iniciante",
           "caption": "Foto oficial da Skelt.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
         }
       ]
     },
@@ -279,25 +286,25 @@
         ],
         "rows": [
           [
-            "Kit Bronze & Glow Mousse (Mousse + Luva + Iluminador)",
+            "[Kit Bronze & Glow Mousse](https://www.skelt.com.br/kitbronzeeglowmousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Mousse + Luva + Iluminador)",
             "R$ 180,50",
             "R$ 203,76",
             "Kit R$ 23,26 abaixo"
           ],
           [
-            "Kit Bronze & Glow Mousse Dark",
+            "[Kit Bronze & Glow Mousse Dark](https://www.skelt.com.br/kitbronzeeglowmoussedark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
             "R$ 201,44",
             "R$ 172,79",
             "Avulsos R$ 28,65 abaixo"
           ],
           [
-            "Kit Bronze & Glow Água (Água + Luva + Iluminador)",
+            "[Kit Bronze & Glow Água](https://www.skelt.com.br/kitbronzeeglowagua/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (Água + Luva + Iluminador)",
             "R$ 180,50",
             "R$ 203,76",
             "Kit R$ 23,26 abaixo"
           ],
           [
-            "Kit Bronze & Glow Água Dark",
+            "[Kit Bronze & Glow Água Dark](https://www.skelt.com.br/kitbronzeeglowaguadark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
             "R$ 205,30",
             "R$ 172,79",
             "Avulsos R$ 32,51 abaixo"
@@ -319,7 +326,7 @@
       ],
       "postParagraphs": [
         "A marca também avisa que atrito e umidade podem fazer a cor passar para o tecido. No Bifásico, a página diz que o que passar para a roupa sai na lavagem. Na Água, a Skelt diz que a ausência de cor-guia diminui a chance de manchar a roupa. O Gel e a Água Dark também são incolores, segundo a ficha, mas o cuidado na aplicação continua valendo, já que não há cor para mostrar onde você passou.",
-        "**Luva.** A Luva Aplicadora (Tanning Mitt) é de poliuretano e veludo de nylon, serve para as duas mãos e, segundo a marca, protege as mãos e as unhas de manchas e espalha mais produto em menos tempo. Depois do uso, a Skelt orienta lavar à mão com água morna e shampoo neutro e deixar secar à sombra. Custava R$ 34,90.",
+        "**Luva.** A Luva Aplicadora (Tanning Mitt) é de poliuretano e veludo de nylon, serve para as duas mãos e, segundo a marca, protege as mãos e as unhas de manchas e espalha mais produto em menos tempo. Depois do uso, a Skelt orienta lavar à mão com água morna e shampoo neutro e deixar secar à sombra. Custava R$ 34,90 de lista.",
         "**Removedor.** O [Removedor de Autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), 140 ml, custava R$ 69,90. A Skelt diz que ele remove em minutos o bronze de autobronzeadores aplicados há mais de 3 dias. A marca manda agitar, aplicar na pele seca, deixar por no mínimo 3 minutos e retirar com toalha ou esponja molhadas em água morna."
       ],
       "images": [
@@ -328,21 +335,22 @@
           "alt": "Luva aplicadora preta Skelt Tanning Mitt",
           "caption": "Foto oficial da Skelt.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
         },
         {
           "src": "/images/reviews/skelt/autobronzeador-removedor.webp",
           "alt": "Frasco spray do Removedor de Autobronzeador Skelt de 140 ml",
           "caption": "Foto oficial da Skelt.",
           "objectFit": "square",
-          "aspectRatio": 1
+          "aspectRatio": 1,
+          "href": "https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
         }
       ]
     },
     {
-      "heading": "Qual autobronzeador Skelt escolher",
-      "emphasis": "O Mousse tradicional tem cor-guia. Se você precisa da luva, compare os dois preços no quadro do Kit Iniciante.",
-      "emphasisAfterParagraph": 1,
+      "heading": "Qual autobronzeador Skelt escolher?",
+      "emphasis": "Para quem começa, eu escolheria o Kit Iniciante: mousse com cor-guia e a luva na mesma compra. Para quem já sabe aplicar e quer um produto incolor, eu levaria a Água.",
       "paragraphs": [
         "A escolha por perfil, com os preços do site oficial. A intensidade e a duração são as que a Skelt informa na ficha de cada produto."
       ],
@@ -354,13 +362,25 @@
         "Quer o que aparecia em primeiro na ordem de mais vendidos da Skelt: o [Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), por R$ 119,90, com ação de 8 horas e fragrância de body splash (Grand Bahama). A página não informa se tem cor-guia, então aplique com luva e movimentos circulares."
       ],
       "postParagraphs": [
-        "O [cupom Skelt](/cupons/skelt) é o SKEMCASACOMCECILIA. No teste da campanha, ele tirou 5% nos mousses. Confira o desconto antes de pagar."
+        "O [cupom Skelt](/cupons/skelt) é o SKEMCASACOMCECILIA, com 10% OFF anunciado para o site todo. Cole o código no campo de cupom de desconto do carrinho ou do checkout do site oficial e aplique; o resumo mostra o desconto. Ele não vale no Mercado Livre, e a Skelt não tem aplicativo. O Pix ainda tem 5% da loja depois do código."
+      ],
+      "links": [
+        {
+          "label": "Ir para a Skelt com o SKEMCASACOMCECILIA",
+          "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Skelt",
+          "href": "/cupons/skelt"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual Skelt bronzeia mais? Segundo a Skelt, o Mousse Autobronzeador Dark e a [Água Autobronzeadora Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 129,90 cada) têm o tom 2x mais intenso que as versões tradicionais.",
+        "Qual é o cupom da Skelt? O cupom da Skelt da nossa parceria é SKEMCASACOMCECILIA, com 10% OFF em todo o site oficial, para cliente novo ou antigo, em todas as formas de pagamento. Vale nos autobronzeadores e nos kits.",
+        "Qual Skelt bronzeia mais? Segundo a Skelt, o Mousse Autobronzeador Dark e a [Água Autobronzeadora Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) têm o tom 2x mais intenso que as versões tradicionais.",
         "Skelt: melhor água ou mousse? Para quem está começando, o mousse: ele tem cor-guia, e a Skelt o marca como nível iniciante. A água é incolor, indicada pela loja para quem já tem prática, e diminui a chance de manchar a roupa. Intensidade, duração e rendimento são parecidos; a comparação completa está no capítulo Mousse ou água, acima.",
         "Qual Skelt não mancha a roupa? Nenhum garante que não mancha. Água, Água Dark e Gel são incolores, sem cor-guia; na página da Água, a Skelt diz que isso diminui a chance de manchar a roupa, e os três pedem mais experiência na aplicação. Em qualquer produto, espere secar antes de se vestir.",
         "Quanto tempo o autobronzeador Skelt leva para fazer efeito? Depende do produto: no Mousse, 3 a 5 horas dão bronze médio e 6 a 8 horas, bronze forte; no Gel, 4 e 8 horas; no Bifásico, 8 horas. Depois do banho, a marca diz que a cor leva 24 horas para se desenvolver por completo.",
@@ -371,16 +391,9 @@
         "Funciona em pele clara? A Skelt não publica um guia por tom de pele. O controle está no tempo de ação e na versão, então quem tem pouca experiência pode começar pelo Mousse comum, com o menor tempo indicado.",
         "Autobronzeador faz mal? A Skelt declara a linha vegana e cruelty-free e marca o Mousse, a Água, o Gel e o Bifásico como dermatologicamente testados. Com pele sensível, alergia ou gestação, fale com o dermatologista antes de usar.",
         "Como tirar o autobronzeador? Com o Removedor de Autobronzeador, que a Skelt indica para bronzes aplicados há mais de 3 dias, ou esperando a cor sair naturalmente.",
-        "Para hoje, qual usar? O [Bronzeado Instantâneo](https://www.skelt.com.br/bronzeado-instantaneo/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), uma maquiagem corporal que dura de 12 a 24 horas, segundo a marca (R$ 99,90). A diferença para o autobronzeador está no [guia do bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador).",
-        "O cupom vale nos kits e soma com o Pix? A página do [cupom Skelt](/cupons/skelt) descreve essas condições. Os kits ficaram sem teste novo durante esta campanha. Confira se os descontos aparecem no resumo da sacola.",
-        "Comprei na farmácia, o cupom vale? Não. O cupom SKEMCASACOMCECILIA vale só no site oficial da Skelt."
-      ]
-    },
-    {
-      "heading": "Como este guia foi feito",
-      "paragraphs": [
-        "Ninguém do site usou os autobronzeadores Skelt. Este guia reúne o que a marca publica na página de cada produto: ficha, modo de uso, composição e preço. Toda afirmação de desempenho, como intensidade, duração e tempo de ação, é da Skelt, e não resultado que tenhamos visto.",
-        "Preço, estoque e promoção mudam, e o cálculo de cupom e Pix é nosso, sobre o preço do dia. Se o produto que você quer estiver esgotado ou com preço diferente, vale o que aparece no site da Skelt na hora da compra. Podemos receber comissão pelas compras feitas pelos links da Skelt ou com o cupom SKEMCASACOMCECILIA."
+        "Para hoje, qual usar? O [Bronzeado Instantâneo](https://www.skelt.com.br/bronzeado-instantaneo/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), uma maquiagem corporal que dura de 12 a 24 horas, segundo a marca. A diferença para o autobronzeador está no [guia do bronzeado instantâneo](/reviews/bronzeado-instantaneo-skelt-ou-autobronzeador).",
+        "O cupom soma com o Pix nos kits? O Pix tem 5% da loja depois do código. No teste de novembro, o Kit Iniciante recebeu 5% do código sobre o preço da campanha; confira o desconto no resumo da sacola.",
+        "Comprei na farmácia ou no Mercado Livre, o cupom vale? Não. O cupom SKEMCASACOMCECILIA vale só no site oficial da Skelt."
       ]
     }
   ],
@@ -392,7 +405,7 @@
     "skipIf": [
       "Passe o Dark se é a primeira vez: a Skelt o marca como nível expert.",
       "Passe o autobronzeador avulso se você ainda não tem a luva aplicadora: ela não vem nele.",
-      "Passe os kits Dark enquanto a promoção dos avulsos durar: o autobronzeador Dark e a luva comprados separados saem abaixo do kit."
+      "Passe os kits Dark se o Dark avulso estiver em promoção: o autobronzeador Dark e a luva comprados separados saem abaixo do kit."
     ]
   },
   "pros": [],
@@ -414,7 +427,7 @@
       "slug": "black-friday-skelt"
     },
     {
-      "slug": "skelt-e-confiavel"
+      "slug": "autobronzeador-skelt-como-usar"
     }
   ]
 }

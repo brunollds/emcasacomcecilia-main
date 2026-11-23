@@ -33,18 +33,19 @@
       "Leve o Force Hair se a sua queixa é de fio enfraquecido e você quer um tônico no couro cabeludo junto com shampoo e máscara."
     ],
     "skipIf": [
-      "Passe se a queixa é queda forte: nesse caso, comece pelo dermatologista e não pela loja."
+      "Passe no Encorpax se você não quer uma rotina de quatro etapas: o Selve Power resolve com shampoo e condicionador.",
+      "Passe no Force Hair se o seu fio não pede tônico: ele só faz sentido para quem aceita uma etapa a mais no couro cabeludo."
     ]
   },
   "cta": {
-    "text": "Se uma dessas linhas faz sentido para o seu fio, abra o site oficial pelo botão e digite CECILIAMC em “Tem um cupom?”, no checkout.",
+    "text": "Se uma dessas linhas faz sentido para o seu fio, abra o site oficial pelo botão e digite CECILIAMC em “Código de desconto”, no checkout.",
     "label": "Ir para a Prohall",
     "url": "https://lojaprohall.com.br/",
     "sponsored": true
   },
   "coupon": "CECILIAMC",
   "affiliate": "prohall",
-  "editorialNote": "Feito com as páginas dos produtos, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Dados das páginas dos produtos, sem uso. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "force-hair-prohall-para-que-serve"
@@ -75,8 +76,7 @@
     {
       "heading": "As três linhas lado a lado",
       "paragraphs": [
-        "A Prohall tem três linhas para cabelo fino e fraco, cada uma para um tipo de fio e com um número diferente de passos. A tabela resume o que a página de cada kit diz.",
-        "Quem pergunta se cabelo fino aguenta progressiva ou botox encontra a conversa nos artigos da [Select One](/reviews/select-one-como-usar) e da [Burix One](/reviews/select-one-ou-burix-one). Aqui o assunto é só a rotina de lavar e cuidar."
+        "A Prohall tem três linhas para cabelo fino e fraco, cada uma para um tipo de fio e com um número diferente de passos. A tabela resume o que a página de cada kit diz."
       ],
       "comparisonTable": {
         "caption": "O que a página de cada kit descreve no site oficial.",
@@ -146,7 +146,7 @@
     {
       "heading": "Force Hair e Overgrow: o tônico e o óleo para o couro cabeludo",
       "paragraphs": [
-        "O Force Hair é o kit com shampoo, máscara e tônico, indicado pela Prohall para fios enfraquecidos. O uso, os ativos e o preço de cada item estão em [Force Hair Prohall: o que vem na linha](/reviews/force-hair-prohall-para-que-serve).",
+        "O Force Hair é o kit com shampoo, máscara e tônico, indicado pela Prohall para fios enfraquecidos. O uso e os ativos de cada item estão no guia da Force Hair, nos relacionados.",
         "O Overgrow vem em sérum, sem enxágue, e em óleo, que fica 10 minutos no couro cabeludo e é enxaguado. A página descreve óleo de rícino e óleo de jojoba e fala em nutrir o couro cabeludo."
       ]
     },
@@ -164,30 +164,30 @@
         ],
         "rows": [
           [
-            "Encorpax",
+            "[Encorpax](https://lojaprohall.com.br/products/encorpax-molecular-restore-kit-completo)",
             "R$ 139,90",
-            "Shampoo R$ 44,90; máscara R$ 59,90; sérum R$ 34,90; leave-in R$ 29,90"
+            "[Shampoo](https://lojaprohall.com.br/products/encorpax-molecular-restore-shampoo) R$ 44,90; [máscara](https://lojaprohall.com.br/products/encorpax-molecular-restore-mask) R$ 59,90; [sérum](https://lojaprohall.com.br/products/encorpax-molecular-restore-serum) R$ 34,90; [leave-in](https://lojaprohall.com.br/products/encorpax-molecular-restore-leave-in) R$ 29,90"
           ],
           [
-            "Selve Power",
+            "[Selve Power](https://lojaprohall.com.br/products/combo-power)",
             "R$ 49,90",
-            "Shampoo R$ 29,90; condicionador R$ 29,90"
+            "[Shampoo](https://lojaprohall.com.br/products/shampoo-power) R$ 29,90; [condicionador](https://lojaprohall.com.br/products/condicionador-power) R$ 29,90"
           ],
           [
-            "Force Hair",
+            "[Force Hair](https://lojaprohall.com.br/products/kit-crescimento-capilar-force-hair-shampoo-mascara-tonico-8x)",
             "R$ 99,90",
-            "Shampoo R$ 49,90; máscara R$ 79,90; tônico R$ 24,90"
+            "[Shampoo](https://lojaprohall.com.br/products/shampoo-de-crescimento-fortificante-force-hair-500ml) R$ 49,90; [máscara](https://lojaprohall.com.br/products/mascara-de-crescimento-fortificante-force-hair-500ml) R$ 79,90; [tônico](https://lojaprohall.com.br/products/tonico-force-hair-crescimento-capilar-acelerado-120ml) R$ 24,90"
           ],
           [
-            "Overgrow",
+            "[Overgrow](https://lojaprohall.com.br/products/serum-capilar-over-glow-prohall)",
             "Sem kit",
-            "Sérum R$ 24,90; óleo R$ 59,90"
+            "[Sérum](https://lojaprohall.com.br/products/serum-capilar-over-glow-prohall) R$ 24,90; [óleo](https://lojaprohall.com.br/products/oleo-capilar-crescimento-overgrow-prohall) R$ 59,90"
           ]
         ]
       },
       "postParagraphs": [
         "Por ml, o shampoo do Selve Power (400 ml) sai a cerca de R$ 0,07 e o do Encorpax (300 ml), a cerca de R$ 0,15. São fórmulas diferentes.",
-        "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF. Confira a linha do desconto no carrinho antes de pagar. O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
+        "O [cupom Prohall](/cupons/prohall) CECILIAMC dá até 10% OFF. Para usar, no checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra o “Desconto no pedido”. Vale também no aplicativo. O passo a passo está em [como usar o cupom da Prohall](/reviews/cupom-prohall-como-usar)."
       ]
     },
     {
@@ -197,14 +197,33 @@
       ]
     },
     {
+      "heading": "Qual linha levar para cabelo fino e fraco?",
+      "paragraphs": [
+        "O Selve Power é a entrada mais simples e a mais barata. O Encorpax serve ao fio que passou por química e aceita quatro etapas, e o Force Hair, a quem quer um tônico junto."
+      ],
+      "emphasis": "Para quem começa, eu levaria o Selve Power, que é shampoo e condicionador de uso diário. Se o fio está fragilizado por química e a rotina de quatro etapas cabe no seu dia, eu escolheria o Encorpax.",
+      "links": [
+        {
+          "label": "Ir para a Prohall com o CECILIAMC",
+          "href": "https://lojaprohall.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Prohall",
+          "href": "/cupons/prohall"
+        }
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Vale no Encorpax, no Selve Power, no Force Hair e no Overgrow.",
         "Qual shampoo da Prohall para cabelo fino? A Prohall tem o shampoo do Encorpax, indicado para fios finos e fragilizados por química, e o do Selve Power, para fios afinados e sem corpo. O do Selve Power é o mais em conta e vem em combo com o condicionador.",
         "Encorpax ou Selve Power? O Encorpax tem quatro etapas e é para o fio que passou por química frequente; o Selve Power tem duas e serve de rotina diária. Se você quer começar simples, o Selve Power. Se o fio está fragilizado por química, o Encorpax.",
         "Como usar o kit Encorpax? Shampoo no cabelo molhado e enxágue; máscara no comprimento e nas pontas por 15 minutos; sérum no cabelo úmido, com enxágue; leave-in sem enxágue. É o que a página do kit manda fazer.",
-        "Selve Power engrossa o cabelo? A Prohall descreve encorpamento do comprimento e das pontas, sem pesar. Fio novo ela não promete.",
-        "Tem cupom na Prohall? O CECILIAMC dá até 10% OFF. Digite o código no campo de cupom do checkout e confira a linha do desconto no carrinho."
+        "Selve Power engrossa o cabelo? A Prohall descreve encorpamento do comprimento e das pontas, sem pesar. Fio novo ela não promete."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }
