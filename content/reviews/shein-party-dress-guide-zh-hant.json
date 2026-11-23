@@ -27,14 +27,8 @@
   "imageAlt": "SHEIN商品展示圖中的成年模特兒在鏡子前身穿帶拖尾的藏藍色ADYCE晚禮服，旁邊標有推薦碼4CW5Y。",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "三件洋裝，布料、內裡與評分取自各商品頁",
-    "每件商品都有以公分標示的尺寸指南"
-  ],
-  "cons": [
-    "到貨時間必須趕得上聚會日期",
-    "促銷價會變動"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "在 SHEIN 依名稱搜尋洋裝，付款前請在訂單頁面確認送達時間。",
     "label": "前往 SHEIN",
@@ -47,6 +41,15 @@
   "relatedArticles": [
     {
       "slug": "shein-trust-guide-zh-hant"
+    },
+    {
+      "slug": "shein-size-guide-zh-hant"
+    },
+    {
+      "slug": "shein-worth-it-zh-hant"
+    },
+    {
+      "slug": "shein-black-friday-zh-hant"
     }
   ],
   "contentSections": [
@@ -339,7 +342,8 @@
           "aspectRatio": 0.7506,
           "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "emphasis": "如果是我，會先依聚會日期挑洋裝，再看顏色。前一天才到的洋裝，來不及試穿、修改長度，也來不及換尺寸。"
     },
     {
       "heading": "常見問題",

@@ -4,7 +4,7 @@
   "locale": "de",
   "translationKey": "shein-vestido-festa",
   "title": "Partykleid bei SHEIN: so wählen Sie nach Anlass, Stoff und Lieferzeit",
-  "seoTitle": "SHEIN-Partykleid: so wählen Sie für Weihnachten, Silvester und Abschlussfeier",
+  "seoTitle": "SHEIN-Partykleid: Stoff, Größe und Lieferzeit",
   "type": "Kaufratgeber",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -27,14 +27,8 @@
   "imageAlt": "Erwachsenes Model auf einem SHEIN-Produktfoto in einem marineblauen ADYCE-Abendkleid mit Schleppe vor einem Spiegel, neben dem Empfehlungscode 4CW5Y.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "Drei Kleider mit Stoff, Futter und Bewertung von der Seite jedes Produkts",
-    "Größentabelle in Zentimetern für jedes Teil"
-  ],
-  "cons": [
-    "Die Lieferung muss vor dem Termin der Feier eintreffen",
-    "Der Aktionspreis ändert sich"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "Suchen Sie das Kleid bei SHEIN nach seinem Namen und prüfen Sie die Lieferzeit auf der Bestellseite, bevor Sie bezahlen.",
     "label": "Zu SHEIN",
@@ -47,6 +41,15 @@
   "relatedArticles": [
     {
       "slug": "ist-shein-serioes-und-sicher"
+    },
+    {
+      "slug": "shein-groessen"
+    },
+    {
+      "slug": "lohnt-sich-shein"
+    },
+    {
+      "slug": "shein-black-friday-termine-steuern"
     }
   ],
   "contentSections": [
@@ -339,7 +342,8 @@
           "aspectRatio": 0.7506,
           "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "emphasis": "Wäre es meine Entscheidung, würde ich das Kleid zuerst nach dem Termin der Feier wählen und erst dann nach der Farbe. Ein schönes Kleid, das am Vortag ankommt, lässt keine Zeit zum Anprobieren, Kürzen oder Umtauschen der Größe."
     },
     {
       "heading": "Häufige Fragen",

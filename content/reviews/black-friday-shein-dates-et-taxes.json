@@ -28,9 +28,7 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
-  "cons": [
-    "Le pourcentage de l'annonce vaut pour certains articles, pas pour tout le panier"
-  ],
+  "cons": [],
   "contentSections": [
     {
       "heading": "Réponse rapide",
@@ -87,14 +85,14 @@
         ],
         "rows": [
           [
-            "[Meilleures ventes de la campagne](https://onelink.shein.com/60/68f7ufe4ubai)",
+            "[Chaussures et sacs en vente flash](https://onelink.shein.com/60/68f7ufe4ubai)",
             "24V7643",
-            "Les articles les plus vendus de la campagne"
+            "Chaussures, sandales et sacs à prix de vente flash"
           ],
           [
-            "[Déstockage et coupon nouveau client](https://onelink.shein.com/60/68f7vymzstri)",
+            "[Super offres](https://onelink.shein.com/60/68f7vymzstri)",
             "B75N67A",
-            "Des articles déstockés et un coupon que SHEIN annonce pour les nouveaux clients"
+            "Des articles en promotion de plusieurs catégories"
           ],
           [
             "[Pyjamas et lingerie](https://onelink.shein.com/60/68f7wq9fealr)",
@@ -119,7 +117,7 @@
         ]
       },
       "postParagraphs": [
-        "Le coupon de la sélection B75N67A est réservé aux nouveaux clients. Le plafond, le minimum d'achat et les personnes concernées s'affichent dans votre compte et au paiement.",
+        "Dans la sélection B75N67A, SHEIN affiche parfois un coupon pour les nouveaux clients. Quand il apparaît, le plafond, le minimum d'achat et les personnes concernées s'affichent dans votre compte et au paiement.",
         "Le 4CW5Y, c'est autre chose : c'est le code de parrainage de Cecília. Recherché dans l'appli ou sur le site, ou ouvert via le lien de ce guide, il mène à une sélection avec des promotions et des remises, et il fonctionne aussi pour les clients existants.",
         "Deux sélections demandent de la prudence côté retours. La lingerie et les sous-vêtements ont souvent des règles de retour plus strictes, tout comme les cosmétiques une fois le scellé ouvert : vérifiez la teinte et la liste des ingrédients sur la page SHEGLAM avant d'ouvrir, et lisez la politique de retour de votre boutique avant de payer.",
         "La sélection M3UP428 classe les vêtements par style et par coupe. Utilisez-la avec le tableau des tailles de chaque pièce."
@@ -847,7 +845,8 @@
       ],
       "paragraphs": [
         "**Livraison :** vérifiez dans le panier les frais pour votre adresse et les conditions de toute offre de livraison gratuite."
-      ]
+      ],
+      "emphasis": "Avant de me réjouir du pourcentage de l'annonce, je comparerais le prix final dans le panier : c'est le total avec livraison et taxes qui dit si l'offre vaut le coup."
     },
     {
       "heading": "Questions fréquentes",
@@ -885,5 +884,17 @@
     {
       "slug": "black-friday-yesstyle-dates-et-coupons"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Vous voulez 17 pièces classées par besoin, avec matière et mesures, avant d'ouvrir la page de SHEIN.",
+      "Vous achetez un cadeau de Noël et voulez vérifier la livraison estimée avant de payer.",
+      "Cela ne vous dérange pas de vérifier prix, devise et stock sur la boutique SHEIN de votre pays avant de décider."
+    ],
+    "skipIf": [
+      "Il vous faut une taille difficile à trouver et vous comptez attendre la dernière phase : le stock peut partir avant.",
+      "Vous attendez le même pourcentage sur chaque pièce : le « jusqu'à » de l'annonce vaut pour des articles sélectionnés.",
+      "Vous voulez un prix identique dans tous les pays : prix, devise et offres changent d'une boutique à l'autre."
+    ]
+  }
 }

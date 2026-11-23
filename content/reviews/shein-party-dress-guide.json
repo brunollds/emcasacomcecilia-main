@@ -4,7 +4,7 @@
   "locale": "en",
   "translationKey": "shein-vestido-festa",
   "title": "Party dress on SHEIN: how to choose by occasion, fabric and delivery time",
-  "seoTitle": "SHEIN party dress: how to choose for Christmas, New Year's Eve and graduation",
+  "seoTitle": "SHEIN party dress: fabric, size and delivery timing",
   "type": "Buying Guide",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -27,14 +27,8 @@
   "imageAlt": "Adult model in a SHEIN product listing wearing a navy-blue ADYCE evening gown with a train in front of a mirror, beside referral code 4CW5Y.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "Three dresses with fabric, lining and rating from each product page",
-    "Size guide in centimeters for each piece"
-  ],
-  "cons": [
-    "Delivery has to arrive before the party date",
-    "Promotional prices change"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "Search for the dress by name on SHEIN and check the delivery estimate on the order page before you pay.",
     "label": "Go to SHEIN",
@@ -47,6 +41,15 @@
   "relatedArticles": [
     {
       "slug": "is-shein-legit-and-safe"
+    },
+    {
+      "slug": "shein-size-guide"
+    },
+    {
+      "slug": "is-shein-worth-it"
+    },
+    {
+      "slug": "shein-black-friday-dates-taxes"
     }
   ],
   "contentSections": [
@@ -339,7 +342,8 @@
           "aspectRatio": 0.7506,
           "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "emphasis": "If it were me, I would pick the dress by the party date before the color. A lovely dress that arrives the day before leaves no time to try it on, hem it or swap the size."
     },
     {
       "heading": "Frequently asked questions",

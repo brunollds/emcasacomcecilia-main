@@ -27,14 +27,8 @@
   "imageAlt": "SHEINの商品掲載画像。鏡の前で裾を引くネイビーブルーのADYCEのパーティードレスを着た成人モデルと、紹介コード4CW5Y。",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "各商品ページの生地・裏地・評価つきのドレス3着",
-    "全商品にセンチ表記のサイズガイドあり"
-  ],
-  "cons": [
-    "配達がパーティーの日に間に合う必要がある",
-    "セール価格は変わる"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "SHEIN で名前からドレスを検索し、支払う前に注文ページでお届け予定日を確認してください。",
     "label": "SHEIN へ進む",
@@ -47,6 +41,15 @@
   "relatedArticles": [
     {
       "slug": "shein-trust-guide-ja"
+    },
+    {
+      "slug": "shein-size-guide-ja"
+    },
+    {
+      "slug": "shein-worth-it-ja"
+    },
+    {
+      "slug": "shein-black-friday-ja"
     }
   ],
   "contentSections": [
@@ -339,7 +342,8 @@
           "aspectRatio": 0.7506,
           "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "emphasis": "私なら、色より先にパーティーの日程でドレスを選びます。前日に届いたドレスでは、試着も、丈直しも、サイズ交換もできません。"
     },
     {
       "heading": "よくある質問",

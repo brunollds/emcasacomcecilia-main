@@ -4,7 +4,7 @@
   "locale": "es",
   "translationKey": "shein-vestido-festa",
   "title": "Vestido de fiesta en SHEIN: cómo elegir según la ocasión, la tela y el plazo",
-  "seoTitle": "Vestido de fiesta SHEIN: cómo elegir para Navidad, Nochevieja y graduación",
+  "seoTitle": "Vestido de fiesta SHEIN: tela, talla y plazo",
   "type": "Guía de compra",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -27,14 +27,8 @@
   "imageAlt": "Modelo adulta en una imagen del anuncio de SHEIN, con un vestido de fiesta ADYCE azul marino con cola frente a un espejo, junto al código de referido 4CW5Y.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "Tres vestidos con tela, forro y valoración de la página de cada producto",
-    "Guía de tallas en centímetros para cada prenda"
-  ],
-  "cons": [
-    "La entrega tiene que llegar antes de la fecha de la fiesta",
-    "El precio de oferta cambia"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "Busque el vestido por su nombre en SHEIN y revise el plazo en la página del pedido antes de pagar.",
     "label": "Ir a SHEIN",
@@ -47,6 +41,15 @@
   "relatedArticles": [
     {
       "slug": "shein-es-confiable-y-seguro"
+    },
+    {
+      "slug": "tallas-shein"
+    },
+    {
+      "slug": "vale-la-pena-shein"
+    },
+    {
+      "slug": "black-friday-shein-fechas-impuestos"
     }
   ],
   "contentSections": [
@@ -339,7 +342,8 @@
           "aspectRatio": 0.7506,
           "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "emphasis": "Si fuera para mí, elegiría el vestido primero por la fecha de la fiesta y después por el color. Un vestido precioso que llega la víspera no deja tiempo para probarlo, arreglar el largo o cambiar de talla."
     },
     {
       "heading": "Preguntas frecuentes",

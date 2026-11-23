@@ -5,7 +5,7 @@
   "locale": "pt",
   "translationKey": "shein-vestido-festa",
   "title": "Vestido de festa na SHEIN: como escolher pela ocasião, pelo tecido e pelo prazo",
-  "seoTitle": "Vestido de festa SHEIN: como escolher para Natal, Réveillon e formatura",
+  "seoTitle": "Vestido de festa SHEIN: tecido, tamanho e prazo",
   "type": "Guia de Compra",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -27,16 +27,8 @@
   "imageAlt": "Modelo adulta em imagem do anúncio SHEIN usando vestido de festa ADYCE azul-marinho com cauda, diante de espelho, ao lado do código de indicação 4CW5Y.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "Três vestidos com preço, envio e tecido da página de cada produto",
-    "Guia de tamanho em centímetros para cada peça",
-    "Devolução em 20 dias, com a primeira de cada pedido grátis"
-  ],
-  "cons": [
-    "Pedido internacional acima de US$ 50 paga imposto de importação; o ICMS vale em toda compra internacional.",
-    "A entrega precisa caber na data da festa",
-    "O preço de promoção muda"
-  ],
+  "pros": [],
+  "cons": [],
   "cta": {
     "text": "Busque o vestido pelo nome na SHEIN e confira o prazo na página do pedido antes de pagar.",
     "label": "Ir para a SHEIN",
@@ -49,6 +41,15 @@
   "relatedArticles": [
     {
       "slug": "shein-e-confiavel"
+    },
+    {
+      "slug": "tamanho-shein-brasil"
+    },
+    {
+      "slug": "shein-vale-a-pena"
+    },
+    {
+      "slug": "black-friday-shein"
     }
   ],
   "contentSections": [
@@ -170,7 +171,7 @@
           [
             "[Vestido longo Firerie, um ombro, tule (azul empoeirado)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
             "R$ 153,99",
-            "Internacional, frete grátis. Previsão de 7 a 17 de novembro.",
+            "Internacional, frete grátis. Previsão na consulta: de 8 a 18 dias.",
             "95% poliéster e 5% elastano. Forrado, não transparente, maxi.",
             "Casamento, pela loja. Nota 4,84, com mais de 1.000 comentários."
           ],
@@ -184,7 +185,7 @@
           [
             "[Vestido longo ADYCE, lantejoulas, ombro a ombro, fenda (azul-marinho)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
             "R$ 303,12 (em promoção)",
-            "Internacional, frete grátis. Previsão de 7 a 17 de novembro.",
+            "Internacional, frete grátis. Previsão na consulta: de 8 a 18 dias.",
             "95% poliéster e 5% elastano. Forrado, não transparente, longo, com fenda.",
             "Festa, formal e noturno, pela loja. Nota 4,89, com mais de 1.000 comentários."
           ]
@@ -357,7 +358,8 @@
           "aspectRatio": 0.7506,
           "href": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C"
         }
-      ]
+      ],
+      "emphasis": "Se fosse para mim, escolheria o vestido pela data da festa antes de escolher pela cor. Um vestido lindo que chega na véspera não deixa tempo para provar, ajustar a barra ou trocar o tamanho."
     },
     {
       "heading": "Perguntas frequentes",
