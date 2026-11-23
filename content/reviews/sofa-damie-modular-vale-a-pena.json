@@ -18,7 +18,7 @@
     },
     {
       "key": "Modelo testado",
-      "value": "Sofá na Caixa modular de três lugares com puff, azul denim, com tomada USB e carregador por indução (260 x 86 x 92 cm)"
+      "value": "Sofá modular DAMIE de três lugares com puff, azul denim, com tomada USB e carregador por indução (260 x 86 x 92 cm)"
     },
     {
       "key": "Tempo de uso",
@@ -47,8 +47,18 @@
   "imageAlt": "Cecília sentada no sofá modular azul da DAMIE.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [],
-  "cons": [],
+  "pros": [
+    "Cada módulo chega em uma caixa, o que facilita entrar em casa",
+    "Puff separado, que muda a configuração da sala",
+    "Módulos que se separam e deixam limpar por baixo",
+    "Montagem por encaixe, feita por nós na sala",
+    "30 dias de teste em casa"
+  ],
+  "cons": [
+    "Custa mais que um sofá comum de três lugares",
+    "Exige medir o acesso: as caixas também têm tamanho",
+    "O revestimento precisa ser escolhido pela rotina da casa (criança, pet, calor)"
+  ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
@@ -62,17 +72,22 @@
         "Demoramos a decidir o sofá, porque ele parece uma decisão mais definitiva do que a poltrona. O que virou a chave foi a pergunta de como ele entraria na casa, que tem corredor, curva e uma porta de quarto que estreita o caminho. Um sofá convencional de três lugares já seria trabalho, depois do que passamos com as poltronas.",
         "Cada módulo chegou na própria caixa. A gente levou as caixas para o ambiente e montou o sofá ali, seguindo a ordem de encaixe explicada pela Damie. Isso facilitou o caminho dentro da nossa casa.",
         "Abrimos as caixas no meio da sala, separamos as peças e fomos encaixando. Quando o último módulo entrou, veio aquela satisfação de ver o sofá que a gente mesmo montou."
-      ],
-      "image": "/images/reviews/sofa-damie-modular-puff.webp",
-      "imageAlt": "Puff modular Damie posicionado de forma independente na sala de estar.",
-      "imageFit": "portrait"
+      ]
     },
     {
       "heading": "O puff separado",
       "paragraphs": [
         "O puff foi o segundo ponto. A gente não queria sofá retrátil porque prende a configuração da sala: quando você quer mudar algo, não dá. O puff separado resolve isso: tá junto quando você quer deitar, sai do caminho quando não quer. Parece detalhe, mas no uso diário faz diferença real.",
-        "A gente assiste TV com o puff na frente, esticando as pernas. Quando chega visita, o puff vira assento extra. Quando a gente quer mais espaço no chão, ele desliza pro canto sem esforço. Em menos de um mês, o puff virou parte da rotina da casa: não é mais um \"acessório\", é uma peça que a gente usa todo dia."
-      ]
+        "A gente assiste TV com o puff na frente, esticando as pernas. Quando chega visita, o puff vira assento extra. Quando a gente quer mais espaço no chão, ele desliza pro canto sem esforço. Em menos de um mês, o puff virou peça de uso diário."
+      ],
+      "image": {
+        "src": "/images/reviews/sofa-damie-modular-puff-4x5.webp",
+        "alt": "Cecília ao lado do sofá modular azul da DAMIE com o puff posicionado na frente, de forma independente",
+        "caption": "O puff separado na frente do sofá, que sai do caminho quando não é preciso.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8,
+        "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+      }
     },
     {
       "heading": "O que eu observaria de novo antes de comprar",
@@ -86,39 +101,57 @@
     {
       "heading": "Vale a pena?",
       "paragraphs": [
-        "Pra nós, valeu. O sofá chegou dentro do prazo, os módulos encaixaram bem, e o puff virou peça fixa da rotina de TV. Recebi o produto em parceria e uso há mais de um ano. Não é a compra mais barata de móvel: é um investimento, e precisa ser tratado assim. Mas dentro do que a Damie promete, entregou.",
+        "Pra nós, valeu. O sofá chegou dentro do prazo, os módulos encaixaram bem, e o puff virou peça fixa da rotina de TV. Recebi o produto em parceria e uso há mais de um ano. É uma compra cara, para fazer com calma. Dentro do que a Damie promete, entregou.",
         "A flexibilidade me surpreendeu no dia a dia. Já mudamos a configuração da sala duas vezes: uma para abrir espaço numa reunião de família, outra para experimentar outro ângulo da TV. Poder arrastar os módulos separadamente facilitou essas mudanças.",
-        "E tem uma coisa que eu não esperava: a limpeza. Como os módulos separam, dá pra limpar por baixo, limpar entre os encaixes, acessar cantos que com um sofá fixo seriam eternamente esquecidos. Pra quem tem pet, isso é ouro. A gente tem um cachorro que solta pelo, e conseguir limpar debaixo do sofá sem ter que levantar um móvel pesado é um alívio real."
+        "E tem uma coisa que eu não esperava: a limpeza. Como os módulos separam, dá pra limpar por baixo, limpar entre os encaixes, acessar cantos que com um sofá fixo seriam eternamente esquecidos. Pra quem tem pet, isso é ouro. A gente tem um cachorro que solta pelo, e conseguir limpar debaixo do sofá sem ter que levantar um móvel pesado é um alívio real.",
+        "O cupom CECILIA12 dá 12% OFF no site da Damie, em todas as formas de pagamento, e soma com as promoções e com os 10% do Pix; as regras estão na [página do cupom DAMIE](/cupons/damie)."
       ],
-      "image": "/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp",
-      "imageAlt": "Configuração flexível do sofá modular Damie na sala de estar, mostrando praticidade no uso diário.",
-      "imageFit": "contain"
-    },
-    {
-      "heading": "Guia, review completo e cupom",
-      "paragraphs": [
-        "Se você está no começo da pesquisa e ainda está avaliando modelos e tecidos, escrevi um guia de decisão completo no site dedicado à Damie. Se preferir ir direto para a experiência de uso (entrega, montagem, mais de um ano de uso), o review completo está disponível. E se você já decidiu e quer o desconto, o cupom CECILIA12 dá 12% OFF no site da Damie."
-      ],
+      "image": {
+        "src": "/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp",
+        "alt": "Configuração flexível do sofá modular Damie na sala de estar, mostrando praticidade no uso diário.",
+        "caption": "A configuração flexível do sofá na sala, no uso diário.",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+      },
+      "emphasis": "Na minha casa, eu compraria o modular de novo, desde que medisse o acesso e escolhesse o tecido pela rotina: o puff separado e a limpeza por baixo valeram a escolha.",
       "links": [
         {
-          "label": "Sofá Modular Damie: qual modelo escolher?",
-          "href": "https://damie.emcasacomcecilia.com/guias/sofa-modular-damie-qual-modelo-escolher?utm_source=main-sofa-ponte&utm_medium=blog&utm_campaign=cecilia12"
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-damie-modular-vale-a-pena",
+          "sponsored": true
         },
         {
-          "label": "Review completo: sofá modular Damie",
-          "href": "https://damie.emcasacomcecilia.com/resenhas/sofa-modular-damie?utm_source=main-sofa-ponte&utm_medium=blog&utm_campaign=cecilia12"
+          "label": "Ver o sofá modular na DAMIE",
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+          "sponsored": true
         },
         {
-          "label": "Cupom CECILIA12, 12% OFF no site da Damie",
+          "label": "Ver o cupom DAMIE",
           "href": "/cupons/damie"
         }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "paragraphs": [
+        "As dúvidas mais comuns sobre o sofá modular da Damie:"
+      ],
+      "bullets": [
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix, mas não com outro cupom nem com o giftback.",
+        "O sofá modular da Damie chega montado? Não: cada módulo chega na própria caixa e a montagem é por encaixe, seguindo a ordem explicada pela Damie. A gente levou as caixas para a sala e montou ali.",
+        "Qual o tamanho do sofá de três lugares? O nosso, de três lugares, mede 260 x 86 x 92 cm pelo esquema técnico da Damie. Meça também o caminho das caixas: porta, corredor e elevador.",
+        "Dá para limpar por baixo do sofá modular? Dá: como os módulos se separam, conseguimos limpar entre os encaixes e por baixo sem levantar um móvel pesado, o que ajuda quem tem pet.",
+        "Como funciona o teste de 30 dias da Damie? O sofá precisa voltar completo, na embalagem original e sem sinais de uso severo; o pedido é feito pelo WhatsApp, com nome completo e nota fiscal. Guarde a caixa até o fim do prazo.",
+        "O puff vem incluso? No nosso conjunto de três lugares, sim, e ele é separado dos módulos. Confira a composição do modelo escolhido na página da Damie antes de comprar."
       ]
     }
   ],
   "cta": {
-    "text": "Confira as condições do CECILIA12 para 12% de desconto no site da Damie antes de pagar.",
-    "label": "Ver cupom CECILIA12 no site da Damie",
-    "url": "/cupons/damie"
+    "text": "Confira o sofá modular na DAMIE e use o CECILIA12 para 12% de desconto no site.",
+    "label": "Ver o sofá modular na DAMIE",
+    "url": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+    "sponsored": true
   },
   "coupon": "CECILIA12",
   "affiliate": "damie",
@@ -127,12 +160,15 @@
       "slug": "cupom-cecilia12-como-usar"
     },
     {
-      "slug": "damie-reclame-aqui-o-que-os-dados-mostram"
+      "slug": "poltrona-damie-e-boa"
     },
     {
-      "slug": "valley-inflow-ou-damie"
+      "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular"
+    },
+    {
+      "slug": "sofa-modular-ou-retratil-qual-escolher"
     }
   ],
-  "editorialNote": "Review com link afiliado: comissão sem custo extra para você.",
-  "updatedAt": "2026-11-06"
+  "editorialNote": "Sofá recebido em parceria. O link é afiliado: comissão sem custo extra.",
+  "updatedAt": "2026-11-23"
 }

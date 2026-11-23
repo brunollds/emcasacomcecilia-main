@@ -233,7 +233,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'damie',
-    cartPrint: { article: 'cupom-cecilia12-como-usar', src: '/images/reviews/cupom-cecilia12/4-confirme-desconto.png', alt: 'Resumo do pedido da Damie com desconto aplicado.', aspectRatio: 0.452 },
+    cartPrint: { article: 'cupom-cecilia12-como-usar', src: '/images/reviews/cupom-cecilia12/4-confirme-desconto-recorte.webp', alt: 'Resumo do pedido da DAMIE com o CECILIA12 no campo de cupom e a linha Descontos', aspectRatio: 1 },
     brand: 'DAMIE',
     officialUrl: 'https://damie.com.br',
     offerUrl: 'https://damie.com.br',
@@ -282,14 +282,19 @@ const STORE_COUPONS: Coupon[] = [
       'A DAMIE é uma marca brasileira de móveis estofados premium, com foco em poltronas reclináveis, sofás, camas e soluções de conforto para a casa. A Cecília usa produtos da marca no dia a dia e produziu reviews mostrando montagem, acabamento, conforto e uso real em casa. O cupom CECILIA12 foi criado para quem acompanha o Em Casa com Cecília e quer comprar com desconto direto no checkout. A proposta da parceria é simples: indicar produtos que fazem sentido para uma casa mais confortável, sem esconder que existe relação comercial e comissão de afiliado quando uma compra é feita pelo link ou cupom.',
     faqs: [
       {
+        question: 'Qual é o cupom da DAMIE?',
+        answer:
+          'O cupom da DAMIE da nossa parceria é o CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento, e soma com as promoções e com os 10% do Pix. Não soma com outro cupom nem com o giftback de 15% e não vale no Mercado Livre.',
+      },
+      {
         question: 'O cupom CECILIA12 funciona em todos os produtos da DAMIE?',
         answer:
           'Sim. O CECILIA12 dá 12% OFF em todos os produtos disponíveis no site da DAMIE, sem restrição de categoria ou modelo.',
       },
       {
-        question: 'O cupom CECILIA12 vale para Pix, cartão e outras formas de pagamento?',
+        question: 'O cupom CECILIA12 vale em todas as formas de pagamento?',
         answer:
-          'Sim. O CECILIA12 vale com todas as formas de pagamento disponíveis no checkout da DAMIE, incluindo Pix e cartão. O desconto de 12% não depende do meio de pagamento escolhido.',
+          'Sim. O CECILIA12 vale em todas as formas de pagamento do checkout da DAMIE. O desconto de 12% não depende do meio de pagamento escolhido.',
       },
       {
         question: 'O CECILIA12 soma com o desconto do Pix?',
@@ -344,12 +349,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom DAMIE na Black Friday?',
         answer:
-          'Tem. O cupom DAMIE CECILIA12 dá 12% OFF em todos os produtos do site, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+          'Tem. O cupom DAMIE CECILIA12 dá 12% OFF em todos os produtos do site, em todas as formas de pagamento, e é o mesmo código do resto do ano. A Black Friday da DAMIE vai até 27/11: R$ 1.000 de desconto nas poltronas, já no preço, e massagem, entrada USB e porta-copos de brinde na compra de poltrona.',
       },
       {
         question: 'O cupom DAMIE vale na Black Friday?',
         answer:
-          'O cupom DAMIE CECILIA12 dá 12% OFF e soma com as promoções, os brindes e o desconto do Pix; só não soma com outro cupom nem com o giftback.',
+          'Vale. O CECILIA12 soma com as promoções, os brindes e o desconto do Pix; só não soma com outro cupom nem com o giftback.',
       },
       {
         question: 'Comprar com o cupom muda o preço para mim?',
@@ -357,18 +362,34 @@ const STORE_COUPONS: Coupon[] = [
           'Não no sentido de custo extra. Você recebe o desconto informado quando o cupom é aceito, e o Em Casa com Cecília pode receber comissão da marca por indicação.',
       },
     ],
-    history: [
-      {
-        date: '2024',
-        code: 'CECILIA10',
-        discount: '10% OFF',
-        note: 'Cupom inicial da parceria.',
-      },
-    ],
     status: 'ativo',
     featured: true,
     featuredPitch: 'Poltronas reclináveis, sofás e camas.',
     relatedContent: [
+      {
+        title: 'Como usar o cupom CECILIA12 na DAMIE',
+        url: '/reviews/cupom-cecilia12-como-usar',
+        type: 'review',
+        publishedAt: '2026-06-11',
+      },
+      {
+        title: 'Black Friday DAMIE 2026',
+        url: '/reviews/black-friday-damie',
+        type: 'review',
+        publishedAt: '2026-10-09',
+      },
+      {
+        title: 'Poltrona DAMIE é boa? Minha experiência com a 2.0',
+        url: '/reviews/poltrona-damie-e-boa',
+        type: 'review',
+        publishedAt: '2026-07-21',
+      },
+      {
+        title: 'DAMIE no Reclame Aqui: o que os dados mostram',
+        url: '/reviews/damie-reclame-aqui-o-que-os-dados-mostram',
+        type: 'review',
+        publishedAt: '2026-06-20',
+      },
       {
         title: 'Minha experiência: Poltronas Reclináveis DAMIE',
         url: '/reviews/poltronas-reclinaveis-damie-vale-o-investimento',
@@ -396,7 +417,7 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'em todos os produtos do site',
-      note: 'Válido com todas as formas de pagamento disponíveis na DAMIE, inclusive Pix e cartão',
+      note: 'Válido em todas as formas de pagamento e soma com os 10% do Pix',
       showCheckoutReminder: false,
     },
   },

@@ -5,11 +5,11 @@
   "type": "Praticidade & Conforto",
   "category": "produtos-experiencias",
   "reviewKind": "produto",
-  "rating": 4.9,
+  "rating": 5,
   "verdict": {
-    "stars": 4.9,
+    "stars": 5,
     "recommendation": "recomendo",
-    "summary": "Entrega em caixas, montagem simples e flexibilidade modular: conforto que vale o investimento para casas reais."
+    "summary": "Entrega em caixas, montagem simples e flexibilidade modular: valeu para a nossa sala, depois de mais de um ano de uso."
   },
   "productSpec": [
     {
@@ -59,10 +59,10 @@
     }
   ],
   "description": "Mais de um ano com o Sofá Damie na Caixa de 3 lugares com puff, em azul denim: entrega em caixas, montagem por encaixe, medidas, conforto e se vale o investimento.",
-  "metaDescription": "Sofá Damie na caixa, com o cupom CECILIA12 de 12% OFF: vale o modular de 3 lugares com puff, pela entrega em caixas, montagem e conforto.",
+  "metaDescription": "Sofá Damie na Caixa com o CECILIA12, 12% OFF: vale o modular de 3 lugares com puff, pela entrega em caixas, montagem e conforto?",
   "publishedAt": "18 Abr 2026",
   "publishedAtISO": "2026-04-18",
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-23",
   "image": "/images/reviews/damie/sofa-damie-na-caixa-vale-a-pena-o-modular-capa-v2.webp",
   "imageAlt": "Cecília apoia as mãos no puff separado do sofá modular azul da DAMIE na sala de casa.",
   "imageFit": "contain",
@@ -96,7 +96,7 @@
     "Modulagem flexível",
     "Boa solução para apartamentos",
     "Visual moderno",
-    "Cupom CECILIA12 disponível"
+    "30 dias de teste em casa"
   ],
   "cons": [
     "Montagem inicial exige atenção aos módulos",
@@ -105,8 +105,9 @@
   ],
   "cta": {
     "text": "Use o cupom CECILIA12 para garantir 12% OFF em todos os produtos do site da Damie.",
-    "label": "Usar o cupom",
-    "url": "https://damie.emcasacomcecilia.com"
+    "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+    "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-damie-na-caixa-vale-a-pena-o-modular",
+    "sponsored": true
   },
   "coupon": "CECILIA12",
   "affiliate": "damie",
@@ -118,24 +119,17 @@
       ]
     },
     {
-      "heading": "Para quem é o Sofá Damie na Caixa",
-      "paragraphs": [
-        "Para quem precisa passar o sofá por escada, elevador pequeno ou corredor estreito, o modular de 3 lugares com puff facilita: os módulos chegam em caixas e montam dentro do ambiente. Antes de comprar, compare as medidas com a porta, o elevador e as curvas do caminho."
-      ],
-      "links": [
-        {
-          "label": "Ver cupom CECILIA12 na página Damie",
-          "href": "https://damie.emcasacomcecilia.com"
-        }
-      ]
-    },
-    {
       "heading": "O que chama atenção no conceito modular",
-      "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
-      "imageAlt": "Cecília mostrando a composição modular do sofá Damie na sala.",
-      "imageCaption": "A flexibilidade dos módulos permite montar o sofá conforme o ambiente.",
-      "imageFit": "portrait",
+      "image": {
+        "src": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito-4x5.webp",
+        "alt": "Cecília mostrando a composição modular do sofá Damie na sala.",
+        "caption": "A flexibilidade dos módulos permite montar o sofá conforme o ambiente.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8,
+        "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+      },
       "paragraphs": [
+        "Para quem precisa passar o sofá por escada, elevador pequeno ou corredor estreito, o modular de 3 lugares com puff facilita: os módulos chegam em caixas e montam dentro do ambiente. Antes de comprar, compare as medidas com a porta, o elevador e as curvas do caminho.",
         "A liberdade de configuração: dá para começar com 2 lugares, ficar nos 3 com puff ou montar 4 a 6 lugares.",
         "O número de lugares acompanha seu espaço e seu orçamento. No modelo de 3 lugares com puff, dá para montar uma sala confortável para lazer em família e ainda reposicionar o apoio de pé conforme o momento.",
         "A modularidade permite reorganizar a composição e separar os módulos para a limpeza. Isso é diferente de garantir que qualquer tamanho ou configuração vá caber na sala; confira as medidas antes de escolher."
@@ -143,23 +137,31 @@
     },
     {
       "heading": "Entrega e montagem",
-      "image": "/images/reviews/sofa-damie-na-caixa-cecilia-montagem.webp",
-      "imageAlt": "Cecília ao lado dos módulos do sofá Damie na Caixa.",
-      "imageCaption": "Os módulos separados facilitam a entrega e a montagem no ambiente.",
-      "imageFit": "portrait",
+      "image": {
+        "src": "/images/reviews/sofa-damie-na-caixa-cecilia-montagem-4x5.webp",
+        "alt": "Cecília ao lado dos módulos do sofá Damie na Caixa.",
+        "caption": "Os módulos separados facilitam a entrega e a montagem no ambiente.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8,
+        "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+      },
       "paragraphs": [
         "O nosso chegou com cada módulo na própria caixa. A casa tem corredor, curva e uma porta de quarto que estreita o caminho, e as caixas passaram. Abrimos tudo no meio da sala, separamos as peças e fomos encaixando, sem marceneiro: o que pede atenção é seguir a ordem de montagem.",
         "Pela página do produto, os módulos travam por encaixe, sem furadeira nem ferramentas pesadas. O esquema técnico da página mostra o sofá de 3 lugares com 260 cm de largura, 86 cm de profundidade e 92 cm de altura, com o assento a 44 cm do chão e 58 cm de fundo; cada lugar tem 80 cm de largura. A página não traz as medidas das caixas: se o acesso for apertado, peça à Damie antes de fechar a compra e compare com a porta, o elevador e o corredor.",
-        "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
+        "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste, frete e prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da DAMIE no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
         "A loja dá garantia de 1 ano e 30 dias para testar. Para devolver no teste, o sofá precisa voltar completo, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal. Por isso, guarde as caixas até o fim do teste."
       ]
     },
     {
       "heading": "Conforto e uso no dia a dia",
-      "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conforto.webp",
-      "imageAlt": "Cecília aproveitando o conforto do Sofá Damie Modular na sala.",
-      "imageCaption": "O uso diário do sofá se adapta a descanso, filmes e momentos em família.",
-      "imageFit": "portrait",
+      "image": {
+        "src": "/images/reviews/sofa-damie-na-caixa-cecilia-conforto-4x5.webp",
+        "alt": "Cecília aproveitando o conforto do Sofá Damie Modular na sala.",
+        "caption": "O uso diário do sofá se adapta a descanso, filmes e momentos em família.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8,
+        "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+      },
       "paragraphs": [
         "Usamos o sofá todos os dias há mais de um ano: para conversar, brincar com os filhos, ler e até cochilar. O uso vai de moderado a intenso, e o conforto, a estrutura e a parte elétrica continuam como no dia em que ele chegou. O puff fica na frente para esticar as pernas na TV e vira assento extra quando chega visita.",
         "Esse não é o tipo de compra que deve ser avaliada só pela foto. Vale pensar em profundidade do assento, altura do encosto, tecido, rotina da casa e quantidade de pessoas que realmente vão usar o sofá todos os dias."
@@ -175,40 +177,59 @@
       "heading": "Materiais, acabamento e personalização",
       "paragraphs": [
         "A Damie trabalha com uma linha de estofados mais premium, então a escolha do revestimento pesa bastante na experiência final. A página do produto oferece opções como Tecido Suede, Tecido Bouclé, Tecido Linho, Corino Importado e Couro Bovino.",
-        "Também há várias cores disponíveis, incluindo bege, marrom, cinza, preto, azul denim, caramelo, off white, verde militar e branco. Tecidos mais claros deixam o ambiente leve e sofisticado, enquanto tons escuros tendem a ser mais práticos para uso intenso.",
+        "Também há várias cores disponíveis. Tom escuro disfarça melhor o uso intenso; o claro pede mais cuidado.",
         "No nosso, azul denim, escolhemos dois opcionais: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico e mudam o preço.",
         "Antes de comprar, vale observar a rotina da casa: tem criança, pet, muita visita, sala quente, uso diário para TV ou uso mais decorativo? Essas respostas ajudam a escolher tecido, cor e configuração sem cair só na escolha estética."
       ]
     },
     {
-      "heading": "Veredito: vale o investimento?",
+      "heading": "Vale a pena o Sofá Damie na Caixa modular?",
       "paragraphs": [
-        "Para nós, valeu: depois de mais de um ano, o sofá é um dos móveis mais usados da casa. O puff serve para esticar as pernas na TV e vira assento extra nas visitas; tomada com USB e carregamento por indução foram opcionais escolhidos por nós.",
-        "Para decidir, compare acesso, medidas da sala, quantidade de módulos, tecido e preço da configuração completa. Se a entrada for estreita, peça as medidas das caixas à Damie."
+        "Para nós, valeu: depois de mais de um ano, o sofá é um dos móveis mais usados da casa, e os opcionais elétricos seguem funcionando.",
+        "Para decidir, compare acesso, medidas da sala, quantidade de módulos, tecido e preço da configuração completa. Se a entrada for estreita, peça as medidas das caixas à Damie.",
+        "O CECILIA12 dá 12% OFF em todo o site, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix, mas não com outro cupom nem com o giftback de 15%."
+      ],
+      "emphasis": "Na minha casa, eu escolheria de novo o modular de 3 lugares com puff, pela entrada em caixas e pelo puff que vira assento extra; antes, eu mediria porta, elevador e corredor.",
+      "links": [
+        {
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-damie-na-caixa-vale-a-pena-o-modular",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o sofá modular na DAMIE",
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom DAMIE",
+          "href": "/cupons/damie"
+        }
       ]
     },
     {
-      "heading": "Cupom CECILIA12",
-      "paragraphs": [
-        "O cupom CECILIA12 dá 12% OFF em todos os produtos do site da Damie, com qualquer forma de pagamento. Ele soma com as promoções do site, inclusive os 10% do Pix, mas não com outro cupom nem com o giftback de 15%.",
-        "A recomendação é comparar medidas, módulos e tecido com calma, simular a compra e aplicar o CECILIA12 no checkout para ver o valor final."
-      ],
-      "links": [
-        {
-          "label": "Regras do cupom CECILIA12",
-          "href": "/cupons/damie"
-        },
-        {
-          "label": "Usar cupom CECILIA12",
-          "href": "https://damie.emcasacomcecilia.com"
-        },
-        {
-          "label": "Comprar no site da Damie",
-          "href": "https://damie.com.br"
-        }
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix.",
+        "O Sofá Damie na Caixa passa por porta estreita e elevador pequeno? Os módulos chegam em caixas separadas, e as do nosso passaram por corredor, curva e porta de quarto. A página não traz as medidas das caixas: peça à DAMIE antes de comprar se o acesso for apertado.",
+        "O sofá modular precisa de ferramentas para montar? Pela página do produto, os módulos travam por encaixe, sem furadeira. Na nossa casa, montamos sem marceneiro, seguindo a ordem de montagem.",
+        "Quais são as medidas do modular de 3 lugares com puff? O esquema técnico da DAMIE mostra 260 cm de largura, 86 cm de profundidade e 92 cm de altura, com o assento a 44 cm do chão.",
+        "Dá para devolver o sofá no teste de 30 dias? Dá, com o sofá completo, na embalagem original e com a nota fiscal, e o pedido sai pelo WhatsApp da DAMIE. Por isso, guarde as caixas até o fim do teste.",
+        "Tem frete grátis para o sofá? Tem no Sul e no Sudeste. No Centro-Oeste, o frete sai pelo CEP; no Norte e no Nordeste, a venda é pelos anúncios da DAMIE no Mercado Livre, onde o cupom não vale."
       ]
     }
   ],
   "seoTitle": "Sofá Damie na Caixa vale a pena? Mais de 1 ano de uso",
-  "editorialNote": "Recebemos o sofá da Damie em parceria. O link é afiliado: comissão sem custo extra para você."
+  "editorialNote": "Recebemos o sofá da DAMIE em parceria. Link afiliado: comissão sem custo extra.",
+  "relatedArticles": [
+    {
+      "slug": "sofa-damie-modular-vale-a-pena"
+    },
+    {
+      "slug": "sofa-modular-ou-retratil-qual-escolher"
+    },
+    {
+      "slug": "poltrona-damie-e-boa"
+    }
+  ]
 }

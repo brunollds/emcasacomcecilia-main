@@ -2,7 +2,7 @@
   "id": 975,
   "slug": "damie-prazo-de-entrega",
   "title": "Prazo de entrega da DAMIE: quanto demora e como consultar",
-  "seoTitle": "Prazo de entrega da DAMIE: quanto demora",
+  "seoTitle": "Prazo de entrega da DAMIE: quanto demora e como consultar",
   "type": "Guia de Compra",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -28,12 +28,13 @@
   "cons": [],
   "cta": {
     "text": "No site, o frete aparece no cálculo com o seu CEP antes de você pagar. Use CECILIA12 no campo de cupom.",
-    "label": "Ver o cupom CECILIA12 da DAMIE",
-    "url": "/cupons/damie"
+    "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+    "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=damie-prazo-de-entrega",
+    "sponsored": true
   },
   "coupon": "CECILIA12",
   "affiliate": "damie",
-  "editorialNote": "A DAMIE é parceira do site, e a Cecília recebeu a Reclinável 2.0. As regras vêm das páginas da DAMIE, e os exemplos de previsão, de consultas aos anúncios, sem compra. Podemos receber comissão pelo cupom e pelos links.",
+  "editorialNote": "A DAMIE é parceira do site, e podemos receber comissão pelo cupom e pelos links.",
   "relatedArticles": [
     {
       "slug": "damie-mercado-livre-ou-site"
@@ -54,6 +55,9 @@
     },
     {
       "heading": "Onde consultar o prazo antes de comprar",
+      "paragraphs": [
+        "O prazo aparece antes do pagamento, em três lugares, conforme o canal da compra."
+      ],
       "comparisonTable": {
         "headers": [
           "Onde você compra",
@@ -163,15 +167,39 @@
           "src": "/images/reviews/damie/damie-prazo-de-entrega-eletrica-fixa-frente.webp",
           "alt": "Poltrona Reclinável Elétrica Base Fixa Damie 1.0 em suede bege, vista de frente",
           "caption": "A Elétrica Fixa 1.0 do site: a página dela informa passagem por portas de 65 cm. Imagem: DAMIE.",
-          "href": "https://damie.com.br",
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa",
           "objectFit": "contain",
           "aspectRatio": 1
         }
       ]
     },
     {
+      "heading": "O que fazer para a poltrona chegar sem susto",
+      "emphasis": "Na minha casa, eu consultaria a previsão pelo CEP antes de pagar, mediria a porta e o caminho até a sala e combinaria quem recebe a transportadora. Se a tela não mostrasse data, eu falaria com o atendimento da DAMIE antes de fechar o pedido.",
+      "paragraphs": [
+        "Quem precisa da poltrona para uma data certa deve deixar folga e guardar a previsão que aparecer no pedido."
+      ],
+      "links": [
+        {
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=damie-prazo-de-entrega",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a loja da DAMIE no Mercado Livre",
+          "href": "https://meli.la/2Uk6QB5",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom DAMIE",
+          "href": "/cupons/damie"
+        }
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele vale só no site, não nos anúncios do Mercado Livre.",
         "Quanto tempo a DAMIE demora para entregar? O prazo depende do endereço e do canal. No site, consulte a página do produto ou o carrinho; se não houver previsão, fale com o atendimento. No Mercado Livre, informe o CEP no anúncio.",
         "O frete da DAMIE é grátis? No Sul e no Sudeste, sim, para poltronas e sofás comprados no site. No Centro-Oeste, ele é calculado pelo CEP. No Mercado Livre, confira o frete do anúncio escolhido.",
         "A DAMIE entrega no Norte e no Nordeste? A marca atende essas regiões pelos anúncios oficiais no Mercado Livre. Informe o seu CEP no anúncio para ver a entrega, o frete e a previsão.",
@@ -180,7 +208,7 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-14",
+  "updatedAt": "2026-11-23",
   "decision": {
     "takeIf": [
       "A previsão que apareceu para o seu endereço atende à data em que você precisa da poltrona.",

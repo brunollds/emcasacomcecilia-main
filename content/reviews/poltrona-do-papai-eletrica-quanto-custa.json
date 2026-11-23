@@ -17,7 +17,7 @@
   "metaDescription": "CECILIA12 dá 12% OFF na poltrona do papai elétrica da DAMIE. Quanto custa cada faixa, do corino ao couro, e o que muda no preço.",
   "publishedAt": "9 de novembro de 2026",
   "publishedAtISO": "2026-11-09",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp",
@@ -28,9 +28,9 @@
   "cons": [],
   "contentSections": [
     {
-      "heading": "Resposta rápida: poltrona do papai elétrica",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "As poltronas do papai elétricas desta seleção vão de cerca de 2,4 mil a 6,5 mil reais, já com o CECILIA12 nas opções da DAMIE. A Matrix Porsche é a entrada; a DAMIE oferece um ano de garantia, teste em casa e 12% com o código. Compare abaixo os modelos por função e veja quais recursos você precisa."
+        "A entrada entre as elétricas desta seleção é a Matrix Porsche. Nas DAMIE, o CECILIA12 dá 12% no site, e elas têm um ano de garantia e 30 dias de teste em casa. O que decide é o movimento que você vai usar: só reclinar, girar ou ajudar a levantar; os quadros abaixo separam os modelos por função."
       ]
     },
     {
@@ -39,7 +39,7 @@
         "Escolha primeiro como a poltrona precisa se mover: apenas reclinar, girar ou ajudar a levantar. Depois compare o revestimento e os acessórios incluídos, porque eles também mudam o preço."
       ],
       "comparisonTable": {
-        "caption": "Menor e maior preço no cartão entre as poltronas deste guia, sem frete, em 9 de novembro. Os preços mudam sem aviso.",
+        "caption": "Menor e maior preço no cartão entre as poltronas deste guia, sem frete. DAMIE com preços do site em 23/11/2026; demais lojas lidas em 9 de novembro. Os preços mudam sem aviso.",
         "headers": [
           "Tipo de poltrona",
           "A partir de",
@@ -74,7 +74,7 @@
         ]
       },
       "postParagraphs": [
-        "Conta nossa: nas poltronas da DAMIE, os preços deste guia já têm os 12% do CECILIA12, e a coluna de Pix também tem os 10% que a loja dá nessa forma de pagamento. Nas outras marcas, o preço é o do anúncio. Essas marcas eu não testei: o que descrevo delas vem do que cada anúncio informa."
+        "Conta nossa: nas poltronas da DAMIE, os preços deste guia já têm os 12% do CECILIA12, e a coluna de Pix também tem os 10% que a loja dá nessa forma de pagamento. Nas outras marcas, o preço é o do anúncio."
       ]
     },
     {
@@ -94,7 +94,8 @@
           "src": "/images/reviews/damie/poltrona-do-papai-eletrica-chicago-gran-belo.webp",
           "alt": "Poltrona do papai elétrica Chicago, da Gran Belo, em PU caramelo, com o assento em matelassê",
           "caption": "Chicago, da Gran Belo, em PU. Foto: anúncio na Magalu.",
-          "objectFit": "square"
+          "objectFit": "contain",
+          "aspectRatio": 1
         }
       ],
       "comparisonTable": {
@@ -147,14 +148,16 @@
           "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
           "alt": "Poltrona Reclinável 2.0 elétrica com giro e balanço, em suede bege, com porta-copos nos braços",
           "caption": "A Reclinável 2.0 com giro e balanço, em suede. Foto: DAMIE.",
-          "objectFit": "square",
-          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+          "objectFit": "contain",
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+          "aspectRatio": 1
         },
         {
           "src": "/images/reviews/damie/poltrona-do-papai-eletrica-boston-gran-belo.webp",
           "alt": "Poltrona do papai elétrica Boston, da Gran Belo, em PU caramelo, com base giratória",
           "caption": "Boston, da Gran Belo, em PU. Foto: anúncio na Magalu.",
-          "objectFit": "square"
+          "objectFit": "contain",
+          "aspectRatio": 1
         }
       ],
       "comparisonTable": {
@@ -193,7 +196,8 @@
         "src": "/images/reviews/damie/poltrona-do-papai-eletrica-austin-lift-gran-belo.webp",
         "alt": "Poltrona elétrica Austin Lift da Gran Belo, em PU preto, com a base elevada para ajudar a levantar",
         "caption": "Austin Lift, da Gran Belo, em PU. Foto: anúncio na Magalu.",
-        "objectFit": "square"
+        "objectFit": "contain",
+        "aspectRatio": 1
       },
       "comparisonTable": {
         "caption": "Poltronas elétricas com elevação.",
@@ -205,7 +209,7 @@
         ],
         "rows": [
           [
-            "[Aurora, D'Rossi, na Magalu](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-massagem-reclinavel-elevacao-eletrica-aurora-sintetico-pu-d-rossi/p/cac56ka0c3/mo/polr/)",
+            "[Aurora, da D'Rossi, na Magalu](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-massagem-reclinavel-elevacao-eletrica-aurora-sintetico-pu-d-rossi/p/cac56ka0c3/mo/polr/)",
             "PU; elevação elétrica e massagem; garantia de 90 dias",
             "R$ 4.261,35",
             "R$ 3.749,99"
@@ -226,25 +230,34 @@
       },
       "postParagraphs": [
         "A Aurora da D'Rossi custa R$ 111,37 a menos que a DAMIE com o código no cartão, e R$ 185,46 a menos no Pix, em revestimento diferente e com garantia de 90 dias contra 1 ano. A Austin Lift é a mais cara das três e a única com aquecimento. Em caso de condição de saúde, converse antes com o médico."
+      ],
+      "links": [
+        {
+          "label": "Poltrona reclinável para idosos",
+          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Elétricas em couro: compare os modelos",
       "paragraphs": [
-        "Em couro e base fixa, a DAMIE sai abaixo das outras duas, no cartão e no Pix. Nenhuma das três páginas diz se o couro cobre a poltrona inteira, então pergunte à loja antes de comparar."
+        "Em couro e base fixa, a DAMIE sai abaixo das outras duas, nas duas colunas de preço. Na Reclinável 2.0, o couro cobre a poltrona inteira por fora; os anúncios da Condor e da Armênia não dizem, então pergunte antes de comparar."
       ],
       "images": [
         {
           "src": "/images/reviews/damie/poltrona-do-papai-eletrica-condor-ferguile.webp",
           "alt": "Poltrona do papai elétrica Condor, da Ferguile, em couro legítimo caramelo, em uma sala",
           "caption": "Condor, da Ferguile, em couro. Foto: anúncio na Magalu.",
-          "objectFit": "square"
+          "objectFit": "contain",
+          "aspectRatio": 1
         },
         {
           "src": "/images/reviews/damie/poltrona-do-papai-armenia-gran-belo.webp",
           "alt": "Poltrona do papai Armênia Power Touch, da Gran Belo, em couro conhaque",
           "caption": "Armênia, da Gran Belo, em couro. Foto: anúncio na Magalu.",
-          "objectFit": "square"
+          "objectFit": "contain",
+          "aspectRatio": 1
         }
       ],
       "comparisonTable": {
@@ -286,14 +299,15 @@
     {
       "heading": "Encosto e pés separados: a Levita",
       "paragraphs": [
-        "A Levita é a poltrona de maior preço deste guia. Ela permite regular os pés e o encosto separadamente, tem ajuste manual do apoio de pescoço e gira até 280°. Vale considerar esse gasto se você quer, por exemplo, elevar os pés sem reclinar o encosto na mesma proporção."
+        "A Levita é a poltrona de maior preço deste guia. Ela permite regular os pés e o encosto separadamente, tem ajuste manual do apoio de pescoço e gira 280°. Vale considerar esse gasto se você quer, por exemplo, elevar os pés sem reclinar o encosto na mesma proporção."
       ],
       "image": {
         "src": "/images/reviews/poltrona-levita.webp",
         "alt": "Poltrona DAMIE Levita elétrica em couro caramelo, reclinada, com base giratória preta",
         "caption": "A Levita elétrica, em couro. Foto: DAMIE.",
-        "objectFit": "square",
-        "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+        "objectFit": "contain",
+        "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita",
+        "aspectRatio": 1
       },
       "comparisonTable": {
         "caption": "Levita no site da DAMIE, com o CECILIA12.",
@@ -374,7 +388,7 @@
     {
       "heading": "Corino, PU ou couro: o que muda no preço",
       "paragraphs": [
-        "Na elétrica fixa da Reclinável 2.0, trocar suede por couro acrescenta R$ 1.450 antes do cupom; passar da manual para a elétrica em suede acrescenta R$ 780. O revestimento pode pesar mais no orçamento que a escolha pela versão elétrica. O acréscimo de R$ 100 para corino importado foi registrado na base fixa e na de giro e balanço."
+        "Na elétrica fixa da Reclinável 2.0, trocar suede por couro acrescenta R$ 1.450 antes do cupom; passar da manual para a elétrica em suede acrescenta R$ 780. O revestimento pode pesar mais no orçamento que a escolha pela versão elétrica. O corino importado acrescenta R$ 100 na base fixa e na de giro e balanço, e R$ 80 na manual e na de elevação."
       ],
       "comparisonTable": {
         "caption": "Quanto o preço da DAMIE sobe ao mudar o revestimento, na mesma base e sem o código.",
@@ -386,6 +400,10 @@
           [
             "Suede para corino importado, base fixa ou giro e balanço",
             "+R$ 100"
+          ],
+          [
+            "Suede para corino importado, manual ou elevação",
+            "+R$ 80"
           ],
           [
             "Suede para couro, base fixa",
@@ -413,7 +431,7 @@
       "heading": "Massagem, aquecimento e USB: incluídos, opcionais ou brinde de campanha",
       "paragraphs": [
         "O mesmo item pode estar incluído numa marca, ser opcional em outra e virar brinde durante uma campanha. Confira o que vale no dia da compra.",
-        "Na DAMIE, durante o Esquenta Black, a massagem por vibração, o USB e o porta-copos entram sem custo na 2.0. A página de ofertas dá a campanha até 27 de novembro. Fora dela, a massagem custa R$ 550 à parte, o USB, R$ 350, e o porta-copos, R$ 50. Na Levita, a massagem shiatsu é um opcional de R$ 1.000 e fica fora dos brindes.",
+        "Na DAMIE, durante a Black Friday, a massagem por vibração, a entrada USB e o porta-copos entram de brinde na compra da poltrona. A campanha vai até 27/11, enquanto durarem os estoques. Fora dela, a massagem custa R$ 550 à parte; o USB e o porta-copos já vinham de brinde antes da campanha. Na Levita, a massagem shiatsu é um opcional de R$ 1.000.",
         "Na Chicago, na Boston e na Austin Lift, o anúncio já traz massagem e aquecimento no preço, e na Aurora da D'Rossi, massagem. Cada anúncio descreve o sistema de um jeito, e só usei o da 2.0, então leia o que cada um diz antes de tratar os itens como iguais.",
         "A massagem deve pesar na escolha se você pretende usá-la. Além do preço, compare o tipo de sistema descrito em cada modelo; ter “massagem” no anúncio não garante a mesma sensação de uso. Para dor ou recuperação, converse com o profissional que acompanha você."
       ],
@@ -428,7 +446,8 @@
         },
         {
           "label": "Guia da poltrona do papai com massagem",
-          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem"
+          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem",
+          "sponsored": true
         }
       ]
     },
@@ -461,7 +480,7 @@
           [
             "[Elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
             "R$ 4.372,72",
-            "Sem preço registrado",
+            "R$ 4.443,12",
             "R$ 5.411,12"
           ]
         ]
@@ -474,11 +493,13 @@
       "links": [
         {
           "label": "Elétrica ou manual: o guia da poltrona reclinável elétrica",
-          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-eletrica"
+          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-eletrica",
+          "sponsored": true
         },
         {
           "label": "Qual poltrona reclinável elétrica escolher",
-          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-eletrica-qual-escolher"
+          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-eletrica-qual-escolher",
+          "sponsored": true
         }
       ]
     },
@@ -491,35 +512,8 @@
         "**Frete.** A DAMIE informa frete grátis para Sul e Sudeste e cálculo por CEP para o Centro-Oeste. Norte e Nordeste são atendidos pelos anúncios oficiais no Mercado Livre, onde o CECILIA12 não vale. Nas outras marcas, simule a entrega antes de comparar o total.",
         "**Garantia.** A loja informa: a DAMIE dá um ano de garantia, suporte vitalício e peças a preço de custo. Nos demais modelos com prazo publicado nesta seleção, a garantia informada é de três meses ou 90 dias; a página da Flora não informa. Inclua essa diferença na comparação de preço.",
         "**Devolução.** A DAMIE dá 30 dias de teste em casa. Para devolver, a poltrona precisa voltar completa, na embalagem original e sem sinais de uso severo ou sujeira, então guarde a caixa. Em marketplace, veja quem vende e como funciona a devolução de um móvel desse tamanho."
-      ]
-    },
-    {
-      "heading": "Qual compensa para cada perfil",
-      "paragraphs": [
-        "Eu escolheria pelo movimento de que preciso, pelo que pretendo gastar e pelos recursos que vou usar. Os perfis abaixo ajudam a separar essas decisões."
       ],
-      "bullets": [
-        "**Orçamento menor:** a [Matrix Porsche](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-reclinavel-eletrica-moderna-matrix-porsche/p/235605600/mo/mpol/) é a opção de entrada, com controle remoto. A garantia informada é de três meses.",
-        "**Aquecimento:** a [Chicago](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-eletrica-reclinavel-chicago-com-aquecimento-massagem-e-porta-copos-entrada-usb-usb-c-pu-caramelo-g94-gran-belo/p/ga9k5a3626/mo/polr/) reúne massagem e aquecimento no encosto. Ela reclina até 160° e usa revestimento PU.",
-        "**Base fixa com garantia de um ano e teste em casa:** eu consideraria a [Reclinável 2.0 em suede](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.299,12 com o CECILIA12 no cartão. A página dela não anuncia aquecimento.",
-        "**Giro e balanço:** a [Reclinável 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.783,12 em suede com o CECILIA12, reúne os dois movimentos e reclina até 145°. A Boston é a alternativa do quadro para quem prefere giro mais amplo e aquecimento.",
-        "**Ajuda para se levantar:** compare a [Aurora da D'Rossi](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-massagem-reclinavel-elevacao-eletrica-aurora-sintetico-pu-d-rossi/p/cac56ka0c3/mo/polr/) com a [Reclinável 2.0 com elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.372,72 em suede com o CECILIA12. A diferença no cartão é de R$ 111,37; revestimento e garantia também mudam.",
-        "**Couro:** a [Reclinável 2.0 fixa em couro bovino](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.575,12 com o CECILIA12, fica abaixo da Condor e da Armênia nos preços apresentados. Confirme quais partes recebem couro antes de escolher por esse critério.",
-        "**Pés e encosto regulados separadamente:** a [Levita](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita), por R$ 5.632 em linho ou R$ 6.512 em couro com o CECILIA12, permite ajustar os pés e o encosto em posições diferentes. Esse é o motivo para considerá-la se a reclinação conjunta não atende você."
-      ],
-      "emphasis": "Escolha a poltrona pelo movimento de que você precisa. Depois compare o preço com frete, a garantia e a facilidade de limpeza do revestimento.",
-      "image": {
-        "src": "/images/reviews/poltrona-levita-cecilia-sala.webp",
-        "alt": "Cecília Mauad reclinada na poltrona DAMIE Levita em couro caramelo, na sala de casa",
-        "caption": "A Levita em couro, aqui em casa.",
-        "objectFit": "portrait",
-        "aspectRatio": 0.5625
-      },
       "links": [
-        {
-          "label": "Poltrona reclinável para idosos",
-          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos"
-        },
         {
           "label": "Presente de Natal para a casa: móveis",
           "href": "/reviews/presente-de-natal-para-casa-moveis"
@@ -527,13 +521,53 @@
       ]
     },
     {
+      "heading": "Qual compensa para cada perfil",
+      "paragraphs": [
+        "Eu escolheria pelo movimento de que preciso, pelo que pretendo gastar e pelos recursos que vou usar."
+      ],
+      "bullets": [
+        "**Orçamento menor:** a [Matrix Porsche](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-reclinavel-eletrica-moderna-matrix-porsche/p/235605600/mo/mpol/) é a opção de entrada, com controle remoto. A garantia informada é de três meses.",
+        "**Aquecimento:** a [Chicago](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-eletrica-reclinavel-chicago-com-aquecimento-massagem-e-porta-copos-entrada-usb-usb-c-pu-caramelo-g94-gran-belo/p/ga9k5a3626/mo/polr/) reúne massagem e aquecimento no encosto. Ela reclina até 160° e usa revestimento PU.",
+        "**Base fixa com garantia de um ano e teste em casa:** eu consideraria a [Reclinável 2.0 em suede](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.299,12 com o CECILIA12 no cartão. A página dela não anuncia aquecimento.",
+        "**Giro e balanço:** a [Reclinável 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.783,12 em suede com o CECILIA12, reúne os dois movimentos e reclina até 145°. A Boston é a alternativa do quadro para quem prefere giro mais amplo e aquecimento.",
+        "**Ajuda para se levantar:** compare a [Aurora da D'Rossi](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-massagem-reclinavel-elevacao-eletrica-aurora-sintetico-pu-d-rossi/p/cac56ka0c3/mo/polr/) com a [Reclinável 2.0 com elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.372,72 em suede com o CECILIA12. A diferença no cartão é de R$ 111,37; revestimento e garantia também mudam.",
+        "**Couro:** a [Reclinável 2.0 fixa em couro bovino](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.575,12 com o CECILIA12, fica abaixo da Condor e da Armênia nos preços apresentados. Nas outras duas, confirme quais partes recebem couro.",
+        "**Pés e encosto regulados separadamente:** a [Levita](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita), por R$ 5.632 em linho ou R$ 6.512 em couro com o CECILIA12, permite ajustar os pés e o encosto em posições diferentes. Esse é o motivo para considerá-la se a reclinação conjunta não atende você."
+      ],
+      "emphasis": "Na minha casa, eu ficaria com a Reclinável 2.0 fixa em suede com o CECILIA12 se bastasse reclinar no botão, e só pagaria a mais por giro, elevação ou Levita se fosse usar esse movimento todo dia. Antes de fechar, eu compararia frete e garantia, não só o preço.",
+      "image": {
+        "src": "/images/reviews/poltrona-levita-cecilia-sala-4x5.webp",
+        "alt": "Cecília Mauad reclinada na poltrona DAMIE Levita em couro caramelo, na sala de casa",
+        "caption": "A Levita em couro, aqui em casa.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8,
+        "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+      },
+      "links": [
+        {
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-do-papai-eletrica-quanto-custa",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a Reclinável 2.0 na DAMIE",
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom DAMIE",
+          "href": "/cupons/damie"
+        }
+      ]
+    },
+    {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Soma com as promoções, o Pix e o desconto por quantidade, mas não vale no Mercado Livre nem soma com outro cupom.",
         "Cadeira do papai, poltrona do papai e poltrona reclinável são a mesma coisa? Na prática, sim: os três nomes falam da poltrona que reclina o encosto e abre o apoio para os pés. O que muda é se ela é manual ou elétrica.",
-        "Quanto custa uma poltrona do papai elétrica? Os preços desta seleção começam perto de 2,4 mil reais e chegam a cerca de 6,5 mil, considerando o CECILIA12 nas opções da DAMIE, antes do frete. Os quadros por função mostram o valor de cada modelo.",
+        "Quanto custa uma poltrona do papai elétrica? A entrada é a Matrix Porsche e a Levita em couro é a mais cara desta seleção, considerando o CECILIA12 nas opções da DAMIE, antes do frete. Os quadros por função mostram o valor de cada modelo.",
         "Qual a poltrona do papai com melhor custo-benefício? Depende do que você vai usar. Para gastar menos com motor, a Matrix Porsche; para massagem e aquecimento no pacote, a Chicago; para garantia de 1 ano e teste em casa, a Reclinável 2.0 fixa em suede com o CECILIA12.",
-        "A poltrona do papai elétrica tem controle remoto? Depende do modelo. A Matrix Porsche e a Flora têm controle remoto, a Chicago usa botão lateral, a Armênia tem dois botões junto ao assento e a Reclinável 2.0 fixa reclina por botões ou controle.",
-        "Tem cupom para poltrona do papai elétrica? Tem na DAMIE: o CECILIA12 dá 12% no site, em todas as formas de pagamento, e soma com as promoções, o Pix e o desconto por quantidade. Ele não vale no Mercado Livre e não soma com outro cupom nem com o giftback."
+        "A poltrona do papai elétrica tem controle remoto? Depende do modelo. A Matrix Porsche e a Flora têm controle remoto, a Chicago usa botão lateral, a Armênia tem dois botões junto ao assento e a Reclinável 2.0 reclina por botões no braço; o controle remoto dela é o da massagem."
       ]
     }
   ],
@@ -546,7 +580,7 @@
     "skipIf": [
       "Passe a faixa de entrada se você quer mais que três meses de garantia numa peça com motor.",
       "Passe o giro e a elevação se o que mais importa é deitar o máximo possível.",
-      "Passe a oferta se você comparou só o preço, sem base, revestimento e frete."
+      "Passe o site da DAMIE se você mora no Norte ou no Nordeste: lá a compra é pelo Mercado Livre, onde o CECILIA12 não vale."
     ]
   },
   "cta": {
@@ -557,7 +591,7 @@
   },
   "coupon": "CECILIA12",
   "affiliate": "damie",
-  "editorialNote": "Recebemos poltronas DAMIE em parceria e podemos receber comissão pelo cupom e pelos links.",
+  "editorialNote": "Recebemos poltronas DAMIE em parceria; links com comissão. Outras marcas não testadas.",
   "relatedArticles": [
     {
       "slug": "poltrona-do-papai-black-friday"
@@ -568,5 +602,6 @@
     {
       "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
     }
-  ]
+  ],
+  "bodyDatesReason": "campanha"
 }

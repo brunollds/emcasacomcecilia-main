@@ -6,43 +6,38 @@
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
   "draft": false,
-  "description": "Histórico de reclamações da Sofá na Caixa: o que a imprensa registrou sobre o Procon-SP, o painel de maio a outubro de 2026 no Reclame Aqui e os canais para reclamar.",
-  "seoTitle": "O que aconteceu com a Sofá na Caixa?",
-  "metaDescription": "Sofá na Caixa: histórico de reclamações, lista do Procon-SP atualizada em 12/05/2026 e nota 6,4 no Reclame Aqui, no recorte de maio a outubro de 2026.",
+  "description": "Histórico de reclamações da Sofá na Caixa: o que a imprensa registrou sobre o Procon-SP, a reputação suspensa no Reclame Aqui e os canais para reclamar.",
+  "seoTitle": "O que aconteceu com a Sofá na Caixa? RA e Procon-SP",
+  "metaDescription": "CECILIA12 dá 12% OFF na DAMIE. Sofá na Caixa: reputação suspensa no Reclame Aqui e fora da lista Evite Estes Sites do Procon-SP. Veja o histórico.",
   "publishedAt": "10 de agosto de 2026",
   "publishedAtISO": "2026-08-10",
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-23",
   "image": "/images/reviews/sofa-na-caixa/sofa-na-caixa-crise-reclamacoes-procon-sp-capa-v2.webp",
   "imageAlt": "Close ilustrativo de caixas de papelão sem marca sobre madeira, com o logo do Em Casa com Cecília e a pergunta “Sofá na Caixa: o que aconteceu?”.",
-  "pros": [
-    "Canais públicos e gratuitos para registrar queixas: Procon-SP, Consumidor.gov.br e Reclame Aqui",
-    "99,8% das reclamações respondidas no Reclame Aqui, no recorte de maio a outubro de 2026",
-    "Juizado Especial Cível não cobra custas em 1ª instância para causas de até 40 salários mínimos"
-  ],
-  "cons": [
-    "Selo Regular no Reclame Aqui, nota geral 6,4 e nota do consumidor 5,04, no recorte de maio a outubro de 2026",
-    "59,8% de reclamações resolvidas e 54,4% de clientes que voltariam a fazer negócio nesse recorte",
-    "Histórico de fiscalização e notificações por órgãos de defesa do consumidor, segundo a imprensa"
-  ],
+  "pros": [],
+  "cons": [],
   "affiliate": "damie",
-  "editorialNote": "Artigo informativo, com fontes públicas. O Em Casa com Cecília mantém parceria de afiliado com a Damie e pode receber comissão em compras, sem custo extra para você.",
+  "editorialNote": "Fontes públicas. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
   "contentSections": [
     {
-      "heading": "Resumo rápido",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "A Sofá na Caixa viralizou com sofás modulares em caixa e acumulou reclamações por atraso e estorno pendente; a imprensa registrou fiscalização do Procon-SP. No Reclame Aqui, de maio a outubro de 2026, aparece como Regular, nota 6,4. Ela não consta na lista de sites a evitar do Procon-SP, o que não encerra a investigação nem garante a compra."
+        "A Sofá na Caixa viralizou com sofás modulares em caixa e acumulou reclamações por atraso e estorno pendente; a imprensa registrou fiscalização do Procon-SP. No Reclame Aqui, a reputação está suspensa, segundo a própria plataforma. Ela não consta na lista Evite Estes Sites do Procon-SP, o que não encerra a investigação nem garante a compra."
       ]
     },
     {
       "heading": "Da fama nas redes sociais a um problema real",
       "paragraphs": [
-        "Sofás modulares entregues em caixas compactas, para montar em casa, viraram uma das buscas mais fortes do mobiliário online no Brasil entre 2024 e 2025. Entre as marcas que mais se destacaram nesse movimento está a Sofá na Caixa, fundada em 2024 por Rubens Stuque, que ganhou visibilidade rápida com uma campanha de marketing digital agressiva e chegou a ser citada em reportagem da revista Forbes sobre o faturamento expressivo da primeira semana de operação.",
+        "Sofás modulares entregues em caixas compactas ganharam espaço nas redes entre 2024 e 2025. Uma das marcas mais vistas foi a Sofá na Caixa, fundada em 2024 por Rubens Stuque, que cresceu rápido com marketing digital.",
         "Segundo reportagens publicadas em 2025, o crescimento acelerado foi seguido por reclamações de atraso, falta de entrega e dificuldades para obter reembolso. Em entrevista à BBC News Brasil, o fundador reconheceu pedidos em atraso e citou desafios logísticos e custos de insumos entre os fatores enfrentados pela empresa."
       ],
-      "image": "/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png",
-      "imageAlt": "Manchete de reportagem da BBC News Brasil sobre a explosão de reclamações contra a Sofá na Caixa",
-      "imageCaption": "Reportagem da BBC News Brasil, republicada via O Povo.",
-      "imageFit": "wide"
+      "image": {
+        "src": "/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png",
+        "alt": "Manchete de reportagem da BBC News Brasil sobre a explosão de reclamações contra a Sofá na Caixa",
+        "caption": "Reportagem da BBC News Brasil, republicada via O Povo.",
+        "objectFit": "contain",
+        "aspectRatio": 3.1948
+      }
     },
     {
       "heading": "A linha do tempo da crise",
@@ -50,9 +45,9 @@
         "Da fundação à fiscalização, os marcos entre 2024 e 2025, conforme as reportagens da BBC News Brasil e da Exame:"
       ],
       "bullets": [
-        "2024 — A empresa é fundada e expande suas operações de vendas nas redes sociais",
-        "2025 — Segundo a Exame, o Procon-SP abre investigação e notifica a empresa diante do aumento de reclamações por atrasos e falta de entrega",
-        "Outubro de 2025 — Reportagem da BBC News Brasil documenta a abertura de investigações por órgãos de defesa do consumidor e reúne relatos de clientes aguardando entregas ou reembolsos"
+        "2024: a empresa é fundada e expande suas operações de vendas nas redes sociais",
+        "2025: segundo a Exame, o Procon-SP abre investigação e notifica a empresa diante do aumento de reclamações por atrasos e falta de entrega",
+        "Outubro de 2025: reportagem da BBC News Brasil documenta a abertura de investigações por órgãos de defesa do consumidor e reúne relatos de clientes aguardando entregas ou reembolsos"
       ],
       "links": [
         {
@@ -66,36 +61,67 @@
       ]
     },
     {
-      "heading": "Os números no Reclame Aqui: raio-X de atendimento nos últimos 6 meses",
+      "heading": "A reputação no Reclame Aqui: suspensa",
       "paragraphs": [
-        "No Reclame Aqui (painel dos últimos seis meses, de maio a outubro de 2026), a Sofá na Caixa responde quase tudo, mas resolve cerca de 6 em cada 10 reclamações; a Damie, no mesmo recorte, resolve mais de 8 em cada 10. Os detalhes estão nos itens abaixo."
+        "No Reclame Aqui, a página da Sofá na Caixa traz este aviso: \"A reputação da empresa está suspensa porque há irregularidades dentro e/ou fora do Reclame AQUI.\" A frase é do Reclame Aqui, que não detalha o motivo. O histórico do painel mostra \"Suspensa\" em todos os meses do semestre.",
+        "Com a reputação suspensa, a plataforma não divulga resolvidas, \"voltariam a fazer negócio\" nem a nota do consumidor da Sofá na Caixa. Os números que existem estão na tabela, ao lado dos da DAMIE no mesmo período. Volume absoluto de reclamações não é taxa de falhas por pedido: uma empresa que vende mais tende a receber mais."
       ],
-      "bullets": [
-        "Sofá na Caixa — Reclamações no período: 7.119 recebidas, 99,8% respondidas",
-        "Sofá na Caixa — Reputação e solução: selo Regular, nota geral 6,4/10, 59,8% de reclamações resolvidas, 54,4% de intenção de voltar a fazer negócio e nota do consumidor 5,04/10",
-        "Damie — Reclamações no período: 192 recebidas, 100% respondidas",
-        "Damie — Reputação e solução: selo Boa, nota geral 7,9/10, 83,1% de solução e 70,2% de intenção de voltar a fazer negócio"
-      ],
+      "comparisonTable": {
+        "caption": "Reclame Aqui, janela de 01/05 a 31/10/2026",
+        "headers": [
+          "",
+          "Sofá na Caixa",
+          "DAMIE (Damie Móveis)"
+        ],
+        "rows": [
+          [
+            "Reputação",
+            "Suspensa",
+            "Boa, nota 7,9"
+          ],
+          [
+            "Reclamações recebidas",
+            "6.255",
+            "192"
+          ],
+          [
+            "Respondidas",
+            "99,9%",
+            "100%"
+          ],
+          [
+            "Reclamações avaliadas",
+            "4.147",
+            "125"
+          ],
+          [
+            "Resolvidas, entre as avaliadas",
+            "Dado não disponível",
+            "83,2%"
+          ],
+          [
+            "Voltariam a fazer negócio, entre as avaliadas",
+            "Dado não disponível",
+            "70,4%"
+          ],
+          [
+            "Nota do consumidor",
+            "Dado não disponível",
+            "6,78"
+          ],
+          [
+            "Tempo médio de resposta",
+            "1 dia e 18 horas",
+            "15 horas"
+          ]
+        ]
+      },
       "postParagraphs": [
-        "Como todo indicador de Reclame Aqui, esse número muda com o tempo: vale conferir o painel atualizado direto no site antes de tirar qualquer conclusão. As capturas de tela abaixo são de agosto e mostram números mais antigos que os do texto: nelas, a Sofá na Caixa tinha 6.766 reclamações e a Damie, 258."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp",
-          "alt": "Painel do Reclame Aqui da Sofá na Caixa com números mais antigos",
-          "caption": "Painel da Sofá na Caixa no Reclame Aqui com números anteriores: os do texto são os mais recentes.",
-          "objectFit": "portrait"
-        },
-        {
-          "src": "/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp",
-          "alt": "Painel do Reclame Aqui da Damie com números mais antigos",
-          "caption": "Painel da Damie no Reclame Aqui com números anteriores: os do texto são os mais recentes.",
-          "objectFit": "portrait"
-        }
+        "Na aba Geral, que soma até três anos, a Sofá na Caixa tem 22.089 reclamações recebidas e 99,7% respondidas, e o atraso na entrega é o principal problema, com 40,4%. A aba Geral e o semestre são períodos diferentes e não se misturam. A reputação completa da DAMIE está em [DAMIE no Reclame Aqui](/reviews/damie-reclame-aqui-o-que-os-dados-mostram)."
       ],
       "links": [
         {
-          "label": "Consultar painel da Sofá na Caixa no Reclame Aqui",
+          "label": "Consultar a página da Sofá na Caixa no Reclame Aqui",
           "href": "https://www.reclameaqui.com.br/empresa/sofa-na-caixa/"
         }
       ]
@@ -103,16 +129,20 @@
     {
       "heading": "Consulta à lista 'Evite Estes Sites' do Procon-SP",
       "paragraphs": [
-        "Em 2025, segundo apuração da revista Exame, o Procon-SP abriu procedimento de investigação contra a Sofá na Caixa motivado pelo aumento de notificações por atrasos e pedidos não entregues.",
-        "Na versão pública da lista \"Evite Estes Sites\" (atualizada em 12/05/2026), o domínio sofanacaixa.com.br e a empresa não constam. Isso não encerra as investigações nem garante uma compra sem problemas: a lista é outra consulta, separada das reclamações e da fiscalização."
+        "Em 2025, segundo a revista Exame, o Procon-SP abriu procedimento de investigação contra a Sofá na Caixa, motivado pelo aumento de notificações por atrasos e pedidos não entregues.",
+        "Na versão pública da lista \"Evite Estes Sites\" do Procon-SP (atualizada em 12/05/2026), o domínio sofanacaixa.com.br e a empresa não constam. Isso não encerra investigações nem garante uma compra sem problemas: a lista é uma consulta administrativa separada das reclamações e da fiscalização."
       ],
       "bullets": [
-        "Confira você mesmo a lista Evite Estes Sites e o painel Empresas Reclamadas antes de pagar, porque a situação muda."
+        "O painel \"Empresas Reclamadas\" do Procon-SP é outra consulta, sobre atendimentos abertos. Confira a lista e o painel no site do órgão antes de pagar, porque a situação muda."
       ],
       "links": [
         {
-          "label": "Consultar lista Evite Estes Sites do Procon-SP",
+          "label": "Consultar a lista Evite Estes Sites do Procon-SP",
           "href": "https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
+        },
+        {
+          "label": "Entender a consulta Empresas Reclamadas do Procon-SP",
+          "href": "https://www.procon.sp.gov.br/carta-de-servicos/"
         }
       ]
     },
@@ -130,65 +160,67 @@
       ]
     },
     {
-      "heading": "Procon-SP: comparação de registros no painel \"Empresas Reclamadas\"",
+      "heading": "Vale comprar da Sofá na Caixa ou escolher outra marca?",
       "paragraphs": [
-        "Transparência comercial: o Em Casa com Cecília mantém parceria de afiliado com a marca Damie e pode receber comissão em compras originadas pelo site, sem custo extra para o leitor. A comparação abaixo é só um retrato de volume, não uma prova de qualidade.",
-        "No painel \"Empresas Reclamadas\" do Procon-SP, a Sofá na Caixa somava 1.125 queixas e a Damie, 6, em números anteriores aos de hoje. As capturas não mostram o período nem o filtro, e volume absoluto não é taxa de falhas por pedido: uma empresa que vende muito mais tende a receber mais queixas.",
-        "A pesquisa \"Empresas Reclamadas\" quantifica os atendimentos abertos no Procon-SP. Ela não se confunde com a lista \"Evite Estes Sites\", que é uma consulta administrativa separada."
+        "A resposta depende do que você aceita arriscar. Com a reputação suspensa no Reclame Aqui, o histórico de atrasos registrado pela imprensa e o aviso da própria plataforma, o mínimo é conferir o painel e o prazo do pedido no dia da compra, guardar os comprovantes e pagar de um jeito que dê para contestar.",
+        "Se o que você procura é um sofá modular com teste em casa, a DAMIE dá 30 dias, com a embalagem original guardada, 1 ano de garantia e o CECILIA12 com 12% OFF em todas as formas de pagamento. A comparação item a item está em [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie)."
       ],
-      "bullets": [
-        "Sofá na Caixa: 1.125 queixas registradas no painel do Procon-SP",
-        "Damie: 6 queixas registradas no mesmo painel do órgão paulista"
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp",
-          "alt": "Painel Empresas Reclamadas do Procon-SP para Sofá na Caixa, com 1.125 registros",
-          "caption": "Painel Empresas Reclamadas do Procon-SP: Sofá na Caixa com 1.125 registros, em números anteriores.",
-          "objectFit": "contain"
-        },
-        {
-          "src": "/images/reviews/sofa-na-caixa/procon-sp-damie-pesquisa.webp",
-          "alt": "Painel Empresas Reclamadas do Procon-SP para Damie, com 6 registros",
-          "caption": "Painel Empresas Reclamadas do Procon-SP: Damie com 6 registros, em números anteriores.",
-          "objectFit": "contain"
-        }
-      ],
+      "image": {
+        "src": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito-4x5.webp",
+        "alt": "Sofá modular DAMIE azul montado na sala da Cecília.",
+        "caption": "O sofá modular da DAMIE na nossa sala, recebido em parceria.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8,
+        "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+      },
+      "emphasis": "Eu não fecharia pedido com a Sofá na Caixa sem conferir o painel e o prazo no mesmo dia. Querendo teste de 30 dias, eu compraria o sofá da DAMIE com o CECILIA12.",
       "links": [
         {
-          "label": "Entender a consulta Empresas Reclamadas do Procon-SP",
-          "href": "https://www.procon.sp.gov.br/carta-de-servicos/"
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-na-caixa-crise-reclamacoes-procon-sp",
+          "sponsored": true
         },
         {
-          "label": "Ver a reputação completa da Damie no Reclame Aqui",
-          "href": "/reviews/damie-reclame-aqui-o-que-os-dados-mostram"
+          "label": "Ver o cupom DAMIE",
+          "href": "/cupons/damie"
         }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas e enfrentou um pico de atrasos de entrega e reclamações em 2025, que o fundador, segundo a BBC News Brasil, atribuiu a desafios logísticos e custos de insumos. No Reclame Aqui, a marca responde quase todas as queixas, mas resolve cerca de 6 em cada 10; os números estão no capítulo sobre o Reclame Aqui.",
-        "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Na última versão publicada da lista, o domínio oficial não aparece. A ausência nessa lista não informa o resultado de uma investigação nem garante a compra.",
-        "Qual é a nota da Sofá na Caixa no Reclame Aqui? No recorte mais recente de seis meses, a marca tem selo Regular e nota 6,4. Ela responde quase todas as queixas (99,8%), mas resolve cerca de 6 em cada 10; os demais números estão no capítulo sobre o Reclame Aqui.",
-        "O que fazer se comprei e não recebi o produto? Guarde todos os comprovantes, notas fiscais e conversas. O Código de Defesa do Consumidor garante o direito ao reembolso ou cumprimento da oferta. É possível registrar queixa no Procon-SP ou Consumidor.gov.br e recorrer ao Juizado Especial Cível (sem advogado até 20 salários mínimos; com advogado entre 20 e 40 salários mínimos)."
-      ]
-    },
-    {
-      "heading": "Fontes",
-      "paragraphs": [
-        "Este artigo se baseia nas seguintes fontes públicas:"
-      ],
-      "bullets": [
-        "Procon-SP — lista 'Evite Estes Sites' e painel 'Empresas Reclamadas'",
-        "BBC News Brasil — 'Como Sofá na Caixa foi de sucesso viral nas redes à explosão de reclamações de clientes' (outubro/2025, republicado via O Povo)",
-        "Exame — 'Sofá na Caixa: Procon-SP abre investigação contra empresa após 500 reclamações' (julho/2025)",
-        "Reclame Aqui — painel público de reputação de empresas de móveis"
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento.",
+        "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas e enfrentou um pico de atrasos de entrega e reclamações em 2025, que o fundador, segundo a BBC News Brasil, atribuiu a desafios logísticos e custos de insumos.",
+        "Qual é a situação da Sofá na Caixa no Reclame Aqui? A reputação está suspensa. O Reclame Aqui informa na página: \"A reputação da empresa está suspensa porque há irregularidades dentro e/ou fora do Reclame AQUI.\" Ele não detalha o motivo.",
+        "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Na última versão publicada da lista, o domínio oficial não aparece. A ausência não informa o resultado de uma investigação nem garante a compra.",
+        "O que fazer se comprei e não recebi o produto? Guarde comprovantes, notas fiscais e conversas. O Código de Defesa do Consumidor garante o reembolso ou o cumprimento da oferta. Registre queixa no Procon do seu estado ou no Consumidor.gov.br e, se for preciso, recorra ao Juizado Especial Cível, sem advogado em causas de até 20 salários mínimos."
       ]
     }
   ],
   "isNew": false,
   "imageAspect": "landscape",
   "imageFit": "contain",
-  "bodyDatesReason": "reclame-aqui"
+  "bodyDatesReason": "reclame-aqui",
+  "coupon": "CECILIA12",
+  "decision": {
+    "takeIf": [
+      "Você quer um sofá modular com 30 dias de teste em casa, guardando a embalagem original.",
+      "Você quer 1 ano de garantia e mora no Sul ou no Sudeste, onde o frete da DAMIE é grátis."
+    ],
+    "skipIf": [
+      "Você mora no Norte ou no Nordeste: a DAMIE só atende pelo Mercado Livre, onde o CECILIA12 não vale.",
+      "Você não tem onde guardar as caixas durante os 30 dias do teste."
+    ]
+  },
+  "relatedArticles": [
+    {
+      "slug": "sofa-na-caixa-inflow-ou-damie"
+    },
+    {
+      "slug": "damie-reclame-aqui-o-que-os-dados-mostram"
+    },
+    {
+      "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais"
+    }
+  ]
 }

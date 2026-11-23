@@ -28838,7 +28838,7 @@ export const reviewsData: unknown[] = [
       "Base elétrica com giro de 180° e balanço suave (modelo testado)",
       "Motor independente de cabeça e pescoço que melhora o apoio para ler ou ver TV",
       "Acessórios modulares (luminária touch, suporte de tablet e mesa giratória)",
-      "Revestimento em Courino Importado praticamente impermeável: nos nossos testes, líquidos saíram com pano",
+      "Revestimento em corino importado fácil de limpar: nos nossos testes, líquidos saíram com pano úmido",
       "Estrutura em eucalipto e compensado naval, com mecanismo em aço carbono",
       "Sistema de massagem por vibração silencioso no uso diário"
     ],
@@ -28847,7 +28847,7 @@ export const reviewsData: unknown[] = [
       "Opcionais de tecnologia (motores extras, massagem e indução) encarecem o produto",
       "Exige uma tomada próxima na sala para alimentar os motores elétricos"
     ],
-    "pullQuote": "Parece um abraço ou um colo de mãe. A Poltrona Reclinável 2.0 une o relaxamento da reclinação elétrica silenciosa com a praticidade de uma mesa giratória e revestimento praticamente impermeável.",
+    "pullQuote": "Parece um abraço ou um colo de mãe. A Poltrona Reclinável 2.0 une o relaxamento da reclinação elétrica silenciosa com a praticidade de uma mesa giratória e revestimento fácil de limpar.",
     "verdict": {
       "stars": 5,
       "recommendation": "recomendo",
@@ -28856,7 +28856,7 @@ export const reviewsData: unknown[] = [
     "productSpec": [
       {
         "key": "Marca",
-        "value": "Damie"
+        "value": "DAMIE"
       },
       {
         "key": "Versão",
@@ -28868,11 +28868,11 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Revestimento",
-        "value": "Courino Importado caramelo (praticamente impermeável)"
+        "value": "Corino importado caramelo (fácil de limpar)"
       },
       {
         "key": "Dimensões",
-        "value": "106,5 cm (A) × 89 cm (P) × 95 cm (L)"
+        "value": "106 cm (A) × 89 cm (L) × 95 cm (P)"
       },
       {
         "key": "Comprimento reclinada",
@@ -28880,29 +28880,29 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Capacidade",
-        "value": "150 kg nas versões elétricas e manuais e 160 kg na versão com elevação, segundo o guia da Damie"
+        "value": "A página da DAMIE traz números diferentes (160 kg nos destaques e 120 kg na descrição); confirme com a loja antes de comprar"
       },
       {
         "key": "Cupom de Desconto",
-        "value": "CECILIA12 (12% OFF no site da Damie)",
+        "value": "CECILIA12 (12% OFF no site da DAMIE)",
         "highlight": true
       }
     ],
     "cta": {
-      "text": "Monte a sua Poltrona Reclinável 2.0 no site da Damie e economize 12% nos produtos com o cupom CECILIA12.",
-      "label": "Ver a Poltrona Reclinável 2.0 no nosso guia da Damie",
-      "url": "https://damie.emcasacomcecilia.com",
+      "text": "Monte a sua Poltrona Reclinável 2.0 no site da DAMIE e economize 12% nos produtos com o cupom CECILIA12.",
+      "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-damie-e-boa",
       "sponsored": true
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Poltrona recebida em parceria com a Damie. A compra pelo código CECILIA12 pode gerar comissão, sem custo extra para você.",
+    "editorialNote": "Poltrona recebida em parceria. O link é afiliado: comissão sem custo extra.",
     "relatedArticles": [
       {
-        "slug": "sofa-damie-modular-vale-a-pena"
+        "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
       },
       {
-        "slug": "damie-reclame-aqui-o-que-os-dados-mostram"
+        "slug": "sofa-damie-modular-vale-a-pena"
       },
       {
         "slug": "cupom-cecilia12-como-usar"
@@ -28912,76 +28912,81 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Poltrona Reclinável 2.0 vale a pena para quem prioriza conforto e personalização sob medida e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O código [CECILIA12](/cupons/damie) dá 12% de desconto nos produtos; os opcionais encarecem a poltrona, como mostra o veredito abaixo."
+          "Sim, a Poltrona Reclinável 2.0 vale a pena para quem prioriza conforto e personalização sob medida e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O código CECILIA12 dá 12% de desconto nos produtos; os opcionais encarecem a poltrona, como mostra o veredito abaixo."
         ]
       },
       {
         "heading": "O que é a Poltrona Reclinável 2.0",
         "paragraphs": [
           "A Reclinável 2.0 é uma poltrona reclinável, daquelas que muita gente chama de poltrona do papai ou cadeira do papai, com opções de base manual ou elétrica, revestimentos e acessórios. Na encomenda, você escolhe a configuração conforme o uso e o orçamento.",
-          "Na nossa casa, usamos a elétrica com giro e balanço, em Courino Importado caramelo. Abaixo mostramos como foram as primeiras semanas e quais opcionais usamos. Com o [cupom CECILIA12](/cupons/damie), são 12% de desconto nos produtos; o frete fica de fora."
+          "Na nossa casa, usamos a elétrica com giro e balanço, em corino importado caramelo. Abaixo mostramos como foram as primeiras semanas e quais opcionais usamos. Com o [cupom CECILIA12](/cupons/damie), são 12% de desconto nos produtos; o frete fica de fora."
         ],
         "bullets": [
-          "Personalização total: escolha do mecanismo, revestimentos, cores e acessórios tecnológicos.",
-          "Mecanismo elétrico: ajuste milimétrico e motor silencioso que reclina suavemente.",
-          "Revestimento prático: opção de Courino Importado (praticamente impermeável), ideal para casas com pets e crianças."
+          "Você escolhe mecanismo, revestimento, cor e acessórios.",
+          "Mecanismo elétrico: para em qualquer ponto, com motor silencioso que reclina suavemente.",
+          "Revestimento: opção de corino importado, fácil de limpar e prático com criança e bicho em casa."
         ],
-        "emphasis": "Ao sentar e reclinar, a sensação foi de um 'colo de mãe'. Nas primeiras semanas, os motores elétricos foram silenciosos e o ajuste foi preciso.",
-        "emphasisAfterParagraph": 1,
-        "image": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
-        "imageAlt": "Medidas da Poltrona Reclinável 2.0 fechada e quase totalmente reclinada",
-        "imageCaption": "Medidas informadas pela fabricante: 106,5 cm de altura, 89 cm de profundidade, 95 cm de largura e 174 cm quando quase totalmente reclinada.",
-        "imageFit": "contain"
+        "image": {
+          "src": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
+          "alt": "Medidas da Poltrona Reclinável 2.0 fechada e quase totalmente reclinada",
+          "caption": "Medidas informadas pela fabricante: 106 cm de altura, 89 cm de largura, 95 cm de profundidade e 174 cm quando quase totalmente reclinada.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7785
+        }
       },
       {
-        "heading": "Nossa Experiência Real",
+        "heading": "Nossa experiência real",
         "paragraphs": [
-          "Recebemos a Poltrona Reclinável 2.0 em parceria pouco antes de publicar este review e, desde então, ela vem sendo usada todos os dias por todos aqui de casa e também por nossas visitas. Nossa configuração é elétrica, com giro e balanço, revestida em Courino Importado caramelo.",
-          "Nessas primeiras semanas, a poltrona superou nossas expectativas de conforto. O motor elétrico de reclinação opera com ruído quase imperceptível, o que é ótimo para assistir a filmes ou ler à noite. Para nós, a combinação de giro e balanço com o revestimento praticamente impermeável transformou a poltrona em um refúgio depois de um dia corrido.",
+          "Recebemos a Poltrona Reclinável 2.0 em parceria pouco antes de publicar este review e, desde então, ela vem sendo usada todos os dias por todos aqui de casa e também por nossas visitas. Nossa configuração é elétrica, com giro e balanço, revestida em corino importado caramelo.",
+          "Nessas primeiras semanas, a poltrona foi mais confortável do que esperávamos. O motor elétrico de reclinação opera com ruído quase imperceptível, o que é ótimo para assistir a filmes ou ler à noite. Para nós, a combinação de giro e balanço com o revestimento fácil de limpar fez dela o lugar da casa onde todo mundo quer sentar no fim do dia.",
           "Usamos a configuração completa, com todos os opcionais do capítulo de acessórios abaixo. Todos foram úteis na rotina, mas a massagem foi a favorita da Cecília.",
           "Entre a emissão da nota fiscal e a chegada da poltrona passaram aproximadamente 15 dias corridos. Esse foi o nosso caso, não um prazo garantido; a entrega foi ágil para um móvel produzido de forma personalizada.",
-          "Condições comerciais de 24 de outubro de 2026: o código CECILIA12 oferece 12% de desconto nos produtos (não no frete) e pode ser acumulado com mais 10% no PIX. A marca também informa parcelamento em até 12 vezes sem juros, com parcela mínima de R$ 100, e frete grátis para poltronas e sofás no Sul e no Sudeste. Norte e Nordeste são atendidos pelo Mercado Livre, onde o CECILIA12 não vale. Essas condições podem ser alteradas pela fabricante."
+          "O código CECILIA12 oferece 12% de desconto nos produtos (não no frete) e soma com os 10% do Pix. A marca também informa parcelamento em até 12 vezes sem juros, com parcela mínima de R$ 100, e frete grátis para poltronas e sofás no Sul e no Sudeste. Norte e Nordeste são atendidos pelo Mercado Livre, onde o CECILIA12 não vale. Na campanha de Black Friday, válida até 27/11, a compra de uma poltrona leva brindes como massagem, entrada USB e porta-copos."
         ],
         "bullets": [
-          "Conforto ergonômico excepcional com sensação de 'abraço' acolhedor.",
-          "12% de desconto nos produtos aplicando o código CECILIA12 no site da Damie."
+          "12% de desconto nos produtos aplicando o código CECILIA12 no site da DAMIE."
         ]
       },
       {
-        "heading": "Os Grandes Upgrades da Versão 2.0",
+        "heading": "Os grandes upgrades da versão 2.0",
         "paragraphs": [
-          "A 2.0 redesenha a clássica em cinco pontos:"
+          "A 2.0 redesenha a clássica em quatro pontos:"
         ],
         "bullets": [
           "Almofada Acolchoada Regulável: Desenvolvida para apoiar a cabeça e o pescoço. Costurada ao encosto, pode ser ajustada em diferentes posições para cada biotipo ou colocada para trás, liberando o encosto.",
           "Bolsos Laterais Ampliados: Redesenhados com dois compartimentos amplos que ocupam a lateral, perfeitos para organizar controles, livros e celulares.",
-          "Novo Desenho do Apoio de Braço: Linhas retas e superfície contínua que modernizam o visual e integram USB e controles na altura das mãos.",
-          "Apoio de Pés Arredondado: Estrutura de espuma com maior altura e toque macio, favorecendo uma postura relaxada que distribui melhor o peso do corpo.",
-          "Porta-Copos Cromado: Acabamento metálico embutido no braço que combina praticidade com o novo desenho da peça."
+          "Novo Desenho do Apoio de Braço: Linhas retas e superfície contínua que modernizam o visual e deixam os controles na altura das mãos.",
+          "Apoio de Pés Arredondado: Estrutura de espuma com maior altura e toque macio, favorecendo uma postura relaxada que distribui melhor o peso do corpo."
         ],
         "images": [
           {
             "src": "/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
             "alt": "Detalhe da almofada acolchoada regulável da Poltrona Reclinável 2.0",
             "caption": "A almofada pode ser reposicionada para adaptar o apoio de cabeça e pescoço.",
-            "objectFit": "contain"
+            "objectFit": "contain",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "aspectRatio": 1.4989
           },
           {
             "src": "/images/reviews/damie/poltrona-damie-2-0-bolso-lateral.webp",
             "alt": "Bolso lateral ampliado da Poltrona Reclinável 2.0",
             "caption": "Os dois compartimentos laterais acomodam controles, livros e pequenos acessórios.",
-            "objectFit": "contain"
+            "objectFit": "contain",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "aspectRatio": 1.5
           },
           {
             "src": "/images/reviews/damie/poltrona-damie-2-0-apoio-pes.webp",
             "alt": "Apoio de pés arredondado da Poltrona Reclinável 2.0 em uso",
             "caption": "O apoio de pés ganhou formato arredondado, mais altura e uma camada macia de espuma.",
-            "objectFit": "contain"
+            "objectFit": "contain",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "aspectRatio": 1.4979
           }
         ]
       },
       {
-        "heading": "4 Versões de Mecanismo e Base",
+        "heading": "4 versões de mecanismo e base",
         "paragraphs": [
           "Na encomenda, primeiro escolha a mecânica e a base, entre quatro versões:"
         ],
@@ -28989,19 +28994,19 @@ export const reviewsData: unknown[] = [
           "Manual com base fixa (gatilho), a mais acessível: reclina puxando o gatilho lateral e empurrando o encosto com o corpo.",
           "Elétrica com base fixa: reclina por botões discretos no braço, sem esforço e sem movimento de giro.",
           "Elétrica com base de giro e balanço (a nossa), a mais completa da linha: reclina eletricamente, gira 180 graus e balança suavemente.",
-          "Elétrica com base fixa e elevação, pensada para idosos, gestantes ou pessoas com limitação motora: reclina eletricamente e se inclina para a frente, ajudando a levantar sem forçar as articulações."
+          "Elétrica com base fixa e elevação, que a DAMIE indica para idosos e pós-operatório: reclina eletricamente e inclina a base para a frente para ajudar a levantar."
         ]
       },
       {
-        "heading": "Tipos de Revestimento: Por que escolhemos o Courino Importado?",
+        "heading": "Tipos de revestimento: por que escolhemos o corino importado?",
         "paragraphs": [
-          "São cinco revestimentos: Suede, Bouclé, Linho, Courino Importado e Couro Bovino em até 10 cores. O Courino vence na praticidade.",
-          "Em nossa casa, escolhemos o Courino Importado na cor caramelo. Embora comer ou beber sobre um estofado sofisticado pareça arriscado, o material é praticamente impermeável. Em nosso uso, líquidos ficam na superfície e podem ser removidos com um pano úmido, o que deixa a poltrona muito mais prática para a rotina da família."
+          "São cinco revestimentos: Suede, Bouclé, Linho, corino importado e Couro Bovino. O corino vence na praticidade.",
+          "Em nossa casa, escolhemos o corino importado na cor caramelo. Embora comer ou beber sobre um estofado sofisticado pareça arriscado, no nosso uso os líquidos ficam na superfície e saem com um pano úmido, o que deixa a poltrona muito mais prática para a rotina da família."
         ],
         "bullets": [
           "Suede, Bouclé e Linho: Toques têxteis confortáveis e respiráveis.",
-          "Courino Importado: O mais prático contra manchas, pelos de animais e derramamento de líquidos.",
-          "Couro Bovino Original: Toque sofisticado, boa expectativa de durabilidade e catálogo de até 10 cores."
+          "Corino importado: O mais prático contra manchas, pelos de animais e derramamento de líquidos.",
+          "Couro Bovino Original: Toque sofisticado e boa expectativa de durabilidade."
         ]
       },
       {
@@ -29020,9 +29025,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Montagem Simples e Conexões Internas",
+        "heading": "Montagem simples e conexões internas",
         "paragraphs": [
-          "A montagem da Poltrona Reclinável 2.0 segue o padrão prático da marca. O produto chega em duas partes principais: o assento (base) e o encosto. Montada, a poltrona tem 95 cm de largura. Para montar, basta deslizar os trilhos metálicos do encosto nas guias do assento até ouvir o clique de travamento.",
+          "A montagem da Poltrona Reclinável 2.0 segue o padrão prático da marca. O produto chega em duas partes principais: o assento (base) e o encosto. Montada, a poltrona tem 89 cm de largura. Para montar, basta deslizar os trilhos metálicos do encosto nas guias do assento até ouvir o clique de travamento.",
           "Na parte traseira do assento, ficam organizados os fios e conectores rápidos dos motores. Com um sistema de encaixe simples do tipo macho-fêmea, você conecta o cabo de energia principal da fonte bivolt, o cabo de sinal do motor de ajuste de cabeça independente e a fiação do sistema de massagem. Nas fotos abaixo, mostramos a poltrona sem o encosto acoplado e o detalhe das conexões elétricas:"
         ],
         "bullets": [],
@@ -29031,13 +29036,17 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
             "alt": "Parte de trás do assento da Poltrona Reclinável 2.0 mostrando a fiação dos motores",
             "caption": "Conexões elétricas dos motores e do massageador por vibração.",
-            "objectFit": "contain"
+            "objectFit": "contain",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "aspectRatio": 1.7762
           },
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-2.webp",
             "alt": "Trilho metálico da base do assento da Poltrona Reclinável 2.0 sem o encosto",
             "caption": "Estrutura interna em madeira de eucalipto e compensado naval com os trilhos de encaixe.",
-            "objectFit": "contain"
+            "objectFit": "contain",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "aspectRatio": 1.7794
           }
         ],
         "video": {
@@ -29047,16 +29056,20 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Estrutura e Construção",
+        "heading": "Estrutura e construção",
         "paragraphs": [
-          "A estrutura combina madeira tratada de eucalipto com compensado naval, que a Damie escolheu pela resistência à umidade e estabilidade.",
-          "A Damie informa que o mecanismo de reclinação é em aço carbono. Segundo o guia da marca, a capacidade é de 150 kg nas versões elétricas e manuais e de 160 kg na versão com elevação. Durante nossas primeiras semanas de uso, não percebemos estalos, rangidos ou trepidações nas transições de movimento; a durabilidade de longo prazo ainda será acompanhada."
+          "A estrutura combina madeira tratada de eucalipto com compensado naval.",
+          "A DAMIE informa que o mecanismo de reclinação é em aço carbono. A página da marca traz números diferentes para a capacidade de peso (160 kg nos destaques e 120 kg na descrição), então confirme com a loja antes de comprar. Durante nossas primeiras semanas de uso, não percebemos estalos, rangidos ou trepidações nas transições de movimento; a durabilidade de longo prazo ainda será acompanhada."
         ],
         "bullets": [],
-        "image": "/images/reviews/damie/poltrona-damie-2-0-estrutura.webp",
-        "imageAlt": "Vista frontal da estrutura e do desenho da Poltrona Reclinável 2.0",
-        "imageCaption": "Vista frontal do modelo 2.0, com apoio de pés arredondado, braços redesenhados e almofada regulável.",
-        "imageFit": "contain"
+        "image": {
+          "src": "/images/reviews/damie/poltrona-damie-2-0-estrutura.webp",
+          "alt": "Vista frontal da estrutura e do desenho da Poltrona Reclinável 2.0",
+          "caption": "Vista frontal do modelo 2.0, com apoio de pés arredondado, braços redesenhados e almofada regulável.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4978,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        }
       },
       {
         "heading": "A Poltrona Reclinável 2.0 é boa? Nosso veredito",
@@ -29064,20 +29077,34 @@ export const reviewsData: unknown[] = [
           "Para nós, sim: a Reclinável 2.0 entrega conforto e recursos elétricos sob medida na categoria de alto padrão. No nosso uso diário, a mecânica elétrica com giro e balanço foi discreta e suave, e a massagem foi a favorita da Cecília.",
           "Pode não compensar para quem procura uma poltrona simples, tem pouco espaço ou não pretende usar os opcionais tecnológicos. Eles encarecem o produto, e a poltrona precisa de uma tomada por perto.",
           "O uso até aqui é de poucas semanas: a durabilidade de longo prazo ainda será acompanhada."
+        ],
+        "emphasis": "Na minha casa, eu escolheria de novo a elétrica com giro e balanço e só pagaria pelos opcionais que a rotina pede: para mim, a massagem e a mesa de apoio valeram.",
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-damie-e-boa",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Poltrona Reclinável 2.0 na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
         ]
       },
       {
-        "heading": "Perguntas frequentes sobre a Poltrona Reclinável 2.0",
-        "paragraphs": [
-          "Reunimos as principais dúvidas dos leitores sobre a poltrona de relaxamento da Damie:"
-        ],
+        "heading": "Perguntas frequentes",
+        "paragraphs": [],
         "bullets": [
-          "Como funciona o cupom CECILIA12 na Damie? Digite CECILIA12 no checkout do site da Damie ([veja o cupom CECILIA12](/cupons/damie)) para garantir 12% de desconto nos produtos e opcionais, sem incluir o frete. O código pode ser acumulado com mais 10% no PIX. Condições sujeitas a alteração pela fabricante.",
-          "O Em Casa com Cecília possui parceria com a Damie? Sim: o CECILIA12 é da nossa parceria com a Damie e pode gerar comissão, sem custo extra para você.",
-          "Qual a poltrona indicada para quem tem mais de 1,85m? A Damie disponibiliza o opcional 'Encosto Fixo Mais Alto', que aumenta a altura do encosto da poltrona para acomodar pessoas mais altas com apoio completo de cabeça.",
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Vale nos produtos e opcionais, não no frete, e soma com os 10% do Pix ([veja as regras do cupom DAMIE](/cupons/damie)).",
+          "Qual a poltrona indicada para quem tem mais de 1,85m? A DAMIE disponibiliza o opcional 'Encosto Fixo Mais Alto', que aumenta a altura do encosto da poltrona para acomodar pessoas mais altas com apoio completo de cabeça.",
           "A Poltrona Reclinável 2.0 elétrica precisa de bateria? Ela funciona ligada diretamente na tomada através de uma fonte bivolt. O ideal é posicioná-la próxima a uma tomada de energia na sala.",
-          "Como funciona a garantia do fabricante? A Damie informa 1 ano de garantia contra defeitos de fabricação na estrutura de madeira e nas ferragens metálicas, além de suporte vitalício. Condição sujeita aos termos vigentes da fabricante.",
-          "O tecido de Courino Importado da poltrona esquenta? O material é de alta qualidade e possui toque mais ameno, mas por ser praticamente impermeável ele troca menos calor que o linho. É ideal para salas com climatização ou ar condicionado."
+          "Como funciona a garantia do fabricante? A DAMIE dá 1 ano de garantia e, depois, suporte vitalício com peças a preço de custo.",
+          "O tecido de corino importado esquenta? Esquenta mais que o linho, porque respira menos; em dia muito quente, gruda mais na pele. Em sala climatizada, não incomoda."
         ]
       }
     ],
@@ -29085,7 +29112,7 @@ export const reviewsData: unknown[] = [
       "mp4": "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4",
       "poster": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp"
     },
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 25,
@@ -29107,7 +29134,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Modelo testado",
-        "value": "Sofá na Caixa modular de três lugares com puff, azul denim, com tomada USB e carregador por indução (260 x 86 x 92 cm)"
+        "value": "Sofá modular DAMIE de três lugares com puff, azul denim, com tomada USB e carregador por indução (260 x 86 x 92 cm)"
       },
       {
         "key": "Tempo de uso",
@@ -29136,8 +29163,18 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Cecília sentada no sofá modular azul da DAMIE.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [],
-    "cons": [],
+    "pros": [
+      "Cada módulo chega em uma caixa, o que facilita entrar em casa",
+      "Puff separado, que muda a configuração da sala",
+      "Módulos que se separam e deixam limpar por baixo",
+      "Montagem por encaixe, feita por nós na sala",
+      "30 dias de teste em casa"
+    ],
+    "cons": [
+      "Custa mais que um sofá comum de três lugares",
+      "Exige medir o acesso: as caixas também têm tamanho",
+      "O revestimento precisa ser escolhido pela rotina da casa (criança, pet, calor)"
+    ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
@@ -29151,17 +29188,22 @@ export const reviewsData: unknown[] = [
           "Demoramos a decidir o sofá, porque ele parece uma decisão mais definitiva do que a poltrona. O que virou a chave foi a pergunta de como ele entraria na casa, que tem corredor, curva e uma porta de quarto que estreita o caminho. Um sofá convencional de três lugares já seria trabalho, depois do que passamos com as poltronas.",
           "Cada módulo chegou na própria caixa. A gente levou as caixas para o ambiente e montou o sofá ali, seguindo a ordem de encaixe explicada pela Damie. Isso facilitou o caminho dentro da nossa casa.",
           "Abrimos as caixas no meio da sala, separamos as peças e fomos encaixando. Quando o último módulo entrou, veio aquela satisfação de ver o sofá que a gente mesmo montou."
-        ],
-        "image": "/images/reviews/sofa-damie-modular-puff.webp",
-        "imageAlt": "Puff modular Damie posicionado de forma independente na sala de estar.",
-        "imageFit": "portrait"
+        ]
       },
       {
         "heading": "O puff separado",
         "paragraphs": [
           "O puff foi o segundo ponto. A gente não queria sofá retrátil porque prende a configuração da sala: quando você quer mudar algo, não dá. O puff separado resolve isso: tá junto quando você quer deitar, sai do caminho quando não quer. Parece detalhe, mas no uso diário faz diferença real.",
-          "A gente assiste TV com o puff na frente, esticando as pernas. Quando chega visita, o puff vira assento extra. Quando a gente quer mais espaço no chão, ele desliza pro canto sem esforço. Em menos de um mês, o puff virou parte da rotina da casa: não é mais um \"acessório\", é uma peça que a gente usa todo dia."
-        ]
+          "A gente assiste TV com o puff na frente, esticando as pernas. Quando chega visita, o puff vira assento extra. Quando a gente quer mais espaço no chão, ele desliza pro canto sem esforço. Em menos de um mês, o puff virou peça de uso diário."
+        ],
+        "image": {
+          "src": "/images/reviews/sofa-damie-modular-puff-4x5.webp",
+          "alt": "Cecília ao lado do sofá modular azul da DAMIE com o puff posicionado na frente, de forma independente",
+          "caption": "O puff separado na frente do sofá, que sai do caminho quando não é preciso.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        }
       },
       {
         "heading": "O que eu observaria de novo antes de comprar",
@@ -29175,39 +29217,57 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena?",
         "paragraphs": [
-          "Pra nós, valeu. O sofá chegou dentro do prazo, os módulos encaixaram bem, e o puff virou peça fixa da rotina de TV. Recebi o produto em parceria e uso há mais de um ano. Não é a compra mais barata de móvel: é um investimento, e precisa ser tratado assim. Mas dentro do que a Damie promete, entregou.",
+          "Pra nós, valeu. O sofá chegou dentro do prazo, os módulos encaixaram bem, e o puff virou peça fixa da rotina de TV. Recebi o produto em parceria e uso há mais de um ano. É uma compra cara, para fazer com calma. Dentro do que a Damie promete, entregou.",
           "A flexibilidade me surpreendeu no dia a dia. Já mudamos a configuração da sala duas vezes: uma para abrir espaço numa reunião de família, outra para experimentar outro ângulo da TV. Poder arrastar os módulos separadamente facilitou essas mudanças.",
-          "E tem uma coisa que eu não esperava: a limpeza. Como os módulos separam, dá pra limpar por baixo, limpar entre os encaixes, acessar cantos que com um sofá fixo seriam eternamente esquecidos. Pra quem tem pet, isso é ouro. A gente tem um cachorro que solta pelo, e conseguir limpar debaixo do sofá sem ter que levantar um móvel pesado é um alívio real."
+          "E tem uma coisa que eu não esperava: a limpeza. Como os módulos separam, dá pra limpar por baixo, limpar entre os encaixes, acessar cantos que com um sofá fixo seriam eternamente esquecidos. Pra quem tem pet, isso é ouro. A gente tem um cachorro que solta pelo, e conseguir limpar debaixo do sofá sem ter que levantar um móvel pesado é um alívio real.",
+          "O cupom CECILIA12 dá 12% OFF no site da Damie, em todas as formas de pagamento, e soma com as promoções e com os 10% do Pix; as regras estão na [página do cupom DAMIE](/cupons/damie)."
         ],
-        "image": "/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp",
-        "imageAlt": "Configuração flexível do sofá modular Damie na sala de estar, mostrando praticidade no uso diário.",
-        "imageFit": "contain"
-      },
-      {
-        "heading": "Guia, review completo e cupom",
-        "paragraphs": [
-          "Se você está no começo da pesquisa e ainda está avaliando modelos e tecidos, escrevi um guia de decisão completo no site dedicado à Damie. Se preferir ir direto para a experiência de uso (entrega, montagem, mais de um ano de uso), o review completo está disponível. E se você já decidiu e quer o desconto, o cupom CECILIA12 dá 12% OFF no site da Damie."
-        ],
+        "image": {
+          "src": "/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp",
+          "alt": "Configuração flexível do sofá modular Damie na sala de estar, mostrando praticidade no uso diário.",
+          "caption": "A configuração flexível do sofá na sala, no uso diário.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        },
+        "emphasis": "Na minha casa, eu compraria o modular de novo, desde que medisse o acesso e escolhesse o tecido pela rotina: o puff separado e a limpeza por baixo valeram a escolha.",
         "links": [
           {
-            "label": "Sofá Modular Damie: qual modelo escolher?",
-            "href": "https://damie.emcasacomcecilia.com/guias/sofa-modular-damie-qual-modelo-escolher?utm_source=main-sofa-ponte&utm_medium=blog&utm_campaign=cecilia12"
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-damie-modular-vale-a-pena",
+            "sponsored": true
           },
           {
-            "label": "Review completo: sofá modular Damie",
-            "href": "https://damie.emcasacomcecilia.com/resenhas/sofa-modular-damie?utm_source=main-sofa-ponte&utm_medium=blog&utm_campaign=cecilia12"
+            "label": "Ver o sofá modular na DAMIE",
+            "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+            "sponsored": true
           },
           {
-            "label": "Cupom CECILIA12, 12% OFF no site da Damie",
+            "label": "Ver o cupom DAMIE",
             "href": "/cupons/damie"
           }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "paragraphs": [
+          "As dúvidas mais comuns sobre o sofá modular da Damie:"
+        ],
+        "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix, mas não com outro cupom nem com o giftback.",
+          "O sofá modular da Damie chega montado? Não: cada módulo chega na própria caixa e a montagem é por encaixe, seguindo a ordem explicada pela Damie. A gente levou as caixas para a sala e montou ali.",
+          "Qual o tamanho do sofá de três lugares? O nosso, de três lugares, mede 260 x 86 x 92 cm pelo esquema técnico da Damie. Meça também o caminho das caixas: porta, corredor e elevador.",
+          "Dá para limpar por baixo do sofá modular? Dá: como os módulos se separam, conseguimos limpar entre os encaixes e por baixo sem levantar um móvel pesado, o que ajuda quem tem pet.",
+          "Como funciona o teste de 30 dias da Damie? O sofá precisa voltar completo, na embalagem original e sem sinais de uso severo; o pedido é feito pelo WhatsApp, com nome completo e nota fiscal. Guarde a caixa até o fim do prazo.",
+          "O puff vem incluso? No nosso conjunto de três lugares, sim, e ele é separado dos módulos. Confira a composição do modelo escolhido na página da Damie antes de comprar."
         ]
       }
     ],
     "cta": {
-      "text": "Confira as condições do CECILIA12 para 12% de desconto no site da Damie antes de pagar.",
-      "label": "Ver cupom CECILIA12 no site da Damie",
-      "url": "/cupons/damie"
+      "text": "Confira o sofá modular na DAMIE e use o CECILIA12 para 12% de desconto no site.",
+      "label": "Ver o sofá modular na DAMIE",
+      "url": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+      "sponsored": true
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
@@ -29216,14 +29276,17 @@ export const reviewsData: unknown[] = [
         "slug": "cupom-cecilia12-como-usar"
       },
       {
-        "slug": "damie-reclame-aqui-o-que-os-dados-mostram"
+        "slug": "poltrona-damie-e-boa"
       },
       {
-        "slug": "valley-inflow-ou-damie"
+        "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular"
+      },
+      {
+        "slug": "sofa-modular-ou-retratil-qual-escolher"
       }
     ],
-    "editorialNote": "Review com link afiliado: comissão sem custo extra para você.",
-    "updatedAt": "2026-11-06"
+    "editorialNote": "Sofá recebido em parceria. O link é afiliado: comissão sem custo extra.",
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 20,
@@ -31528,172 +31591,198 @@ export const reviewsData: unknown[] = [
     "title": "Damie no Reclame Aqui: o que os dados mostram antes de você comprar",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
-    "description": "Damie Móveis no Reclame Aqui: nota 7,9 e reputação Boa nos últimos seis meses do painel. Veja os índices, o problema mais citado e o que conferir antes de comprar.",
+    "description": "Damie Móveis no Reclame Aqui: nota 7,9 e reputação Boa no semestre. Veja os números, o que a nota mede, as queixas mais citadas e o que conferir antes de comprar.",
     "publishedAt": "20 Jun 2026",
     "publishedAtISO": "2026-06-20",
     "image": "/images/reviews/damie/damie-reclame-aqui-o-que-os-dados-mostram-capa-v2.webp",
     "imageAlt": "Cecília sentada na poltrona Levita em couro caramelo, com um buquê no colo, em foto própria feita de cima, ao lado da chamada Damie no Reclame Aqui e do apoio Antes de comprar.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "Dados públicos do Reclame Aqui",
-      "Resposta de 100% das reclamações",
-      "Índice de solução de 83,1%",
-      "Tempo médio de resposta de 15 horas"
-    ],
-    "cons": [
-      "Atraso na entrega é o problema mais citado",
-      "Reputação passou de Ótima para Boa no último mês do painel",
-      "Nota pode variar por janela móvel de 6 meses"
-    ],
+    "pros": [],
+    "cons": [],
     "affiliate": "damie",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Damie é confiável, com a entrega como ponto de atenção. No painel do Reclame Aqui de 06/11/2026, nos últimos seis meses, tem nota 7,9, reputação Boa e 100% das reclamações respondidas; o problema mais citado é o atraso. O [cupom CECILIA12](/cupons/damie) dá 12% OFF no site da Damie."
+          "Sim, dá para comprar na DAMIE, com a entrega como ponto de atenção. No Reclame Aqui, nos últimos seis meses, ela tem nota 7,9 e reputação Boa, com 100% das reclamações respondidas e 83,2% de solução entre as avaliadas. O atraso é a queixa mais citada. O [cupom DAMIE](/cupons/damie), CECILIA12, dá 12% OFF no site."
         ]
       },
       {
-        "heading": "Por que pesquisar o Reclame Aqui antes de comprar móvel pela internet",
+        "heading": "A nota e os indicadores do período",
         "paragraphs": [
-          "Comprar móvel online é diferente de comprar um eletrodoméstico ou uma roupa. O produto é grande, caro, difícil de devolver (a Damie tem um teste de 30 dias, com condições, que explico abaixo) e a entrega quase sempre depende de uma transportadora terceirizada. Quando algo dá errado — atraso, avaria, dificuldade de acesso no prédio — a frustração é proporcional ao valor investido.",
-          "Por isso, antes de fechar qualquer compra de sofá ou poltrona pela internet, eu paro no Reclame Aqui. Não para achar empresa perfeita — isso não existe — mas para entender o padrão dos problemas e, principalmente, como a empresa responde quando eles aparecem. Uma marca com nota alta e resposta rápida não garante que você não vai ter problema, mas indica que, se tiver, há mais chance de ser atendido."
-        ]
-      },
-      {
-        "heading": "Os dados atuais da Damie no Reclame Aqui",
-        "metrics": {
-          "items": [
-            {
-              "label": "Nota",
-              "value": "7,9",
-              "unit": "/10"
-            },
-            {
-              "label": "Respostas",
-              "value": "100%"
-            },
-            {
-              "label": "Índice de solução",
-              "value": "83,1%"
-            },
-            {
-              "label": "Tempo de resposta",
-              "value": "15",
-              "unit": "h"
-            }
+          "Os números abaixo são do [painel público da Damie Móveis no Reclame Aqui](https://www.reclameaqui.com.br/empresa/damie-moveis/), na janela dos últimos seis meses. A contagem de reclamações é um número absoluto: sem o total de pedidos da DAMIE, ela não vira taxa nem proporção."
+        ],
+        "comparisonTable": {
+          "caption": "DAMIE (Damie Móveis) no Reclame Aqui, janela de 01/05 a 31/10/2026",
+          "headers": [
+            "Indicador",
+            "DAMIE no período"
           ],
-          "summary": {
-            "badge": "Boa",
-            "text": "**192** reclamações de 01/05 a 31/10/2026 · **70,2%** voltariam a fazer negócio"
-          }
+          "rows": [
+            [
+              "Reputação e nota",
+              "Boa, nota 7,9 de 10"
+            ],
+            [
+              "Reclamações recebidas",
+              "192"
+            ],
+            [
+              "Respondidas",
+              "100%"
+            ],
+            [
+              "Resolvidas, entre as avaliadas",
+              "83,2%"
+            ],
+            [
+              "Voltariam a fazer negócio, entre as avaliadas",
+              "70,4%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "125"
+            ],
+            [
+              "Nota do consumidor",
+              "6,78"
+            ],
+            [
+              "Tempo médio de resposta",
+              "15 horas"
+            ]
+          ]
         },
-        "paragraphs": [
-          "De 01/05/2026 a 31/10/2026, o [painel do Reclame Aqui](https://www.reclameaqui.com.br/empresa/damie-moveis/) mostrava estes indicadores da Damie Móveis:"
-        ],
-        "bullets": [
-          "Nota: 7,9/10",
-          "Reputação: Boa. Pelo histórico do painel, ela foi Ótima de maio a setembro e passou a Boa em outubro.",
-          "Reclamações recebidas: 192, com 100% respondidas e nenhuma aguardando resposta",
-          "Índice de solução: 83,1% das reclamações finalizadas e avaliadas foram consideradas resolvidas pelo consumidor",
-          "Voltariam a fazer negócio: 70,2% dos consumidores que finalizaram e avaliaram a reclamação",
-          "Reclamações avaliadas: 124, com nota média do consumidor de 6,79",
-          "Tempo médio de resposta: 15 horas"
-        ],
         "links": [
           {
-            "label": "Ver perfil oficial no Reclame Aqui →",
+            "label": "Ver o perfil da DAMIE no Reclame Aqui",
             "href": "https://www.reclameaqui.com.br/empresa/damie-moveis/"
           }
-        ],
-        "image": {
-          "src": "/images/reviews/damie-reclame-aqui-hero.webp",
-          "alt": "Painel do Reclame Aqui da Damie Móveis mostrando nota 8.0 e reputação Ótimo.",
-          "caption": "Painel da Damie Móveis no Reclame Aqui em junho, quando a reputação era Ótimo e a nota 8,0. Registro histórico: os números atuais estão no quadro e na lista desta seção.",
-          "objectFit": "contain",
-          "aspectRatio": 0.8664
-        }
-      },
-      {
-        "heading": "Dados institucionais",
-        "paragraphs": [
-          "A Damie tem o CNPJ 20.686.873/0001-07, informado no rodapé do site da marca e no Reclame Aqui, e fica em Frederico Westphalen (RS). A marca dá garantia de 1 ano contra defeitos de fabricação e tem um teste de 30 dias em casa, com as condições explicadas nas perguntas frequentes.",
-          "A nota é calculada com base em uma janela móvel de 6 meses, então ela pode variar ao longo do tempo. Por isso, confira o Reclame Aqui no dia da compra para confirmar o número."
         ]
       },
       {
-        "heading": "O que aparece nas reclamações",
-        "widget": "PadroesReclamacao",
+        "heading": "O que a nota e a reputação medem, e o que não medem",
         "paragraphs": [
-          "Os principais problemas do painel somam até 3 anos de reclamações, e não só os últimos 6 meses. Nessa conta, o problema mais citado é o atraso na entrega, com 50,57% das reclamações. A categoria mais citada é Móveis em Geral (50,14%), e o produto, Sofás e Estofados (26,28%).",
-          "O painel não mostra a parte das reclamações que pede devolução, então não dá para tirar dele quantos compradores ficaram satisfeitos."
+          "A nota do Reclame Aqui mede o atendimento às reclamações registradas na plataforma: se a empresa respondeu, se resolveu e como o consumidor avaliou. Ela não mede a qualidade do móvel nem a experiência de quem comprou e não reclamou, e muda a cada janela.",
+          "A reputação Boa é a faixa que o Reclame Aqui dá à nota 7,9. Pelo histórico do painel, a DAMIE foi Ótima de maio a setembro e passou a Boa em outubro; na janela de 12 meses até outubro, ela aparece como Ótima, com nota 8,0. Cada janela conta uma parte da história, e aqui usamos a de seis meses.",
+          "A nota do consumidor (6,78) é outra coisa: é a média que quem reclamou deu ao atendimento. O painel também põe a DAMIE em 53º no ranking da categoria de e-commerce de móveis e decoração. A posição sozinha não diz se ela está acima ou abaixo da média da categoria. A comparação com duas marcas parecidas está em [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie)."
         ]
       },
       {
-        "heading": "Como ler esses números",
+        "heading": "Pontos positivos",
         "paragraphs": [
-          "Não comparamos a Damie com o setor inteiro, então não dá para dizer que ela está acima ou abaixo da média. O que o painel mostra é o ranking da categoria Ecommerce - Móveis e Decoração, em que a Damie aparecia em 52º lugar.",
-          "A comparação com duas marcas que também vendem sofá na caixa, a Inflow e a Sofá na Caixa, está em [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie), com os dados das três no mesmo período de 6 meses."
-        ]
-      },
-      {
-        "heading": "O que fazer antes de comprar",
-        "paragraphs": [
-          "Pelo que mais aparece nas reclamações, confira isto antes de fechar o pedido:"
+          "O que o perfil mostra a favor da DAMIE, todos do semestre, salvo onde indicado:"
         ],
         "bullets": [
-          "Confira o prazo pelo CEP no carrinho: atraso na entrega é o problema mais citado. Segundo a Damie, a produção leva em média 5 dias úteis, e o prazo de entrega conta a partir da confirmação do pagamento.",
-          "Meça o acesso: elevador, corredor, porta de entrada e escada.",
-          "Registre em foto no recebimento: antes de abrir completamente a embalagem, documente o estado da caixa e do produto.",
-          "Se algo não estiver certo, acione o suporte logo: o teste de 30 dias tem condições, e a caixa original faz parte delas."
+          "Reputação Boa e nota 7,9 no semestre; na janela de 12 meses, Ótima e 8,0.",
+          "100% das reclamações respondidas, com tempo médio de resposta de 15 horas.",
+          "83,2% de solução e 70,4% de quem voltaria a fazer negócio, entre as 125 reclamações avaliadas. Os dois índices valem para quem finalizou e avaliou a reclamação, não para todos os clientes.",
+          "Perfil no Reclame Aqui há 6 anos, com o CNPJ 20.686.873/0001-07, o mesmo do rodapé do site."
         ]
       },
       {
-        "heading": "Nossa experiência pessoal",
+        "heading": "Pontos de atenção e principais queixas",
         "paragraphs": [
-          "Se você quer saber como foi nossa experiência real com as poltronas e o sofá da Damie — entrega, montagem e uso no dia a dia — escrevi em detalhe aqui:"
+          "Os principais problemas do painel somam até três anos de reclamações, não só o semestre. Nessa aba, o atraso na entrega é o mais citado, com 51,24% das reclamações, e o produto mais citado é Sofás e Estofados, com 26,51%."
+        ],
+        "bullets": [
+          "A reputação caiu de Ótima para Boa em outubro, dentro do semestre.",
+          "O perfil não mostra o selo de Empresa Verificada.",
+          "A nota média de 6,78 dada por quem reclamou indica que parte dos casos terminou sem satisfação total.",
+          "O painel não diz quantos compradores ficaram satisfeitos sem reclamar, então ele não serve de taxa de problema por pedido."
+        ]
+      },
+      {
+        "heading": "Como a DAMIE responde e o que conferir antes de comprar",
+        "paragraphs": [
+          "Confira que o perfil é o da Damie Móveis, de CNPJ 20.686.873/0001-07, em Frederico Westphalen (RS). Segundo a DAMIE, a produção leva em média 5 dias úteis, e o prazo de entrega conta a partir da confirmação do pagamento. A DAMIE não tem app: o atendimento é pelo site e pelo WhatsApp.",
+          "Pelo que mais aparece nas reclamações, antes de pagar:"
+        ],
+        "bullets": [
+          "Veja o prazo pelo CEP no carrinho e deixe folga: atraso na entrega é a queixa mais citada.",
+          "Meça o acesso: elevador, corredor, escada e porta. As portas a partir de 65 cm servem, e abaixo de 80 cm passa o encosto e depois a base.",
+          "No recebimento, fotografe a caixa e o produto antes de abrir por completo, e guarde a embalagem original: sem ela, a DAMIE não faz a coleta do teste de 30 dias.",
+          "Frete grátis só em poltronas e sofás no Sul e no Sudeste. No Norte e no Nordeste, a compra é pelo Mercado Livre, onde o CECILIA12 não vale."
+        ],
+        "postParagraphs": [
+          "Recebemos a poltrona reclinável e o sofá modular em parceria. O relato de uso, da entrega à montagem, está no texto da nossa parceria com a DAMIE."
         ],
         "image": {
-          "src": "/images/reviews/damie-reclame-aqui-local.webp",
-          "alt": "Poltrona reclinável bege da Damie na sala de estar da Cecília.",
-          "caption": "Poltrona reclinável bege da Damie na nossa sala de estar.",
-          "objectFit": "portrait"
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-4x5.webp",
+          "alt": "Poltrona reclinável DAMIE bege na sala de estar da Cecília.",
+          "caption": "A poltrona reclinável bege na nossa sala, recebida em parceria.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
         },
         "links": [
           {
-            "label": "Damie é confiável? Nossa experiência depois de mais de um ano de uso",
-            "href": "https://damie.emcasacomcecilia.com/damie-e-confiavel"
+            "label": "Damie é confiável? Nossa experiência de uso",
+            "href": "https://damie.emcasacomcecilia.com/damie-e-confiavel",
+            "sponsored": true
           }
         ]
       },
       {
-        "heading": "Dá para confiar na Damie?",
+        "heading": "Vale a pena comprar na DAMIE?",
         "paragraphs": [
-          "Sim, dá para confiar, com a entrega como ponto de atenção. Pelos números do Reclame Aqui, nos últimos seis meses, a Damie responde todas as reclamações e resolve 83,1% das finalizadas e avaliadas, com nota 7,9 e reputação Boa. A reputação passou de Ótima para Boa no último mês do painel, e 70,2% dos consumidores que avaliaram voltariam a fazer negócio. O ponto fraco é a entrega. Antes de fechar o pedido, confira o prazo pelo CEP, meça o acesso e registre o recebimento em foto."
+          "Pelos números do semestre, a DAMIE responde todas as reclamações, resolve a maior parte das avaliadas e tem reputação Boa. O ponto fraco é a entrega, e a reputação oscilou de Ótima para Boa em outubro.",
+          "O CECILIA12 dá 12% OFF em todo o site oficial, em todas as formas de pagamento, e soma com os 10% do Pix e com as promoções. As regras estão na [página do cupom DAMIE](/cupons/damie)."
+        ],
+        "emphasis": "Na minha casa, eu compraria da DAMIE com o prazo conferido pelo CEP antes de pagar: a nota é Boa, mas o atraso é a queixa que mais aparece.",
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=damie-reclame-aqui-o-que-os-dados-mostram",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a nota da Damie no Reclame Aqui? Nos últimos seis meses do painel, a Damie Móveis tinha nota 7,9/10 e reputação Boa. A nota é calculada numa janela móvel e pode variar; confira o painel no dia da compra.",
-          "O que aparece nas reclamações da Damie? Nos principais problemas do painel, que somam até 3 anos de reclamações, o mais citado é o atraso na entrega, com 50,57% das reclamações. O produto mais citado é Sofás e Estofados.",
-          "A nota da Damie é boa para o setor de móveis online? O Reclame Aqui classifica a nota 7,9 como Boa. Não comparamos a Damie com o setor inteiro; no ranking da categoria Ecommerce - Móveis e Decoração, ela aparecia em 52º lugar. A comparação com a Inflow e a Sofá na Caixa está em [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie).",
-          "A Damie resolve reclamações? Nos últimos seis meses do painel, a Damie respondeu 100% das reclamações. Entre as finalizadas e avaliadas pelo consumidor, o índice de solução era 83,1%, e 70,2% disseram que voltariam a fazer negócio.",
-          "É possível desistir ou cancelar uma compra da Damie? Sim. Na compra pela internet, o [Código de Defesa do Consumidor, no artigo 49](https://consumidor.gov.br/pages/conteudo/publico/102), dá 7 dias de arrependimento, contados da compra ou do recebimento do produto. Os 30 dias são uma política da própria Damie, com condições: segundo a [página do teste](https://www.damie.com.br/pages/teste-por-30-dias), o produto volta completo, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira, e o pedido é feito pelo WhatsApp da Damie, com o nome completo e a nota fiscal.",
-          "A Damie é confiável para comprar sofá pela internet? Sim, com atenção à entrega. Nos últimos seis meses do painel, a Damie tinha nota 7,9 e reputação Boa, com 100% de respostas e índice de solução de 83,1% entre as reclamações finalizadas e avaliadas. O principal risco é a entrega: no painel de até três anos, o atraso é o problema mais citado, e móveis grandes exigem medir corredores e elevadores antes da compra.",
-          "Quanto tempo a Damie demora para entregar? O prazo muda com a região e o produto: confira pelo CEP no carrinho antes de fechar. Segundo a Damie, a produção leva em média 5 dias úteis, e o prazo conta a partir da confirmação do pagamento. O frete de poltronas e sofás é grátis no Sul e no Sudeste, e o Norte e o Nordeste são atendidos pelo Mercado Livre.",
-          "O que acontece se o sofá Damie chegar com defeito? A Damie dá garantia de 1 ano contra defeitos de fabricação. Se o produto chegar avariado, fotografe a embalagem e o produto antes de abrir completamente, acione o suporte da Damie o quanto antes e não descarte as caixas até a resolução.",
-          "A Damie vende no Mercado Livre ou só no site oficial? Nos dois. O site oficial (damie.com.br) tem o catálogo completo e as personalizações, e é onde o cupom CECILIA12 vale. Pelos anúncios oficiais no Mercado Livre, a Damie atende o Norte e o Nordeste, e lá o cupom não vale.",
-          "Como é a experiência de compra da Damie em comparação com outras marcas? A Damie se diferencia pela personalização de tecidos e mecanismos, pelo conceito modular e pelo teste de 30 dias. Em comparação com lojas físicas, oferece mais opções de revestimento e a entrega em casa, mas sem a possibilidade de sentir o sofá antes de comprar.",
-          "Cupom Damie 15: existe cupom de 15%? O 15% que aparece na Damie é o giftback: um crédito para uma compra futura, e não um desconto na compra de agora. O CECILIA12 dá 12% na hora, sobre os produtos. Na compra em que você usa o crédito do giftback, o CECILIA12 não entra: no mesmo pedido, vale um ou outro.",
-          "Cupom Damie primeira compra: o CECILIA12 funciona? Sim, o cupom CECILIA12 funciona para primeira compra e compras subsequentes no site oficial da Damie, sem limite de uso por CPF, desde que esteja dentro das condições vigentes."
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento.",
+          "Qual a nota da DAMIE no Reclame Aqui? Nos últimos seis meses do painel, a Damie Móveis tem nota 7,9 de 10 e reputação Boa. A nota é calculada numa janela móvel e pode variar: confira o painel no dia da compra.",
+          "A DAMIE resolve as reclamações? Ela respondeu 100% no semestre. Entre as reclamações finalizadas e avaliadas, 83,2% foram resolvidas e 70,4% dos consumidores voltariam a fazer negócio.",
+          "Qual é a principal queixa contra a DAMIE? O atraso na entrega, com 51,24% das reclamações na aba de principais problemas, que soma até três anos. O produto mais citado é Sofás e Estofados.",
+          "É possível desistir de uma compra da DAMIE? Sim. Na compra pela internet, o [Código de Defesa do Consumidor, no artigo 49](https://consumidor.gov.br/pages/conteudo/publico/102), dá 7 dias de arrependimento. Além disso, a DAMIE oferece 30 dias para testar em casa, com a embalagem original guardada e a nota fiscal, e o pedido é feito pelo WhatsApp dela.",
+          "Quanto tempo a DAMIE demora para entregar? O prazo muda com a região e o produto: veja pelo CEP no carrinho. Segundo a DAMIE, a produção leva em média 5 dias úteis, e o prazo conta da confirmação do pagamento. O frete de poltronas e sofás é grátis no Sul e no Sudeste."
         ]
       }
     ],
-    "editorialNote": "Dados do painel público do Reclame Aqui. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
-    "updatedAt": "2026-11-06",
-    "bodyDatesReason": "reclame-aqui"
+    "editorialNote": "Dados do painel público do Reclame Aqui. A DAMIE é parceira e paga comissão.",
+    "updatedAt": "2026-11-23",
+    "bodyDatesReason": "reclame-aqui",
+    "seoTitle": "DAMIE no Reclame Aqui: nota 7,9 e o que conferir",
+    "reviewKind": "editorial",
+    "coupon": "CECILIA12",
+    "metaDescription": "CECILIA12 dá 12% OFF na DAMIE. No Reclame Aqui, nota 7,9 e reputação Boa no semestre: veja o que a nota mede e o que conferir antes de comprar.",
+    "decision": {
+      "takeIf": [
+        "O prazo que o carrinho mostra para o seu CEP tem folga para a data em que você precisa do móvel.",
+        "Você mora no Sul ou no Sudeste, onde o frete de poltronas e sofás é grátis e a compra é no site oficial, com o CECILIA12."
+      ],
+      "skipIf": [
+        "O prazo de entrega é o que mais pesa: confira o CEP no carrinho antes e deixe folga, porque o atraso é a queixa mais citada.",
+        "Você mora no Norte ou no Nordeste: a compra é só pelo Mercado Livre, onde o CECILIA12 não vale."
+      ]
+    },
+    "relatedArticles": [
+      {
+        "slug": "sofa-na-caixa-inflow-ou-damie"
+      },
+      {
+        "slug": "damie-prazo-de-entrega"
+      },
+      {
+        "slug": "cupom-cecilia12-como-usar"
+      }
+    ]
   },
   {
     "id": 17,
@@ -31702,7 +31791,7 @@ export const reviewsData: unknown[] = [
     "seoTitle": "Como usar o cupom CECILIA12 na Damie: 12% OFF no checkout",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
-    "description": "Passo a passo simples para usar o cupom CECILIA12 no site da Damie. Veja onde digitar o código e como confirmar o desconto antes de finalizar a compra.",
+    "description": "Passo a passo simples para usar o cupom CECILIA12 no site da DAMIE. Veja onde digitar o código e como confirmar o desconto antes de finalizar a compra.",
     "metaDescription": "O CECILIA12 dá 12% OFF em todos os produtos da DAMIE e soma com o Pix. Veja onde digitar o código e como confirmar o desconto antes de pagar.",
     "publishedAt": "11 Jun 2026",
     "publishedAtISO": "2026-06-11",
@@ -31715,32 +31804,30 @@ export const reviewsData: unknown[] = [
     "coupon": "CECILIA12",
     "affiliate": "damie",
     "cta": {
-      "text": "Use o cupom CECILIA12 no checkout da Damie para receber 12% de desconto.",
-      "label": "Usar cupom na Damie",
-      "url": "/cupons/damie"
+      "text": "Use o cupom CECILIA12 no checkout da DAMIE para receber 12% de desconto.",
+      "label": "Usar cupom na DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=cupom-cecilia12-como-usar",
+      "sponsored": true
     },
     "contentSections": [
       {
-        "heading": "Introdução",
-        "paragraphs": [
-          "Quando mostro nossa poltrona, sempre aparece a dúvida: onde coloco o CECILIA12 e como sei se o desconto entrou? A resposta está no campo do checkout e no resumo do pedido.",
-          "Escolha modelo, tecido e cor antes de aplicar o código. Depois, confirme o desconto antes de pagar."
-        ]
-      },
-      {
-        "heading": "Resposta rápida: como usar o cupom CECILIA12",
+        "heading": "Resposta rápida",
         "paragraphs": [
           "No checkout do site oficial da DAMIE, encontre o campo de cupom ou código promocional, digite CECILIA12 e aplique. Confira os 12% sobre o subtotal dos produtos. O [cupom DAMIE](/cupons/damie) soma com as promoções e com os 10% do Pix; não soma com outro código nem com giftback e não vale no Mercado Livre."
         ]
       },
       {
         "heading": "1. Escolha o produto no site oficial",
+        "image": {
+          "src": "/images/reviews/cupom-cecilia12/1-escolha-produto.png",
+          "alt": "Tela do site da DAMIE mostrando a escolha do produto.",
+          "caption": "Escolha o produto diretamente no site oficial da DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 1.309
+        },
         "paragraphs": [
           "O CECILIA12 vale no site oficial da DAMIE, inclusive para poltronas, sofás, camas, área externa e acessórios, pelas condições vigentes; não vale nos anúncios do Mercado Livre. Escolha modelo, revestimento e cor antes de ir ao carrinho. Se alterar a seleção depois, revise o pedido e confira se o código continua aplicado."
-        ],
-        "image": "/images/reviews/cupom-cecilia12/1-escolha-produto.png",
-        "imageAlt": "Tela do site da Damie mostrando a escolha do produto.",
-        "imageCaption": "Escolha o produto diretamente no site oficial da Damie."
+        ]
       },
       {
         "heading": "2. Adicione ao carrinho e revise o pedido",
@@ -31752,110 +31839,156 @@ export const reviewsData: unknown[] = [
           "Revise o tecido e a cor escolhidos.",
           "Veja se há algum acessório adicional, como porta-copos, massageador ou entrada USB."
         ],
-        "image": "/images/reviews/cupom-cecilia12/2-adicione-carrinho.png",
-        "imageAlt": "Carrinho de compras no site da Damie.",
-        "imageCaption": "Revise o pedido no carrinho antes de seguir.",
+        "image": {
+          "src": "/images/reviews/cupom-cecilia12/2-adicione-carrinho.png",
+          "alt": "Carrinho de compras no site da DAMIE.",
+          "caption": "Revise o pedido no carrinho antes de seguir.",
+          "objectFit": "contain",
+          "aspectRatio": 1.734
+        },
         "images": [
           {
             "src": "/images/reviews/cupom-cecilia12/2-adicione-carrinho-2.png",
             "alt": "Detalhes do produto no carrinho.",
-            "caption": "Confira modelo, tecido e cor antes de aplicar o cupom."
+            "caption": "Confira modelo, tecido e cor antes de aplicar o cupom.",
+            "objectFit": "contain",
+            "aspectRatio": 2.708
           }
         ]
       },
       {
         "heading": "3. Aplique o cupom no checkout",
+        "image": {
+          "src": "/images/reviews/cupom-cecilia12/3-aplique-cupom.png",
+          "alt": "Campo de cupom no checkout da DAMIE.",
+          "caption": "Digite CECILIA12 no campo indicado e clique em aplicar.",
+          "objectFit": "contain",
+          "aspectRatio": 1.46
+        },
         "paragraphs": [
           "No momento do pagamento, procure o campo indicado como \"Cupom de desconto\", \"Código promocional\" ou algo similar. Digite CECILIA12 sem espaços e sem alterar as letras. Clique em aplicar. Se o código estiver válido, o desconto deve aparecer no resumo do pedido, sobre o subtotal dos produtos. O frete não entra no desconto."
-        ],
-        "image": "/images/reviews/cupom-cecilia12/3-aplique-cupom.png",
-        "imageAlt": "Campo de cupom no checkout da Damie.",
-        "imageCaption": "Digite CECILIA12 no campo indicado e clique em aplicar."
+        ]
       },
       {
         "heading": "4. Confirme o desconto antes de pagar",
+        "image": {
+          "src": "/images/reviews/cupom-cecilia12/4-confirme-desconto-recorte.webp",
+          "alt": "Resumo do pedido da DAMIE com o CECILIA12 no campo de cupom e a linha Descontos",
+          "caption": "Confirme se o desconto apareceu no valor total.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
         "paragraphs": [
           "Antes de pagar, confira a linha do CECILIA12 sobre o subtotal dos produtos. Se escolher Pix, confira também o desconto dessa forma de pagamento. O total final deve refletir os descontos e o frete do seu pedido; o frete não recebe os 12% do código. Se o cupom não entrar, confira nesta ordem:"
         ],
         "bullets": [
           "Outro cupom ou o crédito do giftback no pedido: o CECILIA12 não soma com eles. Tire o outro e aplique o CECILIA12 de novo.",
-          "Onde está a compra: o código só vale no site oficial da Damie, e não no Mercado Livre.",
+          "Onde está a compra: o código só vale no site oficial da DAMIE, e não no Mercado Livre.",
           "A digitação: é CECILIA12, sem espaços.",
-          "Se nada disso resolver, veja as [regras completas do cupom](/cupons/damie) e fale com o suporte da Damie antes de concluir o pagamento."
-        ],
-        "image": "/images/reviews/cupom-cecilia12/4-confirme-desconto.png",
-        "imageAlt": "Resumo do pedido da Damie com desconto aplicado.",
-        "imageCaption": "Confirme se o desconto apareceu no valor total."
+          "Se nada disso resolver, veja as [regras completas do cupom](/cupons/damie) e fale com o suporte da DAMIE antes de concluir o pagamento."
+        ]
       },
       {
         "heading": "O que eu observaria antes de comprar",
         "paragraphs": [
-          "O cupom ajuda, mas a compra de um móvel de alto padrão precisa de planejamento além do desconto. Antes de usar o CECILIA12, eu faria estas verificações:"
+          "Antes de usar o CECILIA12, eu conferiria quatro coisas:"
         ],
         "bullets": [
           "Medir o ambiente: poltronas reclináveis precisam de espaço para abrir. Sofás modulares precisam caber no elevador e na porta.",
           "Escolher o tecido pensando no uso real: criança, pet e incidência de luz solar mudam a escolha do revestimento.",
-          "Verificar o frete e o prazo: o frete de poltronas e sofás é grátis no Sul e no Sudeste; nas outras regiões, confira pelo CEP no carrinho. No Norte e no Nordeste, a venda é pelos anúncios da Damie no Mercado Livre, onde o cupom não vale.",
-          "Ler as condições de devolução: o prazo é de 30 dias, contados do recebimento. As [políticas da Damie](https://www.damie.com.br/pages/politicas) pedem o item como foi recebido, na embalagem original e com o comprovante, e excluem itens em promoção; poltronas e sofás têm ainda o teste de 30 dias, com regras próprias."
-        ]
+          "Verificar o frete e o prazo: o frete de poltronas e sofás é grátis no Sul e no Sudeste; nas outras regiões, confira pelo CEP no carrinho. No Norte e no Nordeste, a venda é pelos anúncios da DAMIE no Mercado Livre, onde o cupom não vale.",
+          "Ler a devolução: a DAMIE dá 30 dias para testar poltronas e sofás em casa, com a embalagem original guardada e a nota fiscal: sem a embalagem, a loja não coleta. Leia as [políticas da DAMIE](https://www.damie.com.br/pages/politicas) antes de comprar."
+        ],
+        "image": {
+          "src": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada-4x5.webp",
+          "alt": "Cecília sentada na poltrona reclinável 2.0 da DAMIE.",
+          "caption": "Medir o espaço de abertura da poltrona é parte da compra, antes e depois do cupom.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        }
       },
       {
-        "heading": "Onde a Damie entra nessa história",
+        "heading": "Veredito: quando usar o CECILIA12",
         "paragraphs": [
-          "O CECILIA12 é o cupom da nossa parceria com a Damie, e a compra com ele gera comissão para o site, sem custo extra para você. A primeira a chegar foi a poltrona reclinável 1.0, que recebemos da Damie; o cupom só surgiu um a dois meses depois do primeiro vídeo dela. Depois vieram a Poltrona Moon e o sofá modular, e usamos tudo em casa há mais de um ano, como contamos nos reviews.",
-          "Se você está pesquisando poltrona reclinável, sofá modular ou poltrona decorativa, o cupom pode ajudar a reduzir o investimento. Mas o mais importante ainda é escolher o produto certo para a sua casa. No especial Damie da Cecília você encontra dicas de escolha, comparações e cuidados na hora de montar o ambiente."
+          "Com o produto escolhido, digite CECILIA12 no checkout e confira os 12% no subtotal dos produtos e o valor final antes de pagar. Se tiver dúvida, o suporte da DAMIE pode ajudar diretamente pelo site.",
+          "Se você ainda está na fase de pesquisa, não tem pressa: escolha com calma, meça o ambiente, pense no tecido e só depois use o cupom. No especial DAMIE da Cecília há guias de escolha e cuidados para montar o ambiente."
         ],
         "links": [
           {
-            "label": "Ver o especial Damie da Cecília",
-            "href": "https://damie.emcasacomcecilia.com/?utm_source=site-principal&utm_content=cupom-page"
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=cupom-cecilia12-como-usar",
+            "sponsored": true
           },
           {
             "label": "Guia de poltrona para amamentação",
-            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-para-amamentacao?utm_source=site-principal&utm_content=cupom-page"
-          }
-        ]
-      },
-      {
-        "heading": "Veredito",
-        "paragraphs": [
-          "Com o produto escolhido, digite CECILIA12 no checkout e confira os 12% no subtotal dos produtos e o valor final antes de pagar. Se tiver dúvida, o suporte da Damie pode ajudar diretamente pelo site.",
-          "E se ainda está na fase de pesquisa, não tem pressa. Escolha com calma, meça o ambiente, pense no tecido e só depois use o cupom. O desconto está ali para quando você estiver pronta."
-        ],
-        "links": [
+            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-para-amamentacao?utm_source=site-principal&utm_content=cupom-page",
+            "sponsored": true
+          },
           {
-            "label": "Usar o cupom CECILIA12 na Damie",
+            "label": "Ver o cupom DAMIE",
             "href": "/cupons/damie"
           }
-        ]
+        ],
+        "emphasis": "Eu escolheria o produto com calma, mediria o ambiente e só então digitaria o CECILIA12; no checkout, eu conferiria a linha dos 12% antes de pagar."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom CECILIA12 funciona em qual produto da Damie? Funciona em poltronas, sofás, camas, área externa e acessórios, conforme as condições ativas no momento da compra.",
-          "Onde eu aplico o cupom CECILIA12? No checkout do site oficial da Damie, no campo de cupom ou código promocional, antes de finalizar o pagamento.",
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix.",
+          "O cupom CECILIA12 funciona em qual produto da DAMIE? Funciona em poltronas, sofás, camas, área externa e acessórios, conforme as condições ativas no momento da compra.",
+          "Onde eu aplico o cupom CECILIA12? No checkout do site oficial da DAMIE, no campo de cupom ou código promocional, antes de finalizar o pagamento.",
           "Posso mudar modelo, tecido ou cor depois de aplicar? Pode revisar a seleção antes de pagar. Depois da alteração, confira novamente o produto, o total e a linha do CECILIA12 no resumo; se o código não estiver aplicado, digite-o de novo.",
-          "Quanto tempo tenho para trocar ou devolver? São 30 dias, contados do recebimento. As [políticas da Damie](https://www.damie.com.br/pages/politicas) pedem o item como foi recebido, na embalagem original e com o comprovante, e excluem itens em promoção; leia as condições completas antes da compra.",
+          "Quanto tempo tenho para trocar ou devolver? A DAMIE dá 30 dias para testar poltronas e sofás em casa, com a embalagem original guardada e a nota fiscal: sem a embalagem, a loja não coleta. Leia as [políticas da DAMIE](https://www.damie.com.br/pages/politicas) antes de comprar.",
           "O cupom CECILIA12 acumula com outras promoções do site? Sim. O CECILIA12 soma com as promoções e os brindes do site, inclusive os 10% do Pix e o desconto por quantidade dos consultores no WhatsApp. Ele não soma com outro cupom nem com o giftback de 15%: no mesmo pedido, vale um código só. Confira o resumo do checkout antes de finalizar.",
-          "Posso usar o cupom CECILIA12 mais de uma vez? O cupom CECILIA12 é válido para múltiplas compras no site oficial, desde que esteja dentro das condições vigentes. Não há limite de uso por CPF, mas o desconto se aplica apenas ao valor do produto e não ao frete. Recomendamos confirmar o valor final no checkout antes de pagar.",
-          "O cupom CECILIA12 funciona para frete grátis? Não. O cupom CECILIA12 concede 12% de desconto sobre o valor do produto, mas não altera a política de frete. A empresa trabalha com transportadora especializada e o valor do envio é calculado no checkout conforme a região e o volume do pedido. O desconto é aplicado apenas sobre o subtotal dos produtos.",
-          "O que fazer se o cupom CECILIA12 não funcionar no checkout? Primeiro, veja se há outro cupom ou o crédito do giftback no pedido: o CECILIA12 não soma com eles. Depois, confirme que a compra está no site oficial da Damie, e não no Mercado Livre, e que o código está certo: CECILIA12, sem espaços. Se o erro persistir, confira as [regras do cupom](/cupons/damie) e fale com o suporte da Damie antes de concluir o pagamento.",
-          "Cupom Damie 15: existe cupom de 15%? O 15% que aparece na Damie é o giftback: um crédito para uma compra futura, e não um desconto na compra de agora. O CECILIA12 dá 12% na hora, sobre os produtos. Na compra em que você usa o crédito do giftback, o CECILIA12 não entra: no mesmo pedido, vale um ou outro.",
-          "Cupom Damie primeira compra: o CECILIA12 funciona? Sim, o cupom CECILIA12 funciona para primeira compra e compras subsequentes no site oficial da Damie, sem limite de uso por CPF, desde que esteja dentro das condições vigentes.",
-          "Cupom Damie 2026: o CECILIA12 ainda vale? Sim, o cupom CECILIA12 é mantido ativo pela parceria entre o blog Em Casa com Cecília e a Damie. Recomendamos sempre testar no checkout antes de finalizar para confirmar que ainda está vigente."
+          "Posso usar o CECILIA12 mais de uma vez? Pode: vale na primeira compra e nas seguintes, sem limite por CPF.",
+          "O cupom CECILIA12 funciona para frete grátis? Não: os 12% entram só sobre os produtos. O frete de poltronas e sofás já é grátis no Sul e no Sudeste; nas outras regiões, ele sai pelo CEP no carrinho.",
+          "Cupom DAMIE 15: existe cupom de 15%? O 15% que aparece na DAMIE é o giftback: um crédito para uma compra futura, e não um desconto na compra de agora. O CECILIA12 dá 12% na hora, sobre os produtos. Na compra em que você usa o crédito do giftback, o CECILIA12 não entra: no mesmo pedido, vale um ou outro.",
+          "O CECILIA12 ainda vale? Vale. Confira a linha do desconto no resumo antes de pagar."
         ]
       }
     ],
-    "updatedAt": "2026-11-06",
-    "editorialNote": "O CECILIA12 é o cupom da nossa parceria com a Damie: a compra com ele gera comissão para o site, sem custo extra para você."
+    "updatedAt": "2026-11-23",
+    "editorialNote": "Parceria com a DAMIE: link afiliado, comissão sem custo extra para você.",
+    "reviewKind": "guia",
+    "decision": {
+      "takeIf": [
+        "Use este passo a passo se você já escolheu o produto no site oficial da DAMIE e quer confirmar os 12% antes de pagar.",
+        "Use o código pagando no Pix se quer o maior desconto: os 12% entram sobre o preço que já tem os 10%."
+      ],
+      "skipIf": [
+        "Passe se a compra for pelo Mercado Livre, que atende Norte e Nordeste: o CECILIA12 não vale lá.",
+        "Passe se você ainda não escolheu o modelo: decida primeiro o produto e o revestimento, e volte aqui só no checkout."
+      ]
+    },
+    "relatedArticles": [
+      {
+        "slug": "cupom-damie-primeira-compra"
+      },
+      {
+        "slug": "poltrona-damie-e-boa"
+      },
+      {
+        "slug": "sofa-damie-modular-vale-a-pena"
+      },
+      {
+        "slug": "damie-prazo-de-entrega"
+      }
+    ]
   },
   {
     "id": 16,
     "slug": "poltrona-amamentacao-rotina",
     "title": "Poltrona de amamentação: o que fez diferença na rotina aqui em casa",
+    "seoTitle": "Poltrona de amamentação: o que fez diferença na rotina",
     "type": "Móveis & Conforto",
     "category": "produtos-experiencias",
-    "description": "Descubra o que realmente importa ao escolher uma poltrona de amamentação. Dicas práticas da rotina real da Cecília, com link para o guia completo e cupom CECILIA12.",
+    "reviewKind": "produto",
+    "productName": "Poltrona reclinável DAMIE 1.0",
+    "brand": "Damie",
+    "rating": 5,
+    "description": "O que fez diferença na poltrona de amamentação da Cecília depois de mais de um ano de uso: reclinação, apoio de braço, tecido e o que olhar antes de comprar.",
+    "metaDescription": "O cupom CECILIA12 dá 12% OFF na DAMIE. Poltrona de amamentação na rotina: reclinação elétrica, apoio de braço e linho após mais de um ano.",
     "publishedAt": "09 Jun 2026",
     "publishedAtISO": "2026-06-09",
     "image": "/images/reviews/damie/poltrona-amamentacao-rotina-capa-v2.webp",
@@ -31863,34 +31996,91 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://www.youtube.com/shorts/ep2XlSQ_OiM",
-    "pros": [],
-    "cons": [],
-    "affiliate": "damie",
-    "contentSections": [
+    "pros": [
+      "Reclinação elétrica silenciosa, que não acorda o bebê",
+      "Apoio de braço na altura certa para a mamada",
+      "Linho bege respirável para lugar quente",
+      "Montagem simples, sem perder um dia com o bebê em casa",
+      "Depois da fase da amamentação, segue como poltrona de descanso e de leitura"
+    ],
+    "cons": [
+      "Investimento maior que uma poltrona manual",
+      "Pede uma tomada perto do canto escolhido",
+      "Não é lugar de sono: o bebê volta ao berço depois da mamada"
+    ],
+    "verdict": {
+      "stars": 5,
+      "recommendation": "recomendo",
+      "summary": "Depois de mais de um ano, a poltrona virou parte da rotina: recomendo para quem quer um canto confortável para amamentar e, depois, para descansar."
+    },
+    "productSpec": [
       {
-        "heading": "Introdução",
-        "paragraphs": [
-          "Quando o Ian nasceu, eu achava que o cantinho da amamentação seria o sofá da sala. Colocava uma almofada nas costas, outra no braço, escolhia um lado mais confortável do estofado e ficava ali o tempo da mamada. Funcionou? Até funcionou. Mas depois de algumas semanas começaram as dores: na lombar, no pescoço, no braço que ficava sem apoio. E o pior era quando eu finalmente conseguia colocar o Ian para dormir no peito, mas não conseguia ajustar minha própria posição sem acordar ele.",
-          "Foi aí que a gente começou a pensar seriamente em uma poltrona de amamentação. Não uma cadeira genérica de escritório, não um puff improvisado. Algo que realmente me segurasse durante sessões de 20, 30, 40 minutos, várias vezes ao dia. Hoje, depois de mais de um ano usando a nossa, consigo dizer o que realmente fez diferença — e o que eu olharia de novo se tivesse que escolher."
-        ]
+        "key": "Marca",
+        "value": "DAMIE"
       },
       {
-        "heading": "Resposta rápida: o que funciona de verdade",
+        "key": "Modelo usado",
+        "value": "Poltrona reclinável DAMIE 1.0, linho bege, elétrica"
+      },
+      {
+        "key": "Tempo de uso",
+        "value": "Mais de um ano de uso diário"
+      },
+      {
+        "key": "Cupom disponível",
+        "value": "CECILIA12, 12% off",
+        "highlight": true
+      },
+      {
+        "key": "Onde comprar",
+        "value": "Site oficial DAMIE"
+      }
+    ],
+    "cta": {
+      "text": "Use o cupom CECILIA12 para garantir 12% OFF em todos os produtos do site da DAMIE.",
+      "label": "Ir para a DAMIE com o CECILIA12",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-amamentacao-rotina",
+      "sponsored": true
+    },
+    "coupon": "CECILIA12",
+    "affiliate": "damie",
+    "relatedArticles": [
+      {
+        "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
+      },
+      {
+        "slug": "poltrona-de-amamentacao-como-escolher"
+      },
+      {
+        "slug": "poltrona-damie-e-boa"
+      },
+      {
+        "slug": "cupom-cecilia12-como-usar"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Na nossa DAMIE 1.0 em linho, recebida em parceria e usada há mais de um ano, a reclinação elétrica e o apoio de braço fizeram diferença. Para o sono, o bebê volta ao berço, porque a poltrona é para mamar acordada. O [cupom CECILIA12](/cupons/damie) dá 12% no site da Damie e soma com as promoções."
+          "Na nossa DAMIE 1.0 em linho, recebida em parceria e usada há mais de um ano, a reclinação elétrica e o apoio de braço fizeram diferença. Para o sono, o bebê volta ao berço, porque a poltrona é para mamar acordada. O [cupom CECILIA12](/cupons/damie) dá 12% no site da DAMIE e soma com as promoções."
         ]
       },
       {
         "heading": "Como a poltrona entrou na rotina",
         "paragraphs": [
-          "No começo eu amamentava em qualquer lugar. Cama, sofá, cadeira da cozinha. Cada lugar tinha um problema: na cama eu acabava deitada de um jeito ruim para a coluna, no sofá afundava demais e não tinha apoio de braço, na cadeira da cozinha ficava rígida demais. O corpo foi acumulando cansaço e, sem eu perceber, a amamentação virou uma tarefa desconfortável.",
+          "Quando o Ian nasceu, eu achava que o cantinho da amamentação seria o sofá da sala. Colocava uma almofada nas costas, outra no braço, escolhia um lado mais confortável do estofado e ficava ali o tempo da mamada. Funcionou? Até funcionou. Mas depois de algumas semanas começaram as dores: na lombar, no pescoço, no braço que ficava sem apoio. E o pior era quando eu finalmente conseguia colocar o Ian para dormir no peito, mas não conseguia ajustar minha própria posição sem acordar ele.",
+          "Foi aí que a gente começou a pensar seriamente em uma poltrona de amamentação, algo que me segurasse em sessões de 20, 30, 40 minutos, várias vezes ao dia.",
           "A poltrona reclinável mudou isso porque ela permite ajustar a posição sem eu precisar me movimentar muito. Quando o Ian está mais agitado, deixo o encosto mais ereto; quando ele se acalma, reclino um pouco para aliviar as costas. Quando ele dorme, vai para o berço: a poltrona é para mamar acordada, não para dormir com ele no colo.",
-          "O movimento é silencioso — e isso não é detalhe pequeno, porque qualquer barulho pode acordar o bebê e reiniciar tudo do zero. Outra coisa que só descobri usando: o apoio de braços. Não basta ter braços na poltrona. Eles precisam estar na altura certa para que o bebê fique alinhado ao seio sem você ter que curvar os ombros. Quando o braço fica muito baixo, você acaba compensando com a coluna. Quando fica muito alto, fica rígido. A altura ideal é quase sempre algo intermediário."
+          "O movimento é silencioso, e isso não é detalhe pequeno: qualquer barulho pode acordar o bebê e reiniciar tudo do zero. Outra coisa que só descobri usando: o apoio de braços. Não basta ter braços na poltrona. Eles precisam estar na altura certa para que o bebê fique alinhado ao seio sem você ter que curvar os ombros. Quando o braço fica muito baixo, você acaba compensando com a coluna. Quando fica muito alto, fica rígido. A altura ideal é quase sempre algo intermediário."
         ],
-        "image": "/images/reviews/poltrona-reclinavel-cecilia.webp",
-        "imageAlt": "Cecília e o Ian sentados na poltrona reclinável bege da sala de estar.",
-        "imageCaption": "A poltrona virou cantinho fixo de amamentação e descanso no fim do dia.",
-        "imageFit": "portrait"
+        "image": {
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-4x5.webp",
+          "alt": "Cecília e o Ian sentados na poltrona reclinável bege da sala de estar.",
+          "caption": "A poltrona virou cantinho fixo de amamentação e descanso no fim do dia.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        }
       },
       {
         "heading": "Sono seguro: a poltrona é para mamar acordada",
@@ -31912,27 +32102,19 @@ export const reviewsData: unknown[] = [
           "5. Tomada próxima: se for elétrica, verifique se há ponto de energia perto do canto escolhido. Parece óbvio, mas já vi gente esquecer disso.",
           "6. Espaço ao redor: um banco ou uma mesa lateral por perto vale tanto quanto a própria poltrona."
         ],
-        "image": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp",
-        "imageAlt": "Cecília mostrando o botão de reclinação na lateral da poltrona reclinável.",
-        "imageCaption": "O botão na lateral permite ajustar a posição sem movimentos bruscos — importante quando o bebê acabou de dormir.",
-        "imageFit": "portrait"
-      },
-      {
-        "heading": "Onde a Damie pode entrar nessa decisão",
-        "paragraphs": [
-          "Quando a gente pesquisou opções, encontramos várias poltronas reclináveis no mercado. A Damie apareceu como uma alternativa brasileira com boa variedade de revestimentos e mecanismos que fazem sentido para quem vai usar a poltrona como cantinho de amamentação e, depois, como lugar de descanso da família.",
-          "A nossa é a DAMIE 1.0 em linho bege, que recebemos da Damie em parceria. O linho é respirável, o que conta para quem vive em lugar quente, e a montagem foi simples: com bebê pequeno em casa, não dá para perder um dia inteiro montando móvel. A reclinação é elétrica e silenciosa, e dá para mudar de posição sem acordar o Ian.",
-          "No site da Damie, o cupom CECILIA12 dá 12% OFF em todos os produtos, com qualquer forma de pagamento. Ele soma com as promoções do site, inclusive os 10% do Pix, mas não com outro cupom nem com o giftback de 15%; as condições estão na [página do cupom da Damie](/cupons/damie).",
-          "Se está pesquisando, vale ler o guia quando comparar modelos:"
-        ],
-        "image": "/images/reviews/poltrona-reclinavel-cecilia-ian.webp",
-        "imageAlt": "Cecília com o Ian no colo na poltrona reclinável.",
-        "imageCaption": "O cantinho de amamentação virou também lugar de descanso, leitura e momentos juntos no fim do dia.",
-        "imageFit": "portrait",
+        "image": {
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao-4x5.webp",
+          "alt": "Cecília mostrando o botão de reclinação na lateral da poltrona reclinável.",
+          "caption": "O botão na lateral permite ajustar a posição sem movimentos bruscos, o que importa quando o bebê acabou de dormir.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        },
         "links": [
           {
             "label": "Guia: como escolher poltrona para amamentação",
-            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-para-amamentacao?utm_source=site-principal&utm_content=amamentacao"
+            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-para-amamentacao?utm_source=site-principal&utm_content=amamentacao",
+            "sponsored": true
           }
         ]
       },
@@ -31940,15 +32122,49 @@ export const reviewsData: unknown[] = [
         "heading": "Veredito",
         "paragraphs": [
           "Nossa poltrona virou parte da rotina. Não é apenas o lugar da amamentação: é onde eu descanso depois que o Ian vai para o berço e onde a gente se senta para ler histórias no fim do dia. Se você está montando esse cantinho agora, escolha pensando no conforto real do dia a dia, não só na foto do ambiente.",
-          "Se quiser conhecer a linha de poltronas da Damie, dá uma olhada no especial Damie da Cecília. Use o cupom CECILIA12 no checkout e confira os 12% no total antes de finalizar a compra; as [regras do cupom](/cupons/damie) explicam com o que ele soma."
+          "A nossa é a DAMIE 1.0 em linho bege, recebida em parceria. O linho é respirável, a montagem foi simples e a reclinação elétrica é silenciosa: dá para mudar de posição sem acordar o Ian.",
+          "No site da DAMIE, o cupom CECILIA12 dá 12% OFF em todos os produtos, em todas as formas de pagamento. Ele soma com as promoções do site, inclusive os 10% do Pix, mas não com outro cupom nem com o giftback de 15%; as condições estão na [página do cupom DAMIE](/cupons/damie)."
         ],
-        "image": "/images/reviews/poltrona-reclinavel-cecilia-ian.webp",
-        "imageAlt": "Cecília com o Ian no colo na poltrona reclinável.",
-        "imageCaption": "O cantinho de amamentação virou também lugar de descanso, leitura e momentos juntos no fim do dia."
+        "image": {
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-ian-4x5.webp",
+          "alt": "Cecília com o Ian no colo na poltrona reclinável.",
+          "caption": "O cantinho de amamentação virou também lugar de descanso, leitura e momentos juntos no fim do dia.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        },
+        "emphasis": "Na minha casa, eu escolheria de novo uma poltrona reclinável elétrica para amamentar: o silêncio do motor e o apoio de braço fizeram mais diferença que qualquer detalhe de design.",
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-amamentacao-rotina",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a poltrona reclinável na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix, mas não com outro cupom nem com o giftback.",
+          "Posso dormir com o bebê na poltrona de amamentação? Não: a poltrona é para mamar acordada. A Academia Americana de Pediatria alerta para o risco de dormir com o bebê em sofá ou poltrona; para dormir, o bebê vai de barriga para cima em berço ou moisés, com superfície firme e sem objetos soltos.",
+          "Poltrona elétrica ou manual para amamentar? A elétrica ajuda quando você está com o bebê em uma das mãos, porque dá para mudar a posição sem esforço. A manual costuma custar menos.",
+          "A poltrona elétrica precisa de tomada? Sim, então confira se há um ponto de energia perto do canto escolhido antes de comprar.",
+          "Qual tecido escolher para a poltrona de amamentação? Vazamentos acontecem, então vale um tecido resistente e fácil de limpar. A nossa é em linho bege, que é respirável e funciona bem em lugar quente.",
+          "Como funciona o teste de 30 dias da DAMIE? A poltrona volta completa, na embalagem original e com a nota fiscal. Guarde a caixa até o fim do teste: sem ela, a DAMIE não coleta."
+        ]
       }
     ],
-    "updatedAt": "2026-11-06",
-    "editorialNote": "Recebemos as poltronas da Damie em parceria. O link é afiliado: comissão sem custo extra para você."
+    "updatedAt": "2026-11-23",
+    "editorialNote": "Poltrona recebida em parceria. O link é afiliado: comissão sem custo extra."
   },
   {
     "id": 15,
@@ -32456,7 +32672,7 @@ export const reviewsData: unknown[] = [
     "productSpec": [
       {
         "key": "Marca",
-        "value": "Damie"
+        "value": "DAMIE"
       },
       {
         "key": "Modelo testado",
@@ -32472,15 +32688,11 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Base",
-        "value": "Giratória, preto fosco; a nossa não dá a volta inteira"
+        "value": "Giratória de 280°, preto fosco"
       },
       {
         "key": "Revestimentos",
         "value": "Couro Bovino (6 cores) e Linho italiano (4 cores)"
-      },
-      {
-        "key": "Peso suportado",
-        "value": "Até 130 kg"
       },
       {
         "key": "Garantia",
@@ -32493,14 +32705,14 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Onde comprar",
-        "value": "Site oficial Damie"
+        "value": "Site oficial DAMIE"
       }
     ],
-    "description": "A Poltrona Levita da Damie numa casa com duas crianças: os dois motores, a posição de gravidade zero, o giro, a limpeza do couro e se vale pagar por ela.",
+    "description": "A Poltrona Levita da DAMIE numa casa com duas crianças: os dois motores, a posição de gravidade zero, o giro, a limpeza do couro e se vale pagar por ela.",
     "metaDescription": "O cupom CECILIA12 dá 12% OFF na DAMIE. Poltrona Levita elétrica: dois motores independentes, ajuste de pescoço, base giratória e se vale pagar por eles.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "image": "/images/reviews/damie/poltrona-levita-o-topo-da-tecnologia-e-conforto-capa-v2.webp",
     "imageAlt": "Cecília sentada na Poltrona Levita da DAMIE, em couro caramelo.",
     "imageFit": "contain",
@@ -32520,16 +32732,15 @@ export const reviewsData: unknown[] = [
       },
       {
         "image": "/images/reviews/poltrona-levita-especificacoes.webp",
-        "alt": "Especificações técnicas da Poltrona Levita Elétrica Damie.",
-        "caption": "Especificações técnicas da Poltrona Levita Elétrica Damie."
+        "alt": "Especificações técnicas da Poltrona Levita Elétrica DAMIE.",
+        "caption": "Especificações técnicas da Poltrona Levita Elétrica DAMIE."
       }
     ],
     "pros": [
       "Dois motores independentes",
       "Ajuste manual de pescoço",
-      "Base giratória",
-      "Couro bovino ou linho italiano",
-      "Cupom CECILIA12 disponível"
+      "Base giratória de 280°",
+      "Couro bovino ou linho italiano"
     ],
     "cons": [
       "Produto premium de alto investimento",
@@ -32537,18 +32748,19 @@ export const reviewsData: unknown[] = [
       "Ocupa mais espaço que uma poltrona decorativa"
     ],
     "cta": {
-      "text": "Use o cupom CECILIA12 para garantir 12% OFF em todos os produtos do site da Damie.",
+      "text": "O cupom CECILIA12 dá 12% OFF em todo o site da DAMIE.",
       "label": "Usar o cupom",
-      "url": "https://damie.emcasacomcecilia.com"
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-levita-o-topo-da-tecnologia-e-conforto",
+      "sponsored": true
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Recebemos a Levita da Damie em parceria. O link é afiliado: comissão sem custo extra para você.",
+    "editorialNote": "Recebemos a Levita da DAMIE em parceria. Link afiliado: comissão sem custo extra.",
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para nós, a Levita vale para quem usa a poltrona todo dia: os dois motores reclinam encosto e pés separados até a posição de gravidade zero, com um ruído menor que o de um ventilador. Para quem quer só uma poltrona bonita, não compensa. No site da Damie, o cupom CECILIA12 dá 12% OFF."
+          "Para nós, a Levita vale para quem usa a poltrona todo dia: os dois motores reclinam encosto e pés separados até a posição de gravidade zero, com um ruído menor que o de um ventilador. Para quem quer só uma poltrona bonita, não compensa. No site da DAMIE, o cupom CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -32560,25 +32772,33 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Dois motores independentes e ajuste de pescoço",
-        "image": "/images/reviews/poltrona-levita-cecilia-sala.webp",
-        "imageAlt": "Cecília relaxando na Poltrona Levita na sala de estar.",
-        "imageCaption": "A Levita no ambiente da sala, pronta para momentos de descanso.",
-        "imageFit": "portrait",
+        "image": {
+          "src": "/images/reviews/poltrona-levita-cecilia-sala-4x5.webp",
+          "alt": "Cecília relaxando na Poltrona Levita na sala de estar.",
+          "caption": "A Levita na nossa sala.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+        },
         "paragraphs": [
-          "Os dois motores deixam ajustar os pés e o encosto separadamente. São três botões: um para o encosto, um para os pés e um que volta os dois de uma vez. Antes, as nossas reclináveis eram manuais.",
+          "Os dois motores deixam ajustar os pés e o encosto separadamente. São três botões: um para o encosto, um para os pés e um que volta os dois de uma vez. Nas nossas outras reclináveis, um motor só move pés e encosto juntos.",
           "No nosso uso, as posições que mais fazem sentido são duas: só os pés para cima, com a coluna reta, e pés e encosto juntos, até a posição de gravidade zero, a da cadeira do dentista, com o peso do corpo distribuído. Baixar só o encosto deixa as pernas penduradas. O motor faz um ruído baixo, bem menor que o de um ventilador.",
           "O apoio de cabeça tem ajuste manual e pede um pouco de força para posicionar. É isso que o deixa firme: quando a cabeça encosta, ele não volta. Deitada, dá para erguer a cabeça e ler ou ver uma tela sem forçar o pescoço."
         ]
       },
       {
-        "heading": "Base giratória, bivolt e montagem simples",
-        "image": "/images/reviews/poltrona-levita-cecilia-lateral.webp",
-        "imageAlt": "Vista lateral da Cecília sentada na Poltrona Levita.",
-        "imageCaption": "Perfil da poltrona mostrando o acabamento e o encosto.",
-        "imageFit": "portrait",
+        "heading": "Base giratória, bivolt e entrega já montada",
+        "image": {
+          "src": "/images/reviews/poltrona-levita-cecilia-lateral-4x5.webp",
+          "alt": "Vista lateral da Cecília sentada na Poltrona Levita.",
+          "caption": "Perfil da poltrona mostrando o acabamento e o encosto.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+        },
         "paragraphs": [
-          "A página oficial fala em giro de 360° na apresentação e de até 280° na FAQ. A nossa não dá a volta inteira, o que bate com a FAQ. A base tem acabamento em preto fosco, e o giro deixa abrir a poltrona só nos ângulos em que há espaço.",
-          "Outro ponto importante é que os componentes eletrônicos são bivolt. Para um produto elétrico desse porte, isso reduz preocupação na instalação e facilita o uso em diferentes casas.",
+          "A base gira 280°, como diz a FAQ da página e como a nossa faz: ela não dá a volta inteira. O acabamento é em preto fosco, e o giro deixa abrir a poltrona só nos ângulos em que há espaço.",
+          "A fonte é bivolt: liga em 110 V ou 220 V sem adaptador.",
           "A nossa chegou montada, numa peça só, dentro de uma caixa grande com estrutura de madeira. Na caixa, ela não passa por uma porta de 80 cm; fora dela, passou sem arranhar. Quem mora sozinho vai precisar de ajuda para levar a caixa para dentro; depois, dá para arrastar a poltrona sozinho. O resto é ligar o fio na tomada.",
           "Totalmente aberta, ela ocupou o comprimento de três porcelanatos de 60 cm na nossa sala. O desenho é fino, e o aspirador passa por baixo dela.",
           "No nosso uso, o Bruno, com 1,80 m e 80 kg, pressionou os lados e o encosto com a poltrona deitada. Ela balançou e chegou a arrastar, mas não virou. Com crianças em casa, siga as instruções de uso e de estabilidade da marca."
@@ -32590,7 +32810,7 @@ export const reviewsData: unknown[] = [
           "A escolha é entre Couro Bovino e Linho italiano. No couro, as cores são Castanho, Preto, Cinza Escuro, Avelã Fosco, Off White e Verde Militar. No Linho italiano, aparecem opções como Areia, Cinza Claro, Amêndoa e Cinza Chumbo.",
           "A página oficial descreve o couro como durável e fácil de limpar, com produtos específicos de manutenção, e o linho italiano como encorpado, de textura nobre e resistente.",
           "A nossa é de couro bovino caramelo, cor que saiu do site. Na limpeza do dia a dia, bastam um pano e o aspirador, que entra nas frestas. Café e leite derramados saem com um pano seco; o que suja o couro de verdade é a gordura do corpo, e para isso há produtos próprios para couro.",
-          "Com crianças ou animais, a Cecília não recomenda o linho: nas cadeiras de linho aqui de casa, a mancha fica mesmo com produto profissional."
+          "Com crianças ou animais, eu não recomendo o linho: nas cadeiras de linho aqui de casa, a mancha fica mesmo com produto profissional."
         ]
       },
       {
@@ -32601,49 +32821,63 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Sobre a Damie",
-        "paragraphs": [
-          "A Damie (Dix Indústria de Estofados Ltda) é uma marca brasileira de móveis de alto padrão, sediada em Frederico Westphalen, no Rio Grande do Sul. No site, há poltronas reclináveis, sofás, camas e móveis para áreas externas."
-        ]
-      },
-      {
         "heading": "Entrega, garantia e teste em casa",
         "paragraphs": [
           "A nossa levou 11 dias, contados da emissão da nota, até o interior de Minas Gerais, e chegou bem embalada.",
-          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste, frete e prazo são calculados pelo CEP. Para Norte e Nordeste, a página de entregas direciona aos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo do site conta da confirmação do pagamento.",
-          "A loja dá garantia de 1 ano, suporte vitalício e 30 dias para testar. Para devolver no teste, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal. Por isso, guarde a caixa até o fim do teste.",
-          "Suporta até 130 kg, a venda é online e há showroom em Frederico Westphalen (RS), diz a Damie. Comprando sem experimentar, o teste de 30 dias em casa pesa a favor.",
-          "Como todo produto premium e elétrico, o ideal é conferir medidas, espaço de abertura, tomada próxima, revestimento e cor antes de finalizar a compra."
+          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste, frete e prazo são calculados pelo CEP. Para Norte e Nordeste, a página de entregas direciona aos anúncios oficiais da DAMIE no Mercado Livre, onde o CECILIA12 não vale. O prazo do site conta da confirmação do pagamento.",
+          "A loja dá garantia de 1 ano, suporte vitalício e 30 dias para testar. Para devolver no teste, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da DAMIE, com o nome completo e o número da nota fiscal. Por isso, guarde a caixa até o fim do teste.",
+          "A venda é online, e há showroom em Frederico Westphalen (RS), diz a DAMIE. Comprando sem experimentar, o teste de 30 dias em casa pesa a favor."
         ]
       },
       {
-        "heading": "Cupom CECILIA12",
+        "heading": "Vale a pena a Poltrona Levita da DAMIE?",
         "paragraphs": [
-          "O cupom CECILIA12 dá 12% OFF em todos os produtos do site da Damie, com qualquer forma de pagamento. Ele soma com as promoções do site, inclusive os 10% do Pix, mas não com outro cupom nem com o giftback de 15%.",
-          "A Levita é um produto de investimento alto, então um desconto real faz diferença. A recomendação é escolher revestimento e cor com calma, verificar o espaço disponível e aplicar o CECILIA12 no checkout para conferir o valor final."
+          "A Levita faz sentido para quem usa a reclinação no dia a dia. Na nossa casa, os ajustes separados de pés e encosto e o apoio de cabeça foram mais úteis que a ideia genérica de uma poltrona “premium”.",
+          "Ela não é a escolha mais barata. Aqui, com duas crianças e duas pessoas trabalhando em casa, a Levita passou pelo uso diário, pela limpeza e pelos jogos longos do Bruno, e seguimos gostando muito dela. Para quem vai usar esse conforto todo dia, vale o investimento.",
+          "O CECILIA12 dá 12% OFF em todo o site, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix, mas não com outro cupom nem com o giftback de 15%. Na campanha de Black Friday, até 27/11, a Levita aparece com preço riscado na página e a DAMIE dá brindes na compra de uma poltrona; confira no carrinho o que entra no seu pedido."
         ],
+        "emphasis": "Na minha casa, eu escolheria a Levita outra vez, porque o dia a dia pede pés para cima sem deitar o encosto; se o que eu quisesse fosse só uma poltrona bonita, eu ficaria com uma mais simples.",
         "links": [
           {
-            "label": "Regras do cupom CECILIA12",
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-levita-o-topo-da-tecnologia-e-conforto",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Levita na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
             "href": "/cupons/damie"
-          },
-          {
-            "label": "Usar cupom CECILIA12",
-            "href": "https://damie.emcasacomcecilia.com"
-          },
-          {
-            "label": "Comprar no site da Damie",
-            "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
           }
         ]
       },
       {
-        "heading": "Veredito",
-        "paragraphs": [
-          "A Levita faz sentido para quem usa a reclinação no dia a dia. Na nossa casa, os ajustes separados de pés e encosto e o apoio de cabeça foram mais úteis que a ideia genérica de uma poltrona “premium”.",
-          "Ela não é a escolha mais barata. Aqui, com duas crianças e duas pessoas trabalhando em casa, a Levita passou pelo uso diário, pela limpeza e pelos jogos longos do Bruno, e seguimos gostando muito dela. Para quem vai usar esse conforto todo dia, vale o investimento."
-        ],
-        "emphasis": "A Levita vale o investimento para quem vai usar o conforto todo dia; para quem quer só uma poltrona bonita pelo menor preço, ela não é a escolha."
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix.",
+          "Para que servem os dois motores da Levita? Um ajusta o encosto e o outro, os pés, separadamente: dá para erguer só os pés com a coluna reta ou ir até a posição de gravidade zero. Um terceiro botão volta os dois de uma vez.",
+          "A Levita dá a volta inteira? Não: a base gira 280°, como diz a FAQ da página, e a nossa não dá a volta inteira.",
+          "A Levita chega montada? Chega, numa peça só, numa caixa grande com estrutura de madeira. Na nossa, a caixa não passou por uma porta de 80 cm, e a poltrona fora dela passou; meça o caminho antes de comprar.",
+          "O couro da Levita é difícil de limpar? No dia a dia, bastam um pano e o aspirador; café e leite saem com pano seco. A gordura do corpo é o que suja o couro de verdade, e há produtos próprios para ele.",
+          "A Levita serve para quem tem criança ou animal em casa? Eu prefiro o couro, porque o linho mancha, mesmo com produto profissional. Com crianças, siga as instruções de uso e de estabilidade da marca."
+        ]
+      }
+    ],
+    "relatedArticles": [
+      {
+        "slug": "poltrona-damie-e-boa"
+      },
+      {
+        "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
+      },
+      {
+        "slug": "poltrona-moon-design-que-parece-obra-de-arte"
+      },
+      {
+        "slug": "black-friday-damie"
       }
     ]
   },
@@ -32654,11 +32888,11 @@ export const reviewsData: unknown[] = [
     "type": "Praticidade & Conforto",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
-    "rating": 4.9,
+    "rating": 5,
     "verdict": {
-      "stars": 4.9,
+      "stars": 5,
       "recommendation": "recomendo",
-      "summary": "Entrega em caixas, montagem simples e flexibilidade modular: conforto que vale o investimento para casas reais."
+      "summary": "Entrega em caixas, montagem simples e flexibilidade modular: valeu para a nossa sala, depois de mais de um ano de uso."
     },
     "productSpec": [
       {
@@ -32708,10 +32942,10 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Mais de um ano com o Sofá Damie na Caixa de 3 lugares com puff, em azul denim: entrega em caixas, montagem por encaixe, medidas, conforto e se vale o investimento.",
-    "metaDescription": "Sofá Damie na caixa, com o cupom CECILIA12 de 12% OFF: vale o modular de 3 lugares com puff, pela entrega em caixas, montagem e conforto.",
+    "metaDescription": "Sofá Damie na Caixa com o CECILIA12, 12% OFF: vale o modular de 3 lugares com puff, pela entrega em caixas, montagem e conforto?",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-23",
     "image": "/images/reviews/damie/sofa-damie-na-caixa-vale-a-pena-o-modular-capa-v2.webp",
     "imageAlt": "Cecília apoia as mãos no puff separado do sofá modular azul da DAMIE na sala de casa.",
     "imageFit": "contain",
@@ -32745,7 +32979,7 @@ export const reviewsData: unknown[] = [
       "Modulagem flexível",
       "Boa solução para apartamentos",
       "Visual moderno",
-      "Cupom CECILIA12 disponível"
+      "30 dias de teste em casa"
     ],
     "cons": [
       "Montagem inicial exige atenção aos módulos",
@@ -32754,8 +32988,9 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "Use o cupom CECILIA12 para garantir 12% OFF em todos os produtos do site da Damie.",
-      "label": "Usar o cupom",
-      "url": "https://damie.emcasacomcecilia.com"
+      "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-damie-na-caixa-vale-a-pena-o-modular",
+      "sponsored": true
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
@@ -32767,24 +33002,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Para quem é o Sofá Damie na Caixa",
-        "paragraphs": [
-          "Para quem precisa passar o sofá por escada, elevador pequeno ou corredor estreito, o modular de 3 lugares com puff facilita: os módulos chegam em caixas e montam dentro do ambiente. Antes de comprar, compare as medidas com a porta, o elevador e as curvas do caminho."
-        ],
-        "links": [
-          {
-            "label": "Ver cupom CECILIA12 na página Damie",
-            "href": "https://damie.emcasacomcecilia.com"
-          }
-        ]
-      },
-      {
         "heading": "O que chama atenção no conceito modular",
-        "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
-        "imageAlt": "Cecília mostrando a composição modular do sofá Damie na sala.",
-        "imageCaption": "A flexibilidade dos módulos permite montar o sofá conforme o ambiente.",
-        "imageFit": "portrait",
+        "image": {
+          "src": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito-4x5.webp",
+          "alt": "Cecília mostrando a composição modular do sofá Damie na sala.",
+          "caption": "A flexibilidade dos módulos permite montar o sofá conforme o ambiente.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        },
         "paragraphs": [
+          "Para quem precisa passar o sofá por escada, elevador pequeno ou corredor estreito, o modular de 3 lugares com puff facilita: os módulos chegam em caixas e montam dentro do ambiente. Antes de comprar, compare as medidas com a porta, o elevador e as curvas do caminho.",
           "A liberdade de configuração: dá para começar com 2 lugares, ficar nos 3 com puff ou montar 4 a 6 lugares.",
           "O número de lugares acompanha seu espaço e seu orçamento. No modelo de 3 lugares com puff, dá para montar uma sala confortável para lazer em família e ainda reposicionar o apoio de pé conforme o momento.",
           "A modularidade permite reorganizar a composição e separar os módulos para a limpeza. Isso é diferente de garantir que qualquer tamanho ou configuração vá caber na sala; confira as medidas antes de escolher."
@@ -32792,23 +33020,31 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Entrega e montagem",
-        "image": "/images/reviews/sofa-damie-na-caixa-cecilia-montagem.webp",
-        "imageAlt": "Cecília ao lado dos módulos do sofá Damie na Caixa.",
-        "imageCaption": "Os módulos separados facilitam a entrega e a montagem no ambiente.",
-        "imageFit": "portrait",
+        "image": {
+          "src": "/images/reviews/sofa-damie-na-caixa-cecilia-montagem-4x5.webp",
+          "alt": "Cecília ao lado dos módulos do sofá Damie na Caixa.",
+          "caption": "Os módulos separados facilitam a entrega e a montagem no ambiente.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        },
         "paragraphs": [
           "O nosso chegou com cada módulo na própria caixa. A casa tem corredor, curva e uma porta de quarto que estreita o caminho, e as caixas passaram. Abrimos tudo no meio da sala, separamos as peças e fomos encaixando, sem marceneiro: o que pede atenção é seguir a ordem de montagem.",
           "Pela página do produto, os módulos travam por encaixe, sem furadeira nem ferramentas pesadas. O esquema técnico da página mostra o sofá de 3 lugares com 260 cm de largura, 86 cm de profundidade e 92 cm de altura, com o assento a 44 cm do chão e 58 cm de fundo; cada lugar tem 80 cm de largura. A página não traz as medidas das caixas: se o acesso for apertado, peça à Damie antes de fechar a compra e compare com a porta, o elevador e o corredor.",
-          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
+          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste, frete e prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da DAMIE no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
           "A loja dá garantia de 1 ano e 30 dias para testar. Para devolver no teste, o sofá precisa voltar completo, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal. Por isso, guarde as caixas até o fim do teste."
         ]
       },
       {
         "heading": "Conforto e uso no dia a dia",
-        "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conforto.webp",
-        "imageAlt": "Cecília aproveitando o conforto do Sofá Damie Modular na sala.",
-        "imageCaption": "O uso diário do sofá se adapta a descanso, filmes e momentos em família.",
-        "imageFit": "portrait",
+        "image": {
+          "src": "/images/reviews/sofa-damie-na-caixa-cecilia-conforto-4x5.webp",
+          "alt": "Cecília aproveitando o conforto do Sofá Damie Modular na sala.",
+          "caption": "O uso diário do sofá se adapta a descanso, filmes e momentos em família.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        },
         "paragraphs": [
           "Usamos o sofá todos os dias há mais de um ano: para conversar, brincar com os filhos, ler e até cochilar. O uso vai de moderado a intenso, e o conforto, a estrutura e a parte elétrica continuam como no dia em que ele chegou. O puff fica na frente para esticar as pernas na TV e vira assento extra quando chega visita.",
           "Esse não é o tipo de compra que deve ser avaliada só pela foto. Vale pensar em profundidade do assento, altura do encosto, tecido, rotina da casa e quantidade de pessoas que realmente vão usar o sofá todos os dias."
@@ -32824,42 +33060,61 @@ export const reviewsData: unknown[] = [
         "heading": "Materiais, acabamento e personalização",
         "paragraphs": [
           "A Damie trabalha com uma linha de estofados mais premium, então a escolha do revestimento pesa bastante na experiência final. A página do produto oferece opções como Tecido Suede, Tecido Bouclé, Tecido Linho, Corino Importado e Couro Bovino.",
-          "Também há várias cores disponíveis, incluindo bege, marrom, cinza, preto, azul denim, caramelo, off white, verde militar e branco. Tecidos mais claros deixam o ambiente leve e sofisticado, enquanto tons escuros tendem a ser mais práticos para uso intenso.",
+          "Também há várias cores disponíveis. Tom escuro disfarça melhor o uso intenso; o claro pede mais cuidado.",
           "No nosso, azul denim, escolhemos dois opcionais: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico e mudam o preço.",
           "Antes de comprar, vale observar a rotina da casa: tem criança, pet, muita visita, sala quente, uso diário para TV ou uso mais decorativo? Essas respostas ajudam a escolher tecido, cor e configuração sem cair só na escolha estética."
         ]
       },
       {
-        "heading": "Veredito: vale o investimento?",
+        "heading": "Vale a pena o Sofá Damie na Caixa modular?",
         "paragraphs": [
-          "Para nós, valeu: depois de mais de um ano, o sofá é um dos móveis mais usados da casa. O puff serve para esticar as pernas na TV e vira assento extra nas visitas; tomada com USB e carregamento por indução foram opcionais escolhidos por nós.",
-          "Para decidir, compare acesso, medidas da sala, quantidade de módulos, tecido e preço da configuração completa. Se a entrada for estreita, peça as medidas das caixas à Damie."
+          "Para nós, valeu: depois de mais de um ano, o sofá é um dos móveis mais usados da casa, e os opcionais elétricos seguem funcionando.",
+          "Para decidir, compare acesso, medidas da sala, quantidade de módulos, tecido e preço da configuração completa. Se a entrada for estreita, peça as medidas das caixas à Damie.",
+          "O CECILIA12 dá 12% OFF em todo o site, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix, mas não com outro cupom nem com o giftback de 15%."
+        ],
+        "emphasis": "Na minha casa, eu escolheria de novo o modular de 3 lugares com puff, pela entrada em caixas e pelo puff que vira assento extra; antes, eu mediria porta, elevador e corredor.",
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-damie-na-caixa-vale-a-pena-o-modular",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o sofá modular na DAMIE",
+            "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
         ]
       },
       {
-        "heading": "Cupom CECILIA12",
-        "paragraphs": [
-          "O cupom CECILIA12 dá 12% OFF em todos os produtos do site da Damie, com qualquer forma de pagamento. Ele soma com as promoções do site, inclusive os 10% do Pix, mas não com outro cupom nem com o giftback de 15%.",
-          "A recomendação é comparar medidas, módulos e tecido com calma, simular a compra e aplicar o CECILIA12 no checkout para ver o valor final."
-        ],
-        "links": [
-          {
-            "label": "Regras do cupom CECILIA12",
-            "href": "/cupons/damie"
-          },
-          {
-            "label": "Usar cupom CECILIA12",
-            "href": "https://damie.emcasacomcecilia.com"
-          },
-          {
-            "label": "Comprar no site da Damie",
-            "href": "https://damie.com.br"
-          }
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix.",
+          "O Sofá Damie na Caixa passa por porta estreita e elevador pequeno? Os módulos chegam em caixas separadas, e as do nosso passaram por corredor, curva e porta de quarto. A página não traz as medidas das caixas: peça à DAMIE antes de comprar se o acesso for apertado.",
+          "O sofá modular precisa de ferramentas para montar? Pela página do produto, os módulos travam por encaixe, sem furadeira. Na nossa casa, montamos sem marceneiro, seguindo a ordem de montagem.",
+          "Quais são as medidas do modular de 3 lugares com puff? O esquema técnico da DAMIE mostra 260 cm de largura, 86 cm de profundidade e 92 cm de altura, com o assento a 44 cm do chão.",
+          "Dá para devolver o sofá no teste de 30 dias? Dá, com o sofá completo, na embalagem original e com a nota fiscal, e o pedido sai pelo WhatsApp da DAMIE. Por isso, guarde as caixas até o fim do teste.",
+          "Tem frete grátis para o sofá? Tem no Sul e no Sudeste. No Centro-Oeste, o frete sai pelo CEP; no Norte e no Nordeste, a venda é pelos anúncios da DAMIE no Mercado Livre, onde o cupom não vale."
         ]
       }
     ],
     "seoTitle": "Sofá Damie na Caixa vale a pena? Mais de 1 ano de uso",
-    "editorialNote": "Recebemos o sofá da Damie em parceria. O link é afiliado: comissão sem custo extra para você."
+    "editorialNote": "Recebemos o sofá da DAMIE em parceria. Link afiliado: comissão sem custo extra.",
+    "relatedArticles": [
+      {
+        "slug": "sofa-damie-modular-vale-a-pena"
+      },
+      {
+        "slug": "sofa-modular-ou-retratil-qual-escolher"
+      },
+      {
+        "slug": "poltrona-damie-e-boa"
+      }
+    ]
   },
   {
     "id": 9,
@@ -32872,12 +33127,12 @@ export const reviewsData: unknown[] = [
     "verdict": {
       "stars": 5,
       "recommendation": "recomendo",
-      "summary": "Design escultural com base giratória 360° que funciona como peça de destaque na decoração, sem abrir mão do conforto."
+      "summary": "Design escultural e base giratória de 360° que funcionaram bem na nossa sala; como a Moon saiu do site, hoje a compra passa pela Aurora ou pela reclinável 2.0."
     },
     "productSpec": [
       {
         "key": "Marca",
-        "value": "Damie"
+        "value": "DAMIE"
       },
       {
         "key": "Modelo",
@@ -32900,28 +33155,24 @@ export const reviewsData: unknown[] = [
         "value": "Bouclé (5 cores) e Linho (3 cores)"
       },
       {
-        "key": "Peso suportado",
-        "value": "Até 130 kg"
-      },
-      {
         "key": "Garantia",
-        "value": "1 ano; teste de 30 dias na embalagem original"
+        "value": "1 ano nas poltronas à venda; teste de 30 dias na embalagem original"
       },
       {
         "key": "Cupom disponível",
-        "value": "CECILIA12, 12% off",
+        "value": "CECILIA12, 12% off em todo o site, nas poltronas à venda",
         "highlight": true
       },
       {
         "key": "Onde comprar",
-        "value": "Site oficial Damie"
+        "value": "Saiu do catálogo do site da DAMIE"
       }
     ],
-    "description": "A Moon da Damie está na nossa sala há mais de um ano. Veja a diferença entre a poltrona decorativa giratória e uma reclinável e o que conferir antes de escolher.",
-    "metaDescription": "O cupom CECILIA12 dá 12% OFF na Damie. Poltrona Moon: base giratória, tecidos e limites de uma decorativa, com a peça usada na nossa sala.",
+    "description": "A Moon da DAMIE está na nossa sala há mais de um ano, mas saiu do catálogo do site. Veja o uso real, a diferença para uma reclinável e as alternativas que estão à venda.",
+    "metaDescription": "O cupom CECILIA12 dá 12% OFF na DAMIE. A Poltrona Moon saiu do site: veja o uso real e as alternativas Aurora e reclinável 2.0.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-23",
     "image": "/images/reviews/damie/poltrona-moon-design-que-parece-obra-de-arte-capa-v2.webp",
     "imageAlt": "Recorte de foto própria com a poltrona Moon clara e as mãos de Cecília apoiadas no encosto.",
     "imageFit": "contain",
@@ -32946,7 +33197,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "image": "/images/reviews/poltrona-moon-especificacoes.webp",
-        "alt": "Especificações técnicas da Poltrona Moon Damie.",
+        "alt": "Especificações técnicas da Poltrona Moon DAMIE.",
         "caption": "Detalhes técnicos: espuma D33, estrutura e revestimentos."
       }
     ],
@@ -32954,18 +33205,18 @@ export const reviewsData: unknown[] = [
       "Base giratória 360°",
       "Design marcante",
       "Opções de revestimento em bouclé e linho",
-      "Estrutura de madeira e compensado naval",
-      "Cupom CECILIA12 disponível"
+      "Estrutura de madeira e compensado naval"
     ],
     "cons": [
+      "Saiu do catálogo do site da DAMIE",
       "Não é reclinável",
-      "Design decorativo pode não combinar com todos os ambientes",
-      "Produto premium exige planejamento de orçamento"
+      "Design decorativo pode não combinar com todos os ambientes"
     ],
     "cta": {
-      "text": "Use o cupom CECILIA12 para garantir 12% OFF em todos os produtos do site da Damie.",
+      "text": "Use o cupom CECILIA12 para garantir 12% OFF em todo o site da DAMIE, inclusive na Aurora e na reclinável 2.0.",
       "label": "Usar o cupom",
-      "url": "https://damie.emcasacomcecilia.com"
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-moon-design-que-parece-obra-de-arte",
+      "sponsored": true
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
@@ -32973,15 +33224,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Poltrona Moon da Damie vale a pena para quem quer uma peça decorativa giratória, com formato escultural e tecido com textura, e não uma poltrona reclinável. A nossa está na sala há mais de um ano. No site da Damie, o cupom CECILIA12 dá 12% OFF e soma com as promoções."
+          "A Moon da DAMIE é uma poltrona decorativa giratória, sem reclinação, e a nossa está na sala há mais de um ano. Ela saiu do catálogo do site, então este review conta o uso real e serve de referência. Hoje, para comprar, olhe a Aurora ou a reclinável 2.0 com o CECILIA12: 12% OFF no site todo."
         ]
       },
       {
         "heading": "Para quem é a Poltrona Moon",
-        "image": "/images/reviews/poltrona-moon-cecilia-hero.webp",
-        "imageAlt": "Cecília sentada na Poltrona Moon, destacando o design escultural da peça.",
-        "imageCaption": "A Moon funciona como peça de destaque para sala, quarto, leitura ou canto de descanso.",
-        "imageFit": "portrait",
+        "image": {
+          "src": "/images/reviews/poltrona-moon-cecilia-hero-4x5.webp",
+          "alt": "Cecília sentada na Poltrona Moon, destacando o design escultural da peça.",
+          "caption": "A Moon funciona como peça de destaque para sala, quarto, leitura ou canto de descanso.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8
+        },
         "paragraphs": [
           "A Moon é uma poltrona decorativa com base giratória. Escolha esse tipo de peça se você quer um assento para conversar, ler ou compor a sala e prefere o formato arredondado e o tecido com textura.",
           "Ela não reclina, não tem apoio elétrico para os pés e não substitui uma reclinável para quem procura essas funções. A nossa está na sala há mais de um ano; é a peça que aparece nas fotos com a Cecília."
@@ -32989,88 +33243,104 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Design, base giratória e presença no ambiente",
-        "image": "/images/reviews/poltrona-moon-cecilia-design.webp",
-        "imageAlt": "Cecília destacando o design escultural e a base giratória da Poltrona Moon.",
-        "imageCaption": "Base giratória 360° e formato arredondado são os principais diferenciais da Moon.",
-        "imageFit": "portrait",
+        "image": {
+          "src": "/images/reviews/poltrona-moon-cecilia-design-4x5.webp",
+          "alt": "Cecília destacando o design escultural e a base giratória da Poltrona Moon.",
+          "caption": "Base giratória 360° e formato arredondado são os principais diferenciais da Moon.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8
+        },
         "paragraphs": [
           "O conjunto da Moon combina formato arredondado, revestimento com textura e base giratória de 360° em preto fosco. O giro permite mudar a direção do assento sem reposicionar a poltrona no chão.",
-          "Essa rotação faz diferença no uso real. Em uma sala integrada, por exemplo, você pode virar a poltrona para conversar, assistir TV, olhar para a cozinha ou aproveitar uma janela sem precisar arrastar o móvel. É um detalhe simples, mas que muda a relação da peça com o espaço."
+          "Em uma sala integrada, por exemplo, você pode virar a poltrona para conversar, assistir TV, olhar para a cozinha ou aproveitar uma janela sem precisar arrastar o móvel."
         ]
       },
       {
         "heading": "Materiais, estrutura e revestimentos",
-        "image": "/images/reviews/poltrona-moon-cecilia-materiais.webp",
-        "imageAlt": "Cecília apresentando os revestimentos e acabamento da Poltrona Moon.",
-        "imageCaption": "A página oficial destaca espuma D33, estrutura interna e opções de revestimento.",
-        "imageFit": "portrait",
+        "image": {
+          "src": "/images/reviews/poltrona-moon-cecilia-materiais-4x5.webp",
+          "alt": "Cecília apresentando os revestimentos e acabamento da Poltrona Moon.",
+          "caption": "A página oficial destacava espuma D33, estrutura interna e opções de revestimento.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8
+        },
         "paragraphs": [
-          "A página oficial lista espuma D33, que indica a densidade da espuma.",
-          "A marca declara estrutura de madeira e compensado naval.",
-          "Nos revestimentos, a Moon aparece em Tecido Bouclé e Tecido Linho. O Bouclé está disponível em Terracota, Off White, Cinza, Verde Sálvia e Grafite. O Linho aparece em Off White, Terracota e Grafite. São cores pensadas para decoração: algumas mais neutras, outras mais marcantes."
+          "A página da DAMIE listava espuma D33 e estrutura de madeira e compensado naval.",
+          "A Moon vinha em bouclé (Terracota, Off White, Cinza, Verde Sálvia e Grafite) e em linho (Off White, Terracota e Grafite)."
         ]
       },
       {
         "heading": "Montagem, entrega e uso prático",
         "paragraphs": [
-          "A montagem é simples: a poltrona chega praticamente montada, é tirar da embalagem e posicionar. Para quem não quer lidar com montagem complexa, isso pesa a favor.",
-          "A nossa Moon está na sala há mais de um ano, e é nela que a Cecília aparece nas fotos deste review.",
-          "Em 05/11/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste. No Centro-Oeste, frete e prazo são calculados pelo CEP; para Norte e Nordeste, a página de entregas direciona aos anúncios oficiais no Mercado Livre, onde o CECILIA12 não vale. O prazo do site conta da confirmação do pagamento.",
-          "A loja dá garantia de 1 ano, suporte vitalício e 30 dias para testar. Para devolver no teste, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal. Por isso, guarde a caixa até o fim do teste.",
-          "A página oficial declara capacidade de até 130 kg. Confira também as medidas da peça e do caminho de entrada na sua casa."
+          "A montagem foi simples: a poltrona chegou praticamente montada, era tirar da embalagem e posicionar. Para quem não quer lidar com montagem complexa, isso pesa a favor.",
+          "Para as poltronas que estão à venda, o frete é grátis no Sul e no Sudeste. No Centro-Oeste, frete e prazo são calculados pelo CEP; para Norte e Nordeste, a página de entregas direciona aos anúncios oficiais no Mercado Livre, onde o CECILIA12 não vale. O prazo do site conta da confirmação do pagamento.",
+          "A loja dá garantia de 1 ano, suporte vitalício e 30 dias para testar. Para devolver no teste, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da DAMIE, com o nome completo e o número da nota fiscal. Por isso, guarde a caixa até o fim do teste."
         ]
       },
       {
-        "heading": "Sobre a Damie",
+        "heading": "Vale a pena a Moon da DAMIE hoje?",
         "paragraphs": [
-          "A Damie, razão social Dix Indústria de Estofados Ltda, é uma marca brasileira de Frederico Westphalen (RS) que fabrica poltronas, sofás, camas e móveis para áreas externas, com opções de revestimento como linho, suede, courino, bouclé e couro."
-        ]
-      },
-      {
-        "heading": "Vale o investimento?",
-        "paragraphs": [
-          "Antes de escolher a Moon, confirme três pontos: se você quer uma decorativa em vez de uma reclinável, se as medidas cabem no ambiente e qual revestimento combina com a sua rotina.",
-          "A decisão pelo desenho e pela textura é pessoal. O giro acrescenta uma função prática; já os pés elevados e a reclinação pedem outro tipo de poltrona."
-        ]
-      },
-      {
-        "heading": "Veredito",
-        "paragraphs": [
-          "Gostamos da proposta da Moon como decorativa giratória, e ela está na nossa sala há mais de um ano. Para quem quer esse desenho e não precisa de reclinação, é uma opção a considerar.",
-          "Se você procura apoio para os pés ou ajustes elétricos para passar horas vendo filme, compare com uma reclinável. Antes da compra, confira medidas, tecido, prazo e as condições do teste em casa."
+          "A Moon saiu do catálogo do site da DAMIE, então hoje não dá para comprá-la lá. O que fica deste review é o uso: ela está na nossa sala há mais de um ano e segue firme, como peça de design que também serve para sentar.",
+          "Para quem quer o giro, a Aurora é a alternativa à venda: manual, sem tomadas, com puff independente e base giratória de 360°. Para quem quer reclinar por horas, a reclinável 2.0 resolve. Antes de fechar, confira medidas, revestimento e as condições do teste em casa.",
+          "O CECILIA12 dá 12% OFF em todo o site, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix, mas não com outro cupom nem com o giftback de 15%, e não vale no Mercado Livre."
         ],
-        "emphasis": "A Moon é para quem quer uma peça de design que também sirva para sentar, na sala, no quarto ou no canto de leitura; para relaxar por horas vendo filme, a escolha é uma reclinável."
-      },
-      {
-        "heading": "Cupom CECILIA12",
-        "paragraphs": [
-          "O cupom CECILIA12 dá 12% OFF em todos os produtos do site da Damie, com qualquer forma de pagamento. Ele soma com as promoções do site, inclusive os 10% do Pix, mas não com outro cupom nem com o giftback de 15%.",
-          "A recomendação é escolher revestimento e cor com calma, medir o ambiente e aplicar o CECILIA12 no checkout para conferir o preço final."
-        ],
+        "emphasis": "Na minha casa, eu escolheria hoje a Aurora se quisesse uma poltrona com giro e puff, e a reclinável 2.0 se quisesse relaxar por horas; a Moon fica como referência do que usamos.",
         "links": [
           {
-            "label": "Regras do cupom CECILIA12",
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-moon-design-que-parece-obra-de-arte",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Aurora na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
             "href": "/cupons/damie"
-          },
-          {
-            "label": "Usar cupom CECILIA12",
-            "href": "https://damie.emcasacomcecilia.com"
-          },
-          {
-            "label": "Comprar no site da Damie",
-            "href": "https://damie.com.br/products/poltrona-decorativa-moon-giratoria"
           }
+        ],
+        "image": {
+          "src": "/images/reviews/damie/poltrona-aurora-damie-puff-off-white.webp",
+          "alt": "Poltrona Aurora da DAMIE em couro off white, com base giratória preta e puff separado",
+          "caption": "Aurora com puff, em couro off white. Foto oficial da DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora"
+        }
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix.",
+          "A Poltrona Moon ainda está à venda na DAMIE? Não, ela saiu do catálogo do site. Quem procura uma poltrona com giro pode olhar a Aurora; quem quer reclinar, a reclinável 2.0.",
+          "A Moon reclina? Não. Ela é decorativa, com base giratória, e não tem reclinação nem apoio elétrico para os pés.",
+          "A base da Moon gira a volta inteira? Sim, a base é giratória de 360°, em preto fosco, e deixa virar o assento sem arrastar a poltrona.",
+          "Qual poltrona da DAMIE substitui a Moon? Para o giro, a Aurora, com base giratória de 360° e puff independente. Para reclinar, a reclinável 2.0, que vem em quatro versões de base.",
+          "O teste de 30 dias da DAMIE exige guardar a caixa? Exige: a poltrona volta completa, na embalagem original e com a nota fiscal, e a devolução é pedida pelo WhatsApp da DAMIE."
         ]
       }
     ],
-    "seoTitle": "Poltrona Moon Damie vale a pena? Giratória e decorativa",
-    "editorialNote": "Recebemos a Moon da Damie em parceria. O link é afiliado: comissão sem custo extra para você."
+    "seoTitle": "Poltrona Moon Damie: saiu do site? Uso real e alternativas",
+    "editorialNote": "Recebemos a Moon da DAMIE em parceria. Link afiliado: comissão sem custo extra.",
+    "relatedArticles": [
+      {
+        "slug": "poltrona-damie-e-boa"
+      },
+      {
+        "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
+      },
+      {
+        "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
+      }
+    ]
   },
   {
     "id": 8,
     "slug": "poltronas-reclinaveis-damie-vale-o-investimento",
     "title": "Poltrona reclinável Damie vale o investimento? Uso diário, tecido e amamentação",
-    "seoTitle": "Poltrona reclinável Damie vale a pena? Mais de 1 ano de uso",
+    "seoTitle": "Poltrona reclinável Damie vale a pena? Mais de 1 ano",
     "type": "Móveis & Conforto",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
@@ -33079,7 +33349,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Poltrona reclinável Damie com o CECILIA12 e 12% OFF: a minha experiência com entrega, montagem, tecido, conforto no uso diário e amamentação.",
     "publishedAt": "17 Abr 2026",
     "publishedAtISO": "2026-04-17",
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-23",
     "authors": [
       {
         "name": "Cecília Mauad",
@@ -33105,7 +33375,7 @@ export const reviewsData: unknown[] = [
       "Reclinação elétrica silenciosa",
       "Montagem simples via QR Code",
       "Tecido linho respirável",
-      "Cupom CECILIA12 disponível"
+      "30 dias de teste em casa e 1 ano de garantia"
     ],
     "cons": [
       "Produto de alto padrão (investimento maior)",
@@ -33145,11 +33415,12 @@ export const reviewsData: unknown[] = [
         "value": "Site oficial Damie"
       }
     ],
-    "editorialNote": "Recebemos as poltronas da Damie em parceria. O link é afiliado: comissão sem custo extra para você.",
+    "editorialNote": "Poltronas recebidas em parceria. O link é afiliado: comissão sem custo extra.",
     "cta": {
       "text": "Use o cupom CECILIA12 para garantir 12% OFF em todos os produtos do site da Damie.",
-      "label": "Usar o cupom",
-      "url": "https://damie.emcasacomcecilia.com"
+      "label": "Ver a Poltrona Reclinável 2.0 na DAMIE",
+      "url": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+      "sponsored": true
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
@@ -33161,22 +33432,23 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como Descobrimos as Poltronas da Damie",
+        "heading": "Como descobrimos as poltronas da Damie",
         "paragraphs": [
           "Durante a construção da nossa casa nova, meu marido e eu estávamos planejando cada detalhe do nosso lar. Foi quando ele descobriu as poltronas reclináveis da Damie pelo canal do YouTube Meu Mundo Tech, especializado em cinema em casa e tecnologia. Ele ficou encantado na hora.",
           "Os vídeos destacavam o conforto, a funcionalidade e o design moderno das poltronas. Mesmo com a casa ainda em obras, começamos a planejar onde elas ficariam. Decidimos quantas poltronas teríamos, duas para compor nossa sala de TV, e como integraríamos tudo ao projeto.",
           "A escolha dos revestimentos e acessórios entrou no planejamento do ambiente."
         ],
         "image": {
-          "src": "/images/reviews/damie-reclame-aqui-local.webp",
-          "alt": "Poltronas reclináveis bege da DAMIE encostadas na parede da sala da Cecília, com outra poltrona e um buquê de flores na frente",
-          "caption": "As poltronas reclináveis bege no canto da nossa sala.",
-          "objectFit": "portrait",
-          "aspectRatio": 0.5629
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao-4x5.webp",
+          "alt": "Cecília mostrando o botão de reclinação na lateral da poltrona reclinável bege",
+          "caption": "O botão de reclinação na lateral da poltrona bege que usamos na sala.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
         }
       },
       {
-        "heading": "Minha Experiência: Entrega, Montagem e Primeiras Impressões",
+        "heading": "Minha experiência: entrega, montagem e primeiras impressões",
         "paragraphs": [
           "Usamos as duas poltronas reclináveis Damie 1.0 há mais de um ano; a 2.0, com giro e balanço, tem [análise própria](/reviews/poltrona-damie-e-boa). Para nós, a entrega foi rápida, e o produto chegou muito bem embalado e protegido. O prazo muda conforme a região: confira o frete e o prazo pelo CEP no carrinho antes de fechar a compra. Um detalhe curioso: as poltronas ficaram guardadas por quase dois meses na casa ainda em obras e, mesmo assim, estavam perfeitas quando finalmente as abrimos.",
           "No primeiro vídeo que gravamos, mostramos o processo de montagem, que é realmente simples, como a própria Damie promete. Basta encaixar o encosto no assento, conectar os fios do sistema elétrico e pronto. O QR code na embalagem direciona para vídeos explicativos, facilitando ainda mais para quem nunca montou um móvel desse tipo."
@@ -33186,23 +33458,24 @@ export const reviewsData: unknown[] = [
           "alt": "Parte de trás do assento de uma Poltrona Reclinável 2.0 mostrando a fiação dos motores",
           "caption": "Os fios dos motores na parte de trás do assento, que se ligam na montagem. Foto oficial da Reclinável 2.0; a nossa é a 1.0.",
           "objectFit": "contain",
-          "aspectRatio": 1.7762
+          "aspectRatio": 1.7762,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
         }
       },
       {
-        "heading": "Material e Personalização: Ideal para Nossa Realidade",
+        "heading": "Material e personalização",
         "paragraphs": [
           "Vivemos em uma região quente e abafada, então optamos pelo tecido linho na cor bege, que é leve, elegante e respirável. O toque é agradável, e o material é resistente e fácil de limpar.",
-          "No site da Damie, os revestimentos são courino, suede, boucle, tecido linho e couro bovino original, em várias cores.",
-          "Nossa poltrona inclui porta-copos, um acessório prático para nossas noites de cinema em casa ou momentos de relaxamento com uma bebida. Não escolhemos o sistema de massagem, então não posso opinar sobre essa funcionalidade, mas a Damie oferece modelos com massageador, entradas USB e até opções para idosos, com sistemas que facilitam sentar e levantar.",
-          "Os modelos e acessórios ficam no site oficial da Damie."
+          "No site da Damie, os revestimentos são corino importado, suede, boucle, tecido linho e couro bovino original, em várias cores.",
+          "Nossa poltrona inclui porta-copos, um acessório prático para nossas noites de cinema em casa ou momentos de relaxamento com uma bebida. Não escolhemos o sistema de massagem, então não posso opinar sobre essa funcionalidade, mas a Damie oferece modelos com massageador, entradas USB e até opções para idosos, com sistemas que facilitam sentar e levantar."
         ],
         "image": {
-          "src": "/images/reviews/poltrona-reclinavel-cecilia.webp",
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-4x5.webp",
           "alt": "Cecília sentada na poltrona reclinável bege em tecido linho, com o Ian ao lado e os porta-copos nos braços",
           "caption": "O tecido linho bege que escolhemos, com os porta-copos nos braços.",
-          "objectFit": "portrait",
-          "aspectRatio": 0.5625
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
         },
         "links": [
           {
@@ -33223,8 +33496,9 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
           "alt": "Poltrona Reclinável 2.0 totalmente reclinada, com o apoio de pés aberto, vazia",
           "caption": "Encosto e apoio de pés abertos, a posição de descanso. Foto oficial da Reclinável 2.0; a nossa é a 1.0.",
-          "objectFit": "square",
-          "aspectRatio": 1
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
         },
         "bullets": [
           "Reclinação elétrica silenciosa no nosso uso.",
@@ -33234,66 +33508,39 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Um Uso Especial: Amamentação do Meu Filho Ian",
+        "heading": "Um uso especial: a amamentação do Ian",
         "paragraphs": [
           "Uma das surpresas mais felizes foi descobrir como a poltrona é perfeita para a amamentação. Desde o nascimento do meu filho, Ian, tenho usado a poltrona reclinável diariamente.",
           "A possibilidade de ajustar a inclinação me permite encontrar a posição ideal, o que deixa a amamentação mais confortável, especialmente durante a madrugada. Na nossa casa, o movimento silencioso não acordou o bebê, e os braços da poltrona oferecem suporte para longos períodos.",
-          "O tecido linho respirável mantém o conforto mesmo em dias quentes, tornando esses momentos ainda mais especiais. Se você é mãe ou está esperando um bebê, a poltrona reclinável da Damie é uma aliada incrível, indo além do conforto convencional."
+          "O linho respirável segura o conforto nos dias quentes. Para quem amamenta, o que ajudou aqui foi o ajuste de inclinação e o apoio dos braços."
         ],
         "image": {
-          "src": "/images/reviews/poltrona-reclinavel-cecilia-ian.webp",
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-ian-4x5.webp",
           "alt": "Cecília sentada na poltrona reclinável bege com o filho Ian no colo",
           "caption": "Com o Ian no colo, na poltrona que uso todos os dias para amamentar.",
-          "objectFit": "portrait",
-          "aspectRatio": 0.5625
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
         }
       },
       {
-        "heading": "Quem é a Damie",
+        "heading": "Por que a Damie",
         "paragraphs": [
-          "A Damie, oficialmente Dix Indústria de Estofados Ltda, é uma marca brasileira de Frederico Westphalen, no Rio Grande do Sul, com poltronas reclináveis, sofás, camas e móveis para a área externa. No site, dá para escolher o revestimento (linho, suede, courino, boucle ou couro bovino) e acessórios como porta-copos, entrada USB e massagem em modelos específicos."
+          "A Damie é uma marca brasileira de Frederico Westphalen, no Rio Grande do Sul, com poltronas reclináveis, sofás e móveis para a área externa. No site, dá para escolher o revestimento (linho, suede, corino importado, boucle ou couro bovino) e acessórios como porta-copos, entrada USB e massagem em modelos específicos.",
+          "A Damie vale para quem quer montar um espaço de descanso: relaxar, ver filme ou amamentar com conforto, durabilidade e estilo.",
+          "A loja oferece teste por 30 dias, guardando a embalagem original, garantia de 1 ano e atendimento para dúvidas.",
+          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. Para o Centro-Oeste, confira frete e prazo pelo CEP no carrinho. No Norte e no Nordeste, a marca atende pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta da confirmação do pagamento.",
+          "Para devolver no teste de 30 dias, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira. A devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal, e a loja agenda a coleta. Por isso, guarde a caixa até o fim do teste.",
+          "Nossa experiência foi tão positiva que continuamos recomendando a marca para amigos, familiares e seguidores do Em Casa com Cecília."
         ],
         "image": {
           "src": "/images/reviews/poltronas-reclinaveis-damie.webp",
           "alt": "Duas poltronas reclináveis da DAMIE em revestimento caramelo, unidas, com porta-copos nos braços, em fundo branco",
           "caption": "Poltronas reclináveis da DAMIE lado a lado, com porta-copos nos braços. Foto oficial da DAMIE.",
-          "objectFit": "square",
-          "aspectRatio": 1
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
         }
-      },
-      {
-        "heading": "Prós e Contras da Poltrona Reclinável Damie",
-        "paragraphs": [
-          "Depois de mais de um ano, o que fez diferença foi o conforto diário e a praticidade do motor. Antes de escolher, eu olharia o preço da configuração e onde ficará a tomada."
-        ],
-        "bullets": [
-          "Prós: espuma que continuou confortável no nosso uso diário.",
-          "Prós: sistema elétrico de reclinação silencioso e prático.",
-          "Prós: diversidade de revestimentos e acessórios personalizáveis.",
-          "Prós: montagem fácil e rápida, com instruções claras.",
-          "Prós: embalagem reforçada, e a nossa entrega chegou rápido.",
-          "Prós: versatilidade para usos como amamentação e cinema em casa.",
-          "Contras: preço pode ser elevado para alguns orçamentos, embora o cupom CECILIA12 ajude a economizar.",
-          "Contras: o custo dos opcionais muda conforme o modelo e a campanha.",
-          "Contras: requer tomada próxima para o sistema elétrico."
-        ]
-      },
-      {
-        "heading": "Por Que Escolher a Damie?",
-        "paragraphs": [
-          "A Damie vale para quem quer montar um espaço de descanso: relaxar, ver filme ou amamentar com conforto, durabilidade e estilo.",
-          "No site da Damie, dá para escolher revestimento, cor e acessórios conforme a rotina da casa. A loja também oferece teste por 30 dias, garantia de 1 ano e atendimento para dúvidas e personalizações.",
-          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. Para o Centro-Oeste, confira frete e prazo pelo CEP no carrinho. No Norte e no Nordeste, a marca atende pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta da confirmação do pagamento.",
-          "Para devolver no teste de 30 dias, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira. A devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal, e a loja agenda a coleta. Por isso, guarde a caixa até o fim do teste.",
-          "Nossa experiência foi tão positiva que continuamos recomendando a marca para amigos, familiares e seguidores do Em Casa com Cecília."
-        ]
-      },
-      {
-        "heading": "Veredito",
-        "paragraphs": [
-          "A poltrona reclinável Damie entregou exatamente o que a gente buscava: conforto, acabamento bonito, montagem simples e uma experiência de cinema em casa mais completa. Não é uma compra de impulso; é um investimento para quem realmente quer montar um espaço de descanso com qualidade.",
-          "Pelo uso diário, pela experiência na amamentação e pela praticidade da reclinação elétrica, a recomendação é positiva. O ponto principal é escolher bem o tecido, os acessórios e o modelo conforme sua rotina. E, se for comprar, use o cupom CECILIA12 para reduzir o valor final."
-        ]
       },
       {
         "heading": "Cupom CECILIA12 na Damie: como usar",
@@ -33308,22 +33555,56 @@ export const reviewsData: unknown[] = [
           "caption": "O CECILIA12 no campo Cupom do resumo da compra, no site da DAMIE.",
           "objectFit": "contain",
           "aspectRatio": 1.4596
-        },
+        }
+      },
+      {
+        "heading": "Veredito",
+        "paragraphs": [
+          "A poltrona reclinável Damie entregou exatamente o que a gente buscava: conforto, acabamento bonito, montagem simples e uma experiência de cinema em casa mais completa. Não é uma compra de impulso; é um investimento para quem realmente quer montar um espaço de descanso com qualidade.",
+          "Pelo uso diário, pela experiência na amamentação e pela praticidade da reclinação elétrica, a recomendação é positiva. O ponto principal é escolher bem o tecido, os acessórios e o modelo conforme sua rotina. Se for comprar, o cupom CECILIA12 reduz o valor final."
+        ],
+        "emphasis": "Na minha casa, eu escolheria de novo: depois de mais de um ano de uso diário, o que pesa é o conforto e a reclinação silenciosa. Antes de fechar, eu olharia o preço da configuração e a tomada ao lado da poltrona.",
         "links": [
           {
-            "label": "Regras do cupom CECILIA12",
-            "href": "/cupons/damie"
-          },
-          {
-            "label": "Usar cupom CECILIA12",
-            "href": "https://damie.emcasacomcecilia.com"
-          },
-          {
-            "label": "Comprar no site da Damie",
-            "href": "https://damie.com.br",
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltronas-reclinaveis-damie-vale-o-investimento",
             "sponsored": true
+          },
+          {
+            "label": "Ver a Poltrona Reclinável 2.0 na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
           }
         ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "paragraphs": [
+          "As dúvidas mais comuns sobre a poltrona reclinável da Damie:"
+        ],
+        "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix, mas não com outro cupom nem com o giftback.",
+          "A poltrona reclinável da Damie serve para amamentar? Na nossa casa, sim: o ajuste de inclinação ajuda a achar a posição, o movimento é silencioso e os braços dão apoio. Para o sono, o bebê volta ao berço, porque a poltrona é para mamar acordada.",
+          "A montagem é difícil? Não: o encosto encaixa no assento, os fios do sistema elétrico se conectam e o QR code na embalagem leva a vídeos explicativos.",
+          "A poltrona elétrica precisa de tomada? Sim, o sistema elétrico pede uma tomada por perto, então vale pensar no canto da sala antes de escolher o modelo.",
+          "Qual tecido escolher para quem mora em lugar quente? Escolhemos o linho bege, que é leve e respirável. A Damie também oferece corino importado, suede, bouclé e couro bovino original.",
+          "Como funciona o teste de 30 dias? A poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo; o pedido é feito pelo WhatsApp da Damie, com nome completo e nota fiscal. Guarde a caixa até o fim do teste."
+        ]
+      }
+    ],
+    "relatedArticles": [
+      {
+        "slug": "poltrona-damie-e-boa"
+      },
+      {
+        "slug": "cupom-cecilia12-como-usar"
+      },
+      {
+        "slug": "poltrona-de-amamentacao-vs-poltrona-reclinavel"
       }
     ]
   },
@@ -39848,43 +40129,38 @@ export const reviewsData: unknown[] = [
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
     "draft": false,
-    "description": "Histórico de reclamações da Sofá na Caixa: o que a imprensa registrou sobre o Procon-SP, o painel de maio a outubro de 2026 no Reclame Aqui e os canais para reclamar.",
-    "seoTitle": "O que aconteceu com a Sofá na Caixa?",
-    "metaDescription": "Sofá na Caixa: histórico de reclamações, lista do Procon-SP atualizada em 12/05/2026 e nota 6,4 no Reclame Aqui, no recorte de maio a outubro de 2026.",
+    "description": "Histórico de reclamações da Sofá na Caixa: o que a imprensa registrou sobre o Procon-SP, a reputação suspensa no Reclame Aqui e os canais para reclamar.",
+    "seoTitle": "O que aconteceu com a Sofá na Caixa? RA e Procon-SP",
+    "metaDescription": "CECILIA12 dá 12% OFF na DAMIE. Sofá na Caixa: reputação suspensa no Reclame Aqui e fora da lista Evite Estes Sites do Procon-SP. Veja o histórico.",
     "publishedAt": "10 de agosto de 2026",
     "publishedAtISO": "2026-08-10",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "image": "/images/reviews/sofa-na-caixa/sofa-na-caixa-crise-reclamacoes-procon-sp-capa-v2.webp",
     "imageAlt": "Close ilustrativo de caixas de papelão sem marca sobre madeira, com o logo do Em Casa com Cecília e a pergunta “Sofá na Caixa: o que aconteceu?”.",
-    "pros": [
-      "Canais públicos e gratuitos para registrar queixas: Procon-SP, Consumidor.gov.br e Reclame Aqui",
-      "99,8% das reclamações respondidas no Reclame Aqui, no recorte de maio a outubro de 2026",
-      "Juizado Especial Cível não cobra custas em 1ª instância para causas de até 40 salários mínimos"
-    ],
-    "cons": [
-      "Selo Regular no Reclame Aqui, nota geral 6,4 e nota do consumidor 5,04, no recorte de maio a outubro de 2026",
-      "59,8% de reclamações resolvidas e 54,4% de clientes que voltariam a fazer negócio nesse recorte",
-      "Histórico de fiscalização e notificações por órgãos de defesa do consumidor, segundo a imprensa"
-    ],
+    "pros": [],
+    "cons": [],
     "affiliate": "damie",
-    "editorialNote": "Artigo informativo, com fontes públicas. O Em Casa com Cecília mantém parceria de afiliado com a Damie e pode receber comissão em compras, sem custo extra para você.",
+    "editorialNote": "Fontes públicas. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
     "contentSections": [
       {
-        "heading": "Resumo rápido",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Sofá na Caixa viralizou com sofás modulares em caixa e acumulou reclamações por atraso e estorno pendente; a imprensa registrou fiscalização do Procon-SP. No Reclame Aqui, de maio a outubro de 2026, aparece como Regular, nota 6,4. Ela não consta na lista de sites a evitar do Procon-SP, o que não encerra a investigação nem garante a compra."
+          "A Sofá na Caixa viralizou com sofás modulares em caixa e acumulou reclamações por atraso e estorno pendente; a imprensa registrou fiscalização do Procon-SP. No Reclame Aqui, a reputação está suspensa, segundo a própria plataforma. Ela não consta na lista Evite Estes Sites do Procon-SP, o que não encerra a investigação nem garante a compra."
         ]
       },
       {
         "heading": "Da fama nas redes sociais a um problema real",
         "paragraphs": [
-          "Sofás modulares entregues em caixas compactas, para montar em casa, viraram uma das buscas mais fortes do mobiliário online no Brasil entre 2024 e 2025. Entre as marcas que mais se destacaram nesse movimento está a Sofá na Caixa, fundada em 2024 por Rubens Stuque, que ganhou visibilidade rápida com uma campanha de marketing digital agressiva e chegou a ser citada em reportagem da revista Forbes sobre o faturamento expressivo da primeira semana de operação.",
+          "Sofás modulares entregues em caixas compactas ganharam espaço nas redes entre 2024 e 2025. Uma das marcas mais vistas foi a Sofá na Caixa, fundada em 2024 por Rubens Stuque, que cresceu rápido com marketing digital.",
           "Segundo reportagens publicadas em 2025, o crescimento acelerado foi seguido por reclamações de atraso, falta de entrega e dificuldades para obter reembolso. Em entrevista à BBC News Brasil, o fundador reconheceu pedidos em atraso e citou desafios logísticos e custos de insumos entre os fatores enfrentados pela empresa."
         ],
-        "image": "/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png",
-        "imageAlt": "Manchete de reportagem da BBC News Brasil sobre a explosão de reclamações contra a Sofá na Caixa",
-        "imageCaption": "Reportagem da BBC News Brasil, republicada via O Povo.",
-        "imageFit": "wide"
+        "image": {
+          "src": "/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png",
+          "alt": "Manchete de reportagem da BBC News Brasil sobre a explosão de reclamações contra a Sofá na Caixa",
+          "caption": "Reportagem da BBC News Brasil, republicada via O Povo.",
+          "objectFit": "contain",
+          "aspectRatio": 3.1948
+        }
       },
       {
         "heading": "A linha do tempo da crise",
@@ -39892,9 +40168,9 @@ export const reviewsData: unknown[] = [
           "Da fundação à fiscalização, os marcos entre 2024 e 2025, conforme as reportagens da BBC News Brasil e da Exame:"
         ],
         "bullets": [
-          "2024 — A empresa é fundada e expande suas operações de vendas nas redes sociais",
-          "2025 — Segundo a Exame, o Procon-SP abre investigação e notifica a empresa diante do aumento de reclamações por atrasos e falta de entrega",
-          "Outubro de 2025 — Reportagem da BBC News Brasil documenta a abertura de investigações por órgãos de defesa do consumidor e reúne relatos de clientes aguardando entregas ou reembolsos"
+          "2024: a empresa é fundada e expande suas operações de vendas nas redes sociais",
+          "2025: segundo a Exame, o Procon-SP abre investigação e notifica a empresa diante do aumento de reclamações por atrasos e falta de entrega",
+          "Outubro de 2025: reportagem da BBC News Brasil documenta a abertura de investigações por órgãos de defesa do consumidor e reúne relatos de clientes aguardando entregas ou reembolsos"
         ],
         "links": [
           {
@@ -39908,36 +40184,67 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Os números no Reclame Aqui: raio-X de atendimento nos últimos 6 meses",
+        "heading": "A reputação no Reclame Aqui: suspensa",
         "paragraphs": [
-          "No Reclame Aqui (painel dos últimos seis meses, de maio a outubro de 2026), a Sofá na Caixa responde quase tudo, mas resolve cerca de 6 em cada 10 reclamações; a Damie, no mesmo recorte, resolve mais de 8 em cada 10. Os detalhes estão nos itens abaixo."
+          "No Reclame Aqui, a página da Sofá na Caixa traz este aviso: \"A reputação da empresa está suspensa porque há irregularidades dentro e/ou fora do Reclame AQUI.\" A frase é do Reclame Aqui, que não detalha o motivo. O histórico do painel mostra \"Suspensa\" em todos os meses do semestre.",
+          "Com a reputação suspensa, a plataforma não divulga resolvidas, \"voltariam a fazer negócio\" nem a nota do consumidor da Sofá na Caixa. Os números que existem estão na tabela, ao lado dos da DAMIE no mesmo período. Volume absoluto de reclamações não é taxa de falhas por pedido: uma empresa que vende mais tende a receber mais."
         ],
-        "bullets": [
-          "Sofá na Caixa — Reclamações no período: 7.119 recebidas, 99,8% respondidas",
-          "Sofá na Caixa — Reputação e solução: selo Regular, nota geral 6,4/10, 59,8% de reclamações resolvidas, 54,4% de intenção de voltar a fazer negócio e nota do consumidor 5,04/10",
-          "Damie — Reclamações no período: 192 recebidas, 100% respondidas",
-          "Damie — Reputação e solução: selo Boa, nota geral 7,9/10, 83,1% de solução e 70,2% de intenção de voltar a fazer negócio"
-        ],
+        "comparisonTable": {
+          "caption": "Reclame Aqui, janela de 01/05 a 31/10/2026",
+          "headers": [
+            "",
+            "Sofá na Caixa",
+            "DAMIE (Damie Móveis)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Suspensa",
+              "Boa, nota 7,9"
+            ],
+            [
+              "Reclamações recebidas",
+              "6.255",
+              "192"
+            ],
+            [
+              "Respondidas",
+              "99,9%",
+              "100%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "4.147",
+              "125"
+            ],
+            [
+              "Resolvidas, entre as avaliadas",
+              "Dado não disponível",
+              "83,2%"
+            ],
+            [
+              "Voltariam a fazer negócio, entre as avaliadas",
+              "Dado não disponível",
+              "70,4%"
+            ],
+            [
+              "Nota do consumidor",
+              "Dado não disponível",
+              "6,78"
+            ],
+            [
+              "Tempo médio de resposta",
+              "1 dia e 18 horas",
+              "15 horas"
+            ]
+          ]
+        },
         "postParagraphs": [
-          "Como todo indicador de Reclame Aqui, esse número muda com o tempo: vale conferir o painel atualizado direto no site antes de tirar qualquer conclusão. As capturas de tela abaixo são de agosto e mostram números mais antigos que os do texto: nelas, a Sofá na Caixa tinha 6.766 reclamações e a Damie, 258."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp",
-            "alt": "Painel do Reclame Aqui da Sofá na Caixa com números mais antigos",
-            "caption": "Painel da Sofá na Caixa no Reclame Aqui com números anteriores: os do texto são os mais recentes.",
-            "objectFit": "portrait"
-          },
-          {
-            "src": "/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp",
-            "alt": "Painel do Reclame Aqui da Damie com números mais antigos",
-            "caption": "Painel da Damie no Reclame Aqui com números anteriores: os do texto são os mais recentes.",
-            "objectFit": "portrait"
-          }
+          "Na aba Geral, que soma até três anos, a Sofá na Caixa tem 22.089 reclamações recebidas e 99,7% respondidas, e o atraso na entrega é o principal problema, com 40,4%. A aba Geral e o semestre são períodos diferentes e não se misturam. A reputação completa da DAMIE está em [DAMIE no Reclame Aqui](/reviews/damie-reclame-aqui-o-que-os-dados-mostram)."
         ],
         "links": [
           {
-            "label": "Consultar painel da Sofá na Caixa no Reclame Aqui",
+            "label": "Consultar a página da Sofá na Caixa no Reclame Aqui",
             "href": "https://www.reclameaqui.com.br/empresa/sofa-na-caixa/"
           }
         ]
@@ -39945,16 +40252,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Consulta à lista 'Evite Estes Sites' do Procon-SP",
         "paragraphs": [
-          "Em 2025, segundo apuração da revista Exame, o Procon-SP abriu procedimento de investigação contra a Sofá na Caixa motivado pelo aumento de notificações por atrasos e pedidos não entregues.",
-          "Na versão pública da lista \"Evite Estes Sites\" (atualizada em 12/05/2026), o domínio sofanacaixa.com.br e a empresa não constam. Isso não encerra as investigações nem garante uma compra sem problemas: a lista é outra consulta, separada das reclamações e da fiscalização."
+          "Em 2025, segundo a revista Exame, o Procon-SP abriu procedimento de investigação contra a Sofá na Caixa, motivado pelo aumento de notificações por atrasos e pedidos não entregues.",
+          "Na versão pública da lista \"Evite Estes Sites\" do Procon-SP (atualizada em 12/05/2026), o domínio sofanacaixa.com.br e a empresa não constam. Isso não encerra investigações nem garante uma compra sem problemas: a lista é uma consulta administrativa separada das reclamações e da fiscalização."
         ],
         "bullets": [
-          "Confira você mesmo a lista Evite Estes Sites e o painel Empresas Reclamadas antes de pagar, porque a situação muda."
+          "O painel \"Empresas Reclamadas\" do Procon-SP é outra consulta, sobre atendimentos abertos. Confira a lista e o painel no site do órgão antes de pagar, porque a situação muda."
         ],
         "links": [
           {
-            "label": "Consultar lista Evite Estes Sites do Procon-SP",
+            "label": "Consultar a lista Evite Estes Sites do Procon-SP",
             "href": "https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
+          },
+          {
+            "label": "Entender a consulta Empresas Reclamadas do Procon-SP",
+            "href": "https://www.procon.sp.gov.br/carta-de-servicos/"
           }
         ]
       },
@@ -39972,67 +40283,69 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Procon-SP: comparação de registros no painel \"Empresas Reclamadas\"",
+        "heading": "Vale comprar da Sofá na Caixa ou escolher outra marca?",
         "paragraphs": [
-          "Transparência comercial: o Em Casa com Cecília mantém parceria de afiliado com a marca Damie e pode receber comissão em compras originadas pelo site, sem custo extra para o leitor. A comparação abaixo é só um retrato de volume, não uma prova de qualidade.",
-          "No painel \"Empresas Reclamadas\" do Procon-SP, a Sofá na Caixa somava 1.125 queixas e a Damie, 6, em números anteriores aos de hoje. As capturas não mostram o período nem o filtro, e volume absoluto não é taxa de falhas por pedido: uma empresa que vende muito mais tende a receber mais queixas.",
-          "A pesquisa \"Empresas Reclamadas\" quantifica os atendimentos abertos no Procon-SP. Ela não se confunde com a lista \"Evite Estes Sites\", que é uma consulta administrativa separada."
+          "A resposta depende do que você aceita arriscar. Com a reputação suspensa no Reclame Aqui, o histórico de atrasos registrado pela imprensa e o aviso da própria plataforma, o mínimo é conferir o painel e o prazo do pedido no dia da compra, guardar os comprovantes e pagar de um jeito que dê para contestar.",
+          "Se o que você procura é um sofá modular com teste em casa, a DAMIE dá 30 dias, com a embalagem original guardada, 1 ano de garantia e o CECILIA12 com 12% OFF em todas as formas de pagamento. A comparação item a item está em [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie)."
         ],
-        "bullets": [
-          "Sofá na Caixa: 1.125 queixas registradas no painel do Procon-SP",
-          "Damie: 6 queixas registradas no mesmo painel do órgão paulista"
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp",
-            "alt": "Painel Empresas Reclamadas do Procon-SP para Sofá na Caixa, com 1.125 registros",
-            "caption": "Painel Empresas Reclamadas do Procon-SP: Sofá na Caixa com 1.125 registros, em números anteriores.",
-            "objectFit": "contain"
-          },
-          {
-            "src": "/images/reviews/sofa-na-caixa/procon-sp-damie-pesquisa.webp",
-            "alt": "Painel Empresas Reclamadas do Procon-SP para Damie, com 6 registros",
-            "caption": "Painel Empresas Reclamadas do Procon-SP: Damie com 6 registros, em números anteriores.",
-            "objectFit": "contain"
-          }
-        ],
+        "image": {
+          "src": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito-4x5.webp",
+          "alt": "Sofá modular DAMIE azul montado na sala da Cecília.",
+          "caption": "O sofá modular da DAMIE na nossa sala, recebido em parceria.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        },
+        "emphasis": "Eu não fecharia pedido com a Sofá na Caixa sem conferir o painel e o prazo no mesmo dia. Querendo teste de 30 dias, eu compraria o sofá da DAMIE com o CECILIA12.",
         "links": [
           {
-            "label": "Entender a consulta Empresas Reclamadas do Procon-SP",
-            "href": "https://www.procon.sp.gov.br/carta-de-servicos/"
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-na-caixa-crise-reclamacoes-procon-sp",
+            "sponsored": true
           },
           {
-            "label": "Ver a reputação completa da Damie no Reclame Aqui",
-            "href": "/reviews/damie-reclame-aqui-o-que-os-dados-mostram"
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
           }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas e enfrentou um pico de atrasos de entrega e reclamações em 2025, que o fundador, segundo a BBC News Brasil, atribuiu a desafios logísticos e custos de insumos. No Reclame Aqui, a marca responde quase todas as queixas, mas resolve cerca de 6 em cada 10; os números estão no capítulo sobre o Reclame Aqui.",
-          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Na última versão publicada da lista, o domínio oficial não aparece. A ausência nessa lista não informa o resultado de uma investigação nem garante a compra.",
-          "Qual é a nota da Sofá na Caixa no Reclame Aqui? No recorte mais recente de seis meses, a marca tem selo Regular e nota 6,4. Ela responde quase todas as queixas (99,8%), mas resolve cerca de 6 em cada 10; os demais números estão no capítulo sobre o Reclame Aqui.",
-          "O que fazer se comprei e não recebi o produto? Guarde todos os comprovantes, notas fiscais e conversas. O Código de Defesa do Consumidor garante o direito ao reembolso ou cumprimento da oferta. É possível registrar queixa no Procon-SP ou Consumidor.gov.br e recorrer ao Juizado Especial Cível (sem advogado até 20 salários mínimos; com advogado entre 20 e 40 salários mínimos)."
-        ]
-      },
-      {
-        "heading": "Fontes",
-        "paragraphs": [
-          "Este artigo se baseia nas seguintes fontes públicas:"
-        ],
-        "bullets": [
-          "Procon-SP — lista 'Evite Estes Sites' e painel 'Empresas Reclamadas'",
-          "BBC News Brasil — 'Como Sofá na Caixa foi de sucesso viral nas redes à explosão de reclamações de clientes' (outubro/2025, republicado via O Povo)",
-          "Exame — 'Sofá na Caixa: Procon-SP abre investigação contra empresa após 500 reclamações' (julho/2025)",
-          "Reclame Aqui — painel público de reputação de empresas de móveis"
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento.",
+          "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas e enfrentou um pico de atrasos de entrega e reclamações em 2025, que o fundador, segundo a BBC News Brasil, atribuiu a desafios logísticos e custos de insumos.",
+          "Qual é a situação da Sofá na Caixa no Reclame Aqui? A reputação está suspensa. O Reclame Aqui informa na página: \"A reputação da empresa está suspensa porque há irregularidades dentro e/ou fora do Reclame AQUI.\" Ele não detalha o motivo.",
+          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Na última versão publicada da lista, o domínio oficial não aparece. A ausência não informa o resultado de uma investigação nem garante a compra.",
+          "O que fazer se comprei e não recebi o produto? Guarde comprovantes, notas fiscais e conversas. O Código de Defesa do Consumidor garante o reembolso ou o cumprimento da oferta. Registre queixa no Procon do seu estado ou no Consumidor.gov.br e, se for preciso, recorra ao Juizado Especial Cível, sem advogado em causas de até 20 salários mínimos."
         ]
       }
     ],
     "isNew": false,
     "imageAspect": "landscape",
     "imageFit": "contain",
-    "bodyDatesReason": "reclame-aqui"
+    "bodyDatesReason": "reclame-aqui",
+    "coupon": "CECILIA12",
+    "decision": {
+      "takeIf": [
+        "Você quer um sofá modular com 30 dias de teste em casa, guardando a embalagem original.",
+        "Você quer 1 ano de garantia e mora no Sul ou no Sudeste, onde o frete da DAMIE é grátis."
+      ],
+      "skipIf": [
+        "Você mora no Norte ou no Nordeste: a DAMIE só atende pelo Mercado Livre, onde o CECILIA12 não vale.",
+        "Você não tem onde guardar as caixas durante os 30 dias do teste."
+      ]
+    },
+    "relatedArticles": [
+      {
+        "slug": "sofa-na-caixa-inflow-ou-damie"
+      },
+      {
+        "slug": "damie-reclame-aqui-o-que-os-dados-mostram"
+      },
+      {
+        "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais"
+      }
+    ]
   },
   {
     "id": 250,
@@ -44081,7 +44394,7 @@ export const reviewsData: unknown[] = [
     "id": 274,
     "slug": "sofa-modular-ou-retratil-qual-escolher",
     "title": "Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto",
-    "seoTitle": "Sofá Modular ou Retrátil: Qual Escolher? Comparativo 2026",
+    "seoTitle": "Sofá modular ou retrátil: qual escolher? Comparativo 2026",
     "type": "Comparativo",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -44106,7 +44419,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Sofá modular ou retrátil: resposta rápida",
+        "heading": "Resposta rápida",
         "paragraphs": [
           "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir; na DAMIE, o código CECILIA12 dá 12% OFF em todo o site."
         ]
@@ -44118,10 +44431,14 @@ export const reviewsData: unknown[] = [
           "No retrátil, o assento avança por trilhos e mecanismos móveis. Fechado, recupera parte da circulação; aberto, precisa de área livre à frente. Como costuma chegar em uma peça grande, o caminho entre portaria, elevador, corredor e porta também precisa comportar o móvel.",
           "O modular fixo descrito aqui é formado por assentos, cantos, braços, puffs ou chaises transportados separadamente. Isso tende a simplificar a entrada em apartamentos, mas não elimina a medição: cada caixa tem dimensões próprias. Dentro da sala, o puff ou a chaise continuam ocupando espaço até serem deslocados para outro ponto."
         ],
-        "image": "/images/reviews/sofa-modular-itens.webp",
-        "imageAlt": "Módulos separados do sofá modular preparados para transporte e montagem",
-        "imageCaption": "O transporte em partes reduz o volume de cada peça, mas as caixas ainda precisam ser medidas antes da compra.",
-        "imageFit": "contain"
+        "image": {
+          "src": "/images/reviews/sofa-modular-itens.webp",
+          "alt": "Módulos separados do sofá modular preparados para transporte e montagem",
+          "caption": "O transporte em partes reduz o volume de cada peça, mas as caixas ainda precisam ser medidas antes da compra.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        }
       },
       {
         "heading": "Comparação rápida: sofá retrátil vs modular",
@@ -44172,27 +44489,29 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Limpeza e manutenção: onde o modular leva vantagem",
         "paragraphs": [
-          "Na rotina de limpeza, o sofá modular fixo oferece uma facilidade evidente: por ser formado por blocos independentes, você pode afastar um assento por vez para aspirar o piso e higienizar as frestas entre os tecidos. Em lares com crianças ou animais de estimação, essa mobilidade simplifica a higienização frequente.",
+          "Para limpar, o modular fixo é mais fácil: dá para afastar um módulo por vez, aspirar o piso e passar pano nas frestas. Em casa com criança ou pet, isso pesa.",
           "No retrátil, trilhos, articulações e vãos sob o assento criam pontos menos acessíveis. Além disso, por ter peças móveis, o mecanismo pode precisar de ajuste, lubrificação ou reparo ao longo do tempo. Isso não significa que todo retrátil apresente defeito: qualidade da estrutura, frequência de uso, carga e manutenção influenciam a durabilidade."
         ]
       },
       {
-        "heading": "Qual escolher para a sua rotina?",
+        "heading": "Quem escolhe o quê",
         "paragraphs": [
           "A melhor escolha aparece quando você identifica qual problema realmente pesa na sua casa:"
         ],
-        "emphasis": "O modular da DAMIE, que recebemos em parceria, funciona na nossa rotina. Eu o escolheria para acesso estreito e mudanças de layout; se a prioridade fosse estender o assento, compararia também um retrátil.",
-        "emphasisAfterParagraph": 1,
         "bullets": [
           "Para assistir TV todos os dias: o retrátil é mais direto, porque a extensão das pernas já faz parte do assento.",
           "Para entrar em apartamento com elevador pequeno, escada com curva ou corredor estreito: o modular tende a facilitar a entrega por chegar em partes.",
           "Para mudar o layout ou aumentar o sofá depois: o modular oferece mais liberdade, desde que a linha escolhida venda módulos compatíveis separadamente.",
           "Para liberar o chão quando a extensão não estiver em uso: o retrátil leva vantagem; no modular, o puff precisa permanecer na composição ou encontrar outro lugar na sala."
         ],
-        "image": "/images/reviews/sofa-modular-5-lugares-em-l.webp",
-        "imageAlt": "Sofá modular montado em formato L com cinco lugares na sala de estar",
-        "imageCaption": "A configuração em L usa os módulos para criar uma área permanente de apoio para as pernas.",
-        "imageFit": "contain"
+        "image": {
+          "src": "/images/reviews/sofa-modular-5-lugares-em-l.webp",
+          "alt": "Sofá modular montado em formato L com cinco lugares na sala de estar",
+          "caption": "A configuração em L usa os módulos para criar uma área permanente de apoio para as pernas.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-5-lugares-em-l"
+        }
       },
       {
         "heading": "Antes de comprar: meça a sala e o caminho da entrega",
@@ -44209,52 +44528,57 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Caso real: como puffs, baú e acessórios mudam o modular",
         "paragraphs": [
-          "Na prática, a grande flexibilidade de um sofá modular não decorre apenas de transportar assentos separados na hora da entrega. A possibilidade de incorporar puffs, baús e módulos funcionais transforma a dinâmica da sala conforme a necessidade de cada momento.",
+          "O modular não muda só a entrega. Puff, baú e acessórios soltos deixam a sala de um jeito para o filme e de outro para a visita.",
           "Um exemplo prático é o baú de apoio central: por ser uma peça independente, ele pode ser reposicionado a cada ocasião dentro da composição."
         ],
-        "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
-        "imageAlt": "Cecília demonstra o baú de apoio central azul ao lado do sofá modular Damie",
-        "imageCaption": "O baú de apoio central é uma peça independente e pode ser reposicionado dentro da composição do sofá modular.",
-        "imageFit": "portrait",
+        "image": {
+          "src": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito-4x5.webp",
+          "alt": "Cecília demonstra o baú de apoio central azul ao lado do sofá modular Damie",
+          "caption": "O baú de apoio central é uma peça independente e pode ser reposicionado dentro da composição do sofá modular.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        },
         "postParagraphs": [
-          "Puffs avulsos: adicionar um puff em frente a cada módulo cria a mesma superfície contínua de descanso para as pernas de um retrátil, com a vantagem de poder reposicionar essa peça contra a parede ou atrás dos encostos para formar uma composição de ilha em salas integradas.",
+          "Puffs avulsos: um puff na frente de cada módulo dá o mesmo apoio de pernas do retrátil, e depois vai para a parede ou para trás do encosto.",
           "Acessórios acoplados aos braços: carregador USB, luminária, porta-taça, mesa de apoio e suporte com carregamento por indução podem ficar integrados à estrutura lateral. Na linha modular da Damie, esses itens são acoplados aos braços dos módulos e não ocupam espaço à parte."
         ]
       },
       {
-        "heading": "Se você escolher o modular: o que observamos na Damie",
+        "heading": "Qual escolher: sofá modular ou retrátil?",
+        "emphasis": "O modular da DAMIE, que recebemos em parceria, funciona na nossa rotina. Eu o escolheria para acesso estreito e mudanças de layout; se a prioridade fosse estender o assento, compararia também um retrátil.",
         "paragraphs": [
-          "No modular da Damie que acompanhamos em casa, braços e encosto se encaixam por gravidade, enquanto os pés usam fixação por velcro. A montagem não depende de ferramenta, mas o comprador ainda precisa conferir medidas, composição, tecido, entrega e condições de devolução vigentes na página do produto.",
-          "Em 26 de agosto de 2026, a página oficial da coleção informava 1 ano de garantia geral. Depois desse período, a Damie declara suporte vitalício e peças de reposição a preço de custo — um ponto relevante para os opcionais integrados aos braços e para a manutenção de longo prazo. Como condições comerciais podem mudar, confirme os termos vigentes antes da compra.",
-          "Se essa for a sua escolha, o [cupom Damie](/cupons/damie) CECILIA12, código de parceria, dá 12% OFF em todo o site da DAMIE. Confira o desconto no carrinho antes de finalizar a compra."
+          "No modular da DAMIE que temos em casa, braços e encosto se encaixam por gravidade e os pés usam velcro. A montagem não depende de ferramenta, mas confira medidas, composição, tecido, entrega e condições de devolução na página do produto. A DAMIE dá 1 ano de garantia, suporte vitalício e peças de reposição a preço de custo, o que pesa nos opcionais presos aos braços.",
+          "Se o modular for a sua escolha, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF em todo o site oficial, em todas as formas de pagamento. Quer ver o uso real antes? Leia o [teste do sofá modular em casa](/reviews/sofa-damie-modular-vale-a-pena)."
         ],
         "links": [
           {
-            "label": "Ver sofás modulares na loja oficial",
-            "href": "https://www.damie.com.br/collections/sofa-modular/?utm_source=home&utm_medium=blog&utm_campaign=cecilia12",
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-modular-ou-retratil-qual-escolher",
             "sponsored": true
           },
           {
-            "label": "Ver o teste real do sofá modular Damie em casa",
-            "href": "/reviews/sofa-damie-modular-vale-a-pena"
+            "label": "Ver o sofá modular na DAMIE",
+            "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+            "sponsored": true
           },
           {
-            "label": "Análise completa da reputação da Damie no Reclame Aqui",
-            "href": "/reviews/damie-reclame-aqui-o-que-os-dados-mostram"
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
           }
         ]
       },
       {
-        "heading": "Perguntas Frequentes sobre Sofá Modular e Retrátil",
+        "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento.",
           "Qual sofá ocupa menos espaço na sala: modular ou retrátil? Depende do que você está medindo. Para entrar em casa (porta, corredor, elevador), o modular fixo tende a ocupar menos espaço, porque chega em módulos separados. Já no dia a dia, dentro da sala, o retrátil fechado costuma ocupar menos chão: ele retrai quando não está em uso, enquanto o puff do modular tem espaço fixo e só sai do caminho se houver outro canto pra colocá-lo.",
           "Qual é melhor para apartamento: sofá modular ou retrátil? Se o problema é passar por elevador, corredor ou porta estreita, o modular tende a facilitar a entrega. Se o acesso comporta uma peça grande e a prioridade é liberar circulação quando o sofá não está aberto, um retrátil compacto pode funcionar melhor.",
           "Qual é mais confortável para assistir TV? O retrátil entrega apoio para as pernas sem mover peças e costuma ser a escolha mais direta para uma sala de TV. Um modular com puff ou chaise também pode ser confortável, mas ocupa essa área de forma permanente até a peça ser deslocada.",
           "Um puff substitui o mecanismo retrátil? O puff pode oferecer apoio semelhante para as pernas, mas não retrai nem movimenta o encosto. A sensação e o espaço ocupado dependem da composição escolhida.",
           "Qual sofá é mais fácil de limpar e manter? O modular tende a facilitar a limpeza porque os módulos podem ser afastados separadamente para alcançar o piso e as frestas. O retrátil possui vãos e componentes móveis que podem exigir mais cuidado e, com o uso, ajustes ou reparos. A durabilidade varia conforme a construção, a carga e a manutenção de cada modelo.",
-          "O sofá modular sai do lugar ou se separa ao sentar? Depende do sistema de união. No modular da Damie, os módulos usam engates na base para permanecer unidos durante o uso.",
-          "O que significa 'sofá sem caixa'? O termo aparece nos anúncios para o sofá que chega montado, em peça única. O modular da Damie vem em caixas, mas a montagem dispensa ferramenta: braços e encosto se encaixam por gravidade e os pés usam velcro. Confira na página do produto o prazo e as condições de entrega.",
-          "Qual é o cupom da Damie? O código de parceria é CECILIA12 e dá 12% OFF em todo o site da DAMIE. Confira o desconto no carrinho antes de finalizar a compra."
+          "O sofá modular sai do lugar ou se separa ao sentar? Depende do sistema de união. No modular da DAMIE que temos em casa, os módulos ficam unidos pelo encaixe e não se separaram no uso.",
+          "O que significa 'sofá sem caixa'? O termo aparece nos anúncios para o sofá que chega montado, em peça única. O modular da Damie vem em caixas, mas a montagem dispensa ferramenta: braços e encosto se encaixam por gravidade e os pés usam velcro. Confira na página do produto o prazo e as condições de entrega."
         ]
       }
     ],
@@ -44276,13 +44600,16 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Comparamos as características dos modelos descritos e a nossa experiência com o sofá modular DAMIE, recebido em parceria. O cupom CECILIA12 e os links da loja podem gerar comissão, sem custo extra para você.",
+    "editorialNote": "Recebemos o sofá modular DAMIE em parceria; links e cupom podem render comissão.",
     "relatedArticles": [
       {
         "slug": "sofa-damie-modular-vale-a-pena"
       },
       {
-        "slug": "damie-reclame-aqui-o-que-os-dados-mostram"
+        "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular"
+      },
+      {
+        "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais"
       },
       {
         "slug": "poltrona-damie-e-boa"
@@ -44310,7 +44637,7 @@ export const reviewsData: unknown[] = [
         "caption": "Layout em ilha: versatilidade para receber amigos e integrar ambientes."
       }
     ],
-    "updatedAt": "2026-11-08"
+    "updatedAt": "2026-11-23"
   },
   {
     "id": 275,
@@ -45170,7 +45497,7 @@ export const reviewsData: unknown[] = [
     "id": 278,
     "slug": "poltrona-charles-eames-design-iconico-e-alternativas",
     "title": "Como Escolher uma Poltrona Decorativa: da Eames à Aurora e Levita",
-    "seoTitle": "Poltrona Decorativa: Eames, Aurora Manual ou Levita Elétrica?",
+    "seoTitle": "Poltrona decorativa: Eames, Aurora ou Levita?",
     "type": "Guia de Design",
     "category": "produtos-experiencias",
     "reviewKind": "guia",
@@ -45184,12 +45511,12 @@ export const reviewsData: unknown[] = [
     "description": "Um guia para escolher poltrona decorativa pelo uso, espaço e revestimento, com a história da Cadeira Eames Lounge e caminhos entre a Aurora manual e a Levita elétrica.",
     "metaDescription": "Aurora manual ou Levita elétrica da DAMIE, com o cupom CECILIA12 de 12% em todo o site: como escolher, com o ícone Eames como referência de design.",
     "publishedAt": "2 de setembro de 2026",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-23",
     "publishedAtISO": "2026-09-02",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/damie/poltrona-charles-eames-design-iconico-e-alternativas-capa-v2.webp",
-    "imageAlt": "Cecília sorrindo, sentada em uma poltrona clara e com as mãos apoiadas sobre as pernas, em foto própria indicada pelo Bruno, ao lado da chamada Poltrona decorativa e da pergunta Aurora ou Levita?",
+    "imageAlt": "Cecília sorrindo, sentada em uma poltrona clara e com as mãos apoiadas sobre as pernas, em foto própria, ao lado da chamada Poltrona decorativa e da pergunta Aurora ou Levita?",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -45214,26 +45541,26 @@ export const reviewsData: unknown[] = [
           "Para sala compacta: marque no chão a largura e a profundidade do conjunto, incluindo puff ou abertura da reclinação.",
           "Para uso intenso: leia as orientações de limpeza do revestimento e escolha pensando na rotina da casa."
         ],
-        "image": "/images/reviews/damie/poltrona-aurora-areia-ambientada.webp",
-        "imageAlt": "Poltrona Aurora em linho areia com puff em uma sala de estar",
-        "imageCaption": "Uma poltrona com puff pede espaço para os dois elementos e para a circulação ao redor.",
-        "imageFit": "square"
+        "image": {
+          "src": "/images/reviews/damie/poltrona-aurora-areia-ambientada.webp",
+          "alt": "Poltrona Aurora em linho areia com puff em uma sala de estar",
+          "caption": "Uma poltrona com puff pede espaço para os dois elementos e para a circulação ao redor.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora"
+        }
       },
       {
         "heading": "Por que a Cadeira Eames Lounge continua despertando curiosidade",
         "paragraphs": [
           "A Cadeira Eames Lounge nasceu em 1956, assinada por Charles e Ray Eames. Charles comparou a ambição da peça ao acolhimento de uma luva de beisebol bem usada: uma imagem simples para um assento que combinava conchas de madeira moldada, almofadas generosas e otomana independente. A dupla transformou essa mistura numa das silhuetas mais reconhecíveis do design do século XX.",
           "O interesse não precisa levar a uma tentativa de reproduzir a peça em casa. Ele ajuda a identificar preferências: madeira aparente ou estofamento contínuo, apoio de pés separado ou embutido, encosto de ângulo fixo ou ajuste de reclinação, e uma aparência mais gráfica ou mais acolhedora. A versão original da Eames tem posição fixa; ela não é uma reclinável.",
-          "Em 2 de setembro de 2026, a loja brasileira da Herman Miller exibia R$ 66.866 na página ES670 Preta/Walnut e R$ 82.272 na página identificada como conjunto Lounge e otomana. Configuração, disponibilidade e valor podem mudar; os dois exemplos servem apenas para situar a pesquisa naquela data."
+          "Na loja brasileira da Herman Miller, a original passava de R$ 66 mil em setembro de 2026."
         ],
         "bullets": [
           "Otomana: apoio de pés separado que faz parte da composição clássica.",
           "Uso: a Cadeira Eames Lounge original não tem reclinação ajustável; sua inclinação é fixa."
         ],
-        "image": "/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp",
-        "imageAlt": "Foto de produto em fundo branco mostrando uma Cadeira Eames Lounge escura com estrutura de madeira",
-        "imageCaption": "Conchas de madeira aparente, almofadas escuras e base giratória compõem a silhueta da Cadeira Eames Lounge.",
-        "imageFit": "square",
         "images": [
           {
             "src": "/images/reviews/eames-lounge-chair-janela-vintage.jpg",
@@ -45248,13 +45575,6 @@ export const reviewsData: unknown[] = [
             "caption": "A composição clássica associa a poltrona a uma otomana independente.",
             "objectFit": "contain",
             "aspectRatio": 1.7777777777777777
-          },
-          {
-            "src": "/images/reviews/eames-lounge-chair-produto-oficial.webp",
-            "alt": "Anúncio de época mostrando uma pessoa com bebê sentada em uma Cadeira Eames Lounge",
-            "caption": "Anúncio de época: pessoa com bebê na Cadeira Eames Lounge.",
-            "objectFit": "contain",
-            "aspectRatio": 0.7446504992867332
           }
         ],
         "links": [
@@ -45267,8 +45587,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Três perguntas práticas antes de decidir",
         "paragraphs": [
-          "A primeira é como você pretende mudar de posição. Um puff independente deixa o apoio de pés livre para aproximar ou afastar. Uma reclinável elétrica reúne os movimentos no próprio assento e permite variar encosto e apoio sem levantar. Nenhuma solução é superior em qualquer sala: são jeitos diferentes de organizar o descanso.",
-          "A segunda é como o móvel conversa com a casa. A Aurora é uma alternativa para quem quer reclinação manual com puff incluso e base giratória. A Levita mantém uma silhueta próxima, mas acrescenta ajustes elétricos independentes. A terceira é a honestidade sobre uso: escolha o mecanismo que você de fato vai acionar, em vez de pagar por uma função que não cabe na rotina."
+          "A primeira é como você pretende mudar de posição. Um puff independente deixa o apoio de pés livre para aproximar ou afastar. Uma reclinável elétrica reúne os movimentos no próprio assento e permite variar encosto e apoio sem levantar.",
+          "A segunda é como o móvel conversa com a casa. A Aurora é uma alternativa para quem quer reclinação manual com puff incluso e base giratória. A Levita mantém uma silhueta próxima, mas acrescenta ajustes elétricos independentes. A terceira: você vai mesmo usar o motor? Se não, a manual resolve e dispensa a tomada."
         ],
         "bullets": [
           "Puff independente: flexibiliza a distância para apoiar as pernas e pode ser reposicionado na composição.",
@@ -45280,15 +45600,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Aurora: para quem quer reclinação manual e puff independente",
         "paragraphs": [
-          "A Aurora é uma poltrona reclinável manual da DAMIE: a página do produto informa acionamento por alavanca, puff independente incluso, base 360° e opções de couro bovino ou tecido linho. É uma proposta coerente para quem quer decidir a posição do apoio para os pés separadamente e prefere não depender de tomada no local escolhido.",
-          "Na decoração, o puff deixa a composição mais móvel: ele pode acompanhar a poltrona no descanso ou ser recuado para liberar passagem. Isso não elimina a necessidade de medir a sala; ao contrário, a área do puff deve entrar na planta desde o começo.",
-          "A Aurora segue sem teste próprio: valem o mecanismo e os materiais da página oficial. Como os mecanismos são diferentes, só um teste diz se o acolhimento se parece com o da Levita."
+          "A Aurora é uma poltrona reclinável manual da DAMIE: a página do produto informa acionamento por alavanca, puff independente incluso, base 360° e opções de couro bovino ou tecido linho. Serve para quem quer mexer no apoio dos pés à parte e não tem tomada no canto da poltrona.",
+          "Na decoração, o puff deixa a composição mais móvel: ele pode acompanhar a poltrona no descanso ou ser recuado para liberar passagem. Meça a sala já com o puff."
         ],
         "bullets": [],
-        "image": "/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp",
-        "imageAlt": "Poltrona Aurora reclinada, vista lateral em estúdio",
-        "imageCaption": "Vista lateral da Aurora em posição reclinada; o acionamento manual é informado na página do produto.",
-        "imageFit": "square",
+        "image": {
+          "src": "/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp",
+          "alt": "Poltrona Aurora reclinada, vista lateral em estúdio",
+          "caption": "Vista lateral da Aurora em posição reclinada; o acionamento manual é informado na página do produto.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora"
+        },
         "links": [
           {
             "label": "Ler o guia da Poltrona Aurora no espaço DAMIE",
@@ -45305,16 +45628,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Levita: minha experiência com a poltrona em casa",
         "paragraphs": [
-          "A Levita compartilha com a Aurora uma presença envolvente e a proposta de ser uma poltrona de destaque na sala, mas segue por outra rota de uso. Na minha experiência com a poltrona em casa, o ponto mais relevante é poder ajustar encosto e apoio para os pés de modo independente. A página oficial informa dois motores independentes, ajuste manual de pescoço, funcionamento bivolt, revestimentos em couro ou linho e base giratória. A nossa gira 280°, o mesmo ângulo da FAQ da marca; a página do produto fala em 360°.",
-          "Poder fazer esses pequenos ajustes me ajuda a encontrar a posição para leitura, televisão ou descanso. A troca é prática: a Levita precisa de uma tomada próxima e de área de abertura; a Aurora remove a tomada da equação, mas usa uma alavanca e um puff deslocável. São características para comparar com a planta da casa e a rotina, não um ranking de conforto.",
-          "A foto abaixo me mostra usando a Levita em casa."
+          "A Levita tem o mesmo jeito de poltrona de destaque da Aurora, com motor. Na minha experiência com a poltrona em casa, o ponto mais relevante é poder ajustar encosto e apoio para os pés de modo independente. A página oficial informa dois motores independentes, ajuste manual de pescoço, funcionamento bivolt, revestimentos em couro ou linho e base giratória. Ela gira 280°, como diz a FAQ da página e como a nossa faz.",
+          "Poder fazer esses pequenos ajustes me ajuda a encontrar a posição para leitura, televisão ou descanso. A troca é prática: a Levita precisa de uma tomada próxima e de área de abertura; a Aurora dispensa a tomada, mas usa alavanca e um puff solto."
         ],
         "bullets": [],
-        "image": "/images/reviews/damie/poltrona-levita-cecilia-selfie.jpg",
-        "imageAlt": "Cecília Mauad sentada na Poltrona Levita em foto própria",
-        "imageCaption": "Eu na Levita, em casa: é com este modelo que tenho experiência de uso.",
-        "imageFit": "portrait",
-        "imageAspectRatio": 0.8158827700307256,
+        "image": {
+          "src": "/images/reviews/damie/poltrona-levita-cecilia-selfie.jpg",
+          "alt": "Cecília Mauad sentada na Poltrona Levita em foto própria",
+          "caption": "Eu na Levita, em casa: é com este modelo que tenho experiência de uso.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8158827700307256,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+        },
         "links": [
           {
             "label": "Ler minha experiência completa com a Poltrona Levita",
@@ -45325,11 +45650,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher: Aurora manual ou Levita elétrica",
         "paragraphs": [
-          "Aurora e Levita podem participar de uma sala decorativa e têm uma linguagem visual próxima, mas resolvem de modo diferente a posição dos pés, a fonte de energia e o ajuste do encosto. A síntese abaixo ajuda a levar a comparação para a planta da sua casa.",
-          "Se você gosta de deslocar o puff, quer um conjunto manual e não tem uma tomada conveniente, a Aurora merece entrar na lista curta. Se a possibilidade de encontrar combinações de encosto e apoio de pés é decisiva, e o ponto de energia já está previsto, a Levita é a alternativa a avaliar. Em ambos os casos, confira medidas, revestimento e condições vigentes diretamente com a marca antes da compra."
+          "Aurora e Levita podem participar de uma sala decorativa e têm uma linguagem visual próxima, mas resolvem de modo diferente a posição dos pés, a fonte de energia e o ajuste do encosto.",
+          "Sem tomada por perto e com vontade de mexer no puff, vá de Aurora. Com tomada e querendo ajustar encosto e pés em separado, vá de Levita. Em ambos os casos, confira medidas, revestimento e prazo com a marca antes de fechar.",
+          "O CECILIA12 dá 12% OFF em todo o site da DAMIE, em todas as formas de pagamento, e soma com o desconto do Pix. As regras estão no [cupom DAMIE](/cupons/damie)."
         ],
         "comparisonTable": {
-          "caption": "Aurora e Levita: diferenças práticas de mecanismo, espaço e infraestrutura",
+          "caption": "Aurora e Levita: diferenças práticas de mecanismo, espaço e infraestrutura. Preços do site em 23/11/2026, no cartão.",
           "headers": [
             "Critério",
             "Aurora",
@@ -45359,35 +45685,38 @@ export const reviewsData: unknown[] = [
             [
               "Revestimentos informados",
               "Couro bovino ou linho",
-              "Couro ou linho"
+              "Couro bovino ou linho"
+            ],
+            [
+              "Preço no site",
+              "Linho a partir de R$ 5.400; couro R$ 6.400",
+              "Linho R$ 6.400; couro R$ 7.400"
             ]
           ]
         },
-        "emphasis": "Na minha Levita, uso os ajustes independentes de encosto e apoio de pés para encontrar a posição de leitura ou de TV. Esse é o recurso que mais pesa na minha escolha.",
-        "emphasisAfterParagraph": 2
-      },
-      {
-        "heading": "Cupom e transparência da parceria DAMIE",
-        "paragraphs": [
-          "Este guia tem parceria comercial com a DAMIE. Use o CECILIA12 no checkout para 12% OFF em todo o site; confira o desconto e a disponibilidade no carrinho antes de fechar. As [regras do cupom CECILIA12](/cupons/damie) estão na nossa página da DAMIE.",
-          "Os links para a Aurora e para a DAMIE podem gerar comissão para o Em Casa com Cecília, sem custo adicional ao leitor. A parceria não substitui a conferência de medidas, revestimento, prazo e política aplicável à sua compra."
-        ],
-        "bullets": [],
+        "emphasis": "Se a sala já tem tomada perto, eu escolheria a Levita: uso os ajustes independentes de encosto e apoio de pés na minha, e é esse recurso que pesa na compra. Sem ponto de energia, eu iria na Aurora.",
         "links": [
           {
-            "label": "Ver a Aurora no guia DAMIE e conferir o código CECILIA12",
-            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_campaign=charles-eames-hub",
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-charles-eames-design-iconico-e-alternativas",
             "sponsored": true
           },
           {
-            "label": "Conhecer a resenha da Levita antes de escolher a versão elétrica",
-            "href": "/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto"
+            "label": "Ver a Levita na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Aurora na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora",
+            "sponsored": true
           }
         ]
       },
       {
-        "heading": "Perguntas frequentes sobre poltronas decorativas",
+        "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento.",
           "A Cadeira Eames Lounge reclina? A Cadeira Eames Lounge original tem inclinação fixa; não é uma poltrona reclinável com ajuste de encosto.",
           "Quem criou a Cadeira Eames Lounge? Charles e Ray Eames criaram a peça em 1956.",
           "Como escolher uma poltrona decorativa para sala? Comece pelo uso principal, preserve a circulação ao redor e observe a proporção com o sofá, a mesa lateral e o tapete. Marcar a área no chão antes da compra ajuda a visualizar a composição completa.",
@@ -45395,10 +45724,9 @@ export const reviewsData: unknown[] = [
           "Vale escolher uma poltrona decorativa giratória? Pode valer quando você alterna entre conversa, janela e TV sem querer deslocar o móvel. Giro ajuda a orientar o assento; não substitui uma função de reclinação.",
           "É melhor uma poltrona de destaque ou um kit com duas? Uma peça de destaque concentra o descanso individual e cria um ponto focal; duas poltronas favorecem conversa e simetria. A melhor escolha depende da circulação e de como a sala é usada.",
           "Poltrona com puff vale a pena em uma sala pequena? Pode funcionar se o puff puder ser reposicionado quando não estiver em uso, mas ele não reduz a área ocupada pelo conjunto. Meça o espaço com a poltrona e o puff na posição de descanso e mantenha as passagens livres.",
-          "A Aurora ou a Levita é melhor? Depende do uso: Aurora privilegia reclinação manual e puff separado; Levita oferece ajustes elétricos independentes e requer tomada próxima.",
+          "A Aurora ou a Levita é melhor? Depende do uso: a Aurora privilegia reclinação manual e puff separado; a Levita oferece ajustes elétricos independentes e requer tomada próxima.",
           "A Aurora da DAMIE tem puff? Sim. A página oficial informa que a Aurora acompanha puff independente no conjunto.",
-          "A Levita gira 360°? Não. A nossa gira 280°, o mesmo ângulo da FAQ da DAMIE, embora a página do produto fale em 360°.",
-          "Qual é o cupom da DAMIE? O código é CECILIA12 e dá 12% OFF em todo o site da DAMIE; aplique-o no checkout e confira o desconto antes de finalizar."
+          "A Levita dá a volta inteira? Não. Ela gira 280°, como diz a FAQ da DAMIE e como a nossa faz."
         ]
       }
     ],
@@ -45410,7 +45738,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Parceria comercial com a DAMIE: os links podem gerar comissão, sem custo extra para você. Levita testada por nós; Aurora, não.",
+    "editorialNote": "Parceria com a DAMIE: links com comissão. Levita usada por nós; Aurora, não.",
     "relatedArticles": [
       {
         "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
@@ -45462,21 +45790,22 @@ export const reviewsData: unknown[] = [
         "caption": "A composição clássica associa a poltrona a uma otomana independente."
       },
       {
-        "image": "/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp",
-        "alt": "Foto de produto em fundo branco mostrando uma Cadeira Eames Lounge",
-        "caption": "Conchas de madeira aparente, almofadas escuras e base giratória compõem a silhueta da Cadeira Eames Lounge."
-      },
-      {
-        "image": "/images/reviews/eames-lounge-chair-produto-oficial.webp",
-        "alt": "Anúncio de época mostrando uma pessoa com bebê sentada em uma Cadeira Eames Lounge",
-        "caption": "Anúncio de época: pessoa com bebê na Cadeira Eames Lounge."
-      },
-      {
         "image": "/images/reviews/damie/poltrona-levita-cecilia-selfie.jpg",
         "alt": "Cecília Mauad sentada na Poltrona Levita em foto própria",
         "caption": "Foto própria da minha experiência com a Levita elétrica."
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a Levita se já há tomada perto do lugar da poltrona e você quer ajustar encosto e apoio de pés separadamente.",
+        "Leve a Aurora se prefere reclinação por alavanca, puff que sai do caminho e nenhuma tomada."
+      ],
+      "skipIf": [
+        "Passe na Levita se a sala não tem tomada próxima ou se você quase nunca muda a posição do apoio.",
+        "Passe na Aurora se quer ajuste elétrico: ela é manual.",
+        "Passe nos dois se procura a peça original da Eames: ela tem inclinação fixa e outro tipo de compra."
+      ]
+    }
   },
   {
     "id": 279,
@@ -53955,7 +54284,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECILIA12 dá 12% OFF na DAMIE. Poltrona de amamentação: com balanço ou sem, com puff ou reclinável, tecido, medidas e as três faixas de preço.",
     "publishedAt": "7 de outubro de 2026",
     "publishedAtISO": "2026-10-07",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-23",
     "isNew": false,
     "image": "/images/reviews/damie/poltrona-de-amamentacao-como-escolher-capa-v2.webp",
     "imageAlt": "Cecília sentada na poltrona reclinável bege, olhando para Ian no assento ao lado, em foto própria da sala de casa.",
@@ -53997,11 +54326,14 @@ export const reviewsData: unknown[] = [
           "Levantar sem tranco. Depois que o bebê dorme no colo, você vai querer levantar e levar até o berço sem acordá-lo. Assento muito baixo ou muito mole obriga a dar impulso com o tronco.",
           "Apoio para os pés. Pés apoiados aliviam as pernas e ajudam a manter a postura. Pode ser um puff separado ou um apoio que sai da própria poltrona, nas reclináveis."
         ],
-        "image": "/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
-        "imageAlt": "Mãos ajustando a almofada de cabeça regulável de uma Poltrona Reclinável 2.0",
-        "imageCaption": "Almofada de cabeça regulável da Reclinável 2.0: o apoio sobe ou desce conforme a altura de quem senta.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.4989
+        "image": {
+          "src": "/images/reviews/damie/poltrona-damie-2-0-almofada-regulavel.webp",
+          "alt": "Mãos ajustando a almofada de cabeça regulável de uma Poltrona Reclinável 2.0",
+          "caption": "Almofada de cabeça regulável da Reclinável 2.0: o apoio sobe ou desce conforme a altura de quem senta.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4989,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        }
       },
       {
         "heading": "Com balanço ou sem? E o giro?",
@@ -54042,22 +54374,24 @@ export const reviewsData: unknown[] = [
           "Na reclinável, o apoio de pés sai da própria poltrona e recolhe quando fechada, mas aberta ela pede bem mais espaço. A Reclinável 2.0 mede 106 cm de altura, 89 cm de largura e 95 cm de profundidade, e totalmente reclinada chega a 174 cm de comprimento. A versão com giro precisa ainda de folga nas laterais para girar sem bater na parede ou na cômoda.",
           "Confira também a passagem. A DAMIE diz que a poltrona chega em caixa e, se a porta tiver menos de 80 cm, dá para passar primeiro o encosto e depois a base, o que funciona em portas a partir de 65 cm. E as reclináveis elétricas precisam de tomada perto: planeje o lugar para o fio não atravessar o caminho."
         ],
-        "image": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
-        "imageAlt": "Desenho com as medidas da Poltrona Reclinável 2.0 fechada e totalmente reclinada",
-        "imageCaption": "Medidas da Reclinável 2.0 informadas pela marca: 106 × 89 × 95 cm fechada e 174 cm de comprimento reclinada.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.7785
+        "image": {
+          "src": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
+          "alt": "Desenho com as medidas da Poltrona Reclinável 2.0 fechada e totalmente reclinada",
+          "caption": "Medidas da Reclinável 2.0 informadas pela marca: 106 × 89 × 95 cm fechada e 174 cm de comprimento reclinada.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7785
+        }
       },
       {
         "heading": "As três faixas de preço, da poltrona barata à reclinável elétrica",
         "paragraphs": [
-          "A poltrona de amamentação se divide em três grupos, e nenhum é certo para todo mundo: depende do orçamento, do espaço e do uso depois da amamentação. Os preços abaixo mudam com frequência.",
-          "Poltrona fixa com puff. É a porta de entrada. Um exemplo é a poltrona com puff da Dreamy House vendida na Amazon: estrutura de eucalipto, revestimento em suede, puff com pés de rosca, sem balanço, por R$ 469 (R$ 445,55 no Pix). Atende quem precisa gastar pouco, mas a garantia do fabricante é de 3 meses, e há avaliações de compradores relatando assento que deforma rápido. Leia as avaliações antes de decidir.",
-          "Poltrona com balanço e puff. É a mais procurada nos marketplaces. No Mercado Livre, a maioria dos modelos com balanço e puff estava entre R$ 550 e R$ 1.000. A Áquila, com balanço e puff, é um dos modelos mais conhecidos e custava R$ 862 na versão bege. Antes de comprar, compare medidas, revestimento, prazo de garantia e as avaliações sobre barulho no balanço.",
-          "Reclinável elétrica com giro e balanço. É o grupo da DAMIE, que vende a reclinável elétrica com base de giro e balanço nas versões 1.0 e 2.0, de R$ 4.299 a R$ 5.699 conforme o revestimento. Você reclina o encosto e levanta o apoio de pés por botão, sem fazer força, até 145°, e ainda tem giro de 180° e balanço. A marca dá 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. Custa bem mais, e a lógica é outra. Depois da amamentação, tanto uma fixa com puff quanto uma reclinável podem servir para leitura ou descanso. Na reclinável, os ajustes por botão e opcionais como mesa, luminária e carregador permitem outros usos; avalie se você quer esses recursos na sala."
+          "A poltrona de amamentação se divide em três grupos, e nenhum é certo para todo mundo: depende do orçamento, do espaço e do uso depois da amamentação.",
+          "Poltrona fixa com puff. É a porta de entrada. Um exemplo é a poltrona com puff da Dreamy House vendida na Amazon: estrutura de eucalipto, revestimento em suede, puff com pés de rosca, sem balanço. Atende quem precisa gastar pouco, mas a garantia do fabricante é de 3 meses, e há avaliações de compradores relatando assento que deforma rápido. Leia as avaliações antes de decidir.",
+          "Poltrona com balanço e puff. É a mais procurada nos marketplaces. No Mercado Livre, a maioria dos modelos com balanço e puff fica na faixa da tabela. A Áquila, com balanço e puff, é um dos que mais aparecem na busca, na versão bege. Antes de comprar, compare medidas, revestimento, prazo de garantia e as avaliações sobre barulho no balanço.",
+          "Reclinável elétrica com giro e balanço. É o grupo da DAMIE, que vende a reclinável elétrica com base de giro e balanço nas versões 1.0 e 2.0, com preço conforme o revestimento. Você reclina o encosto e levanta o apoio de pés por botão, sem fazer força, e ainda tem giro e balanço. A marca dá 1 ano de garantia, 30 dias para experimentar em casa, com a embalagem original guardada, e frete grátis para Sul e Sudeste. Custa bem mais, e a lógica é outra. Depois da amamentação, tanto uma fixa com puff quanto uma reclinável podem servir para leitura ou descanso. Na reclinável, os ajustes por botão e opcionais como mesa, luminária e carregador permitem outros usos; avalie se você quer esses recursos na sala."
         ],
         "comparisonTable": {
-          "caption": "Comparação das três faixas de preço, com os preços de 6 de outubro de 2026.",
+          "caption": "Marketplaces com preços de 6 de outubro de 2026; DAMIE com preços do site em 23/11/2026, no cartão.",
           "headers": [
             "Ponto",
             "Fixa com puff (Amazon)",
@@ -54119,37 +54453,41 @@ export const reviewsData: unknown[] = [
           {
             "src": "https://m.media-amazon.com/images/I/51w-91cpCIL._AC_SL1000_.jpg",
             "alt": "Poltrona de amamentação fixa com puff, em suede bege, sem ninguém",
-            "caption": "Fixa com puff (Amazon): R$ 469, sem balanço. Foto do anúncio na Amazon.",
+            "caption": "Fixa com puff (Amazon), sem balanço. Foto do anúncio.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://link.amazon/B03Z8Ky9B"
           },
           {
             "src": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
             "alt": "Poltrona de amamentação Áquila com base de balanço e puff, em um quarto de bebê, sem ninguém",
-            "caption": "Áquila com balanço e puff (Mercado Livre): R$ 862. Foto do anúncio.",
+            "caption": "Áquila com balanço e puff (Mercado Livre). Foto do anúncio.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://meli.la/1VBBH4Y"
           },
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-1-0-giro-balanco-bege.webp",
             "alt": "Poltrona reclinável DAMIE 1.0 elétrica com base de giro e balanço, em suede bege, vazia",
             "caption": "DAMIE 1.0 elétrica com giro e balanço: encosto capitonê. Foto oficial da DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco"
           },
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
             "alt": "Poltrona Reclinável 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
             "caption": "Reclinável 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
           }
         ]
       },
       {
-        "heading": "Nota: uma poltrona com puff mais luxuosa, a Aurora da DAMIE",
+        "heading": "Aurora: uma poltrona com puff mais sofisticada",
         "paragraphs": [
-          "Se você gosta do formato de poltrona com puff, mas quer algo mais premium, a DAMIE tem a Aurora. Ela é uma poltrona reclinável manual, acionada por uma alavanca lateral, com base giratória de 360° e puff separado incluso. O revestimento é couro bovino ou linho italiano, e a marca informa suporte para até 130 kg.",
+          "Se você gosta do formato de poltrona com puff, mas quer algo mais premium, a DAMIE tem a Aurora. Ela é uma poltrona reclinável manual, acionada por uma alavanca lateral, com base giratória de 360° e puff separado incluso. O revestimento é couro bovino ou linho italiano.",
           "Para amamentar, ela atende ao básico: braços, encosto alto e apoio para os pés. A página da marca não cita balanço, e a reclinação é manual, então ela não tem o embalo nem o ajuste por botão das reclináveis com giro e balanço. É uma escolha para quem prioriza o design e quer uma poltrona que pareça peça de sala desde o primeiro dia. No site da marca, custava de R$ 5.400 a R$ 6.400, e o cupom CECILIA12 também vale para ela."
         ],
         "images": [
@@ -54158,13 +54496,15 @@ export const reviewsData: unknown[] = [
             "alt": "Poltrona Aurora da DAMIE em couro off white, com base giratória preta e puff separado, vazia",
             "caption": "Aurora com puff, em couro off white. Foto oficial da DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora"
           }
         ],
         "links": [
           {
             "label": "Guia da Aurora no Damie por Cecília",
-            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_content=como-escolher-amamentacao-aurora"
+            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_content=como-escolher-amamentacao-aurora",
+            "sponsored": true
           }
         ]
       },
@@ -54180,7 +54520,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A nossa história com a poltrona reclinável começou antes do Ian. Ela já fazia parte da sala, em linho bege, e ganhou uma função nova quando ele nasceu. Ajustar a inclinação pelo botão, sem fazer força, foi o que mais fez diferença nas mamadas da madrugada: quando ele estava agitado, eu deixava o encosto mais reto; quando dormia, reclinava devagar e aproveitava para descansar também. Para o sono do bebê, a orientação da [Academia Americana de Pediatria](https://www.healthychildren.org/english/ages-stages/baby/sleep/pages/Preventing-SIDS.aspx) é colocá-lo de barriga para cima, em superfície firme e plana própria para dormir, e não adormecer com ele no colo na poltrona.",
           "Hoje temos também a Reclinável 2.0 elétrica com giro e balanço, em corino caramelo. Em relação à primeira versão, a 2.0 trouxe almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos parecem bobagem, mas guardam paninho, fralda e garrafa de água ao alcance da mão.",
-          "Isso não quer dizer que uma reclinável elétrica seja a única escolha certa. Ela foi a nossa porque a poltrona ia continuar na sala depois da amamentação e porque o ajuste sem esforço fazia diferença para mim. Se o orçamento ou o espaço apertam, uma boa poltrona com puff e braço firme resolve a fase de amamentação."
+          "Se o orçamento ou o espaço apertam, uma boa poltrona com puff e braço firme resolve a fase de amamentação."
         ],
         "links": [
           {
@@ -54189,7 +54529,8 @@ export const reviewsData: unknown[] = [
           },
           {
             "label": "Guia completo de poltrona para amamentação no Damie por Cecília",
-            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-para-amamentacao?utm_source=site-principal&utm_medium=blog&utm_content=como-escolher-amamentacao"
+            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-para-amamentacao?utm_source=site-principal&utm_medium=blog&utm_content=como-escolher-amamentacao",
+            "sponsored": true
           }
         ]
       },
@@ -54201,8 +54542,7 @@ export const reviewsData: unknown[] = [
           "Se você quer uma poltrona para continuar usando na sala, compare o espaço, os apoios e os recursos que pretende usar para ler, trabalhar ou ver filme. A reclinável elétrica permite ajustar a posição por botão; uma poltrona com puff também pode continuar útil depois da amamentação.",
           "Antes de fechar a compra, passe por este checklist:"
         ],
-        "emphasis": "Aqui em casa ficamos com a reclinável elétrica, porque a poltrona ia continuar na sala depois da amamentação e o ajuste sem esforço fazia diferença para mim. Ela não é a única escolha certa: com orçamento ou espaço curto, uma boa poltrona com puff resolve essa fase.",
-        "emphasisAfterParagraph": 3,
+        "emphasis": "Na minha casa, eu ficaria com a reclinável elétrica, porque a poltrona ia continuar na sala depois da amamentação e o ajuste sem esforço fazia diferença para mim. Ela não é a única escolha certa: com orçamento ou espaço curto, eu compraria uma boa poltrona com puff e deixaria a fase de amamentação resolvida.",
         "bullets": [
           "Medi o espaço com a poltrona aberta, contando o puff ou o apoio de pés?",
           "O braço fica na altura certa para apoiar o bebê no peito?",
@@ -54211,32 +54551,39 @@ export const reviewsData: unknown[] = [
           "O tecido combina com o calor da minha cidade e é fácil de limpar?",
           "Se for elétrica, tem tomada perto do lugar escolhido?",
           "Qual é a garantia e como funciona a troca se algo vier com defeito?"
-        ]
-      },
-      {
-        "heading": "Cupom CECILIA12 na DAMIE",
-        "paragraphs": [
-          "Se a reclinável da DAMIE for a sua escolha, o cupom CECILIA12 dá 12% OFF em todo o site da marca, inclusive nas poltronas com giro e balanço. Ele vale junto com as promoções e brindes que estiverem ativos, mas não soma com outro cupom. Em outubro, a DAMIE dava de brinde um carregador USB e porta-copos pretos nas poltronas reclináveis.",
+        ],
+        "postParagraphs": [
+          "Se a reclinável da DAMIE for a sua escolha, o CECILIA12 dá 12% OFF em todo o site da marca, em todas as formas de pagamento, e soma com o desconto de 10% do Pix e com as promoções ativas. Ele não soma com outro cupom nem com o giftback de 15%. Na Black Friday da DAMIE, até 27/11, a poltrona leva de brinde massagem, entrada USB e porta-copos. Veja as regras no [cupom DAMIE](/cupons/damie).",
           "Para usar, monte a poltrona no site da DAMIE, escolhendo base, revestimento e cor, e digite CECILIA12 no campo de cupom do checkout. O desconto aparece antes do pagamento."
         ],
         "links": [
           {
-            "label": "Como usar o CECILIA12 na DAMIE",
-            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=como-escolher-amamentacao-cupom"
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-de-amamentacao-como-escolher",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Reclinável 2.0 na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
           }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Vale nas reclináveis com giro e balanço e soma com as promoções, mas não com outro cupom.",
           "Poltrona de amamentação precisa ter balanço? Não. O balanço ajuda a ninar e muitos bebês relaxam com ele, mas braço firme, apoio para as costas e assento na altura certa importam mais. Uma poltrona fixa bem escolhida resolve a amamentação.",
           "Poltrona de amamentação com puff ou reclinável? Com puff é mais barata e atende bem à fase de amamentação, mas o puff solto ocupa chão. A reclinável custa mais, recolhe o apoio de pés e continua útil na sala depois. Depende do orçamento, do espaço e do uso que você quer dar a ela depois.",
-          "Quanto custa uma poltrona de amamentação? Em outubro, havia poltrona fixa com puff a partir de R$ 469 na Amazon, modelos com balanço e puff entre R$ 550 e R$ 1.000 no Mercado Livre e reclináveis elétricas com giro e balanço da DAMIE de R$ 4.299 a R$ 5.699.",
+          "Quanto custa uma poltrona de amamentação? A fixa com puff é a faixa mais barata, a com balanço e puff fica no meio e a reclinável elétrica com giro e balanço da DAMIE é a mais cara. Os valores de cada faixa estão na tabela do guia.",
           "Qual o melhor tecido para poltrona de amamentação? O mais fácil de limpar é o corino, que sai com pano úmido. Em cidade quente, o linho é mais fresco, mas mancha com mais facilidade. O ideal é escolher pelo clima e manter um paninho no braço da poltrona.",
           "Tem poltrona de amamentação para quarto pequeno? Tem. Procure modelos compactos e meça o espaço com a poltrona aberta. Com puff, conte o espaço do puff no chão; na reclinável, conte o comprimento reclinada e a folga para girar.",
           "Vale a pena comprar poltrona de amamentação usada? Pode valer, desde que você teste ao vivo: balanço ou reclinação sem barulho, espuma firme, tecido sem manchas e, se for elétrica, motor funcionando nas duas direções.",
-          "A poltrona DAMIE gira 360°? Depende do modelo. As elétricas 1.0 e 2.0 com base de giro e balanço descritas aqui giram 180° e reclinam até 145°, segundo a marca. A Aurora tem giro de 360°, reclinação manual e puff separado.",
-          "O cupom CECILIA12 vale para a poltrona de amamentação da DAMIE? Vale. O CECILIA12 dá 12% OFF em todo o site da DAMIE, inclusive nas reclináveis com giro e balanço, e soma com as promoções e brindes ativos, mas não com outro cupom."
+          "Quantos graus gira a poltrona da DAMIE? As elétricas 1.0 e 2.0 com base de giro e balanço giram 180° e reclinam até 145°, segundo a marca. A Aurora tem base giratória de 360°, reclinação manual e puff separado."
         ]
       }
     ],
@@ -54248,7 +54595,8 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "O uso vai ser só na fase de amamentação e o orçamento está apertado: uma poltrona fixa ou com balanço e puff cumpre o papel.",
-        "Não há tomada perto do lugar escolhido: a elétrica fica de fora."
+        "Não há tomada perto do lugar escolhido: a elétrica fica de fora.",
+        "Você mora no Norte ou no Nordeste: a DAMIE só entrega por lá pelo Mercado Livre, onde o CECILIA12 não vale."
       ]
     },
     "cta": {
@@ -54259,7 +54607,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Feito com a nossa poltrona e lojas consultadas. A DAMIE nos enviou a 2.0 citada em parceria. Podemos receber comissão pelos links.",
+    "editorialNote": "Parceria com a DAMIE, que enviou a 2.0 citada. Links com comissão, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "poltrona-de-amamentacao-vs-poltrona-reclinavel"
@@ -54270,7 +54618,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "poltrona-damie-e-boa"
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 329,
@@ -54322,7 +54671,7 @@ export const reviewsData: unknown[] = [
           "O balanço para ninar pode existir nas duas. Muitas poltronas de amamentação têm base de balanço, e as reclináveis com base de giro e balanço também embalam. Já uma reclinável de base fixa não balança."
         ],
         "comparisonTable": {
-          "caption": "Poltrona de amamentação com balanço e puff e reclinável elétrica com giro e balanço, lado a lado.",
+          "caption": "Poltrona de amamentação com balanço e puff e reclinável elétrica com giro e balanço, lado a lado. Preços do site da DAMIE em 23/11/2026, no cartão; Áquila conforme a leitura de 6 de outubro de 2026.",
           "headers": [
             "Ponto",
             "Poltrona de amamentação com balanço e puff",
@@ -54379,11 +54728,14 @@ export const reviewsData: unknown[] = [
           "Na elétrica, o encosto e o apoio de pés se movem por botões na lateral do braço, devagar e sem esforço. Dá para reclinar com uma mão enquanto a outra segura o bebê, e parar em qualquer ponto do caminho. Para mim, foi o recurso que mais fez diferença nas mamadas da madrugada. A contrapartida é precisar de tomada perto da poltrona.",
           "E o balanço? Muita gente procura balanço manual ou elétrico, mas, nas poltronas, o balanço vem da base e acompanha o movimento do corpo. O que é motorizado é a reclinação. Na DAMIE, o motor cuida de reclinar o encosto e subir o apoio de pés, e a base de giro e balanço permite girar e embalar."
         ],
-        "image": "/images/reviews/damie/poltrona-damie-2-0-apoio-pes.webp",
-        "imageAlt": "Apoio de pés da Poltrona Reclinável 2.0 aberto, com o mecanismo de aço aparente",
-        "imageCaption": "O apoio de pés sobe da própria poltrona; na elétrica, pelo botão. Na 2.0, ele tem mais espuma.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.4979
+        "image": {
+          "src": "/images/reviews/damie/poltrona-damie-2-0-apoio-pes.webp",
+          "alt": "Apoio de pés da Poltrona Reclinável 2.0 aberto, com o mecanismo de aço aparente",
+          "caption": "O apoio de pés sobe da própria poltrona; na elétrica, pelo botão. Na 2.0, ele tem mais espuma.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4979,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        }
       },
       {
         "heading": "Qual reclinável da DAMIE escolher para amamentar",
@@ -54391,7 +54743,7 @@ export const reviewsData: unknown[] = [
           "A DAMIE vende a mesma poltrona em quatro bases, e para amamentar a escolha está na base, não no modelo. Os preços abaixo variam por revestimento."
         ],
         "comparisonTable": {
-          "caption": "Bases da reclinável DAMIE, segundo a tabela da marca, com os preços de 7 de outubro de 2026.",
+          "caption": "Bases da reclinável DAMIE, pela tabela da marca. Preços no cartão.",
           "headers": [
             "Base",
             "Como funciona",
@@ -54426,9 +54778,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Em outubro, as versões 1.0 e 2.0 tinham a mesma faixa de preço, como mostra a tabela acima. A 2.0 traz quatro melhorias, informa a marca: almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos fazem diferença na amamentação, porque guardam paninho, fralda e garrafa de água ao alcance da mão.",
+          "As versões 1.0 e 2.0 têm a mesma faixa de preço, como mostra a tabela acima. A 2.0 traz quatro melhorias, informa a marca: almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos fazem diferença na amamentação, porque guardam paninho, fralda e garrafa de água ao alcance da mão.",
           "Aqui em casa, a primeira reclinável foi elétrica, em linho bege, e acompanhou toda a amamentação do Ian. Hoje temos também a 2.0 elétrica com giro e balanço, em corino caramelo. O giro foi o recurso que eu mais subestimei, e o balanço tem ajudado a acalmar as crianças.",
-          "Todas as reclináveis da DAMIE têm 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. A poltrona chega em caixa e passa em portas a partir de 65 cm, informa a marca, se você levar primeiro o encosto e depois a base."
+          "Todas as reclináveis da DAMIE têm 1 ano de garantia, 30 dias para experimentar em casa, com a embalagem original guardada, e frete grátis para Sul e Sudeste. A poltrona chega em caixa e passa em portas a partir de 65 cm, informa a marca, se você levar primeiro o encosto e depois a base."
         ],
         "links": [
           {
@@ -54442,28 +54794,31 @@ export const reviewsData: unknown[] = [
             "alt": "Poltrona reclinável DAMIE 1.0 elétrica com base de giro e balanço, em suede bege, vazia",
             "caption": "DAMIE 1.0 elétrica com giro e balanço: encosto capitonê. Foto oficial da DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco"
           },
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
             "alt": "Poltrona Reclinável 2.0 elétrica com base de giro e balanço, em suede bege, vazia",
             "caption": "Reclinável 2.0 elétrica com giro e balanço: almofada de cabeça regulável e bolso lateral maior. Foto oficial da DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
           },
           {
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
             "alt": "Poltrona Reclinável 2.0 totalmente reclinada, com o apoio de pés aberto, vazia",
             "caption": "Reclinável 2.0 totalmente reclinada: chega a 174 cm de comprimento. Foto oficial da DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
           }
         ]
       },
       {
         "heading": "Poltrona de amamentação no Mercado Livre e na Amazon",
         "paragraphs": [
-          "Se a poltrona de amamentação tradicional faz mais sentido para você, os marketplaces concentram a maior variedade. No Mercado Livre, a maioria dos modelos com balanço e puff estava entre R$ 550 e R$ 1.000. A Áquila, uma das mais conhecidas, tem balanço e puff e custava R$ 862 na versão bege.",
+          "Se a poltrona de amamentação tradicional faz mais sentido para você, os marketplaces concentram a maior variedade. No Mercado Livre, a maioria dos modelos com balanço e puff fica abaixo de mil reais; a Áquila, da tabela acima, é uma das que mais aparecem.",
           "Na Amazon, a poltrona com puff da Dreamy House sai por R$ 469 (R$ 445,55 no Pix). Ela é fixa, sem balanço, em suede com estrutura de eucalipto. A garantia do fabricante é de 3 meses, e há avaliações de compradores relatando assento que deforma rápido, então leia as avaliações antes de decidir.",
           "Em qualquer marketplace, compare as medidas do assento e a altura do braço, o prazo de garantia e o que os compradores dizem sobre barulho no balanço e firmeza da espuma depois de alguns meses de uso."
         ],
@@ -54487,16 +54842,18 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/damie/poltrona-amamentacao-aquila-mercado-livre.webp",
             "alt": "Poltrona de amamentação Áquila com base de balanço e puff, em um quarto de bebê, sem ninguém",
-            "caption": "Áquila com balanço e puff (Mercado Livre): R$ 862. Foto do anúncio.",
+            "caption": "Áquila com balanço e puff (Mercado Livre). Foto do anúncio.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://meli.la/1VBBH4Y"
           },
           {
             "src": "https://m.media-amazon.com/images/I/51w-91cpCIL._AC_SL1000_.jpg",
             "alt": "Poltrona de amamentação fixa com puff, em suede bege, sem ninguém",
-            "caption": "Fixa com puff (Amazon): R$ 469, sem balanço. Foto do anúncio na Amazon.",
+            "caption": "Fixa com puff (Amazon), sem balanço. Foto do anúncio.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://link.amazon/B03Z8Ky9B"
           }
         ]
       },
@@ -54515,14 +54872,14 @@ export const reviewsData: unknown[] = [
           "Porta-copos e porta-taças, para as sessões de filme e série."
         ],
         "postParagraphs": [
-          "Os opcionais são pagos à parte. Em outubro, custavam de R$ 299 a R$ 590 cada, e o porta-copos e o carregador USB vinham de brinde. Aqui em casa, a poltrona que acompanhou a amamentação do Ian continua na sala, onde ela já estava antes dele nascer."
+          "Os opcionais são pagos à parte. No site, custam de R$ 299 a R$ 590 cada. Na Black Friday da DAMIE, até 27/11, a poltrona leva de brinde massagem, entrada USB e porta-copos."
         ]
       },
       {
         "heading": "Poltrona de amamentação vale a pena? A conta do tempo de uso",
         "paragraphs": [
+          "Conta nossa, com os preços da tabela: a Áquila usada por um ano representa cerca de R$ 72 por mês. A DAMIE com giro e balanço, a partir de R$ 4.299, chega a cerca de R$ 72 por mês se for usada por cinco anos; com o CECILIA12, a R$ 3.783,12, seriam cerca de R$ 63 por mês. São períodos hipotéticos, sem incluir frete, manutenção ou eventual revenda.",
           "A pergunta de quanto vale cada uma depende menos do preço e mais de quanto tempo a poltrona vai ser usada. A fase mais intensa de amamentação dura meses; uma poltrona de sala pode ficar na casa por anos.",
-          "Como exemplo: a Áquila de R$ 862 usada por um ano representa cerca de R$ 72 por mês. A DAMIE com giro e balanço, a partir de R$ 4.299, chega a cerca de R$ 72 por mês se for usada por cinco anos; com o CECILIA12, a R$ 3.783,12, seriam cerca de R$ 63 por mês. São períodos hipotéticos, sem incluir frete, manutenção ou eventual revenda.",
           "A reclinável dilui o preço de compra se continuar útil por mais tempo, mas uma poltrona tradicional também pode ganhar outros usos. Compare o preço que cabe agora no orçamento com o uso que você prevê.",
           "E se a dúvida for comprar ou não um móvel para amamentar? Dá para começar no sofá ou na cama, com almofadas. Foi o que eu fiz nas primeiras semanas com o Ian, até a lombar, o pescoço e o braço sem apoio começarem a reclamar. Se as mamadas longas estão pesando no corpo, uma poltrona com braço firme faz diferença."
         ],
@@ -54541,38 +54898,40 @@ export const reviewsData: unknown[] = [
           "Escolha uma poltrona de amamentação reclinável de marketplace se você quer reclinar um pouco sem pagar o preço de uma reclinável de sala, sabendo que a reclinação costuma ser manual.",
           "Escolha a reclinável elétrica com giro e balanço se você quer descansar de verdade nas madrugadas, ninar sem levantar e continuar usando a poltrona na sala depois.",
           "Escolha a reclinável elétrica de base fixa se o balanço não é prioridade e você quer reclinar mais, até 170°, pagando um pouco menos que a de giro e balanço."
-        ]
-      },
-      {
-        "heading": "Como comprar a poltrona DAMIE com desconto",
-        "paragraphs": [
-          "O cupom CECILIA12 dá 12% OFF em todo o site da DAMIE, em qualquer base e revestimento, nas versões 1.0 e 2.0. Ele vale junto com as promoções e brindes que estiverem ativos, mas não soma com outro cupom. Em outubro, a DAMIE dava de brinde um carregador USB e porta-copos pretos nas poltronas reclináveis.",
-          "Para usar, monte a poltrona no site da DAMIE escolhendo a base, o revestimento e a cor, e digite CECILIA12 no campo de cupom do checkout. O desconto aparece antes do pagamento."
+        ],
+        "postParagraphs": [
+          "O CECILIA12 dá 12% OFF em todo o site da DAMIE, em todas as formas de pagamento, em qualquer base e revestimento, nas versões 1.0 e 2.0. Ele soma com o desconto de 10% do Pix e com as promoções ativas, mas não com outro cupom nem com o giftback de 15%. As regras estão no [cupom DAMIE](/cupons/damie).",
+          "Para usar, monte a poltrona no site da DAMIE, escolhendo a base, o revestimento e a cor, e digite CECILIA12 no campo de cupom do checkout. O desconto aparece antes do pagamento."
         ],
         "links": [
           {
-            "label": "Ver regras e validade do cupom CECILIA12",
-            "href": "/cupons/damie"
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-de-amamentacao-vs-poltrona-reclinavel",
+            "sponsored": true
           },
           {
-            "label": "Como usar o CECILIA12 na DAMIE",
-            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=amamentacao-vs-reclinavel-cupom",
+            "label": "Ver a Reclinável 2.0 na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
             "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
           }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Vale em qualquer base e revestimento e soma com as promoções, mas não com outro cupom.",
           "Posso usar uma poltrona reclinável para amamentar? Com o encosto mais reto, braço firme e apoio na altura certa, ela pode ser usada para a mamada enquanto você está acordada. Não adormeça com o bebê no colo na poltrona ou no sofá. O sono do bebê deve ser de barriga para cima, em superfície firme e plana, como o berço.",
           "Poltrona de amamentação vale a pena? Vale se as mamadas longas estão pesando no corpo e você não tem um lugar confortável com braço firme. Se a poltrona vai ser usada só nessa fase, um modelo com balanço e puff é a opção mais econômica.",
           "O que fazer com a poltrona de amamentação depois que o bebê cresce? Ela pode continuar em uso para leitura e descanso, ser vendida ou doada. Na nossa casa, a reclinável que acompanhou a amamentação continuou na sala.",
-          "Qual a diferença entre poltrona de amamentação e reclinável? A de amamentação tem encosto fixo, braços largos e, muitas vezes, balanço e puff. A reclinável deita o encosto e sobe o apoio de pés, e pode ter base fixa ou de giro e balanço.",
+          "Qual a diferença entre poltrona de amamentação e reclinável? A de amamentação costuma ter encosto mais reto, braços para apoiar o antebraço e, muitas vezes, balanço e puff. A reclinável deita o encosto e sobe o apoio de pés, e pode ter base fixa ou de giro e balanço.",
           "Reclinável manual ou elétrica para amamentar? Elétrica. Com o bebê no colo, reclinar e fechar o apoio de pés pelo botão é mais fácil e mais suave do que usar uma alavanca e empurrar o apoio com as pernas.",
           "Existe poltrona de amamentação reclinável? Existe. Os marketplaces vendem poltronas de amamentação com encosto de algumas posições e puff, geralmente de reclinação manual. Elas ficam no meio do caminho, em preço e em recursos.",
-          "Qual poltrona DAMIE é melhor para amamentação? A reclinável elétrica com base de giro e balanço, que a própria marca indica para amamentação. Ela reclina até 145°, gira 180° e balança, e custava de R$ 4.299 a R$ 5.699 em outubro.",
-          "DAMIE 1.0 ou 2.0? Em outubro, as duas tinham o mesmo preço. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés.",
-          "O cupom CECILIA12 vale para as poltronas reclináveis da DAMIE? Vale. O CECILIA12 dá 12% OFF em todo o site da DAMIE, em qualquer base e revestimento, e soma com as promoções e brindes ativos, mas não com outro cupom."
+          "Qual poltrona DAMIE é melhor para amamentação? A reclinável elétrica com base de giro e balanço, que a própria marca indica para amamentação. Ela reclina até 145°, gira 180° e balança.",
+          "DAMIE 1.0 ou 2.0? As duas têm o mesmo preço. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés."
         ]
       }
     ],
@@ -54584,7 +54943,8 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "O orçamento só cobre a fase de amamentação: a poltrona de amamentação com balanço e puff custa menos.",
-        "Você quer levantar direto, sem fechar o apoio de pés antes: a poltrona de amamentação é mais simples nessa hora."
+        "Você quer levantar direto, sem fechar o apoio de pés antes: a poltrona de amamentação é mais simples nessa hora.",
+        "Você mora no Norte ou no Nordeste: a DAMIE só entrega por lá pelo Mercado Livre, onde o CECILIA12 não vale."
       ]
     },
     "cta": {
@@ -54595,7 +54955,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Comparação com a nossa poltrona e informações das lojas. A DAMIE nos enviou a 2.0 citada em parceria. Podemos receber comissão pelo CECILIA12 e pelos links, sem custo extra.",
+    "editorialNote": "Parceria com a DAMIE, que enviou a 2.0 citada. Links e CECILIA12 podem render comissão.",
     "relatedArticles": [
       {
         "slug": "poltrona-de-amamentacao-como-escolher"
@@ -54606,7 +54966,9 @@ export const reviewsData: unknown[] = [
       {
         "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
       }
-    ]
+    ],
+    "updatedAt": "2026-11-23",
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 330,
@@ -55031,60 +55393,49 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Na Black Friday da DAMIE, os preços são os de outubro e a poltrona vem com três presentes. Veja qual base e revestimento escolher e a conta com o CECILIA12 e o Pix.",
-    "metaDescription": "CECILIA12 dá 12% OFF na DAMIE e soma com o Pix. Na campanha, poltrona com três presentes e frete grátis no Sul e Sudeste; confira seu CEP.",
+    "description": "Na Black Friday da DAMIE, até 27/11, a poltrona vem com massagem, entrada USB e porta-copos de brinde. Veja qual base e revestimento escolher e a conta com o CECILIA12 e o Pix.",
+    "metaDescription": "CECILIA12 dá 12% OFF na DAMIE e soma com o Pix. Na Black Friday, poltrona com 3 brindes e frete grátis no Sul e Sudeste.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/damie/black-friday-damie-capa-v2.webp",
     "imageAlt": "Cecília com Ian no colo em uma poltrona reclinável bege da DAMIE, olhando para ele na sala de casa.",
     "imageFit": "contain",
     "imageAspect": "landscape",
-    "pros": [
-      "O cupom CECILIA12 deu 12% na nossa sacola de novembro e soma com as promoções, os brindes e os 10% do Pix",
-      "Poltrona com três presentes na campanha: massagem, entrada USB e porta-copos",
-      "Frete grátis no Sul e no Sudeste; na nossa simulação, também em Goiás e no Distrito Federal",
-      "30 dias de teste em casa, com a coleta da devolução por conta da DAMIE"
-    ],
-    "cons": [
-      "Os preços de novembro são os mesmos de outubro: o que a campanha acrescenta é o brinde",
-      "O giftback de 15% é crédito para uma compra futura e não entra junto com cupom",
-      "O desconto por quantidade só sai pelo WhatsApp",
-      "No Norte e no Nordeste, a compra é pelo Mercado Livre, onde o cupom não vale"
-    ],
+    "pros": [],
+    "cons": [],
     "contentSections": [
       {
-        "heading": "Resposta rápida: Black Friday DAMIE 2026",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday da DAMIE mantém os preços de outubro e acrescenta três presentes na poltrona: massagem, entrada USB e porta-copos. O CECILIA12 dá 12% OFF e soma com os 10% do Pix. A escolha começa pela base: giro e balanço para amamentar, base fixa para reclinar mais, elevação para quem precisa de ajuda ao levantar."
+          "A Black Friday da DAMIE vai até 27/11 e mantém os preços de antes; a poltrona vem com massagem, entrada USB e porta-copos de brinde. O CECILIA12 dá 12% OFF e soma com os 10% do Pix. A escolha começa pela base: giro e balanço para amamentar, base fixa para reclinar mais, elevação para quem precisa de ajuda ao levantar."
         ]
       },
       {
         "heading": "A DAMIE tem Black Friday?",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. A DAMIE anunciou a campanha antes da data, e o que ela mostrava em outubro ajuda a conferir se a oferta é boa.",
-          "Não encontramos anúncio oficial da DAMIE sobre Black Friday em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-          "Antes da campanha, a faixa do site prometia 10% de desconto no Pix à vista, até 12x sem juros, 15% de giftback em 45 dias, frete grátis para o Sul e o Sudeste e 30 dias para trocar ou devolver. As reclináveis estavam com R$ 1.000 de desconto e vinham com carregador USB e porta-copos de brinde, que o site põe sozinho no carrinho de qualquer poltrona reclinável ou cinema.",
-          "Em 2026, a DAMIE anunciou a campanha antes da data: a seção abaixo traz o que a página de ofertas mostrava."
+          "Tem. A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. A página de ofertas da DAMIE diz que as promoções valem somente até 27/11, ou enquanto durarem os estoques.",
+          "O site já tinha, antes da campanha, 10% de desconto no Pix à vista, até 12x sem juros, giftback de 15%, frete grátis para o Sul e o Sudeste e 30 dias para testar em casa. As reclináveis também já vinham com R$ 1.000 de desconto no preço. O que a campanha acrescenta é a massagem entre os brindes."
         ]
       },
       {
         "heading": "O que a DAMIE anunciou para a Black Friday 2026",
         "paragraphs": [
-          "A faixa do topo do site chama a campanha de \"Black Friday - a maior promoção do ano\" e lista o que vem na compra de uma poltrona: porta-copos, carregador USB, massagem e frete grátis, que a loja soma como R$ 1.150 de economia. No começo de novembro, a página de ofertas da DAMIE detalhava as condições; em meados do mês, ela estava sem conteúdo, e o que vale é o que o carrinho mostra.",
-          "Os preços de venda das poltronas, do sofá e da [Poltrona Cinema](https://www.damie.com.br/products/poltrona-cinema-damie-2-0) são os mesmos de antes da campanha. O desconto de R$ 1.000 nas poltronas já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
+          "A faixa do topo do site chama a campanha de \"Black Friday\" e lista o que vem na compra de uma poltrona: porta-copos, entrada USB, massagem e frete grátis no Sul e no Sudeste. A página de ofertas detalha as condições, e o que vale no seu pedido é o que o carrinho mostra.",
+          "Os preços de venda das poltronas, do sofá e da [Poltrona Cinema](https://www.damie.com.br/products/poltrona-cinema-damie-2-0) não mudaram com a campanha. O desconto de R$ 1.000 nas poltronas já vinha no preço antes dela."
         ],
         "bullets": [
-          "**Brindes na compra de uma poltrona:** sistema de massagem, entrada USB (tipo A e tipo C) e porta-copos.",
+          "**Brindes na compra de uma poltrona:** sistema de massagem, entrada USB (tipo A e tipo C) e porta-copos. A entrada USB é brinde da campanha, não item de série.",
           "**R$ 1.000 de desconto nas poltronas**, já aplicado no preço do produto.",
-          "**Desconto por quantidade nas reclináveis e na Poltrona Cinema:** no começo de novembro, a página de ofertas falava em R$ 500 em 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Ele não aparece no carrinho: confirme pelo WhatsApp da DAMIE se segue valendo.",
+          "**20% OFF no acessório de massagem** e descontos em outros acessórios, na tabela abaixo.",
+          "**Desconto por quantidade** nas poltronas: R$ 500 em 2 até R$ 2.000 em 5, dado pelos consultores da DAMIE no WhatsApp. Ele não aparece no carrinho.",
           "**Frete grátis no Sul e no Sudeste**, aplicado sozinho no checkout.",
           "**Giftback:** 15% do pedido em crédito para a próxima compra, com as regras da seção dos descontos, abaixo."
         ],
         "comparisonTable": {
-          "caption": "Acessórios da DAMIE com preço de campanha. Os valores são os mesmos do começo de novembro e podem mudar sem aviso.",
+          "caption": "Preços do site em 23/11/2026, no cartão. Acessórios da DAMIE com preço de campanha; os valores podem mudar sem aviso.",
           "headers": [
             "Acessório",
             "De",
@@ -55120,27 +55471,33 @@ export const reviewsData: unknown[] = [
               "[Porta-taça](https://www.damie.com.br/products/porta-tacas)",
               "R$ 669",
               "R$ 299"
+            ],
+            [
+              "Massagem shiatsu",
+              "R$ 2.500",
+              "R$ 1.000"
             ]
           ]
         },
         "postParagraphs": [
-          "O CECILIA12 vale nessas condições do mesmo jeito: soma com o preço de campanha e com o Pix, e não soma com outro cupom nem com o uso do giftback. Confira no carrinho o desconto e os brindes do seu pedido antes de pagar."
+          "O CECILIA12 vale nessas condições do mesmo jeito: soma com o preço de campanha, com os brindes e com o Pix, e não soma com outro cupom nem com o uso do giftback. Confira no carrinho o desconto e os brindes do seu pedido antes de pagar."
         ],
         "image": {
           "src": "/images/reviews/damie/black-friday-damie-banner-esquenta.webp",
           "alt": "Banner da DAMIE: sua poltrona com 3 presentes e frete grátis, R$ 1.150,00 de economia na compra de qualquer poltrona, com carregador USB, massagem e porta-copos grátis",
           "caption": "Os três presentes e o frete grátis da poltrona, no banner da home da DAMIE.",
           "objectFit": "contain",
-          "aspectRatio": 2.974
+          "aspectRatio": 2.974,
+          "href": "https://www.damie.com.br/pages/cupons"
         }
       },
       {
         "heading": "Poltrona reclinável: qual base e qual revestimento",
         "paragraphs": [
-          "A reclinável da DAMIE, que muita gente procura como poltrona do papai, é a mesma poltrona em quatro bases. A base muda o uso e o preço; o revestimento muda a manutenção. A tabela usa os preços do site em suede, bouclé ou linho, os mesmos de outubro, e aplica o CECILIA12 e depois os 10% do Pix."
+          "A reclinável da DAMIE, que muita gente procura como poltrona do papai, é a mesma poltrona em quatro bases. A base muda o uso e o preço; o revestimento muda a manutenção. A tabela usa os preços do site em suede, bouclé ou linho e aplica o CECILIA12 e depois os 10% do Pix."
         ],
         "comparisonTable": {
-          "caption": "Poltrona reclinável DAMIE 1.0 e 2.0 em suede, bouclé ou linho, na nossa leitura de novembro: preço do site, com o cupom CECILIA12 (12%) no cartão e com o cupom e o Pix (10%).",
+          "caption": "Preços do site, no cartão. Poltrona reclinável DAMIE 1.0 e 2.0 em suede, bouclé ou linho, com o CECILIA12 (12%) no cartão e com o cupom e o Pix (10%).",
           "headers": [
             "Base",
             "No site",
@@ -55175,18 +55532,17 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "[Elétrica com giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco): reclina até 145°, gira 180° e balança. É a que a marca indica para amamentação e a que temos em casa na versão 2.0. Na nossa sacola de novembro, o CECILIA12 levou os R$ 4.299 a R$ 3.783,12.",
+          "[Elétrica com giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco): reclina até 145°, gira 180° e balança. É a que a marca indica para amamentação e a que temos em casa na versão 2.0.",
           "[Elétrica de base fixa](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa): reclina mais, até 170°, pelo botão, sem giro nem balanço. Para quem quer deitar quase por completo e não precisa do movimento.",
           "[Elétrica com elevação](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa-com-elevacao): inclina a base para a frente para ajudar a levantar. A marca a pensa para idosos e pós-operatório.",
           "[Manual com gatilho](https://www.damie.com.br/products/poltrona-reclinavel-damie-manual-com-gatilho): o menor desembolso. Reclina com o peso do corpo e pede força das pernas para fechar, o que pesa para quem tem pouca mobilidade.",
           "1.0 ou [2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0): o preço é o mesmo. A 2.0 traz almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés.",
           "**Suede, bouclé ou linho:** toque de tecido e a menor faixa de preço. Nossa primeira reclinável, em linho bege, tem mais de um ano de uso diário e acompanhou a amamentação.",
-          "**Courino Importado:** praticamente impermeável e limpo com pano úmido. É o da nossa 2.0 caramelo. Em outubro, custava de R$ 80 a R$ 100 a mais que o tecido.",
+          "**Corino importado:** praticamente impermeável e limpo com pano úmido. É o da nossa 2.0 caramelo. Custa de R$ 80 a R$ 100 a mais que o tecido.",
           "**Couro bovino:** a faixa de cima, de R$ 4.440 a R$ 6.149 conforme a base, antes do cupom."
         ],
         "postParagraphs": [
-          "Antes de fechar, três medidas: a poltrona tem 95 cm de largura, chega a 174 cm quase deitada e passa em portas a partir de 65 cm, informa a marca, levando primeiro o encosto e depois a base. As elétricas pedem tomada por perto. Confira no resumo do carrinho se os três presentes da campanha aparecem.",
-          "Nossa experiência com cada uma está em [Poltrona Damie é boa? Minha experiência com a nova versão 2.0](/reviews/poltrona-damie-e-boa) e em [Poltrona reclinável Damie vale o investimento? Uso diário, tecido e amamentação](/reviews/poltronas-reclinaveis-damie-vale-o-investimento). Para quem está montando o quarto do bebê, [Poltrona de amamentação ou poltrona reclinável: qual vale mais a pena?](/reviews/poltrona-de-amamentacao-vs-poltrona-reclinavel)."
+          "Antes de fechar, três medidas: a poltrona tem 89 cm de largura e 95 cm de profundidade, chega a 174 cm quase deitada e passa em portas a partir de 65 cm, informa a marca; com porta menor que 80 cm, entra primeiro o encosto e depois a base. As elétricas pedem tomada por perto. Confira no resumo do carrinho se os três brindes da campanha aparecem."
         ],
         "links": [
           {
@@ -55205,18 +55561,47 @@ export const reviewsData: unknown[] = [
             "label": "Sofá DAMIE Modular: vale a pena?",
             "href": "/reviews/sofa-damie-modular-vale-a-pena"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
+          "alt": "Poltrona reclinável DAMIE 2.0 com giro e balanço, em bege",
+          "caption": "Reclinável 2.0 com giro e balanço, em bege.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        }
       },
       {
-        "heading": "Levita, Aurora ou Moon: as linhas de cima",
+        "heading": "Levita ou Aurora: as linhas de cima",
+        "paragraphs": [
+          "A Levita é para quem quer ajustar encosto e pés em separado; a Aurora, para quem não quer depender de tomada."
+        ],
         "bullets": [
-          "[Levita elétrica](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita): a poltrona de função da marca, com dois motores independentes, que ajustam o encosto e o apoio de pés em separado, apoio de cabeça de ajuste manual e base giratória. Em linho, R$ 6.400 no site, R$ 5.632,00 com o CECILIA12 e R$ 5.068,80 com o cupom e o Pix. Em couro, R$ 7.400, R$ 6.512,00 e R$ 5.860,80.",
+          "[Levita elétrica](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita): a poltrona de função da marca, com dois motores independentes, que ajustam o encosto e o apoio de pés em separado, apoio de cabeça de ajuste manual e base giratória de 280°. Em linho, R$ 6.400 no site, R$ 5.632,00 com o CECILIA12 e R$ 5.068,80 com o cupom e o Pix. Em couro, R$ 7.400, R$ 6.512,00 e R$ 5.860,80.",
           "**Alternativa à Levita:** o [motor do apoio de cabeça](https://www.damie.com.br/products/motor-exclusivo-para-movimentar-o-apoio-da-cabeca), a R$ 1.000 na campanha antes do cupom, instalado numa [Reclinável 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0). Fica abaixo do preço da Levita e não tem os dois motores de encosto e pés.",
           "[Aurora giratória com puff](https://www.damie.com.br/products/poltrona-reclinavel-aurora): reclina por alavanca lateral, gira 360° e vem com puff independente. Em linho, R$ 5.400 no site, R$ 4.752,00 com o CECILIA12 e R$ 4.276,80 com o cupom e o Pix. Em couro, R$ 6.400, R$ 5.632,00 e R$ 5.068,80.",
-          "**Moon:** poltrona de desenho, giratória 360°, em bouclé ou linho, com espuma D33. Não reclina: é para quem quer presença na sala, no quarto ou no consultório. Na nossa leitura de novembro, ela não aparecia no catálogo do site; confirme a disponibilidade e o preço com a DAMIE."
+          "**E a Moon?** Saiu de linha e não está mais no catálogo do site. Se você buscava uma poltrona de desenho, a Aurora é a alternativa que está à venda."
         ],
         "postParagraphs": [
-          "O que os dois motores mudam no uso está em [Poltrona Levita Damie: vale pagar pelos dois motores?](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto), e a Moon, em [Poltrona Moon da Damie vale a pena? Design giratório, materiais e para quem é](/reviews/poltrona-moon-design-que-parece-obra-de-arte)."
+          "O que os dois motores mudam no uso está em [Poltrona Levita Damie: vale pagar pelos dois motores?](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/poltrona-levita-cecilia-sala-4x5.webp",
+            "alt": "Cecília relaxando na Poltrona Levita da DAMIE, em couro caramelo, na sala",
+            "caption": "A Cecília na Levita, a reclinável elétrica da DAMIE. Foto: Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8,
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+          },
+          {
+            "src": "/images/reviews/damie/poltrona-aurora-castanho-ambientada.webp",
+            "alt": "Poltrona Aurora da DAMIE em castanho, ambientada na sala",
+            "caption": "Aurora giratória, em castanho.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora"
+          }
         ]
       },
       {
@@ -55225,91 +55610,75 @@ export const reviewsData: unknown[] = [
           "[Sofá Modular de 2 lugares com puff](https://www.damie.com.br/products/sofa-damie-na-caixa-modular-2-lugares): R$ 3.850 no site, R$ 3.388,00 com o CECILIA12 e R$ 3.049,20 com o cupom e o Pix.",
           "[Sofá Modular de 3 lugares com puff](https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares): R$ 5.100 no site, R$ 4.488,00 com o CECILIA12 e R$ 4.039,20 com o cupom e o Pix. É o que usamos em casa há mais de um ano.",
           "**Por que modular:** cada módulo chegou na própria caixa, o que resolve corredor com curva, porta estreita e elevador. O puff solto serve de chaise ou de assento extra.",
-          "[Poltrona Cinema 2.0](https://www.damie.com.br/products/poltrona-cinema-damie-2-0): fileira reclinável de 2 a 9 lugares. A de 2 lugares parte de R$ 5.438 no site, R$ 4.785,44 com o CECILIA12 e R$ 4.306,90 com o cupom e o Pix. Em outubro, a de 3 lugares custava R$ 8.457."
+          "[Poltrona Cinema 2.0](https://www.damie.com.br/products/poltrona-cinema-damie-2-0): fileira reclinável de 2 a 9 lugares. A de 2 lugares parte de R$ 5.438 no site, R$ 4.785,44 com o CECILIA12 e R$ 4.306,90 com o cupom e o Pix. A de 3 lugares parte de R$ 8.457."
         ],
         "postParagraphs": [
           "Escolha o número de lugares pela sala e por quem senta nela, e não pelo desconto de uma configuração maior. Entrega, puff e tecido do sofá estão em [Sofá Damie Modular: vale a pena? Entrega, puff, tecido e o que observar antes de comprar](/reviews/sofa-damie-modular-vale-a-pena)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/sofa-damie-modular-puff-4x5.webp",
+            "alt": "Cecília sentada no sofá modular DAMIE azul, com a mão sobre o puff",
+            "caption": "O nosso sofá modular DAMIE de 3 lugares, com o puff. Foto: Em Casa com Cecília.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8,
+            "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+          },
+          {
+            "src": "/images/reviews/damie/natal-poltrona-cinema-damie.webp",
+            "alt": "Poltrona Cinema DAMIE 2.0 de 2 lugares em tecido bege, com porta-copos nos braços",
+            "caption": "Poltrona Cinema DAMIE 2.0 de 2 lugares. Foto oficial da DAMIE.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.damie.com.br/products/poltrona-cinema-damie-2-0"
+          }
         ]
       },
       {
-        "heading": "Preços de outubro para comparar",
+        "heading": "O que a campanha mexeu nos preços",
         "paragraphs": [
-          "Antes da campanha, as reclináveis 1.0 e 2.0 tinham o mesmo preço, que muda com o revestimento: a tabela mostra o de suede, bouclé e linho, os mais baratos, e o de couro, o mais caro."
+          "Os preços de venda não subiram nem caíram com a Black Friday: a oferta ficou igual no preço e melhorou no brinde, com a massagem. A tabela mostra o preço cheio, o que a loja risca, e o preço do site hoje."
         ],
         "comparisonTable": {
-          "caption": "Poltronas reclináveis DAMIE 1.0 e 2.0 no site oficial em 8 de outubro de 2026, em suede, bouclé ou linho. O corino custava de R$ 80 a R$ 100 a mais; o couro está na última coluna. Os preços mudam sem aviso.",
-          "headers": [
-            "Base",
-            "Preço cheio",
-            "Em outubro",
-            "À vista no Pix",
-            "Em couro, em outubro"
-          ],
-          "rows": [
-            [
-              "[Manual base fixa](https://www.damie.com.br/products/poltrona-reclinavel-damie-manual-com-gatilho)",
-              "R$ 3.969",
-              "R$ 2.969",
-              "R$ 2.672,10",
-              "R$ 4.440"
-            ],
-            [
-              "[Elétrica base fixa](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa)",
-              "R$ 4.749",
-              "R$ 3.749",
-              "R$ 3.374,10",
-              "R$ 5.199"
-            ],
-            [
-              "[Elétrica com giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco)",
-              "R$ 5.299",
-              "R$ 4.299",
-              "R$ 3.869,10",
-              "R$ 5.699"
-            ],
-            [
-              "[Elétrica com elevação](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa-com-elevacao)",
-              "R$ 5.969",
-              "R$ 4.969",
-              "R$ 4.472,10",
-              "R$ 6.149"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "Em meados de novembro, as quatro bases estavam exatamente nos preços da coluna de outubro, na 1.0 e na 2.0. A oferta ficou igual no preço e melhorou no brinde, com a massagem. Acompanhamos [o preço das mesmas poltronas do papai](/reviews/poltrona-do-papai-black-friday) de outubro até a data, com as outras lojas e marcas."
-        ]
-      },
-      {
-        "heading": "Levita, Aurora, sofá modular e Poltrona Cinema",
-        "paragraphs": [
-          "Nas outras linhas, o desconto de outubro variava de produto para produto. Estes eram os preços do site em outubro:"
-        ],
-        "comparisonTable": {
-          "caption": "Outras linhas da DAMIE no site oficial em outubro. No sofá modular e na Poltrona Cinema, os preços são em suede, bouclé ou linho.",
+          "caption": "Preços do site, no cartão, em suede, bouclé ou linho. O corino custa de R$ 80 a R$ 100 a mais. Os preços mudam sem aviso.",
           "headers": [
             "Produto",
             "Preço cheio",
-            "Em outubro"
+            "No site"
           ],
           "rows": [
             [
-              "[Levita elétrica](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita), em linho",
+              "[Reclinável manual base fixa](https://www.damie.com.br/products/poltrona-reclinavel-damie-manual-com-gatilho)",
+              "R$ 3.969",
+              "R$ 2.969"
+            ],
+            [
+              "[Reclinável elétrica base fixa](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa)",
+              "R$ 4.749",
+              "R$ 3.749"
+            ],
+            [
+              "[Reclinável elétrica com giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco)",
+              "R$ 5.299",
+              "R$ 4.299"
+            ],
+            [
+              "[Reclinável elétrica com elevação](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa-com-elevacao)",
+              "R$ 5.969",
+              "R$ 4.969"
+            ],
+            [
+              "[Levita elétrica, em linho](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita)",
               "R$ 7.900",
               "R$ 6.400"
             ],
             [
-              "[Levita elétrica](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita), em couro",
+              "[Levita elétrica, em couro](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita)",
               "R$ 9.400",
               "R$ 7.400"
             ],
             [
-              "[Aurora giratória com puff](https://www.damie.com.br/products/poltrona-reclinavel-aurora), em linho",
-              "R$ 7.400",
-              "R$ 5.400"
-            ],
-            [
-              "[Aurora giratória com puff](https://www.damie.com.br/products/poltrona-reclinavel-aurora), em couro",
+              "[Aurora giratória com puff, em couro](https://www.damie.com.br/products/poltrona-reclinavel-aurora)",
               "R$ 8.400",
               "R$ 6.400"
             ],
@@ -55324,19 +55693,19 @@ export const reviewsData: unknown[] = [
               "R$ 5.100"
             ],
             [
-              "[Poltrona Cinema 2.0](https://www.damie.com.br/products/poltrona-cinema-damie-2-0), 2 lugares",
+              "[Poltrona Cinema 2.0, 2 lugares](https://www.damie.com.br/products/poltrona-cinema-damie-2-0)",
               "R$ 5.938",
               "R$ 5.438"
             ],
             [
-              "[Poltrona Cinema 2.0](https://www.damie.com.br/products/poltrona-cinema-damie-2-0), 3 lugares",
+              "[Poltrona Cinema 2.0, 3 lugares](https://www.damie.com.br/products/poltrona-cinema-damie-2-0)",
               "R$ 9.457",
               "R$ 8.457"
             ]
           ]
         },
         "postParagraphs": [
-          "Na [Aurora](https://www.damie.com.br/products/poltrona-reclinavel-aurora), o desconto era de R$ 2.000; na [Levita](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita), de R$ 1.500 em linho e R$ 2.000 em couro. A [Poltrona Cinema](https://www.damie.com.br/products/poltrona-cinema-damie-2-0) tinha o menor: R$ 500 na de 2 lugares. Em meados de novembro, a Levita, a Aurora e o sofá modular de 2 e de 3 lugares seguiam nos mesmos preços da tabela, e a Poltrona Cinema continuava a partir de R$ 5.438. A página de formas de pagamento da DAMIE dá 10% de desconto no Pix à vista também nessas linhas."
+          "A reclinável 1.0 e a 2.0 têm o mesmo preço. O desconto vai de R$ 1.000 a R$ 2.000 nas poltronas e de R$ 1.000 a R$ 1.300 nos sofás; na Cinema, de R$ 500 a R$ 1.000. Se você quer acompanhar o preço das mesmas poltronas contra outras lojas e marcas, veja [a comparação do preço da poltrona do papai](/reviews/poltrona-do-papai-black-friday). A DAMIE dá 10% de desconto no Pix à vista em todas as linhas."
         ]
       },
       {
@@ -55345,14 +55714,14 @@ export const reviewsData: unknown[] = [
           "Na DAMIE, o preço final pode juntar o desconto da página, o Pix, o cupom e, em compras de mais de uma poltrona, o desconto por quantidade. O CECILIA12 soma com todos eles; só não soma com outro cupom nem com o uso do giftback."
         ],
         "bullets": [
-          "**Desconto da página:** já vem no preço do produto. Era de R$ 1.000 em todas as reclináveis, em outubro e na campanha.",
+          "**Desconto da página:** já vem no preço do produto. É de R$ 1.000 em todas as reclináveis.",
           "**Pix à vista:** 10% de desconto. A página do produto já mostra o preço no Pix com o desconto da página aplicado: R$ 3.869,10 na [elétrica com giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco) em suede, por exemplo.",
-          "**Cupom CECILIA12:** 12% OFF em todos os produtos, com todas as formas de pagamento. Na nossa sacola de novembro, a giro e balanço em suede foi de R$ 4.299 a R$ 3.783,12, um desconto de R$ 515,88, em até 12x sem juros no cartão. No Pix, entram também os 10%: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 3.404,81. O resumo do checkout mostra o valor exato antes de pagar.",
-          "**Desconto por quantidade:** de R$ 500 em 2 poltronas a R$ 2.000 em 5, nas reclináveis e na [Poltrona Cinema](https://www.damie.com.br/products/poltrona-cinema-damie-2-0). Em outubro, ele era dado pelos consultores no WhatsApp, não pelo carrinho, e somava com o CECILIA12: confirme com a DAMIE antes de fechar.",
+          "**Cupom CECILIA12:** 12% OFF em todos os produtos, com todas as formas de pagamento. Na nossa sacola, a giro e balanço em suede foi de R$ 4.299 a R$ 3.783,12, um desconto de R$ 515,88, em até 12x sem juros no cartão. No Pix, entram também os 10%: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 3.404,81. O resumo do checkout mostra o valor exato antes de pagar.",
+          "**Desconto por quantidade:** de R$ 500 em 2 poltronas a R$ 2.000 em 5, nas reclináveis e na [Poltrona Cinema](https://www.damie.com.br/products/poltrona-cinema-damie-2-0). É dado pelos consultores da DAMIE no WhatsApp, não pelo carrinho, e soma com o CECILIA12.",
           "**Giftback, para gerar:** a página do giftback promete 15% do valor da compra em bônus, liberado como cupom a partir do dia seguinte. Ela não diz se uma compra feita com cupom gera o bônus: se isso pesa na sua decisão, pergunte à DAMIE antes de pagar.",
-          "**Giftback, para usar:** vale 30 dias corridos (em outubro, a faixa do site falava em 45), só cobre até 20% do novo pedido (um bônus de R$ 150 pede uma compra de pelo menos R$ 750), não vale em acessórios e não soma com cupons de desconto. Na compra em que você usar o giftback, o CECILIA12 não entra. Uma compra nova substitui o bônus anterior, e troca ou devolução cancela o bônus gerado.",
+          "**Giftback, para usar:** vale 30 dias corridos, só cobre até 20% do novo pedido (um bônus de R$ 150 pede uma compra de pelo menos R$ 750), não vale em acessórios e não soma com cupons de desconto. Na compra em que você usar o giftback, o CECILIA12 não entra. Uma compra nova substitui o bônus anterior, e troca ou devolução cancela o bônus gerado.",
           "**Giftback e o preço de hoje:** o bônus não reduz o que você paga agora. Nas contas deste guia, ele fica de fora.",
-          "**Brinde:** na campanha, quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e C) e o porta-copos. Em outubro, o brinde era só o carregador USB e o porta-copos."
+          "**Brinde:** na campanha, quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e C) e o porta-copos."
         ],
         "links": [
           {
@@ -55368,35 +55737,50 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prazo de entrega da DAMIE e frete antes do Natal",
         "paragraphs": [
-          "A DAMIE dá frete grátis em poltronas e sofás para o Sul e o Sudeste. Para o Centro-Oeste, a política diz que o frete é calculado pelo CEP no carrinho; na nossa simulação de novembro, uma poltrona saiu com frete grátis também para um CEP de Goiânia, na faixa que o carrinho chama de DF, ES, GO, MG e RJ, com prazo de 8 a 13 dias úteis. Para a capital paulista, o prazo foi de 7 a 11 dias úteis. No Norte e no Nordeste, a marca vende só pelos anúncios oficiais dela no Mercado Livre, onde o frete e o prazo aparecem ao simular o CEP: um CEP de Salvador não recebeu opção de entrega no site. O CECILIA12 é aplicado no checkout do site da DAMIE.",
+          "A DAMIE dá frete grátis em poltronas e sofás para o Sul e o Sudeste. Para o Centro-Oeste, a política diz que o frete é calculado pelo CEP no carrinho; na nossa simulação, uma poltrona saiu com frete grátis também para um CEP de Goiânia, na faixa que o carrinho chama de DF, ES, GO, MG e RJ, com prazo de 8 a 13 dias úteis. Para a capital paulista, o prazo foi de 7 a 11 dias úteis. No Norte e no Nordeste, a marca vende só pelos anúncios oficiais dela no Mercado Livre, onde o frete e o prazo aparecem ao simular o CEP: um CEP de Salvador não recebeu opção de entrega no site. O CECILIA12 é aplicado no checkout do site da DAMIE.",
           "O prazo de entrega varia por região e aparece no cálculo do frete, antes de pagar. Ele começa a contar na confirmação do pagamento: o Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. Se você quer a poltrona antes do Natal, simule o CEP no carrinho e veja o prazo antes de fechar. O logo bordado, opcional, acrescenta 7 dias.",
           "Em prédio, a entrega vai até o hall de entrada, então confira antes se a caixa passa no elevador ou na escada. A montagem é feita por você, só com encaixes e sem ferramentas. A reclinável passa em portas a partir de 65 cm, informa a marca, se você levar primeiro o encosto e depois a base.",
           "Confira o produto na hora da entrega, com a transportadora esperando: se houver avaria, recuse, e a DAMIE manda outro. Depois disso, valem dois prazos diferentes. O direito de arrependimento, do artigo 49 do Código de Defesa do Consumidor, dá 7 dias corridos do recebimento para desistir de uma compra feita pela internet. O teste de 30 dias é política da DAMIE: a poltrona volta completa, com os acessórios, na embalagem original e sem sinais de uso severo, com a coleta por conta da loja. Guarde a caixa até decidir, porque sem a embalagem a loja não coleta."
         ]
       },
       {
-        "heading": "Antes de comprar na Black Friday",
+        "heading": "Qual comprar na Black Friday da DAMIE?",
+        "emphasis": "Se eu fosse comprar na Black Friday, eu escolheria a reclinável elétrica com giro e balanço, a que temos em casa: com os três brindes, o CECILIA12 e o Pix, é o melhor equilíbrio entre preço e uso. Para quem tem dificuldade de levantar, eu iria direto na base com elevação.",
         "bullets": [
-          "**Compare com a tabela de outubro.** O preço riscado é o cheio; em outubro, todas as reclináveis já estavam R$ 1.000 abaixo dele.",
-          "**Confira o revestimento e os opcionais.** O preço muda com o tecido: na [giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco), o couro custava R$ 1.400 a mais que o suede. Opcionais como a [mesa de apoio](https://www.damie.com.br/products/mesa-de-apoio) e a [luminária](https://www.damie.com.br/products/luminaria-de-embutir) somam ao total.",
-          "**Aplique o CECILIA12 antes de pagar.** Ele não soma com outro cupom. Se a loja lançar um código próprio na Black Friday, teste os dois no carrinho e fique com o que der mais desconto.",
+          "**Compare com o preço cheio da tabela.** Todas as reclináveis já estão R$ 1.000 abaixo dele.",
+          "**Confira o revestimento e os opcionais.** O preço muda com o tecido: na [giro e balanço](https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-com-giro-e-balanco), o couro custa R$ 1.400 a mais que o suede. Opcionais como a [mesa de apoio](https://www.damie.com.br/products/mesa-de-apoio) e a [luminária](https://www.damie.com.br/products/luminaria-de-embutir) somam ao total.",
+          "**Aplique o CECILIA12 antes de pagar.** Confira a linha dos 12% no resumo. Ele não soma com outro cupom.",
           "**Simule o frete e o prazo.** Fora do Sul e do Sudeste, confirme o frete pelo CEP; no Norte e no Nordeste, a compra é feita pelo Mercado Livre.",
-          "**Vai comprar mais de uma?** Fale com a DAMIE no WhatsApp antes de fechar: o desconto por quantidade, de R$ 500 a R$ 2.000, não aparece no carrinho."
+          "**Vai comprar mais de uma?** Fale com os consultores da DAMIE no WhatsApp antes de fechar: o desconto por quantidade, de R$ 500 a R$ 2.000, não aparece no carrinho."
+        ],
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=black-friday-damie",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Poltrona Reclinável 2.0 na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da DAMIE? A campanha já está no ar, com a poltrona com três presentes e frete grátis no Sul e no Sudeste. No começo de novembro, a loja dava a última sexta-feira do mês como prazo, enquanto durassem os estoques. A Cyber Monday, na segunda-feira seguinte, fica fora desse prazo.",
-          "A DAMIE tem Black Friday? Tem em 2026: a campanha traz brindes na compra de poltrona e mantém os R$ 1.000 de desconto que as poltronas já tinham em outubro.",
-          "Poltrona reclinável fica mais barata na Black Friday? Na DAMIE, o preço de meados de novembro é o mesmo de outubro: a reclinável elétrica com giro e balanço sai por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio. A campanha acrescentou a massagem aos brindes.",
-          "Qual o preço da poltrona DAMIE? A reclinável vai de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista. Com o CECILIA12 e o Pix, a manual sai por R$ 2.351,45, pela nossa conta.",
-          "Tem cupom DAMIE para a Black Friday? O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE, com todas as formas de pagamento e sem limite de usos por CPF, e soma com as promoções, os brindes e o desconto do Pix. Só não soma com outro cupom nem com o giftback.",
-          "O cupom CECILIA12 vale na Black Friday? Vale. O cupom DAMIE CECILIA12 deu 12% OFF na nossa sacola de novembro e soma com o preço de campanha, com os brindes e com o Pix. Só não entra junto com outro cupom nem na compra em que você usa o giftback.",
-          "O cupom CECILIA12 soma com o desconto do Pix? Soma. Pagando no Pix, entram os 12% do cupom e os 10% do Pix: pela nossa conta, a reclinável elétrica com giro e balanço em suede sai por R$ 3.404,81.",
-          "Qual poltrona DAMIE escolher para amamentar? A marca indica a elétrica com giro e balanço, que reclina até 145°, gira 180° e balança. É a base da nossa 2.0. Com o CECILIA12, ela sai por R$ 3.783,12 no cartão.",
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com o preço de campanha, com os brindes e com os 10% do Pix; não soma com outro cupom nem com o giftback.",
+          "Quando começa e quanto dura a Black Friday da DAMIE? A campanha já está no ar e vai até o dia da Black Friday, ou enquanto durarem os estoques. A Cyber Monday, na segunda-feira seguinte, fica fora desse prazo.",
+          "Poltrona reclinável fica mais barata na Black Friday? Na DAMIE, o preço de venda é o mesmo de antes da campanha, com o desconto da página já aplicado nas poltronas. A campanha acrescentou brindes: massagem, entrada USB e porta-copos.",
+          "Qual o preço da poltrona DAMIE? Muda com a base e o revestimento, e o couro custa mais que o suede, o bouclé e o linho. A tabela do guia mostra o preço cheio e o do site de cada base, e o Pix dá mais 10% de desconto.",
+          "O cupom CECILIA12 soma com o desconto do Pix? Soma. Pagando no Pix, entram os 12% do cupom e os 10% do Pix, um sobre o outro.",
+          "Qual poltrona DAMIE escolher para amamentar? A marca indica a elétrica com giro e balanço, que reclina até 145°, gira 180° e balança. É a base da nossa 2.0.",
           "O giftback da DAMIE vale junto com o CECILIA12? Não no uso: a página do giftback diz que o bônus não soma com cupons de desconto. Ele é um crédito de 15% para a compra seguinte, vale 30 dias corridos e cobre até 20% do novo pedido. A página não informa se a compra feita com cupom gera o bônus.",
-          "Qual o prazo de entrega da DAMIE? Varia por região e aparece no cálculo do frete, antes de pagar: na nossa simulação, de 7 a 11 dias úteis para a capital paulista. O prazo começa a contar na confirmação do pagamento, e o frete é grátis no Sul e no Sudeste.",
+          "Qual o prazo de entrega da DAMIE? Varia por região e aparece no cálculo do frete, antes de pagar. O prazo começa a contar na confirmação do pagamento, e o frete é grátis no Sul e no Sudeste.",
           "A DAMIE entrega no Nordeste? Sim, pelos anúncios oficiais da marca no Mercado Livre, que é como a DAMIE atende o Norte e o Nordeste. O frete e o prazo aparecem ao simular o CEP no anúncio."
         ]
       }
@@ -55409,7 +55793,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Preços conferidos no site da DAMIE. Podemos receber comissão pelo cupom CECILIA12.",
+    "editorialNote": "Usamos a reclinável e o sofá modular. Podemos receber comissão pelo CECILIA12.",
     "relatedArticles": [
       {
         "slug": "poltrona-damie-e-boa"
@@ -55419,8 +55803,22 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "cupom-cecilia12-como-usar"
+      },
+      {
+        "slug": "presente-de-natal-para-casa-moveis"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a reclinável elétrica com giro e balanço se a poltrona vai ao quarto do bebê ou à sala: é a base que a marca indica para amamentação.",
+        "Leve a de elevação se quem vai usar tem dificuldade de levantar, que é para o que a marca a indica.",
+        "Leve o sofá modular de 3 lugares se a porta, a escada ou o elevador não aceitam um sofá inteiro."
+      ],
+      "skipIf": [
+        "Passe esta campanha se você mora no Norte ou no Nordeste: ali a compra é só pelo Mercado Livre, onde o CECILIA12 não vale.",
+        "Passe se vai usar o giftback de 15% de uma compra anterior: no mesmo pedido, o CECILIA12 não entra."
+      ]
+    }
   },
   {
     "id": 332,
@@ -91697,7 +92095,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "description": "Inflow e Sofá na Caixa são empresas diferentes. Compare as duas com a DAMIE em teste em casa, garantia, preço no Pix e Reclame Aqui para escolher o sofá certo.",
@@ -91716,7 +92114,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "O sofá DAMIE foi recebido em parceria. Relatamos nosso uso e comparamos dados públicos das marcas. O cupom CECILIA12 pode gerar comissão.",
+    "editorialNote": "Sofá DAMIE recebido em parceria. Dados públicos das marcas. CECILIA12 rende comissão.",
     "relatedArticles": [
       {
         "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais"
@@ -91730,9 +92128,9 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
-        "heading": "Sofá na Caixa, Inflow ou DAMIE: resposta rápida",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "Não, Inflow e Sofá na Caixa são empresas diferentes, e a DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no Pix, com frete e configuração a conferir; a reputação no Reclame Aqui também pesa. Na DAMIE, o código CECILIA12 dá 12% OFF."
+          "Inflow e Sofá na Caixa são empresas diferentes, e a DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no cartão, mas está com a reputação suspensa no Reclame Aqui. Na DAMIE, o CECILIA12 dá 12% OFF."
         ]
       },
       {
@@ -91790,7 +92188,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Teste em casa",
-              "30 dias, com coleta e reembolso integral",
+              "30 dias, com coleta e reembolso integral, com a embalagem original guardada",
               "Nenhum prazo comercial além dos 7 dias do CDC",
               "Sem teste de uso: 10 dias para devolver, sem indícios de uso"
             ],
@@ -91817,12 +92215,6 @@ export const reviewsData: unknown[] = [
               "10% no Pix; até 12x",
               "10% no Pix; até 10x",
               "10% no Pix; até 10x"
-            ],
-            [
-              "Reclame Aqui, 6 meses",
-              "Ótima, nota 8,3",
-              "RA1000, nota 8,5",
-              "Regular, nota 6,1"
             ]
           ]
         }
@@ -91834,10 +92226,14 @@ export const reviewsData: unknown[] = [
           "**A DAMIE** não compacta o sofá: entrega módulos pré-estruturados em caixas reforçadas, ligados por encaixe.",
           "Essa é a diferença central entre as três: de um lado, espuma que expande depois de aberta; do outro, módulos que já chegam com estrutura de madeira e só precisam ser encaixados."
         ],
-        "image": "/images/reviews/sofa-damie-na-caixa-cecilia-hero.webp",
-        "imageAlt": "Módulos do sofá DAMIE montados na sala da Cecília, com um braço de porta-copos em primeiro plano",
-        "imageCaption": "Os módulos do meu sofá DAMIE já montados: cada um chega pronto e se liga ao vizinho por encaixe.",
-        "imageFit": "portrait"
+        "image": {
+          "src": "/images/reviews/sofa-damie-na-caixa-cecilia-hero-4x5.webp",
+          "alt": "Módulos do sofá DAMIE montados na sala da Cecília, com um braço de porta-copos em primeiro plano",
+          "caption": "Os módulos do meu sofá DAMIE já montados: cada um chega pronto e se liga ao vizinho por encaixe.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        }
       },
       {
         "heading": "O que tem dentro: estrutura, espuma e peso",
@@ -91859,7 +92255,7 @@ export const reviewsData: unknown[] = [
           "É aqui que as três mais se separam, e as regras ficam em letra miúda. No teste em casa:"
         ],
         "bullets": [
-          "**DAMIE:** 30 dias. Se você não gostar, a DAMIE coleta o sofá e devolve o valor integral.",
+          "**DAMIE:** 30 dias. Se você não gostar, a DAMIE coleta o sofá e devolve o valor integral, desde que a embalagem original esteja guardada.",
           "**Sofá na Caixa:** 10 dias. A própria marca explica que o prazo legal é de 7 dias e que os 10 dias são um benefício dela. A devolução vale com o sofá na embalagem original, sem indícios de uso, com nota fiscal e acessórios, e o frete de volta nesse prazo é pago pela loja.",
           "**Inflow:** nenhum prazo comercial além dos 7 dias de arrependimento que o CDC garante em compra pela internet."
         ],
@@ -91871,10 +92267,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa um sofá de 3 lugares em cada uma?",
         "paragraphs": [
-          "Preços dos sites em 14/10/2026. Os modelos não são idênticos (a DAMIE vende o 3 lugares com puff; a Inflow e a Sofá na Caixa, com apoio de pé), e o preço muda com o revestimento e com o número de lugares, então a comparação é de ordem de grandeza, não de centavos."
+          "Preços dos sites no cartão. Os modelos não são idênticos (a DAMIE vende o 3 lugares com puff; a Inflow e a Sofá na Caixa, com apoio de pé), e o preço muda com o revestimento e com o número de lugares, então a comparação é de ordem de grandeza, não de centavos."
         ],
         "comparisonTable": {
-          "caption": "Preço de um sofá de 3 lugares",
+          "caption": "Preço de um sofá de 3 lugares, no cartão, em 23/11/2026",
           "headers": [
             "Marca",
             "Modelo",
@@ -91891,60 +92287,41 @@ export const reviewsData: unknown[] = [
               "até 12x de R$ 425"
             ],
             [
-              "DAMIE",
-              "O mesmo, em corino importado",
-              "R$ 5.200 (de R$ 6.200)",
-              "R$ 4.680",
-              "até 12x"
-            ],
-            [
-              "DAMIE",
-              "O mesmo, em couro bovino",
-              "R$ 8.100 (de R$ 9.100)",
-              "R$ 7.290",
-              "até 12x"
-            ],
-            [
               "Inflow",
-              "3 lugares, 2 cantos e apoio de pé",
-              "—",
-              "de R$ 5.031 a R$ 5.733, conforme o tecido e os apoios de pé",
+              "3 lugares, 2 cantos e 1 apoio de pé, em bouclê bege",
+              "R$ 4.790 (de R$ 5.568)",
+              "10% OFF",
               "até 10x"
             ],
             [
               "Sofá na Caixa",
-              "Modular 3 lugares em Boucle com apoio de pé",
+              "Modular 3 lugares em bouclé com apoio de pé",
               "R$ 3.869,10 (de R$ 7.239)",
               "R$ 3.482,19 (10% OFF)",
               "até 10x de R$ 386,91 sem juros"
             ],
             [
               "Sofá na Caixa",
-              "Modular 3 lugares em Poli-Couro Marrom com apoio de pé",
-              "R$ 4.679,10 (de R$ 7.949)",
-              "R$ 4.211,19 (10% OFF)",
-              "até 10x de R$ 467,91 sem juros"
+              "Modular 3 lugares em poli-couro preto com apoio de pé",
+              "R$ 3.869,10 (de R$ 7.239)",
+              "R$ 3.482,19 (10% OFF)",
+              "até 10x de R$ 386,91 sem juros"
             ]
           ]
         },
         "postParagraphs": [
-          "As três dão 10% no Pix e informam o valor; compare sempre Pix com Pix ou parcela com parcela. No Pix, entre os modelos da tabela, a Sofá na Caixa (R$ 3.482,19) é o menor, a DAMIE vem em R$ 4.590 e a Inflow, a partir de R$ 5.031.",
-          "Entre os modelos comparados, a Sofá na Caixa tem o menor preço listado, com 10 dias para devolver sem indícios de uso e garantia de 3 meses. A DAMIE custa mais na vitrine e, nos tecidos, fica abaixo da Inflow no Pix, com 30 dias de teste e 1 ano de garantia. Frete e configuração mudam o total: confira na loja."
+          "As três dão 10% no Pix; compare sempre Pix com Pix ou parcela com parcela. No cartão, entre os modelos da tabela, a Sofá na Caixa tem o menor preço, a Inflow vem em seguida e a DAMIE tem o maior, com o puff incluído.",
+          "O menor preço da Sofá na Caixa vem com 10 dias para devolver sem indícios de uso, 3 meses de garantia e a reputação suspensa no Reclame Aqui. A DAMIE custa mais na vitrine e dá 30 dias de teste e 1 ano de garantia. Frete e configuração mudam o total: confira na loja."
         ]
       },
       {
         "heading": "E a reputação das três no Reclame Aqui?",
         "paragraphs": [
-          "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026). A nota atual da Inflow é 8,5; o print abaixo mostra 8,6.",
-          "Nesse recorte, a Inflow tinha o selo mais alto entre as três e 94% de solução entre as reclamações avaliadas; a DAMIE tinha selo Ótima e a menor média de resposta, 13 horas. A Sofá na Caixa tem selo Regular e quase 50 vezes mais reclamações que a Inflow no período."
+          "Dados do Reclame Aqui, com os três perfis lidos no mesmo dia. Solução e \"voltariam a fazer negócio\" valem para as reclamações avaliadas, não para todos os clientes. A Inflow tem só 83 avaliadas no período, uma base pequena.",
+          "A Sofá na Caixa está com a reputação suspensa. O Reclame Aqui diz na página dela: \"A reputação da empresa está suspensa porque há irregularidades dentro e/ou fora do Reclame AQUI.\" Não vamos supor o motivo, e por isso a plataforma não divulga solução, \"voltariam\" nem nota do consumidor dela."
         ],
-        "image": "/images/reviews/sofa-na-caixa/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
-        "imageAlt": "Painéis do Reclame Aqui dos últimos 6 meses: DAMIE com reputação Ótima e nota 8,3, Inflow com RA1000 e nota 8,6, Sofá na Caixa com reputação Regular e nota 6,1",
-        "imageCaption": "Painéis do Reclame Aqui de cada marca, dos últimos 6 meses.",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.9448,
         "comparisonTable": {
-          "caption": "Reclame Aqui, últimos 6 meses",
+          "caption": "Reclame Aqui, janela de 01/05 a 31/10/2026",
           "headers": [
             "",
             "DAMIE (Damie Móveis)",
@@ -91953,91 +92330,85 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Selo",
-              "Ótima",
-              "RA1000",
-              "Regular"
+              "Reputação",
+              "Boa, nota 7,9",
+              "Ótima, nota 8,2",
+              "Suspensa"
             ],
             [
-              "Nota",
-              "8,3",
-              "8,5",
-              "6,1"
-            ],
-            [
-              "Reclamações",
-              "218",
-              "144",
-              "6.947"
+              "Reclamações recebidas",
+              "192",
+              "154",
+              "6.255"
             ],
             [
               "Respondidas",
               "100%",
-              "98,6%",
-              "100%"
+              "98,7%",
+              "99,9%"
             ],
             [
-              "Resolvidas entre as avaliadas",
-              "86,7%",
-              "94%",
-              "56,1%"
+              "Reclamações avaliadas",
+              "125",
+              "83",
+              "4.147"
             ],
             [
-              "Voltariam a comprar, entre avaliadores",
-              "76%",
-              "75%",
-              "49,8%"
+              "Resolvidas, entre as avaliadas",
+              "83,2%",
+              "90,4%",
+              "Dado não disponível"
+            ],
+            [
+              "Voltariam a fazer negócio, entre as avaliadas",
+              "70,4%",
+              "68,7%",
+              "Dado não disponível"
             ],
             [
               "Nota do consumidor",
-              "7,37",
-              "7,62",
-              "4,66"
+              "6,78",
+              "7,19",
+              "Dado não disponível"
             ],
             [
               "Tempo de resposta",
-              "13 horas",
-              "7 dias e 13 horas",
-              "2 dias e 1 hora"
+              "15 horas",
+              "6 dias e 20 horas",
+              "1 dia e 18 horas"
             ]
           ]
         },
         "bullets": [
           "O selo mede **atendimento e solução**, não volume de vendas.",
-          "A Inflow \"acaba de chegar ao mercado brasileiro de estofados\", nas palavras do release de janeiro: são cerca de 9 meses vendendo sofá. O RA1000 é real, mas vale para um histórico curto.",
-          "A DAMIE está cadastrada no Reclame Aqui há 6 anos.",
+          "A Inflow tem a nota mais alta das três e já não aparece com o selo RA1000. Ela também é a mais lenta para responder, com quase 7 dias.",
+          "A Inflow \"acaba de chegar ao mercado brasileiro de estofados\", nas palavras do release de janeiro: o histórico dela é curto.",
+          "A DAMIE está cadastrada no Reclame Aqui há 6 anos, e a Sofá na Caixa, há 3.",
           "Nenhuma das marcas publica número de vendas, então não dá para dizer quantas reclamações cada uma recebe por cliente."
         ]
       },
       {
         "heading": "Qual a queixa mais comum nas três?",
         "paragraphs": [
-          "A mesma. Entre os principais problemas apontados no Reclame Aqui (histórico de até 3 anos), o primeiro lugar é **atraso na entrega**: 50,36% das reclamações da DAMIE, 40,79% das da Sofá na Caixa e 28,18% das da Inflow. Nas três marcas, atraso é a queixa número um, e vale contar com folga no prazo em qualquer uma.",
+          "A mesma. Entre os principais problemas do Reclame Aqui (aba Geral, com até 3 anos de histórico), o primeiro lugar é **atraso na entrega**: 51,24% das reclamações da DAMIE, 40,4% das da Sofá na Caixa e 28,71% das da Inflow. Nas três marcas, atraso é a queixa número um, e vale contar com folga no prazo em qualquer uma.",
           "O que aconteceu com a Sofá na Caixa desde 2025, com entregas atrasadas e reembolsos, está em [O que aconteceu com a Sofá na Caixa?](/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-damie.webp",
-            "alt": "Principais problemas da DAMIE no Reclame Aqui: atraso na entrega em 50,36% das reclamações",
-            "caption": "DAMIE: atraso na entrega em 50,36% das reclamações.",
-            "objectFit": "contain",
-            "aspectRatio": 1.224
-          },
-          {
-            "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-sofa-na-caixa.webp",
-            "alt": "Principais problemas da Sofá na Caixa no Reclame Aqui: atraso na entrega em 40,79% das reclamações",
-            "caption": "Sofá na Caixa: atraso na entrega em 40,79% das reclamações.",
-            "objectFit": "contain",
-            "aspectRatio": 1.2168
-          },
-          {
-            "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-inflow.webp",
-            "alt": "Principais problemas da Inflow no Reclame Aqui: atraso na entrega em 28,18% das reclamações",
-            "caption": "Inflow: atraso na entrega em 28,18% das reclamações.",
-            "objectFit": "contain",
-            "aspectRatio": 1.2161
-          }
         ]
+      },
+      {
+        "heading": "Meu sofá da DAMIE no dia a dia",
+        "paragraphs": [
+          "O meu sofá da DAMIE já virou um dos móveis mais usados da rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família: conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). O uso é de moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais.",
+          "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico nem entram nos preços da tabela acima.",
+          "Contei como foi a escolha do modelo e o que eu observaria antes de comprar no guia [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
+        ],
+        "image": {
+          "src": "/images/reviews/sofa-damie-na-caixa-cecilia-montagem-4x5.webp",
+          "alt": "Cecília deitada no assento do sofá modular DAMIE azul, sorrindo",
+          "caption": "Eu no meu sofá DAMIE: uso de moderado a intenso, e ele continua igual ao dia em que chegou.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        }
       },
       {
         "heading": "Qual escolher: Sofá na Caixa, Inflow ou DAMIE?",
@@ -92045,44 +92416,40 @@ export const reviewsData: unknown[] = [
           "Cada perfil de compra aponta para uma marca:"
         ],
         "bullets": [
-          "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso integral.",
-          "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado entre os modelos comparados, inclusive no Pix. Pese contra os 10 dias para devolver sem indícios de uso, os 3 meses de garantia e o selo Regular.",
+          "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso integral, desde que guarde a embalagem original.",
+          "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado entre os modelos comparados, inclusive no Pix. Pese contra os 10 dias para devolver sem indícios de uso, os 3 meses de garantia e a reputação suspensa no Reclame Aqui.",
           "**Quem quer a garantia mais longa:** DAMIE, com 1 ano.",
-          "**Quem valoriza o histórico de atendimento:** a Inflow, com RA1000 e 94% de reclamações resolvidas no recorte do Reclame Aqui, lembrando que o histórico dela é curto.",
-          "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP.",
+          "**Quem valoriza o histórico de atendimento:** a Inflow, com reputação Ótima, nota 8,2 e 90,4% de solução entre as avaliadas, lembrando que são só 83 avaliadas e que o histórico dela é curto.",
+          "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre, onde o CECILIA12 não vale; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP.",
           "**Quem também está olhando a Valley Modular:** a comparação com ela está em [Valley Modular, Inflow ou DAMIE](/reviews/valley-inflow-ou-damie)."
         ],
-        "emphasis": "Entre as três, eu ficaria com a DAMIE pelos 30 dias de teste e pelo ano de garantia. A Sofá na Caixa custa menos na comparação, mas informa devolução em 10 dias com embalagem original e sem indícios de uso."
-      },
-      {
-        "heading": "A experiência da Cecília com o sofá da DAMIE",
-        "paragraphs": [
-          "O meu sofá da DAMIE já virou um dos móveis mais usados da rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família: conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). O uso é de moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais.",
-          "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico nem entram nos preços da tabela acima.",
-          "Contei como foi a escolha do modelo e o que eu observaria antes de comprar no guia [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
+        "emphasis": "Entre as três, eu ficaria com a DAMIE pelos 30 dias de teste e pelo ano de garantia. A Sofá na Caixa custa menos na comparação, mas informa devolução em 10 dias, com embalagem original e sem indícios de uso, e está com a reputação suspensa no Reclame Aqui.",
+        "postParagraphs": [
+          "O **CECILIA12** é o [cupom DAMIE](/cupons/damie) de 12% OFF em todo o site oficial. Vale em **todas as formas de pagamento**, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições e o passo a passo estão na página do cupom."
         ],
-        "image": "/images/reviews/sofa-damie-na-caixa-cecilia-montagem.webp",
-        "imageAlt": "Cecília deitada no assento do sofá modular DAMIE azul, sorrindo",
-        "imageCaption": "Eu no meu sofá DAMIE: uso de moderado a intenso, e ele continua igual ao dia em que chegou.",
-        "imageFit": "portrait"
-      },
-      {
-        "heading": "Cupom CECILIA12 na DAMIE",
-        "paragraphs": [
-          "O **CECILIA12** é um cupom de 12% de desconto em todo o site da DAMIE. Vale em **todas as formas de pagamento**, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições e o passo a passo estão na [página do cupom da DAMIE](/cupons/damie)."
-        ]
-      },
-      {
-        "heading": "Resumo: quem escolhe o quê",
-        "paragraphs": [
-          "Quem quer testar antes e ter a garantia mais longa fica melhor com a DAMIE. Quem prioriza o menor preço pode olhar a Sofá na Caixa, sabendo que o teste é curto e a garantia é de 3 meses. A Inflow tem selo RA1000 no Reclame Aqui, mas sem teste além do prazo legal de 7 dias."
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-na-caixa-inflow-ou-damie",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o sofá modular na DAMIE",
+            "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Inflow e Sofá na Caixa são a mesma empresa? Não. A Inflow é da Fast Living Comércio e Distribuição Ltda. (CNPJ 44.947.739/0001-80, Itapeva, MG, ativa desde 2022) e a Sofá na Caixa é da Sofá na Caixa Ltda. (CNPJ 53.546.707/0001-64, Rafard, SP, ativa desde 2024). Cada uma tem site e regras próprios.",
-          "Qual é melhor, Sofá na Caixa ou Inflow? Depende do que pesa mais. A Inflow tem selo RA1000 no Reclame Aqui e a Sofá na Caixa, Regular. A Sofá na Caixa tem o menor preço listado entre os modelos comparados e 10 dias para devolver o sofá sem indícios de uso; a Inflow não dá prazo além dos 7 dias do CDC.",
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Inflow e Sofá na Caixa não têm cupom nosso.",
+          "Inflow e Sofá na Caixa são a mesma empresa? Não. A Inflow é da Fast Living Comércio e Distribuição Ltda. (CNPJ 44.947.739/0001-80, Itapeva, MG) e a Sofá na Caixa é da Sofá na Caixa Ltda. (CNPJ 53.546.707/0001-64, Rafard, SP). Cada uma tem site e regras próprios.",
+          "Qual é melhor, Sofá na Caixa ou Inflow? Depende do que pesa mais. A Inflow tem reputação Ótima e nota 8,2 no Reclame Aqui; a Sofá na Caixa está com a reputação suspensa, segundo a própria plataforma. A Sofá na Caixa tem o menor preço listado entre os modelos comparados e 10 dias para devolver o sofá sem indícios de uso; a Inflow não dá prazo além dos 7 dias do CDC.",
           "Existe outra marca parecida com a Sofá na Caixa e a Inflow? A DAMIE também entrega o sofá modular em caixas, mas com módulos pré-estruturados em madeira, ligados por encaixe, e não com espuma compactada. Tem 30 dias de teste em casa e 1 ano de garantia.",
           "Qual tem a maior garantia? A DAMIE: 1 ano e, depois, suporte vitalício com peças a preço de custo. A Inflow dá 3 meses na ficha do produto (90 dias na política) e a Sofá na Caixa, 3 meses.",
           "Posso devolver o sofá da Inflow depois de abrir? Pela política da Inflow, a devolução por arrependimento só é aceita com o produto lacrado, e o frete de volta é do cliente. O CDC garante 7 dias de arrependimento na compra online, e o lacre é exigência da loja: na dúvida, confirme com a Inflow antes de abrir. Depois de aberto, a loja prevê só a garantia de 3 meses (90 dias), em caso de defeito.",
@@ -92093,7 +92460,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você quer testar o sofá em casa por 30 dias, com coleta e reembolso integral.",
+        "Você quer testar o sofá em casa por 30 dias, com coleta e reembolso, e tem onde guardar a embalagem.",
         "A garantia de 1 ano pesa mais para você do que o menor preço."
       ],
       "skipIf": [
@@ -92106,7 +92473,7 @@ export const reviewsData: unknown[] = [
     "id": 429,
     "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
     "title": "Sofá na caixa ou sofá montado: qual dura mais?",
-    "seoTitle": "Sofá na caixa ou montado: qual dura mais?",
+    "seoTitle": "Sofá na caixa ou sofá montado: qual dura mais?",
     "type": "Guia Prático",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -92119,7 +92486,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "description": "Sofá na caixa pode durar tanto quanto o montado, porque a caixa é só o jeito de entregar. Veja o que decide a durabilidade, o checklist da ficha técnica e a garantia de cada marca.",
@@ -92138,7 +92505,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "O sofá DAMIE foi recebido em parceria. Relatamos nosso uso e comparamos dados públicos das marcas. O cupom CECILIA12 pode gerar comissão.",
+    "editorialNote": "Sofá DAMIE recebido em parceria; cupom e links podem render comissão.",
     "relatedArticles": [
       {
         "slug": "sofa-na-caixa-inflow-ou-damie"
@@ -92148,11 +92515,14 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "sofa-damie-modular-vale-a-pena"
+      },
+      {
+        "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular"
       }
     ],
     "contentSections": [
       {
-        "heading": "Sofá na caixa dura tanto quanto um montado? Resposta rápida",
+        "heading": "Resposta rápida",
         "paragraphs": [
           "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há mais de um ano, e o código CECILIA12 dá 12% OFF no site."
         ]
@@ -92175,10 +92545,14 @@ export const reviewsData: unknown[] = [
           "**Espuma.** É o que dá o conforto e mantém a aparência de novo. A densidade da espuma é medida em kg/m³, pela norma ABNT NBR 8537, e vale pedir esse número. Ele sozinho não é regra: não dá para concluir \"densidade maior, sofá que dura mais\", porque a espuma trabalha junto com a estrutura e com o que está embaixo dela. A NBR 16031, que trata de ensaios de assento, também avisa que eles não medem a durabilidade da espuma. A DAMIE cita espumas HS e Soft D40S e uma manta de 400 g/m²; a Inflow cita a espuma FlowTech, sem informar a densidade.",
           "**Tecido.** É a parte que você toca e a que mais sofre com uso, sol, bichos e criança. Peça a composição e veja se a limpeza e a retirada do revestimento estão explicadas."
         ],
-        "image": "/images/reviews/sofa-modular-itens.webp",
-        "imageAlt": "Ficha ilustrada do sofá modular DAMIE: estrutura de madeira e compensado naval, encaixe entre módulos, envio em caixa e puff montado",
-        "imageCaption": "A ficha ilustrada da DAMIE: estrutura de madeira e compensado naval, módulos com encaixe e envio em caixa (imagem da marca).",
-        "imageFit": "square"
+        "image": {
+          "src": "/images/reviews/sofa-modular-itens.webp",
+          "alt": "Ficha ilustrada do sofá modular DAMIE: estrutura de madeira e compensado naval, encaixe entre módulos, envio em caixa e puff montado",
+          "caption": "A ficha ilustrada da DAMIE: estrutura de madeira e compensado naval, módulos com encaixe e envio em caixa (imagem da marca).",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        }
       },
       {
         "heading": "Checklist: o que pedir na ficha técnica",
@@ -92198,7 +92572,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "A garantia diz muito",
+        "heading": "Garantia: quanto tempo e o que cobre",
         "paragraphs": [
           "A garantia informa por quanto tempo e em quais condições a marca oferece cobertura. Ela não mede a vida útil do sofá. Entre as marcas deste guia, os prazos divulgados vão de 90 dias a 1 ano:"
         ],
@@ -92209,7 +92583,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Existe um mínimo que vale para qualquer loja: o CDC dá 90 dias para reclamar de defeito em produto durável. Na comparação, pesam a duração e o que cada termo cobre, não uma conta de 90 dias a mais ou a menos. Leia também o que a garantia cobre: um ano só para a estrutura e três meses para tudo são promessas diferentes.",
-          "Outra pergunta que ajuda: a ABNT tem uma norma para sofás, a **NBR 15164**, com requisitos e métodos de ensaio de resistência, durabilidade e estabilidade, em edição nova de 02/2026. Vale perguntar à loja se o sofá foi ensaiado por ela e pedir o relatório ou a declaração. Uma resposta vaga também diz alguma coisa."
+          "Outra pergunta que ajuda: a ABNT tem uma norma para sofás, a **NBR 15164**, com requisitos e métodos de ensaio de resistência, durabilidade e estabilidade. Vale perguntar à loja se o sofá foi ensaiado por ela e pedir o relatório ou a declaração. Uma resposta vaga também diz alguma coisa."
         ]
       },
       {
@@ -92218,7 +92592,7 @@ export const reviewsData: unknown[] = [
           "A tabela mostra o que as três marcas de sofá na caixa informam nas próprias páginas. Ela não mede qualidade: mostra quanto da ficha você consegue ler antes de comprar. O traço indica dado que a marca não publica nas páginas dela."
         ],
         "comparisonTable": {
-          "caption": "O que DAMIE, Inflow e Sofá na Caixa publicam na ficha (14/10/2026)",
+          "caption": "O que DAMIE, Inflow e Sofá na Caixa publicam na ficha",
           "headers": [
             "",
             "Módulos com estrutura (DAMIE)",
@@ -92228,7 +92602,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Estrutura",
-              "Eucalipto grandis maciço tratado em estufa e compensado naval de 15 e 22 mm",
+              "Eucalipto grandis tratado em estufa e compensado naval de 15 e 22 mm",
               "Não publica",
               "\"Sem madeira ou alumínio\", sem dizer o material"
             ],
@@ -92245,12 +92619,6 @@ export const reviewsData: unknown[] = [
               "—"
             ],
             [
-              "Peso suportado por módulo",
-              "Até 140 kg",
-              "Até 150 kg",
-              "—"
-            ],
-            [
               "Garantia",
               "1 ano, depois suporte vitalício com peças a preço de custo",
               "90 dias",
@@ -92258,9 +92626,9 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Teste em casa",
-              "30 dias, com coleta e reembolso integral",
+              "30 dias, com coleta e reembolso integral, com a embalagem original guardada",
               "Sem teste comercial adicional declarado; a política da Inflow exige a caixa lacrada",
-              "10 dias"
+              "Sem teste de uso; 10 dias para devolver, sem indícios de uso"
             ]
           ]
         }
@@ -92287,17 +92655,21 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O que eu vi depois de meses com o sofá na caixa da DAMIE",
+        "heading": "O que eu vi em mais de um ano com o sofá na caixa da DAMIE",
         "paragraphs": [
           "Uso o sofá modular da DAMIE há mais de um ano. É tempo de uso real, não de teste de laboratório:",
           "\"O meu sofá Damie já se tornou um dos móveis mais usados na rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família em casa, conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). Posso dizer que tem um uso moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais.\"",
           "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico.",
           "Contei como foi a escolha do modelo e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
         ],
-        "image": "/images/reviews/sofa-damie-modular-puff.webp",
-        "imageAlt": "Cecília sentada no sofá modular DAMIE azul, com a mão sobre o puff",
-        "imageCaption": "O meu sofá DAMIE com o puff, meses depois de chegar.",
-        "imageFit": "portrait"
+        "image": {
+          "src": "/images/reviews/sofa-damie-modular-puff-4x5.webp",
+          "alt": "Cecília sentada no sofá modular DAMIE azul, com a mão sobre o puff",
+          "caption": "O meu sofá DAMIE com o puff, depois de mais de um ano de uso.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        }
       },
       {
         "heading": "Sofá na caixa ou sofá montado: qual escolher?",
@@ -92306,29 +92678,37 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Porta, elevador ou escada estreitos:** compare as medidas dos volumes embalados com todo o caminho da entrega. A caixa menor pode ajudar, mas também precisa passar.",
-          "**Quem quer sentar antes de comprar:** o sofá montado de loja física leva vantagem. Entre os sofás na caixa, o teste em casa faz esse papel, e a DAMIE dá 30 dias.",
-          "**Quem muda de casa ou de layout:** o sofá modular facilita, porque os módulos se separam e se reorganizam. Se a dúvida é o formato, veja [Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto](/reviews/sofa-modular-ou-retratil-qual-escolher)."
+          "**Quem quer sentar antes de comprar:** o sofá montado de loja física leva vantagem. Entre os sofás na caixa, o teste em casa faz esse papel, e a DAMIE dá 30 dias, com a embalagem guardada.",
+          "**Quem muda de casa ou de layout:** o sofá modular facilita, porque os módulos se separam e se reorganizam. Se a dúvida é o formato, veja [sofá modular ou retrátil: qual escolher](/reviews/sofa-modular-ou-retratil-qual-escolher)."
         ],
-        "emphasis": "Eu escolheria pela construção e pela possibilidade de manutenção, antes de olhar se o sofá vem na caixa ou montado. O modular DAMIE recebido em parceria é a nossa referência de uso; a embalagem, sozinha, não decide a duração."
-      },
-      {
-        "heading": "Cupom CECILIA12 para o sofá da DAMIE",
-        "paragraphs": [
-          "O **CECILIA12** é um cupom de 12% de desconto em todo o site da DAMIE. Vale em **todas as formas de pagamento**, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições e o passo a passo estão na [página do cupom da DAMIE](/cupons/damie)."
-        ]
-      },
-      {
-        "heading": "Resumo: sofá na caixa dura?",
-        "paragraphs": [
-          "Sofá na caixa pode durar tanto quanto um montado, conforme a construção e o uso; a ficha técnica ajuda a comparar, e a garantia informa a cobertura. Para acesso estreito, confira as medidas de cada volume; para quem quer sentar antes de comprar, a loja física ou o teste em casa ajudam."
+        "emphasis": "Eu escolheria pela construção e pela possibilidade de manutenção, antes de olhar se o sofá vem na caixa ou montado. O modular DAMIE recebido em parceria é a nossa referência de uso; a embalagem, sozinha, não decide a duração.",
+        "postParagraphs": [
+          "Para comprar o modular da DAMIE, o **CECILIA12** dá 12% OFF em todo o site oficial, em todas as formas de pagamento. Soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições estão na [página do cupom DAMIE](/cupons/damie)."
+        ],
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o sofá modular na DAMIE",
+            "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento.",
           "Sofá na caixa dura quanto tempo? Não existe um número confiável de anos. A duração depende do que vai dentro: estrutura, molas, espuma e tecido. Use a ficha técnica e a garantia como sinal.",
           "Sofá na caixa é bom ou ruim? Não dá para decidir só pela embalagem. Compare a construção, os materiais e as informações da ficha para o tipo de sofá, além da cobertura da garantia.",
-          "Sofá na caixa tem qualidade? Pode ter. A qualidade vem dos materiais e da construção, que a ficha técnica descreve. A DAMIE, por exemplo, publica eucalipto grandis maciço, molas nosag de aço no assento e espumas HS e Soft D40S. Marca que não publica esses dados deixa você sem como comparar.",
+          "Sofá na caixa tem qualidade? Pode ter. A qualidade vem dos materiais e da construção, que a ficha técnica descreve. A DAMIE, por exemplo, publica eucalipto grandis, molas nosag de aço no assento e espumas HS e Soft D40S. Marca que não publica esses dados deixa você sem como comparar.",
           "Sofá na caixa ou sofá montado: qual dura mais? A embalagem não responde. Um sofá na caixa com boa estrutura e boa espuma pode durar tanto quanto um montado, e um montado com materiais fracos dura menos. Compare as fichas, não o formato.",
           "O sofá na caixa vem montado ou desmontado? Depende do tipo. O modular pré-estruturado vem em módulos para encaixar (na DAMIE, em menos de 10 minutos, segundo a ficha). O de espuma compactada vem inteiro e ganha forma quando a caixa é aberta.",
           "O que olhar na ficha técnica de um sofá? Como ele sustenta o peso; em modelos com armação, material e espessura e, quando houver, molas ou percintas. Confira espuma, tecido, peso suportado, garantia e teste em casa.",
@@ -92342,7 +92722,8 @@ export const reviewsData: unknown[] = [
         "Você muda de casa ou de layout com frequência e quer módulos que se reorganizam."
       ],
       "skipIf": [
-        "Você quer sentar e ver o tecido de perto antes de pagar, sem depender de teste em casa."
+        "Você quer sentar e ver o tecido de perto antes de pagar, sem depender de teste em casa.",
+        "Você mora fora do Sul e do Sudeste: o frete grátis da DAMIE não cobre sua região, então confira o CEP antes."
       ]
     }
   },
@@ -139401,7 +139782,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Presente de Natal para a casa com o CECILIA12 e 12% OFF na DAMIE: sofá, poltrona reclinável, cinema em casa e piscina, com faixa de preço e prazo.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/damie/presente-de-natal-para-casa-moveis-capa-v2.webp",
@@ -139418,7 +139799,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de escolher: o que vale para todos os móveis",
         "paragraphs": [
-          "Comece por espaço, acesso e por quem vai usar o móvel. Os preços da DAMIE deste guia são de 23/10/2026, e os das outras marcas, do varejo da mesma semana. Consulte preço, prazo e campanha atuais antes de comprar.",
+          "Comece por espaço, acesso e por quem vai usar o móvel. Os preços da DAMIE são do site, no cartão; os das outras marcas são faixas observadas no varejo. Consulte preço, prazo e campanha antes de comprar.",
           "Cinco conferências valem para qualquer móvel deste guia, da DAMIE ou de outra marca. Faça antes de olhar o preço."
         ],
         "bullets": [
@@ -139426,7 +139807,7 @@ export const reviewsData: unknown[] = [
           "**Quem vai usar:** altura, peso e facilidade para sentar e levantar mudam o modelo certo. Em presente para os pais, isso pesa mais que o visual.",
           "**Tecido:** em casa com criança ou pet, o corino importado é o mais prático contra manchas, pelos de animais e líquidos. No nosso uso da reclinável, o que cai na superfície sai com pano úmido. Suede, bouclé e linho têm toque de tecido e respiram mais. O corino troca menos calor que o linho, então combina com sala de clima ameno ou com ar-condicionado. A DAMIE também oferece couro bovino.",
           "**Entrega e montagem:** na DAMIE, a montagem é feita pelo cliente, por encaixe, e a entrega vai até o hall em prédio. O frete é grátis em poltronas e sofás no Sul e no Sudeste. No Centro-Oeste, o valor sai pelo CEP. No Norte e no Nordeste, a compra é só pelos anúncios da DAMIE no Mercado Livre. O prazo aparece no cálculo do frete.",
-          "**Devolução e garantia:** a DAMIE dá 30 dias para experimentar em casa. Se você devolver, a marca agenda a coleta e devolve o valor pago. A garantia é de 1 ano, com suporte vitalício."
+          "**Devolução e garantia:** a DAMIE dá 30 dias para experimentar em casa, desde que você guarde a embalagem original. Se devolver, a marca agenda a coleta e devolve o valor pago. A garantia é de 1 ano, com suporte vitalício."
         ],
         "postParagraphs": [
           "Se o presente é para outra pessoa, combine o tecido e a cor com ela antes. O teste de 30 dias existe, mas acertar de primeira poupa a coleta."
@@ -139439,7 +139820,7 @@ export const reviewsData: unknown[] = [
           "Para decidir entre eles, leia [sofá na caixa ou sofá montado: qual dura mais](/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais) e [sofá modular ou retrátil: qual escolher](/reviews/sofa-modular-ou-retratil-qual-escolher). Na DAMIE, as duas coisas se juntam: o Sofá Damie na Caixa Modular é modular e chega em caixas. Quem tem escada, elevador pequeno ou planeja mudar a sala de lugar tem aqui um bom motivo para olhar o modular."
         ],
         "comparisonTable": {
-          "caption": "Sofás modulares de 3 lugares vendidos na caixa. A faixa muda com o revestimento e a configuração; o preço da Inflow está no Pix.",
+          "caption": "Preços do site em 23/11/2026, no cartão. Sofás modulares de 3 lugares vendidos na caixa; a faixa muda com o revestimento e a configuração.",
           "headers": [
             "Marca",
             "3 lugares",
@@ -139453,34 +139834,35 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Sofá na Caixa",
-              "de R$ 3.482 a R$ 6.500",
+              "a partir de R$ 3.869",
               "Modular, na caixa"
             ],
             [
               "Inflow",
-              "de R$ 5.031 a R$ 7.101, no Pix",
+              "a partir de R$ 4.060",
               "Modular, na caixa"
             ]
           ]
         },
         "postParagraphs": [
-          "A Inflow vende sofá modular na caixa desde o início de 2026. Para comparar a DAMIE com ela e com a Sofá na Caixa em entrega, teste em casa, devolução e garantia, veja [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie). Antes de comprar da Sofá na Caixa, leia também [o que aconteceu com a Sofá na Caixa](/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp)."
+          "A Inflow vende sofá modular na caixa desde o início de 2026. Para comparar a DAMIE com ela e com a Sofá na Caixa em entrega, teste em casa, devolução e garantia, veja [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie)."
         ],
         "image": {
           "src": "/images/reviews/damie/natal-sofa-modular-na-caixa.webp",
           "alt": "Sofá modular DAMIE de 3 lugares cinza ao lado da caixa em que ele chega",
           "caption": "O Sofá Damie na Caixa Modular chega em caixas e é montado por encaixe. Foto oficial da DAMIE.",
-          "objectFit": "square",
-          "aspectRatio": 1
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
         }
       },
       {
         "heading": "Sofá modular DAMIE: preço por número de lugares",
         "paragraphs": [
-          "O sofá da DAMIE sai em cinco revestimentos: suede, bouclé, linho, corino importado e couro bovino. Todas as configurações levam o apoio de pé (puff) de graça. Cada uma tem uma faixa de preço, porque o valor muda com o revestimento e a cor: o menor preço é o dos tecidos mais em conta, e o maior, o do couro bovino. A garantia é de 1 ano e, depois dela, a marca mantém suporte vitalício, com peças de reposição a preço de custo."
+          "O sofá da DAMIE sai em cinco revestimentos: suede, bouclé, linho, corino importado e couro bovino. As configurações de 2, 3 e 4 lugares levam o apoio de pé (puff) de graça. Cada uma tem uma faixa de preço, porque o valor muda com o revestimento e a cor: o menor preço é o dos tecidos mais em conta, e o maior, o do couro bovino. A garantia é de 1 ano e, depois dela, a marca mantém suporte vitalício, com peças de reposição a preço de custo."
         ],
         "comparisonTable": {
-          "caption": "Sofá modular DAMIE no site oficial, com apoio de pé grátis. Os preços mudam sem aviso e variam com o revestimento.",
+          "caption": "Sofá modular DAMIE no site oficial. Os preços mudam sem aviso e variam com o revestimento.",
           "headers": [
             "Configuração",
             "Preço"
@@ -139521,11 +139903,12 @@ export const reviewsData: unknown[] = [
           "No nosso artigo [Sofá Damie na Caixa: vale a pena o modular?](/reviews/sofa-damie-na-caixa-vale-a-pena-o-modular), mostramos o modular de 3 lugares com puff, a entrega em caixas e a montagem. Para o conceito, veja também o guia do subdomínio sobre o [sofá modular que chega em caixas](https://damie.emcasacomcecilia.com/guias/sofa-modular-que-chega-em-caixas)."
         ],
         "image": {
-          "src": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
+          "src": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito-4x5.webp",
           "alt": "Cecília mostrando a composição modular do sofá DAMIE na sala",
-          "caption": "A Cecília montando o sofá modular DAMIE, do nosso artigo sobre o modelo. Foto: Em Casa com Cecília.",
-          "objectFit": "portrait",
-          "aspectRatio": 0.5625
+          "caption": "A Cecília com o puff do sofá modular DAMIE, do nosso artigo sobre o modelo. Foto: Em Casa com Cecília.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
         }
       },
       {
@@ -139533,7 +139916,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A poltrona do papai se escolhe pelo mecanismo: manual ou elétrica. A manual reclina com o peso do corpo e não usa energia, mas pede esforço de pernas e braços, o que pesa para quem já tem dificuldade de levantar. A elétrica reclina por botão e precisa ficar perto de uma tomada. Há ainda a elétrica com giro e balanço, a com massagem e a com elevação, que inclina a base para a frente para ajudar a pessoa a sair da poltrona.",
           "No varejo, a poltrona do papai vai de cerca de R$ 550, nas manuais, a mais de R$ 7.000, nas elétricas com massagem. É a faixa que observamos, e ela muda com o modelo, o revestimento e a forma de pagamento.",
-          "Para presentear pais ou avós, três conferências valem mais que o visual. Primeiro, a altura do assento: a pessoa precisa sentar e levantar sem esforço. Segundo, o peso máximo informado na página do modelo. Terceiro, um controle simples de usar. Quem tem dificuldade de levantar deve olhar a elétrica com elevação. A DAMIE indica essa base para idosos, e dizemos só isso: não prometemos efeito na saúde de quem usa. Se o presente é para o seu pai, [presente de Natal para pai: quando a poltrona do papai vale a pena](/reviews/presente-de-natal-para-pai-poltrona-do-papai) mostra o modelo para cada rotina, como conferir as medidas sem acabar com a surpresa e as referências de prazo para o Natal."
+          "Para presentear pais ou avós, três conferências valem mais que o visual. Primeiro, a altura do assento: a pessoa precisa sentar e levantar sem esforço. Segundo, o peso suportado: a página da DAMIE traz números diferentes (160 kg nos destaques e 120 kg na descrição); confirme com a loja antes de comprar. Terceiro, um controle simples de usar. Quem tem dificuldade de levantar deve olhar a elétrica com elevação. A DAMIE indica essa base para idosos. Se o presente é para o seu pai, [presente de Natal para pai: quando a poltrona do papai vale a pena](/reviews/presente-de-natal-para-pai-poltrona-do-papai) mostra o modelo para cada rotina, como conferir as medidas sem acabar com a surpresa e as referências de prazo para o Natal."
         ],
         "comparisonTable": {
           "caption": "Poltronas reclináveis da DAMIE no site oficial. Os preços mudam com o revestimento (suede, bouclé, linho, corino importado e couro bovino, exceto Aurora e Levita) e sem aviso.",
@@ -139577,17 +139960,18 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "As quatro primeiras bases existem na [Poltrona Reclinável 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0), a versão atual. Ela tem almofada de cabeça móvel e acolchoada com regulagem de altura, bolsos laterais maiores, apoio de braço contínuo e apoio de pés com mais espuma. As medidas da 2.0, pelo desenho da marca, são 106 cm de altura, 89 cm de largura e 95 cm de profundidade, com 174 cm de comprimento totalmente reclinada. Ela é feita no Brasil, com SoftSpring (molas nosag, espuma e fibra siliconada), mecanismo em aço carbono e estrutura de eucalipto, compensado naval e metal.",
-          "Durante a campanha, a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) diz que quem compra uma poltrona ganha a massagem, a entrada USB (tipo A e tipo C) e o porta-copos, e que o preço das poltronas já vem com R$ 1.000 de desconto. Os outros opcionais estavam com preço de campanha: mesa de apoio por R$ 490, carregador de celular por indução por R$ 590 e motor do apoio de cabeça por R$ 1.000. O encosto fixo mais alto, para quem tem mais de 1,85 m, custava R$ 450 no configurador. Confira no carrinho os brindes que entram no seu pedido.",
-          "Para quem compra mais de uma, como o par para os pais, a mesma página dá desconto por quantidade nas reclináveis e na Poltrona Cinema, durante a campanha: R$ 500 em 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Antes de pagar, confirme com a DAMIE como esse desconto entra no pedido e se soma com o CECILIA12.",
+          "Até 27/11, a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) dá a quem compra uma poltrona a massagem, a entrada USB (tipo A e tipo C) e o porta-copos como brinde da campanha, e o preço das poltronas já vem com R$ 1.000 de desconto. A massagem avulsa tem 20% OFF, e os outros opcionais estão com preço de campanha: mesa de apoio por R$ 490, carregador de celular por indução por R$ 590 e motor do apoio de cabeça por R$ 1.000. O encosto fixo mais alto, para quem tem mais de 1,85 m, custa R$ 450 no configurador. Confira no carrinho os brindes que entram no seu pedido.",
+          "Para quem compra mais de uma, como o par para os pais, os consultores da DAMIE no WhatsApp dão desconto por quantidade nas reclináveis e na Poltrona Cinema: R$ 500 em 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Esse desconto soma com o CECILIA12; confirme com o consultor como ele entra no pedido.",
           "Com o CECILIA12, a elétrica com giro e balanço, a partir de R$ 4.299, sai por R$ 3.783,12 no cartão. No Pix, pela nossa conta, aplicando um desconto sobre o outro, cai para R$ 3.404,81.",
-          "Nas primeiras semanas de uso, contamos como foi a nossa, elétrica com giro e balanço em corino importado caramelo, no artigo [Poltrona Damie é boa? Minha experiência com a nova versão 2.0](/reviews/poltrona-damie-e-boa). Ela foi usada todos os dias por todos em casa e pelas visitas, e a massagem foi o opcional favorito da Cecília. A [experiência com as reclináveis DAMIE](/reviews/poltronas-reclinaveis-damie-vale-o-investimento) tem a compra, a montagem e o tecido. Para quem compra pensando nos pais, o subdomínio da DAMIE tem três guias: [poltrona reclinável para idosos](https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos), [a melhor poltrona para o seu pai](https://damie.emcasacomcecilia.com/guias/melhor-poltrona-para-o-seu-pai-dia-dos-pais) e [poltrona do papai com massagem](https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem)."
+          "Nas primeiras semanas de uso, contamos como foi a nossa, elétrica com giro e balanço em corino importado caramelo, no artigo [Poltrona Damie é boa? Minha experiência com a nova versão 2.0](/reviews/poltrona-damie-e-boa). Ela foi usada todos os dias por todos em casa e pelas visitas, e a massagem foi o opcional favorito da Cecília. A [experiência com as reclináveis DAMIE](/reviews/poltronas-reclinaveis-damie-vale-o-investimento) tem a entrega, a montagem e o tecido. Para quem compra pensando nos pais, o subdomínio da DAMIE tem três guias: [poltrona reclinável para idosos](https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos), [a melhor poltrona para o seu pai](https://damie.emcasacomcecilia.com/guias/melhor-poltrona-para-o-seu-pai-dia-dos-pais) e [poltrona do papai com massagem](https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem)."
         ],
         "image": {
-          "src": "/images/reviews/poltrona-levita-cecilia-sala.webp",
+          "src": "/images/reviews/poltrona-levita-cecilia-sala-4x5.webp",
           "alt": "Cecília relaxando na Poltrona Levita da DAMIE, em couro caramelo, na sala",
           "caption": "A Cecília na Levita, a reclinável elétrica da DAMIE, do nosso artigo sobre a poltrona. Foto: Em Casa com Cecília.",
-          "objectFit": "portrait",
-          "aspectRatio": 0.5625
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
         }
       },
       {
@@ -139623,15 +140007,16 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Na DAMIE, a [Poltrona Cinema 2.0](https://www.damie.com.br/products/poltrona-cinema-damie-2-0) é modular e vai de 2 a 9 lugares, com ou sem braço divisor. O assento e o encosto usam SoftSpring (sustentação por molas nosag, espuma e fibra siliconada), a estrutura é de aço carbono, a fabricação é no Brasil e a garantia é de 1 ano. Os revestimentos são suede, bouclé, linho, corino importado e couro bovino, e o preço muda com o tecido e com o número de lugares.",
-          "O desconto por quantidade da página de ofertas também vale para a Poltrona Cinema durante a campanha: R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Confirme com a DAMIE como ele entra no pedido da fila.",
+          "O desconto por quantidade dos consultores no WhatsApp também vale para a Poltrona Cinema: R$ 500 na compra de 2 poltronas, R$ 1.000 em 3, R$ 1.500 em 4 e R$ 2.000 em 5. Confirme com o consultor como ele entra no pedido da fila.",
           "Da Cinema 2.0, valem os dados e o preço da loja. A experiência do site é com a reclinável da DAMIE, contada em [Poltrona DAMIE é boa?](/reviews/poltrona-damie-e-boa). A descrição da Cinema 2.0 não detalha o tipo de acionamento, então confira na configuração escolhida se há motor e tomada antes de fechar."
         ],
         "image": {
           "src": "/images/reviews/damie/natal-poltrona-cinema-damie.webp",
           "alt": "Poltrona Cinema DAMIE 2.0 de 2 lugares em tecido bege, com porta-copos nos braços",
           "caption": "Poltrona Cinema DAMIE 2.0 de 2 lugares. Foto oficial da DAMIE.",
-          "objectFit": "square",
-          "aspectRatio": 1
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/poltrona-cinema-damie-2-0"
         }
       },
       {
@@ -139640,13 +140025,13 @@ export const reviewsData: unknown[] = [
           "Natal no Brasil é verão, e o canto da piscina entra na lista de presentes para a casa. Para escolher, o que decide é o material, porque sol, chuva e cloro estragam estofado comum.",
           "Os caminhos são três. O plástico (polipropileno ou polietileno) é o mais simples: a Tramontina tem espreguiçadeiras assim, como a Leblon Basic, por cerca de R$ 630 em varejo. O alumínio com corda náutica é mais durável e mais caro: a faixa observada em lojas foi de cerca de R$ 1.300 a R$ 2.200. E há o tecido impermeável com espuma, que é o puff e a espreguiçadeira macios: a Eco Flame Garden, linha vendida no varejo, tem puffs de área externa com trama náutica, proteção UV e tratamento anticloro, e o Duo Slim saía por cerca de R$ 2.322. A Tidelli é outra marca de móveis externos, com alumínio e trama sintética.",
           "Cuidado com o puff \"de piscina\" barato: os redondos de marketplace a partir de cerca de R$ 199 costumam ser de tecido comum, não impermeável. Antes de comprar, confira se o tecido é impermeável e tem proteção UV.",
-          "A DAMIE tem uma linha própria para a beira da piscina, a Garden. O catálogo tinha seis peças. A espreguiçadeira, os puffs e o apoio do puff usam o tecido que a DAMIE chama de Ultra Poliéster Impermeável Padrão Náutico. A página diz: não absorve água, não mancha, evita mofo e tem proteção UV, e as peças podem ficar perto da piscina e até submersas. O miolo é de microesferas de EPS e flocos de espuma. Segundo a DAMIE, há garantia antimofo de 1 ano e resistência ao cloro da piscina.",
-          "A linha é produzida sob encomenda, segundo a DAMIE, com fabricação própria no Rio Grande do Sul, e a entrega é por transportadora de móveis. O prazo aparece na página do produto, ao escolher o estado, e no frete pelo CEP. O frete grátis da DAMIE vale para poltronas e sofás, não para a Garden. O tecido vem em 6 cores: verde militar, azul denim, preto, vermelho, areia e cinza claro. A página fala em 30 dias para experimentar."
+          "A DAMIE tem uma linha própria para a beira da piscina, a Garden. O catálogo tinha seis peças. A espreguiçadeira, os puffs e o apoio do puff usam o tecido que a DAMIE chama de Ultra Poliéster Impermeável Padrão Náutico. A página diz: não absorve água, não mancha, evita mofo e tem proteção UV, e as peças podem ficar perto da piscina e até submersas. O miolo é de microesferas de EPS e flocos de espuma. A página também cita garantia antimofo de 1 ano e resistência ao cloro.",
+          "A linha é produzida sob encomenda, com fabricação própria no Rio Grande do Sul, e a entrega é por transportadora de móveis. O prazo aparece na página do produto, ao escolher o estado, e no frete pelo CEP. O frete grátis da DAMIE vale para poltronas e sofás, não para a Garden. O tecido vem em 6 cores: verde militar, azul denim, preto, vermelho, areia e cinza claro. A página fala em 30 dias para experimentar."
         ],
         "comparisonTable": {
           "headers": [
             "Peça",
-            "Medidas e peso (segundo a DAMIE)",
+            "Medidas e peso",
             "Preço"
           ],
           "rows": [
@@ -139683,7 +140068,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Segundo a página da espreguiçadeira, ela vem com mesa de apoio inclusa, sem custo adicional. A mesa champanheira da tabela é outra peça, vendida à parte. O apoio do puff é vendido separado e é feito para o puff Joy.",
+          "A espreguiçadeira vem com mesa de apoio inclusa, sem custo adicional. A mesa champanheira da tabela é outra peça, vendida à parte. O apoio do puff é vendido separado e é feito para o puff Joy.",
           "O vídeo da espreguiçadeira na água, no [guia da linha Garden](https://damie.emcasacomcecilia.com/guias/linha-garden-damie-moveis-de-area-externa), é vídeo da marca: o que está aqui vem das páginas de produto da DAMIE."
         ],
         "images": [
@@ -139691,24 +140076,26 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/damie/natal-puff-joy.webp",
             "alt": "Puff de piscina Joy da DAMIE na cor areia, em fundo branco",
             "caption": "Puff de piscina Joy, da linha Garden. Foto oficial da DAMIE.",
-            "objectFit": "square",
-            "aspectRatio": 1
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.damie.com.br/products/puff-joy"
           },
           {
             "src": "/images/reviews/damie/natal-apoio-puff-joy.webp",
             "alt": "Apoio do puff Joy da DAMIE na cor verde, em fundo branco",
             "caption": "Apoio do puff Joy, vendido à parte. Foto oficial da DAMIE.",
-            "objectFit": "square",
-            "aspectRatio": 1
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.damie.com.br/products/apoio-puff"
           }
         ]
       },
       {
         "heading": "Black Friday ou Natal: quando comprar",
         "paragraphs": [
-          "Para presentear com um móvel no Natal, confira primeiro o prazo do produto para o CEP de entrega. Espere a Black Friday de 27 de novembro só se a previsão de fabricação e transporte couber até 25 de dezembro; em móvel sob encomenda, o intervalo entre as datas não garante a chegada.",
-          "O prazo de entrega aparece no cálculo do frete, pelo CEP, antes de pagar, e conta da confirmação do pagamento. Na página do produto, ele também aparece ao escolher o estado. O Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. O logo bordado, opcional nas reclináveis, soma 7 dias. Por isso, não existe uma data de corte igual para todo mundo: ela depende do CEP, do produto e do dia em que o pagamento for confirmado. Por isso, este guia não dá data de chegada.",
-          "Também não precisa esperar o dia 27: a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) já mostrava as condições da campanha, válidas até o dia da Black Friday. Entram brindes na compra de uma poltrona, R$ 1.000 de desconto já aplicado nas poltronas, desconto por quantidade nas reclináveis e na Poltrona Cinema, acessórios com preço de campanha e frete grátis no Sul e no Sudeste, aplicado no checkout. Confira no carrinho se o CECILIA12 soma com cada um. A tabela de preços para comparar na campanha está em [Black Friday DAMIE 2026](/reviews/black-friday-damie)."
+          "Para presentear com um móvel no Natal, confira primeiro o prazo do produto para o CEP de entrega. A campanha de Black Friday da DAMIE já está no ar e vale até 27/11; em móvel sob encomenda, o que decide é a previsão de fabricação e transporte caber até 25 de dezembro.",
+          "O prazo de entrega aparece no cálculo do frete, pelo CEP, antes de pagar, e conta da confirmação do pagamento. Na página do produto, ele também aparece ao escolher o estado. O Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. O logo bordado, opcional nas reclináveis, soma 7 dias. Por isso não existe data de corte igual para todo mundo, e este guia não dá data de chegada: ela depende do CEP, do produto e do dia em que o pagamento for confirmado.",
+          "Também não precisa esperar o último dia: a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) já mostra as condições da campanha, válidas até 27/11 ou enquanto durarem os estoques. Entram brindes na compra de uma poltrona (massagem, entrada USB e porta-copos), R$ 1.000 de desconto já aplicado nas poltronas, 20% OFF no acessório de massagem, giftback de 15% para a próxima compra e frete grátis no Sul e no Sudeste, aplicado no checkout. O CECILIA12 soma com as promoções, mas não com o giftback. A tabela de preços para comparar na campanha está em [Black Friday DAMIE 2026](/reviews/black-friday-damie)."
         ],
         "comparisonTable": {
           "headers": [
@@ -139717,12 +140104,8 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Antes da Black Friday",
-              "Meça o espaço e a porta, escolha o móvel e anote o preço de hoje para comparar com a campanha."
-            ],
-            [
-              "Black Friday",
-              "Compare com o preço anotado. Aplique o CECILIA12 no carrinho e confira se ele soma com a campanha."
+              "Até 27/11",
+              "Meça o espaço e a porta, escolha o móvel e aplique o CECILIA12 no carrinho: ele soma com a campanha."
             ],
             [
               "Antes de pagar, qualquer dia",
@@ -139738,39 +140121,55 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/damie/natal-calendario-black-friday-natal.webp",
           "alt": "Quadro com o calendário do presente: hoje, meça e anote o preço; 27/11, Black Friday; antes de pagar, prazo pelo CEP; 25/12, Natal",
           "caption": "O prazo certo vem do frete pelo CEP e conta da confirmação do pagamento. Quadro: Em Casa com Cecília.",
-          "objectFit": "wide",
+          "objectFit": "contain",
           "aspectRatio": 1.7778
         }
       },
       {
         "heading": "Cupom e pagamento",
         "paragraphs": [
-          "O CECILIA12 dá 12% de desconto em todo o site da DAMIE. Hoje ele soma com as promoções e com os 10% do Pix à vista. É um cupom por pedido: ele não soma com outro cupom nem com o giftback da loja. A [página do cupom](/cupons/damie) tem o código para copiar e a data do último teste.",
-          "Durante a campanha, a DAMIE também devolve 15% do pedido em giftback para a próxima compra. Na compra em que você usar esse giftback, o CECILIA12 não entra junto: é um ou outro.",
+          "O CECILIA12 dá 12% de desconto em todo o site da DAMIE, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix à vista. É um cupom por pedido: não soma com outro cupom nem com o giftback da loja. A página do [cupom DAMIE](/cupons/damie) tem o código para copiar e as regras.",
+          "Durante a campanha, a DAMIE também devolve 15% do pedido em giftback para a próxima compra.",
           "A conta de exemplo, nossa: a espreguiçadeira Caraíva custa R$ 2.250. Com os 12% do CECILIA12, vai a R$ 1.980 no cartão. No Pix, entram também os 10%, e, pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.782. O resumo do checkout mostra o valor exato antes de pagar.",
-          "O cartão e o PayPal parcelam em até 12x sem juros, com parcela mínima de R$ 100, e o boleto é à vista. Na Black Friday, confira no carrinho se o cupom soma com a campanha antes de pagar. O passo a passo no checkout está em [como usar o CECILIA12](/reviews/cupom-cecilia12-como-usar)."
+          "O cartão e o PayPal parcelam em até 12x sem juros, com parcela mínima de R$ 100, e o boleto é à vista. O passo a passo no checkout está em [como usar o CECILIA12](/reviews/cupom-cecilia12-como-usar)."
         ]
       },
       {
-        "heading": "Qual móvel escolher",
-        "emphasis": "Para presentear alguém com dificuldade de levantar, considere a base com elevação indicada pela DAMIE. Confirme com a pessoa a altura do assento, o peso suportado e o uso do controle antes de escolher.",
+        "heading": "Qual móvel escolher para presentear?",
+        "emphasis": "Na minha casa, eu daria a poltrona reclinável elétrica com giro e balanço, a que usamos todo dia, e para a sala escolheria o sofá modular de 3 lugares. A base com elevação eu só procuraria para quem tem dificuldade de levantar.",
         "bullets": [
-          "**Para os pais:** a poltrona reclinável, a chamada poltrona do papai. Quem tem dificuldade de levantar pode olhar a versão com elevação, que a marca indica para esse uso. Na DAMIE, a reclinável vai de R$ 2.969 a R$ 6.149, conforme a base e o revestimento.",
-          "**Para a sala:** o sofá modular. Ele chega em caixas, passa por escada e elevador pequeno, e o 3 lugares da DAMIE custa de R$ 5.100 a R$ 8.100, com apoio de pé grátis.",
+          "**Para os pais:** a poltrona reclinável, a chamada poltrona do papai. Quem tem dificuldade de levantar pode olhar a versão com elevação, que a marca indica para esse uso.",
+          "**Para a sala:** o sofá modular. Ele chega em caixas, o que ajuda em escada e elevador pequeno, desde que cada caixa passe pelo percurso.",
           "**Para cinema em casa ou piscina:** veja as seções anteriores sobre a Poltrona Cinema, de 2 a 9 lugares, e a Garden, com espreguiçadeira e puffs de 120 cm. Confira espaço, prazo e configuração de cada peça.",
-          "**Quando comprar:** decida pelo prazo do produto para o CEP, incluindo fabricação quando houver. Espere a Black Friday só se a previsão couber até o Natal; confirme antes de pagar.",
-          "**Cupom:** na DAMIE, o CECILIA12 dá 12% OFF em todo o site e hoje soma com as promoções e com os 10% do Pix. As regras e a data do último teste estão na [página da DAMIE](/cupons/damie)."
+          "**Quando comprar:** decida pelo prazo do produto para o CEP, incluindo fabricação quando houver. A campanha vai até 27/11; confirme a previsão antes de pagar."
+        ],
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=presente-de-natal-para-casa-moveis",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Poltrona Reclinável 2.0 na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções da loja e com o Pix.",
           "Qual móvel dar de presente de Natal para os pais? Uma poltrona reclinável costuma ser a escolha, e a DAMIE tem uma base com elevação, que inclina para a frente para ajudar a levantar e que a marca indica para idosos.",
           "Chega antes do Natal se eu comprar na Black Friday? Depende do CEP e do produto. O prazo aparece no frete, antes de pagar, e conta da confirmação do pagamento: confira ali, sem contar com data de chegada.",
           "Puff de piscina pode ficar no sol e na chuva? Só o de tecido impermeável com proteção UV. Segundo a DAMIE, o tecido dos puffs e da espreguiçadeira Garden não absorve água e pode ficar perto da piscina e até submerso.",
           "Poltrona de cinema precisa de tomada? As elétricas precisam de uma tomada por perto. Confira na configuração da Cinema 2.0 se há motor antes de comprar.",
-          "O CECILIA12 vale na Black Friday? Hoje ele soma com as promoções e com o Pix. a [página do cupom](/cupons/damie) traz a data do último teste.",
-          "Quanto custa uma poltrona de cinema para casa? A Cinema 2.0 da DAMIE ia de R$ 5.438 a R$ 8.380 no modelo de 2 lugares, conforme o revestimento. No varejo, as linhas de 2 e 3 lugares estavam de cerca de R$ 3.800 a R$ 7.900."
+          "O CECILIA12 soma com a Black Friday? Ele soma com as promoções do site e com o Pix, mas não com o giftback de 15% nem com outro cupom.",
+          "Quanto custa uma poltrona de cinema para casa? A Cinema 2.0 da DAMIE muda de preço com o número de lugares e o revestimento; veja a tabela da seção de cinema e confira o valor no site antes de decidir."
         ]
       }
     ],
@@ -139794,7 +140193,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Podemos receber comissão pelo CECILIA12. Só usamos a reclinável e o sofá modular.",
+    "editorialNote": "Reclinável e sofá DAMIE recebidos em parceria; o CECILIA12 pode render comissão.",
     "relatedArticles": [
       {
         "slug": "black-friday-damie"
@@ -146943,7 +147342,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": false,
     "description": "Valley Modular e Inflow vendem sofá de espuma a vácuo, e a DAMIE manda módulos de madeira. Compare garantia, teste em casa, devolução, prazo e preço para escolher.",
@@ -146962,7 +147361,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "O sofá DAMIE foi recebido em parceria. Relatamos nosso uso e comparamos dados públicos das marcas. O cupom CECILIA12 pode gerar comissão.",
+    "editorialNote": "Sofá DAMIE recebido em parceria. Dados públicos das marcas. CECILIA12 rende comissão.",
     "relatedArticles": [
       {
         "slug": "sofa-na-caixa-inflow-ou-damie"
@@ -146978,13 +147377,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, contra 6 meses na Valley Modular e 3 meses na Inflow. O código CECILIA12 dá 12% OFF na DAMIE."
+          "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, guardando a embalagem original, contra 6 meses na Valley Modular e 3 meses na Inflow. O código CECILIA12 dá 12% OFF na DAMIE."
         ]
       },
       {
         "heading": "Valley Modular é a mesma empresa que a Inflow?",
         "paragraphs": [
-          "Três marcas, três sofás que chegam em caixa: Valley Modular, Inflow e DAMIE. O que separa as três é como o sofá chega, a garantia e a devolução. A DAMIE é parceira do site, e a Cecília tem o sofá modular dela em casa. Ninguém da equipe usou os sofás da Valley Modular nem da Inflow: elas entram só pelo que o site publica e pelo preço.",
+          "Três marcas, três sofás que chegam em caixa: Valley Modular, Inflow e DAMIE. O que separa as três é como o sofá chega, a garantia e a devolução. A DAMIE é parceira do site, e a Cecília tem o sofá modular dela em casa. A Valley Modular e a Inflow entram pelo que cada site publica e pelo preço.",
           "A primeira dúvida de quem pesquisa é se a Valley Modular é a Inflow com outro nome. Não. São empresas diferentes:"
         ],
         "bullets": [
@@ -147005,18 +147404,20 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/sofa-damie-na-caixa-cecilia-hero.webp",
+            "src": "/images/reviews/sofa-damie-na-caixa-cecilia-hero-4x5.webp",
             "alt": "Módulos do sofá DAMIE montados na sala da Cecília, com um braço de porta-copos em primeiro plano.",
             "caption": "Os módulos do meu sofá DAMIE já montados: cada um chega pronto e se liga ao vizinho por encaixe.",
-            "objectFit": "portrait",
-            "aspectRatio": 0.5625
+            "objectFit": "contain",
+            "aspectRatio": 0.8,
+            "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
           },
           {
             "src": "/images/reviews/damie/valley-inflow-ou-damie-damie-sofa-e-caixa.webp",
             "alt": "Foto oficial da DAMIE: o sofá modular 2 lugares bege ao lado da caixa de papelão em que os módulos chegam.",
             "caption": "Na DAMIE os módulos chegam em caixas reforçadas, já com estrutura, e se encaixam sem ferramenta (foto da loja).",
-            "objectFit": "square",
-            "aspectRatio": 1.016
+            "objectFit": "contain",
+            "aspectRatio": 1.0158,
+            "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-2-lugares"
           }
         ]
       },
@@ -147095,10 +147496,10 @@ export const reviewsData: unknown[] = [
               "10% no Pix; até 12x sem juros"
             ],
             [
-              "Reclame Aqui, 6 meses",
+              "Reclame Aqui, semestre",
               "Sem reputação definida; 2 reclamações",
-              "RA1000, nota 8,5",
-              "Ótima, nota 8,3"
+              "Ótima, nota 8,2",
+              "Boa, nota 7,9"
             ]
           ]
         }
@@ -147108,13 +147509,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Preços no cartão dos sites das três. Os modelos não são idênticos: a DAMIE vende o modular com o puff incluído; na Valley Modular e na Inflow, o apoio de pé é um módulo a mais, e as linhas \"com apoio\" já trazem esse módulo no preço. O número de módulos muda de uma marca para a outra, e cada linha diz o tecido. A comparação é de ordem de grandeza, não de centavos."
         ],
-        "image": "/images/reviews/damie/valley-inflow-ou-damie-precos-cartao.webp",
-        "imageAlt": "Quadro com o preço no cartão do sofá de 2 e de 3 lugares da Valley Modular, da Inflow e da DAMIE em 25/10/2026.",
-        "imageCaption": "Preços no cartão; Pix e parcelas no texto.",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.9685,
         "comparisonTable": {
-          "caption": "Preço no cartão do sofá de 2 lugares e do 3 lugares com 2 cantos em 25/10/2026",
+          "caption": "Preço no cartão do sofá de 2 lugares e do 3 lugares com 2 cantos, em 23/11/2026",
           "headers": [
             "Marca",
             "Modelo",
@@ -147124,12 +147520,12 @@ export const reviewsData: unknown[] = [
             [
               "Valley Modular",
               "Modu 2 lugares com 2 cantos, em bouclê, sem apoio (190 × 95 cm)",
-              "R$ 3.189"
+              "R$ 3.189 (de R$ 4.200)"
             ],
             [
-              "Valley Modular",
-              "Modu 2 lugares com canto e apoio de pé, em bouclê (260 cm)",
-              "R$ 4.175 (de R$ 5.219)"
+              "Inflow",
+              "2 lugares com 2 cantos, em bouclê bege",
+              "R$ 3.390 (de R$ 4.199)"
             ],
             [
               "Inflow",
@@ -147142,19 +147538,14 @@ export const reviewsData: unknown[] = [
               "R$ 3.850 (de R$ 5.150)"
             ],
             [
+              "Inflow",
+              "3 lugares com 2 cantos, em bouclê bege",
+              "R$ 4.060 (de R$ 5.929)"
+            ],
+            [
               "Valley Modular",
               "Modu 3 lugares com 2 cantos, em bouclê (260 × 95 × 73 cm)",
-              "R$ 4.930 (de R$ 5.820)"
-            ],
-            [
-              "Valley Modular",
-              "Modu 3 lugares com 2 cantos e 1 apoio de pé, em bouclê",
-              "R$ 5.986 (de R$ 7.319)"
-            ],
-            [
-              "Inflow",
-              "3 lugares com 2 cantos, em bouclê",
-              "R$ 4.060"
+              "R$ 4.390 (de R$ 5.820)"
             ],
             [
               "Inflow",
@@ -147165,12 +147556,17 @@ export const reviewsData: unknown[] = [
               "DAMIE",
               "Modular 3 lugares com puff, em suede ou bouclé (mesmo preço nos dois)",
               "R$ 5.100 (de R$ 6.100)"
+            ],
+            [
+              "Valley Modular",
+              "Modu 3 lugares com 2 cantos e 1 apoio de pé, em bouclê",
+              "R$ 5.986 (de R$ 7.319)"
             ]
           ]
         },
         "postParagraphs": [
-          "No Pix, a Valley Modular dá 5% e a Inflow e a DAMIE dão 10%; o parcelamento vai até 10x na Valley Modular e na Inflow e até 12x na DAMIE. Na DAMIE, o cupom CECILIA12 tira mais 12% e soma com o desconto do Pix. O sofá-cama Mood, da Valley Modular, saía por R$ 3.150 no 2 lugares e R$ 4.190 no 3 lugares, mas é outro tipo de sofá e não entra na conta.",
-          "Antes de código e frete, no 3 lugares com apoio, a Inflow tem o menor preço no cartão (R$ 4.790, em bouclê) e a Valley Modular, o maior (R$ 5.986). No 2 lugares com apoio, a ordem é a mesma: Inflow (R$ 3.790), DAMIE (R$ 3.850, com o puff) e Valley Modular (R$ 4.175). O menor número da tabela é o Modu 2 lugares com 2 cantos sem apoio, R$ 3.189, que é um sofá menor, de 190 cm. Compare configurações equivalentes, com o mesmo meio de pagamento, descontos aplicáveis e frete: a Valley Modular não publica regra de frete grátis, e as outras duas só dão no Sul e no Sudeste."
+          "No Pix, a Valley Modular dá 5% e a Inflow e a DAMIE dão 10%; o parcelamento vai até 10x na Valley Modular e na Inflow e até 12x na DAMIE. Na DAMIE, o CECILIA12 tira mais 12% e soma com o desconto do Pix. O sofá-cama Mood, da Valley Modular, é outro tipo de sofá e não entra na conta.",
+          "Antes de código e frete, no 3 lugares com apoio, a Inflow tem o menor preço no cartão (R$ 4.790, em bouclê) e a Valley Modular, o maior (R$ 5.986); a DAMIE fica no meio, com o puff incluído. No 2 lugares com apoio, a Inflow (R$ 3.790) e a DAMIE (R$ 3.850, com o puff) ficam lado a lado. O menor número da tabela é o Modu 2 lugares com 2 cantos sem apoio, R$ 3.189, que é um sofá menor, de 190 cm. Compare configurações equivalentes, com o mesmo meio de pagamento, descontos aplicáveis e frete: a Valley Modular não publica regra de frete grátis, e as outras duas só dão no Sul e no Sudeste."
         ]
       },
       {
@@ -147181,23 +147577,18 @@ export const reviewsData: unknown[] = [
           "**Valley Modular: 7 dias, na embalagem original.** A política de devoluções da marca repete o prazo de 7 dias do artigo 49 do CDC: o produto volta na embalagem original, sem sinais de mau uso, e os motivos aceitos são defeito, modelo errado ou medida errada. A marca não aceita devolução por variação de tom nem por cor pedida errada. A página não diz se o sofá já expandido entra na devolução nem quem paga o frete de volta, e não há teste em casa além do prazo legal. A garantia de 6 meses aparece na ficha do produto e no FAQ da loja; a página de políticas não fala de garantia. A entrega não é agendada, sai em horário comercial, e a página avisa que a transportadora não sobe escada.",
           "**Inflow: a política exige lacre.** A política da loja condiciona o arrependimento à embalagem fechada e atribui o frete de retorno ao cliente. Depois de aberto, o sofá só se troca por defeito, dentro da garantia: a ficha do produto diz 3 meses e a política, 90 dias para relatar o defeito, que é o mesmo prazo."
         ],
-        "image": "/images/reviews/damie/valley-inflow-ou-damie-garantia-teste-devolucao-prazo.webp",
-        "imageAlt": "Quadro com garantia, teste em casa, devolução por arrependimento e prazo da Valley Modular, da Inflow e da DAMIE.",
-        "imageCaption": "Garantia, teste em casa, devolução e prazo, como cada marca publica.",
-        "imageFit": "contain",
-        "imageAspectRatio": 1.3311,
         "postParagraphs": [
-          "**O prazo da Valley Modular.** A marca produz sob encomenda (\"produzimos para pessoas, não para estoque\") e informa de 20 a 30 dias úteis de produção antes do envio, conforme a cor; o Modu marcava 30 dias úteis. O transporte entra depois, pelo CEP. Na Inflow e na DAMIE, o prazo aparece no cálculo do frete; na DAMIE, ele conta da confirmação do pagamento. Na Inflow e na DAMIE, atraso na entrega é a queixa mais comum no Reclame Aqui, como mostra o guia de Sofá na Caixa, Inflow ou DAMIE. A Valley Modular tem poucos registros para avaliar.",
+          "**O prazo da Valley Modular.** A marca produz sob encomenda (\"produzimos para pessoas, não para estoque\") e informa de 20 a 30 dias úteis de produção antes do envio, conforme a cor; o Modu marcava 30 dias úteis. O transporte entra depois, pelo CEP. Na Inflow e na DAMIE, o prazo aparece no cálculo do frete; na DAMIE, ele conta da confirmação do pagamento. Na Inflow e na DAMIE, atraso na entrega é a queixa mais comum na aba Geral do Reclame Aqui, como mostra [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie). A Valley Modular tem poucos registros para avaliar.",
           "Para comparar teste em casa, separe o prazo comercial adicional da DAMIE das regras de arrependimento. A Valley Modular não esclarece o retorno do sofá expandido, e a Inflow exige o produto lacrado para devolver. Na DAMIE, a decisão pode esperar os 30 dias, com a embalagem guardada."
         ]
       },
       {
         "heading": "E a reputação das três no Reclame Aqui?",
         "paragraphs": [
-          "Dados do Reclame Aqui de abril a setembro de 2026. Esses dados descrevem o período, não o atendimento de compras futuras."
+          "Dados do Reclame Aqui. Solução e \"voltariam a fazer negócio\" valem para as reclamações avaliadas, e a Inflow tem só 83 avaliadas, uma base pequena. Esses dados descrevem o período, não o atendimento de compras futuras."
         ],
         "comparisonTable": {
-          "caption": "Reclame Aqui, últimos 6 meses",
+          "caption": "Reclame Aqui, janela de 01/05 a 31/10/2026",
           "headers": [
             "",
             "Valley Modular",
@@ -147208,56 +147599,56 @@ export const reviewsData: unknown[] = [
             [
               "Reputação",
               "Sem reputação definida",
-              "RA1000",
-              "Ótima"
+              "Ótima, nota 8,2",
+              "Boa, nota 7,9"
             ],
             [
-              "Nota",
-              "Não há",
-              "8,5",
-              "8,3"
-            ],
-            [
-              "Reclamações",
+              "Reclamações recebidas",
               "2",
-              "144",
-              "218"
+              "154",
+              "192"
             ],
             [
               "Respondidas",
               "50% (1 aguardando)",
-              "98,6%",
+              "98,7%",
               "100%"
             ],
             [
-              "Resolvidas entre as avaliadas",
+              "Reclamações avaliadas",
+              "0",
+              "83",
+              "125"
+            ],
+            [
+              "Resolvidas, entre as avaliadas",
               "Não há",
-              "94,2%",
-              "86,8%"
+              "90,4%",
+              "83,2%"
             ],
             [
               "Voltariam a fazer negócio, entre as avaliadas",
               "Não há",
-              "73,3%",
-              "76,2%"
+              "68,7%",
+              "70,4%"
             ],
             [
               "Nota do consumidor",
               "Não há",
-              "7,45",
-              "7,34"
+              "7,19",
+              "6,78"
             ],
             [
               "Tempo de resposta",
               "24 dias e 18 horas",
-              "7 dias e 13 horas",
-              "13 horas"
+              "6 dias e 20 horas",
+              "15 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "A Valley Modular está sem reputação definida porque tem menos de 10 avaliações no período: foram 2 reclamações, 1 respondida e 1 aguardando resposta. No histórico geral da página, são 9 reclamações, 88,9% respondidas e 1 avaliada. A página traz o selo de empresa verificada, que confirma a existência da empresa e não é uma nota. Com tão poucos registros, o Reclame Aqui não diz muito sobre a Valley Modular, nem para bem nem para mal.",
-          "A Inflow tem selo RA1000 e índice de solução de 94,2% entre as avaliadas; a DAMIE tem reputação Ótima e média de resposta de 13 horas. São indicadores de atendimento no perfil e no período, não prazo garantido nem taxa de sucesso de todos os pedidos."
+          "A Valley Modular está sem reputação definida porque, segundo o próprio Reclame Aqui, ainda não tem 10 reclamações avaliadas para calcular a nota: foram 2 reclamações no período, 1 respondida e 1 aguardando resposta. Com tão poucos registros, o Reclame Aqui não diz muito sobre a Valley Modular, nem para bem nem para mal.",
+          "A Inflow tem reputação Ótima e 90,4% de solução entre as avaliadas, e já não aparece como RA1000. A DAMIE tem reputação Boa e a menor média de resposta, 15 horas. São indicadores de atendimento no perfil e no período, não prazo garantido nem taxa de sucesso de todos os pedidos."
         ]
       },
       {
@@ -147266,16 +147657,14 @@ export const reviewsData: unknown[] = [
           "O meu sofá da DAMIE já virou um dos móveis mais usados da rotina aqui de casa: receber visitas, conversar, brincar com os filhos, ler e tirar um cochilo. O uso é de moderado a intenso, e o sofá continua igual ao dia em que chegou, com o mesmo conforto, a estrutura e a parte elétrica funcionando.",
           "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet. Eles não vêm no sofá básico nem entram nos preços das tabelas acima. Contei como foi a escolha do modelo e o que eu observaria antes de comprar em [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
         ],
-        "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conforto.webp",
-        "imageAlt": "Cecília sentada no sofá modular DAMIE azul, com o braço apoiado no encosto, sorrindo.",
-        "imageCaption": "Eu no meu sofá DAMIE: uso de moderado a intenso, e ele continua igual ao dia em que chegou.",
-        "imageFit": "portrait"
-      },
-      {
-        "heading": "Cupom CECILIA12 na DAMIE",
-        "paragraphs": [
-          "O **CECILIA12** é um cupom de 12% de desconto em todo o site da DAMIE. Vale em todas as formas de pagamento, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições e o passo a passo estão na [página do cupom da DAMIE](/cupons/damie). Este texto não traz cupom da Valley Modular nem da Inflow."
-        ]
+        "image": {
+          "src": "/images/reviews/sofa-damie-na-caixa-cecilia-conforto-4x5.webp",
+          "alt": "Cecília sentada no sofá modular DAMIE azul, com o braço apoiado no encosto, sorrindo.",
+          "caption": "Eu no meu sofá DAMIE: uso de moderado a intenso, e ele continua igual ao dia em que chegou.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+        }
       },
       {
         "heading": "Qual escolher: Valley Modular, Inflow ou DAMIE?",
@@ -147283,26 +147672,43 @@ export const reviewsData: unknown[] = [
           "Cada perfil de compra aponta para uma marca:"
         ],
         "bullets": [
-          "**Quem quer prazo comercial de teste em casa:** a DAMIE divulga trinta dias, com coleta e reembolso desde que a embalagem seja guardada. A Valley Modular e a Inflow não divulgam teste comercial em casa.",
+          "**Quem quer testar em casa:** DAMIE, com 30 dias, coleta e reembolso, guardando a embalagem. Valley Modular e Inflow não têm teste além dos 7 dias do CDC.",
           "**Quem quer a garantia mais longa:** DAMIE, com 1 ano. A Valley Modular dá 6 meses e a Inflow, 3 meses.",
-          "**Menor preço de catálogo no cartão do 3 lugares com apoio, antes de código e frete:** Inflow, em bouclê, por R$ 4.790. A DAMIE vem em R$ 5.100, com o puff incluído, e a Valley Modular é a mais cara nessa linha, R$ 5.986.",
-          "**Menor preço de catálogo no cartão do 2 lugares com apoio, antes de código e frete:** Inflow, em bouclê bege, por R$ 3.790; a DAMIE vem em R$ 3.850, com o puff, e a Valley Modular em R$ 4.175. Se o apoio não importa, o Modu 2 lugares com 2 cantos da Valley Modular sai por R$ 3.189, num sofá de 190 cm.",
+          "**Quem decide pelo preço do 3 lugares com apoio:** a Inflow tem o menor preço de catálogo; a DAMIE fica no meio, com o puff incluído, e a Valley Modular é a mais cara nessa configuração.",
+          "**Quem quer 2 lugares:** Inflow e DAMIE ficam lado a lado com apoio; sem apoio, o Modu da Valley Modular é o menor preço, num sofá de 190 cm.",
           "**Quem precisa de prazo previsível:** na Valley Modular, some de 20 a 30 dias úteis de produção ao frete antes de contar com a entrega. Na Inflow e na DAMIE, o prazo sai no cálculo do frete.",
-          "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste; a Valley Modular calcula o frete pelo CEP, sem regra de frete grátis publicada. Em qualquer uma, confira o frete no carrinho antes de fechar."
+          "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre, onde o CECILIA12 não vale; a Inflow publica frete grátis só no Sul e no Sudeste; a Valley Modular calcula o frete pelo CEP, sem regra de frete grátis publicada. Em qualquer uma, confira o frete no carrinho antes de fechar."
         ],
         "postParagraphs": [
-          "A DAMIE divulga o prazo comercial de teste mais longo e um ano de garantia. A Inflow tem o menor preço de catálogo das configurações com apoio, antes de código e frete. A Valley Modular fica entre as outras em garantia e tem o menor dois lugares sem apoio da tabela. Confira prazo de produção e procedimento de devolução antes de escolher."
+          "Confira prazo de produção e procedimento de devolução antes de escolher.",
+          "O **CECILIA12** é um cupom de 12% de desconto em todo o site da DAMIE. Vale em todas as formas de pagamento, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições e o passo a passo estão na [página do cupom da DAMIE](/cupons/damie)."
         ],
         "emphasis": "Entre essas configurações, eu priorizaria os 30 dias de teste e o ano de garantia da DAMIE. Para decidir pelo preço, compararia o total com descontos e frete, não só o catálogo.",
-        "emphasisAfterParagraph": 1
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=valley-inflow-ou-damie",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o sofá modular na DAMIE",
+            "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Valley Modular é a mesma empresa que a Inflow ou a Sofá na Caixa? Não. A Valley Modular é o nome fantasia da Valley Art LTDA. (CNPJ 30.105.567/0001-93, Hortolândia, SP, ativa desde 2018). A Inflow é da Fast Living Comércio e Distribuição Ltda. (Itapeva, MG, desde 2022) e a Sofá na Caixa é outra empresa, de Rafard (SP). Cada uma tem site e regras próprios.",
-          "Valley Modular é confiável? Sim, a empresa existe e opera: tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, nos últimos 6 meses, o perfil está sem reputação definida, com duas reclamações, uma respondida. São poucos registros para avaliar o atendimento; a ficha e o FAQ divulgam seis meses de garantia.",
-          "Valley Modular ou DAMIE: qual vale mais a pena? Depende do que pesa. A DAMIE dá 30 dias de teste em casa com coleta e 1 ano de garantia; a Valley Modular dá os 7 dias do CDC e 6 meses de garantia. No cartão, a DAMIE com puff ficava abaixo da Valley Modular com apoio nas duas linhas: R$ 3.850 contra R$ 4.175 no 2 lugares e R$ 5.100 contra R$ 5.986 no 3 lugares.",
-          "Valley Modular ou Inflow: qual tem a garantia maior? A Valley Modular divulga seis meses; a Inflow, três meses e noventa dias para relatar defeito na política. Na devolução por arrependimento, a Inflow exige o produto lacrado; confirme o procedimento antes de comprar.",
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Valley Modular e Inflow não têm cupom nosso.",
+          "Valley Modular é a mesma empresa que a Inflow ou a Sofá na Caixa? Não. A Valley Modular é o nome fantasia da Valley Art LTDA. (CNPJ 30.105.567/0001-93, Hortolândia, SP). A Inflow é da Fast Living Comércio e Distribuição Ltda. (Itapeva, MG) e a Sofá na Caixa é outra empresa, de Rafard (SP). Cada uma tem site e regras próprios.",
+          "Valley Modular é confiável? A empresa existe e opera: tem CNPJ ativo e política de devolução publicada. No Reclame Aqui, no semestre, o perfil está sem reputação definida, com duas reclamações e uma respondida. São poucos registros para avaliar o atendimento; a ficha e o FAQ divulgam 6 meses de garantia.",
+          "Valley Modular ou DAMIE: qual vale mais a pena? Depende do que pesa. A DAMIE dá 30 dias de teste em casa, com coleta, guardando a embalagem original, e 1 ano de garantia; a Valley Modular dá os 7 dias do CDC e 6 meses de garantia. No cartão, a DAMIE com puff fica abaixo da Valley Modular com apoio no 3 lugares.",
+          "Valley Modular ou Inflow: qual tem a garantia maior? A Valley Modular divulga 6 meses; a Inflow, 3 meses e 90 dias para relatar defeito na política. Na devolução por arrependimento, a Inflow exige o produto lacrado; confirme o procedimento antes de comprar.",
           "Posso devolver o sofá da Valley Modular depois de abrir? A política publicada fala em 7 dias, na embalagem original e sem sinais de mau uso, por defeito, modelo errado ou medida errada; ela não trata do sofá já expandido nem diz quem paga o frete de volta. Antes de abrir a caixa, confirme com a loja como fica a devolução do sofá expandido.",
           "Quanto tempo leva para chegar um sofá da Valley Modular? A marca produz sob encomenda e informa de 20 a 30 dias úteis de produção antes do envio. O transporte entra depois, com o prazo calculado pelo CEP no carrinho.",
           "A DAMIE também é sofá na caixa? Chega em caixas reforçadas, mas não com espuma compactada: são módulos com estrutura de madeira que se ligam por encaixe, em menos de 10 minutos, segundo a página do produto. O teste de 30 dias vale com a embalagem guardada."
@@ -147311,12 +147717,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Para quem quer testar o sofá em casa por 30 dias, com coleta e reembolso, e 1 ano de garantia: a DAMIE.",
-        "Para quem prioriza o menor preço de catálogo do 3 lugares com apoio, antes de código e frete, e aceita a política de devolução só com o produto lacrado: a Inflow."
+        "Você quer testar o sofá em casa por 30 dias, com coleta e reembolso, guardando a embalagem.",
+        "A garantia de 1 ano pesa mais para você do que o menor preço de catálogo."
       ],
       "skipIf": [
-        "Quando o prazo precisa ser previsível: a Valley Modular produz sob encomenda e soma de 20 a 30 dias úteis ao frete, enquanto na Inflow e na DAMIE o prazo sai no cálculo do frete.",
-        "Você depende de experimentar e devolver, mas ainda não confirmou o procedimento de devolução de cada loja: confirme antes de comprar."
+        "O menor preço do 3 lugares com apoio decide sozinho, mesmo com devolução só com o produto lacrado.",
+        "Você mora no Norte ou no Nordeste: a DAMIE só atende pelo Mercado Livre, onde o CECILIA12 não vale."
       ]
     }
   },
@@ -227957,7 +228363,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "CECILIA12 dá 12% na DAMIE e soma com promoções. Compare os preços de outubro e novembro e veja o que mudou nos brindes da Black Friday.",
     "publishedAt": "9 de novembro de 2026",
     "publishedAtISO": "2026-11-09",
-    "updatedAt": "2026-11-09",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/poltrona-do-papai-black-friday-capa-v2.webp",
@@ -227968,9 +228374,9 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Resposta rápida: poltrona do papai na Black Friday",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "A DAMIE manteve os preços de outubro e acrescentou a massagem como brinde nas reclináveis. O CECILIA12 dá 12% no site, soma com a promoção e deixou as opções comparadas abaixo dos anúncios da marca na Amazon, Magalu e Mercado Livre, antes do frete. Compare abaixo as alternativas manuais, elétricas e com elevação."
+          "A DAMIE manteve os preços de outubro e acrescentou a massagem como brinde nas reclináveis, em campanha até 27/11. O CECILIA12 dá 12% no site, soma com a promoção e o Pix e deixou a elétrica em suede abaixo dos anúncios da própria marca na Amazon, Magalu e Mercado Livre, antes do frete."
         ]
       },
       {
@@ -227987,7 +228393,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.3333
         },
         "comparisonTable": {
-          "caption": "Preços lidos em 9 de novembro, sem frete. As mesmas condições de leitura valem para os demais quadros de modelos.",
+          "caption": "Outras marcas lidas em 9 de novembro, sem frete; DAMIE com preços do site em 23/11/2026, no cartão. As mesmas condições valem para os demais quadros de modelos.",
           "headers": [
             "Modelo e loja",
             "O que você está comparando",
@@ -228017,7 +228423,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A Caravelli é a opção de menor preço deste grupo. A Compass custa mais e anuncia o mecanismo zero wall; a DAMIE em suede custa mais, mesmo com o código. Se o seu objetivo é só ter uma poltrona que recline, essa diferença de preço merece entrar na escolha antes dos acessórios.",
-          "Os valores menores das Matrix mostram que há alternativas mais baratas que a DAMIE. Isso, por si só, não diz qual oferece o mesmo acabamento ou conforto."
+          "Os valores menores das Matrix mostram que há alternativas mais baratas que a DAMIE. Mais barata não quer dizer igual: acabamento e conforto mudam."
         ]
       },
       {
@@ -228068,13 +228474,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Elétricas em couro",
         "paragraphs": [
-          "Para quem procura uma elétrica em couro, a DAMIE ficou abaixo da Armênia e da Alpha nos valores registrados. Isso é uma diferença de preço entre essas ofertas, sem afirmar que os modelos tenham o mesmo acabamento. Confira a composição do revestimento e as medidas antes de escolher pela palavra \"couro\"."
+          "Para quem procura uma elétrica em couro, a DAMIE ficou abaixo da Armênia e da Alpha nos valores registrados. É diferença de preço; o acabamento de cada uma pode ser outro. Confira a composição do revestimento e as medidas antes de escolher pela palavra \"couro\"."
         ],
         "image": {
           "src": "/images/reviews/damie/poltrona-do-papai-armenia-gran-belo.webp",
           "alt": "Poltrona do papai Armênia Power Touch, da Gran Belo, em couro conhaque",
           "caption": "Armênia Power Touch, da Gran Belo, na Magalu.",
-          "objectFit": "square"
+          "objectFit": "contain",
+          "aspectRatio": 1
         },
         "comparisonTable": {
           "caption": "Elétricas em couro.",
@@ -228109,14 +228516,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Giro e balanço: veja qual movimento você quer",
         "paragraphs": [
-          "Girar para conversar com alguém e ter balanço são funções diferentes. A DAMIE reúne as duas; a Boston anuncia giro e outros recursos, mas não deve ser escolhida como se oferecesse o mesmo conjunto de movimentos."
+          "Girar para conversar com alguém e ter balanço são funções diferentes. A DAMIE reúne as duas; a Boston anuncia giro e outros recursos, mas não balança."
         ],
         "image": {
           "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
           "alt": "Poltrona Reclinável 2.0 elétrica com giro e balanço, em suede bege, com porta-copos nos braços",
           "caption": "A reclinável 2.0 com giro e balanço, em suede.",
-          "objectFit": "square",
-          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+          "objectFit": "contain",
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+          "aspectRatio": 1
         },
         "comparisonTable": {
           "caption": "Elétricas com giro.",
@@ -228172,13 +228580,13 @@ export const reviewsData: unknown[] = [
               "Não registrado"
             ],
             [
-              "[Aurora Drossi no Mercado Livre](https://meli.la/2AWkZgj)",
+              "[Aurora, da D'Rossi no Mercado Livre](https://meli.la/2AWkZgj)",
               "PU whisky; elevação e massagem",
               "R$ 4.762",
               "Não registrado"
             ],
             [
-              "[Aurora Drossi no Mercado Livre](https://meli.la/2kvzpFB)",
+              "[Aurora, da D'Rossi no Mercado Livre](https://meli.la/2kvzpFB)",
               "PU bege; elevação",
               "R$ 5.449",
               "Não registrado"
@@ -228199,15 +228607,17 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/poltrona-levita.webp",
             "alt": "Poltrona DAMIE Levita elétrica em couro caramelo, com base giratória preta",
             "caption": "A Levita elétrica, em couro.",
-            "objectFit": "square",
-            "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+            "objectFit": "contain",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita",
+            "aspectRatio": 1
           },
           {
             "src": "/images/reviews/damie/poltrona-aurora-castanho-frontal.webp",
             "alt": "Poltrona DAMIE Aurora giratória em couro castanho, vista de frente",
             "caption": "A Aurora giratória, em couro.",
-            "objectFit": "square",
-            "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora"
+            "objectFit": "contain",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora",
+            "aspectRatio": 1
           }
         ],
         "comparisonTable": {
@@ -228236,7 +228646,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As outras marcas têm preços registrados em novembro, mas ainda não há, nesta seleção, um histórico do ano para dizer que estejam no menor preço.",
+          "Das outras marcas só temos o preço de novembro, então não dá para dizer que é o menor do ano.",
           "Para quem já queria a massagem, a campanha melhora a compra sem aumentar o preço da poltrona. A loja cobra R$ 550 por esse opcional fora da oferta. Se o recurso não interessa, a escolha continua dependendo do modelo, do preço e do frete. Massagem aqui é conforto: para dor ou recuperação, quem orienta é o médico.",
           "O CECILIA12 vale no site da DAMIE em todas as formas de pagamento e soma com as promoções, o Pix e o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15%, que é crédito para uma compra futura. As regras estão na página do [cupom DAMIE](/cupons/damie).",
           "As ofertas anunciadas vão até 27 de novembro, enquanto houver disponibilidade. Os demais benefícios estão no guia da [Black Friday da DAMIE](/reviews/black-friday-damie)."
@@ -228244,7 +228654,8 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Guia da poltrona do papai com massagem",
-            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem"
+            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem",
+            "sponsored": true
           }
         ]
       },
@@ -228252,14 +228663,15 @@ export const reviewsData: unknown[] = [
         "heading": "Por que o desconto mostrado pela loja parece maior?",
         "paragraphs": [
           "Algumas páginas mostram um preço anterior cortado por uma linha, ao lado do valor da oferta. Esse número não comprova quanto a poltrona custava antes da campanha.",
-          "Na manual em suede da DAMIE, o valor usado para apresentar o desconto também inclui os acessórios dados de brinde. Por isso, para saber se a poltrona ficou mais barata, comparamos o preço cobrado em outubro com o de novembro. Nessa comparação, o preço ficou igual e a massagem passou a fazer parte da oferta."
+          "Na DAMIE, a página mostra um preço anterior R$ 1.000 acima do cobrado, e a faixa da campanha soma ainda o valor dos brindes e do frete. Nenhum dos dois números diz quanto a poltrona custava antes. Por isso comparamos o preço cobrado em outubro com o de novembro: ficou igual, e a massagem passou a fazer parte da oferta."
         ],
         "image": {
           "src": "/images/reviews/damie/black-friday-damie-banner-esquenta.webp",
           "alt": "Banner da DAMIE: sua poltrona com 3 presentes e frete grátis, R$ 1.150,00 de economia na compra de qualquer poltrona, com carregador USB, massagem e porta-copos grátis",
           "caption": "A faixa da campanha, com os três presentes e o frete grátis.",
           "objectFit": "contain",
-          "aspectRatio": 2.974
+          "aspectRatio": 2.974,
+          "href": "https://www.damie.com.br/pages/cupons"
         }
       },
       {
@@ -228268,7 +228680,7 @@ export const reviewsData: unknown[] = [
           "Nas configurações comparadas, o site com o CECILIA12 ficou abaixo dos anúncios da própria DAMIE na Amazon, Magalu e Mercado Livre, no cartão e antes do frete. A elétrica em suede mostra essa diferença:"
         ],
         "comparisonTable": {
-          "caption": "Onde comprar a elétrica em suede, no cartão.",
+          "caption": "Marketplaces na leitura de novembro; site em 23/11/2026, no cartão.",
           "headers": [
             "Onde comprar",
             "Preço no cartão"
@@ -228302,24 +228714,42 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Comprar agora pode fazer sentido se o modelo já atende ao que você precisa, o total cabe no orçamento e você quer aproveitar a massagem de brinde. Se prefere esperar outra oferta, ainda não temos o preço do dia da Black Friday para comparar com os atuais.",
           "Antes de decidir, simule a entrega. No CEP consultado, o frete da Toronto foi de R$ 646,98 e o da Austin Lift, de R$ 242,07. Uma diferença desse tamanho pode mudar a ordem dos preços entre lojas; use o seu CEP para fazer a comparação. Se for um [presente de Natal para a casa](/reviews/presente-de-natal-para-casa-moveis), confira também o prazo de entrega.",
-          "Para gastar menos, eu começaria pelas manuais da Matrix. Para reclinar no botão, a DAMIE em suede com o CECILIA12 ficou com o menor preço entre as elétricas em suede e materiais sintéticos desta seleção. Quem precisa de giro, balanço ou elevação deve ficar no grupo que oferece essa função, para não pagar por uma poltrona que não resolve o que procura.",
-          "Recebi poltronas DAMIE em parceria: duas reclináveis 1.0 em linho bege, a 2.0 em corino caramelo com giro e balanço e a [Levita em couro caramelo](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto). O relato da que usamos em casa está em [a Reclinável 2.0 é boa?](/reviews/poltrona-damie-e-boa). Essa experiência não é um teste das outras marcas da seleção."
+          "Quem precisa de giro, balanço ou elevação deve ficar no grupo que oferece essa função, para não pagar por uma poltrona que não resolve o que procura.",
+          "Das poltronas DAMIE, recebi em parceria duas reclináveis 1.0 em linho bege, a 2.0 em corino caramelo com giro e balanço e a [Levita em couro caramelo](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto). O relato da que usamos em casa está em [a Reclinável 2.0 é boa?](/reviews/poltrona-damie-e-boa)."
         ],
         "image": {
-          "src": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp",
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao-4x5.webp",
           "alt": "Cecília Mauad sentada na poltrona reclinável DAMIE em linho bege, com a mão no botão de reclinar",
           "caption": "A reclinável 1.0 em linho bege, aqui em casa.",
-          "objectFit": "portrait",
-          "aspectRatio": 0.5625
-        }
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        },
+        "emphasis": "Para gastar menos, eu começaria pelas manuais da Matrix. Para reclinar no botão, eu compraria a DAMIE em suede com o CECILIA12, que ficou com o menor preço entre as elétricas em suede e materiais sintéticos desta seleção.",
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-do-papai-black-friday",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Reclinável 2.0 na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Poltrona do papai fica mais barata na Black Friday? Na DAMIE, os preços de outubro e novembro que acompanhamos não mudaram, e a campanha acrescentou a massagem nas reclináveis. Para as demais marcas, veja os valores nos quadros e compare o histórico da mesma peça antes de tratar a oferta como a menor do ano.",
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Soma com as promoções e o Pix, mas não vale nos anúncios do Mercado Livre.",
+          "Poltrona do papai fica mais barata na Black Friday? Na DAMIE, os preços que acompanhamos não mudaram entre as duas leituras, e a campanha acrescentou a massagem nas reclináveis. Para as demais marcas, veja os valores nos quadros e compare o histórico da mesma peça antes de tratar a oferta como a menor do ano.",
           "Qual é a poltrona do papai mais barata desta seleção? A Matrix Caravelli é a de menor preço entre os modelos apresentados. Ela é manual; para quem precisa reclinar no botão ou ter ajuda para se levantar, a comparação deve ser feita nos grupos de elétricas ou de elevação.",
-          "Vale esperar a Black Friday? Pode valer para quem quer acompanhar novas ofertas. Quem já escolheu a poltrona pode avaliar a campanha atual pelo preço final, pelos acessórios que deseja e pelo frete.",
-          "Qual é o cupom da DAMIE? O CECILIA12 dá 12% no site da DAMIE, em todas as formas de pagamento, e soma com as promoções e o Pix. Não vale nos anúncios do Mercado Livre.",
+          "Vale esperar a Black Friday? A campanha de Black Friday da DAMIE já está no ar e inclui a massagem. Quem já escolheu a poltrona decide pelo preço final, pelos acessórios e pelo frete; quem espera outra oferta não tem garantia de preço menor.",
           "Como saber se o desconto é real? Compare o preço cobrado pela mesma poltrona, com a mesma base, revestimento e cor, em datas diferentes. O preço anterior mostrado pela loja não substitui esse histórico."
         ]
       }
@@ -228332,7 +228762,8 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe se a oferta só parece boa por causa do preço anterior cortado na página.",
-        "Passe se o frete do seu CEP come a diferença entre as lojas."
+        "Passe se o frete do seu CEP come a diferença entre as lojas.",
+        "Passe se você mora no Norte ou no Nordeste: a DAMIE só entrega por lá pelo Mercado Livre, onde o CECILIA12 não vale."
       ]
     },
     "cta": {
@@ -228343,7 +228774,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Recebemos poltronas DAMIE em parceria e podemos receber comissão pelo cupom e pelos links. As outras marcas não foram testadas.",
+    "editorialNote": "Recebemos poltronas DAMIE em parceria; links com comissão. Outras marcas não testadas.",
     "relatedArticles": [
       {
         "slug": "black-friday-damie"
@@ -228353,6 +228784,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
+      },
+      {
+        "slug": "poltrona-do-papai-eletrica-quanto-custa"
       }
     ]
   },
@@ -228577,7 +229011,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "CECILIA12 dá 12% OFF na poltrona do papai elétrica da DAMIE. Quanto custa cada faixa, do corino ao couro, e o que muda no preço.",
     "publishedAt": "9 de novembro de 2026",
     "publishedAtISO": "2026-11-09",
-    "updatedAt": "2026-11-09",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/poltrona-do-papai-eletrica-quanto-custa-capa-v2.webp",
@@ -228588,9 +229022,9 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
-        "heading": "Resposta rápida: poltrona do papai elétrica",
+        "heading": "Resposta rápida",
         "paragraphs": [
-          "As poltronas do papai elétricas desta seleção vão de cerca de 2,4 mil a 6,5 mil reais, já com o CECILIA12 nas opções da DAMIE. A Matrix Porsche é a entrada; a DAMIE oferece um ano de garantia, teste em casa e 12% com o código. Compare abaixo os modelos por função e veja quais recursos você precisa."
+          "A entrada entre as elétricas desta seleção é a Matrix Porsche. Nas DAMIE, o CECILIA12 dá 12% no site, e elas têm um ano de garantia e 30 dias de teste em casa. O que decide é o movimento que você vai usar: só reclinar, girar ou ajudar a levantar; os quadros abaixo separam os modelos por função."
         ]
       },
       {
@@ -228599,7 +229033,7 @@ export const reviewsData: unknown[] = [
           "Escolha primeiro como a poltrona precisa se mover: apenas reclinar, girar ou ajudar a levantar. Depois compare o revestimento e os acessórios incluídos, porque eles também mudam o preço."
         ],
         "comparisonTable": {
-          "caption": "Menor e maior preço no cartão entre as poltronas deste guia, sem frete, em 9 de novembro. Os preços mudam sem aviso.",
+          "caption": "Menor e maior preço no cartão entre as poltronas deste guia, sem frete. DAMIE com preços do site em 23/11/2026; demais lojas lidas em 9 de novembro. Os preços mudam sem aviso.",
           "headers": [
             "Tipo de poltrona",
             "A partir de",
@@ -228634,7 +229068,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Conta nossa: nas poltronas da DAMIE, os preços deste guia já têm os 12% do CECILIA12, e a coluna de Pix também tem os 10% que a loja dá nessa forma de pagamento. Nas outras marcas, o preço é o do anúncio. Essas marcas eu não testei: o que descrevo delas vem do que cada anúncio informa."
+          "Conta nossa: nas poltronas da DAMIE, os preços deste guia já têm os 12% do CECILIA12, e a coluna de Pix também tem os 10% que a loja dá nessa forma de pagamento. Nas outras marcas, o preço é o do anúncio."
         ]
       },
       {
@@ -228654,7 +229088,8 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/damie/poltrona-do-papai-eletrica-chicago-gran-belo.webp",
             "alt": "Poltrona do papai elétrica Chicago, da Gran Belo, em PU caramelo, com o assento em matelassê",
             "caption": "Chicago, da Gran Belo, em PU. Foto: anúncio na Magalu.",
-            "objectFit": "square"
+            "objectFit": "contain",
+            "aspectRatio": 1
           }
         ],
         "comparisonTable": {
@@ -228707,14 +229142,16 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
             "alt": "Poltrona Reclinável 2.0 elétrica com giro e balanço, em suede bege, com porta-copos nos braços",
             "caption": "A Reclinável 2.0 com giro e balanço, em suede. Foto: DAMIE.",
-            "objectFit": "square",
-            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+            "objectFit": "contain",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "aspectRatio": 1
           },
           {
             "src": "/images/reviews/damie/poltrona-do-papai-eletrica-boston-gran-belo.webp",
             "alt": "Poltrona do papai elétrica Boston, da Gran Belo, em PU caramelo, com base giratória",
             "caption": "Boston, da Gran Belo, em PU. Foto: anúncio na Magalu.",
-            "objectFit": "square"
+            "objectFit": "contain",
+            "aspectRatio": 1
           }
         ],
         "comparisonTable": {
@@ -228753,7 +229190,8 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/damie/poltrona-do-papai-eletrica-austin-lift-gran-belo.webp",
           "alt": "Poltrona elétrica Austin Lift da Gran Belo, em PU preto, com a base elevada para ajudar a levantar",
           "caption": "Austin Lift, da Gran Belo, em PU. Foto: anúncio na Magalu.",
-          "objectFit": "square"
+          "objectFit": "contain",
+          "aspectRatio": 1
         },
         "comparisonTable": {
           "caption": "Poltronas elétricas com elevação.",
@@ -228765,7 +229203,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Aurora, D'Rossi, na Magalu](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-massagem-reclinavel-elevacao-eletrica-aurora-sintetico-pu-d-rossi/p/cac56ka0c3/mo/polr/)",
+              "[Aurora, da D'Rossi, na Magalu](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-massagem-reclinavel-elevacao-eletrica-aurora-sintetico-pu-d-rossi/p/cac56ka0c3/mo/polr/)",
               "PU; elevação elétrica e massagem; garantia de 90 dias",
               "R$ 4.261,35",
               "R$ 3.749,99"
@@ -228786,25 +229224,34 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A Aurora da D'Rossi custa R$ 111,37 a menos que a DAMIE com o código no cartão, e R$ 185,46 a menos no Pix, em revestimento diferente e com garantia de 90 dias contra 1 ano. A Austin Lift é a mais cara das três e a única com aquecimento. Em caso de condição de saúde, converse antes com o médico."
+        ],
+        "links": [
+          {
+            "label": "Poltrona reclinável para idosos",
+            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Elétricas em couro: compare os modelos",
         "paragraphs": [
-          "Em couro e base fixa, a DAMIE sai abaixo das outras duas, no cartão e no Pix. Nenhuma das três páginas diz se o couro cobre a poltrona inteira, então pergunte à loja antes de comparar."
+          "Em couro e base fixa, a DAMIE sai abaixo das outras duas, nas duas colunas de preço. Na Reclinável 2.0, o couro cobre a poltrona inteira por fora; os anúncios da Condor e da Armênia não dizem, então pergunte antes de comparar."
         ],
         "images": [
           {
             "src": "/images/reviews/damie/poltrona-do-papai-eletrica-condor-ferguile.webp",
             "alt": "Poltrona do papai elétrica Condor, da Ferguile, em couro legítimo caramelo, em uma sala",
             "caption": "Condor, da Ferguile, em couro. Foto: anúncio na Magalu.",
-            "objectFit": "square"
+            "objectFit": "contain",
+            "aspectRatio": 1
           },
           {
             "src": "/images/reviews/damie/poltrona-do-papai-armenia-gran-belo.webp",
             "alt": "Poltrona do papai Armênia Power Touch, da Gran Belo, em couro conhaque",
             "caption": "Armênia, da Gran Belo, em couro. Foto: anúncio na Magalu.",
-            "objectFit": "square"
+            "objectFit": "contain",
+            "aspectRatio": 1
           }
         ],
         "comparisonTable": {
@@ -228846,14 +229293,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Encosto e pés separados: a Levita",
         "paragraphs": [
-          "A Levita é a poltrona de maior preço deste guia. Ela permite regular os pés e o encosto separadamente, tem ajuste manual do apoio de pescoço e gira até 280°. Vale considerar esse gasto se você quer, por exemplo, elevar os pés sem reclinar o encosto na mesma proporção."
+          "A Levita é a poltrona de maior preço deste guia. Ela permite regular os pés e o encosto separadamente, tem ajuste manual do apoio de pescoço e gira 280°. Vale considerar esse gasto se você quer, por exemplo, elevar os pés sem reclinar o encosto na mesma proporção."
         ],
         "image": {
           "src": "/images/reviews/poltrona-levita.webp",
           "alt": "Poltrona DAMIE Levita elétrica em couro caramelo, reclinada, com base giratória preta",
           "caption": "A Levita elétrica, em couro. Foto: DAMIE.",
-          "objectFit": "square",
-          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+          "objectFit": "contain",
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita",
+          "aspectRatio": 1
         },
         "comparisonTable": {
           "caption": "Levita no site da DAMIE, com o CECILIA12.",
@@ -228934,7 +229382,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Corino, PU ou couro: o que muda no preço",
         "paragraphs": [
-          "Na elétrica fixa da Reclinável 2.0, trocar suede por couro acrescenta R$ 1.450 antes do cupom; passar da manual para a elétrica em suede acrescenta R$ 780. O revestimento pode pesar mais no orçamento que a escolha pela versão elétrica. O acréscimo de R$ 100 para corino importado foi registrado na base fixa e na de giro e balanço."
+          "Na elétrica fixa da Reclinável 2.0, trocar suede por couro acrescenta R$ 1.450 antes do cupom; passar da manual para a elétrica em suede acrescenta R$ 780. O revestimento pode pesar mais no orçamento que a escolha pela versão elétrica. O corino importado acrescenta R$ 100 na base fixa e na de giro e balanço, e R$ 80 na manual e na de elevação."
         ],
         "comparisonTable": {
           "caption": "Quanto o preço da DAMIE sobe ao mudar o revestimento, na mesma base e sem o código.",
@@ -228946,6 +229394,10 @@ export const reviewsData: unknown[] = [
             [
               "Suede para corino importado, base fixa ou giro e balanço",
               "+R$ 100"
+            ],
+            [
+              "Suede para corino importado, manual ou elevação",
+              "+R$ 80"
             ],
             [
               "Suede para couro, base fixa",
@@ -228973,7 +229425,7 @@ export const reviewsData: unknown[] = [
         "heading": "Massagem, aquecimento e USB: incluídos, opcionais ou brinde de campanha",
         "paragraphs": [
           "O mesmo item pode estar incluído numa marca, ser opcional em outra e virar brinde durante uma campanha. Confira o que vale no dia da compra.",
-          "Na DAMIE, durante o Esquenta Black, a massagem por vibração, o USB e o porta-copos entram sem custo na 2.0. A página de ofertas dá a campanha até 27 de novembro. Fora dela, a massagem custa R$ 550 à parte, o USB, R$ 350, e o porta-copos, R$ 50. Na Levita, a massagem shiatsu é um opcional de R$ 1.000 e fica fora dos brindes.",
+          "Na DAMIE, durante a Black Friday, a massagem por vibração, a entrada USB e o porta-copos entram de brinde na compra da poltrona. A campanha vai até 27/11, enquanto durarem os estoques. Fora dela, a massagem custa R$ 550 à parte; o USB e o porta-copos já vinham de brinde antes da campanha. Na Levita, a massagem shiatsu é um opcional de R$ 1.000.",
           "Na Chicago, na Boston e na Austin Lift, o anúncio já traz massagem e aquecimento no preço, e na Aurora da D'Rossi, massagem. Cada anúncio descreve o sistema de um jeito, e só usei o da 2.0, então leia o que cada um diz antes de tratar os itens como iguais.",
           "A massagem deve pesar na escolha se você pretende usá-la. Além do preço, compare o tipo de sistema descrito em cada modelo; ter “massagem” no anúncio não garante a mesma sensação de uso. Para dor ou recuperação, converse com o profissional que acompanha você."
         ],
@@ -228988,7 +229440,8 @@ export const reviewsData: unknown[] = [
           },
           {
             "label": "Guia da poltrona do papai com massagem",
-            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem"
+            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem",
+            "sponsored": true
           }
         ]
       },
@@ -229021,7 +229474,7 @@ export const reviewsData: unknown[] = [
             [
               "[Elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0)",
               "R$ 4.372,72",
-              "Sem preço registrado",
+              "R$ 4.443,12",
               "R$ 5.411,12"
             ]
           ]
@@ -229034,11 +229487,13 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Elétrica ou manual: o guia da poltrona reclinável elétrica",
-            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-eletrica"
+            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-eletrica",
+            "sponsored": true
           },
           {
             "label": "Qual poltrona reclinável elétrica escolher",
-            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-eletrica-qual-escolher"
+            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-eletrica-qual-escolher",
+            "sponsored": true
           }
         ]
       },
@@ -229051,35 +229506,8 @@ export const reviewsData: unknown[] = [
           "**Frete.** A DAMIE informa frete grátis para Sul e Sudeste e cálculo por CEP para o Centro-Oeste. Norte e Nordeste são atendidos pelos anúncios oficiais no Mercado Livre, onde o CECILIA12 não vale. Nas outras marcas, simule a entrega antes de comparar o total.",
           "**Garantia.** A loja informa: a DAMIE dá um ano de garantia, suporte vitalício e peças a preço de custo. Nos demais modelos com prazo publicado nesta seleção, a garantia informada é de três meses ou 90 dias; a página da Flora não informa. Inclua essa diferença na comparação de preço.",
           "**Devolução.** A DAMIE dá 30 dias de teste em casa. Para devolver, a poltrona precisa voltar completa, na embalagem original e sem sinais de uso severo ou sujeira, então guarde a caixa. Em marketplace, veja quem vende e como funciona a devolução de um móvel desse tamanho."
-        ]
-      },
-      {
-        "heading": "Qual compensa para cada perfil",
-        "paragraphs": [
-          "Eu escolheria pelo movimento de que preciso, pelo que pretendo gastar e pelos recursos que vou usar. Os perfis abaixo ajudam a separar essas decisões."
         ],
-        "bullets": [
-          "**Orçamento menor:** a [Matrix Porsche](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-reclinavel-eletrica-moderna-matrix-porsche/p/235605600/mo/mpol/) é a opção de entrada, com controle remoto. A garantia informada é de três meses.",
-          "**Aquecimento:** a [Chicago](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-eletrica-reclinavel-chicago-com-aquecimento-massagem-e-porta-copos-entrada-usb-usb-c-pu-caramelo-g94-gran-belo/p/ga9k5a3626/mo/polr/) reúne massagem e aquecimento no encosto. Ela reclina até 160° e usa revestimento PU.",
-          "**Base fixa com garantia de um ano e teste em casa:** eu consideraria a [Reclinável 2.0 em suede](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.299,12 com o CECILIA12 no cartão. A página dela não anuncia aquecimento.",
-          "**Giro e balanço:** a [Reclinável 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.783,12 em suede com o CECILIA12, reúne os dois movimentos e reclina até 145°. A Boston é a alternativa do quadro para quem prefere giro mais amplo e aquecimento.",
-          "**Ajuda para se levantar:** compare a [Aurora da D'Rossi](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-massagem-reclinavel-elevacao-eletrica-aurora-sintetico-pu-d-rossi/p/cac56ka0c3/mo/polr/) com a [Reclinável 2.0 com elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.372,72 em suede com o CECILIA12. A diferença no cartão é de R$ 111,37; revestimento e garantia também mudam.",
-          "**Couro:** a [Reclinável 2.0 fixa em couro bovino](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.575,12 com o CECILIA12, fica abaixo da Condor e da Armênia nos preços apresentados. Confirme quais partes recebem couro antes de escolher por esse critério.",
-          "**Pés e encosto regulados separadamente:** a [Levita](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita), por R$ 5.632 em linho ou R$ 6.512 em couro com o CECILIA12, permite ajustar os pés e o encosto em posições diferentes. Esse é o motivo para considerá-la se a reclinação conjunta não atende você."
-        ],
-        "emphasis": "Escolha a poltrona pelo movimento de que você precisa. Depois compare o preço com frete, a garantia e a facilidade de limpeza do revestimento.",
-        "image": {
-          "src": "/images/reviews/poltrona-levita-cecilia-sala.webp",
-          "alt": "Cecília Mauad reclinada na poltrona DAMIE Levita em couro caramelo, na sala de casa",
-          "caption": "A Levita em couro, aqui em casa.",
-          "objectFit": "portrait",
-          "aspectRatio": 0.5625
-        },
         "links": [
-          {
-            "label": "Poltrona reclinável para idosos",
-            "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos"
-          },
           {
             "label": "Presente de Natal para a casa: móveis",
             "href": "/reviews/presente-de-natal-para-casa-moveis"
@@ -229087,13 +229515,53 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Qual compensa para cada perfil",
+        "paragraphs": [
+          "Eu escolheria pelo movimento de que preciso, pelo que pretendo gastar e pelos recursos que vou usar."
+        ],
+        "bullets": [
+          "**Orçamento menor:** a [Matrix Porsche](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-reclinavel-eletrica-moderna-matrix-porsche/p/235605600/mo/mpol/) é a opção de entrada, com controle remoto. A garantia informada é de três meses.",
+          "**Aquecimento:** a [Chicago](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-do-papai-eletrica-reclinavel-chicago-com-aquecimento-massagem-e-porta-copos-entrada-usb-usb-c-pu-caramelo-g94-gran-belo/p/ga9k5a3626/mo/polr/) reúne massagem e aquecimento no encosto. Ela reclina até 160° e usa revestimento PU.",
+          "**Base fixa com garantia de um ano e teste em casa:** eu consideraria a [Reclinável 2.0 em suede](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.299,12 com o CECILIA12 no cartão. A página dela não anuncia aquecimento.",
+          "**Giro e balanço:** a [Reclinável 2.0](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 3.783,12 em suede com o CECILIA12, reúne os dois movimentos e reclina até 145°. A Boston é a alternativa do quadro para quem prefere giro mais amplo e aquecimento.",
+          "**Ajuda para se levantar:** compare a [Aurora da D'Rossi](https://www.magazinevoce.com.br/magazineemcasacomcecilia/poltrona-massagem-reclinavel-elevacao-eletrica-aurora-sintetico-pu-d-rossi/p/cac56ka0c3/mo/polr/) com a [Reclinável 2.0 com elevação](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.372,72 em suede com o CECILIA12. A diferença no cartão é de R$ 111,37; revestimento e garantia também mudam.",
+          "**Couro:** a [Reclinável 2.0 fixa em couro bovino](https://www.damie.com.br/products/poltrona-reclinavel-2-0), por R$ 4.575,12 com o CECILIA12, fica abaixo da Condor e da Armênia nos preços apresentados. Nas outras duas, confirme quais partes recebem couro.",
+          "**Pés e encosto regulados separadamente:** a [Levita](https://www.damie.com.br/products/poltrona-reclinavel-damie-levita), por R$ 5.632 em linho ou R$ 6.512 em couro com o CECILIA12, permite ajustar os pés e o encosto em posições diferentes. Esse é o motivo para considerá-la se a reclinação conjunta não atende você."
+        ],
+        "emphasis": "Na minha casa, eu ficaria com a Reclinável 2.0 fixa em suede com o CECILIA12 se bastasse reclinar no botão, e só pagaria a mais por giro, elevação ou Levita se fosse usar esse movimento todo dia. Antes de fechar, eu compararia frete e garantia, não só o preço.",
+        "image": {
+          "src": "/images/reviews/poltrona-levita-cecilia-sala-4x5.webp",
+          "alt": "Cecília Mauad reclinada na poltrona DAMIE Levita em couro caramelo, na sala de casa",
+          "caption": "A Levita em couro, aqui em casa.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+        },
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-do-papai-eletrica-quanto-custa",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Reclinável 2.0 na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
+        ]
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Soma com as promoções, o Pix e o desconto por quantidade, mas não vale no Mercado Livre nem soma com outro cupom.",
           "Cadeira do papai, poltrona do papai e poltrona reclinável são a mesma coisa? Na prática, sim: os três nomes falam da poltrona que reclina o encosto e abre o apoio para os pés. O que muda é se ela é manual ou elétrica.",
-          "Quanto custa uma poltrona do papai elétrica? Os preços desta seleção começam perto de 2,4 mil reais e chegam a cerca de 6,5 mil, considerando o CECILIA12 nas opções da DAMIE, antes do frete. Os quadros por função mostram o valor de cada modelo.",
+          "Quanto custa uma poltrona do papai elétrica? A entrada é a Matrix Porsche e a Levita em couro é a mais cara desta seleção, considerando o CECILIA12 nas opções da DAMIE, antes do frete. Os quadros por função mostram o valor de cada modelo.",
           "Qual a poltrona do papai com melhor custo-benefício? Depende do que você vai usar. Para gastar menos com motor, a Matrix Porsche; para massagem e aquecimento no pacote, a Chicago; para garantia de 1 ano e teste em casa, a Reclinável 2.0 fixa em suede com o CECILIA12.",
-          "A poltrona do papai elétrica tem controle remoto? Depende do modelo. A Matrix Porsche e a Flora têm controle remoto, a Chicago usa botão lateral, a Armênia tem dois botões junto ao assento e a Reclinável 2.0 fixa reclina por botões ou controle.",
-          "Tem cupom para poltrona do papai elétrica? Tem na DAMIE: o CECILIA12 dá 12% no site, em todas as formas de pagamento, e soma com as promoções, o Pix e o desconto por quantidade. Ele não vale no Mercado Livre e não soma com outro cupom nem com o giftback."
+          "A poltrona do papai elétrica tem controle remoto? Depende do modelo. A Matrix Porsche e a Flora têm controle remoto, a Chicago usa botão lateral, a Armênia tem dois botões junto ao assento e a Reclinável 2.0 reclina por botões no braço; o controle remoto dela é o da massagem."
         ]
       }
     ],
@@ -229106,7 +229574,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Passe a faixa de entrada se você quer mais que três meses de garantia numa peça com motor.",
         "Passe o giro e a elevação se o que mais importa é deitar o máximo possível.",
-        "Passe a oferta se você comparou só o preço, sem base, revestimento e frete."
+        "Passe o site da DAMIE se você mora no Norte ou no Nordeste: lá a compra é pelo Mercado Livre, onde o CECILIA12 não vale."
       ]
     },
     "cta": {
@@ -229117,7 +229585,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Recebemos poltronas DAMIE em parceria e podemos receber comissão pelo cupom e pelos links.",
+    "editorialNote": "Recebemos poltronas DAMIE em parceria; links com comissão. Outras marcas não testadas.",
     "relatedArticles": [
       {
         "slug": "poltrona-do-papai-black-friday"
@@ -229128,7 +229596,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "id": 889,
@@ -229149,7 +229618,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "CECILIA12 dá 12% OFF na poltrona do papai da DAMIE. Vale como presente de Natal para pai? Prazo, medidas e o que conferir antes.",
     "publishedAt": "9 de novembro de 2026",
     "publishedAtISO": "2026-11-09",
-    "updatedAt": "2026-11-09",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/presente-de-natal-para-pai-poltrona-do-papai-capa-v2.webp",
@@ -229205,11 +229674,11 @@ export const reviewsData: unknown[] = [
           "Uma poltrona muda a disposição da sala. Antes de decidir sozinho, converse com quem divide a casa com ele e confira se há espaço para usá-la reclinada."
         ],
         "image": {
-          "src": "/images/reviews/poltrona-levita-cecilia-lateral.webp",
+          "src": "/images/reviews/poltrona-levita-cecilia-lateral-4x5.webp",
           "alt": "Cecília Mauad sentada na poltrona DAMIE Levita em couro caramelo, vista de lado, na sala de casa",
           "caption": "A Levita em couro, aqui em casa.",
-          "objectFit": "portrait",
-          "aspectRatio": 0.7656,
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
           "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
         },
         "postParagraphs": [
@@ -229238,7 +229707,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
-          "caption": "Preços no cartão, sem frete, lidos em 9 de novembro. Mudam sem aviso.",
+          "caption": "Preços do site em 23/11/2026, no cartão, já com o CECILIA12. Mudam sem aviso. Matrix: preço do anúncio na Magalu, sem releitura. A DAMIE anuncia R$ 1.000 de desconto nas poltronas até 27/11; depois disso, confira o preço.",
           "headers": [
             "Para quem",
             "Modelo",
@@ -229273,7 +229742,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Se ele tem dificuldade para se levantar, vale escolher com ele ou com quem o acompanha no dia a dia. A DAMIE indica a base com elevação para idosos; o [guia de poltrona reclinável para idosos](https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos) detalha essa opção. A garantia informada pela DAMIE é de um ano. A Matrix eu não testei: os dados são os do anúncio.",
+          "Se ele tem dificuldade para se levantar, vale escolher com ele ou com quem o acompanha no dia a dia. A DAMIE indica a base com elevação para idosos; o [guia de poltrona reclinável para idosos](https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-para-idosos) detalha essa opção. A garantia informada pela DAMIE é de um ano. Os dados da Matrix são os do anúncio.",
           "O CECILIA12 dá 12% OFF no site da DAMIE, vale em todas as formas de pagamento e soma com promoções, com os 10% do Pix e com o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15% e não vale no Mercado Livre. As condições estão na página do [cupom DAMIE](/cupons/damie).",
           "Para ver mais modelos, consulte [quanto custa uma poltrona do papai elétrica e qual compensa](/reviews/poltrona-do-papai-eletrica-quanto-custa). O guia de [poltrona do papai na Black Friday](/reviews/poltrona-do-papai-black-friday) acompanha os preços, e o [guia da melhor poltrona para o seu pai](https://damie.emcasacomcecilia.com/guias/melhor-poltrona-para-o-seu-pai-dia-dos-pais) explica as diferenças entre as linhas da DAMIE."
         ]
@@ -229288,14 +229757,13 @@ export const reviewsData: unknown[] = [
           "alt": "Desenho da Poltrona Reclinável 2.0 com as medidas: 89 cm de largura, 106 cm de altura, 95 cm de profundidade e 174 cm reclinada",
           "caption": "As medidas da Reclinável 2.0. Imagem: DAMIE.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778,
-          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+          "aspectRatio": 1.7778
         },
         "bullets": [
           "**Espaço para abrir.** A Reclinável 2.0 tem 89 cm de largura, 106 cm de altura e 95 cm de profundidade, e chega a 174 cm reclinada. Meça o lugar nessa posição e reserve passagem para as pessoas.",
           "**Portas e elevador.** Meça o percurso inteiro, inclusive as curvas do corredor. Para portas menores que 80 cm, a DAMIE orienta tirar a poltrona da caixa e passar o encosto e a base separados, em vãos a partir de 65 cm.",
           "**Tomada.** Se o modelo escolhido é elétrico, procure um lugar com tomada acessível. A falta de tomada, sozinha, não é motivo para dar uma manual a quem não consegue acioná-la.",
-          "**Altura dele.** A DAMIE oferece encosto mais alto para pessoas acima de 1,85 m. É um opcional, que custava R$ 450 quando conferimos.",
+          "**Altura dele.** A DAMIE oferece encosto mais alto para pessoas acima de 1,85 m. É um opcional de R$ 450.",
           "**Recebimento e montagem.** Em prédio, a entrega vai até o hall. Combine quem levará as peças até o apartamento e encaixará o encosto na base. A loja informa que a montagem é por encaixe, sem ferramentas."
         ]
       },
@@ -229338,7 +229806,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se ele não gostar: como funciona o teste em casa",
         "paragraphs": [
-          "A loja informa: a página da poltrona dá 30 dias corridos para experimentar em casa, com coleta e devolução do valor pago. A [página do teste de 30 dias](https://www.damie.com.br/pages/teste-por-30-dias) exige a embalagem original preservada e todos os itens, sem sujeira, uso severo ou avaria por mau uso. Guarde a caixa, as proteções e a nota fiscal durante esse período.",
+          "A loja informa: a página da poltrona dá 30 dias para experimentar em casa, com coleta e devolução do valor pago. A [página do teste de 30 dias](https://www.damie.com.br/pages/teste-por-30-dias) exige a embalagem original preservada e todos os itens, sem sujeira, uso severo ou avaria por mau uso. Guarde a caixa, as proteções e a nota fiscal durante esse período.",
           "Se a poltrona chegar cedo, considere dar o presente antes do Natal. Contando os 30 dias a partir da entrega, deixá-la guardada até a ceia reduz o tempo que seu pai terá para experimentar.",
           "Antes de pagar, confirme com a DAMIE como o teste funciona quando quem compra é diferente de quem usa, inclusive nas compras em promoção e com cupom. Se a dúvida é a cor ou o modelo, convide seu pai para escolher com você."
         ]
@@ -229346,22 +229814,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para pai e mãe ou com a ajuda dos irmãos",
         "paragraphs": [
-          "Para presentear pai e mãe, descubra se os dois querem uma poltrona e meça o espaço para as duas abertas, com passagem livre. Na DAMIE, pergunte pelo WhatsApp se há desconto por quantidade na data. Em outubro, ele saía pelos consultores, sem aparecer no carrinho.",
-          "Se os irmãos vão dividir o presente, combinem o orçamento e quem ficará responsável pelo pedido e pela entrega. Essa pessoa deve guardar a nota fiscal; em caso de devolução, o reembolso segue a forma de pagamento usada na compra."
+          "Para presentear pai e mãe, descubra se os dois querem uma poltrona e meça o espaço para as duas abertas, com passagem livre. Na DAMIE, pergunte pelo WhatsApp se há desconto por quantidade na data. Ele sai pelos consultores e não aparece no carrinho.",
+          "Se os irmãos vão dividir o presente, combinem o orçamento e quem ficará responsável pelo pedido e pela entrega. Essa pessoa deve guardar a nota fiscal."
         ],
         "image": {
-          "src": "/images/reviews/poltrona-reclinavel-cecilia-ian.webp",
+          "src": "/images/reviews/poltrona-reclinavel-cecilia-ian-4x5.webp",
           "alt": "Cecília sentada na poltrona reclinável bege com o filho Ian no colo",
           "caption": "Com o Ian no colo, na reclinável 1.0 em linho bege.",
-          "objectFit": "portrait",
-          "aspectRatio": 0.5625
+          "objectFit": "contain",
+          "aspectRatio": 0.8,
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
         }
       },
       {
         "heading": "Vale dar uma poltrona de presente?",
         "paragraphs": [
-          "Eu daria a poltrona a um pai que já quer esse móvel e tem onde usá-lo. Se ele gosta da ideia, mas quer escolher o modelo ou a cor, faria essa parte com ele. É mais importante acertar no que ele vai usar do que manter toda a compra em segredo.",
-          "Se uma poltrona não combina com o que ele quer agora, estes guias ajudam a procurar outro presente:"
+          "Vale quando três coisas fecham: ele quer a poltrona, ela cabe aberta no lugar e o prazo do CEP chega antes da ceia. Para quem tem dificuldade de levantar, a base com elevação; para quem só quer reclinar no botão, a elétrica de base fixa. Se alguma das três não fecha, estes guias ajudam a procurar outro presente:"
         ],
         "bullets": [
           "[Presentes para quem treina](/reviews/presente-natal-quem-treina).",
@@ -229369,16 +229837,33 @@ export const reviewsData: unknown[] = [
           "[Bagaggio por faixa de preço](/reviews/presente-natal-bagaggio).",
           "[Kits e gift card da Insider](/reviews/presente-de-natal-insider-kits-gift-card).",
           "[Outros móveis para presentear a casa](/reviews/presente-de-natal-para-casa-moveis)."
+        ],
+        "emphasis": "Eu daria a poltrona a um pai que já quer esse móvel e tem onde usá-lo. Se ele quer escolher o modelo ou a cor, eu faria essa parte com ele: é mais importante acertar no que ele vai usar do que manter toda a compra em segredo.",
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=presente-de-natal-para-pai-poltrona-do-papai",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Reclinável 2.0 na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e não vale no Mercado Livre; veja as condições na [página do cupom DAMIE](/cupons/damie).",
           "Poltrona do papai é um bom presente de Natal? Sim, quando ele quer esse móvel, vai usá-lo e tem espaço em casa. Se você ainda não sabe a preferência dele, vale descobrir antes de escolher o modelo.",
           "Qual poltrona dar de presente para pai idoso? Se ele procura ajuda para se levantar, veja a base com elevação, que a DAMIE indica para idosos. Confira com ele a altura do assento e a facilidade de usar os comandos.",
           "A poltrona chega antes do Natal? O prazo precisa ser confirmado para o pedido e o CEP da entrega. Compre com duas a três semanas de folga: as referências deste guia ajudam a planejar, mas não garantem a chegada.",
-          "E se meu pai não gostar da poltrona? A DAMIE anuncia um teste de 30 dias, com coleta e devolução do valor pago, desde que ela esteja na embalagem original. Antes de pagar, confirme com a loja se isso vale para quem ganhou de presente.",
-          "Tem cupom para poltrona do papai? O CECILIA12 dá 12% no site da DAMIE, vale em todas as formas de pagamento e soma com as promoções. Ele não vale no Mercado Livre; veja as condições na [página do cupom DAMIE](/cupons/damie)."
+          "E se meu pai não gostar da poltrona? A DAMIE anuncia um teste de 30 dias, com coleta e devolução do valor pago, desde que ela esteja na embalagem original. Antes de pagar, confirme com a loja se isso vale para quem ganhou de presente."
         ]
       }
     ]
@@ -229978,7 +230463,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "CECILIA12 dá 12% OFF na DAMIE. Couro ou corino na poltrona do papai: quanto muda, o que descasca e como saber se é couro de verdade.",
     "publishedAt": "9 de novembro de 2026",
     "publishedAtISO": "2026-11-09",
-    "updatedAt": "2026-11-10",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/poltrona-do-papai-couro-ou-corino-capa-v2.webp",
@@ -230006,7 +230491,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Recebemos as poltronas DAMIE em parceria e podemos receber comissão pelo cupom e pelos links. As outras marcas não foram testadas.",
+    "editorialNote": "Recebemos poltronas DAMIE em parceria; links com comissão. Outras marcas não testadas.",
     "relatedArticles": [
       {
         "slug": "poltrona-do-papai-eletrica-quanto-custa"
@@ -230029,7 +230514,7 @@ export const reviewsData: unknown[] = [
         "heading": "Corino ou couro: o que muda na prática",
         "paragraphs": [
           "Muda o material, e o nome parecido engana. Couro é pele animal curtida, com um acabamento por cima que varia de marca para marca. Corino é um sintético que imita a aparência dela: uma camada plástica sobre um tecido.",
-          "Regra prática, sem teste nosso: a tabela vale para couro bovino e para os sintéticos da família do PU e do PVC em geral, e o desempenho de cada peça depende do acabamento e da formulação. Não há medição de respirabilidade, de atrito nem de duração dessas poltronas."
+          "Regra prática, sem teste nosso, para couro bovino e para os sintéticos da família do PU e do PVC: o couro respira um pouco mais e resseca sem cuidado; o sintético limpa fácil e sofre com atrito e sol. O acabamento de cada peça muda o resultado."
         ],
         "comparisonTable": {
           "caption": "Couro bovino e corino, atributo por atributo. Comparação qualitativa, sem medição nessas poltronas.",
@@ -230100,7 +230585,7 @@ export const reviewsData: unknown[] = [
           "A tabela mantém a mesma poltrona e a mesma base, mudando só o revestimento. Todos os valores já incluem os 12% do CECILIA12."
         ],
         "comparisonTable": {
-          "caption": "Poltrona Reclinável 2.0 no cartão, com CECILIA12 e sem frete, em 9 de novembro. Preços sujeitos a alteração.",
+          "caption": "Preços do site em 23/11/2026, no cartão, Poltrona Reclinável 2.0 já com o CECILIA12 e sem frete.",
           "headers": [
             "Base",
             "Corino importado",
@@ -230150,18 +230635,20 @@ export const reviewsData: unknown[] = [
         ],
         "images": [
           {
-            "src": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp",
+            "src": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada-4x5.webp",
             "alt": "Cecília Mauad sentada na Poltrona Reclinável 2.0 da DAMIE em corino caramelo, com porta-copos no braço",
             "caption": "A nossa 2.0, em corino caramelo.",
             "objectFit": "contain",
-            "aspectRatio": 0.5625
+            "aspectRatio": 0.8,
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
           },
           {
-            "src": "/images/reviews/poltrona-levita-cecilia-sala.webp",
+            "src": "/images/reviews/poltrona-levita-cecilia-sala-4x5.webp",
             "alt": "Cecília Mauad reclinada na poltrona DAMIE Levita em couro caramelo, na sala de casa",
             "caption": "A nossa Levita, em couro caramelo.",
             "objectFit": "contain",
-            "aspectRatio": 0.5625
+            "aspectRatio": 0.8,
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
           }
         ]
       },
@@ -230230,7 +230717,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
-          "caption": "Preços no cartão, sem frete, na mesma data. Na DAMIE, já com o CECILIA12.",
+          "caption": "Preços no cartão, sem frete. Outras marcas na leitura de 9 de novembro; DAMIE já com o CECILIA12.",
           "headers": [
             "Para quem",
             "Modelo",
@@ -230265,7 +230752,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Compare também o que a garantia cobre, além do prazo. A DAMIE e a Alpha informam um ano; a Matrix e a Condor, três meses. Das outras marcas eu não testei nenhuma poltrona, então os dados são os dos anúncios."
+          "Compare também o que a garantia cobre, além do prazo. A DAMIE e a Alpha informam um ano; a Matrix e a Condor, três meses."
         ]
       },
       {
@@ -230277,19 +230764,35 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Couro, com orçamento e clima a favor:** a Poltrona Reclinável 2.0 elétrica fixa em couro bovino fica por R$ 4.575,12 com o CECILIA12 no cartão.",
-          "**Corino, para gastar menos ou limpar rápido:** a mesma poltrona em corino fica por R$ 3.387,12 com o CECILIA12. Deixe folga para ela não raspar em nada.",
+          "**Corino, para gastar menos ou limpar rápido:** a mesma poltrona em corino custa R$ 1.188 a menos, com o CECILIA12. Deixe folga para ela não raspar em nada.",
           "**Se o dinheiro só alcança a base ou o couro:** fique com a base. A manual em couro e a elétrica com giro e balanço em corino custam quase o mesmo, e a segunda faz mais por você todo dia."
         ],
-        "emphasis": "Com orçamento e clima a favor, eu iria de couro. Com o orçamento curto, o corino resolve, com folga para a poltrona não raspar."
+        "emphasis": "Com orçamento e clima a favor, eu iria de couro. Com o orçamento curto, o corino resolve, com folga para a poltrona não raspar.",
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-do-papai-couro-ou-corino",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a Reclinável 2.0 na DAMIE",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Vale no couro e no corino, mas não nos anúncios da marca no Mercado Livre nem na Magalu; veja as condições na [página do cupom DAMIE](/cupons/damie).",
           "Corino ou couro: qual dura mais? Não temos uma comparação de vida útil dessas poltronas. O couro marca e resseca sem cuidado; no corino, a película pode esfolar ou descascar. O uso e a manutenção pesam mais que o nome do material.",
           "Corino descasca com o tempo? Pode, principalmente com atrito, calor e sol. Na nossa poltrona, esfolou no ponto que encostava na janela. Deixe folga atrás e nas laterais.",
           "Precisa hidratar poltrona de couro? Na DAMIE, sim: a orientação oficial é usar hidratante específico para couro, no intervalo da tabela de limpeza. Em outra marca, siga o que ela manda para o acabamento dela.",
-          "Couro ecológico é couro? Couro vem de pele animal, e o nome ecológico não esclarece a composição. Veja na descrição se o material é de origem animal ou sintético.",
-          "Tem cupom para poltrona do papai de couro? O CECILIA12 dá 12% no site da DAMIE, inclusive no couro. Não vale nos anúncios da marca no Mercado Livre nem na Magalu."
+          "Couro ecológico é couro? Couro vem de pele animal, e o nome ecológico não esclarece a composição. Veja na descrição se o material é de origem animal ou sintético."
         ]
       }
     ]
@@ -236218,7 +236721,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Para a primeira compra na DAMIE, use CECILIA12: 12% OFF em todos os produtos do site, com todas as formas de pagamento. Vale de novo para quem já comprou.",
     "publishedAt": "12 de novembro de 2026",
     "publishedAtISO": "2026-11-12",
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/cupom-damie-primeira-compra-capa-v2.webp",
@@ -236230,7 +236733,7 @@ export const reviewsData: unknown[] = [
     "cta": {
       "text": "Digite CECILIA12 no campo de cupom do checkout da DAMIE e confira os 12% no resumo antes de pagar.",
       "label": "Ir para a DAMIE",
-      "url": "https://damie.com.br",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=cupom-damie-primeira-compra-cta",
       "sponsored": true
     },
     "coupon": "CECILIA12",
@@ -236257,7 +236760,6 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom DAMIE primeira compra: qual usar",
         "paragraphs": [
-          "A DAMIE vende poltronas reclináveis e sofás modulares no site oficial. Se você quer conhecer o atendimento antes do primeiro pedido, veja [DAMIE no Reclame Aqui: o que os dados mostram](/reviews/damie-reclame-aqui-o-que-os-dados-mostram).",
           "O cupom para a primeira compra na DAMIE é o CECILIA12: 12% de desconto em todos os produtos do site, da poltrona reclinável ao sofá modular, sem restrição de categoria ou de modelo.",
           "Ele é o código da parceria da Cecília com a marca, o mesmo [cupom DAMIE](/cupons/damie) que conferimos no carrinho. Código achado em site de cupom pode estar vencido. Se o desconto não aparecer no resumo do pedido, apague o que você digitou e use o CECILIA12 antes de pagar."
         ]
@@ -236269,6 +236771,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Todos os produtos, todas as formas de pagamento.** Os 12% valem em poltronas, sofás, camas, área externa e acessórios, e não dependem de como você paga.",
+          "**Primeira ou segunda compra, o código é o mesmo.** O CECILIA12 tem os mesmos 12% e as mesmas regras para quem já comprou, sem limite de usos por CPF: serve para a poltrona de agora e para o puff ou o sofá de depois.",
           "**Um cupom por pedido.** O CECILIA12 não soma com outro cupom nem com o giftback da loja.",
           "**O desconto é sobre os produtos.** O frete fica de fora dos 12% e é calculado à parte, pelo CEP.",
           "**Só no site oficial.** A DAMIE atende o Norte e o Nordeste pelos anúncios dela no Mercado Livre, e lá vale o preço do anúncio, sem o cupom."
@@ -236309,16 +236812,10 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/damie/cupom-damie-primeira-compra-puff-modular.webp",
             "alt": "Puff do Sofá Damie Modular, em foto oficial da DAMIE.",
             "caption": "O puff avulso do Sofá Damie Modular, o produto do nosso teste. Foto: DAMIE.",
-            "objectFit": "square",
-            "href": "https://damie.com.br/products/puff-damie-na-caixa-modular"
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://www.damie.com.br/products/puff-damie-na-caixa-modular"
           }
-        ]
-      },
-      {
-        "heading": "E na segunda compra?",
-        "paragraphs": [
-          "Na segunda compra o código é o mesmo: CECILIA12, com os mesmos 12% e as mesmas regras. Não há limite de usos por CPF. Ele serve para a poltrona de agora e para o puff ou o sofá de depois.",
-          "É também a resposta para quem procura cupom DAMIE para quem já é cliente: não existe um código para cada caso, o CECILIA12 atende os dois."
         ]
       },
       {
@@ -236334,22 +236831,57 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "A DAMIE não tem aplicativo: a compra é pelo site, que abre no navegador do celular. O passo a passo com as telas está em [como usar o cupom CECILIA12](/reviews/cupom-cecilia12-como-usar)."
         ],
-        "image": "/images/reviews/cupom-cecilia12/4-confirme-desconto.png",
-        "imageAlt": "Resumo do pedido da Damie com desconto aplicado.",
-        "imageCaption": "O CECILIA12 aplicado no pedido da DAMIE, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
-        "imageFit": "contain",
-        "imageAspectRatio": 0.452
+        "image": {
+          "src": "/images/reviews/cupom-cecilia12/4-confirme-desconto-recorte.webp",
+          "alt": "Resumo do pedido da DAMIE com o CECILIA12 no campo de cupom e a linha Descontos",
+          "caption": "O CECILIA12 aplicado no pedido da DAMIE, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Vale usar o CECILIA12 na primeira compra da DAMIE?",
+        "emphasis": "Na primeira compra, eu usaria o CECILIA12 e pagaria no Pix: é o caminho em que os dois descontos entram. Eu só fecharia o pedido depois de conferir a linha do desconto no resumo do checkout.",
+        "paragraphs": [
+          "Vale em todos os produtos e em todas as formas de pagamento, e continua valendo nas compras seguintes. Fora do Sul e do Sudeste o frete muda, e no Norte e no Nordeste a compra é pelo Mercado Livre, sem o cupom."
+        ],
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=cupom-damie-primeira-compra",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o puff modular na DAMIE",
+            "href": "https://www.damie.com.br/products/puff-damie-na-caixa-modular",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Como conseguir desconto na primeira compra na DAMIE? O CECILIA12 dá 12% em todos os produtos do site, no primeiro pedido e nos seguintes.",
-          "Qual cupom DAMIE vale para quem já é cliente? O mesmo CECILIA12, sem limite de usos por CPF.",
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Vale na primeira compra e nas seguintes.",
           "O cupom DAMIE de primeira compra soma com o Pix? Sim. O código entra sobre o preço que já tem o desconto do Pix e soma também com as promoções do site. A conta está no capítulo do Pix.",
+          "O cupom de primeira compra da DAMIE vale na segunda? Vale: o CECILIA12 é o mesmo código, sem limite por CPF.",
           "O cupom vale no Mercado Livre? Não. O CECILIA12 só vale no site oficial da DAMIE; nos anúncios da marca no Mercado Livre vale o preço do anúncio."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Use o CECILIA12 em toda compra no site oficial da DAMIE, a primeira ou a décima: o código é o mesmo e não tem limite por CPF.",
+        "Pague no Pix com o código se quer o maior desconto: os dois descontos entram, um sobre o outro, e juntos tiram 20,8%."
+      ],
+      "skipIf": [
+        "Pule o código no pedido em que for usar o giftback de 15% de uma compra anterior: os dois não somam.",
+        "Pule o site se o CEP é do Norte ou do Nordeste: ali a compra é pelo anúncio da DAMIE no Mercado Livre, onde o código não vale."
+      ]
+    }
   },
   {
     "id": 912,
@@ -246492,7 +247024,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "13 de novembro de 2026",
     "publishedAtISO": "2026-11-13",
-    "updatedAt": "2026-11-14",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "description": "A mesma poltrona sai por menos no site, com o cupom e o Pix. O Mercado Livre ganha no parcelamento longo, na entrega para o Norte e o Nordeste e nos modelos que o site não tem.",
@@ -246510,7 +247042,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "A DAMIE é parceira do site, e a Cecília recebeu a Reclinável 2.0. As contas usam os preços do site e dos anúncios; não compramos pelo Mercado Livre. Podemos receber comissão pelo cupom e pelos links.",
+    "editorialNote": "A DAMIE é parceira do site, e podemos receber comissão pelo cupom e pelos links.",
     "relatedArticles": [
       {
         "slug": "poltronas-damie-no-mercado-livre"
@@ -246531,6 +247063,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual canal combina com a sua compra",
+        "paragraphs": [
+          "A escolha do canal depende de três coisas: onde você mora, em quantas vezes quer pagar e qual modelo quer."
+        ],
         "comparisonTable": {
           "headers": [
             "Você quer",
@@ -246572,7 +247107,7 @@ export const reviewsData: unknown[] = [
           "A poltrona que o Mercado Livre anuncia como Florença é a Reclinável 1.0 do site, com outro nome. Por isso dá para comparar o preço da manual em corino nos dois canais."
         ],
         "comparisonTable": {
-          "caption": "Reclinável 1.0 manual, em corino: preço do produto, sem frete.",
+          "caption": "Reclinável 1.0 manual, em corino: preço do produto, sem frete. Preços do site em 23/11/2026, no cartão; anúncio do Mercado Livre como lido em 13/11.",
           "headers": [
             "Onde",
             "Total",
@@ -246597,7 +247132,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A conta do site é nossa, sobre o preço de R$ 3.049 do catálogo: os 12% do cupom entram depois dos 10% do Pix, e juntos tiram 20,8%. O preço do anúncio é o de 13/11. Os preços dos dois canais podem mudar sem aviso: confira o resumo do pedido e o anúncio antes de pagar.",
+          "A conta do site é nossa, sobre o preço de R$ 3.049 do catálogo: os 12% do cupom entram depois dos 10% do Pix, e juntos tiram 20,8%. Os preços dos dois canais podem mudar sem aviso: confira o resumo do pedido e o anúncio antes de pagar.",
           "A Florença em corino tem anúncio em [uma cor](https://meli.la/2JpgBUN) e em [outra](https://meli.la/2xqP2UV): é a mesma poltrona.",
           "Na elétrica, a conta é parecida. A Elétrica Base Fixa 1.0 em suede custa R$ 3.749 no site: R$ 2.969,21 com o cupom e o Pix, ou R$ 3.299,12 em até 12 vezes com o cupom. No Mercado Livre, a [Elétrica Motor Tecido Conforto](https://meli.la/1XAN4Lq), que também é a 1.0, estava por R$ 3.733 em até 24 vezes sem juros.",
           "Some o frete antes de decidir. No Sul e no Sudeste, o site entrega com frete grátis; no Centro-Oeste, o frete do site sai pelo CEP no carrinho. No anúncio, o frete aparece quando você informa o CEP."
@@ -246607,7 +247142,7 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/damie/damie-mercado-livre-ou-site-eletrica-fixa-site.webp",
             "alt": "Poltrona Reclinável Elétrica Base Fixa Damie 1.0 em suede bege, vista em perspectiva, com porta-copos nos braços e bolso lateral",
             "caption": "A Elétrica Fixa do site, em suede bege: é nos modelos do site que o CECILIA12 vale. Imagem: DAMIE.",
-            "href": "https://damie.com.br",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa",
             "objectFit": "contain",
             "aspectRatio": 1
           }
@@ -246624,8 +247159,8 @@ export const reviewsData: unknown[] = [
         "heading": "Quando o Mercado Livre compensa",
         "paragraphs": [
           "**Para parcelar em mais vezes.** O site divide em até 12 vezes sem juros. Os anúncios da DAMIE aparecem com 12, 18 ou 24 vezes, conforme o anúncio, e acima de 12 vezes só no cartão de crédito do próprio Mercado Livre. A parcela fica menor e o total, maior: você paga o preço do anúncio, sem o cupom. Confira no anúncio o número de parcelas e se há juros.",
-          "**Para receber no Norte e no Nordeste.** A página de fretes da DAMIE diz que atende essas regiões “exclusivamente” pelos anúncios oficiais no Mercado Livre. O frete é o do anúncio para o seu CEP: na mesma consulta, a Florença tinha frete de R$ 214,99 para Salvador e de R$ 301,99 para Recife e Belém. O [guia de prazo de entrega da DAMIE](/reviews/damie-prazo-de-entrega) mostra como consultar.",
-          "**Para os modelos que o site não tem.** O site vende a manual só com base fixa. As manuais que giram e balançam, como a Colton e a Imperial, e a Eames elétrica estão nos anúncios. O guia das [poltronas DAMIE no Mercado Livre](/reviews/poltronas-damie-no-mercado-livre) mostra cada uma."
+          "**Para receber no Norte e no Nordeste.** A página de fretes da DAMIE diz que atende essas regiões “exclusivamente” pelos anúncios oficiais no Mercado Livre. O frete é o do anúncio para o seu CEP: a Florença tinha frete de R$ 214,99 para Salvador e de R$ 301,99 para Recife e Belém. O [guia de prazo de entrega da DAMIE](/reviews/damie-prazo-de-entrega) mostra como consultar.",
+          "**Para os modelos que o site não tem.** Na linha Reclinável, o site vende a manual só com base fixa. As manuais que giram e balançam, como a Colton e a Imperial, e a Eames elétrica estão nos anúncios. O guia das [poltronas DAMIE no Mercado Livre](/reviews/poltronas-damie-no-mercado-livre) mostra cada uma."
         ],
         "links": [
           {
@@ -246638,7 +247173,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que considerar no site oficial",
         "paragraphs": [
-          "Além do preço com o CECILIA12, o site tem o configurador: você escolhe entre suede, corino importado e couro bovino, a cor e os opcionais de cada modelo. As regras do código estão na página do [cupom DAMIE](/cupons/damie).",
+          "Além do preço com o CECILIA12, o site tem o configurador: você escolhe entre suede, bouclé, linho, corino importado e couro bovino, a cor e os opcionais de cada modelo. As regras do código estão na página do [cupom DAMIE](/cupons/damie).",
           "A Reclinável 2.0, que a Cecília recebeu e avaliou no [teste da 2.0](/reviews/poltrona-damie-e-boa), a elétrica com elevação e a Levita também estão no site. A Levita tem anúncio no [Mercado Livre](https://meli.la/1FwHe2p), em couro bovino."
         ]
       },
@@ -246650,16 +247185,34 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "E na Amazon?",
+        "heading": "Onde eu compraria a minha DAMIE?",
+        "emphasis": "Na minha casa, eu compraria pelo site, com o CECILIA12 e o Pix, porque é onde a mesma poltrona sai por menos. Eu só iria ao Mercado Livre se morasse no Norte ou no Nordeste, se precisasse de mais de 12 parcelas ou se quisesse a Colton, a Imperial ou a Eames.",
         "paragraphs": [
-          "A DAMIE também tem [loja na Amazon](https://link.amazon/B0bCzZu4D), com a Florença e outros modelos, em até 12 vezes sem juros. O CECILIA12 não vale lá: confira o modelo, o frete e o pagamento no anúncio."
+          "A DAMIE também tem [loja na Amazon](https://link.amazon/B0bCzZu4D), com a Florença e outros modelos, em até 12 vezes sem juros. O CECILIA12 não vale lá: confira o modelo, o frete e o pagamento no anúncio. Para a mesma poltrona, a conta do site continua sendo a de menor preço."
+        ],
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=damie-mercado-livre-ou-site",
+            "sponsored": true
+          },
+          {
+            "label": "Ver as poltronas da DAMIE no Mercado Livre",
+            "href": "https://meli.la/2Uk6QB5",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele não vale no Mercado Livre nem na Amazon.",
           "A DAMIE vende no Mercado Livre? Sim, por anúncios oficiais da própria loja. Para o Norte e o Nordeste, é o canal que a DAMIE indica.",
-          "O cupom CECILIA12 vale no Mercado Livre? Não. Ele vale só no site da DAMIE, onde soma com o Pix. Para o Mercado Livre, veja a nossa [curadoria de cupons do Mercado Livre](https://dicas.emcasacomcecilia.com/cupons/mercado-livre/) e confira no carrinho se algum entra no anúncio.",
+          "O cupom CECILIA12 vale no Mercado Livre? Não. Ele vale só no site da DAMIE, onde soma com o Pix.",
           "A poltrona do Mercado Livre é a mesma do site? Depende do anúncio. A Florença e a Elétrica Motor Tecido Conforto são a Reclinável 1.0 do site com outro nome; a Colton, a Imperial e a Eames são modelos que o site não vende.",
           "Onde a DAMIE sai mais barata? Para a mesma poltrona, a conta do site com o CECILIA12 e o Pix dá o menor preço do produto. Some o frete para o seu endereço antes de decidir.",
           "Dá para parcelar a DAMIE em 24 vezes? Em anúncios do Mercado Livre, sim, no cartão de crédito do próprio Mercado Livre. No site, o limite é de 12 vezes sem juros."
@@ -246668,13 +247221,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Pelo site: você mora no Sul ou no Sudeste e quer pagar menos, com frete grátis, CECILIA12 e Pix.",
-        "Pelo site: você quer escolher revestimento, cor e opcionais no configurador.",
-        "Pelo Mercado Livre: você mora no Norte ou no Nordeste, precisa de mais de 12 parcelas ou quer um modelo que só está nos anúncios."
+        "Compre pelo site se mora no Sul ou no Sudeste e quer pagar menos, com frete grátis, CECILIA12 e Pix.",
+        "Compre pelo site se quer escolher revestimento, cor e opcionais.",
+        "Compre pelo Mercado Livre se mora no Norte ou no Nordeste, precisa de mais de 12 parcelas ou quer um modelo que só está nos anúncios."
       ],
       "skipIf": [
-        "Não conte com o CECILIA12 no Mercado Livre: o cupom só vale no site.",
-        "Não escolha só pela parcela: em mais vezes, o total do anúncio fica acima do total do site com o cupom."
+        "Passe o Mercado Livre se conta com o CECILIA12: o cupom só vale no site.",
+        "Passe a parcela mais longa se o total pesa: o anúncio fica acima do site com o cupom."
       ]
     }
   },
@@ -246698,6 +247251,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "CECILIA12 dá 12% no site da DAMIE. Conheça no Mercado Livre as manuais com giro e balanço e a Eames elétrica, com desenho diferente.",
     "publishedAt": "13 de novembro de 2026",
     "publishedAtISO": "2026-11-13",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/poltronas-damie-no-mercado-livre-capa-v2.webp",
@@ -246708,13 +247262,13 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "Prefere uma poltrona do site? Lá o CECILIA12 dá 12% e soma com o desconto do Pix: digite o código no checkout e confira o resumo antes de pagar. Ele não vale nos anúncios do Mercado Livre.",
-      "label": "Ir para a DAMIE",
-      "url": "https://damie.com.br",
+      "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltronas-damie-no-mercado-livre",
       "sponsored": true
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "A DAMIE é parceira do site. A Cecília recebeu a Reclinável 2.0, mas não testamos as poltronas deste guia. As informações vêm dos anúncios, e podemos receber comissão pelos links e pelo cupom.",
+    "editorialNote": "Não testamos estas poltronas: os dados vêm dos anúncios. Podemos receber comissão.",
     "relatedArticles": [
       {
         "slug": "damie-mercado-livre-ou-site"
@@ -246740,7 +247294,7 @@ export const reviewsData: unknown[] = [
           "Essa é a principal razão para considerar essas poltronas. Você pode procurar primeiro o revestimento e o desenho que prefere, respeitando o peso máximo declarado para cada uma."
         ],
         "comparisonTable": {
-          "caption": "Preço total em 12 vezes sem juros no cartão Mercado Pago, como cada anúncio informa, sem frete.",
+          "caption": "Preço total em 12 vezes sem juros no cartão Mercado Pago, como cada anúncio informava em 13/11, sem frete. Cor e revestimento podem alterar o valor.",
           "headers": [
             "Modelo",
             "Revestimento",
@@ -246767,16 +247321,13 @@ export const reviewsData: unknown[] = [
               "R$ 3.359"
             ]
           ]
-        },
-        "postParagraphs": [
-          "Os preços são de 13/11. Cor e revestimento podem alterar o valor."
-        ]
+        }
       },
       {
         "heading": "Colton: linho e almofada de cabeça",
         "paragraphs": [
-          "A Colton tem assento de espuma D40 soft e suporta até 140 kg, segundo o anúncio. Nas fotos, ela tem uma almofada de cabeça na parte superior do encosto, que a Imperial não tem.",
-          "Se você quer linho e está comparando as duas, a Imperial tem o menor preço nesta leitura. A Colton entra na escolha pelo desenho do encosto e pelas especificações declaradas; a densidade da espuma, sozinha, não permite afirmar qual é mais confortável."
+          "A Colton tem assento de espuma D40 soft, segundo o anúncio. Nas fotos, ela tem uma almofada de cabeça na parte superior do encosto, que a Imperial não tem.",
+          "Se você quer linho e está comparando as duas, a Imperial tem o menor preço nesta leitura. A Colton entra na escolha pelo desenho do encosto e pelas especificações declaradas; espuma mais densa não quer dizer mais confortável."
         ],
         "images": [
           {
@@ -246784,14 +247335,16 @@ export const reviewsData: unknown[] = [
             "alt": "Poltrona DAMIE Colton em linho cinza-claro, vista de frente, com almofada de cabeça, alavanca lateral e porta-copos nos dois braços",
             "caption": "A Colton em linho, na foto do anúncio. Imagem: DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://meli.la/1mbWGjP"
           },
           {
             "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-colton-reclinada.webp",
             "alt": "Poltrona DAMIE Colton em linho cinza-claro, reclinada, com o apoio dos pés aberto sobre a base giratória",
             "caption": "A Colton reclinada, com a base giratória à mostra. Imagem: DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://meli.la/1mbWGjP"
           }
         ],
         "links": [
@@ -246805,7 +247358,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Imperial: o menor preço entre as manuais",
         "paragraphs": [
-          "A Imperial em linho custa R$ 3.058 nesta comparação. O anúncio informa espuma D26 no assento e limite de 136 kg. Nas fotos, o encosto é liso, sem almofada de cabeça.",
+          "A Imperial em linho é a mais barata das três. O anúncio informa espuma D26 no assento, e o encosto é liso, sem almofada de cabeça.",
           "Para quem quer giro e balanço com abertura manual e prefere linho, é a opção de menor preço entre as três da tabela. Frete e variação escolhida ainda entram na conta final."
         ],
         "images": [
@@ -246814,14 +247367,16 @@ export const reviewsData: unknown[] = [
             "alt": "Poltrona DAMIE Imperial em linho cinza-claro, vista de frente, com encosto liso, alavanca lateral e porta-copos nos dois braços",
             "caption": "A Imperial em linho, na foto do anúncio. Imagem: DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://meli.la/2MmXerq"
           },
           {
             "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-imperial-reclinada.webp",
             "alt": "Poltrona DAMIE Imperial em linho cinza-claro, reclinada, com o apoio dos pés aberto sobre a base giratória",
             "caption": "A Imperial reclinada. Imagem: DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://meli.la/2MmXerq"
           }
         ],
         "links": [
@@ -246836,7 +247391,7 @@ export const reviewsData: unknown[] = [
         "heading": "Colton em corino: outra opção de revestimento",
         "paragraphs": [
           "O anúncio “Cadeira de Balanço Giratória Manual Reclinável Tecido Corino” é o da Colton em corino importado. Ele informa assento D26 e limite de 136 kg; o da Colton em linho informa D40 soft e 140 kg.",
-          "O preço registrado foi de R$ 3.359. Se você prefere corino, essa é a opção para comparar com as duas manuais de linho. Para a limpeza, o anúncio orienta pano umedecido com água e, se preciso, sabão neutro.",
+          "Se você prefere corino, essa é a opção para comparar com as duas manuais de linho. Para a limpeza, o anúncio orienta pano umedecido com água e, se preciso, sabão neutro.",
           "A loja também anuncia a [Imperial em corino](https://meli.la/192LzPK): confira o preço e a ficha no anúncio."
         ],
         "images": [
@@ -246845,14 +247400,16 @@ export const reviewsData: unknown[] = [
             "alt": "Poltrona DAMIE Colton em corino preto, vista de frente, com almofada de cabeça, alavanca lateral e porta-copos nos dois braços",
             "caption": "A Colton em corino, na foto do anúncio. Imagem: DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://meli.la/29LXCut"
           },
           {
             "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-corino-reclinada.webp",
             "alt": "Poltrona DAMIE Colton em corino preto, reclinada, com o apoio dos pés aberto sobre a base giratória",
             "caption": "A Colton em corino reclinada. Imagem: DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://meli.la/29LXCut"
           }
         ],
         "links": [
@@ -246889,14 +247446,16 @@ export const reviewsData: unknown[] = [
             "alt": "Poltrona DAMIE Eames elétrica em suede preto, vista de frente, com braços retos e porta-copos na parte superior",
             "caption": "A Eames em suede, na foto do anúncio. Imagem: DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://meli.la/1jyqjmj"
           },
           {
             "src": "/images/reviews/damie/poltronas-damie-no-mercado-livre-eames-reclinada.webp",
             "alt": "Poltrona DAMIE Eames elétrica em suede preto, reclinada, com o apoio dos pés aberto",
             "caption": "A Eames reclinada. Imagem: DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://meli.la/1jyqjmj"
           }
         ],
         "links": [
@@ -246911,7 +247470,7 @@ export const reviewsData: unknown[] = [
         "heading": "Medidas, montagem e garantia",
         "paragraphs": [
           "Os anúncios informam 91 × 80 × 84 cm para a caixa, não para a poltrona montada. Peça ao vendedor largura, profundidade e altura do móvel, além do espaço ocupado com o encosto reclinado. Confira também o caminho até o cômodo em que ela vai ficar.",
-          "As descrições apresentam estrutura de madeira multilaminada de eucalipto, molas zig-zag e pocket no assento e percintas elásticas no encosto. Esses dados descrevem a construção; não substituem uma experiência de uso.",
+          "As descrições apresentam estrutura de madeira multilaminada de eucalipto, molas zig-zag e pocket no assento e percintas elásticas no encosto.",
           "A garantia anunciada é de um ano, e a montagem é por encaixe, feita por quem compra, com manual por código QR. Os anúncios pedem que a embalagem original seja guardada: sem ela, a loja diz que não faz a coleta de devolução."
         ]
       },
@@ -246919,41 +247478,62 @@ export const reviewsData: unknown[] = [
         "heading": "Preço final e cupom",
         "paragraphs": [
           "Os valores deste guia são os totais parcelados dos anúncios selecionados. Antes de comprar, confira a cor, o revestimento, o frete e as condições de pagamento disponíveis para você.",
-          "O CECILIA12 dá 12% no site oficial e soma com o desconto do Pix. Ele não se aplica aos anúncios do Mercado Livre. As regras estão na página do [cupom DAMIE](/cupons/damie).",
+          "O CECILIA12 dá 12% no site oficial, em todas as formas de pagamento, e soma com as promoções e com os 10% do Pix. Ele não se aplica aos anúncios do Mercado Livre. As regras estão na página do [cupom DAMIE](/cupons/damie).",
           "Se você também considera uma poltrona do site, o [comparativo entre site e Mercado Livre](/reviews/damie-mercado-livre-ou-site) ajuda a avaliar os canais."
         ]
       },
       {
-        "heading": "Onde comprar",
+        "heading": "Qual poltrona da DAMIE escolher no Mercado Livre",
         "paragraphs": [
-          "Use os links dos modelos para chegar ao anúncio correspondente e confira se o vendedor é a DAMIE. Informe seu CEP para consultar frete e previsão de entrega. O [guia de entrega da DAMIE](/reviews/damie-prazo-de-entrega) explica como consultar o prazo e se preparar para receber.",
-          "Para escolher: Imperial para o menor preço registrado entre as manuais; Colton para quem prefere a almofada de cabeça; a Colton em corino para quem busca esse revestimento; Eames para quem quer acionamento elétrico e o desenho com porta-copos."
+          "Para giro e balanço sem motor pelo menor preço, a Imperial em linho. Para ter a almofada de cabeça, a Colton, em linho ou em corino. A Eames só entra para quem quer motor e o desenho de braços retos, sem giro.",
+          "Use os links dos modelos para chegar ao anúncio correspondente e confira se o vendedor é a DAMIE. Informe seu CEP para consultar frete e previsão de entrega. O [guia de entrega da DAMIE](/reviews/damie-prazo-de-entrega) explica como consultar o prazo e se preparar para receber."
         ],
         "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltronas-damie-no-mercado-livre",
+            "sponsored": true
+          },
           {
             "label": "Ver as poltronas da DAMIE no Mercado Livre",
             "href": "https://meli.la/2Uk6QB5",
             "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
           }
-        ]
+        ],
+        "emphasis": "Pelo menor preço registrado entre as manuais, eu começaria pela Imperial em linho. Se quisesse a almofada de cabeça, eu iria de Colton, e só pegaria a Eames se o desenho e o acionamento elétrico pesassem mais que o giro. Antes de qualquer uma, eu olharia o site, onde o CECILIA12 vale."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele não vale nos anúncios do Mercado Livre.",
           "A DAMIE tem poltrona manual giratória? Tem, no Mercado Livre: os anúncios da Colton, em linho e em corino, e da Imperial combinam reclinação manual, giro e balanço. No site, giro e balanço só aparecem nas elétricas.",
-          "Qual das manuais deste guia tem o menor preço? A Imperial em linho, a R$ 3.058 na condição registrada. Compare o frete e a variação escolhida antes de fechar o pedido.",
+          "Qual das manuais deste guia tem o menor preço? A Imperial em linho, na condição registrada na tabela. Compare o frete e a variação escolhida antes de fechar o pedido.",
           "A Eames gira e balança? O anúncio selecionado é da Eames elétrica de base fixa, sem giro ou balanço.",
-          "O cupom CECILIA12 vale no Mercado Livre? Não. Ele dá 12% no site oficial da DAMIE e não entra nos anúncios. Para o Mercado Livre, veja a nossa [curadoria de cupons do Mercado Livre](https://dicas.emcasacomcecilia.com/cupons/mercado-livre/) e confira no carrinho se algum entra no anúncio.",
           "Qual é o tamanho dessas poltronas? Os anúncios informam só as medidas da caixa, de 91 × 80 × 84 cm. Peça ao vendedor as medidas da poltrona montada e reclinada antes de comprar."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a Imperial em linho se quer giro e balanço com abertura manual pelo menor preço da tabela.",
+        "Leve a Colton se prefere a almofada de cabeça, em linho ou em corino.",
+        "Leve a Eames se quer acionamento elétrico e o desenho de braços retos com porta-copos."
+      ],
+      "skipIf": [
+        "Passe se mora no Sul ou no Sudeste e quer o CECILIA12: o cupom só vale no site oficial.",
+        "Passe se a abertura manual pede esforço que você ou quem vai usar não tem, porque a DAMIE não recomenda as manuais nesses casos."
+      ]
+    }
   },
   {
     "id": 975,
     "slug": "damie-prazo-de-entrega",
     "title": "Prazo de entrega da DAMIE: quanto demora e como consultar",
-    "seoTitle": "Prazo de entrega da DAMIE: quanto demora",
+    "seoTitle": "Prazo de entrega da DAMIE: quanto demora e como consultar",
     "type": "Guia de Compra",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -246979,12 +247559,13 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "No site, o frete aparece no cálculo com o seu CEP antes de você pagar. Use CECILIA12 no campo de cupom.",
-      "label": "Ver o cupom CECILIA12 da DAMIE",
-      "url": "/cupons/damie"
+      "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
+      "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=damie-prazo-de-entrega",
+      "sponsored": true
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "A DAMIE é parceira do site, e a Cecília recebeu a Reclinável 2.0. As regras vêm das páginas da DAMIE, e os exemplos de previsão, de consultas aos anúncios, sem compra. Podemos receber comissão pelo cupom e pelos links.",
+    "editorialNote": "A DAMIE é parceira do site, e podemos receber comissão pelo cupom e pelos links.",
     "relatedArticles": [
       {
         "slug": "damie-mercado-livre-ou-site"
@@ -247005,6 +247586,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Onde consultar o prazo antes de comprar",
+        "paragraphs": [
+          "O prazo aparece antes do pagamento, em três lugares, conforme o canal da compra."
+        ],
         "comparisonTable": {
           "headers": [
             "Onde você compra",
@@ -247114,15 +247698,39 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/damie/damie-prazo-de-entrega-eletrica-fixa-frente.webp",
             "alt": "Poltrona Reclinável Elétrica Base Fixa Damie 1.0 em suede bege, vista de frente",
             "caption": "A Elétrica Fixa 1.0 do site: a página dela informa passagem por portas de 65 cm. Imagem: DAMIE.",
-            "href": "https://damie.com.br",
+            "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-eletrica-fixa",
             "objectFit": "contain",
             "aspectRatio": 1
           }
         ]
       },
       {
+        "heading": "O que fazer para a poltrona chegar sem susto",
+        "emphasis": "Na minha casa, eu consultaria a previsão pelo CEP antes de pagar, mediria a porta e o caminho até a sala e combinaria quem recebe a transportadora. Se a tela não mostrasse data, eu falaria com o atendimento da DAMIE antes de fechar o pedido.",
+        "paragraphs": [
+          "Quem precisa da poltrona para uma data certa deve deixar folga e guardar a previsão que aparecer no pedido."
+        ],
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=damie-prazo-de-entrega",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a loja da DAMIE no Mercado Livre",
+            "href": "https://meli.la/2Uk6QB5",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
+        ]
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele vale só no site, não nos anúncios do Mercado Livre.",
           "Quanto tempo a DAMIE demora para entregar? O prazo depende do endereço e do canal. No site, consulte a página do produto ou o carrinho; se não houver previsão, fale com o atendimento. No Mercado Livre, informe o CEP no anúncio.",
           "O frete da DAMIE é grátis? No Sul e no Sudeste, sim, para poltronas e sofás comprados no site. No Centro-Oeste, ele é calculado pelo CEP. No Mercado Livre, confira o frete do anúncio escolhido.",
           "A DAMIE entrega no Norte e no Nordeste? A marca atende essas regiões pelos anúncios oficiais no Mercado Livre. Informe o seu CEP no anúncio para ver a entrega, o frete e a previsão.",
@@ -247131,7 +247739,7 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "updatedAt": "2026-11-14",
+    "updatedAt": "2026-11-23",
     "decision": {
       "takeIf": [
         "A previsão que apareceu para o seu endereço atende à data em que você precisa da poltrona.",
@@ -247162,7 +247770,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "14 de novembro de 2026",
     "publishedAtISO": "2026-11-14",
-    "updatedAt": "2026-11-14",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "description": "A DAMIE orienta comprar pelo Mercado Livre no Norte e no Nordeste. Conheça os modelos, veja exemplos de frete em oito capitais e saiba o que conferir antes de fechar o pedido.",
@@ -247181,7 +247789,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "A DAMIE é parceira do site, e a Cecília recebeu a Reclinável 2.0. As informações e os exemplos de entrega vêm de consultas aos anúncios, sem compra. Podemos receber comissão pelos links e pelo cupom.",
+    "editorialNote": "A DAMIE é parceira do site, e podemos receber comissão pelo cupom e pelos links.",
     "relatedArticles": [
       {
         "slug": "damie-mercado-livre-ou-site"
@@ -247274,7 +247882,8 @@ export const reviewsData: unknown[] = [
             "alt": "Poltrona Damie Florença manual em corino preto, vista de frente, com porta-copos nos dois braços",
             "caption": "A Florença manual em corino, na foto do anúncio do Mercado Livre. Imagem: DAMIE.",
             "objectFit": "contain",
-            "aspectRatio": 1
+            "aspectRatio": 1,
+            "href": "https://meli.la/2JpgBUN"
           }
         ]
       },
@@ -247320,6 +247929,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Exemplos de frete no Norte",
+        "paragraphs": [
+          "No Norte, o frete e o prazo mudam por capital e por modelo, e vale simular o CEP antes de decidir."
+        ],
         "comparisonTable": {
           "headers": [
             "Capital",
@@ -247378,27 +247990,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O CECILIA12 vale nessa compra?",
+        "heading": "Vale comprar a DAMIE pelo Mercado Livre no Norte e no Nordeste?",
+        "emphasis": "Se eu morasse no Norte ou no Nordeste, eu abriria o anúncio da DAMIE no Mercado Livre com o meu CEP antes de escolher a cor, e só pagaria com o frete e a previsão na tela. Eu compararia o total da poltrona mais a entrega, não só o preço do anúncio.",
         "paragraphs": [
-          "O CECILIA12 dá 12% no site oficial da DAMIE e não vale no Mercado Livre. As regras do código estão na página do [cupom DAMIE](/cupons/damie), e a comparação entre os dois canais, no guia [site oficial ou Mercado Livre](/reviews/damie-mercado-livre-ou-site).",
-          "**Procurando cupom para a compra no Mercado Livre?** Veja a nossa [curadoria de cupons do Mercado Livre](https://dicas.emcasacomcecilia.com/cupons/mercado-livre/). Os cupons de lá mudam com frequência: confira no carrinho se algum entra no anúncio da DAMIE."
+          "O CECILIA12 dá 12% no site oficial da DAMIE e não vale no Mercado Livre. As regras do código estão na página do [cupom DAMIE](/cupons/damie), e a comparação entre os dois canais, no guia [site oficial ou Mercado Livre](/reviews/damie-mercado-livre-ou-site)."
+        ],
+        "links": [
+          {
+            "label": "Ir para a DAMIE com o CECILIA12",
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=damie-norte-nordeste",
+            "sponsored": true
+          },
+          {
+            "label": "Ver a loja da DAMIE no Mercado Livre",
+            "href": "https://meli.la/2Uk6QB5",
+            "sponsored": true
+          },
+          {
+            "label": "Ver o cupom DAMIE",
+            "href": "/cupons/damie"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele vale só no site, não nos anúncios do Mercado Livre.",
           "A DAMIE entrega no Nordeste? A marca atende a região pelos anúncios oficiais dela no Mercado Livre. Informe o seu CEP no anúncio para ver a entrega, o frete e a previsão.",
           "A DAMIE entrega no Norte? O caminho que a marca indica também é o Mercado Livre. A entrega se confere pelo CEP, no anúncio da poltrona que você quer.",
           "O site da DAMIE entrega no Norte e no Nordeste? Não. A página de fretes diz que essas regiões são atendidas exclusivamente pelos anúncios oficiais no Mercado Livre.",
-          "O CECILIA12 vale no Mercado Livre? Não. Ele dá 12% somente no site oficial da DAMIE. Para o Mercado Livre, veja a nossa [curadoria de cupons do Mercado Livre](https://dicas.emcasacomcecilia.com/cupons/mercado-livre/) e confira no carrinho se algum entra no anúncio.",
           "Como saber o prazo para a minha cidade? Escolha a variação da poltrona e informe o seu CEP no anúncio. Se não aparecer opção, pergunte à DAMIE antes de pagar."
-        ],
-        "links": [
-          {
-            "label": "Ver a loja da DAMIE no Mercado Livre",
-            "href": "https://meli.la/2Uk6QB5",
-            "sponsored": true
-          }
         ]
       }
     ]

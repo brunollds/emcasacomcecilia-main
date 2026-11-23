@@ -16,7 +16,7 @@
   },
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "description": "Inflow e Sofá na Caixa são empresas diferentes. Compare as duas com a DAMIE em teste em casa, garantia, preço no Pix e Reclame Aqui para escolher o sofá certo.",
@@ -35,7 +35,7 @@
   },
   "coupon": "CECILIA12",
   "affiliate": "damie",
-  "editorialNote": "O sofá DAMIE foi recebido em parceria. Relatamos nosso uso e comparamos dados públicos das marcas. O cupom CECILIA12 pode gerar comissão.",
+  "editorialNote": "Sofá DAMIE recebido em parceria. Dados públicos das marcas. CECILIA12 rende comissão.",
   "relatedArticles": [
     {
       "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais"
@@ -49,9 +49,9 @@
   ],
   "contentSections": [
     {
-      "heading": "Sofá na Caixa, Inflow ou DAMIE: resposta rápida",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "Não, Inflow e Sofá na Caixa são empresas diferentes, e a DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no Pix, com frete e configuração a conferir; a reputação no Reclame Aqui também pesa. Na DAMIE, o código CECILIA12 dá 12% OFF."
+        "Inflow e Sofá na Caixa são empresas diferentes, e a DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no cartão, mas está com a reputação suspensa no Reclame Aqui. Na DAMIE, o CECILIA12 dá 12% OFF."
       ]
     },
     {
@@ -109,7 +109,7 @@
           ],
           [
             "Teste em casa",
-            "30 dias, com coleta e reembolso integral",
+            "30 dias, com coleta e reembolso integral, com a embalagem original guardada",
             "Nenhum prazo comercial além dos 7 dias do CDC",
             "Sem teste de uso: 10 dias para devolver, sem indícios de uso"
           ],
@@ -136,12 +136,6 @@
             "10% no Pix; até 12x",
             "10% no Pix; até 10x",
             "10% no Pix; até 10x"
-          ],
-          [
-            "Reclame Aqui, 6 meses",
-            "Ótima, nota 8,3",
-            "RA1000, nota 8,5",
-            "Regular, nota 6,1"
           ]
         ]
       }
@@ -153,10 +147,14 @@
         "**A DAMIE** não compacta o sofá: entrega módulos pré-estruturados em caixas reforçadas, ligados por encaixe.",
         "Essa é a diferença central entre as três: de um lado, espuma que expande depois de aberta; do outro, módulos que já chegam com estrutura de madeira e só precisam ser encaixados."
       ],
-      "image": "/images/reviews/sofa-damie-na-caixa-cecilia-hero.webp",
-      "imageAlt": "Módulos do sofá DAMIE montados na sala da Cecília, com um braço de porta-copos em primeiro plano",
-      "imageCaption": "Os módulos do meu sofá DAMIE já montados: cada um chega pronto e se liga ao vizinho por encaixe.",
-      "imageFit": "portrait"
+      "image": {
+        "src": "/images/reviews/sofa-damie-na-caixa-cecilia-hero-4x5.webp",
+        "alt": "Módulos do sofá DAMIE montados na sala da Cecília, com um braço de porta-copos em primeiro plano",
+        "caption": "Os módulos do meu sofá DAMIE já montados: cada um chega pronto e se liga ao vizinho por encaixe.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8,
+        "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+      }
     },
     {
       "heading": "O que tem dentro: estrutura, espuma e peso",
@@ -178,7 +176,7 @@
         "É aqui que as três mais se separam, e as regras ficam em letra miúda. No teste em casa:"
       ],
       "bullets": [
-        "**DAMIE:** 30 dias. Se você não gostar, a DAMIE coleta o sofá e devolve o valor integral.",
+        "**DAMIE:** 30 dias. Se você não gostar, a DAMIE coleta o sofá e devolve o valor integral, desde que a embalagem original esteja guardada.",
         "**Sofá na Caixa:** 10 dias. A própria marca explica que o prazo legal é de 7 dias e que os 10 dias são um benefício dela. A devolução vale com o sofá na embalagem original, sem indícios de uso, com nota fiscal e acessórios, e o frete de volta nesse prazo é pago pela loja.",
         "**Inflow:** nenhum prazo comercial além dos 7 dias de arrependimento que o CDC garante em compra pela internet."
       ],
@@ -190,10 +188,10 @@
     {
       "heading": "Quanto custa um sofá de 3 lugares em cada uma?",
       "paragraphs": [
-        "Preços dos sites em 14/10/2026. Os modelos não são idênticos (a DAMIE vende o 3 lugares com puff; a Inflow e a Sofá na Caixa, com apoio de pé), e o preço muda com o revestimento e com o número de lugares, então a comparação é de ordem de grandeza, não de centavos."
+        "Preços dos sites no cartão. Os modelos não são idênticos (a DAMIE vende o 3 lugares com puff; a Inflow e a Sofá na Caixa, com apoio de pé), e o preço muda com o revestimento e com o número de lugares, então a comparação é de ordem de grandeza, não de centavos."
       ],
       "comparisonTable": {
-        "caption": "Preço de um sofá de 3 lugares",
+        "caption": "Preço de um sofá de 3 lugares, no cartão, em 23/11/2026",
         "headers": [
           "Marca",
           "Modelo",
@@ -210,60 +208,41 @@
             "até 12x de R$ 425"
           ],
           [
-            "DAMIE",
-            "O mesmo, em corino importado",
-            "R$ 5.200 (de R$ 6.200)",
-            "R$ 4.680",
-            "até 12x"
-          ],
-          [
-            "DAMIE",
-            "O mesmo, em couro bovino",
-            "R$ 8.100 (de R$ 9.100)",
-            "R$ 7.290",
-            "até 12x"
-          ],
-          [
             "Inflow",
-            "3 lugares, 2 cantos e apoio de pé",
-            "—",
-            "de R$ 5.031 a R$ 5.733, conforme o tecido e os apoios de pé",
+            "3 lugares, 2 cantos e 1 apoio de pé, em bouclê bege",
+            "R$ 4.790 (de R$ 5.568)",
+            "10% OFF",
             "até 10x"
           ],
           [
             "Sofá na Caixa",
-            "Modular 3 lugares em Boucle com apoio de pé",
+            "Modular 3 lugares em bouclé com apoio de pé",
             "R$ 3.869,10 (de R$ 7.239)",
             "R$ 3.482,19 (10% OFF)",
             "até 10x de R$ 386,91 sem juros"
           ],
           [
             "Sofá na Caixa",
-            "Modular 3 lugares em Poli-Couro Marrom com apoio de pé",
-            "R$ 4.679,10 (de R$ 7.949)",
-            "R$ 4.211,19 (10% OFF)",
-            "até 10x de R$ 467,91 sem juros"
+            "Modular 3 lugares em poli-couro preto com apoio de pé",
+            "R$ 3.869,10 (de R$ 7.239)",
+            "R$ 3.482,19 (10% OFF)",
+            "até 10x de R$ 386,91 sem juros"
           ]
         ]
       },
       "postParagraphs": [
-        "As três dão 10% no Pix e informam o valor; compare sempre Pix com Pix ou parcela com parcela. No Pix, entre os modelos da tabela, a Sofá na Caixa (R$ 3.482,19) é o menor, a DAMIE vem em R$ 4.590 e a Inflow, a partir de R$ 5.031.",
-        "Entre os modelos comparados, a Sofá na Caixa tem o menor preço listado, com 10 dias para devolver sem indícios de uso e garantia de 3 meses. A DAMIE custa mais na vitrine e, nos tecidos, fica abaixo da Inflow no Pix, com 30 dias de teste e 1 ano de garantia. Frete e configuração mudam o total: confira na loja."
+        "As três dão 10% no Pix; compare sempre Pix com Pix ou parcela com parcela. No cartão, entre os modelos da tabela, a Sofá na Caixa tem o menor preço, a Inflow vem em seguida e a DAMIE tem o maior, com o puff incluído.",
+        "O menor preço da Sofá na Caixa vem com 10 dias para devolver sem indícios de uso, 3 meses de garantia e a reputação suspensa no Reclame Aqui. A DAMIE custa mais na vitrine e dá 30 dias de teste e 1 ano de garantia. Frete e configuração mudam o total: confira na loja."
       ]
     },
     {
       "heading": "E a reputação das três no Reclame Aqui?",
       "paragraphs": [
-        "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026). A nota atual da Inflow é 8,5; o print abaixo mostra 8,6.",
-        "Nesse recorte, a Inflow tinha o selo mais alto entre as três e 94% de solução entre as reclamações avaliadas; a DAMIE tinha selo Ótima e a menor média de resposta, 13 horas. A Sofá na Caixa tem selo Regular e quase 50 vezes mais reclamações que a Inflow no período."
+        "Dados do Reclame Aqui, com os três perfis lidos no mesmo dia. Solução e \"voltariam a fazer negócio\" valem para as reclamações avaliadas, não para todos os clientes. A Inflow tem só 83 avaliadas no período, uma base pequena.",
+        "A Sofá na Caixa está com a reputação suspensa. O Reclame Aqui diz na página dela: \"A reputação da empresa está suspensa porque há irregularidades dentro e/ou fora do Reclame AQUI.\" Não vamos supor o motivo, e por isso a plataforma não divulga solução, \"voltariam\" nem nota do consumidor dela."
       ],
-      "image": "/images/reviews/sofa-na-caixa/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
-      "imageAlt": "Painéis do Reclame Aqui dos últimos 6 meses: DAMIE com reputação Ótima e nota 8,3, Inflow com RA1000 e nota 8,6, Sofá na Caixa com reputação Regular e nota 6,1",
-      "imageCaption": "Painéis do Reclame Aqui de cada marca, dos últimos 6 meses.",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.9448,
       "comparisonTable": {
-        "caption": "Reclame Aqui, últimos 6 meses",
+        "caption": "Reclame Aqui, janela de 01/05 a 31/10/2026",
         "headers": [
           "",
           "DAMIE (Damie Móveis)",
@@ -272,91 +251,85 @@
         ],
         "rows": [
           [
-            "Selo",
-            "Ótima",
-            "RA1000",
-            "Regular"
+            "Reputação",
+            "Boa, nota 7,9",
+            "Ótima, nota 8,2",
+            "Suspensa"
           ],
           [
-            "Nota",
-            "8,3",
-            "8,5",
-            "6,1"
-          ],
-          [
-            "Reclamações",
-            "218",
-            "144",
-            "6.947"
+            "Reclamações recebidas",
+            "192",
+            "154",
+            "6.255"
           ],
           [
             "Respondidas",
             "100%",
-            "98,6%",
-            "100%"
+            "98,7%",
+            "99,9%"
           ],
           [
-            "Resolvidas entre as avaliadas",
-            "86,7%",
-            "94%",
-            "56,1%"
+            "Reclamações avaliadas",
+            "125",
+            "83",
+            "4.147"
           ],
           [
-            "Voltariam a comprar, entre avaliadores",
-            "76%",
-            "75%",
-            "49,8%"
+            "Resolvidas, entre as avaliadas",
+            "83,2%",
+            "90,4%",
+            "Dado não disponível"
+          ],
+          [
+            "Voltariam a fazer negócio, entre as avaliadas",
+            "70,4%",
+            "68,7%",
+            "Dado não disponível"
           ],
           [
             "Nota do consumidor",
-            "7,37",
-            "7,62",
-            "4,66"
+            "6,78",
+            "7,19",
+            "Dado não disponível"
           ],
           [
             "Tempo de resposta",
-            "13 horas",
-            "7 dias e 13 horas",
-            "2 dias e 1 hora"
+            "15 horas",
+            "6 dias e 20 horas",
+            "1 dia e 18 horas"
           ]
         ]
       },
       "bullets": [
         "O selo mede **atendimento e solução**, não volume de vendas.",
-        "A Inflow \"acaba de chegar ao mercado brasileiro de estofados\", nas palavras do release de janeiro: são cerca de 9 meses vendendo sofá. O RA1000 é real, mas vale para um histórico curto.",
-        "A DAMIE está cadastrada no Reclame Aqui há 6 anos.",
+        "A Inflow tem a nota mais alta das três e já não aparece com o selo RA1000. Ela também é a mais lenta para responder, com quase 7 dias.",
+        "A Inflow \"acaba de chegar ao mercado brasileiro de estofados\", nas palavras do release de janeiro: o histórico dela é curto.",
+        "A DAMIE está cadastrada no Reclame Aqui há 6 anos, e a Sofá na Caixa, há 3.",
         "Nenhuma das marcas publica número de vendas, então não dá para dizer quantas reclamações cada uma recebe por cliente."
       ]
     },
     {
       "heading": "Qual a queixa mais comum nas três?",
       "paragraphs": [
-        "A mesma. Entre os principais problemas apontados no Reclame Aqui (histórico de até 3 anos), o primeiro lugar é **atraso na entrega**: 50,36% das reclamações da DAMIE, 40,79% das da Sofá na Caixa e 28,18% das da Inflow. Nas três marcas, atraso é a queixa número um, e vale contar com folga no prazo em qualquer uma.",
+        "A mesma. Entre os principais problemas do Reclame Aqui (aba Geral, com até 3 anos de histórico), o primeiro lugar é **atraso na entrega**: 51,24% das reclamações da DAMIE, 40,4% das da Sofá na Caixa e 28,71% das da Inflow. Nas três marcas, atraso é a queixa número um, e vale contar com folga no prazo em qualquer uma.",
         "O que aconteceu com a Sofá na Caixa desde 2025, com entregas atrasadas e reembolsos, está em [O que aconteceu com a Sofá na Caixa?](/reviews/sofa-na-caixa-crise-reclamacoes-procon-sp)."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-damie.webp",
-          "alt": "Principais problemas da DAMIE no Reclame Aqui: atraso na entrega em 50,36% das reclamações",
-          "caption": "DAMIE: atraso na entrega em 50,36% das reclamações.",
-          "objectFit": "contain",
-          "aspectRatio": 1.224
-        },
-        {
-          "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-sofa-na-caixa.webp",
-          "alt": "Principais problemas da Sofá na Caixa no Reclame Aqui: atraso na entrega em 40,79% das reclamações",
-          "caption": "Sofá na Caixa: atraso na entrega em 40,79% das reclamações.",
-          "objectFit": "contain",
-          "aspectRatio": 1.2168
-        },
-        {
-          "src": "/images/reviews/sofa-na-caixa/reclame-aqui-principais-problemas-inflow.webp",
-          "alt": "Principais problemas da Inflow no Reclame Aqui: atraso na entrega em 28,18% das reclamações",
-          "caption": "Inflow: atraso na entrega em 28,18% das reclamações.",
-          "objectFit": "contain",
-          "aspectRatio": 1.2161
-        }
       ]
+    },
+    {
+      "heading": "Meu sofá da DAMIE no dia a dia",
+      "paragraphs": [
+        "O meu sofá da DAMIE já virou um dos móveis mais usados da rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família: conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). O uso é de moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais.",
+        "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico nem entram nos preços da tabela acima.",
+        "Contei como foi a escolha do modelo e o que eu observaria antes de comprar no guia [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
+      ],
+      "image": {
+        "src": "/images/reviews/sofa-damie-na-caixa-cecilia-montagem-4x5.webp",
+        "alt": "Cecília deitada no assento do sofá modular DAMIE azul, sorrindo",
+        "caption": "Eu no meu sofá DAMIE: uso de moderado a intenso, e ele continua igual ao dia em que chegou.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8,
+        "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+      }
     },
     {
       "heading": "Qual escolher: Sofá na Caixa, Inflow ou DAMIE?",
@@ -364,44 +337,40 @@
         "Cada perfil de compra aponta para uma marca:"
       ],
       "bullets": [
-        "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso integral.",
-        "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado entre os modelos comparados, inclusive no Pix. Pese contra os 10 dias para devolver sem indícios de uso, os 3 meses de garantia e o selo Regular.",
+        "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso integral, desde que guarde a embalagem original.",
+        "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado entre os modelos comparados, inclusive no Pix. Pese contra os 10 dias para devolver sem indícios de uso, os 3 meses de garantia e a reputação suspensa no Reclame Aqui.",
         "**Quem quer a garantia mais longa:** DAMIE, com 1 ano.",
-        "**Quem valoriza o histórico de atendimento:** a Inflow, com RA1000 e 94% de reclamações resolvidas no recorte do Reclame Aqui, lembrando que o histórico dela é curto.",
-        "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP.",
+        "**Quem valoriza o histórico de atendimento:** a Inflow, com reputação Ótima, nota 8,2 e 90,4% de solução entre as avaliadas, lembrando que são só 83 avaliadas e que o histórico dela é curto.",
+        "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre, onde o CECILIA12 não vale; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP.",
         "**Quem também está olhando a Valley Modular:** a comparação com ela está em [Valley Modular, Inflow ou DAMIE](/reviews/valley-inflow-ou-damie)."
       ],
-      "emphasis": "Entre as três, eu ficaria com a DAMIE pelos 30 dias de teste e pelo ano de garantia. A Sofá na Caixa custa menos na comparação, mas informa devolução em 10 dias com embalagem original e sem indícios de uso."
-    },
-    {
-      "heading": "A experiência da Cecília com o sofá da DAMIE",
-      "paragraphs": [
-        "O meu sofá da DAMIE já virou um dos móveis mais usados da rotina aqui de casa, não só para receber visitas, mas para aproveitar os momentos da família: conversar, brincar com os filhos, ler (e até tirar um cochilo, não vou mentir). O uso é de moderado a intenso, e o sofá continua igual ao dia em que chegou: o mesmo conforto, a estrutura e a parte elétrica 100% funcionais.",
-        "Os itens elétricos são opcionais que escolhi para o sofá recebido: tomada com entrada USB e suporte energizado para celular e tablet, com carregamento por indução. Eles não vêm no sofá básico nem entram nos preços da tabela acima.",
-        "Contei como foi a escolha do modelo e o que eu observaria antes de comprar no guia [Sofá Damie Modular: vale a pena?](/reviews/sofa-damie-modular-vale-a-pena)."
+      "emphasis": "Entre as três, eu ficaria com a DAMIE pelos 30 dias de teste e pelo ano de garantia. A Sofá na Caixa custa menos na comparação, mas informa devolução em 10 dias, com embalagem original e sem indícios de uso, e está com a reputação suspensa no Reclame Aqui.",
+      "postParagraphs": [
+        "O **CECILIA12** é o [cupom DAMIE](/cupons/damie) de 12% OFF em todo o site oficial. Vale em **todas as formas de pagamento**, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições e o passo a passo estão na página do cupom."
       ],
-      "image": "/images/reviews/sofa-damie-na-caixa-cecilia-montagem.webp",
-      "imageAlt": "Cecília deitada no assento do sofá modular DAMIE azul, sorrindo",
-      "imageCaption": "Eu no meu sofá DAMIE: uso de moderado a intenso, e ele continua igual ao dia em que chegou.",
-      "imageFit": "portrait"
-    },
-    {
-      "heading": "Cupom CECILIA12 na DAMIE",
-      "paragraphs": [
-        "O **CECILIA12** é um cupom de 12% de desconto em todo o site da DAMIE. Vale em **todas as formas de pagamento**, soma com o desconto do Pix e com as promoções do site, e não soma com outro cupom nem com o giftback. As condições e o passo a passo estão na [página do cupom da DAMIE](/cupons/damie)."
-      ]
-    },
-    {
-      "heading": "Resumo: quem escolhe o quê",
-      "paragraphs": [
-        "Quem quer testar antes e ter a garantia mais longa fica melhor com a DAMIE. Quem prioriza o menor preço pode olhar a Sofá na Caixa, sabendo que o teste é curto e a garantia é de 3 meses. A Inflow tem selo RA1000 no Reclame Aqui, mas sem teste além do prazo legal de 7 dias."
+      "links": [
+        {
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-na-caixa-inflow-ou-damie",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o sofá modular na DAMIE",
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom DAMIE",
+          "href": "/cupons/damie"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Inflow e Sofá na Caixa são a mesma empresa? Não. A Inflow é da Fast Living Comércio e Distribuição Ltda. (CNPJ 44.947.739/0001-80, Itapeva, MG, ativa desde 2022) e a Sofá na Caixa é da Sofá na Caixa Ltda. (CNPJ 53.546.707/0001-64, Rafard, SP, ativa desde 2024). Cada uma tem site e regras próprios.",
-        "Qual é melhor, Sofá na Caixa ou Inflow? Depende do que pesa mais. A Inflow tem selo RA1000 no Reclame Aqui e a Sofá na Caixa, Regular. A Sofá na Caixa tem o menor preço listado entre os modelos comparados e 10 dias para devolver o sofá sem indícios de uso; a Inflow não dá prazo além dos 7 dias do CDC.",
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Inflow e Sofá na Caixa não têm cupom nosso.",
+        "Inflow e Sofá na Caixa são a mesma empresa? Não. A Inflow é da Fast Living Comércio e Distribuição Ltda. (CNPJ 44.947.739/0001-80, Itapeva, MG) e a Sofá na Caixa é da Sofá na Caixa Ltda. (CNPJ 53.546.707/0001-64, Rafard, SP). Cada uma tem site e regras próprios.",
+        "Qual é melhor, Sofá na Caixa ou Inflow? Depende do que pesa mais. A Inflow tem reputação Ótima e nota 8,2 no Reclame Aqui; a Sofá na Caixa está com a reputação suspensa, segundo a própria plataforma. A Sofá na Caixa tem o menor preço listado entre os modelos comparados e 10 dias para devolver o sofá sem indícios de uso; a Inflow não dá prazo além dos 7 dias do CDC.",
         "Existe outra marca parecida com a Sofá na Caixa e a Inflow? A DAMIE também entrega o sofá modular em caixas, mas com módulos pré-estruturados em madeira, ligados por encaixe, e não com espuma compactada. Tem 30 dias de teste em casa e 1 ano de garantia.",
         "Qual tem a maior garantia? A DAMIE: 1 ano e, depois, suporte vitalício com peças a preço de custo. A Inflow dá 3 meses na ficha do produto (90 dias na política) e a Sofá na Caixa, 3 meses.",
         "Posso devolver o sofá da Inflow depois de abrir? Pela política da Inflow, a devolução por arrependimento só é aceita com o produto lacrado, e o frete de volta é do cliente. O CDC garante 7 dias de arrependimento na compra online, e o lacre é exigência da loja: na dúvida, confirme com a Inflow antes de abrir. Depois de aberto, a loja prevê só a garantia de 3 meses (90 dias), em caso de defeito.",
@@ -412,7 +381,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Você quer testar o sofá em casa por 30 dias, com coleta e reembolso integral.",
+      "Você quer testar o sofá em casa por 30 dias, com coleta e reembolso, e tem onde guardar a embalagem.",
       "A garantia de 1 ano pesa mais para você do que o menor preço."
     ],
     "skipIf": [
