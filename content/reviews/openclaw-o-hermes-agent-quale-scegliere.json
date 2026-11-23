@@ -34,7 +34,7 @@
   "metaDescription": "OpenClaw o Hermes Agent: interfaccia, memoria, costi IA, gestito o VPS. SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo.",
   "publishedAt": "21 ottobre 2026",
   "publishedAtISO": "2026-10-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-it-v2.webp",
@@ -180,9 +180,8 @@
         "**Vuoi accesso root e altri programmi sullo stesso server, come un sito o n8n:** VPS, con l'uno o l'altro. Root è l'accesso da amministratore, con il controllo totale del server.",
         "**Non vuoi installare né gestire un server:** il gestito, con entrambi. Hostinger installa e aggiorna."
       ],
-      "postParagraphs": [
-        "Nessuno del team usa né l'uno né l'altro. I profili vengono dalle documentazioni dei progetti, non dalla nostra esperienza."
-      ]
+      "emphasis": "Secondo la documentazione dei due progetti, per chi vuole molti canali di messaggistica e app native la scelta è OpenClaw; per chi vuole un agente che impara dall'uso è Hermes Agent, perché il ciclo di apprendimento è ciò che lo distingue.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Dove farlo girare su Hostinger",
@@ -226,26 +225,20 @@
     {
       "heading": "Coupon SONAR20",
       "paragraphs": [
-        "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, mensile o annuale, anche con account esistente. Registrazione di domini e rinnovo sono esclusi; il rinnovo si paga al prezzo di listino. Consulta le condizioni nella [pagina Hostinger](/it/coupons/hostinger).",
+        "Inserisci **SONAR20** nel campo \"Have a coupon code?\" del carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Sui cicli da 12, 24 e 48 mesi il 20% si applica; sui piani da 1 mese l'accettazione dipende dal piano, quindi controlla la riga \"Coupon applied\" nel carrello prima di pagare. La registrazione di domini è esclusa e il rinnovo si paga al prezzo di listino, senza sconto. Consulta le condizioni nella [pagina Hostinger](/it/coupons/hostinger).",
         "Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
       ]
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
         "OpenClaw e Hermes Agent sono gratuiti? I due programmi sono open source, con licenza MIT, e non paghi il software. Paghi il server o il piano gestito e l'uso del modello IA. Hermes ha anche un abbonamento su Nous Portal, ma il prezzo non compare nella documentazione del progetto.",
         "Funziona con Telegram? Sì, con entrambi. Crei il bot su BotFather e incolli il token nella configurazione.",
         "Serve saper programmare? Per avviare il gestito no: scegli i canali e incolli il token. Nel VPS serve conoscere le basi dei server, come root, Docker e aggiornamenti. Programmare entra in gioco solo se vuoi mettere mano al codice del progetto.",
         "È sicuro? Dipende da come lo usi. Le due politiche di sicurezza chiedono la stessa cautela: uso da parte di una persona o di un team che si fida a vicenda, senza esposizione diretta a internet e con controllo di ciò che installi da terzi.",
         "Quale scegliere se uso già Claude Code? Claude Code è uno strumento per programmare nel terminale e non sostituisce nessuno dei due. Entrambi accettano la chiave di Anthropic: OpenClaw elenca Anthropic tra i provider, e il README di Hermes Agent riporta la chiave di Anthropic tra i segreti. Se vuoi un agente che impara dall'uso, Hermes Agent si adatta meglio. Se vuoi molti canali e un'app sul telefono, OpenClaw.",
         "Un cliente Hostinger esistente può usare SONAR20? Sì, su un nuovo acquisto idoneo con lo stesso account; il rinnovo del servizio attuale è escluso. Offre il 20% sul primo periodo, e anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
-      ]
-    },
-    {
-      "heading": "Chi scrive",
-      "paragraphs": [
-        "Em Casa com Cecília gira su Hostinger, come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno del team usa OpenClaw né Hermes Agent.",
-        "Questo testo riunisce le pagine di Hostinger e le politiche e le documentazioni ufficiali dei due progetti, nella versione del 21 ottobre 2026. Il confronto tra i due che OpenClaw pubblica è scritto dal progetto stesso, e compare con quel nome nella colonna della fonte della tabella."
       ]
     }
   ],
@@ -274,12 +267,12 @@
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
-      "Scegli OpenClaw se vuoi molti canali di messaggistica e app native per telefono e computer.",
-      "Scegli Hermes Agent se vuoi un agente che impara dall'uso: organizza la propria memoria e crea e migliora le proprie competenze."
+      "vuoi molti canali di messaggistica e app native per telefono e computer: fa per te OpenClaw.",
+      "vuoi un agente che impara dall'uso, organizza la propria memoria e crea e migliora le proprie competenze: fa per te Hermes Agent."
     ],
     "skipIf": [
-      "Lascia stare OpenClaw se quello che vuoi è un agente che impara dall'uso.",
-      "Lascia stare l'installazione in proprio se non vuoi gestire un server: nel gestito, per entrambi, Hostinger installa e aggiorna."
+      "vuoi un agente che impara dall'uso: OpenClaw non fa per te.",
+      "non vuoi gestire un server: evita l'installazione in proprio, perché nel gestito, per entrambi, Hostinger installa e aggiorna."
     ]
   }
 }

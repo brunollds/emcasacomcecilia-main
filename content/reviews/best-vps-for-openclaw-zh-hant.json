@@ -34,7 +34,7 @@
   "metaDescription": "沒有官方最低 RAM 的 OpenClaw，最適合的 VPS：依模型在雲端或本機，列出各情境的 KVM 方案。",
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -222,30 +222,25 @@
         "本機模型：16 GB 的 KVM 4，第一個高於最小本機配方 8 GiB 下限、有餘裕的方案，實際表現取決於模型和上下文。32 GB 的 KVM 8 只有在用更大的本機模型時才有意義。",
         "不想管伺服器：託管方案，由 Hostinger 安裝並更新助理。",
         "想免費試用：Oracle Always Free，但要知道 Oracle 可能回收閒置的執行個體。"
-      ]
+      ],
+      "emphasis": "從表格來看，AI 模型在供應商那邊執行的人選 4 GB 的 KVM 1；要執行本機模型的人選 16 GB 的 KVM 4，因為它是第一個高於最小本機配方 8 GiB 下限、有餘裕的方案。"
     },
     {
       "heading": "SONAR20 優惠碼",
       "paragraphs": [],
       "postParagraphs": [
-        "**SONAR20**：符合條件的新購**首期享 20% 折扣**，已有帳號也可適用。網域註冊和續訂除外，請在購物車確認方案。操作步驟見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，條件見[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        "**SONAR20**：符合條件的新購**首期享 20% 折扣**，已有帳號也可適用。網域註冊和續訂除外，12、24、48 個月的方案適用 20%；1 個月的方案是否接受，取決於方案本身，付款前請在購物車確認「Coupon applied」那一行。操作步驟見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，條件見[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
       "heading": "常見問題",
       "bullets": [
+        "Hostinger 的優惠碼是什麼？Hostinger 優惠碼是 SONAR20，符合資格的新購買首期享 20% 折扣：在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」那一行。續訂按定價計算，沒有折扣。",
         "OpenClaw 的最低伺服器需求是什麼？官方文件沒有公布最低 RAM、CPU 或硬碟，穩定版只要求 Node 24.22.1 或更新（或 26.12.1）。用 API 金鑰或額度時，起點是 KVM 1。用本機模型時，只有最小配方的下限是 8 GiB，KVM 4 是第一個對它有餘裕的。",
         "可以不用 API 金鑰執行嗎？可以，用本機模型，但這時記憶體就成了問題：文件把最小本機配方的下限定為 8 GiB（上下文 64K），並提醒這不保證模型放得下，也不保證跑得好。用 Hostinger 額度的話，不需要 AI 供應商的帳號，但要按使用量付費。",
         "Oracle 真的免費嗎？在 Always Free 額度與地區供應範圍內，可能免費使用。Oracle 可能依據其公布的 CPU、網路（A1 上還包括記憶體）使用率標準，回收閒置執行個體。請參閱上文的資源和條件。",
         "Mac mini 還是 VPS？取決於電腦能不能 24 小時開著。能的話，在家執行可以省掉伺服器月費；不能的話，選 VPS 或託管。",
-        "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？ SONAR20：符合條件的新購首期享 20% 折扣，已有帳號也可適用。網域註冊和續訂除外，請在購物車確認方案。",
         "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣，網域註冊除外。已有方案的續約按定價計算，沒有折扣。"
-      ]
-    },
-    {
-      "heading": "誰在寫這篇文章",
-      "paragraphs": [
-        "Em Casa com Cecília 執行在 Hostinger 上，是一個 Node.js Web App；Bruno 從 2024 年起就是 Hostinger 的客戶，使用虛擬主機和一台 VPS KVM 2。團隊裡沒有人在用 OpenClaw：本文彙整的是 Hostinger、Oracle 和 OpenClaw 官方文件所說的內容。"
       ]
     }
   ],

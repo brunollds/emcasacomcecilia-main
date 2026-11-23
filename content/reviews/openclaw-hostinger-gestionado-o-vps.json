@@ -34,7 +34,7 @@
   "metaDescription": "Gestionado o VPS para OpenClaw en Hostinger: créditos de IA, Telegram y WhatsApp, y quién se encarga del servidor.",
   "publishedAt": "21 de octubre de 2026",
   "publishedAtISO": "2026-10-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -168,12 +168,13 @@
       "postParagraphs": [
         "**Elige el VPS si:** quieres acceso root y ejecutar otros programas en el mismo servidor, como un sitio web o n8n; sabes manejar un servidor, o quieres aprender, y aceptas actualizar y proteger el sistema; o necesitas más memoria y disco: los planes KVM van de 4 GB a 32 GB de RAM.",
         "**Si tienes dudas, empieza por el gestionado.** Cuesta menos en el primer período y no exige conocimientos de servidores."
-      ]
+      ],
+      "emphasis": "Por la tabla, para quien quiere OpenClaw en marcha sin ocuparse de un servidor, la elección es el gestionado, porque Hostinger se encarga de las actualizaciones y de la seguridad, mientras que en el VPS ambas quedan de tu parte."
     },
     {
       "heading": "Cupón SONAR20",
       "paragraphs": [
-        "Introduce **SONAR20** en el carrito: 20 % en el primer período de una compra nueva elegible, mensual o anual, también con cuenta existente. El registro de dominios y la renovación quedan fuera; la renovación se cobra al precio de lista. Consulta la [guía SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y la [página de Hostinger](/es/coupons/hostinger)."
+        "Introduce **SONAR20** en el carrito: 20 % en el primer período de una compra nueva elegible, también con cuenta existente. En los ciclos de 12, 24 y 48 meses se aplica el 20 %; en los planes de 1 mes la aceptación depende del plan, así que revisa la línea «Coupon applied» del carrito antes de pagar. El registro de dominios y la renovación quedan fuera; la renovación se cobra al precio de lista. Consulta la [guía SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y la [página de Hostinger](/es/coupons/hostinger)."
       ],
       "postParagraphs": [
         "Hostinger está en campaña de Black Friday, y los precios cambian. Mira [el Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas) y revisa el importe en el carrito antes de pagar."
@@ -182,17 +183,11 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20 % de descuento en el primer período de una compra nueva elegible: escribe el código en el campo «Have a coupon code?» del carrito y revisa la línea «Coupon applied» antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
         "¿Vale la pena el OpenClaw gestionado de Hostinger? Vale para quien quiere el asistente sin ocuparse de un servidor: sale más barato que el VPS en el primer período y se renueva al mismo precio. Quien quiera acceso root y otros programas en el servidor estará mejor con el VPS.",
         "¿Necesitas una cuenta en OpenAI o Anthropic? No. En las dos opciones puedes usar los créditos de IA de Hostinger. La cuenta con el proveedor solo hace falta si prefieres tu propia clave.",
-        "¿Hay cupón de descuento de Hostinger para OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % de descuento en el primer período.",
         "¿El plan gestionado sirve para Hermes Agent o Paperclip? Sí. Los tres están en el mismo plan, «Aplicaciones de automatización con IA», al mismo precio. La página de Paperclip no incluye créditos de IA, así que lleva tu propia clave.",
         "¿Un cliente existente de Hostinger puede usar SONAR20? Puede aplicarse a una compra nueva elegible con la misma cuenta, no a renovar el servicio actual. Ofrece un 20 % en el primer período; el registro de dominio también queda fuera. Comprueba el total del carrito."
-      ]
-    },
-    {
-      "heading": "Quién escribe",
-      "paragraphs": [
-        "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con alojamiento y un VPS KVM 2. Nadie del equipo usa OpenClaw: este texto reúne lo que dicen las páginas de Hostinger y la documentación oficial de OpenClaw."
       ]
     }
   ],
@@ -220,13 +215,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Lleva el gestionado si quieres el asistente en marcha sin instalar ni configurar un servidor, con Hostinger a cargo de las actualizaciones, las copias de seguridad y la seguridad.",
-      "Lleva el VPS si quieres acceso root y ejecutar otros programas en el mismo servidor, como un sitio web o n8n."
+      "quieres el asistente en marcha sin instalar ni configurar un servidor, con Hostinger a cargo de las actualizaciones, las copias de seguridad y la seguridad (gestionado).",
+      "quieres acceso root y ejecutar otros programas en el mismo servidor, como un sitio web o n8n (VPS)."
     ],
     "skipIf": [
-      "Descarta el VPS si no sabes qué es root ni Docker: actualizar y proteger el sistema queda de tu parte.",
-      "Descarta el gestionado si necesitas acceso root o más memoria y disco.",
-      "Descarta ambos si el mismo asistente va a atender a personas que no confían entre sí: no deben compartir gateway. Un equipo que confía entre sí requiere otra evaluación; no hay una regla universal de un servidor por persona."
+      "no sabes qué es root ni Docker y estás pensando en el VPS: actualizar y proteger el sistema queda de tu parte.",
+      "necesitas acceso root o más memoria y disco, que el gestionado no ofrece.",
+      "el mismo asistente va a atender a personas que no confían entre sí: no deben compartir una pasarela."
     ]
   }
 }
