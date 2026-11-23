@@ -128,7 +128,7 @@ Desvio pedido no lote: os indicadores do semestre saem no bloco `metrics`, no lu
 
 - **Afiliado (`affiliate`):** `oceane`.
 - **Código (`coupon`) e o nome que a loja dá a ele:** `EMCASA` (código de cupom, 10% no pedido). Todo texto diz "EMCASA na Océane", porque o mesmo código vale em outras parcerias.
-- **Links internos para a página da loja (máx 3):** `/cupons/oceane` (âncora "cupom Océane"). Briefings do lote que se ligam por assunto: `kit-presente-oceane-natal` (OC9; a queixa de produto não recebido pesa mais para quem compra presente com prazo).
+- **Links internos para a página da loja (máx 3):** `/cupons/oceane` (âncora "cupom Océane"). Briefings do lote que se ligam por assunto: `kit-presente-oceane` (OC9; a queixa de produto não recebido pesa mais para quem compra presente com prazo).
 - **CTA comissionado da loja (`rel="sponsored"`):** href: link da parceria (`https://www.oceane.com.br/?utmi_pc=emcasa`), a conferir na conformação. **Nunca abrir o link no teste**: a leitura é sempre pelo site sem o parâmetro.
 
 ---

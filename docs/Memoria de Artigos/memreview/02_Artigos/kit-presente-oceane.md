@@ -2,7 +2,7 @@
 titulo_provisorio: "Kits de presente da Océane para o Natal: o que vem em cada um, por faixa de preço"
 seo_title: "Kit de presente Océane para o Natal: por preço"
 meta_description: "EMCASA dá 10% OFF na Océane. Kits de presente por faixa de preço, o que vem em cada um e como escolher para quem gosta de make ou de skincare."
-slug_sugerido: "kit-presente-oceane-natal"
+slug_sugerido: "kit-presente-oceane"
 parceiro: "[[Oceane]]"
 affiliate: "oceane"
 coupon: "EMCASA"
@@ -11,10 +11,10 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presente"
 anexo_tipo: "Anexo-Beleza"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "resposta-do-bruno"
-bloqueado_por: "resposta do Bruno: o destino da URL depois do Natal"
+proxima_acao: "redacao"
+bloqueado_por: null
 score_autoridade: 58
 score_conversao: 70
 score_ponderado_total: 72
@@ -148,7 +148,7 @@ Fica de fora da seleção: kits para gestantes (espuma de limpeza, creme de estr
 ## 8. Decisão Multilíngue
 
 - **Cluster editorial e `translationKey`:** nenhum. `somente-pt`.
-- **URL prevista:** `/reviews/kit-presente-oceane-natal`.
+- **URL prevista:** `/reviews/kit-presente-oceane`.
 - **Modo i18n:** [x] Somente PT.
 - **Justificativa de mercado:** busca em português, loja brasileira, presente de Natal no Brasil.
 - **Fonte PT será a peça canônica?** [x] Sim.
@@ -242,5 +242,5 @@ Pendências:
 
 - GO do pacote da Océane (OC1 a OC10): o pedido do Bruno em 23/11 ("Faça as pautas da Oceane").
 - Decisões tomadas por Claude pelas regras já escritas (sem pergunta ao Bruno) estão marcadas como "regra".
-- **Espera resposta do Bruno:** depois do Natal, a URL vira guia de presentes do ano (Dia das Mães, amigo secreto) ou sai do ar. A redação pode começar; a decisão muda só o título e o slug.
+- **Resposta do Bruno (23/11):** a URL fica no ar depois do Natal e serve às outras datas (amigo secreto, Dia das Mães, Dia dos Namorados, aniversário). Por isso o slug é `kit-presente-oceane`, sem "natal": o título e a resposta rápida falam do Natal agora e mudam a cada data, com releitura dos kits.
 - EMCASA nos kits: 10% na simulação da sacola (23/11); a redação refaz no dia.

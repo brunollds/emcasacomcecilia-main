@@ -9,10 +9,10 @@ category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
 anexo_tipo: "Anexo-Beleza"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "resposta-do-bruno"
-bloqueado_por: "resposta do Bruno: em que tela do app o EMCASA entra"
+proxima_acao: "redacao"
+bloqueado_por: null
 score_autoridade: 52
 score_conversao: 78
 score_ponderado_total: 69
@@ -174,5 +174,5 @@ vai na legenda, não no corpo. Sem "X% OFF" sobre o riscado.
 
 - GO do pacote da Océane (OC1 a OC10): o pedido do Bruno em 23/11 ("Faça as pautas da Oceane").
 - Decisões tomadas por Claude pelas regras já escritas (sem pergunta ao Bruno) estão marcadas como "regra".
-- **Espera resposta do Bruno:** o caminho do cupom no app (o print mostra o desconto, não o campo). Sem ela, o artigo só descreve o app pelo que o print mostra.
+- **Resposta do Bruno (23/11):** no app, o EMCASA entra no carrinho, que o app chama de **Sacola**, como no site. O passo a passo do app diz isso.
 - O print da sacola do app (o mesmo da página da loja) entra no corpo (regra: piso de imagem do Job 6, print próprio do Bruno).
