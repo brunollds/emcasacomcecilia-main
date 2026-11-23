@@ -49,7 +49,7 @@ Onde ele diz "La Ganexa sem link, sem cupom, sem foto", "comparação com a Dr. 
 
 ### Formato: artigo de várias lojas (confirmado)
 
-- `affiliate: ["dr-peanut", "la-ganexa"]`, **sem `coupon` e sem `cta`** (a regra de artigo de várias lojas (memória do Claude);
+- `affiliate: ["dr-peanut", "la-ganexa"]`, **sem `coupon` e sem `cta`** ([[project-artigo-varias-lojas]];
   `scripts/multi-store-checks.ts`). As duas lojas são de código comum (`offerMode: 'discount-code'`, sem `codeKind` e
   sem faixas), então cabem no formato. O artigo é só PT, sem `translationKey`.
 - O topo, a lateral e o fim mostram uma linha por loja (`ArticleStoreCodes`), sem banners de campanha. Link de seção,

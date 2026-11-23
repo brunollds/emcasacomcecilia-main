@@ -90,7 +90,7 @@ Pedido do Bruno em 10/11/2026: modelar a ideia de um artigo da concorrente sobre
 
 ## 7. Decisão técnica
 
-- **Várias lojas:** `affiliate: ["clea-store", "insider"]`, sem `coupon` nem `cta` (a regra de artigo de várias lojas (memória do Claude)). Link de seção, foto com link e peça do card levam `store`.
+- **Várias lojas:** `affiliate: ["clea-store", "insider"]`, sem `coupon` nem `cta` ([[project-artigo-varias-lojas]]). Link de seção, foto com link e peça do card levam `store`.
 - **Banners de campanha:** o formato de várias lojas não leva banner.
 
 ## 8. O que falta
