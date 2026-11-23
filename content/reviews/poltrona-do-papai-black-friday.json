@@ -18,7 +18,7 @@
   "metaDescription": "CECILIA12 dá 12% na DAMIE e soma com promoções. Compare os preços de outubro e novembro e veja o que mudou nos brindes da Black Friday.",
   "publishedAt": "9 de novembro de 2026",
   "publishedAtISO": "2026-11-09",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/damie/poltrona-do-papai-black-friday-capa-v2.webp",
@@ -29,9 +29,9 @@
   "cons": [],
   "contentSections": [
     {
-      "heading": "Resposta rápida: poltrona do papai na Black Friday",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "A DAMIE manteve os preços de outubro e acrescentou a massagem como brinde nas reclináveis. O CECILIA12 dá 12% no site, soma com a promoção e deixou as opções comparadas abaixo dos anúncios da marca na Amazon, Magalu e Mercado Livre, antes do frete. Compare abaixo as alternativas manuais, elétricas e com elevação."
+        "A DAMIE manteve os preços de outubro e acrescentou a massagem como brinde nas reclináveis, em campanha até 27/11. O CECILIA12 dá 12% no site, soma com a promoção e o Pix e deixou a elétrica em suede abaixo dos anúncios da própria marca na Amazon, Magalu e Mercado Livre, antes do frete."
       ]
     },
     {
@@ -48,7 +48,7 @@
         "aspectRatio": 1.3333
       },
       "comparisonTable": {
-        "caption": "Preços lidos em 9 de novembro, sem frete. As mesmas condições de leitura valem para os demais quadros de modelos.",
+        "caption": "Outras marcas lidas em 9 de novembro, sem frete; DAMIE com preços do site em 23/11/2026, no cartão. As mesmas condições valem para os demais quadros de modelos.",
         "headers": [
           "Modelo e loja",
           "O que você está comparando",
@@ -78,7 +78,7 @@
       },
       "postParagraphs": [
         "A Caravelli é a opção de menor preço deste grupo. A Compass custa mais e anuncia o mecanismo zero wall; a DAMIE em suede custa mais, mesmo com o código. Se o seu objetivo é só ter uma poltrona que recline, essa diferença de preço merece entrar na escolha antes dos acessórios.",
-        "Os valores menores das Matrix mostram que há alternativas mais baratas que a DAMIE. Isso, por si só, não diz qual oferece o mesmo acabamento ou conforto."
+        "Os valores menores das Matrix mostram que há alternativas mais baratas que a DAMIE. Mais barata não quer dizer igual: acabamento e conforto mudam."
       ]
     },
     {
@@ -129,13 +129,14 @@
     {
       "heading": "Elétricas em couro",
       "paragraphs": [
-        "Para quem procura uma elétrica em couro, a DAMIE ficou abaixo da Armênia e da Alpha nos valores registrados. Isso é uma diferença de preço entre essas ofertas, sem afirmar que os modelos tenham o mesmo acabamento. Confira a composição do revestimento e as medidas antes de escolher pela palavra \"couro\"."
+        "Para quem procura uma elétrica em couro, a DAMIE ficou abaixo da Armênia e da Alpha nos valores registrados. É diferença de preço; o acabamento de cada uma pode ser outro. Confira a composição do revestimento e as medidas antes de escolher pela palavra \"couro\"."
       ],
       "image": {
         "src": "/images/reviews/damie/poltrona-do-papai-armenia-gran-belo.webp",
         "alt": "Poltrona do papai Armênia Power Touch, da Gran Belo, em couro conhaque",
         "caption": "Armênia Power Touch, da Gran Belo, na Magalu.",
-        "objectFit": "square"
+        "objectFit": "contain",
+        "aspectRatio": 1
       },
       "comparisonTable": {
         "caption": "Elétricas em couro.",
@@ -170,14 +171,15 @@
     {
       "heading": "Giro e balanço: veja qual movimento você quer",
       "paragraphs": [
-        "Girar para conversar com alguém e ter balanço são funções diferentes. A DAMIE reúne as duas; a Boston anuncia giro e outros recursos, mas não deve ser escolhida como se oferecesse o mesmo conjunto de movimentos."
+        "Girar para conversar com alguém e ter balanço são funções diferentes. A DAMIE reúne as duas; a Boston anuncia giro e outros recursos, mas não balança."
       ],
       "image": {
         "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-giro-balanco-bege.webp",
         "alt": "Poltrona Reclinável 2.0 elétrica com giro e balanço, em suede bege, com porta-copos nos braços",
         "caption": "A reclinável 2.0 com giro e balanço, em suede.",
-        "objectFit": "square",
-        "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+        "objectFit": "contain",
+        "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+        "aspectRatio": 1
       },
       "comparisonTable": {
         "caption": "Elétricas com giro.",
@@ -233,13 +235,13 @@
             "Não registrado"
           ],
           [
-            "[Aurora Drossi no Mercado Livre](https://meli.la/2AWkZgj)",
+            "[Aurora, da D'Rossi no Mercado Livre](https://meli.la/2AWkZgj)",
             "PU whisky; elevação e massagem",
             "R$ 4.762",
             "Não registrado"
           ],
           [
-            "[Aurora Drossi no Mercado Livre](https://meli.la/2kvzpFB)",
+            "[Aurora, da D'Rossi no Mercado Livre](https://meli.la/2kvzpFB)",
             "PU bege; elevação",
             "R$ 5.449",
             "Não registrado"
@@ -260,15 +262,17 @@
           "src": "/images/reviews/poltrona-levita.webp",
           "alt": "Poltrona DAMIE Levita elétrica em couro caramelo, com base giratória preta",
           "caption": "A Levita elétrica, em couro.",
-          "objectFit": "square",
-          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita"
+          "objectFit": "contain",
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-damie-levita",
+          "aspectRatio": 1
         },
         {
           "src": "/images/reviews/damie/poltrona-aurora-castanho-frontal.webp",
           "alt": "Poltrona DAMIE Aurora giratória em couro castanho, vista de frente",
           "caption": "A Aurora giratória, em couro.",
-          "objectFit": "square",
-          "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora"
+          "objectFit": "contain",
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora",
+          "aspectRatio": 1
         }
       ],
       "comparisonTable": {
@@ -297,7 +301,7 @@
         ]
       },
       "postParagraphs": [
-        "As outras marcas têm preços registrados em novembro, mas ainda não há, nesta seleção, um histórico do ano para dizer que estejam no menor preço.",
+        "Das outras marcas só temos o preço de novembro, então não dá para dizer que é o menor do ano.",
         "Para quem já queria a massagem, a campanha melhora a compra sem aumentar o preço da poltrona. A loja cobra R$ 550 por esse opcional fora da oferta. Se o recurso não interessa, a escolha continua dependendo do modelo, do preço e do frete. Massagem aqui é conforto: para dor ou recuperação, quem orienta é o médico.",
         "O CECILIA12 vale no site da DAMIE em todas as formas de pagamento e soma com as promoções, o Pix e o desconto por quantidade. Não acumula com outro cupom nem com o giftback de 15%, que é crédito para uma compra futura. As regras estão na página do [cupom DAMIE](/cupons/damie).",
         "As ofertas anunciadas vão até 27 de novembro, enquanto houver disponibilidade. Os demais benefícios estão no guia da [Black Friday da DAMIE](/reviews/black-friday-damie)."
@@ -305,7 +309,8 @@
       "links": [
         {
           "label": "Guia da poltrona do papai com massagem",
-          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem"
+          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-do-papai-com-massagem",
+          "sponsored": true
         }
       ]
     },
@@ -313,14 +318,15 @@
       "heading": "Por que o desconto mostrado pela loja parece maior?",
       "paragraphs": [
         "Algumas páginas mostram um preço anterior cortado por uma linha, ao lado do valor da oferta. Esse número não comprova quanto a poltrona custava antes da campanha.",
-        "Na manual em suede da DAMIE, o valor usado para apresentar o desconto também inclui os acessórios dados de brinde. Por isso, para saber se a poltrona ficou mais barata, comparamos o preço cobrado em outubro com o de novembro. Nessa comparação, o preço ficou igual e a massagem passou a fazer parte da oferta."
+        "Na DAMIE, a página mostra um preço anterior R$ 1.000 acima do cobrado, e a faixa da campanha soma ainda o valor dos brindes e do frete. Nenhum dos dois números diz quanto a poltrona custava antes. Por isso comparamos o preço cobrado em outubro com o de novembro: ficou igual, e a massagem passou a fazer parte da oferta."
       ],
       "image": {
         "src": "/images/reviews/damie/black-friday-damie-banner-esquenta.webp",
         "alt": "Banner da DAMIE: sua poltrona com 3 presentes e frete grátis, R$ 1.150,00 de economia na compra de qualquer poltrona, com carregador USB, massagem e porta-copos grátis",
         "caption": "A faixa da campanha, com os três presentes e o frete grátis.",
         "objectFit": "contain",
-        "aspectRatio": 2.974
+        "aspectRatio": 2.974,
+        "href": "https://www.damie.com.br/pages/cupons"
       }
     },
     {
@@ -329,7 +335,7 @@
         "Nas configurações comparadas, o site com o CECILIA12 ficou abaixo dos anúncios da própria DAMIE na Amazon, Magalu e Mercado Livre, no cartão e antes do frete. A elétrica em suede mostra essa diferença:"
       ],
       "comparisonTable": {
-        "caption": "Onde comprar a elétrica em suede, no cartão.",
+        "caption": "Marketplaces na leitura de novembro; site em 23/11/2026, no cartão.",
         "headers": [
           "Onde comprar",
           "Preço no cartão"
@@ -363,24 +369,42 @@
       "paragraphs": [
         "Comprar agora pode fazer sentido se o modelo já atende ao que você precisa, o total cabe no orçamento e você quer aproveitar a massagem de brinde. Se prefere esperar outra oferta, ainda não temos o preço do dia da Black Friday para comparar com os atuais.",
         "Antes de decidir, simule a entrega. No CEP consultado, o frete da Toronto foi de R$ 646,98 e o da Austin Lift, de R$ 242,07. Uma diferença desse tamanho pode mudar a ordem dos preços entre lojas; use o seu CEP para fazer a comparação. Se for um [presente de Natal para a casa](/reviews/presente-de-natal-para-casa-moveis), confira também o prazo de entrega.",
-        "Para gastar menos, eu começaria pelas manuais da Matrix. Para reclinar no botão, a DAMIE em suede com o CECILIA12 ficou com o menor preço entre as elétricas em suede e materiais sintéticos desta seleção. Quem precisa de giro, balanço ou elevação deve ficar no grupo que oferece essa função, para não pagar por uma poltrona que não resolve o que procura.",
-        "Recebi poltronas DAMIE em parceria: duas reclináveis 1.0 em linho bege, a 2.0 em corino caramelo com giro e balanço e a [Levita em couro caramelo](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto). O relato da que usamos em casa está em [a Reclinável 2.0 é boa?](/reviews/poltrona-damie-e-boa). Essa experiência não é um teste das outras marcas da seleção."
+        "Quem precisa de giro, balanço ou elevação deve ficar no grupo que oferece essa função, para não pagar por uma poltrona que não resolve o que procura.",
+        "Das poltronas DAMIE, recebi em parceria duas reclináveis 1.0 em linho bege, a 2.0 em corino caramelo com giro e balanço e a [Levita em couro caramelo](/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto). O relato da que usamos em casa está em [a Reclinável 2.0 é boa?](/reviews/poltrona-damie-e-boa)."
       ],
       "image": {
-        "src": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao.webp",
+        "src": "/images/reviews/poltrona-reclinavel-cecilia-botao-reclinacao-4x5.webp",
         "alt": "Cecília Mauad sentada na poltrona reclinável DAMIE em linho bege, com a mão no botão de reclinar",
         "caption": "A reclinável 1.0 em linho bege, aqui em casa.",
-        "objectFit": "portrait",
-        "aspectRatio": 0.5625
-      }
+        "objectFit": "contain",
+        "aspectRatio": 0.8,
+        "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+      },
+      "emphasis": "Para gastar menos, eu começaria pelas manuais da Matrix. Para reclinar no botão, eu compraria a DAMIE em suede com o CECILIA12, que ficou com o menor preço entre as elétricas em suede e materiais sintéticos desta seleção.",
+      "links": [
+        {
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=poltrona-do-papai-black-friday",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a Reclinável 2.0 na DAMIE",
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom DAMIE",
+          "href": "/cupons/damie"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Poltrona do papai fica mais barata na Black Friday? Na DAMIE, os preços de outubro e novembro que acompanhamos não mudaram, e a campanha acrescentou a massagem nas reclináveis. Para as demais marcas, veja os valores nos quadros e compare o histórico da mesma peça antes de tratar a oferta como a menor do ano.",
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Soma com as promoções e o Pix, mas não vale nos anúncios do Mercado Livre.",
+        "Poltrona do papai fica mais barata na Black Friday? Na DAMIE, os preços que acompanhamos não mudaram entre as duas leituras, e a campanha acrescentou a massagem nas reclináveis. Para as demais marcas, veja os valores nos quadros e compare o histórico da mesma peça antes de tratar a oferta como a menor do ano.",
         "Qual é a poltrona do papai mais barata desta seleção? A Matrix Caravelli é a de menor preço entre os modelos apresentados. Ela é manual; para quem precisa reclinar no botão ou ter ajuda para se levantar, a comparação deve ser feita nos grupos de elétricas ou de elevação.",
-        "Vale esperar a Black Friday? Pode valer para quem quer acompanhar novas ofertas. Quem já escolheu a poltrona pode avaliar a campanha atual pelo preço final, pelos acessórios que deseja e pelo frete.",
-        "Qual é o cupom da DAMIE? O CECILIA12 dá 12% no site da DAMIE, em todas as formas de pagamento, e soma com as promoções e o Pix. Não vale nos anúncios do Mercado Livre.",
+        "Vale esperar a Black Friday? A campanha de Black Friday da DAMIE já está no ar e inclui a massagem. Quem já escolheu a poltrona decide pelo preço final, pelos acessórios e pelo frete; quem espera outra oferta não tem garantia de preço menor.",
         "Como saber se o desconto é real? Compare o preço cobrado pela mesma poltrona, com a mesma base, revestimento e cor, em datas diferentes. O preço anterior mostrado pela loja não substitui esse histórico."
       ]
     }
@@ -393,7 +417,8 @@
     ],
     "skipIf": [
       "Passe se a oferta só parece boa por causa do preço anterior cortado na página.",
-      "Passe se o frete do seu CEP come a diferença entre as lojas."
+      "Passe se o frete do seu CEP come a diferença entre as lojas.",
+      "Passe se você mora no Norte ou no Nordeste: a DAMIE só entrega por lá pelo Mercado Livre, onde o CECILIA12 não vale."
     ]
   },
   "cta": {
@@ -404,7 +429,7 @@
   },
   "coupon": "CECILIA12",
   "affiliate": "damie",
-  "editorialNote": "Recebemos poltronas DAMIE em parceria e podemos receber comissão pelo cupom e pelos links. As outras marcas não foram testadas.",
+  "editorialNote": "Recebemos poltronas DAMIE em parceria; links com comissão. Outras marcas não testadas.",
   "relatedArticles": [
     {
       "slug": "black-friday-damie"
@@ -414,6 +439,9 @@
     },
     {
       "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
+    },
+    {
+      "slug": "poltrona-do-papai-eletrica-quanto-custa"
     }
   ]
 }

@@ -168,31 +168,13 @@ export const storeBannersData: StoreBanner[] = [
     "endsAt": "2026-11-27T23:59:59-03:00",
     "copy": {
       "pt": {
-        "headline": "Esquenta Black da DAMIE: poltrona com 3 presentes e frete grátis",
-        "text": "Campanha da própria DAMIE, enquanto durarem os estoques. As condições aparecem no site da loja.",
+        "headline": "Black Friday DAMIE: massagem, USB e porta-copos de brinde na poltrona",
+        "text": "Campanha da própria DAMIE, até 27/11 ou enquanto durarem os estoques: R$ 1.000 de desconto nas poltronas, já no preço, e frete grátis no Sul e no Sudeste.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Banner do topo de damie.com.br (conferido em 02/11/2026)",
-    "verifiedAt": "2026-11-02"
-  },
-  {
-    "id": "damie-pre-black-friday-2026",
-    "affiliate": "damie",
-    "slot": "mid",
-    "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=banner-pre-black-friday",
-    "art": {
-      "kind": "bag"
-    },
-    "copy": {
-      "pt": {
-        "headline": "A Black Friday chegou antes na DAMIE",
-        "text": "Campanha da própria DAMIE. As condições aparecem no site da loja.",
-        "action": "Ver a campanha"
-      }
-    },
-    "source": "Banner do topo de damie.com.br (conferido em 02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "source": "Página de ofertas (/pages/cupons) e banner do topo de damie.com.br (conferidos em 23/11/2026)",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "dolce-gusto-black-friday-2026",
@@ -204,31 +186,31 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Black Friday da Dolce Gusto: ofertas novas todos os dias",
-        "text": "Campanha da própria Dolce Gusto. As ofertas mudam sem aviso e as condições aparecem no site da loja.",
+        "headline": "Black Friday da Dolce Gusto: caixas a partir de R$ 15,90",
+        "text": "Campanha da própria Dolce Gusto, com ofertas que mudam sem aviso e frete grátis em bebidas acima de R$ 100. As condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Home de nescafe-dolcegusto.com.br (\"Começou a Black\") e artigo black-friday-dolce-gusto, revisado com a campanha (03/11/2026)",
-    "verifiedAt": "2026-11-03"
+    "source": "Home de nescafe-dolcegusto.com.br (\"Todo o site em oferta + frete grátis acima de R$100\") e /sobre/regulamentos2026, \"Caixas regulares a partir de R$15,90\" (sem data de fim publicada), lidos em 23/11/2026",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "dolce-gusto-maquinas-30-capsulas",
     "affiliate": "dolce-gusto",
     "slot": "mid",
-    "href": "https://www.nescafe-dolcegusto.com.br/",
+    "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe",
     "art": {
       "kind": "bag"
     },
     "copy": {
       "pt": {
-        "headline": "Mini Me 2.0 e Genio S com 30 cápsulas na Black Friday",
-        "text": "Campanha da própria Dolce Gusto, com 10 vezes sem juros. As condições aparecem no site da loja.",
+        "headline": "Máquina Original com 30 cápsulas de brinde",
+        "text": "Campanha da própria Dolce Gusto: na compra de uma Mini Me 2.0 ou Genio S no site, as 30 cápsulas entram sozinhas no carrinho, com 10 vezes sem juros.",
         "action": "Ver as máquinas"
       }
     },
-    "source": "Banners da Black Friday em nescafe-dolcegusto.com.br e artigo black-friday-dolce-gusto (03/11/2026)",
-    "verifiedAt": "2026-11-03"
+    "source": "/sobre/regulamentos2026, \"PROMOÇÃO MÁQUINA - Na compra de 1 máquina da linha ORIGINAL, ganhe 30 cápsulas\" (ativa desde 31/10/2026, sem data de fim publicada), lido em 23/11/2026",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "dr-peanut-assinatura-doctor-2026",
@@ -1046,16 +1028,16 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Black November da Toda Up: até 35% OFF",
-        "text": "Campanha da própria Toda Up. As condições aparecem no site da loja.",
+        "headline": "Black Week da Toda Up: até 50% OFF",
+        "text": "Campanha da própria Toda Up: 25% em 1 ou 2 produtos, 30% em 3 ou 4 e 35% a partir de 5, com frete fixo de R$ 9,90. As condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Banner do topo de todaup.com (\"Black November, até 35% OFF\"), lido no navegador em 11/11/2026",
-    "verifiedAt": "2026-11-18"
+    "source": "Faixa do topo de todaup.com (\"Black Week com até 50% OFF\", \"Frete fixo R$ 9,90\") e quadro \"Black Week\" das páginas de produto, lidos no navegador em 23/11/2026; a loja não publica a data de fim",
+    "verifiedAt": "2026-11-23"
   },
   {
-    "id": "toda-up-brindes-calcinha-2026",
+    "id": "toda-up-brinde-protetor-2026",
     "affiliate": "toda-up",
     "slot": "mid",
     "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
@@ -1064,13 +1046,13 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Toda Up: ganhe calcinha fio dental de brinde",
-        "text": "Campanha da própria Toda Up: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, a calcinha fio dental e o protetor de silicone.",
+        "headline": "Toda Up: Protetor de Silicone de brinde acima de R$ 249,90",
+        "text": "Campanha da própria Toda Up na Black Week: compras acima de R$ 249,90, depois dos descontos, ganham um Protetor de Silicone. As condições aparecem no site da loja.",
         "action": "Ver a campanha"
       }
     },
-    "source": "Informado pelo Bruno em 11/11/2026 (\"Ganhe calcinha fio dental acima de R$199, ganhe calcinha fio dental + protetor de silicone acima de R$299\"); banner do topo de todaup.com com os brindes, lido em 11/11/2026; sem prazo informado",
-    "verifiedAt": "2026-11-11"
+    "source": "Quadro \"Black Week\" das páginas de produto de todaup.com (\"Acima de R$ 249,90 ganhe um Protetor de Silicone\"), lido no navegador em 23/11/2026; sem data de fim publicada",
+    "verifiedAt": "2026-11-23"
   },
   {
     "id": "yesstyle-black-friday-sale-2026",

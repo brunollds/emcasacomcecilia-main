@@ -12,6 +12,7 @@
   },
   "publishedAt": "8 de novembro de 2026",
   "publishedAtISO": "2026-11-08",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -22,9 +23,9 @@
   "slug": "tamanho-toda-up-como-escolher",
   "coupon": "MAUAD",
   "affiliate": "toda-up",
-  "editorialNote": "Podemos receber comissão pelos links e pelo cupom. As medidas são dos guias da Toda Up; testamos o desconto no carrinho.",
+  "editorialNote": "Podemos receber comissão pelo cupom e pelos links. Ninguém da equipe usou as peças.",
   "title": "Como descobrir seu tamanho na Toda Up: Comfort, SkinUp, Cotton Up, silicone e Fita Up",
-  "seoTitle": "Tamanho Toda Up: como escolher em cada linha",
+  "seoTitle": "Tamanho Toda Up: como escolher em cada linha da loja",
   "description": "O M de uma peça não é o M da outra, e o mesmo número também muda. Veja como medir e as tabelas de sutiã, top, calcinha, silicone, protetor e Fita Up num lugar só.",
   "metaDescription": "MAUAD dá 10% OFF na Toda Up. Como descobrir seu tamanho em Comfort, SkinUp, Cotton Up, sutiã de silicone, protetor e Fita Up.",
   "image": "/images/reviews/toda-up/tamanho-toda-up-como-escolher-capa-v2.webp",
@@ -33,7 +34,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na Toda Up, a mesma letra e o mesmo número podem corresponder a faixas corporais diferentes em cada peça. Meça busto e sob busto, ou cintura e quadril, e compare os dois pontos nas tabelas abaixo. O MAUAD entrou nas peças testadas no carrinho e dá 10% OFF."
+        "Na Toda Up, a mesma letra corresponde a medidas diferentes em cada peça. Compare os centímetros do seu busto e sob busto, ou da cintura e do quadril, com o guia da peça que você quer. O [cupom Toda Up](/cupons/toda-up) MAUAD dá 10% OFF no site oficial, e a tabela de cada linha está nos capítulos abaixo."
       ]
     },
     {
@@ -57,7 +58,7 @@
         "A Toda Up não publica uma tabela geral: cada peça traz o seu guia. O M mostra o efeito disso. Nas sete peças, ele vem com o número 40-42, e o busto começa em 84 cm no Clássico e em 92 cm no Alça Fina."
       ],
       "comparisonTable": {
-        "caption": "Medidas em cm, pelos guias da Toda Up lidos em 08/11/2026.",
+        "caption": "Medidas em cm, pelos guias da Toda Up.",
         "headers": [
           "Peça",
           "Sob busto no M",
@@ -481,6 +482,24 @@
       },
       "postParagraphs": [
         "O uso de cada um está em [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar) e em [protetor de silicone: como usar](/reviews/protetor-de-silicone-mamilo-como-usar)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
+          "alt": "Mãos unindo os dois lados do fecho do Sutiã de Silicone Invisível da Toda Up, em foto oficial da loja",
+          "caption": "O Sutiã de Silicone Invisível tem três tamanhos. Foto: Toda Up.",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-de-silicone-invisivel&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
+          "alt": "Três protetores de silicone da Toda Up nas cores Creme, Caramelo e Avelã, colados no braço de uma modelo",
+          "caption": "O Protetor de Silicone Ultrafino vem em P, M e G. Foto: Toda Up.",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/protetor-de-silicone-ultrafino&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       ]
     },
     {
@@ -577,15 +596,35 @@
       ]
     },
     {
-      "heading": "O cupom em qualquer tamanho",
+      "heading": "Cupom, Black Week e preço em qualquer tamanho",
       "paragraphs": [
-        "Nas peças que testamos no carrinho, o MAUAD entrou em todas, incluindo Comfort, SkinUp, Cotton Up, fita, silicone e protetor, e dá 10% de desconto. Na opção de uma unidade, o preço não muda de um tamanho para outro nessas páginas, então subir de letra não encarece a compra. As regras estão no [cupom Toda Up](/cupons/toda-up)."
+        "O MAUAD dá 10% OFF no site oficial da Toda Up, em todas as formas de pagamento, e o preço de uma unidade não muda de um tamanho para outro nas páginas que lemos: subir de letra não encarece a compra. Os links deste guia abrem a loja com o código já aplicado; se você entrar por outro caminho, cole MAUAD no campo \"Código de desconto ou cartão-presente\" do checkout. O MAUAD não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
+        "A Black Week da loja tem escada própria, e a página informa: 25% OFF em 1 ou 2 produtos, 30% em 3 ou 4 e 35% em 5 ou mais, com um Protetor de Silicone de brinde acima de R$ 249,90 depois dos descontos. Cada kit conta como um produto. O MAUAD soma com a escada: ela entra primeiro, e os 10% saem do que sobra. No teste de novembro, a Fita Up de R$ 116,90 foi a R$ 87,68 com a Black Week e a R$ 78,92 com o MAUAD. As regras completas estão no [cupom Toda Up](/cupons/toda-up)."
+      ]
+    },
+    {
+      "heading": "Qual tamanho escolher",
+      "paragraphs": [
+        "Se o busto e o sob busto caem na mesma letra do guia, peça essa letra. Entre dois tamanhos, o menor dá mais firmeza e o maior, mais liberdade, pela dica das páginas dos sutiãs Comfort, do Top Segunda Pele, do Clássico e dos tops Cotton Up. Se busto e sob busto apontam letras diferentes, confirme com a marca antes de pagar, porque os guias não dizem qual medida manda. Na Fita Up, a escolha é pela largura, e o guia fala do tamanho da roupa."
+      ],
+      "emphasis": "Escolha pelos centímetros do guia da peça e nunca pela letra que você veste em outra linha: a mesma letra não é a mesma medida.",
+      "links": [
+        {
+          "label": "Ver o Sutiã Comfort Up na Toda Up",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Toda Up: MAUAD",
+          "href": "/cupons/toda-up"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Como saber meu tamanho na Toda Up? Meça o busto e o sob busto, ou a cintura e o quadril, e confira o guia da peça que você quer. Cada linha tem o seu.",
+        "Qual é o cupom da Toda Up? É o MAUAD, com 10% OFF no site oficial da Toda Up, em todas as formas de pagamento. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
         "O M é igual em todas as linhas? Não. O busto do M começa em 84 cm no Clássico e no Comfort Line, em 86 cm nos tops Cotton Up, em 91 cm no Comfort Up e em 92 cm no Alça Fina.",
         "Toda Up tem plus size? Nos guias reunidos aqui, o Comfort Up chega ao G3 (54-56). A Fita Up tem uma divergência entre 52 e 54 na própria página; veja o capítulo da Fita Up antes de escolher.",
         "Qual o tamanho da Fita Up? A largura P sustenta até o 44, a M até o 48 e a G até o 54, pelo guia da página. Outro trecho da mesma página fala em segurança até o 52.",
@@ -593,6 +632,16 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Você vai comprar mais de uma linha da Toda Up e quer saber se a mesma letra serve em todas.",
+      "Seu busto e seu sob busto apontam letras diferentes e você precisa decidir entre firmeza e liberdade."
+    ],
+    "skipIf": [
+      "Você quer a Fita Up: ela não usa medida de corpo, e a largura vai até o 44, o 48 ou o 54 pelo guia da página.",
+      "Você decide só pela letra que veste em outra marca: os centímetros do guia da peça é que valem."
+    ]
+  },
   "cta": {
     "text": "Se as suas medidas apontaram para o Comfort Up, veja a peça pelo link da parceria com MAUAD, de 10% OFF. As outras peças têm seus links no quadro de tamanhos. Confira o desconto no carrinho antes de pagar.",
     "label": "Ver o Comfort Up com o cupom",

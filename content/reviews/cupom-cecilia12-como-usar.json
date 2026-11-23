@@ -5,7 +5,7 @@
   "seoTitle": "Como usar o cupom CECILIA12 na Damie: 12% OFF no checkout",
   "type": "Guia & Cupons",
   "category": "cupons-como-usar",
-  "description": "Passo a passo simples para usar o cupom CECILIA12 no site da Damie. Veja onde digitar o código e como confirmar o desconto antes de finalizar a compra.",
+  "description": "Passo a passo simples para usar o cupom CECILIA12 no site da DAMIE. Veja onde digitar o código e como confirmar o desconto antes de finalizar a compra.",
   "metaDescription": "O CECILIA12 dá 12% OFF em todos os produtos da DAMIE e soma com o Pix. Veja onde digitar o código e como confirmar o desconto antes de pagar.",
   "publishedAt": "11 Jun 2026",
   "publishedAtISO": "2026-06-11",
@@ -18,32 +18,30 @@
   "coupon": "CECILIA12",
   "affiliate": "damie",
   "cta": {
-    "text": "Use o cupom CECILIA12 no checkout da Damie para receber 12% de desconto.",
-    "label": "Usar cupom na Damie",
-    "url": "/cupons/damie"
+    "text": "Use o cupom CECILIA12 no checkout da DAMIE para receber 12% de desconto.",
+    "label": "Usar cupom na DAMIE",
+    "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=cupom-cecilia12-como-usar",
+    "sponsored": true
   },
   "contentSections": [
     {
-      "heading": "Introdução",
-      "paragraphs": [
-        "Quando mostro nossa poltrona, sempre aparece a dúvida: onde coloco o CECILIA12 e como sei se o desconto entrou? A resposta está no campo do checkout e no resumo do pedido.",
-        "Escolha modelo, tecido e cor antes de aplicar o código. Depois, confirme o desconto antes de pagar."
-      ]
-    },
-    {
-      "heading": "Resposta rápida: como usar o cupom CECILIA12",
+      "heading": "Resposta rápida",
       "paragraphs": [
         "No checkout do site oficial da DAMIE, encontre o campo de cupom ou código promocional, digite CECILIA12 e aplique. Confira os 12% sobre o subtotal dos produtos. O [cupom DAMIE](/cupons/damie) soma com as promoções e com os 10% do Pix; não soma com outro código nem com giftback e não vale no Mercado Livre."
       ]
     },
     {
       "heading": "1. Escolha o produto no site oficial",
+      "image": {
+        "src": "/images/reviews/cupom-cecilia12/1-escolha-produto.png",
+        "alt": "Tela do site da DAMIE mostrando a escolha do produto.",
+        "caption": "Escolha o produto diretamente no site oficial da DAMIE.",
+        "objectFit": "contain",
+        "aspectRatio": 1.309
+      },
       "paragraphs": [
         "O CECILIA12 vale no site oficial da DAMIE, inclusive para poltronas, sofás, camas, área externa e acessórios, pelas condições vigentes; não vale nos anúncios do Mercado Livre. Escolha modelo, revestimento e cor antes de ir ao carrinho. Se alterar a seleção depois, revise o pedido e confira se o código continua aplicado."
-      ],
-      "image": "/images/reviews/cupom-cecilia12/1-escolha-produto.png",
-      "imageAlt": "Tela do site da Damie mostrando a escolha do produto.",
-      "imageCaption": "Escolha o produto diretamente no site oficial da Damie."
+      ]
     },
     {
       "heading": "2. Adicione ao carrinho e revise o pedido",
@@ -55,100 +53,140 @@
         "Revise o tecido e a cor escolhidos.",
         "Veja se há algum acessório adicional, como porta-copos, massageador ou entrada USB."
       ],
-      "image": "/images/reviews/cupom-cecilia12/2-adicione-carrinho.png",
-      "imageAlt": "Carrinho de compras no site da Damie.",
-      "imageCaption": "Revise o pedido no carrinho antes de seguir.",
+      "image": {
+        "src": "/images/reviews/cupom-cecilia12/2-adicione-carrinho.png",
+        "alt": "Carrinho de compras no site da DAMIE.",
+        "caption": "Revise o pedido no carrinho antes de seguir.",
+        "objectFit": "contain",
+        "aspectRatio": 1.734
+      },
       "images": [
         {
           "src": "/images/reviews/cupom-cecilia12/2-adicione-carrinho-2.png",
           "alt": "Detalhes do produto no carrinho.",
-          "caption": "Confira modelo, tecido e cor antes de aplicar o cupom."
+          "caption": "Confira modelo, tecido e cor antes de aplicar o cupom.",
+          "objectFit": "contain",
+          "aspectRatio": 2.708
         }
       ]
     },
     {
       "heading": "3. Aplique o cupom no checkout",
+      "image": {
+        "src": "/images/reviews/cupom-cecilia12/3-aplique-cupom.png",
+        "alt": "Campo de cupom no checkout da DAMIE.",
+        "caption": "Digite CECILIA12 no campo indicado e clique em aplicar.",
+        "objectFit": "contain",
+        "aspectRatio": 1.46
+      },
       "paragraphs": [
         "No momento do pagamento, procure o campo indicado como \"Cupom de desconto\", \"Código promocional\" ou algo similar. Digite CECILIA12 sem espaços e sem alterar as letras. Clique em aplicar. Se o código estiver válido, o desconto deve aparecer no resumo do pedido, sobre o subtotal dos produtos. O frete não entra no desconto."
-      ],
-      "image": "/images/reviews/cupom-cecilia12/3-aplique-cupom.png",
-      "imageAlt": "Campo de cupom no checkout da Damie.",
-      "imageCaption": "Digite CECILIA12 no campo indicado e clique em aplicar."
+      ]
     },
     {
       "heading": "4. Confirme o desconto antes de pagar",
+      "image": {
+        "src": "/images/reviews/cupom-cecilia12/4-confirme-desconto-recorte.webp",
+        "alt": "Resumo do pedido da DAMIE com o CECILIA12 no campo de cupom e a linha Descontos",
+        "caption": "Confirme se o desconto apareceu no valor total.",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      },
       "paragraphs": [
         "Antes de pagar, confira a linha do CECILIA12 sobre o subtotal dos produtos. Se escolher Pix, confira também o desconto dessa forma de pagamento. O total final deve refletir os descontos e o frete do seu pedido; o frete não recebe os 12% do código. Se o cupom não entrar, confira nesta ordem:"
       ],
       "bullets": [
         "Outro cupom ou o crédito do giftback no pedido: o CECILIA12 não soma com eles. Tire o outro e aplique o CECILIA12 de novo.",
-        "Onde está a compra: o código só vale no site oficial da Damie, e não no Mercado Livre.",
+        "Onde está a compra: o código só vale no site oficial da DAMIE, e não no Mercado Livre.",
         "A digitação: é CECILIA12, sem espaços.",
-        "Se nada disso resolver, veja as [regras completas do cupom](/cupons/damie) e fale com o suporte da Damie antes de concluir o pagamento."
-      ],
-      "image": "/images/reviews/cupom-cecilia12/4-confirme-desconto.png",
-      "imageAlt": "Resumo do pedido da Damie com desconto aplicado.",
-      "imageCaption": "Confirme se o desconto apareceu no valor total."
+        "Se nada disso resolver, veja as [regras completas do cupom](/cupons/damie) e fale com o suporte da DAMIE antes de concluir o pagamento."
+      ]
     },
     {
       "heading": "O que eu observaria antes de comprar",
       "paragraphs": [
-        "O cupom ajuda, mas a compra de um móvel de alto padrão precisa de planejamento além do desconto. Antes de usar o CECILIA12, eu faria estas verificações:"
+        "Antes de usar o CECILIA12, eu conferiria quatro coisas:"
       ],
       "bullets": [
         "Medir o ambiente: poltronas reclináveis precisam de espaço para abrir. Sofás modulares precisam caber no elevador e na porta.",
         "Escolher o tecido pensando no uso real: criança, pet e incidência de luz solar mudam a escolha do revestimento.",
-        "Verificar o frete e o prazo: o frete de poltronas e sofás é grátis no Sul e no Sudeste; nas outras regiões, confira pelo CEP no carrinho. No Norte e no Nordeste, a venda é pelos anúncios da Damie no Mercado Livre, onde o cupom não vale.",
-        "Ler as condições de devolução: o prazo é de 30 dias, contados do recebimento. As [políticas da Damie](https://www.damie.com.br/pages/politicas) pedem o item como foi recebido, na embalagem original e com o comprovante, e excluem itens em promoção; poltronas e sofás têm ainda o teste de 30 dias, com regras próprias."
-      ]
+        "Verificar o frete e o prazo: o frete de poltronas e sofás é grátis no Sul e no Sudeste; nas outras regiões, confira pelo CEP no carrinho. No Norte e no Nordeste, a venda é pelos anúncios da DAMIE no Mercado Livre, onde o cupom não vale.",
+        "Ler a devolução: a DAMIE dá 30 dias para testar poltronas e sofás em casa, com a embalagem original guardada e a nota fiscal: sem a embalagem, a loja não coleta. Leia as [políticas da DAMIE](https://www.damie.com.br/pages/politicas) antes de comprar."
+      ],
+      "image": {
+        "src": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada-4x5.webp",
+        "alt": "Cecília sentada na poltrona reclinável 2.0 da DAMIE.",
+        "caption": "Medir o espaço de abertura da poltrona é parte da compra, antes e depois do cupom.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8,
+        "href": "https://www.damie.com.br/products/poltrona-reclinavel-2-0"
+      }
     },
     {
-      "heading": "Onde a Damie entra nessa história",
+      "heading": "Veredito: quando usar o CECILIA12",
       "paragraphs": [
-        "O CECILIA12 é o cupom da nossa parceria com a Damie, e a compra com ele gera comissão para o site, sem custo extra para você. A primeira a chegar foi a poltrona reclinável 1.0, que recebemos da Damie; o cupom só surgiu um a dois meses depois do primeiro vídeo dela. Depois vieram a Poltrona Moon e o sofá modular, e usamos tudo em casa há mais de um ano, como contamos nos reviews.",
-        "Se você está pesquisando poltrona reclinável, sofá modular ou poltrona decorativa, o cupom pode ajudar a reduzir o investimento. Mas o mais importante ainda é escolher o produto certo para a sua casa. No especial Damie da Cecília você encontra dicas de escolha, comparações e cuidados na hora de montar o ambiente."
+        "Com o produto escolhido, digite CECILIA12 no checkout e confira os 12% no subtotal dos produtos e o valor final antes de pagar. Se tiver dúvida, o suporte da DAMIE pode ajudar diretamente pelo site.",
+        "Se você ainda está na fase de pesquisa, não tem pressa: escolha com calma, meça o ambiente, pense no tecido e só depois use o cupom. No especial DAMIE da Cecília há guias de escolha e cuidados para montar o ambiente."
       ],
       "links": [
         {
-          "label": "Ver o especial Damie da Cecília",
-          "href": "https://damie.emcasacomcecilia.com/?utm_source=site-principal&utm_content=cupom-page"
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=cupom-cecilia12-como-usar",
+          "sponsored": true
         },
         {
           "label": "Guia de poltrona para amamentação",
-          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-para-amamentacao?utm_source=site-principal&utm_content=cupom-page"
-        }
-      ]
-    },
-    {
-      "heading": "Veredito",
-      "paragraphs": [
-        "Com o produto escolhido, digite CECILIA12 no checkout e confira os 12% no subtotal dos produtos e o valor final antes de pagar. Se tiver dúvida, o suporte da Damie pode ajudar diretamente pelo site.",
-        "E se ainda está na fase de pesquisa, não tem pressa. Escolha com calma, meça o ambiente, pense no tecido e só depois use o cupom. O desconto está ali para quando você estiver pronta."
-      ],
-      "links": [
+          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-para-amamentacao?utm_source=site-principal&utm_content=cupom-page",
+          "sponsored": true
+        },
         {
-          "label": "Usar o cupom CECILIA12 na Damie",
+          "label": "Ver o cupom DAMIE",
           "href": "/cupons/damie"
         }
-      ]
+      ],
+      "emphasis": "Eu escolheria o produto com calma, mediria o ambiente e só então digitaria o CECILIA12; no checkout, eu conferiria a linha dos 12% antes de pagar."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O cupom CECILIA12 funciona em qual produto da Damie? Funciona em poltronas, sofás, camas, área externa e acessórios, conforme as condições ativas no momento da compra.",
-        "Onde eu aplico o cupom CECILIA12? No checkout do site oficial da Damie, no campo de cupom ou código promocional, antes de finalizar o pagamento.",
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Ele soma com as promoções e com os 10% do Pix.",
+        "O cupom CECILIA12 funciona em qual produto da DAMIE? Funciona em poltronas, sofás, camas, área externa e acessórios, conforme as condições ativas no momento da compra.",
+        "Onde eu aplico o cupom CECILIA12? No checkout do site oficial da DAMIE, no campo de cupom ou código promocional, antes de finalizar o pagamento.",
         "Posso mudar modelo, tecido ou cor depois de aplicar? Pode revisar a seleção antes de pagar. Depois da alteração, confira novamente o produto, o total e a linha do CECILIA12 no resumo; se o código não estiver aplicado, digite-o de novo.",
-        "Quanto tempo tenho para trocar ou devolver? São 30 dias, contados do recebimento. As [políticas da Damie](https://www.damie.com.br/pages/politicas) pedem o item como foi recebido, na embalagem original e com o comprovante, e excluem itens em promoção; leia as condições completas antes da compra.",
+        "Quanto tempo tenho para trocar ou devolver? A DAMIE dá 30 dias para testar poltronas e sofás em casa, com a embalagem original guardada e a nota fiscal: sem a embalagem, a loja não coleta. Leia as [políticas da DAMIE](https://www.damie.com.br/pages/politicas) antes de comprar.",
         "O cupom CECILIA12 acumula com outras promoções do site? Sim. O CECILIA12 soma com as promoções e os brindes do site, inclusive os 10% do Pix e o desconto por quantidade dos consultores no WhatsApp. Ele não soma com outro cupom nem com o giftback de 15%: no mesmo pedido, vale um código só. Confira o resumo do checkout antes de finalizar.",
-        "Posso usar o cupom CECILIA12 mais de uma vez? O cupom CECILIA12 é válido para múltiplas compras no site oficial, desde que esteja dentro das condições vigentes. Não há limite de uso por CPF, mas o desconto se aplica apenas ao valor do produto e não ao frete. Recomendamos confirmar o valor final no checkout antes de pagar.",
-        "O cupom CECILIA12 funciona para frete grátis? Não. O cupom CECILIA12 concede 12% de desconto sobre o valor do produto, mas não altera a política de frete. A empresa trabalha com transportadora especializada e o valor do envio é calculado no checkout conforme a região e o volume do pedido. O desconto é aplicado apenas sobre o subtotal dos produtos.",
-        "O que fazer se o cupom CECILIA12 não funcionar no checkout? Primeiro, veja se há outro cupom ou o crédito do giftback no pedido: o CECILIA12 não soma com eles. Depois, confirme que a compra está no site oficial da Damie, e não no Mercado Livre, e que o código está certo: CECILIA12, sem espaços. Se o erro persistir, confira as [regras do cupom](/cupons/damie) e fale com o suporte da Damie antes de concluir o pagamento.",
-        "Cupom Damie 15: existe cupom de 15%? O 15% que aparece na Damie é o giftback: um crédito para uma compra futura, e não um desconto na compra de agora. O CECILIA12 dá 12% na hora, sobre os produtos. Na compra em que você usa o crédito do giftback, o CECILIA12 não entra: no mesmo pedido, vale um ou outro.",
-        "Cupom Damie primeira compra: o CECILIA12 funciona? Sim, o cupom CECILIA12 funciona para primeira compra e compras subsequentes no site oficial da Damie, sem limite de uso por CPF, desde que esteja dentro das condições vigentes.",
-        "Cupom Damie 2026: o CECILIA12 ainda vale? Sim, o cupom CECILIA12 é mantido ativo pela parceria entre o blog Em Casa com Cecília e a Damie. Recomendamos sempre testar no checkout antes de finalizar para confirmar que ainda está vigente."
+        "Posso usar o CECILIA12 mais de uma vez? Pode: vale na primeira compra e nas seguintes, sem limite por CPF.",
+        "O cupom CECILIA12 funciona para frete grátis? Não: os 12% entram só sobre os produtos. O frete de poltronas e sofás já é grátis no Sul e no Sudeste; nas outras regiões, ele sai pelo CEP no carrinho.",
+        "Cupom DAMIE 15: existe cupom de 15%? O 15% que aparece na DAMIE é o giftback: um crédito para uma compra futura, e não um desconto na compra de agora. O CECILIA12 dá 12% na hora, sobre os produtos. Na compra em que você usa o crédito do giftback, o CECILIA12 não entra: no mesmo pedido, vale um ou outro.",
+        "O CECILIA12 ainda vale? Vale. Confira a linha do desconto no resumo antes de pagar."
       ]
     }
   ],
-  "updatedAt": "2026-11-06",
-  "editorialNote": "O CECILIA12 é o cupom da nossa parceria com a Damie: a compra com ele gera comissão para o site, sem custo extra para você."
+  "updatedAt": "2026-11-23",
+  "editorialNote": "Parceria com a DAMIE: link afiliado, comissão sem custo extra para você.",
+  "reviewKind": "guia",
+  "decision": {
+    "takeIf": [
+      "Use este passo a passo se você já escolheu o produto no site oficial da DAMIE e quer confirmar os 12% antes de pagar.",
+      "Use o código pagando no Pix se quer o maior desconto: os 12% entram sobre o preço que já tem os 10%."
+    ],
+    "skipIf": [
+      "Passe se a compra for pelo Mercado Livre, que atende Norte e Nordeste: o CECILIA12 não vale lá.",
+      "Passe se você ainda não escolheu o modelo: decida primeiro o produto e o revestimento, e volte aqui só no checkout."
+    ]
+  },
+  "relatedArticles": [
+    {
+      "slug": "cupom-damie-primeira-compra"
+    },
+    {
+      "slug": "poltrona-damie-e-boa"
+    },
+    {
+      "slug": "sofa-damie-modular-vale-a-pena"
+    },
+    {
+      "slug": "damie-prazo-de-entrega"
+    }
+  ]
 }

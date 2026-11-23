@@ -17,7 +17,7 @@
   "metaDescription": "Assinatura Dolce Gusto com o cupom CECI (10% OFF a partir de R$ 100): 25% de desconto, frete grátis, mínimo de 3 caixas e como cancelar.",
   "publishedAt": "3 de agosto de 2026",
   "publishedAtISO": "2026-08-03",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-funciona-capa-v2.webp",
@@ -26,18 +26,28 @@
   "imageAspect": "landscape",
   "pros": [],
   "cons": [],
+  "decision": {
+    "takeIf": [
+      "Assine se você usa pelo menos três caixas por mês, de Geração 1 ou NEO, e quer receber sem lembrar de fazer pedido.",
+      "Assine se quer frete grátis e desconto fixo sem depender da promoção do dia."
+    ],
+    "skipIf": [
+      "Passe a assinatura se você toma café só de vez em quando: as caixas acumulam e a compra avulsa em promoção resolve.",
+      "Passe se prefere pagar no Pix, no boleto ou parcelado: a assinatura só aceita cartão de crédito à vista."
+    ]
+  },
   "contentSections": [
     {
-      "heading": "Resposta rápida: como funciona a assinatura",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "A Assinatura NESCAFÉ Dolce Gusto entrega cápsulas a cada 1, 2 ou 3 meses, com 25% de desconto e frete grátis em pedidos de 3 caixas ou mais, no cartão, e o plano regular pode ser cancelado sem multa. O cupom CECI dá 10% OFF acima do pedido mínimo e já somou com os 25%; confira no carrinho."
+        "A Assinatura NESCAFÉ Dolce Gusto entrega cápsulas a cada 1, 2 ou 3 meses, com desconto fixo e frete grátis a partir de 3 caixas, e aceita cartão de crédito, sem parcelar. O plano cancela sem multa. O [cupom Dolce Gusto](/cupons/dolce-gusto), o CECI, dá 10% OFF a partir de 100 reais e já somou com o desconto do plano."
       ]
     },
     {
       "heading": "O que é a Assinatura Dolce Gusto",
       "paragraphs": [
         "A Assinatura é a compra programada de cápsulas no site oficial da NESCAFÉ Dolce Gusto. Em vez de lembrar de fazer um pedido toda vez que a caixa acaba, você escolhe os sabores uma vez, define de quanto em quanto tempo quer receber e o pedido é cobrado e enviado sozinho na data marcada.",
-        "Em troca dessa recorrência, a marca dá **25% de desconto** sobre o preço cheio das caixas e **frete grátis** em todos os pedidos de assinatura. No plano regular descrito aqui não existe fidelidade: ele pode ser alterado ou cancelado pela conta, sem multa.",
+        "Em troca dessa recorrência, a marca dá **25% de desconto** sobre o preço cheio das caixas e **frete grátis** em todos os pedidos de assinatura. Na Black Friday a loja sobe o desconto do plano (a página chegou a mostrar 40%), mas o regular é de 25%: confira o percentual no resumo do pedido. No plano regular descrito aqui não existe fidelidade: ele pode ser alterado ou cancelado pela conta, sem multa.",
         "As regras deste guia são as do plano regular, só de cápsulas. Os planos antigos com máquina, já encerrados, tinham regras próprias."
       ]
     },
@@ -50,7 +60,7 @@
         "**Escolha a linha:** Geração I para as máquinas clássicas (Genio S, Mini Me, Piccolo XS, Infinissima) ou NEO para a máquina NEO.",
         "**Monte o pedido:** pelo menos 3 caixas de bebidas, em qualquer combinação de sabores.",
         "**Defina a frequência:** todo mês, a cada 2 meses ou a cada 3 meses.",
-        "**Pague no cartão de crédito:** Visa, Mastercard ou Elo, à vista. Se for usar o cupom CECI, digite no checkout e confira a linha do desconto no resumo antes de concluir."
+        "**Pague no cartão de crédito:** Visa, Mastercard ou Elo, à vista, sem parcelamento."
       ],
       "postParagraphs": [
         "Um detalhe que confunde na primeira vez: ao escolher os sabores, a página mostra o **preço cheio** de cada caixa. O desconto de 25% aparece no resumo do pedido.",
@@ -89,7 +99,7 @@
         "Para quem assina hoje, o regulamento e a página oficial listam estes benefícios:"
       ],
       "bullets": [
-        "**25% de desconto** em todos os sabores da assinatura, calculado sobre o preço cheio.",
+        "**25% de desconto** em todos os sabores da assinatura, calculado sobre o preço cheio. Em campanha, a loja pode subir esse percentual.",
         "**Frete grátis** em todos os pedidos de assinatura.",
         "**1.000 pontos** no Dolce Gusto Club no primeiro pedido de assinatura, uma vez por CPF.",
         "Amostras grátis de novos sabores e brindes em campanhas especiais.",
@@ -113,9 +123,9 @@
     {
       "heading": "Cupom CECI na assinatura",
       "paragraphs": [
-        "O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os cupons direcionados a assinantes. O regulamento não diz se o **CECI**, o cupom de parceria do Em Casa com Cecília, entra nessa exceção. Na prática, o checkout o aceitou.",
-        "Num pedido de assinatura de 4 caixas de R$ 29,90 (R$ 119,60), o checkout aplicou os 25% da assinatura e mais 5% do **CECI**, que era o desconto dele na época: o total ficou em R$ 85,22. Isso foi no primeiro pedido; nas entregas seguintes, o desconto pode não se repetir.",
-        "Hoje o CECI dá 10% a partir de R$ 100. No teste de novembro, sem finalizar a compra, ele entrou num carrinho de assinatura de R$ 101,04 (R$ 10,10 de desconto) e foi recusado num de R$ 67,36: o mínimo contou sobre o subtotal já com o desconto da assinatura, e o pedido mínimo de 3 caixas pode ficar abaixo dele. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com o desconto do plano."
+        "O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os cupons direcionados a assinantes, e não cita o **CECI**, o [cupom Dolce Gusto](/cupons/dolce-gusto) do Em Casa com Cecília. Na prática, o checkout o aceita.",
+        "O CECI dá 10% OFF na loja oficial e no app, em compras a partir de 100 reais e em todas as formas de pagamento; na assinatura, o pagamento segue só no cartão de crédito. O mínimo conta sobre o subtotal já com o desconto do plano. No teste de novembro, sem finalizar a compra, ele entrou num carrinho de assinatura de 6 caixas, de R$ 101,04, e tirou R$ 10,10, com total de R$ 90,94. Num carrinho de 4 caixas, de R$ 67,36, o site recusou o código. O pedido mínimo de 3 caixas pode ficar abaixo do mínimo do CECI.",
+        "Para aplicar, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha \"Você ganhou 10% OFF\" no resumo antes de pagar. Se ela não aparecer, a assinatura segue com o desconto do plano. O CECI não vale no frete nem junto com o resgate de pontos do Club, e vale a pena conferir de novo nas entregas seguintes."
       ],
       "links": [
         {
@@ -167,18 +177,34 @@
       ]
     },
     {
+      "heading": "Para quem a assinatura funciona",
+      "paragraphs": [
+        "A assinatura funciona para quem já sabe quantas caixas usa e quer parar de lembrar de comprar: o pedido sai sozinho, o frete é grátis e o desconto é fixo. Quem prefere pagar no Pix, no boleto ou parcelado fica de fora, porque ela só aceita cartão de crédito à vista.",
+        "A conta do preço, com a assinatura contra a compra avulsa em promoção, está em [assinatura Dolce Gusto: vale a pena?](/reviews/assinatura-dolce-gusto-vale-a-pena)."
+      ],
+      "emphasis": "Assine só se o café é de todo dia: com menos de três caixas por mês, a compra avulsa em promoção resolve e não prende você a um calendário.",
+      "links": [
+        {
+          "label": "Ver a assinatura na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/assinatura",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
+        }
+      ]
+    },
+    {
       "heading": "Perguntas frequentes sobre a Assinatura Dolce Gusto",
       "bullets": [
-        "Como funciona a assinatura Dolce Gusto? Você escolhe pelo menos 3 caixas e a frequência (todo mês, a cada 2 ou a cada 3 meses), e recebe os pedidos com 25% de desconto e frete grátis, pagando no cartão de crédito.",
-        "A assinatura Dolce Gusto tem mensalidade? Não. No plano regular não há mensalidade, taxa de adesão ou taxa de cancelamento: você paga só as caixas do pedido.",
-        "Qual é o pedido mínimo da assinatura Dolce Gusto? São 3 caixas de bebidas por entrega.",
-        "Posso misturar cápsulas Geração 1 e NEO na mesma assinatura? Sim. O FAQ oficial diz que as duas linhas podem estar na mesma assinatura.",
-        "O cupom CECI funciona na assinatura Dolce Gusto? Sim. No nosso teste, o CECI deu 10% num carrinho de assinatura acima de R$ 100 e foi recusado abaixo desse valor. Confira a linha do cupom no resumo antes de pagar.",
-        "Como cancelar a assinatura Dolce Gusto? Pela área Minha Assinatura no site oficial ou pelo e-mail atendimento.dolcegusto@nestle.com.br, até 1 dia antes do próximo pedido.",
-        "Se eu cancelar e assinar de novo, ganho os 1.000 pontos outra vez? Não. A nova assinatura tem 25% e frete grátis, mas os 1.000 pontos são uma vez por CPF.",
-        "O que acontece se o cartão for recusado? A loja tenta cobrar 3 vezes em 3 dias seguidos, e três erros consecutivos na recorrência cancelam a assinatura.",
-        "Dá para pular um mês da assinatura Dolce Gusto? Sim. É possível pular ou antecipar uma entrega por ano.",
-        "Posso pagar a assinatura com Pix ou pontos do Club? Não. A assinatura aceita só cartão de crédito Visa, Mastercard ou Elo."
+        "Como funciona a assinatura Dolce Gusto? Você escolhe pelo menos 3 caixas e a frequência (todo mês, a cada 2 ou a cada 3 meses) e recebe os pedidos com desconto e frete grátis, pagando no cartão de crédito. O passo a passo está em \"Como assinar a Dolce Gusto\".",
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
+        "O CECI funciona na assinatura? Funcionou no nosso teste de novembro: entrou num carrinho de assinatura acima de 100 reais e foi recusado abaixo disso, porque o mínimo conta sobre o subtotal já com o desconto do plano. Veja \"Cupom CECI na assinatura\".",
+        "A assinatura tem mensalidade ou pedido mínimo? Mensalidade e taxa de adesão não existem. O pedido mínimo é de 3 caixas de bebidas por entrega.",
+        "Posso misturar cápsulas Geração 1 e NEO na mesma assinatura? Sim, as duas linhas cabem no mesmo plano, menos as caixas DGusta de 50 e 100 cápsulas. Veja \"Geração 1 e NEO na mesma assinatura\".",
+        "Como cancelar ou pular uma entrega? Pela área Minha Assinatura no site oficial ou pelo e-mail do atendimento, até 1 dia antes do próximo pedido; pular ou antecipar vale uma vez por ano. Os detalhes estão em \"Como alterar, pular ou antecipar uma entrega\" e \"Como cancelar a assinatura Dolce Gusto\".",
+        "Posso pagar com Pix ou pontos do Club? Não. Só cartão de crédito Visa, Mastercard ou Elo, à vista. Se o cartão for recusado, a loja tenta 3 vezes; leia \"Pagamento e cartão recusado\"."
       ]
     }
   ],

@@ -17,7 +17,7 @@
   "metaDescription": "Para a primeira compra na DAMIE, use CECILIA12: 12% OFF em todos os produtos do site, com todas as formas de pagamento. Vale de novo para quem já comprou.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/damie/cupom-damie-primeira-compra-capa-v2.webp",
@@ -29,7 +29,7 @@
   "cta": {
     "text": "Digite CECILIA12 no campo de cupom do checkout da DAMIE e confira os 12% no resumo antes de pagar.",
     "label": "Ir para a DAMIE",
-    "url": "https://damie.com.br",
+    "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=cupom-damie-primeira-compra-cta",
     "sponsored": true
   },
   "coupon": "CECILIA12",
@@ -56,7 +56,6 @@
     {
       "heading": "Cupom DAMIE primeira compra: qual usar",
       "paragraphs": [
-        "A DAMIE vende poltronas reclináveis e sofás modulares no site oficial. Se você quer conhecer o atendimento antes do primeiro pedido, veja [DAMIE no Reclame Aqui: o que os dados mostram](/reviews/damie-reclame-aqui-o-que-os-dados-mostram).",
         "O cupom para a primeira compra na DAMIE é o CECILIA12: 12% de desconto em todos os produtos do site, da poltrona reclinável ao sofá modular, sem restrição de categoria ou de modelo.",
         "Ele é o código da parceria da Cecília com a marca, o mesmo [cupom DAMIE](/cupons/damie) que conferimos no carrinho. Código achado em site de cupom pode estar vencido. Se o desconto não aparecer no resumo do pedido, apague o que você digitou e use o CECILIA12 antes de pagar."
       ]
@@ -68,6 +67,7 @@
       ],
       "bullets": [
         "**Todos os produtos, todas as formas de pagamento.** Os 12% valem em poltronas, sofás, camas, área externa e acessórios, e não dependem de como você paga.",
+        "**Primeira ou segunda compra, o código é o mesmo.** O CECILIA12 tem os mesmos 12% e as mesmas regras para quem já comprou, sem limite de usos por CPF: serve para a poltrona de agora e para o puff ou o sofá de depois.",
         "**Um cupom por pedido.** O CECILIA12 não soma com outro cupom nem com o giftback da loja.",
         "**O desconto é sobre os produtos.** O frete fica de fora dos 12% e é calculado à parte, pelo CEP.",
         "**Só no site oficial.** A DAMIE atende o Norte e o Nordeste pelos anúncios dela no Mercado Livre, e lá vale o preço do anúncio, sem o cupom."
@@ -108,16 +108,10 @@
           "src": "/images/reviews/damie/cupom-damie-primeira-compra-puff-modular.webp",
           "alt": "Puff do Sofá Damie Modular, em foto oficial da DAMIE.",
           "caption": "O puff avulso do Sofá Damie Modular, o produto do nosso teste. Foto: DAMIE.",
-          "objectFit": "square",
-          "href": "https://damie.com.br/products/puff-damie-na-caixa-modular"
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.damie.com.br/products/puff-damie-na-caixa-modular"
         }
-      ]
-    },
-    {
-      "heading": "E na segunda compra?",
-      "paragraphs": [
-        "Na segunda compra o código é o mesmo: CECILIA12, com os mesmos 12% e as mesmas regras. Não há limite de usos por CPF. Ele serve para a poltrona de agora e para o puff ou o sofá de depois.",
-        "É também a resposta para quem procura cupom DAMIE para quem já é cliente: não existe um código para cada caso, o CECILIA12 atende os dois."
       ]
     },
     {
@@ -133,20 +127,55 @@
       "postParagraphs": [
         "A DAMIE não tem aplicativo: a compra é pelo site, que abre no navegador do celular. O passo a passo com as telas está em [como usar o cupom CECILIA12](/reviews/cupom-cecilia12-como-usar)."
       ],
-      "image": "/images/reviews/cupom-cecilia12/4-confirme-desconto.png",
-      "imageAlt": "Resumo do pedido da Damie com desconto aplicado.",
-      "imageCaption": "O CECILIA12 aplicado no pedido da DAMIE, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
-      "imageFit": "contain",
-      "imageAspectRatio": 0.452
+      "image": {
+        "src": "/images/reviews/cupom-cecilia12/4-confirme-desconto-recorte.webp",
+        "alt": "Resumo do pedido da DAMIE com o CECILIA12 no campo de cupom e a linha Descontos",
+        "caption": "O CECILIA12 aplicado no pedido da DAMIE, em um carrinho de teste. Os valores mudam conforme o seu pedido.",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
+    },
+    {
+      "heading": "Vale usar o CECILIA12 na primeira compra da DAMIE?",
+      "emphasis": "Na primeira compra, eu usaria o CECILIA12 e pagaria no Pix: é o caminho em que os dois descontos entram. Eu só fecharia o pedido depois de conferir a linha do desconto no resumo do checkout.",
+      "paragraphs": [
+        "Vale em todos os produtos e em todas as formas de pagamento, e continua valendo nas compras seguintes. Fora do Sul e do Sudeste o frete muda, e no Norte e no Nordeste a compra é pelo Mercado Livre, sem o cupom."
+      ],
+      "links": [
+        {
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=cupom-damie-primeira-compra",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o puff modular na DAMIE",
+          "href": "https://www.damie.com.br/products/puff-damie-na-caixa-modular",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom DAMIE",
+          "href": "/cupons/damie"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Como conseguir desconto na primeira compra na DAMIE? O CECILIA12 dá 12% em todos os produtos do site, no primeiro pedido e nos seguintes.",
-        "Qual cupom DAMIE vale para quem já é cliente? O mesmo CECILIA12, sem limite de usos por CPF.",
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento. Vale na primeira compra e nas seguintes.",
         "O cupom DAMIE de primeira compra soma com o Pix? Sim. O código entra sobre o preço que já tem o desconto do Pix e soma também com as promoções do site. A conta está no capítulo do Pix.",
+        "O cupom de primeira compra da DAMIE vale na segunda? Vale: o CECILIA12 é o mesmo código, sem limite por CPF.",
         "O cupom vale no Mercado Livre? Não. O CECILIA12 só vale no site oficial da DAMIE; nos anúncios da marca no Mercado Livre vale o preço do anúncio."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Use o CECILIA12 em toda compra no site oficial da DAMIE, a primeira ou a décima: o código é o mesmo e não tem limite por CPF.",
+      "Pague no Pix com o código se quer o maior desconto: os dois descontos entram, um sobre o outro, e juntos tiram 20,8%."
+    ],
+    "skipIf": [
+      "Pule o código no pedido em que for usar o giftback de 15% de uma compra anterior: os dois não somam.",
+      "Pule o site se o CEP é do Norte ou do Nordeste: ali a compra é pelo anúncio da DAMIE no Mercado Livre, onde o código não vale."
+    ]
+  }
 }

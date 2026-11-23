@@ -10,7 +10,7 @@
   "metaDescription": "O CECI dá 10% OFF no site oficial da NESCAFÉ Dolce Gusto em cápsulas, cafeteiras e acessórios, a partir de R$ 100. Veja como aplicar no checkout.",
   "publishedAt": "19 Jun 2026",
   "publishedAtISO": "2026-06-19",
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-23",
   "image": "/images/reviews/cupons/cupom-ceci-nescafe-dolce-gusto-como-usar-capa-v2.webp",
   "imageAlt": "Cecília com a máquina Dolce Gusto Genio S Touch apoiada na bancada da cozinha, em foto própria, ao lado do código CECI.",
   "imageFit": "contain",
@@ -43,37 +43,55 @@
       "caption": "A máquina Dolce Gusto como destaque na decoração."
     }
   ],
-  "pros": [
-    "Desconto de 10% válido em novembro de 2026",
-    "Válido para todo o catálogo: cápsulas, máquinas e acessórios",
-    "Código verificado e atualizado mensalmente",
-    "Sem limite global de utilizações da parceria",
-    "Não exige cadastro em programa de fidelidade"
-  ],
-  "cons": [
-    "Exige compra mínima de R$ 100 em produtos",
-    "Desconto não se aplica ao valor do frete",
-    "Válido apenas no site oficial da NESCAFÉ Dolce Gusto Brasil"
-  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "O carrinho passa de cem reais já com o desconto da promoção ou do plano: aí o CECI entra por cima.",
+      "Você compra cápsulas, máquina ou combo no site oficial, no app ou na área para CNPJ."
+    ],
+    "skipIf": [
+      "O pedido fica abaixo de cem reais depois da promoção: o checkout recusa o código.",
+      "Você compra pelo Mercado Livre ou paga com pontos do Club: o CECI não vale nesses casos."
+    ]
+  },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
   "cta": {
     "text": "Use o cupom de desconto oficial CECI no checkout da NESCAFÉ Dolce Gusto.",
     "label": "Acessar NESCAFÉ Dolce Gusto",
-    "url": "https://www.nescafe-dolcegusto.com.br/"
+    "url": "https://www.nescafe-dolcegusto.com.br/",
+    "sponsored": true
   },
   "editorialNote": "Parceria com a NESCAFÉ Dolce Gusto: o CECI é o código oficial da marca para o blog, e a compra com ele pode gerar comissão, sem custo extra para você.",
+  "relatedArticles": [
+    {
+      "slug": "black-friday-dolce-gusto"
+    },
+    {
+      "slug": "cupom-dolce-gusto-primeira-compra"
+    },
+    {
+      "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
+    },
+    {
+      "slug": "assinatura-dolce-gusto-vale-a-pena"
+    },
+    {
+      "slug": "dolce-gusto-cnpj-negocios-combos"
+    }
+  ],
   "contentSections": [
     {
-      "heading": "Resposta rápida: cupom CECI NESCAFÉ Dolce Gusto",
+      "heading": "Resposta rápida",
       "paragraphs": [
-        "O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI: dá 10% de desconto, com compra mínima, em todo o site oficial da NESCAFÉ Dolce Gusto, inclusive na área para CNPJ, e no app, e soma com as promoções da loja. Digite CECI no campo Código do voucher e confira o desconto no resumo antes de pagar."
+        "O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI: 10% OFF na loja oficial e no app, em compras a partir de 100 reais e em todas as formas de pagamento. Soma com as promoções do site. O que pesa é o mínimo: abaixo de 100 reais o checkout recusa o código, e o passo a passo vem abaixo."
       ]
     },
     {
       "heading": "Cupom Dolce Gusto hoje: está ativo?",
       "paragraphs": [
-        "Sim, o cupom CECI está ativo para compras na loja oficial da NESCAFÉ Dolce Gusto. Nosso último teste foi em 11 de novembro de 2026: num carrinho de cápsulas em promoção, acima do mínimo, o CECI aplicou os 10%. O cupom oferece 10% de desconto em compras a partir de R$ 100. Confirme a aplicação no checkout.",
+        "Sim, o cupom CECI está ativo na loja oficial da NESCAFÉ Dolce Gusto. No teste de novembro, num carrinho de cápsulas em promoção, acima do mínimo, o CECI aplicou os 10%. O cupom oferece 10% de desconto em compras a partir de R$ 100. Confirme a aplicação no checkout.",
         "As condições mais recentes, com mudanças de regras e promoções pontuais, estão na página do cupom Dolce Gusto aqui do blog."
       ],
       "links": [
@@ -86,7 +104,7 @@
     {
       "heading": "O que é o cupom CECI da NESCAFÉ Dolce Gusto?",
       "paragraphs": [
-        "O CECI dá 10% em todo o site e no app oficiais da NESCAFÉ Dolce Gusto no Brasil, em compras a partir de R$ 100. Como regras comerciais podem mudar, o código é reconfirmado mensalmente e o valor exibido no checkout é sempre a referência final.",
+        "O CECI dá 10% em todo o site e no app oficiais da NESCAFÉ Dolce Gusto no Brasil, em compras a partir de R$ 100, para cliente novo e antigo e em todas as formas de pagamento. Como regras comerciais podem mudar, o código é reconfirmado todo mês e o valor exibido no checkout é sempre a referência final.",
         "O código vale em todo o site, inclusive na linha Negócios, para quem compra com CNPJ, como detalham os itens abaixo.",
         "O CECI soma com as promoções da loja: em produto com preço promocional, os 10% entram sobre o preço já reduzido. Em kits e combos, confira o desconto no carrinho antes de pagar."
       ],
@@ -100,7 +118,7 @@
     {
       "heading": "1. Escolha o produto no site oficial",
       "paragraphs": [
-        "Acesse o site oficial da NESCAFÉ Dolce Gusto (www.nescafe-dolcegusto.com.br) ou o app oficial. O cupom CECI vale em todo o site: cápsulas de café de todos os sabores (como Espresso, Cappuccino, Chococcino), cafeteiras e acessórios. Lembre-se de que a compra total dos produtos deve somar pelo menos R$ 100 para ativar o cupom."
+        "Acesse o site oficial da NESCAFÉ Dolce Gusto (www.nescafe-dolcegusto.com.br) ou o app oficial. O cupom CECI vale em todo o site: cápsulas de café de todos os sabores (como [Espresso](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-espresso-10), [Cappuccino](https://www.nescafe-dolcegusto.com.br/sabores/cappuccino-capsulas-10) e [Chococino](https://www.nescafe-dolcegusto.com.br/sabores/capsulas-chococino-nestle)), cafeteiras e acessórios. Lembre-se de que a compra total dos produtos deve somar pelo menos R$ 100 para ativar o cupom."
       ]
     },
     {
@@ -121,18 +139,14 @@
     },
     {
       "heading": "4. Digite CECI no campo \"Código do voucher\"",
-      "image": "/images/reviews/cupons/nescafe-dolce-gusto-passo-2.webp",
-      "imageAlt": "Campo de cupom no checkout da NESCAFÉ Dolce Gusto com o código CECI aplicado.",
-      "imageCaption": "Digite CECI no campo \"Código do voucher\" e clique em aplicar.",
-      "imageFit": "contain",
       "paragraphs": [
         "Com o campo aberto, digite exatamente **CECI** no espaço escrito **\"Código do voucher\"** (sem espaços ou caracteres extras). Clique em aplicar. O sistema calculará o desconto de 10% sobre os produtos elegíveis de forma automática."
       ]
     },
     {
       "heading": "5. Confirme o desconto e finalize a compra",
-      "image": "/images/reviews/cupons/nescafe-dolce-gusto-passo-3.webp",
-      "imageAlt": "Resumo do pedido NESCAFÉ Dolce Gusto mostrando o desconto do cupom CECI aplicado.",
+      "image": "/images/reviews/dolcegusto/cupom-dolce-gusto-carrinho-com-cupom.webp",
+      "imageAlt": "Carrinho da NESCAFÉ Dolce Gusto com o código CECI aplicado e, no resumo do pedido, a linha Você ganhou 10% OFF",
       "imageCaption": "Confirme o desconto no resumo do pedido antes de finalizar.",
       "imageFit": "contain",
       "paragraphs": [
@@ -146,9 +160,10 @@
       ],
       "bullets": [
         "Código digitado incorretamente: Verifique se digitou CECI sem espaços ou caracteres extras.",
-        "Compra mínima não atingida: O valor dos produtos no carrinho deve ser de no mínimo R$ 100.",
+        "Compra mínima não atingida: o valor dos produtos no carrinho, já com o desconto da promoção ou do plano, deve ser de no mínimo R$ 100.",
         "Carrinho vazio: Adicione pelo menos um produto ao carrinho antes de aplicar o cupom.",
         "Kit ou combo com regra própria: o CECI soma com as promoções, mas, se algum kit não aceitar o cupom, o resumo do carrinho mostra; teste o carrinho sem ele.",
+        "Pontos do Club: com resgate de pontos no carrinho, o site invalida qualquer promoção, inclusive o cupom. Use um ou outro.",
         "Validade da campanha: confira as condições na página do cupom e a aceitação do CECI no resumo do pedido.",
         "Problema técnico: limpe o cache do navegador, tente outro navegador ou o app oficial, ou entre em contato com o suporte da NESCAFÉ."
       ]
@@ -160,11 +175,12 @@
       ],
       "bullets": [
         "Desconto: 10% sobre o valor dos produtos elegíveis.",
-        "Compra mínima: Válido para pedidos a partir de R$ 100 em produtos.",
-        "Validade: o CECI está válido em novembro de 2026.",
+        "Compra mínima: pedidos a partir de R$ 100 em produtos, contados depois do desconto da promoção ou do plano.",
+        "Quem pode usar: cliente novo e antigo, em todas as formas de pagamento. O CECI vale em mais de um pedido.",
+        "Validade: o código é reconfirmado todo mês; as condições do momento ficam na página do cupom Dolce Gusto.",
         "Onde usar: em todo o site oficial da NESCAFÉ Dolce Gusto, inclusive na área para CNPJ, e no app oficial. Não vale no Mercado Livre nem em outros marketplaces.",
-        "Acumulação: soma com as promoções vigentes da loja oficial.",
-        "Frete: O desconto não se aplica ao valor do frete, apenas aos produtos."
+        "Acumulação: soma com as promoções vigentes da loja oficial e com os combos de bebidas que testamos. Não soma com resgate de pontos do Club.",
+        "Frete: o desconto não se aplica ao valor do frete, apenas aos produtos."
       ]
     },
     {
@@ -174,22 +190,31 @@
       ],
       "bullets": [
         "Cápsulas de café: A alma do sistema DOLCE GUSTO. Desde os clássicos espresso e ristretto até opções indulgentes como cappuccino, latte macchiato, chocolate quente e chá.",
-        "Máquinas e cafeteiras: Desde os modelos mais compactos para cozinhas pequenas até os modelos automáticos com tecnologia de extração de alta pressão.",
+        "Máquinas e cafeteiras: desde os modelos mais compactos para cozinhas pequenas até os modelos com mais recursos. No teste de novembro, o CECI entrou na [Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2) em promoção: de R$ 369,90 para R$ 332,91.",
         "Acessórios: Porta-cápsulas, xícaras, kits de manutenção e outros itens que complementam a experiência do café em casa.",
-        "Combos e kits promocionais: a NESCAFÉ DOLCE GUSTO frequentemente monta kits com máquina + cápsulas. Teste o cupom CECI para verificar se os 10% OFF se aplicam ao kit escolhido.",
+        "Combos e kits promocionais: a NESCAFÉ Dolce Gusto monta combos de bebidas e de máquina com cápsulas. No combo de Black Friday que testamos, o CECI somou; em outro combo, o resumo do carrinho mostra se os 10% entram. Veja a campanha em [Black Friday Dolce Gusto](/reviews/black-friday-dolce-gusto).",
+        "Assinatura: o CECI soma quando o subtotal, já com o desconto do plano, passa de R$ 100. No teste de novembro, seis caixas a R$ 101,04 viraram R$ 90,94; com quatro caixas, a R$ 67,36, o código foi recusado.",
         "Linha Negócios, para CNPJ: com conta Business, os combos da linha somam os 10% extra de CNPJ, o desconto do combo e o CECI. Os detalhes estão em [Dolce Gusto para CNPJ](/reviews/dolce-gusto-cnpj-negocios-combos)."
       ]
     },
     {
-      "heading": "Por que usar o cupom CECI da Cecília?",
+      "heading": "Vale a pena usar o CECI?",
       "paragraphs": [
-        "O CECI economiza de verdade e apoia o blog: veja por quê."
+        "Vale quando você já ia comprar: os 10% entram por cima do preço promocional, aparecem no resumo do pedido e não pedem cadastro nem programa de fidelidade. Na reposição de cápsulas, juntar as caixas num pedido só ajuda a passar do mínimo.",
+        "Não vale inflar o carrinho só para chegar lá. Se faltam poucos reais, compare o total entregue dos dois carrinhos, com o frete, e leve o que você vai de fato tomar."
       ],
-      "bullets": [
-        "Economia real: 10% de desconto pode fazer diferença em compras recorrentes de cápsulas ou na aquisição de uma máquina, desde que os itens sejam elegíveis.",
-        "Código que funciona: no site oficial, o desconto do CECI aparece no resumo do pedido.",
-        "Sem burocracia: Basta digitar o código no checkout — sem cadastros extras, sem programas de fidelidade obrigatórios.",
-        "Ajuda o blog: Ao usar nosso cupom, você apoia o Em Casa com Cecília sem pagar nada a mais por isso. O desconto é integralmente seu!"
+      "emphasis": "Se você já ia comprar cápsula ou máquina na Dolce Gusto, eu não fecharia o pedido sem passar pelo CECI: são 10% por cima da promoção.",
+      "emphasisAfterParagraph": 1,
+      "links": [
+        {
+          "label": "Ver a Dolce Gusto na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
+        }
       ]
     },
     {
@@ -198,22 +223,13 @@
         "Reunimos as dúvidas mais comuns sobre o cupom CECI da NESCAFÉ Dolce Gusto para facilitar sua experiência."
       ],
       "bullets": [
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
         "O cupom CECI funciona no app da NESCAFÉ Dolce Gusto? Sim. O CECI vale no aplicativo NESCAFÉ Dolce Gusto, para Android e iPhone, do mesmo jeito que no site oficial: digite o código no campo de cupom, antes de pagar.",
-        "O cupom CECI tem data de validade? O código é reconfirmado todo mês; a validade do mês está no capítulo de regras. Confira o desconto no resumo do carrinho antes de pagar.",
-        "Posso usar o cupom CECI mais de uma vez? Sim, o CECI vale em mais de um pedido. Confirme a aceitação no checkout de cada compra.",
-        "O desconto de 10% é sobre o frete também? Não. O cupom CECI aplica 10% OFF apenas sobre o valor dos produtos elegíveis. O frete é calculado separadamente e não entra na base de cálculo do desconto.",
-        "O que acontece se o cupom não der certo? Se o código não for aplicado, verifique se digitou corretamente como CECI, se sua compra somou pelo menos R$ 100 e se há no carrinho algum kit com regra própria.",
-        "O cupom CECI é confiável? Sim. O cupom CECI faz parte da parceria entre o blog Em Casa com Cecília e a NESCAFÉ DOLCE GUSTO. O código é legítimo, mas percentual, elegibilidade e valor mínimo devem ser confirmados no checkout.",
-        "Qual o valor mínimo de compra para usar o cupom CECI? O cupom CECI exige uma compra mínima de R$ 100 em produtos para ser ativado. O desconto de 10% é aplicado sobre o valor dos produtos elegíveis, não sobre o frete. Recomendamos verificar o valor final no checkout antes de confirmar o pagamento.",
-        "O cupom CECI acumula com pontos do Clube Dolce Gusto? Sim, o cupom CECI é aplicado no carrinho de compras e não interfere no programa de fidelidade. Você pode usar o cupom CECI para comprar cápsulas e, ao receber as caixas, cadastrar os códigos no Clube Dolce Gusto para acumular pontos normalmente.",
-        "O cupom CECI funciona para máquinas ou só para cápsulas? Em nossa verificação, o código foi oferecido para compras elegíveis no site oficial, incluindo cápsulas, cafeteiras e acessórios, a partir de R$ 100. Confirme a aplicação para o item escolhido no checkout.",
-        "Posso usar o cupom CECI em compras parceladas? Sim, o cupom CECI reduz o valor total dos produtos e o valor final pode ser parcelado no cartão de crédito conforme as condições disponíveis no checkout. O desconto incide sobre o valor base, reduzindo proporcionalmente o valor de cada parcela.",
-        "O que acontece se eu devolver um produto comprado com o cupom CECI? Se houver devolução ou cancelamento, o reembolso segue a política vigente da loja e considera o valor efetivamente pago após o desconto. Consulte o atendimento oficial para saber se o uso do cupom é restituído.",
-        "Cupom Dolce Gusto primeira compra: o CECI funciona? Sim. O CECI vale na primeira compra e nas seguintes, com valor mínimo de R$ 100 em produtos.",
-        "Cupom Dolce Gusto brinde: o CECI dá brinde? Não. O cupom CECI concede 10% de desconto em produtos elegíveis; brindes são campanhas pontuais da marca e não dependem desse código.",
-        "Cupom frete grátis Dolce Gusto: o CECI inclui frete grátis? Não. O cupom CECI aplica 10% de desconto apenas sobre o valor dos produtos elegíveis. O frete é calculado separadamente e pode haver campanhas específicas de frete grátis.",
-        "Cupom Dolce Gusto cápsulas: o CECI vale para cápsulas? Sim. O CECI vale em todo o site oficial, inclusive cápsulas de todos os sabores, máquinas, acessórios e os combos da área para CNPJ, desde que o valor mínimo de R$ 100 em produtos seja atingido.",
-        "Cupom Dolce Gusto Instagram: existe cupom no Instagram? O cupom CECI é o código oficial de parceria do blog Em Casa com Cecília e pode ser usado no site oficial da NESCAFÉ Dolce Gusto quando as regras vigentes são atendidas. Outros códigos podem ter percentuais e condições diferentes; confira sempre o desconto no checkout."
+        "Posso usar o CECI mais de uma vez e na primeira compra? Sim. O CECI vale na primeira compra e em mais de um pedido, para cliente novo e antigo. Confirme a aceitação no checkout de cada compra.",
+        "Qual o valor mínimo de compra para usar o cupom CECI? O mínimo é de 100 reais em produtos, contados depois do desconto da promoção ou do plano. Abaixo disso o checkout recusa o código; as regras estão em \"Regras e observações do cupom CECI\".",
+        "O CECI vale em máquinas, assinatura e combos? Vale em cápsulas, máquinas, acessórios e combos elegíveis, e na assinatura quando o subtotal com o desconto do plano passa do mínimo. Os testes estão em \"Quais produtos você pode comprar com o cupom CECI?\".",
+        "O CECI desconta o frete, dá brinde ou soma com pontos do Club? Não desconta o frete nem dá brinde: são 10% sobre os produtos. Com resgate de pontos do Club no carrinho, o site invalida qualquer promoção, o cupom inclusive.",
+        "O que fazer se o cupom CECI não funcionar? Confira a grafia, o mínimo e se o carrinho tem algum kit com regra própria. A lista completa está em \"O que fazer se o cupom CECI não funcionar?\"."
       ]
     }
   ]

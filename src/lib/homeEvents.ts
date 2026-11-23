@@ -2,7 +2,14 @@ import { cardImageFit, type CardImageFit, type CardImagePosition } from '@/lib/c
 import { getActiveCoupons, type Coupon } from '@/lib/couponsData';
 import { getCouponStorePath } from '@/lib/couponTranslations';
 import { getPendingCodeSeasonNotice, storeTakesCodeSeasonNotice } from '@/lib/codeSeasonNotice';
-import { codeLinkLabel, getStoreCode, getStoreMark, type StoreReview } from '@/lib/homeStores';
+import {
+  codeLinkLabel,
+  getHomeVitrineStores,
+  getStoreCode,
+  getStoreMark,
+  sortStoresByNewestArticle,
+  type StoreReview,
+} from '@/lib/homeStores';
 import { getTabAnchor, type HomeStoreTab } from '@/lib/homeStoreTabs';
 import { SITE_SOCIAL_IMAGE, absoluteMediaUrl, type SocialImage } from '@/lib/pageSeo';
 import { getListedPortugueseReviews, isListedInPortuguese, sortReviewsByPublishedAt } from '@/lib/reviewDiscovery';
@@ -51,7 +58,15 @@ export type HomeEventGuide = {
   mark?: Pick<HomeStoreTab, 'logo' | 'bubble' | 'initials'>;
   discount?: string;
   label?: string;
+  // Só na home em português, onde a reta final é o carrossel de capas: a capa pela regra dos cartões
+  // (src/lib/cardImage.ts) e a aba da loja na vitrine. Loja fora da vitrine e guia sem loja ativa ficam sem aba.
+  cover?: { image?: string; imageFit: CardImageFit; imagePosition?: CardImagePosition };
+  tab?: string;
 };
+
+// O carrossel da reta final segue a vitrine: `tabSlugs` são as lojas dela, na ordem das bolinhas, para o carrossel
+// ler a aba aberta do mesmo jeito que a vitrine lê.
+export type HomeEventCarousel = { tabSlugs: string[]; previousLabel: string; nextLabel: string };
 
 export type HomeEventCard = {
   slug: string;
@@ -81,6 +96,8 @@ export type ResolvedHomeEvent = {
   cards: HomeEventCard[];
   // Só durante a reta final (boost): todos os guias, compactos, e o aviso de temporada dos códigos.
   guides?: HomeEventGuide[];
+  // Só na home em português: os guias vão no carrossel de capas, não na grade compacta.
+  carousel?: HomeEventCarousel;
   seasonNotice?: string;
   // No idioma da home: o fim do nome do link de cada guia, para leitor de tela, e o botão do celular.
   guideLabels: HomeEventGuideLabels;
@@ -310,20 +327,29 @@ function toCards(event: HomeEventEntry, reviews: readonly StoreReview[], stores:
   });
 }
 
-// O card compacto. O desconto é o da página da loja (nunca o de um código com prazo, que fica no painel da vitrine).
+// O guia da reta final. O desconto é o da página da loja (nunca o de um código com prazo, que fica no painel da vitrine).
 // O guia sem loja ativa, ou de loja com mais de um guia na data, precisa de rótulo: sem ele, dois cards iguais.
 // O aviso de temporada entra se algum guia é de loja com cupom (storeTakesCodeSeasonNotice).
+// A ordem é a das bolinhas da vitrine, com os guias de cada loja juntos e na ordem do arquivo; loja fora da vitrine e
+// guia sem loja ativa vão para o fim, também na ordem do arquivo.
 function toGuides(
   event: HomeEventEntry,
   boost: HomeEventBoost,
   reviews: readonly StoreReview[],
   stores: readonly Coupon[]
-): { guides: HomeEventGuide[]; takesSeasonNotice: boolean } {
-  const entries = event.articleSlugs.map((slug) => {
-    const review = reviews.find((item) => item.slug === slug && isListedInPortuguese(item));
-    const store = isMultiStoreReview(review) ? undefined : getReviewStores(review, stores)[0];
-    return { slug, review, store };
-  });
+): { guides: HomeEventGuide[]; tabSlugs: string[]; takesSeasonNotice: boolean } {
+  const tabSlugs = sortStoresByNewestArticle(getHomeVitrineStores(stores), reviews).map(({ slug }) => slug);
+  const tabRank = (store: Coupon | undefined) => {
+    const rank = store ? tabSlugs.indexOf(store.slug) : -1;
+    return rank < 0 ? tabSlugs.length : rank;
+  };
+  const entries = event.articleSlugs
+    .map((slug) => {
+      const review = reviews.find((item) => item.slug === slug && isListedInPortuguese(item));
+      const store = isMultiStoreReview(review) ? undefined : getReviewStores(review, stores)[0];
+      return { slug, review, store };
+    })
+    .sort((a, b) => tabRank(a.store) - tabRank(b.store));
   const guidesPerStore = new Map<string, number>();
   for (const { store } of entries) if (store) guidesPerStore.set(store.slug, (guidesPerStore.get(store.slug) ?? 0) + 1);
 
@@ -339,13 +365,19 @@ function toGuides(
       name,
       ...(store ? { mark: getStoreMark(store), discount: store.discount } : {}),
       ...(label && label !== name ? { label } : {}),
+      cover: {
+        image: review.image ? resolveMediaUrl(review.image) : undefined,
+        imageFit: cardImageFit(review),
+        imagePosition: review.imagePosition,
+      },
+      ...(store && tabSlugs.includes(store.slug) ? { tab: store.slug } : {}),
     };
   });
   // Dois cards iguais (mesma loja e mesmo rótulo) não se distinguem na grade.
   const keys = guides.map(({ name, label }) => `${name}|${label ?? ''}`);
   const repeated = guides.find((_, index) => keys.indexOf(keys[index]) !== index);
   if (repeated) fail(`${event.id}.boost.labels: ${repeated.slug} repete a loja e o rótulo de outro guia`);
-  return { guides, takesSeasonNotice: entries.some(({ store }) => store !== undefined && storeTakesCodeSeasonNotice(store)) };
+  return { guides, tabSlugs, takesSeasonNotice: entries.some(({ store }) => store !== undefined && storeTakesCodeSeasonNotice(store)) };
 }
 
 function isBoosted(event: HomeEventEntry, now: Date): event is HomeEventEntry & { boost: HomeEventBoost } {
@@ -399,9 +431,16 @@ export function resolveActiveHomeEvent(
     dayDate: formatIsoDay(event.dayAt),
     dayLabel: formatEventDay(event.dayAt),
     countdownLabel: getCountdownLabel(event.dayAt, now),
-    hubLink: event.hub ? { href: `/${event.hub}`, label: `Ver tudo ${event.titleOf}` } : undefined,
+    hubLink: event.hub
+      ? { href: `/${event.hub}`, label: boosted ? `Ver todos os ${boosted.guides.length} guias` : `Ver tudo ${event.titleOf}` }
+      : undefined,
     cards: toCards({ ...event, articleSlugs: event.articleSlugs.slice(0, HOME_CARD_LIMIT) }, reviews, stores),
-    ...(boosted ? { guides: boosted.guides } : {}),
+    ...(boosted
+      ? {
+          guides: boosted.guides,
+          carousel: { tabSlugs: boosted.tabSlugs, previousLabel: 'Ver guias anteriores', nextLabel: 'Ver próximos guias' },
+        }
+      : {}),
     ...(boosted?.takesSeasonNotice && notice?.inHtml ? { seasonNotice: notice.text } : {}),
     guideLabels: {
       suffix: `, guia ${event.titleOf}`,

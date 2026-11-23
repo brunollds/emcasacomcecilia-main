@@ -3,7 +3,7 @@
   "slug": "skinup-ou-cotton-up-toda-up",
   "locale": "pt",
   "title": "SkinUp ou Cotton Up: segunda pele ou algodão, qual escolher na Toda Up",
-  "seoTitle": "Toda Up SkinUp ou Cotton Up: qual escolher",
+  "seoTitle": "Toda Up: SkinUp ou Cotton Up, segunda pele ou algodão",
   "type": "Guia de Escolha",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -16,7 +16,7 @@
   },
   "publishedAt": "31 de outubro de 2026",
   "publishedAtISO": "2026-10-31",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "description": "SkinUp (segunda pele, sem costura) ou Cotton Up (algodão), da Toda Up: as dez peças das duas linhas, para qual roupa cada uma serve, as faixas de tamanho, as cores e o preço.",
@@ -30,7 +30,7 @@
   "cta": {
     "text": "Entre no site oficial da Toda Up pelo botão. O cupom já vem aplicado: confira a linha de desconto no resumo do pedido.",
     "label": "Ver na Toda Up",
-    "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+    "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
     "sponsored": true
   },
   "coupon": "MAUAD",
@@ -45,13 +45,16 @@
     },
     {
       "slug": "cupom-toda-up-como-usar"
+    },
+    {
+      "slug": "skinup-marca-na-roupa"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, para aparecer menos sob roupa justa. A Cotton Up é a linha de algodão, mais barata. O que muda a escolha é a roupa por cima e a faixa de tamanho; o código MAUAD dá 10% nas duas."
+        "A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, para aparecer menos sob roupa justa. A Cotton Up é a linha de algodão, mais barata. A roupa por cima e a faixa de tamanho decidem; o MAUAD, o [cupom Toda Up](/cupons/toda-up), dá 10% OFF nas duas."
       ]
     },
     {
@@ -81,14 +84,14 @@
         "Para reduzir marcas sob roupa justa ou usar com alça fina, compare a proposta SkinUp da loja. O [Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do PP ao GG e tem as alças mais finas; o [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do P ao G1 e tem alça larga, sem regulagem.",
         "Quer efeito push-up sem aro: o [Sutiã Clássico SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), do P ao G1. É a única peça das duas linhas com bojo fixo.",
         "Quer algodão, sustentação leve e o preço menor: Cotton Up, com o [Top Faixa](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) ou o [Top Triangular](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), do P ao G1, os dois com alças e bojo removível.",
-        "Para reduzir marcas sob legging ou vestido de malha, compare as quatro calcinhas SkinUp sem costura. Calcinha de algodão para o dia a dia: a [Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
+        "Para reduzir marcas sob legging ou vestido de malha, compare as quatro calcinhas SkinUp sem costura. Calcinha de algodão para o dia a dia: a [Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), que hoje só tem GG e G1.",
         "Veste PP: só o Sutiã Top Alça Fina tem PP (34-36). O Top Segunda Pele, o Clássico e as peças Cotton Up começam no P, e o P de cada linha é um número diferente (38-40 na SkinUp, 36-38 na Cotton Up)."
       ]
     },
     {
       "heading": "As dez peças lado a lado",
       "paragraphs": [
-        "Preços de 31/10/2026, no cartão e sem cupom, com o preço riscado da loja entre parênteses. O nome da peça leva à página dela."
+        "Os preços são os do cartão, sem cupom, com o preço riscado da loja entre parênteses. O nome da peça leva à página dela."
       ],
       "comparisonTable": {
         "headers": [
@@ -111,7 +114,7 @@
             "SkinUp",
             "PP (34-36) a GG (44-46)",
             "Baunilha, Rose e Preto",
-            "R$ 179,90 (de R$ 199,90)"
+            "R$ 199,90"
           ],
           [
             "[Sutiã Clássico SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
@@ -125,14 +128,14 @@
             "SkinUp",
             "P a G1",
             "Creme, Caramelo, Avelã, Preto e Rose",
-            "R$ 44,91 (de R$ 59,90)"
+            "R$ 49,90 (de R$ 59,90)"
           ],
           [
             "[Calcinha Cós Alto SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "SkinUp",
             "P a G1",
             "Creme, Caramelo, Avelã, Preto e Rose",
-            "R$ 44,91 (de R$ 59,90)"
+            "R$ 49,90 (de R$ 59,90)"
           ],
           [
             "[Calcinha Fio Dental SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
@@ -165,11 +168,12 @@
           [
             "[Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
             "Cotton Up",
-            "P a G1",
+            "GG e G1 (P, M e G esgotados)",
             "Branco, Preto e Cinza",
             "R$ 39,90 (de R$ 59,90)"
           ]
-        ]
+        ],
+        "caption": "Preços da página em 23/11/2026, sem cupom e sem a Black Week."
       },
       "postParagraphs": [
         "Os dois tops Cotton Up também têm a opção “Compre 2 leve 3” na própria página. Os kits ficam para [o guia dos kits da Toda Up](/reviews/kit-toda-up-quando-compensa)."
@@ -345,9 +349,7 @@
                 "label": "pijama"
               },
               {
-                "label": "Calcinha Biquíni Cotton Up",
-                "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-                "note": "o conjunto de algodão"
+                "label": "calcinha de algodão"
               }
             ]
           },
@@ -364,9 +366,7 @@
                 "label": "vestido de malha"
               },
               {
-                "label": "Calcinha Biquíni Cotton Up",
-                "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-                "note": "mesma linha, nas mesmas cores"
+                "label": "calcinha de algodão"
               }
             ]
           }
@@ -376,9 +376,10 @@
     {
       "heading": "As calcinhas: quatro SkinUp e uma Cotton Up",
       "paragraphs": [
-        "As quatro calcinhas SkinUp vão do P ao G1 e têm corte a laser, sem costura: a loja diz que elas desaparecem sob legging, calça clara e vestido de tecido leve. A [Biquíni](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e a [Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) custam o mesmo e, segundo a página, são feitas de 95% fibra de celulose regenerada (com 23,7% de grafeno) e 5% de elastano. A Cós Alto tem a modelagem um pouco mais estruturada, com o que a loja chama de sustentação suave na cintura.",
-        "A [Fio Dental](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e a [Fio Dental Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) são um pouco mais caras. A página delas separa o tecido do forro: tecido de 76,5% poliamida e 23,5% elastano, forro de 95% fibra de celulose regenerada (com 23,7% de grafeno) e 5% elastano. A diferença entre as duas é só a cobertura na cintura, segundo a loja.",
-        "A [Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é a mais barata das cinco e a única de algodão: 95% algodão e 5% elastano, em Preto, Branco e Cinza, do P ao G1. Tem o cós de elástico à mostra, como uma calcinha de algodão comum, e a página não cita o corte a laser da SkinUp."
+        "As quatro calcinhas SkinUp vão do P ao G1 e têm corte a laser, sem costura: a loja diz que elas desaparecem sob legging, calça clara e vestido de tecido leve. A [Biquíni](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e a [Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) custam o mesmo e, pela página, são feitas de 95% fibra de celulose regenerada (com 23,7% de grafeno) e 5% de elastano. A Cós Alto tem a modelagem um pouco mais estruturada, com o que a loja chama de sustentação suave na cintura.",
+        "A [Fio Dental](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) e a [Fio Dental Cós Alto](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) custam o mesmo das duas primeiras. A página delas separa o tecido do forro: tecido de 76,5% poliamida e 23,5% elastano, forro de 95% fibra de celulose regenerada (com 23,7% de grafeno) e 5% elastano. A diferença entre as duas é só a cobertura na cintura, segundo a loja.",
+        "A [Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) é a mais barata das cinco e a única de algodão: 95% algodão e 5% elastano, em Preto, Branco e Cinza, do P ao G1. Tem o cós de elástico à mostra, como uma calcinha de algodão comum, e a página não cita o corte a laser da SkinUp.",
+        "A Calcinha Biquíni Cotton Up está esgotada do P ao G em todas as cores; só restam GG e G1. Quem usa menos que isso fica com uma das quatro SkinUp."
       ],
       "images": [
         {
@@ -456,21 +457,21 @@
             ]
           },
           {
-            "piece": "Calcinha Biquíni Cotton Up",
-            "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-            "howTo": "Como calcinha de algodão do dia a dia. A loja fala em caimento discreto, mas a página não cita o corte a laser da SkinUp.",
-            "occasion": "Casa, pijama e roupa larga.",
+            "piece": "Calcinha Fio Dental SkinUp",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Sob roupa justa, quando você prefere a menor cobertura da linha.",
+            "occasion": "Legging, calça clara e vestido de tecido leve.",
             "pairsWith": [
               {
-                "label": "pijama"
+                "label": "legging"
               },
               {
-                "label": "calça larga"
+                "label": "calça clara"
               },
               {
-                "label": "Top Faixa Cotton Up",
-                "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-                "note": "o conjunto de algodão"
+                "label": "Top Segunda Pele SkinUp",
+                "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                "note": "o conjunto segunda pele"
               }
             ]
           }
@@ -545,71 +546,76 @@
           "alt": "Guia de medidas do Top Skin Up, do P ao G1, com sob busto e busto em centímetros",
           "caption": "Guia de medidas do Top Segunda Pele SkinUp. Foto oficial da Toda Up.",
           "objectFit": "contain",
-          "aspectRatio": 1.1057,
-          "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          "aspectRatio": 1.1057
         },
         {
           "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-top-alca-fina.webp",
           "alt": "Guia de medidas do Top Alça Fina SkinUp, do PP ao GG, com sob busto e busto em centímetros",
           "caption": "Guia de medidas do Sutiã Top Alça Fina SkinUp. Foto oficial da Toda Up.",
           "objectFit": "contain",
-          "aspectRatio": 1.0989,
-          "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          "aspectRatio": 1.0989
         },
         {
           "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-classico.webp",
           "alt": "Guia de medidas do Sutiã Clássico SkinUp, do P ao G1, com sob busto e busto em centímetros",
           "caption": "Guia de medidas do Sutiã Clássico SkinUp. Foto oficial da Toda Up.",
           "objectFit": "contain",
-          "aspectRatio": 1.0976,
-          "href": "https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          "aspectRatio": 1.0976
         },
         {
           "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-medidas-calcinhas-skinup.webp",
           "alt": "Guia de medidas das calcinhas Skin Up, do P ao G1, com cintura e quadril em centímetros",
           "caption": "Guia de medidas das calcinhas SkinUp. Foto oficial da Toda Up.",
           "objectFit": "contain",
-          "aspectRatio": 1.0262,
-          "href": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          "aspectRatio": 1.0262
         }
       ]
     },
     {
-      "heading": "Preço, cupom e frete",
+      "heading": "Preço, cupom e Black Week",
       "paragraphs": [
-        "Nos preços do guia, a peça mais barata da SkinUp era a calcinha, a R$ 44,91, e o top mais em conta era o Top Segunda Pele, a R$ 169,90. Na Cotton Up, a calcinha estava a R$ 39,90 e os dois tops a R$ 132,90. Todos os dez preços estavam abaixo do preço riscado da loja, e as páginas mostravam uma campanha da loja no ar, então o valor muda: confira no site antes de comprar.",
-        "O cupom MAUAD dá 10% em todo o site da Toda Up, inclusive nas peças que já estão com desconto, nas duas linhas. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Os detalhes estão na página do [cupom Toda Up](/cupons/toda-up).",
-        "O frete é calculado pelo CEP, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento, segundo a política de envio. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
+        "A Cotton Up custa menos que a SkinUp em todas as peças que se comparam: tops e calcinha de algodão ficam abaixo dos equivalentes de segunda pele. O Sutiã Top Alça Fina é o único dos dez sem preço riscado na página.",
+        "O MAUAD é o [cupom Toda Up](/cupons/toda-up): 10% OFF no site oficial, nas duas linhas, em todas as formas de pagamento. Pelo botão Ver na Toda Up ele já entra aplicado; se abrir o site por fora, cole o código no campo \"Código de desconto ou cartão-presente\" do checkout. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
+        "Na Black Week, a página de produto informa a escada: 1 ou 2 produtos levam 25% OFF, 3 ou 4 levam 30% e 5 ou mais levam 35%. A escada entra primeiro e o MAUAD sai do que sobra: visto no carrinho, uma Fita Up de R$ 116,90 foi a R$ 87,68 com a Black Week e a R$ 78,92 com o MAUAD. Conta nossa, pela regra da loja: o Sutiã Top Alça Fina sozinho cai para R$ 149,93 com os 25% e fica perto de R$ 135 com o MAUAD. Acima de R$ 249,90 depois dos descontos, a loja põe um Protetor de Silicone de brinde.",
+        "O frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog; na Black Week, a faixa do site anuncia frete fixo de R$ 9,90. O pedido sai em até 3 dias úteis depois da confirmação do pagamento. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
       ]
     },
     {
       "heading": "Qual escolher: o veredito por perfil",
       "paragraphs": [
         "Se a prioridade é reduzir marcas sob roupa justa, a SkinUp é a proposta da loja: Alça Fina para regata e alcinha e para quem precisa de PP; Top Segunda Pele para estrutura mais simples; Clássico para quem quer push-up sem aro. As calcinhas seguem a proposta sem costura, do P ao G1.",
-        "Se a prioridade é algodão e preço, a Cotton Up é a opção: os dois tops de sustentação leve custam R$ 132,90 e a calcinha, R$ 39,90, em preto, branco e cinza, do P ao G1. É a escolha para casa, pijama e roupa larga; sob blusa colada, o resultado depende da peça por cima.",
+        "Se a prioridade é algodão e preço, a Cotton Up é a opção: os dois tops têm sustentação leve e a calcinha de algodão só tem GG e G1 hoje, em preto, branco e cinza. É a escolha para casa, pijama e roupa larga; sob blusa colada, o resultado depende da peça por cima.",
         "Nos dois casos, a faixa de tamanho decide o resto: meça e compare com a coluna da peça na tabela acima, porque a mesma letra muda de medida entre os tops da própria SkinUp e muda de número entre as duas linhas."
       ],
-      "images": [
+      "emphasis": "Se fosse para mim, eu levaria o Sutiã Top Alça Fina, porque é o único com PP e tem a alça mais fina que a da regata.",
+      "links": [
         {
-          "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-cinza.webp",
-          "alt": "Modelo com o Top Faixa Cotton Up cinza, em foto oficial da loja",
-          "caption": "Top Faixa Cotton Up em cinza. Foto oficial da Toda Up.",
-          "objectFit": "contain",
-          "aspectRatio": 0.6378,
-          "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          "label": "Ver o Sutiã Top Alça Fina na Toda Up",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Toda Up: MAUAD",
+          "href": "/cupons/toda-up"
         }
       ],
-      "emphasisAfterParagraph": 1,
-      "emphasis": "Se fosse para mim, eu levaria o Sutiã Top Alça Fina, porque é o único com PP e tem a alça mais fina que a da regata."
+      "image": {
+        "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-faixa-cinza-2311.webp",
+        "alt": "Top Faixa Cotton Up cinza, em foto oficial da Toda Up",
+        "caption": "Top Faixa Cotton Up na cor cinza. Foto: Toda Up.",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+      }
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual a diferença entre SkinUp e Cotton Up? A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura; segundo a loja, os tops são de poliamida e elastano e as calcinhas variam por modelo (celulose regenerada e elastano na Biquíni e na Cós Alto; tecido e forro nas Fio Dental). A Cotton Up é a linha de algodão, mais barata e em preto, branco e cinza; as páginas dela não citam corte a laser.",
+        "Qual é o cupom da Toda Up? É o MAUAD, com 10% OFF no site oficial da Toda Up, em todas as formas de pagamento. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.",
         "Tem SkinUp em PP? Só o Sutiã Top Alça Fina, no PP (34-36). O Top Segunda Pele, o Clássico e as calcinhas começam no P.",
         "O top Cotton Up tem sustentação? Segundo as páginas do Top Faixa e do Top Triangular, a sustentação é leve, com bojo removível; a própria loja diz que não é alta sustentação.",
-        "SkinUp é segunda pele de verdade? É como a loja descreve a linha: corte a laser, acabamento ultrafino e sem costura, para sumir na roupa.",
-        "O cupom da Toda Up vale nas duas linhas? Vale, porque o cupom é do site inteiro e dá 10% no carrinho, inclusive em peça já com desconto. A campanha da loja pode entrar antes, então confira o total."
+        "SkinUp é segunda pele de verdade? É como a loja descreve a linha: corte a laser, acabamento ultrafino e sem costura, para sumir na roupa."
       ]
     }
   ],
@@ -621,7 +627,8 @@
     ],
     "skipIf": [
       "Quem não acha o seu tamanho na coluna da peça: a mesma letra muda de medida entre as linhas.",
-      "Quem quer sustentação alta no Cotton Up: a loja a classifica como leve."
+      "Quem quer sustentação alta no Cotton Up: a loja a classifica como leve.",
+      "Quem veste P, M ou G e queria a Calcinha Biquíni Cotton Up: ela está esgotada nesses tamanhos."
     ]
   }
 }

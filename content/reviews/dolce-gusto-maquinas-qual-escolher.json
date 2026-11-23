@@ -17,6 +17,7 @@
   "metaDescription": "Qual Dolce Gusto comprar, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: Mini Me 2.0, Genio S, Touch ou NEO, com preço e medidas.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/dolcegusto/dolce-gusto-maquinas-qual-escolher-capa-v2.webp",
@@ -34,7 +35,7 @@
     {
       "heading": "As cinco máquinas à venda na loja oficial",
       "paragraphs": [
-        "Para escolher, primeiro separe por cápsula: a loja oficial vende cinco máquinas, quatro do sistema Original (a Mini Me 2.0 e as três Genio S: Basic, Plus e Touch) e a NEO, de outra cápsula. Infinissima, Piccolo, Piccolo XS e Lumio não estão à venda no site.",
+        "Para escolher, primeiro separe por cápsula: a loja oficial vende cinco máquinas, quatro do sistema Original (a [Mini Me 2.0](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2) e as três Genio S: [Basic](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-basic-grafite-110v-new-2), [Plus](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-plus-preta-110v-new) e [Touch](https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1)) e a [NEO](https://www.nescafe-dolcegusto.com.br/maquinas-cafe-neo), de outra cápsula. Infinissima, Piccolo, Piccolo XS e Lumio não estão à venda no site.",
         "As quatro do sistema Original aceitam as mesmas cápsulas, com mais de 30 bebidas quentes ou frias, entre cafés, lattes, cappuccinos, chocolates e chás. Elas trabalham com 15 bar de pressão e, no comparativo oficial, aparecem com tomada de 20 A.",
         "A NEO aceita só as cápsulas NEO compostáveis, trabalha com até 15 bar e tem o maior reservatório entre as cinco, com 1 litro."
       ],
@@ -43,13 +44,14 @@
         "alt": "Cafeteiras Dolce Gusto Mini Me 2.0 preta, Genio S Basic taupe, Genio S Plus vermelha, Genio S Touch prata e NEO preta, lado a lado na mesma altura",
         "caption": "As cinco máquinas à venda na loja oficial: Mini Me 2.0, Genio S Basic, Genio S Plus, Genio S Touch e NEO. Fotos da loja, fora de escala.",
         "objectFit": "wide",
-        "aspectRatio": 2.6
+        "aspectRatio": 2.6,
+        "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe"
       }
     },
     {
       "heading": "Preço, tamanho e recursos lado a lado",
       "comparisonTable": {
-        "caption": "Preços de venda na loja oficial em 12/10/2026. Medidas e recursos das máquinas Original no comparativo oficial. Altura da NEO na ficha da loja.",
+        "caption": "Preços de venda na loja oficial em 23/11. Medidas e recursos das máquinas Original no comparativo oficial. Altura da NEO na ficha da loja.",
         "headers": [
           "Recurso",
           "Mini Me 2.0",
@@ -61,9 +63,9 @@
         "rows": [
           [
             "Preço",
-            "R$ 429,90",
-            "R$ 479,90",
-            "R$ 589,90",
+            "R$ 349,90",
+            "R$ 389,90",
+            "R$ 489,90",
             "R$ 799,90",
             "A partir de R$ 799,00"
           ],
@@ -110,13 +112,18 @@
         ]
       },
       "postParagraphs": [
-        "Na cor Cinza Chumbo 110V, a Mini Me 2.0 sai por R$ 449,90. A NEO tem ficha própria na página da máquina.",
+        "A Mini Me 2.0 tem o mesmo preço em todas as cores. A NEO tem ficha própria na página da máquina.",
         "A Genio S Plus e a Genio S Touch têm também a bandeja de metal. A diferença técnica entre as três Genio S, recurso por recurso, está no nosso comparativo Basic, Plus e Touch."
       ],
       "links": [
         {
           "label": "Genio S Basic, Plus ou Touch: qual vale mais a pena?",
           "href": "/reviews/dolce-gusto-genio-s-basic-vs-plus-vs-touch"
+        },
+        {
+          "label": "Comparar as máquinas na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/comparativo",
+          "sponsored": true
         }
       ]
     },
@@ -131,14 +138,15 @@
         "src": "/images/reviews/dolcegusto/genio-s-touch-lateral.webp",
         "alt": "Imagem comercial da cafeteira Dolce Gusto Genio S Touch prata, em três quartos, com o reservatório de água atrás",
         "caption": "A Genio S de lado: 11,2 cm de largura e 28,6 cm de profundidade, segundo o comparativo oficial.",
-        "objectFit": "square"
+        "objectFit": "square",
+        "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-touch-prata-110v-1"
       }
     },
     {
       "heading": "Cápsulas: Original, NEO e o adaptador",
       "paragraphs": [
         "A Mini Me 2.0 e as três Genio S usam as cápsulas do sistema Original. A NEO usa só as cápsulas NEO compostáveis, e as do sistema Original não entram nela.",
-        "O Adaptador NEO Start, vendido por R$ 89,90 na loja oficial, põe alguns cafés NEO, só espresso e lungo, nos modelos do sistema Original que a loja lista como compatíveis. A lista cita, entre outras, a Mini Me, sem dizer se é a 2.0, a Genio S, a Genio S Plus e a Genio S Touch: confira na página do adaptador.",
+        "O [Adaptador NEO Start](https://www.nescafe-dolcegusto.com.br/adaptador-neo-start), vendido por R$ 89,90 na loja oficial, põe alguns cafés NEO, só espresso e lungo, nos modelos do sistema Original que a loja lista como compatíveis. A lista cita, entre outras, a Mini Me, sem dizer se é a 2.0, a Genio S, a Genio S Plus e a Genio S Touch. A página do adaptador lista cinco cafés NEO compatíveis; a lista e o estoque mudam, então confira na página do adaptador antes de comprar.",
         "Cápsulas de outras marcas que se dizem compatíveis estão no nosso guia de cápsulas compatíveis, com o que cada fabricante informa."
       ],
       "images": [
@@ -146,13 +154,15 @@
           "src": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
           "alt": "Caixa de cápsulas Dolce Gusto Original Espresso ao lado da embalagem NEO Espresso Serras do Alto Paranaíba, em fotos oficiais da loja",
           "caption": "À esquerda, a caixa Original do Espresso; à direita, a embalagem NEO do Espresso Serras do Alto Paranaíba.",
-          "objectFit": "contain"
+          "objectFit": "contain",
+          "href": "https://www.nescafe-dolcegusto.com.br/sabores-neo"
         },
         {
           "src": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
           "alt": "Adaptador NEO Start aberto com uma cápsula NEO posicionada para o encaixe",
           "caption": "O Adaptador NEO Start aberto, com uma cápsula NEO no encaixe.",
-          "objectFit": "contain"
+          "objectFit": "contain",
+          "href": "https://www.nescafe-dolcegusto.com.br/adaptador-neo-start"
         }
       ],
       "links": [
@@ -178,13 +188,15 @@
           "src": "/images/reviews/dolcegusto/mini-me-2-0-bruno-video-1.webp",
           "alt": "Bruno com a cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 em gravação para o canal Em Casa com Cecília",
           "caption": "A Mini Me 2.0 do nosso teste em casa.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/mini-me-2"
         },
         {
           "src": "/images/reviews/dolcegusto/dolce-gusto-neo-cecilia.webp",
           "alt": "Cecília na cozinha com a cafeteira Dolce Gusto NEO branca, segurando o reservatório de água transparente",
           "caption": "A Cecília com a NEO, que ela usa no dia a dia.",
-          "objectFit": "portrait"
+          "objectFit": "portrait",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe-neo"
         }
       ],
       "links": [
@@ -208,26 +220,43 @@
         "Menor investimento nas opções comparadas: Mini Me 2.0. Usa as mesmas cápsulas das Genio S, mas não tem XL.",
         "Quer alternar o volume e a temperatura de preparo: Genio S Plus, com XL e quatro temperaturas. Café, café com leite e chá também estão disponíveis nas outras máquinas Original, conforme a cápsula escolhida.",
         "Café o dia todo, em casa ou no escritório: a NEO tem o maior reservatório, com 1 litro; entre as do sistema Original, a Genio S Plus e a Touch somam XL e Espresso Boost.",
-        "Café preto, cápsula compostável e reservatório de 1 litro: NEO, a partir de R$ 799,00.",
+        "Café preto, cápsula compostável e reservatório de 1 litro: NEO, que custa a partir de R$ 799,00.",
         "Bebida gelada: prepare e ponha gelo no copo; no nosso teste da Touch, o modo frio não gelou a bebida.",
         "Bancada pequena: Genio S, a mais estreita, com 11,2 cm.",
-        "XL pagando menos: Genio S Basic, R$ 479,90, sem as 4 temperaturas e o Espresso Boost.",
-        "Os recursos da Plus com tela de toque: Genio S Touch, R$ 799,90.",
-        "Menor preço: Mini Me 2.0, por R$ 429,90 na maioria das cores."
+        "XL pagando menos: Genio S Basic, sem as 4 temperaturas e o Espresso Boost.",
+        "Os recursos da Plus com tela de toque: Genio S Touch.",
+        "Menor preço: Mini Me 2.0, igual em todas as cores."
       ],
-      "emphasis": "Para alternar bebidas e volumes, eu escolheria a Genio S Plus, porque junta XL, 4 temperaturas e Espresso Boost e custa R$ 210 a menos que a Touch, que tem os mesmos recursos com tela de toque."
+      "emphasis": "Para alternar bebidas e volumes, eu escolheria a Genio S Plus: junta XL, quatro temperaturas e Espresso Boost e custa bem menos que a Touch, que tem os mesmos recursos com tela de toque.",
+      "links": [
+        {
+          "label": "Ver Genio S Plus na loja oficial",
+          "href": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/genio-s-plus-preta-110v-new",
+          "sponsored": true
+        },
+        {
+          "label": "Cupom Dolce Gusto: CECI",
+          "href": "/cupons/dolce-gusto"
+        }
+      ]
     },
     {
       "heading": "Onde comprar e o cupom CECI",
       "paragraphs": [
-        "Os preços deste guia são da loja oficial e mudam com as promoções. A garantia da máquina é de 1 ano.",
-        "O cupom CECI dá 10% de desconto em compras a partir de R$ 100 na loja oficial. Confira o desconto no carrinho antes de pagar.",
+        "Os preços deste guia são da loja oficial e mudam com as promoções. A garantia da máquina é de 1 ano, e o parcelamento vai até 10x sem juros. As promoções do site mudam quase todo dia e podem acabar sem aviso: confira no regulamento e no carrinho.",
+        "Na consulta de novembro, a compra de uma máquina Original dava 30 cápsulas predefinidas, e os brindes entram sozinhos no carrinho. O combo com máquina levava uma Mini Me de brinde acima de 65 caixas de cápsulas Original; o número de caixas muda de uma campanha para outra (já foi de 45 a 80 caixas), então confira o piso no regulamento e no carrinho. O frete grátis nas máquinas vinha ao pôr 1 DGusta no pedido. Veja o que a Black Friday trouxe no guia da [Black Friday da Dolce Gusto](/reviews/black-friday-dolce-gusto).",
+        "O cupom CECI dá 10% OFF na loja oficial e no app, em compras a partir de 100 reais e em todas as formas de pagamento. Para usar, clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar. Ele não vale no frete nem junto com o resgate de pontos do Club.",
         "Na dúvida entre Dolce Gusto e Nespresso, veja o comparativo das marcas."
       ],
       "links": [
         {
           "label": "Ver regras e validade do cupom CECI na Dolce Gusto",
           "href": "/cupons/dolce-gusto"
+        },
+        {
+          "label": "Ver o regulamento das promoções da loja",
+          "href": "https://www.nescafe-dolcegusto.com.br/sobre/regulamentos2026",
+          "sponsored": true
         },
         {
           "label": "Dolce Gusto ou Nespresso: qual cafeteira de cápsula escolher",
@@ -238,15 +267,13 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual o código de desconto da Dolce Gusto? O cupom é CECI, que dá 10% OFF na loja oficial em compras a partir de R$ 100.",
+        "Qual é o cupom da Dolce Gusto? É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de 100 reais, em todas as formas de pagamento. Clique em Resgatar códigos promocionais, digite CECI em Código do voucher e confira a linha do desconto antes de pagar.",
         "Qual Dolce Gusto faz bebida gelada? Nenhuma gela a bebida: o preparo frio da Genio S Touch saiu morno, por volta de 40 °C, e o gelado vem do gelo no copo.",
         "Qual Dolce Gusto aceita todas as cápsulas? Nenhuma: as máquinas do sistema Original aceitam as cápsulas Original e, nos modelos que a loja lista como compatíveis, alguns cafés NEO (espresso e lungo) com o Adaptador NEO Start; a NEO aceita só cápsulas NEO.",
         "Qual cafeteira Dolce Gusto é a menor? Depende da medida: a Genio S é a mais estreita (11,2 cm) e, entre as do sistema Original, a mais baixa; a Mini Me 2.0 é a menos funda das do sistema Original (24 cm).",
         "Mini Me ou Genio S: qual vale mais a pena? A Mini Me 2.0 é a opção de menor preço na tabela. As três Genio S têm XL; a Plus e a Touch acrescentam quatro temperaturas e Espresso Boost. Todas usam as mesmas cápsulas Original.",
         "Dolce Gusto NEO ou Genio S: qual escolher? Escolha a NEO se quer cápsula compostável e reservatório de 1 litro e aceita só cápsulas NEO, de café preto. Escolha a Genio S se quer o sistema Original, com mais de 30 bebidas, entre cafés, lattes, chocolates e chás.",
-        "A Mini Me 2.0 tem função XL? Não: no comparativo oficial, o XL aparece só nas Genio S.",
-        "Quais são as dimensões da Mini Me 2.0? 30,5 cm de altura, 16 cm de largura e 24 cm de profundidade.",
-        "Quais são as dimensões da Genio S Plus? Cerca de 27 cm de altura, 11,2 cm de largura e 28,6 cm de profundidade."
+        "Quais são as dimensões da Mini Me 2.0 e da Genio S Plus? A Mini Me 2.0 mede 30,5 × 16 × 24 cm (altura, largura e profundidade), e a Genio S Plus, cerca de 27 × 11,2 × 28,6 cm. A tabela do capítulo de preço, tamanho e recursos traz as cinco máquinas."
       ]
     }
   ],
@@ -255,7 +282,7 @@
   "cta": {
     "text": "Compare os modelos na loja oficial e aplique o cupom CECI no carrinho antes de pagar.",
     "label": "Ver as máquinas na loja",
-    "url": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe/",
+    "url": "https://www.nescafe-dolcegusto.com.br/maquinas-cafe",
     "sponsored": true
   },
   "coupon": "CECI",
@@ -271,5 +298,17 @@
     {
       "slug": "black-friday-dolce-gusto"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer gastar menos e aceita uma máquina sem XL: a Mini Me 2.0.",
+      "Você quer XL, quatro temperaturas e Espresso Boost sem pagar pela tela de toque: a Genio S Plus.",
+      "Você toma só café preto e quer cápsula compostável: a NEO."
+    ],
+    "skipIf": [
+      "Você já tem caixas Original em casa: a NEO não aceita nenhuma.",
+      "Você espera bebida gelada direto da máquina: o modo frio da Touch saiu morno, e o gelado vem do gelo no copo.",
+      "Você vai pôr a máquina num nicho apertado: meça antes a altura da Mini Me 2.0 e da NEO."
+    ]
+  }
 }

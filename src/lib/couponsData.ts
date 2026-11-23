@@ -233,7 +233,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'damie',
-    cartPrint: { article: 'cupom-cecilia12-como-usar', src: '/images/reviews/cupom-cecilia12/4-confirme-desconto.png', alt: 'Resumo do pedido da Damie com desconto aplicado.', aspectRatio: 0.452 },
+    cartPrint: { article: 'cupom-cecilia12-como-usar', src: '/images/reviews/cupom-cecilia12/4-confirme-desconto-recorte.webp', alt: 'Resumo do pedido da DAMIE com o CECILIA12 no campo de cupom e a linha Descontos', aspectRatio: 1 },
     brand: 'DAMIE',
     officialUrl: 'https://damie.com.br',
     offerUrl: 'https://damie.com.br',
@@ -282,14 +282,19 @@ const STORE_COUPONS: Coupon[] = [
       'A DAMIE é uma marca brasileira de móveis estofados premium, com foco em poltronas reclináveis, sofás, camas e soluções de conforto para a casa. A Cecília usa produtos da marca no dia a dia e produziu reviews mostrando montagem, acabamento, conforto e uso real em casa. O cupom CECILIA12 foi criado para quem acompanha o Em Casa com Cecília e quer comprar com desconto direto no checkout. A proposta da parceria é simples: indicar produtos que fazem sentido para uma casa mais confortável, sem esconder que existe relação comercial e comissão de afiliado quando uma compra é feita pelo link ou cupom.',
     faqs: [
       {
+        question: 'Qual é o cupom da DAMIE?',
+        answer:
+          'O cupom da DAMIE da nossa parceria é o CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento, e soma com as promoções e com os 10% do Pix. Não soma com outro cupom nem com o giftback de 15% e não vale no Mercado Livre.',
+      },
+      {
         question: 'O cupom CECILIA12 funciona em todos os produtos da DAMIE?',
         answer:
           'Sim. O CECILIA12 dá 12% OFF em todos os produtos disponíveis no site da DAMIE, sem restrição de categoria ou modelo.',
       },
       {
-        question: 'O cupom CECILIA12 vale para Pix, cartão e outras formas de pagamento?',
+        question: 'O cupom CECILIA12 vale em todas as formas de pagamento?',
         answer:
-          'Sim. O CECILIA12 vale com todas as formas de pagamento disponíveis no checkout da DAMIE, incluindo Pix e cartão. O desconto de 12% não depende do meio de pagamento escolhido.',
+          'Sim. O CECILIA12 vale em todas as formas de pagamento do checkout da DAMIE. O desconto de 12% não depende do meio de pagamento escolhido.',
       },
       {
         question: 'O CECILIA12 soma com o desconto do Pix?',
@@ -344,12 +349,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom DAMIE na Black Friday?',
         answer:
-          'Tem. O cupom DAMIE CECILIA12 dá 12% OFF em todos os produtos do site, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+          'Tem. O cupom DAMIE CECILIA12 dá 12% OFF em todos os produtos do site, em todas as formas de pagamento, e é o mesmo código do resto do ano. A Black Friday da DAMIE vai até 27/11: R$ 1.000 de desconto nas poltronas, já no preço, e massagem, entrada USB e porta-copos de brinde na compra de poltrona.',
       },
       {
         question: 'O cupom DAMIE vale na Black Friday?',
         answer:
-          'O cupom DAMIE CECILIA12 dá 12% OFF e soma com as promoções, os brindes e o desconto do Pix; só não soma com outro cupom nem com o giftback.',
+          'Vale. O CECILIA12 soma com as promoções, os brindes e o desconto do Pix; só não soma com outro cupom nem com o giftback.',
       },
       {
         question: 'Comprar com o cupom muda o preço para mim?',
@@ -357,18 +362,34 @@ const STORE_COUPONS: Coupon[] = [
           'Não no sentido de custo extra. Você recebe o desconto informado quando o cupom é aceito, e o Em Casa com Cecília pode receber comissão da marca por indicação.',
       },
     ],
-    history: [
-      {
-        date: '2024',
-        code: 'CECILIA10',
-        discount: '10% OFF',
-        note: 'Cupom inicial da parceria.',
-      },
-    ],
     status: 'ativo',
     featured: true,
     featuredPitch: 'Poltronas reclináveis, sofás e camas.',
     relatedContent: [
+      {
+        title: 'Como usar o cupom CECILIA12 na DAMIE',
+        url: '/reviews/cupom-cecilia12-como-usar',
+        type: 'review',
+        publishedAt: '2026-06-11',
+      },
+      {
+        title: 'Black Friday DAMIE 2026',
+        url: '/reviews/black-friday-damie',
+        type: 'review',
+        publishedAt: '2026-10-09',
+      },
+      {
+        title: 'Poltrona DAMIE é boa? Minha experiência com a 2.0',
+        url: '/reviews/poltrona-damie-e-boa',
+        type: 'review',
+        publishedAt: '2026-07-21',
+      },
+      {
+        title: 'DAMIE no Reclame Aqui: o que os dados mostram',
+        url: '/reviews/damie-reclame-aqui-o-que-os-dados-mostram',
+        type: 'review',
+        publishedAt: '2026-06-20',
+      },
       {
         title: 'Minha experiência: Poltronas Reclináveis DAMIE',
         url: '/reviews/poltronas-reclinaveis-damie-vale-o-investimento',
@@ -396,14 +417,14 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'em todos os produtos do site',
-      note: 'Válido com todas as formas de pagamento disponíveis na DAMIE, inclusive Pix e cartão',
+      note: 'Válido em todas as formas de pagamento e soma com os 10% do Pix',
       showCheckoutReminder: false,
     },
   },
   {
     offerMode: 'discount-code',
     slug: 'dolce-gusto',
-    cartPrint: { src: '/images/reviews/dolcegusto/cupom-dolce-gusto-carrinho-com-cupom.webp', alt: 'Carrinho da NESCAFÉ Dolce Gusto com o código CECI aplicado e, no resumo do pedido, a linha Você ganhou 10% OFF', aspectRatio: 1.263 },
+    cartPrint: { article: 'cupom-ceci-nescafe-dolce-gusto-como-usar', src: '/images/reviews/dolcegusto/cupom-dolce-gusto-carrinho-com-cupom.webp', alt: 'Carrinho da NESCAFÉ Dolce Gusto com o código CECI aplicado e, no resumo do pedido, a linha Você ganhou 10% OFF', aspectRatio: 1.263 },
     brand: 'Dolce Gusto',
     officialUrl: 'https://www.nescafe-dolcegusto.com.br/',
     offerUrl: 'https://www.nescafe-dolcegusto.com.br/',
@@ -431,20 +452,27 @@ const STORE_COUPONS: Coupon[] = [
     eligibleCategories:
       'Todo o site oficial Dolce Gusto, em compras a partir de R$ 100',
     validity: 'Cupom permanente enquanto a parceria estiver ativa',
-    reusable: 'Conforme regras da loja',
-    shipping: 'Calculado separadamente, conforme política da loja',
-    combinable: 'Soma com as promoções vigentes da loja oficial',
+    reusable: 'Sim, vale em mais de um pedido',
+    shipping: 'O cupom desconta só os produtos; o frete segue a política da loja',
+    combinable: 'Soma com as promoções vigentes da loja oficial e com a assinatura; não vale com o resgate de pontos do Club',
     stacking: [
       { benefit: 'promocoes', stacks: 'sim', condition: 'Os 10% entram sobre o preço promocional, inclusive em produtos que já estão em promoção' },
+      { benefit: 'assinatura', stacks: 'sim', condition: 'Os 10% entram sobre o preço do plano quando o subtotal, já com o desconto da assinatura, passa de R$ 100' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
-    lastVerified: '2026-11-17',
+    codeFieldLabel: 'Código do voucher',
+    lastVerified: '2026-11-23',
     testedAt: '2026-11-17',
     testNote:
       'Numa máquina Mini Me 2.0 em promoção, de R$ 599,90 por R$ 369,90, o CECI tirou R$ 36,99, os 10%, e o total caiu para R$ 332,91. Em 12/11/2026, num carrinho de sete caixas de Espresso Intenso, de R$ 19,99 cada, o CECI tirou R$ 13,99 dos R$ 139,93 e o total caiu para R$ 125,94; no mesmo dia, num combo da Black Friday, de R$ 207,20 por R$ 145,04, o CECI tirou R$ 14,50 e o total caiu para R$ 130,54. Em 11/11/2026, em sete caixas de Cappuccino em promoção, de R$ 25,90 por R$ 15,90 cada, o CECI tirou R$ 11,13 dos R$ 111,30. Em 26/10/2026, com o carrinho abaixo de R$ 100, a loja recusou o cupom.',
     aboutBrand:
       'A Nescafé Dolce Gusto é uma linha de cafés e bebidas em cápsulas da Nestlé, com máquinas e sabores pensados para preparo rápido em casa. A marca combina praticidade com variedade: cafés intensos, bebidas com leite, cappuccinos, chocolates e opções geladas aparecem no catálogo da loja oficial. O cupom CECI entra como benefício para quem acompanha a Cecília e quer economizar em compras na loja oficial. Como em toda parceria comercial, a recomendação deve ser conferida no checkout: o desconto aparece antes da finalização quando a regra da campanha permite.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Dolce Gusto?',
+        answer:
+          'É o CECI, com 10% OFF na loja oficial e no app da Nescafé Dolce Gusto em compras a partir de R$ 100, em todas as formas de pagamento. No carrinho, clique em "Resgatar códigos promocionais", digite CECI em "Código do voucher" e confira a linha do desconto antes de pagar.',
+      },
       {
         question: 'O cupom CECI vale para todas as cápsulas Dolce Gusto?',
         answer:
@@ -468,12 +496,12 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Existe cupom Dolce Gusto de 20% ou 50%?',
         answer:
-          'Com código, o desconto que testamos é o do CECI: 10% em compras a partir de R$ 100. Não testamos os códigos de 20% ou 50% que aparecem em sites de cupom. Quando a própria loja põe cápsulas ou máquinas em promoção, o CECI soma: os 10% entram sobre o preço promocional.',
+          'O código da parceria é o CECI: 10% em compras a partir de R$ 100. Os descontos maiores da Dolce Gusto vêm das promoções da própria loja, e o CECI soma com elas: os 10% entram sobre o preço promocional.',
       },
       {
         question: 'Posso usar o cupom CECI mais de uma vez?',
         answer:
-          'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
+          'Pode. O CECI vale em mais de um pedido, sempre em compras a partir de R$ 100. Se o checkout recusar o código, confira o valor do carrinho e se há resgate de pontos do Club no pedido.',
       },
       {
         question: 'O cupom CECI está funcionando hoje?',
@@ -499,17 +527,17 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O CECI dá 5% ou 10% na Dolce Gusto?',
         answer:
-          'Hoje, dá 10%: no teste de 17/11/2026, o checkout mostrou 10% numa máquina em promoção. No começo de outubro de 2026, o código dava 5%; desde 26/10, os testes mostram 10%. O que vale é a linha "Você ganhou 10% OFF" no resumo do carrinho, antes de pagar.',
+          'Hoje, dá 10%, em compras a partir de R$ 100. O código já deu 5% numa campanha anterior; os testes de novembro mostram 10%, inclusive numa máquina em promoção. O que vale é a linha "Você ganhou 10% OFF" no resumo do carrinho, antes de pagar.',
       },
       {
         question: 'O cupom dá frete grátis?',
         answer:
-          'Não necessariamente. O cupom concede desconto nos produtos; frete, prazo e condições de entrega seguem as regras da loja oficial Dolce Gusto.',
+          'Não. O CECI desconta só os produtos. O frete grátis, quando existe, vem das promoções da própria loja, e o prazo e as condições de entrega seguem a política da loja oficial.',
       },
       {
         question: 'O cupom CECI é cumulativo?',
         answer:
-          'Sim. O CECI soma com as promoções vigentes da loja oficial, inclusive em produtos que já estão com preço promocional. O resumo do carrinho mostra o desconto antes de você pagar.',
+          'Sim. O CECI soma com as promoções vigentes da loja oficial, inclusive em produtos que já estão com preço promocional, e com a assinatura. Só não vale com o resgate de pontos do Club no mesmo carrinho. O resumo do carrinho mostra o desconto antes de você pagar.',
       },
       {
         question: 'O link leva para a loja oficial?',
@@ -552,6 +580,36 @@ const STORE_COUPONS: Coupon[] = [
         url: '/reviews/dolce-gusto-e-confiavel',
         type: 'review',
         publishedAt: '2026-07-14',
+      },
+      {
+        title: 'Black Friday Dolce Gusto: qual máquina comprar e a conta das cápsulas',
+        url: '/reviews/black-friday-dolce-gusto',
+        type: 'review',
+        publishedAt: '2026-10-09',
+      },
+      {
+        title: 'Qual Dolce Gusto comprar: Mini Me 2.0, Genio S ou NEO',
+        url: '/reviews/dolce-gusto-maquinas-qual-escolher',
+        type: 'review',
+        publishedAt: '2026-10-12',
+      },
+      {
+        title: 'Quanto custa cada bebida Dolce Gusto, por cápsula e por xícara',
+        url: '/reviews/quanto-custa-capsula-dolce-gusto',
+        type: 'review',
+        publishedAt: '2026-10-12',
+      },
+      {
+        title: 'Assinatura Dolce Gusto vale a pena? Valor e cupom CECI',
+        url: '/reviews/assinatura-dolce-gusto-vale-a-pena',
+        type: 'review',
+        publishedAt: '2026-10-05',
+      },
+      {
+        title: 'Dolce Gusto no Reclame Aqui: nota e reclamações',
+        url: '/reviews/dolce-gusto-reclame-aqui-nota-reputacao',
+        type: 'review',
+        publishedAt: '2026-11-05',
       },
     ],
     monthlyHighlight: {
@@ -3711,7 +3769,7 @@ const STORE_COUPONS: Coupon[] = [
     hubCard: 'destaque',
     shortDescription: 'todo o site Toda Up, inclusive nos produtos em promoção',
     longDescription:
-      'O cupom Toda Up MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções do site, inclusive nos produtos que já estão com desconto. A exceção é a Black VIP: com um produto dela no carrinho, o checkout não aplica o cupom.',
+      'O cupom Toda Up MAUAD dá 10% OFF em sutiãs, tops, calcinhas e adesivos no site oficial, para quem compra pela primeira vez e para quem já é cliente, e soma com as promoções do site, inclusive com a escada de desconto da Black Week. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.',
     metaTitle: 'Cupom Toda Up: 10% OFF em tudo com MAUAD',
     metaTitleMonth: true,
     metaDescription:
@@ -3722,33 +3780,38 @@ const STORE_COUPONS: Coupon[] = [
     shipping:
       'Calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog; o pedido sai em até 3 dias úteis depois da confirmação do pagamento',
     combinable:
-      'Soma com as promoções vigentes do site e vale nos produtos que já estão com desconto; na Black VIP, a loja avisa que o cupom de influenciadora não soma com a escada de desconto',
+      'Soma com as promoções vigentes do site, inclusive com a escada de desconto da Black Week, e vale nos produtos que já estão com desconto; não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva',
     stacking: [
-      { benefit: 'promocoes', stacks: 'depende', condition: 'Entra sobre o preço promocional; com um produto da Black VIP no carrinho, o checkout não aplica o cupom' },
+      { benefit: 'promocoes', stacks: 'depende', condition: 'Entra sobre o preço promocional e sobre a escada da Black Week; não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva' },
       { benefit: 'pix', stacks: 'sim', condition: 'Soma com o desconto do Pix, quando a loja oferece; o percentual aparece na hora do pagamento' },
     ],
-    lastVerified: '2026-11-17',
-    testedAt: '2026-11-17',
+    lastVerified: '2026-11-23',
+    testedAt: '2026-11-23',
     testNote:
-      'Aplicamos o MAUAD numa Fita Up em promoção, de R$ 179,90 por R$ 116,90: o cupom tirou R$ 11,69 e o total caiu para R$ 105,21, os 10% sobre o preço promocional. No mesmo carrinho, os códigos MARESSA e BEARAMOS deram o mesmo desconto, R$ 11,69. Com uma Fita Up da Black VIP no carrinho, o checkout não aplicou o cupom em nenhum item e avisou que, na Black VIP, o cupom de influenciadora não soma com a escada de desconto. Em 11 e 12/11/2026, o MAUAD chegou a dar 15%; desde 16/11, o checkout voltou a mostrar 10%.',
+      'Montamos dois carrinhos no site oficial. Na Fita Up de R$ 116,90, posta pelo botão "Comprar agora", a Black Week tirou 25% e o total foi a R$ 87,68; o MAUAD tirou mais R$ 8,76, e o checkout fechou em R$ 78,92. Num carrinho de R$ 509,70 com o Sutiã Comfort Up, o Top Segunda Pele e o Sutiã de Silicone Invisível, o MAUAD tirou R$ 50,97, os 10%, e o total foi a R$ 458,73. Nos dois, o desconto apareceu na linha MAUAD do resumo do pedido.',
     codeInstructions: [
       'Copie o código MAUAD no card acima.',
       'Acesse o site oficial da Toda Up pelo botão indicado e coloque os produtos no carrinho.',
-      'No checkout, confira se o MAUAD já aparece aplicado; se não, cole o código no campo de cupom de desconto e aplique.',
+      'No checkout, confira se o MAUAD já aparece aplicado; se não, cole o código no campo "Código de desconto ou cartão-presente" e aplique.',
       'Confira o desconto no resumo do pedido antes de pagar.',
     ],
     aboutBrand:
-      'A Toda Up é uma marca brasileira de moda íntima feminina, de Biguaçu (SC). Começou com as fitas adesivas para decote e hoje vende sutiãs, tops e calcinhas segunda pele, sutiã de silicone, adesivos e acessórios. O cupom MAUAD é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF em todo o site e soma com as promoções. A recomendação é conferir o resumo do pedido antes de pagar.',
+      'A Toda Up é uma marca brasileira de moda íntima feminina, de Biguaçu (SC). Começou com as fitas adesivas para decote e hoje vende sutiãs, tops e calcinhas segunda pele, sutiã de silicone, adesivos e acessórios. O cupom MAUAD é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 10% OFF no site e soma com as promoções, inclusive com a escada da Black Week. A recomendação é conferir o resumo do pedido antes de pagar.',
     faqs: [
+      {
+        question: 'Qual é o cupom da Toda Up?',
+        answer:
+          'O cupom da Toda Up da nossa parceria é MAUAD, com 10% OFF no site oficial, em todas as formas de pagamento, válido inclusive em kits e peças em promoção. Ele não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.',
+      },
       {
         question: 'O cupom MAUAD vale para todos os produtos da Toda Up?',
         answer:
-          'Sim. O MAUAD dá 10% OFF em todos os produtos do site oficial da Toda Up: sutiãs, tops, calcinhas, adesivos e acessórios, inclusive os que já estão em promoção. A exceção é a Black VIP, enquanto ela durar: com um produto dela no carrinho, o checkout não aplica o cupom, nem nos outros itens.',
+          'Vale em sutiãs, tops, calcinhas, adesivos e acessórios do site oficial, inclusive nos que já estão em promoção. As exceções são os itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva: com um deles no carrinho, o checkout não aplica o cupom.',
       },
       {
         question: 'Qual cupom Toda Up vale para quem já é cliente?',
         answer:
-          'O MAUAD. Ele dá 10% no site oficial da Toda Up para quem compra pela primeira vez e para quem já comprou. A exceção é a Black VIP, em que a loja não soma o cupom de influenciadora.',
+          'O MAUAD. Ele dá 10% no site oficial da Toda Up para quem compra pela primeira vez e para quem já comprou.',
       },
       {
         question: 'A Toda Up é a antiga Fita Up? O cupom vale no site todaup.com?',
@@ -3758,7 +3821,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O cupom soma com produtos em promoção?',
         answer:
-          'Sim. No nosso teste, os 10% do MAUAD entraram sobre uma Fita Up que já estava em promoção. A exceção é a Black VIP: nela, a loja avisa que o cupom de influenciadora não soma com a escada de desconto.',
+          'Sim. No teste de novembro, a Fita Up em promoção ganhou os 25% da Black Week e, depois, os 10% do MAUAD sobre o que sobrou. A conta está em "Como testamos o cupom", nesta página.',
       },
       {
         question: 'O cupom MAUAD está funcionando hoje?',
@@ -3768,22 +3831,22 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O MAUAD dá 15% na Toda Up?',
         answer:
-          'Hoje, dá 10%: no teste de 17/11/2026, o checkout mostrou 10%. Em 11 e 12/11, a loja chegou a dar 15% com o código. O que vale é a linha de desconto no resumo do pedido, antes de pagar.',
+          'Hoje, dá 10%: no teste de novembro, o checkout mostrou 10%. Em alguns dias de campanha a loja já deu um percentual maior com o código; o que vale é a linha MAUAD no resumo do pedido, antes de pagar.',
       },
       {
         question: 'Os cupons MARESSA e BEARAMOS dão 25% e 15% na Toda Up?',
         answer:
-          'Nos testes de 17/11/2026, não: o MARESSA e o BEARAMOS deram 10%, o mesmo desconto do MAUAD. Na Fita Up de R$ 116,90, cada código tirou R$ 11,69; no carrinho de R$ 379,80, os dois tiraram R$ 37,98. Os 25% e os 15% anunciados não se confirmaram nesses carrinhos.',
+          'No nosso teste, não: o MARESSA e o BEARAMOS deram 10%, o mesmo desconto do MAUAD, na Fita Up e num carrinho maior. Os 25% e os 15% anunciados não se confirmaram nesses carrinhos.',
       },
       {
         question: 'Onde coloco o cupom na Toda Up?',
         answer:
-          'No campo de cupom de desconto do checkout, antes de pagar. Pelo botão desta página, o site da Toda Up já abre com o MAUAD aplicado; confira o desconto no resumo do pedido.',
+          'No campo "Código de desconto ou cartão-presente" do checkout, antes de pagar. Pelo botão desta página, o site da Toda Up já abre com o MAUAD aplicado; confira a linha MAUAD no resumo do pedido.',
       },
       {
         question: 'Quanto custa o frete da Toda Up?',
         answer:
-          'O frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento. O valor aparece no checkout antes de pagar.',
+          'Na Black Week, a faixa do site anuncia frete fixo de R$ 9,90. Fora da campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento.',
       },
       {
         question: 'O que fazer se o cupom MAUAD não funcionar?',
@@ -3798,18 +3861,29 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'Tem cupom Toda Up na Black Friday?',
         answer:
-          'Tem. O cupom Toda Up MAUAD dá 10% OFF em todo o site, em todas as formas de pagamento, e é o mesmo código do resto do ano.',
+          'Tem. O MAUAD dá 10% OFF em todas as formas de pagamento e soma com a escada da Black Week da loja, que tira 25%, 30% ou 35% conforme o número de produtos.',
       },
       {
         question: 'O cupom Toda Up vale na Black Friday?',
         answer:
-          'O cupom Toda Up MAUAD dá 10% OFF e vale nos produtos em promoção. Na Black VIP, enquanto durar, o checkout não aceita o cupom, porque ele não soma com a escada de desconto; com um produto dela no carrinho, o cupom não entra nem nos outros itens. Nos preços da Black November, confira a linha do cupom no carrinho.',
+          'Vale. No teste de novembro, a escada da Black Week entrou primeiro e o MAUAD tirou mais 10% do que sobrou. Ele só não vale nos itens marcados como Black VIP, Todalovers, Influ ou Oferta Exclusiva.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
       },
+    ],
+    relatedContent: [
+      { title: 'Como usar o cupom da Toda Up e o que ele soma com a Black Week', url: '/reviews/cupom-toda-up-como-usar', type: 'review', publishedAt: '2026-10-26' },
+      { title: 'Cupom Toda Up primeira compra: MAUAD dá 10% OFF e vale nas compras seguintes', url: '/reviews/cupom-toda-up-primeira-compra', type: 'review', publishedAt: '2026-11-12' },
+      { title: 'Black Friday Toda Up 2026: qual sutiã escolher, quando o kit compensa e o cupom MAUAD', url: '/reviews/black-friday-toda-up', type: 'review', publishedAt: '2026-10-26' },
+      { title: 'Toda Up é boa? Sutiãs, segunda pele, Fita Up e kits: o que vale comprar da marca', url: '/reviews/toda-up-e-boa', type: 'review', publishedAt: '2026-11-04' },
+      { title: 'Sutiã Toda Up: Comfort Up, Comfort Line ou Comfort Slim, qual escolher', url: '/reviews/sutia-toda-up-qual-escolher', type: 'review', publishedAt: '2026-10-30' },
+      { title: 'SkinUp ou Cotton Up: segunda pele ou algodão, qual escolher na Toda Up', url: '/reviews/skinup-ou-cotton-up-toda-up', type: 'review', publishedAt: '2026-10-31' },
+      { title: 'Fita Up: como usar no tomara que caia e no decote (e se dá para reutilizar)', url: '/reviews/fita-up-como-usar', type: 'review', publishedAt: '2026-10-27' },
+      { title: 'Sutiã de silicone invisível: como usar e para qual roupa', url: '/reviews/sutia-de-silicone-invisivel-como-usar', type: 'review', publishedAt: '2026-10-27' },
+      { title: 'Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram', url: '/reviews/toda-up-reclame-aqui-nota-reputacao', type: 'review', publishedAt: '2026-10-26' },
     ],
     monthlyHighlight: {
       scope: 'em todo o site',
@@ -6159,6 +6233,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'Quanto de desconto o cupom EMCASA dá na Denavita?',
         answer:
           '10% OFF nos produtos do site oficial. No nosso teste, o cupom tirou R$ 21,87 de um carrinho de R$ 218,70, e o resumo do checkout mostrou o valor na linha Cupom de desconto.',
+      },
+      {
+        question: 'Os cupons de 15% e 20% que aparecem por aí funcionam na Denavita?',
+        answer:
+          'No teste de 22/11/2026, não. Num carrinho de R$ 226,80, o VITA15 e o VITA20 voltaram como "Cupom inválido", e os outros códigos anunciados com 15% tiraram R$ 22,68, os mesmos 10% do EMCASA. Confira a linha de desconto no resumo do pedido antes de pagar.',
       },
       {
         question: 'O cupom Denavita soma com os produtos em promoção?',

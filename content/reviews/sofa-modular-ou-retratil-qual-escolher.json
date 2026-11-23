@@ -2,7 +2,7 @@
   "id": 274,
   "slug": "sofa-modular-ou-retratil-qual-escolher",
   "title": "Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto",
-  "seoTitle": "Sofá Modular ou Retrátil: Qual Escolher? Comparativo 2026",
+  "seoTitle": "Sofá modular ou retrátil: qual escolher? Comparativo 2026",
   "type": "Comparativo",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -27,7 +27,7 @@
   "cons": [],
   "contentSections": [
     {
-      "heading": "Sofá modular ou retrátil: resposta rápida",
+      "heading": "Resposta rápida",
       "paragraphs": [
         "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir; na DAMIE, o código CECILIA12 dá 12% OFF em todo o site."
       ]
@@ -39,10 +39,14 @@
         "No retrátil, o assento avança por trilhos e mecanismos móveis. Fechado, recupera parte da circulação; aberto, precisa de área livre à frente. Como costuma chegar em uma peça grande, o caminho entre portaria, elevador, corredor e porta também precisa comportar o móvel.",
         "O modular fixo descrito aqui é formado por assentos, cantos, braços, puffs ou chaises transportados separadamente. Isso tende a simplificar a entrada em apartamentos, mas não elimina a medição: cada caixa tem dimensões próprias. Dentro da sala, o puff ou a chaise continuam ocupando espaço até serem deslocados para outro ponto."
       ],
-      "image": "/images/reviews/sofa-modular-itens.webp",
-      "imageAlt": "Módulos separados do sofá modular preparados para transporte e montagem",
-      "imageCaption": "O transporte em partes reduz o volume de cada peça, mas as caixas ainda precisam ser medidas antes da compra.",
-      "imageFit": "contain"
+      "image": {
+        "src": "/images/reviews/sofa-modular-itens.webp",
+        "alt": "Módulos separados do sofá modular preparados para transporte e montagem",
+        "caption": "O transporte em partes reduz o volume de cada peça, mas as caixas ainda precisam ser medidas antes da compra.",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+      }
     },
     {
       "heading": "Comparação rápida: sofá retrátil vs modular",
@@ -93,27 +97,29 @@
     {
       "heading": "Limpeza e manutenção: onde o modular leva vantagem",
       "paragraphs": [
-        "Na rotina de limpeza, o sofá modular fixo oferece uma facilidade evidente: por ser formado por blocos independentes, você pode afastar um assento por vez para aspirar o piso e higienizar as frestas entre os tecidos. Em lares com crianças ou animais de estimação, essa mobilidade simplifica a higienização frequente.",
+        "Para limpar, o modular fixo é mais fácil: dá para afastar um módulo por vez, aspirar o piso e passar pano nas frestas. Em casa com criança ou pet, isso pesa.",
         "No retrátil, trilhos, articulações e vãos sob o assento criam pontos menos acessíveis. Além disso, por ter peças móveis, o mecanismo pode precisar de ajuste, lubrificação ou reparo ao longo do tempo. Isso não significa que todo retrátil apresente defeito: qualidade da estrutura, frequência de uso, carga e manutenção influenciam a durabilidade."
       ]
     },
     {
-      "heading": "Qual escolher para a sua rotina?",
+      "heading": "Quem escolhe o quê",
       "paragraphs": [
         "A melhor escolha aparece quando você identifica qual problema realmente pesa na sua casa:"
       ],
-      "emphasis": "O modular da DAMIE, que recebemos em parceria, funciona na nossa rotina. Eu o escolheria para acesso estreito e mudanças de layout; se a prioridade fosse estender o assento, compararia também um retrátil.",
-      "emphasisAfterParagraph": 1,
       "bullets": [
         "Para assistir TV todos os dias: o retrátil é mais direto, porque a extensão das pernas já faz parte do assento.",
         "Para entrar em apartamento com elevador pequeno, escada com curva ou corredor estreito: o modular tende a facilitar a entrega por chegar em partes.",
         "Para mudar o layout ou aumentar o sofá depois: o modular oferece mais liberdade, desde que a linha escolhida venda módulos compatíveis separadamente.",
         "Para liberar o chão quando a extensão não estiver em uso: o retrátil leva vantagem; no modular, o puff precisa permanecer na composição ou encontrar outro lugar na sala."
       ],
-      "image": "/images/reviews/sofa-modular-5-lugares-em-l.webp",
-      "imageAlt": "Sofá modular montado em formato L com cinco lugares na sala de estar",
-      "imageCaption": "A configuração em L usa os módulos para criar uma área permanente de apoio para as pernas.",
-      "imageFit": "contain"
+      "image": {
+        "src": "/images/reviews/sofa-modular-5-lugares-em-l.webp",
+        "alt": "Sofá modular montado em formato L com cinco lugares na sala de estar",
+        "caption": "A configuração em L usa os módulos para criar uma área permanente de apoio para as pernas.",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-5-lugares-em-l"
+      }
     },
     {
       "heading": "Antes de comprar: meça a sala e o caminho da entrega",
@@ -130,52 +136,57 @@
     {
       "heading": "Caso real: como puffs, baú e acessórios mudam o modular",
       "paragraphs": [
-        "Na prática, a grande flexibilidade de um sofá modular não decorre apenas de transportar assentos separados na hora da entrega. A possibilidade de incorporar puffs, baús e módulos funcionais transforma a dinâmica da sala conforme a necessidade de cada momento.",
+        "O modular não muda só a entrega. Puff, baú e acessórios soltos deixam a sala de um jeito para o filme e de outro para a visita.",
         "Um exemplo prático é o baú de apoio central: por ser uma peça independente, ele pode ser reposicionado a cada ocasião dentro da composição."
       ],
-      "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
-      "imageAlt": "Cecília demonstra o baú de apoio central azul ao lado do sofá modular Damie",
-      "imageCaption": "O baú de apoio central é uma peça independente e pode ser reposicionado dentro da composição do sofá modular.",
-      "imageFit": "portrait",
+      "image": {
+        "src": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito-4x5.webp",
+        "alt": "Cecília demonstra o baú de apoio central azul ao lado do sofá modular Damie",
+        "caption": "O baú de apoio central é uma peça independente e pode ser reposicionado dentro da composição do sofá modular.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8,
+        "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares"
+      },
       "postParagraphs": [
-        "Puffs avulsos: adicionar um puff em frente a cada módulo cria a mesma superfície contínua de descanso para as pernas de um retrátil, com a vantagem de poder reposicionar essa peça contra a parede ou atrás dos encostos para formar uma composição de ilha em salas integradas.",
+        "Puffs avulsos: um puff na frente de cada módulo dá o mesmo apoio de pernas do retrátil, e depois vai para a parede ou para trás do encosto.",
         "Acessórios acoplados aos braços: carregador USB, luminária, porta-taça, mesa de apoio e suporte com carregamento por indução podem ficar integrados à estrutura lateral. Na linha modular da Damie, esses itens são acoplados aos braços dos módulos e não ocupam espaço à parte."
       ]
     },
     {
-      "heading": "Se você escolher o modular: o que observamos na Damie",
+      "heading": "Qual escolher: sofá modular ou retrátil?",
+      "emphasis": "O modular da DAMIE, que recebemos em parceria, funciona na nossa rotina. Eu o escolheria para acesso estreito e mudanças de layout; se a prioridade fosse estender o assento, compararia também um retrátil.",
       "paragraphs": [
-        "No modular da Damie que acompanhamos em casa, braços e encosto se encaixam por gravidade, enquanto os pés usam fixação por velcro. A montagem não depende de ferramenta, mas o comprador ainda precisa conferir medidas, composição, tecido, entrega e condições de devolução vigentes na página do produto.",
-        "Em 26 de agosto de 2026, a página oficial da coleção informava 1 ano de garantia geral. Depois desse período, a Damie declara suporte vitalício e peças de reposição a preço de custo — um ponto relevante para os opcionais integrados aos braços e para a manutenção de longo prazo. Como condições comerciais podem mudar, confirme os termos vigentes antes da compra.",
-        "Se essa for a sua escolha, o [cupom Damie](/cupons/damie) CECILIA12, código de parceria, dá 12% OFF em todo o site da DAMIE. Confira o desconto no carrinho antes de finalizar a compra."
+        "No modular da DAMIE que temos em casa, braços e encosto se encaixam por gravidade e os pés usam velcro. A montagem não depende de ferramenta, mas confira medidas, composição, tecido, entrega e condições de devolução na página do produto. A DAMIE dá 1 ano de garantia, suporte vitalício e peças de reposição a preço de custo, o que pesa nos opcionais presos aos braços.",
+        "Se o modular for a sua escolha, o [cupom DAMIE](/cupons/damie) CECILIA12 dá 12% OFF em todo o site oficial, em todas as formas de pagamento. Quer ver o uso real antes? Leia o [teste do sofá modular em casa](/reviews/sofa-damie-modular-vale-a-pena)."
       ],
       "links": [
         {
-          "label": "Ver sofás modulares na loja oficial",
-          "href": "https://www.damie.com.br/collections/sofa-modular/?utm_source=home&utm_medium=blog&utm_campaign=cecilia12",
+          "label": "Ir para a DAMIE com o CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=sofa-modular-ou-retratil-qual-escolher",
           "sponsored": true
         },
         {
-          "label": "Ver o teste real do sofá modular Damie em casa",
-          "href": "/reviews/sofa-damie-modular-vale-a-pena"
+          "label": "Ver o sofá modular na DAMIE",
+          "href": "https://www.damie.com.br/products/sofa-damie-na-caixa-modular-3-lugares",
+          "sponsored": true
         },
         {
-          "label": "Análise completa da reputação da Damie no Reclame Aqui",
-          "href": "/reviews/damie-reclame-aqui-o-que-os-dados-mostram"
+          "label": "Ver o cupom DAMIE",
+          "href": "/cupons/damie"
         }
       ]
     },
     {
-      "heading": "Perguntas Frequentes sobre Sofá Modular e Retrátil",
+      "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da DAMIE? O cupom da DAMIE da nossa parceria é CECILIA12, com 12% OFF em todo o site oficial, em todas as formas de pagamento.",
         "Qual sofá ocupa menos espaço na sala: modular ou retrátil? Depende do que você está medindo. Para entrar em casa (porta, corredor, elevador), o modular fixo tende a ocupar menos espaço, porque chega em módulos separados. Já no dia a dia, dentro da sala, o retrátil fechado costuma ocupar menos chão: ele retrai quando não está em uso, enquanto o puff do modular tem espaço fixo e só sai do caminho se houver outro canto pra colocá-lo.",
         "Qual é melhor para apartamento: sofá modular ou retrátil? Se o problema é passar por elevador, corredor ou porta estreita, o modular tende a facilitar a entrega. Se o acesso comporta uma peça grande e a prioridade é liberar circulação quando o sofá não está aberto, um retrátil compacto pode funcionar melhor.",
         "Qual é mais confortável para assistir TV? O retrátil entrega apoio para as pernas sem mover peças e costuma ser a escolha mais direta para uma sala de TV. Um modular com puff ou chaise também pode ser confortável, mas ocupa essa área de forma permanente até a peça ser deslocada.",
         "Um puff substitui o mecanismo retrátil? O puff pode oferecer apoio semelhante para as pernas, mas não retrai nem movimenta o encosto. A sensação e o espaço ocupado dependem da composição escolhida.",
         "Qual sofá é mais fácil de limpar e manter? O modular tende a facilitar a limpeza porque os módulos podem ser afastados separadamente para alcançar o piso e as frestas. O retrátil possui vãos e componentes móveis que podem exigir mais cuidado e, com o uso, ajustes ou reparos. A durabilidade varia conforme a construção, a carga e a manutenção de cada modelo.",
-        "O sofá modular sai do lugar ou se separa ao sentar? Depende do sistema de união. No modular da Damie, os módulos usam engates na base para permanecer unidos durante o uso.",
-        "O que significa 'sofá sem caixa'? O termo aparece nos anúncios para o sofá que chega montado, em peça única. O modular da Damie vem em caixas, mas a montagem dispensa ferramenta: braços e encosto se encaixam por gravidade e os pés usam velcro. Confira na página do produto o prazo e as condições de entrega.",
-        "Qual é o cupom da Damie? O código de parceria é CECILIA12 e dá 12% OFF em todo o site da DAMIE. Confira o desconto no carrinho antes de finalizar a compra."
+        "O sofá modular sai do lugar ou se separa ao sentar? Depende do sistema de união. No modular da DAMIE que temos em casa, os módulos ficam unidos pelo encaixe e não se separaram no uso.",
+        "O que significa 'sofá sem caixa'? O termo aparece nos anúncios para o sofá que chega montado, em peça única. O modular da Damie vem em caixas, mas a montagem dispensa ferramenta: braços e encosto se encaixam por gravidade e os pés usam velcro. Confira na página do produto o prazo e as condições de entrega."
       ]
     }
   ],
@@ -197,13 +208,16 @@
   },
   "coupon": "CECILIA12",
   "affiliate": "damie",
-  "editorialNote": "Comparamos as características dos modelos descritos e a nossa experiência com o sofá modular DAMIE, recebido em parceria. O cupom CECILIA12 e os links da loja podem gerar comissão, sem custo extra para você.",
+  "editorialNote": "Recebemos o sofá modular DAMIE em parceria; links e cupom podem render comissão.",
   "relatedArticles": [
     {
       "slug": "sofa-damie-modular-vale-a-pena"
     },
     {
-      "slug": "damie-reclame-aqui-o-que-os-dados-mostram"
+      "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular"
+    },
+    {
+      "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais"
     },
     {
       "slug": "poltrona-damie-e-boa"
@@ -231,5 +245,5 @@
       "caption": "Layout em ilha: versatilidade para receber amigos e integrar ambientes."
     }
   ],
-  "updatedAt": "2026-11-08"
+  "updatedAt": "2026-11-23"
 }
