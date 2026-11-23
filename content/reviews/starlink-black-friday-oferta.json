@@ -19,7 +19,7 @@
   "metaDescription": "Starlink con 30 % en los planes y kit en alquiler a 0 € en España. Mira la cuenta del primer pedido y cómo entra la recompensa del referido.",
   "publishedAt": "20 de noviembre de 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -78,7 +78,15 @@
         "caption": "Antena y router de Starlink. Foto de Starlink.",
         "objectFit": "contain",
         "aspectRatio": 1.3316
-      }
+      },
+      "emphasis": "Según las cifras de la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 € o 45,50 € al mes según el plan, y cualquier recompensa por referido llega solo tras dos ciclos mensuales completos.",
+      "links": [
+        {
+          "label": "Ver planes en tu dirección",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Cómo entra la recompensa en la cuenta",
@@ -117,6 +125,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Tiene Starlink cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de servicio, como crédito en la factura, y quien lo recomendó recibe el mismo valor.",
         "¿Tiene Starlink Black Friday? En España, el pedido oficial mostraba un 30 % de descuento en los planes de servicio, con el kit en alquiler a 0 €, en zonas seleccionadas.",
         "¿Se suma el referido a la oferta? Comprueba en el pedido de tu dirección si aparecen las dos. La recompensa depende de la elegibilidad y de dos ciclos mensuales completos.",
         "¿Cuánto se cobra en el pedido? En el pedido de Madrid que consultamos, el total a pagar hoy era de 19 €. Comprueba en tu pantalla qué incluye ese total.",
@@ -145,5 +154,15 @@
     }
   ],
   "pros": [],
-  "cons": []
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "el pedido de tu dirección muestra la oferta del plan y las condiciones del kit antes de pagar.",
+      "puedes esperar dos ciclos mensuales completos por la recompensa y pagar las cuotas mientras tanto."
+    ],
+    "skipIf": [
+      "tu pedido no muestra la oferta, porque las cifras leídas son de una sola dirección.",
+      "puedes cancelar pronto y no quieres arriesgarte con la devolución del kit ni con perder el precio promocional."
+    ]
+  }
 }

@@ -19,7 +19,7 @@
   "metaDescription": "Proton VPN kündigen und Rückerstattung beantragen: das 30-Tage-Fenster, Bedingungen, an denen ein Antrag scheitert, und wie Sie die Verlängerung vermeiden.",
   "publishedAt": "17. November 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -142,7 +142,8 @@
         "Die Verlängerung richtet sich nach dem im Angebot und Beleg genannten Abrechnungszyklus, der von der ersten Laufzeit abweichen kann. Die Bedingungen sagen, dass Ihnen der zum Zeitpunkt der Verlängerung gültige Preis berechnet wird, und ein Aktionspreis gilt nur für den ersten Zeitraum. Auf Protons Partnerseite in US-Dollar wurde der 2-Jahres-Tarif VPN Plus mit 59,76 $ für die ersten 24 Monate berechnet und verlängerte sich dann zu 83,88 $ alle 12 Monate. Die Preise ändern sich mit Land und Währung.",
         "Für VPN Plus gilt: Um die Verlängerung zu stoppen, verlangen die Bedingungen die Kündigung vor dem Verlängerungsdatum. Sie müssen nicht bis zum Vortag warten. Weil der kostenpflichtige Tarif bis zum Ende des bereits bezahlten Zeitraums läuft, können Sie gleich nach dem Abschluss kündigen und trotzdem alles nutzen, wofür Sie bezahlt haben.",
         "Tragen Sie das nächste Abrechnungsdatum in Ihren Kalender ein, einige Tage früher. Wenn Sie über den App-Store eines Telefons abonniert haben, prüfen Sie das Datum in den Abonnements des Stores."
-      ]
+      ],
+      "emphasis": "Nach den Bedingungen von Proton deckt die 30-Tage-Rückerstattung nur den ersten Kauf direkt bei Proton ab, eine Verlängerung fällt nicht darunter; um nicht erneut belastet zu werden, muss die Kündigung vor dem Abrechnungsdatum erfolgen, bei Proton oder im Store des Smartphones, der das Abo abgerechnet hat."
     },
     {
       "heading": "Den Tarif wechseln statt zu kündigen",
@@ -160,6 +161,7 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Hat Proton einen Rabattcode? Es gibt keinen Code: Der Black-Friday-Rabatt von bis zu 75 % öffnet sich über Cecílias Links, und der Preis erscheint auf der Website von Proton in der Währung Ihres Landes, mit dem Verlängerungspreis daneben.",
         "Erstattet Proton VPN das Geld? Bei Direktkäufen bei Proton sehen die Bedingungen eine vollständige Erstattung vor, wenn Kündigung und Antrag innerhalb von 30 Tagen nach dem ersten Kauf erfolgen, einmal pro Nutzer und mit Einschränkungen bei der Zahlungsart. Für Google Play und App Store folgen Sie dem jeweiligen Weg im entsprechenden Kapitel.",
         "Wie kündige ich Proton VPN? Melden Sie sich auf der Website an, öffnen Sie Subscription, gehen Sie zu Cancel subscription und folgen Sie den Schritten bis zum Absenden des Grundes. Wenn Sie über Google Play oder den App Store abonniert haben, kündigen Sie in den Abonnements des Stores.",
         "Ich habe gekündigt und wurde trotzdem belastet, was tun? Prüfen Sie zuerst, wer Ihnen die Rechnung gestellt hat. Ein Abonnement aus dem App-Store eines Telefons wird im Store gekündigt. Kam die Belastung von Proton nach einer abgeschlossenen Kündigung, schreiben Sie dem Support mit den Daten und dem Beleg.",
@@ -173,6 +175,16 @@
   ],
   "pros": [],
   "cons": [],
+  "decision": {
+    "takeIf": [
+      "Sie haben direkt bei Proton abonniert und sind noch innerhalb von 30 Tagen nach dem ersten Kauf.",
+      "Sie möchten die Verlängerung stoppen und, wenn möglich, beim Proton-Support die volle Rückerstattung beantragen."
+    ],
+    "skipIf": [
+      "Sie haben über den App Store oder Google Play abonniert: Die Kündigung läuft im Store, und die Rückerstattung folgt einem anderen Weg.",
+      "Sie haben bar oder per Banküberweisung bezahlt oder schon einmal eine Rückerstattung beantragt: Diese Fälle decken die Bedingungen nicht ab."
+    ]
+  },
   "cta": {
     "text": "Wenn Sie noch ein Abonnement erwägen, öffnen Sie das Proton-Angebot über unseren Link und prüfen Sie Gesamtbetrag und Verlängerung. Für die Kündigung oder Erstattung eines bestehenden Abonnements nutzen Sie den in diesem Ratgeber genannten Kontaktweg.",
     "label": "Bis zu 75 % Rabatt über den Link sichern",

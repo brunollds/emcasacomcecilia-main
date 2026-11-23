@@ -19,7 +19,7 @@
   "metaDescription": "Comment ouvrir le lien de parrainage Starlink, trouver le montant sur la commande et recevoir la récompense une fois les conditions du programme remplies.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -62,7 +62,9 @@
         "Le montant dépend du pays où la personne s'inscrit et s'affiche sur la commande ou dans le compte. Celui qui parraine reçoit la même somme, en argent ou en crédit de service.",
         "L'abonnement doit rester actif et à jour pendant deux cycles mensuels complets. Le centre d'aide de Starlink indique que le versement peut commencer à partir de 60 jours après l'activation, selon le pays, le compte et la vérification d'identité.",
         "Le crédit sur la facture est le mode par défaut. Si votre compte propose le paiement en argent, ouvrez l'onglet Parrainages depuis le navigateur, choisissez le mode de récompense."
-      ]
+      ],
+      "emphasis": "La récompense n'est versée qu'après deux cycles mensuels complets d'abonnement actif et à jour, par défaut en crédit sur la facture, et la personne qui s'abonne et celle qui parraine reçoivent le même montant ; celui de votre pays s'affiche sur la commande.",
+      "emphasisAfterParagraph": 3
     },
     {
       "heading": "Qui peut en profiter",
@@ -93,6 +95,7 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, la personne qui s'abonne reçoit 45 € en France après deux mois d'abonnement, sous forme de crédit sur la facture, et le parrain reçoit le même montant.",
         "Comment fonctionne le parrainage Starlink ? Passez commande sur starlink.com via le lien, vérifiez que le parrainage est appliqué, activez le kit et gardez le service éligible en règle pendant deux cycles mensuels complets.",
         "Combien vaut le parrainage Starlink ? Le montant dépend du pays et s'affiche sur la commande. Vérifiez-le avant de payer.",
         "Quand la récompense arrive-t-elle ? Le centre d'aide indique que le versement peut commencer à partir de 60 jours après l'activation, si le parrainage remplit les conditions du programme.",
@@ -122,5 +125,15 @@
     {
       "slug": "starlink-engagement-resilier"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "vous comptez de toute façon vous abonner à Starlink et voulez que le parrainage figure sur la commande initiale.",
+      "vous êtes un nouveau client et pouvez garder le service actif et à jour pendant deux cycles mensuels complets avant le versement de la récompense."
+    ],
+    "skipIf": [
+      "vous êtes ou avez déjà été client de Starlink, car la récompense est réservée à ceux qui s'abonnent pour la première fois.",
+      "vous achetez chez un revendeur ou sur une place de marché, car le parrainage ne compte que pour les commandes passées sur starlink.com via le lien."
+    ]
+  }
 }

@@ -19,7 +19,7 @@
   "metaDescription": "Ist Proton VPN seriös? Wer die Firma ist, was die Audits geprüft haben, ob dem kostenlosen Tarif zu trauen ist und wovor ein VPN nicht schützt.",
   "publishedAt": "17. November 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -128,11 +128,13 @@
       "paragraphs": [
         "Protons Preisseite nennt Karten von Visa, Mastercard und American Express sowie PayPal. Das Abonnement verlängert sich von selbst, zu dem Preis, der am Verlängerungsdatum gilt.",
         "Die Bedingungen sehen eine volle Rückerstattung vor für alle, die innerhalb von 30 Tagen nach dem ersten Kauf kündigen und das Geld zurückverlangen, einmal pro Nutzer und nur für Abonnements, die direkt bei Proton gekauft wurden. Die Anleitung Schritt für Schritt steht unter [Proton VPN kündigen und Rückerstattung beantragen](/de/reviews/proton-vpn-kuendigen-rueckerstattung)."
-      ]
+      ],
+      "emphasis": "Laut Proton und dem Securitum-Audit von 2026 hat ein Dritter die No-Logs-Richtlinie geprüft, doch die 30-Tage-Rückerstattung gilt nur für Abos, die direkt bei Proton abgeschlossen wurden, und die Verlängerung wird zum dann gültigen Preis berechnet."
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Hat Proton einen Rabattcode? Es gibt keinen Code: Der Black-Friday-Rabatt von bis zu 75 % öffnet sich über Cecílias Links, und der Preis erscheint auf der Website von Proton in der Währung Ihres Landes, mit dem Verlängerungspreis daneben.",
         "Ist Proton VPN sicher? Die überprüfbaren Anzeichen sind positiv: ein namentlich bekanntes Unternehmen, öffentlicher App-Code und jährliche Securitum-Audits der No-Logs-Richtlinie mit veröffentlichten Berichten. Diese Belege garantieren weder Anonymität noch Schutz vor jedem Betrug.",
         "Ist das kostenlose Proton VPN vertrauenswürdig? Proton sagt, der kostenlose Tarif führe keine Aktivitätsprotokolle, habe keine Werbung und kein Datenlimit und werde von Abonnenten finanziert. Die Grenzen sind 1 Gerät und weniger Länder.",
         "Ist Proton VPN ein Virus? Nein. Die offizielle App ist bei Google Play und im App Store mit Proton AG als Entwickler. Das Risiko liegt bei Installern von Dritten und veränderten Versionen.",
@@ -146,6 +148,16 @@
   ],
   "pros": [],
   "cons": [],
+  "decision": {
+    "takeIf": [
+      "Sie möchten ein VPN eines identifizierbaren Unternehmens, mit Open-Source-Apps und einem externen Audit der Logging-Richtlinie, laut Proton und Securitum.",
+      "Sie wissen, dass ein VPN ändert, wer Ihren Datenverkehr sieht, ohne Anonymität zu garantieren."
+    ],
+    "skipIf": [
+      "Sie erwarten vollständige Anonymität oder Schutz vor Betrug: Ein VPN leistet keines von beidem.",
+      "Sie brauchen Support mit garantierter Antwort: Der offizielle Kanal von Proton ist das Support-Formular."
+    ]
+  },
   "cta": {
     "text": "Wenn Sie die kostenpflichtigen Funktionen von Proton VPN suchen, öffnen Sie das Angebot über unseren Link und prüfen Sie Gesamtbetrag und Verlängerung. Der verknüpfte Black-Friday-Ratgeber vergleicht die Preise.",
     "label": "Bis zu 75 % Rabatt über den Link sichern",

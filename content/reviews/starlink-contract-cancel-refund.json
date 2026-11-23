@@ -19,7 +19,7 @@
   "metaDescription": "Starlink offers the kit as a rental you return if you cancel. See the 30-day refund, how to cancel in your account and what changes afterward.",
   "publishedAt": "November 20, 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -54,7 +54,8 @@
         "caption": "The kit that goes back on a return: dish, router, stand and cables. Photo from Starlink.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
-      }
+      },
+      "emphasis": "By the terms on the order page, cancelling and returning the kit undamaged within 30 days of the payment due date is what triggers the refund of the kit and the first month, so the shipping receipt is the proof that decides it."
     },
     {
       "heading": "How to cancel",
@@ -85,6 +86,7 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "Does Starlink have a discount code? No. Starlink has no coupon: through Cecília's referral link, a new subscriber gets $100 in the US and £40 in the UK after two months of service, as a credit on the bill, and the person who referred gets the same amount.",
         "Does Starlink have a contract? On the order page we read, the kit was a rental with $0 upfront and $0 a month. Confirm the terms on the summary of your own order.",
         "What is the fee to cancel Starlink? We did not see an early cancellation fee on the page we read. Check the summary of your order before you confirm the cancellation.",
         "Can I cancel Starlink at any time? You can request it from your account. Cancelling stops future charges, and you have to return the rented hardware.",
@@ -107,5 +109,21 @@
     {
       "slug": "starlink-trustpilot-reviews"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "you can return the rented kit undamaged within 30 days if you cancel.",
+      "you will read the terms on your own order summary before paying."
+    ],
+    "skipIf": [
+      "you cannot send the kit back in good condition by the deadline.",
+      "your order summary shows a contract term or cancellation fee you do not accept."
+    ]
+  },
+  "cta": {
+    "text": "The order opens on the Starlink site. Check the contract, the fees and the kit return before you pay.",
+    "label": "Check the terms at my address",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

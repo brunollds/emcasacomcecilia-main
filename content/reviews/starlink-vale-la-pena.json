@@ -19,7 +19,7 @@
   "metaDescription": "¿Vale la pena Starlink? Precios por dirección, kit en alquiler, para quién tiene sentido y cuándo la fibra o el 4G salen mejor.",
   "publishedAt": "20 de noviembre de 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -64,6 +64,13 @@
       },
       "postParagraphs": [
         "Antes de decidir, haz la cuenta sin la recompensa del referido: multiplica la mensualidad por los meses que piensas quedarte y suma la instalación si la quieres. La recompensa depende del país y llega tras cumplir las reglas del programa. Mira el [enlace de referido de Starlink](/es/coupons/starlink)."
+      ],
+      "links": [
+        {
+          "label": "Ver planes en tu dirección",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -89,7 +96,9 @@
       "heading": "Cuándo comparar con fibra o 4G",
       "paragraphs": [
         "Si ya llega una fibra estable, compara la suma de instalación, cuotas y condiciones de cada propuesta. Para el 4G, incluye el precio del equipo que necesites y comprueba que el plan tiene datos suficientes para la casa."
-      ]
+      ],
+      "emphasis": "Si en la dirección no hay fibra estable ni un 4G aceptable, Starlink entra en la comparación; con fibra estable, solo compensa cambiar si el total de los meses que piensas quedarte, kit y cuotas sumados, sale por debajo de lo que cuesta la conexión actual.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Velocidad y juegos",
@@ -117,14 +126,9 @@
       ]
     },
     {
-      "heading": "Nuestra experiencia hasta ahora",
-      "paragraphs": [
-        "Ya hemos contratado Starlink, pero todavía no tenemos experiencia de uso. La velocidad, la instalación y la calidad del día a día entrarán en una actualización de este artículo cuando existan."
-      ]
-    },
-    {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Tiene Starlink un cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de suscripción, como crédito en la factura, y quien invitó recibe el mismo valor.",
         "¿Vale la pena Starlink en la ciudad? Con fibra estable en tu dirección, compara instalación, cuotas y condiciones antes de cambiar.",
         "¿Es mejor Starlink que la fibra? Sin buena fibra en el lugar, merece la pena pedir precio a Starlink y comprobar que hay cielo abierto para instalar. Si hay ambas, compara estabilidad y coste en tu dirección.",
         "¿Es buena Starlink para jugar? Prueba la latencia y los cortes en tu dirección. La latencia típica que publica Starlink es una referencia general.",
@@ -134,12 +138,12 @@
   ],
   "decision": {
     "takeIf": [
-      "No tienes una fibra buena en tu dirección y el 4G tampoco responde bien.",
-      "Te vale un kit en alquiler que tendrás que devolver si cancelas, y sabes que el precio cambia según la dirección."
+      "no tienes una fibra buena en tu dirección y el 4G tampoco responde bien.",
+      "te vale un kit en alquiler que tendrás que devolver si cancelas, y sabes que el precio cambia según la dirección."
     ],
     "skipIf": [
-      "Tienes una fibra estable en tu dirección y no quieres instalar una antena ni devolver un equipo.",
-      "Necesitas jugar en línea con respuesta rápida, y la empresa solo publica una latencia típica en general."
+      "tienes una fibra estable en tu dirección y no quieres instalar una antena ni devolver un equipo.",
+      "necesitas jugar en línea con respuesta rápida, y la empresa solo publica una latencia típica en general."
     ]
   },
   "pros": [],
@@ -151,7 +155,7 @@
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Precios leídos en la pantalla de pedido del sitio oficial. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+  "editorialNote": "Precios leídos en la pantalla de pedido del sitio oficial. Todavía no hemos usado el servicio. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
   "relatedArticles": [
     {
       "slug": "starlink-permanencia-cancelar"

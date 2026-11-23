@@ -255426,7 +255426,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Pelo nosso link, o VPN Plus sai por R$ 210,96 nos primeiros 24 meses. Compare com R$ 251,76 na página de ofertas e confira a renovação anunciada.",
     "publishedAt": "17 de novembro de 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/proton/black-friday-proton-capa.webp",
@@ -255604,7 +255604,8 @@ export const reviewsData: unknown[] = [
           "O plano de 1 ano tem o menor desembolso agora, R$ 125,88, e serve a quem quer testar o serviço pago e pode cancelar antes da renovação. Se a assinatura seguir para o segundo ano, ele vira o caminho mais caro da tabela.",
           "Quem quer os recursos pagos do VPN Plus e pretende usar a VPN pelos dois anos encontra pelo nosso link o menor total dos caminhos comparados. É uma escolha para manter o serviço pelo período contratado. O plano gratuito continua suficiente para quem não precisa desses recursos.",
           "No Proton Unlimited, a página de parceiros tem o mesmo preço da pública. Em 24 meses, o plano de 2 anos da página de ofertas soma R$ 671,76, e o de 1 ano mais uma renovação, R$ 693,36. Depois, os dois renovam por R$ 419,88 a cada 12 meses."
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para quem quer o VPN Plus pelos dois anos, a escolha é o plano de 2 anos pelo nosso link, porque soma R$ 210,96 em 24 meses, contra R$ 419,76 do plano de 1 ano com uma renovação."
       },
       {
         "heading": "VPN Plus sozinho ou Proton Unlimited",
@@ -255643,7 +255644,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Proton tem cupom de Black Friday? Não é preciso código. O desconto já aparece na página que o nosso link abre, e o total é confirmado no checkout.",
+          "A Proton tem cupom de desconto? Não há cupom: o desconto da Black Friday, de até 75% OFF, abre pelos links da Cecília, e o preço aparece no site da Proton, na moeda do seu país, com o valor da renovação ao lado.",
           "Quanto custa o Proton VPN na Black Friday? Pela página de parceiros, o VPN Plus de 2 anos saía por R$ 210,96, cobrados de uma vez. Na página pública, o plano de 1 ano custava R$ 125,88. Os dois renovam por R$ 293,88 a cada 12 meses. Os valores mudam com o país e a moeda.",
           "O preço da Black Friday vale na renovação? Não. Depois do primeiro período, a assinatura renova pelo preço padrão. Nos valores lidos, são R$ 293,88 a cada 12 meses no VPN Plus.",
           "Quem já é cliente da Proton tem desconto? A página diz que as ofertas são para novos usuários. Segundo a Proton, quem já tem conta vê as ofertas depois de entrar nela.",
@@ -255674,12 +255675,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você é elegível para a oferta de novos usuários e já decidiu usar o VPN Plus por dois anos.",
-        "Você comparou o mesmo plano de 24 meses e quer aproveitar o menor total entre os caminhos apresentados."
+        "você é elegível para a oferta de novos usuários e já decidiu usar o VPN Plus por dois anos.",
+        "você comparou o mesmo plano de 24 meses e quer aproveitar o menor total entre os caminhos apresentados."
       ],
       "skipIf": [
-        "O plano gratuito já resolve o seu uso.",
-        "O valor da renovação não cabe no seu orçamento."
+        "o plano gratuito já resolve o seu uso.",
+        "o valor da renovação não cabe no seu orçamento."
       ]
     }
   },
@@ -255704,7 +255705,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Through our link, VPN Plus is $59.76 for the first 24 months. Compare it with $71.76 on Proton's deals page and check the advertised renewal.",
     "publishedAt": "November 17, 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -255869,7 +255870,8 @@ export const reviewsData: unknown[] = [
           "The 1-year plan asks for the least money today and suits someone who wants to try the paid service and may cancel before renewal. If the subscription runs into a second year, the renewal alone costs more than the whole 2-year plan on the partner page.",
           "The two-year plan suits people who want the paid Plus features and expect to use them for the full term. For that buyer, our link had the lower total of the options compared; the free plan remains an option for people who do not need those features.",
           "For Proton Unlimited, the partner page offered the 1-year plan at $77.88, renewing at $119.88 every 12 months."
-        ]
+        ],
+        "emphasis": "By the numbers in the table, for anyone who wants VPN Plus for the full two years, the choice is the 2-year plan through our link, because it adds up to $59.76 over 24 months, against $119.76 for the 1-year plan plus one renewal."
       },
       {
         "heading": "VPN Plus alone or Proton Unlimited",
@@ -255908,7 +255910,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Does Proton have a Black Friday coupon? No code is needed. The discount already shows on the page our link opens, and the total is confirmed at checkout.",
+          "Does Proton have a discount coupon? There is no coupon: the Black Friday discount, up to 75% off, opens through Cecília's links, and the price shows on Proton's site, in your country's currency, with the renewal price next to it.",
           "How much does Proton VPN cost on Black Friday? On the partner page, the 2-year VPN Plus plan cost $59.76, billed upfront, and renews at $83.88 every 12 months. Amounts change with your country and currency.",
           "Does the Black Friday price apply at renewal? No. After the first period, the subscription renews at the standard price. In the prices we read, that is $83.88 every 12 months for VPN Plus.",
           "Do existing Proton customers get a discount? The page says the offers are for new users. According to Proton, people who already have an account see their offers after signing in.",
@@ -255939,12 +255941,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "You qualify for the new-user offer and have already decided to use VPN Plus for two years.",
-        "You want to lock in the first period at the campaign price and will write down the renewal date."
+        "you qualify for the new-user offer and have already decided to use VPN Plus for two years.",
+        "you want to lock in the first period at the campaign price and will write down the renewal date."
       ],
       "skipIf": [
-        "The free plan already covers what you do.",
-        "The renewal price does not fit your budget."
+        "the free plan already covers what you do.",
+        "the renewal price does not fit your budget."
       ]
     }
   },
@@ -255969,7 +255971,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Con nuestro enlace, VPN Plus cuesta $59.76 los primeros 24 meses. Compáralo con $71.76 en la página de ofertas de Proton y revisa la renovación anunciada.",
     "publishedAt": "17 de noviembre de 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -256134,7 +256136,8 @@ export const reviewsData: unknown[] = [
           "El plan de 1 año pide menos dinero hoy y encaja con quien quiere probar el servicio de pago y quizá cancelar antes de la renovación. Si la suscripción llega a un segundo año, la renovación sola cuesta más que todo el plan de 2 años de la página de socios.",
           "El plan de dos años encaja con quien quiere las funciones de pago de Plus y prevé usarlos todo el periodo. Para ese perfil, nuestro enlace tenía el menor total entre las opciones comparadas; el plan gratuito sigue siendo una opción para quien no necesita esas funciones.",
           "Para Proton Unlimited, la página de socios ofrecía el plan de 1 año a $77.88, con renovación a $119.88 cada 12 meses."
-        ]
+        ],
+        "emphasis": "Según los números de la tabla, para quien quiere VPN Plus durante los dos años, la opción es el plan de 2 años con nuestro enlace, porque suma $59.76 en 24 meses, frente a $119.76 del plan de 1 año con una renovación."
       },
       {
         "heading": "VPN Plus solo o Proton Unlimited",
@@ -256173,7 +256176,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Tiene Proton un cupón de Black Friday? No hace falta ningún código. El descuento ya aparece en la página que abre nuestro enlace, y el total se confirma al pagar.",
+          "¿Tiene Proton un cupón de descuento? No hay cupón: el descuento de Black Friday, de hasta un 75 % de descuento, se abre con los enlaces de Cecília, y el precio aparece en el sitio de Proton, en la moneda de tu país, con el importe de la renovación al lado.",
           "¿Cuánto cuesta Proton VPN en Black Friday? En la página de socios, el plan VPN Plus de 2 años costaba $59.76, cobrados por adelantado, y se renueva a $83.88 cada 12 meses. Los importes cambian según tu país y tu moneda.",
           "¿Se aplica el precio de Black Friday en la renovación? No. Pasado el primer periodo, la suscripción se renueva al precio estándar. En los precios que leímos, son $83.88 cada 12 meses para VPN Plus.",
           "¿Los clientes actuales de Proton tienen descuento? La página dice que las ofertas son para usuarios nuevos. Según Proton, quienes ya tienen una cuenta ven sus ofertas después de iniciar sesión.",
@@ -256204,12 +256207,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Cumples los requisitos de la oferta para nuevos usuarios y ya has decidido usar VPN Plus durante dos años.",
-        "Quieres fijar el primer periodo al precio de la campaña y apuntarás la fecha de renovación."
+        "cumples los requisitos de la oferta para nuevos usuarios y ya has decidido usar VPN Plus durante dos años.",
+        "quieres fijar el primer periodo al precio de la campaña y apuntarás la fecha de renovación."
       ],
       "skipIf": [
-        "El plan gratuito ya cubre lo que haces.",
-        "El precio de renovación no cabe en tu presupuesto."
+        "el plan gratuito ya cubre lo que haces.",
+        "el precio de renovación no cabe en tu presupuesto."
       ]
     }
   },
@@ -256234,7 +256237,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Via notre lien, VPN Plus coûte 59,76 $ les 24 premiers mois. Comparez avec 71,76 $ sur la page d'offres de Proton et vérifiez le renouvellement annoncé.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -256399,7 +256402,8 @@ export const reviewsData: unknown[] = [
           "L'offre d'un an demande le moins d'argent aujourd'hui et convient à qui veut essayer le service payant et peut résilier avant le renouvellement. Si l'abonnement se poursuit une seconde année, le renouvellement seul coûte plus cher que toute l'offre de 2 ans de la page partenaires.",
           "L'offre de deux ans convient aux personnes qui veulent les fonctions payantes de Plus et comptent les utiliser pendant toute la durée. Pour ce profil, notre lien affichait le total le plus bas des options comparées ; l'offre gratuite reste une option pour les personnes qui n'ont pas besoin de ces fonctions.",
           "Pour Proton Unlimited, la page partenaires proposait l'offre d'un an à 77,88 $, renouvelée à 119,88 $ tous les 12 mois."
-        ]
+        ],
+        "emphasis": "D'après les chiffres du tableau, pour qui veut VPN Plus pendant les deux ans, le bon choix est l'offre de 2 ans via notre lien, car elle totalise 59,76 $ sur 24 mois, contre 119,76 $ pour l'offre d'1 an avec un renouvellement."
       },
       {
         "heading": "VPN Plus seul ou Proton Unlimited",
@@ -256438,7 +256442,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Proton propose-t-il un coupon pour le Black Friday ? Aucun code n'est nécessaire. La réduction s'affiche déjà sur la page qu'ouvre notre lien, et le total est confirmé au paiement.",
+          "Proton a-t-il un coupon de réduction ? Il n'y a pas de coupon : la réduction du Black Friday, jusqu'à 75 % de réduction, s'ouvre par les liens de Cecília, et le prix s'affiche sur le site de Proton, dans la devise de votre pays, avec le montant du renouvellement à côté.",
           "Combien coûte Proton VPN pendant le Black Friday ? Sur la page partenaires, l'offre VPN Plus de 2 ans coûtait 59,76 $, facturés d'avance, et se renouvelle à 83,88 $ tous les 12 mois. Les montants varient selon votre pays et votre devise.",
           "Le prix du Black Friday s'applique-t-il au renouvellement ? Non. Après la première période, l'abonnement se renouvelle au prix normal. D'après les prix que nous avons lus, c'est 83,88 $ tous les 12 mois pour le VPN Plus.",
           "Les clients Proton existants ont-ils une réduction ? La page indique que les offres sont destinées aux nouveaux utilisateurs. Selon Proton, les personnes qui ont déjà un compte voient leurs offres après connexion.",
@@ -256469,12 +256473,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Vous êtes éligible à l'offre pour les nouveaux utilisateurs et avez déjà décidé d'utiliser VPN Plus pendant deux ans.",
-        "Vous voulez bloquer la première période au prix de la campagne et noterez la date de renouvellement."
+        "vous êtes éligible à l'offre pour les nouveaux utilisateurs et avez déjà décidé d'utiliser VPN Plus pendant deux ans.",
+        "vous voulez bloquer la première période au prix de la campagne et noterez la date de renouvellement."
       ],
       "skipIf": [
-        "L'offre gratuite couvre déjà vos besoins.",
-        "Le prix au renouvellement ne rentre pas dans votre budget."
+        "l'offre gratuite couvre déjà vos besoins.",
+        "le prix au renouvellement ne rentre pas dans votre budget."
       ]
     }
   },
@@ -256499,7 +256503,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Über unseren Link kostet VPN Plus 59,76 $ für die ersten 24 Monate. Vergleichen Sie mit 71,76 $ auf Protons Angebotsseite und prüfen Sie die Verlängerung.",
     "publishedAt": "17. November 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -256664,7 +256668,8 @@ export const reviewsData: unknown[] = [
           "Der 1-Jahres-Tarif verlangt heute am wenigsten Geld und passt zu jemandem, der den bezahlten Dienst ausprobieren möchte und vor der Verlängerung kündigen kann. Läuft das Abonnement in ein zweites Jahr, kostet allein die Verlängerung mehr als der gesamte 2-Jahres-Tarif auf der Partnerseite.",
           "Der Zweijahrestarif passt zu Personen, die die kostenpflichtigen Plus-Funktionen über die gesamte Laufzeit nutzen möchten. Für diese Käufer zeigte unser Link den niedrigeren Gesamtpreis der verglichenen Optionen; wer diese Funktionen nicht braucht, kann beim kostenlosen Tarif bleiben.",
           "Für Proton Unlimited bot die Partnerseite den 1-Jahres-Tarif zu 77,88 $ an, mit Verlängerung zu 119,88 $ alle 12 Monate."
-        ]
+        ],
+        "emphasis": "Nach den Zahlen der Tabelle ist für alle, die VPN Plus die vollen zwei Jahre nutzen wollen, der 2-Jahres-Tarif über unseren Link die richtige Wahl, weil er in 24 Monaten 59,76 $ kostet, gegenüber 119,76 $ für den 1-Jahres-Tarif mit einer Verlängerung."
       },
       {
         "heading": "VPN Plus allein oder Proton Unlimited",
@@ -256703,7 +256708,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Gibt es einen Proton-Gutschein zum Black Friday? Es ist kein Code nötig. Der Rabatt steht bereits auf der Seite, die unser Link öffnet, und der Gesamtbetrag wird an der Kasse bestätigt.",
+          "Hat Proton einen Rabattgutschein? Es gibt keinen Gutschein: Der Black-Friday-Rabatt von bis zu 75 % Rabatt öffnet sich über die Links von Cecília, und der Preis steht auf der Website von Proton, in der Währung Ihres Landes, mit dem Verlängerungspreis daneben.",
           "Wie viel kostet Proton VPN zum Black Friday? Auf der Partnerseite kostete der 2-Jahres-Tarif VPN Plus 59,76 $, im Voraus berechnet, und verlängert sich zu 83,88 $ alle 12 Monate. Die Beträge hängen von Ihrem Land und Ihrer Währung ab.",
           "Gilt der Black-Friday-Preis auch bei der Verlängerung? Nein. Nach dem ersten Zeitraum verlängert sich das Abonnement zum Standardpreis. Nach den von uns gelesenen Preisen sind das 83,88 $ alle 12 Monate für VPN Plus.",
           "Bekommen bestehende Proton-Kunden einen Rabatt? Die Seite sagt, die Angebote gelten für neue Nutzer. Laut Proton sehen Personen, die bereits ein Konto haben, ihre Angebote nach der Anmeldung.",
@@ -256764,7 +256769,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Con il nostro link, VPN Plus costa $59.76 per i primi 24 mesi. Confrontalo con $71.76 nella pagina offerte di Proton e controlla il rinnovo annunciato.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -256929,7 +256934,8 @@ export const reviewsData: unknown[] = [
           "Il piano da 1 anno chiede meno soldi oggi e va bene per chi vuole provare il servizio a pagamento e magari annullare prima del rinnovo. Se l'abbonamento arriva a un secondo anno, il solo rinnovo costa più dell'intero piano da 2 anni della pagina partner.",
           "Il piano da due anni è adatto a chi vuole le funzioni a pagamento di Plus e prevede di usarle per tutta la durata. Per questo profilo, il nostro link aveva il totale più basso fra le opzioni confrontate; il piano gratuito resta un'opzione per chi non ha bisogno di quelle funzioni.",
           "Per Proton Unlimited, la pagina partner offriva il piano da 1 anno a $77.88, con rinnovo a $119.88 ogni 12 mesi."
-        ]
+        ],
+        "emphasis": "Dai numeri della tabella, per chi vuole VPN Plus per i due anni interi, la scelta è il piano da 2 anni dal nostro link, perché somma $59.76 in 24 mesi, contro $119.76 del piano da 1 anno con un rinnovo."
       },
       {
         "heading": "VPN Plus da solo o Proton Unlimited",
@@ -256968,7 +256974,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Proton ha un coupon per il Black Friday? Non serve alcun codice. Lo sconto è già nella pagina che apre il nostro link, e il totale si conferma al momento del pagamento.",
+          "Proton ha un coupon sconto? Non c'è nessun coupon: lo sconto del Black Friday, fino al 75% di sconto, si apre dai link di Cecília, e il prezzo compare sul sito di Proton, nella valuta del tuo paese, con l'importo del rinnovo accanto.",
           "Quanto costa Proton VPN al Black Friday? Nella pagina partner, il piano VPN Plus da 2 anni costava $59.76, addebitati in anticipo, e si rinnova a $83.88 ogni 12 mesi. Gli importi cambiano con il tuo paese e la tua valuta.",
           "Il prezzo del Black Friday vale anche al rinnovo? No. Dopo il primo periodo, l'abbonamento si rinnova al prezzo standard. Nei prezzi che abbiamo letto, sono $83.88 ogni 12 mesi per VPN Plus.",
           "I clienti Proton esistenti hanno uno sconto? La pagina dice che le offerte sono per i nuovi utenti. Secondo Proton, chi ha già un account vede le proprie offerte dopo aver effettuato l'accesso.",
@@ -256999,12 +257005,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Rientri nell'offerta per nuovi utenti e hai già deciso di usare VPN Plus per due anni.",
-        "Vuoi bloccare il primo periodo al prezzo della campagna e ti segnerai la data di rinnovo."
+        "rientri nell'offerta per nuovi utenti e hai già deciso di usare VPN Plus per due anni.",
+        "vuoi bloccare il primo periodo al prezzo della campagna e ti segnerai la data di rinnovo."
       ],
       "skipIf": [
-        "Il piano gratuito copre già quello che fai.",
-        "Il prezzo di rinnovo non rientra nel tuo budget."
+        "il piano gratuito copre già quello che fai.",
+        "il prezzo di rinnovo non rientra nel tuo budget."
       ]
     }
   },
@@ -257029,7 +257035,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "저희 링크로 VPN Plus는 처음 24개월에 $59.76입니다. Proton 특가 페이지의 $71.76과 비교하고 안내된 갱신 요금을 확인하세요.",
     "publishedAt": "2026년 11월 17일",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -257194,7 +257200,8 @@ export const reviewsData: unknown[] = [
           "1년 플랜은 오늘 내는 돈이 가장 적어서, 유료 서비스를 써 보고 갱신 전에 해지할 수도 있는 사람에게 맞습니다. 구독이 두 번째 해로 이어지면 갱신 요금만으로도 파트너 페이지의 2년 플랜 전체보다 비쌉니다.",
           "2년 플랜은 Plus 유료 기능을 전체 계약 기간 동안 사용할 사람에게 맞습니다. 이 경우 비교한 경로 중 저희 링크의 총액이 더 낮았으며, 해당 기능이 필요하지 않다면 무료 플랜도 선택할 수 있습니다.",
           "Proton Unlimited의 경우 파트너 페이지에서 1년 플랜이 $77.88에 제공되었고, 12개월마다 $119.88로 갱신되었습니다."
-        ]
+        ],
+        "emphasis": "표의 숫자로 보면 VPN Plus를 2년 내내 쓸 사람에게는 저희 링크의 2년 플랜이 맞는 선택입니다. 24개월 합계가 $59.76로, 1년 플랜에 갱신 한 번을 더한 $119.76보다 낮기 때문입니다."
       },
       {
         "heading": "VPN Plus만 쓸까, Proton Unlimited를 쓸까",
@@ -257233,7 +257240,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "Proton 블랙프라이데이 쿠폰이 있나요? 코드는 필요 없습니다. 할인은 저희 링크가 여는 페이지에 이미 표시되어 있고, 총액은 결제 화면에서 확인됩니다.",
+          "Proton에 할인 쿠폰이 있나요? 쿠폰은 없습니다. 최대 75% 할인인 블랙프라이데이 할인은 Cecília의 링크로 열리며, 가격은 Proton 사이트에 해당 국가의 통화로 표시되고 갱신 금액이 바로 옆에 함께 나옵니다.",
           "블랙프라이데이에 Proton VPN은 얼마인가요? 파트너 페이지에서 2년 VPN Plus 플랜은 $59.76이었고 처음에 한꺼번에 청구되며, 12개월마다 $83.88로 갱신됩니다. 금액은 국가와 통화에 따라 달라집니다.",
           "블랙프라이데이 가격이 갱신 때도 적용되나요? 아니요. 첫 기간이 지나면 구독은 정상 가격으로 갱신됩니다. 저희가 확인한 가격에서 VPN Plus는 12개월마다 $83.88입니다.",
           "기존 Proton 고객도 할인을 받나요? 페이지에는 혜택이 신규 사용자용이라고 적혀 있습니다. Proton에 따르면 이미 계정이 있는 사람은 로그인한 뒤 자신의 혜택을 볼 수 있습니다.",
@@ -257294,7 +257301,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "当サイトのリンク経由ならVPN Plusは最初の24か月$59.76。Protonのオファーページの$71.76と比べ、案内されている更新料も確認しましょう。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -257459,7 +257466,8 @@ export const reviewsData: unknown[] = [
           "1年プランは今日の支払いがいちばん少なく、有料サービスを試して、更新前に解約するかもしれない人に向いています。契約が2年目に入ると、更新料金だけでパートナーページの2年プラン全体より高くなります。",
           "2年プランは、Plusの有料機能を契約期間中ずっと使う予定の方に向いています。その条件なら、比較した選択肢では当サイトのリンクの合計額が低く、有料機能が不要な方には無料プランも選択肢になります。",
           "Proton Unlimitedについては、パートナーページで1年プランが$77.88で提供され、12か月ごとに$119.88で更新される内容でした。"
-        ]
+        ],
+        "emphasis": "表の数字で見ると、VPN Plusを2年間使い続ける人には、当サイトのリンクからの2年プランが適しています。24か月の合計が$59.76で、1年プランに更新1回を足した$119.76を下回るためです。"
       },
       {
         "heading": "VPN Plusだけか、Proton Unlimitedか",
@@ -257498,7 +257506,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "Protonのブラックフライデー用クーポンはありますか？ コードは不要です。割引は当サイトのリンクが開くページにすでに表示されていて、合計額は決済画面で確認できます。",
+          "Protonに割引クーポンはありますか？ クーポンはありません。最大75%オフのブラックフライデー割引はCecíliaのリンクから開き、価格はProtonのサイトにお住まいの国の通貨で表示され、隣に更新時の金額も載っています。",
           "ブラックフライデーのProton VPNはいくらですか？ パートナーページでは、2年のVPN Plusプランは$59.76で最初に一括請求され、12か月ごとに$83.88で更新されます。金額はお住まいの国や通貨によって変わります。",
           "ブラックフライデーの価格は更新時にも適用されますか？ いいえ。最初の期間が終わると、サブスクリプションは通常価格で更新されます。確認した価格では、VPN Plusは12か月ごとに$83.88です。",
           "すでにProtonを使っている場合も割引はありますか？ ページにはオファーは新規ユーザー向けと書かれています。Protonによると、すでにアカウントを持っている人は、サインイン後に自分向けのオファーが表示されます。",
@@ -257559,7 +257567,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "透過我們的連結，VPN Plus 前 24 個月 59.76 美元。對照 Proton 優惠頁面的 71.76 美元，並確認目前公布的續訂價。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -257724,7 +257732,8 @@ export const reviewsData: unknown[] = [
           "1 年方案現在要付的錢最少，適合想先試用付費服務、可能在續訂前取消的人。如果訂閱延續到第二年，光是續訂的費用就超過合作夥伴頁面整個 2 年方案的價格。",
           "兩年方案適合需要 Plus 付費功能、並打算在整個合約期內使用的人。對這類用戶，在所比較的管道中，我們的連結總價較低；不需要這些功能的人仍可選擇免費方案。",
           "至於 Proton Unlimited，合作夥伴頁面提供 1 年方案 77.88 美元，之後每 12 個月以 119.88 美元續訂。"
-        ]
+        ],
+        "emphasis": "依表格中的數字，若打算連續兩年使用 VPN Plus，選擇透過我們連結的 2 年方案較合適，因為 24 個月合計 59.76 美元，低於 1 年方案加一次續訂的 119.76 美元。"
       },
       {
         "heading": "只買 VPN Plus 還是選 Proton Unlimited",
@@ -257763,7 +257772,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "Proton 有黑色星期五優惠碼嗎？不需要任何代碼。折扣已經顯示在我們的連結開啟的頁面上，總額會在結帳時確認。",
+          "Proton 有折扣優惠碼嗎？沒有優惠碼：最高 75% 折扣的黑色星期五優惠透過 Cecília 的連結開啟，價格會以你所在國家的幣別顯示在 Proton 網站上，旁邊附有續訂金額。",
           "Proton VPN 在黑色星期五要多少錢？在合作夥伴頁面上，2 年 VPN Plus 方案為 59.76 美元，一次扣款，之後每 12 個月以 83.88 美元續訂。金額會隨國家和幣別而變。",
           "黑色星期五價格在續訂時還適用嗎？不適用。第一個期間之後，訂閱會按標準價格續訂。按我們看到的價格，VPN Plus 為每 12 個月 83.88 美元。",
           "Proton 的現有客戶有折扣嗎？頁面說明這些優惠適用於新用戶。依 Proton 所述，已有帳戶的人登入後可看到他們的優惠。",
@@ -257824,7 +257833,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "通过我们的链接，VPN Plus 前 24 个月 59.76 美元。对照 Proton 优惠页面的 71.76 美元，并确认目前公布的续订价。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -257989,7 +257998,8 @@ export const reviewsData: unknown[] = [
           "1 年套餐现在要付的钱最少，适合想先试用付费服务、可能在续订前取消的人。如果订阅延续到第二年，光是续订的费用就超过合作伙伴页面整个 2 年套餐的价格。",
           "两年套餐适合需要 Plus 付费功能、并打算在整个合同期内使用的人。对这类用户，在所比较的渠道中，我们的链接总价更低；不需要这些功能的人仍可选择免费版。",
           "至于 Proton Unlimited，合作伙伴页面提供 1 年套餐 77.88 美元，之后每 12 个月以 119.88 美元续订。"
-        ]
+        ],
+        "emphasis": "按表格中的数字，若打算连续两年使用 VPN Plus，选择通过我们链接的 2 年套餐更合适，因为 24 个月合计 59.76 美元，低于 1 年套餐加一次续订的 119.76 美元。"
       },
       {
         "heading": "只买 VPN Plus 还是选 Proton Unlimited",
@@ -258028,7 +258038,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "Proton 有黑色星期五优惠码吗？不需要任何代码。折扣已经显示在我们的链接打开的页面上，总额会在结账时确认。",
+          "Proton 有折扣优惠码吗？没有优惠码：最高 75% 折扣的黑色星期五优惠通过 Cecília 的链接打开，价格会以你所在国家的币种显示在 Proton 网站上，旁边附有续订金额。",
           "Proton VPN 在黑色星期五要多少钱？在合作伙伴页面上，2 年 VPN Plus 套餐为 59.76 美元，一次性扣款，之后每 12 个月以 83.88 美元续订。金额会随国家和币种而变。",
           "黑色星期五价格在续订时还适用吗？不适用。第一个周期之后，订阅会按标准价格续订。按我们看到的价格，VPN Plus 为每 12 个月 83.88 美元。",
           "Proton 的现有用户有折扣吗？页面说明这些优惠适用于新用户。据 Proton 所述，已有账户的人登录后可以看到他们的优惠。",
@@ -258089,7 +258099,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN: como cancelar e pedir reembolso, prazo de 30 dias nas compras diretas, regras de Google Play e Apple e cuidados com a renovação.",
     "publishedAt": "17 de novembro de 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/proton/proton-vpn-reembolso-como-cancelar-capa.webp",
@@ -258211,7 +258221,8 @@ export const reviewsData: unknown[] = [
           "A assinatura renova pelo ciclo informado na oferta e no recibo, que pode ser diferente do período inicial. Os termos dizem que a cobrança é feita \"pelo preço vigente válido no momento da renovação\", e o preço promocional só vale no primeiro período. Na página de preços que lemos, o VPN Plus de 1 ano saía por R$ 125,88 na campanha de Black Friday e renovava por R$ 293,88 a cada 12 meses.",
           "No VPN Plus, para não renovar, os termos pedem o cancelamento antes da data de renovação. Não é preciso esperar a véspera. Como o plano pago continua até o fim do período já cobrado, dá para cancelar logo depois de assinar e usar tudo o que foi pago.",
           "Anote no calendário a data da próxima cobrança, com alguns dias de folga. Quem assinou pela loja do celular confere a data nas assinaturas da loja."
-        ]
+        ],
+        "emphasis": "Pelos termos da Proton, o reembolso de 30 dias vale só para a compra inicial feita direto com ela, e a renovação fica fora da regra; para não renovar, o cancelamento precisa ser feito antes da data da cobrança, na Proton ou na loja do celular em que a assinatura foi feita."
       },
       {
         "heading": "Trocar de plano em vez de sair",
@@ -258230,6 +258241,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A Proton tem cupom de desconto? Não há cupom: o desconto da Black Friday, de até 75% OFF, abre pelos links da Cecília, e o preço aparece no site da Proton, na moeda do seu país, com o valor da renovação ao lado.",
           "O Proton VPN devolve o dinheiro? Na contratação direta com a Proton, os termos preveem reembolso integral se você cancelar e pedir dentro de 30 dias da compra inicial, uma vez por usuário e com restrições de pagamento. Para Google Play e App Store, siga o percurso específico do capítulo sobre lojas de aplicativos.",
           "Como cancelar o Proton VPN? No site, entre na conta, abra Subscription, vá até Cancel subscription e siga até enviar o motivo. Quem assinou pela Google Play ou pela App Store cancela nas assinaturas da loja.",
           "Cancelei e fui cobrado, o que eu faço? Confira primeiro quem cobrou. Assinatura feita pela loja do celular é cancelada na loja. Se a cobrança veio da Proton depois de um cancelamento concluído, escreva ao suporte com as datas e o comprovante.",
@@ -258243,6 +258255,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "você assinou direto no site ou no aplicativo da Proton e ainda está dentro dos 30 dias da compra inicial.",
+        "você quer desligar a renovação e, se for o caso, pedir o reembolso integral ao suporte da Proton."
+      ],
+      "skipIf": [
+        "você assinou pela App Store ou pela Google Play: o cancelamento é feito na loja e o reembolso segue outro caminho.",
+        "você pagou em dinheiro ou por transferência bancária, ou já pediu reembolso antes: os termos não cobrem esses casos."
+      ]
+    },
     "cta": {
       "text": "Se você ainda está avaliando uma assinatura, abra a oferta da Proton pelo nosso link e confira o total e a renovação. Para cancelar ou pedir o reembolso de uma assinatura que você já tem, use o canal indicado neste guia.",
       "label": "Pegar até 75% OFF pelo link",
@@ -258284,7 +258306,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "How to cancel Proton VPN and ask for a refund: the 30-day window, the conditions that sink a request and how to avoid the renewal charge.",
     "publishedAt": "November 17, 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -258407,7 +258429,8 @@ export const reviewsData: unknown[] = [
           "The renewal follows the billing cycle shown in the offer and receipt, which may differ from the initial term. The terms say you are charged \"the then-current price valid at the time of the renewal\", and a promotional price only covers the first period. On Proton's partner page in US dollars, the 2-year VPN Plus plan was billed at $59.76 for the first 24 months and then renewed at $83.88 every 12 months. Prices change with country and currency.",
           "For VPN Plus, to stop the renewal, the terms ask you to cancel before the renewal date. There is no need to wait until the day before. Because the paid plan runs until the end of the period already charged, you can cancel right after subscribing and still use everything you paid for.",
           "Put the next billing date in your calendar, a few days early. If you subscribed through a phone app store, check the date in the store's subscriptions."
-        ]
+        ],
+        "emphasis": "Under Proton's terms, the 30-day refund covers only the initial purchase made directly with Proton, and a renewal falls outside the rule; to avoid being charged again, the cancellation must be done before the billing date, with Proton or in the phone store that billed the subscription."
       },
       {
         "heading": "Switching plans instead of leaving",
@@ -258425,6 +258448,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "Does Proton have a discount coupon? There is no coupon: the Black Friday discount, up to 75% off, opens through Cecília's links, and the price appears on Proton's website in your country's currency, with the renewal price next to it.",
           "Does Proton VPN give your money back? For direct purchases from Proton, the terms provide a full refund if you cancel and request it within 30 days of the initial purchase, once per user and subject to payment restrictions. For Google Play and App Store purchases, follow the route in the app-store section above.",
           "How do I cancel Proton VPN? On the website, sign in, open Subscription, go to Cancel subscription and follow the steps until you submit the reason. If you subscribed through Google Play or the App Store, cancel in the store's subscriptions.",
           "I cancelled and was still charged, what do I do? First check who billed you. A subscription bought through a phone app store is cancelled in the store. If the charge came from Proton after a completed cancellation, write to support with the dates and the receipt.",
@@ -258438,6 +258462,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "you subscribed directly with Proton and are still within 30 days of the initial purchase.",
+        "you want to stop the renewal and, if eligible, ask Proton support for a full refund."
+      ],
+      "skipIf": [
+        "you subscribed through the App Store or Google Play: cancellation happens in the store and the refund follows a different route.",
+        "you paid in cash or by bank transfer, or already asked for a refund before: the terms do not cover those cases."
+      ]
+    },
     "cta": {
       "text": "If you are still considering a subscription, open Proton's offer through our link and check the total and renewal. For an existing cancellation or refund request, use the relevant support route in this guide.",
       "label": "Get up to 75% off via the link",
@@ -258479,7 +258513,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Cómo cancelar Proton VPN y pedir el reembolso: el plazo de 30 días, las condiciones que hunden una solicitud y cómo evitar el cobro de la renovación.",
     "publishedAt": "17 de noviembre de 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -258602,7 +258636,8 @@ export const reviewsData: unknown[] = [
           "La renovación sigue el ciclo indicado en la oferta y el recibo, que puede ser distinto del periodo inicial. Los términos dicen que se te cobra el precio vigente en el momento de la renovación, y que un precio promocional solo cubre el primer periodo. En la página de socios de Proton en dólares estadounidenses, el plan VPN Plus de 2 años se cobraba a $59.76 por los primeros 24 meses y después se renovaba a $83.88 cada 12 meses. Los precios cambian según el país y la moneda.",
           "En VPN Plus, para detener la renovación, los términos piden cancelar antes de la fecha de renovación. No hace falta esperar al día anterior. Como el plan de pago dura hasta el final del periodo ya cobrado, puedes cancelar justo después de suscribirte y seguir usando todo lo que pagaste.",
           "Apunta en tu calendario la próxima fecha de cobro, con unos días de margen. Si te suscribiste a través de la tienda de aplicaciones del teléfono, mira la fecha en las suscripciones de la tienda."
-        ]
+        ],
+        "emphasis": "Según los términos de Proton, el reembolso de 30 días solo cubre la compra inicial hecha directamente con Proton, y la renovación queda fuera de la regla; para evitar un nuevo cobro, la cancelación debe hacerse antes de la fecha de facturación, en Proton o en la tienda del móvil que cobró la suscripción."
       },
       {
         "heading": "Cambiar de plan en lugar de irte",
@@ -258620,6 +258655,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Proton tiene cupón de descuento? No hay cupón: el descuento del Black Friday, de hasta un 75 % de descuento, se abre con los enlaces de Cecília, y el precio aparece en el sitio de Proton, en la moneda de tu país, con el valor de la renovación al lado.",
           "¿Proton VPN devuelve el dinero? En compras directas a Proton, los términos prevén el reembolso íntegro si cancelas y lo pides dentro de los 30 días posteriores a la compra inicial, una vez por usuario y con restricciones de pago. Para Google Play y App Store, sigue el recorrido específico de ese capítulo.",
           "¿Cómo cancelo Proton VPN? En el sitio web, inicia sesión, abre Subscription, entra en Cancel subscription y sigue los pasos hasta enviar el motivo. Si te suscribiste a través de Google Play o de la App Store, cancela en las suscripciones de la tienda.",
           "Cancelé y aun así me cobraron, ¿qué hago? Primero comprueba quién te cobró. Una suscripción comprada en la tienda de aplicaciones del teléfono se cancela en la tienda. Si el cargo vino de Proton después de una cancelación completada, escribe al soporte con las fechas y el recibo.",
@@ -258633,6 +258669,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "te suscribiste directamente con Proton y sigues dentro de los 30 días de la compra inicial.",
+        "quieres detener la renovación y, si procede, pedir al soporte de Proton el reembolso íntegro."
+      ],
+      "skipIf": [
+        "te suscribiste desde la App Store o Google Play: la cancelación se hace en la tienda y el reembolso sigue otra vía.",
+        "pagaste en efectivo o por transferencia bancaria, o ya pediste un reembolso antes: los términos no cubren esos casos."
+      ]
+    },
     "cta": {
       "text": "Si aún valoras suscribirte, abre la oferta de Proton con nuestro enlace y comprueba total y renovación. Para cancelar o pedir el reembolso de una suscripción que ya tienes, usa el canal indicado en esta guía.",
       "label": "Consigue hasta un 75 % de descuento con el enlace",
@@ -258674,7 +258720,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Résilier Proton VPN et demander un remboursement : le délai de 30 jours, les conditions qui font échouer une demande et comment éviter le renouvellement.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -258797,7 +258843,8 @@ export const reviewsData: unknown[] = [
           "Le renouvellement suit le cycle indiqué dans l'offre et le reçu, qui peut différer de la période initiale. Les conditions indiquent que vous êtes facturé au prix en vigueur au moment du renouvellement, et qu'un prix promotionnel ne couvre que la première période. Sur la page partenaires de Proton en dollars américains, l'offre VPN Plus de 2 ans était facturée 59,76 $ pour les 24 premiers mois, puis se renouvelait à 83,88 $ tous les 12 mois. Les prix changent selon le pays et la devise.",
           "Avec VPN Plus, pour arrêter le renouvellement, les conditions demandent de résilier avant la date de renouvellement. Inutile d'attendre la veille. Comme l'offre payante court jusqu'à la fin de la période déjà facturée, vous pouvez résilier juste après vous être abonné et profiter de tout ce que vous avez payé.",
           "Notez la prochaine date de facturation dans votre agenda, quelques jours à l'avance. Si vous vous êtes abonné via la boutique d'applications d'un téléphone, vérifiez la date dans les abonnements de la boutique."
-        ]
+        ],
+        "emphasis": "Selon les conditions de Proton, le remboursement sous 30 jours ne couvre que l'achat initial fait directement auprès de Proton, et un renouvellement sort de la règle ; pour éviter un nouveau prélèvement, la résiliation doit être faite avant la date de facturation, chez Proton ou dans la boutique du téléphone qui a facturé l'abonnement."
       },
       {
         "heading": "Changer d'offre plutôt que partir",
@@ -258815,6 +258862,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Proton propose-t-il un code promo ? Il n'y a pas de code : la remise du Black Friday, jusqu'à 75 % de réduction, s'ouvre par les liens de Cecília, et le prix s'affiche sur le site de Proton, dans la devise de votre pays, avec le prix du renouvellement à côté.",
           "Proton VPN rembourse-t-il ? Pour un achat direct auprès de Proton, les conditions prévoient un remboursement intégral si résiliation et demande interviennent sous 30 jours après l'achat initial, une fois par utilisateur et avec des restrictions de paiement. Pour Google Play et l'App Store, suivez le parcours spécifique du chapitre correspondant.",
           "Comment résilier Proton VPN ? Sur le site, connectez-vous, ouvrez Subscription, allez à Cancel subscription et suivez les étapes jusqu'à l'envoi du motif. Si vous vous êtes abonné via Google Play ou l'App Store, résiliez dans les abonnements de la boutique.",
           "J'ai résilié et j'ai quand même été prélevé, que faire ? Vérifiez d'abord qui vous a facturé. Un abonnement souscrit via la boutique d'applications d'un téléphone se résilie dans la boutique. Si le prélèvement vient de Proton après une résiliation menée à son terme, écrivez à l'assistance en joignant les dates et le reçu.",
@@ -258828,6 +258876,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "vous vous êtes abonné directement auprès de Proton et vous êtes encore dans les 30 jours de l'achat initial.",
+        "vous voulez arrêter le renouvellement et, si vous y avez droit, demander le remboursement intégral au support de Proton."
+      ],
+      "skipIf": [
+        "vous vous êtes abonné via l'App Store ou Google Play : la résiliation se fait dans la boutique et le remboursement suit une autre voie.",
+        "vous avez payé en espèces ou par virement bancaire, ou vous avez déjà demandé un remboursement : les conditions ne couvrent pas ces cas."
+      ]
+    },
     "cta": {
       "text": "Si vous envisagez encore un abonnement, ouvrez l'offre Proton via notre lien et vérifiez le total et le renouvellement. Pour une résiliation ou un remboursement en cours, utilisez le canal indiqué dans ce guide.",
       "label": "Profitez de jusqu’à 75 % de réduction via le lien",
@@ -258869,7 +258927,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN kündigen und Rückerstattung beantragen: das 30-Tage-Fenster, Bedingungen, an denen ein Antrag scheitert, und wie Sie die Verlängerung vermeiden.",
     "publishedAt": "17. November 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -258992,7 +259050,8 @@ export const reviewsData: unknown[] = [
           "Die Verlängerung richtet sich nach dem im Angebot und Beleg genannten Abrechnungszyklus, der von der ersten Laufzeit abweichen kann. Die Bedingungen sagen, dass Ihnen der zum Zeitpunkt der Verlängerung gültige Preis berechnet wird, und ein Aktionspreis gilt nur für den ersten Zeitraum. Auf Protons Partnerseite in US-Dollar wurde der 2-Jahres-Tarif VPN Plus mit 59,76 $ für die ersten 24 Monate berechnet und verlängerte sich dann zu 83,88 $ alle 12 Monate. Die Preise ändern sich mit Land und Währung.",
           "Für VPN Plus gilt: Um die Verlängerung zu stoppen, verlangen die Bedingungen die Kündigung vor dem Verlängerungsdatum. Sie müssen nicht bis zum Vortag warten. Weil der kostenpflichtige Tarif bis zum Ende des bereits bezahlten Zeitraums läuft, können Sie gleich nach dem Abschluss kündigen und trotzdem alles nutzen, wofür Sie bezahlt haben.",
           "Tragen Sie das nächste Abrechnungsdatum in Ihren Kalender ein, einige Tage früher. Wenn Sie über den App-Store eines Telefons abonniert haben, prüfen Sie das Datum in den Abonnements des Stores."
-        ]
+        ],
+        "emphasis": "Nach den Bedingungen von Proton deckt die 30-Tage-Rückerstattung nur den ersten Kauf direkt bei Proton ab, eine Verlängerung fällt nicht darunter; um nicht erneut belastet zu werden, muss die Kündigung vor dem Abrechnungsdatum erfolgen, bei Proton oder im Store des Smartphones, der das Abo abgerechnet hat."
       },
       {
         "heading": "Den Tarif wechseln statt zu kündigen",
@@ -259010,6 +259069,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Hat Proton einen Rabattcode? Es gibt keinen Code: Der Black-Friday-Rabatt von bis zu 75 % öffnet sich über Cecílias Links, und der Preis erscheint auf der Website von Proton in der Währung Ihres Landes, mit dem Verlängerungspreis daneben.",
           "Erstattet Proton VPN das Geld? Bei Direktkäufen bei Proton sehen die Bedingungen eine vollständige Erstattung vor, wenn Kündigung und Antrag innerhalb von 30 Tagen nach dem ersten Kauf erfolgen, einmal pro Nutzer und mit Einschränkungen bei der Zahlungsart. Für Google Play und App Store folgen Sie dem jeweiligen Weg im entsprechenden Kapitel.",
           "Wie kündige ich Proton VPN? Melden Sie sich auf der Website an, öffnen Sie Subscription, gehen Sie zu Cancel subscription und folgen Sie den Schritten bis zum Absenden des Grundes. Wenn Sie über Google Play oder den App Store abonniert haben, kündigen Sie in den Abonnements des Stores.",
           "Ich habe gekündigt und wurde trotzdem belastet, was tun? Prüfen Sie zuerst, wer Ihnen die Rechnung gestellt hat. Ein Abonnement aus dem App-Store eines Telefons wird im Store gekündigt. Kam die Belastung von Proton nach einer abgeschlossenen Kündigung, schreiben Sie dem Support mit den Daten und dem Beleg.",
@@ -259023,6 +259083,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "Sie haben direkt bei Proton abonniert und sind noch innerhalb von 30 Tagen nach dem ersten Kauf.",
+        "Sie möchten die Verlängerung stoppen und, wenn möglich, beim Proton-Support die volle Rückerstattung beantragen."
+      ],
+      "skipIf": [
+        "Sie haben über den App Store oder Google Play abonniert: Die Kündigung läuft im Store, und die Rückerstattung folgt einem anderen Weg.",
+        "Sie haben bar oder per Banküberweisung bezahlt oder schon einmal eine Rückerstattung beantragt: Diese Fälle decken die Bedingungen nicht ab."
+      ]
+    },
     "cta": {
       "text": "Wenn Sie noch ein Abonnement erwägen, öffnen Sie das Proton-Angebot über unseren Link und prüfen Sie Gesamtbetrag und Verlängerung. Für die Kündigung oder Erstattung eines bestehenden Abonnements nutzen Sie den in diesem Ratgeber genannten Kontaktweg.",
       "label": "Bis zu 75 % Rabatt über den Link sichern",
@@ -259064,7 +259134,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Come disdire Proton VPN e chiedere il rimborso: la finestra di 30 giorni, le condizioni che bloccano la richiesta e come evitare l'addebito del rinnovo.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -259187,7 +259257,8 @@ export const reviewsData: unknown[] = [
           "Il rinnovo segue il ciclo indicato nell'offerta e nella ricevuta, che può essere diverso dal periodo iniziale. I termini dicono che ti viene addebitato il prezzo in vigore al momento del rinnovo, e che un prezzo promozionale copre solo il primo periodo. Nella pagina partner di Proton in dollari statunitensi, il piano VPN Plus da 2 anni veniva addebitato a $59.76 per i primi 24 mesi e poi si rinnovava a $83.88 ogni 12 mesi. I prezzi cambiano con il paese e la valuta.",
           "Con VPN Plus, per fermare il rinnovo, i termini chiedono di disdire prima della data di rinnovo. Non serve aspettare il giorno prima. Poiché il piano a pagamento dura fino alla fine del periodo già addebitato, puoi disdire subito dopo l'abbonamento e usare comunque tutto ciò che hai pagato.",
           "Segna sul calendario la prossima data di addebito, con qualche giorno di anticipo. Se ti sei abbonato tramite lo store del telefono, controlla la data negli abbonamenti dello store."
-        ]
+        ],
+        "emphasis": "Secondo i termini di Proton, il rimborso entro 30 giorni copre solo l'acquisto iniziale fatto direttamente con Proton, e un rinnovo resta fuori dalla regola; per evitare un nuovo addebito, la disdetta va fatta prima della data di fatturazione, su Proton o nello store del telefono che ha fatturato l'abbonamento."
       },
       {
         "heading": "Cambiare piano invece di andarsene",
@@ -259205,6 +259276,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Proton ha un codice sconto? Non c'è nessun codice: lo sconto del Black Friday, fino al 75% di sconto, si apre dai link di Cecília, e il prezzo compare sul sito di Proton, nella valuta del tuo paese, con il prezzo del rinnovo accanto.",
           "Proton VPN restituisce i soldi? Per acquisti diretti da Proton, i termini prevedono il rimborso integrale se disdetta e richiesta avvengono entro 30 giorni dall'acquisto iniziale, una volta per utente e con restrizioni sui pagamenti. Per Google Play e App Store, segui il percorso specifico nel capitolo corrispondente.",
           "Come disdico Proton VPN? Sul sito, accedi, apri Subscription, vai su Cancel subscription e segui i passaggi fino a inviare il motivo. Se ti sei abbonato tramite Google Play o App Store, disdici negli abbonamenti dello store.",
           "Ho disdetto e mi hanno addebitato comunque, cosa faccio? Controlla prima chi ha effettuato l'addebito. Un abbonamento acquistato nello store del telefono si disdice nello store. Se l'addebito è arrivato da Proton dopo una disdetta completata, scrivi all'assistenza con le date e la ricevuta.",
@@ -259218,6 +259290,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "ti sei abbonato direttamente con Proton e sei ancora entro 30 giorni dall'acquisto iniziale.",
+        "vuoi fermare il rinnovo e, se ne hai diritto, chiedere all'assistenza di Proton il rimborso integrale."
+      ],
+      "skipIf": [
+        "ti sei abbonato tramite App Store o Google Play: la disdetta si fa nello store e il rimborso segue un'altra strada.",
+        "hai pagato in contanti o con bonifico bancario, oppure hai già chiesto un rimborso: i termini non coprono questi casi."
+      ]
+    },
     "cta": {
       "text": "Se stai ancora valutando un abbonamento, apri l'offerta Proton dal nostro link e controlla totale e rinnovo. Per una disdetta o un rimborso in corso, usa il canale indicato in questa guida.",
       "label": "Ottieni fino al 75% di sconto con il link",
@@ -259259,7 +259341,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN 해지와 환불 신청 방법: 30일 기한, 환불이 거절되는 조건, 갱신 결제를 피하는 요령을 정리했습니다.",
     "publishedAt": "2026년 11월 17일",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -259382,7 +259464,8 @@ export const reviewsData: unknown[] = [
           "갱신 주기는 할인 안내와 영수증에 표시된 내용을 따르며 최초 계약 기간과 다를 수 있습니다. 약관에는 갱신 시점에 유효한 당시 가격이 청구된다고 되어 있고, 프로모션 가격은 첫 기간에만 적용됩니다. 미국 달러로 표시된 Proton 파트너 페이지에서 2년 VPN Plus 플랜은 처음 24개월분으로 $59.76이 청구되었고, 그 뒤로는 12개월마다 $83.88에 갱신되었습니다. 가격은 국가와 통화에 따라 달라집니다.",
           "VPN Plus의 경우: 갱신을 막으려면 약관에 따라 갱신일 전에 해지해야 합니다. 전날까지 기다릴 필요는 없습니다. 유료 플랜은 이미 결제한 기간이 끝날 때까지 이어지므로, 가입 직후에 해지해도 낸 만큼은 모두 쓸 수 있습니다.",
           "다음 결제일을 며칠 앞서 달력에 적어 두세요. 휴대폰 앱 스토어로 가입했다면 스토어의 구독 내역에서 날짜를 확인하세요."
-        ]
+        ],
+        "emphasis": "Proton 약관상 30일 환불은 Proton에서 직접 한 최초 구매에만 적용되고 갱신 결제는 대상이 아닙니다. 다시 청구되지 않으려면 결제일 전에 Proton에서, 또는 구독을 결제한 스마트폰 스토어에서 해지해야 합니다."
       },
       {
         "heading": "떠나는 대신 플랜을 바꾸기",
@@ -259400,6 +259483,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "Proton에 할인 쿠폰이 있나요? 쿠폰은 없습니다. 최대 75% 할인되는 블랙프라이데이 혜택은 Cecília의 링크로 열리며, 가격은 Proton 사이트에 사용자 국가의 통화로 표시되고 옆에 갱신 가격도 함께 나옵니다.",
           "Proton VPN은 돈을 돌려주나요? Proton에 직접 결제한 경우 약관은 최초 구매 후 30일 이내 해지와 환불 신청에 대해 사용자당 한 번, 결제 수단 제한 조건으로 전액 환불을 규정합니다. Google Play와 App Store 결제는 해당 장의 별도 절차를 따르세요.",
           "Proton VPN은 어떻게 해지하나요? 웹사이트에 로그인해 Subscription을 열고 Cancel subscription으로 간 뒤, 사유를 제출할 때까지 단계를 따라가면 됩니다. Google Play나 App Store로 가입했다면 스토어의 구독 내역에서 해지합니다.",
           "해지했는데도 결제되었어요. 어떻게 하나요? 먼저 누가 결제를 처리했는지 확인하세요. 휴대폰 앱 스토어로 산 구독은 스토어에서 해지합니다. 해지를 마쳤는데도 Proton에서 결제되었다면 날짜와 영수증을 첨부해 지원팀에 문의하세요.",
@@ -259413,6 +259497,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "Proton에 직접 가입했고 최초 구매 후 30일 이내입니다.",
+        "갱신을 멈추고, 해당된다면 Proton 지원팀에 전액 환불을 요청하려 합니다."
+      ],
+      "skipIf": [
+        "App Store나 Google Play로 가입했습니다. 해지는 스토어에서 하고, 환불은 다른 경로를 따릅니다.",
+        "현금이나 계좌 이체로 결제했거나 이미 환불을 요청한 적이 있습니다. 약관이 이런 경우는 다루지 않습니다."
+      ]
+    },
     "cta": {
       "text": "아직 구독을 검토 중이라면 저희 링크로 Proton 할인 페이지를 열고 총액과 갱신 요금을 확인하세요. 기존 구독의 해지나 환불은 이 가이드에서 안내하는 해당 창구를 이용하세요.",
       "label": "링크로 최대 75% 할인 받기",
@@ -259454,7 +259548,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPNの解約と返金申請の方法：30日間の期限、申請が通らなくなる条件、更新時の請求を避けるポイントをまとめました。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -259577,7 +259671,8 @@ export const reviewsData: unknown[] = [
           "更新周期はオファーと領収書の記載に従い、最初の契約期間と異なる場合があります。規約には、更新時に有効な、その時点の価格が請求されると書かれていて、キャンペーン価格が適用されるのは最初の期間だけです。米ドル表示のProtonパートナーページでは、2年のVPN Plusプランは最初の24か月分として$59.76が請求され、その後は12か月ごとに$83.88で更新されていました。価格は国や通貨によって変わります。",
           "VPN Plusの場合：更新を止めるには、規約により、更新日の前に解約する必要があります。前日まで待つ必要はありません。有料プランは請求済みの期間の終わりまで続くため、申し込んですぐに解約しても、支払った分はすべて使えます。",
           "次の請求日は、数日前にカレンダーへ入れておきましょう。スマートフォンのアプリストアで申し込んだ場合は、ストアの定期購入で日付を確認してください。"
-        ]
+        ],
+        "emphasis": "Protonの規約では、30日間の返金はProtonと直接契約した最初の購入だけが対象で、更新は対象外です。再び課金されないようにするには、請求日の前に、Protonで、またはサブスクリプションを請求したスマートフォンのストアで解約する必要があります。"
       },
       {
         "heading": "解約せずにプランを変更する",
@@ -259595,6 +259690,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
+          "Protonに割引クーポンはありますか？ クーポンはありません。最大75%オフのブラックフライデー割引はCecíliaのリンクから開き、価格はProtonのサイトにお住まいの国の通貨で表示され、隣に更新時の価格も並びます。",
           "Proton VPNは返金しますか？ Protonとの直接契約では、最初の購入から30日以内の解約と申請について、利用者一人につき一度、支払い方法の制限付きで全額返金を規約に定めています。Google PlayとApp Storeの場合は、該当する章の手順に従ってください。",
           "Proton VPNはどうやって解約しますか？ ウェブサイトでサインインし、Subscriptionを開いてCancel subscriptionへ進み、理由を送信するまで手順を進めます。Google PlayやApp Storeで申し込んだ場合は、ストアの定期購入で解約します。",
           "解約したのに請求されました。どうすればいいですか？ まず、誰が請求したかを確認してください。スマートフォンのアプリストアで購入した場合は、ストアで解約します。解約を終えたのにProtonから請求された場合は、日付と領収書を添えてサポートに連絡しましょう。",
@@ -259608,6 +259704,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "Protonと直接契約していて、最初の購入から30日以内である。",
+        "更新を止めたい。該当すれば、Protonサポートに全額返金を申請したい。"
+      ],
+      "skipIf": [
+        "App StoreまたはGoogle Play経由で申し込んだ。解約はストアで行い、返金は別の手順になります。",
+        "現金や銀行振込で支払った、または以前に返金を申請したことがある。規約はこれらのケースを対象にしていません。"
+      ]
+    },
     "cta": {
       "text": "これから契約を検討する方は、当サイトのリンクからProtonのオファーを開き、合計額と更新料を確認してください。契約済みの解約や返金は、このガイドの該当窓口で手続きします。",
       "label": "リンクから最大75%オフを手に入れる",
@@ -259649,7 +259755,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "如何取消 Proton VPN 並申請退款：30 天期限、會讓申請被拒的條件，以及如何避免續訂扣款。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -259772,7 +259878,8 @@ export const reviewsData: unknown[] = [
           "續訂週期以優惠說明和收據為準，可能與最初的合約期間不同。條款說明，你會按續訂當下有效的價格被收費，而促銷價只涵蓋第一個期間。在 Proton 以美元計價的合作夥伴頁面上，2 年 VPN Plus 方案前 24 個月收費 59.76 美元，之後每 12 個月以 83.88 美元續訂。價格會隨國家和幣別而變。",
           "以下適用於 VPN Plus：要停止續訂，條款要求你在續訂日之前取消。不必等到前一天。因為付費方案會持續到已付款期間結束，你可以訂閱後立刻取消，仍然能用完你付費的所有內容。",
           "把下一個扣款日記在行事曆上，並提前幾天提醒自己。如果你是透過手機應用程式商店訂閱，請在商店的訂閱頁面查看日期。"
-        ]
+        ],
+        "emphasis": "依 Proton 的條款，30 天退款只適用於直接向 Proton 完成的首次購買，續訂不在此規則內；若要避免再次扣款，必須在扣款日之前取消，在 Proton 取消，或在收取訂閱費的手機商店取消。"
       },
       {
         "heading": "換方案，而不是離開",
@@ -259790,6 +259897,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
+          "Proton 有折扣優惠碼嗎？ 沒有優惠碼：最高 75% 折扣的黑色星期五優惠，透過 Cecília 的連結開啟，價格會以你所在國家的貨幣顯示在 Proton 網站上，旁邊並列續訂價格。",
           "Proton VPN 會退款嗎？直接向 Proton 購買時，條款規定首次購買後 30 天內取消並申請可獲全額退款，每位用戶限一次，並受付款方式限制。Google Play 和 App Store 付款請依對應章節的專門流程辦理。",
           "如何取消 Proton VPN？在網站上登入，開啟 Subscription，進入 Cancel subscription，依步驟完成到提交原因為止。如果你是透過 Google Play 或 App Store 訂閱，請在商店的訂閱頁面取消。",
           "我已經取消卻還是被扣款，該怎麼辦？先確認是誰向你收款。透過手機應用程式商店購買的訂閱，要在商店取消。如果在完成取消之後，款項仍來自 Proton，請附上日期和收據寫信給客服。",
@@ -259803,6 +259911,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "你直接向 Proton 訂閱，且仍在首次購買後的 30 天內。",
+        "你想停止續訂，並在符合資格時向 Proton 客服申請全額退款。"
+      ],
+      "skipIf": [
+        "你是透過 App Store 或 Google Play 訂閱：取消要在商店進行，退款走另一條路徑。",
+        "你是用現金或銀行轉帳付款，或之前已申請過退款：條款不涵蓋這些情況。"
+      ]
+    },
     "cta": {
       "text": "如果你還在考慮訂閱，請透過我們的連結開啟 Proton 優惠，確認總額和續訂費用。已有訂閱的取消或退款，請使用本指南所列的對應管道。",
       "label": "透過連結領取最高 75% 折扣",
@@ -259844,7 +259962,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "如何取消 Proton VPN 并申请退款：30 天期限、会让申请被拒的条件，以及如何避免续订扣款。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -259967,7 +260085,8 @@ export const reviewsData: unknown[] = [
           "续订周期以优惠说明和收据为准，可能与最初的合同期限不同。条款说明，你会按续订当时有效的价格被收费，而促销价只涵盖第一个周期。在 Proton 以美元计价的合作伙伴页面上，2 年 VPN Plus 套餐前 24 个月收费 59.76 美元，之后每 12 个月以 83.88 美元续订。价格会随国家和币种而变。",
           "以下适用于 VPN Plus：要停止续订，条款要求你在续订日之前取消。不必等到前一天。因为付费套餐会持续到已付款周期结束，你可以订阅后立刻取消，仍然能用完你付费的所有内容。",
           "把下一个扣款日记在日历上，并提前几天提醒自己。如果你是通过手机应用商店订阅的，请在应用商店的订阅页面查看日期。"
-        ]
+        ],
+        "emphasis": "依据 Proton 的条款，30 天退款只适用于直接向 Proton 完成的首次购买，续订不在此规则内；若要避免再次扣款，必须在扣款日之前取消，在 Proton 取消，或在收取订阅费的手机应用商店取消。"
       },
       {
         "heading": "换套餐，而不是离开",
@@ -259985,6 +260104,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
+          "Proton 有优惠码吗？ 没有优惠码：最高 75% 折扣的黑色星期五优惠，通过 Cecília 的链接开启，价格会以你所在国家的货币显示在 Proton 网站上，旁边并列续订价格。",
           "Proton VPN 会退款吗？直接向 Proton 购买时，条款规定首次购买后 30 天内取消并申请可获全额退款，每位用户限一次，并受付款方式限制。Google Play 和 App Store 付款请按对应章节的专门流程办理。",
           "如何取消 Proton VPN？在网站上登录，打开 Subscription，进入 Cancel subscription，按步骤完成到提交原因为止。如果你是通过 Google Play 或 App Store 订阅的，请在应用商店的订阅页面取消。",
           "我已经取消却还是被扣款，该怎么办？先确认是谁向你收款。通过手机应用商店购买的订阅，要在应用商店取消。如果在完成取消之后，款项仍来自 Proton，请附上日期和收据给客服写信。",
@@ -259998,6 +260118,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "你直接向 Proton 订阅，且仍在首次购买后的 30 天内。",
+        "你想停止续订，并在符合资格时向 Proton 客服申请全额退款。"
+      ],
+      "skipIf": [
+        "你是通过 App Store 或 Google Play 订阅：取消要在应用商店进行，退款走另一条路径。",
+        "你是用现金或银行转账付款，或之前已申请过退款：条款不涵盖这些情况。"
+      ]
+    },
     "cta": {
       "text": "如果你还在考虑订阅，请通过我们的链接打开 Proton 优惠，确认总额和续订费用。已有订阅的取消或退款，请使用本指南所列的对应渠道。",
       "label": "通过链接领取最高 75% 折扣",
@@ -260039,7 +260169,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN é confiável? Veja quem é a empresa, o que as auditorias conferiram, se o plano grátis é seguro e como ler as reclamações no Reclame Aqui.",
     "publishedAt": "17 de novembro de 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "bodyDatesReason": "reclame-aqui",
@@ -260154,11 +260284,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A página de preços da Proton lista cartão Visa, Mastercard e American Express e PayPal. Pix não aparece. A assinatura renova sozinha, pelo preço em vigor na data da renovação.",
           "Os termos dão reembolso integral para quem cancela e pede o dinheiro em até 30 dias da compra inicial, uma vez por usuário e só para assinatura feita direto com a Proton. O passo a passo está em [como cancelar o Proton VPN e pedir o reembolso](/reviews/proton-vpn-reembolso-como-cancelar)."
-        ]
+        ],
+        "emphasis": "Segundo a Proton e a auditoria da Securitum de 2026, a política de não guardar registros foi examinada por um terceiro, mas a garantia de reembolso de 30 dias vale só para quem assina direto com a Proton, e a renovação sai pelo preço vigente na data."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A Proton tem cupom de desconto? Não há cupom: o desconto da Black Friday, de até 75% OFF, abre pelos links da Cecília, e o preço aparece no site da Proton, na moeda do seu país, com o valor da renovação ao lado.",
           "O Proton VPN é seguro? Os sinais verificáveis são favoráveis: empresa identificada, código dos aplicativos público e auditoria anual da política de registros pela Securitum, com relatório publicado. Essas evidências não garantem anonimato nem proteção contra todos os golpes.",
           "O Proton VPN grátis é confiável? A Proton diz que o plano grátis não guarda registros de atividade, não tem anúncios nem limite de dados, e que ele é financiado pelos assinantes. Os limites são 1 dispositivo e menos países.",
           "O Proton VPN é vírus? Não. O aplicativo oficial está na Google Play e na App Store com a Proton AG como desenvolvedora. O risco está em instaladores de terceiros e em versões modificadas.",
@@ -260172,6 +260304,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "você quer uma VPN de empresa identificada, com código dos aplicativos aberto e auditoria externa da política de registros, segundo a Proton e a Securitum.",
+        "você entende que a VPN muda quem vê o seu tráfego, sem garantir anonimato."
+      ],
+      "skipIf": [
+        "você espera anonimato total ou proteção contra golpes: a VPN não entrega nenhuma das duas.",
+        "você precisa de atendimento com resposta garantida: o canal oficial da Proton é o formulário de suporte."
+      ]
+    },
     "cta": {
       "text": "Se você procura os recursos pagos do Proton VPN, abra a oferta pelo nosso link. Confira o total cobrado de uma vez e a renovação; a comparação de preços está no guia de Black Friday relacionado.",
       "label": "Pegar até 75% OFF pelo link",
@@ -260213,7 +260355,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Is Proton VPN safe? See who the company is, what the audits checked, whether the free plan can be trusted and what a VPN does not protect you from.",
     "publishedAt": "November 17, 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -260322,11 +260464,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Proton's pricing page lists Visa, Mastercard and American Express cards and PayPal. The subscription renews by itself, at the price in force on the renewal date.",
           "The terms give a full refund to anyone who cancels and asks for the money within 30 days of the initial purchase, once per user and only for subscriptions bought directly from Proton. The step by step is in [how to cancel Proton VPN and ask for a refund](/en/reviews/proton-vpn-refund-how-to-cancel)."
-        ]
+        ],
+        "emphasis": "According to Proton and the 2026 Securitum audit, a third party examined the no-logs policy, but the 30-day refund guarantee only applies to subscriptions bought directly from Proton, and the renewal is charged at the price in force on that date."
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "Does Proton have a discount coupon? There is no coupon: the Black Friday discount, up to 75% off, opens through Cecília's links, and the price appears on Proton's website in your country's currency, with the renewal price next to it.",
           "Is Proton VPN safe? Verifiable trust signals are favorable: an identified company, public app code and annual Securitum audits of the no-logs policy, with published reports. These findings do not guarantee anonymity or protection from every scam.",
           "Is the free Proton VPN trustworthy? Proton says the free plan keeps no activity logs, has no ads and no data limit, and that it is funded by subscribers. The limits are 1 device and fewer countries.",
           "Is Proton VPN a virus? No. The official app is on Google Play and the App Store with Proton AG as the developer. The risk lies in third-party installers and modified versions.",
@@ -260340,6 +260484,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "you want a VPN from an identified company, with open-source apps and an external audit of its logging policy, according to Proton and Securitum.",
+        "you understand that a VPN changes who sees your traffic without guaranteeing anonymity."
+      ],
+      "skipIf": [
+        "you expect total anonymity or protection from scams: a VPN delivers neither.",
+        "you need support with a guaranteed reply: Proton's official channel is the support form."
+      ]
+    },
     "cta": {
       "text": "If you want Proton VPN's paid features, open the offer through our link and check the upfront total and renewal. The related Black Friday guide compares the prices.",
       "label": "Get up to 75% off via the link",
@@ -260381,7 +260535,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿Es seguro Proton VPN? Quién es la empresa, qué revisaron las auditorías, si el plan gratuito es fiable y de qué no te protege una VPN.",
     "publishedAt": "17 de noviembre de 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -260490,11 +260644,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "La página de precios de Proton enumera las tarjetas Visa, Mastercard y American Express y PayPal. La suscripción se renueva sola, al precio vigente en la fecha de renovación.",
           "Los términos dan un reembolso completo a quien cancela y pide el dinero dentro de los 30 días posteriores a la compra inicial, una vez por usuario y solo para suscripciones compradas directamente a Proton. El paso a paso está en [cómo cancelar Proton VPN y pedir el reembolso](/es/reviews/proton-vpn-reembolso-cancelar-suscripcion)."
-        ]
+        ],
+        "emphasis": "Según Proton y la auditoría de Securitum de 2026, un tercero examinó la política de no guardar registros, pero la garantía de reembolso de 30 días solo vale para quien se suscribe directamente con Proton, y la renovación se cobra al precio vigente en esa fecha."
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Proton tiene cupón de descuento? No hay cupón: el descuento del Black Friday, de hasta un 75 % de descuento, se abre con los enlaces de Cecília, y el precio aparece en el sitio de Proton, en la moneda de tu país, con el valor de la renovación al lado.",
           "¿Es seguro Proton VPN? Las señales verificables son favorables: empresa identificada, código público y auditoría anual de Securitum sobre la política sin registros, con informes publicados. Esas pruebas no garantizan anonimato ni protección contra todas las estafas.",
           "¿Es fiable Proton VPN gratis? Proton dice que el plan gratuito no guarda registros de actividad, no tiene anuncios ni límite de datos, y que lo financian los suscriptores. Los límites son 1 dispositivo y menos países.",
           "¿Es Proton VPN un virus? No. La app oficial está en Google Play y en la App Store con Proton AG como desarrollador. El riesgo está en los instaladores de terceros y las versiones modificadas.",
@@ -260508,6 +260664,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "quieres una VPN de una empresa identificada, con apps de código abierto y una auditoría externa de su política de registros, según Proton y Securitum.",
+        "entiendes que una VPN cambia quién ve tu tráfico, sin garantizar el anonimato."
+      ],
+      "skipIf": [
+        "esperas anonimato total o protección contra estafas: una VPN no ofrece ninguna de las dos cosas.",
+        "necesitas una atención con respuesta garantizada: el canal oficial de Proton es el formulario de soporte."
+      ]
+    },
     "cta": {
       "text": "Si buscas las funciones de pago de Proton VPN, abre la oferta con nuestro enlace y comprueba el total inicial y la renovación. El artículo relacionado de Black Friday compara los precios.",
       "label": "Consigue hasta un 75 % de descuento con el enlace",
@@ -260549,7 +260715,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN est-il fiable ? Qui est la société, ce que les audits ont vérifié, si l'offre gratuite inspire confiance et ce dont un VPN ne protège pas.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -260658,11 +260824,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "La page des tarifs de Proton cite les cartes Visa, Mastercard et American Express et PayPal. L'abonnement se renouvelle tout seul, au prix en vigueur à la date du renouvellement.",
           "Les conditions prévoient un remboursement intégral pour qui résilie et demande l'argent dans les 30 jours suivant l'achat initial, une fois par utilisateur et uniquement pour les abonnements souscrits directement chez Proton. Le pas à pas est dans [comment résilier Proton VPN et demander un remboursement](/fr/reviews/proton-vpn-remboursement-resilier)."
-        ]
+        ],
+        "emphasis": "Selon Proton et l'audit de Securitum de 2026, un tiers a examiné la politique d'absence de journaux, mais la garantie de remboursement de 30 jours ne vaut que pour l'abonnement souscrit directement auprès de Proton, et le renouvellement est facturé au prix en vigueur à cette date."
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Proton propose-t-il un code promo ? Il n'y a pas de code : la remise du Black Friday, jusqu'à 75 % de réduction, s'ouvre par les liens de Cecília, et le prix s'affiche sur le site de Proton, dans la devise de votre pays, avec le prix du renouvellement à côté.",
           "Proton VPN est-il sûr ? Les signes vérifiables sont favorables : société identifiée, code public et audits annuels de Securitum sur la politique sans journaux, avec rapports publiés. Ces preuves ne garantissent ni anonymat ni protection contre toutes les arnaques.",
           "Proton VPN gratuit est-il digne de confiance ? Proton indique que l'offre gratuite ne conserve aucun journal d'activité, n'a ni publicité ni limite de données, et qu'elle est financée par les abonnés. Les limites sont 1 appareil et moins de pays.",
           "Proton VPN est-il un virus ? Non. L'application officielle est sur Google Play et l'App Store avec Proton AG comme éditeur. Le risque tient aux installateurs tiers et aux versions modifiées.",
@@ -260676,6 +260844,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "vous voulez un VPN d'une entreprise identifiée, avec des applications open source et un audit externe de sa politique de journaux, selon Proton et Securitum.",
+        "vous comprenez qu'un VPN change qui voit votre trafic, sans garantir l'anonymat."
+      ],
+      "skipIf": [
+        "vous attendez un anonymat total ou une protection contre les arnaques : un VPN n'offre ni l'un ni l'autre.",
+        "vous avez besoin d'un support avec réponse garantie : le canal officiel de Proton est le formulaire d'assistance."
+      ]
+    },
     "cta": {
       "text": "Si vous recherchez les fonctions payantes de Proton VPN, ouvrez l'offre via notre lien et vérifiez le total initial et le renouvellement. Le guide Black Friday associé compare les prix.",
       "label": "Profitez de jusqu’à 75 % de réduction via le lien",
@@ -260717,7 +260895,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Ist Proton VPN seriös? Wer die Firma ist, was die Audits geprüft haben, ob dem kostenlosen Tarif zu trauen ist und wovor ein VPN nicht schützt.",
     "publishedAt": "17. November 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -260826,11 +261004,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Protons Preisseite nennt Karten von Visa, Mastercard und American Express sowie PayPal. Das Abonnement verlängert sich von selbst, zu dem Preis, der am Verlängerungsdatum gilt.",
           "Die Bedingungen sehen eine volle Rückerstattung vor für alle, die innerhalb von 30 Tagen nach dem ersten Kauf kündigen und das Geld zurückverlangen, einmal pro Nutzer und nur für Abonnements, die direkt bei Proton gekauft wurden. Die Anleitung Schritt für Schritt steht unter [Proton VPN kündigen und Rückerstattung beantragen](/de/reviews/proton-vpn-kuendigen-rueckerstattung)."
-        ]
+        ],
+        "emphasis": "Laut Proton und dem Securitum-Audit von 2026 hat ein Dritter die No-Logs-Richtlinie geprüft, doch die 30-Tage-Rückerstattung gilt nur für Abos, die direkt bei Proton abgeschlossen wurden, und die Verlängerung wird zum dann gültigen Preis berechnet."
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Hat Proton einen Rabattcode? Es gibt keinen Code: Der Black-Friday-Rabatt von bis zu 75 % öffnet sich über Cecílias Links, und der Preis erscheint auf der Website von Proton in der Währung Ihres Landes, mit dem Verlängerungspreis daneben.",
           "Ist Proton VPN sicher? Die überprüfbaren Anzeichen sind positiv: ein namentlich bekanntes Unternehmen, öffentlicher App-Code und jährliche Securitum-Audits der No-Logs-Richtlinie mit veröffentlichten Berichten. Diese Belege garantieren weder Anonymität noch Schutz vor jedem Betrug.",
           "Ist das kostenlose Proton VPN vertrauenswürdig? Proton sagt, der kostenlose Tarif führe keine Aktivitätsprotokolle, habe keine Werbung und kein Datenlimit und werde von Abonnenten finanziert. Die Grenzen sind 1 Gerät und weniger Länder.",
           "Ist Proton VPN ein Virus? Nein. Die offizielle App ist bei Google Play und im App Store mit Proton AG als Entwickler. Das Risiko liegt bei Installern von Dritten und veränderten Versionen.",
@@ -260844,6 +261024,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "Sie möchten ein VPN eines identifizierbaren Unternehmens, mit Open-Source-Apps und einem externen Audit der Logging-Richtlinie, laut Proton und Securitum.",
+        "Sie wissen, dass ein VPN ändert, wer Ihren Datenverkehr sieht, ohne Anonymität zu garantieren."
+      ],
+      "skipIf": [
+        "Sie erwarten vollständige Anonymität oder Schutz vor Betrug: Ein VPN leistet keines von beidem.",
+        "Sie brauchen Support mit garantierter Antwort: Der offizielle Kanal von Proton ist das Support-Formular."
+      ]
+    },
     "cta": {
       "text": "Wenn Sie die kostenpflichtigen Funktionen von Proton VPN suchen, öffnen Sie das Angebot über unseren Link und prüfen Sie Gesamtbetrag und Verlängerung. Der verknüpfte Black-Friday-Ratgeber vergleicht die Preise.",
       "label": "Bis zu 75 % Rabatt über den Link sichern",
@@ -260885,7 +261075,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN è affidabile? Chi è l'azienda, cosa hanno controllato gli audit, se il piano gratuito è credibile e da cosa una VPN non ti protegge.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -260994,11 +261184,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "La pagina dei prezzi di Proton elenca le carte Visa, Mastercard e American Express e PayPal. L'abbonamento si rinnova da solo, al prezzo in vigore alla data del rinnovo.",
           "I termini prevedono il rimborso totale per chi disdice e chiede i soldi entro 30 giorni dall'acquisto iniziale, una sola volta per utente e solo per abbonamenti acquistati direttamente da Proton. Il passo dopo passo è in [come disdire Proton VPN e chiedere il rimborso](/it/reviews/proton-vpn-rimborso-come-disdire)."
-        ]
+        ],
+        "emphasis": "Secondo Proton e l'audit di Securitum del 2026, una terza parte ha esaminato la politica di non conservazione dei log, ma la garanzia di rimborso di 30 giorni vale solo per chi si abbona direttamente con Proton, e il rinnovo viene addebitato al prezzo in vigore in quella data."
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Proton ha un codice sconto? Non c'è nessun codice: lo sconto del Black Friday, fino al 75% di sconto, si apre dai link di Cecília, e il prezzo compare sul sito di Proton, nella valuta del tuo paese, con il prezzo del rinnovo accanto.",
           "Proton VPN è affidabile? I segnali verificabili sono favorevoli: azienda identificata, codice pubblico e audit annuali di Securitum sulla politica senza log, con report pubblicati. Queste prove non garantiscono anonimato né protezione da ogni truffa.",
           "Proton VPN gratis è affidabile? Proton dice che il piano gratuito non conserva log di attività, non ha pubblicità né limiti di dati, e che è finanziato dagli abbonati. I limiti sono 1 dispositivo e meno paesi.",
           "Proton VPN è un virus? No. L'app ufficiale è su Google Play e App Store con Proton AG come sviluppatore. Il rischio sta negli installer di terze parti e nelle versioni modificate.",
@@ -261012,6 +261204,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "vuoi una VPN di un'azienda identificata, con app open source e un audit esterno della politica sui log, secondo Proton e Securitum.",
+        "capisci che una VPN cambia chi vede il tuo traffico, senza garantire l'anonimato."
+      ],
+      "skipIf": [
+        "ti aspetti anonimato totale o protezione dalle truffe: una VPN non offre né l'uno né l'altra.",
+        "hai bisogno di un'assistenza con risposta garantita: il canale ufficiale di Proton è il modulo di supporto."
+      ]
+    },
     "cta": {
       "text": "Se cerchi le funzioni a pagamento di Proton VPN, apri l'offerta dal nostro link e controlla totale iniziale e rinnovo. La guida Black Friday collegata confronta i prezzi.",
       "label": "Ottieni fino al 75% di sconto con il link",
@@ -261053,7 +261255,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN은 안전할까요? 운영 회사, 감사에서 확인된 내용, 무료 플랜을 믿어도 되는지, VPN이 막아 주지 못하는 것을 정리했습니다.",
     "publishedAt": "2026년 11월 17일",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -261162,11 +261364,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Proton의 요금 페이지에는 Visa, Mastercard, American Express 카드와 PayPal이 나와 있습니다. 구독은 갱신일에 적용되는 가격으로 저절로 갱신됩니다.",
           "약관에 따르면 최초 구매 후 30일 이내에 해지하고 환불을 요청한 사람에게 전액을 환불합니다. 사용자당 한 번이며, Proton에서 직접 구매한 구독만 해당합니다. 단계별 방법은 [Proton VPN 해지와 환불 신청](/ko/reviews/proton-vpn-refund-ko)에 있습니다."
-        ]
+        ],
+        "emphasis": "Proton과 2026년 Securitum 감사에 따르면 무로그 정책은 제3자가 검토했지만, 30일 환불 보장은 Proton에 직접 가입한 경우에만 적용되고 갱신은 그 시점의 가격으로 청구됩니다."
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "Proton에 할인 쿠폰이 있나요? 쿠폰은 없습니다. 최대 75% 할인되는 블랙프라이데이 혜택은 Cecília의 링크로 열리며, 가격은 Proton 사이트에 사용자 국가의 통화로 표시되고 옆에 갱신 가격도 함께 나옵니다.",
           "Proton VPN은 안전한가요? 명확히 밝혀진 운영 회사, 공개된 앱 코드, Securitum의 연례 로그 비보관 정책 감사와 공개 보고서는 확인 가능한 긍정적 근거입니다. 이런 근거가 익명성이나 모든 사기 방지를 보장하지는 않습니다.",
           "무료 Proton VPN은 믿을 만한가요? Proton에 따르면 무료 플랜은 활동 로그를 보관하지 않고, 광고와 데이터 제한이 없으며, 구독자의 결제로 운영됩니다. 한계는 기기 1대와 적은 국가 수입니다.",
           "Proton VPN은 바이러스인가요? 아니요. 공식 앱은 Google Play와 App Store에 개발자 Proton AG로 올라와 있습니다. 위험은 제3자 설치 파일과 변조된 버전에 있습니다.",
@@ -261180,6 +261384,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "운영 회사가 공개되어 있고 앱 코드가 공개되었으며, Proton과 Securitum에 따르면 로그 정책을 외부에서 감사받은 VPN을 원합니다.",
+        "VPN은 내 트래픽을 보는 주체를 바꿀 뿐 익명성을 보장하지 않는다는 점을 이해합니다."
+      ],
+      "skipIf": [
+        "완전한 익명성이나 사기 방지를 기대합니다. VPN은 둘 다 제공하지 않습니다.",
+        "답변이 보장되는 지원이 필요합니다. Proton의 공식 채널은 지원 양식입니다."
+      ]
+    },
     "cta": {
       "text": "Proton VPN 유료 기능을 찾는다면 저희 링크로 할인 페이지를 열고 최초 결제 총액과 갱신 요금을 확인하세요. 관련 블랙프라이데이 가이드에서 가격을 비교합니다.",
       "label": "링크로 최대 75% 할인 받기",
@@ -261221,7 +261435,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPNは安全？運営会社、監査で確認された内容、無料プランを信頼できるか、VPNでは防げないことをまとめました。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -261330,11 +261544,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Protonの料金ページには、Visa、Mastercard、American Expressのカードと、PayPalが載っています。サブスクリプションは、更新日に適用されている価格で自動的に更新されます。",
           "利用規約では、最初の購入から30日以内に解約して返金を申請した人に、全額が返金されます。対象は1ユーザーにつき1回で、Protonから直接購入したサブスクリプションだけです。手順は[Proton VPNの解約方法と返金申請](/ja/reviews/proton-vpn-refund-ja)で説明しています。"
-        ]
+        ],
+        "emphasis": "Protonと2026年のSecuritum監査によると、ノーログ方針は第三者が検証していますが、30日間の返金保証はProtonと直接契約した場合にだけ適用され、更新はその時点の価格で請求されます。"
       },
       {
         "heading": "よくある質問",
         "bullets": [
+          "Protonに割引クーポンはありますか？ クーポンはありません。最大75%オフのブラックフライデー割引はCecíliaのリンクから開き、価格はProtonのサイトにお住まいの国の通貨で表示され、隣に更新時の価格も並びます。",
           "Proton VPNは安全ですか？ 運営会社の明示、公開されたアプリのコード、Securitumによるノーログ方針の年次監査と公開レポートは、確認可能な良い判断材料です。これらは匿名性やあらゆる詐欺への対策を保証するものではありません。",
           "無料のProton VPNは信頼できますか？ Protonによると、無料プランは活動ログを記録せず、広告もデータ容量の制限もなく、購読者の支払いで運営されています。制限は、1台までの接続と、対象国の少なさです。",
           "Proton VPNはウイルスですか？ いいえ。公式アプリはGoogle PlayとApp Storeで、開発元をProton AGとして配信されています。危険があるのは、サードパーティのインストーラーや改変された版です。",
@@ -261348,6 +261564,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "運営会社が明らかで、アプリのコードが公開され、ProtonとSecuritumによればログ方針の外部監査があるVPNを使いたい。",
+        "VPNはトラフィックを見る相手を変えるだけで、匿名性を保証しないと理解している。"
+      ],
+      "skipIf": [
+        "完全な匿名性や詐欺からの保護を期待している。VPNはどちらも提供しません。",
+        "返信が保証されたサポートが必要。Protonの公式窓口はサポートフォームです。"
+      ]
+    },
     "cta": {
       "text": "Proton VPNの有料機能を探している方は、当サイトのリンクからオファーを開き、最初の合計額と更新料を確認してください。関連するブラックフライデー記事で料金を比較しています。",
       "label": "リンクから最大75%オフを手に入れる",
@@ -261389,7 +261615,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN 安全嗎？看公司是誰、稽核檢查了什麼、免費方案能不能信任，以及 VPN 無法防範哪些風險。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -261498,11 +261724,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Proton 的價格頁面列出 Visa、Mastercard 和 American Express 信用卡以及 PayPal。訂閱會自動續訂，按續訂當天的價格收費。",
           "依條款，只要在首次購買後 30 天內取消並申請退款，就會全額退款，每位用戶限一次，且僅適用於直接向 Proton 購買的訂閱。詳細步驟請見[如何取消 Proton VPN 並申請退款](/zh-hant/reviews/proton-vpn-refund-zh-hant)。"
-        ]
+        ],
+        "emphasis": "依 Proton 與 2026 年 Securitum 稽核所述，無日誌政策已由第三方檢視，但 30 天退款保證只適用於直接向 Proton 訂閱的情況，續訂則依當時的價格扣款。"
       },
       {
         "heading": "常見問題",
         "bullets": [
+          "Proton 有折扣優惠碼嗎？ 沒有優惠碼：最高 75% 折扣的黑色星期五優惠，透過 Cecília 的連結開啟，價格會以你所在國家的貨幣顯示在 Proton 網站上，旁邊並列續訂價格。",
           "Proton VPN 安全嗎？營運公司身分明確、應用程式碼公開，以及 Securitum 對無日誌政策的年度稽核和公開報告，都是可核實的正面依據。這些不保證匿名或防住所有詐騙。",
           "免費的 Proton VPN 可以信任嗎？依 Proton 所述，免費方案不記錄活動日誌，沒有廣告，也沒有流量限制，並由付費用戶出資支撐。限制是只能連 1 台裝置，國家也較少。",
           "Proton VPN 是病毒嗎？不是。官方應用程式在 Google Play 和 App Store 上架，開發者是 Proton AG。風險出在第三方安裝檔和修改過的版本。",
@@ -261516,6 +261744,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "你想要營運公司公開、應用程式程式碼開源，且依 Proton 與 Securitum 所述日誌政策經外部稽核的 VPN。",
+        "你明白 VPN 只是改變誰看得到你的流量，並不保證匿名。"
+      ],
+      "skipIf": [
+        "你期待完全匿名，或期待防範詐騙：VPN 兩者都做不到。",
+        "你需要保證回覆的客服：Proton 的官方管道是支援表單。"
+      ]
+    },
     "cta": {
       "text": "如果你需要 Proton VPN 的付費功能，請透過我們的連結開啟優惠，確認首次付款總額和續訂費用。相關黑色星期五指南比較了價格。",
       "label": "透過連結領取最高 75% 折扣",
@@ -261557,7 +261795,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN 安全吗？看公司是谁、审计检查了什么、免费套餐能不能信任，以及 VPN 无法防范哪些风险。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -261666,11 +261904,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Proton 的价格页面列出 Visa、Mastercard 和 American Express 银行卡以及 PayPal。订阅会自动续订，按续订当天的价格收费。",
           "按条款，只要在首次购买后 30 天内取消并申请退款，就会全额退款，每位用户限一次，且仅适用于直接向 Proton 购买的订阅。详细步骤请见[如何取消 Proton VPN 并申请退款](/zh-hans/reviews/proton-vpn-refund-zh-hans)。"
-        ]
+        ],
+        "emphasis": "依 Proton 与 2026 年 Securitum 审计所述，无日志政策已由第三方审查，但 30 天退款保证只适用于直接向 Proton 订阅的情况，续订则按当时的价格扣款。"
       },
       {
         "heading": "常见问题",
         "bullets": [
+          "Proton 有优惠码吗？ 没有优惠码：最高 75% 折扣的黑色星期五优惠，通过 Cecília 的链接开启，价格会以你所在国家的货币显示在 Proton 网站上，旁边并列续订价格。",
           "Proton VPN 安全吗？运营公司身份明确、应用代码公开，以及 Securitum 对无日志政策的年度审计和公开报告，都是可核实的正面依据。这些不保证匿名或防住所有骗局。",
           "免费的 Proton VPN 可以信任吗？按 Proton 的说法，免费套餐不记录活动日志，没有广告，也没有流量限制，并由付费用户出资支撑。局限是只能连 1 台设备，国家也较少。",
           "Proton VPN 是病毒吗？不是。官方应用在 Google Play 和 App Store 上架，开发者是 Proton AG。风险出在第三方安装包和修改过的版本。",
@@ -261684,6 +261924,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "你想要运营公司公开、应用代码开源，且依 Proton 与 Securitum 所述日志政策经外部审计的 VPN。",
+        "你明白 VPN 只是改变谁看得到你的流量，并不保证匿名。"
+      ],
+      "skipIf": [
+        "你期待完全匿名，或期待防范诈骗：VPN 两者都做不到。",
+        "你需要保证回复的客服：Proton 的官方渠道是支持表单。"
+      ]
+    },
     "cta": {
       "text": "如果你需要 Proton VPN 的付费功能，请通过我们的链接打开优惠，确认首次付款总额和续订费用。相关黑色星期五指南比较了价格。",
       "label": "通过链接领取最高 75% 折扣",
@@ -265681,7 +265931,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN vale a pena? Grátis ou Plus: pelo nosso link, 24 meses por R$ 210,96; depois, R$ 293,88 ao ano. Compare recursos e condições.",
     "publishedAt": "17 de novembro de 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
@@ -265717,7 +265967,7 @@ export const reviewsData: unknown[] = [
           "**Suporte prioritário e chat.**"
         ],
         "postParagraphs": [
-          "Não usamos o Proton VPN. Velocidade, P2P e streaming entram aqui como a Proton anuncia, sem medição nossa e sem promessa de acesso a serviço de vídeo. A parte de confiança, com as auditorias, está em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel)."
+          "Velocidade, P2P e streaming entram aqui como a Proton anuncia, sem promessa de acesso a serviço de vídeo. A parte de confiança, com as auditorias, está em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel)."
         ]
       },
       {
@@ -265825,7 +266075,14 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-brl.webp",
           "alt": "Cartão do VPN Plus na página de preços da Proton, com o plano de 1 ano a R$ 10,49 por mês, R$ 125,88 pelos primeiros 12 meses e renovação por R$ 293,88 a cada 12 meses.",
           "caption": "O cartão do VPN Plus de 1 ano na página de preços da Proton, com o total e a renovação na linha pequena."
-        }
+        },
+        "links": [
+          {
+            "label": "Ver o VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "VPN Plus ou Proton Unlimited",
@@ -265833,7 +266090,8 @@ export const reviewsData: unknown[] = [
           "O Proton Unlimited junta os recursos pagos da VPN, do e-mail, da nuvem e do gerenciador de senhas numa conta. Na mesma página, o plano de 1 ano custava R$ 273,48 e renovava por R$ 419,88 a cada 12 meses.",
           "Quem assina o VPN Plus continua com os planos grátis dos outros serviços, e a central de ajuda diz que não dá para ter vários planos Plus na mesma conta. Considere o Unlimited se você também vai usar os recursos pagos de e-mail ou armazenamento. Se quer apenas VPN e gerenciador de senhas, compare antes o pacote VPN com Pass, que a Proton também oferece. Para quem só quer a VPN, o Plus de 1 ano custa menos da metade no primeiro período (R$ 125,88 contra R$ 273,48) e segue mais barato na renovação (R$ 293,88 contra R$ 419,88).",
           "Usamos o Proton Mail, da mesma empresa, no plano gratuito, há quase dez anos. Quem está bem com o e-mail grátis não precisa do Unlimited para ter a VPN paga."
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para quem só quer a VPN paga, a escolha é o VPN Plus de 1 ano, porque custa R$ 125,88 contra R$ 273,48 do Unlimited no primeiro período e renova por R$ 293,88 contra R$ 419,88."
       },
       {
         "heading": "O que pesa contra",
@@ -265855,6 +266113,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A Proton tem cupom de desconto? Não há cupom: o desconto da Black Friday, de até 75% OFF, abre pelos links da Cecília, e o preço aparece no site da Proton, na moeda do seu país, com o valor da renovação ao lado.",
           "O Proton VPN é gratuito? Tem um plano grátis, sem cartão, e planos pagos. Segundo a Proton, o grátis não tem anúncios nem limite de dados e liga 1 aparelho por vez.",
           "O Proton VPN grátis tem limite de dados? A Proton diz que não. Os limites do plano grátis são 1 dispositivo por vez e servidores de 10 países escolhidos pelo aplicativo.",
           "Quanto custa o Proton VPN Plus? Na comparação de preços, o plano de 1 ano custava R$ 125,88 e a oferta de parceiros do nosso link, R$ 210,96 pelos primeiros 24 meses, ambos cobrados de uma vez. Depois, a renovação anunciada era de R$ 293,88 a cada 12 meses; confirme moeda, elegibilidade e preço vigente.",
@@ -265889,12 +266148,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você usa VPN em mais de um aparelho ou precisa escolher o país da conexão.",
-        "Você quer a filtragem de anúncios e rastreadores do NetShield durante a conexão VPN."
+        "você usa VPN em mais de um aparelho ou precisa escolher o país da conexão.",
+        "você quer a filtragem de anúncios e rastreadores do NetShield durante a conexão VPN."
       ],
       "skipIf": [
-        "Seu uso é ocasional, num aparelho só, e o país da conexão não importa.",
-        "O valor da renovação não cabe no seu orçamento."
+        "seu uso é ocasional, num aparelho só, e o país da conexão não importa.",
+        "o valor da renovação não cabe no seu orçamento."
       ]
     }
   },
@@ -265919,7 +266178,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Is Proton VPN worth it? Free or Plus: our link offers $59.76 for 24 months, then $83.88 a year. Compare the features and terms.",
     "publishedAt": "November 17, 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -265956,7 +266215,7 @@ export const reviewsData: unknown[] = [
           "**Priority support and live chat.**"
         ],
         "postParagraphs": [
-          "We do not use Proton VPN. Speed, P2P and streaming appear here as Proton advertises them, with no measurement of ours and no promise of access to any video service. The trust side, with the audits, is in [Is Proton VPN safe?](/en/reviews/is-proton-vpn-safe)."
+          "Speed, P2P and streaming appear here as Proton advertises them, with no promise of access to any video service. The trust side, with the audits, is in [Is Proton VPN safe?](/en/reviews/is-proton-vpn-safe)."
         ]
       },
       {
@@ -266064,7 +266323,14 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
           "alt": "The VPN Plus card on Proton's pricing page, with the 1-year plan at $2.99 per month, billed at $35.88 for the first 12 months and renewing at $83.88 every 12 months.",
           "caption": "The 1-year VPN Plus card on Proton's pricing page, with the total and the renewal in the small print."
-        }
+        },
+        "links": [
+          {
+            "label": "See VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "VPN Plus or Proton Unlimited",
@@ -266072,7 +266338,8 @@ export const reviewsData: unknown[] = [
           "Proton Unlimited brings the paid features of the VPN, the email, the cloud storage and the password manager into one account. On the same page, the 1-year plan cost $77.88 and renewed at $119.88 every 12 months.",
           "If you subscribe to VPN Plus, you keep the free plans of the other services, and the help center says you cannot have several Plus plans on the same account. Consider Unlimited if you will also use the other services' paid features; needing two services alone does not prove it is the cheapest choice. Proton also advertises a VPN and Pass bundle, worth comparing if you need a VPN and password manager. If you only want the VPN, the 1-year Plus costs less than half in the first period ($35.88 against $77.88) and stays cheaper at renewal ($83.88 against $119.88).",
           "We have used Proton Mail, from the same company, on the free plan for almost ten years. If the free email is enough for you, you do not need Unlimited to have the paid VPN."
-        ]
+        ],
+        "emphasis": "By the numbers in the table, for anyone who only wants the paid VPN, the choice is the 1-year VPN Plus, because it costs $35.88 against $77.88 for Unlimited in the first period and renews at $83.88 against $119.88."
       },
       {
         "heading": "What counts against it",
@@ -266093,6 +266360,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "Does Proton have a discount coupon? There is no coupon: the Black Friday discount, up to 75% off, opens through Cecília's links, and the price shows on Proton's site, in your country's currency, with the renewal price next to it.",
           "Is Proton VPN free? It has a free plan, with no card, and paid plans. According to Proton, the free plan has no ads and no data limit and connects 1 device at a time.",
           "Does Proton VPN Free have a data limit? Proton says it does not. The limits of the free plan are 1 device at a time and servers in 10 countries picked by the app.",
           "How much does Proton VPN Plus cost? In the US-dollar prices we recorded, one year cost $35.88 and our link's partner offer cost $59.76 for the first 24 months, both paid upfront. The advertised renewal was then $83.88 every 12 months; confirm currency, eligibility and the current price.",
@@ -266127,12 +266395,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "You use a VPN on more than one device or need to choose the country of the connection.",
-        "You want NetShield's ad and tracker filtering during the VPN connection."
+        "you use a VPN on more than one device or need to choose the country of the connection.",
+        "you want NetShield's ad and tracker filtering during the VPN connection."
       ],
       "skipIf": [
-        "Your use is occasional, on a single device, and the country of the connection does not matter.",
-        "The renewal amount does not fit your budget."
+        "your use is occasional, on a single device, and the country of the connection does not matter.",
+        "the renewal amount does not fit your budget."
       ]
     }
   },
@@ -266157,7 +266425,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿Vale la pena Proton VPN? Gratis o Plus: nuestro enlace ofrece 24 meses por $59.76; después, $83.88 al año. Compara funciones y condiciones.",
     "publishedAt": "17 de noviembre de 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -266194,7 +266462,7 @@ export const reviewsData: unknown[] = [
           "**Soporte prioritario y chat en directo.**"
         ],
         "postParagraphs": [
-          "No usamos Proton VPN. La velocidad, el P2P y el streaming aparecen aquí tal como los anuncia Proton, sin ninguna medición nuestra y sin prometer acceso a ningún servicio de vídeo. La parte de confianza, con las auditorías, está en [¿Es seguro Proton VPN?](/es/reviews/proton-vpn-es-confiable)."
+          "La velocidad, el P2P y el streaming aparecen aquí tal como los anuncia Proton, sin prometer acceso a ningún servicio de vídeo. La parte de confianza, con las auditorías, está en [¿Es seguro Proton VPN?](/es/reviews/proton-vpn-es-confiable)."
         ]
       },
       {
@@ -266302,7 +266570,14 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
           "alt": "La tarjeta de VPN Plus en la página de precios de Proton, con el plan de 1 año a $2.99 por mes, $35.88 cobrados por los primeros 12 meses y renovación a $83.88 cada 12 meses.",
           "caption": "La tarjeta de VPN Plus de 1 año en la página de precios de Proton, con el total y la renovación en la letra pequeña."
-        }
+        },
+        "links": [
+          {
+            "label": "Ver VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "VPN Plus o Proton Unlimited",
@@ -266310,7 +266585,8 @@ export const reviewsData: unknown[] = [
           "Proton Unlimited reúne en una sola cuenta las funciones de pago de la VPN, el correo, el almacenamiento en la nube y el gestor de contraseñas. En la misma página, el plan de 1 año costaba $77.88 y se renovaba a $119.88 cada 12 meses.",
           "Si te suscribes a VPN Plus, conservas los planes gratuitos de los demás servicios, y el centro de ayuda dice que no puedes tener varios planes Plus en la misma cuenta. Considera Unlimited si también usarás las funciones de pago de los otros servicios; necesitar dos servicios no demuestra que sea la opción más económica. Proton también anuncia un paquete VPN con Pass, que conviene comparar si buscas VPN y gestor de contraseñas. Si solo quieres la VPN, el Plus de 1 año cuesta menos de la mitad en el primer periodo ($35.88 frente a $77.88) y sigue siendo más barato en la renovación ($83.88 frente a $119.88).",
           "Usamos Proton Mail, de la misma empresa, en el plan gratuito desde hace casi diez años. Si el correo gratuito te basta, no necesitas Unlimited para tener la VPN de pago."
-        ]
+        ],
+        "emphasis": "Según los números de la tabla, para quien solo quiere la VPN de pago, la opción es VPN Plus de 1 año, porque cuesta $35.88 frente a $77.88 de Unlimited en el primer periodo y se renueva por $83.88 frente a $119.88."
       },
       {
         "heading": "Lo que juega en contra",
@@ -266331,6 +266607,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Tiene Proton un cupón de descuento? No hay cupón: el descuento de Black Friday, de hasta un 75 % de descuento, se abre con los enlaces de Cecília, y el precio aparece en el sitio de Proton, en la moneda de tu país, con el importe de la renovación al lado.",
           "¿Es gratis Proton VPN? Tiene un plan gratuito, sin tarjeta, y planes de pago. Según Proton, el plan gratuito no tiene anuncios ni límite de datos y conecta 1 dispositivo a la vez.",
           "¿Proton VPN Free tiene límite de datos? Proton dice que no. Los límites del plan gratuito son 1 dispositivo a la vez y servidores en 10 países elegidos por la app.",
           "¿Cuánto cuesta Proton VPN Plus? En la consulta registrada en dólares estadounidenses, un año costaba $35.88 y la oferta de socios de nuestro enlace, $59.76 por los primeros 24 meses, ambos por adelantado. Después, la renovación anunciada era de $83.88 cada 12 meses; confirma moneda, elegibilidad y precio vigente.",
@@ -266365,12 +266642,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Usas una VPN en más de un dispositivo o necesitas elegir el país de la conexión.",
-        "Quieres el filtrado de anuncios y rastreadores de NetShield durante la conexión VPN."
+        "usas una VPN en más de un dispositivo o necesitas elegir el país de la conexión.",
+        "quieres el filtrado de anuncios y rastreadores de NetShield durante la conexión VPN."
       ],
       "skipIf": [
-        "Tu uso es ocasional, en un solo dispositivo, y el país de la conexión no importa.",
-        "El importe de la renovación no cabe en tu presupuesto."
+        "tu uso es ocasional, en un solo dispositivo, y el país de la conexión no importa.",
+        "el importe de la renovación no cabe en tu presupuesto."
       ]
     }
   },
@@ -266395,7 +266672,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN vaut-il le coup ? Gratuit ou Plus : notre lien propose 24 mois à 59,76 $, puis 83,88 $ par an. Comparez fonctions et conditions.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -266432,7 +266709,7 @@ export const reviewsData: unknown[] = [
           "**Assistance prioritaire et chat en direct.**"
         ],
         "postParagraphs": [
-          "Nous n'utilisons pas Proton VPN. La vitesse, le P2P et le streaming apparaissent ici tels que Proton les annonce, sans mesure de notre part et sans promesse d'accès à aucun service vidéo. Le volet confiance, avec les audits, est dans [Proton VPN est-il fiable ?](/fr/reviews/proton-vpn-est-il-fiable)."
+          "La vitesse, le P2P et le streaming apparaissent ici tels que Proton les annonce, sans promesse d'accès à aucun service vidéo. Le volet confiance, avec les audits, est dans [Proton VPN est-il fiable ?](/fr/reviews/proton-vpn-est-il-fiable)."
         ]
       },
       {
@@ -266540,7 +266817,14 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
           "alt": "La carte VPN Plus de la page des tarifs de Proton, avec l'offre d'1 an à 2,99 $ par mois, facturée 35,88 $ pour les 12 premiers mois et renouvelée à 83,88 $ tous les 12 mois.",
           "caption": "La carte VPN Plus d'1 an sur la page des tarifs de Proton, avec le total et le renouvellement dans les petits caractères."
-        }
+        },
+        "links": [
+          {
+            "label": "Voir VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "VPN Plus ou Proton Unlimited",
@@ -266548,7 +266832,8 @@ export const reviewsData: unknown[] = [
           "Proton Unlimited réunit dans un seul compte les fonctions payantes du VPN, de la messagerie, du stockage en ligne et du gestionnaire de mots de passe. Sur la même page, l'offre d'1 an coûtait 77,88 $ et se renouvelait à 119,88 $ tous les 12 mois.",
           "Si vous souscrivez VPN Plus, vous gardez les offres gratuites des autres services, et le centre d'aide indique qu'on ne peut pas avoir plusieurs offres Plus sur le même compte. Envisagez Unlimited si les fonctions payantes des autres services vous sont aussi utiles ; avoir besoin de deux services ne prouve pas que ce soit le choix le moins cher. Proton annonce aussi une offre VPN avec Pass, à comparer pour un VPN et un gestionnaire de mots de passe. Si vous ne voulez que le VPN, Plus d'1 an coûte moins de la moitié sur la première période (35,88 $ contre 77,88 $) et reste moins cher au renouvellement (83,88 $ contre 119,88 $).",
           "Nous utilisons Proton Mail, de la même société, en offre gratuite depuis près de dix ans. Si la messagerie gratuite vous suffit, vous n'avez pas besoin d'Unlimited pour avoir le VPN payant."
-        ]
+        ],
+        "emphasis": "D'après les chiffres du tableau, pour qui ne veut que le VPN payant, le bon choix est VPN Plus d'1 an, car il coûte 35,88 $ contre 77,88 $ pour Unlimited sur la première période et se renouvelle à 83,88 $ contre 119,88 $."
       },
       {
         "heading": "Ce qui joue contre",
@@ -266569,6 +266854,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Proton a-t-il un coupon de réduction ? Il n'y a pas de coupon : la réduction du Black Friday, jusqu'à 75 % de réduction, s'ouvre par les liens de Cecília, et le prix s'affiche sur le site de Proton, dans la devise de votre pays, avec le montant du renouvellement à côté.",
           "Proton VPN est-il gratuit ? Il a une offre gratuite, sans carte, et des offres payantes. Selon Proton, l'offre gratuite n'a ni publicité ni limite de données et connecte 1 appareil à la fois.",
           "Proton VPN Free a-t-il une limite de données ? Proton dit que non. Les limites de l'offre gratuite sont 1 appareil à la fois et des serveurs dans 10 pays choisis par l'application.",
           "Combien coûte Proton VPN Plus ? Lors du relevé en dollars américains, un an coûtait 35,88 $ et l'offre partenaires de notre lien, 59,76 $ pour les 24 premiers mois, payés d'avance. Le renouvellement annoncé était ensuite de 83,88 $ tous les 12 mois ; vérifiez devise, éligibilité et tarif en vigueur.",
@@ -266603,12 +266889,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Vous utilisez un VPN sur plus d'un appareil ou devez choisir le pays de la connexion.",
-        "Vous voulez le filtrage des publicités et des traqueurs de NetShield pendant la connexion VPN."
+        "vous utilisez un VPN sur plus d'un appareil ou devez choisir le pays de la connexion.",
+        "vous voulez le filtrage des publicités et des traqueurs de NetShield pendant la connexion VPN."
       ],
       "skipIf": [
-        "Votre usage est occasionnel, sur un seul appareil, et le pays de la connexion n'a pas d'importance.",
-        "Le montant du renouvellement ne rentre pas dans votre budget."
+        "votre usage est occasionnel, sur un seul appareil, et le pays de la connexion n'a pas d'importance.",
+        "le montant du renouvellement ne rentre pas dans votre budget."
       ]
     }
   },
@@ -266633,7 +266919,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Lohnt sich Proton VPN? Free oder Plus: Unser Link bietet 24 Monate für 59,76 $, danach 83,88 $ jährlich. Funktionen und Bedingungen vergleichen.",
     "publishedAt": "17. November 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -266670,7 +266956,7 @@ export const reviewsData: unknown[] = [
           "**Prioritäts-Support und Live-Chat.**"
         ],
         "postParagraphs": [
-          "Wir nutzen Proton VPN nicht. Geschwindigkeit, P2P und Streaming stehen hier so, wie Proton sie bewirbt, ohne eigene Messung und ohne Zusage, dass irgendein Videodienst erreichbar ist. Die Vertrauensfrage, mit den Audits, behandelt [Ist Proton VPN seriös?](/de/reviews/ist-proton-vpn-serioes)."
+          "Geschwindigkeit, P2P und Streaming stehen hier so, wie Proton sie bewirbt, ohne Zusage, dass irgendein Videodienst erreichbar ist. Die Vertrauensfrage, mit den Audits, behandelt [Ist Proton VPN seriös?](/de/reviews/ist-proton-vpn-serioes)."
         ]
       },
       {
@@ -266778,7 +267064,14 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
           "alt": "Die VPN-Plus-Karte auf Protons Preisseite, mit dem 1-Jahres-Tarif zu 2,99 $ pro Monat, abgerechnet mit 35,88 $ für die ersten 12 Monate und verlängert zu 83,88 $ alle 12 Monate.",
           "caption": "Die VPN-Plus-Karte für 1 Jahr auf Protons Preisseite, mit Gesamtbetrag und Verlängerung im Kleingedruckten."
-        }
+        },
+        "links": [
+          {
+            "label": "VPN Plus ansehen",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "VPN Plus oder Proton Unlimited",
@@ -266786,7 +267079,8 @@ export const reviewsData: unknown[] = [
           "Proton Unlimited vereint die kostenpflichtigen Funktionen von VPN, E-Mail, Cloud-Speicher und Passwortmanager in einem Konto. Auf derselben Seite kostete der 1-Jahres-Tarif 77,88 $ und verlängerte sich zu 119,88 $ alle 12 Monate.",
           "Wenn Sie VPN Plus abonnieren, behalten Sie die kostenlosen Tarife der anderen Dienste, und das Hilfe-Center sagt, dass man nicht mehrere Plus-Tarife im selben Konto haben kann. Ziehen Sie Unlimited in Betracht, wenn Ihnen auch die kostenpflichtigen Funktionen der anderen Dienste nützen; dass Sie zwei Dienste brauchen, macht Unlimited allein noch nicht zur günstigsten Wahl. Proton bewirbt auch ein Paket aus VPN und Pass, das Sie vergleichen sollten, wenn Sie VPN und Passwortmanager brauchen. Wenn Sie nur das VPN möchten, kostet Plus für 1 Jahr im ersten Zeitraum weniger als die Hälfte (35,88 $ gegenüber 77,88 $) und bleibt bei der Verlängerung günstiger (83,88 $ gegenüber 119,88 $).",
           "Wir nutzen Proton Mail, von derselben Firma, im kostenlosen Tarif seit fast zehn Jahren. Wenn Ihnen die kostenlose E-Mail reicht, brauchen Sie Unlimited nicht, um das kostenpflichtige VPN zu haben."
-        ]
+        ],
+        "emphasis": "Nach den Zahlen der Tabelle ist für alle, die nur das kostenpflichtige VPN möchten, VPN Plus für 1 Jahr die richtige Wahl, weil es im ersten Zeitraum 35,88 $ kostet gegenüber 77,88 $ für Unlimited und sich für 83,88 $ statt 119,88 $ verlängert."
       },
       {
         "heading": "Was dagegen spricht",
@@ -266807,6 +267101,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Hat Proton einen Rabattgutschein? Es gibt keinen Gutschein: Der Black-Friday-Rabatt von bis zu 75 % Rabatt öffnet sich über die Links von Cecília, und der Preis steht auf der Website von Proton, in der Währung Ihres Landes, mit dem Verlängerungspreis daneben.",
           "Ist Proton VPN kostenlos? Es hat einen kostenlosen Tarif, ohne Karte, und kostenpflichtige Tarife. Laut Proton hat der kostenlose Tarif keine Werbung und kein Datenlimit und verbindet 1 Gerät gleichzeitig.",
           "Hat Proton VPN Free ein Datenlimit? Proton sagt nein. Die Grenzen des kostenlosen Tarifs sind 1 Gerät gleichzeitig und Server in 10 Ländern, die die App auswählt.",
           "Wie viel kostet Proton VPN Plus? Beim erfassten Vergleich in US-Dollar kostete ein Jahr 35,88 $ und das Partnerangebot unseres Links 59,76 $ für die ersten 24 Monate, jeweils im Voraus. Danach waren 83,88 $ alle 12 Monate angekündigt; prüfen Sie Währung, Teilnahmebedingungen und geltenden Preis.",
@@ -266871,7 +267166,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN conviene? Gratis o Plus: il nostro link offre 24 mesi a $59.76, poi $83.88 all'anno. Confronta funzioni e condizioni.",
     "publishedAt": "17 novembre 2026",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -266908,7 +267203,7 @@ export const reviewsData: unknown[] = [
           "**Assistenza prioritaria e chat dal vivo.**"
         ],
         "postParagraphs": [
-          "Non usiamo Proton VPN. Velocità, P2P e streaming compaiono qui come li dichiara Proton, senza alcuna misurazione nostra e senza promettere l'accesso a nessun servizio video. Il lato dell'affidabilità, con gli audit, è in [Proton VPN è affidabile?](/it/reviews/proton-vpn-e-affidabile)."
+          "Velocità, P2P e streaming compaiono qui come li dichiara Proton, senza promettere l'accesso a nessun servizio video. Il lato dell'affidabilità, con gli audit, è in [Proton VPN è affidabile?](/it/reviews/proton-vpn-e-affidabile)."
         ]
       },
       {
@@ -267016,7 +267311,14 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
           "alt": "La scheda di VPN Plus nella pagina dei prezzi di Proton, con il piano da 1 anno a $2.99 al mese, con un addebito di $35.88 per i primi 12 mesi e rinnovato a $83.88 ogni 12 mesi.",
           "caption": "La scheda di VPN Plus da 1 anno nella pagina dei prezzi di Proton, con il totale e il rinnovo scritti in piccolo."
-        }
+        },
+        "links": [
+          {
+            "label": "Vedi VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "VPN Plus o Proton Unlimited",
@@ -267024,7 +267326,8 @@ export const reviewsData: unknown[] = [
           "Proton Unlimited riunisce in un solo account le funzioni a pagamento della VPN, della posta, dello spazio cloud e del gestore di password. Sulla stessa pagina, il piano da 1 anno costava $77.88 e si rinnovava a $119.88 ogni 12 mesi.",
           "Se ti abboni a VPN Plus, mantieni i piani gratuiti degli altri servizi, e il centro assistenza dice che non puoi avere più piani Plus sullo stesso account. Considera Unlimited se userai anche le funzioni a pagamento degli altri servizi; aver bisogno di due servizi non dimostra da solo che sia la scelta più economica. Proton pubblicizza anche un pacchetto VPN con Pass, da confrontare se cerchi VPN e gestore di password. Se vuoi solo la VPN, il Plus da 1 anno costa meno della metà nel primo periodo ($35.88 contro $77.88) e resta più economico al rinnovo ($83.88 contro $119.88).",
           "Usiamo Proton Mail, della stessa azienda, con il piano gratuito da quasi dieci anni. Se la posta gratuita ti basta, non ti serve Unlimited per avere la VPN a pagamento."
-        ]
+        ],
+        "emphasis": "Dai numeri della tabella, per chi vuole solo la VPN a pagamento, la scelta è VPN Plus da 1 anno, perché costa $35.88 contro $77.88 di Unlimited nel primo periodo e si rinnova a $83.88 contro $119.88."
       },
       {
         "heading": "Cosa pesa contro",
@@ -267045,6 +267348,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Proton ha un coupon sconto? Non c'è nessun coupon: lo sconto del Black Friday, fino al 75% di sconto, si apre dai link di Cecília, e il prezzo compare sul sito di Proton, nella valuta del tuo paese, con l'importo del rinnovo accanto.",
           "Proton VPN è gratis? Ha un piano gratuito, senza carta, e piani a pagamento. Secondo Proton, il piano gratuito non ha pubblicità né limiti di dati e connette 1 dispositivo alla volta.",
           "Proton VPN Free ha un limite di dati? Proton dice di no. I limiti del piano gratuito sono 1 dispositivo alla volta e server in 10 paesi scelti dall'app.",
           "Quanto costa Proton VPN Plus? Nei prezzi in dollari statunitensi che abbiamo letto, un anno costava $35.88 e l'offerta partner del nostro link $59.76 per i primi 24 mesi, entrambi pagati in anticipo. Il rinnovo annunciato era poi di $83.88 ogni 12 mesi; conferma valuta, idoneità e prezzo in vigore.",
@@ -267079,12 +267383,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Usi una VPN su più di un dispositivo o hai bisogno di scegliere il paese della connessione.",
-        "Vuoi il filtraggio di pubblicità e tracker di NetShield durante la connessione VPN."
+        "usi una VPN su più di un dispositivo o hai bisogno di scegliere il paese della connessione.",
+        "vuoi il filtraggio di pubblicità e tracker di NetShield durante la connessione VPN."
       ],
       "skipIf": [
-        "Il tuo uso è occasionale, su un solo dispositivo, e il paese della connessione non conta.",
-        "L'importo del rinnovo non rientra nel tuo budget."
+        "il tuo uso è occasionale, su un solo dispositivo, e il paese della connessione non conta.",
+        "l'importo del rinnovo non rientra nel tuo budget."
       ]
     }
   },
@@ -267109,7 +267413,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN, 유료로 쓸 만할까요? 무료와 Plus를 비교하세요. 저희 링크는 첫 24개월 $59.76, 이후 연 $83.88이며 기능과 조건을 확인할 수 있습니다.",
     "publishedAt": "2026년 11월 17일",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -267146,7 +267450,7 @@ export const reviewsData: unknown[] = [
           "**우선 지원과 라이브 채팅.**"
         ],
         "postParagraphs": [
-          "저희는 Proton VPN을 쓰지 않습니다. 속도, P2P, 스트리밍은 Proton이 안내하는 그대로 실었고 저희가 직접 측정한 것은 없으며, 어떤 동영상 서비스든 접속된다고 약속하지도 않습니다. 신뢰 측면과 감사 내용은 [Proton VPN은 안전할까요?](/ko/reviews/proton-vpn-trust-ko)에 있습니다."
+          "속도, P2P, 스트리밍은 Proton이 안내하는 그대로 실었으며, 어떤 동영상 서비스든 접속된다고 약속하지 않습니다. 신뢰 측면과 감사 내용은 [Proton VPN은 안전할까요?](/ko/reviews/proton-vpn-trust-ko)에 있습니다."
         ]
       },
       {
@@ -267254,7 +267558,14 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
           "alt": "Proton 요금 페이지의 VPN Plus 카드. 1년 플랜이 월 $2.99이고, 처음 12개월분으로 $35.88이 청구되며, 12개월마다 $83.88로 갱신된다고 표시되어 있습니다.",
           "caption": "Proton 요금 페이지의 1년 VPN Plus 카드. 총액과 갱신 요금은 작은 글씨로 적혀 있습니다."
-        }
+        },
+        "links": [
+          {
+            "label": "VPN Plus 보기",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "VPN Plus와 Proton Unlimited",
@@ -267262,7 +267573,8 @@ export const reviewsData: unknown[] = [
           "Proton Unlimited는 VPN, 이메일, 클라우드 저장소, 비밀번호 관리자의 유료 기능을 한 계정에 묶은 것입니다. 같은 페이지에서 1년 플랜은 $77.88이었고 12개월마다 $119.88로 갱신되었습니다.",
           "VPN Plus에 가입해도 다른 서비스는 무료 플랜을 그대로 쓸 수 있으며, 고객센터에 따르면 한 계정에 Plus 플랜을 여러 개 둘 수는 없습니다. 다른 서비스의 유료 기능도 쓸 계획이라면 Unlimited를 고려하세요. 서비스 두 개가 필요하다는 이유만으로 가장 경제적인 선택이라고 볼 수는 없습니다. Proton은 VPN과 Pass 묶음도 안내하므로 VPN과 비밀번호 관리자가 필요하다면 비교해 보세요. VPN만 필요하다면 1년 Plus는 첫 기간에 절반도 안 되는 금액($35.88 대 $77.88)이고, 갱신 때도 더 저렴합니다($83.88 대 $119.88).",
           "저희는 같은 회사의 Proton Mail을 무료 플랜으로 10년 가까이 써 왔습니다. 무료 이메일로 충분하다면 유료 VPN을 쓰기 위해 Unlimited가 필요하지는 않습니다."
-        ]
+        ],
+        "emphasis": "표의 숫자로 보면 유료 VPN만 필요한 사람에게는 1년 VPN Plus가 맞는 선택입니다. 첫 기간에 Unlimited의 $77.88보다 낮은 $35.88이고, 갱신 때도 $119.88보다 낮은 $83.88이기 때문입니다."
       },
       {
         "heading": "아쉬운 점",
@@ -267283,6 +267595,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "Proton에 할인 쿠폰이 있나요? 쿠폰은 없습니다. 최대 75% 할인인 블랙프라이데이 할인은 Cecília의 링크로 열리며, 가격은 Proton 사이트에 해당 국가의 통화로 표시되고 갱신 금액이 바로 옆에 함께 나옵니다.",
           "Proton VPN은 무료인가요? 카드가 필요 없는 무료 플랜이 있고, 유료 플랜도 있습니다. Proton에 따르면 무료 플랜에는 광고와 데이터 제한이 없고, 한 번에 기기 1대를 연결합니다.",
           "Proton VPN Free에 데이터 제한이 있나요? Proton은 없다고 밝힙니다. 무료 플랜의 제한은 한 번에 기기 1대와, 앱이 고르는 10개국의 서버입니다.",
           "Proton VPN Plus는 얼마인가요? 저희가 확인한 미국 달러 가격으로 1년은 $35.88, 저희 링크의 파트너 혜택은 첫 24개월 $59.76이며 모두 선결제입니다. 이후 갱신 안내는 12개월마다 $83.88이므로 통화, 대상 조건과 유효 가격을 확인하세요.",
@@ -267347,7 +267660,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPNは有料にする価値がある？無料とPlusを比較。当サイトのリンクは最初の24か月が$59.76、その後は年$83.88。機能と条件を確認。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -267384,7 +267697,7 @@ export const reviewsData: unknown[] = [
           "**優先サポートとライブチャット。**"
         ],
         "postParagraphs": [
-          "当サイトはProton VPNを使っていません。速度、P2P、ストリーミングはProtonの案内どおりに載せていて、当サイト自身の計測はなく、どの動画サービスにも接続できるとは約束しません。信頼性の面と監査については、[Proton VPNは安全？](/ja/reviews/proton-vpn-trust-ja)をご覧ください。"
+          "速度、P2P、ストリーミングはProtonの案内どおりに載せていて、どの動画サービスにも接続できるとは約束しません。信頼性の面と監査については、[Proton VPNは安全？](/ja/reviews/proton-vpn-trust-ja)をご覧ください。"
         ]
       },
       {
@@ -267492,7 +267805,14 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
           "alt": "Protonの料金ページにあるVPN Plusのカード。1年プランは月額$2.99、最初の12か月分として$35.88を請求し、12か月ごとに$83.88で更新されると表示されています。",
           "caption": "Protonの料金ページにある1年のVPN Plusのカード。合計額と更新料は小さな文字で書かれています。"
-        }
+        },
+        "links": [
+          {
+            "label": "VPN Plusを見る",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "VPN PlusかProton Unlimitedか",
@@ -267500,7 +267820,8 @@ export const reviewsData: unknown[] = [
           "Proton Unlimitedは、VPN、メール、クラウドストレージ、パスワード管理の有料機能を一つのアカウントにまとめたものです。同じページでは、1年プランが$77.88で、12か月ごとに$119.88で更新されていました。",
           "VPN Plusに加入しても、ほかのサービスは無料プランのまま使えます。ヘルプセンターによると、同じアカウントで複数のPlusプランを持つことはできません。ほかのサービスの有料機能も使うならUnlimitedを検討できますが、2つ必要というだけで最安とは判断できません。ProtonはVPNとPassのセットも案内しているため、VPNとパスワード管理が必要なら比較してください。VPNだけが欲しいなら、1年のPlusは最初の期間で半額未満（$35.88に対して$77.88）で、更新時も安い（$83.88に対して$119.88）です。",
           "当サイトは、同じ会社のProton Mailを無料プランで10年近く使っています。無料のメールで足りるなら、有料のVPNを使うためにUnlimitedは必要ありません。"
-        ]
+        ],
+        "emphasis": "表の数字で見ると、有料のVPNだけが必要な人には、1年のVPN Plusが適しています。最初の期間はUnlimitedの$77.88に対して$35.88で、更新時も$119.88に対して$83.88だからです。"
       },
       {
         "heading": "デメリット",
@@ -267521,6 +267842,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
+          "Protonに割引クーポンはありますか？ クーポンはありません。最大75%オフのブラックフライデー割引はCecíliaのリンクから開き、価格はProtonのサイトにお住まいの国の通貨で表示され、隣に更新時の金額も載っています。",
           "Proton VPNは無料ですか？ 無料プランがあり、カードは不要です。有料プランもあります。Protonによると、無料プランには広告もデータ量の制限もなく、同時に接続できるのは1台です。",
           "Proton VPN Freeにデータ量の制限はありますか？ Protonは、制限はないと述べています。無料プランの制限は、同時に1台までであることと、アプリが選ぶ10か国のサーバーです。",
           "Proton VPN Plusの料金はいくらですか？ 当サイトが確認した米ドル価格では1年が$35.88、当サイトのリンクのパートナーオファーは最初の24か月$59.76で、いずれも一括前払いです。その後の更新案内は12か月ごとに$83.88で、通貨・対象条件・有効価格を確認してください。",
@@ -267585,7 +267907,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN 值得買嗎？比較免費與 Plus：我們的連結首 24 個月 59.76 美元，之後每年 83.88 美元，查看功能與條件。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -267622,7 +267944,7 @@ export const reviewsData: unknown[] = [
           "**優先支援和即時聊天。**"
         ],
         "postParagraphs": [
-          "我們沒有使用 Proton VPN。速度、P2P 和串流在這裡都依 Proton 的宣傳列出，沒有我們自己的測量，也不保證能存取任何影音服務。信任面與稽核的內容，請見 [Proton VPN 安全嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)。"
+          "速度、P2P 和串流在這裡都依 Proton 的宣傳列出，也不保證能存取任何影音服務。信任面與稽核的內容，請見 [Proton VPN 安全嗎？](/zh-hant/reviews/proton-vpn-trust-zh-hant)。"
         ]
       },
       {
@@ -267730,7 +268052,14 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
           "alt": "Proton 價格頁面上的 VPN Plus 卡片：1 年方案每月 2.99 美元，前 12 個月一次扣款 35.88 美元，之後每 12 個月以 83.88 美元續訂。",
           "caption": "Proton 價格頁面上的 1 年 VPN Plus 卡片，總額和續訂價標在小字中。"
-        }
+        },
+        "links": [
+          {
+            "label": "查看 VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "VPN Plus 還是 Proton Unlimited",
@@ -267738,7 +268067,8 @@ export const reviewsData: unknown[] = [
           "Proton Unlimited 把 VPN、電子郵件、雲端儲存和密碼管理的付費功能合在同一個帳戶裡。同一頁面上，1 年方案是 77.88 美元，之後每 12 個月以 119.88 美元續訂。",
           "訂閱 VPN Plus 後，其他服務仍維持免費方案，說明中心也表示同一帳戶不能有多個 Plus 方案。若你也會用其他服務的付費功能，可以考慮 Unlimited；需要兩項服務本身並不能證明它最便宜。Proton 也有 VPN 加 Pass 的組合，若需要 VPN 和密碼管理器，請一併比較。如果你只要 VPN，1 年 Plus 首期不到一半的價格（35.88 美元對 77.88 美元），續訂時也仍然較便宜（83.88 美元對 119.88 美元）。",
           "我們使用同一家公司的 Proton Mail 免費方案，已經將近十年。如果免費電子郵件對你來說夠用，就不需要為了用付費 VPN 而選 Unlimited。"
-        ]
+        ],
+        "emphasis": "依表格中的數字，若只需要付費 VPN，選擇 1 年 VPN Plus 較合適，因為首期為 35.88 美元，低於 Unlimited 的 77.88 美元，續訂時也是 83.88 美元，低於 119.88 美元。"
       },
       {
         "heading": "不利的地方",
@@ -267759,6 +268089,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
+          "Proton 有折扣優惠碼嗎？沒有優惠碼：最高 75% 折扣的黑色星期五優惠透過 Cecília 的連結開啟，價格會以你所在國家的幣別顯示在 Proton 網站上，旁邊附有續訂金額。",
           "Proton VPN 免費嗎？有免費方案，不需要信用卡，另有付費方案。依 Proton 所述，免費方案沒有廣告、沒有流量限制，一次連 1 台裝置。",
           "Proton VPN 免費版有流量限制嗎？Proton 表示沒有。免費方案的限制是一次 1 台裝置，以及由應用程式挑選的 10 個國家的伺服器。",
           "Proton VPN Plus 要多少錢？我們查閱的美元價格為一年 35.88 美元，我們連結的合作夥伴優惠為首 24 個月 59.76 美元，均須預付。之後公布的續訂為每 12 個月 83.88 美元，請確認幣別、適用條件及有效價格。",
@@ -267823,7 +268154,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Proton VPN 值得买吗？比较免费与 Plus：我们的链接首 24 个月 59.76 美元，之后每年 83.88 美元，查看功能与条件。",
     "publishedAt": "2026年11月17日",
     "publishedAtISO": "2026-11-17",
-    "updatedAt": "2026-11-17",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -267860,7 +268191,7 @@ export const reviewsData: unknown[] = [
           "**优先支持和在线聊天。**"
         ],
         "postParagraphs": [
-          "我们没有使用 Proton VPN。速度、P2P 和流媒体在这里都按 Proton 的宣传列出，没有我们自己的测量，也不保证能访问任何视频服务。信任方面与审计的内容，请见 [Proton VPN 安全吗？](/zh-hans/reviews/proton-vpn-trust-zh-hans)。"
+          "速度、P2P 和流媒体在这里都按 Proton 的宣传列出，也不保证能访问任何视频服务。信任方面与审计的内容，请见 [Proton VPN 安全吗？](/zh-hans/reviews/proton-vpn-trust-zh-hans)。"
         ]
       },
       {
@@ -267968,7 +268299,14 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
           "alt": "Proton 价格页面上的 VPN Plus 卡片：1 年套餐每月 2.99 美元，前 12 个月一次性扣款 35.88 美元，之后每 12 个月按 83.88 美元续订。",
           "caption": "Proton 价格页面上的 1 年 VPN Plus 卡片，总额和续订价标在小字中。"
-        }
+        },
+        "links": [
+          {
+            "label": "查看 VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "VPN Plus 还是 Proton Unlimited",
@@ -267976,7 +268314,8 @@ export const reviewsData: unknown[] = [
           "Proton Unlimited 把 VPN、电子邮件、云存储和密码管理的付费功能合在同一个账户里。同一页面上，1 年套餐是 77.88 美元，之后每 12 个月按 119.88 美元续订。",
           "订阅 VPN Plus 后，其他服务仍保持免费套餐，帮助中心也表示同一账户不能有多个 Plus 套餐。若你也会用其他服务的付费功能，可以考虑 Unlimited；需要两项服务本身并不能证明它最便宜。Proton 也有 VPN 加 Pass 的组合，若需要 VPN 和密码管理器，请一并比较。如果你只要 VPN，1 年 Plus 首期不到一半的价格（35.88 美元对 77.88 美元），续订时也仍然更便宜（83.88 美元对 119.88 美元）。",
           "我们使用同一家公司的 Proton Mail 免费套餐，已经将近十年。如果免费电子邮件对你来说够用，就不需要为了用付费 VPN 而选 Unlimited。"
-        ]
+        ],
+        "emphasis": "按表格中的数字，若只需要付费 VPN，选择 1 年 VPN Plus 更合适，因为首期为 35.88 美元，低于 Unlimited 的 77.88 美元，续订时也是 83.88 美元，低于 119.88 美元。"
       },
       {
         "heading": "不利的地方",
@@ -267997,6 +268336,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
+          "Proton 有折扣优惠码吗？没有优惠码：最高 75% 折扣的黑色星期五优惠通过 Cecília 的链接打开，价格会以你所在国家的币种显示在 Proton 网站上，旁边附有续订金额。",
           "Proton VPN 免费吗？有免费套餐，不需要银行卡，另有付费套餐。按 Proton 的说法，免费套餐没有广告、没有流量限制，一次连 1 台设备。",
           "Proton VPN 免费版有流量限制吗？Proton 表示没有。免费套餐的限制是一次 1 台设备，以及由应用挑选的 10 个国家的服务器。",
           "Proton VPN Plus 要多少钱？我们查阅的美元价格为一年 35.88 美元，我们链接的合作伙伴优惠为首 24 个月 59.76 美元，均须预付。之后公布的续订为每 12 个月 83.88 美元，请确认币种、适用条件及有效价格。",
@@ -284889,7 +285229,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Veja como abrir o link de indicação da Starlink, achar o valor no pedido e receber a recompensa depois de cumprir as condições do programa.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/starlink/starlink-indicacao-como-usar-hero-pt-v2.webp",
@@ -284931,7 +285271,9 @@ export const reviewsData: unknown[] = [
           "Quem mora em Portugal também pode usar o link: no pedido português com a nossa indicação, a Starlink mostrou 45 € para quem assina, em dinheiro ou como crédito de serviço. Em Moçambique, a Starlink vende pelo site, e o valor aparece no pedido. Em Angola, ela ainda não vende o serviço.",
           "A assinatura precisa ficar ativa e em dia por dois ciclos mensais completos. A central de ajuda diz que a emissão pode começar a partir de 60 dias da ativação, conforme o país, a conta e a verificação de identidade.",
           "A forma padrão é crédito na fatura. Se a conta oferecer pagamento em dinheiro, abra Indicações no site pelo navegador, escolha o método de recompensa e conclua a identificação e o cadastro bancário na Stripe."
-        ]
+        ],
+        "emphasis": "A recompensa só sai depois de dois ciclos mensais completos de assinatura em dia, em crédito na fatura por padrão, e vale o mesmo valor para quem assina e para quem indicou; o valor do seu país aparece no pedido.",
+        "emphasisAfterParagraph": 4
       },
       {
         "heading": "Quem pode usar",
@@ -284964,6 +285306,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
           "Como funciona a indicação da Starlink? Faça o pedido em starlink.com pelo link. Confira a indicação aplicada, ative o kit e mantenha o serviço elegível em dia por dois ciclos mensais completos.",
           "Quanto vale a indicação da Starlink? Na tela brasileira com a nossa indicação, apareceu R$ 200 para quem assina. Confira o valor no seu pedido.",
           "Quando cai a recompensa da Starlink? A central de ajuda informa que a emissão pode começar a partir de 60 dias da ativação, se a indicação cumprir as condições do programa.",
@@ -284994,7 +285337,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "você vai assinar a Starlink de qualquer forma e quer abrir o pedido pelo link para a indicação constar nele.",
+        "você é cliente novo e consegue manter a assinatura em dia por dois ciclos mensais completos até a recompensa ser liberada."
+      ],
+      "skipIf": [
+        "você já é ou já foi cliente da Starlink, porque a recompensa é só para quem assina pela primeira vez.",
+        "você vai comprar em revendedor ou marketplace, porque a indicação só vale em compra feita direto em starlink.com pelo link."
+      ]
+    }
   },
   {
     "id": 1121,
@@ -285017,7 +285370,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink Max com kit a R$ 49 e 30% na mensalidade por 12 meses, em áreas selecionadas. Veja a conta após a recompensa e confira seu endereço.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/starlink/black-friday-starlink-hero-pt-v2.webp",
@@ -285077,6 +285430,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Para receber a recompensa, a indicação precisa ser elegível e o serviço deve ficar ativo e em dia por dois ciclos mensais completos. A Starlink oferece crédito na fatura e, conforme a conta, pagamento em dinheiro."
+        ],
+        "emphasis": "Pelos números da tabela, quem recebe a oferta no pedido paga R$ 223,30 pelo kit e pelo primeiro mês; com o crédito de R$ 200 da indicação, que entra na fatura depois de dois ciclos mensais completos, o custo líquido desses dois itens cai para R$ 23,30.",
+        "links": [
+          {
+            "label": "Ver planos no seu endereço",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -285130,6 +285491,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
           "A Starlink tem Black Friday? A oferta de fim de novembro mostra kit a R$ 49 e 30% na mensalidade do Max por 12 meses, para clientes novos em áreas selecionadas.",
           "A indicação soma com a oferta? Na tela brasileira consultada, o preço promocional e a indicação de R$ 200 apareceram juntos. A recompensa depende da elegibilidade e de dois ciclos mensais completos.",
           "Quanto é cobrado no pedido? Na tela consultada do Max, eram R$ 49 pelo equipamento. A primeira mensalidade, de R$ 174,30, ficou para depois.",
@@ -285158,7 +285520,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "o pedido do seu endereço mostra o kit a preço baixo e o desconto na mensalidade do Max.",
+        "você aceita o contrato de 12 meses do kit e espera dois ciclos mensais para a recompensa."
+      ],
+      "skipIf": [
+        "o endereço não mostra a oferta no pedido, porque o exemplo vale só para as áreas lidas.",
+        "você pode sair antes dos 12 meses e não quer arriscar a multa do kit."
+      ]
+    }
   },
   {
     "id": 1122,
@@ -285181,7 +285553,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink vale a pena? Conta de 12 meses com kit e contrato, preços por endereço, para quem faz sentido e quando a fibra ou o 4G saem melhor.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/starlink/starlink-vale-a-pena-hero-pt-v2.webp",
@@ -285226,6 +285598,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O Residencial 100 Mbps apareceu com o Mini X a R$ 299 nos dois endereços. A mensalidade era de R$ 207,90 na Paulista e R$ 132,30 em Alto Paraíso. Como a tela de Alto Paraíso não dizia quanto duraria esse preço, compare a duração que aparecer no seu pedido.",
           "Quando for calcular o custo no seu endereço, faça a conta primeiro sem a recompensa. Na tela com a nossa indicação, a Starlink mostrou R$ 200 após cumprir as regras do programa. Veja a [indicação Starlink](/cupons/starlink)."
+        ],
+        "links": [
+          {
+            "label": "Ver planos no seu endereço",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -285251,7 +285630,9 @@ export const reviewsData: unknown[] = [
         "heading": "Quando comparar com fibra ou 4G",
         "paragraphs": [
           "Se já chega fibra estável, compare a soma de instalação, mensalidades e eventual fidelidade de cada proposta. Para 4G, inclua o preço do equipamento que você precisar e confira se o plano tem franquia suficiente para a casa."
-        ]
+        ],
+        "emphasis": "Sem fibra estável nem 4G decente no endereço, a Starlink entra na conta; com fibra estável, só compensa trocar se o total de 12 meses, kit e mensalidades somados, ficar abaixo do que a conexão atual custa.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Velocidade e jogos",
@@ -285279,14 +285660,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Nossa experiência até aqui",
-        "paragraphs": [
-          "Já assinamos a Starlink, mas ainda não há experiência de uso. Velocidade, instalação e qualidade no dia a dia entram numa atualização deste artigo, quando existirem."
-        ]
-      },
-      {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
           "Starlink vale a pena na cidade? Com fibra estável no endereço, compare instalação, mensalidades e fidelidade antes de trocar.",
           "Starlink é melhor que fibra? Sem boa fibra no local, vale cotar a Starlink e verificar se há céu aberto para instalar. Se ambas estiverem disponíveis, compare estabilidade e custo no seu endereço.",
           "Starlink é boa para jogos? Teste a latência e as interrupções no seu endereço. A faixa típica que a Starlink publica é uma referência geral.",
@@ -285297,12 +285673,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você não tem fibra boa no endereço e o 4G também é fraco.",
-        "Você aceita 12 meses de contrato e sabe que o preço muda pelo endereço no pedido."
+        "você não tem fibra boa no endereço e o 4G também é fraco.",
+        "você aceita 12 meses de contrato e sabe que o preço muda pelo endereço no pedido."
       ],
       "skipIf": [
-        "Você tem fibra estável no endereço, sem kit para comprar nem contrato de 12 meses.",
-        "Você precisa de jogo online com resposta rápida, e a empresa não publica latência na página que lemos."
+        "você tem fibra estável no endereço, sem kit para comprar nem contrato de 12 meses.",
+        "você precisa de jogo online com resposta rápida garantida: a Starlink publica uma faixa típica de latência, mas não promete o número para o seu endereço."
       ]
     },
     "pros": [],
@@ -285314,7 +285690,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Preços lidos na tela de pedido do site oficial. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+    "editorialNote": "Preços lidos na tela de pedido do site oficial. Ainda não usamos o serviço. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
     "relatedArticles": [
       {
         "slug": "starlink-fidelidade-como-cancelar"
@@ -285348,7 +285724,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "A Starlink tem fidelidade de 12 meses no kit com desconto, com multa de até 1.099 reais. Veja os 30 dias para devolver e o que muda ao cancelar.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/starlink/starlink-fidelidade-como-cancelar-capa.webp",
@@ -285388,7 +285764,8 @@ export const reviewsData: unknown[] = [
           "caption": "O kit que volta na devolução: antena, roteador, base e cabos. Foto da Starlink.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "emphasis": "Pelas regras do pedido, quem cancela e devolve o kit sem danos em até 30 dias do pagamento pede o reembolso do kit e do primeiro mês; depois disso, valem o contrato de 12 meses e a multa de até R$ 1.099."
       },
       {
         "heading": "Como cancelar",
@@ -285431,6 +285808,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
           "A Starlink tem fidelidade? No pedido consultado do Max com kit a R$ 49, o contrato era de 12 meses.",
           "Qual a multa para cancelar a Starlink? A oferta consultada informa até R$ 1.099. Confira o valor aplicável ao seu pedido antes de confirmar o cancelamento.",
           "Posso cancelar a Starlink a qualquer momento? A solicitação pode ser feita pela conta. Se houver contrato de 12 meses e você sair antes, confira a multa aplicável.",
@@ -285453,7 +285831,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-reclame-aqui-nota-reputacao"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "você quer pagar o kit com desconto e aceita o contrato de 12 meses.",
+        "você vai ler o pedido do seu endereço antes de pagar e guardar o comprovante da devolução."
+      ],
+      "skipIf": [
+        "você pode cancelar antes dos 12 meses e não quer arriscar a multa de rescisão.",
+        "você não vai devolver o kit sem danos dentro dos 30 dias."
+      ]
+    },
+    "cta": {
+      "text": "O pedido abre no site da Starlink. Confira o contrato, a multa e a devolução do kit antes de pagar.",
+      "label": "Consultar o contrato no meu endereço",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1124,
@@ -285476,7 +285870,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Veja como reconhecer o site oficial da Starlink, identificar o perfil verificado no Reclame Aqui e consultar a lista de revendedores autorizados.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/starlink/starlink-e-confiavel-capa.webp",
@@ -285487,7 +285881,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Starlink é o serviço de internet via satélite da SpaceX. O site oficial é starlink.com. No Reclame Aqui, procure o perfil verificado “Starlink Brazil”. Se comprar o kit fora do site, confira a lista de revendedores autorizados da Starlink e confirme quem vende o anúncio antes de pagar."
+          "A Starlink é o serviço de internet via satélite da SpaceX, e o site oficial é starlink.com. No Reclame Aqui, o perfil verificado é o “Starlink Brazil”. Se for comprar o kit fora do site, confira a lista de revendedores autorizados da Starlink e veja quem vende o anúncio antes de pagar."
         ]
       },
       {
@@ -285539,7 +285933,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No semestre de maio a outubro de 2026, o perfil verificado registrou reputação Boa e nota 7,8. Em setembro, a reputação mensal passou de Ótima para Boa.",
+          "No semestre de maio a outubro de 2026, o perfil verificado “Starlink Brazil” recebeu 2.017 reclamações e respondeu a todas. A reputação ficou Boa, com nota 7,8, 77,1% de reclamações resolvidas e 75% dos consumidores dizendo que voltariam a fazer negócio. Em setembro, a reputação mensal passou de Ótima para Boa.",
           "A [análise completa da reputação](/reviews/starlink-reclame-aqui-nota-reputacao) traz os números, o que mais gera reclamação e como a empresa responde."
         ]
       },
@@ -285547,14 +285941,21 @@ export const reviewsData: unknown[] = [
         "heading": "O que guardar depois de comprar",
         "bullets": [
           "Guarde o número do pedido, o preço que apareceu no checkout e o e-mail de confirmação. Se houver divergência, fale com o suporte pelo site ou pelo aplicativo."
-        ]
+        ],
+        "paragraphs": [
+          "Depois do pedido, o registro do que você contratou resolve a maior parte das divergências."
+        ],
+        "emphasis": "Pelo que o site oficial e a lista de varejistas autorizados mostram, para quem vai comprar o kit, a escolha segura é pedir em starlink.com ou num varejista da lista e guardar pedido, preço do checkout e e-mail de confirmação, porque nenhum dos dois caminhos pede pagamento fora do pedido.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
           "A Starlink é confiável? A Starlink é o serviço de internet via satélite da SpaceX. No Brasil, confira o site starlink.com e o perfil verificado “Starlink Brazil” no Reclame Aqui.",
           "Qual é o site oficial da Starlink? A versão brasileira fica em starlink.com/br.",
-          "Como confirmar se um vendedor é autorizado? Veja a lista de varejistas da Starlink e confira o vendedor do anúncio antes de pagar."
+          "Como confirmar se um vendedor é autorizado? Veja a lista de varejistas da Starlink e confira o vendedor do anúncio antes de pagar.",
+          "Devo comprar pelo site oficial ou por um revendedor? No site oficial, o pedido mostra plano, kit e total antes do pagamento, e a indicação só vale ali. Um varejista da lista oficial é um vendedor legítimo, mas a indicação não se aplica."
         ]
       }
     ],
@@ -285572,7 +285973,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-vale-a-pena"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "você vai comprar o kit pelo site oficial e quer conferir plano, kit e total antes de pagar.",
+        "você encontrou o kit num revendedor e quer saber se o vendedor consta na lista da Starlink."
+      ],
+      "skipIf": [
+        "o anúncio ou a mensagem pede pagamento fora do pedido: não pague e confirme antes com o suporte da Starlink.",
+        "o endereço no navegador não é starlink.com: não informe nenhum dado."
+      ]
+    },
+    "cta": {
+      "text": "Informe seu endereço no site da Starlink e confira plano, kit e mensalidade antes de pagar.",
+      "label": "Ver planos no meu endereço",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1125,
@@ -285592,10 +286009,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Veja a nota, quantas pessoas avaliaram o atendimento e quais queixas aparecem no perfil verificado Starlink Brazil. Saiba como registrar a sua reclamação.",
-    "metaDescription": "Starlink no Reclame Aqui: nota 7,8 e reputação Boa no perfil verificado Starlink Brazil. Veja as queixas mais frequentes e como reclamar.",
+    "metaDescription": "Starlink no Reclame Aqui: nota 7,8 e reputação Boa no perfil verificado Starlink Brazil. Veja as janelas de 6 e 12 meses e as queixas mais frequentes.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "bodyDatesReason": "reclame-aqui",
@@ -285607,60 +286024,79 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O perfil verificado Starlink Brazil teve reputação Boa, com nota 7,8 de maio a outubro de 2026. Das 2.019 reclamações registradas, todas tiveram resposta. A plataforma contabilizou 853 avaliações e mostrou que 77% das queixas avaliadas foram resolvidas. Para consultar a operadora, procure o perfil que aponta para starlink.com."
+          "O perfil verificado Starlink Brazil tem reputação Boa e nota 7,8 no Reclame Aqui nos últimos seis meses, depois de quatro meses em Ótima. Todas as 2.017 reclamações recebidas foram respondidas, e 77,1% das 860 avaliadas foram resolvidas. A nota 7,8 é da plataforma; a média dos consumidores é 6,73."
         ]
       },
       {
         "heading": "A nota e a queda",
         "paragraphs": [
-          "A reputação mensal foi Ótima de maio a agosto e Boa em setembro e outubro. O perfil mostra a mudança de faixa, sem apontar sua causa."
+          "A reputação mensal foi Ótima de maio a agosto de 2026 e Boa em setembro e outubro. O perfil mostra a mudança de faixa, sem apontar sua causa. A tabela compara as três janelas do perfil."
         ],
         "comparisonTable": {
           "headers": [
             "Indicador",
-            "Starlink Brazil"
+            "6 meses",
+            "12 meses",
+            "Geral"
           ],
           "rows": [
             [
               "Reputação e nota do perfil",
-              "Boa, 7,8 de 10"
+              "Boa, 7,8 de 10",
+              "Ótima, 8,0 de 10",
+              "Boa, 7,6 de 10"
             ],
             [
               "Reclamações recebidas",
-              "2.019"
+              "2.017",
+              "3.501",
+              "7.351"
             ],
             [
               "Respondidas",
-              "100%"
+              "100%",
+              "100%",
+              "97,9% (147 aguardando)"
             ],
             [
               "Tempo médio de resposta",
-              "5 dias e 19 horas"
+              "5 dias e 19 horas",
+              "4 dias e 12 horas",
+              "4 dias e 18 horas"
             ],
             [
-              "Reclamações avaliadas",
-              "853"
+              "Reclamações avaliadas (do total)",
+              "860 de 2.017",
+              "1.639 de 3.501",
+              "3.173 de 7.351"
+            ],
+            [
+              "Resolvidas (das avaliadas)",
+              "77,1%",
+              "79,5%",
+              "75,5%"
+            ],
+            [
+              "Voltariam a fazer negócio (das avaliadas)",
+              "75%",
+              "76,4%",
+              "72,7%"
             ],
             [
               "Nota média do consumidor",
-              "6,74 de 10"
-            ],
-            [
-              "Resolvidas",
-              "77%"
-            ],
-            [
-              "Voltariam a fazer negócio",
-              "74,9%"
+              "6,73 de 10",
+              "6,95 de 10",
+              "6,57 de 10"
             ]
           ],
-          "caption": "Leitura do perfil verificado, no semestre de maio a outubro."
+          "caption": "Perfil verificado Starlink Brazil, lido em 23/11/2026. 6 meses: 01/05 a 31/10/2026. 12 meses: 01/11/2025 a 31/10/2026. Geral: 24/11/2023 a 23/11/2026."
         }
       },
       {
         "heading": "Como a empresa responde",
         "paragraphs": [
-          "O Reclame Aqui calcula os índices de solução e de intenção de voltar a comprar a partir das reclamações avaliadas. A nota 7,8 é a reputação que a plataforma calcula para o perfil. A nota 6,74 é a média dada pelos consumidores que avaliaram."
+          "O Reclame Aqui calcula os índices de solução e de intenção de voltar a comprar só a partir das reclamações avaliadas: 860 das 2.017 recebidas nos seis meses. Por isso esses percentuais não valem para todos os clientes.",
+          "A nota 7,8 é a reputação que a plataforma calcula para o perfil. A nota 6,73 é a média dada pelos consumidores que avaliaram. Nos seis meses, o perfil respondeu a todas as reclamações, com tempo médio de 5 dias e 19 horas; na aba Geral, 147 reclamações aguardam resposta."
         ]
       },
       {
@@ -285690,13 +286126,6 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Antes de assinar",
-        "paragraphs": [
-          "Antes de assinar, confira o site e o contrato. Como reconhecer o site oficial e os perfis que usam o nome está em [a Starlink é confiável?](/reviews/starlink-e-confiavel).",
-          "Se for assinar, a página da [indicação Starlink](/cupons/starlink) tem o link e as regras do programa."
-        ]
-      },
-      {
         "heading": "Como reclamar",
         "paragraphs": [
           "Abra um atendimento no site ou no aplicativo da Starlink e guarde o protocolo. Se a cobrança divergir do pedido, envie o valor que apareceu na oferta e a fatura. Se precisar registrar uma queixa, procure o perfil verificado Starlink Brazil no Reclame Aqui."
@@ -285713,9 +286142,18 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Antes de assinar",
+        "paragraphs": [
+          "Antes de assinar, confira o site e o contrato. Como reconhecer o site oficial e os perfis que usam o nome está em [a Starlink é confiável?](/reviews/starlink-e-confiavel).",
+          "A página da [indicação Starlink](/cupons/starlink) tem o link e as regras do programa. A indicação não é cupom: a recompensa cai como crédito na fatura depois de dois meses de assinatura, e os planos Prioritário, Enterprise e Comercial não ganham."
+        ],
+        "emphasis": "Pelos números da tabela, para quem depende da Starlink no endereço, a escolha é assinar depois de conferir plano, kit e contrato no pedido, porque a nota 7,8 mede o atendimento às reclamações no Reclame Aqui, e não a qualidade do sinal."
+      },
+      {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é a nota da Starlink no Reclame Aqui? O perfil verificado Starlink Brazil teve nota 7,8 e reputação Boa no semestre consultado. A média dada pelos consumidores foi 6,74.",
+          "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
+          "Qual é a nota da Starlink no Reclame Aqui? O perfil verificado Starlink Brazil tem nota 7,8 e reputação Boa nos últimos seis meses; em 12 meses são 8,0 e Ótima. A média dada pelos consumidores nos seis meses é 6,73.",
           "Qual perfil da Starlink devo consultar? Procure o perfil verificado “Starlink Brazil”, que aponta para starlink.com.",
           "Como reclamar da Starlink? Abra um atendimento pelo site ou pelo aplicativo e guarde o protocolo. Se o problema continuar, registre a queixa no perfil verificado no Reclame Aqui."
         ]
@@ -285735,7 +286173,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-vale-a-pena"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "você já escolheu a Starlink e quer saber como a operadora responde a quem reclama no Reclame Aqui.",
+        "você vai guardar a oferta do pedido e conferir a fatura todo mês."
+      ],
+      "skipIf": [
+        "você espera que a nota diga se o sinal é bom: ela mede o atendimento às reclamações, não a internet.",
+        "você só olha a nota geral e ignora que a reputação caiu de Ótima para Boa em setembro."
+      ]
+    },
+    "cta": {
+      "text": "Informe seu endereço no site da Starlink e confira plano, kit e mensalidade antes de pagar.",
+      "label": "Ver planos no meu endereço",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1126,
@@ -285758,7 +286212,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "See how to open the Starlink referral link, find the reward on your order and collect it after you meet the program's conditions.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -285801,7 +286255,9 @@ export const reviewsData: unknown[] = [
           "On the order we saw in Nevada with our link, Starlink showed $100 for the person who signs up. The person who refers also gets the same amount, in cash or as service credit.",
           "The subscription has to stay active and paid up for two full monthly cycles. The help center says issuance can start from 60 days after activation, depending on the country, the account and the identity check.",
           "The default is credit on your invoice. If your account offers cash, open Referrals on the website in a browser and choose the reward method there."
-        ]
+        ],
+        "emphasis": "The reward is released only after two full monthly cycles of an active, paid subscription, as credit on the bill by default, and the person who signs up and the person who referred get the same amount; the amount for your country shows on the order.",
+        "emphasisAfterParagraph": 3
       },
       {
         "heading": "Who can use it",
@@ -285833,6 +286289,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "Does Starlink have a discount coupon? No. Starlink has no coupon: through Cecília's referral link, the person who subscribes gets US$ 100 in the US (£ 40 in the UK) after two months of subscription, as credit on the bill, and the person who referred gets the same amount.",
           "How does the Starlink referral work? Place the order on starlink.com through the link. Check that the referral shows as applied, activate the kit and keep the service active and paid for two full monthly cycles.",
           "How much is the Starlink referral worth? On the Nevada order with our link, $100 showed up for the person who signs up. Check the amount on your own order.",
           "When does the Starlink referral reward arrive? The help center says issuance can start from 60 days after activation, if the referral meets the program conditions.",
@@ -285862,7 +286319,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "you plan to subscribe to Starlink anyway and want the referral on the original order.",
+        "you are a new customer and can keep the service active and paid for two full monthly cycles until the reward is released."
+      ],
+      "skipIf": [
+        "you are or were a Starlink customer, because the reward is only for first-time subscribers.",
+        "you would buy from a retailer or marketplace, because the referral only counts on orders placed on starlink.com through the link."
+      ]
+    }
   },
   {
     "id": 1127,
@@ -285885,7 +286352,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "In Reno, Starlink showed 30% off service, a $0 rental kit and plans from $38.50 a month. See what the order costs and check your own address.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -285941,6 +286408,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "To get the reward, the referral has to be eligible and the service has to stay active and paid up for two full monthly cycles. Starlink offers credit on the invoice and, depending on the account, payment in cash."
+        ],
+        "emphasis": "By the numbers in the table, the order showed $21.65 due today and plans from $38.50 a month, and the $100 referral reward only lands after two full monthly cycles, so the first bills come out of pocket.",
+        "links": [
+          {
+            "label": "See plans at your address",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -285992,6 +286467,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "Does Starlink have a discount code? No. Starlink has no coupon: through Cecília's referral link, a new subscriber gets $100 in the US and £40 in the UK after two months of service, as a credit on the bill, and the person who referred gets the same amount.",
           "Does Starlink have a Black Friday deal? The order page we read shows 30% off service plans in select areas for those who sign up before the end of the month, with a $0 rental kit.",
           "Does the referral stack with the offer? The plan offer and the referral are separate lines on the order. The Nevada order with our link showed the $100 referral next to a total due of $20 plus taxes. The reward depends on eligibility and two full monthly cycles.",
           "How much do you pay when you order? The Reno order page showed $21.65 due today. The first monthly bill follows after that.",
@@ -286020,7 +286496,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "the order for your address shows the plan offer and the kit terms before you pay.",
+        "you can wait two full monthly cycles for the referral reward and pay the bills in between."
+      ],
+      "skipIf": [
+        "your order page does not show the offer, since the prices we read are for one city.",
+        "you may leave soon and cannot risk returning the kit or losing the promotional price."
+      ]
+    }
   },
   {
     "id": 1128,
@@ -286043,7 +286529,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Is Starlink worth it? Plan prices by address, the rental kit, who it suits and when fiber or cellular comes out ahead.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -286086,6 +286572,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Residential 100 Mbps included the Starlink V5 with the Router Mini. Max came with the Standard rental kit and $0 professional installation. For 100 Mbps, professional installation was optional, at $99. Prices change with the address you enter, so make this calculation on your own order page.",
           "Work out the cost before the reward. In the Nevada screenshot with our link, the order displayed a $100 referral offer subject to eligibility. See the [Starlink referral page](/en/coupons/starlink)."
+        ],
+        "links": [
+          {
+            "label": "See plans at your address",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -286111,7 +286604,9 @@ export const reviewsData: unknown[] = [
         "heading": "When to compare with fiber or cellular",
         "paragraphs": [
           "If stable fiber or cable already reaches you, compare the installation, the monthly bills and any equipment fee of each offer. For a cellular home plan, add the price of the device you would need and check that the data allowance fits your household."
-        ]
+        ],
+        "emphasis": "With no stable fiber or decent cellular signal at the address, Starlink belongs in the comparison; with stable fiber already there, switching only pays off if the kit and the monthly bills over the months you plan to stay add up to less than the current connection costs.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Speed and gaming",
@@ -286139,14 +286634,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Our experience so far",
-        "paragraphs": [
-          "We have signed up for Starlink, but we do not have usage experience yet. Speed, installation and day-to-day quality will go into an update of this article when we do."
-        ]
-      },
-      {
         "heading": "Frequently asked questions",
         "bullets": [
+          "Does Starlink have a discount coupon? No. Starlink has no coupon: through Cecília's referral link, the person who subscribes gets US$ 100 in the US (£ 40 in the UK) after two months of subscription, as credit on the bill, and the person who referred gets the same amount.",
           "Is Starlink worth it in a city? With stable fiber at your address, compare installation, monthly bills and any equipment fee before you switch.",
           "Is Starlink better than fiber? Without good fiber at your location, it is worth pricing Starlink and checking for open sky to mount the dish. If both are available, compare stability and cost at your address.",
           "Is Starlink good for gaming? Test the latency and the interruptions at your own address. The typical range Starlink publishes is a general reference.",
@@ -286157,12 +286647,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "No stable fiber or cable reaches your address and cellular home internet is weak there.",
-        "You are fine with a rental kit that goes back if you cancel, and you will check the price on your own order page."
+        "no stable fiber or cable reaches your address and cellular home internet is weak there.",
+        "you are fine with a rental kit that goes back if you cancel, and you will check the price on your own order page."
       ],
       "skipIf": [
-        "Stable fiber or cable already reaches you, so Starlink would only add a second bill.",
-        "You depend on online gaming with fast response, and the company does not promise a latency figure for your address."
+        "stable fiber or cable already reaches you, so Starlink would only add a second bill.",
+        "you depend on online gaming with fast response, and the company does not promise a latency figure for your address."
       ]
     },
     "pros": [],
@@ -286174,7 +286664,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Prices read on the official order page, without completing a purchase. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "editorialNote": "Prices read on the official order page, without completing a purchase. We have not used the service yet. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
     "relatedArticles": [
       {
         "slug": "starlink-contract-cancel-refund"
@@ -286208,7 +286698,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink offers the kit as a rental you return if you cancel. See the 30-day refund, how to cancel in your account and what changes afterward.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -286243,7 +286733,8 @@ export const reviewsData: unknown[] = [
           "caption": "The kit that goes back on a return: dish, router, stand and cables. Photo from Starlink.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "emphasis": "By the terms on the order page, cancelling and returning the kit undamaged within 30 days of the payment due date is what triggers the refund of the kit and the first month, so the shipping receipt is the proof that decides it."
       },
       {
         "heading": "How to cancel",
@@ -286274,6 +286765,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "Does Starlink have a discount code? No. Starlink has no coupon: through Cecília's referral link, a new subscriber gets $100 in the US and £40 in the UK after two months of service, as a credit on the bill, and the person who referred gets the same amount.",
           "Does Starlink have a contract? On the order page we read, the kit was a rental with $0 upfront and $0 a month. Confirm the terms on the summary of your own order.",
           "What is the fee to cancel Starlink? We did not see an early cancellation fee on the page we read. Check the summary of your order before you confirm the cancellation.",
           "Can I cancel Starlink at any time? You can request it from your account. Cancelling stops future charges, and you have to return the rented hardware.",
@@ -286296,7 +286788,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-trustpilot-reviews"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "you can return the rented kit undamaged within 30 days if you cancel.",
+        "you will read the terms on your own order summary before paying."
+      ],
+      "skipIf": [
+        "you cannot send the kit back in good condition by the deadline.",
+        "your order summary shows a contract term or cancellation fee you do not accept."
+      ]
+    },
+    "cta": {
+      "text": "The order opens on the Starlink site. Check the contract, the fees and the kit return before you pay.",
+      "label": "Check the terms at my address",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1130,
@@ -286319,7 +286827,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "See how to recognize the official Starlink site, spot look-alike profiles on Trustpilot and check the list of authorized retailers.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -286331,13 +286839,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Starlink is the satellite internet service from SpaceX, and its official site is starlink.com. If you buy hardware anywhere else, check Starlink's list of authorized retailers and look up who the seller behind the listing is before you pay. Starlink also publishes a notice on phishing in its help center."
+          "Starlink is the satellite internet service from SpaceX, and its official site is starlink.com. On Trustpilot, the profile that points to starlink.com is “Starlink Development”. If you buy the kit anywhere else, check Starlink's list of authorized retailers and see who the seller behind the listing is before you pay."
         ]
       },
       {
         "heading": "Who Starlink is and where it sells",
         "paragraphs": [
-          "Starlink sells through its official site. The order pages we read for this series are on starlink.com, where the plan, the kit and the total due are shown before payment.",
+          "Starlink sells through its official site. The order page on starlink.com shows the plan, the kit, the tax and the contract term for your address before you pay.",
           "Our analysis of [when Starlink is worth it](/en/reviews/is-starlink-worth-it) shows how to compare price, installation and alternatives at your address."
         ],
         "image": {
@@ -286352,7 +286860,13 @@ export const reviewsData: unknown[] = [
         "heading": "How to recognize the official site",
         "paragraphs": [
           "Type starlink.com into your browser. Before you enter any details or pay, check that you are still on starlink.com.",
-          "If anyone asks you to pay by message or outside the order page, confirm with Starlink support before you go on."
+          "Check plan, kit (rent or buy), tax and contract term in the order for your own address. If anyone asks you to pay by message or outside the order page, confirm with Starlink support before you go on."
+        ]
+      },
+      {
+        "heading": "Messages that use the Starlink name",
+        "paragraphs": [
+          "Starlink's help center has a notice on phishing. If an ad or a message in Starlink's name reaches you, confirm on starlink.com before you pay or give any data. If it leads to another address, enter nothing and open the site again by typing the address yourself."
         ]
       },
       {
@@ -286375,31 +286889,39 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "What customer reviews show",
+        "heading": "What Trustpilot shows",
         "paragraphs": [
-          "On Trustpilot, the starlink.com profile has a TrustScore of 1.6 from 871 reviews, and the profile is unclaimed. Reviewers often point to support that is hard to reach.",
-          "Our [full reading of the Trustpilot profile](/en/reviews/starlink-trustpilot-reviews) has the numbers and what people complain about most."
+          "On Trustpilot, the starlink.com profile has a TrustScore of 1.6 out of 5 from 879 reviews: 71% are 1-star and 17% are 5-star. The profile is unclaimed, so Starlink has not taken it over, and it has replied to 0% of the reviews.",
+          "We read the 40 most recent 1-star and the 40 most recent 5-star reviews. In the 1-star ones, the most common complaints are support that is only a bot or chat (about 1 in 3), dropouts and slow speeds (about 1 in 3), a monthly price that rose after signing up (about 1 in 4), billing and hard cancellations (about 1 in 4), installers from partner companies who are late or do not show (about 1 in 4) and a late or missing kit (about 1 in 5). The 5-star ones praise speed and stability (about half), easy setup (about 1 in 3) and having no other good internet option (about 1 in 4). The counts are ours and approximate.",
+          "Read the score with care: an unclaimed profile sends no invitations after a purchase, and people who open one are often there to complain. Praise is about the signal, complaints are about support, price and billing, and few 1-star reviews say the signal is bad all the time. Trustpilot's automatic summary, based on 355 recent reviews, points the same way. Our [full reading of the Trustpilot profile](/en/reviews/starlink-trustpilot-reviews) has the numbers."
         ]
       },
       {
         "heading": "What to keep after you buy",
+        "paragraphs": [
+          "Once the order is placed, a record of what you agreed to settles most disputes."
+        ],
         "bullets": [
           "Keep the order number, the price shown at checkout and the confirmation email. If something does not match, contact support through the website or the app."
-        ]
+        ],
+        "emphasis": "From what the official site and the retailer list show, for anyone about to buy the kit, the safe choice is to order on starlink.com or from a listed retailer and keep the order number, the checkout price and the confirmation email, because neither route asks for payment outside the order.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "Does Starlink have a coupon? No. Starlink has no coupon code: through Cecília's referral link, a new subscriber gets US$ 100 in the US (£ 40 in the UK) after two months of service, as a credit on the bill, and the person who referred gets the same amount.",
           "Is Starlink legit? Starlink is the satellite internet service from SpaceX. Check that you are on starlink.com, and use the list of authorized retailers if you buy elsewhere.",
           "What is the official Starlink website? The official site is starlink.com.",
-          "How do I confirm that a seller is authorized? See the Starlink list of authorized retailers and check who the seller of the listing is before you pay."
+          "How do I confirm that a seller is authorized? See the Starlink list of authorized retailers and check who the seller of the listing is before you pay.",
+          "Should I buy on the official site or from a retailer? On starlink.com the order shows plan, kit, tax and contract for your address before you pay, and the referral only works there. A retailer on the official list is a legitimate seller, but the referral does not apply."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Based on the official site, the help center and the public Trustpilot profiles. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "editorialNote": "Based on the official site, the help center and the public Trustpilot profile. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-reviews"
@@ -286410,7 +286932,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "is-starlink-worth-it"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "you are about to buy the kit on starlink.com and want to check plan, kit, tax and contract term for your address before paying.",
+        "you found the kit at a retailer and want to know whether the seller is on Starlink's list."
+      ],
+      "skipIf": [
+        "a listing or message asks you to pay outside the order page: do not pay, and confirm with Starlink support first.",
+        "the address in the browser is not starlink.com: enter no details."
+      ]
+    },
+    "cta": {
+      "text": "Enter your address on the Starlink site and check plan, kit and monthly price before you pay.",
+      "label": "See plans for your address",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1131,
@@ -286430,10 +286968,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "See the TrustScore, how the star ratings split and which complaints come up most on the Starlink profile on Trustpilot. Learn how to raise a problem with the company.",
-    "metaDescription": "Starlink on Trustpilot: a 1.6 TrustScore from 871 reviews. See the most common complaints and how to take a problem to the company.",
+    "metaDescription": "Starlink on Trustpilot: a 1.6 TrustScore from 879 reviews on an unclaimed profile. See what recent one-star and five-star reviews say.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -286445,13 +286983,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Starlink Development, the Trustpilot profile for starlink.com, shows a TrustScore of 1.6 out of 5 from 871 reviews. Of those reviews, 71% give one star. Trustpilot’s automated summary highlights difficulty reaching support and reports of rising bills. This profile covers reviews from different markets."
+          "Starlink Development, the Trustpilot profile for starlink.com, has a TrustScore of 1.6 out of 5 from 879 reviews, and 71% of them are one star. The profile is unclaimed: the company has no paid plan, sends no review invitations and has not replied to any of the 464 negative reviews. The reviews come from customers in many countries."
         ]
       },
       {
         "heading": "The score and how the stars split",
         "paragraphs": [
-          "We read the public Starlink Development profile on November 20, 2026. Trustpilot labels the score “Bad”."
+          "We read the public Starlink Development profile on November 23, 2026. Trustpilot labels a score of 1.6 as “Bad”."
         ],
         "comparisonTable": {
           "headers": [
@@ -286461,58 +286999,95 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "TrustScore",
-              "1.6 out of 5"
+              "1.6 out of 5 (“Bad”)"
             ],
             [
               "Reviews",
-              "871"
+              "879"
             ],
             [
               "5 stars",
-              "17%"
+              "148 (17%)"
             ],
             [
               "4 stars",
-              "2%"
+              "19 (2%)"
             ],
             [
               "3 stars",
-              "3%"
+              "24 (3%)"
             ],
             [
               "2 stars",
-              "7%"
+              "61 (7%)"
             ],
             [
               "1 star",
-              "71%"
+              "627 (71%)"
+            ],
+            [
+              "Profile status",
+              "Unclaimed, no paid plan"
+            ],
+            [
+              "Origin of reviews",
+              "Organic, no invitations to customers"
+            ],
+            [
+              "Replies to negative reviews",
+              "0% (none of 464)"
             ]
           ],
-          "caption": "Reading of the public profile. The profile is unclaimed."
+          "caption": "Trustpilot, starlink.com profile, read on November 23, 2026."
         }
       },
       {
-        "heading": "How to read a Trustpilot score",
+        "heading": "Why an unclaimed profile skews low",
         "paragraphs": [
-          "The profile is unclaimed, which means the company has not taken it over on the platform. Trustpilot also notes that the company has no history of asking customers for reviews, so the reviews may not be representative. The score reflects the people who chose to leave a review."
+          "The profile is unclaimed, so the company has no paid Trustpilot plan and does not invite customers to review after a purchase. Brands that do invite customers tend to collect many short five-star reviews from satisfied buyers. Here nothing filters the flow: the people who land on the profile are mostly people with a problem, and the reviews are organic.",
+          "That is why 1.6 is better read as the picture of customers who went looking for a place to complain than as an average of all Starlink customers. It still counts: the company does not answer on Trustpilot, with none of the 464 negative reviews replied to, so the platform is not a support channel for it."
+        ]
+      },
+      {
+        "heading": "What the one-star reviews say",
+        "paragraphs": [
+          "We read the 40 most recent one-star reviews, posted between October 23 and November 23, 2026, from 16 countries (21 of them from the United States). This is our own reading of that sample. One review can touch more than one theme, and the shares are approximate:"
+        ],
+        "bullets": [
+          "Support: only a bot or automated chat, with no way to reach a person (about 1 in 3).",
+          "Dropped connections and speeds below what people expected (about 1 in 3).",
+          "Monthly price raised after signing up, sometimes more than once in a year (about 1 in 4).",
+          "Charges for a service no longer in use, and refunds or cancellation that were hard to get (about 1 in 4).",
+          "A partner installer who did not show up or came late (about 1 in 4).",
+          "Kit delivery that was late or never arrived (about 1 in 5)."
+        ]
+      },
+      {
+        "heading": "What the five-star reviews say",
+        "paragraphs": [
+          "We also read the 40 most recent five-star reviews, from December 10, 2025 to November 17, 2026, from 15 countries (Germany, the United Kingdom and the United States among them). Same method, same caveat:"
+        ],
+        "bullets": [
+          "Speed and a stable connection (about half).",
+          "Easy, plug-and-play installation (about 1 in 3).",
+          "Living somewhere with no other good internet option (about 1 in 4).",
+          "Travel use with the Mini and the Roam plan (several reviews).",
+          "Support that solved the problem, such as an antenna replacement (a few)."
+        ],
+        "postParagraphs": [
+          "In this sample the praise is about the signal, and the complaints are about support, price and billing. Few one-star reviews say the signal is bad all the time. Trustpilot’s own automatic summary of 355 recent reviews points the same way (most reviewers disappointed, unreachable support, higher monthly fees and extra costs), and we cite it only as secondary support."
         ]
       },
       {
         "heading": "Which profile is the real Starlink?",
         "paragraphs": [
-          "Look for “Starlink Development” with starlink.com listed as its website. Some similarly named profiles point to other domains."
-        ]
-      },
-      {
-        "heading": "What people complain about most",
-        "paragraphs": [
-          "Trustpilot’s automated summary of 355 recent reviews highlights difficulty reaching support, monthly bill increases, and extra charges. Opinions on speed are mixed. Some reviewers praise the connection."
+          "Look for “Starlink Development” with starlink.com listed as its website. Some similarly named profiles point to other domains. This profile gathers customers from dozens of countries in one place, so a review may describe a plan, tax or delivery rule that does not apply where you live."
         ]
       },
       {
         "heading": "What this means if you subscribe",
         "paragraphs": [
-          "Check your invoice every month against the price on your order. Save a screenshot of the offer from the day you ordered, and check the conditions of the promotional price on your order.",
+          "Before you pay, check the plan, the kit (rental or purchase), the tax and the contract on starlink.com for your own address: they change by country and even by address. Save a screenshot of the offer from the day you ordered and compare each invoice with it.",
           "The rental kit and return rules are in the [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund)."
         ],
         "image": {
@@ -286524,16 +287099,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Before you subscribe",
-        "paragraphs": [
-          "Before you subscribe, check the site and the terms. How to recognize the official site and the look-alike profiles is in [is Starlink legit?](/en/reviews/is-starlink-legit).",
-          "If you decide to subscribe, the [Starlink referral](/en/coupons/starlink) page has the link and the program rules."
-        ]
-      },
-      {
         "heading": "How to raise a problem",
         "paragraphs": [
-          "Open a support ticket on the Starlink website or in the app and keep the case number. If the bill does not match your order, send the price that showed on the offer along with the invoice. If you do not recognize a charge, contact your card issuer or bank too."
+          "Open a support ticket on the Starlink website or in the app and keep the case number. If the bill does not match your order, send the price that showed on the offer along with the invoice. If you do not recognize a charge, contact your card issuer or bank too. The company does not answer on Trustpilot, so do not count on a review to get a reply."
         ],
         "links": [
           {
@@ -286543,19 +287111,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Before you subscribe",
+        "paragraphs": [
+          "Before you subscribe, check the site and the terms. How to recognize the official site and the look-alike profiles is in [is Starlink legit?](/en/reviews/is-starlink-legit).",
+          "The [Starlink referral](/en/coupons/starlink) page has the link and the program rules. A referral is not a coupon: the reward arrives as a bill credit after two months of subscription, and the Priority, Enterprise and Commercial plans do not earn it."
+        ],
+        "emphasis": "On the numbers in the table, for anyone who has no good internet option at their address, subscribing is reasonable once plan, kit, tax and contract are checked on starlink.com for that address, because the 1.6 reflects support, billing and price complaints more than signal quality."
+      },
+      {
         "heading": "Frequently asked questions",
         "bullets": [
-          "What is Starlink's score on Trustpilot? The starlink.com profile has a TrustScore of 1.6 from 871 reviews, and 71% of them are one star.",
+          "Does Starlink have a discount code? No. Starlink has no coupon: through Cecília’s referral link, a new subscriber receives US$ 100 in the United States (£ 40 in the United Kingdom) after two months of subscription, as a credit on the bill, and the person who referred gets the same amount.",
+          "What is Starlink’s score on Trustpilot? The starlink.com profile has a TrustScore of 1.6 from 879 reviews, and 71% of them are one star.",
+          "Why is the score so low? The profile is unclaimed, with no paid plan, no review invitations and no replies from the company, so it gathers mostly people who had a problem. In our reading of the 40 most recent one-star reviews, support, dropped connections, price increases and billing led the complaints.",
           "Which Starlink profile should I check? Look for the profile whose domain is starlink.com. Others use the name with different domains.",
-          "What do people complain about most? Support that is hard to reach, rising monthly bills and extra costs, according to Trustpilot's summary of recent reviews.",
-          "How do I raise a problem with Starlink? Open a ticket on the website or in the app and keep the case number. If the problem continues, contact your card issuer or bank about any charge you do not recognize."
+          "How do I raise a problem with Starlink? Open a ticket on the website or in the app and keep the case number. The company does not answer reviews on Trustpilot, so do not rely on it. If a charge looks wrong, contact your card issuer or bank."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Data from the public Trustpilot profiles. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "editorialNote": "Data from the public Trustpilot profile and our own reading of recent reviews. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
     "relatedArticles": [
       {
         "slug": "is-starlink-legit"
@@ -286566,7 +287143,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "is-starlink-worth-it"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "you have no good internet option at your address and have checked plan, kit and contract there before paying.",
+        "you can live with support that mostly runs through the app and automated chat."
+      ],
+      "skipIf": [
+        "you expect a person to answer quickly when a bill or a delivery goes wrong.",
+        "you want the TrustScore alone to settle it: it comes from an unclaimed profile and says little about signal quality."
+      ]
+    },
+    "cta": {
+      "text": "Enter your address on the Starlink site and check plan, kit and monthly price before paying.",
+      "label": "See plans for your address",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1132,
@@ -286589,7 +287182,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Mira cómo abrir el enlace de referido de Starlink, ver el valor en el pedido y recibir la recompensa tras cumplir las condiciones del programa.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -286632,7 +287225,9 @@ export const reviewsData: unknown[] = [
           "El valor depende del país en el que te registras y aparece en tu pedido y en tu cuenta. Quien invita también recibe el mismo valor, en dinero o en crédito de servicio.",
           "La suscripción tiene que seguir activa y al día durante dos ciclos mensuales completos. El centro de ayuda dice que la emisión puede empezar a partir de 60 días desde la activación, según el país, la cuenta y la verificación de identidad.",
           "La forma habitual es el crédito en la factura. Si tu cuenta ofrece pago en dinero, abre Referidos en el sitio desde el navegador, elige el método de recompensa."
-        ]
+        ],
+        "emphasis": "La recompensa solo se libera tras dos ciclos mensuales completos con la suscripción activa y al día, por defecto como crédito en la factura, y quien se suscribe y quien invita reciben el mismo valor; el de tu país aparece en el pedido.",
+        "emphasisAfterParagraph": 3
       },
       {
         "heading": "Quién puede usarlo",
@@ -286664,6 +287259,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Tiene Starlink un cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de suscripción, como crédito en la factura, y quien invitó recibe el mismo valor.",
           "¿Cómo funciona el referido de Starlink? Haz el pedido en starlink.com a través del enlace. Comprueba el referido aplicado, activa el kit y mantén el servicio elegible al día durante dos ciclos mensuales completos.",
           "¿Cuánto vale el referido de Starlink? Depende del país y aparece en tu pedido. Compruébalo antes de pagar.",
           "¿Cuándo llega la recompensa de Starlink? El centro de ayuda indica que la emisión puede empezar a partir de 60 días desde la activación, si el referido cumple las condiciones del programa.",
@@ -286693,7 +287289,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "vas a contratar Starlink de todos modos y quieres que el referido conste en el pedido original.",
+        "eres cliente nuevo y puedes mantener el servicio activo y al día durante dos ciclos mensuales completos hasta que se libere la recompensa."
+      ],
+      "skipIf": [
+        "eres o has sido cliente de Starlink, porque la recompensa es solo para quien se suscribe por primera vez.",
+        "vas a comprar en un distribuidor o marketplace, porque el referido solo cuenta en pedidos hechos en starlink.com a través del enlace."
+      ]
+    }
   },
   {
     "id": 1133,
@@ -286716,7 +287322,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink con 30 % en los planes y kit en alquiler a 0 € en España. Mira la cuenta del primer pedido y cómo entra la recompensa del referido.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -286775,7 +287381,15 @@ export const reviewsData: unknown[] = [
           "caption": "Antena y router de Starlink. Foto de Starlink.",
           "objectFit": "contain",
           "aspectRatio": 1.3316
-        }
+        },
+        "emphasis": "Según las cifras de la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 € o 45,50 € al mes según el plan, y cualquier recompensa por referido llega solo tras dos ciclos mensuales completos.",
+        "links": [
+          {
+            "label": "Ver planes en tu dirección",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Cómo entra la recompensa en la cuenta",
@@ -286814,6 +287428,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Tiene Starlink cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de servicio, como crédito en la factura, y quien lo recomendó recibe el mismo valor.",
           "¿Tiene Starlink Black Friday? En España, el pedido oficial mostraba un 30 % de descuento en los planes de servicio, con el kit en alquiler a 0 €, en zonas seleccionadas.",
           "¿Se suma el referido a la oferta? Comprueba en el pedido de tu dirección si aparecen las dos. La recompensa depende de la elegibilidad y de dos ciclos mensuales completos.",
           "¿Cuánto se cobra en el pedido? En el pedido de Madrid que consultamos, el total a pagar hoy era de 19 €. Comprueba en tu pantalla qué incluye ese total.",
@@ -286842,7 +287457,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "el pedido de tu dirección muestra la oferta del plan y las condiciones del kit antes de pagar.",
+        "puedes esperar dos ciclos mensuales completos por la recompensa y pagar las cuotas mientras tanto."
+      ],
+      "skipIf": [
+        "tu pedido no muestra la oferta, porque las cifras leídas son de una sola dirección.",
+        "puedes cancelar pronto y no quieres arriesgarte con la devolución del kit ni con perder el precio promocional."
+      ]
+    }
   },
   {
     "id": 1134,
@@ -286865,7 +287490,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿Vale la pena Starlink? Precios por dirección, kit en alquiler, para quién tiene sentido y cuándo la fibra o el 4G salen mejor.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -286910,6 +287535,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Antes de decidir, haz la cuenta sin la recompensa del referido: multiplica la mensualidad por los meses que piensas quedarte y suma la instalación si la quieres. La recompensa depende del país y llega tras cumplir las reglas del programa. Mira el [enlace de referido de Starlink](/es/coupons/starlink)."
+        ],
+        "links": [
+          {
+            "label": "Ver planes en tu dirección",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -286935,7 +287567,9 @@ export const reviewsData: unknown[] = [
         "heading": "Cuándo comparar con fibra o 4G",
         "paragraphs": [
           "Si ya llega una fibra estable, compara la suma de instalación, cuotas y condiciones de cada propuesta. Para el 4G, incluye el precio del equipo que necesites y comprueba que el plan tiene datos suficientes para la casa."
-        ]
+        ],
+        "emphasis": "Si en la dirección no hay fibra estable ni un 4G aceptable, Starlink entra en la comparación; con fibra estable, solo compensa cambiar si el total de los meses que piensas quedarte, kit y cuotas sumados, sale por debajo de lo que cuesta la conexión actual.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Velocidad y juegos",
@@ -286963,14 +287597,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Nuestra experiencia hasta ahora",
-        "paragraphs": [
-          "Ya hemos contratado Starlink, pero todavía no tenemos experiencia de uso. La velocidad, la instalación y la calidad del día a día entrarán en una actualización de este artículo cuando existan."
-        ]
-      },
-      {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Tiene Starlink un cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de suscripción, como crédito en la factura, y quien invitó recibe el mismo valor.",
           "¿Vale la pena Starlink en la ciudad? Con fibra estable en tu dirección, compara instalación, cuotas y condiciones antes de cambiar.",
           "¿Es mejor Starlink que la fibra? Sin buena fibra en el lugar, merece la pena pedir precio a Starlink y comprobar que hay cielo abierto para instalar. Si hay ambas, compara estabilidad y coste en tu dirección.",
           "¿Es buena Starlink para jugar? Prueba la latencia y los cortes en tu dirección. La latencia típica que publica Starlink es una referencia general.",
@@ -286980,12 +287609,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "No tienes una fibra buena en tu dirección y el 4G tampoco responde bien.",
-        "Te vale un kit en alquiler que tendrás que devolver si cancelas, y sabes que el precio cambia según la dirección."
+        "no tienes una fibra buena en tu dirección y el 4G tampoco responde bien.",
+        "te vale un kit en alquiler que tendrás que devolver si cancelas, y sabes que el precio cambia según la dirección."
       ],
       "skipIf": [
-        "Tienes una fibra estable en tu dirección y no quieres instalar una antena ni devolver un equipo.",
-        "Necesitas jugar en línea con respuesta rápida, y la empresa solo publica una latencia típica en general."
+        "tienes una fibra estable en tu dirección y no quieres instalar una antena ni devolver un equipo.",
+        "necesitas jugar en línea con respuesta rápida, y la empresa solo publica una latencia típica en general."
       ]
     },
     "pros": [],
@@ -286997,7 +287626,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Precios leídos en la pantalla de pedido del sitio oficial. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "editorialNote": "Precios leídos en la pantalla de pedido del sitio oficial. Todavía no hemos usado el servicio. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
     "relatedArticles": [
       {
         "slug": "starlink-permanencia-cancelar"
@@ -287031,7 +287660,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink: kit en alquiler que se devuelve al cancelar y prueba de 30 días con reembolso. Mira los pasos para cancelar desde la cuenta.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -287066,7 +287695,8 @@ export const reviewsData: unknown[] = [
           "caption": "El kit que vuelve en la devolución: antena, router, soporte y cables. Foto de Starlink.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "emphasis": "Según las condiciones del pedido, cancelar y devolver el kit en buen estado dentro de los 30 días es lo que da derecho al reembolso del kit y del primer mes, y el justificante del envío es la prueba que lo decide."
       },
       {
         "heading": "Cómo cancelar",
@@ -287103,6 +287733,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Tiene Starlink cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de servicio, como crédito en la factura, y quien lo recomendó recibe el mismo valor.",
           "¿Tiene Starlink permanencia? En el pedido consultado en España el kit iba en alquiler, sin coste inicial ni cuota. Confirma en el resumen de tu pedido si hay otras condiciones.",
           "¿Hay que devolver el kit al cancelar? Sí. El pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler.",
           "¿Puedo cancelar Starlink en cualquier momento? La solicitud se hace desde la cuenta. Comprueba en tu pedido si hay alguna condición para cancelar antes de cierto plazo.",
@@ -287125,7 +287756,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-trustpilot-opiniones"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "puedes devolver el kit en alquiler en buen estado dentro de los 30 días si cancelas.",
+        "vas a leer las condiciones en el resumen de tu propio pedido antes de pagar."
+      ],
+      "skipIf": [
+        "no puedes devolver el kit en buen estado dentro del plazo.",
+        "el resumen de tu pedido muestra una permanencia o una penalización que no aceptas."
+      ]
+    },
+    "cta": {
+      "text": "El pedido se abre en el sitio de Starlink. Comprueba la permanencia, los costes y la devolución del kit antes de pagar.",
+      "label": "Consultar las condiciones en mi dirección",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1136,
@@ -287148,7 +287795,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Cómo reconocer el sitio oficial de Starlink, usar la lista de distribuidores autorizados y evitar perfiles y sitios que usan su nombre.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -287160,13 +287807,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Starlink es el servicio de internet por satélite de SpaceX y su sitio oficial es starlink.com. Si compras el kit fuera del sitio, consulta la lista de distribuidores autorizados de Starlink y comprueba quién es el vendedor del anuncio antes de pagar. En Trustpilot hay perfiles con el nombre Starlink que no son starlink.com."
+          "Starlink es el servicio de internet por satélite de SpaceX y su sitio oficial es starlink.com. En Trustpilot, el perfil que apunta a starlink.com se llama «Starlink Development». Si compras el kit en otro sitio, consulta la lista de distribuidores autorizados de Starlink y comprueba quién es el vendedor del anuncio antes de pagar."
         ]
       },
       {
         "heading": "Quién es Starlink y quién vende",
         "paragraphs": [
-          "Starlink vende a través de su sitio oficial. El perfil de Trustpilot que apunta a starlink.com se llama «Starlink Development» y la empresa no lo ha reclamado.",
+          "Starlink vende a través de su sitio oficial. En el pedido de starlink.com ves el plan, el kit, los impuestos y la permanencia para tu dirección antes de pagar.",
           "El análisis de [cuándo vale la pena Starlink](/es/reviews/starlink-vale-la-pena) muestra cómo comparar precio, instalación y alternativas en tu dirección."
         ],
         "image": {
@@ -287181,7 +287828,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cómo reconocer el sitio oficial",
         "paragraphs": [
           "Escribe starlink.com en el navegador. Antes de dar datos o pagar, comprueba que sigues dentro de starlink.com.",
-          "En el pedido oficial que consultamos había Klarna como opción para financiar el kit. Si te piden pagar por mensaje o fuera del pedido, confirma con el soporte de Starlink antes de seguir."
+          "Revisa en el pedido, con tu propia dirección, el plan, el kit (alquiler o compra), los impuestos y la permanencia. Si alguien te pide pagar por mensaje o fuera del pedido, confirma con el soporte de Starlink antes de seguir."
         ]
       },
       {
@@ -287193,41 +287840,56 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perfiles con otro dominio",
         "paragraphs": [
-          "En el perfil de starlink.com, Trustpilot muestra también «Uk Starlink», con la dirección ukstarlink.com, y «Starlink», con starlink.om. Son otros dominios y no son starlink.com, así que no los uses para juzgar a la operadora ni para comprar."
+          "En Trustpilot, el perfil de starlink.com se llama «Starlink Development». Otros perfiles usan el nombre con otros dominios, como ukstarlink.com y starlink.om, y no son starlink.com. Juzga a la empresa por el perfil que apunta a starlink.com."
         ]
       },
       {
         "heading": "Distribuidores y marketplaces",
         "paragraphs": [
-          "Starlink mantiene una lista de distribuidores autorizados en su centro de ayuda. Incluso en un marketplace conocido, comprueba quién es el vendedor del anuncio.",
-          "El [enlace de referido de Starlink](/es/coupons/starlink) vale para pedidos elegibles hechos a través del enlace directamente en starlink.com. No se puede añadir a la compra de un kit en un distribuidor."
+          "Starlink mantiene una lista de distribuidores autorizados. Incluso en un marketplace conocido, comprueba quién es el vendedor del anuncio.",
+          "El [enlace de referido de Starlink](/es/coupons/starlink) vale para pedidos elegibles hechos con el enlace directamente en starlink.com. No se puede añadir a un kit comprado en una tienda."
+        ],
+        "links": [
+          {
+            "label": "Lista de distribuidores autorizados de Starlink",
+            "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
         ]
       },
       {
         "heading": "Qué muestra Trustpilot",
         "paragraphs": [
-          "El perfil de starlink.com en Trustpilot tiene una nota de 1,6 sobre 5 y 871 opiniones, y la empresa no lo ha reclamado. La [lectura completa de Trustpilot](/es/reviews/starlink-trustpilot-opiniones) trae los números y las quejas más comunes."
+          "En Trustpilot, el perfil de starlink.com tiene un TrustScore de 1,6 sobre 5 con 879 reseñas: el 71 % son de 1 estrella y el 17 %, de 5. El perfil no está reclamado, es decir, Starlink no lo gestiona, y ha respondido al 0 % de las reseñas.",
+          "Leímos las 40 reseñas de 1 estrella y las 40 de 5 estrellas más recientes. En las de 1 estrella, las quejas más comunes son un soporte que solo es un bot o un chat (cerca de 1 de cada 3), cortes y poca velocidad (cerca de 1 de cada 3), una cuota mensual que subió tras contratar (cerca de 1 de cada 4), cobros y cancelaciones difíciles (cerca de 1 de cada 4), instaladores de empresas colaboradoras que se retrasan o no aparecen (cerca de 1 de cada 4) y un kit retrasado o no recibido (cerca de 1 de cada 5). Las de 5 estrellas elogian la velocidad y la estabilidad (cerca de la mitad), la instalación fácil (cerca de 1 de cada 3) y no tener otra buena opción de internet (cerca de 1 de cada 4). Las cifras son nuestras y aproximadas.",
+          "Interpreta la nota con cuidado: un perfil no reclamado no envía invitaciones tras la compra, y quien lo abre suele ir a quejarse. Los elogios hablan de la señal; las quejas, de soporte, precio y cobro, y pocas reseñas de 1 estrella dicen que la señal sea mala todo el tiempo. El resumen automático de Trustpilot, basado en 355 reseñas recientes, apunta en la misma dirección. Nuestra [lectura completa del perfil de Trustpilot](/es/reviews/starlink-trustpilot-opiniones) trae las cifras."
         ]
       },
       {
         "heading": "Qué guardar después de comprar",
+        "paragraphs": [
+          "Con el pedido hecho, el registro de lo que contrataste resuelve la mayoría de las disputas."
+        ],
         "bullets": [
-          "Guarda el número de pedido, el precio que apareció en el pago y el correo de confirmación. Si hay diferencias, contacta con el soporte desde el sitio o la aplicación."
-        ]
+          "Guarda el número de pedido, el precio que apareció al pagar y el correo de confirmación. Si algo no coincide, contacta con el soporte desde el sitio web o la aplicación."
+        ],
+        "emphasis": "Según lo que muestran el sitio oficial y la lista de distribuidores, para quien va a comprar el kit lo más seguro es pedir en starlink.com o en un distribuidor de la lista y guardar el número de pedido, el precio del pago y el correo de confirmación, porque ninguna de las dos vías pide pagar fuera del pedido.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Es fiable Starlink? Starlink es el servicio de internet por satélite de SpaceX. Comprueba que compras en starlink.com y no te fíes de perfiles con otro dominio.",
+          "¿Starlink tiene cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España después de dos meses de servicio, como crédito en la factura, y quien lo invitó recibe el mismo importe.",
+          "¿Es fiable Starlink? Starlink es el servicio de internet por satélite de SpaceX. Comprueba que estás en starlink.com y usa la lista de distribuidores autorizados si compras en otro sitio.",
           "¿Cuál es el sitio oficial de Starlink? El sitio oficial es starlink.com.",
-          "¿Cómo sé si un vendedor está autorizado? Consulta la lista de distribuidores autorizados de Starlink y comprueba el vendedor del anuncio antes de pagar."
+          "¿Cómo confirmo que un vendedor está autorizado? Consulta la lista de distribuidores de Starlink y comprueba quién es el vendedor del anuncio antes de pagar.",
+          "¿Compro en el sitio oficial o en un distribuidor? En starlink.com el pedido muestra plan, kit, impuestos y permanencia para tu dirección antes de pagar, y el referido solo vale ahí. Un distribuidor de la lista oficial es un vendedor legítimo, pero el referido no se aplica."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Basado en el sitio oficial, el centro de ayuda y los perfiles públicos de Trustpilot. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "editorialNote": "Elaborado con el sitio oficial, el centro de ayuda y el perfil público de Trustpilot. Participamos en el programa de referidos de Starlink y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-opiniones"
@@ -287238,7 +287900,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-vale-la-pena"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "vas a comprar el kit en starlink.com y quieres revisar plan, kit, impuestos y permanencia de tu dirección antes de pagar.",
+        "encontraste el kit en una tienda y quieres saber si el vendedor figura en la lista de Starlink."
+      ],
+      "skipIf": [
+        "un anuncio o mensaje te pide pagar fuera del pedido: no pagues y confirma antes con el soporte de Starlink.",
+        "la dirección del navegador no es starlink.com: no introduzcas ningún dato."
+      ]
+    },
+    "cta": {
+      "text": "Introduce tu dirección en el sitio de Starlink y revisa plan, kit y cuota mensual antes de pagar.",
+      "label": "Ver planes en tu dirección",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1137,
@@ -287258,10 +287936,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mira la nota, cuántas opiniones tiene el perfil de starlink.com en Trustpilot y qué quejas resume la plataforma. Y cómo reclamar si tu cobro no coincide con el pedido.",
-    "metaDescription": "Starlink en Trustpilot: 1,6 de 5 con 871 opiniones en el perfil de starlink.com. Mira las quejas más comunes y cómo reclamar.",
+    "metaDescription": "Starlink en Trustpilot: TrustScore de 1,6 con 879 opiniones en un perfil sin reclamar. Qué dicen las opiniones recientes de una y cinco estrellas.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -287273,71 +287951,112 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El perfil de starlink.com en Trustpilot tiene un TrustScore de 1,6 sobre 5 con 871 opiniones, y el 71 % son de una estrella. Trustpilot lo marca como perfil sin reclamar y avisa de que la empresa no ha invitado a sus clientes a opinar, así que las opiniones pueden no ser representativas. Para consultar a la operadora, busca el perfil que apunta a starlink.com."
+          "Starlink Development, el perfil de Trustpilot de starlink.com, tiene un TrustScore de 1,6 sobre 5 con 879 opiniones, y el 71% son de una estrella. El perfil no está reclamado: la empresa no tiene plan de pago, no envía invitaciones para opinar y no ha respondido a ninguna de las 464 opiniones negativas. Las opiniones vienen de clientes de muchos países."
         ]
       },
       {
-        "heading": "La nota y su contexto",
+        "heading": "La nota y el reparto de estrellas",
         "paragraphs": [
-          "Trustpilot lo califica como «Bad». Es una plataforma abierta, en la que cualquiera puede opinar. La nota refleja a quienes decidieron dejar una opinión."
+          "Leímos el perfil público de Starlink Development el 23 de noviembre de 2026."
         ],
         "comparisonTable": {
           "headers": [
             "Indicador",
-            "Starlink en Trustpilot"
+            "starlink.com en Trustpilot"
           ],
           "rows": [
             [
               "TrustScore",
-              "1,6 de 5"
+              "1,6 sobre 5"
             ],
             [
-              "Opiniones en total",
-              "871"
+              "Opiniones",
+              "879"
             ],
             [
               "5 estrellas",
-              "17 %"
+              "148 (17%)"
             ],
             [
               "4 estrellas",
-              "2 %"
+              "19 (2%)"
             ],
             [
               "3 estrellas",
-              "3 %"
+              "24 (3%)"
             ],
             [
               "2 estrellas",
-              "7 %"
+              "61 (7%)"
             ],
             [
               "1 estrella",
-              "71 %"
+              "627 (71%)"
+            ],
+            [
+              "Estado del perfil",
+              "Sin reclamar, sin plan de pago"
+            ],
+            [
+              "Origen de las opiniones",
+              "Orgánicas, sin invitaciones a clientes"
+            ],
+            [
+              "Respuestas a opiniones negativas",
+              "0% (ninguna de 464)"
             ]
           ],
-          "caption": "Lectura del perfil de starlink.com en Trustpilot, el 20 de noviembre de 2026."
+          "caption": "Trustpilot, perfil de starlink.com, leído el 23 de noviembre de 2026."
         }
       },
       {
-        "heading": "Qué resume Trustpilot",
+        "heading": "Por qué un perfil sin reclamar sale tan bajo",
         "paragraphs": [
-          "Trustpilot genera un resumen automático a partir de 355 opiniones recientes. La queja más común es un soporte difícil de contactar, con solo un chatbot. También aparecen subidas de la cuota mensual y costes extra.",
-          "Sobre el producto y la velocidad, las opiniones son mixtas, y algunas elogian la conexión rápida. No citamos opiniones individuales."
+          "El perfil no está reclamado: la empresa no tiene un plan de pago en Trustpilot y no invita a sus clientes a opinar después de la compra. Las marcas que sí invitan suelen acumular muchas opiniones cortas de cinco estrellas de compradores satisfechos. Aquí nada filtra el flujo: quien llega al perfil suele ser alguien con un problema, y las opiniones son orgánicas.",
+          "Por eso el 1,6 se lee mejor como el retrato de los clientes que buscaron dónde quejarse que como un promedio de todos los clientes de Starlink. Aun así cuenta: la empresa no responde en Trustpilot, y ninguna de las 464 opiniones negativas tiene respuesta, de modo que la plataforma no es un canal de soporte para ella."
+        ]
+      },
+      {
+        "heading": "Qué dicen las opiniones de una estrella",
+        "paragraphs": [
+          "Leímos las 40 opiniones de una estrella más recientes, publicadas entre el 23 de octubre y el 23 de noviembre de 2026, de 16 países (21 de ellas de Estados Unidos). Es nuestra propia lectura de esa muestra. Una opinión puede tocar más de un tema y los porcentajes son aproximados:"
+        ],
+        "bullets": [
+          "Atención al cliente: solo un bot o un chat automático, sin poder hablar con una persona (alrededor de 1 de cada 3).",
+          "Caídas de conexión y velocidad inferior a la esperada (alrededor de 1 de cada 3).",
+          "Subida de la cuota mensual después de contratar, a veces más de una vez en el año (alrededor de 1 de cada 4).",
+          "Cobros por un servicio que ya no se usa, y reembolsos o bajas difíciles de conseguir (alrededor de 1 de cada 4).",
+          "Instalador de una empresa colaboradora que no aparece o llega tarde (alrededor de 1 de cada 4).",
+          "Entrega del kit con retraso o que nunca llegó (alrededor de 1 de cada 5)."
+        ]
+      },
+      {
+        "heading": "Qué dicen las opiniones de cinco estrellas",
+        "paragraphs": [
+          "También leímos las 40 opiniones de cinco estrellas más recientes, del 10 de diciembre de 2025 al 17 de noviembre de 2026, de 15 países (entre ellos Alemania, Reino Unido y Estados Unidos). Mismo método, misma salvedad:"
+        ],
+        "bullets": [
+          "Velocidad y conexión estable (alrededor de la mitad).",
+          "Instalación fácil, «plug and play» (alrededor de 1 de cada 3).",
+          "Vivir en un lugar sin otra buena opción de internet (alrededor de 1 de cada 4).",
+          "Uso en viajes con el Mini y el plan Roam (varias opiniones).",
+          "Soporte que resolvió el problema, como el cambio de la antena (algunas)."
+        ],
+        "postParagraphs": [
+          "En esta muestra los elogios hablan de la señal y las quejas, de la atención, el precio y la facturación. Pocas opiniones de una estrella dicen que la señal es mala todo el tiempo. El resumen automático de Trustpilot, sobre 355 opiniones recientes, apunta en la misma dirección (mayoría decepcionada, soporte inalcanzable, cuotas más altas y costes extra) y lo citamos solo como apoyo secundario."
         ]
       },
       {
         "heading": "Cómo identificar el perfil de la operadora",
         "paragraphs": [
-          "Busca el perfil cuyo dominio es starlink.com, que aparece como «Starlink Development», en la categoría Internet Service Provider. Trustpilot lo marca como «Unclaimed profile».",
-          "En la sección «People also looked at» hay otros perfiles con el nombre, «Uk Starlink» (ukstarlink.com) y «Starlink» (starlink.om). Son otros dominios y no son starlink.com."
+          "Busca «Starlink Development» con starlink.com como sitio web. Algunos perfiles de nombre parecido apuntan a otros dominios. Este perfil reúne clientes de decenas de países, así que una opinión puede describir un plan, un impuesto o una norma de entrega que no se aplica donde vives."
         ]
       },
       {
         "heading": "Qué significa para quien se suscribe",
         "paragraphs": [
-          "Quien se suscribe debería revisar la factura cada mes y compararla con el precio que apareció en el pedido, porque las subidas de cuota son una de las quejas. Qué pasa con el precio de la oferta al cambiar de plan, cancelar o suspender figura en las condiciones de tu propio pedido.",
-          "Las condiciones del kit en alquiler y de la devolución están en la [guía de contrato y cancelación](/es/reviews/starlink-permanencia-cancelar)."
+          "Antes de pagar, revisa el plan, el kit (alquiler o compra), los impuestos y el contrato en starlink.com para tu propia dirección: cambian según el país e incluso según la dirección. Guarda una captura de la oferta del día del pedido y compara cada factura con ella.",
+          "Las reglas del kit en alquiler y de la devolución están en la [guía de contrato, baja y reembolso](/es/reviews/starlink-permanencia-cancelar)."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
@@ -287348,38 +288067,40 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Antes de suscribirte",
-        "paragraphs": [
-          "Antes de suscribirte, revisa el sitio y las condiciones. Cómo reconocer el sitio oficial y los perfiles que usan el nombre está en [¿es fiable Starlink?](/es/reviews/starlink-es-fiable).",
-          "Si vas a suscribirte, la página del [enlace de referido de Starlink](/es/coupons/starlink) tiene el enlace y las reglas del programa."
-        ]
-      },
-      {
         "heading": "Cómo reclamar",
         "paragraphs": [
-          "Abre una solicitud en el sitio o en la aplicación de Starlink y guarda el número de caso. Si el cobro no coincide con el pedido, envía el valor que apareció en la oferta y la factura. Si no reconoces el cargo, contacta también con el emisor de tu tarjeta o con tu banco."
+          "Abre una solicitud de soporte en el sitio de Starlink o en la aplicación y guarda el número del caso. Si la factura no coincide con tu pedido, envía el precio que aparecía en la oferta junto con la factura. Si no reconoces un cargo, contacta también con el emisor de tu tarjeta o con tu banco. La empresa no responde en Trustpilot, así que no cuentes con una opinión para obtener respuesta."
         ],
         "links": [
           {
-            "label": "Perfil de starlink.com en Trustpilot",
+            "label": "Perfil de Starlink en Trustpilot",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
         ]
       },
       {
+        "heading": "Antes de suscribirte",
+        "paragraphs": [
+          "Antes de suscribirte, revisa el sitio y las condiciones. Cómo reconocer el sitio oficial y los perfiles que usan el nombre está en [¿es fiable Starlink?](/es/reviews/starlink-es-fiable).",
+          "La página de la [indicación de Starlink](/es/coupons/starlink) tiene el enlace y las reglas del programa. Una indicación no es un cupón: la recompensa llega como crédito en la factura después de dos meses de suscripción, y los planes Prioritario, Enterprise y Comercial no la reciben."
+        ],
+        "emphasis": "Por los números de la tabla, para quien no tiene una buena alternativa de internet en su dirección, suscribirse es razonable si antes comprueba plan, kit, impuestos y contrato en starlink.com para esa dirección, porque el 1,6 refleja quejas de atención, facturación y precio más que de calidad de la señal."
+      },
+      {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Qué nota tiene Starlink en Trustpilot? El perfil de starlink.com tiene un TrustScore de 1,6 sobre 5 con 871 opiniones.",
-          "¿Qué perfil de Starlink debo consultar? El que tiene el dominio starlink.com. Los perfiles de ukstarlink.com y starlink.om no son starlink.com.",
-          "¿Qué quejas son las más comunes? Según el resumen de Trustpilot, un soporte difícil de contactar y las subidas de la cuota mensual y los costes extra.",
-          "¿Cómo reclamar a Starlink? Abre una solicitud desde el sitio o la aplicación y guarda el número de caso. Si no reconoces un cargo, contacta con el emisor de tu tarjeta."
+          "¿Tiene Starlink un código de descuento? No. Starlink no tiene cupón: con el enlace de indicación de Cecília, quien se suscribe recibe 45 € en España después de dos meses de suscripción, como crédito en la factura, y quien lo indicó recibe el mismo valor.",
+          "¿Qué nota tiene Starlink en Trustpilot? El perfil de starlink.com tiene un TrustScore de 1,6 con 879 opiniones, y el 71% son de una estrella.",
+          "¿Por qué la nota es tan baja? El perfil no está reclamado, sin plan de pago, sin invitaciones para opinar y sin respuestas de la empresa, así que reúne sobre todo a personas que tuvieron un problema. En nuestra lectura de las 40 opiniones de una estrella más recientes, lideraron las quejas la atención, las caídas de conexión, las subidas de precio y la facturación.",
+          "¿Qué perfil de Starlink debo consultar? Busca el perfil cuyo dominio sea starlink.com. Otros usan el nombre con dominios distintos.",
+          "¿Cómo reclamo un problema a Starlink? Abre una solicitud en el sitio o en la aplicación y guarda el número del caso. La empresa no responde a las opiniones de Trustpilot, así que no cuentes con ello. Si un cargo te parece incorrecto, contacta con el emisor de tu tarjeta o con tu banco."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Datos del perfil público de Trustpilot. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "editorialNote": "Datos del perfil público de Trustpilot y de nuestra propia lectura de opiniones recientes. Participamos en el programa de indicación de Starlink y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
     "relatedArticles": [
       {
         "slug": "starlink-es-fiable"
@@ -287390,7 +288111,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-vale-la-pena"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "no tienes una buena opción de internet en tu dirección y ya revisaste allí plan, kit y contrato antes de pagar.",
+        "puedes convivir con un soporte que funciona sobre todo por la aplicación y el chat automático."
+      ],
+      "skipIf": [
+        "esperas que una persona responda rápido cuando falla una factura o una entrega.",
+        "quieres que el TrustScore decida por sí solo: viene de un perfil sin reclamar y dice poco sobre la calidad de la señal."
+      ]
+    },
+    "cta": {
+      "text": "Indica tu dirección en el sitio de Starlink y revisa plan, kit y cuota mensual antes de pagar.",
+      "label": "Ver planes en tu dirección",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1138,
@@ -287413,7 +288150,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Comment ouvrir le lien de parrainage Starlink, trouver le montant sur la commande et recevoir la récompense une fois les conditions du programme remplies.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -287456,7 +288193,9 @@ export const reviewsData: unknown[] = [
           "Le montant dépend du pays où la personne s'inscrit et s'affiche sur la commande ou dans le compte. Celui qui parraine reçoit la même somme, en argent ou en crédit de service.",
           "L'abonnement doit rester actif et à jour pendant deux cycles mensuels complets. Le centre d'aide de Starlink indique que le versement peut commencer à partir de 60 jours après l'activation, selon le pays, le compte et la vérification d'identité.",
           "Le crédit sur la facture est le mode par défaut. Si votre compte propose le paiement en argent, ouvrez l'onglet Parrainages depuis le navigateur, choisissez le mode de récompense."
-        ]
+        ],
+        "emphasis": "La récompense n'est versée qu'après deux cycles mensuels complets d'abonnement actif et à jour, par défaut en crédit sur la facture, et la personne qui s'abonne et celle qui parraine reçoivent le même montant ; celui de votre pays s'affiche sur la commande.",
+        "emphasisAfterParagraph": 3
       },
       {
         "heading": "Qui peut en profiter",
@@ -287487,6 +288226,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, la personne qui s'abonne reçoit 45 € en France après deux mois d'abonnement, sous forme de crédit sur la facture, et le parrain reçoit le même montant.",
           "Comment fonctionne le parrainage Starlink ? Passez commande sur starlink.com via le lien, vérifiez que le parrainage est appliqué, activez le kit et gardez le service éligible en règle pendant deux cycles mensuels complets.",
           "Combien vaut le parrainage Starlink ? Le montant dépend du pays et s'affiche sur la commande. Vérifiez-le avant de payer.",
           "Quand la récompense arrive-t-elle ? Le centre d'aide indique que le versement peut commencer à partir de 60 jours après l'activation, si le parrainage remplit les conditions du programme.",
@@ -287516,7 +288256,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-engagement-resilier"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "vous comptez de toute façon vous abonner à Starlink et voulez que le parrainage figure sur la commande initiale.",
+        "vous êtes un nouveau client et pouvez garder le service actif et à jour pendant deux cycles mensuels complets avant le versement de la récompense."
+      ],
+      "skipIf": [
+        "vous êtes ou avez déjà été client de Starlink, car la récompense est réservée à ceux qui s'abonnent pour la première fois.",
+        "vous achetez chez un revendeur ou sur une place de marché, car le parrainage ne compte que pour les commandes passées sur starlink.com via le lien."
+      ]
+    }
   },
   {
     "id": 1139,
@@ -287539,7 +288289,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink Black Friday : 30 % sur les forfaits et kit loué à 0 €, en zones sélectionnées. Voyez le calcul avec le parrainage et vérifiez votre adresse.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -287588,7 +288338,15 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "Prix de la commande officielle avec l'offre de 30 %, sans lien de parrainage. Le prix peut changer selon l'adresse."
-        }
+        },
+        "emphasis": "D'après les chiffres du tableau, la commande à Paris demande 19 € le jour même, puis entre 24,50 € et 45,50 € par mois selon le forfait, et la récompense du parrainage n'arrive qu'après deux cycles mensuels complets.",
+        "links": [
+          {
+            "label": "Voir les forfaits à votre adresse",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Quand la récompense du parrainage entre dans le calcul",
@@ -287637,6 +288395,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d'abonnement, en crédit sur la facture, et le parrain reçoit le même montant.",
           "Starlink fait-il le Black Friday ? L'offre de fin novembre donne 30 % sur les forfaits, avec un kit loué à 0 €, dans certaines zones.",
           "Le parrainage se cumule-t-il avec l'offre ? Ce sont deux mécanismes distincts. La récompense dépend de l'éligibilité et de deux cycles mensuels complets. Vérifiez sur votre commande que les deux apparaissent.",
           "Combien paie-t-on le jour de la commande ? Le total à payer lu pour une adresse à Paris était de 19 €, le kit étant loué à 0 €.",
@@ -287665,7 +288424,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-engagement-resilier"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "la commande à votre adresse affiche l'offre sur le forfait et les conditions du kit avant le paiement.",
+        "vous pouvez attendre deux cycles mensuels complets pour la récompense et payer les mensualités entre-temps."
+      ],
+      "skipIf": [
+        "votre commande n'affiche pas l'offre, car les prix lus valent pour une seule adresse.",
+        "vous risquez de partir vite et ne voulez pas risquer le retour du kit ni la perte du prix promotionnel."
+      ]
+    }
   },
   {
     "id": 1140,
@@ -287688,7 +288457,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink vaut-il le coup ? Prix par forfait, kit loué, pour qui il a du sens et quand la fibre ou la 4G reviennent moins cher.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -287739,6 +288508,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "La page lue ne dit pas combien de temps dure la réduction, donc n'extrapolez pas ces prix sur 12 mois sans vérifier la durée affichée sur votre commande. Faites le calcul d'abord sans la récompense du [parrainage Starlink](/fr/coupons/starlink), puis ajoutez-la si votre commande l'affiche."
+        ],
+        "links": [
+          {
+            "label": "Voir les forfaits à votre adresse",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -287764,7 +288540,9 @@ export const reviewsData: unknown[] = [
         "heading": "Quand comparer avec la fibre ou la 4G",
         "paragraphs": [
           "Si une fibre stable arrive déjà, comparez l'installation, les mensualités et les éventuels engagements de chaque offre. Pour la 4G, ajoutez le prix du matériel dont vous aurez besoin et vérifiez que le forfait a assez de données pour la maison."
-        ]
+        ],
+        "emphasis": "Sans fibre stable ni 4G correcte à l'adresse, Starlink entre dans la comparaison ; avec une fibre stable, le changement ne se justifie que si le total des mois prévus, matériel et mensualités additionnés, reste sous le coût de la connexion actuelle.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Débit et jeux en ligne",
@@ -287792,14 +288570,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Notre expérience jusqu'ici",
-        "paragraphs": [
-          "Nous avons déjà souscrit à Starlink, mais nous n'avons pas encore d'expérience d'usage. Débit, installation et qualité au quotidien feront l'objet d'une mise à jour de cet article, quand nous les aurons."
-        ]
-      },
-      {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, la personne qui s'abonne reçoit 45 € en France après deux mois d'abonnement, sous forme de crédit sur la facture, et le parrain reçoit le même montant.",
           "Starlink vaut-il le coup en ville ? Avec une fibre stable à l'adresse, comparez l'installation, les mensualités et les engagements avant de changer.",
           "Starlink est-il meilleur que la fibre ? Sans bonne fibre sur place, cela vaut la peine de demander un tarif Starlink et de vérifier que le ciel est dégagé. Si les deux sont disponibles, comparez la stabilité et le coût à votre adresse.",
           "Starlink est-il bon pour les jeux ? Testez la latence et les coupures à votre adresse. La plage typique publiée par Starlink est une référence générale.",
@@ -287810,12 +288583,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Vous n'avez pas de fibre correcte à votre adresse et la 4G est faible aussi.",
-        "Vous acceptez de louer le matériel et de le renvoyer si vous partez, et vous lisez le prix de votre adresse sur la commande."
+        "vous n'avez pas de fibre correcte à votre adresse et la 4G est faible aussi.",
+        "vous acceptez de louer le matériel et de le renvoyer si vous partez, et vous lisez le prix de votre adresse sur la commande."
       ],
       "skipIf": [
-        "Vous avez déjà une fibre stable à votre adresse, sans matériel à renvoyer.",
-        "Vous jouez en ligne et avez besoin d'une latence très basse, que la page lue ne garantit pas."
+        "vous avez déjà une fibre stable à votre adresse, sans matériel à renvoyer.",
+        "vous jouez en ligne et avez besoin d'une latence très basse, que la page lue ne garantit pas."
       ]
     },
     "pros": [],
@@ -287827,7 +288600,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Prix relevés sur la page de commande officielle. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+    "editorialNote": "Prix relevés sur la page de commande officielle. Nous n'avons pas encore utilisé le service. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
     "relatedArticles": [
       {
         "slug": "starlink-engagement-resilier"
@@ -287861,7 +288634,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink : kit loué à renvoyer en cas d'annulation, remboursement du kit et du premier mois sous 30 jours, et comment résilier depuis votre compte.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -287896,7 +288669,8 @@ export const reviewsData: unknown[] = [
           "caption": "Le matériel à renvoyer : antenne, routeur, support et câbles. Photo Starlink.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "emphasis": "D'après les conditions de la commande, annuler et renvoyer le kit en bon état dans les 30 jours est ce qui ouvre le remboursement du kit et du premier mois, et la preuve d'expédition fait foi."
       },
       {
         "heading": "Comment résilier",
@@ -287932,6 +288706,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d'abonnement, en crédit sur la facture, et le parrain reçoit le même montant.",
           "Starlink a-t-il un engagement ? Sur la commande lue pour une adresse à Paris, nous n'avons relevé aucune durée d'engagement. Vérifiez le récapitulatif de votre commande avant de payer.",
           "Faut-il renvoyer le matériel Starlink ? Oui. Le kit est loué, et la commande demande de le retourner si vous annulez le service.",
           "Peut-on annuler Starlink à tout moment ? La demande se fait depuis le compte. Pour éviter un nouveau cycle, faites-la avant 00 h 00 UTC le jour de facturation.",
@@ -287954,7 +288729,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-trustpilot-avis"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "vous pouvez renvoyer le kit loué en bon état dans les 30 jours si vous annulez.",
+        "vous lirez les conditions sur le récapitulatif de votre propre commande avant de payer."
+      ],
+      "skipIf": [
+        "vous ne pouvez pas renvoyer le kit en bon état dans le délai.",
+        "le récapitulatif de votre commande affiche un engagement ou des frais de résiliation que vous refusez."
+      ]
+    },
+    "cta": {
+      "text": "La commande s'ouvre sur le site de Starlink. Vérifiez l'engagement, les frais et le retour du kit avant de payer.",
+      "label": "Consulter les conditions à mon adresse",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1142,
@@ -287973,11 +288764,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Le site officiel de Starlink et la liste des revendeurs autorisés montrent à qui vous achetez. Voyez ce qu'il faut vérifier avant de payer le kit ou l'abonnement.",
-    "metaDescription": "Comment reconnaître le site officiel de Starlink, éviter l'hameçonnage et consulter la liste des revendeurs autorisés avant de payer.",
+    "description": "Le site officiel de Starlink et la liste des revendeurs autorisés montrent à qui vous achetez. Ce qu’il faut vérifier avant de payer le kit, et comment repérer les faux sites.",
+    "metaDescription": "Comment reconnaître le site officiel de Starlink, utiliser la liste des revendeurs autorisés et éviter les profils et sites qui reprennent son nom.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -287989,14 +288780,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Starlink est le service d'internet par satellite de SpaceX, et son site officiel est starlink.com. Si vous achetez le kit ailleurs, consultez la liste des revendeurs autorisés de Starlink et vérifiez qui est le vendeur de l'annonce avant de payer."
+          "Starlink est le service d'internet par satellite de SpaceX, et son site officiel est starlink.com. Sur Trustpilot, le profil qui renvoie vers starlink.com s'appelle « Starlink Development ». Si vous achetez le kit ailleurs, consultez la liste des revendeurs autorisés de Starlink et vérifiez qui est le vendeur de l'annonce avant de payer."
         ]
       },
       {
         "heading": "Qui est Starlink et qui vend",
         "paragraphs": [
-          "Starlink vend son service et son matériel sur son site officiel. Le profil Trustpilot de l'entreprise pointe vers le domaine starlink.com.",
-          "Notre analyse [Starlink vaut-il le coup ?](/fr/reviews/starlink-vaut-il-le-coup) montre comment comparer prix, installation et alternatives à votre adresse."
+          "Starlink vend par son site officiel. La commande sur starlink.com affiche le forfait, le kit, les taxes et la durée d'engagement pour votre adresse avant le paiement.",
+          "Notre analyse de [l'intérêt de Starlink](/fr/reviews/starlink-vaut-il-le-coup) montre comment comparer prix, installation et alternatives à votre adresse."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
@@ -288009,21 +288800,27 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comment reconnaître le site officiel",
         "paragraphs": [
-          "Tapez starlink.com dans le navigateur. Avant de saisir vos données ou de payer, vérifiez que vous êtes toujours dans le domaine starlink.com.",
-          "Si on vous demande de payer par message ou en dehors de la commande, vérifiez auprès du support de Starlink avant d'aller plus loin."
+          "Tapez starlink.com dans le navigateur. Avant de saisir des données ou de payer, vérifiez que vous êtes toujours sur starlink.com.",
+          "Contrôlez dans la commande, pour votre propre adresse, le forfait, le kit (location ou achat), les taxes et la durée d'engagement. Si l'on vous demande de payer par message ou en dehors de la commande, confirmez auprès du support Starlink avant de continuer."
         ]
       },
       {
         "heading": "Messages qui utilisent le nom Starlink",
         "paragraphs": [
-          "Le centre d'aide de Starlink publie un avertissement sur l'hameçonnage. Si vous recevez une annonce ou un message au nom de Starlink, confirmez sur starlink.com avant de payer ou de communiquer vos données. Ouvrez toujours le site en tapant l'adresse vous-même."
+          "Le centre d'aide de Starlink publie une alerte sur le phishing. Si une annonce ou un message au nom de Starlink vous parvient, confirmez sur starlink.com avant de payer ou de donner des données. S'il vous mène à une autre adresse, ne saisissez rien et rouvrez le site en tapant vous-même l'adresse."
+        ]
+      },
+      {
+        "heading": "Les profils qui portent le même nom",
+        "paragraphs": [
+          "Sur Trustpilot, le profil de starlink.com s'appelle « Starlink Development ». D'autres profils reprennent le nom avec d'autres domaines, comme ukstarlink.com et starlink.om, et ce ne sont pas starlink.com. Jugez l'entreprise sur le profil qui renvoie vers starlink.com."
         ]
       },
       {
         "heading": "Revendeurs et places de marché",
         "paragraphs": [
-          "Starlink tient une liste de revendeurs autorisés. Même sur une place de marché connue, vérifiez le vendeur de l'annonce.",
-          "Le [parrainage Starlink](/fr/coupons/starlink) s'applique aux commandes éligibles passées via le lien directement sur starlink.com. On ne peut pas l'ajouter à un kit acheté chez un revendeur."
+          "Starlink tient une liste de revendeurs autorisés. Même sur une place de marché connue, vérifiez qui est le vendeur de l'annonce.",
+          "Le [lien de parrainage Starlink](/fr/coupons/starlink) vaut pour les commandes éligibles passées via le lien directement sur starlink.com. Il ne peut pas s'ajouter à un kit acheté chez un revendeur."
         ],
         "links": [
           {
@@ -288033,36 +288830,39 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Les profils qui portent le même nom",
-        "paragraphs": [
-          "Sur Trustpilot, d'autres profils portent le nom Starlink, avec les domaines ukstarlink.com et starlink.om. Ce ne sont pas des profils de starlink.com. Pour juger l'opérateur, consultez celui du domaine officiel."
-        ]
-      },
-      {
         "heading": "Ce que montre Trustpilot",
         "paragraphs": [
-          "Le profil de starlink.com n'est pas revendiqué par l'entreprise et affiche une note de 1,6 sur 5. Les chiffres, les plaintes les plus fréquentes et les limites de cette lecture sont dans notre [analyse de Trustpilot](/fr/reviews/starlink-trustpilot-avis)."
+          "Sur Trustpilot, le profil de starlink.com affiche un TrustScore de 1,6 sur 5 pour 879 avis : 71 % sont à 1 étoile et 17 % à 5 étoiles. Le profil n'est pas revendiqué, donc Starlink ne le gère pas, et l'entreprise a répondu à 0 % des avis.",
+          "Nous avons lu les 40 avis à 1 étoile et les 40 avis à 5 étoiles les plus récents. Parmi les 1 étoile, les plaintes les plus fréquentes concernent un support réduit à un robot ou à un chat (environ 1 sur 3), des coupures et un débit trop faible (environ 1 sur 3), une mensualité qui a augmenté après la souscription (environ 1 sur 4), la facturation et les résiliations difficiles (environ 1 sur 4), des installateurs de sociétés partenaires en retard ou absents (environ 1 sur 4) et un kit en retard ou jamais reçu (environ 1 sur 5). Les 5 étoiles louent la vitesse et la stabilité (environ la moitié), l'installation facile (environ 1 sur 3) et l'absence d'autre bonne option internet (environ 1 sur 4). Ces chiffres sont les nôtres et approximatifs.",
+          "Lisez la note avec prudence : un profil non revendiqué n'envoie aucune invitation après l'achat, et ceux qui l'ouvrent viennent souvent se plaindre. Les éloges parlent du signal ; les plaintes parlent du support, du prix et de la facturation, et peu d'avis à 1 étoile disent que le signal est mauvais en permanence. Le résumé automatique de Trustpilot, fondé sur 355 avis récents, va dans le même sens. Notre [lecture complète du profil Trustpilot](/fr/reviews/starlink-trustpilot-avis) donne les chiffres."
         ]
       },
       {
         "heading": "Que garder après la commande",
+        "paragraphs": [
+          "Une fois la commande passée, la trace de ce que vous avez souscrit règle la plupart des litiges."
+        ],
         "bullets": [
           "Gardez le numéro de commande, le prix affiché au paiement et l'e-mail de confirmation. En cas d'écart, contactez le support depuis le site ou l'application."
-        ]
+        ],
+        "emphasis": "D'après ce que montrent le site officiel et la liste des revendeurs, pour qui s'apprête à acheter le kit, le choix prudent est de commander sur starlink.com ou chez un revendeur de la liste et de garder le numéro de commande, le prix du paiement et l'e-mail de confirmation, car aucune des deux voies ne demande de payer hors de la commande.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Starlink est-il fiable ? Starlink est le service d'internet par satellite de SpaceX. Vérifiez que vous êtes sur starlink.com et lisez le profil du domaine officiel sur Trustpilot.",
-          "Quel est le site officiel de Starlink ? C'est starlink.com. Vérifiez le domaine avant de saisir vos données ou de payer.",
-          "Comment savoir si un vendeur est autorisé ? Consultez la liste des revendeurs de Starlink et vérifiez le vendeur de l'annonce avant de payer."
+          "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d'abonnement, en crédit sur la facture, et le parrain reçoit le même montant.",
+          "Starlink est-il fiable ? Starlink est le service d'internet par satellite de SpaceX. Vérifiez que vous êtes sur starlink.com et utilisez la liste des revendeurs autorisés si vous achetez ailleurs.",
+          "Quel est le site officiel de Starlink ? Le site officiel est starlink.com.",
+          "Comment confirmer qu'un vendeur est autorisé ? Consultez la liste des revendeurs de Starlink et vérifiez qui est le vendeur de l'annonce avant de payer.",
+          "Faut-il acheter sur le site officiel ou chez un revendeur ? Sur starlink.com, la commande affiche forfait, kit, taxes et engagement pour votre adresse avant le paiement, et le parrainage n'y vaut que là. Un revendeur de la liste officielle est un vendeur légitime, mais le parrainage ne s'applique pas."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Rédigé d'après le site officiel, le centre d'aide et les profils publics sur Trustpilot. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+    "editorialNote": "Rédigé à partir du site officiel, du centre d'aide et du profil public Trustpilot. Nous participons au programme de parrainage de Starlink et pouvons recevoir une récompense si vous vous abonnez via notre lien et respectez les règles.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-avis"
@@ -288073,7 +288873,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-vaut-il-le-coup"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "vous allez acheter le kit sur starlink.com et voulez vérifier forfait, kit, taxes et engagement pour votre adresse avant de payer.",
+        "vous avez trouvé le kit chez un revendeur et voulez savoir si le vendeur figure sur la liste de Starlink."
+      ],
+      "skipIf": [
+        "une annonce ou un message vous demande de payer hors de la commande : ne payez pas et confirmez d'abord auprès du support Starlink.",
+        "l'adresse du navigateur n'est pas starlink.com : ne saisissez aucune donnée."
+      ]
+    },
+    "cta": {
+      "text": "Saisissez votre adresse sur le site de Starlink et vérifiez forfait, kit et mensualité avant de payer.",
+      "label": "Voir les forfaits à votre adresse",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1143,
@@ -288093,10 +288909,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Voyez la note, le nombre d'avis et les plaintes qui reviennent sur le profil Trustpilot de starlink.com, et ce que reflètent ces chiffres pour quelqu'un qui hésite à s'abonner.",
-    "metaDescription": "Starlink sur Trustpilot : note de 1,6 sur 5, 871 avis, profil non revendiqué. Voyez les plaintes fréquentes et les limites de ces chiffres.",
+    "metaDescription": "Starlink sur Trustpilot : note de 1,6 pour 879 avis sur un profil non revendiqué. Ce que disent les avis récents à une et à cinq étoiles.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -288108,74 +288924,112 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le profil Trustpilot de starlink.com affiche 1,6 sur 5, jugé « mauvais » par la plateforme, pour 871 avis, dont 71 % à une étoile. Le profil n'est pas revendiqué et l'entreprise n'a pas invité ses clients à laisser un avis, donc ces chiffres reflètent ceux qui ont choisi de laisser un avis. Pour consulter l'opérateur, cherchez le profil du domaine starlink.com."
+          "Starlink Development, le profil Trustpilot de starlink.com, affiche un TrustScore de 1,6 sur 5 pour 879 avis, dont 71 % à une étoile. Le profil n’est pas revendiqué : l’entreprise n’a pas d’offre payante, n’envoie pas d’invitations à laisser un avis et n’a répondu à aucun des 464 avis négatifs. Les avis viennent de clients de nombreux pays."
         ]
       },
       {
-        "heading": "La note et la répartition",
+        "heading": "La note et la répartition des étoiles",
         "paragraphs": [
-          "Nous avons lu le profil le 20 novembre 2026. Le profil, nommé Starlink Development, appartient à la catégorie fournisseur d'accès à internet."
+          "Nous avons lu le profil public de Starlink Development le 23 novembre 2026."
         ],
         "comparisonTable": {
           "headers": [
             "Indicateur",
-            "Profil starlink.com"
+            "starlink.com sur Trustpilot"
           ],
           "rows": [
             [
-              "Note Trustpilot",
-              "1,6 sur 5, « mauvais »"
+              "TrustScore",
+              "1,6 sur 5"
             ],
             [
-              "Nombre d'avis",
-              "871"
+              "Avis",
+              "879"
             ],
             [
               "5 étoiles",
-              "17 %"
+              "148 (17 %)"
             ],
             [
               "4 étoiles",
-              "2 %"
+              "19 (2 %)"
             ],
             [
               "3 étoiles",
-              "3 %"
+              "24 (3 %)"
             ],
             [
               "2 étoiles",
-              "7 %"
+              "61 (7 %)"
             ],
             [
               "1 étoile",
-              "71 %"
+              "627 (71 %)"
+            ],
+            [
+              "Statut du profil",
+              "Non revendiqué, sans offre payante"
+            ],
+            [
+              "Origine des avis",
+              "Organiques, sans invitations aux clients"
+            ],
+            [
+              "Réponses aux avis négatifs",
+              "0 % (aucune sur 464)"
             ]
           ],
-          "caption": "Lecture du profil Trustpilot de starlink.com. La répartition porte sur les 871 avis."
+          "caption": "Trustpilot, profil starlink.com, lu le 23 novembre 2026."
         }
       },
       {
-        "heading": "Pourquoi ces chiffres sont limités",
+        "heading": "Pourquoi un profil non revendiqué tire la note vers le bas",
         "paragraphs": [
-          "Trustpilot signale que l'entreprise n'a jamais invité ses clients à laisser un avis, ce qui peut rendre les avis peu représentatifs. Le profil n'est pas non plus revendiqué par l'entreprise."
+          "Le profil n’est pas revendiqué : l’entreprise n’a pas d’offre payante sur Trustpilot et n’invite pas ses clients à laisser un avis après l’achat. Les marques qui le font récoltent souvent beaucoup d’avis courts à cinq étoiles de clients satisfaits. Ici, rien ne filtre le flux : ceux qui arrivent sur le profil sont surtout des personnes qui ont eu un problème, et les avis sont organiques.",
+          "C’est pourquoi le 1,6 se lit plutôt comme le portrait des clients venus chercher un endroit où se plaindre que comme une moyenne de tous les clients de Starlink. Il compte quand même : l’entreprise ne répond pas sur Trustpilot, aucun des 464 avis négatifs n’a de réponse, et la plateforme n’est donc pas un canal de support pour elle."
+        ]
+      },
+      {
+        "heading": "Ce que disent les avis à une étoile",
+        "paragraphs": [
+          "Nous avons lu les 40 avis à une étoile les plus récents, publiés entre le 23 octobre et le 23 novembre 2026, venant de 16 pays (21 des États-Unis). C’est notre propre lecture de cet échantillon. Un avis peut aborder plusieurs thèmes et les proportions sont approximatives :"
+        ],
+        "bullets": [
+          "Support : seulement un robot ou un chat automatique, sans moyen de joindre une personne (environ 1 avis sur 3).",
+          "Coupures de connexion et débit inférieur à celui attendu (environ 1 sur 3).",
+          "Mensualité augmentée après la souscription, parfois plusieurs fois dans l’année (environ 1 sur 4).",
+          "Facturation d’un service qui n’est plus utilisé, remboursement ou résiliation difficiles à obtenir (environ 1 sur 4).",
+          "Installateur d’une entreprise partenaire absent ou en retard (environ 1 sur 4).",
+          "Livraison du kit en retard ou jamais reçue (environ 1 sur 5)."
+        ]
+      },
+      {
+        "heading": "Ce que disent les avis à cinq étoiles",
+        "paragraphs": [
+          "Nous avons aussi lu les 40 avis à cinq étoiles les plus récents, du 10 décembre 2025 au 17 novembre 2026, venant de 15 pays (dont l’Allemagne, le Royaume-Uni et les États-Unis). Même méthode, même réserve :"
+        ],
+        "bullets": [
+          "Débit et connexion stable (environ la moitié).",
+          "Installation facile, « plug and play » (environ 1 sur 3).",
+          "Habiter là où il n’existe pas d’autre bonne solution internet (environ 1 sur 4).",
+          "Usage en voyage avec le Mini et l’offre Roam (plusieurs avis).",
+          "Support qui a réglé le problème, comme le remplacement de l’antenne (quelques-uns)."
+        ],
+        "postParagraphs": [
+          "Dans cet échantillon, les éloges portent sur le signal, et les plaintes sur le support, le prix et la facturation. Peu d’avis à une étoile disent que le signal est mauvais en permanence. Le résumé automatique de Trustpilot, établi sur 355 avis récents, va dans le même sens (majorité déçue, support injoignable, mensualités en hausse et frais supplémentaires), et nous ne le citons que comme appui secondaire."
         ]
       },
       {
         "heading": "Comment identifier le bon profil",
         "paragraphs": [
-          "Cherchez « Starlink Development », le profil dont le site indiqué est starlink.com. D'autres profils au nom proche renvoient vers d'autres domaines."
+          "Cherchez « Starlink Development » avec starlink.com comme site web. Certains profils au nom proche renvoient vers d’autres domaines. Ce profil réunit des clients de dizaines de pays, donc un avis peut décrire une offre, une taxe ou une règle de livraison qui ne s’applique pas chez vous."
         ]
       },
       {
-        "heading": "Ce que les plaintes ont en commun",
+        "heading": "Ce que cela veut dire pour qui s’abonne",
         "paragraphs": [
-          "Le résumé généré par Trustpilot, établi sur 355 avis récents, retient comme plainte la plus fréquente un support difficile à joindre, avec un chatbot pour seul interlocuteur. Il cite aussi des hausses de la facturation mensuelle et des coûts supplémentaires. Le produit et le débit reçoivent des avis partagés, et certains clients louent la connexion rapide."
-        ]
-      },
-      {
-        "heading": "Ce que cela veut dire pour qui s'abonne",
-        "paragraphs": [
-          "Comparez chaque mois la facture avec le prix affiché sur la commande, et gardez la capture de l'offre. Les règles du matériel loué et de l'annulation sont dans notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier)."
+          "Avant de payer, vérifiez l’offre, le kit (location ou achat), les taxes et le contrat sur starlink.com pour votre propre adresse : ils changent selon le pays et même selon l’adresse. Gardez une capture de l’offre le jour de la commande et comparez-y chaque facture.",
+          "Les règles du kit en location et du retour figurent dans le [guide du contrat, de la résiliation et du remboursement](/fr/reviews/starlink-engagement-resilier)."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
@@ -288186,16 +289040,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Avant de souscrire",
+        "heading": "Comment signaler un problème",
         "paragraphs": [
-          "Avant de souscrire, vérifiez le site et la commande. Comment reconnaître le site officiel et les profils qui portent le même nom est expliqué dans [Starlink est-il fiable ?](/fr/reviews/starlink-est-il-fiable).",
-          "Si vous souscrivez, la [page du parrainage Starlink](/fr/coupons/starlink) réunit le lien et les règles du programme."
-        ]
-      },
-      {
-        "heading": "Comment contacter Starlink et laisser un avis",
-        "paragraphs": [
-          "Ouvrez une demande depuis le site ou l'application de Starlink et gardez le numéro de dossier. Si la facturation diffère de la commande, envoyez le prix affiché à l'offre et la facture. Pour donner votre avis, passez par le profil du domaine starlink.com sur Trustpilot."
+          "Ouvrez une demande de support sur le site de Starlink ou dans l’application et gardez le numéro de dossier. Si la facture ne correspond pas à votre commande, envoyez le prix affiché dans l’offre avec la facture. Si vous ne reconnaissez pas un prélèvement, contactez aussi l’émetteur de votre carte ou votre banque. L’entreprise ne répond pas sur Trustpilot : ne comptez pas sur un avis pour obtenir une réponse."
         ],
         "links": [
           {
@@ -288205,18 +289052,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Avant de souscrire",
+        "paragraphs": [
+          "Avant de souscrire, vérifiez le site et les conditions. Pour reconnaître le site officiel et les profils qui reprennent le nom, voir [Starlink est-il fiable ?](/fr/reviews/starlink-est-il-fiable).",
+          "La page du [parrainage Starlink](/fr/coupons/starlink) donne le lien et les règles du programme. Un parrainage n’est pas un coupon : la récompense arrive en crédit sur la facture après deux mois d’abonnement, et les offres Prioritaire, Enterprise et Commerciale n’y ouvrent pas droit."
+        ],
+        "emphasis": "D’après les chiffres du tableau, pour qui n’a pas de bonne solution internet à son adresse, s’abonner est raisonnable une fois l’offre, le kit, les taxes et le contrat vérifiés sur starlink.com pour cette adresse, car le 1,6 reflète des plaintes de support, de facturation et de prix plus que de qualité du signal."
+      },
+      {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quelle est la note de Starlink sur Trustpilot ? Le profil du domaine starlink.com affiche 1,6 sur 5, pour 871 avis, avec 71 % d'avis à une étoile.",
-          "Quel profil Starlink faut-il consulter ? Celui dont le domaine est starlink.com. Les profils ukstarlink.com et starlink.om sont d'autres sites.",
-          "Les avis Trustpilot représentent-ils tous les clients ? Pas forcément. L'entreprise n'a pas invité ses clients à laisser un avis, donc les avis peuvent ne pas être représentatifs."
+          "Starlink propose-t-il un code de réduction ? Non. Starlink n’a pas de coupon : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d’abonnement, en crédit sur la facture, et la personne qui l’a parrainé reçoit le même montant.",
+          "Quelle est la note de Starlink sur Trustpilot ? Le profil de starlink.com affiche un TrustScore de 1,6 pour 879 avis, dont 71 % à une étoile.",
+          "Pourquoi la note est-elle si basse ? Le profil n’est pas revendiqué : pas d’offre payante, pas d’invitations à laisser un avis, pas de réponses de l’entreprise, il réunit donc surtout des personnes qui ont eu un problème. Dans notre lecture des 40 avis à une étoile les plus récents, le support, les coupures, les hausses de prix et la facturation dominaient les plaintes.",
+          "Quel profil Starlink consulter ? Cherchez le profil dont le domaine est starlink.com. D’autres reprennent le nom avec des domaines différents.",
+          "Comment signaler un problème à Starlink ? Ouvrez une demande sur le site ou dans l’application et gardez le numéro de dossier. L’entreprise ne répond pas aux avis sur Trustpilot, ne comptez donc pas dessus. Si un prélèvement vous semble anormal, contactez l’émetteur de votre carte ou votre banque."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Données du profil public de Trustpilot. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+    "editorialNote": "Données du profil public de Trustpilot et de notre propre lecture d’avis récents. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
     "relatedArticles": [
       {
         "slug": "starlink-est-il-fiable"
@@ -288227,7 +289084,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-vaut-il-le-coup"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "vous n’avez pas de bonne solution internet à votre adresse et avez vérifié sur place offre, kit et contrat avant de payer.",
+        "vous pouvez vivre avec un support qui passe surtout par l’application et le chat automatique."
+      ],
+      "skipIf": [
+        "vous attendez qu’une personne réponde vite quand une facture ou une livraison se passe mal.",
+        "vous voulez que le TrustScore tranche seul : il vient d’un profil non revendiqué et dit peu de chose sur la qualité du signal."
+      ]
+    },
+    "cta": {
+      "text": "Indiquez votre adresse sur le site de Starlink et vérifiez l’offre, le kit et la mensualité avant de payer.",
+      "label": "Voir les offres à votre adresse",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1144,
@@ -288250,7 +289123,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "So öffnen Sie den Starlink-Empfehlungslink, finden den Betrag in der Bestellung und erhalten die Prämie, sobald die Bedingungen des Programms erfüllt sind.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -288293,7 +289166,9 @@ export const reviewsData: unknown[] = [
           "Der Betrag hängt vom Land ab, in dem Sie sich anmelden, und steht in Ihrer Bestellung. Wer empfiehlt, erhält denselben Betrag, als Geld oder als Servicegutschrift.",
           "Das Abonnement muss zwei volle Monatszyklen aktiv und bezahlt bleiben. Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, je nach Land, Konto und Identitätsprüfung.",
           "Standard ist die Gutschrift auf der Rechnung. Bietet Ihr Konto eine Auszahlung in Geld an, öffnen Sie die Empfehlungen im Browser, wählen die Auszahlungsmethode und schließen Identifikation und Bankangaben bei Stripe ab."
-        ]
+        ],
+        "emphasis": "Die Prämie wird erst nach zwei vollen Monatszyklen mit aktivem, bezahltem Abonnement ausgezahlt, standardmäßig als Gutschrift auf der Rechnung, und wer abonniert und wer empfiehlt erhalten denselben Betrag; den Betrag für Ihr Land zeigt die Bestellung.",
+        "emphasisAfterParagraph": 3
       },
       {
         "heading": "Wer teilnehmen kann",
@@ -288325,6 +289200,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Hat Starlink einen Rabattgutschein? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
           "Wie funktioniert die Starlink-Empfehlung? Bestellen Sie auf starlink.com über den Link, prüfen Sie die angewendete Empfehlung, aktivieren Sie das Kit und halten Sie den Dienst zwei volle Monatszyklen aktiv und bezahlt.",
           "Wie viel bringt die Starlink-Empfehlung? Der Betrag hängt vom Land ab, in dem Sie sich anmelden, und steht in Ihrer Bestellung. Wer empfiehlt, erhält denselben Betrag.",
           "Wann kommt die Starlink-Prämie? Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, wenn die Empfehlung die Bedingungen des Programms erfüllt.",
@@ -288354,7 +289230,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Sie ohnehin Starlink abonnieren wollen und die Empfehlung in der ursprünglichen Bestellung haben möchten.",
+        "Sie Neukunde sind und den Dienst zwei volle Monatszyklen aktiv und bezahlt halten können, bis die Prämie ausgezahlt wird."
+      ],
+      "skipIf": [
+        "Sie Starlink-Kunde sind oder waren, denn die Prämie gilt nur für Erstabonnenten.",
+        "Sie bei einem Händler oder auf einem Marktplatz kaufen, denn die Empfehlung zählt nur bei Bestellungen auf starlink.com über den Link."
+      ]
+    }
   },
   {
     "id": 1145,
@@ -288377,7 +289263,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink Black Friday: 50 % auf Privathaushalt und Reise für 3 Monate, Kit zur Miete für 0 €. Die Rechnung für Berlin und die Empfehlungsprämie.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -288435,6 +289321,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Beim Max zeigte die Seite die professionelle Montage mit 0 €. Die Prämie braucht eine berechtigte Empfehlung, und Starlink zahlt sie als Servicegutschrift oder, wo das Konto es anbietet, als Auszahlung."
+        ],
+        "emphasis": "Nach den Zahlen der Tabelle zahlt, wer in Berlin bestellt, 19 € am Bestelltag und danach 17,50 € bis 37,50 € im Monat, und die Prämie wird erst nach zwei vollen Monatszyklen gutgeschrieben, sodass die ersten Rechnungen aus eigener Tasche kommen.",
+        "links": [
+          {
+            "label": "Tarife für Ihre Adresse ansehen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -288486,6 +289380,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Hat Starlink einen Rabattcode? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
           "Gibt es bei Starlink einen Black Friday? Die Bestellseite für Berlin zeigte 50 % Rabatt auf die Tarife Privathaushalt und Reise für 3 Monate, mit Kit zur Miete für 0 €.",
           "Lässt sich die Empfehlung mit dem Angebot kombinieren? Prüfen Sie in der Bestellung für Ihre Adresse, ob beide erscheinen. Die Prämie hängt von der Berechtigung und von zwei vollen Monatszyklen ab.",
           "Wie viel wird bei der Bestellung berechnet? Die Bestellseite für Berlin zeigte 19 € als Betrag für den Bestelltag.",
@@ -288514,7 +289409,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "die Bestellung für Ihre Adresse das Angebot und die Kit-Bedingungen vor der Zahlung zeigt.",
+        "Sie zwei volle Monatszyklen auf die Prämie warten und die Rechnungen in der Zwischenzeit zahlen können."
+      ],
+      "skipIf": [
+        "Ihre Bestellung das Angebot nicht zeigt, denn die gelesenen Preise gelten für eine einzige Adresse.",
+        "Sie bald wieder kündigen könnten und weder die Rückgabe des Kits noch den Verlust des Aktionspreises riskieren wollen."
+      ]
+    }
   },
   {
     "id": 1146,
@@ -288537,7 +289442,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Lohnt sich Starlink? Die Kosten der ersten Monate mit Kit-Miete, Preise nach Adresse, für wen es passt und wann Glasfaser oder Mobilfunk besser sind.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -288589,6 +289494,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Die professionelle Montage ist bei 100 und 200 Mbit/s optional und kostete 172 €, beim Max 0 €. Den Preis nach den 3 Aktionsmonaten haben wir nicht erfasst, deshalb rechnen wir kein volles Jahr aus. Prüfen Sie ihn in Ihrer Bestellung, bevor Sie bezahlen.",
           "Rechnen Sie an Ihrer Adresse zuerst ohne die Prämie. Bei unserer Empfehlung zeigt die Bestellung die Prämie, die nach den Regeln des Programms gutgeschrieben wird. Mehr auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink)."
+        ],
+        "links": [
+          {
+            "label": "Tarife für Ihre Adresse ansehen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -288614,7 +289526,9 @@ export const reviewsData: unknown[] = [
         "heading": "Wann Sie Glasfaser oder Mobilfunk vergleichen sollten",
         "paragraphs": [
           "Wenn schon stabile Glasfaser ankommt, vergleichen Sie die Summe aus Einrichtung, Monatspreisen und einer möglichen Mindestlaufzeit jedes Angebots. Rechnen Sie beim Mobilfunk das Gerät ein, das Sie brauchen, und prüfen Sie, ob das Datenvolumen für den Haushalt reicht."
-        ]
+        ],
+        "emphasis": "Ohne stabile Glasfaser und ohne brauchbares Mobilfunknetz an der Adresse kommt Starlink in die engere Wahl; bei stabiler Glasfaser lohnt der Wechsel nur, wenn die Summe aus Kit, Einrichtung und Monatspreisen für die geplante Laufzeit unter den Kosten des bisherigen Anschlusses bleibt.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Geschwindigkeit und Spiele",
@@ -288642,14 +289556,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Unsere Erfahrung bisher",
-        "paragraphs": [
-          "Wir haben Starlink abonniert, aber noch keine Nutzungserfahrung. Geschwindigkeit, Installation und Alltag fließen in eine Aktualisierung dieses Artikels ein, sobald es sie gibt."
-        ]
-      },
-      {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Hat Starlink einen Rabattgutschein? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
           "Lohnt sich Starlink in der Stadt? Bei stabiler Glasfaser an der Adresse vergleichen Sie Einrichtung, Monatspreise und Laufzeit, bevor Sie wechseln.",
           "Ist Starlink besser als Glasfaser? Ohne gute Glasfaser vor Ort lohnt es sich, Starlink für die Adresse zu prüfen, samt freier Sicht zum Himmel. Sind beide verfügbar, vergleichen Sie Stabilität und Kosten an Ihrer Adresse.",
           "Ist Starlink gut zum Spielen? Testen Sie Reaktionszeit und Unterbrechungen an Ihrer Adresse. Die typische Spanne, die Starlink nennt, ist ein allgemeiner Richtwert.",
@@ -288660,11 +289569,11 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "An Ihrer Adresse kommt keine brauchbare Glasfaser an, und auch das Mobilfunknetz ist schwach.",
+        "an Ihrer Adresse kommt keine brauchbare Glasfaser an, und auch das Mobilfunknetz ist schwach.",
         "Sie wollen das Kit mieten und prüfen vor dem Bezahlen, welcher Preis nach den Aktionsmonaten gilt."
       ],
       "skipIf": [
-        "Bei Ihnen liegt bereits ein stabiler Glasfaseranschluss, und Sie brauchen kein Kit.",
+        "bei Ihnen liegt bereits ein stabiler Glasfaseranschluss, und Sie brauchen kein Kit.",
         "Sie spielen online mit sehr kurzer Reaktionszeit, und Starlink nennt dafür nur eine typische Spanne, keine Messung an Ihrer Adresse."
       ]
     },
@@ -288677,7 +289586,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Preise von der Bestellseite der offiziellen Website gelesen, ohne den Kauf abzuschließen. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+    "editorialNote": "Preise von der Bestellseite der offiziellen Website gelesen, ohne den Kauf abzuschließen. Wir haben den Dienst noch nicht genutzt. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
     "relatedArticles": [
       {
         "slug": "starlink-vertrag-kuendigen"
@@ -288711,7 +289620,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink kündigen in Deutschland: Das Kit ist zur Miete und geht zurück. Die 30 Tage für die Erstattung und die Schritte im Konto.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -288752,7 +289661,8 @@ export const reviewsData: unknown[] = [
           "caption": "Das Kit, das bei der Rückgabe zurückgeht: Antenne, Router, Halterung und Kabel. Foto von Starlink.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "emphasis": "Nach den Bedingungen der Bestellung löst nur die Kündigung mit unbeschädigter Rückgabe des Kits innerhalb von 30 Tagen die Erstattung von Kit und erstem Monat aus, und der Versandbeleg ist der Nachweis, auf den es ankommt."
       },
       {
         "heading": "So kündigen Sie",
@@ -288795,6 +289705,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Hat Starlink einen Rabattcode? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
           "Hat Starlink eine Vertragslaufzeit? In den gelesenen Angaben der Bestellseite für Berlin haben wir keine gefunden. Prüfen Sie die Zusammenfassung Ihrer Bestellung.",
           "Was kostet es, Starlink zu kündigen? Eine Gebühr für die Kündigung haben wir in den gelesenen Angaben nicht gefunden. Das Kit muss bei Kündigung zurückgeschickt werden.",
           "Kann ich Starlink jederzeit kündigen? Die Kündigung geht über das Konto. Der Dienst bleibt bis zum Ende des bezahlten Zeitraums aktiv.",
@@ -288817,7 +289728,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-trustpilot-bewertungen"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie das gemietete Kit bei Kündigung innerhalb von 30 Tagen unbeschädigt zurückgeben können.",
+        "Sie die Bedingungen in der Zusammenfassung Ihrer eigenen Bestellung vor der Zahlung lesen."
+      ],
+      "skipIf": [
+        "Sie das Kit nicht rechtzeitig in gutem Zustand zurückschicken können.",
+        "Ihre Bestellung eine Laufzeit oder eine Kündigungsgebühr zeigt, die Sie nicht akzeptieren."
+      ]
+    },
+    "cta": {
+      "text": "Die Bestellung öffnet sich auf der Starlink-Seite. Prüfen Sie Laufzeit, Gebühren und Rückgabe des Kits, bevor Sie bezahlen.",
+      "label": "Bedingungen für meine Adresse prüfen",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1148,
@@ -288836,11 +289763,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Die offizielle Seite von Starlink und das Trustpilot-Profil der Domain helfen zu prüfen, bei wem Sie kaufen. Das sollten Sie vor dem Bezahlen für das Kit kontrollieren.",
-    "metaDescription": "So erkennen Sie die offizielle Seite von Starlink, das Trustpilot-Profil der Domain starlink.com und die Liste der autorisierten Händler.",
+    "description": "Die offizielle Starlink-Seite und die Liste autorisierter Händler zeigen, bei wem Sie kaufen. Was Sie vor dem Bezahlen prüfen sollten und welche ähnlichen Profile Sie ignorieren.",
+    "metaDescription": "So erkennen Sie die offizielle Starlink-Seite, nutzen die Liste autorisierter Händler und meiden Profile und Seiten, die den Namen verwenden.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -288852,14 +289779,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Starlink ist der Satelliteninternetdienst von SpaceX. Die offizielle Website ist starlink.com. Wenn Sie das Kit anderswo kaufen, prüfen Sie zuerst die Liste der autorisierten Händler und den Verkäufer des Angebots. Auf Trustpilot finden Sie die Bewertungen unter „Starlink Development“ mit starlink.com als Website."
+          "Starlink ist der Satelliten-Internetdienst von SpaceX, die offizielle Seite ist starlink.com. Auf Trustpilot heißt das Profil, das auf starlink.com verweist, „Starlink Development“. Wenn Sie das Kit anderswo kaufen, prüfen Sie die Liste autorisierter Starlink-Händler und sehen Sie nach, wer der Verkäufer des Angebots ist, bevor Sie zahlen."
         ]
       },
       {
         "heading": "Wer Starlink ist und wer verkauft",
         "paragraphs": [
-          "Starlink verkauft über die offizielle Seite. Der Dienst gehört zu SpaceX, und die Bestellung läuft auf starlink.com.",
-          "Die Auswertung [lohnt sich Starlink?](/de/reviews/lohnt-sich-starlink) zeigt, wie Sie Preis, Installation und Alternativen an Ihrer Adresse vergleichen."
+          "Starlink verkauft über die offizielle Seite. Die Bestellung auf starlink.com zeigt vor der Zahlung Tarif, Kit, Steuern und Vertragslaufzeit für Ihre Adresse.",
+          "Unsere Analyse, [wann sich Starlink lohnt](/de/reviews/lohnt-sich-starlink), zeigt, wie Sie Preis, Installation und Alternativen an Ihrer Adresse vergleichen."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
@@ -288872,60 +289799,69 @@ export const reviewsData: unknown[] = [
       {
         "heading": "So erkennen Sie die offizielle Seite",
         "paragraphs": [
-          "Geben Sie starlink.com im Browser ein. Prüfen Sie, bevor Sie Daten eingeben oder bezahlen, dass Sie sich weiterhin auf starlink.com befinden."
-        ]
-      },
-      {
-        "heading": "Welches Trustpilot-Profil ist das von Starlink?",
-        "paragraphs": [
-          "Das Profil „Starlink Development“ gehört zur Domain starlink.com, in der Kategorie Internetanbieter. Es ist bei Trustpilot nicht beansprucht. Bei Trustpilot tauchen außerdem Profile mit dem Namen auf, die zu anderen Domains gehören, nämlich ukstarlink.com und starlink.om. Das sind nicht starlink.com."
-        ]
-      },
-      {
-        "heading": "Händler und Marktplätze",
-        "paragraphs": [
-          "Starlink führt eine Liste autorisierter Händler. Prüfen Sie auch auf einem bekannten Marktplatz, wer das Angebot verkauft.",
-          "Die [Starlink-Empfehlung](/de/coupons/starlink) gilt für berechtigte Bestellungen über den Link direkt auf starlink.com. Sie lässt sich nicht nachträglich zu einem Kit aus dem Handel hinzufügen."
-        ],
-        "links": [
-          {
-            "label": "Liste der von Starlink autorisierten Händler",
-            "href": "https://starlink.com/de/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
-          }
+          "Geben Sie starlink.com im Browser ein. Prüfen Sie, bevor Sie Daten eingeben oder zahlen, dass Sie weiter auf starlink.com sind.",
+          "Prüfen Sie in der Bestellung für Ihre eigene Adresse Tarif, Kit (Miete oder Kauf), Steuern und Vertragslaufzeit. Wenn jemand verlangt, per Nachricht oder außerhalb der Bestellung zu zahlen, klären Sie das mit dem Starlink-Support, bevor Sie weitermachen."
         ]
       },
       {
         "heading": "Nachrichten, die den Namen Starlink nutzen",
         "paragraphs": [
-          "Das Hilfecenter von Starlink enthält einen Hinweis zu Phishing. Erreicht Sie eine Anzeige oder Nachricht im Namen von Starlink, bestätigen Sie das Angebot auf starlink.com, bevor Sie bezahlen oder Daten weitergeben."
+          "Das Hilfecenter von Starlink enthält einen Hinweis zu Phishing. Erhalten Sie eine Anzeige oder Nachricht im Namen von Starlink, bestätigen Sie auf starlink.com, bevor Sie zahlen oder Daten angeben. Führt sie zu einer anderen Adresse, geben Sie nichts ein und öffnen Sie die Seite neu, indem Sie die Adresse selbst eintippen."
+        ]
+      },
+      {
+        "heading": "Welches Trustpilot-Profil ist das von Starlink?",
+        "paragraphs": [
+          "Auf Trustpilot heißt das Profil von starlink.com „Starlink Development“. Andere Profile nutzen den Namen mit anderen Domains, etwa ukstarlink.com und starlink.om, und sind nicht starlink.com. Beurteilen Sie das Unternehmen nach dem Profil, das auf starlink.com verweist."
+        ]
+      },
+      {
+        "heading": "Händler und Marktplätze",
+        "paragraphs": [
+          "Starlink führt eine Liste autorisierter Händler. Auch auf einem bekannten Marktplatz sollten Sie prüfen, wer der Verkäufer des Angebots ist.",
+          "Der [Starlink-Empfehlungslink](/de/coupons/starlink) gilt für berechtigte Bestellungen, die über den Link direkt auf starlink.com aufgegeben werden. Er lässt sich nicht auf ein beim Händler gekauftes Kit übertragen."
+        ],
+        "links": [
+          {
+            "label": "Liste autorisierter Starlink-Händler",
+            "href": "https://starlink.com/de/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
         ]
       },
       {
         "heading": "Was Trustpilot zeigt",
         "paragraphs": [
-          "Am 20. November 2026 stand das Profil bei einem TrustScore von 1,6 von 5, bei 871 Bewertungen. Das Profil ist nicht beansprucht.",
-          "Die [vollständige Auswertung der Bewertungen](/de/reviews/starlink-trustpilot-bewertungen) bringt die Zahlen, die häufigsten Beschwerden und die Grenzen dieser Zahl."
+          "Auf Trustpilot hat das Profil von starlink.com einen TrustScore von 1,6 von 5 bei 879 Bewertungen: 71 % sind 1-Sterne- und 17 % 5-Sterne-Bewertungen. Das Profil ist nicht beansprucht, Starlink betreut es also nicht, und das Unternehmen hat auf 0 % der Bewertungen geantwortet.",
+          "Wir haben die 40 neuesten 1-Sterne- und die 40 neuesten 5-Sterne-Bewertungen gelesen. Bei den 1-Sterne-Bewertungen sind die häufigsten Beschwerden ein Support, der nur aus Bot oder Chat besteht (etwa jede dritte), Ausfälle und zu geringe Geschwindigkeit (etwa jede dritte), ein nach Vertragsabschluss gestiegener Monatspreis (etwa jede vierte), Abrechnung und schwierige Kündigung (etwa jede vierte), verspätete oder nicht erschienene Installateure von Partnerfirmen (etwa jede vierte) sowie ein verspätetes oder nicht angekommenes Kit (etwa jede fünfte). Die 5-Sterne-Bewertungen loben Geschwindigkeit und Stabilität (etwa die Hälfte), die einfache Installation (etwa jede dritte) und das Fehlen einer anderen guten Internetoption (etwa jede vierte). Die Zahlen sind unsere eigenen und ungefähr.",
+          "Lesen Sie die Note mit Vorsicht: Ein nicht beanspruchtes Profil verschickt nach dem Kauf keine Einladungen, und wer es öffnet, will oft sich beschweren. Das Lob gilt dem Signal, die Beschwerden gelten Support, Preis und Abrechnung, und nur wenige 1-Sterne-Bewertungen sagen, das Signal sei dauerhaft schlecht. Die automatische Zusammenfassung von Trustpilot, die auf 355 neuen Bewertungen beruht, zeigt in dieselbe Richtung. Unsere [vollständige Auswertung des Trustpilot-Profils](/de/reviews/starlink-trustpilot-bewertungen) nennt die Zahlen."
         ]
       },
       {
         "heading": "Was Sie nach dem Kauf aufbewahren sollten",
+        "paragraphs": [
+          "Ist die Bestellung aufgegeben, klärt der Beleg dessen, was Sie vereinbart haben, die meisten Streitfälle."
+        ],
         "bullets": [
-          "Bewahren Sie Bestellnummer, den im Checkout angezeigten Preis und die Bestätigungs-E-Mail auf. Gibt es eine Abweichung, wenden Sie sich über die Website oder die App an den Support."
-        ]
+          "Bewahren Sie die Bestellnummer, den im Checkout angezeigten Preis und die Bestätigungs-E-Mail auf. Passt etwas nicht zusammen, wenden Sie sich über die Website oder die App an den Support."
+        ],
+        "emphasis": "Nach dem, was die offizielle Seite und die Händlerliste zeigen, ist für alle, die das Kit kaufen wollen, die sichere Wahl, auf starlink.com oder bei einem gelisteten Händler zu bestellen und Bestellnummer, Checkout-Preis und Bestätigungs-E-Mail aufzubewahren, denn keiner der beiden Wege verlangt eine Zahlung außerhalb der Bestellung.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Ist Starlink seriös? Starlink ist der Satelliteninternetdienst von SpaceX. Prüfen Sie die Seite starlink.com und das Trustpilot-Profil, das zur Domain starlink.com gehört.",
-          "Wie lautet die offizielle Seite von Starlink? Die offizielle Seite ist starlink.com.",
-          "Wie erkenne ich, ob ein Verkäufer autorisiert ist? Sehen Sie in die Händlerliste von Starlink und prüfen Sie den Verkäufer des Angebots, bevor Sie bezahlen."
+          "Hat Starlink einen Gutscheincode? Nein. Starlink hat keinen Gutscheincode: Über den Empfehlungslink von Cecília erhält, wer abschließt, in Deutschland nach zwei Monaten Abo 45 € als Guthaben auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
+          "Ist Starlink seriös? Starlink ist der Satelliten-Internetdienst von SpaceX. Prüfen Sie, dass Sie auf starlink.com sind, und nutzen Sie die Liste autorisierter Händler, wenn Sie anderswo kaufen.",
+          "Was ist die offizielle Starlink-Website? Die offizielle Seite ist starlink.com.",
+          "Wie erkenne ich, ob ein Verkäufer autorisiert ist? Sehen Sie in die Händlerliste von Starlink und prüfen Sie vor dem Bezahlen, wer der Verkäufer des Angebots ist.",
+          "Soll ich auf der offiziellen Seite oder beim Händler kaufen? Auf starlink.com zeigt die Bestellung vor der Zahlung Tarif, Kit, Steuern und Laufzeit für Ihre Adresse, und der Empfehlungslink gilt nur dort. Ein Händler der offiziellen Liste ist ein legitimer Verkäufer, doch die Empfehlung greift nicht."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Mit der offiziellen Website, dem Hilfecenter und den öffentlichen Profilen bei Trustpilot erstellt. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+    "editorialNote": "Erstellt anhand der offiziellen Seite, des Hilfecenters und des öffentlichen Trustpilot-Profils. Wir nehmen am Empfehlungsprogramm von Starlink teil und können eine Belohnung erhalten, wenn Sie über unseren Link abschließen und die Regeln erfüllen.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-bewertungen"
@@ -288936,7 +289872,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "lohnt-sich-starlink"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie wollen das Kit auf starlink.com kaufen und vor dem Bezahlen Tarif, Kit, Steuern und Laufzeit für Ihre Adresse prüfen.",
+        "Sie haben das Kit bei einem Händler gefunden und wollen wissen, ob der Verkäufer auf der Starlink-Liste steht."
+      ],
+      "skipIf": [
+        "ein Angebot oder eine Nachricht verlangt Zahlung außerhalb der Bestellung: nicht zahlen und zuerst den Starlink-Support fragen.",
+        "die Adresse im Browser ist nicht starlink.com: keine Daten eingeben."
+      ]
+    },
+    "cta": {
+      "text": "Geben Sie Ihre Adresse auf der Starlink-Seite ein und prüfen Sie Tarif, Kit und Monatspreis vor dem Bezahlen.",
+      "label": "Tarife für Ihre Adresse ansehen",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1149,
@@ -288956,10 +289908,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Der TrustScore, wie viele Menschen bewertet haben und welche Beschwerden im Trustpilot-Profil der Domain starlink.com auftauchen. Dazu, wie Sie selbst reklamieren.",
-    "metaDescription": "Starlink bei Trustpilot: TrustScore 1,6 bei 871 Bewertungen im Profil der Domain starlink.com. Häufigste Beschwerden und wie Sie reklamieren.",
+    "metaDescription": "Starlink bei Trustpilot: TrustScore 1,6 bei 879 Bewertungen auf einem nicht beanspruchten Profil. Was aktuelle Ein- und Fünf-Sterne-Bewertungen sagen.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -288971,18 +289923,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Das Trustpilot-Profil der Domain starlink.com steht bei einem TrustScore von 1,6 von 5 und 871 Bewertungen. 71 % der Bewertungen vergeben einen Stern, 17 % fünf Sterne. Das Profil ist nicht beansprucht, und das Unternehmen hat Kunden laut Profil bisher nicht zu Bewertungen eingeladen."
+          "Starlink Development, das Trustpilot-Profil von starlink.com, hat einen TrustScore von 1,6 von 5 bei 879 Bewertungen, davon 71 % mit einem Stern. Das Profil ist nicht beansprucht: Das Unternehmen hat keinen kostenpflichtigen Tarif, verschickt keine Einladungen zu Bewertungen und hat auf keine der 464 negativen Bewertungen geantwortet. Die Bewertungen stammen von Kunden aus vielen Ländern."
         ]
       },
       {
-        "heading": "Die Zahl und ihr Gewicht",
+        "heading": "Die Note und die Verteilung der Sterne",
         "paragraphs": [
-          "Wir haben das Profil am 20. November 2026 gelesen. Trustpilot ordnet den Wert als „Bad“ ein. Die Zahl zeigt, was Menschen dort geschrieben haben, und nicht, wie es allen Kunden geht."
+          "Wir haben das öffentliche Profil von Starlink Development am 23. November 2026 gelesen."
         ],
         "comparisonTable": {
           "headers": [
-            "Indikator",
-            "Starlink bei Trustpilot"
+            "Kennzahl",
+            "starlink.com bei Trustpilot"
           ],
           "rows": [
             [
@@ -288990,56 +289942,93 @@ export const reviewsData: unknown[] = [
               "1,6 von 5"
             ],
             [
-              "Bewertungen insgesamt",
-              "871"
+              "Bewertungen",
+              "879"
             ],
             [
               "5 Sterne",
-              "17 %"
+              "148 (17 %)"
             ],
             [
               "4 Sterne",
-              "2 %"
+              "19 (2 %)"
             ],
             [
               "3 Sterne",
-              "3 %"
+              "24 (3 %)"
             ],
             [
               "2 Sterne",
-              "7 %"
+              "61 (7 %)"
             ],
             [
               "1 Stern",
-              "71 %"
+              "627 (71 %)"
+            ],
+            [
+              "Profilstatus",
+              "Nicht beansprucht, ohne kostenpflichtigen Tarif"
+            ],
+            [
+              "Herkunft der Bewertungen",
+              "Organisch, ohne Einladungen an Kunden"
+            ],
+            [
+              "Antworten auf negative Bewertungen",
+              "0 % (keine von 464)"
             ]
           ],
-          "caption": "Stand des Profils starlink.com bei unserer Lektüre."
+          "caption": "Trustpilot, Profil von starlink.com, gelesen am 23. November 2026."
         }
       },
       {
-        "heading": "Was die Zahl aussagt und was nicht",
+        "heading": "Warum ein nicht beanspruchtes Profil niedrig ausfällt",
         "paragraphs": [
-          "Der TrustScore stammt von Trustpilot. Das Profil ist nicht beansprucht, und laut Trustpilot hat das Unternehmen Kunden nicht zu Bewertungen eingeladen. Deshalb sind die Bewertungen möglicherweise nicht repräsentativ. Aussagen darüber, wie oft Starlink antwortet oder Probleme löst, haben wir im Profil nicht gelesen."
+          "Das Profil ist nicht beansprucht: Das Unternehmen hat keinen kostenpflichtigen Trustpilot-Tarif und lädt Kunden nach dem Kauf nicht zu Bewertungen ein. Marken, die das tun, sammeln oft viele kurze Fünf-Sterne-Bewertungen zufriedener Käufer. Hier filtert nichts den Zufluss: Wer das Profil aufruft, hat meist ein Problem, und die Bewertungen sind organisch.",
+          "Deshalb ist die 1,6 eher das Bild von Kunden, die einen Ort zum Beschweren gesucht haben, als ein Durchschnitt aller Starlink-Kunden. Sie zählt trotzdem: Das Unternehmen antwortet bei Trustpilot nicht, keine der 464 negativen Bewertungen hat eine Antwort, die Plattform ist für es also kein Supportkanal."
+        ]
+      },
+      {
+        "heading": "Was die Ein-Sterne-Bewertungen sagen",
+        "paragraphs": [
+          "Wir haben die 40 neuesten Ein-Sterne-Bewertungen gelesen, veröffentlicht zwischen dem 23. Oktober und dem 23. November 2026, aus 16 Ländern (21 davon aus den USA). Das ist unsere eigene Auswertung dieser Stichprobe. Eine Bewertung kann mehrere Themen berühren, die Anteile sind ungefähr:"
+        ],
+        "bullets": [
+          "Support: nur ein Bot oder automatischer Chat, keine Möglichkeit, einen Menschen zu erreichen (etwa jede dritte).",
+          "Verbindungsabbrüche und geringere Geschwindigkeit als erwartet (etwa jede dritte).",
+          "Monatspreis nach Vertragsabschluss erhöht, teils mehrmals im Jahr (etwa jede vierte).",
+          "Abbuchungen für einen nicht mehr genutzten Dienst, schwierige Erstattung oder Kündigung (etwa jede vierte).",
+          "Installateur eines Partnerbetriebs, der nicht erscheint oder zu spät kommt (etwa jede vierte).",
+          "Lieferung des Kits verspätet oder nie angekommen (etwa jede fünfte)."
+        ]
+      },
+      {
+        "heading": "Was die Fünf-Sterne-Bewertungen sagen",
+        "paragraphs": [
+          "Außerdem haben wir die 40 neuesten Fünf-Sterne-Bewertungen gelesen, vom 10. Dezember 2025 bis zum 17. November 2026, aus 15 Ländern (darunter Deutschland, das Vereinigte Königreich und die USA). Gleiche Methode, gleicher Vorbehalt:"
+        ],
+        "bullets": [
+          "Geschwindigkeit und stabile Verbindung (etwa die Hälfte).",
+          "Einfache Installation, „Plug and Play“ (etwa jede dritte).",
+          "Wohnort ohne andere gute Internetoption (etwa jede vierte).",
+          "Nutzung auf Reisen mit dem Mini und dem Roam-Tarif (mehrere).",
+          "Support, der das Problem gelöst hat, etwa mit einem Antennentausch (einige)."
+        ],
+        "postParagraphs": [
+          "In dieser Stichprobe geht es beim Lob um das Signal und bei den Beschwerden um Support, Preis und Abrechnung. Nur wenige Ein-Sterne-Bewertungen sagen, das Signal sei ständig schlecht. Die automatische Zusammenfassung von Trustpilot zu 355 aktuellen Bewertungen geht in dieselbe Richtung (überwiegend enttäuschte Kunden, nicht erreichbarer Support, höhere Monatsgebühren und Zusatzkosten); wir führen sie nur als nachgeordnete Stütze an."
         ]
       },
       {
         "heading": "Wie Sie das Profil des Anbieters erkennen",
         "paragraphs": [
-          "Suchen Sie das Profil „Starlink Development“ mit der Domain starlink.com, in der Kategorie Internetanbieter. Bei Trustpilot erscheinen auch „Uk Starlink“ (ukstarlink.com) und „Starlink“ (starlink.om). Beide gehören zu anderen Domains und sind nicht starlink.com."
-        ]
-      },
-      {
-        "heading": "Was am häufigsten beanstandet wird",
-        "paragraphs": [
-          "Trustpilot fasst die 355 jüngsten Bewertungen mit einer KI-Zusammenfassung zusammen. Die häufigste Beschwerde betrifft den Support, der sich kaum erreichen lasse und oft nur über einen Chatbot laufe. Dazu kommen höhere monatliche Beträge und zusätzliche Kosten. Zu Produkt und Geschwindigkeit sind die Meinungen gemischt, einige loben die schnelle Verbindung."
+          "Suchen Sie „Starlink Development“ mit starlink.com als Website. Manche Profile mit ähnlichem Namen verweisen auf andere Domains. Dieses Profil bündelt Kunden aus Dutzenden Ländern, eine Bewertung kann also einen Tarif, eine Steuer oder eine Lieferregel beschreiben, die bei Ihnen nicht gilt."
         ]
       },
       {
         "heading": "Was das für Abonnenten bedeutet",
         "paragraphs": [
-          "Wer abonniert, sollte jede Rechnung mit dem Preis aus der Bestellung vergleichen. Der Aktionspreis in Deutschland galt laut Bestellseite für 3 Monate. Den Preis danach haben wir nicht erfasst.",
-          "Zur Kündigung und zur Rückgabe des Kits lesen Sie den [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen)."
+          "Prüfen Sie vor der Zahlung Tarif, Kit (Miete oder Kauf), Steuern und Vertrag auf starlink.com für Ihre eigene Adresse: Sie ändern sich je nach Land und sogar je nach Adresse. Speichern Sie einen Screenshot des Angebots vom Bestelltag und vergleichen Sie jede Rechnung damit.",
+          "Die Regeln zu Mietkit und Rückgabe stehen im [Leitfaden zu Vertrag, Kündigung und Erstattung](/de/reviews/starlink-vertrag-kuendigen)."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
@@ -289050,41 +290039,40 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Vor dem Abschluss",
+        "heading": "So melden Sie ein Problem",
         "paragraphs": [
-          "Prüfen Sie vor dem Abschluss die Seite und die Bestellung. Wie Sie die offizielle Seite und die Profile mit dem Namen erkennen, steht in [ist Starlink seriös?](/de/reviews/ist-starlink-serioes).",
-          "Wenn Sie abonnieren wollen, finden Sie Link und Regeln auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink)."
-        ]
-      },
-      {
-        "heading": "So reklamieren Sie",
-        "paragraphs": [
-          "Eröffnen Sie eine Anfrage auf der Website oder in der App von Starlink und bewahren Sie die Vorgangsnummer auf. Weicht die Abbuchung von der Bestellung ab, senden Sie den im Angebot angezeigten Betrag und die Rechnung mit."
+          "Eröffnen Sie eine Supportanfrage auf der Starlink-Website oder in der App und bewahren Sie die Vorgangsnummer auf. Weicht die Rechnung von Ihrer Bestellung ab, schicken Sie den im Angebot angezeigten Preis zusammen mit der Rechnung. Erkennen Sie eine Abbuchung nicht, wenden Sie sich auch an den Kartenherausgeber oder Ihre Bank. Das Unternehmen antwortet bei Trustpilot nicht, rechnen Sie also nicht mit einer Antwort auf eine Bewertung."
         ],
         "links": [
           {
-            "label": "Offizielle Kontakte von Starlink",
-            "href": "https://starlink.com/de/support/article/bdb63773-e93b-74e8-8e12-2da2fb6d534e"
-          },
-          {
-            "label": "Trustpilot-Profil der Domain starlink.com",
+            "label": "Starlink-Profil bei Trustpilot",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
         ]
       },
       {
+        "heading": "Vor dem Abschluss",
+        "paragraphs": [
+          "Prüfen Sie vor dem Abschluss die Website und die Bedingungen. Wie Sie die offizielle Seite und Profile mit ähnlichem Namen erkennen, steht in [Ist Starlink seriös?](/de/reviews/ist-starlink-serioes).",
+          "Die Seite zur [Starlink-Empfehlung](/de/coupons/starlink) enthält den Link und die Programmregeln. Eine Empfehlung ist kein Gutschein: Die Prämie kommt nach zwei Monaten Abonnement als Guthaben auf der Rechnung, und die Tarife Priority, Enterprise und Commercial erhalten sie nicht."
+        ],
+        "emphasis": "Nach den Zahlen der Tabelle ist das Abonnieren für alle ohne gute Internetalternative an ihrer Adresse vertretbar, sobald Tarif, Kit, Steuern und Vertrag auf starlink.com für diese Adresse geprüft sind, denn die 1,6 spiegelt Beschwerden über Support, Abrechnung und Preis stärker wider als die Signalqualität."
+      },
+      {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Wie ist die Bewertung von Starlink bei Trustpilot? Das Profil der Domain starlink.com steht bei einem TrustScore von 1,6 von 5 und 871 Bewertungen.",
-          "Welches Profil von Starlink sollte ich ansehen? Suchen Sie „Starlink Development“ mit der Domain starlink.com. Profile mit ukstarlink.com oder starlink.om sind nicht starlink.com.",
-          "Wie reklamiere ich bei Starlink? Eröffnen Sie eine Anfrage über die Website oder die App und bewahren Sie die Vorgangsnummer auf. Erkennen Sie eine Abbuchung nicht, wenden Sie sich außerdem an Ihre Bank."
+          "Hat Starlink einen Rabattcode? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abschließt, in Deutschland 45 € nach zwei Monaten Abonnement als Guthaben auf der Rechnung, und wer empfohlen hat, bekommt denselben Betrag.",
+          "Welche Note hat Starlink bei Trustpilot? Das Profil von starlink.com hat einen TrustScore von 1,6 bei 879 Bewertungen, davon 71 % mit einem Stern.",
+          "Warum ist die Note so niedrig? Das Profil ist nicht beansprucht, ohne kostenpflichtigen Tarif, ohne Einladungen zu Bewertungen und ohne Antworten des Unternehmens, es sammelt also vor allem Menschen mit einem Problem. In unserer Auswertung der 40 neuesten Ein-Sterne-Bewertungen standen Support, Verbindungsabbrüche, Preiserhöhungen und Abrechnung im Vordergrund.",
+          "Welches Starlink-Profil soll ich prüfen? Suchen Sie das Profil mit der Domain starlink.com. Andere verwenden den Namen mit anderen Domains.",
+          "Wie melde ich ein Problem bei Starlink? Eröffnen Sie eine Anfrage auf der Website oder in der App und bewahren Sie die Vorgangsnummer auf. Das Unternehmen antwortet nicht auf Trustpilot-Bewertungen, verlassen Sie sich also nicht darauf. Wirkt eine Abbuchung falsch, wenden Sie sich an Ihren Kartenherausgeber oder Ihre Bank."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Daten aus den öffentlichen Profilen bei Trustpilot. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+    "editorialNote": "Daten aus dem öffentlichen Trustpilot-Profil und aus unserer eigenen Lektüre aktueller Bewertungen. Wir nehmen am Starlink-Empfehlungsprogramm teil und können eine Prämie erhalten, wenn Sie über unseren Link abschließen und die Regeln erfüllen.",
     "relatedArticles": [
       {
         "slug": "ist-starlink-serioes"
@@ -289095,7 +290083,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "lohnt-sich-starlink"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie an Ihrer Adresse keine gute Internetoption haben und Tarif, Kit und Vertrag dort vor der Zahlung geprüft haben.",
+        "Sie mit einem Support leben können, der hauptsächlich über die App und den automatischen Chat läuft."
+      ],
+      "skipIf": [
+        "Sie erwarten, dass bei einem Rechnungs- oder Lieferproblem schnell ein Mensch antwortet.",
+        "der TrustScore allein entscheiden soll: Er stammt von einem nicht beanspruchten Profil und sagt wenig über die Signalqualität."
+      ]
+    },
+    "cta": {
+      "text": "Geben Sie Ihre Adresse auf der Starlink-Website ein und prüfen Sie Tarif, Kit und Monatspreis vor der Zahlung.",
+      "label": "Tarife für Ihre Adresse ansehen",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1150,
@@ -289118,7 +290122,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Come aprire il link di invito Starlink, trovare il valore nell'ordine e ricevere la ricompensa dopo aver rispettato le condizioni del programma.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -289159,7 +290163,9 @@ export const reviewsData: unknown[] = [
           "Il valore dipende dal paese in cui ti registri e compare nel tuo account, per questo non lo indichiamo qui. Chi invita riceve lo stesso importo, in denaro o in credito di servizio.",
           "L'abbonamento deve restare attivo e in regola per due cicli mensili completi. Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, secondo il paese, l'account e la verifica dell'identità.",
           "La forma standard è il credito in fattura. Se il tuo account offre il pagamento in denaro, apri Inviti dal sito, da browser, scegli il metodo di ricompensa e completa identificazione e dati bancari su Stripe."
-        ]
+        ],
+        "emphasis": "La ricompensa viene emessa solo dopo due cicli mensili completi di abbonamento attivo e in regola, di default come credito in fattura, e chi si abbona e chi invita ricevono lo stesso importo; quello del tuo paese compare nell'ordine.",
+        "emphasisAfterParagraph": 3
       },
       {
         "heading": "Chi può usarlo",
@@ -289190,6 +290196,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Starlink ha un coupon sconto? No. Starlink non ha coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
           "Come funziona l'invito di Starlink? Fai l'ordine su starlink.com dal link, controlla che l'invito risulti applicato, attiva il kit e mantieni il servizio in regola per due cicli mensili completi.",
           "Quanto vale l'invito di Starlink? Il valore dipende dal paese e compare nel tuo account. Controllalo nell'ordine prima di pagare.",
           "Quando arriva la ricompensa di Starlink? Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, se l'invito rispetta le condizioni del programma.",
@@ -289219,7 +290226,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-contratto-disdetta"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "comunque vuoi abbonarti a Starlink e vuoi che l'invito risulti nell'ordine originale.",
+        "sei un nuovo cliente e puoi tenere il servizio attivo e in regola per due cicli mensili completi prima che la ricompensa venga emessa."
+      ],
+      "skipIf": [
+        "sei o sei stato cliente Starlink, perché la ricompensa è solo per chi si abbona per la prima volta.",
+        "compri da un rivenditore o da un marketplace, perché l'invito vale solo per gli ordini fatti su starlink.com dal link."
+      ]
+    }
   },
   {
     "id": 1151,
@@ -289242,7 +290259,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink Black Friday: 50% di sconto sui piani per 3 mesi, kit a noleggio a 0 € e offerta fino al 30 novembre. Controlla il tuo indirizzo e l'invito.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -289309,7 +290326,15 @@ export const reviewsData: unknown[] = [
           "caption": "Il kit a noleggio: antenna, router, base e cavi. Foto di Starlink.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese con lo sconto di 3 mesi, e la ricompensa dell'invito arriva solo dopo due cicli mensili completi.",
+        "links": [
+          {
+            "label": "Vedi i piani al tuo indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Come compare nell'ordine",
@@ -289353,6 +290378,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Starlink ha un codice sconto? No. Starlink non ha un coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
           "Starlink ha un'offerta per il Black Friday? In Italia l'ordine mostrava il 50% di sconto sui piani Residenziale e Viaggio per 3 mesi, con iscrizione entro il 30 novembre, nelle aree selezionate.",
           "L'invito si somma all'offerta? Controlla nell'ordine per il tuo indirizzo se compaiono entrambi. La ricompensa dell'invito dipende dall'idoneità e da due cicli mensili completi, e il valore si vede nel tuo account.",
           "Quanto si paga nell'ordine? A Milano, il totale da pagare oggi era di 19 €, con il kit a noleggio a 0 €.",
@@ -289381,7 +290407,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-contratto-disdetta"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "l'ordine per il tuo indirizzo mostra l'offerta sul piano e le condizioni del kit prima di pagare.",
+        "puoi aspettare due cicli mensili completi per la ricompensa e pagare le mensilità nel frattempo."
+      ],
+      "skipIf": [
+        "il tuo ordine non mostra l'offerta, perché i prezzi letti valgono per un solo indirizzo.",
+        "potresti uscire presto e non vuoi rischiare la restituzione del kit né la perdita del prezzo promozionale."
+      ]
+    }
   },
   {
     "id": 1152,
@@ -289404,7 +290440,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink conviene? Prezzi per indirizzo, kit a noleggio, nessun contratto, per chi ha senso e quando fibra o 4G sono la scelta migliore.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -289449,6 +290485,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Non calcoliamo un totale a 12 mesi, perché il prezzo dopo i 3 mesi di sconto non compariva nella pagina che abbiamo letto. Controllalo nel tuo ordine e fai il conto con la durata che appare. Fai il conto prima senza la ricompensa dell'invito, il cui valore dipende dal paese e si vede nell'account. Vedi l'[invito Starlink](/it/coupons/starlink)."
+        ],
+        "links": [
+          {
+            "label": "Vedi i piani al tuo indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -289474,7 +290517,9 @@ export const reviewsData: unknown[] = [
         "heading": "Quando confrontare con fibra o 4G",
         "paragraphs": [
           "Se arriva già una fibra stabile, confronta installazione, canoni ed eventuali vincoli di ogni proposta. Per il 4G, aggiungi il prezzo dell'apparecchio che ti serve e controlla che il piano abbia abbastanza dati per la casa."
-        ]
+        ],
+        "emphasis": "Senza una fibra stabile né un 4G decente all'indirizzo, Starlink entra nel confronto; con una fibra stabile, cambiare conviene solo se il totale dei mesi previsti, tra kit e canoni, resta sotto il costo della connessione attuale.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Velocità e giochi",
@@ -289502,14 +290547,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "La nostra esperienza finora",
-        "paragraphs": [
-          "Abbiamo già attivato l'abbonamento a Starlink, ma non c'è ancora esperienza d'uso. Velocità, installazione e qualità nella vita di ogni giorno entreranno in un aggiornamento di questo articolo, quando ci saranno."
-        ]
-      },
-      {
         "heading": "Domande frequenti",
         "bullets": [
+          "Starlink ha un coupon sconto? No. Starlink non ha coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
           "Starlink conviene in città? Con una fibra stabile all'indirizzo, confronta installazione, canoni e vincoli prima di cambiare.",
           "Starlink è meglio della fibra? Senza una buona fibra, vale la pena controllare l'offerta di Starlink per l'indirizzo e che ci sia il cielo aperto per l'antenna. Se hai entrambe, confronta stabilità e costo al tuo indirizzo.",
           "Starlink va bene per i giochi? Prova latenza e interruzioni al tuo indirizzo. L'intervallo tipico che Starlink pubblica è un riferimento generale.",
@@ -289519,12 +290559,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Non hai una buona fibra all'indirizzo e anche il 4G è debole.",
-        "Ti va bene un kit a noleggio da restituire se annulli e sai che i prezzi cambiano con l'indirizzo."
+        "non hai una buona fibra all'indirizzo e anche il 4G è debole.",
+        "ti va bene un kit a noleggio da restituire se annulli e sai che i prezzi cambiano con l'indirizzo."
       ],
       "skipIf": [
-        "Hai già una fibra stabile in casa e non ti serve un kit da installare e poi restituire.",
-        "Giochi online e ti serve un tempo di risposta garantito, che Starlink non garantisce per il tuo indirizzo."
+        "hai già una fibra stabile in casa e non ti serve un kit da installare e poi restituire.",
+        "giochi online e ti serve un tempo di risposta garantito, che Starlink non garantisce per il tuo indirizzo."
       ]
     },
     "pros": [],
@@ -289536,7 +290576,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+    "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Non abbiamo ancora usato il servizio. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
     "relatedArticles": [
       {
         "slug": "starlink-contratto-disdetta"
@@ -289570,7 +290610,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink in Italia: nessun contratto, kit a noleggio da restituire e 30 giorni per il rimborso. Scopri come annullare l'abbonamento dal tuo account.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -289611,7 +290651,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "L'ordine indica un termine di 30 giorni. Per chiedere il rimborso del kit e del primo mese nelle condizioni dell'offerta, annulla il servizio e restituisci l'apparecchio senza danni entro quel termine.",
           "Annullare l'abbonamento ferma gli addebiti futuri secondo il ciclo, ma il kit va restituito a parte. Chiedi all'assistenza di Starlink come avviare anche il reso."
-        ]
+        ],
+        "emphasis": "Secondo le condizioni dell'ordine, annullare e restituire il kit senza danni entro 30 giorni è ciò che dà diritto al rimborso del kit e del primo mese, e la ricevuta di spedizione è la prova che conta."
       },
       {
         "heading": "Come annullare",
@@ -289646,6 +290687,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Starlink ha un codice sconto? No. Starlink non ha un coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
           "Starlink ha un contratto? Nell'ordine italiano che abbiamo letto compariva «Nessun contratto», con il kit a noleggio e una prova di 30 giorni.",
           "Si può annullare Starlink in qualsiasi momento? La richiesta si fa dall'account. Il servizio resta attivo fino alla fine del periodo pagato.",
           "Devo restituire il kit? Il kit è a noleggio e, se annulli il servizio, va restituito.",
@@ -289668,7 +290710,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-trustpilot-recensioni"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "puoi restituire il kit a noleggio senza danni entro 30 giorni se annulli.",
+        "leggerai le condizioni nel riepilogo del tuo ordine prima di pagare."
+      ],
+      "skipIf": [
+        "non puoi rispedire il kit in buone condizioni entro il termine.",
+        "il riepilogo del tuo ordine mostra un vincolo o una penale che non accetti."
+      ]
+    },
+    "cta": {
+      "text": "L'ordine si apre sul sito di Starlink. Controlla vincolo, costi e restituzione del kit prima di pagare.",
+      "label": "Controlla le condizioni al mio indirizzo",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1154,
@@ -289687,11 +290745,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Il sito ufficiale di Starlink e il profilo su Trustpilot aiutano a capire da chi compri. Scopri cosa controllare prima di pagare il kit e quali profili con lo stesso nome evitare.",
-    "metaDescription": "Come riconoscere il sito ufficiale di Starlink, distinguere i profili Trustpilot con lo stesso nome e consultare l'elenco dei rivenditori autorizzati.",
+    "description": "Il sito ufficiale di Starlink e l'elenco dei rivenditori autorizzati aiutano a capire da chi compri. Vedi cosa controllare prima di pagare il kit e come riconoscere i siti falsi.",
+    "metaDescription": "Come riconoscere il sito ufficiale di Starlink, usare l'elenco dei rivenditori autorizzati ed evitare profili e siti che usano il suo nome.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -289703,13 +290761,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Starlink è il servizio di internet via satellite di SpaceX, e il sito ufficiale è starlink.com. Se compri il kit altrove, consulta l'elenco dei rivenditori autorizzati di Starlink e controlla chi è il venditore dell'annuncio prima di pagare. Su Trustpilot esistono profili con lo stesso nome ma altri domini, che non sono starlink.com."
+          "Starlink è il servizio di internet satellitare di SpaceX e il sito ufficiale è starlink.com. Su Trustpilot, il profilo che rimanda a starlink.com si chiama «Starlink Development». Se compri il kit altrove, controlla l'elenco dei rivenditori autorizzati di Starlink e verifica chi è il venditore dell'annuncio prima di pagare."
         ]
       },
       {
         "heading": "Chi è Starlink e chi vende",
         "paragraphs": [
-          "Starlink vende dal sito ufficiale. L'analisi su [quando Starlink conviene](/it/reviews/starlink-conviene) mostra come confrontare prezzo, installazione e alternative al tuo indirizzo."
+          "Starlink vende tramite il sito ufficiale. L'ordine su starlink.com mostra, prima del pagamento, piano, kit, imposte e durata del contratto per il tuo indirizzo.",
+          "La nostra analisi di [quando conviene Starlink](/it/reviews/starlink-conviene) mostra come confrontare prezzo, installazione e alternative al tuo indirizzo."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
@@ -289722,54 +290781,69 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Come riconoscere il sito ufficiale",
         "paragraphs": [
-          "Digita starlink.com nel browser. Prima di inserire dati o pagare, controlla di essere ancora dentro starlink.com."
-        ]
-      },
-      {
-        "heading": "Quale profilo Trustpilot è quello di Starlink?",
-        "paragraphs": [
-          "Il profilo che punta a starlink.com si chiama «Starlink Development» e non è rivendicato dall'azienda. Trustpilot mostra anche altri profili con il nome Starlink, per esempio ukstarlink.com e starlink.om. Sono altri domini e non sono starlink.com. Per giudicare l'azienda guarda quello di starlink.com."
-        ]
-      },
-      {
-        "heading": "Rivenditori e marketplace",
-        "paragraphs": [
-          "Starlink mantiene un elenco di rivenditori autorizzati nel centro assistenza. Anche su un marketplace noto, controlla il venditore dell'annuncio.",
-          "L'[invito Starlink](/it/coupons/starlink) vale per gli ordini idonei fatti dal link direttamente su starlink.com. Non si può aggiungere all'acquisto del kit da un rivenditore."
+          "Digita starlink.com nel browser. Prima di inserire dati o pagare, verifica di essere ancora su starlink.com.",
+          "Controlla nell'ordine, per il tuo indirizzo, piano, kit (noleggio o acquisto), imposte e durata del contratto. Se qualcuno ti chiede di pagare con un messaggio o fuori dall'ordine, conferma con il supporto Starlink prima di proseguire."
         ]
       },
       {
         "heading": "Messaggi che usano il nome Starlink",
         "paragraphs": [
-          "Il centro assistenza di Starlink pubblica un avviso sul phishing. Se ricevi un annuncio o un messaggio a nome di Starlink, verifica su starlink.com prima di pagare o di dare i tuoi dati."
+          "Il centro assistenza di Starlink ha un avviso sul phishing. Se ricevi un annuncio o un messaggio a nome di Starlink, conferma su starlink.com prima di pagare o dare dati. Se ti porta a un altro indirizzo, non inserire nulla e riapri il sito digitando tu l'indirizzo."
+        ]
+      },
+      {
+        "heading": "Quale profilo Trustpilot è quello di Starlink?",
+        "paragraphs": [
+          "Su Trustpilot, il profilo di starlink.com si chiama «Starlink Development». Altri profili usano il nome con domini diversi, come ukstarlink.com e starlink.om, e non sono starlink.com. Giudica l'azienda dal profilo che rimanda a starlink.com."
+        ]
+      },
+      {
+        "heading": "Rivenditori e marketplace",
+        "paragraphs": [
+          "Starlink mantiene un elenco di rivenditori autorizzati. Anche su un marketplace noto, verifica chi è il venditore dell'annuncio.",
+          "Il [link d'invito di Starlink](/it/coupons/starlink) vale per gli ordini idonei fatti tramite il link direttamente su starlink.com. Non si può aggiungere a un kit comprato da un rivenditore."
+        ],
+        "links": [
+          {
+            "label": "Elenco dei rivenditori autorizzati da Starlink",
+            "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
         ]
       },
       {
         "heading": "Cosa mostra Trustpilot",
         "paragraphs": [
-          "Il profilo di starlink.com ha un TrustScore di 1,6 su 5, con 871 recensioni. Trustpilot segnala che l'azienda non ha mai invitato i clienti a recensire, quindi i voti possono non essere rappresentativi.",
-          "L'[analisi completa di Trustpilot](/it/reviews/starlink-trustpilot-recensioni) riporta i numeri e le lamentele più frequenti."
+          "Su Trustpilot, il profilo di starlink.com ha un TrustScore di 1,6 su 5 con 879 recensioni: il 71% è da 1 stella e il 17% da 5 stelle. Il profilo non è rivendicato, quindi Starlink non lo gestisce, e ha risposto allo 0% delle recensioni.",
+          "Abbiamo letto le 40 recensioni da 1 stella e le 40 da 5 stelle più recenti. Tra quelle da 1 stella, i reclami più comuni riguardano un supporto fatto solo di bot o chat (circa 1 su 3), interruzioni e velocità bassa (circa 1 su 3), un canone mensile salito dopo l'abbonamento (circa 1 su 4), addebiti e disdette difficili (circa 1 su 4), installatori di aziende partner in ritardo o assenti (circa 1 su 4) e un kit in ritardo o mai arrivato (circa 1 su 5). Quelle da 5 stelle lodano velocità e stabilità (circa la metà), l'installazione facile (circa 1 su 3) e l'assenza di un'altra buona opzione internet (circa 1 su 4). I conteggi sono nostri e approssimativi.",
+          "Leggi il punteggio con cautela: un profilo non rivendicato non invia inviti dopo l'acquisto, e chi lo apre spesso lo fa per lamentarsi. Gli elogi riguardano il segnale; i reclami riguardano supporto, prezzo e addebiti, e poche recensioni da 1 stella dicono che il segnale sia sempre pessimo. Il riepilogo automatico di Trustpilot, basato su 355 recensioni recenti, va nella stessa direzione. La nostra [lettura completa del profilo Trustpilot](/it/reviews/starlink-trustpilot-recensioni) riporta i numeri."
         ]
       },
       {
         "heading": "Cosa conservare dopo l'acquisto",
+        "paragraphs": [
+          "Fatto l'ordine, la prova di ciò che hai sottoscritto risolve la maggior parte delle controversie."
+        ],
         "bullets": [
-          "Conserva il numero dell'ordine, il prezzo che compariva al checkout e l'email di conferma. In caso di differenze, contatta l'assistenza dal sito o dall'app."
-        ]
+          "Conserva il numero d'ordine, il prezzo mostrato al pagamento e l'e-mail di conferma. Se qualcosa non corrisponde, contatta il supporto dal sito o dall'app."
+        ],
+        "emphasis": "Da quanto mostrano il sito ufficiale e l'elenco dei rivenditori, per chi sta per comprare il kit la scelta sicura è ordinare su starlink.com o da un rivenditore dell'elenco e conservare numero d'ordine, prezzo al pagamento ed e-mail di conferma, perché nessuna delle due strade chiede di pagare fuori dall'ordine.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Starlink è affidabile? Starlink è il servizio di internet via satellite di SpaceX. Controlla il sito starlink.com e il profilo Trustpilot di quel dominio.",
+          "Starlink ha un codice sconto? No. Starlink non ha un codice sconto: con il link d'invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
+          "Starlink è affidabile? Starlink è il servizio di internet satellitare di SpaceX. Verifica di essere su starlink.com e usa l'elenco dei rivenditori autorizzati se compri altrove.",
           "Qual è il sito ufficiale di Starlink? Il sito ufficiale è starlink.com.",
-          "Come capisco se un venditore è autorizzato? Consulta l'elenco dei rivenditori di Starlink e controlla il venditore dell'annuncio prima di pagare."
+          "Come confermo che un venditore è autorizzato? Consulta l'elenco dei rivenditori di Starlink e verifica chi è il venditore dell'annuncio prima di pagare.",
+          "Meglio comprare dal sito ufficiale o da un rivenditore? Su starlink.com l'ordine mostra piano, kit, imposte e contratto per il tuo indirizzo prima del pagamento, e il link d'invito vale solo lì. Un rivenditore dell'elenco ufficiale è un venditore legittimo, ma l'invito non si applica."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Realizzato con il sito ufficiale, il centro assistenza e i profili pubblici su Trustpilot. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+    "editorialNote": "Realizzato con il sito ufficiale, il centro assistenza e il profilo pubblico su Trustpilot. Partecipiamo al programma di invito di Starlink e possiamo ricevere un premio se ti abboni con il nostro link e rispetti le regole.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-recensioni"
@@ -289780,7 +290854,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-conviene"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "stai per comprare il kit su starlink.com e vuoi controllare piano, kit, imposte e contratto per il tuo indirizzo prima di pagare.",
+        "hai trovato il kit da un rivenditore e vuoi sapere se il venditore è nell'elenco di Starlink."
+      ],
+      "skipIf": [
+        "un annuncio o un messaggio chiede di pagare fuori dall'ordine: non pagare e conferma prima con il supporto Starlink.",
+        "l'indirizzo nel browser non è starlink.com: non inserire dati."
+      ]
+    },
+    "cta": {
+      "text": "Inserisci il tuo indirizzo sul sito di Starlink e controlla piano, kit e canone mensile prima di pagare.",
+      "label": "Vedi i piani al tuo indirizzo",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1155,
@@ -289800,10 +290890,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Vedi il TrustScore, quante recensioni ci sono, come si distribuiscono le stelle e cosa lamentano i clienti nel profilo di starlink.com. Scopri anche come fare reclamo.",
-    "metaDescription": "Starlink su Trustpilot: TrustScore 1,6 su 5 con 871 recensioni. Vedi come si distribuiscono i voti, le lamentele più frequenti e come reclamare.",
+    "metaDescription": "Starlink su Trustpilot: TrustScore 1,6 con 879 recensioni su un profilo non rivendicato. Cosa dicono le recensioni recenti da una e da cinque stelle.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -289815,18 +290905,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il profilo di starlink.com su Trustpilot ha un TrustScore di 1,6 su 5, con 871 recensioni. Il 71% sono da una stella e il 17% da cinque. Il profilo non è rivendicato dall'azienda e Trustpilot avverte che i voti possono non essere rappresentativi."
+          "Starlink Development, il profilo Trustpilot di starlink.com, ha un TrustScore di 1,6 su 5 con 879 recensioni, il 71% delle quali da una stella. Il profilo non è rivendicato: l’azienda non ha un piano a pagamento, non invia inviti a recensire e non ha risposto a nessuna delle 464 recensioni negative. Le recensioni arrivano da clienti di molti paesi."
         ]
       },
       {
-        "heading": "Il voto e la distribuzione",
+        "heading": "Il voto e la distribuzione delle stelle",
         "paragraphs": [
-          "Il 20 novembre 2026 abbiamo letto la pagina pubblica."
+          "Abbiamo letto il profilo pubblico di Starlink Development il 23 novembre 2026."
         ],
         "comparisonTable": {
           "headers": [
             "Indicatore",
-            "Profilo di starlink.com"
+            "starlink.com su Trustpilot"
           ],
           "rows": [
             [
@@ -289834,57 +290924,93 @@ export const reviewsData: unknown[] = [
               "1,6 su 5"
             ],
             [
-              "Recensioni totali",
-              "871"
+              "Recensioni",
+              "879"
             ],
             [
               "5 stelle",
-              "17%"
+              "148 (17%)"
             ],
             [
               "4 stelle",
-              "2%"
+              "19 (2%)"
             ],
             [
               "3 stelle",
-              "3%"
+              "24 (3%)"
             ],
             [
               "2 stelle",
-              "7%"
+              "61 (7%)"
             ],
             [
               "1 stella",
-              "71%"
+              "627 (71%)"
+            ],
+            [
+              "Stato del profilo",
+              "Non rivendicato, senza piano a pagamento"
+            ],
+            [
+              "Origine delle recensioni",
+              "Organiche, senza inviti ai clienti"
+            ],
+            [
+              "Risposte alle recensioni negative",
+              "0% (nessuna su 464)"
             ]
           ],
-          "caption": "Lettura della pagina pubblica del profilo su Trustpilot."
+          "caption": "Trustpilot, profilo di starlink.com, letto il 23 novembre 2026."
         }
       },
       {
-        "heading": "Cosa significa «non rivendicato»",
+        "heading": "Perché un profilo non rivendicato pesa verso il basso",
         "paragraphs": [
-          "Trustpilot mostra il profilo come non rivendicato, cioè l'azienda non lo gestisce direttamente. Segnala anche che l'azienda non ha mai invitato i clienti a lasciare recensioni. Chi scrive è quindi chi ha scelto di farlo da solo."
+          "Il profilo non è rivendicato: l’azienda non ha un piano a pagamento su Trustpilot e non invita i clienti a recensire dopo l’acquisto. I marchi che lo fanno raccolgono spesso molte recensioni brevi da cinque stelle di acquirenti soddisfatti. Qui nulla filtra il flusso: chi arriva sul profilo è per lo più una persona con un problema, e le recensioni sono organiche.",
+          "Per questo l’1,6 va letto più come il ritratto dei clienti che hanno cercato un posto dove lamentarsi che come una media di tutti i clienti Starlink. Conta comunque: l’azienda non risponde su Trustpilot, nessuna delle 464 recensioni negative ha una risposta, quindi la piattaforma non è per lei un canale di assistenza."
+        ]
+      },
+      {
+        "heading": "Cosa dicono le recensioni da una stella",
+        "paragraphs": [
+          "Abbiamo letto le 40 recensioni da una stella più recenti, pubblicate tra il 23 ottobre e il 23 novembre 2026, da 16 paesi (21 dagli Stati Uniti). È la nostra lettura di quel campione. Una recensione può toccare più di un tema e le quote sono approssimative:"
+        ],
+        "bullets": [
+          "Assistenza: solo un bot o una chat automatica, senza modo di parlare con una persona (circa 1 su 3).",
+          "Cadute di connessione e velocità inferiore a quella attesa (circa 1 su 3).",
+          "Canone mensile aumentato dopo l’attivazione, a volte più di una volta nell’anno (circa 1 su 4).",
+          "Addebiti per un servizio non più usato, rimborso o disdetta difficili da ottenere (circa 1 su 4).",
+          "Installatore di un’azienda partner che non si presenta o arriva in ritardo (circa 1 su 4).",
+          "Consegna del kit in ritardo o mai arrivata (circa 1 su 5)."
+        ]
+      },
+      {
+        "heading": "Cosa dicono le recensioni da cinque stelle",
+        "paragraphs": [
+          "Abbiamo letto anche le 40 recensioni da cinque stelle più recenti, dal 10 dicembre 2025 al 17 novembre 2026, da 15 paesi (tra cui Germania, Regno Unito e Stati Uniti). Stesso metodo, stessa cautela:"
+        ],
+        "bullets": [
+          "Velocità e connessione stabile (circa la metà).",
+          "Installazione facile, «plug and play» (circa 1 su 3).",
+          "Vivere dove non c’è un’altra buona opzione internet (circa 1 su 4).",
+          "Uso in viaggio con il Mini e il piano Roam (diverse recensioni).",
+          "Assistenza che ha risolto il problema, come la sostituzione dell’antenna (alcune)."
+        ],
+        "postParagraphs": [
+          "In questo campione gli elogi riguardano il segnale e le lamentele l’assistenza, il prezzo e la fatturazione. Poche recensioni da una stella dicono che il segnale sia sempre scadente. Il riepilogo automatico di Trustpilot su 355 recensioni recenti va nella stessa direzione (maggioranza delusa, assistenza irraggiungibile, canoni più alti e costi extra), e lo citiamo solo come appoggio secondario."
         ]
       },
       {
         "heading": "Come riconoscere il profilo giusto",
         "paragraphs": [
-          "Cerca il profilo con dominio starlink.com. Trustpilot mostra anche profili con lo stesso nome ma altri domini, per esempio ukstarlink.com e starlink.om. Non sono starlink.com e non si riferiscono al sito ufficiale."
-        ]
-      },
-      {
-        "heading": "Cosa lamentano di più",
-        "paragraphs": [
-          "Il riassunto di Trustpilot, basato su 355 recensioni recenti, indica come lamentela più comune l'assistenza difficile da raggiungere, spesso solo con un chatbot. Compaiono anche aumenti del canone mensile e costi extra. Sul prodotto e sulla velocità i pareri sono misti, e alcuni apprezzano la connessione veloce.",
-          "Il riassunto è una sintesi di Trustpilot, e non si può dire quanti clienti incontrino questi problemi in tutto."
+          "Cerca «Starlink Development» con starlink.com come sito web. Alcuni profili dal nome simile rimandano ad altri domini. Questo profilo raccoglie clienti di decine di paesi, quindi una recensione può descrivere un piano, un’imposta o una regola di consegna che dove vivi non si applica."
         ]
       },
       {
         "heading": "Cosa significa per chi si abbona",
         "paragraphs": [
-          "Chi si abbona dovrebbe controllare la fattura ogni mese e confrontarla con il prezzo mostrato nell'ordine. Cosa succede al prezzo promozionale se cambi piano, annulli o vieni sospeso è scritto nelle condizioni del tuo ordine.",
-          "Le regole su contratto e disdetta sono nella [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta)."
+          "Prima di pagare, controlla piano, kit (noleggio o acquisto), imposte e contratto su starlink.com per il tuo indirizzo: cambiano da paese a paese e anche da indirizzo a indirizzo. Conserva uno screenshot dell’offerta del giorno dell’ordine e confronta ogni fattura con quello.",
+          "Le regole sul kit in noleggio e sulla restituzione sono nella [guida a contratto, disdetta e rimborso](/it/reviews/starlink-contratto-disdetta)."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
@@ -289895,37 +291021,40 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Prima di abbonarti",
+        "heading": "Come segnalare un problema",
         "paragraphs": [
-          "Prima di abbonarti, controlla il sito e le condizioni. Come riconoscere il sito ufficiale e i profili che usano il nome è spiegato in [Starlink è affidabile?](/it/reviews/starlink-e-affidabile).",
-          "Se vuoi abbonarti, la pagina dell'[invito Starlink](/it/coupons/starlink) ha il link e le regole del programma."
-        ]
-      },
-      {
-        "heading": "Come fare reclamo",
-        "paragraphs": [
-          "Apri una richiesta dal sito o dall'app di Starlink e conserva il numero della richiesta. Se l'addebito differisce dall'ordine, invia l'importo che compariva nell'offerta e la fattura. Se non riconosci un addebito, contatta anche l'emittente della carta o la banca."
+          "Apri una richiesta di assistenza sul sito di Starlink o nell’app e conserva il numero della pratica. Se la fattura non corrisponde all’ordine, invia il prezzo mostrato nell’offerta insieme alla fattura. Se non riconosci un addebito, contatta anche l’emittente della carta o la tua banca. L’azienda non risponde su Trustpilot: non contare su una recensione per ottenere risposta."
         ],
         "links": [
           {
-            "label": "Profilo di starlink.com su Trustpilot",
+            "label": "Profilo Starlink su Trustpilot",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
         ]
       },
       {
+        "heading": "Prima di abbonarti",
+        "paragraphs": [
+          "Prima di abbonarti, controlla il sito e le condizioni. Come riconoscere il sito ufficiale e i profili con nomi simili è spiegato in [Starlink è affidabile?](/it/reviews/starlink-e-affidabile).",
+          "La pagina dell’[invito Starlink](/it/coupons/starlink) contiene il link e le regole del programma. Un invito non è un coupon: il premio arriva come credito in fattura dopo due mesi di abbonamento, e i piani Priority, Enterprise e Commercial non lo ricevono."
+        ],
+        "emphasis": "Secondo i numeri della tabella, per chi non ha una buona alternativa internet al proprio indirizzo, abbonarsi è ragionevole dopo aver controllato piano, kit, imposte e contratto su starlink.com per quell’indirizzo, perché l’1,6 riflette lamentele su assistenza, fatturazione e prezzo più che sulla qualità del segnale."
+      },
+      {
         "heading": "Domande frequenti",
         "bullets": [
-          "Qual è il voto di Starlink su Trustpilot? Il profilo di starlink.com ha un TrustScore di 1,6 su 5, con 871 recensioni.",
-          "Quale profilo di Starlink devo consultare? Quello con dominio starlink.com. Altri profili con lo stesso nome, come ukstarlink.com e starlink.om, sono altri domini.",
-          "Come faccio reclamo a Starlink? Apri una richiesta dal sito o dall'app e conserva il numero della richiesta. Se non riconosci un addebito, contatta anche l'emittente della carta o la banca."
+          "Starlink ha un codice sconto? No. Starlink non ha coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
+          "Qual è il voto di Starlink su Trustpilot? Il profilo di starlink.com ha un TrustScore di 1,6 con 879 recensioni, il 71% delle quali da una stella.",
+          "Perché il voto è così basso? Il profilo non è rivendicato, senza piano a pagamento, senza inviti a recensire e senza risposte dell’azienda, quindi raccoglie soprattutto persone che hanno avuto un problema. Nella nostra lettura delle 40 recensioni da una stella più recenti, dominavano assistenza, cadute di connessione, aumenti di prezzo e fatturazione.",
+          "Quale profilo Starlink devo controllare? Cerca il profilo con dominio starlink.com. Altri usano il nome con domini diversi.",
+          "Come segnalo un problema a Starlink? Apri una richiesta sul sito o nell’app e conserva il numero della pratica. L’azienda non risponde alle recensioni su Trustpilot, quindi non contarci. Se un addebito ti sembra sbagliato, contatta l’emittente della carta o la tua banca."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Dati dal profilo pubblico su Trustpilot. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+    "editorialNote": "Dati dal profilo pubblico di Trustpilot e dalla nostra lettura di recensioni recenti. Partecipiamo al programma di invito di Starlink e possiamo ricevere un premio se ti abboni con il nostro link e rispetti le regole.",
     "relatedArticles": [
       {
         "slug": "starlink-e-affidabile"
@@ -289936,7 +291065,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-conviene"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "non hai una buona opzione internet al tuo indirizzo e hai controllato lì piano, kit e contratto prima di pagare.",
+        "puoi convivere con un’assistenza che passa soprattutto dall’app e dalla chat automatica."
+      ],
+      "skipIf": [
+        "ti aspetti che una persona risponda in fretta quando una fattura o una consegna va storta.",
+        "vuoi che il TrustScore decida da solo: viene da un profilo non rivendicato e dice poco sulla qualità del segnale."
+      ]
+    },
+    "cta": {
+      "text": "Inserisci il tuo indirizzo sul sito di Starlink e controlla piano, kit e canone mensile prima di pagare.",
+      "label": "Vedi i piani al tuo indirizzo",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1156,
@@ -289959,7 +291104,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlinkの紹介リンクの開き方、注文画面での特典額の見つけ方、プログラムの条件を満たしたあとに特典を受け取る流れを解説します。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -290002,7 +291147,9 @@ export const reviewsData: unknown[] = [
           "特典の額は、登録する国によって変わり、注文画面とアカウントに表示されます。紹介した人にも、同じ額が現金かサービスクレジットで入ります。",
           "契約は、毎月の請求サイクル2回分をきちんと支払って有効な状態で続ける必要があります。ヘルプセンターによると、付与は有効化から60日後以降に始まることがあり、国、アカウント、本人確認によって変わります。",
           "標準の受け取り方法は請求へのクレジットです。アカウントに現金での受け取りが表示される場合は、サイトのブラウザ版で「紹介」を開き、特典の受け取り方法を選びます。"
-        ]
+        ],
+        "emphasis": "特典は、有効な契約を毎月の請求サイクル2回分続けたあとに付与され、標準は請求へのクレジットで、登録した人と紹介した人には同じ額が入ります。お住まいの国の額は注文画面に表示されます。",
+        "emphasisAfterParagraph": 3
       },
       {
         "heading": "対象になる人",
@@ -290034,6 +291181,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
+          "Starlinkに割引クーポンはありますか？ いいえ。Starlinkにクーポンはありません。私たちの紹介リンクから契約すると、2か月の契約を続けたあとに、日本では7,000円が請求へのクレジットとして付与され、紹介した人にも同じ額が入ります。",
           "Starlinkの紹介はどう使いますか？ リンクからstarlink.comで注文し、紹介が適用された表示を確認します。キットを有効化し、毎月の請求サイクル2回分をきちんと支払って続けます。",
           "Starlinkの紹介特典はいくらですか？ 額は登録する国で決まります。注文画面とアカウントに表示された額を確認してください。",
           "Starlinkの紹介特典はいつ入りますか？ ヘルプセンターによると、紹介が条件を満たしていれば、有効化から60日後以降に付与が始まることがあります。",
@@ -290063,7 +291211,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "どのみちStarlinkを契約する予定で、紹介を最初の注文に含めたいなら、向いています。",
+        "新規のお客様で、毎月の請求サイクル2回分を有効なまま支払い、特典の付与まで待てるなら、向いています。"
+      ],
+      "skipIf": [
+        "すでに契約中か、過去に契約したことがあるなら、見送ってください。特典は初めて契約する人だけが対象です。",
+        "販売店やマーケットプレイスで買うつもりなら、見送ってください。紹介はstarlink.comでリンクから行った注文だけが対象です。"
+      ]
+    }
   },
   {
     "id": 1157,
@@ -290086,7 +291244,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlinkがプランとキットの50%オフを案内。東京の注文画面では初回支払いが3,000円でした。対象地域と適用期限を注文画面で確認する方法を紹介します。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -290146,6 +291304,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "特典を受け取るには、紹介が資格を満たし、サービスが有効な状態で、請求サイクルが2回完了している必要があります。受け取り方は、サービスクレジットか、アカウントによっては現金です。"
+        ],
+        "emphasis": "表の数字では、東京駅の住所の注文は本日の支払いが3,000円で、ホームプランは月額3,550円です。紹介特典は資格を満たし請求サイクルが2回完了したあとに付与されるため、それまでの請求は自己負担になります。",
+        "links": [
+          {
+            "label": "お住まいの住所でプランを見る",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -290192,6 +291358,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
+          "Starlinkに割引コードはありますか？ ありません。Starlinkにクーポンはありません。Ceciliaの紹介リンクから登録した人は、日本では2か月の利用後に7,000円が請求へのクレジットとして付与され、紹介した人も同じ額を受け取ります。",
           "Starlinkにブラックフライデーのセールはありますか？ 公式サイトは対象プランとキットの50%オフを案内していました。対象は設置先の住所とプランで確認できます。",
           "紹介はオファーと併用できますか？ 両方が表示されるかは、あなたの注文画面で確認してください。紹介の特典額は国ごとに違い、注文画面とアカウントに表示されます。特典は、資格を満たし、請求サイクルが2回完了したあとに付与されます。",
           "注文時にいくら請求されますか？ 東京駅の住所で読んだ画面では、本日のお支払いは3,000円でした。",
@@ -290220,7 +291387,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "住所を入力した注文画面に、プランのオファーとキットの条件が出る。",
+        "特典が入るまで請求サイクル2回分を待ち、その間の請求を払える。"
+      ],
+      "skipIf": [
+        "注文画面にオファーが表示されない。読んだ価格は1つの住所のものだ。",
+        "早めに解約するかもしれず、キットの返却や割引価格の失効を避けたい。"
+      ]
+    }
   },
   {
     "id": 1158,
@@ -290243,7 +291420,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlinkは買う価値がある？ 東京の注文画面の価格、レンタルキット、向いている人と、光回線や4Gのほうが合う場合を整理します。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -290295,6 +291472,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "50%オフが何か月続くかが分からないため、12か月の総額は計算していません。あなたの注文画面で、割引の期間と、割引後の月額を確認してください。",
           "費用を見積もるときは、まず特典を引かずに計算します。紹介リンクの特典額は国で変わり、注文画面に表示されます。[Starlinkの紹介ページ](/ja/coupons/starlink)を参照してください。"
+        ],
+        "links": [
+          {
+            "label": "住所でプランを見る",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -290320,7 +291504,9 @@ export const reviewsData: unknown[] = [
         "heading": "光回線や4Gと比べるとき",
         "paragraphs": [
           "すでに安定した光回線が届くなら、各社の工事費、月額、契約期間の条件を足して比べます。4Gを選ぶ場合は、必要な機器の価格を加え、データ容量が家庭に足りるかを確認します。"
-        ]
+        ],
+        "emphasis": "住所に安定した光回線も使える4Gもないなら、Starlinkは比較に入れる価値があります。安定した光回線があるなら、キットと月額を合わせた想定期間の総額が今の回線より安くなる場合にだけ、乗り換える意味があります。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "速度とゲーム",
@@ -290348,14 +291534,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "私たちの体験",
-        "paragraphs": [
-          "私たちはStarlinkを契約しましたが、まだ使った体験はありません。速度、設置、日々の品質は、実際に使えるようになってから、この記事を更新して書きます。"
-        ]
-      },
-      {
         "heading": "よくある質問",
         "bullets": [
+          "Starlinkに割引クーポンはありますか？ いいえ。Starlinkにクーポンはありません。私たちの紹介リンクから契約すると、2か月の契約を続けたあとに、日本では7,000円が請求へのクレジットとして付与され、紹介した人にも同じ額が入ります。",
           "都市部でもStarlinkは買う価値がありますか？ 住所に安定した光回線が届くなら、乗り換える前に、工事費、月額、契約の条件を比べてください。",
           "Starlinkは光回線より良いですか？ 良い光回線がない場所なら、Starlinkの価格を住所で確認し、アンテナを置ける開けた空があるか調べる価値があります。どちらも使えるなら、住所での安定性と費用を比べてください。",
           "Starlinkはゲームに向いていますか？ あなたの住所で応答時間と途切れを試してください。Starlinkが公表する一般的な範囲は、全体の目安です。",
@@ -290370,7 +291551,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "住所に安定した光回線があり、すでに費用や契約に不満がないなら、見送って構いません。",
-        "速い応答が必要なオンラインゲームが目的なら、私たちが読んだページに応答時間の実測がなく、判断材料が足りません。"
+        "速い応答が必要なオンラインゲームが目的なら、Starlinkは一般的な遅延の目安を公表していますが、あなたの住所での数値は保証していません。"
       ]
     },
     "pros": [],
@@ -290382,7 +291563,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "公式サイトの注文画面で価格を確認しました。購入は完了していません。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+    "editorialNote": "公式サイトの注文画面で価格を確認しました。サービスはまだ使用していません。購入は完了していません。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
     "relatedArticles": [
       {
         "slug": "starlink-cancel-ja"
@@ -290416,7 +291597,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlinkの解約の手順、レンタルキットの返却、30日以内の返金を解説します。契約期間の条件は、注文画面で支払いの前に確認してください。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -290451,7 +291632,8 @@ export const reviewsData: unknown[] = [
           "caption": "返却するキット。アンテナ、ルーター、スタンド、ケーブル。写真：Starlink",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "emphasis": "注文画面の条件では、キャンセルしてキットを破損なく30日以内に返却することが、キットと最初の月の料金の返金を受ける条件であり、発送の控えがその証拠になります。"
       },
       {
         "heading": "解約の手順",
@@ -290488,6 +291670,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
+          "Starlinkに割引コードはありますか？ ありません。Starlinkにクーポンはありません。Ceciliaの紹介リンクから登録した人は、日本では2か月の利用後に7,000円が請求へのクレジットとして付与され、紹介した人も同じ額を受け取ります。",
           "Starlinkに契約縛りはありますか？ 東京駅の住所で読んだ画面では、キットはレンタルで、キャンセル時に返却する条件でした。契約期間は、注文画面で確認してください。",
           "Starlinkを解約するといくらかかりますか？ 読んだ画面では、解約の費用の表示を確認できませんでした。キャンセルを確定する前に、あなたの注文の条件を確認してください。",
           "Starlinkはいつでも解約できますか？ アカウントから申請できます。契約期間が表示されている場合は、その条件を確認してください。",
@@ -290510,7 +291693,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-trustpilot-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "キャンセルしたとき、レンタルのキットを30日以内に破損なく返却できる。",
+        "支払いの前に、自分の注文の概要で条件を読む。"
+      ],
+      "skipIf": [
+        "期限内にキットを良い状態で返却できない。",
+        "注文の概要に、受け入れられない契約期間や解約の費用が出ている。"
+      ]
+    },
+    "cta": {
+      "text": "注文はStarlinkのサイトで開きます。支払いの前に、契約期間、費用、キットの返却を確認してください。",
+      "label": "住所で条件を確認する",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1160,
@@ -290529,11 +291728,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Starlinkの公式サイトと正規販売店の一覧、フィッシングの注意が、誰から買うのかの確認に役立ちます。キットの支払いの前に確認することをまとめました。",
-    "metaDescription": "Starlinkの公式サイトの見分け方、正規販売店の一覧の探し方、同じ名前の別ドメインのTrustpilotページを区別する方法を解説します。",
+    "description": "Starlinkの公式サイトと正規販売店の一覧で、誰から買うのかを確かめられます。支払う前に確認すること、見分けるべき似た名前のページをまとめました。",
+    "metaDescription": "Starlinkの公式サイトの見分け方、Trustpilot上の似た名前のページの見分け方、正規販売店リストの使い方を解説します。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -290545,14 +291744,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "StarlinkはSpaceXの衛星インターネットサービスで、公式サイトはstarlink.comです。キットをサイト以外で買う場合は、Starlinkの正規販売店の一覧を確認し、出品の販売元を支払いの前に確かめてください。Trustpilotで評価を見るときは、ドメインがstarlink.comのページを選びます。"
+          "StarlinkはSpaceXの衛星インターネットサービスで、公式サイトはstarlink.comです。Trustpilotでstarlink.comにひもづくページは「Starlink Development」です。キットをほかで買う場合は、Starlinkの正規販売店リストを確認し、出品者が誰かを見てから支払ってください。"
         ]
       },
       {
         "heading": "Starlinkとは何者で、誰が売るのか",
         "paragraphs": [
-          "Starlinkは公式サイトで販売しています。Trustpilotでは、ドメインがstarlink.comのページが、カテゴリ「インターネットサービスプロバイダー」で登録されています。",
-          "[Starlinkは買う価値があるか](/ja/reviews/starlink-worth-it-ja)では、価格、設置、代わりになる回線を、あなたの住所で比べる方法を紹介しています。"
+          "Starlinkは公式サイトで販売しています。starlink.comの注文画面では、支払う前に、お住まいの住所向けのプラン、キット、税金、契約期間が表示されます。",
+          "価格、設置、代替手段を住所ごとに比べる方法は、[Starlinkは買う価値があるか](/ja/reviews/starlink-worth-it-ja)の分析で紹介しています。"
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
@@ -290565,55 +291764,69 @@ export const reviewsData: unknown[] = [
       {
         "heading": "公式サイトの見分け方",
         "paragraphs": [
-          "ブラウザにstarlink.comと入力して開きます。情報を入れたり支払ったりする前に、アドレスがstarlink.comのままか確認してください。"
-        ]
-      },
-      {
-        "heading": "Trustpilotで、どのページがStarlinkか",
-        "paragraphs": [
-          "ドメインがstarlink.comのページが、Starlinkです。同じ名前のページは、ほかにもあります。ukstarlink.comとstarlink.omのページがそうで、これらはstarlink.comではありません。",
-          "運営会社の評判を見るときは、ドメインがstarlink.comのページを見てください。"
-        ]
-      },
-      {
-        "heading": "販売店とマーケットプレイス",
-        "paragraphs": [
-          "Starlinkは、正規の販売店の一覧を公開しています。有名なマーケットプレイスでも、出品の販売元を確認してください。",
-          "[Starlinkの紹介](/ja/coupons/starlink)の対象は、starlink.comでリンクから直接行う、資格のある注文です。販売店でキットを買う場合に、あとから足すことはできません。"
+          "ブラウザにstarlink.comと入力します。情報を入力したり支払ったりする前に、まだstarlink.comの中にいるか確認してください。",
+          "注文画面で、ご自分の住所について、プラン、キット（レンタルか購入か）、税金、契約期間を確かめます。メッセージで、または注文の外で支払うよう求められたら、先に進む前にStarlinkのサポートで確認してください。"
         ]
       },
       {
         "heading": "Starlinkの名前を使ったメッセージ",
         "paragraphs": [
-          "Starlinkのヘルプセンターには、フィッシングに関する注意が載っています。Starlinkの名前で広告やメッセージが届いたら、支払いや情報の入力の前に、starlink.comで内容を確認してください。"
+          "Starlinkのヘルプセンターには、フィッシングに関する注意が載っています。Starlinkの名前で広告やメッセージが届いたら、支払いや情報入力の前にstarlink.comで確認してください。別のアドレスに移るなら何も入力せず、アドレスを自分で入力して開き直してください。"
+        ]
+      },
+      {
+        "heading": "Trustpilotで、どのページがStarlinkか",
+        "paragraphs": [
+          "Trustpilotでstarlink.comのページは「Starlink Development」です。ukstarlink.comやstarlink.omなど、別のドメインで同じ名前を使うページもありますが、starlink.comではありません。会社の評価は、starlink.comにひもづくページで判断してください。"
+        ]
+      },
+      {
+        "heading": "販売店とマーケットプレイス",
+        "paragraphs": [
+          "Starlinkは正規販売店のリストを公開しています。名の知れたマーケットプレイスでも、出品者が誰かを確認してください。",
+          "[Starlinkの紹介](/ja/coupons/starlink)は、リンクからstarlink.comで直接行った対象の注文に適用されます。販売店で買ったキットに後から付けることはできません。"
+        ],
+        "links": [
+          {
+            "label": "Starlinkの正規販売店リスト",
+            "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
         ]
       },
       {
         "heading": "Trustpilotの数字",
         "paragraphs": [
-          "ドメインがstarlink.comのページは、スコア1.6で、871件のレビューがあります。Trustpilotは、このページを会社が管理者として登録していない「Unclaimed profile」と表示しています。",
-          "[評判の詳しい読み方](/ja/reviews/starlink-trustpilot-ja)で、数字、不満の内容、レビューの偏りを説明しています。"
+          "Trustpilotでstarlink.comのページは、879件の評価でTrustScoreが5点満点中1.6です。71%が星1つ、17%が星5つです。このページは運営者による登録（クレーム）がされておらず、Starlinkが管理していません。返信率は0%です。",
+          "私たちは、最新の星1つ40件と星5つ40件を読みました。星1つで多い不満は、ボットやチャットだけでサポートにつながらない（約3件に1件）、接続が切れる・速度が出ない（約3件に1件）、契約後に月額が上がった（約4件に1件）、請求や解約の難しさ（約4件に1件）、提携業者の設置が遅れる・来ない（約4件に1件）、キットの遅れや未着（約5件に1件）でした。星5つでは、速度と安定性（約半数）、簡単な設置（約3件に1件）、ほかに良い回線がない（約4件に1件）が評価されています。件数は当サイトの集計で、おおよその数字です。",
+          "スコアは慎重に読んでください。運営者が登録していないページには購入後の評価依頼が届かず、ページを開くのは不満のある人が多くなりがちです。評価は電波について、不満はサポート、価格、請求についてが中心で、電波がずっと悪いという星1つは多くありません。直近355件に基づくTrustpilotの自動要約も、同じ方向です。数字は[Trustpilotページの詳しい分析](/ja/reviews/starlink-trustpilot-ja)にあります。"
         ]
       },
       {
         "heading": "購入後に残しておくもの",
+        "paragraphs": [
+          "注文したあとは、何に申し込んだかの記録がたいていのトラブルを解決します。"
+        ],
         "bullets": [
-          "注文番号、決済で表示された価格、確認のメールを保存してください。食い違いがあれば、サイトかアプリからサポートに連絡します。"
-        ]
+          "注文番号、決済画面に表示された金額、確認メールを保管してください。内容が合わないときは、サイトまたはアプリからサポートに連絡します。"
+        ],
+        "emphasis": "公式サイトと販売店リストが示す内容からすると、キットを買う人にとって安全な選択は、starlink.comか、リストにある販売店で注文し、注文番号、決済時の金額、確認メールを保管することです。どちらの方法も注文の外での支払いを求めないためです。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "Starlinkは信頼できますか？ StarlinkはSpaceXの衛星インターネットサービスです。公式サイトのstarlink.comと、ドメインがstarlink.comのTrustpilotページを確認してください。",
-          "Starlinkの公式サイトはどこですか？ starlink.comです。",
-          "販売元が正規かどうか、どう確認しますか？ Starlinkの販売店の一覧を見て、支払いの前に出品の販売元を確認します。"
+          "Starlinkにクーポンはありますか？ いいえ、Starlinkにクーポンはありません。Ceciliaの紹介リンクから申し込むと、日本では2か月間利用した後に¥7,000が請求額のクレジットとして付与され、紹介した人にも同額が付与されます。",
+          "Starlinkは信頼できますか？ StarlinkはSpaceXの衛星インターネットサービスです。starlink.comにいることを確認し、ほかで買う場合は正規販売店リストを使ってください。",
+          "Starlinkの公式サイトはどこですか？ 公式サイトはstarlink.comです。",
+          "販売店が正規かどうか、どう確認しますか？ Starlinkの販売店リストを見て、支払う前に出品者が誰かを確認してください。",
+          "公式サイトと販売店のどちらで買うべきですか？ starlink.comの注文画面では、支払う前に住所向けのプラン、キット、税金、契約が表示され、紹介もそこでだけ有効です。公式リストの販売店は正規の販売元ですが、紹介は適用されません。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "公式サイト、ヘルプセンター、Trustpilotの公開ページを確認しました。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+    "editorialNote": "公式サイト、ヘルプセンター、Trustpilotの公開ページをもとに作成しています。当サイトはStarlinkの紹介プログラムに参加しており、リンクから申し込み、条件を満たすと報酬を受け取ることがあります。",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-ja"
@@ -290624,7 +291837,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-worth-it-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "starlink.comでキットを買う予定で、支払う前に住所向けのプラン、キット、税金、契約期間を確かめたい。",
+        "販売店でキットを見つけ、出品者がStarlinkのリストにあるか知りたい。"
+      ],
+      "skipIf": [
+        "広告やメッセージが注文の外での支払いを求めている。支払わず、先にStarlinkのサポートに確認する。",
+        "ブラウザのアドレスがstarlink.comではない。情報は入力しない。"
+      ]
+    },
+    "cta": {
+      "text": "Starlinkのサイトで住所を入力し、支払う前にプラン、キット、月額を確認しましょう。",
+      "label": "ご自宅の住所でプランを見る",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1161,
@@ -290644,10 +291873,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "starlink.comのTrustpilotページのスコア、レビュー数、評価の内訳、多い不満を確認します。レビューの偏りと、問題があったときの連絡先も紹介します。",
-    "metaDescription": "StarlinkのTrustpilot評価はスコア1.6、レビュー871件。評価の内訳、多い不満、レビューの偏りに注意する理由を解説します。",
+    "metaDescription": "StarlinkのTrustpilotスコアは1.6、レビュー879件（未登録ページ）。最近の星1つと星5つのレビューの内容をまとめました。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -290659,77 +291888,112 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "starlink.comのTrustpilotページは、スコア1.6で、871件のレビューがあります。5つ星が17%、1つ星が71%です。このページは会社が管理者として登録しておらず、会社がお客様にレビューを依頼した履歴もないため、全利用者の声を代表しているとは限りません。"
+          "starlink.comのTrustpilotページ「Starlink Development」は、レビュー879件でTrustScoreが5点満点の1.6、そのうち71%が星1つです。このページは企業が登録していません。有料プランはなく、レビュー依頼も送らず、否定的なレビュー464件のどれにも返信していません。レビューは多くの国の利用者によるものです。"
         ]
       },
       {
-        "heading": "スコアと評価の内訳",
+        "heading": "スコアと星の内訳",
         "paragraphs": [
-          "Trustpilotは、このスコアを「Bad」と表示しています。"
+          "2026年11月23日にStarlink Developmentの公開ページを確認しました。"
         ],
         "comparisonTable": {
           "headers": [
             "指標",
-            "starlink.comのページ"
+            "Trustpilotのstarlink.com"
           ],
           "rows": [
             [
               "TrustScore",
-              "1.6（Bad）"
+              "5点満点で1.6"
             ],
             [
               "レビュー数",
-              "871件"
+              "879件"
             ],
             [
-              "5つ星",
-              "17%"
+              "星5つ",
+              "148件（17%）"
             ],
             [
-              "4つ星",
-              "2%"
+              "星4つ",
+              "19件（2%）"
             ],
             [
-              "3つ星",
-              "3%"
+              "星3つ",
+              "24件（3%）"
             ],
             [
-              "2つ星",
-              "7%"
+              "星2つ",
+              "61件（7%）"
             ],
             [
-              "1つ星",
-              "71%"
+              "星1つ",
+              "627件（71%）"
+            ],
+            [
+              "ページの状態",
+              "未登録、有料プランなし"
+            ],
+            [
+              "レビューの由来",
+              "自発的な投稿、利用者への依頼なし"
+            ],
+            [
+              "否定的なレビューへの返信",
+              "0%（464件中ゼロ）"
             ]
           ],
-          "caption": "11月20日に読んだTrustpilotのページ。個別のレビューは引用していません。"
+          "caption": "Trustpilot、starlink.comのページ、2026年11月23日に確認。"
         }
       },
       {
-        "heading": "ページの偏りに注意する理由",
+        "heading": "未登録ページのスコアが低く出る理由",
         "paragraphs": [
-          "Trustpilotは、このページを会社が登録していない（Unclaimed）と表示しています。また、会社がお客様にレビューを依頼した履歴がないため、レビューは利用者全体を代表していない可能性がある、と注意しています。",
-          "スコアは、投稿した人の声として読んでください。"
+          "このページは未登録で、企業はTrustpilotの有料プランを使わず、購入後に利用者へレビューを依頼することもしていません。依頼をしているブランドには、満足した購入者の短い星5つのレビューが集まりがちです。ここでは流れを整える仕組みがなく、ページにたどり着くのは多くが問題を抱えた人で、レビューは自発的なものです。",
+          "そのため1.6は、Starlink利用者全体の平均というより、不満を書く場所を探した人たちの姿として読むほうが適切です。それでも軽くはありません。企業はTrustpilotで返信せず、否定的なレビュー464件に返信がゼロなので、ここは企業にとってサポート窓口ではありません。"
+        ]
+      },
+      {
+        "heading": "星1つのレビューの内容",
+        "paragraphs": [
+          "2026年10月23日から11月23日に投稿された、最新の星1つのレビュー40件を読みました。16か国からの投稿で、そのうち21件は米国です。これは私たちがこの標本を直接読んだ結果です。1件のレビューが複数のテーマにまたがることがあり、割合はおおよその値です。"
+        ],
+        "bullets": [
+          "サポート：ボットや自動チャットだけで、人につながらない（約3分の1）。",
+          "接続の切断と、期待より遅い速度（約3分の1）。",
+          "契約後の月額の値上げ、1年に複数回の例もある（約4分の1）。",
+          "使っていないサービスへの請求、返金や解約の難しさ（約4分の1）。",
+          "提携業者の設置担当が来ない、または遅れる（約4分の1）。",
+          "キットの到着が遅れる、または届かない（約5分の1）。"
+        ]
+      },
+      {
+        "heading": "星5つのレビューの内容",
+        "paragraphs": [
+          "2025年12月10日から2026年11月17日までの最新の星5つのレビュー40件も読みました。15か国からの投稿で、ドイツ、英国、米国が含まれます。方法も注意点も同じです。"
+        ],
+        "bullets": [
+          "速度と安定した接続（約半数）。",
+          "簡単な設置、いわゆるプラグアンドプレイ（約3分の1）。",
+          "他に良いインターネットの選択肢がない場所に住んでいる（約4分の1）。",
+          "MiniとRoamプランでの旅行中の利用（複数）。",
+          "アンテナの交換など、サポートが解決してくれた例（少数）。"
+        ],
+        "postParagraphs": [
+          "この標本では、称賛は電波に関するもので、不満はサポート、料金、請求に関するものです。電波がいつも悪いと書く星1つのレビューは多くありません。直近355件のレビューに基づくTrustpilot自身の自動要約も同じ方向です（失望した人が多い、つながらないサポート、月額の値上げと追加費用）。この要約は補助的な根拠としてのみ引用します。"
         ]
       },
       {
         "heading": "どのページがStarlinkか",
         "paragraphs": [
-          "Trustpilotでは、ウェブサイトにstarlink.comが記載された「Starlink Development」を確認してください。似た名前で別のドメインを載せているページもあります。"
-        ]
-      },
-      {
-        "heading": "多い不満の内容",
-        "paragraphs": [
-          "Trustpilotは、直近355件のレビューについてAIによる要約を表示しています。いちばん多い不満は、チャットボットだけでサポートにつながらないことです。月額の請求の増額と、追加の費用も挙げられています。",
-          "製品と速度の評価は分かれています。接続が速いと評価する声もあります。"
+          "ウェブサイトがstarlink.comと表示されている「Starlink Development」を探してください。名前が似た別のページは、別のドメインを指していることがあります。このページには数十か国の利用者が集まっているため、レビューには、あなたの住む地域では当てはまらないプラン、税、配送の規則が書かれていることがあります。"
         ]
       },
       {
         "heading": "契約する人にとっての意味",
         "paragraphs": [
-          "契約する人は、毎月の請求書を、注文画面で見た価格と比べてください。割引の期間と条件は日本の画面では読めていないので、あなたの注文画面で確認してください。",
-          "契約とキャンセルの条件は、[契約とキャンセルのガイド](/ja/reviews/starlink-cancel-ja)にまとめました。"
+          "支払う前に、starlink.comであなた自身の住所についてプラン、キット（レンタルか購入か）、税、契約を確認してください。国ごとに、住所ごとにも変わります。注文した日の提示内容をスクリーンショットで残し、請求書のたびに見比べてください。",
+          "レンタルキットと返却の規則は[契約・解約・返金ガイド](/ja/reviews/starlink-cancel-ja)にあります。"
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
@@ -290740,17 +292004,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "契約の前に",
-        "paragraphs": [
-          "契約の前に、サイトと条件を確認してください。公式サイトと、同じ名前のページの見分け方は、[Starlinkは信頼できるか](/ja/reviews/starlink-trust-ja)にあります。",
-          "契約するなら、リンクと条件は[Starlinkの紹介ページ](/ja/coupons/starlink)にあります。"
-        ]
-      },
-      {
         "heading": "問題があったときの連絡",
         "paragraphs": [
-          "Starlinkのサイトかアプリでサポートに連絡し、受付番号を残してください。請求が注文と違うときは、オファーに表示された金額と請求書を送ります。",
-          "ほかの利用者の様子を見たいときは、ドメインがstarlink.comのTrustpilotページを探してください。"
+          "Starlinkのウェブサイトまたはアプリでサポートに問い合わせ、受付番号を保管してください。請求が注文と合わない場合は、提示された価格と請求書を一緒に送ります。身に覚えのない請求があれば、カード会社や銀行にも連絡してください。企業はTrustpilotで返信しないので、レビューを書いても返事が来るとは期待しないでください。"
         ],
         "links": [
           {
@@ -290760,19 +292016,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "契約の前に",
+        "paragraphs": [
+          "契約の前に、サイトと規約を確認してください。公式サイトと名前を似せたページの見分け方は[Starlinkは信頼できる？](/ja/reviews/starlink-trust-ja)にあります。",
+          "[Starlinkの紹介](/ja/coupons/starlink)のページに、リンクとプログラムの規則があります。紹介はクーポンではありません。特典は2か月の利用後に請求書のクレジットとして届き、プライオリティ、エンタープライズ、コマーシャルのプランは対象外です。"
+        ],
+        "emphasis": "表の数字から見ると、住所に頼れる別のインターネットがない人にとっては、starlink.comでその住所のプラン、キット、税、契約を確認したうえで契約するのは妥当です。1.6というスコアには、電波の品質よりサポート、請求、料金への不満が多く反映されているからです。"
+      },
+      {
         "heading": "よくある質問",
         "bullets": [
-          "StarlinkのTrustpilotのスコアはいくつですか？ starlink.comのページは、スコア1.6（Bad）、レビュー871件でした。",
-          "どのTrustpilotページを見ればよいですか？ ドメインがstarlink.comのページです。ukstarlink.comやstarlink.omのページは、starlink.comではありません。",
-          "Starlinkへの不満で多いのは何ですか？ Trustpilotの要約では、チャットボットだけでサポートにつながらないこと、月額の増額、追加の費用が挙げられています。",
-          "このスコアは全利用者の声ですか？ 全利用者の声とは限りません。ページは会社が管理者として登録しておらず、会社がお客様にレビューを依頼した履歴もないと、Trustpilotは表示しています。"
+          "Starlinkに割引コードはありますか？ ありません。Starlinkにクーポンはなく、Cecíliaの紹介リンクから契約すると、2か月の利用後に請求書のクレジットとして日本では¥7,000が届き、紹介した人にも同額が届きます。",
+          "StarlinkのTrustpilotスコアはいくつですか？ starlink.comのページはレビュー879件でTrustScoreが1.6、そのうち71%が星1つです。",
+          "なぜスコアがこんなに低いのですか？ ページが未登録で、有料プラン、レビュー依頼、企業の返信がいずれもないため、問題があった人が中心に集まります。私たちが読んだ最新の星1つのレビュー40件では、サポート、接続の切断、値上げ、請求が不満の中心でした。",
+          "どのStarlinkのページを見ればよいですか？ ドメインがstarlink.comのページを探してください。他のページは名前が似ていてもドメインが違います。",
+          "Starlinkに問題を伝えるにはどうしますか？ ウェブサイトまたはアプリで問い合わせを作り、受付番号を保管してください。企業はTrustpilotのレビューに返信しないので、期待しないでください。請求がおかしいときは、カード会社や銀行に連絡してください。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Trustpilotの公開ページを確認しました。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+    "editorialNote": "Trustpilotの公開ページと、最近のレビューを私たちが直接読んだ内容に基づきます。Starlinkの紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
     "relatedArticles": [
       {
         "slug": "starlink-trust-ja"
@@ -290783,7 +292048,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-worth-it-ja"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "住所に良いインターネットの選択肢がなく、支払う前にその住所でプラン、キット、契約を確認した。",
+        "サポートが主にアプリと自動チャットで行われることを受け入れられる。"
+      ],
+      "skipIf": [
+        "請求や配送で問題が起きたとき、人がすぐ返事をくれることを期待している。",
+        "TrustScoreだけで決めたい。このスコアは未登録のページ由来で、電波の品質はあまり語っていない。"
+      ]
+    },
+    "cta": {
+      "text": "Starlinkのサイトで住所を入力し、支払う前にプラン、キット、月額を確認してください。",
+      "label": "あなたの住所のプランを見る",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1162,
@@ -290806,7 +292087,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "스타링크 추천 링크를 여는 방법, 주문 화면에서 보상을 확인하는 방법, 프로그램 조건을 채운 뒤 보상을 받는 순서를 설명합니다.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -290846,10 +292127,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "보상 금액과 지급 시점",
         "paragraphs": [
-          "보상 금액은 가입자가 등록한 국가에 따라 달라지고, 계정과 주문 화면에 표시됩니다. 저희는 한국 주문 화면의 보상 금액을 확인하지 못했으니, 주소를 입력해 직접 확인하세요. 추천한 사람도 같은 금액을 현금 또는 서비스 크레딧으로 받습니다.",
+          "보상 금액은 가입자가 등록한 국가에 따라 달라지고, 계정과 주문 화면에 표시됩니다. 저희는 한국 주문 화면의 보상 금액을 확인하지 못했으니, 주소를 입력해 직접 확인하세요. 예를 들어 미국에서는 US$ 100입니다. 추천한 사람도 같은 금액을 현금 또는 서비스 크레딧으로 받습니다.",
           "구독은 월 결제 주기를 두 번 완전히 채울 때까지 유지되고 연체가 없어야 합니다. 고객센터는 지급이 활성화 후 60일부터 시작될 수 있다고 안내하며, 국가와 계정, 본인 확인에 따라 달라집니다.",
           "기본 방식은 청구서 크레딧입니다. 계정에서 현금 지급이 가능하면, 웹 브라우저에서 추천 메뉴를 열어 보상 방식을 고르고 본인 확인과 계좌 등록을 마치면 됩니다."
-        ]
+        ],
+        "emphasis": "보상은 구독을 정상 유지한 채 월 결제 주기 두 번을 채운 뒤에야 지급되고, 기본은 청구서 크레딧이며, 가입한 사람과 추천한 사람이 같은 금액을 받습니다. 본인 국가의 금액은 주문 화면에 표시됩니다.",
+        "emphasisAfterParagraph": 3
       },
       {
         "heading": "누가 쓸 수 있나요",
@@ -290881,6 +292164,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "스타링크에 할인 쿠폰이 있나요? 아니요. 스타링크에는 쿠폰이 없습니다. 저희 추천 링크로 가입하면 두 달 동안 구독을 유지한 뒤 보상을 받고, 금액은 국가에 따라 다릅니다(예: 미국은 US$ 100). 기본은 청구서 크레딧이며, 추천한 사람도 같은 금액을 받습니다.",
           "스타링크 추천은 어떻게 작동하나요? 링크를 통해 starlink.com에서 주문하세요. 추천 적용을 확인하고, 키트를 활성화한 뒤, 월 결제 주기 두 번 동안 서비스를 정상 유지하면 됩니다.",
           "스타링크 추천 보상은 얼마인가요? 국가에 따라 다르고 주문 화면에 표시됩니다. 한국 금액은 주소를 입력해 직접 확인하세요.",
           "보상은 언제 들어오나요? 고객센터에 따르면 활성화 후 60일부터 지급이 시작될 수 있으며, 추천이 프로그램 조건을 충족해야 합니다.",
@@ -290910,7 +292194,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "어차피 스타링크에 가입할 예정이고, 추천이 최초 주문에 들어가길 원합니다.",
+        "신규 고객이며, 월 결제 주기 두 번 동안 서비스를 정상 유지하고 보상이 나올 때까지 기다릴 수 있습니다."
+      ],
+      "skipIf": [
+        "현재 또는 예전에 스타링크를 쓴 적이 있습니다. 보상은 처음 가입하는 사람에게만 해당됩니다.",
+        "리셀러나 마켓플레이스에서 살 예정입니다. 추천은 starlink.com에서 링크로 한 주문에만 적용됩니다."
+      ]
+    }
   },
   {
     "id": 1163,
@@ -290933,7 +292227,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "스타링크가 대상 하드웨어와 서비스에 50% 할인을 안내합니다. 서울 주문 화면에 표시된 초기 결제액과 월 요금, 내 주소의 신청 조건을 확인하세요.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -290979,7 +292273,15 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "2026년 11월 20일 읽은 값입니다. 스탠다드 키트 가격과 50% 할인 기간은 읽지 못했습니다."
-        }
+        },
+        "emphasis": "표의 숫자를 보면 서울시청 주소 기준 오늘 결제액은 ₩192,000이고 주거용 100Mbps는 월 ₩34,000입니다. 추천 보상은 월 결제 주기를 두 번 채운 뒤에 들어오므로 그 전의 요금은 직접 내야 합니다.",
+        "links": [
+          {
+            "label": "내 주소의 요금제 보기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "주문 화면에서 보이는 것",
@@ -291031,6 +292333,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "스타링크에 할인 코드가 있나요? 없습니다. 스타링크에는 쿠폰이 없습니다. 세실리아의 추천 링크로 가입하면 두 달 이용 뒤 청구서 크레딧으로 보상을 받고, 추천한 사람도 같은 금액을 받습니다. 금액은 국가마다 다르며, 예를 들어 미국에서는 100달러입니다.",
           "스타링크 블랙프라이데이 할인이 있나요? 한국 페이지는 대상 하드웨어와 서비스의 50% 할인을 안내했습니다. 신청 기한은 본인 주소와 요금제를 선택한 뒤 확인하세요.",
           "추천 보상은 할인과 함께 쓸 수 있나요? 보상은 추천 조건을 채우면 받고, 금액은 주문 화면에서 확인합니다. 한국 주문에서 두 혜택이 함께 표시되는지는 읽지 못했습니다.",
           "주문할 때 얼마를 내나요? 서울시청 주소로 미니 키트와 100Mbps를 고른 주문의 결제 금액은 ₩192,000이었습니다.",
@@ -291059,7 +292362,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "내 주소의 주문 화면에 요금제 오퍼와 키트 조건이 결제 전에 표시된다.",
+        "추천 보상이 들어올 때까지 월 결제 주기를 두 번 기다리며 그사이 요금을 낼 수 있다."
+      ],
+      "skipIf": [
+        "주문 화면에 오퍼가 보이지 않는다. 읽은 가격은 한 주소의 값이다.",
+        "곧 해지할 수 있어서 키트 반납이나 프로모션 가격 상실을 감수하고 싶지 않다."
+      ]
+    }
   },
   {
     "id": 1164,
@@ -291082,7 +292395,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "스타링크 가입할 만한가요? 키트와 12개월 요금 계산, 주소별 가격, 어울리는 경우와 광랜이나 LTE가 나은 경우를 살펴봅니다.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -291130,6 +292443,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "12개월 비용은 키트 값에 12번의 월 요금을 더해 구하되, 할인이 몇 개월인지와 끝난 뒤 요금을 본인 주문 화면에서 읽고 계산하세요. 저희는 두 값을 읽지 못해 총액을 적지 않았습니다.",
           "계산할 때는 추천 보상을 빼고 먼저 합산하세요. 보상은 조건을 채운 뒤에 들어오는 금액입니다. [스타링크 추천 안내](/ko/coupons/starlink)를 참고하세요."
+        ],
+        "links": [
+          {
+            "label": "내 주소에서 요금제 보기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -291155,7 +292475,9 @@ export const reviewsData: unknown[] = [
         "heading": "광랜이나 LTE와 비교할 때",
         "paragraphs": [
           "안정적인 광랜이 이미 들어온다면, 각 상품의 설치비와 월 요금, 약정을 더해 비교하세요. LTE는 필요한 장비 값을 더하고, 요금제의 데이터 한도가 집에 충분한지 확인하세요."
-        ]
+        ],
+        "emphasis": "주소에 안정적인 유선 인터넷도, 쓸 만한 LTE도 없다면 스타링크를 비교 대상에 올릴 만합니다. 안정적인 광랜이 있다면 키트와 월 요금을 합친 12개월 총액이 지금 쓰는 회선 비용보다 낮을 때만 바꿀 이유가 됩니다.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "속도와 게임",
@@ -291183,14 +292505,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "저희가 써 본 경험",
-        "paragraphs": [
-          "저희는 스타링크에 가입했지만 아직 사용 경험은 없습니다. 속도, 설치, 일상에서의 품질은 경험이 쌓이면 이 글에 업데이트하겠습니다."
-        ]
-      },
-      {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "스타링크에 할인 쿠폰이 있나요? 아니요. 스타링크에는 쿠폰이 없습니다. 저희 추천 링크로 가입하면 두 달 동안 구독을 유지한 뒤 보상을 받고, 금액은 국가에 따라 다릅니다(예: 미국은 US$ 100). 기본은 청구서 크레딧이며, 추천한 사람도 같은 금액을 받습니다.",
           "도심에서도 스타링크가 가입할 만한가요? 안정적인 유선 인터넷이 있다면 설치비, 월 요금, 약정을 비교한 뒤 바꾸세요.",
           "스타링크가 광랜보다 나은가요? 좋은 유선 인터넷이 없는 곳이라면 스타링크 견적을 받아 보고, 안테나를 둘 열린 하늘이 있는지 확인하세요. 둘 다 가능하면 안정성과 비용을 주소별로 비교하세요.",
           "스타링크는 게임에 좋은가요? 본인 주소에서 지연 시간과 끊김을 확인하세요. 스타링크가 공개한 일반 지연 시간은 참고용입니다.",
@@ -291218,7 +292535,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
+    "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 아직 서비스를 직접 사용해 보지는 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
     "relatedArticles": [
       {
         "slug": "starlink-cancel-ko"
@@ -291252,7 +292569,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "스타링크 한국 주문은 키트를 구매하는 방식입니다. 30일 반납 환불 조건과 계정에서 서비스를 해지하는 방법, 결제 주기 기준을 확인하세요.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -291287,7 +292604,8 @@ export const reviewsData: unknown[] = [
           "caption": "반납하는 키트의 구성품. 스타링크 제공 사진.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "emphasis": "주문 화면의 조건상 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납해야 키트와 첫 달 요금을 환불받을 수 있으므로, 발송 영수증이 이를 증명하는 자료입니다."
       },
       {
         "heading": "해지하는 방법",
@@ -291323,6 +292641,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "스타링크에 할인 코드가 있나요? 없습니다. 스타링크에는 쿠폰이 없습니다. 세실리아의 추천 링크로 가입하면 두 달 이용 뒤 청구서 크레딧으로 보상을 받고, 추천한 사람도 같은 금액을 받습니다. 금액은 국가마다 다르며, 예를 들어 미국에서는 100달러입니다.",
           "스타링크에 약정이 있나요? 한국 주문 화면에서 키트는 구매 방식이었습니다. 계약 기간 문구는 저희가 확인하지 못했으니, 결제 전에 주문 요약을 읽으세요.",
           "스타링크를 해지하면 위약금이 있나요? 위약금은 저희가 확인하지 못했습니다. 본인 주문의 조건을 읽은 뒤 해지하세요.",
           "스타링크는 언제든 해지할 수 있나요? 계정에서 취소를 신청할 수 있고, 청구일 00:00 UTC 전에 해야 이번 주기에 반영됩니다.",
@@ -291345,7 +292664,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-trustpilot-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "취소할 때 임대 키트를 30일 안에 손상 없이 반납할 수 있다.",
+        "결제 전에 내 주문 요약에서 조건을 읽는다."
+      ],
+      "skipIf": [
+        "기한 안에 키트를 좋은 상태로 보낼 수 없다.",
+        "주문 요약에 받아들일 수 없는 약정 기간이나 해지 비용이 있다."
+      ]
+    },
+    "cta": {
+      "text": "스타링크 사이트에서 주문이 열립니다. 결제 전에 약정, 비용, 키트 반납 조건을 확인하세요.",
+      "label": "내 주소에서 조건 확인",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1166,
@@ -291364,11 +292699,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "스타링크 공식 사이트와 공인 리셀러 목록으로 누구에게서 사는지 확인하세요. 키트를 결제하기 전에 점검할 것과 피싱 주의 안내를 정리했습니다.",
-    "metaDescription": "스타링크 공식 사이트를 알아보는 방법, 공인 리셀러 목록 확인, 이름이 같은 다른 도메인 프로필 구별법을 설명합니다.",
+    "description": "스타링크 공식 사이트와 공인 판매처 목록으로 누구에게 사는지 확인할 수 있습니다. 결제 전에 확인할 것과 이름만 비슷한 프로필을 가려내는 방법을 정리했습니다.",
+    "metaDescription": "스타링크 공식 사이트를 알아보는 법, 트러스트파일럿의 비슷한 이름 프로필을 가려내는 법, 공인 판매처 목록 활용법을 안내합니다.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -291380,14 +292715,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "스타링크는 스페이스X의 위성 인터넷 서비스입니다. 공식 사이트는 starlink.com입니다. 키트를 사이트 밖에서 사려면 스타링크의 공인 리셀러 목록을 확인하고, 결제 전에 광고의 판매자가 누구인지 확인하세요."
+          "스타링크는 SpaceX의 위성 인터넷 서비스이고, 공식 사이트는 starlink.com입니다. 트러스트파일럿에서 starlink.com과 연결된 프로필은 \"Starlink Development\"입니다. 키트를 다른 곳에서 산다면 스타링크의 공인 판매처 목록을 확인하고, 결제 전에 상품 판매자가 누구인지 살펴보세요."
         ]
       },
       {
         "heading": "스타링크는 누가 어디서 파나요",
         "paragraphs": [
-          "스타링크는 공식 사이트에서 직접 판매합니다. 스타링크의 고객센터는 공인 리셀러 목록도 안내합니다.",
-          "[스타링크 가입이 맞는지](/ko/reviews/starlink-worth-it-ko)는 주소별 가격과 설치 조건을 비교해 보세요."
+          "스타링크는 공식 사이트에서 판매합니다. starlink.com 주문 화면에서는 결제 전에 내 주소 기준의 요금제, 키트, 세금, 약정 기간이 나옵니다.",
+          "내 주소에서 가격, 설치, 대안을 비교하는 방법은 [스타링크, 살 만한가요](/ko/reviews/starlink-worth-it-ko) 분석에서 볼 수 있습니다."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
@@ -291400,54 +292735,69 @@ export const reviewsData: unknown[] = [
       {
         "heading": "공식 사이트를 알아보는 법",
         "paragraphs": [
-          "브라우저에 starlink.com을 직접 입력하세요. 정보를 입력하거나 결제하기 전에, 주소창이 여전히 starlink.com 안에 있는지 확인합니다.",
-          "한국 주문 화면에는 한국에서 발행한 카드로만 결제할 수 있다는 공지가 있었습니다. 메시지로 결제하라거나 주문 밖에서 송금하라는 요구를 받으면, 스타링크 지원에 먼저 확인하세요."
-        ]
-      },
-      {
-        "heading": "스타링크 이름을 쓰는 다른 프로필",
-        "paragraphs": [
-          "트러스트파일럿에는 스타링크 이름을 쓰는 다른 도메인의 프로필도 있습니다. ukstarlink.com과 starlink.om이 그렇고, 둘 다 starlink.com이 아닙니다. 평판을 확인할 때는 starlink.com을 가리키는 프로필을 쓰세요."
-        ]
-      },
-      {
-        "heading": "리셀러와 마켓플레이스",
-        "paragraphs": [
-          "스타링크는 공인 리셀러 목록을 운영합니다. 이름이 알려진 마켓플레이스라도 광고의 판매자를 확인하세요.",
-          "[스타링크 추천](/ko/coupons/starlink)은 starlink.com에서 링크로 직접 한 대상 주문에 적용됩니다. 리셀러에서 키트를 사는 경우에는 추가할 수 없습니다."
+          "브라우저에 starlink.com을 직접 입력하세요. 정보를 입력하거나 결제하기 전에 아직 starlink.com 안에 있는지 확인합니다.",
+          "주문 화면에서 내 주소 기준으로 요금제, 키트(임대 또는 구매), 세금, 약정 기간을 확인하세요. 메시지로, 또는 주문 화면 밖에서 결제하라는 요구를 받으면 진행하기 전에 스타링크 고객지원에 확인하세요."
         ]
       },
       {
         "heading": "스타링크 이름을 쓰는 메시지",
         "paragraphs": [
-          "스타링크 고객센터는 피싱 주의 안내를 공개합니다. 스타링크 이름을 쓴 광고나 메시지를 받으면, 개인정보를 주거나 결제하기 전에 starlink.com에서 같은 안내가 있는지 확인하세요."
+          "스타링크 고객센터에는 피싱 관련 안내가 있습니다. 스타링크 이름으로 광고나 메시지가 오면 결제하거나 정보를 주기 전에 starlink.com에서 확인하세요. 다른 주소로 연결되면 아무것도 입력하지 말고 주소를 직접 입력해 다시 접속하세요."
+        ]
+      },
+      {
+        "heading": "스타링크 이름을 쓰는 다른 프로필",
+        "paragraphs": [
+          "트러스트파일럿에서 starlink.com의 프로필은 \"Starlink Development\"입니다. ukstarlink.com, starlink.om처럼 다른 도메인에서 같은 이름을 쓰는 프로필도 있지만 starlink.com이 아닙니다. 회사는 starlink.com과 연결된 프로필로 판단하세요."
+        ]
+      },
+      {
+        "heading": "리셀러와 마켓플레이스",
+        "paragraphs": [
+          "스타링크는 공인 판매처 목록을 운영합니다. 잘 알려진 마켓플레이스에서도 상품 판매자가 누구인지 확인하세요.",
+          "[스타링크 추천](/ko/coupons/starlink)은 링크를 통해 starlink.com에서 직접 한 대상 주문에 적용됩니다. 판매처에서 산 키트에는 붙일 수 없습니다."
+        ],
+        "links": [
+          {
+            "label": "스타링크 공인 판매처 목록",
+            "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
         ]
       },
       {
         "heading": "트러스트파일럿이 보여 주는 것",
         "paragraphs": [
-          "2026년 11월 20일 기준, starlink.com 프로필의 TrustScore는 1.6이었고, 이 프로필은 회사가 소유를 등록하지 않은(Unclaimed) 상태였습니다. [평점 분석 전체](/ko/reviews/starlink-trustpilot-ko)에 숫자와 가장 많은 불만이 있습니다."
+          "트러스트파일럿에서 starlink.com 프로필은 후기 879건에 TrustScore 5점 만점에 1.6입니다. 71%가 별 1개, 17%가 별 5개입니다. 이 프로필은 운영사가 소유권을 등록하지 않아 스타링크가 관리하지 않으며, 후기 답변율은 0%입니다.",
+          "저희는 가장 최근의 별 1개 후기 40건과 별 5개 후기 40건을 읽었습니다. 별 1개에서 가장 많은 불만은 봇이나 채팅뿐인 고객지원(약 3건 중 1건), 끊김과 느린 속도(약 3건 중 1건), 가입 뒤 오른 월 요금(약 4건 중 1건), 청구와 어려운 해지(약 4건 중 1건), 제휴 업체 설치 기사의 지연이나 불참(약 4건 중 1건), 키트 배송 지연이나 미수령(약 5건 중 1건)이었습니다. 별 5개 후기는 속도와 안정성(약 절반), 쉬운 설치(약 3건 중 1건), 다른 좋은 인터넷이 없다는 점(약 4건 중 1건)을 칭찬합니다. 건수는 저희가 센 대략적인 수치입니다.",
+          "점수는 조심해서 읽어야 합니다. 소유권을 등록하지 않은 프로필은 구매 뒤 후기 요청을 보내지 않고, 이런 페이지를 여는 사람은 불만을 쓰려는 경우가 많습니다. 칭찬은 신호 품질에, 불만은 고객지원, 가격, 청구에 몰려 있고, 신호가 늘 나쁘다는 별 1개 후기는 많지 않습니다. 최근 후기 355건을 바탕으로 한 트러스트파일럿의 자동 요약도 같은 방향입니다. 수치는 [트러스트파일럿 프로필 전체 분석](/ko/reviews/starlink-trustpilot-ko)에 있습니다."
         ]
       },
       {
         "heading": "결제 후 보관할 것",
+        "paragraphs": [
+          "주문을 마친 뒤에는 무엇에 가입했는지 기록이 남아 있으면 대부분의 분쟁이 정리됩니다."
+        ],
         "bullets": [
-          "주문 번호, 결제 화면에 나온 가격, 확인 이메일을 보관하세요. 차이가 있으면 사이트나 앱에서 지원에 문의하세요."
-        ]
+          "주문 번호, 결제 화면에 나온 금액, 확인 이메일을 보관하세요. 내용이 다르면 웹사이트나 앱으로 고객지원에 문의하세요."
+        ],
+        "emphasis": "공식 사이트와 판매처 목록이 보여 주는 바로는, 키트를 사려는 사람에게 안전한 선택은 starlink.com이나 목록에 있는 판매처에서 주문하고 주문 번호, 결제 금액, 확인 이메일을 보관하는 것입니다. 두 경로 모두 주문 밖의 결제를 요구하지 않기 때문입니다.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "스타링크는 믿을 만한가요? 스타링크는 스페이스X의 위성 인터넷 서비스입니다. starlink.com에서 주문하고, 이름을 쓰는 다른 도메인과 구별하세요.",
-          "스타링크 공식 사이트는 어디인가요? starlink.com입니다. 주소창에서 도메인을 확인하세요.",
-          "판매자가 공인인지 어떻게 확인하나요? 스타링크의 공인 리셀러 목록을 보고, 결제 전에 광고의 판매자를 확인하세요."
+          "스타링크에 쿠폰이 있나요? 아니요, 스타링크에는 쿠폰이 없습니다. Cecília의 추천 링크로 가입하면 두 달 이용 뒤 요금 청구서에 크레딧이 적립되고, 추천한 사람도 같은 금액을 받습니다. 금액은 국가마다 다르며, 예를 들어 미국에서는 US$ 100입니다.",
+          "스타링크는 믿을 만한가요? 스타링크는 SpaceX의 위성 인터넷 서비스입니다. starlink.com에 있는지 확인하고, 다른 곳에서 산다면 공인 판매처 목록을 이용하세요.",
+          "스타링크 공식 사이트는 어디인가요? 공식 사이트는 starlink.com입니다.",
+          "판매자가 공인 업체인지 어떻게 확인하나요? 스타링크 판매처 목록을 보고, 결제 전에 상품 판매자가 누구인지 확인하세요.",
+          "공식 사이트와 판매처 중 어디서 사야 하나요? starlink.com 주문 화면은 결제 전에 내 주소 기준의 요금제, 키트, 세금, 약정을 보여 주고, 추천은 그곳에서만 적용됩니다. 공식 목록의 판매처는 정식 판매자이지만 추천은 적용되지 않습니다."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
+    "editorialNote": "공식 사이트, 고객센터, 트러스트파일럿의 공개 프로필을 바탕으로 작성했습니다. 저희는 스타링크 추천 프로그램에 참여하고 있으며, 링크로 가입하고 조건을 충족하면 보상을 받을 수 있습니다.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-ko"
@@ -291458,7 +292808,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-worth-it-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "starlink.com에서 키트를 살 예정이고, 결제 전에 내 주소 기준의 요금제, 키트, 세금, 약정 기간을 확인하고 싶다.",
+        "판매처에서 키트를 발견했고, 판매자가 스타링크 목록에 있는지 알고 싶다."
+      ],
+      "skipIf": [
+        "광고나 메시지가 주문 밖에서 결제하라고 요구한다. 결제하지 말고 먼저 스타링크 고객지원에 확인한다.",
+        "브라우저 주소가 starlink.com이 아니다. 정보를 입력하지 않는다."
+      ]
+    },
+    "cta": {
+      "text": "스타링크 사이트에서 주소를 입력하고 결제 전에 요금제, 키트, 월 요금을 확인하세요.",
+      "label": "내 주소의 요금제 보기",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1167,
@@ -291478,10 +292844,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "starlink.com 프로필의 평점, 리뷰 분포, 최근 리뷰에서 가장 많이 나온 불만을 정리했습니다. 비슷한 이름의 다른 도메인 프로필을 구별하는 방법도 담았습니다.",
-    "metaDescription": "스타링크 트러스트파일럿 평점은 1.6, 리뷰 871건입니다. 별점 분포와 자주 나오는 불만, 다른 도메인 프로필 구별법을 확인하세요.",
+    "metaDescription": "스타링크 트러스트파일럿 평점은 1.6, 리뷰 879건(미등록 프로필)입니다. 최근 별 1개와 별 5개 리뷰에서 나온 이야기를 정리했습니다.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -291493,75 +292859,112 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "트러스트파일럿의 starlink.com 프로필은 TrustScore 1.6 ‘Bad’에 리뷰 871건이며, 5점이 17%, 1점이 71%입니다. 회사가 고객에게 리뷰를 요청한 기록이 없어 대표성이 낮을 수 있다고 트러스트파일럿이 표시합니다. 이 숫자는 한 플랫폼의 시점 값이니, 가입 전에 본인 주문 화면을 함께 읽으세요."
+          "starlink.com의 트러스트파일럿 프로필인 Starlink Development는 리뷰 879건에 TrustScore 5점 만점 1.6점이고, 그중 71%가 별 1개입니다. 이 프로필은 기업이 등록하지 않은 상태입니다. 유료 플랜이 없고, 리뷰 요청도 보내지 않으며, 부정적 리뷰 464건 중 어디에도 답하지 않았습니다. 리뷰는 여러 나라의 고객이 남겼습니다."
         ]
       },
       {
-        "heading": "평점과 분포",
+        "heading": "평점과 별점 분포",
         "paragraphs": [
-          "2026년 11월 20일에 읽은 프로필의 이름은 Starlink Development이고, 회사가 소유를 등록하지 않은 프로필(Unclaimed profile)이며 분류는 인터넷 서비스 제공업체입니다."
+          "2026년 11월 23일에 Starlink Development 공개 프로필을 확인했습니다."
         ],
         "comparisonTable": {
           "headers": [
             "지표",
-            "starlink.com 프로필"
+            "트러스트파일럿의 starlink.com"
           ],
           "rows": [
             [
               "TrustScore",
-              "1.6 (Bad)"
+              "5점 만점에 1.6점"
             ],
             [
               "리뷰 수",
-              "871건"
+              "879건"
             ],
             [
               "별 5개",
-              "17%"
+              "148건 (17%)"
             ],
             [
               "별 4개",
-              "2%"
+              "19건 (2%)"
             ],
             [
               "별 3개",
-              "3%"
+              "24건 (3%)"
             ],
             [
               "별 2개",
-              "7%"
+              "61건 (7%)"
             ],
             [
               "별 1개",
-              "71%"
+              "627건 (71%)"
+            ],
+            [
+              "프로필 상태",
+              "미등록, 유료 플랜 없음"
+            ],
+            [
+              "리뷰 출처",
+              "자연 발생, 고객 초대 없음"
+            ],
+            [
+              "부정적 리뷰에 대한 답변",
+              "0% (464건 중 없음)"
             ]
           ],
-          "caption": "트러스트파일럿 프로필을 읽은 값입니다."
+          "caption": "트러스트파일럿, starlink.com 프로필, 2026년 11월 23일 확인."
         }
       },
       {
-        "heading": "리뷰를 어떻게 읽을까요",
+        "heading": "미등록 프로필의 평점이 낮게 나오는 이유",
         "paragraphs": [
-          "트러스트파일럿은 이 회사가 고객에게 리뷰를 요청한 기록이 없다고 안내합니다. 이런 경우 리뷰는 전체 고객을 대표하지 않을 수 있습니다. 평점은 방향을 보는 참고로 쓰세요."
+          "이 프로필은 미등록 상태라 기업이 트러스트파일럿 유료 플랜이 없고, 구매 후 고객에게 리뷰를 요청하지도 않습니다. 고객을 초대하는 브랜드는 만족한 구매자의 짧은 별 5개 리뷰가 많이 쌓이는 편입니다. 여기에는 걸러 주는 장치가 없어서, 프로필을 찾아오는 사람은 대부분 문제가 있었던 사람이고 리뷰도 자연 발생적입니다.",
+          "그래서 1.6점은 스타링크 전체 고객의 평균이라기보다 불만을 털어놓을 곳을 찾은 고객들의 모습으로 읽는 편이 맞습니다. 그래도 의미는 있습니다. 기업은 트러스트파일럿에서 답하지 않으며 부정적 리뷰 464건 중 답변이 달린 것이 없어서, 이 플랫폼은 기업에게 고객지원 창구가 아닙니다."
+        ]
+      },
+      {
+        "heading": "별 1개 리뷰의 내용",
+        "paragraphs": [
+          "2026년 10월 23일부터 11월 23일 사이에 올라온 가장 최근 별 1개 리뷰 40건을 직접 읽었습니다. 16개 나라에서 올라온 리뷰이고 그중 21건은 미국입니다. 이 표본에 대한 저희의 직접 판독이며, 한 리뷰가 여러 주제를 다룰 수 있고 비율은 대략적인 값입니다."
+        ],
+        "bullets": [
+          "고객지원: 챗봇이나 자동 채팅뿐이고 사람과 연결되지 않음 (약 3분의 1).",
+          "연결 끊김과 기대보다 느린 속도 (약 3분의 1).",
+          "가입 뒤 월 요금 인상, 한 해에 여러 번인 경우도 있음 (약 4분의 1).",
+          "쓰지 않는 서비스에 대한 청구, 환불과 해지의 어려움 (약 4분의 1).",
+          "협력업체 설치 기사가 오지 않거나 늦음 (약 4분의 1).",
+          "키트 배송 지연 또는 미수령 (약 5분의 1)."
+        ]
+      },
+      {
+        "heading": "별 5개 리뷰의 내용",
+        "paragraphs": [
+          "2025년 12월 10일부터 2026년 11월 17일까지의 가장 최근 별 5개 리뷰 40건도 읽었습니다. 15개 나라에서 올라온 리뷰이고 독일, 영국, 미국이 포함됩니다. 방법과 단서는 같습니다."
+        ],
+        "bullets": [
+          "속도와 안정적인 연결 (약 절반).",
+          "쉬운 설치, 이른바 플러그 앤 플레이 (약 3분의 1).",
+          "다른 좋은 인터넷 선택지가 없는 곳에 사는 경우 (약 4분의 1).",
+          "미니와 로밍 플랜으로 여행 중 사용 (여러 건).",
+          "안테나 교체처럼 문제를 해결해 준 고객지원 (일부)."
+        ],
+        "postParagraphs": [
+          "이 표본에서 칭찬은 신호에 관한 것이고, 불만은 고객지원, 가격, 청구에 관한 것입니다. 신호가 늘 나쁘다고 말하는 별 1개 리뷰는 드뭅니다. 최근 리뷰 355건을 바탕으로 한 트러스트파일럿의 자동 요약도 같은 방향입니다(실망한 리뷰가 다수, 연락되지 않는 고객지원, 오른 월 요금과 추가 비용). 이 요약은 보조 근거로만 인용합니다."
         ]
       },
       {
         "heading": "어느 프로필이 스타링크인가요",
         "paragraphs": [
-          "웹사이트가 starlink.com으로 표시된 Starlink Development 프로필을 보세요. 비슷한 이름의 다른 프로필에는 다른 도메인이 표시됩니다."
-        ]
-      },
-      {
-        "heading": "가장 많이 나온 불만",
-        "paragraphs": [
-          "최근 리뷰 355건을 요약한 트러스트파일럿의 AI 요약에서 가장 흔한 불만은 연결되지 않는 지원(챗봇만 연결)이었습니다. 월 청구 금액 인상과 추가 비용도 언급되었습니다. 제품과 속도는 의견이 엇갈렸고, 연결이 빠르다고 칭찬하는 사람도 있었습니다. 저희는 개별 리뷰를 인용하지 않았습니다."
+          "웹사이트가 starlink.com으로 표시된 “Starlink Development”를 찾으세요. 이름이 비슷한 다른 프로필은 다른 도메인을 가리키기도 합니다. 이 프로필에는 수십 개 나라의 고객이 한데 모여 있어서, 어떤 리뷰는 내가 사는 곳에 해당하지 않는 플랜, 세금, 배송 규정을 이야기할 수 있습니다."
         ]
       },
       {
         "heading": "가입하는 사람에게 의미하는 것",
         "paragraphs": [
-          "가입한다면 청구서를 매달 확인하고, 주문 화면에 나온 가격과 비교하세요. 요금제 변경, 취소, 일시 중지 때 프로모션 가격이 유지되는지는 본인 주문의 약관에서 확인하세요.",
-          "환불과 해지 규정은 [계약과 취소 가이드](/ko/reviews/starlink-cancel-ko)에 있습니다."
+          "결제하기 전에 starlink.com에서 내 주소 기준으로 플랜, 키트(대여 또는 구매), 세금, 계약 조건을 확인하세요. 나라마다, 심지어 주소마다 다릅니다. 주문한 날의 제안 화면을 캡처해 두고 청구서마다 비교하세요.",
+          "대여 키트와 반납 규정은 [계약, 해지, 환불 가이드](/ko/reviews/starlink-cancel-ko)에 있습니다."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
@@ -291572,16 +292975,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "가입 전에",
+        "heading": "문제를 제기하려면",
         "paragraphs": [
-          "가입 전에 사이트와 조건을 확인하세요. 공식 사이트와 이름을 쓰는 프로필을 구별하는 방법은 [스타링크는 믿을 만한가요?](/ko/reviews/starlink-trust-ko)에 있습니다.",
-          "가입하려면 [스타링크 추천](/ko/coupons/starlink) 페이지에 링크와 프로그램 규정이 있습니다."
-        ]
-      },
-      {
-        "heading": "불만을 제기하려면",
-        "paragraphs": [
-          "스타링크 사이트나 앱에서 문의를 열고 접수 번호를 보관하세요. 청구 금액이 주문과 다르면 오퍼에 나온 금액과 청구서를 함께 보내세요. 평가를 남기고 싶다면 트러스트파일럿의 starlink.com 프로필을 이용하세요."
+          "스타링크 웹사이트나 앱에서 고객지원 요청을 열고 접수 번호를 보관하세요. 청구서가 주문과 다르면 제안 화면에 표시된 가격과 청구서를 함께 보내세요. 모르는 청구가 있으면 카드사나 은행에도 연락하세요. 기업은 트러스트파일럿에서 답하지 않으므로, 리뷰를 남긴다고 답을 받을 수 있다고 기대하지 마세요."
         ],
         "links": [
           {
@@ -291591,18 +292987,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "가입 전에",
+        "paragraphs": [
+          "가입하기 전에 사이트와 약관을 확인하세요. 공식 사이트와 이름을 따라 쓴 프로필을 구별하는 방법은 [스타링크는 믿을 만한가요?](/ko/reviews/starlink-trust-ko)에 있습니다.",
+          "[스타링크 추천](/ko/coupons/starlink) 페이지에 링크와 프로그램 규정이 있습니다. 추천은 쿠폰이 아닙니다. 보상은 두 달 구독 뒤 청구서 크레딧으로 들어오며, 우선순위, 엔터프라이즈, 상업용 플랜은 받지 못합니다."
+        ],
+        "emphasis": "표의 수치로 보면, 주소지에 마땅한 인터넷 선택지가 없는 사람에게는 starlink.com에서 그 주소 기준으로 플랜, 키트, 세금, 계약을 확인한 뒤 가입하는 것이 합리적입니다. 1.6점에는 신호 품질보다 고객지원, 청구, 가격에 대한 불만이 더 많이 반영되어 있기 때문입니다."
+      },
+      {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "스타링크의 트러스트파일럿 평점은 얼마인가요? starlink.com 프로필은 TrustScore 1.6이고 리뷰는 871건입니다.",
-          "어느 프로필을 봐야 하나요? 도메인이 starlink.com인 프로필을 보세요. ukstarlink.com과 starlink.om은 다른 도메인입니다.",
-          "스타링크에 불만을 제기하려면 어떻게 하나요? 사이트나 앱에서 문의를 열고 접수 번호를 보관하세요. 문제가 계속되면 트러스트파일럿에도 남길 수 있습니다."
+          "스타링크에 할인 코드가 있나요? 아닙니다. 스타링크에는 쿠폰이 없습니다. Cecília의 추천 링크로 가입하면 두 달 구독 뒤 청구서 크레딧으로 보상을 받고, 추천한 사람도 같은 금액을 받습니다. 금액은 나라마다 다르며, 예를 들어 미국에서는 US$ 100입니다.",
+          "스타링크의 트러스트파일럿 평점은 얼마인가요? starlink.com 프로필은 리뷰 879건에 TrustScore 1.6점이고, 그중 71%가 별 1개입니다.",
+          "평점이 왜 이렇게 낮은가요? 프로필이 미등록 상태이고 유료 플랜, 리뷰 요청, 기업 답변이 모두 없어서 문제를 겪은 사람이 주로 모입니다. 저희가 읽은 가장 최근 별 1개 리뷰 40건에서는 고객지원, 연결 끊김, 가격 인상, 청구가 불만의 중심이었습니다.",
+          "어느 스타링크 프로필을 확인해야 하나요? 도메인이 starlink.com인 프로필을 찾으세요. 다른 프로필은 이름만 비슷하고 도메인이 다릅니다.",
+          "스타링크에 문제를 제기하려면 어떻게 하나요? 웹사이트나 앱에서 요청을 열고 접수 번호를 보관하세요. 기업은 트러스트파일럿 리뷰에 답하지 않으니 기대하지 마세요. 청구가 이상하면 카드사나 은행에 연락하세요."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
+    "editorialNote": "트러스트파일럿 공개 프로필과 최근 리뷰를 직접 읽은 내용을 바탕으로 했습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
     "relatedArticles": [
       {
         "slug": "starlink-trust-ko"
@@ -291613,7 +293019,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-worth-it-ko"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "사는 주소에 좋은 인터넷 선택지가 없고, 결제 전에 그 주소 기준으로 플랜, 키트, 계약을 확인했습니다.",
+        "고객지원이 주로 앱과 자동 채팅으로 이루어지는 것을 받아들일 수 있습니다."
+      ],
+      "skipIf": [
+        "청구나 배송에 문제가 생겼을 때 사람이 빠르게 답해 주기를 기대합니다.",
+        "TrustScore 하나로 결정하려고 합니다. 이 점수는 미등록 프로필에서 나온 것이라 신호 품질을 잘 말해 주지 않습니다."
+      ]
+    },
+    "cta": {
+      "text": "스타링크 사이트에 주소를 입력해 결제 전에 플랜, 키트, 월 요금을 확인하세요.",
+      "label": "내 주소의 플랜 보기",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1168,
@@ -291636,7 +293058,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "了解如何開啟 Starlink 推薦連結、在訂購頁找到獎勵金額，並在符合計畫條件後領取獎勵。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -291678,10 +293100,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "獎勵多少，何時入帳",
         "paragraphs": [
-          "獎勵金額依你註冊時所在的國家而定，會直接顯示在訂購頁，所以我們不替你列出數字。推薦人也會獲得同樣的金額，形式為現金或服務抵免。",
+          "獎勵金額依你註冊時所在的國家而定，會直接顯示在訂購頁，例如在美國是 US$ 100，其他國家請以你的訂單為準。推薦人也會獲得同樣的金額，形式為現金或服務抵免。",
           "訂閱必須保持有效並按時付款，滿兩個完整計費週期。Starlink 說明中心指出，獎勵最早從啟用後 60 天起發放，實際時間依國家、帳戶與身分驗證而定。",
           "預設形式是帳單抵免。如果你的帳戶提供現金，請用瀏覽器登入網站，在「推薦」頁面選擇獎勵方式，並完成身分與銀行資料驗證。"
-        ]
+        ],
+        "emphasis": "獎勵要等訂閱有效並按時付款滿兩個完整計費週期後才發放，預設為帳單抵免，訂閱者與推薦人獲得相同金額；你所在國家的金額會顯示在訂購頁。",
+        "emphasisAfterParagraph": 3
       },
       {
         "heading": "誰可以使用",
@@ -291713,6 +293137,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
+          "Starlink 有折扣優惠券嗎？沒有。Starlink 沒有優惠券：透過我們的推薦連結訂閱，滿兩個月後可獲得獎勵，金額依國家而定（例如美國為 US$ 100），預設為帳單抵免，推薦人也獲得相同金額。",
           "Starlink 推薦怎麼運作？在 starlink.com 透過連結下單，確認推薦已套用，啟用設備，並讓符合資格的服務保持有效、按時付款滿兩個完整計費週期。",
           "Starlink 推薦獎勵是多少？金額依你註冊的國家而定，並會顯示在訂購頁。請以你自己的訂單畫面為準。",
           "Starlink 獎勵何時入帳？說明中心指出，獎勵最早從啟用後 60 天起發放，前提是推薦符合計畫條件。",
@@ -291742,7 +293167,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "你本來就要訂閱 Starlink，並希望推薦出現在原始訂單上。",
+        "你是新客戶，能讓服務保持有效並按時付款滿兩個完整計費週期，等到獎勵發放。"
+      ],
+      "skipIf": [
+        "你現在或曾經是 Starlink 客戶，因為獎勵只給第一次訂閱的人。",
+        "你打算在經銷商或電商平台購買，因為推薦只計入在 starlink.com 透過連結下的訂單。"
+      ]
+    }
   },
   {
     "id": 1169,
@@ -291765,7 +293200,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink 黑色星期五優惠依地址而異。看首單怎麼算、推薦獎勵何時入帳，以及如何在訂購頁確認。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -291823,6 +293258,14 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.3316
           }
+        ],
+        "emphasis": "依訂購頁的算法，首單淨成本等於當天應付總額減去推薦獎勵，而獎勵要完整計費兩個月後才發放，所以在那之前到期的月費仍要照付。",
+        "links": [
+          {
+            "label": "查看你地址的方案",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -291861,6 +293304,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
+          "Starlink 有優惠碼嗎？沒有。Starlink 沒有優惠券：透過 Cecília 的推薦連結訂購的人，服務滿兩個月後會以帳單抵扣的方式獲得獎勵，推薦人獲得同樣金額。金額依國家而異，例如在美國是 100 美元。",
           "Starlink 有黑色星期五優惠嗎？部分市場及地址有優惠。請在官網輸入安裝地址，查看訂購頁是否顯示活動。",
           "推薦獎勵能和優惠一起拿嗎？是否同時顯示，請看你地址的訂購頁。獎勵要等符合資格並完整計費兩個月後發放。",
           "訂購時要付多少？以訂購頁的當天應付總額為準，金額因國家、設備與安裝方式不同。",
@@ -291889,7 +293333,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "你地址的訂購頁在付款前顯示方案優惠與設備條件。",
+        "你能等滿兩個完整計費週期再拿獎勵，期間自己先付月費。"
+      ],
+      "skipIf": [
+        "訂購頁沒有顯示優惠，因為我們讀到的價格只屬於某一個地址。",
+        "你可能很快就取消，不想冒歸還設備或失去優惠價的風險。"
+      ]
+    }
   },
   {
     "id": 1170,
@@ -291912,7 +293366,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink 值得買嗎？十二個月成本怎麼算、設備與合約依地址不同，以及什麼情況下光纖或 4G 更划算。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -291963,6 +293417,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "先在不含推薦獎勵的情況下算，再看獎勵能抵多少。獎勵說明見[推薦連結指南](/zh-hant/coupons/starlink)。"
+        ],
+        "links": [
+          {
+            "label": "查看你地址的方案",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -291990,7 +293451,9 @@ export const reviewsData: unknown[] = [
         "heading": "什麼時候該和光纖或 4G 比較",
         "paragraphs": [
           "如果已經有穩定的光纖，請把每個方案的安裝費、月費與可能的合約加起來比較。4G 則要加上你需要的設備費用，並確認流量夠全家使用。"
-        ]
+        ],
+        "emphasis": "地址沒有穩定光纖、4G 也不理想時，Starlink 才值得放進比較；已有穩定光纖的話，只有設備加月費的十二個月總額低於現有連線時，換過去才划算。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "速度與遊戲",
@@ -292018,14 +293481,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "我們目前的使用經驗",
-        "paragraphs": [
-          "我們已經訂閱 Starlink，但還沒有使用經驗。速度、安裝與日常品質，會在有了之後更新到本文。"
-        ]
-      },
-      {
         "heading": "常見問題",
         "bullets": [
+          "Starlink 有折扣優惠券嗎？沒有。Starlink 沒有優惠券：透過我們的推薦連結訂閱，滿兩個月後可獲得獎勵，金額依國家而定（例如美國為 US$ 100），預設為帳單抵免，推薦人也獲得相同金額。",
           "住在市區值得買 Starlink 嗎？如果地址已有穩定光纖，換之前請比較安裝費、月費與合約。",
           "Starlink 比光纖好嗎？沒有好光纖的地方，值得詢價並確認天空是否開闊。兩者都有時，比較你地址的穩定度與成本。",
           "Starlink 適合玩遊戲嗎？請在你的地址測試延遲與中斷。官方公布的典型延遲只是一般參考。",
@@ -292053,7 +293511,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+    "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。我們尚未實際使用此服務。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
     "relatedArticles": [
       {
         "slug": "starlink-cancel-zh-hant"
@@ -292087,7 +293545,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "確認 Starlink 訂購頁的綁約、設備歸還及退款條件，並查看如何取消訂閱。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -292123,7 +293581,8 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
-        ]
+        ],
+        "emphasis": "依訂購頁的條款，取消服務並在期限內把設備完好歸還，才能申請設備與首月費用的退款，所以寄送憑證就是起決定作用的證明。"
       },
       {
         "heading": "如何取消",
@@ -292158,6 +293617,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
+          "Starlink 有優惠碼嗎？沒有。Starlink 沒有優惠券：透過 Cecília 的推薦連結訂購的人，服務滿兩個月後會以帳單抵扣的方式獲得獎勵，推薦人獲得同樣金額。金額依國家而異，例如在美國是 100 美元。",
           "Starlink 有合約嗎？依地區不同。請在你地址的訂購頁，看設備一欄是租賃、購買，還是標示無合約。",
           "Starlink 隨時可以取消嗎？可以在帳戶中提出取消。如果你的訂單有合約，提前退出前請先看適用的條件。",
           "取消後要歸還硬體嗎？訂購頁寫明租賃的地區，取消時須歸還。設備是購買的地區則依訂單條款。",
@@ -292180,7 +293640,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-trustpilot-zh-hant"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "取消時，你能在30天內把設備完好歸還。",
+        "付款前，你會讀自己訂單摘要裡的條款。"
+      ],
+      "skipIf": [
+        "你無法在期限內把設備完好寄回。",
+        "訂單摘要裡有你不接受的合約期限或解約費用。"
+      ]
+    },
+    "cta": {
+      "text": "訂購頁會在 starlink.com 開啟。付款前，先查看合約、費用與設備歸還條件。",
+      "label": "查看我的地址的條款",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1172,
@@ -292199,11 +293675,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "starlink.com 是官方網站，授權零售商清單可以幫你確認賣家。看付款前該核對什麼，以及哪些同名網站和檔案不是官方。",
-    "metaDescription": "看如何認出 Starlink 官方網站 starlink.com、查詢授權零售商清單，並分辨 Trustpilot 上的同名檔案。",
+    "description": "透過 Starlink 官方網站與授權經銷商清單，可以確認你向誰購買。付款前該檢查什麼、哪些名稱相近的頁面要略過，這裡一次說明。",
+    "metaDescription": "如何認出 Starlink 官方網站、分辨 Trustpilot 上名稱相近的頁面，並使用授權經銷商清單。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -292215,14 +293691,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 是 SpaceX 的衛星網路服務，官方網站是 starlink.com。如果在網站以外購買設備，請查看 Starlink 的授權零售商清單，付款前先確認賣家是誰。"
+          "Starlink 是 SpaceX 的衛星網路服務，官方網站是 starlink.com。在 Trustpilot 上，指向 starlink.com 的頁面名稱是「Starlink Development」。如果在其他地方買套件，付款前請先查看 Starlink 的授權經銷商清單，並確認商品的賣家是誰。"
         ]
       },
       {
         "heading": "Starlink 是誰，誰在賣",
         "paragraphs": [
-          "Starlink 透過官方網站銷售。看到名稱相似的網站，先看網址是否為 starlink.com。",
-          "[Starlink 值得買嗎](/zh-hant/reviews/starlink-worth-it-zh-hant)說明如何比較成本、安裝與其他選擇。"
+          "Starlink 透過官方網站販售。starlink.com 的訂單頁會在付款前，顯示你所在地址適用的方案、套件、稅金與合約期限。",
+          "想依地址比較價格、安裝與替代方案，請看我們的[Starlink 值不值得買](/zh-hant/reviews/starlink-worth-it-zh-hant)分析。"
         ],
         "images": [
           {
@@ -292237,55 +293713,69 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何認出官方網站",
         "paragraphs": [
-          "在瀏覽器直接輸入 starlink.com。輸入資料或付款前，確認網址列仍停在 starlink.com 之內。",
-          "如果有人要求你透過訊息付款，或在訂單之外付款，請先到官方客服確認。"
-        ]
-      },
-      {
-        "heading": "Trustpilot 上哪個才是 Starlink？",
-        "paragraphs": [
-          "Trustpilot 上網域為 starlink.com 的檔案叫「Starlink Development」，尚未被公司認領。另外有名為「Uk Starlink」（ukstarlink.com）和「Starlink」（starlink.om）的檔案，它們是其他網域，不是 starlink.com。",
-          "查口碑時，請認準網域是 starlink.com 的那一個。"
-        ]
-      },
-      {
-        "heading": "經銷商與電商平台",
-        "paragraphs": [
-          "Starlink 有一份授權零售商清單。即使在知名的電商平台，也要看賣家是誰。",
-          "[Starlink 推薦](/zh-hant/coupons/starlink)適用於直接在 starlink.com 透過連結下的符合資格訂單，無法加到零售通路的設備購買上。"
+          "在瀏覽器輸入 starlink.com。輸入資料或付款前，確認自己仍在 starlink.com 之內。",
+          "在訂單頁依你自己的地址，確認方案、套件（租用或購買）、稅金與合約期限。若有人要求透過訊息或在訂單之外付款，請先向 Starlink 客服確認再繼續。"
         ]
       },
       {
         "heading": "使用 Starlink 名義的訊息",
         "paragraphs": [
-          "Starlink 說明中心有網路釣魚的提醒。收到以 Starlink 名義發出的廣告或訊息時，請先到 starlink.com 確認，再提供資料或付款。"
+          "Starlink 的說明中心有一則關於網路釣魚的提醒。若收到以 Starlink 名義發出的廣告或訊息，付款或提供資料前，請先到 starlink.com 確認。若連結帶你到其他網址，請不要輸入任何內容，改為自己輸入網址重新進入。"
+        ]
+      },
+      {
+        "heading": "Trustpilot 上哪個才是 Starlink？",
+        "paragraphs": [
+          "在 Trustpilot 上，starlink.com 的頁面名稱是「Starlink Development」。另有頁面以不同網域使用相同名稱，例如 ukstarlink.com 與 starlink.om，它們並不是 starlink.com。請以指向 starlink.com 的頁面來評斷這家公司。"
+        ]
+      },
+      {
+        "heading": "經銷商與電商平台",
+        "paragraphs": [
+          "Starlink 公布授權經銷商清單。即使在知名電商平台，也要確認商品的賣家是誰。",
+          "[Starlink 推薦](/zh-hant/coupons/starlink)適用於透過連結、直接在 starlink.com 下的符合資格訂單，不能加到向經銷商購買的套件上。"
+        ],
+        "links": [
+          {
+            "label": "Starlink 授權經銷商清單",
+            "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
         ]
       },
       {
         "heading": "Trustpilot 顯示了什麼",
         "paragraphs": [
-          "官方網域的 Trustpilot 檔案評分偏低，而且 Trustpilot 註明公司沒有邀請客戶留評價。完整數字見[Trustpilot 評分的解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
+          "在 Trustpilot 上，starlink.com 的頁面有 879 則評價，TrustScore 為 1.6（滿分 5）：71% 是 1 星，17% 是 5 星。這個頁面未被認領，也就是 Starlink 沒有經營它，回覆率為 0%。",
+          "我們讀了最新的 40 則 1 星與 40 則 5 星評價。1 星評價中最常見的抱怨是客服只有機器人或聊天（約 3 則中有 1 則）、斷線與速度偏低（約 3 則中有 1 則）、訂閱後月費上漲（約 4 則中有 1 則）、扣款與取消困難（約 4 則中有 1 則）、合作廠商安裝人員遲到或沒出現（約 4 則中有 1 則）、套件延遲或沒收到（約 5 則中有 1 則）。5 星評價稱讚速度與穩定性（約一半）、安裝簡單（約 3 則中有 1 則）、當地沒有其他好的網路選擇（約 4 則中有 1 則）。數量為我們自行統計，僅供參考。",
+          "解讀分數時要小心：未認領的頁面不會在購買後發出評價邀請，會打開它的人往往是想抱怨。讚美多關於訊號，抱怨多關於客服、價格與扣款，說訊號一直很差的 1 星評價並不多。Trustpilot 依 355 則近期評價產生的自動摘要，方向也相同。數字請看我們的 [Trustpilot 頁面完整解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
         ]
       },
       {
         "heading": "購買後要保存什麼",
+        "paragraphs": [
+          "下單之後，保留當初訂閱內容的紀錄，能解決大多數爭議。"
+        ],
         "bullets": [
-          "保存訂單編號、結帳時顯示的價格，以及確認郵件。如果與帳單不符，請透過網站或應用程式聯絡客服。"
-        ]
+          "請保存訂單編號、結帳時顯示的價格與確認電子郵件。若內容不符，請透過網站或 App 聯絡客服。"
+        ],
+        "emphasis": "依官方網站與經銷商清單所示，對準備購買套件的人來說，穩妥的選擇是在 starlink.com 或清單上的經銷商下單，並保存訂單編號、結帳價格與確認電子郵件，因為這兩條途徑都不會要求在訂單之外付款。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "Starlink 可靠嗎？Starlink 是 SpaceX 的衛星網路服務。請確認網址是 starlink.com，並用官方的授權零售商清單確認賣家。",
-          "Starlink 的官方網站是什麼？是 starlink.com。請在瀏覽器直接輸入。",
-          "怎麼確認賣家有授權？查看 Starlink 的授權零售商清單，並在付款前核對賣家名稱。"
+          "Starlink 有優惠碼嗎？ 沒有，Starlink 沒有優惠碼。透過 Cecília 的推薦連結訂閱，使用滿兩個月後會以帳單抵用金的形式入帳，推薦人也會獲得相同金額。金額依國家而異，例如在美國為 US$ 100。",
+          "Starlink 可靠嗎？ Starlink 是 SpaceX 的衛星網路服務。請確認你在 starlink.com，若在其他地方購買，請使用授權經銷商清單。",
+          "Starlink 的官方網站是什麼？ 官方網站是 starlink.com。",
+          "怎麼確認賣家是授權經銷商？ 查看 Starlink 的經銷商清單，並在付款前確認商品的賣家是誰。",
+          "該在官方網站買還是向經銷商買？ 在 starlink.com，訂單頁會在付款前顯示你所在地址的方案、套件、稅金與合約，推薦也只在那裡有效。官方清單上的經銷商是正當賣家，但推薦不適用。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+    "editorialNote": "依據官方網站、說明中心與 Trustpilot 公開頁面整理。我們參加 Starlink 的推薦計畫；若你透過我們的連結訂閱並符合規則，我們可能獲得獎勵。",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-zh-hant"
@@ -292296,7 +293786,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-worth-it-zh-hant"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你打算在 starlink.com 買套件，並想在付款前確認所在地址的方案、套件、稅金與合約期限。",
+        "你在經銷商那裡看到套件，想知道賣家是否在 Starlink 的清單上。"
+      ],
+      "skipIf": [
+        "廣告或訊息要求在訂單之外付款：不要付款，先向 Starlink 客服確認。",
+        "瀏覽器中的網址不是 starlink.com：不要輸入任何資料。"
+      ]
+    },
+    "cta": {
+      "text": "到 Starlink 網站輸入你的地址，付款前先確認方案、套件與月費。",
+      "label": "查看你地址的方案",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1173,
@@ -292316,10 +293822,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "看 Starlink 在 Trustpilot 的評分、評價數與星等分布，以及最常見的抱怨。附上怎麼辨認官方檔案與提出投訴。",
-    "metaDescription": "Starlink 在 Trustpilot 的 TrustScore 為 1.6，共 871 則評價。看星等分布、最常見的抱怨與怎麼投訴。",
+    "metaDescription": "Starlink 在 Trustpilot 的 TrustScore 為 1.6，共 879 則評論，檔案尚未認領。整理近期一星與五星評論的內容。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -292331,82 +293837,112 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 在 Trustpilot 的 TrustScore 是 1.6，共有 871 則評價，其中 71% 是一星。這個檔案尚未被公司認領，Trustpilot 也註明公司沒有邀請客戶留評價，所以數字不一定代表全體客戶。查詢時請認準網域為 starlink.com 的檔案。"
+          "starlink.com 在 Trustpilot 的檔案 Starlink Development，TrustScore 為 5 分滿分的 1.6，共 879 則評論，其中 71% 是一星。這個檔案尚未被公司認領：沒有付費方案、不寄送評論邀請，464 則負面評論也沒有任何一則回覆。評論來自許多國家的用戶。"
         ]
       },
       {
         "heading": "評分與星等分布",
         "paragraphs": [
-          "我們在 2026 年 11 月 20 日讀取了網域為 starlink.com 的檔案，類別為網路服務供應商。"
+          "我們在 2026 年 11 月 23 日讀取了 Starlink Development 的公開檔案。"
         ],
         "comparisonTable": {
           "headers": [
             "指標",
-            "Trustpilot 檔案"
+            "Trustpilot 上的 starlink.com"
           ],
           "rows": [
             [
               "TrustScore",
-              "1.6，等級為「Bad」"
+              "5 分滿分的 1.6"
             ],
             [
-              "評價總數",
-              "871"
+              "評論數",
+              "879"
             ],
             [
-              "一星",
-              "71%"
+              "5 星",
+              "148 則（17%）"
             ],
             [
-              "二星",
-              "7%"
+              "4 星",
+              "19 則（2%）"
             ],
             [
-              "三星",
-              "3%"
+              "3 星",
+              "24 則（3%）"
             ],
             [
-              "四星",
-              "2%"
+              "2 星",
+              "61 則（7%）"
             ],
             [
-              "五星",
-              "17%"
+              "1 星",
+              "627 則（71%）"
+            ],
+            [
+              "檔案狀態",
+              "未認領，無付費方案"
+            ],
+            [
+              "評論來源",
+              "自然產生，沒有邀請用戶"
+            ],
+            [
+              "對負面評論的回覆",
+              "0%（464 則中沒有一則）"
             ]
           ],
-          "caption": "讀取自網域為 starlink.com 的 Trustpilot 檔案。"
-        },
-        "links": [
-          {
-            "label": "Trustpilot 上的 Starlink 檔案",
-            "href": "https://www.trustpilot.com/review/starlink.com"
-          }
+          "caption": "Trustpilot，starlink.com 檔案，2026 年 11 月 23 日讀取。"
+        }
+      },
+      {
+        "heading": "為什麼未認領的檔案分數偏低",
+        "paragraphs": [
+          "這個檔案未被認領，所以公司沒有 Trustpilot 的付費方案，也不會在購買後邀請用戶留評論。會邀請用戶的品牌，往往累積許多滿意買家留下的簡短五星評論。這裡沒有任何機制過濾來源：會走到這個檔案的人多半遇到了問題，而且評論都是自然產生的。",
+          "因此 1.6 比較像是「去找地方抱怨的用戶」的樣貌，而不是所有 Starlink 用戶的平均。但它仍有分量：公司不在 Trustpilot 上回覆，464 則負面評論沒有任何回覆，這個平台對它來說不是客服管道。"
         ]
       },
       {
-        "heading": "怎麼讀這些數字",
+        "heading": "一星評論在說什麼",
         "paragraphs": [
-          "檔案尚未被認領，Trustpilot 並註明公司沒有邀請客戶留評價。Trustpilot 提醒，這種情況下的評價不一定具代表性。",
-          "評分只是某一時點的紀錄，也不是服務品質的測量。它可以當作提醒，但不能取代你在訂購頁讀到的條件。"
+          "我們直接閱讀了最近 40 則一星評論，發布於 2026 年 10 月 23 日至 11 月 23 日，來自 16 個國家（其中 21 則來自美國）。這是我們對該樣本的自行閱讀。一則評論可能同時涉及多個主題，比例為概略值："
+        ],
+        "bullets": [
+          "客服：只有機器人或自動聊天，找不到真人（約三分之一）。",
+          "連線中斷，速度低於預期（約三分之一）。",
+          "訂閱後月費調漲，有時一年不只一次（約四分之一）。",
+          "為已不使用的服務扣款，退款與取消都不容易（約四分之一）。",
+          "合作安裝商沒有出現或延誤（約四分之一）。",
+          "套件延遲送達或始終沒收到（約五分之一）。"
+        ]
+      },
+      {
+        "heading": "五星評論在說什麼",
+        "paragraphs": [
+          "我們也閱讀了最近 40 則五星評論，發布於 2025 年 12 月 10 日至 2026 年 11 月 17 日，來自 15 個國家（包括德國、英國與美國）。方法與但書相同："
+        ],
+        "bullets": [
+          "速度與穩定的連線（約一半）。",
+          "安裝簡單，幾乎隨插即用（約三分之一）。",
+          "住在沒有其他好網路選擇的地方（約四分之一）。",
+          "搭配 Mini 與 Roam 方案旅行使用（數則）。",
+          "客服解決了問題，例如更換天線（少數）。"
+        ],
+        "postParagraphs": [
+          "在這個樣本中，稱讚談的是訊號，抱怨談的是客服、價格與帳單。很少有一星評論說訊號一直很差。Trustpilot 針對 355 則近期評論的自動摘要方向一致（多數用戶失望、客服聯絡不上、月費上漲與額外費用），我們只把它當作輔助依據引用。"
         ]
       },
       {
         "heading": "如何辨認公司的檔案",
         "paragraphs": [
-          "請看網域是 starlink.com 的那一個。同一頁還有「Uk Starlink」（ukstarlink.com）和「Starlink」（starlink.om）兩個檔案，它們的網域不是 starlink.com。"
-        ]
-      },
-      {
-        "heading": "最常見的抱怨",
-        "paragraphs": [
-          "Trustpilot 對近期評價做的摘要指出，最常見的抱怨是只能找到聊天機器人、難以聯絡到真人客服，其次是月費上漲與額外費用。產品與速度的評價則好壞參半，有些人稱讚連線快。"
+          "請找網站標示為 starlink.com 的「Starlink Development」。有些名稱相近的檔案指向其他網域。這個檔案匯集了數十個國家的用戶，所以某則評論描述的方案、稅金或配送規則，可能不適用於你所在的地方。"
         ]
       },
       {
         "heading": "對訂閱者意味著什麼",
         "paragraphs": [
-          "訂閱後請每個月核對帳單，並和訂購頁的價格比較。促銷價在更換方案、取消或暫停後會怎樣，以你自己訂單上的條款為準。",
-          "合約與取消的規則見[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+          "付款之前，請在 starlink.com 針對你自己的地址確認方案、套件（租用或購買）、稅金與合約：這些會依國家甚至依地址而不同。把下單當天的優惠畫面截圖存起來，每張帳單都拿來對照。",
+          "租用套件與退還規定請見[合約、取消與退款指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
         ],
         "images": [
           {
@@ -292419,31 +293955,40 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "訂閱之前",
+        "heading": "如何提出問題",
         "paragraphs": [
-          "訂閱前，先確認網站和條款。如何認出官方網站，見[Starlink 可靠嗎](/zh-hant/reviews/starlink-trust-zh-hant)。",
-          "要訂閱的話，[本站的 Starlink 頁面](/zh-hant/coupons/starlink)有連結與計畫規則。"
+          "請在 Starlink 網站或應用程式中開啟客服申請，並保留案件編號。如果帳單與訂單不符，請把優惠上顯示的價格連同帳單一併寄出。若有不認得的扣款，也請聯絡發卡機構或銀行。公司不會在 Trustpilot 上回覆，所以別指望靠留評論得到回應。"
+        ],
+        "links": [
+          {
+            "label": "Trustpilot 上的 starlink.com 檔案",
+            "href": "https://www.trustpilot.com/review/starlink.com"
+          }
         ]
       },
       {
-        "heading": "如何投訴",
+        "heading": "訂閱之前",
         "paragraphs": [
-          "請在 Starlink 網站或應用程式開立客服案件，並保存案件編號。如果帳單與訂購頁不符，請附上訂購頁的金額與帳單。"
-        ]
+          "訂閱之前，請先確認網站與條款。如何辨認官方網站與冒用名稱的檔案，請見[Starlink 可靠嗎？](/zh-hant/reviews/starlink-trust-zh-hant)。",
+          "[Starlink 推薦](/zh-hant/coupons/starlink)頁面有連結與計畫規則。推薦不是優惠券：獎勵在訂閱滿兩個月後以帳單抵免的形式入帳，優先、企業與商用方案不適用。"
+        ],
+        "emphasis": "依表格數字，對地址上沒有其他好網路選擇的人來說，在 starlink.com 針對該地址確認方案、套件、稅金與合約之後再訂閱是合理的，因為 1.6 反映的多半是客服、帳單與價格的抱怨，而不是訊號品質。"
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "Starlink 在 Trustpilot 的評分是多少？網域為 starlink.com 的檔案，TrustScore 為 1.6，共 871 則評價。",
-          "我該看哪個 Starlink 檔案？請看網域為 starlink.com 的那一個，另有兩個網域不同的同名檔案。",
-          "怎麼向 Starlink 投訴？請透過網站或應用程式開立客服案件並保存案件編號。如果問題持續，可以到 Trustpilot 留下評價。"
+          "Starlink 有折扣碼嗎？沒有。Starlink 沒有優惠券：透過 Cecília 的推薦連結訂閱，訂閱滿兩個月後會以帳單抵免的形式獲得獎勵，推薦人也獲得相同金額。金額依國家而定，例如美國為 US$ 100。",
+          "Starlink 在 Trustpilot 的評分是多少？starlink.com 檔案的 TrustScore 為 1.6，共 879 則評論，其中 71% 是一星。",
+          "為什麼分數這麼低？這個檔案未被認領，沒有付費方案、沒有評論邀請，公司也不回覆，所以主要匯集了遇到問題的人。在我們閱讀的最近 40 則一星評論中，客服、連線中斷、漲價與帳單是主要抱怨。",
+          "我該看哪個 Starlink 檔案？請找網域為 starlink.com 的檔案。其他檔案名稱相近，但網域不同。",
+          "如何向 Starlink 提出問題？請在網站或應用程式開啟申請，並保留案件編號。公司不回覆 Trustpilot 上的評論，所以不要指望。若扣款有疑問，請聯絡發卡機構或銀行。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+    "editorialNote": "資料來自 Trustpilot 公開檔案，以及我們對近期評論的自行閱讀。我們參加 Starlink 推薦計畫，若你透過我們的連結訂閱並符合規則，我們可能獲得獎勵。",
     "relatedArticles": [
       {
         "slug": "starlink-trust-zh-hant"
@@ -292454,7 +293999,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-worth-it-zh-hant"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你的地址沒有好的網路選擇，而且付款前已針對該地址確認過方案、套件與合約。",
+        "你能接受客服主要透過應用程式與自動聊天進行。"
+      ],
+      "skipIf": [
+        "你期待帳單或配送出問題時，有真人很快回覆。",
+        "你想只靠 TrustScore 就做決定：它來自未認領的檔案，對訊號品質說明有限。"
+      ]
+    },
+    "cta": {
+      "text": "在 Starlink 網站輸入你的地址，付款前先確認方案、套件與月費。",
+      "label": "查看你地址的方案",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1174,
@@ -292477,7 +294038,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "了解如何打开 Starlink 推荐链接、在订单里确认奖励金额，并在满足计划条件后拿到奖励。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -292517,10 +294078,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "奖励有多少，什么时候到账",
         "paragraphs": [
-          "金额取决于你注册所在的国家，并显示在订单和账户里，所以请以你自己的订单为准，我们不替你估一个数。推荐人也会拿到同样的奖励，形式是现金或服务抵扣。",
+          "金额取决于你注册所在的国家，并显示在订单和账户里，例如在美国是 US$ 100，其他国家请以你自己的订单为准。推荐人也会拿到同样的奖励，形式是现金或服务抵扣。",
           "订阅需要保持有效并按时付款，满两个完整计费周期。帮助中心说明，发放最早可在激活后 60 天开始，具体取决于国家、账户和身份验证。",
           "默认方式是抵扣账单。如果你的账户提供现金方式，请在浏览器里打开网站的“推荐”页面，选择奖励方式，并完成身份验证和收款设置。"
-        ]
+        ],
+        "emphasis": "奖励要等订阅有效并按时付款满两个完整计费周期后才发放，默认为账单抵扣，订阅者和推荐人拿到相同金额；你所在国家的金额会显示在订单里。",
+        "emphasisAfterParagraph": 3
       },
       {
         "heading": "谁可以使用",
@@ -292552,6 +294115,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
+          "Starlink 有折扣优惠券吗？没有。Starlink 没有优惠券：通过我们的推荐链接订阅，满两个月后可获得奖励，金额因国家而异（例如美国为 US$ 100），默认以账单抵扣的形式发放，推荐人获得相同金额。",
           "Starlink 推荐计划怎么运作？通过链接在 starlink.com 下单，确认推荐已应用，激活套件，并让符合条件的服务保持有效，满两个完整计费周期。",
           "Starlink 推荐奖励是多少？金额取决于你注册所在的国家，并显示在订单和账户里。请在付款前核对你自己的订单。",
           "奖励什么时候到账？帮助中心说明，发放最早可在激活后 60 天开始，前提是满足计划条件。",
@@ -292581,7 +294145,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-cancel-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你本来就要订阅 Starlink，并希望推荐出现在最初的订单里。",
+        "你是新用户，能让服务保持有效并按时付款，满两个完整计费周期，等到奖励发放。"
+      ],
+      "skipIf": [
+        "你现在或曾经是 Starlink 用户，因为奖励只给第一次订阅的新用户。",
+        "你打算通过经销商或电商平台购买，因为推荐只记录在 starlink.com 通过链接下的订单。"
+      ]
+    }
   },
   {
     "id": 1175,
@@ -292604,7 +294178,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "在 Starlink 官网输入安装地址，查看当地是否有黑色星期五优惠、当天应付总额，以及推荐奖励的适用条件。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -292624,6 +294198,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "我们查看了多个市场的订单页。折扣、期限和设备费用各有不同。请先在 Starlink 官网输入安装地址，查看当地是否提供服务及当时适用的优惠。",
           "你要做的是打开官网，输入你要安装的地址，再看订单页显示的优惠、套件费用和当天应付总额。"
+        ],
+        "emphasis": "各国订单页的折扣、期限和设备费用不同，所以优惠是否划算，只能看你所在地址订单页上的当天应付总额；推荐奖励要满两个完整计费周期后才发放，在此之前月费照付。",
+        "links": [
+          {
+            "label": "查看你所在地址的套餐",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292681,6 +294263,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
+          "Starlink 有优惠码吗？没有。Starlink 没有优惠券：通过 Cecília 的推荐链接订购的人，在服务满两个月后会以账单抵扣的形式获得奖励，推荐人获得同样的金额。金额因国家而异，例如在美国是 100 美元。",
           "Starlink 有黑色星期五优惠吗？部分市场和地址有优惠。输入安装地址，查看订单页是否显示活动。",
           "推荐奖励能和优惠叠加吗？是否同时显示，请看你地址的订单页。奖励取决于资格，并要满两个完整计费周期。",
           "订单当天要付多少？以订单页的当天应付总额为准，因国家和所选套餐而异。",
@@ -292708,7 +294291,17 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-cancel-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你地址的订单页在付款前显示套餐优惠和套件条件。",
+        "你能等满两个完整计费周期再拿奖励，其间自己先付月费。"
+      ],
+      "skipIf": [
+        "订单页没有显示优惠，因为我们读到的价格只属于某一个地址。",
+        "你可能很快就取消，不想冒退还套件或失去优惠价的风险。"
+      ]
+    }
   },
   {
     "id": 1176,
@@ -292731,7 +294324,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Starlink 值得买吗？套件加 12 个月月费怎么算、适合哪些家庭，以及什么时候光纤或 4G 更合适。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -292778,6 +294371,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "先不含奖励算一遍，再看订单里带推荐链接时显示的奖励，满足规则之后才会发放。见[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
+        ],
+        "links": [
+          {
+            "label": "查看你所在地址的套餐",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292803,7 +294403,9 @@ export const reviewsData: unknown[] = [
         "heading": "什么时候和光纤或 4G 比较",
         "paragraphs": [
           "如果已经有稳定的光纤，就把各家方案的安装费、月费和可能的合约加起来比较。对 4G，要加上你需要买的设备，并确认流量够全家用。"
-        ]
+        ],
+        "emphasis": "地址上既没有稳定光纤、4G 也不理想时，Starlink 才值得放进比较；已有稳定光纤的话，只有套件加月费的 12 个月总额低于现有宽带时，换过去才划算。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "速度与游戏",
@@ -292831,14 +294433,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "我们的使用体验",
-        "paragraphs": [
-          "我们已经订购了 Starlink，但还没有使用体验。速度、安装和日常稳定性，会在有了之后补进这篇文章。"
-        ]
-      },
-      {
         "heading": "常见问题",
         "bullets": [
+          "Starlink 有折扣优惠券吗？没有。Starlink 没有优惠券：通过我们的推荐链接订阅，满两个月后可获得奖励，金额因国家而异（例如美国为 US$ 100），默认以账单抵扣的形式发放，推荐人获得相同金额。",
           "在城市里值得买 Starlink 吗？如果地址上有稳定的光纤，换之前先比较安装费、月费和合约。",
           "Starlink 比光纤好吗？没有好光纤时，值得查一下价格并确认能不能看到开阔天空。两者都有时，比较稳定性和成本。",
           "Starlink 适合玩游戏吗？请在你的地址测延迟和中断。Starlink 公布的典型范围只是通用参考。",
@@ -292854,7 +294451,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "你的地址已有稳定光纤，不用买套件，也没有合约。",
-        "你要玩延迟要求高的在线游戏，而我们读到的页面没有公布实测延迟。"
+        "你要玩延迟要求高的在线游戏，而 Starlink 只公布典型延迟范围，不保证你所在地址的具体数值。"
       ]
     },
     "pros": [],
@@ -292866,7 +294463,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+    "editorialNote": "价格读取自官方订购页，没有完成购买。我们尚未实际使用该服务。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
     "relatedArticles": [
       {
         "slug": "starlink-cancel-zh-hans"
@@ -292900,7 +294497,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "查看 Starlink 订单中的合约、设备归还和退款条件，以及怎样取消订阅。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -292935,7 +294532,8 @@ export const reviewsData: unknown[] = [
           "caption": "退货时要寄回的套件：天线、路由器、底座和线缆。Starlink 官方照片。",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "emphasis": "按订单页条款，取消服务并在期限内把套件完好退回，才能申请套件和首月费用的退款，所以寄送凭证就是起决定作用的证明。"
       },
       {
         "heading": "怎么取消",
@@ -292970,6 +294568,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
+          "Starlink 有优惠码吗？没有。Starlink 没有优惠券：通过 Cecília 的推荐链接订购的人，在服务满两个月后会以账单抵扣的形式获得奖励，推荐人获得同样的金额。金额因国家而异，例如在美国是 100 美元。",
           "Starlink 有合约吗？因国家而异。订单页会写明套件是租用还是购买，有的国家，比如意大利，写的是没有合约。",
           "取消 Starlink 有违约金吗？以你的订单页为准。中文版不写具体金额，请在确认取消之前核对适用条件。",
           "Starlink 可以随时取消吗？可以在账户里提交。如果订单里有合约条款，提前退出前请先核对。",
@@ -292992,7 +294591,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-trustpilot-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "取消时，你能在30天内把套件完好退回。",
+        "付款前，你会读自己订单摘要里的条款。"
+      ],
+      "skipIf": [
+        "你无法在期限内把套件完好寄回。",
+        "订单摘要里有你不接受的合约期限或解约费用。"
+      ]
+    },
+    "cta": {
+      "text": "链接会打开 Starlink 官网。付款前请确认合约、费用和套件退回条件。",
+      "label": "查看我所在地址的条款",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1178,
@@ -293011,11 +294626,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "官方网站和 Starlink 的授权零售商名单，能帮你确认在向谁买。看看付款前要核对什么，以及如何分辨其他域名的同名页面。",
-    "metaDescription": "了解如何认出 Starlink 官网、查看授权零售商名单，以及识别用了 Starlink 名字的其他域名的评价页。",
+    "description": "通过 Starlink 官网和授权经销商名单，可以确认你在向谁购买。付款前该核对什么、哪些名字相近的页面要忽略，这里一次讲清。",
+    "metaDescription": "如何认出 Starlink 官网、分辨 Trustpilot 上名字相近的页面，并使用授权经销商名单。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -293027,14 +294642,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 是 SpaceX 的卫星互联网服务，官方网站是 starlink.com。如果在官网之外买套件，请查看 Starlink 的授权零售商名单，并在付款前确认广告的真正卖家。"
+          "Starlink 是 SpaceX 的卫星互联网服务，官网是 starlink.com。在 Trustpilot 上，指向 starlink.com 的页面名为“Starlink Development”。如果在别处买套件，付款前请先查看 Starlink 的授权经销商名单，并确认商品的卖家是谁。"
         ]
       },
       {
         "heading": "Starlink 是谁，谁在卖",
         "paragraphs": [
-          "Starlink 通过官方网站销售。你要先确认自己是在 starlink.com 的页面里下单。",
-          "[Starlink 值得买吗](/zh-hans/reviews/starlink-worth-it-zh-hans)一文说明如何在你的地址上比较价格、安装和替代方案。"
+          "Starlink 通过官网销售。starlink.com 的订单页会在付款前，显示你所在地址适用的套餐、套件、税费和合约期限。",
+          "想按地址比较价格、安装和替代方案，请看我们的[Starlink 值不值得买](/zh-hans/reviews/starlink-worth-it-zh-hans)分析。"
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
@@ -293047,60 +294662,69 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何认出官网",
         "paragraphs": [
-          "在浏览器里输入 starlink.com。填写资料或付款前，请确认你仍然停留在 starlink.com 之内。",
-          "如果有人要求你通过聊天消息付款，或者绕开订单付款，先通过 Starlink 支持确认，再继续。"
-        ]
-      },
-      {
-        "heading": "哪个是 Starlink 的 Trustpilot 页面",
-        "paragraphs": [
-          "域名是 starlink.com 的页面，名称是“Starlink Development”。Trustpilot 上还有用了相近名字的其他页面，一个对应 ukstarlink.com，一个对应 starlink.om。它们不是 starlink.com。看评价前请先核对页面上的域名。"
-        ]
-      },
-      {
-        "heading": "经销商与电商平台",
-        "paragraphs": [
-          "Starlink 有一份授权零售商名单。即使在知名的电商平台上，也要确认广告的卖家。",
-          "[Starlink 推荐页面](/zh-hans/coupons/starlink)适用于直接在 starlink.com 通过链接下的符合条件的订单，不能补加到零售渠道买的套件上。"
-        ],
-        "links": [
-          {
-            "label": "Starlink 授权零售商名单",
-            "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
-          }
+          "在浏览器里输入 starlink.com。填写资料或付款前，确认自己仍在 starlink.com 之内。",
+          "在订单页按你自己的地址，核对套餐、套件（租用或购买）、税费和合约期限。如果有人要求通过消息或在订单之外付款，请先向 Starlink 客服确认再继续。"
         ]
       },
       {
         "heading": "使用 Starlink 名义的信息",
         "paragraphs": [
-          "Starlink 的帮助中心有防钓鱼的提示。收到以 Starlink 名义发来的广告或消息时，先到 starlink.com 确认，再付款或提供资料。"
+          "Starlink 的帮助中心有一则关于网络钓鱼的提醒。如果收到以 Starlink 名义发来的广告或消息，付款或提供资料前，请先到 starlink.com 确认。如果链接把你带到别的网址，不要输入任何内容，自己输入网址重新进入。"
+        ]
+      },
+      {
+        "heading": "哪个是 Starlink 的 Trustpilot 页面",
+        "paragraphs": [
+          "在 Trustpilot 上，starlink.com 的页面名为“Starlink Development”。另有页面用不同域名使用相同的名字，例如 ukstarlink.com 和 starlink.om，它们不是 starlink.com。请以指向 starlink.com 的页面来评判这家公司。"
+        ]
+      },
+      {
+        "heading": "经销商与电商平台",
+        "paragraphs": [
+          "Starlink 公布了授权经销商名单。即使在知名电商平台，也要确认商品的卖家是谁。",
+          "[Starlink 推荐](/zh-hans/coupons/starlink)适用于通过链接、直接在 starlink.com 下的符合条件的订单，不能加到从经销商处买的套件上。"
+        ],
+        "links": [
+          {
+            "label": "Starlink 授权经销商名单",
+            "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+          }
         ]
       },
       {
         "heading": "Trustpilot 上能看到什么",
         "paragraphs": [
-          "starlink.com 的页面评分 1.6，共 871 条评价，页面没有被公司认领。完整的数字和常见抱怨见[Starlink 的 Trustpilot 评价解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
+          "在 Trustpilot 上，starlink.com 的页面有 879 条评价，TrustScore 为 1.6（满分 5）：71% 是 1 星，17% 是 5 星。这个页面没有被认领，也就是 Starlink 没有运营它，回复率为 0%。",
+          "我们读了最新的 40 条 1 星和 40 条 5 星评价。1 星评价里最常见的抱怨是客服只有机器人或聊天（约 3 条中有 1 条）、断线和速度偏低（约 3 条中有 1 条）、订阅后月费上涨（约 4 条中有 1 条）、扣费和取消困难（约 4 条中有 1 条）、合作商安装人员迟到或没来（约 4 条中有 1 条）、套件延迟或没收到（约 5 条中有 1 条）。5 星评价称赞速度和稳定性（约一半）、安装简单（约 3 条中有 1 条）、当地没有其他好的网络选择（约 4 条中有 1 条）。数量是我们自己统计的，仅供参考。",
+          "看分数要小心：没被认领的页面不会在购买后发出评价邀请，会打开它的人往往是想抱怨。称赞多关于信号，抱怨多关于客服、价格和扣费，说信号一直很差的 1 星评价并不多。Trustpilot 根据 355 条近期评价生成的自动摘要，方向也一致。具体数字见我们的 [Trustpilot 页面完整解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
         ]
       },
       {
         "heading": "买完以后要留什么",
+        "paragraphs": [
+          "下单之后，留好当初订阅内容的记录，能解决大多数纠纷。"
+        ],
         "bullets": [
-          "保留订单号、结账时显示的价格和确认邮件。如果有出入，请通过网站或应用联系支持。"
-        ]
+          "请保存订单号、结账时显示的价格和确认邮件。如果内容不符，请通过网站或 App 联系客服。"
+        ],
+        "emphasis": "依官网和经销商名单所示，对准备购买套件的人来说，稳妥的选择是在 starlink.com 或名单上的经销商下单，并保存订单号、结账价格和确认邮件，因为这两条途径都不会要求在订单之外付款。",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "Starlink 靠谱吗？Starlink 是 SpaceX 的卫星互联网服务。请认准官网 starlink.com。",
-          "Starlink 的官方网站是什么？是 starlink.com。付款前确认你仍然在这个域名里。",
-          "怎么确认卖家是授权的？查看 Starlink 的授权零售商名单，并在付款前确认广告的卖家。"
+          "Starlink 有优惠码吗？ 没有，Starlink 没有优惠码。通过 Cecília 的推荐链接订阅，使用满两个月后会以账单抵扣额度的形式到账，推荐人也会获得相同金额。金额因国家而异，例如在美国为 US$ 100。",
+          "Starlink 靠谱吗？ Starlink 是 SpaceX 的卫星互联网服务。请确认你在 starlink.com，如果在别处购买，请使用授权经销商名单。",
+          "Starlink 的官网是什么？ 官网是 starlink.com。",
+          "怎么确认卖家是授权经销商？ 查看 Starlink 的经销商名单，并在付款前确认商品的卖家是谁。",
+          "该在官网买还是向经销商买？ 在 starlink.com，订单页会在付款前显示你所在地址的套餐、套件、税费和合约，推荐也只在那里有效。官方名单上的经销商是正规卖家，但推荐不适用。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+    "editorialNote": "依据官网、帮助中心和 Trustpilot 公开页面整理。我们参加了 Starlink 的推荐计划；如果你通过我们的链接订阅并符合规则，我们可能获得奖励。",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-zh-hans"
@@ -293111,7 +294735,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-worth-it-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你打算在 starlink.com 买套件，并想在付款前核对所在地址的套餐、套件、税费和合约期限。",
+        "你在经销商那里看到套件，想知道卖家是否在 Starlink 的名单上。"
+      ],
+      "skipIf": [
+        "广告或消息要求在订单之外付款：不要付款，先向 Starlink 客服确认。",
+        "浏览器里的网址不是 starlink.com：不要填写任何资料。"
+      ]
+    },
+    "cta": {
+      "text": "到 Starlink 网站输入你的地址，付款前先核对套餐、套件和月费。",
+      "label": "查看你地址的套餐",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1179,
@@ -293131,10 +294771,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "看看 starlink.com 在 Trustpilot 上的评分、评价数量和星级分布，以及常见抱怨，并了解如何向公司投诉。",
-    "metaDescription": "Starlink 在 Trustpilot 的评分是 1.6，共 871 条评价。看星级分布、常见抱怨，以及为什么这些评价未必有代表性。",
+    "metaDescription": "Starlink 在 Trustpilot 的 TrustScore 为 1.6，共 879 条评价，主页尚未认领。整理近期一星和五星评价的内容。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -293146,75 +294786,112 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "starlink.com 在 Trustpilot 上的评分是 1.6，标为较差，共 871 条评价。其中 71% 是 1 星。公司没有认领这个页面，也没有邀请客户写评价，所以这些评价未必能代表全体用户。"
+          "starlink.com 在 Trustpilot 上的主页 Starlink Development，TrustScore 为 5 分满分的 1.6，共 879 条评价，其中 71% 是一星。这个主页尚未被公司认领：没有付费方案，不发送评价邀请，464 条负面评价也没有任何一条回复。评价来自许多国家的用户。"
         ]
       },
       {
         "heading": "评分和星级分布",
         "paragraphs": [
-          "我们在 2026 年 11 月 20 日读取了这个页面。"
+          "我们在 2026 年 11 月 23 日查看了 Starlink Development 的公开主页。"
         ],
         "comparisonTable": {
           "headers": [
             "指标",
-            "starlink.com"
+            "Trustpilot 上的 starlink.com"
           ],
           "rows": [
             [
               "TrustScore",
-              "1.6，标为较差"
+              "5 分满分的 1.6"
             ],
             [
-              "评价总数",
-              "871"
+              "评价数",
+              "879"
             ],
             [
               "5 星",
-              "17%"
+              "148 条（17%）"
             ],
             [
               "4 星",
-              "2%"
+              "19 条（2%）"
             ],
             [
               "3 星",
-              "3%"
+              "24 条（3%）"
             ],
             [
               "2 星",
-              "7%"
+              "61 条（7%）"
             ],
             [
               "1 星",
-              "71%"
+              "627 条（71%）"
+            ],
+            [
+              "主页状态",
+              "未认领，无付费方案"
+            ],
+            [
+              "评价来源",
+              "自然产生，没有邀请用户"
+            ],
+            [
+              "对负面评价的回复",
+              "0%（464 条中没有一条）"
             ]
           ],
-          "caption": "读取自 Trustpilot 上域名为 starlink.com 的页面。"
+          "caption": "Trustpilot，starlink.com 主页，2026 年 11 月 23 日查看。"
         }
       },
       {
-        "heading": "为什么要谨慎看待",
+        "heading": "为什么未认领的主页分数偏低",
         "paragraphs": [
-          "页面标明这家公司没有认领，也没有邀请过客户写评价。Trustpilot 的提示是，这样的评价可能不具代表性。这个分数只能当作一个信号，还不能当结论。"
+          "这个主页未被认领，所以公司没有 Trustpilot 付费方案，也不会在购买后邀请用户留评价。会邀请用户的品牌，往往积累很多满意买家留下的简短五星评价。这里没有任何机制过滤来源：会来到这个主页的人多半遇到了问题，而且评价都是自然产生的。",
+          "因此 1.6 更像是“去找地方吐槽的用户”的样子，而不是全体 Starlink 用户的平均。但它依然有分量：公司不在 Trustpilot 上回复，464 条负面评价没有任何回复，这个平台对它来说不是客服渠道。"
         ]
       },
       {
-        "heading": "最常见的抱怨",
+        "heading": "一星评价在说什么",
         "paragraphs": [
-          "Trustpilot 对 355 条近期评价做了自动摘要。最常见的抱怨是联系不上客服，只能用聊天机器人，还有月费上涨和额外费用。产品和速度的评价不一，也有人称赞连接速度快。我们不引用单条评价。"
+          "我们直接阅读了最近 40 条一星评价，发布于 2026 年 10 月 23 日至 11 月 23 日，来自 16 个国家（其中 21 条来自美国）。这是我们对该样本的自行阅读。一条评价可能涉及多个主题，比例为大致值："
+        ],
+        "bullets": [
+          "客服：只有机器人或自动聊天，找不到真人（约三分之一）。",
+          "连接中断，速度低于预期（约三分之一）。",
+          "订阅后月费上涨，有时一年不止一次（约四分之一）。",
+          "为已不使用的服务扣费，退款和取消都不容易（约四分之一）。",
+          "合作安装商没有出现或延误（约四分之一）。",
+          "套件延迟送达或始终没收到（约五分之一）。"
+        ]
+      },
+      {
+        "heading": "五星评价在说什么",
+        "paragraphs": [
+          "我们也阅读了最近 40 条五星评价，发布于 2025 年 12 月 10 日至 2026 年 11 月 17 日，来自 15 个国家（包括德国、英国和美国）。方法和但书相同："
+        ],
+        "bullets": [
+          "速度和稳定的连接（约一半）。",
+          "安装简单，几乎即插即用（约三分之一）。",
+          "住在没有其他好网络选择的地方（约四分之一）。",
+          "搭配 Mini 和 Roam 方案旅行使用（数条）。",
+          "客服解决了问题，例如更换天线（少数）。"
+        ],
+        "postParagraphs": [
+          "在这个样本中，称赞谈的是信号，抱怨谈的是客服、价格和账单。很少有一星评价说信号一直很差。Trustpilot 针对 355 条近期评价的自动摘要方向一致（多数用户失望、客服联系不上、月费上涨和额外费用），我们只把它作为辅助依据引用。"
         ]
       },
       {
         "heading": "如何认出对的页面",
         "paragraphs": [
-          "要看的是域名为 starlink.com 的页面。Trustpilot 上还有 ukstarlink.com 和 starlink.om 的页面，它们不是 starlink.com，评分和评价数量也不同。"
+          "请找网站标注为 starlink.com 的“Starlink Development”。有些名称相近的主页指向其他域名。这个主页汇集了几十个国家的用户，所以某条评价描述的方案、税费或配送规则，可能并不适用于你所在的地方。"
         ]
       },
       {
         "heading": "这对订阅者意味着什么",
         "paragraphs": [
-          "订阅之后，每月核对账单，并和订单上显示的价格比较。促销价在更换套餐、取消或暂停后会怎样，以你自己订单里的条款为准。",
-          "合约和取消的规则见[取消与退货指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
+          "付款之前，请在 starlink.com 针对你自己的地址确认方案、套件（租用或购买）、税费和合同：这些会因国家甚至地址而不同。把下单当天的优惠页面截图保存，每张账单都拿来对照。",
+          "租用套件和退还规定见[合同、取消与退款指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
@@ -293225,38 +294902,40 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "订阅之前",
+        "heading": "怎么提出问题",
         "paragraphs": [
-          "订阅之前，先确认网站和条款。如何认出官网，见[Starlink 靠谱吗](/zh-hans/reviews/starlink-trust-zh-hans)。",
-          "如果要订阅，[Starlink 推荐页面](/zh-hans/coupons/starlink)有链接和规则。"
-        ]
-      },
-      {
-        "heading": "怎么投诉",
-        "paragraphs": [
-          "通过 Starlink 网站或应用提交工单，并保存工单编号。如果账单和订单对不上，请把订单里显示的优惠金额和账单一起发给支持。"
+          "请在 Starlink 网站或应用中提交客服申请，并保留案件编号。如果账单和订单不符，请把优惠上显示的价格连同账单一并发送。如果有不认识的扣款，也请联系发卡机构或银行。公司不会在 Trustpilot 上回复，所以别指望靠留评价得到回应。"
         ],
         "links": [
           {
-            "label": "Trustpilot 上 starlink.com 的页面",
+            "label": "Trustpilot 上的 starlink.com 主页",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
         ]
       },
       {
+        "heading": "订阅之前",
+        "paragraphs": [
+          "订阅之前，请先确认网站和条款。如何认出官方网站和冒用名称的主页，见[Starlink 可靠吗？](/zh-hans/reviews/starlink-trust-zh-hans)。",
+          "[Starlink 推荐](/zh-hans/coupons/starlink)页面有链接和计划规则。推荐不是优惠券：奖励在订阅满两个月后以账单抵扣的形式到账，优先级、企业和商用方案不适用。"
+        ],
+        "emphasis": "按表格里的数字，对地址上没有其他好网络选择的人来说，在 starlink.com 针对该地址确认方案、套件、税费和合同之后再订阅是合理的，因为 1.6 反映的多半是客服、账单和价格方面的抱怨，而不是信号质量。"
+      },
+      {
         "heading": "常见问题",
         "bullets": [
-          "Starlink 在 Trustpilot 上多少分？starlink.com 的页面评分是 1.6，标为较差，共 871 条评价。",
-          "应该看 Trustpilot 上的哪个页面？看域名是 starlink.com 的页面。其他域名的页面不是 starlink.com。",
-          "这些评价有代表性吗？公司没有认领页面，也没有邀请客户写评价，所以未必有代表性。",
-          "怎么向 Starlink 投诉？通过网站或应用提交工单并保存编号。问题没有解决，再去 Trustpilot 留下评价。"
+          "Starlink 有折扣码吗？没有。Starlink 没有优惠券：通过 Cecília 的推荐链接订阅，订阅满两个月后会以账单抵扣的形式获得奖励，推荐人也获得相同金额。金额取决于国家，例如美国为 US$ 100。",
+          "Starlink 在 Trustpilot 的评分是多少？starlink.com 主页的 TrustScore 为 1.6，共 879 条评价，其中 71% 是一星。",
+          "为什么分数这么低？这个主页未被认领，没有付费方案、没有评价邀请，公司也不回复，所以主要汇集了遇到问题的人。在我们阅读的最近 40 条一星评价中，客服、连接中断、涨价和账单是主要抱怨。",
+          "我该看哪个 Starlink 主页？请找域名为 starlink.com 的主页。其他主页名称相近，但域名不同。",
+          "如何向 Starlink 提出问题？请在网站或应用中提交申请，并保留案件编号。公司不回复 Trustpilot 上的评价，所以不要指望。如果扣款有疑问，请联系发卡机构或银行。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "价格读取自官方订购页，没有完成购买。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+    "editorialNote": "数据来自 Trustpilot 公开主页，以及我们对近期评价的自行阅读。我们参加 Starlink 推荐计划，如果你通过我们的链接订阅并符合规则，我们可能获得奖励。",
     "relatedArticles": [
       {
         "slug": "starlink-trust-zh-hans"
@@ -293267,7 +294946,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-worth-it-zh-hans"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "你的地址没有好的网络选择，而且付款前已针对该地址确认过方案、套件和合同。",
+        "你能接受客服主要通过应用和自动聊天进行。"
+      ],
+      "skipIf": [
+        "你期待账单或配送出问题时，有真人很快回复。",
+        "你想只靠 TrustScore 做决定：它来自未认领的主页，对信号质量说明有限。"
+      ]
+    },
+    "cta": {
+      "text": "在 Starlink 网站输入你的地址，付款前先确认方案、套件和月费。",
+      "label": "查看你地址的方案",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1180,
@@ -307157,7 +308852,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "عبر رابطنا يبلغ سعر خطة VPN Plus من Proton $59.76 لأول 24 شهرًا. قارنها بـ $71.76 في صفحة عروض Proton وراجع سعر التجديد المعلن.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -307322,7 +309017,8 @@ export const reviewsData: unknown[] = [
           "خطة السنة الواحدة تطلب أقل مبلغ اليوم، وتناسب من يريد تجربة الخدمة المدفوعة وقد يلغيها قبل التجديد. وإذا امتد الاشتراك إلى سنة ثانية، فإن التجديد وحده يكلّف أكثر من خطة السنتين كاملة على صفحة الشركاء.",
           "أما خطة السنتين فتناسب من يريد ميزات Plus المدفوعة ويتوقع استخدامها طوال المدة. ولمن هذا حاله، كان رابطنا هو الأقل إجمالًا بين الخيارات المقارَنة؛ ويبقى الاشتراك المجاني خيارًا لمن لا يحتاج تلك الميزات.",
           "وبالنسبة إلى Proton Unlimited، عرضت صفحة الشركاء خطة السنة بمبلغ $77.88، وتتجدد بمبلغ $119.88 كل 12 شهرًا."
-        ]
+        ],
+        "emphasis": "بحسب أرقام الجدول، لمن يريد VPN Plus طوال سنتين، فالخيار هو خطة السنتين عبر رابطنا، لأن مجموعها 59.76 دولارًا خلال 24 شهرًا، مقابل 119.76 دولارًا لخطة السنة مع تجديد واحد."
       },
       {
         "heading": "VPN Plus وحدها أم Proton Unlimited",
@@ -307361,7 +309057,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
-          "هل لدى Proton كوبون للجمعة البيضاء؟ لا حاجة إلى رمز. يظهر الخصم في الصفحة التي يفتحها رابطنا، ويُؤكَّد الإجمالي عند إتمام الشراء.",
+          "هل لدى Proton كوبون خصم؟ لا يوجد كوبون: خصم الجمعة البيضاء، الذي يصل إلى 75% خصمًا، يُفتح عبر روابط Cecília، ويظهر السعر في موقع Proton بعملة بلدك، ويظهر بجواره مبلغ التجديد.",
           "كم تكلّف Proton VPN في الجمعة البيضاء؟ على صفحة الشركاء، كانت خطة VPN Plus لسنتين بمبلغ $59.76 تُدفع مقدّمًا، وتتجدد بمبلغ $83.88 كل 12 شهرًا. تتغير المبالغ بحسب بلدك وعملتك.",
           "هل ينطبق سعر الجمعة البيضاء عند التجديد؟ لا. بعد المدة الأولى يتجدد الاشتراك بالسعر المعتاد. وفي الأسعار التي اطلعنا عليها، هو $83.88 كل 12 شهرًا لـ VPN Plus.",
           "هل يحصل عملاء Proton الحاليون على خصم؟ تقول الصفحة إن العروض للمستخدمين الجدد. ووفق Proton، يرى أصحاب الحسابات الحالية عروضهم بعد تسجيل الدخول.",
@@ -307422,7 +309118,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "هل Proton VPN آمنة؟ تعرّف على الشركة وما فحصته عمليات التدقيق وهل يمكن الوثوق بالخطة المجانية وما الذي لا تحميك منه الـ VPN.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -307531,11 +309227,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "تذكر صفحة الأسعار لدى Proton بطاقات Visa وMastercard وAmerican Express وPayPal. ويتجدد الاشتراك من تلقاء نفسه بالسعر الساري في تاريخ التجديد.",
           "تمنح الشروط استردادًا كاملًا لمن يلغي ويطلب المبلغ خلال 30 يومًا من الشراء الأول، مرة واحدة لكل مستخدم وللاشتراكات المشتراة مباشرة من Proton فقط. والخطوات في [كيف تلغي Proton VPN وتطلب استرداد المبلغ](/ar/reviews/proton-vpn-refund-ar)."
-        ]
+        ],
+        "emphasis": "بحسب Proton وتدقيق Securitum لعام 2026، فحص طرف ثالث سياسة عدم الاحتفاظ بالسجلات، لكن ضمان الاسترداد خلال 30 يومًا لا يسري إلا على الاشتراك المباشر مع Proton، ويُفوتر التجديد بالسعر السائد في ذلك التاريخ."
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "هل لدى Proton كوبون خصم؟ لا يوجد كوبون: خصم الجمعة السوداء الذي يصل إلى 75% يُفتح عبر روابط Cecília، ويظهر السعر على موقع Proton بعملة بلدك، ويظهر بجانبه سعر التجديد.",
           "هل Proton VPN آمنة؟ مؤشرات الثقة التي يمكن التحقق منها مواتية: شركة معروفة الهوية، وشيفرة تطبيقات علنية، وتدقيق سنوي من Securitum لسياسة عدم الاحتفاظ بالسجلات مع نشر التقارير. هذه النتائج لا تضمن إخفاء الهوية ولا الحماية من كل عملية احتيال.",
           "هل Proton VPN المجانية جديرة بالثقة؟ تقول Proton إن الخطة المجانية لا تحتفظ بسجلات للنشاط ولا إعلانات فيها ولا حدّ للبيانات، وإن المشتركين يموّلونها. أما قيودها فجهاز واحد ودول أقل.",
           "هل Proton VPN فيروس؟ لا. التطبيق الرسمي موجود في Google Play وApp Store والمطوّر هو Proton AG. والخطر في المثبّتات من أطراف ثالثة والنسخ المعدَّلة.",
@@ -307549,6 +309247,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "تريد VPN من شركة معروفة، بتطبيقات مفتوحة المصدر وتدقيق خارجي لسياسة السجلات، بحسب Proton وSecuritum.",
+        "تدرك أن الـ VPN يغيّر من يرى حركة بياناتك دون أن يضمن إخفاء الهوية."
+      ],
+      "skipIf": [
+        "تتوقع إخفاء هوية كاملًا أو حماية من الاحتيال: الـ VPN لا يقدم أيًّا منهما.",
+        "تحتاج إلى دعم برد مضمون: القناة الرسمية لدى Proton هي نموذج الدعم."
+      ]
+    },
     "cta": {
       "text": "إذا كنت تريد ميزات Proton VPN المدفوعة، فافتح العرض عبر رابطنا وتحقق من الإجمالي المدفوع مقدّمًا ومن التجديد. دليل الجمعة البيضاء المرتبط يقارن الأسعار.",
       "label": "احصل على خصم يصل إلى 75% عبر الرابط",
@@ -307590,7 +309298,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "كيف تلغي Proton VPN وتطلب استرداد المبلغ: مهلة 30 يومًا، والشروط التي تُسقط الطلب، وكيف تتجنب رسوم التجديد.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -307713,7 +309421,8 @@ export const reviewsData: unknown[] = [
           "يتبع التجديد دورة الفوترة الظاهرة في العرض والإيصال، وقد تختلف عن المدة الأولى. وتقول الشروط إنك تُحاسَب بـ \"السعر الساري وقت التجديد\" (ترجمتنا)، ولا يغطي السعر الترويجي إلا المدة الأولى. وعلى صفحة الشركاء لدى Proton بالدولار الأمريكي، فُوتِرت خطة VPN Plus لسنتين بمبلغ $59.76 لأول 24 شهرًا، ثم تتجدد بمبلغ $83.88 كل 12 شهرًا. وتتغير الأسعار بحسب البلد والعملة.",
           "في VPN Plus، ولإيقاف التجديد، تطلب الشروط أن تلغي قبل تاريخ التجديد. ولا حاجة إلى الانتظار حتى اليوم السابق له. ولأن الخطة المدفوعة تستمر حتى نهاية المدة المدفوعة أصلًا، يمكنك الإلغاء فور الاشتراك وتستمر في استخدام كل ما دفعت ثمنه.",
           "ضع تاريخ الفوترة التالي في تقويمك، قبله بأيام قليلة. وإذا اشتركت عبر متجر تطبيقات الهاتف، فتحقق من التاريخ في اشتراكات المتجر."
-        ]
+        ],
+        "emphasis": "بحسب شروط Proton، يشمل الاسترداد خلال 30 يومًا الشراء الأول المنجز مباشرة مع Proton فقط، ويقع التجديد خارج القاعدة؛ ولتجنب الخصم مجددًا يجب الإلغاء قبل تاريخ الفوترة، لدى Proton أو في متجر الهاتف الذي فوتر الاشتراك."
       },
       {
         "heading": "تغيير الخطة بدل المغادرة",
@@ -307731,6 +309440,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "هل لدى Proton كوبون خصم؟ لا يوجد كوبون: خصم الجمعة السوداء الذي يصل إلى 75% يُفتح عبر روابط Cecília، ويظهر السعر على موقع Proton بعملة بلدك، ويظهر بجانبه سعر التجديد.",
           "هل تعيد Proton VPN المال؟ في المشتريات المباشرة من Proton، تنص الشروط على استرداد كامل إذا ألغيت وطلبته خلال 30 يومًا من الشراء الأول، مرة واحدة لكل مستخدم ومع مراعاة قيود الدفع. وفي مشتريات Google Play وApp Store، اتبع المسار الموضح في قسم متجر التطبيقات أعلاه.",
           "كيف ألغي Proton VPN؟ على الموقع، سجّل الدخول وافتح Subscription وادخل إلى Cancel subscription واتبع الخطوات حتى تُرسل السبب. وإذا اشتركت عبر Google Play أو App Store، فألغِ من اشتراكات المتجر.",
           "ألغيت ومع ذلك حوسبت، فماذا أفعل؟ تحقق أولًا ممن فوترك. الاشتراك المشترى عبر متجر تطبيقات الهاتف يُلغى في المتجر. وإذا جاء الخصم من Proton بعد إلغاء مكتمل، فاكتب إلى الدعم مع التواريخ والإيصال.",
@@ -307744,6 +309454,16 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [],
     "cons": [],
+    "decision": {
+      "takeIf": [
+        "اشتركت مباشرة مع Proton وما زلت ضمن 30 يومًا من الشراء الأول.",
+        "تريد إيقاف التجديد، وإن كنت مؤهلًا فتريد أن تطلب من دعم Proton استردادًا كاملًا."
+      ],
+      "skipIf": [
+        "اشتركت عبر App Store أو Google Play: يتم الإلغاء في المتجر، ويتبع الاسترداد مسارًا آخر.",
+        "دفعت نقدًا أو بتحويل مصرفي، أو سبق أن طلبت استردادًا: الشروط لا تغطي هذه الحالات."
+      ]
+    },
     "cta": {
       "text": "إذا كنت لا تزال تفكر في الاشتراك، فافتح عرض Proton عبر رابطنا وتحقق من الإجمالي والتجديد. وفي حال وجود طلب إلغاء أو استرداد قائم، فاستخدم مسار الدعم المناسب في هذا الدليل.",
       "label": "احصل على خصم يصل إلى 75% عبر الرابط",
@@ -307785,7 +309505,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "هل Proton VPN تستحق الاشتراك؟ المجانية أم Plus: رابطنا يقدّم $59.76 لمدة 24 شهرًا، ثم $83.88 في السنة. قارن الميزات والشروط.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -307822,7 +309542,7 @@ export const reviewsData: unknown[] = [
           "**دعم ذو أولوية ودردشة مباشرة.**"
         ],
         "postParagraphs": [
-          "لا نستخدم Proton VPN. فالسرعة وP2P والبث تظهر هنا كما تعلنها Proton، دون قياس من جانبنا ودون وعد بالوصول إلى أي خدمة فيديو. وجانب الثقة مع عمليات التدقيق في [هل Proton VPN آمنة؟](/ar/reviews/proton-vpn-trust-ar)."
+          "السرعة وP2P والبث تظهر هنا كما تعلنها Proton، دون وعد بالوصول إلى أي خدمة فيديو. وجانب الثقة مع عمليات التدقيق في [هل Proton VPN آمنة؟](/ar/reviews/proton-vpn-trust-ar)."
         ]
       },
       {
@@ -307930,7 +309650,14 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
           "alt": "بطاقة VPN Plus في صفحة أسعار Proton، وفيها خطة السنة بسعر $2.99 شهريًا، تُفوتر بمبلغ $35.88 لأول 12 شهرًا وتتجدد بمبلغ $83.88 كل 12 شهرًا.",
           "caption": "بطاقة VPN Plus لسنة في صفحة أسعار Proton، مع الإجمالي والتجديد في السطر الصغير."
-        }
+        },
+        "links": [
+          {
+            "label": "عرض VPN Plus",
+            "href": "https://go.getproton.me/SH39K",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "VPN Plus أم Proton Unlimited",
@@ -307938,7 +309665,8 @@ export const reviewsData: unknown[] = [
           "تجمع Proton Unlimited الميزات المدفوعة للـ VPN والبريد الإلكتروني والتخزين السحابي ومدير كلمات المرور في حساب واحد. وفي الصفحة نفسها، كلّفت خطة السنة $77.88 وتتجدد بمبلغ $119.88 كل 12 شهرًا.",
           "إذا اشتركت في VPN Plus، فستحتفظ بالخطط المجانية للخدمات الأخرى، ويقول مركز المساعدة إنه لا يمكن امتلاك عدة خطط Plus على الحساب نفسه. فكّر في Unlimited إذا كنت ستستخدم أيضًا الميزات المدفوعة للخدمات الأخرى؛ فالحاجة إلى خدمتين وحدها لا تثبت أنها الخيار الأرخص. وتعلن Proton أيضًا باقة VPN وPass، تستحق المقارنة إذا كنت تحتاج إلى VPN ومدير كلمات مرور. وإذا كنت تريد الـ VPN فقط، فإن Plus لسنة تكلّف أقل من النصف في المدة الأولى ($35.88 مقابل $77.88) وتبقى أرخص عند التجديد ($83.88 مقابل $119.88).",
           "نستخدم Proton Mail، من الشركة نفسها، على الخطة المجانية منذ نحو عشر سنوات. فإذا كان البريد المجاني كافيًا لك، فلا حاجة إلى Unlimited لتحصل على الـ VPN المدفوعة."
-        ]
+        ],
+        "emphasis": "بحسب أرقام الجدول، لمن يريد الـ VPN المدفوعة فقط، فالخيار هو VPN Plus لسنة، لأنها تكلّف 35.88 دولارًا مقابل 77.88 دولارًا لـ Unlimited في المدة الأولى، وتتجدد بـ 83.88 دولارًا مقابل 119.88 دولارًا."
       },
       {
         "heading": "ما يُؤخذ عليها",
@@ -307959,6 +309687,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "هل لدى Proton كوبون خصم؟ لا يوجد كوبون: خصم الجمعة البيضاء، الذي يصل إلى 75% خصمًا، يُفتح عبر روابط Cecília، ويظهر السعر في موقع Proton بعملة بلدك، ويظهر بجواره مبلغ التجديد.",
           "هل Proton VPN مجانية؟ لها خطة مجانية دون بطاقة، وخطط مدفوعة. وبحسب Proton، لا إعلانات في الخطة المجانية ولا حدّ للبيانات، وتتصل بجهاز واحد في المرة.",
           "هل لدى Proton VPN Free حدّ للبيانات؟ تقول Proton إنه لا حدّ. وقيود الخطة المجانية هي جهاز واحد في المرة وخوادم في 10 دول يختارها التطبيق.",
           "كم تكلّف Proton VPN Plus؟ في الأسعار بالدولار الأمريكي التي سجّلناها، كلّفت السنة $35.88 وكلّف عرض الشركاء عبر رابطنا $59.76 لأول 24 شهرًا، وكلاهما يُدفع مقدّمًا. وكان التجديد المعلن حينها $83.88 كل 12 شهرًا؛ فتحقق من العملة والأهلية والسعر الحالي.",
@@ -311974,7 +313703,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "في رينو عرضت Starlink خصم 30% على الخدمة وجهازًا مستأجرًا بـ 0$ وباقات تبدأ من 38.50$ شهريًا. اعرف كم يكلّف الطلب وتحقق من عنوانك.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -312030,6 +313759,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "للحصول على المكافأة يجب أن تكون الإحالة مؤهلة وأن تبقى الخدمة فعّالة ومسددة لدورتين شهريتين كاملتين. تمنح Starlink رصيدًا على الفاتورة، وقد تدفع نقدًا بحسب الحساب."
+        ],
+        "emphasis": "بحسب أرقام الجدول، يعرض طلب رينو 21.65$ مستحقة اليوم وباقة Residential من 38.50$ شهريًا، ولا تصل مكافأة الإحالة البالغة 100$ إلا بعد دورتين شهريتين كاملتين، فتُدفع الفواتير الأولى من مالك الخاص.",
+        "links": [
+          {
+            "label": "اطّلع على الباقات لعنوانك",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -312081,6 +313818,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "هل لدى Starlink كود خصم؟ لا. لا يوجد كوبون من Starlink: عبر رابط الإحالة الخاص بـ Cecília، يحصل المشترك بعد شهرين من الاشتراك على مكافأة كرصيد في الفاتورة، ويحصل من أحال على المبلغ نفسه. تختلف القيمة بحسب البلد، ومثالها 100$ في الولايات المتحدة.",
           "هل لدى Starlink عرض للجمعة البيضاء؟ تعرض صفحة الطلب التي قرأناها خصم 30% على باقات الخدمة في مناطق محددة لمن يشترك قبل نهاية الشهر، مع جهاز مستأجر بـ 0$.",
           "هل تجتمع الإحالة مع العرض؟ عرض الباقة والإحالة سطران منفصلان في الطلب. وأظهر طلب نيفادا عبر رابطنا إحالة بقيمة 100$ بجانب إجمالي مستحق قدره 20$ زائد الضرائب. وتعتمد المكافأة على الأهلية وعلى دورتين شهريتين كاملتين.",
           "كم تدفع عند الطلب؟ أظهرت صفحة الطلب لمدينة رينو مبلغ 21.65$ مستحقًا اليوم، وتأتي فاتورة الشهر الأول بعد ذلك.",
@@ -312109,7 +313847,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "يعرض طلب عنوانك عرض الباقة وشروط الجهاز قبل الدفع.",
+        "تستطيع انتظار دورتين شهريتين كاملتين للمكافأة ودفع الفواتير في هذه الأثناء."
+      ],
+      "skipIf": [
+        "لا تعرض صفحة طلبك العرض، لأن الأسعار التي قرأناها تخص عنوانًا واحدًا.",
+        "قد تلغي قريبًا ولا تريد المخاطرة بإعادة الجهاز أو بفقدان السعر الترويجي."
+      ]
+    }
   },
   {
     "id": 1251,
@@ -312132,7 +313880,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "تعرض Starlink الجهاز للإيجار، وعليك إعادته إذا ألغيت. اعرف الاسترداد خلال 30 يومًا وطريقة الإلغاء من حسابك وما يتغير بعده.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -312167,7 +313915,8 @@ export const reviewsData: unknown[] = [
           "caption": "الجهاز الذي يُعاد عند الإرجاع: الطبق والراوتر والحامل والكابلات. صورة من Starlink.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
-        }
+        },
+        "emphasis": "بحسب شروط صفحة الطلب، إلغاء الخدمة وإعادة الجهاز سليمًا خلال 30 يومًا هو ما يتيح استرداد ثمن الجهاز والشهر الأول، وإيصال الشحن هو الدليل الذي يحسم الأمر."
       },
       {
         "heading": "كيف تلغي",
@@ -312198,6 +313947,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "هل لدى Starlink كود خصم؟ لا. لا يوجد كوبون من Starlink: عبر رابط الإحالة الخاص بـ Cecília، يحصل المشترك بعد شهرين من الاشتراك على مكافأة كرصيد في الفاتورة، ويحصل من أحال على المبلغ نفسه. تختلف القيمة بحسب البلد، ومثالها 100$ في الولايات المتحدة.",
           "هل لدى Starlink عقد؟ في صفحة الطلب التي قرأناها كان الجهاز إيجارًا بـ 0$ مقدمًا و0$ شهريًا. تأكد من الشروط في ملخص طلبك.",
           "كم رسم إلغاء Starlink؟ لم نرَ رسم إلغاء مبكر في الصفحة التي قرأناها. راجع ملخص طلبك قبل أن تؤكد الإلغاء.",
           "هل يمكنني إلغاء Starlink في أي وقت؟ يمكنك طلب ذلك من حسابك. الإلغاء يوقف الرسوم المستقبلية، وعليك إعادة الجهاز المستأجر.",
@@ -312220,7 +313970,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-trustpilot-ar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "تستطيع إعادة الجهاز المستأجر سليمًا خلال 30 يومًا إذا ألغيت.",
+        "ستقرأ الشروط في ملخص طلبك قبل الدفع."
+      ],
+      "skipIf": [
+        "لا تستطيع إعادة الجهاز بحالة جيدة خلال المدة.",
+        "يعرض ملخص طلبك مدة عقد أو رسم إلغاء لا تقبله."
+      ]
+    },
+    "cta": {
+      "text": "يُفتح الطلب في موقع Starlink. تحقق من العقد والرسوم وإعادة الجهاز قبل أن تدفع.",
+      "label": "تحقق من الشروط لعنواني",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1252,
@@ -312243,7 +314009,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "اعرف كيف تفتح رابط إحالة Starlink وتجد المكافأة في طلبك وتحصل عليها بعد استيفاء شروط البرنامج.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -312283,10 +314049,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "كم تدفع المكافأة ومتى",
         "paragraphs": [
-          "في الطلب الذي رأيناه في نيفادا عبر رابطنا، أظهرت Starlink مبلغ 100$ لمن يشترك. وينال المحيل المبلغ نفسه، نقدًا أو رصيد خدمة.",
+          "يعتمد المبلغ على البلد الذي تسجّل فيه ويظهر في الطلب وفي الحساب، مثلًا 100 دولار أمريكي في الولايات المتحدة. وينال المحيل المبلغ نفسه، نقدًا أو رصيد خدمة.",
           "يجب أن يبقى الاشتراك فعّالًا ومسددًا لدورتين شهريتين كاملتين. ويذكر مركز المساعدة أن الصرف قد يبدأ بعد 60 يومًا من التفعيل، بحسب البلد والحساب والتحقق من الهوية.",
           "الخيار الافتراضي هو رصيد على فاتورتك. وإذا كان حسابك يتيح النقد، فافتح قسم Referrals في الموقع عبر المتصفح واختر طريقة المكافأة هناك."
-        ]
+        ],
+        "emphasis": "لا تُصرف المكافأة إلا بعد دورتين شهريتين كاملتين من اشتراك فعّال ومسدد، وتكون افتراضيًا رصيدًا على الفاتورة، ويحصل المشترك والمحيل على المبلغ نفسه؛ ويظهر مبلغ بلدك في الطلب.",
+        "emphasisAfterParagraph": 3
       },
       {
         "heading": "من يمكنه الاستفادة",
@@ -312318,8 +314086,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "هل لدى Starlink كوبون خصم؟ لا. ليس لدى Starlink كوبون: عبر رابط الإحالة الخاص بنا، يحصل المشترك على مكافأة بعد شهرين من الاشتراك، ويعتمد المبلغ على البلد (مثلًا 100 دولار أمريكي في الولايات المتحدة)، وتُصرف افتراضيًا رصيدًا على الفاتورة، ويحصل المحيل على المبلغ نفسه.",
           "كيف تعمل إحالة Starlink؟ قدّم الطلب على starlink.com عبر الرابط. تأكد من ظهور الإحالة مطبّقة، وفعّل الجهاز، وأبقِ الخدمة فعّالة ومسددة لدورتين شهريتين كاملتين.",
-          "كم تساوي إحالة Starlink؟ في طلب نيفادا عبر رابطنا ظهر مبلغ 100$ لمن يشترك. تحقق من المبلغ في طلبك.",
+          "كم تساوي إحالة Starlink؟ يعتمد المبلغ على البلد الذي تسجّل فيه ويظهر في طلبك، مثلًا 100 دولار أمريكي في الولايات المتحدة. تحقق من المبلغ في طلبك.",
           "متى تصل مكافأة إحالة Starlink؟ يذكر مركز المساعدة أن الصرف قد يبدأ بعد 60 يومًا من التفعيل، إذا استوفت الإحالة شروط البرنامج.",
           "هل تعمل الإحالة في طلب من تاجر تجزئة أو سوق إلكتروني؟ يشترط البرنامج أن يتم الشراء مباشرة على starlink.com عبر الرابط.",
           "سبق أن استخدمت Starlink. هل يمكنني استخدام الرابط؟ المكافأة لمن يشترك في Starlink للمرة الأولى.",
@@ -312347,7 +314116,17 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [],
-    "cons": []
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "ستشترك في Starlink على أي حال وتريد أن تظهر الإحالة في الطلب الأصلي.",
+        "أنت عميل جديد وتستطيع إبقاء الخدمة فعّالة ومسددة لدورتين شهريتين كاملتين حتى تُصرف المكافأة."
+      ],
+      "skipIf": [
+        "أنت أو كنت عميلًا في Starlink، فالمكافأة لمن يشترك للمرة الأولى فقط.",
+        "ستشتري من تاجر تجزئة أو سوق إلكتروني، فالإحالة لا تُحتسب إلا للطلبات المقدمة على starlink.com عبر الرابط."
+      ]
+    }
   },
   {
     "id": 1253,
@@ -312367,10 +314146,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "اعرف تقييم TrustScore وكيف تتوزع النجوم وأي الشكاوى أكثر تكرارًا في صفحة Starlink على Trustpilot. وتعلّم كيف ترفع مشكلتك إلى الشركة.",
-    "metaDescription": "Starlink على Trustpilot: تقييم TrustScore بقيمة 1.6 من 871 مراجعة. اعرف أكثر الشكاوى تكرارًا وكيف تعرض مشكلة على الشركة.",
+    "metaDescription": "Starlink على Trustpilot: تقييم TrustScore بقيمة 1.6 من 879 مراجعة على صفحة غير مُطالَب بها. ماذا تقول المراجعات الحديثة بنجمة وبخمس نجوم.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -312382,13 +314161,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "تُظهر Starlink Development، وهي صفحة Trustpilot الخاصة بـ starlink.com، تقييم TrustScore بقيمة 1.6 من 5 استنادًا إلى 871 مراجعة. ومن بين هذه المراجعات، تمنح 71% نجمة واحدة. ويبرز الملخص الآلي في Trustpilot صعوبة الوصول إلى الدعم وشكاوى من ارتفاع الفواتير. وتغطي هذه الصفحة مراجعات من أسواق مختلفة."
+          "صفحة Starlink Development، وهي صفحة starlink.com على Trustpilot، تحمل تقييم TrustScore بقيمة 1.6 من 5 من خلال 879 مراجعة، منها 71% بنجمة واحدة. الصفحة غير مُطالَب بها: لا توجد للشركة خطة مدفوعة ولا ترسل دعوات لكتابة المراجعات، ولم ترد على أي من المراجعات السلبية البالغ عددها 464. المراجعات من عملاء في دول كثيرة."
         ]
       },
       {
         "heading": "التقييم وكيف تتوزع النجوم",
         "paragraphs": [
-          "قرأنا الصفحة العامة لـ Starlink Development في 20 نوفمبر 2026. وتصف Trustpilot هذا التقييم بأنه “Bad” (سيئ)."
+          "قرأنا صفحة Starlink Development العامة في 23 نوفمبر 2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -312401,56 +314180,93 @@ export const reviewsData: unknown[] = [
               "1.6 من 5"
             ],
             [
-              "المراجعات",
-              "871"
+              "عدد المراجعات",
+              "879"
             ],
             [
               "5 نجوم",
-              "17%"
+              "148 (17%)"
             ],
             [
               "4 نجوم",
-              "2%"
+              "19 (2%)"
             ],
             [
               "3 نجوم",
-              "3%"
+              "24 (3%)"
             ],
             [
               "نجمتان",
-              "7%"
+              "61 (7%)"
             ],
             [
               "نجمة واحدة",
-              "71%"
+              "627 (71%)"
+            ],
+            [
+              "حالة الصفحة",
+              "غير مُطالَب بها، بلا خطة مدفوعة"
+            ],
+            [
+              "مصدر المراجعات",
+              "عفوية، بلا دعوات للعملاء"
+            ],
+            [
+              "الردود على المراجعات السلبية",
+              "0% (لا ردّ على أي من 464)"
             ]
           ],
-          "caption": "قراءة للصفحة العامة. لم تطالب الشركة بإدارة هذه الصفحة."
+          "caption": "Trustpilot، صفحة starlink.com، قُرئت في 23 نوفمبر 2026."
         }
       },
       {
-        "heading": "كيف تقرأ تقييم Trustpilot",
+        "heading": "لماذا تأتي الصفحة غير المُطالَب بها منخفضة",
         "paragraphs": [
-          "لم تطالب الشركة بهذه الصفحة (unclaimed)، أي أنها لم تتولَّ إدارتها على المنصة. وتشير Trustpilot أيضًا إلى أن الشركة ليس لها سجل في طلب المراجعات من عملائها، فقد لا تكون المراجعات ممثِّلة. فالتقييم يعكس من اختاروا أن يتركوا مراجعة."
+          "الصفحة غير مُطالَب بها، فلا تملك الشركة خطة مدفوعة على Trustpilot ولا تدعو عملاءها إلى كتابة مراجعة بعد الشراء. أما العلامات التي تدعو عملاءها فتجمع عادةً مراجعات قصيرة بخمس نجوم من مشترين راضين. هنا لا شيء يرشّح التدفق: من يصل إلى الصفحة غالبًا شخص واجه مشكلة، والمراجعات عفوية.",
+          "لذلك يُقرأ الرقم 1.6 على أنه صورة للعملاء الذين بحثوا عن مكان للشكوى، لا كمتوسط لكل عملاء Starlink. ومع ذلك فهو مهم: الشركة لا ترد على Trustpilot، ولم يحصل أي من المراجعات السلبية الـ464 على ردّ، فالمنصة ليست قناة دعم بالنسبة لها."
+        ]
+      },
+      {
+        "heading": "ما تقوله مراجعات النجمة الواحدة",
+        "paragraphs": [
+          "قرأنا بأنفسنا أحدث 40 مراجعة بنجمة واحدة، نُشرت بين 23 أكتوبر و23 نوفمبر 2026، من 16 دولة (21 منها من الولايات المتحدة). هذه قراءتنا الخاصة لهذه العيّنة. قد تتناول المراجعة الواحدة أكثر من موضوع، والنسب تقريبية:"
+        ],
+        "bullets": [
+          "الدعم: روبوت أو دردشة آلية فقط، دون إمكانية الوصول إلى شخص (نحو الثلث).",
+          "انقطاع الاتصال وسرعة أقل من المتوقع (نحو الثلث).",
+          "رفع الاشتراك الشهري بعد التعاقد، وأحيانًا أكثر من مرة في السنة (نحو الربع).",
+          "رسوم على خدمة لم تعد مستخدمة، وصعوبة في الاسترداد أو الإلغاء (نحو الربع).",
+          "فني تركيب من شركة شريكة لم يحضر أو تأخر (نحو الربع).",
+          "تأخر وصول المعدات أو عدم وصولها (نحو الخُمس)."
+        ]
+      },
+      {
+        "heading": "ما تقوله مراجعات الخمس نجوم",
+        "paragraphs": [
+          "قرأنا أيضًا أحدث 40 مراجعة بخمس نجوم، من 10 ديسمبر 2025 إلى 17 نوفمبر 2026، من 15 دولة (منها ألمانيا والمملكة المتحدة والولايات المتحدة). الطريقة نفسها والتحفظ نفسه:"
+        ],
+        "bullets": [
+          "السرعة والاتصال المستقر (نحو النصف).",
+          "تركيب سهل «جاهز للاستخدام» (نحو الثلث).",
+          "السكن في مكان بلا خيار إنترنت جيد آخر (نحو الربع).",
+          "الاستخدام في السفر مع Mini وخطة Roam (عدة مراجعات).",
+          "دعم حلّ المشكلة، مثل استبدال الهوائي (قليل)."
+        ],
+        "postParagraphs": [
+          "في هذه العيّنة يدور المديح حول الإشارة، وتدور الشكاوى حول الدعم والسعر والفوترة. قلّة من مراجعات النجمة الواحدة تقول إن الإشارة سيئة طوال الوقت. الملخص الآلي الذي تقدمه Trustpilot لنحو 355 مراجعة حديثة يسير في الاتجاه نفسه (أغلب المراجعين محبطون، ودعم يتعذر الوصول إليه، ورسوم شهرية أعلى وتكاليف إضافية)، ونذكره دعمًا ثانويًا فقط."
         ]
       },
       {
         "heading": "أي صفحة هي Starlink الحقيقية؟",
         "paragraphs": [
-          "ابحث عن “Starlink Development” مع ظهور starlink.com موقعًا إلكترونيًا لها. بعض الصفحات المشابهة في الاسم تشير إلى نطاقات أخرى."
-        ]
-      },
-      {
-        "heading": "ما أكثر ما يشتكي منه الناس",
-        "paragraphs": [
-          "يبرز الملخص الآلي في Trustpilot، المبني على 355 مراجعة حديثة، صعوبة الوصول إلى الدعم وزيادات الفواتير الشهرية والرسوم الإضافية. وتتباين الآراء في السرعة، ويمتدح بعض المراجعين الاتصال."
+          "ابحث عن «Starlink Development» وموقعه starlink.com. بعض الصفحات المشابهة في الاسم تشير إلى نطاقات أخرى. تجمع هذه الصفحة عملاء من عشرات الدول، فقد تصف مراجعةٌ خطةً أو ضريبةً أو قاعدة توصيل لا تنطبق في بلدك."
         ]
       },
       {
         "heading": "ماذا يعني هذا إن اشتركت",
         "paragraphs": [
-          "قارن فاتورتك كل شهر بالسعر الظاهر في طلبك. احفظ لقطة شاشة للعرض يوم الطلب، وراجع في طلبك شروط السعر الترويجي.",
-          "قواعد الجهاز المستأجر والإعادة موجودة في [دليل العقد والإلغاء والاسترداد](/ar/reviews/starlink-cancel-ar)."
+          "قبل أن تدفع، تحقق على starlink.com من الخطة والمعدات (إيجار أو شراء) والضرائب والعقد لعنوانك أنت: فهي تختلف باختلاف الدولة وحتى العنوان. احفظ لقطة شاشة للعرض يوم الطلب وقارن بها كل فاتورة.",
+          "قواعد المعدات المؤجَّرة والإرجاع في [دليل العقد والإلغاء والاسترداد](/ar/reviews/starlink-cancel-ar)."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
@@ -312461,16 +314277,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "قبل أن تشترك",
-        "paragraphs": [
-          "قبل الاشتراك، تحقق من الموقع والشروط. وطريقة التعرف على الموقع الرسمي والصفحات المشابهة موجودة في [هل Starlink موثوقة؟](/ar/reviews/starlink-trust-ar).",
-          "وإن قررت الاشتراك، ففي صفحة [إحالة Starlink](/ar/coupons/starlink) الرابط وقواعد البرنامج."
-        ]
-      },
-      {
         "heading": "كيف ترفع مشكلة",
         "paragraphs": [
-          "افتح تذكرة دعم في موقع Starlink أو في التطبيق واحتفظ برقم الحالة. وإذا لم تطابق الفاتورة طلبك فأرسل السعر الذي ظهر في العرض مع الفاتورة. وإذا لم تتعرف على رسم ما، فتواصل أيضًا مع جهة إصدار بطاقتك أو مع مصرفك."
+          "افتح طلب دعم على موقع Starlink أو في التطبيق واحتفظ برقم الحالة. إذا لم تطابق الفاتورة طلبك فأرسل السعر الذي ظهر في العرض مع الفاتورة. وإن لم تتعرف على رسم ما فتواصل أيضًا مع جهة إصدار البطاقة أو البنك. الشركة لا ترد على Trustpilot، فلا تعوّل على كتابة مراجعة للحصول على ردّ."
         ],
         "links": [
           {
@@ -312480,19 +314289,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "قبل أن تشترك",
+        "paragraphs": [
+          "قبل أن تشترك، تحقق من الموقع والشروط. طريقة التعرف على الموقع الرسمي والصفحات التي تستخدم الاسم في [هل Starlink موثوقة؟](/ar/reviews/starlink-trust-ar).",
+          "صفحة [إحالة Starlink](/ar/coupons/starlink) فيها الرابط وقواعد البرنامج. الإحالة ليست قسيمة: تصل المكافأة رصيدًا في الفاتورة بعد شهرين من الاشتراك، ولا تستحقها خطط الأولوية والمؤسسات والتجارية."
+        ],
+        "emphasis": "بحسب أرقام الجدول، لمن لا يملك خيار إنترنت جيدًا آخر في عنوانه، يبدو الاشتراك معقولًا بعد التحقق على starlink.com من الخطة والمعدات والضرائب والعقد لذلك العنوان، لأن الرقم 1.6 يعكس شكاوى الدعم والفوترة والسعر أكثر مما يعكس جودة الإشارة."
+      },
+      {
         "heading": "الأسئلة الشائعة",
         "bullets": [
-          "ما تقييم Starlink على Trustpilot؟ لصفحة starlink.com تقييم TrustScore بقيمة 1.6 من 871 مراجعة، و71% منها بنجمة واحدة.",
-          "أي صفحة لـ Starlink أراجع؟ ابحث عن الصفحة التي نطاقها starlink.com. فغيرها يستخدم الاسم بنطاقات مختلفة.",
-          "ما أكثر ما يشتكي منه الناس؟ دعم يصعب الوصول إليه وفواتير شهرية ترتفع وتكاليف إضافية، بحسب ملخص Trustpilot للمراجعات الحديثة.",
-          "كيف أرفع مشكلة إلى Starlink؟ افتح تذكرة في الموقع أو التطبيق واحتفظ برقم الحالة. وإذا استمرت المشكلة، فتواصل مع جهة إصدار بطاقتك أو مصرفك بشأن أي رسم لا تتعرف عليه."
+          "هل لدى Starlink رمز خصم؟ لا. ليس لدى Starlink قسيمة: عبر رابط إحالة Cecília يحصل المشترك بعد شهرين من الاشتراك على مكافأة رصيدًا في الفاتورة، ويحصل من أحال على المبلغ نفسه. يعتمد المبلغ على البلد، وهو مثلًا US$ 100 في الولايات المتحدة.",
+          "ما تقييم Starlink على Trustpilot؟ تحمل صفحة starlink.com تقييم TrustScore بقيمة 1.6 من 879 مراجعة، منها 71% بنجمة واحدة.",
+          "لماذا التقييم منخفض إلى هذا الحد؟ الصفحة غير مُطالَب بها، بلا خطة مدفوعة ولا دعوات لكتابة المراجعات ولا ردود من الشركة، فتجمع في الغالب من واجهوا مشكلة. وفي قراءتنا لأحدث 40 مراجعة بنجمة واحدة تصدّرت الشكاوى الدعم وانقطاع الاتصال وزيادات الأسعار والفوترة.",
+          "أي صفحة Starlink أتحقق منها؟ ابحث عن الصفحة التي نطاقها starlink.com. غيرها يستخدم الاسم بنطاقات مختلفة.",
+          "كيف أرفع مشكلة إلى Starlink؟ افتح طلبًا على الموقع أو في التطبيق واحتفظ برقم الحالة. الشركة لا ترد على مراجعات Trustpilot فلا تعوّل على ذلك. وإن بدا لك رسم غير صحيح فتواصل مع جهة إصدار البطاقة أو البنك."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "بيانات من صفحات Trustpilot العامة. نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة إذا اشتركت عبر رابطنا واستوفيت الشروط.",
+    "editorialNote": "بيانات من صفحة Trustpilot العامة ومن قراءتنا الخاصة للمراجعات الحديثة. نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة إذا اشتركت عبر رابطنا واستوفيت الشروط.",
     "relatedArticles": [
       {
         "slug": "starlink-trust-ar"
@@ -312503,7 +314321,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-worth-it-ar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "ليس لديك خيار إنترنت جيد في عنوانك وتحققت هناك من الخطة والمعدات والعقد قبل الدفع.",
+        "تستطيع التعايش مع دعم يجري في الغالب عبر التطبيق والدردشة الآلية."
+      ],
+      "skipIf": [
+        "تتوقع أن يرد عليك شخص بسرعة حين تسوء فاتورة أو عملية توصيل.",
+        "تريد أن يحسم TrustScore وحده القرار: فهو آتٍ من صفحة غير مُطالَب بها ولا يقول الكثير عن جودة الإشارة."
+      ]
+    },
+    "cta": {
+      "text": "أدخل عنوانك في موقع Starlink وتحقق من الخطة والمعدات والاشتراك الشهري قبل الدفع.",
+      "label": "اطّلع على الخطط في عنوانك",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1254,
@@ -312522,11 +314356,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "الموقع الرسمي لـ Starlink وقائمة تجار التجزئة المعتمدين يوضحان لك ممن تشتري. اعرف ما تتحقق منه، وأي صفحات مشابهة يجب تجاهلها، قبل أن تدفع.",
-    "metaDescription": "اعرف كيف تتعرف على موقع Starlink الرسمي وتكتشف الصفحات المشابهة على Trustpilot وتراجع قائمة تجار التجزئة المعتمدين.",
+    "description": "الموقع الرسمي لـ Starlink وقائمة تجار التجزئة المعتمدين يوضحان لك ممن تشتري. تعرّف على ما تتحقق منه قبل الدفع وعلى الصفحات المشابهة التي يجب تجاهلها.",
+    "metaDescription": "كيف تتعرف على الموقع الرسمي لـ Starlink، وتميّز الصفحات المشابهة على Trustpilot، وتستخدم قائمة تجار التجزئة المعتمدين.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -312538,14 +314372,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "Starlink هي خدمة الإنترنت عبر الأقمار الصناعية من SpaceX، وموقعها الرسمي هو starlink.com. وإذا اشتريت الجهاز من مكان آخر، فراجع قائمة تجار التجزئة المعتمدين لدى Starlink وتحقق من هوية البائع وراء الإعلان قبل أن تدفع. كما تنشر Starlink في مركز المساعدة تنبيهًا بشأن التصيّد الاحتيالي."
+          "Starlink هي خدمة الإنترنت عبر الأقمار الصناعية من SpaceX، وموقعها الرسمي هو starlink.com. على Trustpilot، الصفحة التي ترتبط بـ starlink.com اسمها «Starlink Development». إذا اشتريت الطقم من مكان آخر، فراجع قائمة تجار التجزئة المعتمدين لدى Starlink وتأكد من هوية بائع الإعلان قبل الدفع."
         ]
       },
       {
         "heading": "من هي Starlink وأين تبيع",
         "paragraphs": [
-          "تبيع Starlink عبر موقعها الرسمي. وصفحات الطلب التي قرأناها لهذه السلسلة موجودة على starlink.com، حيث تظهر الباقة والجهاز والإجمالي المستحق قبل الدفع.",
-          "يوضح تحليلنا [متى تستحق Starlink الاشتراك](/ar/reviews/starlink-worth-it-ar) كيف تقارن السعر والتركيب والبدائل في عنوانك."
+          "تبيع Starlink عبر موقعها الرسمي. تعرض صفحة الطلب على starlink.com، قبل الدفع، الباقة والطقم والضرائب ومدة العقد لعنوانك.",
+          "يوضح تحليلنا [هل تستحق Starlink الشراء](/ar/reviews/starlink-worth-it-ar) كيف تقارن السعر والتركيب والبدائل في عنوانك."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
@@ -312558,21 +314392,27 @@ export const reviewsData: unknown[] = [
       {
         "heading": "كيف تتعرف على الموقع الرسمي",
         "paragraphs": [
-          "اكتب starlink.com في متصفحك. وقبل أن تدخل أي بيانات أو تدفع، تأكد أنك ما زلت على starlink.com.",
-          "وإذا طلب منك أحد الدفع عبر رسالة أو خارج صفحة الطلب، فتحقق من الأمر مع دعم Starlink قبل أن تتابع."
+          "اكتب starlink.com في المتصفح. قبل إدخال أي بيانات أو الدفع، تأكد أنك ما زلت داخل starlink.com.",
+          "تحقق في الطلب، لعنوانك أنت، من الباقة والطقم (إيجار أو شراء) والضرائب ومدة العقد. وإذا طلب منك أحد الدفع برسالة أو خارج صفحة الطلب، فتأكد من دعم Starlink قبل المتابعة."
+        ]
+      },
+      {
+        "heading": "رسائل تستخدم اسم Starlink",
+        "paragraphs": [
+          "في مركز مساعدة Starlink تنبيه بشأن التصيّد الاحتيالي. إذا وصلك إعلان أو رسالة باسم Starlink، فتأكد على starlink.com قبل الدفع أو إعطاء أي بيانات. وإذا قادك إلى عنوان آخر، فلا تُدخل شيئًا وافتح الموقع من جديد بكتابة العنوان بنفسك."
         ]
       },
       {
         "heading": "صفحات مشابهة تحمل اسم Starlink",
         "paragraphs": [
-          "على Trustpilot، تسمى صفحة starlink.com باسم “Starlink Development”. وهناك صفحات أخرى تستخدم الاسم نفسه بنطاقات مختلفة، مثل ukstarlink.com وstarlink.om. وهي ليست starlink.com. فاحكم على الشركة من الصفحة التي تشير إلى starlink.com."
+          "على Trustpilot، صفحة starlink.com اسمها «Starlink Development». وتوجد صفحات أخرى تستخدم الاسم نفسه بنطاقات مختلفة، مثل ukstarlink.com وstarlink.om، وهي ليست starlink.com. احكم على الشركة من الصفحة التي ترتبط بـ starlink.com."
         ]
       },
       {
         "heading": "تجار التجزئة والأسواق الإلكترونية",
         "paragraphs": [
-          "تحتفظ Starlink بقائمة بتجار التجزئة المعتمدين. وحتى في سوق إلكتروني معروف، تحقق من هوية بائع الإعلان.",
-          "تنطبق [إحالة Starlink](/ar/coupons/starlink) على الطلبات المؤهلة المقدمة عبر الرابط مباشرة على starlink.com. ولا يمكن إضافتها إلى جهاز اشتُري من تاجر تجزئة."
+          "تحتفظ Starlink بقائمة بتجار التجزئة المعتمدين. وحتى على سوق إلكتروني معروف، تحقق من هوية بائع الإعلان.",
+          "تنطبق [إحالة Starlink](/ar/coupons/starlink) على الطلبات المؤهلة التي تتم عبر الرابط مباشرة على starlink.com. ولا يمكن إضافتها إلى طقم اشتُري من تاجر تجزئة."
         ],
         "links": [
           {
@@ -312584,29 +314424,37 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ماذا تُظهر مراجعات العملاء",
         "paragraphs": [
-          "على Trustpilot، لصفحة starlink.com تقييم TrustScore بقيمة 1.6 من 871 مراجعة، ولم تطالب الشركة بإدارة هذه الصفحة. ويشير المراجعون كثيرًا إلى دعم يصعب الوصول إليه.",
-          "في [قراءتنا الكاملة لصفحة Trustpilot](/ar/reviews/starlink-trustpilot-ar) الأرقام وأكثر ما يشتكي منه الناس."
+          "على Trustpilot، تحمل صفحة starlink.com درجة TrustScore قدرها 1.6 من 5 من 879 مراجعة: 71% منها بنجمة واحدة و17% بخمس نجوم. الصفحة غير مُطالَب بها، أي أن Starlink لا تديرها، ونسبة ردودها على المراجعات 0%.",
+          "قرأنا أحدث 40 مراجعة بنجمة واحدة وأحدث 40 مراجعة بخمس نجوم. أكثر الشكاوى في مراجعات النجمة الواحدة هي دعم لا يتجاوز روبوتًا أو دردشة (نحو واحدة من كل 3)، وانقطاعات وسرعة منخفضة (نحو واحدة من كل 3)، ورسوم شهرية ارتفعت بعد الاشتراك (نحو واحدة من كل 4)، وفوترة وإلغاء صعب (نحو واحدة من كل 4)، وفنيو تركيب من شركات شريكة يتأخرون أو لا يحضرون (نحو واحدة من كل 4)، وطقم متأخر أو لم يصل (نحو واحدة من كل 5). أما مراجعات الخمس نجوم فتمدح السرعة والاستقرار (نحو النصف) وسهولة التركيب (نحو واحدة من كل 3) وغياب خيار إنترنت جيد آخر (نحو واحدة من كل 4). الأعداد من حسابنا وتقريبية.",
+          "اقرأ الدرجة بحذر: الصفحة غير المُطالَب بها لا ترسل دعوات للتقييم بعد الشراء، ومن يفتحها غالبًا يريد الشكوى. المديح يخص الإشارة، والشكاوى تخص الدعم والسعر والفوترة، وقليل من مراجعات النجمة الواحدة تقول إن الإشارة سيئة طوال الوقت. والملخص الآلي من Trustpilot، المبني على 355 مراجعة حديثة، يشير في الاتجاه نفسه. الأرقام في [قراءتنا الكاملة لصفحة Trustpilot](/ar/reviews/starlink-trustpilot-ar)."
         ]
       },
       {
         "heading": "ما الذي تحتفظ به بعد الشراء",
+        "paragraphs": [
+          "بعد إتمام الطلب، يحسم سجل ما اشتركت فيه معظم الخلافات."
+        ],
         "bullets": [
-          "احتفظ برقم الطلب والسعر الظاهر عند الدفع ورسالة التأكيد الإلكترونية. وإذا لم يتطابق شيء فتواصل مع الدعم عبر الموقع أو التطبيق."
-        ]
+          "احتفظ برقم الطلب والسعر الذي ظهر عند الدفع ورسالة التأكيد. وإذا لم يتطابق شيء، فتواصل مع الدعم عبر الموقع أو التطبيق."
+        ],
+        "emphasis": "بحسب ما يعرضه الموقع الرسمي وقائمة التجار، فإن الخيار الآمن لمن يوشك على شراء الطقم هو الطلب من starlink.com أو من تاجر في القائمة والاحتفاظ برقم الطلب وسعر الدفع ورسالة التأكيد، لأن أيًّا من الطريقتين لا يطلب الدفع خارج الطلب.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "الأسئلة الشائعة",
         "bullets": [
-          "هل Starlink موثوقة؟ Starlink هي خدمة الإنترنت عبر الأقمار الصناعية من SpaceX. تأكد أنك على starlink.com، واستخدم قائمة تجار التجزئة المعتمدين إن اشتريت من مكان آخر.",
+          "هل لدى Starlink كوبون خصم؟ لا، ليس لدى Starlink كوبون. عند الاشتراك عبر رابط الإحالة الخاص بـ Cecília يحصل المشترك بعد شهرين من الاشتراك على رصيد في الفاتورة، ويحصل من أحال على المبلغ نفسه. المبلغ يختلف حسب البلد، مثلًا US$ 100 في الولايات المتحدة.",
+          "هل Starlink موثوقة؟ Starlink هي خدمة الإنترنت عبر الأقمار الصناعية من SpaceX. تأكد أنك على starlink.com، واستخدم قائمة تجار التجزئة المعتمدين إذا اشتريت من مكان آخر.",
           "ما الموقع الرسمي لـ Starlink؟ الموقع الرسمي هو starlink.com.",
-          "كيف أتأكد أن البائع معتمد؟ راجع قائمة تجار التجزئة المعتمدين لدى Starlink وتحقق من هوية بائع الإعلان قبل أن تدفع."
+          "كيف أتأكد أن البائع معتمد؟ راجع قائمة تجار Starlink وتحقق من هوية بائع الإعلان قبل الدفع.",
+          "هل أشتري من الموقع الرسمي أم من تاجر تجزئة؟ على starlink.com يعرض الطلب قبل الدفع الباقة والطقم والضرائب والعقد لعنوانك، ولا تعمل الإحالة إلا هناك. وتاجر القائمة الرسمية بائع شرعي، لكن الإحالة لا تنطبق."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "مبني على الموقع الرسمي ومركز المساعدة وصفحات Trustpilot العامة. نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة إذا اشتركت عبر رابطنا واستوفيت الشروط.",
+    "editorialNote": "أُعدّ المقال بالاعتماد على الموقع الرسمي ومركز المساعدة وصفحة Trustpilot العامة. نشارك في برنامج الإحالة من Starlink، وقد نحصل على مكافأة إذا اشتركت عبر رابطنا والتزمت بالشروط.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-ar"
@@ -312617,7 +314465,23 @@ export const reviewsData: unknown[] = [
       {
         "slug": "starlink-worth-it-ar"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "أنت على وشك شراء الطقم من starlink.com وتريد التحقق من الباقة والطقم والضرائب ومدة العقد لعنوانك قبل الدفع.",
+        "وجدت الطقم لدى تاجر تجزئة وتريد معرفة هل البائع في قائمة Starlink."
+      ],
+      "skipIf": [
+        "إعلان أو رسالة تطلب الدفع خارج الطلب: لا تدفع وتأكد أولًا من دعم Starlink.",
+        "العنوان في المتصفح ليس starlink.com: لا تُدخل أي بيانات."
+      ]
+    },
+    "cta": {
+      "text": "أدخل عنوانك في موقع Starlink وتحقق من الباقة والطقم والرسوم الشهرية قبل الدفع.",
+      "label": "عرض الباقات لعنوانك",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
   },
   {
     "id": 1255,
@@ -312640,7 +314504,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "هل تستحق Starlink الاشتراك؟ أسعار الباقات بحسب العنوان والجهاز المستأجر ولمن تناسب ومتى تتفوق الألياف أو الشبكة الخلوية.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
@@ -312683,6 +314547,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "تضمنت باقة Residential بسرعة 100 ميغابت جهاز Starlink V5 مع Router Mini. وجاءت Max مع جهاز Standard المستأجر وتركيب احترافي بـ 0$. أما في باقة 100 ميغابت فكان التركيب الاحترافي اختياريًا بـ 99$. وتتغير الأسعار بحسب العنوان الذي تدخله، فأجرِ هذه الحسابات في صفحة طلبك.",
           "احسب التكلفة قبل المكافأة. ففي لقطة شاشة نيفادا عبر رابطنا، عرض الطلب إحالة بقيمة 100$ تخضع للأهلية. اطّلع على [صفحة إحالة Starlink](/ar/coupons/starlink)."
+        ],
+        "links": [
+          {
+            "label": "شاهد الباقات في عنوانك",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -312708,7 +314579,9 @@ export const reviewsData: unknown[] = [
         "heading": "متى تقارن بالألياف أو الشبكة الخلوية",
         "paragraphs": [
           "إذا كانت الألياف أو الكابل المستقر يصلك أصلًا، فقارن التركيب والفواتير الشهرية وأي رسم للمعدات في كل عرض. وبالنسبة لباقة منزلية عبر الشبكة الخلوية، أضف سعر الجهاز الذي ستحتاجه وتأكد أن حصة البيانات تكفي أسرتك."
-        ]
+        ],
+        "emphasis": "إذا لم تتوفر في عنوانك ألياف مستقرة ولا شبكة خلوية مقبولة، فمكان Starlink في المقارنة؛ أما مع ألياف مستقرة فلا يستحق التحويل إلا إذا جاء مجموع الجهاز والفواتير الشهرية للمدة التي تنوي البقاء فيها أقل من تكلفة اتصالك الحالي.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "السرعة والألعاب",
@@ -312736,14 +314609,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "تجربتنا حتى الآن",
-        "paragraphs": [
-          "لقد اشتركنا في Starlink، لكن ليست لدينا تجربة استخدام بعد. وسنضيف السرعة والتركيب والجودة اليومية في تحديث لهذا المقال عندما تتوفر."
-        ]
-      },
-      {
         "heading": "الأسئلة الشائعة",
         "bullets": [
+          "هل لدى Starlink كوبون خصم؟ لا. ليس لدى Starlink كوبون: عبر رابط الإحالة الخاص بنا، يحصل المشترك على مكافأة بعد شهرين من الاشتراك، ويعتمد المبلغ على البلد (مثلًا 100 دولار أمريكي في الولايات المتحدة)، وتُصرف افتراضيًا رصيدًا على الفاتورة، ويحصل المحيل على المبلغ نفسه.",
           "هل تستحق Starlink الاشتراك في المدينة؟ مع ألياف مستقرة في عنوانك، قارن التركيب والفواتير الشهرية وأي رسم للمعدات قبل أن تنتقل.",
           "هل Starlink أفضل من الألياف؟ إذا لم تتوفر ألياف جيدة في موقعك، فمن المفيد معرفة سعر Starlink والتحقق من وجود سماء مفتوحة لتركيب الطبق. وإذا توفر الخياران، فقارن الاستقرار والتكلفة في عنوانك.",
           "هل Starlink جيدة للألعاب؟ اختبر زمن الاستجابة والانقطاعات في عنوانك. فالنطاق النموذجي الذي تنشره Starlink مرجع عام.",
@@ -312771,7 +314639,7 @@ export const reviewsData: unknown[] = [
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "الأسعار قرأناها في صفحة الطلب الرسمية دون إتمام عملية شراء. نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة إذا اشتركت عبر رابطنا واستوفيت الشروط.",
+    "editorialNote": "الأسعار قرأناها في صفحة الطلب الرسمية دون إتمام عملية شراء. لم نستخدم الخدمة بعد. نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة إذا اشتركت عبر رابطنا واستوفيت الشروط.",
     "relatedArticles": [
       {
         "slug": "starlink-cancel-ar"

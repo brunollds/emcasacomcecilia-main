@@ -19,7 +19,7 @@
   "metaDescription": "確認 Starlink 訂購頁的綁約、設備歸還及退款條件，並查看如何取消訂閱。",
   "publishedAt": "2026年11月20日",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -55,7 +55,8 @@
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
-      ]
+      ],
+      "emphasis": "依訂購頁的條款，取消服務並在期限內把設備完好歸還，才能申請設備與首月費用的退款，所以寄送憑證就是起決定作用的證明。"
     },
     {
       "heading": "如何取消",
@@ -90,6 +91,7 @@
     {
       "heading": "常見問題",
       "bullets": [
+        "Starlink 有優惠碼嗎？沒有。Starlink 沒有優惠券：透過 Cecília 的推薦連結訂購的人，服務滿兩個月後會以帳單抵扣的方式獲得獎勵，推薦人獲得同樣金額。金額依國家而異，例如在美國是 100 美元。",
         "Starlink 有合約嗎？依地區不同。請在你地址的訂購頁，看設備一欄是租賃、購買，還是標示無合約。",
         "Starlink 隨時可以取消嗎？可以在帳戶中提出取消。如果你的訂單有合約，提前退出前請先看適用的條件。",
         "取消後要歸還硬體嗎？訂購頁寫明租賃的地區，取消時須歸還。設備是購買的地區則依訂單條款。",
@@ -112,5 +114,21 @@
     {
       "slug": "starlink-trustpilot-zh-hant"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "取消時，你能在30天內把設備完好歸還。",
+      "付款前，你會讀自己訂單摘要裡的條款。"
+    ],
+    "skipIf": [
+      "你無法在期限內把設備完好寄回。",
+      "訂單摘要裡有你不接受的合約期限或解約費用。"
+    ]
+  },
+  "cta": {
+    "text": "訂購頁會在 starlink.com 開啟。付款前，先查看合約、費用與設備歸還條件。",
+    "label": "查看我的地址的條款",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

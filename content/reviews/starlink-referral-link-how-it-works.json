@@ -19,7 +19,7 @@
   "metaDescription": "See how to open the Starlink referral link, find the reward on your order and collect it after you meet the program's conditions.",
   "publishedAt": "November 20, 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -62,7 +62,9 @@
         "On the order we saw in Nevada with our link, Starlink showed $100 for the person who signs up. The person who refers also gets the same amount, in cash or as service credit.",
         "The subscription has to stay active and paid up for two full monthly cycles. The help center says issuance can start from 60 days after activation, depending on the country, the account and the identity check.",
         "The default is credit on your invoice. If your account offers cash, open Referrals on the website in a browser and choose the reward method there."
-      ]
+      ],
+      "emphasis": "The reward is released only after two full monthly cycles of an active, paid subscription, as credit on the bill by default, and the person who signs up and the person who referred get the same amount; the amount for your country shows on the order.",
+      "emphasisAfterParagraph": 3
     },
     {
       "heading": "Who can use it",
@@ -94,6 +96,7 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "Does Starlink have a discount coupon? No. Starlink has no coupon: through Cecília's referral link, the person who subscribes gets US$ 100 in the US (£ 40 in the UK) after two months of subscription, as credit on the bill, and the person who referred gets the same amount.",
         "How does the Starlink referral work? Place the order on starlink.com through the link. Check that the referral shows as applied, activate the kit and keep the service active and paid for two full monthly cycles.",
         "How much is the Starlink referral worth? On the Nevada order with our link, $100 showed up for the person who signs up. Check the amount on your own order.",
         "When does the Starlink referral reward arrive? The help center says issuance can start from 60 days after activation, if the referral meets the program conditions.",
@@ -123,5 +126,15 @@
     }
   ],
   "pros": [],
-  "cons": []
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "you plan to subscribe to Starlink anyway and want the referral on the original order.",
+      "you are a new customer and can keep the service active and paid for two full monthly cycles until the reward is released."
+    ],
+    "skipIf": [
+      "you are or were a Starlink customer, because the reward is only for first-time subscribers.",
+      "you would buy from a retailer or marketplace, because the referral only counts on orders placed on starlink.com through the link."
+    ]
+  }
 }

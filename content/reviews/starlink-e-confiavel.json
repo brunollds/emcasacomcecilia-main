@@ -19,7 +19,7 @@
   "metaDescription": "Veja como reconhecer o site oficial da Starlink, identificar o perfil verificado no Reclame Aqui e consultar a lista de revendedores autorizados.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/starlink/starlink-e-confiavel-capa.webp",
@@ -30,7 +30,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Starlink é o serviço de internet via satélite da SpaceX. O site oficial é starlink.com. No Reclame Aqui, procure o perfil verificado “Starlink Brazil”. Se comprar o kit fora do site, confira a lista de revendedores autorizados da Starlink e confirme quem vende o anúncio antes de pagar."
+        "A Starlink é o serviço de internet via satélite da SpaceX, e o site oficial é starlink.com. No Reclame Aqui, o perfil verificado é o “Starlink Brazil”. Se for comprar o kit fora do site, confira a lista de revendedores autorizados da Starlink e veja quem vende o anúncio antes de pagar."
       ]
     },
     {
@@ -82,7 +82,7 @@
     {
       "heading": "O que o Reclame Aqui mostra",
       "paragraphs": [
-        "No semestre de maio a outubro de 2026, o perfil verificado registrou reputação Boa e nota 7,8. Em setembro, a reputação mensal passou de Ótima para Boa.",
+        "No semestre de maio a outubro de 2026, o perfil verificado “Starlink Brazil” recebeu 2.017 reclamações e respondeu a todas. A reputação ficou Boa, com nota 7,8, 77,1% de reclamações resolvidas e 75% dos consumidores dizendo que voltariam a fazer negócio. Em setembro, a reputação mensal passou de Ótima para Boa.",
         "A [análise completa da reputação](/reviews/starlink-reclame-aqui-nota-reputacao) traz os números, o que mais gera reclamação e como a empresa responde."
       ]
     },
@@ -90,14 +90,21 @@
       "heading": "O que guardar depois de comprar",
       "bullets": [
         "Guarde o número do pedido, o preço que apareceu no checkout e o e-mail de confirmação. Se houver divergência, fale com o suporte pelo site ou pelo aplicativo."
-      ]
+      ],
+      "paragraphs": [
+        "Depois do pedido, o registro do que você contratou resolve a maior parte das divergências."
+      ],
+      "emphasis": "Pelo que o site oficial e a lista de varejistas autorizados mostram, para quem vai comprar o kit, a escolha segura é pedir em starlink.com ou num varejista da lista e guardar pedido, preço do checkout e e-mail de confirmação, porque nenhum dos dois caminhos pede pagamento fora do pedido.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
         "A Starlink é confiável? A Starlink é o serviço de internet via satélite da SpaceX. No Brasil, confira o site starlink.com e o perfil verificado “Starlink Brazil” no Reclame Aqui.",
         "Qual é o site oficial da Starlink? A versão brasileira fica em starlink.com/br.",
-        "Como confirmar se um vendedor é autorizado? Veja a lista de varejistas da Starlink e confira o vendedor do anúncio antes de pagar."
+        "Como confirmar se um vendedor é autorizado? Veja a lista de varejistas da Starlink e confira o vendedor do anúncio antes de pagar.",
+        "Devo comprar pelo site oficial ou por um revendedor? No site oficial, o pedido mostra plano, kit e total antes do pagamento, e a indicação só vale ali. Um varejista da lista oficial é um vendedor legítimo, mas a indicação não se aplica."
       ]
     }
   ],
@@ -115,5 +122,21 @@
     {
       "slug": "starlink-vale-a-pena"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "você vai comprar o kit pelo site oficial e quer conferir plano, kit e total antes de pagar.",
+      "você encontrou o kit num revendedor e quer saber se o vendedor consta na lista da Starlink."
+    ],
+    "skipIf": [
+      "o anúncio ou a mensagem pede pagamento fora do pedido: não pague e confirme antes com o suporte da Starlink.",
+      "o endereço no navegador não é starlink.com: não informe nenhum dado."
+    ]
+  },
+  "cta": {
+    "text": "Informe seu endereço no site da Starlink e confira plano, kit e mensalidade antes de pagar.",
+    "label": "Ver planos no meu endereço",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

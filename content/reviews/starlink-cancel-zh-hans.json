@@ -19,7 +19,7 @@
   "metaDescription": "查看 Starlink 订单中的合约、设备归还和退款条件，以及怎样取消订阅。",
   "publishedAt": "2026年11月20日",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -54,7 +54,8 @@
         "caption": "退货时要寄回的套件：天线、路由器、底座和线缆。Starlink 官方照片。",
         "objectFit": "contain",
         "aspectRatio": 1.7778
-      }
+      },
+      "emphasis": "按订单页条款，取消服务并在期限内把套件完好退回，才能申请套件和首月费用的退款，所以寄送凭证就是起决定作用的证明。"
     },
     {
       "heading": "怎么取消",
@@ -89,6 +90,7 @@
     {
       "heading": "常见问题",
       "bullets": [
+        "Starlink 有优惠码吗？没有。Starlink 没有优惠券：通过 Cecília 的推荐链接订购的人，在服务满两个月后会以账单抵扣的形式获得奖励，推荐人获得同样的金额。金额因国家而异，例如在美国是 100 美元。",
         "Starlink 有合约吗？因国家而异。订单页会写明套件是租用还是购买，有的国家，比如意大利，写的是没有合约。",
         "取消 Starlink 有违约金吗？以你的订单页为准。中文版不写具体金额，请在确认取消之前核对适用条件。",
         "Starlink 可以随时取消吗？可以在账户里提交。如果订单里有合约条款，提前退出前请先核对。",
@@ -111,5 +113,21 @@
     {
       "slug": "starlink-trustpilot-zh-hans"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "取消时，你能在30天内把套件完好退回。",
+      "付款前，你会读自己订单摘要里的条款。"
+    ],
+    "skipIf": [
+      "你无法在期限内把套件完好寄回。",
+      "订单摘要里有你不接受的合约期限或解约费用。"
+    ]
+  },
+  "cta": {
+    "text": "链接会打开 Starlink 官网。付款前请确认合约、费用和套件退回条件。",
+    "label": "查看我所在地址的条款",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

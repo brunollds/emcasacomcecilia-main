@@ -19,7 +19,7 @@
   "metaDescription": "Starlink vale a pena? Conta de 12 meses com kit e contrato, preços por endereço, para quem faz sentido e quando a fibra ou o 4G saem melhor.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/starlink/starlink-vale-a-pena-hero-pt-v2.webp",
@@ -64,6 +64,13 @@
       "postParagraphs": [
         "O Residencial 100 Mbps apareceu com o Mini X a R$ 299 nos dois endereços. A mensalidade era de R$ 207,90 na Paulista e R$ 132,30 em Alto Paraíso. Como a tela de Alto Paraíso não dizia quanto duraria esse preço, compare a duração que aparecer no seu pedido.",
         "Quando for calcular o custo no seu endereço, faça a conta primeiro sem a recompensa. Na tela com a nossa indicação, a Starlink mostrou R$ 200 após cumprir as regras do programa. Veja a [indicação Starlink](/cupons/starlink)."
+      ],
+      "links": [
+        {
+          "label": "Ver planos no seu endereço",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -89,7 +96,9 @@
       "heading": "Quando comparar com fibra ou 4G",
       "paragraphs": [
         "Se já chega fibra estável, compare a soma de instalação, mensalidades e eventual fidelidade de cada proposta. Para 4G, inclua o preço do equipamento que você precisar e confira se o plano tem franquia suficiente para a casa."
-      ]
+      ],
+      "emphasis": "Sem fibra estável nem 4G decente no endereço, a Starlink entra na conta; com fibra estável, só compensa trocar se o total de 12 meses, kit e mensalidades somados, ficar abaixo do que a conexão atual custa.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Velocidade e jogos",
@@ -117,14 +126,9 @@
       ]
     },
     {
-      "heading": "Nossa experiência até aqui",
-      "paragraphs": [
-        "Já assinamos a Starlink, mas ainda não há experiência de uso. Velocidade, instalação e qualidade no dia a dia entram numa atualização deste artigo, quando existirem."
-      ]
-    },
-    {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
         "Starlink vale a pena na cidade? Com fibra estável no endereço, compare instalação, mensalidades e fidelidade antes de trocar.",
         "Starlink é melhor que fibra? Sem boa fibra no local, vale cotar a Starlink e verificar se há céu aberto para instalar. Se ambas estiverem disponíveis, compare estabilidade e custo no seu endereço.",
         "Starlink é boa para jogos? Teste a latência e as interrupções no seu endereço. A faixa típica que a Starlink publica é uma referência geral.",
@@ -135,12 +139,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Você não tem fibra boa no endereço e o 4G também é fraco.",
-      "Você aceita 12 meses de contrato e sabe que o preço muda pelo endereço no pedido."
+      "você não tem fibra boa no endereço e o 4G também é fraco.",
+      "você aceita 12 meses de contrato e sabe que o preço muda pelo endereço no pedido."
     ],
     "skipIf": [
-      "Você tem fibra estável no endereço, sem kit para comprar nem contrato de 12 meses.",
-      "Você precisa de jogo online com resposta rápida, e a empresa não publica latência na página que lemos."
+      "você tem fibra estável no endereço, sem kit para comprar nem contrato de 12 meses.",
+      "você precisa de jogo online com resposta rápida garantida: a Starlink publica uma faixa típica de latência, mas não promete o número para o seu endereço."
     ]
   },
   "pros": [],
@@ -152,7 +156,7 @@
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Preços lidos na tela de pedido do site oficial. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+  "editorialNote": "Preços lidos na tela de pedido do site oficial. Ainda não usamos o serviço. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
   "relatedArticles": [
     {
       "slug": "starlink-fidelidade-como-cancelar"

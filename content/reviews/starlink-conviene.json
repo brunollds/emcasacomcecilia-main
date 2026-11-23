@@ -19,7 +19,7 @@
   "metaDescription": "Starlink conviene? Prezzi per indirizzo, kit a noleggio, nessun contratto, per chi ha senso e quando fibra o 4G sono la scelta migliore.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -64,6 +64,13 @@
       },
       "postParagraphs": [
         "Non calcoliamo un totale a 12 mesi, perché il prezzo dopo i 3 mesi di sconto non compariva nella pagina che abbiamo letto. Controllalo nel tuo ordine e fai il conto con la durata che appare. Fai il conto prima senza la ricompensa dell'invito, il cui valore dipende dal paese e si vede nell'account. Vedi l'[invito Starlink](/it/coupons/starlink)."
+      ],
+      "links": [
+        {
+          "label": "Vedi i piani al tuo indirizzo",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -89,7 +96,9 @@
       "heading": "Quando confrontare con fibra o 4G",
       "paragraphs": [
         "Se arriva già una fibra stabile, confronta installazione, canoni ed eventuali vincoli di ogni proposta. Per il 4G, aggiungi il prezzo dell'apparecchio che ti serve e controlla che il piano abbia abbastanza dati per la casa."
-      ]
+      ],
+      "emphasis": "Senza una fibra stabile né un 4G decente all'indirizzo, Starlink entra nel confronto; con una fibra stabile, cambiare conviene solo se il totale dei mesi previsti, tra kit e canoni, resta sotto il costo della connessione attuale.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Velocità e giochi",
@@ -117,14 +126,9 @@
       ]
     },
     {
-      "heading": "La nostra esperienza finora",
-      "paragraphs": [
-        "Abbiamo già attivato l'abbonamento a Starlink, ma non c'è ancora esperienza d'uso. Velocità, installazione e qualità nella vita di ogni giorno entreranno in un aggiornamento di questo articolo, quando ci saranno."
-      ]
-    },
-    {
       "heading": "Domande frequenti",
       "bullets": [
+        "Starlink ha un coupon sconto? No. Starlink non ha coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
         "Starlink conviene in città? Con una fibra stabile all'indirizzo, confronta installazione, canoni e vincoli prima di cambiare.",
         "Starlink è meglio della fibra? Senza una buona fibra, vale la pena controllare l'offerta di Starlink per l'indirizzo e che ci sia il cielo aperto per l'antenna. Se hai entrambe, confronta stabilità e costo al tuo indirizzo.",
         "Starlink va bene per i giochi? Prova latenza e interruzioni al tuo indirizzo. L'intervallo tipico che Starlink pubblica è un riferimento generale.",
@@ -134,12 +138,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Non hai una buona fibra all'indirizzo e anche il 4G è debole.",
-      "Ti va bene un kit a noleggio da restituire se annulli e sai che i prezzi cambiano con l'indirizzo."
+      "non hai una buona fibra all'indirizzo e anche il 4G è debole.",
+      "ti va bene un kit a noleggio da restituire se annulli e sai che i prezzi cambiano con l'indirizzo."
     ],
     "skipIf": [
-      "Hai già una fibra stabile in casa e non ti serve un kit da installare e poi restituire.",
-      "Giochi online e ti serve un tempo di risposta garantito, che Starlink non garantisce per il tuo indirizzo."
+      "hai già una fibra stabile in casa e non ti serve un kit da installare e poi restituire.",
+      "giochi online e ti serve un tempo di risposta garantito, che Starlink non garantisce per il tuo indirizzo."
     ]
   },
   "pros": [],
@@ -151,7 +155,7 @@
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+  "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Non abbiamo ancora usato il servizio. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
   "relatedArticles": [
     {
       "slug": "starlink-contratto-disdetta"

@@ -19,7 +19,7 @@
   "metaDescription": "Proton VPN vale a pena? Grátis ou Plus: pelo nosso link, 24 meses por R$ 210,96; depois, R$ 293,88 ao ano. Compare recursos e condições.",
   "publishedAt": "17 de novembro de 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/proton/proton-vpn-vale-a-pena-capa.webp",
@@ -55,7 +55,7 @@
         "**Suporte prioritário e chat.**"
       ],
       "postParagraphs": [
-        "Não usamos o Proton VPN. Velocidade, P2P e streaming entram aqui como a Proton anuncia, sem medição nossa e sem promessa de acesso a serviço de vídeo. A parte de confiança, com as auditorias, está em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel)."
+        "Velocidade, P2P e streaming entram aqui como a Proton anuncia, sem promessa de acesso a serviço de vídeo. A parte de confiança, com as auditorias, está em [Proton VPN é confiável?](/reviews/proton-vpn-e-confiavel)."
       ]
     },
     {
@@ -163,7 +163,14 @@
         "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-brl.webp",
         "alt": "Cartão do VPN Plus na página de preços da Proton, com o plano de 1 ano a R$ 10,49 por mês, R$ 125,88 pelos primeiros 12 meses e renovação por R$ 293,88 a cada 12 meses.",
         "caption": "O cartão do VPN Plus de 1 ano na página de preços da Proton, com o total e a renovação na linha pequena."
-      }
+      },
+      "links": [
+        {
+          "label": "Ver o VPN Plus",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "VPN Plus ou Proton Unlimited",
@@ -171,7 +178,8 @@
         "O Proton Unlimited junta os recursos pagos da VPN, do e-mail, da nuvem e do gerenciador de senhas numa conta. Na mesma página, o plano de 1 ano custava R$ 273,48 e renovava por R$ 419,88 a cada 12 meses.",
         "Quem assina o VPN Plus continua com os planos grátis dos outros serviços, e a central de ajuda diz que não dá para ter vários planos Plus na mesma conta. Considere o Unlimited se você também vai usar os recursos pagos de e-mail ou armazenamento. Se quer apenas VPN e gerenciador de senhas, compare antes o pacote VPN com Pass, que a Proton também oferece. Para quem só quer a VPN, o Plus de 1 ano custa menos da metade no primeiro período (R$ 125,88 contra R$ 273,48) e segue mais barato na renovação (R$ 293,88 contra R$ 419,88).",
         "Usamos o Proton Mail, da mesma empresa, no plano gratuito, há quase dez anos. Quem está bem com o e-mail grátis não precisa do Unlimited para ter a VPN paga."
-      ]
+      ],
+      "emphasis": "Pelos números da tabela, para quem só quer a VPN paga, a escolha é o VPN Plus de 1 ano, porque custa R$ 125,88 contra R$ 273,48 do Unlimited no primeiro período e renova por R$ 293,88 contra R$ 419,88."
     },
     {
       "heading": "O que pesa contra",
@@ -193,6 +201,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "A Proton tem cupom de desconto? Não há cupom: o desconto da Black Friday, de até 75% OFF, abre pelos links da Cecília, e o preço aparece no site da Proton, na moeda do seu país, com o valor da renovação ao lado.",
         "O Proton VPN é gratuito? Tem um plano grátis, sem cartão, e planos pagos. Segundo a Proton, o grátis não tem anúncios nem limite de dados e liga 1 aparelho por vez.",
         "O Proton VPN grátis tem limite de dados? A Proton diz que não. Os limites do plano grátis são 1 dispositivo por vez e servidores de 10 países escolhidos pelo aplicativo.",
         "Quanto custa o Proton VPN Plus? Na comparação de preços, o plano de 1 ano custava R$ 125,88 e a oferta de parceiros do nosso link, R$ 210,96 pelos primeiros 24 meses, ambos cobrados de uma vez. Depois, a renovação anunciada era de R$ 293,88 a cada 12 meses; confirme moeda, elegibilidade e preço vigente.",
@@ -227,12 +236,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Você usa VPN em mais de um aparelho ou precisa escolher o país da conexão.",
-      "Você quer a filtragem de anúncios e rastreadores do NetShield durante a conexão VPN."
+      "você usa VPN em mais de um aparelho ou precisa escolher o país da conexão.",
+      "você quer a filtragem de anúncios e rastreadores do NetShield durante a conexão VPN."
     ],
     "skipIf": [
-      "Seu uso é ocasional, num aparelho só, e o país da conexão não importa.",
-      "O valor da renovação não cabe no seu orçamento."
+      "seu uso é ocasional, num aparelho só, e o país da conexão não importa.",
+      "o valor da renovação não cabe no seu orçamento."
     ]
   }
 }

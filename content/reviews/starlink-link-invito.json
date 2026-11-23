@@ -19,7 +19,7 @@
   "metaDescription": "Come aprire il link di invito Starlink, trovare il valore nell'ordine e ricevere la ricompensa dopo aver rispettato le condizioni del programma.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -60,7 +60,9 @@
         "Il valore dipende dal paese in cui ti registri e compare nel tuo account, per questo non lo indichiamo qui. Chi invita riceve lo stesso importo, in denaro o in credito di servizio.",
         "L'abbonamento deve restare attivo e in regola per due cicli mensili completi. Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, secondo il paese, l'account e la verifica dell'identità.",
         "La forma standard è il credito in fattura. Se il tuo account offre il pagamento in denaro, apri Inviti dal sito, da browser, scegli il metodo di ricompensa e completa identificazione e dati bancari su Stripe."
-      ]
+      ],
+      "emphasis": "La ricompensa viene emessa solo dopo due cicli mensili completi di abbonamento attivo e in regola, di default come credito in fattura, e chi si abbona e chi invita ricevono lo stesso importo; quello del tuo paese compare nell'ordine.",
+      "emphasisAfterParagraph": 3
     },
     {
       "heading": "Chi può usarlo",
@@ -91,6 +93,7 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Starlink ha un coupon sconto? No. Starlink non ha coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
         "Come funziona l'invito di Starlink? Fai l'ordine su starlink.com dal link, controlla che l'invito risulti applicato, attiva il kit e mantieni il servizio in regola per due cicli mensili completi.",
         "Quanto vale l'invito di Starlink? Il valore dipende dal paese e compare nel tuo account. Controllalo nell'ordine prima di pagare.",
         "Quando arriva la ricompensa di Starlink? Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, se l'invito rispetta le condizioni del programma.",
@@ -120,5 +123,15 @@
     {
       "slug": "starlink-contratto-disdetta"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "comunque vuoi abbonarti a Starlink e vuoi che l'invito risulti nell'ordine originale.",
+      "sei un nuovo cliente e puoi tenere il servizio attivo e in regola per due cicli mensili completi prima che la ricompensa venga emessa."
+    ],
+    "skipIf": [
+      "sei o sei stato cliente Starlink, perché la ricompensa è solo per chi si abbona per la prima volta.",
+      "compri da un rivenditore o da un marketplace, perché l'invito vale solo per gli ordini fatti su starlink.com dal link."
+    ]
+  }
 }

@@ -19,7 +19,7 @@
   "metaDescription": "Is Starlink worth it? Plan prices by address, the rental kit, who it suits and when fiber or cellular comes out ahead.",
   "publishedAt": "November 20, 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -62,6 +62,13 @@
       "postParagraphs": [
         "Residential 100 Mbps included the Starlink V5 with the Router Mini. Max came with the Standard rental kit and $0 professional installation. For 100 Mbps, professional installation was optional, at $99. Prices change with the address you enter, so make this calculation on your own order page.",
         "Work out the cost before the reward. In the Nevada screenshot with our link, the order displayed a $100 referral offer subject to eligibility. See the [Starlink referral page](/en/coupons/starlink)."
+      ],
+      "links": [
+        {
+          "label": "See plans at your address",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -87,7 +94,9 @@
       "heading": "When to compare with fiber or cellular",
       "paragraphs": [
         "If stable fiber or cable already reaches you, compare the installation, the monthly bills and any equipment fee of each offer. For a cellular home plan, add the price of the device you would need and check that the data allowance fits your household."
-      ]
+      ],
+      "emphasis": "With no stable fiber or decent cellular signal at the address, Starlink belongs in the comparison; with stable fiber already there, switching only pays off if the kit and the monthly bills over the months you plan to stay add up to less than the current connection costs.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Speed and gaming",
@@ -115,14 +124,9 @@
       ]
     },
     {
-      "heading": "Our experience so far",
-      "paragraphs": [
-        "We have signed up for Starlink, but we do not have usage experience yet. Speed, installation and day-to-day quality will go into an update of this article when we do."
-      ]
-    },
-    {
       "heading": "Frequently asked questions",
       "bullets": [
+        "Does Starlink have a discount coupon? No. Starlink has no coupon: through Cecília's referral link, the person who subscribes gets US$ 100 in the US (£ 40 in the UK) after two months of subscription, as credit on the bill, and the person who referred gets the same amount.",
         "Is Starlink worth it in a city? With stable fiber at your address, compare installation, monthly bills and any equipment fee before you switch.",
         "Is Starlink better than fiber? Without good fiber at your location, it is worth pricing Starlink and checking for open sky to mount the dish. If both are available, compare stability and cost at your address.",
         "Is Starlink good for gaming? Test the latency and the interruptions at your own address. The typical range Starlink publishes is a general reference.",
@@ -133,12 +137,12 @@
   ],
   "decision": {
     "takeIf": [
-      "No stable fiber or cable reaches your address and cellular home internet is weak there.",
-      "You are fine with a rental kit that goes back if you cancel, and you will check the price on your own order page."
+      "no stable fiber or cable reaches your address and cellular home internet is weak there.",
+      "you are fine with a rental kit that goes back if you cancel, and you will check the price on your own order page."
     ],
     "skipIf": [
-      "Stable fiber or cable already reaches you, so Starlink would only add a second bill.",
-      "You depend on online gaming with fast response, and the company does not promise a latency figure for your address."
+      "stable fiber or cable already reaches you, so Starlink would only add a second bill.",
+      "you depend on online gaming with fast response, and the company does not promise a latency figure for your address."
     ]
   },
   "pros": [],
@@ -150,7 +154,7 @@
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Prices read on the official order page, without completing a purchase. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+  "editorialNote": "Prices read on the official order page, without completing a purchase. We have not used the service yet. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
   "relatedArticles": [
     {
       "slug": "starlink-contract-cancel-refund"

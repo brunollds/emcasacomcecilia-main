@@ -19,7 +19,7 @@
   "metaDescription": "Starlink: kit en alquiler que se devuelve al cancelar y prueba de 30 días con reembolso. Mira los pasos para cancelar desde la cuenta.",
   "publishedAt": "20 de noviembre de 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -54,7 +54,8 @@
         "caption": "El kit que vuelve en la devolución: antena, router, soporte y cables. Foto de Starlink.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
-      }
+      },
+      "emphasis": "Según las condiciones del pedido, cancelar y devolver el kit en buen estado dentro de los 30 días es lo que da derecho al reembolso del kit y del primer mes, y el justificante del envío es la prueba que lo decide."
     },
     {
       "heading": "Cómo cancelar",
@@ -91,6 +92,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Tiene Starlink cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de servicio, como crédito en la factura, y quien lo recomendó recibe el mismo valor.",
         "¿Tiene Starlink permanencia? En el pedido consultado en España el kit iba en alquiler, sin coste inicial ni cuota. Confirma en el resumen de tu pedido si hay otras condiciones.",
         "¿Hay que devolver el kit al cancelar? Sí. El pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler.",
         "¿Puedo cancelar Starlink en cualquier momento? La solicitud se hace desde la cuenta. Comprueba en tu pedido si hay alguna condición para cancelar antes de cierto plazo.",
@@ -113,5 +115,21 @@
     {
       "slug": "starlink-trustpilot-opiniones"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "puedes devolver el kit en alquiler en buen estado dentro de los 30 días si cancelas.",
+      "vas a leer las condiciones en el resumen de tu propio pedido antes de pagar."
+    ],
+    "skipIf": [
+      "no puedes devolver el kit en buen estado dentro del plazo.",
+      "el resumen de tu pedido muestra una permanencia o una penalización que no aceptas."
+    ]
+  },
+  "cta": {
+    "text": "El pedido se abre en el sitio de Starlink. Comprueba la permanencia, los costes y la devolución del kit antes de pagar.",
+    "label": "Consultar las condiciones en mi dirección",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

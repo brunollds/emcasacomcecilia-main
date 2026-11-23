@@ -19,7 +19,7 @@
   "metaDescription": "Cómo reconocer el sitio oficial de Starlink, usar la lista de distribuidores autorizados y evitar perfiles y sitios que usan su nombre.",
   "publishedAt": "20 de noviembre de 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -31,13 +31,13 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Starlink es el servicio de internet por satélite de SpaceX y su sitio oficial es starlink.com. Si compras el kit fuera del sitio, consulta la lista de distribuidores autorizados de Starlink y comprueba quién es el vendedor del anuncio antes de pagar. En Trustpilot hay perfiles con el nombre Starlink que no son starlink.com."
+        "Starlink es el servicio de internet por satélite de SpaceX y su sitio oficial es starlink.com. En Trustpilot, el perfil que apunta a starlink.com se llama «Starlink Development». Si compras el kit en otro sitio, consulta la lista de distribuidores autorizados de Starlink y comprueba quién es el vendedor del anuncio antes de pagar."
       ]
     },
     {
       "heading": "Quién es Starlink y quién vende",
       "paragraphs": [
-        "Starlink vende a través de su sitio oficial. El perfil de Trustpilot que apunta a starlink.com se llama «Starlink Development» y la empresa no lo ha reclamado.",
+        "Starlink vende a través de su sitio oficial. En el pedido de starlink.com ves el plan, el kit, los impuestos y la permanencia para tu dirección antes de pagar.",
         "El análisis de [cuándo vale la pena Starlink](/es/reviews/starlink-vale-la-pena) muestra cómo comparar precio, instalación y alternativas en tu dirección."
       ],
       "image": {
@@ -52,7 +52,7 @@
       "heading": "Cómo reconocer el sitio oficial",
       "paragraphs": [
         "Escribe starlink.com en el navegador. Antes de dar datos o pagar, comprueba que sigues dentro de starlink.com.",
-        "En el pedido oficial que consultamos había Klarna como opción para financiar el kit. Si te piden pagar por mensaje o fuera del pedido, confirma con el soporte de Starlink antes de seguir."
+        "Revisa en el pedido, con tu propia dirección, el plan, el kit (alquiler o compra), los impuestos y la permanencia. Si alguien te pide pagar por mensaje o fuera del pedido, confirma con el soporte de Starlink antes de seguir."
       ]
     },
     {
@@ -64,41 +64,56 @@
     {
       "heading": "Perfiles con otro dominio",
       "paragraphs": [
-        "En el perfil de starlink.com, Trustpilot muestra también «Uk Starlink», con la dirección ukstarlink.com, y «Starlink», con starlink.om. Son otros dominios y no son starlink.com, así que no los uses para juzgar a la operadora ni para comprar."
+        "En Trustpilot, el perfil de starlink.com se llama «Starlink Development». Otros perfiles usan el nombre con otros dominios, como ukstarlink.com y starlink.om, y no son starlink.com. Juzga a la empresa por el perfil que apunta a starlink.com."
       ]
     },
     {
       "heading": "Distribuidores y marketplaces",
       "paragraphs": [
-        "Starlink mantiene una lista de distribuidores autorizados en su centro de ayuda. Incluso en un marketplace conocido, comprueba quién es el vendedor del anuncio.",
-        "El [enlace de referido de Starlink](/es/coupons/starlink) vale para pedidos elegibles hechos a través del enlace directamente en starlink.com. No se puede añadir a la compra de un kit en un distribuidor."
+        "Starlink mantiene una lista de distribuidores autorizados. Incluso en un marketplace conocido, comprueba quién es el vendedor del anuncio.",
+        "El [enlace de referido de Starlink](/es/coupons/starlink) vale para pedidos elegibles hechos con el enlace directamente en starlink.com. No se puede añadir a un kit comprado en una tienda."
+      ],
+      "links": [
+        {
+          "label": "Lista de distribuidores autorizados de Starlink",
+          "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+        }
       ]
     },
     {
       "heading": "Qué muestra Trustpilot",
       "paragraphs": [
-        "El perfil de starlink.com en Trustpilot tiene una nota de 1,6 sobre 5 y 871 opiniones, y la empresa no lo ha reclamado. La [lectura completa de Trustpilot](/es/reviews/starlink-trustpilot-opiniones) trae los números y las quejas más comunes."
+        "En Trustpilot, el perfil de starlink.com tiene un TrustScore de 1,6 sobre 5 con 879 reseñas: el 71 % son de 1 estrella y el 17 %, de 5. El perfil no está reclamado, es decir, Starlink no lo gestiona, y ha respondido al 0 % de las reseñas.",
+        "Leímos las 40 reseñas de 1 estrella y las 40 de 5 estrellas más recientes. En las de 1 estrella, las quejas más comunes son un soporte que solo es un bot o un chat (cerca de 1 de cada 3), cortes y poca velocidad (cerca de 1 de cada 3), una cuota mensual que subió tras contratar (cerca de 1 de cada 4), cobros y cancelaciones difíciles (cerca de 1 de cada 4), instaladores de empresas colaboradoras que se retrasan o no aparecen (cerca de 1 de cada 4) y un kit retrasado o no recibido (cerca de 1 de cada 5). Las de 5 estrellas elogian la velocidad y la estabilidad (cerca de la mitad), la instalación fácil (cerca de 1 de cada 3) y no tener otra buena opción de internet (cerca de 1 de cada 4). Las cifras son nuestras y aproximadas.",
+        "Interpreta la nota con cuidado: un perfil no reclamado no envía invitaciones tras la compra, y quien lo abre suele ir a quejarse. Los elogios hablan de la señal; las quejas, de soporte, precio y cobro, y pocas reseñas de 1 estrella dicen que la señal sea mala todo el tiempo. El resumen automático de Trustpilot, basado en 355 reseñas recientes, apunta en la misma dirección. Nuestra [lectura completa del perfil de Trustpilot](/es/reviews/starlink-trustpilot-opiniones) trae las cifras."
       ]
     },
     {
       "heading": "Qué guardar después de comprar",
+      "paragraphs": [
+        "Con el pedido hecho, el registro de lo que contrataste resuelve la mayoría de las disputas."
+      ],
       "bullets": [
-        "Guarda el número de pedido, el precio que apareció en el pago y el correo de confirmación. Si hay diferencias, contacta con el soporte desde el sitio o la aplicación."
-      ]
+        "Guarda el número de pedido, el precio que apareció al pagar y el correo de confirmación. Si algo no coincide, contacta con el soporte desde el sitio web o la aplicación."
+      ],
+      "emphasis": "Según lo que muestran el sitio oficial y la lista de distribuidores, para quien va a comprar el kit lo más seguro es pedir en starlink.com o en un distribuidor de la lista y guardar el número de pedido, el precio del pago y el correo de confirmación, porque ninguna de las dos vías pide pagar fuera del pedido.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Es fiable Starlink? Starlink es el servicio de internet por satélite de SpaceX. Comprueba que compras en starlink.com y no te fíes de perfiles con otro dominio.",
+        "¿Starlink tiene cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España después de dos meses de servicio, como crédito en la factura, y quien lo invitó recibe el mismo importe.",
+        "¿Es fiable Starlink? Starlink es el servicio de internet por satélite de SpaceX. Comprueba que estás en starlink.com y usa la lista de distribuidores autorizados si compras en otro sitio.",
         "¿Cuál es el sitio oficial de Starlink? El sitio oficial es starlink.com.",
-        "¿Cómo sé si un vendedor está autorizado? Consulta la lista de distribuidores autorizados de Starlink y comprueba el vendedor del anuncio antes de pagar."
+        "¿Cómo confirmo que un vendedor está autorizado? Consulta la lista de distribuidores de Starlink y comprueba quién es el vendedor del anuncio antes de pagar.",
+        "¿Compro en el sitio oficial o en un distribuidor? En starlink.com el pedido muestra plan, kit, impuestos y permanencia para tu dirección antes de pagar, y el referido solo vale ahí. Un distribuidor de la lista oficial es un vendedor legítimo, pero el referido no se aplica."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "affiliate": "starlink",
-  "editorialNote": "Basado en el sitio oficial, el centro de ayuda y los perfiles públicos de Trustpilot. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+  "editorialNote": "Elaborado con el sitio oficial, el centro de ayuda y el perfil público de Trustpilot. Participamos en el programa de referidos de Starlink y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
   "relatedArticles": [
     {
       "slug": "starlink-trustpilot-opiniones"
@@ -109,5 +124,21 @@
     {
       "slug": "starlink-vale-la-pena"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "vas a comprar el kit en starlink.com y quieres revisar plan, kit, impuestos y permanencia de tu dirección antes de pagar.",
+      "encontraste el kit en una tienda y quieres saber si el vendedor figura en la lista de Starlink."
+    ],
+    "skipIf": [
+      "un anuncio o mensaje te pide pagar fuera del pedido: no pagues y confirma antes con el soporte de Starlink.",
+      "la dirección del navegador no es starlink.com: no introduzcas ningún dato."
+    ]
+  },
+  "cta": {
+    "text": "Introduce tu dirección en el sitio de Starlink y revisa plan, kit y cuota mensual antes de pagar.",
+    "label": "Ver planes en tu dirección",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

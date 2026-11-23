@@ -15,11 +15,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Il sito ufficiale di Starlink e il profilo su Trustpilot aiutano a capire da chi compri. Scopri cosa controllare prima di pagare il kit e quali profili con lo stesso nome evitare.",
-  "metaDescription": "Come riconoscere il sito ufficiale di Starlink, distinguere i profili Trustpilot con lo stesso nome e consultare l'elenco dei rivenditori autorizzati.",
+  "description": "Il sito ufficiale di Starlink e l'elenco dei rivenditori autorizzati aiutano a capire da chi compri. Vedi cosa controllare prima di pagare il kit e come riconoscere i siti falsi.",
+  "metaDescription": "Come riconoscere il sito ufficiale di Starlink, usare l'elenco dei rivenditori autorizzati ed evitare profili e siti che usano il suo nome.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -31,13 +31,14 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Starlink è il servizio di internet via satellite di SpaceX, e il sito ufficiale è starlink.com. Se compri il kit altrove, consulta l'elenco dei rivenditori autorizzati di Starlink e controlla chi è il venditore dell'annuncio prima di pagare. Su Trustpilot esistono profili con lo stesso nome ma altri domini, che non sono starlink.com."
+        "Starlink è il servizio di internet satellitare di SpaceX e il sito ufficiale è starlink.com. Su Trustpilot, il profilo che rimanda a starlink.com si chiama «Starlink Development». Se compri il kit altrove, controlla l'elenco dei rivenditori autorizzati di Starlink e verifica chi è il venditore dell'annuncio prima di pagare."
       ]
     },
     {
       "heading": "Chi è Starlink e chi vende",
       "paragraphs": [
-        "Starlink vende dal sito ufficiale. L'analisi su [quando Starlink conviene](/it/reviews/starlink-conviene) mostra come confrontare prezzo, installazione e alternative al tuo indirizzo."
+        "Starlink vende tramite il sito ufficiale. L'ordine su starlink.com mostra, prima del pagamento, piano, kit, imposte e durata del contratto per il tuo indirizzo.",
+        "La nostra analisi di [quando conviene Starlink](/it/reviews/starlink-conviene) mostra come confrontare prezzo, installazione e alternative al tuo indirizzo."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
@@ -50,54 +51,69 @@
     {
       "heading": "Come riconoscere il sito ufficiale",
       "paragraphs": [
-        "Digita starlink.com nel browser. Prima di inserire dati o pagare, controlla di essere ancora dentro starlink.com."
-      ]
-    },
-    {
-      "heading": "Quale profilo Trustpilot è quello di Starlink?",
-      "paragraphs": [
-        "Il profilo che punta a starlink.com si chiama «Starlink Development» e non è rivendicato dall'azienda. Trustpilot mostra anche altri profili con il nome Starlink, per esempio ukstarlink.com e starlink.om. Sono altri domini e non sono starlink.com. Per giudicare l'azienda guarda quello di starlink.com."
-      ]
-    },
-    {
-      "heading": "Rivenditori e marketplace",
-      "paragraphs": [
-        "Starlink mantiene un elenco di rivenditori autorizzati nel centro assistenza. Anche su un marketplace noto, controlla il venditore dell'annuncio.",
-        "L'[invito Starlink](/it/coupons/starlink) vale per gli ordini idonei fatti dal link direttamente su starlink.com. Non si può aggiungere all'acquisto del kit da un rivenditore."
+        "Digita starlink.com nel browser. Prima di inserire dati o pagare, verifica di essere ancora su starlink.com.",
+        "Controlla nell'ordine, per il tuo indirizzo, piano, kit (noleggio o acquisto), imposte e durata del contratto. Se qualcuno ti chiede di pagare con un messaggio o fuori dall'ordine, conferma con il supporto Starlink prima di proseguire."
       ]
     },
     {
       "heading": "Messaggi che usano il nome Starlink",
       "paragraphs": [
-        "Il centro assistenza di Starlink pubblica un avviso sul phishing. Se ricevi un annuncio o un messaggio a nome di Starlink, verifica su starlink.com prima di pagare o di dare i tuoi dati."
+        "Il centro assistenza di Starlink ha un avviso sul phishing. Se ricevi un annuncio o un messaggio a nome di Starlink, conferma su starlink.com prima di pagare o dare dati. Se ti porta a un altro indirizzo, non inserire nulla e riapri il sito digitando tu l'indirizzo."
+      ]
+    },
+    {
+      "heading": "Quale profilo Trustpilot è quello di Starlink?",
+      "paragraphs": [
+        "Su Trustpilot, il profilo di starlink.com si chiama «Starlink Development». Altri profili usano il nome con domini diversi, come ukstarlink.com e starlink.om, e non sono starlink.com. Giudica l'azienda dal profilo che rimanda a starlink.com."
+      ]
+    },
+    {
+      "heading": "Rivenditori e marketplace",
+      "paragraphs": [
+        "Starlink mantiene un elenco di rivenditori autorizzati. Anche su un marketplace noto, verifica chi è il venditore dell'annuncio.",
+        "Il [link d'invito di Starlink](/it/coupons/starlink) vale per gli ordini idonei fatti tramite il link direttamente su starlink.com. Non si può aggiungere a un kit comprato da un rivenditore."
+      ],
+      "links": [
+        {
+          "label": "Elenco dei rivenditori autorizzati da Starlink",
+          "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
+        }
       ]
     },
     {
       "heading": "Cosa mostra Trustpilot",
       "paragraphs": [
-        "Il profilo di starlink.com ha un TrustScore di 1,6 su 5, con 871 recensioni. Trustpilot segnala che l'azienda non ha mai invitato i clienti a recensire, quindi i voti possono non essere rappresentativi.",
-        "L'[analisi completa di Trustpilot](/it/reviews/starlink-trustpilot-recensioni) riporta i numeri e le lamentele più frequenti."
+        "Su Trustpilot, il profilo di starlink.com ha un TrustScore di 1,6 su 5 con 879 recensioni: il 71% è da 1 stella e il 17% da 5 stelle. Il profilo non è rivendicato, quindi Starlink non lo gestisce, e ha risposto allo 0% delle recensioni.",
+        "Abbiamo letto le 40 recensioni da 1 stella e le 40 da 5 stelle più recenti. Tra quelle da 1 stella, i reclami più comuni riguardano un supporto fatto solo di bot o chat (circa 1 su 3), interruzioni e velocità bassa (circa 1 su 3), un canone mensile salito dopo l'abbonamento (circa 1 su 4), addebiti e disdette difficili (circa 1 su 4), installatori di aziende partner in ritardo o assenti (circa 1 su 4) e un kit in ritardo o mai arrivato (circa 1 su 5). Quelle da 5 stelle lodano velocità e stabilità (circa la metà), l'installazione facile (circa 1 su 3) e l'assenza di un'altra buona opzione internet (circa 1 su 4). I conteggi sono nostri e approssimativi.",
+        "Leggi il punteggio con cautela: un profilo non rivendicato non invia inviti dopo l'acquisto, e chi lo apre spesso lo fa per lamentarsi. Gli elogi riguardano il segnale; i reclami riguardano supporto, prezzo e addebiti, e poche recensioni da 1 stella dicono che il segnale sia sempre pessimo. Il riepilogo automatico di Trustpilot, basato su 355 recensioni recenti, va nella stessa direzione. La nostra [lettura completa del profilo Trustpilot](/it/reviews/starlink-trustpilot-recensioni) riporta i numeri."
       ]
     },
     {
       "heading": "Cosa conservare dopo l'acquisto",
+      "paragraphs": [
+        "Fatto l'ordine, la prova di ciò che hai sottoscritto risolve la maggior parte delle controversie."
+      ],
       "bullets": [
-        "Conserva il numero dell'ordine, il prezzo che compariva al checkout e l'email di conferma. In caso di differenze, contatta l'assistenza dal sito o dall'app."
-      ]
+        "Conserva il numero d'ordine, il prezzo mostrato al pagamento e l'e-mail di conferma. Se qualcosa non corrisponde, contatta il supporto dal sito o dall'app."
+      ],
+      "emphasis": "Da quanto mostrano il sito ufficiale e l'elenco dei rivenditori, per chi sta per comprare il kit la scelta sicura è ordinare su starlink.com o da un rivenditore dell'elenco e conservare numero d'ordine, prezzo al pagamento ed e-mail di conferma, perché nessuna delle due strade chiede di pagare fuori dall'ordine.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Starlink è affidabile? Starlink è il servizio di internet via satellite di SpaceX. Controlla il sito starlink.com e il profilo Trustpilot di quel dominio.",
+        "Starlink ha un codice sconto? No. Starlink non ha un codice sconto: con il link d'invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
+        "Starlink è affidabile? Starlink è il servizio di internet satellitare di SpaceX. Verifica di essere su starlink.com e usa l'elenco dei rivenditori autorizzati se compri altrove.",
         "Qual è il sito ufficiale di Starlink? Il sito ufficiale è starlink.com.",
-        "Come capisco se un venditore è autorizzato? Consulta l'elenco dei rivenditori di Starlink e controlla il venditore dell'annuncio prima di pagare."
+        "Come confermo che un venditore è autorizzato? Consulta l'elenco dei rivenditori di Starlink e verifica chi è il venditore dell'annuncio prima di pagare.",
+        "Meglio comprare dal sito ufficiale o da un rivenditore? Su starlink.com l'ordine mostra piano, kit, imposte e contratto per il tuo indirizzo prima del pagamento, e il link d'invito vale solo lì. Un rivenditore dell'elenco ufficiale è un venditore legittimo, ma l'invito non si applica."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "affiliate": "starlink",
-  "editorialNote": "Realizzato con il sito ufficiale, il centro assistenza e i profili pubblici su Trustpilot. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+  "editorialNote": "Realizzato con il sito ufficiale, il centro assistenza e il profilo pubblico su Trustpilot. Partecipiamo al programma di invito di Starlink e possiamo ricevere un premio se ti abboni con il nostro link e rispetti le regole.",
   "relatedArticles": [
     {
       "slug": "starlink-trustpilot-recensioni"
@@ -108,5 +124,21 @@
     {
       "slug": "starlink-conviene"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "stai per comprare il kit su starlink.com e vuoi controllare piano, kit, imposte e contratto per il tuo indirizzo prima di pagare.",
+      "hai trovato il kit da un rivenditore e vuoi sapere se il venditore è nell'elenco di Starlink."
+    ],
+    "skipIf": [
+      "un annuncio o un messaggio chiede di pagare fuori dall'ordine: non pagare e conferma prima con il supporto Starlink.",
+      "l'indirizzo nel browser non è starlink.com: non inserire dati."
+    ]
+  },
+  "cta": {
+    "text": "Inserisci il tuo indirizzo sul sito di Starlink e controlla piano, kit e canone mensile prima di pagare.",
+    "label": "Vedi i piani al tuo indirizzo",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

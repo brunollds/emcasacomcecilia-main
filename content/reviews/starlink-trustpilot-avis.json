@@ -16,10 +16,10 @@
     "url": "/sobre"
   },
   "description": "Voyez la note, le nombre d'avis et les plaintes qui reviennent sur le profil Trustpilot de starlink.com, et ce que reflètent ces chiffres pour quelqu'un qui hésite à s'abonner.",
-  "metaDescription": "Starlink sur Trustpilot : note de 1,6 sur 5, 871 avis, profil non revendiqué. Voyez les plaintes fréquentes et les limites de ces chiffres.",
+  "metaDescription": "Starlink sur Trustpilot : note de 1,6 pour 879 avis sur un profil non revendiqué. Ce que disent les avis récents à une et à cinq étoiles.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -31,74 +31,112 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Le profil Trustpilot de starlink.com affiche 1,6 sur 5, jugé « mauvais » par la plateforme, pour 871 avis, dont 71 % à une étoile. Le profil n'est pas revendiqué et l'entreprise n'a pas invité ses clients à laisser un avis, donc ces chiffres reflètent ceux qui ont choisi de laisser un avis. Pour consulter l'opérateur, cherchez le profil du domaine starlink.com."
+        "Starlink Development, le profil Trustpilot de starlink.com, affiche un TrustScore de 1,6 sur 5 pour 879 avis, dont 71 % à une étoile. Le profil n’est pas revendiqué : l’entreprise n’a pas d’offre payante, n’envoie pas d’invitations à laisser un avis et n’a répondu à aucun des 464 avis négatifs. Les avis viennent de clients de nombreux pays."
       ]
     },
     {
-      "heading": "La note et la répartition",
+      "heading": "La note et la répartition des étoiles",
       "paragraphs": [
-        "Nous avons lu le profil le 20 novembre 2026. Le profil, nommé Starlink Development, appartient à la catégorie fournisseur d'accès à internet."
+        "Nous avons lu le profil public de Starlink Development le 23 novembre 2026."
       ],
       "comparisonTable": {
         "headers": [
           "Indicateur",
-          "Profil starlink.com"
+          "starlink.com sur Trustpilot"
         ],
         "rows": [
           [
-            "Note Trustpilot",
-            "1,6 sur 5, « mauvais »"
+            "TrustScore",
+            "1,6 sur 5"
           ],
           [
-            "Nombre d'avis",
-            "871"
+            "Avis",
+            "879"
           ],
           [
             "5 étoiles",
-            "17 %"
+            "148 (17 %)"
           ],
           [
             "4 étoiles",
-            "2 %"
+            "19 (2 %)"
           ],
           [
             "3 étoiles",
-            "3 %"
+            "24 (3 %)"
           ],
           [
             "2 étoiles",
-            "7 %"
+            "61 (7 %)"
           ],
           [
             "1 étoile",
-            "71 %"
+            "627 (71 %)"
+          ],
+          [
+            "Statut du profil",
+            "Non revendiqué, sans offre payante"
+          ],
+          [
+            "Origine des avis",
+            "Organiques, sans invitations aux clients"
+          ],
+          [
+            "Réponses aux avis négatifs",
+            "0 % (aucune sur 464)"
           ]
         ],
-        "caption": "Lecture du profil Trustpilot de starlink.com. La répartition porte sur les 871 avis."
+        "caption": "Trustpilot, profil starlink.com, lu le 23 novembre 2026."
       }
     },
     {
-      "heading": "Pourquoi ces chiffres sont limités",
+      "heading": "Pourquoi un profil non revendiqué tire la note vers le bas",
       "paragraphs": [
-        "Trustpilot signale que l'entreprise n'a jamais invité ses clients à laisser un avis, ce qui peut rendre les avis peu représentatifs. Le profil n'est pas non plus revendiqué par l'entreprise."
+        "Le profil n’est pas revendiqué : l’entreprise n’a pas d’offre payante sur Trustpilot et n’invite pas ses clients à laisser un avis après l’achat. Les marques qui le font récoltent souvent beaucoup d’avis courts à cinq étoiles de clients satisfaits. Ici, rien ne filtre le flux : ceux qui arrivent sur le profil sont surtout des personnes qui ont eu un problème, et les avis sont organiques.",
+        "C’est pourquoi le 1,6 se lit plutôt comme le portrait des clients venus chercher un endroit où se plaindre que comme une moyenne de tous les clients de Starlink. Il compte quand même : l’entreprise ne répond pas sur Trustpilot, aucun des 464 avis négatifs n’a de réponse, et la plateforme n’est donc pas un canal de support pour elle."
+      ]
+    },
+    {
+      "heading": "Ce que disent les avis à une étoile",
+      "paragraphs": [
+        "Nous avons lu les 40 avis à une étoile les plus récents, publiés entre le 23 octobre et le 23 novembre 2026, venant de 16 pays (21 des États-Unis). C’est notre propre lecture de cet échantillon. Un avis peut aborder plusieurs thèmes et les proportions sont approximatives :"
+      ],
+      "bullets": [
+        "Support : seulement un robot ou un chat automatique, sans moyen de joindre une personne (environ 1 avis sur 3).",
+        "Coupures de connexion et débit inférieur à celui attendu (environ 1 sur 3).",
+        "Mensualité augmentée après la souscription, parfois plusieurs fois dans l’année (environ 1 sur 4).",
+        "Facturation d’un service qui n’est plus utilisé, remboursement ou résiliation difficiles à obtenir (environ 1 sur 4).",
+        "Installateur d’une entreprise partenaire absent ou en retard (environ 1 sur 4).",
+        "Livraison du kit en retard ou jamais reçue (environ 1 sur 5)."
+      ]
+    },
+    {
+      "heading": "Ce que disent les avis à cinq étoiles",
+      "paragraphs": [
+        "Nous avons aussi lu les 40 avis à cinq étoiles les plus récents, du 10 décembre 2025 au 17 novembre 2026, venant de 15 pays (dont l’Allemagne, le Royaume-Uni et les États-Unis). Même méthode, même réserve :"
+      ],
+      "bullets": [
+        "Débit et connexion stable (environ la moitié).",
+        "Installation facile, « plug and play » (environ 1 sur 3).",
+        "Habiter là où il n’existe pas d’autre bonne solution internet (environ 1 sur 4).",
+        "Usage en voyage avec le Mini et l’offre Roam (plusieurs avis).",
+        "Support qui a réglé le problème, comme le remplacement de l’antenne (quelques-uns)."
+      ],
+      "postParagraphs": [
+        "Dans cet échantillon, les éloges portent sur le signal, et les plaintes sur le support, le prix et la facturation. Peu d’avis à une étoile disent que le signal est mauvais en permanence. Le résumé automatique de Trustpilot, établi sur 355 avis récents, va dans le même sens (majorité déçue, support injoignable, mensualités en hausse et frais supplémentaires), et nous ne le citons que comme appui secondaire."
       ]
     },
     {
       "heading": "Comment identifier le bon profil",
       "paragraphs": [
-        "Cherchez « Starlink Development », le profil dont le site indiqué est starlink.com. D'autres profils au nom proche renvoient vers d'autres domaines."
+        "Cherchez « Starlink Development » avec starlink.com comme site web. Certains profils au nom proche renvoient vers d’autres domaines. Ce profil réunit des clients de dizaines de pays, donc un avis peut décrire une offre, une taxe ou une règle de livraison qui ne s’applique pas chez vous."
       ]
     },
     {
-      "heading": "Ce que les plaintes ont en commun",
+      "heading": "Ce que cela veut dire pour qui s’abonne",
       "paragraphs": [
-        "Le résumé généré par Trustpilot, établi sur 355 avis récents, retient comme plainte la plus fréquente un support difficile à joindre, avec un chatbot pour seul interlocuteur. Il cite aussi des hausses de la facturation mensuelle et des coûts supplémentaires. Le produit et le débit reçoivent des avis partagés, et certains clients louent la connexion rapide."
-      ]
-    },
-    {
-      "heading": "Ce que cela veut dire pour qui s'abonne",
-      "paragraphs": [
-        "Comparez chaque mois la facture avec le prix affiché sur la commande, et gardez la capture de l'offre. Les règles du matériel loué et de l'annulation sont dans notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier)."
+        "Avant de payer, vérifiez l’offre, le kit (location ou achat), les taxes et le contrat sur starlink.com pour votre propre adresse : ils changent selon le pays et même selon l’adresse. Gardez une capture de l’offre le jour de la commande et comparez-y chaque facture.",
+        "Les règles du kit en location et du retour figurent dans le [guide du contrat, de la résiliation et du remboursement](/fr/reviews/starlink-engagement-resilier)."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
@@ -109,16 +147,9 @@
       }
     },
     {
-      "heading": "Avant de souscrire",
+      "heading": "Comment signaler un problème",
       "paragraphs": [
-        "Avant de souscrire, vérifiez le site et la commande. Comment reconnaître le site officiel et les profils qui portent le même nom est expliqué dans [Starlink est-il fiable ?](/fr/reviews/starlink-est-il-fiable).",
-        "Si vous souscrivez, la [page du parrainage Starlink](/fr/coupons/starlink) réunit le lien et les règles du programme."
-      ]
-    },
-    {
-      "heading": "Comment contacter Starlink et laisser un avis",
-      "paragraphs": [
-        "Ouvrez une demande depuis le site ou l'application de Starlink et gardez le numéro de dossier. Si la facturation diffère de la commande, envoyez le prix affiché à l'offre et la facture. Pour donner votre avis, passez par le profil du domaine starlink.com sur Trustpilot."
+        "Ouvrez une demande de support sur le site de Starlink ou dans l’application et gardez le numéro de dossier. Si la facture ne correspond pas à votre commande, envoyez le prix affiché dans l’offre avec la facture. Si vous ne reconnaissez pas un prélèvement, contactez aussi l’émetteur de votre carte ou votre banque. L’entreprise ne répond pas sur Trustpilot : ne comptez pas sur un avis pour obtenir une réponse."
       ],
       "links": [
         {
@@ -128,18 +159,28 @@
       ]
     },
     {
+      "heading": "Avant de souscrire",
+      "paragraphs": [
+        "Avant de souscrire, vérifiez le site et les conditions. Pour reconnaître le site officiel et les profils qui reprennent le nom, voir [Starlink est-il fiable ?](/fr/reviews/starlink-est-il-fiable).",
+        "La page du [parrainage Starlink](/fr/coupons/starlink) donne le lien et les règles du programme. Un parrainage n’est pas un coupon : la récompense arrive en crédit sur la facture après deux mois d’abonnement, et les offres Prioritaire, Enterprise et Commerciale n’y ouvrent pas droit."
+      ],
+      "emphasis": "D’après les chiffres du tableau, pour qui n’a pas de bonne solution internet à son adresse, s’abonner est raisonnable une fois l’offre, le kit, les taxes et le contrat vérifiés sur starlink.com pour cette adresse, car le 1,6 reflète des plaintes de support, de facturation et de prix plus que de qualité du signal."
+    },
+    {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Quelle est la note de Starlink sur Trustpilot ? Le profil du domaine starlink.com affiche 1,6 sur 5, pour 871 avis, avec 71 % d'avis à une étoile.",
-        "Quel profil Starlink faut-il consulter ? Celui dont le domaine est starlink.com. Les profils ukstarlink.com et starlink.om sont d'autres sites.",
-        "Les avis Trustpilot représentent-ils tous les clients ? Pas forcément. L'entreprise n'a pas invité ses clients à laisser un avis, donc les avis peuvent ne pas être représentatifs."
+        "Starlink propose-t-il un code de réduction ? Non. Starlink n’a pas de coupon : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d’abonnement, en crédit sur la facture, et la personne qui l’a parrainé reçoit le même montant.",
+        "Quelle est la note de Starlink sur Trustpilot ? Le profil de starlink.com affiche un TrustScore de 1,6 pour 879 avis, dont 71 % à une étoile.",
+        "Pourquoi la note est-elle si basse ? Le profil n’est pas revendiqué : pas d’offre payante, pas d’invitations à laisser un avis, pas de réponses de l’entreprise, il réunit donc surtout des personnes qui ont eu un problème. Dans notre lecture des 40 avis à une étoile les plus récents, le support, les coupures, les hausses de prix et la facturation dominaient les plaintes.",
+        "Quel profil Starlink consulter ? Cherchez le profil dont le domaine est starlink.com. D’autres reprennent le nom avec des domaines différents.",
+        "Comment signaler un problème à Starlink ? Ouvrez une demande sur le site ou dans l’application et gardez le numéro de dossier. L’entreprise ne répond pas aux avis sur Trustpilot, ne comptez donc pas dessus. Si un prélèvement vous semble anormal, contactez l’émetteur de votre carte ou votre banque."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "affiliate": "starlink",
-  "editorialNote": "Données du profil public de Trustpilot. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+  "editorialNote": "Données du profil public de Trustpilot et de notre propre lecture d’avis récents. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
   "relatedArticles": [
     {
       "slug": "starlink-est-il-fiable"
@@ -150,5 +191,21 @@
     {
       "slug": "starlink-vaut-il-le-coup"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "vous n’avez pas de bonne solution internet à votre adresse et avez vérifié sur place offre, kit et contrat avant de payer.",
+      "vous pouvez vivre avec un support qui passe surtout par l’application et le chat automatique."
+    ],
+    "skipIf": [
+      "vous attendez qu’une personne réponde vite quand une facture ou une livraison se passe mal.",
+      "vous voulez que le TrustScore tranche seul : il vient d’un profil non revendiqué et dit peu de chose sur la qualité du signal."
+    ]
+  },
+  "cta": {
+    "text": "Indiquez votre adresse sur le site de Starlink et vérifiez l’offre, le kit et la mensualité avant de payer.",
+    "label": "Voir les offres à votre adresse",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
 }

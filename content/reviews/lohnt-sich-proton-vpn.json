@@ -19,7 +19,7 @@
   "metaDescription": "Lohnt sich Proton VPN? Free oder Plus: Unser Link bietet 24 Monate für 59,76 $, danach 83,88 $ jährlich. Funktionen und Bedingungen vergleichen.",
   "publishedAt": "17. November 2026",
   "publishedAtISO": "2026-11-17",
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -56,7 +56,7 @@
         "**Prioritäts-Support und Live-Chat.**"
       ],
       "postParagraphs": [
-        "Wir nutzen Proton VPN nicht. Geschwindigkeit, P2P und Streaming stehen hier so, wie Proton sie bewirbt, ohne eigene Messung und ohne Zusage, dass irgendein Videodienst erreichbar ist. Die Vertrauensfrage, mit den Audits, behandelt [Ist Proton VPN seriös?](/de/reviews/ist-proton-vpn-serioes)."
+        "Geschwindigkeit, P2P und Streaming stehen hier so, wie Proton sie bewirbt, ohne Zusage, dass irgendein Videodienst erreichbar ist. Die Vertrauensfrage, mit den Audits, behandelt [Ist Proton VPN seriös?](/de/reviews/ist-proton-vpn-serioes)."
       ]
     },
     {
@@ -164,7 +164,14 @@
         "src": "/images/reviews/proton/proton-vpn-vale-a-pena-precos-usd.webp",
         "alt": "Die VPN-Plus-Karte auf Protons Preisseite, mit dem 1-Jahres-Tarif zu 2,99 $ pro Monat, abgerechnet mit 35,88 $ für die ersten 12 Monate und verlängert zu 83,88 $ alle 12 Monate.",
         "caption": "Die VPN-Plus-Karte für 1 Jahr auf Protons Preisseite, mit Gesamtbetrag und Verlängerung im Kleingedruckten."
-      }
+      },
+      "links": [
+        {
+          "label": "VPN Plus ansehen",
+          "href": "https://go.getproton.me/SH39K",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "VPN Plus oder Proton Unlimited",
@@ -172,7 +179,8 @@
         "Proton Unlimited vereint die kostenpflichtigen Funktionen von VPN, E-Mail, Cloud-Speicher und Passwortmanager in einem Konto. Auf derselben Seite kostete der 1-Jahres-Tarif 77,88 $ und verlängerte sich zu 119,88 $ alle 12 Monate.",
         "Wenn Sie VPN Plus abonnieren, behalten Sie die kostenlosen Tarife der anderen Dienste, und das Hilfe-Center sagt, dass man nicht mehrere Plus-Tarife im selben Konto haben kann. Ziehen Sie Unlimited in Betracht, wenn Ihnen auch die kostenpflichtigen Funktionen der anderen Dienste nützen; dass Sie zwei Dienste brauchen, macht Unlimited allein noch nicht zur günstigsten Wahl. Proton bewirbt auch ein Paket aus VPN und Pass, das Sie vergleichen sollten, wenn Sie VPN und Passwortmanager brauchen. Wenn Sie nur das VPN möchten, kostet Plus für 1 Jahr im ersten Zeitraum weniger als die Hälfte (35,88 $ gegenüber 77,88 $) und bleibt bei der Verlängerung günstiger (83,88 $ gegenüber 119,88 $).",
         "Wir nutzen Proton Mail, von derselben Firma, im kostenlosen Tarif seit fast zehn Jahren. Wenn Ihnen die kostenlose E-Mail reicht, brauchen Sie Unlimited nicht, um das kostenpflichtige VPN zu haben."
-      ]
+      ],
+      "emphasis": "Nach den Zahlen der Tabelle ist für alle, die nur das kostenpflichtige VPN möchten, VPN Plus für 1 Jahr die richtige Wahl, weil es im ersten Zeitraum 35,88 $ kostet gegenüber 77,88 $ für Unlimited und sich für 83,88 $ statt 119,88 $ verlängert."
     },
     {
       "heading": "Was dagegen spricht",
@@ -193,6 +201,7 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Hat Proton einen Rabattgutschein? Es gibt keinen Gutschein: Der Black-Friday-Rabatt von bis zu 75 % Rabatt öffnet sich über die Links von Cecília, und der Preis steht auf der Website von Proton, in der Währung Ihres Landes, mit dem Verlängerungspreis daneben.",
         "Ist Proton VPN kostenlos? Es hat einen kostenlosen Tarif, ohne Karte, und kostenpflichtige Tarife. Laut Proton hat der kostenlose Tarif keine Werbung und kein Datenlimit und verbindet 1 Gerät gleichzeitig.",
         "Hat Proton VPN Free ein Datenlimit? Proton sagt nein. Die Grenzen des kostenlosen Tarifs sind 1 Gerät gleichzeitig und Server in 10 Ländern, die die App auswählt.",
         "Wie viel kostet Proton VPN Plus? Beim erfassten Vergleich in US-Dollar kostete ein Jahr 35,88 $ und das Partnerangebot unseres Links 59,76 $ für die ersten 24 Monate, jeweils im Voraus. Danach waren 83,88 $ alle 12 Monate angekündigt; prüfen Sie Währung, Teilnahmebedingungen und geltenden Preis.",

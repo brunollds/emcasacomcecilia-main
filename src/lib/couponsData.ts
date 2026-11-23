@@ -1971,7 +1971,7 @@ const STORE_COUPONS: Coupon[] = [
     reusable: 'Os links podem ser usados em toda assinatura',
     shipping: 'Não se aplica: os planos são digitais e liberados na conta Proton',
     combinable: 'Os links da Cecília abrem a Proton com até 75% OFF na Black Friday, sem código para somar',
-    lastVerified: '2026-11-18',
+    lastVerified: '2026-11-23',
     aboutBrand:
       'A Proton é uma empresa suíça de serviços com foco em privacidade e criptografia: VPN, e-mail, gerenciador de senhas, armazenamento em nuvem e o Lumo, um assistente de inteligência artificial. Os produtos têm plano grátis, e os pagos podem ser assinados um a um ou juntos no Proton Unlimited. Esta página reúne os links da Cecília para cada produto. Assinaturas feitas pelos links podem gerar comissão para o Em Casa com Cecília, sem custo adicional para quem assina.',
     productLinks: [
@@ -6489,7 +6489,7 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'O preço do kit e da entrega aparece no pedido, em starlink.com, depois do endereço',
     combinable:
       'Os R$ 200 não são desconto no pedido: entram depois de dois meses de assinatura, e o pedido segue com o preço e as promoções que a Starlink mostrar no dia',
-    lastVerified: '2026-11-19',
+    lastVerified: '2026-11-23',
     linkInstructions: [
       'Toque em “Receba seus R$ 200”: o link da Cecília abre o site oficial da Starlink, sem código para copiar.',
       'Informe o endereço, escolha um plano Residencial ou Viagem e faça o pedido pelo próprio link: pedido sem o link, por revendedor ou em marketplace não conta como indicação, e ela não pode ser incluída depois.',

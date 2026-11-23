@@ -19,7 +19,7 @@
   "metaDescription": "Starlink 值得買嗎？十二個月成本怎麼算、設備與合約依地址不同，以及什麼情況下光纖或 4G 更划算。",
   "publishedAt": "2026年11月20日",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -70,6 +70,13 @@
       },
       "postParagraphs": [
         "先在不含推薦獎勵的情況下算，再看獎勵能抵多少。獎勵說明見[推薦連結指南](/zh-hant/coupons/starlink)。"
+      ],
+      "links": [
+        {
+          "label": "查看你地址的方案",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -97,7 +104,9 @@
       "heading": "什麼時候該和光纖或 4G 比較",
       "paragraphs": [
         "如果已經有穩定的光纖，請把每個方案的安裝費、月費與可能的合約加起來比較。4G 則要加上你需要的設備費用，並確認流量夠全家使用。"
-      ]
+      ],
+      "emphasis": "地址沒有穩定光纖、4G 也不理想時，Starlink 才值得放進比較；已有穩定光纖的話，只有設備加月費的十二個月總額低於現有連線時，換過去才划算。",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "速度與遊戲",
@@ -125,14 +134,9 @@
       ]
     },
     {
-      "heading": "我們目前的使用經驗",
-      "paragraphs": [
-        "我們已經訂閱 Starlink，但還沒有使用經驗。速度、安裝與日常品質，會在有了之後更新到本文。"
-      ]
-    },
-    {
       "heading": "常見問題",
       "bullets": [
+        "Starlink 有折扣優惠券嗎？沒有。Starlink 沒有優惠券：透過我們的推薦連結訂閱，滿兩個月後可獲得獎勵，金額依國家而定（例如美國為 US$ 100），預設為帳單抵免，推薦人也獲得相同金額。",
         "住在市區值得買 Starlink 嗎？如果地址已有穩定光纖，換之前請比較安裝費、月費與合約。",
         "Starlink 比光纖好嗎？沒有好光纖的地方，值得詢價並確認天空是否開闊。兩者都有時，比較你地址的穩定度與成本。",
         "Starlink 適合玩遊戲嗎？請在你的地址測試延遲與中斷。官方公布的典型延遲只是一般參考。",
@@ -160,7 +164,7 @@
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+  "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。我們尚未實際使用此服務。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
   "relatedArticles": [
     {
       "slug": "starlink-cancel-zh-hant"
