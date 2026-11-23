@@ -34,7 +34,7 @@
   "metaDescription": "El cupón SONAR20 da 20% en un plan nuevo de Hostinger; la renovación sale al precio de lista. Mira cuánto cuesta renovar cada plan y el reembolso.",
   "publishedAt": "5 de noviembre de 2026",
   "publishedAtISO": "2026-11-05",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -44,12 +44,12 @@
   "imageAspect": "landscape",
   "decision": {
     "takeIf": [
-      "Lee esta guía si ya tienes hosting o un VPS en Hostinger y quieres decidir la renovación antes del cobro.",
-      "Léela también si tienes varios servicios en la cuenta y quieres saber qué se renueva, qué desactivar y qué queda fuera, como el dominio."
+      "ya tienes hosting o un VPS en Hostinger y quieres decidir la renovación antes del cobro.",
+      "tienes varios servicios en la cuenta y quieres saber qué se renueva, qué desactivar y qué queda fuera, como el dominio."
     ],
     "skipIf": [
-      "Sáltala si solo quieres contratar tu primer plan: la guía del cupón responde mejor.",
-      "Sáltala si solo necesitas renovar un dominio: la guía del dominio responde mejor."
+      "solo quieres contratar tu primer plan: la guía del cupón responde mejor.",
+      "solo necesitas renovar un dominio: la guía del dominio responde mejor."
     ]
   },
   "pros": [],
@@ -247,11 +247,12 @@
       "postParagraphs": [
         "Mantén la renovación automática en los servicios que quieras seguir pagando al precio indicado. Si prefieres decidir antes de cada cobro, desactívala y anota el plazo para renovar manualmente. Revisa cada servicio por separado, incluidos los dominios."
       ],
-      "emphasis": "La renovación se decide con calma, antes de que llegue el cobro, y no el día del vencimiento."
+      "emphasis": "Según las reglas de Hostinger, para quien ya es cliente, lo indicado es decidir antes del cobro automático qué renovar y por cuánto tiempo, porque SONAR20 no se aplica a la renovación, que se cobra a precio de lista."
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con un 20 % de descuento en el primer período de una compra nueva elegible: escribe el código en el campo «Have a coupon code?» del carrito y comprueba la línea «Coupon applied» antes de pagar. La renovación sale al precio de lista, sin descuento.",
         "¿El cupón de Hostinger vale en la renovación? No: el SONAR20 da 20% en una compra nueva, y la renovación sale al precio de lista. El apartado del SONAR20 explica dónde entra el código.",
         "¿Cómo cancelar la renovación automática de Hostinger? En Facturación, Suscripciones, desactiva el interruptor del servicio; sigue activo hasta el vencimiento. El paso a paso está en el apartado de cómo desactivarla.",
         "¿Hostinger reembolsa la renovación? Sí, dentro de los 30 días del cobro, en hosting y en VPS KVM elegibles; la renovación de dominio no tiene reembolso. Las excepciones están en el apartado del reembolso.",

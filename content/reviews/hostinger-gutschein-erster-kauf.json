@@ -34,7 +34,7 @@
   "metaDescription": "Für Ihren ersten Hostinger-Kauf: SONAR20 gibt 20 % auf den ersten Zeitraum. Die Verlängerung läuft zum Tabellenpreis; wählen Sie die Laufzeit vorher.",
   "publishedAt": "13. November 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -82,7 +82,8 @@
     {
       "heading": "Die erste Bestellung entscheidet über die Laufzeit",
       "paragraphs": [
-        "Die 20 % gelten nur für den ersten Zeitraum, also bestimmt die Laufzeit, die Sie bei der ersten Bestellung wählen, wie lange der Rabatt wirkt. Bei einer Laufzeit von 48 Monaten gilt der Rabatt für den gesamten gebuchten Zeitraum, und die Verlängerung kommt erst an dessen Ende."
+        "Die 20 % gelten nur für den ersten Zeitraum, also bestimmt die Laufzeit, die Sie bei der ersten Bestellung wählen, wie lange der Rabatt wirkt. Bei einer Laufzeit von 48 Monaten gilt der Rabatt für den gesamten gebuchten Zeitraum, und die Verlängerung kommt erst an dessen Ende.",
+        "Bei 1 Monat hängt die Annahme des Codes vom Tarif ab: Prüfen Sie vor der Zahlung die Zeile „Coupon applied“ im Warenkorb; bei 12, 24 und 48 Monaten gelten die 20 %."
       ],
       "comparisonTable": {
         "caption": "Tarif Cloud Startup im Warenkorb, am 13. November 2026, in US-Dollar: Preis ohne den Code und mit SONAR20",
@@ -153,16 +154,34 @@
       "postParagraphs": [
         "Der Link dieses Artikels enthält SONAR20, aber nicht jeder Tarif übernimmt ihn von selbst. Prüfen Sie den Rabatt in der Bestellübersicht; erscheint er dort nicht, geben Sie den Code im Gutscheinfeld ein.",
         "Was der Code bei jedem Tarif abdeckt, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
+      ],
+      "emphasis": "Nach den Warenkorb-Tests lautet die Empfehlung für eine erste Bestellung mit 12, 24 oder 48 Monaten: SONAR20 im Gutscheinfeld eingeben, denn die 20 % gelten für diesen ersten Zeitraum; bei 1 Monat bestätigt nur die Zeile „Coupon applied“ den Rabatt.",
+      "links": [
+        {
+          "label": "SONAR20-Gutschein und Hostinger-Tarife ansehen",
+          "href": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Welchen Rabatt gibt es beim ersten Kauf bei Hostinger? SONAR20 gibt 20 % auf den ersten Zeitraum eines neuen Tarifs. Der Rabatt gilt nicht für die Verlängerung; wählen Sie die Laufzeit und prüfen Sie die Summe im Warenkorb.",
-        "Gilt der Hostinger-Gutschein beim Monatstarif? Ja, in unserem Test bekam auch der Monatstarif die 20 %. Prüfen Sie den Rabatt im Warenkorb für die Laufzeit, die Sie wählen, bevor Sie zahlen.",
+        "Wie lautet der Hostinger-Gutschein? Der Hostinger-Gutschein ist SONAR20, mit 20 % Rabatt auf den ersten Abrechnungszeitraum eines berechtigten Neukaufs: Geben Sie ihn im Feld „Have a coupon code?“ im Warenkorb ein und prüfen Sie vor der Zahlung die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+        "Gilt der Hostinger-Gutschein beim Monatstarif? Das hängt vom Tarif ab. Bei 12, 24 und 48 Monaten gelten die 20 %; bei 1 Monat prüfen Sie vor der Zahlung die Zeile „Coupon applied“ im Warenkorb.",
         "Gibt SONAR20 Rabatt auf die Verlängerung? Nein. Die Verlängerung läuft zum Tabellenpreis, den der Warenkorb unter dem Tarif zeigt.",
         "Gilt der Gutschein für eine Domain? Nicht für die einzelne Domain. Er gilt beim Neukauf von Hosting, VPS, professioneller E-Mail und Reach."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Sie Ihre erste Bestellung mit 12, 24 oder 48 Monaten aufgeben und sich schon fürs Bleiben entschieden haben.",
+      "Sie den Rabatt auf den ersten Zeitraum wollen und vor der Zahlung die Zeile „Coupon applied“ prüfen."
+    ],
+    "skipIf": [
+      "Sie das Hosting 1 Monat testen wollen: Ob der Code angenommen wird, hängt vom Tarif ab, prüfen Sie zuerst den Warenkorb.",
+      "Sie nur verlängern oder eine einzelne Domain registrieren wollen: Beides bekommt keinen Rabatt."
+    ]
+  }
 }

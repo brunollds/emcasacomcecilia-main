@@ -34,7 +34,7 @@
   "metaDescription": "Per il primo acquisto su Hostinger usa SONAR20: 20% di sconto sul primo periodo del piano. Il rinnovo costa il prezzo di listino: scegli prima il periodo.",
   "publishedAt": "13 novembre 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-primeira-compra-capa-it-v2.webp",
@@ -81,7 +81,8 @@
     {
       "heading": "Il primo ordine decide il periodo",
       "paragraphs": [
-        "Il 20% vale solo sul primo periodo, quindi il periodo che scegli al primo ordine decide per quanti mesi lo sconto rende. Un periodo breve serve per provare l'hosting, ma il mese costa di più e il rinnovo arriva presto. Un periodo lungo serve a chi ha già deciso di restare: il 20% vale sull'intero periodo e il rinnovo arriva solo alla fine."
+        "Il 20% vale solo sul primo periodo, quindi il periodo che scegli al primo ordine decide per quanti mesi lo sconto rende. Un periodo breve serve per provare l'hosting, ma il mese costa di più e il rinnovo arriva presto. Un periodo lungo serve a chi ha già deciso di restare: il 20% vale sull'intero periodo e il rinnovo arriva solo alla fine.",
+        "Sul periodo di 1 mese l'accettazione dipende dal piano: controlla la riga «Coupon applied» del carrello prima di pagare; sui periodi di 12, 24 e 48 mesi il 20% si applica."
       ],
       "comparisonTable": {
         "caption": "Piano Cloud Startup da 1 e da 48 mesi nel carrello del sito globale, il 13 novembre 2026: prezzo senza codice e con SONAR20",
@@ -151,16 +152,34 @@
       "postParagraphs": [
         "Il link di questo articolo include SONAR20, ma non ogni piano si apre con il codice applicato. Controlla lo sconto nel riepilogo; se non compare, inserisci il codice nel campo.",
         "Per cosa copre il codice in ogni piano, vedi [come usare il coupon Hostinger](/it/reviews/coupon-hostinger-codice-invito)."
+      ],
+      "emphasis": "Dai test sul carrello, per un primo ordine da 12, 24 o 48 mesi la scelta è inserire SONAR20 nel campo coupon, perché il 20% vale su quel primo periodo; sul periodo di 1 mese solo la riga «Coupon applied» lo conferma.",
+      "links": [
+        {
+          "label": "Vedi il coupon SONAR20 e i piani Hostinger",
+          "href": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Che sconto c'è sul primo acquisto da Hostinger? SONAR20 dà il 20% sul primo periodo di un piano nuovo. Lo sconto non si estende al rinnovo; scegli il periodo e controlla il totale nel carrello.",
-        "Il coupon Hostinger vale sul piano mensile? Nel nostro test, sì: anche il piano di 1 mese ha ricevuto il 20%. Controlla lo sconto nel carrello per il periodo che scegli, prima di pagare.",
+        "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inseriscilo nel campo «Have a coupon code?» del carrello e controlla la riga «Coupon applied» prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
+        "Il coupon Hostinger vale sul piano mensile? Dipende dal piano. Sui periodi di 12, 24 e 48 mesi il 20% si applica; su quello di 1 mese, controlla la riga «Coupon applied» del carrello prima di pagare.",
         "SONAR20 dà sconto sul rinnovo? No. Il rinnovo costa il prezzo di listino, che il carrello mostra sotto il piano.",
         "Il coupon vale per i domini? Non per il dominio singolo. Vale sugli acquisti nuovi di hosting, VPS, e-mail professionale e Reach."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "fai il primo ordine su un periodo di 12, 24 o 48 mesi e hai già deciso di restare.",
+      "vuoi lo sconto sul primo periodo e controllerai la riga «Coupon applied» prima di pagare."
+    ],
+    "skipIf": [
+      "vuoi provare l'hosting per 1 mese: l'accettazione del codice dipende dal piano, quindi controlla prima il carrello.",
+      "ti serve solo rinnovare o registrare un dominio singolo: nessuno dei due ha lo sconto."
+    ]
+  }
 }

@@ -34,7 +34,7 @@
   "metaDescription": "Il codice SONAR20 dà il 20% su un piano nuovo di Hostinger; il rinnovo costa il prezzo di listino. Quanto costa rinnovare ogni piano e il rimborso.",
   "publishedAt": "5 novembre 2026",
   "publishedAtISO": "2026-11-05",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -44,12 +44,12 @@
   "imageAspect": "landscape",
   "decision": {
     "takeIf": [
-      "Leggila se hai già un hosting o un VPS su Hostinger e vuoi decidere il rinnovo prima dell'addebito.",
-      "Leggila se hai più servizi nell'account e vuoi sapere cosa si rinnova, cosa spegnere e cosa resta fuori, come il dominio."
+      "hai già un hosting o un VPS su Hostinger e vuoi decidere il rinnovo prima dell'addebito.",
+      "hai più servizi nell'account e vuoi sapere cosa si rinnova, cosa spegnere e cosa resta fuori, come il dominio."
     ],
     "skipIf": [
-      "Salta la guida se vuoi solo sottoscrivere il primo piano: quella sul coupon risponde meglio.",
-      "Salta la guida se devi solo rinnovare un dominio: quella sul dominio risponde meglio."
+      "vuoi solo sottoscrivere il primo piano: la guida sul coupon risponde meglio.",
+      "devi solo rinnovare un dominio: la guida sul dominio risponde meglio."
     ]
   },
   "pros": [],
@@ -247,11 +247,12 @@
       "postParagraphs": [
         "Lascia attivo il rinnovo automatico per i servizi che vuoi continuare a pagare al prezzo indicato. Se preferisci decidere prima di ogni addebito, disattivalo e annota il termine per rinnovare manualmente. Controlla separatamente ogni servizio, domini compresi."
       ],
-      "emphasis": "Il rinnovo si decide con calma, prima che arrivi l'addebito, e non il giorno della scadenza."
+      "emphasis": "Secondo le regole di Hostinger, per chi è già cliente la scelta è decidere prima dell’addebito automatico cosa rinnovare e per quanto tempo, perché SONAR20 non vale sul rinnovo, che si paga a prezzo di listino."
     },
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Qual è il codice sconto di Hostinger? Il codice sconto di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo «Have a coupon code?» del carrello e controlla la riga «Coupon applied» prima di pagare. Il rinnovo costa il prezzo di listino, senza sconto.",
         "Il coupon di Hostinger vale sul rinnovo? No: il SONAR20 dà il 20% su un acquisto nuovo, e il rinnovo costa il prezzo di listino. Il capitolo sul SONAR20 spiega dove entra il codice.",
         "Come annullare il rinnovo automatico di Hostinger? In Fatturazione, Abbonamenti, spegni l'interruttore del servizio; resta attivo fino alla scadenza. Il passo per passo è nel capitolo su come spegnerlo.",
         "Hostinger rimborsa il rinnovo? Sì, entro 30 giorni dall'addebito, per l'hosting e il VPS KVM idonei; il rinnovo del dominio non è rimborsabile. Le eccezioni sono nel capitolo sul rimborso.",

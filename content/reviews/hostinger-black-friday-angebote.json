@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger Black Friday: SONAR20 gibt 20 % extra auf berechtigte neue Tarife. Vergleichen Sie Gesamtbetrag und Verlängerung; beim Monatstarif prüfen.",
   "publishedAt": "19. Oktober 2026",
   "publishedAtISO": "2026-10-19",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -46,14 +46,14 @@
     {
       "heading": "Kurzantwort",
       "paragraphs": [
-        "Der Black Friday von Hostinger hat schon begonnen und läuft bis zum 14. Dezember 2026. Der Aktionspreis gilt automatisch, und der Code **SONAR20** gibt 20 % extra auf neue berechtigte Tarife. Beim KVM 1 mit 24 Monaten sank der Gesamtbetrag von 155,76 US$ auf 124,61 US$. Vergleichen Sie vor der Wahl der Laufzeit den Anfangsbetrag und die Verlängerung."
+        "Der Black Friday von Hostinger hat schon begonnen und läuft bis zum 14. Dezember 2026. Der Aktionspreis gilt automatisch, und der Code **SONAR20** gibt 20 % extra auf neue berechtigte Tarife. Beim Cloud Startup mit 48 Monaten sank der Gesamtbetrag von 383,52 US$ auf 306,82 US$. Bei 1-Monats-Tarifen hängt die Annahme des Codes vom Tarif ab: Prüfen Sie vor dem Bezahlen im Warenkorb die Zeile „Coupon applied“. Vergleichen Sie vor der Wahl der Laufzeit den Anfangsbetrag und die Verlängerung."
       ]
     },
     {
       "heading": "Hat der Black Friday von Hostinger schon begonnen?",
       "paragraphs": [
         "Ja. Die offizielle FAQ von Hostinger sagt: „Die Black-Friday-Aktion von Hostinger läuft vom 19. Oktober bis zum 14. Dezember 2026.“ Die globale Seite auf Englisch nennt dasselbe Datum.",
-        "Am 16. November 2026 zeigt die globale Seite bis zu 85 % Rabatt auf Webhosting und bis zu 70 % auf VPS. Das sind die Bannerzahlen, berechnet auf den vollen Preis jedes Tarifs. Was Sie Tarif für Tarif tatsächlich zahlen, steht in den Tabellen unten."
+        "Am 23. November 2026 zeigt die globale Seite bis zu 85 % Rabatt auf Webhosting und bis zu 67 % auf VPS. Das sind die Bannerzahlen, berechnet auf den vollen Preis jedes Tarifs. Was Sie Tarif für Tarif tatsächlich zahlen, steht in den Tabellen unten."
       ]
     },
     {
@@ -93,7 +93,14 @@
       },
       "postParagraphs": [
         "Die Preise stammen von der globalen englischen Website von Hostinger, gelesen am 16. November 2026, in Dollar. Der Warenkorb zeigte vor der Eingabe der Rechnungsadresse eine geschätzte Steuer von 0 %, am Ende kann also noch lokale Steuer hinzukommen. Eine Umrechnung in eine andere Währung ist nur eine Schätzung. Der Gesamtbetrag mit SONAR20 ist der Gesamtbetrag des Zeitraums minus 20 %, auf den Cent gerundet. Wer über das gerundete Monatsäquivalent rechnet, landet bei einigen Cent Abweichung, die nicht zur Abbuchung passt.",
-        "Wir haben ohne Anmeldung im Warenkorb geprüft: den KVM 1 mit 24 Monaten am 16. November 2026, von 155,76 US$ auf 124,61 US$ mit dem angewendeten Gutschein SONAR20, und den Cloud Startup mit 48 Monaten am 7. November 2026, von 383,52 US$ auf 306,82 US$. Bei den übrigen Tarifen ist der Wert in der Spalte dieselbe Rechnung mit 20 % auf den Gesamtbetrag, den die Seite zeigt. Der Warenkorb zeigt den Rabatt vor der Zahlung: Prüfen Sie Ihren."
+        "Wir haben ohne Anmeldung im Warenkorb den Cloud Startup mit 48 Monaten geprüft: Der Gesamtbetrag sank von 383,52 US$ auf 306,82 US$, mit der Zeile „Coupon savings applied: 76,70 US$“. Bei den übrigen Tarifen ist der Wert in der Spalte dieselbe Rechnung mit 20 % auf den Gesamtbetrag, den die Seite zeigt. Der Warenkorb zeigt den Rabatt vor der Zahlung: Prüfen Sie Ihren."
+      ],
+      "links": [
+        {
+          "label": "SONAR20-Gutschein und Hostinger-Tarife ansehen",
+          "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -102,7 +109,7 @@
         "Beim VPS ist die Laufzeit der Aktion, die wir gelesen haben, die mit 24 Monaten, ebenfalls auf einmal berechnet."
       ],
       "comparisonTable": {
-        "caption": "Globale Website von Hostinger auf Englisch, in Dollar, Mitte November gelesen, beim Tarif mit 24 Monaten Laufzeit. Im Warenkorb geprüft haben wir den KVM 1; bei den anderen ist der Gesamtbetrag mit SONAR20 die Rechnung mit 20 % auf den Gesamtbetrag der Seite.",
+        "caption": "Globale Website von Hostinger auf Englisch, in Dollar, Mitte November gelesen, beim Tarif mit 24 Monaten Laufzeit. Bei allen Tarifen ist der Gesamtbetrag mit SONAR20 die Rechnung mit 20 % auf den Gesamtbetrag der Seite.",
         "headers": [
           "Tarif",
           "Gesamtbetrag ohne SONAR20",
@@ -137,7 +144,7 @@
         ]
       },
       "postParagraphs": [
-        "**Kürzere Laufzeiten.** Beim KVM 1 kosteten mit SONAR20 24 Monate 124,61 US$ (5,19 US$ pro Monat, Verlängerung zu 11,99 US$ pro Monat), 12 Monate 67,10 US$ (5,59 US$ pro Monat, Verlängerung zu 12,99 US$ pro Monat) und 1 Monat 7,99 US$ (Verlängerung zu 19,49 US$ pro Monat). Eine kürzere Laufzeit kostet pro Monat mehr und verlängert sich teurer. In einem Premium-Warenkorb einer anderen regionalen Seite wurde der Code am selben Tag bei 12, 24 und 48 Monaten angenommen und beim 1-Monats-Tarif abgelehnt, der keinen Aktionspreis hatte. Wer monatlich zahlen möchte, testet den Code im Warenkorb, bevor er mit ihm rechnet."
+        "**Kürzere Laufzeiten.** Eine kürzere Laufzeit kostet pro Monat mehr und verlängert sich teurer: Vergleichen Sie den Monatspreis und die Verlängerung in der Verlängerungstabelle weiter unten. Bei 12, 24 und 48 Monaten greifen die 20 %; bei 1-Monats-Tarifen hängt die Annahme des Codes vom Tarif ab, prüfen Sie also vor dem Bezahlen im Warenkorb die Zeile „Coupon applied“."
       ]
     },
     {
@@ -255,7 +262,8 @@
         "Wenn Ihre Website diese Woche online gehen soll, vergleichen Sie den aktuellen Gesamtbetrag mit und ohne SONAR20 sowie den Verlängerungspreis. Der Code senkt den Aktionspreis. Das garantiert keinen Tiefstpreis bis zum Ende des Black Friday.",
         "Wenn Sie warten können, bedenken Sie: Die Aktion läuft bis Mitte Dezember, aber bis dahin ist kein Preis garantiert. Die 20 % von SONAR20 werden vom Aktionspreis abgezogen: Ändert sich die Aktion, ändert sich auch die Summe.",
         "Wenn Sie schon Kunde sind, prüfen Sie die Upgrade-Angebote in Ihrem Konto: Laut FAQ können Bestandskunden gesonderte Angebote erhalten. SONAR20 gilt auch für einen neuen berechtigten Tarif."
-      ]
+      ],
+      "emphasis": "Nach den Zahlen der Tabellen ist für alle, die eine Website 48 Monate behalten, der Tarif mit dem niedrigsten Gesamtbetrag mit SONAR20 die richtige Wahl, der schon bietet, was das Projekt braucht, denn die Verlängerung kostet 10,99 bis 25,99 US$ pro Monat und wird ohne Rabatt berechnet."
     },
     {
       "heading": "So prüfen Sie vor dem Bezahlen nach",
@@ -273,14 +281,14 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Wann beginnt der Black Friday von Hostinger und wie lange dauert er? Er hat schon begonnen und läuft bis Mitte Dezember; die genauen Daten stehen in der Kurzantwort am Anfang des Artikels. Die globale Seite zeigt bis zu 85 % Rabatt auf Webhosting und bis zu 70 % auf VPS.",
-        "Gibt es zum Black Friday von Hostinger einen Gutschein? Der Aktionspreis gilt automatisch, und der Code SONAR20 gibt im Gutscheinfeld des Warenkorbs 20 % extra auf neue berechtigte Tarife.",
+        "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20 % Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Warenkorb in das Feld „Have a coupon code?“ ein und prüfen Sie vor dem Bezahlen die Zeile „Coupon applied“. Die Verlängerung läuft zum Tabellenpreis, ohne Rabatt.",
+        "Wann beginnt der Black Friday von Hostinger und wie lange dauert er? Er hat schon begonnen und läuft bis Mitte Dezember; die genauen Daten stehen in der Kurzantwort am Anfang des Artikels. Die globale Seite zeigt bis zu 85 % Rabatt auf Webhosting und bis zu 67 % auf VPS.",
         "Welchen Hostinger-Tarif sollte ich zum Black Friday kaufen? Für bis zu drei WordPress- oder PHP-Websites Premium. Für Node.js oder viele Websites Unlimited. Für viel Traffic Cloud Startup. Den Single-Tarif gibt es nur dort, wo er verkauft wird. Einen VPS nur, wenn Sie root-Zugriff, Programme außerhalb des Panels oder reservierten Speicher brauchen.",
         "Läuft Node.js im Premium-Tarif von Hostinger? Nein. Laut der Dokumentation zu den Limits von Hostinger beginnen Node.js-Websites bei Unlimited, mit bis zu 5, und bei den Cloud-Tarifen, mit bis zu 10.",
         "Welcher Hostinger-VPS eignet sich für OpenClaw? Bei einem Modell, das per API genutzt wird, ist der KVM 1 ein Ausgangspunkt. Wenn Sie das Modell auf dem eigenen Server ausführen, hängt die Wahl von Modell, Kontext und verfügbarem Arbeitsspeicher ab: Lesen Sie vor dem Abschluss den OpenClaw-Leitfaden.",
         "Gilt der Black-Friday-Preis auch bei der Verlängerung? Nein. Er gilt für den ersten Zeitraum des Abonnements. Die Verlängerung kostet den normalen Preis des Tarifs.",
         "Gilt SONAR20 zusammen mit dem Black-Friday-Preis? Ja: Bei neuen berechtigten Tarifen werden die 20 % vom Aktionspreis abgezogen. Da sich der Preis ändert, prüfen Sie die Summe im Warenkorb.",
-        "Gilt SONAR20 beim Tarif mit 1 Monat Laufzeit? Das hängt vom Tarif ab. Bei unseren Tests Mitte November wurde der Code beim KVM 1 mit 1 Monat angenommen und bei einem Premium mit 1 Monat auf einer anderen regionalen Seite abgelehnt. Testen Sie ihn in Ihrem Warenkorb, bevor Sie zahlen.",
+        "Gilt SONAR20 beim 1-Monats-Tarif? Das hängt vom Tarif ab. Bei 12, 24 und 48 Monaten greifen die 20 %; bei 1-Monats-Tarifen hängt die Annahme des Codes vom Tarif ab, prüfen Sie also vor dem Bezahlen im Warenkorb die Zeile „Coupon applied“.",
         "Gilt die Geld-zurück-Garantie am Black Friday? Laut FAQ haben berechtigte Tarife eine 30-Tage-Garantie, mit Bedingungen und Ausschlüssen. Was sie ausschließt, steht in [Ist Hostinger zuverlässig?](/de/reviews/ist-hostinger-serioes).",
         "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, wenn Sie einen neuen berechtigten Tarif abschließen. SONAR20 senkt weder die Verlängerung Ihres aktuellen Tarifs noch die reine Domainregistrierung. Prüfen Sie die Anwendung für den gewählten Tarif und die gewählte Laufzeit."
       ]
@@ -319,13 +327,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Sie schließen einen neuen Tarif ab und haben die Laufzeit danach gewählt, wie lange Sie das Projekt behalten wollen.",
+      "Sie einen neuen Tarif abschließen und die Laufzeit danach gewählt haben, wie lange Sie das Projekt behalten wollen.",
       "Sie wissen, welcher Tarif zu Ihrem Projekt passt: Premium für WordPress, Unlimited oder Cloud für Node.js.",
-      "Sie haben den Verlängerungspreis geprüft, und er passt nach dem ersten Zeitraum in Ihr Budget."
+      "Sie den Verlängerungspreis schon geprüft haben und er nach dem ersten Zeitraum ins Budget passt."
     ],
     "skipIf": [
-      "Sie wollen nur einen Tarif verlängern, den Sie schon haben: Weder die Aktion noch SONAR20 gelten bei der Verlängerung.",
-      "Sie wollen monatlich zahlen: Die niedrigsten Aktionspreise gibt es bei den langen Laufzeiten."
+      "Sie nur einen vorhandenen Tarif verlängern wollen: Weder die Aktion noch SONAR20 gelten für die Verlängerung.",
+      "Sie monatlich zahlen wollen: Bei 1-Monats-Tarifen hängt der Code vom Tarif ab, testen Sie ihn vorher im Warenkorb."
     ]
   }
 }

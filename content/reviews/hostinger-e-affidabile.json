@@ -34,7 +34,7 @@
   "metaDescription": "Hostinger è affidabile? Scopri chi addebita, il rimborso di 30 giorni e le eccezioni, il rinnovo automatico a un prezzo nuovo e cosa controllare prima di acquistare.",
   "publishedAt": "19 ottobre 2026",
   "publishedAtISO": "2026-10-19",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -160,23 +160,13 @@
       "heading": "Quando Hostinger va bene, e quando no",
       "paragraphs": [
         "Per un blog, un sito personale o un piccolo negozio, Hostinger offre il servizio con regole chiare; il rimborso di 30 giorni dipende dall'idoneità del prodotto e non vale come prova gratuita per tutti i prodotti. Se il sito non può andare offline, sappi quanto vale il 99,9% della pagina dei prezzi: il contratto di hosting promette questo minimo ogni mese e, quando non lo rispetta, un credito del 5% del canone mensile, da richiedere entro 30 giorni; non copre ciò che hai smesso di vendere. Se il tuo dubbio è il Black Friday, la [guida alla campagna](/it/reviews/black-friday-hostinger-offerte) ha le date e le regole di ogni offerta."
-      ]
+      ],
+      "emphasis": "In base alle sue regole pubbliche, Hostinger va bene per un blog, un sito personale o un piccolo negozio, purché prima di pagare si controlli cosa copre il rimborso di 30 giorni e il prezzo del rinnovo, attivo per impostazione predefinita."
     },
     {
       "heading": "Dove vedere i piani",
       "paragraphs": [
-        "Il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, per clienti nuovi o già esistenti. Se ha senso per il tuo sito, il codice e i piani sono nella [pagina di Hostinger su questo sito](/it/coupons/hostinger)."
-      ]
-    },
-    {
-      "heading": "Domande frequenti",
-      "bullets": [
-        "Hostinger è affidabile? Sì. La nostra esperienza con hosting e assistenza è stata positiva. Prima di acquistare, controlla l'idoneità al rimborso, il prezzo del rinnovo e l'azienda indicata al pagamento; dimensioni e politiche pubbliche non sostituiscono queste verifiche.",
-        "Hostinger rimborsa? Sì, entro 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo di dominio e i servizi di assistenza a pagamento non vengono rimborsati.",
-        "Il rinnovo di Hostinger è automatico? Sì, per impostazione predefinita. Puoi disattivarlo nell'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
-        "Chi addebita su Hostinger? Dipende dal paese. L'azienda contraente segue la sezione 2 dei termini, e anche altre società del gruppo possono addebitare. Controlla il nome mostrato al checkout.",
-        "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. I 20% valgono sull'acquisto nuovo di un piano (la registrazione di domini è esclusa); il rinnovo si paga al prezzo di listino, senza sconto.",
-        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un servizio nuovo (registrazione di domini esclusa) ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+        "Il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, per clienti nuovi o già esistenti. Se ha senso per il tuo sito, il codice e i piani sono nella [pagina di Hostinger su questo sito](/it/coupons/hostinger). Sui cicli da 12, 24 e 48 mesi il 20% si applica; sui piani da 1 mese l'accettazione dipende dal piano, quindi controlla la riga «Coupon applied» nel carrello prima di pagare."
       ]
     },
     {
@@ -187,6 +177,17 @@
         "Disattiva il rinnovo automatico subito dopo l'acquisto, se non vuoi che continui.",
         "Controlla al checkout e in fattura quale azienda compare come emittente.",
         "Cerca la garanzia di disponibilità nel documento del tuo piano."
+      ]
+    },
+    {
+      "heading": "Domande frequenti",
+      "bullets": [
+        "Qual è il codice sconto di Hostinger? Il codice sconto di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo «Have a coupon code?» del carrello e controlla la riga «Coupon applied» prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
+        "Hostinger è affidabile? Sì. La nostra esperienza con hosting e assistenza è stata positiva. Prima di acquistare, controlla l'idoneità al rimborso, il prezzo del rinnovo e l'azienda indicata al pagamento; dimensioni e politiche pubbliche non sostituiscono queste verifiche.",
+        "Hostinger rimborsa? Sì, entro 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo di dominio e i servizi di assistenza a pagamento non vengono rimborsati.",
+        "Il rinnovo di Hostinger è automatico? Sì, per impostazione predefinita. Puoi disattivarlo nell'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
+        "Chi addebita su Hostinger? Dipende dal paese. L'azienda contraente segue la sezione 2 dei termini, e anche altre società del gruppo possono addebitare. Controlla il nome mostrato al checkout.",
+        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un servizio nuovo (registrazione di domini esclusa) ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]
     }
   ],
@@ -201,6 +202,16 @@
   "coupon": "SONAR20",
   "affiliate": "hostinger",
   "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono far guadagnare una commissione a Bruno, senza costi extra per te. Hostinger ospita questo sito.",
+  "decision": {
+    "takeIf": [
+      "hai un blog, un sito personale o un piccolo negozio e vuoi regole pubbliche di rimborso e di rinnovo.",
+      "accetti di controllare il prodotto coperto dal rimborso e il prezzo del rinnovo prima di pagare."
+    ],
+    "skipIf": [
+      "il tuo sito non può andare offline e ti aspetti un compenso per le vendite perse.",
+      "conti su una prova gratuita per ogni prodotto: il rimborso dipende dall'idoneità."
+    ]
+  },
   "relatedArticles": [
     {
       "slug": "hostinger-recensioni-trustpilot"

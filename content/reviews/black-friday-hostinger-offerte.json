@@ -34,7 +34,7 @@
   "metaDescription": "Black Friday Hostinger: SONAR20 dà un 20% extra sui piani idonei. Confronta totale iniziale e rinnovo; nel ciclo mensile, controlla l'applicazione.",
   "publishedAt": "19 ottobre 2026",
   "publishedAtISO": "2026-10-19",
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -46,14 +46,14 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Il Black Friday di Hostinger va fino al 14 dicembre 2026. Il prezzo della campagna si applica da solo e il codice **SONAR20** dà un altro 20% sui nuovi piani idonei. Sul KVM 1 da 24 mesi il totale è passato da US$ 155,76 a US$ 124,61. Confronta il totale iniziale e il rinnovo prima di scegliere la durata."
+        "Il Black Friday di Hostinger va fino al 14 dicembre 2026. Il prezzo della campagna si applica da solo e il codice **SONAR20** dà un altro 20% sui nuovi piani idonei. Sul Cloud Startup da 48 mesi il totale è passato da US$ 383,52 a US$ 306,82. Sui piani da 1 mese l'accettazione del codice dipende dal piano: controlla la riga «Coupon applied» nel carrello prima di pagare. Confronta il totale iniziale e il rinnovo prima di scegliere la durata."
       ]
     },
     {
       "heading": "Il Black Friday di Hostinger è già iniziato?",
       "paragraphs": [
         "È già iniziato. La FAQ ufficiale di Hostinger dice: «La promozione Black Friday di Hostinger si svolge dal 19 ottobre al 14 dicembre 2026». La pagina globale in inglese riporta la stessa data.",
-        "Il 16 novembre 2026 i banner della pagina globale indicavano fino all'85% di sconto sull'hosting e fino al 70% sui VPS. Sono le cifre dei banner, calcolate sul prezzo pieno di ogni piano: quello che paghi, piano per piano, è nelle tabelle qui sotto."
+        "Il 23 novembre 2026 la pagina globale mostra fino all'85% di sconto sull'hosting e fino al 67% sui VPS. Sono le cifre dei banner, calcolate sul prezzo pieno di ogni piano: quello che paghi, piano per piano, è nelle tabelle qui sotto."
       ]
     },
     {
@@ -93,7 +93,14 @@
       "postParagraphs": [
         "Alcune pagine regionali vendono il piano Single (1 sito, 10 GB); la pagina globale in inglese non lo mostrava il 16 novembre 2026, per questo non è nelle tabelle.",
         "I prezzi sono quelli del sito globale in inglese il 16 novembre 2026, in dollari. Prima dell'inserimento dell'indirizzo di fatturazione il carrello mostrava un'imposta stimata dello 0%, quindi l'imposta locale può essere aggiunta dopo. Convertire in un'altra valuta dà solo una stima. Il totale con SONAR20 è il totale del periodo meno il 20%, arrotondato al centesimo. Calcolarlo dalla mensilità arrotondata dà qualche centesimo di differenza e non coincide con l'addebito.",
-        "Abbiamo controllato il carrello, senza accedere all'account: il VPS KVM 1 da 24 mesi il 16 novembre 2026 è passato da US$ 155,76 a US$ 124,61, con il coupon applicato SONAR20, e il Cloud Startup da 48 mesi il 7 novembre 2026 da US$ 383,52 a US$ 306,82. Per gli altri piani il valore in tabella è lo stesso calcolo del 20% sul totale mostrato dalla pagina. Il carrello mostra lo sconto prima del pagamento: controlla il tuo."
+        "Abbiamo controllato il carrello, senza accedere all'account, sul Cloud Startup da 48 mesi: il totale è passato da US$ 383,52 a US$ 306,82, con la riga «Coupon savings applied: US$ 76,70». Per gli altri piani il valore in tabella è lo stesso calcolo del 20% sul totale mostrato dalla pagina. Il carrello mostra lo sconto prima del pagamento: controlla il tuo."
+      ],
+      "links": [
+        {
+          "label": "Vedi il codice SONAR20 e i piani Hostinger",
+          "href": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -102,7 +109,7 @@
         "Sul VPS, il periodo di campagna che abbiamo letto è quello da 24 mesi, anch'esso addebitato in un'unica soluzione."
       ],
       "comparisonTable": {
-        "caption": "Sito globale di Hostinger in inglese, in dollari, letto a metà novembre, sul piano da 24 mesi. Abbiamo controllato nel carrello il KVM 1; per gli altri, il totale con SONAR20 è il calcolo del 20% sul totale della pagina.",
+        "caption": "Sito globale di Hostinger in inglese, in dollari, letto a metà novembre, sul piano da 24 mesi. Per tutti i piani, il totale con SONAR20 è il calcolo del 20% sul totale della pagina.",
         "headers": [
           "Piano",
           "Totale senza SONAR20",
@@ -137,7 +144,7 @@
         ]
       },
       "postParagraphs": [
-        "**Cicli più brevi.** Sul KVM 1, con SONAR20, 24 mesi sono costati US$ 124,61 (US$ 5,19 al mese, rinnovo a US$ 11,99 al mese), 12 mesi US$ 67,10 (US$ 5,59 al mese, rinnovo a US$ 12,99 al mese) e 1 mese US$ 7,99 (rinnovo a US$ 19,49 al mese). Un periodo più breve costa di più al mese e si rinnova a un prezzo più alto. In un carrello del Premium di un altro negozio regionale, lo stesso giorno, il codice è stato accettato a 12, 24 e 48 mesi ed è stato rifiutato sul piano da 1 mese, che non aveva un prezzo di campagna. Se vuoi pagare mese per mese, prova il codice nel carrello prima di contarci."
+        "**Cicli più brevi.** Un periodo più breve costa di più al mese e si rinnova a un prezzo più alto: confronta il prezzo mensile e il rinnovo nella tabella del rinnovo qui sotto. A 12, 24 e 48 mesi il 20% entra; sui piani da 1 mese l'accettazione del codice dipende dal piano, quindi controlla la riga «Coupon applied» nel carrello prima di pagare."
       ]
     },
     {
@@ -255,7 +262,8 @@
         "Se ti serve il sito online questa settimana, confronta il totale disponibile adesso, con e senza SONAR20, e il prezzo di rinnovo. Il codice riduce il prezzo della campagna; questo non garantisce che il valore sarà il più basso fino alla fine del Black Friday.",
         "Se puoi aspettare, tieni presente che la campagna dura fino a metà dicembre, ma nessun prezzo è garantito fino ad allora. Il 20% di SONAR20 si toglie dal prezzo della campagna: se la campagna cambia, cambia anche il totale.",
         "Se sei già cliente, controlla le offerte di upgrade del tuo account: la FAQ dice che i clienti attuali possono ricevere offerte separate. SONAR20 vale anche per un piano nuovo."
-      ]
+      ],
+      "emphasis": "Dai numeri delle tabelle, per chi tiene un sito 48 mesi, la scelta è il piano con il totale più basso con SONAR20 che abbia già ciò che serve al progetto, perché il rinnovo, da US$ 10,99 a US$ 25,99 al mese, si paga senza sconto."
     },
     {
       "heading": "Come controllare prima di pagare",
@@ -273,14 +281,14 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Quando inizia e quanto dura il Black Friday di Hostinger? È già iniziato e dura fino a metà dicembre; le date esatte sono nella risposta rapida, all'inizio dell'articolo. La pagina globale mostra fino all'85% di sconto sull'hosting e fino al 70% sui VPS.",
-        "Il Black Friday di Hostinger ha un coupon? Il prezzo della campagna si applica da solo, e il codice SONAR20, nel campo coupon del carrello, dà un altro 20% sui nuovi piani idonei.",
+        "Qual è il codice sconto di Hostinger? Il codice sconto di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo «Have a coupon code?» del carrello e controlla la riga «Coupon applied» prima di pagare. Il rinnovo costa il prezzo di listino, senza sconto.",
+        "Quando inizia e quanto dura il Black Friday di Hostinger? È già iniziato e dura fino a metà dicembre; le date esatte sono nella risposta rapida, all'inizio dell'articolo. La pagina globale mostra fino all'85% di sconto sull'hosting e fino al 67% sui VPS.",
         "Quale piano Hostinger comprare nel Black Friday? Per un solo sito, il Single, dove è venduto. Per fino a tre siti WordPress o PHP, il Premium. Per Node.js o molti siti, l'Unlimited. Per traffico alto, il Cloud Startup. Il VPS solo se ti serve root, programmi fuori dal pannello o memoria riservata.",
         "Il piano Premium di Hostinger fa girare Node.js? No. Secondo la documentazione sui limiti di Hostinger, i siti Node.js iniziano dall'Unlimited, con fino a 5, e nei piani Cloud, con fino a 10.",
         "Quale VPS Hostinger va bene per OpenClaw? Con un modello accessibile tramite chiave API, il KVM 1 è un punto di partenza; per eseguire il modello sul tuo server, la scelta dipende dal modello, dal contesto e dalla memoria disponibile: guarda la guida a OpenClaw prima di sottoscrivere.",
         "Il prezzo del Black Friday continua al rinnovo? No. Vale per il periodo iniziale dell'abbonamento. Il rinnovo costa il prezzo normale del piano.",
         "SONAR20 vale insieme al prezzo del Black Friday? Sì, sui nuovi piani idonei: il 20% si toglie dal prezzo della campagna. Poiché il prezzo cambia, controlla il totale nel carrello.",
-        "SONAR20 vale sul piano da 1 mese? Dipende dal piano. Nei nostri test di metà novembre, il codice è stato accettato sul KVM 1 da 1 mese ed è stato rifiutato su un Premium da 1 mese di un altro negozio regionale. Prova nel tuo carrello prima di pagare.",
+        "SONAR20 vale sul piano da 1 mese? Dipende dal piano. A 12, 24 e 48 mesi il 20% entra; sui piani da 1 mese l'accettazione del codice dipende dal piano, quindi controlla la riga «Coupon applied» nel carrello prima di pagare.",
         "La garanzia di rimborso vale nel Black Friday? La FAQ dice che i piani idonei hanno una garanzia di 30 giorni, con termini ed esclusioni. Cosa resta fuori è in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile).",
         "SONAR20 vale per chi è già cliente di Hostinger? Sì, se sottoscrivi un nuovo piano idoneo. SONAR20 non sconta il rinnovo del piano attuale né la registrazione di un dominio da solo. Controlla l'applicazione sul piano e sul periodo scelti."
       ]
@@ -319,13 +327,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Sottoscrivi un piano nuovo e hai già scelto il periodo in base al tempo per cui pensi di tenere il progetto.",
-      "Sai quale piano serve al tuo progetto: Premium per WordPress, Unlimited o Cloud per Node.js.",
-      "Hai già controllato il prezzo di rinnovo e rientra nel tuo budget dopo il primo periodo."
+      "stai per sottoscrivere un piano nuovo e hai già scelto la durata in base a quanto pensi di tenere il progetto.",
+      "sai quale piano fa per il tuo progetto: Premium per WordPress, Unlimited o Cloud per Node.js.",
+      "hai già controllato il prezzo di rinnovo e dopo il primo periodo rientra nel tuo budget."
     ],
     "skipIf": [
-      "Vuoi solo rinnovare un piano che hai già: né la campagna né SONAR20 valgono sul rinnovo.",
-      "Pensi di pagare mese per mese: i prezzi più bassi della campagna sono nei periodi lunghi."
+      "vuoi solo rinnovare un piano che hai già: né la campagna né il SONAR20 valgono sul rinnovo.",
+      "pensi di pagare mese per mese: sui piani da 1 mese il codice dipende dal piano, quindi provalo prima nel carrello."
     ]
   }
 }

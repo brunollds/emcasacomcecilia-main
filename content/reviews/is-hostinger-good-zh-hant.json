@@ -151,7 +151,7 @@
     {
       "heading": "網站主機費用",
       "comparisonTable": {
-        "caption": "11 月 19 日查閱的 Hostinger 國際站價格，未使用 SONAR20。價格可能因地區而異。",
+        "caption": "11 月 23 日查閱的 Hostinger 國際站價格，未使用 SONAR20。價格可能因地區而異。",
         "headers": [
           "方案和首期長度",
           "入門價每月",
@@ -269,18 +269,20 @@
         "如果續訂費超出預算，先到 hPanel 確認能否換方案或調整付款週期。想換服務商的話，建議在到期前安排網站搬遷。",
         "想在決定前和別家比較，[選主機的指南（含 Hostinger）](/zh-hant/reviews/choose-web-host-hostinger-zh-hant)和[Hostinger 還是 GoDaddy](/zh-hant/reviews/hostinger-or-godaddy-zh-hant)都把續訂算了進去。",
         "如果疑問是能不能信任它，[Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant)談了誰來收費，以及主機和 VPS 30 天退款是怎麼運作的；它在第三方平台上的口碑有[專門的一篇](/zh-hant/reviews/hostinger-trustpilot-reviews-zh-hant)。"
-      ]
+      ],
+      "emphasis": "依表格數字，Premium 48 個月方案首期月費為 US$ 1.99，續訂月費為 US$ 10.99，約為 5.5 倍：Hostinger 適合從購買當天就把續訂價格算進去的人。"
     },
     {
       "heading": "SONAR20：在哪裡生效",
       "paragraphs": [
-        "新購符合條件的服務，使用 SONAR20 可享首期 20% 折扣。適用於網站主機、VPS、WordPress 和專業電子郵件。網域和續訂不適用。 現有使用者新購尚未使用的適用產品時，也可以使用此優惠碼。",
+        "新購符合條件的服務，使用 SONAR20 可享首期 20% 折扣。適用於網站主機、VPS、WordPress 和專業電子郵件。網域和續訂不適用。 現有使用者新購尚未使用的適用產品時，也可以使用此優惠碼。 12、24、48 個月的週期可享 20%；1 個月方案是否接受優惠碼取決於方案，付款前請確認購物車裡的「Coupon applied」那一行。",
         "在購物車的 \"Have a coupon code?\" 欄位輸入代碼，或透過[Hostinger 的方案](https://www.hostinger.com/?REFERRALCODE=SONAR20)進入，付款前核對總額。[Hostinger 優惠碼](/zh-hant/coupons/hostinger)頁面有步驟和代碼測試紀錄，[Hostinger 續訂](/zh-hant/reviews/hostinger-renewal-sonar20-zh-hant)則有專門的一篇。"
       ]
     },
     {
       "heading": "常見問題",
       "bullets": [
+        "Hostinger 的優惠碼是什麼？Hostinger 的優惠碼是 SONAR20，符合資格的新購首期可享 20% 折扣：在購物車的「Have a coupon code?」欄輸入代碼，付款前確認「Coupon applied」那一行。續訂按定價計算，沒有折扣。",
         "Hostinger 值得買嗎？ 適合想用低入門價買網站主機、WordPress、郵箱或 VPS，並事先規劃續訂的人；價格章節寫了續訂會漲多少。",
         "Hostinger 適合 WordPress 嗎？ 適合：WordPress 可以裝在主機方案裡，建站那一章依網站數量指出了對應的方案。",
         "Hostinger 可靠嗎？ 對我來說是可靠的：我用著它的四個產品，這個網站也放在上面；誰來收費、退款怎麼運作，見[Hostinger 可靠嗎](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。",
@@ -288,5 +290,6 @@
         "SONAR20 在續訂時有效嗎？ 無效：它只適用於新購買的首期，續訂按標價計算。"
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

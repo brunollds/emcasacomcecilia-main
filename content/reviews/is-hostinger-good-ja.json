@@ -151,7 +151,7 @@
     {
       "heading": "ウェブホスティングの料金",
       "comparisonTable": {
-        "caption": "11月19日に確認したHostinger国際サイトの価格。SONAR20適用前の金額で、地域によって異なります。",
+        "caption": "11月23日に確認したHostinger国際サイトの価格。SONAR20適用前の金額で、地域によって異なります。",
         "headers": [
           "プラン・初回契約期間",
           "初期の月額",
@@ -269,18 +269,20 @@
         "更新料が予算を超えるなら、hPanelでプランや支払期間を変更できるか確認してください。他社に乗り換える場合は、契約が切れる前に移行を計画しましょう。",
         "他社と比べてから決めたいなら、[ウェブホスティングの選び方（Hostingerを含む）](/ja/reviews/choose-web-host-hostinger-ja)と[HostingerとGoDaddyの比較](/ja/reviews/hostinger-or-godaddy-ja)が、更新料まで含めて計算しています。",
         "信頼できるかが気になるなら、[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)に、誰が請求するか、ホスティングとVPSの30日間返金の仕組みを載せています。[第三者サイトでの評価](/ja/reviews/hostinger-trustpilot-reviews-ja)は別の記事にまとめています。"
-      ]
+      ],
+      "emphasis": "表の数字では、Premiumの48か月プランは初回が月US$ 1.99、更新時が月US$ 10.99で、約5.5倍です。Hostingerは、購入の日から更新価格まで見込んでおく人に向いています。"
     },
     {
       "heading": "SONAR20：どこで使えるか",
       "paragraphs": [
-        "SONAR20は、対象サービスを新規契約した場合に初回契約期間が20%オフになるコードです。ホスティング、VPS、WordPress、ビジネスメールに使えます。ドメインと更新は割引対象外です。 すでに利用中でも、まだ契約していない対象製品を申し込むときに使えます。",
+        "SONAR20は、対象サービスを新規契約した場合に初回契約期間が20%オフになるコードです。ホスティング、VPS、WordPress、ビジネスメールに使えます。ドメインと更新は割引対象外です。 すでに利用中でも、まだ契約していない対象製品を申し込むときに使えます。 12か月、24か月、48か月の契約期間では20%が適用されます。1か月プランでは、プランによって受け付けられるかどうかが変わるため、支払い前にカートの「Coupon applied」の行を確認してください。",
         "カートの \"Have a coupon code?\" 欄にコードを入力するか、[Hostingerのプラン](https://www.hostinger.com/?REFERRALCODE=SONAR20)から申し込み、支払い前に合計額を確認してください。[Hostingerのクーポンページ](/ja/coupons/hostinger)に手順とコードのテスト結果があり、[Hostingerの更新](/ja/reviews/hostinger-renewal-sonar20-ja)には専用の記事があります。"
       ]
     },
     {
       "heading": "よくある質問",
       "bullets": [
+        "Hostingerのクーポンコードは何ですか？ HostingerのクーポンコードはSONAR20で、対象となる新規購入の初回期間が20%割引になります。カートの「Have a coupon code?」欄にコードを入れ、支払い前に「Coupon applied」の行を確認してください。更新は通常料金で、割引はありません。",
         "Hostingerは使う価値がありますか？ サイト、WordPress、メール、VPSを安い初期料金で始めたく、更新に備えて計画する人には価値があります。更新でどれだけ上がるかは料金の章に出ています。",
         "HostingerはWordPressに向いていますか？ 向いています。WordPressはホスティングのプランに入れられ、サイト作成の章にサイト数ごとのプランを載せています。",
         "Hostingerは信頼できますか？ 4つの製品を使い、このサイトも置いている私にとっては信頼できます。誰が請求するか、返金の仕組みは[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)にあります。",
@@ -288,5 +290,6 @@
         "SONAR20は更新時にも使えますか？ いいえ。新規購入の初期期間に使えるもので、更新はリスト価格です。"
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

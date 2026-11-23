@@ -34,7 +34,7 @@
   "metaDescription": "Le code SONAR20 donne 20 % sur un nouveau forfait Hostinger ; le renouvellement est au prix catalogue. Voyez le coût de chaque forfait et le remboursement.",
   "publishedAt": "5 novembre 2026",
   "publishedAtISO": "2026-11-05",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -44,12 +44,12 @@
   "imageAspect": "landscape",
   "decision": {
     "takeIf": [
-      "Lisez ce guide si vous avez déjà un hébergement ou un VPS chez Hostinger et voulez trancher sur le renouvellement avant le prélèvement.",
-      "Lisez-le aussi si votre compte compte plusieurs services et que vous voulez savoir ce qui se renouvelle, quoi désactiver et ce qui reste à part, comme le domaine."
+      "vous avez déjà un hébergement ou un VPS chez Hostinger et voulez trancher sur le renouvellement avant le prélèvement.",
+      "votre compte compte plusieurs services et vous voulez savoir ce qui se renouvelle, quoi désactiver et ce qui reste à part, comme le domaine."
     ],
     "skipIf": [
-      "Passez votre chemin si vous voulez seulement souscrire votre premier forfait : le guide du code répond mieux.",
-      "Passez votre chemin si vous devez seulement renouveler un domaine : le guide du domaine répond mieux."
+      "vous voulez seulement souscrire votre premier forfait : le guide du code répond mieux.",
+      "vous devez seulement renouveler un domaine : le guide du domaine répond mieux."
     ]
   },
   "pros": [],
@@ -247,11 +247,12 @@
       "postParagraphs": [
         "Gardez le renouvellement automatique pour les services que vous souhaitez continuer à payer au prix indiqué. Si vous préférez décider avant chaque prélèvement, désactivez-le et notez la date limite pour renouveler manuellement. Vérifiez chaque service séparément, domaines compris."
       ],
-      "emphasis": "Un renouvellement se décide au calme, avant l'arrivée du prélèvement, et non le jour de l'échéance."
+      "emphasis": "Selon les règles d’Hostinger, pour qui est déjà client, le bon choix est de décider avant le prélèvement automatique ce qu’il faut renouveler et pour combien de temps, car SONAR20 ne s’applique pas au renouvellement, facturé au prix catalogue."
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20 % de réduction sur la première période d’un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
         "Le code Hostinger vaut-il au renouvellement ? Non : le SONAR20 donne 20 % sur un nouvel achat, et le renouvellement est facturé au prix catalogue. La section du SONAR20 explique où le code intervient.",
         "Comment annuler le renouvellement automatique de Hostinger ? Dans Facturation, Abonnements, désactivez l'interrupteur du service ; il reste actif jusqu'à l'échéance. Le pas-à-pas est dans la section sur la désactivation.",
         "Hostinger rembourse-t-il le renouvellement ? Oui, dans les 30 jours suivant le prélèvement, pour l'hébergement et le VPS KVM éligibles ; le renouvellement de domaine n'est pas remboursable. Les exceptions sont dans la section du remboursement.",

@@ -46,12 +46,12 @@
   "editorialNote": "Les achats via SONAR20 ou mon lien peuvent me rapporter une commission, sans surcoût pour vous. Les informations sur le créateur de sites par IA, la boutique en ligne et Minecraft viennent de Hostinger.",
   "decision": {
     "takeIf": [
-      "Vous voulez site, WordPress, e-mail et domaine dans le même panneau, et vous savez déjà ce que vous paierez au renouvellement du forfait.",
-      "Vous allez faire tourner une application, une automatisation ou un agent IA et quelqu'un s'occupera du serveur : c'est là que le VPS a du sens."
+      "vous voulez site, WordPress, e-mail et domaine dans le même panneau, et vous savez déjà ce que vous paierez au renouvellement du forfait.",
+      "vous allez faire tourner une application, une automatisation ou un agent IA et quelqu'un s'occupera du serveur : c'est là que le VPS a du sens."
     ],
     "skipIf": [
-      "Votre budget ne tient qu'avec le prix d'appel du forfait le plus long.",
-      "Vous voulez un VPS, mais personne n'entretiendra le serveur : pour un site classique, l'hébergement suffit."
+      "votre budget ne tient qu'avec le prix d'appel du forfait le plus long.",
+      "vous voulez un VPS, mais personne n'entretiendra le serveur : pour un site classique, l'hébergement suffit."
     ]
   },
   "relatedArticles": [
@@ -151,7 +151,7 @@
     {
       "heading": "Tarifs de l’hébergement web",
       "comparisonTable": {
-        "caption": "Tarifs du site international de Hostinger relevés le 19/11, avant application de SONAR20. Ils varient selon la région.",
+        "caption": "Tarifs du site international de Hostinger relevés le 23/11, avant application de SONAR20. Ils varient selon la région.",
         "headers": [
           "Forfait et durée initiale",
           "Prix d'appel par mois",
@@ -269,18 +269,20 @@
         "Si le tarif de renouvellement dépasse votre budget, vérifiez dans hPanel si vous pouvez changer de forfait ou de période de facturation. Si vous changez d’hébergeur, prévoyez la migration avant l’échéance.",
         "Si vous voulez comparer avec une autre entreprise avant de décider, [choisir un hébergeur web](/fr/reviews/choisir-hebergeur-hostinger), qui met Hostinger face à HostGator, et [Hostinger ou GoDaddy](/fr/reviews/hostinger-ou-godaddy-comparatif) font le calcul avec le renouvellement.",
         "Si la question est de savoir si on peut lui faire confiance, [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable) montre qui facture et comment fonctionnent les 30 jours pour demander un remboursement sur l'hébergement et le VPS ; la [réputation sur Trustpilot](/fr/reviews/hostinger-avis-trustpilot) a son propre article."
-      ]
+      ],
+      "emphasis": "D'après le tableau, le Premium sur 48 mois coûte 1,99 US$ par mois à l'entrée et 10,99 US$ au renouvellement, soit environ 5,5 fois plus : Hostinger convient à qui prévoit le tarif de renouvellement dès le jour de l'achat."
     },
     {
       "heading": "SONAR20 : où il s'applique",
       "paragraphs": [
-        "SONAR20 donne 20 % de réduction sur la première période d’un nouvel achat éligible. Il s’applique à l’hébergement, au VPS, à WordPress et à la messagerie professionnelle. Les noms de domaine et les renouvellements sont exclus. Les clients existants peuvent l’utiliser pour souscrire un produit éligible qu’ils n’ont pas encore.",
+        "SONAR20 donne 20 % de réduction sur la première période d’un nouvel achat éligible. Il s’applique à l’hébergement, au VPS, à WordPress et à la messagerie professionnelle. Les noms de domaine et les renouvellements sont exclus. Les clients existants peuvent l’utiliser pour souscrire un produit éligible qu’ils n’ont pas encore. Sur les durées de 12, 24 et 48 mois, les 20 % s'appliquent ; sur les forfaits d'1 mois, l'acceptation dépend du forfait : vérifiez la ligne « Coupon applied » du panier avant de payer.",
         "Saisissez le code dans le panier, dans le champ « Have a coupon code? », ou passez par les [forfaits Hostinger](https://www.hostinger.com/?REFERRALCODE=SONAR20), et vérifiez le total avant de payer. La page du [code promo Hostinger](/fr/coupons/hostinger) donne le pas à pas et les tests du code, et le [renouvellement chez Hostinger](/fr/reviews/hostinger-renouvellement-code-sonar20) a son propre article."
       ]
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
+        "Quel est le code promo Hostinger ? Le code promo Hostinger est SONAR20, avec 20 % de réduction sur la première période d'un nouvel achat éligible : saisissez le code dans le champ « Have a coupon code? » du panier et vérifiez la ligne « Coupon applied » avant de payer. Le renouvellement est facturé au prix catalogue, sans réduction.",
         "Hostinger vaut-il le coup ? Oui pour qui veut un site, WordPress, un e-mail ou un VPS avec un prix d'appel bas et prépare le renouvellement ; le chapitre sur le coût montre de combien il monte.",
         "Hostinger est-il bon pour WordPress ? Oui : WordPress s'installe sur les forfaits d'hébergement, et le chapitre sur la création de site indique le forfait selon le nombre de sites.",
         "Hostinger est-il fiable ? Pour moi, qui utilise quatre de ses produits et héberge ce site chez eux, oui ; qui facture et comment marche le remboursement, c'est dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable).",
@@ -288,5 +290,6 @@
         "SONAR20 s'applique-t-il au renouvellement ? Non : il vaut pour la première période d'un nouvel achat, et le renouvellement se fait au prix catalogue."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

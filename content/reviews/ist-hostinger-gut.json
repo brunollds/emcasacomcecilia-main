@@ -46,12 +46,12 @@
   "editorialNote": "Käufe mit SONAR20 oder über den Link können mir eine Provision einbringen, ohne Mehrkosten für Sie. Die Angaben zum KI-Website-Builder, zum Online-Shop und zu Minecraft stammen von Hostinger.",
   "decision": {
     "takeIf": [
-      "Sie wollen Website, WordPress, E-Mail und Domain in einem Dashboard und wissen schon, was der Tarif bei der Verlängerung kostet.",
-      "Sie betreiben eine Anwendung, eine Automatisierung oder einen KI-Agenten und haben jemanden, der den Server pflegt: Dann ist der VPS sinnvoll."
+      "Sie Website, WordPress, E-Mail und Domain in einem Dashboard wollen und schon wissen, was der Tarif bei der Verlängerung kostet.",
+      "Sie eine Anwendung, eine Automatisierung oder einen KI-Agenten betreiben und jemanden haben, der den Server pflegt: Dann ist der VPS sinnvoll."
     ],
     "skipIf": [
-      "Ihr Budget reicht nur mit dem Einstiegspreis der längsten Laufzeit.",
-      "Sie möchten einen VPS, aber niemand wartet den Server: Für eine normale Website genügt das Hosting."
+      "Ihr Budget nur mit dem Einstiegspreis der längsten Laufzeit aufgeht.",
+      "Sie einen VPS möchten, aber niemand den Server wartet: Für eine normale Website genügt das Hosting."
     ]
   },
   "relatedArticles": [
@@ -151,7 +151,7 @@
     {
       "heading": "Preise für Webhosting",
       "comparisonTable": {
-        "caption": "Preise der internationalen Hostinger-Website vom 19.11., vor Abzug von SONAR20. Die Preise können je nach Region abweichen.",
+        "caption": "Preise der internationalen Hostinger-Website vom 23.11., vor Abzug von SONAR20. Die Preise können je nach Region abweichen.",
         "headers": [
           "Tarif und erste Laufzeit",
           "Einstieg pro Monat",
@@ -269,18 +269,20 @@
         "Falls die Verlängerung Ihr Budget übersteigt, prüfen Sie in hPanel, ob Sie den Tarif oder die Abrechnungsperiode wechseln können. Wenn Sie zu einem anderen Anbieter wechseln, planen Sie den Umzug vor dem Ablauf.",
         "Wenn Sie vor der Entscheidung mit einem anderen Anbieter vergleichen wollen, rechnen [Wie Sie einen Webhoster wählen](/de/reviews/webhoster-waehlen-hostinger) und [Hostinger oder GoDaddy](/de/reviews/hostinger-oder-godaddy) mit der Verlängerung.",
         "Wenn die Frage ist, ob man Hostinger vertrauen kann, zeigt [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes), wer abbucht und wie die 30 Tage für eine Erstattung bei Hosting und VPS funktionieren; der [Ruf auf Trustpilot](/de/reviews/hostinger-trustpilot-bewertungen) hat einen eigenen Artikel."
-      ]
+      ],
+      "emphasis": "Laut Tabelle kostet Premium über 48 Monate beim Einstieg 1,99 US$ im Monat und bei der Verlängerung 10,99 US$, rund das 5,5-Fache: Hostinger lohnt sich für alle, die den Verlängerungspreis ab dem Kauftag einplanen."
     },
     {
       "heading": "SONAR20: wo er gilt",
       "paragraphs": [
-        "SONAR20 gibt 20 % Rabatt auf die erste Laufzeit eines berechtigten Neukaufs. Er gilt für Hosting, VPS, WordPress und geschäftliche E-Mail. Domains und Verlängerungen sind ausgenommen. Bestandskunden können ihn für ein berechtigtes Produkt nutzen, das sie noch nicht gebucht haben.",
+        "SONAR20 gibt 20 % Rabatt auf die erste Laufzeit eines berechtigten Neukaufs. Er gilt für Hosting, VPS, WordPress und geschäftliche E-Mail. Domains und Verlängerungen sind ausgenommen. Bestandskunden können ihn für ein berechtigtes Produkt nutzen, das sie noch nicht gebucht haben. Bei Laufzeiten von 12, 24 und 48 Monaten gelten die 20 %; bei 1-Monats-Tarifen hängt die Annahme vom Tarif ab, prüfen Sie also vor dem Bezahlen die Zeile „Coupon applied“ im Warenkorb.",
         "Geben Sie den Code im Warenkorb im Feld „Have a coupon code?“ ein oder gehen Sie über die [Hostinger-Tarife](https://www.hostinger.com/?REFERRALCODE=SONAR20) und prüfen Sie die Summe vor der Zahlung. Die Seite zum [Hostinger-Gutschein](/de/coupons/hostinger) hat die Schritt-für-Schritt-Anleitung und die Tests des Codes, und die [Verlängerung bei Hostinger](/de/reviews/hostinger-verlaengerung-code-sonar20) hat einen eigenen Artikel."
       ]
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20 % Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Feld „Have a coupon code?“ des Warenkorbs ein und prüfen Sie vor dem Bezahlen die Zeile „Coupon applied“. Die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
         "Lohnt sich Hostinger? Für alle, die Website, WordPress, E-Mail oder einen VPS mit günstigem Einstieg wollen und die Verlängerung einplanen; das Preiskapitel zeigt, wie stark sie steigt.",
         "Ist Hostinger gut für WordPress? Ja: WordPress lässt sich in den Hosting-Tarifen installieren, und das Kapitel zum Erstellen einer Website nennt den Tarif für jede Anzahl Websites.",
         "Ist Hostinger seriös? Für mich, der ich vier Produkte nutze und diese Website dort habe, ja; wer abbucht und wie die Erstattung funktioniert, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes).",
@@ -288,5 +290,6 @@
         "Gilt SONAR20 bei der Verlängerung? Nein: Er gilt für den ersten Zeitraum eines Neukaufs, die Verlängerung kostet den Listenpreis."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

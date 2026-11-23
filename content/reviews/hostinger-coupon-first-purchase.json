@@ -34,7 +34,7 @@
   "metaDescription": "For your first Hostinger purchase, use SONAR20: 20% off the first period of the plan. Renewal is charged at the list price, so pick your term first.",
   "publishedAt": "November 13, 2026",
   "publishedAtISO": "2026-11-13",
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -82,7 +82,8 @@
     {
       "heading": "Your first order decides the term",
       "paragraphs": [
-        "The 20% covers only the first period, so the term you pick on your first order decides how many months the discount covers. A short term suits someone who wants to try the hosting first, and the renewal arrives sooner. A longer term suits someone who has already decided to stay: the 20% applies to the whole period, and renewal only arrives at the end of it."
+        "The 20% covers only the first period, so the term you pick on your first order decides how many months the discount covers. A short term suits someone who wants to try the hosting first, and the renewal arrives sooner. A longer term suits someone who has already decided to stay: the 20% applies to the whole period, and renewal only arrives at the end of it.",
+        "On a 1-month term, acceptance depends on the plan, so check the “Coupon applied” line in the cart before paying; on 12-, 24- and 48-month terms the 20% applies."
       ],
       "comparisonTable": {
         "caption": "Cloud Startup plan in the global-site cart on November 13, 2026: price without the code and with SONAR20",
@@ -153,16 +154,35 @@
           "objectFit": "contain",
           "aspectRatio": 1.829
         }
+      ],
+      "emphasis": "By the cart results, for anyone placing a first order on a 12-, 24- or 48-month term, the right move is to enter SONAR20 in the coupon field, because the 20% applies to that first period; on a 1-month term, only the “Coupon applied” line confirms it.",
+      "links": [
+        {
+          "label": "See the SONAR20 coupon and Hostinger plans",
+          "href": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "What is the discount on a first Hostinger purchase? SONAR20 gives 20% off the first period of a new plan. The discount does not apply to renewal; choose your billing cycle and check the total in the cart.",
+        "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter it in the “Have a coupon code?” field in the cart and check the “Coupon applied” line before paying. Renewal is charged at the list price, without the discount.",
+        "Does the Hostinger coupon work on a monthly plan? It depends on the plan. On 12-, 24- and 48-month terms the 20% applies; on a 1-month term, check the “Coupon applied” line in the cart before paying.",
         "Does SONAR20 give a discount on renewal? No. Renewal is charged at the list price, which the cart shows below the plan.",
         "Does the coupon work on a domain? Not on a standalone domain. It applies to a new purchase of hosting, VPS, professional email and Reach.",
         "Does the 20% last the whole time I have the plan? No. It covers the first period of the term you choose; after that, the renewal price applies."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "you are placing a first order on a 12-, 24- or 48-month term and have already decided to stay.",
+      "you want the discount on the first period and will check the “Coupon applied” line before paying."
+    ],
+    "skipIf": [
+      "you want to try the hosting for 1 month: acceptance of the code depends on the plan, so check the cart first.",
+      "you only need to renew or register a standalone domain: neither gets the discount."
+    ]
+  }
 }

@@ -34,7 +34,7 @@
   "metaDescription": "Der Code SONAR20 gibt 20 % Rabatt auf einen neuen Hostinger-Tarif; die Verlängerung läuft zum Tabellenpreis. Preise je Tarif und Erstattung im Überblick.",
   "publishedAt": "5. November 2026",
   "publishedAtISO": "2026-11-05",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -44,12 +44,12 @@
   "imageAspect": "landscape",
   "decision": {
     "takeIf": [
-      "Lesen Sie weiter, wenn Sie schon Hosting oder einen VPS bei Hostinger haben und die Verlängerung vor der Abbuchung entscheiden wollen.",
-      "Lesen Sie weiter, wenn mehrere Dienste in Ihrem Konto laufen und Sie wissen möchten, was sich verlängert, was Sie ausschalten können und was wie die Domain außen vor bleibt."
+      "Sie schon Hosting oder einen VPS bei Hostinger haben und die Verlängerung vor der Abbuchung entscheiden wollen.",
+      "mehrere Dienste in Ihrem Konto laufen und Sie wissen möchten, was sich verlängert, was Sie ausschalten können und was wie die Domain außen vor bleibt."
     ],
     "skipIf": [
-      "Überspringen Sie den Ratgeber, wenn Sie nur Ihren ersten Tarif abschließen wollen: Der Gutschein-Ratgeber beantwortet das besser.",
-      "Überspringen Sie ihn, wenn Sie nur eine Domain verlängern müssen: Der Domain-Ratgeber beantwortet das besser."
+      "Sie nur Ihren ersten Tarif abschließen wollen: Der Gutschein-Ratgeber beantwortet das besser.",
+      "Sie nur eine Domain verlängern müssen: Der Domain-Ratgeber beantwortet das besser."
     ]
   },
   "pros": [],
@@ -247,11 +247,12 @@
       "postParagraphs": [
         "Lassen Sie die automatische Verlängerung für Dienste aktiv, die Sie zum angegebenen Preis weiterbezahlen möchten. Wollen Sie vor jeder Abbuchung entscheiden, schalten Sie sie aus und notieren Sie die Frist für die manuelle Verlängerung. Prüfen Sie jeden Dienst einzeln, auch Domains."
       ],
-      "emphasis": "Über eine Verlängerung entscheidet man in Ruhe, bevor die Abbuchung kommt, und nicht am Ablauftag."
+      "emphasis": "Nach den Regeln von Hostinger sollten Bestandskunden vor der automatischen Abbuchung entscheiden, was sie wie lange verlängern, denn SONAR20 gilt nicht für Verlängerungen, die zum Listenpreis abgerechnet werden."
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
+        "Wie lautet der Hostinger-Gutscheincode? Der Hostinger-Gutscheincode ist SONAR20, mit 20 % Rabatt auf den ersten Zeitraum eines berechtigten Neukaufs: Geben Sie den Code im Warenkorb in das Feld „Have a coupon code?“ ein und prüfen Sie vor dem Bezahlen die Zeile „Coupon applied“. Die Verlängerung läuft zum Tabellenpreis, ohne Rabatt.",
         "Gilt der Hostinger-Gutschein bei der Verlängerung? Nein: SONAR20 gibt 20 % auf einen Neukauf, die Verlängerung läuft zum Tabellenpreis. Das Kapitel zu SONAR20 erklärt, wo der Code gilt.",
         "Wie kündige ich die automatische Verlängerung bei Hostinger? Schalten Sie unter Abrechnung und Abonnements den Schalter des Dienstes aus; er bleibt bis zum Ablauf aktiv. Die Schritte stehen im Kapitel zum Ausschalten.",
         "Erstattet Hostinger die Verlängerung? Ja, innerhalb von 30 Tagen ab der Abbuchung, beim berechtigten Hosting und beim VPS KVM; die Domain-Verlängerung wird nicht erstattet. Die Ausnahmen stehen im Kapitel zur Erstattung.",
