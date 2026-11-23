@@ -50,7 +50,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para a primeira compra na Mais Mu, use MMEMCASACOMCECILIA: 10% OFF em todo o site oficial, também para quem já comprou. O código soma com os preços da Blue Friday e com os 3% do Pix. O crédito de cashback não entra junto, porque é usado como outro cupom; confira abaixo o frete por região."
+        "Para a primeira compra na Mais Mu, use MMEMCASACOMCECILIA: 10% OFF em todo o site oficial, também para quem já comprou. O código vale sobre os preços da Blue Friday e soma com os 3% do Pix. O crédito de cashback não entra junto, porque é usado como outro cupom; confira abaixo o frete por região."
       ]
     },
     {
@@ -67,7 +67,7 @@
         "Para o primeiro pedido, confira onde o código entra, o que não soma com ele e o valor do frete grátis da sua região:"
       ],
       "bullets": [
-        "**Site oficial.** O código vai em “Adicionar cupom de desconto”, no checkout, depois de “Iniciar compra”. A Mais Mu não tem aplicativo, e o cupom não vale no Mercado Livre.",
+        "**Site oficial.** O código vai em “Adicionar cupom de desconto”, no checkout, depois de “Iniciar compra”. O cupom não vale no Mercado Livre.",
         "**Um cupom por pedido.** O crédito do cashback da loja chega como cupom, então ele não entra junto com o MMEMCASACOMCECILIA.",
         "**Frete grátis por região.** A loja informa: acima de R$ 299 no Sul, no Sudeste e no Centro-Oeste, e acima de R$ 399 no Norte e no Nordeste. Abaixo disso, o frete é calculado no checkout."
       ],
@@ -78,7 +78,7 @@
     {
       "heading": "Carrinho em oferta: onde entram o código e o Pix",
       "paragraphs": [
-        "O MMEMCASACOMCECILIA entra sobre os preços da campanha. No nosso teste de checkout mais recente, registrado na página do cupom, um carrinho com o whey concentrado baunilha refil de 900 g, a creatina sem sabor refil de 500 g e dois wheys Paçoquita de 450 g ficou assim:"
+        "O MMEMCASACOMCECILIA entra sobre os preços da campanha. No nosso teste de checkout mais recente, registrado na página do cupom, um carrinho com o whey concentrado baunilha refil de 900 g, a creatina sem sabor refil de 500 g e dois wheys Paçoquita de 450 g fechou com 10% de desconto sobre o subtotal."
       ],
       "comparisonTable": {
         "caption": "Carrinho com um whey, uma creatina e dois wheys Paçoquita, nos preços do cartão da Blue Friday: valores do teste no checkout, antes do Pix e do frete.",
@@ -137,7 +137,7 @@
       "heading": "Vale a pena usar o cupom na primeira compra?",
       "emphasis": "Para a primeira compra na Mais Mu, eu iria no site oficial, abriria o checkout pelo Iniciar compra e aplicaria o MMEMCASACOMCECILIA antes de escolher o Pix.",
       "paragraphs": [
-        "Vale: são 10% em todo o site, sem cadastro e sem depender de ser cliente novo, e o código serve de novo nas compras seguintes. O que pode atrapalhar é ter crédito de cashback, que não soma, ou ficar perto do mínimo do frete grátis da sua região."
+        "Vale: são 10% em todo o site, sem depender de ser cliente novo, e o código serve de novo nas compras seguintes. O que pode atrapalhar é ter crédito de cashback, que não soma, ou ficar perto do mínimo do frete grátis da sua região."
       ],
       "links": [
         {
@@ -163,7 +163,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Use o cupom se é a sua primeira compra na Mais Mu e quer 10% sem cadastro de newsletter.",
+      "Use o cupom se é a sua primeira compra na Mais Mu: os 10% entram direto no checkout.",
       "Use também se já comprou antes: o mesmo código vale de novo."
     ],
     "skipIf": [

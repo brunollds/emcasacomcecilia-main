@@ -66,7 +66,7 @@
     {
       "heading": "2. Cole o código em \"Adicionar cupom de desconto\"",
       "paragraphs": [
-        "No resumo do pedido, ao lado do checkout, clique em \"Adicionar cupom de desconto\". Cole o código MMEMCASACOMCECILIA no campo \"Código do cupom\" e clique na seta. O código é longo: copie e cole, não digite."
+        "No resumo do pedido, no checkout, clique em \"Adicionar cupom de desconto\". Cole o código MMEMCASACOMCECILIA no campo \"Código do cupom\" e clique na seta. O código é longo: copie e cole, não digite."
       ],
       "images": [
         {
@@ -161,7 +161,7 @@
       "heading": "O que soma com o cupom e o que não soma",
       "paragraphs": [
         "O cupom vale em todas as formas de pagamento da loja. No Pix, os 3% de desconto da própria loja entram junto: o cupom soma com eles.",
-        "A loja tem um programa de cashback próprio, e o crédito dele chega como código para o campo de cupom. Como a loja não acumula cupons, ele não soma com o MMEMCASACOMCECILIA: em cada pedido, vale um dos dois. O desconto de boas-vindas da loja também conta como cupom. O cashback é da loja, não uma vantagem do nosso cupom.",
+        "A loja tem um programa de cashback próprio, e o crédito dele chega como código para o campo de cupom. Como a loja não acumula cupons, ele não soma com o MMEMCASACOMCECILIA: em cada pedido, vale um dos dois. O cashback é da loja, não uma vantagem do nosso cupom.",
         "O cupom não vale no Mercado Livre, onde vale o preço do anúncio. Para ver a marca por lá, use o [link da marca no Mercado Livre](https://meli.la/24RjvdP) e compare o preço do anúncio com o do site oficial."
       ]
     },
@@ -188,7 +188,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento.",
-        "O cupom da Mais Mu vale na primeira compra? Sim. Ele vale na primeira compra e também para quem já comprou. O desconto de boas-vindas da loja não soma com ele.",
+        "O cupom da Mais Mu vale na primeira compra? Sim. Ele vale na primeira compra e também para quem já comprou, com os mesmos 10%.",
         "O cupom vale em todas as formas de pagamento? Sim. Ele vale em todas as formas de pagamento da loja e soma com os 3% de desconto do Pix.",
         "O cupom soma com produto em promoção? Sim. No nosso teste, os 10% entraram sobre os preços da Blue Friday.",
         "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial. No Mercado Livre, vale o preço do anúncio.",
@@ -225,7 +225,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Aplique o cupom se você vai comprar no site oficial e quer 10% sobre os preços da campanha, no Pix ou em qualquer forma de pagamento.",
+      "Aplique o cupom se você vai comprar no site oficial e quer 10% sobre os preços da campanha, em todas as formas de pagamento.",
       "Aplique se o seu pedido fica acima do mínimo de frete grátis da região mesmo depois do desconto."
     ],
     "skipIf": [

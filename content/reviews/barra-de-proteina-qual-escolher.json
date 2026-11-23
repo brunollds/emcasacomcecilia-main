@@ -27,7 +27,7 @@
   "decision": {
     "takeIf": [
       "Você quer o menor custo por proteína desta seleção e aceita açúcar adicionado: a Whey Bar da Probiótica.",
-      "Você quer zero açúcar adicionado pelo menor preço por barra: a Whey Bar Creamy da Probiótica; se a declaração sem glúten pesa, a Gourmet Zero da Black Skull.",
+      "Você quer zero açúcar adicionado pelo menor preço por barra fora de oferta: a Whey Bar Creamy da Probiótica; se a declaração sem glúten pesa, a Gourmet Zero da Black Skull.",
       "Você quer a maior quantidade de proteína em uma unidade entre as seis: a Doctor Bar da Dr. Peanut."
     ],
     "skipIf": [
@@ -56,16 +56,13 @@
     },
     {
       "slug": "wafer-proteico-qual-escolher"
-    },
-    {
-      "slug": "salgadinho-proteico-qual-escolher"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Entre as seis barras comparadas, a Whey Bar da Probiótica custa menos por grama de proteína, mas leva açúcar adicionado. Para evitar açúcar adicionado, a Creamy da mesma marca tem o menor preço por barra. A Doctor Bar tem mais proteína por unidade nesta seleção; a página da Gourmet Zero da Black Skull declara que ela não contém glúten."
+        "Entre as seis barras comparadas, a Whey Bar da Probiótica custa menos por grama de proteína, mas leva açúcar adicionado. Para evitar açúcar adicionado, a Creamy da mesma marca tem o menor preço por barra fora de oferta. A Doctor Bar tem mais proteína por unidade; a página da Gourmet Zero da Black Skull declara que ela não contém glúten."
       ]
     },
     {
@@ -133,7 +130,7 @@
         "caption": "Conta nossa: o preço da caixa dividido pelas barras e pela proteína de cada uma, arredondado para centavos.",
         "headers": [
           "Barra e caixa",
-          "Preço da caixa",
+          "Caixa com o código",
           "Por barra",
           "Por grama de proteína"
         ],
@@ -205,13 +202,13 @@
         ]
       },
       "postParagraphs": [
-        "Nessa oferta, a Mukebar fica em R$ 0,45 por grama de proteína, abaixo de todas as outras, exceto a Whey Bar da Probiótica (R$ 0,38). A Crush Bar, em R$ 0,59, fica na faixa da Creamy e abaixo da Doctor Bar e da Gourmet Zero. O frete pode mudar qual caixa fica mais barata no pedido."
+        "Nessa oferta, a Mukebar fica em R$ 0,45 por grama de proteína, abaixo de todas as outras, exceto a Whey Bar da Probiótica (R$ 0,38). A Crush Bar, em R$ 0,59, fica na faixa da Creamy e abaixo da Doctor Bar e da Gourmet Zero. Por barra, a Crush Bar passa a custar menos que a Creamy (R$ 5,93 contra R$ 6,36), a mais barata sem açúcar adicionado fora da oferta. O frete pode mudar qual caixa fica mais barata no pedido."
       ]
     },
     {
       "heading": "Probiótica: menor custo por proteína ou zero açúcar adicionado",
       "paragraphs": [
-        "A escolha entre as duas começa pelo açúcar adicionado. A Whey Bar tem o menor custo por proteína do guia; a Creamy é a de menor preço por barra entre as que declaram zero açúcar adicionado.",
+        "A escolha entre as duas começa pelo açúcar adicionado. A Whey Bar tem o menor custo por proteína do guia; a Creamy é a de menor preço por barra entre as que declaram zero açúcar adicionado, fora da oferta da Mais Mu.",
         "O tamanho do pedido também muda: a caixa da Whey Bar traz 24 barras, o dobro da Creamy. Quem quer gastar menos de uma vez deve comparar o total da caixa.",
         "O PRO10EMCASACOMCECILIA dá até 10%, conforme o produto. Nas duas caixas de barra, o carrinho do nosso teste mostrou 2%. Confira o desconto no resumo do pedido."
       ],
@@ -249,7 +246,7 @@
       "heading": "Dr. Peanut: Doctor Bar para mais proteína em uma barra",
       "paragraphs": [
         "Entre as seis, a Doctor Bar é a que tem mais proteína por unidade. Isso não a torna a mais barata por barra: ela é maior, e a caixa de oito também precisa caber no pedido.",
-        "As tabelas dos sabores publicados declaram uma pequena quantidade de açúcar adicionado. A faixa da tabela acima não inclui o Speculoos, que não tem tabela publicada.",
+        "As tabelas dos sabores publicados declaram uma pequena quantidade de açúcar adicionado. A faixa da primeira tabela não inclui o Speculoos, que não tem tabela publicada.",
         "Para comparar a barra com o alfajor e o wafer da mesma marca, veja [snacks da Dr. Peanut: qual escolher](/reviews/snacks-dr-peanut-qual-escolher)."
       ],
       "images": [
@@ -327,15 +324,15 @@
     {
       "heading": "Qual barra de proteína vale mais a pena?",
       "paragraphs": [
-        "Cada código vale só na loja dele. No carrinho ou no checkout, digite o código no campo de cupom e confira o desconto no resumo do pedido."
+        "Cada código vale só na loja dele. Na Mais Mu, toque em Iniciar compra no carrinho e, no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto; nas outras lojas, digite o código no campo de cupom. Confira o desconto no resumo do pedido."
       ],
       "emphasis": "Para gastar menos por grama de proteína, eu escolheria a Whey Bar da Probiótica. Para evitar açúcar adicionado, eu iria na Whey Bar Creamy; para mais proteína em uma unidade só, eu escolheria a Doctor Bar.",
       "bullets": [
         "Menor custo por proteína: a Whey Bar da Probiótica, que leva açúcar adicionado.",
-        "Zero açúcar adicionado pelo menor preço por barra: a Whey Bar Creamy da Probiótica.",
+        "Zero açúcar adicionado pelo menor preço por barra: a Whey Bar Creamy da Probiótica; enquanto durar a Blue Friday, a Crush Bar da Mais Mu.",
         "Declaração de que não contém glúten: a Gourmet Zero da Black Skull.",
         "Mais proteína em uma unidade: a Doctor Bar da Dr. Peanut, a maior das seis.",
-        "Barra maior ou menor com menos açúcar total: a Mukebar ou a Crush Bar da Mais Mu, que na Blue Friday ficam bem mais perto das mais baratas."
+        "Barra maior ou menor com menos açúcar total: a Mukebar ou a Crush Bar da Mais Mu; na Blue Friday, a Mukebar fica atrás só da Whey Bar por grama de proteína."
       ],
       "comparisonTable": {
         "headers": [
@@ -398,7 +395,7 @@
         }
       ],
       "postParagraphs": [
-        "Cada código vale só na loja dele; as regras estão nas páginas de cada cupom. Confira o desconto e o frete no resumo do pedido para comparar o total que vai pagar.",
+        "As regras estão nas páginas de cada cupom. Confira também o frete no resumo do pedido para comparar o total que vai pagar.",
         "A Max Titanium também vende barras de proteína. As regras do código da marca estão em [cupom Max Titanium](/cupons/max-titanium).",
         "Se você quer outro formato de lanche, compare também [wafers proteicos](/reviews/wafer-proteico-qual-escolher) e [salgadinhos proteicos](/reviews/salgadinho-proteico-qual-escolher)."
       ]

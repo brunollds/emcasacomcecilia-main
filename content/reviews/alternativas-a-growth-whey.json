@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "No concentrado, o 80% HD da Black Skull com CECILIA10 custa menos por proteína no cartão; no Pix, só o sabor Banana fica abaixo da Growth. Com o desconto real do código (2% na maioria, 8,86% no 3W), 3W e zero lactose seguem abaixo no cartão. O isolado da Max fica pouco abaixo no cartão; no Pix, compare o total."
+        "No concentrado, o 80% HD da Black Skull com o CECILIA10 custa menos por proteína que a Growth no cartão; no Pix, só no sabor Banana. No 3W e no zero lactose, a Max Titanium e a Probiótica também ficam abaixo no cartão, já com o desconto medido no carrinho. No isolado, a diferença é pequena: compare o total."
       ]
     },
     {
@@ -38,7 +38,7 @@
         "Para comparar potes de tamanhos diferentes, veja a última coluna: ela mostra quanto custa a mesma quantidade de proteína contida no pó. A porção usada na conta é a do rótulo de cada produto."
       ],
       "comparisonTable": {
-        "caption": "Preços dos sites em 9 de novembro de 2026, no cartão, sem frete; a Mais Mu, no preço da Blue Friday. Conta nossa: custo por 100 g de proteína pelo peso líquido e pela proporção declarada no rótulo, com o desconto do código medido no carrinho em 23/11 (Black Skull, 10%; Max Titanium e Probiótica, 2% na maioria dos produtos e 8,86% no Top Whey 3W + Sabor).",
+        "caption": "Preços dos sites em 9 de novembro de 2026, no cartão, sem frete; a Mais Mu, no preço da Blue Friday. Conta nossa: custo por 100 g de proteína pelo peso líquido e pela proporção declarada no rótulo, com o desconto de cada código: 10% na Black Skull e na Mais Mu; na Max Titanium e na Probiótica, o medido no carrinho em 23/11 (2% na maioria dos produtos e 8,86% no Top Whey 3W Mais Sabor).",
         "headers": [
           "Produto",
           "Porção e proteína",
@@ -68,7 +68,7 @@
       },
       "postParagraphs": [
         "No Pix, o sabor Banana do 80% HD com CECILIA10 fica abaixo do 100% Whey de 900 g da Growth. Os demais sabores do 80% HD custam mais por proteína nessa forma de pagamento. Se você compra sempre o mesmo sabor, use essa diferença para decidir.",
-        "O 80% HD e o (TOP) Concentrado da Growth nos sabores declaram a mesma quantidade de proteína por porção. Já o 100% Whey de 900 g da Growth tem menos proteína na mesma quantidade de pó. O menor custo da Black Skull no cartão permite trocar de marca sem reduzir a concentração declarada em relação ao (TOP) nos sabores.",
+        "O 80% HD e as versões com sabor do (TOP) Concentrado da Growth declaram a mesma quantidade de proteína por porção. Já o 100% Whey de 900 g da Growth tem menos proteína na mesma quantidade de pó. O menor custo da Black Skull no cartão permite trocar de marca sem reduzir a concentração declarada em relação às versões com sabor do (TOP).",
         "A loja informa: o (TOP) Concentrado de 1 kg da Growth tem limite de uma unidade por CPF."
       ],
       "images": [
@@ -261,7 +261,7 @@
             "Max Titanium",
             "MAX10EMCASACOMCECILIA",
             "até 10%, conforme o produto",
-            "No nosso teste de carrinho, 2% no IsoWhey e 8,86% (7% + 2%) no Top Whey 3W + Sabor; soma com o Pix e o boleto (até 5%), que não medimos juntos."
+            "No nosso teste de carrinho, 2% no IsoWhey e 8,86% (7% + 2%) no Top Whey 3W Mais Sabor; soma com o Pix e o boleto (até 5%), que não medimos juntos."
           ],
           [
             "Probiótica",
@@ -307,7 +307,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom de cada loja? Black Skull: CECILIA10, com 10%. Max Titanium: MAX10EMCASACOMCECILIA, até 10%, conforme o produto (no nosso teste, 2% no IsoWhey e 8,86% no Top Whey 3W + Sabor). Probiótica: PRO10EMCASACOMCECILIA, até 10%, conforme o produto (2% no teste). Mais Mu: MMEMCASACOMCECILIA, com 10%. Cada código vale só na loja dele.",
+        "Qual é o cupom de cada loja? Black Skull: CECILIA10, com 10%. Max Titanium: MAX10EMCASACOMCECILIA, até 10%, conforme o produto (no nosso teste, 2% no IsoWhey e 8,86% no Top Whey 3W Mais Sabor). Probiótica: PRO10EMCASACOMCECILIA, até 10%, conforme o produto (2% no teste). Mais Mu: MMEMCASACOMCECILIA, com 10%. Cada código vale só na loja dele.",
         "Qual whey é parecido com o da Growth? O 80% HD da Black Skull é uma alternativa ao concentrado: nos sabores usados na comparação, ele tem a mesma concentração de proteína do (TOP) da Growth. Com CECILIA10, fica abaixo das referências da tabela no cartão.",
         "Tem whey mais barato que o da Growth? Há alternativas nas quatro categorias do artigo, considerando a mesma quantidade de proteína. No concentrado, veja a diferença entre o preço do cartão e o do Pix; na Max e na Probiótica, o código deu 2% na maioria dos produtos do nosso teste, o que reduz a vantagem no isolado e no zero lactose.",
         "Qual whey isolado é mais barato que o da Growth? A Mais Mu, na Blue Friday, oferece menor custo com MMEMCASACOMCECILIA, mas mistura isolado, concentrado e hidrolisado. Para uma opção com apenas proteína isolada como fonte proteica, veja o IsoWhey da Max: abaixo da Growth no cartão; no Pix, compare o total final.",

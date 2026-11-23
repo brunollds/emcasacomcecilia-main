@@ -28,13 +28,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na Blue Friday, a Mukebar 720 g de Chocolate com Avelã tem o menor custo por grama de proteína, com 15 g por barra. A Chocowheyfer Sem Cobertura é a unidade mais barata e tem menos açúcar e calorias que a Mukebar Avelã. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu, mas não vale no Mercado Livre."
+        "Na Blue Friday, a Mukebar 720 g de Chocolate com Avelã tem o menor custo por grama de proteína, com 15 g por barra. O Chocowheyfer Sem Cobertura é a unidade mais barata e tem menos açúcar e calorias que a Mukebar Avelã. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu, mas não vale no Mercado Livre."
       ]
     },
     {
       "heading": "Os produtos numa tabela",
       "paragraphs": [
-        "Esta tabela compara as barras e os wafers proteicos da Mais Mu, uma linha por unidade. “Tabela” indica dado da tabela nutricional publicada; “texto” indica informação da descrição ou da embalagem mostrada na página.",
+        "Esta tabela compara as barras e os wafers proteicos da Mais Mu, uma linha por unidade. “Tabela” indica dado da tabela nutricional publicada; “texto” indica informação da descrição ou da embalagem mostrada na página; “página” indica o número que a página do produto traz, sem tabela nutricional.",
         "A Mukebar 720 g vem em caixa de 12 unidades de 60 g. A tabela é do sabor Chocolate com Avelã. Os outros sabores (Crocante, Cookies, Chocolate Duo, Chocolate com Coco e Paçoquita) dizem 15 g de proteína na descrição, sem tabela. A Crush Bar Morango tem a mesma tabela de 10 g por 35 g da Chocolate. A Max e o Sem Cobertura têm tabela em todos os sabores à venda: Chocolate, Morango, Doce de Leite e Cookies'n Cream na Max; Chocolate e Morango no Sem Cobertura. O peso e a proteína são os mesmos em cada linha."
       ],
       "comparisonTable": {
@@ -77,7 +77,7 @@
           [
             "[Crush Bar 35 g, Chocolate Duo](https://www.lojamaismu.com.br/produtos/crushbar-mu-chocolate-duo-20-caixa-12-unidades-420g/), Chocolate e Morango",
             "35 g (tabela)",
-            "10 g (tabela)",
+            "10 g (página)",
             "R$ 6,59",
             "R$ 0,66"
           ],
@@ -119,7 +119,7 @@
         "**Paçoquita Power (pasta de amendoim).** A loja lista o produto, mas a página mostra \"preço sob consulta\", sem valor publicado. Sem preço, e fora da linha de barras e wafers, ela não entra na conta por unidade."
       ],
       "postParagraphs": [
-        "A Chocowheyfer Max é uma linha da própria Mais Mu, com unidade de 50 g e caixa de 20. O nome não tem ligação com a Max Titanium, outra marca parceira deste site."
+        "O Chocowheyfer Max é uma linha da própria Mais Mu, com unidade de 50 g e caixa de 20. O nome não tem ligação com a Max Titanium, outra marca parceira deste site."
       ],
       "images": [
         {
@@ -151,7 +151,7 @@
     {
       "heading": "Calorias, proteína e açúcar pela tabela",
       "paragraphs": [
-        "O açúcar e as calorias que valem são os da tabela por unidade. Cada linha abaixo é um sabor. Onde não há tabela, o produto não aparece nesta tabela."
+        "O açúcar e as calorias que valem são os da tabela por unidade. Cada linha abaixo é um sabor."
       ],
       "images": [
         {
@@ -170,7 +170,7 @@
         },
         {
           "src": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-tabela-chocowheyfer-max.webp",
-          "alt": "Tabela nutricional da Chocowheyfer Max Chocolate da Mais Mu, porção de 50 g",
+          "alt": "Tabela nutricional do Chocowheyfer Max Chocolate da Mais Mu, porção de 50 g",
           "caption": "Tabela publicada pela Mais Mu na página do produto. Imagem: Mais Mu.",
           "objectFit": "contain",
           "aspectRatio": 0.84
@@ -299,22 +299,21 @@
     {
       "heading": "Qual barra da Mais Mu eu compraria?",
       "paragraphs": [
-        "Nenhuma das barras e dos wafers ganha em tudo. Por unidade, os números apontam para caminhos diferentes:"
+        "Nenhuma das barras e dos wafers ganha em tudo. Por unidade, os números apontam para caminhos diferentes."
       ],
       "bullets": [
         "**Mais proteína por unidade e menor custo por grama entre estes produtos:** Mukebar 720 g de Chocolate com Avelã, com 15 g numa barra de 60 g e R$ 0,50 por grama de proteína no cartão (R$ 7,50 a barra). Com cupom e Pix, a caixa de 12 sai por R$ 78,52, ou R$ 6,54 a barra e R$ 0,44 por grama. A tabela nutricional é do sabor Chocolate com Avelã; a Paçoquita 720 g sai a R$ 0,60 por grama.",
         "**Menor gasto por unidade entre estes produtos:** Chocowheyfer Sem Cobertura, a R$ 4,49. É um wafer de 25 g com 6 g de proteína, não uma barra do mesmo tamanho da Mukebar.",
         "**Menos açúcar total e calorias por unidade entre os produtos comparados:** Veggie Wafer, de 25 g. Apesar do nome vegetal, contém glúten e pode conter leite.",
-        "**Unidade intermediária:** Crush Bar, com 35 g e 10 g de proteína, a R$ 6,59 a unidade e R$ 0,66 por grama; consulte as duas linhas de sabores para calorias e açúcar.",
+        "**Unidade intermediária:** Crush Bar, com 35 g e 10 g de proteína, a R$ 6,59 a unidade e R$ 0,66 por grama; as calorias e o açúcar de cada sabor estão na tabela.",
         "**Wafer maior, com mais proteína por unidade:** Chocowheyfer Max, com 50 g e 12 g de proteína, a R$ 9,68 a unidade e R$ 0,81 por grama. Os quatro sabores variam em calorias e açúcar, como mostra a tabela."
       ],
       "postParagraphs": [
         "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O código dá 10% em todo o site, inclusive sobre os preços da Blue Friday, e soma com os 3% do Pix; no Mercado Livre ele não vale. O cashback é programa da própria loja, e o crédito dele não soma com o cupom. As regras estão na página do [cupom Mais Mu](/cupons/mais-mu), e o passo a passo, em [como usar o cupom](/reviews/cupom-mais-mu-como-usar).",
         "Compare a quantidade que pretende comer e as restrições do rótulo. Se há uma restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos.",
-        "Se você já decidiu pelo wafer, o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) compara tamanho da compra, proteína declarada, preço com código e a opção avulsa de outra marca. Aqui, a escolha continua sendo entre os formatos de snack da Mais Mu.",
-        "Se você já decidiu comprar barra e quer comparar outras marcas, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com preço por grama de proteína e açúcar adicionado."
+        "Para comparar com outras marcas, veja o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) e [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher)."
       ],
-      "emphasis": "Para gastar menos por grama de proteína, eu compraria a Mukebar 720 g de Chocolate com Avelã; para gastar menos por unidade, eu iria na Chocowheyfer Sem Cobertura. São critérios diferentes.",
+      "emphasis": "Para gastar menos por grama de proteína, eu compraria a Mukebar 720 g de Chocolate com Avelã; para gastar menos por unidade, eu iria no Chocowheyfer Sem Cobertura. São critérios diferentes.",
       "links": [
         {
           "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
@@ -333,7 +332,7 @@
         "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com os 3% do Pix.",
         "Chocowheyfer tem açúcar? Nos sabores com tabela nesta comparação, há açúcar total e 0 g de açúcar adicionado declarado. Veja a quantidade por sabor na tabela de calorias; “zero adicionado” não significa ausência de açúcar total.",
         "Mukebar tem glúten? No sabor Chocolate com Avelã, sim: a página declara CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos demais sabores, confira o aviso de alérgenos na página e na embalagem antes de comprar.",
-        "Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem a Chocowheyfer Max, com 12 g em 50 g.",
+        "Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem o Chocowheyfer Max, com 12 g em 50 g.",
         "Tem barra vegana? A listagem da loja não traz barra vegana. O Veggie Wafer é chamado de vegetal pela loja, mas o aviso diz que pode conter leite, e a página não mostra selo vegano. Confira o aviso de alérgenos antes de comprar."
       ]
     }
@@ -365,12 +364,12 @@
   ],
   "decision": {
     "takeIf": [
-      "Leve a Mukebar 720 g se você quer mais proteína por unidade com o menor custo por grama.",
-      "Leve a Chocowheyfer Sem Cobertura se você quer o menor preço por unidade."
+      "Leve a Mukebar 720 g de Chocolate com Avelã se você quer mais proteína por unidade com o menor custo por grama.",
+      "Leve o Chocowheyfer Sem Cobertura se você quer o menor preço por unidade."
     ],
     "skipIf": [
-      "Passe na Mukebar 720 g se você quer poucas unidades: ela vem em caixa de 12.",
-      "Passe nos wafers se você quer mais proteína por unidade: a Chocowheyfer Max tem 12 g, e a Mukebar, 15 g.",
+      "Passe nos outros sabores da Mukebar 720 g se o custo por grama decide: custam bem mais que a de Chocolate com Avelã.",
+      "Passe nos wafers se você quer mais proteína por unidade: o Chocowheyfer Max tem 12 g, e a Mukebar, 15 g.",
       "Passe no Veggie Wafer se você procura opção vegetal certificada: a página não mostra selo vegano."
     ]
   }

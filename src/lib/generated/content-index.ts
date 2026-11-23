@@ -122055,15 +122055,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Mais Mu é uma empresa registrada, com CNPJ ativo e sede em São Paulo. No Reclame Aqui, a reputação é Boa nos últimos seis meses, com nota 7,1, e a entrega é a principal queixa. O [cupom Mais Mu](/cupons/mais-mu) traz o MMEMCASACOMCECILIA, 10% OFF em todo o site."
+          "Sim, a Mais Mu é uma empresa registrada, com CNPJ ativo e sede em São Paulo. No Reclame Aqui, a reputação é Boa nos últimos seis meses, com nota 7,1, e a entrega é a principal queixa. O [cupom Mais Mu](/cupons/mais-mu) é o MMEMCASACOMCECILIA, com 10% OFF em todo o site."
         ]
       },
       {
         "heading": "Quem opera a Mais Mu",
         "paragraphs": [
           "A Mais Mu é operada pela MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S.A., inscrita no CNPJ 21.526.148/0001-34. Pelos dados públicos da Receita Federal, o CNPJ aparece como ativo, matriz, com início de atividade em 05/12/2014.",
-          "A sede fica na Rua Pamplona, 145, sala 816, bairro Jardim Paulista, em São Paulo (SP), CEP 01405-000. O nome jurídico aparece na política de privacidade do site. A página Quem somos conta a história da marca, mas não traz a razão social.",
-          "O rodapé de todas as páginas traz \"+MU | CNPJ: 21526148000134\". Se o CNPJ de lá não bater com o da consulta pública, desconfie da loja."
+          "A sede fica na Rua Pamplona, 145, sala 816, bairro Jardim Paulista, em São Paulo (SP), CEP 01405-000. O nome jurídico aparece na política de privacidade do site. A página Quem somos conta a história da marca, mas não traz a razão social."
         ]
       },
       {
@@ -122092,8 +122091,8 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/mais-mu/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
-            "alt": "Caixas de barras de proteína da Mais Mu: Mukebar paçoquita, Chocowheyfer chocolate e Crushbar morango",
-            "caption": "Mukebar, Chocowheyfer e Crushbar, nas fotos do site oficial da Mais Mu.",
+            "alt": "Caixas de barras de proteína da Mais Mu: Mukebar paçoquita, Chocowheyfer chocolate e Crush Bar morango",
+            "caption": "Mukebar, Chocowheyfer e Crush Bar, nas fotos do site oficial da Mais Mu.",
             "objectFit": "contain",
             "aspectRatio": 1.7778,
             "href": "https://www.lojamaismu.com.br/barras-de-proteinas/"
@@ -122150,7 +122149,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e pagamento",
         "paragraphs": [
-          "O frete grátis vale acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste:"
+          "O frete grátis tem valor mínimo por região:"
         ],
         "comparisonTable": {
           "headers": [
@@ -122176,7 +122175,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Nos últimos 6 meses, a Mais Mu tem reputação Boa no Reclame Aqui, com nota 7,1 em 10. Nesse período, 95,4% das 109 reclamações foram respondidas, 78,2% foram resolvidas e 56,4% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos 12 meses, a reputação também é Boa, com nota 7,4 e 98,3% das reclamações respondidas. O histórico do semestre passou por uma fase Regular, de julho a setembro, e voltou a Boa em outubro.",
+          "Nos últimos 6 meses, a Mais Mu tem reputação Boa no Reclame Aqui, com nota 7,1 em 10. Nesse período, 95,4% das 109 reclamações foram respondidas; entre as 55 avaliadas, 78,2% foram resolvidas e 56,4% dos consumidores disseram que voltariam a fazer negócio. Nos 12 meses, a reputação também é Boa, com nota 7,4 e 98,3% das reclamações respondidas. O histórico do semestre passou por uma fase Regular e voltou a Boa no mês mais recente.",
           "Na aba Geral, as queixas mais citadas são produto não recebido e entrega. A loja é real e tem CNPJ ativo. O que pesa na compra é a entrega e o tempo de resposta às reclamações, que nos 6 meses ficou perto de 26 dias. O perfil muda com o tempo, então confira de novo no dia da compra.",
           "Na prática, acompanhe o rastreio desde a postagem e guarde o número do pedido. Se o prazo estourar, é com esses dados que você abre o chamado. Os números completos, aba por aba, estão em [Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/mais-mu-reclame-aqui-nota-reputacao)."
         ]
@@ -122212,7 +122211,7 @@ export const reviewsData: unknown[] = [
           "A Mais Mu tem telefone de atendimento? Não. A loja não publica telefone no site. O contato é pelo formulário da página de contato ou pelo e-mail fala.ai@maismu.com.br, do rodapé.",
           "Quanto tempo tenho para trocar ou devolver um produto da Mais Mu? A compra pela internet tem 7 dias de arrependimento pela lei (CDC, art. 49), e a FAQ da loja não publica prazo próprio. Pela política de troca da loja, o produto precisa estar na embalagem original, fechado e sem sinais de uso; essa condição é da troca, não do prazo de arrependimento.",
           "Em quanto tempo sai o reembolso na Mais Mu? No Pix e no boleto, em até 7 dias úteis depois do envio dos dados bancários. No cartão, o estorno sai em até 48 horas úteis, creditado em até duas faturas.",
-          "A Mais Mu tem frete grátis? Sim, acima de um valor mínimo que muda por região: a faixa do site informa o valor para o Sul, Sudeste e Centro-Oeste e outro para as demais regiões. Abaixo disso, o frete é calculado no checkout."
+          "A Mais Mu tem frete grátis? Sim, acima de um valor mínimo que muda por região: a faixa do site informa um valor para o Sul, o Sudeste e o Centro-Oeste e outro, maior, para as demais regiões. Abaixo disso, o frete é calculado no checkout."
         ]
       }
     ],
@@ -122245,7 +122244,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe se você precisa do pedido com prazo certo: a entrega é a principal queixa no perfil.",
-        "Passe se prefere comprar por telefone: a loja não publica telefone, só e-mail e formulário."
+        "Passe se você só resolve problema por telefone: a loja não publica número, só e-mail e formulário."
       ]
     }
   },
@@ -122280,7 +122279,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mais Mu tem reputação Boa no Reclame Aqui nos últimos seis meses, com nota 7,1, e também Boa em 12 meses, com 7,4. A loja responde 95,4% das reclamações, resolve 78,2% das avaliadas e tem a entrega como principal queixa. O [cupom Mais Mu](/cupons/mais-mu) é o MMEMCASACOMCECILIA, com 10% OFF."
+          "A Mais Mu tem reputação Boa no Reclame Aqui nos últimos seis meses, com nota 7,1, e também Boa em 12 meses, com 7,4. No semestre, a loja respondeu 95,4% das reclamações e resolveu 78,2% das avaliadas. Na aba Geral, a entrega é a principal queixa. O [cupom Mais Mu](/cupons/mais-mu) é o MMEMCASACOMCECILIA, com 10% OFF."
         ]
       },
       {
@@ -122392,6 +122391,13 @@ export const reviewsData: unknown[] = [
             "caption": "Principais problemas da aba Geral do perfil da Mais Mu.",
             "objectFit": "contain",
             "aspectRatio": 1.2128
+          },
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-historico-v2.webp",
+            "alt": "Histórico da reputação da Mais Mu no Reclame Aqui nos últimos 6 meses: dois pontos em Boa, três em Regular e o último em Boa",
+            "caption": "Histórico da reputação nos últimos 6 meses, no perfil da Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.1211
           }
         ],
         "bullets": [
@@ -122408,15 +122414,6 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O canal de atendimento é o e-mail fala.ai@maismu.com.br, também indicado no FAQ e na página de contato da loja. O perfil certo no Reclame Aqui é o da Mais Mu, do CNPJ 21.526.148/0001-34."
         ],
-        "images": [
-          {
-            "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-historico-v2.webp",
-            "alt": "Histórico da reputação da Mais Mu no Reclame Aqui nos últimos 6 meses: dois pontos em Boa, três em Regular e o último em Boa",
-            "caption": "Histórico da reputação nos últimos 6 meses, no perfil da Mais Mu.",
-            "objectFit": "contain",
-            "aspectRatio": 1.1211
-          }
-        ],
         "bullets": [
           "Atraso, endereço errado, pedido avariado ou item faltando: acompanhe o rastreio no rastreae.com.br, com o código do e-mail ou o CPF, e escreva para fala.ai@maismu.com.br com o número do pedido.",
           "Troca ou devolução: pela política da loja, o produto precisa estar na embalagem original, fechada e sem sinais de uso. A loja cobre o recolhimento, e o reembolso ou o reenvio saem em até 7 dias úteis depois da avaliação na unidade.",
@@ -122429,7 +122426,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena comprar na Mais Mu?",
         "emphasis": "Para comprar na Mais Mu com tranquilidade, eu iria no site oficial, com o MMEMCASACOMCECILIA no checkout, guardando o número do pedido e acompanhando o rastreio desde o primeiro dia.",
         "paragraphs": [
-          "O perfil mostra reputação Boa, respostas quase sempre dadas e solução perto de 80%, mas com semestre mais fraco que a média e a entrega como ponto de atenção. A compra com cuidado cobre esse risco.",
+          "O perfil mostra reputação Boa, respostas quase sempre dadas e solução perto de 80%, mas com semestre mais fraco que a média e a entrega como ponto de atenção. Por isso vale acompanhar o rastreio e guardar o número do pedido.",
           "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O cupom dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com os 3% do Pix.",
           "A loja não acumula cupons: o crédito do cashback, programa da própria loja, não soma com o MMEMCASACOMCECILIA. O frete grátis vale acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 nas outras regiões, segundo o site da loja."
         ],
@@ -122459,7 +122456,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento.",
-          "A Mais Mu é confiável segundo o Reclame Aqui? O perfil mostra reputação Boa nos últimos 6 meses (nota 7,1), em 12 meses (7,4) e na aba Geral (7,7). A nota mede o atendimento às reclamações, não o produto. Veja também [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
+          "A Mais Mu é confiável segundo o Reclame Aqui? O perfil mostra reputação Boa no semestre, nos 12 meses e no Geral. A nota mede o atendimento às reclamações, não o produto. Veja também [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
           "Qual a nota da Mais Mu no Reclame Aqui? Nos últimos 6 meses, 7,1; em 12 meses, 7,4; na aba Geral, 7,7.",
           "A Mais Mu responde às reclamações? Sim, na maior parte: 95,4% nos últimos 6 meses e 98,3% em 12 meses. O tempo médio de resposta nos 6 meses é de quase 26 dias.",
           "O que fazer se o pedido da Mais Mu atrasar? Acompanhe o rastreio no rastreae.com.br e escreva para fala.ai@maismu.com.br com o número do pedido.",
@@ -122568,7 +122565,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "2. Cole o código em \"Adicionar cupom de desconto\"",
         "paragraphs": [
-          "No resumo do pedido, ao lado do checkout, clique em \"Adicionar cupom de desconto\". Cole o código MMEMCASACOMCECILIA no campo \"Código do cupom\" e clique na seta. O código é longo: copie e cole, não digite."
+          "No resumo do pedido, no checkout, clique em \"Adicionar cupom de desconto\". Cole o código MMEMCASACOMCECILIA no campo \"Código do cupom\" e clique na seta. O código é longo: copie e cole, não digite."
         ],
         "images": [
           {
@@ -122663,7 +122660,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que soma com o cupom e o que não soma",
         "paragraphs": [
           "O cupom vale em todas as formas de pagamento da loja. No Pix, os 3% de desconto da própria loja entram junto: o cupom soma com eles.",
-          "A loja tem um programa de cashback próprio, e o crédito dele chega como código para o campo de cupom. Como a loja não acumula cupons, ele não soma com o MMEMCASACOMCECILIA: em cada pedido, vale um dos dois. O desconto de boas-vindas da loja também conta como cupom. O cashback é da loja, não uma vantagem do nosso cupom.",
+          "A loja tem um programa de cashback próprio, e o crédito dele chega como código para o campo de cupom. Como a loja não acumula cupons, ele não soma com o MMEMCASACOMCECILIA: em cada pedido, vale um dos dois. O cashback é da loja, não uma vantagem do nosso cupom.",
           "O cupom não vale no Mercado Livre, onde vale o preço do anúncio. Para ver a marca por lá, use o [link da marca no Mercado Livre](https://meli.la/24RjvdP) e compare o preço do anúncio com o do site oficial."
         ]
       },
@@ -122690,7 +122687,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento.",
-          "O cupom da Mais Mu vale na primeira compra? Sim. Ele vale na primeira compra e também para quem já comprou. O desconto de boas-vindas da loja não soma com ele.",
+          "O cupom da Mais Mu vale na primeira compra? Sim. Ele vale na primeira compra e também para quem já comprou, com os mesmos 10%.",
           "O cupom vale em todas as formas de pagamento? Sim. Ele vale em todas as formas de pagamento da loja e soma com os 3% de desconto do Pix.",
           "O cupom soma com produto em promoção? Sim. No nosso teste, os 10% entraram sobre os preços da Blue Friday.",
           "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial. No Mercado Livre, vale o preço do anúncio.",
@@ -122727,7 +122724,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Aplique o cupom se você vai comprar no site oficial e quer 10% sobre os preços da campanha, no Pix ou em qualquer forma de pagamento.",
+        "Aplique o cupom se você vai comprar no site oficial e quer 10% sobre os preços da campanha, em todas as formas de pagamento.",
         "Aplique se o seu pedido fica acima do mínimo de frete grátis da região mesmo depois do desconto."
       ],
       "skipIf": [
@@ -122813,7 +122810,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O preço de lista é o que a loja risca, e o desconto da campanha é por produto. Compare o mesmo produto, sabor e tamanho, e confira o total com cupom e frete, porque o preço do site muda sem aviso."
+          "O desconto da campanha é por produto. Compare o mesmo produto, sabor e tamanho, e confira o total com cupom e frete, porque o preço do site muda sem aviso."
         ],
         "images": [
           {
@@ -122829,7 +122826,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: pote, refil ou sachê",
         "paragraphs": [
-          "O whey concentrado da Mais Mu tem 20 g de proteína por dose, e o isolado e a proteína vegetal, 22 g. A loja publica a contagem de doses de parte das embalagens, em geral como \"cerca de\", e é com ela que dá para comparar o custo da dose e da proteína. A tabela usa o preço do site no cartão em 23/11, na Blue Friday, e a conta de 10% do cupom."
+          "O whey concentrado da Mais Mu tem 20 g de proteína por dose, e o isolado e a proteína vegetal, 22 g. A loja publica a contagem de doses de parte das embalagens, em geral como \"cerca de\", e é com ela que dá para comparar o custo da dose e da proteína. A tabela usa o preço do site no cartão, na Blue Friday, e a conta de 10% do cupom."
         ],
         "comparisonTable": {
           "caption": "Whey e proteína vegetal da Mais Mu: preço do site no cartão na Blue Friday e conta com o cupom MMEMCASACOMCECILIA (10%). As contas por dose e por 100 g de proteína usam a contagem de doses publicada pela loja e o valor com o cupom.",
@@ -122847,31 +122844,31 @@ export const reviewsData: unknown[] = [
               "R$ 26,03"
             ],
             [
-              "[Proteína vegetal, pote 450 g](https://www.lojamaismu.com.br/produtos/proteina-vegetal-torta-de-banana-com-canela-pote-450g/): 12 doses de 22 g",
+              "[Proteína vegetal, pote 450 g](https://www.lojamaismu.com.br/produtos/proteina-vegetal-torta-de-banana-com-canela-pote-450g/): 12 doses, com 22 g de proteína cada",
               "R$ 107,99 → R$ 97,19",
               "R$ 8,10",
               "R$ 36,81"
             ],
             [
-              "[Concentrado, refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/): cerca de 25 doses de 20 g",
+              "[Concentrado, refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/): cerca de 25 doses, com 20 g de proteína cada",
               "R$ 209,25 → R$ 188,33",
               "R$ 7,53",
               "R$ 37,67"
             ],
             [
-              "[Isolado, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-baunilha-pote-450g/): 16 doses de 22 g",
+              "[Isolado, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-baunilha-pote-450g/): 16 doses, com 22 g de proteína cada",
               "R$ 179,99 → R$ 161,99",
               "R$ 10,12",
               "R$ 46,02"
             ],
             [
-              "[Concentrado, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-pote-450g/): cerca de 13 doses de 20 g",
+              "[Concentrado, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-pote-450g/): cerca de 13 doses, com 20 g de proteína cada",
               "R$ 135,99 → R$ 122,39",
               "R$ 9,41",
               "R$ 47,07"
             ],
             [
-              "[Concentrado, caixa de 15 sachês](https://www.lojamaismu.com.br/produtos/whey-concentrado-baunilha-sache-465g/): 20 g por sachê",
+              "[Concentrado, caixa de 15 sachês](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-com-coco-sache-525g/): 20 g por sachê",
               "R$ 167,89 → R$ 151,10",
               "R$ 10,07",
               "R$ 50,37"
@@ -122879,7 +122876,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**Isolado refil de 900 g:** com 33 porções de 27 g no rótulo, é o menor custo por proteína da tabela nos preços de hoje. Quem prefere concentrado tem o refil de 900 g, com o menor custo entre os concentrados com contagem publicada.",
+          "**Isolado refil de 900 g:** com 33 porções de 27 g no rótulo, é o menor custo por proteína da tabela nos preços de hoje. Quem prefere concentrado tem o refil de 900 g; o de [Chocolate](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-refil-900g/), a R$ 181,99, com cerca de 23 doses, é o mais barato deles: R$ 35,61 por 100 g de proteína com o cupom.",
           "**Pote de 450 g:** a menor quantidade para começar ou trocar de sabor. Os potes de parceria (Pistache Borelli, Banoffee Nanica e Brownie do Luiz, de 418 g e 420 g) custam o mesmo que o pote comum, sem contagem de doses publicada.",
           "**Caixa de 15 sachês:** cada sachê é uma dose, pronta para levar. A praticidade tem preço: é a proteína mais cara da tabela.",
           "**Isolado de 450 g e vegetal:** o isolado de 450 g está com a proteína no mesmo patamar do concentrado de 450 g, e a proteína vegetal tem o menor custo do pote de 450 g."
@@ -122901,10 +122898,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Barrinhas e wafers: proteína por unidade ou menos calorias",
         "paragraphs": [
-          "As barrinhas e os wafers da Mais Mu são vendidos em caixa. Na conta por grama de proteína, o que separa um do outro é o sabor da Mukebar, o tamanho da unidade, as calorias e o valor da caixa."
+          "As barrinhas e os wafers da Mais Mu são vendidos em caixa. O que separa um do outro é o tamanho da unidade, as calorias e o valor da caixa; na Mukebar, o preço muda com o sabor."
         ],
         "comparisonTable": {
-          "caption": "Barrinhas e wafers proteicos da Mais Mu: rótulo por unidade e preço por unidade no site, no cartão em 23/11, na Blue Friday, com a conta de 10% do cupom MMEMCASACOMCECILIA.",
+          "caption": "Barrinhas e wafers proteicos da Mais Mu: rótulo por unidade e preço por unidade no site, no cartão, na Blue Friday, com a conta de 10% do cupom MMEMCASACOMCECILIA.",
           "headers": [
             "Produto e caixa",
             "Proteína e calorias por unidade",
@@ -122969,18 +122966,12 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual compra vale mais na Blue Friday da Mais Mu?",
-        "emphasis": "Para gastar menos por grama de proteína, eu escolheria o Whey Isolado refil de 900 g, e, se o orçamento pedir concentrado, o refil de 900 g dele. Eu fecharia a compra no site oficial, com o MMEMCASACOMCECILIA aplicado no checkout.",
+        "emphasis": "Para gastar menos por grama de proteína, eu escolheria o Whey Isolado refil de 900 g; para quem prefere os sabores do concentrado, eu iria no refil de 900 g de Chocolate. Eu fecharia a compra no site oficial, com o MMEMCASACOMCECILIA aplicado no checkout.",
         "bullets": [
           "**Menor custo por proteína:** o [Whey Isolado refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/), a R$ 209,99 no cartão, R$ 26,03 por 100 g de proteína com o cupom.",
-          "**Concentrado:** o [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/), a R$ 209,25, R$ 37,67 por 100 g de proteína com o cupom.",
+          "**Concentrado:** o [refil de 900 g de Chocolate](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-refil-900g/), a R$ 181,99, R$ 35,61 por 100 g de proteína com o cupom; nos sabores Baunilha e Morango, a R$ 209,25, R$ 37,67.",
           "**Creatina e pré-treino:** o [refil de 500 g de creatina](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/), a R$ 74,90, e o [Exquenta Amora e Melancia de 500 g](https://www.lojamaismu.com.br/produtos/exquenta-amora-e-melancia-500g/), a R$ 89,99.",
           "**Barrinha:** a [Mukebar de Chocolate com avelã](https://www.lojamaismu.com.br/produtos/mukebar-barra-de-proteina-chocolate-com-avela-720g/), a R$ 89,94 a caixa de 12, ou o [Chocowheyfer Sem Cobertura](https://www.lojamaismu.com.br/produtos/chocowheyfer-sem-cobertura-chocolate-rm7ps/) pelo menor valor de caixa."
-        ],
-        "paragraphs": [
-          "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O cupom dá 10% OFF em todo o site, em todas as formas de pagamento, para conta nova e antiga, e soma com os 3% do Pix.",
-          "No nosso teste de checkout, com o whey concentrado baunilha refil de 900 g, a creatina refil de 500 g e dois wheys Paçoquita de 450 g, o subtotal de R$ 556,13 teve R$ 55,61 de desconto do cupom e fechou em R$ 500,52, com a creatina de brinde no pedido. Os 10% entram sobre os preços da campanha.",
-          "A loja não acumula cupons: o crédito do cashback, programa da própria loja, não soma com o MMEMCASACOMCECILIA, e o mesmo vale para o desconto de boas-vindas. O cupom não vale no [Mercado Livre da Mais Mu](https://meli.la/24RjvdP), onde vale o preço do anúncio.",
-          "O passo a passo com o carrinho está em [Cupom Mais Mu MMEMCASACOMCECILIA: como usar](/reviews/cupom-mais-mu-como-usar)."
         ],
         "images": [
           {
@@ -123001,6 +122992,12 @@ export const reviewsData: unknown[] = [
             "label": "Ver o cupom Mais Mu",
             "href": "/cupons/mais-mu"
           }
+        ],
+        "postParagraphs": [
+          "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O cupom dá 10% OFF em todo o site, em todas as formas de pagamento, para conta nova e antiga, e soma com os 3% do Pix.",
+          "No nosso teste de checkout, com o whey concentrado baunilha refil de 900 g, a creatina refil de 500 g e dois wheys Paçoquita de 450 g, o subtotal de R$ 556,13 teve R$ 55,61 de desconto do cupom e fechou em R$ 500,52, com a creatina de brinde no pedido. Os 10% entram sobre os preços da campanha.",
+          "A loja não acumula cupons: o crédito do cashback, programa da própria loja, não soma com o MMEMCASACOMCECILIA. O cupom não vale no [Mercado Livre da Mais Mu](https://meli.la/24RjvdP), onde vale o preço do anúncio.",
+          "O passo a passo com o carrinho está em [Cupom Mais Mu MMEMCASACOMCECILIA: como usar](/reviews/cupom-mais-mu-como-usar)."
         ]
       },
       {
@@ -123012,7 +123009,7 @@ export const reviewsData: unknown[] = [
           "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 3% que a loja dá no Pix.",
           "Posso usar o cupom junto com o crédito do cashback? Não. O crédito chega como um código para o campo de cupom, e a loja aceita um cupom por pedido.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio, sem o cupom.",
-          "O que é a Blue Friday da Mais Mu? É o nome que a loja dá à Black Friday: nesta edição, uma creatina de 210 g de brinde em qualquer compra, enquanto durar o estoque, além dos 3% do Pix.",
+          "O que é a Blue Friday da Mais Mu? É o nome que a loja dá à Black Friday dela.",
           "Qual whey da Mais Mu compensa na Black Friday? O Whey Isolado refil de 900 g tem o menor custo por proteína da tabela. Entre os concentrados com contagem de doses publicada, o refil de 900 g sai mais barato por proteína; o pote de 450 g serve para começar com menos, e a caixa de sachês, para levar a dose pronta."
         ]
       }
@@ -123050,7 +123047,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Passe no pote de 450 g se vai repor o whey: o refil sai mais barato por dose.",
         "Passe nos sachês se o preço por dose decide: são a proteína mais cara da tabela.",
-        "Passe pelo site se prefere o Mercado Livre, onde o cupom não vale."
+        "Passe se prefere comprar no Mercado Livre: lá o cupom não vale."
       ]
     }
   },
@@ -123084,7 +123081,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Blue Friday da Mais Mu, o refil de 1,8 kg do whey concentrado fica quase igual ao concentrado da Growth por grama de proteína, e o cupom decide. No isolado e na creatina sem sabor de 500 g, a Mais Mu sai abaixo da Growth. A Growth entrega mais proteína por dose."
+          "Na Blue Friday da Mais Mu, o refil de 1,8 kg do whey concentrado, pelo peso, fica quase igual ao concentrado da Growth por grama de proteína, e o cupom decide. No isolado e na creatina sem sabor de 500 g, a Mais Mu sai abaixo da Growth. A Growth entrega mais proteína por dose."
         ]
       },
       {
@@ -123110,15 +123107,15 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Whey Protein Concentrado Mais Mu baunilha refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/)",
-              "36 g, 20 g de proteína",
-              "25",
+              "20 g de proteína por dose",
+              "cerca de 25 (loja)",
               "R$ 209,25",
               "R$ 41,85"
             ],
             [
               "[Whey Protein Concentrado Mais Mu baunilha refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/)",
-              "36 g, 20 g de proteína",
-              "50",
+              "20 g de proteína por dose",
+              "50 pelo peso",
               "R$ 299,99",
               "R$ 30,00"
             ],
@@ -123130,11 +123127,11 @@ export const reviewsData: unknown[] = [
               "R$ 29,26"
             ]
           ],
-          "caption": "Preços do site no cartão em 23/11/2026, na Blue Friday, sem frete. Os da Growth são os da nossa conferência anterior. Por 100 g de proteína: preço ÷ (porções × proteína por dose) × 100."
+          "caption": "Preços do site no cartão em 23/11/2026, na Blue Friday, sem frete. Os da Growth são os da nossa conferência anterior. No refil de 1,8 kg a loja não publica a contagem: a conta usa o peso e a porção de 36 g da tabela do pote de 450 g. Por 100 g de proteína: preço ÷ (porções × proteína por dose) × 100."
         },
         "postParagraphs": [
-          "No Pix, o refil de 1,8 kg da Mais Mu sai a R$ 29,10 por 100 g de proteína, e a Growth, a R$ 26,34. Com o cupom (cartão × 0,90), o refil de 1,8 kg cai para R$ 27,00, abaixo do cartão da Growth; com o cupom e o Pix somados (cartão × 0,873), para R$ 26,19, centavos abaixo do Pix da Growth, que não tem cupom.",
-          "Sem cupom, a Growth fica abaixo de todas as linhas de concentrado da Mais Mu. O refil de 900 g, com a mesma dose de 36 g, sai a R$ 41,85 no cartão e a R$ 36,53 com cupom e Pix."
+          "No Pix, o refil de 1,8 kg da Mais Mu, pelo peso, sai a R$ 29,10 por 100 g de proteína, e a Growth, a R$ 26,34. Com o cupom (cartão × 0,90), o refil de 1,8 kg cai para R$ 27,00, abaixo do cartão da Growth; com o cupom e o Pix somados (cartão × 0,873), para R$ 26,19, centavos abaixo do Pix da Growth, que não tem cupom.",
+          "Sem cupom, a Growth fica abaixo de todas as linhas de concentrado da Mais Mu. O refil de 900 g sai a R$ 41,85 no cartão e a R$ 36,53 com cupom e Pix."
         ],
         "images": [
           {
@@ -123188,7 +123185,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "No Pix, o refil de 900 g da Mais Mu sai a R$ 28,06 por 100 g de proteína, e a Growth, a R$ 39,27. Com o cupom, o refil cai para R$ 26,03 no cartão, e com cupom e Pix somados, para R$ 25,25.",
           "O refil de 900 g da Mais Mu sai abaixo do isolado da Growth em todas as formas de pagamento, mesmo sem cupom. O pote de 450 g, a R$ 51,13, fica acima. Outras lojas contra a Growth estão em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey).",
-          "O [Whey Isolado Mais Mu sem sabor de 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) é outra versão. Confira a porção e o rendimento no rótulo dela; não aplique automaticamente a ela a conta do baunilha."
+          "O [Whey Isolado Mais Mu sem sabor de 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/) é outra versão. A página dela traz as mesmas 16 doses, com 22 g de proteína cada, então a conta é a do baunilha."
         ],
         "images": [
           {
@@ -123266,14 +123263,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde a Growth ganha e onde a Mais Mu ganha",
         "paragraphs": [
-          "Com os preços da Blue Friday da Mais Mu e os da Growth da conferência anterior, os resultados foram estes:"
+          "Com os preços da Blue Friday da Mais Mu e os da Growth da conferência anterior, os resultados foram estes; os números estão no veredito."
         ],
         "bullets": [
-          "**Concentrado: a Growth ganha sem cupom; com cupom e Pix, a Mais Mu fica centavos abaixo.** O concentrado de 1 kg sai a R$ 26,34 por 100 g no Pix, contra R$ 29,10 do refil de 1,8 kg da Mais Mu; com cupom e Pix, o refil cai para R$ 26,19.",
-          "**Isolado: a Mais Mu ganha em todas as formas de pagamento.** O refil de 900 g sai a R$ 28,92 por 100 g no cartão, contra R$ 43,63 da Growth, e a R$ 25,25 com cupom e Pix.",
-          "**A Growth ganha na proteína por dose.** São 23 g em 30 g no concentrado, contra 20 g em 36 g da Mais Mu, e 27 g contra 22 g no isolado.",
-          "**Creatina: a Mais Mu ganha em todas as formas de pagamento.** O refil de 500 g sai a R$ 14,98 por 100 g no cartão e a R$ 14,53 no Pix, contra R$ 16,64 e R$ 14,98 do pouch da Growth; com cupom e Pix, cai para R$ 13,08.",
-          "**Entre as linhas desta conta, só a Mais Mu tem creatina com sabor.** São limonada e melancia, a R$ 32,49 e R$ 17,48 por 100 g de creatina no cartão, acima do sem sabor no refil de 500 g."
+          "**Concentrado: a Growth ganha sem cupom; com cupom e Pix, o refil de 1,8 kg da Mais Mu fica centavos abaixo, pelo peso.**",
+          "**Isolado: a Mais Mu ganha em todas as formas de pagamento.**",
+          "**A Growth ganha na proteína por dose, no concentrado e no isolado.**",
+          "**Creatina: a Mais Mu ganha em todas as formas de pagamento.**",
+          "**Entre as linhas desta conta, só a Mais Mu tem creatina com sabor.**"
         ],
         "postParagraphs": [
           "Não há um veredito único: a Growth segue à frente no concentrado sem cupom, e a Mais Mu vence no isolado e na creatina."
@@ -123291,11 +123288,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mais Mu ou Growth: qual eu compraria?",
         "emphasis": "Para gastar menos por grama de proteína no isolado e por grama de creatina, eu compraria na Mais Mu com o cupom; no concentrado, a diferença é de centavos, e eu iria na loja que fechar o menor total com frete.",
-        "paragraphs": [
-          "Pelos rótulos e pelos preços:"
-        ],
         "bullets": [
-          "Quer o menor preço por 100 g de proteína no concentrado: a Growth de 1 kg, a R$ 26,34 no Pix, ou o [refil de 1,8 kg da Mais Mu](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 26,19 com cupom e Pix.",
+          "Quer o menor preço por 100 g de proteína no concentrado: a Growth de 1 kg, a R$ 26,34 no Pix, ou o [refil de 1,8 kg da Mais Mu](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 26,19 com cupom e Pix, pelo peso (conta nossa; a loja não publica a contagem).",
           "Quer isolado pelo menor preço: o [refil de 900 g da Mais Mu](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/), a R$ 25,25 com cupom e Pix, contra R$ 39,27 da Growth no Pix.",
           "Quer creatina sem sabor: o [refil de 500 g da Mais Mu](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/), a R$ 13,08 por 100 g com cupom e Pix.",
           "Quer mais proteína em cada dose de whey: a Growth, com 23 g no concentrado e 27 g no isolado.",
@@ -123323,8 +123317,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com os 3% do Pix.",
           "Mais Mu ou Growth: qual é melhor? Depende da linha: a Mais Mu tem menor custo por grama no isolado e na creatina, e a Growth, na proteína por dose do concentrado. Isso mede preço por grama, não sabor nem qualidade geral.",
-          "Qual whey tem o menor preço por 100 g de proteína? No concentrado, a Growth de 1 kg no Pix e o refil de 1,8 kg da Mais Mu com cupom e Pix ficam separados por centavos; no isolado, o refil de 900 g da Mais Mu.",
-          "A Mais Mu é boa? Esta comparação responde só pelo rótulo, pela dose e pelo preço.",
+          "Qual whey tem o menor preço por 100 g de proteína? No concentrado, a Growth de 1 kg no Pix e o refil de 1,8 kg da Mais Mu com cupom e Pix, pelo peso, ficam separados por centavos; no isolado, o refil de 900 g da Mais Mu.",
+          "A Mais Mu é boa? Nesta conta, ela tem o menor custo por grama no isolado e na creatina. O que cada linha traz no rótulo está em [Mais Mu é boa?](/reviews/mais-mu-e-boa).",
           "A creatina da Mais Mu é pura? O nome do produto diz 100% Pura, e o rótulo do sem sabor lista só creatina monohidratada.",
           "Tem selo Creapure? As páginas da Mais Mu não declaram Creapure nem laudo; confira o rótulo do pote.",
           "O cupom soma com o Pix? Sim. O cupom de 10% soma com os 3% do Pix, em sequência, e vale em todas as formas de pagamento. Não soma com o crédito do cashback.",
@@ -123407,14 +123401,13 @@ export const reviewsData: unknown[] = [
           "No whey concentrado, a Mais Mu declara 20 g de proteína por dose, com 36 g de pó. A página lista derivados do leite e da soja entre os alérgenos.",
           "No whey isolado da Mais Mu, a página diz \"não contém glúten\" e \"contém lactose\" na linha baunilha. A dose é de 27 g, com 22 g de proteína.",
           "Na creatina sem sabor, a Mais Mu diz \"100% Pura\", monohidratada e \"não é de origem animal\", e a página diz que não contém glúten.",
-          "A Dux diz \"proteína 100% pura, sem blends\" no concentrado e \"100% Creapure\" na linha Creapure. No isolado, a página da Dux diz \"contém glúten\" e \"contém lactose\".",
-          "Dúvida sobre suplemento, alergia ou dieta: fale antes com um médico ou um nutricionista."
+          "A Dux diz \"proteína 100% pura, sem blends\" no concentrado e \"100% Creapure\" na linha Creapure. No isolado, a página da Dux diz \"contém glúten\" e \"contém lactose\"."
         ]
       },
       {
         "heading": "Whey concentrado: proteína por dose e preço por 100 g",
         "paragraphs": [
-          "Por 100 g de proteína, no cartão e sem cupom: as linhas da Mais Mu têm a mesma dose, 36 g com 20 g. A Dux tem dose de 30 g, com 20 g de proteína. Pelo preço do pote a comparação engana: a conta por 100 g de proteína iguala potes de tamanhos diferentes."
+          "A Mais Mu declara 20 g de proteína por dose no concentrado, em porção de 36 g na tabela do pote de 450 g. A Dux tem dose de 30 g, com os mesmos 20 g. Pelo preço do pote a comparação engana: a conta por 100 g de proteína, no cartão e sem cupom, iguala embalagens de tamanhos diferentes."
         ],
         "comparisonTable": {
           "headers": [
@@ -123434,15 +123427,15 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Whey Concentrado Mais Mu Baunilha Refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/)",
-              "36 g, 20 g de proteína",
-              "25",
+              "20 g de proteína por dose",
+              "cerca de 25 (loja)",
               "R$ 209,25",
               "R$ 41,85"
             ],
             [
               "[Whey Concentrado Mais Mu Baunilha Refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/)",
-              "36 g, 20 g de proteína",
-              "50",
+              "20 g de proteína por dose",
+              "50 pelo peso",
               "R$ 299,99",
               "R$ 30,00"
             ],
@@ -123461,19 +123454,29 @@ export const reviewsData: unknown[] = [
               "R$ 53,99"
             ]
           ],
-          "caption": "Preços do site no cartão em 23/11/2026, na Blue Friday, sem frete; os da Dux são os da nossa conferência anterior. Contas nossas: por 100 g de proteína = preço ÷ (doses × proteína por dose) × 100; com cupom, cartão × 0,90; com cupom e Pix, cartão × 0,873."
+          "caption": "Preços do site no cartão em 23/11/2026, na Blue Friday, sem frete; os da Dux são os da nossa conferência anterior. No refil de 1,8 kg da Mais Mu a loja não publica a contagem: a conta usa o peso e a porção de 36 g da tabela do pote de 450 g. Contas nossas: por 100 g de proteína = preço ÷ (doses × proteína por dose) × 100; com cupom, cartão × 0,90; com cupom e Pix, cartão × 0,873."
         },
         "postParagraphs": [
-          "No Pix, a conta fica em R$ 40,59 no [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/) e R$ 29,10 no [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/) da Mais Mu, e em R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) da Dux. Com cupom e Pix, a Mais Mu cai para R$ 36,53 no 900 g e R$ 26,19 no 1,8 kg.",
+          "No Pix, a conta fica em R$ 40,59 no [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/) e R$ 29,10 (pelo peso) no [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/) da Mais Mu, e em R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) da Dux. Com cupom e Pix, a Mais Mu cai para R$ 36,53 no 900 g e R$ 26,19 no 1,8 kg.",
           "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. A página diz 30 doses, e a conta usa o peso.",
-          "A linha de 1,8 kg da Mais Mu é a mais barata do concentrado por 100 g de proteína. Por dose, ela sai a R$ 6,00 no cartão, contra R$ 10,80 da Dux de 1,8 kg. Até o pote de 450 g da Mais Mu fica abaixo das duas linhas da Dux.",
+          "Pelo peso, a linha de 1,8 kg da Mais Mu é a mais barata do concentrado por 100 g de proteína; a loja não publica a contagem. Por dose, ela sai a R$ 6,00 no cartão, contra R$ 10,80 da Dux de 1,8 kg. Até o pote de 450 g da Mais Mu fica abaixo das duas linhas da Dux.",
           "O sabor paçoquita da Mais Mu traz \"contém glúten\" na página; o baunilha, usado nesta tabela, traz \"não contém glúten\". A conta não muda por sabor."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-ou-growth-whey-concentrado.webp",
+            "alt": "Whey Protein Concentrado Mais Mu sabor baunilha no pote de 450 g, no refil de 900 g e no refil de 1,8 kg",
+            "caption": "As três embalagens do whey concentrado baunilha da Mais Mu citadas na tabela. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778,
+            "href": "https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/"
+          }
         ]
       },
       {
         "heading": "Whey isolado: proteína por dose e preço por 100 g",
         "paragraphs": [
-          "Por 100 g de proteína, no cartão e sem cupom: a dose da Mais Mu é de 27 g com 22 g, exceto no sem sabor de 450 g, de 25 g pelo rótulo. A Dux declara 24 g de proteína por dose, mas não o número de doses do isolado; a conta usa 30 g por dose, dose inferida."
+          "Por 100 g de proteína, no cartão e sem cupom: a dose da Mais Mu é de 27 g com 22 g, inclusive no sem sabor de 450 g, que a página dá com 16 doses. A Dux declara 24 g de proteína por dose, mas não o número de doses do isolado; a conta usa 30 g por dose, dose inferida."
         ],
         "comparisonTable": {
           "headers": [
@@ -123493,10 +123496,10 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Whey Isolado Mais Mu Sem Sabor 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/)",
-              "25 g, 22 g de proteína",
-              "18",
+              "27 g, 22 g de proteína",
+              "16",
               "R$ 179,99",
-              "R$ 45,45"
+              "R$ 51,13"
             ],
             [
               "[Whey Isolado Mais Mu Baunilha 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-baunilha-pote-450g/)",
@@ -123517,7 +123520,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, o [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/) da Mais Mu sai a R$ 28,06 por 100 g de proteína, e o isolado da Dux de 900 g, a R$ 74,01. Com cupom e Pix, o refil da Mais Mu cai para R$ 25,25.",
-          "O refil de 900 g é o isolado mais barato por grama de proteína entre os da Mais Mu. O pote sem sabor de 450 g sai a R$ 45,45, e o baunilha de 450 g, a R$ 51,13: os dois ficam abaixo do isolado da Dux."
+          "O refil de 900 g é o isolado mais barato por grama de proteína entre os da Mais Mu. Os potes de 450 g, sem sabor e baunilha, saem a R$ 51,13: ficam abaixo do isolado da Dux."
         ],
         "images": [
           {
@@ -123615,9 +123618,8 @@ export const reviewsData: unknown[] = [
         "heading": "Creapure e pureza",
         "paragraphs": [
           "A Dux diz que a linha de 300 g é \"100% Creapure\", com 3 g por dose e 100 doses. O selo é declaração da Dux.",
-          "As páginas da Mais Mu não declaram Creapure nem laudo, e isso não quer dizer que o produto da Mais Mu não seja Creapure.",
-          "No preço, a diferença é grande. Por 100 g, a Creapure da Dux sai a R$ 91,63 no cartão e R$ 87,05 no Pix. O [refil de 500 g da Mais Mu](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/) sai a R$ 14,98 e R$ 14,53 no Pix. Quem quer o selo declarado pela Dux paga por ele; quem compara por grama de creatina, não.",
-          "Esta comparação é de rótulo e de preço. Ela não trata de efeito no corpo."
+          "As páginas da Mais Mu não declaram Creapure nem laudo; quem procura o selo confere o rótulo do pote.",
+          "No preço, a diferença é grande. Por 100 g, a Creapure da Dux sai a R$ 91,63 no cartão e R$ 87,05 no Pix. O [refil de 500 g da Mais Mu](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/) sai a R$ 14,98 no cartão e R$ 14,53 no Pix. Quem quer o selo declarado pela Dux paga por ele; quem compara por grama de creatina, não."
         ]
       },
       {
@@ -123643,14 +123645,14 @@ export const reviewsData: unknown[] = [
           "A Dux leva o pó mais concentrado em proteína, Creapure, Pix e frete; a Mais Mu leva preço por grama e cupom:"
         ],
         "bullets": [
-          "**Dux:** no concentrado, a mesma dose de 20 g de proteína vem em 30 g de pó (67%), contra 36 g da Mais Mu (56%). No isolado, 24 g por dose contra 22 g.",
-          "**Dux:** a creatina de 300 g traz 300 g de creatina por R$ 64,90, contra 200 g por R$ 58,49 na Mais Mu sem sabor de 200 g.",
+          "**Dux:** o concentrado entrega a mesma proteína por dose em mais pó, e o isolado traz mais proteína por dose.",
+          "**Dux:** a creatina de 300 g traz mais creatina no pote que a Mais Mu sem sabor de 200 g.",
           "**Dux:** a única Creapure declarada entre as duas, com \"100% Creapure\" na página.",
-          "**Dux:** Pix de 5%, e frete grátis a partir de R$ 250 no Sudeste, contra R$ 299 da Mais Mu.",
+          "**Dux:** Pix de 5% e frete grátis a partir de um valor menor.",
           "**Dux:** o concentrado de 900 g sai em 13 sabores, com o Neutro, e o isolado de 900 g, em 11. Sabor não entra na conta.",
-          "**Mais Mu:** preço por 100 g de proteína no concentrado em todas as embalagens: R$ 52,30 no pote de 450 g, R$ 41,85 no refil de 900 g e R$ 30,00 no de 1,8 kg, contra R$ 61,48 e R$ 53,99 da Dux no cartão.",
-          "**Mais Mu:** preço por 100 g de proteína no isolado: R$ 28,92 no refil de 900 g, contra R$ 77,90 da Dux no cartão.",
-          "**Mais Mu:** preço por grama de creatina no refil de 500 g sem sabor (R$ 14,98 contra R$ 21,63 da Dux de 300 g).",
+          "**Mais Mu:** menor preço por 100 g de proteína no concentrado, em todas as embalagens.",
+          "**Mais Mu:** menor preço por 100 g de proteína no isolado.",
+          "**Mais Mu:** menor preço por grama de creatina no refil de 500 g sem sabor.",
           "**Mais Mu:** cupom MMEMCASACOMCECILIA de 10% em todo o site, inclusive em oferta. Não temos código de parceria para a Dux.",
           "**Mais Mu:** no isolado, a página diz \"não contém glúten\"; a da Dux diz \"contém glúten\"."
         ]
@@ -123658,11 +123660,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Mais Mu ou Dux: qual eu compraria?",
         "emphasis": "Para gastar menos por grama de proteína e por grama de creatina, eu compraria na Mais Mu com o cupom; para o pó mais concentrado em proteína ou o selo Creapure declarado, eu iria na Dux.",
-        "paragraphs": [
-          "Pelos rótulos e pelos preços:"
-        ],
         "bullets": [
-          "Quer o menor preço por 100 g de proteína no whey: o [Whey Concentrado Mais Mu Baunilha Refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 30,00 no cartão, R$ 29,10 no Pix e R$ 26,19 com cupom e Pix.",
+          "Quer o menor preço por 100 g de proteína no whey: o [Whey Concentrado Mais Mu Baunilha Refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), pelo peso (conta nossa; a loja não publica a contagem), a R$ 30,00 no cartão, R$ 29,10 no Pix e R$ 26,19 com cupom e Pix.",
           "Quer o pó mais concentrado em proteína e não depende de cupom: o concentrado da Dux, com 20 g de proteína em 30 g de pó. O de 900 g sai a R$ 58,41 por 100 g no Pix, e o de 1,8 kg, a R$ 51,29.",
           "Quer isolado: o [Whey Isolado Mais Mu Baunilha Refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/), a R$ 28,92 no cartão, R$ 28,06 no Pix e R$ 25,25 com cupom e Pix. Quer 24 g de proteína por dose: o isolado da Dux, a R$ 77,90 no cartão.",
           "Quer creatina pelo menor preço por grama: a [Creatina Mais Mu Sem Sabor Refil 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/), a R$ 14,98 no cartão, R$ 14,53 no Pix e R$ 13,08 com cupom e Pix.",
@@ -123688,7 +123687,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com os 3% do Pix.",
-          "Mais Mu ou Dux: qual whey? A Mais Mu sai mais barata por 100 g de proteína no concentrado e no isolado, em todas as embalagens comparadas. A dose de proteína do concentrado é a mesma, 20 g, mas a Dux a entrega em 30 g de pó, contra 36 g da Mais Mu.",
+          "Mais Mu ou Dux: qual whey? A Mais Mu sai mais barata por 100 g de proteína no concentrado e no isolado, em todas as embalagens comparadas (no refil de 1,8 kg, a conta é pelo peso). A dose de proteína do concentrado é a mesma, 20 g, mas a Dux a entrega em 30 g de pó, contra 36 g da Mais Mu.",
           "Qual creatina compensa mais? Por grama, o refil de 500 g da Mais Mu; a Dux de 300 g sai acima, e a Creapure dela, bem acima.",
           "A Dux é boa marca? Este texto responde só pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz \"proteína 100% pura, sem blends\" no concentrado. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
           "A Dux tem cupom? Não temos código de parceria para a Dux. O MMEMCASACOMCECILIA vale somente na Mais Mu.",
@@ -123706,7 +123705,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe na Dux se você depende de cupom: não temos código de parceria para ela.",
-        "Passe na Mais Mu se você pesa só o Pix maior ou o frete grátis mais baixo: a Dux leva nos dois, mas o total é que decide."
+        "Passe na Mais Mu se o pedido é pequeno e o frete decide: o frete grátis da Dux começa em valor menor."
       ]
     },
     "pros": [],
@@ -145112,18 +145111,18 @@ export const reviewsData: unknown[] = [
               "139 mg"
             ],
             [
-              "[Creme de Avelã](https://lojalaganexa.com.br/products/copia-de-leitinho-com-whey-protein)",
-              "18 g",
-              "5,3 g",
-              "não informa",
-              "194 mg"
-            ],
-            [
               "[Pistache](https://lojalaganexa.com.br/products/pistache-com-whey-protein)",
               "19 g",
               "7 g",
               "não informa (a lista tem maltitol)",
               "122 mg"
+            ],
+            [
+              "[Creme de Avelã](https://lojalaganexa.com.br/products/copia-de-leitinho-com-whey-protein)",
+              "18 g",
+              "5,3 g",
+              "não informa",
+              "194 mg"
             ],
             [
               "[Caramelo e Flor de Sal](https://lojalaganexa.com.br/products/caramelo-flor-de-sal)",
@@ -145153,7 +145152,7 @@ export const reviewsData: unknown[] = [
         "heading": "Lactose, glúten e adoçantes",
         "paragraphs": [
           "Entre as duas marcas, a La Ganexa oferece opções anunciadas como zero lactose: Natural, Crocante e Avelã Vegana. As páginas dos 11 sabores da Dr. Peanut declaram “CONTÉM LACTOSE” e “NÃO CONTÉM GLÚTEN”.",
-          "A La Ganexa diz que todos os sabores são feitos sem glúten. Os adoçantes de cada marca estão no quadro do começo: mudam de pote para pote, então leia a lista do sabor que escolher. Com restrição ou dúvida sobre dieta, fale com um nutricionista ou um médico."
+          "A La Ganexa diz que todos os sabores são feitos sem glúten. Os adoçantes de cada marca estão no quadro do começo: mudam de pote para pote, então leia a lista do sabor que escolher."
         ]
       },
       {
@@ -145231,7 +145230,6 @@ export const reviewsData: unknown[] = [
         "heading": "Dr. Peanut ou La Ganexa: qual pasta vale mais a pena?",
         "emphasis": "Para gastar menos por 100 g, eu escolheria a Natural ou a Crocante da La Ganexa; em pasta de sobremesa de pote pequeno, eu iria na Dr. Peanut de 250 g. O rótulo vem antes do preço: confira a lactose e o adoçante do sabor.",
         "paragraphs": [
-          "Quem quer pasta só de amendoim ou anunciada como zero lactose escolhe na La Ganexa. Quem quer pote pequeno de sobremesa, com o mesmo preço em todos os sabores, escolhe na Dr. Peanut.",
           "Entre os produtos e tamanhos comparados:"
         ],
         "bullets": [
@@ -145246,7 +145244,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Cada código vale só na loja dele. Na La Ganexa, monte o carrinho no site, clique em Finalizar a compra e, no checkout seguro da loja (seguro.lojalaganexa.com.br), toque em Inserir cupom de desconto, digite CECILIA e confira a linha Descontos. Na Dr. Peanut, digite o DREMCASACOMCECILIA no campo de cupom e confira o desconto no resumo do pedido.",
-          "A La Ganexa informa que o Kit 2 Doce de Leite e o Kit 2 Brigadeiros de Colher não acumulam com cupom, mas no nosso teste o checkout aceitou o CECILIA nos dois. Confira a linha Descontos antes de pagar.",
+          "A La Ganexa informa que o Kit 2 Doce de Leite e o Kit 2 Brigadeiro de Colher não acumulam com cupom, mas no nosso teste o checkout aceitou o CECILIA nos dois. Confira a linha Descontos antes de pagar.",
           "Os preços são de campanha nas duas lojas e mudam. Refaça a conta com o preço do dia antes de comprar, e confira o frete no carrinho. Com restrição ou dúvida sobre dieta, fale com nutricionista ou médico."
         ],
         "links": [
@@ -145268,10 +145266,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Dr. Peanut e o da La Ganexa? O cupom da Dr. Peanut é DREMCASACOMCECILIA e o da La Ganexa é CECILIA, os dois com 10% OFF no site oficial de cada loja, em todas as formas de pagamento. Cada código vale só na loja dele, em pedidos separados.",
-          "Dr. Peanut ou La Ganexa, qual é melhor? Depende do que você procura: a La Ganexa tem três pastas anunciadas como zero lactose, duas delas só de amendoim, e a Dr. Peanut tem pote pequeno de sobremesa com o mesmo preço em todos os sabores. Os perfis estão em “Quem escolhe o quê”.",
+          "Dr. Peanut ou La Ganexa, qual é melhor? Depende do que você procura: a La Ganexa tem três pastas anunciadas como zero lactose, duas delas só de amendoim, e a Dr. Peanut tem pote pequeno de sobremesa com o mesmo preço em todos os sabores. Os perfis estão no capítulo do veredito.",
           "Qual pasta de amendoim não tem lactose? Natural, Crocante e Avelã Vegana, da La Ganexa, cuja página diz “zero lactose”. Os 11 sabores da Dr. Peanut dizem que contêm.",
           "Qual sai mais barata por 100 g? Com 10% nas duas lojas, a Natural e a Crocante, nos dois tamanhos da La Ganexa, são as mais baratas da lista. No 1 kg, a La Ganexa fica abaixo da Dr. Peanut de 600 g em sete dos dez sabores. Entre as sobremesas, a Dr. Peanut de 250 g fica abaixo das de 450 g da La Ganexa. Frete à parte.",
-          "Os cupons somam com a promoção? Nos testes, sim. A La Ganexa informa que o Kit 2 Doce de Leite e o Kit 2 Brigadeiros de Colher não acumulam com cupom, mas no nosso teste o checkout aceitou o CECILIA nos dois. Confira a linha “Descontos” antes de pagar."
+          "Os cupons somam com a promoção? Nos testes, sim. A La Ganexa informa que o Kit 2 Doce de Leite e o Kit 2 Brigadeiro de Colher não acumulam com cupom, mas no nosso teste o checkout aceitou o CECILIA nos dois. Confira a linha “Descontos” antes de pagar."
         ]
       }
     ],
@@ -145813,13 +145811,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo e pelo preço, o pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína por dose. Na Blue Friday, três sabores de 500 g têm o menor preço por dose com cafeína. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu, inclusive em produto em oferta."
+          "O pote de 500 g sai mais barato por dose que o de 300 g, com os mesmos 150 mg de cafeína. Na Blue Friday, três sabores de 500 g têm o menor preço por dose entre os potes de 300 g e 500 g e os sachês. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu."
         ]
       },
       {
         "heading": "Os potes e os sachês pelo rótulo",
         "paragraphs": [
-          "São 18 itens avulsos, e todos com cafeína trazem 150 mg por dose. A tabela traz o que a loja publica por porção, cafeína e taurina, com as doses de cada embalagem e o preço de venda no cartão."
+          "A tabela traz 18 itens, e todos os que têm cafeína marcam 150 mg por dose. A tabela traz o que a loja publica por porção, cafeína e taurina, com as doses de cada embalagem e o preço de venda no cartão."
         ],
         "images": [
           {
@@ -146057,11 +146055,11 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Com o cupom e o Pix somados, a conta dá R$ 3,14 por dose no pote de 500 g de R$ 89,99, R$ 4,40 no de 500 g de R$ 125,99 e R$ 5,63 no de 300 g. O cupom é válido em todas as formas de pagamento, inclusive no Pix.",
-          "Os combos com creatina ficam fora desta conta, porque somam a creatina ao preço e a loja não separa o do Exquenta."
+          "Os combos com creatina ficam fora desta conta, porque somam a creatina ao preço e a loja não separa o do Exquenta. Fora da conta: o pote de 1 kg de Amora e Melancia, que a loja vende como próximo do vencimento e sem contagem de doses, os Sem Cafeína de 500 g de Pink Lemonade e de Amora e Melancia e o Nitrato com cafeína de 450 g; confira as doses na página de cada um."
         ]
       },
       {
-        "heading": "Sem cafeína: os dois 450 g",
+        "heading": "Sem cafeína: o Tropical e o Nitrato de 450 g",
         "paragraphs": [
           "O Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g são os itens da linha que a loja chama de sem cafeína, no título e no texto da página. A tabela de cada um não traz linha de cafeína nem de taurina. O texto do Nitrato fala em nitrato natural da beterraba, mas a loja não publica quantos miligramas há na dose."
         ],
@@ -146094,23 +146092,18 @@ export const reviewsData: unknown[] = [
           "**Fabricante:** nenhuma página declara quem fabrica o produto.",
           "**Aviso de idade, de gestação e de dose máxima:** nenhuma página do Exquenta traz. Nos combos, aparece só \"conforme orientação de seu nutricionista\".",
           "**Lista completa de ingredientes do Nitrato e do Sem Cafeína:** as páginas não trazem.",
-          "**Quantidade de nitrato:** o Nitrato 450 g não publica.",
-          "**Tabela do sachê Azedinha Morango:** não publica (ver acima)."
+          "**Quantidade de nitrato:** o Nitrato 450 g não publica."
         ]
       },
       {
         "heading": "Qual Exquenta eu compraria?",
-        "paragraphs": [
-          "Por perfil:"
-        ],
-        "emphasis": "Para gastar menos por dose com cafeína, eu escolheria o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade, a R$ 3,60 antes do cupom e do Pix.",
+        "emphasis": "Entre os potes de 300 g e 500 g e os sachês, para gastar menos por dose com cafeína eu escolheria o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade, a R$ 3,60 antes do cupom e do Pix.",
         "bullets": [
-          "**Quer a dose mais barata com cafeína:** o pote de 500 g desses três sabores. Os outros três de 500 g, Tropical, Azedinha Morango e Lilith Maçã Verde, custam R$ 125,99 e saem a R$ 5,04 por dose.",
+          "**Quer a dose mais barata com cafeína entre os potes de 300 g e 500 g e os sachês:** o pote de 500 g desses três sabores. Os outros três de 500 g, Tropical, Azedinha Morango e Lilith Maçã Verde, custam R$ 125,99 e saem a R$ 5,04 por dose.",
           "**Quer sem cafeína:** o Sem Cafeína Tropical 450 g, a R$ 3,00 por dose, a mais baixa da tabela, ou o Nitrato 450 g, a R$ 6,93. Nenhum dos dois traz taurina na tabela, e o Nitrato não publica a quantidade de nitrato.",
           "**Prefere a dose já medida:** o sachê, que é o mais caro por dose, a R$ 8,49."
         ],
         "postParagraphs": [
-          "A taurina é 500 mg por dose na maioria dos itens e 400 mg nos 500 g Azedinha Morango e Lilith Maçã Verde e nos sachês Maçã Verde e Azedinha Morango. O número de cada item está na tabela do início; a loja não explica a diferença.",
           "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O código dá 10% em todo o site, inclusive em produto em oferta, e soma com os 3% do Pix; no Mercado Livre ele não vale, e o link da marca lá é o [meli.la/24RjvdP](https://meli.la/24RjvdP). As regras estão na página do [cupom Mais Mu](/cupons/mais-mu) e o passo a passo, em [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).",
           "Na Blue Friday, a loja dá uma creatina de pote 210 g na compra de qualquer produto, enquanto durar o estoque. O cashback é programa da própria loja, e o crédito dele não soma com o cupom. Quem tem condição de saúde fala com um médico ou nutricionista antes de tomar."
         ],
@@ -146130,15 +146123,15 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com os 3% do Pix.",
-          "O Exquenta é bom? O que dá para comparar é o rótulo e o preço por dose.",
-          "Tem Exquenta sem cafeína? Tem: o Sem Cafeína Tropical 450 g e o Nitrato Laranja e Acerola 450 g. A tabela de cada um não traz linha de cafeína.",
-          "Quanta cafeína tem por dose? 150 mg por dose de 20 g nos potes de 300 g e 500 g e nos sachês, pela tabela da loja, e no sachê Azedinha Morango pela arte da caixa."
+          "O Exquenta é bom? Pelo rótulo, é um pré-treino com 150 mg de cafeína, 400 mg ou 500 mg de taurina e 16 g de açúcares adicionados por dose de 20 g. Pelo preço, o pote de 500 g tem a dose mais barata entre os potes de 300 g e 500 g e os sachês.",
+          "Tem Exquenta sem cafeína? Tem. Este guia leu o rótulo do Sem Cafeína Tropical 450 g e do Nitrato Laranja e Acerola 450 g, e a tabela de cada um não traz linha de cafeína. A loja também vende o Sem Cafeína em pote de 500 g.",
+          "Quanta cafeína tem por dose? 150 mg por dose de 20 g nos potes de 300 g e 500 g e nos sachês, pela tabela da loja."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade se você quer a dose com cafeína mais barata.",
+        "Leve o pote de 500 g de Amora e Melancia, Manga ou Pink Lemonade se você quer a dose com cafeína mais barata entre os potes de 300 g e 500 g e os sachês.",
         "Leve o Sem Cafeína Tropical ou o Nitrato, ambos de 450 g, se você quer a versão sem cafeína.",
         "Leve o sachê se você prefere a dose já medida para levar."
       ],
@@ -146209,7 +146202,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Concentrado: pote de 450 g",
         "paragraphs": [
-          "A Mais Mu vende o whey concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês, além do isolado e da proteína vegetal. A loja publica a contagem de doses (\"cerca de N doses\") na legenda da galeria de várias páginas e a proteína por dose: 20 g no concentrado e 22 g no isolado e no vegetal. As contas usam essa contagem, com a margem do \"cerca de\"; onde a loja não publica, não fazemos conta. R$ por dose = preço ÷ doses; R$ por 100 g de proteína = R$ por dose ÷ proteína por dose × 100.",
+          "A Mais Mu vende o whey concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês, além do isolado e da proteína vegetal. A loja publica a contagem de doses (\"cerca de N doses\") na legenda da galeria de várias páginas e a proteína por dose: 20 g no concentrado e 22 g no isolado e no vegetal. As contas usam essa contagem, com a margem do \"cerca de\"; onde a loja não publica, não fazemos conta.",
           "O Baunilha de 450 g é o único com a tabela nutricional da loja na galeria: porção de 36 g, cerca de 13 porções e 20 g de proteína por porção. Fora dele, a loja não publica gramas de pote nem de refil, e este texto não usa outra gramagem."
         ],
         "images": [
@@ -146222,7 +146215,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "comparisonTable": {
-          "caption": "Preços do site no cartão em 23/11/2026, na Blue Friday, sem frete.",
+          "caption": "Preços do site no cartão em 23/11/2026, na Blue Friday, sem frete. R$ por dose = preço ÷ doses; R$ por 100 g de proteína = R$ por dose ÷ proteína por dose × 100.",
           "headers": [
             "Sabor",
             "Doses (loja)",
@@ -146316,7 +146309,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Com o cupom e o Pix, o refil de 900 g sai por R$ 158,88 no Chocolate, R$ 182,67 no Cookies'n Cream, no Baunilha, no Morango e na Paçoquita e R$ 195,54 no Brownie, no Chocolate com avelã, no Chocolate com coco e no Doce de leite. O refil de Chocolate tem a menor conta por proteína entre os concentrados com contagem: R$ 34,54 por 100 g com os dois descontos, seguido do Cookies'n Cream, com R$ 35,13. Nos sabores sem contagem a conta por dose não sai.",
-          "O refil de 1,8 kg custa R$ 299,99 nos sabores Baunilha e Paçoquita (R$ 290,99 no Pix). A loja não publica a contagem dele, então não há conta por dose. O refil de Paçoquita de 222 g custa R$ 81,54 (R$ 79,09 no Pix), também sem contagem."
+          "O refil de 1,8 kg custa R$ 299,99 nos sabores Baunilha e Paçoquita (R$ 290,99 no Pix). A loja não publica a contagem dele; pelo peso, com a porção de 36 g da tabela do pote, seriam 50 doses e R$ 30,00 por 100 g de proteína. O refil de Paçoquita de 222 g custa R$ 81,54 (R$ 79,09 no Pix), também sem contagem."
         ],
         "images": [
           {
@@ -146402,9 +146395,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Isolado e vegetal: o preço por dose",
+        "heading": "Isolado: o preço por dose",
         "paragraphs": [
-          "A loja dá 22 g de proteína por dose no isolado e no vegetal. No isolado, o refil de 900 g sai a R$ 28,92 por 100 g de proteína no cartão, o menor valor de toda a conta; o pote de 450 g sai a R$ 51,13."
+          "A loja dá 22 g de proteína por dose no isolado. O refil de 900 g sai a R$ 28,92 por 100 g de proteína no cartão, o menor valor de toda a conta; o pote de 450 g sai a R$ 51,13."
         ],
         "comparisonTable": {
           "caption": "Isolado",
@@ -146490,7 +146483,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Com o cupom e o Pix, o vegetal de 450 g sai por R$ 94,28 e o de 900 g por R$ 157,13.",
-          "A proteína vegetal é isolada de arroz e de ervilha, diz a loja. Ela não é whey e aparece aqui só para completar a linha. O refil de Torta de banana com canela não entrou na nossa última leitura de preços; confira na loja."
+          "A Torta de banana com canela aparece só no pote de 450 g."
         ],
         "images": [
           {
@@ -146501,6 +146494,9 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 1.7778,
             "href": "https://www.lojamaismu.com.br/whey/"
           }
+        ],
+        "paragraphs": [
+          "A proteína vegetal também declara 22 g por dose. Ela é isolada de arroz e de ervilha, diz a loja; não é whey e aparece aqui para completar a linha."
         ]
       },
       {
@@ -146516,7 +146512,7 @@ export const reviewsData: unknown[] = [
           "**Proteína vegetal:** Caramel Macchiato e Chocolate com avelã, nos dois tamanhos, e Torta de banana com canela no pote de 450 g."
         ],
         "postParagraphs": [
-          "A loja marca Paçoquita e Chocolate com coco como “novo sabor” e o Doce de leite como “lançamento”, sem data. A categoria de whey também tem uma ordenação padrão com nome de ranking, sem critério nem data publicados. Por isso este texto não diz que um sabor vende mais que outro."
+          "A loja marca Paçoquita e Chocolate com coco como “novo sabor” e o Doce de leite como “lançamento”, sem data."
         ]
       },
       {
@@ -146527,8 +146523,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Pistache Borelli, pote de 418 g:** parceria com a Borelli. [Ver na loja](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-borelli-pistache-418g-1rnkj/)",
           "**Banoffee Nanica, pote de 420 g:** parceria com a Nanica. A página diz que o sabor foi inspirado na torta da marca. [Ver na loja](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-nanica-banoffee-420g-d8lol/)",
-          "**Brownie do Luiz, pote de 420 g:** parceria, diz a loja, com o nome que está no catálogo. [Ver na loja](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-brownie-do-luiz-420g-1yqzu/)",
-          "**Paçoquita:** parceria, diz a loja, nos formatos de concentrado (pote de 450 g, sachê, refil de 900 g e 1,8 kg)."
+          "**Brownie do Luiz, pote de 420 g:** parceria, segundo a loja. [Ver na loja](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-brownie-do-luiz-420g-1yqzu/)",
+          "**Paçoquita:** parceria, segundo a loja, nos formatos de concentrado (pote de 450 g, sachê, refil de 900 g e 1,8 kg)."
         ],
         "postParagraphs": [
           "Os três potes de 418 e 420 g custam R$ 135,99 cada no cartão (R$ 131,91 no Pix; R$ 118,72 com o cupom e o Pix), o mesmo preço do pote de 450 g. A loja não publica a contagem de doses deles, então ficam fora da conta por dose e por proteína. Os textos dos três dizem “contém lactose” e “não contém glúten”."
@@ -146540,7 +146536,7 @@ export const reviewsData: unknown[] = [
           "Nos concentrados, o texto da loja traz proteína de soro do leite concentrada, o sabor, goma xantana e sucralose. Alguns citam cloreto de potássio. Os textos dizem “contém lactose”. Os alergênicos são derivados de leite e soja, com “pode conter” amendoim, avelã, castanha-de-caju e ovos.",
           "O refil de Paçoquita de 222 g é o único sem a linha “contém lactose”: a página diz só “Contém amendoim, leite e derivados. Não contém glúten.” Isso não garante que ele seja sem lactose. Confira no rótulo.",
           "Sobre glúten, os textos da Paçoquita não dizem a mesma coisa em todos os formatos. Confira no rótulo do formato que for comprar.",
-          "Sobre o isolado e o vegetal, as descrições dizem “proteína isolada” (no vegetal, do arroz e da ervilha), mas não trazem a lista completa de ingredientes. O isolado Baunilha de 450 g diz “contém lactose” e “não contém glúten”; nos outros sabores do isolado, confira o rótulo, e o FAQ da loja diz que o isolado tem menos lactose que o concentrado, não que seja sem lactose. A lista completa está no rótulo do pote."
+          "Sobre o isolado e o vegetal, as descrições dizem “proteína isolada” (no vegetal, do arroz e da ervilha), mas não trazem a lista completa de ingredientes. O isolado Baunilha de 450 g diz “contém lactose” e “não contém glúten”; nos outros sabores, confira o rótulo. O FAQ da loja diz que o isolado tem menos lactose que o concentrado, não que seja sem lactose."
         ]
       },
       {
@@ -146552,12 +146548,12 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Quer conhecer o sabor antes de levar um formato maior:** o pote de 450 g, a R$ 135,99, com 12 ou 13 doses; R$ 118,72 com o cupom e o Pix.",
           "**Quer o menor preço por proteína no concentrado:** o refil de 900 g de Chocolate, a R$ 39,56 por 100 g no cartão e R$ 34,54 com cupom e Pix.",
-          "**Quer o menor preço por proteína em toda a linha:** o isolado refil de 900 g, a R$ 28,92 por 100 g no cartão, R$ 183,32 o refil com cupom e Pix. O isolado de 450 g sai a R$ 51,13 por 100 g.",
+          "**Quer o menor preço por proteína em toda a linha:** o isolado refil de 900 g, a R$ 28,92 por 100 g no cartão e R$ 25,25 com cupom e Pix (R$ 183,32 o refil). O isolado de 450 g sai a R$ 51,13 por 100 g.",
           "**Quer levar um pacote pequeno:** o sachê, a R$ 11,19 cada, R$ 167,89 a caixa de 15, perto do que custa uma dose do pote e acima da do refil.",
           "**Precisa evitar lactose:** leia o rótulo do sabor escolhido. Os concentrados e o isolado Baunilha dizem “contém lactose”."
         ],
         "postParagraphs": [
-          "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O código dá 10% em todo o site e soma com os 3% do Pix, inclusive sobre os preços da Blue Friday; o brinde de uma creatina de pote 210 g da campanha seguiu no pedido no nosso teste, enquanto durar o estoque.",
+          "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O código dá 10% em todo o site, em todas as formas de pagamento, inclusive sobre os preços da Blue Friday, e soma com os 3% do Pix. Na campanha, a loja dá uma creatina de pote 210 g na compra de qualquer produto, enquanto durar o estoque; no nosso teste, o brinde seguiu no pedido com o cupom.",
           "O cashback é programa da própria loja, e o crédito dele não soma com o cupom, porque a loja não acumula cupons. O código não vale no Mercado Livre, onde vale o preço do anúncio. As regras estão na página do [cupom Mais Mu](/cupons/mais-mu) e o passo a passo, em [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar); a campanha está em [Black Friday da Mais Mu](/reviews/black-friday-mais-mu). Meta de saúde, de peso ou de treino: converse com um nutricionista."
         ],
         "links": [
@@ -146592,7 +146588,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe no sachê se o preço por dose decide: sai acima do refil.",
-        "Passe nos concentrados se você precisa evitar lactose: os textos dizem “contém lactose”; confira o rótulo antes."
+        "Passe se você precisa evitar lactose: os concentrados e o isolado Baunilha dizem “contém lactose”."
       ]
     },
     "pros": [],
@@ -146651,13 +146647,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Blue Friday, a Mukebar 720 g de Chocolate com Avelã tem o menor custo por grama de proteína, com 15 g por barra. A Chocowheyfer Sem Cobertura é a unidade mais barata e tem menos açúcar e calorias que a Mukebar Avelã. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu, mas não vale no Mercado Livre."
+          "Na Blue Friday, a Mukebar 720 g de Chocolate com Avelã tem o menor custo por grama de proteína, com 15 g por barra. O Chocowheyfer Sem Cobertura é a unidade mais barata e tem menos açúcar e calorias que a Mukebar Avelã. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu, mas não vale no Mercado Livre."
         ]
       },
       {
         "heading": "Os produtos numa tabela",
         "paragraphs": [
-          "Esta tabela compara as barras e os wafers proteicos da Mais Mu, uma linha por unidade. “Tabela” indica dado da tabela nutricional publicada; “texto” indica informação da descrição ou da embalagem mostrada na página.",
+          "Esta tabela compara as barras e os wafers proteicos da Mais Mu, uma linha por unidade. “Tabela” indica dado da tabela nutricional publicada; “texto” indica informação da descrição ou da embalagem mostrada na página; “página” indica o número que a página do produto traz, sem tabela nutricional.",
           "A Mukebar 720 g vem em caixa de 12 unidades de 60 g. A tabela é do sabor Chocolate com Avelã. Os outros sabores (Crocante, Cookies, Chocolate Duo, Chocolate com Coco e Paçoquita) dizem 15 g de proteína na descrição, sem tabela. A Crush Bar Morango tem a mesma tabela de 10 g por 35 g da Chocolate. A Max e o Sem Cobertura têm tabela em todos os sabores à venda: Chocolate, Morango, Doce de Leite e Cookies'n Cream na Max; Chocolate e Morango no Sem Cobertura. O peso e a proteína são os mesmos em cada linha."
         ],
         "comparisonTable": {
@@ -146700,7 +146696,7 @@ export const reviewsData: unknown[] = [
             [
               "[Crush Bar 35 g, Chocolate Duo](https://www.lojamaismu.com.br/produtos/crushbar-mu-chocolate-duo-20-caixa-12-unidades-420g/), Chocolate e Morango",
               "35 g (tabela)",
-              "10 g (tabela)",
+              "10 g (página)",
               "R$ 6,59",
               "R$ 0,66"
             ],
@@ -146742,7 +146738,7 @@ export const reviewsData: unknown[] = [
           "**Paçoquita Power (pasta de amendoim).** A loja lista o produto, mas a página mostra \"preço sob consulta\", sem valor publicado. Sem preço, e fora da linha de barras e wafers, ela não entra na conta por unidade."
         ],
         "postParagraphs": [
-          "A Chocowheyfer Max é uma linha da própria Mais Mu, com unidade de 50 g e caixa de 20. O nome não tem ligação com a Max Titanium, outra marca parceira deste site."
+          "O Chocowheyfer Max é uma linha da própria Mais Mu, com unidade de 50 g e caixa de 20. O nome não tem ligação com a Max Titanium, outra marca parceira deste site."
         ],
         "images": [
           {
@@ -146774,7 +146770,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calorias, proteína e açúcar pela tabela",
         "paragraphs": [
-          "O açúcar e as calorias que valem são os da tabela por unidade. Cada linha abaixo é um sabor. Onde não há tabela, o produto não aparece nesta tabela."
+          "O açúcar e as calorias que valem são os da tabela por unidade. Cada linha abaixo é um sabor."
         ],
         "images": [
           {
@@ -146793,7 +146789,7 @@ export const reviewsData: unknown[] = [
           },
           {
             "src": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-tabela-chocowheyfer-max.webp",
-            "alt": "Tabela nutricional da Chocowheyfer Max Chocolate da Mais Mu, porção de 50 g",
+            "alt": "Tabela nutricional do Chocowheyfer Max Chocolate da Mais Mu, porção de 50 g",
             "caption": "Tabela publicada pela Mais Mu na página do produto. Imagem: Mais Mu.",
             "objectFit": "contain",
             "aspectRatio": 0.84
@@ -146922,22 +146918,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual barra da Mais Mu eu compraria?",
         "paragraphs": [
-          "Nenhuma das barras e dos wafers ganha em tudo. Por unidade, os números apontam para caminhos diferentes:"
+          "Nenhuma das barras e dos wafers ganha em tudo. Por unidade, os números apontam para caminhos diferentes."
         ],
         "bullets": [
           "**Mais proteína por unidade e menor custo por grama entre estes produtos:** Mukebar 720 g de Chocolate com Avelã, com 15 g numa barra de 60 g e R$ 0,50 por grama de proteína no cartão (R$ 7,50 a barra). Com cupom e Pix, a caixa de 12 sai por R$ 78,52, ou R$ 6,54 a barra e R$ 0,44 por grama. A tabela nutricional é do sabor Chocolate com Avelã; a Paçoquita 720 g sai a R$ 0,60 por grama.",
           "**Menor gasto por unidade entre estes produtos:** Chocowheyfer Sem Cobertura, a R$ 4,49. É um wafer de 25 g com 6 g de proteína, não uma barra do mesmo tamanho da Mukebar.",
           "**Menos açúcar total e calorias por unidade entre os produtos comparados:** Veggie Wafer, de 25 g. Apesar do nome vegetal, contém glúten e pode conter leite.",
-          "**Unidade intermediária:** Crush Bar, com 35 g e 10 g de proteína, a R$ 6,59 a unidade e R$ 0,66 por grama; consulte as duas linhas de sabores para calorias e açúcar.",
+          "**Unidade intermediária:** Crush Bar, com 35 g e 10 g de proteína, a R$ 6,59 a unidade e R$ 0,66 por grama; as calorias e o açúcar de cada sabor estão na tabela.",
           "**Wafer maior, com mais proteína por unidade:** Chocowheyfer Max, com 50 g e 12 g de proteína, a R$ 9,68 a unidade e R$ 0,81 por grama. Os quatro sabores variam em calorias e açúcar, como mostra a tabela."
         ],
         "postParagraphs": [
           "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O código dá 10% em todo o site, inclusive sobre os preços da Blue Friday, e soma com os 3% do Pix; no Mercado Livre ele não vale. O cashback é programa da própria loja, e o crédito dele não soma com o cupom. As regras estão na página do [cupom Mais Mu](/cupons/mais-mu), e o passo a passo, em [como usar o cupom](/reviews/cupom-mais-mu-como-usar).",
           "Compare a quantidade que pretende comer e as restrições do rótulo. Se há uma restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos.",
-          "Se você já decidiu pelo wafer, o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) compara tamanho da compra, proteína declarada, preço com código e a opção avulsa de outra marca. Aqui, a escolha continua sendo entre os formatos de snack da Mais Mu.",
-          "Se você já decidiu comprar barra e quer comparar outras marcas, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com preço por grama de proteína e açúcar adicionado."
+          "Para comparar com outras marcas, veja o [guia de wafer proteico](/reviews/wafer-proteico-qual-escolher) e [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher)."
         ],
-        "emphasis": "Para gastar menos por grama de proteína, eu compraria a Mukebar 720 g de Chocolate com Avelã; para gastar menos por unidade, eu iria na Chocowheyfer Sem Cobertura. São critérios diferentes.",
+        "emphasis": "Para gastar menos por grama de proteína, eu compraria a Mukebar 720 g de Chocolate com Avelã; para gastar menos por unidade, eu iria no Chocowheyfer Sem Cobertura. São critérios diferentes.",
         "links": [
           {
             "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
@@ -146956,7 +146951,7 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com os 3% do Pix.",
           "Chocowheyfer tem açúcar? Nos sabores com tabela nesta comparação, há açúcar total e 0 g de açúcar adicionado declarado. Veja a quantidade por sabor na tabela de calorias; “zero adicionado” não significa ausência de açúcar total.",
           "Mukebar tem glúten? No sabor Chocolate com Avelã, sim: a página declara CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos demais sabores, confira o aviso de alérgenos na página e na embalagem antes de comprar.",
-          "Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem a Chocowheyfer Max, com 12 g em 50 g.",
+          "Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem o Chocowheyfer Max, com 12 g em 50 g.",
           "Tem barra vegana? A listagem da loja não traz barra vegana. O Veggie Wafer é chamado de vegetal pela loja, mas o aviso diz que pode conter leite, e a página não mostra selo vegano. Confira o aviso de alérgenos antes de comprar."
         ]
       }
@@ -146988,12 +146983,12 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve a Mukebar 720 g se você quer mais proteína por unidade com o menor custo por grama.",
-        "Leve a Chocowheyfer Sem Cobertura se você quer o menor preço por unidade."
+        "Leve a Mukebar 720 g de Chocolate com Avelã se você quer mais proteína por unidade com o menor custo por grama.",
+        "Leve o Chocowheyfer Sem Cobertura se você quer o menor preço por unidade."
       ],
       "skipIf": [
-        "Passe na Mukebar 720 g se você quer poucas unidades: ela vem em caixa de 12.",
-        "Passe nos wafers se você quer mais proteína por unidade: a Chocowheyfer Max tem 12 g, e a Mukebar, 15 g.",
+        "Passe nos outros sabores da Mukebar 720 g se o custo por grama decide: custam bem mais que a de Chocolate com Avelã.",
+        "Passe nos wafers se você quer mais proteína por unidade: o Chocowheyfer Max tem 12 g, e a Mukebar, 15 g.",
         "Passe no Veggie Wafer se você procura opção vegetal certificada: a página não mostra selo vegano."
       ]
     }
@@ -196823,7 +196818,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mais Mu é boa? Pelo rótulo: o Exquenta e as barras mostram tudo, e o whey declara a proteína por dose sem tabela nutricional. Preço, cupom MMEMCASACOMCECILIA e para quem compensa.",
+    "description": "Mais Mu é boa? O Exquenta e a maioria das barras têm tabela; o whey declara a proteína por dose, quase sempre sem tabela. Cupom MMEMCASACOMCECILIA, preço e para quem compensa.",
     "metaDescription": "Whey, Exquenta e barras da Mais Mu pelo rótulo, com o cupom MMEMCASACOMCECILIA de 10% OFF: para quem a marca compensa.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
@@ -196838,7 +196833,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, a Mais Mu é boa no que publica: o Exquenta e as barras trazem tabela nutricional completa. No whey, a loja declara proteína por dose, mas faltam tabelas completas na maioria dos sabores. O código MMEMCASACOMCECILIA dá 10% no site oficial, e a escolha depende de composição, tamanho da unidade e preço."
+          "Pelo rótulo, a Mais Mu é boa no que publica: o Exquenta e a maior parte das barras trazem tabela nutricional. No whey, a loja declara proteína por dose, mas faltam tabelas completas na maioria dos sabores. O código MMEMCASACOMCECILIA dá 10% no site oficial, e a escolha depende de composição, tamanho da unidade e preço."
         ]
       },
       {
@@ -196848,8 +196843,8 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Whey:** concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês; isolado e proteína vegetal na linha Performance. No próximo capítulo.",
-          "**Pré-treino Exquenta:** potes de 300 g e 500 g, sachês e as duas versões sem cafeína, no capítulo do Exquenta.",
-          "**Barras e wafers:** Mukebar, Crushbar, Chocowheyfer (comum, Max e Bites) e um snack salgado de parmesão, no capítulo das barras.",
+          "**Pré-treino Exquenta:** potes de 300 g e 500 g, sachês e as versões sem cafeína, no capítulo do Exquenta.",
+          "**Barras e wafers:** Mukebar, Crush Bar, Chocowheyfer (comum, Max e Bites) e um snack salgado de parmesão, no capítulo das barras.",
           "**Creatina:** monohidratada, em pote e refil, sem sabor e com sabor, no capítulo da creatina.",
           "**Bebidas proteicas e combos:** ficam fora deste artigo."
         ]
@@ -196920,9 +196915,9 @@ export const reviewsData: unknown[] = [
           "caption": "Preço de lista no site, conferido em 23/11. A loja vende quase tudo com desconto de promoção, e o valor do dia aparece na página de cada produto."
         },
         "postParagraphs": [
-          "Conta nossa, com a proteína por dose e a contagem de doses que a loja publica: o pote de 450 g sai de R$ 61,53 a R$ 66,66 por 100 g de proteína, com 13 ou 12 doses conforme o sabor, e a caixa de 15 sachês sai a R$ 79,95. No refil de 900 g de Baunilha, a loja escreve \"cerca de 25 doses\", e a conta sai a R$ 11,20 a dose, sem usar a dose em gramas, que a página não declara. A promoção do dia derruba os números na mesma proporção.",
+          "Conta nossa, com a proteína por dose e a contagem de doses que a loja publica: o pote de 450 g sai de R$ 61,53 a R$ 66,66 por 100 g de proteína, com 13 ou 12 doses conforme o sabor, e a caixa de 15 sachês sai a R$ 79,95. No refil de 900 g de Baunilha, a loja escreve \"cerca de 25 doses\", e a conta sai a R$ 11,20 a dose, sem usar a dose em gramas, que a página não declara. A promoção do dia baixa esses números, e o desconto muda de produto para produto: refaça a conta com o preço da página.",
           "O concentrado é o whey da casa: proteína de soro concentrada, sabor, goma xantana e sucralose, com \"contém lactose\" no texto e leite e soja como alergênicos. Serve para quem quer o whey comum e escolhe pelo sabor, que é onde a marca aposta. Não escolha se você precisa evitar lactose.",
-          "O isolado é a linha Performance, com 22 g por dose e o maior preço por dose da marca. A página do Baunilha de 450 g diz \"contém lactose\", e a loja fala só em menos lactose que o concentrado, não em zero. Serve para quem quer mais proteína na dose; não escolha pelo preço nem como opção sem lactose.",
+          "O isolado é a linha Performance, com 22 g por dose. No pote de 450 g é o pó mais caro da marca; no refil de 900 g, que tem 33 porções no rótulo, a dose sai a R$ 10,61 no preço de lista (conta nossa), abaixo da do concentrado de 900 g. A página do Baunilha de 450 g diz \"contém lactose\", e a loja fala só em menos lactose que o concentrado, não em zero. Serve para quem quer mais proteína na dose; não escolha como opção sem lactose.",
           "A proteína vegetal usa proteína isolada de arroz e de ervilha, com 22 g declarados por dose. Se você precisa evitar leite por alergia, confirme os ingredientes e o aviso de alergênicos do sabor e da embalagem antes de comprar. A origem vegetal da proteína não confirma ausência de contato com leite.",
           "O sabor e o formato certo para cada rotina, com a conta por dose de todos os refis e sachês, estão em [whey Mais Mu: qual sabor e versão escolher](/reviews/whey-mais-mu-qual-escolher)."
         ],
@@ -196932,7 +196927,7 @@ export const reviewsData: unknown[] = [
             "alt": "Potes de whey da Mais Mu: concentrado, isolado e proteína vegetal, em fotos oficiais da marca",
             "caption": "As três linhas de pó da Mais Mu: concentrado, isolado e proteína vegetal. Imagem: Mais Mu.",
             "objectFit": "contain",
-            "href": "https://www.lojamaismu.com.br/produtos/whey-protein-isolado-chocolate-mais-mu-performance-450g-1e1ej/",
+            "href": "https://www.lojamaismu.com.br/whey/",
             "aspectRatio": 1.7778
           }
         ]
@@ -196997,8 +196992,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Entre os três formatos com cafeína da tabela, o pote de 500 g tem o menor preço por dose. O sachê cobra mais pela dose já medida. Se você procura uma versão sem cafeína, veja separadamente os dois produtos de 450 g.",
-          "Os dois de 450 g são os sem cafeína: a tabela deles não traz linha de cafeína nem de taurina, e o Nitrato não publica quantos miligramas de nitrato há na dose. Servem para quem quer a linha sem cafeína; o Nitrato é o mais caro por dose de todo o quadro, e você paga sem saber a quantidade do que dá nome a ele.",
-          "A taurina cai de 500 mg para 400 mg nos sabores Azedinha Morango e Lilith Maçã Verde, e a loja não explica a diferença. Sabor por sabor, com os seis potes de 500 g e os preços com cupom, o guia do Exquenta fica nos artigos relacionados."
+          "Os dois de 450 g da tabela são versões sem cafeína: a tabela deles não traz linha de cafeína nem de taurina, e o Nitrato não publica quantos miligramas de nitrato há na dose. Servem para quem quer a linha sem cafeína; o Nitrato é o mais caro por dose de todo o quadro, e você paga sem saber a quantidade do que dá nome a ele.",
+          "A taurina cai de 500 mg para 400 mg nos sabores Azedinha Morango e Lilith Maçã Verde, e a loja não explica a diferença. Sabor por sabor, com os seis potes de 500 g e os preços com cupom, o [guia do Exquenta](/reviews/pre-treino-exquenta-mais-mu-e-bom) fica nos artigos relacionados."
         ],
         "images": [
           {
@@ -197013,7 +197008,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Barras e Chocowheyfer",
         "paragraphs": [
-          "Nas barras, a Mais Mu publica o que falta no whey: tabela nutricional por unidade, com proteína, calorias e açúcar. O que decide entre elas é o tamanho da unidade."
+          "Nas barras, a Mais Mu publica o que falta no whey: tabela nutricional por unidade, com proteína, calorias e açúcar, na maior parte da linha. Na Mukebar, só o sabor Chocolate com Avelã tem tabela. O que decide entre elas é o tamanho da unidade."
         ],
         "comparisonTable": {
           "headers": [
@@ -197039,7 +197034,7 @@ export const reviewsData: unknown[] = [
               "R$ 14,99"
             ],
             [
-              "[Crushbar Morango, caixa com 12](https://www.lojamaismu.com.br/produtos/crushbar-mu-morango-20-caixa-12-unidades-420g/)",
+              "[Crush Bar Morango, caixa com 12](https://www.lojamaismu.com.br/produtos/crushbar-mu-morango-20-caixa-12-unidades-420g/)",
               "35 g",
               "10 g (tabela)",
               "R$ 131,88",
@@ -197070,17 +197065,17 @@ export const reviewsData: unknown[] = [
           "caption": "Preço de lista, como na tabela do whey; a loja vende com desconto de promoção. Proteína pela tabela ou pelo texto da página, como indicado."
         },
         "postParagraphs": [
-          "A Mukebar é a unidade grande e a que mais custa; o Chocowheyfer é o lanche pequeno pelo menor preço, e a Crushbar e o Max ficam no meio. Nos sabores com tabela, o açúcar adicionado é 0 g e o açúcar total vai de 0,3 g a 3,7 g por unidade; a Mukebar é a que tem mais.",
+          "A Mukebar é a unidade grande e a que mais custa; o Chocowheyfer é o lanche pequeno pelo menor preço, e a Crush Bar e o Max ficam no meio. Nos sabores com tabela, o açúcar adicionado é 0 g e o açúcar total vai de 0,1 g a 3,7 g por unidade; a Mukebar é a que tem mais.",
           "Mukebar e Chocowheyfer dizem CONTÉM GLÚTEN e CONTÉM LACTOSE na página. O snack de parmesão é o único salgado da lista, com \"zero lactose\" no nome, e a proteína dele você confere na embalagem.",
-          "Serve para quem quer o lanche de proteína pronto, na mochila ou na gaveta. Se o que decide é a caloria ou o açúcar, fique no Chocowheyfer; se é a proteína por unidade, na Mukebar. O guia das barras, com cada sabor, fica nos artigos relacionados."
+          "Serve para quem quer o lanche de proteína pronto, na mochila ou na gaveta. Se o que decide é a caloria ou o açúcar, fique no Chocowheyfer; se é a proteína por unidade, na Mukebar. O [guia das barras](/reviews/barra-de-proteina-mais-mu-qual-escolher), com cada sabor, fica nos artigos relacionados."
         ],
         "images": [
           {
             "src": "/images/reviews/mais-mu/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
-            "alt": "Caixas das barras Mukebar, Chocowheyfer e Crushbar da Mais Mu, em fotos oficiais da marca",
-            "caption": "Mukebar, Chocowheyfer e Crushbar: o tamanho da unidade decide entre elas. Imagem: Mais Mu.",
+            "alt": "Caixas das barras Mukebar, Chocowheyfer e Crush Bar da Mais Mu, em fotos oficiais da marca",
+            "caption": "Mukebar, Chocowheyfer e Crush Bar: o tamanho da unidade decide entre elas. Imagem: Mais Mu.",
             "objectFit": "contain",
-            "href": "https://www.lojamaismu.com.br/produtos/mukebar-barra-de-proteina-pacoquita-720g/",
+            "href": "https://www.lojamaismu.com.br/barras-de-proteinas/",
             "aspectRatio": 1.7778
           }
         ]
@@ -197088,7 +197083,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A creatina da Mais Mu",
         "paragraphs": [
-          "A Mais Mu vende creatina monohidratada em quatro embalagens: o pote de 200 g sem sabor, o de 210 g de limonada e o refil de 500 g, sem sabor ou de melancia. A sem sabor leva só creatina monohidratada; as de sabor somam acidulante, aroma e o adoçante estévia, e a de melancia, corante de beterraba."
+          "A Mais Mu vende creatina monohidratada em pote, de 200 g sem sabor e de 210 g com sabor, e em refil de 500 g, sem sabor ou com sabor. A tabela compara quatro delas. A sem sabor leva só creatina monohidratada; as de sabor somam acidulante, aroma e o adoçante estévia, e a de melancia, corante de beterraba."
         ],
         "comparisonTable": {
           "headers": [
@@ -197132,13 +197127,13 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O refil de 500 g sai por pouco mais da metade do preço por dose do pote pequeno. Para quem já toma creatina todo dia, o refil sem sabor; o pote serve para quem quer conhecer o sabor antes de levar o refil.",
-          "Pela página, as quatro não contêm glúten e podem conter traços de amendoim, castanhas, leite, soja e ovo. Quanto tomar, e se a creatina faz sentido para a sua rotina, é conversa para o nutricionista."
+          "Pela página, as quatro não contêm glúten e podem conter traços de amendoim, castanhas, leite, soja e ovo."
         ],
         "images": [
           {
             "src": "/images/reviews/mais-mu/mais-mu-ou-dux-creatina.webp",
             "alt": "Creatina Mais Mu limonada 210 g, sem sabor 200 g, refil melancia 500 g e refil sem sabor 500 g",
-            "caption": "As quatro creatinas da Mais Mu: dois potes e dois refis. Imagem: Mais Mu.",
+            "caption": "Quatro creatinas da Mais Mu: dois potes e dois refis. Imagem: Mais Mu.",
             "objectFit": "contain",
             "href": "https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/",
             "aspectRatio": 1.7778
@@ -197149,26 +197144,26 @@ export const reviewsData: unknown[] = [
         "heading": "A Mais Mu é confiável?",
         "paragraphs": [
           "Dá para confiar na empresa, com atenção à entrega. A Mais Mu é uma sociedade anônima com CNPJ ativo e sede em São Paulo, o site oficial é lojamaismu.com.br, e as regras de troca estão publicadas: produto fechado, pedido por e-mail e recolhimento pago pela loja.",
-          "No Reclame Aqui, a reputação dos últimos 6 meses é Boa, com nota 7,1, depois de uma fase Regular de julho a setembro, e a de 12 meses também é Boa, com 7,4. A queixa principal é a entrega: produto não recebido e atraso. Na prática, guarde o número do pedido e acompanhe o rastreio desde a postagem."
+          "No Reclame Aqui, a reputação dos últimos 6 meses é Boa, com nota 7,1, depois de uma fase Regular no semestre, e a de 12 meses também é Boa, com 7,4. A queixa principal é a entrega: produto não recebido e atraso. Na prática, guarde o número do pedido e acompanhe o rastreio desde a postagem."
         ]
       },
       {
         "heading": "Vale a pena comprar na Mais Mu?",
         "bullets": [
-          "Para whey com sabor de doce e um formato para cada rotina: o concentrado, escolhido pelo sabor, porque a tabela não dá para comparar.",
+          "Para whey com sabor de doce e um formato para cada rotina: o concentrado, escolhido pelo sabor, porque falta tabela para comparar.",
           "Para comparar pré-treino pelo rótulo: entre os formatos com cafeína da tabela, o Exquenta de 500 g custa menos por dose. Se você quer uma opção sem cafeína, veja as fórmulas de 450 g separadamente.",
           "Para lanche de proteína: a Mukebar na unidade grande, o Chocowheyfer na pequena e barata.",
           "Não vale para quem só compra whey depois de ler a tabela nutricional: na maioria dos sabores ela não está publicada.",
           "Não vale para quem precisa evitar lactose: concentrado, isolado e barras declaram que contêm.",
           "Cupom: o MMEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, para conta nova e antiga, e soma com os 3% do Pix. Na Blue Friday, a loja dá uma creatina de 210 g de brinde em qualquer compra, enquanto durar o estoque, sem data de fim; no nosso teste, o cupom entrou sobre os preços da campanha e o brinde seguiu no pedido.",
           "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom antes de pagar.",
-          "A loja não acumula cupons: o crédito do cashback, programa da própria loja, e o desconto de boas-vindas não somam com o nosso. O cupom também não vale no [Mercado Livre](https://meli.la/24RjvdP), onde vale o preço do anúncio.",
+          "A loja não acumula cupons: o crédito do cashback, programa da própria loja, não soma com o nosso. O cupom também não vale no [Mercado Livre](https://meli.la/24RjvdP), onde vale o preço do anúncio.",
           "O frete é grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 nas outras regiões; abaixo disso, o checkout calcula, depois do cupom. Um pedido perto do mínimo pode perder o frete grátis: olhe o frete com o código aplicado."
         ],
         "postParagraphs": [
           "Dose, horário e objetivo de treino são conversa com nutricionista ou médico; este artigo lê rótulo e preço."
         ],
-        "emphasis": "Se o sabor decide a compra, eu compraria o whey concentrado da Mais Mu; se a tabela nutricional decide, eu começaria pelo Exquenta ou pelas barras, que a publicam.",
+        "emphasis": "Se o sabor decide a compra, eu compraria o whey concentrado da Mais Mu; se a tabela nutricional decide, eu começaria pelo Exquenta ou pelas barras, que a publicam na maior parte da linha.",
         "links": [
           {
             "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
@@ -197188,7 +197183,7 @@ export const reviewsData: unknown[] = [
           "O whey da Mais Mu é bom? Há proteína por dose em todas as linhas, mas a tabela nutricional completa aparece só em poucos sabores. Leia o capítulo do whey para ver o que dá para comparar antes da compra.",
           "Qual whey da Mais Mu escolher? O concentrado declara 20 g de proteína por dose; o isolado declara 22 g. A proteína vegetal também declara 22 g, mas não é whey. Como as porções podem ter pesos diferentes, esses números sozinhos não definem maior concentração nem melhor compra. O guia do whey detalha sabores e formatos.",
           "O Exquenta é bom? Pelo rótulo, é um pré-treino de cafeína e taurina com açúcar na dose; a loja não publica teste de efeito, e a conta por dose está no capítulo do Exquenta.",
-          "A Mais Mu publica a tabela nutricional? Nas barras, nos wafers e no Exquenta, sim; nos wheys, só em poucos sabores, como o Baunilha de 450 g, e nos outros a página declara só a proteína por dose.",
+          "A Mais Mu publica a tabela nutricional? No Exquenta e na maior parte das barras, sim; nos wheys, só em poucos sabores, como o Baunilha de 450 g, e nos outros a página declara só a proteína por dose.",
           "O cupom soma com o cashback? Não. A loja não acumula cupons, e o crédito do cashback entra como cupom; em cada pedido vale um dos dois."
         ]
       }
@@ -197198,7 +197193,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você escolhe whey pelo sabor e pelo formato, e a proteína por dose que a loja declara basta para você.",
-        "Você compara pré-treino e barra pelo rótulo: o Exquenta, a Mukebar e o Chocowheyfer têm a tabela publicada."
+        "Você compara pré-treino e barra pelo rótulo: o Exquenta, o Chocowheyfer e a Mukebar de Chocolate com Avelã têm a tabela publicada."
       ],
       "skipIf": [
         "Você só compra whey depois de ler a tabela nutricional: a loja não publica a da maioria dos wheys.",
@@ -230252,7 +230247,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No concentrado, o 80% HD da Black Skull com CECILIA10 custa menos por proteína no cartão; no Pix, só o sabor Banana fica abaixo da Growth. Com o desconto real do código (2% na maioria, 8,86% no 3W), 3W e zero lactose seguem abaixo no cartão. O isolado da Max fica pouco abaixo no cartão; no Pix, compare o total."
+          "No concentrado, o 80% HD da Black Skull com o CECILIA10 custa menos por proteína que a Growth no cartão; no Pix, só no sabor Banana. No 3W e no zero lactose, a Max Titanium e a Probiótica também ficam abaixo no cartão, já com o desconto medido no carrinho. No isolado, a diferença é pequena: compare o total."
         ]
       },
       {
@@ -230262,7 +230257,7 @@ export const reviewsData: unknown[] = [
           "Para comparar potes de tamanhos diferentes, veja a última coluna: ela mostra quanto custa a mesma quantidade de proteína contida no pó. A porção usada na conta é a do rótulo de cada produto."
         ],
         "comparisonTable": {
-          "caption": "Preços dos sites em 9 de novembro de 2026, no cartão, sem frete; a Mais Mu, no preço da Blue Friday. Conta nossa: custo por 100 g de proteína pelo peso líquido e pela proporção declarada no rótulo, com o desconto do código medido no carrinho em 23/11 (Black Skull, 10%; Max Titanium e Probiótica, 2% na maioria dos produtos e 8,86% no Top Whey 3W + Sabor).",
+          "caption": "Preços dos sites em 9 de novembro de 2026, no cartão, sem frete; a Mais Mu, no preço da Blue Friday. Conta nossa: custo por 100 g de proteína pelo peso líquido e pela proporção declarada no rótulo, com o desconto de cada código: 10% na Black Skull e na Mais Mu; na Max Titanium e na Probiótica, o medido no carrinho em 23/11 (2% na maioria dos produtos e 8,86% no Top Whey 3W Mais Sabor).",
           "headers": [
             "Produto",
             "Porção e proteína",
@@ -230292,7 +230287,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, o sabor Banana do 80% HD com CECILIA10 fica abaixo do 100% Whey de 900 g da Growth. Os demais sabores do 80% HD custam mais por proteína nessa forma de pagamento. Se você compra sempre o mesmo sabor, use essa diferença para decidir.",
-          "O 80% HD e o (TOP) Concentrado da Growth nos sabores declaram a mesma quantidade de proteína por porção. Já o 100% Whey de 900 g da Growth tem menos proteína na mesma quantidade de pó. O menor custo da Black Skull no cartão permite trocar de marca sem reduzir a concentração declarada em relação ao (TOP) nos sabores.",
+          "O 80% HD e as versões com sabor do (TOP) Concentrado da Growth declaram a mesma quantidade de proteína por porção. Já o 100% Whey de 900 g da Growth tem menos proteína na mesma quantidade de pó. O menor custo da Black Skull no cartão permite trocar de marca sem reduzir a concentração declarada em relação às versões com sabor do (TOP).",
           "A loja informa: o (TOP) Concentrado de 1 kg da Growth tem limite de uma unidade por CPF."
         ],
         "images": [
@@ -230485,7 +230480,7 @@ export const reviewsData: unknown[] = [
               "Max Titanium",
               "MAX10EMCASACOMCECILIA",
               "até 10%, conforme o produto",
-              "No nosso teste de carrinho, 2% no IsoWhey e 8,86% (7% + 2%) no Top Whey 3W + Sabor; soma com o Pix e o boleto (até 5%), que não medimos juntos."
+              "No nosso teste de carrinho, 2% no IsoWhey e 8,86% (7% + 2%) no Top Whey 3W Mais Sabor; soma com o Pix e o boleto (até 5%), que não medimos juntos."
             ],
             [
               "Probiótica",
@@ -230531,7 +230526,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom de cada loja? Black Skull: CECILIA10, com 10%. Max Titanium: MAX10EMCASACOMCECILIA, até 10%, conforme o produto (no nosso teste, 2% no IsoWhey e 8,86% no Top Whey 3W + Sabor). Probiótica: PRO10EMCASACOMCECILIA, até 10%, conforme o produto (2% no teste). Mais Mu: MMEMCASACOMCECILIA, com 10%. Cada código vale só na loja dele.",
+          "Qual é o cupom de cada loja? Black Skull: CECILIA10, com 10%. Max Titanium: MAX10EMCASACOMCECILIA, até 10%, conforme o produto (no nosso teste, 2% no IsoWhey e 8,86% no Top Whey 3W Mais Sabor). Probiótica: PRO10EMCASACOMCECILIA, até 10%, conforme o produto (2% no teste). Mais Mu: MMEMCASACOMCECILIA, com 10%. Cada código vale só na loja dele.",
           "Qual whey é parecido com o da Growth? O 80% HD da Black Skull é uma alternativa ao concentrado: nos sabores usados na comparação, ele tem a mesma concentração de proteína do (TOP) da Growth. Com CECILIA10, fica abaixo das referências da tabela no cartão.",
           "Tem whey mais barato que o da Growth? Há alternativas nas quatro categorias do artigo, considerando a mesma quantidade de proteína. No concentrado, veja a diferença entre o preço do cartão e o do Pix; na Max e na Probiótica, o código deu 2% na maioria dos produtos do nosso teste, o que reduz a vantagem no isolado e no zero lactose.",
           "Qual whey isolado é mais barato que o da Growth? A Mais Mu, na Blue Friday, oferece menor custo com MMEMCASACOMCECILIA, mas mistura isolado, concentrado e hidrolisado. Para uma opção com apenas proteína isolada como fonte proteica, veja o IsoWhey da Max: abaixo da Growth no cartão; no Pix, compare o total final.",
@@ -230973,7 +230968,7 @@ export const reviewsData: unknown[] = [
           "Na Growth, o pote de 250 g custa R$ 39,90 no Pix e R$ 44,33 no cartão (cerca de 11% acima): R$ 15,96 e R$ 17,73 por 100 g de creatina. O refil de 500 g fica no mesmo nível, com R$ 15,98 por 100 g no Pix. As quatro opções da tabela custam menos com o código."
         ],
         "comparisonTable": {
-          "caption": "Preços dos sites em 10 de novembro de 2026, no cartão, sem frete, com o código de cada loja; o desconto do código foi medido no carrinho em 23/11 (Black Skull, 10%; Max Titanium, 2%). Conta nossa: preço dividido pela creatina declarada no rótulo (doses vezes a creatina de cada dose); o peso do pote não serve na goma nem no pó com sabor, em que parte do peso não é creatina. O preço por dose só vale entre produtos com a mesma dose: 5 g no pó sem sabor, no sachê e nas creatinas com sabor da Black Skull e da Max; 3 g na gummy, no comprimido, na cápsula e na creatina da Mais Mu.",
+          "caption": "Preços dos sites em 10 de novembro de 2026, no cartão, sem frete, com o código de cada loja: 10% na Black Skull e na Mais Mu; na Max Titanium e na Probiótica, os 2% medidos no carrinho em 23/11. Conta nossa: preço dividido pela creatina declarada no rótulo (doses vezes a creatina de cada dose); o peso do pote não serve na goma nem no pó com sabor, em que parte do peso não é creatina. O preço por dose só vale entre produtos com a mesma dose: 5 g no pó sem sabor, no sachê e nas creatinas com sabor da Black Skull e da Max; 3 g na gummy, no comprimido, na cápsula e na creatina da Mais Mu.",
           "headers": [
             "Produto e preço com o código",
             "Dose do rótulo",
@@ -231066,7 +231061,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se você quer sabor: creatina em pó com sabor",
         "paragraphs": [
-          "A gummy, que custa R$ 89,90 no Pix e R$ 99,88 no cartão, é a única creatina com sabor da Growth: ela não vende creatina em pó com sabor. Nas parceiras, a creatina em pó com sabor custa entre 16% e 26% do preço da gummy por grama de creatina."
+          "A gummy é a única creatina com sabor da Growth, que não vende creatina em pó com sabor. Nas parceiras, a creatina em pó com sabor custa entre 16% e 26% do preço da gummy por grama de creatina."
         ],
         "comparisonTable": {
           "headers": [
@@ -231127,7 +231122,7 @@ export const reviewsData: unknown[] = [
         "heading": "No lugar do comprimido: as cápsulas da Probiótica",
         "paragraphs": [
           "A Creatina Creapure® em comprimidos da Growth custa R$ 59,90 no Pix e R$ 66,55 no cartão. São 120 comprimidos, em 40 porções de 3, com 3 g de creatina cada: R$ 1,50 por dose e R$ 49,92 por 100 g de creatina no Pix.",
-          "A [Creatina Monohidratada em Cápsulas da Probiótica](https://www.probiotica.com.br/creatina-caps-180/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) vem com 180 cápsulas e custa R$ 47,89. São 45 porções de 4 cápsulas, também com 3 g de creatina. Sem o código, sai por R$ 35,47 por 100 g de creatina, cerca de 29% menos que a Growth no Pix. O PRO10EMCASACOMCECILIA anuncia até 10%, conforme o produto; no nosso teste de carrinho, deu 2% na Caps, o que leva o pote a R$ 46,93: R$ 34,76 por 100 g e R$ 1,04 por porção, cerca de 30% menos que a Growth no Pix.",
+          "A [Creatina Monohidratada em Cápsulas da Probiótica](https://www.probiotica.com.br/creatina-caps-180/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) vem com 180 cápsulas e custa R$ 47,89. São 45 porções de 4 cápsulas, também com 3 g de creatina. Sem o código, sai por R$ 35,47 por 100 g de creatina. O PRO10EMCASACOMCECILIA anuncia até 10%, conforme o produto; no nosso teste de carrinho, deu 2% na Caps, o que leva o pote a R$ 46,93: R$ 34,76 por 100 g e R$ 1,04 por porção, cerca de 30% menos que a Growth no Pix.",
           "A cápsula da Probiótica é creatina monohidratada, e a embalagem não traz o selo Creapure®."
         ],
         "images": [
@@ -231234,7 +231229,7 @@ export const reviewsData: unknown[] = [
           "Tem alternativa à creatina gummy da Growth? A Creatina Monodose da Probiótica é a nossa recomendação: a dose pronta em sachê, com 5 g de creatina, por menos que a gummy por dose. Para quem quer sabor, há creatina em pó com sabor na Mais Mu, na Max e na Black Skull.",
           "Creatina em sachê vale a pena? Pela praticidade, cada sachê é uma dose pronta. Por grama, ele custa mais que o pó em pote; a troca compensa contra a gummy, não contra o pote.",
           "A creatina em cápsula da Probiótica é Creapure? A embalagem não traz o selo Creapure®. É creatina monohidratada, com 3 g por porção de 4 cápsulas.",
-          "O cupom vale em produto em promoção? Na Black Skull, na Probiótica e na Max, o código vale nas promoções do site. Na Mais Mu, o código soma com o desconto do Pix, mas não com o crédito de cashback.",
+          "O cupom vale em produto em promoção? Na Black Skull, na Probiótica e na Max, o código vale nas promoções do site. Na Mais Mu, entrou sobre os preços da Blue Friday no nosso teste e soma com o desconto do Pix, mas não com o crédito de cashback.",
           "Por que a gummy tem 3 g de creatina por dose e o pó, 5 g? Cada fabricante define a porção do rótulo: a gummy da Growth declara 3 g em 3 gomas; o pó da Growth e o sachê da Probiótica, 5 g. Por isso a comparação usa o preço por grama de creatina, e não só o preço por dose."
         ]
       }
@@ -236743,7 +236738,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a primeira compra na Mais Mu, use MMEMCASACOMCECILIA: 10% OFF em todo o site oficial, também para quem já comprou. O código soma com os preços da Blue Friday e com os 3% do Pix. O crédito de cashback não entra junto, porque é usado como outro cupom; confira abaixo o frete por região."
+          "Para a primeira compra na Mais Mu, use MMEMCASACOMCECILIA: 10% OFF em todo o site oficial, também para quem já comprou. O código vale sobre os preços da Blue Friday e soma com os 3% do Pix. O crédito de cashback não entra junto, porque é usado como outro cupom; confira abaixo o frete por região."
         ]
       },
       {
@@ -236760,7 +236755,7 @@ export const reviewsData: unknown[] = [
           "Para o primeiro pedido, confira onde o código entra, o que não soma com ele e o valor do frete grátis da sua região:"
         ],
         "bullets": [
-          "**Site oficial.** O código vai em “Adicionar cupom de desconto”, no checkout, depois de “Iniciar compra”. A Mais Mu não tem aplicativo, e o cupom não vale no Mercado Livre.",
+          "**Site oficial.** O código vai em “Adicionar cupom de desconto”, no checkout, depois de “Iniciar compra”. O cupom não vale no Mercado Livre.",
           "**Um cupom por pedido.** O crédito do cashback da loja chega como cupom, então ele não entra junto com o MMEMCASACOMCECILIA.",
           "**Frete grátis por região.** A loja informa: acima de R$ 299 no Sul, no Sudeste e no Centro-Oeste, e acima de R$ 399 no Norte e no Nordeste. Abaixo disso, o frete é calculado no checkout."
         ],
@@ -236771,7 +236766,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Carrinho em oferta: onde entram o código e o Pix",
         "paragraphs": [
-          "O MMEMCASACOMCECILIA entra sobre os preços da campanha. No nosso teste de checkout mais recente, registrado na página do cupom, um carrinho com o whey concentrado baunilha refil de 900 g, a creatina sem sabor refil de 500 g e dois wheys Paçoquita de 450 g ficou assim:"
+          "O MMEMCASACOMCECILIA entra sobre os preços da campanha. No nosso teste de checkout mais recente, registrado na página do cupom, um carrinho com o whey concentrado baunilha refil de 900 g, a creatina sem sabor refil de 500 g e dois wheys Paçoquita de 450 g fechou com 10% de desconto sobre o subtotal."
         ],
         "comparisonTable": {
           "caption": "Carrinho com um whey, uma creatina e dois wheys Paçoquita, nos preços do cartão da Blue Friday: valores do teste no checkout, antes do Pix e do frete.",
@@ -236830,7 +236825,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena usar o cupom na primeira compra?",
         "emphasis": "Para a primeira compra na Mais Mu, eu iria no site oficial, abriria o checkout pelo Iniciar compra e aplicaria o MMEMCASACOMCECILIA antes de escolher o Pix.",
         "paragraphs": [
-          "Vale: são 10% em todo o site, sem cadastro e sem depender de ser cliente novo, e o código serve de novo nas compras seguintes. O que pode atrapalhar é ter crédito de cashback, que não soma, ou ficar perto do mínimo do frete grátis da sua região."
+          "Vale: são 10% em todo o site, sem depender de ser cliente novo, e o código serve de novo nas compras seguintes. O que pode atrapalhar é ter crédito de cashback, que não soma, ou ficar perto do mínimo do frete grátis da sua região."
         ],
         "links": [
           {
@@ -236856,7 +236851,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Use o cupom se é a sua primeira compra na Mais Mu e quer 10% sem cadastro de newsletter.",
+        "Use o cupom se é a sua primeira compra na Mais Mu: os 10% entram direto no checkout.",
         "Use também se já comprou antes: o mesmo código vale de novo."
       ],
       "skipIf": [
@@ -240509,7 +240504,7 @@ export const reviewsData: unknown[] = [
           "**O código.** CECILIA, tudo junto, sem espaço antes ou depois.",
           "**O campo.** “Cupom (opcional)”, que abre em “Inserir cupom de desconto”, no checkout do site oficial da La Ganexa.",
           "**Outro código no pedido.** O resumo mostra qual cupom ficou aplicado. Para trocar, toque em “Remover” e digite o CECILIA.",
-          "**Kit marcado como não cumulativo.** Nos dois kits que a regra da loja deixa fora da soma, o desconto entrou no nosso teste. Se a linha “Descontos” não apareceu no seu pedido, tire o kit do carrinho e fale com o atendimento."
+          "**Kit marcado como não cumulativo.** Nos dois kits que a regra da loja deixa fora da soma, o desconto entrou no nosso teste. Se a linha “Descontos” não aparecer, teste o código sem o kit no carrinho e, se ainda assim não entrar, fale com o atendimento."
         ],
         "postParagraphs": [
           "Se nada disso resolver, a La Ganexa atende pelo WhatsApp (13) 99630-5971, de segunda a quinta das 8h às 18h e na sexta das 8h às 17h. Para avisar a gente, use o [contato do site](/contato). As condições do código ficam na página do [cupom La Ganexa](/cupons/la-ganexa)."
@@ -240541,7 +240536,7 @@ export const reviewsData: unknown[] = [
           "O cupom La Ganexa soma com produto em promoção? Sim. No nosso teste, o desconto entrou sobre o preço promocional.",
           "O cupom vale nos kits? A loja diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiro de Colher não acumulam com cupom. No nosso teste, o checkout aceitou o CECILIA nos dois. Confira a linha “Descontos” antes de pagar.",
           "O cupom dá frete grátis? Não. O frete grátis depende do mínimo da sua região, contado depois do cupom.",
-          "Tem desconto no Pix na La Ganexa? Não. A loja não dá desconto a mais no Pix, e o cupom vale com ele."
+          "Tem desconto no Pix na La Ganexa? Não. A loja não dá desconto a mais no Pix, e o cupom vale no Pix como nas outras formas de pagamento."
         ]
       }
     ],
@@ -240593,7 +240588,7 @@ export const reviewsData: unknown[] = [
         "Você ainda não escolheu o sabor: os kits de degustação de pasta e de cookies da tabela estão com preço da campanha."
       ],
       "skipIf": [
-        "A compra é só pelo selo de desconto, sem comparar o preço com o de outro dia."
+        "Você mora fora do Sul e do Sudeste e o carrinho não chega ao mínimo maior do frete grátis da região, já com o cupom."
       ]
     },
     "cta": {
@@ -240680,7 +240675,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A tabela não traz o preço riscado da loja: mostra o preço lido no dia, e não um histórico. Para saber se uma oferta baixou, compare o preço da página com o da tabela, ou com o que você pagou da última vez.",
-          "Os preços mudam durante a campanha, e um item pode esgotar. Antes de comprar, confira o preço na página do produto."
+          "Um item da tabela pode esgotar durante a campanha."
         ],
         "images": [
           {
@@ -241006,7 +241001,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da La Ganexa? O cupom da La Ganexa da nossa parceria é CECILIA, com 10% OFF no site oficial da loja, em todas as formas de pagamento. Digite o código no checkout, em “Inserir cupom de desconto”.",
           "A La Ganexa tem boa nota no Reclame Aqui? Tem reputação Ótima e nota 9,2 na aba de seis meses, e o perfil traz o selo Empresa Verificada. Os números do período estão na tabela do capítulo da nota.",
-          "A La Ganexa responde as reclamações? Sim. Em todas as abas lidas, o perfil aparece com 100% das reclamações respondidas, e o tempo médio de resposta muda de uma aba para outra.",
+          "A La Ganexa responde às reclamações? Sim. Em todas as abas lidas, o perfil aparece com 100% das reclamações respondidas, e o tempo médio de resposta muda de uma aba para outra.",
           "O que fazer se o pedido da La Ganexa chegou aberto? Fotografe a embalagem e fale com a loja. A política pede aviso de avaria em até 48 horas e, para troca, orienta não abrir a embalagem. Os prazos estão no capítulo sobre o que conferir antes de comprar.",
           "Em quanto tempo a La Ganexa entrega? A loja diz que o pedido sai em até 24 horas úteis depois do pagamento e que a entrega leva, em média, de 2 a 5 dias úteis depois da postagem, podendo variar por região."
         ]
@@ -241152,7 +241147,7 @@ export const reviewsData: unknown[] = [
           "Para pagar com o CECILIA, monte o carrinho no site, clique em Finalizar a compra e, no checkout seguro da loja (seguro.lojalaganexa.com.br), toque em Inserir cupom de desconto, digite CECILIA e confira a linha Descontos. As condições estão na página do [cupom La Ganexa](/cupons/la-ganexa).",
           "Dúvida de porção, restrição alimentar ou saúde vai para o médico ou o nutricionista, como a própria loja recomenda. O que cada rótulo declara, sabor por sabor, está em [La Ganexa é boa?](/reviews/la-ganexa-e-boa)."
         ],
-        "emphasis": "Eu compraria pelo lojalaganexa.com.br e, no primeiro pedido, conferiria a caixa no dia da entrega: a regra de troca é estrita, e o aviso de avaria vale só por 48 horas.",
+        "emphasis": "Eu compraria pelo lojalaganexa.com.br e, no primeiro pedido, conferiria a caixa no dia da entrega: a regra de troca é estrita, e o prazo para avisar de avaria é de só 48 horas.",
         "links": [
           {
             "label": "Ir para a La Ganexa com o CECILIA",
@@ -241249,8 +241244,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom La Ganexa primeira compra: qual usar",
         "paragraphs": [
-          "A La Ganexa vende doces e pastas, como doce de leite, brigadeiro de colher e pasta de amendoim. Para escolher o sabor antes do primeiro pedido, veja [La Ganexa é boa?](/reviews/la-ganexa-e-boa).",
           "Use o CECILIA. Ele dá 10% OFF no site oficial da La Ganexa, e o mesmo código serve para o primeiro pedido e para os seguintes.",
+          "A La Ganexa vende doces e pastas, como doce de leite, brigadeiro de colher e pasta de amendoim. Para escolher o sabor antes do primeiro pedido, veja [La Ganexa é boa?](/reviews/la-ganexa-e-boa).",
           "Código achado em site de cupom pode não funcionar. O CECILIA foi testado por nós no checkout, e as condições dele estão na página do [cupom La Ganexa](/cupons/la-ganexa)."
         ]
       },
@@ -241385,7 +241380,7 @@ export const reviewsData: unknown[] = [
         "Você quer conhecer seis sabores em potes de 150 g antes de escolher uma embalagem maior."
       ],
       "skipIf": [
-        "Você evita maltitol ou sucralose: as pastas de sobremesa e o doce de leite listam esses adoçantes.",
+        "Você evita maltitol ou sucralose: as pastas de sobremesa listam ao menos um dos dois, e o doce de leite, sucralose.",
         "Você quer provar um pote grande e devolver se não gostar: a troca pede produto sem uso."
       ]
     },
@@ -241558,7 +241553,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Maltitol e sucralose nas pastas de sobremesa",
         "paragraphs": [
-          "Nas pastas de sobremesa com lista publicada, todas trazem maltitol ou sucralose, e é a lista de ingredientes que diz qual adoçante o pote leva. A tabela abaixo reúne os sabores cujo rótulo traz a linha de polióis; nos outros a linha não aparece, mesmo quando a lista tem maltitol.",
+          "Todas as pastas de sobremesa com lista publicada trazem maltitol ou sucralose, e é a lista de ingredientes que diz qual adoçante o pote leva. A tabela abaixo reúne os sabores cujo rótulo traz a linha de polióis; nos outros a linha não aparece, mesmo quando a lista tem maltitol.",
           "A Leitinho é a pasta que a própria loja chama de a mais famosa. Ela declara whey protein e leite em pó na lista e traz o aviso de contém lactose; a tabela do pote de 1 kg mostra os polióis.",
           "As páginas da Leitinho e da Leitinho Black avisam que o chocolate pode derreter no transporte, e a loja não trata isso como defeito. Se a aparência do chocolate importa para você, pese isso antes de pedir.",
           "A Avelã Vegana, a Chocrante e a Chocolate Branco declaram “aromatizante sintético idêntico ao natural” na lista. A Chocrante também leva whey protein."
@@ -247519,7 +247514,7 @@ export const reviewsData: unknown[] = [
         "Você prefere uma unidade maior: o Chocowheyfer Max, com uma caixa e um desembolso maiores."
       ],
       "skipIf": [
-        "Você precisa de wafer zero lactose ou sem glúten: os rótulos lidos aqui declaram os dois, e o Max pede a conferência da embalagem.",
+        "Você precisa de wafer zero lactose ou sem glúten: os rótulos lidos aqui dizem que contêm lactose e glúten, e a página do Max não traz o aviso.",
         "Você escolheu o Veggie para evitar leite: o aviso da página diz que ele pode conter leite."
       ]
     },
@@ -247586,7 +247581,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por wafer e por grama de proteína",
         "paragraphs": [
-          "Os preços de referência são dos sites em 14 de novembro de 2026; a oferta da Mais Mu é a da Blue Friday, no cartão em 23/11, e bate com a tabela. Todos já incluem o código de 10% de cada loja, sem frete e sem o desconto do Pix. O primeiro valor usa o preço de referência; a oferta aparece à parte."
+          "Os preços de referência são dos sites em 14 de novembro de 2026; na Mais Mu, a oferta é a da Blue Friday, no cartão em 23/11. Todos já incluem o código de 10% de cada loja, sem frete e sem o desconto do Pix. Em cada célula, o primeiro valor é o de referência, e o segundo, o da oferta."
         ],
         "comparisonTable": {
           "caption": "Nos produtos vendidos em caixa, o custo por unidade é uma conta nossa: a compra é da caixa inteira.",
@@ -247689,7 +247684,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ingredientes e avisos de leite, lactose e glúten",
         "paragraphs": [
           "A Mais Mu apresenta o Veggie Wafer como vegetal e usa proteína de ervilha na lista de ingredientes. O aviso da página informa que ele pode conter leite e que contém glúten. O nome “vegetal” não substitui a leitura dos alergênicos.",
-          "As páginas do Chocowheyfer Chocolate, do Sem Cobertura Chocolate e da Doctor Wafer nos sabores Avelã e Doce de Leite declaram lactose e glúten. A página do Max Chocolate não traz essa declaração: confira a embalagem. Para os outros sabores, veja o aviso de cada página, sem transferir a informação de um sabor para outro.",
+          "As páginas do Chocowheyfer Chocolate, do Sem Cobertura Chocolate e da Doctor Wafer nos sabores Avelã e Doce de Leite declaram que contêm lactose e glúten. A página do Max Chocolate não traz essa declaração: confira a embalagem. Para os outros sabores, veja o aviso de cada página, sem transferir a informação de um sabor para outro.",
           "Para dúvidas sobre restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos."
         ],
         "images": [
@@ -247814,8 +247809,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "As regras de cada código, com oferta e forma de pagamento, estão nas páginas de cada cupom acima.",
-          "Se você ainda está escolhendo entre barra e wafer da mesma marca, veja o [guia de barras e wafers da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher). Para comparar outros formatos com os da Bendu, veja [alternativas à Bendu](/reviews/alternativas-a-bendu).",
-          "Se a dúvida é entre wafer e barra, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com seis barras de quatro lojas."
+          "Se a dúvida é entre wafer e barra, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com seis barras de quatro lojas, ou o [guia de barras e wafers da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher). Para comparar outros formatos com os da Bendu, veja [alternativas à Bendu](/reviews/alternativas-a-bendu)."
         ]
       },
       {
@@ -248133,7 +248127,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você quer o menor custo por proteína desta seleção e aceita açúcar adicionado: a Whey Bar da Probiótica.",
-        "Você quer zero açúcar adicionado pelo menor preço por barra: a Whey Bar Creamy da Probiótica; se a declaração sem glúten pesa, a Gourmet Zero da Black Skull.",
+        "Você quer zero açúcar adicionado pelo menor preço por barra fora de oferta: a Whey Bar Creamy da Probiótica; se a declaração sem glúten pesa, a Gourmet Zero da Black Skull.",
         "Você quer a maior quantidade de proteína em uma unidade entre as seis: a Doctor Bar da Dr. Peanut."
       ],
       "skipIf": [
@@ -248162,16 +248156,13 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "wafer-proteico-qual-escolher"
-      },
-      {
-        "slug": "salgadinho-proteico-qual-escolher"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Entre as seis barras comparadas, a Whey Bar da Probiótica custa menos por grama de proteína, mas leva açúcar adicionado. Para evitar açúcar adicionado, a Creamy da mesma marca tem o menor preço por barra. A Doctor Bar tem mais proteína por unidade nesta seleção; a página da Gourmet Zero da Black Skull declara que ela não contém glúten."
+          "Entre as seis barras comparadas, a Whey Bar da Probiótica custa menos por grama de proteína, mas leva açúcar adicionado. Para evitar açúcar adicionado, a Creamy da mesma marca tem o menor preço por barra fora de oferta. A Doctor Bar tem mais proteína por unidade; a página da Gourmet Zero da Black Skull declara que ela não contém glúten."
         ]
       },
       {
@@ -248239,7 +248230,7 @@ export const reviewsData: unknown[] = [
           "caption": "Conta nossa: o preço da caixa dividido pelas barras e pela proteína de cada uma, arredondado para centavos.",
           "headers": [
             "Barra e caixa",
-            "Preço da caixa",
+            "Caixa com o código",
             "Por barra",
             "Por grama de proteína"
           ],
@@ -248311,13 +248302,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nessa oferta, a Mukebar fica em R$ 0,45 por grama de proteína, abaixo de todas as outras, exceto a Whey Bar da Probiótica (R$ 0,38). A Crush Bar, em R$ 0,59, fica na faixa da Creamy e abaixo da Doctor Bar e da Gourmet Zero. O frete pode mudar qual caixa fica mais barata no pedido."
+          "Nessa oferta, a Mukebar fica em R$ 0,45 por grama de proteína, abaixo de todas as outras, exceto a Whey Bar da Probiótica (R$ 0,38). A Crush Bar, em R$ 0,59, fica na faixa da Creamy e abaixo da Doctor Bar e da Gourmet Zero. Por barra, a Crush Bar passa a custar menos que a Creamy (R$ 5,93 contra R$ 6,36), a mais barata sem açúcar adicionado fora da oferta. O frete pode mudar qual caixa fica mais barata no pedido."
         ]
       },
       {
         "heading": "Probiótica: menor custo por proteína ou zero açúcar adicionado",
         "paragraphs": [
-          "A escolha entre as duas começa pelo açúcar adicionado. A Whey Bar tem o menor custo por proteína do guia; a Creamy é a de menor preço por barra entre as que declaram zero açúcar adicionado.",
+          "A escolha entre as duas começa pelo açúcar adicionado. A Whey Bar tem o menor custo por proteína do guia; a Creamy é a de menor preço por barra entre as que declaram zero açúcar adicionado, fora da oferta da Mais Mu.",
           "O tamanho do pedido também muda: a caixa da Whey Bar traz 24 barras, o dobro da Creamy. Quem quer gastar menos de uma vez deve comparar o total da caixa.",
           "O PRO10EMCASACOMCECILIA dá até 10%, conforme o produto. Nas duas caixas de barra, o carrinho do nosso teste mostrou 2%. Confira o desconto no resumo do pedido."
         ],
@@ -248355,7 +248346,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dr. Peanut: Doctor Bar para mais proteína em uma barra",
         "paragraphs": [
           "Entre as seis, a Doctor Bar é a que tem mais proteína por unidade. Isso não a torna a mais barata por barra: ela é maior, e a caixa de oito também precisa caber no pedido.",
-          "As tabelas dos sabores publicados declaram uma pequena quantidade de açúcar adicionado. A faixa da tabela acima não inclui o Speculoos, que não tem tabela publicada.",
+          "As tabelas dos sabores publicados declaram uma pequena quantidade de açúcar adicionado. A faixa da primeira tabela não inclui o Speculoos, que não tem tabela publicada.",
           "Para comparar a barra com o alfajor e o wafer da mesma marca, veja [snacks da Dr. Peanut: qual escolher](/reviews/snacks-dr-peanut-qual-escolher)."
         ],
         "images": [
@@ -248433,15 +248424,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual barra de proteína vale mais a pena?",
         "paragraphs": [
-          "Cada código vale só na loja dele. No carrinho ou no checkout, digite o código no campo de cupom e confira o desconto no resumo do pedido."
+          "Cada código vale só na loja dele. Na Mais Mu, toque em Iniciar compra no carrinho e, no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto; nas outras lojas, digite o código no campo de cupom. Confira o desconto no resumo do pedido."
         ],
         "emphasis": "Para gastar menos por grama de proteína, eu escolheria a Whey Bar da Probiótica. Para evitar açúcar adicionado, eu iria na Whey Bar Creamy; para mais proteína em uma unidade só, eu escolheria a Doctor Bar.",
         "bullets": [
           "Menor custo por proteína: a Whey Bar da Probiótica, que leva açúcar adicionado.",
-          "Zero açúcar adicionado pelo menor preço por barra: a Whey Bar Creamy da Probiótica.",
+          "Zero açúcar adicionado pelo menor preço por barra: a Whey Bar Creamy da Probiótica; enquanto durar a Blue Friday, a Crush Bar da Mais Mu.",
           "Declaração de que não contém glúten: a Gourmet Zero da Black Skull.",
           "Mais proteína em uma unidade: a Doctor Bar da Dr. Peanut, a maior das seis.",
-          "Barra maior ou menor com menos açúcar total: a Mukebar ou a Crush Bar da Mais Mu, que na Blue Friday ficam bem mais perto das mais baratas."
+          "Barra maior ou menor com menos açúcar total: a Mukebar ou a Crush Bar da Mais Mu; na Blue Friday, a Mukebar fica atrás só da Whey Bar por grama de proteína."
         ],
         "comparisonTable": {
           "headers": [
@@ -248504,7 +248495,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Cada código vale só na loja dele; as regras estão nas páginas de cada cupom. Confira o desconto e o frete no resumo do pedido para comparar o total que vai pagar.",
+          "As regras estão nas páginas de cada cupom. Confira também o frete no resumo do pedido para comparar o total que vai pagar.",
           "A Max Titanium também vende barras de proteína. As regras do código da marca estão em [cupom Max Titanium](/cupons/max-titanium).",
           "Se você quer outro formato de lanche, compare também [wafers proteicos](/reviews/wafer-proteico-qual-escolher) e [salgadinhos proteicos](/reviews/salgadinho-proteico-qual-escolher)."
         ]
@@ -250188,7 +250179,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você procura um desconto adicional no kit de suspiros ou de cookies: nesta comparação ele custa o mesmo que os itens avulsos na mesma quantidade.",
-        "Você já sabe o sabor de pasta que quer: em Leitinho, Cookies e Chocolate ao Leite Crocante, o pote de 450 g sai mais barato por grama que a degustação."
+        "Você já sabe o sabor de pasta que quer: em Leitinho, Cookies e Chocrante, o pote de 450 g sai mais barato por grama que a degustação."
       ]
     },
     "cta": {
@@ -250225,7 +250216,7 @@ export const reviewsData: unknown[] = [
         "heading": "O cupom CECILIA vale em kit?",
         "paragraphs": [
           "Vale. No checkout seguro da loja, o [cupom La Ganexa](/cupons/la-ganexa) foi aceito nos dois kits que a página de regras diz não acumularem com cupom: o Kit 2 Brigadeiro de Colher foi de R$ 83,99 para R$ 75,59, e o Kit 2 Doce de Leite, de R$ 127,99 para R$ 115,19. O desconto é de 10% nos kits e nos avulsos, então o cupom não muda quem ganha a comparação: kit e avulso caem na mesma proporção.",
-          "A regra escrita e o checkout não dizem a mesma coisa: a página de regras das promoções diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiro de Colher não acumulam com cupom, e a página do Kit 2 Brigadeiro repete que o desconto já está aplicado. Confira a linha de descontos antes de pagar."
+          "A página do Kit 2 Brigadeiro repete a regra e diz que o desconto já está aplicado. Como a regra escrita e o checkout não dizem a mesma coisa, confira a linha Descontos antes de pagar. O cupom vale em todas as formas de pagamento, e a loja não dá desconto extra no Pix."
         ],
         "comparisonTable": {
           "caption": "Preços das páginas da La Ganexa em 23/11/2026, com o Esquenta Black Friday no ar, sem frete. O Kit 2 Brigadeiro e o Kit 2 Doce de Leite com o CECILIA foram lidos no checkout; nos demais, 10% sobre o preço da página.",
@@ -250511,7 +250502,7 @@ export const reviewsData: unknown[] = [
         "heading": "Degustação de pasta de amendoim: mais cara por grama",
         "paragraphs": [
           "A degustação de pasta custa R$ 139,99 por 900 g, e os mesmos seis sabores em potes de 450 g somam R$ 399,94 por 2,7 kg, antes do cupom. Por 100 g, são R$ 15,55 no kit e R$ 14,81 nos potes grandes. O kit exige um gasto menor, mas custa mais pela mesma quantidade de pasta. Os potes de 150 g do kit não são vendidos separadamente.",
-          "Entre os sabores do kit, a degustação custa mais por grama que os potes de 450 g de Leitinho, Cookies e Chocolate ao Leite Crocante, praticamente o mesmo que o de Creme de Avelã e menos que os de Pistache e de Caramelo e Flor de Sal. Ela faz sentido para quem quer experimentar os seis sabores comprando uma quantidade menor de cada um."
+          "Entre os sabores do kit, a degustação custa mais por grama que os potes de 450 g de Leitinho, Cookies e Chocrante (Chocolate ao Leite Crocante), praticamente o mesmo que o de Creme de Avelã e menos que os de Pistache e de Caramelo e Flor de Sal. Ela faz sentido para quem quer experimentar os seis sabores comprando uma quantidade menor de cada um."
         ],
         "images": [
           {
@@ -250527,7 +250518,7 @@ export const reviewsData: unknown[] = [
         "heading": "Brinde e frete grátis: os mínimos contam depois do cupom",
         "paragraphs": [
           "A loja informa: o brinde vem, por tempo limitado, em pedidos acima de R$ 180, e o frete grátis, acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões. Os dois mínimos contam depois do cupom. No checkout, com o Kit 2 Brigadeiro já a R$ 75,59, o aviso dizia “Adicione R$ 104,41 e ganhe um brinde”: a conta parte do valor com o desconto.",
-          "O Kit 4 Brigadeiro de Colher mais um pote avulso fica em R$ 170,98 com o CECILIA, abaixo do mínimo do brinde. Os mesmos cinco potes comprados avulsos ficam em R$ 202,45: R$ 31,47 a mais, antes do frete. São valores calculados com o cupom. Pela regra anunciada, a segunda opção ultrapassaria o mínimo do brinde; confirme a disponibilidade do presente e o total com entrega no carrinho antes de escolher. A loja não oferece desconto extra no Pix."
+          "O Kit 4 Brigadeiro de Colher mais um pote avulso fica em R$ 170,98 com o CECILIA, abaixo do mínimo do brinde. Os mesmos cinco potes comprados avulsos ficam em R$ 202,45: R$ 31,47 a mais, antes do frete. São valores calculados com o cupom. Pela regra anunciada, a segunda opção ultrapassaria o mínimo do brinde; confirme a disponibilidade do presente e o total com entrega no carrinho antes de escolher."
         ]
       },
       {
@@ -250539,7 +250530,7 @@ export const reviewsData: unknown[] = [
           "**Potes iguais:** o [Kit 4 Brigadeiro de Colher 250 g](https://lojalaganexa.com.br/products/kit-4-brigadeiro-de-colher-250g) é o que mais economiza, R$ 31,47 sobre os quatro potes avulsos; o [Kit 2 Pastas sabor Leitinho 450 g](https://lojalaganexa.com.br/products/kit-2-pastas-sabor-leitinho-450g) poupa R$ 15,29.",
           "**Provar sabores:** o [Kit Degustação de Alfajores](https://lojalaganexa.com.br/products/kit-alfajor-todos-sabores-50g) economiza R$ 14,83 sobre os seis alfajores avulsos, e o [Kit Degustação Xagadinho](https://lojalaganexa.com.br/products/kit-degustacao-1-xagadinho-pizza-e-1-xagadinho-cebola-e-salsa), R$ 6,21.",
           "**Suspiros e cookies:** o kit custa o mesmo que a opção de mesma quantidade; compre por onde a página do sabor oferecer.",
-          "**Pasta de amendoim:** o [Kit Degustação Pasta de Amendoim](https://lojalaganexa.com.br/products/kit-degustacao-com-6-pastas-de-150g-un-1-leitinho-1-pistache-1-caramelo-1-creme-de-avela-1-chocrante-e-1-cookies) custa mais por 100 g que os potes de 450 g de Leitinho, Cookies e Chocolate ao Leite Crocante, e serve para provar seis sabores."
+          "**Pasta de amendoim:** o [Kit Degustação Pasta de Amendoim](https://lojalaganexa.com.br/products/kit-degustacao-com-6-pastas-de-150g-un-1-leitinho-1-pistache-1-caramelo-1-creme-de-avela-1-chocrante-e-1-cookies) custa mais por 100 g que os potes de 450 g de Leitinho, Cookies e Chocrante, e serve para provar seis sabores."
         ],
         "postParagraphs": [
           "Para pagar com o CECILIA, monte o carrinho no site, clique em Finalizar a compra e, no checkout seguro da loja (seguro.lojalaganexa.com.br), toque em Inserir cupom de desconto, digite CECILIA e confira a linha Descontos."

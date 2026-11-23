@@ -34,7 +34,7 @@
     {
       "heading": "Concentrado: pote de 450 g",
       "paragraphs": [
-        "A Mais Mu vende o whey concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês, além do isolado e da proteína vegetal. A loja publica a contagem de doses (\"cerca de N doses\") na legenda da galeria de várias páginas e a proteína por dose: 20 g no concentrado e 22 g no isolado e no vegetal. As contas usam essa contagem, com a margem do \"cerca de\"; onde a loja não publica, não fazemos conta. R$ por dose = preço ÷ doses; R$ por 100 g de proteína = R$ por dose ÷ proteína por dose × 100.",
+        "A Mais Mu vende o whey concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês, além do isolado e da proteína vegetal. A loja publica a contagem de doses (\"cerca de N doses\") na legenda da galeria de várias páginas e a proteína por dose: 20 g no concentrado e 22 g no isolado e no vegetal. As contas usam essa contagem, com a margem do \"cerca de\"; onde a loja não publica, não fazemos conta.",
         "O Baunilha de 450 g é o único com a tabela nutricional da loja na galeria: porção de 36 g, cerca de 13 porções e 20 g de proteína por porção. Fora dele, a loja não publica gramas de pote nem de refil, e este texto não usa outra gramagem."
       ],
       "images": [
@@ -47,7 +47,7 @@
         }
       ],
       "comparisonTable": {
-        "caption": "Preços do site no cartão em 23/11/2026, na Blue Friday, sem frete.",
+        "caption": "Preços do site no cartão em 23/11/2026, na Blue Friday, sem frete. R$ por dose = preço ÷ doses; R$ por 100 g de proteína = R$ por dose ÷ proteína por dose × 100.",
         "headers": [
           "Sabor",
           "Doses (loja)",
@@ -141,7 +141,7 @@
       },
       "postParagraphs": [
         "Com o cupom e o Pix, o refil de 900 g sai por R$ 158,88 no Chocolate, R$ 182,67 no Cookies'n Cream, no Baunilha, no Morango e na Paçoquita e R$ 195,54 no Brownie, no Chocolate com avelã, no Chocolate com coco e no Doce de leite. O refil de Chocolate tem a menor conta por proteína entre os concentrados com contagem: R$ 34,54 por 100 g com os dois descontos, seguido do Cookies'n Cream, com R$ 35,13. Nos sabores sem contagem a conta por dose não sai.",
-        "O refil de 1,8 kg custa R$ 299,99 nos sabores Baunilha e Paçoquita (R$ 290,99 no Pix). A loja não publica a contagem dele, então não há conta por dose. O refil de Paçoquita de 222 g custa R$ 81,54 (R$ 79,09 no Pix), também sem contagem."
+        "O refil de 1,8 kg custa R$ 299,99 nos sabores Baunilha e Paçoquita (R$ 290,99 no Pix). A loja não publica a contagem dele; pelo peso, com a porção de 36 g da tabela do pote, seriam 50 doses e R$ 30,00 por 100 g de proteína. O refil de Paçoquita de 222 g custa R$ 81,54 (R$ 79,09 no Pix), também sem contagem."
       ],
       "images": [
         {
@@ -227,9 +227,9 @@
       ]
     },
     {
-      "heading": "Isolado e vegetal: o preço por dose",
+      "heading": "Isolado: o preço por dose",
       "paragraphs": [
-        "A loja dá 22 g de proteína por dose no isolado e no vegetal. No isolado, o refil de 900 g sai a R$ 28,92 por 100 g de proteína no cartão, o menor valor de toda a conta; o pote de 450 g sai a R$ 51,13."
+        "A loja dá 22 g de proteína por dose no isolado. O refil de 900 g sai a R$ 28,92 por 100 g de proteína no cartão, o menor valor de toda a conta; o pote de 450 g sai a R$ 51,13."
       ],
       "comparisonTable": {
         "caption": "Isolado",
@@ -315,7 +315,7 @@
       },
       "postParagraphs": [
         "Com o cupom e o Pix, o vegetal de 450 g sai por R$ 94,28 e o de 900 g por R$ 157,13.",
-        "A proteína vegetal é isolada de arroz e de ervilha, diz a loja. Ela não é whey e aparece aqui só para completar a linha. O refil de Torta de banana com canela não entrou na nossa última leitura de preços; confira na loja."
+        "A Torta de banana com canela aparece só no pote de 450 g."
       ],
       "images": [
         {
@@ -326,6 +326,9 @@
           "aspectRatio": 1.7778,
           "href": "https://www.lojamaismu.com.br/whey/"
         }
+      ],
+      "paragraphs": [
+        "A proteína vegetal também declara 22 g por dose. Ela é isolada de arroz e de ervilha, diz a loja; não é whey e aparece aqui para completar a linha."
       ]
     },
     {
@@ -341,7 +344,7 @@
         "**Proteína vegetal:** Caramel Macchiato e Chocolate com avelã, nos dois tamanhos, e Torta de banana com canela no pote de 450 g."
       ],
       "postParagraphs": [
-        "A loja marca Paçoquita e Chocolate com coco como “novo sabor” e o Doce de leite como “lançamento”, sem data. A categoria de whey também tem uma ordenação padrão com nome de ranking, sem critério nem data publicados. Por isso este texto não diz que um sabor vende mais que outro."
+        "A loja marca Paçoquita e Chocolate com coco como “novo sabor” e o Doce de leite como “lançamento”, sem data."
       ]
     },
     {
@@ -352,8 +355,8 @@
       "bullets": [
         "**Pistache Borelli, pote de 418 g:** parceria com a Borelli. [Ver na loja](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-borelli-pistache-418g-1rnkj/)",
         "**Banoffee Nanica, pote de 420 g:** parceria com a Nanica. A página diz que o sabor foi inspirado na torta da marca. [Ver na loja](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-nanica-banoffee-420g-d8lol/)",
-        "**Brownie do Luiz, pote de 420 g:** parceria, diz a loja, com o nome que está no catálogo. [Ver na loja](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-brownie-do-luiz-420g-1yqzu/)",
-        "**Paçoquita:** parceria, diz a loja, nos formatos de concentrado (pote de 450 g, sachê, refil de 900 g e 1,8 kg)."
+        "**Brownie do Luiz, pote de 420 g:** parceria, segundo a loja. [Ver na loja](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-brownie-do-luiz-420g-1yqzu/)",
+        "**Paçoquita:** parceria, segundo a loja, nos formatos de concentrado (pote de 450 g, sachê, refil de 900 g e 1,8 kg)."
       ],
       "postParagraphs": [
         "Os três potes de 418 e 420 g custam R$ 135,99 cada no cartão (R$ 131,91 no Pix; R$ 118,72 com o cupom e o Pix), o mesmo preço do pote de 450 g. A loja não publica a contagem de doses deles, então ficam fora da conta por dose e por proteína. Os textos dos três dizem “contém lactose” e “não contém glúten”."
@@ -365,7 +368,7 @@
         "Nos concentrados, o texto da loja traz proteína de soro do leite concentrada, o sabor, goma xantana e sucralose. Alguns citam cloreto de potássio. Os textos dizem “contém lactose”. Os alergênicos são derivados de leite e soja, com “pode conter” amendoim, avelã, castanha-de-caju e ovos.",
         "O refil de Paçoquita de 222 g é o único sem a linha “contém lactose”: a página diz só “Contém amendoim, leite e derivados. Não contém glúten.” Isso não garante que ele seja sem lactose. Confira no rótulo.",
         "Sobre glúten, os textos da Paçoquita não dizem a mesma coisa em todos os formatos. Confira no rótulo do formato que for comprar.",
-        "Sobre o isolado e o vegetal, as descrições dizem “proteína isolada” (no vegetal, do arroz e da ervilha), mas não trazem a lista completa de ingredientes. O isolado Baunilha de 450 g diz “contém lactose” e “não contém glúten”; nos outros sabores do isolado, confira o rótulo, e o FAQ da loja diz que o isolado tem menos lactose que o concentrado, não que seja sem lactose. A lista completa está no rótulo do pote."
+        "Sobre o isolado e o vegetal, as descrições dizem “proteína isolada” (no vegetal, do arroz e da ervilha), mas não trazem a lista completa de ingredientes. O isolado Baunilha de 450 g diz “contém lactose” e “não contém glúten”; nos outros sabores, confira o rótulo. O FAQ da loja diz que o isolado tem menos lactose que o concentrado, não que seja sem lactose."
       ]
     },
     {
@@ -377,12 +380,12 @@
       "bullets": [
         "**Quer conhecer o sabor antes de levar um formato maior:** o pote de 450 g, a R$ 135,99, com 12 ou 13 doses; R$ 118,72 com o cupom e o Pix.",
         "**Quer o menor preço por proteína no concentrado:** o refil de 900 g de Chocolate, a R$ 39,56 por 100 g no cartão e R$ 34,54 com cupom e Pix.",
-        "**Quer o menor preço por proteína em toda a linha:** o isolado refil de 900 g, a R$ 28,92 por 100 g no cartão, R$ 183,32 o refil com cupom e Pix. O isolado de 450 g sai a R$ 51,13 por 100 g.",
+        "**Quer o menor preço por proteína em toda a linha:** o isolado refil de 900 g, a R$ 28,92 por 100 g no cartão e R$ 25,25 com cupom e Pix (R$ 183,32 o refil). O isolado de 450 g sai a R$ 51,13 por 100 g.",
         "**Quer levar um pacote pequeno:** o sachê, a R$ 11,19 cada, R$ 167,89 a caixa de 15, perto do que custa uma dose do pote e acima da do refil.",
         "**Precisa evitar lactose:** leia o rótulo do sabor escolhido. Os concentrados e o isolado Baunilha dizem “contém lactose”."
       ],
       "postParagraphs": [
-        "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O código dá 10% em todo o site e soma com os 3% do Pix, inclusive sobre os preços da Blue Friday; o brinde de uma creatina de pote 210 g da campanha seguiu no pedido no nosso teste, enquanto durar o estoque.",
+        "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O código dá 10% em todo o site, em todas as formas de pagamento, inclusive sobre os preços da Blue Friday, e soma com os 3% do Pix. Na campanha, a loja dá uma creatina de pote 210 g na compra de qualquer produto, enquanto durar o estoque; no nosso teste, o brinde seguiu no pedido com o cupom.",
         "O cashback é programa da própria loja, e o crédito dele não soma com o cupom, porque a loja não acumula cupons. O código não vale no Mercado Livre, onde vale o preço do anúncio. As regras estão na página do [cupom Mais Mu](/cupons/mais-mu) e o passo a passo, em [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar); a campanha está em [Black Friday da Mais Mu](/reviews/black-friday-mais-mu). Meta de saúde, de peso ou de treino: converse com um nutricionista."
       ],
       "links": [
@@ -417,7 +420,7 @@
     ],
     "skipIf": [
       "Passe no sachê se o preço por dose decide: sai acima do refil.",
-      "Passe nos concentrados se você precisa evitar lactose: os textos dizem “contém lactose”; confira o rótulo antes."
+      "Passe se você precisa evitar lactose: os concentrados e o isolado Baunilha dizem “contém lactose”."
     ]
   },
   "pros": [],

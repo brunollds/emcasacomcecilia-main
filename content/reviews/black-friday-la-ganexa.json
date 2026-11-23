@@ -35,7 +35,7 @@
       "Você ainda não escolheu o sabor: os kits de degustação de pasta e de cookies da tabela estão com preço da campanha."
     ],
     "skipIf": [
-      "A compra é só pelo selo de desconto, sem comparar o preço com o de outro dia."
+      "Você mora fora do Sul e do Sudeste e o carrinho não chega ao mínimo maior do frete grátis da região, já com o cupom."
     ]
   },
   "cta": {
@@ -122,7 +122,7 @@
       },
       "postParagraphs": [
         "A tabela não traz o preço riscado da loja: mostra o preço lido no dia, e não um histórico. Para saber se uma oferta baixou, compare o preço da página com o da tabela, ou com o que você pagou da última vez.",
-        "Os preços mudam durante a campanha, e um item pode esgotar. Antes de comprar, confira o preço na página do produto."
+        "Um item da tabela pode esgotar durante a campanha."
       ],
       "images": [
         {

@@ -75,7 +75,7 @@
         ]
       },
       "postParagraphs": [
-        "O preço de lista é o que a loja risca, e o desconto da campanha é por produto. Compare o mesmo produto, sabor e tamanho, e confira o total com cupom e frete, porque o preço do site muda sem aviso."
+        "O desconto da campanha é por produto. Compare o mesmo produto, sabor e tamanho, e confira o total com cupom e frete, porque o preço do site muda sem aviso."
       ],
       "images": [
         {
@@ -91,7 +91,7 @@
     {
       "heading": "Whey: pote, refil ou sachê",
       "paragraphs": [
-        "O whey concentrado da Mais Mu tem 20 g de proteína por dose, e o isolado e a proteína vegetal, 22 g. A loja publica a contagem de doses de parte das embalagens, em geral como \"cerca de\", e é com ela que dá para comparar o custo da dose e da proteína. A tabela usa o preço do site no cartão em 23/11, na Blue Friday, e a conta de 10% do cupom."
+        "O whey concentrado da Mais Mu tem 20 g de proteína por dose, e o isolado e a proteína vegetal, 22 g. A loja publica a contagem de doses de parte das embalagens, em geral como \"cerca de\", e é com ela que dá para comparar o custo da dose e da proteína. A tabela usa o preço do site no cartão, na Blue Friday, e a conta de 10% do cupom."
       ],
       "comparisonTable": {
         "caption": "Whey e proteína vegetal da Mais Mu: preço do site no cartão na Blue Friday e conta com o cupom MMEMCASACOMCECILIA (10%). As contas por dose e por 100 g de proteína usam a contagem de doses publicada pela loja e o valor com o cupom.",
@@ -109,31 +109,31 @@
             "R$ 26,03"
           ],
           [
-            "[Proteína vegetal, pote 450 g](https://www.lojamaismu.com.br/produtos/proteina-vegetal-torta-de-banana-com-canela-pote-450g/): 12 doses de 22 g",
+            "[Proteína vegetal, pote 450 g](https://www.lojamaismu.com.br/produtos/proteina-vegetal-torta-de-banana-com-canela-pote-450g/): 12 doses, com 22 g de proteína cada",
             "R$ 107,99 → R$ 97,19",
             "R$ 8,10",
             "R$ 36,81"
           ],
           [
-            "[Concentrado, refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/): cerca de 25 doses de 20 g",
+            "[Concentrado, refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/): cerca de 25 doses, com 20 g de proteína cada",
             "R$ 209,25 → R$ 188,33",
             "R$ 7,53",
             "R$ 37,67"
           ],
           [
-            "[Isolado, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-baunilha-pote-450g/): 16 doses de 22 g",
+            "[Isolado, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-baunilha-pote-450g/): 16 doses, com 22 g de proteína cada",
             "R$ 179,99 → R$ 161,99",
             "R$ 10,12",
             "R$ 46,02"
           ],
           [
-            "[Concentrado, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-pote-450g/): cerca de 13 doses de 20 g",
+            "[Concentrado, pote 450 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-pote-450g/): cerca de 13 doses, com 20 g de proteína cada",
             "R$ 135,99 → R$ 122,39",
             "R$ 9,41",
             "R$ 47,07"
           ],
           [
-            "[Concentrado, caixa de 15 sachês](https://www.lojamaismu.com.br/produtos/whey-concentrado-baunilha-sache-465g/): 20 g por sachê",
+            "[Concentrado, caixa de 15 sachês](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-com-coco-sache-525g/): 20 g por sachê",
             "R$ 167,89 → R$ 151,10",
             "R$ 10,07",
             "R$ 50,37"
@@ -141,7 +141,7 @@
         ]
       },
       "bullets": [
-        "**Isolado refil de 900 g:** com 33 porções de 27 g no rótulo, é o menor custo por proteína da tabela nos preços de hoje. Quem prefere concentrado tem o refil de 900 g, com o menor custo entre os concentrados com contagem publicada.",
+        "**Isolado refil de 900 g:** com 33 porções de 27 g no rótulo, é o menor custo por proteína da tabela nos preços de hoje. Quem prefere concentrado tem o refil de 900 g; o de [Chocolate](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-refil-900g/), a R$ 181,99, com cerca de 23 doses, é o mais barato deles: R$ 35,61 por 100 g de proteína com o cupom.",
         "**Pote de 450 g:** a menor quantidade para começar ou trocar de sabor. Os potes de parceria (Pistache Borelli, Banoffee Nanica e Brownie do Luiz, de 418 g e 420 g) custam o mesmo que o pote comum, sem contagem de doses publicada.",
         "**Caixa de 15 sachês:** cada sachê é uma dose, pronta para levar. A praticidade tem preço: é a proteína mais cara da tabela.",
         "**Isolado de 450 g e vegetal:** o isolado de 450 g está com a proteína no mesmo patamar do concentrado de 450 g, e a proteína vegetal tem o menor custo do pote de 450 g."
@@ -163,10 +163,10 @@
     {
       "heading": "Barrinhas e wafers: proteína por unidade ou menos calorias",
       "paragraphs": [
-        "As barrinhas e os wafers da Mais Mu são vendidos em caixa. Na conta por grama de proteína, o que separa um do outro é o sabor da Mukebar, o tamanho da unidade, as calorias e o valor da caixa."
+        "As barrinhas e os wafers da Mais Mu são vendidos em caixa. O que separa um do outro é o tamanho da unidade, as calorias e o valor da caixa; na Mukebar, o preço muda com o sabor."
       ],
       "comparisonTable": {
-        "caption": "Barrinhas e wafers proteicos da Mais Mu: rótulo por unidade e preço por unidade no site, no cartão em 23/11, na Blue Friday, com a conta de 10% do cupom MMEMCASACOMCECILIA.",
+        "caption": "Barrinhas e wafers proteicos da Mais Mu: rótulo por unidade e preço por unidade no site, no cartão, na Blue Friday, com a conta de 10% do cupom MMEMCASACOMCECILIA.",
         "headers": [
           "Produto e caixa",
           "Proteína e calorias por unidade",
@@ -231,18 +231,12 @@
     },
     {
       "heading": "Qual compra vale mais na Blue Friday da Mais Mu?",
-      "emphasis": "Para gastar menos por grama de proteína, eu escolheria o Whey Isolado refil de 900 g, e, se o orçamento pedir concentrado, o refil de 900 g dele. Eu fecharia a compra no site oficial, com o MMEMCASACOMCECILIA aplicado no checkout.",
+      "emphasis": "Para gastar menos por grama de proteína, eu escolheria o Whey Isolado refil de 900 g; para quem prefere os sabores do concentrado, eu iria no refil de 900 g de Chocolate. Eu fecharia a compra no site oficial, com o MMEMCASACOMCECILIA aplicado no checkout.",
       "bullets": [
         "**Menor custo por proteína:** o [Whey Isolado refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/), a R$ 209,99 no cartão, R$ 26,03 por 100 g de proteína com o cupom.",
-        "**Concentrado:** o [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/), a R$ 209,25, R$ 37,67 por 100 g de proteína com o cupom.",
+        "**Concentrado:** o [refil de 900 g de Chocolate](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-refil-900g/), a R$ 181,99, R$ 35,61 por 100 g de proteína com o cupom; nos sabores Baunilha e Morango, a R$ 209,25, R$ 37,67.",
         "**Creatina e pré-treino:** o [refil de 500 g de creatina](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/), a R$ 74,90, e o [Exquenta Amora e Melancia de 500 g](https://www.lojamaismu.com.br/produtos/exquenta-amora-e-melancia-500g/), a R$ 89,99.",
         "**Barrinha:** a [Mukebar de Chocolate com avelã](https://www.lojamaismu.com.br/produtos/mukebar-barra-de-proteina-chocolate-com-avela-720g/), a R$ 89,94 a caixa de 12, ou o [Chocowheyfer Sem Cobertura](https://www.lojamaismu.com.br/produtos/chocowheyfer-sem-cobertura-chocolate-rm7ps/) pelo menor valor de caixa."
-      ],
-      "paragraphs": [
-        "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O cupom dá 10% OFF em todo o site, em todas as formas de pagamento, para conta nova e antiga, e soma com os 3% do Pix.",
-        "No nosso teste de checkout, com o whey concentrado baunilha refil de 900 g, a creatina refil de 500 g e dois wheys Paçoquita de 450 g, o subtotal de R$ 556,13 teve R$ 55,61 de desconto do cupom e fechou em R$ 500,52, com a creatina de brinde no pedido. Os 10% entram sobre os preços da campanha.",
-        "A loja não acumula cupons: o crédito do cashback, programa da própria loja, não soma com o MMEMCASACOMCECILIA, e o mesmo vale para o desconto de boas-vindas. O cupom não vale no [Mercado Livre da Mais Mu](https://meli.la/24RjvdP), onde vale o preço do anúncio.",
-        "O passo a passo com o carrinho está em [Cupom Mais Mu MMEMCASACOMCECILIA: como usar](/reviews/cupom-mais-mu-como-usar)."
       ],
       "images": [
         {
@@ -263,6 +257,12 @@
           "label": "Ver o cupom Mais Mu",
           "href": "/cupons/mais-mu"
         }
+      ],
+      "postParagraphs": [
+        "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O cupom dá 10% OFF em todo o site, em todas as formas de pagamento, para conta nova e antiga, e soma com os 3% do Pix.",
+        "No nosso teste de checkout, com o whey concentrado baunilha refil de 900 g, a creatina refil de 500 g e dois wheys Paçoquita de 450 g, o subtotal de R$ 556,13 teve R$ 55,61 de desconto do cupom e fechou em R$ 500,52, com a creatina de brinde no pedido. Os 10% entram sobre os preços da campanha.",
+        "A loja não acumula cupons: o crédito do cashback, programa da própria loja, não soma com o MMEMCASACOMCECILIA. O cupom não vale no [Mercado Livre da Mais Mu](https://meli.la/24RjvdP), onde vale o preço do anúncio.",
+        "O passo a passo com o carrinho está em [Cupom Mais Mu MMEMCASACOMCECILIA: como usar](/reviews/cupom-mais-mu-como-usar)."
       ]
     },
     {
@@ -274,7 +274,7 @@
         "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 3% que a loja dá no Pix.",
         "Posso usar o cupom junto com o crédito do cashback? Não. O crédito chega como um código para o campo de cupom, e a loja aceita um cupom por pedido.",
         "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio, sem o cupom.",
-        "O que é a Blue Friday da Mais Mu? É o nome que a loja dá à Black Friday: nesta edição, uma creatina de 210 g de brinde em qualquer compra, enquanto durar o estoque, além dos 3% do Pix.",
+        "O que é a Blue Friday da Mais Mu? É o nome que a loja dá à Black Friday dela.",
         "Qual whey da Mais Mu compensa na Black Friday? O Whey Isolado refil de 900 g tem o menor custo por proteína da tabela. Entre os concentrados com contagem de doses publicada, o refil de 900 g sai mais barato por proteína; o pote de 450 g serve para começar com menos, e a caixa de sachês, para levar a dose pronta."
       ]
     }
@@ -312,7 +312,7 @@
     "skipIf": [
       "Passe no pote de 450 g se vai repor o whey: o refil sai mais barato por dose.",
       "Passe nos sachês se o preço por dose decide: são a proteína mais cara da tabela.",
-      "Passe pelo site se prefere o Mercado Livre, onde o cupom não vale."
+      "Passe se prefere comprar no Mercado Livre: lá o cupom não vale."
     ]
   }
 }

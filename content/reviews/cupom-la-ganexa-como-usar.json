@@ -126,7 +126,7 @@
         "**O código.** CECILIA, tudo junto, sem espaço antes ou depois.",
         "**O campo.** “Cupom (opcional)”, que abre em “Inserir cupom de desconto”, no checkout do site oficial da La Ganexa.",
         "**Outro código no pedido.** O resumo mostra qual cupom ficou aplicado. Para trocar, toque em “Remover” e digite o CECILIA.",
-        "**Kit marcado como não cumulativo.** Nos dois kits que a regra da loja deixa fora da soma, o desconto entrou no nosso teste. Se a linha “Descontos” não apareceu no seu pedido, tire o kit do carrinho e fale com o atendimento."
+        "**Kit marcado como não cumulativo.** Nos dois kits que a regra da loja deixa fora da soma, o desconto entrou no nosso teste. Se a linha “Descontos” não aparecer, teste o código sem o kit no carrinho e, se ainda assim não entrar, fale com o atendimento."
       ],
       "postParagraphs": [
         "Se nada disso resolver, a La Ganexa atende pelo WhatsApp (13) 99630-5971, de segunda a quinta das 8h às 18h e na sexta das 8h às 17h. Para avisar a gente, use o [contato do site](/contato). As condições do código ficam na página do [cupom La Ganexa](/cupons/la-ganexa)."
@@ -158,7 +158,7 @@
         "O cupom La Ganexa soma com produto em promoção? Sim. No nosso teste, o desconto entrou sobre o preço promocional.",
         "O cupom vale nos kits? A loja diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiro de Colher não acumulam com cupom. No nosso teste, o checkout aceitou o CECILIA nos dois. Confira a linha “Descontos” antes de pagar.",
         "O cupom dá frete grátis? Não. O frete grátis depende do mínimo da sua região, contado depois do cupom.",
-        "Tem desconto no Pix na La Ganexa? Não. A loja não dá desconto a mais no Pix, e o cupom vale com ele."
+        "Tem desconto no Pix na La Ganexa? Não. A loja não dá desconto a mais no Pix, e o cupom vale no Pix como nas outras formas de pagamento."
       ]
     }
   ],

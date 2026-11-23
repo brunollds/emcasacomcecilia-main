@@ -31,7 +31,7 @@
       "Você prefere uma unidade maior: o Chocowheyfer Max, com uma caixa e um desembolso maiores."
     ],
     "skipIf": [
-      "Você precisa de wafer zero lactose ou sem glúten: os rótulos lidos aqui declaram os dois, e o Max pede a conferência da embalagem.",
+      "Você precisa de wafer zero lactose ou sem glúten: os rótulos lidos aqui dizem que contêm lactose e glúten, e a página do Max não traz o aviso.",
       "Você escolheu o Veggie para evitar leite: o aviso da página diz que ele pode conter leite."
     ]
   },
@@ -98,7 +98,7 @@
     {
       "heading": "Preço por wafer e por grama de proteína",
       "paragraphs": [
-        "Os preços de referência são dos sites em 14 de novembro de 2026; a oferta da Mais Mu é a da Blue Friday, no cartão em 23/11, e bate com a tabela. Todos já incluem o código de 10% de cada loja, sem frete e sem o desconto do Pix. O primeiro valor usa o preço de referência; a oferta aparece à parte."
+        "Os preços de referência são dos sites em 14 de novembro de 2026; na Mais Mu, a oferta é a da Blue Friday, no cartão em 23/11. Todos já incluem o código de 10% de cada loja, sem frete e sem o desconto do Pix. Em cada célula, o primeiro valor é o de referência, e o segundo, o da oferta."
       ],
       "comparisonTable": {
         "caption": "Nos produtos vendidos em caixa, o custo por unidade é uma conta nossa: a compra é da caixa inteira.",
@@ -201,7 +201,7 @@
       "heading": "Ingredientes e avisos de leite, lactose e glúten",
       "paragraphs": [
         "A Mais Mu apresenta o Veggie Wafer como vegetal e usa proteína de ervilha na lista de ingredientes. O aviso da página informa que ele pode conter leite e que contém glúten. O nome “vegetal” não substitui a leitura dos alergênicos.",
-        "As páginas do Chocowheyfer Chocolate, do Sem Cobertura Chocolate e da Doctor Wafer nos sabores Avelã e Doce de Leite declaram lactose e glúten. A página do Max Chocolate não traz essa declaração: confira a embalagem. Para os outros sabores, veja o aviso de cada página, sem transferir a informação de um sabor para outro.",
+        "As páginas do Chocowheyfer Chocolate, do Sem Cobertura Chocolate e da Doctor Wafer nos sabores Avelã e Doce de Leite declaram que contêm lactose e glúten. A página do Max Chocolate não traz essa declaração: confira a embalagem. Para os outros sabores, veja o aviso de cada página, sem transferir a informação de um sabor para outro.",
         "Para dúvidas sobre restrição alimentar, converse com nutricionista ou médico com a embalagem em mãos."
       ],
       "images": [
@@ -326,8 +326,7 @@
       ],
       "postParagraphs": [
         "As regras de cada código, com oferta e forma de pagamento, estão nas páginas de cada cupom acima.",
-        "Se você ainda está escolhendo entre barra e wafer da mesma marca, veja o [guia de barras e wafers da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher). Para comparar outros formatos com os da Bendu, veja [alternativas à Bendu](/reviews/alternativas-a-bendu).",
-        "Se a dúvida é entre wafer e barra, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com seis barras de quatro lojas."
+        "Se a dúvida é entre wafer e barra, veja [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher), com seis barras de quatro lojas, ou o [guia de barras e wafers da Mais Mu](/reviews/barra-de-proteina-mais-mu-qual-escolher). Para comparar outros formatos com os da Bendu, veja [alternativas à Bendu](/reviews/alternativas-a-bendu)."
       ]
     },
     {

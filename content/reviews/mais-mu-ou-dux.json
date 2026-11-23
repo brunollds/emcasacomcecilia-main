@@ -37,14 +37,13 @@
         "No whey concentrado, a Mais Mu declara 20 g de proteína por dose, com 36 g de pó. A página lista derivados do leite e da soja entre os alérgenos.",
         "No whey isolado da Mais Mu, a página diz \"não contém glúten\" e \"contém lactose\" na linha baunilha. A dose é de 27 g, com 22 g de proteína.",
         "Na creatina sem sabor, a Mais Mu diz \"100% Pura\", monohidratada e \"não é de origem animal\", e a página diz que não contém glúten.",
-        "A Dux diz \"proteína 100% pura, sem blends\" no concentrado e \"100% Creapure\" na linha Creapure. No isolado, a página da Dux diz \"contém glúten\" e \"contém lactose\".",
-        "Dúvida sobre suplemento, alergia ou dieta: fale antes com um médico ou um nutricionista."
+        "A Dux diz \"proteína 100% pura, sem blends\" no concentrado e \"100% Creapure\" na linha Creapure. No isolado, a página da Dux diz \"contém glúten\" e \"contém lactose\"."
       ]
     },
     {
       "heading": "Whey concentrado: proteína por dose e preço por 100 g",
       "paragraphs": [
-        "Por 100 g de proteína, no cartão e sem cupom: as linhas da Mais Mu têm a mesma dose, 36 g com 20 g. A Dux tem dose de 30 g, com 20 g de proteína. Pelo preço do pote a comparação engana: a conta por 100 g de proteína iguala potes de tamanhos diferentes."
+        "A Mais Mu declara 20 g de proteína por dose no concentrado, em porção de 36 g na tabela do pote de 450 g. A Dux tem dose de 30 g, com os mesmos 20 g. Pelo preço do pote a comparação engana: a conta por 100 g de proteína, no cartão e sem cupom, iguala embalagens de tamanhos diferentes."
       ],
       "comparisonTable": {
         "headers": [
@@ -64,15 +63,15 @@
           ],
           [
             "[Whey Concentrado Mais Mu Baunilha Refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/)",
-            "36 g, 20 g de proteína",
-            "25",
+            "20 g de proteína por dose",
+            "cerca de 25 (loja)",
             "R$ 209,25",
             "R$ 41,85"
           ],
           [
             "[Whey Concentrado Mais Mu Baunilha Refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/)",
-            "36 g, 20 g de proteína",
-            "50",
+            "20 g de proteína por dose",
+            "50 pelo peso",
             "R$ 299,99",
             "R$ 30,00"
           ],
@@ -91,19 +90,29 @@
             "R$ 53,99"
           ]
         ],
-        "caption": "Preços do site no cartão em 23/11/2026, na Blue Friday, sem frete; os da Dux são os da nossa conferência anterior. Contas nossas: por 100 g de proteína = preço ÷ (doses × proteína por dose) × 100; com cupom, cartão × 0,90; com cupom e Pix, cartão × 0,873."
+        "caption": "Preços do site no cartão em 23/11/2026, na Blue Friday, sem frete; os da Dux são os da nossa conferência anterior. No refil de 1,8 kg da Mais Mu a loja não publica a contagem: a conta usa o peso e a porção de 36 g da tabela do pote de 450 g. Contas nossas: por 100 g de proteína = preço ÷ (doses × proteína por dose) × 100; com cupom, cartão × 0,90; com cupom e Pix, cartão × 0,873."
       },
       "postParagraphs": [
-        "No Pix, a conta fica em R$ 40,59 no [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/) e R$ 29,10 no [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/) da Mais Mu, e em R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) da Dux. Com cupom e Pix, a Mais Mu cai para R$ 36,53 no 900 g e R$ 26,19 no 1,8 kg.",
+        "No Pix, a conta fica em R$ 40,59 no [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/) e R$ 29,10 (pelo peso) no [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/) da Mais Mu, e em R$ 58,41 (900 g) e R$ 51,29 (1,8 kg) da Dux. Com cupom e Pix, a Mais Mu cai para R$ 36,53 no 900 g e R$ 26,19 no 1,8 kg.",
         "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. A página diz 30 doses, e a conta usa o peso.",
-        "A linha de 1,8 kg da Mais Mu é a mais barata do concentrado por 100 g de proteína. Por dose, ela sai a R$ 6,00 no cartão, contra R$ 10,80 da Dux de 1,8 kg. Até o pote de 450 g da Mais Mu fica abaixo das duas linhas da Dux.",
+        "Pelo peso, a linha de 1,8 kg da Mais Mu é a mais barata do concentrado por 100 g de proteína; a loja não publica a contagem. Por dose, ela sai a R$ 6,00 no cartão, contra R$ 10,80 da Dux de 1,8 kg. Até o pote de 450 g da Mais Mu fica abaixo das duas linhas da Dux.",
         "O sabor paçoquita da Mais Mu traz \"contém glúten\" na página; o baunilha, usado nesta tabela, traz \"não contém glúten\". A conta não muda por sabor."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/mais-mu/mais-mu-ou-growth-whey-concentrado.webp",
+          "alt": "Whey Protein Concentrado Mais Mu sabor baunilha no pote de 450 g, no refil de 900 g e no refil de 1,8 kg",
+          "caption": "As três embalagens do whey concentrado baunilha da Mais Mu citadas na tabela. Imagem: Mais Mu.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778,
+          "href": "https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/"
+        }
       ]
     },
     {
       "heading": "Whey isolado: proteína por dose e preço por 100 g",
       "paragraphs": [
-        "Por 100 g de proteína, no cartão e sem cupom: a dose da Mais Mu é de 27 g com 22 g, exceto no sem sabor de 450 g, de 25 g pelo rótulo. A Dux declara 24 g de proteína por dose, mas não o número de doses do isolado; a conta usa 30 g por dose, dose inferida."
+        "Por 100 g de proteína, no cartão e sem cupom: a dose da Mais Mu é de 27 g com 22 g, inclusive no sem sabor de 450 g, que a página dá com 16 doses. A Dux declara 24 g de proteína por dose, mas não o número de doses do isolado; a conta usa 30 g por dose, dose inferida."
       ],
       "comparisonTable": {
         "headers": [
@@ -123,10 +132,10 @@
           ],
           [
             "[Whey Isolado Mais Mu Sem Sabor 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/)",
-            "25 g, 22 g de proteína",
-            "18",
+            "27 g, 22 g de proteína",
+            "16",
             "R$ 179,99",
-            "R$ 45,45"
+            "R$ 51,13"
           ],
           [
             "[Whey Isolado Mais Mu Baunilha 450 g](https://www.lojamaismu.com.br/produtos/whey-isolado-baunilha-pote-450g/)",
@@ -147,7 +156,7 @@
       },
       "postParagraphs": [
         "No Pix, o [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/) da Mais Mu sai a R$ 28,06 por 100 g de proteína, e o isolado da Dux de 900 g, a R$ 74,01. Com cupom e Pix, o refil da Mais Mu cai para R$ 25,25.",
-        "O refil de 900 g é o isolado mais barato por grama de proteína entre os da Mais Mu. O pote sem sabor de 450 g sai a R$ 45,45, e o baunilha de 450 g, a R$ 51,13: os dois ficam abaixo do isolado da Dux."
+        "O refil de 900 g é o isolado mais barato por grama de proteína entre os da Mais Mu. Os potes de 450 g, sem sabor e baunilha, saem a R$ 51,13: ficam abaixo do isolado da Dux."
       ],
       "images": [
         {
@@ -245,9 +254,8 @@
       "heading": "Creapure e pureza",
       "paragraphs": [
         "A Dux diz que a linha de 300 g é \"100% Creapure\", com 3 g por dose e 100 doses. O selo é declaração da Dux.",
-        "As páginas da Mais Mu não declaram Creapure nem laudo, e isso não quer dizer que o produto da Mais Mu não seja Creapure.",
-        "No preço, a diferença é grande. Por 100 g, a Creapure da Dux sai a R$ 91,63 no cartão e R$ 87,05 no Pix. O [refil de 500 g da Mais Mu](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/) sai a R$ 14,98 e R$ 14,53 no Pix. Quem quer o selo declarado pela Dux paga por ele; quem compara por grama de creatina, não.",
-        "Esta comparação é de rótulo e de preço. Ela não trata de efeito no corpo."
+        "As páginas da Mais Mu não declaram Creapure nem laudo; quem procura o selo confere o rótulo do pote.",
+        "No preço, a diferença é grande. Por 100 g, a Creapure da Dux sai a R$ 91,63 no cartão e R$ 87,05 no Pix. O [refil de 500 g da Mais Mu](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/) sai a R$ 14,98 no cartão e R$ 14,53 no Pix. Quem quer o selo declarado pela Dux paga por ele; quem compara por grama de creatina, não."
       ]
     },
     {
@@ -273,14 +281,14 @@
         "A Dux leva o pó mais concentrado em proteína, Creapure, Pix e frete; a Mais Mu leva preço por grama e cupom:"
       ],
       "bullets": [
-        "**Dux:** no concentrado, a mesma dose de 20 g de proteína vem em 30 g de pó (67%), contra 36 g da Mais Mu (56%). No isolado, 24 g por dose contra 22 g.",
-        "**Dux:** a creatina de 300 g traz 300 g de creatina por R$ 64,90, contra 200 g por R$ 58,49 na Mais Mu sem sabor de 200 g.",
+        "**Dux:** o concentrado entrega a mesma proteína por dose em mais pó, e o isolado traz mais proteína por dose.",
+        "**Dux:** a creatina de 300 g traz mais creatina no pote que a Mais Mu sem sabor de 200 g.",
         "**Dux:** a única Creapure declarada entre as duas, com \"100% Creapure\" na página.",
-        "**Dux:** Pix de 5%, e frete grátis a partir de R$ 250 no Sudeste, contra R$ 299 da Mais Mu.",
+        "**Dux:** Pix de 5% e frete grátis a partir de um valor menor.",
         "**Dux:** o concentrado de 900 g sai em 13 sabores, com o Neutro, e o isolado de 900 g, em 11. Sabor não entra na conta.",
-        "**Mais Mu:** preço por 100 g de proteína no concentrado em todas as embalagens: R$ 52,30 no pote de 450 g, R$ 41,85 no refil de 900 g e R$ 30,00 no de 1,8 kg, contra R$ 61,48 e R$ 53,99 da Dux no cartão.",
-        "**Mais Mu:** preço por 100 g de proteína no isolado: R$ 28,92 no refil de 900 g, contra R$ 77,90 da Dux no cartão.",
-        "**Mais Mu:** preço por grama de creatina no refil de 500 g sem sabor (R$ 14,98 contra R$ 21,63 da Dux de 300 g).",
+        "**Mais Mu:** menor preço por 100 g de proteína no concentrado, em todas as embalagens.",
+        "**Mais Mu:** menor preço por 100 g de proteína no isolado.",
+        "**Mais Mu:** menor preço por grama de creatina no refil de 500 g sem sabor.",
         "**Mais Mu:** cupom MMEMCASACOMCECILIA de 10% em todo o site, inclusive em oferta. Não temos código de parceria para a Dux.",
         "**Mais Mu:** no isolado, a página diz \"não contém glúten\"; a da Dux diz \"contém glúten\"."
       ]
@@ -288,11 +296,8 @@
     {
       "heading": "Mais Mu ou Dux: qual eu compraria?",
       "emphasis": "Para gastar menos por grama de proteína e por grama de creatina, eu compraria na Mais Mu com o cupom; para o pó mais concentrado em proteína ou o selo Creapure declarado, eu iria na Dux.",
-      "paragraphs": [
-        "Pelos rótulos e pelos preços:"
-      ],
       "bullets": [
-        "Quer o menor preço por 100 g de proteína no whey: o [Whey Concentrado Mais Mu Baunilha Refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 30,00 no cartão, R$ 29,10 no Pix e R$ 26,19 com cupom e Pix.",
+        "Quer o menor preço por 100 g de proteína no whey: o [Whey Concentrado Mais Mu Baunilha Refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), pelo peso (conta nossa; a loja não publica a contagem), a R$ 30,00 no cartão, R$ 29,10 no Pix e R$ 26,19 com cupom e Pix.",
         "Quer o pó mais concentrado em proteína e não depende de cupom: o concentrado da Dux, com 20 g de proteína em 30 g de pó. O de 900 g sai a R$ 58,41 por 100 g no Pix, e o de 1,8 kg, a R$ 51,29.",
         "Quer isolado: o [Whey Isolado Mais Mu Baunilha Refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/), a R$ 28,92 no cartão, R$ 28,06 no Pix e R$ 25,25 com cupom e Pix. Quer 24 g de proteína por dose: o isolado da Dux, a R$ 77,90 no cartão.",
         "Quer creatina pelo menor preço por grama: a [Creatina Mais Mu Sem Sabor Refil 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/), a R$ 14,98 no cartão, R$ 14,53 no Pix e R$ 13,08 com cupom e Pix.",
@@ -318,7 +323,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com os 3% do Pix.",
-        "Mais Mu ou Dux: qual whey? A Mais Mu sai mais barata por 100 g de proteína no concentrado e no isolado, em todas as embalagens comparadas. A dose de proteína do concentrado é a mesma, 20 g, mas a Dux a entrega em 30 g de pó, contra 36 g da Mais Mu.",
+        "Mais Mu ou Dux: qual whey? A Mais Mu sai mais barata por 100 g de proteína no concentrado e no isolado, em todas as embalagens comparadas (no refil de 1,8 kg, a conta é pelo peso). A dose de proteína do concentrado é a mesma, 20 g, mas a Dux a entrega em 30 g de pó, contra 36 g da Mais Mu.",
         "Qual creatina compensa mais? Por grama, o refil de 500 g da Mais Mu; a Dux de 300 g sai acima, e a Creapure dela, bem acima.",
         "A Dux é boa marca? Este texto responde só pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz \"proteína 100% pura, sem blends\" no concentrado. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
         "A Dux tem cupom? Não temos código de parceria para a Dux. O MMEMCASACOMCECILIA vale somente na Mais Mu.",
@@ -336,7 +341,7 @@
     ],
     "skipIf": [
       "Passe na Dux se você depende de cupom: não temos código de parceria para ela.",
-      "Passe na Mais Mu se você pesa só o Pix maior ou o frete grátis mais baixo: a Dux leva nos dois, mas o total é que decide."
+      "Passe na Mais Mu se o pedido é pequeno e o frete decide: o frete grátis da Dux começa em valor menor."
     ]
   },
   "pros": [],

@@ -34,7 +34,7 @@
       "Você quer conhecer seis sabores em potes de 150 g antes de escolher uma embalagem maior."
     ],
     "skipIf": [
-      "Você evita maltitol ou sucralose: as pastas de sobremesa e o doce de leite listam esses adoçantes.",
+      "Você evita maltitol ou sucralose: as pastas de sobremesa listam ao menos um dos dois, e o doce de leite, sucralose.",
       "Você quer provar um pote grande e devolver se não gostar: a troca pede produto sem uso."
     ]
   },
@@ -207,7 +207,7 @@
     {
       "heading": "Maltitol e sucralose nas pastas de sobremesa",
       "paragraphs": [
-        "Nas pastas de sobremesa com lista publicada, todas trazem maltitol ou sucralose, e é a lista de ingredientes que diz qual adoçante o pote leva. A tabela abaixo reúne os sabores cujo rótulo traz a linha de polióis; nos outros a linha não aparece, mesmo quando a lista tem maltitol.",
+        "Todas as pastas de sobremesa com lista publicada trazem maltitol ou sucralose, e é a lista de ingredientes que diz qual adoçante o pote leva. A tabela abaixo reúne os sabores cujo rótulo traz a linha de polióis; nos outros a linha não aparece, mesmo quando a lista tem maltitol.",
         "A Leitinho é a pasta que a própria loja chama de a mais famosa. Ela declara whey protein e leite em pó na lista e traz o aviso de contém lactose; a tabela do pote de 1 kg mostra os polióis.",
         "As páginas da Leitinho e da Leitinho Black avisam que o chocolate pode derreter no transporte, e a loja não trata isso como defeito. Se a aparência do chocolate importa para você, pese isso antes de pedir.",
         "A Avelã Vegana, a Chocrante e a Chocolate Branco declaram “aromatizante sintético idêntico ao natural” na lista. A Chocrante também leva whey protein."
