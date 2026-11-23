@@ -3677,7 +3677,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'toda-up',
-    cartPrint: { src: '/images/reviews/toda-up/cupom-toda-up-checkout-mauad-10.webp', alt: 'Resumo do pedido no checkout da Toda Up com o código MAUAD aplicado na Fita Up de R$ 116,90: desconto de R$ 11,69 e total de R$ 105,21', aspectRatio: 1.171 },
+    cartPrint: { article: 'cupom-toda-up-como-usar', src: '/images/reviews/toda-up/cupom-toda-up-checkout-mauad-10.webp', alt: 'Resumo do pedido no checkout da Toda Up com o código MAUAD aplicado na Fita Up de R$ 116,90: desconto de R$ 11,69 e total de R$ 105,21', aspectRatio: 1.171 },
     brand: 'Toda Up',
     officialUrl: 'https://todaup.com/',
     offerUrl:
@@ -4497,7 +4497,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'la-ganexa',
-    cartPrint: { src: '/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp', alt: 'Resumo da compra no checkout da La Ganexa com o cupom CECILIA no campo de cupom, a linha Descontos de menos R$ 26,44 e o total de R$ 237,96', aspectRatio: 1.473 },
+    cartPrint: { article: 'cupom-la-ganexa-como-usar', src: '/images/reviews/laganexa/cupom-laganexa-checkout-com-cupom.webp', alt: 'Resumo da compra no checkout da La Ganexa com CECILIA no campo Cupom (opcional), a linha Descontos de menos R$ 26,44 e o total de R$ 237,96', aspectRatio: 1.473 },
     brand: 'La Ganexa',
     officialUrl: 'https://lojalaganexa.com.br/',
     offerUrl: 'https://lojalaganexa.com.br/',
@@ -4616,7 +4616,7 @@ const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'baw',
-    cartPrint: { src: '/images/reviews/baw/cupom-baw-carrinho-com-cupom.webp', alt: 'Resumo do carrinho da BAW Clothing com o código BAWEMCASACOMCECILIA no campo Cupom de desconto, o aviso Cupom aplicado, a linha Cupom de menos R$ 14,80 e o total de R$ 133,20', aspectRatio: 2.646 },
+    cartPrint: { article: 'cupom-baw-como-usar', src: '/images/reviews/baw/cupom-baw-carrinho-com-cupom.webp', alt: 'Resumo do carrinho da BAW Clothing com o código BAWEMCASACOMCECILIA no campo Cupom de desconto, o aviso Cupom aplicado, a linha Cupom de menos R$ 14,80 e o total de R$ 133,20', aspectRatio: 2.646 },
     brand: 'BAW Clothing',
     officialUrl: 'https://www.bawclothing.com.br/',
     offerUrl: 'https://www.bawclothing.com.br/',
@@ -5309,8 +5309,9 @@ const STORE_COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/barbours.webp',
     brandColor: '#CD2D2F',
     cartPrint: {
+      article: 'cupom-barbours-como-usar',
       src: '/images/reviews/barbours/cupom-barbours-checkout-com-cupom.webp',
-      alt: "Resumo da compra no checkout da Barbour's Beauty com o código CECILIALINHARES no campo Cupom (opcional), a linha Descontos de menos R$ 21,98 e o total de R$ 197,82",
+      alt: "Resumo da compra no checkout da Barbour's Beauty com o código CECILIALINHARES no campo Cupom (opcional), a linha Descontos com R$ 21,98 a menos e o total de R$ 197,82",
       aspectRatio: 0.79,
     },
     code: 'CECILIALINHARES',
@@ -5478,8 +5479,9 @@ const STORE_COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/bold.webp',
     brandColor: '#00A0B1',
     cartPrint: {
+      article: 'cupom-bold-snacks-como-usar',
       src: '/images/reviews/bold/cupom-bold-checkout-com-cupom.webp',
-      alt: 'Resumo do checkout da BOLD Snacks com o código CECILIA15 aplicado: o whey de 450 g sai por R$ 151,20, a Caixa Mista por R$ 143,20 e o total fica em R$ 294,42',
+      alt: 'Resumo do checkout da BOLD Snacks com o cupom CECILIA15 aplicado e o código mostrado embaixo de cada produto, com o valor do desconto',
       aspectRatio: 0.92,
     },
     code: 'CECILIA15',
@@ -5940,8 +5942,9 @@ const STORE_COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/colaedecora.webp',
     brandColor: '#DF7D66',
     cartPrint: {
+      article: 'cupom-colaedecora-como-usar',
       src: '/images/reviews/colaedecora/cupom-colaedecora-carrinho-com-cupom.webp',
-      alt: 'Carrinho da Cola e Decora com o cupom EMCASACOMCECILIA aplicado (10% OFF): desconto de R$ 13,98 sobre R$ 139,80 e subtotal de R$ 125,82',
+      alt: 'Carrinho da Cola e Decora com o cupom EMCASACOMCECILIA aplicado, desconto de R$ 13,98 sobre R$ 139,80 e subtotal de R$ 125,82',
       aspectRatio: 1.28,
     },
     code: 'EMCASACOMCECILIA',
@@ -6071,6 +6074,7 @@ const STORE_COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/denavita.webp',
     brandColor: '#54B101',
     cartPrint: {
+      article: 'cupom-denavita-como-usar',
       src: '/images/reviews/denavita/cupom-denavita-checkout-com-cupom.webp',
       alt: 'Resumo do checkout da Denavita com o código EMCASA no campo Tem um cupom?: desconto de R$ 39,98 sobre R$ 399,80 em produtos e total de R$ 359,82',
       aspectRatio: 0.54,
@@ -6413,6 +6417,7 @@ const STORE_COUPONS: Coupon[] = [
     brandWatermark: '/images/logos/watermarks/biobio.webp',
     brandColor: '#F09604',
     cartPrint: {
+      article: 'cupom-biobio-como-usar',
       src: '/images/reviews/biobio/cupom-biobio-checkout-com-cupom.webp',
       alt: 'Resumo da compra no checkout da BioBio com o cupom EMCASABIOBIO aplicado: desconto de R$ 10,49 sobre R$ 104,93, total de R$ 94,44 e 10% de cashback para a próxima compra',
       aspectRatio: 0.64,

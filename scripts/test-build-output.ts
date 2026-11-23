@@ -27,6 +27,7 @@ import { getArticleStoreBlock, getArticleStoreBlocks, type ArticleLimitedCode, t
 import { getPendingCodeSeasonNotice, storeTakesCodeSeasonNotice, type CodeSeasonNotice } from '../src/lib/codeSeasonNotice';
 import { getReviewStoreSlugs, getSingleStoreSlug, isMultiStoreReview } from '../src/lib/reviewStores';
 import { getCouponMetaTitle } from '../src/lib/offerMonth';
+import { resolveStoreRelatedContent } from '../src/lib/couponRelatedContent';
 import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
@@ -3347,11 +3348,33 @@ for (const { pagePath, store } of couponStorePages) {
         assert.ok(!howTo.includes(encodeURIComponent(print.src)) && !howTo.includes(`"${print.src}"`), `${pagePath}: o print saiu com o caminho local`);
       }
     }
+    const pageLocale: Locale = isPortuguese ? 'pt' : (pagePath.split('/')[1] as Locale);
+    const expectedRelated = resolveStoreRelatedContent(store!, pageLocale);
+    assert.equal(at('leia-antes') !== -1, expectedRelated.items.length > 0, `${pagePath}: "Leia antes de comprar" fora da regra`);
+    if (expectedRelated.items.length > 0) {
+      const relatedSection = between(body, 'aria-labelledby="leia-antes"', ['</section>']);
+      const relatedShown = textOf(relatedSection);
+      for (const item of expectedRelated.items) {
+        assert.ok(relatedSection.includes(`href="${item.url}"`), `${pagePath}: #leia-antes sem o link ${item.url}`);
+        assert.ok(relatedShown.includes(item.title), `${pagePath}: #leia-antes sem o título "${item.title}"`);
+      }
+      assert.ok(at('sobre') < at('leia-antes') && at('leia-antes') < at('perguntas'), `${pagePath}: #leia-antes fora do lugar`);
+      if (expectedRelated.articlesHref) {
+        const allLabel = getArticleCopy(pageLocale).allStoreArticles(expectedRelated.articleCount, store!);
+        assert.ok(
+          relatedSection.includes(`href="${expectedRelated.articlesHref}"`) && relatedShown.includes(allLabel),
+          `${pagePath}: #leia-antes sem o "${allLabel}" para ${expectedRelated.articlesHref}`
+        );
+      } else {
+        assert.ok(!relatedSection.includes('/reviews/loja/'), `${pagePath}: #leia-antes com link /reviews/loja/ indevido`);
+      }
+    }
     const videos = store!.videos ?? [];
     assert.equal(at('videos') !== -1, videos.length > 0, `${pagePath}: seção de vídeos fora da regra`);
     if (videos.length > 0) {
       const section = between(body, 'aria-labelledby="videos"', ['</section>']);
       for (const video of videos) assert.ok(section.includes(`href="${video.url}"`), `${pagePath}: vídeo fora da seção (${video.url})`);
+      if (at('leia-antes') !== -1) assert.ok(at('leia-antes') < at('videos'), `${pagePath}: #leia-antes depois dos vídeos`);
       assert.ok(at('videos') < at('perguntas'), `${pagePath}: os vídeos depois das perguntas`);
     }
   }
