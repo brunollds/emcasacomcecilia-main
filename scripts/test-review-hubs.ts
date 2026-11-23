@@ -136,14 +136,40 @@ assert.deepEqual(englishProps.breadcrumbJsonLd.itemListElement, [
   { '@type': 'ListItem', position: 3, name: englishReview.title, item: `${SITE_URL}${getReviewCanonicalPathname(englishReview)}` },
 ]);
 
-const portugueseReview = publishedReviews.find((review) => resolveReviewLocale(review.locale) === 'pt');
-assert.ok(portugueseReview, 'O corpus deve conter um review PT.');
-const portugueseProps = buildReviewTemplateProps(portugueseReview);
+const portugueseWithStoreHub = publishedReviews.find(
+  (review) => resolveReviewLocale(review.locale) === 'pt' && Boolean(buildReviewTemplateProps(review).storeBlock?.articlesHref)
+);
+assert.ok(portugueseWithStoreHub, 'O corpus deve conter um review PT com subpágina de loja.');
+const ptStoreProps = buildReviewTemplateProps(portugueseWithStoreHub);
+assert.deepEqual(ptStoreProps.breadcrumbs, [
+  { name: 'Início', href: '/' },
+  { name: 'Guias & Análises', href: '/reviews' },
+  { name: ptStoreProps.storeBlock!.brand, href: ptStoreProps.storeBlock!.articlesHref! },
+]);
+assert.equal(
+  JSON.stringify(ptStoreProps.breadcrumbJsonLd),
+  JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: SITE_URL },
+      { '@type': 'ListItem', position: 2, name: 'Guias & Análises', item: `${SITE_URL}/reviews` },
+      { '@type': 'ListItem', position: 3, name: ptStoreProps.storeBlock!.brand, item: `${SITE_URL}${ptStoreProps.storeBlock!.articlesHref!}` },
+      { '@type': 'ListItem', position: 4, name: portugueseWithStoreHub.title, item: `${SITE_URL}${getReviewCanonicalPathname(portugueseWithStoreHub)}` },
+    ],
+  })
+);
+
+const portugueseWithoutStoreHub = publishedReviews.find(
+  (review) => resolveReviewLocale(review.locale) === 'pt' && !buildReviewTemplateProps(review).storeBlock?.articlesHref
+);
+assert.ok(portugueseWithoutStoreHub, 'O corpus deve conter um review PT sem subpágina de loja.');
+const portugueseProps = buildReviewTemplateProps(portugueseWithoutStoreHub);
 assert.deepEqual(portugueseProps.breadcrumbs, [
   { name: 'Início', href: '/' },
   { name: 'Guias & Análises', href: '/reviews' },
 ]);
-// No PT o JSON-LD é o de sempre, letra por letra: a raiz sem a barra final e as chaves nesta ordem.
+// No PT sem subpágina de loja o JSON-LD é o de 3 níveis, letra por letra: a raiz sem a barra final e as chaves nesta ordem.
 assert.equal(
   JSON.stringify(portugueseProps.breadcrumbJsonLd),
   JSON.stringify({
@@ -152,7 +178,7 @@ assert.equal(
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Início', item: SITE_URL },
       { '@type': 'ListItem', position: 2, name: 'Guias & Análises', item: `${SITE_URL}/reviews` },
-      { '@type': 'ListItem', position: 3, name: portugueseReview.title, item: `${SITE_URL}${getReviewCanonicalPathname(portugueseReview)}` },
+      { '@type': 'ListItem', position: 3, name: portugueseWithoutStoreHub.title, item: `${SITE_URL}${getReviewCanonicalPathname(portugueseWithoutStoreHub)}` },
     ],
   })
 );

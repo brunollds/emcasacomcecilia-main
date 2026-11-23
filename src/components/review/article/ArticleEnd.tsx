@@ -42,7 +42,7 @@ export interface ArticleEndProps {
 }
 
 // O fim da coluna do texto, ao lado da sidebar: vídeo, galeria, veredito, bloco da loja, a Cecília, o Bruno (só nos
-// artigos em que ele assina), relacionados e compartilhar.
+// artigos em que ele assina), compartilhar e relacionados.
 export function ArticleEnd({
   review, kind, copy, ui, couponCopyLocale, youtubeEmbedUrl, videoPageUrl, showVerdict, storeBlock, storeBlocks = [],
   affiliateCta, storeLabel, reviewImage, relatedArticles, relatedAllHref,
@@ -133,15 +133,8 @@ export function ArticleEnd({
       <ArticleAuthorBox copy={copy} locale={couponCopyLocale} />
       {review.authors?.some((author) => author.slug === BRUNO_AUTHOR.slug) && <ArticleBrunoBox copy={copy} />}
 
-      <ArticleRelated
-        articles={relatedArticles}
-        title={ui.relatedArticles}
-        viewAllLabel={ui.viewAll}
-        viewAllHref={relatedAllHref}
-      />
-
       {/* Share */}
-      <EditorialReveal as="section" className="mb-10">
+      <EditorialReveal as="section" className="mt-10 mb-10">
         <ShareBar
           url={`https://emcasacomcecilia.com${getReviewCanonicalPathname(review)}`}
           title={review.title}
@@ -154,6 +147,13 @@ export function ArticleEnd({
           }
         />
       </EditorialReveal>
+
+      <ArticleRelated
+        articles={relatedArticles}
+        title={ui.relatedArticles}
+        viewAllLabel={ui.viewAll}
+        viewAllHref={relatedAllHref}
+      />
     </>
   );
 }

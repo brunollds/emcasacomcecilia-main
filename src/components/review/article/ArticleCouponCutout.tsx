@@ -39,13 +39,16 @@ type VariantStyle = {
 
 // A marcação é a mesma nas três posições; muda só o tamanho. No topo, o recorte assenta ao abrir a página e, no
 // celular, fica mais baixo (botões compactos) para não empurrar a Resposta rápida; a lateral usa os mesmos botões.
+const TOP_PRIMARY_COMPACT = `${PRIMARY_ACTION_COMPACT} max-md:min-h-10 max-md:px-3 max-md:text-[13px] max-md:leading-4`;
+const TOP_SECONDARY_COMPACT = `${SECONDARY_ACTION_COMPACT} max-md:min-h-10 max-md:px-2.5 max-md:text-[13px] max-md:leading-4`;
+
 const VARIANTS: Record<Variant, VariantStyle> = {
   top: {
-    box: 'recorte-entra px-4 pt-5 pb-4 md:px-6 md:pt-6 md:pb-[18px]',
+    box: 'recorte-entra px-3.5 pt-3.5 pb-3 md:px-6 md:pt-6 md:pb-[18px]',
     layout: 'md:grid md:grid-cols-[minmax(0,1fr)_260px] md:items-center md:gap-6',
-    actions: 'mt-3 gap-2 md:mt-0 md:gap-2.5',
-    primary: PRIMARY_ACTION_COMPACT,
-    secondary: SECONDARY_ACTION_COMPACT,
+    actions: 'mt-2.5 gap-1.5 md:mt-0 md:gap-2.5',
+    primary: TOP_PRIMARY_COMPACT,
+    secondary: TOP_SECONDARY_COMPACT,
     placement: 'review_top',
   },
   end: {
@@ -88,22 +91,50 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
     >
       <span
         aria-hidden="true"
-        className={`absolute -top-[15px] start-4 flex h-7 w-7 items-center justify-center rounded-full bg-amarelo-cupom ${code ? 'recorte-tesoura' : ''}`}
+        className={`absolute start-3.5 flex items-center justify-center rounded-full bg-amarelo-cupom ${
+          variant === 'top' ? '-top-3 h-6 w-6 md:-top-[15px] md:start-4 md:h-7 md:w-7' : '-top-[15px] start-4 h-7 w-7'
+        } ${code ? 'recorte-tesoura' : ''}`}
       >
-        <Scissors className="h-5 w-5" />
+        <Scissors className={variant === 'top' ? 'h-4 w-4 md:h-5 md:w-5' : 'h-5 w-5'} />
       </span>
 
       <div className={layout}>
-        <div className="min-w-0 text-center">
-          <p className="text-[13px] font-bold leading-[18px] tracking-[0.04em] text-marinho-suave uppercase">{title}</p>
+        <div
+          className={
+            variant === 'top'
+              ? 'flex min-w-0 flex-wrap items-baseline justify-between gap-x-2 gap-y-0.5 text-start md:flex-col md:items-center md:text-center'
+              : 'min-w-0 text-center'
+          }
+        >
+          <p
+            className={`font-bold tracking-[0.04em] text-marinho-suave uppercase ${
+              variant === 'top' ? 'text-xs leading-4 md:text-[13px] md:leading-[18px]' : 'text-[13px] leading-[18px]'
+            }`}
+          >
+            {title}
+          </p>
+          {discount && (
+            <p
+              className={`font-extrabold text-balance ${
+                variant === 'top'
+                  ? 'text-[13px] leading-[18px] md:order-3 md:mt-1 md:text-[15px] md:leading-[22px]'
+                  : 'mt-1 text-[15px] leading-[22px]'
+              }`}
+            >
+              {discount}
+            </p>
+          )}
           {code && (
-            <div dir="ltr" className="mt-1.5">
-              <CutoutCode code={code} />
+            <div className={variant === 'top' ? 'mt-1 basis-full md:order-2 md:mt-1.5' : 'mt-1.5'}>
+              <CutoutCode code={code} compactMobile={variant === 'top'} />
             </div>
           )}
-          {discount && <p className="mt-1 text-[15px] font-extrabold leading-[22px] text-balance">{discount}</p>}
           {!code && block.cutoutNote && (
-            <p className="mt-1.5 text-[13.5px] leading-[19px] font-semibold text-balance text-marinho-suave">
+            <p
+              className={`text-[13.5px] leading-[19px] font-semibold text-balance text-marinho-suave ${
+                variant === 'top' ? 'mt-1 basis-full' : 'mt-1.5'
+              }`}
+            >
               {block.cutoutNote}
             </p>
           )}
@@ -112,44 +143,50 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
         <div className={`flex flex-col ${actions}`}>
           {copyAndGo ? (
             <>
-              <CopyAndOpenStoreLink
-                code={copyAndGo.code}
-                href={copyAndGo.storeHref}
-                brand={slug}
-                contentSlug={reviewSlug}
-                placement={placement}
-                sponsored={storeSponsored}
-                copiedStatus={copiedHint}
-                returnNotice={{ text: copiedHint, closeLabel: labels.closeNotice }}
-                className={primary}
-                copiedChildren={
-                  <>
-                    <Check aria-hidden="true" className="h-5 w-5 shrink-0" />
-                    {labels.copied}
-                  </>
-                }
+              <div className={variant === 'top' ? 'flex flex-wrap gap-2 md:flex-col md:gap-2.5' : 'flex flex-col gap-2.5'}>
+                <CopyAndOpenStoreLink
+                  code={copyAndGo.code}
+                  href={copyAndGo.storeHref}
+                  brand={slug}
+                  contentSlug={reviewSlug}
+                  placement={placement}
+                  sponsored={storeSponsored}
+                  copiedStatus={copiedHint}
+                  returnNotice={{ text: copiedHint, closeLabel: labels.closeNotice }}
+                  className={`${primary} ${variant === 'top' ? 'max-md:flex-[1.35_1_11.5rem]' : ''}`}
+                  copiedChildren={
+                    <>
+                      <Check aria-hidden="true" className="h-4 w-4 shrink-0 md:h-5 md:w-5" />
+                      {labels.copied}
+                    </>
+                  }
+                >
+                  {labels.copyAndGo}
+                  <ExternalLink aria-hidden="true" className="h-4 w-4 shrink-0 md:h-[18px] md:w-[18px]" />
+                </CopyAndOpenStoreLink>
+                <CopyCodeButton
+                  code={copyAndGo.code}
+                  brand={slug}
+                  contentSlug={reviewSlug}
+                  placement={placement}
+                  copiedStatus={copiedHint}
+                  className={`${secondary} ${variant === 'top' ? 'max-md:flex-[1_1_9rem] max-md:w-auto' : ''}`}
+                  copiedChildren={
+                    <>
+                      <Check aria-hidden="true" className="h-4 w-4 shrink-0 md:h-5 md:w-5" />
+                      {labels.copied}
+                    </>
+                  }
+                >
+                  <Copy aria-hidden="true" className="h-4 w-4 shrink-0 md:h-[18px] md:w-[18px]" />
+                  {labels.copyOnly}
+                </CopyCodeButton>
+              </div>
+              <p
+                className={`text-center font-semibold text-marinho-suave group-has-[[data-copied=true]]/recorte:hidden ${
+                  variant === 'top' ? 'text-xs leading-4 md:text-[12.5px] md:leading-[17px]' : 'text-[12.5px] leading-[17px]'
+                }`}
               >
-                {labels.copyAndGo}
-                <ExternalLink aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-              </CopyAndOpenStoreLink>
-              <CopyCodeButton
-                code={copyAndGo.code}
-                brand={slug}
-                contentSlug={reviewSlug}
-                placement={placement}
-                copiedStatus={copiedHint}
-                className={secondary}
-                copiedChildren={
-                  <>
-                    <Check aria-hidden="true" className="h-5 w-5 shrink-0" />
-                    {labels.copied}
-                  </>
-                }
-              >
-                <Copy aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
-                {labels.copyOnly}
-              </CopyCodeButton>
-              <p className="text-center text-[12.5px] leading-[17px] font-semibold text-marinho-suave group-has-[[data-copied=true]]/recorte:hidden">
                 {labels.goHint(codeKind)}
               </p>
             </>
@@ -223,7 +260,9 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
       )}
 
       {/* Na lateral não cabe: quem está no computador vê o aviso no recorte do topo e no do fim. */}
-      {block.codeNotice && variant !== 'sidebar' && <CodeSeasonNotice notice={block.codeNotice} className="mt-3" />}
+      {block.codeNotice && variant !== 'sidebar' && (
+        <CodeSeasonNotice notice={block.codeNotice} className={variant === 'top' ? 'mt-2 md:mt-3' : 'mt-3'} />
+      )}
     </section>
   );
 }

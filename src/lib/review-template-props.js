@@ -107,11 +107,15 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     (spec) => spec.key?.toLowerCase() === 'marca'
   )?.value : undefined);
 
-  // Home do idioma > lista de artigos > artigo, em todos os idiomas. A trilha visível do template
-  // lê esta mesma lista; o schema acrescenta o artigo.
+  const storeBlock = getArticleStoreBlock(review, localeKey);
+  const storeBlocks = getArticleStoreBlocks(review, localeKey);
+
+  // Home do idioma > lista de artigos (> subpágina da loja em PT, quando existe) > artigo.
+  // A trilha visível do template lê esta mesma lista; o schema acrescenta o artigo.
   const breadcrumbs = [
     { name: copy.homeLabel, href: getShellHomeHref(localeKey) },
     { name: reviewHub.label, href: reviewHub.href },
+    ...(storeBlock?.articlesHref ? [{ name: storeBlock.brand, href: storeBlock.articlesHref }] : []),
   ];
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
@@ -201,8 +205,8 @@ export function buildReviewTemplateProps(review, reviewCorpus = publishedReviews
     jsonLd,
     faqJsonLd,
     relatedReviews,
-    storeBlock: getArticleStoreBlock(review, localeKey),
-    storeBlocks: getArticleStoreBlocks(review, localeKey),
+    storeBlock,
+    storeBlocks,
     relatedArticleLinks,
     localeKey,
   };

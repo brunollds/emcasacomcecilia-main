@@ -346,17 +346,43 @@ for (const loc of LOCALE_KEYS) {
   assert.ok(texts.allStoreArticles.includes('12'), `${loc}: contagem fora do texto`);
 }
 
-// Trilha: home do idioma > lista de guias com o nome do menu do idioma (em PT, Guias & Análises) > artigo.
+// Trilha: home do idioma > lista de guias com o nome do menu do idioma (em PT, Guias & Análises)
+// (> subpágina da loja em PT, quando existe) > artigo.
 for (const loc of LOCALE_KEYS) {
   const review = publishedReviews.find((r) => resolveReviewLocale(r.locale) === loc);
   assert.ok(review, `${loc}: sem artigo publicado`);
-  const { breadcrumbs, breadcrumbJsonLd } = buildReviewTemplateProps(review);
-  const hub = breadcrumbs.at(-1)!;
+  const { breadcrumbs, breadcrumbJsonLd, storeBlock } = buildReviewTemplateProps(review);
+  const hub = breadcrumbs[1]!;
   assert.equal(hub.name, getShellCopy(loc).reviewHubLabel, `${loc}: trilha sem o nome da lista de guias`);
   if (loc === 'pt') assert.equal(hub.name, 'Guias & Análises');
   else assert.equal(hub.name, getReviewHubCopy(loc).title, `${loc}: trilha diferente do título da lista`);
+  const expectedTrail = storeBlock?.articlesHref
+    ? [breadcrumbs[0].name, hub.name, storeBlock.brand]
+    : [breadcrumbs[0].name, hub.name];
+  assert.deepEqual(breadcrumbs.map((crumb) => crumb.name), expectedTrail, `${loc}: níveis inesperados na trilha`);
   const items = (breadcrumbJsonLd as { itemListElement: Array<{ name: string }> }).itemListElement;
-  assert.equal(items.at(-2)!.name, hub.name, `${loc}: BreadcrumbList diferente da trilha`);
+  assert.deepEqual(
+    items.map((item) => item.name),
+    [...expectedTrail, review.title],
+    `${loc}: BreadcrumbList diferente da trilha`
+  );
+}
+{
+  const ptWithStoreHub = publishedReviews.find((r) => {
+    if (resolveReviewLocale(r.locale) !== 'pt') return false;
+    return Boolean(buildReviewTemplateProps(r).storeBlock?.articlesHref);
+  });
+  assert.ok(ptWithStoreHub, 'nenhum artigo em PT com subpágina de loja');
+  const withHub = buildReviewTemplateProps(ptWithStoreHub);
+  assert.equal(withHub.breadcrumbs.length, 3, 'artigo em PT com subpágina de loja sem o 3º nível na trilha');
+  assert.equal(withHub.breadcrumbs[2].href, withHub.storeBlock!.articlesHref);
+
+  const ptWithoutStoreHub = publishedReviews.find((r) => {
+    if (resolveReviewLocale(r.locale) !== 'pt') return false;
+    return !buildReviewTemplateProps(r).storeBlock?.articlesHref;
+  });
+  assert.ok(ptWithoutStoreHub, 'nenhum artigo em PT sem subpágina de loja');
+  assert.equal(buildReviewTemplateProps(ptWithoutStoreHub).breadcrumbs.length, 2, 'artigo sem subpágina de loja ganhou 3º nível');
 }
 
 // Os relacionados chegam ao template como cartões da estante: os de pickRelatedReviews, na ordem, com o endereço
@@ -488,10 +514,22 @@ for (const [input, expected] of dockCases) assert.equal(isDockVisible(input), ex
 // O histórico de atualizações é o mesmo das receitas: no artigo (variant="d2"), sem as cores antigas; o padrão
 // continua o das receitas.
 const OLD_HEX = /#(?:1a4d2e|ff6b35|0f1d3a|faf8f3)/i;
-assert.ok(
-  !OLD_HEX.test(renderToStaticMarkup(createElement(LanguageSwitcher, { currentLocale: 'en', links: { pt: '/reviews/a', en: '/en/reviews/a' } }))),
-  'LanguageSwitcher com cor antiga'
+const switcherMarkup = renderToStaticMarkup(
+  createElement(LanguageSwitcher, { currentLocale: 'en', links: { pt: '/reviews/a', en: '/en/reviews/a', ar: '/ar/reviews/a' } })
 );
+assert.ok(!OLD_HEX.test(switcherMarkup), 'LanguageSwitcher com cor antiga');
+assert.ok(
+  switcherMarkup.includes('aria-expanded="false"') && switcherMarkup.includes('md:hidden') && switcherMarkup.includes('max-md:hidden'),
+  'LanguageSwitcher deve iniciar recolhido no celular e aberto no computador'
+);
+assert.ok(
+  switcherMarkup.includes('Read in another language') &&
+    switcherMarkup.includes('Read this content in other languages:') &&
+    switcherMarkup.includes('<bdi dir="ltr"'),
+  'LanguageSwitcher sem rótulos mobile/desktop ou contador isolado para RTL'
+);
+assert.equal((switcherMarkup.match(/hrefLang="pt"/g) ?? []).length, 1, 'LanguageSwitcher deve ter cada link hreflang uma única vez no HTML');
+assert.equal((switcherMarkup.match(/hrefLang="ar"/g) ?? []).length, 1, 'LanguageSwitcher deve ter cada link hreflang uma única vez no HTML');
 const changelog = (variant?: 'd2') => renderToStaticMarkup(createElement(ChangelogDetails, { entries: [{ date: '2026-10-01', text: 'Revisado.' }], variant }));
 assert.ok(!OLD_HEX.test(changelog('d2')), 'ChangelogDetails d2 com cor antiga');
 assert.ok(OLD_HEX.test(changelog()), 'ChangelogDetails padrão (receitas) mudou de cor');
