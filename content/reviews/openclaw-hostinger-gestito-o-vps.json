@@ -34,7 +34,7 @@
   "metaDescription": "Gestito o VPS per OpenClaw su Hostinger: crediti IA, Telegram e WhatsApp, e chi si occupa del server.",
   "publishedAt": "21 ottobre 2026",
   "publishedAtISO": "2026-10-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-it-v2.webp",
@@ -167,12 +167,13 @@
       "postParagraphs": [
         "**Scegli il VPS se:** vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n; sai gestire un server, o vuoi imparare, e accetti di aggiornare e proteggere il sistema; oppure ti servono più memoria e spazio: i piani KVM vanno da 4 GB a 32 GB di RAM.",
         "**Se hai dei dubbi, parti dal gestito.** Costa meno nel primo periodo e non richiede conoscenze di server."
-      ]
+      ],
+      "emphasis": "Dalla tabella, per chi vuole OpenClaw online senza occuparsi di un server, la scelta è il gestito, perché Hostinger si occupa di aggiornamenti e sicurezza, mentre sul VPS restano entrambi a te."
     },
     {
       "heading": "Coupon SONAR20",
       "paragraphs": [
-        "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, mensile o annuale, anche con account esistente. Registrazione di domini e rinnovo sono esclusi; il rinnovo si paga al prezzo di listino. Consulta la [guida SONAR20](/it/reviews/coupon-hostinger-codice-invito) e la [pagina Hostinger](/it/coupons/hostinger)."
+        "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Sui cicli da 12, 24 e 48 mesi si applica il 20%; sui piani da 1 mese l'accettazione dipende dal piano, quindi controlla la riga «Coupon applied» nel carrello prima di pagare. Registrazione di domini e rinnovo sono esclusi; il rinnovo si paga al prezzo di listino. Consulta la [guida SONAR20](/it/reviews/coupon-hostinger-codice-invito) e la [pagina Hostinger](/it/coupons/hostinger)."
       ],
       "postParagraphs": [
         "Hostinger è in piena campagna di Black Friday, e i prezzi cambiano. Guarda [il Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) e controlla l'importo nel carrello prima di pagare."
@@ -181,17 +182,11 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo «Have a coupon code?» del carrello e controlla la riga «Coupon applied» prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
         "Vale la pena l'OpenClaw gestito di Hostinger? Sì, per chi vuole l'assistente senza gestire un server: costa meno del VPS nel primo periodo e si rinnova allo stesso prezzo. Chi vuole root e altri programmi sul server si trova meglio con il VPS.",
         "Serve un account su OpenAI o Anthropic? No. In entrambe le opzioni puoi usare i crediti IA di Hostinger. L'account presso il fornitore serve solo se preferisci la tua chiave.",
-        "Esiste un coupon di sconto Hostinger per OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% di sconto sul primo periodo.",
         "Il piano gestito va bene per Hermes Agent o Paperclip? Sì. Tutti e tre sono nello stesso piano, «Apps di automazione IA», allo stesso prezzo. La pagina di Paperclip non elenca crediti IA, quindi porta la tua chiave.",
         "Un cliente Hostinger esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
-      ]
-    },
-    {
-      "heading": "Chi scrive",
-      "paragraphs": [
-        "Em Casa com Cecília gira su Hostinger, come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno del team usa OpenClaw: questo testo raccoglie ciò che dicono le pagine di Hostinger e la documentazione ufficiale di OpenClaw."
       ]
     }
   ],
@@ -219,13 +214,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Prendi il gestito se vuoi l'assistente online senza installare né configurare un server, con Hostinger che si occupa di aggiornamenti, backup e sicurezza.",
-      "Prendi il VPS se vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n."
+      "vuoi l'assistente online senza installare né configurare un server, con Hostinger che si occupa di aggiornamenti, backup e sicurezza (gestito).",
+      "vuoi accesso root e far girare altri programmi sullo stesso server, come un sito o n8n (VPS)."
     ],
     "skipIf": [
-      "Lascia perdere il VPS se non sai cos'è root né Docker: aggiornare e proteggere il sistema resta a te.",
-      "Lascia perdere il gestito se ti serve l'accesso root o più memoria e spazio.",
-      "Lascia perdere entrambi se lo stesso assistente deve servire persone che non si fidano tra loro: non devono condividere lo stesso gateway. Un team che si fida reciprocamente richiede una valutazione diversa; non esiste una regola universale di un server per persona."
+      "non sai cos'è root né Docker e stai pensando al VPS: aggiornare e proteggere il sistema resta a te.",
+      "ti servono accesso root o più memoria e spazio, che il gestito non offre.",
+      "lo stesso assistente deve servire persone che non si fidano tra loro: non devono condividere lo stesso gateway."
     ]
   },
   "hideFromPortugueseListings": true

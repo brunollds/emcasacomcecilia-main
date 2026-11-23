@@ -34,7 +34,7 @@
   "metaDescription": "Paperclip AI: cos’è, chi lo mantiene, cosa si può verificare e come farlo girare su Hostinger, gestito o VPS.",
   "publishedAt": "21 ottobre 2026",
   "publishedAtISO": "2026-10-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-it-v2.webp",
@@ -78,8 +78,8 @@
         "**Licenza.** MIT. Vuol dire che il codice è aperto: chiunque può leggerlo, controllarlo e usarlo. Vuol dire anche che nessuno è obbligato a mantenere la versione che hai installato.",
         "**Dove gira.** Scegli tu. Può girare sul tuo computer, su un server tuo o sul piano gestito di Hostinger. Il sito del progetto dice che la versione self-hosted non richiede un account Paperclip.",
         "**Dove restano le chiavi e i dati.** Dipende dal percorso. Sul VPS, la stessa Hostinger dice che i dati sensibili, la memoria degli agenti e le credenziali API restano “interamente sulla tua infrastruttura”, cioè sul server che hai affittato. Sul gestito, la pagina dice che le chiavi restano nella tua istanza gestita. È la descrizione di Hostinger, non un audit indipendente.",
-        "**Sicurezza del codice.** Il repository chiede che le vulnerabilità siano segnalate tramite la funzione Security Advisory di GitHub, e non in issue pubbliche. Nelle fonti di questa guida non compaiono versioni supportate, audit indipendenti né advisory pubblicati.",
-        "**Cosa non si può affermare.** Nelle fonti di questa guida non c’è un audit di sicurezza pubblico. Non c’è nemmeno una recensione indipendente né una valutazione di terzi per il prodotto. Il numero di stelle su GitHub mostra la popolarità, non la sicurezza. Un agente con accesso alla tua e-mail, alla banca o ad altri account merita una cautela in più, qualunque sia il software. Sull’azienda che ospita, vedi [se Hostinger è affidabile](/it/reviews/hostinger-e-affidabile)."
+        "**Sicurezza del codice.** Il repository chiede che le vulnerabilità siano segnalate tramite la funzione Security Advisory di GitHub, e non in issue pubbliche.",
+        "**Attenzione all’accesso.** Il numero di stelle su GitHub mostra la popolarità, non la sicurezza. Un agente con accesso alla tua e-mail, alla banca o ad altri account merita una cautela in più, qualunque sia il software. Sull’azienda che ospita, vedi [se Hostinger è affidabile](/it/reviews/hostinger-e-affidabile)."
       ]
     },
     {
@@ -146,7 +146,9 @@
         "**Il gestito fa per te se** vuoi Paperclip funzionante senza installare nulla, non sai cosa sono root e Docker, e preferisci che Hostinger si occupi del database, degli aggiornamenti e dei backup.",
         "**Il VPS fa per te se** vuoi far girare altri programmi sullo stesso server, come un sito o un n8n (strumento di automazione), sai mettere le mani su un server o vuoi imparare, e vuoi avere database e configurazione sotto il tuo controllo.",
         "Per il rimborso, la regola dei 180 giorni per il VPS è la stessa dell’[articolo sull’affidabilità di Hostinger](/it/reviews/hostinger-e-affidabile), che legge la politica dell’azienda. Per i rimborsi VPS precedenti vale un intervallo di 180 giorni; controlla condizioni ed esclusioni nella [politica di rimborso](https://www.hostinger.com/legal/refund-policy) prima di acquistare."
-      ]
+      ],
+      "emphasis": "Secondo le pagine prodotto di Hostinger, per chi vuole Paperclip senza gestire un server la scelta è il gestito, che include il database; per chi vuole far girare altri programmi sullo stesso server e sa amministrarlo è il VPS. In entrambi i casi la connessione con l'IA passa dalle tue chiavi o dal tuo abbonamento, senza crediti IA inclusi.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Che dimensione di VPS",
@@ -157,7 +159,7 @@
     {
       "heading": "Codice SONAR20",
       "paragraphs": [
-        "Usa il codice **SONAR20** nel campo codice sconto del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, su piano mensile o annuale, per clienti nuovi o già attivi. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Dove incollare il codice è spiegato in [come usare il codice SONAR20](/it/reviews/coupon-hostinger-codice-invito). Controlla il prezzo nel carrello prima di pagare."
+        "Inserisci **SONAR20** nel campo \"Have a coupon code?\" del carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Sui cicli da 12, 24 e 48 mesi il 20% si applica; sui piani da 1 mese l'accettazione dipende dal piano, quindi controlla la riga \"Coupon applied\" nel carrello prima di pagare. La registrazione di domini è esclusa e il rinnovo si paga al prezzo di listino, senza sconto. Consulta le condizioni nella [pagina Hostinger](/it/coupons/hostinger). Dove incollare il codice è spiegato in [come usare il codice SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
       ]
     },
     {
@@ -177,18 +179,12 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
+        "Qual è il coupon di Hostinger? Il coupon di Hostinger è SONAR20, con il 20% di sconto sul primo periodo di un nuovo acquisto idoneo: inserisci il codice nel campo \"Have a coupon code?\" del carrello e controlla la riga \"Coupon applied\" prima di pagare. Il rinnovo si paga al prezzo di listino, senza sconto.",
         "Paperclip è gratis? Il programma è open source con licenza MIT e si può installare sul computer senza sottoscrivere Hostinger. Hosting gestito e VPS sono a pagamento; i modelli usano i tuoi account tramite API o abbonamento compatibile, con costi e limiti del fornitore.",
-        "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Nelle fonti di questa guida non ci sono audit indipendenti.",
+        "Paperclip è affidabile? Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub.",
         "Serve una chiave API? Nella maggior parte dei casi, sì. Sul gestito, Hostinger accetta una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo. Sul VPS, la pagina chiede di portare le proprie chiavi. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
         "Funziona con Ollama? Dipende dall’agente che colleghi. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che colleghi.",
-        "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
         "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
-      ]
-    },
-    {
-      "heading": "Chi scrive",
-      "paragraphs": [
-        "Em Casa com Cecília gira su Hostinger come Node.js Web App, e Bruno è cliente dal 2024, con hosting e un VPS KVM 2. Nessuno della squadra usa Paperclip: questo testo riunisce quello che dicono il repository ufficiale e Hostinger."
       ]
     }
   ],
@@ -217,12 +213,12 @@
   "hideFromPortugueseListings": true,
   "decision": {
     "takeIf": [
-      "Scegli il gestito se vuoi Paperclip funzionante senza installare nulla e preferisci che Hostinger si occupi del database, degli aggiornamenti e dei backup.",
-      "Scegli il gestito se non sai cosa sono root e Docker."
+      "vuoi Paperclip funzionante senza installare nulla e preferisci che Hostinger si occupi del database, degli aggiornamenti e dei backup: fa per te il gestito.",
+      "non sai cosa sono root e Docker: il gestito risolve il problema."
     ],
     "skipIf": [
-      "Lascia perdere il gestito e vai di VPS se vuoi far girare altri programmi sullo stesso server, come un sito o un n8n, e sai mettere le mani su un server o vuoi imparare.",
-      "Lascia perdere Paperclip se vuoi solo un assistente: organizza una squadra di agenti, e per un uso personale di solito basta un agente singolo."
+      "vuoi far girare altri programmi sullo stesso server, come un sito o un n8n, e sai mettere le mani su un server o vuoi imparare: vai di VPS invece del gestito.",
+      "vuoi solo un assistente: Paperclip organizza una squadra di agenti, e per un uso personale di solito basta un agente singolo."
     ]
   }
 }

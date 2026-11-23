@@ -34,7 +34,7 @@
   "metaDescription": "Mejor VPS para OpenClaw sin RAM mínima oficial: el KVM para cada escenario, con modelo en la nube o local.",
   "publishedAt": "21 de octubre de 2026",
   "publishedAtISO": "2026-10-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -222,30 +222,25 @@
         "Modelo local: KVM 4, con 16 GB, el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña; el resultado depende del modelo y del contexto. El KVM 8, con 32 GB, tiene sentido solo con un modelo local más grande.",
         "Si no quieres ocuparte de un servidor: la opción gestionada, en la que Hostinger instala y actualiza el asistente.",
         "Para probar sin pagar: Oracle Always Free, sabiendo que Oracle puede recuperar una instancia inactiva."
-      ]
+      ],
+      "emphasis": "Por la tabla, para quien corre el modelo de IA en el proveedor, la elección es el KVM 1, con 4 GB; para un modelo local, es el KVM 4, con 16 GB, porque es el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña."
     },
     {
       "heading": "Cupón SONAR20",
       "paragraphs": [],
       "postParagraphs": [
-        "**SONAR20**: **20% en el primer período** de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera; revisa el plan en el carrito. Consulta los pasos en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y las condiciones en [la página de Hostinger en el sitio](/es/coupons/hostinger)."
+        "**SONAR20**: **20% en el primer período** de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera; En los ciclos de 12, 24 y 48 meses se aplica el 20 %; en los planes de 1 mes la aceptación depende del plan, así que revisa la línea «Coupon applied» del carrito antes de pagar. Consulta los pasos en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y las condiciones en [la página de Hostinger en el sitio](/es/coupons/hostinger)."
       ]
     },
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
+        "¿Cuál es el cupón de Hostinger? El cupón de Hostinger es SONAR20, con 20 % de descuento en el primer período de una compra nueva elegible: escribe el código en el campo «Have a coupon code?» del carrito y revisa la línea «Coupon applied» antes de pagar. La renovación se cobra al precio de lista, sin descuento.",
         "¿Cuál es el servidor mínimo para OpenClaw? La documentación oficial no publica mínimos de RAM, CPU ni disco; en la versión estable exige Node 24.22.1 o más reciente (o 26.12.1). Con clave de API o créditos, el KVM 1 es el punto de partida. Con modelo local, el piso de 8 GiB vale solo para la receta más pequeña, y el KVM 4 es el primero con margen para ella.",
         "¿Se puede usar sin clave de API? Sí, con un modelo local, pero entonces la memoria es el problema: la documentación da 8 GiB como piso de su receta local más pequeña, con un contexto de 64K, y advierte de que eso no garantiza que el modelo quepa ni que funcione bien. Con los créditos de Hostinger no necesitas una cuenta en un proveedor de IA, pero pagas por el uso.",
         "¿Oracle es gratis de verdad? Puede serlo, dentro de los límites de Always Free y de la disponibilidad de la región. Oracle puede recuperar una instancia inactiva según los criterios de uso de CPU, red y, en las A1, memoria que publica. Consulta los recursos y las condiciones de arriba.",
         "¿Mac mini o VPS? Depende de si la computadora puede quedar encendida las 24 horas. Si puede, correrlo en casa elimina la mensualidad del servidor; si no puede, elige VPS o gestionado.",
-        "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? SONAR20: 20% en el primer período de una compra nueva elegible, incluso con cuenta existente. Registro de dominio y renovación quedan fuera; revisa el plan en el carrito.",
         "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %, salvo el registro de dominio. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
-      ]
-    },
-    {
-      "heading": "Quién escribe",
-      "paragraphs": [
-        "Em Casa com Cecília funciona en Hostinger, como Node.js Web App, y Bruno es cliente desde 2024, con hosting y un VPS KVM 2. Nadie del equipo usa OpenClaw: este texto reúne lo que dicen Hostinger, Oracle y la documentación oficial de OpenClaw."
       ]
     }
   ],
@@ -273,13 +268,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Elige el KVM 1, con 4 GB, si el modelo de IA queda en el proveedor, por la clave de API o los créditos de IA de Hostinger.",
-      "Elige el KVM 4, con 16 GB, si vas a correr un modelo local: es el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña."
+      "el modelo de IA queda en el proveedor, por la clave de API o los créditos de IA de Hostinger: el KVM 1, con 4 GB, basta.",
+      "vas a correr un modelo local: el KVM 4, con 16 GB, es el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña."
     ],
     "skipIf": [
-      "Descarta el KVM 1 si vas a correr un modelo local: 4 GB queda por debajo del piso de 8 GiB de la receta local más pequeña.",
-      "Descarta el VPS si no quieres ocuparte de un servidor: mira la opción gestionada, en la que Hostinger instala y actualiza el asistente.",
-      "Descarta el KVM 8 si no vas a usar un modelo local más grande."
+      "vas a correr un modelo local y piensas en el KVM 1: 4 GB queda por debajo del piso de 8 GiB de la receta local más pequeña.",
+      "no quieres ocuparte de un servidor: mira la opción gestionada, en la que Hostinger instala y actualiza el asistente.",
+      "no vas a usar un modelo local más grande, porque el KVM 8 solo tiene sentido con uno."
     ]
   }
 }

@@ -34,7 +34,7 @@
   "metaDescription": "Managed or VPS for OpenClaw on Hostinger: AI credits, Telegram and WhatsApp, and who looks after the server.",
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -168,12 +168,13 @@
       "postParagraphs": [
         "**Choose the VPS if:** you want root access and to run other programs on the same server, such as a website or n8n; you know your way around a server, or want to learn, and accept updating and securing the system; or you need more memory and disk: KVM plans range from 4 GB to 32 GB of RAM.",
         "**If in doubt, start with managed.** It costs less in the first period and doesn't require server knowledge."
-      ]
+      ],
+      "emphasis": "By the table, for anyone who wants OpenClaw online without looking after a server, the choice is managed, because Hostinger handles updates and security, while on the VPS both fall to you."
     },
     {
       "heading": "SONAR20 coupon",
       "paragraphs": [
-        "Enter **SONAR20** in the cart for 20% off the first period of an eligible new purchase, monthly or annual, including with an existing account. Domain registration and renewal are excluded; renewal is charged at the list price. See the [SONAR20 guide](/en/reviews/hostinger-coupon-code-referral) and [Hostinger coupon page](/en/coupons/hostinger) for conditions."
+        "Enter **SONAR20** in the cart for 20% off the first period of an eligible new purchase, including with an existing account. On 12, 24 and 48-month terms the 20% applies; on 1-month plans acceptance depends on the plan, so check the \"Coupon applied\" line in the cart before paying. Domain registration and renewal are excluded; renewal is charged at the list price. See the [SONAR20 guide](/en/reviews/hostinger-coupon-code-referral) and [Hostinger coupon page](/en/coupons/hostinger) for conditions."
       ],
       "postParagraphs": [
         "Hostinger is running a Black Friday campaign, and prices change. See [Hostinger's Black Friday](/en/reviews/hostinger-black-friday) and check the amount in the cart before you pay."
@@ -182,17 +183,11 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "What is the Hostinger coupon code? The Hostinger coupon code is SONAR20, with 20% off the first period of an eligible new purchase: enter the code in the \"Have a coupon code?\" field in the cart and check the \"Coupon applied\" line before paying. Renewal is charged at the list price, with no discount.",
         "Is Hostinger's managed OpenClaw worth it? It is for people who want the assistant without looking after a server: it costs less than the VPS in the first period and renews at the same price. Anyone who wants root access and other programs on the server is better off with the VPS.",
         "Do you need an OpenAI or Anthropic account? No. On both options you can use Hostinger's AI credits. You only need an account with a provider if you prefer your own key.",
-        "Is there a Hostinger discount coupon for OpenClaw? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period.",
         "Does the managed plan work for Hermes Agent or Paperclip? Yes. All three are on the same plan, \"AI automation apps\", at the same price. The Paperclip page does not list AI credits, so bring your own key.",
         "Can existing Hostinger customers use SONAR20? Yes, on an eligible new purchase with the same account; renewal of the current service is excluded. It gives 20% off the first term, and domain registration is also excluded. Check the cart total."
-      ]
-    },
-    {
-      "heading": "Who writes this",
-      "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger, as a Node.js Web App, and Bruno has been a customer since 2024, with hosting and a KVM 2 VPS. Nobody on the team uses OpenClaw: this text gathers what Hostinger's pages and OpenClaw's official documentation say."
       ]
     }
   ],
@@ -220,13 +215,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Take managed if you want the assistant online without installing or configuring a server, with Hostinger handling updates, backups and security.",
-      "Take the VPS if you want root access and to run other programs on the same server, such as a website or n8n."
+      "you want the assistant online without installing or configuring a server, with Hostinger handling updates, backups and security (managed).",
+      "you want root access and to run other programs on the same server, such as a website or n8n (VPS)."
     ],
     "skipIf": [
-      "Skip the VPS if you don't know what root or Docker is: updating and securing the system falls to you.",
-      "Skip managed if you need root access or more memory and disk.",
-      "Skip both if the same assistant will serve people who do not trust each other: they should not share one gateway."
+      "you don't know what root or Docker is and are eyeing the VPS: updating and securing the system falls to you.",
+      "you need root access or more memory and disk, which managed does not offer.",
+      "the same assistant will serve people who do not trust each other: they should not share one gateway."
     ]
   }
 }
