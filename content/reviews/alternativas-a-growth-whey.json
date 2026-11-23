@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "No concentrado, o 80% HD da Black Skull com CECILIA10 custa menos por proteína no cartão; no Pix, o sabor Banana fica abaixo do 100% Whey da Growth. Para isolado, 3W e zero lactose, há outras opções de menor custo. As tabelas mostram os descontos considerados e as diferenças de composição que pesam na troca."
+        "No concentrado, o 80% HD da Black Skull com CECILIA10 custa menos por proteína no cartão; no Pix, só o sabor Banana fica abaixo da Growth. Com o desconto real do código (2% na maioria, 8,86% no 3W), 3W e zero lactose seguem abaixo no cartão. O isolado da Max fica pouco abaixo no cartão; no Pix, compare o total."
       ]
     },
     {
@@ -38,7 +38,7 @@
         "Para comparar potes de tamanhos diferentes, veja a última coluna: ela mostra quanto custa a mesma quantidade de proteína contida no pó. A porção usada na conta é a do rótulo de cada produto."
       ],
       "comparisonTable": {
-        "caption": "Preços dos sites em 9 de novembro de 2026, no cartão, sem frete. Conta nossa: custo por 100 g de proteína pelo peso líquido e pela proporção declarada no rótulo, com os descontos indicados.",
+        "caption": "Preços dos sites em 9 de novembro de 2026, no cartão, sem frete; a Mais Mu, no preço da Blue Friday. Conta nossa: custo por 100 g de proteína pelo peso líquido e pela proporção declarada no rótulo, com o desconto do código medido no carrinho em 23/11 (Black Skull, 10%; Max Titanium e Probiótica, 2% na maioria dos produtos e 8,86% no Top Whey 3W + Sabor).",
         "headers": [
           "Produto",
           "Porção e proteína",
@@ -93,7 +93,7 @@
     {
       "heading": "Whey isolado: a mistura da Mais Mu e o IsoWhey da Max",
       "paragraphs": [
-        "No preço promocional, o Whey Isolado da Mais Mu custa menos por proteína, mas mistura isolado, concentrado e hidrolisado do soro. Para quem procura um produto cuja fonte proteica seja apenas whey isolado, o IsoWhey da Max é a alternativa da tabela."
+        "No preço da Blue Friday, o Whey Isolado da Mais Mu custa menos por proteína, mas mistura isolado, concentrado e hidrolisado do soro. Para quem procura um produto cuja fonte proteica seja apenas whey isolado, o IsoWhey da Max é a alternativa da tabela, com o desconto real do código (2%)."
       ],
       "comparisonTable": {
         "headers": [
@@ -104,16 +104,16 @@
         ],
         "rows": [
           [
-            "[Mais Mu Whey Isolado refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/) — Baunilha e Brownie",
-            "27 a 33 g, 22 g de proteína",
-            "R$ 188,99 (promoção, com MMEMCASACOMCECILIA)",
-            "R$ 25,77 a R$ 31,50"
+            "[Mais Mu Whey Isolado refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/) — Baunilha",
+            "33 porções de 27 g, 22 g de proteína",
+            "R$ 188,99 (cartão da Blue Friday, com MMEMCASACOMCECILIA)",
+            "R$ 25,77"
           ],
           [
             "[Max Titanium IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) — Chocolate",
             "30 g, 26 g de proteína",
-            "R$ 293,56 (até 10% com MAX10EMCASACOMCECILIA)",
-            "R$ 37,64"
+            "R$ 319,66 (2% com MAX10EMCASACOMCECILIA)",
+            "R$ 40,98"
           ],
           [
             "Growth (TOP) Whey Protein Isolado 1 kg — Natural",
@@ -121,11 +121,12 @@
             "R$ 377,66",
             "R$ 41,96"
           ]
-        ]
+        ],
+        "caption": "Mesma base de preço e de desconto da primeira tabela. Conta nossa: custo por 100 g de proteína pelo peso líquido e pela proporção declarada no rótulo."
       },
       "postParagraphs": [
-        "Na Mais Mu, a Baunilha custa menos por proteína que o Brownie porque a mesma quantidade de proteína vem em uma porção menor. Compare o sabor que pretende comprar, além do preço do refil. O nome Isolado não torna essa mistura equivalente a uma fórmula que usa apenas proteína isolada.",
-        "No cartão, o IsoWhey da Max já fica ligeiramente abaixo da referência da Growth por proteína antes do código; o desconto amplia a diferença. No Pix, a vantagem depende do percentual aplicado pelo MAX10EMCASACOMCECILIA: com o desconto máximo de 10%, ele também fica abaixo da Growth."
+        "O refil da Mais Mu declara 33 porções de 27 g, e a conta usa essa dose e o peso do refil. Compare o sabor que pretende comprar, além do preço do refil. O nome Isolado não torna essa mistura equivalente a uma fórmula que usa apenas proteína isolada.",
+        "No cartão, o IsoWhey da Max já fica ligeiramente abaixo da Growth por proteína antes do código (R$ 41,82 contra R$ 41,96). Com os 2% medidos no carrinho, cai para R$ 40,98, R$ 0,98 abaixo: uma vantagem pequena. A Max anuncia até 5% no Pix e no boleto, que soma com o código; no Pix, compare o total final das duas lojas."
       ],
       "images": [
         {
@@ -155,8 +156,8 @@
           [
             "[Max Titanium Top Whey 3W Mais Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p) — Brigadeiro",
             "40 g, 25 g de proteína",
-            "R$ 170,10 (até 10% com MAX10EMCASACOMCECILIA)",
-            "R$ 30,24"
+            "R$ 172,25 (8,86% com MAX10EMCASACOMCECILIA, 7% + 2%)",
+            "R$ 30,62"
           ],
           [
             "Growth 3W Whey Protein 1 kg — Chocolate",
@@ -164,10 +165,11 @@
             "R$ 272,11",
             "R$ 34,01"
           ]
-        ]
+        ],
+        "caption": "Mesma base de preço e de desconto da primeira tabela. Conta nossa: custo por 100 g de proteína pelo peso líquido e pela proporção declarada no rótulo."
       },
       "postParagraphs": [
-        "No cartão, o Mais Sabor já custa menos por proteína antes do código. No Pix, ele fica abaixo da referência da Growth com o desconto máximo de 10% do MAX10EMCASACOMCECILIA; um percentual menor pode mudar essa vantagem.",
+        "No cartão, o Mais Sabor já custa menos por proteína antes do código (R$ 33,60 contra R$ 34,01); com os 8,86% medidos no carrinho, a diferença sobe para R$ 3,39. A Max anuncia até 5% no Pix e no boleto, que soma com o código; no Pix, compare o total final das duas lojas.",
         "A troca pede atenção à quantidade de pó: a concentração é de 62,5% no Mais Sabor e de 80% no 3W da Growth. Quem quer manter a mesma concentração do produto que já compra deve levar essa diferença em conta. Esses percentuais comparam as fórmulas e não são uma orientação de consumo."
       ],
       "images": [
@@ -198,8 +200,8 @@
           [
             "[Probiótica 100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "30 g, 22 g de proteína",
-            "R$ 217,77 (até 10% com PRO10EMCASACOMCECILIA)",
-            "R$ 33,00"
+            "R$ 237,13 (2% com PRO10EMCASACOMCECILIA)",
+            "R$ 35,93"
           ],
           [
             "Growth Whey Protein Zero Lactose 1 kg — Natural",
@@ -207,10 +209,11 @@
             "R$ 288,77",
             "R$ 37,67"
           ]
-        ]
+        ],
+        "caption": "Mesma base de preço e de desconto da primeira tabela. Conta nossa: custo por 100 g de proteína pelo peso líquido e pela proporção declarada no rótulo."
       },
       "postParagraphs": [
-        "Nesse sabor, a vantagem da Probiótica no cartão existe mesmo antes do código. O PRO10EMCASACOMCECILIA reduz o custo conforme o desconto concedido ao produto. Para pagar no Pix, compare o valor final de cada loja com o código aplicado."
+        "A vantagem da Probiótica no cartão existe antes do código (R$ 36,66 contra R$ 37,67) e, com os 2% medidos no carrinho, fica em R$ 1,74. O Pix da Probiótica não foi medido; para pagar no Pix, compare o total final das duas lojas."
       ],
       "images": [
         {
@@ -225,7 +228,21 @@
       ]
     },
     {
-      "heading": "Códigos para comprar as alternativas",
+      "heading": "Qual alternativa ao whey da Growth vale a troca?",
+      "emphasis": "Para gastar menos por proteína no concentrado, eu escolheria o 80% HD da Black Skull com o CECILIA10. No 3W e no zero lactose, eu compraria o Mais Sabor da Max e o Pure Whey da Probiótica no cartão, e compararia o total final no Pix antes de fechar.",
+      "bullets": [
+        "Concentrado no cartão: o 80% HD da Black Skull com CECILIA10 oferece menor custo por proteína que as duas referências da Growth da tabela. No Pix, a vantagem fica no sabor Banana.",
+        "Isolado com menor custo: o da Mais Mu com MMEMCASACOMCECILIA, para quem aceita a mistura com concentrado e hidrolisado. Para manter apenas proteína isolada como fonte proteica, o IsoWhey da Max com MAX10EMCASACOMCECILIA fica R$ 0,98 abaixo da Growth no cartão; no Pix, compare o total final.",
+        "3W com menor custo: o Mais Sabor da Max no Brigadeiro com MAX10EMCASACOMCECILIA (8,86% no teste), R$ 30,62 por 100 g de proteína contra R$ 34,01, aceitando a menor concentração de proteína no pó. No Pix, confirme o valor das duas lojas no carrinho.",
+        "Zero lactose: o 100% Pure Whey Zero Lactose da Probiótica com PRO10EMCASACOMCECILIA (2% no teste), R$ 35,93 contra R$ 37,67 no cartão; no Pix, compare o total final."
+      ],
+      "postParagraphs": [
+        "Veja regras e aplicação nas páginas do [cupom Black Skull](/cupons/black-skull), do [cupom Max Titanium](/cupons/max-titanium), do [cupom Probiótica](/cupons/probiotica) e do [cupom Mais Mu](/cupons/mais-mu). Os valores das tabelas não descontam créditos para compras futuras, como o Gpontos da Growth. Confira também o frete para o seu CEP e fale com médico ou nutricionista sobre dose e saúde antes de trocar de marca.",
+        "Para ver mais produtos de uma das marcas ao lado da Growth, há os comparativos [Black Skull ou Growth](/reviews/black-skull-ou-growth), [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Probiótica ou Growth](/reviews/probiotica-ou-growth) e [Mais Mu ou Growth](/reviews/mais-mu-ou-growth)."
+      ],
+      "paragraphs": [
+        "Cada código vale só na loja dele. No carrinho ou no checkout da loja, digite o código no campo de cupom e confira o desconto no resumo do pedido: o percentual muda por produto."
+      ],
       "comparisonTable": {
         "headers": [
           "Loja",
@@ -244,46 +261,57 @@
             "Max Titanium",
             "MAX10EMCASACOMCECILIA",
             "até 10%, conforme o produto",
-            "As tabelas usam o teto de 10%; confira o percentual do produto e a soma com o Pix no carrinho."
+            "No nosso teste de carrinho, 2% no IsoWhey e 8,86% (7% + 2%) no Top Whey 3W + Sabor; soma com o Pix e o boleto (até 5%), que não medimos juntos."
           ],
           [
             "Probiótica",
             "PRO10EMCASACOMCECILIA",
             "até 10%, conforme o produto",
-            "As tabelas usam o teto de 10%; confira o percentual do produto no carrinho."
+            "No nosso teste de carrinho, 2% no 100% Pure Whey Zero Lactose; confira o percentual do seu produto."
           ],
           [
             "Mais Mu",
             "MMEMCASACOMCECILIA",
             "10%",
-            "Soma com os 3% do Pix; não soma com cashback nem com o cupom de boas-vindas."
+            "Soma com os 3% do Pix; não soma com o crédito de cashback, programa da própria loja."
           ]
         ]
       },
-      "postParagraphs": [
-        "Veja regras e aplicação nas páginas do [cupom Black Skull](/cupons/black-skull), do [cupom Max Titanium](/cupons/max-titanium), do [cupom Probiótica](/cupons/probiotica) e do [cupom Mais Mu](/cupons/mais-mu). Os valores das tabelas não descontam créditos para compras futuras, como o Gpontos da Growth. Confira também o frete para o seu CEP antes de fechar o pedido."
-      ]
-    },
-    {
-      "heading": "Qual alternativa faz sentido para a sua compra",
-      "emphasis": "Para trocar a Growth, comece pelo tipo de whey que você já compra. O 80% HD da Black Skull com CECILIA10 reduz o custo do concentrado no cartão; nas demais opções, confira também a composição e o desconto do seu produto.",
-      "bullets": [
-        "Concentrado no cartão: o 80% HD da Black Skull com CECILIA10 oferece menor custo por proteína que as duas referências da Growth da tabela. No Pix, a vantagem fica no sabor Banana.",
-        "Isolado com menor custo: o da Mais Mu com MMEMCASACOMCECILIA, para quem aceita a mistura com concentrado e hidrolisado. Para manter apenas proteína isolada como fonte proteica, compare o IsoWhey da Max com MAX10EMCASACOMCECILIA.",
-        "3W com menor custo: o Mais Sabor da Max no Brigadeiro com MAX10EMCASACOMCECILIA, aceitando a menor concentração de proteína no pó. No Pix, confirme o percentual do código antes de decidir.",
-        "Zero lactose: o 100% Pure Whey Zero Lactose da Probiótica com PRO10EMCASACOMCECILIA é a alternativa da comparação no cartão."
-      ],
-      "postParagraphs": [
-        "Para ver mais produtos de uma das marcas ao lado da Growth, há os comparativos [Black Skull ou Growth](/reviews/black-skull-ou-growth), [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Probiótica ou Growth](/reviews/probiotica-ou-growth) e [Mais Mu ou Growth](/reviews/mais-mu-ou-growth)."
+      "links": [
+        {
+          "label": "Ir para a Black Skull com o CECILIA10",
+          "href": "https://www.blackskullusa.com.br/",
+          "sponsored": true,
+          "store": "black-skull"
+        },
+        {
+          "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
+          "href": "https://www.lojamaismu.com.br/",
+          "sponsored": true,
+          "store": "mais-mu"
+        },
+        {
+          "label": "Ir para a Max Titanium com o MAX10EMCASACOMCECILIA",
+          "href": "https://www.maxtitanium.com.br/",
+          "sponsored": true,
+          "store": "max-titanium"
+        },
+        {
+          "label": "Ir para a Probiótica com o PRO10EMCASACOMCECILIA",
+          "href": "https://www.probiotica.com.br/?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+          "sponsored": true,
+          "store": "probiotica"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom de cada loja? Black Skull: CECILIA10, com 10%. Max Titanium: MAX10EMCASACOMCECILIA, até 10%, conforme o produto (no nosso teste, 2% no IsoWhey e 8,86% no Top Whey 3W + Sabor). Probiótica: PRO10EMCASACOMCECILIA, até 10%, conforme o produto (2% no teste). Mais Mu: MMEMCASACOMCECILIA, com 10%. Cada código vale só na loja dele.",
         "Qual whey é parecido com o da Growth? O 80% HD da Black Skull é uma alternativa ao concentrado: nos sabores usados na comparação, ele tem a mesma concentração de proteína do (TOP) da Growth. Com CECILIA10, fica abaixo das referências da tabela no cartão.",
-        "Tem whey mais barato que o da Growth? Há alternativas nas quatro categorias do artigo, considerando a mesma quantidade de proteína. No concentrado, veja a diferença entre cartão e Pix; na Max e na Probiótica, confirme o desconto efetivo do código.",
-        "Qual whey isolado é mais barato que o da Growth? A Mais Mu, em promoção, oferece menor custo com MMEMCASACOMCECILIA, mas mistura isolado, concentrado e hidrolisado. Para uma opção com apenas proteína isolada como fonte proteica, veja o IsoWhey da Max na tabela de isolados.",
-        "Qual é a alternativa zero lactose ao whey da Growth? O 100% Pure Whey Zero Lactose da Probiótica, com PRO10EMCASACOMCECILIA, fica abaixo do Zero Lactose Natural da Growth no cartão. O percentual do código varia conforme o produto."
+        "Tem whey mais barato que o da Growth? Há alternativas nas quatro categorias do artigo, considerando a mesma quantidade de proteína. No concentrado, veja a diferença entre o preço do cartão e o do Pix; na Max e na Probiótica, o código deu 2% na maioria dos produtos do nosso teste, o que reduz a vantagem no isolado e no zero lactose.",
+        "Qual whey isolado é mais barato que o da Growth? A Mais Mu, na Blue Friday, oferece menor custo com MMEMCASACOMCECILIA, mas mistura isolado, concentrado e hidrolisado. Para uma opção com apenas proteína isolada como fonte proteica, veja o IsoWhey da Max: abaixo da Growth no cartão; no Pix, compare o total final.",
+        "Qual é a alternativa zero lactose ao whey da Growth? O 100% Pure Whey Zero Lactose da Probiótica, com PRO10EMCASACOMCECILIA, fica abaixo do Zero Lactose Natural da Growth no cartão. O código deu 2% no nosso teste; no Pix, compare o total final das lojas."
       ]
     }
   ],
@@ -307,7 +335,7 @@
     "max-titanium",
     "probiotica"
   ],
-  "editorialNote": "Comparação de preços e rótulos; não provamos os produtos. Podemos receber comissão das quatro alternativas; a Growth não é parceira. Dúvidas sobre dose ou saúde: consulte médico ou nutricionista.",
+  "editorialNote": "Preço e rótulo, sem provar os produtos. Comissão das quatro lojas; Growth não é parceira.",
   "relatedArticles": [
     {
       "slug": "black-skull-ou-growth"
@@ -321,5 +349,6 @@
     {
       "slug": "melhor-whey-qual-escolher-por-objetivo"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }

@@ -14,11 +14,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Em novembro, a Mais Mu tinha reputação Boa no Reclame Aqui nos últimos seis meses (nota 7,1). Veja as queixas mais comuns e o que fazer se o pedido der problema.",
-  "metaDescription": "Com o MMEMCASACOMCECILIA, 10% OFF na Mais Mu: reputação Boa (7,1) no Reclame Aqui em novembro, 76,5% resolvidas e queixas de entrega.",
+  "description": "A Mais Mu tem reputação Boa no Reclame Aqui nos últimos seis meses (nota 7,1). Veja o que o perfil mostra de bom, as queixas de entrega e como pedir ajuda se o pedido atrasar.",
+  "metaDescription": "Com o MMEMCASACOMCECILIA, 10% OFF na Mais Mu: reputação Boa (nota 7,1) no Reclame Aqui em 6 meses, 78,2% resolvidas e queixas de entrega.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/mais-mu/mais-mu-reclame-aqui-nota-reputacao-capa-v2.webp",
@@ -29,36 +29,20 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Em novembro, a reputação da Mais Mu no Reclame Aqui era Boa nos últimos seis meses, com nota 7,1, e também Boa em 12 meses. A loja responde quase todas, mas nem todas ficam resolvidas. O [cupom Mais Mu](/cupons/mais-mu) traz o MMEMCASACOMCECILIA, 10% OFF em todo o site."
+        "A Mais Mu tem reputação Boa no Reclame Aqui nos últimos seis meses, com nota 7,1, e também Boa em 12 meses, com 7,4. A loja responde 95,4% das reclamações, resolve 78,2% das avaliadas e tem a entrega como principal queixa. O [cupom Mais Mu](/cupons/mais-mu) é o MMEMCASACOMCECILIA, com 10% OFF."
       ]
     },
     {
-      "heading": "Por que olhar o Reclame Aqui antes de comprar",
+      "heading": "A nota e os indicadores da Mais Mu no Reclame Aqui",
       "paragraphs": [
-        "Toda loja recebe reclamações. O que importa é a proporção: quantas são respondidas, quantas são resolvidas e quanta gente voltaria a comprar. Os números abaixo são do perfil público da Mais Mu e mudam todos os dias. Confira de novo no dia da compra.",
-        "O CNPJ da empresa, 21.526.148/0001-34, está ativo desde 05/12/2014 nos dados públicos do CNPJ. O tempo de empresa não diz tudo. Para quem compra agora, pesa mais a reputação recente."
-      ]
-    },
-    {
-      "heading": "Os números da Mais Mu no Reclame Aqui",
-      "paragraphs": [
-        "O perfil é o Mais Mu, em Suplementos Alimentares e Fórmulas. Os números de 6 meses são de 07/11/2026, e os de 12 meses e geral, de outubro. As três abas lado a lado:"
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-abas.webp",
-          "alt": "Três abas de desempenho da Mais Mu no Reclame Aqui: 6 meses Regular com nota 6,4 e 112 reclamações; 12 meses Boa com nota 7,2 e 290 reclamações; Geral Boa com nota 7,7 e 770 reclamações",
-          "caption": "Abas de 6 meses, 12 meses e Geral do perfil da Mais Mu no Reclame Aqui.",
-          "objectFit": "contain",
-          "aspectRatio": 1.0302
-        }
+        "O perfil é o Mais Mu, na categoria Alimentos e Bebidas, Suplementos Alimentares. A tabela traz as três janelas do perfil, lidas na última consulta, e os números mudam todos os dias."
       ],
       "comparisonTable": {
         "headers": [
           "Indicador",
           "6 meses (01/05/2026 a 31/10/2026)",
-          "12 meses (01/10/2025 a 30/09/2026)",
-          "Geral (21/10/2023 a 20/10/2026)"
+          "12 meses (01/11/2025 a 31/10/2026)",
+          "Geral (23/11/2023 a 22/11/2026)"
         ],
         "rows": [
           [
@@ -70,157 +54,163 @@
           [
             "Nota",
             "7,1",
-            "7,2",
+            "7,4",
             "7,7"
           ],
           [
             "Reclamações recebidas",
             "109",
-            "290",
-            "770"
+            "297",
+            "776"
           ],
           [
             "Respondidas",
-            "92,7%",
+            "95,4%",
             "98,3%",
-            "98,8%"
+            "98,7%"
           ],
           [
             "Aguardando resposta",
-            "3",
             "0",
-            "1"
+            "0",
+            "2"
           ],
           [
             "Resolvidas",
-            "76,5%",
-            "76,3%",
-            "81,7%"
+            "78,2%",
+            "79,9%",
+            "82,1%"
           ],
           [
             "Voltariam a fazer negócio",
-            "58,8%",
-            "59,3%",
+            "56,4%",
+            "61,8%",
             "65,9%"
           ],
           [
             "Reclamações avaliadas",
-            "51",
-            "135",
-            "374"
+            "55",
+            "144",
+            "382"
           ],
           [
             "Nota média do consumidor",
             "5,76",
-            "5,91",
-            "6,42"
+            "6,16",
+            "6,44"
           ],
           [
             "Tempo médio de resposta",
-            "26 dias e 7 horas",
-            "12 dias e 4 horas",
-            "12 dias e 13 horas"
+            "25 dias e 23 horas",
+            "12 dias e 2 horas",
+            "12 dias e 11 horas"
           ]
         ]
       },
       "postParagraphs": [
-        "A aba de 6 meses é a mais fraca das três. Tem a menor nota (7,1), a menor taxa de respostas (92,7%) e o maior tempo médio de resposta, de 26 dias e 7 horas. A taxa de resolução, 76,5%, ficou perto da dos 12 meses.",
-        "O Reclame Aqui também mostra uma nota de compra separada da reputação: 4,7 de 5, a partir de 620 avaliações verificadas dos últimos 6 meses. Ela mede a experiência de quem comprou, não o atendimento a reclamações."
+        "A aba de 6 meses é a mais fraca das três: nota 7,1, solução de 78,2%, e só 56,4% das reclamações avaliadas terminam com a pessoa dizendo que voltaria a comprar. O tempo médio de resposta, de quase 26 dias, é mais que o dobro do da janela de 12 meses.",
+        "As 109 reclamações do semestre são um número absoluto. Sem o total de pedidos da loja, ele não vira taxa de reclamação."
       ]
     },
     {
-      "heading": "Como a reputação mudou",
+      "heading": "O que a nota e a reputação medem",
       "paragraphs": [
-        "Em outubro, o gráfico de histórico dos últimos 6 meses tinha os dois primeiros pontos em Boa e os quatro seguintes em Regular. Em novembro, a aba de 6 meses estava de volta a Boa, com nota 7,1.",
-        "A aba de 12 meses estava em Boa em outubro, com nota 7,2, porque inclui os seis meses anteriores a esses. O gráfico não mostra as causas da mudança. Ele mostra só quando a faixa mudou."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-historico.webp",
-          "alt": "Gráfico de histórico da reputação da Mais Mu no Reclame Aqui nos últimos 6 meses: dois pontos em Boa e quatro em Regular",
-          "caption": "Histórico da reputação nos últimos 6 meses, no Reclame Aqui.",
-          "objectFit": "contain",
-          "aspectRatio": 1.0697
-        }
+        "A reputação do Reclame Aqui mede como a empresa atende as reclamações registradas na plataforma: se responde, se resolve e se o consumidor avalia bem o atendimento. Ela não mede a qualidade do produto e muda com o tempo.",
+        "Os índices de solução e de quem voltaria a comprar valem para as reclamações finalizadas e avaliadas (55 nos últimos 6 meses), não para todos os clientes da loja. O perfil da Mais Mu não mostra o selo Empresa Verificada.",
+        "O Reclame Aqui também tem uma nota de compra, separada da reputação: 4,8 de 5, a partir de 544 avaliações verificadas dos últimos 6 meses. Ela vem de quem comprou e avaliou, não do atendimento às reclamações."
       ]
     },
     {
-      "heading": "O que mais aparece nas reclamações",
+      "heading": "O que o perfil mostra de bom",
+      "bullets": [
+        "Reputação Boa nos três períodos, com nota 7,7 na aba Geral, de três anos.",
+        "Respostas: 98,3% das reclamações respondidas nos últimos 12 meses e nenhuma aguardando resposta nos dois períodos mais recentes.",
+        "Solução: 78,2% nos últimos 6 meses e 79,9% em 12 meses, entre as reclamações avaliadas.",
+        "Tempo no Reclame Aqui: o perfil informa 9 anos na plataforma, e o CNPJ 21.526.148/0001-34 está ativo desde 05/12/2014 nos dados públicos."
+      ]
+    },
+    {
+      "heading": "Pontos de atenção e principais queixas",
       "paragraphs": [
-        "Entrega e recebimento são a principal fonte de reclamação. Na aba geral, de até 3 anos, os mais citados são:"
+        "Entrega e recebimento são a principal fonte de reclamação. Na aba Geral, que reúne até três anos de registros, os blocos mais citados são estes:"
       ],
       "images": [
         {
-          "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-principais-problemas.webp",
-          "alt": "Bloco Principais problemas comentados do Reclame Aqui: Problemas na Loja com 15,32% nas categorias, Produto não recebido com 17,01% nos problemas e Entrega com 18,57% nos produtos",
-          "caption": "Principais problemas da aba geral do Reclame Aqui.",
+          "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-principais-problemas-v2.webp",
+          "alt": "Bloco Principais problemas comentados do Reclame Aqui: Problemas na Loja com 15,08% nas categorias, Produto não recebido com 17,01% nos problemas e Entrega com 18,3% nos produtos",
+          "caption": "Principais problemas da aba Geral do perfil da Mais Mu.",
           "objectFit": "contain",
-          "aspectRatio": 1.1841
+          "aspectRatio": 1.2128
         }
       ],
       "bullets": [
-        "Categorias: Problemas na Loja (118), Não encontrei meu problema (60), Suplementos Alimentares (55) e Problemas com o Atendimento (49).",
-        "Problemas: Produto não recebido (131), Atraso na entrega (125), Produto com defeito (97) e Estorno do valor pago (31)."
+        "Categoria: Problemas na Loja, 15,08%.",
+        "Problema: Produto não recebido, 17,01%.",
+        "Produto: Entrega, 18,3%."
       ],
       "postParagraphs": [
-        "Produto não recebido e atraso na entrega somam 256 registros, cerca de um terço das 770 reclamações da aba geral. Entrega e recebimento são a principal fonte de reclamação."
+        "A reputação também oscilou. No histórico dos últimos 6 meses do perfil, a Mais Mu aparece como Boa em maio e junho, Regular de julho a setembro e Boa em outubro. O gráfico mostra quando a faixa mudou, não o motivo."
       ]
     },
     {
-      "heading": "Como a Mais Mu responde às reclamações",
+      "heading": "Como a Mais Mu responde e o que conferir antes de comprar",
       "paragraphs": [
-        "A loja responde quase todas: 92,7% nos últimos 6 meses, 98,3% nos 12 meses e 98,8% na aba geral. Nos 6 meses, 3 reclamações estavam aguardando resposta.",
-        "Responder não é o mesmo que resolver. Nos 6 meses, 76,5% das reclamações foram resolvidas. Entre os consumidores que avaliaram, 58,8% disseram que voltariam a comprar.",
-        "A nota média do consumidor nos 6 meses foi 5,76, e só 51 das 109 reclamações foram avaliadas. Essa nota vem de uma parte dos casos, não de todos os compradores."
+        "O canal de atendimento é o e-mail fala.ai@maismu.com.br, também indicado no FAQ e na página de contato da loja. O perfil certo no Reclame Aqui é o da Mais Mu, do CNPJ 21.526.148/0001-34."
       ],
-      "image": {
-        "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
-        "alt": "Perfil da Mais Mu no Reclame Aqui: reputação Regular, avaliações de compra 4,7 de 5 e 67,9% das reclamações resolvidas",
-        "caption": "O perfil da Mais Mu no Reclame Aqui: reputação Regular, avaliações de compra 4,7 e 67,9% das reclamações resolvidas.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      }
-    },
-    {
-      "heading": "O que fazer se o pedido der problema",
-      "paragraphs": [
-        "O canal de atendimento é o e-mail fala.ai@maismu.com.br, pelo FAQ e pela página de contato da loja."
+      "images": [
+        {
+          "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-historico-v2.webp",
+          "alt": "Histórico da reputação da Mais Mu no Reclame Aqui nos últimos 6 meses: dois pontos em Boa, três em Regular e o último em Boa",
+          "caption": "Histórico da reputação nos últimos 6 meses, no perfil da Mais Mu.",
+          "objectFit": "contain",
+          "aspectRatio": 1.1211
+        }
       ],
       "bullets": [
         "Atraso, endereço errado, pedido avariado ou item faltando: acompanhe o rastreio no rastreae.com.br, com o código do e-mail ou o CPF, e escreva para fala.ai@maismu.com.br com o número do pedido.",
-        "Troca ou devolução: pela política da loja, o produto precisa estar na embalagem original, fechada e sem sinais de uso. Peça pelo e-mail. A loja cobre o recolhimento, e o reembolso ou o reenvio saem em até 7 dias úteis depois da avaliação na unidade.",
+        "Troca ou devolução: pela política da loja, o produto precisa estar na embalagem original, fechada e sem sinais de uso. A loja cobre o recolhimento, e o reembolso ou o reenvio saem em até 7 dias úteis depois da avaliação na unidade.",
         "Pedido devolvido pela transportadora: a loja faz o reenvio sem custo para você, depois do e-mail com o número do pedido, o rastreio e o endereço.",
-        "Reembolso: volta na mesma forma de pagamento. No Pix e no boleto, em até 7 dias úteis depois do envio dos dados. No cartão, em até 48 horas úteis; no crédito, pode levar até duas faturas.",
-        "Arrependimento: em compra pela internet, o Código de Defesa do Consumidor dá 7 dias para desistir (art. 49). O FAQ da loja não traz prazo próprio para isso, e a exigência de embalagem fechada é da política de troca, não do arrependimento."
+        "Reembolso: volta na mesma forma de pagamento. No Pix e no boleto, em até 7 dias úteis depois do envio dos dados; no cartão, em até 48 horas úteis, e no crédito pode levar até duas faturas.",
+        "Arrependimento: em compra pela internet, o Código de Defesa do Consumidor dá 7 dias para desistir (art. 49). A exigência de embalagem fechada é da política de troca, não do arrependimento."
+      ]
+    },
+    {
+      "heading": "Vale a pena comprar na Mais Mu?",
+      "emphasis": "Para comprar na Mais Mu com tranquilidade, eu iria no site oficial, com o MMEMCASACOMCECILIA no checkout, guardando o número do pedido e acompanhando o rastreio desde o primeiro dia.",
+      "paragraphs": [
+        "O perfil mostra reputação Boa, respostas quase sempre dadas e solução perto de 80%, mas com semestre mais fraco que a média e a entrega como ponto de atenção. A compra com cuidado cobre esse risco.",
+        "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O cupom dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com os 3% do Pix.",
+        "A loja não acumula cupons: o crédito do cashback, programa da própria loja, não soma com o MMEMCASACOMCECILIA. O frete grátis vale acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 nas outras regiões, segundo o site da loja."
       ],
-      "postParagraphs": [
-        "Se o atendimento não resolver, o Reclame Aqui registra a queixa e mostra a resposta da empresa no perfil."
-      ]
-    },
-    {
-      "heading": "Parceria e cupom",
-      "paragraphs": [
-        "O Em Casa com Cecília tem parceria com a Mais Mu e pode receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA. Os números deste artigo são do perfil público da loja no Reclame Aqui e não mudam por causa disso.",
-        "O cupom dá 10% OFF em todo o site, para conta nova e antiga, com qualquer forma de pagamento. Ele soma com os 3% de desconto do Pix. Não vale no [Mercado Livre da Mais Mu](https://meli.la/24RjvdP): lá vale o preço do anúncio.",
-        "No site, aplique o cupom no checkout, em \"Adicionar cupom de desconto\", depois de iniciar a compra no carrinho. Confira a linha \"Desconto do cupom\" no resumo antes de pagar.",
-        "A loja não acumula cupons. O crédito de cashback e o desconto de boas-vindas contam como cupom, então não somam com o MMEMCASACOMCECILIA. O cashback é um programa da própria loja, não uma vantagem do cupom.",
-        "O frete grátis vale acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste, segundo o site. Confira no checkout se o frete grátis vale junto com o cupom.",
-        "Compre pelo [site oficial da Mais Mu](https://www.lojamaismu.com.br/). Os detalhes estão na [página do cupom da Mais Mu](/cupons/mais-mu), e o passo a passo, no artigo [Cupom Mais Mu: como usar o desconto de 10%](/reviews/cupom-mais-mu-como-usar)."
-      ]
-    },
-    {
-      "heading": "Dá para confiar na Mais Mu?",
-      "paragraphs": [
-        "Em novembro, a reputação recente da Mais Mu no Reclame Aqui era Boa, com nota 7,1, e a janela de 12 meses também era Boa, com nota 7,2 em outubro. A loja responde quase todas as reclamações (92,7% nos últimos 6 meses), resolveu 76,5% delas, e 58,8% de quem avaliou disse que voltaria a comprar.",
-        "Dá para comprar com atenção: guarde o número do pedido, acompanhe o rastreio e, se algo atrasar, escreva para o canal de atendimento da loja. Para a visão geral da empresa, veja [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel)."
+      "images": [
+        {
+          "src": "/images/reviews/mais-mu/mais-mu-ou-growth-whey-concentrado.webp",
+          "alt": "Whey Protein Concentrado Mais Mu sabor baunilha no pote de 450 g, no refil de 900 g e no refil de 1,8 kg",
+          "caption": "Whey concentrado baunilha da Mais Mu, em foto do site oficial.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778,
+          "href": "https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
+          "href": "https://www.lojamaismu.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Mais Mu",
+          "href": "/cupons/mais-mu"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Mais Mu é confiável segundo o Reclame Aqui? O perfil mostrava reputação Boa nos últimos 6 meses, com nota 7,1, e também Boa nos 12 meses, com nota 7,2. Veja a análise completa em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
-        "Qual a nota da Mais Mu no Reclame Aqui? Em novembro, nota 7,1 nos últimos 6 meses; em outubro, 7,2 nos 12 meses e 7,7 na aba geral.",
-        "A Mais Mu responde às reclamações? Sim, na maior parte. Em novembro, nos últimos 6 meses, 92,7% das reclamações foram respondidas, e 76,5% foram resolvidas.",
+        "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento.",
+        "A Mais Mu é confiável segundo o Reclame Aqui? O perfil mostra reputação Boa nos últimos 6 meses (nota 7,1), em 12 meses (7,4) e na aba Geral (7,7). A nota mede o atendimento às reclamações, não o produto. Veja também [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
+        "Qual a nota da Mais Mu no Reclame Aqui? Nos últimos 6 meses, 7,1; em 12 meses, 7,4; na aba Geral, 7,7.",
+        "A Mais Mu responde às reclamações? Sim, na maior parte: 95,4% nos últimos 6 meses e 98,3% em 12 meses. O tempo médio de resposta nos 6 meses é de quase 26 dias.",
         "O que fazer se o pedido da Mais Mu atrasar? Acompanhe o rastreio no rastreae.com.br e escreva para fala.ai@maismu.com.br com o número do pedido.",
         "Como pedir troca ou reembolso na Mais Mu? Escreva para fala.ai@maismu.com.br com o número do pedido. Pela política da loja, o produto precisa estar na embalagem original, fechada e sem sinais de uso; essa condição é da troca, não do arrependimento. O reembolso sai na mesma forma de pagamento."
       ]
@@ -236,7 +226,7 @@
   },
   "coupon": "MMEMCASACOMCECILIA",
   "affiliate": "mais-mu",
-  "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
+  "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "mais-mu-e-confiavel"
@@ -247,5 +237,15 @@
     {
       "slug": "black-friday-mais-mu"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Compre se a reputação Boa e a resposta a quase todas as reclamações pesam mais para você que o semestre mais fraco.",
+      "Compre se você acompanha o rastreio e guarda o número do pedido para o caso de atraso."
+    ],
+    "skipIf": [
+      "Passe se você tem pressa: a entrega é a principal queixa e o tempo de resposta do semestre foi longo.",
+      "Passe se prefere comprar no marketplace, onde o cupom não vale."
+    ]
+  }
 }

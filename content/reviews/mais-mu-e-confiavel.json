@@ -13,11 +13,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Mais Mu é uma empresa registrada, com CNPJ ativo e site oficial, e em novembro a reputação no Reclame Aqui estava Boa. Veja trocas, reembolso e o que pesa na compra.",
+  "description": "A Mais Mu é uma empresa registrada, com CNPJ ativo e site oficial, e reputação Boa no Reclame Aqui nos últimos seis meses. Veja trocas, reembolso e o que pesa na compra.",
   "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. A marca é confiável? Veja a empresa, o CNPJ, as regras de troca e a reputação no Reclame Aqui.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/mais-mu/mais-mu-e-confiavel-capa-v2.webp",
@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, a Mais Mu é uma empresa registrada, com CNPJ ativo e sede em São Paulo. A reputação melhorou: em novembro, no Reclame Aqui, a loja estava como Boa, com a entrega como principal queixa. O [cupom Mais Mu](/cupons/mais-mu) traz o MMEMCASACOMCECILIA, 10% OFF em todo o site."
+        "Sim, a Mais Mu é uma empresa registrada, com CNPJ ativo e sede em São Paulo. No Reclame Aqui, a reputação é Boa nos últimos seis meses, com nota 7,1, e a entrega é a principal queixa. O [cupom Mais Mu](/cupons/mais-mu) traz o MMEMCASACOMCECILIA, 10% OFF em todo o site."
       ]
     },
     {
@@ -60,8 +60,7 @@
       "heading": "O que a Mais Mu vende",
       "paragraphs": [
         "A loja vende whey concentrado, proteína vegetal, creatina, o pré-treino Exquenta, barras, Chocowheyfer, bebidas proteicas e snacks salgados.",
-        "Este texto não avalia os produtos. O que dá para conferir aqui é quem vende, se o site é o oficial e o que acontece se você precisar trocar.",
-        "O site também indica lojas físicas que vendem a marca, em um mapa. A página não traz os nomes das lojas."
+        "Este texto não avalia os produtos: confere quem vende, se o site é o oficial e o que acontece se você precisar trocar. O site também indica lojas físicas que vendem a marca, em um mapa, sem os nomes das lojas."
       ],
       "images": [
         {
@@ -69,7 +68,8 @@
           "alt": "Caixas de barras de proteína da Mais Mu: Mukebar paçoquita, Chocowheyfer chocolate e Crushbar morango",
           "caption": "Mukebar, Chocowheyfer e Crushbar, nas fotos do site oficial da Mais Mu.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://www.lojamaismu.com.br/barras-de-proteinas/"
         }
       ]
     },
@@ -149,41 +149,43 @@
     {
       "heading": "E a reputação no Reclame Aqui?",
       "paragraphs": [
-        "Em novembro, a Mais Mu estava como Boa no Reclame Aqui nos últimos 6 meses, com nota 7,1 em 10. Nesse período, 92,7% das 109 reclamações foram respondidas, 76,5% foram resolvidas e 58,8% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos 12 meses, a reputação era Boa em outubro, com nota 7,2 e 98,3% das reclamações respondidas. Em outubro, a aba de 6 meses ainda estava Regular.",
-        "Na aba geral, as queixas mais citadas são produto não recebido e atraso na entrega, seguidas de produto com defeito. A loja é real e tem CNPJ ativo desde 2014. O que mudou foi a reputação recente, que voltou a Boa, e a entrega é onde ela ainda pesa. O perfil muda com o tempo, então confira de novo no dia da compra.",
+        "Nos últimos 6 meses, a Mais Mu tem reputação Boa no Reclame Aqui, com nota 7,1 em 10. Nesse período, 95,4% das 109 reclamações foram respondidas, 78,2% foram resolvidas e 56,4% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos 12 meses, a reputação também é Boa, com nota 7,4 e 98,3% das reclamações respondidas. O histórico do semestre passou por uma fase Regular, de julho a setembro, e voltou a Boa em outubro.",
+        "Na aba Geral, as queixas mais citadas são produto não recebido e entrega. A loja é real e tem CNPJ ativo. O que pesa na compra é a entrega e o tempo de resposta às reclamações, que nos 6 meses ficou perto de 26 dias. O perfil muda com o tempo, então confira de novo no dia da compra.",
         "Na prática, acompanhe o rastreio desde a postagem e guarde o número do pedido. Se o prazo estourar, é com esses dados que você abre o chamado. Os números completos, aba por aba, estão em [Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/mais-mu-reclame-aqui-nota-reputacao)."
-      ]
-    },
-    {
-      "heading": "Parceria e cupom",
-      "paragraphs": [
-        "O Em Casa com Cecília tem parceria com a Mais Mu e pode receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA. Veja [as regras e a validade do cupom da Mais Mu](/cupons/mais-mu).",
-        "O cupom dá 10% OFF em todo o site, para conta nova e antiga, com qualquer forma de pagamento. Ele soma com as promoções do site e com os 3% do Pix. Num carrinho com um whey e uma creatina em oferta, o cupom tirou R$ 23,99 do subtotal de R$ 239,89.",
-        "Para aplicar, clique em \"Iniciar compra\" no carrinho. No checkout, clique em \"Adicionar cupom de desconto\", cole o código e confira a linha \"Desconto do cupom\" no resumo antes de seguir para a entrega.",
-        "A loja não acumula cupons. O crédito do cashback e o desconto de boas-vindas contam como cupom e não somam com o nosso. O cashback é um programa da própria loja: compras acima de R$ 250 devolvem 5% como crédito para a próxima compra. Ele é da loja, não é vantagem do cupom.",
-        "O cupom não vale no Mercado Livre. Lá vale o preço do anúncio. Se preferir comprar por lá, use o [anúncio da Mais Mu no Mercado Livre](https://meli.la/24RjvdP).",
-        "Confira o valor final do frete no checkout, depois de aplicar o cupom. Para o passo a passo, veja [o artigo sobre como usar o cupom da Mais Mu](/reviews/cupom-mais-mu-como-usar). Para a Black Friday, veja [o guia da Mais Mu para a campanha](/reviews/black-friday-mais-mu)."
       ]
     },
     {
       "heading": "Vale a pena comprar no site da Mais Mu?",
       "paragraphs": [
-        "Do lado da empresa, a Mais Mu tem os dados que um comprador procura: razão social, CNPJ ativo, sede, site oficial identificado e regras de troca e reembolso publicadas. O ponto de atenção é a reputação no Reclame Aqui: em novembro, nos últimos 6 meses, a loja estava como Boa, depois de uma fase Regular, e a entrega segue como queixa principal.",
-        "Se você for comprar, confira o endereço e o CNPJ no rodapé, acompanhe o rastreio do pedido e guarde o número. Use o cupom pelo checkout do site oficial."
+        "A Mais Mu tem os dados que um comprador procura: razão social, CNPJ ativo, sede, site oficial identificado e regras de troca e reembolso publicadas. O ponto de atenção é a reputação recente no Reclame Aqui, que passou por uma fase Regular, e a entrega segue como queixa principal.",
+        "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O cupom dá 10% OFF em todo o site, em todas as formas de pagamento, para conta nova e antiga, e soma com os 3% do Pix.",
+        "A loja não acumula cupons: o crédito do cashback, programa da própria loja, não soma com o nosso. O cupom também não vale no [Mercado Livre da Mais Mu](https://meli.la/24RjvdP), onde vale o preço do anúncio. Confira o valor do frete no checkout, depois de aplicar o cupom. O passo a passo está em [como usar o cupom da Mais Mu](/reviews/cupom-mais-mu-como-usar), e a campanha atual, no [guia da Black Friday da Mais Mu](/reviews/black-friday-mais-mu)."
+      ],
+      "emphasis": "Para comprar com mais segurança, eu iria no site oficial, conferiria o CNPJ do rodapé e aplicaria o MMEMCASACOMCECILIA no checkout, guardando o número do pedido.",
+      "links": [
+        {
+          "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
+          "href": "https://www.lojamaismu.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Mais Mu",
+          "href": "/cupons/mais-mu"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Mais Mu é confiável? A loja é operada por empresa registrada, com CNPJ ativo desde 2014 e trocas publicadas no site. Em novembro, a reputação no Reclame Aqui era Boa nos últimos 6 meses, com nota 7,1, e a entrega era a principal queixa.",
+        "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento.",
+        "A Mais Mu é confiável? A loja é operada por empresa registrada, com CNPJ ativo e trocas publicadas no site. No Reclame Aqui, a reputação é Boa nos últimos 6 meses, com nota 7,1, e a entrega é a principal queixa.",
         "De qual empresa é a Mais Mu? A loja é operada pela MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S.A., nome que aparece na política de privacidade do site.",
-        "Qual é o CNPJ da Mais Mu? O CNPJ é 21.526.148/0001-34. Nos dados públicos da Receita Federal, ele aparece como ativo desde 2014.",
+        "Qual é o CNPJ da Mais Mu? O CNPJ é 21.526.148/0001-34, o mesmo do rodapé do site. Nos dados públicos da Receita Federal, ele aparece como ativo.",
         "O site da Mais Mu é o oficial e como conferir? O endereço oficial é lojamaismu.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública.",
         "A Mais Mu tem telefone de atendimento? Não. A loja não publica telefone no site. O contato é pelo formulário da página de contato ou pelo e-mail fala.ai@maismu.com.br, do rodapé.",
         "Quanto tempo tenho para trocar ou devolver um produto da Mais Mu? A compra pela internet tem 7 dias de arrependimento pela lei (CDC, art. 49), e a FAQ da loja não publica prazo próprio. Pela política de troca da loja, o produto precisa estar na embalagem original, fechado e sem sinais de uso; essa condição é da troca, não do prazo de arrependimento.",
-        "Quando o reembolso cai no Pix e no cartão? No Pix e no boleto, em até 7 dias úteis depois do envio dos dados bancários. No cartão, o estorno sai em até 48 horas úteis, creditado em até duas faturas.",
-        "A Mais Mu tem frete grátis? Sim. O frete era grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste. Abaixo disso, o frete é calculado no checkout.",
-        "Tem cupom de primeira compra na Mais Mu? O nosso cupom é o MMEMCASACOMCECILIA, com 10% OFF em todo o site, para conta nova e antiga. A loja não acumula cupons, então o cashback e o desconto de boas-vindas não somam com ele."
+        "Em quanto tempo sai o reembolso na Mais Mu? No Pix e no boleto, em até 7 dias úteis depois do envio dos dados bancários. No cartão, o estorno sai em até 48 horas úteis, creditado em até duas faturas.",
+        "A Mais Mu tem frete grátis? Sim, acima de um valor mínimo que muda por região: a faixa do site informa o valor para o Sul, Sudeste e Centro-Oeste e outro para as demais regiões. Abaixo disso, o frete é calculado no checkout."
       ]
     }
   ],
@@ -197,7 +199,7 @@
   },
   "coupon": "MMEMCASACOMCECILIA",
   "affiliate": "mais-mu",
-  "editorialNote": "Feito com fontes públicas, sem laudo nem teste dos produtos. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
+  "editorialNote": "Feito com fontes públicas, sem teste dos produtos. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "mais-mu-reclame-aqui-nota-reputacao"
@@ -208,5 +210,15 @@
     {
       "slug": "black-friday-mais-mu"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Compre se você confere o site oficial e o CNPJ do rodapé antes de pagar e quer regras de troca e reembolso publicadas.",
+      "Compre se uma reputação Boa no Reclame Aqui, com respostas quase sempre dadas, já é suficiente para você."
+    ],
+    "skipIf": [
+      "Passe se você precisa do pedido com prazo certo: a entrega é a principal queixa no perfil.",
+      "Passe se prefere comprar por telefone: a loja não publica telefone, só e-mail e formulário."
+    ]
+  }
 }

@@ -17,7 +17,7 @@
   "metaDescription": "Passo a passo para aplicar o MMEMCASACOMCECILIA no checkout da Mais Mu: 10% OFF em todo o site, soma com o Pix e não vale no Mercado Livre.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/mais-mu/cupom-mais-mu-como-usar-capa-v2.webp",
@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O [cupom Mais Mu](/cupons/mais-mu) é o MMEMCASACOMCECILIA e dá 10% OFF em todo o site oficial, na primeira compra e para quem já comprou, em qualquer forma de pagamento. Ele soma com as promoções e com o desconto do Pix, mas não vale no Mercado Livre. Veja nos capítulos abaixo o passo a passo e como conferir o desconto."
+        "O [cupom Mais Mu](/cupons/mais-mu) é o MMEMCASACOMCECILIA e dá 10% OFF em todo o site oficial, na primeira compra e para quem já comprou, em todas as formas de pagamento. Ele vale sobre os preços da Blue Friday e soma com o desconto do Pix, mas não vale no Mercado Livre. Os passos estão abaixo."
       ]
     },
     {
@@ -43,20 +43,15 @@
           "alt": "Embalagens da Mais Mu: Whey Isolado baunilha refil 900 g, Whey Protein baunilha pote 450 g e Proteína Vegetal chocolate com avelã",
           "caption": "Whey isolado, whey concentrado e proteína vegetal, nas fotos do site oficial da Mais Mu.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://www.lojamaismu.com.br/whey/"
         }
       ]
     },
     {
-      "heading": "1. Entre no site oficial pelo botão da parceria",
+      "heading": "1. Entre no site oficial e clique em \"Iniciar compra\"",
       "paragraphs": [
-        "Use o botão desta página para abrir o site oficial da Mais Mu. O cupom só funciona no site oficial. As condições atualizadas do código ficam na [página do cupom da Mais Mu](/cupons/mais-mu)."
-      ]
-    },
-    {
-      "heading": "2. Monte o carrinho e clique em \"Iniciar compra\"",
-      "paragraphs": [
-        "Escolha os produtos e abra o carrinho. Depois, clique em \"Iniciar compra\". É no checkout, depois desse passo, que entra o cupom."
+        "Use o botão desta página para abrir o site oficial da Mais Mu: o cupom só funciona nele. Escolha os produtos, abra o carrinho e clique em \"Iniciar compra\". É no checkout, depois desse passo, que entra o cupom. As condições atualizadas do código ficam na [página do cupom da Mais Mu](/cupons/mais-mu)."
       ],
       "images": [
         {
@@ -69,7 +64,7 @@
       ]
     },
     {
-      "heading": "3. Cole o código em \"Adicionar cupom de desconto\"",
+      "heading": "2. Cole o código em \"Adicionar cupom de desconto\"",
       "paragraphs": [
         "No resumo do pedido, ao lado do checkout, clique em \"Adicionar cupom de desconto\". Cole o código MMEMCASACOMCECILIA no campo \"Código do cupom\" e clique na seta. O código é longo: copie e cole, não digite."
       ],
@@ -84,7 +79,7 @@
       ]
     },
     {
-      "heading": "4. Confira o desconto no resumo antes de pagar",
+      "heading": "3. Confira o desconto no resumo antes de pagar",
       "paragraphs": [
         "Depois de aplicar, o resumo do pedido mostra a linha \"Desconto do cupom\" e o código embaixo. Se essa linha não aparecer, o cupom não entrou no pedido."
       ],
@@ -99,9 +94,9 @@
       ]
     },
     {
-      "heading": "O que aconteceu no teste do cupom",
+      "heading": "O que o cupom fez no nosso teste",
       "paragraphs": [
-        "Em 11/11/2026, refizemos o teste no checkout, sem finalizar a compra e sem dados pessoais. O carrinho tinha uma creatina refil de 500 g em oferta, de R$ 74,90 (antes, R$ 119,90), e dois wheys Paçoquita de 450 g, de R$ 135,99 cada (antes, R$ 159,99)."
+        "No teste mais recente, feito no checkout sem finalizar a compra e sem dados pessoais, o carrinho tinha o whey concentrado baunilha refil de 900 g (R$ 209,25), a creatina sem sabor refil de 500 g (R$ 74,90) e dois wheys Paçoquita de 450 g (R$ 271,98 os dois). Os preços são os do cartão na Blue Friday."
       ],
       "comparisonTable": {
         "headers": [
@@ -111,33 +106,36 @@
         "rows": [
           [
             "Subtotal antes do cupom",
-            "R$ 346,88"
+            "R$ 556,13"
           ],
           [
             "Desconto do cupom",
-            "- R$ 34,69"
+            "- R$ 55,61"
           ],
           [
             "Total depois do cupom",
-            "R$ 312,19"
+            "R$ 500,52"
           ]
         ]
       },
       "postParagraphs": [
-        "No teste, os 10% entraram sobre os preços de oferta dos três itens. As imagens do passo a passo são do primeiro teste, com outro carrinho. Confira a linha do desconto no seu carrinho."
+        "Os 10% entraram sobre os preços da campanha, e a creatina de 210 g que a loja dá de brinde na Blue Friday seguiu no pedido, sem custo. As imagens do passo a passo são de um teste anterior, com outro carrinho. Confira a linha do desconto no seu."
       ],
-      "image": {
-        "src": "/images/reviews/mais-mu/mais-mu-cupom-capa.webp",
-        "alt": "Whey Protein paçoquita pote 450 g e Creatina 100% Pura sem sabor refil 500 g da Mais Mu, os dois produtos do teste do cupom",
-        "caption": "Os dois produtos do teste: Whey Protein paçoquita 450 g e Creatina 100% Pura refil 500 g.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      }
+      "images": [
+        {
+          "src": "/images/reviews/mais-mu/mais-mu-ou-growth-creatina.webp",
+          "alt": "Creatina Mais Mu sem sabor, em pote de 200 g e em refil de 500 g, em foto oficial da marca",
+          "caption": "A creatina sem sabor da Mais Mu, em pote de 200 g e refil de 500 g, usada no teste.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778,
+          "href": "https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/"
+        }
+      ]
     },
     {
       "heading": "Frete grátis com o cupom",
       "paragraphs": [
-        "O frete grátis depende da região, e o cupom pode tirar o pedido do mínimo. Estes eram os valores na faixa do topo do site:"
+        "O frete grátis depende da região, e o cupom reduz o total do pedido. Estes são os valores da faixa do topo do site:"
       ],
       "comparisonTable": {
         "headers": [
@@ -156,44 +154,45 @@
         ]
       },
       "postParagraphs": [
-        "Abaixo desse valor, o frete é calculado no checkout. O cupom reduz o total, e isso pode fazer o pedido cair abaixo do mínimo da sua região. Não testamos esse caso com o cupom aplicado: se o seu pedido estiver perto do mínimo, confira o frete no checkout, depois de aplicar o código, antes de pagar."
+        "Abaixo desse valor, o frete é calculado no checkout. Se o seu pedido estiver perto do mínimo, confira o frete no checkout, depois de aplicar o código, antes de pagar."
       ]
     },
     {
-      "heading": "Pix, cartão e boleto",
+      "heading": "O que soma com o cupom e o que não soma",
       "paragraphs": [
-        "O cupom vale em todas as formas de pagamento da loja. No Pix, os 3% de desconto da própria loja entram junto: o cupom soma com eles."
-      ]
-    },
-    {
-      "heading": "Cashback e desconto de boas-vindas",
-      "paragraphs": [
-        "A loja tem um programa de cashback próprio: compras acima de R$ 250 devolvem 5% como crédito para a próxima compra. O crédito vale por 90 dias e pede um pedido mínimo a partir de R$ 200. O cashback é da loja, não uma vantagem do nosso cupom.",
-        "O crédito chega como código para o campo de cupom. Como a loja não acumula cupons, ele não soma com o MMEMCASACOMCECILIA: em cada pedido, vale um dos dois. O desconto de boas-vindas da loja também conta como cupom e não soma com o nosso."
-      ]
-    },
-    {
-      "heading": "Mercado Livre",
-      "paragraphs": [
-        "O cupom não vale no Mercado Livre. Lá vale o preço do anúncio, sem o cupom. Para ver a marca no Mercado Livre, use o [link da marca no Mercado Livre](https://meli.la/24RjvdP), e compare o preço do anúncio com o do site oficial."
+        "O cupom vale em todas as formas de pagamento da loja. No Pix, os 3% de desconto da própria loja entram junto: o cupom soma com eles.",
+        "A loja tem um programa de cashback próprio, e o crédito dele chega como código para o campo de cupom. Como a loja não acumula cupons, ele não soma com o MMEMCASACOMCECILIA: em cada pedido, vale um dos dois. O desconto de boas-vindas da loja também conta como cupom. O cashback é da loja, não uma vantagem do nosso cupom.",
+        "O cupom não vale no Mercado Livre, onde vale o preço do anúncio. Para ver a marca por lá, use o [link da marca no Mercado Livre](https://meli.la/24RjvdP) e compare o preço do anúncio com o do site oficial."
       ]
     },
     {
       "heading": "Vale a pena usar o cupom?",
+      "emphasis": "Para comprar na Mais Mu gastando menos, eu iria no site oficial, aplicaria o MMEMCASACOMCECILIA no checkout e conferiria a linha Desconto do cupom antes de pagar.",
       "paragraphs": [
-        "Se você já ia comprar na Mais Mu, o cupom vale: 10% em todo o site, em todas as formas de pagamento, e soma com o Pix. Antes de pagar, confira a linha do desconto no resumo e, se o pedido estiver perto do mínimo do frete grátis da sua região, o total depois do cupom.",
-        "Antes de comprar, leia também [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel) e [o que os números do Reclame Aqui mostram](/reviews/mais-mu-reclame-aqui-nota-reputacao)."
+        "Se você já ia comprar na Mais Mu, o cupom vale: 10% em todo o site, em todas as formas de pagamento, sobre os preços da campanha, e soma com o Pix. Antes de pagar, confira a linha do desconto e, se o pedido estiver perto do mínimo do frete grátis da sua região, o total depois do cupom.",
+        "Quer escolher o que levar para o carrinho? Veja o [guia da Black Friday da Mais Mu](/reviews/black-friday-mais-mu) e a análise [Mais Mu é boa?](/reviews/mais-mu-e-boa)."
+      ],
+      "links": [
+        {
+          "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
+          "href": "https://www.lojamaismu.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Mais Mu",
+          "href": "/cupons/mais-mu"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da Mais Mu? O cupom é MMEMCASACOMCECILIA, com 10% OFF em todo o site oficial, lojamaismu.com.br.",
+        "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento.",
         "O cupom da Mais Mu vale na primeira compra? Sim. Ele vale na primeira compra e também para quem já comprou. O desconto de boas-vindas da loja não soma com ele.",
         "O cupom vale em todas as formas de pagamento? Sim. Ele vale em todas as formas de pagamento da loja e soma com os 3% de desconto do Pix.",
-        "O cupom soma com produto em promoção? Sim. No teste no carrinho, os 10% entraram também na creatina que já estava em oferta.",
+        "O cupom soma com produto em promoção? Sim. No nosso teste, os 10% entraram sobre os preços da Blue Friday.",
         "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial. No Mercado Livre, vale o preço do anúncio.",
-        "O cupom da Mais Mu dá frete grátis? Não necessariamente. O frete grátis depende do valor do pedido e da região: acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste. Se o cupom deixar o total abaixo do mínimo, o frete pode ser cobrado.",
+        "O cupom da Mais Mu dá frete grátis? Não necessariamente. O frete grátis depende do valor do pedido e da região, e o cupom reduz o total. Confira o frete no checkout, depois de aplicar o código.",
         "Dá para usar o cashback junto com o cupom? Não. A loja não acumula cupons, e o crédito do cashback entra como cupom.",
         "Onde coloco o cupom na Mais Mu? No checkout, em \"Adicionar cupom de desconto\", depois de clicar em \"Iniciar compra\" no carrinho."
       ]
@@ -209,16 +208,29 @@
   },
   "coupon": "MMEMCASACOMCECILIA",
   "affiliate": "mais-mu",
-  "editorialNote": "Cupom testado no checkout oficial. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
+  "editorialNote": "Cupom testado no checkout oficial. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
-      "slug": "mais-mu-e-confiavel"
-    },
-    {
-      "slug": "mais-mu-reclame-aqui-nota-reputacao"
-    },
-    {
       "slug": "black-friday-mais-mu"
+    },
+    {
+      "slug": "mais-mu-e-boa"
+    },
+    {
+      "slug": "cupom-mais-mu-primeira-compra"
+    },
+    {
+      "slug": "whey-mais-mu-qual-escolher"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Aplique o cupom se você vai comprar no site oficial e quer 10% sobre os preços da campanha, no Pix ou em qualquer forma de pagamento.",
+      "Aplique se o seu pedido fica acima do mínimo de frete grátis da região mesmo depois do desconto."
+    ],
+    "skipIf": [
+      "Passe se você tem crédito de cashback para usar: em cada pedido vale só um cupom.",
+      "Passe se prefere comprar no Mercado Livre: lá o cupom não vale."
+    ]
+  }
 }

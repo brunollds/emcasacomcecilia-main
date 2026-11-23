@@ -17,6 +17,7 @@
   "metaDescription": "O cupom CECILIA dá 10% OFF também nos kits La Ganexa. Veja a conta de kit contra pote avulso nos mais vendidos e onde o kit não compensa.",
   "publishedAt": "15 de novembro de 2026",
   "publishedAtISO": "2026-11-15",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/laganexa/kit-la-ganexa-ou-avulso-qual-sai-mais-barato-capa-v2.webp",
@@ -43,16 +44,13 @@
   },
   "coupon": "CECILIA",
   "affiliate": "la-ganexa",
-  "editorialNote": "Feito com os preços das páginas e o cupom testado no carrinho da La Ganexa. Ninguém da equipe usou os produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Preços das páginas, cupom testado. Não usamos os produtos. Podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "cupom-la-ganexa-como-usar"
     },
     {
       "slug": "la-ganexa-e-boa"
-    },
-    {
-      "slug": "cupom-la-ganexa-primeira-compra"
     },
     {
       "slug": "black-friday-la-ganexa"
@@ -71,11 +69,11 @@
     {
       "heading": "O cupom CECILIA vale em kit?",
       "paragraphs": [
-        "No carrinho, sim: o CECILIA tirou 10% de todos os kits que testamos, um por vez. O [cupom La Ganexa](/cupons/la-ganexa) também entrou nos itens avulsos, então ele não muda quem ganha a comparação: o kit e o avulso caem na mesma proporção.",
-        "A loja escreve outra coisa sobre dois kits. A página de regras das promoções diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiros de Colher não acumulam com cupom, e a página do Kit 2 Brigadeiro repete que o desconto já está aplicado. No nosso carrinho, o cupom entrou nos dois mesmo assim. Como a regra escrita e o carrinho não dizem a mesma coisa, confira a linha de desconto antes de pagar."
+        "Vale. No checkout seguro da loja, o [cupom La Ganexa](/cupons/la-ganexa) foi aceito nos dois kits que a página de regras diz não acumularem com cupom: o Kit 2 Brigadeiro de Colher foi de R$ 83,99 para R$ 75,59, e o Kit 2 Doce de Leite, de R$ 127,99 para R$ 115,19. O desconto é de 10% nos kits e nos avulsos, então o cupom não muda quem ganha a comparação: kit e avulso caem na mesma proporção.",
+        "A regra escrita e o checkout não dizem a mesma coisa: a página de regras das promoções diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiro de Colher não acumulam com cupom, e a página do Kit 2 Brigadeiro repete que o desconto já está aplicado. Confira a linha de descontos antes de pagar."
       ],
       "comparisonTable": {
-        "caption": "Preços das páginas da La Ganexa em 15/11/2026, com o Esquenta Black Friday no ar, sem frete. Valores com o CECILIA lidos no carrinho, um kit por vez. Confira o total final antes de pagar.",
+        "caption": "Preços das páginas da La Ganexa em 23/11/2026, com o Esquenta Black Friday no ar, sem frete. O Kit 2 Brigadeiro e o Kit 2 Doce de Leite com o CECILIA foram lidos no checkout; nos demais, 10% sobre o preço da página.",
         "headers": [
           "Kit",
           "Preço da página",
@@ -83,60 +81,60 @@
         ],
         "rows": [
           [
-            "Kit 2 Brigadeiro de Colher 250 g",
+            "[Kit 2 Brigadeiro de Colher 250 g](https://lojalaganexa.com.br/products/kit-2-brigadeiro-de-colher-250g)",
             "R$ 83,99",
-            "R$ 75,60"
+            "R$ 75,59"
           ],
           [
-            "Kit 4 Brigadeiro de Colher 250 g",
+            "[Kit 4 Brigadeiro de Colher 250 g](https://lojalaganexa.com.br/products/kit-4-brigadeiro-de-colher-250g)",
             "R$ 144,99",
-            "R$ 130,50"
+            "R$ 130,49"
           ],
           [
-            "Kit 2 Doce de Leite Zero 400 g",
+            "[Kit 2 Doce de Leite Zero 400 g](https://lojalaganexa.com.br/products/kit-2-doce-de-leite-zero-400g)",
             "R$ 127,99",
-            "R$ 115,20"
+            "R$ 115,19"
           ],
           [
-            "Kit 2 Pastas sabor Leitinho 450 g",
+            "[Kit 2 Pastas sabor Leitinho 450 g](https://lojalaganexa.com.br/products/kit-2-pastas-sabor-leitinho-450g)",
             "R$ 102,99",
-            "R$ 92,70"
+            "R$ 92,69"
           ],
           [
-            "Kit 10 Suspiros sabor Tradicional",
+            "[Kit 10 Suspiros sabor Tradicional](https://lojalaganexa.com.br/products/kit-10-suspiros-sabor-tradicional-30g)",
             "R$ 99,90",
             "R$ 89,91"
           ],
           [
-            "Kit 3 Alfajores sabor Leitinho",
+            "[Kit 3 Alfajores sabor Leitinho](https://lojalaganexa.com.br/products/kit-3-alfajores-sabor-leitinho)",
             "R$ 35,99",
-            "R$ 32,40"
+            "R$ 32,39"
           ],
           [
-            "Kit Degustação de Alfajores",
+            "[Kit Degustação de Alfajores](https://lojalaganexa.com.br/products/kit-alfajor-todos-sabores-50g)",
             "R$ 79,50",
             "R$ 71,55"
           ],
           [
-            "Kit Degustação Xagadinho",
+            "[Kit Degustação Xagadinho](https://lojalaganexa.com.br/products/kit-degustacao-1-xagadinho-pizza-e-1-xagadinho-cebola-e-salsa)",
             "R$ 24,90",
             "R$ 22,41"
           ],
           [
-            "Kit Degustação Cookies",
+            "[Kit Degustação Cookies](https://lojalaganexa.com.br/products/kit-degustacao-biscoito-de-cacau-e-de-baunilha)",
             "R$ 36,28",
-            "R$ 32,66"
+            "R$ 32,65"
           ],
           [
-            "Kit Degustação Pasta de Amendoim",
+            "[Kit Degustação Pasta de Amendoim](https://lojalaganexa.com.br/products/kit-degustacao-com-6-pastas-de-150g-un-1-leitinho-1-pistache-1-caramelo-1-creme-de-avela-1-chocrante-e-1-cookies)",
             "R$ 139,99",
-            "R$ 126,00"
+            "R$ 125,99"
           ]
         ]
       },
       "postParagraphs": [
         "Os kits acima são os mais vendidos na ordenação da própria loja, mais dois kits dos mesmos tipos de produto. A comparação é uma amostra, não o catálogo inteiro. O passo a passo do código está em [como usar o cupom da La Ganexa](/reviews/cupom-la-ganexa-como-usar).",
-        "Conta nossa: nas opções avulsas que não passaram pelo carrinho, o valor com o cupom nas tabelas abaixo é o preço da página menos 10%, com o desconto arredondado para baixo, como o carrinho fez nos kits, nos dois Brigadeiros de Colher avulsos e no suspiro de seis unidades."
+        "Conta nossa: nos kits que não passaram pelo checkout e nos avulsos das tabelas abaixo, o valor com o cupom é o preço da página menos 10%, com o desconto arredondado ao centavo, como o checkout fez nos dois kits testados. No pedido final, a diferença pode ser de 1 centavo."
       ]
     },
     {
@@ -154,27 +152,27 @@
         ],
         "rows": [
           [
-            "Kit 2 Brigadeiro de Colher 250 g",
-            "R$ 75,60",
-            "R$ 80,99",
+            "[Kit 2 Brigadeiro de Colher 250 g](https://lojalaganexa.com.br/products/kit-2-brigadeiro-de-colher-250g)",
+            "R$ 75,59",
+            "R$ 80,98",
             "R$ 5,39"
           ],
           [
-            "Kit 4 Brigadeiro de Colher 250 g",
-            "R$ 130,50",
-            "R$ 161,97",
+            "[Kit 4 Brigadeiro de Colher 250 g](https://lojalaganexa.com.br/products/kit-4-brigadeiro-de-colher-250g)",
+            "R$ 130,49",
+            "R$ 161,96",
             "R$ 31,47"
           ],
           [
-            "Kit 2 Doce de Leite Zero 400 g",
-            "R$ 115,20",
-            "R$ 125,99",
+            "[Kit 2 Doce de Leite Zero 400 g](https://lojalaganexa.com.br/products/kit-2-doce-de-leite-zero-400g)",
+            "R$ 115,19",
+            "R$ 125,98",
             "R$ 10,79"
           ],
           [
-            "Kit 2 Pastas sabor Leitinho 450 g",
-            "R$ 92,70",
-            "R$ 107,99",
+            "[Kit 2 Pastas sabor Leitinho 450 g](https://lojalaganexa.com.br/products/kit-2-pastas-sabor-leitinho-450g)",
+            "R$ 92,69",
+            "R$ 107,98",
             "R$ 15,29"
           ]
         ]
@@ -184,7 +182,8 @@
           "src": "/images/reviews/laganexa/kit-la-ganexa-kit-2-brigadeiro-de-colher.webp",
           "alt": "Dois potes de Brigadeiro de Colher da La Ganexa lado a lado, em imagem oficial da loja",
           "caption": "Kit 2 Brigadeiro de Colher 250 g. Imagem: La Ganexa.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://lojalaganexa.com.br/products/kit-2-brigadeiro-de-colher-250g"
         }
       ]
     },
@@ -203,43 +202,43 @@
         ],
         "rows": [
           [
-            "Suspiro, 1 unidade",
+            "[Suspiro, 1 unidade](https://lojalaganexa.com.br/products/suspiro-proteico-sabor-tradicional-30g-un-la-ganexa)",
             "R$ 15,99",
             "R$ 15,99",
-            "R$ 14,40"
+            "R$ 14,39"
           ],
           [
-            "Suspiro, opção de 3 unidades",
+            "[Suspiro, opção de 3 unidades](https://lojalaganexa.com.br/products/suspiro-proteico-sabor-tradicional-30g-un-la-ganexa)",
             "R$ 44,37",
             "R$ 14,79",
-            "R$ 39,94"
+            "R$ 39,93"
           ],
           [
-            "Kit 3 Suspiros",
+            "[Kit 3 Suspiros](https://lojalaganexa.com.br/products/kit-3-suspiros-sabor-tradicional-1)",
             "R$ 44,37",
             "R$ 14,79",
-            "R$ 39,94"
+            "R$ 39,93"
           ],
           [
-            "Suspiro, opção de 6 unidades",
+            "[Suspiro, opção de 6 unidades](https://lojalaganexa.com.br/products/suspiro-proteico-sabor-tradicional-30g-un-la-ganexa)",
             "R$ 77,94",
             "R$ 12,99",
             "R$ 70,15"
           ],
           [
-            "Suspiro, opção de 8 unidades",
+            "[Suspiro, opção de 8 unidades](https://lojalaganexa.com.br/products/suspiro-proteico-sabor-tradicional-30g-un-la-ganexa)",
             "R$ 91,92",
             "R$ 11,49",
             "R$ 82,73"
           ],
           [
-            "Suspiro, opção de 10 unidades",
+            "[Suspiro, opção de 10 unidades](https://lojalaganexa.com.br/products/suspiro-proteico-sabor-tradicional-30g-un-la-ganexa)",
             "R$ 99,90",
             "R$ 9,99",
             "R$ 89,91"
           ],
           [
-            "Kit 10 Suspiros",
+            "[Kit 10 Suspiros](https://lojalaganexa.com.br/products/kit-10-suspiros-sabor-tradicional-30g)",
             "R$ 99,90",
             "R$ 9,99",
             "R$ 89,91"
@@ -254,7 +253,8 @@
           "src": "/images/reviews/laganexa/kit-la-ganexa-kit-10-suspiros-tradicional.webp",
           "alt": "Pacotes de suspiro sabor Tradicional da La Ganexa com suspiros à frente, em imagem oficial da loja",
           "caption": "Kit 10 Suspiros sabor Tradicional. Imagem: La Ganexa.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://lojalaganexa.com.br/products/kit-10-suspiros-sabor-tradicional-30g"
         }
       ]
     },
@@ -282,13 +282,13 @@
             "Alfajor Leitinho, opção de 2 unidades",
             "R$ 28,78",
             "R$ 14,39",
-            "R$ 25,91"
+            "R$ 25,90"
           ],
           [
-            "Kit 3 Alfajores sabor Leitinho",
+            "[Kit 3 Alfajores sabor Leitinho](https://lojalaganexa.com.br/products/kit-3-alfajores-sabor-leitinho)",
             "R$ 35,99",
             "R$ 12,00",
-            "R$ 32,40"
+            "R$ 32,39"
           ],
           [
             "Alfajor Leitinho, opção de 6 unidades",
@@ -300,7 +300,7 @@
             "Alfajor Leitinho, opção de 12 unidades",
             "R$ 136,99",
             "R$ 11,42",
-            "R$ 123,30"
+            "R$ 123,29"
           ]
         ]
       },
@@ -323,21 +323,21 @@
         ],
         "rows": [
           [
-            "Kit Degustação de Alfajores, 6 sabores",
+            "[Kit Degustação de Alfajores, 6 sabores](https://lojalaganexa.com.br/products/kit-alfajor-todos-sabores-50g)",
             "R$ 71,55",
-            "R$ 86,39",
-            "R$ 14,84"
+            "R$ 86,38",
+            "R$ 14,83"
           ],
           [
-            "Kit Degustação Xagadinho, 2 pacotes de 45 g",
+            "[Kit Degustação Xagadinho, 2 pacotes de 45 g](https://lojalaganexa.com.br/products/kit-degustacao-1-xagadinho-pizza-e-1-xagadinho-cebola-e-salsa)",
             "R$ 22,41",
             "R$ 28,62",
             "R$ 6,21"
           ],
           [
-            "Kit Degustação Cookies, 2 caixas de 50 g",
-            "R$ 32,66",
-            "R$ 32,66",
+            "[Kit Degustação Cookies, 2 caixas de 50 g](https://lojalaganexa.com.br/products/kit-degustacao-biscoito-de-cacau-e-de-baunilha)",
+            "R$ 32,65",
+            "R$ 32,65",
             "Empate"
           ]
         ]
@@ -347,7 +347,8 @@
           "src": "/images/reviews/laganexa/kit-la-ganexa-degustacao-alfajores.webp",
           "alt": "Seis alfajores da La Ganexa de sabores diferentes sobre uma mesa, em imagem oficial da loja",
           "caption": "Kit Degustação de Alfajores, com seis sabores. Imagem: La Ganexa.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://lojalaganexa.com.br/products/kit-alfajor-todos-sabores-50g"
         }
       ]
     },
@@ -362,25 +363,53 @@
           "src": "/images/reviews/laganexa/kit-la-ganexa-degustacao-pasta-6-sabores.webp",
           "alt": "Seis potes pequenos de pasta de amendoim da La Ganexa empilhados em duas fileiras, em imagem oficial da loja",
           "caption": "Kit Degustação Pasta de Amendoim, com seis potes de 150 g. Imagem: La Ganexa.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://lojalaganexa.com.br/products/kit-degustacao-com-6-pastas-de-150g-un-1-leitinho-1-pistache-1-caramelo-1-creme-de-avela-1-chocrante-e-1-cookies"
         }
       ]
     },
     {
       "heading": "Brinde e frete grátis: os mínimos contam depois do cupom",
       "paragraphs": [
-        "A loja informa: o brinde vem, por tempo limitado, em pedidos acima de R$ 180, e o frete grátis, acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões. Os dois mínimos contam depois do cupom. No carrinho com o Kit 2 Brigadeiro e o CECILIA, o aviso mostrava quanto faltava para o brinde a partir do valor já com o desconto.",
-        "O Kit 4 Brigadeiro de Colher mais um pote avulso fica em R$ 170,99 com o CECILIA, abaixo do mínimo do brinde. Os mesmos cinco potes comprados avulsos ficam em R$ 202,46: R$ 31,47 a mais, antes do frete. São valores calculados com o cupom. Pela regra anunciada, a segunda opção ultrapassaria o mínimo do brinde; confirme a disponibilidade do presente e o total com entrega no carrinho antes de escolher. A loja não oferece desconto extra no Pix."
+        "A loja informa: o brinde vem, por tempo limitado, em pedidos acima de R$ 180, e o frete grátis, acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões. Os dois mínimos contam depois do cupom. No checkout, com o Kit 2 Brigadeiro já a R$ 75,59, o aviso dizia “Adicione R$ 104,41 e ganhe um brinde”: a conta parte do valor com o desconto.",
+        "O Kit 4 Brigadeiro de Colher mais um pote avulso fica em R$ 170,98 com o CECILIA, abaixo do mínimo do brinde. Os mesmos cinco potes comprados avulsos ficam em R$ 202,45: R$ 31,47 a mais, antes do frete. São valores calculados com o cupom. Pela regra anunciada, a segunda opção ultrapassaria o mínimo do brinde; confirme a disponibilidade do presente e o total com entrega no carrinho antes de escolher. A loja não oferece desconto extra no Pix."
+      ]
+    },
+    {
+      "heading": "Qual kit da La Ganexa vale mais a pena?",
+      "paragraphs": [
+        "O kit só compensa quando junta potes iguais ou itens que a página não vende em opção de quantidade. Pelas contas acima:"
       ],
-      "emphasis": "Antes de pagar, olhe duas linhas do carrinho: a do desconto do cupom e o aviso de quanto falta para o brinde."
+      "bullets": [
+        "**Potes iguais:** o [Kit 4 Brigadeiro de Colher 250 g](https://lojalaganexa.com.br/products/kit-4-brigadeiro-de-colher-250g) é o que mais economiza, R$ 31,47 sobre os quatro potes avulsos; o [Kit 2 Pastas sabor Leitinho 450 g](https://lojalaganexa.com.br/products/kit-2-pastas-sabor-leitinho-450g) poupa R$ 15,29.",
+        "**Provar sabores:** o [Kit Degustação de Alfajores](https://lojalaganexa.com.br/products/kit-alfajor-todos-sabores-50g) economiza R$ 14,83 sobre os seis alfajores avulsos, e o [Kit Degustação Xagadinho](https://lojalaganexa.com.br/products/kit-degustacao-1-xagadinho-pizza-e-1-xagadinho-cebola-e-salsa), R$ 6,21.",
+        "**Suspiros e cookies:** o kit custa o mesmo que a opção de mesma quantidade; compre por onde a página do sabor oferecer.",
+        "**Pasta de amendoim:** o [Kit Degustação Pasta de Amendoim](https://lojalaganexa.com.br/products/kit-degustacao-com-6-pastas-de-150g-un-1-leitinho-1-pistache-1-caramelo-1-creme-de-avela-1-chocrante-e-1-cookies) custa mais por 100 g que os potes de 450 g de Leitinho, Cookies e Chocolate ao Leite Crocante, e serve para provar seis sabores."
+      ],
+      "postParagraphs": [
+        "Para pagar com o CECILIA, monte o carrinho no site, clique em Finalizar a compra e, no checkout seguro da loja (seguro.lojalaganexa.com.br), toque em Inserir cupom de desconto, digite CECILIA e confira a linha Descontos."
+      ],
+      "emphasis": "Para gastar menos, eu compraria o Kit 4 Brigadeiro de Colher, que economiza R$ 31,47 sobre os quatro potes avulsos; nos suspiros e nos cookies, eu compraria só a quantidade de que preciso, sem esperar vantagem do kit.",
+      "links": [
+        {
+          "label": "Ir para a La Ganexa com o CECILIA",
+          "href": "https://lojalaganexa.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom La Ganexa",
+          "href": "/cupons/la-ganexa"
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O cupom CECILIA funciona em kit da La Ganexa? No carrinho, o CECILIA tirou 10% dos kits que testamos, inclusive dos dois kits que a regra da loja deixa fora da soma com cupom. Confira a linha de desconto antes de pagar.",
+        "Qual é o cupom da La Ganexa? O cupom da La Ganexa da nossa parceria é CECILIA, com 10% OFF no site oficial da loja, em todas as formas de pagamento. Vale nos kits e nos avulsos.",
+        "O cupom CECILIA funciona em kit da La Ganexa? No checkout, o CECILIA foi aceito nos dois kits que a regra da loja deixa fora da soma com cupom, o Kit 2 Brigadeiro de Colher e o Kit 2 Doce de Leite. Confira a linha de desconto antes de pagar.",
         "Kit ou avulso: qual compensa na La Ganexa? Nos kits de potes iguais e nos de alfajores, o kit saiu mais barato. Nos suspiros e nos cookies, o kit custa o mesmo que a opção avulsa de mesma quantidade.",
         "O kit degustação de pasta de amendoim vale a pena? Por grama, ele custa mais que a maioria dos potes de 450 g da loja. Vale para provar seis sabores antes de escolher um pote grande.",
-        "A La Ganexa dá desconto no Pix? Não: a loja não dá desconto extra no Pix. O cupom CECILIA vale em todas as formas de pagamento.",
+        "A La Ganexa dá desconto no Pix? Não: a loja não dá desconto extra no Pix, e o cupom vale em todas as formas de pagamento.",
         "O kit conta para o frete grátis? O mínimo do frete grátis conta depois do cupom, e a loja informa que alguns kits não participam. Confira o frete no carrinho com o seu CEP."
       ]
     }

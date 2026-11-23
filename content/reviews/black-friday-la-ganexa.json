@@ -16,6 +16,7 @@
   },
   "publishedAt": "13 de novembro de 2026",
   "publishedAtISO": "2026-11-13",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -43,7 +44,7 @@
     "url": "https://lojalaganexa.com.br/",
     "sponsored": true
   },
-  "editorialNote": "Preços lidos no site da La Ganexa e cupom testado no checkout. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Preços lidos no site. Não usamos os produtos. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "cupom-la-ganexa-como-usar"
@@ -52,17 +53,17 @@
       "slug": "cupom-la-ganexa-primeira-compra"
     },
     {
-      "slug": "la-ganexa-e-confiavel"
+      "slug": "kit-la-ganexa-ou-avulso-qual-sai-mais-barato"
     },
     {
-      "slug": "la-ganexa-reclame-aqui-nota-reputacao"
+      "slug": "la-ganexa-e-boa"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Esquenta Black Friday da La Ganexa já está no site, sem data de fim publicada. Nos produtos em promoção que testamos, o CECILIA deu mais 10% de desconto. A loja diz que dois kits não acumulam com cupom, e o mínimo do frete grátis conta depois do cupom."
+        "O Esquenta Black Friday da La Ganexa está no site, sem data de fim publicada. Nos produtos em promoção que testamos, o CECILIA deu mais 10% de desconto, e o checkout aceitou o código até nos dois kits que a loja diz não acumularem com cupom. O mínimo do frete grátis conta depois do cupom."
       ]
     },
     {
@@ -76,7 +77,7 @@
       "heading": "O cupom soma com o preço da campanha, com regra própria nos kits",
       "paragraphs": [
         "Nos produtos testados, o CECILIA soma com o preço promocional e dá 10% OFF. No teste da página do [cupom La Ganexa](/cupons/la-ganexa), em 13 de novembro de 2026, um carrinho de quatro itens com preço promocional caiu de R$ 264,40 para R$ 237,96.",
-        "A loja informa que o Kit 2 Doce de Leite e o Kit 2 Brigadeiros de Colher não acumulam com cupom. No mesmo dia, o checkout aceitou o CECILIA no Kit 2 Doce de Leite, de R$ 127,99 por R$ 115,19; o Kit 2 Brigadeiros não foi testado. Confira a linha de descontos antes de pagar. O passo a passo está em [como usar o cupom CECILIA na La Ganexa](/reviews/cupom-la-ganexa-como-usar)."
+        "A loja informa que o Kit 2 Doce de Leite e o Kit 2 Brigadeiro de Colher não acumulam com cupom. No nosso teste, o checkout aceitou o CECILIA nos dois: o Kit 2 Doce de Leite foi de R$ 127,99 para R$ 115,19, e o Kit 2 Brigadeiro, de R$ 83,99 para R$ 75,59. Confira a linha de descontos antes de pagar. O passo a passo está em [como usar o cupom CECILIA na La Ganexa](/reviews/cupom-la-ganexa-como-usar)."
       ]
     },
     {
@@ -85,7 +86,7 @@
         "A última coluna mostra cada preço com 10% a menos. A pasta de 1 kg não estava no carrinho do teste: nela, confira o desconto no checkout."
       ],
       "comparisonTable": {
-        "caption": "Preços lidos no site da La Ganexa em 13/11/2026, com o Esquenta no ar. A última coluna tira 10% do preço, pela nossa conta; os quatro primeiros itens formaram o carrinho do teste.",
+        "caption": "Preços lidos no site da La Ganexa em 23/11/2026, com o Esquenta no ar. A última coluna tira 10% do preço, pela nossa conta; os quatro primeiros itens formaram o carrinho do teste.",
         "headers": [
           "Produto",
           "Preço lido",
@@ -93,34 +94,34 @@
         ],
         "rows": [
           [
-            "Cookies Cacau com Gotas de Chocolate 50 g",
+            "[Cookies Cacau com Gotas de Chocolate 50 g](https://lojalaganexa.com.br/products/biscoito-de-cacau-com-gotas-sabor-chocolate-meio-amargo)",
             "R$ 18,14",
             "R$ 16,33"
           ],
           [
-            "Kit Degustação Pasta de Amendoim, 6 sabores de 150 g",
+            "[Kit Degustação Pasta de Amendoim, 6 sabores de 150 g](https://lojalaganexa.com.br/products/kit-degustacao-com-6-pastas-de-150g-un-1-leitinho-1-pistache-1-caramelo-1-creme-de-avela-1-chocrante-e-1-cookies)",
             "R$ 139,99",
             "R$ 125,99"
           ],
           [
-            "Kit Degustação Cookies de Cacau e de Baunilha, 2 caixas de 50 g",
+            "[Kit Degustação Cookies de Cacau e de Baunilha, 2 caixas de 50 g](https://lojalaganexa.com.br/products/kit-degustacao-biscoito-de-cacau-e-de-baunilha)",
             "R$ 36,28",
             "R$ 32,65"
           ],
           [
-            "Doce de Leite Zero 400 g",
+            "[Doce de Leite Zero 400 g](https://lojalaganexa.com.br/products/doce-de-leite-zero-400g)",
             "R$ 69,99",
             "R$ 62,99"
           ],
           [
-            "Pasta sabor Natural 1 kg",
+            "[Pasta sabor Natural 1 kg](https://lojalaganexa.com.br/products/pasta-sabor-natural)",
             "R$ 59,99",
             "R$ 53,99"
           ]
         ]
       },
       "postParagraphs": [
-        "A tabela não traz o preço riscado da loja: mostra o preço lido no dia, e não um histórico. No [Reclame Aqui da marca](/reviews/la-ganexa-reclame-aqui-nota-reputacao), uma reclamação questiona o preço “de” de uma oferta de Black Friday. Para saber se uma oferta baixou, compare o preço da página com o da tabela, ou com o que você pagou da última vez.",
+        "A tabela não traz o preço riscado da loja: mostra o preço lido no dia, e não um histórico. Para saber se uma oferta baixou, compare o preço da página com o da tabela, ou com o que você pagou da última vez.",
         "Os preços mudam durante a campanha, e um item pode esgotar. Antes de comprar, confira o preço na página do produto."
       ],
       "images": [
@@ -160,7 +161,7 @@
         "O frete grátis vale acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões, e o mínimo conta depois do cupom. Por exemplo: um carrinho de R$ 270 no Sudeste cai para R$ 243 com o código e fica sem o frete grátis. Aplique o código, informe o CEP e confira o frete antes de pagar. Pela regra da loja, o Kit 2 Doce de Leite não conta para o mínimo.",
         "Nas compras acima de R$ 180, a loja manda um brinde surpresa, por tempo limitado ou enquanto durarem os estoques. Esse valor também é contado depois de descontos e cupons.",
         "Pela política de frete, o pedido sai em até 24 horas úteis depois da confirmação do pagamento, e a entrega leva em média de 2 a 5 dias úteis depois da postagem. A mesma política avisa que o prazo pode se estender em períodos de grande demanda.",
-        "No pagamento, Pix ou cartão, em até 3 vezes sem juros; de 4 a 12 vezes, com juros da operadora. O Pix não dá desconto a mais, e o cupom vale nas duas formas."
+        "O cupom vale em todas as formas de pagamento. O Pix não dá desconto a mais; no cartão, são até 3 vezes sem juros e, de 4 a 12 vezes, com juros da operadora."
       ]
     },
     {
@@ -176,16 +177,36 @@
         "Depois que o produto chega à loja, a análise leva até 15 dias úteis, e a restituição sai pela forma de pagamento ou em vale-troca."
       ],
       "postParagraphs": [
-        "Confira a caixa no dia da entrega, porque o aviso de avaria tem prazo de 48 horas. Se a embalagem chegar avariada, a loja orienta não abrir, tirar fotos e enviar ao atendimento. Guarde o número do pedido; a política completa está em [La Ganexa é confiável?](/reviews/la-ganexa-e-confiavel)."
+        "Confira a caixa no dia da entrega, porque o aviso de avaria tem prazo de 48 horas. Se a embalagem chegar avariada, a loja orienta não abrir, tirar fotos e enviar ao atendimento. Guarde o número do pedido."
+      ]
+    },
+    {
+      "heading": "Vale comprar na La Ganexa na Black Friday?",
+      "paragraphs": [
+        "Vale quando o produto já estava na sua lista e o carrinho passa do mínimo do frete grátis ou do brinde já com o cupom. Se a compra é só pelo selo de desconto, compare o preço da página com o de outro dia antes de decidir.",
+        "Para pagar com o CECILIA, monte o carrinho no site, clique em Finalizar a compra e, no checkout seguro da loja (seguro.lojalaganexa.com.br), toque em Inserir cupom de desconto, digite CECILIA e confira a linha Descontos."
+      ],
+      "emphasis": "Eu compraria no Esquenta o que já estava na lista, depois de aplicar o CECILIA e conferir se o carrinho ainda passa do mínimo do frete grátis da minha região.",
+      "links": [
+        {
+          "label": "Ir para a La Ganexa com o CECILIA",
+          "href": "https://lojalaganexa.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom La Ganexa",
+          "href": "/cupons/la-ganexa"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "Qual é o cupom da La Ganexa? O cupom da La Ganexa da nossa parceria é CECILIA, com 10% OFF no site oficial da loja, em todas as formas de pagamento. Vale no Esquenta Black Friday, que está no ar no site.",
         "O cupom soma com a Black Friday da La Ganexa? Soma com o Esquenta, a campanha que está no ar: no nosso teste, o CECILIA tirou 10% de produtos com preço promocional. Confira o desconto de cada item no checkout.",
         "Quando acaba a Black Friday da La Ganexa? A loja diz que os descontos são por tempo limitado e não publica data de fim.",
         "Tem frete grátis na Black Friday da La Ganexa? Tem, acima de um valor mínimo que muda por região e conta depois do cupom.",
-        "O cupom vale nos kits da Black Friday? A loja diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiros de Colher não acumulam com cupom. No nosso teste, o checkout aceitou o CECILIA no Kit 2 Doce de Leite; o de Brigadeiros não foi testado. Confira a linha “Descontos” antes de pagar."
+        "O cupom vale nos kits da Black Friday? A loja diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiro de Colher não acumulam com cupom. No nosso teste, o checkout aceitou o CECILIA nos dois. Confira a linha “Descontos” antes de pagar."
       ]
     }
   ]

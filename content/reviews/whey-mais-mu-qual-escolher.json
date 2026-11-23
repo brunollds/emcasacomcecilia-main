@@ -17,7 +17,7 @@
   "description": "Pote, refil, sachê e isolado da Mais Mu comparados pela contagem de doses da loja: preço por dose, preço por 100 g de proteína e quanto cai com o cupom e o Pix.",
   "publishedAt": "25 de outubro de 2026",
   "publishedAtISO": "2026-10-25",
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/mais-mu/whey-mais-mu-qual-escolher-capa-v2.webp",
@@ -28,29 +28,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O refil de 900 g Brownie ou Cookies'n Cream tem o menor preço por proteína entre os formatos com contagem de doses da loja. O pote de 450 g serve para conhecer o sabor, e o sachê, para levar; a loja não aponta o melhor sabor, nem este texto. O código MMEMCASACOMCECILIA dá 10% no site da Mais Mu."
-      ]
-    },
-    {
-      "heading": "O que a loja publica",
-      "paragraphs": [
-        "A Mais Mu vende o whey concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês, além do isolado e da proteína vegetal. A diferença entre eles está no preço por dose, nos sabores de cada formato e no que cabe na sua rotina.",
-        "Tudo o que segue é da loja: preço, estoque, formato, sabor, ingredientes e a contagem de doses que ela publica.",
-        "A loja escreve “cerca de N doses” em 30 das 48 páginas de whey e de proteína vegetal, sempre na legenda da galeria. Gramas por dose aparecem pouco: no texto de cada sabor de sachê e numa tabela nutricional, a do Baunilha de 450 g, com porção de 36 g e cerca de 13 porções. Por isso as contas usam a contagem da loja, com a margem do “cerca de”. Onde a loja não publica a contagem, este texto não faz conta.",
-        "A proteína por dose também vem da loja: 20 g no concentrado (a tabela é a do Baunilha de 450 g; no sachê, só a do Chocolate com Coco) e 22 g no isolado e no vegetal.",
-        "As contas são estas, com os preços de 25/10/2026:"
-      ],
-      "bullets": [
-        "R$ por dose = preço ÷ número de doses.",
-        "R$ por 100 g de proteína = R$ por dose ÷ proteína por dose × 100."
-      ],
-      "postParagraphs": [
-        "As tabelas mostram o preço no cartão. O cupom e o Pix entram numa frase abaixo de cada uma."
+        "Na Blue Friday, o refil de 900 g do isolado tem o menor preço por proteína da linha, e entre os concentrados o refil de 900 g de Chocolate. O pote de 450 g serve para conhecer o sabor, e o sachê, para levar. A loja não aponta o melhor sabor. O código MMEMCASACOMCECILIA dá 10% na Mais Mu."
       ]
     },
     {
       "heading": "Concentrado: pote de 450 g",
       "paragraphs": [
+        "A Mais Mu vende o whey concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês, além do isolado e da proteína vegetal. A loja publica a contagem de doses (\"cerca de N doses\") na legenda da galeria de várias páginas e a proteína por dose: 20 g no concentrado e 22 g no isolado e no vegetal. As contas usam essa contagem, com a margem do \"cerca de\"; onde a loja não publica, não fazemos conta. R$ por dose = preço ÷ doses; R$ por 100 g de proteína = R$ por dose ÷ proteína por dose × 100.",
         "O Baunilha de 450 g é o único com a tabela nutricional da loja na galeria: porção de 36 g, cerca de 13 porções e 20 g de proteína por porção. Fora dele, a loja não publica gramas de pote nem de refil, e este texto não usa outra gramagem."
       ],
       "images": [
@@ -63,51 +47,40 @@
         }
       ],
       "comparisonTable": {
+        "caption": "Preços do site no cartão em 23/11/2026, na Blue Friday, sem frete.",
         "headers": [
           "Sabor",
           "Doses (loja)",
           "Preço no cartão",
           "R$ por dose",
-          "R$ por 100 g de proteína (conta nossa)",
-          "Disponível"
+          "R$ por 100 g de proteína (conta nossa)"
         ],
         "rows": [
           [
-            "Baunilha e Cookies'n Cream",
+            "[Baunilha](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-pote-450g/), [Brownie](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-brownie-pote-450g/) e [Cookies'n Cream](https://www.lojamaismu.com.br/produtos/whey-concentrado-cookies-pote-450g/)",
             "13",
-            "R$ 159,99",
-            "12,31",
-            "61,53",
-            "sim"
+            "R$ 135,99",
+            "10,46",
+            "52,30"
           ],
           [
-            "Brownie",
-            "13",
-            "R$ 159,99",
-            "12,31",
-            "61,53",
-            "não, esgotado"
-          ],
-          [
-            "Chocolate, Chocolate com avelã, Chocolate com coco, Morango e Paçoquita",
+            "[Chocolate](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-chocolate-pote-450g/), [Chocolate com avelã](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-com-avela-pote-450g/), [Chocolate com coco](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-com-coco-pote-450g/), [Morango](https://www.lojamaismu.com.br/produtos/whey-concentrado-morango-pote-450g/) e [Paçoquita](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-pote-450g/)",
             "12",
-            "R$ 159,99",
-            "13,33",
-            "66,66",
-            "sim"
+            "R$ 135,99",
+            "11,33",
+            "56,66"
           ],
           [
-            "Doce de leite",
+            "[Doce de leite](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-doce-de-leite-450g-1kavc/)",
             "sem contagem",
-            "R$ 159,99",
+            "R$ 135,99",
             "sem conta",
-            "sem conta",
-            "sim"
+            "sem conta"
           ]
         ]
       },
       "postParagraphs": [
-        "Com o cupom MMEMCASACOMCECILIA e o Pix, o pote de 450 g sai por R$ 139,67. Só com o Pix, por R$ 155,19.",
+        "Com o cupom MMEMCASACOMCECILIA e o Pix, o pote de 450 g sai por R$ 118,72. Só com o Pix, por R$ 131,91.",
         "Para ver o concentrado da Mais Mu ao lado de outras marcas, leia [Mais Mu ou Growth](/reviews/mais-mu-ou-growth) e [Mais Mu ou Dux](/reviews/mais-mu-ou-dux)."
       ]
     },
@@ -119,47 +92,66 @@
           "Doses (loja)",
           "Preço no cartão",
           "R$ por dose",
-          "R$ por 100 g de proteína (conta nossa)",
-          "Disponível"
+          "R$ por 100 g de proteína (conta nossa)"
         ],
         "rows": [
           [
-            "Brownie e Cookies'n Cream",
-            "26",
-            "R$ 279,99",
-            "10,77",
-            "53,84",
-            "sim"
-          ],
-          [
-            "Baunilha e Morango",
-            "25",
-            "R$ 279,99",
-            "11,20",
-            "56,00",
-            "sim"
-          ],
-          [
-            "Chocolate",
+            "[Chocolate](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-refil-900g/)",
             "23",
-            "R$ 279,99",
-            "12,17",
-            "60,87",
-            "sim"
+            "R$ 181,99",
+            "7,91",
+            "39,56"
           ],
           [
-            "Chocolate com avelã, Chocolate com coco, Doce de leite e Paçoquita",
+            "[Cookies'n Cream](https://www.lojamaismu.com.br/produtos/whey-concentrado-cookies-refil-900g/)",
+            "26",
+            "R$ 209,25",
+            "8,05",
+            "40,24"
+          ],
+          [
+            "[Baunilha](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/) e [Morango](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-morango-refil-900g/)",
+            "25",
+            "R$ 209,25",
+            "8,37",
+            "41,85"
+          ],
+          [
+            "[Brownie](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-brownie-refil-900g/)",
+            "26",
+            "R$ 223,99",
+            "8,62",
+            "43,08"
+          ],
+          [
+            "[Paçoquita](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-pacoquita-900g/)",
             "sem contagem",
-            "R$ 279,99",
+            "R$ 209,25",
             "sem conta",
+            "sem conta"
+          ],
+          [
+            "[Chocolate com avelã](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-com-avela-refil-900g/), [Chocolate com coco](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-com-coco-refil-900g/) e [Doce de leite](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-doce-de-leite-900g-gwmua/)",
+            "sem contagem",
+            "R$ 223,99",
             "sem conta",
-            "sim"
+            "sem conta"
           ]
         ]
       },
       "postParagraphs": [
-        "Com o cupom e o Pix, o refil de 900 g sai por R$ 244,43, em qualquer sabor. Nos quatro sabores sem contagem a conta por dose não sai. O refil de Brownie e o de Cookies'n Cream têm a menor conta por proteína entre os refis com contagem: R$ 47,01 por 100 g com os dois descontos.",
-        "O refil de 1,8 kg custa R$ 499,99 nos sabores Baunilha e Paçoquita. A loja não publica a contagem dele, então não há conta por dose. O refil de Paçoquita de 222 g custa R$ 95,94 (R$ 93,06 no Pix), também sem contagem."
+        "Com o cupom e o Pix, o refil de 900 g sai por R$ 158,88 no Chocolate, R$ 182,67 no Cookies'n Cream, no Baunilha, no Morango e na Paçoquita e R$ 195,54 no Brownie, no Chocolate com avelã, no Chocolate com coco e no Doce de leite. O refil de Chocolate tem a menor conta por proteína entre os concentrados com contagem: R$ 34,54 por 100 g com os dois descontos, seguido do Cookies'n Cream, com R$ 35,13. Nos sabores sem contagem a conta por dose não sai.",
+        "O refil de 1,8 kg custa R$ 299,99 nos sabores Baunilha e Paçoquita (R$ 290,99 no Pix). A loja não publica a contagem dele, então não há conta por dose. O refil de Paçoquita de 222 g custa R$ 81,54 (R$ 79,09 no Pix), também sem contagem."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/mais-mu/mais-mu-ou-growth-whey-concentrado.webp",
+          "alt": "Whey Protein Concentrado Mais Mu sabor baunilha no pote de 450 g, no refil de 900 g e no refil de 1,8 kg",
+          "caption": "O whey concentrado baunilha da Mais Mu nos três tamanhos. Imagem: Mais Mu.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778,
+          "href": "https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-baunilha-refil-900g/"
+        }
       ]
     },
     {
@@ -173,7 +165,8 @@
           "alt": "Caixa de 15 sachês do whey Mais Mu Chocolate com Coco, foto oficial da loja",
           "caption": "Caixa de 15 sachês do Chocolate com Coco, imagem oficial da loja.",
           "objectFit": "contain",
-          "aspectRatio": 0.751
+          "aspectRatio": 0.751,
+          "href": "https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-com-coco-sache-525g/"
         }
       ],
       "comparisonTable": {
@@ -181,70 +174,62 @@
           "Sabor",
           "Peso de cada sachê (texto do sabor)",
           "Preço no cartão (caixa de 15)",
-          "R$ por sachê",
-          "Disponível"
+          "R$ por sachê"
         ],
         "rows": [
           [
-            "Baunilha",
-            "36 g",
-            "R$ 239,85",
-            "15,99",
-            "sim"
-          ],
-          [
-            "Chocolate com avelã",
-            "39 g",
-            "R$ 239,85",
-            "15,99",
-            "sim"
-          ],
-          [
-            "Chocolate com coco",
-            "35 g",
-            "R$ 239,85",
-            "15,99",
-            "sim"
-          ],
-          [
-            "Paçoquita",
-            "37 g",
-            "R$ 239,85",
-            "15,99",
-            "sim"
-          ],
-          [
-            "Brownie",
+            "[Baunilha](https://www.lojamaismu.com.br/produtos/whey-concentrado-baunilha-sache-465g/)",
             "31 g",
-            "R$ 254,85",
-            "16,99",
-            "sim"
+            "R$ 167,89",
+            "11,19"
           ],
           [
-            "Cookies'n Cream",
+            "[Chocolate com avelã](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-com-avela-sache-525g/)",
             "35 g",
-            "R$ 254,85",
-            "16,99",
-            "sim"
+            "R$ 167,89",
+            "11,19"
           ],
           [
-            "Doce de leite",
+            "[Chocolate com coco](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-com-coco-sache-525g/)",
+            "35 g",
+            "R$ 167,89",
+            "11,19"
+          ],
+          [
+            "[Paçoquita](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-sache-525g/)",
+            "35 g",
+            "R$ 167,89",
+            "11,19"
+          ],
+          [
+            "[Brownie](https://www.lojamaismu.com.br/produtos/whey-concentrado-brownie-sache-465g/)",
+            "31 g",
+            "R$ 167,89",
+            "11,19"
+          ],
+          [
+            "[Cookies'n Cream](https://www.lojamaismu.com.br/produtos/whey-concentrado-cookies-sache-465g/)",
+            "31 g",
+            "R$ 167,89",
+            "11,19"
+          ],
+          [
+            "[Doce de leite](https://www.lojamaismu.com.br/produtos/whey-concentrado-mais-mu-doce-de-leite-sache/)",
             "37 g",
-            "R$ 254,85",
-            "16,99",
-            "sim"
+            "R$ 167,89",
+            "11,19"
           ]
         ]
       },
       "postParagraphs": [
-        "A tabela publicada para o sachê Chocolate com Coco informa 20 g de proteína em 35 g, 152 kcal e 15 porções. Pela conta nossa, a caixa dele sai a R$ 79,95 por 100 g de proteína. Os outros sabores não publicam a proteína por sachê, e para eles fica só o preço por sachê. Com o cupom e o Pix, a caixa de R$ 239,85 sai por R$ 209,39, e a de R$ 254,85 por R$ 222,48.",
-        "Cada sachê custa R$ 15,99 ou R$ 16,99 no cartão; uma dose do pote ou do refil, pela contagem da loja, sai de R$ 10,77 a R$ 13,33. O sachê faz sentido quando levar o pó pesa mais que essa diferença. Quem quer comparar o sachê com outras marcas encontra a Mais Mu no perfil de pote pequeno e sachê em [Melhor whey em 2026](/reviews/melhor-whey-qual-escolher-por-objetivo)."
+        "A tabela publicada para o sachê Chocolate com Coco informa 20 g de proteína em 35 g, 152 kcal e 15 porções. Pela conta nossa, a caixa dele sai a R$ 55,96 por 100 g de proteína. Os outros sabores não publicam a proteína por sachê, e para eles fica só o preço por sachê. Com o cupom e o Pix, a caixa de R$ 167,89 sai por R$ 146,57.",
+        "Cada sachê custa R$ 11,19 no cartão; uma dose do pote, pela contagem da loja, sai de R$ 10,46 a R$ 11,33, e a do refil de 900 g, de R$ 7,91 a R$ 8,62. O sachê faz sentido quando levar o pó pesa mais que essa diferença. Quem quer comparar o sachê com outras marcas encontra a Mais Mu no perfil de pote pequeno e sachê em [Melhor whey em 2026](/reviews/melhor-whey-qual-escolher-por-objetivo)."
       ]
     },
     {
       "heading": "Isolado e vegetal: o preço por dose",
       "paragraphs": [
-        "A loja dá 22 g de proteína por dose no isolado e no vegetal. No isolado, o pote de 450 g tem o maior preço por proteína de todo o quadro: R$ 85,22 por 100 g no cartão."
+        "A loja dá 22 g de proteína por dose no isolado e no vegetal. No isolado, o refil de 900 g sai a R$ 28,92 por 100 g de proteína no cartão, o menor valor de toda a conta; o pote de 450 g sai a R$ 51,13."
       ],
       "comparisonTable": {
         "caption": "Isolado",
@@ -253,30 +238,37 @@
           "Doses (loja)",
           "Preço no cartão",
           "R$ por dose",
-          "R$ por 100 g de proteína (conta nossa)",
-          "Disponível"
+          "R$ por 100 g de proteína (conta nossa)"
         ],
         "rows": [
           [
-            "Pote de 450 g: Baunilha, Brownie, Chocolate, Cookies'n Cream, Morango e Sem sabor",
+            "Pote de 450 g: [Baunilha](https://www.lojamaismu.com.br/produtos/whey-isolado-baunilha-pote-450g/), [Brownie](https://www.lojamaismu.com.br/produtos/whey-isolado-brownie-pote-450g/), [Chocolate](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-chocolate-mais-mu-performance-450g-1e1ej/), [Morango](https://www.lojamaismu.com.br/produtos/whey-isolado-morango-pote-450g/) e [Sem sabor](https://www.lojamaismu.com.br/produtos/whey-isolado-sem-sabor-pote-450g/)",
             "16",
-            "R$ 299,99",
-            "18,75",
-            "85,22",
-            "sim"
+            "R$ 179,99",
+            "11,25",
+            "51,13"
           ],
           [
-            "Refil de 900 g: Baunilha, Brownie, Chocolate, Cookies'n Cream e Morango",
+            "Refil de 900 g: [Baunilha](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/) e [Brownie](https://www.lojamaismu.com.br/produtos/whey-isolado-brownie-refil-900g/)",
             "33",
-            "R$ 520,00",
-            "15,76",
-            "71,63",
-            "sim"
+            "R$ 209,99",
+            "6,36",
+            "28,92"
           ]
         ]
       },
       "postParagraphs": [
-        "Com o cupom e o Pix, o isolado de 450 g sai por R$ 261,89 e o de 900 g por R$ 453,96. O isolado Sem sabor tem o mesmo preço e a mesma contagem dos outros sabores de 450 g."
+        "Com o cupom e o Pix, o isolado de 450 g sai por R$ 157,13 e o de 900 g por R$ 183,32. O isolado Sem sabor tem o mesmo preço e a mesma contagem dos outros sabores de 450 g."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/mais-mu/mais-mu-ou-dux-whey-isolado.webp",
+          "alt": "Whey Isolado Mais Mu baunilha e sem sabor no pote de 450 g e baunilha no refil de 900 g",
+          "caption": "O whey isolado da Mais Mu no pote de 450 g e no refil de 900 g. Imagem: Mais Mu.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778,
+          "href": "https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/"
+        }
       ]
     },
     {
@@ -288,71 +280,67 @@
           "Doses (loja)",
           "Preço no cartão",
           "R$ por dose",
-          "R$ por 100 g de proteína (conta nossa)",
-          "Disponível"
+          "R$ por 100 g de proteína (conta nossa)"
         ],
         "rows": [
           [
-            "Pote de 450 g: Caramel Macchiato e Chocolate com avelã",
+            "Pote de 450 g: [Caramel Macchiato](https://www.lojamaismu.com.br/produtos/proteina-vegetal-caramel-macchiato-pote-450g/) e [Chocolate com avelã](https://www.lojamaismu.com.br/produtos/proteina-vegetal-chocolate-com-avela-pote-450g/)",
             "13",
-            "R$ 199,00",
-            "15,31",
-            "69,58",
-            "sim"
+            "R$ 107,99",
+            "8,31",
+            "37,76"
           ],
           [
-            "Pote de 450 g: Torta de banana com canela",
+            "Pote de 450 g: [Torta de banana com canela](https://www.lojamaismu.com.br/produtos/proteina-vegetal-torta-de-banana-com-canela-pote-450g/)",
             "12",
-            "R$ 199,00",
-            "16,58",
-            "75,38",
-            "sim"
+            "R$ 107,99",
+            "9,00",
+            "40,91"
           ],
           [
-            "Refil de 900 g: Caramel Macchiato",
+            "Refil de 900 g: [Caramel Macchiato](https://www.lojamaismu.com.br/produtos/proteina-vegetal-vegana-caramel-macchiato-refil-900g/)",
             "27",
-            "R$ 346,00",
-            "12,81",
-            "58,25",
-            "sim"
+            "R$ 179,99",
+            "6,67",
+            "30,30"
           ],
           [
-            "Refil de 900 g: Chocolate com avelã",
+            "Refil de 900 g: [Chocolate com avelã](https://www.lojamaismu.com.br/produtos/proteina-vegetal-vegana-chocolate-com-avela-refil-900g/)",
             "26",
-            "R$ 346,00",
-            "13,31",
-            "60,49",
-            "sim"
-          ],
-          [
-            "Refil de 900 g: Torta de banana com canela",
-            "25",
-            "R$ 346,00",
-            "13,84",
-            "62,91",
-            "sim"
+            "R$ 179,99",
+            "6,92",
+            "31,47"
           ]
         ]
       },
       "postParagraphs": [
-        "Com o cupom e o Pix, o vegetal de 450 g sai por R$ 173,73 e o de 900 g por R$ 302,06.",
-        "A proteína vegetal é isolada de arroz e de ervilha, diz a loja. Ela não é whey e aparece aqui só para completar a linha."
+        "Com o cupom e o Pix, o vegetal de 450 g sai por R$ 94,28 e o de 900 g por R$ 157,13.",
+        "A proteína vegetal é isolada de arroz e de ervilha, diz a loja. Ela não é whey e aparece aqui só para completar a linha. O refil de Torta de banana com canela não entrou na nossa última leitura de preços; confira na loja."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/mais-mu/mais-mu-whey-isolado-concentrado-vegetal.webp",
+          "alt": "Embalagens da Mais Mu: Whey Isolado baunilha refil 900 g, Whey Protein baunilha pote 450 g e Proteína Vegetal chocolate com avelã",
+          "caption": "Whey isolado, whey concentrado e proteína vegetal, nas fotos do site oficial da Mais Mu.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778,
+          "href": "https://www.lojamaismu.com.br/whey/"
+        }
       ]
     },
     {
       "heading": "Sabores: o que a loja mostra",
       "paragraphs": [
-        "A loja publica estes sabores em cada formato. Não há degustação deste texto, e a loja não diz qual sabor é o melhor."
+        "A loja publica estes sabores em cada formato, e a disponibilidade de cada um muda: confira a página do sabor e do formato antes de comprar. Não há degustação neste texto, e a loja não diz qual sabor é o melhor."
       ],
       "bullets": [
-        "**Concentrado, pote de 450 g:** Baunilha, Chocolate, Chocolate com avelã, Chocolate com coco, Cookies'n Cream, Morango e Paçoquita, com contagem. Brownie, esgotado. Doce de leite, sem contagem.",
+        "**Concentrado, pote de 450 g:** Baunilha, Brownie, Chocolate, Chocolate com avelã, Chocolate com coco, Cookies'n Cream, Morango e Paçoquita, com contagem. Doce de leite, sem contagem.",
         "**Concentrado, refil de 900 g:** Baunilha, Brownie, Chocolate, Cookies'n Cream e Morango, com contagem. Chocolate com avelã, Chocolate com coco, Doce de leite e Paçoquita, sem contagem.",
         "**Concentrado, sachê:** Baunilha, Brownie, Chocolate com avelã, Chocolate com coco, Cookies'n Cream, Doce de leite e Paçoquita.",
-        "**Isolado:** Baunilha, Brownie, Chocolate, Cookies'n Cream, Morango e Sem sabor no pote de 450 g. Os cinco primeiros também no refil de 900 g.",
-        "**Proteína vegetal:** Caramel Macchiato, Chocolate com avelã e Torta de banana com canela, nos dois tamanhos."
+        "**Isolado:** Baunilha, Brownie, Chocolate, Morango e Sem sabor no pote de 450 g. No refil de 900 g, Baunilha e Brownie; para os outros sabores do refil, confira na loja.",
+        "**Proteína vegetal:** Caramel Macchiato e Chocolate com avelã, nos dois tamanhos, e Torta de banana com canela no pote de 450 g."
       ],
       "postParagraphs": [
-        "O Brownie de 450 g estava esgotado, e o mesmo sabor estava disponível no refil de 900 g. Confira a página do sabor e formato antes de comprar.",
         "A loja marca Paçoquita e Chocolate com coco como “novo sabor” e o Doce de leite como “lançamento”, sem data. A categoria de whey também tem uma ordenação padrão com nome de ranking, sem critério nem data publicados. Por isso este texto não diz que um sabor vende mais que outro."
       ]
     },
@@ -362,13 +350,13 @@
         "A loja apresenta quatro sabores como parceria, e é assim que eles entram aqui."
       ],
       "bullets": [
-        "**Pistache Borelli, pote de 418 g:** parceria com a Borelli.",
-        "**Banoffee Nanica, pote de 420 g:** parceria com a Nanica. A página diz que o sabor foi inspirado na torta da marca.",
-        "**Brownie do Luiz, pote de 420 g:** parceria, diz a loja, com o nome que está no catálogo.",
+        "**Pistache Borelli, pote de 418 g:** parceria com a Borelli. [Ver na loja](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-borelli-pistache-418g-1rnkj/)",
+        "**Banoffee Nanica, pote de 420 g:** parceria com a Nanica. A página diz que o sabor foi inspirado na torta da marca. [Ver na loja](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-nanica-banoffee-420g-d8lol/)",
+        "**Brownie do Luiz, pote de 420 g:** parceria, diz a loja, com o nome que está no catálogo. [Ver na loja](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-brownie-do-luiz-420g-1yqzu/)",
         "**Paçoquita:** parceria, diz a loja, nos formatos de concentrado (pote de 450 g, sachê, refil de 900 g e 1,8 kg)."
       ],
       "postParagraphs": [
-        "Os três potes de 418 e 420 g custam R$ 159,99 cada no cartão (R$ 155,19 no Pix; R$ 139,67 com o cupom e o Pix), o mesmo preço do pote de 450 g, e estavam disponíveis. A loja não publica a contagem de doses deles, então ficam fora da conta por dose e por proteína. Os textos dos três dizem “contém lactose” e “não contém glúten”."
+        "Os três potes de 418 e 420 g custam R$ 135,99 cada no cartão (R$ 131,91 no Pix; R$ 118,72 com o cupom e o Pix), o mesmo preço do pote de 450 g. A loja não publica a contagem de doses deles, então ficam fora da conta por dose e por proteína. Os textos dos três dizem “contém lactose” e “não contém glúten”."
       ]
     },
     {
@@ -381,61 +369,55 @@
       ]
     },
     {
-      "heading": "Cupom e Pix: quanto cai em cada formato",
+      "heading": "Qual whey da Mais Mu eu compraria?",
       "paragraphs": [
-        "O código MMEMCASACOMCECILIA dá 10% em todo o site da Mais Mu e soma com o desconto de 3% do Pix. Ele não soma com outro cupom. O crédito do cashback da loja e o desconto de boas-vindas também entram como cupom, então não somam com o nosso. O cashback é um programa da loja, não uma vantagem do código. O código não vale no Mercado Livre, onde vale o preço do anúncio. As regras estão na página da [Mais Mu](/cupons/mais-mu).",
-        "Com os dois descontos, o pote de 450 g concentrado sai por R$ 139,67, o refil de 900 g por R$ 244,43, a caixa de sachês de R$ 239,85 por R$ 209,39, o isolado de 450 g por R$ 261,89 e o de 900 g por R$ 453,96, com os mesmos preços."
+        "Não há um formato melhor para todo mundo. O que pesa é quanto você quer pagar por proteína, se precisa levar o pó e se a lactose importa para você. Os preços abaixo são do cartão, com a conta com cupom e Pix ao lado."
       ],
-      "postParagraphs": [
-        "**Esperar a Black Friday?** Até aqui, a Mais Mu não tinha anunciado data nem desconto para novembro. O que se sabe está em [Black Friday da Mais Mu](/reviews/black-friday-mais-mu).",
-        "Antes de comprar, a dúvida pode ser a loja em si: [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel)"
-      ]
-    },
-    {
-      "heading": "Qual formato escolher",
-      "paragraphs": [
-        "Não há um formato melhor para todo mundo. O que pesa é quanto você quer pagar por proteína, se precisa levar o pó e se a lactose importa para você."
-      ],
-      "emphasis": "Pelos números da tabela, para quem quer o menor preço por proteína a escolha é o refil de 900 g de Brownie ou Cookies'n Cream: cerca de R$ 53,84 por 100 g no cartão, com a contagem aproximada da loja.",
-      "emphasisAfterParagraph": 1,
+      "emphasis": "Para gastar menos por grama de proteína, eu compraria o refil de 900 g do isolado: R$ 28,92 por 100 g no cartão. Entre os concentrados, eu iria no refil de 900 g de Chocolate, a R$ 39,56.",
       "bullets": [
-        "**Quer conhecer o sabor antes de levar um formato maior:** o pote de 450 g, a R$ 159,99, com 12 ou 13 doses.",
-        "**Quer o menor preço por proteína entre os formatos com contagem:** o refil de 900 g. Brownie ou Cookies'n Cream saem a R$ 53,84 por 100 g no cartão.",
-        "**Quer levar um pacote pequeno:** o sachê, a R$ 15,99 ou R$ 16,99 cada, acima do que custa uma dose do pote ou do refil.",
-        "**Quer a linha isolada:** o isolado de 450 g tem o maior preço por dose (R$ 18,75) e por proteína (R$ 85,22) de todo o quadro.",
+        "**Quer conhecer o sabor antes de levar um formato maior:** o pote de 450 g, a R$ 135,99, com 12 ou 13 doses; R$ 118,72 com o cupom e o Pix.",
+        "**Quer o menor preço por proteína no concentrado:** o refil de 900 g de Chocolate, a R$ 39,56 por 100 g no cartão e R$ 34,54 com cupom e Pix.",
+        "**Quer o menor preço por proteína em toda a linha:** o isolado refil de 900 g, a R$ 28,92 por 100 g no cartão, R$ 183,32 o refil com cupom e Pix. O isolado de 450 g sai a R$ 51,13 por 100 g.",
+        "**Quer levar um pacote pequeno:** o sachê, a R$ 11,19 cada, R$ 167,89 a caixa de 15, perto do que custa uma dose do pote e acima da do refil.",
         "**Precisa evitar lactose:** leia o rótulo do sabor escolhido. Os concentrados e o isolado Baunilha dizem “contém lactose”."
       ],
-      "images": [
+      "postParagraphs": [
+        "No carrinho, toque em Iniciar compra; no checkout, digite MMEMCASACOMCECILIA em Adicionar cupom de desconto e confira a linha Desconto do cupom. O código dá 10% em todo o site e soma com os 3% do Pix, inclusive sobre os preços da Blue Friday; o brinde de uma creatina de pote 210 g da campanha seguiu no pedido no nosso teste, enquanto durar o estoque.",
+        "O cashback é programa da própria loja, e o crédito dele não soma com o cupom, porque a loja não acumula cupons. O código não vale no Mercado Livre, onde vale o preço do anúncio. As regras estão na página do [cupom Mais Mu](/cupons/mais-mu) e o passo a passo, em [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar); a campanha está em [Black Friday da Mais Mu](/reviews/black-friday-mais-mu). Meta de saúde, de peso ou de treino: converse com um nutricionista."
+      ],
+      "links": [
         {
-          "src": "/images/reviews/mais-mu/whey-mais-mu-qual-escolher-quadro-formatos.webp",
-          "alt": "Quadro dos formatos do whey Mais Mu com doses, preço por dose e preço por 100 g de proteína",
-          "caption": "Doses pela contagem da loja, com “cerca de”. Preços no cartão.",
-          "objectFit": "contain",
-          "aspectRatio": 0.8475
+          "label": "Ir para a Mais Mu com o MMEMCASACOMCECILIA",
+          "href": "https://www.lojamaismu.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom Mais Mu",
+          "href": "/cupons/mais-mu"
         }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual whey Mais Mu é o mais barato por proteína? Entre os formatos com contagem aproximada da loja, o refil de 900 g dos sabores Brownie e Cookies'n Cream, a R$ 53,84 por 100 g de proteína no cartão e R$ 47,01 com o cupom e o Pix. O refil de 1,8 kg não tem contagem na loja, então não entra na comparação.",
-        "Qual sabor da Mais Mu é o melhor? A loja não diz, e este texto também não escolhe, porque não há degustação aqui. O que dá para comparar é o formato, o preço por dose e o estoque de cada sabor.",
+        "Qual é o cupom da Mais Mu? O cupom da Mais Mu da nossa parceria é MMEMCASACOMCECILIA, com 10% OFF no site oficial, em todas as formas de pagamento. Ele soma com os 3% do Pix.",
+        "Qual whey Mais Mu é o mais barato por proteína? No isolado, o refil de 900 g; entre os concentrados com contagem da loja, o refil de 900 g de Chocolate. O refil de 1,8 kg não tem contagem na loja, então não entra na comparação.",
+        "Qual sabor da Mais Mu é o melhor? A loja não diz, e este texto também não escolhe. O que dá para comparar é o formato, o preço por dose e a disponibilidade de cada sabor.",
         "A Mais Mu tem whey sem lactose? Nenhum concentrado da linha se apresenta como sem lactose. Os textos dizem “contém lactose”, e a única exceção é o refil de Paçoquita de 222 g, cuja página não traz essa linha. Isso não garante ausência de lactose, então confira o rótulo. O isolado Baunilha de 450 g também diz “contém lactose”; nos outros sabores do isolado, confira o rótulo.",
-        "Sachê compensa? Depende do que você precisa. Cada sachê custa R$ 15,99 ou R$ 16,99 no cartão, e uma dose do pote ou do refil com contagem sai de R$ 10,77 a R$ 13,33. Ele compensa quando levar o pó pesa mais que essa diferença.",
-        "O cupom vale no Mercado Livre? Não. O MMEMCASACOMCECILIA vale no site da Mais Mu. No Mercado Livre vale o preço do anúncio. O passo a passo do código está em [Cupom Mais Mu: como usar](/reviews/cupom-mais-mu-como-usar).",
-        "Whey ajuda a emagrecer ou a ganhar massa? Este texto não trata desse objetivo: ele compara rótulo, dose e preço. Quem tem uma meta de saúde, de peso ou de treino deve conversar com um nutricionista."
+        "Sachê compensa? Depende do que você precisa. Por dose, o sachê fica perto do pote e acima do refil, e compensa quando levar o pó pesa mais que essa diferença.",
+        "O cupom vale no Mercado Livre? Não. O MMEMCASACOMCECILIA vale no site da Mais Mu. No Mercado Livre vale o preço do anúncio."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Quem procura menor preço por proteína entre os formatos com contagem: o refil de 900 g de Brownie ou Cookies'n Cream, conferindo o preço no dia da compra.",
-      "Quem quer conhecer o sabor antes de levar um formato maior: o pote de 450 g.",
-      "Quem precisa levar o pó: o sachê, que sai acima da dose do pote e do refil."
+      "Leve o isolado refil de 900 g se você quer o menor preço por proteína da linha, conferindo o preço no dia da compra.",
+      "Leve o refil de 900 g de Chocolate se você quer concentrado pelo menor preço por proteína.",
+      "Leve o pote de 450 g se você quer conhecer o sabor antes de um formato maior."
     ],
     "skipIf": [
-      "Quem quer o isolado pelo preço: o de 450 g tem o maior preço por dose e por proteína do quadro.",
-      "Quem precisa evitar lactose: nenhum concentrado se apresenta como sem lactose, e os textos dizem “contém lactose”; confira o rótulo antes."
+      "Passe no sachê se o preço por dose decide: sai acima do refil.",
+      "Passe nos concentrados se você precisa evitar lactose: os textos dizem “contém lactose”; confira o rótulo antes."
     ]
   },
   "pros": [],
@@ -448,16 +430,19 @@
   },
   "coupon": "MMEMCASACOMCECILIA",
   "affiliate": "mais-mu",
-  "editorialNote": "Podemos receber comissão pelo código MMEMCASACOMCECILIA. Sem degustação: dados da loja.",
+  "editorialNote": "Podemos receber comissão pelo código MMEMCASACOMCECILIA. Dados da loja, sem degustação.",
   "relatedArticles": [
     {
       "slug": "mais-mu-ou-growth"
     },
     {
-      "slug": "mais-mu-e-confiavel"
+      "slug": "pre-treino-exquenta-mais-mu-e-bom"
     },
     {
-      "slug": "pre-treino-exquenta-mais-mu-e-bom"
+      "slug": "black-friday-mais-mu"
+    },
+    {
+      "slug": "cupom-mais-mu-como-usar"
     }
   ]
 }

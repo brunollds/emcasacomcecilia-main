@@ -33,6 +33,8 @@ R$ 264,40 → R$ 237,96 com o CECILIA (menos R$ 26,44, 10%). O campo fica no Res
 desconto" → "Cupom (opcional)" → "Adicionar"; o desconto aparece na linha "Descontos". Os preços "de" vêm do
 catálogo da loja (`/products.json`), lido no mesmo dia.
 
+Teste do Lote 7A, 2026-11-23 (Chrome, Comprar → carrinho → Finalizar a compra, sem login): no checkout da Yampi (`seguro.lojalaganexa.com.br`), o CECILIA foi aceito no Kit 2 Brigadeiro de Colher 250 g (R$ 83,99 → R$ 75,59), o primeiro teste deste kit, e de novo com o Kit 2 Doce de Leite junto (R$ 211,98 → R$ 190,78, 10%). O produto surpresa acima de R$ 180 entrou no pedido e conta depois do cupom ("Adicione R$ 104,41 e ganhe um brinde" com R$ 75,59). Faixa do site: "Esquenta Black Friday" com contador que recomeça, sem data de fim (sem banner). O handle `/products/copia-de-leitinho-com-whey-protein` é a página real da Pasta Creme de Avelã. Reclame Aqui (`/empresa/la-ganexa-produtos-alimenticios/`): selo Empresa Verificada; 6 meses Ótima 9,2 (40 recebidas) e 12 meses RA1000 9,2 (70), iguais a 13/11.
+
 Teste da sessão de cupons, 2026-11-13 (Chrome, sem login e sem finalizar): Kit 2 Doce de Leite Zero 400g, R$ 127,99. Pelo botão
 "Finalizar a compra" (checkout da Yampi, `seguro.lojalaganexa.com.br`), o CECILIA foi aceito ("Cupom adicionado.") e o total
 ficou em R$ 115,19. Pelo link de carrinho da Shopify com `?discount=CECILIA`, o desconto foi de R$ 12,79.

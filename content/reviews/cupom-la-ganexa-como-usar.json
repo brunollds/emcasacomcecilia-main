@@ -16,6 +16,7 @@
   },
   "publishedAt": "13 de novembro de 2026",
   "publishedAtISO": "2026-11-13",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -24,8 +25,8 @@
   "cons": [],
   "coupon": "CECILIA",
   "affiliate": "la-ganexa",
-  "description": "O CECILIA entra sobre o preço promocional da La Ganexa. Veja onde digitar o código, o que a loja diz dos kits e como o cupom mexe no frete grátis e no brinde.",
-  "metaDescription": "CECILIA dá 10% OFF na La Ganexa e soma com as promoções. Veja onde digitar o código, o que muda nos kits e por que o frete grátis conta depois do cupom.",
+  "description": "O CECILIA entra sobre o preço promocional da La Ganexa. Veja onde digitar o código, o que a loja diz dos kits e o que o checkout aceitou, e como ficam o frete grátis e o brinde.",
+  "metaDescription": "CECILIA dá 10% OFF na La Ganexa e soma com as promoções. Veja onde digitar o código, o que o checkout fez nos kits e como fica o frete grátis.",
   "image": "/images/reviews/laganexa/cupom-la-ganexa-como-usar-capa-v3.webp",
   "imageAlt": "Caixa azul de cookies de baunilha com gotas de chocolate da La Ganexa sobre uma mesa, em imagem oficial da loja, com logo, “Cupom: como usar?” e código CECILIA.",
   "cta": {
@@ -34,7 +35,7 @@
     "url": "https://lojalaganexa.com.br/",
     "sponsored": true
   },
-  "editorialNote": "Cupom testado no checkout da La Ganexa. Não usamos os produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Cupom testado no checkout. Não usamos os produtos. Podemos receber comissão.",
   "relatedArticles": [
     {
       "slug": "black-friday-la-ganexa"
@@ -43,17 +44,17 @@
       "slug": "cupom-la-ganexa-primeira-compra"
     },
     {
-      "slug": "la-ganexa-e-confiavel"
+      "slug": "kit-la-ganexa-ou-avulso-qual-sai-mais-barato"
     },
     {
-      "slug": "la-ganexa-reclame-aqui-nota-reputacao"
+      "slug": "la-ganexa-e-boa"
     }
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O cupom da La Ganexa é CECILIA: 10% OFF no site oficial, para cliente novo e antigo, e no nosso teste o desconto entrou sobre produtos já em promoção. No resumo da compra, toque em “Inserir cupom de desconto”, digite o código e toque em “Adicionar”. O mínimo do frete grátis conta depois do cupom."
+        "O cupom da La Ganexa é CECILIA: 10% OFF no site oficial, para cliente novo e antigo, também sobre produtos em promoção. No checkout seguro da loja, toque em “Inserir cupom de desconto”, digite o código e toque em “Adicionar”. O mínimo do frete grátis e o do brinde contam depois do cupom."
       ]
     },
     {
@@ -62,13 +63,10 @@
         "O código entra no checkout do site oficial, antes do pagamento:"
       ],
       "bullets": [
-        "Coloque os produtos no carrinho e toque em “Finalizar a compra”.",
+        "Coloque os produtos no carrinho e toque em “Finalizar a compra”. O checkout abre em seguro.lojalaganexa.com.br, no domínio da loja.",
         "No resumo da compra, toque em “Inserir cupom de desconto”.",
         "Digite CECILIA no campo “Cupom (opcional)”, sem espaços, e toque em “Adicionar”.",
         "Confira o aviso “Cupom adicionado.” e a linha “Descontos” no resumo, com o valor que saiu do total."
-      ],
-      "postParagraphs": [
-        "O checkout abre em seguro.lojalaganexa.com.br, no domínio da loja."
       ],
       "images": [
         {
@@ -108,18 +106,18 @@
       "heading": "Promoção, kits e Pix: o que soma",
       "bullets": [
         "**Promoção do site.** Soma. O desconto entra sobre o preço promocional, como no carrinho do teste.",
-        "**Kit 2 Doce de Leite e Kit 2 Brigadeiros de Colher.** A página de regras das promoções da loja diz que esses dois kits não acumulam com cupom. No nosso teste, o checkout aceitou o CECILIA no Kit 2 Doce de Leite, que foi de R$ 127,99 para R$ 115,19; o de Brigadeiros não foi testado. Antes de pagar, confira se a linha “Descontos” apareceu.",
-        "**Forma de pagamento.** O cupom vale em todas as formas de pagamento do checkout, Pix e cartão. A loja não dá desconto a mais no Pix. No cartão, parcela em até 3 vezes sem juros; de 4 a 12 vezes, com juros da operadora."
+        "**Kit 2 Doce de Leite e Kit 2 Brigadeiro de Colher.** A página de regras das promoções da loja diz que esses dois kits não acumulam com cupom. No nosso teste, o checkout aceitou o CECILIA nos dois: o Kit 2 Brigadeiro foi de R$ 83,99 para R$ 75,59, e o Kit 2 Doce de Leite, de R$ 127,99 para R$ 115,19. Como a regra escrita e o checkout não dizem a mesma coisa, confira a linha “Descontos” antes de pagar.",
+        "**Forma de pagamento.** O cupom vale em todas as formas de pagamento do checkout, e a loja não dá desconto a mais no Pix. No cartão, parcela em até 3 vezes sem juros; de 4 a 12 vezes, com juros da operadora."
       ]
     },
     {
       "heading": "Frete grátis e brinde contam depois do cupom",
       "bullets": [
         "**Frete grátis.** A política de frete da loja dá frete grátis acima de R$ 250 no Sul e no Sudeste e de R$ 350 nas demais regiões. O mínimo conta depois do cupom. Por exemplo: um carrinho de R$ 270 no Sudeste cai para R$ 243 com o código e fica sem o frete grátis. O Kit 2 Doce de Leite não conta para o mínimo, pela regra da loja.",
-        "**Brinde surpresa.** Nas compras acima de R$ 180, a loja manda um produto surpresa, por tempo limitado ou enquanto durarem os estoques. A regra diz que o valor é contado depois de todos os descontos e cupons: um carrinho de R$ 195 cai para R$ 175,50 com o código e fica sem o brinde."
+        "**Brinde surpresa.** Nas compras acima de R$ 180, a loja manda um produto surpresa, por tempo limitado ou enquanto durarem os estoques, e o valor é contado depois de todos os descontos e cupons. No checkout, com o Kit 2 Brigadeiro já a R$ 75,59, o aviso dizia “Adicione R$ 104,41 e ganhe um brinde”: a conta parte do valor com o cupom."
       ],
       "postParagraphs": [
-        "As duas contas são exemplos, não testes. Perto de um dos mínimos, aplique o código, informe o CEP e veja o frete e o total antes de pagar."
+        "A conta do frete é um exemplo, não um teste. Perto de um dos mínimos, aplique o código, informe o CEP e veja o frete e o total antes de pagar."
       ]
     },
     {
@@ -128,28 +126,50 @@
         "**O código.** CECILIA, tudo junto, sem espaço antes ou depois.",
         "**O campo.** “Cupom (opcional)”, que abre em “Inserir cupom de desconto”, no checkout do site oficial da La Ganexa.",
         "**Outro código no pedido.** O resumo mostra qual cupom ficou aplicado. Para trocar, toque em “Remover” e digite o CECILIA.",
-        "**Kit marcado como não cumulativo.** Nos dois kits que a regra da loja deixa fora da soma com cupom, confira se a linha “Descontos” apareceu antes de pagar."
+        "**Kit marcado como não cumulativo.** Nos dois kits que a regra da loja deixa fora da soma, o desconto entrou no nosso teste. Se a linha “Descontos” não apareceu no seu pedido, tire o kit do carrinho e fale com o atendimento."
       ],
       "postParagraphs": [
         "Se nada disso resolver, a La Ganexa atende pelo WhatsApp (13) 99630-5971, de segunda a quinta das 8h às 18h e na sexta das 8h às 17h. Para avisar a gente, use o [contato do site](/contato). As condições do código ficam na página do [cupom La Ganexa](/cupons/la-ganexa)."
       ]
     },
     {
-      "heading": "Vale para quem já comprou?",
+      "heading": "Vale usar o CECILIA na La Ganexa?",
       "paragraphs": [
-        "Vale. O CECILIA é o mesmo código no primeiro pedido e nos seguintes, e os 10% saem da mesma forma na segunda compra.",
-        "O que pesa no primeiro pedido, do frete ao pagamento, está em [cupom La Ganexa na primeira compra](/reviews/cupom-la-ganexa-primeira-compra)."
+        "Vale. O CECILIA é o mesmo código para cliente novo e antigo, e os 10% saem da mesma forma no primeiro pedido e nos seguintes. O que pesa no primeiro pedido, do frete ao pagamento, está em [cupom La Ganexa na primeira compra](/reviews/cupom-la-ganexa-primeira-compra).",
+        "Se quiser ver quais kits compensam mais que os potes avulsos, a conta está em [kit ou avulso na La Ganexa](/reviews/kit-la-ganexa-ou-avulso-qual-sai-mais-barato)."
+      ],
+      "emphasis": "Eu compraria já com o CECILIA aplicado e só pagaria depois de conferir a linha Descontos, principalmente se o carrinho tiver um dos dois kits que a loja marca como não cumulativos.",
+      "links": [
+        {
+          "label": "Ir para a La Ganexa com o CECILIA",
+          "href": "https://lojalaganexa.com.br/",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o cupom La Ganexa",
+          "href": "/cupons/la-ganexa"
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da La Ganexa? CECILIA, o código da Cecília: 10% OFF no site oficial, para cliente novo e antigo.",
+        "Qual é o cupom da La Ganexa? O cupom da La Ganexa da nossa parceria é CECILIA, com 10% OFF no site oficial da loja, em todas as formas de pagamento. Vale para cliente novo e antigo, e o código se digita no checkout, em “Inserir cupom de desconto”.",
         "O cupom La Ganexa soma com produto em promoção? Sim. No nosso teste, o desconto entrou sobre o preço promocional.",
-        "O cupom vale nos kits? A loja diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiros de Colher não acumulam com cupom. No nosso teste, o checkout aceitou o CECILIA no Kit 2 Doce de Leite; o de Brigadeiros não foi testado. Confira a linha “Descontos” antes de pagar.",
+        "O cupom vale nos kits? A loja diz que o Kit 2 Doce de Leite e o Kit 2 Brigadeiro de Colher não acumulam com cupom. No nosso teste, o checkout aceitou o CECILIA nos dois. Confira a linha “Descontos” antes de pagar.",
         "O cupom dá frete grátis? Não. O frete grátis depende do mínimo da sua região, contado depois do cupom.",
         "Tem desconto no Pix na La Ganexa? Não. A loja não dá desconto a mais no Pix, e o cupom vale com ele."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Você compra produto já em promoção e quer os 10% do CECILIA por cima do preço da campanha.",
+      "Você já comprou antes: o mesmo CECILIA vale nas compras seguintes."
+    ],
+    "skipIf": [
+      "Seu carrinho passa só um pouco do mínimo do frete grátis ou do brinde: o mínimo conta depois do cupom, e o total com o desconto pode cair abaixo dele.",
+      "Você quer desconto a mais no Pix: a loja não dá."
+    ]
+  }
 }
