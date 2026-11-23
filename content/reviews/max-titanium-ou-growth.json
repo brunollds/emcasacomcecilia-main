@@ -2,7 +2,7 @@
   "id": 471,
   "slug": "max-titanium-ou-growth",
   "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço",
-  "seoTitle": "Max Titanium ou Growth: qual whey e qual creatina compensam",
+  "seoTitle": "Max Titanium ou Growth: qual whey e creatina compensam",
   "type": "Comparativo de Suplemento",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -13,11 +13,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Pelo preço de tabela, a Growth sai mais barata no whey concentrado, e a Max na creatina, no isolado e no hipercalórico. Veja as contas por dose e o veredito por perfil.",
+  "description": "A Growth sai mais barata no whey concentrado e, no Pix, no isolado; a Max, na creatina de 500 g e no hipercalórico. Veja as contas com o cupom real e o veredito por perfil.",
   "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Growth: whey, creatina e hipercalórico por 100 g de proteína e por 1.000 kcal.",
   "publishedAt": "18 de outubro de 2026",
   "publishedAtISO": "2026-10-18",
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-22",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/max-titanium/max-titanium-ou-growth-capa-v2.webp",
@@ -28,38 +28,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Pelo preço de tabela, a Growth sai mais barata no whey concentrado, e a Max, na creatina, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas: o código MAX10EMCASACOMCECILIA dá até 10% OFF, com percentual variável por produto."
-      ]
-    },
-    {
-      "heading": "Como comparamos",
-      "paragraphs": [
-        "A régua é o preço por 100 g de proteína, por grama de creatina e por 1.000 kcal. Esta comparação cobre whey (concentrado e isolado), creatina e hipercalórico da Max Titanium, parceira do site, e da Growth, que não é parceira. Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço de tabela do site, o valor antes do Pix e das promoções do dia, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
-        "Conta nossa, pelos preços de tabela e pelas tabelas nutricionais das lojas, arredondada no centavo:"
-      ],
-      "image": {
-        "src": "/images/reviews/max-titanium/max-titanium-ou-growth-quadro-precos.webp",
-        "alt": "Quadro com o preço no Pix em 18/10/2026: whey por 100 g de proteína, Growth Concentrado R$ 26,34 e Max 100% Whey Refil R$ 30,24; creatina por 100 g, Max 500 g R$ 13,56 (relida em 20/11/2026), Growth refil R$ 14,98 e Max 300 g R$ 18,67; hipercalórico por 1.000 kcal, Max Mass Titanium 3 kg R$ 9,81 e Growth Big Mass Pro 3 kg R$ 15,04",
-        "caption": "O preço de whey, creatina e hipercalórico nas duas lojas, no Pix, nos sites oficiais, sem frete.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
-      "bullets": [
-        "**preço por dose:** preço ÷ porções;",
-        "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
-        "**preço por 100 g de creatina:** preço ÷ gramas do pote × 100;",
-        "**preço por 1.000 kcal:** preço ÷ (porções × kcal por porção) × 1.000."
-      ],
-      "postParagraphs": [
-        "A conta com cupom é o teto: 10% a menos que o preço do Pix. O desconto real pode ser menor, porque ele varia por produto.",
-        "A série de comparações da Growth tem um texto para cada marca: [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth).",
-        "Sabor, dissolução e digestão ficam de fora: escolha aqui pelo rótulo e pelo preço por dose. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista."
+        "A Growth sai mais barata no whey concentrado e, no Pix, também no isolado; a Max leva a creatina de 500 g e o hipercalórico. O código MAX10EMCASACOMCECILIA dá até 10% OFF em todas as formas de pagamento, mas no teste de novembro rendeu 2% na maioria dos itens. Veja o [cupom Max Titanium](/cupons/max-titanium)."
       ]
     },
     {
       "heading": "Whey: proteína por dose e preço por 100 g de proteína",
       "paragraphs": [
-        "No concentrado, a Growth sai mais barata por 100 g de proteína; o 3W é o mais caro da tabela. Preços de 18/10/2026 no cartão, sem o cupom."
+        "No concentrado, a Growth sai mais barata por 100 g de proteína; o 3W é o mais caro da tabela. A conta é o preço ÷ (porções × proteína por porção) × 100."
       ],
       "comparisonTable": {
         "headers": [
@@ -71,14 +46,14 @@
         ],
         "rows": [
           [
-            "Max 100% Whey Refil 900 g (WPC)",
+            "[Max 100% Whey Refil 900 g (WPC)](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
             "30 g, 21 g de proteína",
             "30",
             "R$ 196,39",
             "R$ 31,17"
           ],
           [
-            "Max Top Whey 3W + Performance 900 g",
+            "[Max Top Whey 3W + Performance 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
             "40 g, 32 g de proteína",
             "cerca de 23",
             "R$ 273,55",
@@ -91,10 +66,11 @@
             "R$ 222,11",
             "R$ 29,26"
           ]
-        ]
+        ],
+        "caption": "Preços do cartão nos sites oficiais, sem frete nem cupom; os da Max foram conferidos em novembro."
       },
       "postParagraphs": [
-        "No Pix, a Growth continua com menor custo que o 3W nos preços comparados: R$ 26,34 contra R$ 36,85 por 100 g de proteína. Com o cupom da Max no teto, a conta do 3W cai para R$ 33,17, ainda acima da Growth.",
+        "No Pix, a Growth continua abaixo do 3W: R$ 26,34 contra R$ 36,85 por 100 g de proteína. Conta nossa, pelo carrinho de novembro: o cupom deu 2% no Top Whey 3W + Performance, e o 3W cai de R$ 37,99 para R$ 37,23 no cartão, ainda bem acima da Growth.",
         "A dose muda de uma loja para a outra, por isso a conta certa é por 100 g de proteína, e não pelo preço do pote. As porções são as da tabela: a Growth diz \"cerca de 33\" em 1 kg. No 3W, a conta usa 22,5 doses (900 g ÷ 40 g), que dão 720 g de proteína; a tabela arredonda para \"cerca de 23\".",
         "O Top Whey 3W + Performance mistura WPC, isolado e hidrolisado e entrega mais proteína por dose, mas sai mais caro por 100 g de proteína. A comparação da Max com a Probiótica está em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
       ],
@@ -104,30 +80,34 @@
           "alt": "Potes de 100% Whey Refil 900 g e Top Whey 3W + Performance 900 g, da Max Titanium, sabor baunilha",
           "caption": "Os dois wheys da Max Titanium citados na tabela. Imagem: Max Titanium.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o 100% Whey Refil na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+          "sponsored": true
+        },
+        {
+          "label": "Ver o Top Whey 3W + Performance na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p",
+          "sponsored": true
         }
       ]
     },
     {
       "heading": "Whey concentrado: 100% Whey Refil da Max ou Whey Concentrado da Growth",
       "paragraphs": [
-        "No par direto, os dois têm só WPC em dose de 30 g, e a Growth sai mais barata por 100 g. Sem cupom, a Growth sai R$ 3,90 mais barata por 100 g de proteína no Pix (R$ 26,34 contra R$ 30,24). Com o cupom no teto, a Max cai para R$ 27,21, ainda R$ 0,87 acima. No cartão, a diferença fica em R$ 29,26 da Growth contra R$ 31,17 da Max.",
+        "No par direto, os dois têm só WPC em dose de 30 g, e a Growth sai mais barata por 100 g. No Pix, a Growth custa R$ 26,34 e o [100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) da Max, R$ 30,24: R$ 3,90 de diferença. O cupom deu 2% no Refil no teste de novembro, e a Max cai de R$ 31,17 para R$ 30,55 no cartão, ainda R$ 1,29 acima do cartão da Growth (R$ 29,26).",
         "Na Growth, o sabor Natural entrega 1 g a mais de proteína por dose pelo mesmo preço do pote: R$ 25,24 por 100 g no Pix, sem cupom. Quem compra pelo menor custo por grama prefere o Natural."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-100-whey-refil.webp",
-          "alt": "Tabela nutricional do 100% Whey Refil 900 g, sabor baunilha: 30 g por dose, 126 kcal e 21 g de proteína",
-          "caption": "Tabela nutricional do 100% Whey Refil 900 g. Imagem: Max Titanium.",
-          "objectFit": "contain",
-          "aspectRatio": 0.6358
-        }
       ]
     },
     {
       "heading": "Whey isolado: IsoWhey 900 g da Max contra o Whey Isolado da Growth",
       "paragraphs": [
-        "No isolado, a Max ganha no cartão e com cupom; a Growth só passa no Pix sem cupom. A Max tem um isolado, o IsoWhey 900 g, e a Growth tem o (TOP) Whey Protein Isolado 1 kg."
+        "No isolado, a Max ganha no cartão e a Growth ganha no Pix, mesmo com o cupom. A Max tem um isolado, o [IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p), e a Growth tem o (TOP) Whey Protein Isolado 1 kg."
       ],
       "comparisonTable": {
         "headers": [
@@ -139,7 +119,7 @@
         ],
         "rows": [
           [
-            "Max IsoWhey 900 g",
+            "[Max IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
             "30 g, 26 g de proteína",
             "30",
             "R$ 326,18",
@@ -152,28 +132,37 @@
             "R$ 388,77",
             "R$ 43,63"
           ]
-        ]
+        ],
+        "caption": "Preços do cartão nos sites oficiais, sem frete nem cupom."
       },
       "postParagraphs": [
-        "No cartão, a Max fica abaixo da Growth. No Pix, a Growth sai um pouco mais barata: R$ 39,27 contra R$ 40,56 por 100 g de proteína. Com o cupom no teto, a conta da Max cai para R$ 36,51 e fica abaixo da Growth. A Growth declara 116 kcal e 2 g de carboidratos por dose; a Max, 118 kcal e 2,3 g, com 0,7 g de açúcares totais. A lista da Growth traz proteína de soro do leite isolada e lecitina, e a página informa derivados de leite e de soja, lactose e ausência de glúten."
+        "No cartão, a Max fica abaixo da Growth. No Pix, a Growth sai mais barata: R$ 39,27 contra R$ 40,56 por 100 g de proteína. O cupom deu 2% no IsoWhey no teste de novembro (R$ 319,66 no carrinho), e a conta da Max cai para R$ 40,98 no cartão: abaixo da Growth no cartão e R$ 1,71 acima dela no Pix. A Growth declara 116 kcal e 2 g de carboidratos por dose; a Max, 118 kcal e 2,3 g, com 0,7 g de açúcares totais. A lista da Growth traz proteína de soro do leite isolada e lecitina, e a página informa derivados de leite e de soja, lactose e ausência de glúten."
       ],
       "images": [
         {
-          "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-isowhey.webp",
-          "alt": "Tabela nutricional do IsoWhey 900 g, sabor baunilha: 30 g por dose, 118 kcal e 26 g de proteína",
-          "caption": "Tabela nutricional do IsoWhey 900 g. Imagem: Max Titanium.",
+          "src": "/images/reviews/whey/max-titanium-isowhey.webp",
+          "alt": "Pote de IsoWhey 900 g da Max Titanium",
+          "caption": "IsoWhey 900 g. Imagem: Max Titanium.",
           "objectFit": "contain",
-          "aspectRatio": 0.5649
+          "aspectRatio": 1,
+          "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o IsoWhey na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p",
+          "sponsored": true
         }
       ]
     },
     {
       "heading": "Creatina: preço por grama nas duas lojas",
       "paragraphs": [
-        "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de tabela, sem o cupom; os da Growth são de novembro, e os da Max, de outubro."
+        "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de tabela no cartão, sem o cupom."
       ],
       "comparisonTable": {
-        "caption": "O preço da creatina de 500 g da Max (pote e pack) foi relido depois, em novembro; os demais são da leitura original.",
+        "caption": "O preço da creatina de 500 g da Max (pote e pack) foi relido em novembro; os demais são da leitura original.",
         "headers": [
           "Produto",
           "Tamanho e doses",
@@ -182,19 +171,19 @@
         ],
         "rows": [
           [
-            "Max Creatina 300 g",
+            "[Max Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p)",
             "300 g, 60 doses",
             "R$ 59,90",
             "R$ 19,97"
           ],
           [
-            "Max Creatina 500 g (pote)",
+            "[Max Creatina 500 g (pote)](https://www.maxtitanium.com.br/creatine-pote-500g/p)",
             "500 g, 100 doses",
             "R$ 69,90",
             "R$ 13,98"
           ],
           [
-            "Max Pack 2 x Creatina 500 g",
+            "[Max Pack 2 x Creatina 500 g](https://www.maxtitanium.com.br/pack-creatina-500g/p)",
             "1 kg, 200 doses",
             "R$ 119,80",
             "R$ 11,98"
@@ -220,9 +209,9 @@
         ]
       },
       "postParagraphs": [
-        "Pelo preço de tabela e sem cupom, o pote de 500 g da Max, a R$ 13,98 por 100 g, é a menor conta por grama, e a Max de 300 g (R$ 19,97) também fica abaixo do refil da Growth (R$ 20,92). O pote de 500 g da Max, no cartão, fica abaixo até do Pix de outubro do refil da Growth (R$ 14,98). O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no carrinho antes de comprar. Com o cupom, o pote de 500 g da Max cai para R$ 12,58 sobre o preço de tabela, e a Max de 300 g (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96 no Pix de outubro), que tem a mesma dose de 5 g.",
-        "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix de outubro). A diferença é de preço, não de dose.",
-        "A creatina 7Belo da Max, com sabor, fica fora desta tabela e aparece contra a gummy da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
+        "Pelo preço de tabela e sem cupom, o pote de 500 g da Max, a R$ 13,98 por 100 g, é a menor conta por grama, e a Max de 300 g (R$ 19,97) também fica abaixo do refil da Growth (R$ 20,92). O pote de 500 g da Max, no cartão, fica abaixo até do Pix de outubro do refil da Growth (R$ 14,98). O cupom deu 2% na creatina no teste de novembro: o pote de 500 g cai para R$ 13,70 e a Max de 300 g, para R$ 19,57. A de 300 g continua acima da Growth de 250 g no Pix de outubro (R$ 17,96), que tem a mesma dose de 5 g. O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no carrinho antes de comprar.",
+        "A Max Titanium também vende a [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p), e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix de outubro). A diferença é de preço, não de dose.",
+        "A [creatina 7Belo](https://www.maxtitanium.com.br/creatina-7belo/p) da Max, com sabor, fica fora desta tabela e aparece contra a gummy da Growth em [Alternativas à creatina da Growth](/reviews/alternativas-a-creatina-da-growth)."
       ],
       "images": [
         {
@@ -230,14 +219,20 @@
           "alt": "Potes de creatina monohidratada da Max Titanium, de 300 g e de 500 g",
           "caption": "Os potes de creatina da Max Titanium citados na tabela. Imagem: Max Titanium.",
           "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "aspectRatio": 1.7778,
+          "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver a Creatina 500 g na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+          "sponsored": true
         },
         {
-          "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-creatina-500g.webp",
-          "alt": "Tabela nutricional da Creatina 500 g da Max Titanium: porção de 5 g, 100 porções por embalagem",
-          "caption": "Tabela nutricional da Creatina 500 g da Max Titanium. Imagem: Max Titanium.",
-          "objectFit": "contain",
-          "aspectRatio": 0.9256
+          "label": "Ver a Creatina Creapure 250 g na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/creatina-creapure-250g/p",
+          "sponsored": true
         }
       ]
     },
@@ -256,7 +251,7 @@
         ],
         "rows": [
           [
-            "Max Mass Titanium 17500 Refil 1,4 kg (baunilha)",
+            "[Max Mass Titanium 17500 Refil 1,4 kg (baunilha)](https://www.maxtitanium.com.br/mass-titanium-17500-14kg/p)",
             "160 g, cerca de 9, 619 kcal",
             "17 g e 135 g",
             "R$ 69,89",
@@ -270,7 +265,7 @@
             "R$ 16,53"
           ],
           [
-            "Max Mass Titanium 17500 Refil 3 kg (baunilha)",
+            "[Max Mass Titanium 17500 Refil 3 kg (baunilha)](https://www.maxtitanium.com.br/masstitanium3kg/p)",
             "160 g, cerca de 19, 619 kcal",
             "17 g e 135 g",
             "R$ 118,89",
@@ -283,10 +278,11 @@
             "R$ 187,66",
             "R$ 16,71"
           ]
-        ]
+        ],
+        "caption": "Preços do cartão nos sites oficiais, sem frete nem cupom."
       },
       "postParagraphs": [
-        "No Pix, as contas ficam em R$ 12,17 (1,4 kg) e R$ 9,81 (3 kg) na Max e em R$ 14,88 e R$ 15,04 na Growth. Com o cupom no teto, sobre o Pix, a Max cai para R$ 10,95 e R$ 8,82.",
+        "No Pix, as contas ficam em R$ 12,17 (1,4 kg) e R$ 9,81 (3 kg) na Max e em R$ 14,88 e R$ 15,04 na Growth. O cupom deu 2% nos dois refis da Max no teste de novembro: no cartão, a conta cai para R$ 12,30 e R$ 9,91, e a Growth segue acima mesmo no Pix.",
         "As contas são aproximadas, porque cada embalagem informa \"cerca de\" porções. O Mass Titanium declara 11 g de açúcar adicionado por porção, e a loja indica o produto para maiores de 19 anos. O TOP Hipercalórico 1 kg da Growth, fora da tabela, tem 344 kcal por porção de 90,5 g e sai a R$ 20,32 por 1.000 kcal no Pix."
       ],
       "images": [
@@ -294,14 +290,20 @@
           "src": "/images/reviews/max-titanium/max-titanium-ou-growth-mass-titanium-3kg.webp",
           "alt": "Embalagem do Mass Titanium 17500 Refil 3 kg, sabor baunilha, da Max Titanium",
           "caption": "Mass Titanium 17500 Refil 3 kg. Imagem: Max Titanium.",
-          "objectFit": "square"
+          "objectFit": "square",
+          "href": "https://www.maxtitanium.com.br/masstitanium3kg/p"
+        }
+      ],
+      "links": [
+        {
+          "label": "Ver o Mass Titanium 17500 Refil 3 kg na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/masstitanium3kg/p",
+          "sponsored": true
         },
         {
-          "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-mass-titanium-3kg.webp",
-          "alt": "Tabela nutricional do Mass Titanium 17500 Refil 3 kg, sabor baunilha: porção de 160 g, 619 kcal e 17 g de proteína",
-          "caption": "Tabela nutricional do Mass Titanium 17500 Refil 3 kg. Imagem: Max Titanium.",
-          "objectFit": "contain",
-          "aspectRatio": 0.7536
+          "label": "Ver o Mass Titanium 17500 Refil 1,4 kg na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/mass-titanium-17500-14kg/p",
+          "sponsored": true
         }
       ]
     },
@@ -311,12 +313,12 @@
         "O que muda na lista de cada produto, pelas páginas das lojas:"
       ],
       "bullets": [
-        "**Max 100% Whey Refil:** proteína concentrada do soro do leite (WPC), aromatizante, emulsificante lecitina de soja e sucralose. A loja informa que não contém glúten.",
-        "**Max Top Whey 3W + Performance:** WPC, proteína isolada (WPI) e hidrolisada (WPH). A página informa que contém lactose.",
+        "[Max 100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p): proteína concentrada do soro do leite (WPC), aromatizante, emulsificante lecitina de soja e sucralose. A loja informa que não contém glúten.",
+        "[Max Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p): WPC, proteína isolada (WPI) e hidrolisada (WPH). A página informa que contém lactose.",
         "**Growth Whey Concentrado (sabor Natural):** proteína concentrada do soro do leite e lecitina. A página informa derivados de soja e de leite, lactose e ausência de glúten.",
-        "**Max Creatina 300 g:** creatina monohidratada e dióxido de silício como antiumectante. A Creatina Creapure 250 g da Max traz só creatina monohidratada, sem glúten.",
+        "[Max Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p): creatina monohidratada e dióxido de silício como antiumectante. A [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p) da Max traz só creatina monohidratada, sem glúten.",
         "**Growth creatinas:** só creatina monohidratada; a Growth informa que não contém glúten.",
-        "**Max Mass Titanium 17500:** maltodextrina, WPC, albumina (clara de ovo), colágeno hidrolisado e sucralose. A loja informa que não contém glúten e indica o produto para maiores de 19 anos.",
+        "[Max Mass Titanium 17500](https://www.maxtitanium.com.br/masstitanium3kg/p): maltodextrina, WPC, albumina (clara de ovo), colágeno hidrolisado e sucralose. A loja informa que não contém glúten e indica o produto para maiores de 19 anos.",
         "**Growth Big Mass Pro:** amido de milho, WPC, cacau, maltodextrina, L-leucina, L-glutamina, creatina monohidratada, L-isoleucina, L-valina, aroma, sucralose e dióxido de silício. Contém leite e lactose; sem glúten. Diferente do Mass Titanium, a lista da Big Mass Pro traz creatina monohidratada.",
         "**Growth Hiper Mass:** amido de milho, WPC, clara de ovo, colágeno hidrolisado, cacau, aroma, sucralose e acessulfame, dióxido de silício. Contém leite, ovo e soja; lactose; sem glúten."
       ],
@@ -335,7 +337,7 @@
         "rows": [
           [
             "Cupom",
-            "MAX10EMCASACOMCECILIA: até 10%, com o percentual variando por produto",
+            "MAX10EMCASACOMCECILIA: até 10% OFF; no teste de novembro, 2% na maioria dos itens e 8,9% em alguns",
             "nenhum cupom nosso"
           ],
           [
@@ -345,7 +347,7 @@
           ],
           [
             "Pagamento",
-            "Pix e cartão; o parcelamento depende do produto",
+            "Todas as formas de pagamento; o site anuncia Pix e boleto com até 5% de desconto (cerca de 3% nos produtos desta comparação) e parcelamento que varia por produto",
             "Pix e boleto abaixo do preço de tabela, em valor que varia com as promoções da loja"
           ],
           [
@@ -356,32 +358,47 @@
         ]
       },
       "postParagraphs": [
-        "O cupom vale com todas as formas de pagamento e soma com as promoções do site. Num Top Whey 3W Mais Sabor 900 g, a R$ 189,00 em outubro, o cupom deu R$ 16,75 de desconto (8,9%). Por isso o texto diz \"até 10%\": o teto é o que a conta com cupom mostra, e o carrinho mostra quanto cada item recebeu. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na página do [cupom Max Titanium](/cupons/max-titanium).",
+        "O MAX10EMCASACOMCECILIA vale no site oficial e no aplicativo da Max, em todas as formas de pagamento, e soma com as promoções do site. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. O desconto aparece na linha “Descontos” do resumo.",
+        "No teste de novembro, o cupom ligou duas promoções da loja: 2% em produtos selecionados, em todos os itens testados, e mais 7% em alguns, o que dá 8,9% no [Top Whey 3W + Sabor](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p). Todos os itens desta comparação que entraram no teste deram 2%. Por isso o texto diz “até 10%” e as contas usam o percentual de cada item; item fora do teste tem desconto que varia por produto e aparece no carrinho. As contas com cupom partem do preço do cartão, a base em que o carrinho o mediu; o Pix e o cupom juntos não foram medidos. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na página do [cupom Max Titanium](/cupons/max-titanium).",
         "Os valores de frete são os das políticas publicadas pelas lojas. O frete grátis é calculado no carrinho. Preço e estoque mudam: confira no carrinho."
       ]
     },
     {
       "heading": "Para quem cada um faz sentido",
-      "emphasis": "Pelos preços de tabela, para quem compra whey concentrado a escolha é a Growth, e na creatina a Max ganha por 100 g sem cupom.",
+      "emphasis": "Pelos números da tabela, a Growth ganha no whey concentrado e, no Pix, também no isolado; a Max ganha no hipercalórico e na creatina de 500 g, com ou sem cupom.",
       "bullets": [
-        "**Quer o menor preço por 100 g de proteína no whey concentrado:** a Growth Whey Concentrado 1 kg, a R$ 26,34 no Pix, sem cupom. A Max chega perto com o cupom (R$ 27,21), mas não passa a Growth.",
-        "**Quer o whey de soro do leite que é o par direto da Growth:** o 100% Whey Refil da Max, que com o cupom fica a R$ 27,21 por 100 g de proteína, contra R$ 26,34 da Growth sem cupom.",
-        "**Quer isolado e vai usar o cupom:** o IsoWhey 900 g da Max, a R$ 36,51 por 100 g de proteína com o cupom, contra R$ 39,27 da Growth no Pix.",
-        "**Quer a menor conta por grama de creatina:** o pote de 500 g da Max, a R$ 13,98 por 100 g no preço de tabela, abaixo até do Pix de outubro do refil da Growth (R$ 14,98). Com o cupom, cai para R$ 12,58.",
-        "**Quer creatina com o selo Creapure declarado pela loja:** a Creatina Creapure 250 g da Max, a R$ 54,28 por 100 g no Pix. É a mais cara das creatinas desta comparação.",
-        "**Quer hipercalórico pelo preço por caloria:** o Mass Titanium 17500 Refil 3 kg, a R$ 9,81 por 1.000 kcal no Pix (R$ 8,82 com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
+        "**Quer o menor preço por 100 g de proteína no whey concentrado:** a Growth Whey Concentrado 1 kg, a R$ 26,34 no Pix, sem cupom. Com o cupom (2%), o Refil da Max sai a R$ 30,55 no cartão, acima do cartão da Growth (R$ 29,26).",
+        "**Quer o whey de soro do leite que é o par direto da Growth:** o [100% Whey Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) da Max, a R$ 30,24 no Pix, contra R$ 26,34 da Growth.",
+        "**Quer isolado e paga no Pix:** a Growth, a R$ 39,27 por 100 g de proteína, contra R$ 40,56 do [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) no Pix e R$ 40,98 no cartão com o cupom.",
+        "**Quer isolado e paga no cartão:** o IsoWhey 900 g da Max, a R$ 41,82 por 100 g de proteína (R$ 40,98 com o cupom), contra R$ 43,63 da Growth.",
+        "**Quer a menor conta por grama de creatina:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p) da Max, a R$ 13,98 por 100 g no preço de tabela, abaixo até do Pix de outubro do refil da Growth (R$ 14,98). Com o cupom, cai para R$ 13,70.",
+        "**Quer creatina com o selo Creapure declarado pela loja:** a [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p) da Max, a R$ 54,28 por 100 g no Pix. É a mais cara das creatinas desta comparação.",
+        "**Quer hipercalórico pelo preço por caloria:** o [Mass Titanium 17500 Refil 3 kg](https://www.maxtitanium.com.br/masstitanium3kg/p), a R$ 9,81 por 1.000 kcal no Pix (R$ 9,91 no cartão com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
         "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 11% mais caro que o Pix. Na Max, a diferença é menor, de cerca de 3%."
       ],
       "postParagraphs": [
-        "Os preços são de outubro e mudam: compare as duas lojas no mesmo dia antes de comprar. Se a comparação for com outra marca, há os textos [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium) e [Black Skull ou Growth](/reviews/black-skull-ou-growth).",
-        "O Top Whey 3W Mais Sabor da Max, que fica fora desta comparação, aparece contra o 3W da Growth em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
+        "Os preços são de outubro e novembro e mudam: compare as duas lojas no mesmo dia antes de comprar. Sabor, dissolução e digestão ficam fora da conta; dúvida de dose ou de saúde vai para o médico ou o nutricionista.",
+        "Para comparar com outra marca, há os textos [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium), [Black Skull ou Growth](/reviews/black-skull-ou-growth) e [Probiótica ou Growth](/reviews/probiotica-ou-growth). O Top Whey 3W Mais Sabor da Max, que fica fora desta comparação, aparece contra o 3W da Growth em [Alternativas ao whey da Growth](/reviews/alternativas-a-growth-whey)."
+      ],
+      "links": [
+        {
+          "label": "Ver o whey da Max Titanium: 100% Whey Refil",
+          "href": "https://www.maxtitanium.com.br/100-whey-refil-900g/p",
+          "sponsored": true
+        },
+        {
+          "label": "Ver a Creatina 500 g na Max Titanium",
+          "href": "https://www.maxtitanium.com.br/creatine-pote-500g/p",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Max Titanium ou Growth: qual é melhor? Depende do produto. Pelo preço de tabela e sem cupom, a Growth tem o whey concentrado mais barato por grama de proteína; a Max leva a creatina, o isolado e o hipercalórico nos dois tamanhos.",
-        "O cupom da Max vale na creatina? Vale. O cupom dá até 10% em produtos do site oficial, e o percentual varia por item. A conta com cupom deste texto é o teto.",
+        "Max Titanium ou Growth: qual é melhor? Depende do produto e da forma de pagamento. A Growth tem o whey concentrado mais barato por grama de proteína e o isolado mais barato no Pix; a Max leva a creatina de 500 g, o hipercalórico e o isolado no cartão.",
+        "Qual é o cupom da Max Titanium? É o MAX10EMCASACOMCECILIA, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. No carrinho, clique em “Adicionar cupom de desconto”, digite o código no campo “Código” e clique em “Adicionar”. As regras estão na página do [cupom Max Titanium](/cupons/max-titanium).",
+        "O cupom da Max vale na creatina? Vale. No teste de novembro, deu 2% na creatina; o percentual varia por produto, e o carrinho mostra o desconto de cada item.",
         "A Growth tem cupom? Não oferecemos cupom da Growth: ela não é parceira do site, então não há cupom nem link de afiliado dela aqui.",
         "A Max tem creatina Creapure? Sim. A Creatina Creapure 250 g traz o selo declarado pela loja. A página da Growth não declara o selo.",
         "Vale esperar a Black Friday? O cupom vale hoje e soma com as promoções do site. Quando começa a Black Friday da Max e o que soma com o cupom estão no guia da [Black Friday Max Titanium](/reviews/black-friday-max-titanium)."
@@ -390,13 +407,13 @@
   ],
   "decision": {
     "takeIf": [
-      "Leve a Growth se você quer whey concentrado pelo menor preço por grama de proteína.",
-      "Leve a Max se você quer creatina pelo menor preço por grama ou hipercalórico pelo menor preço por caloria.",
-      "Leve o IsoWhey da Max se você compra isolado e vai usar o cupom."
+      "Leve a Growth se você quer whey concentrado, ou isolado pago no Pix, pelo menor preço por grama de proteína.",
+      "Leve a Max se você quer creatina de 500 g pelo menor preço por grama ou hipercalórico pelo menor preço por caloria.",
+      "Leve o IsoWhey da Max se você vai pagar no cartão: com o cupom, ele sai abaixo do isolado da Growth no cartão."
     ],
     "skipIf": [
       "Passe no Top Whey 3W se o preço por grama de proteína decide: ele é o mais caro da tabela.",
-      "Passe na Growth no cartão se a sua compra for de whey isolado ou hipercalórico: nessas categorias a Max no cartão tem custo menor por proteína ou caloria.",
+      "Passe no IsoWhey da Max se você paga no Pix: a Growth fica abaixo dele mesmo com o cupom.",
       "Passe na Creapure da Max se o preço por grama decide: é a mais cara das creatinas."
     ]
   },
@@ -410,7 +427,7 @@
   },
   "coupon": "MAX10EMCASACOMCECILIA",
   "affiliate": "max-titanium",
-  "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Max Titanium; a Growth não é parceira. Não provamos os produtos.",
+  "editorialNote": "Podemos receber comissão pela Max Titanium; a Growth não é parceira. Ninguém da equipe usou os produtos.",
   "relatedArticles": [
     {
       "slug": "max-titanium-ou-probiotica"
