@@ -8,6 +8,27 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Lojas que merecem atenção, grupo 2: Mais Mu, Probiótica, BAW, Prohall e Pink Cheeks (23/11/2026)
+
+- **Gatilho:** a segunda metade da lista do Bruno (vendas baixas ou desempenho abaixo do ideal). O pedido continua o mesmo: conferir o acerto dos temas e gerar novos.
+- **Search Console (28 dias até 21/11, filtro por página da loja):**
+  - Probiótica 15 cliques e 3.320 impressões; Mais Mu 6 e 1.480; Prohall 2 e 716; BAW 0 e 410; Pink Cheeks 0 e 89.
+  - O que mais pesa: as buscas "cupom <loja>" ficam longe do topo ("cupom probiótica" 267 impressões na posição 28; "cupom mais mu" 125 na 11; "cupom prohall" 91 na 11,6; "cupom baw" 36 na 9,7). Dona: `/cupons/<loja>`; é tarefa da sessão de cupons, não do Job 1.
+  - Probiótica: "max titanium e probiotica são a mesma coisa?" e "é da max titanium?" nas posições 1 a 4 com zero cliques; "creatina probiotica ou max titanium" na 5,9.
+  - Mais Mu: "pre treino exquenta mais mu é bom" na posição 1; buscas de IA sobre a Chocowheyfer; "creatina mais mu tem selo creapure".
+  - BAW: "tabela de medidas baw" na posição 1, mas com 1 impressão (conferido em 23/11, página `baw-clothing-e-boa`).
+- **Trends (Brasil, 12 meses, média):** Prohall 79, Probiótica 68, Mais Mu 67 (termo ambíguo), Pink Cheeks 27, BAW 14.
+  - Em ascensão: "seca sem frizz prohall" (aumento repentino) e "prohall professional" (+450%); para "baw clothing", carnan (aumento repentino), piet +180%, pace +150%, youcom +120%, bolovo +110%; "protetor solar facial" +40% (Pink Cheeks).
+- **Autocompletar (23/11):** creatina da Probiótica (pura, Creapure, embalagem azul, original ou falsa, laudo, "ou" outras marcas); Mais Mu (creatina, Exquenta "como tomar" e "quebra jejum", barra vegana e tabela); Prohall (BTX/botox Blend Repair, progressiva, "Prohall ou" dez marcas); BAW (guia de tamanho, oversized, outlet, collabs, tênis); Pink Cheeks ("ou ollie", "ou sallve", Glow FPS 70, antiatrito, "é físico ou químico").
+- **Leituras no navegador (23/11):** catálogos da Pink Cheeks, Ollie, Prohall, Cadiveu, Forever Liss, Carnan, Piet e a creatina da Mais Mu, em [[leituras-grupo2-2311]]. Achados: a ficha da creatina Mais Mu não cita Creapure; "BTX Blond" não existe; a Cadiveu vende na loja só a linha de casa; Carnan e Piet custam bem mais que a BAW pelo preço de tabela e estavam em liquidação.
+- **O que saiu:**
+  - Nove pautas aprovadas: BW10, BW11, PH17, PH18, PH19, PH20, PK8, PK9 e PK10.
+  - Duas paradas: BW12 (espera a BW11 ser medida) e MU1 (creatina Mais Mu: o Bruno a tirou da fila em 23/10 e 30/10 pelo caso Bioghen; só volta com confirmação dele).
+  - Quatro ajustes de suplementos (B1 a B4, plano em [[ajustes-suplementos-grupo2-2311]]) e dois de encolher com link (PK5 e BW5), na Fila, seção 4.
+- **Ficou de fora:** "Prohall gestante pode usar" (conselho de saúde), Sunsafe Kids da Pink Cheeks (fora do catálogo do dia e regra do infantil), loja física e outlet da BAW (sem fonte oficial), novos "Probiótica ou <marca>" (os comparativos cobrem).
+
+---
+
 ## Lojas que merecem atenção, grupo 1: BioBio, Denavita, Barbour's, BOLD e L'Amazonie (23/11/2026)
 
 - **Gatilho:** o Bruno listou dez parceiras com vendas baixas ou desempenho abaixo do ideal. O grupo 1 são estas cinco; o grupo 2 (Mais Mu, Probiótica, BAW, Prohall e Pink Cheeks) vem depois. O pedido foi conferir se os temas acertam ou se faltam temas novos.
