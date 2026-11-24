@@ -208,3 +208,10 @@ Nenhuma que mude o artigo. Se a Océane mandar regra ou data da campanha, entra 
   - corpo: Paleta Multifuncional (foto oficial, href do produto); print da Sacola do app
 - Job 4: content/reviews/black-friday-oceane.json, imageFit contain, relacionados só da leva.
 - Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/oceane/black-friday-oceane-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `78778b701faa4c602167ace2e63a07738f29cce50d6a1be88a05428ae983fdf6`.
+- **Alt:** Paleta Multifuncional Face Palette aberta, da Océane Edition, sobre amostras de maquiagem em pó. A capa traz «Black Friday» e o cupom EMCASA.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 74 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/74/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/74/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/oceane/black-friday-oceane-capa.webp`) fica no CDN, sem uso como capa.

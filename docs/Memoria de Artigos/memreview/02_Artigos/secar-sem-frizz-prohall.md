@@ -194,3 +194,10 @@ Demanda: Trends (Brasil, 12 meses) com "seca sem frizz prohall" em aumento repen
 - Corpo, `contentSections[2]` ("Os seis itens e o que a loja diz de cada um"): `/images/reviews/prohall/secar-sem-frizz-prohall-leave-in.webp`. Alt: Frasco Secar sem Frizz de 200 ml com bico spray, em foto oficial da Prohall. Legenda: Secar sem Frizz de 200 ml, o leave-in da linha. Foto: Prohall.
 - Corpo, `contentSections[4]` ("Kit Completo ou avulsos: onde a conta fecha"): `/images/reviews/prohall/secar-sem-frizz-prohall-kit.webp`. Alt: Itens da linha Secar sem Frizz da Prohall em infográfico oficial, com os frascos e a máscara ao lado dos ativos citados pela loja. Legenda: Itens da linha Secar sem Frizz. Imagem: Prohall.
 - Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/prohall/secar-sem-frizz-prohall-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `afeae60bab432fcecd2ca2180639896593b061c4d9130b51a5c43710b9a4894f`.
+- **Alt:** Mãos seguram o pote da máscara Secar sem Frizz da Prohall e uma espátula com o creme. A capa pergunta “Kit ou avulsos?”.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 75 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/75/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/75/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/secar-sem-frizz-prohall-capa.webp`) fica no CDN, sem uso como capa.

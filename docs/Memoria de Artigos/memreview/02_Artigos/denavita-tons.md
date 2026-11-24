@@ -166,3 +166,10 @@ Blocos do caderno: `comparisonTable` (composição por cápsula; preço por dia)
 
 - GO (Bruno, 23/11). Vira o artigo dono do Tons; `denavita-e-boa` passa a linkar para ele. Sem efeito, só rótulo e a frase da loja atribuída.
 - Leituras pendentes: pelo navegador do app no dia da redação (o 429 de 23/11 veio só das leituras por script; o navegador abre as lojas).
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/denavita/denavita-tons-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `92ba658d0b7b9fa116acad4d005d39e48ebb2ba97d6d49cf8c60a9bad02826c7`.
+- **Alt:** Pote de Tons da Denavita com tampa cobre e rótulo dourado, sobre bancada ilustrada. A capa pergunta «Tons: o que tem?» e mostra o cupom EMCASA.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 73 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/73/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/73/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/denavita/denavita-tons-capa.webp`) fica no CDN, sem uso como capa.

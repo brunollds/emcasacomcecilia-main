@@ -204,3 +204,10 @@ Quatro itens de uma linha. Sem número, R$ ou conta nas linhas abaixo.
 - Corpo, `contentSections[2]` ("Onde aplicar cada um, segundo a loja"): `/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-spray.webp`. Alt: Spray antiatrito Redless Coat de 35 ml da Pink Cheeks, em foto oficial do produto. Legenda: Redless Coat, spray de 35 ml. Foto: Pink Cheeks.
 - Corpo, `contentSections[2]` ("Onde aplicar cada um, segundo a loja"): `/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-creme.webp`. Alt: Creme antiatrito Redless Chamois Cream de 100 g da Pink Cheeks, em foto oficial do produto. Legenda: Redless Chamois Cream, creme de 100 g. Foto: Pink Cheeks.
 - Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `0e9f3872bb94cbedb591742ed62def683aa859ac07d5d05ffc2057be5662c201`.
+- **Alt:** Bastão antiatrito aberto, spray Redless Coat e creme Redless Chamois Cream da Pink Cheeks. A capa pergunta “Bastão, spray ou creme?”.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 75 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/75/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/75/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-capa.webp`) fica no CDN, sem uso como capa.

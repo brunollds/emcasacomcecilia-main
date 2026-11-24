@@ -210,3 +210,10 @@ Uma marca concorrente só. Sem número, R$ ou conta nas linhas abaixo.
 - Corpo, `contentSections[3]` ("Cor e tom: o que cada marca oferece"): `/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp`. Alt: Oito rostos com o Pink Stick, cada um com o nome da cor, de 10 KM a 100 KM, e um rosto com a indicação INCOLOR, em foto da Pink Cheeks Legenda: Paleta oficial do Pink Stick nos rostos: oito tons com cor e o 5 KM incolor. Foto: Pink Cheeks.
 - Corpo, `contentSections[3]` ("Cor e tom: o que cada marca oferece"): `/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-pink-stick-21km.webp`. Alt: Pink Stick FPS 90 e FPUVA 70 da Pink Cheeks com a textura do tom 21 KM ao lado do bastão, em foto oficial da loja. Legenda: Pink Stick com a textura do tom 21 KM. Foto: Pink Cheeks.
 - Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `8a0d09b955964ef25977efe226a02447dd7a9772a6a5f5f033d55c47fef53747`.
+- **Alt:** Protetores solares Pink Stick 21 km da Pink Cheeks sobre fundo laranja, dispostos na diagonal. A capa pergunta “Pink Cheeks ou Ollie?”.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 75 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/75/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/75/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-capa.webp`) fica no CDN, sem uso como capa.

@@ -214,3 +214,10 @@ Pendências:
   - corpo: quadro Principais problemas comentados, aba Geral (print do perfil, aspect 1.217)
 - Job 4: content/reviews/oceane-reclame-aqui-nota-reputacao.json, imageFit contain, relacionados só da leva.
 - Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.
+
+## Capa v3 (24/11/2026)
+
+- **Capa:** `/images/reviews/oceane/oceane-reclame-aqui-nota-reputacao-hero-pt-v3.webp` (`imageFit: contain`), SHA-256 `c00e2948f43984e2eaacc76b70d8b60a2500d27589dbf7e4d62e711973e546d0`.
+- **Alt:** Sacola de presente rosa da Océane ao lado de uma paleta colorida e pincéis, em foto do catálogo. A capa traz «Reclame Aqui: entrega e queixas».
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 74 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/74/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/74/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/oceane/oceane-reclame-aqui-nota-reputacao-capa.webp`) fica no CDN, sem uso como capa.

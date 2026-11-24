@@ -205,3 +205,10 @@ experiência própria); 4 sim (a empresa não divide intenção com `/cupons/oce
   - corpo: esponjas Flat Blend (foto oficial, href do produto)
 - Job 4: content/reviews/oceane-e-confiavel.json, imageFit contain, relacionados só da leva.
 - Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/oceane/oceane-e-confiavel-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `c02ef703a2e7548fff5fa1c714249e8811330ae15df478956c321c31a9607d57`.
+- **Alt:** Foto de arquivo da fachada de uma loja Océane no Shopping Pátio Paulista, com letreiro e vitrines iluminadas. A capa pergunta «É confiável?».
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 74 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/74/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/74/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/oceane/oceane-e-confiavel-capa.webp`) fica no CDN, sem uso como capa.

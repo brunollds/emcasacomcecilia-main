@@ -277,3 +277,10 @@ Fontes que estavam pendentes, lidas em 23/11/2026: texto oficial da RDC 629/2022
 - Corpo, `contentSections[2]` ("FPS 30 ou 50, e o que o UVA diz"): `/images/reviews/biobio/protetor-solar-biobio-e-bom-kids.webp`. Alt: Caixa e bastão do Sunnature Kids FPS 50 da BioBio, com o número 50 em destaque. Legenda: Sunnature Kids FPS 50 na embalagem da BioBio. Foto: BioBio.
 - Corpo, `contentSections[4]` ("Resíduo branco, cor e acabamento"): `/images/reviews/biobio/base-biobio-bastao-cores-trio-essencial.webp`. Alt: O Trio Essencial da BioBio, com o BBS, o pó facial e a base em bastão Legenda: O Trio Essencial: BBS, pó facial e base. Foto: BioBio
 - Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/biobio/protetor-solar-mineral-ou-quimico-rotulo-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `53ffdceddf4719d993e7893f584ccb2ddd444c686aae7338de6f3cd3edbc3863`.
+- **Alt:** Modelo com protetor solar na bochecha segura um tubo dourado Sunnature Facial FPS 30 da BioBio. A capa pergunta “Mineral ou químico?”.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 75 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/75/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/75/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/biobio/protetor-solar-mineral-ou-quimico-rotulo-capa.webp`) fica no CDN, sem uso como capa.
