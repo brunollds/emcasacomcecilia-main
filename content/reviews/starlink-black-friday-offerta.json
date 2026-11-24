@@ -4,7 +4,7 @@
   "translationKey": "starlink-black-friday",
   "locale": "it",
   "title": "Black Friday Starlink 2026 in Italia: 50% per 3 mesi, kit a noleggio a 0 € e 45 € di invito",
-  "seoTitle": "Black Friday Starlink 2026: 17,50 € al mese e kit a 0 €",
+  "seoTitle": "Black Friday Starlink 2026: 17,50 €/mese, noleggio 0 € + 45 €",
   "type": "Guida al Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -23,11 +23,11 @@
       "initials": "BL"
     }
   ],
-  "description": "A Milano l'ordine Starlink mostrava il 100 Mbps a 17,50 € al mese per 3 mesi e il kit a noleggio a 0 €. Vedi i tre piani, i 45 € dell'invito e come controllare il tuo indirizzo.",
-  "metaDescription": "Starlink Black Friday: 50% di sconto sui piani per 3 mesi, kit a noleggio a 0 € e 45 € di invito in Italia. Controlla il tuo indirizzo.",
+  "description": "A Milano Starlink mostrava 100 Mbps a 17,50 €/mese per 3 mesi (entro il 30 nov.) e kit a noleggio a 0 €. Vedi i tre piani, i 45 € dell'invito e come controllare l'indirizzo.",
+  "metaDescription": "Starlink Black Friday entro il 30 nov.: 50% sui piani per 3 mesi (da 17,50 €/mese), kit a noleggio a 0 € e 45 € di invito in Italia. Verifica l'indirizzo.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -39,12 +39,12 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione.",
-        "A Milano l'ordine Starlink mostrava il 50% di sconto per 3 mesi, con iscrizione entro il 30 novembre: 100 Mbps a 17,50 € al mese, 200 Mbps a 22,50 € e Max a 32,50 €, con il kit a noleggio a 0 € e 19 € da pagare oggi. La pagina riportava «Nessun contratto» e una prova di 30 giorni."
+        "Con il Black Friday Starlink, nelle aree selezionate trovi il 50% di sconto per 3 mesi sul canone — 17,50 € al mese per 100 Mbps a Milano — insieme al kit a noleggio a 0 € (19 € di spedizione oggi, nessun contratto) e, passando dal nostro link di invito, i nuovi clienti in Italia ricevono un extra di 45 € di credito in fattura.",
+        "Fai attenzione alle due scadenze distinte: la promozione Black Friday del 50% è valida fino al 30 novembre nelle zone idonee, mentre il nostro bonus di invito resta valido finché esisterà il programma ufficiale di invito Starlink. Il credito arriva in fattura dopo due cicli mensili completi pagati puntualmente e non riduce il prezzo del kit al momento del pagamento. Verifica gratis e senza impegno il tuo indirizzo dal link qui sotto."
       ],
       "links": [
         {
-          "label": "Verificare il bonus Starlink al mio indirizzo",
+          "label": "Verifica gratis il tuo indirizzo: Black Friday + 45 € di bonus",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -54,7 +54,7 @@
       "heading": "I tre piani a Milano: prezzo in offerta e prezzo pieno",
       "paragraphs": [
         "Il 23 novembre 2026 abbiamo letto l'ordine per un indirizzo di Milano, in piazza del Duomo, senza completare l'acquisto. Il Residenziale 100 Mbps costava 17,50 € al mese invece di 35 €, il 200 Mbps 22,50 € invece di 45 € e il Max 32,50 € invece di 65 €, per 3 mesi. Il kit è a noleggio, con 0 € iniziali e 0 € al mese, e i 19 € da pagare oggi sono la spedizione.",
-        "L'installazione professionale è facoltativa a 172 € sul 100 e sul 200 Mbps e gratuita sul Max. Il bonus dell'invito in Italia è di 45 €, accreditato in fattura dopo due cicli mensili completi: sono più di due mesi e mezzo del 100 Mbps in offerta, e non riducono il prezzo del kit."
+        "L'installazione professionale è facoltativa a 172 € sul 100 e sul 200 Mbps e a 0 € sul Max. Il bonus dell'invito in Italia è di 45 €, accreditato in fattura dopo due cicli mensili completi: copre più di 2,5 mesi del 100 Mbps in offerta a 17,50 € al mese e non riduce il prezzo del kit al momento dell'acquisto."
       ],
       "comparisonTable": {
         "headers": [
@@ -162,13 +162,20 @@
       "postParagraphs": [
         "Dopo i 3 mesi il canone sale al prezzo pieno: 35 € per il 100 Mbps, 45 € per il 200 Mbps e 65 € per il Max. Chi pensa di restare più di un trimestre deve fare il conto con questi valori."
       ],
-      "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese per 3 mesi, e il bonus di 45 € arriva solo dopo due cicli mensili completi, quindi le prime bollette escono dalla tua tasca."
+      "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese per 3 mesi, e il bonus di 45 € (oltre 2,5 mesi a 17,50 €) arriva solo dopo due cicli mensili completi, quindi le prime bollette escono dalla tua tasca.",
+      "links": [
+        {
+          "label": "Controlla il 50% e i 45 € di bonus al tuo indirizzo",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Come compare nell'ordine",
       "paragraphs": [
         "Lo screenshot mostra l'avviso “Referral Code Applied” di un ordine statunitense aperto da un link di invito. L'ordine aperto dal link mostra l'invito applicato e il valore della ricompensa del tuo paese.",
-        "Per controllare la tua offerta, apri il link, inserisci l'indirizzo e cerca lo stesso avviso prima di pagare. Guarda se l'ordine mostra la ricompensa e le condizioni dei 3 mesi di sconto."
+        "Aprire il link e inserire l'indirizzo non addebita nulla e non richiede alcuna carta: vedi subito il canone esatto, le condizioni del kit e l'avviso verde dell'invito applicato prima di pagare."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -207,7 +214,7 @@
       },
       "links": [
         {
-          "label": "Controllare Black Friday e bonus da 45 € al mio indirizzo",
+          "label": "Prova Starlink 30 giorni con 50% per 3 mesi + 45 € di bonus",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -245,8 +252,15 @@
     {
       "heading": "Come usare il link",
       "paragraphs": [
-        "Aprire il link non ti impegna in nulla: prezzi, disponibilità e offerta compaiono solo dopo aver digitato l'indirizzo. Inserisci l'indirizzo in cui installerai l'antenna, scegli il piano, controlla l'invito applicato e conserva l'offerta che compare prima di pagare.",
+        "Aprire il link e digitare l'indirizzo non costa nulla, non chiede la carta e non ti vincola all'acquisto: prezzi, disponibilità e l'avviso verde dell'invito compaiono prima del pagamento. Inserisci l'indirizzo di installazione, scegli il piano, assicurati che l'avviso verde sia visibile e salva uno screenshot prima di pagare.",
         "Nella pagina dell'[invito Starlink](/it/coupons/starlink) trovi il link e le regole del programma."
+      ],
+      "links": [
+        {
+          "label": "Apri starlink.com con il link di invito da 45 € applicato",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -259,15 +273,15 @@
         "Quanto costano i piani al mese? A Milano, 17,50 € il 100 Mbps, 22,50 € il 200 Mbps e 32,50 € il Max per 3 mesi. Poi 35 €, 45 € e 65 €.",
         "C'è un vincolo contrattuale? L'ordine indicava «Nessun contratto», con 30 giorni di prova e restituzione del kit se annulli.",
         "Posso aggiungere l'invito dopo aver pagato? No. Conta solo sull'ordine aperto dal link, prima del pagamento.",
-        "Fino a quando dura l'offerta? Starlink indica il 30 novembre. Inserisci l'indirizzo nell'ordine per vedere se è disponibile."
+        "Fino a quando dura l'offerta? Ci sono due scadenze distinte: la promozione Black Friday del 50% per 3 mesi è valida fino al 30 novembre nelle aree idonee, mentre il bonus di invito da 45 € tramite il nostro link resta attivo finché esisterà il programma ufficiale di invito Starlink. Inserisci il tuo indirizzo nell'ordine per verificare prima di pagare."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
-    "label": "Aprire il mio ordine con il link di invito",
+    "text": "Combina l'offerta Black Friday (fino al 30 novembre nelle aree idonee) con 45 € di credito in fattura in Italia dopo due cicli mensili completi pagati puntualmente. Inserire l'indirizzo non costa nulla e non chiede la carta: verifica l'avviso verde prima di pagare.",
+    "label": "Verifica gratis l'indirizzo con 45 € di bonus",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

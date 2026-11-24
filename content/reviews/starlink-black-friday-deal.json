@@ -3,8 +3,8 @@
   "slug": "starlink-black-friday-deal",
   "translationKey": "starlink-black-friday",
   "locale": "en",
-  "title": "Starlink Black Friday 2026: $38.50 a month, a $0 rental kit and the $100 referral reward",
-  "seoTitle": "Starlink Black Friday 2026: 30% off, $0 rental kit, $100 referral",
+  "title": "Starlink Black Friday 2026: $38.50 a month, $0 rental kit and $100 or £40 referral reward",
+  "seoTitle": "Starlink Black Friday 2026: 30% off, $0 rental kit, $100 or £40",
   "type": "Black Friday Guide",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -23,11 +23,11 @@
       "initials": "BL"
     }
   ],
-  "description": "In Nevada, Starlink showed 100 Mbps at $38.50 a month with a $0 rental kit. See the US and UK numbers, how the $100 referral fits in and what to check first.",
-  "metaDescription": "Starlink Black Friday: 30% off service, a $0 rental kit and a $100 US referral reward. See the Nevada and UK numbers and check your address.",
+  "description": "In Nevada, Starlink showed 100 Mbps at $38.50 a month until Nov. 30 with a $0 rental kit. See US and UK prices, plus the $100 US or £40 UK referral credit.",
+  "metaDescription": "Starlink Black Friday until Nov. 30: 30% off in select US areas ($38.50/mo), $0 rental kit, plus $100 US or £40 UK referral credit. Check your address.",
   "publishedAt": "November 20, 2026",
   "publishedAtISO": "2026-11-20",
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
@@ -39,12 +39,12 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles.",
-        "Starlink's Black Friday offer takes 30% off the monthly plan in select areas, with a $0 rental kit that you return if you cancel. In Nevada the 100 Mbps plan was $38.50 a month, with $20 plus taxes due today. The offer runs until November 30."
+        "On Starlink's Black Friday offer, select areas get 30% off the monthly plan—$38.50 a month for 100 Mbps in Nevada—plus a $0 rental kit ($20 plus taxes due today for shipping) and, exclusively through our referral link, new customers can earn an extra $100 bill credit in the US or £40 in the UK.",
+        "Pay close attention to the two separate timelines: the 30% Black Friday discount runs until November 30 in eligible areas, while our referral bonus stays available for as long as Starlink's official referral program remains active. The credit lands on your bill after two full billing cycles paid on time and does not discount the kit price at checkout. Check your address for free with no obligation using the link below before you pay."
       ],
       "links": [
         {
-          "label": "Check my address for the Starlink reward",
+          "label": "Check my address free for Black Friday + $100 / £40 credit",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -54,7 +54,7 @@
       "heading": "The numbers: 100 Mbps, 200 Mbps and Max in Nevada and the UK",
       "paragraphs": [
         "We read the order pages on November 23, 2026, without completing a purchase. In Nevada, Residential 100 Mbps was $38.50 a month (regular price $55), 200 Mbps was $59.50 ($85) and Max was $91 ($130), all with a $0 rental kit. The order summary for 100 Mbps showed $20 plus taxes due today, which is the shipping, because the Starlink V5 and Router Mini rental was $349 minus $349.",
-        "In the UK, the order summary showed £40, £60 and £80 a month for 100 Mbps, 200 Mbps and Max, a £0 rental kit, £19 due today and no contracts. Through our link, the referral reward is $100 in the US and £40 in the UK, paid after two monthly cycles. That is more than two and a half months of the Nevada 100 Mbps price, or a full month in the UK. The credit does not reduce the price of the kit."
+        "In the UK, the order summary showed £40, £60 and £80 a month for 100 Mbps, 200 Mbps and Max, a £0 rental kit, £19 due today and no contracts. Through our link, the referral reward is $100 in the US and £40 in the UK, paid after two monthly cycles. That $100 credit covers more than 2.5 months of the $38.50 Nevada 100 Mbps plan (or one full £40 month in the UK), and does not reduce the kit price."
       ],
       "comparisonTable": {
         "headers": [
@@ -170,15 +170,22 @@
         ]
       },
       "postParagraphs": [
-        "The 200 Mbps plan sits in the middle: $59.50 a month in Nevada, with the Starlink V4 and Router 4 on rental and $0 professional installation. Max also comes with free professional installation, while the 100 Mbps plan lists it as an optional $99 extra."
+        "The 200 Mbps plan sits in the middle: $59.50 a month in Nevada, with the Starlink V4 and Router 4 on rental and $0 professional installation. Max also comes with $0 professional installation, while the 100 Mbps plan lists it as an optional $99 extra."
       ],
-      "emphasis": "By the numbers in the table, the Nevada order is $20 plus taxes today and $38.50 a month for 100 Mbps, and the $100 reward only lands after two full paid cycles, so the first bills come out of pocket."
+      "emphasis": "By the numbers in the table, the Nevada order is $20 plus taxes today and $38.50 a month for 100 Mbps, and the $100 reward (over 2.5 months of service at $38.50) only lands after two full paid cycles, so the first bills come out of pocket.",
+      "links": [
+        {
+          "label": "Check 30% off and $100 / £40 credit at my address",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "What the order looks like",
       "paragraphs": [
         "The screenshot shows “Referral Code Applied” and a displayed offer of $100 each for the new customer and the referrer. Starlink checks eligibility before the reward is paid.",
-        "To check your own offer, open the link, enter your address and look for the same notice before you pay. See whether the order shows the reward and the monthly price."
+        "Opening the link and typing your address charges nothing and does not require a card—you see your exact monthly price, kit terms and the green “Referral Code Applied” notice before any payment step."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -217,7 +224,7 @@
       },
       "links": [
         {
-          "label": "Check Black Friday and the $100 reward at my address",
+          "label": "Test Starlink for 30 days with Black Friday + $100 / £40 credit",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -255,8 +262,15 @@
     {
       "heading": "How to use the link",
       "paragraphs": [
-        "Opening the link commits you to nothing: prices, availability and the offer only appear after you type your address. Enter the address where you will install the dish, pick the plan, check that the referral shows as applied and save the offer that appears before you pay.",
+        "Opening the link and entering your address costs nothing, asks for no payment card and commits you to nothing: prices, availability and the offer appear first. Type the installation address, pick your plan, make sure the green referral notice is visible before you pay, and take a screenshot of the summary.",
         "The [Starlink referral page](/en/coupons/starlink) has the link and the program rules."
+      ],
+      "links": [
+        {
+          "label": "Open starlink.com with the $100 US / £40 UK referral applied",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -269,13 +283,13 @@
         "Is the Starlink kit free? It is a rental, with $0 upfront and $0 a month, and you have to return it if you cancel.",
         "Can I try Starlink before committing? Yes. Starlink refunds the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date.",
         "Can I add the referral after paying? No. It only counts on an order opened through the link, before payment.",
-        "How long does the offer run? Starlink advertises it until the end of November. Enter your address on the order page to see whether it is available."
+        "How long does the offer run? There are two separate timelines: the 30% Black Friday plan promotion runs until November 30 in eligible areas, while the $100 US / £40 UK referral bonus through our link remains valid for as long as Starlink's official referral program exists. Enter your address on the order page to check availability before paying."
       ]
     }
   ],
   "cta": {
-    "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
-    "label": "Open my Starlink order with the referral",
+    "text": "Combine the Black Friday offer (until November 30 in select areas) with a $100 US or £40 UK referral bill credit after two full monthly cycles paid on time. Checking your address charges nothing and requires no card—confirm the green referral notice before you pay.",
+    "label": "Check my address free with $100 / £40 referral",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
