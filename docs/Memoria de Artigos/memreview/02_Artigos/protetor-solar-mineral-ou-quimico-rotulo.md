@@ -9,7 +9,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redacao"
 bloqueado_por: null
@@ -267,3 +267,13 @@ químico" e "protetor solar mineral"; sem impressões, não fazer a série (FPS 
 
 - GO (Bruno, 23/11) como artigo de teste, com o título "mineral ou químico". Medir no Search Console por 30 dias depois de ir ao ar antes de pensar em série de categoria para a BioBio.
 - Leituras pendentes: pelo navegador do app no dia da redação (o 429 de 23/11 veio só das leituras por script; o navegador abre as lojas).
+
+Fontes que estavam pendentes, lidas em 23/11/2026: texto oficial da RDC 629/2022 no Anvisalegis (o mínimo de UVA de 1/3 do FPS vale para protetor solar; base, BBS e pó entram na conta só como comparação) e as páginas da SBD sobre filtros físicos, dose em colher de chá e reaplicação. Salicilato de Butiloctila citado só onde aparece na lista de ingredientes (Kids e BBS), sem dizer a função.
+
+## Capa e imagens (Job 6, aprovadas pelo Bruno em 23/11/2026)
+
+- Capa: `/images/reviews/biobio/protetor-solar-mineral-ou-quimico-rotulo-capa.webp` (1600 × 900, painel verde à esquerda, `imageFit: "contain"`). Alt: Mão segurando dois tubos do Sunnature Facial FPS 30 da BioBio sobre a textura do protetor, em foto oficial da loja. A capa traz o logo BioBio e a chamada “Mineral ou químico?”. Origem: foto oficial do site oficial biobio.com.br, baixada em 23/11/2026; montagem nossa.
+- Corpo, `contentSections[1]` ("Mineral, físico, químico: o que cada palavra quer dizer no rótulo"): `/images/reviews/biobio/protetor-solar-biobio-e-bom-facial.webp`. Alt: Tubo e caixa do Sunnature Facial FPS 30 da BioBio, com a palavra Mineral na embalagem. Legenda: Sunnature Facial FPS 30: a palavra Mineral está na frente da embalagem. Foto: BioBio.
+- Corpo, `contentSections[2]` ("FPS 30 ou 50, e o que o UVA diz"): `/images/reviews/biobio/protetor-solar-biobio-e-bom-kids.webp`. Alt: Caixa e bastão do Sunnature Kids FPS 50 da BioBio, com o número 50 em destaque. Legenda: Sunnature Kids FPS 50 na embalagem da BioBio. Foto: BioBio.
+- Corpo, `contentSections[4]` ("Resíduo branco, cor e acabamento"): `/images/reviews/biobio/base-biobio-bastao-cores-trio-essencial.webp`. Alt: O Trio Essencial da BioBio, com o BBS, o pó facial e a base em bastão Legenda: O Trio Essencial: BBS, pó facial e base. Foto: BioBio
+- Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.
