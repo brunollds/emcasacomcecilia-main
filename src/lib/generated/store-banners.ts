@@ -20,7 +20,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Banner da home de adaptogen.com.br (\"Black Friday começou, até 50% OFF\"), lido no navegador em 18/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-18"
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "bagaggio-black-friday-2026",
@@ -58,7 +58,27 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Menu do site bagaggio.com.br (\"Leve 3 Pague 2\", conferido em 22/11/2026)",
-    "verifiedAt": "2026-11-22"
+    "verifiedAt": "2026-11-24"
+  },
+  {
+    "id": "barbours-black-friday-2026",
+    "affiliate": "barbours",
+    "slot": "top",
+    "href": "https://barbours.gogroup.com.br/emcasacomcecilia",
+    "art": {
+      "kind": "tag",
+      "value": "60%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Barbour's: até 60% OFF no site",
+        "text": "Campanha da própria Barbour's. Os produtos e as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banner \"Black Friday\" e aviso da home de thebarboursbeauty.com.br (\"Você ganhou cupom + produto grátis com até 60% OFF no site\"), lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "baw-black-friday-2026",
@@ -71,14 +91,14 @@ export const storeBannersData: StoreBanner[] = [
     },
     "copy": {
       "pt": {
-        "headline": "Black Friday da BAW: até 80% OFF e mais 30% na segunda peça",
+        "headline": "Black Week da BAW: até 80% OFF e pague 3, leve 4 no site todo",
         "text": "Campanha da própria BAW. As peças e as condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Banner da home de bawclothing.com.br (\"Black Friday, até 80% OFF + 30% OFF na segunda peça\"), lido no navegador em 18/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-18"
+    "source": "Banner da home de bawclothing.com.br (\"Blackweek, até 80% OFF, pague 3, leve 4 no site todo\"), lido no navegador em 24/11/2026, sem data de fim; em 18/11 a faixa trazia \"+30% OFF na segunda peça\"",
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "belive-black-november-2026",
@@ -98,7 +118,27 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Faixa do topo de belivebefree.com.br (\"Black November: até 30% OFF em todo o site + desconto extra no Pix\"), lida no navegador em 18/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-18"
+    "verifiedAt": "2026-11-24"
+  },
+  {
+    "id": "biobio-black-month-2026",
+    "affiliate": "biobio",
+    "slot": "top",
+    "href": "https://biobio.com.br/",
+    "art": {
+      "kind": "tag",
+      "value": "50%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Month da BioBio: até 50% OFF",
+        "text": "Campanha da própria BioBio. Os produtos e as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Faixa do topo e barra de biobio.com.br (\"Black Month, até 50% OFF\", \"Frete R$ 9,99 em compras a partir de R$ 199\"), lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "black-skull-black-friday-2026",
@@ -118,26 +158,27 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Banner da home de blackskullusa.com.br (\"Black Friday começou, até 50% OFF\") e página /blackfriday, lidos no navegador em 22/11/2026, sem data de fim. O progressivo de /blackfriday2026 não entrou na sacola com 2 e 4 produtos da página no teste de 22/11",
-    "verifiedAt": "2026-11-22"
+    "verifiedAt": "2026-11-24"
   },
   {
-    "id": "bold-pre-black-2026",
+    "id": "bold-black-friday-2026",
     "affiliate": "bold",
     "slot": "top",
     "href": "https://www.boldsnacks.com.br/discount/CECILIA15",
     "art": {
-      "kind": "bag"
+      "kind": "tag",
+      "value": "60%"
     },
-    "endsAt": "2026-11-22T23:59:59-03:00",
     "copy": {
       "pt": {
-        "headline": "Pré-Black da BOLD: brindes acumulativos no carrinho",
-        "text": "Campanha da própria BOLD. Coqueteleira, bolsa térmica e mala de treino, conforme o valor da compra; as condições aparecem no site da loja.",
-        "action": "Ver a campanha"
+        "headline": "Black Friday da BOLD: até 60% OFF",
+        "text": "Campanha da própria BOLD. Os produtos e as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
       }
     },
-    "source": "Banners da home de boldsnacks.com.br (\"Pré-Black BOLD: 30% OFF + brindes no carrinho\", brindes a partir de R$ 249, R$ 359 e R$ 699), lidos no navegador em 18/11/2026; fim em 22/11 conforme o Bruno",
-    "verifiedAt": "2026-11-18"
+    "source": "Faixa do topo de boldsnacks.com.br (\"Black Friday com até 60% OFF\", \"Frete grátis acima de R$ 99\", \"Cashback para a próxima compra\"), lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "clea-store-brinde-tshirt-2026",
@@ -155,7 +196,25 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Faixa do topo da home de cleastore.com.br (\"Black Friday Cléa Store: ganhe uma T-shirt oversized grátis comprando qualquer peça do e-commerce\"), lida no navegador em 16/11/2026, sem data de fim; mudança informada pelo Bruno (saíram o 30% OFF em todo o site e o kit a R$ 199)",
-    "verifiedAt": "2026-11-16"
+    "verifiedAt": "2026-11-24"
+  },
+  {
+    "id": "colaedecora-black-2026",
+    "affiliate": "colaedecora",
+    "slot": "top",
+    "href": "https://www.lojacolaedecora.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Cola e Decora: decoração infantil com desconto",
+        "text": "Campanha da própria Cola e Decora. Os preços e as condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banner \"Black Friday\" da home de lojacolaedecora.com.br e etiquetas Black dos produtos (de -22% a -70%), lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "damie-esquenta-black-2026",
@@ -175,6 +234,26 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Página de ofertas (/pages/cupons) e banner do topo de damie.com.br (conferidos em 23/11/2026)",
     "verifiedAt": "2026-11-23"
+  },
+  {
+    "id": "denavita-black-friday-2026",
+    "affiliate": "denavita",
+    "slot": "top",
+    "href": "https://denavita.gogroup.com.br/emcasacomcecilia",
+    "art": {
+      "kind": "tag",
+      "value": "40%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Denavita: até 40% OFF em todo o site",
+        "text": "Campanha da própria Denavita. Os produtos e as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Faixa do topo de denavita.com.br (\"Até 40% OFF em todo o site\", \"Frete grátis em compras a partir de R$ 199,90\") e banner Black Friday, lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "dolce-gusto-black-friday-2026",
@@ -230,7 +309,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Carrossel da home de drpeanut.com.br (\"Doctor November – até 20% OFF – Assinatura Doctor\"), lido no navegador em 04/11/2026; reconferido no navegador em 22/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-22"
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "dr-peanut-comprou-ganhou-2026",
@@ -269,6 +348,26 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-22"
   },
   {
+    "id": "gocase-goblack-week-2026",
+    "affiliate": "gocase",
+    "slot": "top",
+    "href": "https://gocase.gogroup.com.br/emcasacomcecilia",
+    "art": {
+      "kind": "tag",
+      "value": "60%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "GoBlack Week da Gocase: até 60% OFF",
+        "text": "Campanha da própria Gocase. Os produtos e as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banners da home de gocase.com.br (\"GoBlack Week\", \"Até 60% OFF\"), lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
+  },
+  {
     "id": "holyfoods-black-2026",
     "affiliate": "holyfoods",
     "slot": "mid",
@@ -284,7 +383,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Home de holyfoods.com.br (\"Black da Holy: 30% OFF no site todo\", \"30% OFF já aplicado nos preços\", sem prazo), lida no navegador em 05/11/2026; campanha informada pelo Bruno. Reconferida em 22/11/2026: a home segue com \"30% OFF já aplicado nos preços\" e os kits \"da Black\", sem prazo",
-    "verifiedAt": "2026-11-22"
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "hostinger-black-friday-2026",
@@ -433,7 +532,6 @@ export const storeBannersData: StoreBanner[] = [
       "value": "30%"
     },
     "startsAt": "2026-11-09T00:00:00-03:00",
-    "endsAt": "2026-11-22T23:59:59-03:00",
     "copy": {
       "pt": {
         "headline": "Black November da I Wanna Sleep: até 30% OFF",
@@ -442,8 +540,8 @@ export const storeBannersData: StoreBanner[] = [
         "tag": "ATÉ"
       }
     },
-    "source": "Condições Black November e programação de 09 a 22/11 do programa de afiliados, passadas pelo Bruno em 04/11/2026",
-    "verifiedAt": "2026-11-04"
+    "source": "Condições Black November e programação de 09 a 22/11 do programa de afiliados, passadas pelo Bruno em 04/11/2026; em 24/11 o banner da home de iwannasleep.com.br ainda mostrava \"Black November, todo o site com até 30% OFF, +5% OFF no Pix, + brindes cumulativos\", sem data de fim",
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "iws-brindes-progressivos-2026",
@@ -463,6 +561,24 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Condições Black November do programa de afiliados (\"brindes progressivos durante todo o mês\"), passadas pelo Bruno em 04/11/2026",
     "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "lamazonie-black-friday-2026",
+    "affiliate": "lamazonie",
+    "slot": "top",
+    "href": "https://www.lamazonie.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da L'Amazonie: kit com 2 séruns para sobrancelhas, 25% OFF e brindes",
+        "text": "Campanha da própria L'Amazonie. Vale para o kit de séruns; as condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banner da home de lamazonie.com.br (\"A maior promo do ano! Na compra do kit 2 séruns para sobrancelhas, ganhe protetor solar, produto surpresa e frete grátis\", \"25% OFF + 15% de cashback\"), lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "lejour-black-november-2026",
@@ -521,7 +637,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Carrossel da home e banner de /collections/outlet de letseatit.com.br (\"Black Friday – as melhores ofertas do outlet com até 70% OFF\"), lidos no navegador em 04/11/2026",
-    "verifiedAt": "2026-11-22"
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "magalu-black-das-blacks-2026",
@@ -541,6 +657,44 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Página magazineluiza.com.br/lp/black-friday (\"a Black das Blacks Magalu é muito mais do que uma única sexta-feira, é um mês inteiro com ofertas da Black Friday\"), lida no navegador em 04/11/2026 e de novo em 22/11/2026, sem data de fim publicada",
     "verifiedAt": "2026-11-22"
+  },
+  {
+    "id": "mais-mu-blue-friday-2026",
+    "affiliate": "mais-mu",
+    "slot": "top",
+    "href": "https://www.lojamaismu.com.br/",
+    "art": {
+      "kind": "tag",
+      "value": "60%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Blue Friday da Mais Mu: até 60% OFF",
+        "text": "Campanha da própria Mais Mu. Os produtos e as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banner da home de lojamaismu.com.br (\"A Blue Friday mais esperada chegou! Garanta seus favoritos com até 60% OFF\"), lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
+  },
+  {
+    "id": "mais-mu-brinde-creatina-2026",
+    "affiliate": "mais-mu",
+    "slot": "mid",
+    "href": "https://www.lojamaismu.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Creatina de brinde na Mais Mu: compre qualquer produto e ganhe um pote de 210 g",
+        "text": "Campanha da própria Mais Mu. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Faixa do topo da home de lojamaismu.com.br (\"Compre qualquer produto e ganhe uma creatina pote 210g\"), lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "max-titanium-brinde-meias-2026",
@@ -600,7 +754,43 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Faixa do topo de nestlenutre.com.br (\"COMEÇOU a Semana de Black Friday Nestlé Nutre!\") e banners da home (\"só nesta semana\", até 50% OFF, frete grátis acima de R$ 100 durante a Black Friday), sem data de fim publicada, lidos no navegador em 23/11/2026",
-    "verifiedAt": "2026-11-23"
+    "verifiedAt": "2026-11-24"
+  },
+  {
+    "id": "oceane-black-friday-2026",
+    "affiliate": "oceane",
+    "slot": "top",
+    "href": "https://www.oceane.com.br/?utmi_pc=emcasa",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Océane: tudo com no mínimo 15% OFF e mais de 500 produtos com desconto",
+        "text": "Campanha da própria Océane, por tempo limitado e só no site; as condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banner da home de oceane.com.br (\"Black Friday: tudo com no mínimo 15% OFF, + de 500 produtos com desconto\", \"oferta válida por tempo limitado, somente online\"), lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
+  },
+  {
+    "id": "oceane-brindes-progressivos-2026",
+    "affiliate": "oceane",
+    "slot": "mid",
+    "href": "https://www.oceane.com.br/?utmi_pc=emcasa",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Brindes progressivos na Black Friday da Océane: brinde acima de R$ 99, R$ 199 e R$ 299",
+        "text": "Campanha da própria Océane. Os brindes não acumulam e valem uma vez por pedido; as condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banner da home de oceane.com.br (\"Black Friday, brindes progressivos\": brilho labial acima de R$ 99, caneta delineadora acima de R$ 199 e blush cremoso acima de R$ 299) e rodapé (\"as promoções de brindes não são acumulativas, serão aplicadas apenas 1x por pedido\"), lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "petz-friday-2026",
@@ -622,6 +812,26 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Regulamento da Black Friday Petz 2026 em petz.com.br/especiais/black-friday-2026 (\"no período de 30/10/2026 a 30/11/2026, nas lojas físicas, no site e no aplicativo\") e banner da home (\"Petz Friday até 70% off\"), lidos no navegador em 22/11/2026",
     "verifiedAt": "2026-11-22"
+  },
+  {
+    "id": "pinkcheeks-black-friday-2026",
+    "affiliate": "pinkcheeks",
+    "slot": "top",
+    "href": "https://pinkcheeks.com.br/",
+    "art": {
+      "kind": "tag",
+      "value": "50%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Pink Cheeks: kits com até 50% OFF",
+        "text": "Campanha da própria Pink Cheeks. Os kits e as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banner da home de pinkcheeks.com.br (\"Black Friday Pink Cheeks: kits prontos com 50% OFF\", \"Kits até 50% OFF\"), lido no navegador em 24/11/2026, sem data de fim",
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "probiotica-novembro-pro-2026",
@@ -745,7 +955,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Faixa do topo de rituaria.com.br (\"Começou o Black November • Leve 3, pague 2 nos suplementos\"), lida no navegador em 18/11/2026, sem data de fim",
-    "verifiedAt": "2026-11-18"
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "shein-1111-2026",
@@ -996,7 +1206,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Banner da home de simpleorganic.com.br (\"Clean Friday chegou! Tudo com até 70% OFF\"), lido no navegador em 18/11/2026; em 04/11 era \"até 50% OFF\"",
-    "verifiedAt": "2026-11-18"
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "skelt-black-friday-2026",
@@ -1018,6 +1228,26 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-02"
   },
   {
+    "id": "skelt-progressivo-2411",
+    "affiliate": "skelt",
+    "slot": "top",
+    "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+    "art": {
+      "kind": "tag",
+      "value": "25%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Quanto mais Skelt, mais desconto: 20% com 2 produtos e 25% com 3 ou mais",
+        "text": "Campanha da própria Skelt. O desconto sobe com o número de produtos; as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banner da home de skelt.com.br (\"Quanto mais Skelt, mais desconto\": 20% OFF com 2 produtos e 25% OFF com 3 ou mais) e faixa do topo (\"20% OFF em duos e 25% OFF em kits\"), lido no navegador em 24/11/2026, sem data de fim; o e-mail de creators de 21 a 22/11 trazia a progressiva de 15%, 20% e 25%, que o site ainda mostrava",
+    "verifiedAt": "2026-11-24"
+  },
+  {
     "id": "toda-up-black-november-2026",
     "affiliate": "toda-up",
     "slot": "top",
@@ -1033,7 +1263,7 @@ export const storeBannersData: StoreBanner[] = [
       }
     },
     "source": "Faixa do topo de todaup.com (\"Black Week com até 50% OFF\", \"Frete fixo R$ 9,90\") e quadro \"Black Week\" das páginas de produto, lidos no navegador em 23/11/2026; a loja não publica a data de fim",
-    "verifiedAt": "2026-11-23"
+    "verifiedAt": "2026-11-24"
   },
   {
     "id": "toda-up-brinde-protetor-2026",
