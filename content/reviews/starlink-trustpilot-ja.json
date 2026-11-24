@@ -8,13 +8,21 @@
   "type": "評判分析",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "starlink.comのTrustpilotページのスコア、レビュー数、評価の内訳、多い不満を確認します。レビューの偏りと、問題があったときの連絡先も紹介します。",
   "metaDescription": "StarlinkのTrustpilotスコアは1.6、レビュー879件（未登録ページ）。最近の星1つと星5つのレビューの内容をまとめました。",
   "publishedAt": "2026年11月20日",
@@ -31,7 +39,15 @@
     {
       "heading": "クイックアンサー",
       "paragraphs": [
-        "starlink.comのTrustpilotページ「Starlink Development」は、レビュー879件でTrustScoreが5点満点の1.6、そのうち71%が星1つです。このページは企業が登録していません。有料プランはなく、レビュー依頼も送らず、否定的なレビュー464件のどれにも返信していません。レビューは多くの国の利用者によるものです。"
+        "starlink.comのTrustpilotページ「Starlink Development」は、レビュー879件でTrustScoreが5点満点の1.6、そのうち71%が星1つです。このページは企業が登録していません。有料プランはなく、レビュー依頼も送らず、過去 12 か月（Trustpilot の企業アクティビティページの対象期間）の否定的なレビュー464件のどれにも返信していません。レビューは多くの国の利用者によるものです。",
+        "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
+      ],
+      "links": [
+        {
+          "label": "利用住所でStarlinkの紹介特典を確認",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -184,13 +200,6 @@
           "objectFit": "contain",
           "aspectRatio": 1.8079
         }
-      ],
-      "links": [
-        {
-          "label": "starlink.comで公式の注文を開き、自分の地域を確認する",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
       ]
     },
     {
@@ -224,7 +233,7 @@
       "emphasis": "表の数字から見ると、住所に頼れる別のインターネットがない人にとっては、starlink.comでその住所のプラン、キット、税、契約を確認したうえで契約するのは妥当です。1.6というスコアには、電波の品質よりサポート、請求、料金への不満が多く反映されているからです。",
       "links": [
         {
-          "label": "starlink.comで自分の住所の提供状況を確認する",
+          "label": "starlink.comで公式の注文を開き、自分の地域を確認する",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -267,8 +276,8 @@
     ]
   },
   "cta": {
-    "text": "紹介リンクから注文を開き、住所でプラン、キット、契約を確認して、支払う前に概要画面を保存してください。料金は公式サイトと同じです。",
-    "label": "starlink.comで自分の注文を開く",
+    "text": "日本の新規契約者は、対象プランで2回の請求サイクルの支払いを完了すると、7,000円分のクレジットを受け取れます。私たちの紹介リンクから注文画面を開き、支払い前に特典をご確認ください。",
+    "label": "紹介リンクでStarlinkの注文を開く",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

@@ -8,13 +8,21 @@
   "type": "Guide Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "À Paris, la commande Starlink affichait le 100 Mbit/s à 24,50 € par mois et le kit loué à 0 €. Voyez le calcul de la première commande et comment entre le parrainage.",
   "metaDescription": "Starlink Black Friday : 30 % sur les forfaits et kit loué à 0 €. Voyez les prix de Paris, le retour du kit et comment le parrainage entre dans le calcul.",
   "publishedAt": "20 novembre 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "La commande Starlink lue à Paris affichait 30 % de réduction sur les forfaits jusqu'au 30 novembre : 24,50 € par mois pour le 100 Mbit/s, 31,50 € pour le 200 Mbit/s et 45,50 € pour le Max, avec un kit loué à 0 € et 19 € à payer le jour même. Le matériel se renvoie si vous annulez, avec 30 jours d'essai. La récompense du parrainage ne compte que si vous ouvrez la commande depuis un lien de parrainage avant de payer."
+        "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation.",
+        "La commande Starlink lue à Paris affichait 30 % de réduction sur les forfaits jusqu'au 30 novembre : 24,50 € par mois pour le 100 Mbit/s, 31,50 € pour le 200 Mbit/s et 45,50 € pour le Max, avec un kit loué à 0 € et 19 € à payer le jour même. Le matériel se renvoie si vous annulez, avec 30 jours d'essai."
+      ],
+      "links": [
+        {
+          "label": "Vérifier mon adresse et le crédit Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -146,14 +162,7 @@
       "postParagraphs": [
         "Le 200 Mbit/s se place au milieu : 31,50 € par mois avec la réduction, contre 45 € au prix normal. Si le 100 Mbit/s vous paraît juste et le Max trop, c'est le forfait à comparer en premier."
       ],
-      "emphasis": "D'après le tableau, la commande à Paris demande 19 € le jour même, puis 24,50 €, 31,50 € ou 45,50 € par mois selon le forfait, et la récompense n'arrive qu'après deux cycles mensuels complets.",
-      "links": [
-        {
-          "label": "Consulter le Black Friday et le parrainage à mon adresse",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ]
+      "emphasis": "D'après le tableau, la commande à Paris demande 19 € le jour même, puis 24,50 €, 31,50 € ou 45,50 € par mois selon le forfait, et la récompense n'arrive qu'après deux cycles mensuels complets."
     },
     {
       "heading": "Ce que montre la commande",
@@ -198,7 +207,7 @@
       },
       "links": [
         {
-          "label": "Sécuriser le parrainage avant de payer la commande",
+          "label": "Consulter le Black Friday et le parrainage à mon adresse",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -257,8 +266,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Vous payez le même prix que sur la commande officielle, vous gardez les 30 jours d'essai et le retour du kit loué si l'antenne ne convient pas à votre toit, et la récompense du parrainage entre sur votre facture après deux cycles payés.",
-    "label": "Voir mon adresse avec le parrainage",
+    "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
+    "label": "Ouvrir ma commande avec le parrainage",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

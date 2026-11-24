@@ -8,13 +8,21 @@
   "type": "实用指南",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Starlink 官网没有简体中文版。按地址不同，设备可能是购买、0 元租用或绑 12 个月合约。以马来西亚为例说明，并附 30 天退款与取消步骤。",
   "metaDescription": "Starlink 官网没有中文界面，设备有购买、租用和 12 个月合约三种模式。以马来西亚为例，并说明 30 天退款与取消步骤。",
   "publishedAt": "2026年11月20日",
@@ -31,7 +39,15 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Starlink 没有一套全球通用的合约规则，设备条件因地址而不同，而且官方订购页没有简体中文版。我们看到三种模式：购买设备且没有合约期限，例如马来西亚的 100 Mbps；0 元租用设备、取消时须退回，例如马来西亚的 Max、美国、日本和欧洲；以及补贴设备但绑 12 个月合约并有提前解约费，例如巴西的 Max 和墨西哥的 Standard 4 X。各种模式都有 30 天的退回与退款期，请以你自己订单上的条款为准。"
+        "Starlink 没有一套全球通用的合约规则，设备条件因地址而不同，而且官方订购页没有简体中文版。我们看到三种模式：购买设备且没有合约期限，例如马来西亚的 100 Mbps；0 元租用设备、取消时须退回，例如马来西亚的 Max、美国、日本和欧洲；以及补贴设备但绑 12 个月合约并有提前解约费，例如巴西的 Max 和墨西哥的 Standard 4 X。各种模式都有 30 天的退回与退款期，请以你自己订单上的条款为准。",
+        "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
+      ],
+      "links": [
+        {
+          "label": "查看我的地址适用的 Starlink 推荐奖励",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -54,13 +70,6 @@
           "caption": "吉隆坡订单摘要，2026 年 11 月 23 日查看：Max 每月 RM 235，租用套件 RM 0。",
           "objectFit": "portrait",
           "aspectRatio": 0.8154
-        }
-      ],
-      "links": [
-        {
-          "label": "用我的地址查看方案与合约条件",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
         }
       ]
     },
@@ -117,7 +126,7 @@
       "emphasis": "按订单页条款，取消服务并在期限内把套件完好退回，才能申请套件和首月费用的退款，所以寄送凭证就是起决定作用的证明。",
       "links": [
         {
-          "label": "在 starlink.com 查看含 30 天退款的方案",
+          "label": "用我的地址查看方案与合约条件",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -207,8 +216,8 @@
     ]
   },
   "cta": {
-    "text": "订购页会通过推荐链接在 starlink.com 打开，链接要在付款前使用。价格和官网相同，你能看到自己地址的合约条件，也保留 30 天的退回期。奖励在服务满两个月后入账。",
-    "label": "查看我所在地址的合约与方案",
+    "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
+    "label": "通过推荐链接打开 Starlink 订单",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

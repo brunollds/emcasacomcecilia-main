@@ -8,13 +8,21 @@
   "type": "Black Friday Guide",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "In Nevada, Starlink showed 100 Mbps at $38.50 a month with a $0 rental kit. See the US and UK numbers, how the $100 referral fits in and what to check first.",
   "metaDescription": "Starlink Black Friday: 30% off service, a $0 rental kit and a $100 US referral reward. See the Nevada and UK numbers and check your address.",
   "publishedAt": "November 20, 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Starlink's Black Friday offer takes 30% off the monthly plan in select areas, with a $0 rental kit that you return if you cancel. In Nevada the 100 Mbps plan was $38.50 a month, with $20 plus taxes due today. The $100 referral reward (£40 in the UK) only counts if you open the order through a referral link before you pay, and it lands after two paid monthly cycles. The offer runs until November 30."
+        "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles.",
+        "Starlink's Black Friday offer takes 30% off the monthly plan in select areas, with a $0 rental kit that you return if you cancel. In Nevada the 100 Mbps plan was $38.50 a month, with $20 plus taxes due today. The offer runs until November 30."
+      ],
+      "links": [
+        {
+          "label": "Check my address for the Starlink reward",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -156,14 +172,7 @@
       "postParagraphs": [
         "The 200 Mbps plan sits in the middle: $59.50 a month in Nevada, with the Starlink V4 and Router 4 on rental and $0 professional installation. Max also comes with free professional installation, while the 100 Mbps plan lists it as an optional $99 extra."
       ],
-      "emphasis": "By the numbers in the table, the Nevada order is $20 plus taxes today and $38.50 a month for 100 Mbps, and the $100 reward only lands after two full paid cycles, so the first bills come out of pocket.",
-      "links": [
-        {
-          "label": "Check Black Friday and the $100 reward at my address",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ]
+      "emphasis": "By the numbers in the table, the Nevada order is $20 plus taxes today and $38.50 a month for 100 Mbps, and the $100 reward only lands after two full paid cycles, so the first bills come out of pocket."
     },
     {
       "heading": "What the order looks like",
@@ -208,7 +217,7 @@
       },
       "links": [
         {
-          "label": "Lock in the $100 reward before I place the order",
+          "label": "Check Black Friday and the $100 reward at my address",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -265,8 +274,8 @@
     }
   ],
   "cta": {
-    "text": "You pay the same price as on the official order page, keep the 30-day return window if the dish does not work on your roof, and lock in the $100 referral reward (£40 in the UK) after two paid cycles.",
-    "label": "Check my address and lock in the $100",
+    "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+    "label": "Open my Starlink order with the referral",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

@@ -8,13 +8,21 @@
   "type": "Análise de Reputação",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Veja a nota, quantas pessoas avaliaram o atendimento e quais queixas aparecem no perfil verificado Starlink Brazil. Saiba como registrar a sua reclamação.",
   "metaDescription": "Starlink no Reclame Aqui: nota 7,8 e reputação Boa no perfil verificado Starlink Brazil. Veja as janelas de 6 e 12 meses e as queixas mais frequentes.",
   "publishedAt": "19 de novembro de 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O perfil verificado Starlink Brazil tem reputação Boa e nota 7,8 no Reclame Aqui nos últimos seis meses, depois de quatro meses em Ótima. Todas as 2.017 reclamações recebidas foram respondidas, e 77,1% das 860 avaliadas foram resolvidas. A nota 7,8 é da plataforma; a média dos consumidores é 6,73."
+        "O perfil verificado Starlink Brazil tem reputação Boa e nota 7,8 no Reclame Aqui nos últimos seis meses, depois de quatro meses em Ótima. Todas as 2.017 reclamações recebidas foram respondidas, e 77,1% das 860 avaliadas foram resolvidas. A nota 7,8 é da plataforma; a média dos consumidores é 6,73.",
+        "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
+      ],
+      "links": [
+        {
+          "label": "Consultar meu endereço com o bônus Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -169,13 +185,6 @@
           "objectFit": "contain",
           "aspectRatio": 1.8079
         }
-      ],
-      "links": [
-        {
-          "label": "Abrir o pedido oficial em starlink.com e conferir minha região",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
       ]
     },
     {
@@ -213,7 +222,7 @@
       "emphasis": "Pelos números da tabela, para quem depende da Starlink no endereço, a escolha é assinar depois de conferir plano, kit e contrato no pedido, porque a nota 7,8 mede o atendimento às reclamações no Reclame Aqui, e não a qualidade do sinal.",
       "links": [
         {
-          "label": "Verificar disponibilidade no meu CEP direto em starlink.com",
+          "label": "Abrir o pedido oficial em starlink.com e conferir minha região",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -255,8 +264,8 @@
     ]
   },
   "cta": {
-    "text": "Abra o pedido pelo link de indicação, confira plano, kit e contrato no seu endereço e salve a tela do resumo antes de pagar. O preço é o do site oficial.",
-    "label": "Abrir o pedido em starlink.com no meu endereço",
+    "text": "Pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal, após dois ciclos completos em dia. Confira o valor no pedido oficial da Starlink antes de pagar.",
+    "label": "Abrir meu pedido pelo link de indicação",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

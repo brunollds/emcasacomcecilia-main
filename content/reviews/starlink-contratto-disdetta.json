@@ -8,13 +8,21 @@
   "type": "Guida pratica",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "A Milano l'ordine dice nessun contratto, con kit a noleggio a 0 € da restituire se annulli. Vedi i tre piani, i 30 giorni di prova e come annullare dall'account.",
   "metaDescription": "Starlink in Italia: nessun contratto, kit a noleggio a 0 € da restituire e 30 giorni per il rimborso. Scopri come annullare l'abbonamento dall'account.",
   "publishedAt": "20 novembre 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "L'ordine consultato a Milano riportava «Nessun contratto, prova di 30 giorni». Il kit è a noleggio, con 0 € iniziali e 0 € al mese, e va restituito se annulli il servizio. L'ordine descrive il rimborso del kit e del primo mese se annulli e restituisci l'attrezzatura senza danni entro 30 giorni. Gli sconti del 50 % sui primi 3 mesi valgono fino a fine novembre, e dopo i 3 mesi si paga il prezzo pieno."
+        "L'ordine consultato a Milano riportava «Nessun contratto, prova di 30 giorni». Il kit è a noleggio, con 0 € iniziali e 0 € al mese, e va restituito se annulli il servizio. L'ordine descrive il rimborso del kit e del primo mese se annulli e restituisci l'attrezzatura senza danni entro 30 giorni. Gli sconti del 50 % sui primi 3 mesi valgono fino a fine novembre, e dopo i 3 mesi si paga il prezzo pieno.",
+        "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
+      ],
+      "links": [
+        {
+          "label": "Verificare il bonus Starlink al mio indirizzo",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -54,13 +70,6 @@
           "caption": "Riepilogo a Milano, consultato il 23/11/2026: 35 € meno 17,50 € per 3 mesi, Mini X a 0 € e 19 € oggi.",
           "objectFit": "portrait",
           "aspectRatio": 0.6709
-        }
-      ],
-      "links": [
-        {
-          "label": "Controlla piani e contratto al mio indirizzo",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
         }
       ]
     },
@@ -127,7 +136,7 @@
       "emphasis": "Secondo le condizioni dell'ordine, annullare e restituire il kit senza danni entro 30 giorni è ciò che dà diritto al rimborso del kit e del primo mese, e la ricevuta di spedizione è la prova che conta.",
       "links": [
         {
-          "label": "Vedi i piani con 30 giorni di rimborso su starlink.com",
+          "label": "Controlla piani e contratto al mio indirizzo",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -218,8 +227,8 @@
     ]
   },
   "cta": {
-    "text": "L'ordine si apre su starlink.com con il link di invito, che deve venire prima del pagamento. Paghi lo stesso prezzo del sito, vedi il contratto del tuo indirizzo e tieni i 30 giorni per restituire il kit. Il credito arriva dopo due mesi di abbonamento.",
-    "label": "Controlla contratto e piano al mio indirizzo",
+    "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
+    "label": "Aprire il mio ordine con il link di invito",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

@@ -8,13 +8,21 @@
   "type": "黑色星期五指南",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Starlink 官網沒有中文介面。我們用馬來西亞、美國和日本的真實訂購頁，算清當天應付、月費、設備是租是買，以及推薦獎勵何時入帳。",
   "metaDescription": "Starlink 黑色星期五優惠依地址而異。看馬來西亞、美國、日本的訂單怎麼算，設備是租還是買，以及推薦獎勵何時入帳。",
   "publishedAt": "2026年11月20日",
@@ -31,7 +39,15 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Starlink 官網沒有中文介面，所以我們讀了馬來西亞、美國和日本的訂購頁：馬來西亞 100 Mbps 月費 RM 135 且設備需購買（RM 900），Max 月費 RM 235 且設備免費租用；美國 100 Mbps 優惠後月費 US$38.50，設備租用 US$0；日本ホーム優惠後月費 ¥3,550。美國和日本的優惠到 11 月 30 日。推薦獎勵依國家而定，例如美國是 US$100，只在透過推薦連結開啟的訂單上計算，並在滿兩個完整計費週期後發放。"
+        "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。",
+        "Starlink 官網沒有中文介面，所以我們讀了馬來西亞、美國和日本的訂購頁：馬來西亞 100 Mbps 月費 RM 135 且設備需購買（RM 900），Max 月費 RM 235 且設備免費租用；美國 100 Mbps 優惠後月費 US$38.50，設備租用 US$0；日本ホーム優惠後月費 ¥3,550。美國和日本的優惠到 11 月 30 日。"
+      ],
+      "links": [
+        {
+          "label": "查看我的地址適用的 Starlink 推薦獎勵",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -146,14 +162,7 @@
       "postParagraphs": [
         "馬來西亞的例子說明為什麼要看每個方案的設備那一行：100 Mbps 要買 Mini X，Max 則是免費租用，兩者月費相差 RM 100。讀訂購頁時，先看設備是購買還是租用，再比較月費。"
       ],
-      "emphasis": "各國訂購頁的月費、設備方式和當天應付各不相同，所以優惠是否划算，只能看你所在地址訂購頁上的當天應付總額；推薦獎勵要滿兩個完整計費週期後才發放，在那之前月費照付。",
-      "links": [
-        {
-          "label": "查看你地址的黑色星期五與推薦獎勵",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ]
+      "emphasis": "各國訂購頁的月費、設備方式和當天應付各不相同，所以優惠是否划算，只能看你所在地址訂購頁上的當天應付總額；推薦獎勵要滿兩個完整計費週期後才發放，在那之前月費照付。"
     },
     {
       "heading": "訂購頁怎麼看",
@@ -204,7 +213,7 @@
       ],
       "links": [
         {
-          "label": "付款前先鎖定推薦獎勵",
+          "label": "查看你地址的黑色星期五與推薦獎勵",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -261,8 +270,8 @@
     }
   ],
   "cta": {
-    "text": "價格和官方訂購頁一樣，如果天線在你的屋頂上用不了，30 天內還能退回設備；滿兩個計費週期後，推薦獎勵會以抵扣的形式進入你的帳單。",
-    "label": "查看我的地址並鎖定推薦獎勵",
+    "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
+    "label": "透過推薦連結開啟 Starlink 訂單",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

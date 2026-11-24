@@ -8,13 +8,21 @@
   "type": "Reputationsanalyse",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Der TrustScore, wie viele Menschen bewertet haben und welche Beschwerden im Trustpilot-Profil der Domain starlink.com auftauchen. Dazu, wie Sie selbst reklamieren.",
   "metaDescription": "Starlink bei Trustpilot: TrustScore 1,6 bei 879 Bewertungen auf einem nicht beanspruchten Profil. Was aktuelle Ein- und Fünf-Sterne-Bewertungen sagen.",
   "publishedAt": "20. November 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Starlink Development, das Trustpilot-Profil von starlink.com, hat einen TrustScore von 1,6 von 5 bei 879 Bewertungen, davon 71 % mit einem Stern. Das Profil ist nicht beansprucht: Das Unternehmen hat keinen kostenpflichtigen Tarif, verschickt keine Einladungen zu Bewertungen und hat auf keine der 464 negativen Bewertungen geantwortet. Die Bewertungen stammen von Kunden aus vielen Ländern."
+        "Starlink Development, das Trustpilot-Profil von starlink.com, hat einen TrustScore von 1,6 von 5 bei 879 Bewertungen, davon 71 % mit einem Stern. Das Profil ist nicht beansprucht: Das Unternehmen hat keinen kostenpflichtigen Tarif, verschickt keine Einladungen zu Bewertungen und hat auf keine der 464 negativen Bewertungen der letzten 12 Monate geantwortet, des Zeitraums, den die Seite zur Unternehmensaktivität bei Trustpilot abdeckt. Die Bewertungen stammen von Kunden aus vielen Ländern.",
+        "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
+      ],
+      "links": [
+        {
+          "label": "Starlink-Prämie für meine Adresse prüfen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -184,13 +200,6 @@
           "objectFit": "contain",
           "aspectRatio": 1.8079
         }
-      ],
-      "links": [
-        {
-          "label": "Offizielle Bestellung auf starlink.com öffnen und meine Region prüfen",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
       ]
     },
     {
@@ -224,7 +233,7 @@
       "emphasis": "Nach den Zahlen der Tabelle ist das Abonnieren für alle ohne gute Internetalternative an ihrer Adresse vertretbar, sobald Tarif, Kit, Steuern und Vertrag auf starlink.com für diese Adresse geprüft sind, denn die 1,6 spiegelt Beschwerden über Support, Abrechnung und Preis stärker wider als die Signalqualität.",
       "links": [
         {
-          "label": "Verfügbarkeit an meiner Adresse auf starlink.com prüfen",
+          "label": "Offizielle Bestellung auf starlink.com öffnen und meine Region prüfen",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -267,8 +276,8 @@
     ]
   },
   "cta": {
-    "text": "Öffnen Sie die Bestellung über den Empfehlungslink, prüfen Sie Tarif, Kit und Vertrag für Ihre Adresse und speichern Sie den Screenshot der Übersicht vor der Zahlung. Der Preis ist der der offiziellen Seite.",
-    "label": "Meine Bestellung auf starlink.com öffnen",
+    "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
+    "label": "Meine Bestellung über den Empfehlungslink öffnen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

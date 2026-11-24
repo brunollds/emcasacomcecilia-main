@@ -3,20 +3,28 @@
   "slug": "black-friday-starlink",
   "translationKey": "starlink-black-friday",
   "locale": "pt",
-  "title": "Black Friday Starlink 2026: Max com 12 meses ou 100 Mbps sem fidelidade, e o crédito de R$ 200 da indicação",
-  "seoTitle": "Black Friday Starlink 2026: Max ou 100 Mbps sem fidelidade",
+  "title": "Black Friday Starlink 2026: preços dos planos e R$ 200 de crédito por indicação",
+  "seoTitle": "Black Friday Starlink 2026: preços e crédito de R$ 200",
   "type": "Guia de Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
-  "description": "Max com 12 meses de contrato ou 100 Mbps sem fidelidade: veja o que cada um custa no pedido e quando os R$ 200 da indicação voltam como crédito.",
-  "metaDescription": "Black Friday Starlink: Max com contrato de 12 meses ou 100 Mbps sem fidelidade. Veja o pedido de cada um e o crédito de 200 reais da indicação.",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Veja os preços do 100 Mbps e do Max na Black Friday da Starlink e como receber R$ 200 de crédito na fatura com o link de indicação.",
+  "metaDescription": "Black Friday Starlink: veja os preços do 100 Mbps e do Max, as condições de cada pedido e como receber 200 reais de crédito na fatura.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
   "updatedAt": "2026-11-23",
@@ -31,7 +39,15 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Na Black Friday da Starlink há dois caminhos no Brasil: o Residencial Max, com kit de 49 reais e contrato de 12 meses, e o 100 Mbps, com Mini X de 299 reais e sem fidelidade. Depois de dois ciclos pagos, 200 reais voltam como crédito na fatura, sem reduzir o preço do kit, e só se o pedido sair do link. As ofertas vão até 30 de novembro, em áreas selecionadas."
+        "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia.",
+        "Na oferta consultada em Alto Paraíso de Goiás, o Max trazia kit a 49 reais e contrato de 12 meses. A tela do 100 Mbps mostrava o Mini X comprado por 299 reais. A campanha vai até 30 de novembro em áreas selecionadas."
+      ],
+      "links": [
+        {
+          "label": "Consultar meu endereço com o bônus Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -84,11 +100,11 @@
         "title": "Simulador: a conta de cada caminho",
         "scenarios": [
           {
-            "label": "100 Mbps sem fidelidade, pelo link",
+            "label": "100 Mbps consultado, pelo link",
             "lines": [
               {
                 "label": "Mini X no pedido",
-                "value": "R$ 299, sem contrato de 12 meses"
+                "value": "R$ 299, sem cláusula de 12 meses na tela"
               },
               {
                 "label": "Mensalidade com 30%",
@@ -151,19 +167,12 @@
       "postParagraphs": [
         "O 100 Mbps cobra R$ 42 a menos por mês, e o kit dele custa R$ 250 a mais. Se o preço promocional do 100 Mbps se mantiver, as duas contas se encontram por volta do sexto mês. Até lá o Max sai na frente pelo kit de entrada menor, mas ele é o plano de cima e prende você por 12 meses: compare também a velocidade de que você precisa."
       ],
-      "emphasis": "Pelos números da tabela, kit e primeira mensalidade somam R$ 223,30 no Max (12 meses de contrato) e R$ 431,30 no 100 Mbps (sem fidelidade); nos dois, R$ 200 voltam como crédito na fatura depois de dois meses, sem reduzir o preço do kit.",
-      "links": [
-        {
-          "label": "Consultar a Black Friday e o bônus de R$ 200 no meu endereço",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ]
+      "emphasis": "Pelos números da tabela, kit e primeira mensalidade somam R$ 223,30 no Max (12 meses de contrato) e R$ 431,30 no 100 Mbps (sem cláusula de 12 meses na tela); nos dois, R$ 200 voltam como crédito na fatura depois de dois meses, sem reduzir o preço do kit."
     },
     {
       "heading": "Como aparece no pedido",
       "paragraphs": [
-        "Veja no print o aviso verde de indicação aplicada, os 30% de desconto e o total a pagar no dia. No Max, o contrato de 12 meses aparece na linha do equipamento; no 100 Mbps, essa linha não aparece.",
+        "Veja no print o aviso verde de indicação aplicada, os 30% de desconto e o total a pagar no dia. Para conferir a fidelidade, veja os termos do plano e do kit no resumo do seu pedido.",
         "Para conferir a sua oferta, abra o link, informe o endereço e procure o mesmo aviso antes de pagar. Veja se o pedido mostra o valor da recompensa e as condições da mensalidade."
       ],
       "image": {
@@ -177,7 +186,7 @@
     {
       "heading": "A oferta vale no seu endereço?",
       "paragraphs": [
-        "Alto Paraíso de Goiás está na Região Legal da Amazônia, e a tela avisa que quem mora lá precisa enviar identificação antes de receber o serviço. A aba do 100 Mbps, no print, mostra a mensalidade de R$ 132,30 e o Mini X de R$ 299.",
+        "Na tela de Alto Paraíso de Goiás, o 100 Mbps aparece a R$ 132,30 por mês, com o Mini X por R$ 299.",
         "Na Avenida Paulista, em São Paulo, a consulta de 23 de novembro de 2026 já era outra: o endereço entrou em pré-venda por falta de capacidade. Sem os 30%, as mensalidades aparecem cheias, R$ 189 no 100 Mbps e R$ 249 no Max, o kit é o Standard 4 X, de R$ 2.400, e o pedido cobra R$ 275 de depósito hoje, que abatem o kit depois. Nessa tela não há contrato de 12 meses nem multa.",
         "Em Portugal, a consulta de Lisboa do mesmo dia mostrou três planos com 30% até 30 de novembro: 100 Mbps a 24,50 € (35 € cheio), 200 Mbps a 31,50 € (45 €) e Max a 45,50 € (65 €). O kit é alugado por 0 €, sem contratos e com teste de 30 dias, o envio custa 20 € hoje e o kit deve ser devolvido se você cancelar. O bônus da indicação em Portugal é de 45 €, quase dois meses do 100 Mbps."
       ],
@@ -192,8 +201,8 @@
     {
       "heading": "Contrato, multa e 30 dias para devolver",
       "paragraphs": [
-        "No Max a R$ 49, o pedido exige 12 meses de contrato e informa multa de até R$ 1.099 por saída antecipada. No 100 Mbps, o equipamento é comprado e o resumo do pedido não traz esse prazo. A caixa de perguntas frequentes da tela repete a frase do prazo de 12 meses nos dois casos, então leia a linha do equipamento do plano que você escolheu.",
-        "A Starlink informa reembolso do kit e do primeiro mês para quem cancelar o serviço e devolver o kit sem danos em até 30 dias do pagamento. É esse teste que faz o clique no link não custar nada: você vê o preço do seu endereço, testa a antena no telhado e só então decide ficar. Depois dos 30 dias, no Max passa a valer a multa. Veja o [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar)."
+        "No Max a R$ 49, o pedido exige 12 meses de contrato e informa multa de até R$ 1.099 por saída antecipada. Na tela consultada do 100 Mbps, o kit aparecia para compra e a cláusula não estava no resumo. A pergunta genérica de 12 meses aparecia nos dois casos. Confira o prazo associado ao plano e ao kit no seu pedido.",
+        "Abrir o link permite consultar o preço do seu endereço antes de contratar. Para testar a antena, confira na sua oferta quando começam os 30 dias, o que é reembolsável e como devolver o equipamento. Se o pedido do Max tiver contrato, confira também quando a taxa por saída antecipada se aplica. Veja o [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar)."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
@@ -204,7 +213,7 @@
       },
       "links": [
         {
-          "label": "Garantir o bônus de R$ 200 antes de fechar o pedido",
+          "label": "Consultar a Black Friday e o bônus de R$ 200 no meu endereço",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -250,10 +259,10 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
-        "A Starlink tem Black Friday? Sim. A oferta de fim de novembro dá 30% na mensalidade para clientes novos em áreas selecionadas. O Max vem com kit a R$ 49 e contrato de 12 meses, e o 100 Mbps com Mini X a R$ 299 e sem fidelidade.",
+        "A Starlink tem Black Friday? Sim. A oferta de fim de novembro dá 30% na mensalidade para clientes novos em áreas selecionadas. O Max vem com kit a R$ 49 e contrato de 12 meses, e o 100 Mbps com Mini X a R$ 299, sem cláusula de 12 meses no pedido consultado.",
         "A indicação soma com a oferta? Sim. Na tela brasileira consultada, o preço promocional e a recompensa de R$ 200 apareceram juntos. A recompensa depende da elegibilidade e de dois ciclos mensais completos.",
         "O 100 Mbps tem fidelidade? No resumo do pedido consultado, o 100 Mbps não trazia contrato de 12 meses. O Max a R$ 49 traz, com multa de até R$ 1.099 por saída antecipada.",
-        "Posso testar a Starlink antes de decidir? Sim. A Starlink informa reembolso do kit e do primeiro mês para quem cancelar e devolver o kit sem danos em até 30 dias do pagamento.",
+        "Posso testar a Starlink antes de decidir? Sim. A Starlink oferece um teste inicial de 30 dias. Confira quando a contagem começa, o que é reembolsável e como cancelar e devolver o kit em bom estado.",
         "Dá para pedir a indicação depois de pagar? Não. A indicação só vale no pedido aberto pelo link, antes do pagamento.",
         "E se o meu endereço estiver em pré-venda? Sem os 30%, a mensalidade aparece cheia e o pedido cobra um depósito que abate o kit. Na consulta da Avenida Paulista, o depósito era de R$ 275 e não havia contrato de 12 meses.",
         "Até quando vai a oferta? A oferta de fim de novembro vale para pedidos feitos até o fim do mês, em áreas selecionadas. Informe o endereço no pedido para ver se ela está disponível."
@@ -261,8 +270,8 @@
     }
   ],
   "cta": {
-    "text": "Você paga o mesmo preço do pedido oficial, mantém os 30 dias para devolver o kit se a antena não funcionar no seu telhado e ainda garante R$ 200 de crédito depois de dois ciclos pagos (45 € em Portugal).",
-    "label": "Ver meu endereço com R$ 200 de bônus",
+    "text": "Pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal, após dois ciclos completos em dia. Confira o valor no pedido oficial da Starlink antes de pagar.",
+    "label": "Abrir meu pedido pelo link de indicação",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

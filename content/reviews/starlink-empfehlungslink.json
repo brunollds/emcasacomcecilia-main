@@ -3,20 +3,28 @@
   "slug": "starlink-empfehlungslink",
   "translationKey": "starlink-indicacao",
   "locale": "de",
-  "title": "So sichern Sie sich 45 € Bonus beim Kauf Ihres ersten Starlink über den Empfehlungslink",
-  "seoTitle": "45 € Bonus beim ersten Starlink per Empfehlungslink",
+  "title": "So erhalten Sie 45 € Guthaben bei Ihrem ersten Starlink-Abo",
+  "seoTitle": "Starlink: 45 € Guthaben per Empfehlungslink",
   "type": "Empfehlungscode-Ratgeber",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
-  "description": "Starlink hat keinen Gutscheincode: Bestellen Sie Ihr erstes Kit über den Empfehlungslink, zahlen Sie denselben Preis und sichern Sie sich 45 € in Deutschland.",
-  "metaDescription": "So erhalten Sie 45 € Bonus in Deutschland bei Ihrer ersten Starlink-Bestellung, wie viel das beim 100-Mbit/s-Tarif abdeckt und wie Sie es aktivieren.",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Neukunden in Deutschland können über unseren Empfehlungslink 45 € Rechnungsguthaben erhalten. Prüfen Sie die Prämie vor dem Bezahlen.",
+  "metaDescription": "Neukunden in Deutschland können über unseren Empfehlungslink 45 € Rechnungsguthaben erhalten. Prüfen Sie die Prämie vor dem Bezahlen.",
   "publishedAt": "20. November 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,7 +39,14 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Starlink bietet keinen Gutscheincode zum Eintippen: Neben den Angeboten auf der Website ist der Empfehlungslink der offizielle Weg zu einer Prämie beim ersten Abo. In Deutschland sind es 45 € (in anderen Ländern zeigt die Bestellung den Betrag in Ihrer Währung). Sie zahlen denselben Preis wie auf starlink.com und behalten die 30 Tage Testzeit; beim 100-Mbit/s-Tarif in Berlin (17,50 €/Monat im Aktionszeitraum) decken 45 € mehr als zweieinhalb Monate. Öffnen Sie vor dem Bestellen den Link, prüfen Sie den Empfehlungshinweis, bevor Sie bezahlen, aktivieren Sie das Kit und halten Sie das Abo zwei volle Monatszyklen aktiv und bezahlt. Nachträglich lässt sich die Empfehlung nicht eintragen."
+        "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
+      ],
+      "links": [
+        {
+          "label": "Starlink-Prämie für meine Adresse prüfen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -76,13 +91,6 @@
           ]
         ]
       },
-      "links": [
-        {
-          "label": "Meine Bestellung mit 45 € Empfehlungsbonus öffnen",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "simulator": {
         "title": "Rechnen Sie Ihr Szenario",
         "scenarios": [
@@ -216,7 +224,7 @@
       },
       "links": [
         {
-          "label": "Prämie sichern, bevor Sie bestellen",
+          "label": "Meine Bestellung mit 45 € Empfehlungsbonus öffnen",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -285,8 +293,8 @@
     }
   ],
   "cta": {
-    "text": "Sie zahlen genau denselben Preis wie auf der offiziellen Website, behalten 30 Tage zur Rückgabe des Kits, falls es auf Ihrem Dach nicht funktioniert, und sichern sich 45 € Gutschrift in Deutschland nach zwei Monatszyklen.",
-    "label": "45 € Empfehlungsbonus bei Starlink sichern",
+    "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
+    "label": "Meine Bestellung über den Empfehlungslink öffnen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

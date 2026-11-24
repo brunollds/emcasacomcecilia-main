@@ -8,13 +8,21 @@
   "type": "Guía práctica",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "En Madrid el kit va en alquiler, sin permanencia y con devolución al cancelar. En México, el Standard 4 X exige 12 meses. Mira los 30 días de prueba y cómo cancelar.",
   "metaDescription": "Starlink en España: kit en alquiler sin permanencia que se devuelve al cancelar. En México hay plazo de 12 meses. Prueba de 30 días y pasos para cancelar.",
   "publishedAt": "20 de noviembre de 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Depende del país y del kit. En el pedido que consultamos en Madrid no hay permanencia: el kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas. En México, en cambio, el kit se compra, y el Standard 4 X del plan Max exige un plazo de 12 meses con una tarifa de rescisión de hasta 4.600 pesos. En ambos casos hay una prueba de 30 días: si cancelas y devuelves el kit en buen estado dentro del plazo, el pedido ofrece el reembolso del kit y del primer mes."
+        "Depende del país y del kit. En el pedido que consultamos en Madrid no hay permanencia: el kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas. En México, en cambio, el kit se compra, y el Standard 4 X del plan Max exige un plazo de 12 meses con una tarifa de rescisión de hasta 4.600 pesos. En ambos casos hay una prueba de 30 días: si cancelas y devuelves el kit en buen estado dentro del plazo, el pedido ofrece el reembolso del kit y del primer mes.",
+        "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+      ],
+      "links": [
+        {
+          "label": "Consultar mi dirección con la bonificación de Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -54,13 +70,6 @@
           "caption": "Resumen del pedido en Madrid, consulta del 23/11/2026: 35 € menos 10,50 €, Mini X a 0 € y 19 € hoy.",
           "objectFit": "portrait",
           "aspectRatio": 0.726
-        }
-      ],
-      "links": [
-        {
-          "label": "Consultar planes y permanencia en mi dirección",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
         }
       ]
     },
@@ -142,7 +151,7 @@
       "emphasis": "Según las condiciones del pedido, cancelar y devolver el kit en buen estado dentro de los 30 días es lo que da derecho al reembolso del kit y del primer mes, y el justificante del envío es la prueba que lo decide.",
       "links": [
         {
-          "label": "Ver planes con 30 días de prueba en starlink.com",
+          "label": "Consultar planes y permanencia en mi dirección",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -241,8 +250,8 @@
     ]
   },
   "cta": {
-    "text": "El pedido se abre en starlink.com con el enlace de referido, que tiene que venir antes de pagar. Pagas el mismo precio que en la web, ves la permanencia de tu dirección y conservas los 30 días para devolver el kit. El crédito llega tras dos meses de servicio.",
-    "label": "Consultar permanencia y plan en mi dirección",
+    "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+    "label": "Abrir mi pedido con el enlace de referido",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

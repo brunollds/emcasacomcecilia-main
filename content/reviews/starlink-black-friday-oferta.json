@@ -8,13 +8,21 @@
   "type": "Guía de Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "En Madrid, Starlink mostraba el 100 Mbps a 24,50 € al mes, el 200 Mbps a 31,50 € y el kit en alquiler a 0 €. Mira la cuenta del primer pedido y cómo entra el referido.",
   "metaDescription": "Starlink Black Friday en España: 30 % en los planes y kit en alquiler a 0 €. Mira los precios de Madrid, la devolución y cómo entra el referido.",
   "publishedAt": "20 de noviembre de 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "El pedido de Starlink que consultamos en Madrid mostraba un 30 % de descuento en el servicio hasta el 30 de noviembre: 24,50 € al mes el 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el kit en alquiler a 0 € y 19 € a pagar hoy. El equipo se devuelve si cancelas y tienes 30 días de prueba. La recompensa del referido solo cuenta si abres el pedido desde un enlace de referido antes de pagar."
+        "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos.",
+        "El pedido de Starlink que consultamos en Madrid mostraba un 30 % de descuento en el servicio hasta el 30 de noviembre: 24,50 € al mes el 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el kit en alquiler a 0 € y 19 € a pagar hoy. El equipo se devuelve si cancelas y tienes 30 días de prueba."
+      ],
+      "links": [
+        {
+          "label": "Consultar mi dirección con la bonificación de Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -146,14 +162,7 @@
       "postParagraphs": [
         "El 200 Mbps queda en medio: 31,50 € al mes con 30 %, frente a los 45 € de su precio normal. Si el Máx. te sobra y el 100 Mbps se queda corto, es el plan que conviene comparar primero."
       ],
-      "emphasis": "Según la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 €, 31,50 € o 45,50 € al mes según el plan, y la recompensa llega solo tras dos ciclos mensuales completos.",
-      "links": [
-        {
-          "label": "Consultar la Black Friday y el referido en mi dirección",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ]
+      "emphasis": "Según la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 €, 31,50 € o 45,50 € al mes según el plan, y la recompensa llega solo tras dos ciclos mensuales completos."
     },
     {
       "heading": "Cómo se ve en el pedido",
@@ -198,7 +207,7 @@
       },
       "links": [
         {
-          "label": "Asegurar el referido antes de pagar el pedido",
+          "label": "Consultar la Black Friday y el referido en mi dirección",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -255,8 +264,8 @@
     }
   ],
   "cta": {
-    "text": "Pagas el mismo precio que en el pedido oficial, conservas los 30 días de prueba y la devolución del kit alquilado si la antena no funciona en tu tejado, y la recompensa del referido entra en tu factura tras dos ciclos pagados.",
-    "label": "Ver mi dirección con el referido",
+    "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+    "label": "Abrir mi pedido con el enlace de referido",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

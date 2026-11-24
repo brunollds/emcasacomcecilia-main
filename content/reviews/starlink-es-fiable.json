@@ -8,13 +8,21 @@
   "type": "Editorial",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "El sitio oficial de Starlink y la lista de distribuidores autorizados ayudan a comprobar a quién compras. Mira qué revisar antes de pagar el kit y cómo detectar sitios falsos.",
   "metaDescription": "Cómo reconocer el sitio oficial de Starlink, usar la lista de distribuidores autorizados y evitar perfiles y sitios que usan su nombre.",
   "publishedAt": "20 de noviembre de 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Sí, Starlink es fiable: es el servicio oficial de internet por satélite de SpaceX y vende directamente en starlink.com. Nosotros mismos contratamos Starlink como alternativa a una fibra local inestable. La precaución está en las webs imitadas y los anuncios fuera del canal oficial: en Trustpilot, el perfil que apunta a starlink.com es «Starlink Development», y si compras el kit en otro sitio, comprueba al vendedor en la lista de distribuidores autorizados antes de pagar."
+        "Sí, Starlink es fiable: es el servicio oficial de internet por satélite de SpaceX y vende directamente en starlink.com. Nosotros mismos contratamos Starlink como alternativa a una fibra local inestable. La precaución está en las webs imitadas y los anuncios fuera del canal oficial: en Trustpilot, el perfil que apunta a starlink.com es «Starlink Development», y si compras el kit en otro sitio, comprueba al vendedor en la lista de distribuidores autorizados antes de pagar.",
+        "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+      ],
+      "links": [
+        {
+          "label": "Consultar mi dirección con la bonificación de Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -61,14 +77,7 @@
         "caption": "Pantalla de planes en starlink.com para una dirección de Madrid, consultada el 23 de noviembre de 2026.",
         "objectFit": "portrait",
         "aspectRatio": 0.622
-      },
-      "links": [
-        {
-          "label": "Abrir el pedido oficial en starlink.com con el referido",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ]
+      }
     },
     {
       "heading": "Mensajes que usan el nombre Starlink",
@@ -127,7 +136,7 @@
       },
       "links": [
         {
-          "label": "Comprobar la disponibilidad en mi dirección en starlink.com",
+          "label": "Abrir el pedido oficial en starlink.com con el referido",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -181,8 +190,8 @@
     ]
   },
   "cta": {
-    "text": "Abre el pedido con el enlace de referido, comprueba que la barra sigue en starlink.com y mira plan, kit y total para tu dirección antes de pagar. El precio es el del sitio oficial.",
-    "label": "Ver mi dirección en starlink.com",
+    "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+    "label": "Abrir mi pedido con el enlace de referido",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

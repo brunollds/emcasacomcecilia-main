@@ -288017,20 +288017,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-indicacao-como-usar",
     "translationKey": "starlink-indicacao",
     "locale": "pt",
-    "title": "Como ganhar R$ 200 comprando sua primeira Starlink pelo link de indicação (45 € em Portugal)",
-    "seoTitle": "Como ganhar R$ 200 na primeira Starlink (indicação)",
+    "title": "Como ganhar R$ 200 de crédito na primeira assinatura Starlink",
+    "seoTitle": "Starlink: R$ 200 de crédito na primeira assinatura",
     "type": "Guia do Código de Indicação",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "A Starlink não tem cupom: peça sua primeira antena pelo link oficial de indicação, pague o mesmo preço do site e receba R$ 200 no Brasil ou 45 € em Portugal.",
-    "metaDescription": "Como ganhar 200 reais na primeira Starlink pelo link oficial de indicação (45 € em Portugal), quanto abate na conta e como confirmar antes de pagar.",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Novos clientes podem receber R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal. Veja como usar nosso link de indicação antes de contratar.",
+    "metaDescription": "Receba 200 reais de crédito na fatura na primeira assinatura elegível da Starlink no Brasil. Veja como usar nosso link e conferir o bônus no pedido.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
     "updatedAt": "2026-11-23",
@@ -288044,13 +288052,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Starlink não tem cupom: o que existe, além das promoções do site, é o link de indicação. Pedindo por ele antes de comprar sua primeira antena, você recebe 200 reais no Brasil (45 € em Portugal), paga o mesmo preço do site e mantém os 30 dias para devolver. Abra o link, informe seu endereço em starlink.com, confira o aviso de indicação aplicada antes de pagar e mantenha os dois primeiros ciclos mensais em dia: o valor entra como crédito na fatura, e quem indicou recebe o mesmo. Fechou o pedido sem o link? A Starlink não deixa incluir a indicação depois."
+          "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
+        ],
+        "links": [
+          {
+            "label": "Consultar meu endereço com o bônus Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Por que vale pedir pelo link (e quanto os R$ 200 abatem de verdade)",
         "paragraphs": [
-          "Quem assina pela página comum do site paga o mesmo valor pelo equipamento e pela mensalidade, mas deixa R$ 200 na mesa. Pelo link de indicação, você não paga nada a mais no pedido e ganha um crédito maior que uma mensalidade cheia no Brasil, ou quase dois meses do plano de 100 Mbps em Portugal.",
+          "Pelo nosso link, o preço do equipamento e da mensalidade é o mesmo do site oficial. No Brasil, os R$ 200 de crédito cobrem uma mensalidade do 100 Mbps a R$ 189. Em Portugal, os 45 € cobrem quase duas mensalidades do 100 Mbps a 24,50 €, o preço da oferta que consultamos em Lisboa.",
           "O crédito não baixa o preço do kit no dia: ele entra na fatura depois dos dois primeiros ciclos mensais. Os números abaixo vêm de endereços de referência. No seu endereço, preço, kit e contrato podem ser outros, e só o pedido mostra."
         ],
         "image": {
@@ -288095,13 +288110,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "links": [
-          {
-            "label": "Abrir meu pedido com R$ 200 de bônus (45 € em Portugal)",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "simulator": {
           "title": "Simule o seu cenário",
           "scenarios": [
@@ -288235,7 +288243,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Garantir o bônus antes de fechar o pedido",
+            "label": "Abrir meu pedido com R$ 200 de bônus (45 € em Portugal)",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -288306,8 +288314,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Você paga o mesmo preço do site oficial, mantém os 30 dias para devolver se não funcionar no seu telhado e garante R$ 200 de crédito no Brasil (45 € em Portugal) depois de dois ciclos mensais.",
-      "label": "Ativar meus R$ 200 no pedido oficial",
+      "text": "Pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal, após dois ciclos completos em dia. Confira o valor no pedido oficial da Starlink antes de pagar.",
+      "label": "Abrir meu pedido pelo link de indicação",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -288342,20 +288350,28 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-starlink",
     "translationKey": "starlink-black-friday",
     "locale": "pt",
-    "title": "Black Friday Starlink 2026: Max com 12 meses ou 100 Mbps sem fidelidade, e o crédito de R$ 200 da indicação",
-    "seoTitle": "Black Friday Starlink 2026: Max ou 100 Mbps sem fidelidade",
+    "title": "Black Friday Starlink 2026: preços dos planos e R$ 200 de crédito por indicação",
+    "seoTitle": "Black Friday Starlink 2026: preços e crédito de R$ 200",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Max com 12 meses de contrato ou 100 Mbps sem fidelidade: veja o que cada um custa no pedido e quando os R$ 200 da indicação voltam como crédito.",
-    "metaDescription": "Black Friday Starlink: Max com contrato de 12 meses ou 100 Mbps sem fidelidade. Veja o pedido de cada um e o crédito de 200 reais da indicação.",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Veja os preços do 100 Mbps e do Max na Black Friday da Starlink e como receber R$ 200 de crédito na fatura com o link de indicação.",
+    "metaDescription": "Black Friday Starlink: veja os preços do 100 Mbps e do Max, as condições de cada pedido e como receber 200 reais de crédito na fatura.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
     "updatedAt": "2026-11-23",
@@ -288370,7 +288386,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Black Friday da Starlink há dois caminhos no Brasil: o Residencial Max, com kit de 49 reais e contrato de 12 meses, e o 100 Mbps, com Mini X de 299 reais e sem fidelidade. Depois de dois ciclos pagos, 200 reais voltam como crédito na fatura, sem reduzir o preço do kit, e só se o pedido sair do link. As ofertas vão até 30 de novembro, em áreas selecionadas."
+          "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia.",
+          "Na oferta consultada em Alto Paraíso de Goiás, o Max trazia kit a 49 reais e contrato de 12 meses. A tela do 100 Mbps mostrava o Mini X comprado por 299 reais. A campanha vai até 30 de novembro em áreas selecionadas."
+        ],
+        "links": [
+          {
+            "label": "Consultar meu endereço com o bônus Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -288423,11 +288447,11 @@ export const reviewsData: unknown[] = [
           "title": "Simulador: a conta de cada caminho",
           "scenarios": [
             {
-              "label": "100 Mbps sem fidelidade, pelo link",
+              "label": "100 Mbps consultado, pelo link",
               "lines": [
                 {
                   "label": "Mini X no pedido",
-                  "value": "R$ 299, sem contrato de 12 meses"
+                  "value": "R$ 299, sem cláusula de 12 meses na tela"
                 },
                 {
                   "label": "Mensalidade com 30%",
@@ -288490,19 +288514,12 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O 100 Mbps cobra R$ 42 a menos por mês, e o kit dele custa R$ 250 a mais. Se o preço promocional do 100 Mbps se mantiver, as duas contas se encontram por volta do sexto mês. Até lá o Max sai na frente pelo kit de entrada menor, mas ele é o plano de cima e prende você por 12 meses: compare também a velocidade de que você precisa."
         ],
-        "emphasis": "Pelos números da tabela, kit e primeira mensalidade somam R$ 223,30 no Max (12 meses de contrato) e R$ 431,30 no 100 Mbps (sem fidelidade); nos dois, R$ 200 voltam como crédito na fatura depois de dois meses, sem reduzir o preço do kit.",
-        "links": [
-          {
-            "label": "Consultar a Black Friday e o bônus de R$ 200 no meu endereço",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        "emphasis": "Pelos números da tabela, kit e primeira mensalidade somam R$ 223,30 no Max (12 meses de contrato) e R$ 431,30 no 100 Mbps (sem cláusula de 12 meses na tela); nos dois, R$ 200 voltam como crédito na fatura depois de dois meses, sem reduzir o preço do kit."
       },
       {
         "heading": "Como aparece no pedido",
         "paragraphs": [
-          "Veja no print o aviso verde de indicação aplicada, os 30% de desconto e o total a pagar no dia. No Max, o contrato de 12 meses aparece na linha do equipamento; no 100 Mbps, essa linha não aparece.",
+          "Veja no print o aviso verde de indicação aplicada, os 30% de desconto e o total a pagar no dia. Para conferir a fidelidade, veja os termos do plano e do kit no resumo do seu pedido.",
           "Para conferir a sua oferta, abra o link, informe o endereço e procure o mesmo aviso antes de pagar. Veja se o pedido mostra o valor da recompensa e as condições da mensalidade."
         ],
         "image": {
@@ -288516,7 +288533,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A oferta vale no seu endereço?",
         "paragraphs": [
-          "Alto Paraíso de Goiás está na Região Legal da Amazônia, e a tela avisa que quem mora lá precisa enviar identificação antes de receber o serviço. A aba do 100 Mbps, no print, mostra a mensalidade de R$ 132,30 e o Mini X de R$ 299.",
+          "Na tela de Alto Paraíso de Goiás, o 100 Mbps aparece a R$ 132,30 por mês, com o Mini X por R$ 299.",
           "Na Avenida Paulista, em São Paulo, a consulta de 23 de novembro de 2026 já era outra: o endereço entrou em pré-venda por falta de capacidade. Sem os 30%, as mensalidades aparecem cheias, R$ 189 no 100 Mbps e R$ 249 no Max, o kit é o Standard 4 X, de R$ 2.400, e o pedido cobra R$ 275 de depósito hoje, que abatem o kit depois. Nessa tela não há contrato de 12 meses nem multa.",
           "Em Portugal, a consulta de Lisboa do mesmo dia mostrou três planos com 30% até 30 de novembro: 100 Mbps a 24,50 € (35 € cheio), 200 Mbps a 31,50 € (45 €) e Max a 45,50 € (65 €). O kit é alugado por 0 €, sem contratos e com teste de 30 dias, o envio custa 20 € hoje e o kit deve ser devolvido se você cancelar. O bônus da indicação em Portugal é de 45 €, quase dois meses do 100 Mbps."
         ],
@@ -288531,8 +288548,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Contrato, multa e 30 dias para devolver",
         "paragraphs": [
-          "No Max a R$ 49, o pedido exige 12 meses de contrato e informa multa de até R$ 1.099 por saída antecipada. No 100 Mbps, o equipamento é comprado e o resumo do pedido não traz esse prazo. A caixa de perguntas frequentes da tela repete a frase do prazo de 12 meses nos dois casos, então leia a linha do equipamento do plano que você escolheu.",
-          "A Starlink informa reembolso do kit e do primeiro mês para quem cancelar o serviço e devolver o kit sem danos em até 30 dias do pagamento. É esse teste que faz o clique no link não custar nada: você vê o preço do seu endereço, testa a antena no telhado e só então decide ficar. Depois dos 30 dias, no Max passa a valer a multa. Veja o [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar)."
+          "No Max a R$ 49, o pedido exige 12 meses de contrato e informa multa de até R$ 1.099 por saída antecipada. Na tela consultada do 100 Mbps, o kit aparecia para compra e a cláusula não estava no resumo. A pergunta genérica de 12 meses aparecia nos dois casos. Confira o prazo associado ao plano e ao kit no seu pedido.",
+          "Abrir o link permite consultar o preço do seu endereço antes de contratar. Para testar a antena, confira na sua oferta quando começam os 30 dias, o que é reembolsável e como devolver o equipamento. Se o pedido do Max tiver contrato, confira também quando a taxa por saída antecipada se aplica. Veja o [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar)."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
@@ -288543,7 +288560,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Garantir o bônus de R$ 200 antes de fechar o pedido",
+            "label": "Consultar a Black Friday e o bônus de R$ 200 no meu endereço",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -288589,10 +288606,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
-          "A Starlink tem Black Friday? Sim. A oferta de fim de novembro dá 30% na mensalidade para clientes novos em áreas selecionadas. O Max vem com kit a R$ 49 e contrato de 12 meses, e o 100 Mbps com Mini X a R$ 299 e sem fidelidade.",
+          "A Starlink tem Black Friday? Sim. A oferta de fim de novembro dá 30% na mensalidade para clientes novos em áreas selecionadas. O Max vem com kit a R$ 49 e contrato de 12 meses, e o 100 Mbps com Mini X a R$ 299, sem cláusula de 12 meses no pedido consultado.",
           "A indicação soma com a oferta? Sim. Na tela brasileira consultada, o preço promocional e a recompensa de R$ 200 apareceram juntos. A recompensa depende da elegibilidade e de dois ciclos mensais completos.",
           "O 100 Mbps tem fidelidade? No resumo do pedido consultado, o 100 Mbps não trazia contrato de 12 meses. O Max a R$ 49 traz, com multa de até R$ 1.099 por saída antecipada.",
-          "Posso testar a Starlink antes de decidir? Sim. A Starlink informa reembolso do kit e do primeiro mês para quem cancelar e devolver o kit sem danos em até 30 dias do pagamento.",
+          "Posso testar a Starlink antes de decidir? Sim. A Starlink oferece um teste inicial de 30 dias. Confira quando a contagem começa, o que é reembolsável e como cancelar e devolver o kit em bom estado.",
           "Dá para pedir a indicação depois de pagar? Não. A indicação só vale no pedido aberto pelo link, antes do pagamento.",
           "E se o meu endereço estiver em pré-venda? Sem os 30%, a mensalidade aparece cheia e o pedido cobra um depósito que abate o kit. Na consulta da Avenida Paulista, o depósito era de R$ 275 e não havia contrato de 12 meses.",
           "Até quando vai a oferta? A oferta de fim de novembro vale para pedidos feitos até o fim do mês, em áreas selecionadas. Informe o endereço no pedido para ver se ela está disponível."
@@ -288600,8 +288617,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Você paga o mesmo preço do pedido oficial, mantém os 30 dias para devolver o kit se a antena não funcionar no seu telhado e ainda garante R$ 200 de crédito depois de dois ciclos pagos (45 € em Portugal).",
-      "label": "Ver meu endereço com R$ 200 de bônus",
+      "text": "Pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal, após dois ciclos completos em dia. Confira o valor no pedido oficial da Starlink antes de pagar.",
+      "label": "Abrir meu pedido pelo link de indicação",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -288641,15 +288658,23 @@ export const reviewsData: unknown[] = [
     "type": "Guia de Compra",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Veja se a Starlink vale a pena no campo ou na cidade com fibra instável. Conta real do kit, 100 Mbps sem fidelidade, uso como backup e checagem do céu no app.",
-    "metaDescription": "Starlink vale a pena mesmo com fibra na rua? Veja a conta do kit, 100 Mbps sem fidelidade, fibra instável e uso como internet de backup.",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Veja se a Starlink vale a pena no campo ou como backup da fibra instável. Compare o custo dos planos testados e veja como conferir o céu no app.",
+    "metaDescription": "Starlink vale a pena mesmo com fibra na rua? Veja os custos do kit e dos planos e o que descobrimos ao contratar como internet de backup.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
     "updatedAt": "2026-11-23",
@@ -288663,7 +288688,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Starlink vale a pena onde falta internet estável e também onde existe fibra, mas ela cai com frequência ou entrega bem menos do que o contratado. Nós a contratamos como alternativa e backup à nossa fibra instável. Se a sua fibra é estável, ela tende a sair mais barata. O teste é de baixo risco: o plano de 100 Mbps que consultamos não tem fidelidade e dá 30 dias para devolver."
+          "A Starlink vale a pena onde a internet cai com frequência ou entrega bem menos que o contratado. Nós a contratamos como alternativa e backup à nossa fibra instável. Se a sua fibra é estável, ela tende a sair mais barata.",
+          "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
+        ],
+        "links": [
+          {
+            "label": "Consultar meu endereço com o bônus Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -288684,7 +288717,7 @@ export const reviewsData: unknown[] = [
               "Alto Paraíso de Goiás, Residencial 100 Mbps",
               "R$ 132,30 (base R$ 189)",
               "Mini X R$ 299",
-              "Sem fidelidade",
+              "Sem cláusula de 12 meses na tela",
               "R$ 1.886,60 (se a oferta for mantida)"
             ],
             [
@@ -288698,7 +288731,7 @@ export const reviewsData: unknown[] = [
               "Av. Paulista, São Paulo, pré-venda (100 Mbps ou Max)",
               "R$ 189 ou R$ 249 (valor cheio)",
               "Standard 4 X R$ 2.400 (depósito de R$ 275 hoje)",
-              "Sem fidelidade",
+              "Sem cláusula de 12 meses na tela",
               "R$ 4.668 a R$ 5.388"
             ]
           ],
@@ -288708,11 +288741,11 @@ export const reviewsData: unknown[] = [
           "title": "Simulador: o que cada cenário pede",
           "scenarios": [
             {
-              "label": "100 Mbps em Alto Paraíso (sem fidelidade)",
+              "label": "100 Mbps consultado em Alto Paraíso",
               "lines": [
                 {
                   "label": "Kit Mini X no pedido",
-                  "value": "R$ 299, sem contrato de 12 meses",
+                  "value": "R$ 299, sem cláusula de 12 meses na tela",
                   "highlight": true
                 },
                 {
@@ -288767,20 +288800,13 @@ export const reviewsData: unknown[] = [
               ],
               "totalLabel": "Kit + 12 mensalidades, de",
               "totalValue": "R$ 4.668 a R$ 5.388",
-              "note": "Sem fidelidade de 12 meses; a devolução em 30 dias segue valendo."
+              "note": "Sem cláusula de 12 meses na tela de 12 meses; a devolução em 30 dias segue valendo."
             }
           ]
         },
         "postParagraphs": [
-          "Repare na diferença de risco para quem quer testar ou montar um backup: no Residencial 100 Mbps de Alto Paraíso, o Mini X custava R$ 299 sem contrato de 12 meses. A sanfona de perguntas do checkout ainda mostra um texto genérico de 12 meses, mas a cláusula não aparece no equipamento nem no resumo desse plano. Já no Max a R$ 49, a tela diz “Contrato de 12 meses obrigatório”.",
+          "No Residencial 100 Mbps consultado em Alto Paraíso, o Mini X custava R$ 299. A seção de perguntas do checkout exibia um aviso genérico de 12 meses, mas a cláusula não aparecia junto ao equipamento nem no resumo desse plano. Já no Max a R$ 49, a tela diz “Contrato de 12 meses obrigatório”.",
           "Quando for calcular o custo no seu endereço, faça a conta primeiro sem a recompensa. Pelo nosso link de indicação, a Starlink dá R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura. Veja a [indicação Starlink](/cupons/starlink)."
-        ],
-        "links": [
-          {
-            "label": "Simular plano e kit para o meu endereço",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
@@ -288814,7 +288840,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Comparar só a fatura de 12 meses falha quando a internet fixa que chega ao endereço é barata, mas cai toda semana ou entrega só uma fração da velocidade contratada. Provedores regionais e redes saturadas no horário de pico costumam sofrer com cabo rompido no poste, manutenção sem aviso e congestionamento no bairro. Para quem trabalha de casa, faz chamadas de vídeo ou depende de câmeras e automação, isso pesa mais do que a diferença na mensalidade.",
           "No nosso caso, contratamos a Starlink como alternativa e backup à fibra instável. Como o sinal vem de satélites e não depende dos cabos da rua nem do mesmo provedor, ela pode servir de conexão principal no lugar de uma fibra problemática ou de rota reserva quando a fibra cai.",
-          "O teste tem pouco risco: no Residencial 100 Mbps com Mini X a R$ 299, sem contrato de 12 meses, e com 30 dias para devolver, você mede a estabilidade no seu telhado e só mantém a assinatura se ela resolver o problema. Se pensa em 4G ou 5G residencial como backup, some o roteador e confira a franquia de dados."
+          "Confira a fidelidade e as condições de devolução no seu pedido. Durante o teste, meça a estabilidade da conexão no lugar onde pretende instalar a antena. Se pensa em 4G ou 5G residencial como backup, some o roteador e confira a franquia de dados."
         ],
         "emphasis": "Com fibra verdadeiramente estável e na velocidade contratada, a rede fixa vence pelo menor custo mensal; já quando a fibra do bairro sofre com quedas constantes ou velocidade muito abaixo do plano, a Starlink passa a valer pela continuidade do trabalho e pela independência como alternativa ou backup.",
         "emphasisAfterParagraph": 3,
@@ -288864,7 +288890,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Testar no meu endereço com 30 dias para devolver",
+            "label": "Simular plano e kit para o meu endereço",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -288903,8 +288929,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Você paga o mesmo preço do site oficial, mantém os 30 dias para devolver se não funcionar no seu telhado e recebe R$ 200 de crédito no Brasil (45 € em Portugal) depois de dois meses de assinatura, cumpridas as regras.",
-      "label": "Ver meu endereço em starlink.com com a indicação",
+      "text": "Pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal, após dois ciclos completos em dia. Confira o valor no pedido oficial da Starlink antes de pagar.",
+      "label": "Abrir meu pedido pelo link de indicação",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -288927,20 +288953,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-fidelidade-como-cancelar",
     "translationKey": "starlink-fidelidade",
     "locale": "pt",
-    "title": "Starlink tem fidelidade? Só o kit subsidiado do Max prende 12 meses; o 100 Mbps não",
-    "seoTitle": "Starlink tem fidelidade? 12 meses só no Max a 49 reais",
+    "title": "Starlink tem fidelidade? Quando há contrato de 12 meses e como cancelar",
+    "seoTitle": "Starlink tem fidelidade? Contrato e cancelamento",
     "type": "Guia Prático",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Veja quando a Starlink exige 12 meses (Max com kit a 49 reais) e quando não há fidelidade (100 Mbps, pré-venda, Portugal), com a multa e a devolução em 30 dias.",
-    "metaDescription": "Starlink tem fidelidade só no Max com kit subsidiado, com multa de até 1.099 reais. O 100 Mbps e Portugal não. Veja os 30 dias para devolver.",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Veja em que oferta da Starlink apareceu contrato de 12 meses, como conferir a taxa no seu pedido e quais são as condições de devolução.",
+    "metaDescription": "A Starlink tem fidelidade? Compare os termos do Max com kit subsidiado e do 100 Mbps nos pedidos consultados. Veja como cancelar e devolver.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
     "updatedAt": "2026-11-23",
@@ -288954,11 +288988,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do plano. No Brasil, o Residencial 100 Mbps com o Mini X a 299 reais não mostrou fidelidade de 12 meses, e os pedidos em pré-venda de São Paulo também não. O contrato de 12 meses, com multa de até 1.099 reais, aparece no Residencial Max com o kit subsidiado a 49 reais. Em Portugal não há contrato: o kit é alugado a 0 € e volta para a Starlink se você cancelar. Em todos os casos vale a janela de 30 dias para cancelar, devolver o kit sem danos e pedir o reembolso."
+          "O plano e o kit do seu pedido determinam a fidelidade. Na oferta que consultamos em Alto Paraíso, o Max com kit subsidiado exigia 12 meses e previa multa de até 1.099 reais. Na tela do 100 Mbps com kit comprado, a cláusula não apareceu.",
+          "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
+        ],
+        "links": [
+          {
+            "label": "Consultar meu endereço com o bônus Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "Brasil: o 100 Mbps não tem fidelidade",
+        "heading": "Brasil: o que os pedidos de 100 Mbps e Max mostram",
         "paragraphs": [
           "Não existe uma regra única da Starlink: o contrato vem junto com o kit que o seu pedido escolhe. Na consulta de 23 de novembro de 2026 para Alto Paraíso de Goiás, o Residencial 100 Mbps saía a R$ 132,30 por mês (R$ 189 menos 30% de ajuste promocional, válido até o fim de novembro) e o equipamento era o Mini X a R$ 299 (R$ 499 menos R$ 200 de desconto no preço). É um kit comprado, não um kit subsidiado em troca de contrato.",
           "Nem o bloco Equipamento nem o Resumo do pedido do 100 Mbps trazem a frase de contrato de 12 meses. Há uma pegadinha de leitura: a pergunta frequente \"Prazo de 12 meses\", na coluna ao lado, é genérica e continua aparecendo quando você troca da aba Max para a de 100 Mbps. O que vale é o bloco Equipamento e o resumo do seu pedido, e é neles que você procura a cláusula antes de pagar.",
@@ -288970,14 +289012,7 @@ export const reviewsData: unknown[] = [
           "caption": "Alto Paraíso de Goiás, aba Residencial 100 Mbps: R$ 132,30 por mês e Mini X a R$ 299, sem a frase de 12 meses no equipamento.",
           "objectFit": "square",
           "aspectRatio": 0.9653
-        },
-        "links": [
-          {
-            "label": "Conferir planos e fidelidade no meu endereço",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "Brasil: o Max a 49 reais prende 12 meses",
@@ -288997,7 +289032,7 @@ export const reviewsData: unknown[] = [
         "heading": "Portugal: aluguer sem contrato, com devolução do kit",
         "paragraphs": [
           "Na consulta para a Praça do Comércio, em Lisboa, a página dizia \"Sem contratos, teste de 30 dias\" nos três planos: 100 Mbps a 24,50 € por mês, 200 Mbps a 31,50 € e Max a 45,50 € (30% sobre 35 €, 45 € e 65 €, até o fim de novembro). O hardware é alugado por 0 €: Mini X no 100 Mbps e Standard 4 nos outros dois. O envio custou 20 € no pedido, e a instalação profissional é opcional (172 € nos dois primeiros planos, 0 € no Max).",
-          "Sem fidelidade não quer dizer sem devolução. O kit continua sendo da Starlink, e quem cancela precisa devolver o equipamento alugado."
+          "Sem cláusula de 12 meses na tela não quer dizer sem devolução. O kit continua sendo da Starlink, e quem cancela precisa devolver o equipamento alugado."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-pt-planos-lisboa-aluguer.webp",
@@ -289051,8 +289086,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A multa e os 30 dias para devolver",
         "paragraphs": [
-          "A multa de até R$ 1.099 vale para o kit subsidiado com contrato de 12 meses, o do Max a R$ 49, depois dos 30 dias. Não vale para o 100 Mbps com o kit comprado nem para Portugal, onde o que existe é a devolução do kit alugado. A página não diz se o valor cai com os meses que passaram, então pergunte à Starlink antes de cancelar.",
-          "Nos pedidos que lemos, o prazo de 30 dias começa no pagamento. Para pedir o reembolso do kit e do primeiro mês nas condições da oferta, cancele o serviço e devolva o equipamento sem danos dentro desse prazo.",
+          "No pedido consultado do Max com o kit a R$ 49, a Starlink informava taxa de até R$ 1.099 por saída antecipada. A tela do 100 Mbps com kit comprado não mostrou a mesma cláusula. Confira no seu pedido o valor, o prazo e as situações em que a taxa se aplica.",
+          "Para pedir o reembolso nas condições do teste, cancele o serviço e devolva o equipamento sem danos. Consulte a data de início da cobrança do serviço, o prazo e os valores cobertos pela devolução no seu pedido.",
           "Cancelar a assinatura interrompe as cobranças futuras conforme o ciclo. Pelo suporte da Starlink, confira como abrir também a devolução do kit e guarde o comprovante de envio.",
           "O pedido aberto pela [indicação Starlink](/cupons/starlink) mostra o mesmo contrato e a mesma política de devolução."
         ],
@@ -289063,10 +289098,10 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
-        "emphasis": "Quem cancela e devolve o kit sem danos em até 30 dias do pagamento pede o reembolso do kit e do primeiro mês; passado esse prazo, só o kit subsidiado do Max (49 reais) segue preso aos 12 meses e à multa de até R$ 1.099.",
+        "emphasis": "O teste inicial tem prazo próprio. Se o kit for alugado, confira também o prazo para devolvê-lo após o cancelamento.",
         "links": [
           {
-            "label": "Ver planos com 30 dias de reembolso em starlink.com",
+            "label": "Conferir planos e fidelidade no meu endereço",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -289138,7 +289173,7 @@ export const reviewsData: unknown[] = [
           "A Starlink Mini tem fidelidade? Depende do pedido: o Mini X a R$ 299 do 100 Mbps não mostrou contrato, e o Mini X a R$ 49 do Max exige 12 meses. Confira o bloco Equipamento do seu pedido.",
           "Em Portugal a Starlink tem fidelidade? Não: a página diz \"Sem contratos, teste de 30 dias\" e o kit é alugado a 0 €, mas precisa ser devolvido se você cancelar.",
           "O que muda na pré-venda de São Paulo? O pedido pede só o depósito de R$ 275, abatido do kit Standard 4 X de R$ 2.400, com a mensalidade cheia e sem contrato de 12 meses na tela.",
-          "Dá para devolver a Starlink em 30 dias? A oferta do Max informa reembolso do kit e do primeiro mês se o serviço for cancelado e o kit voltar sem danos em até 30 dias do pagamento."
+          "Dá para devolver a Starlink em 30 dias? A oferta consultada do Max prevê 30 dias de teste. Confira o começo da contagem, os valores reembolsáveis e as condições para cancelar e devolver o kit em bom estado."
         ]
       }
     ],
@@ -289159,7 +289194,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "você prefere pagar o kit à vista e ficar sem fidelidade, como no 100 Mbps do Brasil, ou está em Portugal, onde o kit é alugado sem contrato.",
+        "o resumo do seu pedido mostra compra do kit sem prazo mínimo ou aluguel com condições de devolução que você aceita.",
         "você aceita 12 meses para ter o kit subsidiado do Max e vai ler o resumo do seu endereço antes de pagar."
       ],
       "skipIf": [
@@ -289168,8 +289203,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "O pedido abre em starlink.com pelo link de indicação, que precisa vir antes do pagamento. Você paga o mesmo preço do site, vê o contrato do seu endereço e mantém os 30 dias para devolver. O crédito é de R$ 200 no Brasil (45 € em Portugal), depois de dois meses de assinatura.",
-      "label": "Conferir contrato e plano no meu endereço",
+      "text": "Pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal, após dois ciclos completos em dia. Confira o valor no pedido oficial da Starlink antes de pagar.",
+      "label": "Abrir meu pedido pelo link de indicação",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -289184,13 +289219,21 @@ export const reviewsData: unknown[] = [
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "O site oficial da Starlink e o perfil verificado no Reclame Aqui ajudam a checar de quem você está comprando. Veja o que conferir antes de pagar pelo kit no Brasil.",
     "metaDescription": "Veja como reconhecer o site oficial da Starlink, identificar o perfil verificado no Reclame Aqui e consultar a lista de revendedores autorizados.",
     "publishedAt": "19 de novembro de 2026",
@@ -289206,7 +289249,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Starlink é confiável: é o serviço oficial de internet via satélite da SpaceX e vende diretamente em starlink.com. Nós mesmos contratamos a Starlink como alternativa à fibra instável. O cuidado é com sites falsos e anúncios fora da rede oficial: no Reclame Aqui, o perfil verificado é “Starlink Brazil” e, se comprar o kit fora do site, confira o vendedor na lista de revendedores autorizados."
+          "Sim. A Starlink é o serviço oficial de internet via satélite da SpaceX, vendido em starlink.com. Nós mesmos contratamos a Starlink como alternativa à fibra instável. Para comprar em outra loja, confira se ela está na lista de revendedores autorizados.",
+          "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
+        ],
+        "links": [
+          {
+            "label": "Consultar meu endereço com o bônus Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -289236,14 +289287,7 @@ export const reviewsData: unknown[] = [
           "caption": "Tela de planos em starlink.com para Alto Paraíso de Goiás, com o plano de 100 Mbps e o kit Mini X.",
           "objectFit": "square",
           "aspectRatio": 0.9653
-        },
-        "links": [
-          {
-            "label": "Acessar o pedido oficial em starlink.com com indicação",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "Qual perfil é o da Starlink no Reclame Aqui?",
@@ -289301,7 +289345,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Verificar disponibilidade no meu CEP direto em starlink.com",
+            "label": "Acessar o pedido oficial em starlink.com com indicação",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -289355,8 +289399,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Abra o pedido pelo link de indicação, confira que a barra continua em starlink.com e veja plano, kit e total no seu endereço antes de pagar. O preço é o do site oficial.",
-      "label": "Ver meu endereço em starlink.com",
+      "text": "Pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal, após dois ciclos completos em dia. Confira o valor no pedido oficial da Starlink antes de pagar.",
+      "label": "Abrir meu pedido pelo link de indicação",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -289371,13 +289415,21 @@ export const reviewsData: unknown[] = [
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Veja a nota, quantas pessoas avaliaram o atendimento e quais queixas aparecem no perfil verificado Starlink Brazil. Saiba como registrar a sua reclamação.",
     "metaDescription": "Starlink no Reclame Aqui: nota 7,8 e reputação Boa no perfil verificado Starlink Brazil. Veja as janelas de 6 e 12 meses e as queixas mais frequentes.",
     "publishedAt": "19 de novembro de 2026",
@@ -289394,7 +289446,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O perfil verificado Starlink Brazil tem reputação Boa e nota 7,8 no Reclame Aqui nos últimos seis meses, depois de quatro meses em Ótima. Todas as 2.017 reclamações recebidas foram respondidas, e 77,1% das 860 avaliadas foram resolvidas. A nota 7,8 é da plataforma; a média dos consumidores é 6,73."
+          "O perfil verificado Starlink Brazil tem reputação Boa e nota 7,8 no Reclame Aqui nos últimos seis meses, depois de quatro meses em Ótima. Todas as 2.017 reclamações recebidas foram respondidas, e 77,1% das 860 avaliadas foram resolvidas. A nota 7,8 é da plataforma; a média dos consumidores é 6,73.",
+          "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
+        ],
+        "links": [
+          {
+            "label": "Consultar meu endereço com o bônus Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -289532,13 +289592,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.8079
           }
-        ],
-        "links": [
-          {
-            "label": "Abrir o pedido oficial em starlink.com e conferir minha região",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -289576,7 +289629,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Pelos números da tabela, para quem depende da Starlink no endereço, a escolha é assinar depois de conferir plano, kit e contrato no pedido, porque a nota 7,8 mede o atendimento às reclamações no Reclame Aqui, e não a qualidade do sinal.",
         "links": [
           {
-            "label": "Verificar disponibilidade no meu CEP direto em starlink.com",
+            "label": "Abrir o pedido oficial em starlink.com e conferir minha região",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -289618,8 +289671,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Abra o pedido pelo link de indicação, confira plano, kit e contrato no seu endereço e salve a tela do resumo antes de pagar. O preço é o do site oficial.",
-      "label": "Abrir o pedido em starlink.com no meu endereço",
+      "text": "Pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal, após dois ciclos completos em dia. Confira o valor no pedido oficial da Starlink antes de pagar.",
+      "label": "Abrir meu pedido pelo link de indicação",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -289629,20 +289682,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-link-how-it-works",
     "translationKey": "starlink-indicacao",
     "locale": "en",
-    "title": "How to get $100 (£40 in the UK) when buying your first Starlink with a referral link",
-    "seoTitle": "How to get $100 on your first Starlink (referral)",
+    "title": "Get $100 in Starlink bill credit on your first subscription",
+    "seoTitle": "Starlink referral: $100 in US bill credit",
     "type": "Referral Code Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Starlink has no coupon code: order your first dish through our referral link, pay the exact site price and get $100 in the US or £40 in the UK after two months.",
-    "metaDescription": "See how to get $100 in the US (£40 in the UK) on your first Starlink order, how the link applies at checkout and how much it covers on monthly bills.",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "New to Starlink? Use our referral link for $100 in US bill credit or £40 in the UK on an eligible first subscription. Confirm the amount before you pay.",
+    "metaDescription": "New to Starlink? Use our referral link for $100 in US bill credit or £40 in the UK on an eligible first subscription. Confirm the amount before you pay.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -289657,7 +289718,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Starlink has no promo codes: beyond the offers on its site, the referral link is the official way to get a reward on your first subscription, $100 in the US or £40 in the UK. You pay the same price shown on starlink.com and keep the 30-day return window. In the US, $100 covers about two and a half months of the 100 Mbps plan ($38.50/mo on our reading); in the UK, £40 is one full month (£40/mo). Open the link before you order, look for the “Referral Code Applied” notice before you pay, activate the kit and stay active and paid up for two full monthly cycles. The referral cannot be added after the purchase, and it only counts on orders placed on starlink.com, not on marketplaces."
+          "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+        ],
+        "links": [
+          {
+            "label": "Check my address for the Starlink reward",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -289714,13 +289782,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "links": [
-          {
-            "label": "Open my order with the $100 / £40 referral",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "simulator": {
           "title": "Run your own scenario",
           "scenarios": [
@@ -289854,7 +289915,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Lock in the reward before you order",
+            "label": "Open my order with the $100 / £40 referral",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -289923,8 +289984,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "You pay exactly the same price as on the official site, keep the 30 days to return the kit if it does not work on your roof, and lock in $100 in the US (£40 in the UK) after two monthly cycles.",
-      "label": "Claim $100 / £40 on your Starlink order",
+      "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+      "label": "Open my Starlink order with the referral",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -289964,13 +290025,21 @@ export const reviewsData: unknown[] = [
     "type": "Black Friday Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "In Nevada, Starlink showed 100 Mbps at $38.50 a month with a $0 rental kit. See the US and UK numbers, how the $100 referral fits in and what to check first.",
     "metaDescription": "Starlink Black Friday: 30% off service, a $0 rental kit and a $100 US referral reward. See the Nevada and UK numbers and check your address.",
     "publishedAt": "November 20, 2026",
@@ -289987,7 +290056,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Starlink's Black Friday offer takes 30% off the monthly plan in select areas, with a $0 rental kit that you return if you cancel. In Nevada the 100 Mbps plan was $38.50 a month, with $20 plus taxes due today. The $100 referral reward (£40 in the UK) only counts if you open the order through a referral link before you pay, and it lands after two paid monthly cycles. The offer runs until November 30."
+          "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles.",
+          "Starlink's Black Friday offer takes 30% off the monthly plan in select areas, with a $0 rental kit that you return if you cancel. In Nevada the 100 Mbps plan was $38.50 a month, with $20 plus taxes due today. The offer runs until November 30."
+        ],
+        "links": [
+          {
+            "label": "Check my address for the Starlink reward",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -290112,14 +290189,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "The 200 Mbps plan sits in the middle: $59.50 a month in Nevada, with the Starlink V4 and Router 4 on rental and $0 professional installation. Max also comes with free professional installation, while the 100 Mbps plan lists it as an optional $99 extra."
         ],
-        "emphasis": "By the numbers in the table, the Nevada order is $20 plus taxes today and $38.50 a month for 100 Mbps, and the $100 reward only lands after two full paid cycles, so the first bills come out of pocket.",
-        "links": [
-          {
-            "label": "Check Black Friday and the $100 reward at my address",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        "emphasis": "By the numbers in the table, the Nevada order is $20 plus taxes today and $38.50 a month for 100 Mbps, and the $100 reward only lands after two full paid cycles, so the first bills come out of pocket."
       },
       {
         "heading": "What the order looks like",
@@ -290164,7 +290234,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Lock in the $100 reward before I place the order",
+            "label": "Check Black Friday and the $100 reward at my address",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -290221,8 +290291,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "You pay the same price as on the official order page, keep the 30-day return window if the dish does not work on your roof, and lock in the $100 referral reward (£40 in the UK) after two paid cycles.",
-      "label": "Check my address and lock in the $100",
+      "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+      "label": "Open my Starlink order with the referral",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -290262,13 +290332,21 @@ export const reviewsData: unknown[] = [
     "type": "Buying Guide",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "See when Starlink is worth it: rural homes or areas where local fiber drops or slows down. Compare US/UK plans, $0 rental hardware, backup use and sky check.",
     "metaDescription": "Is Starlink worth it with local fiber nearby? Compare US/UK monthly plans, $0 rental kit, unstable fiber as a reason to switch or add backup internet.",
     "publishedAt": "November 20, 2026",
@@ -290285,7 +290363,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, Starlink is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. Testing is low-risk: the rental kit costs $0 upfront in the US, and you have 30 days to return it."
+          "Yes, Starlink is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. The Nevada offer we checked listed a $0 rental kit and $20 plus taxes due when ordering.",
+          "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+        ],
+        "links": [
+          {
+            "label": "Check my address for the Starlink reward",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -290405,13 +290491,6 @@ export const reviewsData: unknown[] = [
           "The 200 Mbps plan is the one many comparisons skip. At $59.50 in Nevada it includes professional installation at $0, while the optional installation on 100 Mbps costs $99. The promotional price has no stated duration, so do not multiply it by 12 without checking your own order.",
           "Work out the cost before any reward. Through our referral link, Starlink gives US$ 100 in the US and £ 40 in the UK after two months of subscription, as credit on the bill. See the [Starlink referral page](/en/coupons/starlink)."
         ],
-        "links": [
-          {
-            "label": "Simulate plan and kit for my address",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
           "alt": "Starlink residential order screen for Nevada showing the 100 Mbps, 200 Mbps and Max tabs and $0 hardware rental",
@@ -290494,7 +290573,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Test it at my address with 30 days to return",
+            "label": "Simulate plan and kit for my address",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -290533,8 +290612,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "You pay the same price as on the official site, keep the 30 days to return the kit if it does not work on your roof, and get US$ 100 in the US (£ 40 in the UK) as credit on your bill after two months of subscription, once the rules are met.",
-      "label": "See my address on starlink.com with the referral",
+      "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+      "label": "Open my Starlink order with the referral",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -290562,13 +290641,21 @@ export const reviewsData: unknown[] = [
     "type": "Practical Guide",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "In Nevada and London the Starlink kit is a $0 rental with no contract, and you return it if you cancel. See the three plans, the 30-day refund and how to cancel.",
     "metaDescription": "Starlink in the US and UK: no contract, a $0 rental kit you return if you cancel, a 30-day refund and the steps to cancel from your account.",
     "publishedAt": "November 20, 2026",
@@ -290585,7 +290672,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "On the order pages we read for Nevada and London, Starlink had no contract: the kit is a rental at $0 upfront and $0 a month (£0 in the UK), and you return it if you cancel. The monthly prices shown are promotional and have no fixed duration, and Starlink may update pricing with 30 days' notice. If you cancel and return the kit undamaged within 30 days of the payment due date, the offer refunds the kit and the first month. It is not the same everywhere: in Brazil and Mexico, a subsidised kit can come with a 12-month term."
+          "On the order pages we read for Nevada and London, Starlink had no contract: the kit is a rental at $0 upfront and $0 a month (£0 in the UK), and you return it if you cancel. The monthly prices shown are promotional and have no fixed duration, and Starlink may update pricing with 30 days' notice. If you cancel and return the kit undamaged within 30 days of the payment due date, the offer refunds the kit and the first month. It is not the same everywhere: in Brazil and Mexico, a subsidised kit can come with a 12-month term.",
+          "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+        ],
+        "links": [
+          {
+            "label": "Check my address for the Starlink reward",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -290623,14 +290718,7 @@ export const reviewsData: unknown[] = [
           "caption": "London, UK, checked 23 November 2026: £40 a month, Mini Rental £0, Router Mini £0 and £19 due today.",
           "objectFit": "portrait",
           "aspectRatio": 0.6543
-        },
-        "links": [
-          {
-            "label": "Check the plans and the contract at my address",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "The two markets side by side",
@@ -290706,7 +290794,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "By the terms on the order page, cancelling and returning the kit undamaged within 30 days of the payment due date is what triggers the refund of the kit and the first month, so the shipping receipt is the proof that decides it.",
         "links": [
           {
-            "label": "See plans with the 30-day refund on starlink.com",
+            "label": "Check the plans and the contract at my address",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -290799,8 +290887,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "The order opens on starlink.com through the referral link, which has to come before you pay. You pay the same price as on the site, see the contract for your own address and keep the 30 days to send the kit back. The referral credit is $100 in the US and £40 in the UK, after two months of service.",
-      "label": "Check the contract and plan at my address",
+      "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+      "label": "Open my Starlink order with the referral",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -290815,13 +290903,21 @@ export const reviewsData: unknown[] = [
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "The official Starlink site and the list of authorized retailers show you who you are buying from. See what to check, and which look-alike profiles to ignore, before you pay.",
     "metaDescription": "See how to recognize the official Starlink site, spot look-alike profiles on Trustpilot and check the list of authorized retailers.",
     "publishedAt": "November 20, 2026",
@@ -290838,7 +290934,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, Starlink is legit: it is SpaceX's official satellite internet service, and it sells directly on starlink.com. We subscribed to Starlink ourselves as an alternative to unstable local fiber. The risk is look-alike sites and unverified listings, not the company: on Trustpilot, the profile that points to starlink.com is “Starlink Development”, and if you buy the kit elsewhere, check the seller against Starlink's list of authorized retailers before you pay."
+          "Yes, Starlink is legit: it is SpaceX's official satellite internet service, and it sells directly on starlink.com. We subscribed to Starlink ourselves as an alternative to unstable local fiber. The risk is look-alike sites and unverified listings, not the company: on Trustpilot, the profile that points to starlink.com is “Starlink Development”, and if you buy the kit elsewhere, check the seller against Starlink's list of authorized retailers before you pay.",
+          "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+        ],
+        "links": [
+          {
+            "label": "Check my address for the Starlink reward",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -290868,14 +290972,7 @@ export const reviewsData: unknown[] = [
           "caption": "Official order screen on starlink.com for a Nevada address, checked on November 23, 2026.",
           "objectFit": "portrait",
           "aspectRatio": 0.7159
-        },
-        "links": [
-          {
-            "label": "Open the official starlink.com order with the referral applied",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "Messages that use the Starlink name",
@@ -290934,7 +291031,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Check availability at my address on starlink.com",
+            "label": "Open the official starlink.com order with the referral applied",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -290988,8 +291085,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Open the order through the referral link, check that the address bar stays on starlink.com and see plan, kit and total for your address before you pay. The price is the same as on the official site.",
-      "label": "See my address on starlink.com",
+      "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+      "label": "Open my Starlink order with the referral",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -291004,13 +291101,21 @@ export const reviewsData: unknown[] = [
     "type": "Reputation Analysis",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "See the TrustScore, how the star ratings split and which complaints come up most on the Starlink profile on Trustpilot. Learn how to raise a problem with the company.",
     "metaDescription": "Starlink on Trustpilot: a 1.6 TrustScore from 879 reviews on an unclaimed profile. See what recent one-star and five-star reviews say.",
     "publishedAt": "November 20, 2026",
@@ -291027,7 +291132,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Starlink Development, the Trustpilot profile for starlink.com, has a TrustScore of 1.6 out of 5 from 879 reviews, and 71% of them are one star. The profile is unclaimed: the company has no paid plan, sends no review invitations and has not replied to any of the 464 negative reviews. The reviews come from customers in many countries."
+          "Starlink Development, the Trustpilot profile for starlink.com, has a TrustScore of 1.6 out of 5 from 879 reviews, and 71% of them are one star. The profile is unclaimed: the company has no paid plan, sends no review invitations and has not replied to any of the 464 negative reviews from the past 12 months, the period Trustpilot’s company activity page covers. The reviews come from customers in many countries.",
+          "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+        ],
+        "links": [
+          {
+            "label": "Check my address for the Starlink reward",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -291180,13 +291293,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.8079
           }
-        ],
-        "links": [
-          {
-            "label": "Open the official order on starlink.com and check my area",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -291220,7 +291326,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "On the numbers in the table, for anyone who has no good internet option at their address, subscribing is reasonable once plan, kit, tax and contract are checked on starlink.com for that address, because the 1.6 reflects support, billing and price complaints more than signal quality.",
         "links": [
           {
-            "label": "Check availability at my address on starlink.com",
+            "label": "Open the official order on starlink.com and check my area",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -291263,8 +291369,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Open the order through the referral link, check plan, kit and contract for your address and save the summary screen before paying. The price is the one on the official site.",
-      "label": "Open my order on starlink.com",
+      "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+      "label": "Open my Starlink order with the referral",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -291274,20 +291380,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-enlace-referido-como-funciona",
     "translationKey": "starlink-indicacao",
     "locale": "es",
-    "title": "Cómo ganar 45 € en España (o el importe de tu país) al comprar tu primer Starlink con el enlace de referido",
-    "seoTitle": "Cómo ganar 45 € al comprar tu primer Starlink",
+    "title": "Starlink: cómo recibir 45 € en España o 700 pesos en México al contratar",
+    "seoTitle": "Starlink: 45 € en España o 700 pesos en México",
     "type": "Guía del código de referido",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Starlink no tiene código de cupón: pide tu primer kit con el enlace oficial de referido, paga el mismo precio de la web y recibe 45 € en España tras dos meses.",
-    "metaDescription": "Cómo conseguir 45 € en España al contratar tu primer Starlink con el enlace de referido, cuánto cubre y cómo activarlo antes de pagar.",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Usa nuestro enlace al contratar Starlink. La referencia de noviembre es 45 € en España o 700 pesos en México. Confirma el importe en tu pedido.",
+    "metaDescription": "Usa nuestro enlace al contratar Starlink. La referencia de noviembre es 45 € en España o 700 pesos en México. Confirma el importe en tu pedido.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -291302,14 +291416,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Starlink no tiene códigos promocionales para escribir en la cesta: además de las ofertas de su web, la vía oficial para conseguir una recompensa en tu primera suscripción es pedir con un enlace de referido. En España recibes 45 € (en otros países, el importe en tu moneda aparece en el pedido), pagando lo mismo que en starlink.com y manteniendo los 30 días de prueba. Con el plan de 100 Mbps de Madrid (24,50 €/mes con la promoción), 45 € cubren casi dos mensualidades. Abre el enlace antes de pedir, comprueba en pantalla el aviso de referido aplicado, activa el kit y mantén dos ciclos mensuales pagados. Si completas la compra sin el enlace, no se puede añadir después."
+          "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+        ],
+        "links": [
+          {
+            "label": "Consultar mi dirección con la bonificación de Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Por qué merece la pena pedir con el enlace",
         "paragraphs": [
           "Si entras en starlink.com por tu cuenta, el equipo y la mensualidad cuestan lo mismo que con el enlace. La diferencia son los 45 € que dejarías sin cobrar. El crédito no baja el precio del kit el día del pedido: llega a tu factura después de dos ciclos mensuales completos y pagados.",
-          "Las cifras de abajo salen de direcciones de referencia. En tu dirección, el precio, el kit y las condiciones pueden ser otros, y solo el pedido los muestra."
+          "Las cifras de abajo salen de direcciones de referencia. En tu dirección, el precio, el kit y las condiciones pueden ser otros, y solo el pedido los muestra.",
+          "La referencia de 700 pesos en México figura en el relevamiento de noviembre de SatNet Watch. El importe de tu pedido es el que cuenta."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
@@ -291353,13 +291475,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "links": [
-          {
-            "label": "Abrir mi pedido con el bono de 45 €",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "simulator": {
           "title": "Prueba tu escenario",
           "scenarios": [
@@ -291493,7 +291608,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Asegurar el bono antes de pedir",
+            "label": "Abrir mi pedido con el bono de 45 €",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -291562,8 +291677,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Pagas exactamente el mismo precio que en la web oficial, conservas los 30 días para devolver el kit si no funciona en tu tejado y aseguras 45 € de crédito en España tras dos ciclos mensuales.",
-      "label": "Activar mi bono de 45 € en starlink.com",
+      "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+      "label": "Abrir mi pedido con el enlace de referido",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -291603,13 +291718,21 @@ export const reviewsData: unknown[] = [
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "En Madrid, Starlink mostraba el 100 Mbps a 24,50 € al mes, el 200 Mbps a 31,50 € y el kit en alquiler a 0 €. Mira la cuenta del primer pedido y cómo entra el referido.",
     "metaDescription": "Starlink Black Friday en España: 30 % en los planes y kit en alquiler a 0 €. Mira los precios de Madrid, la devolución y cómo entra el referido.",
     "publishedAt": "20 de noviembre de 2026",
@@ -291626,7 +291749,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El pedido de Starlink que consultamos en Madrid mostraba un 30 % de descuento en el servicio hasta el 30 de noviembre: 24,50 € al mes el 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el kit en alquiler a 0 € y 19 € a pagar hoy. El equipo se devuelve si cancelas y tienes 30 días de prueba. La recompensa del referido solo cuenta si abres el pedido desde un enlace de referido antes de pagar."
+          "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos.",
+          "El pedido de Starlink que consultamos en Madrid mostraba un 30 % de descuento en el servicio hasta el 30 de noviembre: 24,50 € al mes el 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el kit en alquiler a 0 € y 19 € a pagar hoy. El equipo se devuelve si cancelas y tienes 30 días de prueba."
+        ],
+        "links": [
+          {
+            "label": "Consultar mi dirección con la bonificación de Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -291741,14 +291872,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "El 200 Mbps queda en medio: 31,50 € al mes con 30 %, frente a los 45 € de su precio normal. Si el Máx. te sobra y el 100 Mbps se queda corto, es el plan que conviene comparar primero."
         ],
-        "emphasis": "Según la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 €, 31,50 € o 45,50 € al mes según el plan, y la recompensa llega solo tras dos ciclos mensuales completos.",
-        "links": [
-          {
-            "label": "Consultar la Black Friday y el referido en mi dirección",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        "emphasis": "Según la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 €, 31,50 € o 45,50 € al mes según el plan, y la recompensa llega solo tras dos ciclos mensuales completos."
       },
       {
         "heading": "Cómo se ve en el pedido",
@@ -291793,7 +291917,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Asegurar el referido antes de pagar el pedido",
+            "label": "Consultar la Black Friday y el referido en mi dirección",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -291850,8 +291974,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Pagas el mismo precio que en el pedido oficial, conservas los 30 días de prueba y la devolución del kit alquilado si la antena no funciona en tu tejado, y la recompensa del referido entra en tu factura tras dos ciclos pagados.",
-      "label": "Ver mi dirección con el referido",
+      "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+      "label": "Abrir mi pedido con el enlace de referido",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -291891,13 +292015,21 @@ export const reviewsData: unknown[] = [
     "type": "Guía de compra",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Comprueba si Starlink vale la pena en fincas o en zonas donde la fibra se corta y no da la velocidad. Mira planes, kit en alquiler y uso como conexión de respaldo.",
     "metaDescription": "¿Vale la pena Starlink incluso con fibra en casa? Precios por dirección, kit en alquiler, inestabilidad de la fibra y uso como alternativa o respaldo.",
     "publishedAt": "20 de noviembre de 2026",
@@ -291914,7 +292046,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, Starlink vale la pena donde no llega una conexión estable y también donde hay fibra, pero se corta a menudo o rinde muy por debajo de lo contratado. Nosotros la contratamos como alternativa y respaldo de nuestra fibra inestable. Si tu fibra es realmente estable, suele ganar en precio y latencia. Probar tiene poco riesgo: en el pedido de Madrid el kit va en alquiler a 0 € y hay 30 días para devolverlo."
+          "Sí, Starlink vale la pena donde no llega una conexión estable y también donde hay fibra, pero se corta a menudo o rinde muy por debajo de lo contratado. Nosotros la contratamos como alternativa y respaldo de nuestra fibra inestable. Si tu fibra es realmente estable, suele ganar en precio y latencia. Probar tiene poco riesgo: en el pedido de Madrid el kit va en alquiler a 0 € y hay 30 días para devolverlo.",
+          "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+        ],
+        "links": [
+          {
+            "label": "Consultar mi dirección con la bonificación de Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292027,13 +292167,6 @@ export const reviewsData: unknown[] = [
           "El plan de 200 Mbps es el que muchas comparativas se saltan: a 31,50 € cuesta 7 € más al mes que el de 100 Mbps y trae el kit Standard 4 en alquiler. En Ciudad de México la situación es otra: el pedido que leímos solo mostraba el plan Max, a 1.485 MXN más 55 MXN de costo regulatorio, con compra del equipo. El Standard 4 X exigía un plazo de 12 meses, con multa de hasta 4.600 MXN, y el Kit Mini no.",
           "Haz la cuenta primero sin la recompensa del referido. Con nuestro enlace, quien se suscribe recibe 45 € en España tras dos meses de suscripción, como crédito en la factura. Mira la [página de referidos de Starlink](/es/coupons/starlink)."
         ],
-        "links": [
-          {
-            "label": "Simular plan y kit para mi dirección",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
           "alt": "Pantalla oficial de Starlink en Madrid con el plan de 100 Mbps a 24,50 € al mes y el kit en alquiler a 0 €",
@@ -292116,7 +292249,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Probar en mi dirección con 30 días para devolver",
+            "label": "Simular plan y kit para mi dirección",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -292155,8 +292288,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Pagas el mismo precio que en el sitio oficial, conservas los 30 días para devolver el kit si no funciona en tu tejado y recibes la recompensa del programa de referidos tras cumplir las reglas.",
-      "label": "Ver mi dirección en starlink.com con el referido",
+      "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+      "label": "Abrir mi pedido con el enlace de referido",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -292184,13 +292317,21 @@ export const reviewsData: unknown[] = [
     "type": "Guía práctica",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "En Madrid el kit va en alquiler, sin permanencia y con devolución al cancelar. En México, el Standard 4 X exige 12 meses. Mira los 30 días de prueba y cómo cancelar.",
     "metaDescription": "Starlink en España: kit en alquiler sin permanencia que se devuelve al cancelar. En México hay plazo de 12 meses. Prueba de 30 días y pasos para cancelar.",
     "publishedAt": "20 de noviembre de 2026",
@@ -292207,7 +292348,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Depende del país y del kit. En el pedido que consultamos en Madrid no hay permanencia: el kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas. En México, en cambio, el kit se compra, y el Standard 4 X del plan Max exige un plazo de 12 meses con una tarifa de rescisión de hasta 4.600 pesos. En ambos casos hay una prueba de 30 días: si cancelas y devuelves el kit en buen estado dentro del plazo, el pedido ofrece el reembolso del kit y del primer mes."
+          "Depende del país y del kit. En el pedido que consultamos en Madrid no hay permanencia: el kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas. En México, en cambio, el kit se compra, y el Standard 4 X del plan Max exige un plazo de 12 meses con una tarifa de rescisión de hasta 4.600 pesos. En ambos casos hay una prueba de 30 días: si cancelas y devuelves el kit en buen estado dentro del plazo, el pedido ofrece el reembolso del kit y del primer mes.",
+          "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+        ],
+        "links": [
+          {
+            "label": "Consultar mi dirección con la bonificación de Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292230,13 +292379,6 @@ export const reviewsData: unknown[] = [
             "caption": "Resumen del pedido en Madrid, consulta del 23/11/2026: 35 € menos 10,50 €, Mini X a 0 € y 19 € hoy.",
             "objectFit": "portrait",
             "aspectRatio": 0.726
-          }
-        ],
-        "links": [
-          {
-            "label": "Consultar planes y permanencia en mi dirección",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
           }
         ]
       },
@@ -292318,7 +292460,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Según las condiciones del pedido, cancelar y devolver el kit en buen estado dentro de los 30 días es lo que da derecho al reembolso del kit y del primer mes, y el justificante del envío es la prueba que lo decide.",
         "links": [
           {
-            "label": "Ver planes con 30 días de prueba en starlink.com",
+            "label": "Consultar planes y permanencia en mi dirección",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -292417,8 +292559,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "El pedido se abre en starlink.com con el enlace de referido, que tiene que venir antes de pagar. Pagas el mismo precio que en la web, ves la permanencia de tu dirección y conservas los 30 días para devolver el kit. El crédito llega tras dos meses de servicio.",
-      "label": "Consultar permanencia y plan en mi dirección",
+      "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+      "label": "Abrir mi pedido con el enlace de referido",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -292433,13 +292575,21 @@ export const reviewsData: unknown[] = [
     "type": "Editorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "El sitio oficial de Starlink y la lista de distribuidores autorizados ayudan a comprobar a quién compras. Mira qué revisar antes de pagar el kit y cómo detectar sitios falsos.",
     "metaDescription": "Cómo reconocer el sitio oficial de Starlink, usar la lista de distribuidores autorizados y evitar perfiles y sitios que usan su nombre.",
     "publishedAt": "20 de noviembre de 2026",
@@ -292456,7 +292606,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, Starlink es fiable: es el servicio oficial de internet por satélite de SpaceX y vende directamente en starlink.com. Nosotros mismos contratamos Starlink como alternativa a una fibra local inestable. La precaución está en las webs imitadas y los anuncios fuera del canal oficial: en Trustpilot, el perfil que apunta a starlink.com es «Starlink Development», y si compras el kit en otro sitio, comprueba al vendedor en la lista de distribuidores autorizados antes de pagar."
+          "Sí, Starlink es fiable: es el servicio oficial de internet por satélite de SpaceX y vende directamente en starlink.com. Nosotros mismos contratamos Starlink como alternativa a una fibra local inestable. La precaución está en las webs imitadas y los anuncios fuera del canal oficial: en Trustpilot, el perfil que apunta a starlink.com es «Starlink Development», y si compras el kit en otro sitio, comprueba al vendedor en la lista de distribuidores autorizados antes de pagar.",
+          "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+        ],
+        "links": [
+          {
+            "label": "Consultar mi dirección con la bonificación de Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292486,14 +292644,7 @@ export const reviewsData: unknown[] = [
           "caption": "Pantalla de planes en starlink.com para una dirección de Madrid, consultada el 23 de noviembre de 2026.",
           "objectFit": "portrait",
           "aspectRatio": 0.622
-        },
-        "links": [
-          {
-            "label": "Abrir el pedido oficial en starlink.com con el referido",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "Mensajes que usan el nombre Starlink",
@@ -292552,7 +292703,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Comprobar la disponibilidad en mi dirección en starlink.com",
+            "label": "Abrir el pedido oficial en starlink.com con el referido",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -292606,8 +292757,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Abre el pedido con el enlace de referido, comprueba que la barra sigue en starlink.com y mira plan, kit y total para tu dirección antes de pagar. El precio es el del sitio oficial.",
-      "label": "Ver mi dirección en starlink.com",
+      "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+      "label": "Abrir mi pedido con el enlace de referido",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -292622,13 +292773,21 @@ export const reviewsData: unknown[] = [
     "type": "Análisis de reputación",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Mira la nota, cuántas opiniones tiene el perfil de starlink.com en Trustpilot y qué quejas resume la plataforma. Y cómo reclamar si tu cobro no coincide con el pedido.",
     "metaDescription": "Starlink en Trustpilot: TrustScore de 1,6 con 879 opiniones en un perfil sin reclamar. Qué dicen las opiniones recientes de una y cinco estrellas.",
     "publishedAt": "20 de noviembre de 2026",
@@ -292645,7 +292804,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Starlink Development, el perfil de Trustpilot de starlink.com, tiene un TrustScore de 1,6 sobre 5 con 879 opiniones, y el 71% son de una estrella. El perfil no está reclamado: la empresa no tiene plan de pago, no envía invitaciones para opinar y no ha respondido a ninguna de las 464 opiniones negativas. Las opiniones vienen de clientes de muchos países."
+          "Starlink Development, el perfil de Trustpilot de starlink.com, tiene un TrustScore de 1,6 sobre 5 con 879 opiniones, y el 71% son de una estrella. El perfil no está reclamado: la empresa no tiene plan de pago, no envía invitaciones para opinar y no ha respondido a ninguna de las 464 opiniones negativas de los últimos 12 meses, el periodo que cubre la página de actividad de la empresa en Trustpilot. Las opiniones vienen de clientes de muchos países.",
+          "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+        ],
+        "links": [
+          {
+            "label": "Consultar mi dirección con la bonificación de Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292798,13 +292965,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.8079
           }
-        ],
-        "links": [
-          {
-            "label": "Abrir el pedido oficial en starlink.com y revisar mi zona",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -292838,7 +292998,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Por los números de la tabla, para quien no tiene una buena alternativa de internet en su dirección, suscribirse es razonable si antes comprueba plan, kit, impuestos y contrato en starlink.com para esa dirección, porque el 1,6 refleja quejas de atención, facturación y precio más que de calidad de la señal.",
         "links": [
           {
-            "label": "Comprobar la disponibilidad en mi dirección en starlink.com",
+            "label": "Abrir el pedido oficial en starlink.com y revisar mi zona",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -292881,8 +293041,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Abre el pedido con el enlace de indicación, revisa plan, kit y contrato en tu dirección y guarda la captura del resumen antes de pagar. El precio es el del sitio oficial.",
-      "label": "Abrir mi pedido en starlink.com",
+      "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+      "label": "Abrir mi pedido con el enlace de referido",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -292892,20 +293052,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-lien-parrainage",
     "translationKey": "starlink-indicacao",
     "locale": "fr",
-    "title": "Comment gagner 45 € en France en achetant votre premier Starlink via le lien de parrainage",
-    "seoTitle": "Comment gagner 45 € sur votre premier Starlink",
+    "title": "Comment recevoir 45 € de crédit sur votre premier abonnement Starlink",
+    "seoTitle": "Starlink : 45 € de crédit avec le parrainage",
     "type": "Guide du code de parrainage",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Starlink n'a pas de code promo : commandez votre premier kit avec le lien officiel de parrainage, payez le même prix et recevez 45 € en France après deux mois.",
-    "metaDescription": "Comment recevoir 45 € en France lors de votre première commande Starlink, ce que cela couvre sur les forfaits et comment activer le lien avant de payer.",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "En France, les nouveaux abonnés Starlink peuvent recevoir 45 € de crédit sur leur facture via notre lien. Vérifiez le montant avant de payer.",
+    "metaDescription": "En France, les nouveaux abonnés Starlink peuvent recevoir 45 € de crédit sur leur facture via notre lien. Vérifiez le montant avant de payer.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -292920,7 +293088,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Starlink ne propose aucun code promo à saisir au panier : en plus des offres de son site, passer par un lien de parrainage est le moyen officiel d'obtenir une récompense sur votre premier abonnement. En France, elle est de 45 € (dans un autre pays, le montant en euros ou en devise locale s'affiche sur la commande). Vous payez le même tarif que sur starlink.com et gardez l'essai de 30 jours ; avec le forfait Résidentiel 100 Mbit/s à 24,50 €/mois à Paris, 45 € couvrent presque deux mois. Ouvrez le lien avant de commander, vérifiez la mention du parrainage avant de payer, activez le kit et gardez l'abonnement à jour pendant deux cycles mensuels. Une commande finalisée sans le lien ne peut plus être corrigée."
+          "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
+        ],
+        "links": [
+          {
+            "label": "Vérifier mon adresse et le crédit Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292965,13 +293140,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "links": [
-          {
-            "label": "Ouvrir ma commande avec les 45 € de parrainage",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "simulator": {
           "title": "Testez votre scénario",
           "scenarios": [
@@ -293105,7 +293273,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Sécuriser la récompense avant de commander",
+            "label": "Ouvrir ma commande avec les 45 € de parrainage",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -293175,8 +293343,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Vous payez exactement le même prix que sur le site officiel, gardez les 30 jours pour rendre le kit s'il ne fonctionne pas sur votre toit et sécurisez 45 € de crédit en France après deux cycles mensuels.",
-      "label": "Activer mes 45 € sur starlink.com",
+      "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
+      "label": "Ouvrir ma commande avec le parrainage",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -293214,13 +293382,21 @@ export const reviewsData: unknown[] = [
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "À Paris, la commande Starlink affichait le 100 Mbit/s à 24,50 € par mois et le kit loué à 0 €. Voyez le calcul de la première commande et comment entre le parrainage.",
     "metaDescription": "Starlink Black Friday : 30 % sur les forfaits et kit loué à 0 €. Voyez les prix de Paris, le retour du kit et comment le parrainage entre dans le calcul.",
     "publishedAt": "20 novembre 2026",
@@ -293237,7 +293413,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "La commande Starlink lue à Paris affichait 30 % de réduction sur les forfaits jusqu'au 30 novembre : 24,50 € par mois pour le 100 Mbit/s, 31,50 € pour le 200 Mbit/s et 45,50 € pour le Max, avec un kit loué à 0 € et 19 € à payer le jour même. Le matériel se renvoie si vous annulez, avec 30 jours d'essai. La récompense du parrainage ne compte que si vous ouvrez la commande depuis un lien de parrainage avant de payer."
+          "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation.",
+          "La commande Starlink lue à Paris affichait 30 % de réduction sur les forfaits jusqu'au 30 novembre : 24,50 € par mois pour le 100 Mbit/s, 31,50 € pour le 200 Mbit/s et 45,50 € pour le Max, avec un kit loué à 0 € et 19 € à payer le jour même. Le matériel se renvoie si vous annulez, avec 30 jours d'essai."
+        ],
+        "links": [
+          {
+            "label": "Vérifier mon adresse et le crédit Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -293352,14 +293536,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Le 200 Mbit/s se place au milieu : 31,50 € par mois avec la réduction, contre 45 € au prix normal. Si le 100 Mbit/s vous paraît juste et le Max trop, c'est le forfait à comparer en premier."
         ],
-        "emphasis": "D'après le tableau, la commande à Paris demande 19 € le jour même, puis 24,50 €, 31,50 € ou 45,50 € par mois selon le forfait, et la récompense n'arrive qu'après deux cycles mensuels complets.",
-        "links": [
-          {
-            "label": "Consulter le Black Friday et le parrainage à mon adresse",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        "emphasis": "D'après le tableau, la commande à Paris demande 19 € le jour même, puis 24,50 €, 31,50 € ou 45,50 € par mois selon le forfait, et la récompense n'arrive qu'après deux cycles mensuels complets."
       },
       {
         "heading": "Ce que montre la commande",
@@ -293404,7 +293581,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Sécuriser le parrainage avant de payer la commande",
+            "label": "Consulter le Black Friday et le parrainage à mon adresse",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -293463,8 +293640,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Vous payez le même prix que sur la commande officielle, vous gardez les 30 jours d'essai et le retour du kit loué si l'antenne ne convient pas à votre toit, et la récompense du parrainage entre sur votre facture après deux cycles payés.",
-      "label": "Voir mon adresse avec le parrainage",
+      "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
+      "label": "Ouvrir ma commande avec le parrainage",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -293502,13 +293679,21 @@ export const reviewsData: unknown[] = [
     "type": "Guide d'achat",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Voyez si Starlink vaut le coup : zones sans fibre ou quartiers où la fibre locale coupe souvent. Prix par forfait, kit loué à 0 € et usage en connexion de secours.",
     "metaDescription": "Starlink vaut-il le coup même avec la fibre ? Tarifs par forfait, kit loué, fibre instable et utilisation comme connexion principale ou de secours.",
     "publishedAt": "20 novembre 2026",
@@ -293525,7 +293710,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, Starlink vaut le coup là où aucune connexion stable n’arrive, mais aussi là où la fibre existe et coupe souvent ou débite bien moins que prévu. Nous l’avons souscrite comme alternative et connexion de secours à notre fibre instable. Si votre fibre est vraiment stable, elle reste plus avantageuse en prix et en latence. L’essai est peu risqué : le kit est loué à 0 € sur la commande de Paris, avec 30 jours pour le renvoyer."
+          "Oui, Starlink vaut le coup là où aucune connexion stable n’arrive, mais aussi là où la fibre existe et coupe souvent ou débite bien moins que prévu. Nous l’avons souscrite comme alternative et connexion de secours à notre fibre instable. Si votre fibre est vraiment stable, elle reste plus avantageuse en prix et en latence. L’essai est peu risqué : le kit est loué à 0 € sur la commande de Paris, avec 30 jours pour le renvoyer.",
+          "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
+        ],
+        "links": [
+          {
+            "label": "Vérifier mon adresse et le crédit Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -293638,13 +293831,6 @@ export const reviewsData: unknown[] = [
           "Le forfait de 200 Mbit/s est celui que beaucoup de comparatifs oublient : à 31,50 €, il coûte 7 € de plus par mois que le 100 Mbit/s et inclut le kit Standard 4 en location. Comme la page ne fixe pas de durée pour le prix réduit, ne multipliez pas ces tarifs par 12 sans vérifier votre propre commande.",
           "Faites d’abord le calcul sans la récompense. Avec notre lien, la personne qui s’abonne reçoit 45 € en France après deux mois d’abonnement, sous forme de crédit sur la facture. Voyez le [parrainage Starlink](/fr/coupons/starlink)."
         ],
-        "links": [
-          {
-            "label": "Simuler le forfait et le kit pour mon adresse",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
           "alt": "Écran officiel de Starlink à Paris montrant le forfait 100 Mbit/s à 24,50 € par mois et le matériel loué à 0 €",
@@ -293727,7 +293913,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Tester à mon adresse avec 30 jours pour renvoyer",
+            "label": "Simuler le forfait et le kit pour mon adresse",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -293766,8 +293952,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Vous payez le même prix que sur le site officiel, gardez les 30 jours pour renvoyer le kit s’il ne fonctionne pas sur votre toit et recevez la récompense du programme de parrainage une fois les règles respectées.",
-      "label": "Voir mon adresse sur starlink.com avec le parrainage",
+      "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
+      "label": "Ouvrir ma commande avec le parrainage",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -293795,13 +293981,21 @@ export const reviewsData: unknown[] = [
     "type": "Guide pratique",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "À Paris, le kit Starlink est loué à 0 €, sans durée minimale, et doit être renvoyé si vous annulez. Voyez les trois forfaits, les 30 jours et comment résilier.",
     "metaDescription": "Starlink à Paris : kit loué à 0 €, pas de durée fixe, à renvoyer en cas d'annulation, remboursement sous 30 jours et résiliation depuis le compte.",
     "publishedAt": "20 novembre 2026",
@@ -293818,7 +294012,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Sur la commande lue pour une adresse à Paris, Starlink n'impose pas de durée minimale : le matériel est loué, à 0 € au départ et 0 € par mois, et il faut le renvoyer si vous annulez le service. La commande prévoit le remboursement du kit et du premier mois si vous annulez et renvoyez le matériel en bon état dans les 30 jours. Les prix affichés n'ont pas de durée fixe, et Starlink peut les modifier avec un préavis de 30 jours."
+          "Sur la commande lue pour une adresse à Paris, Starlink n'impose pas de durée minimale : le matériel est loué, à 0 € au départ et 0 € par mois, et il faut le renvoyer si vous annulez le service. La commande prévoit le remboursement du kit et du premier mois si vous annulez et renvoyez le matériel en bon état dans les 30 jours. Les prix affichés n'ont pas de durée fixe, et Starlink peut les modifier avec un préavis de 30 jours.",
+          "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
+        ],
+        "links": [
+          {
+            "label": "Vérifier mon adresse et le crédit Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -293842,13 +294044,6 @@ export const reviewsData: unknown[] = [
             "caption": "Récapitulatif à Paris, consulté le 23/11/2026 : 35 € moins 10,50 €, Mini X à 0 € et 19 € aujourd'hui.",
             "objectFit": "portrait",
             "aspectRatio": 0.6625
-          }
-        ],
-        "links": [
-          {
-            "label": "Voir les forfaits et l'engagement à mon adresse",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
           }
         ]
       },
@@ -293905,7 +294100,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "D'après les conditions de la commande, annuler et renvoyer le kit en bon état dans les 30 jours est ce qui ouvre le remboursement du kit et du premier mois, et la preuve d'expédition fait foi.",
         "links": [
           {
-            "label": "Voir les forfaits avec 30 jours de remboursement sur starlink.com",
+            "label": "Voir les forfaits et l'engagement à mon adresse",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -294003,8 +294198,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "La commande s'ouvre sur starlink.com avec le lien de parrainage, qui doit venir avant le paiement. Vous payez le même prix que sur le site, vous voyez l'engagement de votre adresse et vous gardez les 30 jours pour renvoyer le kit. Le crédit arrive après deux mois d'abonnement.",
-      "label": "Consulter l'engagement et le forfait à mon adresse",
+      "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
+      "label": "Ouvrir ma commande avec le parrainage",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -294019,13 +294214,21 @@ export const reviewsData: unknown[] = [
     "type": "Éditorial",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Le site officiel de Starlink et la liste des revendeurs autorisés montrent à qui vous achetez. Ce qu’il faut vérifier avant de payer le kit, et comment repérer les faux sites.",
     "metaDescription": "Comment reconnaître le site officiel de Starlink, utiliser la liste des revendeurs autorisés et éviter les profils et sites qui reprennent son nom.",
     "publishedAt": "20 novembre 2026",
@@ -294042,7 +294245,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, Starlink est fiable : c'est le service officiel d'internet par satellite de SpaceX, et il se vend directement sur starlink.com. Nous avons nous-mêmes souscrit Starlink comme alternative à une fibre locale instable. La vigilance porte sur les sites copiés et les vendeurs tiers non agréés : sur Trustpilot, le profil lié à starlink.com s'appelle « Starlink Development » et, si vous achetez le kit ailleurs, vérifiez le vendeur dans la liste officielle des revendeurs autorisés avant de payer."
+          "Oui, Starlink est fiable : c'est le service officiel d'internet par satellite de SpaceX, et il se vend directement sur starlink.com. Nous avons nous-mêmes souscrit Starlink comme alternative à une fibre locale instable. La vigilance porte sur les sites copiés et les vendeurs tiers non agréés : sur Trustpilot, le profil lié à starlink.com s'appelle « Starlink Development » et, si vous achetez le kit ailleurs, vérifiez le vendeur dans la liste officielle des revendeurs autorisés avant de payer.",
+          "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
+        ],
+        "links": [
+          {
+            "label": "Vérifier mon adresse et le crédit Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -294072,14 +294283,7 @@ export const reviewsData: unknown[] = [
           "caption": "Écran des forfaits sur starlink.com pour une adresse à Paris, consulté le 23 novembre 2026.",
           "objectFit": "portrait",
           "aspectRatio": 0.5909
-        },
-        "links": [
-          {
-            "label": "Ouvrir la commande officielle sur starlink.com avec le parrainage",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "Messages qui utilisent le nom Starlink",
@@ -294138,7 +294342,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Vérifier la disponibilité à mon adresse sur starlink.com",
+            "label": "Ouvrir la commande officielle sur starlink.com avec le parrainage",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -294192,8 +294396,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Ouvrez la commande par le lien de parrainage, vérifiez que la barre reste sur starlink.com et consultez forfait, kit et total pour votre adresse avant de payer. Le prix est celui du site officiel.",
-      "label": "Voir mon adresse sur starlink.com",
+      "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
+      "label": "Ouvrir ma commande avec le parrainage",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -294208,13 +294412,21 @@ export const reviewsData: unknown[] = [
     "type": "Analyse de réputation",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Voyez la note, le nombre d'avis et les plaintes qui reviennent sur le profil Trustpilot de starlink.com, et ce que reflètent ces chiffres pour quelqu'un qui hésite à s'abonner.",
     "metaDescription": "Starlink sur Trustpilot : note de 1,6 pour 879 avis sur un profil non revendiqué. Ce que disent les avis récents à une et à cinq étoiles.",
     "publishedAt": "20 novembre 2026",
@@ -294231,7 +294443,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Starlink Development, le profil Trustpilot de starlink.com, affiche un TrustScore de 1,6 sur 5 pour 879 avis, dont 71 % à une étoile. Le profil n’est pas revendiqué : l’entreprise n’a pas d’offre payante, n’envoie pas d’invitations à laisser un avis et n’a répondu à aucun des 464 avis négatifs. Les avis viennent de clients de nombreux pays."
+          "Starlink Development, le profil Trustpilot de starlink.com, affiche un TrustScore de 1,6 sur 5 pour 879 avis, dont 71 % à une étoile. Le profil n’est pas revendiqué : l’entreprise n’a pas d’offre payante, n’envoie pas d’invitations à laisser un avis et n’a répondu à aucun des 464 avis négatifs des 12 derniers mois, la période que couvre la page d’activité de l’entreprise sur Trustpilot. Les avis viennent de clients de nombreux pays.",
+          "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
+        ],
+        "links": [
+          {
+            "label": "Vérifier mon adresse et le crédit Starlink",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -294384,13 +294604,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.8079
           }
-        ],
-        "links": [
-          {
-            "label": "Ouvrir la commande officielle sur starlink.com et vérifier ma zone",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -294424,7 +294637,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "D’après les chiffres du tableau, pour qui n’a pas de bonne solution internet à son adresse, s’abonner est raisonnable une fois l’offre, le kit, les taxes et le contrat vérifiés sur starlink.com pour cette adresse, car le 1,6 reflète des plaintes de support, de facturation et de prix plus que de qualité du signal.",
         "links": [
           {
-            "label": "Vérifier la disponibilité à mon adresse sur starlink.com",
+            "label": "Ouvrir la commande officielle sur starlink.com et vérifier ma zone",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -294467,8 +294680,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Ouvrez la commande par le lien de parrainage, vérifiez l’offre, le kit et le contrat à votre adresse et enregistrez la capture du récapitulatif avant de payer. Le prix est celui du site officiel.",
-      "label": "Ouvrir ma commande sur starlink.com",
+      "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
+      "label": "Ouvrir ma commande avec le parrainage",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -294478,20 +294691,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-empfehlungslink",
     "translationKey": "starlink-indicacao",
     "locale": "de",
-    "title": "So sichern Sie sich 45 € Bonus beim Kauf Ihres ersten Starlink über den Empfehlungslink",
-    "seoTitle": "45 € Bonus beim ersten Starlink per Empfehlungslink",
+    "title": "So erhalten Sie 45 € Guthaben bei Ihrem ersten Starlink-Abo",
+    "seoTitle": "Starlink: 45 € Guthaben per Empfehlungslink",
     "type": "Empfehlungscode-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Starlink hat keinen Gutscheincode: Bestellen Sie Ihr erstes Kit über den Empfehlungslink, zahlen Sie denselben Preis und sichern Sie sich 45 € in Deutschland.",
-    "metaDescription": "So erhalten Sie 45 € Bonus in Deutschland bei Ihrer ersten Starlink-Bestellung, wie viel das beim 100-Mbit/s-Tarif abdeckt und wie Sie es aktivieren.",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Neukunden in Deutschland können über unseren Empfehlungslink 45 € Rechnungsguthaben erhalten. Prüfen Sie die Prämie vor dem Bezahlen.",
+    "metaDescription": "Neukunden in Deutschland können über unseren Empfehlungslink 45 € Rechnungsguthaben erhalten. Prüfen Sie die Prämie vor dem Bezahlen.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -294506,7 +294727,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Starlink bietet keinen Gutscheincode zum Eintippen: Neben den Angeboten auf der Website ist der Empfehlungslink der offizielle Weg zu einer Prämie beim ersten Abo. In Deutschland sind es 45 € (in anderen Ländern zeigt die Bestellung den Betrag in Ihrer Währung). Sie zahlen denselben Preis wie auf starlink.com und behalten die 30 Tage Testzeit; beim 100-Mbit/s-Tarif in Berlin (17,50 €/Monat im Aktionszeitraum) decken 45 € mehr als zweieinhalb Monate. Öffnen Sie vor dem Bestellen den Link, prüfen Sie den Empfehlungshinweis, bevor Sie bezahlen, aktivieren Sie das Kit und halten Sie das Abo zwei volle Monatszyklen aktiv und bezahlt. Nachträglich lässt sich die Empfehlung nicht eintragen."
+          "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
+        ],
+        "links": [
+          {
+            "label": "Starlink-Prämie für meine Adresse prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -294551,13 +294779,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "links": [
-          {
-            "label": "Meine Bestellung mit 45 € Empfehlungsbonus öffnen",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "simulator": {
           "title": "Rechnen Sie Ihr Szenario",
           "scenarios": [
@@ -294691,7 +294912,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Prämie sichern, bevor Sie bestellen",
+            "label": "Meine Bestellung mit 45 € Empfehlungsbonus öffnen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -294760,8 +294981,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sie zahlen genau denselben Preis wie auf der offiziellen Website, behalten 30 Tage zur Rückgabe des Kits, falls es auf Ihrem Dach nicht funktioniert, und sichern sich 45 € Gutschrift in Deutschland nach zwei Monatszyklen.",
-      "label": "45 € Empfehlungsbonus bei Starlink sichern",
+      "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
+      "label": "Meine Bestellung über den Empfehlungslink öffnen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -294801,13 +295022,21 @@ export const reviewsData: unknown[] = [
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "In Berlin zeigte Starlink 100 Mbit/s für 17,50 € im Monat statt 35 €, drei Monate lang, und das Kit zur Miete für 0 €. Die Rechnung für Berlin und die Empfehlungsprämie.",
     "metaDescription": "Starlink Black Friday: 50 % auf die Tarife für 3 Monate, Kit zur Miete für 0 €, monatlich kündbar. Die Rechnung für Berlin und die Empfehlungsprämie.",
     "publishedAt": "20. November 2026",
@@ -294824,7 +295053,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Die Bestellseite von Starlink zeigte in Berlin 50 % Rabatt auf die Tarife für die ersten 3 Monate, bei Bestellung bis zum 30. November: 100 Mbit/s für 17,50 € im Monat, 200 Mbit/s für 27,50 € und Max für 37,50 €, dazu das Kit zur Miete für 0 € und 19 € am Bestelltag. Der Vertrag läuft von Monat zu Monat und ist gebührenfrei kündbar. Die Empfehlungsprämie zählt nur, wenn Sie die Bestellung vor der Zahlung über einen Empfehlungslink öffnen."
+          "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt.",
+          "Die Bestellseite von Starlink zeigte in Berlin 50 % Rabatt auf die Tarife für die ersten 3 Monate, bei Bestellung bis zum 30. November: 100 Mbit/s für 17,50 € im Monat, 200 Mbit/s für 27,50 € und Max für 37,50 €, dazu das Kit zur Miete für 0 € und 19 € am Bestelltag. Der Vertrag läuft von Monat zu Monat und ist gebührenfrei kündbar."
+        ],
+        "links": [
+          {
+            "label": "Starlink-Prämie für meine Adresse prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -294939,14 +295176,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Auf drei Monate gerechnet kostet der 100-Mbit/s-Tarif 52,50 €, der 200-Mbit/s-Tarif 82,50 € und der Max 112,50 €. Danach verdoppelt sich der Monatspreis, weil der Normalpreis gilt. Wer länger bleiben will, rechnet deshalb mit 35 €, 55 € oder 75 €."
         ],
-        "emphasis": "Nach den Zahlen der Tabelle zahlt, wer in Berlin bestellt, 19 € am Bestelltag und danach 17,50 € bis 37,50 € im Monat, und die Prämie wird erst nach zwei vollen Monatszyklen gutgeschrieben, sodass die ersten Rechnungen aus eigener Tasche kommen.",
-        "links": [
-          {
-            "label": "Black Friday und Empfehlungsprämie für meine Adresse prüfen",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        "emphasis": "Nach den Zahlen der Tabelle zahlt, wer in Berlin bestellt, 19 € am Bestelltag und danach 17,50 € bis 37,50 € im Monat, und die Prämie wird erst nach zwei vollen Monatszyklen gutgeschrieben, sodass die ersten Rechnungen aus eigener Tasche kommen."
       },
       {
         "heading": "So sieht es in der Bestellung aus",
@@ -294991,7 +295221,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Prämie sichern, bevor ich die Bestellung bezahle",
+            "label": "Black Friday und Empfehlungsprämie für meine Adresse prüfen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -295048,8 +295278,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sie zahlen denselben Preis wie auf der offiziellen Bestellseite, behalten die 30 Tage zum Testen samt Rückgabe des Miet-Kits, falls die Antenne auf Ihrem Dach nicht funktioniert, und die Empfehlungsprämie kommt nach zwei bezahlten Zyklen auf Ihre Rechnung.",
-      "label": "Meine Adresse mit Empfehlung prüfen",
+      "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
+      "label": "Meine Bestellung über den Empfehlungslink öffnen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -295089,13 +295319,21 @@ export const reviewsData: unknown[] = [
     "type": "Kaufratgeber",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Prüfen Sie, ob sich Starlink lohnt – auf dem Land oder bei instabilem Glasfaser-Internet mit Ausfällen. Aktionspreise, 0-€-Mietkit und Nutzung als Backup-Leitung.",
     "metaDescription": "Lohnt sich Starlink trotz Glasfaser? Tarife, 0-€-Mietkit, monatliche Kündbarkeit und wann sich Satelliten-Internet als Alternative oder Backup rechnet.",
     "publishedAt": "20. November 2026",
@@ -295112,7 +295350,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Ja, Starlink lohnt sich dort, wo keine stabile Verbindung ankommt, aber auch dort, wo Glasfaser liegt und trotzdem oft ausfällt oder deutlich weniger Tempo liefert als gebucht. Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Läuft Ihre Glasfaser wirklich stabil, bleibt sie bei Preis und Latenz meist vorn. Der Test ist risikoarm: Das Kit ist in der Berliner Bestellung zur Miete für 0 €, und Sie haben 30 Tage für die Rückgabe."
+          "Ja, Starlink lohnt sich dort, wo keine stabile Verbindung ankommt, aber auch dort, wo Glasfaser liegt und trotzdem oft ausfällt oder deutlich weniger Tempo liefert als gebucht. Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Läuft Ihre Glasfaser wirklich stabil, bleibt sie bei Preis und Latenz meist vorn. Der Test ist risikoarm: Das Kit ist in der Berliner Bestellung zur Miete für 0 €, und Sie haben 30 Tage für die Rückgabe.",
+          "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
+        ],
+        "links": [
+          {
+            "label": "Starlink-Prämie für meine Adresse prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -295225,13 +295471,6 @@ export const reviewsData: unknown[] = [
           "Der Tarif mit 200 Mbit/s fehlt in vielen Vergleichen: Mit 27,50 € in den ersten Monaten liegt er 10 € über dem 100er und bringt das Kit Standard 4 zur Miete mit. Rechnen Sie Ihre Kosten nicht mit dem Aktionspreis, sondern auch mit dem Normalpreis nach den 3 Monaten: Aus 17,50 € werden 35 €.",
           "Rechnen Sie an Ihrer Adresse zuerst ohne die Prämie. Über unseren Empfehlungslink erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement als Gutschrift auf der Rechnung. Mehr auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink)."
         ],
-        "links": [
-          {
-            "label": "Tarif und Kit für meine Adresse simulieren",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
           "alt": "Offizielle Starlink-Bestellseite für Berlin mit dem Tarif 100 Mbit/s für 17,50 € im Monat und Kit-Miete für 0 €",
@@ -295314,7 +295553,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "An meiner Adresse testen mit 30 Tagen Rückgabe",
+            "label": "Tarif und Kit für meine Adresse simulieren",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -295353,8 +295592,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Sie zahlen denselben Preis wie auf der offiziellen Seite, behalten die 30 Tage für die Rückgabe des Kits, falls es auf Ihrem Dach nicht funktioniert, und erhalten die Prämie des Empfehlungsprogramms, sobald die Regeln erfüllt sind.",
-      "label": "Meine Adresse auf starlink.com mit Empfehlung ansehen",
+      "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
+      "label": "Meine Bestellung über den Empfehlungslink öffnen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -295382,13 +295621,21 @@ export const reviewsData: unknown[] = [
     "type": "Anleitung",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "In Berlin läuft der Vertrag von Monat zu Monat, die Kündigung ist gebührenfrei, und das gemietete Kit geht zurück. Alle drei Tarife, die 30 Tage und die Schritte im Konto.",
     "metaDescription": "Starlink kündigen in Deutschland: Vertrag von Monat zu Monat, gebührenfrei kündbar, Kit zur Miete geht zurück. 30 Tage und Schritte im Konto.",
     "publishedAt": "20. November 2026",
@@ -295405,7 +295652,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Die Bestellübersicht für Berlin nennt es ausdrücklich: Der Vertrag wird automatisch von Monat zu Monat auf unbestimmte Zeit verlängert, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Das Kit ist gemietet, mit 0 € Vorauszahlung und 0 € im Monat, und geht bei Kündigung an Starlink zurück. Wer kündigt und das Kit innerhalb von 30 Tagen unbeschädigt zurückgibt, bekommt nach den Bedingungen des Angebots Kit und ersten Monat erstattet."
+          "Die Bestellübersicht für Berlin nennt es ausdrücklich: Der Vertrag wird automatisch von Monat zu Monat auf unbestimmte Zeit verlängert, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Das Kit ist gemietet, mit 0 € Vorauszahlung und 0 € im Monat, und geht bei Kündigung an Starlink zurück. Wer kündigt und das Kit innerhalb von 30 Tagen unbeschädigt zurückgibt, bekommt nach den Bedingungen des Angebots Kit und ersten Monat erstattet.",
+          "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
+        ],
+        "links": [
+          {
+            "label": "Starlink-Prämie für meine Adresse prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -295428,13 +295683,6 @@ export const reviewsData: unknown[] = [
             "caption": "Bestellübersicht in Berlin, Stand 23.11.2026: Vertrag von Monat zu Monat, Kündigung gebührenfrei, 3 Monate Rabatt von 27,50 €.",
             "objectFit": "portrait",
             "aspectRatio": 0.5889
-          }
-        ],
-        "links": [
-          {
-            "label": "Tarife und Vertragsbedingungen für meine Adresse prüfen",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
           }
         ]
       },
@@ -295496,7 +295744,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Nach den Bedingungen der Bestellung löst nur die Kündigung mit unbeschädigter Rückgabe des Kits innerhalb von 30 Tagen die Erstattung von Kit und erstem Monat aus, und der Versandbeleg ist der Nachweis, auf den es ankommt.",
         "links": [
           {
-            "label": "Tarife mit 30 Tagen Erstattung auf starlink.com ansehen",
+            "label": "Tarife und Vertragsbedingungen für meine Adresse prüfen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -295595,8 +295843,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Die Bestellung öffnet sich auf starlink.com über den Empfehlungslink, der vor der Zahlung kommen muss. Sie zahlen denselben Preis wie auf der Seite, sehen die Vertragsbedingungen Ihrer Adresse und behalten die 30 Tage für die Rückgabe. Die Gutschrift kommt nach zwei Monaten Abonnement.",
-      "label": "Vertrag und Tarif für meine Adresse prüfen",
+      "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
+      "label": "Meine Bestellung über den Empfehlungslink öffnen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -295611,13 +295859,21 @@ export const reviewsData: unknown[] = [
     "type": "Redaktionell",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Die offizielle Starlink-Seite und die Liste autorisierter Händler zeigen, bei wem Sie kaufen. Was Sie vor dem Bezahlen prüfen sollten und welche ähnlichen Profile Sie ignorieren.",
     "metaDescription": "So erkennen Sie die offizielle Starlink-Seite, nutzen die Liste autorisierter Händler und meiden Profile und Seiten, die den Namen verwenden.",
     "publishedAt": "20. November 2026",
@@ -295634,7 +295890,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Ja, Starlink ist seriös: Es ist der offizielle Satelliten-Internetdienst von SpaceX und wird direkt über starlink.com verkauft. Wir haben Starlink selbst als Alternative zu instabilem Glasfaser-Internet gebucht. Aufpassen müssen Sie bei nachgemachten Webseiten und nicht autorisierten Anbietern: Auf Trustpilot gehört das Profil „Starlink Development“ zu starlink.com, und wer das Kit anderswo kauft, prüft vor dem Bezahlen den Verkäufer in der Liste autorisierter Händler."
+          "Ja, Starlink ist seriös: Es ist der offizielle Satelliten-Internetdienst von SpaceX und wird direkt über starlink.com verkauft. Wir haben Starlink selbst als Alternative zu instabilem Glasfaser-Internet gebucht. Aufpassen müssen Sie bei nachgemachten Webseiten und nicht autorisierten Anbietern: Auf Trustpilot gehört das Profil „Starlink Development“ zu starlink.com, und wer das Kit anderswo kauft, prüft vor dem Bezahlen den Verkäufer in der Liste autorisierter Händler.",
+          "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
+        ],
+        "links": [
+          {
+            "label": "Starlink-Prämie für meine Adresse prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -295664,14 +295928,7 @@ export const reviewsData: unknown[] = [
           "caption": "Tarifauswahl auf starlink.com für eine Adresse in Berlin, abgerufen am 23. November 2026.",
           "objectFit": "portrait",
           "aspectRatio": 0.5909
-        },
-        "links": [
-          {
-            "label": "Offizielle Bestellung auf starlink.com mit Empfehlung öffnen",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "Nachrichten, die den Namen Starlink nutzen",
@@ -295730,7 +295987,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Verfügbarkeit für meine Adresse auf starlink.com prüfen",
+            "label": "Offizielle Bestellung auf starlink.com mit Empfehlung öffnen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -295784,8 +296041,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Öffnen Sie die Bestellung über den Empfehlungslink, prüfen Sie, dass die Adressleiste bei starlink.com bleibt, und sehen Sie Tarif, Kit und Gesamtbetrag für Ihre Adresse, bevor Sie zahlen. Der Preis ist der der offiziellen Seite.",
-      "label": "Meine Adresse auf starlink.com ansehen",
+      "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
+      "label": "Meine Bestellung über den Empfehlungslink öffnen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -295800,13 +296057,21 @@ export const reviewsData: unknown[] = [
     "type": "Reputationsanalyse",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Der TrustScore, wie viele Menschen bewertet haben und welche Beschwerden im Trustpilot-Profil der Domain starlink.com auftauchen. Dazu, wie Sie selbst reklamieren.",
     "metaDescription": "Starlink bei Trustpilot: TrustScore 1,6 bei 879 Bewertungen auf einem nicht beanspruchten Profil. Was aktuelle Ein- und Fünf-Sterne-Bewertungen sagen.",
     "publishedAt": "20. November 2026",
@@ -295823,7 +296088,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Starlink Development, das Trustpilot-Profil von starlink.com, hat einen TrustScore von 1,6 von 5 bei 879 Bewertungen, davon 71 % mit einem Stern. Das Profil ist nicht beansprucht: Das Unternehmen hat keinen kostenpflichtigen Tarif, verschickt keine Einladungen zu Bewertungen und hat auf keine der 464 negativen Bewertungen geantwortet. Die Bewertungen stammen von Kunden aus vielen Ländern."
+          "Starlink Development, das Trustpilot-Profil von starlink.com, hat einen TrustScore von 1,6 von 5 bei 879 Bewertungen, davon 71 % mit einem Stern. Das Profil ist nicht beansprucht: Das Unternehmen hat keinen kostenpflichtigen Tarif, verschickt keine Einladungen zu Bewertungen und hat auf keine der 464 negativen Bewertungen der letzten 12 Monate geantwortet, des Zeitraums, den die Seite zur Unternehmensaktivität bei Trustpilot abdeckt. Die Bewertungen stammen von Kunden aus vielen Ländern.",
+          "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
+        ],
+        "links": [
+          {
+            "label": "Starlink-Prämie für meine Adresse prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -295976,13 +296249,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.8079
           }
-        ],
-        "links": [
-          {
-            "label": "Offizielle Bestellung auf starlink.com öffnen und meine Region prüfen",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -296016,7 +296282,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Nach den Zahlen der Tabelle ist das Abonnieren für alle ohne gute Internetalternative an ihrer Adresse vertretbar, sobald Tarif, Kit, Steuern und Vertrag auf starlink.com für diese Adresse geprüft sind, denn die 1,6 spiegelt Beschwerden über Support, Abrechnung und Preis stärker wider als die Signalqualität.",
         "links": [
           {
-            "label": "Verfügbarkeit an meiner Adresse auf starlink.com prüfen",
+            "label": "Offizielle Bestellung auf starlink.com öffnen und meine Region prüfen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -296059,8 +296325,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Öffnen Sie die Bestellung über den Empfehlungslink, prüfen Sie Tarif, Kit und Vertrag für Ihre Adresse und speichern Sie den Screenshot der Übersicht vor der Zahlung. Der Preis ist der der offiziellen Seite.",
-      "label": "Meine Bestellung auf starlink.com öffnen",
+      "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
+      "label": "Meine Bestellung über den Empfehlungslink öffnen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -296070,20 +296336,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-link-invito",
     "translationKey": "starlink-indicacao",
     "locale": "it",
-    "title": "Come ottenere 45 € in Italia acquistando il tuo primo Starlink con il link di invito",
-    "seoTitle": "Come ottenere 45 € sul tuo primo Starlink (invito)",
+    "title": "Come ottenere 45 € di credito sul tuo primo abbonamento Starlink",
+    "seoTitle": "Starlink: 45 € di credito con il link di invito",
     "type": "Guida al codice invito",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Starlink non ha codici sconto: ordina il tuo primo kit dal link di invito ufficiale, paga lo stesso prezzo del sito e ricevi 45 € in Italia dopo due mesi.",
-    "metaDescription": "Come ottenere 45 € in Italia sul tuo primo Starlink con il link di invito, quanto copre sui piani attuali e come attivarlo prima di pagare.",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura con il nostro link di invito. Controlla il bonus prima di pagare.",
+    "metaDescription": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura con il nostro link di invito. Controlla il bonus prima di pagare.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -296098,7 +296372,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Starlink non ha un codice coupon da incollare al checkout: oltre alle offerte del sito, il link di invito è il modo ufficiale per ricevere una ricompensa sul primo abbonamento. In Italia sono 45 € (in altri paesi l'importo nella tua valuta compare nell'ordine). Paghi lo stesso prezzo di starlink.com e mantieni i 30 giorni di prova; con il piano Residenziale 100 Mbps di Milano in offerta (17,50 €/mese), 45 € coprono oltre due mesi e mezzo. Apri il link prima di ordinare, verifica l'avviso dell'invito prima di pagare, attiva il kit e resta in regola per due cicli mensili. Se concludi l'ordine senza il link, non puoi aggiungerlo dopo."
+          "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
+        ],
+        "links": [
+          {
+            "label": "Verificare il bonus Starlink al mio indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -296143,13 +296424,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "links": [
-          {
-            "label": "Apri il mio ordine con il bonus di 45 €",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "simulator": {
           "title": "Prova il tuo scenario",
           "scenarios": [
@@ -296281,7 +296555,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Assicurati la ricompensa prima di ordinare",
+            "label": "Apri il mio ordine con il bonus di 45 €",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -296351,8 +296625,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Paghi esattamente lo stesso prezzo del sito ufficiale, mantieni i 30 giorni per restituire il kit se non funziona sul tuo tetto e ti assicuri 45 € di credito in Italia dopo due cicli mensili.",
-      "label": "Attiva il tuo bonus da 45 € su starlink.com",
+      "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
+      "label": "Aprire il mio ordine con il link di invito",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -296390,13 +296664,21 @@ export const reviewsData: unknown[] = [
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "A Milano l'ordine Starlink mostrava il 100 Mbps a 17,50 € al mese per 3 mesi e il kit a noleggio a 0 €. Vedi i tre piani, i 45 € dell'invito e come controllare il tuo indirizzo.",
     "metaDescription": "Starlink Black Friday: 50% di sconto sui piani per 3 mesi, kit a noleggio a 0 € e 45 € di invito in Italia. Controlla il tuo indirizzo.",
     "publishedAt": "20 novembre 2026",
@@ -296413,7 +296695,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "A Milano l'ordine Starlink mostrava il 50% di sconto per 3 mesi, con iscrizione entro il 30 novembre: 100 Mbps a 17,50 € al mese, 200 Mbps a 22,50 € e Max a 32,50 €, con il kit a noleggio a 0 € e 19 € da pagare oggi. La pagina riportava «Nessun contratto» e una prova di 30 giorni. I 45 € dell'invito in Italia contano solo se apri l'ordine da un link di invito prima di pagare, e arrivano dopo due cicli mensili pagati."
+          "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione.",
+          "A Milano l'ordine Starlink mostrava il 50% di sconto per 3 mesi, con iscrizione entro il 30 novembre: 100 Mbps a 17,50 € al mese, 200 Mbps a 22,50 € e Max a 32,50 €, con il kit a noleggio a 0 € e 19 € da pagare oggi. La pagina riportava «Nessun contratto» e una prova di 30 giorni."
+        ],
+        "links": [
+          {
+            "label": "Verificare il bonus Starlink al mio indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -296528,14 +296818,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Dopo i 3 mesi il canone sale al prezzo pieno: 35 € per il 100 Mbps, 45 € per il 200 Mbps e 65 € per il Max. Chi pensa di restare più di un trimestre deve fare il conto con questi valori."
         ],
-        "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese per 3 mesi, e il bonus di 45 € arriva solo dopo due cicli mensili completi, quindi le prime bollette escono dalla tua tasca.",
-        "links": [
-          {
-            "label": "Controllare Black Friday e bonus da 45 € al mio indirizzo",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese per 3 mesi, e il bonus di 45 € arriva solo dopo due cicli mensili completi, quindi le prime bollette escono dalla tua tasca."
       },
       {
         "heading": "Come compare nell'ordine",
@@ -296580,7 +296863,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Assicurarmi i 45 € prima di pagare l'ordine",
+            "label": "Controllare Black Friday e bonus da 45 € al mio indirizzo",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -296639,8 +296922,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Paghi lo stesso prezzo dell'ordine ufficiale, tieni i 30 giorni di prova con la restituzione del kit a noleggio se l'antenna non funziona sul tuo tetto e i 45 € dell'invito arrivano in fattura dopo due cicli pagati.",
-      "label": "Vedere il mio indirizzo con i 45 €",
+      "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
+      "label": "Aprire il mio ordine con il link di invito",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -296678,13 +296961,21 @@ export const reviewsData: unknown[] = [
     "type": "Guida all'acquisto",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Scopri se Starlink conviene in campagna o dove la fibra locale cade spesso ed è lenta. Prezzi dei 3 piani, kit a noleggio, nessun contratto e uso come connessione backup.",
     "metaDescription": "Starlink conviene anche se arriva la fibra? Prezzi a confronto, kit a noleggio, nessun contratto, fibra instabile e utilizzo come linea principale o backup.",
     "publishedAt": "20 novembre 2026",
@@ -296701,7 +296992,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, Starlink conviene dove non arriva una connessione stabile e anche dove c’è la fibra, ma cade spesso o dà molta meno banda di quella contrattata. Noi l’abbiamo attivata come alternativa e backup alla nostra fibra instabile. Se la tua fibra è davvero stabile, resta più conveniente per prezzo e latenza. La prova è a basso rischio: nell’ordine di Milano il kit è a noleggio a 0 €, con 30 giorni per restituirlo."
+          "Sì, Starlink conviene dove non arriva una connessione stabile e anche dove c’è la fibra, ma cade spesso o dà molta meno banda di quella contrattata. Noi l’abbiamo attivata come alternativa e backup alla nostra fibra instabile. Se la tua fibra è davvero stabile, resta più conveniente per prezzo e latenza. La prova è a basso rischio: nell’ordine di Milano il kit è a noleggio a 0 €, con 30 giorni per restituirlo.",
+          "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
+        ],
+        "links": [
+          {
+            "label": "Verificare il bonus Starlink al mio indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -296814,13 +297113,6 @@ export const reviewsData: unknown[] = [
           "Il piano da 200 Mbps è quello che molti confronti omettono: a 22,50 € nei primi mesi costa 5 € in più del 100 Mbps e porta con sé il kit Standard 4 a noleggio. Non fermarti al prezzo promozionale: dopo i 3 mesi i canoni tornano a 35 €, 45 € e 65 €.",
           "Fai il conto prima senza la ricompensa dell’invito. Con il nostro link, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura. Vedi l’[invito Starlink](/it/coupons/starlink)."
         ],
-        "links": [
-          {
-            "label": "Simula piano e kit per il mio indirizzo",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
           "alt": "Schermata ufficiale di Starlink a Milano con il piano 100 Mbps a 17,50 € al mese e il kit a noleggio a 0 €",
@@ -296903,7 +297195,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Provare al mio indirizzo con 30 giorni per restituire",
+            "label": "Simula piano e kit per il mio indirizzo",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -296942,8 +297234,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Paghi lo stesso prezzo del sito ufficiale, mantieni i 30 giorni per restituire il kit se sul tuo tetto non funziona e ricevi 45 € di credito in Italia dopo due mesi di abbonamento, a regole rispettate.",
-      "label": "Vedi il mio indirizzo su starlink.com con l’invito",
+      "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
+      "label": "Aprire il mio ordine con il link di invito",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -296971,13 +297263,21 @@ export const reviewsData: unknown[] = [
     "type": "Guida pratica",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "A Milano l'ordine dice nessun contratto, con kit a noleggio a 0 € da restituire se annulli. Vedi i tre piani, i 30 giorni di prova e come annullare dall'account.",
     "metaDescription": "Starlink in Italia: nessun contratto, kit a noleggio a 0 € da restituire e 30 giorni per il rimborso. Scopri come annullare l'abbonamento dall'account.",
     "publishedAt": "20 novembre 2026",
@@ -296994,7 +297294,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "L'ordine consultato a Milano riportava «Nessun contratto, prova di 30 giorni». Il kit è a noleggio, con 0 € iniziali e 0 € al mese, e va restituito se annulli il servizio. L'ordine descrive il rimborso del kit e del primo mese se annulli e restituisci l'attrezzatura senza danni entro 30 giorni. Gli sconti del 50 % sui primi 3 mesi valgono fino a fine novembre, e dopo i 3 mesi si paga il prezzo pieno."
+          "L'ordine consultato a Milano riportava «Nessun contratto, prova di 30 giorni». Il kit è a noleggio, con 0 € iniziali e 0 € al mese, e va restituito se annulli il servizio. L'ordine descrive il rimborso del kit e del primo mese se annulli e restituisci l'attrezzatura senza danni entro 30 giorni. Gli sconti del 50 % sui primi 3 mesi valgono fino a fine novembre, e dopo i 3 mesi si paga il prezzo pieno.",
+          "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
+        ],
+        "links": [
+          {
+            "label": "Verificare il bonus Starlink al mio indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -297017,13 +297325,6 @@ export const reviewsData: unknown[] = [
             "caption": "Riepilogo a Milano, consultato il 23/11/2026: 35 € meno 17,50 € per 3 mesi, Mini X a 0 € e 19 € oggi.",
             "objectFit": "portrait",
             "aspectRatio": 0.6709
-          }
-        ],
-        "links": [
-          {
-            "label": "Controlla piani e contratto al mio indirizzo",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
           }
         ]
       },
@@ -297090,7 +297391,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Secondo le condizioni dell'ordine, annullare e restituire il kit senza danni entro 30 giorni è ciò che dà diritto al rimborso del kit e del primo mese, e la ricevuta di spedizione è la prova che conta.",
         "links": [
           {
-            "label": "Vedi i piani con 30 giorni di rimborso su starlink.com",
+            "label": "Controlla piani e contratto al mio indirizzo",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -297181,8 +297482,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "L'ordine si apre su starlink.com con il link di invito, che deve venire prima del pagamento. Paghi lo stesso prezzo del sito, vedi il contratto del tuo indirizzo e tieni i 30 giorni per restituire il kit. Il credito arriva dopo due mesi di abbonamento.",
-      "label": "Controlla contratto e piano al mio indirizzo",
+      "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
+      "label": "Aprire il mio ordine con il link di invito",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -297197,13 +297498,21 @@ export const reviewsData: unknown[] = [
     "type": "Editoriale",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Il sito ufficiale di Starlink e l'elenco dei rivenditori autorizzati aiutano a capire da chi compri. Vedi cosa controllare prima di pagare il kit e come riconoscere i siti falsi.",
     "metaDescription": "Come riconoscere il sito ufficiale di Starlink, usare l'elenco dei rivenditori autorizzati ed evitare profili e siti che usano il suo nome.",
     "publishedAt": "20 novembre 2026",
@@ -297220,7 +297529,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, Starlink è affidabile: è il servizio ufficiale di internet satellitare di SpaceX e vende direttamente su starlink.com. Noi stessi lo abbiamo attivato come alternativa a una fibra locale instabile. L'attenzione va ai siti imitati e ai venditori non autorizzati: su Trustpilot il profilo collegato a starlink.com è «Starlink Development» e, se compri il kit altrove, verifica il venditore nell'elenco ufficiale dei rivenditori autorizzati prima di pagare."
+          "Sì, Starlink è affidabile: è il servizio ufficiale di internet satellitare di SpaceX e vende direttamente su starlink.com. Noi stessi lo abbiamo attivato come alternativa a una fibra locale instabile. L'attenzione va ai siti imitati e ai venditori non autorizzati: su Trustpilot il profilo collegato a starlink.com è «Starlink Development» e, se compri il kit altrove, verifica il venditore nell'elenco ufficiale dei rivenditori autorizzati prima di pagare.",
+          "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
+        ],
+        "links": [
+          {
+            "label": "Verificare il bonus Starlink al mio indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -297250,14 +297567,7 @@ export const reviewsData: unknown[] = [
           "caption": "Schermata dei piani su starlink.com per un indirizzo a Milano, consultata il 23 novembre 2026.",
           "objectFit": "portrait",
           "aspectRatio": 0.6065
-        },
-        "links": [
-          {
-            "label": "Aprire l'ordine ufficiale su starlink.com con l'invito",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "Messaggi che usano il nome Starlink",
@@ -297316,7 +297626,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Verificare la disponibilità al mio indirizzo su starlink.com",
+            "label": "Aprire l'ordine ufficiale su starlink.com con l'invito",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -297370,8 +297680,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Apri l'ordine con il link di invito, controlla che la barra resti su starlink.com e guarda piano, kit e totale per il tuo indirizzo prima di pagare. Il prezzo è quello del sito ufficiale.",
-      "label": "Vedi il mio indirizzo su starlink.com",
+      "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
+      "label": "Aprire il mio ordine con il link di invito",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -297386,13 +297696,21 @@ export const reviewsData: unknown[] = [
     "type": "Analisi della reputazione",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Vedi il TrustScore, quante recensioni ci sono, come si distribuiscono le stelle e cosa lamentano i clienti nel profilo di starlink.com. Scopri anche come fare reclamo.",
     "metaDescription": "Starlink su Trustpilot: TrustScore 1,6 con 879 recensioni su un profilo non rivendicato. Cosa dicono le recensioni recenti da una e da cinque stelle.",
     "publishedAt": "20 novembre 2026",
@@ -297409,7 +297727,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Starlink Development, il profilo Trustpilot di starlink.com, ha un TrustScore di 1,6 su 5 con 879 recensioni, il 71% delle quali da una stella. Il profilo non è rivendicato: l’azienda non ha un piano a pagamento, non invia inviti a recensire e non ha risposto a nessuna delle 464 recensioni negative. Le recensioni arrivano da clienti di molti paesi."
+          "Starlink Development, il profilo Trustpilot di starlink.com, ha un TrustScore di 1,6 su 5 con 879 recensioni, il 71% delle quali da una stella. Il profilo non è rivendicato: l’azienda non ha un piano a pagamento, non invia inviti a recensire e non ha risposto a nessuna delle 464 recensioni negative degli ultimi 12 mesi, il periodo coperto dalla pagina sull’attività dell’azienda su Trustpilot. Le recensioni arrivano da clienti di molti paesi.",
+          "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
+        ],
+        "links": [
+          {
+            "label": "Verificare il bonus Starlink al mio indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -297562,13 +297888,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.8079
           }
-        ],
-        "links": [
-          {
-            "label": "Apri l’ordine ufficiale su starlink.com e controlla la mia zona",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -297602,7 +297921,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Secondo i numeri della tabella, per chi non ha una buona alternativa internet al proprio indirizzo, abbonarsi è ragionevole dopo aver controllato piano, kit, imposte e contratto su starlink.com per quell’indirizzo, perché l’1,6 riflette lamentele su assistenza, fatturazione e prezzo più che sulla qualità del segnale.",
         "links": [
           {
-            "label": "Verifica la disponibilità al mio indirizzo su starlink.com",
+            "label": "Apri l’ordine ufficiale su starlink.com e controlla la mia zona",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -297645,8 +297964,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Apri l’ordine con il link di invito, controlla piano, kit e contratto al tuo indirizzo e salva lo screenshot del riepilogo prima di pagare. Il prezzo è quello del sito ufficiale.",
-      "label": "Apri il mio ordine su starlink.com",
+      "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
+      "label": "Aprire il mio ordine con il link di invito",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -297656,20 +297975,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-ja",
     "translationKey": "starlink-indicacao",
     "locale": "ja",
-    "title": "初めてのStarlink購入で紹介リンクから7,000円を受け取る方法",
-    "seoTitle": "初めてのStarlink購入で7,000円を受け取る方法",
+    "title": "Starlinkの初回契約で7,000円分の紹介クレジットを受け取る方法",
+    "seoTitle": "Starlinkの紹介特典：初回契約で7,000円分",
     "type": "紹介コードガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Starlinkにクーポンコードはありません。紹介リンクから初めて注文すれば、公式サイトと同額・30日間の返却期間のまま、2か月利用後に日本で7,000円分の特典を受け取れます。",
-    "metaDescription": "初めてのStarlink購入で紹介リンクを使って7,000円を受け取る手順と、東京のホームプランの月額に対するメリットをまとめました。",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "日本で初めてStarlinkを契約する方は、紹介リンクから7,000円分の請求額クレジットを受け取れます。支払い前に特典を確認する手順を紹介します。",
+    "metaDescription": "日本で初めてStarlinkを契約する方は、紹介リンクから7,000円分の請求額クレジットを受け取れます。支払い前に特典を確認する手順を紹介します。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -297684,7 +298011,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Starlinkに割引クーポンコードはありません。公式サイトのキャンペーンとは別に、初めて契約する方が特典を受け取れる公式の方法が紹介リンクです。このリンクからstarlink.comで注文すると、公式サイトと同じ価格・同じ30日間の返却期間のまま、日本では請求サイクル2回分を続けたあとに7,000円分が付与されます。東京のホームプラン（割引後の月額3,550円）なら、ほぼ2か月分にあたります。注文前にリンクを開いて適用の表示を確認し、2か月間支払いを続けてください。購入後に紹介を追加することはできません。"
+          "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
+        ],
+        "links": [
+          {
+            "label": "利用住所でStarlinkの紹介特典を確認",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -297723,13 +298057,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "links": [
-          {
-            "label": "7,000円特典つきで注文画面を開く",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "simulator": {
           "title": "ご自身のケースで試算",
           "scenarios": [
@@ -297863,7 +298190,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "注文の前に特典を確保する",
+            "label": "7,000円特典つきで注文画面を開く",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -297932,8 +298259,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "公式サイトと同じ価格で、屋根で使えなければ30日以内に返却でき、請求サイクル2回分のあとに日本で7,000円のクレジットを受け取れます。",
-      "label": "7,000円特典つきで公式サイトを確認する",
+      "text": "日本の新規契約者は、対象プランで2回の請求サイクルの支払いを完了すると、7,000円分のクレジットを受け取れます。私たちの紹介リンクから注文画面を開き、支払い前に特典をご確認ください。",
+      "label": "紹介リンクでStarlinkの注文を開く",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -297973,13 +298300,21 @@ export const reviewsData: unknown[] = [
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "東京の注文画面では、ホームプランが50%オフの月3,550円で、ミニキットのレンタルは0円でした。支払いの内訳、紹介特典7,000円の入り方、住所ごとの確認方法を整理します。",
     "metaDescription": "Starlinkのホームプランが50%オフで月3,550円、キットのレンタルは0円。紹介特典7,000円の入り方と、住所ごとの確認方法を注文画面で解説します。",
     "publishedAt": "2026年11月20日",
@@ -297996,7 +298331,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "東京の注文画面では、Starlinkのホームプランが通常月7,100円のところ50%オフの3,550円で、ミニキットはレンタル0円、本日のお支払いは配送料の3,000円でした。割引は11月30日までに注文した場合の案内です。日本の紹介特典は7,000円で、紹介リンクから開いた注文だけが対象になり、請求サイクルが2回完了したあとに付与されます。"
+          "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。",
+          "東京の注文画面では、Starlinkのホームプランが通常月7,100円のところ50%オフの3,550円で、ミニキットはレンタル0円、本日のお支払いは配送料の3,000円でした。割引は11月30日までに注文した場合の案内です。"
+        ],
+        "links": [
+          {
+            "label": "利用住所でStarlinkの紹介特典を確認",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -298106,14 +298449,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "注文画面の説明では、11月30日までに注文すれば割引後の月額料金が続くとされています。ただし将来の料金は変わることがあるので、長く使う予定なら通常価格の7,100円でも計算してください。"
         ],
-        "emphasis": "表の数字では、東京駅の住所の注文は本日の支払いが3,000円で、ホームプランは月3,550円です。紹介特典の7,000円は請求サイクルが2回完了したあとに付与されるため、それまでの請求は自己負担になります。",
-        "links": [
-          {
-            "label": "ブラックフライデーと紹介特典を自分の住所で確認する",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        "emphasis": "表の数字では、東京駅の住所の注文は本日の支払いが3,000円で、ホームプランは月3,550円です。紹介特典の7,000円は請求サイクルが2回完了したあとに付与されるため、それまでの請求は自己負担になります。"
       },
       {
         "heading": "注文画面での見え方",
@@ -298158,7 +298494,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "注文を確定する前に紹介特典7,000円を確保する",
+            "label": "ブラックフライデーと紹介特典を自分の住所で確認する",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -298215,8 +298551,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "公式の注文画面と同じ価格で、アンテナが屋根で使えなければ30日以内にレンタルキットを返却できます。そのうえ、請求サイクル2回のあとに紹介特典7,000円が請求に入ります。",
-      "label": "住所を確認して7,000円の特典を確保する",
+      "text": "日本の新規契約者は、対象プランで2回の請求サイクルの支払いを完了すると、7,000円分のクレジットを受け取れます。私たちの紹介リンクから注文画面を開き、支払い前に特典をご確認ください。",
+      "label": "紹介リンクでStarlinkの注文を開く",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -298256,13 +298592,21 @@ export const reviewsData: unknown[] = [
     "type": "購入ガイド",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "光回線がない地域だけでなく、自宅の光が不安定・遅い場合の乗り換えやバックアップ回線としてStarlinkに価値があるか解説。料金、レンタル条件、設置確認までまとめました。",
     "metaDescription": "Starlinkは買う価値がある？光回線が不安定な地域の代替・バックアップ用途、東京の月額料金とレンタル条件を整理。",
     "publishedAt": "2026年11月20日",
@@ -298279,7 +298623,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "はい、Starlinkは安定した回線が届かない地域だけでなく、光回線があっても頻繁に切れる、契約速度より極端に遅いといった家庭でも価値があります。当サイトでも、不安定な光回線の代替・バックアップとしてStarlinkを契約しました。光回線が本当に安定しているなら、料金と遅延では光回線が有利です。試すリスクは小さく、東京の注文画面ではキットは初期費用0円のレンタルで、30日以内なら返却できます。"
+          "はい、Starlinkは安定した回線が届かない地域だけでなく、光回線があっても頻繁に切れる、契約速度より極端に遅いといった家庭でも価値があります。当サイトでも、不安定な光回線の代替・バックアップとしてStarlinkを契約しました。光回線が本当に安定しているなら、料金と遅延では光回線が有利です。試すリスクは小さく、東京の注文画面ではキットは初期費用0円のレンタルで、30日以内なら返却できます。",
+          "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
+        ],
+        "links": [
+          {
+            "label": "利用住所でStarlinkの紹介特典を確認",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -298388,13 +298740,6 @@ export const reviewsData: unknown[] = [
           "東京の注文画面で選べたプランはホームだけでした。米国や欧州では100Mbps、200Mbps、Maxから選べますが、日本の住所ではこの1つです。50%オフが終わったあとの7,100円まで含めて、12か月の総額を考えてください。",
           "費用を見積もるときは、まず特典を引かずに計算します。私たちのリンクから契約すると、日本では2か月の契約を続けたあとに7,000円が請求へのクレジットとして付与されます。[Starlinkの紹介ページ](/ja/coupons/starlink)を参照してください。"
         ],
-        "links": [
-          {
-            "label": "自分の住所でプランとキットを試算する",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
           "alt": "Starlinkの公式注文画面。東京のホームプランが月額3,550円で、Miniレンタルが0円と表示されている",
@@ -298477,7 +298822,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "30日間の返却つきで、自分の住所で試す",
+            "label": "自分の住所でプランとキットを試算する",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -298516,8 +298861,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "公式サイトと同じ価格で申し込めます。屋根で使えなかった場合は30日以内に返却でき、条件を満たせば、日本では2か月の契約を続けたあとに7,000円が請求へのクレジットとして付与されます。",
-      "label": "紹介リンクでstarlink.comの住所を確認する",
+      "text": "日本の新規契約者は、対象プランで2回の請求サイクルの支払いを完了すると、7,000円分のクレジットを受け取れます。私たちの紹介リンクから注文画面を開き、支払い前に特典をご確認ください。",
+      "label": "紹介リンクでStarlinkの注文を開く",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -298545,13 +298890,21 @@ export const reviewsData: unknown[] = [
     "type": "使い方ガイド",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "東京の注文画面では、ホームプランのキットは初期費用0円のレンタルで、12か月の縛りは見つかりませんでした。解約すると機器の返却が必要です。手順と30日間の返金も解説します。",
     "metaDescription": "Starlink日本の注文画面：キットは0円のレンタルで縛りの表示はなく、解約時は返却が必要。30日以内の返金と解約の手順を確認できます。",
     "publishedAt": "2026年11月20日",
@@ -298568,7 +298921,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "東京駅の住所で読んだ注文画面では、日本のプランは「ホーム」の1つだけで、Miniと小型ルーターは初期費用0円、月額0円のレンタルでした。契約期間や解約の費用の表示はなく、サービスをキャンセルするときはレンタルのハードウェアを返却する条件です。キャンセルして機器を破損のない状態で30日以内に返却すると、キットと最初の月の料金が返金されます。"
+          "東京駅の住所で読んだ注文画面では、日本のプランは「ホーム」の1つだけで、Miniと小型ルーターは初期費用0円、月額0円のレンタルでした。契約期間や解約の費用の表示はなく、サービスをキャンセルするときはレンタルのハードウェアを返却する条件です。キャンセルして機器を破損のない状態で30日以内に返却すると、キットと最初の月の料金が返金されます。",
+          "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
+        ],
+        "links": [
+          {
+            "label": "利用住所でStarlinkの紹介特典を確認",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -298592,13 +298953,6 @@ export const reviewsData: unknown[] = [
             "caption": "東京のご注文の概要、2026年11月23日に確認：JP¥7,100から50%割引、配送手数料JP¥3,000。",
             "objectFit": "portrait",
             "aspectRatio": 0.3442
-          }
-        ],
-        "links": [
-          {
-            "label": "私の住所でプランと契約条件を確認する",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
           }
         ]
       },
@@ -298626,7 +298980,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "注文画面の条件では、キャンセルしてキットを破損なく30日以内に返却することが、キットと最初の月の料金の返金を受ける条件であり、発送の控えがその証拠になります。",
         "links": [
           {
-            "label": "30日間の返金つきのプランをstarlink.comで見る",
+            "label": "私の住所でプランと契約条件を確認する",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -298718,8 +299072,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "注文は紹介リンクからstarlink.comで開きます。リンクは支払いの前に使う必要があります。サイトと同じ価格で、あなたの住所の契約条件を確認でき、30日間の返却も使えます。クレジットは2か月の利用後に付与されます。",
-      "label": "住所で契約とプランを確認する",
+      "text": "日本の新規契約者は、対象プランで2回の請求サイクルの支払いを完了すると、7,000円分のクレジットを受け取れます。私たちの紹介リンクから注文画面を開き、支払い前に特典をご確認ください。",
+      "label": "紹介リンクでStarlinkの注文を開く",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -298734,13 +299088,21 @@ export const reviewsData: unknown[] = [
     "type": "エディトリアル",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Starlinkの公式サイトと正規販売店の一覧で、誰から買うのかを確かめられます。支払う前に確認すること、見分けるべき似た名前のページをまとめました。",
     "metaDescription": "Starlinkの公式サイトの見分け方、Trustpilot上の似た名前のページの見分け方、正規販売店リストの使い方を解説します。",
     "publishedAt": "2026年11月20日",
@@ -298757,7 +299119,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "はい、Starlink（スターリンク）は信頼できる公式サービスです。SpaceXが運営する衛星インターネットで、starlink.com で直接販売されています。当サイトも、不安定な光回線の代わりの回線として Starlink を契約しています。注意すべきなのは偽サイトや非正規の出品者です。Trustpilotで starlink.com に紐づくページは「Starlink Development」で、公式サイト以外で購入する場合は、支払う前に Starlink の正規販売店リストで販売元を確認してください。"
+          "はい、Starlink（スターリンク）は信頼できる公式サービスです。SpaceXが運営する衛星インターネットで、starlink.com で直接販売されています。当サイトも、不安定な光回線の代わりの回線として Starlink を契約しています。注意すべきなのは偽サイトや非正規の出品者です。Trustpilotで starlink.com に紐づくページは「Starlink Development」で、公式サイト以外で購入する場合は、支払う前に Starlink の正規販売店リストで販売元を確認してください。",
+          "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
+        ],
+        "links": [
+          {
+            "label": "利用住所でStarlinkの紹介特典を確認",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -298787,14 +299157,7 @@ export const reviewsData: unknown[] = [
           "caption": "東京の住所で表示した starlink.com のホームプラン画面（2026年11月23日に確認）。",
           "objectFit": "portrait",
           "aspectRatio": 0.694
-        },
-        "links": [
-          {
-            "label": "紹介リンクから starlink.com の公式注文ページを開く",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "Starlinkの名前を使ったメッセージ",
@@ -298853,7 +299216,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "starlink.com で自分の住所の提供状況を確認する",
+            "label": "紹介リンクから starlink.com の公式注文ページを開く",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -298907,8 +299270,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "紹介リンクから注文ページを開き、アドレスバーが starlink.com のままであることを確かめて、支払い前にご自宅の住所でプラン・キット・合計を確認してください。価格は公式サイトと同じです。",
-      "label": "starlink.com で住所を確認する",
+      "text": "日本の新規契約者は、対象プランで2回の請求サイクルの支払いを完了すると、7,000円分のクレジットを受け取れます。私たちの紹介リンクから注文画面を開き、支払い前に特典をご確認ください。",
+      "label": "紹介リンクでStarlinkの注文を開く",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -298923,13 +299286,21 @@ export const reviewsData: unknown[] = [
     "type": "評判分析",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "starlink.comのTrustpilotページのスコア、レビュー数、評価の内訳、多い不満を確認します。レビューの偏りと、問題があったときの連絡先も紹介します。",
     "metaDescription": "StarlinkのTrustpilotスコアは1.6、レビュー879件（未登録ページ）。最近の星1つと星5つのレビューの内容をまとめました。",
     "publishedAt": "2026年11月20日",
@@ -298946,7 +299317,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "starlink.comのTrustpilotページ「Starlink Development」は、レビュー879件でTrustScoreが5点満点の1.6、そのうち71%が星1つです。このページは企業が登録していません。有料プランはなく、レビュー依頼も送らず、否定的なレビュー464件のどれにも返信していません。レビューは多くの国の利用者によるものです。"
+          "starlink.comのTrustpilotページ「Starlink Development」は、レビュー879件でTrustScoreが5点満点の1.6、そのうち71%が星1つです。このページは企業が登録していません。有料プランはなく、レビュー依頼も送らず、過去 12 か月（Trustpilot の企業アクティビティページの対象期間）の否定的なレビュー464件のどれにも返信していません。レビューは多くの国の利用者によるものです。",
+          "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
+        ],
+        "links": [
+          {
+            "label": "利用住所でStarlinkの紹介特典を確認",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -299099,13 +299478,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.8079
           }
-        ],
-        "links": [
-          {
-            "label": "starlink.comで公式の注文を開き、自分の地域を確認する",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -299139,7 +299511,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "表の数字から見ると、住所に頼れる別のインターネットがない人にとっては、starlink.comでその住所のプラン、キット、税、契約を確認したうえで契約するのは妥当です。1.6というスコアには、電波の品質よりサポート、請求、料金への不満が多く反映されているからです。",
         "links": [
           {
-            "label": "starlink.comで自分の住所の提供状況を確認する",
+            "label": "starlink.comで公式の注文を開き、自分の地域を確認する",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -299182,8 +299554,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "紹介リンクから注文を開き、住所でプラン、キット、契約を確認して、支払う前に概要画面を保存してください。料金は公式サイトと同じです。",
-      "label": "starlink.comで自分の注文を開く",
+      "text": "日本の新規契約者は、対象プランで2回の請求サイクルの支払いを完了すると、7,000円分のクレジットを受け取れます。私たちの紹介リンクから注文画面を開き、支払い前に特典をご確認ください。",
+      "label": "紹介リンクでStarlinkの注文を開く",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -299193,20 +299565,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-ko",
     "locale": "ko",
     "translationKey": "starlink-indicacao",
-    "title": "첫 스타링크 구매 시 추천 링크로 보상 크레딧(미국 100달러·국가별 금액) 받는 법",
-    "seoTitle": "첫 스타링크 구매 시 추천 링크로 보상 받는 법",
+    "title": "스타링크 첫 가입 혜택: 추천 링크로 받는 크레딧(참고 65,000원)",
+    "seoTitle": "스타링크 추천 링크로 65,000원 크레딧 받는 법",
     "type": "추천 코드 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "스타링크에는 할인 쿠폰 코드가 없습니다. 공식 추천 링크로 첫 주문을 하면 공식 사이트와 같은 가격·30일 환불 기간을 유지하면서 2개월 후 국가별 추천 보상을 받습니다.",
-    "metaDescription": "첫 스타링크 주문 시 추천 링크로 보상을 받는 방법과 주문 전 확인 포인트, 2개월 후 크레딧 지급 절차를 정리했습니다.",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "한국 신규 고객의 11월 추천 혜택 참고 금액은 65,000원입니다. 저희 링크로 주문을 열고 결제 전에 청구서 크레딧을 확인하세요.",
+    "metaDescription": "한국 신규 고객의 11월 추천 혜택 참고 금액은 65,000원입니다. 저희 링크로 주문을 열고 결제 전에 청구서 크레딧을 확인하세요.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -299221,14 +299601,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "스타링크에는 입력하는 할인 쿠폰이 없습니다. 공식 사이트의 프로모션과 별개로, 첫 구독에서 보상을 받을 수 있는 공식적인 방법은 추천 링크로 주문하는 것입니다. 링크로 starlink.com에 들어가 주문하면 공식 사이트와 같은 가격과 30일 환불 기간을 그대로 유지하면서, 월 결제 주기를 두 번 채운 뒤 국가별 보상(예: 미국은 US$ 100)을 청구서 크레딧으로 받습니다. 이 보상은 키트 가격을 깎아 주지 않고 나중에 들어옵니다. 결제 전에 추천 적용 안내를 확인하세요. 구매 후에는 추천을 추가할 수 없습니다."
+          "한국에서 처음 가입하면 11월 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다. 저희 추천 링크를 열어 결제 전에 금액을 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요."
+        ],
+        "links": [
+          {
+            "label": "내 주소의 스타링크 추천 혜택 확인",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "왜 추천 링크로 주문해야 할까",
         "paragraphs": [
           "직접 starlink.com에 들어가 주문해도 장비와 월 요금은 링크로 주문할 때와 같습니다. 달라지는 것은 놓치게 되는 추천 보상입니다. 보상은 주문 당일 키트 가격을 낮추지 않고, 월 결제 주기를 두 번 채운 뒤 청구서에 크레딧으로 들어옵니다.",
-          "아래 숫자는 기준 주소에서 읽은 값입니다. 본인 주소에서는 가격, 키트, 조건이 다를 수 있고, 주문 화면만 그것을 보여 줍니다. 한국 주문은 한국에서 발급한 카드로만 결제할 수 있습니다."
+          "아래 숫자는 기준 주소에서 읽은 값입니다. 본인 주소에서는 가격, 키트, 조건이 다를 수 있고, 주문 화면만 그것을 보여 줍니다. 한국 주문은 한국에서 발급한 카드로만 결제할 수 있습니다.",
+          "한국의 65,000원은 SatNet Watch가 11월에 정리한 참고 금액입니다. 실제 금액은 주문 화면에서 확인하세요."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
@@ -299266,13 +299654,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "links": [
-          {
-            "label": "추천 보상이 적용되는 주문 화면 열기",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "simulator": {
           "title": "내 경우로 계산해 보기",
           "scenarios": [
@@ -299406,7 +299787,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "주문 전에 보상 확보하기",
+            "label": "추천 보상이 적용되는 주문 화면 열기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -299475,8 +299856,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "공식 사이트와 같은 가격을 내고, 지붕에서 쓸 수 없으면 30일 안에 반품할 수 있으며, 월 결제 주기 두 번 뒤 국가별 추천 크레딧을 받습니다.",
-      "label": "공식 주문 화면에서 추천 보상 확인하기",
+      "text": "한국 신규 고객의 추천 혜택은 11월 기준 65,000원입니다. 대상 요금제를 두 번의 전체 청구 주기 동안 유지하고 요금을 납부하면 청구서 크레딧을 받을 수 있습니다. 저희 링크에서 주문을 열고 결제 전에 금액을 확인하세요.",
+      "label": "추천 링크로 스타링크 주문 열기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -299516,13 +299897,21 @@ export const reviewsData: unknown[] = [
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "서울시청 주소의 주문 화면에서 100Mbps는 월 34,000원, 미니 키트는 16만 원, 오늘 결제액은 19만 2천 원이었습니다. 추천 보상이 들어오는 시점과 확인 방법을 정리했습니다.",
     "metaDescription": "스타링크가 서비스와 하드웨어에 50% 할인을 안내합니다. 서울 주문 화면의 월 요금과 초기 결제액, 추천 보상이 들어오는 시점을 확인하세요.",
     "publishedAt": "2026년 11월 20일",
@@ -299539,7 +299928,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "서울시청 주소의 주문 화면에서 스타링크 주거용 100Mbps는 정가 월 68,000원에서 50% 할인된 34,000원이었고, 미니 키트는 임대가 아닌 구매 방식으로 160,000원, 오늘 결제액은 배송비와 세금을 더해 192,000원이었습니다. 할인은 11월 30일까지의 안내입니다. 추천 보상은 추천 링크로 연 주문에만 적용되고 월 결제 주기를 두 번 채운 뒤에 들어옵니다."
+          "한국에서 처음 가입하면 11월 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다. 저희 추천 링크를 열어 결제 전에 금액을 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요.",
+          "서울시청 주소의 주문 화면에서 스타링크 주거용 100Mbps는 정가 월 68,000원에서 50% 할인된 34,000원이었고, 미니 키트는 임대가 아닌 구매 방식으로 160,000원, 오늘 결제액은 배송비와 세금을 더해 192,000원이었습니다. 할인은 11월 30일까지의 안내입니다."
+        ],
+        "links": [
+          {
+            "label": "내 주소의 스타링크 추천 혜택 확인",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -299654,14 +300051,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "한국에서는 임대가 없고 키트를 사서 쓰는 방식이라, 환불을 받으려면 30일 안에 손상 없이 반납해야 합니다. 대신 임대 키트를 돌려줘야 하는 다른 나라와 달리 해지 때 반납할 키트가 따로 없습니다."
         ],
-        "emphasis": "표의 숫자를 보면 서울시청 주소 기준 오늘 결제액은 미니 키트와 100Mbps가 ₩192,000이고 월 요금은 ₩34,000입니다. 추천 보상은 월 결제 주기를 두 번 채운 뒤에 들어오므로 그 전의 요금은 직접 내야 합니다.",
-        "links": [
-          {
-            "label": "블랙프라이데이와 추천 보상을 내 주소에서 확인하기",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        "emphasis": "표의 숫자를 보면 서울시청 주소 기준 오늘 결제액은 미니 키트와 100Mbps가 ₩192,000이고 월 요금은 ₩34,000입니다. 추천 보상은 월 결제 주기를 두 번 채운 뒤에 들어오므로 그 전의 요금은 직접 내야 합니다."
       },
       {
         "heading": "주문 화면에서 보이는 것",
@@ -299706,7 +300096,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "주문을 결제하기 전에 추천 보상 확보하기",
+            "label": "블랙프라이데이와 추천 보상을 내 주소에서 확인하기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -299763,8 +300153,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "공식 주문 화면과 같은 가격으로 주문하고, 지붕에서 안테나가 맞지 않으면 30일 안에 반납해 환불을 받을 수 있으며, 결제 주기 2회 뒤에는 추천 보상이 크레딧으로 들어옵니다.",
-      "label": "내 주소 확인하고 추천 보상 확보하기",
+      "text": "한국 신규 고객의 추천 혜택은 11월 기준 65,000원입니다. 대상 요금제를 두 번의 전체 청구 주기 동안 유지하고 요금을 납부하면 청구서 크레딧을 받을 수 있습니다. 저희 링크에서 주문을 열고 결제 전에 금액을 확인하세요.",
+      "label": "추천 링크로 스타링크 주문 열기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -299804,13 +300194,21 @@ export const reviewsData: unknown[] = [
     "type": "구매 가이드",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "유선 인터넷이 안 닿는 곳뿐 아니라, 지역 광랜이 자주 끊기거나 약정 속도가 안 나올 때 메인·백업 회선으로 스타링크가 가치가 있는지 요금과 키트 조건으로 따져봤습니다.",
     "metaDescription": "스타링크 가입할 만한가요? 서울 요금·키트 가격뿐 아니라 불안정한 광랜의 대안·백업 회선 활용까지 정리했습니다.",
     "publishedAt": "2026년 11월 20일",
@@ -299827,7 +300225,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 스타링크는 유선 인터넷이 닿지 않는 곳뿐 아니라, 광랜이 있어도 자주 끊기거나 계약 속도에 못 미치는 곳에서도 가치가 있습니다. 저희도 불안정한 광랜의 대안이자 백업 회선으로 스타링크를 계약했습니다. 광랜이 정말 안정적이라면 요금과 지연 시간에서는 광랜이 유리합니다. 한국에서는 키트를 구매하는 방식이므로, 서울 주문 화면 기준으로 약정 없이 30일 안에 반납하면 환불받는 조건을 확인해 보세요."
+          "네, 스타링크는 유선 인터넷이 닿지 않는 곳뿐 아니라, 광랜이 있어도 자주 끊기거나 계약 속도에 못 미치는 곳에서도 가치가 있습니다. 저희도 불안정한 광랜의 대안이자 백업 회선으로 스타링크를 계약했습니다. 광랜이 정말 안정적이라면 요금과 지연 시간에서는 광랜이 유리합니다. 한국에서는 키트를 구매하는 방식이므로, 서울 주문 화면 기준으로 약정 없이 30일 안에 반납하면 환불받는 조건을 확인해 보세요.",
+          "한국에서 처음 가입하면 11월 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다. 저희 추천 링크를 열어 결제 전에 금액을 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요."
+        ],
+        "links": [
+          {
+            "label": "내 주소의 스타링크 추천 혜택 확인",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -299940,13 +300346,6 @@ export const reviewsData: unknown[] = [
           "12개월 비용은 키트 값에 12번의 월 요금을 더해 구합니다. 할인이 몇 개월 이어지는지는 주문 화면에서 확인할 수 있는 만큼만 계산에 넣고, 확인할 수 없으면 정상 요금으로 계산한 값을 위쪽 한도로 보세요.",
           "계산할 때는 추천 보상을 빼고 먼저 합산하세요. 저희 링크로 가입하면 두 달 동안 구독을 유지한 뒤 보상을 받고, 금액은 국가에 따라 다릅니다(예: 미국은 US$ 100). [스타링크 추천 안내](/ko/coupons/starlink)를 참고하세요."
         ],
-        "links": [
-          {
-            "label": "내 주소에서 요금제와 키트 계산해 보기",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
           "alt": "서울 주소의 스타링크 공식 주문 화면. 100Mbps 월 ₩34,000과 미니 키트 ₩160,000이 표시되어 있다",
@@ -300029,7 +300428,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "30일 환불 조건으로 내 주소에서 시험해 보기",
+            "label": "내 주소에서 요금제와 키트 계산해 보기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -300068,8 +300467,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "공식 사이트와 같은 가격으로 주문하고, 지붕에서 안 되면 30일 안에 반납해 환불받을 수 있는 조건을 확인하세요. 추천 보상은 국가에 따라 다르며(예: 미국은 US$ 100), 규정을 충족하면 청구서 크레딧으로 들어옵니다.",
-      "label": "추천 링크로 starlink.com에서 내 주소 확인",
+      "text": "한국 신규 고객의 추천 혜택은 11월 기준 65,000원입니다. 대상 요금제를 두 번의 전체 청구 주기 동안 유지하고 요금을 납부하면 청구서 크레딧을 받을 수 있습니다. 저희 링크에서 주문을 열고 결제 전에 금액을 확인하세요.",
+      "label": "추천 링크로 스타링크 주문 열기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -300097,13 +300496,21 @@ export const reviewsData: unknown[] = [
     "type": "실용 가이드",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "서울 주문 화면에서 스타링크 키트는 구매 방식이고 약정이나 위약금 문구는 보이지 않았습니다. 두 요금제와 두 키트 가격, 30일 반납, 해지 순서를 정리했습니다.",
     "metaDescription": "스타링크 한국 주문은 키트를 구매하는 방식이며 약정 문구는 없었습니다. 요금제와 키트 가격, 30일 반납 환불 조건, 해지 방법을 확인하세요.",
     "publishedAt": "2026년 11월 20일",
@@ -300120,7 +300527,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "서울시청 주소로 읽은 한국 주문 화면에서 스타링크 키트는 임대가 아니라 구매 방식이었고, 약정 기간이나 위약금 문구는 보이지 않았습니다. 100Mbps와 맥스 두 요금제 모두 같은 구조이며, 키트는 미니와 스탠다드 4 X 중에서 고릅니다. 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 환불받는 조건입니다. 결제에는 한국에서 발급한 카드가 필요합니다."
+          "서울시청 주소로 읽은 한국 주문 화면에서 스타링크 키트는 임대가 아니라 구매 방식이었고, 약정 기간이나 위약금 문구는 보이지 않았습니다. 100Mbps와 맥스 두 요금제 모두 같은 구조이며, 키트는 미니와 스탠다드 4 X 중에서 고릅니다. 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 환불받는 조건입니다. 결제에는 한국에서 발급한 카드가 필요합니다.",
+          "한국에서 처음 가입하면 11월 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다. 저희 추천 링크를 열어 결제 전에 금액을 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요."
+        ],
+        "links": [
+          {
+            "label": "내 주소의 스타링크 추천 혜택 확인",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -300144,13 +300559,6 @@ export const reviewsData: unknown[] = [
             "caption": "서울의 주문 요약, 2026년 11월 23일 확인: 100Mbps와 미니, 오늘 낼 금액 ₩192,000.",
             "objectFit": "portrait",
             "aspectRatio": 0.7571
-          }
-        ],
-        "links": [
-          {
-            "label": "내 주소에서 요금제와 약정 조건 확인하기",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
           }
         ]
       },
@@ -300178,7 +300586,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "주문 화면의 조건상 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납해야 키트와 첫 달 요금을 환불받을 수 있으므로, 발송 영수증이 이를 증명하는 자료입니다.",
         "links": [
           {
-            "label": "30일 환불 조건이 있는 요금제를 starlink.com에서 보기",
+            "label": "내 주소에서 요금제와 약정 조건 확인하기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -300269,8 +300677,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "주문은 추천 링크로 starlink.com에서 열리며, 링크는 결제 전에 써야 합니다. 사이트와 같은 가격으로 내 주소의 약정 조건을 확인할 수 있고, 30일 반납도 그대로 적용됩니다. 크레딧은 두 달 이용 뒤 반영됩니다.",
-      "label": "내 주소에서 약정과 요금제 확인",
+      "text": "한국 신규 고객의 추천 혜택은 11월 기준 65,000원입니다. 대상 요금제를 두 번의 전체 청구 주기 동안 유지하고 요금을 납부하면 청구서 크레딧을 받을 수 있습니다. 저희 링크에서 주문을 열고 결제 전에 금액을 확인하세요.",
+      "label": "추천 링크로 스타링크 주문 열기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -300285,13 +300693,21 @@ export const reviewsData: unknown[] = [
     "type": "에디토리얼",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "스타링크 공식 사이트와 공인 판매처 목록으로 누구에게 사는지 확인할 수 있습니다. 결제 전에 확인할 것과 이름만 비슷한 프로필을 가려내는 방법을 정리했습니다.",
     "metaDescription": "스타링크 공식 사이트를 알아보는 법, 트러스트파일럿의 비슷한 이름 프로필을 가려내는 법, 공인 판매처 목록 활용법을 안내합니다.",
     "publishedAt": "2026년 11월 20일",
@@ -300308,7 +300724,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 스타링크(Starlink)는 믿을 수 있는 공식 서비스입니다. 스페이스X(SpaceX)가 운영하는 위성 인터넷이고, starlink.com에서 직접 판매합니다. 저희도 불안정한 지역 광랜의 대안으로 직접 가입했습니다. 주의할 대상은 서비스 자체가 아니라 사칭 사이트와 비공인 판매자입니다. 트러스트파일럿에서 starlink.com과 연결된 프로필은 \"Starlink Development\"이며, 다른 곳에서 키트를 살 때는 결제 전에 스타링크 공인 판매처 목록에서 판매자를 확인하세요."
+          "네, 스타링크(Starlink)는 믿을 수 있는 공식 서비스입니다. 스페이스X(SpaceX)가 운영하는 위성 인터넷이고, starlink.com에서 직접 판매합니다. 저희도 불안정한 지역 광랜의 대안으로 직접 가입했습니다. 주의할 대상은 서비스 자체가 아니라 사칭 사이트와 비공인 판매자입니다. 트러스트파일럿에서 starlink.com과 연결된 프로필은 \"Starlink Development\"이며, 다른 곳에서 키트를 살 때는 결제 전에 스타링크 공인 판매처 목록에서 판매자를 확인하세요.",
+          "한국에서 처음 가입하면 11월 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다. 저희 추천 링크를 열어 결제 전에 금액을 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요."
+        ],
+        "links": [
+          {
+            "label": "내 주소의 스타링크 추천 혜택 확인",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -300338,14 +300762,7 @@ export const reviewsData: unknown[] = [
           "caption": "서울 주소로 확인한 starlink.com 요금제 주문 화면 (2026년 11월 23일 확인).",
           "objectFit": "portrait",
           "aspectRatio": 0.8041
-        },
-        "links": [
-          {
-            "label": "추천 링크로 starlink.com 공식 주문 페이지 열기",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "스타링크 이름을 쓰는 메시지",
@@ -300404,7 +300821,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "starlink.com에서 내 주소의 이용 가능 여부 확인하기",
+            "label": "추천 링크로 starlink.com 공식 주문 페이지 열기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -300458,8 +300875,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "추천 링크로 주문 페이지를 열고, 주소창이 starlink.com에 있는지 확인한 뒤, 결제 전에 내 주소의 요금제·키트·합계를 확인하세요. 가격은 공식 사이트와 같습니다.",
-      "label": "starlink.com에서 내 주소 확인하기",
+      "text": "한국 신규 고객의 추천 혜택은 11월 기준 65,000원입니다. 대상 요금제를 두 번의 전체 청구 주기 동안 유지하고 요금을 납부하면 청구서 크레딧을 받을 수 있습니다. 저희 링크에서 주문을 열고 결제 전에 금액을 확인하세요.",
+      "label": "추천 링크로 스타링크 주문 열기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -300474,13 +300891,21 @@ export const reviewsData: unknown[] = [
     "type": "평판 분석",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "starlink.com 프로필의 평점, 리뷰 분포, 최근 리뷰에서 가장 많이 나온 불만을 정리했습니다. 비슷한 이름의 다른 도메인 프로필을 구별하는 방법도 담았습니다.",
     "metaDescription": "스타링크 트러스트파일럿 평점은 1.6, 리뷰 879건(미등록 프로필)입니다. 최근 별 1개와 별 5개 리뷰에서 나온 이야기를 정리했습니다.",
     "publishedAt": "2026년 11월 20일",
@@ -300497,7 +300922,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "starlink.com의 트러스트파일럿 프로필인 Starlink Development는 리뷰 879건에 TrustScore 5점 만점 1.6점이고, 그중 71%가 별 1개입니다. 이 프로필은 기업이 등록하지 않은 상태입니다. 유료 플랜이 없고, 리뷰 요청도 보내지 않으며, 부정적 리뷰 464건 중 어디에도 답하지 않았습니다. 리뷰는 여러 나라의 고객이 남겼습니다."
+          "starlink.com의 트러스트파일럿 프로필인 Starlink Development는 리뷰 879건에 TrustScore 5점 만점 1.6점이고, 그중 71%가 별 1개입니다. 이 프로필은 기업이 등록하지 않은 상태입니다. 유료 플랜이 없고, 리뷰 요청도 보내지 않으며, 최근 12개월(Trustpilot 기업 활동 페이지의 집계 기간)의 부정적 리뷰 464건 중 어디에도 답하지 않았습니다. 리뷰는 여러 나라의 고객이 남겼습니다.",
+          "한국에서 처음 가입하면 11월 기준 65,000원 상당의 청구서 크레딧을 받을 수 있습니다. 저희 추천 링크를 열어 결제 전에 금액을 확인하고, 대상 요금제를 두 번의 전체 청구 주기 동안 유지하며 요금을 납부하세요."
+        ],
+        "links": [
+          {
+            "label": "내 주소의 스타링크 추천 혜택 확인",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -300650,13 +301083,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.8079
           }
-        ],
-        "links": [
-          {
-            "label": "starlink.com에서 공식 주문을 열고 내 지역 확인하기",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -300690,7 +301116,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "표의 수치로 보면, 주소지에 마땅한 인터넷 선택지가 없는 사람에게는 starlink.com에서 그 주소 기준으로 플랜, 키트, 세금, 계약을 확인한 뒤 가입하는 것이 합리적입니다. 1.6점에는 신호 품질보다 고객지원, 청구, 가격에 대한 불만이 더 많이 반영되어 있기 때문입니다.",
         "links": [
           {
-            "label": "starlink.com에서 내 주소의 제공 여부 확인하기",
+            "label": "starlink.com에서 공식 주문을 열고 내 지역 확인하기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -300733,8 +301159,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "추천 링크로 주문을 열고, 내 주소의 플랜, 키트, 계약을 확인한 뒤 결제하기 전에 요약 화면을 저장하세요. 가격은 공식 사이트와 같습니다.",
-      "label": "starlink.com에서 내 주문 열기",
+      "text": "한국 신규 고객의 추천 혜택은 11월 기준 65,000원입니다. 대상 요금제를 두 번의 전체 청구 주기 동안 유지하고 요금을 납부하면 청구서 크레딧을 받을 수 있습니다. 저희 링크에서 주문을 열고 결제 전에 금액을 확인하세요.",
+      "label": "추천 링크로 스타링크 주문 열기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -300744,20 +301170,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-zh-hant",
     "locale": "zh-hant",
     "translationKey": "starlink-indicacao",
-    "title": "首次購買 Starlink 如何透過推薦連結領取獎勵（美國 US$ 100／依國別發放）",
-    "seoTitle": "首次購買 Starlink 如何透過推薦連結領取獎勵",
+    "title": "首次訂閱 Starlink 如何領取推薦獎勵：馬來西亞參考金額 RM 180",
+    "seoTitle": "Starlink 推薦獎勵：馬來西亞參考金額 RM 180",
     "type": "推薦碼指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Starlink 沒有優惠碼：透過官方推薦連結下單，沿用官網同價與 30 天退貨期間，滿兩個月後即可領取所在國家的推薦獎勵（例如美國為 US$ 100）。",
-    "metaDescription": "第一次訂閱 Starlink 如何透過推薦連結領取獎勵，為何下單前必須套用推薦，以及兩個月後入帳的流程。",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "透過我們的推薦連結訂閱符合資格的 Starlink 方案，可獲得帳單折抵。馬來西亞 11 月參考金額為 RM 180。付款前請確認訂單金額。",
+    "metaDescription": "透過我們的推薦連結訂閱符合資格的 Starlink 方案，可獲得帳單折抵。馬來西亞 11 月參考金額為 RM 180。付款前請確認訂單金額。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -300772,14 +301206,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 沒有可輸入的優惠碼。除了官網的促銷之外，首次訂閱時透過推薦連結下單，是領取官方推薦獎勵的方式。從連結進入 starlink.com 結帳，價格與促銷完全相同、也保有 30 天退貨期間，服務滿兩個完整計費週期後，可獲得所在國家的獎勵金額（例如美國為 US$ 100，實際金額會顯示在你的訂購頁）。獎勵是之後入帳的帳單抵免，不會降低當天的設備價格。付款前務必在畫面確認推薦已套用，因為結帳後無法補登。"
+          "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址適用的 Starlink 推薦獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "為什麼一定要用推薦連結下單",
         "paragraphs": [
           "自己直接打開 starlink.com 下單，設備與月費和透過連結下單相同，差別只在你會錯過推薦獎勵。獎勵不會降低下單當天的設備價格，而是在你付清兩個完整計費週期後，以抵免的形式進入帳單。",
-          "Starlink 的訂購頁沒有繁體中文版本，所以下面的例子取自馬來西亞（英文介面）與美國的訂購頁，用來說明推薦連結如何運作。你所在地的價格與規則，請以自己地址的訂購頁為準。"
+          "Starlink 的訂購頁沒有繁體中文版本，所以下面的例子取自馬來西亞（英文介面）與美國的訂購頁，用來說明推薦連結如何運作。你所在地的價格與規則，請以自己地址的訂購頁為準。",
+          "馬來西亞的 RM 180 來自 SatNet Watch 在 11 月發布的調查，實際金額以你的訂購頁為準。"
         ],
         "images": [
           {
@@ -300819,13 +301261,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "links": [
-          {
-            "label": "開啟訂單並確認推薦獎勵",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "simulator": {
           "title": "試算你的情況",
           "scenarios": [
@@ -300963,7 +301398,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "下單前先確保獎勵",
+            "label": "開啟訂單並確認推薦獎勵",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -301034,8 +301469,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "你付的價格與官網完全相同，天線在屋頂上不好用時 30 天內可退貨，並在兩個計費週期後領取所在國家的推薦抵免。",
-      "label": "前往官網確認訂單與推薦獎勵",
+      "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
+      "label": "透過推薦連結開啟 Starlink 訂單",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -301075,13 +301510,21 @@ export const reviewsData: unknown[] = [
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Starlink 官網沒有中文介面。我們用馬來西亞、美國和日本的真實訂購頁，算清當天應付、月費、設備是租是買，以及推薦獎勵何時入帳。",
     "metaDescription": "Starlink 黑色星期五優惠依地址而異。看馬來西亞、美國、日本的訂單怎麼算，設備是租還是買，以及推薦獎勵何時入帳。",
     "publishedAt": "2026年11月20日",
@@ -301098,7 +301541,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 官網沒有中文介面，所以我們讀了馬來西亞、美國和日本的訂購頁：馬來西亞 100 Mbps 月費 RM 135 且設備需購買（RM 900），Max 月費 RM 235 且設備免費租用；美國 100 Mbps 優惠後月費 US$38.50，設備租用 US$0；日本ホーム優惠後月費 ¥3,550。美國和日本的優惠到 11 月 30 日。推薦獎勵依國家而定，例如美國是 US$100，只在透過推薦連結開啟的訂單上計算，並在滿兩個完整計費週期後發放。"
+          "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。",
+          "Starlink 官網沒有中文介面，所以我們讀了馬來西亞、美國和日本的訂購頁：馬來西亞 100 Mbps 月費 RM 135 且設備需購買（RM 900），Max 月費 RM 235 且設備免費租用；美國 100 Mbps 優惠後月費 US$38.50，設備租用 US$0；日本ホーム優惠後月費 ¥3,550。美國和日本的優惠到 11 月 30 日。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址適用的 Starlink 推薦獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -301213,14 +301664,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "馬來西亞的例子說明為什麼要看每個方案的設備那一行：100 Mbps 要買 Mini X，Max 則是免費租用，兩者月費相差 RM 100。讀訂購頁時，先看設備是購買還是租用，再比較月費。"
         ],
-        "emphasis": "各國訂購頁的月費、設備方式和當天應付各不相同，所以優惠是否划算，只能看你所在地址訂購頁上的當天應付總額；推薦獎勵要滿兩個完整計費週期後才發放，在那之前月費照付。",
-        "links": [
-          {
-            "label": "查看你地址的黑色星期五與推薦獎勵",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        "emphasis": "各國訂購頁的月費、設備方式和當天應付各不相同，所以優惠是否划算，只能看你所在地址訂購頁上的當天應付總額；推薦獎勵要滿兩個完整計費週期後才發放，在那之前月費照付。"
       },
       {
         "heading": "訂購頁怎麼看",
@@ -301271,7 +301715,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "付款前先鎖定推薦獎勵",
+            "label": "查看你地址的黑色星期五與推薦獎勵",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -301328,8 +301772,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "價格和官方訂購頁一樣，如果天線在你的屋頂上用不了，30 天內還能退回設備；滿兩個計費週期後，推薦獎勵會以抵扣的形式進入你的帳單。",
-      "label": "查看我的地址並鎖定推薦獎勵",
+      "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
+      "label": "透過推薦連結開啟 Starlink 訂單",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -301369,13 +301813,21 @@ export const reviewsData: unknown[] = [
     "type": "購買指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "不只適合無光纖地區：若當地光纖常斷線或網速遠低於合約，Starlink 也能作為替代或備援網路。比較方案費用、硬體條件與天空遮擋檢查。",
     "metaDescription": "Starlink 值得買嗎？除無寬頻地區外，本文也從當地光纖不穩與備援需求分析何時值得申裝。",
     "publishedAt": "2026年11月20日",
@@ -301392,7 +301844,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，Starlink 不只適合沒有光纖的地方，也適合有光纖卻常常斷線、或實際網速遠低於合約的家庭。我們自己也是為了替代並備援不穩定的光纖而申裝 Starlink。如果現有光纖確實穩定，費用與延遲仍是光纖占優。試用的風險不高：馬來西亞的 Max 方案設備租賃 RM 0，100 Mbps 方案的設備購買後也有 30 天可退。"
+          "是的，Starlink 不只適合沒有光纖的地方，也適合有光纖卻常常斷線、或實際網速遠低於合約的家庭。我們自己也是為了替代並備援不穩定的光纖而申裝 Starlink。如果現有光纖確實穩定，費用與延遲仍是光纖占優。試用的風險不高：馬來西亞的 Max 方案設備租賃 RM 0，100 Mbps 方案的設備購買後也有 30 天可退。",
+          "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址適用的 Starlink 推薦獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -301500,13 +301960,6 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "先在不含推薦獎勵的情況下算，再看獎勵能抵多少。透過我們的連結訂閱，滿兩個月後可獲得獎勵，金額依國家而定（例如美國為 US$ 100）。獎勵說明見[推薦連結指南](/zh-hant/coupons/starlink)。"
         ],
-        "links": [
-          {
-            "label": "用我的地址試算方案與設備",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "images": [
           {
             "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
@@ -301595,7 +302048,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "在我的地址試用，30 天內可退",
+            "label": "用我的地址試算方案與設備",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -301634,8 +302087,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "以和官方網站相同的價格下單，若在你的屋頂不能用，可在 30 天內退回；推薦獎勵依國家而定（例如美國為 US$ 100），符合規則後以帳單抵免發放。",
-      "label": "透過推薦連結在 starlink.com 查看我的地址",
+      "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
+      "label": "透過推薦連結開啟 Starlink 訂單",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -301663,13 +302116,21 @@ export const reviewsData: unknown[] = [
     "type": "實用指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Starlink 官網沒有繁體中文版。依地址不同，設備可能是購買、0 元租賃或綁 12 個月合約。以馬來西亞為例說明，並附 30 天退款與取消步驟。",
     "metaDescription": "Starlink 官網沒有中文介面，設備有購買、租賃與 12 個月合約三種模式。以馬來西亞為例，並說明 30 天退款與取消步驟。",
     "publishedAt": "2026年11月20日",
@@ -301686,7 +302147,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 沒有一套全球通用的合約規則，設備條件依地址而不同，而且官方訂購頁沒有繁體中文版。我們看到三種模式：購買設備且沒有合約期限，例如馬來西亞的 100 Mbps；0 元租賃設備、取消時須歸還，例如馬來西亞的 Max、美國、日本與歐洲；以及補貼設備但綁 12 個月合約並有提前解約費，例如巴西的 Max 與墨西哥的 Standard 4 X。各種模式都有 30 天的歸還與退款期，請以你自己訂單上的條款為準。"
+          "Starlink 沒有一套全球通用的合約規則，設備條件依地址而不同，而且官方訂購頁沒有繁體中文版。我們看到三種模式：購買設備且沒有合約期限，例如馬來西亞的 100 Mbps；0 元租賃設備、取消時須歸還，例如馬來西亞的 Max、美國、日本與歐洲；以及補貼設備但綁 12 個月合約並有提前解約費，例如巴西的 Max 與墨西哥的 Standard 4 X。各種模式都有 30 天的歸還與退款期，請以你自己訂單上的條款為準。",
+          "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址適用的 Starlink 推薦獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -301709,13 +302178,6 @@ export const reviewsData: unknown[] = [
             "caption": "吉隆坡訂單摘要，2026 年 11 月 23 日查看：Max 每月 RM 235，租賃套件 RM 0。",
             "objectFit": "portrait",
             "aspectRatio": 0.8154
-          }
-        ],
-        "links": [
-          {
-            "label": "用我的地址查看方案與合約條件",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
           }
         ]
       },
@@ -301774,7 +302236,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "依訂購頁的條款，取消服務並在期限內把設備完好歸還，才能申請設備與首月費用的退款，所以寄送憑證就是起決定作用的證明。",
         "links": [
           {
-            "label": "在 starlink.com 查看含 30 天退款的方案",
+            "label": "用我的地址查看方案與合約條件",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -301864,8 +302326,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "訂購頁會透過推薦連結在 starlink.com 開啟，連結要在付款前使用。價格與官網相同，你能看到自己地址的合約條件，也保有 30 天的歸還期。獎勵在服務滿兩個月後入帳。",
-      "label": "查看我的地址的合約與方案",
+      "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
+      "label": "透過推薦連結開啟 Starlink 訂單",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -301880,13 +302342,21 @@ export const reviewsData: unknown[] = [
     "type": "編輯專題",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "透過 Starlink 官方網站與授權經銷商清單，可以確認你向誰購買。付款前該檢查什麼、哪些名稱相近的頁面要略過，這裡一次說明。",
     "metaDescription": "如何認出 Starlink 官方網站、分辨 Trustpilot 上名稱相近的頁面，並使用授權經銷商清單。",
     "publishedAt": "2026年11月20日",
@@ -301903,7 +302373,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，Starlink 是可靠的官方服務：它是 SpaceX 的衛星網路服務，並在 starlink.com 直接銷售。我們自己也因為當地光纖不穩而申裝，作為替代與備援網路。真正要提防的是仿冒網站與非授權賣家：在 Trustpilot 上指向 starlink.com 的頁面為「Starlink Development」，若在其他通路購買套件，付款前務必先查閱 Starlink 授權經銷商清單並確認實際賣家。"
+          "是的，Starlink 是可靠的官方服務：它是 SpaceX 的衛星網路服務，並在 starlink.com 直接銷售。我們自己也因為當地光纖不穩而申裝，作為替代與備援網路。真正要提防的是仿冒網站與非授權賣家：在 Trustpilot 上指向 starlink.com 的頁面為「Starlink Development」，若在其他通路購買套件，付款前務必先查閱 Starlink 授權經銷商清單並確認實際賣家。",
+          "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址適用的 Starlink 推薦獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -301936,13 +302414,6 @@ export const reviewsData: unknown[] = [
             "caption": "馬來西亞吉隆坡地址的 starlink.com 訂購畫面範例（2026 年 11 月 23 日查詢）。官方頁面沒有中文版本。",
             "objectFit": "square",
             "aspectRatio": 0.9898
-          }
-        ],
-        "links": [
-          {
-            "label": "透過推薦連結開啟 starlink.com 官方訂購頁",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
           }
         ]
       },
@@ -302005,7 +302476,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "在 starlink.com 確認我的地址能否使用",
+            "label": "透過推薦連結開啟 starlink.com 官方訂購頁",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -302059,8 +302530,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "從推薦連結開啟訂購頁，確認網址列仍在 starlink.com，並在付款前查看你地址的方案、套件與總額。價格與官方網站相同。",
-      "label": "在 starlink.com 查看我的地址",
+      "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
+      "label": "透過推薦連結開啟 Starlink 訂單",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -302075,13 +302546,21 @@ export const reviewsData: unknown[] = [
     "type": "口碑分析",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "看 Starlink 在 Trustpilot 的評分、評價數與星等分布，以及最常見的抱怨。附上怎麼辨認官方檔案與提出投訴。",
     "metaDescription": "Starlink 在 Trustpilot 的 TrustScore 為 1.6，共 879 則評論，檔案尚未認領。整理近期一星與五星評論的內容。",
     "publishedAt": "2026年11月20日",
@@ -302098,7 +302577,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "starlink.com 在 Trustpilot 的檔案 Starlink Development，TrustScore 為 5 分滿分的 1.6，共 879 則評論，其中 71% 是一星。這個檔案尚未被公司認領：沒有付費方案、不寄送評論邀請，464 則負面評論也沒有任何一則回覆。評論來自許多國家的用戶。"
+          "starlink.com 在 Trustpilot 的檔案 Starlink Development，TrustScore 為 5 分滿分的 1.6，共 879 則評論，其中 71% 是一星。這個檔案尚未被公司認領：沒有付費方案、不寄送評論邀請，過去 12 個月（Trustpilot 公司活動頁面統計的期間）的 464 則負面評論也沒有任何一則回覆。評論來自許多國家的用戶。",
+          "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址適用的 Starlink 推薦獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -302251,13 +302738,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.8079
           }
-        ],
-        "links": [
-          {
-            "label": "在 starlink.com 開啟官方訂單並確認我所在的地區",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -302291,7 +302771,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "依表格數字，對地址上沒有其他好網路選擇的人來說，在 starlink.com 針對該地址確認方案、套件、稅金與合約之後再訂閱是合理的，因為 1.6 反映的多半是客服、帳單與價格的抱怨，而不是訊號品質。",
         "links": [
           {
-            "label": "在 starlink.com 確認我的地址是否可用",
+            "label": "在 starlink.com 開啟官方訂單並確認我所在的地區",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -302334,8 +302814,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "透過推薦連結開啟訂單，確認你地址的方案、套件與合約，付款前把摘要畫面存下來。價格與官方網站相同。",
-      "label": "在 starlink.com 開啟我的訂單",
+      "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
+      "label": "透過推薦連結開啟 Starlink 訂單",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -302345,20 +302825,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-zh-hans",
     "translationKey": "starlink-indicacao",
     "locale": "zh-hans",
-    "title": "首次购买 Starlink 如何通过推荐链接领取奖励（美国 US$ 100／按国家发放）",
-    "seoTitle": "首次购买 Starlink 如何通过推荐链接领取奖励",
+    "title": "首次订阅 Starlink 如何领取推荐奖励：马来西亚参考金额 RM 180",
+    "seoTitle": "Starlink 推荐奖励：马来西亚参考金额 RM 180",
     "type": "推荐码指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Starlink 没有优惠码：通过官方推荐链接下单，沿用官网同价与 30 天退货期，满两个月后即可领取所在国家的推荐奖励（例如美国为 US$ 100）。",
-    "metaDescription": "第一次订阅 Starlink 如何通过推荐链接领取奖励，为何下单前必须应用推荐，以及两个月后到账的流程。",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "通过我们的推荐链接订阅符合条件的 Starlink 套餐，可获得账单抵扣。马来西亚 11 月参考金额为 RM 180。付款前请确认订单上的金额。",
+    "metaDescription": "通过我们的推荐链接订阅符合条件的 Starlink 套餐，可获得账单抵扣。马来西亚 11 月参考金额为 RM 180。付款前请确认订单上的金额。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -302373,14 +302861,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 没有可输入的优惠码。除了官网的促销之外，首次订阅时通过推荐链接下单，是领取官方推荐奖励的方式。从链接进入 starlink.com 结账，价格与促销完全相同、也保有 30 天退货期，服务满两个完整计费周期后，可获得所在国家的奖励金额（例如美国为 US$ 100，实际金额会显示在你的订单页）。奖励是之后到账的账单抵扣，不会降低当天的设备价格。付款前务必在屏幕确认推荐已应用，因为下单完成后无法补加。"
+          "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址适用的 Starlink 推荐奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "为什么一定要通过推荐链接下单",
         "paragraphs": [
           "自己直接打开 starlink.com 下单，设备和月费与通过链接下单相同，区别只在你会错过推荐奖励。奖励不会降低下单当天的设备价格，而是在你付清两个完整计费周期后，以抵扣的形式进入账单。",
-          "Starlink 的订购页没有简体中文版本，所以下面的例子取自马来西亚（英文界面）和美国的订购页，用来说明推荐链接如何运作。你所在地的价格和规则，请以自己地址的订购页为准。"
+          "Starlink 的订购页没有简体中文版本，所以下面的例子取自马来西亚（英文界面）和美国的订购页，用来说明推荐链接如何运作。你所在地的价格和规则，请以自己地址的订购页为准。",
+          "马来西亚的 RM 180 来自 SatNet Watch 在 11 月发布的调查，实际金额以你的订单页为准。"
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
@@ -302418,13 +302914,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "links": [
-          {
-            "label": "打开订单并确认推荐奖励",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "simulator": {
           "title": "试算你的情况",
           "scenarios": [
@@ -302558,7 +303047,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "下单前先确保奖励",
+            "label": "打开订单并确认推荐奖励",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -302629,8 +303118,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "你付的价格与官网完全相同，天线在屋顶上不好用时 30 天内可退货，并在两个计费周期后领取所在国家的推荐抵扣。",
-      "label": "前往官网查看订单与推荐奖励",
+      "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
+      "label": "通过推荐链接打开 Starlink 订单",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -302668,13 +303157,21 @@ export const reviewsData: unknown[] = [
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Starlink 官网没有中文界面。我们用马来西亚、美国和日本的真实订单页，算清当天应付、月费、套件是租是买，以及推荐奖励何时到账。",
     "metaDescription": "Starlink 黑色星期五优惠依地址而定。看马来西亚、美国、日本的订单怎么算，套件是租还是买，以及推荐奖励何时到账。",
     "publishedAt": "2026年11月20日",
@@ -302691,7 +303188,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 官网没有中文界面，所以我们读了马来西亚、美国和日本的订单页：马来西亚 100 Mbps 月费 RM 135 且套件需购买（RM 900），Max 月费 RM 235 且套件免费租用；美国 100 Mbps 优惠后月费 US$38.50，套件租用 US$0；日本ホーム优惠后月费 ¥3,550。美国和日本的优惠到 11 月 30 日。推荐奖励按国家而定，例如美国是 US$100，只在通过推荐链接打开的订单上计算，并在满两个完整计费周期后发放。"
+          "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。",
+          "Starlink 官网没有中文界面，所以我们读了马来西亚、美国和日本的订单页：马来西亚 100 Mbps 月费 RM 135 且套件需购买（RM 900），Max 月费 RM 235 且套件免费租用；美国 100 Mbps 优惠后月费 US$38.50，套件租用 US$0；日本ホーム优惠后月费 ¥3,550。美国和日本的优惠到 11 月 30 日。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址适用的 Starlink 推荐奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -302806,14 +303311,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "马来西亚的例子说明为什么要看每个套餐的套件那一行：100 Mbps 要买 Mini X，Max 则是免费租用，两者月费相差 RM 100。读订单页时，先看套件是购买还是租用，再比较月费。"
         ],
-        "emphasis": "各国订单页的月费、套件方式和当天应付各不相同，所以优惠是否划算，只能看你所在地址订单页上的当天应付总额；推荐奖励要满两个完整计费周期后才发放，在此之前月费照付。",
-        "links": [
-          {
-            "label": "查看你所在地址的黑色星期五和推荐奖励",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        "emphasis": "各国订单页的月费、套件方式和当天应付各不相同，所以优惠是否划算，只能看你所在地址订单页上的当天应付总额；推荐奖励要满两个完整计费周期后才发放，在此之前月费照付。"
       },
       {
         "heading": "订单页怎么看",
@@ -302858,7 +303356,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "付款前先锁定推荐奖励",
+            "label": "查看你所在地址的黑色星期五和推荐奖励",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -302917,8 +303415,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "价格和官方订单页一样，如果天线在你的屋顶上用不了，30 天内还能退回套件；满两个计费周期后，推荐奖励会以抵扣的形式进入你的账单。",
-      "label": "查看我所在地址并锁定推荐奖励",
+      "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
+      "label": "通过推荐链接打开 Starlink 订单",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -302956,13 +303454,21 @@ export const reviewsData: unknown[] = [
     "type": "购买指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "不仅适合无光纤地区：如果当地光纤经常掉线或网速远低于合同标准，Starlink 也值得作为替代或备用网络。对比套餐条件与遮挡检查。",
     "metaDescription": "Starlink 值得买吗？除了看套餐与套件费用，也从当地光纤不稳定和备用宽带需求分析何时值得办理。",
     "publishedAt": "2026年11月20日",
@@ -302979,7 +303485,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，Starlink 不仅适合没有光纤的地方，也适合有光纤却经常掉线、或实际网速远低于合同标准的家庭。我们自己也是为了替代并备用不稳定的光纤而办理 Starlink。如果现有光纤确实稳定，费用和延迟上仍是光纤占优。试用的风险不高：马来西亚的 Max 套餐设备租赁 RM 0，100 Mbps 套餐的设备购买后也有 30 天可退。"
+          "是的，Starlink 不仅适合没有光纤的地方，也适合有光纤却经常掉线、或实际网速远低于合同标准的家庭。我们自己也是为了替代并备用不稳定的光纤而办理 Starlink。如果现有光纤确实稳定，费用和延迟上仍是光纤占优。试用的风险不高：马来西亚的 Max 套餐设备租赁 RM 0，100 Mbps 套餐的设备购买后也有 30 天可退。",
+          "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址适用的 Starlink 推荐奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -303087,13 +303601,6 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "先不含奖励算一遍，再看奖励能抵多少。通过我们的链接订阅，满两个月后可获得奖励，金额因国家而异（例如美国为 US$ 100）。见[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
         ],
-        "links": [
-          {
-            "label": "用我的地址试算套餐和设备",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
           "alt": "Starlink 马来西亚吉隆坡官方订购页面，显示 100 Mbps 月费 RM 135 和 Mini X 购买价 RM 900",
@@ -303176,7 +303683,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "在我的地址试用，30 天内可退",
+            "label": "用我的地址试算套餐和设备",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -303215,8 +303722,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "以和官方网站相同的价格下单，如果在你的屋顶不能用，可在 30 天内退回；推荐奖励因国家而异（例如美国为 US$ 100），符合规则后以账单抵扣发放。",
-      "label": "通过推荐链接在 starlink.com 查看我的地址",
+      "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
+      "label": "通过推荐链接打开 Starlink 订单",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -303244,13 +303751,21 @@ export const reviewsData: unknown[] = [
     "type": "实用指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "Starlink 官网没有简体中文版。按地址不同，设备可能是购买、0 元租用或绑 12 个月合约。以马来西亚为例说明，并附 30 天退款与取消步骤。",
     "metaDescription": "Starlink 官网没有中文界面，设备有购买、租用和 12 个月合约三种模式。以马来西亚为例，并说明 30 天退款与取消步骤。",
     "publishedAt": "2026年11月20日",
@@ -303267,7 +303782,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 没有一套全球通用的合约规则，设备条件因地址而不同，而且官方订购页没有简体中文版。我们看到三种模式：购买设备且没有合约期限，例如马来西亚的 100 Mbps；0 元租用设备、取消时须退回，例如马来西亚的 Max、美国、日本和欧洲；以及补贴设备但绑 12 个月合约并有提前解约费，例如巴西的 Max 和墨西哥的 Standard 4 X。各种模式都有 30 天的退回与退款期，请以你自己订单上的条款为准。"
+          "Starlink 没有一套全球通用的合约规则，设备条件因地址而不同，而且官方订购页没有简体中文版。我们看到三种模式：购买设备且没有合约期限，例如马来西亚的 100 Mbps；0 元租用设备、取消时须退回，例如马来西亚的 Max、美国、日本和欧洲；以及补贴设备但绑 12 个月合约并有提前解约费，例如巴西的 Max 和墨西哥的 Standard 4 X。各种模式都有 30 天的退回与退款期，请以你自己订单上的条款为准。",
+          "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址适用的 Starlink 推荐奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -303290,13 +303813,6 @@ export const reviewsData: unknown[] = [
             "caption": "吉隆坡订单摘要，2026 年 11 月 23 日查看：Max 每月 RM 235，租用套件 RM 0。",
             "objectFit": "portrait",
             "aspectRatio": 0.8154
-          }
-        ],
-        "links": [
-          {
-            "label": "用我的地址查看方案与合约条件",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
           }
         ]
       },
@@ -303353,7 +303869,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "按订单页条款，取消服务并在期限内把套件完好退回，才能申请套件和首月费用的退款，所以寄送凭证就是起决定作用的证明。",
         "links": [
           {
-            "label": "在 starlink.com 查看含 30 天退款的方案",
+            "label": "用我的地址查看方案与合约条件",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -303443,8 +303959,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "订购页会通过推荐链接在 starlink.com 打开，链接要在付款前使用。价格和官网相同，你能看到自己地址的合约条件，也保留 30 天的退回期。奖励在服务满两个月后入账。",
-      "label": "查看我所在地址的合约与方案",
+      "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
+      "label": "通过推荐链接打开 Starlink 订单",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -303459,13 +303975,21 @@ export const reviewsData: unknown[] = [
     "type": "编辑专题",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "通过 Starlink 官网和授权经销商名单，可以确认你在向谁购买。付款前该核对什么、哪些名字相近的页面要忽略，这里一次讲清。",
     "metaDescription": "如何认出 Starlink 官网、分辨 Trustpilot 上名字相近的页面，并使用授权经销商名单。",
     "publishedAt": "2026年11月20日",
@@ -303482,7 +304006,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，Starlink 靠谱：它是 SpaceX 的卫星互联网服务，并在 starlink.com 直接销售。我们自己也因当地光纤不稳定而申装，作为替代与备用网络。真正需要防范的是仿冒网站和非授权卖家：在 Trustpilot 上指向 starlink.com 的页面名为“Starlink Development”；如果在别处购买套件，付款前请先核对 Starlink 授权经销商名单并确认店铺主体。"
+          "是的，Starlink 靠谱：它是 SpaceX 的卫星互联网服务，并在 starlink.com 直接销售。我们自己也因当地光纤不稳定而申装，作为替代与备用网络。真正需要防范的是仿冒网站和非授权卖家：在 Trustpilot 上指向 starlink.com 的页面名为“Starlink Development”；如果在别处购买套件，付款前请先核对 Starlink 授权经销商名单并确认店铺主体。",
+          "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址适用的 Starlink 推荐奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -303512,14 +304044,7 @@ export const reviewsData: unknown[] = [
           "caption": "马来西亚吉隆坡地址的 starlink.com 订购页面示例（2026 年 11 月 23 日查询）。官网没有中文版本。",
           "objectFit": "square",
           "aspectRatio": 0.9898
-        },
-        "links": [
-          {
-            "label": "通过推荐链接打开 starlink.com 官方订购页",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "使用 Starlink 名义的信息",
@@ -303578,7 +304103,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "在 starlink.com 确认我的地址能否使用",
+            "label": "通过推荐链接打开 starlink.com 官方订购页",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -303632,8 +304157,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "从推荐链接打开订购页，确认地址栏仍在 starlink.com，并在付款前查看你地址的套餐、套件与总额。价格与官网相同。",
-      "label": "在 starlink.com 查看我的地址",
+      "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
+      "label": "通过推荐链接打开 Starlink 订单",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -303648,13 +304173,21 @@ export const reviewsData: unknown[] = [
     "type": "口碑分析",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "看看 starlink.com 在 Trustpilot 上的评分、评价数量和星级分布，以及常见抱怨，并了解如何向公司投诉。",
     "metaDescription": "Starlink 在 Trustpilot 的 TrustScore 为 1.6，共 879 条评价，主页尚未认领。整理近期一星和五星评价的内容。",
     "publishedAt": "2026年11月20日",
@@ -303671,7 +304204,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "starlink.com 在 Trustpilot 上的主页 Starlink Development，TrustScore 为 5 分满分的 1.6，共 879 条评价，其中 71% 是一星。这个主页尚未被公司认领：没有付费方案，不发送评价邀请，464 条负面评价也没有任何一条回复。评价来自许多国家的用户。"
+          "starlink.com 在 Trustpilot 上的主页 Starlink Development，TrustScore 为 5 分满分的 1.6，共 879 条评价，其中 71% 是一星。这个主页尚未被公司认领：没有付费方案，不发送评价邀请，过去 12 个月（Trustpilot 公司活动页面统计的期间）的 464 条负面评价也没有任何一条回复。评价来自许多国家的用户。",
+          "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
+        ],
+        "links": [
+          {
+            "label": "查看我的地址适用的 Starlink 推荐奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -303824,13 +304365,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.8079
           }
-        ],
-        "links": [
-          {
-            "label": "在 starlink.com 打开官方订单并确认我所在的地区",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -303864,7 +304398,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "按表格里的数字，对地址上没有其他好网络选择的人来说，在 starlink.com 针对该地址确认方案、套件、税费和合同之后再订阅是合理的，因为 1.6 反映的多半是客服、账单和价格方面的抱怨，而不是信号质量。",
         "links": [
           {
-            "label": "在 starlink.com 确认我的地址是否可用",
+            "label": "在 starlink.com 打开官方订单并确认我所在的地区",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -303907,8 +304441,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "通过推荐链接打开订单，确认你地址的方案、套件和合同，付款前把摘要页面保存下来。价格与官方网站相同。",
-      "label": "在 starlink.com 打开我的订单",
+      "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
+      "label": "通过推荐链接打开 Starlink 订单",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -322955,13 +323489,21 @@ export const reviewsData: unknown[] = [
     "type": "دليل الجمعة البيضاء",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "موقع Starlink الرسمي متاح بالعربية في عُمان وقطر: 30 ر.ع. شهريًا في عُمان بلا تعاقد. قارنّا الأسعار بعروض الجمعة البيضاء في أمريكا وأوروبا وشرحنا مكافأة الإحالة.",
     "metaDescription": "أسعار Starlink بالعربية في عُمان وقطر، مقارنةً بخصم 30% في أمريكا وأوروبا، وكيف تُحتسب مكافأة الإحالة وكيف تتحقق من عنوانك.",
     "publishedAt": "21 نوفمبر 2026",
@@ -322978,7 +323520,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "يعمل موقع Starlink بالعربية في عُمان وقطر. في مسقط قرأنا الباقة المنزلية بـ 30 ر.ع. شهريًا مع شراء الجهاز (Standard 4 X بـ 160 ر.ع.) وبلا تعاقد وبتجربة 30 يومًا. أما عروض الجمعة البيضاء الظاهرة في قراءتنا فكانت في أمريكا (خصم 30% حتى 30 نوفمبر) وأوروبا. مكافأة الإحالة تختلف بحسب البلد، مثل 100$ في الولايات المتحدة، ولا تُحتسب إلا للطلب الذي يُفتح من رابط إحالة قبل الدفع، وتصل بعد دورتين شهريتين مدفوعتين."
+          "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح رابطنا قبل الطلب وتحقق من المبلغ لعنوانك، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين.",
+          "يعمل موقع Starlink بالعربية في عُمان وقطر. في مسقط قرأنا الباقة المنزلية بـ 30 ر.ع. شهريًا مع شراء الجهاز (Standard 4 X بـ 160 ر.ع.) وبلا تعاقد وبتجربة 30 يومًا. أما عروض الجمعة البيضاء الظاهرة في قراءتنا فكانت في أمريكا (خصم 30% حتى 30 نوفمبر) وأوروبا."
+        ],
+        "links": [
+          {
+            "label": "تحقق من مكافأة Starlink لعنواني",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -323093,14 +323643,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "الفرق الجوهري بين السوقين أن الجهاز في عُمان وقطر يُشترى فيبقى لك، بينما هو في أمريكا وأوروبا مستأجر بـ 0 ويجب إعادته عند الإلغاء. لذلك قارن المبلغ المستحق اليوم لا السعر الشهري وحده."
         ],
-        "emphasis": "بحسب الأرقام في الجدول، يُدفع في عُمان 170 ر.ع. اليوم مع Standard 4 X ثم 30 ر.ع. شهريًا، ولا تصل مكافأة الإحالة إلا بعد دورتين شهريتين كاملتين، فتُدفع الفواتير الأولى من مالك الخاص.",
-        "links": [
-          {
-            "label": "اطّلع على الجمعة البيضاء ومكافأة الإحالة لعنوانك",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        "emphasis": "بحسب الأرقام في الجدول، يُدفع في عُمان 170 ر.ع. اليوم مع Standard 4 X ثم 30 ر.ع. شهريًا، ولا تصل مكافأة الإحالة إلا بعد دورتين شهريتين كاملتين، فتُدفع الفواتير الأولى من مالك الخاص."
       },
       {
         "heading": "كيف يبدو الطلب",
@@ -323145,7 +323688,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "أمّن مكافأة الإحالة قبل أن تدفع الطلب",
+            "label": "اطّلع على الجمعة البيضاء ومكافأة الإحالة لعنوانك",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -323202,8 +323745,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "تدفع السعر نفسه الظاهر في صفحة الطلب الرسمية، وتحتفظ بتجربة 30 يومًا إن لم يناسب الطبق سطحك، وتصلك مكافأة الإحالة في فاتورتك بعد دورتين مدفوعتين.",
-      "label": "اطّلع على عنواني مع رابط الإحالة",
+      "text": "يمكن للعملاء الجدد الحصول على رصيد بعد سداد دورتَي فوترة كاملتَين على باقة مؤهلة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح الطلب الرسمي عبر رابطنا وتحقق من المبلغ قبل الدفع.",
+      "label": "افتح طلب Starlink عبر رابط الإحالة",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -323243,13 +323786,21 @@ export const reviewsData: unknown[] = [
     "type": "دليل عملي",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "في صفحة الطلب بالعربية لعُمان وقطر، يُشترى جهاز Starlink والعبارة «بدون تعاقد». اعرف الأسعار والاسترداد خلال 30 يومًا وطريقة الإلغاء من حسابك.",
     "metaDescription": "Starlink في عُمان وقطر: الجهاز يُشترى وبدون تعاقد، مع تجربة 30 يومًا. اعرف الأسعار والاسترداد وطريقة الإلغاء من حسابك.",
     "publishedAt": "21 نوفمبر 2026",
@@ -323266,7 +323817,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "في صفحة الطلب بالعربية التي قرأناها لعُمان، تظهر عبارة «بدون تعاقد، فترة تجريبية 30 يومًا»، والجهاز يُشترى ولا يُستأجر: Standard 4 X بـ OMR 160 أو Mini بـ OMR 80، مع OMR 30 شهريًا لباقة «المنازل». وفي قطر ظهرت العبارة نفسها «بدون تعاقد». ويصف العرض استردادًا لثمن الجهاز والشهر الأول إذا ألغيت وأعدت الجهاز سليمًا خلال 30 يومًا. أما إذا كنت تقيم في الولايات المتحدة أو أوروبا، فالجهاز هناك يُستأجر عادةً بدون مقدم وتعيده عند الإلغاء."
+          "في صفحة الطلب بالعربية التي قرأناها لعُمان، تظهر عبارة «بدون تعاقد، فترة تجريبية 30 يومًا»، والجهاز يُشترى ولا يُستأجر: Standard 4 X بـ OMR 160 أو Mini بـ OMR 80، مع OMR 30 شهريًا لباقة «المنازل». وفي قطر ظهرت العبارة نفسها «بدون تعاقد». ويصف العرض استردادًا لثمن الجهاز والشهر الأول إذا ألغيت وأعدت الجهاز سليمًا خلال 30 يومًا. أما إذا كنت تقيم في الولايات المتحدة أو أوروبا، فالجهاز هناك يُستأجر عادةً بدون مقدم وتعيده عند الإلغاء.",
+          "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح رابطنا قبل الطلب وتحقق من المبلغ لعنوانك، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين."
+        ],
+        "links": [
+          {
+            "label": "تحقق من مكافأة Starlink لعنواني",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -323290,13 +323849,6 @@ export const reviewsData: unknown[] = [
             "caption": "ملخص الطلب في عُمان بتاريخ 23 نوفمبر 2026: OMR 30 شهريًا، وOMR 160 للجهاز، وOMR 10 للشحن، والإجمالي OMR 170.",
             "objectFit": "square",
             "aspectRatio": 1.0392
-          }
-        ],
-        "links": [
-          {
-            "label": "تحقق من الباقات وشروط التعاقد لعنواني",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
           }
         ]
       },
@@ -323324,7 +323876,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "بحسب شروط صفحة الطلب، إلغاء الخدمة وإعادة الجهاز سليمًا خلال 30 يومًا هو ما يتيح استرداد ثمن الجهاز والشهر الأول، وإيصال الشحن هو الدليل الذي يحسم الأمر.",
         "links": [
           {
-            "label": "اعرض الباقات مع استرداد 30 يومًا على starlink.com",
+            "label": "تحقق من الباقات وشروط التعاقد لعنواني",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -323416,8 +323968,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "يُفتح الطلب في starlink.com عبر رابط الإحالة، ويجب استخدامه قبل الدفع. تدفع السعر نفسه الذي في الموقع، وترى شروط التعاقد لعنوانك، وتحتفظ بالثلاثين يومًا لإعادة الجهاز. يصل رصيد الإحالة بعد شهرين من الاشتراك.",
-      "label": "تحقق من العقد والباقة لعنواني",
+      "text": "يمكن للعملاء الجدد الحصول على رصيد بعد سداد دورتَي فوترة كاملتَين على باقة مؤهلة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح الطلب الرسمي عبر رابطنا وتحقق من المبلغ قبل الدفع.",
+      "label": "افتح طلب Starlink عبر رابط الإحالة",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -323427,20 +323979,28 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-ar",
     "translationKey": "starlink-indicacao",
     "locale": "ar",
-    "title": "كيف تحصل على مكافأة الإحالة (100$ في أمريكا أو قيمة بلدك) عند شراء أول جهاز Starlink",
-    "seoTitle": "مكافأة شراء أول Starlink عبر رابط الإحالة",
+    "title": "مكافأة Starlink للاشتراك الأول عبر رابط الإحالة في عُمان وقطر",
+    "seoTitle": "مكافأة إحالة Starlink في عُمان وقطر",
     "type": "دليل الإحالة",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "لا تملك Starlink كود خصم: الطلب عبر رابط الإحالة الرسمي يمنحك السعر نفسه وفترة 30 يومًا للإرجاع ومكافأة بلدك بعد شهرين (مثل 100$ في أمريكا).",
-    "metaDescription": "كيف تفعّل رابط إحالة Starlink قبل الدفع لتحصل على مكافأة العميل الجديد بعد شهرين، والفرق بين الطلب عبر الرابط أو بدونه.",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "افتح طلب Starlink عبر رابطنا لتتحقق من رصيد الإحالة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا أو 160 ريالًا قطريًا حسب البلد.",
+    "metaDescription": "افتح طلب Starlink عبر رابطنا لتتحقق من رصيد الإحالة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا أو 160 ريالًا قطريًا حسب البلد.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
     "updatedAt": "2026-11-23",
@@ -323455,14 +324015,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "لا يوجد لدى Starlink كود خصم تكتبه عند الدفع. وإلى جانب عروض موقعها، فإن الطلب عبر رابط الإحالة الرسمي هو الطريقة المعتمدة للحصول على مكافأة العميل الجديد عند اشتراكك الأول. تدفع السعر الرسمي نفسه على starlink.com وتحتفظ بفترة الإرجاع البالغة 30 يومًا، وتحصل بعد دورتين شهريتين كاملتين على قيمة مكافأة بلدك (الظاهرة في شاشة الطلب قبل الدفع، ومثالها 100$ في الولايات المتحدة). وتصل المكافأة رصيدًا على الفاتورة لاحقًا، ولا تخفض سعر الجهاز يوم الطلب. تحقق من إشعار تطبيق الإحالة قبل الدفع، لأنه لا يمكن إضافتها بعد إتمام الطلب."
+          "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح رابطنا قبل الطلب وتحقق من المبلغ لعنوانك، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين."
+        ],
+        "links": [
+          {
+            "label": "تحقق من مكافأة Starlink لعنواني",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "لماذا يفرق الطلب عبر رابط الإحالة",
         "paragraphs": [
           "إذا فتحت starlink.com بنفسك، فسعر الجهاز والاشتراك الشهري كما هما عبر الرابط. الفرق هو مكافأة الإحالة التي ستتركها دون أن تأخذها. ولا تخفض المكافأة سعر الجهاز يوم الطلب، بل تدخل فاتورتك رصيدًا بعد دورتين شهريتين كاملتين مسددتين.",
-          "الأرقام أدناه مأخوذة من عناوين مرجعية. في عنوانك قد تختلف الأسعار والجهاز والشروط، ولا يعرضها إلا شاشة الطلب."
+          "الأرقام أدناه مأخوذة من عناوين مرجعية. في عنوانك قد تختلف الأسعار والجهاز والشروط، ولا يعرضها إلا شاشة الطلب.",
+          "المبالغ لعُمان وقطر مرجعية بحسب رصد SatNet Watch في نوفمبر. اعتمد المبلغ الذي يظهر في طلبك قبل الدفع."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
@@ -323494,13 +324062,6 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "links": [
-          {
-            "label": "افتح طلبي وتحقق من مكافأة الإحالة",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "simulator": {
           "title": "جرّب حالتك",
           "scenarios": [
@@ -323634,7 +324195,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "احجز المكافأة قبل أن تطلب",
+            "label": "افتح طلبي وتحقق من مكافأة الإحالة",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -323703,8 +324264,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "تدفع السعر نفسه الموجود في الموقع الرسمي، وتحتفظ بـ 30 يومًا لإرجاع الجهاز إن لم يعمل على سطحك، وتضمن مكافأة بلدك بعد دورتين شهريتين.",
-      "label": "تفعيل مكافأة الإحالة في الطلب الرسمي",
+      "text": "يمكن للعملاء الجدد الحصول على رصيد بعد سداد دورتَي فوترة كاملتَين على باقة مؤهلة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح الطلب الرسمي عبر رابطنا وتحقق من المبلغ قبل الدفع.",
+      "label": "افتح طلب Starlink عبر رابط الإحالة",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -323744,13 +324305,21 @@ export const reviewsData: unknown[] = [
     "type": "تحليل السمعة",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "اعرف تقييم TrustScore وكيف تتوزع النجوم وأي الشكاوى أكثر تكرارًا في صفحة Starlink على Trustpilot. وتعلّم كيف ترفع مشكلتك إلى الشركة.",
     "metaDescription": "Starlink على Trustpilot: تقييم TrustScore بقيمة 1.6 من 879 مراجعة على صفحة غير مُطالَب بها. ماذا تقول المراجعات الحديثة بنجمة وبخمس نجوم.",
     "publishedAt": "21 نوفمبر 2026",
@@ -323767,7 +324336,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "صفحة Starlink Development، وهي صفحة starlink.com على Trustpilot، تحمل تقييم TrustScore بقيمة 1.6 من 5 من خلال 879 مراجعة، منها 71% بنجمة واحدة. الصفحة غير مُطالَب بها: لا توجد للشركة خطة مدفوعة ولا ترسل دعوات لكتابة المراجعات، ولم ترد على أي من المراجعات السلبية البالغ عددها 464. المراجعات من عملاء في دول كثيرة."
+          "صفحة Starlink Development، وهي صفحة starlink.com على Trustpilot، تحمل تقييم TrustScore بقيمة 1.6 من 5 من خلال 879 مراجعة، منها 71% بنجمة واحدة. الصفحة غير مُطالَب بها: لا توجد للشركة خطة مدفوعة ولا ترسل دعوات لكتابة المراجعات، ولم ترد على أي من المراجعات السلبية البالغ عددها 464 خلال الأشهر الاثني عشر الأخيرة، وهي الفترة التي تغطيها صفحة نشاط الشركة في Trustpilot. المراجعات من عملاء في دول كثيرة.",
+          "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح رابطنا قبل الطلب وتحقق من المبلغ لعنوانك، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين."
+        ],
+        "links": [
+          {
+            "label": "تحقق من مكافأة Starlink لعنواني",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -323920,13 +324497,6 @@ export const reviewsData: unknown[] = [
             "objectFit": "contain",
             "aspectRatio": 1.8079
           }
-        ],
-        "links": [
-          {
-            "label": "افتح الطلب الرسمي في starlink.com وتحقق من منطقتي",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
         ]
       },
       {
@@ -323960,7 +324530,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "بحسب أرقام الجدول، لمن لا يملك خيار إنترنت جيدًا آخر في عنوانه، يبدو الاشتراك معقولًا بعد التحقق على starlink.com من الخطة والمعدات والضرائب والعقد لذلك العنوان، لأن الرقم 1.6 يعكس شكاوى الدعم والفوترة والسعر أكثر مما يعكس جودة الإشارة.",
         "links": [
           {
-            "label": "تحقق من التوافر في عنواني على starlink.com",
+            "label": "افتح الطلب الرسمي في starlink.com وتحقق من منطقتي",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -324003,8 +324573,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "افتح الطلب عبر رابط الإحالة، وتحقق من الخطة والمعدات والعقد في عنوانك، واحفظ لقطة الملخص قبل الدفع. السعر هو سعر الموقع الرسمي.",
-      "label": "افتح طلبي في starlink.com",
+      "text": "يمكن للعملاء الجدد الحصول على رصيد بعد سداد دورتَي فوترة كاملتَين على باقة مؤهلة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح الطلب الرسمي عبر رابطنا وتحقق من المبلغ قبل الدفع.",
+      "label": "افتح طلب Starlink عبر رابط الإحالة",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -324019,13 +324589,21 @@ export const reviewsData: unknown[] = [
     "type": "مقال تحريري",
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "الموقع الرسمي لـ Starlink وقائمة تجار التجزئة المعتمدين يوضحان لك ممن تشتري. تعرّف على ما تتحقق منه قبل الدفع وعلى الصفحات المشابهة التي يجب تجاهلها.",
     "metaDescription": "كيف تتعرف على الموقع الرسمي لـ Starlink، وتميّز الصفحات المشابهة على Trustpilot، وتستخدم قائمة تجار التجزئة المعتمدين.",
     "publishedAt": "21 نوفمبر 2026",
@@ -324042,7 +324620,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "نعم، Starlink خدمة موثوقة: فهي خدمة الإنترنت الفضائي الرسمية من SpaceX وتُباع مباشرة عبر starlink.com. وقد اشتركنا فيها بأنفسنا كبديل وخط احتياطي بسبب عدم استقرار الألياف المحلية. الخطر الفعلي هو المواقع المنتحِلة والبائعون غير المعتمدين؛ على Trustpilot ترتبط صفحة «Starlink Development» بـ starlink.com، وإذا اشتريت الطقم من متجر خارجي فتحقق أولًا من قائمة تجار التجزئة المعتمدين لدى Starlink قبل الدفع."
+          "نعم، Starlink خدمة موثوقة: فهي خدمة الإنترنت الفضائي الرسمية من SpaceX وتُباع مباشرة عبر starlink.com. وقد اشتركنا فيها بأنفسنا كبديل وخط احتياطي بسبب عدم استقرار الألياف المحلية. الخطر الفعلي هو المواقع المنتحِلة والبائعون غير المعتمدين؛ على Trustpilot ترتبط صفحة «Starlink Development» بـ starlink.com، وإذا اشتريت الطقم من متجر خارجي فتحقق أولًا من قائمة تجار التجزئة المعتمدين لدى Starlink قبل الدفع.",
+          "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح رابطنا قبل الطلب وتحقق من المبلغ لعنوانك، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين."
+        ],
+        "links": [
+          {
+            "label": "تحقق من مكافأة Starlink لعنواني",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -324072,14 +324658,7 @@ export const reviewsData: unknown[] = [
           "caption": "شاشة طلب الباقات على starlink.com لعنوان في مسقط، عُمان (استُعلم عنها في 23 نوفمبر 2026).",
           "objectFit": "portrait",
           "aspectRatio": 0.7414
-        },
-        "links": [
-          {
-            "label": "افتح طلب starlink.com الرسمي عبر رابط الإحالة",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ]
+        }
       },
       {
         "heading": "رسائل تستخدم اسم Starlink",
@@ -324138,7 +324717,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "تحقق من التوافر لعنواني على starlink.com",
+            "label": "افتح طلب starlink.com الرسمي عبر رابط الإحالة",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -324192,8 +324771,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "افتح الطلب عبر رابط الإحالة، وتأكد أن شريط العنوان ما زال على starlink.com، وراجع الباقة والطقم والإجمالي لعنوانك قبل الدفع. السعر هو نفسه على الموقع الرسمي.",
-      "label": "اعرض عنواني على starlink.com",
+      "text": "يمكن للعملاء الجدد الحصول على رصيد بعد سداد دورتَي فوترة كاملتَين على باقة مؤهلة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح الطلب الرسمي عبر رابطنا وتحقق من المبلغ قبل الدفع.",
+      "label": "افتح طلب Starlink عبر رابط الإحالة",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -324208,13 +324787,21 @@ export const reviewsData: unknown[] = [
     "type": "دليل شراء",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "description": "تعرّف على متى تستحق Starlink الاشتراك: في المناطق دون ألياف أو عندما تعاني الألياف المحلية من انقطاعات متكررة وبطء شديد كخيار بديل أو خط احتياطي.",
     "metaDescription": "هل تستحق Starlink الاشتراك حتى مع وجود ألياف؟ تحليل استقرار الشبكة والخط الاحتياطي وأسعار الباقات في الأسواق العربية وغيرها.",
     "publishedAt": "21 نوفمبر 2026",
@@ -324231,7 +324818,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "نعم، تستحق Starlink الاشتراك حيث لا يصل اتصال مستقر، وأيضًا حيث توجد ألياف لكنها تنقطع كثيرًا أو تقدّم سرعة أقل بكثير مما تدفع مقابله. اشتركنا نحن في Starlink كبديل وخط احتياطي لألياف غير مستقرة. وإذا كانت الألياف لديك مستقرة فعلًا فهي تظل أوفر وأقل تأخيرًا. والتجربة قليلة المخاطر: في عُمان تذكر الصفحة «بدون تعاقد» مع فترة تجريبية مدتها 30 يومًا."
+          "نعم، تستحق Starlink الاشتراك حيث لا يصل اتصال مستقر، وأيضًا حيث توجد ألياف لكنها تنقطع كثيرًا أو تقدّم سرعة أقل بكثير مما تدفع مقابله. اشتركنا نحن في Starlink كبديل وخط احتياطي لألياف غير مستقرة. وإذا كانت الألياف لديك مستقرة فعلًا فهي تظل أوفر وأقل تأخيرًا. والتجربة قليلة المخاطر: في عُمان تذكر الصفحة «بدون تعاقد» مع فترة تجريبية مدتها 30 يومًا.",
+          "يمكن للعملاء الجدد الحصول على رصيد في الفاتورة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح رابطنا قبل الطلب وتحقق من المبلغ لعنوانك، ثم أبقِ اشتراكك المؤهل نشطًا ومدفوعًا لدورتَي فوترة كاملتَين."
+        ],
+        "links": [
+          {
+            "label": "تحقق من مكافأة Starlink لعنواني",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -324344,13 +324939,6 @@ export const reviewsData: unknown[] = [
           "في الولايات المتحدة يختلف النموذج: الجهاز مستأجر بـ 0$ مقدمًا، والباقات 38.50$ و59.50$ و91$ شهريًا مع خصم 30% في مناطق محددة، وتبقى أسعار النهاية 55$ و85$ و130$ بلا مدة ثابتة معلنة. لذلك لا تحكم على المبلغ قبل أن تدخل عنوانك.",
           "احسب التكلفة أولًا قبل المكافأة. عبر رابطنا يحصل المشترك على مكافأة بعد شهرين من الاشتراك، ويعتمد المبلغ على البلد (مثلًا 100 دولار أمريكي في الولايات المتحدة). اطّلع على [صفحة إحالة Starlink](/ar/coupons/starlink)."
         ],
-        "links": [
-          {
-            "label": "جرّب الباقة والجهاز على عنواني",
-            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-            "sponsored": true
-          }
-        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
           "alt": "صفحة الطلب الرسمية لـ Starlink في مسقط بعُمان تعرض باقة المنازل بـ 30 ر.ع. شهريًا وجهاز Standard 4 X بـ 160 ر.ع.",
@@ -324433,7 +325021,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "جرّب على عنواني مع 30 يومًا للإعادة",
+            "label": "جرّب الباقة والجهاز على عنواني",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -324472,8 +325060,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "تدفع السعر نفسه كما في الموقع الرسمي، وتحتفظ بمهلة 30 يومًا للإعادة إن لم يعمل على سطح منزلك، وتحصل على مكافأة الإحالة، التي تختلف بحسب البلد (مثلًا 100 دولار أمريكي في الولايات المتحدة)، رصيدًا على فاتورتك إذا استوفيت الشروط.",
-      "label": "شاهد عنواني على starlink.com عبر رابط الإحالة",
+      "text": "يمكن للعملاء الجدد الحصول على رصيد بعد سداد دورتَي فوترة كاملتَين على باقة مؤهلة. المبلغ المرجعي في نوفمبر هو 15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر. افتح الطلب الرسمي عبر رابطنا وتحقق من المبلغ قبل الدفع.",
+      "label": "افتح طلب Starlink عبر رابط الإحالة",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },

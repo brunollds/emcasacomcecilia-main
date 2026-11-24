@@ -6556,7 +6556,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A Starlink tem fidelidade de 12 meses?',
         answer:
-          'Depende do pedido. No pedido que lemos em 23/11/2026, o Residencial 100 Mbps com o Mini X comprado não trazia contrato de 12 meses; o Residencial Max com o kit subsidiado exige 12 meses, com taxa de rescisão antecipada para quem cancelar antes. O resumo do pedido mostra a regra antes de pagar, e nos dois casos há 30 dias para devolver o kit e receber o valor integral.',
+          'Depende do pedido. No pedido que lemos em 23/11/2026, o Residencial 100 Mbps com o Mini X comprado não trazia contrato de 12 meses; o Residencial Max com o kit subsidiado exige 12 meses, com taxa de rescisão antecipada para quem cancelar antes. O resumo do pedido mostra a regra e o que volta no teste de 30 dias antes de pagar; o kit alugado precisa voltar em bom estado.',
       },
       {
         question: 'Preciso copiar algum código para receber os R$ 200?',

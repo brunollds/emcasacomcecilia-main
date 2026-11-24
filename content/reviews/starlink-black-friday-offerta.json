@@ -8,13 +8,21 @@
   "type": "Guida al Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "A Milano l'ordine Starlink mostrava il 100 Mbps a 17,50 € al mese per 3 mesi e il kit a noleggio a 0 €. Vedi i tre piani, i 45 € dell'invito e come controllare il tuo indirizzo.",
   "metaDescription": "Starlink Black Friday: 50% di sconto sui piani per 3 mesi, kit a noleggio a 0 € e 45 € di invito in Italia. Controlla il tuo indirizzo.",
   "publishedAt": "20 novembre 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "A Milano l'ordine Starlink mostrava il 50% di sconto per 3 mesi, con iscrizione entro il 30 novembre: 100 Mbps a 17,50 € al mese, 200 Mbps a 22,50 € e Max a 32,50 €, con il kit a noleggio a 0 € e 19 € da pagare oggi. La pagina riportava «Nessun contratto» e una prova di 30 giorni. I 45 € dell'invito in Italia contano solo se apri l'ordine da un link di invito prima di pagare, e arrivano dopo due cicli mensili pagati."
+        "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione.",
+        "A Milano l'ordine Starlink mostrava il 50% di sconto per 3 mesi, con iscrizione entro il 30 novembre: 100 Mbps a 17,50 € al mese, 200 Mbps a 22,50 € e Max a 32,50 €, con il kit a noleggio a 0 € e 19 € da pagare oggi. La pagina riportava «Nessun contratto» e una prova di 30 giorni."
+      ],
+      "links": [
+        {
+          "label": "Verificare il bonus Starlink al mio indirizzo",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -146,14 +162,7 @@
       "postParagraphs": [
         "Dopo i 3 mesi il canone sale al prezzo pieno: 35 € per il 100 Mbps, 45 € per il 200 Mbps e 65 € per il Max. Chi pensa di restare più di un trimestre deve fare il conto con questi valori."
       ],
-      "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese per 3 mesi, e il bonus di 45 € arriva solo dopo due cicli mensili completi, quindi le prime bollette escono dalla tua tasca.",
-      "links": [
-        {
-          "label": "Controllare Black Friday e bonus da 45 € al mio indirizzo",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ]
+      "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese per 3 mesi, e il bonus di 45 € arriva solo dopo due cicli mensili completi, quindi le prime bollette escono dalla tua tasca."
     },
     {
       "heading": "Come compare nell'ordine",
@@ -198,7 +207,7 @@
       },
       "links": [
         {
-          "label": "Assicurarmi i 45 € prima di pagare l'ordine",
+          "label": "Controllare Black Friday e bonus da 45 € al mio indirizzo",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -257,8 +266,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Paghi lo stesso prezzo dell'ordine ufficiale, tieni i 30 giorni di prova con la restituzione del kit a noleggio se l'antenna non funziona sul tuo tetto e i 45 € dell'invito arrivano in fattura dopo due cicli pagati.",
-    "label": "Vedere il mio indirizzo con i 45 €",
+    "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
+    "label": "Aprire il mio ordine con il link di invito",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

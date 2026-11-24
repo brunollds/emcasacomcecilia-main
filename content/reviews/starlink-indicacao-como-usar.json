@@ -3,20 +3,28 @@
   "slug": "starlink-indicacao-como-usar",
   "translationKey": "starlink-indicacao",
   "locale": "pt",
-  "title": "Como ganhar R$ 200 comprando sua primeira Starlink pelo link de indicação (45 € em Portugal)",
-  "seoTitle": "Como ganhar R$ 200 na primeira Starlink (indicação)",
+  "title": "Como ganhar R$ 200 de crédito na primeira assinatura Starlink",
+  "seoTitle": "Starlink: R$ 200 de crédito na primeira assinatura",
   "type": "Guia do Código de Indicação",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
-  "description": "A Starlink não tem cupom: peça sua primeira antena pelo link oficial de indicação, pague o mesmo preço do site e receba R$ 200 no Brasil ou 45 € em Portugal.",
-  "metaDescription": "Como ganhar 200 reais na primeira Starlink pelo link oficial de indicação (45 € em Portugal), quanto abate na conta e como confirmar antes de pagar.",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Novos clientes podem receber R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal. Veja como usar nosso link de indicação antes de contratar.",
+  "metaDescription": "Receba 200 reais de crédito na fatura na primeira assinatura elegível da Starlink no Brasil. Veja como usar nosso link e conferir o bônus no pedido.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
   "updatedAt": "2026-11-23",
@@ -30,13 +38,20 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Starlink não tem cupom: o que existe, além das promoções do site, é o link de indicação. Pedindo por ele antes de comprar sua primeira antena, você recebe 200 reais no Brasil (45 € em Portugal), paga o mesmo preço do site e mantém os 30 dias para devolver. Abra o link, informe seu endereço em starlink.com, confira o aviso de indicação aplicada antes de pagar e mantenha os dois primeiros ciclos mensais em dia: o valor entra como crédito na fatura, e quem indicou recebe o mesmo. Fechou o pedido sem o link? A Starlink não deixa incluir a indicação depois."
+        "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
+      ],
+      "links": [
+        {
+          "label": "Consultar meu endereço com o bônus Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Por que vale pedir pelo link (e quanto os R$ 200 abatem de verdade)",
       "paragraphs": [
-        "Quem assina pela página comum do site paga o mesmo valor pelo equipamento e pela mensalidade, mas deixa R$ 200 na mesa. Pelo link de indicação, você não paga nada a mais no pedido e ganha um crédito maior que uma mensalidade cheia no Brasil, ou quase dois meses do plano de 100 Mbps em Portugal.",
+        "Pelo nosso link, o preço do equipamento e da mensalidade é o mesmo do site oficial. No Brasil, os R$ 200 de crédito cobrem uma mensalidade do 100 Mbps a R$ 189. Em Portugal, os 45 € cobrem quase duas mensalidades do 100 Mbps a 24,50 €, o preço da oferta que consultamos em Lisboa.",
         "O crédito não baixa o preço do kit no dia: ele entra na fatura depois dos dois primeiros ciclos mensais. Os números abaixo vêm de endereços de referência. No seu endereço, preço, kit e contrato podem ser outros, e só o pedido mostra."
       ],
       "image": {
@@ -81,13 +96,6 @@
           ]
         ]
       },
-      "links": [
-        {
-          "label": "Abrir meu pedido com R$ 200 de bônus (45 € em Portugal)",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "simulator": {
         "title": "Simule o seu cenário",
         "scenarios": [
@@ -221,7 +229,7 @@
       },
       "links": [
         {
-          "label": "Garantir o bônus antes de fechar o pedido",
+          "label": "Abrir meu pedido com R$ 200 de bônus (45 € em Portugal)",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -292,8 +300,8 @@
     }
   ],
   "cta": {
-    "text": "Você paga o mesmo preço do site oficial, mantém os 30 dias para devolver se não funcionar no seu telhado e garante R$ 200 de crédito no Brasil (45 € em Portugal) depois de dois ciclos mensais.",
-    "label": "Ativar meus R$ 200 no pedido oficial",
+    "text": "Pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal, após dois ciclos completos em dia. Confira o valor no pedido oficial da Starlink antes de pagar.",
+    "label": "Abrir meu pedido pelo link de indicação",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

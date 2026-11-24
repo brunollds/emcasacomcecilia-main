@@ -8,13 +8,21 @@
   "type": "Guide d'achat",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Voyez si Starlink vaut le coup : zones sans fibre ou quartiers où la fibre locale coupe souvent. Prix par forfait, kit loué à 0 € et usage en connexion de secours.",
   "metaDescription": "Starlink vaut-il le coup même avec la fibre ? Tarifs par forfait, kit loué, fibre instable et utilisation comme connexion principale ou de secours.",
   "publishedAt": "20 novembre 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Oui, Starlink vaut le coup là où aucune connexion stable n’arrive, mais aussi là où la fibre existe et coupe souvent ou débite bien moins que prévu. Nous l’avons souscrite comme alternative et connexion de secours à notre fibre instable. Si votre fibre est vraiment stable, elle reste plus avantageuse en prix et en latence. L’essai est peu risqué : le kit est loué à 0 € sur la commande de Paris, avec 30 jours pour le renvoyer."
+        "Oui, Starlink vaut le coup là où aucune connexion stable n’arrive, mais aussi là où la fibre existe et coupe souvent ou débite bien moins que prévu. Nous l’avons souscrite comme alternative et connexion de secours à notre fibre instable. Si votre fibre est vraiment stable, elle reste plus avantageuse en prix et en latence. L’essai est peu risqué : le kit est loué à 0 € sur la commande de Paris, avec 30 jours pour le renvoyer.",
+        "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
+      ],
+      "links": [
+        {
+          "label": "Vérifier mon adresse et le crédit Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -144,13 +160,6 @@
         "Le forfait de 200 Mbit/s est celui que beaucoup de comparatifs oublient : à 31,50 €, il coûte 7 € de plus par mois que le 100 Mbit/s et inclut le kit Standard 4 en location. Comme la page ne fixe pas de durée pour le prix réduit, ne multipliez pas ces tarifs par 12 sans vérifier votre propre commande.",
         "Faites d’abord le calcul sans la récompense. Avec notre lien, la personne qui s’abonne reçoit 45 € en France après deux mois d’abonnement, sous forme de crédit sur la facture. Voyez le [parrainage Starlink](/fr/coupons/starlink)."
       ],
-      "links": [
-        {
-          "label": "Simuler le forfait et le kit pour mon adresse",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "image": {
         "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
         "alt": "Écran officiel de Starlink à Paris montrant le forfait 100 Mbit/s à 24,50 € par mois et le matériel loué à 0 €",
@@ -233,7 +242,7 @@
       ],
       "links": [
         {
-          "label": "Tester à mon adresse avec 30 jours pour renvoyer",
+          "label": "Simuler le forfait et le kit pour mon adresse",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -272,8 +281,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Vous payez le même prix que sur le site officiel, gardez les 30 jours pour renvoyer le kit s’il ne fonctionne pas sur votre toit et recevez la récompense du programme de parrainage une fois les règles respectées.",
-    "label": "Voir mon adresse sur starlink.com avec le parrainage",
+    "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
+    "label": "Ouvrir ma commande avec le parrainage",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

@@ -8,13 +8,21 @@
   "type": "實用指南",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Starlink 官網沒有繁體中文版。依地址不同，設備可能是購買、0 元租賃或綁 12 個月合約。以馬來西亞為例說明，並附 30 天退款與取消步驟。",
   "metaDescription": "Starlink 官網沒有中文介面，設備有購買、租賃與 12 個月合約三種模式。以馬來西亞為例，並說明 30 天退款與取消步驟。",
   "publishedAt": "2026年11月20日",
@@ -31,7 +39,15 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Starlink 沒有一套全球通用的合約規則，設備條件依地址而不同，而且官方訂購頁沒有繁體中文版。我們看到三種模式：購買設備且沒有合約期限，例如馬來西亞的 100 Mbps；0 元租賃設備、取消時須歸還，例如馬來西亞的 Max、美國、日本與歐洲；以及補貼設備但綁 12 個月合約並有提前解約費，例如巴西的 Max 與墨西哥的 Standard 4 X。各種模式都有 30 天的歸還與退款期，請以你自己訂單上的條款為準。"
+        "Starlink 沒有一套全球通用的合約規則，設備條件依地址而不同，而且官方訂購頁沒有繁體中文版。我們看到三種模式：購買設備且沒有合約期限，例如馬來西亞的 100 Mbps；0 元租賃設備、取消時須歸還，例如馬來西亞的 Max、美國、日本與歐洲；以及補貼設備但綁 12 個月合約並有提前解約費，例如巴西的 Max 與墨西哥的 Standard 4 X。各種模式都有 30 天的歸還與退款期，請以你自己訂單上的條款為準。",
+        "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
+      ],
+      "links": [
+        {
+          "label": "查看我的地址適用的 Starlink 推薦獎勵",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -54,13 +70,6 @@
           "caption": "吉隆坡訂單摘要，2026 年 11 月 23 日查看：Max 每月 RM 235，租賃套件 RM 0。",
           "objectFit": "portrait",
           "aspectRatio": 0.8154
-        }
-      ],
-      "links": [
-        {
-          "label": "用我的地址查看方案與合約條件",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
         }
       ]
     },
@@ -119,7 +128,7 @@
       "emphasis": "依訂購頁的條款，取消服務並在期限內把設備完好歸還，才能申請設備與首月費用的退款，所以寄送憑證就是起決定作用的證明。",
       "links": [
         {
-          "label": "在 starlink.com 查看含 30 天退款的方案",
+          "label": "用我的地址查看方案與合約條件",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -209,8 +218,8 @@
     ]
   },
   "cta": {
-    "text": "訂購頁會透過推薦連結在 starlink.com 開啟，連結要在付款前使用。價格與官網相同，你能看到自己地址的合約條件，也保有 30 天的歸還期。獎勵在服務滿兩個月後入帳。",
-    "label": "查看我的地址的合約與方案",
+    "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
+    "label": "透過推薦連結開啟 Starlink 訂單",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

@@ -8,13 +8,21 @@
   "type": "Guida all'acquisto",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Scopri se Starlink conviene in campagna o dove la fibra locale cade spesso ed è lenta. Prezzi dei 3 piani, kit a noleggio, nessun contratto e uso come connessione backup.",
   "metaDescription": "Starlink conviene anche se arriva la fibra? Prezzi a confronto, kit a noleggio, nessun contratto, fibra instabile e utilizzo come linea principale o backup.",
   "publishedAt": "20 novembre 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Sì, Starlink conviene dove non arriva una connessione stabile e anche dove c’è la fibra, ma cade spesso o dà molta meno banda di quella contrattata. Noi l’abbiamo attivata come alternativa e backup alla nostra fibra instabile. Se la tua fibra è davvero stabile, resta più conveniente per prezzo e latenza. La prova è a basso rischio: nell’ordine di Milano il kit è a noleggio a 0 €, con 30 giorni per restituirlo."
+        "Sì, Starlink conviene dove non arriva una connessione stabile e anche dove c’è la fibra, ma cade spesso o dà molta meno banda di quella contrattata. Noi l’abbiamo attivata come alternativa e backup alla nostra fibra instabile. Se la tua fibra è davvero stabile, resta più conveniente per prezzo e latenza. La prova è a basso rischio: nell’ordine di Milano il kit è a noleggio a 0 €, con 30 giorni per restituirlo.",
+        "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
+      ],
+      "links": [
+        {
+          "label": "Verificare il bonus Starlink al mio indirizzo",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -144,13 +160,6 @@
         "Il piano da 200 Mbps è quello che molti confronti omettono: a 22,50 € nei primi mesi costa 5 € in più del 100 Mbps e porta con sé il kit Standard 4 a noleggio. Non fermarti al prezzo promozionale: dopo i 3 mesi i canoni tornano a 35 €, 45 € e 65 €.",
         "Fai il conto prima senza la ricompensa dell’invito. Con il nostro link, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura. Vedi l’[invito Starlink](/it/coupons/starlink)."
       ],
-      "links": [
-        {
-          "label": "Simula piano e kit per il mio indirizzo",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "image": {
         "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
         "alt": "Schermata ufficiale di Starlink a Milano con il piano 100 Mbps a 17,50 € al mese e il kit a noleggio a 0 €",
@@ -233,7 +242,7 @@
       ],
       "links": [
         {
-          "label": "Provare al mio indirizzo con 30 giorni per restituire",
+          "label": "Simula piano e kit per il mio indirizzo",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -272,8 +281,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Paghi lo stesso prezzo del sito ufficiale, mantieni i 30 giorni per restituire il kit se sul tuo tetto non funziona e ricevi 45 € di credito in Italia dopo due mesi di abbonamento, a regole rispettate.",
-    "label": "Vedi il mio indirizzo su starlink.com con l’invito",
+    "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
+    "label": "Aprire il mio ordine con il link di invito",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
