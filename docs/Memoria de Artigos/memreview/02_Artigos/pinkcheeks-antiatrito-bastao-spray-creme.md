@@ -10,7 +10,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redacao"
 bloqueado_por: "Gate 4 em aberto: o H2 \"Antiatrito: bastão, spray ou creme\" do PK5 (pinkcheeks-e-boa) cobre as mesmas fichas e preços"
@@ -196,3 +196,11 @@ Quatro itens de uma linha. Sem número, R$ ou conta nas linhas abaixo.
 
 - GO (Bruno, 23/11). A PK10 vira a dona do antiatrito; a seção "Antiatrito: bastão, spray ou creme" do `pinkcheeks-e-boa` encolhe para um parágrafo com link quando ela for ao ar (Fila, seção 4). O bastão Speedo é uma linha com link para o `black-friday-pinkcheeks` enquanto o kit Speedo estiver lá.
 - Leituras pendentes: pelo navegador do app no dia da redação (as leituras de 23/11 estão em [[leituras-grupo2-2311]]). Preço: a régua é o preço de tabela (memória "preço real, não promocional"); em 23/11 quase tudo estava em Black Friday, então reler fora da campanha se possível.
+
+## Capa e imagens (Job 6, aprovadas pelo Bruno em 23/11/2026)
+
+- Capa: `/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-capa.webp` (1600 × 900, painel verde à esquerda, `imageFit: "contain"`). Alt: Spray Redless Coat de 35 ml e creme Redless Chamois Cream da Pink Cheeks lado a lado, em foto oficial da loja. A capa traz o logo Pink Cheeks e a chamada “Antiatrito: bastão, spray ou creme?”. Origem: foto oficial do site oficial pinkcheeks.com.br, baixada em 23/11/2026; montagem nossa.
+- Corpo, `contentSections[2]` ("Onde aplicar cada um, segundo a loja"): `/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp`. Alt: Bastão antiatrito Redless da Pink Cheeks, verde-água, ao lado da caixa branca, em foto oficial do produto Legenda: Redless Antiatrito em Bastão, de 18 g. Imagem: Pink Cheeks.
+- Corpo, `contentSections[2]` ("Onde aplicar cada um, segundo a loja"): `/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-spray.webp`. Alt: Spray antiatrito Redless Coat de 35 ml da Pink Cheeks, em foto oficial do produto. Legenda: Redless Coat, spray de 35 ml. Foto: Pink Cheeks.
+- Corpo, `contentSections[2]` ("Onde aplicar cada um, segundo a loja"): `/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-creme.webp`. Alt: Creme antiatrito Redless Chamois Cream de 100 g da Pink Cheeks, em foto oficial do produto. Legenda: Redless Chamois Cream, creme de 100 g. Foto: Pink Cheeks.
+- Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.

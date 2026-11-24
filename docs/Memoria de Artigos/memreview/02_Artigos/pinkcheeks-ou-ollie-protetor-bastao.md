@@ -10,7 +10,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "comparativo"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redacao"
 bloqueado_por: "Gramatura e preço do Bastão Com Cor da Ollie (ficha não lida); preços de tabela fora da Black Friday"
@@ -202,3 +202,11 @@ Uma marca concorrente só. Sem número, R$ ou conta nas linhas abaixo.
 
 - GO (Bruno, 23/11). A Ollie entra só com o nome, sem link, foto, campanha nem Reclame Aqui (regra de concorrente). Se a gramatura do Bastão Com Cor da Ollie não for lida, o preço por grama fica só entre os incolores (Clear Stick × Bastão Incolor) e o com cor vai sem conta.
 - Leituras pendentes: pelo navegador do app no dia da redação (as leituras de 23/11 estão em [[leituras-grupo2-2311]]). Preço: a régua é o preço de tabela (memória "preço real, não promocional"); em 23/11 quase tudo estava em Black Friday, então reler fora da campanha se possível.
+
+## Capa e imagens (Job 6, aprovadas pelo Bruno em 23/11/2026)
+
+- Capa: `/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-capa.webp` (1600 × 900, painel verde à esquerda, `imageFit: "contain"`). Alt: Clear Stick da Pink Cheeks, protetor solar em bastão transparente com FPS 70 e FPUVA 50, em foto oficial da loja. A capa traz o logo Pink Cheeks e a chamada “Pink Cheeks ou Ollie?”. Origem: foto oficial do site oficial pinkcheeks.com.br, baixada em 23/11/2026; montagem nossa.
+- Corpo, `contentSections[1]` ("Quanto sai o grama, com o código aplicado"): `/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp`. Alt: Clear Stick em embalagem transparente com rótulo branco, FPS 70 e FPUVA 50 Legenda: Clear Stick, o bastão transparente da Pink Cheeks. Foto: Pink Cheeks.
+- Corpo, `contentSections[3]` ("Cor e tom: o que cada marca oferece"): `/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp`. Alt: Oito rostos com o Pink Stick, cada um com o nome da cor, de 10 KM a 100 KM, e um rosto com a indicação INCOLOR, em foto da Pink Cheeks Legenda: Paleta oficial do Pink Stick nos rostos: oito tons com cor e o 5 KM incolor. Foto: Pink Cheeks.
+- Corpo, `contentSections[3]` ("Cor e tom: o que cada marca oferece"): `/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-pink-stick-21km.webp`. Alt: Pink Stick FPS 90 e FPUVA 70 da Pink Cheeks com a textura do tom 21 KM ao lado do bastão, em foto oficial da loja. Legenda: Pink Stick com a textura do tom 21 KM. Foto: Pink Cheeks.
+- Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.

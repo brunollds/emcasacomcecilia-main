@@ -10,7 +10,7 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Produto"
 anexo_tipo: "Anexo-Beleza"
-status: "pauta-aprovada"
+status: "pronto-para-deploy"
 responsavel: "Job-1"
 proxima_acao: "redacao"
 bloqueado_por: "Página do Glow Booster (abas, fotos de swatch e composição, para a cor e o físico ou químico) não lida no navegador"
@@ -195,3 +195,9 @@ Produto único, duas cores. Sem número, R$ ou conta nas linhas abaixo, salvo o 
 
 - GO (Bruno, 23/11). Sai mesmo que a página não diga qual cor serve a qual tom: o texto mostra a diferença das cores (fotos e nome) e diz que a loja não indica o tom. "Físico ou químico" só com a lista de filtros da composição do Glow; sem ela, fica fora. Kits Glow fora desta pauta.
 - Leituras pendentes: pelo navegador do app no dia da redação (as leituras de 23/11 estão em [[leituras-grupo2-2311]]). Preço: a régua é o preço de tabela (memória "preço real, não promocional"); em 23/11 quase tudo estava em Black Friday, então reler fora da campanha se possível.
+
+## Capa e imagens (Job 6, aprovadas pelo Bruno em 23/11/2026)
+
+- Capa: `/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-capa.webp` (1600 × 900, painel verde à esquerda, `imageFit: "contain"`). Alt: Frascos do Glow Booster Pure Gold e Rose Gold da Pink Cheeks lado a lado, em foto oficial da loja. A capa traz o logo Pink Cheeks e a chamada “Glow Booster: Pure Gold ou Rose Gold?”. Origem: foto oficial do site oficial pinkcheeks.com.br, baixada em 23/11/2026; montagem nossa.
+- Corpo, `contentSections[2]` ("Pure Gold ou Rose Gold: o que a loja diz de cada cor"): `/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-cores.webp`. Alt: Texturas do Glow Booster lado a lado: Pure Gold à esquerda e Rose Gold à direita. Legenda: Textura do Pure Gold (à esquerda) e do Rose Gold (à direita), nas miniaturas de cor da loja. Fotos: Pink Cheeks; montagem nossa.
+- Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.

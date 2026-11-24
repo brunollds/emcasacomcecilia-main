@@ -1,0 +1,260 @@
+{
+  "id": 1402,
+  "slug": "pinkcheeks-ou-ollie-protetor-bastao",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "24 de novembro de 2026",
+  "publishedAtISO": "2026-11-24",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "PNK-EMCASACOMCECILIA",
+  "affiliate": "pinkcheeks",
+  "title": "Pink Cheeks ou Ollie: qual protetor solar em bastão sai melhor pelo FPS, FPUVA e preço por grama",
+  "seoTitle": "Pink Cheeks ou Ollie: protetor em bastão, FPS e preço",
+  "type": "Comparativo",
+  "description": "Compare o Pink Stick e os bastões da Ollie por FPS, FPUVA, gramatura e preço por grama, com o que cada ficha informa e a conta feita com o código da Pink Cheeks.",
+  "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Compare o Pink Stick e a Ollie por FPS, FPUVA, gramatura e preço por grama.",
+  "image": "/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-capa.webp",
+  "imageAlt": "Clear Stick da Pink Cheeks, protetor solar em bastão transparente com FPS 70 e FPUVA 50, em foto oficial da loja. A capa traz o logo Pink Cheeks e a chamada “Pink Cheeks ou Ollie?”.",
+  "cta": {
+    "text": "Confira o bastão e o tom na Pink Cheeks. No checkout, aplique PNK-EMCASACOMCECILIA e confira os 10% OFF.",
+    "label": "Ir para a Pink Cheeks",
+    "url": "https://pinkcheeks.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Não usamos nenhum dos bastões: os dados vêm das páginas e dos rótulos. Somos parceiros da Pink Cheeks e podemos receber comissão pelo cupom. A Ollie não é parceira.",
+  "relatedArticles": [
+    {
+      "slug": "pinkcheeks-e-boa"
+    },
+    {
+      "slug": "pink-stick-qual-cor-escolher"
+    },
+    {
+      "slug": "cupom-pinkcheeks-como-usar"
+    },
+    {
+      "slug": "pinkcheeks-e-confiavel"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você quer o maior FPUVA que as marcas publicam e aceita um bastão com cor: o Pink Stick informa 70, contra 40 da Ollie.",
+      "Você quer o bastão com cor que custa menos por grama e vai usar o código da Pink Cheeks."
+    ],
+    "skipIf": [
+      "Você evita fragrância e quer um bastão com cor: a lista do Pink Stick inclui perfume, e a página do Bastão Com Cor da Ollie não mostra os ingredientes.",
+      "Você quer cobertura média declarada pela marca: o Pink Stick informa leve a média.",
+      "Você quer o bastão sem cor que custa menos por grama: contra o Clear Stick, a Ollie Incolor custa menos."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Pelo que as marcas publicam, o Pink Stick tem FPUVA 70 e FPS 90, e os bastões da Ollie, FPS 95 e FPUVA 40. Com cor, o Pink Stick custa menos por grama, e o código da Pink Cheeks aumenta a diferença. Sem cor, a Ollie Incolor custa menos por grama que o Clear Stick."
+      ]
+    },
+    {
+      "heading": "Quanto sai o grama, com o código aplicado",
+      "paragraphs": [
+        "A conta compara bastão com cor contra bastão com cor, e bastão sem cor contra bastão sem cor. O preço por grama é o preço dividido pelo peso informado na página. A tabela usa o preço de tabela das duas marcas, e na Pink Cheeks a coluna do código é conta nossa, com 10% sobre esse valor."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+          "alt": "Clear Stick em embalagem transparente com rótulo branco, FPS 70 e FPUVA 50",
+          "caption": "Clear Stick, o bastão transparente da Pink Cheeks. Foto: Pink Cheeks.",
+          "href": "https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      ],
+      "comparisonTable": {
+        "caption": "Preço de tabela de cada marca, antes do frete.",
+        "headers": [
+          "Bastão",
+          "Gramatura",
+          "Preço com PNK-EMCASACOMCECILIA",
+          "Por grama com o código",
+          "Preço de tabela",
+          "Por grama, preço de tabela"
+        ],
+        "rows": [
+          [
+            "[Pink Stick 21 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km), com cor",
+            "15,5 g",
+            "R$ 116,91",
+            "R$ 7,54",
+            "R$ 129,90",
+            "R$ 8,38"
+          ],
+          [
+            "Ollie Bastão Com Cor",
+            "15 g",
+            "—",
+            "—",
+            "R$ 139,00",
+            "R$ 9,27"
+          ],
+          [
+            "[Clear Stick](https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g), sem cor",
+            "12 g",
+            "R$ 125,91",
+            "R$ 10,49",
+            "R$ 139,90",
+            "R$ 11,66"
+          ],
+          [
+            "Ollie Bastão Incolor",
+            "17 g",
+            "—",
+            "—",
+            "R$ 109,00",
+            "R$ 6,41"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O [cupom Pink Cheeks](/cupons/pinkcheeks) vale só no site da Pink Cheeks: cole o código em “Código de desconto ou cartão-presente”, no checkout, com o hífen depois de PNK.",
+        "No dia da consulta, o site da Pink Cheeks vendia o Pink Stick a R$ 99,90, e o código entra sobre esse valor.",
+        "O Pink Stick 5 KM também é incolor, mas a página não informa a gramatura dele, então ele fica fora da conta por grama."
+      ]
+    },
+    {
+      "heading": "O que cada ficha informa",
+      "paragraphs": [
+        "O Pink Stick declara o maior FPUVA dos três, e a Ollie, o maior FPS. O quadro põe lado a lado o que cada marca publica."
+      ],
+      "comparisonTable": {
+        "caption": "Dados publicados pelas marcas.",
+        "headers": [
+          "Campo",
+          "Pink Stick 21 KM",
+          "Clear Stick",
+          "Ollie Bastão Com Cor",
+          "Ollie Bastão Incolor"
+        ],
+        "rows": [
+          [
+            "FPS",
+            "90",
+            "70",
+            "95",
+            "95"
+          ],
+          [
+            "FPUVA",
+            "70",
+            "50",
+            "40",
+            "40"
+          ],
+          [
+            "Gramatura",
+            "15,5 g",
+            "12 g",
+            "15 g",
+            "17 g"
+          ],
+          [
+            "Cor",
+            "9 tonalidades, uma incolor (5 KM)",
+            "sem cor, transparente",
+            "6 tons, de #10 a #60",
+            "sem cor"
+          ],
+          [
+            "Cobertura, segundo a marca",
+            "leve a média",
+            "transparente",
+            "média",
+            "não se aplica"
+          ],
+          [
+            "Água e suor, segundo a marca",
+            "resistência comprovada durante 2 horas",
+            "—",
+            "a página do produto não abre",
+            "alta resistência, sem tempo informado"
+          ],
+          [
+            "Filtros",
+            "orgânicos e inorgânicos",
+            "—",
+            "a página do produto não abre",
+            "dióxido de titânio e quatro filtros químicos"
+          ],
+          [
+            "Perfume na lista de ingredientes",
+            "sim: perfume, limoneno e linalol",
+            "—",
+            "a página do produto não abre",
+            "não lista perfume nem fragrância"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O Bastão Incolor da Ollie não lista perfume, combina dióxido de titânio com filtros químicos e pede reaplicação a cada 2 horas. A marca diz que ele não escorre nem arde os olhos.",
+        "A página do Bastão Com Cor da Ollie redireciona para um quiz que abriu vazio. Por isso sabemos o FPS, o FPUVA, o peso, os tons e a “cobertura média” que a loja publica, mas não a lista de ingredientes nem o modo de uso. Quem evita fragrância precisa conferir a embalagem.",
+        "No Pink Stick, a página informa filtros orgânicos e inorgânicos, vitamina E e resistência à água e ao suor comprovada durante 2 horas. A lista de ingredientes do 21 KM inclui perfume, limoneno e linalol. Para o que a loja diz sobre o produto e como tirar, veja o [guia da Pink Cheeks](/reviews/pinkcheeks-e-boa). FPS e FPUVA são escalas diferentes, então compare FPS com FPS e FPUVA com FPUVA."
+      ]
+    },
+    {
+      "heading": "Cor e tom: o que cada marca oferece",
+      "paragraphs": [
+        "A Pink Cheeks tem nove tonalidades do Pink Stick, de 5 KM, incolor, a 100 KM Ultra. A página tem o recurso “Prove virtualmente” e fotos das cores em rostos e braços. A loja não descreve o subtom de cada cor em texto.",
+        "A Ollie tem seis tons no Bastão Com Cor, de #10 a #60. Com a página fora do ar, a orientação de tom da Ollie não está disponível. Nenhuma das duas informa qual tom combina com qual pele. A comparação dos nove tons do Pink Stick, com foto, está no [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher)."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
+          "alt": "Oito rostos com o Pink Stick, cada um com o nome da cor, de 10 KM a 100 KM, e um rosto com a indicação INCOLOR, em foto da Pink Cheeks",
+          "caption": "Paleta oficial do Pink Stick nos rostos: oito tons com cor e o 5 KM incolor. Foto: Pink Cheeks.",
+          "href": "https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        {
+          "src": "/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-pink-stick-21km.webp",
+          "alt": "Pink Stick FPS 90 e FPUVA 70 da Pink Cheeks com a textura do tom 21 KM ao lado do bastão, em foto oficial da loja.",
+          "caption": "Pink Stick com a textura do tom 21 KM. Foto: Pink Cheeks.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km"
+        }
+      ]
+    },
+    {
+      "heading": "Onde cada uma ganha",
+      "paragraphs": [
+        "Para quem quer o maior FPUVA declarado, o Pink Stick: 70, contra 40 da Ollie. Entre os bastões com cor, ele também custa menos por grama, e o código aumenta a diferença. Em compensação, a lista de ingredientes inclui perfume, e o FPS dele (90) é menor que o da Ollie (95).",
+        "Para quem quer um bastão sem cor, a Ollie Incolor custa menos por grama que o Clear Stick, e a lista de ingredientes dela não traz perfume. O Clear Stick declara FPUVA 50, contra 40 da Ollie, e FPS 70, contra 95.",
+        "Quem quer cobertura média declarada fica com o Bastão Com Cor da Ollie; o Pink Stick fala em leve a média. Na dúvida sobre fórmula ou pele sensível, o dermatologista."
+      ],
+      "emphasis": "A conta fecha assim: com cor, o Pink Stick tem mais FPUVA e custa menos por grama. Sem cor, a Ollie Incolor custa menos por grama que o Clear Stick. A cor certa na sua pele nenhuma ficha resolve."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Pink Cheeks ou Ollie: qual é melhor? Depende do que você prioriza. O Pink Stick publica o maior FPUVA e custa menos por grama entre os bastões com cor. Sem cor, a Ollie Incolor custa menos por grama que o Clear Stick. O veredito resume por perfil.",
+        "Qual protetor em bastão tem mais FPUVA? O Pink Stick, com 70. O Clear Stick declara 50, e os dois bastões da Ollie declaram 40.",
+        "A Ollie tem bastão sem cor? Sim. A página do Bastão Incolor informa FPS 95, FPUVA 40 e 17 g.",
+        "O Pink Stick tem o mesmo FPS da Ollie? Não: o Pink Stick declara 90, e os bastões da Ollie, 95. O quadro “O que cada ficha informa” traz os números lado a lado.",
+        "Qual é o cupom da Pink Cheeks? É o PNK-EMCASACOMCECILIA, com 10% OFF no site da Pink Cheeks, para cliente novo e antigo. Ele não vale na Ollie."
+      ]
+    }
+  ]
+}
