@@ -328301,5 +328301,285 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1401,
+    "slug": "protetor-solar-mineral-ou-quimico-rotulo",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASABIOBIO",
+    "affiliate": "biobio",
+    "type": "Guia de Escolha",
+    "title": "Protetor solar mineral ou químico: como ler o rótulo antes de escolher",
+    "seoTitle": "Protetor solar mineral ou químico: como ler o rótulo",
+    "description": "O que mineral e químico querem dizer no rótulo, o que a norma da Anvisa exige de FPS e UVA e como ler os protetores da BioBio com essa régua, com preço e cupom.",
+    "metaDescription": "Com o EMCASABIOBIO, 10% OFF nos protetores solares da BioBio. Veja como ler FPS, UVA e filtros no rótulo e escolher entre mineral e químico.",
+    "image": "/images/reviews/biobio/protetor-solar-mineral-ou-quimico-rotulo-capa.webp",
+    "imageAlt": "Mão segurando dois tubos do Sunnature Facial FPS 30 da BioBio sobre a textura do protetor, em foto oficial da loja. A capa traz o logo BioBio e a chamada “Mineral ou químico?”.",
+    "cta": {
+      "text": "Se um dos protetores da BioBio faz sentido para você, abra o site oficial pelo botão. O código EMCASABIOBIO entra no resumo da compra, no campo Cupom (opcional), e a linha Cupom de desconto confirma o valor.",
+      "label": "Ir para a BioBio",
+      "url": "https://biobio.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Somos parceiros da BioBio e podemos receber comissão pelo cupom. Ninguém da equipe usou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "protetor-solar-biobio-e-bom"
+      },
+      {
+        "slug": "base-biobio-bastao-cores"
+      },
+      {
+        "slug": "cupom-biobio-como-usar"
+      },
+      {
+        "slug": "black-friday-biobio"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer ler o rótulo de qualquer protetor com a conta do UVA contra o FPS antes de comprar.",
+        "Você quer ver, pela página da loja, qual produto da BioBio se encaixa no seu uso: rosto fora da água, dia de água ou cor."
+      ],
+      "skipIf": [
+        "Você procura um veredito de qual tipo de filtro é melhor: este texto não dá, o mínimo que a norma exige é o mesmo para os dois.",
+        "Você tem melasma ou pele reativa, ou vai passar o produto em bebê: a decisão é do dermatologista ou do pediatra."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Mineral e químico descrevem o tipo de filtro, e a lista de ingredientes mostra qual é: dióxido de titânio e óxido de zinco são os minerais. Os requisitos mínimos da norma da Anvisa são os mesmos para qualquer tipo de filtro, inclusive o UVA, de pelo menos um terço do FPS. A conta da BioBio está mais abaixo."
+        ]
+      },
+      {
+        "heading": "Mineral, físico, químico: o que cada palavra quer dizer no rótulo",
+        "paragraphs": [
+          "Mineral e físico são o mesmo filtro com dois nomes; químico é o outro grupo, e um produto pode ter os dois. A [Sociedade Brasileira de Dermatologia](https://www.sbd.org.br/cuidados/cuidados-diarios-com-a-pele/) (SBD) explica que os fotoprotetores podem ser físicos ou inorgânicos e/ou químicos ou orgânicos, e que os físicos são à base de dióxido de titânio e óxido de zinco. O \"e/ou\" importa: \"mineral ou químico\" nem sempre é a escolha entre dois produtos.",
+          "Nas lojas, \"mineral\" e \"físico\" aparecem lado a lado: o protetor da BioBio usa as duas palavras no mesmo nome, Protetor Solar 100% Físico e Mineral. A norma da Anvisa, a [RDC 629/2022](https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=RDC&numeroAto=00000629&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&codTipo=&desItem=&desItemFim=&cod_menu=1696&cod_modulo=134&pesquisa=true), define protetor solar pela finalidade, a de proteger contra a radiação UVB e UVA \"absorvendo, dispersando ou refletindo a radiação\", sem dividir os produtos em minerais e químicos.",
+          "Regra prática, sem teste nosso: para saber de que tipo é o seu, abra a lista de ingredientes (INCI) e procure os dois nomes minerais. Se são os únicos filtros ali, o produto é só mineral; se há outros filtros na lista, ele combina tipos. Se a frente diz 100% mineral e a lista traz nome que você não conhece, pergunte à marca qual é a função dele. \"Mineral\" e \"100% mineral\" na frente da embalagem são palavras da marca."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/protetor-solar-biobio-e-bom-facial.webp",
+            "alt": "Tubo e caixa do Sunnature Facial FPS 30 da BioBio, com a palavra Mineral na embalagem.",
+            "caption": "Sunnature Facial FPS 30: a palavra Mineral está na frente da embalagem. Foto: BioBio.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30"
+          }
+        ]
+      },
+      {
+        "heading": "FPS 30 ou 50, e o que o UVA diz",
+        "paragraphs": [
+          "FPS 30 e FPS 50 caem na mesma faixa da norma; o número que quase ninguém olha é o UVA. Pela [RDC 629/2022](https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=RDC&numeroAto=00000629&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&codTipo=&desItem=&desItemFim=&cod_menu=1696&cod_modulo=134&pesquisa=true), o FPS é a razão entre a dose de radiação que causa vermelhidão na pele (eritema) com o produto e sem ele, uma medida ligada à queimadura. O fator de proteção UVA, o FPUVA, segue a mesma lógica, mas olha o escurecimento persistente da pele, a reação usada para medir o UVA. A [SBD](https://www.sbd.org.br/cuidados/cuidados-com-a-pele-no-verao/) pede para ler os dois: o FPS, que indica o UVB, e o PPD, que indica o UVA.",
+          "O artigo 12 da norma fixa o mínimo de todo protetor: FPS 6, comprimento de onda crítico de 370 nm e FPUVA de pelo menos um terço do FPS declarado na rotulagem. Para a dúvida entre FPS 30 e 50, o anexo da norma agrupa de 30 a 50 numa faixa só, a de alta proteção, e chama de proteção muito alta o que passa de 50.",
+          "O terço é a regra do protetor solar. Base, BBS e pó entram na mesma conta para comparação; se forem multifuncionais pela norma, a exigência deles é outra, e a embalagem diz qual é o caso.",
+          "A tabela divide o UVA pelo FPS de cada produto da BioBio e compara com o mínimo da norma, um terço, ou 0,33. A loja escreve só \"UVA\" e um número, e a conta trata esse número como o FPUVA da norma."
+        ],
+        "comparisonTable": {
+          "caption": "FPS e UVA vêm da página de cada produto; a divisão é conta nossa.",
+          "headers": [
+            "Produto",
+            "FPS",
+            "UVA",
+            "UVA ÷ FPS",
+            "Contra o mínimo de um terço"
+          ],
+          "rows": [
+            [
+              "Sunnature Facial FPS 30",
+              "30",
+              "16",
+              "0,53",
+              "Acima do mínimo"
+            ],
+            [
+              "Sunnature Kids FPS 50",
+              "50",
+              "25",
+              "0,50",
+              "Acima do mínimo"
+            ],
+            [
+              "Base multifuncional em bastão FPS 33",
+              "33",
+              "25",
+              "0,76",
+              "Acima do mínimo"
+            ],
+            [
+              "BBS Blush, Batom e Sombra FPS 63",
+              "63",
+              "24",
+              "0,38",
+              "Acima do mínimo"
+            ],
+            [
+              "Pó Translúcido Facial FPS 42",
+              "42",
+              "14",
+              "0,33",
+              "Exatamente um terço (14 × 3 = 42)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pelos números da loja, o Facial e o Kids ficam acima do terço. Os três com cor também, e o pó fica exatamente nele. A conta serve para conferir se o rótulo fecha com a regra, não para ordenar produtos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/protetor-solar-biobio-e-bom-kids.webp",
+            "alt": "Caixa e bastão do Sunnature Kids FPS 50 da BioBio, com o número 50 em destaque.",
+            "caption": "Sunnature Kids FPS 50 na embalagem da BioBio. Foto: BioBio.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://biobio.com.br/products/sunnature-kids-biobio-fps-50"
+          }
+        ]
+      },
+      {
+        "heading": "Não nano, natural, vegano, luz azul: o que a loja diz e o que o rótulo mostra",
+        "paragraphs": [
+          "A BioBio descreve os filtros do Facial como \"100% físicos e não nano\" e os do Pó Translúcido como \"100% minerais e não nano\". Aqui, \"não nano\" fica como afirmação da loja, atribuída à página.",
+          "A loja fala em 99,01% de ingredientes de origem natural e proteção contra a luz azul no Facial, e em fórmulas veganas. As definições de FPS e FPUVA da norma tratam de UVB e UVA, e não de luz azul.",
+          "\"Natural\" e \"vegano\" falam da origem dos ingredientes. Não dizem nada sobre FPS nem UVA, que são os números que a norma manda cumprir, e por isso não entram na conta.",
+          "Na BioBio, a lista de ingredientes do Kids FPS 50 e a do BBS FPS 63 traz, além dos dois minerais, o Salicilato de Butiloctila. Se a função dele pesa na sua escolha, pergunte ao SAC da loja ou ao dermatologista."
+        ]
+      },
+      {
+        "heading": "Resíduo branco, cor e acabamento",
+        "paragraphs": [
+          "A SBD lembra que os protetores físicos não eram bem aceitos antigamente por deixarem a pele esbranquiçada, e diz que isso tem sido minimizado. As páginas dos produtos descrevem assim: o Facial é sem cor, de toque seco e baixo resíduo branco; o Kids começa branco e, diz a loja, se adapta ao tom da pele ao espalhar. Como cada um fica na sua pele só o uso mostra.",
+          "Quem quer cor tem na BioBio a base em bastão (FPS 33), o BBS (FPS 63) e o pó (FPS 42). A norma separa o protetor solar, com a proteção como finalidade principal, do produto multifuncional, em que ela é um benefício adicional, e o multifuncional que declara FPS deve trazer a frase \"Este produto não é um protetor solar\" (artigos 17 e 18). A embalagem diz em qual caso cada um se enquadra. Se a base com FPS substitui o protetor está no [guia da base em bastão](/reviews/base-biobio-bastao-cores)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/base-biobio-bastao-cores-trio-essencial.webp",
+            "alt": "O Trio Essencial da BioBio, com o BBS, o pó facial e a base em bastão",
+            "caption": "O Trio Essencial: BBS, pó facial e base. Foto: BioBio",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Quanto passar, quando reaplicar e a água",
+        "paragraphs": [
+          "A quantidade e a reaplicação pesam tanto quanto o número do rótulo, e é o próprio rótulo que avisa. A norma obriga o rótulo a trazer advertências que mudam o uso (artigo 15). A reaplicação é necessária para manter a efetividade, e o produto deve ser aplicado abundantemente antes da exposição ao sol. Deve-se reaplicar após suor intenso, nado ou banho, toalha e durante a exposição. Se a quantidade aplicada não for adequada, o nível de proteção será significativamente reduzido. O artigo 14 proíbe prometer proteção total ou a possibilidade de não reaplicar.",
+          "A SBD indica uma colher de chá rasa para o rosto e três colheres de sopa para o corpo e, no [guia da campanha Dezembro Laranja](https://www.sbd.org.br/sociedade-de-dermatologia-lanca-guia-para-orientar-a-populacao-a-como-se-proteger-dos-raios-solares-e-evitar-o-cancer-de-pele/), duas colheres de chá para rosto, cabeça e pescoço. As duas doses são da SBD, e nenhuma vem em gramas, então o texto fica na colher. A SBD manda reaplicar a cada duas horas, ou antes disso se houver muita transpiração ou entrada na água.",
+          "\"Resistente à água\" só pode constar no rótulo com comprovação pelo método da norma (artigo 13). A BioBio informa que o Kids resiste à água e ao suor por até 40 minutos e que o Facial não é resistente à água. As duas páginas pedem reaplicação depois de molhar ou suar."
+        ],
+        "checklist": {
+          "title": "Antes de comprar, confira no rótulo",
+          "items": [
+            "O FPS declarado e a faixa dele na norma: de 30 a 50 é alta proteção, acima de 50 é proteção muito alta.",
+            "Multiplique o UVA por 3: o resultado tem de ser igual ao FPS ou maior.",
+            "Na lista de ingredientes, os filtros: dióxido de titânio e óxido de zinco são os minerais; outros nomes de filtro indicam outro tipo.",
+            "A resistência à água: só vale se estiver declarada, e a reaplicação continua valendo depois de molhar ou suar.",
+            "As advertências obrigatórias, como a de reaplicar, e a quantidade que a SBD indica, em colher."
+          ]
+        }
+      },
+      {
+        "heading": "O que a BioBio tem, lido pelo rótulo",
+        "paragraphs": [
+          "São cinco produtos com FPS, dois deles protetores e três com cor. A tabela junta o que a página de cada um informa e o preço do dia, com o EMCASABIOBIO. O [cupom BioBio](/cupons/biobio) dá 10% OFF no site oficial, vale para cliente novo e antigo e entra no Resumo da compra: clique em Inserir cupom de desconto, digite o código no campo Cupom (opcional) e clique em Adicionar. Confira a linha Cupom de desconto antes de pagar; o [passo a passo do checkout](/reviews/cupom-biobio-como-usar) mostra a tela."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do dia no site, 23/11. Com o código: conta nossa, 10% sobre esse preço; no nosso teste de checkout, o desconto saiu no Facial.",
+          "headers": [
+            "Produto",
+            "Conteúdo",
+            "Filtros que a loja lista",
+            "Preço do dia",
+            "Com EMCASABIOBIO"
+          ],
+          "rows": [
+            [
+              "[Sunnature Facial FPS 30](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30)",
+              "50 g",
+              "Dióxido de titânio e óxido de zinco",
+              "R$ 104,93",
+              "R$ 94,44"
+            ],
+            [
+              "[Sunnature Kids FPS 50](https://biobio.com.br/products/sunnature-kids-biobio-fps-50), em bastão",
+              "13 g",
+              "Óxido de zinco e dióxido de titânio",
+              "R$ 97,93",
+              "R$ 88,14"
+            ],
+            [
+              "[Base multifuncional em bastão FPS 33](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
+              "14 g",
+              "Dióxido de titânio e óxido de zinco",
+              "R$ 111,92 a R$ 123,11, conforme o tom",
+              "R$ 100,73 a R$ 110,80"
+            ],
+            [
+              "[BBS Blush, Batom e Sombra FPS 63](https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63)",
+              "4,5 g",
+              "Dióxido de titânio e óxido de zinco",
+              "R$ 59,94 a R$ 87,91, conforme a cor",
+              "R$ 53,95 a R$ 79,12"
+            ],
+            [
+              "[Pó Translúcido Facial FPS 42](https://biobio.com.br/products/po-translucido-facial-sunnature-fps-42)",
+              "4 g",
+              "Óxido de zinco e dióxido de titânio",
+              "R$ 114,31",
+              "R$ 102,88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279; nas outras regiões e abaixo disso, o frete sai pelo CEP, no checkout."
+        ]
+      },
+      {
+        "heading": "Como escolher por situação",
+        "paragraphs": [
+          "A escolha sai do que o rótulo responde: água, cor e UVA."
+        ],
+        "bullets": [
+          "Água: a loja diz que o Kids resiste à água e ao suor por até 40 minutos e que o Facial não resiste; para rosto de adulto fora da água, o Facial é sem cor. Em criança, a norma manda consultar um médico abaixo de 6 meses e a SBD recomenda orientação de pediatra ou dermatologista; o [guia do protetor BioBio](/reviews/protetor-solar-biobio-e-bom) tem o capítulo do Kids.",
+          "Cor: base, BBS ou pó, depois de conferir a embalagem como no capítulo da cor.",
+          "UVA: o Facial tem FPS 30 e UVA 16, e o Kids, FPS 50 e UVA 25; a tabela do capítulo do UVA traz os cinco produtos.",
+          "Melasma, pele reativa, gravidez ou amamentação: quem decide é o dermatologista ou o médico, e nem o rótulo nem este texto o substituem."
+        ],
+        "emphasis": "Eu leria primeiro o que a norma manda cumprir, o FPS e o UVA, depois a quantidade e a reaplicação, e só então o tipo de filtro."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a diferença entre protetor solar mineral e químico, e quais são? Pela SBD, os físicos ou inorgânicos, que são os minerais, são à base de dióxido de titânio e óxido de zinco; os químicos ou orgânicos formam o outro grupo, e um produto pode ter os dois tipos. Os filtros químicos aparecem na lista de ingredientes do rótulo.",
+          "Protetor solar mineral é melhor que o químico? Os requisitos mínimos da norma são os mesmos para qualquer tipo de filtro: o artigo 12 (FPS mínimo de 6, FPUVA de pelo menos um terço do FPS e comprimento de onda crítico de 370 nm) não separa por tipo. A SBD descreve os dois tipos e pede um produto de amplo espectro. A escolha é de rotina e de pele; na dúvida, o dermatologista.",
+          "Qual é o cupom da BioBio? EMCASABIOBIO, com 10% OFF no site oficial, para cliente novo e antigo. Ele entra no Resumo da compra, no campo Cupom (opcional); o capítulo dos produtos mostra o caminho.",
+          "FPS 30 ou 50: qual escolher? Pelo anexo da RDC 629/2022, de 30 a 50 é a mesma faixa, a de alta proteção, e acima de 50 é proteção muito alta. Antes do número, olhe o UVA, a resistência à água, que só vale com comprovação, e a quantidade que você passa. O capítulo sobre o UVA traz a conta.",
+          "O que é UVA no rótulo do protetor solar? Pela norma, o fator de proteção UVA mede o escurecimento persistente da pele e tem um mínimo ligado ao FPS. O capítulo sobre o UVA explica a regra e traz a conta dos produtos da BioBio."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-24"
   }
 ];

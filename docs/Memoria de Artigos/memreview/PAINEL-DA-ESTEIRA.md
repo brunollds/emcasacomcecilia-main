@@ -36,6 +36,7 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
+- [ ] [[protetor-solar-mineral-ou-quimico-rotulo]]: Protetor solar mineral ou químico: como ler o rótulo antes de escolher (só PT, id 1401; BI7, Conta 2; gates verdes em 23/11/2026, aguarda o GO do Bruno)
 - [ ] [[creatina-mais-mu-e-pura]]: Creatina Mais Mu é pura? Creapure, rótulo e preço por dose (só PT, id 1310; MU1, MMEMCASACOMCECILIA, Mais Mu; PR #1395, aguardando deploy)
 - [ ] [[barra-bold-saudavel-rotulo]]: Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo (só PT, id 1311; BO9, CECILIA15, BOLD; PR #1396, aguardando deploy)
 - [ ] [[denavita-ou-rituaria]]: Denavita ou Rituária: qual escolher por produto, rótulo e preço por dia (só PT, id 1312; DV9, EMCASA, Denavita e Rituária; PR #1396, aguardando deploy)
