@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { getAllActiveCouponSlugs, getCouponBySlug, getPendingLimitedCodes } from '@/lib/couponsData';
 import { buildAnswer, buildStoreAnswer } from '@/lib/dica/answer';
 import { getCatalog, getVocabulary, normalize } from '@/lib/dica/catalog';
+import { handleQuestion, visitorIp } from '@/lib/dica/handleQuestion';
 import { interpretQuestion } from '@/lib/dica/interpret';
 import { cacheGet, cacheSet, checkVisitor, resetDicaLimitsForTests, takeAiSlot } from '@/lib/dica/limits';
 import { logQuestion, resetQuestionLogForTests, scrubPersonalData } from '@/lib/dica/questionLog';
@@ -212,6 +213,51 @@ async function main() {
   } finally {
     rmSync(logDir, { recursive: true, force: true });
   }
+
+  // A rota: validação, dado pessoal fora da IA, cache, nome de loja, reserva e limite.
+  resetDicaLimitsForTests();
+  let aiCalls = 0;
+  const seen: string[] = [];
+  const fakeAi: typeof interpretQuestion = async (question) => {
+    aiCalls += 1;
+    seen.push(question);
+    return { terms: ['whey protein'], searchTerm: 'whey', outOfScope: false };
+  };
+  const noLog = async () => {};
+  let clock = Date.parse('2026-11-24T10:00:00-03:00');
+  const ask = (q: unknown, ip = '9.9.9.9', interpret: typeof interpretQuestion = fakeAi) => {
+    clock += 10_000;
+    return handleQuestion({ q, ip, now: clock, interpret, log: noLog });
+  };
+  for (const bad of ['   ', 'a', 'x'.repeat(201), 42, '👍👍', undefined]) {
+    assert.equal((await ask(bad)).status, 400, `pergunta inválida aceita: ${String(bad).slice(0, 20)}`);
+  }
+  assert.equal(aiCalls, 0, 'a IA foi chamada com pergunta inválida');
+
+  const first = await ask('Tem whey? meu cpf 123.456.789-00', '4.4.4.4');
+  assert.equal(first.status, 200);
+  assert.equal((first.body as { result: string }).result, 'parceiros');
+  assert.ok(!seen[0].includes('123'), 'o CPF chegou à IA');
+  await ask('tem whey? meu cpf 123.456.789-00', '5.5.5.5');
+  assert.equal(aiCalls, 1, 'a mesma pergunta chamou a IA duas vezes');
+
+  const storeAnswer = await ask('cupom insider', '6.6.6.6');
+  assert.equal((storeAnswer.body as { cards: { slug: string }[] }).cards[0]?.slug, 'insider');
+  assert.equal(aiCalls, 1, 'o nome da loja chamou a IA');
+
+  const fallback = await ask('tem sofá?', '7.7.7.7', async () => null);
+  assert.equal((fallback.body as { result: string }).result, 'reserva-parceiros');
+  const fallbackDicas = await ask('tem anel de prata?', '7.7.7.8', async () => null);
+  assert.equal((fallbackDicas.body as { dicasUrl?: string }).dicasUrl, 'https://dicas.emcasacomcecilia.com/?q=anel%20de%20prata');
+
+  const burst = await handleQuestion({ q: 'tem whey?', ip: '7.7.7.8', now: clock + 1000, interpret: fakeAi, log: noLog });
+  assert.equal(burst.status, 429, '2ª pergunta do mesmo IP em 1 s');
+  assert.ok(burst.retryAfterSec && burst.retryAfterSec >= 1);
+  assert.equal((burst.body as { result: string }).result, 'limite');
+
+  assert.equal(visitorIp(new Headers({ 'cf-connecting-ip': '1.2.3.4', 'x-forwarded-for': '5.6.7.8' })), '1.2.3.4');
+  assert.equal(visitorIp(new Headers({ 'x-forwarded-for': '5.6.7.8, 10.0.0.1' })), '5.6.7.8');
+  resetDicaLimitsForTests();
 
   console.log(`✅ dica: ${catalog.length} lojas no catálogo, ${vocabulary.size} termos no vocabulário.`);
 }
