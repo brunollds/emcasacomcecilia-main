@@ -147,28 +147,26 @@ assert.ok(boostedEvent, 'content/home-events.json sem a data em reta final');
 const ptGuideFamilies = boostedEvent.articleSlugs.map(
   (slug) => publishedReviews.find((review) => review.slug === slug && isListedInPortuguese(review))?.translationKey
 );
-const PT_EVENT = { suffix: ', guia da Black Friday', showLess: 'Mostrar menos', description: boostedEvent.description };
+const PT_EVENT = { suffix: ', guia da Black Friday', showLess: 'Mostrar menos' };
 // Árabe: كوبون, قسيمة/قسائم e كود/رمز (ال)خصم.
 const COUPON_WORDS = /cup[oó]n|coupon|gutschein|クーポン|쿠폰|優惠券|优惠券|كوبون|قسيمة|قسائم|(كود|رمز) (ال)?خصم/i;
 for (const locale of LOCALE_HOME_LOCALES) {
   const copy = LOCALE_EVENT_COPY[boostedEvent.id][locale];
-  for (const text of [copy.title, copy.description, copy.guideSuffix, copy.showAll, copy.showLess, ...Object.values(copy.countdown)]) {
+  for (const text of [copy.title, copy.guideSuffix, copy.showAll, copy.showLess, ...Object.values(copy.countdown)]) {
     assert.ok(text.trim(), `${locale}: texto da Black Friday vazio`);
     assert.doesNotMatch(text, COUPON_WORDS, `${locale}: a seção chama de cupom o que pode ser código de recompensa ou indicação`);
     assert.doesNotMatch(text, /bra[sz]il|브라질|ブラジル|巴西|البرازيل/i, `${locale}: a seção cita o Brasil`);
   }
-  assert.notEqual(copy.description, PT_EVENT.description, `${locale}: descrição igual à do PT`);
   assert.notEqual(copy.guideSuffix, PT_EVENT.suffix, `${locale}: trecho do leitor de tela igual ao do PT`);
   // O espanhol escreve "Mostrar menos" como o português.
   if (locale !== 'es') assert.notEqual(copy.showLess, PT_EVENT.showLess, `${locale}: "Mostrar menos" igual ao do PT`);
   assert.match(copy.countdown.days, /\{days\}/, `${locale}: contagem sem {days}`);
   assert.match(copy.showAll, /\{total\}/, `${locale}: botão sem {total}`);
   if (locale === 'de') {
-    for (const text of [copy.description, copy.showAll, copy.showLess]) {
+    for (const text of [copy.showAll, copy.showLess]) {
       assert.doesNotMatch(text, /\b(du|dein\w*|euch)\b/i, 'de: "du" na Black Friday');
     }
   }
-  if (locale === 'fr') assert.doesNotMatch(copy.description, /[^ ][:?!;]/, 'fr: sem espaço fino antes da pontuação');
 
   // Os guias esperados: as famílias da lista PT com versão listada no idioma e loja com página no hub.
   const listed = getPublishedReviewsForLocale(locale, publishedReviews);
@@ -198,7 +196,6 @@ for (const locale of LOCALE_HOME_LOCALES) {
     assert.equal(guide.discount, tab?.discount, `${locale}/${guide.slug}: desconto diferente do da aba (o do hub)`);
   }
   assert.equal(event.hubLink, undefined, `${locale}: "Ver tudo" sem página de Black Friday no idioma`);
-  assert.equal(event.seasonNotice, undefined, `${locale}: aviso de temporada das lojas PT`);
   assert.equal(event.countdownLabel, copy.countdown.days.replace('{days}', '2'), `${locale}: contagem em 25/11`);
   assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-11-26T12:00:00-03:00'))?.countdownLabel, copy.countdown.tomorrow);
   assert.equal(getLocaleHomeEvent(locale, publishedReviews, at('2026-11-27T12:00:00-03:00'))?.countdownLabel, copy.countdown.today);
@@ -215,7 +212,8 @@ for (const locale of LOCALE_HOME_LOCALES) {
   assert.ok(!html.includes('data-reveal'), `${locale}: data-reveal na seção`);
   assert.equal(html.includes('<button'), event.guides.length > MOBILE_VISIBLE_GUIDES, `${locale}: o botão não segue o número de guias`);
   assert.equal(text.split(copy.guideSuffix).length - 1, event.guides.length, `${locale}: trecho do leitor de tela`);
-  assert.ok(text.includes(copy.title) && text.includes(copy.description) && text.includes(event.dayLabel), `${locale}: título, descrição ou dia`);
+  assert.ok(text.includes(copy.title) && text.includes(event.countdownLabel), `${locale}: título ou contagem`);
+  assert.equal(html.match(/<p\b/g)?.length, 1, `${locale}: o único parágrafo da seção é a contagem`);
   assert.doesNotMatch(text, /guia d|Mostrar todos os|faltam|lojas parceiras|Black Friday 2026 das/, `${locale}: texto em português na seção`);
 }
 // Outra edição (outra data ou outro ano) sem textos nos idiomas não aparece fora do PT.

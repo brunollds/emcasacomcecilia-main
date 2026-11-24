@@ -13,7 +13,8 @@ import { MOBILE_VISIBLE_GUIDES, type EventTheme, type HomeEventCard, type HomeEv
 
 // Data comercial na home, entre "Acabou de sair" e "Receitas": só aparece com uma data em campanha
 // (content/home-events.json). Os cards não mostram código; "Ver o código" leva à aba da loja na
-// vitrine, onde o código fica. A página da data (/black-friday) reusa o EventCard. Na reta final (boost),
+// vitrine, onde o código fica. O topo da faixa é só o título e a contagem ("faltam 3 dias"); a descrição e o dia
+// ficam na página da data (/black-friday), que reusa o EventCard. Na reta final (boost),
 // a seção sobe para logo abaixo da vitrine e troca os 4 cards por todos os guias: na home em português, o carrossel
 // de capas que segue a bolinha da vitrine (EventGuidesCarousel); nas dos outros idiomas, a grade de cards compactos.
 
@@ -67,33 +68,22 @@ export function HomeEvent({ event }: { event: ResolvedHomeEvent }) {
       <div
         className={`flex flex-col gap-3.5 border-y-2 border-marinho pt-[22px] pb-[18px] md:gap-[22px] md:rounded-[14px] md:border-2 md:px-8 md:py-7 md:shadow-[0_6px_0_var(--color-marinho)] ${theme.band}`}
       >
-        <div className="flex flex-wrap items-start justify-between gap-x-4 gap-y-2.5 px-4 md:items-end md:gap-x-6 md:gap-y-3 md:px-0">
-          <div className="flex min-w-0 flex-[1_1_220px] flex-col gap-2 md:flex-[1_1_420px]">
-            <h2
-              id="titulo-data-comercial"
-              className={`font-condensada leading-[0.95] font-black font-stretch-extra-condensed ${WIDE_SCRIPT.test(event.title) ? 'text-[32px] md:text-[56px]' : 'text-[44px] md:text-[64px]'} ${theme.title}`}
-            >
-              {event.title}
-            </h2>
-            <p className="max-w-[60ch] text-sm leading-[1.45] font-semibold md:text-[15px]">{event.description}</p>
-          </div>
-          <div className="flex flex-none flex-wrap items-center gap-x-3 gap-y-1.5">
-            <p className="text-[13px] font-bold">
-              <time dateTime={event.dayDate}>{event.dayLabel}</time>
-            </p>
-            <p
-              className={`font-condensada rounded-full px-3.5 pt-1.5 pb-2 text-[22px] leading-none font-black font-stretch-extra-condensed md:text-[28px] ${theme.pill}`}
-            >
-              {event.countdownLabel}
-            </p>
-          </div>
+        <div className="flex flex-wrap items-center gap-x-3.5 gap-y-2 px-4 md:gap-x-5 md:px-0">
+          <h2
+            id="titulo-data-comercial"
+            className={`font-condensada leading-[0.95] font-black font-stretch-extra-condensed ${WIDE_SCRIPT.test(event.title) ? 'text-[32px] md:text-[56px]' : 'text-[44px] md:text-[64px]'} ${theme.title}`}
+          >
+            {event.title}
+          </h2>
+          <p
+            className={`font-condensada flex-none rounded-full px-3.5 pt-1.5 pb-2 text-[22px] leading-none font-black font-stretch-extra-condensed md:text-[28px] ${theme.pill}`}
+          >
+            {event.countdownLabel}
+          </p>
         </div>
 
         {event.guides ? (
           <>
-            {event.seasonNotice ? (
-              <p className="px-4 text-[13px] leading-[1.4] font-bold md:px-0">{event.seasonNotice}</p>
-            ) : null}
             {event.carousel ? (
               <div className="md:-mx-2">
                 <EventGuidesCarousel

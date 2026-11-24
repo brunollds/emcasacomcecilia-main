@@ -3857,7 +3857,7 @@ function localeEventProblems(body: string, locale: string, event: ReturnType<typ
   if (links !== (event.guides ?? []).map((guide) => hrefOf(guide.href)).join(' ')) problems.push('guias, ordem ou link a mais na seção');
   if (!(event.guides ?? []).every((guide) => guide.href.startsWith(`/${locale}/reviews/`))) problems.push('guia fora do idioma');
   if (/<button\b/.test(section) !== (event.guides ?? []).length > MOBILE_VISIBLE_GUIDES) problems.push('o botão de mostrar todos não segue o número de guias');
-  if (!section.includes(escapeHtml(event.description))) problems.push('sem a descrição do idioma');
+  if (!section.includes(escapeHtml(event.countdownLabel))) problems.push('sem a contagem do idioma');
   return problems;
 }
 

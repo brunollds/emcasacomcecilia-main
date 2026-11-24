@@ -119,8 +119,10 @@ export default function TextToSpeechButton({
     setStatus('idle');
   }
 
-  // Intentional null-render when unsupported: prevents hydration mismatch and gracefully degrades.
-  if (!isSupported || !text) {
+  // O botão já sai no HTML do servidor, para o lugar dele estar reservado: no artigo ele divide a linha com o título
+  // da primeira seção, que ganharia uma linha se o botão só chegasse com o JavaScript. Depois da hidratação, o
+  // navegador sem leitura em voz alta fica sem o botão.
+  if (!text || (isHydrated && !isSupported)) {
     return null;
   }
 

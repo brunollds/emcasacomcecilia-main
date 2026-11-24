@@ -335412,7 +335412,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "23 de novembro de 2026",
     "publishedAtISO": "2026-11-23",
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "imageFit": "contain",
@@ -335421,11 +335421,11 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "coupon": "BAWEMCASACOMCECILIA",
     "affiliate": "baw",
-    "title": "BAW ou Carnan? Preço de tabela por peça, grade e o que cada marca vende",
+    "title": "BAW ou Carnan? Se vestir com estilo não precisa custar uma fortuna",
     "seoTitle": "BAW ou Carnan? Preço de tabela e o que cada uma vende",
     "type": "Comparativo",
-    "description": "BAW e Carnan lado a lado pelo preço de tabela: camiseta, moletom, calça, bermuda e boné, a grade que cada uma publica, o que cada marca vende e a troca de cada loja.",
-    "metaDescription": "Com o BAWEMCASACOMCECILIA, 10% OFF na BAW. BAW ou Carnan: camiseta, moletom, calça e bermuda pelo preço de tabela, a grade de cada uma e o que vendem.",
+    "description": "BAW e Carnan lado a lado pelo preço de tabela: camiseta, moletom, calça, bermuda e boné, os tamanhos que cada uma publica, o que cada marca vende e a troca de cada loja.",
+    "metaDescription": "Com o BAWEMCASACOMCECILIA, 10% OFF na BAW. BAW ou Carnan: camiseta, moletom, calça e bermuda pelo preço de tabela, tamanhos e o que cada uma vende.",
     "image": "/images/reviews/baw/baw-ou-carnan-capa.webp",
     "imageAlt": "Modelo com moletom sem mangas cinza, com estampa colorida da BAW, em foto da loja.",
     "cta": {
@@ -335469,7 +335469,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada uma pelo preço de tabela",
         "paragraphs": [
-          "A conta usa o preço de tabela, o valor “De” de cada site, e não o do dia. No dia da leitura, a Carnan estava em liquidação em quase todo o catálogo, e a BAW, em campanha de Black Friday, então o preço do dia muda a comparação.",
+          "A conta usa o preço de tabela, o valor “De” de cada site, e não o do dia. No dia da comparação, as duas lojas estavam em campanha, a Carnan em liquidação e a BAW na Black Friday, por isso o preço e o estoque podem mudar sem aviso.",
           "Na Carnan, a Draw T-shirt tem tabela de R$ 329 e o Signature Crewneck, de R$ 689. As cinco calças lidas vão de R$ 899 a R$ 1.499. Na BAW, a [Camiseta Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896) tem tabela de R$ 159 e o [Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918), de R$ 349."
         ],
         "comparisonTable": {
@@ -335529,15 +335529,15 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Grade e medidas que cada marca publica",
+        "heading": "Tamanhos e medidas que cada marca publica",
         "paragraphs": [
           "As duas lojas publicam a medida de cada peça por tamanho. A tabela põe lado a lado o tamanho M de uma camiseta e de um moletom de cada uma, no formato comprimento / tórax em centímetros. A Carnan chama o comprimento de altura."
         ],
         "comparisonTable": {
-          "caption": "Grade e tamanho M, em cm (comprimento / tórax), das fichas de cada loja.",
+          "caption": "Tamanhos da ficha e medidas do M, em cm (comprimento / tórax), de cada loja.",
           "headers": [
             "Peça",
-            "Grade da ficha",
+            "Tamanhos da ficha",
             "Tamanho M"
           ],
           "rows": [
@@ -335570,7 +335570,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A Carnan informa variação de até 1,5 cm nas medidas, e a BAW, de até 3%. Os números não são comparáveis um a um: cada loja mede à sua maneira, e a BAW não explica como mediu o tórax. Use a tabela da peça que você quer, e não a de outra marca.",
-          "As calças da Carnan vão de 36 a 50. Na BAW, a grade muda por peça, e as medidas de todas as peças com ficha estão na [tabela de medidas da BAW](/reviews/tabela-medidas-baw)."
+          "As calças da Carnan vão de 36 a 50. Na BAW, os tamanhos mudam por peça, e as medidas de todas as peças com ficha estão na [tabela de medidas da BAW](/reviews/tabela-medidas-baw)."
         ]
       },
       {
