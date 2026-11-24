@@ -13,7 +13,7 @@
   },
   "publishedAt": "16 de novembro de 2026",
   "publishedAtISO": "2026-11-16",
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -39,6 +39,9 @@
   "relatedArticles": [
     {
       "slug": "baw-clothing-e-confiavel"
+    },
+    {
+      "slug": "tabela-medidas-baw"
     },
     {
       "slug": "black-friday-baw"
@@ -102,49 +105,7 @@
     {
       "heading": "Regular ou oversized: o que muda em centímetros",
       "paragraphs": [
-        "As descrições preenchidas trazem as medidas da peça por tamanho. Duas camisetas, no tamanho M:"
-      ],
-      "comparisonTable": {
-        "caption": "Medidas das descrições da loja, que avisam variação de até 3%.",
-        "headers": [
-          "Camiseta (tamanho M)",
-          "Comprimento",
-          "Tórax"
-        ],
-        "rows": [
-          [
-            "[Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490)",
-            "70 cm",
-            "54 cm"
-          ],
-          [
-            "[Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896)",
-            "72 cm",
-            "61 cm"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "Nessas duas peças, a oversized tem 2 cm a mais de comprimento e 7 cm a mais de tórax que a regular.",
-        "O nome da modelagem não garante a medida. A [Camiseta BR Regular Logo](https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962), também chamada de regular, traz 76 cm de comprimento e 58 cm de tórax no M, mais que a Regular Selfie Logo. Confira a tabela do modelo que você quer. Antes de comparar com uma camiseta sua, confirme com a BAW como foram tomadas as medidas de tórax; as descrições consultadas não explicam esse método."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/baw/baw-clothing-e-boa-camiseta-br-regular-logo.webp",
-          "alt": "Modelo com a Camiseta BR Regular Logo preta da BAW Clothing, com o logo pequeno no peito, em foto oficial da loja",
-          "caption": "Camiseta BR Regular Logo, na cor preta. Foto: BAW Clothing.",
-          "objectFit": "contain",
-          "aspectRatio": 0.667,
-          "href": "https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962"
-        },
-        {
-          "src": "/images/reviews/baw/baw-clothing-e-boa-camiseta-oversized-subscript.webp",
-          "alt": "Modelo de corpo inteiro com a Camiseta Oversized BAW Subscript off white da BAW Clothing e bermuda cargo preta, em foto oficial da loja",
-          "caption": "Camiseta Oversized BAW Subscript, na cor off white. Foto: BAW Clothing.",
-          "objectFit": "contain",
-          "aspectRatio": 0.667,
-          "href": "https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896"
-        }
+        "As descrições preenchidas trazem as medidas da peça por tamanho, mas o nome da modelagem não garante a medida: no M, a [Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490) tem 70 cm de comprimento e 54 cm de tórax, a [BR Regular Logo](https://www.bawclothing.com.br/produto/camiseta-br-regular-logo-153962), também chamada de regular, tem 76 cm e 58 cm, e a [Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896), 72 cm e 61 cm. A loja avisa variação de até 3% e as descrições não explicam como o tórax foi medido. A tabela de cada peça, tamanho por tamanho, está em [tabela de medidas BAW](/reviews/tabela-medidas-baw)."
       ],
       "styling": {
         "layout": "tabs",
@@ -304,7 +265,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "A BAW Clothing é uma marca boa? Pelas páginas, dá para conferir parte das peças. As descrições preenchidas trazem composição e medidas por tamanho, mas várias estavam vazias. Não usamos as peças, então não avaliamos qualidade nem durabilidade.",
-        "A camiseta oversized da BAW é muito grande? Pela descrição da Oversized BAW Subscript, o M tem 72 cm de comprimento e 61 cm de tórax. Compare com uma camiseta sua antes de escolher.",
+        "A camiseta oversized da BAW é muito grande? Pela descrição da Oversized BAW Subscript, o M tem 72 cm de comprimento e 61 cm de tórax. Compare com uma camiseta sua antes de escolher. As demais peças estão na [tabela de medidas BAW](/reviews/tabela-medidas-baw).",
         "O tênis da BAW é bom? Não dá para dizer pelas páginas. Nos tênis que abrimos, a descrição estava vazia, sem material e sem tabela de pé.",
         "As roupas da BAW são de algodão? Parte delas. As duas camisetas com composição na descrição são de algodão, e os moletons variam: um modelo traz 100% algodão e outro, 50% algodão e 50% poliéster.",
         "A BAW troca se não servir? Troca por crédito no valor pago, sem troca direta por outro tamanho. Quem prefere o dinheiro pede a devolução em até 7 dias corridos do recebimento."

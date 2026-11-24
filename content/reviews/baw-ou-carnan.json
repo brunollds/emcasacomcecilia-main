@@ -1,0 +1,212 @@
+{
+  "id": 1317,
+  "slug": "baw-ou-carnan",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "23 de novembro de 2026",
+  "publishedAtISO": "2026-11-23",
+  "updatedAt": "2026-11-23",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "BAWEMCASACOMCECILIA",
+  "affiliate": "baw",
+  "title": "BAW ou Carnan? Preço de tabela por peça, grade e o que cada marca vende",
+  "seoTitle": "BAW ou Carnan? Preço de tabela e o que cada uma vende",
+  "type": "Comparativo",
+  "description": "BAW e Carnan lado a lado pelo preço de tabela: camiseta, moletom, calça, bermuda e boné, a grade que cada uma publica, o que cada marca vende e a troca de cada loja.",
+  "metaDescription": "Com o BAWEMCASACOMCECILIA, 10% OFF na BAW. BAW ou Carnan: camiseta, moletom, calça e bermuda pelo preço de tabela, a grade de cada uma e o que vendem.",
+  "image": "/images/reviews/baw/baw-ou-carnan-capa.webp",
+  "imageAlt": "Modelo com moletom sem mangas cinza, com estampa colorida da BAW, em foto da loja.",
+  "cta": {
+    "text": "Se a faixa de preço da BAW serve para você, abra o site oficial pelo botão, escolha a peça e digite BAWEMCASACOMCECILIA no campo “Cupom de desconto”, no carrinho.",
+    "label": "Ir para a BAW Clothing",
+    "url": "https://www.bawclothing.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Comissão pelo cupom da BAW; a Carnan não é parceira. Não usamos os produtos.",
+  "relatedArticles": [
+    {
+      "slug": "baw-ou-pace"
+    },
+    {
+      "slug": "tabela-medidas-baw"
+    },
+    {
+      "slug": "baw-clothing-e-boa"
+    },
+    {
+      "slug": "black-friday-baw"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "você quer pagar menos por camiseta, moletom, calça e bermuda, já que a tabela da BAW é bem mais baixa nesses tipos de peça.",
+      "você quer usar o BAWEMCASACOMCECILIA, que dá 10% OFF no site da BAW."
+    ],
+    "skipIf": [
+      "você prefere o estilo que a Carnan declara, de inspirações multiculturais, e o preço de tabela dela cabe no seu orçamento.",
+      "você quer trocar direto por outro tamanho: na BAW, a troca vira crédito e o dinheiro volta só na devolução."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "BAW e Carnan são marcas brasileiras de roupa em faixas de preço bem diferentes. Pelo preço de tabela, a BAW fica abaixo da Carnan em camiseta, moletom, calça e bermuda, e o BAWEMCASACOMCECILIA dá 10% OFF no site da BAW. A BAW se diz streetwear, e a Carnan fala em inspirações multiculturais."
+      ]
+    },
+    {
+      "heading": "Quanto custa cada uma pelo preço de tabela",
+      "paragraphs": [
+        "A conta usa o preço de tabela, o valor “De” de cada site, e não o do dia. No dia da leitura, a Carnan estava em liquidação em quase todo o catálogo, e a BAW, em campanha de Black Friday, então o preço do dia muda a comparação.",
+        "Na Carnan, a Draw T-shirt tem tabela de R$ 329 e o Signature Crewneck, de R$ 689. As cinco calças lidas vão de R$ 899 a R$ 1.499. Na BAW, a [Camiseta Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896) tem tabela de R$ 159 e o [Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918), de R$ 349."
+      ],
+      "comparisonTable": {
+        "caption": "Preço de tabela (valor “De”) nos sites oficiais, lido em 23 de novembro de 2026, antes do frete e sem o desconto de campanha de cada loja. Última coluna: o código aplicado sobre a tabela da BAW.",
+        "headers": [
+          "Tipo de peça",
+          "BAW, tabela",
+          "Carnan, tabela",
+          "10% sobre a tabela (conta nossa)"
+        ],
+        "rows": [
+          [
+            "Camiseta",
+            "De R$ 89 a R$ 159",
+            "De R$ 299 a R$ 409",
+            "De R$ 80,10 a R$ 143,10"
+          ],
+          [
+            "Moletom",
+            "De R$ 249 a R$ 349",
+            "De R$ 649 a R$ 689",
+            "De R$ 224,10 a R$ 314,10"
+          ],
+          [
+            "Calça",
+            "R$ 349, [Calça Track BAW Tag](https://www.bawclothing.com.br/produto/calca-track-baw-tag-151973)",
+            "De R$ 899 a R$ 1.499",
+            "R$ 314,10"
+          ],
+          [
+            "Bermuda",
+            "R$ 199, [Bermuda Jeans Regular Logo](https://www.bawclothing.com.br/produto/bermuda-jeans-regular-logo-153450)",
+            "De R$ 429 a R$ 709",
+            "R$ 179,10"
+          ],
+          [
+            "Boné",
+            "De R$ 159 a R$ 249",
+            "De R$ 249 a R$ 299",
+            "De R$ 143,10 a R$ 224,10"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Na BAW, camiseta e moletom entram com as peças que lemos, e calça e bermuda, com uma peça de cada. A conta da última coluna é nossa: no site, o código incide sobre o preço que estiver na página, que pode ser menor que o de tabela, e o resumo do pedido mostra o valor final. O Pix, com 5% de desconto na BAW segundo a loja, não entra na conta.",
+        "Na tabela, a peça mais cara da BAW lida em cada tipo custa menos que a mais barata da Carnan: R$ 159 contra R$ 299 nas camisetas, R$ 349 contra R$ 649 nos moletons, R$ 349 contra R$ 899 nas calças e R$ 199 contra R$ 429 nas bermudas. Nos bonés, as faixas se tocam em R$ 249."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/baw/black-friday-baw-camiseta-goth.webp",
+          "alt": "Modelo com a Camiseta Regular Goth 3.0 preta da BAW Clothing, com o nome da marca em letras góticas brancas no peito, em foto oficial da loja",
+          "caption": "Camiseta Regular Goth 3.0, na cor preta. Foto: BAW Clothing.",
+          "objectFit": "contain",
+          "aspectRatio": 0.667,
+          "href": "https://www.bawclothing.com.br/produto/camiseta-regular-goth-3-0-151220"
+        }
+      ]
+    },
+    {
+      "heading": "Grade e medidas que cada marca publica",
+      "paragraphs": [
+        "As duas lojas publicam a medida de cada peça por tamanho. A tabela põe lado a lado o tamanho M de uma camiseta e de um moletom de cada uma, no formato comprimento / tórax em centímetros. A Carnan chama o comprimento de altura."
+      ],
+      "comparisonTable": {
+        "caption": "Grade e tamanho M, em cm (comprimento / tórax), das fichas de cada loja.",
+        "headers": [
+          "Peça",
+          "Grade da ficha",
+          "Tamanho M"
+        ],
+        "rows": [
+          [
+            "BAW, [Regular Selfie Logo](https://www.bawclothing.com.br/produto/camiseta-regular-selfie-logo-153490)",
+            "PP a GGG",
+            "70 / 54"
+          ],
+          [
+            "BAW, [Oversized BAW Subscript](https://www.bawclothing.com.br/produto/camiseta-oversized-baw-subscript-151896)",
+            "PP a GGG",
+            "72 / 61"
+          ],
+          [
+            "Carnan, Draw T-shirt",
+            "PP a GGGG",
+            "71 / 60"
+          ],
+          [
+            "BAW, [Moletom Hoodie BAW Subscript](https://www.bawclothing.com.br/produto/moletom-hoodie-baw-subscript-151918)",
+            "PP a GGG",
+            "74 / 61"
+          ],
+          [
+            "Carnan, Signature Crewneck",
+            "PP a GGGG",
+            "69 / 64"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A Carnan informa variação de até 1,5 cm nas medidas, e a BAW, de até 3%. Os números não são comparáveis um a um: cada loja mede à sua maneira, e a BAW não explica como mediu o tórax. Use a tabela da peça que você quer, e não a de outra marca.",
+        "As calças da Carnan vão de 36 a 50. Na BAW, a grade muda por peça, e as medidas de todas as peças com ficha estão na [tabela de medidas da BAW](/reviews/tabela-medidas-baw)."
+      ]
+    },
+    {
+      "heading": "O que cada marca vende",
+      "paragraphs": [
+        "A BAW se apresenta como “uma marca de roupa streetwear brasileira”, fundada em 2014, e fala em “estilo sem gênero”. Tem camisetas, moletons, calças, bermudas, bonés, linha infantil, tênis e slides.",
+        "A Carnan descreve suas roupas como “inspirações multiculturais, pautadas em nossas viagens e experiências ao redor do mundo”. No site, a coleção tem camisetas, moletons, calças, bermudas e bonés, num catálogo pequeno. Segundo a home, há uma collab de shorts com a Asics.",
+        "Calçado fica de fora da comparação: o menu da Carnan traz a categoria “Footwear”, mas não havia calçado no catálogo que lemos, e a BAW vende tênis e slides."
+      ]
+    },
+    {
+      "heading": "Troca, envio e onde comprar",
+      "paragraphs": [
+        "Na BAW, a troca vira crédito, e a devolução devolve o dinheiro, em até 7 dias corridos, com a peça sem uso e com etiqueta. A primeira troca ou devolução tem frete grátis. Os detalhes estão em [BAW Clothing é confiável?](/reviews/baw-clothing-e-confiavel).",
+        "A Carnan informa, em sua página de trocas e devoluções, que a primeira troca ou devolução é gratuita, pelo portal Troque Fácil, com reembolso em até 7 dias úteis ou voucher. Para o envio, informa até 10 dias úteis de separação e despacho, e retirada na loja de Pinheiros, em São Paulo.",
+        "Cada marca vende no próprio site. Para a BAW, o endereço é [bawclothing.com.br](https://www.bawclothing.com.br/). A Carnan não é parceira nossa, e por isso não há link nem código dela aqui. Na BAW, o [cupom BAW](/cupons/baw) BAWEMCASACOMCECILIA dá 10% OFF e se digita no campo de cupom do carrinho. As condições estão em [como usar o cupom da BAW](/reviews/cupom-baw-como-usar)."
+      ]
+    },
+    {
+      "heading": "Qual escolher",
+      "paragraphs": [
+        "A decisão depende de orçamento e de estilo. Tecido, caimento e durabilidade ficam fora desta comparação.",
+        "Quem decide pelo preço de tabela tem a resposta na tabela do começo. Quem decide pelo estilo deve abrir a página das peças e conferir a medida da ficha."
+      ],
+      "emphasis": "Para quem decide pelo preço de camiseta, moletom, calça ou bermuda, a BAW leva a vantagem na tabela: a peça mais cara dela em cada tipo custa menos que a mais barata da Carnan."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o cupom da BAW? O BAWEMCASACOMCECILIA dá 10% OFF no site e no aplicativo da BAW. Para a Carnan não temos cupom.",
+        "BAW ou Carnan, qual é mais barata? Pelo preço de tabela, a BAW. As camisetas dela vão de R$ 89 a R$ 159, e as da Carnan, de R$ 299 a R$ 409.",
+        "A Carnan tem calçado? No catálogo que lemos, não. O menu traz a categoria “Footwear”. A BAW tem tênis e slides.",
+        "O que é a Carnan Global? É a versão internacional do site da Carnan. A página avisa que atende apenas clientes internacionais e manda o cliente do Brasil à loja do país.",
+        "A BAW troca por outro tamanho? Não. A troca é por crédito em conta, e a loja informa que não faz troca de peça por peça, nem por tamanho."
+      ]
+    }
+  ]
+}

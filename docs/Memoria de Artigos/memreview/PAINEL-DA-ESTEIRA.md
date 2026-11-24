@@ -37,9 +37,13 @@
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
 - [ ] [[creatina-mais-mu-e-pura]]: Creatina Mais Mu é pura? Creapure, rótulo e preço por dose (só PT, id 1310; MU1, MMEMCASACOMCECILIA, Mais Mu; PR #1395, aguardando deploy)
-- [ ] [[barra-bold-saudavel-rotulo]]: Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo (só PT, id 1311; BO9, CECILIA15, BOLD; PR do lote G1/G2 A1, aguardando deploy)
-- [ ] [[denavita-ou-rituaria]]: Denavita ou Rituária: qual escolher por produto, rótulo e preço por dia (só PT, id 1312; DV9, EMCASA, Denavita e Rituária; PR do lote G1/G2 A1, aguardando deploy)
-- [ ] [[denavita-tons]]: Denavita Tons: o que tem no rótulo, como a loja manda tomar e o preço por dia (só PT, id 1313; DV10, EMCASA, Denavita; PR do lote G1/G2 A1, aguardando deploy)
+- [ ] [[barra-bold-saudavel-rotulo]]: Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo (só PT, id 1311; BO9, CECILIA15, BOLD; PR #1396, aguardando deploy)
+- [ ] [[denavita-ou-rituaria]]: Denavita ou Rituária: qual escolher por produto, rótulo e preço por dia (só PT, id 1312; DV9, EMCASA, Denavita e Rituária; PR #1396, aguardando deploy)
+- [ ] [[denavita-tons]]: Denavita Tons: o que tem no rótulo, como a loja manda tomar e o preço por dia (só PT, id 1313; DV10, EMCASA, Denavita; PR #1396, aguardando deploy)
+- [ ] [[tabela-medidas-baw]]: Tabela de medidas BAW: regular ou oversized, como escolher o tamanho (só PT, id 1316; BW10, BAWEMCASACOMCECILIA, BAW Clothing; PR do lote G1/G2 A3, aguardando deploy)
+- [ ] [[baw-ou-carnan]]: BAW ou Carnan? Preço de tabela por peça, grade e o que cada marca vende (só PT, id 1317; BW11, BAWEMCASACOMCECILIA, BAW Clothing; PR do lote G1/G2 A3, aguardando deploy)
+- [ ] [[barbours-body-splash-masculino]]: Body splash masculino da Barbour's: notas e referência de cada fragrância Homme (só PT, id 1314; BB8, CECILIALINHARES, Barbour's; PR do lote G1/G2 A3, aguardando deploy)
+- [ ] [[barbours-ou-wepink]]: Barbour's ou Wepink: body splash de 200 ml, preço por ml e o que cada ficha informa (só PT, id 1315; BB10, CECILIALINHARES, Barbour's; PR do lote G1/G2 A3, aguardando deploy)
 
 ---
 

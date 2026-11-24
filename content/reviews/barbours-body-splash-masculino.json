@@ -1,0 +1,316 @@
+{
+  "id": 1314,
+  "slug": "barbours-body-splash-masculino",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "23 de novembro de 2026",
+  "publishedAtISO": "2026-11-23",
+  "updatedAt": "2026-11-23",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "CECILIALINHARES",
+  "affiliate": "barbours",
+  "type": "Guia de Fragrâncias",
+  "title": "Body splash masculino da Barbour's: notas e referência de cada fragrância Homme",
+  "seoTitle": "Body splash masculino Barbour's: a linha Homme",
+  "description": "Os seis body splashes masculinos da Barbour's Beauty, com as notas de cada um, a referência olfativa que a loja publica, o kit de três frascos e o frete grátis por região.",
+  "metaDescription": "Com o CECILIALINHARES, 10% OFF na Barbour's Beauty. Veja notas, tamanho e a referência que a loja indica em cada body splash masculino Homme.",
+  "image": "/images/reviews/barbours/barbours-body-splash-masculino-capa.webp",
+  "imageAlt": "Frasco de body splash Barbour’s Midnight Homme, cinza escuro, sobre fundo branco.",
+  "cta": {
+    "text": "Abra o site pelo botão, monte o carrinho e clique em Finalizar a compra. No checkout, abra Inserir cupom de desconto, digite CECILIALINHARES no campo Cupom (opcional) e clique em Adicionar. Confira a linha Descontos antes de pagar.",
+    "label": "Ir para a Barbour's",
+    "url": "https://barbours.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Não recebemos nem usamos os produtos. Podemos receber comissão pelo cupom e pelo link.",
+  "relatedArticles": [
+    {
+      "slug": "barbours-body-splash-inspiracoes"
+    },
+    {
+      "slug": "barbours-e-boa"
+    },
+    {
+      "slug": "cupom-barbours-como-usar"
+    },
+    {
+      "slug": "barbours-e-confiavel"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "quer escolher o body splash masculino pelas notas de cabeça, corpo e fundo que a loja publica, e não só pelo nome.",
+      "vai levar três frascos e quer ver quanto cada um sai no kit contra o avulso."
+    ],
+    "skipIf": [
+      "espera cheiro idêntico ao do perfume citado: a loja avisa que a referência não promete isso.",
+      "precisa de duração em horas: a loja não informa."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A linha Homme da Barbour's Beauty tem seis body splashes de 200 ml, e a loja publica a referência olfativa e as notas de cada um. Todos abrem com cítricos; o que muda está no corpo e no fundo. O CECILIALINHARES dá 10% OFF no frasco avulso, e o kit de três sai mais barato por frasco."
+      ]
+    },
+    {
+      "heading": "A linha Homme da Barbour's em números",
+      "paragraphs": [
+        "A coleção Homme da loja reúne 18 itens: seis body splashes avulsos de 200 ml e 12 kits de frascos de 200 ml, alguns misturando fragrâncias femininas. No catálogo que consultamos, não há mini, roll-on nem perfume para cabelo masculino.",
+        "A loja vende o produto como desodorante colônia, e os seis frascos avulsos aparecem como disponíveis pelo mesmo preço. Se a dúvida é se a Barbour's vale a pena, o guia [Barbour's Beauty é boa?](/reviews/barbours-e-boa) reúne avaliações e reputação. Este aqui fica na linha masculina."
+      ]
+    },
+    {
+      "heading": "A referência que a loja indica em cada um",
+      "paragraphs": [
+        "Cada página traz o campo “Cheiro inspirado por”. A tabela reproduz o que a loja publica e a família olfativa que o rótulo traseiro informa, quando há."
+      ],
+      "comparisonTable": {
+        "caption": "Referência indicada pela loja na página de cada body splash de 200 ml. A família vem do rótulo traseiro; onde não consta, a ficha não informa.",
+        "headers": [
+          "Body splash",
+          "Referência que a loja indica",
+          "Família na ficha"
+        ],
+        "rows": [
+          [
+            "[Bold Homme](https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml)",
+            "Sauvage - Dior",
+            "Não informa"
+          ],
+          [
+            "[Seduction Homme](https://www.thebarboursbeauty.com.br/products/body-splash-seduction-homme-desodorante-colonia-200ml)",
+            "Bleu - Chanel",
+            "Não informa"
+          ],
+          [
+            "[Ocean Homme](https://www.thebarboursbeauty.com.br/products/body-splash-ocean-homme-desodorante-colonia-200ml)",
+            "Acqua di Giò Elixir - Giorgio Armani",
+            "Não informa"
+          ],
+          [
+            "[Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml)",
+            "212 Vip Black - Carolina Herrera",
+            "Aromática fougère"
+          ],
+          [
+            "[Signature Homme](https://www.thebarboursbeauty.com.br/products/body-splash-signature-homme-desodorante-colonia-200ml)",
+            "Imagination - Louis Vuitton",
+            "Cítrica aromática"
+          ],
+          [
+            "[Urban Homme](https://www.thebarboursbeauty.com.br/products/body-splash-urban-homme-desodorante-colonia-200ml)",
+            "MYSLF - Yves Saint Laurent",
+            "Aromática fougère"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A página do Ocean Homme escreve “Giogio Armani”; o nome correto da casa é Giorgio Armani. A grafia “212 Vip Black” é a da loja."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/barbours/barbours-body-splash-inspiracoes-bold-homme.webp",
+          "alt": "Frasco do body splash Bold Homme, de 200 ml, da Barbour’s Beauty, em foto oficial sobre fundo branco.",
+          "caption": "Body Splash Bold Homme, 200 ml. Foto: Barbour's Beauty.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://www.thebarboursbeauty.com.br/products/body-splash-bold-homme-desodorante-colonia-200ml"
+        }
+      ]
+    },
+    {
+      "heading": "Notas de cabeça, corpo e fundo",
+      "paragraphs": [
+        "A aba de texto “Notas da Fragrância” está sem conteúdo no site. As notas saem de imagens da própria loja: a segunda imagem da ficha, no Bold, no Seduction e no Ocean, e o rótulo traseiro, no Midnight, no Signature e no Urban."
+      ],
+      "comparisonTable": {
+        "caption": "Notas como a loja publica.",
+        "headers": [
+          "Body splash",
+          "Cabeça",
+          "Corpo",
+          "Fundo"
+        ],
+        "rows": [
+          [
+            "Bold Homme",
+            "Maçã, toranja e bergamota",
+            "Elemi, cedro, vetiver, lavanda e pimenta-rosa",
+            "Musk, patchouli, labdanum e musgo de carvalho"
+          ],
+          [
+            "Seduction Homme",
+            "Toranja, gengibre e noz-moscada",
+            "Menta, vetiver, jasmim e pimenta-rosa",
+            "Cedro, sândalo e lábdano"
+          ],
+          [
+            "Ocean Homme",
+            "Bergamota, mandarina e noz-moscada",
+            "Folhas de violeta e notas aquáticas",
+            "Couro, patchouli, vetiver e ládano"
+          ],
+          [
+            "Midnight Homme",
+            "Maçã, anis, pomelo e bergamota",
+            "Lavanda, salicilato e pinho agulhas",
+            "Musk, vetiver, baunilha e fava tonka"
+          ],
+          [
+            "Signature Homme",
+            "Bergamota, pomelo e mandarina",
+            "Flor de laranjeira, gengibre, cardamomo e noz-moscada",
+            "Chá preto, âmbar, guaiaco, olíbano e musk"
+          ],
+          [
+            "Urban Homme",
+            "Bergamota e maçã",
+            "Lavanda, flor de laranjeira e gerânio",
+            "Fava tonka, âmbar, patchouli, musk e baunilha"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Como escolher pelas notas",
+      "paragraphs": [
+        "Regra prática, sem teste nosso: a leitura abaixo olha só os nomes das notas que a loja publica. Não é ranking nem diz como cada frasco cheira na pele."
+      ],
+      "bullets": [
+        "Todos os seis abrem com algum cítrico (bergamota, toranja, pomelo ou mandarina), então o que separa um do outro está no corpo e no fundo.",
+        "O Ocean é o único que lista notas aquáticas, no coração, e é também o único com couro no fundo.",
+        "Midnight e Urban são os dois que a loja classifica como aromática fougère, ambos com lavanda no corpo e baunilha e fava tonka no fundo.",
+        "Bold e Seduction têm pimenta-rosa no coração. O Bold fecha com patchouli e musgo de carvalho, e o Seduction, com cedro e sândalo.",
+        "O Signature é o único com cardamomo no corpo e chá preto e olíbano no fundo, e a loja o chama de cítrica aromática."
+      ]
+    },
+    {
+      "heading": "Frasco avulso ou kit: qual sai por menos",
+      "paragraphs": [
+        "O Kit Clássicos Masculinos reúne Bold, Seduction e Ocean Homme, três frascos de 200 ml. Em cada frasco avulso, a loja também mostra o bloco “Leve mais e pague menos”, com preço menor por frasco em 2, 3 ou 6 unidades."
+      ],
+      "comparisonTable": {
+        "caption": "Preço de venda no site da loja em 23 de novembro de 2026, frascos de 200 ml, antes do código e do frete.",
+        "headers": [
+          "Opção",
+          "Preço",
+          "Por frasco"
+        ],
+        "rows": [
+          [
+            "1 frasco avulso",
+            "R$ 39,90",
+            "R$ 39,90"
+          ],
+          [
+            "2 frascos",
+            "R$ 69,90",
+            "R$ 34,95"
+          ],
+          [
+            "3 frascos",
+            "R$ 99,90",
+            "R$ 33,30"
+          ],
+          [
+            "[Kit Clássicos Masculinos](https://www.thebarboursbeauty.com.br/products/kit-classicos-masculinos-bold-homme-seduction-homme-e-ocean-homme) (Bold, Seduction e Ocean)",
+            "R$ 99,90",
+            "R$ 33,30"
+          ],
+          [
+            "6 frascos",
+            "R$ 209,90",
+            "R$ 34,98"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O kit de três custa R$ 19,80 menos que os mesmos três frascos avulsos (R$ 119,70). Entre os pacotes, o de três é o que dá o menor preço por frasco: o de seis fica em R$ 34,98."
+      ],
+      "emphasis": "Para quem quer três frascos, o kit de três sai melhor: R$ 33,30 por frasco contra R$ 39,90 no avulso; para um frasco só, o avulso."
+    },
+    {
+      "heading": "Código e frete",
+      "paragraphs": [
+        "O [cupom Barbour's](/cupons/barbours) CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. No nosso teste com um Bold Homme avulso, o checkout aberto por Finalizar a compra mostrou Descontos de R$ 3,99 e total de R$ 35,91, em vez de R$ 39,90. O passo a passo está em [como usar o cupom CECILIALINHARES](/reviews/cupom-barbours-como-usar).",
+        "Nos kits, o código também entrou sobre o preço promocional em outro teste nosso: um kit de três a R$ 109,90 saiu por R$ 98,91. Com o kit a R$ 99,90, a conta de 10% daria R$ 89,91, mas esse valor é conta nossa. Confira a linha Descontos antes de pagar.",
+        "O frete grátis muda por região, e a barra do carrinho conta o valor antes do cupom. Um frasco avulso e o kit de três ficam abaixo do mínimo de qualquer região. O kit de seis, de R$ 209,90, passa do mínimo de todas, menos o Norte, e continua acima do mínimo do Nordeste (R$ 199) mesmo com o código, porque a barra conta o valor de R$ 209,90, antes do desconto."
+      ],
+      "comparisonTable": {
+        "caption": "Mínimo para frete grátis na Barbour's, segundo a central de ajuda da loja.",
+        "headers": [
+          "Região",
+          "Frete grátis acima de"
+        ],
+        "rows": [
+          [
+            "São Paulo",
+            "R$ 119"
+          ],
+          [
+            "Espírito Santo, Rio de Janeiro e Minas Gerais",
+            "R$ 149"
+          ],
+          [
+            "Sul e Centro-Oeste",
+            "R$ 169"
+          ],
+          [
+            "Nordeste",
+            "R$ 199"
+          ],
+          [
+            "Norte",
+            "R$ 259"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "O que a referência não promete",
+      "paragraphs": [
+        "Na nota de esclarecimento sobre referências olfativas, a loja informa que usa os nomes só como referência, que não tem vínculo com as marcas citadas e que a menção “não constitui promessa de resultados idênticos ou similares”. Cada composição, segundo ela, é criação própria. Por isso este guia não compara cheiro nem fixação.",
+        "A lista das referências da loja inteira, e não só da linha masculina, está no [guia das inspirações de cada body splash](/reviews/barbours-body-splash-inspiracoes)."
+      ]
+    },
+    {
+      "heading": "Como usar e as precauções do rótulo",
+      "paragraphs": [
+        "O rótulo traseiro publicado na página traz este modo de uso:"
+      ],
+      "bullets": [
+        "Aplique o body splash generosamente sobre a pele limpa e seca.",
+        "Concentre nos pontos de pulsação, como pescoço, pulsos e atrás das orelhas.",
+        "Reaplique ao longo do dia, conforme necessário."
+      ],
+      "postParagraphs": [
+        "Precauções do rótulo: não ingerir; manter fora do alcance de crianças; em caso de irritação da pele, suspender o uso e procurar orientação médica; em contato com os olhos, enxaguar abundantemente; não usar perto de fonte de calor nem em pele irritada; uso externo; inflamável."
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o cupom da Barbour's Beauty? O CECILIALINHARES dá 10% OFF no site oficial, para cliente novo e antigo. A conta no frasco avulso está no capítulo Código e frete.",
+        "Tem body splash masculino na Barbour's? Tem. A linha Homme tem seis body splashes de 200 ml: Bold, Seduction, Ocean, Midnight, Signature e Urban. As referências e as notas de cada um estão nas tabelas acima.",
+        "O Bold Homme é inspirado em qual perfume? A página indica o Sauvage, da Dior, como referência olfativa, e a loja avisa que isso não promete resultado idêntico.",
+        "O Ocean Homme é inspirado em qual perfume? A página indica o Acqua di Giò Elixir, da Giorgio Armani (que ela grafa “Giogio Armani”), como referência olfativa, com o mesmo aviso da loja.",
+        "Barbour's masculino é bom? Cheiro e duração dependem do uso, e este guia não os avalia. O que a página, as avaliações e o Reclame Aqui mostram está em [Barbour's Beauty é boa?](/reviews/barbours-e-boa)."
+      ]
+    }
+  ]
+}

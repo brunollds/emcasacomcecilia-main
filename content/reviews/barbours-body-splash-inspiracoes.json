@@ -13,7 +13,7 @@
   },
   "publishedAt": "21 de novembro de 2026",
   "publishedAtISO": "2026-11-21",
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-23",
   "draft": false,
   "isNew": true,
   "imageFit": "contain",
@@ -44,7 +44,7 @@
       "slug": "cupom-barbours-como-usar"
     },
     {
-      "slug": "barbours-e-confiavel"
+      "slug": "barbours-body-splash-masculino"
     },
     {
       "slug": "barbours-reclame-aqui-nota-reputacao"
@@ -74,9 +74,11 @@
       ],
       "bullets": [
         "Acqua di Giò Elixir: Ocean Homme",
+        "Angel: Celestial Glow",
         "Baccarat Rouge 540: Amber Mystic, da coleção Feliz no Simples",
         "Bleu: Seduction Homme",
         "Carmina: Rose Intense, da coleção Feliz no Simples",
+        "Cheirosa 62: Tropic Sun, só em perfume para cabelo",
         "Chloé Eau de Parfum: Rich",
         "Coco Mademoiselle: Sienna Glow",
         "Delina: My Sweet Delight",
@@ -96,6 +98,7 @@
         "Love, Don’t Be Shy: Kiss in Paradise",
         "MYSLF: Urban Homme",
         "Palatine: Pure Grace",
+        "Paradoxe: Senseless",
         "Sauvage: Bold Homme",
         "Scandal: Affair",
         "Valaya: Fine Touch",
@@ -107,7 +110,7 @@
     {
       "heading": "De onde vem esta lista",
       "paragraphs": [
-        "A Barbour’s publica a referência olfativa na página de cada produto, no campo “Fragrância inspirada por”. Reunimos os nomes indicados pela marca e os preços da consulta para você achar a versão correspondente.",
+        "A Barbour’s publica a referência olfativa na página de cada produto: no body splash, no campo “Cheiro inspirado por”; no perfume para cabelo, em “Fragrância inspirada por”. Reunimos os nomes indicados pela marca e os preços da consulta para você achar a versão correspondente.",
         "A indicação de inspiração descreve apenas a proposta de cada fragrância. Este guia reúne os nomes, notas e avisos publicados pela Barbour’s Beauty, sem avaliação olfativa ou de fixação."
       ]
     },
@@ -117,7 +120,7 @@
         "São seis fragrâncias florais e frutadas em frasco de 200 ml. Na penúltima coluna estão as principais notas listadas na página de cada body splash."
       ],
       "comparisonTable": {
-        "caption": "Preço de venda na página de cada body splash em 21 de novembro de 2026, frasco de 200 ml. A referência é o que a loja indica no campo “Fragrância inspirada por”.",
+        "caption": "Preço de venda na página de cada body splash em 21 de novembro de 2026, frasco de 200 ml. A referência é o que a loja indica no campo “Cheiro inspirado por”.",
         "headers": [
           "Body splash",
           "Referência que a loja indica",
@@ -193,7 +196,7 @@
     {
       "heading": "Mais body splashes de 200 ml",
       "paragraphs": [
-        "Além dos seis acima, sete body splashes de 200 ml trazem a referência indicada pela marca no mesmo campo."
+        "Além dos seis acima, nove body splashes de 200 ml trazem a referência indicada pela marca no mesmo campo."
       ],
       "comparisonTable": {
         "caption": "Referência que a loja indica em cada página.",
@@ -237,11 +240,23 @@
             "[Sienna Glow](https://www.thebarboursbeauty.com.br/products/body-splash-sienna-glow-694825eb0737a)",
             "Coco Mademoiselle - Chanel",
             "R$ 39,90"
+          ],
+          [
+            "[Celestial Glow](https://www.thebarboursbeauty.com.br/products/body-splash-angelical-deo-colonia-6948c96697fbc)",
+            "Angel - T. Mugler",
+            "R$ 39,90 (esgotado na consulta)"
+          ],
+          [
+            "[Senseless](https://www.thebarboursbeauty.com.br/products/body-splash-senseless-deo-colonia-ref-olfativa-paradoxe-6948252f250f4)",
+            "Paradoxe - Prada",
+            "R$ 39,90 (esgotado na consulta)"
           ]
         ]
       },
       "postParagraphs": [
-        "O Living Grace também é vendido na versão [Living Grace perfume para cabelo](https://www.thebarboursbeauty.com.br/products/new-perfume-para-cabelo-finalizador-termoativo-la-vie-694275e1e6ead) (R$ 34,90 na consulta), e a página dele traz a mesma referência do body splash."
+        "O Living Grace também é vendido na versão [Living Grace perfume para cabelo](https://www.thebarboursbeauty.com.br/products/new-perfume-para-cabelo-finalizador-termoativo-la-vie-694275e1e6ead) (R$ 34,90 na consulta), e a página dele traz a mesma referência do body splash.",
+        "O Celestial Glow era vendido como Angelical, e o endereço da página ainda traz esse nome. Ele e o Senseless também existem como [perfume para cabelo Celestial Glow](https://www.thebarboursbeauty.com.br/products/perfume-para-cabelo-angelical-finalizador-termoativo-ref-olfativa-angel-69480185443bb) (R$ 34,90, esgotado na consulta) e [perfume para cabelo Senseless](https://www.thebarboursbeauty.com.br/products/perfume-para-cabelo-senseless-finalizador-termoativo-6947fecfb122d) (R$ 34,90), com a mesma referência do body splash.",
+        "O [perfume para cabelo Tropic Sun](https://www.thebarboursbeauty.com.br/products/perfume-para-cabelo-tropic-sun) (R$ 34,90) cita Cheirosa 62, da Sol de Janeiro. A loja não tem body splash com esse nome."
       ]
     },
     {
@@ -349,10 +364,10 @@
     {
       "heading": "Masculinos (Homme)",
       "paragraphs": [
-        "A linha Homme tem seis body splashes de 200 ml, todos com a referência indicada pela marca no mesmo campo. As notas de cabeça, corpo e fundo estão na aba Notas da Fragrância de cada página."
+        "A linha Homme tem seis body splashes de 200 ml, todos com a referência indicada pela marca no mesmo campo. A aba de texto das notas está sem conteúdo no site, e as notas de cabeça, corpo e fundo aparecem em imagens da loja. Elas estão no [guia do body splash masculino da Barbour's](/reviews/barbours-body-splash-masculino), com o kit e o preço por frasco."
       ],
       "comparisonTable": {
-        "caption": "Referência que a loja indica em cada página.",
+        "caption": "Referência que a loja indica em cada página. Preço de venda em 23 de novembro de 2026.",
         "headers": [
           "Body splash",
           "Referência que a loja indica",
@@ -377,12 +392,12 @@
           [
             "[Midnight Homme](https://www.thebarboursbeauty.com.br/products/body-splash-midnight-homme-desodorante-colonia-200ml)",
             "212 Vip Black - Carolina Herrera",
-            "R$ 34,90"
+            "R$ 39,90"
           ],
           [
             "[Signature Homme](https://www.thebarboursbeauty.com.br/products/body-splash-signature-homme-desodorante-colonia-200ml)",
             "Imagination - Louis Vuitton",
-            "R$ 34,90"
+            "R$ 39,90"
           ],
           [
             "[Urban Homme](https://www.thebarboursbeauty.com.br/products/body-splash-urban-homme-desodorante-colonia-200ml)",
@@ -405,7 +420,7 @@
     {
       "heading": "Os que não trazem perfume de referência",
       "paragraphs": [
-        "Os cinco body splashes da linha Shimmer usam o mesmo campo para uma descrição olfativa, não para um perfume famoso. Já o [BB Charm Rose Bloom, de 34 ml](https://www.thebarboursbeauty.com.br/products/bb-charm-rose-bloom-body-splash-desodorante-corporal-34-ml) (R$ 39,90) e o [kit Linha Layering, com três mini body splashes de 55 ml](https://www.thebarboursbeauty.com.br/products/kit-linha-layering-3-mini-body-splashes-petal-crush-vanilla-dreamer-e-fruity-tale-55ml-cada) (R$ 79,90) não trazem esse campo."
+        "Os cinco body splashes da linha Shimmer usam o mesmo campo para uma descrição olfativa, não para um perfume famoso. O [Solar Citrus](https://www.thebarboursbeauty.com.br/products/body-splash-solar-citrus-desodorante-colonia-200ml) e o [Rose Fresh](https://www.thebarboursbeauty.com.br/products/body-splash-rose-fresh-desodorante-colonia-200ml) não trazem o campo. Também não o trazem o [BB Charm Rose Bloom, de 34 ml](https://www.thebarboursbeauty.com.br/products/bb-charm-rose-bloom-body-splash-desodorante-corporal-34-ml) (R$ 39,90) e o [kit Linha Layering, com três mini body splashes de 55 ml](https://www.thebarboursbeauty.com.br/products/kit-linha-layering-3-mini-body-splashes-petal-crush-vanilla-dreamer-e-fruity-tale-55ml-cada) (R$ 79,90)."
       ],
       "comparisonTable": {
         "caption": "O que o campo traz em cada página, entre aspas.",
@@ -438,6 +453,16 @@
           [
             "[Pink Sunset Shine](https://www.thebarboursbeauty.com.br/products/body-splash-pink-sunset-shine-desodorante-colonia-200ml)",
             "“suculência das frutas e a doçura do caramelo”",
+            "R$ 39,90"
+          ],
+          [
+            "[Solar Citrus](https://www.thebarboursbeauty.com.br/products/body-splash-solar-citrus-desodorante-colonia-200ml)",
+            "sem o campo",
+            "R$ 39,90"
+          ],
+          [
+            "[Rose Fresh](https://www.thebarboursbeauty.com.br/products/body-splash-rose-fresh-desodorante-colonia-200ml)",
+            "sem o campo",
             "R$ 39,90"
           ]
         ]
@@ -472,7 +497,7 @@
       "bullets": [
         "Qual body splash da Barbour’s é inspirado no Delina? A página do My Sweet Delight indica o Delina, da Parfums de Marly, como fragrância de referência. A loja avisa que a indicação não promete resultado idêntico.",
         "E no La Vie est Belle? A página do Living Grace indica o La Vie est Belle, da Lancôme, como referência.",
-        "Qual o body splash masculino inspirado no Sauvage? A página do Bold Homme indica o Sauvage, da Dior, como referência.",
+        "Qual o body splash masculino inspirado no Sauvage? A página do Bold Homme indica o Sauvage, da Dior, como referência. As notas de cada um estão no [guia do body splash masculino da Barbour's](/reviews/barbours-body-splash-masculino).",
         "A Barbour’s tem vínculo com as marcas citadas? A loja diz que não. Na nota de esclarecimento, afirma que não possui vínculos com as marcas mencionadas e que elas pertencem aos respectivos fabricantes.",
         "Body splash é a mesma coisa que perfume? Na loja, estes frascos são vendidos como desodorante colônia ou desodorante corporal. Os perfumes citados aparecem como referência olfativa."
       ]
