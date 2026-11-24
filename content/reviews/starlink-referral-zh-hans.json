@@ -3,20 +3,28 @@
   "slug": "starlink-referral-zh-hans",
   "translationKey": "starlink-indicacao",
   "locale": "zh-hans",
-  "title": "首次购买 Starlink 如何通过推荐链接领取奖励（美国 US$ 100／按国家发放）",
-  "seoTitle": "首次购买 Starlink 如何通过推荐链接领取奖励",
+  "title": "首次订阅 Starlink 如何领取推荐奖励：马来西亚参考金额 RM 180",
+  "seoTitle": "Starlink 推荐奖励：马来西亚参考金额 RM 180",
   "type": "推荐码指南",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
-  "description": "Starlink 没有优惠码：通过官方推荐链接下单，沿用官网同价与 30 天退货期，满两个月后即可领取所在国家的推荐奖励（例如美国为 US$ 100）。",
-  "metaDescription": "第一次订阅 Starlink 如何通过推荐链接领取奖励，为何下单前必须应用推荐，以及两个月后到账的流程。",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "通过我们的推荐链接订阅符合条件的 Starlink 套餐，可获得账单抵扣。马来西亚 11 月参考金额为 RM 180。付款前请确认订单上的金额。",
+  "metaDescription": "通过我们的推荐链接订阅符合条件的 Starlink 套餐，可获得账单抵扣。马来西亚 11 月参考金额为 RM 180。付款前请确认订单上的金额。",
   "publishedAt": "2026年11月20日",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,14 +39,22 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Starlink 没有可输入的优惠码。除了官网的促销之外，首次订阅时通过推荐链接下单，是领取官方推荐奖励的方式。从链接进入 starlink.com 结账，价格与促销完全相同、也保有 30 天退货期，服务满两个完整计费周期后，可获得所在国家的奖励金额（例如美国为 US$ 100，实际金额会显示在你的订单页）。奖励是之后到账的账单抵扣，不会降低当天的设备价格。付款前务必在屏幕确认推荐已应用，因为下单完成后无法补加。"
+        "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
+      ],
+      "links": [
+        {
+          "label": "查看我的地址适用的 Starlink 推荐奖励",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "为什么一定要通过推荐链接下单",
       "paragraphs": [
         "自己直接打开 starlink.com 下单，设备和月费与通过链接下单相同，区别只在你会错过推荐奖励。奖励不会降低下单当天的设备价格，而是在你付清两个完整计费周期后，以抵扣的形式进入账单。",
-        "Starlink 的订购页没有简体中文版本，所以下面的例子取自马来西亚（英文界面）和美国的订购页，用来说明推荐链接如何运作。你所在地的价格和规则，请以自己地址的订购页为准。"
+        "Starlink 的订购页没有简体中文版本，所以下面的例子取自马来西亚（英文界面）和美国的订购页，用来说明推荐链接如何运作。你所在地的价格和规则，请以自己地址的订购页为准。",
+        "马来西亚的 RM 180 来自 SatNet Watch 在 11 月发布的调查，实际金额以你的订单页为准。"
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
@@ -76,13 +92,6 @@
           ]
         ]
       },
-      "links": [
-        {
-          "label": "打开订单并确认推荐奖励",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "simulator": {
         "title": "试算你的情况",
         "scenarios": [
@@ -216,7 +225,7 @@
       },
       "links": [
         {
-          "label": "下单前先确保奖励",
+          "label": "打开订单并确认推荐奖励",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -287,8 +296,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "你付的价格与官网完全相同，天线在屋顶上不好用时 30 天内可退货，并在两个计费周期后领取所在国家的推荐抵扣。",
-    "label": "前往官网查看订单与推荐奖励",
+    "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
+    "label": "通过推荐链接打开 Starlink 订单",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

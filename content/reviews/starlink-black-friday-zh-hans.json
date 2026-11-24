@@ -8,13 +8,21 @@
   "type": "黑色星期五指南",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Starlink 官网没有中文界面。我们用马来西亚、美国和日本的真实订单页，算清当天应付、月费、套件是租是买，以及推荐奖励何时到账。",
   "metaDescription": "Starlink 黑色星期五优惠依地址而定。看马来西亚、美国、日本的订单怎么算，套件是租还是买，以及推荐奖励何时到账。",
   "publishedAt": "2026年11月20日",
@@ -31,7 +39,15 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Starlink 官网没有中文界面，所以我们读了马来西亚、美国和日本的订单页：马来西亚 100 Mbps 月费 RM 135 且套件需购买（RM 900），Max 月费 RM 235 且套件免费租用；美国 100 Mbps 优惠后月费 US$38.50，套件租用 US$0；日本ホーム优惠后月费 ¥3,550。美国和日本的优惠到 11 月 30 日。推荐奖励按国家而定，例如美国是 US$100，只在通过推荐链接打开的订单上计算，并在满两个完整计费周期后发放。"
+        "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。",
+        "Starlink 官网没有中文界面，所以我们读了马来西亚、美国和日本的订单页：马来西亚 100 Mbps 月费 RM 135 且套件需购买（RM 900），Max 月费 RM 235 且套件免费租用；美国 100 Mbps 优惠后月费 US$38.50，套件租用 US$0；日本ホーム优惠后月费 ¥3,550。美国和日本的优惠到 11 月 30 日。"
+      ],
+      "links": [
+        {
+          "label": "查看我的地址适用的 Starlink 推荐奖励",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -146,14 +162,7 @@
       "postParagraphs": [
         "马来西亚的例子说明为什么要看每个套餐的套件那一行：100 Mbps 要买 Mini X，Max 则是免费租用，两者月费相差 RM 100。读订单页时，先看套件是购买还是租用，再比较月费。"
       ],
-      "emphasis": "各国订单页的月费、套件方式和当天应付各不相同，所以优惠是否划算，只能看你所在地址订单页上的当天应付总额；推荐奖励要满两个完整计费周期后才发放，在此之前月费照付。",
-      "links": [
-        {
-          "label": "查看你所在地址的黑色星期五和推荐奖励",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ]
+      "emphasis": "各国订单页的月费、套件方式和当天应付各不相同，所以优惠是否划算，只能看你所在地址订单页上的当天应付总额；推荐奖励要满两个完整计费周期后才发放，在此之前月费照付。"
     },
     {
       "heading": "订单页怎么看",
@@ -198,7 +207,7 @@
       },
       "links": [
         {
-          "label": "付款前先锁定推荐奖励",
+          "label": "查看你所在地址的黑色星期五和推荐奖励",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -257,8 +266,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "价格和官方订单页一样，如果天线在你的屋顶上用不了，30 天内还能退回套件；满两个计费周期后，推荐奖励会以抵扣的形式进入你的账单。",
-    "label": "查看我所在地址并锁定推荐奖励",
+    "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
+    "label": "通过推荐链接打开 Starlink 订单",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

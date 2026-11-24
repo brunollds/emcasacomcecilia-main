@@ -8,13 +8,21 @@
   "type": "Reputation Analysis",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "See the TrustScore, how the star ratings split and which complaints come up most on the Starlink profile on Trustpilot. Learn how to raise a problem with the company.",
   "metaDescription": "Starlink on Trustpilot: a 1.6 TrustScore from 879 reviews on an unclaimed profile. See what recent one-star and five-star reviews say.",
   "publishedAt": "November 20, 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Starlink Development, the Trustpilot profile for starlink.com, has a TrustScore of 1.6 out of 5 from 879 reviews, and 71% of them are one star. The profile is unclaimed: the company has no paid plan, sends no review invitations and has not replied to any of the 464 negative reviews. The reviews come from customers in many countries."
+        "Starlink Development, the Trustpilot profile for starlink.com, has a TrustScore of 1.6 out of 5 from 879 reviews, and 71% of them are one star. The profile is unclaimed: the company has no paid plan, sends no review invitations and has not replied to any of the 464 negative reviews from the past 12 months, the period Trustpilot’s company activity page covers. The reviews come from customers in many countries.",
+        "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+      ],
+      "links": [
+        {
+          "label": "Check my address for the Starlink reward",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -184,13 +200,6 @@
           "objectFit": "contain",
           "aspectRatio": 1.8079
         }
-      ],
-      "links": [
-        {
-          "label": "Open the official order on starlink.com and check my area",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
       ]
     },
     {
@@ -224,7 +233,7 @@
       "emphasis": "On the numbers in the table, for anyone who has no good internet option at their address, subscribing is reasonable once plan, kit, tax and contract are checked on starlink.com for that address, because the 1.6 reflects support, billing and price complaints more than signal quality.",
       "links": [
         {
-          "label": "Check availability at my address on starlink.com",
+          "label": "Open the official order on starlink.com and check my area",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -267,8 +276,8 @@
     ]
   },
   "cta": {
-    "text": "Open the order through the referral link, check plan, kit and contract for your address and save the summary screen before paying. The price is the one on the official site.",
-    "label": "Open my order on starlink.com",
+    "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+    "label": "Open my Starlink order with the referral",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

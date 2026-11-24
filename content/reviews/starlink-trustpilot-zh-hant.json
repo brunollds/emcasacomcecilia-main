@@ -8,13 +8,21 @@
   "type": "口碑分析",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "看 Starlink 在 Trustpilot 的評分、評價數與星等分布，以及最常見的抱怨。附上怎麼辨認官方檔案與提出投訴。",
   "metaDescription": "Starlink 在 Trustpilot 的 TrustScore 為 1.6，共 879 則評論，檔案尚未認領。整理近期一星與五星評論的內容。",
   "publishedAt": "2026年11月20日",
@@ -31,7 +39,15 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "starlink.com 在 Trustpilot 的檔案 Starlink Development，TrustScore 為 5 分滿分的 1.6，共 879 則評論，其中 71% 是一星。這個檔案尚未被公司認領：沒有付費方案、不寄送評論邀請，464 則負面評論也沒有任何一則回覆。評論來自許多國家的用戶。"
+        "starlink.com 在 Trustpilot 的檔案 Starlink Development，TrustScore 為 5 分滿分的 1.6，共 879 則評論，其中 71% 是一星。這個檔案尚未被公司認領：沒有付費方案、不寄送評論邀請，過去 12 個月（Trustpilot 公司活動頁面統計的期間）的 464 則負面評論也沒有任何一則回覆。評論來自許多國家的用戶。",
+        "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
+      ],
+      "links": [
+        {
+          "label": "查看我的地址適用的 Starlink 推薦獎勵",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -184,13 +200,6 @@
           "objectFit": "contain",
           "aspectRatio": 1.8079
         }
-      ],
-      "links": [
-        {
-          "label": "在 starlink.com 開啟官方訂單並確認我所在的地區",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
       ]
     },
     {
@@ -224,7 +233,7 @@
       "emphasis": "依表格數字，對地址上沒有其他好網路選擇的人來說，在 starlink.com 針對該地址確認方案、套件、稅金與合約之後再訂閱是合理的，因為 1.6 反映的多半是客服、帳單與價格的抱怨，而不是訊號品質。",
       "links": [
         {
-          "label": "在 starlink.com 確認我的地址是否可用",
+          "label": "在 starlink.com 開啟官方訂單並確認我所在的地區",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -267,8 +276,8 @@
     ]
   },
   "cta": {
-    "text": "透過推薦連結開啟訂單，確認你地址的方案、套件與合約，付款前把摘要畫面存下來。價格與官方網站相同。",
-    "label": "在 starlink.com 開啟我的訂單",
+    "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
+    "label": "透過推薦連結開啟 Starlink 訂單",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

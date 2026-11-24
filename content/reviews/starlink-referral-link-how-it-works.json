@@ -3,20 +3,28 @@
   "slug": "starlink-referral-link-how-it-works",
   "translationKey": "starlink-indicacao",
   "locale": "en",
-  "title": "How to get $100 (£40 in the UK) when buying your first Starlink with a referral link",
-  "seoTitle": "How to get $100 on your first Starlink (referral)",
+  "title": "Get $100 in Starlink bill credit on your first subscription",
+  "seoTitle": "Starlink referral: $100 in US bill credit",
   "type": "Referral Code Guide",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
-  "description": "Starlink has no coupon code: order your first dish through our referral link, pay the exact site price and get $100 in the US or £40 in the UK after two months.",
-  "metaDescription": "See how to get $100 in the US (£40 in the UK) on your first Starlink order, how the link applies at checkout and how much it covers on monthly bills.",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "New to Starlink? Use our referral link for $100 in US bill credit or £40 in the UK on an eligible first subscription. Confirm the amount before you pay.",
+  "metaDescription": "New to Starlink? Use our referral link for $100 in US bill credit or £40 in the UK on an eligible first subscription. Confirm the amount before you pay.",
   "publishedAt": "November 20, 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,7 +39,14 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Starlink has no promo codes: beyond the offers on its site, the referral link is the official way to get a reward on your first subscription, $100 in the US or £40 in the UK. You pay the same price shown on starlink.com and keep the 30-day return window. In the US, $100 covers about two and a half months of the 100 Mbps plan ($38.50/mo on our reading); in the UK, £40 is one full month (£40/mo). Open the link before you order, look for the “Referral Code Applied” notice before you pay, activate the kit and stay active and paid up for two full monthly cycles. The referral cannot be added after the purchase, and it only counts on orders placed on starlink.com, not on marketplaces."
+        "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+      ],
+      "links": [
+        {
+          "label": "Check my address for the Starlink reward",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -88,13 +103,6 @@
           ]
         ]
       },
-      "links": [
-        {
-          "label": "Open my order with the $100 / £40 referral",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "simulator": {
         "title": "Run your own scenario",
         "scenarios": [
@@ -228,7 +236,7 @@
       },
       "links": [
         {
-          "label": "Lock in the reward before you order",
+          "label": "Open my order with the $100 / £40 referral",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -297,8 +305,8 @@
     }
   ],
   "cta": {
-    "text": "You pay exactly the same price as on the official site, keep the 30 days to return the kit if it does not work on your roof, and lock in $100 in the US (£40 in the UK) after two monthly cycles.",
-    "label": "Claim $100 / £40 on your Starlink order",
+    "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+    "label": "Open my Starlink order with the referral",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

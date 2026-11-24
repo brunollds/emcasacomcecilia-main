@@ -8,13 +8,21 @@
   "type": "Analisi della reputazione",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Vedi il TrustScore, quante recensioni ci sono, come si distribuiscono le stelle e cosa lamentano i clienti nel profilo di starlink.com. Scopri anche come fare reclamo.",
   "metaDescription": "Starlink su Trustpilot: TrustScore 1,6 con 879 recensioni su un profilo non rivendicato. Cosa dicono le recensioni recenti da una e da cinque stelle.",
   "publishedAt": "20 novembre 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Starlink Development, il profilo Trustpilot di starlink.com, ha un TrustScore di 1,6 su 5 con 879 recensioni, il 71% delle quali da una stella. Il profilo non è rivendicato: l’azienda non ha un piano a pagamento, non invia inviti a recensire e non ha risposto a nessuna delle 464 recensioni negative. Le recensioni arrivano da clienti di molti paesi."
+        "Starlink Development, il profilo Trustpilot di starlink.com, ha un TrustScore di 1,6 su 5 con 879 recensioni, il 71% delle quali da una stella. Il profilo non è rivendicato: l’azienda non ha un piano a pagamento, non invia inviti a recensire e non ha risposto a nessuna delle 464 recensioni negative degli ultimi 12 mesi, il periodo coperto dalla pagina sull’attività dell’azienda su Trustpilot. Le recensioni arrivano da clienti di molti paesi.",
+        "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
+      ],
+      "links": [
+        {
+          "label": "Verificare il bonus Starlink al mio indirizzo",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -184,13 +200,6 @@
           "objectFit": "contain",
           "aspectRatio": 1.8079
         }
-      ],
-      "links": [
-        {
-          "label": "Apri l’ordine ufficiale su starlink.com e controlla la mia zona",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
       ]
     },
     {
@@ -224,7 +233,7 @@
       "emphasis": "Secondo i numeri della tabella, per chi non ha una buona alternativa internet al proprio indirizzo, abbonarsi è ragionevole dopo aver controllato piano, kit, imposte e contratto su starlink.com per quell’indirizzo, perché l’1,6 riflette lamentele su assistenza, fatturazione e prezzo più che sulla qualità del segnale.",
       "links": [
         {
-          "label": "Verifica la disponibilità al mio indirizzo su starlink.com",
+          "label": "Apri l’ordine ufficiale su starlink.com e controlla la mia zona",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -267,8 +276,8 @@
     ]
   },
   "cta": {
-    "text": "Apri l’ordine con il link di invito, controlla piano, kit e contratto al tuo indirizzo e salva lo screenshot del riepilogo prima di pagare. Il prezzo è quello del sito ufficiale.",
-    "label": "Apri il mio ordine su starlink.com",
+    "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
+    "label": "Aprire il mio ordine con il link di invito",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

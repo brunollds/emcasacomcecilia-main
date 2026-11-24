@@ -8,13 +8,21 @@
   "type": "Analyse de réputation",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Voyez la note, le nombre d'avis et les plaintes qui reviennent sur le profil Trustpilot de starlink.com, et ce que reflètent ces chiffres pour quelqu'un qui hésite à s'abonner.",
   "metaDescription": "Starlink sur Trustpilot : note de 1,6 pour 879 avis sur un profil non revendiqué. Ce que disent les avis récents à une et à cinq étoiles.",
   "publishedAt": "20 novembre 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Starlink Development, le profil Trustpilot de starlink.com, affiche un TrustScore de 1,6 sur 5 pour 879 avis, dont 71 % à une étoile. Le profil n’est pas revendiqué : l’entreprise n’a pas d’offre payante, n’envoie pas d’invitations à laisser un avis et n’a répondu à aucun des 464 avis négatifs. Les avis viennent de clients de nombreux pays."
+        "Starlink Development, le profil Trustpilot de starlink.com, affiche un TrustScore de 1,6 sur 5 pour 879 avis, dont 71 % à une étoile. Le profil n’est pas revendiqué : l’entreprise n’a pas d’offre payante, n’envoie pas d’invitations à laisser un avis et n’a répondu à aucun des 464 avis négatifs des 12 derniers mois, la période que couvre la page d’activité de l’entreprise sur Trustpilot. Les avis viennent de clients de nombreux pays.",
+        "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
+      ],
+      "links": [
+        {
+          "label": "Vérifier mon adresse et le crédit Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -184,13 +200,6 @@
           "objectFit": "contain",
           "aspectRatio": 1.8079
         }
-      ],
-      "links": [
-        {
-          "label": "Ouvrir la commande officielle sur starlink.com et vérifier ma zone",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
       ]
     },
     {
@@ -224,7 +233,7 @@
       "emphasis": "D’après les chiffres du tableau, pour qui n’a pas de bonne solution internet à son adresse, s’abonner est raisonnable une fois l’offre, le kit, les taxes et le contrat vérifiés sur starlink.com pour cette adresse, car le 1,6 reflète des plaintes de support, de facturation et de prix plus que de qualité du signal.",
       "links": [
         {
-          "label": "Vérifier la disponibilité à mon adresse sur starlink.com",
+          "label": "Ouvrir la commande officielle sur starlink.com et vérifier ma zone",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -267,8 +276,8 @@
     ]
   },
   "cta": {
-    "text": "Ouvrez la commande par le lien de parrainage, vérifiez l’offre, le kit et le contrat à votre adresse et enregistrez la capture du récapitulatif avant de payer. Le prix est celui du site officiel.",
-    "label": "Ouvrir ma commande sur starlink.com",
+    "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
+    "label": "Ouvrir ma commande avec le parrainage",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

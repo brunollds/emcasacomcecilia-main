@@ -8,13 +8,21 @@
   "type": "Buying Guide",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "See when Starlink is worth it: rural homes or areas where local fiber drops or slows down. Compare US/UK plans, $0 rental hardware, backup use and sky check.",
   "metaDescription": "Is Starlink worth it with local fiber nearby? Compare US/UK monthly plans, $0 rental kit, unstable fiber as a reason to switch or add backup internet.",
   "publishedAt": "November 20, 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Yes, Starlink is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. Testing is low-risk: the rental kit costs $0 upfront in the US, and you have 30 days to return it."
+        "Yes, Starlink is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. The Nevada offer we checked listed a $0 rental kit and $20 plus taxes due when ordering.",
+        "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+      ],
+      "links": [
+        {
+          "label": "Check my address for the Starlink reward",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -151,13 +167,6 @@
         "The 200 Mbps plan is the one many comparisons skip. At $59.50 in Nevada it includes professional installation at $0, while the optional installation on 100 Mbps costs $99. The promotional price has no stated duration, so do not multiply it by 12 without checking your own order.",
         "Work out the cost before any reward. Through our referral link, Starlink gives US$ 100 in the US and £ 40 in the UK after two months of subscription, as credit on the bill. See the [Starlink referral page](/en/coupons/starlink)."
       ],
-      "links": [
-        {
-          "label": "Simulate plan and kit for my address",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "image": {
         "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
         "alt": "Starlink residential order screen for Nevada showing the 100 Mbps, 200 Mbps and Max tabs and $0 hardware rental",
@@ -240,7 +249,7 @@
       ],
       "links": [
         {
-          "label": "Test it at my address with 30 days to return",
+          "label": "Simulate plan and kit for my address",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -279,8 +288,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "You pay the same price as on the official site, keep the 30 days to return the kit if it does not work on your roof, and get US$ 100 in the US (£ 40 in the UK) as credit on your bill after two months of subscription, once the rules are met.",
-    "label": "See my address on starlink.com with the referral",
+    "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+    "label": "Open my Starlink order with the referral",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

@@ -3,20 +3,28 @@
   "slug": "starlink-lien-parrainage",
   "translationKey": "starlink-indicacao",
   "locale": "fr",
-  "title": "Comment gagner 45 € en France en achetant votre premier Starlink via le lien de parrainage",
-  "seoTitle": "Comment gagner 45 € sur votre premier Starlink",
+  "title": "Comment recevoir 45 € de crédit sur votre premier abonnement Starlink",
+  "seoTitle": "Starlink : 45 € de crédit avec le parrainage",
   "type": "Guide du code de parrainage",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
-  "description": "Starlink n'a pas de code promo : commandez votre premier kit avec le lien officiel de parrainage, payez le même prix et recevez 45 € en France après deux mois.",
-  "metaDescription": "Comment recevoir 45 € en France lors de votre première commande Starlink, ce que cela couvre sur les forfaits et comment activer le lien avant de payer.",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "En France, les nouveaux abonnés Starlink peuvent recevoir 45 € de crédit sur leur facture via notre lien. Vérifiez le montant avant de payer.",
+  "metaDescription": "En France, les nouveaux abonnés Starlink peuvent recevoir 45 € de crédit sur leur facture via notre lien. Vérifiez le montant avant de payer.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,7 +39,14 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Starlink ne propose aucun code promo à saisir au panier : en plus des offres de son site, passer par un lien de parrainage est le moyen officiel d'obtenir une récompense sur votre premier abonnement. En France, elle est de 45 € (dans un autre pays, le montant en euros ou en devise locale s'affiche sur la commande). Vous payez le même tarif que sur starlink.com et gardez l'essai de 30 jours ; avec le forfait Résidentiel 100 Mbit/s à 24,50 €/mois à Paris, 45 € couvrent presque deux mois. Ouvrez le lien avant de commander, vérifiez la mention du parrainage avant de payer, activez le kit et gardez l'abonnement à jour pendant deux cycles mensuels. Une commande finalisée sans le lien ne peut plus être corrigée."
+        "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
+      ],
+      "links": [
+        {
+          "label": "Vérifier mon adresse et le crédit Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -76,13 +91,6 @@
           ]
         ]
       },
-      "links": [
-        {
-          "label": "Ouvrir ma commande avec les 45 € de parrainage",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "simulator": {
         "title": "Testez votre scénario",
         "scenarios": [
@@ -216,7 +224,7 @@
       },
       "links": [
         {
-          "label": "Sécuriser la récompense avant de commander",
+          "label": "Ouvrir ma commande avec les 45 € de parrainage",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -286,8 +294,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Vous payez exactement le même prix que sur le site officiel, gardez les 30 jours pour rendre le kit s'il ne fonctionne pas sur votre toit et sécurisez 45 € de crédit en France après deux cycles mensuels.",
-    "label": "Activer mes 45 € sur starlink.com",
+    "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
+    "label": "Ouvrir ma commande avec le parrainage",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

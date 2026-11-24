@@ -8,13 +8,21 @@
   "type": "购买指南",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "不仅适合无光纤地区：如果当地光纤经常掉线或网速远低于合同标准，Starlink 也值得作为替代或备用网络。对比套餐条件与遮挡检查。",
   "metaDescription": "Starlink 值得买吗？除了看套餐与套件费用，也从当地光纤不稳定和备用宽带需求分析何时值得办理。",
   "publishedAt": "2026年11月20日",
@@ -31,7 +39,15 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "是的，Starlink 不仅适合没有光纤的地方，也适合有光纤却经常掉线、或实际网速远低于合同标准的家庭。我们自己也是为了替代并备用不稳定的光纤而办理 Starlink。如果现有光纤确实稳定，费用和延迟上仍是光纤占优。试用的风险不高：马来西亚的 Max 套餐设备租赁 RM 0，100 Mbps 套餐的设备购买后也有 30 天可退。"
+        "是的，Starlink 不仅适合没有光纤的地方，也适合有光纤却经常掉线、或实际网速远低于合同标准的家庭。我们自己也是为了替代并备用不稳定的光纤而办理 Starlink。如果现有光纤确实稳定，费用和延迟上仍是光纤占优。试用的风险不高：马来西亚的 Max 套餐设备租赁 RM 0，100 Mbps 套餐的设备购买后也有 30 天可退。",
+        "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
+      ],
+      "links": [
+        {
+          "label": "查看我的地址适用的 Starlink 推荐奖励",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -139,13 +155,6 @@
       "postParagraphs": [
         "先不含奖励算一遍，再看奖励能抵多少。通过我们的链接订阅，满两个月后可获得奖励，金额因国家而异（例如美国为 US$ 100）。见[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
       ],
-      "links": [
-        {
-          "label": "用我的地址试算套餐和设备",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "image": {
         "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
         "alt": "Starlink 马来西亚吉隆坡官方订购页面，显示 100 Mbps 月费 RM 135 和 Mini X 购买价 RM 900",
@@ -228,7 +237,7 @@
       ],
       "links": [
         {
-          "label": "在我的地址试用，30 天内可退",
+          "label": "用我的地址试算套餐和设备",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -267,8 +276,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "以和官方网站相同的价格下单，如果在你的屋顶不能用，可在 30 天内退回；推荐奖励因国家而异（例如美国为 US$ 100），符合规则后以账单抵扣发放。",
-    "label": "通过推荐链接在 starlink.com 查看我的地址",
+    "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
+    "label": "通过推荐链接打开 Starlink 订单",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

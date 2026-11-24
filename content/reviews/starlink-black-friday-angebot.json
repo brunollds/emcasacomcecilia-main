@@ -8,13 +8,21 @@
   "type": "Black-Friday-Ratgeber",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "In Berlin zeigte Starlink 100 Mbit/s für 17,50 € im Monat statt 35 €, drei Monate lang, und das Kit zur Miete für 0 €. Die Rechnung für Berlin und die Empfehlungsprämie.",
   "metaDescription": "Starlink Black Friday: 50 % auf die Tarife für 3 Monate, Kit zur Miete für 0 €, monatlich kündbar. Die Rechnung für Berlin und die Empfehlungsprämie.",
   "publishedAt": "20. November 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Die Bestellseite von Starlink zeigte in Berlin 50 % Rabatt auf die Tarife für die ersten 3 Monate, bei Bestellung bis zum 30. November: 100 Mbit/s für 17,50 € im Monat, 200 Mbit/s für 27,50 € und Max für 37,50 €, dazu das Kit zur Miete für 0 € und 19 € am Bestelltag. Der Vertrag läuft von Monat zu Monat und ist gebührenfrei kündbar. Die Empfehlungsprämie zählt nur, wenn Sie die Bestellung vor der Zahlung über einen Empfehlungslink öffnen."
+        "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt.",
+        "Die Bestellseite von Starlink zeigte in Berlin 50 % Rabatt auf die Tarife für die ersten 3 Monate, bei Bestellung bis zum 30. November: 100 Mbit/s für 17,50 € im Monat, 200 Mbit/s für 27,50 € und Max für 37,50 €, dazu das Kit zur Miete für 0 € und 19 € am Bestelltag. Der Vertrag läuft von Monat zu Monat und ist gebührenfrei kündbar."
+      ],
+      "links": [
+        {
+          "label": "Starlink-Prämie für meine Adresse prüfen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -146,14 +162,7 @@
       "postParagraphs": [
         "Auf drei Monate gerechnet kostet der 100-Mbit/s-Tarif 52,50 €, der 200-Mbit/s-Tarif 82,50 € und der Max 112,50 €. Danach verdoppelt sich der Monatspreis, weil der Normalpreis gilt. Wer länger bleiben will, rechnet deshalb mit 35 €, 55 € oder 75 €."
       ],
-      "emphasis": "Nach den Zahlen der Tabelle zahlt, wer in Berlin bestellt, 19 € am Bestelltag und danach 17,50 € bis 37,50 € im Monat, und die Prämie wird erst nach zwei vollen Monatszyklen gutgeschrieben, sodass die ersten Rechnungen aus eigener Tasche kommen.",
-      "links": [
-        {
-          "label": "Black Friday und Empfehlungsprämie für meine Adresse prüfen",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ]
+      "emphasis": "Nach den Zahlen der Tabelle zahlt, wer in Berlin bestellt, 19 € am Bestelltag und danach 17,50 € bis 37,50 € im Monat, und die Prämie wird erst nach zwei vollen Monatszyklen gutgeschrieben, sodass die ersten Rechnungen aus eigener Tasche kommen."
     },
     {
       "heading": "So sieht es in der Bestellung aus",
@@ -198,7 +207,7 @@
       },
       "links": [
         {
-          "label": "Prämie sichern, bevor ich die Bestellung bezahle",
+          "label": "Black Friday und Empfehlungsprämie für meine Adresse prüfen",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -255,8 +264,8 @@
     }
   ],
   "cta": {
-    "text": "Sie zahlen denselben Preis wie auf der offiziellen Bestellseite, behalten die 30 Tage zum Testen samt Rückgabe des Miet-Kits, falls die Antenne auf Ihrem Dach nicht funktioniert, und die Empfehlungsprämie kommt nach zwei bezahlten Zyklen auf Ihre Rechnung.",
-    "label": "Meine Adresse mit Empfehlung prüfen",
+    "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
+    "label": "Meine Bestellung über den Empfehlungslink öffnen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

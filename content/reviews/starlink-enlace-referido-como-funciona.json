@@ -3,20 +3,28 @@
   "slug": "starlink-enlace-referido-como-funciona",
   "translationKey": "starlink-indicacao",
   "locale": "es",
-  "title": "Cómo ganar 45 € en España (o el importe de tu país) al comprar tu primer Starlink con el enlace de referido",
-  "seoTitle": "Cómo ganar 45 € al comprar tu primer Starlink",
+  "title": "Starlink: cómo recibir 45 € en España o 700 pesos en México al contratar",
+  "seoTitle": "Starlink: 45 € en España o 700 pesos en México",
   "type": "Guía del código de referido",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
-  "description": "Starlink no tiene código de cupón: pide tu primer kit con el enlace oficial de referido, paga el mismo precio de la web y recibe 45 € en España tras dos meses.",
-  "metaDescription": "Cómo conseguir 45 € en España al contratar tu primer Starlink con el enlace de referido, cuánto cubre y cómo activarlo antes de pagar.",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Usa nuestro enlace al contratar Starlink. La referencia de noviembre es 45 € en España o 700 pesos en México. Confirma el importe en tu pedido.",
+  "metaDescription": "Usa nuestro enlace al contratar Starlink. La referencia de noviembre es 45 € en España o 700 pesos en México. Confirma el importe en tu pedido.",
   "publishedAt": "20 de noviembre de 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,14 +39,22 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Starlink no tiene códigos promocionales para escribir en la cesta: además de las ofertas de su web, la vía oficial para conseguir una recompensa en tu primera suscripción es pedir con un enlace de referido. En España recibes 45 € (en otros países, el importe en tu moneda aparece en el pedido), pagando lo mismo que en starlink.com y manteniendo los 30 días de prueba. Con el plan de 100 Mbps de Madrid (24,50 €/mes con la promoción), 45 € cubren casi dos mensualidades. Abre el enlace antes de pedir, comprueba en pantalla el aviso de referido aplicado, activa el kit y mantén dos ciclos mensuales pagados. Si completas la compra sin el enlace, no se puede añadir después."
+        "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+      ],
+      "links": [
+        {
+          "label": "Consultar mi dirección con la bonificación de Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Por qué merece la pena pedir con el enlace",
       "paragraphs": [
         "Si entras en starlink.com por tu cuenta, el equipo y la mensualidad cuestan lo mismo que con el enlace. La diferencia son los 45 € que dejarías sin cobrar. El crédito no baja el precio del kit el día del pedido: llega a tu factura después de dos ciclos mensuales completos y pagados.",
-        "Las cifras de abajo salen de direcciones de referencia. En tu dirección, el precio, el kit y las condiciones pueden ser otros, y solo el pedido los muestra."
+        "Las cifras de abajo salen de direcciones de referencia. En tu dirección, el precio, el kit y las condiciones pueden ser otros, y solo el pedido los muestra.",
+        "La referencia de 700 pesos en México figura en el relevamiento de noviembre de SatNet Watch. El importe de tu pedido es el que cuenta."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
@@ -82,13 +98,6 @@
           ]
         ]
       },
-      "links": [
-        {
-          "label": "Abrir mi pedido con el bono de 45 €",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "simulator": {
         "title": "Prueba tu escenario",
         "scenarios": [
@@ -222,7 +231,7 @@
       },
       "links": [
         {
-          "label": "Asegurar el bono antes de pedir",
+          "label": "Abrir mi pedido con el bono de 45 €",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -291,8 +300,8 @@
     }
   ],
   "cta": {
-    "text": "Pagas exactamente el mismo precio que en la web oficial, conservas los 30 días para devolver el kit si no funciona en tu tejado y aseguras 45 € de crédito en España tras dos ciclos mensuales.",
-    "label": "Activar mi bono de 45 € en starlink.com",
+    "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+    "label": "Abrir mi pedido con el enlace de referido",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

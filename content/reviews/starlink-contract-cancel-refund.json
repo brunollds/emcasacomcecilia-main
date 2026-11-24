@@ -8,13 +8,21 @@
   "type": "Practical Guide",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "In Nevada and London the Starlink kit is a $0 rental with no contract, and you return it if you cancel. See the three plans, the 30-day refund and how to cancel.",
   "metaDescription": "Starlink in the US and UK: no contract, a $0 rental kit you return if you cancel, a 30-day refund and the steps to cancel from your account.",
   "publishedAt": "November 20, 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "On the order pages we read for Nevada and London, Starlink had no contract: the kit is a rental at $0 upfront and $0 a month (£0 in the UK), and you return it if you cancel. The monthly prices shown are promotional and have no fixed duration, and Starlink may update pricing with 30 days' notice. If you cancel and return the kit undamaged within 30 days of the payment due date, the offer refunds the kit and the first month. It is not the same everywhere: in Brazil and Mexico, a subsidised kit can come with a 12-month term."
+        "On the order pages we read for Nevada and London, Starlink had no contract: the kit is a rental at $0 upfront and $0 a month (£0 in the UK), and you return it if you cancel. The monthly prices shown are promotional and have no fixed duration, and Starlink may update pricing with 30 days' notice. If you cancel and return the kit undamaged within 30 days of the payment due date, the offer refunds the kit and the first month. It is not the same everywhere: in Brazil and Mexico, a subsidised kit can come with a 12-month term.",
+        "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+      ],
+      "links": [
+        {
+          "label": "Check my address for the Starlink reward",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -69,14 +85,7 @@
         "caption": "London, UK, checked 23 November 2026: £40 a month, Mini Rental £0, Router Mini £0 and £19 due today.",
         "objectFit": "portrait",
         "aspectRatio": 0.6543
-      },
-      "links": [
-        {
-          "label": "Check the plans and the contract at my address",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ]
+      }
     },
     {
       "heading": "The two markets side by side",
@@ -152,7 +161,7 @@
       "emphasis": "By the terms on the order page, cancelling and returning the kit undamaged within 30 days of the payment due date is what triggers the refund of the kit and the first month, so the shipping receipt is the proof that decides it.",
       "links": [
         {
-          "label": "See plans with the 30-day refund on starlink.com",
+          "label": "Check the plans and the contract at my address",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -245,8 +254,8 @@
     ]
   },
   "cta": {
-    "text": "The order opens on starlink.com through the referral link, which has to come before you pay. You pay the same price as on the site, see the contract for your own address and keep the 30 days to send the kit back. The referral credit is $100 in the US and £40 in the UK, after two months of service.",
-    "label": "Check the contract and plan at my address",
+    "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+    "label": "Open my Starlink order with the referral",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

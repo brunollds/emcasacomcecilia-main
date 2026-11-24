@@ -3,20 +3,28 @@
   "slug": "starlink-referral-ja",
   "translationKey": "starlink-indicacao",
   "locale": "ja",
-  "title": "初めてのStarlink購入で紹介リンクから7,000円を受け取る方法",
-  "seoTitle": "初めてのStarlink購入で7,000円を受け取る方法",
+  "title": "Starlinkの初回契約で7,000円分の紹介クレジットを受け取る方法",
+  "seoTitle": "Starlinkの紹介特典：初回契約で7,000円分",
   "type": "紹介コードガイド",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
-  "description": "Starlinkにクーポンコードはありません。紹介リンクから初めて注文すれば、公式サイトと同額・30日間の返却期間のまま、2か月利用後に日本で7,000円分の特典を受け取れます。",
-  "metaDescription": "初めてのStarlink購入で紹介リンクを使って7,000円を受け取る手順と、東京のホームプランの月額に対するメリットをまとめました。",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "日本で初めてStarlinkを契約する方は、紹介リンクから7,000円分の請求額クレジットを受け取れます。支払い前に特典を確認する手順を紹介します。",
+  "metaDescription": "日本で初めてStarlinkを契約する方は、紹介リンクから7,000円分の請求額クレジットを受け取れます。支払い前に特典を確認する手順を紹介します。",
   "publishedAt": "2026年11月20日",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,7 +39,14 @@
     {
       "heading": "クイックアンサー",
       "paragraphs": [
-        "Starlinkに割引クーポンコードはありません。公式サイトのキャンペーンとは別に、初めて契約する方が特典を受け取れる公式の方法が紹介リンクです。このリンクからstarlink.comで注文すると、公式サイトと同じ価格・同じ30日間の返却期間のまま、日本では請求サイクル2回分を続けたあとに7,000円分が付与されます。東京のホームプラン（割引後の月額3,550円）なら、ほぼ2か月分にあたります。注文前にリンクを開いて適用の表示を確認し、2か月間支払いを続けてください。購入後に紹介を追加することはできません。"
+        "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
+      ],
+      "links": [
+        {
+          "label": "利用住所でStarlinkの紹介特典を確認",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -70,13 +85,6 @@
           ]
         ]
       },
-      "links": [
-        {
-          "label": "7,000円特典つきで注文画面を開く",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "simulator": {
         "title": "ご自身のケースで試算",
         "scenarios": [
@@ -210,7 +218,7 @@
       },
       "links": [
         {
-          "label": "注文の前に特典を確保する",
+          "label": "7,000円特典つきで注文画面を開く",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -279,8 +287,8 @@
     }
   ],
   "cta": {
-    "text": "公式サイトと同じ価格で、屋根で使えなければ30日以内に返却でき、請求サイクル2回分のあとに日本で7,000円のクレジットを受け取れます。",
-    "label": "7,000円特典つきで公式サイトを確認する",
+    "text": "日本の新規契約者は、対象プランで2回の請求サイクルの支払いを完了すると、7,000円分のクレジットを受け取れます。私たちの紹介リンクから注文画面を開き、支払い前に特典をご確認ください。",
+    "label": "紹介リンクでStarlinkの注文を開く",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

@@ -8,13 +8,21 @@
   "type": "Anleitung",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "In Berlin läuft der Vertrag von Monat zu Monat, die Kündigung ist gebührenfrei, und das gemietete Kit geht zurück. Alle drei Tarife, die 30 Tage und die Schritte im Konto.",
   "metaDescription": "Starlink kündigen in Deutschland: Vertrag von Monat zu Monat, gebührenfrei kündbar, Kit zur Miete geht zurück. 30 Tage und Schritte im Konto.",
   "publishedAt": "20. November 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Die Bestellübersicht für Berlin nennt es ausdrücklich: Der Vertrag wird automatisch von Monat zu Monat auf unbestimmte Zeit verlängert, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Das Kit ist gemietet, mit 0 € Vorauszahlung und 0 € im Monat, und geht bei Kündigung an Starlink zurück. Wer kündigt und das Kit innerhalb von 30 Tagen unbeschädigt zurückgibt, bekommt nach den Bedingungen des Angebots Kit und ersten Monat erstattet."
+        "Die Bestellübersicht für Berlin nennt es ausdrücklich: Der Vertrag wird automatisch von Monat zu Monat auf unbestimmte Zeit verlängert, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Das Kit ist gemietet, mit 0 € Vorauszahlung und 0 € im Monat, und geht bei Kündigung an Starlink zurück. Wer kündigt und das Kit innerhalb von 30 Tagen unbeschädigt zurückgibt, bekommt nach den Bedingungen des Angebots Kit und ersten Monat erstattet.",
+        "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
+      ],
+      "links": [
+        {
+          "label": "Starlink-Prämie für meine Adresse prüfen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -54,13 +70,6 @@
           "caption": "Bestellübersicht in Berlin, Stand 23.11.2026: Vertrag von Monat zu Monat, Kündigung gebührenfrei, 3 Monate Rabatt von 27,50 €.",
           "objectFit": "portrait",
           "aspectRatio": 0.5889
-        }
-      ],
-      "links": [
-        {
-          "label": "Tarife und Vertragsbedingungen für meine Adresse prüfen",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
         }
       ]
     },
@@ -122,7 +131,7 @@
       "emphasis": "Nach den Bedingungen der Bestellung löst nur die Kündigung mit unbeschädigter Rückgabe des Kits innerhalb von 30 Tagen die Erstattung von Kit und erstem Monat aus, und der Versandbeleg ist der Nachweis, auf den es ankommt.",
       "links": [
         {
-          "label": "Tarife mit 30 Tagen Erstattung auf starlink.com ansehen",
+          "label": "Tarife und Vertragsbedingungen für meine Adresse prüfen",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -221,8 +230,8 @@
     ]
   },
   "cta": {
-    "text": "Die Bestellung öffnet sich auf starlink.com über den Empfehlungslink, der vor der Zahlung kommen muss. Sie zahlen denselben Preis wie auf der Seite, sehen die Vertragsbedingungen Ihrer Adresse und behalten die 30 Tage für die Rückgabe. Die Gutschrift kommt nach zwei Monaten Abonnement.",
-    "label": "Vertrag und Tarif für meine Adresse prüfen",
+    "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
+    "label": "Meine Bestellung über den Empfehlungslink öffnen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

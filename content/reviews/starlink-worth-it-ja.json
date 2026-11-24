@@ -8,13 +8,21 @@
   "type": "購入ガイド",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "光回線がない地域だけでなく、自宅の光が不安定・遅い場合の乗り換えやバックアップ回線としてStarlinkに価値があるか解説。料金、レンタル条件、設置確認までまとめました。",
   "metaDescription": "Starlinkは買う価値がある？光回線が不安定な地域の代替・バックアップ用途、東京の月額料金とレンタル条件を整理。",
   "publishedAt": "2026年11月20日",
@@ -31,7 +39,15 @@
     {
       "heading": "クイックアンサー",
       "paragraphs": [
-        "はい、Starlinkは安定した回線が届かない地域だけでなく、光回線があっても頻繁に切れる、契約速度より極端に遅いといった家庭でも価値があります。当サイトでも、不安定な光回線の代替・バックアップとしてStarlinkを契約しました。光回線が本当に安定しているなら、料金と遅延では光回線が有利です。試すリスクは小さく、東京の注文画面ではキットは初期費用0円のレンタルで、30日以内なら返却できます。"
+        "はい、Starlinkは安定した回線が届かない地域だけでなく、光回線があっても頻繁に切れる、契約速度より極端に遅いといった家庭でも価値があります。当サイトでも、不安定な光回線の代替・バックアップとしてStarlinkを契約しました。光回線が本当に安定しているなら、料金と遅延では光回線が有利です。試すリスクは小さく、東京の注文画面ではキットは初期費用0円のレンタルで、30日以内なら返却できます。",
+        "日本で初めてStarlinkを契約する方は、7,000円分の請求額クレジットを受け取れます。注文前に私たちの紹介リンクを開き、特典の表示を確認してください。対象プランを契約し、2回の請求サイクルを完了するまで支払いを続けることが条件です。"
+      ],
+      "links": [
+        {
+          "label": "利用住所でStarlinkの紹介特典を確認",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -140,13 +156,6 @@
         "東京の注文画面で選べたプランはホームだけでした。米国や欧州では100Mbps、200Mbps、Maxから選べますが、日本の住所ではこの1つです。50%オフが終わったあとの7,100円まで含めて、12か月の総額を考えてください。",
         "費用を見積もるときは、まず特典を引かずに計算します。私たちのリンクから契約すると、日本では2か月の契約を続けたあとに7,000円が請求へのクレジットとして付与されます。[Starlinkの紹介ページ](/ja/coupons/starlink)を参照してください。"
       ],
-      "links": [
-        {
-          "label": "自分の住所でプランとキットを試算する",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "image": {
         "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
         "alt": "Starlinkの公式注文画面。東京のホームプランが月額3,550円で、Miniレンタルが0円と表示されている",
@@ -229,7 +238,7 @@
       ],
       "links": [
         {
-          "label": "30日間の返却つきで、自分の住所で試す",
+          "label": "自分の住所でプランとキットを試算する",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -268,8 +277,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "公式サイトと同じ価格で申し込めます。屋根で使えなかった場合は30日以内に返却でき、条件を満たせば、日本では2か月の契約を続けたあとに7,000円が請求へのクレジットとして付与されます。",
-    "label": "紹介リンクでstarlink.comの住所を確認する",
+    "text": "日本の新規契約者は、対象プランで2回の請求サイクルの支払いを完了すると、7,000円分のクレジットを受け取れます。私たちの紹介リンクから注文画面を開き、支払い前に特典をご確認ください。",
+    "label": "紹介リンクでStarlinkの注文を開く",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

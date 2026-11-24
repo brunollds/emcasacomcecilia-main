@@ -8,13 +8,21 @@
   "type": "Guide pratique",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "À Paris, le kit Starlink est loué à 0 €, sans durée minimale, et doit être renvoyé si vous annulez. Voyez les trois forfaits, les 30 jours et comment résilier.",
   "metaDescription": "Starlink à Paris : kit loué à 0 €, pas de durée fixe, à renvoyer en cas d'annulation, remboursement sous 30 jours et résiliation depuis le compte.",
   "publishedAt": "20 novembre 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Sur la commande lue pour une adresse à Paris, Starlink n'impose pas de durée minimale : le matériel est loué, à 0 € au départ et 0 € par mois, et il faut le renvoyer si vous annulez le service. La commande prévoit le remboursement du kit et du premier mois si vous annulez et renvoyez le matériel en bon état dans les 30 jours. Les prix affichés n'ont pas de durée fixe, et Starlink peut les modifier avec un préavis de 30 jours."
+        "Sur la commande lue pour une adresse à Paris, Starlink n'impose pas de durée minimale : le matériel est loué, à 0 € au départ et 0 € par mois, et il faut le renvoyer si vous annulez le service. La commande prévoit le remboursement du kit et du premier mois si vous annulez et renvoyez le matériel en bon état dans les 30 jours. Les prix affichés n'ont pas de durée fixe, et Starlink peut les modifier avec un préavis de 30 jours.",
+        "Vous souscrivez pour la première fois en France ? Vous pouvez recevoir 45 € de crédit sur votre facture. Ouvrez notre lien de parrainage avant de commander, vérifiez le montant affiché et gardez votre abonnement éligible actif et à jour pendant deux cycles complets de facturation."
+      ],
+      "links": [
+        {
+          "label": "Vérifier mon adresse et le crédit Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -55,13 +71,6 @@
           "caption": "Récapitulatif à Paris, consulté le 23/11/2026 : 35 € moins 10,50 €, Mini X à 0 € et 19 € aujourd'hui.",
           "objectFit": "portrait",
           "aspectRatio": 0.6625
-        }
-      ],
-      "links": [
-        {
-          "label": "Voir les forfaits et l'engagement à mon adresse",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
         }
       ]
     },
@@ -118,7 +127,7 @@
       "emphasis": "D'après les conditions de la commande, annuler et renvoyer le kit en bon état dans les 30 jours est ce qui ouvre le remboursement du kit et du premier mois, et la preuve d'expédition fait foi.",
       "links": [
         {
-          "label": "Voir les forfaits avec 30 jours de remboursement sur starlink.com",
+          "label": "Voir les forfaits et l'engagement à mon adresse",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -216,8 +225,8 @@
     ]
   },
   "cta": {
-    "text": "La commande s'ouvre sur starlink.com avec le lien de parrainage, qui doit venir avant le paiement. Vous payez le même prix que sur le site, vous voyez l'engagement de votre adresse et vous gardez les 30 jours pour renvoyer le kit. Le crédit arrive après deux mois d'abonnement.",
-    "label": "Consulter l'engagement et le forfait à mon adresse",
+    "text": "Les nouveaux clients en France peuvent recevoir 45 € de crédit sur leur facture après deux cycles complets réglés. Ouvrez la commande Starlink via notre lien et vérifiez le montant avant de payer.",
+    "label": "Ouvrir ma commande avec le parrainage",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

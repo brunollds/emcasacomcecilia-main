@@ -8,13 +8,21 @@
   "type": "Guía de compra",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Comprueba si Starlink vale la pena en fincas o en zonas donde la fibra se corta y no da la velocidad. Mira planes, kit en alquiler y uso como conexión de respaldo.",
   "metaDescription": "¿Vale la pena Starlink incluso con fibra en casa? Precios por dirección, kit en alquiler, inestabilidad de la fibra y uso como alternativa o respaldo.",
   "publishedAt": "20 de noviembre de 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Sí, Starlink vale la pena donde no llega una conexión estable y también donde hay fibra, pero se corta a menudo o rinde muy por debajo de lo contratado. Nosotros la contratamos como alternativa y respaldo de nuestra fibra inestable. Si tu fibra es realmente estable, suele ganar en precio y latencia. Probar tiene poco riesgo: en el pedido de Madrid el kit va en alquiler a 0 € y hay 30 días para devolverlo."
+        "Sí, Starlink vale la pena donde no llega una conexión estable y también donde hay fibra, pero se corta a menudo o rinde muy por debajo de lo contratado. Nosotros la contratamos como alternativa y respaldo de nuestra fibra inestable. Si tu fibra es realmente estable, suele ganar en precio y latencia. Probar tiene poco riesgo: en el pedido de Madrid el kit va en alquiler a 0 € y hay 30 días para devolverlo.",
+        "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+      ],
+      "links": [
+        {
+          "label": "Consultar mi dirección con la bonificación de Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -144,13 +160,6 @@
         "El plan de 200 Mbps es el que muchas comparativas se saltan: a 31,50 € cuesta 7 € más al mes que el de 100 Mbps y trae el kit Standard 4 en alquiler. En Ciudad de México la situación es otra: el pedido que leímos solo mostraba el plan Max, a 1.485 MXN más 55 MXN de costo regulatorio, con compra del equipo. El Standard 4 X exigía un plazo de 12 meses, con multa de hasta 4.600 MXN, y el Kit Mini no.",
         "Haz la cuenta primero sin la recompensa del referido. Con nuestro enlace, quien se suscribe recibe 45 € en España tras dos meses de suscripción, como crédito en la factura. Mira la [página de referidos de Starlink](/es/coupons/starlink)."
       ],
-      "links": [
-        {
-          "label": "Simular plan y kit para mi dirección",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "image": {
         "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
         "alt": "Pantalla oficial de Starlink en Madrid con el plan de 100 Mbps a 24,50 € al mes y el kit en alquiler a 0 €",
@@ -233,7 +242,7 @@
       ],
       "links": [
         {
-          "label": "Probar en mi dirección con 30 días para devolver",
+          "label": "Simular plan y kit para mi dirección",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -272,8 +281,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Pagas el mismo precio que en el sitio oficial, conservas los 30 días para devolver el kit si no funciona en tu tejado y recibes la recompensa del programa de referidos tras cumplir las reglas.",
-    "label": "Ver mi dirección en starlink.com con el referido",
+    "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+    "label": "Abrir mi pedido con el enlace de referido",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

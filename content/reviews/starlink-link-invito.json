@@ -3,20 +3,28 @@
   "slug": "starlink-link-invito",
   "translationKey": "starlink-indicacao",
   "locale": "it",
-  "title": "Come ottenere 45 € in Italia acquistando il tuo primo Starlink con il link di invito",
-  "seoTitle": "Come ottenere 45 € sul tuo primo Starlink (invito)",
+  "title": "Come ottenere 45 € di credito sul tuo primo abbonamento Starlink",
+  "seoTitle": "Starlink: 45 € di credito con il link di invito",
   "type": "Guida al codice invito",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
-  "description": "Starlink non ha codici sconto: ordina il tuo primo kit dal link di invito ufficiale, paga lo stesso prezzo del sito e ricevi 45 € in Italia dopo due mesi.",
-  "metaDescription": "Come ottenere 45 € in Italia sul tuo primo Starlink con il link di invito, quanto copre sui piani attuali e come attivarlo prima di pagare.",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura con il nostro link di invito. Controlla il bonus prima di pagare.",
+  "metaDescription": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura con il nostro link di invito. Controlla il bonus prima di pagare.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,7 +39,14 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Starlink non ha un codice coupon da incollare al checkout: oltre alle offerte del sito, il link di invito è il modo ufficiale per ricevere una ricompensa sul primo abbonamento. In Italia sono 45 € (in altri paesi l'importo nella tua valuta compare nell'ordine). Paghi lo stesso prezzo di starlink.com e mantieni i 30 giorni di prova; con il piano Residenziale 100 Mbps di Milano in offerta (17,50 €/mese), 45 € coprono oltre due mesi e mezzo. Apri il link prima di ordinare, verifica l'avviso dell'invito prima di pagare, attiva il kit e resta in regola per due cicli mensili. Se concludi l'ordine senza il link, non puoi aggiungerlo dopo."
+        "Se sei un nuovo cliente in Italia, puoi ricevere 45 € di credito in fattura. Apri il nostro link di invito prima di ordinare, controlla l’importo indicato e mantieni l’abbonamento idoneo attivo e in regola per due cicli completi di fatturazione."
+      ],
+      "links": [
+        {
+          "label": "Verificare il bonus Starlink al mio indirizzo",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -76,13 +91,6 @@
           ]
         ]
       },
-      "links": [
-        {
-          "label": "Apri il mio ordine con il bonus di 45 €",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "simulator": {
         "title": "Prova il tuo scenario",
         "scenarios": [
@@ -214,7 +222,7 @@
       },
       "links": [
         {
-          "label": "Assicurati la ricompensa prima di ordinare",
+          "label": "Apri il mio ordine con il bonus di 45 €",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -284,8 +292,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Paghi esattamente lo stesso prezzo del sito ufficiale, mantieni i 30 giorni per restituire il kit se non funziona sul tuo tetto e ti assicuri 45 € di credito in Italia dopo due cicli mensili.",
-    "label": "Attiva il tuo bonus da 45 € su starlink.com",
+    "text": "I nuovi clienti in Italia possono ricevere 45 € di credito in fattura dopo due cicli completi regolarmente pagati. Apri l’ordine ufficiale con il nostro link e verifica l’importo prima di pagare.",
+    "label": "Aprire il mio ordine con il link di invito",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

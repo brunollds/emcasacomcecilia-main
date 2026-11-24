@@ -8,15 +8,23 @@
   "type": "Guia de Compra",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
-  "description": "Veja se a Starlink vale a pena no campo ou na cidade com fibra instável. Conta real do kit, 100 Mbps sem fidelidade, uso como backup e checagem do céu no app.",
-  "metaDescription": "Starlink vale a pena mesmo com fibra na rua? Veja a conta do kit, 100 Mbps sem fidelidade, fibra instável e uso como internet de backup.",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Veja se a Starlink vale a pena no campo ou como backup da fibra instável. Compare o custo dos planos testados e veja como conferir o céu no app.",
+  "metaDescription": "Starlink vale a pena mesmo com fibra na rua? Veja os custos do kit e dos planos e o que descobrimos ao contratar como internet de backup.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
   "updatedAt": "2026-11-23",
@@ -30,7 +38,15 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, a Starlink vale a pena onde falta internet estável e também onde existe fibra, mas ela cai com frequência ou entrega bem menos do que o contratado. Nós a contratamos como alternativa e backup à nossa fibra instável. Se a sua fibra é estável, ela tende a sair mais barata. O teste é de baixo risco: o plano de 100 Mbps que consultamos não tem fidelidade e dá 30 dias para devolver."
+        "A Starlink vale a pena onde a internet cai com frequência ou entrega bem menos que o contratado. Nós a contratamos como alternativa e backup à nossa fibra instável. Se a sua fibra é estável, ela tende a sair mais barata.",
+        "Novos clientes podem receber 200 reais de crédito na fatura no Brasil ou 45 € em Portugal. Abra nosso link de indicação antes de contratar, confirme o bônus no pedido e mantenha os dois primeiros ciclos completos em dia."
+      ],
+      "links": [
+        {
+          "label": "Consultar meu endereço com o bônus Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -51,7 +67,7 @@
             "Alto Paraíso de Goiás, Residencial 100 Mbps",
             "R$ 132,30 (base R$ 189)",
             "Mini X R$ 299",
-            "Sem fidelidade",
+            "Sem cláusula de 12 meses na tela",
             "R$ 1.886,60 (se a oferta for mantida)"
           ],
           [
@@ -65,7 +81,7 @@
             "Av. Paulista, São Paulo, pré-venda (100 Mbps ou Max)",
             "R$ 189 ou R$ 249 (valor cheio)",
             "Standard 4 X R$ 2.400 (depósito de R$ 275 hoje)",
-            "Sem fidelidade",
+            "Sem cláusula de 12 meses na tela",
             "R$ 4.668 a R$ 5.388"
           ]
         ],
@@ -75,11 +91,11 @@
         "title": "Simulador: o que cada cenário pede",
         "scenarios": [
           {
-            "label": "100 Mbps em Alto Paraíso (sem fidelidade)",
+            "label": "100 Mbps consultado em Alto Paraíso",
             "lines": [
               {
                 "label": "Kit Mini X no pedido",
-                "value": "R$ 299, sem contrato de 12 meses",
+                "value": "R$ 299, sem cláusula de 12 meses na tela",
                 "highlight": true
               },
               {
@@ -134,20 +150,13 @@
             ],
             "totalLabel": "Kit + 12 mensalidades, de",
             "totalValue": "R$ 4.668 a R$ 5.388",
-            "note": "Sem fidelidade de 12 meses; a devolução em 30 dias segue valendo."
+            "note": "Sem cláusula de 12 meses na tela de 12 meses; a devolução em 30 dias segue valendo."
           }
         ]
       },
       "postParagraphs": [
-        "Repare na diferença de risco para quem quer testar ou montar um backup: no Residencial 100 Mbps de Alto Paraíso, o Mini X custava R$ 299 sem contrato de 12 meses. A sanfona de perguntas do checkout ainda mostra um texto genérico de 12 meses, mas a cláusula não aparece no equipamento nem no resumo desse plano. Já no Max a R$ 49, a tela diz “Contrato de 12 meses obrigatório”.",
+        "No Residencial 100 Mbps consultado em Alto Paraíso, o Mini X custava R$ 299. A seção de perguntas do checkout exibia um aviso genérico de 12 meses, mas a cláusula não aparecia junto ao equipamento nem no resumo desse plano. Já no Max a R$ 49, a tela diz “Contrato de 12 meses obrigatório”.",
         "Quando for calcular o custo no seu endereço, faça a conta primeiro sem a recompensa. Pelo nosso link de indicação, a Starlink dá R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura. Veja a [indicação Starlink](/cupons/starlink)."
-      ],
-      "links": [
-        {
-          "label": "Simular plano e kit para o meu endereço",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
@@ -181,7 +190,7 @@
       "paragraphs": [
         "Comparar só a fatura de 12 meses falha quando a internet fixa que chega ao endereço é barata, mas cai toda semana ou entrega só uma fração da velocidade contratada. Provedores regionais e redes saturadas no horário de pico costumam sofrer com cabo rompido no poste, manutenção sem aviso e congestionamento no bairro. Para quem trabalha de casa, faz chamadas de vídeo ou depende de câmeras e automação, isso pesa mais do que a diferença na mensalidade.",
         "No nosso caso, contratamos a Starlink como alternativa e backup à fibra instável. Como o sinal vem de satélites e não depende dos cabos da rua nem do mesmo provedor, ela pode servir de conexão principal no lugar de uma fibra problemática ou de rota reserva quando a fibra cai.",
-        "O teste tem pouco risco: no Residencial 100 Mbps com Mini X a R$ 299, sem contrato de 12 meses, e com 30 dias para devolver, você mede a estabilidade no seu telhado e só mantém a assinatura se ela resolver o problema. Se pensa em 4G ou 5G residencial como backup, some o roteador e confira a franquia de dados."
+        "Confira a fidelidade e as condições de devolução no seu pedido. Durante o teste, meça a estabilidade da conexão no lugar onde pretende instalar a antena. Se pensa em 4G ou 5G residencial como backup, some o roteador e confira a franquia de dados."
       ],
       "emphasis": "Com fibra verdadeiramente estável e na velocidade contratada, a rede fixa vence pelo menor custo mensal; já quando a fibra do bairro sofre com quedas constantes ou velocidade muito abaixo do plano, a Starlink passa a valer pela continuidade do trabalho e pela independência como alternativa ou backup.",
       "emphasisAfterParagraph": 3,
@@ -231,7 +240,7 @@
       ],
       "links": [
         {
-          "label": "Testar no meu endereço com 30 dias para devolver",
+          "label": "Simular plano e kit para o meu endereço",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -270,8 +279,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Você paga o mesmo preço do site oficial, mantém os 30 dias para devolver se não funcionar no seu telhado e recebe R$ 200 de crédito no Brasil (45 € em Portugal) depois de dois meses de assinatura, cumpridas as regras.",
-    "label": "Ver meu endereço em starlink.com com a indicação",
+    "text": "Pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil ou 45 € em Portugal, após dois ciclos completos em dia. Confira o valor no pedido oficial da Starlink antes de pagar.",
+    "label": "Abrir meu pedido pelo link de indicação",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

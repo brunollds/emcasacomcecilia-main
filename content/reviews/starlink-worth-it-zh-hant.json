@@ -8,13 +8,21 @@
   "type": "購買指南",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "不只適合無光纖地區：若當地光纖常斷線或網速遠低於合約，Starlink 也能作為替代或備援網路。比較方案費用、硬體條件與天空遮擋檢查。",
   "metaDescription": "Starlink 值得買嗎？除無寬頻地區外，本文也從當地光纖不穩與備援需求分析何時值得申裝。",
   "publishedAt": "2026年11月20日",
@@ -31,7 +39,15 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "是的，Starlink 不只適合沒有光纖的地方，也適合有光纖卻常常斷線、或實際網速遠低於合約的家庭。我們自己也是為了替代並備援不穩定的光纖而申裝 Starlink。如果現有光纖確實穩定，費用與延遲仍是光纖占優。試用的風險不高：馬來西亞的 Max 方案設備租賃 RM 0，100 Mbps 方案的設備購買後也有 30 天可退。"
+        "是的，Starlink 不只適合沒有光纖的地方，也適合有光纖卻常常斷線、或實際網速遠低於合約的家庭。我們自己也是為了替代並備援不穩定的光纖而申裝 Starlink。如果現有光纖確實穩定，費用與延遲仍是光纖占優。試用的風險不高：馬來西亞的 Max 方案設備租賃 RM 0，100 Mbps 方案的設備購買後也有 30 天可退。",
+        "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
+      ],
+      "links": [
+        {
+          "label": "查看我的地址適用的 Starlink 推薦獎勵",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -139,13 +155,6 @@
       "postParagraphs": [
         "先在不含推薦獎勵的情況下算，再看獎勵能抵多少。透過我們的連結訂閱，滿兩個月後可獲得獎勵，金額依國家而定（例如美國為 US$ 100）。獎勵說明見[推薦連結指南](/zh-hant/coupons/starlink)。"
       ],
-      "links": [
-        {
-          "label": "用我的地址試算方案與設備",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "images": [
         {
           "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
@@ -234,7 +243,7 @@
       ],
       "links": [
         {
-          "label": "在我的地址試用，30 天內可退",
+          "label": "用我的地址試算方案與設備",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -273,8 +282,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "以和官方網站相同的價格下單，若在你的屋頂不能用，可在 30 天內退回；推薦獎勵依國家而定（例如美國為 US$ 100），符合規則後以帳單抵免發放。",
-    "label": "透過推薦連結在 starlink.com 查看我的地址",
+    "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
+    "label": "透過推薦連結開啟 Starlink 訂單",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

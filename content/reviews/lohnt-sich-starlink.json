@@ -8,13 +8,21 @@
   "type": "Kaufratgeber",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Prüfen Sie, ob sich Starlink lohnt – auf dem Land oder bei instabilem Glasfaser-Internet mit Ausfällen. Aktionspreise, 0-€-Mietkit und Nutzung als Backup-Leitung.",
   "metaDescription": "Lohnt sich Starlink trotz Glasfaser? Tarife, 0-€-Mietkit, monatliche Kündbarkeit und wann sich Satelliten-Internet als Alternative oder Backup rechnet.",
   "publishedAt": "20. November 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Ja, Starlink lohnt sich dort, wo keine stabile Verbindung ankommt, aber auch dort, wo Glasfaser liegt und trotzdem oft ausfällt oder deutlich weniger Tempo liefert als gebucht. Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Läuft Ihre Glasfaser wirklich stabil, bleibt sie bei Preis und Latenz meist vorn. Der Test ist risikoarm: Das Kit ist in der Berliner Bestellung zur Miete für 0 €, und Sie haben 30 Tage für die Rückgabe."
+        "Ja, Starlink lohnt sich dort, wo keine stabile Verbindung ankommt, aber auch dort, wo Glasfaser liegt und trotzdem oft ausfällt oder deutlich weniger Tempo liefert als gebucht. Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Läuft Ihre Glasfaser wirklich stabil, bleibt sie bei Preis und Latenz meist vorn. Der Test ist risikoarm: Das Kit ist in der Berliner Bestellung zur Miete für 0 €, und Sie haben 30 Tage für die Rückgabe.",
+        "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
+      ],
+      "links": [
+        {
+          "label": "Starlink-Prämie für meine Adresse prüfen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -144,13 +160,6 @@
         "Der Tarif mit 200 Mbit/s fehlt in vielen Vergleichen: Mit 27,50 € in den ersten Monaten liegt er 10 € über dem 100er und bringt das Kit Standard 4 zur Miete mit. Rechnen Sie Ihre Kosten nicht mit dem Aktionspreis, sondern auch mit dem Normalpreis nach den 3 Monaten: Aus 17,50 € werden 35 €.",
         "Rechnen Sie an Ihrer Adresse zuerst ohne die Prämie. Über unseren Empfehlungslink erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement als Gutschrift auf der Rechnung. Mehr auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink)."
       ],
-      "links": [
-        {
-          "label": "Tarif und Kit für meine Adresse simulieren",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "image": {
         "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
         "alt": "Offizielle Starlink-Bestellseite für Berlin mit dem Tarif 100 Mbit/s für 17,50 € im Monat und Kit-Miete für 0 €",
@@ -233,7 +242,7 @@
       ],
       "links": [
         {
-          "label": "An meiner Adresse testen mit 30 Tagen Rückgabe",
+          "label": "Tarif und Kit für meine Adresse simulieren",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -272,8 +281,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Sie zahlen denselben Preis wie auf der offiziellen Seite, behalten die 30 Tage für die Rückgabe des Kits, falls es auf Ihrem Dach nicht funktioniert, und erhalten die Prämie des Empfehlungsprogramms, sobald die Regeln erfüllt sind.",
-    "label": "Meine Adresse auf starlink.com mit Empfehlung ansehen",
+    "text": "Neukunden in Deutschland können nach zwei vollständig bezahlten Abrechnungszyklen 45 € Rechnungsguthaben erhalten. Öffnen Sie die Starlink-Bestellung über unseren Link und prüfen Sie die Prämie vor dem Bezahlen.",
+    "label": "Meine Bestellung über den Empfehlungslink öffnen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

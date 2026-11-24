@@ -8,13 +8,21 @@
   "type": "口碑分析",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "看看 starlink.com 在 Trustpilot 上的评分、评价数量和星级分布，以及常见抱怨，并了解如何向公司投诉。",
   "metaDescription": "Starlink 在 Trustpilot 的 TrustScore 为 1.6，共 879 条评价，主页尚未认领。整理近期一星和五星评价的内容。",
   "publishedAt": "2026年11月20日",
@@ -31,7 +39,15 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "starlink.com 在 Trustpilot 上的主页 Starlink Development，TrustScore 为 5 分满分的 1.6，共 879 条评价，其中 71% 是一星。这个主页尚未被公司认领：没有付费方案，不发送评价邀请，464 条负面评价也没有任何一条回复。评价来自许多国家的用户。"
+        "starlink.com 在 Trustpilot 上的主页 Starlink Development，TrustScore 为 5 分满分的 1.6，共 879 条评价，其中 71% 是一星。这个主页尚未被公司认领：没有付费方案，不发送评价邀请，过去 12 个月（Trustpilot 公司活动页面统计的期间）的 464 条负面评价也没有任何一条回复。评价来自许多国家的用户。",
+        "首次订阅符合条件的套餐可获得账单抵扣。以马来西亚为例，11 月的参考金额为 RM 180。请先打开我们的推荐链接，确认你的地址与奖励金额，然后保持套餐有效并按时付费满两个完整账单周期。"
+      ],
+      "links": [
+        {
+          "label": "查看我的地址适用的 Starlink 推荐奖励",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -184,13 +200,6 @@
           "objectFit": "contain",
           "aspectRatio": 1.8079
         }
-      ],
-      "links": [
-        {
-          "label": "在 starlink.com 打开官方订单并确认我所在的地区",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
       ]
     },
     {
@@ -224,7 +233,7 @@
       "emphasis": "按表格里的数字，对地址上没有其他好网络选择的人来说，在 starlink.com 针对该地址确认方案、套件、税费和合同之后再订阅是合理的，因为 1.6 反映的多半是客服、账单和价格方面的抱怨，而不是信号质量。",
       "links": [
         {
-          "label": "在 starlink.com 确认我的地址是否可用",
+          "label": "在 starlink.com 打开官方订单并确认我所在的地区",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -267,8 +276,8 @@
     ]
   },
   "cta": {
-    "text": "通过推荐链接打开订单，确认你地址的方案、套件和合同，付款前把摘要页面保存下来。价格与官方网站相同。",
-    "label": "在 starlink.com 打开我的订单",
+    "text": "符合条件的新客户可在付费满两个完整账单周期后获得账单抵扣。马来西亚 11 月的参考金额为 RM 180。请从我们的链接打开官方订单，在付款前核对金额。",
+    "label": "通过推荐链接打开 Starlink 订单",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

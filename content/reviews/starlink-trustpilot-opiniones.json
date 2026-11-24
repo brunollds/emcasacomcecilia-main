@@ -8,13 +8,21 @@
   "type": "Análisis de reputación",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "Mira la nota, cuántas opiniones tiene el perfil de starlink.com en Trustpilot y qué quejas resume la plataforma. Y cómo reclamar si tu cobro no coincide con el pedido.",
   "metaDescription": "Starlink en Trustpilot: TrustScore de 1,6 con 879 opiniones en un perfil sin reclamar. Qué dicen las opiniones recientes de una y cinco estrellas.",
   "publishedAt": "20 de noviembre de 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Starlink Development, el perfil de Trustpilot de starlink.com, tiene un TrustScore de 1,6 sobre 5 con 879 opiniones, y el 71% son de una estrella. El perfil no está reclamado: la empresa no tiene plan de pago, no envía invitaciones para opinar y no ha respondido a ninguna de las 464 opiniones negativas. Las opiniones vienen de clientes de muchos países."
+        "Starlink Development, el perfil de Trustpilot de starlink.com, tiene un TrustScore de 1,6 sobre 5 con 879 opiniones, y el 71% son de una estrella. El perfil no está reclamado: la empresa no tiene plan de pago, no envía invitaciones para opinar y no ha respondido a ninguna de las 464 opiniones negativas de los últimos 12 meses, el periodo que cubre la página de actividad de la empresa en Trustpilot. Las opiniones vienen de clientes de muchos países.",
+        "En tu primera suscripción elegible puedes recibir crédito en la factura. Las referencias de noviembre son 45 € en España y 700 pesos en México. Abre nuestro enlace, confirma el importe en el pedido y mantén el plan activo y al día durante dos ciclos completos."
+      ],
+      "links": [
+        {
+          "label": "Consultar mi dirección con la bonificación de Starlink",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -184,13 +200,6 @@
           "objectFit": "contain",
           "aspectRatio": 1.8079
         }
-      ],
-      "links": [
-        {
-          "label": "Abrir el pedido oficial en starlink.com y revisar mi zona",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
       ]
     },
     {
@@ -224,7 +233,7 @@
       "emphasis": "Por los números de la tabla, para quien no tiene una buena alternativa de internet en su dirección, suscribirse es razonable si antes comprueba plan, kit, impuestos y contrato en starlink.com para esa dirección, porque el 1,6 refleja quejas de atención, facturación y precio más que de calidad de la señal.",
       "links": [
         {
-          "label": "Comprobar la disponibilidad en mi dirección en starlink.com",
+          "label": "Abrir el pedido oficial en starlink.com y revisar mi zona",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -267,8 +276,8 @@
     ]
   },
   "cta": {
-    "text": "Abre el pedido con el enlace de indicación, revisa plan, kit y contrato en tu dirección y guarda la captura del resumen antes de pagar. El precio es el del sitio oficial.",
-    "label": "Abrir mi pedido en starlink.com",
+    "text": "Los nuevos clientes pueden recibir crédito tras dos ciclos completos de facturación al día. La referencia es de 45 € en España y 700 pesos en México. Abre el pedido oficial con nuestro enlace y verifica el importe antes de pagar.",
+    "label": "Abrir mi pedido con el enlace de referido",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

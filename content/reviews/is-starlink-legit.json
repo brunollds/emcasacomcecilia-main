@@ -8,13 +8,21 @@
   "type": "Editorial",
   "category": "confianca-reputacao",
   "reviewKind": "editorial",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "description": "The official Starlink site and the list of authorized retailers show you who you are buying from. See what to check, and which look-alike profiles to ignore, before you pay.",
   "metaDescription": "See how to recognize the official Starlink site, spot look-alike profiles on Trustpilot and check the list of authorized retailers.",
   "publishedAt": "November 20, 2026",
@@ -31,7 +39,15 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Yes, Starlink is legit: it is SpaceX's official satellite internet service, and it sells directly on starlink.com. We subscribed to Starlink ourselves as an alternative to unstable local fiber. The risk is look-alike sites and unverified listings, not the company: on Trustpilot, the profile that points to starlink.com is “Starlink Development”, and if you buy the kit elsewhere, check the seller against Starlink's list of authorized retailers before you pay."
+        "Yes, Starlink is legit: it is SpaceX's official satellite internet service, and it sells directly on starlink.com. We subscribed to Starlink ourselves as an alternative to unstable local fiber. The risk is look-alike sites and unverified listings, not the company: on Trustpilot, the profile that points to starlink.com is “Starlink Development”, and if you buy the kit elsewhere, check the seller against Starlink's list of authorized retailers before you pay.",
+        "New customers can get a $100 bill credit in the US or £40 in the UK. Open our referral link before you order, check that the reward is shown, and keep your eligible subscription paid and active for two full billing cycles."
+      ],
+      "links": [
+        {
+          "label": "Check my address for the Starlink reward",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -61,14 +77,7 @@
         "caption": "Official order screen on starlink.com for a Nevada address, checked on November 23, 2026.",
         "objectFit": "portrait",
         "aspectRatio": 0.7159
-      },
-      "links": [
-        {
-          "label": "Open the official starlink.com order with the referral applied",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ]
+      }
     },
     {
       "heading": "Messages that use the Starlink name",
@@ -127,7 +136,7 @@
       },
       "links": [
         {
-          "label": "Check availability at my address on starlink.com",
+          "label": "Open the official starlink.com order with the referral applied",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -181,8 +190,8 @@
     ]
   },
   "cta": {
-    "text": "Open the order through the referral link, check that the address bar stays on starlink.com and see plan, kit and total for your address before you pay. The price is the same as on the official site.",
-    "label": "See my address on starlink.com",
+    "text": "New customers who order through our link can get a $100 bill credit in the US or £40 in the UK after two full paid billing cycles. Check the reward on your Starlink order before you pay.",
+    "label": "Open my Starlink order with the referral",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

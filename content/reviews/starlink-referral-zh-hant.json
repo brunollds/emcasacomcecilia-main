@@ -3,20 +3,28 @@
   "slug": "starlink-referral-zh-hant",
   "locale": "zh-hant",
   "translationKey": "starlink-indicacao",
-  "title": "首次購買 Starlink 如何透過推薦連結領取獎勵（美國 US$ 100／依國別發放）",
-  "seoTitle": "首次購買 Starlink 如何透過推薦連結領取獎勵",
+  "title": "首次訂閱 Starlink 如何領取推薦獎勵：馬來西亞參考金額 RM 180",
+  "seoTitle": "Starlink 推薦獎勵：馬來西亞參考金額 RM 180",
   "type": "推薦碼指南",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
-  "author": {
-    "name": "Cecília Mauad",
-    "slug": "cecilia-mauad",
-    "role": "Em Casa com Cecília",
-    "initials": "CM",
-    "url": "/sobre"
-  },
-  "description": "Starlink 沒有優惠碼：透過官方推薦連結下單，沿用官網同價與 30 天退貨期間，滿兩個月後即可領取所在國家的推薦獎勵（例如美國為 US$ 100）。",
-  "metaDescription": "第一次訂閱 Starlink 如何透過推薦連結領取獎勵，為何下單前必須套用推薦，以及兩個月後入帳的流程。",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "透過我們的推薦連結訂閱符合資格的 Starlink 方案，可獲得帳單折抵。馬來西亞 11 月參考金額為 RM 180。付款前請確認訂單金額。",
+  "metaDescription": "透過我們的推薦連結訂閱符合資格的 Starlink 方案，可獲得帳單折抵。馬來西亞 11 月參考金額為 RM 180。付款前請確認訂單金額。",
   "publishedAt": "2026年11月20日",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,14 +39,22 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Starlink 沒有可輸入的優惠碼。除了官網的促銷之外，首次訂閱時透過推薦連結下單，是領取官方推薦獎勵的方式。從連結進入 starlink.com 結帳，價格與促銷完全相同、也保有 30 天退貨期間，服務滿兩個完整計費週期後，可獲得所在國家的獎勵金額（例如美國為 US$ 100，實際金額會顯示在你的訂購頁）。獎勵是之後入帳的帳單抵免，不會降低當天的設備價格。付款前務必在畫面確認推薦已套用，因為結帳後無法補登。"
+        "首次訂閱符合資格的方案可獲得帳單折抵。以馬來西亞為例，11 月的參考金額為 RM 180。請先打開我們的推薦連結，確認你的地址及獎勵金額，再維持方案有效並按時繳費滿兩個完整帳單週期。"
+      ],
+      "links": [
+        {
+          "label": "查看我的地址適用的 Starlink 推薦獎勵",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "為什麼一定要用推薦連結下單",
       "paragraphs": [
         "自己直接打開 starlink.com 下單，設備與月費和透過連結下單相同，差別只在你會錯過推薦獎勵。獎勵不會降低下單當天的設備價格，而是在你付清兩個完整計費週期後，以抵免的形式進入帳單。",
-        "Starlink 的訂購頁沒有繁體中文版本，所以下面的例子取自馬來西亞（英文介面）與美國的訂購頁，用來說明推薦連結如何運作。你所在地的價格與規則，請以自己地址的訂購頁為準。"
+        "Starlink 的訂購頁沒有繁體中文版本，所以下面的例子取自馬來西亞（英文介面）與美國的訂購頁，用來說明推薦連結如何運作。你所在地的價格與規則，請以自己地址的訂購頁為準。",
+        "馬來西亞的 RM 180 來自 SatNet Watch 在 11 月發布的調查，實際金額以你的訂購頁為準。"
       ],
       "images": [
         {
@@ -78,13 +94,6 @@
           ]
         ]
       },
-      "links": [
-        {
-          "label": "開啟訂單並確認推薦獎勵",
-          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
-          "sponsored": true
-        }
-      ],
       "simulator": {
         "title": "試算你的情況",
         "scenarios": [
@@ -222,7 +231,7 @@
       ],
       "links": [
         {
-          "label": "下單前先確保獎勵",
+          "label": "開啟訂單並確認推薦獎勵",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -293,8 +302,8 @@
     }
   ],
   "cta": {
-    "text": "你付的價格與官網完全相同，天線在屋頂上不好用時 30 天內可退貨，並在兩個計費週期後領取所在國家的推薦抵免。",
-    "label": "前往官網確認訂單與推薦獎勵",
+    "text": "符合資格的新客戶可在付費滿兩個完整帳單週期後獲得帳單折抵。馬來西亞 11 月的參考金額為 RM 180。請從我們的連結開啟官方訂單，在付款前核對金額。",
+    "label": "透過推薦連結開啟 Starlink 訂單",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
