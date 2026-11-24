@@ -251,3 +251,10 @@ do consumidor 8,55, tempo médio de 3 dias e 19 horas, empresa verificada; os da
 
 - GO (Bruno, 23/11). Preço por ml com o preço do dia da redação e o teste de carrinho com um body splash avulso. "Barbour's ou Primacial", "ou Bloom" e "ou Lescent" vão ao estoque (BB11 a BB13), uma marca por artigo.
 - Leituras pendentes: pelo navegador do app no dia da redação (o 429 de 23/11 veio só das leituras por script; o navegador abre as lojas).
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/barbours/barbours-ou-wepink-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `eccb39401bc10d4adddb7039545b8853451958d27dc11598c6f80e06a046e4c5`.
+- **Alt:** Frasco rosa e vermelho de Cherry Pop, body splash da Barbour’s Beauty, em cenário rosa. A capa pergunta «Barbour’s ou Wepink?».
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 73 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/73/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/73/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/barbours/barbours-ou-wepink-capa.webp`) fica no CDN, sem uso como capa.

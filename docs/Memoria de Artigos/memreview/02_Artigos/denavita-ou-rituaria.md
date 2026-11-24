@@ -182,3 +182,10 @@ Hoje (23/11) todas as leituras diretas deram 429: **nenhum preço acima vale par
 
 - GO (Bruno, 23/11). Formato de artigo de várias lojas (affiliate em lista, mesmo EMCASA, botões separados), sem veredito único; conta por dia com os pressupostos do briefing (uma porção por dia, preço do dia à vista, sem frete, 10% sobre o preço do dia).
 - Leituras pendentes: pelo navegador do app no dia da redação (o 429 de 23/11 veio só das leituras por script; o navegador abre as lojas).
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/denavita/denavita-ou-rituaria-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `a5d09e75089dcfc9af707be71865daba9196f1e2d3d7dca23acb087d439fab71`.
+- **Alt:** Pote de Trio Magnésio da Denavita e frasco de Fórmula 4mag da Rituária em dois painéis, cada um com o logo da sua marca. A capa pergunta «Denavita ou Rituária?».
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 73 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/73/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/73/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/denavita/denavita-ou-rituaria-capa.webp`) fica no CDN, sem uso como capa.

@@ -191,3 +191,10 @@ Preço por grama (conta nossa, cartão, sem cupom, preço de 23/11): Forever Lis
 - Corpo, `contentSections[1]` ("BTX Blend Repair e Máscara Volume Zero: o par da comparação"): `/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp`. Alt: Pote branco de 300 gramas do Btx Blend Repair da Prohall, com rótulo verde, em foto oficial da loja Legenda: Btx Capilar Orgânico Blend Repair 300 g, da Prohall. Foto: Prohall.
 - Corpo, `contentSections[6]` ("Preço por grama: 250 g, 300 g e 1 kg"): `/images/reviews/prohall/prohall-ou-forever-liss-preco-por-grama.webp`. Alt: Pote do BTX Blend Repair de 1 kg da Prohall, de frente, sobre fundo branco, em foto oficial da loja. Legenda: BTX Blend Repair de 1 kg. Foto: Prohall.
 - Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/prohall/prohall-ou-forever-liss-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `4a51648ea9824d5d9d9270a3deb4619eb634909946bcd4cd443294eea34190d9`.
+- **Alt:** Pote de 1 kg do BTX Blend Repair em foto da Prohall. A capa traz o logo da Prohall e a pergunta “Prohall ou Forever Liss?”.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 75 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/75/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/75/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/prohall-ou-forever-liss-capa.webp`) fica no CDN, sem uso como capa.

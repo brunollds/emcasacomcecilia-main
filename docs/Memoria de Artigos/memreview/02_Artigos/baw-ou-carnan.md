@@ -203,3 +203,10 @@ campanha se possível.
 
 - GO (Bruno, 23/11). Base de preço: a tabela das duas lojas (a Carnan estava em liquidação em 23/11); o código da BAW como conta nossa, sobre o preço de tabela. O sinal é das relacionadas do Trends, sem sugestão de "baw ou carnan" no autocompletar: medir 30 dias no Search Console antes de abrir a BW12.
 - Leituras pendentes: pelo navegador do app no dia da redação (as leituras de 23/11 estão em [[leituras-grupo2-2311]]). Preço: a régua é o preço de tabela (memória "preço real, não promocional"); em 23/11 quase tudo estava em Black Friday, então reler fora da campanha se possível.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/baw/baw-ou-carnan-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `811ffadfd3bf5a76b2f53f860bff6f3b18a4157e3b716b5df7c5e251662cca78`.
+- **Alt:** Modelo com moletom cinza sem mangas da BAW, com estampa colorida e as mãos no bolso. A capa pergunta «BAW ou Carnan?».
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 73 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/73/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/73/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/baw/baw-ou-carnan-capa.webp`) fica no CDN, sem uso como capa.

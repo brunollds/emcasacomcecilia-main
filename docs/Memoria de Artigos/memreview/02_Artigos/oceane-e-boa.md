@@ -201,3 +201,10 @@ Portões: 1 sim (site e catálogo); 2 sim (sem efeito de pele, sem Anvisa); 3 si
   - corpo: Batom Glossy Rosé Pink, Pó Cover Me Up e Kit Minis Trio de Batons (fotos oficiais, href do produto)
 - Job 4: content/reviews/oceane-e-boa.json, imageFit contain, relacionados só da leva.
 - Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/oceane/oceane-e-boa-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `3c02f06300186af16fab558e5037857acb8c7d7f7fe001e2611de7afa52157a6`.
+- **Alt:** Modelo da Océane aplicando batom Glossy Rosé Pink, com o produto junto aos lábios. A capa pergunta «É boa?» e traz «Linhas e selos».
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 74 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/74/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/74/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/oceane/oceane-e-boa-capa.webp`) fica no CDN, sem uso como capa.

@@ -217,3 +217,10 @@ da campanha se possível. Sem número de estoque.
 
 - GO (Bruno, 23/11). Opção (a): a BW10 vira a dona das medidas (todas as peças com ficha, regular e oversized em centímetros) e o capítulo "Regular ou oversized" do `baw-clothing-e-boa` encolhe para um parágrafo com link quando ela for ao ar (Fila, seção 4). Search Console de 23/11: "tabela de medidas baw" teve 1 impressão em 28 dias (posição 1, BW5); a pauta vale pelo autocompletar. Troca e devolução por tamanho: só o que a política diz, com as palavras dela; nada de "aceita devolução por tamanho" sem a frase.
 - Leituras pendentes: pelo navegador do app no dia da redação (as leituras de 23/11 estão em [[leituras-grupo2-2311]]). Preço: a régua é o preço de tabela (memória "preço real, não promocional"); em 23/11 quase tudo estava em Black Friday, então reler fora da campanha se possível.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/baw/tabela-medidas-baw-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `7a76fd0ebfc6a90969538cb186ec8dc99e49fd4e5b32ce92adf1d0776c63e083`.
+- **Alt:** Modelos com a Camiseta Regular Selfie Logo de frente e a Oversized BAW Subscript de costas, em fotos da BAW. A capa pergunta «Regular ou oversized?» e mostra o cupom BAWEMCASACOMCECILIA.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 73 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/73/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/73/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/baw/tabela-medidas-baw-capa.webp`) fica no CDN, sem uso como capa.

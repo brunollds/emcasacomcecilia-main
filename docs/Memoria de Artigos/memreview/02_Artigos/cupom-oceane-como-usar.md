@@ -185,3 +185,10 @@ vai na legenda, não no corpo. Sem "X% OFF" sobre o riscado.
   - corpo: print da Sacola do app (cupom-oceane-sacola-app-com-cupom.webp, print do Bruno)
 - Job 4: content/reviews/cupom-oceane-como-usar.json, imageFit contain, relacionados só da leva.
 - Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.
+
+## Capa v3 (24/11/2026)
+
+- **Capa:** `/images/reviews/oceane/cupom-oceane-como-usar-hero-pt-v3.webp` (`imageFit: contain`), SHA-256 `3e6dc708541d5431e7985f1efac09810f1961fd090960fbcacc4885087748321`.
+- **Alt:** Dois pincéis de maquiagem da Océane se cruzam entre partículas de pó rosa, em foto do blog da marca. A capa traz «Cupom no app e no site» e o código EMCASA.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 74 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/74/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/74/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/oceane/cupom-oceane-como-usar-capa.webp`) fica no CDN, sem uso como capa.

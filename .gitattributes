@@ -388,6 +388,7 @@ public/images/reviews/barbours/barbours-body-splash-inspiracoes-pure-grace.webp 
 public/images/reviews/barbours/barbours-body-splash-inspiracoes-soft-breeze.webp -text export-ignore
 public/images/reviews/barbours/barbours-body-splash-inspiracoes-vanilla-rum.webp -text export-ignore
 public/images/reviews/barbours/barbours-body-splash-masculino-capa.webp -text export-ignore
+public/images/reviews/barbours/barbours-body-splash-masculino-hero-pt-v2.webp -text export-ignore
 public/images/reviews/barbours/barbours-body-splash-my-sweet-delight.webp -text export-ignore
 public/images/reviews/barbours/barbours-e-boa-avaliacoes-site.webp -text export-ignore
 public/images/reviews/barbours/barbours-e-boa-capa-v2.webp -text export-ignore
@@ -397,6 +398,7 @@ public/images/reviews/barbours/barbours-e-confiavel-capa.webp -text export-ignor
 public/images/reviews/barbours/barbours-e-confiavel-checkout-empresa.webp -text export-ignore
 public/images/reviews/barbours/barbours-e-confiavel-rodape-site-lescent.webp -text export-ignore
 public/images/reviews/barbours/barbours-ou-wepink-capa.webp -text export-ignore
+public/images/reviews/barbours/barbours-ou-wepink-hero-pt-v2.webp -text export-ignore
 public/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa-v2.webp -text export-ignore
 public/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa-v3.webp -text export-ignore
 public/images/reviews/barbours/barbours-reclame-aqui-nota-reputacao-capa.webp -text export-ignore
@@ -429,6 +431,7 @@ public/images/reviews/baw/baw-clothing-reclame-aqui-moletom-hoodie-subscript.web
 public/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa-v2.webp -text export-ignore
 public/images/reviews/baw/baw-clothing-reclame-aqui-nota-reputacao-capa.webp -text export-ignore
 public/images/reviews/baw/baw-ou-carnan-capa.webp -text export-ignore
+public/images/reviews/baw/baw-ou-carnan-hero-pt-v2.webp -text export-ignore
 public/images/reviews/baw/baw-ou-pace-bermuda-jeans-regular-logo.webp -text export-ignore
 public/images/reviews/baw/baw-ou-pace-capa-v2.webp -text export-ignore
 public/images/reviews/baw/baw-ou-pace-capa.webp -text export-ignore
@@ -454,6 +457,7 @@ public/images/reviews/baw/sandalia-linus-baw-capa-v2.webp -text export-ignore
 public/images/reviews/baw/sandalia-linus-baw-capa.webp -text export-ignore
 public/images/reviews/baw/sandalia-linus-baw-slide-goth.webp -text export-ignore
 public/images/reviews/baw/tabela-medidas-baw-capa.webp -text export-ignore
+public/images/reviews/baw/tabela-medidas-baw-hero-pt-v2.webp -text export-ignore
 public/images/reviews/baw/tenis-baw-e-bom-capa-v2.webp -text export-ignore
 public/images/reviews/baw/tenis-baw-e-bom-capa.webp -text export-ignore
 public/images/reviews/baw/tenis-baw-e-bom-grip-mad-off-white.webp -text export-ignore
@@ -569,6 +573,7 @@ public/images/reviews/biobio/protetor-solar-biobio-e-bom-facial.webp -text expor
 public/images/reviews/biobio/protetor-solar-biobio-e-bom-kids.webp -text export-ignore
 public/images/reviews/biobio/protetor-solar-biobio-e-bom-linha-completa.webp -text export-ignore
 public/images/reviews/biobio/protetor-solar-mineral-ou-quimico-rotulo-capa.webp -text export-ignore
+public/images/reviews/biobio/protetor-solar-mineral-ou-quimico-rotulo-hero-pt-v2.webp -text export-ignore
 public/images/reviews/black-skull/black-friday-black-skull-capa-discover.webp -text export-ignore
 public/images/reviews/black-skull/black-friday-black-skull-capa-v2.webp -text export-ignore
 public/images/reviews/black-skull/black-friday-black-skull-home-whey.webp -text export-ignore
@@ -681,6 +686,7 @@ public/images/reviews/bold/barra-bold-21g.webp -text export-ignore
 public/images/reviews/bold/barra-bold-e-boa-capa-v2.webp -text export-ignore
 public/images/reviews/bold/barra-bold-e-boa-capa.webp -text export-ignore
 public/images/reviews/bold/barra-bold-saudavel-rotulo-capa.webp -text export-ignore
+public/images/reviews/bold/barra-bold-saudavel-rotulo-hero-pt-v2.webp -text export-ignore
 public/images/reviews/bold/barra-bold-wafer.webp -text export-ignore
 public/images/reviews/bold/black-friday-bold-snacks-capa-v2.webp -text export-ignore
 public/images/reviews/bold/black-friday-bold-snacks-capa.webp -text export-ignore
@@ -1000,11 +1006,13 @@ public/images/reviews/denavita/denavita-e-confiavel-creatina-potes.webp -text ex
 public/images/reviews/denavita/denavita-e-confiavel-hero-pt-v2.webp -text export-ignore
 public/images/reviews/denavita/denavita-e-confiavel-rodape-site-oficial.webp -text export-ignore
 public/images/reviews/denavita/denavita-ou-rituaria-capa.webp -text export-ignore
+public/images/reviews/denavita/denavita-ou-rituaria-hero-pt-v2.webp -text export-ignore
 public/images/reviews/denavita/denavita-reclame-aqui-digestino.webp -text export-ignore
 public/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-capa.webp -text export-ignore
 public/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-hero-pt-v2.webp -text export-ignore
 public/images/reviews/denavita/denavita-reclame-aqui-nota-reputacao-quadro.webp -text export-ignore
 public/images/reviews/denavita/denavita-tons-capa.webp -text export-ignore
+public/images/reviews/denavita/denavita-tons-hero-pt-v2.webp -text export-ignore
 public/images/reviews/denavita/laranja-moro-denavita-capa.webp -text export-ignore
 public/images/reviews/denavita/laranja-moro-denavita-hero-pt-v2.webp -text export-ignore
 public/images/reviews/denavita/laranja-moro-denavita-laranjas.webp -text export-ignore
@@ -2208,6 +2216,7 @@ public/images/reviews/mais-mu/black-friday-mais-mu-capa-faixa.webp -text export-
 public/images/reviews/mais-mu/black-friday-mais-mu-capa-v2.webp -text export-ignore
 public/images/reviews/mais-mu/black-friday-mais-mu-capa.webp -text export-ignore
 public/images/reviews/mais-mu/creatina-mais-mu-e-pura-capa.webp -text export-ignore
+public/images/reviews/mais-mu/creatina-mais-mu-e-pura-hero-pt-v2.webp -text export-ignore
 public/images/reviews/mais-mu/cupom-mais-mu-capa-discover.webp -text export-ignore
 public/images/reviews/mais-mu/cupom-mais-mu-como-usar-capa-v2.webp -text export-ignore
 public/images/reviews/mais-mu/cupom-mais-mu-primeira-compra-capa-v2.webp -text export-ignore
@@ -2477,18 +2486,24 @@ public/images/reviews/nutren/passo-3-digite-ceci.webp -text export-ignore
 public/images/reviews/nutren/passo-4-cupom-aplicado-10.webp -text export-ignore
 public/images/reviews/nutren/passo-4-cupom-aplicado.webp -text export-ignore
 public/images/reviews/oceane/black-friday-oceane-capa.webp -text export-ignore
+public/images/reviews/oceane/black-friday-oceane-hero-pt-v2.webp -text export-ignore
 public/images/reviews/oceane/black-friday-oceane-paleta-multifuncional.webp -text export-ignore
 public/images/reviews/oceane/cupom-oceane-como-usar-capa.webp -text export-ignore
+public/images/reviews/oceane/cupom-oceane-como-usar-hero-pt-v3.webp -text export-ignore
 public/images/reviews/oceane/cupom-oceane-primeira-compra-capa.webp -text export-ignore
+public/images/reviews/oceane/cupom-oceane-primeira-compra-hero-pt-v2.webp -text export-ignore
 public/images/reviews/oceane/cupom-oceane-primeira-compra-kit-minis-blush-iluminador.webp -text export-ignore
 public/images/reviews/oceane/cupom-oceane-sacola-app-com-cupom.webp -text export-ignore
 public/images/reviews/oceane/oceane-e-boa-batom-the-lipstick-rose-pink.webp -text export-ignore
 public/images/reviews/oceane/oceane-e-boa-capa.webp -text export-ignore
+public/images/reviews/oceane/oceane-e-boa-hero-pt-v2.webp -text export-ignore
 public/images/reviews/oceane/oceane-e-boa-kit-minis-trio-batons.webp -text export-ignore
 public/images/reviews/oceane/oceane-e-boa-po-translucido-cover-me-up.webp -text export-ignore
 public/images/reviews/oceane/oceane-e-confiavel-capa.webp -text export-ignore
 public/images/reviews/oceane/oceane-e-confiavel-esponja-flat-blend.webp -text export-ignore
+public/images/reviews/oceane/oceane-e-confiavel-hero-pt-v2.webp -text export-ignore
 public/images/reviews/oceane/oceane-reclame-aqui-nota-reputacao-capa.webp -text export-ignore
+public/images/reviews/oceane/oceane-reclame-aqui-nota-reputacao-hero-pt-v3.webp -text export-ignore
 public/images/reviews/oceane/oceane-reclame-aqui-problemas-geral.webp -text export-ignore
 public/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa-v2.webp -text export-ignore
 public/images/reviews/petz/areia-para-gato-petz-custo-por-quilo-capa.webp -text export-ignore
@@ -2559,6 +2574,7 @@ public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pink-stick-uso.web
 public/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-pro-stick.webp -text export-ignore
 public/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-capa.webp -text export-ignore
 public/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-creme.webp -text export-ignore
+public/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-hero-pt-v2.webp -text export-ignore
 public/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-spray.webp -text export-ignore
 public/images/reviews/pinkcheeks/pinkcheeks-e-boa-capa-v2.webp -text export-ignore
 public/images/reviews/pinkcheeks/pinkcheeks-e-boa-capa.webp -text export-ignore
@@ -2571,7 +2587,9 @@ public/images/reviews/pinkcheeks/pinkcheeks-e-confiavel-capa.webp -text export-i
 public/images/reviews/pinkcheeks/pinkcheeks-e-confiavel-stick-toalha.webp -text export-ignore
 public/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-capa.webp -text export-ignore
 public/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-cores.webp -text export-ignore
+public/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-hero-pt-v2.webp -text export-ignore
 public/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-capa.webp -text export-ignore
+public/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-hero-pt-v2.webp -text export-ignore
 public/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-pink-stick-21km.webp -text export-ignore
 public/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-kit-natacao.webp -text export-ignore
 public/images/reviews/pinkcheeks/pinkcheeks-reclame-aqui-nota-reputacao-capa-v2.webp -text export-ignore
@@ -2690,6 +2708,7 @@ public/images/reviews/prohall/black-friday-prohall-capa.webp -text export-ignore
 public/images/reviews/prohall/black-friday-prohall-kit-force-hair.webp -text export-ignore
 public/images/reviews/prohall/black-friday-prohall-select-one-1l.webp -text export-ignore
 public/images/reviews/prohall/btx-blend-repair-prohall-como-usar-capa.webp -text export-ignore
+public/images/reviews/prohall/btx-blend-repair-prohall-como-usar-hero-pt-v2.webp -text export-ignore
 public/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-capa.webp -text export-ignore
 public/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-combo-selve-power.webp -text export-ignore
 public/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-hero-pt-v2.webp -text export-ignore
@@ -2713,7 +2732,9 @@ public/images/reviews/prohall/prohall-e-confiavel-capa-v2.webp -text export-igno
 public/images/reviews/prohall/prohall-e-confiavel-capa.webp -text export-ignore
 public/images/reviews/prohall/prohall-e-confiavel-cronograma-capilar-premium.webp -text export-ignore
 public/images/reviews/prohall/prohall-ou-cadiveu-capa.webp -text export-ignore
+public/images/reviews/prohall/prohall-ou-cadiveu-hero-pt-v2.webp -text export-ignore
 public/images/reviews/prohall/prohall-ou-forever-liss-capa.webp -text export-ignore
+public/images/reviews/prohall/prohall-ou-forever-liss-hero-pt-v2.webp -text export-ignore
 public/images/reviews/prohall/prohall-ou-forever-liss-preco-por-grama.webp -text export-ignore
 public/images/reviews/prohall/prohall-reclame-aqui-burix-one-1l.webp -text export-ignore
 public/images/reviews/prohall/prohall-reclame-aqui-nota-reputacao-capa-v2.webp -text export-ignore
@@ -2731,6 +2752,7 @@ public/images/reviews/prohall/queda-de-cabelo-wegovy-capa.webp -text export-igno
 public/images/reviews/prohall/queda-de-cabelo-wegovy-hero-pt-v2.webp -text export-ignore
 public/images/reviews/prohall/queda-de-cabelo-wegovy-shampoo-force-hair.webp -text export-ignore
 public/images/reviews/prohall/secar-sem-frizz-prohall-capa.webp -text export-ignore
+public/images/reviews/prohall/secar-sem-frizz-prohall-hero-pt-v2.webp -text export-ignore
 public/images/reviews/prohall/secar-sem-frizz-prohall-kit.webp -text export-ignore
 public/images/reviews/prohall/secar-sem-frizz-prohall-leave-in.webp -text export-ignore
 public/images/reviews/prohall/select-one-como-usar-capa-v2.webp -text export-ignore

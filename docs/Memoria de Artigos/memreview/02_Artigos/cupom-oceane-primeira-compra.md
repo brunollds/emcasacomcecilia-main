@@ -164,3 +164,10 @@ Nenhuma. As decisões do lote (cupom, cupons próprios fora, frete sem conta) j�
   - corpo: print da Sacola do app; Kit Presente Minis Edition blush + iluminador (foto oficial, href do produto)
 - Job 4: content/reviews/cupom-oceane-primeira-compra.json, imageFit contain, relacionados só da leva.
 - Job 5: typecheck, validate:content, review-i18n, internal-links, article-d2, article-media, site-search, build e test:build-output.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/oceane/cupom-oceane-primeira-compra-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `c2d5827cb203f83abfb6d2bc8c06ab2df26a766cbe9ba43964f14d1171e2559f`.
+- **Alt:** Caixa do Kit Presente Minis Edition com blush rosa e iluminador bronze em bastão da Océane, sobre bancada rosa. A capa traz «Primeira compra» e o cupom EMCASA.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 74 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/74/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/74/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/oceane/cupom-oceane-primeira-compra-capa.webp`) fica no CDN, sem uso como capa.

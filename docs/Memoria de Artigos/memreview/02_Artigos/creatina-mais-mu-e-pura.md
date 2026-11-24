@@ -198,3 +198,10 @@ Os sabores da linha do pote (Tropical, Melancia, Manga) têm a mesma etiqueta de
 ## Regra de pergunta de fato (24/11/2026)
 
 - Esta pauta é pergunta de fato, e não "é boa?": o "Sim" de abertura do `Anexo-E-Boa-Vale-a-Pena.md` (seção 1.4) não vale aqui. A resposta rápida, os capítulos e o FAQ respondem pelo que a fonte lida declara. Não afirmar Creapure: o selo não aparece na ficha. "É pura?" responde pelo que consta na lista de ingredientes de cada versão (o sem sabor e cada sabor), sem laudo nem selo que a página não traz. O FAQ "é boa?" segue apontando o guia da marca.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/mais-mu/creatina-mais-mu-e-pura-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `cda0bd472a00a713c84eb674bbcbe8f5a936cb265cf6eff5febce8c3e6f53c38`.
+- **Alt:** Pote de 200 g e refil de 500 g da creatina sem sabor da Mais Mu, em embalagens azuis. A capa pergunta se a creatina é pura e mostra o cupom MMEMCASACOMCECILIA.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 73 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/73/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/73/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/mais-mu/creatina-mais-mu-e-pura-capa.webp`) fica no CDN, sem uso como capa.

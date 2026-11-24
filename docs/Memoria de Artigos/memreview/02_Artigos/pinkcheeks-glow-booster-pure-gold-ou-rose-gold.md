@@ -201,3 +201,10 @@ Produto único, duas cores. Sem número, R$ ou conta nas linhas abaixo, salvo o 
 - Capa: `/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-capa.webp` (1600 × 900, painel verde à esquerda, `imageFit: "contain"`). Alt: Frascos do Glow Booster Pure Gold e Rose Gold da Pink Cheeks lado a lado, em foto oficial da loja. A capa traz o logo Pink Cheeks e a chamada “Glow Booster: Pure Gold ou Rose Gold?”. Origem: foto oficial do site oficial pinkcheeks.com.br, baixada em 23/11/2026; montagem nossa.
 - Corpo, `contentSections[2]` ("Pure Gold ou Rose Gold: o que a loja diz de cada cor"): `/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-cores.webp`. Alt: Texturas do Glow Booster lado a lado: Pure Gold à esquerda e Rose Gold à direita. Legenda: Textura do Pure Gold (à esquerda) e do Rose Gold (à direita), nas miniaturas de cor da loja. Fotos: Pink Cheeks; montagem nossa.
 - Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `1d6a0b1c2d706f415c5fd5afa0b386f539df63ecd94bf07200d2e4d3868dbac5`.
+- **Alt:** Uma mão segura o Glow Booster Rose Gold da Pink Cheeks, com o Pure Gold ao fundo. A capa pergunta “Pure Gold ou Rose Gold?”.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 75 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/75/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/75/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-capa.webp`) fica no CDN, sem uso como capa.

@@ -252,3 +252,10 @@ e três frascos avulsos a R$ 39,90 chegam (R$ 119,70). Relido o carrinho antes d
 
 - GO (Bruno, 23/11). Na Black Week, a tabela usa o preço do dia da redação (regra padrão de releitura). `href` das fotos: a conformação decide o link da parceria. O BB6 ganha link para a BB8.
 - Leituras pendentes: pelo navegador do app no dia da redação (o 429 de 23/11 veio só das leituras por script; o navegador abre as lojas).
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/barbours/barbours-body-splash-masculino-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `f8dd78accf9d4d73fb83dcebd94961fb941d4a41d17a05fd287649ea19be7766`.
+- **Alt:** Frasco cinza-escuro do body splash Midnight Homme da Barbour’s Beauty sobre fundo azul. A capa traz «Body splash masculino» e o cupom CECILIALINHARES.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 73 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/73/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/73/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/barbours/barbours-body-splash-masculino-capa.webp`) fica no CDN, sem uso como capa.

@@ -192,3 +192,10 @@ Preço por grama (conta nossa, sem cupom, preço de 23/11): 300 g, R$ 0,21/g; 1 
 - Capa: `/images/reviews/prohall/btx-blend-repair-prohall-como-usar-capa.webp` (1600 × 900, painel verde à esquerda, `imageFit: "contain"`). Alt: Pote do BTX Blend Repair de 300 g da Prohall, de frente, em foto oficial da loja. A capa traz o logo Prohall e a chamada “BTX Blend Repair: como usar”. Origem: foto oficial do site oficial lojaprohall.com.br, baixada em 23/11/2026; montagem nossa.
 - Corpo, `contentSections[2]` ("Casa ou profissional: a página do 300 g se contradiz"): `/images/reviews/prohall/black-friday-prohall-btx-blend-repair-300g.webp`. Alt: Pote branco de 300 gramas do BTX Blend Repair da Prohall, em foto oficial da loja Legenda: BTX Blend Repair 300 g. Foto: Prohall.
 - Imagens novas no CDN e no mapa de entrega pelo Guia de mídia; imagens de corpo reaproveitadas já estavam no CDN.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/prohall/btx-blend-repair-prohall-como-usar-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `bcdf22d961ddc1aff31b6fb7d77e60fd45927bf0e7880e646875d3619c7db3f0`.
+- **Alt:** Potes de 300 g e 1 kg do BTX Blend Repair da Prohall. A capa traz a chamada “BTX Blend Repair: como usar?” e o cupom CECILIAMC.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 75 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/75/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/75/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/prohall/btx-blend-repair-prohall-como-usar-capa.webp`) fica no CDN, sem uso como capa.

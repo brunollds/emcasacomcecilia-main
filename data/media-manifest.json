@@ -21955,6 +21955,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/barbours/barbours-body-splash-masculino-hero-pt-v2.webp",
+      "local_url": "/images/reviews/barbours/barbours-body-splash-masculino-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43638,
+      "sha256": "f8dd78accf9d4d73fb83dcebd94961fb941d4a41d17a05fd287649ea19be7766",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-body-splash-masculino-hero-pt-v2.webp",
+      "storage_filename": "barbours-body-splash-masculino-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-body-splash-masculino.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/barbours-body-splash-masculino.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-body-splash-masculino.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/barbours/barbours-body-splash-masculino-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/barbours-body-splash-masculino.md",
+          "line": 258,
+          "column": 14,
+          "literal": "/images/reviews/barbours/barbours-body-splash-masculino-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f8dd78accf9d4d73fb83dcebd94961fb941d4a41d17a05fd287649ea19be7766/barbours-body-splash-masculino-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f8dd78accf9d4d73fb83dcebd94961fb941d4a41d17a05fd287649ea19be7766/barbours-body-splash-masculino-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.863Z",
+      "verification_etag_or_digest": "f8dd78accf9d4d73fb83dcebd94961fb941d4a41d17a05fd287649ea19be7766",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/barbours/barbours-body-splash-my-sweet-delight.webp",
       "local_url": "/images/reviews/barbours/barbours-body-splash-my-sweet-delight.webp",
       "media_kind": "image",
@@ -22452,6 +22498,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-24T01:24:32.178Z",
       "verification_etag_or_digest": "0845ec2f62d6a3fab6f3fae612aa41d8b6ca684d9d5a1d29a3b4852fabd6ce89",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/barbours/barbours-ou-wepink-hero-pt-v2.webp",
+      "local_url": "/images/reviews/barbours/barbours-ou-wepink-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50734,
+      "sha256": "eccb39401bc10d4adddb7039545b8853451958d27dc11598c6f80e06a046e4c5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barbours-ou-wepink-hero-pt-v2.webp",
+      "storage_filename": "barbours-ou-wepink-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barbours-ou-wepink.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/barbours-ou-wepink.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barbours-ou-wepink.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/barbours/barbours-ou-wepink-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/barbours-ou-wepink.md",
+          "line": 257,
+          "column": 14,
+          "literal": "/images/reviews/barbours/barbours-ou-wepink-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/eccb39401bc10d4adddb7039545b8853451958d27dc11598c6f80e06a046e4c5/barbours-ou-wepink-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/eccb39401bc10d4adddb7039545b8853451958d27dc11598c6f80e06a046e4c5/barbours-ou-wepink-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.863Z",
+      "verification_etag_or_digest": "eccb39401bc10d4adddb7039545b8853451958d27dc11598c6f80e06a046e4c5",
       "verification_status": "verified"
     },
     {
@@ -24315,6 +24407,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/baw/baw-ou-carnan-hero-pt-v2.webp",
+      "local_url": "/images/reviews/baw/baw-ou-carnan-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 112168,
+      "sha256": "811ffadfd3bf5a76b2f53f860bff6f3b18a4157e3b716b5df7c5e251662cca78",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "baw-ou-carnan-hero-pt-v2.webp",
+      "storage_filename": "baw-ou-carnan-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/baw-ou-carnan.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/baw-ou-carnan.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/baw-ou-carnan.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/baw/baw-ou-carnan-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/baw-ou-carnan.md",
+          "line": 209,
+          "column": 14,
+          "literal": "/images/reviews/baw/baw-ou-carnan-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/811ffadfd3bf5a76b2f53f860bff6f3b18a4157e3b716b5df7c5e251662cca78/baw-ou-carnan-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/811ffadfd3bf5a76b2f53f860bff6f3b18a4157e3b716b5df7c5e251662cca78/baw-ou-carnan-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.863Z",
+      "verification_etag_or_digest": "811ffadfd3bf5a76b2f53f860bff6f3b18a4157e3b716b5df7c5e251662cca78",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/baw/baw-ou-pace-bermuda-jeans-regular-logo.webp",
       "local_url": "/images/reviews/baw/baw-ou-pace-bermuda-jeans-regular-logo.webp",
       "media_kind": "image",
@@ -25776,6 +25914,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-24T01:24:32.178Z",
       "verification_etag_or_digest": "d13fa0b03cd6634fc9d9987728ec8845f8b49e3bc2779b2531c5a0261618fa56",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/baw/tabela-medidas-baw-hero-pt-v2.webp",
+      "local_url": "/images/reviews/baw/tabela-medidas-baw-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68174,
+      "sha256": "7a76fd0ebfc6a90969538cb186ec8dc99e49fd4e5b32ce92adf1d0776c63e083",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tabela-medidas-baw-hero-pt-v2.webp",
+      "storage_filename": "tabela-medidas-baw-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tabela-medidas-baw.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/tabela-medidas-baw.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tabela-medidas-baw.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/baw/tabela-medidas-baw-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/tabela-medidas-baw.md",
+          "line": 223,
+          "column": 14,
+          "literal": "/images/reviews/baw/tabela-medidas-baw-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/7a76fd0ebfc6a90969538cb186ec8dc99e49fd4e5b32ce92adf1d0776c63e083/tabela-medidas-baw-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7a76fd0ebfc6a90969538cb186ec8dc99e49fd4e5b32ce92adf1d0776c63e083/tabela-medidas-baw-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.863Z",
+      "verification_etag_or_digest": "7a76fd0ebfc6a90969538cb186ec8dc99e49fd4e5b32ce92adf1d0776c63e083",
       "verification_status": "verified"
     },
     {
@@ -31906,6 +32090,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/biobio/protetor-solar-mineral-ou-quimico-rotulo-hero-pt-v2.webp",
+      "local_url": "/images/reviews/biobio/protetor-solar-mineral-ou-quimico-rotulo-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 153678,
+      "sha256": "53ffdceddf4719d993e7893f584ccb2ddd444c686aae7338de6f3cd3edbc3863",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "protetor-solar-mineral-ou-quimico-rotulo-hero-pt-v2.webp",
+      "storage_filename": "protetor-solar-mineral-ou-quimico-rotulo-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/protetor-solar-mineral-ou-quimico-rotulo.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/protetor-solar-mineral-ou-quimico-rotulo.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/protetor-solar-mineral-ou-quimico-rotulo.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/biobio/protetor-solar-mineral-ou-quimico-rotulo-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/protetor-solar-mineral-ou-quimico-rotulo.md",
+          "line": 283,
+          "column": 14,
+          "literal": "/images/reviews/biobio/protetor-solar-mineral-ou-quimico-rotulo-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/53ffdceddf4719d993e7893f584ccb2ddd444c686aae7338de6f3cd3edbc3863/protetor-solar-mineral-ou-quimico-rotulo-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/53ffdceddf4719d993e7893f584ccb2ddd444c686aae7338de6f3cd3edbc3863/protetor-solar-mineral-ou-quimico-rotulo-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.863Z",
+      "verification_etag_or_digest": "53ffdceddf4719d993e7893f584ccb2ddd444c686aae7338de6f3cd3edbc3863",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/black-skull/black-friday-black-skull-capa-discover.webp",
       "local_url": "/images/reviews/black-skull/black-friday-black-skull-capa-discover.webp",
       "media_kind": "image",
@@ -37973,6 +38203,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-24T01:24:27.140Z",
       "verification_etag_or_digest": "a5d75b2e5237f123ef671119ec5f2851203231cdb71d5def67fb2dd8a928672a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/bold/barra-bold-saudavel-rotulo-hero-pt-v2.webp",
+      "local_url": "/images/reviews/bold/barra-bold-saudavel-rotulo-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 123486,
+      "sha256": "4e88baf7ddcf95fe2f1fd6e104c54791201558ec820294e7a0c7a34dbf369137",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "barra-bold-saudavel-rotulo-hero-pt-v2.webp",
+      "storage_filename": "barra-bold-saudavel-rotulo-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/barra-bold-saudavel-rotulo.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/barra-bold-saudavel-rotulo.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/barra-bold-saudavel-rotulo.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/bold/barra-bold-saudavel-rotulo-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/barra-bold-saudavel-rotulo.md",
+          "line": 176,
+          "column": 14,
+          "literal": "/images/reviews/bold/barra-bold-saudavel-rotulo-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4e88baf7ddcf95fe2f1fd6e104c54791201558ec820294e7a0c7a34dbf369137/barra-bold-saudavel-rotulo-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4e88baf7ddcf95fe2f1fd6e104c54791201558ec820294e7a0c7a34dbf369137/barra-bold-saudavel-rotulo-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.863Z",
+      "verification_etag_or_digest": "4e88baf7ddcf95fe2f1fd6e104c54791201558ec820294e7a0c7a34dbf369137",
       "verification_status": "verified"
     },
     {
@@ -59723,6 +59999,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/denavita/denavita-ou-rituaria-hero-pt-v2.webp",
+      "local_url": "/images/reviews/denavita/denavita-ou-rituaria-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 84078,
+      "sha256": "a5d09e75089dcfc9af707be71865daba9196f1e2d3d7dca23acb087d439fab71",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-ou-rituaria-hero-pt-v2.webp",
+      "storage_filename": "denavita-ou-rituaria-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-ou-rituaria.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/denavita-ou-rituaria.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-ou-rituaria.json",
+          "line": 31,
+          "column": 13,
+          "literal": "/images/reviews/denavita/denavita-ou-rituaria-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/denavita-ou-rituaria.md",
+          "line": 188,
+          "column": 14,
+          "literal": "/images/reviews/denavita/denavita-ou-rituaria-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/a5d09e75089dcfc9af707be71865daba9196f1e2d3d7dca23acb087d439fab71/denavita-ou-rituaria-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a5d09e75089dcfc9af707be71865daba9196f1e2d3d7dca23acb087d439fab71/denavita-ou-rituaria-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "a5d09e75089dcfc9af707be71865daba9196f1e2d3d7dca23acb087d439fab71",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/denavita/denavita-reclame-aqui-digestino.webp",
       "local_url": "/images/reviews/denavita/denavita-reclame-aqui-digestino.webp",
       "media_kind": "image",
@@ -60006,6 +60328,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-24T01:24:27.140Z",
       "verification_etag_or_digest": "8d438d8298c07ea657dbe78735b5e3e75c14a096ced7b6f96043af2b754fb8ff",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/denavita/denavita-tons-hero-pt-v2.webp",
+      "local_url": "/images/reviews/denavita/denavita-tons-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57438,
+      "sha256": "92ba658d0b7b9fa116acad4d005d39e48ebb2ba97d6d49cf8c60a9bad02826c7",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "denavita-tons-hero-pt-v2.webp",
+      "storage_filename": "denavita-tons-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/denavita-tons.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/denavita-tons.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/denavita-tons.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/denavita/denavita-tons-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/denavita-tons.md",
+          "line": 172,
+          "column": 14,
+          "literal": "/images/reviews/denavita/denavita-tons-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/92ba658d0b7b9fa116acad4d005d39e48ebb2ba97d6d49cf8c60a9bad02826c7/denavita-tons-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/92ba658d0b7b9fa116acad4d005d39e48ebb2ba97d6d49cf8c60a9bad02826c7/denavita-tons-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "92ba658d0b7b9fa116acad4d005d39e48ebb2ba97d6d49cf8c60a9bad02826c7",
       "verification_status": "verified"
     },
     {
@@ -131523,6 +131891,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/mais-mu/creatina-mais-mu-e-pura-hero-pt-v2.webp",
+      "local_url": "/images/reviews/mais-mu/creatina-mais-mu-e-pura-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 91630,
+      "sha256": "cda0bd472a00a713c84eb674bbcbe8f5a936cb265cf6eff5febce8c3e6f53c38",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "creatina-mais-mu-e-pura-hero-pt-v2.webp",
+      "storage_filename": "creatina-mais-mu-e-pura-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/creatina-mais-mu-e-pura.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/creatina-mais-mu-e-pura.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/creatina-mais-mu-e-pura.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/creatina-mais-mu-e-pura-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/creatina-mais-mu-e-pura.md",
+          "line": 204,
+          "column": 14,
+          "literal": "/images/reviews/mais-mu/creatina-mais-mu-e-pura-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cda0bd472a00a713c84eb674bbcbe8f5a936cb265cf6eff5febce8c3e6f53c38/creatina-mais-mu-e-pura-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cda0bd472a00a713c84eb674bbcbe8f5a936cb265cf6eff5febce8c3e6f53c38/creatina-mais-mu-e-pura-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "cda0bd472a00a713c84eb674bbcbe8f5a936cb265cf6eff5febce8c3e6f53c38",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/mais-mu/cupom-mais-mu-capa-discover.webp",
       "local_url": "/images/reviews/mais-mu/cupom-mais-mu-capa-discover.webp",
       "media_kind": "image",
@@ -147010,6 +147424,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/oceane/black-friday-oceane-hero-pt-v2.webp",
+      "local_url": "/images/reviews/oceane/black-friday-oceane-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 146292,
+      "sha256": "78778b701faa4c602167ace2e63a07738f29cce50d6a1be88a05428ae983fdf6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-oceane-hero-pt-v2.webp",
+      "storage_filename": "black-friday-oceane-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-oceane.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-oceane.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-oceane.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/oceane/black-friday-oceane-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-oceane.md",
+          "line": 214,
+          "column": 14,
+          "literal": "/images/reviews/oceane/black-friday-oceane-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/78778b701faa4c602167ace2e63a07738f29cce50d6a1be88a05428ae983fdf6/black-friday-oceane-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/78778b701faa4c602167ace2e63a07738f29cce50d6a1be88a05428ae983fdf6/black-friday-oceane-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "78778b701faa4c602167ace2e63a07738f29cce50d6a1be88a05428ae983fdf6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/oceane/black-friday-oceane-paleta-multifuncional.webp",
       "local_url": "/images/reviews/oceane/black-friday-oceane-paleta-multifuncional.webp",
       "media_kind": "image",
@@ -147118,6 +147578,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/oceane/cupom-oceane-como-usar-hero-pt-v3.webp",
+      "local_url": "/images/reviews/oceane/cupom-oceane-como-usar-hero-pt-v3.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 95702,
+      "sha256": "3e6dc708541d5431e7985f1efac09810f1961fd090960fbcacc4885087748321",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-oceane-como-usar-hero-pt-v3.webp",
+      "storage_filename": "cupom-oceane-como-usar-hero-pt-v3.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-oceane-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-oceane-como-usar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-oceane-como-usar.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/oceane/cupom-oceane-como-usar-hero-pt-v3.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-oceane-como-usar.md",
+          "line": 191,
+          "column": 14,
+          "literal": "/images/reviews/oceane/cupom-oceane-como-usar-hero-pt-v3.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3e6dc708541d5431e7985f1efac09810f1961fd090960fbcacc4885087748321/cupom-oceane-como-usar-hero-pt-v3.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3e6dc708541d5431e7985f1efac09810f1961fd090960fbcacc4885087748321/cupom-oceane-como-usar-hero-pt-v3.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "3e6dc708541d5431e7985f1efac09810f1961fd090960fbcacc4885087748321",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/oceane/cupom-oceane-primeira-compra-capa.webp",
       "local_url": "/images/reviews/oceane/cupom-oceane-primeira-compra-capa.webp",
       "media_kind": "image",
@@ -147169,6 +147675,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-23T05:15:45.166Z",
       "verification_etag_or_digest": "ea58a0abd26e596c33330a2d789c7f3fe142ae1b5ab23fe4175e670cca33cf99",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/oceane/cupom-oceane-primeira-compra-hero-pt-v2.webp",
+      "local_url": "/images/reviews/oceane/cupom-oceane-primeira-compra-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 78402,
+      "sha256": "c2d5827cb203f83abfb6d2bc8c06ab2df26a766cbe9ba43964f14d1171e2559f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-oceane-primeira-compra-hero-pt-v2.webp",
+      "storage_filename": "cupom-oceane-primeira-compra-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-oceane-primeira-compra.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-oceane-primeira-compra.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-oceane-primeira-compra.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/oceane/cupom-oceane-primeira-compra-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-oceane-primeira-compra.md",
+          "line": 170,
+          "column": 14,
+          "literal": "/images/reviews/oceane/cupom-oceane-primeira-compra-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c2d5827cb203f83abfb6d2bc8c06ab2df26a766cbe9ba43964f14d1171e2559f/cupom-oceane-primeira-compra-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c2d5827cb203f83abfb6d2bc8c06ab2df26a766cbe9ba43964f14d1171e2559f/cupom-oceane-primeira-compra-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "c2d5827cb203f83abfb6d2bc8c06ab2df26a766cbe9ba43964f14d1171e2559f",
       "verification_status": "verified"
     },
     {
@@ -147450,6 +148002,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/oceane/oceane-e-boa-hero-pt-v2.webp",
+      "local_url": "/images/reviews/oceane/oceane-e-boa-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 110500,
+      "sha256": "3c02f06300186af16fab558e5037857acb8c7d7f7fe001e2611de7afa52157a6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "oceane-e-boa-hero-pt-v2.webp",
+      "storage_filename": "oceane-e-boa-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/oceane-e-boa.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/oceane-e-boa.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/oceane-e-boa.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/oceane/oceane-e-boa-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/oceane-e-boa.md",
+          "line": 207,
+          "column": 14,
+          "literal": "/images/reviews/oceane/oceane-e-boa-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/3c02f06300186af16fab558e5037857acb8c7d7f7fe001e2611de7afa52157a6/oceane-e-boa-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3c02f06300186af16fab558e5037857acb8c7d7f7fe001e2611de7afa52157a6/oceane-e-boa-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "3c02f06300186af16fab558e5037857acb8c7d7f7fe001e2611de7afa52157a6",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/oceane/oceane-e-boa-kit-minis-trio-batons.webp",
       "local_url": "/images/reviews/oceane/oceane-e-boa-kit-minis-trio-batons.webp",
       "media_kind": "image",
@@ -147666,6 +148264,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/oceane/oceane-e-confiavel-hero-pt-v2.webp",
+      "local_url": "/images/reviews/oceane/oceane-e-confiavel-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 106158,
+      "sha256": "c02ef703a2e7548fff5fa1c714249e8811330ae15df478956c321c31a9607d57",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "oceane-e-confiavel-hero-pt-v2.webp",
+      "storage_filename": "oceane-e-confiavel-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/oceane-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/oceane-e-confiavel.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/oceane-e-confiavel.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/oceane/oceane-e-confiavel-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/oceane-e-confiavel.md",
+          "line": 211,
+          "column": 14,
+          "literal": "/images/reviews/oceane/oceane-e-confiavel-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c02ef703a2e7548fff5fa1c714249e8811330ae15df478956c321c31a9607d57/oceane-e-confiavel-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c02ef703a2e7548fff5fa1c714249e8811330ae15df478956c321c31a9607d57/oceane-e-confiavel-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "c02ef703a2e7548fff5fa1c714249e8811330ae15df478956c321c31a9607d57",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/oceane/oceane-reclame-aqui-nota-reputacao-capa.webp",
       "local_url": "/images/reviews/oceane/oceane-reclame-aqui-nota-reputacao-capa.webp",
       "media_kind": "image",
@@ -147717,6 +148361,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-23T05:15:48.138Z",
       "verification_etag_or_digest": "063a850b362799afcbe64fb5f0ad806bbdac2b5172c2c5e75a3f22d77d3cae49",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/oceane/oceane-reclame-aqui-nota-reputacao-hero-pt-v3.webp",
+      "local_url": "/images/reviews/oceane/oceane-reclame-aqui-nota-reputacao-hero-pt-v3.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88608,
+      "sha256": "c00e2948f43984e2eaacc76b70d8b60a2500d27589dbf7e4d62e711973e546d0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "oceane-reclame-aqui-nota-reputacao-hero-pt-v3.webp",
+      "storage_filename": "oceane-reclame-aqui-nota-reputacao-hero-pt-v3.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/oceane-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/oceane-reclame-aqui-nota-reputacao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/oceane-reclame-aqui-nota-reputacao.json",
+          "line": 30,
+          "column": 13,
+          "literal": "/images/reviews/oceane/oceane-reclame-aqui-nota-reputacao-hero-pt-v3.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/oceane-reclame-aqui-nota-reputacao.md",
+          "line": 220,
+          "column": 14,
+          "literal": "/images/reviews/oceane/oceane-reclame-aqui-nota-reputacao-hero-pt-v3.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/c00e2948f43984e2eaacc76b70d8b60a2500d27589dbf7e4d62e711973e546d0/oceane-reclame-aqui-nota-reputacao-hero-pt-v3.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c00e2948f43984e2eaacc76b70d8b60a2500d27589dbf7e4d62e711973e546d0/oceane-reclame-aqui-nota-reputacao-hero-pt-v3.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "c00e2948f43984e2eaacc76b70d8b60a2500d27589dbf7e4d62e711973e546d0",
       "verification_status": "verified"
     },
     {
@@ -151675,6 +152365,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-hero-pt-v2.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62346,
+      "sha256": "0e9f3872bb94cbedb591742ed62def683aa859ac07d5d05ffc2057be5662c201",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-antiatrito-bastao-spray-creme-hero-pt-v2.webp",
+      "storage_filename": "pinkcheeks-antiatrito-bastao-spray-creme-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-antiatrito-bastao-spray-creme.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-antiatrito-bastao-spray-creme.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-antiatrito-bastao-spray-creme.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-antiatrito-bastao-spray-creme.md",
+          "line": 210,
+          "column": 14,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/0e9f3872bb94cbedb591742ed62def683aa859ac07d5d05ffc2057be5662c201/pinkcheeks-antiatrito-bastao-spray-creme-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0e9f3872bb94cbedb591742ed62def683aa859ac07d5d05ffc2057be5662c201/pinkcheeks-antiatrito-bastao-spray-creme-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "0e9f3872bb94cbedb591742ed62def683aa859ac07d5d05ffc2057be5662c201",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-spray.webp",
       "local_url": "/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-spray.webp",
       "media_kind": "image",
@@ -152378,6 +153114,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-hero-pt-v2.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 109668,
+      "sha256": "1d6a0b1c2d706f415c5fd5afa0b386f539df63ecd94bf07200d2e4d3868dbac5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-glow-booster-pure-gold-ou-rose-gold-hero-pt-v2.webp",
+      "storage_filename": "pinkcheeks-glow-booster-pure-gold-ou-rose-gold-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-glow-booster-pure-gold-ou-rose-gold.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-glow-booster-pure-gold-ou-rose-gold.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-glow-booster-pure-gold-ou-rose-gold.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-glow-booster-pure-gold-ou-rose-gold.md",
+          "line": 207,
+          "column": 14,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/1d6a0b1c2d706f415c5fd5afa0b386f539df63ecd94bf07200d2e4d3868dbac5/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1d6a0b1c2d706f415c5fd5afa0b386f539df63ecd94bf07200d2e4d3868dbac5/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "1d6a0b1c2d706f415c5fd5afa0b386f539df63ecd94bf07200d2e4d3868dbac5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-capa.webp",
       "local_url": "/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-capa.webp",
       "media_kind": "image",
@@ -152437,6 +153219,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-24T01:44:59.232Z",
       "verification_etag_or_digest": "b5d383a78c72766e4a7169739ece04931a6cb60137d4e686ca2274ede76cca2e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-hero-pt-v2.webp",
+      "local_url": "/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 145006,
+      "sha256": "8a0d09b955964ef25977efe226a02447dd7a9772a6a5f5f033d55c47fef53747",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "pinkcheeks-ou-ollie-protetor-bastao-hero-pt-v2.webp",
+      "storage_filename": "pinkcheeks-ou-ollie-protetor-bastao-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/pinkcheeks-ou-ollie-protetor-bastao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-ou-ollie-protetor-bastao.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/pinkcheeks-ou-ollie-protetor-bastao.json",
+          "line": 29,
+          "column": 13,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/pinkcheeks-ou-ollie-protetor-bastao.md",
+          "line": 216,
+          "column": 14,
+          "literal": "/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/8a0d09b955964ef25977efe226a02447dd7a9772a6a5f5f033d55c47fef53747/pinkcheeks-ou-ollie-protetor-bastao-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8a0d09b955964ef25977efe226a02447dd7a9772a6a5f5f033d55c47fef53747/pinkcheeks-ou-ollie-protetor-bastao-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "8a0d09b955964ef25977efe226a02447dd7a9772a6a5f5f033d55c47fef53747",
       "verification_status": "verified"
     },
     {
@@ -159537,6 +160365,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/btx-blend-repair-prohall-como-usar-hero-pt-v2.webp",
+      "local_url": "/images/reviews/prohall/btx-blend-repair-prohall-como-usar-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53894,
+      "sha256": "bcdf22d961ddc1aff31b6fb7d77e60fd45927bf0e7880e646875d3619c7db3f0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "btx-blend-repair-prohall-como-usar-hero-pt-v2.webp",
+      "storage_filename": "btx-blend-repair-prohall-como-usar-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/btx-blend-repair-prohall-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/btx-blend-repair-prohall-como-usar.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/btx-blend-repair-prohall-como-usar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/btx-blend-repair-prohall-como-usar-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/btx-blend-repair-prohall-como-usar.md",
+          "line": 198,
+          "column": 14,
+          "literal": "/images/reviews/prohall/btx-blend-repair-prohall-como-usar-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/bcdf22d961ddc1aff31b6fb7d77e60fd45927bf0e7880e646875d3619c7db3f0/btx-blend-repair-prohall-como-usar-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/bcdf22d961ddc1aff31b6fb7d77e60fd45927bf0e7880e646875d3619c7db3f0/btx-blend-repair-prohall-como-usar-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "bcdf22d961ddc1aff31b6fb7d77e60fd45927bf0e7880e646875d3619c7db3f0",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-capa.webp",
       "local_url": "/images/reviews/prohall/cabelo-fino-e-fraco-qual-linha-prohall-capa.webp",
       "media_kind": "image",
@@ -160890,6 +161764,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/prohall/prohall-ou-cadiveu-hero-pt-v2.webp",
+      "local_url": "/images/reviews/prohall/prohall-ou-cadiveu-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54646,
+      "sha256": "73d13495815b0d6847b00d84df17479ff349f2d8cb1f9835936b9a5d0e1b9b6c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-ou-cadiveu-hero-pt-v2.webp",
+      "storage_filename": "prohall-ou-cadiveu-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-ou-cadiveu.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/prohall-ou-cadiveu.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-ou-cadiveu.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/prohall-ou-cadiveu-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/prohall-ou-cadiveu.md",
+          "line": 194,
+          "column": 14,
+          "literal": "/images/reviews/prohall/prohall-ou-cadiveu-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/73d13495815b0d6847b00d84df17479ff349f2d8cb1f9835936b9a5d0e1b9b6c/prohall-ou-cadiveu-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/73d13495815b0d6847b00d84df17479ff349f2d8cb1f9835936b9a5d0e1b9b6c/prohall-ou-cadiveu-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "73d13495815b0d6847b00d84df17479ff349f2d8cb1f9835936b9a5d0e1b9b6c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/prohall/prohall-ou-forever-liss-capa.webp",
       "local_url": "/images/reviews/prohall/prohall-ou-forever-liss-capa.webp",
       "media_kind": "image",
@@ -160949,6 +161869,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-24T01:45:06.939Z",
       "verification_etag_or_digest": "2985c2864f9904a006ac7d2fd4f5d71aa2eb971a2f0da5c4c09b3b15c554b9fe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/prohall-ou-forever-liss-hero-pt-v2.webp",
+      "local_url": "/images/reviews/prohall/prohall-ou-forever-liss-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46184,
+      "sha256": "4a51648ea9824d5d9d9270a3deb4619eb634909946bcd4cd443294eea34190d9",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "prohall-ou-forever-liss-hero-pt-v2.webp",
+      "storage_filename": "prohall-ou-forever-liss-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/prohall-ou-forever-liss.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/prohall-ou-forever-liss.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/prohall-ou-forever-liss.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/prohall-ou-forever-liss-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/prohall-ou-forever-liss.md",
+          "line": 197,
+          "column": 14,
+          "literal": "/images/reviews/prohall/prohall-ou-forever-liss-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4a51648ea9824d5d9d9270a3deb4619eb634909946bcd4cd443294eea34190d9/prohall-ou-forever-liss-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4a51648ea9824d5d9d9270a3deb4619eb634909946bcd4cd443294eea34190d9/prohall-ou-forever-liss-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "4a51648ea9824d5d9d9270a3deb4619eb634909946bcd4cd443294eea34190d9",
       "verification_status": "verified"
     },
     {
@@ -161920,6 +162886,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-24T01:45:06.939Z",
       "verification_etag_or_digest": "6ea37ba92b05f4abecea4f0867cf17553e0fbc70f2457ee994be173ae5edc857",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/prohall/secar-sem-frizz-prohall-hero-pt-v2.webp",
+      "local_url": "/images/reviews/prohall/secar-sem-frizz-prohall-hero-pt-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 104412,
+      "sha256": "afeae60bab432fcecd2ca2180639896593b061c4d9130b51a5c43710b9a4894f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "secar-sem-frizz-prohall-hero-pt-v2.webp",
+      "storage_filename": "secar-sem-frizz-prohall-hero-pt-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/secar-sem-frizz-prohall.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/secar-sem-frizz-prohall.md"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/secar-sem-frizz-prohall.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/prohall/secar-sem-frizz-prohall-hero-pt-v2.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/secar-sem-frizz-prohall.md",
+          "line": 200,
+          "column": 14,
+          "literal": "/images/reviews/prohall/secar-sem-frizz-prohall-hero-pt-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/afeae60bab432fcecd2ca2180639896593b061c4d9130b51a5c43710b9a4894f/secar-sem-frizz-prohall-hero-pt-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/afeae60bab432fcecd2ca2180639896593b061c4d9130b51a5c43710b9a4894f/secar-sem-frizz-prohall-hero-pt-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T20:36:08.864Z",
+      "verification_etag_or_digest": "afeae60bab432fcecd2ca2180639896593b061c4d9130b51a5c43710b9a4894f",
       "verification_status": "verified"
     },
     {

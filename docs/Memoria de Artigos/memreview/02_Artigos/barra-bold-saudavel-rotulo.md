@@ -170,3 +170,10 @@ Blocos do caderno: `checklist` (roteiro do rótulo) e `comparisonTable` por perg
 ## Regra de pergunta de fato (24/11/2026)
 
 - Esta pauta é pergunta de fato, e não "é boa?": o "Sim" de abertura do `Anexo-E-Boa-Vale-a-Pena.md` (seção 1.4) não vale aqui. A resposta rápida, os capítulos e o FAQ respondem pelo que a fonte lida declara. "É saudável?" responde pelo rótulo de cada linha (açúcar, calorias, glúten, lactose, leite e alérgenos), sem "Sim" nem "Não" que o rótulo não sustente. O "Sim" com perfil e motivo fica na `barra-bold-e-boa`.
+
+## Capa v2 (24/11/2026)
+
+- **Capa:** `/images/reviews/bold/barra-bold-saudavel-rotulo-hero-pt-v2.webp` (`imageFit: contain`), SHA-256 `4e88baf7ddcf95fe2f1fd6e104c54791201558ec820294e7a0c7a34dbf369137`.
+- **Alt:** Caixa Mista de barras BOLD de 14 g em ângulo, sobre fundo azul-esverdeado. A capa pergunta se a barra é saudável e mostra o cupom CECILIA15.
+- **Origem:** a descrita no alt; fontes, hashes e enquadramento no campo `fontes` do `MAPA-22-ROTAS-E-ALTS.json`.
+- **Lote 73 do piloto de capas (sequência 25 do Codex, revisão independente do GPT-6.1 Terra, parecer vigente `lotes/73/REVISAO-TERRA.json`):** entregue em `docs/auditoria-capas/ENTREGA-22-HEROES-22-PAGINAS-SEQUENCIA-25-CLAUDE.zip` (`lotes/73/out/`) no checkout principal, no padrão vigente das capas (painel verde à esquerda). A capa anterior (`/images/reviews/bold/barra-bold-saudavel-rotulo-capa.webp`) fica no CDN, sem uso como capa.
