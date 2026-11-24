@@ -44,6 +44,9 @@
     },
     {
       "slug": "black-friday-pinkcheeks"
+    },
+    {
+      "slug": "pinkcheeks-antiatrito-bastao-spray-creme"
     }
   ],
   "decision": {
@@ -131,20 +134,9 @@
       ]
     },
     {
-      "heading": "Antiatrito: bastão, spray ou creme",
+      "heading": "E o antiatrito?",
       "paragraphs": [
-        "Na linha Redless, a Pink Cheeks oferece o [bastão de 18 g](https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g), a R$ 54,90, o [spray de 35 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-35ml), a R$ 52,90, ou de [75 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-75ml), a R$ 69,90, e o [creme Chamois Cream de 100 g](https://pinkcheeks.com.br/products/antiatrito-redless-chamois-cream-100g-1), a R$ 54,90.",
-        "Se procura a linha por causa do atrito da roupa ou do equipamento, compare a forma de aplicação e o tamanho na ficha de cada versão. Os preços acima são os da vitrine, antes do frete."
-      ],
-      "images": [
-        {
-          "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
-          "alt": "Bastão antiatrito Redless da Pink Cheeks, verde-água, ao lado da caixa branca, em foto oficial do produto",
-          "caption": "Redless Antiatrito em Bastão, de 18 g. Imagem: Pink Cheeks.",
-          "objectFit": "contain",
-          "aspectRatio": 1,
-          "href": "https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g"
-        }
+        "A Pink Cheeks tem uma linha antiatrito com bastão, spray em dois tamanhos, creme e o bastão Speedo. Para ver o que a ficha informa de cada item, onde a loja indica a aplicação e o preço com o código, leia o [guia do antiatrito Pink Cheeks](/reviews/pinkcheeks-antiatrito-bastao-spray-creme)."
       ]
     },
     {
@@ -175,5 +167,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-22"
+  "updatedAt": "2026-11-24"
 }

@@ -1,0 +1,232 @@
+{
+  "id": 1404,
+  "slug": "pinkcheeks-antiatrito-bastao-spray-creme",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "24 de novembro de 2026",
+  "publishedAtISO": "2026-11-24",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "PNK-EMCASACOMCECILIA",
+  "affiliate": "pinkcheeks",
+  "title": "Antiatrito Pink Cheeks: bastão, spray ou creme, qual usar na corrida e no treino",
+  "seoTitle": "Antiatrito Pink Cheeks: bastão, spray ou creme",
+  "type": "Guia de Escolha",
+  "description": "Bastão, spray de 35 e 75 ml, Chamois Cream e bastão Speedo da Pink Cheeks, com tamanho, área indicada, onde está a instrução de uso e preço com o código PNK-EMCASACOMCECILIA.",
+  "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF no antiatrito da Pink Cheeks. Compare bastão, spray e creme pela área do atrito, pelo tamanho e pelo preço.",
+  "image": "/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-capa.webp",
+  "imageAlt": "Spray Redless Coat de 35 ml e creme Redless Chamois Cream da Pink Cheeks lado a lado, em foto oficial da loja. A capa traz o logo Pink Cheeks e a chamada “Antiatrito: bastão, spray ou creme?”.",
+  "cta": {
+    "text": "Confira a ficha de cada antiatrito na Pink Cheeks. No checkout, aplique PNK-EMCASACOMCECILIA e confira os 10% OFF.",
+    "label": "Ir para a Pink Cheeks",
+    "url": "https://pinkcheeks.com.br/",
+    "sponsored": true
+  },
+  "editorialNote": "Não usamos os antiatritos: o texto segue as fichas e o FAQ da loja. Somos parceiros da Pink Cheeks e podemos receber comissão pelo cupom.",
+  "relatedArticles": [
+    {
+      "slug": "pinkcheeks-e-boa"
+    },
+    {
+      "slug": "black-friday-pinkcheeks"
+    },
+    {
+      "slug": "cupom-pinkcheeks-como-usar"
+    },
+    {
+      "slug": "pinkcheeks-e-confiavel"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Você sente atrito em áreas pequenas, como o top ou a fita do frequencímetro, e quer um item fácil de levar. A loja indica o bastão Redless para tecidos e acessórios.",
+      "Você quer cobrir coxas ou pés de uma vez. A loja indica o spray Redless Coat para pele com pele, em 35 ml ou 75 ml.",
+      "Você prefere aplicar com a mão em área íntima. A loja indica o Chamois Cream para virilha, coxas e axilas."
+    ],
+    "skipIf": [
+      "Você tem pele sensível ou evita perfume. O Chamois Cream e o bastão Speedo não trazem perfume na lista; o bastão Redless e o spray trazem, e a dúvida vai para um dermatologista.",
+      "Você não sente atrito no treino nem no dia a dia. A linha é de uso específico."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Na linha antiatrito da Pink Cheeks, a escolha sai da área do atrito: a loja indica o bastão Redless para o contato da pele com tecidos e acessórios, o spray Redless Coat para pele com pele e o Chamois Cream para áreas íntimas. Quem evita perfume confere a coluna de perfume da tabela abaixo."
+      ]
+    },
+    {
+      "heading": "Bastão, spray, creme e Speedo: o que a ficha de cada item informa",
+      "paragraphs": [
+        "Dos cinco antiatritos da Pink Cheeks, dois são o mesmo spray em tamanhos diferentes, então a escolha real é entre bastão, spray e creme. A tabela mostra o que a loja destaca em cada um e quais levam perfume."
+      ],
+      "comparisonTable": {
+        "caption": "Dados das fichas da loja. Os preços estão no capítulo de preço.",
+        "headers": [
+          "Item",
+          "Tamanho",
+          "O que a ficha destaca",
+          "Perfume na lista de ingredientes"
+        ],
+        "rows": [
+          [
+            "[Bastão Redless](https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g)",
+            "18 g",
+            "Áreas como o top e a fita do frequencímetro",
+            "Sim, com limoneno e linalol"
+          ],
+          [
+            "[Spray Redless Coat](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-35ml)",
+            "35 ml",
+            "Película protetora que facilita o deslizamento e sem sensação pegajosa",
+            "Sim"
+          ],
+          [
+            "[Spray Redless Coat](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-75ml)",
+            "75 ml",
+            "Mesma lista de ingredientes do de 35 ml; muda o volume",
+            "Sim"
+          ],
+          [
+            "[Redless Chamois Cream](https://pinkcheeks.com.br/products/antiatrito-redless-chamois-cream-100g-1)",
+            "100 g",
+            "Ativos hidratantes e antioxidantes; a lista traz óleo de uva, calêndula e melaleuca",
+            "Não aparece na lista"
+          ],
+          [
+            "[Bastão Speedo](https://pinkcheeks.com.br/products/antiatrito-em-bastao-speedo-b-13g)",
+            "13 g",
+            "Camada seca e transparente; a lista traz rosa mosqueta, ceras e vitamina E",
+            "Não aparece na lista"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O bastão Speedo também vem no kit Speedo, que está no guia da [Black Friday da Pink Cheeks](/reviews/black-friday-pinkcheeks)."
+      ]
+    },
+    {
+      "heading": "Onde aplicar cada um, segundo a loja",
+      "paragraphs": [
+        "A loja separa os itens pelo tipo de atrito: pele com tecido, pele com pele e áreas íntimas."
+      ],
+      "bullets": [
+        "Bastão Redless: para atrito entre a pele e tecidos ou acessórios. A ficha cita áreas como o top e a fita do frequencímetro.",
+        "Spray Redless Coat: para pele com pele. A loja indica para coxas e pés, áreas em que ela cita bolhas.",
+        "Redless Chamois Cream: para áreas íntimas. A ficha lista virilha, braços, coxas e axilas.",
+        "Bastão Speedo: a loja destaca a camada seca e transparente, sem apontar uma área específica."
+      ],
+      "postParagraphs": [
+        "Coxas aparecem no spray e no creme. Pela separação da loja, o spray é para pele roçando em pele e o creme, para áreas íntimas."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+          "alt": "Bastão antiatrito Redless da Pink Cheeks, verde-água, ao lado da caixa branca, em foto oficial do produto",
+          "caption": "Redless Antiatrito em Bastão, de 18 g. Imagem: Pink Cheeks.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g"
+        },
+        {
+          "src": "/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-spray.webp",
+          "alt": "Spray antiatrito Redless Coat de 35 ml da Pink Cheeks, em foto oficial do produto.",
+          "caption": "Redless Coat, spray de 35 ml. Foto: Pink Cheeks.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-35ml"
+        },
+        {
+          "src": "/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-creme.webp",
+          "alt": "Creme antiatrito Redless Chamois Cream de 100 g da Pink Cheeks, em foto oficial do produto.",
+          "caption": "Redless Chamois Cream, creme de 100 g. Foto: Pink Cheeks.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://pinkcheeks.com.br/products/antiatrito-redless-chamois-cream-100g-1"
+        }
+      ]
+    },
+    {
+      "heading": "Onde está a instrução de uso",
+      "paragraphs": [
+        "Nos dois sprays, a instrução está na aba Modo de uso da página. No bastão Redless, no Chamois Cream e no bastão Speedo, essa aba aparece em branco: a instrução está no texto de descrição, mais abaixo. Leia também a embalagem antes de aplicar; com pele sensível ou em área íntima, na dúvida, o dermatologista."
+      ]
+    },
+    {
+      "heading": "Preço com o código",
+      "paragraphs": [
+        "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, para cliente novo e antigo. Cole o código no campo \"Código de desconto ou cartão-presente\", no checkout, e clique em Aplicar. Nos nossos testes, ele somou com preço promocional. A coluna do código é conta nossa: 10% sobre o preço de tabela. Confira o desconto no checkout antes de pagar.",
+        "O site está em campanha de Black Friday, e no dia da leitura os cinco itens saíam entre R$ 52,90 e R$ 69,90 antes do código. Esses valores podem mudar quando a campanha acabar."
+      ],
+      "comparisonTable": {
+        "caption": "Preço de tabela no site, 23/11, antes do frete.",
+        "headers": [
+          "Item",
+          "Com PNK-EMCASACOMCECILIA",
+          "Preço de tabela"
+        ],
+        "rows": [
+          [
+            "[Bastão Redless, 18 g](https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g)",
+            "R$ 71,91",
+            "R$ 79,90"
+          ],
+          [
+            "[Spray Redless Coat, 35 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-35ml)",
+            "R$ 67,41",
+            "R$ 74,90"
+          ],
+          [
+            "[Spray Redless Coat, 75 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-75ml)",
+            "R$ 89,91",
+            "R$ 99,90"
+          ],
+          [
+            "[Redless Chamois Cream, 100 g](https://pinkcheeks.com.br/products/antiatrito-redless-chamois-cream-100g-1)",
+            "R$ 71,91",
+            "R$ 79,90"
+          ],
+          [
+            "[Bastão Speedo, 13 g](https://pinkcheeks.com.br/products/antiatrito-em-bastao-speedo-b-13g)",
+            "R$ 67,41",
+            "R$ 74,90"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Não dá para comparar o preço de um bastão em gramas com o de um spray em mililitros. Escolha a forma pela área do atrito e só então olhe o preço."
+      ]
+    },
+    {
+      "heading": "Para corrida e treino: como escolher",
+      "paragraphs": [
+        "Regra prática, sem teste nosso: o bastão marca uma faixa estreita, onde a alça ou a fita encosta, e o spray cobre uma área larga de uma vez; o de 35 ml é o tamanho de levar, o de 75 ml, o de uso frequente.",
+        "A loja apresenta os cinco itens como proteção contra atrito e assadura. Essa é a indicação dela; aqui a comparação fica na forma, na área e no preço. O antiatrito não substitui a roupa adequada ao treino, e irritação que não passa é assunto para o dermatologista."
+      ],
+      "emphasis": "Escolha pela área em que o atrito aparece e confira a indicação da loja para ela. A forma, bastão, spray ou creme, vem depois."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual antiatrito Pink Cheeks é melhor? Depende da área do atrito. No FAQ da loja, o bastão Redless é para tecidos e acessórios, o spray Redless Coat é para pele com pele e o Chamois Cream é para áreas íntimas.",
+        "Antiatrito Pink Cheeks é bom? A loja diz que o spray forma uma película que facilita o deslizamento, sem sensação pegajosa, e que o bastão Speedo deixa uma camada seca e transparente. A tabela do início mostra o que ela destaca em cada item.",
+        "Pink Cheeks tem antiatrito em spray? Tem, o Redless Coat, em 35 ml e em 75 ml. Segundo as fichas, os dois têm a mesma fórmula e o mesmo registro.",
+        "Existe antiatrito Pink Cheeks de 45 g? Não existe na loja. O bastão Redless tem 18 g, o spray tem 35 ml ou 75 ml, o creme tem 100 g e o bastão Speedo tem 13 g. O único item de 45 g do catálogo é o protetor corporal Shield.",
+        "Qual é o cupom da Pink Cheeks? É o PNK-EMCASACOMCECILIA, com 10% OFF no site da Pink Cheeks, para cliente novo e antigo; o capítulo de preço mostra onde colar."
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-24"
+}
