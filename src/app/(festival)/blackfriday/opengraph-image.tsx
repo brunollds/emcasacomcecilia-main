@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { ImageResponse } from 'next/og';
 import { getActiveCoupons } from '@/lib/couponsData';
+import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 export const alt = 'Festival de Cupons EXCLUSIVOS da Cecília — Black Friday';
 export const size = { width: 1200, height: 630 };
@@ -24,16 +25,54 @@ function readPublicImageDataUri(relPath: string): string | null {
   }
 }
 
-export default function OpenGraphImage() {
+// No build de arquivo da Hostinger (.gitattributes export-ignore), public/images não vai no pacote:
+// busca a imagem PNG/JPEG na CDN oficial com timeout curto e usa iniciais vetoriais se estiver offline.
+async function loadShareImageDataUri(relPath: string): Promise<string | null> {
+  const local = readPublicImageDataUri(relPath);
+  if (local) return local;
+
+  try {
+    const cleanExt = path.extname(relPath.split('?')[0]).toLowerCase();
+    if (cleanExt !== '.png' && cleanExt !== '.jpg' && cleanExt !== '.jpeg') return null;
+    const remoteUrl = resolveMediaUrl(relPath);
+    if (!remoteUrl.startsWith('https://')) return null;
+
+    const res = await fetch(remoteUrl, {
+      headers: { Accept: 'image/png,image/jpeg;q=0.9' },
+      signal: AbortSignal.timeout(2500),
+    });
+    if (!res.ok) return null;
+
+    const ct = (res.headers.get('content-type') || '').toLowerCase();
+    if (ct.includes('webp') || ct.includes('avif')) return null;
+
+    const mime = ct.includes('png')
+      ? 'image/png'
+      : ct.includes('jpeg') || ct.includes('jpg')
+        ? 'image/jpeg'
+        : cleanExt === '.png'
+          ? 'image/png'
+          : 'image/jpeg';
+    const buf = await res.arrayBuffer();
+    return `data:${mime};base64,${Buffer.from(buf).toString('base64')}`;
+  } catch {
+    return null;
+  }
+}
+
+export default async function OpenGraphImage() {
   const activeCoupons = getActiveCoupons();
   const totalCount = activeCoupons.length;
-
-  const ceciliaAvatar = readPublicImageDataUri('/images/photos/BRU-1.jpg');
 
   const orbSlugs = ['insider', 'damie', 'dolce-gusto', 'i-wanna-sleep', 'bagaggio', 'dr-peanut'];
   const orbStores = orbSlugs
     .map((slug) => activeCoupons.find((c) => c.slug === slug))
     .filter((c): c is NonNullable<typeof c> => Boolean(c));
+
+  const [ceciliaAvatar, ...bubbleUris] = await Promise.all([
+    loadShareImageDataUri('/images/photos/BRU-1.jpg'),
+    ...orbStores.map((store) => (store.bubble?.src ? loadShareImageDataUri(store.bubble.src) : Promise.resolve(null))),
+  ]);
 
   const remainingCount = Math.max(0, totalCount - 4);
 
@@ -205,7 +244,7 @@ export default function OpenGraphImage() {
           <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
             <div style={{ display: 'flex', alignItems: 'center' }}>
               {orbStores.map((store, index) => {
-                const bubbleUri = store.bubble?.src ? readPublicImageDataUri(store.bubble.src) : null;
+                const bubbleUri = bubbleUris[index] ?? null;
                 const bg = store.bubble?.background ?? '#f4efe6';
                 return (
                   <div
