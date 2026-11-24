@@ -24,24 +24,24 @@
   "imageAlt": "Mãos mostrando a espessura do Pillow Top Magnum da I Wanna Sleep.",
   "imageFit": "contain",
   "imageAspect": "landscape",
-  "pros": [
-    "10 cm de altura quando afofado, segundo a marca",
-    "Enchimento gomo a gomo, que distribui a fibra sem acumular",
-    "Capa 100% algodão e certificação OEKO-TEX® informadas pela marca",
-    "Elásticos nas laterais para prender no colchão",
-    "Sleeptest de 30 dias para pillow tops, com regras de troca"
-  ],
-  "cons": [
-    "Não corrige colchão afundado ou com molas danificadas",
-    "Não é impermeável: pede capa protetora por cima",
-    "Lavagem só a seco ou profissional",
-    "Preço alto para uma peça que não troca o colchão (de R$ 1.233 a R$ 2.350, conforme o tamanho)"
-  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "O seu colchão está íntegro e sem afundamento, mas firme demais.",
+      "Você dorme de lado e quer uma camada mais macia em ombros e quadris."
+    ],
+    "skipIf": [
+      "O colchão já tem buraco no meio, laterais cedendo ou molas danificadas.",
+      "A dor nas costas é persistente: pillow top não trata coluna e pede avaliação médica.",
+      "Você precisa lavar a peça na máquina de casa: o Magnum pede lavagem a seco ou profissional."
+    ]
+  },
   "contentSections": [
     {
       "heading": "Resposta rápida: o Pillow Top Magnum vale a pena?",
       "paragraphs": [
-        "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma; na dúvida sobre dor nas costas, o caminho é o médico. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
+        "Sim, o Pillow Top Magnum vale a pena se o colchão está íntegro, mas firme demais. Ele não corrige colchão afundado nem trata dor nas costas: só muda a superfície e pede avaliação médica se houver dor, como explicamos abaixo. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
       ]
     },
     {
@@ -204,7 +204,7 @@
         "O Pillow Top Magnum esquenta? A I Wanna Sleep propõe a combinação de AirFiber com capa 100% algodão para ventilar, mas o conforto térmico varia de pessoa para pessoa. Quem sente muito calor pode testar pelo Sleeptest.",
         "Pode lavar pillow top na máquina? O Magnum deve ser lavado a seco ou em lavanderia profissional, segundo a marca. Use capa protetora por cima para lavar só ela no dia a dia.",
         "Quanto tempo o pillow top leva para encher? A marca orienta afofar gomo a gomo e deixar descansar por 6 horas antes do primeiro uso.",
-        "Tem cupom para o Pillow Top Magnum? Sim: o CECIEMCASA dá 10% no site oficial da I Wanna Sleep, com o valor final no checkout."
+        "Qual é o cupom da I Wanna Sleep? É o CECIEMCASA, que dá 10% OFF no site oficial da I Wanna Sleep, inclusive no Pillow Top Magnum, somando com os 5% do Pix e com o valor final confirmado no checkout."
       ]
     }
   ],

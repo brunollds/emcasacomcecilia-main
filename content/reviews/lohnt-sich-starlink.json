@@ -40,7 +40,7 @@
       "heading": "Schnelle Antwort",
       "paragraphs": [
         "Ja, Starlink lohnt sich dort, wo keine stabile Verbindung ankommt, aber auch dort, wo Glasfaser liegt und trotzdem oft ausfällt oder deutlich weniger Tempo liefert als gebucht. Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Läuft Ihre Glasfaser wirklich stabil, bleibt sie bei Preis und Latenz meist vorn. Der Test ist risikoarm: Das Kit ist in der Berliner Bestellung zur Miete für 0 €, und Sie haben 30 Tage für die Rückgabe.",
-        "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten. Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
+        "Als Neukunde in Deutschland können Sie 45 € Rechnungsguthaben erhalten (kein Sofortrabatt auf das Kit). Öffnen Sie vor der Bestellung unseren Empfehlungslink, prüfen Sie die Prämie vor dem Bezahlen in der Bestellübersicht und halten Sie Ihren berechtigten Tarif zwei volle Abrechnungszyklen aktiv und bezahlt."
       ],
       "links": [
         {
@@ -249,16 +249,17 @@
       ]
     },
     {
-      "heading": "Was Kunden beanstanden",
+      "heading": "Praktische Grenzen, Vertrag und Support",
       "paragraphs": [
-        "Das Trustpilot-Profil der Domain starlink.com steht bei einem TrustScore von 1,6, bei vielen Beschwerden zu Support und Rechnung. Bewahren Sie das Angebot der Bestellung auf, um es mit der Rechnung zu vergleichen. Lesen Sie dazu [die Auswertung der Trustpilot-Bewertungen](/de/reviews/starlink-trustpilot-bewertungen)."
+        "Die Rückgabepflicht für das Mietkit und zeitlich begrenzte Aktionspreise sind nach den 30 Tagen Testphase die wichtigsten vertraglichen Grenzen. In Berlin verlängert sich der Vertrag monatlich auf unbestimmte Zeit und ist gebührenfrei kündbar, doch das gemietete Kit muss bei Kündigung unbeschädigt zurückgeschickt werden. Außerdem gilt der Berliner 50-%-Aktionspreis nur für die ersten 3 Monate (danach gelten 35 €, 55 € bzw. 75 € ohne dauerhafte Preisgarantie): Speichern Sie vor dem Bezahlen einen Screenshot der Bestellübersicht zum Abgleich mit der Rechnung.",
+        "Auch bei Support und Betrieb gibt es klare praktische Grenzen. Anfragen zu Rechnungen, Tarifwechseln oder der Kit-Rückgabe laufen über Ihr Starlink-Konto auf der Website oder in der App; notieren Sie sich deshalb Bestellnummer, Kündigungsdatum und Vorgangsnummer für eventuelle Rückfragen. Im Alltag verlangt die Antenne freie Sicht zum Himmel (Äste oder Dächer verursachen Ausfälle), verliert bei sehr starkem Regen oder Sturm vorübergehend an Leistung und fällt bei Stromausfällen ohne USV oder Powerstation aus. Eine Einordnung von Berichten zu Support und Abrechnung finden Sie in unserer [Auswertung zu Starlink auf Trustpilot](/de/reviews/starlink-trustpilot-bewertungen)."
       ]
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
         "Hat Starlink einen Rabattgutschein? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
-        "Lohnt sich Starlink in der Stadt? Das hängt davon ab, wie gut Ihre jetzige Glasfaser wirklich ist. Ist sie günstig und stabil, gewinnt sie meist bei den Kosten. Fällt sie oft aus oder liefert deutlich weniger als gebucht, kann sich Starlink als Alternative oder Backup lohnen, sofern der Himmel frei ist. So war es bei uns.",
+        "Lohnt sich Starlink in der Stadt? Ja, dort, wo die lokale Glasfaser oft ausfällt oder deutlich weniger liefert als gebucht, sofern der Himmel frei ist – so war es bei uns; ist Ihre Glasfaser günstig und stabil, gewinnt sie bei den Kosten.",
         "Ist Starlink besser als Glasfaser? Bei Spitzentempo und Latenz hat gesunde Glasfaser meist die Nase vorn. Bei der Ausfallsicherheit gegen lokale Störungen und durchtrennte Kabel hilft Starlink, weil es ein vom örtlichen Anbieter unabhängiger Weg ist.",
         "Ist Starlink gut zum Spielen? Testen Sie Reaktionszeit und Unterbrechungen an Ihrer Adresse. Die typische Spanne, die Starlink nennt, ist ein allgemeiner Richtwert.",
         "Ist Starlink unbegrenzt? Starlink bewirbt unbegrenztes Datenvolumen bei den Tarifen für Privathaushalte. Prüfen Sie in der Bestellung die Geschwindigkeitsgrenzen des angezeigten Tarifs.",

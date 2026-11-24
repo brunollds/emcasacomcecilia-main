@@ -2,8 +2,8 @@
   "id": 896,
   "slug": "holyfoods-e-boa",
   "locale": "pt",
-  "title": "HolyFoods é boa? Sopas, risotos e macs pelo rótulo, um a um",
-  "seoTitle": "HolyFoods é bom? Sopas, risotos e macs pelo rótulo",
+  "title": "HolyFoods é boa? Sopas, risotos, macarrões, preços e cupom",
+  "seoTitle": "HolyFoods é boa? Sopas, risotos, macs e preços",
   "type": "Guia de Marca",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,7 +15,7 @@
     "url": "/sobre"
   },
   "description": "As tabelas de sopas, risotos e macs lado a lado, o que cada lista de ingredientes traz e quando o pack de sopa compensa, com os preços já com o cupom EMCASA.",
-  "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. HolyFoods é bom? Sopas, risotos e macs pelo rótulo: proteína, calorias, sódio, ingredientes e preço com o código.",
+  "metaDescription": "O cupom EMCASA dá 15% OFF na HolyFoods. Veja sopas, risotos e macs com proteína, calorias, sódio, ingredientes e preço calculado pelo código.",
   "publishedAt": "10 de novembro de 2026",
   "publishedAtISO": "2026-11-10",
   "updatedAt": "2026-11-22",
@@ -69,7 +69,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A HolyFoods vale para quem quer comida guardada na despensa e aceita preparar: sopas, risotos e macs exigem cozimento. O sachê avulso custa menos para experimentar, e o pack de sopa custa menos por quantidade de mistura. Com o EMCASA aplicado, a receita sai dos ingredientes que você procura ou evita e do tempo de panela."
+        "Compensa, sim, para quem quer refeições para preparar em casa e guardar na despensa, sem congelador: sopas, risotos e macs pedem cozimento. O cupom EMCASA dá 15% OFF no site oficial e soma com os descontos dos produtos. A escolha entre sachê avulso e pack, além dos rótulos, está abaixo."
       ]
     },
     {
@@ -341,7 +341,7 @@
       },
       "postParagraphs": [
         "Esses preços valem com a campanha no ar. Se os produtos voltarem aos preços de referência que a loja mostra e o EMCASA continuar válido, o avulso sairia por cerca de R$ 16,92 e o pack por cerca de R$ 50,92. O preço depois da campanha depende da oferta que estiver no site.",
-        "O frete entra à parte: confira o total para o seu CEP antes de pagar."
+        "Para aplicar o código, clique em \"Finalizar compra\", abra \"Inserir cupom de desconto\", cole EMCASA em \"Código do cupom\" e clique em \"Adicionar\". Na garantia de 30 dias da loja, dá para provar uma unidade e devolver as outras fechadas sem custo. O frete entra à parte: confira o total para o seu CEP antes de pagar."
       ],
       "links": [
         {
@@ -408,7 +408,9 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
+        "A HolyFoods é boa? Compensa, sim, para quem busca sopas, risotos e macarrões de preparo rápido na despensa, sem depender de freezer, comparando proteína, sódio e ingredientes pelo rótulo com 15% OFF no código EMCASA.",
         "HolyFoods é saudável? A resposta depende da receita e de como ela entra na sua alimentação. O rótulo mostra ingredientes e nutrientes, mas ausência de conservantes e presença de proteína não bastam para avaliar uma dieta. Para orientação individual, converse com nutricionista ou médico.",
+        "Qual é o cupom da HolyFoods? É o EMCASA, com 15% OFF em todo o site ao inserir o código em \"Código do cupom\" na tela Finalizar compra; as regras completas estão na página do [cupom HolyFoods](/cupons/holyfoods).",
         "O cupom EMCASA soma com a promoção da loja? Soma: nos testes no checkout, os 15% saíram do preço que já estava com os 30% da campanha. Confira a linha de desconto antes de pagar.",
         "Dá para fazer HolyFoods no micro-ondas? A ficha de risotos e macs traz o preparo no micro-ondas. Para as sopas, a loja indica o fogão.",
         "HolyFoods tem glúten? As listas dos onze produtos declaram não conter glúten. Para outras alergias ou restrições, confira as linhas contém e pode conter na embalagem escolhida."

@@ -18,7 +18,7 @@ Vale junto com o Job 2 e com as decisões de 31/10/2026. Este anexo aplica essas
 
 ## O que este tipo nunca faz
 
-- Fecha o veredito com "eu levaria", "eu tomaria" ou "eu usaria". A conclusão compara pelos dados, sem indicação de uso (Job 2, seção 5); "Pelos números da tabela, para o perfil X a escolha é Y, porque Z" é uma redação possível, não obrigatória.
+- Fecha o veredito com "eu levaria", "eu tomaria" ou "eu usaria". A conclusão compara pelos dados, sem inventar efeito clínico nem citar nota ou estrelas de clientes; nos guias da série `"<Marca/Produto> é boa/bom / vale a pena?"` de parceiro ativo, seguir `Anexo-E-Boa-Vale-a-Pena.md` (abertura afirmativa variada — `Sim`, `Claro`, `Com certeza`, `Vale sim` — + perfil + motivo concreto verificado no dossiê/ficha/custo com cupom), enquanto perguntas de fato (`PH9` Prohall etc.) seguem respondendo estritamente pela evidência objetiva.
 - Cita a Anvisa no texto; ela é checagem interna da pauta.
 - Põe "é o que a marca escreve, não promessa deste texto" ou "segundo a Skelt" em todo capítulo; a atribuição vale uma vez por capítulo.
 - Diz "ninguém do site usou" fora do `editorialNote`, ou usa "testamos" sem teste.

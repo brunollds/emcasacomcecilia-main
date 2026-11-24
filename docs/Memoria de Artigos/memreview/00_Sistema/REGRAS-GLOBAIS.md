@@ -18,10 +18,13 @@
   - ❌ *"Nutren Just Protein: tudo o que você precisa saber"*
   - ❌ *"Dolce Gusto: o guia definitivo"*
   - ❌ *"Descubra o segredo do..."*
+  - **Exceção autorizada (`Anexo-E-Boa-Vale-a-Pena.md`):** nos guias panorâmicos da Trilha A (`<marca>-e-boa` / `<marca>-vale-a-pena`) que realmente cobrem origem, linhas, produtos-chave, preços e cupom, é autorizado usar `"<Marca> é boa? Tudo que você precisa saber antes de comprar"` ou `"<Marca> é boa? História, principais linhas, o que comprar e cupom"`.
+- **Proibido usar sufixos defensivos no H1:** nunca fechar H1 com *"pelo que a loja informa"*, *"o que dá para conferir antes de comprar"*, *"pelo rótulo, um a um"* ou *"o que a página mostra"*.
 - **Obrigatório usar títulos específicos e orientados à dor:**
   - ✅ *"Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional"*
   - ✅ *"Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"*
   - ✅ *"Como descalcificar a Dolce Gusto passo a passo e apagar a luz amarela"*
+  - ✅ *"Océane é boa? Tudo que você precisa saber antes de comprar"*
 - **Diferenciação entre `title` e `seoTitle`:**
   - `title`: H1 principal da página, humano, descritivo e claro.
   - `seoTitle`: Title tag da SERP (máx ~60 caracteres). Usado para recuar quando houver risco de canibalizar a página transacional `/cupons/<marca>`.
@@ -59,11 +62,11 @@
 ## 6. Resposta rápida e veredito (Bruno, 23/10/2026)
 A primeira seção do artigo (`Resposta rápida` em português; `Quick answer`, `Respuesta rápida`, `Réponse rapide` etc. nas traduções) é um resumo de verdade, não um mini-artigo.
 
-- **Um parágrafo só, de 2 ou 3 frases e 40 a 60 palavras,** respondendo direto à pergunta do título. No JSON: `paragraphs` com um item, sem `bullets`, `postParagraphs`, `comparisonTable`, `couponTiers`, `emphasis`, `image` ou `images`.
+- **Um parágrafo só, de 2 ou 3 frases e 40 a 60 palavras (até 65 em guias `"é boa / vale a pena"` com dossiê longo),** respondendo direto à pergunta do título. No JSON: `paragraphs` com um item, sem `bullets`, `postParagraphs`, `comparisonTable`, `couponTiers`, `emphasis`, `image` ou `images`.
 - **Só a decisão,** sem os detalhes que se repetem nos capítulos: nada de lista de produtos, tabela ou passo a passo. **Nenhum R$ na resposta rápida:** nem preço puro, nem preço com cupom, nem conta. Valor e conta ficam no capítulo de preço.
 - **A última frase aponta o que muda a decisão e onde está no texto.** Ex.: "o que pesa é o mínimo de 3 caixas; veja abaixo se compensa no seu consumo". Ela puxa a leitura sem esconder a resposta do Google.
 - No máximo um link, de preferência nenhum. Sem negrito.
-- Por tipo de artigo: no **comparativo** e no **guia de escolha**, o veredito em uma frase e o que pesa na escolha; no **é confiável / Reclame Aqui**, sim ou não, com o porquê em uma frase; no **cupom**, o código, o desconto (em porcentagem, sem valor em R$), onde ele vale e a condição principal (aqui o código é a própria resposta); na **Black Friday**, se a loja tem campanha, quando, e o que o cupom faz nela.
+- Por tipo de artigo: no **comparativo** e no **guia de escolha**, o veredito em uma frase e o que pesa na escolha (em comparações puras como `"X, Y ou Z: qual vale mais a pena?"`, responder qual opção vence por perfil, sem forçar `"Sim"`); no **`<Marca/Produto> é boa/bom / vale a pena`** de parceiro ativo (`Anexo-E-Boa-Vale-a-Pena.md`), a `Resposta rápida` abre de forma afirmativa variada (**`Sim`**, **`Claro`**, **`Com certeza`**, **`Vale, sim`**, **`É boa/bom, sim`**, **`Compensa, sim`**) seguida de para quem vale e de um motivo concreto verificado (catálogo, conta/cupom, perfil ou uso real, sem `R$` no PT — nunca afirmação oca); em **perguntas de fato** (`"é pura?"`, `"tem formol?"`, `"funciona?"`, `"é saudável?"`), responder estritamente conforme a evidência verificada; no **é confiável / Reclame Aqui**, sim ou não, com o porquê em uma frase; no **cupom**, o código, o desconto (em porcentagem, sem valor em R$), onde ele vale e a condição principal (aqui o código é a própria resposta); na **Black Friday**, se a loja tem campanha, quando, e o que o cupom faz nela.
 - **Nada existe só na resposta rápida.** Todo fato, link, tabela, imagem, aviso ou data dela também está num capítulo. Veredito que só aparece na resposta rápida é sinal de artigo mal estruturado.
 - **O veredito tem capítulo próprio.** Comparativos e guias de escolha trazem um capítulo de veredito ("Qual escolher", "Quem escolhe o quê", "Onde cada um ganha"), no mínimo como capítulo final, antes de "Perguntas frequentes", com o veredito por perfil e os números que o sustentam. Nos artigos de confiança, o capítulo final responde "dá para confiar?" com os números.
 - **O primeiro capítulo depois da resposta rápida abre o assunto:** se ele começa no meio (método, tabela solta), ganha uma ou duas frases de entrada.

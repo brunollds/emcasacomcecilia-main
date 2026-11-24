@@ -2,8 +2,8 @@
   "id": 936,
   "slug": "prohall-e-boa",
   "locale": "pt",
-  "title": "Prohall é boa? As linhas da marca, o que os clientes dizem e para quem vale a pena",
-  "seoTitle": "Prohall é boa? Linhas, avaliações e se vale a pena",
+  "title": "Prohall é boa? As linhas da marca, cuidados e para quem vale a pena",
+  "seoTitle": "Prohall é boa? Linhas, cuidados e se vale a pena",
   "type": "Guia de Marca",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "As linhas da Prohall por necessidade, o que cada página de produto declara, o que os clientes dizem e para quem a compra vale a pena, com o preço já com o cupom.",
-  "metaDescription": "CECILIAMC dá até 10% OFF na Prohall; nos testes, 7%. Veja as linhas da marca, o que cada produto declara, o que os clientes dizem e para quem vale.",
+  "description": "Saiba para quem a Prohall vale a pena, conheça as linhas de tratamento e os antifrizz térmicos, confira a regra de troca e veja quanto custa com o cupom CECILIAMC.",
+  "metaDescription": "Com CECILIAMC você ganha até 10% OFF na Prohall; nos testes, deu 7%. Veja se a marca é boa, as linhas capilares, cuidados e para quem vale.",
   "publishedAt": "12 de novembro de 2026",
   "publishedAtISO": "2026-11-12",
   "draft": false,
@@ -28,12 +28,14 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Você já usa a marca ou já sabe qual linha procura.",
-      "O carrinho passa do mínimo do frete grátis da sua região já com o cupom."
+      "Você já identificou a linha Prohall certa para a necessidade do seu cabelo, seja para rotina de lavagem e cronograma ou para tratamento antifrizz.",
+      "Você quer somar o cupom CECILIAMC às promoções do site oficial ou do aplicativo, em qualquer forma de pagamento, alcançando o frete grátis da sua região.",
+      "Para um produto profissional como Select One ou Burix One, você conta com um cabeleireiro para a aplicação ou segue o teste de mecha e o modo de uso do rótulo."
     ],
     "skipIf": [
-      "Você quer testar e devolver se não gostar: produto aberto não entra em troca.",
-      "Você quer um antifrizz térmico e não tem cabeleireiro para aplicar: Select One e Burix One são de uso profissional."
+      "Você quer comprar para experimentar em casa e devolver se não gostar, porque a troca exige lacre intacto e devolução do pedido completo.",
+      "Você procura um antifrizz térmico e não tem cabeleireiro para aplicar, já que Select One e Burix One trazem indicação de uso profissional.",
+      "Você pretende usar o cupom de cashback da loja no mesmo pedido, pois ele não se soma ao código CECILIAMC."
     ]
   },
   "cta": {
@@ -63,13 +65,20 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Prohall é uma marca brasileira de produtos para cabelo, com linhas de lavagem e tratamento e os antifrizz térmicos Select One e Burix One. Tem reputação Boa no Reclame Aqui e troca em 30 dias, só com o lacre intacto. Vale mais para quem já sabe que linha procura: produto aberto não volta."
+        "É boa, sim: para quem busca linhas de lavagem e tratamento capilar ou os antifrizz térmicos Select One e Burix One, a Prohall organiza o catálogo por necessidade e dá 30 dias de troca com lacre intacto. O cupom CECILIAMC aplica até 10% OFF no site e no app, em todas as formas de pagamento. Veja abaixo cada linha."
       ]
     },
     {
-      "heading": "O que a Prohall vende",
+      "heading": "Quem é a Prohall: origem da marca e onde ver a reputação",
       "paragraphs": [
-        "A loja organiza o catálogo por necessidade. As linhas mais buscadas, com o que a página de cada produto declara:"
+        "Fundada em 2017 em Lençóis Paulista (SP), a Prohall Professional é uma marca brasileira de produtos para cabelo que atua com loja oficial própria e aplicativo, reunindo linhas de uso diário, cronogramas capilares e produtos com indicação de uso profissional. No site, a marca também declara presença em mais de 32 países.",
+        "Para conferir CNPJ, prazos de entrega, regras completas de devolução e canais de atendimento, veja se a [Prohall é confiável](/reviews/prohall-e-confiavel); para consultar as notas por período e os motivos de reclamação, acesse o guia da [Prohall no Reclame Aqui](/reviews/prohall-reclame-aqui-nota-reputacao)."
+      ]
+    },
+    {
+      "heading": "As linhas e os destaques do catálogo",
+      "paragraphs": [
+        "A Prohall organiza o catálogo por necessidade capilar, separando linhas de lavagem e cuidado diário dos produtos antifrizz e de selagem com indicação de uso profissional:"
       ],
       "comparisonTable": {
         "caption": "O que a marca declara na página de cada produto no site oficial. A coluna da direita é a descrição do fabricante.",
@@ -92,7 +101,7 @@
           [
             "Selagem",
             "[Btx Blend Repair](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-300g)",
-            "Selagem das cutículas e redução de frizz e volume; age de 40 a 60 minutos e é enxaguado"
+            "Selagem das cutículas e redução de frizz e volume; produto de enxágue"
           ],
           [
             "Lavagem e cuidado diário",
@@ -125,11 +134,11 @@
       ]
     },
     {
-      "heading": "Select One, Burix One e Btx: o que dá para dizer",
+      "heading": "Select One, Burix One e Btx: o que observar antes da compra",
       "paragraphs": [
-        "São os produtos mais buscados da marca e os que mais pedem atenção ao modo de uso. Select One e Burix One são descritos pela Prohall como tratamentos antifrizz ativados por calor; o Btx Blend Repair, como selagem que age por 40 a 60 minutos e é enxaguada.",
-        "Os rótulos trazem a indicação de uso profissional. A política da loja diz que produtos de uso profissional devem ser usados conforme as instruções do fabricante, e o FAQ dela recomenda o teste de mecha antes de aplicar sobre outra química.",
-        "Para dúvida de composição ou de saúde, valem o rótulo e um profissional. A diferença entre o Select One e o Burix One, com o preço por ml, está em [Select One ou Burix One](/reviews/select-one-ou-burix-one)."
+        "Select One, Burix One e Btx Blend Repair são os produtos mais buscados da marca e os que mais pedem atenção ao modo de uso porque os rótulos trazem a indicação de uso profissional. Select One e Burix One são descritos pela Prohall como tratamentos antifrizz ativados por calor; o Btx Blend Repair, como selagem com enxágue.",
+        "A política da loja informa que produtos de uso profissional devem ser aplicados conforme as instruções do fabricante, e o FAQ da marca recomenda o teste de mecha antes de aplicar sobre outra química.",
+        "Para dúvida de composição ou de saúde capilar, valem o rótulo e a orientação de um profissional. A comparação entre o Select One e o Burix One, com o preço por ml, está em [Select One ou Burix One](/reviews/select-one-ou-burix-one)."
       ],
       "images": [
         {
@@ -144,31 +153,26 @@
     {
       "heading": "Os tratamentos de rotina",
       "paragraphs": [
-        "A Absolut One é a linha de lavagem: shampoo, condicionador e máscara, que a marca indica para hidratação, maciez e brilho. Os cronogramas reúnem três máscaras, uma para cada etapa: hidratação, nutrição e reconstrução.",
-        "A Force Hair reúne shampoo, máscara e tônico. A Prohall descreve o tônico como produto de uso diário no couro cabeludo, sem enxágue. Veja os itens e o modo de uso no [guia Force Hair](/reviews/force-hair-prohall-para-que-serve)."
+        "Para cuidados sem passo térmico profissional, a marca separa o catálogo entre limpeza diária, cronograma de máscaras e atenção ao couro cabeludo. A Absolut One é a linha de lavagem com shampoo, condicionador e máscara, que a loja indica para hidratação, maciez e brilho, enquanto os cronogramas reúnem três máscaras voltadas para hidratação, nutrição e reconstrução.",
+        "A Force Hair reúne shampoo, máscara e tônico, descrito pela Prohall como produto de uso diário no couro cabeludo, sem enxágue. Veja os itens e o modo de uso no [guia Force Hair](/reviews/force-hair-prohall-para-que-serve)."
       ]
     },
     {
-      "heading": "O que os clientes dizem da Prohall?",
+      "heading": "Quanto custa com o cupom CECILIAMC, cashback e frete",
       "paragraphs": [
-        "Na loja, o Select One de 300 ml aparece com nota 4,9 e 1.104 avaliações, e o finalizador 12 em 1 da Absolut One, com 4,9 e 635. São avaliações publicadas pela própria Prohall, no site dela.",
-        "No Reclame Aqui, o perfil da marca tem reputação Boa e nota 7,2 em seis meses, e Ótima, com 8,1, em doze, com todas as reclamações respondidas. A queixa mais citada é o atraso na entrega."
+        "Nos testes de novembro de 2026 no checkout oficial, o cupom CECILIAMC aplicou 7% de desconto (dentro da faixa de até 10% OFF informada pela parceria) tanto em preços cheios quanto sobre produtos em promoção.",
+        "Com o código aplicado nos carrinhos testados, o Kit Completo Absolut One foi de R$ 349,90 para R$ 325,41, um carrinho da linha Force Hair caiu de R$ 264,90 para R$ 246,36 e a combinação de kit Force Hair com Burix One e Select One de 300 ml passou de R$ 279,70 para R$ 260,13.",
+        "No checkout do site oficial ou no aplicativo, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”, conferindo a linha “Desconto no pedido” antes de pagar; o código vale em todas as formas de pagamento, mas não se soma ao cupom de cashback da loja. O frete grátis começa em R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste, com o mínimo contado depois do desconto. As regras completas estão na página do [cupom Prohall](/cupons/prohall)."
       ]
     },
     {
-      "heading": "Prohall vale a pena?",
+      "heading": "Qual linha da Prohall faz sentido para o seu cabelo",
       "paragraphs": [
-        "Depende de você já saber o que quer. A troca vale por 30 dias, mas só com o lacre intacto: quem compra para experimentar não consegue devolver depois de abrir.",
-        "No preço, o CECILIAMC dá até 10% OFF. Nos nossos testes de novembro de 2026, tirou 7%: o Kit Completo Absolut One foi de R$ 349,90 para R$ 325,41, um carrinho da linha Force Hair, de R$ 264,90 para R$ 246,36, e o kit Force Hair com Burix One e Select One de 300 ml, de R$ 279,70 para R$ 260,13, sobre preços já em promoção. No checkout do site oficial, digite CECILIAMC no campo “Código de desconto” e toque em “Aplicar”; o resumo do pedido mostra “Desconto no pedido” com o código. O cupom vale também no aplicativo.",
-        "O frete grátis começa em R$ 99 no Sudeste, R$ 149 no Sul, R$ 179 no Centro-Oeste e R$ 199 no Norte e no Nordeste, com o mínimo contado depois do cupom. As condições do código estão na página do [cupom Prohall](/cupons/prohall)."
+        "A Prohall vale a pena para quem procura linhas capilares organizadas por objetivo (como lavagem diária com Absolut One, cronograma capilar, cuidado do couro cabeludo com Force Hair ou os antifrizz térmicos Select One e Burix One) e já identificou qual produto atende à sua rotina.",
+        "Dois cuidados ajudam a comprar sem erro: a troca de 30 dias só vale com o lacre intacto e devolução do pedido inteiro, e Select One, Burix One e Btx têm indicação de uso profissional no rótulo. Quem compra um item novo pela primeira vez reduz risco começando pelo tamanho menor e fechando o pedido acima do mínimo regional de frete grátis já com o CECILIAMC aplicado."
       ],
-      "emphasis": "Eu levaria a Prohall para quem já usa a marca ou já sabe a linha que procura. Para experimentar um produto novo, eu começaria pelo tamanho menor, porque produto aberto não entra em troca.",
+      "emphasis": "Vale a pena comprar na Prohall quando você já escolheu a linha certa para o seu cabelo; para testar um produto novo, comece pelo tamanho menor e aplique o cupom CECILIAMC no checkout para garantir até 10% OFF.",
       "links": [
-        {
-          "label": "Ir para a Prohall com o CECILIAMC",
-          "href": "https://lojaprohall.com.br/",
-          "sponsored": true
-        },
         {
           "label": "Ver o cupom Prohall",
           "href": "/cupons/prohall"
@@ -178,13 +182,13 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento.",
-        "A Prohall é uma marca boa? É uma marca brasileira com reputação Boa no Reclame Aqui e milhares de avaliações publicadas na própria loja. O guia mostra o que cada linha declara e o que pesa na compra.",
-        "Prohall vale a pena? Vale mais para quem já sabe qual linha procura, porque produto aberto não entra em troca. O cupom CECILIAMC dá até 10% OFF.",
-        "A Prohall é profissional? Os rótulos trazem a indicação de uso profissional, e a loja pede que esses produtos sejam usados conforme as instruções do fabricante.",
-        "Onde comprar Prohall original? No site oficial, lojaprohall.com.br, e no app da marca. No FAQ, a loja afirma que o site é o oficial da marca."
+        "A Prohall é boa? É boa, sim, especialmente para quem busca linhas segmentadas para lavagem, cronograma capilar ou tratamentos antifrizz como Select One e Burix One, com venda direta no site oficial e troca de 30 dias com o lacre intacto. Aplicando o cupom CECILIAMC no checkout, a compra sai com até 10% OFF.",
+        "Qual é o cupom da Prohall? O cupom da Prohall da nossa parceria é CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. Veja os testes e as regras de cashback e frete na página do [cupom Prohall](/cupons/prohall).",
+        "Select One e Burix One são para uso em casa ou profissional? Os rótulos trazem a indicação de uso profissional, e a loja orienta seguir as instruções do fabricante e fazer o teste de mecha antes de aplicar sobre outra química.",
+        "A Prohall troca produto aberto? Não: a política de troca vale por 30 dias corridos apenas com a embalagem original, sem sinais de uso, com o lacre intacto e devolução do pedido inteiro.",
+        "Onde comprar Prohall original? No site oficial lojaprohall.com.br e no aplicativo oficial da marca, onde o cupom CECILIAMC também funciona."
       ]
     }
   ],
-  "updatedAt": "2026-11-23"
+  "updatedAt": "2026-11-24"
 }
