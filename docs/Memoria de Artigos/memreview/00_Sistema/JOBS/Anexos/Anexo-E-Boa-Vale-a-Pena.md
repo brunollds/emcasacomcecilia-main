@@ -12,6 +12,7 @@ Vale para todo artigo cujo H1 pergunta **`<Marca> é boa?`**, **`<Marca> vale a 
 1. **Por que indicamos:** o Em Casa com Cecília só mantém página de cupom/indicação e parceria ativa com marcas cuja legitimidade, loja oficial, catálogo e reputação (`Reclame Aqui` / `Trustpilot`) já aprovamos. Se uma marca não valer a pena ou perder confiança, encerramos a divulgação e cortamos a relação — nunca publicamos um artigo com cupom da marca tentando fingir imparcialidade fria ou dizendo *"não sabemos se funciona"*.
 2. **A regra da abertura (parceiro ativo):** a parceria explica *por que* indicamos a marca; o que *convence* o leitor precisa vir dos fatos. Por isso, na pergunta subjetiva **`"é boa?"`**, **`"é bom?"`**, **`"são bons?"`** ou **`"vale a pena?"`**, a `Resposta rápida` obedece à fórmula:
    - **`"Sim"` obrigatório na abertura, seguido imediatamente de *para quem* vale e de *um motivo concreto* (vindo do catálogo, da conta de preço/kit, do perfil de compra ou do uso real).**
+   - **Variar a afirmação (Bruno, 24/11/2026):** a abertura é sempre afirmativa, mas não precisa ser sempre a palavra `"Sim"`. Valem `"Sim"`, `"Claro"`, `"Com certeza"`, `"Vale, sim"`, `"É boa, sim"` e formas próximas, alternadas entre os artigos da mesma marca e do mesmo lote, para a série não sair toda com a mesma primeira palavra. Onde este anexo escreve `"Sim"`, leia "a afirmação". A variação troca só a palavra: o *para quem* e o *motivo concreto* continuam obrigatórios logo em seguida. Nenhuma variação enfraquece a resposta (*"Em geral, sim"*, *"Sim, mas depende"*), e a ênfase recai sobre a recomendação de compra, nunca sobre efeito (*"Com certeza funciona"* segue proibido).
    - **Proibido slogan vazio:** abrir com *"Sim, a X é boa e vale a pena"* sem dizer *para quem* nem *por quê* repete fórmula oca de concorrente e não ajuda o leitor a decidir.
    - **Proibido fugir da resposta:** nunca abrir com *"depende"*, *"na marca X a escolha sai da ficha"*, *"não avaliamos"*, *"ficam sem opinião"* ou *"não conseguimos confirmar se funciona"*.
 3. **Como sustentar o `"Sim"` sem inventar teste físico:**
@@ -58,7 +59,7 @@ Exemplo: `oceane-e-boa`, `simple-organic-e-boa`, `probiotica-e-boa`, `baw-clothi
   - **Proibido no H1:** sufixos defensivos como *"pelo que a loja informa"*, *"o que dá para conferir antes de comprar"*, *"pelo rótulo, um a um"*, *"o que a página mostra"*.
 - **Esqueleto padrão (7 a 10 capítulos):**
   1. **`Resposta rápida`** (`1` parágrafo, `40` a `65` palavras, **ZERO `"R$"`**, **ZERO `"reais"`** e zero datas):
-     - **1ª frase:** **`"Sim, a <Marca> vale a pena para quem..."`** (ou **`"Sim, a <Marca> é boa para quem..."`**) + o **perfil principal** e o **motivo concreto do catálogo/preço/uso real** que justifica a escolha (sem adiantar selos ou recortes parciais que só fazem sentido no capítulo próprio).
+     - **1ª frase:** **`"Sim, a <Marca> vale a pena para quem..."`** (ou **`"Sim, a <Marca> é boa para quem..."`**, ou uma das variações da afirmação da seção 1: `"Claro"`, `"Com certeza"`, `"Vale, sim"`) + o **perfil principal** e o **motivo concreto do catálogo/preço/uso real** que justifica a escolha (sem adiantar selos ou recortes parciais que só fazem sentido no capítulo próprio).
      - **2ª frase:** código do cupom (`%`) ou link de indicação ativo + a condição real do dossiê (ex.: *"no site e no app, em todas as formas de pagamento"*).
      - **3ª frase:** porta de entrada prática para quem quer começar a testar ou escolher (ex.: kits de miniaturas, linha principal, refil), apontando para os capítulos abaixo.
   2. **`Quem é a <Marca>: origem e onde ver a reputação`:**
@@ -69,7 +70,7 @@ Exemplo: `oceane-e-boa`, `simple-organic-e-boa`, `probiotica-e-boa`, `baw-clothi
   5. **`Quanto custa com o cupom <CÓDIGO>`:** faixas de preço com o código aplicado, quando kits compensam contra o avulso, frete grátis mínimo (se publicado) e passo a passo de onde aplicar o cupom (ou link de indicação).
   6. **`Por que vale a pena comprar na <Marca> e para quem indicamos` (Veredito):** retoma a recomendação positiva por perfis de compra estritamente dentro dos fatos do artigo, inclui **`emphasis` assinado** e link direto para `/cupons/<marca>`.
   7. **Quadro `decision` (`takeIf` / `skipIf`):** 2 a 3 frases objetivas sem `"R$"` e sem markdown. `skipIf` aponta **restrições reais de perfil ou catálogo** (ex.: falta de versão sem fragrância, grade curta, prazo de entrega para quem tem urgência, produto que exige checagem de selo na ficha) — **nunca** frases de autossabotagem como *"só o uso responde"* ou *"não testamos"*.
-  8. **`Perguntas frequentes` (4 a 6 bullets `"Pergunta? Resposta"`):** incluir sempre a pergunta literal do cupom + `"Os produtos da <Marca> são bons?"` / `"A <Marca> é boa?"` respondendo **`Sim...`** com perfil e motivo concreto em 1–2 frases.
+  8. **`Perguntas frequentes` (4 a 6 bullets `"Pergunta? Resposta"`):** incluir sempre a pergunta literal do cupom + `"Os produtos da <Marca> são bons?"` / `"A <Marca> é boa?"` respondendo **`Sim...`** (ou uma variação da afirmação, diferente da usada na `Resposta rápida` do mesmo artigo) com perfil e motivo concreto em 1–2 frases.
 
 ### Trilha B — Guia ou Review de Produto Específico (`<produto>-e-bom`, `<produto>-vale-a-pena`)
 Exemplo: `poltrona-damie-e-boa`, `dolce-gusto-neo-vale-a-pena`, `barra-bold-e-boa`, `whey-bold-e-bom`, `protetor-solar-biobio-e-bom`, `starlink-vale-a-pena`.
@@ -87,7 +88,7 @@ Exemplo: `poltrona-damie-e-boa`, `dolce-gusto-neo-vale-a-pena`, `barra-bold-e-bo
 ## 4. Famílias de 11 Idiomas (`hostinger-e-boa`, `shein-vale-a-pena`, `proton-vpn-vale-a-pena`, `hostinger-horizons-vale-a-pena`, `starlink-vale-a-pena`)
 
 - A estrutura e o número de frases de `decision`, blocos interativos (`metrics`/`checklist`/`simulator`), `section.links[].store` e legendas traduzidas seguem `scripts/test-review-i18n.ts`.
-- Nas traduções, a abertura e a conclusão devem **soar naturais no idioma local e refletir a oferta real daquele mercado**, abrindo com decisão clara + para quem + motivo concreto (`"Sim..." / "Yes..." / "Sí..." / "Oui..." / "Ja..." / "Sì..." / "はい..." / "네..." / "是的..." / "نعم..."`), mantendo as condições reais de cada mercado (ex.: medidas/impostos/prazo na SHEIN ou grátis vs Plus no Proton VPN).
+- Nas traduções, a abertura e a conclusão devem **soar naturais no idioma local e refletir a oferta real daquele mercado**, abrindo com decisão clara + para quem + motivo concreto (`"Sim..." / "Yes..." / "Sí..." / "Oui..." / "Ja..." / "Sì..." / "はい..." / "네..." / "是的..." / "نعم..."`), variando a afirmação com as formas naturais de cada idioma (`"Yes"`, `"Absolutely"`, `"Definitely"` e equivalentes), sem tradução literal do PT, e mantendo as condições reais de cada mercado (ex.: medidas/impostos/prazo na SHEIN ou grátis vs Plus no Proton VPN).
 - Para `starlink-vale-a-pena`, seguir o pacote específico já fechado em `PACOTE-EXECUCAO-STARLINK-CONFIAVEL-E-VALE-A-PENA-11-IDIOMAS.md`.
 
 ---
