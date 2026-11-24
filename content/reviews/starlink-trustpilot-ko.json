@@ -87,6 +87,36 @@
           ]
         ],
         "caption": "트러스트파일럿, starlink.com 프로필, 2026년 11월 23일 확인."
+      },
+      "metrics": {
+        "items": [
+          {
+            "label": "TrustScore",
+            "value": "1.6",
+            "unit": "/5",
+            "note": "미등록 프로필"
+          },
+          {
+            "label": "전체 리뷰",
+            "value": "879",
+            "note": "자연 발생만"
+          },
+          {
+            "label": "회사 답변",
+            "value": "0%",
+            "note": "부정적 464건 중 0건"
+          },
+          {
+            "label": "별 1개 vs 별 5개",
+            "value": "71%",
+            "unit": "vs 17%",
+            "note": "지원과 청구가 상위"
+          }
+        ],
+        "summary": {
+          "badge": "차이 읽기",
+          "text": "칭찬은 속도와 안정적인 신호에 모이고, 불만은 자동화된 고객 지원, 청구, 요금 변경에 몰립니다."
+        }
       }
     },
     {
@@ -136,15 +166,32 @@
       "heading": "가입하는 사람에게 의미하는 것",
       "paragraphs": [
         "결제하기 전에 starlink.com에서 내 주소 기준으로 플랜, 키트(대여 또는 구매), 세금, 계약 조건을 확인하세요. 나라마다, 심지어 주소마다 다릅니다. 주문한 날의 제안 화면을 캡처해 두고 청구서마다 비교하세요.",
+        "가장 간단한 대비책은 starlink.com에서 직접 주문하고, 가격, 키트, 계약 조건, 적용된 추천이 보이는 주문 요약 화면을 저장해 두는 것입니다. 그다음 첫 청구서를 그 캡처와 비교하세요. 추천은 추천 링크로 연 주문에서 결제하기 전에만 인정되며, 나중에 추가할 수 없습니다.",
         "대여 키트와 반납 규정은 [계약, 해지, 환불 가이드](/ko/reviews/starlink-cancel-ko)에 있습니다."
       ],
-      "image": {
-        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-        "alt": "목조 주택 지붕에 설치된 스타링크 안테나",
-        "caption": "주택에 설치된 스타링크 안테나. 스타링크 제공 사진.",
-        "objectFit": "contain",
-        "aspectRatio": 1.8079
-      }
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "alt": "서울 기준 스타링크 요금제 화면: 100Mbps 월 34,000원, 미니 키트 160,000원",
+          "caption": "서울, 100Mbps 요금제: 월 요금과 구매하는 미니 키트 가격, 한국에서 발급된 카드만 쓸 수 있다는 안내. 저장해 둘 만한 화면의 예. 2026년 11월 23일 확인.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8041
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "목조 주택 지붕에 설치된 스타링크 안테나",
+          "caption": "주택에 설치된 스타링크 안테나. 스타링크 제공 사진.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      ],
+      "links": [
+        {
+          "label": "starlink.com에서 공식 주문을 열고 내 지역 확인하기",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "문제를 제기하려면",
@@ -156,15 +203,32 @@
           "label": "트러스트파일럿의 starlink.com 프로필",
           "href": "https://www.trustpilot.com/review/starlink.com"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "스타링크 스탠다드 키트 구성품: 안테나, 라우터, 스탠드, 케이블",
+          "caption": "스타링크 스탠다드 키트: 안테나, 라우터, 스탠드, 케이블. 스타링크 제공 사진.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ]
     },
     {
       "heading": "가입 전에",
       "paragraphs": [
         "가입하기 전에 사이트와 약관을 확인하세요. 공식 사이트와 이름을 따라 쓴 프로필을 구별하는 방법은 [스타링크는 믿을 만한가요?](/ko/reviews/starlink-trust-ko)에 있습니다.",
+        "주문 화면을 연다고 해서 아무것도 확정되지 않습니다. 요금제, 가격, 제공 여부, 계약 조건은 주소를 입력한 뒤에야 나타납니다. 스타링크의 30일 정책은 그 기간 안에 해지하고 키트를 손상 없이 반품하면 환불된다고 주문 화면에 안내하고 있습니다. 약정이 있는 할인 키트라면 30일이 지난 뒤 비용이 드는지 확인하세요.",
         "[스타링크 추천](/ko/coupons/starlink) 페이지에 링크와 프로그램 규정이 있습니다. 추천은 쿠폰이 아닙니다. 보상은 두 달 구독 뒤 청구서 크레딧으로 들어오며, 우선순위, 엔터프라이즈, 상업용 플랜은 받지 못합니다."
       ],
-      "emphasis": "표의 수치로 보면, 주소지에 마땅한 인터넷 선택지가 없는 사람에게는 starlink.com에서 그 주소 기준으로 플랜, 키트, 세금, 계약을 확인한 뒤 가입하는 것이 합리적입니다. 1.6점에는 신호 품질보다 고객지원, 청구, 가격에 대한 불만이 더 많이 반영되어 있기 때문입니다."
+      "emphasis": "표의 수치로 보면, 주소지에 마땅한 인터넷 선택지가 없는 사람에게는 starlink.com에서 그 주소 기준으로 플랜, 키트, 세금, 계약을 확인한 뒤 가입하는 것이 합리적입니다. 1.6점에는 신호 품질보다 고객지원, 청구, 가격에 대한 불만이 더 많이 반영되어 있기 때문입니다.",
+      "links": [
+        {
+          "label": "starlink.com에서 내 주소의 제공 여부 확인하기",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "자주 묻는 질문",
@@ -203,8 +267,8 @@
     ]
   },
   "cta": {
-    "text": "스타링크 사이트에 주소를 입력해 결제 전에 플랜, 키트, 월 요금을 확인하세요.",
-    "label": "내 주소의 플랜 보기",
+    "text": "추천 링크로 주문을 열고, 내 주소의 플랜, 키트, 계약을 확인한 뒤 결제하기 전에 요약 화면을 저장하세요. 가격은 공식 사이트와 같습니다.",
+    "label": "starlink.com에서 내 주문 열기",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

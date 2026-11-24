@@ -3,8 +3,8 @@
   "slug": "starlink-referral-link-how-it-works",
   "translationKey": "starlink-indicacao",
   "locale": "en",
-  "title": "Starlink referral link: how to use it and when the $100 reward arrives",
-  "seoTitle": "Starlink referral link: how to use it and get paid",
+  "title": "How to get $100 (£40 in the UK) when buying your first Starlink with a referral link",
+  "seoTitle": "How to get $100 on your first Starlink (referral)",
   "type": "Referral Code Guide",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Open the link on the official site and check the reward on your order before you pay. See who qualifies, when the money arrives and how to choose between credit and cash.",
-  "metaDescription": "See how to open the Starlink referral link, find the reward on your order and collect it after you meet the program's conditions.",
+  "description": "Starlink has no coupon code: order your first dish through our referral link, pay the exact site price and get $100 in the US or £40 in the UK after two months.",
+  "metaDescription": "See how to get $100 in the US (£40 in the UK) on your first Starlink order, how the link applies at checkout and how much it covers on monthly bills.",
   "publishedAt": "November 20, 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,8 +31,138 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Open the Starlink referral link and enter your address. Before you pay, look for the confirmation that the code was applied and check the reward amount on the order. The program is for new customers, and the reward is released after two full monthly cycles, as service credit or as cash where that option is offered."
+        "Starlink has no promo codes: beyond the offers on its site, the referral link is the official way to get a reward on your first subscription, $100 in the US or £40 in the UK. You pay the same price shown on starlink.com and keep the 30-day return window. In the US, $100 covers about two and a half months of the 100 Mbps plan ($38.50/mo on our reading); in the UK, £40 is one full month (£40/mo). Open the link before you order, look for the “Referral Code Applied” notice before you pay, activate the kit and stay active and paid up for two full monthly cycles. The referral cannot be added after the purchase, and it only counts on orders placed on starlink.com, not on marketplaces."
       ]
+    },
+    {
+      "heading": "Why ordering through the link pays off",
+      "paragraphs": [
+        "If you open starlink.com on your own, the equipment and the monthly price are the same as through the link. The difference is the $100 (or £40) you would leave on the table. The credit does not lower the price of the kit on the day: it lands on your invoice after two full paid monthly cycles.",
+        "The numbers below come from reference addresses. At your address, the price, the kit and the terms can be different, and only the order screen shows them."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+        "alt": "Starlink order page for Nevada, USA, with the Residential 100 Mbps tab selected: $38.50 a month, Starlink V5 with a Router Mini, $0 upfront hardware and the note about returning the rented hardware",
+        "caption": "Nevada, USA: the Residential 100 Mbps tab of the order, consulted on November 23, 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.7159
+      },
+      "comparisonTable": {
+        "caption": "Read on starlink.com on November 23, 2026, without completing a purchase. The US prices include the 30% promotion; Starlink says the monthly price has no fixed duration and may change with 30 days’ notice. The credit is not a discount at payment: it arrives after two full cycles.",
+        "headers": [
+          "Scenario read on starlink.com",
+          "Without a referral link",
+          "With Cecília’s link",
+          "What the credit covers"
+        ],
+        "rows": [
+          [
+            "US, Residential 100 Mbps (Nevada)",
+            "$38.50/mo (standard $55/mo), $0 rental kit, $20 + taxes today",
+            "Same order + $100 credit after 2 paid cycles",
+            "About 2.6 months of the 100 Mbps plan"
+          ],
+          [
+            "US, Residential 200 Mbps (Nevada)",
+            "$59.50/mo (standard $85/mo), $0 rental kit, $0 professional install",
+            "Same order + $100 credit",
+            "About 1.7 months of the 200 Mbps plan"
+          ],
+          [
+            "US, Residential Max (Nevada)",
+            "$91/mo (standard $130/mo), $0 Standard 4 X rental",
+            "Same order + $100 credit",
+            "A bit more than one month of Max"
+          ],
+          [
+            "UK, Residential 100 Mbps (London)",
+            "£40/mo, £0 Mini rental, £19 today",
+            "Same order + £40 credit after 2 paid cycles",
+            "One full month of the 100 Mbps plan"
+          ],
+          [
+            "UK, Residential 200 Mbps and Max (London)",
+            "£60/mo and £80/mo, £0 rental",
+            "Same order + £40 credit",
+            "About two thirds and half a month"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Open my order with the $100 / £40 referral",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "simulator": {
+        "title": "Run your own scenario",
+        "scenarios": [
+          {
+            "label": "US 100 Mbps + link",
+            "lines": [
+              {
+                "label": "Rental kit (Starlink V5 + Router Mini)",
+                "value": "$0, returned if you cancel"
+              },
+              {
+                "label": "Monthly price (30% off)",
+                "value": "$38.50/mo"
+              },
+              {
+                "label": "Referral credit after 2 paid cycles",
+                "value": "-$100 on your invoice",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Credit compared with the monthly price",
+            "totalValue": "About 2.6 months covered",
+            "note": "You pay the same as on the regular site and keep the 30-day return window."
+          },
+          {
+            "label": "UK 100 Mbps + link",
+            "lines": [
+              {
+                "label": "Mini rental + Router Mini",
+                "value": "£0, returned if you cancel"
+              },
+              {
+                "label": "Monthly price",
+                "value": "£40/mo"
+              },
+              {
+                "label": "Referral credit after 2 paid cycles",
+                "value": "-£40 on your invoice",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Credit compared with the monthly price",
+            "totalValue": "One full month covered",
+            "note": "£19 is due today; the credit arrives later, not at checkout."
+          },
+          {
+            "label": "Order without the referral link",
+            "lines": [
+              {
+                "label": "Price of the kit and the plan",
+                "value": "Same as through the link"
+              },
+              {
+                "label": "Referral credit",
+                "value": "$0, cannot be added later"
+              },
+              {
+                "label": "Reward left on the table",
+                "value": "$100 in the US, £40 in the UK",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Referral reward received",
+            "totalValue": "$0",
+            "note": "The referral has to be on the original order, before you pay."
+          }
+        ]
+      }
     },
     {
       "heading": "How to use the link, step by step",
@@ -42,29 +172,67 @@
       "postParagraphs": [
         "Check the notice before you pay. Starlink says the referral has to be on the original order."
       ],
+      "bullets": [
+        "Pick an eligible Residential or Roam plan on the order.",
+        "Look for the “Referral Code Applied” notice and check the reward and the total due.",
+        "Finish the order on starlink.com.",
+        "Activate the kit and watch your first invoice. Paying the first month and activating the equipment are part of the referral requirements."
+      ],
       "image": {
         "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
         "alt": "Order screen on the official Starlink site with the message Referral Code Applied, saying that by signing up with this code you and your friend get $100 each, as cash or service credit",
         "caption": "Order on the official site with the referral link applied (Nevada).",
         "objectFit": "contain",
         "aspectRatio": 0.8747
-      },
-      "bullets": [
-        "Pick an eligible Residential or Roam plan on the order.",
-        "Look for the “Referral Code Applied” notice and check the reward and the total due.",
-        "Finish the order on starlink.com.",
-        "Activate the kit and watch your first invoice. Paying the first month and activating the equipment are part of the referral requirements."
-      ]
+      }
+    },
+    {
+      "heading": "Checklist before you pay",
+      "paragraphs": [
+        "Tick each item on screen before you pay. It takes two minutes and decides whether the credit is on your order."
+      ],
+      "checklist": {
+        "title": "Before you place the order",
+        "items": [
+          "I opened the order through Cecília’s referral link in this same window, so I do not lose the credit.",
+          "I checked that the address bar still shows starlink.com before typing any detail.",
+          "I ran the obstruction check in the Starlink app where the dish will go, to confirm an open sky.",
+          "I saw the referral-applied notice on the order summary, the kit price and whether there is a 12-month term.",
+          "I saved a screenshot of the summary with the monthly price and the 30-day rule before paying."
+        ]
+      }
     },
     {
       "heading": "How much it pays and when",
       "paragraphs": [
         "On the order we saw in Nevada with our link, Starlink showed $100 for the person who signs up. The person who refers also gets the same amount, in cash or as service credit.",
         "The subscription has to stay active and paid up for two full monthly cycles. The help center says issuance can start from 60 days after activation, depending on the country, the account and the identity check.",
-        "The default is credit on your invoice. If your account offers cash, open Referrals on the website in a browser and choose the reward method there."
+        "The default is credit on your invoice. If your account offers cash, open Referrals on the website in a browser and choose the reward method there. The credit lands on your invoice; it does not lower the price of the kit on the order."
       ],
       "emphasis": "The reward is released only after two full monthly cycles of an active, paid subscription, as credit on the bill by default, and the person who signs up and the person who referred get the same amount; the amount for your country shows on the order.",
       "emphasisAfterParagraph": 3
+    },
+    {
+      "heading": "Does opening the link commit you to anything? The 30-day test",
+      "paragraphs": [
+        "Opening the link commits you to nothing. The plan price, the kit, availability and whether a contract applies only show after you type an address on starlink.com.",
+        "After you pay, Starlink gives you 30 days to return the kit, according to the terms on its page. If the dish does not work on your roof, you can cancel and send the hardware back within that window. On the US order, Starlink also notes that if you cancel service at any time, you have to return the rented hardware.",
+        "That is why the link comes before the test: the referral only counts on the original order. Someone who tries Starlink without it pays the same on day one and loses the $100 (or £40) if they decide to keep the dish."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+        "alt": "Starlink dish mounted on the roof of a wooden house",
+        "caption": "Residential dish installed. Photo from Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.8079
+      },
+      "links": [
+        {
+          "label": "Lock in the reward before you order",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Who can use it",
@@ -82,15 +250,36 @@
       ]
     },
     {
-      "heading": "What about the Black Friday offer?",
+      "heading": "Four mistakes that cost you the credit even after you click",
       "paragraphs": [
-        "The Black Friday discount on service plans and the referral reward are two separate lines to check on the order. See the [Starlink Black Friday math](/en/reviews/starlink-black-friday-deal) and look at the offer for your own address."
+        "Most lost credits come from one of these four slips."
+      ],
+      "bullets": [
+        "Buying the kit from a retailer or marketplace. The program counts only orders placed on starlink.com through the link.",
+        "Paying without checking the notice. The referral has to be on the original order and cannot be added afterwards: if the “Referral Code Applied” notice is missing, reopen the link before you pay. If you switch device or browser in the middle of the order, open the link again and check the notice again.",
+        "Using the link as a current or former customer. The credit is only for people who subscribe to Starlink for the first time.",
+        "Cancelling too early. The credit needs an active, paid-up subscription for two full monthly cycles, and issuance can start from 60 days after activation."
       ]
     },
     {
-      "heading": "How to track a referral",
+      "heading": "What about the Black Friday offer?",
       "paragraphs": [
-        "In the Referrals tab of the website or the app, you can follow the status of everyone who signed up through your link. Starlink sends an email when someone places an order. A referral may go through an eligibility check before it produces a reward."
+        "The Black Friday discount on service plans and the referral reward are two separate lines to check on the order. See the [Starlink Black Friday math](/en/reviews/starlink-black-friday-deal) and look at the offer for your own address.",
+        "On the Nevada order summary for the 100 Mbps plan, Starlink showed $55 minus $16.50 (30%), the rental kit at $349 minus $349 and $20 plus taxes due today. Its FAQ says the monthly price has no fixed duration and that Starlink may update pricing with 30 days’ notice. If the contract is what worries you, read the [Starlink contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund) and [is Starlink worth it](/en/reviews/is-starlink-worth-it)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+        "alt": "Starlink order summary for Nevada, USA, 100 Mbps: $55 minus $16.50, rental kit $349 minus $349, $20 plus taxes due today and the FAQ about no fixed duration",
+        "caption": "Nevada: order summary of the Residential 100 Mbps plan, consulted on November 23, 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.3732
+      }
+    },
+    {
+      "heading": "How to track a referral and use your own link",
+      "paragraphs": [
+        "In the Referrals tab of the website or the app, you can follow the status of everyone who signed up through your link. Starlink sends an email when someone places an order. A referral may go through an eligibility check before it produces a reward.",
+        "Once you are an active customer on an eligible Residential or Roam plan, you can refer Starlink too, and the person who refers gets the same amount as the new customer. The amount for your country shows on the order of the person who signs up."
       ]
     },
     {
@@ -102,13 +291,14 @@
         "When does the Starlink referral reward arrive? The help center says issuance can start from 60 days after activation, if the referral meets the program conditions.",
         "Does the referral work on a retailer or marketplace order? The program requires the purchase to be made directly on starlink.com through the link.",
         "I used Starlink before. Can I use the link? The reward is for people who subscribe to Starlink for the first time.",
-        "Does the referral work in other countries? The help center says it works in most countries where Starlink sells, and the amount depends on the country where you sign up. In the US, our link showed $100."
+        "Does the referral work in other countries? The help center says it works in most countries where Starlink sells, and the amount depends on the country where you sign up. In the US, our link showed $100.",
+        "Can I add the referral after I paid? No. Starlink requires the referral to be on the original order, placed on starlink.com through a referral link, before payment."
       ]
     }
   ],
   "cta": {
-    "text": "Check the reward your order shows for your address before you pay.",
-    "label": "See the referral on the order",
+    "text": "You pay exactly the same price as on the official site, keep the 30 days to return the kit if it does not work on your roof, and lock in $100 in the US (£40 in the UK) after two monthly cycles.",
+    "label": "Claim $100 / £40 on your Starlink order",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

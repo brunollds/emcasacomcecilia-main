@@ -3,8 +3,8 @@
   "slug": "starlink-contract-cancel-refund",
   "translationKey": "starlink-fidelidade",
   "locale": "en",
-  "title": "Does Starlink have a contract? The rental kit, how to cancel and the 30-day refund",
-  "seoTitle": "Does Starlink have a contract? Cancel and refund",
+  "title": "Does Starlink have a contract? A $0 rental kit, no fixed term in the US and UK, and the 30-day refund",
+  "seoTitle": "Does Starlink have a contract? Rental, cancel, refund",
   "type": "Practical Guide",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "See how the Starlink kit is offered as a rental, what you must return when you cancel, how to cancel from your account and how the 30-day refund works.",
-  "metaDescription": "Starlink offers the kit as a rental you return if you cancel. See the 30-day refund, how to cancel in your account and what changes afterward.",
+  "description": "In Nevada and London the Starlink kit is a $0 rental with no contract, and you return it if you cancel. See the three plans, the 30-day refund and how to cancel.",
+  "metaDescription": "Starlink in the US and UK: no contract, a $0 rental kit you return if you cancel, a 30-day refund and the steps to cancel from your account.",
   "publishedAt": "November 20, 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,22 +31,116 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "On the order page we read for Reno, Nevada, the Starlink kit was a rental with $0 upfront and $0 a month, and the page says you have to return it if you cancel the service. The offer describes a refund of the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date, as stated on that order."
+        "On the order pages we read for Nevada and London, Starlink had no contract: the kit is a rental at $0 upfront and $0 a month (£0 in the UK), and you return it if you cancel. The monthly prices shown are promotional and have no fixed duration, and Starlink may update pricing with 30 days' notice. If you cancel and return the kit undamaged within 30 days of the payment due date, the offer refunds the kit and the first month. It is not the same everywhere: in Brazil and Mexico, a subsidised kit can come with a 12-month term."
       ]
     },
     {
-      "heading": "Rental kit, not a purchase",
+      "heading": "United States: three plans, one rental model",
       "paragraphs": [
-        "On the order page we read on November 20, 2026, the hardware was listed as a rental, with $0 upfront and $0 a month. The page states that if you cancel the service, you will have to return your Starlink hardware rental.",
-        "We did not see an early cancellation fee on the page we read. Check the summary of your own order before you pay, since the terms can change with the plan and the address."
+        "On the Nevada order page we read on November 23, 2026, Residential 100 Mbps was $38.50 a month: the regular $55 a month minus a $16.50 promotional adjustment of 30%. It comes with a Starlink V5 and a Router Mini as a rental. The $349 rental kit is credited back at checkout, so the hardware is $0 upfront and $0 a month. Professional installation is optional at $99.",
+        "Residential 200 Mbps was $59.50 a month (regular $85, minus $25.50), with a Starlink V4 and a Router 4 as a rental and free professional installation. Max was $91 a month (regular $130, minus $39), with a Standard 4 X and an extra Router Mini as a rental, also with free installation. On all three, $20 plus taxes was due today for shipping.",
+        "The page is explicit about the exit: if you cancel service, you will have to return your Starlink hardware rental. We did not see an early cancellation fee, and the FAQ on the order summary says the stated monthly price does not have a fixed duration and that Starlink may update pricing with 30 days' notice."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "alt": "Starlink order page for Nevada, USA, on the 100 Mbps tab: $38.50 a month, a Starlink V5 with a Router Mini and the note about returning the hardware rental",
+          "caption": "Nevada, USA, checked November 23, 2026: Residential 100 Mbps at $38.50 a month and a hardware rental at $0 upfront and $0 a month.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7159
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+          "alt": "Starlink order summary in the US for 100 Mbps with $55 minus $16.50, a $349 rental kit credited back and $20 plus taxes due today",
+          "caption": "Order summary for 100 Mbps in the US, checked November 23, 2026: $55 a month minus $16.50, Rental Kit $349 credited back, $20 plus taxes today.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.3732
+        }
       ]
+    },
+    {
+      "heading": "United Kingdom: no contracts, same rental idea",
+      "paragraphs": [
+        "For an address in Westminster, London, the page said \"No contracts\". Residential 100 Mbps was £40 a month with a Mini Rental and a Router Mini at £0, 200 Mbps was £60 and Max was £80, both with a Standard 4 at £0. We saw no promotional discount in the UK order summary. Shipping was £19, and professional installation is optional at £74 on 100 and 200 Mbps and free on Max. As in the US, you return the rented hardware if you cancel."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-uk-order-summary-100mbps.webp",
+        "alt": "Starlink order summary in the UK for 100 Mbps at £40 a month with the Mini Rental and Router Mini at £0 and £19 due today",
+        "caption": "London, UK, checked 23 November 2026: £40 a month, Mini Rental £0, Router Mini £0 and £19 due today.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.6543
+      },
+      "links": [
+        {
+          "label": "Check the plans and the contract at my address",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "The two markets side by side",
+      "paragraphs": [
+        "The table puts together what each page showed. It is a snapshot of one address in each country, not a rule for the whole country."
+      ],
+      "comparisonTable": {
+        "caption": "Values as shown on each order page. The 30% promotion in the US ran through the end of November.",
+        "headers": [
+          "What the page showed",
+          "United States (Nevada)",
+          "United Kingdom (London)"
+        ],
+        "rows": [
+          [
+            "Contract",
+            "No fixed term; the kit is a rental you return if you cancel",
+            "\"No contracts\"; the kit is a rental you return if you cancel"
+          ],
+          [
+            "100 Mbps per month",
+            "$38.50 ($55 regular)",
+            "£40"
+          ],
+          [
+            "200 Mbps per month",
+            "$59.50 ($85 regular)",
+            "£60"
+          ],
+          [
+            "Max per month",
+            "$91 ($130 regular)",
+            "£80"
+          ],
+          [
+            "Kit",
+            "$0 upfront and $0 a month",
+            "£0 upfront and £0 a month"
+          ],
+          [
+            "Shipping today",
+            "$20 plus taxes",
+            "£19"
+          ],
+          [
+            "Professional installation",
+            "$99 optional on 100 Mbps, free on 200 Mbps and Max",
+            "£74 optional on 100 and 200 Mbps, free on Max"
+          ],
+          [
+            "Referral credit after two months of service",
+            "$100",
+            "£40"
+          ]
+        ]
+      }
     },
     {
       "heading": "The 30 days to return it",
       "paragraphs": [
         "To ask for the refund of the kit and the first month under the offer, cancel the service and return the equipment undamaged within 30 days of the payment due date shown on that order.",
         "Cancelling the subscription stops future charges according to the billing cycle. Through Starlink support, check how to open the kit return too, and keep the shipping receipt.",
-        "The [Starlink referral](/en/coupons/starlink) link opens the same order on the official site. Check the rental and return terms on your own order summary before you pay."
+        "The [Starlink referral](/en/coupons/starlink) link opens the same order on the official site. Check the rental and return terms on your own order summary before you pay.",
+        "A rental is not universal. In some countries, such as Brazil and Mexico, the kit is bought, and a subsidised kit can come with a 12-month term and an early termination fee after the 30 days. That is why the order summary for your own address is the one that counts."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
@@ -55,7 +149,14 @@
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
-      "emphasis": "By the terms on the order page, cancelling and returning the kit undamaged within 30 days of the payment due date is what triggers the refund of the kit and the first month, so the shipping receipt is the proof that decides it."
+      "emphasis": "By the terms on the order page, cancelling and returning the kit undamaged within 30 days of the payment due date is what triggers the refund of the kit and the first month, so the shipping receipt is the proof that decides it.",
+      "links": [
+        {
+          "label": "See plans with the 30-day refund on starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "How to cancel",
@@ -77,6 +178,28 @@
       ]
     },
     {
+      "heading": "Promotional price and plan changes",
+      "paragraphs": [
+        "The prices on the order pages were 30% off the regular monthly price in the places we checked, offered through the end of November. The page says the stated monthly price does not have a fixed duration and that Starlink may update pricing with 30 days' notice. Cancelling or changing plan can also end a promotional price, so read the terms on your order before you change anything."
+      ]
+    },
+    {
+      "heading": "Before you pay: check your order",
+      "paragraphs": [
+        "The referral only counts if the order starts from a referral link, opened before you pay and on starlink.com. After the payment, or on a marketplace, it cannot be added. Opening the link commits you to nothing: your address shows which model applies to you, and the 30 days cover the test. The referral credit is $100 in the US and £40 in the UK, lands on your bill after two months of service and does not lower the price of the kit."
+      ],
+      "checklist": {
+        "title": "Before you pay",
+        "items": [
+          "I opened the order from the referral link, in the same window, before paying.",
+          "I checked that the browser bar still shows starlink.com before typing any data.",
+          "I ran the obstruction check in the Starlink app at the spot where the dish will go.",
+          "I read the order summary for the hardware line, the monthly price and any mention of a contract term.",
+          "I saved a screenshot of the summary with the monthly price and the 30-day rule before paying."
+        ]
+      }
+    },
+    {
       "heading": "If the charges continue",
       "paragraphs": [
         "If you are still charged, open a ticket with Starlink and include the order number, the cancellation date and the case number, if you have one. If you do not recognize a transaction, contact your card issuer or bank as well.",
@@ -87,10 +210,11 @@
       "heading": "Frequently asked questions",
       "bullets": [
         "Does Starlink have a discount code? No. Starlink has no coupon: through Cecília's referral link, a new subscriber gets $100 in the US and £40 in the UK after two months of service, as a credit on the bill, and the person who referred gets the same amount.",
-        "Does Starlink have a contract? On the order page we read, the kit was a rental with $0 upfront and $0 a month. Confirm the terms on the summary of your own order.",
-        "What is the fee to cancel Starlink? We did not see an early cancellation fee on the page we read. Check the summary of your order before you confirm the cancellation.",
+        "Does Starlink have a contract? On the pages we read in Nevada and London, no: the kit was a rental at $0 upfront and $0 a month, and the UK page said \"No contracts\". In Brazil and Mexico, a subsidised kit can carry a 12-month term. Confirm the terms on the summary of your own order.",
+        "What is the fee to cancel Starlink? We did not see an early cancellation fee on the US and UK pages. You do have to return the rented hardware if you cancel. Check the summary of your order before you confirm.",
         "Can I cancel Starlink at any time? You can request it from your account. Cancelling stops future charges, and you have to return the rented hardware.",
-        "Do I have to send the Starlink kit back? The page says that if you cancel the service, you will have to return your Starlink hardware rental.",
+        "Do I have to send the Starlink kit back? Yes. The page says that if you cancel service, you will have to return your Starlink hardware rental.",
+        "Is the monthly price fixed? No. The FAQ on the order summary says the stated monthly price does not have a fixed duration and that Starlink may update pricing with 30 days' notice.",
         "Can I return Starlink within 30 days? The offer describes a refund of the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date, as stated on that order."
       ]
     }
@@ -112,7 +236,7 @@
   ],
   "decision": {
     "takeIf": [
-      "you can return the rented kit undamaged within 30 days if you cancel.",
+      "you can return the rented kit undamaged within 30 days if you cancel, and you want no fixed term.",
       "you will read the terms on your own order summary before paying."
     ],
     "skipIf": [
@@ -121,8 +245,8 @@
     ]
   },
   "cta": {
-    "text": "The order opens on the Starlink site. Check the contract, the fees and the kit return before you pay.",
-    "label": "Check the terms at my address",
+    "text": "The order opens on starlink.com through the referral link, which has to come before you pay. You pay the same price as on the site, see the contract for your own address and keep the 30 days to send the kit back. The referral credit is $100 in the US and £40 in the UK, after two months of service.",
+    "label": "Check the contract and plan at my address",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

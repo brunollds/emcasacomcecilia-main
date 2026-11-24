@@ -3,8 +3,8 @@
   "slug": "starlink-black-friday-offre",
   "translationKey": "starlink-black-friday",
   "locale": "fr",
-  "title": "Black Friday Starlink 2026 : 30 % sur les forfaits, kit loué à 0 € et la récompense du parrainage",
-  "seoTitle": "Black Friday Starlink 2026 : 30 % et kit loué à 0 €",
+  "title": "Black Friday Starlink 2026 : 100 Mbit/s à 24,50 €, kit loué à 0 € et la récompense du parrainage",
+  "seoTitle": "Black Friday Starlink 2026 : 24,50 € par mois, kit loué à 0 €",
   "type": "Guide Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Sur la commande officielle, 24,50 € par mois pour le 100 Mbit/s et un kit loué à 0 €. Voyez comment le parrainage entre dans le calcul et comment vérifier votre adresse.",
-  "metaDescription": "Starlink Black Friday : 30 % sur les forfaits et kit loué à 0 €, en zones sélectionnées. Voyez le calcul avec le parrainage et vérifiez votre adresse.",
+  "description": "À Paris, la commande Starlink affichait le 100 Mbit/s à 24,50 € par mois et le kit loué à 0 €. Voyez le calcul de la première commande et comment entre le parrainage.",
+  "metaDescription": "Starlink Black Friday : 30 % sur les forfaits et kit loué à 0 €. Voyez les prix de Paris, le retour du kit et comment le parrainage entre dans le calcul.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,119 +31,239 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "L'offre de fin novembre donne 30 % de réduction sur les forfaits Starlink, avec un kit loué à 0 €, dans certaines zones. Le calcul à faire est celui de la première commande, puis de la récompense du parrainage qui arrive après deux mois. Le kit et les premiers mois ne deviennent presque gratuits que si le montant affiché sur votre commande couvre les premières mensualités."
+        "La commande Starlink lue à Paris affichait 30 % de réduction sur les forfaits jusqu'au 30 novembre : 24,50 € par mois pour le 100 Mbit/s, 31,50 € pour le 200 Mbit/s et 45,50 € pour le Max, avec un kit loué à 0 € et 19 € à payer le jour même. Le matériel se renvoie si vous annulez, avec 30 jours d'essai. La récompense du parrainage ne compte que si vous ouvrez la commande depuis un lien de parrainage avant de payer."
       ]
     },
     {
-      "heading": "Ce que vous payez le jour de la commande",
+      "heading": "Les trois forfaits à Paris, avec et sans réduction",
       "paragraphs": [
-        "Sur la page de commande officielle, lue le 20 novembre 2026 pour une adresse à Paris, le total à payer ce jour-là était de 19 €. Le kit est loué : 0 € au départ et 0 € par mois, à renvoyer en cas d'annulation. Les mensualités viennent ensuite.",
-        "L'installation professionnelle est optionnelle sur le 100 et le 200 Mbit/s, à 172 €, et gratuite sur le Max."
+        "Nous avons lu la commande officielle pour une adresse de l'Hôtel-de-Ville, à Paris, le 23 novembre 2026, sans finaliser d'achat. Le Résidentiel 100 Mbit/s coûtait 24,50 € par mois (35 € hors réduction), le 200 Mbit/s 31,50 € (45 €) et le Max 45,50 € (65 €), tous avec le kit loué : 0 € au départ et 0 € par mois. Les 19 € à payer le jour même correspondent à la livraison.",
+        "L'installation professionnelle est optionnelle à 172 € sur le 100 et le 200 Mbit/s, et gratuite sur le Max. La récompense du parrainage apparaît sur la commande ouverte depuis le lien, se verse en crédit sur la facture après deux cycles mensuels complets et ne réduit pas le prix du kit."
       ],
       "comparisonTable": {
         "headers": [
-          "Forfait",
-          "Par mois",
-          "Kit",
-          "Installation professionnelle"
+          "Commande à Paris",
+          "Par mois avec 30 %",
+          "Par mois hors réduction"
         ],
         "rows": [
           [
-            "Résidentiel 100 Mbit/s",
-            "24,50 €",
-            "Loué, 0 €",
-            "172 €, optionnelle"
+            "Résidentiel 100 Mbit/s",
+            "24,50 €",
+            "35 €"
           ],
           [
-            "Résidentiel 200 Mbit/s",
-            "31,50 €",
-            "Loué, 0 €",
-            "172 €, optionnelle"
+            "Résidentiel 200 Mbit/s",
+            "31,50 €",
+            "45 €"
           ],
           [
-            "Résidentiel Max",
-            "45,50 €",
-            "Loué, 0 €",
-            "Gratuite"
+            "Max",
+            "45,50 €",
+            "65 €"
+          ],
+          [
+            "Kit loué, au départ et par mois",
+            "0 € et 0 €",
+            "0 € et 0 €"
+          ],
+          [
+            "Total à payer le jour même (livraison)",
+            "19 €",
+            "19 €"
           ]
         ],
-        "caption": "Prix de la commande officielle avec l'offre de 30 %, sans lien de parrainage. Le prix peut changer selon l'adresse."
+        "caption": "Prix de la commande sur starlink.com pour Paris, lus le 23 novembre 2026. Les 30 % valent jusqu'au 30 novembre."
       },
-      "emphasis": "D'après les chiffres du tableau, la commande à Paris demande 19 € le jour même, puis entre 24,50 € et 45,50 € par mois selon le forfait, et la récompense du parrainage n'arrive qu'après deux cycles mensuels complets.",
+      "simulator": {
+        "title": "Simulateur rapide : Paris",
+        "scenarios": [
+          {
+            "label": "100 Mbit/s avec le lien",
+            "lines": [
+              {
+                "label": "Forfait avec 30 %",
+                "value": "24,50 € par mois"
+              },
+              {
+                "label": "Kit loué",
+                "value": "0 € au départ, 0 € par mois"
+              },
+              {
+                "label": "Récompense du parrainage après deux cycles payés",
+                "value": "Crédit sur la facture (le montant s'affiche sur votre commande)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "À payer le jour même (livraison)",
+            "totalValue": "19 €",
+            "note": "Vous payez les premières factures vous-même. La récompense arrive après deux cycles mensuels complets."
+          },
+          {
+            "label": "Max avec le lien",
+            "lines": [
+              {
+                "label": "Forfait avec 30 %",
+                "value": "45,50 € par mois"
+              },
+              {
+                "label": "Kit loué",
+                "value": "0 € au départ, 0 € par mois"
+              },
+              {
+                "label": "Récompense du parrainage après deux cycles payés",
+                "value": "Crédit sur la facture (le montant s'affiche sur votre commande)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "À payer le jour même (livraison)",
+            "totalValue": "19 €",
+            "note": "L'installation professionnelle est gratuite sur le Max."
+          },
+          {
+            "label": "Sans le lien",
+            "lines": [
+              {
+                "label": "Prix du forfait et du kit",
+                "value": "Le même qu'avec le lien"
+              },
+              {
+                "label": "Récompense du parrainage",
+                "value": "0 €"
+              },
+              {
+                "label": "Ce que vous perdez",
+                "value": "Toute la récompense",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Récompense reçue",
+            "totalValue": "0 €",
+            "note": "Le parrainage ne compte que sur une commande lancée depuis un lien de parrainage, avant le paiement."
+          }
+        ]
+      },
+      "postParagraphs": [
+        "Le 200 Mbit/s se place au milieu : 31,50 € par mois avec la réduction, contre 45 € au prix normal. Si le 100 Mbit/s vous paraît juste et le Max trop, c'est le forfait à comparer en premier."
+      ],
+      "emphasis": "D'après le tableau, la commande à Paris demande 19 € le jour même, puis 24,50 €, 31,50 € ou 45,50 € par mois selon le forfait, et la récompense n'arrive qu'après deux cycles mensuels complets.",
       "links": [
         {
-          "label": "Voir les forfaits à votre adresse",
+          "label": "Consulter le Black Friday et le parrainage à mon adresse",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
       ]
     },
     {
-      "heading": "Quand la récompense du parrainage entre dans le calcul",
+      "heading": "Ce que montre la commande",
       "paragraphs": [
-        "Avec le lien de parrainage, la commande affiche la récompense du nouveau client. Elle n'est versée qu'après deux cycles mensuels complets, en crédit de service ou en argent, et le montant dépend du pays. Lisez-le sur votre commande, nous ne donnons pas de chiffre ici.",
-        "Deux mensualités au prix affiché représenteraient 49 € pour le 100 Mbit/s ou 91 € pour le Max. Vérifiez aussi les 19 € affichés à la commande et les frais éventuels. Déduisez la récompense de ce que vous aurez effectivement payé si le parrainage est éligible."
-      ]
-    },
-    {
-      "heading": "Que rapporte le fait de parrainer quelqu'un ?",
-      "paragraphs": [
-        "Après avoir souscrit, vous pouvez parrainer d'autres personnes, et celui qui parraine reçoit aussi la même somme, en argent ou en crédit de service. La personne parrainée doit compléter les cycles exigés. Le [fonctionnement du programme](/fr/reviews/starlink-lien-parrainage) est détaillé dans notre guide du lien."
-      ]
-    },
-    {
-      "heading": "L'offre est-elle valable à votre adresse ?",
-      "paragraphs": [
-        "La page d'accueil annonce « à partir de 24,50 € » avec la mention « dans certaines zones ». L'offre dépend donc de l'adresse saisie. Faites la vérification sur la commande avant de payer, et gardez la capture du prix affiché."
+        "La capture montre l'avis « Referral Code Applied » d'une commande américaine ouverte avec un lien de parrainage. La commande ouverte avec le lien affiche l'avis de parrainage appliqué et le montant de la récompense de votre pays.",
+        "Pour vérifier la vôtre, ouvrez le lien, saisissez votre adresse et cherchez le même avis avant de payer. Regardez si la commande montre la récompense et le prix mensuel."
       ],
       "image": {
-        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
-        "alt": "Antenne Starlink Standard et routeur",
-        "caption": "L'antenne et le routeur Starlink. Photo Starlink.",
-        "objectFit": "contain",
-        "aspectRatio": 1.3316
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Écran de commande du site officiel Starlink avec le message Referral Code Applied, indiquant qu'en vous inscrivant avec ce code vous et votre ami recevez chacun 100 dollars, en argent ou en crédit de service",
+        "caption": "Commande sur le site officiel avec le lien de parrainage appliqué (exemple américain ; en France, le montant s'affiche sur votre commande).",
+        "aspectRatio": 0.8747,
+        "objectFit": "contain"
       }
     },
     {
-      "heading": "Remboursement et retour du kit",
+      "heading": "L'offre est-elle valable à votre adresse ?",
       "paragraphs": [
-        "La commande indique un remboursement intégral du kit et du premier mois si vous annulez le service et renvoyez le kit en bon état dans les 30 jours. Les étapes sont dans notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier)."
+        "L'offre s'affiche selon l'adresse. La page d'accueil annonce « à partir de 24,50 € » avec la mention « dans certaines zones », et deux adresses peuvent voir des prix différents le même jour. Saisissez la vôtre, comparez le prix mensuel, le kit et l'installation, et gardez la capture avant de payer.",
+        "Sur l'écran de Paris ci-dessous, on voit les trois forfaits et l'avis de renvoyer le matériel loué en cas d'annulation. La FAQ de la commande précise que le prix mensuel n'a pas de durée fixe."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+        "alt": "Commande Starlink pour Paris avec les forfaits 100, 200 Mbit/s et Max, le prix avec réduction et l'avis de rendre le matériel loué",
+        "caption": "Commande pour Paris, lue le 23/11/2026 : forfaits de 100 Mbit/s à Max et kit loué à 0 €.",
+        "aspectRatio": 0.5909,
+        "objectFit": "portrait"
+      }
+    },
+    {
+      "heading": "Kit loué, retour et essai de 30 jours",
+      "paragraphs": [
+        "La commande indique qu'en cas d'annulation du service, vous devez renvoyer le matériel Starlink loué. Avec l'essai de 30 jours, le kit et le premier mois sont remboursés si vous annulez et renvoyez le kit en bon état dans ce délai. C'est pourquoi ouvrir la commande ne coûte rien : vous voyez le prix de votre adresse, vous testez l'antenne sur votre toit et vous décidez ensuite.",
+        "Passé ce délai, il n'y a pas de durée fixe : Starlink peut modifier les prix avec un préavis de 30 jours. Les étapes sont dans notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+        "alt": "Récapitulatif de commande Starlink à Paris avec 35 € moins 10,50 € de réduction, le kit Mini X à 0 € et 19 € à payer le jour même",
+        "caption": "Récapitulatif à Paris (23/11/2026) : 35 € moins 10,50 €, Mini X à 0 € et 19 € le jour même.",
+        "aspectRatio": 0.6625,
+        "objectFit": "portrait"
+      },
+      "links": [
+        {
+          "label": "Sécuriser le parrainage avant de payer la commande",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
-      "heading": "Et après la promotion ?",
+      "heading": "Après la promotion : protéger votre prix",
       "paragraphs": [
-        "La page lue ne détaille pas le tarif après la période promotionnelle. Vérifiez sur votre commande combien de temps dure la réduction et quel est le prix ensuite avant de payer."
+        "Les 30 % valent pour les commandes passées jusqu'au 30 novembre. D'après la FAQ de Starlink, le prix mensuel n'a pas de durée fixe et l'entreprise peut changer ses prix avec un préavis de 30 jours : le prix réduit n'est donc garanti pour aucun nombre de mois. Si vous comptez rester des années, faites le calcul avec le prix normal.",
+        "Avant de payer, gardez une capture du récapitulatif avec le prix, la ligne du kit et l'avis de parrainage, et comparez-la à votre première facture. Si une facture ne correspond pas, ouvrez une demande d'assistance depuis votre compte avec la capture en pièce jointe."
+      ]
+    },
+    {
+      "heading": "Que rapporte le fait de parrainer quelqu'un ?",
+      "paragraphs": [
+        "Après avoir souscrit, vous pouvez parrainer d'autres personnes, et celui qui parraine reçoit aussi la même somme, en argent ou en crédit de service. La personne parrainée doit compléter les cycles exigés.",
+        "Le [fonctionnement du programme](/fr/reviews/starlink-lien-parrainage) est détaillé dans notre guide du lien. Vérifiez dans votre compte ce que vaut chaque parrainage."
+      ]
+    },
+    {
+      "heading": "Les 4 erreurs qui font perdre la récompense",
+      "paragraphs": [
+        "Même en cliquant sur le lien, la récompense se perd pour de petites erreurs :"
+      ],
+      "bullets": [
+        "Acheter le kit sur une place de marché ou en magasin et essayer d'utiliser le lien ensuite. Le parrainage ne compte que sur une commande passée sur starlink.com depuis un lien de parrainage, avant le paiement.",
+        "Ouvrir le lien sur le téléphone et terminer la commande des heures plus tard sur un autre appareil sans rouvrir le lien. Le parrainage peut ne pas suivre la commande : faites tout sur le même appareil ou rouvrez le lien et cherchez l'avis vert.",
+        "S'inscrire avec un nom, un e-mail ou une adresse qui a déjà eu un compte Starlink. La récompense est réservée aux nouveaux clients.",
+        "Annuler ou payer en retard avant deux cycles mensuels payés. La récompense n'arrive que si le service est actif et à jour."
+      ],
+      "postParagraphs": [
+        "Si la commande a déjà été payée sans le lien, on ne peut pas ajouter le parrainage ensuite."
       ]
     },
     {
       "heading": "Comment utiliser le lien",
       "paragraphs": [
-        "Ouvrez le lien et saisissez l'adresse d'installation de l'antenne. Choisissez le forfait, vérifiez le parrainage appliqué et faites une capture de l'offre affichée avant de payer. La [page du parrainage Starlink](/fr/coupons/starlink) réunit le lien et les règles du programme."
+        "Ouvrir le lien n'engage à rien : les prix, la disponibilité et l'offre n'apparaissent qu'après la saisie de l'adresse. Saisissez l'adresse d'installation de l'antenne, choisissez le forfait, vérifiez le parrainage appliqué et faites une capture de l'offre affichée avant de payer.",
+        "La [page du parrainage Starlink](/fr/coupons/starlink) réunit le lien et les règles du programme."
       ]
     },
     {
       "heading": "Questions fréquentes",
       "bullets": [
         "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d'abonnement, en crédit sur la facture, et le parrain reçoit le même montant.",
-        "Starlink fait-il le Black Friday ? L'offre de fin novembre donne 30 % sur les forfaits, avec un kit loué à 0 €, dans certaines zones.",
-        "Le parrainage se cumule-t-il avec l'offre ? Ce sont deux mécanismes distincts. La récompense dépend de l'éligibilité et de deux cycles mensuels complets. Vérifiez sur votre commande que les deux apparaissent.",
-        "Combien paie-t-on le jour de la commande ? Le total à payer lu pour une adresse à Paris était de 19 €, le kit étant loué à 0 €.",
-        "Le kit est-il à rendre ? Oui, le matériel est loué et doit être renvoyé si vous annulez le service.",
-        "Jusqu'à quand dure l'offre ? Starlink annonce la fin novembre. Saisissez votre adresse sur la commande pour voir si elle est disponible."
+        "Starlink fait-il le Black Friday ? Oui. L'offre de fin novembre donne 30 % sur les forfaits, avec un kit loué à 0 €, dans certaines zones.",
+        "Le parrainage se cumule-t-il avec l'offre ? Ce sont deux lignes distinctes de la commande. Vérifiez sur votre commande que les deux apparaissent. La récompense dépend de l'éligibilité et de deux cycles mensuels complets.",
+        "Combien paie-t-on le jour de la commande ? Le total à payer lu pour une adresse à Paris était de 19 €, le kit étant loué à 0 €.",
+        "Combien coûtent les forfaits par mois ? Dans cette lecture, 24,50 € le 100 Mbit/s, 31,50 € le 200 Mbit/s et 45,50 € le Max, avec les 30 %. Cela change selon l'adresse.",
+        "Puis-je essayer Starlink avant de me décider ? Oui. Starlink rembourse le kit et le premier mois si vous annulez et renvoyez le kit en bon état dans les 30 jours.",
+        "Puis-je ajouter le parrainage après le paiement ? Non. Il ne compte que sur la commande ouverte depuis le lien, avant le paiement.",
+        "Jusqu'à quand dure l'offre ? Starlink annonce la fin novembre. Saisissez votre adresse sur la commande pour voir si elle est disponible."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "La commande s'ouvre sur le site de Starlink. Vérifiez le prix du forfait, le kit loué et le montant du parrainage avant de payer.",
-    "label": "Consulter l'offre à mon adresse",
+    "text": "Vous payez le même prix que sur la commande officielle, vous gardez les 30 jours d'essai et le retour du kit loué si l'antenne ne convient pas à votre toit, et la récompense du parrainage entre sur votre facture après deux cycles payés.",
+    "label": "Voir mon adresse avec le parrainage",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Prix relevés sur la page de commande officielle, sans finaliser d'achat. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+  "editorialNote": "Prix relevés sur les pages de commande officielles, sans finaliser d'achat. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
   "relatedArticles": [
     {
       "slug": "starlink-lien-parrainage"
@@ -157,11 +277,11 @@
   ],
   "decision": {
     "takeIf": [
-      "la commande à votre adresse affiche l'offre sur le forfait et les conditions du kit avant le paiement.",
+      "la commande à votre adresse affiche les 30 % sur le forfait et les conditions du kit loué avant le paiement.",
       "vous pouvez attendre deux cycles mensuels complets pour la récompense et payer les mensualités entre-temps."
     ],
     "skipIf": [
-      "votre commande n'affiche pas l'offre, car les prix lus valent pour une seule adresse.",
+      "votre commande n'affiche pas l'offre, car les prix lus valent pour les adresses consultées.",
       "vous risquez de partir vite et ne voulez pas risquer le retour du kit ni la perte du prix promotionnel."
     ]
   }

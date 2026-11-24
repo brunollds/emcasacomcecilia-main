@@ -3,8 +3,8 @@
   "slug": "starlink-fidelidade-como-cancelar",
   "translationKey": "starlink-fidelidade",
   "locale": "pt",
-  "title": "Starlink tem fidelidade? O contrato de 12 meses, a multa e os 30 dias para devolver",
-  "seoTitle": "Starlink tem fidelidade? Multa de até 1.099 reais",
+  "title": "Starlink tem fidelidade? Só o kit subsidiado do Max prende 12 meses; o 100 Mbps não",
+  "seoTitle": "Starlink tem fidelidade? 12 meses só no Max a 49 reais",
   "type": "Guia Prático",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Veja quando o kit de R$ 49 do Residencial Max exige contrato de 12 meses, quanto pode custar a saída antecipada, como cancelar a assinatura e pedir a devolução.",
-  "metaDescription": "A Starlink tem fidelidade de 12 meses no kit com desconto, com multa de até 1.099 reais. Veja os 30 dias para devolver e o que muda ao cancelar.",
+  "description": "Veja quando a Starlink exige 12 meses (Max com kit a 49 reais) e quando não há fidelidade (100 Mbps, pré-venda, Portugal), com a multa e a devolução em 30 dias.",
+  "metaDescription": "Starlink tem fidelidade só no Max com kit subsidiado, com multa de até 1.099 reais. O 100 Mbps e Portugal não. Veja os 30 dias para devolver.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
   "updatedAt": "2026-11-23",
@@ -30,28 +30,107 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O Residencial Max com kit a 49 reais exigia 12 meses de contrato no pedido consultado. A multa por saída antecipada pode chegar a 1.099 reais. A oferta prevê reembolso do kit e do primeiro mês se você cancelar e devolver o kit sem danos em até 30 dias do pagamento."
+        "Depende do plano. No Brasil, o Residencial 100 Mbps com o Mini X a 299 reais não mostrou fidelidade de 12 meses, e os pedidos em pré-venda de São Paulo também não. O contrato de 12 meses, com multa de até 1.099 reais, aparece no Residencial Max com o kit subsidiado a 49 reais. Em Portugal não há contrato: o kit é alugado a 0 € e volta para a Starlink se você cancelar. Em todos os casos vale a janela de 30 dias para cancelar, devolver o kit sem danos e pedir o reembolso."
       ]
     },
     {
-      "heading": "Quando tem fidelidade",
+      "heading": "Brasil: o 100 Mbps não tem fidelidade",
       "paragraphs": [
-        "Na tela de pedido que lemos em 19 de novembro de 2026, o kit a R$ 49 do Residencial Max vem com a frase \"Contrato de 12 meses obrigatório\", nos dois endereços lidos, com e sem a oferta de 30%.",
-        "No plano de 100 Mbps, lido em Alto Paraíso de Goiás, o equipamento é o Mini X de R$ 299, e as perguntas da tela seguiram falando em 12 meses quando trocamos de plano. Não sabemos se o contrato vale para essa opção. Confirme no pedido antes de assinar."
+        "Não existe uma regra única da Starlink: o contrato vem junto com o kit que o seu pedido escolhe. Na consulta de 23 de novembro de 2026 para Alto Paraíso de Goiás, o Residencial 100 Mbps saía a R$ 132,30 por mês (R$ 189 menos 30% de ajuste promocional, válido até o fim de novembro) e o equipamento era o Mini X a R$ 299 (R$ 499 menos R$ 200 de desconto no preço). É um kit comprado, não um kit subsidiado em troca de contrato.",
+        "Nem o bloco Equipamento nem o Resumo do pedido do 100 Mbps trazem a frase de contrato de 12 meses. Há uma pegadinha de leitura: a pergunta frequente \"Prazo de 12 meses\", na coluna ao lado, é genérica e continua aparecendo quando você troca da aba Max para a de 100 Mbps. O que vale é o bloco Equipamento e o resumo do seu pedido, e é neles que você procura a cláusula antes de pagar.",
+        "Na Avenida Paulista, em São Paulo, a mesma consulta caiu em pré-venda: o pedido pede só o depósito de reserva de R$ 275, abatido do kit Standard 4 X de R$ 2.400, e a mensalidade futura é a cheia (R$ 189 no 100 Mbps, R$ 249 no Max), sem os 30%. A tela não mostrou contrato de 12 meses nem multa. A situação muda de endereço para endereço, então só o pedido do seu CEP diz o que vale."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+        "alt": "Tela de pedido da Starlink em Alto Paraíso de Goiás, aba Residencial 100 Mbps, com R$ 132,30 por mês e o Mini X a R$ 299",
+        "caption": "Alto Paraíso de Goiás, aba Residencial 100 Mbps: R$ 132,30 por mês e Mini X a R$ 299, sem a frase de 12 meses no equipamento.",
+        "objectFit": "square",
+        "aspectRatio": 0.9653
+      },
+      "links": [
+        {
+          "label": "Conferir planos e fidelidade no meu endereço",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
-      "heading": "A multa",
+      "heading": "Brasil: o Max a 49 reais prende 12 meses",
       "paragraphs": [
-        "A tela de pedido fala em taxa de rescisão antecipada de até R$ 1.099. Não sabemos se ela cai na proporção dos meses que faltam, porque a página que lemos não diz. Pergunte à Starlink antes de cancelar."
-      ]
+        "No Residencial Max, o pedido do mesmo endereço mostrou R$ 174,30 por mês (R$ 249 menos R$ 74,70), o Mini X a R$ 49 (R$ 99 menos R$ 50 de desconto no equipamento) e a instalação profissional incluída. É aqui, no bloco Equipamento, que aparece a frase \"Contrato de 12 meses obrigatório. 30 dias para devolver.\"",
+        "O resumo do pedido repete a regra na pergunta frequente: prazo de 12 meses obrigatório e taxa de rescisão antecipada de até R$ 1.099. Pense nisso como o preço do subsídio: você paga pouco hoje e se compromete a ficar um ano. Se for se mudar ou trocar de provedor antes disso, o kit barato pode sair caro."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+        "alt": "Resumo do pedido do Residencial Max na Starlink com o Mini X de R$ 99 menos R$ 50, total de R$ 49, e a pergunta sobre o prazo de 12 meses",
+        "caption": "Resumo do pedido do Residencial Max: Mini X a R$ 49 e a pergunta sobre o prazo de 12 meses, com rescisão de até R$ 1.099.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.4953
+      }
     },
     {
-      "heading": "Os 30 dias para devolver",
+      "heading": "Portugal: aluguer sem contrato, com devolução do kit",
       "paragraphs": [
-        "Na tela do pedido do Max, o prazo de 30 dias começa no pagamento. Para pedir o reembolso do kit e do primeiro mês nas condições da oferta, cancele o serviço e devolva o equipamento sem danos dentro desse prazo.",
+        "Na consulta para a Praça do Comércio, em Lisboa, a página dizia \"Sem contratos, teste de 30 dias\" nos três planos: 100 Mbps a 24,50 € por mês, 200 Mbps a 31,50 € e Max a 45,50 € (30% sobre 35 €, 45 € e 65 €, até o fim de novembro). O hardware é alugado por 0 €: Mini X no 100 Mbps e Standard 4 nos outros dois. O envio custou 20 € no pedido, e a instalação profissional é opcional (172 € nos dois primeiros planos, 0 € no Max).",
+        "Sem fidelidade não quer dizer sem devolução. O kit continua sendo da Starlink, e quem cancela precisa devolver o equipamento alugado."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-pt-planos-lisboa-aluguer.webp",
+        "alt": "Tela de planos da Starlink em Lisboa com a frase Sem contratos, teste de 30 dias, o 100 Mbps a 24,50 € por mês e o hardware a 0 €",
+        "caption": "Lisboa: \"Sem contratos, teste de 30 dias\", 100 Mbps a 24,50 € por mês e kit alugado a 0 €.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.5909
+      }
+    },
+    {
+      "heading": "Os quatro cenários lado a lado",
+      "paragraphs": [
+        "A tabela junta o que cada tela mostrou. É um retrato de cada endereço lido, não uma regra para o país inteiro."
+      ],
+      "comparisonTable": {
+        "caption": "Valores lidos na tela de pedido de cada endereço; os 30% de desconto valem até o fim de novembro.",
+        "headers": [
+          "Cenário",
+          "Mensalidade",
+          "Equipamento",
+          "Contrato e multa"
+        ],
+        "rows": [
+          [
+            "Brasil, Residencial 100 Mbps (Alto Paraíso de Goiás)",
+            "R$ 132,30 (R$ 189 cheios)",
+            "Mini X a R$ 299, comprado",
+            "Sem a frase de 12 meses no equipamento nem no resumo"
+          ],
+          [
+            "Brasil, Residencial Max (Alto Paraíso de Goiás)",
+            "R$ 174,30 (R$ 249 cheios)",
+            "Mini X a R$ 49, subsidiado, com instalação incluída",
+            "12 meses obrigatórios; rescisão de até R$ 1.099"
+          ],
+          [
+            "Brasil, pré-venda (Avenida Paulista, São Paulo)",
+            "R$ 189 ou R$ 249, sem os 30%",
+            "Standard 4 X a R$ 2.400, com depósito de R$ 275",
+            "Sem contrato de 12 meses nem multa na tela"
+          ],
+          [
+            "Portugal (Lisboa)",
+            "24,50 €, 31,50 € ou 45,50 €",
+            "Aluguer a 0 €, devolver ao cancelar",
+            "Sem contratos, teste de 30 dias"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "A multa e os 30 dias para devolver",
+      "paragraphs": [
+        "A multa de até R$ 1.099 vale para o kit subsidiado com contrato de 12 meses, o do Max a R$ 49, depois dos 30 dias. Não vale para o 100 Mbps com o kit comprado nem para Portugal, onde o que existe é a devolução do kit alugado. A página não diz se o valor cai com os meses que passaram, então pergunte à Starlink antes de cancelar.",
+        "Nos pedidos que lemos, o prazo de 30 dias começa no pagamento. Para pedir o reembolso do kit e do primeiro mês nas condições da oferta, cancele o serviço e devolva o equipamento sem danos dentro desse prazo.",
         "Cancelar a assinatura interrompe as cobranças futuras conforme o ciclo. Pelo suporte da Starlink, confira como abrir também a devolução do kit e guarde o comprovante de envio.",
-        "O pedido com a [indicação Starlink](/cupons/starlink) mostrou o mesmo contrato e a mesma política de devolução."
+        "O pedido aberto pela [indicação Starlink](/cupons/starlink) mostra o mesmo contrato e a mesma política de devolução."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
@@ -60,7 +139,14 @@
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
-      "emphasis": "Pelas regras do pedido, quem cancela e devolve o kit sem danos em até 30 dias do pagamento pede o reembolso do kit e do primeiro mês; depois disso, valem o contrato de 12 meses e a multa de até R$ 1.099."
+      "emphasis": "Quem cancela e devolve o kit sem danos em até 30 dias do pagamento pede o reembolso do kit e do primeiro mês; passado esse prazo, só o kit subsidiado do Max (49 reais) segue preso aos 12 meses e à multa de até R$ 1.099.",
+      "links": [
+        {
+          "label": "Ver planos com 30 dias de reembolso em starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Como cancelar",
@@ -90,8 +176,26 @@
     {
       "heading": "Preço promocional e mudança de plano",
       "paragraphs": [
-        "Pelos termos de preço promocional que lemos, cancelar, mudar de plano ou ser suspenso pode fazer você perder o preço promocional. O preço padrão não tem duração fixa e pode subir com aviso de 30 dias."
+        "Pelos termos de preço promocional que lemos, cancelar, mudar de plano ou ser suspenso pode fazer você perder o preço promocional. O preço padrão não tem duração fixa e pode subir com aviso de 30 dias.",
+        "Se a primeira fatura vier pelo valor cheio, abra um chamado na conta, em Mensagens, com o print do resumo do seu endereço mostrando o desconto."
       ]
+    },
+    {
+      "heading": "Antes de pagar: confira o seu pedido",
+      "paragraphs": [
+        "A indicação só conta se o pedido nasce de um link de indicação, aberto antes do pagamento e em starlink.com: depois de pago, ou em marketplace, não dá para acrescentá-la. Abrir o link não compromete nada, porque o endereço mostra qual dos modelos vale para você e os 30 dias cobrem o teste. O crédito é de R$ 200 no Brasil (45 € em Portugal), cai na fatura depois de dois meses de assinatura e não reduz o preço do kit.",
+        "Se o seu objetivo é fugir do contrato, o 100 Mbps com o kit comprado foi o caminho sem os 12 meses que lemos, e entrar pelo link não muda o preço do pedido."
+      ],
+      "checklist": {
+        "title": "Antes de pagar",
+        "items": [
+          "Abri o pedido pelo link de indicação, na mesma janela, antes de pagar.",
+          "Conferi que a barra do navegador continua em starlink.com antes de digitar qualquer dado.",
+          "Rodei o teste de obstruções no app da Starlink no ponto onde a antena vai ficar.",
+          "Li no resumo do pedido o preço do kit e se o bloco Equipamento fala em contrato de 12 meses.",
+          "Salvei um print do resumo com a mensalidade e a regra dos 30 dias antes de pagar."
+        ]
+      }
     },
     {
       "heading": "Se a cobrança continuar",
@@ -104,10 +208,12 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
-        "A Starlink tem fidelidade? No pedido consultado do Max com kit a R$ 49, o contrato era de 12 meses.",
-        "Qual a multa para cancelar a Starlink? A oferta consultada informa até R$ 1.099. Confira o valor aplicável ao seu pedido antes de confirmar o cancelamento.",
-        "Posso cancelar a Starlink a qualquer momento? A solicitação pode ser feita pela conta. Se houver contrato de 12 meses e você sair antes, confira a multa aplicável.",
-        "A Starlink Mini tem fidelidade? A tela mostrou o Mini X no plano de 100 Mbps, mas a condição de contrato para essa combinação ficou sem confirmação. Confira no resumo do seu pedido.",
+        "A Starlink tem fidelidade? Depende do plano. No Brasil, o Residencial Max com o kit a R$ 49 exige 12 meses; o Residencial 100 Mbps com o Mini X a R$ 299 não mostrou contrato no equipamento nem no resumo; em Portugal não há contrato.",
+        "Qual a multa para cancelar a Starlink? Para o kit subsidiado do Max, a tela informa rescisão antecipada de até R$ 1.099. No 100 Mbps com kit comprado e em Portugal, a tela não mostrou multa. Confira o valor do seu pedido antes de cancelar.",
+        "Posso cancelar a Starlink a qualquer momento? A solicitação pode ser feita pela conta. Se o seu pedido tem contrato de 12 meses e você sair antes, confira a multa aplicável.",
+        "A Starlink Mini tem fidelidade? Depende do pedido: o Mini X a R$ 299 do 100 Mbps não mostrou contrato, e o Mini X a R$ 49 do Max exige 12 meses. Confira o bloco Equipamento do seu pedido.",
+        "Em Portugal a Starlink tem fidelidade? Não: a página diz \"Sem contratos, teste de 30 dias\" e o kit é alugado a 0 €, mas precisa ser devolvido se você cancelar.",
+        "O que muda na pré-venda de São Paulo? O pedido pede só o depósito de R$ 275, abatido do kit Standard 4 X de R$ 2.400, com a mensalidade cheia e sem contrato de 12 meses na tela.",
         "Dá para devolver a Starlink em 30 dias? A oferta do Max informa reembolso do kit e do primeiro mês se o serviço for cancelado e o kit voltar sem danos em até 30 dias do pagamento."
       ]
     }
@@ -129,17 +235,17 @@
   ],
   "decision": {
     "takeIf": [
-      "você quer pagar o kit com desconto e aceita o contrato de 12 meses.",
-      "você vai ler o pedido do seu endereço antes de pagar e guardar o comprovante da devolução."
+      "você prefere pagar o kit à vista e ficar sem fidelidade, como no 100 Mbps do Brasil, ou está em Portugal, onde o kit é alugado sem contrato.",
+      "você aceita 12 meses para ter o kit subsidiado do Max e vai ler o resumo do seu endereço antes de pagar."
     ],
     "skipIf": [
-      "você pode cancelar antes dos 12 meses e não quer arriscar a multa de rescisão.",
+      "você pode se mudar ou cancelar antes de 12 meses e não quer arriscar a multa do kit subsidiado.",
       "você não vai devolver o kit sem danos dentro dos 30 dias."
     ]
   },
   "cta": {
-    "text": "O pedido abre no site da Starlink. Confira o contrato, a multa e a devolução do kit antes de pagar.",
-    "label": "Consultar o contrato no meu endereço",
+    "text": "O pedido abre em starlink.com pelo link de indicação, que precisa vir antes do pagamento. Você paga o mesmo preço do site, vê o contrato do seu endereço e mantém os 30 dias para devolver. O crédito é de R$ 200 no Brasil (45 € em Portugal), depois de dois meses de assinatura.",
+    "label": "Conferir contrato e plano no meu endereço",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

@@ -3,8 +3,8 @@
   "slug": "starlink-black-friday-deal",
   "translationKey": "starlink-black-friday",
   "locale": "en",
-  "title": "Starlink Black Friday 2026: what the Nevada offer costs",
-  "seoTitle": "Starlink Black Friday 2026: 30% off service in select areas",
+  "title": "Starlink Black Friday 2026: $38.50 a month, a $0 rental kit and the $100 referral reward",
+  "seoTitle": "Starlink Black Friday 2026: 30% off, $0 rental kit, $100 referral",
   "type": "Black Friday Guide",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "On the order page for Reno, Nevada, Starlink showed $21.65 due today and plans from $38.50 a month. See how the referral reward fits in and how to check your address.",
-  "metaDescription": "In Reno, Starlink showed 30% off service, a $0 rental kit and plans from $38.50 a month. See what the order costs and check your own address.",
+  "description": "In Nevada, Starlink showed 100 Mbps at $38.50 a month with a $0 rental kit. See the US and UK numbers, how the $100 referral fits in and what to check first.",
+  "metaDescription": "Starlink Black Friday: 30% off service, a $0 rental kit and a $100 US referral reward. See the Nevada and UK numbers and check your address.",
   "publishedAt": "November 20, 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,55 +31,135 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "A Reno, Nevada, order showed 30% off service plans, a $0 rental kit and $21.65 due at checkout. Plans started at $38.50 a month. The order shown with our link listed a separate $100 referral reward. Check your address for the offer and confirm the reward rules before paying."
+        "Starlink's Black Friday offer takes 30% off the monthly plan in select areas, with a $0 rental kit that you return if you cancel. In Nevada the 100 Mbps plan was $38.50 a month, with $20 plus taxes due today. The $100 referral reward (£40 in the UK) only counts if you open the order through a referral link before you pay, and it lands after two paid monthly cycles. The offer runs until November 30."
       ]
     },
     {
-      "heading": "What you pay and when the reward lands",
+      "heading": "The numbers: 100 Mbps, 200 Mbps and Max in Nevada and the UK",
       "paragraphs": [
-        "We read the order page for Reno, Nevada, on November 20, 2026, without completing a purchase. It showed $21.65 due today. Residential 100 Mbps was listed at $38.50 a month, with the Starlink V5 and Router Mini included, and Max at $91 a month. The hardware was a rental, $0 upfront and $0 a month.",
-        "The screenshot with our link showed $20 plus taxes due at checkout and a $100 referral offer. Two months at the price displayed for 100 Mbps would be $77. Check your actual bills and any upfront charges before calculating how much of that cost an eligible reward would cover."
+        "We read the order pages on November 23, 2026, without completing a purchase. In Nevada, Residential 100 Mbps was $38.50 a month (regular price $55), 200 Mbps was $59.50 ($85) and Max was $91 ($130), all with a $0 rental kit. The order summary for 100 Mbps showed $20 plus taxes due today, which is the shipping, because the Starlink V5 and Router Mini rental was $349 minus $349.",
+        "In the UK, the order summary showed £40, £60 and £80 a month for 100 Mbps, 200 Mbps and Max, a £0 rental kit, £19 due today and no contracts. Through our link, the referral reward is $100 in the US and £40 in the UK, paid after two monthly cycles. That is more than two and a half months of the Nevada 100 Mbps price, or a full month in the UK. The credit does not reduce the price of the kit."
       ],
       "comparisonTable": {
         "headers": [
-          "Order page, Reno, Nevada",
-          "Amount"
+          "Order page",
+          "Nevada, USA",
+          "United Kingdom"
         ],
         "rows": [
           [
-            "Total due today",
-            "$21.65"
+            "Residential 100 Mbps, per month",
+            "$38.50 (regular $55)",
+            "£40"
           ],
           [
-            "Residential 100 Mbps, per month",
-            "$38.50"
+            "Residential 200 Mbps, per month",
+            "$59.50 (regular $85)",
+            "£60"
           ],
           [
             "Max, per month",
-            "$91"
+            "$91 (regular $130)",
+            "£80"
           ],
           [
-            "Hardware rental, upfront and monthly",
-            "$0 and $0"
+            "Rental kit, upfront and monthly",
+            "$0 and $0",
+            "£0 and £0"
+          ],
+          [
+            "Due today on the 100 Mbps order",
+            "$20 plus taxes",
+            "£19"
           ],
           [
             "Optional professional installation, 100 Mbps",
-            "$99"
+            "$99",
+            "£74"
           ],
           [
-            "Referral reward on the Nevada order with our link, after two monthly cycles",
-            "$100"
+            "Referral reward after two paid cycles",
+            "$100",
+            "£40"
           ]
         ],
-        "caption": "Values as shown on the order page. We did not record how long the promotional price lasts or what the plan costs afterward."
+        "caption": "Order pages read on November 23, 2026. Nevada prices include the 30% promotion that ends November 30. The UK summary showed no discount."
+      },
+      "simulator": {
+        "title": "Quick simulator: the first two bills",
+        "scenarios": [
+          {
+            "label": "US: 100 Mbps with the link",
+            "lines": [
+              {
+                "label": "Plan with 30% off",
+                "value": "$38.50 a month"
+              },
+              {
+                "label": "Rental kit",
+                "value": "$0 upfront, $0 a month"
+              },
+              {
+                "label": "Referral reward after two paid cycles",
+                "value": "-$100 credit",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Due today (shipping)",
+            "totalValue": "$20 plus taxes",
+            "note": "You pay the first bills yourself. The reward arrives as credit on the account."
+          },
+          {
+            "label": "UK: 100 Mbps with the link",
+            "lines": [
+              {
+                "label": "Plan",
+                "value": "£40 a month"
+              },
+              {
+                "label": "Rental kit",
+                "value": "£0 upfront, £0 a month"
+              },
+              {
+                "label": "Referral reward after two paid cycles",
+                "value": "-£40 credit",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Due today (shipping)",
+            "totalValue": "£19",
+            "note": "£19 is due today, and the rental kit goes back if you cancel."
+          },
+          {
+            "label": "Without the link",
+            "lines": [
+              {
+                "label": "Price of the plan and the kit",
+                "value": "Same as with the link"
+              },
+              {
+                "label": "Referral reward",
+                "value": "$0 or £0"
+              },
+              {
+                "label": "What you give up",
+                "value": "$100 or £40",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Reward received",
+            "totalValue": "$0",
+            "note": "A referral only counts when the order starts from a referral link, before you pay."
+          }
+        ]
       },
       "postParagraphs": [
-        "To get the reward, the referral has to be eligible and the service has to stay active and paid up for two full monthly cycles. Starlink offers credit on the invoice and, depending on the account, payment in cash."
+        "The 200 Mbps plan sits in the middle: $59.50 a month in Nevada, with the Starlink V4 and Router 4 on rental and $0 professional installation. Max also comes with free professional installation, while the 100 Mbps plan lists it as an optional $99 extra."
       ],
-      "emphasis": "By the numbers in the table, the order showed $21.65 due today and plans from $38.50 a month, and the $100 referral reward only lands after two full monthly cycles, so the first bills come out of pocket.",
+      "emphasis": "By the numbers in the table, the Nevada order is $20 plus taxes today and $38.50 a month for 100 Mbps, and the $100 reward only lands after two full paid cycles, so the first bills come out of pocket.",
       "links": [
         {
-          "label": "See plans at your address",
+          "label": "Check Black Friday and the $100 reward at my address",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -95,9 +175,51 @@
         "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
         "alt": "Order screen on the official Starlink site with the message Referral Code Applied, saying that by signing up with this code you and your friend get $100 each, as cash or service credit",
         "caption": "Order on the official site with the referral link applied (Nevada).",
-        "objectFit": "contain",
-        "aspectRatio": 0.8747
+        "aspectRatio": 0.8747,
+        "objectFit": "contain"
       }
+    },
+    {
+      "heading": "Does the offer apply at your address?",
+      "paragraphs": [
+        "The 30% applies in select areas and depends on the address you enter, so two addresses can see different prices on the same day. Put in yours and compare the monthly price, the kit, the installation and the shipping time.",
+        "The Nevada screen below is the 100 Mbps tab: $38.50 a month, the Starlink V5 with a Router Mini at $0 upfront and $0 a month, and the note that you must return the rental if you cancel service."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+        "alt": "Starlink order page for Nevada with the Residential 100 Mbps tab selected, the monthly price and the rental hardware at zero dollars",
+        "caption": "Order page for Nevada, USA, 100 Mbps tab, read on November 23, 2026.",
+        "aspectRatio": 0.7159,
+        "objectFit": "portrait"
+      }
+    },
+    {
+      "heading": "Rental kit, cancelling and the 30-day test",
+      "paragraphs": [
+        "The kit is a rental, and the order says you must return the hardware if you cancel. The refund terms cover cancelling service and returning the kit undamaged within 30 days of the payment due date, with the kit and the first month refunded. That is why opening the order costs nothing: you see your own price, test the dish on your roof and only then decide to stay.",
+        "After that window there is no contract. The order summary says there is no fixed duration, and Starlink may change prices with 30 days' notice. See the [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+        "alt": "Starlink order summary for Nevada, 100 Mbps: monthly price with the discount, rental kit with a full credit and the total due today",
+        "caption": "Order summary for Nevada, 100 Mbps: $55 minus $16.50, rental kit $349 minus $349, $20 plus taxes today (read on November 23, 2026).",
+        "aspectRatio": 0.3732,
+        "objectFit": "portrait"
+      },
+      "links": [
+        {
+          "label": "Lock in the $100 reward before I place the order",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "After the promotion: how to protect your price",
+      "paragraphs": [
+        "The 30% is for orders placed until November 30. Starlink's FAQ says the monthly price has no fixed duration and that prices can change with 30 days' notice, so the discounted price is not guaranteed for any set number of months. Plan around the regular price if you intend to stay for years.",
+        "Save a screenshot of the order summary with the price, the kit line and the referral notice before you pay, and compare your first invoice with it. If a bill does not match, open a support request from your account and attach the screenshot."
+      ]
     },
     {
       "heading": "What is it worth to refer someone?",
@@ -107,27 +229,24 @@
       ]
     },
     {
-      "heading": "Does the offer apply at your address?",
+      "heading": "4 mistakes that cost you the reward",
       "paragraphs": [
-        "The 30% applies in select areas and depends on the address you enter. Put in yours and compare the monthly price, the kit, the installation and how long the promotion runs. The order page for Reno said the kit ships within one week."
-      ]
-    },
-    {
-      "heading": "Rental kit, cancelling and the refund",
-      "paragraphs": [
-        "The Nevada order says rented equipment must be returned if you cancel. Its refund terms describe canceling service and returning the kit undamaged within 30 days of the payment due date. See the [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund)."
-      ]
-    },
-    {
-      "heading": "What comes after the promotion?",
-      "paragraphs": [
-        "We did not read the plan price once the promotional period ends. Before you pay, check the order page for how long the 30% runs and what the standard price is."
+        "Even after clicking the link, the reward is lost by small slips:"
+      ],
+      "bullets": [
+        "Buying the kit from a marketplace or a retailer and trying to use the link afterwards. A referral only counts on an order placed on starlink.com through a referral link, before payment.",
+        "Opening the link on your phone and finishing the order hours later on another device without opening the link again. The referral may not follow the order: place it all on one device, or reopen the link and look for the green notice.",
+        "Signing up with a name, email or address that already had a Starlink account. The reward is for new customers.",
+        "Cancelling or paying late before two full monthly cycles are paid. The reward only lands while the service is active and up to date."
+      ],
+      "postParagraphs": [
+        "If you have already paid without the link, the referral cannot be added afterwards."
       ]
     },
     {
       "heading": "How to use the link",
       "paragraphs": [
-        "Open the link and type the address where you will install the dish. Pick the plan, check that the referral shows as applied and save a screenshot of the offer before you pay.",
+        "Opening the link commits you to nothing: prices, availability and the offer only appear after you type your address. Enter the address where you will install the dish, pick the plan, check that the referral shows as applied and save the offer that appears before you pay.",
         "The [Starlink referral page](/en/coupons/starlink) has the link and the program rules."
       ]
     },
@@ -135,22 +254,24 @@
       "heading": "Frequently asked questions",
       "bullets": [
         "Does Starlink have a discount code? No. Starlink has no coupon: through Cecília's referral link, a new subscriber gets $100 in the US and £40 in the UK after two months of service, as a credit on the bill, and the person who referred gets the same amount.",
-        "Does Starlink have a Black Friday deal? The order page we read shows 30% off service plans in select areas for those who sign up before the end of the month, with a $0 rental kit.",
-        "Does the referral stack with the offer? The plan offer and the referral are separate lines on the order. The Nevada order with our link showed the $100 referral next to a total due of $20 plus taxes. The reward depends on eligibility and two full monthly cycles.",
-        "How much do you pay when you order? The Reno order page showed $21.65 due today. The first monthly bill follows after that.",
-        "Is the Starlink kit free? The page lists it as a rental with $0 upfront and $0 a month. If you cancel, you have to return it.",
+        "Does Starlink have a Black Friday deal? Yes. The order pages we read show 30% off service plans in select areas for orders until the end of November, with a $0 rental kit. In Nevada that puts 100 Mbps at $38.50 a month.",
+        "Does the referral stack with the offer? Yes. The plan offer and the referral are separate lines on the order, and the Nevada order with our link showed the $100 reward next to $20 plus taxes due today. The reward depends on eligibility and two paid monthly cycles.",
+        "Is there a 200 Mbps plan in the offer? Yes. In Nevada it was $59.50 a month instead of $85, with a $0 rental kit and $0 professional installation.",
+        "Is the Starlink kit free? It is a rental, with $0 upfront and $0 a month, and you have to return it if you cancel.",
+        "Can I try Starlink before committing? Yes. Starlink refunds the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date.",
+        "Can I add the referral after paying? No. It only counts on an order opened through the link, before payment.",
         "How long does the offer run? Starlink advertises it until the end of November. Enter your address on the order page to see whether it is available."
       ]
     }
   ],
   "cta": {
-    "text": "The order opens on the Starlink site. Check the plan price, the kit terms and the referral value before you pay.",
-    "label": "Check the offer at my address",
+    "text": "You pay the same price as on the official order page, keep the 30-day return window if the dish does not work on your roof, and lock in the $100 referral reward (£40 in the UK) after two paid cycles.",
+    "label": "Check my address and lock in the $100",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Prices read on the official order page, without completing a purchase. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+  "editorialNote": "Prices read on the official order pages on November 23, 2026, without completing a purchase. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
   "relatedArticles": [
     {
       "slug": "starlink-referral-link-how-it-works"
@@ -166,12 +287,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "the order for your address shows the plan offer and the kit terms before you pay.",
-      "you can wait two full monthly cycles for the referral reward and pay the bills in between."
+      "the order for your address shows the 30% plan offer and the rental kit terms before you pay.",
+      "you can wait two full paid cycles for the referral reward and pay the bills in between."
     ],
     "skipIf": [
-      "your order page does not show the offer, since the prices we read are for one city.",
-      "you may leave soon and cannot risk returning the kit or losing the promotional price."
+      "your order page does not show the offer, since the prices we read are for the cities we checked.",
+      "you may cancel soon and cannot risk returning the kit or losing the promotional price."
     ]
   }
 }

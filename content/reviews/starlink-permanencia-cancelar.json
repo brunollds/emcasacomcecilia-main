@@ -3,8 +3,8 @@
   "slug": "starlink-permanencia-cancelar",
   "translationKey": "starlink-fidelidade",
   "locale": "es",
-  "title": "¿Tiene Starlink permanencia? Kit en alquiler, 30 días de prueba y cómo cancelar",
-  "seoTitle": "¿Starlink tiene permanencia? Kit y cancelación",
+  "title": "¿Tiene Starlink permanencia? Alquiler sin contrato en España, 12 meses en México y los 30 días de prueba",
+  "seoTitle": "¿Starlink tiene permanencia? España y México",
   "type": "Guía práctica",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Mira qué dice el pedido sobre el kit en alquiler, qué hay que devolver al cancelar, cómo funciona la prueba de 30 días y los pasos para cancelar desde tu cuenta.",
-  "metaDescription": "Starlink: kit en alquiler que se devuelve al cancelar y prueba de 30 días con reembolso. Mira los pasos para cancelar desde la cuenta.",
+  "description": "En Madrid el kit va en alquiler, sin permanencia y con devolución al cancelar. En México, el Standard 4 X exige 12 meses. Mira los 30 días de prueba y cómo cancelar.",
+  "metaDescription": "Starlink en España: kit en alquiler sin permanencia que se devuelve al cancelar. En México hay plazo de 12 meses. Prueba de 30 días y pasos para cancelar.",
   "publishedAt": "20 de noviembre de 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,22 +31,106 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "En el pedido de Starlink que consultamos en España, el kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas el servicio. El pedido ofrece una prueba de 30 días: si cancelas y devuelves el kit en buen estado dentro de ese plazo, se reembolsan el kit y el primer mes."
+        "Depende del país y del kit. En el pedido que consultamos en Madrid no hay permanencia: el kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas. En México, en cambio, el kit se compra, y el Standard 4 X del plan Max exige un plazo de 12 meses con una tarifa de rescisión de hasta 4.600 pesos. En ambos casos hay una prueba de 30 días: si cancelas y devuelves el kit en buen estado dentro del plazo, el pedido ofrece el reembolso del kit y del primer mes."
       ]
     },
     {
-      "heading": "Qué dice el pedido sobre el contrato",
+      "heading": "España: alquiler y sin permanencia",
       "paragraphs": [
-        "En la pantalla de pedido que leímos el 20 de noviembre de 2026, con una dirección de Madrid, el hardware aparece como alquiler: coste inicial de 0 € y tarifa mensual del kit de 0 €. La frase del pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler.",
-        "No leímos en esa pantalla ninguna cláusula de permanencia ni penalización por cancelar antes de un plazo. Eso no prueba que no exista en tu caso, así que confirma el resumen de tu pedido antes de pagar."
+        "En la pantalla de pedido que leímos el 23 de noviembre de 2026 con una dirección de Madrid, los tres planes llevan el hardware en alquiler, con 0 € de coste inicial y 0 € de cuota mensual del kit. El Residencial 100 Mbps costaba 24,50 € al mes (35 € menos un 30 % de promoción hasta final de noviembre) con el Mini X; el de 200 Mbps, 31,50 € (45 € de base) con un Standard 4; y el Máx., 45,50 € (65 € de base), también con un Standard 4.",
+        "El envío costaba 19 € hoy. La instalación profesional es opcional y costaba 172 € en el 100 y el 200 Mbps, y 0 € en el Máx. La pantalla dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler. No vimos ninguna cláusula de permanencia de 12 meses ni penalización por cancelar."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "alt": "Pantalla de planes de Starlink en Madrid con el 100 Mbps a 24,50 € al mes, el hardware en alquiler a 0 € y la nota sobre devolver el equipo alquilado",
+          "caption": "Madrid, consulta del 23/11/2026: 100 Mbps a 24,50 € al mes y hardware en alquiler a 0 €.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.622
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+          "alt": "Resumen del pedido de Starlink en Madrid con 35 € menos 10,50 €, el Mini X en alquiler a 0 € y 19 € que se pagan hoy",
+          "caption": "Resumen del pedido en Madrid, consulta del 23/11/2026: 35 € menos 10,50 €, Mini X a 0 € y 19 € hoy.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.726
+        }
+      ],
+      "links": [
+        {
+          "label": "Consultar planes y permanencia en mi dirección",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
+    },
+    {
+      "heading": "México: aquí sí hay un plazo de 12 meses",
+      "paragraphs": [
+        "Con una dirección de la Ciudad de México, el único plan que apareció fue el Residencial Max, a 1.485 pesos al mes más 55 pesos de costo del servicio regulatorio. Aquí no hay alquiler de 0 €: el kit se compra. El Standard 4 X salía en 5.743 pesos (7.599 menos 1.856 de descuento), 6.218 pesos hoy con el envío, y el resumen incluye \"Plazo de 12 meses\" con una tarifa de rescisión anticipada de hasta 4.600 pesos.",
+        "El Kit Starlink Mini salía en 2.303 pesos (2.999 menos 696), 2.778 pesos hoy, y el resumen no mostró el botón de plazo de 12 meses para él. Es el mismo plan y el mismo servicio con dos kits distintos, y solo uno de ellos te ata un año."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-mx-resumen-12-meses.webp",
+        "alt": "Resumen del pedido de Starlink en México con el plan Max, el Standard 4 X con descuento y el aviso de Plazo de 12 meses con tarifa de hasta 4.600 pesos",
+        "caption": "Ciudad de México, consulta del 23/11/2026: Standard 4 X con 12 meses de plazo y rescisión de hasta 4.600 pesos.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.4862
+      }
+    },
+    {
+      "heading": "Los dos mercados lado a lado",
+      "paragraphs": [
+        "La tabla reúne lo que mostró cada pantalla. Es la foto de una dirección en cada país, no una regla para todo el país."
+      ],
+      "comparisonTable": {
+        "caption": "Valores leídos en la pantalla de pedido de cada dirección; el 30 % de descuento en España llegaba hasta final de noviembre.",
+        "headers": [
+          "Qué mostró el pedido",
+          "España (Madrid)",
+          "México (Ciudad de México)"
+        ],
+        "rows": [
+          [
+            "Kit",
+            "Alquiler a 0 € y 0 € al mes",
+            "Compra: Standard 4 X o Kit Mini"
+          ],
+          [
+            "Planes",
+            "100 Mbps a 24,50 €, 200 Mbps a 31,50 € y Máx. a 45,50 €",
+            "Solo Residencial Max, a 1.485 pesos más 55 pesos regulatorios"
+          ],
+          [
+            "Permanencia",
+            "Sin plazo de 12 meses",
+            "Standard 4 X: 12 meses; Kit Mini: sin botón de plazo en el resumen"
+          ],
+          [
+            "Penalización",
+            "No aparece en la pantalla",
+            "Hasta 4.600 pesos en el Standard 4 X"
+          ],
+          [
+            "Al cancelar",
+            "Devolver el hardware alquilado",
+            "Prueba de 30 días con el kit en buen estado"
+          ],
+          [
+            "Envío hoy",
+            "19 €",
+            "475 pesos"
+          ]
+        ]
+      }
     },
     {
       "heading": "Los 30 días de prueba",
       "paragraphs": [
         "Para pedir el reembolso del kit y del primer mes en las condiciones de la oferta, cancela el servicio y devuelve el equipo en buen estado dentro de los 30 días.",
         "Cancelar la suscripción detiene los cobros futuros según el ciclo. Con el soporte de Starlink, confirma cómo abrir también la devolución del kit y guarda el justificante del envío.",
-        "El [enlace de referido de Starlink](/es/coupons/starlink) abre el mismo pedido en el sitio oficial. Comprueba las condiciones de devolución en el resumen del tuyo antes de pagar."
+        "El [enlace de referido de Starlink](/es/coupons/starlink) abre el mismo pedido en el sitio oficial. Comprueba las condiciones de devolución en el resumen del tuyo antes de pagar.",
+        "La penalización de México solo importa si pasan los 30 días con el kit subsidiado de 12 meses. En el alquiler de España, lo que cuenta pasado ese plazo es devolver el equipo cuando canceles."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
@@ -55,7 +139,14 @@
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
-      "emphasis": "Según las condiciones del pedido, cancelar y devolver el kit en buen estado dentro de los 30 días es lo que da derecho al reembolso del kit y del primer mes, y el justificante del envío es la prueba que lo decide."
+      "emphasis": "Según las condiciones del pedido, cancelar y devolver el kit en buen estado dentro de los 30 días es lo que da derecho al reembolso del kit y del primer mes, y el justificante del envío es la prueba que lo decide.",
+      "links": [
+        {
+          "label": "Ver planes con 30 días de prueba en starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Cómo cancelar",
@@ -83,6 +174,28 @@
       ]
     },
     {
+      "heading": "Precio promocional y cambio de plan",
+      "paragraphs": [
+        "En los pedidos que leímos, el precio promocional era un 30 % menos sobre la cuota mensual, con vigencia hasta final de noviembre. Starlink avisa en otros mercados que el precio mensual indicado no tiene una duración fija y que puede actualizarse con 30 días de aviso, así que no des por hecho que el promocional dura para siempre. Cancelar o cambiar de plan puede además terminar un precio promocional, así que lee las condiciones de tu pedido antes de cambiar nada."
+      ]
+    },
+    {
+      "heading": "Antes de pagar: revisa tu pedido",
+      "paragraphs": [
+        "El referido solo cuenta si el pedido nace de un enlace de referido, abierto antes de pagar y en starlink.com. Después del pago, o en un marketplace, no se puede añadir. Abrir el enlace no te compromete a nada: tu dirección muestra cuál de los modelos te toca, y los 30 días cubren la prueba. El crédito llega a la factura tras dos meses de servicio y no rebaja el precio del kit."
+      ],
+      "checklist": {
+        "title": "Antes de pagar",
+        "items": [
+          "Abrí el pedido desde el enlace de referido, en la misma ventana, antes de pagar.",
+          "Comprobé que la barra del navegador sigue en starlink.com antes de escribir cualquier dato.",
+          "Hice la prueba de obstrucciones en la app de Starlink en el punto donde irá la antena.",
+          "Leí en el resumen del pedido la línea del hardware, la cuota mensual y si menciona un plazo de 12 meses.",
+          "Guardé una captura del resumen con la cuota mensual y la regla de los 30 días antes de pagar."
+        ]
+      }
+    },
+    {
       "heading": "Si el cobro continúa",
       "paragraphs": [
         "Si el cobro continúa, abre una solicitud en Starlink con el número de pedido, la fecha de la cancelación y el número de caso, si lo hay.",
@@ -93,8 +206,9 @@
       "heading": "Preguntas frecuentes",
       "bullets": [
         "¿Tiene Starlink cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de servicio, como crédito en la factura, y quien lo recomendó recibe el mismo valor.",
-        "¿Tiene Starlink permanencia? En el pedido consultado en España el kit iba en alquiler, sin coste inicial ni cuota. Confirma en el resumen de tu pedido si hay otras condiciones.",
-        "¿Hay que devolver el kit al cancelar? Sí. El pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler.",
+        "¿Tiene Starlink permanencia? En el pedido consultado en Madrid, no: el kit iba en alquiler, sin coste inicial ni cuota y sin plazo de 12 meses. En México, el Standard 4 X exige 12 meses. Confirma en el resumen de tu pedido qué condiciones te tocan.",
+        "¿Hay que devolver el kit al cancelar? En España, sí: el pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler. Si compras el kit, como en México, lo que cuenta es el plazo de 30 días.",
+        "¿Cuánto cuesta cancelar Starlink? En el pedido de Madrid no vimos ninguna penalización. En México, el resumen del Standard 4 X avisa de una tarifa de rescisión anticipada de hasta 4.600 pesos.",
         "¿Puedo cancelar Starlink en cualquier momento? La solicitud se hace desde la cuenta. Comprueba en tu pedido si hay alguna condición para cancelar antes de cierto plazo.",
         "¿Se puede devolver Starlink en 30 días? El pedido ofrece una prueba de 30 días: cancela y devuelve el kit en buen estado dentro del plazo para el reembolso del kit y del primer mes.",
         "¿Qué pasa si cancelo y me arrepiento? Busca «Reanudar» en la página de inicio antes de que termine el periodo pagado. Reactivar después depende de la disponibilidad."
@@ -118,7 +232,7 @@
   ],
   "decision": {
     "takeIf": [
-      "puedes devolver el kit en alquiler en buen estado dentro de los 30 días si cancelas.",
+      "puedes devolver el kit en alquiler en buen estado dentro de los 30 días si cancelas y prefieres no tener permanencia.",
       "vas a leer las condiciones en el resumen de tu propio pedido antes de pagar."
     ],
     "skipIf": [
@@ -127,8 +241,8 @@
     ]
   },
   "cta": {
-    "text": "El pedido se abre en el sitio de Starlink. Comprueba la permanencia, los costes y la devolución del kit antes de pagar.",
-    "label": "Consultar las condiciones en mi dirección",
+    "text": "El pedido se abre en starlink.com con el enlace de referido, que tiene que venir antes de pagar. Pagas el mismo precio que en la web, ves la permanencia de tu dirección y conservas los 30 días para devolver el kit. El crédito llega tras dos meses de servicio.",
+    "label": "Consultar permanencia y plan en mi dirección",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

@@ -3,8 +3,8 @@
   "slug": "starlink-black-friday-angebot",
   "translationKey": "starlink-black-friday",
   "locale": "de",
-  "title": "Starlink Black Friday 2026: 50 % Rabatt für 3 Monate und die Rechnung für Berlin",
-  "seoTitle": "Starlink Black Friday 2026: 50 % für 3 Monate",
+  "title": "Starlink Black Friday 2026: 50 % Rabatt für 3 Monate, Kit zur Miete für 0 € und die Empfehlungsprämie",
+  "seoTitle": "Starlink Black Friday 2026: 17,50 € im Monat und Kit für 0 €",
   "type": "Black-Friday-Ratgeber",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "In Berlin zeigte Starlink 50 % auf Privathaushalt und Reise für 3 Monate, Kit zur Miete für 0 €. Wir rechnen die ersten Monate und zeigen, wie die Empfehlungsprämie dazukommt.",
-  "metaDescription": "Starlink Black Friday: 50 % auf Privathaushalt und Reise für 3 Monate, Kit zur Miete für 0 €. Die Rechnung für Berlin und die Empfehlungsprämie.",
+  "description": "In Berlin zeigte Starlink 100 Mbit/s für 17,50 € im Monat statt 35 €, drei Monate lang, und das Kit zur Miete für 0 €. Die Rechnung für Berlin und die Empfehlungsprämie.",
+  "metaDescription": "Starlink Black Friday: 50 % auf die Tarife für 3 Monate, Kit zur Miete für 0 €, monatlich kündbar. Die Rechnung für Berlin und die Empfehlungsprämie.",
   "publishedAt": "20. November 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,57 +31,125 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "In Deutschland zeigte die Bestellseite 50 % Rabatt auf die Tarife für Privathaushalt und Reise, für 3 Monate und bei Anmeldung bis Ende November. Das Kit ist gemietet, mit 0 € Vorauszahlung, und geht bei Kündigung zurück. Die Empfehlungsprämie kommt erst nach zwei vollen Monatszyklen dazu, und ihren Betrag zeigt Ihre Bestellung."
+        "Die Bestellseite von Starlink zeigte in Berlin 50 % Rabatt auf die Tarife für die ersten 3 Monate, bei Bestellung bis zum 30. November: 100 Mbit/s für 17,50 € im Monat, 200 Mbit/s für 27,50 € und Max für 37,50 €, dazu das Kit zur Miete für 0 € und 19 € am Bestelltag. Der Vertrag läuft von Monat zu Monat und ist gebührenfrei kündbar. Die Empfehlungsprämie zählt nur, wenn Sie die Bestellung vor der Zahlung über einen Empfehlungslink öffnen."
       ]
     },
     {
-      "heading": "Was Sie zahlen und was die Prämie ändert",
+      "heading": "Die drei Tarife in Berlin: Aktionspreis und Normalpreis",
       "paragraphs": [
-        "Wir haben die Bestellseite für eine Adresse in Berlin am 20. November 2026 gelesen, ohne Empfehlungslink und ohne den Kauf abzuschließen. Der Tarif Privathaushalt mit 100 Mbit/s kostete 17,50 € im Monat, mit 200 Mbit/s 27,50 € und der Max 37,50 €. Das Kit ist zur Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat. Als Betrag für den Bestelltag zeigte die Seite 19 €.",
-        "Die Prämie der Empfehlung steht in keiner dieser Zahlen. Wie hoch sie für Ihr Land ist, sehen Sie in der Bestellung mit dem Link, und sie wird erst gutgeschrieben, wenn der Dienst zwei volle Monatszyklen aktiv und bezahlt war."
+        "Wir haben die Bestellseite für eine Adresse am Alexanderplatz in Berlin am 23. November 2026 gelesen, ohne den Kauf abzuschließen. Der Tarif Privathaushalt mit 100 Mbit/s kostete 17,50 € im Monat statt 35 €, mit 200 Mbit/s 27,50 € statt 55 € und der Max 37,50 € statt 75 €. Die 50 % gelten für 3 Monate. Das Kit ist zur Miete, mit 0 € Vorauszahlung und 0 € im Monat, und am Bestelltag waren 19 € fällig (15,97 € plus 3,03 € Umsatzsteuer).",
+        "In der Bestellübersicht steht bei jedem Tarif, dass der Vertrag automatisch von Monat zu Monat auf unbestimmte Zeit verlängert wird, bis er gekündigt wird, und dass die Kündigung gebührenfrei ist. Die professionelle Montage ist bei 100 und 200 Mbit/s optional für 172 € und beim Max gratis. Die Prämie kommt als Gutschrift auf der Rechnung und senkt den Preis des Kits nicht."
       ],
       "comparisonTable": {
         "headers": [
           "Privathaushalt in Berlin",
-          "Pro Monat im Aktionszeitraum",
-          "Summe für 3 Monate"
+          "Pro Monat, die ersten 3 Monate",
+          "Pro Monat danach"
         ],
         "rows": [
           [
             "100 Mbit/s",
             "17,50 €",
-            "52,50 €"
+            "35 €"
           ],
           [
             "200 Mbit/s",
             "27,50 €",
-            "82,50 €"
+            "55 €"
           ],
           [
             "Max",
             "37,50 €",
-            "112,50 €"
+            "75 €"
           ],
           [
-            "Kit zur Miete",
-            "0 € Vorauszahlung, 0 € im Monat",
-            "0 €"
+            "Kit zur Miete, Vorauszahlung und pro Monat",
+            "0 € und 0 €",
+            "0 € und 0 €"
           ],
           [
-            "Professionelle Montage, optional bei 100 und 200 Mbit/s",
-            "einmalig 172 €",
-            "172 €"
+            "Am Bestelltag fällig",
+            "19 €",
+            "19 €"
           ]
         ],
-        "caption": "Preise von der Bestellseite für Berlin. Die Summen über 3 Monate sind unsere Rechnung mit dem Aktionspreis. Was danach gilt, haben wir nicht erfasst."
+        "caption": "Preise von der Bestellseite für Berlin, gelesen am 23. November 2026. Der Aktionspreis gilt bei Bestellung bis zum 30. November, danach zählt der Normalpreis."
+      },
+      "simulator": {
+        "title": "Schneller Rechner: Berlin",
+        "scenarios": [
+          {
+            "label": "100 Mbit/s mit Link",
+            "lines": [
+              {
+                "label": "Tarif im Aktionszeitraum",
+                "value": "17,50 € im Monat"
+              },
+              {
+                "label": "Kit zur Miete",
+                "value": "0 € vorab, 0 € im Monat"
+              },
+              {
+                "label": "Empfehlungsprämie nach zwei bezahlten Zyklen",
+                "value": "Gutschrift auf der Rechnung (Betrag sehen Sie in Ihrer Bestellung)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Am Bestelltag fällig",
+            "totalValue": "19 €",
+            "note": "Die ersten Rechnungen zahlen Sie selbst. Die Prämie kommt nach zwei vollen Monatszyklen."
+          },
+          {
+            "label": "200 Mbit/s mit Link",
+            "lines": [
+              {
+                "label": "Tarif im Aktionszeitraum",
+                "value": "27,50 € im Monat"
+              },
+              {
+                "label": "Kit zur Miete",
+                "value": "0 € vorab, 0 € im Monat"
+              },
+              {
+                "label": "Empfehlungsprämie nach zwei bezahlten Zyklen",
+                "value": "Gutschrift auf der Rechnung (Betrag sehen Sie in Ihrer Bestellung)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Am Bestelltag fällig",
+            "totalValue": "19 €",
+            "note": "Nach den 3 Monaten gilt der Normalpreis. Die Montage ist optional und kostet 172 €."
+          },
+          {
+            "label": "Ohne Empfehlungslink",
+            "lines": [
+              {
+                "label": "Preis von Tarif und Kit",
+                "value": "Derselbe wie mit dem Link"
+              },
+              {
+                "label": "Empfehlungsprämie",
+                "value": "0 €"
+              },
+              {
+                "label": "Was Sie verschenken",
+                "value": "Die ganze Prämie",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Erhaltene Prämie",
+            "totalValue": "0 €",
+            "note": "Die Empfehlung zählt nur, wenn die Bestellung über einen Empfehlungslink beginnt, vor der Zahlung."
+          }
+        ]
       },
       "postParagraphs": [
-        "Beim Max zeigte die Seite die professionelle Montage mit 0 €. Die Prämie braucht eine berechtigte Empfehlung, und Starlink zahlt sie als Servicegutschrift oder, wo das Konto es anbietet, als Auszahlung."
+        "Auf drei Monate gerechnet kostet der 100-Mbit/s-Tarif 52,50 €, der 200-Mbit/s-Tarif 82,50 € und der Max 112,50 €. Danach verdoppelt sich der Monatspreis, weil der Normalpreis gilt. Wer länger bleiben will, rechnet deshalb mit 35 €, 55 € oder 75 €."
       ],
       "emphasis": "Nach den Zahlen der Tabelle zahlt, wer in Berlin bestellt, 19 € am Bestelltag und danach 17,50 € bis 37,50 € im Monat, und die Prämie wird erst nach zwei vollen Monatszyklen gutgeschrieben, sodass die ersten Rechnungen aus eigener Tasche kommen.",
       "links": [
         {
-          "label": "Tarife für Ihre Adresse ansehen",
+          "label": "Black Friday und Empfehlungsprämie für meine Adresse prüfen",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -90,15 +158,58 @@
     {
       "heading": "So sieht es in der Bestellung aus",
       "paragraphs": [
-        "Um Ihr Angebot zu prüfen, öffnen Sie den Link, geben die Adresse ein und suchen den Hinweis auf den angewendeten Empfehlungscode, bevor Sie bezahlen. Achten Sie darauf, ob die Bestellung die Prämie und die Bedingungen des Monatspreises zeigt."
+        "Der Screenshot zeigt den Hinweis „Referral Code Applied“ einer US-Bestellung, die über einen Empfehlungslink geöffnet wurde. Die Bestellung mit dem Link zeigt den Hinweis auf die angewendete Empfehlung und den Betrag der Prämie für Ihr Land.",
+        "Um Ihr Angebot zu prüfen, öffnen Sie den Link, geben die Adresse ein und suchen den Hinweis, bevor Sie bezahlen. Achten Sie darauf, ob die Bestellung die Prämie und die Bedingungen des Monatspreises zeigt."
       ],
       "image": {
-        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-        "alt": "Starlink-Antenne am Dach eines Holzhauses",
-        "caption": "Antenne für Privathaushalte, installiert. Foto von Starlink.",
-        "objectFit": "contain",
-        "aspectRatio": 1.8079
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Bestellseite der offiziellen Starlink-Website mit der Meldung Referral Code Applied, dass Sie und Ihr Freund bei der Anmeldung mit diesem Code je 100 Dollar erhalten, als Geld oder Servicegutschrift",
+        "caption": "Bestellung auf der offiziellen Website mit angewendetem Empfehlungslink (US-Beispiel; in Deutschland sehen Sie den Betrag in Ihrer Bestellung).",
+        "aspectRatio": 0.8747,
+        "objectFit": "contain"
       }
+    },
+    {
+      "heading": "Gilt das Angebot an Ihrer Adresse?",
+      "paragraphs": [
+        "Die Aktion gilt für ausgewählte Gebiete. Auf der Startseite stand der Preis ab 17,50 € für diese Gebiete, und zwei Adressen können am selben Tag verschiedene Preise sehen. Ob Ihre Adresse dazugehört, sagt erst die Bestellung nach der Eingabe der Adresse.",
+        "Der Berliner Screenshot unten zeigt die drei Tarife und den Hinweis, das Miet-Kit bei Kündigung zurückzusenden."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+        "alt": "Starlink-Bestellung für Berlin mit den Tarifen 100 Mbit/s, 200 Mbit/s und Max, dem Aktionspreis und dem Hinweis, das gemietete Kit zurückzusenden",
+        "caption": "Bestellung für Berlin, gelesen am 23.11.2026: Tarife von 100 Mbit/s bis Max und Kit zur Miete für 0 €.",
+        "aspectRatio": 0.5909,
+        "objectFit": "portrait"
+      }
+    },
+    {
+      "heading": "Miet-Kit, Kündigung und 30 Tage zum Testen",
+      "paragraphs": [
+        "Das Kit ist gemietet. Wenn Sie den Dienst kündigen, müssen Sie es zurückgeben. Die Bestellseite nennt die Erstattung von Kit und erstem Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückschicken, und Sie haben ein Widerrufsrecht. Deshalb kostet das Öffnen der Bestellung nichts: Sie sehen den Preis für Ihre Adresse, testen die Antenne auf Ihrem Dach und entscheiden danach.",
+        "Danach läuft der Vertrag von Monat zu Monat weiter, und die Kündigung ist gebührenfrei. Mehr dazu im [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+        "alt": "Bestellübersicht von Starlink in Berlin für 200 Mbit/s zu 55 € mit 3 Monaten Rabatt von 27,50 € und dem Hinweis auf die gebührenfreie Kündigung von Monat zu Monat",
+        "caption": "Bestellübersicht in Berlin (23.11.2026): 200 Mbit/s zu 55 €, 3 Monate minus 27,50 €, 19 € am Bestelltag.",
+        "aspectRatio": 0.5889,
+        "objectFit": "portrait"
+      },
+      "links": [
+        {
+          "label": "Prämie sichern, bevor ich die Bestellung bezahle",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Nach den 3 Monaten: den Preis absichern",
+      "paragraphs": [
+        "Die 50 % gelten für Bestellungen bis zum 30. November und für die ersten 3 Monate. Danach zahlen Sie den Normalpreis, der nicht für immer garantiert ist: Prüfen Sie ihn in Ihrer Bestellung und in den Bedingungen von Starlink. Wer länger bleiben will, plant mit 35 €, 55 € oder 75 € im Monat. Ob sich bei einem Tarifwechsel in den ersten 3 Monaten der Aktionspreis ändert, sagen die öffentlichen Seiten nicht: Fragen Sie vorher beim Support oder lesen Sie die Bedingungen Ihrer Bestellung.",
+        "Speichern Sie vor dem Bezahlen einen Screenshot der Bestellübersicht mit Preis, Kit-Zeile und Empfehlungshinweis und vergleichen Sie damit Ihre erste Rechnung. Passt eine Rechnung nicht, eröffnen Sie in Ihrem Konto eine Supportanfrage mit dem Screenshot."
+      ]
     },
     {
       "heading": "Was es bringt, andere zu empfehlen",
@@ -108,28 +219,24 @@
       ]
     },
     {
-      "heading": "Gilt das Angebot an Ihrer Adresse?",
+      "heading": "Die 4 Fehler, die die Prämie kosten",
       "paragraphs": [
-        "Die Aktion gilt für ausgewählte Gebiete. Auf der Startseite stand der Preis ab 17,50 € für diese Gebiete. Ob Ihre Adresse dazugehört, sagt erst die Bestellung nach der Eingabe der Adresse. Vergleichen Sie die Kosten der Tarife an Ihrer Adresse mit der Dauer jedes Angebots."
-      ]
-    },
-    {
-      "heading": "Kündigung und Rückgabe des Kits",
-      "paragraphs": [
-        "Das Kit ist gemietet. Wenn Sie den Dienst kündigen, müssen Sie es zurückgeben. Die Bestellseite nennt die Erstattung von Kit und erstem Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückschicken. Mehr dazu im [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen)."
-      ]
-    },
-    {
-      "heading": "Und nach den 3 Monaten?",
-      "paragraphs": [
-        "Welcher Preis nach den 3 Aktionsmonaten gilt, haben wir auf der Bestellseite nicht erfasst. Prüfen Sie ihn vor dem Bezahlen und rechnen Sie mit diesem Preis, wenn Sie länger bleiben wollen.",
-        "Was bei einem Tarifwechsel, einer Kündigung oder einer Sperrung mit dem Aktionspreis geschieht, steht in den Bedingungen Ihrer Bestellung."
+        "Auch wer auf den Link klickt, verliert die Prämie durch kleine Fehler:"
+      ],
+      "bullets": [
+        "Das Kit bei einem Marktplatz oder im Handel kaufen und den Link danach benutzen wollen. Die Empfehlung zählt nur bei einer Bestellung auf starlink.com über einen Empfehlungslink, vor der Zahlung.",
+        "Den Link am Handy öffnen und die Bestellung Stunden später auf einem anderen Gerät abschließen, ohne den Link erneut zu öffnen. Die Empfehlung geht dann eventuell nicht mit: Bestellen Sie alles auf einem Gerät oder öffnen Sie den Link erneut und suchen Sie den grünen Hinweis.",
+        "Sich mit einem Namen, einer E-Mail-Adresse oder einer Anschrift anmelden, die schon ein Starlink-Konto hatte. Die Prämie gilt für Neukunden.",
+        "Kündigen oder zu spät zahlen, bevor zwei Monatszyklen bezahlt sind. Die Prämie kommt nur bei aktivem und beglichenem Dienst."
+      ],
+      "postParagraphs": [
+        "Wurde die Bestellung schon ohne den Link bezahlt, lässt sich die Empfehlung nicht nachtragen."
       ]
     },
     {
       "heading": "So nutzen Sie den Link",
       "paragraphs": [
-        "Öffnen Sie den Link und geben Sie die Adresse ein, an der Sie die Antenne installieren. Wählen Sie den Tarif, prüfen Sie die angewendete Empfehlung und notieren Sie das Angebot, das vor dem Bezahlen erscheint.",
+        "Das Öffnen des Links verpflichtet zu nichts: Preise, Verfügbarkeit und Angebot erscheinen erst nach der Eingabe Ihrer Adresse. Geben Sie die Adresse ein, an der Sie die Antenne installieren, wählen Sie den Tarif, prüfen Sie die angewendete Empfehlung und speichern Sie das Angebot, das vor dem Bezahlen erscheint.",
         "Auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink) stehen der Link und die Regeln des Programms."
       ]
     },
@@ -137,22 +244,24 @@
       "heading": "Häufige Fragen",
       "bullets": [
         "Hat Starlink einen Rabattcode? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
-        "Gibt es bei Starlink einen Black Friday? Die Bestellseite für Berlin zeigte 50 % Rabatt auf die Tarife Privathaushalt und Reise für 3 Monate, mit Kit zur Miete für 0 €.",
-        "Lässt sich die Empfehlung mit dem Angebot kombinieren? Prüfen Sie in der Bestellung für Ihre Adresse, ob beide erscheinen. Die Prämie hängt von der Berechtigung und von zwei vollen Monatszyklen ab.",
+        "Gibt es bei Starlink einen Black Friday? Ja. Die Bestellseite für Berlin zeigte 50 % Rabatt auf die Tarife für 3 Monate, mit Kit zur Miete für 0 €.",
+        "Lässt sich die Empfehlung mit dem Angebot kombinieren? Es sind zwei getrennte Zeilen der Bestellung. Prüfen Sie in der Bestellung für Ihre Adresse, ob beide erscheinen. Die Prämie hängt von der Berechtigung und von zwei vollen Monatszyklen ab.",
         "Wie viel wird bei der Bestellung berechnet? Die Bestellseite für Berlin zeigte 19 € als Betrag für den Bestelltag.",
-        "Muss ich das Kit kaufen? Die Seite zeigte das Kit zur Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat. Bei Kündigung muss es zurückgeschickt werden.",
-        "Wie lange läuft das Angebot? Laut Starlink endet das Angebot am 30. November. Geben Sie Ihre Adresse in der Bestellung ein, um zu sehen, ob sie dort gilt."
+        "Was kosten die Tarife im Monat? In Berlin 17,50 € für 100 Mbit/s, 27,50 € für 200 Mbit/s und 37,50 € für den Max, drei Monate lang. Danach gilt der Normalpreis von 35 €, 55 € und 75 €.",
+        "Kann ich Starlink vor der Entscheidung testen? Ja. Starlink erstattet Kit und ersten Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückschicken.",
+        "Kann ich die Empfehlung nach dem Bezahlen nachtragen? Nein. Sie zählt nur bei der Bestellung, die über den Link geöffnet wurde, vor der Zahlung.",
+        "Wie lange läuft das Angebot? Laut Starlink endet das Angebot Ende November. Geben Sie Ihre Adresse in der Bestellung ein, um zu sehen, ob sie dort gilt."
       ]
     }
   ],
   "cta": {
-    "text": "Die Bestellung öffnet sich auf der Starlink-Seite. Prüfen Sie Tarifpreis, Rückgabe des Kits und Prämie, bevor Sie bezahlen.",
-    "label": "Angebot für meine Adresse prüfen",
+    "text": "Sie zahlen denselben Preis wie auf der offiziellen Bestellseite, behalten die 30 Tage zum Testen samt Rückgabe des Miet-Kits, falls die Antenne auf Ihrem Dach nicht funktioniert, und die Empfehlungsprämie kommt nach zwei bezahlten Zyklen auf Ihre Rechnung.",
+    "label": "Meine Adresse mit Empfehlung prüfen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Preise von der Bestellseite der offiziellen Website gelesen, ohne den Kauf abzuschließen. Die Summen über 3 Monate sind Rechnungen von uns. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+  "editorialNote": "Preise von den Bestellseiten der offiziellen Website gelesen, ohne den Kauf abzuschließen. Die Summen über 3 Monate sind Rechnungen von uns. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
   "relatedArticles": [
     {
       "slug": "starlink-empfehlungslink"
@@ -168,11 +277,11 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "die Bestellung für Ihre Adresse das Angebot und die Kit-Bedingungen vor der Zahlung zeigt.",
+      "die Bestellung für Ihre Adresse die 50 % auf den Tarif und die Bedingungen des Miet-Kits vor der Zahlung zeigt.",
       "Sie zwei volle Monatszyklen auf die Prämie warten und die Rechnungen in der Zwischenzeit zahlen können."
     ],
     "skipIf": [
-      "Ihre Bestellung das Angebot nicht zeigt, denn die gelesenen Preise gelten für eine einzige Adresse.",
+      "Ihre Bestellung das Angebot nicht zeigt, denn die gelesenen Preise gelten für die geprüften Adressen.",
       "Sie bald wieder kündigen könnten und weder die Rückgabe des Kits noch den Verlust des Aktionspreises riskieren wollen."
     ]
   }

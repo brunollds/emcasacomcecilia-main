@@ -3,8 +3,8 @@
   "slug": "lohnt-sich-starlink",
   "translationKey": "starlink-vale-a-pena",
   "locale": "de",
-  "title": "Lohnt sich Starlink? Die Rechnung für die ersten Monate und für wen es passt",
-  "seoTitle": "Lohnt sich Starlink? Kosten und Eignung",
+  "title": "Lohnt sich Starlink? Preise, instabiles Glasfaser-Netz und Backup-Internet",
+  "seoTitle": "Lohnt sich Starlink? Kosten, Glasfaser & Backup",
   "type": "Kaufratgeber",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Vergleichen Sie die Starlink-Kosten der ersten Monate mit dem Anschluss, der bei Ihnen ankommt. Kit zur Miete, Montage, Rückgabe und wie Sie den Standort der Antenne prüfen.",
-  "metaDescription": "Lohnt sich Starlink? Die Kosten der ersten Monate mit Kit-Miete, Preise nach Adresse, für wen es passt und wann Glasfaser oder Mobilfunk besser sind.",
+  "description": "Prüfen Sie, ob sich Starlink lohnt – auf dem Land oder bei instabilem Glasfaser-Internet mit Ausfällen. Aktionspreise, 0-€-Mietkit und Nutzung als Backup-Leitung.",
+  "metaDescription": "Lohnt sich Starlink trotz Glasfaser? Tarife, 0-€-Mietkit, monatliche Kündbarkeit und wann sich Satelliten-Internet als Alternative oder Backup rechnet.",
   "publishedAt": "20. November 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,54 +31,133 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Starlink kann sich auf dem Land und in Häusern lohnen, in denen keine stabile Verbindung ankommt. Wenn bereits zuverlässige Glasfaser verfügbar ist, vergleichen Sie die Kosten, bevor Sie wechseln. Rechnen Sie die Monatspreise Ihrer Adresse zusammen, prüfen Sie Kit-Miete und Rückgabe und testen Sie mit der Starlink-App, wo die Antenne stehen kann."
+        "Ja, Starlink lohnt sich dort, wo keine stabile Verbindung ankommt, aber auch dort, wo Glasfaser liegt und trotzdem oft ausfällt oder deutlich weniger Tempo liefert als gebucht. Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Läuft Ihre Glasfaser wirklich stabil, bleibt sie bei Preis und Latenz meist vorn. Der Test ist risikoarm: Das Kit ist in der Berliner Bestellung zur Miete für 0 €, und Sie haben 30 Tage für die Rückgabe."
       ]
     },
     {
-      "heading": "Was es in den ersten Monaten kostet",
+      "heading": "Was es in den ersten Monaten kostet und danach",
       "paragraphs": [
-        "Am 20. November 2026 haben wir die Bestellseite für eine Adresse in Berlin gelesen. Sie zeigte 50 % Rabatt auf die Tarife für Privathaushalt für 3 Monate. Das Kit ist zur Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat."
+        "Am 23. November 2026 haben wir die Bestellseite für eine öffentliche Adresse in Berlin gelesen. Sie zeigte 50 % Rabatt auf die Tarife für Privathaushalte für 3 Monate. Das Kit ist zur Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat, und am Bestelltag waren 19 € Versand fällig. In der Bestellübersicht steht: Der Vertrag verlängert sich automatisch von Monat zu Monat auf unbestimmte Zeit, die Kündigung ist gebührenfrei."
       ],
       "comparisonTable": {
         "headers": [
           "Privathaushalt in Berlin",
-          "Pro Monat im Aktionszeitraum",
+          "Erste 3 Monate pro Monat",
+          "Danach pro Monat",
           "Kit",
-          "Summe für 3 Monate"
+          "Professionelle Montage"
         ],
         "rows": [
           [
             "100 Mbit/s",
             "17,50 €",
-            "0 € (Miete)",
-            "52,50 €"
+            "35 €",
+            "Mini X, 0 € (Miete)",
+            "172 €, optional"
           ],
           [
             "200 Mbit/s",
             "27,50 €",
-            "0 € (Miete)",
-            "82,50 €"
+            "55 €",
+            "Standard 4, 0 € (Miete)",
+            "172 €, optional"
           ],
           [
             "Max",
             "37,50 €",
-            "0 € (Miete)",
-            "112,50 €"
+            "75 €",
+            "Standard 4, 0 € (Miete)",
+            "0 €"
           ]
         ],
-        "caption": "Kit plus 3 Monatsbeträge nach den angezeigten Preisen. Summen vor der Empfehlungsprämie und vor möglichen Kosten außerhalb der Standardinstallation."
+        "caption": "Preise der Bestellübersicht in Berlin: 50 % Rabatt für 3 Monate, danach der Normalpreis. Vor der Empfehlungsprämie und vor möglichen Kosten außerhalb der Standardinstallation."
+      },
+      "simulator": {
+        "title": "Simulator: Was jedes Szenario verlangt",
+        "scenarios": [
+          {
+            "label": "Berlin, 100 Mbit/s",
+            "lines": [
+              {
+                "label": "Kit zur Miete (Mini X)",
+                "value": "0 € und 0 € im Monat",
+                "highlight": true
+              },
+              {
+                "label": "Monatspreis in den ersten 3 Monaten",
+                "value": "17,50 €"
+              },
+              {
+                "label": "Monatspreis danach",
+                "value": "35 €"
+              }
+            ],
+            "totalLabel": "Heute fällig (Versand)",
+            "totalValue": "19 €",
+            "note": "Professionelle Montage optional für 172 €. Bei Kündigung geht das Kit zurück."
+          },
+          {
+            "label": "Berlin, 200 Mbit/s",
+            "lines": [
+              {
+                "label": "Kit zur Miete (Standard 4)",
+                "value": "0 € und 0 € im Monat",
+                "highlight": true
+              },
+              {
+                "label": "Monatspreis in den ersten 3 Monaten",
+                "value": "27,50 €"
+              },
+              {
+                "label": "Monatspreis danach",
+                "value": "55 €"
+              }
+            ],
+            "totalLabel": "Heute fällig (Versand)",
+            "totalValue": "19 €",
+            "note": "Professionelle Montage optional für 172 €. Monatlich kündbar, ohne Gebühr."
+          },
+          {
+            "label": "Berlin, Max",
+            "lines": [
+              {
+                "label": "Kit zur Miete (Standard 4)",
+                "value": "0 € und 0 € im Monat"
+              },
+              {
+                "label": "Monatspreis in den ersten 3 Monaten",
+                "value": "37,50 €"
+              },
+              {
+                "label": "Monatspreis danach",
+                "value": "75 €",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Heute fällig (Versand)",
+            "totalValue": "19 €",
+            "note": "Die Montage ist hier mit 0 € enthalten. Prüfen Sie den Preis nach den Aktionsmonaten vor dem Bezahlen."
+          }
+        ]
       },
       "postParagraphs": [
-        "Die professionelle Montage ist bei 100 und 200 Mbit/s optional und kostete 172 €, beim Max 0 €. Den Preis nach den 3 Aktionsmonaten haben wir nicht erfasst, deshalb rechnen wir kein volles Jahr aus. Prüfen Sie ihn in Ihrer Bestellung, bevor Sie bezahlen.",
-        "Rechnen Sie an Ihrer Adresse zuerst ohne die Prämie. Bei unserer Empfehlung zeigt die Bestellung die Prämie, die nach den Regeln des Programms gutgeschrieben wird. Mehr auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink)."
+        "Der Tarif mit 200 Mbit/s fehlt in vielen Vergleichen: Mit 27,50 € in den ersten Monaten liegt er 10 € über dem 100er und bringt das Kit Standard 4 zur Miete mit. Rechnen Sie Ihre Kosten nicht mit dem Aktionspreis, sondern auch mit dem Normalpreis nach den 3 Monaten: Aus 17,50 € werden 35 €.",
+        "Rechnen Sie an Ihrer Adresse zuerst ohne die Prämie. Über unseren Empfehlungslink erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement als Gutschrift auf der Rechnung. Mehr auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink)."
       ],
       "links": [
         {
-          "label": "Tarife für Ihre Adresse ansehen",
+          "label": "Tarif und Kit für meine Adresse simulieren",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+        "alt": "Offizielle Starlink-Bestellseite für Berlin mit dem Tarif 100 Mbit/s für 17,50 € im Monat und Kit-Miete für 0 €",
+        "caption": "Bestellseite für Berlin, abgerufen am 23.11.2026: 100 Mbit/s für 17,50 € im Monat und Mietkit, das bei Kündigung zurückgeht.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.5909
+      }
     },
     {
       "heading": "Wo die Antenne stehen kann",
@@ -100,12 +179,38 @@
       }
     },
     {
-      "heading": "Wann Sie Glasfaser oder Mobilfunk vergleichen sollten",
+      "heading": "Mehr als der Preis: instabile Glasfaser, Ausfälle und Backup-Nutzung",
       "paragraphs": [
-        "Wenn schon stabile Glasfaser ankommt, vergleichen Sie die Summe aus Einrichtung, Monatspreisen und einer möglichen Mindestlaufzeit jedes Angebots. Rechnen Sie beim Mobilfunk das Gerät ein, das Sie brauchen, und prüfen Sie, ob das Datenvolumen für den Haushalt reicht."
+        "Nur die Monatsrechnung zu vergleichen greift zu kurz, wenn der günstige Festnetzanschluss an Ihrer Adresse jede Woche ausfällt oder nur einen Bruchteil des gebuchten Tempos liefert. Regionale Anbieter und überlastete Netze leiden oft unter durchtrennten Kabeln, Wartungen ohne Ankündigung und Verlangsamungen am Abend. Wer im Homeoffice arbeitet, Videokonferenzen führt oder auf Kameras und Smart Home angewiesen ist, spürt das stärker als ein paar Euro im Monat.",
+        "In unserem Fall haben wir Starlink als Alternative und Backup zu einer instabilen Glasfaser gebucht. Weil das Signal von Satelliten kommt, hängt es weder von den Kabeln in Ihrer Straße noch vom selben Anbieter ab: Starlink kann eine problematische Glasfaser ersetzen oder als Reserveweg dienen, wenn sie ausfällt.",
+        "Der Test ist risikoarm: Das Kit ist zur Miete für 0 € Vorauszahlung, die Bestellübersicht nennt einen monatlich kündbaren Vertrag, und Sie haben 30 Tage für die Rückgabe. Sie messen die echte Stabilität auf Ihrem Dach und behalten das Abo nur, wenn es das Problem löst. Wenn Sie stattdessen Mobilfunk-Internet als Backup erwägen, rechnen Sie den Router ein und prüfen Sie das Datenvolumen."
       ],
-      "emphasis": "Ohne stabile Glasfaser und ohne brauchbares Mobilfunknetz an der Adresse kommt Starlink in die engere Wahl; bei stabiler Glasfaser lohnt der Wechsel nur, wenn die Summe aus Kit, Einrichtung und Monatspreisen für die geplante Laufzeit unter den Kosten des bisherigen Anschlusses bleibt.",
-      "emphasisAfterParagraph": 1
+      "emphasis": "Läuft Ihre Glasfaser stabil und mit dem gebuchten Tempo, lohnt ein Wechsel allein wegen des Monatspreises selten; fallen lokale Anbieter häufig aus oder bremsen stark, zählt Starlink durch Zuverlässigkeit und Unabhängigkeit als Hauptleitung oder Backup.",
+      "emphasisAfterParagraph": 3,
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Offizielle Starlink-Antenne und Router, die als Hauptverbindung oder als Backup dienen können",
+        "caption": "Offizielle Starlink-Antenne mit Router, unabhängig von der Verkabelung des örtlichen Anbieters. Foto von Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "So nutzen Sie Starlink neben einer unzuverlässigen Glasfaser",
+      "paragraphs": [
+        "Dieser Teil ist eine allgemeine Orientierung, kein Bericht über unsere Installation. Es gibt zwei Wege, Starlink neben einer instabilen Glasfaser zu nutzen, vom einfachsten zum automatischen.",
+        "Stufe 1, ohne Zusatzkosten: Lassen Sie das Starlink-WLAN als zweites Netz laufen und wechseln Sie mit Handy oder Laptop darauf, wenn die Glasfaser mitten im Meeting ausfällt. Der Wechsel ist manuell und dauert Sekunden, aber Sie müssen den Ausfall bemerken und handeln.",
+        "Stufe 2, automatisch: Nutzen Sie einen Router mit Dual-WAN (oder Multi-WAN) und Failover. Die Glasfaser hängt an einem WAN-Port, Starlink am anderen, und der Router leitet den Verkehr zu Starlink um, sobald er den Ausfall der Glasfaser erkennt. Dafür wird Starlink meist über den Bypass-Modus der App an Ihren Router angeschlossen, sodass Ihr Router das Netz steuert. Fragen Sie den Starlink-Support, was Ihr Modell braucht, denn manche Kits verlangen einen Ethernet-Adapter.",
+        "Beim automatischen Wechsel können laufende Gespräche und VPNs für einige Sekunden neu verbinden, weil sich Ihre ausgehende Adresse ändert. Testen Sie das Failover, bevor Sie sich darauf verlassen: Trennen Sie die Glasfaser einige Minuten und prüfen Sie, ob Anrufe, Kameras und Remote-Arbeit von selbst zurückkehren."
+      ]
+    },
+    {
+      "heading": "Starkregen, Wind und Stromausfall",
+      "paragraphs": [
+        "Älteres Satelliten-Internet aus hoher Umlaufbahn hat eine Verzögerung von mehreren hundert Millisekunden, was Anrufe und Spiele stört. Starlink nutzt Satelliten in niedriger Umlaufbahn und nennt eine typische Spanne von 25 bis 60 ms an Land, eine Angabe des Unternehmens ohne Messung an unserer Adresse.",
+        "Sehr starker Regen, Schnee und Gewitter können die Leistung eine Weile senken, und Wind verlangt eine fest montierte Antenne. Vergleichen Sie das mit Glasfaser: Ein durchtrenntes Kabel in der Straße kann lange auf die Reparatur warten, und Starlink hängt nicht daran.",
+        "Ein Stromausfall ist ein weiterer Punkt: Antenne und Router von Starlink brauchen Strom, die Geräte der Glasfaser ebenso. Eine USV oder eine mobile Powerstation, passend zum Verbrauch aus den Starlink-Spezifikationen, hält die Verbindung bei kurzen Ausfällen am Laufen. Fällt der Strom im ganzen Viertel aus, kann auch das Straßennetz ausfallen, testen Sie den Aufbau also vorher."
+      ]
     },
     {
       "heading": "Geschwindigkeit und Spiele",
@@ -123,7 +228,15 @@
     {
       "heading": "Kit-Miete und Ausstieg",
       "paragraphs": [
-        "Das Kit ist gemietet und geht bei Kündigung zurück. Die Bestellseite nennt die Erstattung von Kit und erstem Monat bei Kündigung und Rückgabe innerhalb von 30 Tagen. Der [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen) erklärt die Rückgabe Schritt für Schritt."
+        "Das Kit ist gemietet und geht bei Kündigung zurück. Die Bestellübersicht sagt ausdrücklich: Der Vertrag verlängert sich automatisch von Monat zu Monat auf unbestimmte Zeit, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Die Bestellseite nennt die Erstattung von Kit und erstem Monat bei Kündigung und Rückgabe innerhalb von 30 Tagen.",
+        "Die Bestellung zu öffnen kostet nichts: Preise, Rabatte und Verfügbarkeit erscheinen erst, wenn Sie Ihre Adresse auf starlink.com eingeben. Die Empfehlung zählt nur, wenn die Bestellung über einen Empfehlungslink läuft, vor dem Bezahlen, auf starlink.com und nicht auf einem Marktplatz. Der [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen) erklärt die Rückgabe Schritt für Schritt."
+      ],
+      "links": [
+        {
+          "label": "An meiner Adresse testen mit 30 Tagen Rückgabe",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -136,34 +249,36 @@
       "heading": "Häufige Fragen",
       "bullets": [
         "Hat Starlink einen Rabattgutschein? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
-        "Lohnt sich Starlink in der Stadt? Bei stabiler Glasfaser an der Adresse vergleichen Sie Einrichtung, Monatspreise und Laufzeit, bevor Sie wechseln.",
-        "Ist Starlink besser als Glasfaser? Ohne gute Glasfaser vor Ort lohnt es sich, Starlink für die Adresse zu prüfen, samt freier Sicht zum Himmel. Sind beide verfügbar, vergleichen Sie Stabilität und Kosten an Ihrer Adresse.",
+        "Lohnt sich Starlink in der Stadt? Das hängt davon ab, wie gut Ihre jetzige Glasfaser wirklich ist. Ist sie günstig und stabil, gewinnt sie meist bei den Kosten. Fällt sie oft aus oder liefert deutlich weniger als gebucht, kann sich Starlink als Alternative oder Backup lohnen, sofern der Himmel frei ist. So war es bei uns.",
+        "Ist Starlink besser als Glasfaser? Bei Spitzentempo und Latenz hat gesunde Glasfaser meist die Nase vorn. Bei der Ausfallsicherheit gegen lokale Störungen und durchtrennte Kabel hilft Starlink, weil es ein vom örtlichen Anbieter unabhängiger Weg ist.",
         "Ist Starlink gut zum Spielen? Testen Sie Reaktionszeit und Unterbrechungen an Ihrer Adresse. Die typische Spanne, die Starlink nennt, ist ein allgemeiner Richtwert.",
-        "Wie viel kostet Starlink im Monat? Die Bestellseite für Berlin zeigte im Aktionszeitraum 17,50 € für 100 Mbit/s, 27,50 € für 200 Mbit/s und 37,50 € für den Max. Der Preis hängt von der Adresse ab.",
-        "Muss ich das Kit kaufen? Die Bestellseite zeigte das Kit zur Miete, ohne Vorauszahlung. Bei Kündigung muss es zurückgeschickt werden."
+        "Ist Starlink unbegrenzt? Starlink bewirbt unbegrenztes Datenvolumen bei den Tarifen für Privathaushalte. Prüfen Sie in der Bestellung die Geschwindigkeitsgrenzen des angezeigten Tarifs.",
+        "Wie viel kostet Starlink im Monat? Die Bestellseite für Berlin zeigte in den ersten 3 Monaten 17,50 € für 100 Mbit/s, 27,50 € für 200 Mbit/s und 37,50 € für den Max; danach gelten 35 €, 55 € und 75 €. Der Preis hängt von der Adresse ab.",
+        "Kann ich Starlink als Backup für meine Glasfaser nutzen? Ja. Mit einem Dual-WAN-Router mit Failover übernimmt Starlink, wenn die Glasfaser ausfällt; ohne ihn wechseln Sie das Netz von Hand. Fragen Sie den Starlink-Support, was Ihr Modell für den Bypass-Modus braucht."
       ]
     }
   ],
   "decision": {
     "takeIf": [
       "an Ihrer Adresse kommt keine brauchbare Glasfaser an, und auch das Mobilfunknetz ist schwach.",
-      "Sie wollen das Kit mieten und prüfen vor dem Bezahlen, welcher Preis nach den Aktionsmonaten gilt."
+      "selbst dort, wo günstige Glasfaser liegt, fällt Ihr Netz oft aus oder liefert deutlich weniger als gebucht, und Sie brauchen eine zuverlässige Alternative oder ein Backup.",
+      "Sie haben die Sicht zum Himmel in der Starlink-App geprüft und akzeptieren ein Mietkit, das bei Kündigung zurückgeht."
     ],
     "skipIf": [
-      "bei Ihnen liegt bereits ein stabiler Glasfaseranschluss, und Sie brauchen kein Kit.",
-      "Sie spielen online mit sehr kurzer Reaktionszeit, und Starlink nennt dafür nur eine typische Spanne, keine Messung an Ihrer Adresse."
+      "Sie haben bereits eine wirklich stabile Glasfaser mit dem gebuchten Tempo und ohne häufige Ausfälle, die Redundanz verlangen.",
+      "Sie spielen online im Wettbewerb und brauchen eine garantierte minimale Latenz: Starlink nennt eine typische Spanne, aber keine Zahl für Ihre Adresse."
     ]
   },
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Geben Sie Ihre Adresse auf der Starlink-Seite ein und prüfen Sie Tarif, Kit und Monatspreis, bevor Sie bezahlen.",
-    "label": "Tarife für meine Adresse ansehen",
+    "text": "Sie zahlen denselben Preis wie auf der offiziellen Seite, behalten die 30 Tage für die Rückgabe des Kits, falls es auf Ihrem Dach nicht funktioniert, und erhalten die Prämie des Empfehlungsprogramms, sobald die Regeln erfüllt sind.",
+    "label": "Meine Adresse auf starlink.com mit Empfehlung ansehen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Preise von der Bestellseite der offiziellen Website gelesen, ohne den Kauf abzuschließen. Wir haben den Dienst noch nicht genutzt. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+  "editorialNote": "Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Preise und Hardware-Bedingungen in diesem Ratgeber wurden auf den öffentlichen Bestellseiten der offiziellen Website gelesen. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
   "relatedArticles": [
     {
       "slug": "starlink-vertrag-kuendigen"

@@ -87,6 +87,36 @@
           ]
         ],
         "caption": "Trustpilot, starlink.com profile, read on November 23, 2026."
+      },
+      "metrics": {
+        "items": [
+          {
+            "label": "TrustScore",
+            "value": "1.6",
+            "unit": "/5",
+            "note": "Unclaimed profile"
+          },
+          {
+            "label": "Total reviews",
+            "value": "879",
+            "note": "Organic only"
+          },
+          {
+            "label": "Company replies",
+            "value": "0%",
+            "note": "0 of 464 negative"
+          },
+          {
+            "label": "1-star vs 5-star",
+            "value": "71%",
+            "unit": "vs 17%",
+            "note": "Support and billing lead"
+          }
+        ],
+        "summary": {
+          "badge": "Reading the gap",
+          "text": "Praise focuses on speed and signal stability; complaints concentrate on automated support, billing and price changes."
+        }
       }
     },
     {
@@ -136,15 +166,32 @@
       "heading": "What this means if you subscribe",
       "paragraphs": [
         "Before you pay, check the plan, the kit (rental or purchase), the tax and the contract on starlink.com for your own address: they change by country and even by address. Save a screenshot of the offer from the day you ordered and compare each invoice with it.",
+        "The simplest protection is to order directly on starlink.com and save the order summary screen, with the price, the kit, the contract terms and the referral applied. Then compare your first invoice with that screenshot. A referral only counts on an order opened through a referral link, before you pay, and it cannot be added afterwards.",
         "The rental kit and return rules are in the [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund)."
       ],
-      "image": {
-        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-        "alt": "Starlink dish attached to the roof of a wooden house",
-        "caption": "Residential dish installed. Photo from Starlink.",
-        "objectFit": "contain",
-        "aspectRatio": 1.8079
-      }
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "alt": "Starlink plans screen for Nevada, United States: Residential 100 Mbps at $38.50 a month, with the V5 dish and Router Mini at $0 as a rental",
+          "caption": "Nevada, 100 Mbps plan: monthly price, the $0 rental kit and the note to return the rented hardware. The kind of screen worth saving. Read on November 23, 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7159
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Starlink dish attached to the roof of a wooden house",
+          "caption": "Residential dish installed. Photo from Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      ],
+      "links": [
+        {
+          "label": "Open the official order on starlink.com and check my area",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "How to raise a problem",
@@ -156,15 +203,32 @@
           "label": "Starlink profile on Trustpilot",
           "href": "https://www.trustpilot.com/review/starlink.com"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standard kit parts: dish, router, stand and cables",
+          "caption": "Starlink Standard kit: dish, router, stand and cables. Photo from Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ]
     },
     {
       "heading": "Before you subscribe",
       "paragraphs": [
         "Before you subscribe, check the site and the terms. How to recognize the official site and the look-alike profiles is in [is Starlink legit?](/en/reviews/is-starlink-legit).",
+        "Opening the order commits you to nothing: plan, price, availability and contract terms only show after you enter your address. Starlink’s 30-day policy describes a refund if you cancel and return the kit undamaged within that window, as stated on your order; on a subsidized kit with a contract, check whether a fee applies after the 30 days.",
         "The [Starlink referral](/en/coupons/starlink) page has the link and the program rules. A referral is not a coupon: the reward arrives as a bill credit after two months of subscription, and the Priority, Enterprise and Commercial plans do not earn it."
       ],
-      "emphasis": "On the numbers in the table, for anyone who has no good internet option at their address, subscribing is reasonable once plan, kit, tax and contract are checked on starlink.com for that address, because the 1.6 reflects support, billing and price complaints more than signal quality."
+      "emphasis": "On the numbers in the table, for anyone who has no good internet option at their address, subscribing is reasonable once plan, kit, tax and contract are checked on starlink.com for that address, because the 1.6 reflects support, billing and price complaints more than signal quality.",
+      "links": [
+        {
+          "label": "Check availability at my address on starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Frequently asked questions",
@@ -203,8 +267,8 @@
     ]
   },
   "cta": {
-    "text": "Enter your address on the Starlink site and check plan, kit and monthly price before paying.",
-    "label": "See plans for your address",
+    "text": "Open the order through the referral link, check plan, kit and contract for your address and save the summary screen before paying. The price is the one on the official site.",
+    "label": "Open my order on starlink.com",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

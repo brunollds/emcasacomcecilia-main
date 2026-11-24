@@ -3,8 +3,8 @@
   "slug": "starlink-engagement-resilier",
   "translationKey": "starlink-fidelidade",
   "locale": "fr",
-  "title": "Starlink a-t-il un engagement ? Kit loué, résiliation et les 30 jours pour le renvoyer",
-  "seoTitle": "Starlink : engagement, résiliation et retour du kit",
+  "title": "Starlink a-t-il un engagement ? Kit loué sans durée fixe, résiliation et les 30 jours pour le renvoyer",
+  "seoTitle": "Starlink : engagement, résiliation et retour du kit",
   "type": "Guide pratique",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Le kit Starlink est loué et doit être renvoyé si vous annulez. Voyez comment résilier depuis le compte, la date limite de facturation et les 30 jours pour être remboursé.",
-  "metaDescription": "Starlink : kit loué à renvoyer en cas d'annulation, remboursement du kit et du premier mois sous 30 jours, et comment résilier depuis votre compte.",
+  "description": "À Paris, le kit Starlink est loué à 0 €, sans durée minimale, et doit être renvoyé si vous annulez. Voyez les trois forfaits, les 30 jours et comment résilier.",
+  "metaDescription": "Starlink à Paris : kit loué à 0 €, pas de durée fixe, à renvoyer en cas d'annulation, remboursement sous 30 jours et résiliation depuis le compte.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,22 +31,82 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Sur la commande lue pour une adresse à Paris, le matériel Starlink est loué : 0 € au départ, 0 € par mois, à renvoyer si vous annulez le service. La commande prévoit le remboursement intégral du kit et du premier mois si vous annulez et renvoyez le kit en bon état dans les 30 jours. Nous n'avons relevé ni durée d'engagement ni frais de résiliation dans ce que nous avons lu, alors cherchez-les dans le récapitulatif de votre commande."
+        "Sur la commande lue pour une adresse à Paris, Starlink n'impose pas de durée minimale : le matériel est loué, à 0 € au départ et 0 € par mois, et il faut le renvoyer si vous annulez le service. La commande prévoit le remboursement du kit et du premier mois si vous annulez et renvoyez le matériel en bon état dans les 30 jours. Les prix affichés n'ont pas de durée fixe, et Starlink peut les modifier avec un préavis de 30 jours."
       ]
     },
     {
-      "heading": "Ce que dit la commande",
+      "heading": "Paris : trois forfaits, un seul modèle de location",
       "paragraphs": [
-        "Sur la page de commande que nous avons lue le 20 novembre 2026, le matériel apparaît comme loué. La ligne du kit indique un coût initial de 0 € et des frais mensuels de 0 €, avec l'obligation de retourner le matériel si vous annulez.",
-        "Nous n'avons pas relevé de durée d'engagement ni de pénalité de sortie sur cette page. Cela ne vaut que pour ce que nous avons lu, et la condition de votre commande peut différer : relisez le récapitulatif avant de confirmer."
+        "Sur la page de commande lue le 23 novembre 2026 pour une adresse à Paris, les trois forfaits résidentiels utilisent du matériel loué à 0 €, sans frais mensuels de kit. Le 100 Mbit/s coûtait 24,50 € par mois (35 € moins 30 % de remise, jusqu'à la fin novembre) avec un Mini X ; le 200 Mbit/s, 31,50 € (45 € de base) avec un Standard 4 ; le Max, 45,50 € (65 € de base), lui aussi avec un Standard 4.",
+        "La livraison coûtait 19 € ce jour-là. L'installation professionnelle est facultative : 172 € sur le 100 et le 200 Mbit/s, 0 € sur le Max. Le récapitulatif indique le prix mensuel de 35 € moins 10,50 € de remise, le Mini X loué à 0 € et 19 € à payer aujourd'hui.",
+        "La FAQ du récapitulatif précise que le prix mensuel affiché n'a pas de durée fixe et que Starlink peut modifier ses prix avec un préavis de 30 jours. Nous n'avons relevé aucun frais de résiliation ni durée minimale sur cette page."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "alt": "Page des forfaits Starlink à Paris avec le 100 Mbit/s à 24,50 € par mois, le matériel loué à 0 € et la mention de renvoyer le matériel loué",
+          "caption": "Paris, consulté le 23/11/2026 : 100 Mbit/s à 24,50 € par mois et matériel loué à 0 €.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5909
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+          "alt": "Récapitulatif de commande Starlink à Paris avec 35 € moins 10,50 €, le Mini X loué à 0 € et 19 € à payer aujourd'hui",
+          "caption": "Récapitulatif à Paris, consulté le 23/11/2026 : 35 € moins 10,50 €, Mini X à 0 € et 19 € aujourd'hui.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.6625
+        }
+      ],
+      "links": [
+        {
+          "label": "Voir les forfaits et l'engagement à mon adresse",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
+    },
+    {
+      "heading": "Les trois forfaits à Paris en un coup d'œil",
+      "paragraphs": [
+        "Le tableau reprend ce que la page de commande affichait pour cette adresse. Votre adresse peut afficher autre chose."
+      ],
+      "comparisonTable": {
+        "caption": "Valeurs lues sur la commande ; la remise de 30 % allait jusqu'à la fin novembre.",
+        "headers": [
+          "Forfait",
+          "Par mois (prix de base)",
+          "Matériel loué",
+          "Installation professionnelle"
+        ],
+        "rows": [
+          [
+            "100 Mbit/s",
+            "24,50 € (35 €)",
+            "Mini X à 0 €",
+            "172 €, facultative"
+          ],
+          [
+            "200 Mbit/s",
+            "31,50 € (45 €)",
+            "Standard 4 à 0 €",
+            "172 €, facultative"
+          ],
+          [
+            "Max",
+            "45,50 € (65 €)",
+            "Standard 4 à 0 €",
+            "0 €"
+          ]
+        ]
+      }
     },
     {
       "heading": "Les 30 jours pour renvoyer",
       "paragraphs": [
         "Pour demander le remboursement du kit et du premier mois dans les conditions de l'offre, annulez le service et renvoyez le matériel en bon état dans les 30 jours.",
         "Annuler l'abonnement arrête les prélèvements à venir selon le cycle. Avec le support de Starlink, vérifiez comment lancer aussi le retour du kit et gardez la preuve d'expédition.",
-        "Le [lien de parrainage Starlink](/fr/coupons/starlink) ouvre la même commande sur le site officiel. Vérifiez la politique de retour sur le récapitulatif avant de payer."
+        "Le [lien de parrainage Starlink](/fr/coupons/starlink) ouvre la même commande sur le site officiel. Vérifiez la politique de retour sur le récapitulatif avant de payer.",
+        "La location n'est pas universelle : dans d'autres pays, comme le Brésil ou le Mexique, le kit s'achète, et un kit subventionné peut s'accompagner d'une durée de 12 mois et de frais de résiliation. Seul le récapitulatif de votre adresse fait foi."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
@@ -55,7 +115,14 @@
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
-      "emphasis": "D'après les conditions de la commande, annuler et renvoyer le kit en bon état dans les 30 jours est ce qui ouvre le remboursement du kit et du premier mois, et la preuve d'expédition fait foi."
+      "emphasis": "D'après les conditions de la commande, annuler et renvoyer le kit en bon état dans les 30 jours est ce qui ouvre le remboursement du kit et du premier mois, et la preuve d'expédition fait foi.",
+      "links": [
+        {
+          "label": "Voir les forfaits avec 30 jours de remboursement sur starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Comment résilier",
@@ -83,6 +150,28 @@
       ]
     },
     {
+      "heading": "Prix promotionnel et changement de forfait",
+      "paragraphs": [
+        "Les prix lus étaient remisés de 30 % sur le tarif mensuel jusqu'à la fin novembre. Comme la FAQ de la commande le dit, le prix mensuel n'a pas de durée fixe. Annuler ou changer de forfait peut aussi mettre fin à un prix promotionnel : lisez les conditions de votre commande avant de modifier quoi que ce soit."
+      ]
+    },
+    {
+      "heading": "Avant de payer : vérifiez votre commande",
+      "paragraphs": [
+        "Le parrainage ne compte que si la commande part d'un lien de parrainage, ouvert avant le paiement et sur starlink.com. Une fois payé, ou sur une place de marché, il est impossible de l'ajouter. Ouvrir le lien n'engage à rien : votre adresse montre quel modèle s'applique, et les 30 jours couvrent l'essai. Le crédit arrive sur la facture après deux mois d'abonnement et ne réduit pas le prix du kit."
+      ],
+      "checklist": {
+        "title": "Avant de payer",
+        "items": [
+          "J'ai ouvert la commande depuis le lien de parrainage, dans la même fenêtre, avant de payer.",
+          "J'ai vérifié que la barre du navigateur reste sur starlink.com avant de saisir la moindre donnée.",
+          "J'ai lancé le test d'obstruction dans l'application Starlink à l'endroit prévu pour l'antenne.",
+          "J'ai lu dans le récapitulatif la ligne du matériel, le prix mensuel et toute mention d'une durée minimale.",
+          "J'ai enregistré une capture du récapitulatif avec le prix mensuel et la règle des 30 jours avant de payer."
+        ]
+      }
+    },
+    {
       "heading": "Si le prélèvement continue",
       "paragraphs": [
         "Si la facturation continue, ouvrez une demande auprès de Starlink avec le numéro de commande, la date de l'annulation et le numéro de dossier, s'il y en a un. Voyez aussi [ce que disent les avis sur Trustpilot](/fr/reviews/starlink-trustpilot-avis). Si vous ne reconnaissez pas la transaction, contactez aussi l'émetteur de votre carte ou votre banque."
@@ -92,11 +181,12 @@
       "heading": "Questions fréquentes",
       "bullets": [
         "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d'abonnement, en crédit sur la facture, et le parrain reçoit le même montant.",
-        "Starlink a-t-il un engagement ? Sur la commande lue pour une adresse à Paris, nous n'avons relevé aucune durée d'engagement. Vérifiez le récapitulatif de votre commande avant de payer.",
-        "Faut-il renvoyer le matériel Starlink ? Oui. Le kit est loué, et la commande demande de le retourner si vous annulez le service.",
-        "Peut-on annuler Starlink à tout moment ? La demande se fait depuis le compte. Pour éviter un nouveau cycle, faites-la avant 00 h 00 UTC le jour de facturation.",
-        "Peut-on rendre Starlink sous 30 jours ? La commande prévoit le remboursement du kit et du premier mois si le service est annulé et le kit renvoyé en bon état dans les 30 jours.",
-        "Que se passe-t-il à la date de fin du service ? Le service reste actif jusqu'à la fin de la période déjà payée."
+        "Starlink a-t-il un engagement ? Sur la commande lue pour une adresse à Paris, non : le kit est loué, sans durée minimale ni frais de résiliation relevés. Dans d'autres pays, un kit subventionné peut imposer 12 mois. Vérifiez le récapitulatif de votre commande avant de payer.",
+        "Faut-il renvoyer le matériel Starlink ? Oui. Le kit est loué, et la commande demande de le retourner si vous annulez le service.",
+        "Combien coûte la résiliation de Starlink ? Nous n'avons relevé aucun frais de résiliation sur la commande de Paris. Le matériel loué doit être renvoyé.",
+        "Peut-on annuler Starlink à tout moment ? La demande se fait depuis le compte. Pour éviter un nouveau cycle, faites-la avant 00 h 00 UTC le jour de facturation.",
+        "Le prix promotionnel reste-t-il le même indéfiniment ? Non : la commande précise que le prix mensuel n'a pas de durée fixe et que Starlink peut le modifier avec un préavis de 30 jours.",
+        "Peut-on rendre Starlink sous 30 jours ? La commande prévoit le remboursement du kit et du premier mois si le service est annulé et le kit renvoyé en bon état dans les 30 jours."
       ]
     }
   ],
@@ -117,7 +207,7 @@
   ],
   "decision": {
     "takeIf": [
-      "vous pouvez renvoyer le kit loué en bon état dans les 30 jours si vous annulez.",
+      "vous pouvez renvoyer le kit loué en bon état dans les 30 jours si vous annulez, et vous voulez éviter une durée minimale.",
       "vous lirez les conditions sur le récapitulatif de votre propre commande avant de payer."
     ],
     "skipIf": [
@@ -126,8 +216,8 @@
     ]
   },
   "cta": {
-    "text": "La commande s'ouvre sur le site de Starlink. Vérifiez l'engagement, les frais et le retour du kit avant de payer.",
-    "label": "Consulter les conditions à mon adresse",
+    "text": "La commande s'ouvre sur starlink.com avec le lien de parrainage, qui doit venir avant le paiement. Vous payez le même prix que sur le site, vous voyez l'engagement de votre adresse et vous gardez les 30 jours pour renvoyer le kit. Le crédit arrive après deux mois d'abonnement.",
+    "label": "Consulter l'engagement et le forfait à mon adresse",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

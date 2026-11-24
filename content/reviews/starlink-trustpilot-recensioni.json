@@ -87,6 +87,36 @@
           ]
         ],
         "caption": "Trustpilot, profilo di starlink.com, letto il 23 novembre 2026."
+      },
+      "metrics": {
+        "items": [
+          {
+            "label": "TrustScore",
+            "value": "1,6",
+            "unit": "/5",
+            "note": "Profilo non rivendicato"
+          },
+          {
+            "label": "Recensioni totali",
+            "value": "879",
+            "note": "Solo organiche"
+          },
+          {
+            "label": "Risposte dell’azienda",
+            "value": "0%",
+            "note": "0 su 464 negative"
+          },
+          {
+            "label": "1 stella vs 5 stelle",
+            "value": "71%",
+            "unit": "vs 17%",
+            "note": "Assistenza e fatturazione in testa"
+          }
+        ],
+        "summary": {
+          "badge": "Leggere il divario",
+          "text": "Gli elogi riguardano velocità e stabilità del segnale; le lamentele si concentrano su assistenza automatizzata, fatturazione e cambi di prezzo."
+        }
       }
     },
     {
@@ -136,15 +166,32 @@
       "heading": "Cosa significa per chi si abbona",
       "paragraphs": [
         "Prima di pagare, controlla piano, kit (noleggio o acquisto), imposte e contratto su starlink.com per il tuo indirizzo: cambiano da paese a paese e anche da indirizzo a indirizzo. Conserva uno screenshot dell’offerta del giorno dell’ordine e confronta ogni fattura con quello.",
+        "La difesa più semplice è ordinare direttamente su starlink.com e salvare lo screenshot del riepilogo dell’ordine, con prezzo, kit, contratto e invito applicato. Poi confronta la prima fattura con quello screenshot. L’invito conta solo sull’ordine aperto da un link di invito, prima di pagare, e non si può aggiungere dopo.",
         "Le regole sul kit in noleggio e sulla restituzione sono nella [guida a contratto, disdetta e rimborso](/it/reviews/starlink-contratto-disdetta)."
       ],
-      "image": {
-        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-        "alt": "Antenna Starlink fissata al tetto di una casa di legno",
-        "caption": "Antenna residenziale installata. Foto di Starlink.",
-        "objectFit": "contain",
-        "aspectRatio": 1.8079
-      }
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "alt": "Schermata dei piani Starlink per Milano: 100 Mbps a 17,50 € al mese, con il kit a noleggio a 0 €",
+          "caption": "Milano, piano 100 Mbps: canone mensile, kit a noleggio a 0 € e l’avviso di restituire il kit a noleggio. Il tipo di schermata da conservare. Consultazione del 23 novembre 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.6065
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Antenna Starlink fissata al tetto di una casa di legno",
+          "caption": "Antenna residenziale installata. Foto di Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      ],
+      "links": [
+        {
+          "label": "Apri l’ordine ufficiale su starlink.com e controlla la mia zona",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Come segnalare un problema",
@@ -156,15 +203,32 @@
           "label": "Profilo Starlink su Trustpilot",
           "href": "https://www.trustpilot.com/review/starlink.com"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Componenti del kit Starlink Standard: antenna, router, base e cavi",
+          "caption": "Kit Starlink Standard: antenna, router, base e cavi. Foto di Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ]
     },
     {
       "heading": "Prima di abbonarti",
       "paragraphs": [
         "Prima di abbonarti, controlla il sito e le condizioni. Come riconoscere il sito ufficiale e i profili con nomi simili è spiegato in [Starlink è affidabile?](/it/reviews/starlink-e-affidabile).",
+        "Aprire l’ordine non ti impegna a nulla: piano, prezzo, disponibilità e condizioni del contratto compaiono solo dopo che inserisci il tuo indirizzo. La politica dei 30 giorni di Starlink prevede un rimborso se disdici e restituisci il kit senza danni entro quel termine, come indicato nel tuo ordine; su un kit agevolato con contratto, verifica se dopo i 30 giorni c’è una penale.",
         "La pagina dell’[invito Starlink](/it/coupons/starlink) contiene il link e le regole del programma. Un invito non è un coupon: il premio arriva come credito in fattura dopo due mesi di abbonamento, e i piani Priority, Enterprise e Commercial non lo ricevono."
       ],
-      "emphasis": "Secondo i numeri della tabella, per chi non ha una buona alternativa internet al proprio indirizzo, abbonarsi è ragionevole dopo aver controllato piano, kit, imposte e contratto su starlink.com per quell’indirizzo, perché l’1,6 riflette lamentele su assistenza, fatturazione e prezzo più che sulla qualità del segnale."
+      "emphasis": "Secondo i numeri della tabella, per chi non ha una buona alternativa internet al proprio indirizzo, abbonarsi è ragionevole dopo aver controllato piano, kit, imposte e contratto su starlink.com per quell’indirizzo, perché l’1,6 riflette lamentele su assistenza, fatturazione e prezzo più che sulla qualità del segnale.",
+      "links": [
+        {
+          "label": "Verifica la disponibilità al mio indirizzo su starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Domande frequenti",
@@ -203,8 +267,8 @@
     ]
   },
   "cta": {
-    "text": "Inserisci il tuo indirizzo sul sito di Starlink e controlla piano, kit e canone mensile prima di pagare.",
-    "label": "Vedi i piani al tuo indirizzo",
+    "text": "Apri l’ordine con il link di invito, controlla piano, kit e contratto al tuo indirizzo e salva lo screenshot del riepilogo prima di pagare. Il prezzo è quello del sito ufficiale.",
+    "label": "Apri il mio ordine su starlink.com",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

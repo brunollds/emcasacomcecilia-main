@@ -3,8 +3,8 @@
   "slug": "starlink-black-friday-offerta",
   "translationKey": "starlink-black-friday",
   "locale": "it",
-  "title": "Black Friday Starlink 2026 in Italia: 50% per 3 mesi e la ricompensa dell'invito",
-  "seoTitle": "Black Friday Starlink 2026: 50% per 3 mesi",
+  "title": "Black Friday Starlink 2026 in Italia: 50% per 3 mesi, kit a noleggio a 0 € e 45 € di invito",
+  "seoTitle": "Black Friday Starlink 2026: 17,50 € al mese e kit a 0 €",
   "type": "Guida al Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Milano l'ordine Starlink mostrava il 50% di sconto per 3 mesi, kit a noleggio a 0 € e 19 € da pagare oggi. Vedi come l'invito entra nei conti e come controllare il tuo indirizzo.",
-  "metaDescription": "Starlink Black Friday: 50% di sconto sui piani per 3 mesi, kit a noleggio a 0 € e offerta fino al 30 novembre. Controlla il tuo indirizzo e l'invito.",
+  "description": "A Milano l'ordine Starlink mostrava il 100 Mbps a 17,50 € al mese per 3 mesi e il kit a noleggio a 0 €. Vedi i tre piani, i 45 € dell'invito e come controllare il tuo indirizzo.",
+  "metaDescription": "Starlink Black Friday: 50% di sconto sui piani per 3 mesi, kit a noleggio a 0 € e 45 € di invito in Italia. Controlla il tuo indirizzo.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,66 +31,125 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Nell'ordine consultato a Milano, Starlink mostrava il 50% di sconto per 3 mesi e il kit a noleggio a 0 €. La pagina riportava «Nessun contratto» e il kit va restituito se disdici. Controlla le condizioni per il tuo indirizzo e verifica se l'invito risulta idoneo."
+        "A Milano l'ordine Starlink mostrava il 50% di sconto per 3 mesi, con iscrizione entro il 30 novembre: 100 Mbps a 17,50 € al mese, 200 Mbps a 22,50 € e Max a 32,50 €, con il kit a noleggio a 0 € e 19 € da pagare oggi. La pagina riportava «Nessun contratto» e una prova di 30 giorni. I 45 € dell'invito in Italia contano solo se apri l'ordine da un link di invito prima di pagare, e arrivano dopo due cicli mensili pagati."
       ]
     },
     {
-      "heading": "Quanto paghi e quando entra la ricompensa",
+      "heading": "I tre piani a Milano: prezzo in offerta e prezzo pieno",
       "paragraphs": [
-        "Il 20 novembre 2026 abbiamo letto l'ordine per un indirizzo di Milano, in piazza del Duomo, senza completare l'acquisto. Il Residenziale 100 Mbps compariva a 17,50 € al mese con il 50% di sconto per 3 mesi, per un totale di 52,50 € di canone promozionale. Il totale da pagare oggi era di 19 €.",
-        "Il kit si prende a noleggio, con 0 € iniziali e 0 € al mese, e va restituito se annulli il servizio. Il valore della ricompensa dell'invito dipende dal paese e compare nel tuo account. L'importo italiano non l'abbiamo letto, quindi non calcoliamo un totale finale. Quando lo conosci, sottrailo a quello che paghi. Solo con quel conto davanti si può dire se il primo periodo costa quasi nulla."
+        "Il 23 novembre 2026 abbiamo letto l'ordine per un indirizzo di Milano, in piazza del Duomo, senza completare l'acquisto. Il Residenziale 100 Mbps costava 17,50 € al mese invece di 35 €, il 200 Mbps 22,50 € invece di 45 € e il Max 32,50 € invece di 65 €, per 3 mesi. Il kit è a noleggio, con 0 € iniziali e 0 € al mese, e i 19 € da pagare oggi sono la spedizione.",
+        "L'installazione professionale è facoltativa a 172 € sul 100 e sul 200 Mbps e gratuita sul Max. Il bonus dell'invito in Italia è di 45 €, accreditato in fattura dopo due cicli mensili completi: sono più di due mesi e mezzo del 100 Mbps in offerta, e non riducono il prezzo del kit."
       ],
       "comparisonTable": {
         "headers": [
           "Ordine a Milano",
-          "Valore letto"
+          "Al mese per 3 mesi",
+          "Al mese dopo"
         ],
         "rows": [
           [
-            "Sconto sui piani",
-            "50% per 3 mesi"
+            "Residenziale 100 Mbps",
+            "17,50 €",
+            "35 €"
           ],
           [
-            "Residenziale 100 Mbps al mese, con l'offerta",
-            "17,50 €"
+            "Residenziale 200 Mbps",
+            "22,50 €",
+            "45 €"
           ],
           [
-            "Max al mese, prezzo mostrato nell'ordine",
-            "32,50 €"
+            "Max",
+            "32,50 €",
+            "65 €"
           ],
           [
-            "Kit a noleggio",
-            "0 € iniziali, 0 € al mese"
+            "Kit a noleggio, iniziale e al mese",
+            "0 € e 0 €",
+            "0 € e 0 €"
           ],
           [
-            "Installazione professionale (100 Mbps)",
-            "172 €, facoltativa"
-          ],
-          [
-            "Installazione professionale (Max)",
-            "Gratuita"
-          ],
-          [
-            "Totale da pagare oggi",
+            "Totale da pagare oggi (spedizione)",
+            "19 €",
             "19 €"
           ]
         ],
-        "caption": "Valori dell'ordine letto a Milano. Il prezzo dopo i 3 mesi non compariva nella pagina che abbiamo letto."
+        "caption": "Prezzi dell'ordine letto a Milano il 23 novembre 2026. Lo sconto vale per chi ordina entro il 30 novembre e dura 3 mesi."
+      },
+      "simulator": {
+        "title": "Simulatore rapido: Milano",
+        "scenarios": [
+          {
+            "label": "100 Mbps con il link",
+            "lines": [
+              {
+                "label": "Piano con il 50% per 3 mesi",
+                "value": "17,50 € al mese"
+              },
+              {
+                "label": "Kit a noleggio",
+                "value": "0 € iniziali, 0 € al mese"
+              },
+              {
+                "label": "Bonus dell'invito dopo due cicli pagati",
+                "value": "-45 € in fattura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Da pagare oggi (spedizione)",
+            "totalValue": "19 €",
+            "note": "Le prime bollette le paghi tu. Il bonus arriva dopo due cicli mensili completi."
+          },
+          {
+            "label": "200 Mbps con il link",
+            "lines": [
+              {
+                "label": "Piano con il 50% per 3 mesi",
+                "value": "22,50 € al mese"
+              },
+              {
+                "label": "Kit a noleggio",
+                "value": "0 € iniziali, 0 € al mese"
+              },
+              {
+                "label": "Bonus dell'invito dopo due cicli pagati",
+                "value": "-45 € in fattura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Da pagare oggi (spedizione)",
+            "totalValue": "19 €",
+            "note": "L'installazione professionale è facoltativa e costa 172 €."
+          },
+          {
+            "label": "Senza il link di invito",
+            "lines": [
+              {
+                "label": "Prezzo del piano e del kit",
+                "value": "Lo stesso del link"
+              },
+              {
+                "label": "Bonus dell'invito",
+                "value": "0 €"
+              },
+              {
+                "label": "Quello che perdi",
+                "value": "45 €",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Bonus ricevuto",
+            "totalValue": "0 €",
+            "note": "L'invito conta solo se l'ordine parte da un link di invito, prima del pagamento."
+          }
+        ]
       },
       "postParagraphs": [
-        "Per ricevere la ricompensa, l'invito deve essere idoneo e il servizio deve restare attivo e in regola per due cicli mensili completi. Starlink offre credito in fattura e, secondo l'account, pagamento in denaro."
+        "Dopo i 3 mesi il canone sale al prezzo pieno: 35 € per il 100 Mbps, 45 € per il 200 Mbps e 65 € per il Max. Chi pensa di restare più di un trimestre deve fare il conto con questi valori."
       ],
-      "image": {
-        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
-        "alt": "Componenti del kit Starlink Standard: antenna, router, base e cavi",
-        "caption": "Il kit a noleggio: antenna, router, base e cavi. Foto di Starlink.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
-      "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese con lo sconto di 3 mesi, e la ricompensa dell'invito arriva solo dopo due cicli mensili completi.",
+      "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese per 3 mesi, e il bonus di 45 € arriva solo dopo due cicli mensili completi, quindi le prime bollette escono dalla tua tasca.",
       "links": [
         {
-          "label": "Vedi i piani al tuo indirizzo",
+          "label": "Controllare Black Friday e bonus da 45 € al mio indirizzo",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -99,7 +158,57 @@
     {
       "heading": "Come compare nell'ordine",
       "paragraphs": [
-        "Per controllare la tua offerta, apri il link, inserisci l'indirizzo e cerca l'avviso che conferma l'invito applicato prima di pagare. Guarda se l'ordine mostra il valore della ricompensa e le condizioni dei 3 mesi di sconto."
+        "Lo screenshot mostra l'avviso “Referral Code Applied” di un ordine statunitense aperto da un link di invito. L'ordine aperto dal link mostra l'invito applicato e il valore della ricompensa del tuo paese.",
+        "Per controllare la tua offerta, apri il link, inserisci l'indirizzo e cerca lo stesso avviso prima di pagare. Guarda se l'ordine mostra la ricompensa e le condizioni dei 3 mesi di sconto."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Schermata d'ordine del sito ufficiale Starlink con il messaggio Referral Code Applied, che indica che iscrivendoti con questo codice tu e il tuo amico ricevete 100 dollari a testa, in denaro o credito di servizio",
+        "caption": "Ordine sul sito ufficiale con il link di invito applicato (esempio statunitense; in Italia il bonus è di 45 €).",
+        "aspectRatio": 0.8747,
+        "objectFit": "contain"
+      }
+    },
+    {
+      "heading": "L'offerta vale al tuo indirizzo?",
+      "paragraphs": [
+        "Il banner di Starlink parla di aree selezionate e di iscrizione entro il 30 novembre. Il prezzo e lo sconto cambiano con l'indirizzo, quindi due indirizzi possono vedere offerte diverse lo stesso giorno. Inserisci il tuo e confronta canone, kit, installazione e durata dello sconto.",
+        "Lo screenshot di Milano qui sotto mostra i tre piani e la scritta «Nessun contratto, prova di 30 giorni», con l'avviso di restituire il kit a noleggio se annulli."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+        "alt": "Ordine Starlink per Milano con i piani 100 Mbps, 200 Mbps e Max, il prezzo scontato e l'avviso di restituire il kit a noleggio",
+        "caption": "Ordine per Milano, letto il 23/11/2026: piani da 100 Mbps a Max e kit a noleggio a 0 €.",
+        "aspectRatio": 0.6065,
+        "objectFit": "portrait"
+      }
+    },
+    {
+      "heading": "Kit a noleggio, restituzione e prova di 30 giorni",
+      "paragraphs": [
+        "L'ordine che abbiamo letto indicava «Nessun contratto» e una prova di 30 giorni, con diritto di recesso. Se annulli e restituisci il kit in buone condizioni entro 30 giorni, il kit e il primo mese vengono rimborsati. Per questo aprire l'ordine non costa nulla: vedi il prezzo del tuo indirizzo, provi l'antenna sul tetto e decidi dopo.",
+        "Passati i 30 giorni, non c'è un vincolo di durata e puoi disdire quando vuoi. Vedi la [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+        "alt": "Riepilogo dell'ordine Starlink a Milano con 35 € meno 17,50 € di sconto per 3 mesi, il kit Mini X a 0 € e 19 € da pagare oggi",
+        "caption": "Riepilogo a Milano (23/11/2026): 35 € meno 17,50 € per 3 mesi, Mini X a 0 € e 19 € oggi.",
+        "aspectRatio": 0.6709,
+        "objectFit": "portrait"
+      },
+      "links": [
+        {
+          "label": "Assicurarmi i 45 € prima di pagare l'ordine",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Dopo i 3 mesi: come proteggere il prezzo",
+      "paragraphs": [
+        "Lo sconto del 50% riguarda 3 mesi e gli ordini fatti entro il 30 novembre. Poi si applica il prezzo pieno, che non è garantito per sempre: ricontrollalo nell'ordine e nei termini di Starlink. Se pensi di restare a lungo, fai il conto con 35 €, 45 € o 65 € al mese.",
+        "Prima di pagare, salva uno screenshot del riepilogo con il prezzo, la riga del kit e l'avviso dell'invito, e confrontalo con la prima fattura. Se una fattura non torna, apri una richiesta di assistenza dal tuo account allegando lo screenshot."
       ]
     },
     {
@@ -110,28 +219,24 @@
       ]
     },
     {
-      "heading": "L'offerta vale al tuo indirizzo?",
+      "heading": "I 4 errori che fanno perdere la ricompensa",
       "paragraphs": [
-        "Il banner di Starlink parla di aree selezionate e di iscrizione entro il 30 novembre. Il prezzo e lo sconto cambiano con l'indirizzo, quindi l'offerta che leggi qui potrebbe non comparire per te.",
-        "Il Residenziale 200 Mbps non mostrava un prezzo nella nostra lettura. Se ti interessa, confrontalo nell'ordine con la durata di ogni offerta."
-      ]
-    },
-    {
-      "heading": "Contratto e restituzione",
-      "paragraphs": [
-        "L'ordine che abbiamo letto indicava «Nessun contratto» e una prova di 30 giorni. Se annulli e restituisci il kit in buone condizioni entro 30 giorni, il kit e il primo mese vengono rimborsati. Vedi la [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta)."
-      ]
-    },
-    {
-      "heading": "E dopo i 3 mesi?",
-      "paragraphs": [
-        "Lo sconto riguarda 3 mesi. Il prezzo che si applica dopo non compariva nella pagina che abbiamo letto, quindi controllalo nell'ordine prima di pagare e tienilo a mente per il conto di un anno."
+        "Anche cliccando sul link, la ricompensa si perde per piccole distrazioni:"
+      ],
+      "bullets": [
+        "Comprare il kit su un marketplace o in negozio e provare a usare il link dopo. L'invito conta solo su un ordine fatto su starlink.com da un link di invito, prima del pagamento.",
+        "Aprire il link dal telefono e chiudere l'ordine ore dopo su un altro dispositivo senza riaprire il link. L'invito può non seguire l'ordine: fai tutto sullo stesso dispositivo o riapri il link e cerca l'avviso verde.",
+        "Iscriversi con un nome, un'e-mail o un indirizzo che ha già avuto un account Starlink. La ricompensa è per i nuovi clienti.",
+        "Annullare o pagare in ritardo prima di due cicli mensili pagati. La ricompensa arriva solo con il servizio attivo e in regola."
+      ],
+      "postParagraphs": [
+        "Se l'ordine è già stato pagato senza il link, l'invito non si può aggiungere dopo."
       ]
     },
     {
       "heading": "Come usare il link",
       "paragraphs": [
-        "Apri il link e digita l'indirizzo in cui installerai l'antenna. Scegli il piano, controlla l'invito applicato e conserva l'offerta che compare prima di pagare.",
+        "Aprire il link non ti impegna in nulla: prezzi, disponibilità e offerta compaiono solo dopo aver digitato l'indirizzo. Inserisci l'indirizzo in cui installerai l'antenna, scegli il piano, controlla l'invito applicato e conserva l'offerta che compare prima di pagare.",
         "Nella pagina dell'[invito Starlink](/it/coupons/starlink) trovi il link e le regole del programma."
       ]
     },
@@ -139,10 +244,12 @@
       "heading": "Domande frequenti",
       "bullets": [
         "Starlink ha un codice sconto? No. Starlink non ha un coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
-        "Starlink ha un'offerta per il Black Friday? In Italia l'ordine mostrava il 50% di sconto sui piani Residenziale e Viaggio per 3 mesi, con iscrizione entro il 30 novembre, nelle aree selezionate.",
-        "L'invito si somma all'offerta? Controlla nell'ordine per il tuo indirizzo se compaiono entrambi. La ricompensa dell'invito dipende dall'idoneità e da due cicli mensili completi, e il valore si vede nel tuo account.",
+        "Starlink ha un'offerta per il Black Friday? Sì. In Italia l'ordine mostrava il 50% di sconto sui piani Residenziale per 3 mesi, con iscrizione entro il 30 novembre, nelle aree selezionate.",
+        "L'invito si somma all'offerta? Sono due righe separate dell'ordine. Controlla nell'ordine per il tuo indirizzo che compaiano entrambe. La ricompensa dipende dall'idoneità e da due cicli mensili completi.",
         "Quanto si paga nell'ordine? A Milano, il totale da pagare oggi era di 19 €, con il kit a noleggio a 0 €.",
+        "Quanto costano i piani al mese? A Milano, 17,50 € il 100 Mbps, 22,50 € il 200 Mbps e 32,50 € il Max per 3 mesi. Poi 35 €, 45 € e 65 €.",
         "C'è un vincolo contrattuale? L'ordine indicava «Nessun contratto», con 30 giorni di prova e restituzione del kit se annulli.",
+        "Posso aggiungere l'invito dopo aver pagato? No. Conta solo sull'ordine aperto dal link, prima del pagamento.",
         "Fino a quando dura l'offerta? Starlink indica il 30 novembre. Inserisci l'indirizzo nell'ordine per vedere se è disponibile."
       ]
     }
@@ -150,13 +257,13 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "L'ordine si apre sul sito di Starlink. Controlla il prezzo, i 3 mesi di sconto e il valore dell'invito prima di pagare.",
-    "label": "Controlla l'offerta al mio indirizzo",
+    "text": "Paghi lo stesso prezzo dell'ordine ufficiale, tieni i 30 giorni di prova con la restituzione del kit a noleggio se l'antenna non funziona sul tuo tetto e i 45 € dell'invito arrivano in fattura dopo due cicli pagati.",
+    "label": "Vedere il mio indirizzo con i 45 €",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+  "editorialNote": "Prezzi letti nelle pagine d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
   "relatedArticles": [
     {
       "slug": "starlink-link-invito"
@@ -170,11 +277,11 @@
   ],
   "decision": {
     "takeIf": [
-      "l'ordine per il tuo indirizzo mostra l'offerta sul piano e le condizioni del kit prima di pagare.",
+      "l'ordine per il tuo indirizzo mostra il 50% sul piano e le condizioni del kit a noleggio prima di pagare.",
       "puoi aspettare due cicli mensili completi per la ricompensa e pagare le mensilità nel frattempo."
     ],
     "skipIf": [
-      "il tuo ordine non mostra l'offerta, perché i prezzi letti valgono per un solo indirizzo.",
+      "il tuo ordine non mostra l'offerta, perché i prezzi letti valgono per gli indirizzi consultati.",
       "potresti uscire presto e non vuoi rischiare la restituzione del kit né la perdita del prezzo promozionale."
     ]
   }

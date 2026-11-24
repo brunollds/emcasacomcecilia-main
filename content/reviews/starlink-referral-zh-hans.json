@@ -3,8 +3,8 @@
   "slug": "starlink-referral-zh-hans",
   "translationKey": "starlink-indicacao",
   "locale": "zh-hans",
-  "title": "Starlink 推荐链接怎么用，奖励什么时候到账",
-  "seoTitle": "Starlink 推荐链接：用法与奖励到账时间",
+  "title": "首次购买 Starlink 如何通过推荐链接领取奖励（美国 US$ 100／按国家发放）",
+  "seoTitle": "首次购买 Starlink 如何通过推荐链接领取奖励",
   "type": "推荐码指南",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "在官网打开推荐链接，付款前先在订单里确认奖励金额。了解谁能使用、奖励何时发放，以及选择服务抵扣还是现金。",
-  "metaDescription": "了解如何打开 Starlink 推荐链接、在订单里确认奖励金额，并在满足计划条件后拿到奖励。",
+  "description": "Starlink 没有优惠码：通过官方推荐链接下单，沿用官网同价与 30 天退货期，满两个月后即可领取所在国家的推荐奖励（例如美国为 US$ 100）。",
+  "metaDescription": "第一次订阅 Starlink 如何通过推荐链接领取奖励，为何下单前必须应用推荐，以及两个月后到账的流程。",
   "publishedAt": "2026年11月20日",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,8 +31,126 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "打开 Starlink 推荐链接，输入你的地址。付款前，先找到推荐码已应用的提示，并在订单里确认奖励金额。该计划面向新用户，奖励在满两个完整计费周期后发放，形式是服务抵扣，部分国家还提供现金。"
+        "Starlink 没有可输入的优惠码。除了官网的促销之外，首次订阅时通过推荐链接下单，是领取官方推荐奖励的方式。从链接进入 starlink.com 结账，价格与促销完全相同、也保有 30 天退货期，服务满两个完整计费周期后，可获得所在国家的奖励金额（例如美国为 US$ 100，实际金额会显示在你的订单页）。奖励是之后到账的账单抵扣，不会降低当天的设备价格。付款前务必在屏幕确认推荐已应用，因为下单完成后无法补加。"
       ]
+    },
+    {
+      "heading": "为什么一定要通过推荐链接下单",
+      "paragraphs": [
+        "自己直接打开 starlink.com 下单，设备和月费与通过链接下单相同，区别只在你会错过推荐奖励。奖励不会降低下单当天的设备价格，而是在你付清两个完整计费周期后，以抵扣的形式进入账单。",
+        "Starlink 的订购页没有简体中文版本，所以下面的例子取自马来西亚（英文界面）和美国的订购页，用来说明推荐链接如何运作。你所在地的价格和规则，请以自己地址的订购页为准。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+        "alt": "吉隆坡地址的 Starlink 订购页，100 Mbps 套餐每月 RM 135，Mini X 购买价 RM 900",
+        "caption": "马来西亚吉隆坡：订购页的 100 Mbps 套餐，2026 年 11 月 23 日查询。Starlink 没有中文界面，此为英文页面的示例。",
+        "objectFit": "square",
+        "aspectRatio": 0.9898
+      },
+      "comparisonTable": {
+        "caption": "2026 年 11 月 23 日在 starlink.com 读取的价格，未完成购买。推荐奖励不是结账时的折扣，而是服务满两个完整计费周期后才到账。",
+        "headers": [
+          "在 starlink.com 读到的情况",
+          "没有推荐链接",
+          "使用 Cecília 的链接",
+          "奖励意味着什么"
+        ],
+        "rows": [
+          [
+            "马来西亚示例，Residential 100 Mbps（吉隆坡）",
+            "每月 RM 135，购买 Mini X RM 900，今日付款 RM 989（含运费 RM 89）",
+            "同一笔订单 + 按国家发放的推荐抵扣",
+            "金额以你所在国家的订购页为准"
+          ],
+          [
+            "马来西亚示例，Residential Max（吉隆坡）",
+            "每月 RM 235，租用 Rental Kit (Mini X) RM 0，今日付款 RM 89",
+            "同一笔订单 + 按国家发放的推荐抵扣",
+            "金额以你所在国家的订购页为准"
+          ],
+          [
+            "美国示例，Residential 100 Mbps（内华达）",
+            "每月 US$ 38.50，租用套件 US$ 0，今日付款 US$ 20 + 税",
+            "同一笔订单 + US$ 100 抵扣",
+            "约等于 100 Mbps 套餐 2.6 个月的月费"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "打开订单并确认推荐奖励",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "simulator": {
+        "title": "试算你的情况",
+        "scenarios": [
+          {
+            "label": "马来西亚 100 Mbps（购买 Mini X）+ 推荐链接",
+            "lines": [
+              {
+                "label": "Mini X 设备（购买）",
+                "value": "RM 900"
+              },
+              {
+                "label": "月费",
+                "value": "RM 135／月"
+              },
+              {
+                "label": "付清两个周期后的推荐抵扣",
+                "value": "按国家发放，计入账单",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "今日付款（设备 + 运费）",
+            "totalValue": "RM 989",
+            "note": "价格与官网相同，30 天退货期不变。"
+          },
+          {
+            "label": "马来西亚 Max（租用）+ 推荐链接",
+            "lines": [
+              {
+                "label": "Rental Kit (Mini X)",
+                "value": "RM 0，取消时须归还"
+              },
+              {
+                "label": "月费",
+                "value": "RM 235／月"
+              },
+              {
+                "label": "付清两个周期后的推荐抵扣",
+                "value": "按国家发放，计入账单",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "今日付款（含运费）",
+            "totalValue": "RM 89",
+            "note": "抵扣之后才到账，不会降低今天的付款金额。"
+          },
+          {
+            "label": "没有推荐链接（直接下单／经销商）",
+            "lines": [
+              {
+                "label": "设备与套餐价格",
+                "value": "与通过链接下单相同"
+              },
+              {
+                "label": "推荐抵扣",
+                "value": "0，事后无法补加"
+              },
+              {
+                "label": "白白错过的奖励",
+                "value": "按国家而定（美国为 US$ 100）",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "可领取的推荐奖励",
+            "totalValue": "0",
+            "note": "推荐必须在付款前出现在最初的订单里。"
+          }
+        ]
+      }
     },
     {
       "heading": "推荐链接使用步骤",
@@ -49,11 +167,27 @@
         "付款前再确认一次。Starlink 说明，推荐必须出现在最初的订单里。"
       ],
       "image": {
-        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
-        "alt": "房屋屋顶上安装好的 Starlink 天线",
-        "caption": "天线装在屋顶，视野开阔。Starlink 官方照片。",
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Starlink 官网的订购页，出现 Referral Code Applied 提示，说明用此代码注册后你和朋友各可获得 100 美元，形式为现金或服务抵扣",
+        "caption": "已应用推荐链接的官网订购页（美国内华达的示例）。",
         "objectFit": "contain",
-        "aspectRatio": 1.4995
+        "aspectRatio": 0.8747
+      }
+    },
+    {
+      "heading": "付款前的检查清单",
+      "paragraphs": [
+        "付款前请在屏幕上逐项确认。只要两分钟，就能决定奖励是否会出现在你的订单里。"
+      ],
+      "checklist": {
+        "title": "确认订单之前",
+        "items": [
+          "我在同一个窗口通过 Cecília 的推荐链接打开订单，避免错过奖励。",
+          "输入任何资料之前，我确认地址栏仍是 starlink.com。",
+          "我在预定安装的位置运行了 Starlink 应用的遮挡物检测，确认天空开阔。",
+          "我在订单摘要里看到推荐已应用的提示、设备价格，以及是否有 12 个月合约。",
+          "付款前，我已截图保存显示月费和 30 天规则的订单摘要。"
+        ]
       }
     },
     {
@@ -61,10 +195,32 @@
       "paragraphs": [
         "金额取决于你注册所在的国家，并显示在订单和账户里，例如在美国是 US$ 100，其他国家请以你自己的订单为准。推荐人也会拿到同样的奖励，形式是现金或服务抵扣。",
         "订阅需要保持有效并按时付款，满两个完整计费周期。帮助中心说明，发放最早可在激活后 60 天开始，具体取决于国家、账户和身份验证。",
-        "默认方式是抵扣账单。如果你的账户提供现金方式，请在浏览器里打开网站的“推荐”页面，选择奖励方式，并完成身份验证和收款设置。"
+        "默认方式是抵扣账单。如果你的账户提供现金方式，请在浏览器里打开网站的“推荐”页面，选择奖励方式，并完成身份验证和收款设置。 奖励以账单抵扣的形式到账，不会降低订单上的设备价格。"
       ],
       "emphasis": "奖励要等订阅有效并按时付款满两个完整计费周期后才发放，默认为账单抵扣，订阅者和推荐人拿到相同金额；你所在国家的金额会显示在订单里。",
       "emphasisAfterParagraph": 3
+    },
+    {
+      "heading": "打开链接就等于承诺什么吗？30 天的试用",
+      "paragraphs": [
+        "打开链接不代表任何承诺。套餐价格、设备、是否供应和有无合约，都要在 starlink.com 输入地址后才会显示。",
+        "付款后，Starlink 按页面条款提供 30 天的退货期。如果天线在你的屋顶上效果不好，可以在期限内取消服务并寄回设备。在马来西亚的 Max 订单上，租用的套件在取消时必须归还。",
+        "这就是链接要放在试用之前的原因：推荐只计入最初的订单。没有链接就去试的人，第一天付的钱相同，但决定留下天线时会错过推荐奖励。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "房屋屋顶上安装好的 Starlink 天线",
+        "caption": "天线装在屋顶，视野开阔。Starlink 官方照片。",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      },
+      "links": [
+        {
+          "label": "下单前先确保奖励",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "谁可以使用",
@@ -82,15 +238,36 @@
       ]
     },
     {
-      "heading": "黑色星期五优惠能同时用吗？",
+      "heading": "点了链接仍会错过奖励的 4 个错误",
       "paragraphs": [
-        "推荐奖励是否和黑色星期五优惠同时显示，取决于地址。请先看[Starlink 黑色星期五的算法](/zh-hans/reviews/starlink-black-friday-zh-hans)，再用你的地址确认。"
+        "错过奖励的情况，大多出在以下四点之一。"
+      ],
+      "bullets": [
+        "在经销商或电商平台购买设备。计划只记录在 starlink.com 通过链接下的订单。",
+        "没确认提示就付款。推荐必须出现在最初的订单里，事后无法补加：屏幕上没有提示时，请在付款前重新打开链接。如果下单途中换了设备或浏览器，请再打开一次链接并重新确认提示。",
+        "现有客户或曾经的客户使用链接。奖励只给第一次订阅 Starlink 的人。",
+        "太早取消。奖励需要订阅有效并按时付款满两个完整计费周期，发放最早从激活后 60 天起。"
       ]
     },
     {
-      "heading": "如何追踪",
+      "heading": "黑色星期五优惠能同时用吗？",
       "paragraphs": [
-        "在网站或应用的“推荐”页，可以看到通过你的链接订购的人处于什么状态。有人下单时，Starlink 会发邮件通知你。一笔推荐在产生奖励之前，可能要先通过资格审核。"
+        "推荐奖励是否和黑色星期五优惠同时显示，取决于地址。请先看[Starlink 黑色星期五的算法](/zh-hans/reviews/starlink-black-friday-zh-hans)，再用你的地址确认。",
+        "在马来西亚的 Max 订单摘要里，Starlink 显示每月 RM 235、Hardware Rental 每月 RM 0、Rental Kit (Mini X) RM 0，今日付款 RM 89。如果你担心合约，也可以看看[Starlink 合约与取消指南](/zh-hans/reviews/starlink-cancel-zh-hans)和[Starlink 值得买吗](/zh-hans/reviews/starlink-worth-it-zh-hans)。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+        "alt": "马来西亚的 Starlink Max 订单摘要：每月 RM 235，Hardware Rental 每月 RM 0，Rental Kit (Mini X) RM 0，今日付款 RM 89",
+        "caption": "马来西亚：Max 套餐的订单摘要，2026 年 11 月 23 日查询（英文界面示例）。",
+        "objectFit": "portrait",
+        "aspectRatio": 0.8154
+      }
+    },
+    {
+      "heading": "如何追踪，以及使用自己的链接",
+      "paragraphs": [
+        "在网站或应用的“推荐”页，可以看到通过你的链接订购的人处于什么状态。有人下单时，Starlink 会发邮件通知你。一笔推荐在产生奖励之前，可能要先通过资格审核。",
+        "当你成为符合条件的家用或旅行套餐有效用户后，也可以自己推荐，推荐人会拿到与新用户相同的金额。你所在国家的金额会显示在订阅者的订单页上。"
       ]
     },
     {
@@ -102,15 +279,16 @@
         "奖励什么时候到账？帮助中心说明，发放最早可在激活后 60 天开始，前提是满足计划条件。",
         "在电商平台买的套件能用推荐吗？不能。计划要求直接在 starlink.com 通过链接下单。",
         "我以前是客户，还能用链接吗？奖励只给第一次订阅 Starlink 的新用户。",
-        "推荐人也有奖励吗？有。推荐人拿到同样的奖励，形式是现金或服务抵扣。"
+        "推荐人也有奖励吗？有。推荐人拿到同样的奖励，形式是现金或服务抵扣。",
+        "付款之后还能补上推荐吗？不能。Starlink 要求推荐必须出现在付款前最初的订单里，也就是在 starlink.com 通过推荐链接下单。"
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在付款前，先在订单里确认你所在地址的奖励金额。",
-    "label": "在订单里查看推荐",
+    "text": "你付的价格与官网完全相同，天线在屋顶上不好用时 30 天内可退货，并在两个计费周期后领取所在国家的推荐抵扣。",
+    "label": "前往官网查看订单与推荐奖励",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

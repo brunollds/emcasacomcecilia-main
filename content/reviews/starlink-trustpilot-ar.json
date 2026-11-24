@@ -23,7 +23,7 @@
   "draft": false,
   "isNew": true,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/starlink/starlink-trustpilot-reviews-capa.webp",
+  "image": "/images/reviews/starlink/starlink-trustpilot-ar-capa.webp",
   "imageAlt": "طبق Starlink على سقف تحت سماء عاصفة وخلفه برق. يظهر على الغلاف «Trustpilot: التقييم».",
   "imageFit": "contain",
   "imageAspect": "landscape",
@@ -87,6 +87,36 @@
           ]
         ],
         "caption": "Trustpilot، صفحة starlink.com، قُرئت في 23 نوفمبر 2026."
+      },
+      "metrics": {
+        "items": [
+          {
+            "label": "TrustScore",
+            "value": "1.6",
+            "unit": "/5",
+            "note": "صفحة غير مُطالَب بها"
+          },
+          {
+            "label": "إجمالي المراجعات",
+            "value": "879",
+            "note": "عفوية فقط"
+          },
+          {
+            "label": "ردود الشركة",
+            "value": "0%",
+            "note": "0 من 464 سلبية"
+          },
+          {
+            "label": "نجمة واحدة مقابل 5 نجوم",
+            "value": "71%",
+            "unit": "مقابل 17%",
+            "note": "الدعم والفواتير في المقدمة"
+          }
+        ],
+        "summary": {
+          "badge": "قراءة الفجوة",
+          "text": "يتركز المديح على السرعة وثبات الإشارة، وتتركز الشكاوى على الدعم الآلي والفواتير وتغيّر الأسعار."
+        }
       }
     },
     {
@@ -136,15 +166,32 @@
       "heading": "ماذا يعني هذا إن اشتركت",
       "paragraphs": [
         "قبل أن تدفع، تحقق على starlink.com من الخطة والمعدات (إيجار أو شراء) والضرائب والعقد لعنوانك أنت: فهي تختلف باختلاف الدولة وحتى العنوان. احفظ لقطة شاشة للعرض يوم الطلب وقارن بها كل فاتورة.",
+        "أبسط وسيلة حماية أن تطلب مباشرة من starlink.com وتحفظ لقطة شاشة لملخص الطلب، فيها السعر والمعدات وشروط العقد والإحالة المطبَّقة. ثم قارن أول فاتورة بتلك اللقطة. لا تُحتسب الإحالة إلا في طلب فُتح عبر رابط إحالة وقبل الدفع، ولا يمكن إضافتها بعد ذلك.",
         "قواعد المعدات المؤجَّرة والإرجاع في [دليل العقد والإلغاء والاسترداد](/ar/reviews/starlink-cancel-ar)."
       ],
-      "image": {
-        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-        "alt": "طبق Starlink مثبّت على سقف منزل خشبي",
-        "caption": "طبق Residential بعد التركيب. صورة من Starlink.",
-        "objectFit": "contain",
-        "aspectRatio": 1.8079
-      }
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "alt": "شاشة خطط Starlink لمسقط في سلطنة عُمان: خطة المنازل بسعر 30 ر.ع. في الشهر وجهاز Standard 4 X بسعر 160 ر.ع.",
+          "caption": "مسقط، خطة المنازل: السعر الشهري وسعر شراء جهاز Standard 4 X. نموذج لشاشة تستحق أن تحفظها. اطّلعنا عليها في 23 نوفمبر 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7414
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "طبق Starlink مثبّت على سقف منزل خشبي",
+          "caption": "طبق Residential بعد التركيب. صورة من Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      ],
+      "links": [
+        {
+          "label": "افتح الطلب الرسمي في starlink.com وتحقق من منطقتي",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "كيف ترفع مشكلة",
@@ -156,15 +203,32 @@
           "label": "صفحة Starlink على Trustpilot",
           "href": "https://www.trustpilot.com/review/starlink.com"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "أجزاء من جهاز Starlink Standard: الطبق والراوتر والحامل والكابلات",
+          "caption": "جهاز Starlink Standard: الطبق والراوتر والحامل والكابلات. صورة من Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ]
     },
     {
       "heading": "قبل أن تشترك",
       "paragraphs": [
         "قبل أن تشترك، تحقق من الموقع والشروط. طريقة التعرف على الموقع الرسمي والصفحات التي تستخدم الاسم في [هل Starlink موثوقة؟](/ar/reviews/starlink-trust-ar).",
+        "فتح الطلب لا يُلزمك بشيء: الخطة والسعر والتوافر وشروط العقد لا تظهر إلا بعد أن تُدخل عنوانك. تنص سياسة الـ30 يومًا لدى Starlink على استرداد المبلغ إن ألغيت وأعدت المعدات سليمة خلال هذه المدة، كما يوضح طلبك؛ وفي المعدات المدعومة المرتبطة بعقد تحقق من وجود رسوم بعد الـ30 يومًا.",
         "صفحة [إحالة Starlink](/ar/coupons/starlink) فيها الرابط وقواعد البرنامج. الإحالة ليست قسيمة: تصل المكافأة رصيدًا في الفاتورة بعد شهرين من الاشتراك، ولا تستحقها خطط الأولوية والمؤسسات والتجارية."
       ],
-      "emphasis": "بحسب أرقام الجدول، لمن لا يملك خيار إنترنت جيدًا آخر في عنوانه، يبدو الاشتراك معقولًا بعد التحقق على starlink.com من الخطة والمعدات والضرائب والعقد لذلك العنوان، لأن الرقم 1.6 يعكس شكاوى الدعم والفوترة والسعر أكثر مما يعكس جودة الإشارة."
+      "emphasis": "بحسب أرقام الجدول، لمن لا يملك خيار إنترنت جيدًا آخر في عنوانه، يبدو الاشتراك معقولًا بعد التحقق على starlink.com من الخطة والمعدات والضرائب والعقد لذلك العنوان، لأن الرقم 1.6 يعكس شكاوى الدعم والفوترة والسعر أكثر مما يعكس جودة الإشارة.",
+      "links": [
+        {
+          "label": "تحقق من التوافر في عنواني على starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "الأسئلة الشائعة",
@@ -203,8 +267,8 @@
     ]
   },
   "cta": {
-    "text": "أدخل عنوانك في موقع Starlink وتحقق من الخطة والمعدات والاشتراك الشهري قبل الدفع.",
-    "label": "اطّلع على الخطط في عنوانك",
+    "text": "افتح الطلب عبر رابط الإحالة، وتحقق من الخطة والمعدات والعقد في عنوانك، واحفظ لقطة الملخص قبل الدفع. السعر هو سعر الموقع الرسمي.",
+    "label": "افتح طلبي في starlink.com",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

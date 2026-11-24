@@ -30,7 +30,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Starlink é o serviço de internet via satélite da SpaceX, e o site oficial é starlink.com. No Reclame Aqui, o perfil verificado é o “Starlink Brazil”. Se for comprar o kit fora do site, confira a lista de revendedores autorizados da Starlink e veja quem vende o anúncio antes de pagar."
+        "Sim, a Starlink é confiável: é o serviço oficial de internet via satélite da SpaceX e vende diretamente em starlink.com. Nós mesmos contratamos a Starlink como alternativa à fibra instável. O cuidado é com sites falsos e anúncios fora da rede oficial: no Reclame Aqui, o perfil verificado é “Starlink Brazil” e, se comprar o kit fora do site, confira o vendedor na lista de revendedores autorizados."
       ]
     },
     {
@@ -51,7 +51,22 @@
       "heading": "Como reconhecer o site oficial",
       "paragraphs": [
         "Digite starlink.com/br no navegador. Antes de informar dados ou pagar, confira se você continua dentro de starlink.com.",
-        "No pedido oficial que consultamos, havia opção de Pix. Se pedirem para pagar por mensagem ou fora do pedido, confirme pelo suporte da Starlink antes de seguir."
+        "No pedido oficial que consultamos, havia opção de Pix. Se pedirem para pagar por mensagem ou fora do pedido, confirme pelo suporte da Starlink antes de seguir.",
+        "Uma forma simples de não errar o endereço é abrir o pedido pelo link de indicação: ele leva direto ao pedido em starlink.com, e você ainda confere a barra do navegador antes de digitar qualquer dado. O preço é o mesmo do site oficial, e a indicação só conta se o pedido começar por um link de indicação, antes do pagamento."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+        "alt": "Tela oficial de planos residenciais em starlink.com para Alto Paraíso de Goiás, com o plano de 100 Mbps e o kit Mini X",
+        "caption": "Tela de planos em starlink.com para Alto Paraíso de Goiás, com o plano de 100 Mbps e o kit Mini X.",
+        "objectFit": "square",
+        "aspectRatio": 0.9653
+      },
+      "links": [
+        {
+          "label": "Acessar o pedido oficial em starlink.com com indicação",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -71,7 +86,14 @@
           "label": "Lista de varejistas autorizados pela Starlink",
           "href": "https://starlink.com/pt/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
         }
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Peças de um kit Starlink sobre fundo escuro: base, suporte e cabos",
+        "caption": "Peças de um kit Starlink. Foto da Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Chip, cartão, banco e IPTV com o nome Starlink",
@@ -84,6 +106,29 @@
       "paragraphs": [
         "No semestre de maio a outubro de 2026, o perfil verificado “Starlink Brazil” recebeu 2.017 reclamações e respondeu a todas. A reputação ficou Boa, com nota 7,8, 77,1% de reclamações resolvidas e 75% dos consumidores dizendo que voltariam a fazer negócio. Em setembro, a reputação mensal passou de Ótima para Boa.",
         "A [análise completa da reputação](/reviews/starlink-reclame-aqui-nota-reputacao) traz os números, o que mais gera reclamação e como a empresa responde."
+      ]
+    },
+    {
+      "heading": "Checklist antes de pagar",
+      "paragraphs": [
+        "Cinco conferências rápidas valem para qualquer endereço e levam poucos minutos."
+      ],
+      "checklist": {
+        "title": "Antes de fechar o pedido",
+        "items": [
+          "Abri o pedido pelo link de indicação, na mesma janela do navegador, para a indicação contar.",
+          "Conferi que a barra do navegador continua em starlink.com antes de digitar qualquer dado.",
+          "Rodei o teste de obstruções do app da Starlink no ponto previsto para a antena, para confirmar céu aberto.",
+          "Li no resumo do pedido o plano, o kit, o total e se há contrato.",
+          "Salvei um print do resumo com o valor mensal e a regra dos 30 dias antes de pagar."
+        ]
+      },
+      "links": [
+        {
+          "label": "Verificar disponibilidade no meu CEP direto em starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -101,7 +146,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
-        "A Starlink é confiável? A Starlink é o serviço de internet via satélite da SpaceX. No Brasil, confira o site starlink.com e o perfil verificado “Starlink Brazil” no Reclame Aqui.",
+        "A Starlink é confiável? Sim, a Starlink é o serviço oficial de internet via satélite da SpaceX. Para comprar com segurança no Brasil, confirme o endereço starlink.com no navegador, consulte o perfil verificado “Starlink Brazil” no Reclame Aqui e, fora do site, compre só em varejistas da lista oficial.",
         "Qual é o site oficial da Starlink? A versão brasileira fica em starlink.com/br.",
         "Como confirmar se um vendedor é autorizado? Veja a lista de varejistas da Starlink e confira o vendedor do anúncio antes de pagar.",
         "Devo comprar pelo site oficial ou por um revendedor? No site oficial, o pedido mostra plano, kit e total antes do pagamento, e a indicação só vale ali. Um varejista da lista oficial é um vendedor legítimo, mas a indicação não se aplica."
@@ -111,7 +156,7 @@
   "pros": [],
   "cons": [],
   "affiliate": "starlink",
-  "editorialNote": "Feito com o site oficial, a central de ajuda e os perfis públicos no Reclame Aqui. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+  "editorialNote": "Feito com o site oficial, a central de ajuda e os perfis públicos no Reclame Aqui. Contratamos a Starlink como alternativa e backup à fibra instável. Participamos do programa de indicação e podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
   "relatedArticles": [
     {
       "slug": "starlink-reclame-aqui-nota-reputacao"
@@ -134,8 +179,8 @@
     ]
   },
   "cta": {
-    "text": "Informe seu endereço no site da Starlink e confira plano, kit e mensalidade antes de pagar.",
-    "label": "Ver planos no meu endereço",
+    "text": "Abra o pedido pelo link de indicação, confira que a barra continua em starlink.com e veja plano, kit e total no seu endereço antes de pagar. O preço é o do site oficial.",
+    "label": "Ver meu endereço em starlink.com",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

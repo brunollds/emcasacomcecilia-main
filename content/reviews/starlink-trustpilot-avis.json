@@ -87,6 +87,36 @@
           ]
         ],
         "caption": "Trustpilot, profil starlink.com, lu le 23 novembre 2026."
+      },
+      "metrics": {
+        "items": [
+          {
+            "label": "TrustScore",
+            "value": "1,6",
+            "unit": "/5",
+            "note": "Profil non revendiqué"
+          },
+          {
+            "label": "Avis au total",
+            "value": "879",
+            "note": "Organiques uniquement"
+          },
+          {
+            "label": "Réponses de l’entreprise",
+            "value": "0 %",
+            "note": "0 sur 464 négatifs"
+          },
+          {
+            "label": "1 étoile vs 5 étoiles",
+            "value": "71 %",
+            "unit": "vs 17 %",
+            "note": "Support et facturation en tête"
+          }
+        ],
+        "summary": {
+          "badge": "Lire l’écart",
+          "text": "Les éloges portent sur la vitesse et la stabilité du signal ; les plaintes se concentrent sur le support automatisé, la facturation et les changements de prix."
+        }
       }
     },
     {
@@ -136,15 +166,32 @@
       "heading": "Ce que cela veut dire pour qui s’abonne",
       "paragraphs": [
         "Avant de payer, vérifiez l’offre, le kit (location ou achat), les taxes et le contrat sur starlink.com pour votre propre adresse : ils changent selon le pays et même selon l’adresse. Gardez une capture de l’offre le jour de la commande et comparez-y chaque facture.",
+        "La protection la plus simple consiste à commander directement sur starlink.com et à enregistrer la capture du récapitulatif de commande, avec le prix, le kit, le contrat et le parrainage appliqué. Comparez ensuite la première facture à cette capture. Le parrainage ne compte que sur une commande ouverte par un lien de parrainage, avant de payer, et on ne peut pas l’ajouter après coup.",
         "Les règles du kit en location et du retour figurent dans le [guide du contrat, de la résiliation et du remboursement](/fr/reviews/starlink-engagement-resilier)."
       ],
-      "image": {
-        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-        "alt": "Antenne Starlink fixée au toit d'une maison en bois",
-        "caption": "Antenne résidentielle installée. Photo Starlink.",
-        "objectFit": "contain",
-        "aspectRatio": 1.8079
-      }
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "alt": "Écran des offres Starlink pour Paris : 100 Mbit/s à 24,50 € par mois, avec le matériel en location à 0 €",
+          "caption": "Paris, offre 100 Mbit/s : mensualité, matériel en location à 0 € et l’indication de rendre le matériel loué. Le genre d’écran à conserver. Consultation du 23 novembre 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5909
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Antenne Starlink fixée au toit d'une maison en bois",
+          "caption": "Antenne résidentielle installée. Photo Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      ],
+      "links": [
+        {
+          "label": "Ouvrir la commande officielle sur starlink.com et vérifier ma zone",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Comment signaler un problème",
@@ -156,15 +203,32 @@
           "label": "Profil Trustpilot de starlink.com",
           "href": "https://www.trustpilot.com/review/starlink.com"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Éléments du kit Starlink Standard : antenne, routeur, support et câbles",
+          "caption": "Kit Starlink Standard : antenne, routeur, support et câbles. Photo Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ]
     },
     {
       "heading": "Avant de souscrire",
       "paragraphs": [
         "Avant de souscrire, vérifiez le site et les conditions. Pour reconnaître le site officiel et les profils qui reprennent le nom, voir [Starlink est-il fiable ?](/fr/reviews/starlink-est-il-fiable).",
+        "Ouvrir la commande ne vous engage à rien : offre, prix, disponibilité et conditions du contrat n’apparaissent qu’après la saisie de votre adresse. La politique des 30 jours de Starlink prévoit un remboursement si vous résiliez et renvoyez le kit sans dommage dans ce délai, selon votre commande ; pour un kit subventionné avec engagement, vérifiez s’il y a des frais après les 30 jours.",
         "La page du [parrainage Starlink](/fr/coupons/starlink) donne le lien et les règles du programme. Un parrainage n’est pas un coupon : la récompense arrive en crédit sur la facture après deux mois d’abonnement, et les offres Prioritaire, Enterprise et Commerciale n’y ouvrent pas droit."
       ],
-      "emphasis": "D’après les chiffres du tableau, pour qui n’a pas de bonne solution internet à son adresse, s’abonner est raisonnable une fois l’offre, le kit, les taxes et le contrat vérifiés sur starlink.com pour cette adresse, car le 1,6 reflète des plaintes de support, de facturation et de prix plus que de qualité du signal."
+      "emphasis": "D’après les chiffres du tableau, pour qui n’a pas de bonne solution internet à son adresse, s’abonner est raisonnable une fois l’offre, le kit, les taxes et le contrat vérifiés sur starlink.com pour cette adresse, car le 1,6 reflète des plaintes de support, de facturation et de prix plus que de qualité du signal.",
+      "links": [
+        {
+          "label": "Vérifier la disponibilité à mon adresse sur starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Questions fréquentes",
@@ -203,8 +267,8 @@
     ]
   },
   "cta": {
-    "text": "Indiquez votre adresse sur le site de Starlink et vérifiez l’offre, le kit et la mensualité avant de payer.",
-    "label": "Voir les offres à votre adresse",
+    "text": "Ouvrez la commande par le lien de parrainage, vérifiez l’offre, le kit et le contrat à votre adresse et enregistrez la capture du récapitulatif avant de payer. Le prix est celui du site officiel.",
+    "label": "Ouvrir ma commande sur starlink.com",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

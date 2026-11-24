@@ -3,8 +3,8 @@
   "slug": "starlink-enlace-referido-como-funciona",
   "translationKey": "starlink-indicacao",
   "locale": "es",
-  "title": "Enlace de referido de Starlink: cómo usarlo y cuándo llega la recompensa",
-  "seoTitle": "Referido Starlink: cómo usar el enlace y cobrar",
+  "title": "Cómo ganar 45 € en España (o el importe de tu país) al comprar tu primer Starlink con el enlace de referido",
+  "seoTitle": "Cómo ganar 45 € al comprar tu primer Starlink",
   "type": "Guía del código de referido",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Abre el enlace en el sitio oficial y comprueba la recompensa en el pedido antes de pagar. Mira quién puede usarlo, cuándo llega la recompensa y cómo elegir entre crédito y dinero.",
-  "metaDescription": "Mira cómo abrir el enlace de referido de Starlink, ver el valor en el pedido y recibir la recompensa tras cumplir las condiciones del programa.",
+  "description": "Starlink no tiene código de cupón: pide tu primer kit con el enlace oficial de referido, paga el mismo precio de la web y recibe 45 € en España tras dos meses.",
+  "metaDescription": "Cómo conseguir 45 € en España al contratar tu primer Starlink con el enlace de referido, cuánto cubre y cómo activarlo antes de pagar.",
   "publishedAt": "20 de noviembre de 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,8 +31,132 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Abre el enlace de referido de Starlink, introduce tu dirección y, antes de pagar, comprueba que el pedido muestra el referido aplicado y el valor de la recompensa. El programa es para clientes nuevos. La recompensa llega tras dos ciclos mensuales completos, en crédito de servicio o en dinero cuando tu cuenta ofrezca esa opción."
+        "Starlink no tiene códigos promocionales para escribir en la cesta: además de las ofertas de su web, la vía oficial para conseguir una recompensa en tu primera suscripción es pedir con un enlace de referido. En España recibes 45 € (en otros países, el importe en tu moneda aparece en el pedido), pagando lo mismo que en starlink.com y manteniendo los 30 días de prueba. Con el plan de 100 Mbps de Madrid (24,50 €/mes con la promoción), 45 € cubren casi dos mensualidades. Abre el enlace antes de pedir, comprueba en pantalla el aviso de referido aplicado, activa el kit y mantén dos ciclos mensuales pagados. Si completas la compra sin el enlace, no se puede añadir después."
       ]
+    },
+    {
+      "heading": "Por qué merece la pena pedir con el enlace",
+      "paragraphs": [
+        "Si entras en starlink.com por tu cuenta, el equipo y la mensualidad cuestan lo mismo que con el enlace. La diferencia son los 45 € que dejarías sin cobrar. El crédito no baja el precio del kit el día del pedido: llega a tu factura después de dos ciclos mensuales completos y pagados.",
+        "Las cifras de abajo salen de direcciones de referencia. En tu dirección, el precio, el kit y las condiciones pueden ser otros, y solo el pedido los muestra."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+        "alt": "Página de pedido de Starlink para Madrid con el plan Residencial de 100 Mbps a 24,50 € al mes, 0 € de hardware y el aviso de devolver el kit alquilado",
+        "caption": "Madrid: pestañas de planes del pedido, consulta del 23 de noviembre de 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.622
+      },
+      "comparisonTable": {
+        "caption": "Precios leídos en starlink.com el 23 de noviembre de 2026, sin completar ninguna compra. Incluyen la promoción del 30 %; Starlink indica que el precio mensual no tiene duración fija y puede cambiar con 30 días de aviso. El crédito no es un descuento al pagar: llega tras dos ciclos completos.",
+        "headers": [
+          "Escenario leído en starlink.com",
+          "Sin enlace de referido",
+          "Con el enlace de Cecília",
+          "Qué cubre el crédito"
+        ],
+        "rows": [
+          [
+            "España, Residencial 100 Mbps (Madrid)",
+            "24,50 €/mes (35 € sin promoción), 0 € de alquiler, 19 € hoy",
+            "Mismo pedido + 45 € de crédito tras 2 ciclos pagados",
+            "Casi 2 meses del plan de 100 Mbps y más del doble del envío"
+          ],
+          [
+            "España, Residencial 200 Mbps (Madrid)",
+            "31,50 €/mes (45 €), 0 € de alquiler",
+            "Mismo pedido + 45 € de crédito",
+            "Más de 1 mes del plan de 200 Mbps"
+          ],
+          [
+            "España, Residencial Máx. (Madrid)",
+            "45,50 €/mes (65 €), 0 € de alquiler",
+            "Mismo pedido + 45 € de crédito",
+            "Casi 1 mes del plan Máx."
+          ],
+          [
+            "México (CDMX), Residencial Max",
+            "Solo compra: Standard 4 X con plazo de 12 meses, en pesos mexicanos",
+            "El importe del referido aparece en el pedido, en tu moneda",
+            "Se comprueba en pantalla antes de pagar"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Abrir mi pedido con el bono de 45 €",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "simulator": {
+        "title": "Prueba tu escenario",
+        "scenarios": [
+          {
+            "label": "Madrid 100 Mbps + enlace",
+            "lines": [
+              {
+                "label": "Alquiler del kit Mini X",
+                "value": "0 €, se devuelve si cancelas"
+              },
+              {
+                "label": "Mensualidad con la promoción",
+                "value": "24,50 €/mes"
+              },
+              {
+                "label": "Crédito de referido tras 2 ciclos pagados",
+                "value": "-45 € en la factura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Crédito frente a la mensualidad",
+            "totalValue": "Casi 2 mensualidades cubiertas",
+            "note": "Pagas lo mismo que en la web y mantienes los 30 días de prueba."
+          },
+          {
+            "label": "Madrid 200 Mbps + enlace",
+            "lines": [
+              {
+                "label": "Alquiler del kit Standard 4",
+                "value": "0 €, se devuelve si cancelas"
+              },
+              {
+                "label": "Mensualidad con la promoción",
+                "value": "31,50 €/mes"
+              },
+              {
+                "label": "Crédito de referido tras 2 ciclos pagados",
+                "value": "-45 € en la factura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Crédito frente a la mensualidad",
+            "totalValue": "Más de 1 mes cubierto",
+            "note": "Hoy se pagan 19 € de envío; el crédito llega después, no en la cesta."
+          },
+          {
+            "label": "Pedido sin enlace de referido",
+            "lines": [
+              {
+                "label": "Precio del kit y del plan",
+                "value": "El mismo que con el enlace"
+              },
+              {
+                "label": "Crédito de referido",
+                "value": "0 €, no se puede añadir después"
+              },
+              {
+                "label": "Recompensa que se queda sin cobrar",
+                "value": "45 € en España",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Recompensa de referido recibida",
+            "totalValue": "0 €",
+            "note": "El referido tiene que constar en el pedido original, antes de pagar."
+          }
+        ]
+      }
     },
     {
       "heading": "Cómo usar el enlace, paso a paso",
@@ -49,11 +173,27 @@
         "Activa el kit y revisa la primera factura. Pagar el primer mes y activar el equipo forman parte de los requisitos del programa."
       ],
       "image": {
-        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-        "alt": "Antena Starlink fijada al tejado de una casa de madera",
-        "caption": "Antena residencial instalada. Foto de Starlink.",
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Pantalla de pedido en el sitio oficial de Starlink con el mensaje Referral Code Applied, que indica que tú y tu amigo recibís 100 $ cada uno, en dinero o crédito de servicio",
+        "caption": "Pedido en el sitio oficial con el enlace de referido aplicado (ejemplo de Nevada, EE. UU.).",
         "objectFit": "contain",
-        "aspectRatio": 1.8079
+        "aspectRatio": 0.8747
+      }
+    },
+    {
+      "heading": "Lista de comprobación antes de pagar",
+      "paragraphs": [
+        "Marca cada punto en pantalla antes de pagar. Son dos minutos y deciden si el crédito consta en tu pedido."
+      ],
+      "checklist": {
+        "title": "Antes de cerrar el pedido",
+        "items": [
+          "He abierto el pedido con el enlace de referido de Cecília en esta misma ventana, para no perder el crédito.",
+          "He comprobado que la barra del navegador sigue en starlink.com antes de escribir ningún dato.",
+          "He pasado la prueba de obstrucciones de la app de Starlink en el punto previsto para confirmar que hay cielo abierto.",
+          "He visto en el resumen del pedido el aviso de referido aplicado, el precio del kit y si hay permanencia de 12 meses.",
+          "He guardado una captura del resumen con la mensualidad y la regla de los 30 días antes de pagar."
+        ]
       }
     },
     {
@@ -61,10 +201,32 @@
       "paragraphs": [
         "El valor depende del país en el que te registras y aparece en tu pedido y en tu cuenta. Quien invita también recibe el mismo valor, en dinero o en crédito de servicio.",
         "La suscripción tiene que seguir activa y al día durante dos ciclos mensuales completos. El centro de ayuda dice que la emisión puede empezar a partir de 60 días desde la activación, según el país, la cuenta y la verificación de identidad.",
-        "La forma habitual es el crédito en la factura. Si tu cuenta ofrece pago en dinero, abre Referidos en el sitio desde el navegador, elige el método de recompensa."
+        "La forma habitual es el crédito en la factura. Si tu cuenta ofrece pago en dinero, abre Referidos en el sitio desde el navegador, elige el método de recompensa. El crédito llega a la factura y no reduce el precio del kit en el pedido."
       ],
       "emphasis": "La recompensa solo se libera tras dos ciclos mensuales completos con la suscripción activa y al día, por defecto como crédito en la factura, y quien se suscribe y quien invita reciben el mismo valor; el de tu país aparece en el pedido.",
       "emphasisAfterParagraph": 3
+    },
+    {
+      "heading": "¿Abrir el enlace te compromete a algo? La prueba de 30 días",
+      "paragraphs": [
+        "Abrir el enlace no te compromete a nada. El precio del plan, el kit, la disponibilidad y si hay permanencia solo aparecen cuando escribes una dirección en starlink.com.",
+        "Tras pagar, Starlink da 30 días para devolver el kit, según las condiciones de su página. Si la antena no funciona en tu tejado, puedes cancelar y devolver el equipo dentro de ese plazo.",
+        "Por eso el enlace va antes de la prueba: el referido solo cuenta en el pedido original. Quien prueba sin él paga lo mismo el primer día y se queda sin los 45 € si decide quedarse con la antena."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+        "alt": "Antena Starlink fijada al tejado de una casa de madera",
+        "caption": "Antena residencial instalada. Foto de Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.8079
+      },
+      "links": [
+        {
+          "label": "Asegurar el bono antes de pedir",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Quién puede usarlo",
@@ -82,15 +244,36 @@
       ]
     },
     {
-      "heading": "¿Y la oferta de Black Friday?",
+      "heading": "Cuatro errores que hacen perder el crédito aunque pulses el enlace",
       "paragraphs": [
-        "En España, el pedido que consultamos mostraba un 30 % de descuento en los planes de servicio, para contratar antes del 30 de noviembre. Mira el [cálculo del Black Friday de Starlink](/es/reviews/starlink-black-friday-oferta) y comprueba la oferta de tu dirección."
+        "La mayoría de los créditos perdidos vienen de uno de estos cuatro descuidos."
+      ],
+      "bullets": [
+        "Comprar el kit en un distribuidor o marketplace. El programa solo cuenta los pedidos hechos en starlink.com a través del enlace.",
+        "Pagar sin comprobar el aviso. El referido tiene que constar en el pedido original y no se puede añadir después: si no ves el aviso en pantalla, vuelve a abrir el enlace antes de pagar. Si cambias de dispositivo o de navegador a mitad del pedido, abre el enlace otra vez y comprueba el aviso de nuevo.",
+        "Usar el enlace siendo o habiendo sido cliente. El crédito es solo para quien se suscribe a Starlink por primera vez.",
+        "Cancelar demasiado pronto. El crédito exige una suscripción activa y al día durante dos ciclos mensuales completos, y la emisión puede empezar a partir de 60 días desde la activación."
       ]
     },
     {
-      "heading": "Cómo seguirlo",
+      "heading": "¿Y la oferta de Black Friday?",
       "paragraphs": [
-        "En la pestaña Referidos del sitio o de la aplicación puedes ver el estado de quien se suscribió con tu enlace. Starlink avisa por correo cuando alguien hace el pedido. Un referido puede pasar por una verificación de elegibilidad antes de generar recompensa."
+        "En España, el pedido que consultamos mostraba un 30 % de descuento en los planes de servicio, para contratar antes del 30 de noviembre. Mira el [cálculo del Black Friday de Starlink](/es/reviews/starlink-black-friday-oferta) y comprueba la oferta de tu dirección.",
+        "En el resumen del pedido de Madrid con el plan de 100 Mbps, Starlink mostró 35 € menos 10,50 € (30 %), el kit Mini X alquilado a 0 € y 19 € a pagar hoy. Si lo que te preocupa es la permanencia, lee la [guía de permanencia y cancelación de Starlink](/es/reviews/starlink-permanencia-cancelar) y [si Starlink merece la pena](/es/reviews/starlink-vale-la-pena)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+        "alt": "Resumen del pedido de Starlink para Madrid: 35 € menos 10,50 €, kit Mini X a 0 € y 19 € a pagar hoy",
+        "caption": "Madrid: resumen del pedido del plan Residencial de 100 Mbps, consulta del 23 de noviembre de 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.726
+      }
+    },
+    {
+      "heading": "Cómo seguirlo y usar tu propio enlace",
+      "paragraphs": [
+        "En la pestaña Referidos del sitio o de la aplicación puedes ver el estado de quien se suscribió con tu enlace. Starlink avisa por correo cuando alguien hace el pedido. Un referido puede pasar por una verificación de elegibilidad antes de generar recompensa.",
+        "Cuando seas cliente activo de un plan Residencial o de viaje, también podrás invitar a otros, y quien invita recibe el mismo valor que el cliente nuevo. El importe de tu país aparece en el pedido de quien se suscribe."
       ]
     },
     {
@@ -102,13 +285,14 @@
         "¿Cuándo llega la recompensa de Starlink? El centro de ayuda indica que la emisión puede empezar a partir de 60 días desde la activación, si el referido cumple las condiciones del programa.",
         "¿Vale el referido si compro en un distribuidor o marketplace? El programa exige comprar directamente en starlink.com a través del enlace.",
         "Ya fui cliente, ¿puedo usar el enlace? La recompensa es para quien se suscribe a Starlink por primera vez.",
-        "¿Funciona el enlace en España? Según el centro de ayuda de Starlink, el referido vale en la mayoría de los países donde vende, y el valor depende del país en que te registras. Compruébalo en tu pedido."
+        "¿Funciona el enlace en España? Según el centro de ayuda de Starlink, el referido vale en la mayoría de los países donde vende, y el valor depende del país en que te registras. Compruébalo en tu pedido.",
+        "¿Se puede añadir el referido después de pagar? No. Starlink exige que el referido conste en el pedido original, hecho en starlink.com con un enlace de referido, antes del pago."
       ]
     }
   ],
   "cta": {
-    "text": "Comprueba la recompensa que aparece en el pedido para tu dirección antes de pagar.",
-    "label": "Ver el referido en el pedido",
+    "text": "Pagas exactamente el mismo precio que en la web oficial, conservas los 30 días para devolver el kit si no funciona en tu tejado y aseguras 45 € de crédito en España tras dos ciclos mensuales.",
+    "label": "Activar mi bono de 45 € en starlink.com",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

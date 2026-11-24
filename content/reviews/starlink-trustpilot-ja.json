@@ -87,6 +87,36 @@
           ]
         ],
         "caption": "Trustpilot、starlink.comのページ、2026年11月23日に確認。"
+      },
+      "metrics": {
+        "items": [
+          {
+            "label": "TrustScore",
+            "value": "1.6",
+            "unit": "/5",
+            "note": "未登録ページ"
+          },
+          {
+            "label": "レビュー総数",
+            "value": "879",
+            "note": "自発的な投稿のみ"
+          },
+          {
+            "label": "企業の返信",
+            "value": "0%",
+            "note": "否定的464件のうち0件"
+          },
+          {
+            "label": "星1つ vs 星5つ",
+            "value": "71%",
+            "unit": "vs 17%",
+            "note": "サポートと請求が上位"
+          }
+        ],
+        "summary": {
+          "badge": "差の読み方",
+          "text": "好意的な声は速度と安定した信号に集まり、不満は自動対応のサポート、請求、料金の変更に集中しています。"
+        }
       }
     },
     {
@@ -136,15 +166,32 @@
       "heading": "契約する人にとっての意味",
       "paragraphs": [
         "支払う前に、starlink.comであなた自身の住所についてプラン、キット（レンタルか購入か）、税、契約を確認してください。国ごとに、住所ごとにも変わります。注文した日の提示内容をスクリーンショットで残し、請求書のたびに見比べてください。",
+        "いちばん簡単な備えは、starlink.comで直接注文し、料金、キット、契約条件、紹介の適用が出る注文概要の画面を保存しておくことです。そのうえで、最初の請求書をそのスクリーンショットと見比べてください。紹介は、紹介リンクから開いた注文で、支払う前にだけ有効になり、あとから追加することはできません。",
         "レンタルキットと返却の規則は[契約・解約・返金ガイド](/ja/reviews/starlink-cancel-ja)にあります。"
       ],
-      "image": {
-        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-        "alt": "木造の家の屋根に取り付けられたStarlinkのアンテナ",
-        "caption": "住宅用のアンテナ。写真：Starlink",
-        "objectFit": "contain",
-        "aspectRatio": 1.8079
-      }
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "alt": "東京向けのStarlinkプラン画面。ホームが月額JP¥3,550、レンタルキットはJP¥0",
+          "caption": "東京、ホームプラン：月額、JP¥0のレンタルキット、レンタル品の返却の注意書き。保存しておきたい画面の例。2026年11月23日に確認。",
+          "objectFit": "portrait",
+          "aspectRatio": 0.694
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "木造の家の屋根に取り付けられたStarlinkのアンテナ",
+          "caption": "住宅用のアンテナ。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      ],
+      "links": [
+        {
+          "label": "starlink.comで公式の注文を開き、自分の地域を確認する",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "問題があったときの連絡",
@@ -156,15 +203,32 @@
           "label": "TrustpilotのStarlink（starlink.com）のページ",
           "href": "https://www.trustpilot.com/review/starlink.com"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standardキットの部品。アンテナ、ルーター、スタンド、ケーブル",
+          "caption": "Starlink Standardキット：アンテナ、ルーター、スタンド、ケーブル。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ]
     },
     {
       "heading": "契約の前に",
       "paragraphs": [
         "契約の前に、サイトと規約を確認してください。公式サイトと名前を似せたページの見分け方は[Starlinkは信頼できる？](/ja/reviews/starlink-trust-ja)にあります。",
+        "注文画面を開くだけでは何も確定しません。プラン、料金、提供状況、契約条件は、住所を入力してはじめて表示されます。Starlinkの30日ポリシーでは、その期間内に解約してキットを傷つけずに返却すれば返金される旨が、注文画面に示されています。契約付きの割引キットは、30日を過ぎたあとに費用がかかるか確認してください。",
         "[Starlinkの紹介](/ja/coupons/starlink)のページに、リンクとプログラムの規則があります。紹介はクーポンではありません。特典は2か月の利用後に請求書のクレジットとして届き、プライオリティ、エンタープライズ、コマーシャルのプランは対象外です。"
       ],
-      "emphasis": "表の数字から見ると、住所に頼れる別のインターネットがない人にとっては、starlink.comでその住所のプラン、キット、税、契約を確認したうえで契約するのは妥当です。1.6というスコアには、電波の品質よりサポート、請求、料金への不満が多く反映されているからです。"
+      "emphasis": "表の数字から見ると、住所に頼れる別のインターネットがない人にとっては、starlink.comでその住所のプラン、キット、税、契約を確認したうえで契約するのは妥当です。1.6というスコアには、電波の品質よりサポート、請求、料金への不満が多く反映されているからです。",
+      "links": [
+        {
+          "label": "starlink.comで自分の住所の提供状況を確認する",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "よくある質問",
@@ -203,8 +267,8 @@
     ]
   },
   "cta": {
-    "text": "Starlinkのサイトで住所を入力し、支払う前にプラン、キット、月額を確認してください。",
-    "label": "あなたの住所のプランを見る",
+    "text": "紹介リンクから注文を開き、住所でプラン、キット、契約を確認して、支払う前に概要画面を保存してください。料金は公式サイトと同じです。",
+    "label": "starlink.comで自分の注文を開く",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }
