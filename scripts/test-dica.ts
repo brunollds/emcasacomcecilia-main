@@ -44,6 +44,10 @@ assert.ok(storesOf(matchLocal('tem e-mail?')).has('proton'), 'e-mail sem a Proto
 assert.ok(storesOf(matchLocal('tem email criptografado?')).has('proton'), 'email sem a Proton');
 assert.ok(matchLocal('tem pão?').length > 0, 'pão no singular');
 assert.ok(storesOf(matchLocal('tem whey e creatina?')).has('adaptogen'), 'whey e creatina juntos');
+// Qualificador que o catálogo não confirma leva a pergunta inteira ao Dicas.
+assert.deepEqual(matchLocal('tem shampoo sólido?'), []);
+assert.deepEqual(matchLocal('tem creatina vegana?'), []);
+assert.ok(matchLocal('tem mala de viagem?').length > 0, 'mala de viagem');
 assert.deepEqual(matchLocal('tem whey protein?').map(normalize), ['whey protein'], 'o termo exato mais longo vence');
 assert.deepEqual(matchLocal('oi'), []);
 assert.ok(!storesOf(matchLocal('tem mala de viagem?')).has('starlink'), 'mala de viagem não é a Starlink');
@@ -56,7 +60,8 @@ assert.equal(matchStoreName('cupom shein'), undefined, 'loja fora do catálogo')
 // Montagem da resposta: código e link sempre de couponsData.ts, nunca preço.
 const wheyAnswer = buildAnswer({ terms: matchLocal('tem whey?'), searchTerm: 'whey' });
 assert.equal(wheyAnswer.result, 'parceiros');
-assert.ok(wheyAnswer.cards.length >= 3 && wheyAnswer.cards.length <= 5, `whey com ${wheyAnswer.cards.length} cartões`);
+assert.ok(wheyAnswer.cards.length >= 3 && wheyAnswer.cards.length <= 8, `whey com ${wheyAnswer.cards.length} cartões`);
+for (const slug of ['black-skull', 'bold']) assert.ok(wheyAnswer.cards.some((card) => card.slug === slug), `whey sem ${slug}`);
 for (const card of wheyAnswer.cards) {
   const coupon = getCouponBySlug(card.slug);
   assert.ok(coupon, `${card.slug}: cartão de loja inativa`);
@@ -78,6 +83,18 @@ assert.equal(proton.codeLabel, 'Link da Cecília');
 
 const nestle = buildAnswer({ terms: ['fórmula infantil'], searchTerm: 'fórmula infantil' }).cards.find((card) => card.slug === 'nestle-nutre');
 assert.ok(nestle?.warnings.some((text) => text.includes('0 a 12 meses')), 'Nestlé Nutre sem o aviso do CECI');
+// Item em que o CECI não vale: o cartão informa a loja e o aviso, sem o código.
+const newborn = buildAnswer({ terms: matchLocal('tem fórmula infantil de 0 a 12 meses?'), searchTerm: 'fórmula infantil' });
+const newbornCard = newborn.cards.find((card) => card.slug === 'nestle-nutre');
+assert.ok(newbornCard, 'fórmula de 0 a 12 meses sem a Nestlé Nutre');
+assert.equal(newbornCard.code, undefined, 'código oferecido em item excluído');
+assert.equal(newbornCard.codeLabel, 'Sem código para este item');
+assert.ok(newbornCard.warnings.some((text) => text.includes('0 a 12 meses')));
+assert.equal(buildAnswer({ terms: ['Alfamino'], searchTerm: 'Alfamino' }).cards[0]?.code, undefined);
+assert.ok(buildStoreAnswer('nestle-nutre').cards[0]?.code, 'o nome da loja segue com o código');
+assert.ok(buildAnswer({ terms: ['fórmula infantil de 1 a 3 anos'], searchTerm: 'x' }).cards[0]?.code, '1 a 3 anos segue com o código');
+assert.deepEqual(buildAnswer({ terms: ['whey protein', 'Whey Protein'], searchTerm: 'whey' }).cards[0]?.matched.length, 1, 'termo repetido');
+
 for (const answer of [buildAnswer({ terms: ['Fórmulas e leites infantis'], searchTerm: 'fórmula' }), buildStoreAnswer('nestle-nutre')]) {
   const card = answer.cards.find((item) => item.slug === 'nestle-nutre');
   assert.ok(card?.warnings.some((text) => text.includes('0 a 12 meses')), 'Nestlé Nutre sem o aviso do CECI');
@@ -96,7 +113,11 @@ for (const answer of [wheyAnswer, sofaCama, yesstyle, ...catalog.map((store) => 
   const withoutOffer = { ...answer, cards: answer.cards.map(({ discount: _discount, ...card }) => card) };
   assert.doesNotMatch(JSON.stringify(withoutOffer), /R\$/, 'resposta com preço');
   for (const card of answer.cards) {
-    if (card.discount?.includes('R$')) assert.match(card.discount, /bônus|frete/i, `${card.slug}: desconto com preço (${card.discount})`);
+    // Única exceção: o bônus da indicação da Starlink, que é a oferta da parceria e não preço de produto.
+    if (card.discount?.includes('R$')) {
+      assert.equal(card.slug, 'starlink', `${card.slug}: desconto com valor em reais (${card.discount})`);
+      assert.match(card.discount, /bônus/i, `starlink: ${card.discount}`);
+    }
   }
 }
 for (const store of catalog) assert.equal(buildStoreAnswer(store.slug).cards.length, 1, `${store.slug}: sem cartão`);

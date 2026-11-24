@@ -70,7 +70,7 @@ isso não há como a IA inventar cupom.
 
    O servidor descarta qualquer termo que não esteja no vocabulário. O vocabulário vai como bloco
    fixo do prompt, com o cache de prompt da Anthropic ligado.
-6. **Montagem da resposta, no código:** termos → lojas (até 5, as que casaram mais termos primeiro;
+6. **Montagem da resposta, no código:** termos → lojas (até 8, as que casaram mais termos primeiro;
    empate segue a ordem de `couponsData.ts`). Cada cartão leva:
    - nome da loja e o que casou ("sofá modular");
    - loja sem código (Proton e Starlink, só link): o cartão sai sem código, com o texto curto da loja

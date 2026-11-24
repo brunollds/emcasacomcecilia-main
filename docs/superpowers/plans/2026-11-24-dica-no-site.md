@@ -20,7 +20,7 @@ fora do limite, uma busca local por frase inteira faz o mesmo papel. A caixa no 
 - Teto diário global de chamadas à IA: `DICA_AI_DAILY_LIMIT`, padrão 1500; o dia vira à meia-noite de Brasília.
 - Cache: 60 min, até 500 entradas, chave = pergunta normalizada. Guarda só a interpretação (`terms`, `searchTerm`, `outOfScope`, `viaFallback`), nunca o cartão: o cartão é montado a cada resposta com o código vigente.
 - IA: modelo `process.env.DICA_AI_MODEL`, padrão `claude-haiku-5-5` (o mesmo do `emc-whatsapp`), chave `ANTHROPIC_API_KEY_DICA_SITE`, `max_tokens` 300, tempo máximo 4 s.
-- Até 5 lojas por resposta.
+- Até 8 lojas por resposta.
 - Busca do Dicas: `https://dicas.emcasacomcecilia.com/?q=<encodeURIComponent(termo)>`.
 - Perguntas guardadas: JSONL por dia em `DICA_LOG_DIR` (produção: `/home/u150185510/domains/emcasacomcecilia.com/logs/dica`), 90 dias, sem IP, cookie, user agent ou sessão; sem a
   variável, não grava.
@@ -203,6 +203,8 @@ fora do limite, uma busca local por frase inteira faz o mesmo papel. A caixa no 
 - Produces:
   - `handleQuestion(input: { q: unknown; ip: string; now?: number; interpret?: typeof interpretQuestion }): Promise<{ status: number; body: DicaAnswer | { error: string } }>`
   - `route.ts`: `export const runtime = 'nodejs'`; `POST` lê o JSON (corpo > 2 KB ou inválido → 400), tira o IP dos headers e responde `Response.json(body, { status, headers: { 'Cache-Control': 'no-store' } })`; 429 com `Retry-After`.
+- A pergunta passa por `scrubPersonalData` logo depois de validada: o texto limpo é o que vai à IA, ao cache, ao `searchTerm` do Dicas e ao log (dado pessoal digitado por engano nem sai do servidor).
+- Até 8 lojas por resposta (`MAX_CARDS`, decisão de 24/11).
 - Ordem em `handleQuestion`: validar → `checkVisitor` (falhou: 429 com a resposta `limite` e o `dicasUrl` da pergunta) → cache → `matchStoreName` → `takeAiSlot` e `interpret` → sem resultado da IA, `matchLocal` (`viaFallback`) → `buildAnswer` → `cacheSet` → `logQuestion` (sem `await` bloqueando a resposta) → 200.
 
 - [ ] **Step 1: Write the failing tests** (com `interpret` falso):

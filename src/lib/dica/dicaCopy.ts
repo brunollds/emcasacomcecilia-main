@@ -11,5 +11,6 @@ export const DICA_COPY = {
     reward: 'Código de recompensa',
     referral: 'Código de indicação',
     link: 'Link da Cecília',
+    noCode: 'Sem código para este item',
   },
 } as const;

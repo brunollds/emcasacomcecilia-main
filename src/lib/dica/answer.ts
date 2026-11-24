@@ -4,7 +4,7 @@ import { getCatalog, getVocabulary, normalize } from './catalog';
 import { DICA_COPY } from './dicaCopy';
 import type { DicaAnswer, DicaCard, DicaResult } from './dicaTypes';
 
-const MAX_CARDS = 5;
+const MAX_CARDS = 8;
 
 export function dicasSearchUrl(term: string): string {
   return `${brandLinks.dicas.replace(/\/$/, '')}/?q=${encodeURIComponent(term)}`;
@@ -28,16 +28,21 @@ function toCard(slug: string, matched: string[], now: number): DicaCard | undefi
   if (!coupon) return undefined;
   const matchedKeys = new Set(matched.map(normalize));
   const store = getCatalog().find((item) => item.slug === slug);
-  const warnings = (store?.avisos ?? [])
-    .filter((warning) => matched.length === 0 || warning.termos.some((term) => matchedKeys.has(normalize(term))))
-    .map((warning) => warning.texto);
+  const applicable = (store?.avisos ?? []).filter(
+    (warning) => matched.length === 0 || warning.termos.some((term) => matchedKeys.has(normalize(term))),
+  );
+  // "Fórmula infantil de 0 a 12 meses": o CECI não vale, então o cartão informa a loja sem oferecer o código.
+  const codeExcluded =
+    matched.length > 0 &&
+    applicable.some((warning) => (warning.semCodigo ?? []).some((term) => matchedKeys.has(normalize(term))));
+  const offer = codeExcluded ? { codeLabel: DICA_COPY.codeLabels.noCode } : codeOf(coupon, now);
   return {
     slug,
     brand: coupon.brand,
     matched,
-    ...codeOf(coupon, now),
+    ...offer,
+    warnings: applicable.map((warning) => warning.texto),
     note: coupon.offerMode === 'affiliate-link' ? coupon.cutoutNote : undefined,
-    warnings,
     storeUrl: coupon.offerUrl,
     couponPageUrl: `/cupons/${slug}`,
   };
@@ -59,7 +64,10 @@ export function buildAnswer(input: {
   for (const term of input.terms) {
     const entry = vocabulary.get(normalize(term));
     if (!entry) continue;
-    for (const slug of entry.slugs) byStore.set(slug, [...(byStore.get(slug) ?? []), entry.term]);
+    for (const slug of entry.slugs) {
+      const terms = byStore.get(slug) ?? [];
+      if (!terms.includes(entry.term)) byStore.set(slug, [...terms, entry.term]);
+    }
   }
 
   const order = new Map(getActiveCoupons().map((coupon, index) => [coupon.slug, index]));

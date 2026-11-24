@@ -9,7 +9,7 @@ const STOPWORDS = new Set(
   'a ai algum alguma alguem as cecilia cupom cupons codigo codigos com comprar da das de desconto do dos e em eu ha indica loja lojas me na nas no nos o oi ola onde os ou para parceiro parceiros pode por pra procuro qual quais que quero se sim tem tenho tera teria tambem um uma vende vendem voce voces vcs'.split(' '),
 );
 const CONNECTORS = new Set(['de', 'da', 'do', 'para', 'pra', 'com', 'sem']);
-const MAX_NGRAM = 6;
+const MAX_NGRAM = 8;
 const MIN_PREFIX_LENGTH = 4;
 
 // Singular simples, dos dois lados: "sofás" e "sofá", "pães" e "pão", "modulares" e "modulare" casam entre si.
@@ -48,6 +48,7 @@ export function matchLocal(question: string): string[] {
   const found = new Set<string>();
 
   for (const words of questionSegments(question)) {
+    const segmentFound = new Set<string>();
     const consumed = new Array<boolean>(words.length).fill(false);
     const ngrams = (visit: (start: number, size: number, phrase: string) => void) => {
       for (let size = Math.min(MAX_NGRAM, words.length); size >= 1; size -= 1) {
@@ -68,15 +69,26 @@ export function matchLocal(question: string): string[] {
     ngrams((start, size, phrase) => {
       const term = exact.get(phrase);
       if (!term) return;
-      found.add(term);
+      segmentFound.add(term);
       consumed.fill(true, start, start + size);
       if (size === 1) singleWords.push({ index: start, phrase });
     });
+    // Palavra que sobra depois do exato é um qualificador que o catálogo não confirma ("shampoo sólido", "creatina
+    // vegana"): o trecho inteiro vai ao Dicas. "mala de viagem" passa, porque "viagem" é termo do catálogo ligado à mala.
+    const isQualifier = (index: number) =>
+      index >= 2 && CONNECTORS.has(words[index - 1]) && consumed[index - 2] && exact.has(words[index]);
+    const opensTerms = (word: string) =>
+      word.length >= MIN_PREFIX_LENGTH && vocabulary.some((item) => item.key.startsWith(`${word} `));
+    const unconfirmed = words.some(
+      (word, index) => !consumed[index] && !STOPWORDS.has(word) && !isQualifier(index) && !opensTerms(word),
+    );
+    if (segmentFound.size > 0 && unconfirmed) continue;
+
     const hasLeftover = (start: number, size: number) =>
       words.some((word, index) => (index < start || index >= start + size) && !consumed[index] && !STOPWORDS.has(word));
     const addPrefixed = (phrase: string) => {
       for (const item of vocabulary) {
-        if (item.key.startsWith(`${phrase} `)) found.add(item.term);
+        if (item.key.startsWith(`${phrase} `)) segmentFound.add(item.term);
       }
     };
     for (const { index, phrase } of singleWords) {
@@ -89,6 +101,7 @@ export function matchLocal(question: string): string[] {
       if (phrase.length < MIN_PREFIX_LENGTH || hasLeftover(start, size)) return;
       addPrefixed(phrase);
     });
+    for (const term of segmentFound) found.add(term);
   }
   return [...found];
 }

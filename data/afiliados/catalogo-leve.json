@@ -1157,6 +1157,7 @@
         "nome": "Fórmulas e leites infantis",
         "tipos": [
           "fórmula infantil",
+          "fórmula infantil de 0 a 12 meses",
           "fórmula infantil de 1 a 3 anos",
           "composto lácteo infantil",
           "leite em pó",
@@ -1185,7 +1186,9 @@
       "FiberMais",
       "Novasource",
       "Nanlac",
-      "Ninho"
+      "Ninho",
+      "Alfamino",
+      "Alfaré"
     ],
     "fonteSite": "parcial",
     "fontes": [
@@ -1211,9 +1214,17 @@
           "fórmula infantil de 1 a 3 anos",
           "composto lácteo infantil",
           "Fórmulas e leites infantis",
-          "Nanlac"
+          "Nanlac",
+          "fórmula infantil de 0 a 12 meses",
+          "Alfamino",
+          "Alfaré"
         ],
-        "texto": "O código não vale em fórmula infantil de 0 a 12 meses nem em Alfamino e Alfaré."
+        "texto": "O código não vale em fórmula infantil de 0 a 12 meses nem em Alfamino e Alfaré.",
+        "semCodigo": [
+          "fórmula infantil de 0 a 12 meses",
+          "Alfamino",
+          "Alfaré"
+        ]
       }
     ]
   },

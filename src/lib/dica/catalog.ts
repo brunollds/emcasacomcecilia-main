@@ -6,7 +6,8 @@ export type CatalogStore = {
   categorias: { nome: string; tipos: string[] }[];
   destaques?: string[];
   naoVende?: string[];
-  avisos?: { termos: string[]; texto: string }[];
+  // `semCodigo`: itens em que o código não vale. Perguntado um deles, o cartão sai sem código, só com o aviso.
+  avisos?: { termos: string[]; texto: string; semCodigo?: string[] }[];
 };
 
 export type VocabularyEntry = { term: string; slugs: string[] };
