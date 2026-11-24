@@ -1,0 +1,319 @@
+{
+  "id": 1432,
+  "slug": "starlink-residential-100-200-mbps-or-max",
+  "translationKey": "starlink-planos-residenciais",
+  "locale": "en",
+  "hideFromPortugueseListings": true,
+  "title": "Starlink Residential 100 Mbps, 200 Mbps, or Max: prices, hardware, and which plan fits",
+  "seoTitle": "Starlink 100 Mbps, 200 Mbps, or Max: which plan to pick",
+  "type": "Decision Guide",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Editing and analysis",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Editing and analysis",
+      "initials": "BL"
+    }
+  ],
+  "description": "Compare Starlink Residential 100 Mbps, 200 Mbps, and Max in the US and UK: pricing, included hardware, free install triggers, speeds, and plan change rules.",
+  "metaDescription": "Starlink 100 Mbps, 200 Mbps, or Max: US and UK pricing, V4/V5/Mini vs Standard 4 kit differences, official speeds, and rental plan rules.",
+  "publishedAt": "November 24, 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/starlink/starlink-residential-100-200-mbps-or-max-capa.webp",
+  "imageAlt": "Comparison cover featuring a black panel with STARLINK and the title 100, 200 Mbps or Max? beside a Starlink dish mounted on a wooden gable roof against a blue sky.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "Starlink divides residential service into 100 Mbps, 200 Mbps, and Max tiers, though availability varies by address. Beyond speed limits, your plan choice changes the included dish kit, free installation eligibility, and self-service plan switching. Check your address via our official referral link to confirm local terms and earn a bill credit after two paid cycles."
+      ],
+      "links": [
+        {
+          "label": "Check available plans at your address",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "US and UK pricing and how the referral credit applies",
+      "paragraphs": [
+        "Both the United States and the United Kingdom display all three residential speed tiers on starlink.com, but with very different promotional structures. For a Nevada test address in the US, Residential 100 Mbps runs $38.50/month promo ($55 regular), Residential 200 Mbps runs $59.50/month promo ($85 regular), and Residential Max runs $91/month promo ($130 regular), each paired with a $0 upfront and $0/month rental kit plus $20 shipping and taxes.",
+        "For a Westminster, London address in the UK, the order summary listed standard rates with no promotional discount: £40/month for 100 Mbps, £60/month for 200 Mbps, and £80/month for Max, with £0 hardware rental, £19 shipping, and an explicit \"No contracts\" label. Starting an order as a first-time customer through the official referral link adds a US$ 100 bill credit in the US or £40 in the UK after two full paid billing cycles, never deducted from hardware charges at checkout."
+      ],
+      "comparisonTable": {
+        "caption": "Prices captured from reference residential addresses in the official checkout flow on November 23, 2026. Referral credit posts to your monthly bill after two complete paid billing cycles.",
+        "headers": [
+          "Market and plan",
+          "Monthly rate (regular)",
+          "Included rental hardware",
+          "Install fee and bill credit"
+        ],
+        "rows": [
+          [
+            "US (Nevada): Residential 100 Mbps",
+            "$38.50/mo ($55 regular)",
+            "V5 dish + Router Mini ($0 rental)",
+            "$99 optional install; US$ 100 bill credit"
+          ],
+          [
+            "US (Nevada): Residential 200 Mbps",
+            "$59.50/mo ($85 regular)",
+            "V4 dish + Router 4 ($0 rental)",
+            "Free install ($0); US$ 100 bill credit"
+          ],
+          [
+            "US (Nevada): Residential Max",
+            "$91/mo ($130 regular)",
+            "Standard 4 X + extra Router Mini ($0)",
+            "Free install ($0); US$ 100 bill credit"
+          ],
+          [
+            "UK (London): Residential 100 Mbps",
+            "£40/mo",
+            "Mini Rental + Router Mini (£0 rental)",
+            "£74 optional install; £40 bill credit"
+          ],
+          [
+            "UK (London): Residential 200 Mbps",
+            "£60/mo",
+            "Standard 4 rental (£0 rental)",
+            "£74 optional install; £40 bill credit"
+          ],
+          [
+            "UK (London): Residential Max",
+            "£80/mo",
+            "Standard 4 rental (£0 rental)",
+            "Free install (£0 vs £74); £40 bill credit"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "Day-one payment and bill credit simulator (US, Nevada reference)",
+        "scenarios": [
+          {
+            "label": "100 Mbps with referral link",
+            "lines": [
+              {
+                "label": "V5 + Router Mini rental + shipping",
+                "value": "$0.00 kit + $20.00 shipping"
+              },
+              {
+                "label": "Monthly service ($38.50/mo promo vs. $55 regular)",
+                "value": "$38.50/mo (starts on activation or 7 days after delivery)"
+              },
+              {
+                "label": "Bill credit after 2 full paid cycles",
+                "value": "US$ 100.00 on account",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Due at checkout (kit + shipping)",
+            "totalValue": "$20 (+ tax)",
+            "note": "Optional professional installation adds $99 on 100 Mbps. Monthly billing starts on activation or 7 days after delivery; US$ 100 credits after two paid cycles."
+          },
+          {
+            "label": "200 Mbps with referral link",
+            "lines": [
+              {
+                "label": "V4 + Router 4 rental + pro install + shipping",
+                "value": "$0.00 kit + $0.00 install + $20.00 shipping"
+              },
+              {
+                "label": "Monthly service ($59.50/mo promo vs. $85 regular)",
+                "value": "$59.50/mo (starts on activation or 7 days after delivery)"
+              },
+              {
+                "label": "Bill credit after 2 full paid cycles",
+                "value": "US$ 100.00 on account",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Due at checkout (kit + shipping)",
+            "totalValue": "$20 (+ tax)",
+            "note": "Stepping up to 200 Mbps in the US waives the $99 install fee and includes Router 4; monthly service starts on activation or 7 days after delivery."
+          },
+          {
+            "label": "Without referral link / retail",
+            "lines": [
+              {
+                "label": "Hardware & checkout (official vs. retail)",
+                "value": "$20 (+ tax) on $0 US rental, or full store price at retail"
+              },
+              {
+                "label": "Monthly service & address promo",
+                "value": "$38.50/mo starts on activation or 7 days after delivery (no retail $0 kit)"
+              },
+              {
+                "label": "Referral bill credit",
+                "value": "$0.00 (forfeited)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Referral credit received",
+            "totalValue": "$0",
+            "note": "Skipping the referral link forfeits the US$ 100 bill credit, and buying at retail stores excludes both $0 rental kits and referral rewards."
+          }
+        ]
+      },
+      "postParagraphs": [
+        "Even when hardware shows $0 upfront rental, you pay only kit and shipping at checkout while the first recurring monthly fee starts on activation or 7 days after delivery, whichever comes first. The referral reward never reduces day-one charges and posts as bill credit after two paid cycles."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+        "alt": "Starlink US order page for Nevada displaying Residential 100 Mbps, 200 Mbps, and Max tiers with rental hardware lines",
+        "caption": "Nevada US checkout screen: stepping between 100 Mbps, 200 Mbps, and Max swaps both dish generation and free install eligibility.",
+        "objectFit": "contain",
+        "aspectRatio": 0.7159
+      }
+    },
+    {
+      "heading": "What changes beyond Mbps: hardware generation, free install, and terms",
+      "paragraphs": [
+        "Most shoppers compare only the headline megabit caps, yet the checkout silently ties each plan to distinct hardware and installation pricing. In the US Nevada checkout, choosing 100 Mbps assigns a V5 kit plus Router Mini rental and charges $99 if you want professional installation; moving to 200 Mbps switches the kit to V4 plus Router 4 and drops professional installation to $0; picking Max adds an extra Router Mini alongside the Standard 4 X kit at $0 rental.",
+        "In the UK, the hardware jump happens at 200 Mbps while the free installation trigger waits until Max. Specifically, UK 100 Mbps ships a Mini Rental with Router Mini and prices optional installation at £74, whereas 200 Mbps upgrades the hardware to Standard 4 rental while keeping the £74 install charge, and only Max bundles professional installation at £0.",
+        "Unlike Brazil or Mexico, where subsidized hardware purchase offers can attach a mandatory 12-month term and early change fees, the tested US and UK rental offers carried no fixed-term lockup, requiring only that rented kits be returned if you cancel. If you want to review full cancellation mechanics and regional 12-month contract rules across countries, read our [Starlink contract and cancellation guide](/en/reviews/starlink-contract-cancel-refund)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Official Starlink residential dish and Wi-Fi router hardware kit",
+        "caption": "Hardware kit pairing changes by tier: Mini or V5 kits appear on entry plans, while Standard 4 and Router 4 appear on higher tiers.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Official speeds, latency, and which tier fits your home",
+      "paragraphs": [
+        "Starlink's current Broadband Facts documentation (DOC-1470-99699-90) and Help Center residential plan specification (886607c4) define all three tiers with unlimited data, typical latency under 50 ms, and 99% or better typical availability. Download ceilings separate the tiers: Residential 100 Mbps delivers 80 to 100 Mbps typical download (capped at 100 Mbps), Residential 200 Mbps delivers 80 to 200 Mbps typical download (capped at 200 Mbps), and Residential Max delivers 80 to 400 Mbps typical download, reaching 400+ Mbps under light local network load.",
+        "Published upload speeds are 15 to 35 Mbps typical across the broadband specification sheet, with Help Center guidance listing 20 to 40 Mbps for Max. Older legacy documentation (DOC-1414-37800-64) listed only a single Standard Fixed profile at 25 to 100 Mbps, which has now been superseded in markets where all three tiers appear.",
+        "As a practical rule of thumb rather than a site-specific speed measurement at your property: 100 Mbps comfortably handles 4K streaming, video calls, and everyday browsing for small households; 200 Mbps adds headroom when multiple remote workers upload files or stream simultaneously, and unlocks V4 + Router 4 hardware plus free install in the US; Max makes the most sense for heavy cloud backups, very large households, or UK buyers who want free £74 installation bundled with Standard 4."
+      ],
+      "comparisonTable": {
+        "caption": "Official speed and latency metrics from DOC-1470-99699-90 and Help Center article 886607c4. Legacy document DOC-1414-37800-64 previously showed only 25 to 100 Mbps Standard Fixed.",
+        "headers": [
+          "Residential plan",
+          "Official typical download",
+          "Official typical upload",
+          "Latency and data cap"
+        ],
+        "rows": [
+          [
+            "Residential 100 Mbps",
+            "80 to 100 Mbps (capped at 100 Mbps)",
+            "15 to 35 Mbps",
+            "Under 50 ms; unlimited data"
+          ],
+          [
+            "Residential 200 Mbps",
+            "80 to 200 Mbps (capped at 200 Mbps)",
+            "15 to 35 Mbps",
+            "Under 50 ms; unlimited data"
+          ],
+          [
+            "Residential Max",
+            "80 to 400 Mbps (up to 400+ Mbps)",
+            "15 to 35 Mbps (20 to 40 Mbps Help Center)",
+            "Under 50 ms; unlimited data"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "Starlink dish mounted on a residential roof with clear view of the sky",
+        "caption": "Clear sky visibility remains the biggest factor in hitting advertised download ranges and staying under 50 ms latency.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "Plan change rules and the 30-day return window",
+      "paragraphs": [
+        "Billing cycles cut over at 00:00 UTC across all Starlink accounts. When switching tiers inside account management where eligible, selecting NOW triggers upgrades right away with a prorated charge, whereas an immediate downgrade cuts your speed ceiling right away with no refund for unused days left in the current cycle. Selecting DATE schedules the switch cleanly for your next billing date.",
+        "Watch two critical restrictions before counting on easy tier hopping. First, residential plans using a $0 or £0 rental kit do not allow self-service plan changes from your account dashboard. Second, changing plans on a promotional or term-backed offer can forfeit promotional monthly pricing or incur a contract change fee where a 12-month term applies. Remember that you have 30 days from the payment due date to cancel service and return undamaged hardware for a refund of the kit and first monthly charge, and you can also check our [Starlink coupons and referral page](/en/coupons/starlink) before ordering."
+      ],
+      "checklist": {
+        "title": "Checklist before placing your residential order",
+        "items": [
+          "Confirm in the order summary which dish and router generation your selected tier ships.",
+          "Check whether professional installation is $0 or billed extra at your chosen tier.",
+          "Remember that $0 or £0 rental kits block self-service plan switching in the account portal.",
+          "Review whether your market attaches promotional rate conditions or a 12-month hardware term.",
+          "Verify the applied referral notice on starlink.com before submitting payment."
+        ]
+      },
+      "links": [
+        {
+          "label": "Verify your plan, kit, and referral credit",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Verdict: which Starlink plan should you pick",
+      "paragraphs": [
+        "In the United States, Residential 200 Mbps often represents the sweet spot: for $21/month above 100 Mbps on promo pricing, you upgrade to V4 plus Router 4 hardware, eliminate the $99 installation fee, and double your download ceiling to 200 Mbps. Only pick 100 Mbps if keeping monthly outlay lowest matters more than installation savings and upgraded hardware.",
+        "In the United Kingdom, 200 Mbps balances £60/month pricing with the Standard 4 dish rental, while 100 Mbps keeps bills lowest at £40/month if you are comfortable self-installing the Mini kit. Max only pays off in the UK if you specifically want the £74 professional install included alongside maximum speed headroom."
+      ],
+      "emphasis": "Never choose a tier from the speed label alone: verify the assigned hardware generation, whether professional installation becomes free on the next tier up, and whether rental status restricts later plan switches."
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "Can I switch plans later if I take a free rental kit? No via self-service: Starlink states that residential plans tied to a hardware rental do not permit plan changes through account self-service.",
+        "Does the referral bonus make the dish or installation cheaper at checkout? No. Whether US$ 100 in the US or £40 in the UK, the bonus arrives as a service bill credit after two complete paid monthly cycles.",
+        "Is the US 200 Mbps plan better value than 100 Mbps? Often yes if you want professional installation, because 200 Mbps drops the $99 install charge to $0 and upgrades hardware from V5 and Router Mini to V4 and Router 4.",
+        "Does downgrading immediately refund the rest of my paid month? No. Choosing an immediate downgrade lowers your speed right away without refunding the remaining days of the current billing cycle.",
+        "How does the 30-day trial period work? You can cancel service and return the undamaged kit within 30 days of the payment due date to receive a refund for the kit and the first month of service per order terms."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Enter your street address on the official site to check local tier prices, verify included hardware and installation, and lock in your referral bill credit after two paid cycles.",
+    "label": "Check local plans and bonus credit",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Pricing, hardware pairings, contract clauses, and speed documents were checked directly on Starlink public pages and checkout flows. We participate in the official referral program and may earn a reward at no extra cost to you.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-contract-cancel-refund"
+    },
+    {
+      "slug": "is-starlink-worth-it"
+    },
+    {
+      "slug": "starlink-referral-link-how-it-works"
+    },
+    {
+      "slug": "starlink-mini-vs-standard-which-to-choose"
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "you want to match 100 Mbps, 200 Mbps, or Max against included router hardware and free professional install eligibility.",
+      "you are ordering directly on starlink.com and want the referral credit attached before payment."
+    ],
+    "skipIf": [
+      "you already have reliable fixed fiber at home at a significantly lower monthly rate.",
+      "you expect to jump freely between speed tiers every month on a zero-upfront rental kit."
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "id": 1436,
+  "slug": "piani-starlink-100-200-mbps-o-max",
+  "translationKey": "starlink-planos-residenciais",
+  "locale": "it",
+  "hideFromPortugueseListings": true,
+  "title": "Piani Starlink 100 Mbps, 200 Mbps o Max: prezzi, antenna, contratto e quale scegliere",
+  "seoTitle": "Piani Starlink 100 Mbps, 200 Mbps o Max: quale scegliere",
+  "type": "Guida alla scelta",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Redazione e analisi",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redazione e analisi",
+      "initials": "BL"
+    }
+  ],
+  "description": "Confronto piani Starlink Residenziale 100 Mbps, 200 Mbps e Max in Italia: sconto 3 mesi, kit Mini X o Standard 4, installazione e cambio piano.",
+  "metaDescription": "Piani Starlink 100 Mbps, 200 Mbps o Max in Italia: prezzi per 3 mesi e a regime, kit Mini X vs Standard 4, velocità ufficiali e regole.",
+  "publishedAt": "24 novembre 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa.webp",
+  "imageAlt": "Copertina comparativa con pannello nero con STARLINK e il titolo 100, 200 Mbps o Max? accanto a un'antenna Starlink montata sul tetto in legno contro il cielo azzurro.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Risposta rapida",
+      "paragraphs": [
+        "Starlink suddivide l'abbonamento domestico tra 100 Mbps, 200 Mbps e Max, ma la scelta incide su molto più della sola velocità massima. Salendo di fascia cambiano l'antenna fornita, l'inclusione dell'installazione professionale e la possibilità di modificare il piano in seguito. Verifica il tuo indirizzo dal link ufficiale per confermare tariffe locali e ottenere credito in fattura dopo due cicli pagati."
+      ],
+      "links": [
+        {
+          "label": "Verifica i piani disponibili al tuo indirizzo",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Prezzi in Italia e come funziona il credito di invito",
+      "paragraphs": [
+        "Per un indirizzo di Milano su starlink.com, tutte e tre le opzioni residenziali propongono uno sconto del 50% sui primi tre mesi: Residenziale 100 Mbps a 17,50 €/mese (poi 35 €/mese), Residenziale 200 Mbps a 22,50 €/mese (poi 45 €/mese) e Residenziale Max a 32,50 €/mese (poi 65 €/mese), con spedizione pari a 19 €.",
+        "L'intera gamma italiana mostrava kit a noleggio a 0 € e la dicitura chiara \"Nessun contratto, prova di 30 giorni\". Ordinando per la prima volta tramite il link ufficiale di invito, si ottengono 45 € di credito direttamente in fattura dopo due cicli mensili completi pagati puntualmente, senza ridurre in alcun modo il costo dell'ordine al momento dell'acquisto."
+      ],
+      "comparisonTable": {
+        "caption": "Importi rilevati su un indirizzo di riferimento a Milano nel checkout ufficiale il 23/11/2026. Il bonus di invito entra in fattura dopo due cicli mensili completi pagati.",
+        "headers": [
+          "Piano residenziale (Italia)",
+          "Canone 3 mesi (poi a regime)",
+          "Kit a noleggio incluso",
+          "Installazione e credito invito"
+        ],
+        "rows": [
+          [
+            "Residenziale 100 Mbps",
+            "17,50 €/mese (poi 35 €)",
+            "Mini X a noleggio a 0 €",
+            "Installazione 172 € opzionale; 45 € in fattura"
+          ],
+          [
+            "Residenziale 200 Mbps",
+            "22,50 €/mese (poi 45 €)",
+            "Standard 4 a noleggio a 0 €",
+            "Installazione 172 € opzionale; 45 € in fattura"
+          ],
+          [
+            "Residenziale Max",
+            "32,50 €/mese (poi 65 €)",
+            "Standard 4 a noleggio a 0 €",
+            "Installazione da 172 € gratis; 45 € in fattura"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "Simulatore di esborso iniziale e credito futuro in fattura (Italia)",
+        "scenarios": [
+          {
+            "label": "200 Mbps con link di invito",
+            "lines": [
+              {
+                "label": "Kit Standard 4 a noleggio + spedizione",
+                "value": "0,00 € + 19,00 €"
+              },
+              {
+                "label": "Primo mese scontato (primi 3 mesi)",
+                "value": "22,50 €/mese (all'attivazione o 7 giorni dopo consegna)"
+              },
+              {
+                "label": "Credito in fattura dopo 2 cicli pagati",
+                "value": "45,00 € sul conto",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Addebito oggi all'ordine (solo spedizione)",
+            "totalValue": "19 €",
+            "note": "Al checkout paghi solo i 19 € di spedizione; il primo canone scatta all'attivazione o 7 giorni dopo la consegna, e i 45 € arrivano dopo due cicli pagati."
+          },
+          {
+            "label": "Max con link di invito",
+            "lines": [
+              {
+                "label": "Kit Standard 4 + installazione pro + spedizione",
+                "value": "0,00 € + 0,00 € + 19,00 €"
+              },
+              {
+                "label": "Primo mese scontato (primi 3 mesi)",
+                "value": "32,50 €/mese (all'attivazione o 7 giorni dopo consegna)"
+              },
+              {
+                "label": "Credito in fattura dopo 2 cicli pagati",
+                "value": "45,00 € sul conto",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Addebito oggi all'ordine (solo spedizione)",
+            "totalValue": "19 €",
+            "note": "Azzera i 172 € di installazione tecnica. Il canone parte all'attivazione o 7 giorni dopo la consegna e dal quarto mese passa a 65 €/mese."
+          },
+          {
+            "label": "200 Mbps senza link di invito",
+            "lines": [
+              {
+                "label": "Kit Standard 4 a noleggio + spedizione",
+                "value": "0,00 € + 19,00 €"
+              },
+              {
+                "label": "Primo mese scontato (primi 3 mesi)",
+                "value": "22,50 €/mese (all'attivazione o 7 giorni dopo consegna)"
+              },
+              {
+                "label": "Credito invito in fattura",
+                "value": "0,00 €"
+              }
+            ],
+            "totalLabel": "Addebito oggi all'ordine (solo spedizione)",
+            "totalValue": "19 €",
+            "note": "Paghi gli stessi 19 € al momento dell'ordine (e il canone all'attivazione o 7 giorni dopo la consegna), ma senza link perdi i 45 € futuri in fattura."
+          }
+        ]
+      },
+      "postParagraphs": [
+        "Ricorda che con il kit a noleggio a 0 € paghi all'ordine soltanto i 19 € di spedizione: il primo canone mensile viene addebitato all'attivazione o 7 giorni dopo la consegna (a seconda di ciò che avviene prima), mentre i 45 € di invito arrivano in fattura dopo due mensilità complete pagate."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+        "alt": "Schermata d'ordine Starlink per Milano con i piani 100 Mbps, 200 Mbps e Max e kit a noleggio",
+        "caption": "Checkout italiano: tutti i piani offrono 3 mesi al 50%, mentre da 200 Mbps il kit passa da Mini X a Standard 4.",
+        "objectFit": "contain",
+        "aspectRatio": 0.6065
+      }
+    },
+    {
+      "heading": "Cosa cambia oltre ai Mbps: antenna, noleggio e posa gratuita",
+      "paragraphs": [
+        "Fermarsi al numero di megabit nasconde due differenze pratiche fondamentali nella pagina d'ordine. In Italia, il piano 100 Mbps include il kit Mini X a noleggio a 0 €, mentre passando a 200 Mbps o Max si riceve la parabola Standard 4 sempre a 0 €. L'installazione fai-da-te non comporta costi extra su nessun livello, ma richiedere un tecnico costa 172 € su 100 Mbps e 200 Mbps e diventa gratuito solo scegliendo Max.",
+        "Poiché in Italia l'hardware viene concesso in comodato o noleggio gratuito, non esistono vincoli temporali fissi ma in caso di disdetta occorre restituire l'attrezzatura completa. Nei mercati extraeuropei come Brasile o Messico esistono invece offerte d'acquisto scontate soggette a vincolo di 12 mesi e penali proporzionali.",
+        "Per approfondire le condizioni di recesso, restituzione del kit e le regole contrattuali nei diversi Paesi, puoi leggere la nostra [guida su contratto e disdetta Starlink](/it/reviews/starlink-contratto-disdetta)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antenna e router Wi-Fi ufficiali dei kit residenziali Starlink",
+        "caption": "Il piano scelto determina se a casa arriva il kit compatto Mini X oppure il sistema Standard 4.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Velocità ufficiali, latenza e profilo d'uso domestico",
+      "paragraphs": [
+        "I documenti ufficiali sulle prestazioni a banda larga (DOC-1470-99699-90) e l'articolo del Centro assistenza sui piani residenziali (886607c4) prevedono traffico dati illimitato, latenza tipica inferiore a 50 ms e disponibilità tipica almeno pari al 99% su tutta la gamma. In download, 100 Mbps eroga tipicamente da 80 a 100 Mbps (limitato a 100 Mbps); 200 Mbps opera tra 80 e 200 Mbps (limitato a 200 Mbps); e Max varia tra 80 e 400 Mbps, superando i 400 Mbps nelle aree meno congestionate.",
+        "In upload le specifiche indicano 15-35 Mbps tipici su tutti i livelli, mentre il Centro assistenza cita 20-40 Mbps per il piano Max. Il vecchio documento DOC-1414-37800-64 riportava soltanto il profilo storico Standard Fixed da 25 a 100 Mbps, ormai superato dalla nuova scala a tre livelli.",
+        "Come regola pratica generale per la casa, senza rappresentare un test eseguito presso la tua abitazione: 100 Mbps gestisce agilmente smart working, videochiamate e streaming 4K in famiglie piccole; 200 Mbps offre margine quando più persone lavorano o scaricano file pesanti insieme, sbloccando Standard 4 con soli 10 € al mese in più a regime rispetto al piano base; Max conviene soprattutto a case molto connesse o a chi vuole risparmiare i 172 € di installazione tecnica."
+      ],
+      "comparisonTable": {
+        "caption": "Valori ufficiali tratti da DOC-1470-99699-90 e dall'articolo 886607c4 del Centro assistenza. Il precedente DOC-1414-37800-64 mostrava solo Standard Fixed 25-100 Mbps.",
+        "headers": [
+          "Piano residenziale",
+          "Download tipico ufficiale",
+          "Upload tipico ufficiale",
+          "Latenza e dati"
+        ],
+        "rows": [
+          [
+            "Residenziale 100 Mbps",
+            "80-100 Mbps (tetto 100 Mbps)",
+            "15-35 Mbps",
+            "Sotto 50 ms; dati illimitati"
+          ],
+          [
+            "Residenziale 200 Mbps",
+            "80-200 Mbps (tetto 200 Mbps)",
+            "15-35 Mbps",
+            "Sotto 50 ms; dati illimitati"
+          ],
+          [
+            "Residenziale Max",
+            "80-400 Mbps (fino a 400+ Mbps)",
+            "15-35 Mbps (20-40 Mbps aiuto)",
+            "Sotto 50 ms; dati illimitati"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "Antenna Starlink montata su un tetto domestico con visuale libera verso il cielo",
+        "caption": "Una visuale priva di ostacoli sul tetto resta decisiva per mantenere le velocità dichiarate e latenza sotto 50 ms.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "Regole sul cambio piano e finestra di reso di 30 giorni",
+      "paragraphs": [
+        "La chiusura dei cicli di fatturazione Starlink avviene sempre alle 00:00 UTC (01:00 in Italia con ora solare). Quando il cambio è disponibile, selezionare ORA applica subito gli upgrade con addebito proporzionale, mentre un downgrade immediato riduce subito il limite di velocità senza rimborsare i giorni residui del mese già pagato; l'opzione DATA pianifica la modifica al rinnovo successivo.",
+        "Occorre però fare attenzione a due paletti: i piani residenziali con kit a noleggio non consentono di cambiare piano in autonomia dal portale clienti, e modificare offerta durante promozioni o vincoli attivi può far decadere gli sconti. Hai comunque 30 giorni dalla data di scadenza del pagamento per annullare il servizio e restituire il kit integro ottenendo il rimborso di hardware e primo mese; puoi controllare tutti i dettagli anche nella nostra [pagina coupon e invito Starlink](/it/coupons/starlink)."
+      ],
+      "checklist": {
+        "title": "Lista di controllo prima di completare l'ordine",
+        "items": [
+          "Verifica nel riepilogo il prezzo dopo i primi tre mesi (35 €, 45 € oppure 65 €).",
+          "Controlla se il piano selezionato assegna Mini X oppure Standard 4 a noleggio.",
+          "Ricorda che con il kit a noleggio non potrai cambiare piano in autonomia dall'app.",
+          "Valuta se il risparmio di 172 € sull'installazione tecnica rende conveniente il piano Max.",
+          "Accertati che l'avviso di invito applicato sia visibile su starlink.com prima di pagare."
+        ]
+      },
+      "links": [
+        {
+          "label": "Verifica piano, kit e bonus al tuo indirizzo",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Verdetto: quale piano Starlink conviene scegliere",
+      "paragraphs": [
+        "In Italia il piano Residenziale 200 Mbps rappresenta il miglior punto d'equilibrio per la maggior parte delle abitazioni: con 22,50 € nei primi tre mesi e 45 € a regime, raddoppi il limite rispetto al piano da 100 Mbps e ottieni il kit Standard 4 pagando soltanto 10 € al mese in più rispetto all'offerta base.",
+        "Scegli 100 Mbps se installi da solo l'antenna Mini X e vuoi contenere la spesa mensile a 35 € dal quarto mese, oppure passa a Max soprattutto se intendi richiedere l'installazione professionale inclusa risparmiando subito 172 €."
+      ],
+      "emphasis": "Non valutare solo lo sconto dei primi tre mesi: confronta il canone dal quarto mese in poi, la differenza tra Mini X e Standard 4 e il blocco sul cambio piano per i kit a noleggio."
+    },
+    {
+      "heading": "Domande frequenti",
+      "bullets": [
+        "Posso passare da 100 Mbps a 200 Mbps più avanti se ho il kit a noleggio? No in autonomia: nei piani residenziali con attrezzatura a noleggio Starlink disattiva il cambio piano self-service dall'account.",
+        "Quanto costa Starlink dopo i primi 3 mesi in Italia? Nell'ordine di riferimento a Milano, 100 Mbps passa da 17,50 € a 35 €, 200 Mbps da 22,50 € a 45 € e Max da 32,50 € a 65 € al mese.",
+        "I 45 € del link di invito scalano dal prezzo del kit al checkout? No. Il credito arriva direttamente in fattura dopo due cicli mensili completi pagati.",
+        "Se scelgo un downgrade immediato ricevo il rimborso dei giorni rimanenti? No. Quando il cambio piano è disponibile, la riduzione immediata abbassa subito la velocità senza rimborsi sulla parte residua del mese.",
+        "Come funziona la prova di 30 giorni? Puoi annullare l'abbonamento e restituire il kit integro entro 30 giorni dalla data di scadenza del pagamento per ricevere il rimborso del kit e del primo mese."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Inserisci il tuo indirizzo sul sito ufficiale per verificare tariffe per 3 mesi e a regime, modello di antenna assegnato e credito di 45 € in fattura dopo due cicli pagati.",
+    "label": "Controlla piani e credito al tuo indirizzo",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Prezzi, abbinamenti hardware, condizioni di noleggio e schede tecniche ufficiali sono stati verificati direttamente sulle pagine pubbliche e nel checkout Starlink. Partecipiamo al programma ufficiale di invito senza costi aggiuntivi per il lettore.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-contratto-disdetta"
+    },
+    {
+      "slug": "starlink-conviene"
+    },
+    {
+      "slug": "starlink-link-invito"
+    },
+    {
+      "slug": "starlink-mini-o-standard-quale-scegliere"
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "vuoi confrontare 100 Mbps, 200 Mbps e Max considerando prezzo dopo tre mesi, kit e posa gratuita.",
+      "stai ordinando direttamente su starlink.com verificando il bonus di invito prima del pagamento."
+    ],
+    "skipIf": [
+      "al tuo indirizzo è già disponibile una connessione in fibra stabile a un canone molto più basso.",
+      "prevedi di cambiare fascia di velocità ogni mese nonostante i limiti sui kit a noleggio."
+    ]
+  }
+}

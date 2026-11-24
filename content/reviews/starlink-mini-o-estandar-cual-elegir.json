@@ -1,0 +1,339 @@
+{
+  "id": 1422,
+  "slug": "starlink-mini-o-estandar-cual-elegir",
+  "translationKey": "starlink-mini-ou-padrao",
+  "locale": "es",
+  "title": "Starlink Mini (Mini X) o Estándar (Standard 4): router, consumo y cuál elegir",
+  "seoTitle": "Starlink Mini o Estándar: diferencias y cuál elegir",
+  "type": "Guía comparativa",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Edición y análisis",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edición y análisis",
+      "initials": "BL"
+    }
+  ],
+  "description": "Compara Starlink Mini (Mini X) y Estándar (Standard 4): router integrado o externo, alcance Wi-Fi, consumo eléctrico, alquiler en España y compra en México.",
+  "metaDescription": "Starlink Mini o Estándar (Standard 4): router, cobertura Wi-Fi, consumo de 25-40 W vs 75-100 W, alquiler en España, compra en México y bono oficial.",
+  "publishedAt": "24 de noviembre de 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-mini-o-estandar-cual-elegir-capa.webp",
+  "imageAlt": "Portada comparativa con panel negro que muestra STARLINK y el título ¿Starlink Mini o Estándar? junto a la foto oficial de la antena Starlink Standard con soporte y su router vertical separado.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "Starlink Mini (Mini X) conviene si buscas instalación sencilla, bajo consumo en SAI o batería, portabilidad o, en México, evitar el plazo de 12 meses del Standard 4 X. El kit Estándar (Standard 4) gana en cobertura Wi-Fi y puertos Ethernet. Ambos mantienen el bono oficial en starlink.com; mira cómo aparece cada uno abajo."
+      ],
+      "links": [
+        {
+          "label": "Ver qué kit muestra mi dirección en starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Dónde aparece cada kit hoy en España y México",
+      "paragraphs": [
+        "Según el país, el kit cambia por el plan que eliges o por selección directa en pantalla.",
+        "En España (Madrid), los tres planes van en alquiler de 0 € sin permanencia de 12 meses (19 € de envío hoy; hay que devolver el hardware alquilado si cancelas). El Residencial 100 Mbps (24,50 €/mes, base 35 € con 30 % hasta fin de noviembre) entrega el Mini X; en cambio, el 200 Mbps (31,50 €/mes, base 45 €, instalación opcional de 172 € igual que en 100 Mbps) y el Máx. (45,50 €/mes, base 65 €, instalación profesional a 0 €) entregan el Standard 4.",
+        "En México (Ciudad de México), la pantalla mostró únicamente Residencial Max ($1,485 MXN al mes más $55 MXN de costo del servicio regulatorio) con compra directa y elección entre dos kits: el Kit Starlink Mini sale en $2,303 MXN ($2,999 menos $696; $2,778 MXN hoy con $475 MXN de envío) sin botón de plazo de 12 meses en el resumen, mientras que el Standard 4 X cuesta $5,743 MXN ($7,599 menos $1,856; $6,218 MXN hoy) e incluye un plazo de 12 meses con tarifa de rescisión anticipada de hasta $4,600 MXN."
+      ],
+      "comparisonTable": {
+        "caption": "Pantallas públicas de pedido consultadas el 23/11/2026. Precios y kits varían según la dirección.",
+        "headers": [
+          "Mercado y plan",
+          "Kit en el pedido",
+          "Condición del kit y permanencia",
+          "Cuota mensual"
+        ],
+        "rows": [
+          [
+            "España, Residencial 100 Mbps (Madrid)",
+            "Mini X",
+            "Alquiler 0 €, sin permanencia (devolver al cancelar)",
+            "24,50 € (base 35 €)"
+          ],
+          [
+            "España, 200 Mbps y Máx. (Madrid)",
+            "Standard 4 (instalación 0 € en Máx.)",
+            "Alquiler 0 €, sin permanencia (devolver al cancelar)",
+            "31,50 € (200) / 45,50 € (Máx.)"
+          ],
+          [
+            "México, Residencial Max + Kit Mini (CDMX)",
+            "Kit Starlink Mini",
+            "Compra a $2,303 MXN (sin botón de 12 meses en el resumen)",
+            "$1,485 MXN + $55 MXN reg."
+          ],
+          [
+            "México, Residencial Max + Standard 4 X (CDMX)",
+            "Standard 4 X",
+            "Compra a $5,743 MXN, plazo de 12 meses (hasta $4,600 MXN)",
+            "$1,485 MXN + $55 MXN reg."
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+        "alt": "Pantalla de pedido de Starlink en Madrid con el plan 100 Mbps a 24,50 € al mes, el alquiler del Mini X a 0 € y el aviso de devolución",
+        "caption": "Pedido en Madrid: el plan de 100 Mbps incluye el Mini X en alquiler a 0 € sin compromiso anual.",
+        "objectFit": "contain",
+        "aspectRatio": 0.622
+      }
+    },
+    {
+      "heading": "Diferencias técnicas oficiales: Mini vs Standard V4 + Router 3",
+      "paragraphs": [
+        "La tienda informa: la diferencia de arquitectura está en integrar el router Wi-Fi dentro de la antena compacta o separarlo en el interior de la vivienda, además del consumo eléctrico.",
+        "Starlink Mini integra Wi-Fi 5 en el plato exterior y consume una media de 25 a 40 W. El kit Standard (V4) conecta la antena exterior por un cable de 15 m al Router 3 interior con Wi-Fi 6 tribanda. Donde esté disponible como accesorio o en malla, el Router Mini opcional (83,6 × 138 × 27 mm, 112 g, uso interior) aporta Wi-Fi 6 Dual Band 2×2 MU-MIMO hasta 204 m², 235 dispositivos y 2 puertos Ethernet RJ-45 de 1 Gbps."
+      ],
+      "comparisonTable": {
+        "caption": "Especificaciones públicas de hardware publicadas por Starlink para Mini, Router Mini y Standard V4 con Router 3.",
+        "headers": [
+          "Especificación",
+          "Starlink Mini (Mini X)",
+          "Starlink Estándar (Standard V4 + Router 3)"
+        ],
+        "rows": [
+          [
+            "Dimensiones de la antena",
+            "298,5 × 259 × 38,5 mm",
+            "594 × 383 × 39,7 mm"
+          ],
+          [
+            "Peso de la antena",
+            "1,10 kg (1,16 kg con soporte; 1,53 kg con soporte y cable CC de 15 m)",
+            "2,9 kg (3,2 kg con soporte; 3,8 kg con soporte y cable de 15 m)"
+          ],
+          [
+            "Consumo medio y energía",
+            "25 a 40 W (12 a 48 V 60 W; USB-C PD mín. 100 W 20 V/5 A con cable oficial)",
+            "75 a 100 W (fuente IP66 Tipo 4 y cable CA de 1,5 m incluidos)"
+          ],
+          [
+            "Router y Wi-Fi",
+            "Wi-Fi 5 integrado (802.11ac Dual Band 3×3 MU-MIMO); admite Router Mini (Wi-Fi 6)",
+            "Router 3 separado (43,4 × 298,6 × 120,4 mm; 0,57 kg; Wi-Fi 6 tribanda 4×4 MU-MIMO)"
+          ],
+          [
+            "Cobertura Wi-Fi y equipos",
+            "Hasta 112 m² y 128 dispositivos (hasta 204 m² y 235 con Router Mini)",
+            "Hasta 297 m² y 235 dispositivos"
+          ],
+          [
+            "Puertos Ethernet LAN",
+            "1 puerto con bloqueo y tapón (cable Ethernet no incluido)",
+            "2 puertos con bloqueo en Router 3 (cable Starlink de 15 m incluido)"
+          ],
+          [
+            "Grado de protección (IP)",
+            "IP67 Tipo 4 en antena (pierde IP67 con cable RJ45 común)",
+            "Antena IP67 Tipo 4; fuente IP66 Tipo 4; Router 3 IP56 interior"
+          ],
+          [
+            "Modo Bypass y Mesh",
+            "Modo Bypass (salir exige reinicio de fábrica) y Mesh Starlink hasta 3 nodos; sin mesh de terceros",
+            "Modo Bypass y Mesh Starlink hasta 3 nodos; sin mesh de terceros"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Consultar especificaciones oficiales en starlink.com/specifications",
+          "href": "https://www.starlink.com/specifications"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antena y router interior oficial de Starlink frente al formato compacto integrado",
+        "caption": "Antena exterior conectada a un router dedicado dentro de casa. Foto oficial de Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Señal Wi-Fi en casa grande, SAI (no-break) y red cableada",
+      "paragraphs": [
+        "Si la antena queda en el tejado lejos de las habitaciones o tras muros gruesos, el router separado dentro de la vivienda ofrece una cobertura mucho más sólida.",
+        "Regla práctica, sin prueba nuestra: como el Wi-Fi 5 de la Mini sale desde la propia antena exterior (hasta 112 m² y 128 equipos), los forjados y muros de ladrillo u hormigón reducen la señal al entrar en casa. Con el Standard, el cable de 15 m lleva la conexión directo al Router 3 en el salón (hasta 297 m² y 235 dispositivos en Wi-Fi 6 tribanda). Si eliges la Mini en vivienda grande, conviene añadir un Router Mini interior (hasta 204 m²) o un sistema mesh oficial Starlink de hasta 3 nodos, ya que no admite mallas de terceros.",
+        "Para respaldo eléctrico con SAI, no-break, batería portátil o energía solar, la Mini marca la diferencia: gasta de 25 a 40 W de media frente a 75 a 100 W del Standard. Cuenta nuestra sobre las cifras oficiales: con la misma batería, la Mini mantiene el servicio más del doble de tiempo y además admite alimentación directa de 12 a 48 V o USB-C PD de al menos 100 W (20 V/5 A) con el cable oficial.",
+        "En conexiones por cable o routers Dual-WAN, ten en cuenta las diferencias físicas. La Mini incorpora 1 puerto Ethernet LAN con bloqueo y el cable Ethernet se vende aparte; si colocas un cable RJ45 común sin sellado oficial, pierde la protección IP67 Tipo 4 frente a lluvia y polvo. El Router 3 del kit Standard ya trae dos puertos LAN protegidos dentro de casa. Ambos admiten Modo Bypass para pasar la conexión por cable a un router o sistema propio, aunque en la Mini salir del Bypass exige restablecimiento de fábrica; además, admite mesh oficial Starlink (compatible con Router Mini, Router 3 y router de 2.ª generación, hasta 3 nodos; incompatible con mesh de terceros)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Componentes completos del kit Starlink Standard: antena, Router 3, soporte y cables",
+        "caption": "Kit Starlink Standard con router separado, base y cableado completo. Foto oficial de Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Coste con el bono de referido tras 2 ciclos y regla de 30 días",
+      "paragraphs": [
+        "Tanto la antena Mini como el kit Standard conservan el bono oficial cuando el pedido nace en starlink.com desde el enlace de referido: 45 € en España y, como valor de referencia de noviembre en México, MX$ 700 (confirma el importe en tu pantalla de pedido antes de pagar).",
+        "Este crédito entra en la factura después de dos ciclos mensuales completos y al día (o en efectivo mediante Stripe donde esté disponible) y nunca rebaja el precio del hardware en el checkout. Si compras un kit en tienda física, marketplace o por transferencia de cuenta, pierdes el bono por completo y no se puede añadir después.",
+        "Para comprobar si el Wi-Fi o la cobertura del cielo te convencen en casa, aplica la regla de 30 días: cancelar el servicio y devolver el kit sin daños dentro de los 30 días da derecho al reembolso según las condiciones mostradas en tu pedido. Revisa cómo activar el bono en la [página de referido Starlink](/es/coupons/starlink) y consulta las diferencias de contrato en la [guía de permanencia y cancelación](/es/reviews/starlink-permanencia-cancelar)."
+      ],
+      "simulator": {
+        "title": "Simulador: pago en el pedido y cuándo llega el bono",
+        "scenarios": [
+          {
+            "label": "Kit Mini / Mini X por enlace oficial",
+            "lines": [
+              {
+                "label": "Hardware (ES alquiler / MX compra)",
+                "value": "0 € (ES) o $2,303 MXN (MX, sin 12 meses)"
+              },
+              {
+                "label": "Cuota mensual (100 Mbps ES / Max MX)",
+                "value": "24,50 €/mes (ES) o $1,485+$55 MXN (MX)"
+              },
+              {
+                "label": "Bono de referido tras 2 ciclos",
+                "value": "45 € (ES) o MX$ 700 ref. nov. (MX)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "A pagar hoy en el pedido",
+            "totalValue": "19 € envío (ES) o $2,778 MXN (MX); bono tras 2 ciclos",
+            "note": "En México el bono es referencia de noviembre: confirma el importe en tu pantalla de pedido antes de pagar."
+          },
+          {
+            "label": "Kit Standard 4 / 4 X por enlace oficial",
+            "lines": [
+              {
+                "label": "Hardware (ES 200-Máx. / MX Max)",
+                "value": "0 € alquiler (ES) o $5,743 MXN 12m (MX)"
+              },
+              {
+                "label": "Cuota mensual (200 ES / Max MX)",
+                "value": "31,50 €/mes (ES) o $1,485+$55 MXN (MX)"
+              },
+              {
+                "label": "Bono de referido tras 2 ciclos",
+                "value": "45 € (ES) o MX$ 700 ref. nov. (MX)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "A pagar hoy en el pedido",
+            "totalValue": "19 € envío (ES) o $6,218 MXN (MX); bono tras 2 ciclos",
+            "note": "En España devuelves el kit al cancelar; en México el Standard 4 X tiene plazo de 12 meses. En México, frente a la referencia de noviembre de MX$ 700, confirma el importe en tu pantalla de pedido antes de pagar."
+          },
+          {
+            "label": "Kit comprado fuera de starlink.com",
+            "lines": [
+              {
+                "label": "Compra en tienda o marketplace",
+                "value": "Hardware pagado íntegro, sin oferta de plan"
+              },
+              {
+                "label": "Alquiler 0 € o promo de dirección",
+                "value": "No aplica fuera de starlink.com"
+              },
+              {
+                "label": "Crédito oficial de referido",
+                "value": "0 € / $0 MXN (excluido)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Bono recibido en factura",
+            "totalValue": "0 € / $0 MXN",
+            "note": "Las compras en comercios externos o marketplaces no admiten bono de referido."
+          }
+        ]
+      },
+      "links": [
+        {
+          "label": "Abrir pedido oficial con prueba de 30 días y bono",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Lista de revisión antes de elegir el kit",
+      "paragraphs": [
+        "Repasa estos cinco puntos antes de pagar para confirmar que la antena y su router encajan en tu instalación."
+      ],
+      "checklist": {
+        "title": "5 comprobaciones antes de decidir el kit",
+        "items": [
+          "Comprobé en starlink.com qué kit corresponde a cada plan en mi dirección (Mini X o Standard 4 en España; Mini o Standard 4 X en México).",
+          "Medí la vivienda: por encima de 112 m² o con muros gruesos valoré el Router 3 del kit Standard (hasta 297 m²) o un nodo mesh adicional.",
+          "Si usaré SAI, no-break o energía solar, comparé los 25 a 40 W de consumo medio de la Mini frente a 75 a 100 W de la Standard.",
+          "Si conectaré cable de red o router propio, confirmé que la Mini tiene 1 puerto sin cable Ethernet incluido y requiere cable oficial para mantener IP67.",
+          "Abrí el pedido desde el enlace de referido antes de pagar y verifiqué el importe del bono y la regla de 30 días para cancelar y devolver el kit sin daños."
+        ]
+      }
+    },
+    {
+      "heading": "Veredicto: ¿Starlink Mini o Estándar?",
+      "paragraphs": [
+        "Para respaldo eléctrico con SAI o paneles solares, portabilidad, instalaciones sencillas o para evitar en México el compromiso de 12 meses del Standard 4 X, la Starlink Mini (Mini X) es la opción más práctica. Pesa 1,10 kg, consume entre 25 y 40 W y cubre viviendas de hasta 112 m² con facilidad.",
+        "Para casas grandes con varios tabiques, muchos equipos conectados o quien necesita Wi-Fi 6 tribanda hasta 297 m² y dos puertos Ethernet interiores sin añadir equipamiento extra, Starlink Estándar (Standard V4 con Router 3) ofrece mejor cobertura de serie. Recuerda que puedes cancelar el servicio y devolver el equipo sin daños dentro de 30 días conforme a las condiciones de tu pedido."
+      ],
+      "emphasis": "Si priorizas bajo consumo en SAI o evitar un plazo de 12 meses en México, elige la Mini; si buscas cobertura Wi-Fi 6 en casa amplia y dos puertos Ethernet interiores desde la caja, quédate con la Estándar."
+    },
+    {
+      "heading": "Preguntas frecuentes",
+      "bullets": [
+        "¿La Starlink Mini es más lenta que la Estándar? La velocidad máxima depende sobre todo del plan contratado (100 Mbps, 200 Mbps o Máx.) y de la zona, no solo del tamaño de la antena; en México, el Kit Mini funciona con el plan Residencial Max. La gran diferencia está en la cobertura Wi-Fi interior y en el consumo eléctrico.",
+        "¿Funciona la Starlink Mini en una casa grande sin otro router? El Wi-Fi 5 integrado cubre hasta 112 m² desde la propia antena y pierde intensidad tras muros o tejados. Para casas grandes conviene añadir un Router Mini interior (hasta 204 m²) o malla Starlink.",
+        "¿Cuál consume menos electricidad en un SAI o no-break? La Starlink Mini consume una media de 25 a 40 W (y acepta USB-C PD mínimo de 100 W 20 V/5 A con cable oficial), frente a 75 a 100 W del kit Standard, por lo que dura más del doble con la misma batería.",
+        "¿Puedo conectar cable Ethernet y activar Modo Bypass en ambas? Sí. La Mini tiene 1 puerto Ethernet LAN con bloqueo (cable Ethernet vendido aparte; un RJ45 común anula el IP67) y el Router 3 del kit Standard trae 2 puertos. Ambas admiten Modo Bypass para conectar un router o sistema propio por cable (salir en la Mini exige restablecimiento de fábrica) y mesh oficial Starlink (compatible con Router Mini, Router 3 y router de 2.ª generación, hasta 3 nodos; incompatible con mesh de terceros).",
+        "¿El enlace de referido funciona tanto con Mini como con Estándar? Sí. Todo pedido residencial nuevo realizado en starlink.com desde el enlace recibe el crédito de factura tras dos ciclos pagados (45 € en España; confirma en pantalla el importe en México)."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "buscas mínimo consumo en SAI o batería, montaje ligero o evitar el contrato de 12 meses donde aparece ligado al kit grande.",
+      "tu vivienda entra dentro de la cobertura integrada o planeas conectar la Mini por cable o a un nodo mesh compatible."
+    ],
+    "skipIf": [
+      "necesitas cubrir una casa amplia con muros gruesos en Wi-Fi 6 tribanda desde la caja sin añadir otro router.",
+      "necesitas dos puertos Ethernet protegidos en el router incluido desde el primer día."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Redactado por Bruno Luiz con especificaciones públicas, centro de ayuda y pantallas de pedido de Starlink. Participamos en referidos y podemos recibir recompensa.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-permanencia-cancelar"
+    },
+    {
+      "slug": "starlink-vale-la-pena"
+    },
+    {
+      "slug": "comprar-starlink-web-oficial-o-tiendas"
+    },
+    {
+      "slug": "planes-starlink-100-200-mbps-o-max"
+    }
+  ],
+  "cta": {
+    "text": "El pedido se abre en starlink.com desde el enlace de referido oficial, mostrando el kit disponible en tu dirección y manteniendo los 30 días para cancelar y devolver el kit sin daños. El bono llega a tu factura tras dos ciclos pagados.",
+    "label": "Ver qué kit aparece en mi dirección en starlink.com",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}

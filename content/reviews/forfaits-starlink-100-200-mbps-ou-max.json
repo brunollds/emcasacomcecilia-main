@@ -1,0 +1,300 @@
+{
+  "id": 1434,
+  "slug": "forfaits-starlink-100-200-mbps-ou-max",
+  "translationKey": "starlink-planos-residenciais",
+  "locale": "fr",
+  "hideFromPortugueseListings": true,
+  "title": "Forfaits Starlink 100 Mbit/s, 200 Mbit/s ou Max : prix, antenne, contrat et lequel choisir",
+  "seoTitle": "Forfaits Starlink 100 Mbit/s, 200 Mbit/s ou Max : quel choix",
+  "type": "Guide de choix",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Édition et analyse",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Édition et analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Comparez les forfaits Starlink Résidentiel 100 Mbit/s, 200 Mbit/s et Max en France : tarifs, kit Mini X ou Standard 4, installation et règles de changement.",
+  "metaDescription": "Forfaits Starlink 100 Mbit/s, 200 Mbit/s ou Max en France : tarifs promo, kit Mini X vs Standard 4, installation gratuite et débits officiels.",
+  "publishedAt": "24 novembre 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/starlink/forfaits-starlink-100-200-mbps-ou-max-capa.webp",
+  "imageAlt": "Couverture comparative présentant un panneau noir avec STARLINK et le titre 100, 200 Mbps ou Max ? à côté d'une antenne Starlink montée sur un toit en bois sous un ciel bleu.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Starlink répartit son offre résidentielle entre 100 Mbit/s, 200 Mbit/s et Max, mais le choix dépasse le seul débit. Chaque palier modifie le kit livré, le coût de la pose et l'accès au changement d'offre. Testez votre adresse via notre lien officiel pour confirmer les tarifs locaux et obtenir un crédit après deux cycles payés."
+      ],
+      "links": [
+        {
+          "label": "Vérifier les forfaits disponibles à votre adresse",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Tarifs en France et fonctionnement du crédit de parrainage",
+      "paragraphs": [
+        "Pour une adresse à Paris sur starlink.com, les trois paliers résidentiels apparaissent avec une remise promotionnelle de 30 % : Résidentiel 100 Mbit/s à 24,50 €/mois (au lieu de 35 €/mois), Résidentiel 200 Mbit/s à 31,50 €/mois (au lieu de 45 €/mois) et Résidentiel Max à 45,50 €/mois (au lieu de 65 €/mois), auxquels s'ajoutent 19 € de livraison.",
+        "Sur cette page française, chaque formule associe un kit en location à 0 € à la commande et 0 €/mois, sans engagement de durée fixe (avec préavis de 30 jours indiqué pour d'éventuelles évolutions tarifaires). En passant commande pour la première fois via le lien officiel de parrainage, vous recevez 45 € de crédit directement sur votre facture après deux cycles mensuels complets réglés à temps, sans jamais réduire le montant payé pour le matériel le premier jour."
+      ],
+      "comparisonTable": {
+        "caption": "Montants relevés pour une adresse de référence à Paris dans le tunnel officiel le 23/11/2026. Le crédit de parrainage arrive en facture après deux cycles complets payés.",
+        "headers": [
+          "Forfait résidentiel (France)",
+          "Mensualité promo (normale)",
+          "Kit en location inclus",
+          "Installation et crédit parrainage"
+        ],
+        "rows": [
+          [
+            "Résidentiel 100 Mbit/s",
+            "24,50 €/mois (de 35 €)",
+            "Mini X en location à 0 €",
+            "Installation 172 € optionnelle ; 45 € en facture"
+          ],
+          [
+            "Résidentiel 200 Mbit/s",
+            "31,50 €/mois (de 45 €)",
+            "Standard 4 en location à 0 €",
+            "Installation 172 € optionnelle ; 45 € en facture"
+          ],
+          [
+            "Résidentiel Max",
+            "45,50 €/mois (de 65 €)",
+            "Standard 4 en location à 0 €",
+            "Installation de 172 € offerte ; 45 € en facture"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "Simulateur du paiement initial et du crédit futur sur facture (France)",
+        "scenarios": [
+          {
+            "label": "200 Mbit/s avec lien de parrainage",
+            "lines": [
+              {
+                "label": "Location kit Standard 4 + livraison",
+                "value": "0,00 € + 19,00 €"
+              },
+              {
+                "label": "Première mensualité promotionnelle",
+                "value": "31,50 €/mois (à l'activation ou 7 jours après livraison)"
+              },
+              {
+                "label": "Crédit sur facture après 2 cycles payés",
+                "value": "45,00 € sur le compte",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Montant payé à la commande (livraison)",
+            "totalValue": "19 €",
+            "note": "Vous ne réglez que les 19 € de livraison le jour de la commande ; la première mensualité est prélevée à l'activation ou 7 jours après livraison, et les 45 € arrivent après deux cycles payés."
+          },
+          {
+            "label": "Max avec lien de parrainage",
+            "lines": [
+              {
+                "label": "Location Standard 4 + installation pro + livraison",
+                "value": "0,00 € + 0,00 € + 19,00 €"
+              },
+              {
+                "label": "Première mensualité promotionnelle",
+                "value": "45,50 €/mois (à l'activation ou 7 jours après livraison)"
+              },
+              {
+                "label": "Crédit sur facture après 2 cycles payés",
+                "value": "45,00 € sur le compte",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Montant payé à la commande (livraison)",
+            "totalValue": "19 €",
+            "note": "Inclut gratuitement la pose professionnelle à 172 €. La mensualité démarre à l'activation ou 7 jours après livraison, et les 45 € s'appliquent ensuite en facture."
+          },
+          {
+            "label": "200 Mbit/s sans lien de parrainage",
+            "lines": [
+              {
+                "label": "Location kit Standard 4 + livraison",
+                "value": "0,00 € + 19,00 €"
+              },
+              {
+                "label": "Première mensualité promotionnelle",
+                "value": "31,50 €/mois (à l'activation ou 7 jours après livraison)"
+              },
+              {
+                "label": "Crédit de parrainage sur facture",
+                "value": "0,00 €"
+              }
+            ],
+            "totalLabel": "Montant payé à la commande (livraison)",
+            "totalValue": "19 €",
+            "note": "Vous réglez exactement les mêmes 19 € au départ (et la mensualité à l'activation ou 7 jours après livraison), mais vous renoncez aux 45 € de crédit futur."
+          }
+        ]
+      },
+      "postParagraphs": [
+        "Gardez à l'esprit que vous payez uniquement la livraison (19 € sur kit loué à 0 €) le jour de la commande : la première mensualité est facturée à l'activation ou 7 jours après la livraison, selon ce qui intervient en premier, et le bonus de 45 € arrive après deux mois réglés."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+        "alt": "Page de commande Starlink à Paris affichant les forfaits 100 Mbit/s, 200 Mbit/s et Max avec les kits en location",
+        "caption": "Écran de commande en France : 100 Mbit/s attribue le kit Mini X à 0 €, tandis que 200 Mbit/s et Max passent au kit Standard 4.",
+        "objectFit": "contain",
+        "aspectRatio": 0.5909
+      }
+    },
+    {
+      "heading": "Ce qui change au-delà des Mbit/s : antenne, location et pose offerte",
+      "paragraphs": [
+        "Comparer uniquement le plafond de téléchargement masque deux différences concrètes visibles sur la colonne de matériel. En France, le forfait Résidentiel 100 Mbit/s expédie le kit Mini X en location gratuite, alors que le passage à 200 Mbit/s remplace ce matériel par l'antenne Standard 4 tout en conservant le loyer du kit à 0 €. L'auto-installation ne coûte rien sur aucun palier, mais une pose professionnelle facturée 172 € sur 100 Mbit/s et 200 Mbit/s devient gratuite avec le forfait Max.",
+        "Comme le matériel est fourni en location à 0 € dans cette offre française, vous devez impérativement restituer le kit complet si vous résiliez le contrat. Par ailleurs, la page indique que les tarifs promotionnels n'ont pas de durée fixe garantie et que Starlink se réserve la possibilité d'ajuster ses prix avec un préavis de 30 jours.",
+        "Sur d'autres marchés comme le Brésil ou le Mexique, certains kits subventionnés imposent une durée minimale de 12 mois avec indemnité proportionnelle en cas de sortie anticipée. Pour comparer en détail les conditions de résiliation et de restitution de matériel, consultez notre [guide sur l'engagement et la résiliation Starlink](/fr/reviews/starlink-engagement-resilier)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antenne et routeur Wi-Fi officiels fournis dans les kits résidentiels Starlink",
+        "caption": "Le choix du forfait en France détermine directement si vous recevez le kit Mini X ou l'équipement Standard 4.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Débits officiels, latence et usages adaptés à chaque foyer",
+      "paragraphs": [
+        "Selon les fiches officielles de haut débit Starlink (DOC-1470-99699-90) et l'article dédié du Centre d'aide (886607c4), les trois offres incluent les données illimitées, une latence typique inférieure à 50 ms et une disponibilité typique d'au moins 99 %. Le niveau 100 Mbit/s délivre un débit descendant typique de 80 à 100 Mbit/s (plafonné à 100 Mbit/s) ; le niveau 200 Mbit/s offre de 80 à 200 Mbit/s (plafonné à 200 Mbit/s) ; et le niveau Max s'étend de 80 à 400 Mbit/s, pouvant dépasser 400 Mbit/s selon la charge locale.",
+        "En envoi (upload), les documents techniques indiquent une plage typique de 15 à 35 Mbit/s sur les trois niveaux, le Centre d'aide précisant 20 à 40 Mbit/s pour Max. L'ancien document DOC-1414-37800-64 ne mentionnait encore que le profil Standard Fixed de 25 à 100 Mbit/s, désormais remplacé par cette grille à trois paliers.",
+        "En règle pratique générale pour un logement, sans constituer une mesure réalisée à votre domicile : 100 Mbit/s suffit largement pour les visioconférences, le télétravail quotidien et plusieurs flux 4K ; 200 Mbit/s apporte une vraie réserve lorsque plusieurs personnes téléchargent en parallèle tout en débloquant le kit Standard 4 ; et Max vise surtout les grands foyers ou ceux qui veulent économiser les 172 € d'installation professionnelle."
+      ],
+      "comparisonTable": {
+        "caption": "Plages officielles issues du document DOC-1470-99699-90 et de l'article 886607c4 du Centre d'aide. L'ancien document DOC-1414-37800-64 listait uniquement 25 à 100 Mbit/s.",
+        "headers": [
+          "Forfait résidentiel",
+          "Débit descendant typique",
+          "Débit montant typique",
+          "Latence et données"
+        ],
+        "rows": [
+          [
+            "Résidentiel 100 Mbit/s",
+            "80 à 100 Mbit/s (plafond 100 Mbit/s)",
+            "15 à 35 Mbit/s",
+            "Moins de 50 ms ; données illimitées"
+          ],
+          [
+            "Résidentiel 200 Mbit/s",
+            "80 à 200 Mbit/s (plafond 200 Mbit/s)",
+            "15 à 35 Mbit/s",
+            "Moins de 50 ms ; données illimitées"
+          ],
+          [
+            "Résidentiel Max",
+            "80 à 400 Mbit/s (jusqu'à 400+ Mbit/s)",
+            "15 à 35 Mbit/s (20 à 40 Mbit/s sur aide)",
+            "Moins de 50 ms ; données illimitées"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "Antenne Starlink posée sur un toit résidentiel orientée vers un ciel dégagé",
+        "caption": "Un horizon bien dégagé sur le toit reste essentiel pour tenir les plages de débit et une latence sous 50 ms.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "Règles de changement de forfait et délai de retour de 30 jours",
+      "paragraphs": [
+        "Tous les cycles de facturation Starlink basculent à 00:00 UTC (01:00 heure de Paris en hiver). Lorsqu'un compte autorise la modification, l'option MAINTENANT applique immédiatement les hausses de forfait avec facturation au prorata, tandis qu'une baisse immédiate réduit le débit sur-le-champ sans remboursement du reste du mois déjà payé ; l'option DATE planifie le basculement pour la prochaine échéance mensuelle.",
+        "Attention toutefois à deux limites majeures : les forfaits résidentiels accompagnés d'un kit en location ne permettent pas de changer de forfait en libre-service depuis l'espace client, et modifier une offre promotionnelle ou soumise à durée minimale peut faire perdre le tarif réduit. Enfin, vous disposez de 30 jours à compter de la date d'échéance du paiement pour résilier et renvoyer le kit intact afin d'obtenir le remboursement du matériel et du premier mois, et vous pouvez retrouver toutes les infos sur notre [page des codes et du parrainage Starlink](/fr/coupons/starlink)."
+      ],
+      "checklist": {
+        "title": "Liste de contrôle avant de valider votre commande",
+        "items": [
+          "Vérifiez dans le récapitulatif si le forfait inclut le kit Mini X ou Standard 4 en location.",
+          "Contrôlez si vous posez l'antenne vous-même ou si l'installation offerte sur Max rentabilise le surcoût.",
+          "Notez qu'un kit en location à 0 € bloque le changement d'offre en libre-service.",
+          "Vérifiez l'horizon du toit dans l'application Starlink avant de fixer l'antenne.",
+          "Assurez-vous de voir la mention de parrainage appliquée sur starlink.com avant le paiement."
+        ]
+      },
+      "links": [
+        {
+          "label": "Vérifier forfait, matériel et crédit à votre adresse",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Verdict : quel forfait Starlink choisir",
+      "paragraphs": [
+        "Pour la majorité des foyers en France, le palier Résidentiel 200 Mbit/s offre le meilleur équilibre à 31,50 €/mois en tarif promotionnel : pour 7 € de plus par mois que le 100 Mbit/s, vous doublez la capacité théorique et vous recevez l'équipement Standard 4 au lieu du Mini X.",
+        "Le forfait 100 Mbit/s reste idéal pour réduire la facture mensuelle au minimum si vous installez l'antenne vous-même, tandis que le forfait Max se justifie surtout si vous souhaitez faire appel à un installateur professionnel pour profiter des 172 € inclus gratuitement."
+      ],
+      "emphasis": "Ne choisissez pas votre offre uniquement d'après les Mbit/s affichés : vérifiez l'antenne attribuée, le coût de la pose professionnelle et l'impossibilité de changer d'offre en libre-service sur un kit loué."
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Puis-je changer de forfait plus tard si je prends un kit en location à 0 € ? Non en libre-service : Starlink indique que les forfaits résidentiels avec matériel en location n'autorisent pas le changement de forfait depuis l'espace client.",
+        "Le crédit de 45 € baisse-t-il le montant à payer le premier jour ? Non. Le bonus de parrainage s'ajoute comme crédit sur facture après deux cycles mensuels complets réglés à temps.",
+        "Quelle antenne est incluse selon le forfait choisi en France ? Le forfait 100 Mbit/s fournit le kit Mini X en location à 0 €, alors que les offres 200 Mbit/s et Max passent sur le kit Standard 4 à 0 €.",
+        "Suis-je remboursé si je descends de forfait immédiatement avec l'option MAINTENANT ? Non. La baisse immédiate applique le plafond inférieur sur-le-champ sans remboursement pour les jours restants du cycle en cours.",
+        "Comment fonctionne l'essai de 30 jours ? Vous disposez de 30 jours à compter de la date d'échéance du paiement pour résilier et retourner le kit en parfait état afin d'être remboursé du matériel et du premier mois."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Saisissez votre adresse sur le site officiel pour consulter les forfaits ouverts dans votre commune, vérifier le kit attribué et recevoir 45 € en facture après deux mois payés.",
+    "label": "Voir les forfaits et le bonus à votre adresse",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Tarifs, équipements attribués, clauses de location et documents techniques ont été vérifiés directement sur les pages publiques et le tunnel de commande Starlink. Nous participons au programme officiel de parrainage sans surcoût pour le lecteur.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-engagement-resilier"
+    },
+    {
+      "slug": "starlink-vaut-il-le-coup"
+    },
+    {
+      "slug": "starlink-lien-parrainage"
+    },
+    {
+      "slug": "starlink-mini-ou-standard-quel-kit-choisir"
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "vous souhaitez choisir entre 100 Mbit/s, 200 Mbit/s ou Max en tenant compte du kit Mini X ou Standard 4.",
+      "vous commandez directement sur starlink.com en vérifiant la mention de parrainage avant paiement."
+    ],
+    "skipIf": [
+      "vous disposez déjà d'une fibre optique fiable à votre domicile pour un budget mensuel nettement inférieur.",
+      "vous comptez changer librement de palier tous les mois malgré la restriction liée au kit en location."
+    ]
+  }
+}

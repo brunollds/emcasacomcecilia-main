@@ -1,0 +1,282 @@
+{
+  "id": 1409,
+  "slug": "starlink-site-oficial-ou-mercado-livre-varejo",
+  "translationKey": "starlink-onde-comprar",
+  "locale": "pt",
+  "title": "Comprar Starlink no site oficial ou no Mercado Livre, Amazon, Magalu e varejo?",
+  "seoTitle": "Starlink no site oficial ou Mercado Livre, Amazon e varejo",
+  "type": "Guia de Compra",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Edição e análise",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Compare comprar a Starlink em starlink.com pelo link de indicação ou no Mercado Livre, Amazon, Magalu e varejo: bônus de R$ 200, regras do kit, 30 dias e risco de bloqueio.",
+  "metaDescription": "Site oficial Starlink ou Mercado Livre, Amazon e Magalu? Veja onde libera R$ 200 de bônus (45 € em Portugal), aluguel gratuito e 30 dias sem bloqueio.",
+  "publishedAt": "24 de novembro de 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-capa.webp",
+  "imageAlt": "Antena e peças do kit Starlink sobre fundo escuro com chamada comparando a compra no site oficial e no varejo.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Para a maioria dos novos assinantes, pedir direto em starlink.com pelo link de indicação compensa mais do que comprar no Mercado Livre, Amazon, Magalu ou loja física. Só o site oficial libera o crédito de indicação na fatura, traz aluguel gratuito em mercados elegíveis ou oferta por endereço e unifica a devolução em 30 dias."
+      ],
+      "links": [
+        {
+          "label": "Conferir preço no meu CEP com R$ 200 de crédito (45 € em PT)",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Site oficial ou loja e marketplace: o que muda de verdade",
+      "paragraphs": [
+        "A diferença entre pedir em starlink.com pelo link de indicação e comprar uma antena no Mercado Livre, na Amazon, no Magazine Luiza (Magalu) ou numa loja de Portugal vai além da vitrine. No site oficial, o endereço digitado define se há oferta local para o kit e para o plano: em Alto Paraíso de Goiás, por exemplo, o Residencial 100 Mbps apareceu a R$ 132,30 por mês com o Mini X a R$ 299 (sem contrato de 12 meses), enquanto o Max trouxe o kit a R$ 49 com contrato de 12 meses, multa de rescisão de até R$ 1.099 e instalação profissional incluída.",
+        "Já em Lisboa, Portugal, o mesmo site mostrou aluguer do hardware por 0 € nos planos 100 Mbps (24,50 €/mês), 200 Mbps (31,50 €/mês) e Max (45,50 €/mês), com envio de 20 € hoje e devolução obrigatória do equipamento se cancelar. Na Avenida Paulista, em São Paulo, o endereço estava em pré-venda com depósito de R$ 275 para o kit Standard 4 X de R$ 2.400. No varejo comum, você compra o equipamento avulso fora dessas ofertas por CEP e ainda fica sem o bônus da indicação.",
+        "Vale um cuidado na conta: o crédito de R$ 200 no Brasil (ou 45 € em Portugal) nunca reduz o preço do kit na tela do pedido. Você paga o mesmo valor do site oficial hoje e, depois de manter os dois primeiros ciclos mensais ativos e pagos em dia, o crédito entra na fatura seguinte (ou em dinheiro pela Stripe onde a conta oferecer)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+        "alt": "Tela oficial da Starlink para Alto Paraíso de Goiás com o plano Residencial 100 Mbps a R$ 132,30 por mês e o Mini X a R$ 299",
+        "caption": "Alto Paraíso de Goiás em starlink.com: o kit Mini X a R$ 299 no 100 Mbps e as ofertas por endereço só aparecem no pedido oficial.",
+        "objectFit": "contain",
+        "aspectRatio": 0.9653
+      },
+      "comparisonTable": {
+        "caption": "Comparação estrutural com base nas regras e telas públicas de starlink.com consultadas em 24 de novembro de 2026, sem preços de terceiros.",
+        "headers": [
+          "Critério",
+          "starlink.com pelo link de indicação",
+          "Varejista autorizado",
+          "Vendedor avulso em marketplace"
+        ],
+        "rows": [
+          [
+            "Crédito de indicação após 2 ciclos pagos",
+            "Sim: R$ 200 (Brasil) ou 45 € (Portugal) na fatura",
+            "Não entra (compras fora do site ficam de fora)",
+            "Não entra"
+          ],
+          [
+            "Aluguel 0 € (Portugal) ou oferta por CEP (Brasil)",
+            "Sim, definido pelo endereço no pedido",
+            "Não: compra apenas o kit avulso",
+            "Não"
+          ],
+          [
+            "Instalação profissional inclusa no Max (BR/PT)",
+            "Mostrada direto no card do pedido",
+            "Não acompanha o kit de loja",
+            "Não"
+          ],
+          [
+            "Janela de 30 dias para devolver",
+            "Fluxo único direto na Starlink (kit e 1ª mensalidade)",
+            "Kit volta pela política da loja; serviço cancela à parte",
+            "Risco de política curta, usada ou sem nota"
+          ],
+          [
+            "Risco de antena bloqueada ou não autorizada",
+            "Zero (sai vinculada ao seu pedido novo)",
+            "Baixo se lacrada da Loja Starlink oficial",
+            "Alto: revenda não autorizada pode suspender o serviço"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "Compare o que você paga no pedido e o que volta",
+        "scenarios": [
+          {
+            "label": "starlink.com 100 Mbps (BR) + link",
+            "lines": [
+              {
+                "label": "Kit Mini X no pedido (Alto Paraíso, GO)",
+                "value": "R$ 299, sem contrato de 12 meses"
+              },
+              {
+                "label": "Mensalidade promocional (cheia R$ 189/mês)",
+                "value": "R$ 132,30/mês com os 30% de novembro"
+              },
+              {
+                "label": "Crédito pelo link após 2 ciclos pagos",
+                "value": "-R$ 200 na fatura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "O que você paga hoje no pedido",
+            "totalValue": "R$ 299 hoje; depois de 2 ciclos pagos, R$ 200 voltam como crédito na fatura",
+            "note": "O bônus entra na fatura seguinte após dois ciclos completos em dia; não abate o valor do kit na hora."
+          },
+          {
+            "label": "starlink.com 100 Mbps (Portugal) + link",
+            "lines": [
+              {
+                "label": "Kit Mini X em aluguer (Lisboa)",
+                "value": "0 € hoje (devolve se cancelar)"
+              },
+              {
+                "label": "Envio e mensalidade (cheia 35 €/mês)",
+                "value": "20 € de envio + 24,50 €/mês"
+              },
+              {
+                "label": "Crédito pelo link após 2 ciclos pagos",
+                "value": "-45 € na fatura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "O que você paga hoje no pedido",
+            "totalValue": "20 € de envio hoje; depois de 2 ciclos pagos, 45 € voltam como crédito na fatura",
+            "note": "Sem contrato de permanência em Portugal, mas o kit alugado precisa voltar em até 30 dias após cancelar."
+          },
+          {
+            "label": "Varejo autorizado ou marketplace",
+            "lines": [
+              {
+                "label": "Equipamento fora de starlink.com",
+                "value": "Compra integral pelo valor da loja"
+              },
+              {
+                "label": "Aluguel 0 € ou oferta do CEP",
+                "value": "Não disponível no varejo"
+              },
+              {
+                "label": "Bônus de indicação na ativação",
+                "value": "R$ 0 (não dá para incluir depois)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Resultado fora do site oficial",
+            "totalValue": "Preço integral do kit na loja + R$ 0 de crédito de indicação",
+            "note": "A devolução do hardware segue a loja escolhida, e o cancelamento da assinatura vai para a Starlink."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Por que a indicação não entra depois de comprar na loja",
+      "paragraphs": [
+        "Quem compra uma antena lacrada em loja física ou marketplace liga o equipamento e entra em starlink.com/activate (ou no aplicativo Starlink). Nesse primeiro contato, a rede libera uma hora de acesso inicial para concluir o cadastro do plano; se passar de uma hora, você precisa de outra conexão para terminar a ativação.",
+        "O detalhe que pega muita gente de surpresa é que essa tela de ativação não tem campo para código de indicação. A regra da central de ajuda da Starlink é fechada: os valores de indicação só são emitidos para cadastros novos iniciados em starlink.com por meio do link exclusivo, com pagamento do primeiro mês e ativação do kit. Pedidos feitos em varejistas, revendedores ou transferências de conta não entram e não podem receber o bônus depois.",
+        "Também muda a regra dos 30 dias. No site oficial, cancelar o serviço e devolver o hardware sem danos em até 30 dias a partir do vencimento do pagamento garante o reembolso do equipamento e da primeira mensalidade nos termos do pedido (e kits em aluguel sem custo precisam sempre voltar em até 30 dias após o cancelamento para evitar a cobrança do valor integral). Já quem compra no varejo precisa devolver o hardware direto para a loja onde comprou, seguindo o prazo dela, e cancelar a assinatura na Starlink separadamente. Para ver o passo a passo da conta, confira a [página da indicação Starlink](/cupons/starlink) e o [guia completo do link de indicação](/reviews/starlink-indicacao-como-usar)."
+      ]
+    },
+    {
+      "heading": "Risco oculto no marketplace: kit usado, bloqueio de transferência e suspensão",
+      "paragraphs": [
+        "Antes de comprar um anúncio mais barato ou um equipamento seminovo no Mercado Livre, na Amazon, na Shopee ou em classificados, vale conhecer as travas técnicas de transferência da Starlink. A central de ajuda informa que o serviço nunca é ativado em um equipamento que ainda esteja vinculado a outra conta.",
+        "Um kit comprado on-line só pode ser transferido pelo dono anterior depois de 120 dias da compra ou 90 dias da ativação, o que acontecer primeiro. Se foi ativado pelo varejo, a transferência fica travada por 90 dias a partir da ativação. Além disso, a conta anterior não pode ter saldo pendente, não pode estar na janela de 30 dias de devolução nem em linha de aluguel.",
+        "Se o vendedor enviar uma antena ainda presa no CPF ou e-mail dele (ou com fatura em aberto), você não consegue ativar até o antigo titular cancelar o serviço, clicar em transferir e remover o hardware da conta, ou até o suporte validar o caso com o Identificador Starlink. Pior: a lista oficial avisa expressamente que equipamentos comprados em lojas não autorizadas não podem ser ativados, violam os termos da empresa e podem levar à suspensão imediata do serviço."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Componentes de um kit Starlink Standard sobre fundo escuro: antena, base, roteador e cabos",
+        "caption": "Componentes do kit Starlink Standard. Em revenda não oficial ou sem liberação de conta, o kit pode ficar bloqueado. Foto da Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Lista oficial de varejistas autorizados: onde olhar antes de fechar",
+      "paragraphs": [
+        "Se você precisa retirar a antena no mesmo dia antes de viajar, quer usar saldo preso em um programa de pontos ou já decidiu comprar o hardware avulso fora do site, consulte primeiro a [lista oficial de varejistas autorizados da Starlink](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105). A página traz um aviso direto: compre apenas na Loja Starlink oficial dentro do revendedor.",
+        "No Brasil, a lista oficial inclui Mercado Livre, Amazon, Magazine Luiza (Magalu), Shopee, Casas Bahia, Fast Shop, Kabum, Carrefour, Lojas Americanas, Havan, Bemol e iPlace, entre outros parceiros regionais. O ponto crítico em plataformas como Mercado Livre, Amazon e Shopee é conferir quem entrega e emite a nota: entrar no site do marketplace não basta se o vendedor do anúncio for um terceiro avulso fora da Loja Starlink oficial.",
+        "Em Portugal, a lista oficial traz apenas quatro redes autorizadas: Worten, FNAC Portugal, PC DIGA e Novo Atalho. Se tiver dúvida sobre como identificar vendedores legítimos e perfis oficiais, veja também o nosso guia sobre [como saber se a Starlink é confiável e conferir quem vende](/reviews/starlink-e-confiavel)."
+      ],
+      "checklist": {
+        "title": "Cinco checagens antes de pagar pelo seu kit",
+        "items": [
+          "Digitei meu CEP em starlink.com pelo link de indicação para comparar aluguel, oferta de kit e disponibilidade antes de olhar lojas.",
+          "Confirmei na tela do pedido se aparece o aviso verde da indicação aplicada e se o plano escolhido tem contrato de 12 meses.",
+          "Se optei por Mercado Livre, Amazon, Shopee ou Magalu, verifiquei que o vendedor do anúncio é a Loja Starlink oficial do revendedor.",
+          "Evitei kit seminovo ou aberto sem comprovação de que o antigo dono removeu o hardware da conta e cumpriu 90 ou 120 dias.",
+          "Salvei o comprovante com o valor mensal e a regra dos 30 dias para devolução do pedido."
+        ]
+      },
+      "links": [
+        {
+          "label": "Abrir pedido oficial em starlink.com com o bônus",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+        "alt": "Tela do pedido oficial em starlink.com mostrando o aviso verde de código de indicação aplicado com R$ 200 de recompensa",
+        "caption": "Aviso verde de indicação aplicada na coluna do pedido em starlink.com; essa confirmação só existe no site oficial.",
+        "objectFit": "contain",
+        "aspectRatio": 0.9901
+      }
+    },
+    {
+      "heading": "Veredito: onde vale comprar em cada caso",
+      "paragraphs": [
+        "Para quem vai assinar a Starlink pela primeira vez no Brasil ou em Portugal, pedir direto em starlink.com pelo link de indicação é a rota mais vantajosa e segura: garante R$ 200 (ou 45 €) na fatura após dois ciclos pagos, libera as condições do endereço (como o Mini X no 100 Mbps brasileiro ou o aluguer por 0 € em Portugal) e centraliza a regra de devolução em 30 dias em um único suporte.",
+        "A compra no Mercado Livre, na Amazon, no Magalu ou na Worten só faz sentido real quando você precisa retirar ou receber o kit com urgência extrema, vai usar crédito ou vale preso naquela rede, ou quer adquirir o equipamento avulso em uma Loja Starlink oficial sem depender do fluxo do site, sabendo desde já que abre mão do bônus de indicação."
+      ],
+      "emphasis": "Pedir em starlink.com pelo link de indicação reúne o menor atrito contratual, as ofertas locais por endereço e o crédito de R$ 200 no Brasil ou 45 € em Portugal após dois ciclos pagos; fora dali, só vale na Loja Starlink oficial de um varejista autorizado e ciente de que a indicação não se aplica."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Starlink tem cupom de desconto para Mercado Livre, Amazon ou Magalu? Não. A Starlink não trabalha com cupom digitável em marketplaces. O único benefício oficial de indicação (R$ 200 no Brasil ou 45 € em Portugal após dois ciclos mensais pagos) vale só para novos pedidos iniciados em starlink.com pelo link exclusivo.",
+        "Posso comprar a antena na loja física e usar o link de indicação na ativação? Não. Ao ativar um kit comprado no varejo em starlink.com/activate, não existe campo para código de indicação, e a empresa proíbe incluir a recompensa depois da compra.",
+        "Como saber se um anúncio no Mercado Livre, Amazon ou Shopee é seguro? Confira a lista oficial de varejistas autorizados da Starlink e garanta que o anúncio pertence à Loja Starlink oficial dentro da plataforma. Equipamentos de vendedores não autorizados podem ser impedidos de ativar e gerar suspensão imediata.",
+        "Posso comprar antena Starlink usada no marketplace? Só vale correr o risco se o antigo titular comprovar que quitou saldos pendentes, passou da janela de 90 dias da ativação no varejo (ou 120 dias da compra on-line) e removeu o dispositivo da conta para liberar a transferência.",
+        "Qual é a diferença na devolução em 30 dias entre o site e a loja? Em starlink.com, cancelar o serviço e devolver o kit sem danos em até 30 dias reembolsa o hardware e a primeira mensalidade nos termos do pedido. No varejo, a devolução do kit segue o prazo e a política da loja, e você precisa cancelar o serviço na Starlink à parte."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Elaborado com a central de ajuda da Starlink, a lista oficial de varejistas autorizados e as telas públicas de pedido. Participamos do programa de indicação da Starlink e podemos receber o mesmo crédito caso você faça sua primeira assinatura pelo nosso link e cumpra os dois ciclos pagos.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-indicacao-como-usar"
+    },
+    {
+      "slug": "starlink-e-confiavel"
+    },
+    {
+      "slug": "starlink-mini-ou-padrao-qual-escolher"
+    },
+    {
+      "slug": "planos-starlink-100-200-mbps-ou-max"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "você é cliente novo e quer garantir o crédito de indicação na fatura após dois ciclos pagos junto das ofertas do seu endereço em starlink.com.",
+      "você prefere concentrar compra, ativação e devolução em 30 dias direto com a Starlink, sem risco de vendedor terceiro."
+    ],
+    "skipIf": [
+      "você precisa retirar o kit hoje em loja física autorizada e aceita abrir mão do bônus de indicação e do aluguel gratuito.",
+      "o anúncio está em vendedor avulso fora da Loja Starlink oficial ou é um kit usado sem transferência liberada na conta anterior."
+    ]
+  },
+  "cta": {
+    "text": "Confira plano, hardware e disponibilidade no seu CEP direto em starlink.com pelo link de indicação, mantendo 30 dias para devolver e R$ 200 de crédito no Brasil (45 € em Portugal) após dois ciclos pagos.",
+    "label": "Ver meu endereço em starlink.com",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}

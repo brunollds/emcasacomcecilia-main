@@ -1,0 +1,338 @@
+{
+  "id": 1420,
+  "slug": "starlink-mini-ou-padrao-qual-escolher",
+  "translationKey": "starlink-mini-ou-padrao",
+  "locale": "pt",
+  "title": "Starlink Mini (Mini X) ou Padrão (Standard V4)? Diferenças, roteador, consumo e qual escolher",
+  "seoTitle": "Starlink Mini ou Padrão (Standard): qual escolher?",
+  "type": "Comparativo",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Edição e análise",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Compare Starlink Mini (Mini X) e Padrão (Standard V4): roteador embutido ou externo, Wi-Fi, consumo em nobreak, onde cada kit aparece no pedido e bônus de R$ 200.",
+  "metaDescription": "Starlink Mini (Mini X) ou Padrão (Standard 4 X)? Compare roteador, alcance Wi-Fi, consumo em watts, planos sem fidelidade e bônus de R$ 200.",
+  "publishedAt": "24 de novembro de 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-capa.webp",
+  "imageAlt": "Capa do comparativo com painel preto exibindo STARLINK e o título Mini ou Padrão? ao lado da foto oficial da antena Starlink Standard com apoio e roteador vertical separado.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Starlink Mini (Mini X nos pedidos) serve melhor quem quer instalação simples, baixo consumo em nobreak, portabilidade e, no plano de 100 Mbps no Brasil, ficar sem fidelidade. A Padrão (Standard V4) ganha em alcance Wi-Fi e portas de rede. Ambas liberam o bônus pelo link oficial; veja onde cada kit aparece no pedido abaixo."
+      ],
+      "links": [
+        {
+          "label": "Conferir qual kit aparece no meu endereço em starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Onde cada kit aparece hoje no pedido oficial",
+      "paragraphs": [
+        "Na maioria dos endereços, você não escolhe o modelo da antena solto: ele vem ligado ao plano ou à disponibilidade da região.",
+        "No Brasil, na consulta para Alto Paraíso de Goiás, o Residencial 100 Mbps (R$ 132,30/mês com 30% de ajuste sobre R$ 189 até o fim de novembro) entrega o kit Mini X por R$ 299 (R$ 499 menos R$ 200), sem contrato de 12 meses no bloco do equipamento. No Residencial Max (R$ 174,30/mês sobre R$ 249), o mesmo Mini X cai para R$ 49 com instalação profissional inclusa, mas exige contrato de 12 meses e multa de rescisão antecipada de até R$ 1.099. Nos dois planos aparece o Mini Roteador opcional por R$ 290.",
+        "Já na Avenida Paulista, em São Paulo, o endereço estava em pré-venda: sem os 30% de desconto na mensalidade e com o kit Standard 4 X (Padrão) a R$ 2.400, pago com depósito de reserva de R$ 275 hoje e sem fidelidade de 12 meses. Em Portugal (Lisboa), os planos funcionam em aluguer de 0 € (sem contratos e com devolução do kit se cancelar, envio de 20 €): o 100 Mbps (24,50 €/mês sobre 35 €) traz o Mini X, enquanto o 200 Mbps (31,50 €/mês sobre 45 €) e o Max (45,50 €/mês sobre 65 €) entregam o Standard 4, com instalação grátis apenas no Max (172 € opcional nos demais)."
+      ],
+      "comparisonTable": {
+        "caption": "Telas públicas de pedido consultadas em 23/11/2026. Preços e kits mudam por endereço e disponibilidade.",
+        "headers": [
+          "Mercado e plano",
+          "Kit exibido no pedido",
+          "Valor do kit e fidelidade",
+          "Mensalidade exibida"
+        ],
+        "rows": [
+          [
+            "Brasil, Residencial 100 Mbps (Alto Paraíso de Goiás)",
+            "Mini X (Mini Roteador opcional a R$ 290)",
+            "R$ 299 à vista, sem contrato de 12 meses",
+            "R$ 132,30 (cheio R$ 189)"
+          ],
+          [
+            "Brasil, Residencial Max (Alto Paraíso de Goiás)",
+            "Mini X (com instalação inclusa)",
+            "R$ 49, contrato de 12 meses (multa até R$ 1.099)",
+            "R$ 174,30 (cheio R$ 249)"
+          ],
+          [
+            "Brasil, pré-venda (Av. Paulista, São Paulo)",
+            "Standard 4 X (Padrão)",
+            "R$ 2.400 (depósito R$ 275 hoje), sem 12 meses",
+            "R$ 189 (100 Mbps) ou R$ 249 (Max)"
+          ],
+          [
+            "Portugal, 100 / 200 Mbps / Max (Lisboa)",
+            "Mini X no 100 Mbps; Standard 4 no 200 e Max",
+            "Aluguer 0 € (devolver ao cancelar), sem contratos",
+            "24,50 € / 31,50 € / 45,50 €"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+        "alt": "Tela de pedido da Starlink em Alto Paraíso de Goiás mostrando o Residencial 100 Mbps por R$ 132,30 ao mês e o kit Mini X por R$ 299",
+        "caption": "Consulta em Alto Paraíso de Goiás: o plano Residencial 100 Mbps traz o kit Mini X por R$ 299 sem cláusula de 12 meses.",
+        "objectFit": "contain",
+        "aspectRatio": 0.9653
+      }
+    },
+    {
+      "heading": "Diferenças técnicas oficiais: Mini vs Standard V4 + Router 3",
+      "paragraphs": [
+        "A loja informa: a diferença central entre os dois kits está em integrar o roteador na própria antena ou deixá-lo separado dentro de casa, além do consumo elétrico e do tamanho do prato.",
+        "Na Starlink Mini, o roteador Wi-Fi 5 fica embutido na antena, o que reduz cabos e derruba o consumo para a faixa de 25 a 40 W. Já na Starlink Padrão (Standard V4), a antena vai para o telhado ligada por um cabo de 15 metros ao Router 3 dentro da casa, com Wi-Fi 6 tri-band e cobertura maior. Para quem compra o Mini X e precisa reforçar o sinal interno, a Starlink também vende o Router Mini separado (83,6 × 138 × 27 mm, 112 g, uso interno), com Wi-Fi 6 Dual Band 2×2 MU-MIMO para até 204 m², até 235 dispositivos e 2 portas Ethernet RJ-45 de 1 Gbps."
+      ],
+      "comparisonTable": {
+        "caption": "Especificações públicas de hardware publicadas pela Starlink para Mini, Router Mini e Standard V4 com Router 3.",
+        "headers": [
+          "Especificação",
+          "Starlink Mini (Mini X)",
+          "Starlink Padrão (Standard V4 + Router 3)"
+        ],
+        "rows": [
+          [
+            "Dimensões da antena",
+            "298,5 × 259 × 38,5 mm",
+            "594 × 383 × 39,7 mm"
+          ],
+          [
+            "Peso da antena",
+            "1,10 kg (1,16 kg com apoio; 1,53 kg com apoio e cabo CC de 15 m)",
+            "2,9 kg (3,2 kg com apoio; 3,8 kg com apoio e cabo de 15 m)"
+          ],
+          [
+            "Consumo médio e energia",
+            "25 a 40 W (12 a 48 V 60 W; USB-C PD mín. 100 W 20 V/5 A com cabo oficial)",
+            "75 a 100 W (fonte IP66 Tipo 4 e cabo CA de 1,5 m inclusos)"
+          ],
+          [
+            "Roteador e Wi-Fi",
+            "Wi-Fi 5 integrado (802.11ac Dual Band 3×3 MU-MIMO); aceita Router Mini opcional (Wi-Fi 6)",
+            "Router 3 separado (43,4 × 298,6 × 120,4 mm; 0,57 kg; Wi-Fi 6 tri-band 4×4 MU-MIMO)"
+          ],
+          [
+            "Cobertura Wi-Fi e aparelhos",
+            "Até 112 m² e 128 dispositivos (até 204 m² e 235 com Router Mini)",
+            "Até 297 m² e 235 dispositivos"
+          ],
+          [
+            "Portas Ethernet LAN",
+            "1 porta com travamento e plugue (cabo Ethernet não incluso)",
+            "2 portas com travamento no Router 3 (cabo Starlink de 15 m incluso)"
+          ],
+          [
+            "Proteção climática (IP)",
+            "IP67 Tipo 4 na antena (perde IP67 com cabo RJ45 comum no lugar do oficial)",
+            "Antena IP67 Tipo 4; fonte IP66 Tipo 4; Router 3 IP56 interno"
+          ],
+          [
+            "Modo Bypass e Mesh",
+            "Modo Bypass (sair exige reset de fábrica) e Mesh Starlink até 3 nós; incompatível com mesh de terceiros",
+            "Modo Bypass e Mesh Starlink até 3 nós; incompatível com mesh de terceiros"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Consultar especificações oficiais em starlink.com/specifications",
+          "href": "https://www.starlink.com/specifications"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antena e roteador externo da Starlink em comparação de arquitetura com o kit compacto",
+        "caption": "Conjunto com antena externa e roteador dedicado dentro de casa. Foto oficial da Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Sinal Wi-Fi em casa grande, nobreak e rede cabeada",
+      "paragraphs": [
+        "Se a antena ficar longe dos quartos ou atrás de laje e paredes de alvenaria, o roteador separado da Padrão resolve melhor direto da caixa do que o Wi-Fi embutido na Mini.",
+        "Regra prática, sem teste nosso: quando o roteador fica dentro da antena (caso da Mini no telhado ou na varanda), a cobertura declarada de até 112 m² perde força ao atravessar telhas, concreto e paredes até o outro lado da casa. Na Padrão, o Router 3 entra por um cabo de 15 metros até a sala e entrega até 297 m² em Wi-Fi 6 tri-band para até 235 dispositivos. Na Mini, a saída limpa para casa grande é somar um Router Mini interno (até 204 m², R$ 290 no pedido brasileiro) ou montar mesh Starlink com até 3 nós, já que os kits não funcionam com sistemas mesh de terceiros.",
+        "Para backup de energia em nobreak ou estação portátil, a Mini leva vantagem clara: o consumo médio de 25 a 40 W é menos da metade dos 75 a 100 W da Padrão. Conta nossa, pelos números oficiais de consumo: numa mesma bateria de nobreak, a Mini sustenta a internet ativa por mais do dobro do tempo e ainda aceita alimentação USB-C PD de no mínimo 100 W (20 V/5 A) com o cabo oficial ou entrada CC de 12 a 48 V.",
+        "Na rede cabeada e no uso com roteador próprio ou Dual-WAN, repare em três detalhes práticos antes de passar o cabo. A Mini traz 1 porta Ethernet LAN com travamento (cabo Ethernet vendido à parte); se você plugar um RJ45 comum sem o cabo vedado oficial, a antena perde a vedação IP67 Tipo 4 contra chuva e poeira. O Router 3 da Padrão já traz duas portas Ethernet LAN protegidas dentro de casa. Ambas aceitam Modo Bypass para passar a conexão a um roteador ou sistema próprio via cabo, mas na Mini sair do Bypass exige redefinição de fábrica. Para expandir sem mesh de terceiros (incompatível), a Mini aceita mesh oficial Starlink com Router Mini, Router 3 e Router 2ª geração em até 3 nós."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Peças completas do kit Starlink Standard: antena, Router 3, base e cabos de 15 m e alimentação",
+        "caption": "Componentes do kit Starlink Standard com roteador externo e cabeamento completo. Foto oficial da Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Custo com indicação após 2 ciclos e regra dos 30 dias",
+      "paragraphs": [
+        "Os dois kits mantêm o bônus oficial da indicação quando o pedido nasce em starlink.com pelo link: R$ 200 no Brasil e 45 € em Portugal, creditados na fatura depois de dois ciclos mensais em dia.",
+        "Esse crédito entra na fatura após dois ciclos mensais pagos (ou em dinheiro pela Stripe onde disponível) e nunca abate o valor do kit no checkout. Quem compra pelo link paga exatamente o mesmo total de entrada exibido no pedido oficial e recebe R$ 200 (ou 45 € em Portugal) depois de dois meses ativos. Se você comprar a antena em varejista, marketplace ou transferência de conta, perde 100% do bônus e não consegue incluí-lo depois.",
+        "A mesma segurança vale para testar o alcance do Wi-Fi e o sinal na sua casa: nos termos do pedido, cancelar o serviço e devolver o kit sem danos em até 30 dias dá reembolso pelas condições exibidas na compra. Consulte o passo a passo completo na [página da indicação Starlink](/cupons/starlink) e, no Brasil, confira no [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar) quando existe multa de 12 meses."
+      ],
+      "simulator": {
+        "title": "Simulador: quanto você paga no pedido e quando entra o bônus",
+        "scenarios": [
+          {
+            "label": "Mini X no 100 Mbps (BR, sem fidelidade)",
+            "lines": [
+              {
+                "label": "Kit Mini X no pedido oficial",
+                "value": "R$ 299 à vista (sem contrato de 12 meses)"
+              },
+              {
+                "label": "Mensalidade exibida (Alto Paraíso, GO)",
+                "value": "R$ 132,30/mês (cheio R$ 189)"
+              },
+              {
+                "label": "Crédito de indicação pelo link",
+                "value": "R$ 200 na fatura após 2 ciclos",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Pago no pedido hoje",
+            "totalValue": "R$ 299 hoje; R$ 200 entram em fatura após 2 ciclos",
+            "note": "Valores lidos no pedido de Alto Paraíso de Goiás; o bônus não reduz o preço do kit no checkout."
+          },
+          {
+            "label": "Standard 4 ou Max pelo link oficial",
+            "lines": [
+              {
+                "label": "Kit no pedido (Max BR / 200 e Max PT)",
+                "value": "R$ 49 (12m BR) ou aluguer 0 € (PT)"
+              },
+              {
+                "label": "Mensalidade exibida (Max BR / 200 PT)",
+                "value": "R$ 174,30/mês (BR) ou 31,50 €/mês (PT)"
+              },
+              {
+                "label": "Crédito de indicação pelo link",
+                "value": "R$ 200 (BR) ou 45 € (PT) após 2 ciclos",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Pago no pedido hoje",
+            "totalValue": "R$ 49 (BR) ou 20 € de envio (PT); bônus após 2 ciclos",
+            "note": "No Max do Brasil há contrato de 12 meses; em Portugal o kit alugado volta ao cancelar."
+          },
+          {
+            "label": "Kit comprado fora de starlink.com",
+            "lines": [
+              {
+                "label": "Compra no varejo ou marketplace",
+                "value": "Hardware pago cheio, sem oferta de plano"
+              },
+              {
+                "label": "Aluguel 0 ou subsídio de endereço",
+                "value": "Não se aplica fora do site oficial"
+              },
+              {
+                "label": "Crédito oficial de indicação",
+                "value": "R$ 0 (perdido sem volta)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Bônus recebido na fatura",
+            "totalValue": "R$ 0",
+            "note": "Pela regra oficial, indicações não podem ser aplicadas a compras de varejistas ou marketplaces."
+          }
+        ]
+      },
+      "links": [
+        {
+          "label": "Abrir pedido oficial com 30 dias de teste e bônus",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Checklist antes de escolher o kit",
+      "paragraphs": [
+        "Antes de concluir o pedido, faça estas cinco checagens para saber se o kit exibido no seu CEP atende à sua casa."
+      ],
+      "checklist": {
+        "title": "5 pontos antes de fechar o kit",
+        "items": [
+          "Confirmei no meu endereço em starlink.com qual antena vem em cada plano (Mini X, Standard 4 ou Standard 4 X) e se há contrato de 12 meses.",
+          "Medi a distância do ponto de céu aberto até o cômodo principal: acima de 112 m² ou com paredes grossas, considerei o Router 3 da Padrão ou o Router Mini extra.",
+          "Se vou ligar em nobreak, bateria ou energia solar, comparei o consumo de 25 a 40 W da Mini contra 75 a 100 W da Padrão.",
+          "Se vou usar cabo de rede ou roteador próprio, conferi que a Mini exige cabo Starlink vedado para manter o IP67 e não traz cabo Ethernet na caixa.",
+          "Abri o pedido pelo link oficial de indicação antes do pagamento para garantir o crédito após 2 ciclos e os 30 dias para cancelar e devolver sem danos."
+        ]
+      }
+    },
+    {
+      "heading": "Veredito: Starlink Mini ou Padrão?",
+      "paragraphs": [
+        "Para backup de internet em nobreak, sítio com energia solar, instalação rápida ou para contratar o plano de 100 Mbps sem fidelidade no Brasil, a Starlink Mini (Mini X) é a escolha mais equilibrada. Ela pesa 1,10 kg, gasta de 25 a 40 W e resolve bem casas menores que 112 m² ou quem já pretende ligar um roteador próprio.",
+        "Para casa grande com paredes grossas, muitos aparelhos simultâneos ou quando você quer duas portas Ethernet protegidas e Wi-Fi 6 tri-band de até 297 m² direto na caixa, a Starlink Padrão (Standard V4 com Router 3) entrega mais folga interna. Em Portugal, você escolhe indiretamente pelo plano (100 Mbps traz Mini X; 200 Mbps e Max trazem Standard 4). Se você optar pela Mini e o Wi-Fi não alcançar todos os quartos, pode somar o Router Mini ou cancelar o serviço e devolver o kit sem danos em até 30 dias pelos termos do pedido."
+      ],
+      "emphasis": "Para economizar energia no nobreak ou evitar contrato de 12 meses no Brasil pelo 100 Mbps, a Mini resolve com folga; já para cobrir casa grande com Wi-Fi 6 forte sem comprar roteador extra, a Padrão com Router 3 entrega uma rede mais completa."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "A Starlink Mini é mais lenta que a Padrão? Os planos residenciais anunciam a faixa de velocidade por plano (100 Mbps, 200 Mbps ou Max), não só pelo tamanho da antena, tanto que no Brasil o Mini X aparece tanto no 100 Mbps quanto no Max. O que muda mais entre elas é o alcance do Wi-Fi (112 m² Wi-Fi 5 na Mini contra 297 m² Wi-Fi 6 na Padrão) e o consumo elétrico.",
+        "A Starlink Mini funciona em casa grande sem outro roteador? Em casas maiores que 112 m² ou com paredes grossas entre a antena externa e os quartos, o sinal integrado pode perder força. Nesse caso, vale adicionar o Router Mini interno (até 204 m²) ou ligar outro roteador compatível.",
+        "Qual gasta menos energia no nobreak durante quedas de luz? A Starlink Mini consome em média de 25 a 40 W (e aceita USB-C PD de pelo menos 100 W com cabo oficial), enquanto a Starlink Padrão consome de 75 a 100 W. Na prática, a Mini dura mais do que o dobro do tempo na mesma bateria.",
+        "Posso ligar cabo Ethernet e roteador próprio nas duas? Sim. A Mini tem 1 porta Ethernet LAN com travamento (cabo Ethernet vendido à parte; usar RJ45 comum remove a proteção IP67), e o Router 3 da Padrão traz duas portas LAN. Ambas aceitam Modo Bypass para usar roteador próprio via cabo (na Mini, sair do Bypass exige redefinição de fábrica) e suportam o mesh oficial Starlink (compatível com Router Mini, Router 3 e Router 2ª geração, até 3 nós; incompatível com mesh de terceiros).",
+        "O link de indicação vale tanto na Starlink Mini quanto na Padrão? Sim. O crédito de R$ 200 no Brasil (45 € em Portugal) vale para assinaturas residenciais pedidas direto em starlink.com pelo link oficial, independente do kit exibido no seu endereço, e entra na fatura após dois ciclos mensais pagos."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "você quer baixo consumo em nobreak ou bateria, instalação compacta ou busca o plano de entrada sem contrato de 12 meses onde o pedido vincula o kit ao plano.",
+      "a área da casa cabe na cobertura integrada da Mini ou você pretende ligá-la ao Router Mini ou a um roteador cabeado."
+    ],
+    "skipIf": [
+      "você precisa cobrir casa ampla com Wi-Fi 6 tri-band direto da caixa para dezenas de aparelhos sem comprar roteador adicional.",
+      "você exige duas portas Ethernet protegidas no roteador padrão sem precisar comprar cabo separado."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Feito por Bruno Luiz com as especificações públicas, central de ajuda e telas de pedido da Starlink. Participamos da indicação e podemos receber recompensa pelo link.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-fidelidade-como-cancelar"
+    },
+    {
+      "slug": "starlink-vale-a-pena"
+    },
+    {
+      "slug": "starlink-site-oficial-ou-mercado-livre-varejo"
+    },
+    {
+      "slug": "planos-starlink-100-200-mbps-ou-max"
+    }
+  ],
+  "cta": {
+    "text": "O pedido abre em starlink.com pelo link oficial de indicação, mostrando qual kit vale no seu CEP e mantendo os 30 dias para cancelar e devolver sem danos. O bônus de R$ 200 no Brasil (45 € em Portugal) entra na fatura após dois ciclos pagos.",
+    "label": "Ver qual kit aparece no meu CEP em starlink.com",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}

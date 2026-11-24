@@ -337582,5 +337582,10204 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1409,
+    "slug": "starlink-site-oficial-ou-mercado-livre-varejo",
+    "translationKey": "starlink-onde-comprar",
+    "locale": "pt",
+    "title": "Comprar Starlink no site oficial ou no Mercado Livre, Amazon, Magalu e varejo?",
+    "seoTitle": "Starlink no site oficial ou Mercado Livre, Amazon e varejo",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Compare comprar a Starlink em starlink.com pelo link de indicação ou no Mercado Livre, Amazon, Magalu e varejo: bônus de R$ 200, regras do kit, 30 dias e risco de bloqueio.",
+    "metaDescription": "Site oficial Starlink ou Mercado Livre, Amazon e Magalu? Veja onde libera R$ 200 de bônus (45 € em Portugal), aluguel gratuito e 30 dias sem bloqueio.",
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-capa.webp",
+    "imageAlt": "Antena e peças do kit Starlink sobre fundo escuro com chamada comparando a compra no site oficial e no varejo.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Para a maioria dos novos assinantes, pedir direto em starlink.com pelo link de indicação compensa mais do que comprar no Mercado Livre, Amazon, Magalu ou loja física. Só o site oficial libera o crédito de indicação na fatura, traz aluguel gratuito em mercados elegíveis ou oferta por endereço e unifica a devolução em 30 dias."
+        ],
+        "links": [
+          {
+            "label": "Conferir preço no meu CEP com R$ 200 de crédito (45 € em PT)",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Site oficial ou loja e marketplace: o que muda de verdade",
+        "paragraphs": [
+          "A diferença entre pedir em starlink.com pelo link de indicação e comprar uma antena no Mercado Livre, na Amazon, no Magazine Luiza (Magalu) ou numa loja de Portugal vai além da vitrine. No site oficial, o endereço digitado define se há oferta local para o kit e para o plano: em Alto Paraíso de Goiás, por exemplo, o Residencial 100 Mbps apareceu a R$ 132,30 por mês com o Mini X a R$ 299 (sem contrato de 12 meses), enquanto o Max trouxe o kit a R$ 49 com contrato de 12 meses, multa de rescisão de até R$ 1.099 e instalação profissional incluída.",
+          "Já em Lisboa, Portugal, o mesmo site mostrou aluguer do hardware por 0 € nos planos 100 Mbps (24,50 €/mês), 200 Mbps (31,50 €/mês) e Max (45,50 €/mês), com envio de 20 € hoje e devolução obrigatória do equipamento se cancelar. Na Avenida Paulista, em São Paulo, o endereço estava em pré-venda com depósito de R$ 275 para o kit Standard 4 X de R$ 2.400. No varejo comum, você compra o equipamento avulso fora dessas ofertas por CEP e ainda fica sem o bônus da indicação.",
+          "Vale um cuidado na conta: o crédito de R$ 200 no Brasil (ou 45 € em Portugal) nunca reduz o preço do kit na tela do pedido. Você paga o mesmo valor do site oficial hoje e, depois de manter os dois primeiros ciclos mensais ativos e pagos em dia, o crédito entra na fatura seguinte (ou em dinheiro pela Stripe onde a conta oferecer)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "alt": "Tela oficial da Starlink para Alto Paraíso de Goiás com o plano Residencial 100 Mbps a R$ 132,30 por mês e o Mini X a R$ 299",
+          "caption": "Alto Paraíso de Goiás em starlink.com: o kit Mini X a R$ 299 no 100 Mbps e as ofertas por endereço só aparecem no pedido oficial.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9653
+        },
+        "comparisonTable": {
+          "caption": "Comparação estrutural com base nas regras e telas públicas de starlink.com consultadas em 24 de novembro de 2026, sem preços de terceiros.",
+          "headers": [
+            "Critério",
+            "starlink.com pelo link de indicação",
+            "Varejista autorizado",
+            "Vendedor avulso em marketplace"
+          ],
+          "rows": [
+            [
+              "Crédito de indicação após 2 ciclos pagos",
+              "Sim: R$ 200 (Brasil) ou 45 € (Portugal) na fatura",
+              "Não entra (compras fora do site ficam de fora)",
+              "Não entra"
+            ],
+            [
+              "Aluguel 0 € (Portugal) ou oferta por CEP (Brasil)",
+              "Sim, definido pelo endereço no pedido",
+              "Não: compra apenas o kit avulso",
+              "Não"
+            ],
+            [
+              "Instalação profissional inclusa no Max (BR/PT)",
+              "Mostrada direto no card do pedido",
+              "Não acompanha o kit de loja",
+              "Não"
+            ],
+            [
+              "Janela de 30 dias para devolver",
+              "Fluxo único direto na Starlink (kit e 1ª mensalidade)",
+              "Kit volta pela política da loja; serviço cancela à parte",
+              "Risco de política curta, usada ou sem nota"
+            ],
+            [
+              "Risco de antena bloqueada ou não autorizada",
+              "Zero (sai vinculada ao seu pedido novo)",
+              "Baixo se lacrada da Loja Starlink oficial",
+              "Alto: revenda não autorizada pode suspender o serviço"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Compare o que você paga no pedido e o que volta",
+          "scenarios": [
+            {
+              "label": "starlink.com 100 Mbps (BR) + link",
+              "lines": [
+                {
+                  "label": "Kit Mini X no pedido (Alto Paraíso, GO)",
+                  "value": "R$ 299, sem contrato de 12 meses"
+                },
+                {
+                  "label": "Mensalidade promocional (cheia R$ 189/mês)",
+                  "value": "R$ 132,30/mês com os 30% de novembro"
+                },
+                {
+                  "label": "Crédito pelo link após 2 ciclos pagos",
+                  "value": "-R$ 200 na fatura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "O que você paga hoje no pedido",
+              "totalValue": "R$ 299 hoje; depois de 2 ciclos pagos, R$ 200 voltam como crédito na fatura",
+              "note": "O bônus entra na fatura seguinte após dois ciclos completos em dia; não abate o valor do kit na hora."
+            },
+            {
+              "label": "starlink.com 100 Mbps (Portugal) + link",
+              "lines": [
+                {
+                  "label": "Kit Mini X em aluguer (Lisboa)",
+                  "value": "0 € hoje (devolve se cancelar)"
+                },
+                {
+                  "label": "Envio e mensalidade (cheia 35 €/mês)",
+                  "value": "20 € de envio + 24,50 €/mês"
+                },
+                {
+                  "label": "Crédito pelo link após 2 ciclos pagos",
+                  "value": "-45 € na fatura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "O que você paga hoje no pedido",
+              "totalValue": "20 € de envio hoje; depois de 2 ciclos pagos, 45 € voltam como crédito na fatura",
+              "note": "Sem contrato de permanência em Portugal, mas o kit alugado precisa voltar em até 30 dias após cancelar."
+            },
+            {
+              "label": "Varejo autorizado ou marketplace",
+              "lines": [
+                {
+                  "label": "Equipamento fora de starlink.com",
+                  "value": "Compra integral pelo valor da loja"
+                },
+                {
+                  "label": "Aluguel 0 € ou oferta do CEP",
+                  "value": "Não disponível no varejo"
+                },
+                {
+                  "label": "Bônus de indicação na ativação",
+                  "value": "R$ 0 (não dá para incluir depois)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Resultado fora do site oficial",
+              "totalValue": "Preço integral do kit na loja + R$ 0 de crédito de indicação",
+              "note": "A devolução do hardware segue a loja escolhida, e o cancelamento da assinatura vai para a Starlink."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Por que a indicação não entra depois de comprar na loja",
+        "paragraphs": [
+          "Quem compra uma antena lacrada em loja física ou marketplace liga o equipamento e entra em starlink.com/activate (ou no aplicativo Starlink). Nesse primeiro contato, a rede libera uma hora de acesso inicial para concluir o cadastro do plano; se passar de uma hora, você precisa de outra conexão para terminar a ativação.",
+          "O detalhe que pega muita gente de surpresa é que essa tela de ativação não tem campo para código de indicação. A regra da central de ajuda da Starlink é fechada: os valores de indicação só são emitidos para cadastros novos iniciados em starlink.com por meio do link exclusivo, com pagamento do primeiro mês e ativação do kit. Pedidos feitos em varejistas, revendedores ou transferências de conta não entram e não podem receber o bônus depois.",
+          "Também muda a regra dos 30 dias. No site oficial, cancelar o serviço e devolver o hardware sem danos em até 30 dias a partir do vencimento do pagamento garante o reembolso do equipamento e da primeira mensalidade nos termos do pedido (e kits em aluguel sem custo precisam sempre voltar em até 30 dias após o cancelamento para evitar a cobrança do valor integral). Já quem compra no varejo precisa devolver o hardware direto para a loja onde comprou, seguindo o prazo dela, e cancelar a assinatura na Starlink separadamente. Para ver o passo a passo da conta, confira a [página da indicação Starlink](/cupons/starlink) e o [guia completo do link de indicação](/reviews/starlink-indicacao-como-usar)."
+        ]
+      },
+      {
+        "heading": "Risco oculto no marketplace: kit usado, bloqueio de transferência e suspensão",
+        "paragraphs": [
+          "Antes de comprar um anúncio mais barato ou um equipamento seminovo no Mercado Livre, na Amazon, na Shopee ou em classificados, vale conhecer as travas técnicas de transferência da Starlink. A central de ajuda informa que o serviço nunca é ativado em um equipamento que ainda esteja vinculado a outra conta.",
+          "Um kit comprado on-line só pode ser transferido pelo dono anterior depois de 120 dias da compra ou 90 dias da ativação, o que acontecer primeiro. Se foi ativado pelo varejo, a transferência fica travada por 90 dias a partir da ativação. Além disso, a conta anterior não pode ter saldo pendente, não pode estar na janela de 30 dias de devolução nem em linha de aluguel.",
+          "Se o vendedor enviar uma antena ainda presa no CPF ou e-mail dele (ou com fatura em aberto), você não consegue ativar até o antigo titular cancelar o serviço, clicar em transferir e remover o hardware da conta, ou até o suporte validar o caso com o Identificador Starlink. Pior: a lista oficial avisa expressamente que equipamentos comprados em lojas não autorizadas não podem ser ativados, violam os termos da empresa e podem levar à suspensão imediata do serviço."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Componentes de um kit Starlink Standard sobre fundo escuro: antena, base, roteador e cabos",
+          "caption": "Componentes do kit Starlink Standard. Em revenda não oficial ou sem liberação de conta, o kit pode ficar bloqueado. Foto da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Lista oficial de varejistas autorizados: onde olhar antes de fechar",
+        "paragraphs": [
+          "Se você precisa retirar a antena no mesmo dia antes de viajar, quer usar saldo preso em um programa de pontos ou já decidiu comprar o hardware avulso fora do site, consulte primeiro a [lista oficial de varejistas autorizados da Starlink](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105). A página traz um aviso direto: compre apenas na Loja Starlink oficial dentro do revendedor.",
+          "No Brasil, a lista oficial inclui Mercado Livre, Amazon, Magazine Luiza (Magalu), Shopee, Casas Bahia, Fast Shop, Kabum, Carrefour, Lojas Americanas, Havan, Bemol e iPlace, entre outros parceiros regionais. O ponto crítico em plataformas como Mercado Livre, Amazon e Shopee é conferir quem entrega e emite a nota: entrar no site do marketplace não basta se o vendedor do anúncio for um terceiro avulso fora da Loja Starlink oficial.",
+          "Em Portugal, a lista oficial traz apenas quatro redes autorizadas: Worten, FNAC Portugal, PC DIGA e Novo Atalho. Se tiver dúvida sobre como identificar vendedores legítimos e perfis oficiais, veja também o nosso guia sobre [como saber se a Starlink é confiável e conferir quem vende](/reviews/starlink-e-confiavel)."
+        ],
+        "checklist": {
+          "title": "Cinco checagens antes de pagar pelo seu kit",
+          "items": [
+            "Digitei meu CEP em starlink.com pelo link de indicação para comparar aluguel, oferta de kit e disponibilidade antes de olhar lojas.",
+            "Confirmei na tela do pedido se aparece o aviso verde da indicação aplicada e se o plano escolhido tem contrato de 12 meses.",
+            "Se optei por Mercado Livre, Amazon, Shopee ou Magalu, verifiquei que o vendedor do anúncio é a Loja Starlink oficial do revendedor.",
+            "Evitei kit seminovo ou aberto sem comprovação de que o antigo dono removeu o hardware da conta e cumpriu 90 ou 120 dias.",
+            "Salvei o comprovante com o valor mensal e a regra dos 30 dias para devolução do pedido."
+          ]
+        },
+        "links": [
+          {
+            "label": "Abrir pedido oficial em starlink.com com o bônus",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
+          "alt": "Tela do pedido oficial em starlink.com mostrando o aviso verde de código de indicação aplicado com R$ 200 de recompensa",
+          "caption": "Aviso verde de indicação aplicada na coluna do pedido em starlink.com; essa confirmação só existe no site oficial.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9901
+        }
+      },
+      {
+        "heading": "Veredito: onde vale comprar em cada caso",
+        "paragraphs": [
+          "Para quem vai assinar a Starlink pela primeira vez no Brasil ou em Portugal, pedir direto em starlink.com pelo link de indicação é a rota mais vantajosa e segura: garante R$ 200 (ou 45 €) na fatura após dois ciclos pagos, libera as condições do endereço (como o Mini X no 100 Mbps brasileiro ou o aluguer por 0 € em Portugal) e centraliza a regra de devolução em 30 dias em um único suporte.",
+          "A compra no Mercado Livre, na Amazon, no Magalu ou na Worten só faz sentido real quando você precisa retirar ou receber o kit com urgência extrema, vai usar crédito ou vale preso naquela rede, ou quer adquirir o equipamento avulso em uma Loja Starlink oficial sem depender do fluxo do site, sabendo desde já que abre mão do bônus de indicação."
+        ],
+        "emphasis": "Pedir em starlink.com pelo link de indicação reúne o menor atrito contratual, as ofertas locais por endereço e o crédito de R$ 200 no Brasil ou 45 € em Portugal após dois ciclos pagos; fora dali, só vale na Loja Starlink oficial de um varejista autorizado e ciente de que a indicação não se aplica."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Starlink tem cupom de desconto para Mercado Livre, Amazon ou Magalu? Não. A Starlink não trabalha com cupom digitável em marketplaces. O único benefício oficial de indicação (R$ 200 no Brasil ou 45 € em Portugal após dois ciclos mensais pagos) vale só para novos pedidos iniciados em starlink.com pelo link exclusivo.",
+          "Posso comprar a antena na loja física e usar o link de indicação na ativação? Não. Ao ativar um kit comprado no varejo em starlink.com/activate, não existe campo para código de indicação, e a empresa proíbe incluir a recompensa depois da compra.",
+          "Como saber se um anúncio no Mercado Livre, Amazon ou Shopee é seguro? Confira a lista oficial de varejistas autorizados da Starlink e garanta que o anúncio pertence à Loja Starlink oficial dentro da plataforma. Equipamentos de vendedores não autorizados podem ser impedidos de ativar e gerar suspensão imediata.",
+          "Posso comprar antena Starlink usada no marketplace? Só vale correr o risco se o antigo titular comprovar que quitou saldos pendentes, passou da janela de 90 dias da ativação no varejo (ou 120 dias da compra on-line) e removeu o dispositivo da conta para liberar a transferência.",
+          "Qual é a diferença na devolução em 30 dias entre o site e a loja? Em starlink.com, cancelar o serviço e devolver o kit sem danos em até 30 dias reembolsa o hardware e a primeira mensalidade nos termos do pedido. No varejo, a devolução do kit segue o prazo e a política da loja, e você precisa cancelar o serviço na Starlink à parte."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Elaborado com a central de ajuda da Starlink, a lista oficial de varejistas autorizados e as telas públicas de pedido. Participamos do programa de indicação da Starlink e podemos receber o mesmo crédito caso você faça sua primeira assinatura pelo nosso link e cumpra os dois ciclos pagos.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-indicacao-como-usar"
+      },
+      {
+        "slug": "starlink-e-confiavel"
+      },
+      {
+        "slug": "starlink-mini-ou-padrao-qual-escolher"
+      },
+      {
+        "slug": "planos-starlink-100-200-mbps-ou-max"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "você é cliente novo e quer garantir o crédito de indicação na fatura após dois ciclos pagos junto das ofertas do seu endereço em starlink.com.",
+        "você prefere concentrar compra, ativação e devolução em 30 dias direto com a Starlink, sem risco de vendedor terceiro."
+      ],
+      "skipIf": [
+        "você precisa retirar o kit hoje em loja física autorizada e aceita abrir mão do bônus de indicação e do aluguel gratuito.",
+        "o anúncio está em vendedor avulso fora da Loja Starlink oficial ou é um kit usado sem transferência liberada na conta anterior."
+      ]
+    },
+    "cta": {
+      "text": "Confira plano, hardware e disponibilidade no seu CEP direto em starlink.com pelo link de indicação, mantendo 30 dias para devolver e R$ 200 de crédito no Brasil (45 € em Portugal) após dois ciclos pagos.",
+      "label": "Ver meu endereço em starlink.com",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1410,
+    "slug": "buy-starlink-official-site-or-retailers",
+    "translationKey": "starlink-onde-comprar",
+    "locale": "en",
+    "title": "Buy Starlink on starlink.com or at Best Buy, Amazon, Home Depot and Currys?",
+    "seoTitle": "Buy Starlink: starlink.com or Best Buy, Amazon and Currys",
+    "type": "Buying Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Editing and analysis",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Editing and analysis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Compare starlink.com with a referral link vs Best Buy, Amazon, Home Depot, Currys or Argos: $100 US or £40 UK bill credit, $0 rental and kit transfer rules.",
+    "metaDescription": "Buy Starlink on starlink.com or at Best Buy, Amazon and Currys? See where $100 US or £40 UK bill credit, $0 rental and 30-day returns apply.",
+    "publishedAt": "November 24, 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/buy-starlink-official-site-or-retailers-capa.webp",
+    "imageAlt": "Starlink kit dish and components on a dark background with a cover comparing the official site and authorized retailers.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "For most new subscribers, ordering directly on starlink.com via a referral link beats buying at Best Buy, Home Depot, Amazon, Walmart, Currys or John Lewis. Only the official site unlocks the referral bill credit after two paid cycles, offers free hardware rental at eligible addresses and keeps returns and cancellation in one 30-day flow."
+        ],
+        "links": [
+          {
+            "label": "Check my address on starlink.com with $100 / £40 credit",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "What actually changes between starlink.com and retail stores",
+        "paragraphs": [
+          "Walking into Best Buy, Home Depot, Lowe's or Currys—or ordering on Amazon—feels familiar, yet the financial terms differ sharply from ordering directly on starlink.com. On the official US order page we checked for Nevada, all three Residential tiers (100 Mbps at $38.50/mo, 200 Mbps at $59.50/mo and Max at $91/mo under the 30% promo) came with $0 upfront hardware and $0 monthly kit rental, leaving only $20 plus taxes due today (plus optional $99 professional installation on 100 Mbps, already $0 on 200 Mbps and Max).",
+          "In the UK (Westminster, London), starlink.com likewise offered £0 upfront and £0/mo hardware rental across 100 Mbps (£40/mo), 200 Mbps (£60/mo) and Max (£80/mo), with £19 shipping due today. At retail stores, by contrast, you buy the physical hardware outright at the store price without access to the $0 / £0 rental flow—and without the referral reward.",
+          "One key detail: the $100 US (or £40 UK) referral reward never reduces the checkout price of a kit. It lands as an invoice credit (or cash where eligible) only after your subscription stays active and paid on time for two full monthly billing cycles."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "alt": "Official Starlink Nevada order screen showing Residential 100 Mbps at $38.50/mo with $0 upfront rental hardware",
+          "caption": "Nevada order screen on starlink.com: $0 upfront hardware rental and regional plan pricing appear only on the official checkout.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7159
+        },
+        "comparisonTable": {
+          "caption": "Structural comparison based on starlink.com public order screens and help center rules checked on November 24, 2026; no third-party store prices cited.",
+          "headers": [
+            "Factor",
+            "starlink.com via referral link",
+            "Authorized retailer",
+            "Third-party / unauthorized seller"
+          ],
+          "rows": [
+            [
+              "Referral bill credit after 2 paid cycles",
+              "Yes: $100 (US) or £40 (UK) on invoice",
+              "No (retail kits are excluded)",
+              "No"
+            ],
+            [
+              "$0 / £0 upfront hardware rental option",
+              "Yes, shown on eligible US & UK addresses",
+              "No (full retail hardware purchase only)",
+              "No"
+            ],
+            [
+              "Professional installation option / $0 on 200+ & Max (US) or Max (UK; £74 on 200 Mbps)",
+              "Included or selectable right in checkout",
+              "Not bundled with the retail box",
+              "No"
+            ],
+            [
+              "30-day return & cancellation flow",
+              "Handled together in Starlink (kit + 1st month)",
+              "Return kit to retailer; cancel service separately",
+              "Short or disputed return windows"
+            ],
+            [
+              "Risk of account-locked or unauthorized kit",
+              "Zero (freshly assigned to your order)",
+              "Low if bought sealed from listed shop",
+              "High: unauthorized kits risk suspension"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Compare what you pay at checkout vs what comes back",
+          "scenarios": [
+            {
+              "label": "starlink.com US (100 Mbps) + link",
+              "lines": [
+                {
+                  "label": "Starlink V5 + Router Mini rental (Nevada)",
+                  "value": "$0 upfront, return hardware if you cancel"
+                },
+                {
+                  "label": "Shipping & service plan (standard $55/mo)",
+                  "value": "$20 + taxes today; $38.50/mo promo"
+                },
+                {
+                  "label": "Referral credit after 2 paid cycles",
+                  "value": "-$100 on your bill",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "What you pay on the order",
+              "totalValue": "$20 + taxes today; after 2 paid cycles, $100 returns as bill credit",
+              "note": "The $100 reward is credited after two paid monthly cycles; it does not discount the day-one checkout."
+            },
+            {
+              "label": "starlink.com UK (100 Mbps) + link",
+              "lines": [
+                {
+                  "label": "Mini Rental + Router Mini (London)",
+                  "value": "£0 upfront, return hardware if you cancel"
+                },
+                {
+                  "label": "Shipping & service plan",
+                  "value": "£19 today; £40/mo"
+                },
+                {
+                  "label": "Referral credit after 2 paid cycles",
+                  "value": "-£40 on your bill",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "What you pay on the order",
+              "totalValue": "£19 today; after 2 paid cycles, £40 returns as bill credit",
+              "note": "No fixed annual contract in the UK; cancel and return undamaged rental hardware within 30 days."
+            },
+            {
+              "label": "Authorized retailer or marketplace",
+              "lines": [
+                {
+                  "label": "Hardware bought outside starlink.com",
+                  "value": "Outright store purchase price"
+                },
+                {
+                  "label": "$0 / £0 rental or site bundle",
+                  "value": "Not available at retail"
+                },
+                {
+                  "label": "Referral credit on activation",
+                  "value": "$0 (cannot be added afterwards)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Outcome outside the official site",
+              "totalValue": "Full retail kit price at the store + $0 referral credit",
+              "note": "Hardware returns go back to the store under its policy while service cancellation goes to Starlink."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Why referral codes do not work on retail kits",
+        "paragraphs": [
+          "When you buy a sealed kit at a store and set it up at starlink.com/activate (or in the Starlink app), the terminal gives you 1 hour of initial internet access so you can complete account activation. If that 1-hour window runs out before finishing, you need another internet connection to wrap up sign-up.",
+          "That activation flow has no referral code box. Starlink's referral terms state explicitly that amounts are issued only for new sign-ups started directly on starlink.com via a referral link, once the first month is paid and the kit is activated. Kits purchased from resellers, retailers or marketplaces, as well as account transfers, are ineligible and cannot have a referral added retroactively.",
+          "The 30-day return rule also splits in two at retail. On starlink.com, cancelling service and returning undamaged hardware within 30 days of the payment due date refunds both the kit and the first month's service under the order terms (and zero-cost rental hardware must always be returned within 30 days of cancellation to avoid full-price billing). If you bought from an authorized retailer, you must contact the store directly to return the hardware and cancel the Starlink subscription separately. Read our [Starlink referral overview](/en/coupons/starlink) and our [step-by-step referral guide](/en/reviews/starlink-referral-link-how-it-works) before checking out."
+        ]
+      },
+      {
+        "heading": "Used kits, transfer locks and unauthorized sellers",
+        "paragraphs": [
+          "Buying a discounted or second-hand dish from an unverified seller carries strict technical locks. Starlink states that service will not be activated on hardware still assigned to another account.",
+          "Under Starlink's transfer rules, online hardware orders cannot be transferred until 120 days after purchase or 90 days after activation, whichever comes first. Retail-activated kits are locked from transfer for 90 days after activation, and the account must keep service active until eligible (if issues remain 120 days after an authorized retail purchase, support asks for the receipt). Accounts with an unpaid balance, inside the 30-day return window or on a rental service line cannot transfer hardware.",
+          "If a seller ships a kit they never removed from their account, it stays unusable until the prior owner cancels service and triggers a hardware transfer—or until Starlink support verifies the Starlink Identifier when the previous owner cannot be reached. Worse, Starlink warns that hardware bought from unauthorized retailers cannot be activated, violates its terms and conditions and may lead to immediate service suspension."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Components of a Starlink Standard kit on a dark background: dish, kickstand, router and cables",
+          "caption": "Starlink Standard kit hardware. Second-hand or unauthorized kits can fail activation if still tied to another account. Photo from Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Official authorized retailers vs marketplaces: what to check first",
+        "paragraphs": [
+          "If you need same-day local pickup before a trip, want to redeem store credit or simply prefer owning the hardware outright where starlink.com only offers rental, always verify the seller against Starlink's [official list of authorized retailers](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105). Starlink instructs buyers to purchase only through the retailer's official Starlink shop.",
+          "In the United States, the official list includes Best Buy, Home Depot, Amazon, Walmart (explicitly noting: buy only through the Starlink Store on Walmart, as Starlink is not responsible for purchases outside that store), Lowe's, Sam's Club, Ace Hardware, Tractor Supply, Bass Pro Shops, Cabela's and Boost Mobile, among others.",
+          "In the United Kingdom, authorized retailers are Currys, John Lewis, Argos, B&Q, Costco, Harvey Norman and Toolstation. Crucially, Amazon UK does not appear on Starlink's official UK retailer list, so verify who is selling before ordering. For more on spotting legitimate sellers, see [is Starlink legit and how to verify sellers](/en/reviews/is-starlink-legit)."
+        ],
+        "checklist": {
+          "title": "Five checks before paying for your Starlink kit",
+          "items": [
+            "I entered my service address on starlink.com via the referral link to check $0 rental and local promo pricing before browsing stores.",
+            "I confirmed the green Referral Code Applied badge appeared on the order summary before entering payment details.",
+            "If buying at Walmart, Amazon or another marketplace, I verified the seller is the official Starlink shop on the authorized list.",
+            "I rejected any used or open-box dish without proof that the previous owner released it after the 90- or 120-day transfer lock.",
+            "I saved a screenshot of my plan rate and the 30-day return terms before completing checkout."
+          ]
+        },
+        "links": [
+          {
+            "label": "Open starlink.com order with $100 / £40 referral credit",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Official starlink.com order screen showing the green Referral Code Applied confirmation badge and $100 reward notice",
+          "caption": "Green Referral Code Applied confirmation on starlink.com; this tracking badge exists only on the official checkout.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "Verdict: when each option makes sense",
+        "paragraphs": [
+          "Ordering on starlink.com through a referral link is the strongest default choice for new US and UK customers. It preserves the $100 US or £40 UK bill credit after two paid cycles, gives access to $0 / £0 rental hardware on eligible addresses and keeps both hardware return and subscription cancellation under one roof for 30 days.",
+          "Buying from an authorized retailer like Best Buy, Home Depot, Currys or John Lewis still makes sense if you need a kit in hand today, are redeeming a retail gift card or deliberately want to own the hardware outright rather than rent—provided you buy from the official Starlink storefront and accept losing the referral credit."
+        ],
+        "emphasis": "Ordering on starlink.com with a referral link unlocks the $100 US or £40 UK bill credit after two paid cycles alongside $0 / £0 hardware rental at eligible addresses; authorized stores are strictly for immediate pickup or store-credit purchases, knowing the referral bonus will not apply."
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Does the Starlink referral link work if I buy from Best Buy, Amazon, Home Depot or Currys? No. Referral rewards are issued only for new subscriptions ordered directly on starlink.com through a referral link; kits from retailers, marketplaces and transfers are ineligible.",
+          "Can I buy Starlink at Walmart or Amazon safely? In the US, Amazon is on the official list and Walmart is authorized only through the Starlink Store on Walmart. In the UK, Amazon UK does not appear on Starlink's official retailer list, so check Currys, John Lewis, Argos, B&Q or Costco instead.",
+          "How does the 30-day return work if I buy at a retailer vs starlink.com? On starlink.com, cancelling service and returning undamaged hardware within 30 days refunds the kit and first month under order terms. At a retailer, hardware returns follow the store's return policy while you cancel service separately with Starlink.",
+          "Can I activate a used Starlink bought from a third-party marketplace? Only if the original owner settled any balance, cleared the 90-day retail or 120-day online transfer waiting period and removed the hardware from their account. Kits from unauthorized sellers may fail activation or be suspended.",
+          "Does the $100 or £40 referral lower my kit price at checkout? No. You pay the exact checkout amount shown on starlink.com, and the referral credit is issued to your billing statement after two full paid monthly cycles."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Prepared using Starlink's official help center, authorized retailer directory and public order screens. We participate in the Starlink referral program and may receive the same referral credit if you place your first eligible order through our link and keep two monthly cycles paid.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-referral-link-how-it-works"
+      },
+      {
+        "slug": "is-starlink-legit"
+      },
+      {
+        "slug": "starlink-mini-vs-standard-which-to-choose"
+      },
+      {
+        "slug": "starlink-residential-100-200-mbps-or-max"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "you are a new subscriber who wants the referral bill credit after two paid cycles and zero-cost upfront hardware rental on starlink.com.",
+        "you prefer one unified 30-day return and cancellation process directly with Starlink."
+      ],
+      "skipIf": [
+        "you need same-day physical pickup at an authorized US or UK retailer and are okay giving up the referral credit.",
+        "the listing comes from an unverified marketplace seller or a used dish without a confirmed account transfer release."
+      ]
+    },
+    "cta": {
+      "text": "Check plans, $0 hardware rental and availability at your address on starlink.com via our referral link, with 30-day return terms and $100 US (£40 UK) credit after two paid cycles.",
+      "label": "Check my address on starlink.com",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1411,
+    "slug": "comprar-starlink-web-oficial-o-tiendas",
+    "translationKey": "starlink-onde-comprar",
+    "locale": "es",
+    "title": "¿Comprar Starlink en starlink.com o en El Corte Inglés, MediaMarkt, Mercado Libre y Home Depot?",
+    "seoTitle": "Comprar Starlink: web oficial o MediaMarkt y Mercado Libre",
+    "type": "Guía de compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edición y análisis",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edición y análisis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Compara pedir Starlink en starlink.com con referido frente a El Corte Inglés, MediaMarkt, Mercado Libre y Home Depot: crédito en factura, alquiler y bloqueo.",
+    "metaDescription": "¿Web oficial de Starlink o MediaMarkt, El Corte Inglés y Mercado Libre? Crédito de 45 € en España, alquiler a 0 € y lista oficial de tiendas sin bloqueo.",
+    "publishedAt": "24 de noviembre de 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/comprar-starlink-web-oficial-o-tiendas-capa.webp",
+    "imageAlt": "Antena y componentes del kit Starlink sobre fondo oscuro con la comparación entre la web oficial y tiendas autorizadas.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Para la mayoría de los nuevos clientes, pedir directamente en starlink.com con enlace de referido compensa más que comprar en El Corte Inglés, MediaMarkt, PcComponentes, FNAC, Mercado Libre o Home Depot. Solo la web oficial libera el crédito en factura tras dos ciclos, ofrece alquiler gratuito en España y unifica la devolución en 30 días."
+        ],
+        "links": [
+          {
+            "label": "Ver mi dirección en starlink.com con crédito de referido",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Qué cambia de verdad entre starlink.com y una tienda",
+        "paragraphs": [
+          "Aunque veas el kit expuesto en El Corte Inglés, MediaMarkt, PcComponentes, FNAC o Costco en España —o en Mercado Libre, Home Depot, Liverpool o Coppel en México—, las condiciones comerciales cambian mucho frente a starlink.com. En España (consulta en Madrid), la web oficial mostró alquiler del equipo por 0 € al mes en los tres planes residenciales (100 Mbps a 24,50 €/mes, 200 Mbps a 31,50 €/mes y Máx. a 45,50 €/mes con el descuento vigente), pagando 19 € de envío el primer día.",
+          "En México (consulta en Ciudad de México), el pedido oficial mostró únicamente Residencial Max en modalidad de compra directa: Kit Mini por $2,303 MXN (sin botón de plazo de 12 meses en el resumen) o Standard 4 X por $5,743 MXN con plazo de 12 meses y penalización anticipada de hasta $4,600 MXN, más $475 MXN de envío. En tienda física o marketplace compras solo el kit suelto sin estas condiciones de contratación ni acceso al crédito de referido.",
+          "Ten clara la regla del bono: el crédito (45 € en España o MX$ 700 como importe de referencia publicado en noviembre en México —confirma el importe mostrado en tu pantalla de pedido antes de pagar—) nunca baja el precio del kit al pagar el pedido. Llega como crédito en la factura (o pago donde aplique) después de mantener dos ciclos mensuales completos al día."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "alt": "Pantalla oficial de starlink.com para Madrid con el plan Residencial 100 Mbps a 24,50 €/mes y equipo en alquiler por 0 €",
+          "caption": "Madrid en starlink.com: el alquiler de hardware por 0 € y los planes regionales solo están disponibles en el pedido oficial.",
+          "objectFit": "contain",
+          "aspectRatio": 0.622
+        },
+        "comparisonTable": {
+          "caption": "Comparativa estructural según pantallas públicas y centro de ayuda de starlink.com consultados el 24 de noviembre de 2026, sin citar precios de terceros.",
+          "headers": [
+            "Criterio",
+            "starlink.com con enlace de referido",
+            "Tienda autorizada",
+            "Vendedor suelto en marketplace"
+          ],
+          "rows": [
+            [
+              "Crédito de referido tras 2 ciclos pagados",
+              "Sí: 45 € en España; MX$ 700 ref. nov. en México (confirma el importe mostrado en tu pantalla de pedido antes de pagar)",
+              "No aplica (compras en tienda quedan fuera)",
+              "No aplica"
+            ],
+            [
+              "Alquiler a 0 € (España) o configuración por dirección",
+              "Sí, según dirección en el pedido",
+              "No: solo compra del kit en tienda",
+              "No"
+            ],
+            [
+              "Instalación profesional incluida en Máx. (España)",
+              "Incluida por 0 € en el pedido",
+              "No incluida en caja de tienda",
+              "No"
+            ],
+            [
+              "Ventana de 30 días para devolver",
+              "Todo con Starlink (kit y 1.ª cuota según términos)",
+              "Kit se devuelve a la tienda; suscripción se cancela aparte",
+              "Plazos cortos o disputa con vendedor"
+            ],
+            [
+              "Riesgo de kit bloqueado o no autorizado",
+              "Cero (asignado nuevo a tu pedido)",
+              "Bajo si va precintado en tienda oficial",
+              "Alto: tiendas no autorizadas pueden suspender el servicio"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Compara lo que pagas en el pedido y el crédito posterior",
+          "scenarios": [
+            {
+              "label": "starlink.com España (100 Mbps) + enlace",
+              "lines": [
+                {
+                  "label": "Alquiler kit Mini X (Madrid)",
+                  "value": "0 € hoy (se devuelve si cancelas)"
+                },
+                {
+                  "label": "Envío y cuota (sin promo 35 €/mes)",
+                  "value": "19 € hoy; 24,50 €/mes"
+                },
+                {
+                  "label": "Crédito de referido tras 2 ciclos pagados",
+                  "value": "-45 € en la factura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Lo que pagas en el pedido",
+              "totalValue": "19 € hoy; tras 2 ciclos pagados, 45 € vuelven como crédito en factura",
+              "note": "El crédito llega después de dos ciclos completos al día; no descuenta el envío hoy."
+            },
+            {
+              "label": "starlink.com México (Max, CDMX) + enlace",
+              "lines": [
+                {
+                  "label": "Hardware en compra (Kit Mini o Standard 4 X)",
+                  "value": "$2,303 MXN (Mini) o $5,743 MXN (12 meses)"
+                },
+                {
+                  "label": "Envío y mensualidad ($1,485 + $55 reg.)",
+                  "value": "$475 MXN envío hoy; $1,540 MXN/mes"
+                },
+                {
+                  "label": "Referido publicado en nov. (confirma antes de pagar)",
+                  "value": "MX$ 700 (referencia de noviembre): confirma el importe mostrado en tu pantalla de pedido antes de pagar",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Lo que pagas en el pedido",
+              "totalValue": "Kit + $475 MXN de envío hoy; confirma el importe mostrado en tu pantalla de pedido antes de pagar",
+              "note": "El valor MX$ 700 es referencia publicada en noviembre: confirma el importe mostrado en tu pantalla de pedido antes de pagar."
+            },
+            {
+              "label": "Tienda autorizada o marketplace",
+              "lines": [
+                {
+                  "label": "Hardware fuera de starlink.com",
+                  "value": "Precio íntegro de compra en tienda"
+                },
+                {
+                  "label": "Alquiler 0 € u oferta por dirección",
+                  "value": "No disponible en tiendas"
+                },
+                {
+                  "label": "Crédito de referido al activar",
+                  "value": "0 (no se puede añadir después)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Resultado fuera de la web oficial",
+              "totalValue": "Precio completo del kit en tienda + 0 de crédito de referido",
+              "note": "La devolución del equipo depende de la tienda y la baja del servicio se gestiona aparte en Starlink."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Por qué el referido no entra al activar un kit de tienda",
+        "paragraphs": [
+          "Si compras una antena precintada en tienda física o marketplace y entras en starlink.com/activate (o en la app), Starlink concede 1 hora de acceso inicial a internet para completar el alta; si se agota esa hora, necesitarás otra conexión para acabar el registro.",
+          "En esa pantalla de activación no existe casilla para códigos de referido. El centro de ayuda indica que las recompensas se emiten solo para altas nuevas iniciadas directamente en starlink.com mediante el enlace de referido, tras pagar el primer mes y activar el kit. Los equipos comprados en distribuidores, tiendas o traspasos de cuenta quedan excluidos y no se pueden vincular después.",
+          "También cambia la política de 30 días. En starlink.com, cancelar el servicio y devolver el hardware sin daños en 30 días da reembolso del equipo y de la primera cuota según los términos del pedido (y los equipos alquilados a 0 € deben devolverse siempre en 30 días tras cancelar para evitar el cobro íntegro). En tienda física, devuelves el hardware al propio comercio según sus normas y cancelas el plan aparte en Starlink. Consulta nuestra [página del referido Starlink](/es/coupons/starlink) y la [guía paso a paso del enlace de referido](/es/reviews/starlink-enlace-referido-como-funciona)."
+        ]
+      },
+      {
+        "heading": "Riesgo de kits usados, bloqueo de transferencia y suspensión",
+        "paragraphs": [
+          "Comprar una antena de segunda mano o a un revendedor informal tiene bloqueos claros. Starlink advierte que el servicio no se activa en ningún equipo que siga asignado a otra cuenta.",
+          "Los pedidos online no pueden transferirse hasta pasados 120 días desde la compra o 90 días desde la activación (lo que ocurra primero). En activaciones de tienda autorizada, el bloqueo dura 90 días desde la activación manteniendo el servicio activo. Tampoco se permite transferir con saldo pendiente, dentro de los 30 días de devolución ni en líneas con hardware en alquiler.",
+          "Si el vendedor envía una antena todavía vinculada a su cuenta, el comprador no podrá activarla hasta que el titular anterior cancele y libere el dispositivo (o soporte ayude con el Identificador Starlink). Además, el aviso oficial advierte que el hardware procedente de tiendas no autorizadas no puede activarse, incumple los términos y puede provocar la suspensión inmediata del servicio."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Componentes de un kit Starlink Standard sobre fondo oscuro: antena, soporte, router y cables",
+          "caption": "Componentes del kit Starlink Standard. Un kit usado sin liberar o de tienda no autorizada puede quedar bloqueado. Foto de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Lista oficial de tiendas autorizadas en España y México frente a marketplaces",
+        "paragraphs": [
+          "Si necesitas llevarte el equipo el mismo día o aprovechar saldo en una cadena concreta, consulta antes la [lista oficial de distribuidores autorizados de Starlink](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105). La nota oficial recuerda comprar únicamente en la tienda oficial de Starlink dentro del distribuidor.",
+          "En España figuran El Corte Inglés, MediaMarkt, PcComponentes, FNAC y Costco. Toma nota de un dato clave: **Amazon España no aparece en la lista oficial de distribuidores de España**, de modo que un anuncio en esa plataforma requiere máxima cautela.",
+          "En México están autorizados Mercado Libre, Home Depot, Liverpool, Coppel, Office Depot, Radio Shack y Steren —y **Amazon México tampoco aparece en la lista oficial de México**. En Mercado Libre compra siempre dentro de la tienda oficial de Starlink y nunca a terceros sueltos. Para distinguir perfiles legítimos, revisa [si Starlink es fiable y cómo comprobar quién vende](/es/reviews/starlink-es-fiable)."
+        ],
+        "checklist": {
+          "title": "Cinco comprobaciones antes de comprar tu antena",
+          "items": [
+            "Comprobé mi dirección en starlink.com desde el enlace de referido para ver alquiler a 0 € u oferta local antes de mirar tiendas.",
+            "Verifiqué en pantalla el aviso de referido aplicado (y en México, frente a la referencia de MX$ 700 de noviembre, confirma el importe mostrado en tu pantalla de pedido antes de pagar).",
+            "Si elegí una tienda física o Mercado Libre, comprobé que figure en la lista oficial y pertenezca a la tienda oficial de Starlink.",
+            "Descarté kits usados o abiertos sin prueba de liberación en la cuenta anterior y fuera del bloqueo de 90 o 120 días.",
+            "Guardé captura de la cuota mensual, el compromiso si aplica y la regla de 30 días antes de pagar."
+          ]
+        },
+        "links": [
+          {
+            "label": "Abrir pedido oficial en starlink.com con referido",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Pantalla oficial de pedido en starlink.com con el aviso verde Referral Code Applied confirmando el crédito aplicado",
+          "caption": "Confirmación verde de código de referido aplicado en starlink.com (captura de referencia); solo aparece al iniciar en el sitio oficial.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "Veredicto: dónde conviene comprar en cada caso",
+        "paragraphs": [
+          "Para nuevos clientes en España y México, contratar en starlink.com mediante el enlace de referido es la opción más rentable y sencilla: protege el crédito posterior en factura (45 € en España o MX$ 700 como referencia publicada en noviembre en México; confirma el importe mostrado en tu pantalla de pedido antes de pagar), habilita el alquiler a 0 € en España y mantiene devolución y suscripción bajo el mismo soporte durante 30 días.",
+          "Acudir a El Corte Inglés, MediaMarkt, PcComponentes, Liverpool o Mercado Libre solo merece la pena cuando necesitas entrega física inmediata o quieres usar financiación o saldo de esa tienda, comprando en canal autorizado y asumiendo que pierdes el bono de referido."
+        ],
+        "emphasis": "Pedir en starlink.com con enlace de referido une la devolución unificada de 30 días, el alquiler a 0 € en España y el crédito tras dos ciclos pagados (45 € en España; MX$ 700 de referencia en noviembre en México —confirma el importe mostrado en tu pantalla de pedido antes de pagar—); Amazon ES y Amazon MX no constan en la lista oficial."
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Sirve el enlace de referido si compro en MediaMarkt, El Corte Inglés o Mercado Libre? No. El programa exige iniciar el alta directamente en starlink.com mediante el enlace de referido; los kits de tiendas, marketplaces y traspasos quedan fuera.",
+          "¿Está Amazon en la lista oficial de Starlink en España o México? No. En la consulta oficial, ni Amazon España ni Amazon México figuran entre los distribuidores autorizados. En España constan El Corte Inglés, MediaMarkt, PcComponentes, FNAC y Costco; en México, Mercado Libre, Home Depot, Liverpool, Coppel, Office Depot, Radio Shack y Steren.",
+          "¿Cuánto da el referido en España y en México? En España el crédito oficial vigente es de 45 € tras dos ciclos pagados y aparece en el resumen del pedido; en México el importe varía según el país y el momento, por lo que debes confirmar el importe mostrado en tu pantalla de pedido antes de pagar (en la comparativa superior figura la referencia actual) porque entra como crédito en factura después de dos ciclos.",
+          "¿Cómo funcionan los 30 días si compro en tienda? En starlink.com devuelves el kit sin daños y cancelas para reembolso del hardware y la primera cuota según los términos del pedido. En tienda, la devolución del equipo depende del comercio y la baja del servicio se tramita aparte en Starlink.",
+          "¿Qué pasa si compro un kit usado o de una tienda no autorizada? Un equipo sin liberar tras el plazo de 90 o 120 días no se puede activar, y el hardware de vendedores no autorizados infringe los términos y puede provocar la suspensión inmediata del servicio."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Elaborado con el centro de ayuda oficial, el directorio de distribuidores autorizados y pantallas públicas de pedido de starlink.com. Participamos en el programa de referidos de Starlink y podemos recibir la misma recompensa si te das de alta por primera vez con nuestro enlace y mantienes dos ciclos pagados.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-enlace-referido-como-funciona"
+      },
+      {
+        "slug": "starlink-es-fiable"
+      },
+      {
+        "slug": "starlink-mini-o-estandar-cual-elegir"
+      },
+      {
+        "slug": "planes-starlink-100-200-mbps-o-max"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "eres cliente nuevo y quieres asegurar el crédito de referido tras dos ciclos pagados y el alquiler gratuito en España desde starlink.com.",
+        "prefieres gestionar compra, envío y posible devolución en 30 días en un único flujo directo con Starlink."
+      ],
+      "skipIf": [
+        "necesitas recoger la antena hoy mismo en una tienda autorizada de España o México y aceptas renunciar al bono de referido.",
+        "el anuncio procede de un vendedor no autorizado (o de Amazon ES/MX fuera de lista) o es un kit usado sin transferencia liberada."
+      ]
+    },
+    "cta": {
+      "text": "Revisa planes, alquiler o compra de hardware y crédito disponible para tu dirección en starlink.com con nuestro enlace de referido, manteniendo los 30 días de prueba.",
+      "label": "Comprobar mi dirección en starlink.com",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1412,
+    "slug": "acheter-starlink-site-officiel-ou-revendeurs",
+    "translationKey": "starlink-onde-comprar",
+    "locale": "fr",
+    "title": "Acheter Starlink sur le site officiel ou chez FNAC Darty, Boulanger, E.Leclerc et Amazon ?",
+    "seoTitle": "Starlink : site officiel ou FNAC, Boulanger et E.Leclerc",
+    "type": "Guide d'achat",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Édition et analyse",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Édition et analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Comparez starlink.com avec parrainage face à FNAC Darty, Boulanger, E.Leclerc, Carrefour et Amazon : crédit de 45 €, location à 0 € et liste officielle des revendeurs.",
+    "metaDescription": "Starlink sur starlink.com ou chez FNAC, Boulanger, E.Leclerc et Amazon ? Comparez les 45 € de crédit, la location à 0 € et les revendeurs agréés.",
+    "publishedAt": "24 novembre 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/acheter-starlink-site-officiel-ou-revendeurs-capa.webp",
+    "imageAlt": "Antenne et composants du kit Starlink sur fond sombre présentant le comparatif entre le site officiel et les revendeurs.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Pour la majorité des nouveaux abonnés en France, commander sur starlink.com via le lien de parrainage reste plus avantageux que passer chez FNAC Darty, Boulanger, E.Leclerc, Carrefour ou Amazon. Seul le site officiel débloque le crédit de parrainage après deux cycles payés, offre la location gratuite du kit et centralise le retour sous 30 jours."
+        ],
+        "links": [
+          {
+            "label": "Vérifier mon adresse sur starlink.com avec 45 € de crédit",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Site officiel ou magasin : ce qui change vraiment",
+        "paragraphs": [
+          "Passer chez FNAC Darty, Boulanger, E.Leclerc, Leroy Merlin, LDLC, Carrefour ou Costco semble plus direct, mais les conditions commerciales diffèrent nettement de starlink.com. Lors de notre vérification à Paris, la commande officielle proposait la location du matériel à 0 € et 0 €/mois sur les trois forfaits résidentiels : 100 Mbit/s à 24,50 €/mois (plein tarif 35 €) avec le kit Mini X, 200 Mbit/s à 31,50 €/mois (45 €) et Max à 45,50 €/mois (65 €) avec le Standard 4, pour 19 € d'expédition aujourd'hui.",
+          "En magasin, vous achetez uniquement le matériel plein tarif sans accéder à la location à 0 € ni à l'installation professionnelle offerte à 0 € sur le forfait Max (contre 172 € en option sur 100 et 200 Mbit/s). Autre point clé : Amazon France ne figure pas sur la liste officielle des revendeurs agréés en France.",
+          "Précision importante : les 45 € de parrainage ne réduisent jamais le prix du kit au moment du paiement. Vous réglez le montant standard affiché sur starlink.com aujourd'hui et, après deux cycles mensuels complets actifs et payés à temps, les 45 € sont crédités sur votre facture (ou versés par virement (via Stripe) lorsque le compte le propose)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "alt": "Page de commande officielle starlink.com pour Paris avec le forfait Résidentiel 100 Mbit/s à 24,50 €/mois et le matériel loué à 0 €",
+          "caption": "Écran de commande à Paris sur starlink.com : la location à 0 € et les tarifs par adresse n'existent que sur le site officiel.",
+          "objectFit": "contain",
+          "aspectRatio": 0.5909
+        },
+        "comparisonTable": {
+          "caption": "Comparatif structurel établi d'après les pages publiques et le centre d'aide starlink.com consultés le 24 novembre 2026, sans prix de tiers.",
+          "headers": [
+            "Critère",
+            "starlink.com via lien de parrainage",
+            "Revendeur agréé",
+            "Vendeur tiers / non agréé"
+          ],
+          "rows": [
+            [
+              "Crédit de parrainage après 2 cycles payés",
+              "Oui : 45 € en France sur la facture",
+              "Non (achats hors site exclus)",
+              "Non"
+            ],
+            [
+              "Location du matériel à 0 €",
+              "Oui, sur les adresses françaises éligibles",
+              "Non : achat du kit seul en magasin",
+              "Non"
+            ],
+            [
+              "Installation professionnelle offerte sur Max",
+              "Affichée directement à 0 € dans la commande",
+              "Non incluse dans la boîte en rayon",
+              "Non"
+            ],
+            [
+              "Délai de retour de 30 jours",
+              "Un seul dossier Starlink (matériel + 1er mois)",
+              "Kit retourné au magasin ; abonnement résilié à part",
+              "Délais courts ou litiges vendeur"
+            ],
+            [
+              "Risque de kit bloqué ou non autorisé",
+              "Nul (attribué neuf à votre commande)",
+              "Faible si acheté neuf et scellé",
+              "Élevé : matériel non agréé risquant la suspension"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Comparez ce que vous payez le jour J et ce qui revient",
+          "scenarios": [
+            {
+              "label": "starlink.com 100 Mbit/s + lien",
+              "lines": [
+                {
+                  "label": "Location du kit Mini X (Paris)",
+                  "value": "0 € aujourd'hui (à rendre en cas de résiliation)"
+                },
+                {
+                  "label": "Expédition et forfait (plein tarif 35 €/mois)",
+                  "value": "19 € aujourd'hui ; 24,50 €/mois"
+                },
+                {
+                  "label": "Crédit parrainage après 2 cycles payés",
+                  "value": "-45 € sur la facture",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Ce que vous réglez à la commande",
+              "totalValue": "19 € aujourd'hui ; après 2 cycles payés, 45 € reviennent en crédit sur facture",
+              "note": "Le bonus arrive sur la facture après deux mois complets payés ; il ne baisse pas l'envoi du jour J."
+            },
+            {
+              "label": "starlink.com 200 Mbit/s + lien",
+              "lines": [
+                {
+                  "label": "Location du kit Standard 4 (Paris)",
+                  "value": "0 € aujourd'hui (à rendre en cas de résiliation)"
+                },
+                {
+                  "label": "Expédition et forfait (plein tarif 45 €/mois)",
+                  "value": "19 € aujourd'hui ; 31,50 €/mois"
+                },
+                {
+                  "label": "Crédit parrainage après 2 cycles payés",
+                  "value": "-45 € sur la facture",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Ce que vous réglez à la commande",
+              "totalValue": "19 € aujourd'hui ; après 2 cycles payés, 45 € reviennent en crédit sur facture",
+              "note": "Sans engagement de durée fixe ; le matériel loué doit être renvoyé sous 30 jours après résiliation."
+            },
+            {
+              "label": "Revendeur agréé ou marketplace",
+              "lines": [
+                {
+                  "label": "Matériel hors starlink.com",
+                  "value": "Achat plein tarif en boutique"
+                },
+                {
+                  "label": "Location à 0 € du site",
+                  "value": "Indisponible en magasin"
+                },
+                {
+                  "label": "Crédit de parrainage à l'activation",
+                  "value": "0 € (impossible à ajouter après)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Bilan hors site officiel",
+              "totalValue": "Prix plein du kit en magasin + 0 € de crédit de parrainage",
+              "note": "Le retour du matériel suit la politique du magasin tandis que la résiliation passe par Starlink."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Pourquoi le parrainage ne s'applique pas après un achat en magasin",
+        "paragraphs": [
+          "Lorsque vous achetez un kit en magasin physique et que vous lancez l'installation via starlink.com/activate ou l'application Starlink, le terminal accorde 1 heure d'accès internet initial pour finaliser l'inscription. Passé ce délai d'une heure, il faut utiliser une autre connexion pour terminer l'activation.",
+          "Cet écran d'activation ne comporte aucun champ pour saisir un code ou lien de parrainage. Le règlement officiel précise que les récompenses sont réservées aux nouveaux clients qui démarrent leur commande directement sur starlink.com via un lien de parrainage, payent le premier mois et activent le kit. Les achats chez un revendeur, sur une place de marché ou par transfert de compte sont exclus et ne peuvent jamais être rattachés après coup.",
+          "La règle des 30 jours change aussi. Sur starlink.com, résilier le service et renvoyer le matériel intact dans les 30 jours rembourse l'équipement et la première mensualité selon les conditions de la commande (et tout matériel loué à 0 € doit impérativement être retourné dans les 30 jours suivant la résiliation sous peine de facturation intégrale). En magasin, vous retournez le kit au vendeur selon ses conditions et résiliez l'abonnement séparément auprès de Starlink. Consultez notre [page parrainage Starlink](/fr/coupons/starlink) et notre [guide complet du lien de parrainage](/fr/reviews/starlink-lien-parrainage)."
+        ]
+      },
+      {
+        "heading": "Kits d'occasion, blocage de transfert et vendeurs non agréés",
+        "paragraphs": [
+          "Acheter un kit d'occasion ou auprès d'un vendeur tiers comporte des blocages stricts. Starlink indique que le service ne peut jamais être activé sur un équipement encore rattaché à un autre compte.",
+          "Selon la procédure officielle de transfert, un kit commandé en ligne ne peut être transféré qu'après 120 jours suivant l'achat ou 90 jours suivant l'activation (au premier des deux termes). Un kit activé après achat en magasin reste bloqué 90 jours à compter de l'activation, en gardant le service actif jusque-là. Le transfert est aussi impossible s'il reste un solde impayé, pendant la fenêtre de retour de 30 jours ou sur une ligne en location.",
+          "Si un vendeur expédie une antenne qu'il n'a pas détachée de son compte, elle reste inutilisable tant que l'ancien propriétaire ne résilie pas et ne clique pas sur transférer (ou que le support n'intervient pas avec l'identifiant Starlink). Pire : Starlink avertit que le matériel issu de boutiques non autorisées ne peut pas être activé, enfreint ses conditions et peut entraîner une suspension immédiate du service."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Éléments d'un kit Starlink Standard sur fond sombre : antenne, pied, routeur et câbles",
+          "caption": "Composants d'un kit Starlink Standard. Un matériel d'occasion non libéré ou non agréé reste bloqué. Photo : Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Liste officielle des revendeurs en France et vigilance sur Amazon",
+        "paragraphs": [
+          "Si vous devez retirer un kit le jour même avant un déplacement ou utiliser un bon d'achat en enseigne, vérifiez toujours la [liste officielle des revendeurs agréés Starlink](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105). La page demande expressément d'acheter uniquement via la boutique Starlink officielle chez le distributeur.",
+          "En France, la liste officielle mentionne huit enseignes : FNAC Darty, Boulanger, E.Leclerc, Leroy Merlin, LDLC, Materiel.net, Carrefour et Costco. Point crucial à vérifier avant de commander en ligne : **Amazon n'apparaît pas sur la liste officielle des revendeurs en France**.",
+          "Méfiez-vous donc des vendeurs tiers sur les places de marché généralistes, car un équipement vendu hors réseau officiel risque le refus d'activation. Pour reconnaître les canaux légitimes, consultez aussi notre dossier [Starlink est-il fiable et comment vérifier qui vend](/fr/reviews/starlink-est-il-fiable)."
+        ],
+        "checklist": {
+          "title": "Cinq points à vérifier avant de payer votre kit",
+          "items": [
+            "J'ai saisi mon adresse sur starlink.com via le lien de parrainage pour comparer la location à 0 € avant d'aller en magasin.",
+            "J'ai vérifié que la mention du parrainage appliqué s'affiche sur l'écran récapitulatif avant le paiement.",
+            "Si j'achète en magasin, j'ai choisi l'une des enseignes françaises officielles (FNAC Darty, Boulanger, E.Leclerc, Leroy Merlin, LDLC, Carrefour ou Costco).",
+            "J'ai écarté toute annonce Amazon tierce ou tout kit d'occasion sans preuve de libération après le délai de 90 ou 120 jours.",
+            "J'ai conservé une capture du tarif mensuel et des conditions de retour sous 30 jours."
+          ]
+        },
+        "links": [
+          {
+            "label": "Ouvrir la commande officielle sur starlink.com avec 45 €",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Écran de commande starlink.com montrant le badge vert Referral Code Applied confirmant le crédit",
+          "caption": "Badge vert confirmant le parrainage appliqué sur starlink.com (aperçu de référence) ; absent hors du site officiel.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "Verdict : où acheter selon votre situation",
+        "paragraphs": [
+          "Pour un nouvel abonné en France, commander directement sur starlink.com via le lien de parrainage reste nettement supérieur : vous obtenez 45 € de crédit sur facture après deux cycles payés, l'accès à la location à 0 € sur les trois forfaits résidentiels et un seul interlocuteur Starlink pendant 30 jours.",
+          "Passer par FNAC Darty, Boulanger, E.Leclerc, Leroy Merlin, LDLC, Carrefour ou Costco ne se justifie que si vous voulez repartir avec la boîte le jour même, utiliser un chèque-cadeau ou acheter le matériel en pleine propriété plutôt qu'en location — en acceptant de renoncer aux 45 € de parrainage."
+        ],
+        "emphasis": "Commander sur starlink.com avec un lien de parrainage combine la location à 0 € en France, les 45 € de crédit après deux cycles payés et un retour simplifié sous 30 jours ; hors site, limitez-vous aux enseignes françaises officiellement listées sachant qu'Amazon France n'y figure pas."
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Le parrainage Starlink fonctionne-t-il chez FNAC Darty, Boulanger ou E.Leclerc ? Non. Le crédit de 45 € exige impérativement une nouvelle commande passée sur starlink.com via un lien de parrainage ; les achats chez les revendeurs sont exclus et ne peuvent pas être ajoutés à l'activation.",
+          "Amazon France est-il un revendeur officiel Starlink ? Non. Sur la liste officielle publiée par Starlink pour la France figurent FNAC Darty, Boulanger, E.Leclerc, Leroy Merlin, LDLC, Materiel.net, Carrefour et Costco, mais pas Amazon.",
+          "Les 45 € de parrainage réduisent-ils le prix du kit au paiement ? Non. Vous payez le montant affiché sur starlink.com le jour de la commande, et les 45 € arrivent en crédit sur facture après deux cycles mensuels complets payés à temps.",
+          "Comment fonctionne le retour sous 30 jours en magasin par rapport à starlink.com ? Sur starlink.com, résilier et renvoyer le kit intact sous 30 jours déclenche le remboursement selon les conditions de commande. Chez un revendeur, vous retournez le kit au magasin selon ses règles et résiliez le service séparément chez Starlink.",
+          "Puis-je activer une antenne Starlink achetée d'occasion ? Seulement si le vendeur a réglé tout solde dû, dépassé le blocage de 90 jours après activation en boutique (ou 120 jours après achat en ligne) et retiré l'appareil de son compte Starlink."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Rédigé à partir du centre d'aide officiel Starlink, de la liste publique des revendeurs agréés et des pages de commande consultées en ligne. Nous participons au programme de parrainage Starlink et pouvons recevoir la même récompense si vous souscrivez pour la première fois via notre lien et réglez deux cycles complets.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-lien-parrainage"
+      },
+      {
+        "slug": "starlink-est-il-fiable"
+      },
+      {
+        "slug": "starlink-mini-ou-standard-quel-kit-choisir"
+      },
+      {
+        "slug": "forfaits-starlink-100-200-mbps-ou-max"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "vous êtes nouveau client et voulez bénéficier de la location gratuite du matériel et du crédit de parrainage après deux cycles payés sur starlink.com.",
+        "vous souhaitez gérer commande, garantie de retour sous 30 jours et abonnement auprès d'un seul support Starlink."
+      ],
+      "skipIf": [
+        "vous devez repartir avec le kit le jour même dans une enseigne agréée française et acceptez de perdre le crédit de parrainage.",
+        "le vendeur n'apparaît pas sur la liste officielle (comme un tiers sur Amazon France) ou propose un kit d'occasion non libéré."
+      ]
+    },
+    "cta": {
+      "text": "Vérifiez la location à 0 € et les tarifs à votre adresse sur starlink.com via notre lien de parrainage, avec essai de 30 jours et 45 € de crédit après deux cycles payés.",
+      "label": "Voir mon adresse sur starlink.com",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1413,
+    "slug": "starlink-offizielle-seite-oder-haendler",
+    "translationKey": "starlink-onde-comprar",
+    "locale": "de",
+    "title": "Starlink auf starlink.com oder bei MediaMarkt Saturn, OTTO, Cyberport und Amazon kaufen?",
+    "seoTitle": "Starlink: offizielle Seite oder MediaMarkt, OTTO & Amazon",
+    "type": "Kaufratgeber",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redaktion und Analyse",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redaktion und Analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Vergleich von starlink.com mit Empfehlungslink und MediaMarkt Saturn, OTTO, Cyberport, Euronics oder Amazon: 45 € Rechnungsgutschrift, 0-€-Miete und Händlersperren.",
+    "metaDescription": "Starlink auf starlink.com oder bei MediaMarkt, OTTO, Cyberport und Amazon kaufen? 45 € Gutschrift, 0-€-Miete und offizielle Händlerliste im Vergleich.",
+    "publishedAt": "24. November 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-offizielle-seite-oder-haendler-capa.webp",
+    "imageAlt": "Starlink-Antenne und Kit-Zubehör auf dunklem Hintergrund mit Vergleich zwischen offizieller Website und Fachhandel.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Schnelle Antwort",
+        "paragraphs": [
+          "Für die meisten Neukunden in Deutschland lohnt sich die Bestellung direkt auf starlink.com über den Empfehlungslink deutlich mehr als der Kauf bei MediaMarkt Saturn, OTTO, Cyberport, Euronics oder Amazon. Nur die offizielle Seite gewährt die Empfehlungsgutschrift nach zwei bezahlten Monatszyklen, bietet kostenlose Hardware-Miete an und bündelt Kit-Rückgabe sowie Kündigung in einem 30-Tage-Prozess."
+        ],
+        "links": [
+          {
+            "label": "Adresse auf starlink.com mit 45 € Empfehlung prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Was sich zwischen starlink.com und dem Handel wirklich unterscheidet",
+        "paragraphs": [
+          "Ein Kauf bei MediaMarkt Saturn, OTTO, Cyberport, Euronics, Alternate, Hornbach, Digitec Galaxus oder Tink wirkt bequem, verändert aber die Konditionen grundlegend. Bei unserer Prüfung für Berlin zeigte starlink.com in allen drei Tarifen für Privathaushalte 0 € Hardware-Miete bei 0 €/Monat und monatlicher Kündbarkeit ohne Gebühr: 100 Mbit/s für 17,50 €/Monat in den ersten 3 Monaten (danach 35 €) mit dem Mini-X-Kit sowie 200 Mbit/s (27,50 €, danach 55 €) und Max (37,50 €, danach 75 €) mit dem Standard-4-Kit bei jeweils 19 € Versand heute.",
+          "Im Einzelhandel kaufen Sie stattdessen die Hardware direkt zum Ladenpreis, ohne Zugang zur 0-€-Miete und ohne kostenlose Profi-Montage im Max-Tarif (0 € statt 172 € Option bei 100/200 Mbit/s). Außerdem wichtig: Amazon Deutschland steht nicht auf der offiziellen Händlerliste von Starlink für Deutschland.",
+          "Zur Einordnung des Bonus: Die 45 € Empfehlungsgutschrift senken niemals den Zahlbetrag am Bestelltag. Sie zahlen zunächst denselben Betrag wie regulär auf starlink.com; erst nachdem Ihr Abo zwei volle Monatszyklen aktiv und pünktlich bezahlt blieb, erscheinen 45 € als Rechnungsgutschrift (oder Auszahlung, sofern im Konto angeboten)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "alt": "Offizielle Bestellseite auf starlink.com für Berlin mit dem 100-Mbit/s-Tarif zu 17,50 €/Monat und 0 € Hardware-Miete",
+          "caption": "Berliner Bestellseite auf starlink.com: Die 0-€-Miete und die Aktionstarife gibt es nur bei direkter Online-Bestellung.",
+          "objectFit": "contain",
+          "aspectRatio": 0.5909
+        },
+        "comparisonTable": {
+          "caption": "Struktureller Vergleich anhand öffentlicher Bestellseiten und Hilfecenter-Regeln auf starlink.com (Stand 24. November 2026), ohne Fremdpreise.",
+          "headers": [
+            "Kriterium",
+            "starlink.com per Empfehlungslink",
+            "Autorisierter Händler",
+            "Drittanbieter / Marktplatz"
+          ],
+          "rows": [
+            [
+              "Empfehlungsgutschrift nach 2 bezahlten Zyklen",
+              "Ja: 45 € auf der Rechnung in Deutschland",
+              "Nein (Handelskäufe ausgeschlossen)",
+              "Nein"
+            ],
+            [
+              "Hardware-Miete für 0 € / Monat",
+              "Ja, an berechtigten Adressen in DE/AT",
+              "Nein: nur regulärer Hardware-Kauf",
+              "Nein"
+            ],
+            [
+              "Profi-Montage im Max-Tarif inklusive",
+              "Im Bestellablauf mit 0 € ausgewiesen",
+              "Nicht Teil des Händlerkartons",
+              "Nein"
+            ],
+            [
+              "30-Tage-Rückgabe und Kündigung",
+              "Ein Ablauf bei Starlink (Kit + 1. Monat)",
+              "Kit zurück an den Händler; Abo separat kündigen",
+              "Kürzere Fristen oder Streitfälle"
+            ],
+            [
+              "Risiko gesperrter oder nicht autorisierter Hardware",
+              "Null (neu Ihrem Auftrag zugewiesen)",
+              "Gering bei versiegelter Ware von Listenhändler",
+              "Hoch: nicht autorisierten Kits droht Sperrung"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Vergleichen Sie Zahlung am Bestelltag und Gutschrift danach",
+          "scenarios": [
+            {
+              "label": "starlink.com 100 Mbit/s + Link",
+              "lines": [
+                {
+                  "label": "Miete Mini-X-Kit (Berlin)",
+                  "value": "0 € heute (Rückgabe bei Kündigung)"
+                },
+                {
+                  "label": "Versand und Tarif (danach 35 €/Monat)",
+                  "value": "19 € heute; 17,50 €/Monat für 3 Monate"
+                },
+                {
+                  "label": "Empfehlungsgutschrift nach 2 Zyklen",
+                  "value": "-45 € auf der Rechnung",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Was Sie bei der Bestellung zahlen",
+              "totalValue": "19 € heute; nach 2 bezahlten Zyklen kommen 45 € als Rechnungsgutschrift",
+              "note": "Die 45 € werden nach zwei bezahlten Monatszyklen gutgeschrieben und kürzen den heutigen Versand nicht."
+            },
+            {
+              "label": "starlink.com 200 Mbit/s + Link",
+              "lines": [
+                {
+                  "label": "Miete Standard-4-Kit (Berlin)",
+                  "value": "0 € heute (Rückgabe bei Kündigung)"
+                },
+                {
+                  "label": "Versand und Tarif (danach 55 €/Monat)",
+                  "value": "19 € heute; 27,50 €/Monat für 3 Monate"
+                },
+                {
+                  "label": "Empfehlungsgutschrift nach 2 Zyklen",
+                  "value": "-45 € auf der Rechnung",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Was Sie bei der Bestellung zahlen",
+              "totalValue": "19 € heute; nach 2 bezahlten Zyklen kommen 45 € als Rechnungsgutschrift",
+              "note": "Verlängerung von Monat zu Monat mit gebührenfreier Kündigung; gemietetes Kit binnen 30 Tagen zurücksenden."
+            },
+            {
+              "label": "Autorisierter Händler oder Marktplatz",
+              "lines": [
+                {
+                  "label": "Hardware außerhalb von starlink.com",
+                  "value": "Voller Kaufpreis beim Händler"
+                },
+                {
+                  "label": "0-€-Miete der Website",
+                  "value": "Im Handel nicht verfügbar"
+                },
+                {
+                  "label": "Empfehlungsgutschrift bei Aktivierung",
+                  "value": "0 € (nachträglich ausgeschlossen)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Ergebnis außerhalb der Website",
+              "totalValue": "Voller Händlerpreis für das Kit + 0 € Empfehlungsgutschrift",
+              "note": "Die Hardware-Rückgabe richtet sich nach dem Händler; der Tarif wird separat bei Starlink gekündigt."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Warum der Empfehlungsbonus bei Händler-Kits nicht greift",
+        "paragraphs": [
+          "Wer eine Antenne im Fachhandel kauft, schließt sie an und öffnet starlink.com/activate oder die Starlink-App. Für diese Ersteinrichtung stellt Starlink 1 Stunde freien Internetzugang bereit, um das Konto anzulegen; läuft diese Stunde ab, braucht man für den Abschluss einen anderen Internetzugang.",
+          "Auf dieser Aktivierungsseite gibt es kein Feld für einen Empfehlungscode. Das Hilfecenter legt fest, dass Prämien ausschließlich für neue Anmeldungen direkt über einen Empfehlungslink auf starlink.com nach Zahlung des ersten Monats und Aktivierung vergeben werden. Käufe über Händler, Marktplätze oder Kontoübertragungen sind ausdrücklich ausgeschlossen und lassen sich nie nachtragen.",
+          "Auch bei der 30-Tage-Frist gibt es einen Unterschied: Auf starlink.com erhalten Sie nach Kündigung und unbeschädigter Rücksendung binnen 30 Tagen Hardware und ersten Monat gemäß Bestellbedingungen erstattet (bei 0-€-Miete muss die Rücksendung innerhalb von 30 Tagen nach Kündigung erfolgen, sonst droht Vollberechnung). Im Handel gilt für die Rückgabe des Kits die Händlerpolicy, während der Dienst separat bei Starlink gekündigt wird. Mehr dazu in unserer [Starlink-Empfehlungsübersicht](/de/coupons/starlink) und im [Empfehlungslink-Leitfaden](/de/reviews/starlink-empfehlungslink)."
+        ]
+      },
+      {
+        "heading": "Gebrauchte Kits, Transfersperre und nicht autorisierte Verkäufer",
+        "paragraphs": [
+          "Bei gebrauchten Antennen oder grauen Marktplatz-Angeboten greifen strenge technische Sperren. Laut Starlink lässt sich kein Dienst auf Hardware aktivieren, die noch einem anderen Konto zugewiesen ist.",
+          "Online gekaufte Kits dürfen erst 120 Tage nach dem Kauf oder 90 Tage nach der Aktivierung übertragen werden (je nachdem, was zuerst eintritt). Im Handel aktivierte Kits unterliegen einer Sperre von 90 Tagen ab Aktivierung bei aktivem Abo. Bei offenem Kontosaldo, innerhalb des 30-Tage-Rückgabefensters oder bei Miet-Hardware ist eine Übertragung vollständig gesperrt.",
+          "Schickt ein Verkäufer eine nicht freigegebene Antenne, bleibt sie nutzlos, bis der Vorbesitzer kündigt und das Gerät im Konto überträgt (oder der Support anhand der Starlink-ID hilft). Zudem warnt Starlink offiziell, dass Hardware aus nicht autorisierten Quellen nicht aktiviert werden kann, gegen die Bedingungen verstößt und zur sofortigen Dienstsperrung führen kann."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Einzelteile eines Starlink-Standard-Kits auf dunklem Hintergrund: Antenne, Ständer, Router und Kabel",
+          "caption": "Bestandteile des Starlink-Standard-Kits. Nicht freigegebene Gebrauchtware oder nicht autorisierte Kits bleiben gesperrt. Foto: Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Offizielle Händlerliste in Deutschland vs. Amazon und Marktplätze",
+        "paragraphs": [
+          "Wenn Sie das Gerät noch am selben Tag abholen oder Guthaben einlösen möchten, prüfen Sie zuerst das [offizielle Verzeichnis autorisierter Starlink-Händler](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105). Starlink weist ausdrücklich darauf hin, nur über den offiziellen Starlink-Shop beim jeweiligen Händler zu kaufen.",
+          "Für Deutschland führt die Liste diese Händler: MediaMarkt Saturn, OTTO, Cyberport, Euronics, Alternate, Hornbach, Digitec Galaxus, Tink und Computer Universe. Entscheidend beim Preisvergleich: **Amazon Deutschland steht nicht auf der offiziellen Händlerliste von Starlink**.",
+          "Prüfen Sie bei Marktplätzen also stets den konkreten Verkäufer statt nur den Plattformnamen. Hinweise zu echten Kanälen bietet auch unser Ratgeber [Ist Starlink seriös? Offizielle Seite und Fälschungen](/de/reviews/ist-starlink-serioes)."
+        ],
+        "checklist": {
+          "title": "Fünf Checks vor der Zahlung Ihres Kits",
+          "items": [
+            "Ich habe meine Adresse über den Empfehlungslink auf starlink.com geprüft, um 0-€-Miete und Aktionspreise mit dem Handel zu vergleichen.",
+            "Ich habe in der Bestellübersicht bestätigt, dass der Hinweis auf die angewendete Empfehlung erscheint.",
+            "Beim Kauf im Handel habe ich einen gelisteten deutschen Fachhändler (etwa MediaMarkt Saturn, OTTO, Cyberport oder Euronics) gewählt.",
+            "Ich habe Drittangebote auf Amazon Deutschland sowie gebrauchte Kits ohne 90-/120-Tage-Freigabe gemieden.",
+            "Ich habe vor dem Abschluss einen Screenshot von Monatspreis und 30-Tage-Rückgaberegel gesichert."
+          ]
+        },
+        "links": [
+          {
+            "label": "Bestellung auf starlink.com mit 45 € Empfehlung öffnen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Offizielle Bestellseite auf starlink.com mit dem grünen Hinweis Referral Code Applied",
+          "caption": "Grüne Bestätigung für die angewendete Empfehlung auf starlink.com (Referenzansicht); erscheint nur auf der offiziellen Website.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "Fazit: Wann sich welcher Kaufweg lohnt",
+        "paragraphs": [
+          "Für Neukunden in Deutschland ist die Bestellung auf starlink.com über den Empfehlungslink die klar beste Wahl: Sie sichert 45 € Rechnungsgutschrift nach zwei bezahlten Zyklen, schaltet die 0-€-Hardware-Miete frei und hält die 30-Tage-Rückgabe sowie Kündigung an einer Stelle.",
+          "Der Weg über MediaMarkt Saturn, OTTO, Cyberport, Euronics, Alternate, Hornbach, Digitec Galaxus oder Tink lohnt sich nur, wenn Sie sofortige Abholung brauchen, Händlerguthaben einsetzen oder die Hardware bewusst kaufen statt mieten möchten — bei Verzicht auf die 45 € Empfehlung."
+        ],
+        "emphasis": "Direkt auf starlink.com mit Empfehlungslink erhalten Sie 0-€-Hardware-Miete, 45 € Gutschrift nach zwei bezahlten Zyklen und einen einheitlichen 30-Tage-Ablauf; Amazon Deutschland fehlt auf der offiziellen Händlerliste."
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Gilt der Starlink-Empfehlungslink auch bei MediaMarkt Saturn, OTTO oder Cyberport? Nein. Die 45 € Gutschrift setzt voraus, dass die erste Bestellung direkt auf starlink.com über den Empfehlungslink gestartet wird; Händlerkäufe lassen sich nicht nachtragen.",
+          "Steht Amazon Deutschland auf der offiziellen Starlink-Händlerliste? Nein. Auf der geprüften Liste für Deutschland stehen MediaMarkt Saturn, OTTO, Cyberport, Euronics, Alternate, Hornbach, Digitec Galaxus, Tink und Computer Universe — Amazon Deutschland ist dort nicht aufgeführt.",
+          "Ziehen die 45 € sofort etwas vom Bestellbetrag ab? Nein. Sie zahlen am Bestelltag den regulären Betrag auf starlink.com, und die 45 € erscheinen als Gutschrift auf der Rechnung nach zwei bezahlten Monatszyklen.",
+          "Wie unterscheidet sich die 30-Tage-Rückgabe zwischen Website und Händler? Auf starlink.com senden Sie das unbeschädigte Kit nach Kündigung binnen 30 Tagen zurück und erhalten Erstattung gemäß Bestellbedingungen. Beim Händler gilt dessen Rückgaberecht für das Gerät, während der Tarif getrennt bei Starlink gekündigt wird.",
+          "Darf ich ein gebrauchtes Starlink-Kit über Kleinanzeigen kaufen? Nur wenn der Vorbesitzer keine offenen Rechnungen hat, die 90-Tage-Sperre ab Händleraktivierung beziehungsweise 120 Tage ab Online-Kauf abgelaufen sind und das Gerät im Konto freigegeben wurde."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Erstellt auf Basis des offiziellen Starlink-Hilfecenters, der autorisierten Händlerliste und öffentlicher Bestellseiten. Wir nehmen am Starlink-Empfehlungsprogramm teil und können dieselbe Gutschrift erhalten, wenn Sie erstmals über unseren Link buchen und zwei Zyklen bezahlen.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-empfehlungslink"
+      },
+      {
+        "slug": "ist-starlink-serioes"
+      },
+      {
+        "slug": "starlink-mini-oder-standard-vergleich"
+      },
+      {
+        "slug": "starlink-tarife-100-200-mbits-oder-max"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie als Neukunde kostenlose Hardware-Miete und die Rechnungsgutschrift nach zwei bezahlten Zyklen auf starlink.com nutzen möchten.",
+        "Sie Bestellung, Aktivierung und mögliche 30-Tage-Rückgabe direkt über einen einzigen Starlink-Kontakt abwickeln wollen."
+      ],
+      "skipIf": [
+        "Sie das Kit heute sofort bei einem gelisteten deutschen Händler abholen müssen und bewusst auf die Empfehlungsgutschrift verzichten.",
+        "ein Angebot von nicht gelisteten Drittanbietern stammt oder gebrauchte Hardware noch nicht im Vorbesitzerkonto freigegeben wurde."
+      ]
+    },
+    "cta": {
+      "text": "Prüfen Sie 0-€-Miete, Tarifpreise und Verfügbarkeit für Ihre Adresse direkt auf starlink.com über den Empfehlungslink mit 30-Tage-Rückgabe und 45 € Gutschrift nach zwei Zyklen.",
+      "label": "Adresse auf starlink.com prüfen",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1414,
+    "slug": "comprare-starlink-sito-ufficiale-o-negozi",
+    "translationKey": "starlink-onde-comprar",
+    "locale": "it",
+    "title": "Comprare Starlink sul sito ufficiale o da Media World, Unieuro, Euronics e Amazon?",
+    "seoTitle": "Starlink: sito ufficiale o Media World, Unieuro e Amazon",
+    "type": "Guida all'acquisto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redazione e analisi",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redazione e analisi",
+        "initials": "BL"
+      }
+    ],
+    "description": "Confronto tra starlink.com con link d'invito e Media World, Unieuro, DIMO Euronics, Comet o Amazon: credito di 45 €, noleggio a 0 € e rischi sui kit usati.",
+    "metaDescription": "Starlink su starlink.com o da Media World, Unieuro, Euronics e Amazon? Scopri credito da 45 €, noleggio a 0 € e lista ufficiale dei rivenditori.",
+    "publishedAt": "24 novembre 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/comprare-starlink-sito-ufficiale-o-negozi-capa.webp",
+    "imageAlt": "Antenna e componenti del kit Starlink su sfondo scuro con il confronto tra sito ufficiale e rivenditori autorizzati.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Per la maggior parte dei nuovi clienti in Italia, ordinare su starlink.com con il link d'invito conviene più che comprare da Media World, Unieuro, DIMO Euronics, Comet o Amazon. Solo il sito ufficiale sblocca il credito in fattura dopo due cicli pagati, offre il noleggio gratuito del kit e gestisce reso e disdetta in 30 giorni."
+        ],
+        "links": [
+          {
+            "label": "Verifica il tuo indirizzo su starlink.com con 45 € di credito",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Cosa cambia davvero tra starlink.com e i negozi",
+        "paragraphs": [
+          "Comprare la scatola da Media World, Unieuro, DIMO Euronics o Comet può sembrare più immediato, ma le condizioni commerciali cambiano radicalmente rispetto a starlink.com. Nella nostra verifica su Milano, il sito ufficiale mostrava hardware a noleggio a 0 € e 0 €/mese su tutti e tre i piani residenziali senza vincolo contrattuale: 100 Mbps a 17,50 €/mese per 3 mesi (poi 35 €) con Mini X, 200 Mbps a 22,50 €/mese (poi 45 €) e Max a 32,50 €/mese (poi 65 €) con Standard 4, pagando solo 19 € di spedizione oggi.",
+          "In negozio invece acquisti il kit a prezzo intero senza accedere al noleggio a 0 € né all'installazione professionale inclusa a 0 € nel piano Max (anziché 172 € opzionali su 100 e 200 Mbps). Un dettaglio decisivo: Amazon Italia non risulta nell'elenco ufficiale dei rivenditori autorizzati Starlink.",
+          "Attenzione al funzionamento del bonus: i 45 € di credito d'invito non scontano il totale del carrello al momento del pagamento. Paghi l'importo mostrato su starlink.com e, dopo due cicli mensili completi attivi e pagati in regola, i 45 € arrivano come credito in fattura (o in denaro dove l'account lo prevede)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "alt": "Schermata ufficiale di starlink.com per Milano con Residenziale 100 Mbps a 17,50 €/mese e kit a noleggio a 0 €",
+          "caption": "Schermata di Milano su starlink.com: il noleggio a 0 € e le offerte promozionali per indirizzo sono disponibili solo sul sito ufficiale.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6065
+        },
+        "comparisonTable": {
+          "caption": "Confronto strutturale basato sulle pagine pubbliche e sul centro assistenza starlink.com consultati il 24 novembre 2026, senza prezzi di terzi.",
+          "headers": [
+            "Criterio",
+            "starlink.com con link d'invito",
+            "Rivenditore autorizzato",
+            "Venditore terzo / non autorizzato"
+          ],
+          "rows": [
+            [
+              "Credito d'invito dopo 2 cicli pagati",
+              "Sì: 45 € in fattura in Italia",
+              "No (ordini fuori dal sito esclusi)",
+              "No"
+            ],
+            [
+              "Noleggio hardware a 0 € / mese",
+              "Sì, sugli indirizzi italiani idonei",
+              "No: solo acquisto completo del kit",
+              "No"
+            ],
+            [
+              "Installazione professionale inclusa su Max",
+              "Mostrata a 0 € nel riepilogo ordine",
+              "Non inclusa nella confezione in negozio",
+              "No"
+            ],
+            [
+              "Finestra di reso di 30 giorni",
+              "Gestione unica con Starlink (kit + 1° mese)",
+              "Reso hardware al negozio; servizio disdetto a parte",
+              "Finestre ridotte o contestazioni"
+            ],
+            [
+              "Rischio di kit bloccato o non autorizzato",
+              "Zero (assegnato nuovo al tuo ordine)",
+              "Basso se sigillato da catena ufficiale",
+              "Alto: i kit non autorizzati rischiano la sospensione"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Confronta cosa paghi oggi e cosa torna dopo",
+          "scenarios": [
+            {
+              "label": "starlink.com 100 Mbps + link",
+              "lines": [
+                {
+                  "label": "Noleggio kit Mini X (Milano)",
+                  "value": "0 € oggi (da restituire in caso di disdetta)"
+                },
+                {
+                  "label": "Spedizione e piano (poi 35 €/mese)",
+                  "value": "19 € oggi; 17,50 €/mese per 3 mesi"
+                },
+                {
+                  "label": "Credito d'invito dopo 2 cicli pagati",
+                  "value": "-45 € in fattura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Cosa paghi al momento dell'ordine",
+              "totalValue": "19 € oggi; dopo 2 cicli pagati tornano 45 € come credito in fattura",
+              "note": "Il credito arriva dopo due cicli mensili pagati regolarmente; non riduce la spedizione odierna."
+            },
+            {
+              "label": "starlink.com 200 Mbps + link",
+              "lines": [
+                {
+                  "label": "Noleggio kit Standard 4 (Milano)",
+                  "value": "0 € oggi (da restituire in caso di disdetta)"
+                },
+                {
+                  "label": "Spedizione e piano (poi 45 €/mese)",
+                  "value": "19 € oggi; 22,50 €/mese per 3 mesi"
+                },
+                {
+                  "label": "Credito d'invito dopo 2 cicli pagati",
+                  "value": "-45 € in fattura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Cosa paghi al momento dell'ordine",
+              "totalValue": "19 € oggi; dopo 2 cicli pagati tornano 45 € come credito in fattura",
+              "note": "Nessun vincolo contrattuale; il kit a noleggio va restituito entro 30 giorni dalla disdetta."
+            },
+            {
+              "label": "Rivenditore autorizzato o marketplace",
+              "lines": [
+                {
+                  "label": "Hardware fuori da starlink.com",
+                  "value": "Acquisto a prezzo pieno in negozio"
+                },
+                {
+                  "label": "Noleggio a 0 € del sito",
+                  "value": "Non disponibile nei negozi"
+                },
+                {
+                  "label": "Credito d'invito all'attivazione",
+                  "value": "0 € (non aggiungibile in seguito)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Esito fuori dal sito ufficiale",
+              "totalValue": "Prezzo pieno del kit in negozio + 0 € di credito d'invito",
+              "note": "Il reso dell'antenna segue le regole del negozio mentre la disdetta va richiesta a Starlink."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Perché il codice d'invito non vale dopo l'acquisto in negozio",
+        "paragraphs": [
+          "Quando compri un kit sigillato da un rivenditore e avvii la configurazione su starlink.com/activate (o nell'app), Starlink offre 1 ora di accesso iniziale per completare la registrazione. Se l'ora scade prima di concludere, serve un'altra connessione internet per terminare l'attivazione.",
+          "In quella schermata non esiste alcun campo per inserire un link o codice d'invito. Le regole del centro assistenza stabiliscono che i premi vengono emessi solo per nuovi abbonamenti iniziati su starlink.com tramite il link d'invito, pagando il primo mese e attivando il kit. Gli acquisti da negozi, rivenditori, marketplace o i trasferimenti di account sono esclusi e non possono essere collegati a posteriori.",
+          "Cambia anche la gestione dei 30 giorni. Su starlink.com, disdire e restituire l'hardware integro entro 30 giorni rimborsa il kit e il primo mese secondo i termini dell'ordine (e i kit a noleggio a 0 € vanno sempre restituiti entro 30 giorni dalla disdetta per evitare l'addebito dell'intero prezzo). In negozio invece restituisci l'antenna direttamente al rivenditore e disdici l'abbonamento a parte su Starlink. Consulta la nostra [pagina invito Starlink](/it/coupons/starlink) e la [guida passo passo al link d'invito](/it/reviews/starlink-link-invito)."
+        ]
+      },
+      {
+        "heading": "Kit usati, blocco del trasferimento e venditori non autorizzati",
+        "paragraphs": [
+          "Comprare una parabola usata o da un inserzionista occasionale espone a blocchi tecnici rigidi. Starlink specifica che il servizio non viene attivato su apparecchi ancora assegnati a un altro account.",
+          "Un kit acquistato online può essere trasferito dal precedente titolare solo dopo 120 giorni dall'acquisto oppure 90 giorni dall'attivazione (la prima scadenza raggiunta). Un kit attivato da negozio resta bloccato al trasferimento per 90 giorni dalla data di attivazione mantenendo il servizio attivo. È inoltre vietato trasferire con saldo insoluto, durante i 30 giorni di reso o su linee con hardware a noleggio.",
+          "Se ricevi un kit mai scollegato dall'account precedente, resta inutilizzabile finché l'ex proprietario non disdice e rimuove il dispositivo dall'account (o finché il supporto non interviene con l'identificativo Starlink). Inoltre, l'avviso ufficiale sottolinea che i dispositivi comprati da negozi non autorizzati non possono essere attivati, violano i termini e possono causare la sospensione immediata del servizio."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Componenti di un kit Starlink Standard su sfondo scuro: antenna, base, router e cavi",
+          "caption": "Componenti del kit Starlink Standard. Un kit usato non liberato o non autorizzato resta bloccato all'attivazione. Foto di Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Elenco ufficiale dei rivenditori autorizzati in Italia e caso Amazon",
+        "paragraphs": [
+          "Se hai bisogno del ritiro immediato in giornata o vuoi usare un buono negozio, verifica prima l'[elenco ufficiale dei rivenditori autorizzati Starlink](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105). La pagina raccomanda di acquistare solo tramite il negozio Starlink ufficiale del rivenditore.",
+          "In Italia risultano autorizzati Media World, Unieuro, DIMO Euronics e Comet S.P.A., insieme ai gruppi regionali Bruno S.P.A., Butali S.P.A., Ires S.P.A., La Via Lattea S.P.A., Nova S.P.A., Rimep S.P.A., Siem S.P.A. e Tufano S.P.A. Un dato fondamentale da tenere presente: **Amazon Italia non compare nell'elenco ufficiale italiano**.",
+          "Diffida quindi delle inserzioni di venditori generici sui marketplace non elencati. Per verificare sempre l'affidabilità di siti e profili, leggi anche [Starlink è affidabile? Come controllare chi vende](/it/reviews/starlink-e-affidabile)."
+        ],
+        "checklist": {
+          "title": "Cinque controlli prima di pagare il tuo kit",
+          "items": [
+            "Ho inserito il mio indirizzo su starlink.com dal link d'invito per confrontare noleggio a 0 € e prezzi prima di andare in negozio.",
+            "Ho verificato che sullo schermo di riepilogo compaia la conferma verde del link d'invito applicato.",
+            "Se compro in negozio, ho scelto una catena nell'elenco ufficiale italiano (Media World, Unieuro, DIMO Euronics o Comet).",
+            "Ho evitato annunci terzi su Amazon Italia o kit usati privi di prova di rimozione dopo i 90 o 120 giorni.",
+            "Ho salvato uno screenshot del canone mensile e delle condizioni di reso entro 30 giorni."
+          ]
+        },
+        "links": [
+          {
+            "label": "Apri l'ordine ufficiale su starlink.com con 45 € di credito",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Schermata d'ordine su starlink.com con l'avviso verde Referral Code Applied per il credito d'invito",
+          "caption": "Avviso verde di conferma dell'invito su starlink.com (schermata di riferimento); compare solo negli ordini sul sito ufficiale.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "Verdetto: dove conviene comprare in ogni caso",
+        "paragraphs": [
+          "Per chi attiva Starlink per la prima volta in Italia, ordinare su starlink.com tramite il link d'invito è la scelta più conveniente e lineare: assicura i 45 € di credito in fattura dopo due cicli pagati, abilita il noleggio a 0 € su tutti i piani residenziali e riunisce reso e disdetta entro 30 giorni con un solo supporto.",
+          "Scegliere Media World, Unieuro, DIMO Euronics o Comet ha senso solo se ti serve il ritiro fisico immediato, se spendi un buono regalo del negozio o se preferisci acquistare il kit in proprietà rinunciando ai 45 € dell'invito."
+        ],
+        "emphasis": "Ordinare su starlink.com dal link d'invito unisce il noleggio a 0 € in Italia, 45 € di credito dopo due cicli pagati e il reso unificato in 30 giorni; Amazon Italia non compare nell'elenco ufficiale dei rivenditori autorizzati."
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Il link d'invito Starlink funziona se compro da Media World o Unieuro? No. Il credito di 45 € spetta solo ai nuovi clienti che avviano l'ordine su starlink.com tramite un link d'invito; gli acquisti in negozio o su marketplace non si possono aggiungere all'attivazione.",
+          "Amazon Italia è nell'elenco ufficiale dei rivenditori Starlink? No. Nell'elenco ufficiale per l'Italia figurano Media World, Unieuro, DIMO Euronics, Comet e altri gruppi elettrodomestici autorizzati, mentre Amazon Italia non è elencato.",
+          "I 45 € dell'invito abbassano subito il prezzo del kit? No. Al momento dell'ordine paghi l'importo mostrato su starlink.com e i 45 € vengono accreditati in fattura dopo due cicli mensili completi pagati in regola.",
+          "Come cambia la regola dei 30 giorni tra sito ufficiale e negozio? Su starlink.com disdici e restituisci il kit integro entro 30 giorni per ottenere il rimborso previsto dall'ordine. In negozio il reso hardware segue la politica del punto vendita e la disdetta dell'abbonamento va fatta a parte su Starlink.",
+          "Posso attivare una Starlink usata comprata online? Solo se il venditore precedente ha saldato ogni importo dovuto, superato i 90 giorni dall'attivazione in negozio o 120 giorni dall'acquisto online e rimosso il dispositivo dal proprio account."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Realizzato consultando il centro assistenza ufficiale Starlink, l'elenco dei rivenditori autorizzati e le schermate pubbliche d'ordine. Partecipiamo al programma d'invito Starlink e possiamo ricevere lo stesso credito se sottoscrivi il tuo primo piano tramite il nostro link completando due cicli mensili.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-link-invito"
+      },
+      {
+        "slug": "starlink-e-affidabile"
+      },
+      {
+        "slug": "starlink-mini-o-standard-quale-scegliere"
+      },
+      {
+        "slug": "piani-starlink-100-200-mbps-o-max"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "sei un nuovo cliente e vuoi accedere al noleggio gratuito dell'hardware e al credito d'invito dopo due cicli pagati su starlink.com.",
+        "preferisci gestire spedizione, attivazione e l'eventuale reso in 30 giorni direttamente con Starlink."
+      ],
+      "skipIf": [
+        "ti serve il ritiro immediato oggi stesso da un rivenditore ufficiale italiano e accetti di rinunciare al credito d'invito.",
+        "l'inserzione proviene da venditori non elencati o da un kit usato privo di trasferimento sbloccato."
+      ]
+    },
+    "cta": {
+      "text": "Controlla noleggio a 0 €, prezzi e copertura al tuo indirizzo su starlink.com dal nostro link d'invito, con 30 giorni di prova e 45 € di credito dopo due cicli pagati.",
+      "label": "Verifica il tuo indirizzo su starlink.com",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1415,
+    "slug": "starlink-buy-official-or-retail-ja",
+    "translationKey": "starlink-onde-comprar",
+    "locale": "ja",
+    "title": "Starlinkは公式サイトと量販店（コストコ・ビックカメラ・ヤマダデンキ）・Amazon.co.jpや楽天市場のどこで買うべき？",
+    "seoTitle": "Starlinkは公式サイト・量販店・Amazon・楽天のどこで買う？",
+    "type": "購入ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編集・分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "starlink.comの紹介リンク経由と、日本の正規販売店（コストコ・ビックカメラ・ヤマダデンキ・KDDI）やAmazon.co.jp・楽天市場での購入の違いを比較。Miniレンタル0円、7,000円特典、30日返却ルールをまとめました。",
+    "metaDescription": "Starlinkは公式サイトとコストコ・ビックカメラ・Amazon.co.jp・楽天市場のどこがお得？7,000円特典とMiniレンタル0円はstarlink.com限定。",
+    "publishedAt": "2026年11月24日",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-buy-official-or-retail-ja-capa.webp",
+    "imageAlt": "Starlink公式サイトと家電量販店・通販での購入比較をテーマにした表紙画像。Starlinkのロゴと標準キットが並んでいる。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイック回答",
+        "paragraphs": [
+          "初めてStarlinkを契約するなら、量販店や通販サイトより、紹介リンク経由でstarlink.comから直接注文するほうが有利です。日本の公式正規販売店リストに掲載されているのはコストコ、ビックカメラ、ヤマダデンキ、KDDIのみで、Amazon.co.jpや楽天市場は公式リストに載っていません。東京の住所で確認したMiniレンタル0円と、請求サイクル2回完了後の7,000円特典が受け取れるのはstarlink.comだけで、注文条件に沿った30日返却も1か所で完結します。"
+        ],
+        "links": [
+          {
+            "label": "紹介リンクからstarlink.comの注文画面を確認する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "starlink.comと日本の量販店・通販サイトで本当に変わること",
+        "paragraphs": [
+          "starlink.comの公開注文画面（東京駅周辺）と公式正規販売店リストを確認しました（購入は完了していません）。販売店では端末を買い切る前提になりますが、starlink.comでは東京のホームプランでMiniレンタル（初期費用0円・月額0円）が表示され、さらに新規契約なら紹介リンク経由で請求サイクル2回分の支払い後に7,000円のクレジット（または対象アカウントでは現金）が付与されます。",
+          "量販店やモール側での価格やポイント還元は店舗ごとに変わるため本記事では扱いません。以下はStarlinkの公式注文画面と公式ヘルプセンターで確認できた仕組みそのものの比較です。実際の内容はご自身の住所を入力した注文画面でご確認ください。"
+        ],
+        "comparisonTable": {
+          "caption": "2026年11月23日〜24日に確認したstarlink.comの注文画面（東京）と公式正規販売店リスト（8a90222d）に基づく仕組みの比較。外部販売店の販売価格は掲載していません。",
+          "headers": [
+            "比較項目",
+            "starlink.com（紹介リンク経由）",
+            "日本の正規販売店（コストコ・ビックカメラ等）",
+            "公式リスト外のEC・個人出品"
+          ],
+          "rows": [
+            [
+              "紹介特典（日本では7,000円）",
+              "対象（請求サイクル2回完了後にクレジット付与）",
+              "対象外（開通画面で後から追加不可）",
+              "対象外"
+            ],
+            [
+              "機器の入手方法（レンタル0円 vs 買い切り）",
+              "東京ホームプランではMiniレンタル0円（解約時は返却）",
+              "機器の買い切り購入のみ（レンタル0円なし）",
+              "買い切りまたは中古・転売品"
+            ],
+            [
+              "30日返品・返金の手続き",
+              "Starlinkの注文条件に沿って解約と機器返却を直接手続き",
+              "機器の返品は販売店窓口、契約解約はStarlinkで別手続き",
+              "出品者の規約次第（保証対象外のリスク）"
+            ],
+            [
+              "別アカウント紐付け・中古ロックのリスク",
+              "なし（自分の注文で新規出荷）",
+              "未開封新品なら低い",
+              "高い（前所有者が未解除だと開通不可）"
+            ],
+            [
+              "公式サポート上の有効化保証",
+              "あり（公式直接注文）",
+              "正規販売店の公式Starlinkストア購入なら対象",
+              "非正規販売店の機器は有効化不可・停止の恐れ"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "購入ルート別の条件試算（東京・ホームプラン例）",
+          "scenarios": [
+            {
+              "label": "starlink.com（紹介リンク経由・キャンペーン割引中）",
+              "lines": [
+                {
+                  "label": "Miniレンタル＋小型ルーター（解約時は返却）",
+                  "value": "初期費用 0円・月額 0円"
+                },
+                {
+                  "label": "ホーム月額（11月30日まで50%オフ／配送料3,000円）",
+                  "value": "3,550円/月（通常7,100円）"
+                },
+                {
+                  "label": "請求サイクル2回完了後の紹介特典",
+                  "value": "7,000円クレジットが請求に反映",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "注文当日の支払い（東京例・配送費のみ）",
+              "totalValue": "3,000円",
+              "note": "特典は注文当日の機器代を引くものではなく、2か月分の支払い完了後に請求クレジットとして入ります。住所ごとに実際の金額を確認してください。"
+            },
+            {
+              "label": "starlink.com（紹介リンク経由・通常価格時）",
+              "lines": [
+                {
+                  "label": "Miniレンタル＋小型ルーター（解約時は返却）",
+                  "value": "初期費用 0円・月額 0円"
+                },
+                {
+                  "label": "ホーム月額（通常価格目安／配送料3,000円）",
+                  "value": "7,100円/月"
+                },
+                {
+                  "label": "請求サイクル2回完了後の紹介特典",
+                  "value": "7,000円クレジットが請求に反映",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "注文当日の支払い（東京例・配送費のみ）",
+              "totalValue": "3,000円",
+              "note": "通常料金になっても紹介特典7,000円はおよそ月額1か月分に相当します。30日以内に条件どおり解約・無損傷返却すれば機器・初月料金の返金対象になります。"
+            },
+            {
+              "label": "日本の正規販売店・通販サイトでのキット購入",
+              "lines": [
+                {
+                  "label": "ハードウェア入手条件",
+                  "value": "販売店での機器購入（Miniレンタル0円なし）"
+                },
+                {
+                  "label": "紹介特典（7,000円）",
+                  "value": "0円（注文後の後付け不可）",
+                  "highlight": true
+                },
+                {
+                  "label": "返品と解約の窓口",
+                  "value": "機器は販売店、契約解約はStarlinkへ別申請"
+                }
+              ],
+              "totalLabel": "受け取れる公式紹介特典",
+              "totalValue": "0円",
+              "note": "販売店やECで買った機器を後から紹介プログラムに紐付けることはできません。"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "alt": "東京の住所で開いたstarlink.comの公式注文画面。ホームプラン月額JP¥3,550、MiniレンタルJP¥0が表示されている",
+          "caption": "東京の住所で確認したstarlink.comの画面。Miniレンタル0円は公式サイト側の注文画面に表示されます。",
+          "objectFit": "contain",
+          "aspectRatio": 0.694
+        }
+      },
+      {
+        "heading": "量販店や通販で買ったキットに紹介特典を後から付けられない理由",
+        "paragraphs": [
+          "正規販売店でキットを購入した場合、箱を開けて電源を入れると、アプリまたはstarlink.com/activateからアカウント登録・有効化を行うための初期アクセスが1時間だけ付与されます。しかしこの有効化画面には、紹介コードや紹介リンクを入力する欄が存在しません。",
+          "Starlinkの紹介プログラムは、新規利用者が紹介リンクを踏んでstarlink.com上で最初の注文を開始したケースのみを対象としています。販売店やマーケットプレイスでの購入、および他者からのアカウント譲渡はすべて対象外で、購入後にサポートへ連絡しても7,000円特典を追加することはできません。仕組みの詳細は[Starlink紹介リンクの正しい使い方ガイド](/ja/reviews/starlink-referral-ja)や[Starlink紹介・特典ページ](/ja/coupons/starlink)でも確認できます。"
+        ]
+      },
+      {
+        "heading": "非正規EC・中古キットの落とし穴：譲渡ロック（120日／90日）と利用停止リスク",
+        "paragraphs": [
+          "Amazon.co.jpや楽天市場、フリマアプリなどで出品されているキットを検討する場合、価格差以上に注意すべきなのが所有権と有効化のルールです。Starlinkの公式ヘルプセンターでは、非正規販売店から購入したハードウェアは有効化できず、ただちにサービスが停止される場合があると明記されています。",
+          "さらに中古や転売品には厳格な譲渡制限（Transferロック）があります。starlink.comのオンライン購入品は「購入から120日または有効化から90日のどちらか早い方」が経過するまで譲渡できず、販売店購入品も「有効化から90日」が経過するまで譲渡できません。未払い残高がある場合や、契約後30日以内の返品ウィンドウ期間中も譲渡不可です。前の所有者がアカウントから機器の紐付けを解除していない状態では、買い手側で一切有効化できないため注意してください。",
+          "返品の窓口も異なります。starlink.comでの注文は、注文ページの条件に沿って30日以内にサービスを解約し、機器を損傷なく返却することで機器代および初月料金の返金対象になります（東京などのレンタル機器は解約時に返却が必要）。一方、販売店で買った場合は、機器の返品は販売店へ直接依頼し、月額サービスの解約はStarlink側で別途手続きする必要があります。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink標準キットのアンテナ、ルーター、ベース、ケーブル一式の公式写真",
+          "caption": "Starlinkキット一式。中古や非正規ルート品では前アカウントとの紐付け未解除や有効化ロックに注意が必要です。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "日本の公式正規販売店リスト（8a90222d）と量販店で買うべきケース",
+        "paragraphs": [
+          "旅行前や緊急時などで当日中に店頭で受け取りたい場合や、特定店舗のギフトカード・ポイントをどうしても使いたい場合は、必ず[Starlink公式正規販売店リスト](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105)で登録されている販売元かを確認してください。日本向けとしてリストに明記されている正規販売店は「コストコ（Costco）」「ビックカメラ（BIC Camera）」「ヤマダデンキ（Yamada Denki）」「KDDI」の4社のみです。",
+          "裏を返せば、Amazon.co.jpや楽天市場はこの公式リストに掲載されていません。ECモール経由で探す場合も、出品者名義が公式リスト上の正規販売店またはStarlink公式ストアであるかを必ず確かめる必要があります。公式サイトの見分け方や詐欺対策は[Starlinkは信頼できる？公式サイト確認ガイド](/ja/reviews/starlink-trust-ja)も参考にしてください。"
+        ],
+        "checklist": {
+          "title": "購入方法を決める前の5つのチェック",
+          "items": [
+            "店頭やECを見る前に、紹介リンクからstarlink.comを開き、自宅の住所でMiniレンタル0円やキャンペーンが出るか確認した。",
+            "配送日数と利用開始予定日を比べ、急ぎでなければ7,000円特典の対象になる公式サイト注文を優先できるか確認した。",
+            "量販店で買う場合は、日本の公式リスト（コストコ・ビックカメラ・ヤマダデンキ・KDDI）に掲載された正規販売元であることを確認した。",
+            "中古・フリマ品ではないこと（前所有者の解除漏れや90日・120日譲渡制限に引っかからない未開封新品であること）を確認した。",
+            "starlink.comで注文する場合、決済前に画面上で紹介コード適用表示と30日返品・解約条件をスクリーンショットで保存した。"
+          ]
+        },
+        "links": [
+          {
+            "label": "紹介特典付きでstarlink.comの公式注文画面へ進む",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "starlink.comの注文画面に表示される紹介コード適用確認表示の例（米国ネバダの画面）",
+          "caption": "starlink.comの注文画面に表示される紹介適用の確認メッセージ例（米国表示）。この表示が支払い前に出るのは公式サイトだけです。",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "結論：どこで買うのが最も確実でお得か",
+        "paragraphs": [
+          "日本から新規で始める大多数の方には、紹介リンク経由のstarlink.comが圧倒的に合理的です。Amazon.co.jpや楽天市場は日本の公式販売店リストに含まれておらず、コストコ・ビックカメラ・ヤマダデンキ・KDDIの正規販売店でもMiniレンタル0円や紹介特典7,000円は付きません。今日すぐに店頭で持ち帰る必要がある場合のみ公式リスト内の正規販売店を選び、それ以外は注文画面の条件と30日返却ルールを確認したうえで公式サイトから申し込むのが安全です。"
+        ],
+        "emphasis": "日本ではコストコ・ビックカメラ・ヤマダデンキ・KDDIのみが公式正規販売店リストに掲載されており、Amazon.co.jpや楽天市場は含まれません。Miniレンタル0円と請求2回完了後の7,000円特典の両方を受け取れるのは、紹介リンクからstarlink.comで直接注文した場合だけです。",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Amazon.co.jpや楽天市場のStarlinkは公式正規販売店ですか？いいえ。最新のStarlink公式正規販売店リストで、日本向けとして掲載されているのはコストコ、ビックカメラ、ヤマダデンキ、KDDIの4社のみで、Amazon.co.jpや楽天市場は掲載されていません。非正規販売店から購入した機器は有効化できない場合があります。",
+          "ビックカメラやコストコで買ったあとに紹介リンクの7,000円特典を使えますか？いいえ。紹介プログラムの対象は、紹介リンクからstarlink.comで直接行った新規注文だけです。量販店や通販サイトで購入したキットをアプリで有効化しても、紹介特典を追加することはできません。",
+          "日本の公式サイトで契約すると端末はレンタルですか？東京の住所で確認したホームプランでは、Miniレンタルと小型ルーターが初期費用0円・月額0円で提供されていました（解約時は機器の返却が必要）。条件は住所や時期で変わるため、注文画面でご確認ください。",
+          "中古やフリマアプリで買ったStarlinkはすぐ使えますか？注意が必要です。オンライン購入品は購入後120日または有効化後90日、販売店購入品は有効化後90日を経過し、さらに元の所有者がアカウントから紐付けを解除していない限り新しいアカウントで有効化できません。",
+          "公式サイトで買って自宅で使えなかった場合、返金されますか？starlink.comの注文条件に沿って、30日以内にサービスを解約し機器を損傷なく返却すれば、キット代（該当する場合）と初月料金の返金対象になります。量販店購入品は機器の返品を販売店へ、解約をStarlinkへ別々に手続きします。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "日本公式ではMiniレンタル0円と請求2回後の7,000円特典が受け取れるのはstarlink.comの紹介リンク経由のみ。まずはご自身の住所で注文画面を確認しましょう。",
+      "label": "紹介リンク付きでstarlink.comを確認する",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "starlink.comの公開注文画面、公式正規販売店リスト（8a90222d）、および公式ヘルプセンターを確認して作成しました（実際の決済は行っていません）。当サイトはStarlink紹介プログラムに参加しており、リンク経由で条件を満たす新規登録があった場合、紹介報酬を受け取ることがあります。",
+    "decision": {
+      "takeIf": [
+        "配送を待てるため、紹介リンクからstarlink.comで直接注文して正規出荷・7,000円特典・30日返却条件をまとめたい。",
+        "旅行前などの緊急で当日受け取りが必要で、日本の公式リストにあるコストコやビックカメラ等の正規店舗で新品を買いたい。"
+      ],
+      "skipIf": [
+        "公式正規販売店リストに載っていないショップや個人出品から、転売品・中古品を安く買おうとしている。",
+        "店頭や通販サイトでキットを買ってから、あとでアプリに紹介特典を付けられると考えている。"
+      ]
+    },
+    "relatedArticles": [
+      {
+        "slug": "starlink-referral-ja"
+      },
+      {
+        "slug": "starlink-trust-ja"
+      },
+      {
+        "slug": "starlink-mini-or-standard-ja"
+      },
+      {
+        "slug": "starlink-plans-100-200-max-ja"
+      }
+    ]
+  },
+  {
+    "id": 1416,
+    "slug": "starlink-buy-official-or-retail-ko",
+    "translationKey": "starlink-onde-comprar",
+    "locale": "ko",
+    "title": "스타링크 공식 사이트 vs 이마트·쿠팡·네이버 구매 비교: 한국 유일 공인 판매처와 추천 크레딧 차이",
+    "seoTitle": "스타링크 공식 사이트 vs 이마트·쿠팡·네이버 구매 비교",
+    "type": "구매 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "편집 및 분석",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "편집 및 분석",
+        "initials": "BL"
+      }
+    ],
+    "description": "starlink.com 추천 링크 주문과 한국 유일 공인 판매처 이마트, 공식 목록 밖인 쿠팡·네이버·G마켓 구매 차이를 비교하고 추천 크레딧 적용 조건을 정리했습니다.",
+    "metaDescription": "스타링크 공식 사이트 vs 이마트·쿠팡·네이버 구매 비교. 추천 크레딧 적용 조건과 30일 반품, 중고 잠금 위험 안내.",
+    "publishedAt": "2026년 11월 24일",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-buy-official-or-retail-ko-capa.webp",
+    "imageAlt": "스타링크 공식 사이트와 국내 오프라인 매장 및 오픈마켓 구매 차이를 다룬 표지 이미지. 스타링크 로고와 표준 키트가 배치되어 있다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "한국에서 스타링크를 처음 신청할 때는 오픈마켓보다 추천 링크로 starlink.com에서 직접 주문하는 편이 가장 안전하고 유리합니다. 스타링크 공식 공인 판매처 목록에 등록된 한국 매장은 이마트(Emart) 한 곳뿐이며, 쿠팡·네이버 스마트스토어·G마켓은 공식 목록에 없습니다. 추천 링크로 starlink.com에서 첫 주문을 시작하면 월 결제 주기 2회 완료 후 추천 크레딧과 30일 환불 조건이 적용되지만, 매장이나 오픈마켓 구매는 제외됩니다."
+        ],
+        "links": [
+          {
+            "label": "추천 링크로 starlink.com 공식 주문 화면 열기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "starlink.com과 이마트·오픈마켓 구매의 실질적 차이",
+        "paragraphs": [
+          "서울시청 주소 기준으로 starlink.com 공개 주문 화면과 공식 공인 판매처 목록을 직접 확인했습니다(결제는 진행하지 않음). 한국 공식 스토어는 키트를 임대하지 않고 직접 구매하는 방식이며, 100Mbps(월 ₩34,000, 정가 ₩68,000)와 맥스(월 ₩46,500, 정가 ₩93,000) 요금제에 Mini(₩160,000) 또는 Standard 4 X(₩275,000) 키트를 선택할 수 있습니다(11월 말까지 50% 할인 적용 표시, 배송비 ₩29,091 및 세금 별도, 한국 발급 카드 필요).",
+          "외부 쇼핑몰이나 오픈마켓의 개별 판매 가격과 카드 할인은 다루지 않으며, 공식 규정상 채널별로 달라지는 구조만 정리했습니다. 한국 추천 보상의 경우 11월 기준 참고 금액 ₩65,000이 외부 자료로 알려진 바 있으나 스타링크 국가별 기준에 따라 달라질 수 있으므로, 반드시 결제 전에 주문 화면에서 실제 금액을 확인하세요."
+        ],
+        "comparisonTable": {
+          "caption": "2026년 11월 23~24일 확인한 starlink.com(서울)과 공식 공인 판매처 목록(8a90222d) 기준 채널 비교. 외부 매장 가격은 포함하지 않았습니다.",
+          "headers": [
+            "비교 항목",
+            "starlink.com (추천 링크 주문)",
+            "공인 판매처 (한국은 이마트만 등재)",
+            "비공인 오픈마켓·병행·중고 판매"
+          ],
+          "rows": [
+            [
+              "추천 보상 크레딧 (11월 기준 참고 금액 ₩65,000, 결제 전에 주문 화면에서 실제 금액을 확인하세요)",
+              "적용 대상 (월 결제 주기 2회 완납 후 청구서 크레딧)",
+              "적용 불가 (활성화 시 입력 칸 없음)",
+              "적용 불가"
+            ],
+            [
+              "한국 공식 요금·키트 조건 투명성",
+              "100Mbps·맥스 요금 및 Mini·Standard 4 X 조건 주문 화면 즉시 표시",
+              "하드웨어 구매만 진행(구독·프로모션은 활성화 시 별도 확인)",
+              "판매자별 임의 판매·중고 혼재"
+            ],
+            [
+              "30일 반품 및 환불 절차",
+              "주문 약관에 따라 서비스 취소 후 손상 없이 키트 반납 시 키트·첫 달 환불",
+              "키트 반품은 이마트 매장 정책, 구독 해지는 스타링크에 별도 요청",
+              "개인·대행 판매자 규정에 따름(지원 제외 위험)"
+            ],
+            [
+              "기존 계정 잠금·중고 기기 위험",
+              "없음 (내 주문으로 새 장비 출고)",
+              "미개봉 정품이면 낮음",
+              "높음 (이전 소유자 미해제 시 개통 불가)"
+            ],
+            [
+              "공식 활성화 보장 여부",
+              "보장 (본사 직접 출고)",
+              "공인 판매처 정식 스타링크 스토어 출고분만 보장",
+              "비공인 판매처 장비는 활성화 차단·즉시 정지 가능"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "구매 경로별 조건 비교 (서울 주문 화면 기준)",
+          "scenarios": [
+            {
+              "label": "starlink.com + 추천 링크 (100Mbps + Mini)",
+              "lines": [
+                {
+                  "label": "Mini 키트 + 배송비·세금 (서울 기준)",
+                  "value": "오늘 결제 ₩192,000 (키트 ₩160,000)"
+                },
+                {
+                  "label": "월 요금 (100Mbps, 50% 프로모션)",
+                  "value": "월 ₩34,000 (정가 ₩68,000)"
+                },
+                {
+                  "label": "2회 완납 후 추천 크레딧",
+                  "value": "11월 기준 참고 금액 ₩65,000 — 결제 전에 주문 화면에서 실제 금액을 확인하세요",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "오늘 주문 결제 총액 (배송·세금 포함)",
+              "totalValue": "₩192,000",
+              "note": "추천 크레딧은 오늘 키트 가격을 깎아 주지 않으며, 2회 결제 주기를 마친 뒤 청구서에 크레딧으로 적립됩니다. 결제 전에 주문 화면에서 실제 금액을 확인하세요."
+            },
+            {
+              "label": "starlink.com + 추천 링크 (맥스 + Standard 4 X)",
+              "lines": [
+                {
+                  "label": "Standard 4 X 키트 + 배송비·세금 (서울 기준)",
+                  "value": "오늘 결제 ₩307,000 (키트 ₩275,000)"
+                },
+                {
+                  "label": "월 요금 (맥스, 50% 프로모션)",
+                  "value": "월 ₩46,500 (정가 ₩93,000)"
+                },
+                {
+                  "label": "2회 완납 후 추천 크레딧",
+                  "value": "11월 기준 참고 금액 ₩65,000 — 결제 전에 주문 화면에서 실제 금액을 확인하세요",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "오늘 주문 결제 총액 (배송·세금 포함)",
+              "totalValue": "₩307,000",
+              "note": "12개월 약정 표시 없이 구매되며, 30일 내 취소·무손상 반납 시 주문 조건에 따라 환불됩니다. 결제 전에 주문 화면에서 실제 금액을 확인하세요."
+            },
+            {
+              "label": "이마트 또는 오픈마켓에서 키트 별도 구매",
+              "lines": [
+                {
+                  "label": "하드웨어 구매 경로",
+                  "value": "오프라인 매장 또는 외부 몰 구매"
+                },
+                {
+                  "label": "추천 보상 크레딧",
+                  "value": "₩0 (사후 등록 불가)",
+                  "highlight": true
+                },
+                {
+                  "label": "반품·해지 처리",
+                  "value": "키트는 매장 반품, 구독은 스타링크 별도 해지"
+                }
+              ],
+              "totalLabel": "받을 수 있는 공식 추천 크레딧",
+              "totalValue": "₩0",
+              "note": "외부에서 구매한 키트는 활성화 단계에서 추천 링크를 소급 적용할 수 없습니다."
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "alt": "서울시청 주소로 확인한 starlink.com 공식 주문 화면. 100Mbps 월 ₩34,000과 Mini 키트 구매 ₩160,000 표시",
+          "caption": "서울 주소로 확인한 starlink.com 주문 화면. 한국은 키트 구매 방식이며 추천 링크 적용 화면과 한국 발급 카드 결제 안내를 직접 볼 수 있습니다.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8041
+        }
+      },
+      {
+        "heading": "매장·오픈마켓 구매 키트에 추천 링크를 못 쓰는 이유",
+        "paragraphs": [
+          "공인 판매처에서 키트를 사서 전원을 연결하면 starlink.com/activate 또는 스타링크 앱에서 최초 등록을 마칠 수 있도록 1시간의 초기 접속 시간이 제공됩니다. 하지만 이 활성화 흐름에는 추천 코드를 입력하는 칸이 아예 없습니다.",
+          "스타링크 추천 프로그램은 오직 추천 링크로 starlink.com에 접속해 첫 주문을 완료한 건만 인정합니다. 리셀러·오픈마켓 구매나 타인 계정 이전은 모두 제외되며 구매 후 고객센터에 요청해도 추가할 수 없습니다. 구체적인 절차는 [스타링크 추천 링크 사용 가이드](/ko/reviews/starlink-referral-ko)와 [스타링크 추천 혜택 페이지](/ko/coupons/starlink)에서 확인하세요."
+        ]
+      },
+      {
+        "heading": "비공인 몰·중고 키트 주의: 이전 제한(120일·90일)과 활성화 차단",
+        "paragraphs": [
+          "쿠팡, 네이버 스마트스토어, G마켓 등에서 개인 판매자나 병행수입 업자 상품을 볼 때는 특히 조심해야 합니다. 스타링크 공식 고객센터 문서(8a90222d)는 반드시 공인 판매처의 공식 스타링크 스토어에서만 구매하라고 안내하며, 비공인 상점에서 산 장비는 활성화할 수 없고 즉시 서비스가 정지될 수 있다고 경고합니다.",
+          "중고·재판매 키트는 계정 이전(Transfer) 규정도 까다롭습니다. starlink.com 온라인 구매 기기는 구매 후 120일 또는 활성화 후 90일 중 먼저 도래한 날이 지나야 이전할 수 있고, 매장 구매 기기는 활성화 후 90일이 지나야 이전이 가능합니다. 미납 잔액이 있거나 30일 반품 기간 안에서는 이전 자체가 막히며, 전 소유자가 본인 계정에서 장비를 삭제·해제하지 않으면 새 구매자가 절대 활성화할 수 없습니다.",
+          "30일 환불 구조도 다릅니다. starlink.com 주문은 조건에 맞춰 30일 이내에 서비스를 취소하고 키트를 손상 없이 반납하면 키트와 첫 달 요금을 환불받을 수 있습니다. 반면 매장에서 샀다면 키트 환불은 해당 매장에 직접 요청하고, 요금제 구독 취소는 스타링크 계정에서 따로 진행해야 합니다."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "스타링크 스탠다드 키트 구성품인 안테나, 공유기, 스탠드, 케이블 공식 이미지",
+          "caption": "스타링크 스탠다드 키트 구성품. 비공인 판매처나 중고 매물은 이전 계정 잠금 여부를 반드시 경계해야 합니다. 사진: Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "한국 공식 공인 판매처 목록(8a90222d): 이마트 외 플랫폼 주의점",
+        "paragraphs": [
+          "여행 출발 직전처럼 당일 오프라인 수령이 꼭 필요하거나 특정 매장 상품권을 써야 하는 예외적인 상황이라면, 반드시 [스타링크 공식 공인 판매처 목록](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105)부터 확인하세요. 이 목록에 등록된 한국 공인 판매처는 이마트(Emart) 단 한 곳뿐입니다.",
+          "즉 쿠팡, 네이버 스마트스토어, G마켓 같은 오픈마켓 플랫폼 자체는 한국 공인 판매처 목록에 올라가 있지 않습니다. 외부에서 정식 판매 여부를 확인하는 방법은 [스타링크는 믿을 만한가요](/ko/reviews/starlink-trust-ko) 가이드에서도 다뤘습니다."
+        ],
+        "checklist": {
+          "title": "결제 전 필수 확인 체크리스트 5가지",
+          "items": [
+            "매장이나 오픈마켓을 보기 전에 추천 링크로 starlink.com에 주소를 입력해 요금제·키트 가격과 추천 적용 여부를 확인했다.",
+            "추천 크레딧(11월 기준 참고 금액 ₩65,000 — 결제 전에 주문 화면에서 실제 금액을 확인하세요)이 매장 구매에는 적용되지 않음을 확인했다.",
+            "오프라인 구매를 택할 경우 한국 공식 목록에 등록된 유일한 판매처인 이마트 정식 판매 상품인지 확인했다.",
+            "쿠팡·네이버·중고 거래의 비공인 셀러 상품이 아닌지(90일·120일 이전 제한 및 기존 계정 잠금 위험이 없는지) 점검했다.",
+            "starlink.com 결제 전, 한국 발급 카드 준비 상태와 추천 적용 안내·30일 환불 약관을 화면 캡처로 저장했다."
+          ]
+        },
+        "links": [
+          {
+            "label": "starlink.com에서 내 주소 요금·추천 혜택 확인하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "starlink.com 주문 화면에 표시된 추천 코드 적용 안내 예시(미국 네바다 화면)",
+          "caption": "starlink.com 공식 주문 화면의 추천 적용 표시 예시(미국 화면 기준). 이 확인 문구가 결제 전에 뜨는 곳은 공식 사이트뿐입니다.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "결론: 한국에서 가장 안전하고 유리한 구매처",
+        "paragraphs": [
+          "배송을 며칠 기다릴 수 있는 대부분 신규 가입자에게는 추천 링크로 starlink.com에서 직접 주문하는 것이 가장 확실합니다. 한국 공인 판매처 목록에는 이마트만 등재되어 있고 쿠팡·네이버·G마켓은 빠져 있으므로, 비공인 셀러로 인한 활성화 거부 위험을 피하고 추천 크레딧(11월 기준 참고 금액 ₩65,000 — 결제 전에 주문 화면에서 실제 금액을 확인하세요)과 30일 환불 창구를 하나로 묶으려면 공식 사이트가 유리합니다."
+        ],
+        "emphasis": "한국 공식 공인 판매처 목록에 등록된 곳은 이마트뿐이며 쿠팡·네이버 스마트스토어·G마켓은 포함되어 있지 않습니다. 추천 크레딧(11월 기준 참고 금액 ₩65,000, 결제 전에 주문 화면에서 실제 금액을 확인하세요)과 30일 반납 절차를 함께 챙기려면 추천 링크로 starlink.com에서 직접 주문하세요.",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "쿠팡이나 네이버 스마트스토어, G마켓도 스타링크 공인 판매처인가요? 아니요. 스타링크 공식 공인 판매처 목록에서 한국에 등록된 곳은 이마트 한 곳뿐이며, 쿠팡·네이버 스마트스토어·G마켓은 목록에 없습니다. 비공인 판매처 기기는 활성화가 차단될 수 있습니다.",
+          "이마트에서 스타링크 키트를 산 뒤 추천 링크를 적용할 수 있나요? 아니요. 추천 보상은 추천 링크를 통해 starlink.com에서 직접 시작한 첫 주문에만 적용됩니다. 매장에서 구매한 키트를 앱으로 활성화할 때는 추천 입력 칸이 없으며 사후 적용도 불가능합니다.",
+          "한국 공식 사이트 추천 보상은 얼마인가요? 스타링크 공식 고객센터 문서에는 한국 고정 금액이 별도로 공개되어 있지 않으며 국가와 시점에 따라 달라집니다. 결제 전에 주문 화면에 표시되는 실제 추천 금액을 직접 확인하세요. 보상은 2회 월 결제 주기를 완납한 뒤 청구서 크레딧 등으로 지급됩니다.",
+          "중고 스타링크 안테나를 사면 바로 개통할 수 있나요? 주의해야 합니다. 온라인 구매품은 구매 후 120일 또는 활성화 후 90일, 매장 구매품은 활성화 후 90일이 지나야 이전할 수 있으며, 이전 소유자가 계정에서 기기를 해제하지 않았거나 미납이 있으면 새 계정에서 활성화되지 않습니다.",
+          "공식 사이트에서 샀다가 지붕에서 신호가 안 잡히면 환불되나요? 주문 조건에 따라 30일 이내에 서비스를 취소하고 키트를 손상 없이 반납하면 키트와 첫 달 요금 환불 대상이 됩니다. 반면 매장 구매품은 기기 반품을 해당 매장과, 구독 취소를 스타링크와 따로 처리해야 합니다."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "한국 유일 공인 판매처는 이마트뿐입니다. 배송을 기다릴 수 있다면 추천 링크로 starlink.com에서 주문해 추천 크레딧(11월 기준 참고 금액 ₩65,000 — 결제 전에 주문 화면에서 실제 금액을 확인하세요)과 30일 반납 조건을 확인하세요.",
+      "label": "starlink.com에서 내 주소 주문 화면 보기",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "starlink.com 공개 주문 화면(서울), 공식 공인 판매처 목록(8a90222d), 스타링크 고객센터 문서를 직접 확인해 작성했습니다(실제 결제는 진행하지 않았습니다). 저희는 스타링크 추천 프로그램에 참여하고 있으며, 링크를 통해 조건을 충족한 가입이 이루어지면 보상을 받을 수 있습니다.",
+    "decision": {
+      "takeIf": [
+        "배송을 기다릴 수 있어 추천 링크를 통해 starlink.com에서 공식 직구로 안전하게 개통하고 추천 크레딧 대상도 확보하고 싶다.",
+        "당일 수령이 꼭 필요해 한국 공식 목록에 있는 이마트 정식 판매처에서 미개봉 새 제품을 직접 구매하려 한다."
+      ],
+      "skipIf": [
+        "공식 목록에 없는 쿠팡·네이버·중고 거래에서 출처 불분명한 재판매·중고 키트를 싸게 사려 한다.",
+        "매장이나 오픈마켓에서 키트를 먼저 사고 나중에 앱에서 추천 보상을 넣을 수 있다고 기대한다."
+      ]
+    },
+    "relatedArticles": [
+      {
+        "slug": "starlink-referral-ko"
+      },
+      {
+        "slug": "starlink-trust-ko"
+      },
+      {
+        "slug": "starlink-mini-or-standard-ko"
+      },
+      {
+        "slug": "starlink-plans-100-200-max-ko"
+      }
+    ]
+  },
+  {
+    "id": 1417,
+    "slug": "starlink-buy-official-or-retail-zh-hant",
+    "translationKey": "starlink-onde-comprar",
+    "locale": "zh-hant",
+    "title": "Starlink 在官網還是馬來西亞授權經銷商、蝦皮 Shopee、Lazada、Amazon 買？台灣香港無直營的購買對比",
+    "seoTitle": "Starlink 官網下單 vs 授權經銷商與蝦皮 Lazada 比較",
+    "type": "購買指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編輯與分析",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編輯與分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "對比 starlink.com 推薦連結與授權經銷商（如馬來西亞 Harvey Norman、SenHeng）及蝦皮、Lazada：說明推薦獎勵資格、設備租用、30 天退貨與台港澳及新加坡未列於官方名單的風險。",
+    "metaDescription": "Starlink 官網推薦連結 vs 馬來西亞授權經銷商與蝦皮 Lazada 比較：推薦獎勵資格、設備租用、30 天退貨與二手轉讓鎖定規則。",
+    "publishedAt": "2026年11月24日",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-buy-official-or-retail-zh-hant-capa.webp",
+    "imageAlt": "比較在 Starlink 官方網站與授權經銷商或電商平台購買的封面圖片，畫面中有 Starlink 標誌與標準套件。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "在有 Starlink 服務的國家首次申裝時，透過推薦連結直接在 starlink.com 下單，通常比在經銷商或電商平台購買更划算也更安全。Starlink 目前沒有中文官網介面，且台灣、香港、新加坡與中國大陸均無門市列於官方授權經銷商清單（8a90222d）。在馬來西亞，授權經銷商包含 Harvey Norman、SenHeng、Courts、SNS Network 等八家，但只有 starlink.com 提供 Max 方案設備租用、統一 30 天退貨與滿兩個計費週期後的推薦獎勵（各地金額請以訂購頁為準）。"
+        ],
+        "links": [
+          {
+            "label": "透過推薦連結開啟 starlink.com 訂購頁查看地址條件",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "官網下單與經銷商、電商平台到底差在哪裡",
+        "paragraphs": [
+          "我們實測查詢了 starlink.com 馬來西亞吉隆坡、美國內華達等公開訂購頁與官方授權經銷商清單（未實際完成付款）。在多數國家，只有官網能提供優惠或特定方案的設備租用：例如吉隆坡同一地址上，Max 方案在官網提供 Rental Kit (Mini X) RM 0 租用，而 100 Mbps 則是購買 Mini X RM 900；若去經銷商買套件，通常只能單買硬體並放棄推薦獎勵。",
+          "本文不引用任何第三方賣家價格，只對比官方頁面與協助中心規則所呈現的結構差異。若提及馬來西亞推薦金額 RM 180，屬於第三方在 11 月公開的參考數據（11 月參考金額 RM 180），各地實際金額依 starlink.com 系統判定為準，付款前請以訂購頁顯示金額為準。"
+        ],
+        "comparisonTable": {
+          "caption": "2026 年 11 月 23–24 日依據 starlink.com 訂購頁（吉隆坡與美國示例）及官方經銷商清單（8a90222d）整理的結構對比，不含第三方售價。",
+          "headers": [
+            "比較項目",
+            "starlink.com（透過推薦連結）",
+            "官方授權經銷商（如馬來西亞 Harvey Norman、SenHeng）",
+            "蝦皮 Shopee、Lazada 或未驗證賣家"
+          ],
+          "rows": [
+            [
+              "推薦獎勵（美國示例 US$ 100／馬來西亞 11 月參考金額 RM 180，付款前請以訂購頁顯示金額為準）",
+              "適用（滿兩個完整計費週期後折抵帳單或依帳戶提供現金）",
+              "不適用（啟用頁面無法補填）",
+              "不適用"
+            ],
+            [
+              "硬體方案彈性（租用 RM 0 vs 買斷）",
+              "依地址提供（馬來西亞 Max 可 RM 0 租用 Mini X，美國多方案 $0 租用）",
+              "僅限全額購買套件，無法享受官網租用條件",
+              "僅買斷或夾雜二手轉賣機"
+            ],
+            [
+              "30 天退貨與退款流程",
+              "依訂購頁條款取消服務並完好寄回設備，於同一系統退還設備與首月費用",
+              "硬體退貨須洽門市辦理，服務取消須另向 Starlink 申請",
+              "依各賣場賣家規則，售後與保固風險高"
+            ],
+            [
+              "設備綁定舊帳號與無法啟用風險",
+              "零風險（官網隨訂單全新出貨）",
+              "密封新品風險低",
+              "極高（非授權通路或未解除綁定的二手機無法啟用）"
+            ],
+            [
+              "台灣、香港、新加坡、中國大陸官方名單狀態",
+              "訂購頁目前無中文介面，須自行輸入英文地址測試可用性",
+              "此四地皆無任何經銷商列於 8a90222d 清單",
+              "跨區平行輸入套件恐遭停止服務或無法啟用"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "各管道購買條件試算（以馬來西亞吉隆坡及海外官網為例）",
+          "scenarios": [
+            {
+              "label": "starlink.com Max 方案（馬來西亞租用 + 推薦連結）",
+              "lines": [
+                {
+                  "label": "Rental Kit (Mini X) 設備條件",
+                  "value": "RM 0 租用（取消服務時須歸還）"
+                },
+                {
+                  "label": "月費與運費（吉隆坡地址示例）",
+                  "value": "月費 RM 235／運費 RM 89"
+                },
+                {
+                  "label": "滿兩個計費週期後的推薦獎勵",
+                  "value": "11 月參考金額 RM 180 — 付款前請以訂購頁顯示金額為準",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "下單當日應付（馬來西亞 Max 僅運費）",
+              "totalValue": "RM 89",
+              "note": "推薦獎勵不會折抵當日金額，而是在按時繳清兩個完整計費週期後記入帳單。付款前請以訂購頁顯示金額為準。"
+            },
+            {
+              "label": "starlink.com 100 Mbps（馬來西亞購買 + 推薦連結）",
+              "lines": [
+                {
+                  "label": "Mini X 設備買斷價（吉隆坡地址示例）",
+                  "value": "RM 900（外加運費 RM 89）"
+                },
+                {
+                  "label": "月費（100 Mbps 方案）",
+                  "value": "RM 135／月"
+                },
+                {
+                  "label": "滿兩個計費週期後的推薦獎勵",
+                  "value": "11 月參考金額 RM 180（美國示例 US$ 100）— 付款前請以訂購頁顯示金額為準",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "下單當日應付（設備 + 運費）",
+              "totalValue": "RM 989",
+              "note": "30 天內依訂購頁條款取消服務並無損寄回設備，可退還設備與首月月費。付款前請以訂購頁顯示金額為準。"
+            },
+            {
+              "label": "授權門市或電商平台單買硬體套件",
+              "lines": [
+                {
+                  "label": "設備取得方式",
+                  "value": "僅買斷（無法使用 Max RM 0 租用）"
+                },
+                {
+                  "label": "推薦獎勵資格",
+                  "value": "0（門市／平台購買均不計入，事後不可補登）",
+                  "highlight": true
+                },
+                {
+                  "label": "退貨處理方式",
+                  "value": "套件找門市退貨，訂閱須另行向 Starlink 取消"
+                }
+              ],
+              "totalLabel": "可領取的官方推薦獎勵",
+              "totalValue": "0",
+              "note": "在蝦皮 Shopee、Lazada 或門市買的設備，啟用時不會出現推薦欄位。"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "馬來西亞吉隆坡地址的 starlink.com 英文訂購畫面，顯示 100 Mbps 每月 RM 135 與 Mini X RM 900",
+          "caption": "吉隆坡地址的 starlink.com 訂購頁面（英文介面）。RM 0 租用與推薦優惠都僅限官方訂購頁。",
+          "objectFit": "contain",
+          "aspectRatio": 0.9898
+        }
+      },
+      {
+        "heading": "為什麼門市或蝦皮買的設備無法補填推薦連結",
+        "paragraphs": [
+          "當你在授權經銷商買到全新未拆封的套件，插電後透過 Starlink App 或 starlink.com/activate 進行啟用時，系統會提供 1 小時的初始連線讓你完成開通與綁定訂閱。這個啟用流程設計上完全沒有推薦碼或推薦連結的輸入欄位。",
+          "依據 Starlink 官方規則，推薦獎勵只計算「新客戶透過推薦連結直接在 starlink.com 發起的首次訂單」。透過授權經銷商、蝦皮 Shopee、Lazada、Amazon 購買，或由他人轉讓帳號，都不符合推薦資格，事後聯繫客服也無法補登。完整操作可看[Starlink 推薦連結使用教學](/zh-hant/reviews/starlink-referral-zh-hant)與[Starlink 推薦獎勵頁面](/zh-hant/coupons/starlink)。"
+        ]
+      },
+      {
+        "heading": "二手轉賣與非授權賣家的隱藏風險：120 天／90 天轉讓鎖定與停權",
+        "paragraphs": [
+          "在網路上跨區購買 Starlink 套件，最危險的不是運送時間，而是啟用封鎖。Starlink 官方授權頁面明確警告：請只向經銷商的官方 Starlink 商店購買，來自非授權商店的設備無法啟用，且可能導致服務立即被暫停。",
+          "此外，二手與轉手設備受限於嚴格的轉讓冷卻期：透過 starlink.com 線上購買的設備，必須等到購買滿 120 天或啟用滿 90 天（以較早者為準）才能轉讓；從授權經銷商購買的設備，則須在啟用滿 90 天後才能轉讓。只要帳戶尚有未繳餘額或處於 30 天退貨窗口期內，系統都會禁止轉讓；若前手沒有在原帳戶內解除設備綁定，買家收到貨後完全無法開通。",
+          "售後分工也截然不同：在 starlink.com 下單時，只要在 30 天內取消服務並將設備完好退回，即可依訂購頁條款退還設備與首月月費；向經銷商購買時，硬體退貨必須自己與門市交涉，且訂閱取消要另外在 Starlink 帳戶中處理。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standard 標準套件包含天線、路由器、底座與線材的官方照片",
+          "caption": "Starlink 標準套件零件一覽。在電商平台購買來路不明或二手設備時，常面臨前手未解綁或非授權店無法啟用的風險。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "各地官方授權經銷商名單（8a90222d）對照與檢查清單",
+        "paragraphs": [
+          "核對[Starlink 官方授權經銷商清單](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105)後可以發現亞洲各市場差異極大：台灣、香港、新加坡與中國大陸目前皆沒有任何門市列於該清單，官網亦無中文介面；相較之下，馬來西亞列出了 Harvey Norman、SenHeng、Courts、SNS Network、TMT、Gloo、IT World 與 PC Image（澳洲則有 Harvey Norman、JB Hi-Fi、Bunnings、Officeworks；美國有 Best Buy、Home Depot、Amazon 及 Walmart 內的 Starlink Store on Walmart）。",
+          "因此在馬來西亞或海外瀏覽蝦皮 Shopee、Lazada 或 Amazon 時，務必核實商品頁是否屬於授權經銷商的官方 Starlink 旗艦店，千萬別向個人代購或未列名的店鋪下單。欲了解如何辨識官網與避免釣魚詐騙，可搭配閱讀[Starlink 可靠嗎？官網辨識指南](/zh-hant/reviews/starlink-trust-zh-hant)。"
+        ],
+        "checklist": {
+          "title": "下單前必須確認的 5 件事",
+          "items": [
+            "去門市或電商比價前，先透過推薦連結在 starlink.com 輸入使用地址，確認是否有 RM 0 租用或當地促銷。",
+            "確認自己是否能受益於官網推薦獎勵（美國示例 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請以訂購頁顯示金額為準），該獎勵僅限官網直購。",
+            "若在馬來西亞或海外實體／電商通路購買，已核對 8a90222d 官方清單，並確認賣家為經銷商的官方 Starlink 商店。",
+            "確認非台灣、香港、新加坡或中國大陸的非授權跨區轉賣機，且非受限於 90 天／120 天轉讓規定的二手機。",
+            "在 starlink.com 付款前，已截圖保留畫面上的推薦已套用提示與 30 天退貨退款條款。"
+          ]
+        },
+        "links": [
+          {
+            "label": "前往 starlink.com 透過推薦連結確認當地方案",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "starlink.com 訂購頁面顯示 Referral Code Applied 推薦代碼已套用的官方畫面示例（美國內華達）",
+          "caption": "starlink.com 訂購頁面出現推薦代碼已套用的確認提示（美國畫面示例）。只有官網直購才會顯示此提示並計入獎勵。",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "結論：哪裡買最穩妥",
+        "paragraphs": [
+          "如果你身處 Starlink 正式開通住宅直營的國家（如馬來西亞、美國、澳洲、日本或歐洲多國），透過推薦連結在 starlink.com 下單幾乎永遠優於門市與蝦皮、Lazada。不僅因為台灣、香港、新加坡與中國大陸目前沒有任何授權門市列在官方清單上，更因為在馬來西亞的 Max RM 0 租用與推薦獎勵（11 月參考金額 RM 180，付款前請以訂購頁顯示金額為準）都只在官網存在；除非急需當日門市自取且確定賣家在授權清單上，否則直接從官網啟動訂單最安全。"
+        ],
+        "emphasis": "台灣、香港、新加坡與中國大陸均不在 Starlink 授權經銷商清單（8a90222d）內；馬來西亞雖有 Harvey Norman、SenHeng、Courts、SNS Network 等授權商，但 Max 方案 RM 0 租用與推薦抵免（11 月參考金額 RM 180，付款前請以訂購頁顯示金額為準）僅在 starlink.com 透過推薦連結下單才適用。",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "台灣、香港或新加坡有 Starlink 官方授權經銷商嗎？沒有。根據 Starlink 官方授權經銷商清單，台灣、香港、新加坡與中國大陸均無任何經銷商列名，starlink.com 亦沒有中文訂購介面。",
+          "在蝦皮 Shopee、Lazada 或 Amazon 買 Starlink 安全嗎？必須極度謹慎。非授權賣家販售的設備無法啟用並可能導致立即停權。例如在馬來西亞，請確認賣家是 Harvey Norman、SenHeng、Courts、SNS Network 等官方名單經銷商的官方 Starlink 商店；即使在當地買了正品，也無法享有推薦獎勵。",
+          "馬來西亞的推薦獎勵是多少？如何領取？Starlink 官方說明中心以美國 US$ 100 作為示例，各地實際金額與幣別依國家和系統條件而異，因此付款前請務必以訂購頁顯示金額為準。獎勵須透過推薦連結在 starlink.com 完成首次訂購，並按時付清兩個完整計費週期後才會發放。",
+          "為什麼不能在實體店買完天線，再補填推薦連結？因為 Starlink 零售套件的啟用流程只有 1 小時初始連線讓你綁定帳號，並沒有輸入推薦碼的欄位。官方計畫規定推薦必須在最初於 starlink.com 下單時套用，無法事後補登。",
+          "在官網購買卻發現訊號不理想，30 天內怎麼退款？依訂購頁條款，於 30 天內取消服務並將無損的設備寄回，可退還套件費用（若為購買制）與第一個月月費。若向經銷商購買，硬體退貨須依門市政策與商店洽談，同時另外向 Starlink 取消訂閱。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "想避免電商非授權賣家鎖機風險，並保留 30 天退貨保障與推薦獎勵（馬來西亞 11 月參考金額 RM 180，付款前請以訂購頁顯示金額為準），建議直接由推薦連結在 starlink.com 查詢地址。",
+      "label": "透過推薦連結開啟 starlink.com 訂購頁",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "內容依據 starlink.com 公開訂購頁、官方授權經銷商清單（8a90222d）及說明中心整理，過程中未完成任何購買。本站參與 Starlink 推薦計畫，若你透過我們的推薦連結於 starlink.com 下單並符合資格，我們可能獲得獎勵。",
+    "decision": {
+      "takeIf": [
+        "所在地已有 Starlink 住宅直營服務，希望直接從官方訂購頁確認最新套件方案、保固與推薦資格。",
+        "在馬來西亞等有授權門市的名單國家急需當日取貨，且已確認該商店確實列於官方經銷商清單內。"
+      ],
+      "skipIf": [
+        "準備向非授權網購賣家或個人二手轉賣購買，可能面臨前手未解綁或系統封鎖啟用的風險。",
+        "以為在實體店或蝦皮買了套件之後，還能進 App 補登推薦連結來領取抵免金額。"
+      ]
+    },
+    "relatedArticles": [
+      {
+        "slug": "starlink-referral-zh-hant"
+      },
+      {
+        "slug": "starlink-trust-zh-hant"
+      },
+      {
+        "slug": "starlink-mini-or-standard-zh-hant"
+      },
+      {
+        "slug": "starlink-plans-100-200-max-zh-hant"
+      }
+    ]
+  },
+  {
+    "id": 1418,
+    "slug": "starlink-buy-official-or-retail-zh-hans",
+    "translationKey": "starlink-onde-comprar",
+    "locale": "zh-hans",
+    "title": "Starlink 在官网还是马来西亚授权经销商、虾皮 Shopee、Lazada、Amazon 买？中国大陆与新马港澳台购买对比",
+    "seoTitle": "Starlink 官网下单 vs 授权经销商与虾皮 Lazada 对比",
+    "type": "购买指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "编辑与分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "对比 starlink.com 推荐链接与授权经销商（如马来西亚 Harvey Norman、SenHeng）及虾皮、Lazada：说明推荐奖励资格、设备租用、30 天退货及中国大陆、港澳台与新加坡不在官方名单内的风险。",
+    "metaDescription": "Starlink 官网推荐链接 vs 马来西亚授权经销商与虾皮 Lazada 对比：推荐奖励资格、设备租用、30 天退货与二手转让锁定规则。",
+    "publishedAt": "2026年11月24日",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-buy-official-or-retail-zh-hans-capa.webp",
+    "imageAlt": "对比在 Starlink 官网与授权经销商或电商平台购买的封面图，图中展示 Starlink 标志与标准套件。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "在支持 Starlink 服务的国家首次订阅时，通过推荐链接直接在 starlink.com 下单，通常比去门店或第三方电商平台买更省心、更安全。Starlink 目前没有简体中文官网界面，中国大陆、台湾、香港与新加坡也均无商家列在官方授权经销商名单（8a90222d）中。在马来西亚，官方名单包含 Harvey Norman、SenHeng、Courts 等八家，但只有 starlink.com 提供 Max 套餐设备租用、统一 30 天退货与付清两个计费周期后的推荐奖励（各地金额请以订购页显示为准）。"
+        ],
+        "links": [
+          {
+            "label": "通过推荐链接打开 starlink.com 订购页查看地址条件",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "官网下单与授权经销商、电商平台到底差在哪里",
+        "paragraphs": [
+          "我们实地查看了 starlink.com 马来西亚吉隆坡、美国内华达等公开订购页面及官方授权经销商名单（未实际完成付款）。在不少市场，只有官网才有租用或组合优惠：比如吉隆坡同一地址上，Max 套餐在官网提供 Rental Kit (Mini X) RM 0 租用，而 100 Mbps 则是买断 Mini X RM 900；如果去实体店买套件，往往只能全款买断硬件，同时失去推荐奖励。",
+          "本文不引用任何第三方店铺售价，只对比官方订购页面和帮助中心写明的制度差异。文中提到的马来西亚 RM 180 属于第三方在 11 月发布的参考数据（11 月参考金额 RM 180），具体国家奖励以官网订单页面实时判定为准，付款前请以订购页显示金额为准。"
+        ],
+        "comparisonTable": {
+          "caption": "2026 年 11 月 23–24 日根据 starlink.com 订购页（吉隆坡与美国示例）及官方经销商名单（8a90222d）整理的结构对比，不含第三方售价。",
+          "headers": [
+            "对比项目",
+            "starlink.com（通过推荐链接）",
+            "官方授权经销商（如马来西亚 Harvey Norman、SenHeng）",
+            "虾皮 Shopee、Lazada 或未认证卖家"
+          ],
+          "rows": [
+            [
+              "推荐奖励（美国示例 US$ 100／马来西亚 11 月参考金额 RM 180，付款前请以订购页显示金额为准）",
+              "符合资格（付清两个完整计费周期后抵扣账单或按账户提供现金）",
+              "不符合（激活界面无法补填）",
+              "不符合"
+            ],
+            [
+              "硬件方式（租用 RM 0 vs 买断）",
+              "按地址显示（马来西亚 Max 可 RM 0 租用 Mini X，美国多套餐 $0 租用）",
+              "仅限全款购买硬件，无法享受官网租用模式",
+              "仅买断或掺杂二手转卖机"
+            ],
+            [
+              "30 天退货与退款流程",
+              "按订购页条款取消服务并完好寄回设备，在同一平台退还硬件与首月费用",
+              "硬件退货须找门店处理，服务取消须另向 Starlink 提交",
+              "受限于第三方卖家规则，售后与退换风险高"
+            ],
+            [
+              "设备绑定旧账户与无法激活风险",
+              "无风险（官网随订单全新发货）",
+              "未拆封新品风险低",
+              "较高（非授权渠道或未解绑的二手机无法激活）"
+            ],
+            [
+              "中国大陆、港澳台及新加坡官方名单状态",
+              "订购页目前无中文界面，需用当地英文地址查看是否开放服务",
+              "上述地区均无任何经销商列在 8a90222d 名单中",
+              "跨区水货或未认证货源存在无法激活或被停机风险"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "各购买渠道条件试算（以马来西亚吉隆坡及海外官网为例）",
+          "scenarios": [
+            {
+              "label": "starlink.com Max 套餐（马来西亚租用 + 推荐链接）",
+              "lines": [
+                {
+                  "label": "Rental Kit (Mini X) 硬件模式",
+                  "value": "RM 0 租用（取消服务时须归还）"
+                },
+                {
+                  "label": "月费与运费（吉隆坡地址示例）",
+                  "value": "月费 RM 235／运费 RM 89"
+                },
+                {
+                  "label": "付清两个计费周期后的推荐奖励",
+                  "value": "11 月参考金额 RM 180 — 付款前请以订购页显示金额为准",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "下单当日应付（马来西亚 Max 仅运费）",
+              "totalValue": "RM 89",
+              "note": "推荐奖励不会在结账当天抵减硬件或运费，而是在按时付清两个完整计费周期后计入账单。付款前请以订购页显示金额为准。"
+            },
+            {
+              "label": "starlink.com 100 Mbps（马来西亚买断 + 推荐链接）",
+              "lines": [
+                {
+                  "label": "Mini X 硬件购买价（吉隆坡地址示例）",
+                  "value": "RM 900（另加运费 RM 89）"
+                },
+                {
+                  "label": "月费（100 Mbps 套餐）",
+                  "value": "RM 135／月"
+                },
+                {
+                  "label": "付清两个计费周期后的推荐奖励",
+                  "value": "11 月参考金额 RM 180（美国示例 US$ 100）— 付款前请以订购页显示金额为准",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "下单当日应付（设备 + 运费）",
+              "totalValue": "RM 989",
+              "note": "30 天内按订购页条款取消服务并完好寄回设备，可退还设备与首月月费。付款前请以订购页显示金额为准。"
+            },
+            {
+              "label": "授权门店或电商平台单独买套件",
+              "lines": [
+                {
+                  "label": "硬件取得方式",
+                  "value": "仅买断（无法享受 Max RM 0 租用）"
+                },
+                {
+                  "label": "推荐奖励资格",
+                  "value": "0（门店／平台订单不计入，事后不可补加）",
+                  "highlight": true
+                },
+                {
+                  "label": "退货处理流程",
+                  "value": "套件找门店退货，订阅需另外在 Starlink 取消"
+                }
+              ],
+              "totalLabel": "可获得的官方推荐奖励",
+              "totalValue": "0",
+              "note": "在虾皮 Shopee、Lazada 或实体店购买的设备，激活时不会出现推荐填写框。"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "马来西亚吉隆坡地址的 starlink.com 英文订购页面，显示 100 Mbps 每月 RM 135 与 Mini X RM 900",
+          "caption": "吉隆坡地址的 starlink.com 订购页面（英文界面）。RM 0 租用与推荐奖励仅在官网订单页有效。",
+          "objectFit": "contain",
+          "aspectRatio": 0.9898
+        }
+      },
+      {
+        "heading": "为什么实体店或电商买的套件无法补用推荐链接",
+        "paragraphs": [
+          "从授权经销商买回全新未拆封的套件后，通电接入天线即可通过 Starlink App 或 starlink.com/activate 激活，系统会给 1 小时的初始联网时间让你完成开户和订购流量套餐。但这个激活界面里并没有任何可填入推荐码或推荐链接的位置。",
+          "Starlink 的官方规则明确限定，推荐奖励只记录“新用户通过推荐链接直接在 starlink.com 创建的首次订单”。所有经由授权经销商、虾皮 Shopee、Lazada、Amazon 下单的设备，以及他人转让的账户，均不在推荐计划内，付款后联系客服也无法补登。具体流程见[Starlink 推荐链接使用教程](/zh-hans/reviews/starlink-referral-zh-hans)和[Starlink 推荐奖励页](/zh-hans/coupons/starlink)。"
+        ]
+      },
+      {
+        "heading": "二手转让与非授权渠道的风险：120 天／90 天冷却期与停机封锁",
+        "paragraphs": [
+          "在电商平台或个人手里淘 Starlink 套件，最容易踩坑的并不是快递时效，而是激活限制。Starlink 官方经销商支持页面明确提示：请务必在经销商开设的官方 Starlink 商店购买，从非授权店铺买到的硬件无法激活，并可能导致服务被立即暂停。",
+          "二手或转售设备还受到严格的账户转让冷却期约束：在 starlink.com 线上购买的设备，需等到购买满 120 天或激活满 90 天（以先到者为准）才可转让；从经销商渠道购买的设备，则必须等到激活满 90 天后才允许转让。只要原账户存在未结清欠费，或尚处于 30 天退货窗口期内，均无法办理转让；如果原机主或卖家没有把设备从原账户移除，买家拿到手后将无法激活。",
+          "退货与取消服务的责任划分也完全不同：在 starlink.com 订购，在 30 天内取消服务并完好退回设备，即可按订购页条款退还硬件与首月费用；而在经销商买到的套件，硬件退货必须直接找商家按门店政策处理，订阅取消则要另行到 Starlink 账户操作。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standard 标准套件包含天线、路由器、底座与线缆的官方照片",
+          "caption": "Starlink 标准套件组件。通过第三方电商或个人卖家购买时，须警惕非授权货源及原账户未解绑风险。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "各国官方授权经销商名单（8a90222d）核对与购买前检查清单",
+        "paragraphs": [
+          "查阅[Starlink 官方授权经销商名单](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105)会发现各区域差异非常明显：中国大陆、台湾、香港与新加坡目前均没有任何商家进入官方名单，官网也没有中文订购界面；马来西亚则列明了 Harvey Norman、SenHeng、Courts、SNS Network、TMT、Gloo、IT World 与 PC Image（澳洲列有 Harvey Norman、JB Hi-Fi、Bunnings、Officeworks；美国列有 Best Buy、Home Depot、Amazon 以及 Walmart 内的 Starlink Store on Walmart）。",
+          "因此在马来西亚或海外平台如虾皮 Shopee、Lazada、Amazon 搜索硬件时，请一定要点进店铺主页核实它是否属于官方名单上的授权经销商直营 Starlink 店，切勿在来历不明的普通第三方店铺下单。关于如何辨别官网及防范钓鱼网址，可继续阅读[Starlink 靠谱吗？官网辨别指南](/zh-hans/reviews/starlink-trust-zh-hans)。"
+        ],
+        "checklist": {
+          "title": "下单前先核对这 5 项",
+          "items": [
+            "去线下店或电商平台比价前，先用推荐链接在 starlink.com 输入使用地址，确认是否有 RM 0 租用或本地活动。",
+            "确认自己是否打算获取官网推荐奖励（美国示例 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请以订购页显示金额为准），线下和电商订单不参加。",
+            "如果在马来西亚或海外经销渠道购买，已核对 8a90222d 官方名单并确认卖家是该授权经销商的官方 Starlink 商店。",
+            "确认并非中国大陆、港澳台或新加坡的未授权跨区水货，也不是受限 90 天／120 天转让条款或未解绑的二手机器。",
+            "在 starlink.com 付款前，已截图留存页面上的推荐已应用提示与 30 天退货退款条款。"
+          ]
+        },
+        "links": [
+          {
+            "label": "前往 starlink.com 通过推荐链接查看地址方案",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "starlink.com 订购页显示 Referral Code Applied 推荐码已应用的官方截图示例（美国内华达）",
+          "caption": "starlink.com 订购页显示推荐码已应用的确认提示（美国示例）。只有官网直接下单才会出现这一提示并计入奖励。",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "结论：哪种买法最省心、最稳妥",
+        "paragraphs": [
+          "只要你所在的国家（如马来西亚、美国、澳洲、日本或欧洲各国）已经支持 Starlink 住宅直营，通过推荐链接直接在 starlink.com 下单几乎始终强于门店和虾皮、Lazada。不仅因为中国大陆、港澳台与新加坡目前不在官方经销商名单内，更因为马来西亚 Max 套餐的 RM 0 租用和推荐抵扣（11 月参考金额 RM 180，付款前请以订购页显示金额为准）只存在于官网订单流程中；除非临时急用当天提货且确认店面在官方名单上，否则优先在官网完成下单最安全。"
+        ],
+        "emphasis": "中国大陆、台湾、香港与新加坡均不在 Starlink 官方授权经销商名单（8a90222d）内；马来西亚虽列有 Harvey Norman、SenHeng、Courts、SNS Network 等授权店，但 Max 套餐 RM 0 租用与推荐抵扣（11 月参考金额 RM 180，付款前请以订购页显示金额为准）只有通过推荐链接在 starlink.com 下单才有效。",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "中国大陆、港澳台或新加坡有 Starlink 官方授权经销商吗？没有。根据 Starlink 官方授权经销商名单，中国大陆、台湾、香港与新加坡均无任何商家列名，starlink.com 官网也没有中文页面。",
+          "在虾皮 Shopee、Lazada 或 Amazon 买 Starlink 安全吗？需要格外谨慎。非授权卖家售出的硬件无法激活并可能导致立即停机。比如在马来西亚，请核实卖家是否为 Harvey Norman、SenHeng、Courts、SNS Network 等名单内经销商的官方 Starlink 商店；即便买到授权门店正品，也无法获得推荐奖励。",
+          "马来西亚的推荐奖励有多少？怎么发放？Starlink 官方帮助中心以美国 US$ 100 作为示例，各地实际金额与币种依国家和订单实时条件而异，因此付款前请务必以订购页显示金额为准。需通过推荐链接在 starlink.com 首次下单，并按时缴清两个完整计费周期后才会发放。",
+          "能不能先在实体店买了天线，再回到 App 里补用推荐链接？不能。从经销商购买的设备激活时仅有 1 小时初始联网用来绑定账号和套餐，界面没有推荐码输入框。官方规定推荐必须在 starlink.com 下第一笔订单时生效，无法事后补充。",
+          "在官网买回来发现屋顶信号不好，30 天内怎么退款？按订购页条款，在 30 天内取消服务并把无损伤的设备寄回，即可退还套件费用（如为买断制）和首月月费。在经销商处购买的套件，设备退货须按门店规则与商家沟通，订阅取消则需要单独在 Starlink 操作。"
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "想避开非授权电商卖家的锁机风险，并保留官网 30 天退货保障与推荐奖励（马来西亚 11 月参考金额 RM 180，付款前请以订购页显示金额为准），请直接通过推荐链接在 starlink.com 查询地址。",
+      "label": "通过推荐链接打开 starlink.com 订购页",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "本文依据 starlink.com 公开订购页、官方授权经销商名单（8a90222d）及帮助中心文档整理，未实际完成下单购买。我们参与 Starlink 推荐计划，如果你通过我们的推荐链接在 starlink.com 订阅并满足规则，我们可能会获得奖励。",
+    "decision": {
+      "takeIf": [
+        "所在国家已开通 Starlink 住宅直营服务，想在官网直接查看适用套餐、硬件条款并保留推荐资格。",
+        "在马来西亚等有官方名单门店的国家急需当天自提，且已核实店铺属于该授权经销商的官方 Starlink 商店。"
+      ],
+      "skipIf": [
+        "打算在未授权网店或个人手里低价买二手设备，可能遭遇前手未解绑或被系统封锁激活。",
+        "以为在门店或虾皮、Lazada 买完硬件以后，还可以回到 App 里补填推荐链接领奖励。"
+      ]
+    },
+    "relatedArticles": [
+      {
+        "slug": "starlink-referral-zh-hans"
+      },
+      {
+        "slug": "starlink-trust-zh-hans"
+      },
+      {
+        "slug": "starlink-mini-or-standard-zh-hans"
+      },
+      {
+        "slug": "starlink-plans-100-200-max-zh-hans"
+      }
+    ]
+  },
+  {
+    "id": 1419,
+    "slug": "starlink-buy-official-or-retail-ar",
+    "translationKey": "starlink-onde-comprar",
+    "locale": "ar",
+    "title": "شراء Starlink من الموقع الرسمي أم من نون وأمازون والمتاجر في عُمان وقطر والخليج؟",
+    "seoTitle": "شراء Starlink: الموقع الرسمي أم نون وأمازون؟",
+    "type": "دليل شراء",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "تحرير وتحليل",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "تحرير وتحليل",
+        "initials": "BL"
+      }
+    ],
+    "description": "الشراء عبر starlink.com أم نون وأمازون في عُمان وقطر؟ قارن قائمة التجار المعتمدين، وأهلية رصيد الإحالة، وشروط الإرجاع خلال 30 يومًا ومخاطر التفعيل.",
+    "metaDescription": "الشراء من starlink.com أم نون وأمازون في عُمان وقطر؟ تعرّف على قائمة التجار المعتمدين، وأهلية رصيد الإحالة، ومخاطر حظر التفعيل والاسترداد خلال 30 يومًا.",
+    "publishedAt": "24 نوفمبر 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-buy-official-or-retail-ar-capa.webp",
+    "imageAlt": "غلاف مقارنة شراء Starlink من الموقع الرسمي starlink.com أو من المتاجر، ويظهر شعار Starlink مع طقم التوصيل القياسي.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "الإجابة السريعة",
+        "paragraphs": [
+          "للمشتركين الجدد في عُمان وقطر والإمارات، الطلب المباشر من starlink.com عبر رابط الإحالة هو الخيار الأكثر أمانًا، إذ لا تضم هذه الدول أي تاجر معتمد في القائمة الرسمية، خلافًا للبحرين والكويت. أما الشراء عبر نون أو أمازون فيعرّضك لرفض التفعيل ويحرمك من رصيد الإحالة بعد دورتين مسددتين ومن الإرجاع الموحّد خلال 30 يومًا."
+        ],
+        "links": [
+          {
+            "label": "افتح طلب starlink.com عبر رابط الإحالة لعنوانك",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "ما الذي يتغير فعلًا بين starlink.com والشراء من نون أو أمازون أو المتاجر",
+        "paragraphs": [
+          "راجعنا صفحة الطلب العربية في starlink.com لعناوين في مسقط والدوحة وقائمة التجار المعتمدين دون إتمام شراء. في عُمان وقطر يظهر الطقم بنظام الشراء فقط (Standard 4 X بـ OMR 160 أو Mini بـ OMR 80 في عُمان، وStandard 4 X بـ 1,500 QAR في قطر، مع عبارة بدون تعاقد وتجربة 30 يومًا)، بينما تعرض أسواق أخرى مثل الولايات المتحدة وأوروبا إيجار الطقم بمقدم صفر عند الطلب عبر الموقع الرسمي فقط.",
+          "لا نذكر أي أسعار لمتاجر خارجية هنا؛ الجدول أدناه يقارن القواعد الرسمية نفسها. وبخصوص مكافأة الإحالة، فإن 15 ريالًا عُمانيًا (OMR 15) في عُمان و160 ريالًا قطريًا (160 QAR) هي المبلغ المرجعي في نوفمبر المنشور في مصادر متابعة مستقلة (مع بقاء 100$ مثالًا رسميًا للولايات المتحدة)، ولذلك اعتمد المبلغ الذي يظهر في طلبك قبل الدفع."
+        ],
+        "comparisonTable": {
+          "caption": "مقارنة القنوات وفق شاشات starlink.com وقائمة تجار التجزئة الرسمية (8a90222d) في 23 و24 نوفمبر 2026، دون أي أسعار لمتاجر طرف ثالث.",
+          "headers": [
+            "وجه المقارنة",
+            "starlink.com (عبر رابط الإحالة)",
+            "تاجر معتمد في القائمة (البحرين والكويت فقط خليجيًا)",
+            "نون وأمازون والموزعون في عُمان وقطر"
+          ],
+          "rows": [
+            [
+              "رصيد الإحالة (المبلغ المرجعي في نوفمبر OMR 15 بعُمان أو 160 QAR بقطر؛ اعتمد المبلغ الذي يظهر في طلبك قبل الدفع)",
+              "مؤهل (يُضاف بعد سداد دورتَي فوترة كاملتَين)",
+              "غير مؤهل (لا يوجد حقل إحالة عند التفعيل)",
+              "غير مؤهل"
+            ],
+            [
+              "حالة الاعتماد في قائمة 8a90222d الرسمية",
+              "الموقع الرسمي المباشر لـ Starlink",
+              "معتمد في البحرين (Sharaf DG، Jarir، Lulu، Virgin) والكويت (Chips)",
+              "غير مدرج (عُمان وقطر والإمارات بلا أي تاجر معتمد)"
+            ],
+            [
+              "خطر رفض التفعيل أو تعليق الخدمة",
+              "منعدم (طقم جديد ومفوتر على طلبك)",
+              "منخفض إذا كان مغلفًا من المتجر المعتمد الرسمي",
+              "مرتفع (لا يمكن تفعيل الأجهزة من متاجر غير معتمدة)"
+            ],
+            [
+              "سياسة الإرجاع خلال 30 يومًا",
+              "وفق شروط الطلب: إلغاء الخدمة وإعادة الجهاز سليمًا لاسترداد ثمن الطقم والشهر الأول",
+              "إرجاع الجهاز للمتجر وإلغاء الاشتراك لدى Starlink بشكل منفصل",
+              "تخضع لسياسة البائع وقد تتعذر التسوية مع Starlink"
+            ],
+            [
+              "تقديم الوثائق والدفع المحلي",
+              "طلب هوية بصورة بعد الطلب وبطاقة صادرة من دول الخليج في عُمان",
+              "حسب شروط البيع في المتجر ثم التفعيل عبر التطبيق",
+              "قد لا يطابق متطلبات الهوية أو السوق المخصّص للجهاز"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "حاسبة المقارنة في عُمان وقطر",
+          "scenarios": [
+            {
+              "label": "عُمان: starlink.com عبر رابط الإحالة",
+              "lines": [
+                {
+                  "label": "شراء الطقم والشحن (Standard 4 X بـ OMR 160 + شحن OMR 10)",
+                  "value": "OMR 170 اليوم (أو OMR 90 مع Mini)"
+                },
+                {
+                  "label": "الاشتراك الشهري لباقة المنازل",
+                  "value": "OMR 30 شهريًا بدون تعاقد"
+                },
+                {
+                  "label": "رصيد الإحالة بعد دورتين مسددتين",
+                  "value": "المبلغ المرجعي في نوفمبر 15 ريالًا عُمانيًا (OMR 15) — اعتمد المبلغ الذي يظهر في طلبك قبل الدفع",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "المستحق يوم الطلب في عُمان (Standard 4 X)",
+              "totalValue": "OMR 170",
+              "note": "لا تخفض المكافأة سعر الجهاز عند الطلب بل تدخل رصيدًا بعد دورتين مسددتين. اعتمد المبلغ الذي يظهر في طلبك قبل الدفع."
+            },
+            {
+              "label": "قطر: starlink.com عبر رابط الإحالة",
+              "lines": [
+                {
+                  "label": "شراء Standard 4 X بـ 1,500 QAR + شحن 80 QAR",
+                  "value": "1,580 QAR يوم الطلب"
+                },
+                {
+                  "label": "باقة المنازل Lite الشهرية",
+                  "value": "220 QAR شهريًا بدون تعاقد"
+                },
+                {
+                  "label": "رصيد الإحالة بعد دورتين مسددتين",
+                  "value": "المبلغ المرجعي في نوفمبر 160 ريالًا قطريًا (160 QAR) — اعتمد المبلغ الذي يظهر في طلبك قبل الدفع",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "المستحق يوم الطلب في قطر (Standard 4 X)",
+              "totalValue": "1,580 QAR",
+              "note": "إلغاء الخدمة وإعادة الجهاز سليمًا خلال 30 يومًا يتيح استرداد الطقم والشهر الأول وفق شروط الطلب. اعتمد المبلغ الذي يظهر في طلبك قبل الدفع."
+            },
+            {
+              "label": "الشراء عبر نون أو أمازون أو بائع غير معتمد",
+              "lines": [
+                {
+                  "label": "الاعتماد في عُمان وقطر والإمارات",
+                  "value": "لا يوجد أي تاجر تجزئة مدرج في قائمة 8a90222d"
+                },
+                {
+                  "label": "رصيد الإحالة",
+                  "value": "0 (لا يُضاف بعد الشراء ولا خارج starlink.com)",
+                  "highlight": true
+                },
+                {
+                  "label": "خطر التفعيل والضمان",
+                  "value": "لا يمكن تفعيل الأجهزة من متاجر غير معتمدة"
+                }
+              ],
+              "totalLabel": "مكافأة الإحالة عبر هذه القنوات",
+              "totalValue": "0",
+              "note": "الشراء خارج الموقع الرسمي في دول بلا تجار معتمدين يعرض الجهاز للتعطيل أو رفض التفعيل."
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "alt": "شاشة الطلب العربية الرسمية في starlink.com لمدينة مسقط في عُمان، تعرض باقة المنازل بـ 30 ر.ع. وجهاز Standard 4 X بـ 160 ر.ع.",
+          "caption": "شاشة الطلب الرسمية بالعربية لعنوان في مسقط، عُمان: توضح عبارة بدون تعاقد وتجربة 30 يومًا وسعر الطقم الرسمي مباشرة من Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7414
+        }
+      },
+      {
+        "heading": "لماذا لا يعمل رابط الإحالة مع الأطقم المشتراة من خارج starlink.com",
+        "paragraphs": [
+          "عند شراء طقم جديد من تاجر تجزئة معتمد (في الدول المدرجة) وفتحه لأول مرة، يمنحك النظام ساعة واحدة فقط من الاتصال الأولي لإتمام التفعيل عبر starlink.com/activate أو التطبيق. هذه الواجهة لا تتضمن أي خانة لإدخال رمز إحالة أو رابط دعوة.",
+          "يشترط برنامج الإحالة أن يبدأ الطلب الأول بالكامل من رابط الإحالة مباشرة على starlink.com. جميع المشتريات من تجار التجزئة والأسواق الإلكترونية أو عبر تحويل الحسابات تبقى خارج البرنامج ولا يمكن إضافتها لاحقًا. راجع التفاصيل الكاملة في [دليل استخدام رابط إحالة Starlink](/ar/reviews/starlink-referral-ar) و[صفحة إحالة Starlink](/ar/coupons/starlink)."
+        ]
+      },
+      {
+        "heading": "مخاطر المتاجر غير المعتمدة والأجهزة المستعملة: قفل النقل (120 و90 يومًا)",
+        "paragraphs": [
+          "يحذر مركز مساعدة Starlink بشكل صريح في صفحة التجار المعتمدين من أن الشراء يجب أن يقتصر على متجر Starlink الرسمي لدى التاجر المعتمد، لأن الأجهزة المشتراة من متاجر غير معتمدة لا يمكن تفعيلها وقد يؤدي استخدامها إلى تعليق الخدمة فورًا.",
+          "كما تفرض Starlink قيودًا صارمة على نقل ملكية الأجهزة المستعملة أو المعاد بيعها: فالطقم المشترى عبر الإنترنت من starlink.com لا يُنقل قبل مرور 120 يومًا على الشراء أو 90 يومًا على التفعيل (أيهما أقرب)، والطقم المشترى من تاجر تجزئة معتمد لا يُنقل قبل مرور 90 يومًا على التفعيل. ويُمنع النقل تمامًا إذا كان هناك رصيد مستحق أو خلال نافذة الـ30 يومًا، ولا يمكن تفعيل جهاز ما زال مربوطًا بحساب مالكه السابق إلى أن يحذفه من حسابه.",
+          "وفي الإرجاع خلال 30 يومًا، يمنحك الطلب عبر starlink.com مسارًا واحدًا: إلغاء الخدمة وإعادة المعدات سليمة خلال 30 يومًا لاسترداد ثمن الطقم والشهر الأول بحسب شروط الطلب؛ بينما يتطلب شراء التجزئة إرجاع الجهاز للمتجر نفسه وإلغاء الاشتراك لدى Starlink بشكل منفصل."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "مكونات جهاز Starlink Standard القياسي الرسمية من طبق وجهاز توجيه وكابل وقاعدة",
+          "caption": "مكونات طقم Starlink Standard الرسمي. تجنب الشراء من متاجر غير مدرجة أو مستعملة قد تكون مقفلة بحساب سابق أو محظورة التفعيل. صورة: Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "قائمة التجار المعتمدين في الخليج (8a90222d) ولماذا تختلف عُمان وقطر عن البحرين والكويت",
+        "paragraphs": [
+          "تُظهر مراجعة [قائمة تجار التجزئة المعتمدين لدى Starlink](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105) حقيقة جوهرية يجهلها كثير من المشترين في الخليج: سلطنة عُمان وقطر والإمارات لا تضم أي تاجر تجزئة معتمد على الصفحة الرسمية. أما الدول الخليجية التي ظهرت لها متاجر رسمية في القائمة فهي البحرين (Sharaf DG وJarir Bookstores وLulu Hypermarket وVirgin Megastore) والكويت (Chips) فقط.",
+          "بناءً على ذلك، أي إعلان لطقم Starlink على نون أو أمازون أو لدى موزعين محليين داخل عُمان أو قطر أو الإمارات ليس مدرجًا في القائمة الرسمية المعتمدة، ويضعك أمام خطر «لا يمكن تفعيل الأجهزة من متاجر غير معتمدة». للتحقق من مصداقية الموقع وطرق تفادي الروابط الوهمية، طالع أيضًا دليل [هل Starlink موثوقة وكيف تتأكد من الموقع الرسمي](/ar/reviews/starlink-trust-ar)."
+        ],
+        "checklist": {
+          "title": "قائمة تحقق من 5 نقاط قبل دفع أي مبلغ",
+          "items": [
+            "أدخلت عنواني أولًا عبر رابط الإحالة على starlink.com وتأكدت من السعر الرسمي وتوافر الخدمة ومدة التوصيل.",
+            "تحققت أن بلدي ضمن القائمة الرسمية إذا فكرت في متجر، وعلمت أن عُمان وقطر والإمارات بلا أي تاجر معتمد في 8a90222d.",
+            "تجنبت عروض نون أو أمازون أو الموزعين المحليين غير المدرجين لأن الأجهزة من متاجر غير معتمدة قد يُرفض تفعيلها أو تُعلّق.",
+            "تأكدت من شروط الطلب لرصيد الإحالة (المبلغ المرجعي في نوفمبر 15 ريالًا عُمانيًا بعُمان أو 160 ريالًا قطريًا بقطر؛ اعتمد المبلغ الذي يظهر في طلبك قبل الدفع).",
+            "احتفظت بلقطة شاشة لإشعار تطبيق الإحالة وشروط الإلغاء والإعادة خلال 30 يومًا قبل تأكيد الدفع على starlink.com."
+          ]
+        },
+        "links": [
+          {
+            "label": "افتح صفحة الطلب الرسمية في starlink.com وتأكد من المبلغ لعنوانك",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "لقطة شاشة رسمية من starlink.com توضح إشعار Referral Code Applied قبل إتمام الدفع",
+          "caption": "مثال لإشعار تطبيق الإحالة داخل شاشة الطلب في starlink.com (نموذج نيفادا). لا يظهر هذا الإشعار إلا عند الطلب المباشر من الموقع الرسمي.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "الخلاصة: أين يجب أن تشتري في عُمان وقطر والخليج",
+        "paragraphs": [
+          "للمقيمين في عُمان وقطر والإمارات، الجواب واضح تمامًا: اشترِ من starlink.com مباشرة عبر رابط الإحالة ولا تجازف بشراء طقم من نون أو أمازون أو أي موزع محلي خارج قائمة التجار المعتمدين. وحتى في البحرين والكويت حيث توجد متاجر معتمدة، يظل الموقع الرسمي الخيار الوحيد الذي يحفظ لك فرصة مكافأة الإحالة بعد دورتين مسددتين، مع الاعتماد على شروط الإرجاع الموحدة خلال 30 يومًا."
+        ],
+        "emphasis": "سلطنة عُمان وقطر والإمارات لا تحتوي على أي تاجر تجزئة مدرج في قائمة Starlink الرسمية (8a90222d)، ولا يمكن تفعيل الأجهزة من متاجر غير معتمدة. اطلب من starlink.com عبر رابط الإحالة — ومع الإشارة إلى المبلغ المرجعي في نوفمبر (15 ريالًا عُمانيًا في عُمان و160 ريالًا قطريًا في قطر)، اعتمد المبلغ الذي يظهر في طلبك قبل الدفع.",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "الأسئلة الشائعة",
+        "bullets": [
+          "هل نون أو أمازون بائع معتمد لأجهزة Starlink في عُمان وقطر؟ لا. وفق قائمة تجار التجزئة المعتمدين الرسمية لـ Starlink، لا توجد أي متاجر معتمدة في عُمان أو قطر أو الإمارات (تقتصر القائمة الخليجية على متاجر محددة في البحرين والكويت فقط). الأجهزة المشتراة من متاجر غير معتمدة قد لا تُفعّل وقد تُعلّق الخدمة فورًا.",
+          "كم تبلغ مكافأة رابط الإحالة في عُمان وقطر؟ تختلف قيمة المكافأة وعملتها بحسب بلد الطلب والوقت، ويذكر مركز مساعدة Starlink مبلغ 100 دولار (US$ 100) كمثال رسمي للولايات المتحدة. لذلك اعتمد دائمًا المبلغ الظاهر في شاشة طلبك على starlink.com قبل الدفع، وتُضاف المكافأة بعد سداد دورتَي فوترة كاملتَين.",
+          "هل يمكنني شراء جهاز Starlink من متجر أو سوق إلكتروني ثم إضافة رابط الإحالة عند التفعيل؟ لا. شاشة التفعيل عبر التطبيق أو starlink.com/activate بعد شراء التجزئة لا تحتوي على خانة لإدخال الإحالة، كما يشترط البرنامج بدء الطلب الأول من رابط الإحالة مباشرة على starlink.com.",
+          "ما شروط نقل ملكية جهاز Starlink مستعمل اشتراه بائع محلي؟ يشترط النظام مرور 120 يومًا من الشراء أو 90 يومًا من التفعيل (أيهما أقرب) للطلبات الإلكترونية، و90 يومًا من التفعيل لأجهزة التجزئة، مع سداد كامل الرصيد وتجاوز نافذة الـ30 يومًا، وبشرط أن يزيل المالك السابق الجهاز من حسابه أولًا.",
+          "كيف يعمل استرداد الـ30 يومًا إذا طلبت من starlink.com ولم أقتنع بالخدمة؟ وفق شروط صفحة الطلب، يمكنك إلغاء الخدمة وإعادة المعدات سليمة دون تلف خلال 30 يومًا لاسترداد ثمن الطقم والشهر الأول. أما في حال الشراء من تاجر معتمد في دولة مدرجة، فتطلب إرجاع الجهاز من المتجر وتلغي الاشتراك لدى Starlink بشكل منفصل."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "في عُمان وقطر لا توجد متاجر تجزئة معتمدة في القائمة الرسمية. اطلب من starlink.com عبر رابط الإحالة لحماية تفعيل جهازك والتحقق من مكافأة بلدك (المبلغ المرجعي في نوفمبر OMR 15 بعُمان أو 160 QAR بقطر؛ اعتمد المبلغ الذي يظهر في طلبك قبل الدفع).",
+      "label": "تحقق من عنوانك على starlink.com عبر رابط الإحالة",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "أُعدّ بمراجعة شاشات starlink.com وقائمة التجار المعتمدين ومركز المساعدة. نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة عند اشتراكك عبر رابطنا.",
+    "decision": {
+      "takeIf": [
+        "تقيم في عُمان أو قطر أو الخليج وتريد شراء طقم جديد مضمون التفعيل مباشرة من starlink.com مع أهلية مكافأة الإحالة.",
+        "تقيم في البحرين أو الكويت وتفضل الشراء الفوري من أحد المتاجر المدرجة في القائمة الرسمية مع تقبل عدم وجود مكافأة الإحالة."
+      ],
+      "skipIf": [
+        "تعتزم شراء جهاز من نون أو أمازون أو موزع غير معتمد في عُمان أو قطر رغم خلو القائمة الرسمية من أي متاجر هناك.",
+        "تظن أن شراء الطقم من سوق إلكتروني أو مستعمل يسمح لك بإدخال رابط الإحالة لاحقًا داخل التطبيق."
+      ]
+    },
+    "relatedArticles": [
+      {
+        "slug": "starlink-referral-ar"
+      },
+      {
+        "slug": "starlink-trust-ar"
+      },
+      {
+        "slug": "starlink-mini-or-standard-ar"
+      },
+      {
+        "slug": "starlink-plans-100-200-max-ar"
+      }
+    ]
+  },
+  {
+    "id": 1420,
+    "slug": "starlink-mini-ou-padrao-qual-escolher",
+    "translationKey": "starlink-mini-ou-padrao",
+    "locale": "pt",
+    "title": "Starlink Mini (Mini X) ou Padrão (Standard V4)? Diferenças, roteador, consumo e qual escolher",
+    "seoTitle": "Starlink Mini ou Padrão (Standard): qual escolher?",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Compare Starlink Mini (Mini X) e Padrão (Standard V4): roteador embutido ou externo, Wi-Fi, consumo em nobreak, onde cada kit aparece no pedido e bônus de R$ 200.",
+    "metaDescription": "Starlink Mini (Mini X) ou Padrão (Standard 4 X)? Compare roteador, alcance Wi-Fi, consumo em watts, planos sem fidelidade e bônus de R$ 200.",
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-capa.webp",
+    "imageAlt": "Capa do comparativo com painel preto exibindo STARLINK e o título Mini ou Padrão? ao lado da foto oficial da antena Starlink Standard com apoio e roteador vertical separado.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Starlink Mini (Mini X nos pedidos) serve melhor quem quer instalação simples, baixo consumo em nobreak, portabilidade e, no plano de 100 Mbps no Brasil, ficar sem fidelidade. A Padrão (Standard V4) ganha em alcance Wi-Fi e portas de rede. Ambas liberam o bônus pelo link oficial; veja onde cada kit aparece no pedido abaixo."
+        ],
+        "links": [
+          {
+            "label": "Conferir qual kit aparece no meu endereço em starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Onde cada kit aparece hoje no pedido oficial",
+        "paragraphs": [
+          "Na maioria dos endereços, você não escolhe o modelo da antena solto: ele vem ligado ao plano ou à disponibilidade da região.",
+          "No Brasil, na consulta para Alto Paraíso de Goiás, o Residencial 100 Mbps (R$ 132,30/mês com 30% de ajuste sobre R$ 189 até o fim de novembro) entrega o kit Mini X por R$ 299 (R$ 499 menos R$ 200), sem contrato de 12 meses no bloco do equipamento. No Residencial Max (R$ 174,30/mês sobre R$ 249), o mesmo Mini X cai para R$ 49 com instalação profissional inclusa, mas exige contrato de 12 meses e multa de rescisão antecipada de até R$ 1.099. Nos dois planos aparece o Mini Roteador opcional por R$ 290.",
+          "Já na Avenida Paulista, em São Paulo, o endereço estava em pré-venda: sem os 30% de desconto na mensalidade e com o kit Standard 4 X (Padrão) a R$ 2.400, pago com depósito de reserva de R$ 275 hoje e sem fidelidade de 12 meses. Em Portugal (Lisboa), os planos funcionam em aluguer de 0 € (sem contratos e com devolução do kit se cancelar, envio de 20 €): o 100 Mbps (24,50 €/mês sobre 35 €) traz o Mini X, enquanto o 200 Mbps (31,50 €/mês sobre 45 €) e o Max (45,50 €/mês sobre 65 €) entregam o Standard 4, com instalação grátis apenas no Max (172 € opcional nos demais)."
+        ],
+        "comparisonTable": {
+          "caption": "Telas públicas de pedido consultadas em 23/11/2026. Preços e kits mudam por endereço e disponibilidade.",
+          "headers": [
+            "Mercado e plano",
+            "Kit exibido no pedido",
+            "Valor do kit e fidelidade",
+            "Mensalidade exibida"
+          ],
+          "rows": [
+            [
+              "Brasil, Residencial 100 Mbps (Alto Paraíso de Goiás)",
+              "Mini X (Mini Roteador opcional a R$ 290)",
+              "R$ 299 à vista, sem contrato de 12 meses",
+              "R$ 132,30 (cheio R$ 189)"
+            ],
+            [
+              "Brasil, Residencial Max (Alto Paraíso de Goiás)",
+              "Mini X (com instalação inclusa)",
+              "R$ 49, contrato de 12 meses (multa até R$ 1.099)",
+              "R$ 174,30 (cheio R$ 249)"
+            ],
+            [
+              "Brasil, pré-venda (Av. Paulista, São Paulo)",
+              "Standard 4 X (Padrão)",
+              "R$ 2.400 (depósito R$ 275 hoje), sem 12 meses",
+              "R$ 189 (100 Mbps) ou R$ 249 (Max)"
+            ],
+            [
+              "Portugal, 100 / 200 Mbps / Max (Lisboa)",
+              "Mini X no 100 Mbps; Standard 4 no 200 e Max",
+              "Aluguer 0 € (devolver ao cancelar), sem contratos",
+              "24,50 € / 31,50 € / 45,50 €"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "alt": "Tela de pedido da Starlink em Alto Paraíso de Goiás mostrando o Residencial 100 Mbps por R$ 132,30 ao mês e o kit Mini X por R$ 299",
+          "caption": "Consulta em Alto Paraíso de Goiás: o plano Residencial 100 Mbps traz o kit Mini X por R$ 299 sem cláusula de 12 meses.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9653
+        }
+      },
+      {
+        "heading": "Diferenças técnicas oficiais: Mini vs Standard V4 + Router 3",
+        "paragraphs": [
+          "A loja informa: a diferença central entre os dois kits está em integrar o roteador na própria antena ou deixá-lo separado dentro de casa, além do consumo elétrico e do tamanho do prato.",
+          "Na Starlink Mini, o roteador Wi-Fi 5 fica embutido na antena, o que reduz cabos e derruba o consumo para a faixa de 25 a 40 W. Já na Starlink Padrão (Standard V4), a antena vai para o telhado ligada por um cabo de 15 metros ao Router 3 dentro da casa, com Wi-Fi 6 tri-band e cobertura maior. Para quem compra o Mini X e precisa reforçar o sinal interno, a Starlink também vende o Router Mini separado (83,6 × 138 × 27 mm, 112 g, uso interno), com Wi-Fi 6 Dual Band 2×2 MU-MIMO para até 204 m², até 235 dispositivos e 2 portas Ethernet RJ-45 de 1 Gbps."
+        ],
+        "comparisonTable": {
+          "caption": "Especificações públicas de hardware publicadas pela Starlink para Mini, Router Mini e Standard V4 com Router 3.",
+          "headers": [
+            "Especificação",
+            "Starlink Mini (Mini X)",
+            "Starlink Padrão (Standard V4 + Router 3)"
+          ],
+          "rows": [
+            [
+              "Dimensões da antena",
+              "298,5 × 259 × 38,5 mm",
+              "594 × 383 × 39,7 mm"
+            ],
+            [
+              "Peso da antena",
+              "1,10 kg (1,16 kg com apoio; 1,53 kg com apoio e cabo CC de 15 m)",
+              "2,9 kg (3,2 kg com apoio; 3,8 kg com apoio e cabo de 15 m)"
+            ],
+            [
+              "Consumo médio e energia",
+              "25 a 40 W (12 a 48 V 60 W; USB-C PD mín. 100 W 20 V/5 A com cabo oficial)",
+              "75 a 100 W (fonte IP66 Tipo 4 e cabo CA de 1,5 m inclusos)"
+            ],
+            [
+              "Roteador e Wi-Fi",
+              "Wi-Fi 5 integrado (802.11ac Dual Band 3×3 MU-MIMO); aceita Router Mini opcional (Wi-Fi 6)",
+              "Router 3 separado (43,4 × 298,6 × 120,4 mm; 0,57 kg; Wi-Fi 6 tri-band 4×4 MU-MIMO)"
+            ],
+            [
+              "Cobertura Wi-Fi e aparelhos",
+              "Até 112 m² e 128 dispositivos (até 204 m² e 235 com Router Mini)",
+              "Até 297 m² e 235 dispositivos"
+            ],
+            [
+              "Portas Ethernet LAN",
+              "1 porta com travamento e plugue (cabo Ethernet não incluso)",
+              "2 portas com travamento no Router 3 (cabo Starlink de 15 m incluso)"
+            ],
+            [
+              "Proteção climática (IP)",
+              "IP67 Tipo 4 na antena (perde IP67 com cabo RJ45 comum no lugar do oficial)",
+              "Antena IP67 Tipo 4; fonte IP66 Tipo 4; Router 3 IP56 interno"
+            ],
+            [
+              "Modo Bypass e Mesh",
+              "Modo Bypass (sair exige reset de fábrica) e Mesh Starlink até 3 nós; incompatível com mesh de terceiros",
+              "Modo Bypass e Mesh Starlink até 3 nós; incompatível com mesh de terceiros"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Consultar especificações oficiais em starlink.com/specifications",
+            "href": "https://www.starlink.com/specifications"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antena e roteador externo da Starlink em comparação de arquitetura com o kit compacto",
+          "caption": "Conjunto com antena externa e roteador dedicado dentro de casa. Foto oficial da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Sinal Wi-Fi em casa grande, nobreak e rede cabeada",
+        "paragraphs": [
+          "Se a antena ficar longe dos quartos ou atrás de laje e paredes de alvenaria, o roteador separado da Padrão resolve melhor direto da caixa do que o Wi-Fi embutido na Mini.",
+          "Regra prática, sem teste nosso: quando o roteador fica dentro da antena (caso da Mini no telhado ou na varanda), a cobertura declarada de até 112 m² perde força ao atravessar telhas, concreto e paredes até o outro lado da casa. Na Padrão, o Router 3 entra por um cabo de 15 metros até a sala e entrega até 297 m² em Wi-Fi 6 tri-band para até 235 dispositivos. Na Mini, a saída limpa para casa grande é somar um Router Mini interno (até 204 m², R$ 290 no pedido brasileiro) ou montar mesh Starlink com até 3 nós, já que os kits não funcionam com sistemas mesh de terceiros.",
+          "Para backup de energia em nobreak ou estação portátil, a Mini leva vantagem clara: o consumo médio de 25 a 40 W é menos da metade dos 75 a 100 W da Padrão. Conta nossa, pelos números oficiais de consumo: numa mesma bateria de nobreak, a Mini sustenta a internet ativa por mais do dobro do tempo e ainda aceita alimentação USB-C PD de no mínimo 100 W (20 V/5 A) com o cabo oficial ou entrada CC de 12 a 48 V.",
+          "Na rede cabeada e no uso com roteador próprio ou Dual-WAN, repare em três detalhes práticos antes de passar o cabo. A Mini traz 1 porta Ethernet LAN com travamento (cabo Ethernet vendido à parte); se você plugar um RJ45 comum sem o cabo vedado oficial, a antena perde a vedação IP67 Tipo 4 contra chuva e poeira. O Router 3 da Padrão já traz duas portas Ethernet LAN protegidas dentro de casa. Ambas aceitam Modo Bypass para passar a conexão a um roteador ou sistema próprio via cabo, mas na Mini sair do Bypass exige redefinição de fábrica. Para expandir sem mesh de terceiros (incompatível), a Mini aceita mesh oficial Starlink com Router Mini, Router 3 e Router 2ª geração em até 3 nós."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Peças completas do kit Starlink Standard: antena, Router 3, base e cabos de 15 m e alimentação",
+          "caption": "Componentes do kit Starlink Standard com roteador externo e cabeamento completo. Foto oficial da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Custo com indicação após 2 ciclos e regra dos 30 dias",
+        "paragraphs": [
+          "Os dois kits mantêm o bônus oficial da indicação quando o pedido nasce em starlink.com pelo link: R$ 200 no Brasil e 45 € em Portugal, creditados na fatura depois de dois ciclos mensais em dia.",
+          "Esse crédito entra na fatura após dois ciclos mensais pagos (ou em dinheiro pela Stripe onde disponível) e nunca abate o valor do kit no checkout. Quem compra pelo link paga exatamente o mesmo total de entrada exibido no pedido oficial e recebe R$ 200 (ou 45 € em Portugal) depois de dois meses ativos. Se você comprar a antena em varejista, marketplace ou transferência de conta, perde 100% do bônus e não consegue incluí-lo depois.",
+          "A mesma segurança vale para testar o alcance do Wi-Fi e o sinal na sua casa: nos termos do pedido, cancelar o serviço e devolver o kit sem danos em até 30 dias dá reembolso pelas condições exibidas na compra. Consulte o passo a passo completo na [página da indicação Starlink](/cupons/starlink) e, no Brasil, confira no [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar) quando existe multa de 12 meses."
+        ],
+        "simulator": {
+          "title": "Simulador: quanto você paga no pedido e quando entra o bônus",
+          "scenarios": [
+            {
+              "label": "Mini X no 100 Mbps (BR, sem fidelidade)",
+              "lines": [
+                {
+                  "label": "Kit Mini X no pedido oficial",
+                  "value": "R$ 299 à vista (sem contrato de 12 meses)"
+                },
+                {
+                  "label": "Mensalidade exibida (Alto Paraíso, GO)",
+                  "value": "R$ 132,30/mês (cheio R$ 189)"
+                },
+                {
+                  "label": "Crédito de indicação pelo link",
+                  "value": "R$ 200 na fatura após 2 ciclos",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Pago no pedido hoje",
+              "totalValue": "R$ 299 hoje; R$ 200 entram em fatura após 2 ciclos",
+              "note": "Valores lidos no pedido de Alto Paraíso de Goiás; o bônus não reduz o preço do kit no checkout."
+            },
+            {
+              "label": "Standard 4 ou Max pelo link oficial",
+              "lines": [
+                {
+                  "label": "Kit no pedido (Max BR / 200 e Max PT)",
+                  "value": "R$ 49 (12m BR) ou aluguer 0 € (PT)"
+                },
+                {
+                  "label": "Mensalidade exibida (Max BR / 200 PT)",
+                  "value": "R$ 174,30/mês (BR) ou 31,50 €/mês (PT)"
+                },
+                {
+                  "label": "Crédito de indicação pelo link",
+                  "value": "R$ 200 (BR) ou 45 € (PT) após 2 ciclos",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Pago no pedido hoje",
+              "totalValue": "R$ 49 (BR) ou 20 € de envio (PT); bônus após 2 ciclos",
+              "note": "No Max do Brasil há contrato de 12 meses; em Portugal o kit alugado volta ao cancelar."
+            },
+            {
+              "label": "Kit comprado fora de starlink.com",
+              "lines": [
+                {
+                  "label": "Compra no varejo ou marketplace",
+                  "value": "Hardware pago cheio, sem oferta de plano"
+                },
+                {
+                  "label": "Aluguel 0 ou subsídio de endereço",
+                  "value": "Não se aplica fora do site oficial"
+                },
+                {
+                  "label": "Crédito oficial de indicação",
+                  "value": "R$ 0 (perdido sem volta)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Bônus recebido na fatura",
+              "totalValue": "R$ 0",
+              "note": "Pela regra oficial, indicações não podem ser aplicadas a compras de varejistas ou marketplaces."
+            }
+          ]
+        },
+        "links": [
+          {
+            "label": "Abrir pedido oficial com 30 dias de teste e bônus",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Checklist antes de escolher o kit",
+        "paragraphs": [
+          "Antes de concluir o pedido, faça estas cinco checagens para saber se o kit exibido no seu CEP atende à sua casa."
+        ],
+        "checklist": {
+          "title": "5 pontos antes de fechar o kit",
+          "items": [
+            "Confirmei no meu endereço em starlink.com qual antena vem em cada plano (Mini X, Standard 4 ou Standard 4 X) e se há contrato de 12 meses.",
+            "Medi a distância do ponto de céu aberto até o cômodo principal: acima de 112 m² ou com paredes grossas, considerei o Router 3 da Padrão ou o Router Mini extra.",
+            "Se vou ligar em nobreak, bateria ou energia solar, comparei o consumo de 25 a 40 W da Mini contra 75 a 100 W da Padrão.",
+            "Se vou usar cabo de rede ou roteador próprio, conferi que a Mini exige cabo Starlink vedado para manter o IP67 e não traz cabo Ethernet na caixa.",
+            "Abri o pedido pelo link oficial de indicação antes do pagamento para garantir o crédito após 2 ciclos e os 30 dias para cancelar e devolver sem danos."
+          ]
+        }
+      },
+      {
+        "heading": "Veredito: Starlink Mini ou Padrão?",
+        "paragraphs": [
+          "Para backup de internet em nobreak, sítio com energia solar, instalação rápida ou para contratar o plano de 100 Mbps sem fidelidade no Brasil, a Starlink Mini (Mini X) é a escolha mais equilibrada. Ela pesa 1,10 kg, gasta de 25 a 40 W e resolve bem casas menores que 112 m² ou quem já pretende ligar um roteador próprio.",
+          "Para casa grande com paredes grossas, muitos aparelhos simultâneos ou quando você quer duas portas Ethernet protegidas e Wi-Fi 6 tri-band de até 297 m² direto na caixa, a Starlink Padrão (Standard V4 com Router 3) entrega mais folga interna. Em Portugal, você escolhe indiretamente pelo plano (100 Mbps traz Mini X; 200 Mbps e Max trazem Standard 4). Se você optar pela Mini e o Wi-Fi não alcançar todos os quartos, pode somar o Router Mini ou cancelar o serviço e devolver o kit sem danos em até 30 dias pelos termos do pedido."
+        ],
+        "emphasis": "Para economizar energia no nobreak ou evitar contrato de 12 meses no Brasil pelo 100 Mbps, a Mini resolve com folga; já para cobrir casa grande com Wi-Fi 6 forte sem comprar roteador extra, a Padrão com Router 3 entrega uma rede mais completa."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Starlink Mini é mais lenta que a Padrão? Os planos residenciais anunciam a faixa de velocidade por plano (100 Mbps, 200 Mbps ou Max), não só pelo tamanho da antena, tanto que no Brasil o Mini X aparece tanto no 100 Mbps quanto no Max. O que muda mais entre elas é o alcance do Wi-Fi (112 m² Wi-Fi 5 na Mini contra 297 m² Wi-Fi 6 na Padrão) e o consumo elétrico.",
+          "A Starlink Mini funciona em casa grande sem outro roteador? Em casas maiores que 112 m² ou com paredes grossas entre a antena externa e os quartos, o sinal integrado pode perder força. Nesse caso, vale adicionar o Router Mini interno (até 204 m²) ou ligar outro roteador compatível.",
+          "Qual gasta menos energia no nobreak durante quedas de luz? A Starlink Mini consome em média de 25 a 40 W (e aceita USB-C PD de pelo menos 100 W com cabo oficial), enquanto a Starlink Padrão consome de 75 a 100 W. Na prática, a Mini dura mais do que o dobro do tempo na mesma bateria.",
+          "Posso ligar cabo Ethernet e roteador próprio nas duas? Sim. A Mini tem 1 porta Ethernet LAN com travamento (cabo Ethernet vendido à parte; usar RJ45 comum remove a proteção IP67), e o Router 3 da Padrão traz duas portas LAN. Ambas aceitam Modo Bypass para usar roteador próprio via cabo (na Mini, sair do Bypass exige redefinição de fábrica) e suportam o mesh oficial Starlink (compatível com Router Mini, Router 3 e Router 2ª geração, até 3 nós; incompatível com mesh de terceiros).",
+          "O link de indicação vale tanto na Starlink Mini quanto na Padrão? Sim. O crédito de R$ 200 no Brasil (45 € em Portugal) vale para assinaturas residenciais pedidas direto em starlink.com pelo link oficial, independente do kit exibido no seu endereço, e entra na fatura após dois ciclos mensais pagos."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "você quer baixo consumo em nobreak ou bateria, instalação compacta ou busca o plano de entrada sem contrato de 12 meses onde o pedido vincula o kit ao plano.",
+        "a área da casa cabe na cobertura integrada da Mini ou você pretende ligá-la ao Router Mini ou a um roteador cabeado."
+      ],
+      "skipIf": [
+        "você precisa cobrir casa ampla com Wi-Fi 6 tri-band direto da caixa para dezenas de aparelhos sem comprar roteador adicional.",
+        "você exige duas portas Ethernet protegidas no roteador padrão sem precisar comprar cabo separado."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Feito por Bruno Luiz com as especificações públicas, central de ajuda e telas de pedido da Starlink. Participamos da indicação e podemos receber recompensa pelo link.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-fidelidade-como-cancelar"
+      },
+      {
+        "slug": "starlink-vale-a-pena"
+      },
+      {
+        "slug": "starlink-site-oficial-ou-mercado-livre-varejo"
+      },
+      {
+        "slug": "planos-starlink-100-200-mbps-ou-max"
+      }
+    ],
+    "cta": {
+      "text": "O pedido abre em starlink.com pelo link oficial de indicação, mostrando qual kit vale no seu CEP e mantendo os 30 dias para cancelar e devolver sem danos. O bônus de R$ 200 no Brasil (45 € em Portugal) entra na fatura após dois ciclos pagos.",
+      "label": "Ver qual kit aparece no meu CEP em starlink.com",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1421,
+    "slug": "starlink-mini-vs-standard-which-to-choose",
+    "translationKey": "starlink-mini-ou-padrao",
+    "locale": "en",
+    "title": "Starlink Mini vs Standard (V4): router, Wi-Fi range, power draw and which to choose",
+    "seoTitle": "Starlink Mini vs Standard (V4): which to choose?",
+    "type": "Comparison Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Editing and analysis",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Editing and analysis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Compare Starlink Mini (V5 + Router Mini) and Standard (V4 + Router 3): built-in vs external router, Wi-Fi coverage, power draw, US/UK order kits and referral credit.",
+    "metaDescription": "Starlink Mini vs Standard V4: compare Wi-Fi 5 vs Wi-Fi 6 range, 25-40 W vs 75-100 W backup power draw, US/UK $0 rental kits and referral credit.",
+    "publishedAt": "November 24, 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-mini-vs-standard-which-to-choose-capa.webp",
+    "imageAlt": "Comparison cover featuring a black panel with STARLINK and the title Starlink Mini or Standard? beside the official photo of the Starlink Standard dish with kickstand and compact vertical router.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Starlink Mini is the better pick for simple setup, low backup power draw on a UPS or battery, and portable mounting. Standard (V4 + Router 3) wins on indoor Wi-Fi 6 coverage and dual Ethernet ports. Both kits qualify for the official referral bill credit when ordered on starlink.com; see which hardware each plan ships below."
+        ],
+        "links": [
+          {
+            "label": "Check which kit your address gets on starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Where each kit shows up on US and UK order pages",
+        "paragraphs": [
+          "On current residential checkouts in the United States and United Kingdom, the hardware kit is tied directly to the speed tier you select rather than picked separately.",
+          "In Nevada (US), all three residential plans ship as a $0 upfront and $0/month rental ($20 plus taxes shipping today; you must return the rental hardware if you cancel, with no fixed term). Residential 100 Mbps ($38.50/mo, regular $55, optional $99 installation) includes a Starlink V5 with a Router Mini. Residential 200 Mbps ($59.50/mo, regular $85, free installation) switches to a Starlink V4 with Router 4, and Max ($91/mo, regular $130, free installation) comes with Standard 4 X plus an extra Router Mini.",
+          "In London (UK), the order page shows \"No contracts\" with £0 hardware rental (£19 shipping today; return the kit if you cancel): 100 Mbps (£40/mo, optional £74 installation) bundles a Mini Rental with a Router Mini, while 200 Mbps (£60/mo, optional £74 installation) and Max (£80/mo, free installation) ship with the larger Standard 4 kit."
+        ],
+        "comparisonTable": {
+          "caption": "Public order pages checked on November 23, 2026. Hardware bundles and monthly prices vary by address.",
+          "headers": [
+            "Market and plan",
+            "Hardware in the order",
+            "Hardware cost and terms",
+            "Monthly price shown"
+          ],
+          "rows": [
+            [
+              "US, Residential 100 Mbps (Nevada)",
+              "Starlink V5 + Router Mini",
+              "$0 rental ($349 credited), return if cancelled",
+              "$38.50 ($55 regular)"
+            ],
+            [
+              "US, Residential 200 Mbps (Nevada)",
+              "Starlink V4 + Router 4 (free installation)",
+              "$0 rental, return if cancelled",
+              "$59.50 ($85 regular)"
+            ],
+            [
+              "US, Max (Nevada)",
+              "Standard 4 X + extra Router Mini (free installation)",
+              "$0 rental, return if cancelled",
+              "$91 ($130 regular)"
+            ],
+            [
+              "UK, 100 / 200 Mbps / Max (London)",
+              "Mini Rental + Router Mini (100); Standard 4 (200 / Max)",
+              "£0 rental, \"No contracts\", return if cancelled",
+              "£40 / £60 / £80"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "alt": "Starlink residential order page for Nevada showing 100 Mbps at $38.50 per month with Starlink V5, Router Mini and $0 rental hardware",
+          "caption": "Nevada order screen: Residential 100 Mbps bundles a Starlink V5 with a Router Mini at $0 rental.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7159
+        }
+      },
+      {
+        "heading": "Official technical specs: Mini vs Standard V4 + Router 3",
+        "paragraphs": [
+          "The store states: the biggest hardware difference is whether the primary router lives inside the outdoor dish or sits separately inside your home, alongside power draw and dish footprint.",
+          "Starlink Mini puts an integrated Wi-Fi 5 router inside the compact dish and runs on just 25 to 40 W on average. Starlink Standard (V4) connects its larger dish to an indoor Router 3 via a 15 m cable, bringing tri-band Wi-Fi 6 coverage and higher wattage. Where orders also include or offer the compact Router Mini (83.6 × 138 × 27 mm, 112 g, indoor only), that unit adds dual-band Wi-Fi 6 (802.11ax 2×2 MU-MIMO) for up to 204 m², up to 235 devices, and two 1 Gbps Ethernet RJ-45 ports."
+        ],
+        "comparisonTable": {
+          "caption": "Official public hardware specifications published by Starlink for Mini, Router Mini and Standard V4 with Router 3.",
+          "headers": [
+            "Specification",
+            "Starlink Mini",
+            "Starlink Standard (V4 + Router 3)"
+          ],
+          "rows": [
+            [
+              "Dish dimensions",
+              "298.5 × 259 × 38.5 mm",
+              "594 × 383 × 39.7 mm"
+            ],
+            [
+              "Dish weight",
+              "1.10 kg (1.16 kg with kickstand; 1.53 kg with kickstand and 15 m DC cable)",
+              "2.9 kg (3.2 kg with kickstand; 3.8 kg with kickstand and 15 m cable)"
+            ],
+            [
+              "Average power draw",
+              "25 to 40 W (12 to 48 V 60 W input; USB-C PD min. 100 W 20 V/5 A with official cable)",
+              "75 to 100 W (IP66 Type 4 PSU and 1.5 m AC cable included)"
+            ],
+            [
+              "Router and Wi-Fi generation",
+              "Integrated Wi-Fi 5 (802.11ac dual-band 3×3 MU-MIMO); pairs with Router Mini (Wi-Fi 6)",
+              "Separate Router 3 (43.4 × 298.6 × 120.4 mm; 0.57 kg; Wi-Fi 6 tri-band 4×4 MU-MIMO)"
+            ],
+            [
+              "Wi-Fi coverage and devices",
+              "Up to 112 m² and 128 devices (up to 204 m² and 235 with Router Mini)",
+              "Up to 297 m² and 235 devices"
+            ],
+            [
+              "Ethernet LAN ports",
+              "1 locking LAN port with plug (Ethernet cable not included)",
+              "2 locking LAN ports on Router 3 (15 m Starlink cable included)"
+            ],
+            [
+              "Weather rating (IP)",
+              "IP67 Type 4 dish (loses IP67 seal with standard RJ45 cable)",
+              "Dish IP67 Type 4; PSU IP66 Type 4; Router 3 IP56 indoor"
+            ],
+            [
+              "Bypass mode and mesh",
+              "Bypass mode (factory reset needed to exit) and Starlink mesh up to 3 nodes; no 3rd-party mesh",
+              "Bypass mode and Starlink mesh up to 3 nodes; no 3rd-party mesh"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Read full official specs at starlink.com/specifications",
+            "href": "https://www.starlink.com/specifications"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Official Starlink dish and indoor router showing the two-piece Standard architecture",
+          "caption": "External dish paired with an indoor Wi-Fi router. Official Starlink photo.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Wi-Fi in a large home, UPS battery runtime and Ethernet wiring",
+        "paragraphs": [
+          "When the dish sits outside behind concrete or brick walls, bringing a separate Wi-Fi 6 router indoors beats relying solely on a dish-integrated radio.",
+          "Practical rule, untested by us: the Mini's built-in Wi-Fi 5 is rated up to 112 m² and 128 devices, so roof tiles and thick interior walls reduce indoor signal speed in multi-room homes. Standard solves that by running a 15 m cable indoors to the Router 3 (up to 297 m² and 235 devices on tri-band Wi-Fi 6). That is also why current US and UK 100 Mbps orders pair the compact dish with an indoor Router Mini (up to 204 m² and 235 devices), and both kits support Starlink mesh up to 3 nodes (third-party mesh systems are not supported).",
+          "For backup power on a UPS or portable power station, the Mini has a decisive advantage: 25 to 40 W average consumption is less than half the 75 to 100 W drawn by Standard. Our math from the official power ratings: on the same battery capacity, the Mini keeps your internet running over twice as long, and it can run from 12 to 48 V DC or USB-C PD (at least 100 W 20 V/5 A using the official cable).",
+          "If you plan to run Ethernet cables or a Dual-WAN failover router, check the ports before wiring. The Mini has 1 locking Ethernet LAN port and the Ethernet cable is sold separately; using a regular unsealed RJ45 plug voids its IP67 Type 4 weather seal. Standard's indoor Router 3 gives you two protected LAN ports. Both support Bypass mode to pass the connection over Ethernet to your own router or mesh system, though exiting Bypass on the Mini requires a factory reset. For official Starlink mesh (compatible with Router Mini, Router 3, and Gen 2 routers up to 3 nodes; incompatible with third-party mesh), both kits stay within the Starlink ecosystem."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standard kit hardware layout showing dish, Router 3, stand and cables",
+          "caption": "Full Starlink Standard kit with separate router, stand and power cables. Official Starlink photo.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Referral credit after 2 billing cycles and the 30-day return rule",
+        "paragraphs": [
+          "Both Mini and Standard kits qualify for the official referral reward when ordered on starlink.com through the referral link: US$ 100 in the US and £40 in the UK, applied as a bill credit after two paid billing cycles.",
+          "This reward applies as a bill credit after two paid billing cycles (or in cash via Stripe where available) and never reduces the kit price at checkout; on US and UK rental plans, upfront hardware is already $0 or £0, and you only pay shipping today. Kits bought at retail stores, marketplaces or via account transfer do not qualify and cannot be linked retroactively.",
+          "You also have 30 days to test real Wi-Fi reach and sky visibility at home: under the order terms, cancelling the service and returning the undamaged kit within 30 days qualifies for a refund as stated at checkout. Check full referral eligibility on our [Starlink referral page](/en/coupons/starlink) and read our [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund) before ordering."
+        ],
+        "simulator": {
+          "title": "Simulator: upfront cost and when the referral credit lands",
+          "scenarios": [
+            {
+              "label": "100 Mbps Mini / V5 via referral link",
+              "lines": [
+                {
+                  "label": "Rental kit (US V5 + Router Mini / UK Mini)",
+                  "value": "$0 (US) or £0 (UK) rental hardware"
+                },
+                {
+                  "label": "Monthly service price",
+                  "value": "$38.50/mo (US) or £40/mo (UK)"
+                },
+                {
+                  "label": "Referral bill credit via link",
+                  "value": "$100 (US) or £40 (UK) after 2 cycles",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Due at checkout today",
+              "totalValue": "$20 + taxes (US) or £19 (UK); credit arrives after 2 cycles",
+              "note": "Values read from Nevada and London order pages; credit applies to bills after 2 cycles, not kit checkout."
+            },
+            {
+              "label": "200 Mbps / Max Standard via referral link",
+              "lines": [
+                {
+                  "label": "Rental kit (Standard 4 / V4)",
+                  "value": "$0 (US) or £0 (UK) rental hardware"
+                },
+                {
+                  "label": "Monthly service (200 Mbps US / UK)",
+                  "value": "$59.50/mo (US, $0 install) or £60/mo (UK)"
+                },
+                {
+                  "label": "Referral bill credit via link",
+                  "value": "$100 (US) or £40 (UK) after 2 cycles",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Due at checkout today",
+              "totalValue": "$20 + taxes (US) or £19 (UK); credit arrives after 2 cycles",
+              "note": "Return the rented hardware undamaged if you cancel; Max also includes free pro installation in UK."
+            },
+            {
+              "label": "Kit bought outside starlink.com (retail)",
+              "lines": [
+                {
+                  "label": "Retail or marketplace kit",
+                  "value": "Full hardware purchase upfront"
+                },
+                {
+                  "label": "$0 rental or plan promo",
+                  "value": "Unavailable outside official checkout"
+                },
+                {
+                  "label": "Official referral reward",
+                  "value": "$0 (permanently excluded)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Referral credit received",
+              "totalValue": "$0",
+              "note": "Official Starlink referral terms exclude retail stores, third-party marketplaces and transfers."
+            }
+          ]
+        },
+        "links": [
+          {
+            "label": "Open official order with 30-day return window and referral",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Checklist before you pick a kit",
+        "paragraphs": [
+          "Run through these five checks before confirming your order so the hardware matches your home layout and backup goals."
+        ],
+        "checklist": {
+          "title": "5 checks before choosing your kit",
+          "items": [
+            "I checked on starlink.com which kit comes with each speed tier at my address (V5/Mini + Router Mini vs V4/Standard 4) and whether pro installation is free.",
+            "I checked Wi-Fi layout: over 112 m² or thick walls need the Router Mini included in US/UK 100 Mbps orders, Standard's Router 3 (up to 297 m²), or Starlink mesh.",
+            "For UPS or portable battery backup, I compared the Mini's 25 to 40 W average draw against Standard's 75 to 100 W.",
+            "For wired Dual-WAN or Ethernet runs, I noted that Mini has 1 locking port (cable not included, standard RJ45 loses IP67) while Router 3 has 2 ports indoors.",
+            "I started the order from the official referral link before checkout to lock in the credit after 2 cycles and the 30-day rule to cancel and return undamaged."
+          ]
+        }
+      },
+      {
+        "heading": "Verdict: Starlink Mini or Standard?",
+        "paragraphs": [
+          "For power backup on a UPS or solar station, compact roof or balcony installs, or entry-level 100 Mbps service, the Starlink Mini is the most efficient choice. Its 25 to 40 W power draw doubles battery runtime compared to Standard, and US and UK 100 Mbps rental bundles already pair it with an indoor Router Mini to lift Wi-Fi 6 coverage up to 204 m².",
+          "For larger homes with thick walls, heavy multi-device households, or anyone who wants tri-band Wi-Fi 6 up to 297 m² and dual Ethernet ports right out of the box, Starlink Standard (V4 + Router 3) is built for full-home coverage. In both cases, cancelling the service and returning the undamaged kit within 30 days is covered under the order terms if real-world testing falls short."
+        ],
+        "emphasis": "For UPS battery backup and lightweight mounting, Starlink Mini uses less than half the power; for large-home Wi-Fi 6 coverage and wired ports straight out of the box, Standard with Router 3 is the stronger indoor setup."
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is Starlink Mini slower than Standard? Residential speeds are governed mainly by the plan tier you subscribe to (100 Mbps, 200 Mbps or Max) and local capacity. The main hardware gap is indoor Wi-Fi coverage (112 m² Wi-Fi 5 built-in vs 297 m² Wi-Fi 6 tri-band on Router 3) and power draw.",
+          "Can Starlink Mini cover a large house without another router? By itself, the dish's integrated Wi-Fi 5 reaches up to 112 m² and loses strength through roofs and thick walls. US and UK 100 Mbps rental kits include a Router Mini indoors (up to 204 m²), and you can add up to 3 Starlink mesh nodes.",
+          "Which kit uses less power on a UPS or backup battery? Starlink Mini averages 25 to 40 W (and supports 100 W 20 V/5 A USB-C PD with the official cable), whereas Standard averages 75 to 100 W. On the same battery, the Mini runs more than twice as long.",
+          "Can I connect an Ethernet cable and use Bypass mode on both? Yes. Mini has 1 locking Ethernet LAN port (Ethernet cable sold separately; a regular RJ45 cable voids IP67) and Router 3 has 2 locking LAN ports. Both support Bypass mode to pass the connection over Ethernet to your own router or mesh (exiting Bypass on Mini requires a factory reset) and official Starlink mesh (compatible with Router Mini, Router 3, and Gen 2 routers up to 3 nodes; incompatible with third-party mesh).",
+          "Does the referral credit work on both Starlink Mini and Standard? Yes. Ordering either kit directly on starlink.com via the referral link applies the US$ 100 (US) or £40 (UK) bill credit after two paid monthly cycles."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "you want low power draw on a UPS or portable battery, compact mounting, or the entry 100 Mbps rental bundle.",
+        "your home fits within the integrated Wi-Fi coverage or you will place the included Router Mini or a wired router indoors."
+      ],
+      "skipIf": [
+        "you want tri-band Wi-Fi 6 across a large multi-room home and dual wired LAN ports straight from one box.",
+        "your plan selection already bundles Standard 4 with free professional installation and you have reliable grid power."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Written by Bruno Luiz using Starlink's public specs, help center and order pages. We take part in the referral program and may earn a reward via the link.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-contract-cancel-refund"
+      },
+      {
+        "slug": "is-starlink-worth-it"
+      },
+      {
+        "slug": "buy-starlink-official-site-or-retailers"
+      },
+      {
+        "slug": "starlink-residential-100-200-mbps-or-max"
+      }
+    ],
+    "cta": {
+      "text": "The order opens on starlink.com via the referral link, showing the exact kit at your address and keeping the 30-day window to cancel and return undamaged hardware. The US$ 100 (US) or £40 (UK) credit lands after two paid cycles.",
+      "label": "See which kit my address gets on starlink.com",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1422,
+    "slug": "starlink-mini-o-estandar-cual-elegir",
+    "translationKey": "starlink-mini-ou-padrao",
+    "locale": "es",
+    "title": "Starlink Mini (Mini X) o Estándar (Standard 4): router, consumo y cuál elegir",
+    "seoTitle": "Starlink Mini o Estándar: diferencias y cuál elegir",
+    "type": "Guía comparativa",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edición y análisis",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edición y análisis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Compara Starlink Mini (Mini X) y Estándar (Standard 4): router integrado o externo, alcance Wi-Fi, consumo eléctrico, alquiler en España y compra en México.",
+    "metaDescription": "Starlink Mini o Estándar (Standard 4): router, cobertura Wi-Fi, consumo de 25-40 W vs 75-100 W, alquiler en España, compra en México y bono oficial.",
+    "publishedAt": "24 de noviembre de 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-mini-o-estandar-cual-elegir-capa.webp",
+    "imageAlt": "Portada comparativa con panel negro que muestra STARLINK y el título ¿Starlink Mini o Estándar? junto a la foto oficial de la antena Starlink Standard con soporte y su router vertical separado.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Starlink Mini (Mini X) conviene si buscas instalación sencilla, bajo consumo en SAI o batería, portabilidad o, en México, evitar el plazo de 12 meses del Standard 4 X. El kit Estándar (Standard 4) gana en cobertura Wi-Fi y puertos Ethernet. Ambos mantienen el bono oficial en starlink.com; mira cómo aparece cada uno abajo."
+        ],
+        "links": [
+          {
+            "label": "Ver qué kit muestra mi dirección en starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Dónde aparece cada kit hoy en España y México",
+        "paragraphs": [
+          "Según el país, el kit cambia por el plan que eliges o por selección directa en pantalla.",
+          "En España (Madrid), los tres planes van en alquiler de 0 € sin permanencia de 12 meses (19 € de envío hoy; hay que devolver el hardware alquilado si cancelas). El Residencial 100 Mbps (24,50 €/mes, base 35 € con 30 % hasta fin de noviembre) entrega el Mini X; en cambio, el 200 Mbps (31,50 €/mes, base 45 €, instalación opcional de 172 € igual que en 100 Mbps) y el Máx. (45,50 €/mes, base 65 €, instalación profesional a 0 €) entregan el Standard 4.",
+          "En México (Ciudad de México), la pantalla mostró únicamente Residencial Max ($1,485 MXN al mes más $55 MXN de costo del servicio regulatorio) con compra directa y elección entre dos kits: el Kit Starlink Mini sale en $2,303 MXN ($2,999 menos $696; $2,778 MXN hoy con $475 MXN de envío) sin botón de plazo de 12 meses en el resumen, mientras que el Standard 4 X cuesta $5,743 MXN ($7,599 menos $1,856; $6,218 MXN hoy) e incluye un plazo de 12 meses con tarifa de rescisión anticipada de hasta $4,600 MXN."
+        ],
+        "comparisonTable": {
+          "caption": "Pantallas públicas de pedido consultadas el 23/11/2026. Precios y kits varían según la dirección.",
+          "headers": [
+            "Mercado y plan",
+            "Kit en el pedido",
+            "Condición del kit y permanencia",
+            "Cuota mensual"
+          ],
+          "rows": [
+            [
+              "España, Residencial 100 Mbps (Madrid)",
+              "Mini X",
+              "Alquiler 0 €, sin permanencia (devolver al cancelar)",
+              "24,50 € (base 35 €)"
+            ],
+            [
+              "España, 200 Mbps y Máx. (Madrid)",
+              "Standard 4 (instalación 0 € en Máx.)",
+              "Alquiler 0 €, sin permanencia (devolver al cancelar)",
+              "31,50 € (200) / 45,50 € (Máx.)"
+            ],
+            [
+              "México, Residencial Max + Kit Mini (CDMX)",
+              "Kit Starlink Mini",
+              "Compra a $2,303 MXN (sin botón de 12 meses en el resumen)",
+              "$1,485 MXN + $55 MXN reg."
+            ],
+            [
+              "México, Residencial Max + Standard 4 X (CDMX)",
+              "Standard 4 X",
+              "Compra a $5,743 MXN, plazo de 12 meses (hasta $4,600 MXN)",
+              "$1,485 MXN + $55 MXN reg."
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "alt": "Pantalla de pedido de Starlink en Madrid con el plan 100 Mbps a 24,50 € al mes, el alquiler del Mini X a 0 € y el aviso de devolución",
+          "caption": "Pedido en Madrid: el plan de 100 Mbps incluye el Mini X en alquiler a 0 € sin compromiso anual.",
+          "objectFit": "contain",
+          "aspectRatio": 0.622
+        }
+      },
+      {
+        "heading": "Diferencias técnicas oficiales: Mini vs Standard V4 + Router 3",
+        "paragraphs": [
+          "La tienda informa: la diferencia de arquitectura está en integrar el router Wi-Fi dentro de la antena compacta o separarlo en el interior de la vivienda, además del consumo eléctrico.",
+          "Starlink Mini integra Wi-Fi 5 en el plato exterior y consume una media de 25 a 40 W. El kit Standard (V4) conecta la antena exterior por un cable de 15 m al Router 3 interior con Wi-Fi 6 tribanda. Donde esté disponible como accesorio o en malla, el Router Mini opcional (83,6 × 138 × 27 mm, 112 g, uso interior) aporta Wi-Fi 6 Dual Band 2×2 MU-MIMO hasta 204 m², 235 dispositivos y 2 puertos Ethernet RJ-45 de 1 Gbps."
+        ],
+        "comparisonTable": {
+          "caption": "Especificaciones públicas de hardware publicadas por Starlink para Mini, Router Mini y Standard V4 con Router 3.",
+          "headers": [
+            "Especificación",
+            "Starlink Mini (Mini X)",
+            "Starlink Estándar (Standard V4 + Router 3)"
+          ],
+          "rows": [
+            [
+              "Dimensiones de la antena",
+              "298,5 × 259 × 38,5 mm",
+              "594 × 383 × 39,7 mm"
+            ],
+            [
+              "Peso de la antena",
+              "1,10 kg (1,16 kg con soporte; 1,53 kg con soporte y cable CC de 15 m)",
+              "2,9 kg (3,2 kg con soporte; 3,8 kg con soporte y cable de 15 m)"
+            ],
+            [
+              "Consumo medio y energía",
+              "25 a 40 W (12 a 48 V 60 W; USB-C PD mín. 100 W 20 V/5 A con cable oficial)",
+              "75 a 100 W (fuente IP66 Tipo 4 y cable CA de 1,5 m incluidos)"
+            ],
+            [
+              "Router y Wi-Fi",
+              "Wi-Fi 5 integrado (802.11ac Dual Band 3×3 MU-MIMO); admite Router Mini (Wi-Fi 6)",
+              "Router 3 separado (43,4 × 298,6 × 120,4 mm; 0,57 kg; Wi-Fi 6 tribanda 4×4 MU-MIMO)"
+            ],
+            [
+              "Cobertura Wi-Fi y equipos",
+              "Hasta 112 m² y 128 dispositivos (hasta 204 m² y 235 con Router Mini)",
+              "Hasta 297 m² y 235 dispositivos"
+            ],
+            [
+              "Puertos Ethernet LAN",
+              "1 puerto con bloqueo y tapón (cable Ethernet no incluido)",
+              "2 puertos con bloqueo en Router 3 (cable Starlink de 15 m incluido)"
+            ],
+            [
+              "Grado de protección (IP)",
+              "IP67 Tipo 4 en antena (pierde IP67 con cable RJ45 común)",
+              "Antena IP67 Tipo 4; fuente IP66 Tipo 4; Router 3 IP56 interior"
+            ],
+            [
+              "Modo Bypass y Mesh",
+              "Modo Bypass (salir exige reinicio de fábrica) y Mesh Starlink hasta 3 nodos; sin mesh de terceros",
+              "Modo Bypass y Mesh Starlink hasta 3 nodos; sin mesh de terceros"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Consultar especificaciones oficiales en starlink.com/specifications",
+            "href": "https://www.starlink.com/specifications"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antena y router interior oficial de Starlink frente al formato compacto integrado",
+          "caption": "Antena exterior conectada a un router dedicado dentro de casa. Foto oficial de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Señal Wi-Fi en casa grande, SAI (no-break) y red cableada",
+        "paragraphs": [
+          "Si la antena queda en el tejado lejos de las habitaciones o tras muros gruesos, el router separado dentro de la vivienda ofrece una cobertura mucho más sólida.",
+          "Regla práctica, sin prueba nuestra: como el Wi-Fi 5 de la Mini sale desde la propia antena exterior (hasta 112 m² y 128 equipos), los forjados y muros de ladrillo u hormigón reducen la señal al entrar en casa. Con el Standard, el cable de 15 m lleva la conexión directo al Router 3 en el salón (hasta 297 m² y 235 dispositivos en Wi-Fi 6 tribanda). Si eliges la Mini en vivienda grande, conviene añadir un Router Mini interior (hasta 204 m²) o un sistema mesh oficial Starlink de hasta 3 nodos, ya que no admite mallas de terceros.",
+          "Para respaldo eléctrico con SAI, no-break, batería portátil o energía solar, la Mini marca la diferencia: gasta de 25 a 40 W de media frente a 75 a 100 W del Standard. Cuenta nuestra sobre las cifras oficiales: con la misma batería, la Mini mantiene el servicio más del doble de tiempo y además admite alimentación directa de 12 a 48 V o USB-C PD de al menos 100 W (20 V/5 A) con el cable oficial.",
+          "En conexiones por cable o routers Dual-WAN, ten en cuenta las diferencias físicas. La Mini incorpora 1 puerto Ethernet LAN con bloqueo y el cable Ethernet se vende aparte; si colocas un cable RJ45 común sin sellado oficial, pierde la protección IP67 Tipo 4 frente a lluvia y polvo. El Router 3 del kit Standard ya trae dos puertos LAN protegidos dentro de casa. Ambos admiten Modo Bypass para pasar la conexión por cable a un router o sistema propio, aunque en la Mini salir del Bypass exige restablecimiento de fábrica; además, admite mesh oficial Starlink (compatible con Router Mini, Router 3 y router de 2.ª generación, hasta 3 nodos; incompatible con mesh de terceros)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Componentes completos del kit Starlink Standard: antena, Router 3, soporte y cables",
+          "caption": "Kit Starlink Standard con router separado, base y cableado completo. Foto oficial de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Coste con el bono de referido tras 2 ciclos y regla de 30 días",
+        "paragraphs": [
+          "Tanto la antena Mini como el kit Standard conservan el bono oficial cuando el pedido nace en starlink.com desde el enlace de referido: 45 € en España y, como valor de referencia de noviembre en México, MX$ 700 (confirma el importe en tu pantalla de pedido antes de pagar).",
+          "Este crédito entra en la factura después de dos ciclos mensuales completos y al día (o en efectivo mediante Stripe donde esté disponible) y nunca rebaja el precio del hardware en el checkout. Si compras un kit en tienda física, marketplace o por transferencia de cuenta, pierdes el bono por completo y no se puede añadir después.",
+          "Para comprobar si el Wi-Fi o la cobertura del cielo te convencen en casa, aplica la regla de 30 días: cancelar el servicio y devolver el kit sin daños dentro de los 30 días da derecho al reembolso según las condiciones mostradas en tu pedido. Revisa cómo activar el bono en la [página de referido Starlink](/es/coupons/starlink) y consulta las diferencias de contrato en la [guía de permanencia y cancelación](/es/reviews/starlink-permanencia-cancelar)."
+        ],
+        "simulator": {
+          "title": "Simulador: pago en el pedido y cuándo llega el bono",
+          "scenarios": [
+            {
+              "label": "Kit Mini / Mini X por enlace oficial",
+              "lines": [
+                {
+                  "label": "Hardware (ES alquiler / MX compra)",
+                  "value": "0 € (ES) o $2,303 MXN (MX, sin 12 meses)"
+                },
+                {
+                  "label": "Cuota mensual (100 Mbps ES / Max MX)",
+                  "value": "24,50 €/mes (ES) o $1,485+$55 MXN (MX)"
+                },
+                {
+                  "label": "Bono de referido tras 2 ciclos",
+                  "value": "45 € (ES) o MX$ 700 ref. nov. (MX)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "A pagar hoy en el pedido",
+              "totalValue": "19 € envío (ES) o $2,778 MXN (MX); bono tras 2 ciclos",
+              "note": "En México el bono es referencia de noviembre: confirma el importe en tu pantalla de pedido antes de pagar."
+            },
+            {
+              "label": "Kit Standard 4 / 4 X por enlace oficial",
+              "lines": [
+                {
+                  "label": "Hardware (ES 200-Máx. / MX Max)",
+                  "value": "0 € alquiler (ES) o $5,743 MXN 12m (MX)"
+                },
+                {
+                  "label": "Cuota mensual (200 ES / Max MX)",
+                  "value": "31,50 €/mes (ES) o $1,485+$55 MXN (MX)"
+                },
+                {
+                  "label": "Bono de referido tras 2 ciclos",
+                  "value": "45 € (ES) o MX$ 700 ref. nov. (MX)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "A pagar hoy en el pedido",
+              "totalValue": "19 € envío (ES) o $6,218 MXN (MX); bono tras 2 ciclos",
+              "note": "En España devuelves el kit al cancelar; en México el Standard 4 X tiene plazo de 12 meses. En México, frente a la referencia de noviembre de MX$ 700, confirma el importe en tu pantalla de pedido antes de pagar."
+            },
+            {
+              "label": "Kit comprado fuera de starlink.com",
+              "lines": [
+                {
+                  "label": "Compra en tienda o marketplace",
+                  "value": "Hardware pagado íntegro, sin oferta de plan"
+                },
+                {
+                  "label": "Alquiler 0 € o promo de dirección",
+                  "value": "No aplica fuera de starlink.com"
+                },
+                {
+                  "label": "Crédito oficial de referido",
+                  "value": "0 € / $0 MXN (excluido)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Bono recibido en factura",
+              "totalValue": "0 € / $0 MXN",
+              "note": "Las compras en comercios externos o marketplaces no admiten bono de referido."
+            }
+          ]
+        },
+        "links": [
+          {
+            "label": "Abrir pedido oficial con prueba de 30 días y bono",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Lista de revisión antes de elegir el kit",
+        "paragraphs": [
+          "Repasa estos cinco puntos antes de pagar para confirmar que la antena y su router encajan en tu instalación."
+        ],
+        "checklist": {
+          "title": "5 comprobaciones antes de decidir el kit",
+          "items": [
+            "Comprobé en starlink.com qué kit corresponde a cada plan en mi dirección (Mini X o Standard 4 en España; Mini o Standard 4 X en México).",
+            "Medí la vivienda: por encima de 112 m² o con muros gruesos valoré el Router 3 del kit Standard (hasta 297 m²) o un nodo mesh adicional.",
+            "Si usaré SAI, no-break o energía solar, comparé los 25 a 40 W de consumo medio de la Mini frente a 75 a 100 W de la Standard.",
+            "Si conectaré cable de red o router propio, confirmé que la Mini tiene 1 puerto sin cable Ethernet incluido y requiere cable oficial para mantener IP67.",
+            "Abrí el pedido desde el enlace de referido antes de pagar y verifiqué el importe del bono y la regla de 30 días para cancelar y devolver el kit sin daños."
+          ]
+        }
+      },
+      {
+        "heading": "Veredicto: ¿Starlink Mini o Estándar?",
+        "paragraphs": [
+          "Para respaldo eléctrico con SAI o paneles solares, portabilidad, instalaciones sencillas o para evitar en México el compromiso de 12 meses del Standard 4 X, la Starlink Mini (Mini X) es la opción más práctica. Pesa 1,10 kg, consume entre 25 y 40 W y cubre viviendas de hasta 112 m² con facilidad.",
+          "Para casas grandes con varios tabiques, muchos equipos conectados o quien necesita Wi-Fi 6 tribanda hasta 297 m² y dos puertos Ethernet interiores sin añadir equipamiento extra, Starlink Estándar (Standard V4 con Router 3) ofrece mejor cobertura de serie. Recuerda que puedes cancelar el servicio y devolver el equipo sin daños dentro de 30 días conforme a las condiciones de tu pedido."
+        ],
+        "emphasis": "Si priorizas bajo consumo en SAI o evitar un plazo de 12 meses en México, elige la Mini; si buscas cobertura Wi-Fi 6 en casa amplia y dos puertos Ethernet interiores desde la caja, quédate con la Estándar."
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿La Starlink Mini es más lenta que la Estándar? La velocidad máxima depende sobre todo del plan contratado (100 Mbps, 200 Mbps o Máx.) y de la zona, no solo del tamaño de la antena; en México, el Kit Mini funciona con el plan Residencial Max. La gran diferencia está en la cobertura Wi-Fi interior y en el consumo eléctrico.",
+          "¿Funciona la Starlink Mini en una casa grande sin otro router? El Wi-Fi 5 integrado cubre hasta 112 m² desde la propia antena y pierde intensidad tras muros o tejados. Para casas grandes conviene añadir un Router Mini interior (hasta 204 m²) o malla Starlink.",
+          "¿Cuál consume menos electricidad en un SAI o no-break? La Starlink Mini consume una media de 25 a 40 W (y acepta USB-C PD mínimo de 100 W 20 V/5 A con cable oficial), frente a 75 a 100 W del kit Standard, por lo que dura más del doble con la misma batería.",
+          "¿Puedo conectar cable Ethernet y activar Modo Bypass en ambas? Sí. La Mini tiene 1 puerto Ethernet LAN con bloqueo (cable Ethernet vendido aparte; un RJ45 común anula el IP67) y el Router 3 del kit Standard trae 2 puertos. Ambas admiten Modo Bypass para conectar un router o sistema propio por cable (salir en la Mini exige restablecimiento de fábrica) y mesh oficial Starlink (compatible con Router Mini, Router 3 y router de 2.ª generación, hasta 3 nodos; incompatible con mesh de terceros).",
+          "¿El enlace de referido funciona tanto con Mini como con Estándar? Sí. Todo pedido residencial nuevo realizado en starlink.com desde el enlace recibe el crédito de factura tras dos ciclos pagados (45 € en España; confirma en pantalla el importe en México)."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "buscas mínimo consumo en SAI o batería, montaje ligero o evitar el contrato de 12 meses donde aparece ligado al kit grande.",
+        "tu vivienda entra dentro de la cobertura integrada o planeas conectar la Mini por cable o a un nodo mesh compatible."
+      ],
+      "skipIf": [
+        "necesitas cubrir una casa amplia con muros gruesos en Wi-Fi 6 tribanda desde la caja sin añadir otro router.",
+        "necesitas dos puertos Ethernet protegidos en el router incluido desde el primer día."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Redactado por Bruno Luiz con especificaciones públicas, centro de ayuda y pantallas de pedido de Starlink. Participamos en referidos y podemos recibir recompensa.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-permanencia-cancelar"
+      },
+      {
+        "slug": "starlink-vale-la-pena"
+      },
+      {
+        "slug": "comprar-starlink-web-oficial-o-tiendas"
+      },
+      {
+        "slug": "planes-starlink-100-200-mbps-o-max"
+      }
+    ],
+    "cta": {
+      "text": "El pedido se abre en starlink.com desde el enlace de referido oficial, mostrando el kit disponible en tu dirección y manteniendo los 30 días para cancelar y devolver el kit sin daños. El bono llega a tu factura tras dos ciclos pagados.",
+      "label": "Ver qué kit aparece en mi dirección en starlink.com",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1423,
+    "slug": "starlink-mini-ou-standard-quel-kit-choisir",
+    "translationKey": "starlink-mini-ou-padrao",
+    "locale": "fr",
+    "title": "Starlink Mini (Mini X) ou Standard (V4) : routeur, portée Wi-Fi, consommation et quel kit choisir",
+    "seoTitle": "Starlink Mini ou Standard (V4) : quel kit choisir ?",
+    "type": "Guide comparatif",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Édition et analyse",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Édition et analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Comparez Starlink Mini (Mini X) et Standard (V4 + Router 3) : routeur intégré ou séparé, portée Wi-Fi, consommation électrique, location à 0 € et crédit de 45 €.",
+    "metaDescription": "Starlink Mini ou Standard V4 : comparez Wi-Fi 5 vs Wi-Fi 6, 25-40 W vs 75-100 W sur onduleur, location à 0 € selon le forfait et parrainage de 45 €.",
+    "publishedAt": "24 novembre 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-mini-ou-standard-quel-kit-choisir-capa.webp",
+    "imageAlt": "Couverture comparative présentant un panneau noir avec STARLINK et le titre Starlink Mini ou Standard ? à côté de la photo officielle de l'antenne Starlink Standard avec pied et de son routeur vertical.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Starlink Mini (Mini X) convient aux installations simples, à la faible consommation sur onduleur ou batterie et aux petits logements. Le kit Standard (V4 + Router 3) l'emporte sur la portée Wi-Fi 6 et les ports filaires. Les deux kits donnent droit au crédit de parrainage sur starlink.com. Découvrez ci-dessous quel forfait livre chaque antenne."
+        ],
+        "links": [
+          {
+            "label": "Vérifier le kit proposé à mon adresse sur starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Où chaque kit apparaît dans la commande en France",
+        "paragraphs": [
+          "Sur la commande résidentielle en France, vous ne choisissez pas l'antenne isolément : le matériel livré dépend directement du forfait sélectionné.",
+          "Lors de notre consultation pour une adresse à Paris, les trois forfaits utilisent du matériel loué à 0 € (0 € à la commande et 0 € par mois, 19 € de livraison aujourd'hui, sans durée minimale fixe, à renvoyer en cas d'annulation). Le forfait 100 Mbit/s (24,50 €/mois, tarif de base 35 € avec 30 % de remise jusqu'à la fin novembre ; installation pro facultative à 172 €) est livré avec le Mini X.",
+          "En passant au forfait 200 Mbit/s (31,50 €/mois, base 45 €, installation facultative à 172 €) ou au forfait Max (45,50 €/mois, base 65 €, installation pro offerte à 0 €), le matériel bascule automatiquement sur le kit Standard 4. La prime de parrainage de 45 € en France s'applique indifféremment sur les deux matériels."
+        ],
+        "comparisonTable": {
+          "caption": "Pages de commande publiques consultées le 23/11/2026 pour Paris. Les offres peuvent varier selon l'adresse.",
+          "headers": [
+            "Forfait résidentiel (Paris)",
+            "Kit inclus dans la commande",
+            "Tarif matériel et conditions",
+            "Mensualité affichée"
+          ],
+          "rows": [
+            [
+              "100 Mbit/s",
+              "Mini X (installation pro 172 € facultative)",
+              "Location 0 €, sans durée fixe (à renvoyer si résiliation)",
+              "24,50 € (base 35 €)"
+            ],
+            [
+              "200 Mbit/s",
+              "Standard 4 (installation pro 172 € facultative)",
+              "Location 0 €, sans durée fixe (à renvoyer si résiliation)",
+              "31,50 € (base 45 €)"
+            ],
+            [
+              "Max",
+              "Standard 4 (installation pro offerte 0 €)",
+              "Location 0 €, sans durée fixe (à renvoyer si résiliation)",
+              "45,50 € (base 65 €)"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "alt": "Page des forfaits Starlink à Paris montrant le 100 Mbit/s à 24,50 € par mois avec le matériel Mini X loué à 0 €",
+          "caption": "Commande à Paris : le forfait 100 Mbit/s associe le Mini X à la location à 0 € sans engagement de durée.",
+          "objectFit": "contain",
+          "aspectRatio": 0.5909
+        }
+      },
+      {
+        "heading": "Différences techniques officielles : Mini vs Standard V4 + Router 3",
+        "paragraphs": [
+          "La boutique indique : l'écart principal tient à l'emplacement du routeur Wi-Fi (intégré dans l'antenne sur la Mini, séparé à l'intérieur sur la Standard), au gabarit et à la puissance électrique requise.",
+          "Starlink Mini réunit antenne et routeur Wi-Fi 5 dans un boîtier de 1,10 kg pour 25 à 40 W en moyenne. Starlink Standard (V4) déporte un Router 3 tri-bande Wi-Fi 6 à l'intérieur via un câble de 15 m, pour 75 à 100 W. En complément optionnel, le Router Mini (83,6 × 138 × 27 mm, 112 g, usage intérieur uniquement) offre du Wi-Fi 6 Dual Band 2×2 MU-MIMO jusqu'à 204 m², 235 appareils et 2 ports Ethernet RJ-45 1 Gbit/s."
+        ],
+        "comparisonTable": {
+          "caption": "Caractéristiques matérielles officielles publiées par Starlink pour Mini, Router Mini et Standard V4 avec Router 3.",
+          "headers": [
+            "Critère technique",
+            "Starlink Mini (Mini X)",
+            "Starlink Standard (V4 + Router 3)"
+          ],
+          "rows": [
+            [
+              "Dimensions de l'antenne",
+              "298,5 × 259 × 38,5 mm",
+              "594 × 383 × 39,7 mm"
+            ],
+            [
+              "Poids de l'antenne",
+              "1,10 kg (1,16 kg avec pied ; 1,53 kg avec pied et câble CC 15 m)",
+              "2,9 kg (3,2 kg avec pied ; 3,8 kg avec pied et câble 15 m)"
+            ],
+            [
+              "Consommation moyenne",
+              "25 à 40 W (12 à 48 V 60 W ; USB-C PD min. 100 W 20 V/5 A avec câble officiel)",
+              "75 à 100 W (bloc alim IP66 Type 4 et câble secteur 1,5 m inclus)"
+            ],
+            [
+              "Routeur et Wi-Fi",
+              "Wi-Fi 5 intégré (802.11ac Dual Band 3×3 MU-MIMO) ; compatible Router Mini (Wi-Fi 6)",
+              "Router 3 séparé (43,4 × 298,6 × 120,4 mm ; 0,57 kg ; Wi-Fi 6 tri-bande 4×4 MU-MIMO)"
+            ],
+            [
+              "Portée Wi-Fi et appareils",
+              "Jusqu'à 112 m² et 128 appareils (jusqu'à 204 m² et 235 avec Router Mini)",
+              "Jusqu'à 297 m² et 235 appareils"
+            ],
+            [
+              "Ports Ethernet LAN",
+              "1 port verrouillable avec bouchon (câble Ethernet non fourni)",
+              "2 ports verrouillables sur le Router 3 (câble Starlink 15 m fourni)"
+            ],
+            [
+              "Indice de protection (IP)",
+              "IP67 Type 4 sur l'antenne (perdu si câble RJ45 ordinaire utilisé)",
+              "Antenne IP67 Type 4 ; alimentation IP66 Type 4 ; Router 3 IP56 intérieur"
+            ],
+            [
+              "Mode Bypass et Mesh",
+              "Mode Bypass (réinitialisation usine pour en sortir) et Mesh Starlink jusqu'à 3 nœuds ; pas de mesh tiers",
+              "Mode Bypass et Mesh Starlink jusqu'à 3 nœuds ; pas de mesh tiers"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Voir les spécifications officielles sur starlink.com/specifications",
+            "href": "https://www.starlink.com/specifications"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antenne et routeur séparé officiels de Starlink face à la conception compacte intégrée",
+          "caption": "Antenne extérieure reliée à un routeur Wi-Fi dédié placé dans le logement. Photo officielle Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Signal Wi-Fi dans une grande maison, onduleur et réseau filaire",
+        "paragraphs": [
+          "Si l'antenne est posée sur le toit derrière des murs porteurs ou une dalle béton, le routeur intérieur du kit Standard assure une couverture bien plus régulière que le Wi-Fi logé dans la Mini.",
+          "Règle pratique, sans test de notre part : avec le Wi-Fi 5 intégré à la Mini (jusqu'à 112 m² et 128 appareils), le signal doit d'abord traverser la toiture et la façade avant d'atteindre les pièces opposées. Sur la Standard, le câble de 15 m amène la connexion directement au Router 3 au centre du salon (jusqu'à 297 m² et 235 appareils en Wi-Fi 6 tri-bande). Si vous prenez la Mini pour une grande maison, prévoyez d'ajouter un Router Mini en intérieur (jusqu'à 204 m²) ou des nœuds Mesh Starlink (jusqu'à 3 unités ; les systèmes mesh tiers ne sont pas compatibles).",
+          "Sur onduleur ou station d'énergie portable en cas de coupure de courant, la Mini prend nettement l'avantage avec 25 à 40 W en moyenne contre 75 à 100 W pour la Standard. Notre calcul d'après les puissances publiées : à capacité de batterie égale, la Mini tient plus de deux fois plus longtemps, tout en acceptant une alimentation 12 à 48 V CC ou USB-C PD d'au moins 100 W (20 V/5 A) avec le câble officiel.",
+          "Côté câblage Ethernet et routeur Dual-WAN, vérifiez les connecteurs avant d'installer. La Mini possède 1 port Ethernet LAN verrouillable et le câble Ethernet est vendu séparément ; y brancher un câble RJ45 classique retire l'étanchéité IP67 Type 4. Le Router 3 du kit Standard offre deux ports Ethernet protégés à l'abri dans le salon. Les deux modèles acceptent le mode Bypass pour relier votre propre routeur ou système par câble, sachant que sortir du mode Bypass sur la Mini exige une réinitialisation d'usine ; la Mini est compatible avec le mesh officiel Starlink (Router Mini, Router 3 et routeur 2ᵉ génération jusqu'à 3 nœuds, mais incompatible avec les systèmes mesh tiers)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Éléments du kit Starlink Standard : antenne, Router 3, support et câbles",
+          "caption": "Ensemble complet du kit Starlink Standard avec routeur dédié et câblage. Photo officielle Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Coût avec le crédit de parrainage après 2 cycles et règle des 30 jours",
+        "paragraphs": [
+          "Que vous commandiez le forfait 100 Mbit/s avec Mini X ou les forfaits 200 Mbit/s et Max avec Standard 4, le lien de parrainage sur starlink.com attribue 45 € en France après deux cycles mensuels réglés à temps.",
+          "Ce crédit arrive sur votre facture après deux cycles payés (ou en numéraire via Stripe là où l'option est disponible) et ne diminue jamais le prix du kit au moment du paiement. Si vous achetez votre kit auprès d'un revendeur ou sur une place de marché, le bonus de 45 € est définitivement perdu et ne peut pas être rattaché après coup.",
+          "Vous disposez aussi d'un filet de sécurité pour tester la portée Wi-Fi réelle chez vous : selon les conditions de commande, annuler le service et renvoyer le matériel intact dans les 30 jours ouvre droit au remboursement selon les termes affichés. Retrouvez toutes les règles sur notre [page parrainage Starlink](/fr/coupons/starlink) et les modalités de retour dans le [guide engagement et résiliation](/fr/reviews/starlink-engagement-resilier)."
+        ],
+        "simulator": {
+          "title": "Simulateur : montant à la commande et versement du parrainage",
+          "scenarios": [
+            {
+              "label": "100 Mbit/s Mini X via le lien officiel",
+              "lines": [
+                {
+                  "label": "Matériel Mini X en location",
+                  "value": "0 € (à renvoyer en cas d'annulation)"
+                },
+                {
+                  "label": "Mensualité affichée (Paris)",
+                  "value": "24,50 €/mois (base 35 €)"
+                },
+                {
+                  "label": "Crédit de parrainage via le lien",
+                  "value": "45 € en facture après 2 cycles",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "À payer aujourd'hui à la commande",
+              "totalValue": "19 € de livraison ; 45 € crédités après 2 cycles",
+              "note": "Montants relevés sur la page Paris ; le crédit s'impute sur les factures après 2 mois actifs."
+            },
+            {
+              "label": "200 Mbit/s ou Max Standard 4 via le lien",
+              "lines": [
+                {
+                  "label": "Matériel Standard 4 en location",
+                  "value": "0 € (à renvoyer en cas d'annulation)"
+                },
+                {
+                  "label": "Mensualité (200 Mbit/s / Max)",
+                  "value": "31,50 € ou 45,50 €/mois (install. 0 € sur Max)"
+                },
+                {
+                  "label": "Crédit de parrainage via le lien",
+                  "value": "45 € en facture après 2 cycles",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "À payer aujourd'hui à la commande",
+              "totalValue": "19 € de livraison ; 45 € crédités après 2 cycles",
+              "note": "Aucune durée minimale fixe relevée ; le matériel loué doit être renvoyé en cas de résiliation."
+            },
+            {
+              "label": "Kit acheté hors de starlink.com (magasin)",
+              "lines": [
+                {
+                  "label": "Achat en boutique ou marketplace",
+                  "value": "Matériel payé plein tarif, sans location 0 €"
+                },
+                {
+                  "label": "Location à 0 € ou offre d'adresse",
+                  "value": "Indisponible hors site officiel"
+                },
+                {
+                  "label": "Crédit officiel de parrainage",
+                  "value": "0 € (exclu des règles du programme)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Crédit reçu sur facture",
+              "totalValue": "0 €",
+              "note": "Les kits achetés chez des revendeurs ou marketplaces n'ouvrent jamais droit aux 45 €."
+            }
+          ]
+        },
+        "links": [
+          {
+            "label": "Ouvrir la commande officielle avec essai 30 jours et 45 €",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Liste de contrôle avant de choisir votre kit",
+        "paragraphs": [
+          "Passez en revue ces cinq vérifications avant de valider votre forfait afin d'éviter toute mauvaise surprise sur la portée Wi-Fi ou l'alimentation."
+        ],
+        "checklist": {
+          "title": "5 vérifications avant de choisir votre kit",
+          "items": [
+            "J'ai vérifié sur starlink.com quel matériel correspond à mon forfait (Mini X sur 100 Mbit/s, Standard 4 sur 200 Mbit/s et Max).",
+            "J'ai évalué mon logement : au-delà de 112 m² ou avec des murs épais, j'ai privilégié le Router 3 du Standard (297 m²) ou prévu un routeur interne.",
+            "En cas d'utilisation sur onduleur ou batterie portable, j'ai comparé 25 à 40 W (Mini) contre 75 à 100 W (Standard).",
+            "Pour le câblage Ethernet, j'ai noté que la Mini a 1 port sans câble fourni (un RJ45 ordinaire annule l'IP67) contre 2 ports intérieurs sur le Router 3.",
+            "J'ai ouvert la commande depuis le lien officiel de parrainage avant de payer pour garantir les 45 € après 2 cycles et les 30 jours de retour sans dommage."
+          ]
+        }
+      },
+      {
+        "heading": "Verdict : Starlink Mini ou Standard ?",
+        "paragraphs": [
+          "Pour une connexion de secours sur onduleur ou installation solaire, une pose légère sur balcon ou si le forfait 100 Mbit/s suffit à votre foyer, le kit Starlink Mini (Mini X) offre la meilleure efficacité énergétique (25 à 40 W pour 1,10 kg) et une location à 0 € sans engagement.",
+          "Pour une grande maison avec murs épais, de nombreux appareils connectés ou un besoin immédiat de Wi-Fi 6 tri-bande jusqu'à 297 m² avec deux ports Ethernet abrités à l'intérieur, le kit Standard (Standard 4 avec Router 3) associé aux forfaits 200 Mbit/s ou Max répond plus sereinement sans équipement supplémentaire. Dans les deux cas, vous pouvez annuler le service et renvoyer le kit en bon état sous 30 jours selon les modalités de la commande."
+        ],
+        "emphasis": "Pour économiser la batterie d'un onduleur ou démarrer simplement sur le forfait 100 Mbit/s, la Mini reste idéale ; pour couvrir toute une grande maison en Wi-Fi 6 et câbler deux appareils dès le déballage, le Standard avec Router 3 prend l'avantage."
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Starlink Mini est-elle plus lente que la Standard ? Les débits résidentiels dépendent d'abord du forfait choisi (100 Mbit/s, 200 Mbit/s ou Max) et de la zone. La différence majeure entre les deux kits porte sur la couverture Wi-Fi intérieure (112 m² Wi-Fi 5 contre 297 m² Wi-Fi 6) et la consommation électrique.",
+          "Starlink Mini suffit-elle dans une grande maison sans autre routeur ? Au-delà de 112 m² ou derrière des murs épais, le signal du Wi-Fi intégré faiblit. Il est alors conseillé d'ajouter un Router Mini en intérieur (jusqu'à 204 m²) ou un répéteur Mesh Starlink.",
+          "Quel kit consomme le moins sur un onduleur lors d'une coupure ? Starlink Mini consomme en moyenne 25 à 40 W (et accepte l'USB-C PD 100 W 20 V/5 A avec câble officiel), contre 75 à 100 W pour la Standard, soit plus du double d'autonomie sur la même batterie.",
+          "Peut-on brancher un câble Ethernet et activer le mode Bypass sur les deux ? Oui. La Mini intègre 1 port Ethernet LAN verrouillable (câble Ethernet vendu séparément ; un RJ45 standard fait perdre l'IP67) et le Router 3 offre 2 ports. Les deux acceptent le mode Bypass pour relier votre propre routeur ou système par câble (sortir du Bypass sur la Mini exige une réinitialisation d'usine) ainsi que le mesh officiel Starlink (compatible avec Router Mini, Router 3 et routeur 2ᵉ génération jusqu'à 3 nœuds ; incompatible avec le mesh tiers).",
+          "Le lien de parrainage de 45 € fonctionne-t-il sur Mini et Standard ? Oui. Toute nouvelle souscription résidentielle passée directement sur starlink.com via le lien officiel reçoit 45 € en crédit sur facture après deux cycles payés, quel que soit le kit associé au forfait."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "vous cherchez une faible consommation sur onduleur ou batterie, une antenne légère ou le forfait d'entrée à 100 Mbit/s.",
+        "votre logement tient dans la couverture intégrée de la Mini ou vous prévoyez d'y relier un routeur intérieur compatible."
+      ],
+      "skipIf": [
+        "vous devez couvrir une grande maison cloisonnée en Wi-Fi 6 tri-bande sans ajouter de routeur supplémentaire.",
+        "vous avez besoin de deux ports Ethernet protégés à l'intérieur dès le premier jour."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Rédigé par Bruno Luiz d'après les spécifications publiques, l'aide et les pages de commande Starlink. Nous participons au parrainage et pouvons recevoir une récompense.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-engagement-resilier"
+      },
+      {
+        "slug": "starlink-vaut-il-le-coup"
+      },
+      {
+        "slug": "acheter-starlink-site-officiel-ou-revendeurs"
+      },
+      {
+        "slug": "forfaits-starlink-100-200-mbps-ou-max"
+      }
+    ],
+    "cta": {
+      "text": "La commande s'ouvre sur starlink.com via le lien officiel de parrainage, en affichant le kit prévu à votre adresse et les 30 jours pour annuler et renvoyer le matériel intact. Les 45 € arrivent en facture après deux cycles payés.",
+      "label": "Voir quel kit correspond à mon adresse sur starlink.com",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1424,
+    "slug": "starlink-mini-oder-standard-vergleich",
+    "translationKey": "starlink-mini-ou-padrao",
+    "locale": "de",
+    "title": "Starlink Mini (Mini X) oder Standard (V4): Router, WLAN-Reichweite, Stromverbrauch im Vergleich",
+    "seoTitle": "Starlink Mini oder Standard (V4): Vergleich",
+    "type": "Vergleich",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redaktion und Analyse",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redaktion und Analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Starlink Mini (Mini X) vs. Standard (V4 + Router 3): integrierter oder separater Router, WLAN-Reichweite, Watt-Verbrauch, 0-€-Miete je Tarif und 45-€-Empfehlung.",
+    "metaDescription": "Starlink Mini oder Standard V4: WLAN-Reichweite, 25-40 W vs. 75-100 W Stromverbrauch, Mietmodell nach Tarif in Deutschland und 45 € Gutschrift.",
+    "publishedAt": "24. November 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-mini-oder-standard-vergleich-capa.webp",
+    "imageAlt": "Vergleichs-Cover mit schwarzem Panel samt STARLINK und dem Titel Starlink Mini oder Standard? neben dem offiziellen Foto der Starlink-Standard-Antenne mit Ständer und kompaktem Router.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Schnelle Antwort",
+        "paragraphs": [
+          "Starlink Mini (Mini X) passt am besten zu einfacher Montage, geringem Stromverbrauch an USV oder Akku und kleineren Wohnflächen. Das Standard-Kit (V4 + Router 3) punktet bei WLAN-6-Reichweite und zwei LAN-Anschlüssen im Haus. Beide Kits berechtigen über den Empfehlungslink zur offiziellen Rechnungsgutschrift auf starlink.com; unten sehen Sie, welcher Tarif welches Kit liefert."
+        ],
+        "links": [
+          {
+            "label": "Prüfen, welches Kit meine Adresse auf starlink.com erhält",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Welches Kit bei der Bestellung in Deutschland erscheint",
+        "paragraphs": [
+          "Auf der deutschen Bestellseite wählen Sie nicht die Antenne einzeln aus, sondern das Miet-Kit richtet sich nach dem gewählten Tarif.",
+          "In unserer Abfrage für Berlin laufen alle drei Wohnkunden-Tarife als Miete für 0 € im Monat (19 € Versand heute; Vertrag automatisch von Monat zu Monat auf unbestimmte Zeit, Kündigung gebührenfrei, gemietete Hardware muss bei Kündigung zurück). Wer 100 Mbit/s wählt (17,50 €/Monat in den ersten 3 Monaten, danach 35 €; Montage 172 € optional), bekommt das Mini X.",
+          "Beim Tarif mit 200 Mbit/s (27,50 €/Monat für 3 Monate, danach 55 €; Montage 172 € optional) sowie bei Max (37,50 €/Monat für 3 Monate, danach 75 €; Montage 0 €) wechselt die Miet-Hardware automatisch auf das größere Standard 4."
+        ],
+        "comparisonTable": {
+          "caption": "Öffentliche Bestellseiten vom 23.11.2026 für Berlin. Verfügbarkeit und Konditionen richten sich nach Ihrer Adresse.",
+          "headers": [
+            "Tarif (Berlin)",
+            "Enthaltenes Kit",
+            "Hardware-Modell und Laufzeit",
+            "Monatspreis (3 Monate / regulär)"
+          ],
+          "rows": [
+            [
+              "100 Mbit/s",
+              "Mini X (Montage 172 € optional)",
+              "0 € Miete, monatlich gebührenfrei kündbar (Rückgabe bei Ausstieg)",
+              "17,50 € / danach 35 €"
+            ],
+            [
+              "200 Mbit/s",
+              "Standard 4 (Montage 172 € optional)",
+              "0 € Miete, monatlich gebührenfrei kündbar (Rückgabe bei Ausstieg)",
+              "27,50 € / danach 55 €"
+            ],
+            [
+              "Max",
+              "Standard 4 (Montage 0 € inklusive)",
+              "0 € Miete, monatlich gebührenfrei kündbar (Rückgabe bei Ausstieg)",
+              "37,50 € / danach 75 €"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "alt": "Starlink-Bestellseite für Berlin mit 100 Mbit/s zu 17,50 € im Monat und dem Mini X zur Miete für 0 €",
+          "caption": "Bestellansicht für Berlin: Im Tarif 100 Mbit/s wird das Mini X als 0-€-Mietkit bereitgestellt.",
+          "objectFit": "contain",
+          "aspectRatio": 0.5909
+        }
+      },
+      {
+        "heading": "Offizielle technische Unterschiede: Mini vs. Standard V4 + Router 3",
+        "paragraphs": [
+          "Laut Herstellerseite liegt der architektonische Unterschied darin, ob der Router direkt in der Außenantenne sitzt oder über ein 15-m-Kabel getrennt im Haus steht.",
+          "Die Starlink Mini integriert Wi-Fi 5 direkt in die kompakte Schüssel und begnügt sich mit durchschnittlich 25 bis 40 W. Starlink Standard (V4) schickt das Signal per 15-m-Kabel an den separaten Router 3 mit Tri-Band-Wi-Fi 6 im Wohnraum und benötigt 75 bis 100 W. Als separates Zubehör erweitert zudem der Router Mini (83,6 × 138 × 27 mm, 112 g, nur Innenbereich) Netze um Dual-Band-Wi-Fi 6 (2×2 MU-MIMO) bis 204 m², 235 Geräte und zwei 1-Gbit/s-RJ45-Ports."
+        ],
+        "comparisonTable": {
+          "caption": "Offizielle Hardware-Spezifikationen von Starlink für Mini, Router Mini und Standard V4 mit Router 3.",
+          "headers": [
+            "Technisches Merkmal",
+            "Starlink Mini (Mini X)",
+            "Starlink Standard (V4 + Router 3)"
+          ],
+          "rows": [
+            [
+              "Abmessungen der Antenne",
+              "298,5 × 259 × 38,5 mm",
+              "594 × 383 × 39,7 mm"
+            ],
+            [
+              "Gewicht der Antenne",
+              "1,10 kg (1,16 kg mit Ständer; 1,53 kg mit Ständer und 15-m-DC-Kabel)",
+              "2,9 kg (3,2 kg mit Ständer; 3,8 kg mit Ständer und 15-m-Kabel)"
+            ],
+            [
+              "Durchschnittlicher Stromverbrauch",
+              "25 bis 40 W (12 bis 48 V 60 W; USB-C PD min. 100 W 20 V/5 A mit Originalkabel)",
+              "75 bis 100 W (Netzteil IP66 Typ 4 und 1,5-m-AC-Kabel inklusive)"
+            ],
+            [
+              "Router und WLAN-Standard",
+              "Integriertes Wi-Fi 5 (802.11ac Dual-Band 3×3 MU-MIMO); Router Mini optional (Wi-Fi 6)",
+              "Separater Router 3 (43,4 × 298,6 × 120,4 mm; 0,57 kg; Wi-Fi 6 Tri-Band 4×4 MU-MIMO)"
+            ],
+            [
+              "WLAN-Abdeckung und Geräte",
+              "Bis 112 m² und 128 Geräte (bis 204 m² und 235 mit Router Mini)",
+              "Bis 297 m² und 235 Geräte"
+            ],
+            [
+              "Ethernet-LAN-Anschlüsse",
+              "1 verriegelbarer LAN-Port mit Stecker (Ethernet-Kabel nicht enthalten)",
+              "2 verriegelbare LAN-Ports am Router 3 (15-m-Starlink-Kabel enthalten)"
+            ],
+            [
+              "Schutzart (IP)",
+              "IP67 Typ 4 an der Antenne (Schutz entfällt bei normalem RJ45-Kabel)",
+              "Antenne IP67 Typ 4; Netzteil IP66 Typ 4; Router 3 IP56 innen"
+            ],
+            [
+              "Bypass-Modus und Mesh",
+              "Bypass-Modus (Beenden nur per Werksreset) und Starlink-Mesh bis 3 Knoten; kein Drittanbieter-Mesh",
+              "Bypass-Modus und Starlink-Mesh bis 3 Knoten; kein Drittanbieter-Mesh"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Offizielle Spezifikationen auf starlink.com/specifications ansehen",
+            "href": "https://www.starlink.com/specifications"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Offizielle Starlink-Antenne mit separatem Innenraum-Router im Vergleich zur kompakten All-in-one-Antenne",
+          "caption": "Außenantenne in Verbindung mit einem separaten WLAN-Router im Haus. Offizielles Starlink-Foto.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "WLAN im großen Haus, USV-Laufzeit und LAN-Verkabelung",
+        "paragraphs": [
+          "Wenn die Antenne auf dem Dach hinter dicken Ziegel- oder Betonwänden sitzt, verteilt der getrennte Router im Wohnzimmer das Signal deutlich verlässlicher als die integrierte Antennen-Einheit.",
+          "Faustregel ohne eigenen Praxistest: Da das Wi-Fi 5 der Mini bis 112 m² direkt vom Außenmodul abstrahlt, dämpfen Dachziegel und Massivwände die Reichweite auf dem Weg in entfernte Räume. Beim Standard-Kit führt das 15-m-Kabel bis in den Wohnbereich, wo der Router 3 Tri-Band-Wi-Fi 6 für bis zu 297 m² und 235 Geräte bereitstellt. Wer bei der Mini mehr Innenraum-Abdeckung braucht, kombiniert sie mit einem Router Mini (bis 204 m²) oder bis zu 3 Starlink-Mesh-Knoten, da fremde Mesh-Systeme nicht unterstützt werden.",
+          "Bei Stromausfall über eine USV oder mobile Powerstation spielt die Mini ihre Stärke aus: 25 bis 40 W durchschnittlicher Bedarf sind weniger als die Hälfte der 75 bis 100 W des Standard-Kits. Unsere Rechnung aus den Herstellerwerten: Am gleichen Akku bleibt das Internet mit der Mini mehr als doppelt so lange online, und mit dem offiziellen USB-C-Kabel reicht eine Powerbank oder ein Netzteil mit mindestens 100 W PD (20 V/5 A) sowie 12 bis 48 V Gleichstrom.",
+          "Für LAN-Kabel oder einen eigenen Dual-WAN-Router zählen die Anschlüsse: Die Mini besitzt 1 verriegelbaren Ethernet-LAN-Port (Ethernet-Kabel separat erhältlich); ein normales RJ45-Kabel hebt die IP67-Wetterabdichtung auf. Der Router 3 des Standard-Kits bietet geschützt im Haus zwei verriegelbare LAN-Buchsen. Beide unterstützen den Bypass-Modus zur Kabelweitergabe an einen eigenen Router, wobei bei der Mini zum Beenden ein Zurücksetzen auf Werkseinstellungen nötig ist; zudem unterstützt sie offizielles Starlink-Mesh (kompatibel mit Router Mini, Router 3 und Router der 2. Generation bis zu 3 Knoten; kein Drittanbieter-Mesh)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Lieferumfang des Starlink-Standard-Kits mit Antenne, Router 3, Standfuß und Kabeln",
+          "caption": "Vollständiges Starlink-Standard-Kit mit separatem Router, Fuß und Kabelsatz. Offizielles Starlink-Foto.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Kosten mit 45 € Empfehlung nach 2 Zyklen und 30-Tage-Regel",
+        "paragraphs": [
+          "Sowohl beim 100-Mbit/s-Tarif mit Mini X als auch bei 200 Mbit/s und Max mit Standard 4 erhalten Sie über den Empfehlungslink auf starlink.com in Deutschland 45 € Gutschrift nach zwei bezahlten Abrechnungszyklen.",
+          "Dieser Betrag erscheint nach zwei bezahlten Abrechnungszyklen als Rechnungsgutschrift (oder per Stripe in bar, sofern verfügbar) und senkt niemals den Kit-Preis beim Bestellen. Wer ein Kit im Einzelhandel, auf einem Marktplatz oder über eine Kontoübertragung kauft, verzichtet vollständig auf die 45 € und kann den Bonus nachträglich nicht mehr einbuchen lassen.",
+          "Gleichzeitig bleibt das Risiko beim Testen der WLAN-Reichweite zu Hause überschaubar: Nach den Bestellbedingungen lösen die Kündigung des Dienstes und die unbeschädigte Rückgabe des Kits innerhalb von 30 Tagen die Erstattung gemäß Bestellseite aus. Alle Details stehen auf unserer [Starlink-Empfehlungsseite](/de/coupons/starlink) sowie im [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen)."
+        ],
+        "simulator": {
+          "title": "Simulator: Zahlung heute und Gutschrift nach 2 Zyklen",
+          "scenarios": [
+            {
+              "label": "100 Mbit/s mit Mini X über den Link",
+              "lines": [
+                {
+                  "label": "Mietkit Mini X",
+                  "value": "0 € (Rückgabe bei Kündigung)"
+                },
+                {
+                  "label": "Monatspreis (Berlin, 3 Monate / danach)",
+                  "value": "17,50 €/Monat, dann 35 €/Monat"
+                },
+                {
+                  "label": "Empfehlungsgutschrift über den Link",
+                  "value": "45 € auf der Rechnung nach 2 Zyklen",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Heute bei Bestellung fällig",
+              "totalValue": "19 € Versand; 45 € Gutschrift nach 2 Zyklen",
+              "note": "Werte der Bestellseite Berlin; der Bonus wird auf spätere Rechnungen angerechnet."
+            },
+            {
+              "label": "200 Mbit/s oder Max mit Standard 4 über den Link",
+              "lines": [
+                {
+                  "label": "Mietkit Standard 4",
+                  "value": "0 € (Rückgabe bei Kündigung)"
+                },
+                {
+                  "label": "Monatspreis (200 Mbit/s / Max, 3 Mon.)",
+                  "value": "27,50 € oder 37,50 €/Monat (danach 55 / 75 €)"
+                },
+                {
+                  "label": "Empfehlungsgutschrift über den Link",
+                  "value": "45 € auf der Rechnung nach 2 Zyklen",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Heute bei Bestellung fällig",
+              "totalValue": "19 € Versand; 45 € Gutschrift nach 2 Zyklen",
+              "note": "Vertrag von Monat zu Monat gebührenfrei kündbar; Montage bei Max inklusive (0 €)."
+            },
+            {
+              "label": "Kauf außerhalb von starlink.com (Handel)",
+              "lines": [
+                {
+                  "label": "Einzelhandel oder Marktplatz",
+                  "value": "Voller Kaufpreis, keine 0-€-Miete"
+                },
+                {
+                  "label": "Tarifrabatt oder 0-€-Miete",
+                  "value": "Außerhalb von starlink.com nicht verfügbar"
+                },
+                {
+                  "label": "Offizielle Empfehlungsgutschrift",
+                  "value": "0 € (ausgeschlossen)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Erhaltene Rechnungsgutschrift",
+              "totalValue": "0 €",
+              "note": "Käufe über Händler oder Marktplätze sind vom Empfehlungsprogramm ausgeschlossen."
+            }
+          ]
+        },
+        "links": [
+          {
+            "label": "Offizielle Bestellung mit 30-Tage-Test und 45 € öffnen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Checkliste vor der Auswahl des Kits",
+        "paragraphs": [
+          "Gehen Sie diese fünf Punkte durch, bevor Sie einen Tarif festlegen, damit Antenne und Router zu Ihrem Gebäude passen."
+        ],
+        "checklist": {
+          "title": "5 Punkte vor der Kit-Wahl",
+          "items": [
+            "Ich habe auf starlink.com geprüft, welches Mietkit zu meinem Tarif gehört (Mini X bei 100 Mbit/s, Standard 4 bei 200 Mbit/s und Max).",
+            "Ich habe die Wohnfläche geprüft: Über 112 m² oder bei dicken Wänden passt der Router 3 des Standard-Kits (bis 297 m²) besser.",
+            "Für USV, Powerstation oder Solar habe ich 25 bis 40 W (Mini) mit 75 bis 100 W (Standard) verglichen.",
+            "Für LAN-Kabel habe ich beachtet, dass die Mini 1 Port ohne mitgeliefertes Kabel hat (normales RJ45 hebt IP67 auf), Router 3 jedoch 2 Ports innen.",
+            "Ich habe die Bestellung vor der Zahlung über den offiziellen Empfehlungslink gestartet, um 45 € nach 2 Zyklen sowie 30 Tage Kündigungs- und Rückgaberecht zu sichern."
+          ]
+        }
+      },
+      {
+        "heading": "Fazit: Starlink Mini oder Standard?",
+        "paragraphs": [
+          "Für Notstrom an USV oder Akku, kompakte Montage auf Balkon oder Reisemobil oder den günstigeren Einstieg mit 100 Mbit/s ist Starlink Mini (Mini X) die vernünftigste Wahl. Mit 1,10 kg und 25 bis 40 W spart sie Strom und deckt kleinere Haushalte bis 112 m² unkompliziert ab.",
+          "Für größere Häuser mit dicken Wänden, viele gleichzeitige Endgeräte oder wenn Sie direkt Wi-Fi 6 Tri-Band bis 297 m² samt zwei LAN-Buchsen im Haus benötigen, liefert das Standard-Kit (Standard 4 mit Router 3) in den Tarifen 200 Mbit/s und Max das rundere Heimnetz. Reicht das WLAN wider Erwarten nicht, gelten 30 Tage zur Kündigung und unbeschädigten Rückgabe gemäß Bestellbedingungen."
+        ],
+        "emphasis": "Für USV-Backup und sparsame 25 bis 40 W gewinnt die Starlink Mini deutlich; für große Häuser mit starkem Tri-Band-Wi-Fi 6 und zwei LAN-Ports direkt aus der Box liegt das Standard-Kit mit Router 3 vorn."
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Ist Starlink Mini langsamer als das Standard-Kit? Die Geschwindigkeit hängt in erster Linie vom gewählten Tarif (100 Mbit/s, 200 Mbit/s oder Max) und der regionalen Auslastung ab. Der praktische Unterschied zwischen den Kits liegt bei der WLAN-Reichweite (112 m² Wi-Fi 5 vs. 297 m² Wi-Fi 6) und beim Stromverbrauch.",
+          "Reicht Starlink Mini in einem großen Haus ohne weiteren Router? Die integrierte Wi-Fi-5-Einheit deckt bis zu 112 m² ab und verliert durch Dach und Massivwände an Stärke. Für größere Häuser empfiehlt sich der zusätzliche Router Mini (bis 204 m²) oder Starlink-Mesh.",
+          "Welches Kit braucht weniger Strom an einer USV bei Stromausfall? Starlink Mini benötigt im Schnitt 25 bis 40 W (und läuft per offiziellem Kabel auch an 100 W USB-C PD 20 V/5 A), während Standard 75 bis 100 W zieht. Am gleichen Akku hält die Mini mehr als doppelt so lange.",
+          "Kann man bei beiden ein LAN-Kabel anschließen und den Bypass-Modus nutzen? Ja. Die Mini hat 1 verriegelbaren Ethernet-LAN-Port (Ethernet-Kabel separat erhältlich; ein normales RJ45-Kabel hebt IP67 auf) und der Router 3 hat 2 Ports. Beide unterstützen den Bypass-Modus zur Kabelweitergabe an einen eigenen Router (bei der Mini ist zum Beenden ein Werksreset nötig) sowie offizielles Starlink-Mesh (kompatibel mit Router Mini, Router 3 und Router der 2. Generation bis zu 3 Knoten; kein Drittanbieter-Mesh).",
+          "Gilt der 45-€-Empfehlungslink für Mini und Standard? Ja. Sowohl Bestellungen mit Mini X (100 Mbit/s) als auch mit Standard 4 (200 Mbit/s und Max) direkt auf starlink.com über den Empfehlungslink erhalten nach zwei bezahlten Zyklen 45 € Gutschrift auf der Rechnung."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie geringen Stromverbrauch an USV oder Akku, kompakte Abmessungen oder den günstigen Einstieg mit 100 Mbit/s suchen.",
+        "Ihre Wohnfläche bis 112 m² reicht oder Sie ohnehin einen zusätzlichen Innenraum-Router oder ein Netzwerkkabel einbinden."
+      ],
+      "skipIf": [
+        "Sie ein großes Haus mit vielen Wänden direkt ab Werk mit Tri-Band-Wi-Fi 6 bis 297 m² versorgen wollen.",
+        "Sie von Anfang an zwei geschützte Ethernet-Ports am mitgelieferten Router im Wohnraum benötigen."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Erstellt von Bruno Luiz anhand öffentlicher Starlink-Spezifikationen, Hilfeseiten und Bestellseiten. Bei Bestellung über den Empfehlungslink erhalten wir ggf. eine Prämie.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-vertrag-kuendigen"
+      },
+      {
+        "slug": "lohnt-sich-starlink"
+      },
+      {
+        "slug": "starlink-offizielle-seite-oder-haendler"
+      },
+      {
+        "slug": "starlink-tarife-100-200-mbits-oder-max"
+      }
+    ],
+    "cta": {
+      "text": "Die Bestellung öffnet sich über den offiziellen Empfehlungslink auf starlink.com, zeigt das passende Kit für Ihre Adresse und wahrt die 30 Tage zur Kündigung und unbeschädigten Rückgabe. Die 45 € Gutschrift folgen nach zwei bezahlten Zyklen.",
+      "label": "Passendes Kit für meine Adresse auf starlink.com prüfen",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1425,
+    "slug": "starlink-mini-o-standard-quale-scegliere",
+    "translationKey": "starlink-mini-ou-padrao",
+    "locale": "it",
+    "title": "Starlink Mini (Mini X) o Standard (V4): router, copertura Wi-Fi, consumi e quale scegliere",
+    "seoTitle": "Starlink Mini o Standard (V4): quale scegliere?",
+    "type": "Guida comparativa",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redazione e analisi",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redazione e analisi",
+        "initials": "BL"
+      }
+    ],
+    "description": "Confronta Starlink Mini (Mini X) e Standard (V4 + Router 3): router integrato o esterno, portata Wi-Fi, consumi in watt, noleggio a 0 € e credito invito da 45 €.",
+    "metaDescription": "Starlink Mini o Standard V4: confronta Wi-Fi 5 e Wi-Fi 6, consumi 25-40 W vs 75-100 W su gruppo di continuità, noleggio 0 € e credito da 45 €.",
+    "publishedAt": "24 novembre 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-mini-o-standard-quale-scegliere-capa.webp",
+    "imageAlt": "Copertina comparativa con pannello nero con STARLINK e il titolo Starlink Mini o Standard? accanto alla foto ufficiale dell'antenna Starlink Standard con supporto e router verticale separato.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Starlink Mini (Mini X) è la scelta migliore per installazioni semplici, bassi consumi su gruppo di continuità o batteria e spazi ridotti. Lo Standard (V4 + Router 3) vince per portata Wi-Fi 6 e porte cablate interne. Entrambi danno diritto al credito invito ufficiale su starlink.com; vedi sotto quale piano assegna ciascun kit."
+        ],
+        "links": [
+          {
+            "label": "Verifica quale kit compare al mio indirizzo su starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Dove compare ciascun kit nell'ordine in Italia",
+        "paragraphs": [
+          "Nella pagina d'ordine residenziale in Italia il kit non viene selezionato a parte: cambia automaticamente in base alla fascia di velocità scelta.",
+          "Nella verifica per Milano, tutti e tre i piani usano hardware a noleggio a 0 € (0 € iniziali e 0 € al mese, spedizione 19 € oggi, «Nessun contratto, prova di 30 giorni», da restituire in caso di disdetta). Scegliendo il piano da 100 Mbps (17,50 €/mese per 3 mesi fino a fine novembre, poi 35 €; installazione professionale opzionale 172 €) l'ordine abbina il kit Mini X.",
+          "Passando a 200 Mbps (22,50 €/mese per 3 mesi, poi 45 €; installazione opzionale 172 €) o al piano Max (32,50 €/mese per 3 mesi, poi 65 €; installazione professionale gratuita a 0 €), il kit incluso diventa automaticamente lo Standard 4."
+        ],
+        "comparisonTable": {
+          "caption": "Pagine d'ordine pubbliche consultate il 23/11/2026 per Milano. Prezzi e kit possono variare in base all'indirizzo.",
+          "headers": [
+            "Piano residenziale (Milano)",
+            "Kit incluso nell'ordine",
+            "Formula hardware e vincolo",
+            "Canone mensile (primi 3 mesi / poi)"
+          ],
+          "rows": [
+            [
+              "100 Mbps",
+              "Mini X (installazione 172 € facoltativa)",
+              "Noleggio 0 €, nessun contratto (da restituire se disdici)",
+              "17,50 € / poi 35 €"
+            ],
+            [
+              "200 Mbps",
+              "Standard 4 (installazione 172 € facoltativa)",
+              "Noleggio 0 €, nessun contratto (da restituire se disdici)",
+              "22,50 € / poi 45 €"
+            ],
+            [
+              "Max",
+              "Standard 4 (installazione inclusa 0 €)",
+              "Noleggio 0 €, nessun contratto (da restituire se disdici)",
+              "32,50 € / poi 65 €"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "alt": "Pagina dei piani Starlink a Milano con il piano 100 Mbps a 17,50 € al mese e il kit Mini X a noleggio a 0 €",
+          "caption": "Schermata di Milano: il piano 100 Mbps include il Mini X a noleggio 0 € senza vincoli contrattuali.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6065
+        }
+      },
+      {
+        "heading": "Differenze tecniche ufficiali: Mini vs Standard V4 + Router 3",
+        "paragraphs": [
+          "Il sito ufficiale segnala che il vero divario sta tra integrare il router Wi-Fi dentro l'antenna esterna o portarlo all'interno dell'abitazione, oltre ai consumi elettrici.",
+          "Starlink Mini integra il Wi-Fi 5 direttamente nel piatto compatto da 1,10 kg e richiede in media da 25 a 40 W. Starlink Standard (V4) collega invece l'antenna al Router 3 interno tramite un cavo da 15 m, portando il Wi-Fi 6 tri-band dentro casa con un consumo da 75 a 100 W. Come accessorio opzionale da interno esiste anche il Router Mini (83,6 × 138 × 27 mm, 112 g), dotato di Wi-Fi 6 Dual Band 2×2 MU-MIMO fino a 204 m², 235 dispositivi e 2 porte Ethernet RJ-45 da 1 Gbps."
+        ],
+        "comparisonTable": {
+          "caption": "Specifiche pubbliche ufficiali pubblicate da Starlink per Mini, Router Mini e Standard V4 con Router 3.",
+          "headers": [
+            "Caratteristica",
+            "Starlink Mini (Mini X)",
+            "Starlink Standard (V4 + Router 3)"
+          ],
+          "rows": [
+            [
+              "Dimensioni dell'antenna",
+              "298,5 × 259 × 38,5 mm",
+              "594 × 383 × 39,7 mm"
+            ],
+            [
+              "Peso dell'antenna",
+              "1,10 kg (1,16 kg con supporto; 1,53 kg con supporto e cavo CC da 15 m)",
+              "2,9 kg (3,2 kg con supporto; 3,8 kg con supporto e cavo da 15 m)"
+            ],
+            [
+              "Consumo medio e alimentazione",
+              "da 25 a 40 W (da 12 a 48 V 60 W; USB-C PD min. 100 W 20 V/5 A con cavo ufficiale)",
+              "da 75 a 100 W (alimentatore IP66 Tipo 4 e cavo CA da 1,5 m inclusi)"
+            ],
+            [
+              "Router e generazione Wi-Fi",
+              "Wi-Fi 5 integrato (802.11ac Dual Band 3×3 MU-MIMO); supporta Router Mini (Wi-Fi 6)",
+              "Router 3 separato (43,4 × 298,6 × 120,4 mm; 0,57 kg; Wi-Fi 6 tri-band 4×4 MU-MIMO)"
+            ],
+            [
+              "Copertura Wi-Fi e dispositivi",
+              "Fino a 112 m² e 128 dispositivi (fino a 204 m² e 235 con Router Mini)",
+              "Fino a 297 m² e 235 dispositivi"
+            ],
+            [
+              "Porte Ethernet LAN",
+              "1 porta con blocco e tappo (cavo Ethernet non incluso)",
+              "2 porte con blocco sul Router 3 (cavo Starlink da 15 m incluso)"
+            ],
+            [
+              "Protezione ambientale (IP)",
+              "IP67 Tipo 4 sull'antenna (perde IP67 con cavo RJ45 comune)",
+              "Antenna IP67 Tipo 4; alimentatore IP66 Tipo 4; Router 3 IP56 interno"
+            ],
+            [
+              "Modalità Bypass e Mesh",
+              "Modalità Bypass (uscita solo con reset di fabbrica) e Mesh Starlink fino a 3 nodi; niente mesh di terzi",
+              "Modalità Bypass e Mesh Starlink fino a 3 nodi; niente mesh di terzi"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Leggi le specifiche ufficiali su starlink.com/specifications",
+            "href": "https://www.starlink.com/specifications"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antenna esterna e router dedicato Starlink rispetto alla soluzione compatta integrata",
+          "caption": "Antenna esterna collegata a un router Wi-Fi separato all'interno dell'abitazione. Foto ufficiale Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Segnale Wi-Fi in casa grande, gruppo di continuità (UPS) e rete cablata",
+        "paragraphs": [
+          "Quando l'antenna resta sul tetto dietro muri portanti o solai spessi, avere il router separato dentro casa garantisce una copertura molto più stabile rispetto al Wi-Fi integrato nella Mini.",
+          "Regola pratica, senza nostro test diretto: sulla Mini, il segnale Wi-Fi 5 (fino a 112 m² e 128 dispositivi) parte dall'esterno e perde potenza attraversando tegole e pareti in muratura. Con lo Standard, il cavo da 15 m entra in salotto fino al Router 3 (fino a 297 m² e 235 dispositivi in Wi-Fi 6 tri-band). Se scegli la Mini in un'abitazione ampia, conviene affiancarle un Router Mini interno (fino a 204 m²) o una rete Mesh Starlink fino a 3 nodi, poiché i sistemi mesh di altri marchi non sono compatibili.",
+          "Per l'alimentazione di emergenza su gruppo di continuità (UPS) o stazione portatile, la Mini fa la differenza: assorbe in media da 25 a 40 W contro un consumo da 75 a 100 W dello Standard. Nostro calcolo dai dati ufficiali: sulla stessa batteria, la Mini sostiene la connessione per oltre il doppio del tempo e supporta inoltre ingressi da 12 a 48 V CC o USB-C PD da almeno 100 W (20 V/5 A) con il cavo ufficiale.",
+          "Sul fronte cablaggio Ethernet e router personali o Dual-WAN vanno ricordati tre aspetti tecnici. La Mini offre 1 porta Ethernet LAN con blocco (cavo Ethernet venduto a parte); inserire un comune RJ45 senza guarnizione annulla la protezione IP67 Tipo 4. Il Router 3 dello Standard mette già a disposizione 2 porte LAN al riparo dentro casa. Entrambe supportano la modalità Bypass per passare la connessione via cavo a un router o sistema proprio (sulla Mini l'uscita richiede il ripristino alle impostazioni di fabbrica) e il mesh ufficiale Starlink (compatibile con Router Mini, Router 3 e router di 2ª generazione fino a 3 nodi; incompatibile con mesh di terzi)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Kit completo Starlink Standard con antenna, Router 3, base di appoggio e cavi",
+          "caption": "Componenti del kit Starlink Standard con router dedicato e cavetteria completa. Foto ufficiale Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "Costo con credito invito dopo 2 cicli e regola dei 30 giorni",
+        "paragraphs": [
+          "Sia scegliendo il piano 100 Mbps con Mini X sia i piani 200 Mbps e Max con Standard 4, l'ordine avviato su starlink.com dal link di invito riconosce in Italia 45 € dopo due cicli mensili regolarmente pagati.",
+          "Questo importo viene accreditato in fattura dopo due cicli mensili pagati (oppure in denaro tramite Stripe dove disponibile) e non abbatte mai il prezzo del kit al checkout, dove in Italia l'hardware è già a noleggio a 0 € più 19 € di spedizione. Acquistando il kit presso negozi terzi, marketplace o tramite trasferimento di account si perde l'intero credito da 45 € senza possibilità di recuperarlo in seguito.",
+          "La prova in casa resta protetta dalla finestra di 30 giorni: secondo i termini dell'ordine, annullare il servizio e restituire il kit integro entro 30 giorni dà diritto al rimborso previsto dalle condizioni d'acquisto. Consulta tutti i passaggi nella [pagina invito Starlink](/it/coupons/starlink) e i dettagli su disdetta e reso nella [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta)."
+        ],
+        "simulator": {
+          "title": "Simulatore: spesa iniziale e arrivo del credito da 45 €",
+          "scenarios": [
+            {
+              "label": "100 Mbps Mini X tramite link ufficiale",
+              "lines": [
+                {
+                  "label": "Kit Mini X a noleggio",
+                  "value": "0 € (da restituire in caso di disdetta)"
+                },
+                {
+                  "label": "Canone mensile (Milano, primi 3 mesi / poi)",
+                  "value": "17,50 €/mese, poi 35 €/mese"
+                },
+                {
+                  "label": "Credito invito tramite link",
+                  "value": "45 € in fattura dopo 2 cicli",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Da pagare oggi all'ordine",
+              "totalValue": "19 € di spedizione; 45 € accreditati dopo 2 cicli",
+              "note": "Dati letti sull'ordine di Milano; il credito sconta le fatture dopo 2 cicli attivi."
+            },
+            {
+              "label": "200 Mbps o Max Standard 4 tramite link",
+              "lines": [
+                {
+                  "label": "Kit Standard 4 a noleggio",
+                  "value": "0 € (da restituire in caso di disdetta)"
+                },
+                {
+                  "label": "Canone (200 Mbps / Max, primi 3 mesi)",
+                  "value": "22,50 € o 32,50 €/mese (poi 45 / 65 €)"
+                },
+                {
+                  "label": "Credito invito tramite link",
+                  "value": "45 € in fattura dopo 2 cicli",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Da pagare oggi all'ordine",
+              "totalValue": "19 € di spedizione; 45 € accreditati dopo 2 cicli",
+              "note": "Nessun vincolo contrattuale; installazione inclusa a 0 € sul piano Max."
+            },
+            {
+              "label": "Kit comprato fuori da starlink.com (negozio)",
+              "lines": [
+                {
+                  "label": "Acquisto in negozio o marketplace",
+                  "value": "Prezzo pieno del kit, niente noleggio 0 €"
+                },
+                {
+                  "label": "Noleggio a 0 € o promo indirizzo",
+                  "value": "Non applicabili fuori dal sito ufficiale"
+                },
+                {
+                  "label": "Credito ufficiale da invito",
+                  "value": "0 € (escluso dal programma)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Credito ricevuto in fattura",
+              "totalValue": "0 €",
+              "note": "Gli acquisti presso rivenditori o marketplace non danno diritto al credito da 45 €."
+            }
+          ]
+        },
+        "links": [
+          {
+            "label": "Apri ordine ufficiale con prova 30 giorni e 45 €",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Checklist prima di scegliere il kit",
+        "paragraphs": [
+          "Controlla questi cinque aspetti prima di confermare l'ordine per assicurarti che l'hardware corrisponda alla tua abitazione."
+        ],
+        "checklist": {
+          "title": "5 verifiche prima di scegliere il kit",
+          "items": [
+            "Ho controllato su starlink.com quale kit è legato al piano scelto (Mini X su 100 Mbps, Standard 4 su 200 Mbps e Max).",
+            "Ho valutato la metratura: oltre 112 m² o con muri spessi ho considerato il Router 3 dello Standard (fino a 297 m²) o un router interno.",
+            "Se userò un UPS o batteria portatile, ho confrontato i 25–40 W della Mini con i 75–100 W dello Standard.",
+            "Per la rete cablata ho verificato che la Mini ha 1 porta senza cavo Ethernet incluso (un RJ45 comune fa perdere l'IP67) rispetto alle 2 porte del Router 3.",
+            "Ho aperto l'ordine dal link ufficiale di invito prima del pagamento per assicurarmi i 45 € dopo 2 cicli e i 30 giorni per disdire e restituire il kit integro."
+          ]
+        }
+      },
+      {
+        "heading": "Verdetto: Starlink Mini o Standard?",
+        "paragraphs": [
+          "Se cerchi autonomia su gruppo di continuità (UPS), montaggio leggero da 1,10 kg o l'accesso al piano d'ingresso 100 Mbps con consumi contenuti tra 25 e 40 W, Starlink Mini (Mini X) è l'opzione più pratica e copre bene case fino a 112 m².",
+          "Se invece abiti in una casa ampia con muri in pietra o cemento, colleghi molti dispositivi o vuoi subito Wi-Fi 6 tri-band fino a 297 m² e due porte Ethernet al coperto senza acquistare altri apparati, Starlink Standard (Standard 4 con Router 3) sui piani 200 Mbps o Max offre un impianto domestico più completo. In ogni caso puoi annullare il servizio e restituire il kit senza danni entro 30 giorni secondo i termini dell'ordine."
+        ],
+        "emphasis": "Per l'autonomia su UPS e il minor consumo possibile vince senza dubbi la Mini; per coprire una casa grande in Wi-Fi 6 con due porte cablate già pronte dentro casa conviene puntare sul kit Standard con Router 3."
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Starlink Mini è più lenta rispetto allo Standard? Le velocità dipendono principalmente dal piano scelto (100 Mbps, 200 Mbps o Max) e dal traffico locale. La vera differenza tra i kit riguarda copertura Wi-Fi interna (112 m² Wi-Fi 5 vs 297 m² Wi-Fi 6) e consumi elettrici.",
+          "La Starlink Mini basta in una casa grande senza un altro router? Il Wi-Fi 5 integrato arriva fino a 112 m² dall'antenna esterna e si attenua attraversando tetto e pareti spesse; in case grandi conviene aggiungere un Router Mini interno (fino a 204 m²) o nodi Mesh Starlink.",
+          "Quale kit consuma meno su un gruppo di continuità in caso di blackout? Starlink Mini assorbe in media 25–40 W (e supporta USB-C PD da almeno 100 W 20 V/5 A con cavo ufficiale), contro 75–100 W dello Standard, garantendo più del doppio di durata a parità di batteria.",
+          "Posso collegare il cavo Ethernet e attivare la modalità Bypass su entrambi? Sì. La Mini ha 1 porta Ethernet LAN con blocco (cavo Ethernet venduto a parte; un normale RJ45 rimuove la tenuta IP67) e il Router 3 dello Standard ne ha 2. Entrambe supportano il Bypass per collegare via cavo un router o sistema proprio (sulla Mini per uscire dal Bypass serve il reset di fabbrica) e il mesh ufficiale Starlink (compatibile con Router Mini, Router 3 e router di 2ª generazione fino a 3 nodi; incompatibile con mesh di terzi).",
+          "Il credito invito da 45 € vale sia sulla Mini sia sullo Standard? Sì. Qualsiasi nuovo abbonamento residenziale ordinato direttamente su starlink.com dal link ufficiale riceve i 45 € in fattura dopo due cicli mensili pagati, indipendentemente dal kit del piano."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "cerchi consumi minimi su UPS o batteria, installazione compatta o vuoi il piano base da 100 Mbps con kit a noleggio.",
+        "l'abitazione rientra nella copertura integrata oppure prevedi di collegare un router interno cablato o Mesh Starlink."
+      ],
+      "skipIf": [
+        "devi coprire una casa grande con pareti spesse in Wi-Fi 6 tri-band fin da subito senza aggiungere altri router.",
+        "ti servono due porte Ethernet al coperto direttamente sul router principale fornito nella confezione."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "affiliate": "starlink",
+    "editorialNote": "Realizzato da Bruno Luiz su specifiche pubbliche, centro assistenza e pagine d'ordine Starlink. Partecipiamo al programma invito e possiamo ricevere una ricompensa.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-contratto-disdetta"
+      },
+      {
+        "slug": "starlink-conviene"
+      },
+      {
+        "slug": "comprare-starlink-sito-ufficiale-o-negozi"
+      },
+      {
+        "slug": "piani-starlink-100-200-mbps-o-max"
+      }
+    ],
+    "cta": {
+      "text": "L'ordine si apre su starlink.com tramite il link ufficiale di invito, mostrando il kit assegnato al tuo indirizzo e mantenendo i 30 giorni per annullare e restituire il kit integro. I 45 € arrivano in fattura dopo due cicli pagati.",
+      "label": "Vedi quale kit compare al mio indirizzo su starlink.com",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    }
+  },
+  {
+    "id": 1426,
+    "slug": "starlink-mini-or-standard-ja",
+    "translationKey": "starlink-mini-ou-padrao",
+    "locale": "ja",
+    "title": "Starlink MiniとStandard（標準キット）はどちらを選ぶ？仕様・消費電力・日本のレンタル実態を比較",
+    "seoTitle": "Starlink MiniとStandardの違い：仕様・消費電力・選び方",
+    "type": "比較ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編集・分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Starlink MiniとStandard（V4＋Router 3）を消費電力・Wi-Fi範囲・Ethernet・サイズで比較。東京注文画面のMiniレンタル＋小型ルーターの実態と7,000円紹介クレジット条件も解説。",
+    "metaDescription": "Starlink MiniとStandard（V4）の違いを公式仕様で比較。消費電力25〜40Wと75〜100W、Wi-Fi 5とWi-Fi 6、LANポート数、日本のホームプランでの提供形態と7,000円特典の条件を確認。",
+    "publishedAt": "2026年11月24日",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-mini-or-standard-ja-capa.webp",
+    "imageAlt": "黒背景パネルにSTARLINKと「MiniとStandard どちらを選ぶ」の見出しを配置し、右側にスタンド付きStarlink Standardアンテナと縦型ルーターの公式写真を載せた比較カバー画像。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "省電力（平均25〜40 W）でポータブル電源やUPSとの併用がしやすく、限られた設置スペースにも収まるのはStarlink Miniです。一方、広い住宅での単体Wi-Fiカバー（最大297 m²）やTri-BandのWi-Fi 6、有線LANの扱いやすさを重視するならStandard（V4＋Router 3）が有利になります。東京駅の住所で確認した日本の公式注文画面では「ホーム」プランにMiniレンタル＋小型ルーター（Router Mini）が初期費用JP¥0で付くため、国内の住宅契約ではMini＋Router Miniが基本構成になりますが、量販店での購入や海外利用・広い家での配線検討では両者の公式仕様差を把握しておくことが重要です。"
+        ],
+        "links": [
+          {
+            "label": "紹介リンクから自分の住所でキットと条件を確認する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "注文画面でどちらのキットが表示されるか（日本と海外の違い）",
+        "paragraphs": [
+          "Starlinkのハードウェア選択は、利用する国やプランによって注文画面での出し方が異なります。2026年11月23日に東京駅の住所で公開注文画面を確認したところ、日本の住宅向けプランは「ホーム」（最大300+ Mbps）の1種類で、月額は通常JP¥7,100のところ50%割引のJP¥3,550/月（11月30日までのキャンペーン表示）、配送料はJP¥3,000でした。ハードウェア欄には「Miniレンタル」と「小型ルーター（Router Mini）」が初期費用JP¥0・月額キット料金JP¥0で組み込まれており、サービス解約時にレンタル機器を返却する仕組みです。",
+          "つまり日本の公式オンライン注文では、最初からMini本体に別体の小型ルーター（Router Mini）が組み合わさった状態で届きます。日本の正規販売店（ビックカメラ、コストコ、ヤマダデンキ、KDDI）でStandardキット単体を購入する選択肢や、韓国（Mini ₩160,000／Standard 4 X ₩275,000の買い切り選択）や米国（100 MbpsはV5＋Router Mini、200 MbpsやMaxはV4／Standard 4 Xのレンタル）のようにアンテナを自由に選べる・プランで切り替わる市場を比較する際にも、MiniとStandardの仕様差を知っておく必要があります。解約・返却ルールの詳細は[Starlinkの契約と解約ガイド](/ja/reviews/starlink-cancel-ja)も参照してください。"
+        ],
+        "comparisonTable": {
+          "caption": "2026年11月23日に各国の公開注文画面で確認したハードウェア提供形態の比較。実際の構成は入力した住所で必ず確認してください。",
+          "headers": [
+            "市場・プラン例",
+            "注文画面で届く主なキット",
+            "提供方式・初期機器費",
+            "解約時の扱い"
+          ],
+          "rows": [
+            [
+              "日本（東京・ホーム）",
+              "Miniレンタル＋小型ルーター（Router Mini）",
+              "レンタル（初期費用 JP¥0・月額 JP¥0）",
+              "12か月縛り表示なし。解約時は機器を返却"
+            ],
+            [
+              "米国（ネバダ・100 Mbps）",
+              "Starlink V5＋Router Mini",
+              "レンタル（初期費用 US$ 0・月額 US$ 0）",
+              "年間契約なし。解約時は機器を返却"
+            ],
+            [
+              "米国（ネバダ・200 Mbps／Max）",
+              "V4＋Router 4 ／ Standard 4 X＋Router Mini",
+              "レンタル（初期費用 US$ 0・月額 US$ 0）",
+              "年間契約なし。解約時は機器を返却"
+            ],
+            [
+              "韓国（ソウル・100Mbps／맥스）",
+              "Mini または Standard 4 X を選択",
+              "購入のみ（Mini ₩160,000 ／ Standard 4 X ₩275,000）",
+              "買い切り（30日以内の破損なし返品で返金）"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "alt": "東京の住所で表示されたStarlink注文画面。ホームプランJP¥3,550/月とハードウェア初期費用JP¥0のレンタル条件を表示",
+          "caption": "東京駅の住所で確認したStarlinkの公開注文画面。ホームプランはMiniレンタル（JP¥0）がセットになっています。",
+          "objectFit": "contain",
+          "aspectRatio": 0.694
+        }
+      },
+      {
+        "heading": "公式仕様で比べるStarlink MiniとStandard V4の違い",
+        "paragraphs": [
+          "見た目の大きさだけでなく、消費電力、Wi-Fi規格、ルーター一体型か分離型か、LANポートの数と防水仕様まで設計が大きく異なります。以下は[Starlink公式仕様ページ](https://www.starlink.com/specifications)で確認したMiniとStandard V4（第3世代・Router 3付属）の数値比較です。"
+        ],
+        "comparisonTable": {
+          "caption": "Starlink公式仕様に基づくStarlink MiniとStarlink Standard V4（Router 3セット）の比較。実測値ではなく公式スペック表の数値です。",
+          "headers": [
+            "仕様項目",
+            "Starlink Mini",
+            "Starlink Standard（V4＋Router 3）"
+          ],
+          "rows": [
+            [
+              "アンテナ寸法",
+              "298.5 × 259 × 38.5 mm",
+              "594 × 383 × 39.7 mm"
+            ],
+            [
+              "重量（本体／スタンド付／スタンド・ケーブル込）",
+              "1.10 kg ／ 1.16 kg（スタンド付）／ 1.53 kg（スタンド・15 m DCケーブル込）",
+              "2.9 kg ／ 3.2 kg（スタンド付）／ 3.8 kg（スタンド・15 mケーブル込）"
+            ],
+            [
+              "平均消費電力",
+              "25〜40 W（DC 12〜48 V 60 W入力／USB PD 100 W 20 V 5 A対応）",
+              "75〜100 W（AC電源・IP66 Type 4電源ユニット付属）"
+            ],
+            [
+              "ルーター構成",
+              "アンテナ内蔵（日本レンタルではRouter Miniが別途付属）",
+              "別体のRouter 3（43.4 × 298.6 × 120.4 mm、0.57 kg、IP56屋内用）"
+            ],
+            [
+              "内蔵・付属Wi-Fi規格と範囲",
+              "内蔵Wi-Fi 5（Dual Band 3×3 MU-MIMO）、最大112 m²・128台",
+              "Router 3でWi-Fi 6 Tri-Band 4×4 MU-MIMO、最大297 m²・235台"
+            ],
+            [
+              "有線LANポートとケーブル",
+              "ロック付Ethernet LAN×1（Mini専用Ethernetケーブルは別売）",
+              "Router 3にロック付Ethernet LAN×2（15 m Starlinkケーブル付属）"
+            ],
+            [
+              "耐候性能（IP等級）",
+              "IP67 Type 4（純正外RJ45直挿しでIP67非維持）",
+              "アンテナIP67 Type 4／電源IP66 Type 4／Router 3はIP56屋内"
+            ],
+            [
+              "バイパスモードとメッシュ",
+              "対応（工場出荷時リセットで解除）。Starlink製メッシュ最大3台のみ",
+              "対応。Starlink製メッシュ最大3台（他社製メッシュとは非互換）"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "starlink.comで公式ハードウェア仕様を確認する",
+            "href": "https://www.starlink.com/specifications"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlink Standard V4アンテナと独立型ルーターRouter 3の公式画像",
+          "caption": "Starlink Standard V4アンテナと専用ルーターRouter 3。アンテナとルーターが分離しているため室内への配線がしやすい構成です。",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "室内のWi-Fi強度・消費電力・Ethernetとメッシュの考え方",
+        "paragraphs": [
+          "実用上の目安（当サイトによる自宅測定ではなく公式仕様からの整理）として、Mini単体を屋外の屋根やベランダに置く場合、内蔵Wi-Fi 5（最大112 m²）の電波は外壁や断熱材を挟むと室内奥まで届きにくくなります。日本の「ホーム」レンタルで小型ルーター（Router Mini）が同梱されるのはこの弱点を補うためで、Router Miniは本体83.6 × 138 × 27 mm・112 gの屋内用ながらWi-Fi 6（Dual Band 2×2 MU-MIMO）で最大204 m²・235台までカバーし、1 GbpsのRJ-45 Ethernetポートを2口備えています。",
+          "停電時のバックアップ回線や車中泊・ポータブル電源運用を重視するなら、平均消費電力の差が決定打になります。Miniは25〜40 Wで済み、公式USB PDケーブルを使えば100 W（20 V/5 A）出力のUSB PD電源や12〜48 VのDC電源から直接動かせるため、同じ容量のUPSやポータブル電源でもStandard（75〜100 W）の約2倍以上長く稼働させられます。",
+          "一方、既存の自宅ルーターとDual-WANで自動フェイルオーバーを組んだり、防水を維持したまま有線LANを引き回したりする場面では注意が必要です。Miniにはロック付Ethernet LANポートが1口ありますが、Ethernetケーブルは別売りのため純正ケーブルを使わず一般的なRJ45ケーブルを挿すとIP67 Type 4の防水性能が失われます。Standard（V4）なら最初から屋内にRouter 3を置いて2口のEthernet LANを使えるため、有線接続が多い環境では配線がシンプルです。なお、どちらもアプリでバイパスモードに切り替えて手持ちのルーターやメッシュ機器へ有線接続できますが（Miniのバイパス解除には工場出荷時リセットが必要）、公式メッシュはStarlink製機器（Router Mini、Router 3、第2世代ルーターで最大3ノードまで）のみ対応し、他社製メッシュとは非互換です。各速度プランの詳細は[Starlink住宅向けプラン比較](/ja/reviews/starlink-plans-100-200-max-ja)もご覧ください。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standardキット一式：アンテナ本体、Router 3、キックスタンド、電源ユニットとケーブル類",
+          "caption": "Starlink Standard V4キットの同梱物一式（アンテナ、Router 3、電源、15 mケーブルなど）。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "どちらを選んでも使える7,000円紹介クレジットとコスト試算",
+        "paragraphs": [
+          "公式サイト（starlink.com）の専用紹介リンクから新規契約する場合、MiniでもStandardでも住宅向け・旅行向けプランであれば紹介プログラムの対象になります。日本では、有効な契約を2請求サイクル継続してお支払いいただくと、7,000円が請求額へのクレジットとして付与されます（紹介元にも同額が付与されます）。",
+          "重要な点として、この紹介クレジットは2請求サイクルの支払い完了後に請求額へのクレジット（対象地域ではStripe経由の現金受取を選択できる場合もあります）として付与され、注文時のキット価格や配送料（東京の例では配送料JP¥3,000）から直接差し引かれることはありません。まず注文当日の支払額をそのまま把握したうえで、2か月後に戻る特典として見込むのが正確です。詳しい受け取り手順や対象条件は[Starlink紹介リンクの使い方](/ja/coupons/starlink)にまとめています。",
+          "また、日本の家電量販店やECマーケットプレイスでキットを先に購入してからアプリで有効化する方法では、starlink.com経由の初期注文とみなされず7,000円クレジットの対象外になるほか、日本の公式注文画面のJP¥0レンタルも使えません。購入先の違いによる損得は[Starlinkは公式サイトと量販店・通販のどちらで買うべきか](/ja/reviews/starlink-buy-official-or-retail-ja)で詳しく比較しています。"
+        ],
+        "simulator": {
+          "title": "シミュレーター：日本での導入パターン別コスト試算",
+          "scenarios": [
+            {
+              "label": "公式・紹介リンク経由（Miniレンタル＋Router Mini）",
+              "lines": [
+                {
+                  "label": "ホーム月額（東京・50%割引適用時）",
+                  "value": "JP¥3,550/月（通常 JP¥7,100）"
+                },
+                {
+                  "label": "初期ハードウェア（Mini＋小型ルーター）",
+                  "value": "JP¥0（レンタル・解約時返却）"
+                },
+                {
+                  "label": "2請求サイクル後の紹介特典",
+                  "value": "7,000円（請求クレジット付与）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "注文当日の支払額（配送料）",
+              "totalValue": "JP¥3,000",
+              "note": "紹介クレジットは2か月経過後に請求へ反映され、当日の支払額からは引かれません。30日間のお試し返却条件が適用されます。"
+            },
+            {
+              "label": "公式・紹介リンクなし（直接注文）",
+              "lines": [
+                {
+                  "label": "ホーム月額（東京・50%割引適用時）",
+                  "value": "JP¥3,550/月（通常 JP¥7,100）"
+                },
+                {
+                  "label": "初期ハードウェア（Mini＋小型ルーター）",
+                  "value": "JP¥0（レンタル・解約時返却）"
+                },
+                {
+                  "label": "2請求サイクル後の紹介特典",
+                  "value": "0円（後から追加不可）"
+                }
+              ],
+              "totalLabel": "注文当日の支払額（配送料）",
+              "totalValue": "JP¥3,000",
+              "note": "月々の料金と30日間のお試し条件は同じですが、7,000円のクレジットが受け取れなくなります。"
+            },
+            {
+              "label": "量販店・EC通販でキット購入（Standard等）",
+              "lines": [
+                {
+                  "label": "キット初期費用",
+                  "value": "店頭販売価格を全額自己負担"
+                },
+                {
+                  "label": "JP¥0レンタルの適用",
+                  "value": "不可（買い切り購入のみ）"
+                },
+                {
+                  "label": "紹介特典（7,000円）",
+                  "value": "対象外（0円）"
+                }
+              ],
+              "totalLabel": "初期ハードウェア負担",
+              "totalValue": "キット全額＋月額別途",
+              "note": "返品も購入した店舗での手続きとなり、契約キャンセルとは別対応になります。"
+            }
+          ]
+        },
+        "links": [
+          {
+            "label": "30日間のお試し付きでstarlink.comの住所を確認する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "注文前に確認したいチェックリスト",
+        "paragraphs": [
+          "日本のオンライン注文は基本的にMiniレンタル＋小型ルーターが選ばれますが、電源確保や配線計画を誤ると設置後に手戻りが起きます。注文確定前に次の5点を確認しておくと安心です。"
+        ],
+        "checklist": {
+          "title": "設置と注文前の5つの確認",
+          "items": [
+            "Starlinkアプリの障害物チェックを設置予定位置で実行し、木や屋根の遮蔽がないことを確認した。",
+            "Miniの屋外電源ルート（15 m DCケーブルが届くか、UPSやポータブル電源を接続するか）を確認した。",
+            "自宅の既存ルーターやNASへ有線接続する場合、Router Mini（2ポート）または別売りの純正Mini Ethernetケーブルが必要か確認した。",
+            "注文前に紹介リンクからstarlink.comを開き、表示された住所のプラン料金とレンタル条件を控えた。",
+            "30日間の無料トライアル期間（サービスキャンセル＋機器を破損なく返却する手順）を把握した。"
+          ]
+        }
+      },
+      {
+        "heading": "結論：MiniとStandardのどちらを選ぶべきか",
+        "paragraphs": [
+          "日本の住宅利用でオンラインから申し込む場合、まずは公式画面が提示するMiniレンタル＋Router Mini（JP¥0）が最も合理的です。25〜40 Wの低消費電力で停電時のバックアップやベランダ・簡易設置に向いており、屋内のWi-Fi到達範囲も付属のRouter Mini（Wi-Fi 6・最大204 m²）でしっかり補えます。30日以内に電波や通信品質が自宅環境に合わなければ、サービスを解約して破損なく返却すればキットと初月料金の返金を受けられます。",
+          "逆に、アンテナサイズが大きくても屋内にRouter 3（Wi-Fi 6 Tri-Band・最大297 m²・有線LAN 2口）を置いて家全体の無線と有線を1台でさばきたい場合や、移動利用の予定がなく常設メインでStandardを選びたい地域の条件に当てはまる場合は、Standard V4の強みが活きます。導入前の総合判断には[Starlinkは本当に買う価値があるか](/ja/reviews/starlink-worth-it-ja)もあわせて参考にしてください。"
+        ],
+        "emphasis": "停電バックアップや省スペース重視ならMini（25〜40 W）、単体での広いWi-Fiカバーと有線配線のしやすさ重視ならStandard（V4＋Router 3）。日本国内のオンライン注文ではMiniレンタル＋Router MiniがJP¥0で届くため、まず公式の紹介リンクから自宅住所の条件と30日間の返却条件を確かめてから判断するのが確実です。"
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "Starlink MiniはStandardより通信速度が遅いですか？ 東京のホームプラン（最大300+ Mbps）でもMiniレンタルが提供されており、一般的な家庭用通信には十分な帯域がありますが、大型アンテナのStandardは悪天候時や高いスループットが求められる環境で余裕が出やすい設計です。実際の速度は設置場所と時間帯で変わります。",
+          "Starlink Miniだけで広い家の中までWi-Fiが届きますか？ Mini単体の内蔵Wi-FiはWi-Fi 5（最大112 m²）で屋外設置時に壁で減衰しやすいですが、日本のオンラインレンタルでは屋内用の小型ルーター（Router Mini・Wi-Fi 6・最大204 m²）がセットで提供されるため、屋内のカバー範囲を広げられます。",
+          "7,000円の紹介クレジットはMiniとStandardのどちらでも受け取れますか？ はい。starlink.comの専用紹介リンクから新規で住宅または旅行プランを申し込めば、使用するキットの種類に関わらず対象になります。2請求サイクルの継続・支払い後に請求クレジットとして反映されます。",
+          "停電時にポータブル電源やUPSで動かすならどちらが有利ですか？ 消費電力が平均25〜40 WのStarlink Miniが圧倒的に有利です。Standard（75〜100 W）に比べて半分以下の電力で動くうえ、MiniはDC電源入力や100 W以上のUSB PD出力にも対応するため長時間運用に向いています。",
+          "どちらのキットでも手持ちのWi-Fiルーターを有線で接続できますか？ はい。Miniはロック付Ethernet LANポートを1口備えており（Ethernetケーブルは別売、通常のRJ45ケーブルを挿すとIP67防水が失われます）、StandardのRouter 3は2口を備えます。どちらも有線接続向けにバイパスモードへ切り替え可能ですが、Miniでバイパスを解除するには工場出荷時リセットが必要です。また、公式メッシュはStarlink製機器（Router Mini、Router 3、第2世代ルーターで最大3ノードまで）のみ対応し、他社製メッシュとは非互換です。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "停電時のUPS・ポータブル電源稼働や省スペース設置を優先し、消費電力の低いMini構成で自宅回線を試したい場合。",
+        "広い屋内でのWi-Fi 6カバレッジやRouter 3の有線LANポートを重視し、Standard V4が注文できる環境や販売ルートで常設したい場合。"
+      ],
+      "skipIf": [
+        "契約中の光回線が高速かつ安定しており、悪天候や障害時の予備回線も必要としていない場合。",
+        "設置予定場所の上空に建物や樹木の遮蔽が多く、アプリの確認で視界を確保できない場合。"
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "紹介リンクからstarlink.comを開くと、公式サイトと同条件で自宅住所の提供キットとレンタル条件を確認でき、30日間の試行返却も付きます。日本では2請求サイクルの継続後に7,000円の紹介クレジットが請求へ反映されます。",
+      "label": "starlink.comで自分の住所とキットを確認",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "本ガイドはStarlink公式のハードウェア仕様ページ、ヘルプセンター、および公開注文画面の確認内容をもとに作成しました。当サイトはStarlinkの紹介プログラムに参加しており、専用リンク経由で条件を満たす契約が行われた場合、紹介報酬を受け取ることがあります。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-ja"
+      },
+      {
+        "slug": "starlink-worth-it-ja"
+      },
+      {
+        "slug": "starlink-buy-official-or-retail-ja"
+      },
+      {
+        "slug": "starlink-plans-100-200-max-ja"
+      }
+    ]
+  },
+  {
+    "id": 1427,
+    "slug": "starlink-mini-or-standard-ko",
+    "translationKey": "starlink-mini-ou-padrao",
+    "locale": "ko",
+    "title": "스타링크 Mini vs 스탠다드(Standard 4 X) 비교: 한국 구매 가격, 소비전력, 와이파이 차이",
+    "seoTitle": "스타링크 Mini vs 스탠다드 4 X: 어떤 키트를 고를까?",
+    "type": "비교 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "편집 및 분석",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "편집 및 분석",
+        "initials": "BL"
+      }
+    ],
+    "description": "서울 주문 화면에서 직접 고르는 Mini(₩160,000)와 스탠다드 4 X(₩275,000)의 공식 사양, 소비전력, 와이파이 범위, 바이패스 모드 및 결제 전 확인 포인트를 비교했습니다.",
+    "metaDescription": "스타링크 Mini(₩160,000) vs 스탠다드 4 X(₩275,000) 비교. 소비전력 25~40W와 75~100W, Wi-Fi 5·6, LAN 포트, 바이패스 모드 및 30일 반납 조건을 정리했습니다.",
+    "publishedAt": "2026년 11월 24일",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-mini-or-standard-ko-capa.webp",
+    "imageAlt": "검은색 패널에 STARLINK와 ‘스타링크 Mini vs 스탠다드’ 제목을 담고, 오른쪽에 거치대가 달린 Starlink Standard 안테나와 세로형 공유기 공식 사진을 배치한 비교 커버 이미지.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "한국 주문 화면에서는 요금제와 무관하게 Mini와 스탠다드 4 X 중 원하는 키트를 직접 고를 수 있습니다. 저전력(25~40 W)과 UPS·휴대용 전원 운용이 목적이면 Mini가 유리하고, 넓은 실내 Wi-Fi 6(최대 297 m²)와 유선 LAN 2포트가 필요하면 스탠다드 4 X(V4 + Router 3)가 맞습니다. 두 키트 모두 공식 추천 링크 조건이 적용되며, 결제 전에 주문 화면 금액을 확인하세요."
+        ],
+        "links": [
+          {
+            "label": "추천 링크로 내 주소에서 Mini·스탠다드 조건 확인하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "서울 주문 화면에서 확인한 두 키트의 위치",
+        "paragraphs": [
+          "2026년 11월 23일 서울시청 주소로 공개 주문 화면을 확인했을 때, 한국은 미국·유럽·일본처럼 0원 임대 키트를 쓰는 나라가 아니라 하드웨어를 직접 구매하는 방식이었습니다. 요금제는 100Mbps(월 ₩34,000, 정가 ₩68,000)와 맥스(월 ₩46,500, 정가 ₩93,000) 두 가지이며, 11월 말까지 50% 할인이 표시되어 있었습니다. 하단 하드웨어 탭에서는 사용자가 Mini와 Standard 중 하나를 자유롭게 전환할 수 있었습니다.",
+          "표시된 키트 가격은 50% 할인이 적용되어 Mini 키트 ₩160,000(세금 별도), 스탠다드 4 X 키트 ₩275,000(세금 별도)였습니다. 100Mbps + Mini 조합의 오늘 결제 금액은 배송비(₩29,091)와 세금(₩17,455)을 합쳐 ₩192,000이었고, 맥스 + 스탠다드 4 X 조합은 오늘 결제 금액이 ₩307,000이었습니다. 두 조합 모두 약정 문구는 보이지 않았고, 결제는 한국에서 발급한 카드만 지원된다는 안내가 붙어 있었습니다. 해지 및 반납 규정은 [스타링크 약정과 해지 가이드](/ko/reviews/starlink-cancel-ko)에서 자세히 볼 수 있습니다."
+        ],
+        "comparisonTable": {
+          "caption": "2026년 11월 23일 서울시청 주소 기준 공개 주문 화면과 해외 참고 사례 비교. 실제 가격은 주소와 시점에 따라 달라집니다.",
+          "headers": [
+            "시장 및 선택 조합",
+            "장비 방식",
+            "키트 가격 / 월 요금",
+            "약정 및 반납 조건"
+          ],
+          "rows": [
+            [
+              "한국 서울: 100Mbps + Mini",
+              "하드웨어 구매",
+              "Mini ₩160,000 / 월 ₩34,000 (오늘 결제 ₩192,000)",
+              "약정 문구 없음, 30일 이내 손상 없이 반납 시 환불"
+            ],
+            [
+              "한국 서울: 맥스 + 스탠다드 4 X",
+              "하드웨어 구매",
+              "스탠다드 4 X ₩275,000 / 월 ₩46,500 (오늘 결제 ₩307,000)",
+              "약정 문구 없음, 30일 이내 손상 없이 반납 시 환불"
+            ],
+            [
+              "미국 네바다: 100 Mbps / Max",
+              "0원 임대",
+              "초기 US$ 0 / 월 US$ 38.50~91 (배송 US$ 20 + 세금)",
+              "해지 시 임대 장비 반납 필수"
+            ],
+            [
+              "일본 도쿄: 홈",
+              "0원 임대",
+              "Mini + Router Mini JP¥0 / 월 JP¥3,550 (배송 JP¥3,000)",
+              "해지 시 임대 장비 반납 필수"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "alt": "서울 주소 기준 스타링크 공식 주문 화면. 100Mbps 요금제와 Mini ₩160,000, Standard 선택 토글이 표시됨",
+          "caption": "서울 주문 화면: 한국에서는 구매자가 Mini와 Standard 중 원하는 키트를 직접 선택할 수 있습니다.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8041
+        }
+      },
+      {
+        "heading": "공식 사양 비교: Mini vs 스탠다드 V4(Router 3 포함)",
+        "paragraphs": [
+          "스탠다드 4 X는 Mini보다 ₩115,000 더 비싼 만큼 안테나 면적이 두 배 이상 넓고, 실내용 독립 공유기(Router 3)가 기본 포함됩니다. 아래 수치는 임의 추정치가 아니라 [스타링크 공식 사양 페이지](https://www.starlink.com/specifications)에 등재된 값입니다."
+        ],
+        "comparisonTable": {
+          "caption": "스타링크 공식 사양표 기준 Mini와 Standard V4(Gen 3 + Router 3) 비교.",
+          "headers": [
+            "비교 항목",
+            "Starlink Mini",
+            "Starlink Standard V4 + Router 3"
+          ],
+          "rows": [
+            [
+              "안테나 크기",
+              "298.5 × 259 × 38.5 mm",
+              "594 × 383 × 39.7 mm"
+            ],
+            [
+              "무게 (본체 / 거치대 포함 / 거치대·케이블 포함)",
+              "1.10 kg / 1.16 kg (거치대 포함) / 1.53 kg (거치대·15 m DC 케이블 포함)",
+              "2.9 kg / 3.2 kg (거치대 포함) / 3.8 kg (거치대·15 m 케이블 포함)"
+            ],
+            [
+              "평균 소비전력",
+              "25~40 W (12~48 V 60 W 입력, USB PD 100 W 20 V/5 A 지원)",
+              "75~100 W (AC 전원 및 IP66 Type 4 전원 어댑터 포함)"
+            ],
+            [
+              "라우터 구조",
+              "안테나 본체 일체형 내장",
+              "독립형 Router 3 (43.4 × 298.6 × 120.4 mm, 0.57 kg, IP56 실내)"
+            ],
+            [
+              "Wi-Fi 규격 및 커버리지",
+              "Wi-Fi 5 Dual Band 3×3 MU-MIMO, 최대 112 m² / 128대",
+              "Wi-Fi 6 Tri-Band 4×4 MU-MIMO, 최대 297 m² / 235대"
+            ],
+            [
+              "이더넷(LAN) 포트",
+              "잠금식 Ethernet LAN 1포트 (Mini 전용 Ethernet 케이블 별매)",
+              "Router 3에 잠금식 Ethernet LAN 2포트 (15 m 케이블 포함)"
+            ],
+            [
+              "방수·방진 등급",
+              "IP67 Type 4 (전용 케이블 대신 일반 RJ45 사용 시 IP67 미유지)",
+              "안테나 IP67 Type 4 / 전원부 IP66 Type 4 / Router 3 IP56"
+            ],
+            [
+              "바이패스 및 메시 지원",
+              "바이패스 지원(공장 초기화로 해제), 스타링크 메시 최대 3대",
+              "바이패스 지원, 스타링크 메시 최대 3대 (타사 메시 호환 불가)"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "starlink.com/specifications에서 공식 하드웨어 사양 보기",
+            "href": "https://www.starlink.com/specifications"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "스타링크 스탠다드 V4 안테나와 독립형 Router 3 공유기 공식 사진",
+          "caption": "안테나와 별도 라우터(Router 3)로 나뉜 스탠다드 V4 구성. 실내에 라우터를 둘 수 있어 집 안 무선 커버리지 확보에 유리합니다.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "실내 와이파이, 정전 백업 전력, 유선 LAN·바이패스 차이",
+        "paragraphs": [
+          "실내 환경 기준(저희 측 실측이 아닌 공식 사양 바탕의 실용 가이드)으로 보면, Mini는 Wi-Fi 5 라우터가 안테나 내부에 통합되어 있습니다. 따라서 마당이나 옥상처럼 두꺼운 콘크리트 벽과 단열재 바깥에 Mini를 설치하면 집 안 깊숙한 방까지 무선 신호가 약해질 수 있습니다. 반대로 창문 밖 베란다·단층 소형 공간·캠핑처럼 안테나와 기기 사이 거리가 짧거나, 별도의 실내 공유기 또는 스타링크 Router Mini(83.6 × 138 × 27 mm, 112 g, 실내 전용, Wi-Fi 6 최대 204 m²·235대, 1 Gbps RJ-45 2포트)를 메시로 연결할 계획이라면 문제없이 쓸 수 있습니다.",
+          "정전 시 UPS나 휴대용 파워뱅크에 물려 광랜 백업으로 쓰는 용도에서는 Mini가 압도적으로 유리합니다. 평균 소비전력이 25~40 W로 스탠다드 V4(75~100 W)의 절반 수준이라 같은 배터리 용량으로 훨씬 오래 버팁니다. 또한 Mini는 정식 케이블을 쓰면 12~48 V DC 입력이나 최소 100 W(20 V/5 A) USB PD 출력 파워뱅크로 직접 구동할 수 있어 전원 유연성이 뛰어납니다.",
+          "유선 연결과 듀얼 WAN 공유기 연동을 염두에 둔다면 포트 구성을 꼭 확인해야 합니다. Mini는 본체 하단에 잠금식 Ethernet LAN 포트가 1개 있지만 전용 Ethernet 케이블은 별매이므로, 비정품 일반 RJ45 케이블을 꽂으면 IP67 Type 4 방수 밀폐가 깨집니다. 스탠다드 V4는 실내에 두는 Router 3에 2개의 LAN 포트가 바로 있어 NAS나 기존 공유기 연결이 수월합니다. 두 모델 모두 스타링크 앱에서 바이패스 모드를 지원해 유선으로 개인 라우터나 메시에 연결할 수 있으며(Mini에서 바이패스 모드를 해제하려면 공장 초기화가 필요), 공식 스타링크 메시(Router Mini, Router 3, 2세대 라우터 최대 3노드)만 호환되고 타사 메시 시스템과는 호환되지 않습니다. 요금제별 속도 차이는 [스타링크 100Mbps·맥스 요금제 비교](/ko/reviews/starlink-plans-100-200-max-ko)를 참고하세요."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "스타링크 스탠다드 V4 키트 구성품: 안테나, Router 3, 거치대, 전원부, 15 m 케이블",
+          "caption": "스탠다드 V4 키트 기본 구성품. 15 m 스타링크 케이블과 전원 케이블, Router 3가 함께 제공됩니다. 사진: Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "추천 크레딧과 2주기 이후 비용 계산",
+        "paragraphs": [
+          "starlink.com에서 추천 링크로 주문을 시작하면 Mini를 고르든 스탠다드 4 X를 고르든 주거용 요금제 모두 추천 프로그램 대상에 포함됩니다. 11월 기준 참고 금액 ₩65,000이 알려져 있으나, 국가별 정확한 보상 금액은 계정과 주문 화면에 따라 달라질 수 있으므로 결제 전에 주문 화면에서 실제 금액을 확인하세요. 자세한 이용 규칙은 [스타링크 추천 안내 페이지](/ko/coupons/starlink)에서 확인할 수 있습니다.",
+          "주의할 점은 추천 크레딧이 두 번의 결제 주기를 정상 납부한 뒤에 청구서 크레딧(Stripe를 통한 현금 지급이 제공되는 국가에서는 현금 옵션 포함)으로 적립되며, 결제 시 키트 가격(₩160,000 또는 ₩275,000)을 즉시 깎아 주지 않는다는 사실입니다. 오늘 결제하는 총액과 2개월 뒤 들어오는 청구서 크레딧을 구분해서 예산을 짜야 합니다.",
+          "국내 오픈마켓(쿠팡, 네이버 스마트스토어 등)이나 오프라인 매장(이마트)에서 키트를 먼저 구매해 앱으로 활성화하는 경우에는 starlink.com 초기 주문이 아니므로 추천 크레딧이 적용되지 않습니다. 구매 채널별 차이는 [스타링크 공식 사이트 vs 이마트·오픈마켓 비교](/ko/reviews/starlink-buy-official-or-retail-ko)에서 확인하세요."
+        ],
+        "simulator": {
+          "title": "시뮬레이터: 한국 서울 주문 시나리오별 비용",
+          "scenarios": [
+            {
+              "label": "공식 추천 링크 + 100Mbps + Mini",
+              "lines": [
+                {
+                  "label": "Mini 키트 (50% 할인)",
+                  "value": "₩160,000 (세금 별도)"
+                },
+                {
+                  "label": "월 요금 (할인 시 / 정상가)",
+                  "value": "₩34,000/월 (정상 ₩68,000)"
+                },
+                {
+                  "label": "2주기 납부 후 추천 크레딧",
+                  "value": "11월 기준 참고 금액 ₩65,000 (결제 전 주문 화면 확인)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "오늘 결제 총액(배송·세금 포함)",
+              "totalValue": "₩192,000",
+              "note": "크레딧은 오늘 키트 가격을 줄여주지 않고 2주기 이후 청구서에 반영됩니다. 결제 전에 주문 화면에서 실제 금액을 확인하세요."
+            },
+            {
+              "label": "공식 추천 링크 + 맥스 + 스탠다드 4 X",
+              "lines": [
+                {
+                  "label": "스탠다드 4 X 키트 (50% 할인)",
+                  "value": "₩275,000 (세금 별도)"
+                },
+                {
+                  "label": "월 요금 (할인 시 / 정상가)",
+                  "value": "₩46,500/월 (정상 ₩93,000)"
+                },
+                {
+                  "label": "2주기 납부 후 추천 크레딧",
+                  "value": "11월 기준 참고 금액 ₩65,000 (결제 전 주문 화면 확인)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "오늘 결제 총액(배송·세금 포함)",
+              "totalValue": "₩307,000",
+              "note": "30일 이내 서비스 취소 및 손상 없는 반납 시 키트·첫 달 요금 환불 규정이 적용됩니다. 주문 화면 금액을 최종 확인하세요."
+            },
+            {
+              "label": "공식 사이트 외 매장·오픈마켓 단품 구매",
+              "lines": [
+                {
+                  "label": "키트 구매 가격",
+                  "value": "판매처 정가 결제 (추후 추천 등록 불가)"
+                },
+                {
+                  "label": "추천 크레딧",
+                  "value": "0원 (사후 적용 불가)"
+                },
+                {
+                  "label": "반납·환불 처리",
+                  "value": "판매처 반품과 구독 해지 별도 진행"
+                }
+              ],
+              "totalLabel": "추천 혜택 여부",
+              "totalValue": "혜택 0원",
+              "note": "중고·비공식 판매처 제품은 이전 계정에 묶여 있으면 활성화가 막힐 수 있습니다."
+            }
+          ]
+        },
+        "links": [
+          {
+            "label": "30일 반납 조건과 내 주소 키트 가격 확인하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "결제 전에 반드시 점검할 5가지",
+        "paragraphs": [
+          "두 키트 모두 30일 이내 취소·반납 환불 규정이 있지만, 설치 환경과 카드 조건을 미리 확인하면 불필요한 반품 절차를 피할 수 있습니다."
+        ],
+        "checklist": {
+          "title": "결제 전 최종 확인 리스트",
+          "items": [
+            "안테나를 놓을 지붕이나 마당에서 스타링크 앱의 장애물 점검을 돌려 하늘 시야가 트여 있는지 확인했다.",
+            "Mini를 선택할 경우 실외에서 실내로 들어오는 전원선(15 m DC 케이블) 길이와 방수 Ethernet 케이블 필요 여부를 점검했다.",
+            "집 안 구조가 넓거나 두꺼운 벽이 많다면 스탠다드 4 X(Router 3 포함) 또는 별도 실내 공유기 연동 계획을 세웠다.",
+            "결제 수단이 한국에서 발급된 카드인지 확인하고, 추천 링크를 통해 starlink.com에서 주문을 열었다.",
+            "결제 전에 주문 화면에서 실제 청구 금액과 추천 크레딧(11월 기준 참고 금액 ₩65,000, 실제 표시 금액 우선)을 스크린샷으로 확인했다."
+          ]
+        }
+      },
+      {
+        "heading": "결론: 내 환경에는 Mini와 스탠다드 중 무엇이 맞을까",
+        "paragraphs": [
+          "전력 소모를 아끼고 싶고 설치를 간단히 끝내려는 1~2인 가구, 소형 전원주택, 캠핑 겸용 또는 정전 대비 UPS 백업 회선이라면 Mini(₩160,000)가 가격과 기동성 모두 합리적입니다. 25~40 W 소비전력과 작은 크기 덕분에 설치 부담이 훨씬 적습니다.",
+          "반면 가족 수가 많아 동시 접속 기기가 수십 대에 이르고, 콘크리트 벽이 두꺼운 주거 환경에서 실내 Wi-Fi 6 커버리지와 유선 LAN 포트(Router 3)를 안정적으로 챙겨야 한다면 ₩115,000을 더 내고 스탠다드 4 X(₩275,000)를 선택하는 편이 나중의 공유기 추가 비용과 배선 번거로움을 줄여 줍니다. 스타링크 전체의 가성비는 [스타링크 가입할 만한가요](/ko/reviews/starlink-worth-it-ko)에서 함께 확인해 보세요."
+        ],
+        "emphasis": "휴대성·저전력 백업(25~40 W)·초기 비용 절감이면 Mini, 넓은 실내 Wi-Fi 6 커버리지(297 m²)와 별도 라우터·유선 LAN 중심이면 스탠다드 4 X가 정답입니다. 두 키트 모두 결제 전에 주문 화면에서 실제 금액과 30일 반납 조건을 직접 확인한 뒤 선택하세요."
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "Mini를 사면 맥스(Max) 요금제를 쓸 수 없나요? 아니요. 서울 주문 화면 기준으로 100Mbps와 맥스 요금제 모두에서 Mini와 스탠다드 4 X 중 원하는 하드웨어를 직접 고를 수 있습니다. 다만 안테나 크기와 내장 Wi-Fi 범위에는 차이가 있습니다.",
+          "Mini만 사면 집 안 전체에서 와이파이가 잘 터질까요? Mini는 안테나 내부에 Wi-Fi 5(최대 112 m²)가 들어 있어 안테나를 야외에 두면 두꺼운 벽 너머 방에서는 신호가 약해질 수 있습니다. 집이 넓다면 스탠다드 4 X를 고르거나 실내에 별도 공유기(바이패스 모드) 또는 스타링크 메시 노드를 두는 편이 안전합니다.",
+          "추천 크레딧은 두 키트 중 무엇을 사도 받을 수 있나요? 네. starlink.com의 추천 링크로 처음 주문하고 두 번의 청구 주기를 유지·납부하면 Mini와 스탠다드 4 X 모두 대상에 포함됩니다. 실제 추천 금액은 국가와 시기에 따라 다를 수 있으므로 결제 전에 주문 화면에서 실제 금액을 확인하세요.",
+          "정전 대비 UPS나 휴대용 파워뱅크에 연결하기에는 어느 쪽이 좋나요? 평균 소비전력이 25~40 W인 Mini가 훨씬 유리합니다. 스탠다드 V4(75~100 W)보다 전력 소모가 절반 이하이고 100 W USB PD 전원도 공식 지원합니다.",
+          "Mini에도 일반 LAN선(RJ45)을 꽂거나 바이패스 모드를 쓸 수 있나요? Mini에는 잠금식 Ethernet LAN 포트 1개가 있으며 전용 Ethernet 케이블은 별매입니다(일반 RJ45 케이블을 쓰면 IP67 Type 4 방수 성능이 유지되지 않습니다). 유선으로 개인 라우터를 연결하는 바이패스 모드를 지원하며(Mini에서 바이패스 해제 시 공장 초기화 필요), 공식 스타링크 메시(Router Mini, Router 3, 2세대 라우터 최대 3노드)만 호환되고 타사 메시는 지원하지 않습니다."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "낮은 소비전력과 작은 크기를 우선해 정전 백업, 소형 주택 또는 이동형 겸용으로 부담 없이 시작하고 싶다.",
+        "넓은 실내에서 Wi-Fi 6 성능과 별도 라우터의 유선 LAN 포트 2개를 바로 활용하고 싶어 스탠다드 구성을 원한다."
+      ],
+      "skipIf": [
+        "현재 쓰는 유선 광랜이 계약 속도대로 안정적이며 이중화 백업 회선이 전혀 필요 없다.",
+        "안테나를 설치할 위치의 하늘 시야가 건물이나 나무에 가려져 있어 앱 장애물 점검을 통과하지 못한다."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "추천 링크로 starlink.com에 접속하면 서울 등 내 주소에서 Mini와 스탠다드 4 X의 최신 가격 및 30일 반납 조건을 그대로 확인할 수 있습니다. 2주기 납부 후 청구서 크레딧으로 반영되는 추천 금액(11월 기준 참고 금액 ₩65,000)은 결제 전에 주문 화면에서 실제 금액을 확인하세요.",
+      "label": "starlink.com에서 Mini·스탠다드 조건 확인",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "스타링크 공식 하드웨어 사양 페이지, 고객지원 문서, 그리고 공개 주문 화면에서 확인한 정보로 작성했습니다. 추천 링크를 통해 규정을 충족하는 신규 구독이 이루어지면 저희가 보상을 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-ko"
+      },
+      {
+        "slug": "starlink-worth-it-ko"
+      },
+      {
+        "slug": "starlink-buy-official-or-retail-ko"
+      },
+      {
+        "slug": "starlink-plans-100-200-max-ko"
+      }
+    ]
+  },
+  {
+    "id": 1428,
+    "slug": "starlink-mini-or-standard-zh-hant",
+    "translationKey": "starlink-mini-ou-padrao",
+    "locale": "zh-hant",
+    "title": "Starlink Mini 與 Standard（標準版 V4）怎麼選？規格、耗電、路由器與海外方案比較",
+    "seoTitle": "Starlink Mini vs Standard（V4）：規格與選購比較",
+    "type": "比較指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編輯與分析",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編輯與分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Starlink 目前在台灣、香港與中國大陸沒有住宅直購與中文介面。本文以官方規格與馬來西亞、美國、韓國實例，比較 Mini 與 Standard 的耗電、Wi-Fi 與路由器差異。",
+    "metaDescription": "Starlink Mini 還是 Standard（V4＋Router 3）？比較 25–40 W 與 75–100 W 耗電、Wi-Fi 5 與 Wi-Fi 6、網口數與 Router Mini 差異，並整理台港澳現況與海外訂購實例。",
+    "publishedAt": "2026年11月24日",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-mini-or-standard-zh-hant-capa.webp",
+    "imageAlt": "黑色面板標示 STARLINK 與「Starlink Mini 還是 Standard？」標題，右側搭配附支架的 Starlink Standard 天線與直立式路由器官方照片的比較文章封面。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Starlink Mini（結帳常標示為 Mini X）把 Wi-Fi 5 路由器直接做進天線裡，體積小且平均耗電僅 25–40 W，最適合小宅、陽台簡便安裝、行動攜帶或接 UPS 不斷電系統備援。Starlink Standard（V4／第 3 代）搭配獨立的 Router 3，具備 Wi-Fi 6 三頻、最高 297 m² 室內覆蓋與 2 個有線網路埠，更適合多樓層住宅與高密度連網。需先提醒的是，Starlink 目前沒有繁體中文介面，在台灣、香港與中國大陸也沒有一般住宅官網直購；若你在海外透過官方推薦連結下單，兩種套件都能適用推薦獎勵，付款前請務必在訂購頁確認實際金額與硬體模式。"
+        ],
+        "links": [
+          {
+            "label": "透過推薦連結確認我的地址可選套件與獎勵金額",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "沒有中文官網時，海外訂購頁怎麼配對這兩款硬體？",
+        "paragraphs": [
+          "打開 Starlink 官網的語言選單，目前找不到繁體中文或簡體中文，台灣、香港與中國大陸也沒有開放住宅服務直購頁面。因此海外華語用戶通常會在英文或當地語言介面輸入地址下單，而系統往往會根據「國家」與「方案」決定你能拿到 Mini 還是 Standard。",
+          "我們在 2026 年 11 月 23 日實測多個海外公開地址後發現三種常見做法：第一種是「同地址依方案拆開買斷或租賃」，例如馬來西亞吉隆坡同一個地址上，100 Mbps 方案（月費 RM 135）要求買斷 Mini X（RM 900，含運費 RM 89 今日實付 RM 989），而 Max 方案（月費 RM 235）則提供 Rental Kit (Mini X) RM 0 租賃（今日僅付運費 RM 89，取消時須歸還）。第二種是「依方案切換天線」，例如美國內華達州在 100 Mbps（US$ 38.50／月）提供 Starlink V5 + Router Mini 租賃 US$ 0，到了 200 Mbps 與 Max 才換成 V4／Standard 4 X 套件；第三種則是「由買家自由點選硬體」，例如韓國首爾頁面可自由選購 Mini（₩160,000）或 Standard 4 X（₩275,000）。關於各國合約與歸還規則，可參考[Starlink 合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+        ],
+        "comparisonTable": {
+          "caption": "2026 年 11 月 23 日於 starlink.com 各海外公開訂購頁讀取的硬體配對範例，實際條件以你的地址為準。",
+          "headers": [
+            "海外市場範例",
+            "訂購頁提供的硬體",
+            "取得方式與價格",
+            "取消或合約條款"
+          ],
+          "rows": [
+            [
+              "馬來西亞（吉隆坡 100 Mbps）",
+              "Mini X",
+              "買斷 RM 900（月費 RM 135，運費 RM 89）",
+              "無 12 個月綁約，30 天內退貨條件適用"
+            ],
+            [
+              "馬來西亞（吉隆坡 Max）",
+              "Rental Kit (Mini X)",
+              "租賃 RM 0（月費 RM 235，運費 RM 89）",
+              "無 12 個月綁約，取消服務須歸還租賃設備"
+            ],
+            [
+              "美國（內華達 100 Mbps／Max）",
+              "V5 + Router Mini ／ Standard 4 X + Router Mini",
+              "租賃 US$ 0（月費 US$ 38.50／US$ 91）",
+              "無年約，取消服務須歸還租賃設備"
+            ],
+            [
+              "韓國（首爾 100Mbps／Max）",
+              "Mini 或 Standard 4 X 自由選",
+              "買斷 Mini ₩160,000 ／ Standard 4 X ₩275,000",
+              "無綁約字樣，30 天內完好退回可申請退款"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "馬來西亞吉隆坡的 Starlink 英文訂購畫面，顯示 100 Mbps 方案每月 RM 135 與買斷 Mini X 價格 RM 900",
+          "caption": "馬來西亞吉隆坡（英文介面範例）：同一地址上 100 Mbps 採購買 Mini X（RM 900），Max 則改為 RM 0 租賃。",
+          "objectFit": "contain",
+          "aspectRatio": 0.9898
+        }
+      },
+      {
+        "heading": "官方規格對比：Starlink Mini vs Standard（V4＋Router 3）",
+        "paragraphs": [
+          "不要只看外觀大小：兩代硬體在路由器架構、供電功耗、Wi-Fi 世代、網路埠數量與防水設計上完全不同。以下數據全數取自 [Starlink 官方硬體規格頁面](https://www.starlink.com/specifications)，沒有自行估算數字。"
+        ],
+        "comparisonTable": {
+          "caption": "Starlink Mini 與 Starlink Standard V4（含 Router 3）官方規格比較。",
+          "headers": [
+            "規格項目",
+            "Starlink Mini",
+            "Starlink Standard V4＋Router 3"
+          ],
+          "rows": [
+            [
+              "天線尺寸",
+              "298.5 × 259 × 38.5 mm",
+              "594 × 383 × 39.7 mm"
+            ],
+            [
+              "重量（本體／含支架／含支架與 15 m 線材）",
+              "1.10 kg ／ 1.16 kg（含支架）／ 1.53 kg（含支架與 15 m DC 電源線）",
+              "2.9 kg ／ 3.2 kg（含支架）／ 3.8 kg（含支架與 15 m 線材）"
+            ],
+            [
+              "平均耗電量",
+              "25–40 W（支援 12–48 V 60 W 輸入及 USB PD 最低 100 W 20 V/5 A）",
+              "75–100 W（附交流電源線 1.5 m 與 IP66 Type 4 電源供應器）"
+            ],
+            [
+              "路由器設計",
+              "整合於天線內部（可另搭 Router Mini 擴充）",
+              "獨立外接 Router 3（43.4 × 298.6 × 120.4 mm，0.57 kg，IP56 室內）"
+            ],
+            [
+              "Wi-Fi 規格與覆蓋面積",
+              "內建 Wi-Fi 5（Dual Band 3×3 MU-MIMO），最高 112 m²、128 台裝置",
+              "Router 3 提供 Wi-Fi 6 三頻 4×4 MU-MIMO，最高 297 m²、235 台裝置"
+            ],
+            [
+              "有線 Ethernet 連接埠",
+              "1 個帶鎖 LAN 埠與防水塞（原廠 Mini 網路線須另購）",
+              "Router 3 具備 2 個帶鎖 LAN 埠（盒內已附 15 m Starlink 主線）"
+            ],
+            [
+              "防塵防水等級（IP）",
+              "IP67 Type 4（若改插一般 RJ45 網路線會失去 IP67 防護）",
+              "天線 IP67 Type 4／電源 IP66 Type 4／Router 3 室內 IP56"
+            ],
+            [
+              "Bypass 模式與 Mesh",
+              "支援 Bypass（須恢復原廠設定才能退出）；僅相容 Starlink Mesh（最多 3 節點，不相容第三方 Mesh）",
+              "支援 Bypass；僅相容 Starlink Mesh（最多 3 節點，不相容第三方 Mesh）"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "前往 starlink.com/specifications 查看官方硬體規格",
+            "href": "https://www.starlink.com/specifications"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlink Standard V4 天線與分離式 Router 3 路由器官方圖片",
+          "caption": "Starlink Standard V4 天線與獨立放置的 Router 3，能把無線基地台拉進室內中心點。",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "室內訊號穿透、不斷電系統（UPS）與有線佈線實務",
+        "paragraphs": [
+          "依實務經驗整理（依據官方規格推導，非本站現場實測）：在鋼筋混凝土隔間較多的住宅裡，Starlink Mini 把 Wi-Fi 5 路由器藏在戶外的天線內部，無線訊號得先穿過外牆才能進到客廳，標稱 112 m² 在穿牆後會再縮水。如果你的用途是在大房子穩定連線，要嘛把外接天線透過纜線拉進室內獨立路由器，要嘛在美國或支援套件上加裝官方 Router Mini（83.6 × 138 × 27 mm、僅 112 g、室內專用，支援 Wi-Fi 6 最高 204 m² 與 235 台裝置，並帶 2 個 1 Gbps RJ-45 埠）組成 Starlink Mesh。",
+          "反過來看，如果你主要想把 Starlink 當作光纖不穩時的備援網路、或在停電時靠行動電源站與 UPS 撐過斷電期，Mini 的低功耗就非常關鍵：平均 25–40 W 只有 Standard（75–100 W）的一半左右，加上 Mini 原生接受 12–48 V DC 輸入與 100 W USB PD 供電（搭配官方線材），同一顆電站能撐的時間明顯拉長。",
+          "另外要注意有線連接與雙 WAN（Dual-WAN）故障轉移：Mini 機身帶 1 個帶鎖 Ethernet LAN 埠，原廠網線須另購，一旦在戶外直接插入市面一般 RJ45 水晶頭就會破壞 IP67 Type 4 防水密封；Standard V4 的 Router 3 本身就放在室內且內建 2 個 LAN 埠，需要拉有線接 NAS、監視器主機或切換至 Bypass 模式接自備路由器時更省事。兩者皆支援透過有線使用 Bypass 模式（注意 Mini 退出 Bypass 須恢復原廠設定），官方 Mesh 最多僅能串接 3 個 Starlink 官方節點（相容 Router Mini、Router 3 與第 2 代路由器，不相容第三方品牌無線 Mesh）。不同速率方案的比較請見[Starlink 住宅方案 100 Mbps、200 Mbps 與 Max 比較](/zh-hant/reviews/starlink-plans-100-200-max-zh-hant)。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standard V4 完整套件內容：天線本體、Router 3、底座、電源供應器與 15 m 連接線",
+          "caption": "Starlink Standard V4 完整配件內容：天線、獨立路由器 Router 3、電源模組與線材。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "推薦獎勵怎麼算？適用資格、計費週期與各國金額確認方式",
+        "paragraphs": [
+          "只要你的初始訂單是從 starlink.com 的推薦連結開出，不論系統配給的是 Mini 還是 Standard，都符合住宅與旅行方案的推薦資格。以美國為例，官方說明中心舉例的獎勵金額為 US$ 100；而以馬來西亞為例，11 月參考金額 RM 180 為公開市場發布的參考數值，各地實際發放金額會隨註冊國家與幣別變動，請務必在付款前於自己的訂購頁確認畫面顯示的實際金額。更多運作細節請見[Starlink 推薦連結說明頁](/zh-hant/coupons/starlink)。",
+          "推薦獎勵是在你讓服務保持有效並按時付清兩個完整計費週期後，才以帳單抵扣的形式入帳（在支援的地區亦可透過 Stripe 領取現金），絕對不會在結帳時直接折抵硬體套件或運費價格。無論你在馬來西亞 100 Mbps 買下 RM 900 的 Mini X，或在韓國買下 ₩160,000／₩275,000 的套件，下單當天都須全額支付訂單頁面顯示的總額。",
+          "如果你在經銷商或電商平台（例如馬來西亞的 Harvey Norman、SenHeng 或第三方賣家）單獨買了未經官網訂購的硬體套件再到 App 啟用，不但享受不到官網特定方案的 RM 0 或 US$ 0 租賃，也無法補登推薦獎勵。購機通路比較請看[Starlink 官網買還是電商・實體店買比較好](/zh-hant/reviews/starlink-buy-official-or-retail-zh-hant)。"
+        ],
+        "simulator": {
+          "title": "試算：海外市場下單與通路差異",
+          "scenarios": [
+            {
+              "label": "馬來西亞 100 Mbps 買斷 Mini X（推薦連結）",
+              "lines": [
+                {
+                  "label": "Mini X 設備買斷＋運費",
+                  "value": "RM 900 ＋ RM 89"
+                },
+                {
+                  "label": "100 Mbps 月費",
+                  "value": "RM 135／月"
+                },
+                {
+                  "label": "滿兩個週期後推薦抵扣",
+                  "value": "11 月參考金額 RM 180（付款前請確認訂購頁）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "下單當天實付金額",
+              "totalValue": "RM 989",
+              "note": "獎勵不會減少當天的 RM 989 付款，而是兩個週期後進入帳單抵扣；付款前請在訂購畫面確認實際金額。"
+            },
+            {
+              "label": "美國內華達 Max（Standard 4 X 租賃＋推薦連結）",
+              "lines": [
+                {
+                  "label": "Standard 4 X＋Router Mini 租賃",
+                  "value": "US$ 0（取消須歸還）"
+                },
+                {
+                  "label": "Max 月費（例）",
+                  "value": "US$ 91／月（原價 US$ 130）"
+                },
+                {
+                  "label": "滿兩個週期後推薦抵扣",
+                  "value": "US$ 100（官方說明中心美國範例）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "下單當天實付（含運費）",
+              "totalValue": "US$ 20 ＋稅",
+              "note": "符合頁面條款下，30 天內取消服務並完好歸還設備可申請退還套件與首月費用。"
+            },
+            {
+              "label": "實體經銷商／電商平台買空機",
+              "lines": [
+                {
+                  "label": "設備價格",
+                  "value": "依店家全額購買（無官網 RM 0 租賃）"
+                },
+                {
+                  "label": "推薦獎勵",
+                  "value": "0（僅限 starlink.com 推薦連結訂單）"
+                },
+                {
+                  "label": "退貨處理",
+                  "value": "硬體須回原購買通路退貨，訂閱另行取消"
+                }
+              ],
+              "totalLabel": "可領取的推薦獎勵",
+              "totalValue": "0",
+              "note": "買到二手未解除綁定的機台，還會有無法啟用服務的風險。"
+            }
+          ]
+        },
+        "links": [
+          {
+            "label": "用我的地址開啟官網訂購頁並確認 30 天條款",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "下單前必須確認的 5 件事",
+        "paragraphs": [
+          "在英文或當地語言介面的訂購頁付款前，花兩分鐘逐項確認以下細節，就能避開多數安裝與退換貨踩雷。"
+        ],
+        "checklist": {
+          "title": "結帳前 5 點檢查清單",
+          "items": [
+            "我已在預定架設位置開啟 Starlink App 完成天空遮蔽物檢查，確認沒有樹枝或建築遮擋。",
+            "我已確認輸入的地址在官網訂購頁顯示的硬體模式是「購買」還是「0 元租賃」，並知曉取消時是否須歸還。",
+            "若挑選 Mini，我已評估電源走線距離，以及是否需要另購原廠防水 Ethernet 線或室內 Router Mini。",
+            "我從本站推薦連結進入 starlink.com，並於付款前在訂購畫面核對實際顯示的推薦獎勵金額（例如美國 US$ 100 或馬來西亞 11 月參考金額 RM 180，付款前請以訂購頁顯示金額為準）。",
+            "我已截圖保存頁面上的月費、設備費與 30 天取消退還條款作為對帳依據。"
+          ]
+        }
+      },
+      {
+        "heading": "總結：你該選 Mini 還是 Standard？",
+        "paragraphs": [
+          "如果你的核心需求是陽台好安裝、攜帶移動、停電時接 UPS 或行動電源站長時間備援，或是你的居住空間不大，Starlink Mini（25–40 W、1.10 kg）在電費與施工便利性上贏很多。尤其在只能二選一買斷的地區（如韓國），價格差也能省下一筆初期預算。",
+          "如果你的房子格局大、牆壁厚、同時有十幾二十台以上設備加上有線裝置要接，而且當地（例如美國 200 Mbps／Max 或歐洲多數市場）直接給你 Standard 4 與 Router 3，不需要犧牲 Wi-Fi 6 三頻 297 m² 覆蓋與雙 LAN 埠。若還在評估是否申裝，也歡迎參考[Starlink 值得買嗎](/zh-hant/reviews/starlink-worth-it-zh-hant)。"
+        ],
+        "emphasis": "低耗電備援（25–40 W）與簡便安裝選 Mini；大坪數室內 Wi-Fi 6 覆蓋（297 m²）與有線雙 LAN 埠選 Standard V4。無論選哪款，付款前都要在自己地址的 starlink.com 訂購頁確認實際硬體條款與推薦金額。"
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "台灣、香港或中國大陸可以直接在官網買 Mini 或 Standard 嗎？目前 Starlink 語言選單沒有繁體中文或簡體中文，這三個地區在官網也尚未開放一般住宅直購服務。使用這篇比較指南的讀者大多是海外居留或旅行使用，須以當地語言與地址的訂購頁為準。",
+          "Starlink Mini 的網速會比 Standard 慢很多嗎？兩者在住宅方案中都能連線衛星網路，但 Standard 天線面積較大，在惡劣天氣或高負載下通常較有餘裕；實際下載與上傳表現仍取決於所在地區容量、遮蔽情況與所選方案上限。",
+          "只有 Mini 的內建 Wi-Fi 夠用嗎？Mini 內建 Wi-Fi 5（標稱最大 112 m²），如果天線裝在室外穿過厚實水泥牆，屋內角落訊號可能會變弱。大屋建議改選 Standard V4＋Router 3，或透過有線／Starlink Router Mini 延伸訊號。",
+          "買 Mini 或 Standard 都能拿到推薦獎勵嗎？可以，只要是在 starlink.com 透過推薦連結建立的新住宅或旅行方案訂單都符合資格，並於付清兩個完整計費週期後發放。美國官方說明中心舉例為 US$ 100，各地實際金額皆以你付款前訂購頁實際顯示為準。",
+          "Mini 可以直接插家裡一般的網路線連接路由器嗎？Mini 附有 1 個帶鎖 Ethernet LAN 埠（原廠網線須另購），在戶外改插一般 RJ45 接頭會失去 IP67 防水保護。兩者皆支援以有線方式啟用 Bypass 模式連接自備路由器或 Mesh（Mini 退出 Bypass 須恢復原廠設定），官方 Mesh 相容 Router Mini、Router 3 與第 2 代路由器（最多 3 節點，不相容第三方 Mesh）。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你需要低功耗備援電源、陽台或攜帶式簡易安裝，且主要連線距離在單一空間內。",
+        "你的住家面積較大、有多面牆壁阻隔或須使用有線網路埠，並想利用獨立放置的 Wi-Fi 6 路由器。"
+      ],
+      "skipIf": [
+        "你目前的所在地已有穩定且達標的有線光纖，不需要額外衛星線路或備援線路。",
+        "你安裝地點的天空視野受高樓或茂密樹冠遮擋，無法在 App 障礙物檢測中找到開闊區域。"
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "透過推薦連結進入 starlink.com，價格與官網完全相同，並能在下單前看清你的地址配發 Mini 還是 Standard、是否享有 30 天退還退款條款，以及實際發放的推薦抵扣（例如美國 US$ 100，馬來西亞 11 月參考金額 RM 180，付款前請確認訂購頁顯示）。",
+      "label": "到 starlink.com 查看我的地址與套件條件",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "本比較依 Starlink 官方硬體規格頁面、說明中心與公開訂購頁面整理而成。本站參與 Starlink 推薦計畫，若你經由推薦連結完成符合條件的訂閱，我們可能獲得獎勵。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-zh-hant"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hant"
+      },
+      {
+        "slug": "starlink-buy-official-or-retail-zh-hant"
+      },
+      {
+        "slug": "starlink-plans-100-200-max-zh-hant"
+      }
+    ]
+  },
+  {
+    "id": 1429,
+    "slug": "starlink-mini-or-standard-zh-hans",
+    "translationKey": "starlink-mini-ou-padrao",
+    "locale": "zh-hans",
+    "title": "Starlink Mini 与 Standard（标准版 V4）怎么选？规格、功耗、路由器与海外方案对比",
+    "seoTitle": "Starlink Mini vs Standard（V4）：规格与选购对比",
+    "type": "对比指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "编辑与分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Starlink 目前在中国大陆、台湾和香港没有官网住宅直购与中文界面。本文结合官方规格与马来西亚、美国、韩国实例，对比 Mini 与 Standard 的功耗、Wi-Fi 与路由器差异。",
+    "metaDescription": "Starlink Mini 还是 Standard（V4＋Router 3）？对比 25–40 W 与 75–100 W 功耗、Wi-Fi 5 与 Wi-Fi 6、网口数与 Router Mini 差异，并说明中国大陆及港澳台现状与海外实操。",
+    "publishedAt": "2026年11月24日",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-mini-or-standard-zh-hans-capa.webp",
+    "imageAlt": "黑色面板标示 STARLINK 与“Starlink Mini 还是 Standard?”标题，右侧搭配带支架的 Starlink Standard 天线与立式路由器官方照片的对比文章封面。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Starlink Mini（结账页面常称为 Mini X）把 Wi-Fi 5 路由器直接集成在天线内部，尺寸小且平均功耗仅 25–40 W，适合小户型、阳台便携安装、移动携带或接 UPS 不间断电源做断网备份。Starlink Standard（V4／第 3 代）配有独立的 Router 3 路由器，支持 Wi-Fi 6 三频、最高 297 m² 覆盖和 2 个有线网口，更适合大户型和多设备住宅。需要先行说明的是，Starlink 目前没有简体中文界面，在中国大陆、台湾和香港也没有开放住宅官网直购；如果你在海外通过推荐链接下单，两款套件都能参与推荐奖励，付款前请务必在订单页面核对实际显示金额。"
+        ],
+        "links": [
+          {
+            "label": "通过推荐链接确认我的地址可选套件与奖励金额",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "没有中文官网时，海外订单页怎么分配这两款套件？",
+        "paragraphs": [
+          "查看 Starlink 官网的语言列表可以发现，目前既没有简体中文也没有繁体中文，中国大陆、台湾和香港也未提供一般家用直购入口。因此海外用户下单时需要使用英文或当地语言界面，而系统往往直接按“国家”和“所选套餐”决定配备 Mini 还是 Standard。",
+          "我们在 2026 年 11 月 23 日查询多个海外公开地址后，总结出三种主要规则：第一种是“同地址按套餐区分买断或租用”，例如马来西亚吉隆坡同一地址上，100 Mbps 套餐（每月 RM 135）需购买 Mini X（RM 900，加运费 RM 89 今日实付 RM 989），而 Max 套餐（每月 RM 235）则提供 Rental Kit (Mini X) RM 0 租用（今日仅付运费 RM 89，取消时须退回）。第二种是“按套餐切换硬件”，例如美国内华达州 100 Mbps（US$ 38.50／月）配送 Starlink V5 + Router Mini 租用 US$ 0，200 Mbps 与 Max 才升级为 V4／Standard 4 X 套件；第三种是“买家自主切换选购”，例如韩国首尔订单页允许用户自由选择购买 Mini（₩160,000）或 Standard 4 X（₩275,000）。各地区退回与合约规定见[Starlink 合约与取消指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
+        ],
+        "comparisonTable": {
+          "caption": "2026 年 11 月 23 日在 starlink.com 海外公开页面读取的硬件规则示例，实际条款以你的订单地址为准。",
+          "headers": [
+            "海外市场示例",
+            "页面配备硬件",
+            "获取方式与费用",
+            "取消或合约条件"
+          ],
+          "rows": [
+            [
+              "马来西亚（吉隆坡 100 Mbps）",
+              "Mini X",
+              "买断 RM 900（月费 RM 135，运费 RM 89）",
+              "无 12 个月合约，适用 30 天内退回退款条件"
+            ],
+            [
+              "马来西亚（吉隆坡 Max）",
+              "Rental Kit (Mini X)",
+              "租用 RM 0（月费 RM 235，运费 RM 89）",
+              "无 12 个月合约，取消服务时须归还租用设备"
+            ],
+            [
+              "美国（内华达 100 Mbps／Max）",
+              "V5 + Router Mini ／ Standard 4 X + Router Mini",
+              "租用 US$ 0（月费 US$ 38.50／US$ 91）",
+              "无年约限制，取消服务时须归还租用设备"
+            ],
+            [
+              "韩国（首尔 100Mbps／Max）",
+              "Mini 或 Standard 4 X 任选",
+              "买断 Mini ₩160,000 ／ Standard 4 X ₩275,000",
+              "无绑定合约字样，30 天内完好退回可申请退款"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "马来西亚吉隆坡的 Starlink 英文订购页，显示 100 Mbps 套餐每月 RM 135 与购买 Mini X 价格 RM 900",
+          "caption": "马来西亚吉隆坡（英文界面示例）：同地址下 100 Mbps 需买断 Mini X（RM 900），Max 为 RM 0 租用。",
+          "objectFit": "contain",
+          "aspectRatio": 0.9898
+        }
+      },
+      {
+        "heading": "官方规格对比：Starlink Mini vs Standard（V4＋Router 3）",
+        "paragraphs": [
+          "两款硬件的差异不只是尺寸大小，它们在路由器是否独立、功耗、Wi-Fi 世代、网口数量以及防水接口设计上截然不同。以下参数全部读取自 [Starlink 官方规格页面](https://www.starlink.com/specifications)，未做估算或删改。"
+        ],
+        "comparisonTable": {
+          "caption": "Starlink Mini 与 Starlink Standard V4（配 Router 3）官方硬件参数对比。",
+          "headers": [
+            "参数项目",
+            "Starlink Mini",
+            "Starlink Standard V4＋Router 3"
+          ],
+          "rows": [
+            [
+              "天线尺寸",
+              "298.5 × 259 × 38.5 mm",
+              "594 × 383 × 39.7 mm"
+            ],
+            [
+              "重量（裸机／含支架／含支架与 15 m 线）",
+              "1.10 kg ／ 1.16 kg（含支架）／ 1.53 kg（含支架与 15 m DC 电源线）",
+              "2.9 kg ／ 3.2 kg（含支架）／ 3.8 kg（含支架与 15 m 线缆）"
+            ],
+            [
+              "平均功耗",
+              "25–40 W（支持 12–48 V 60 W 输入及 USB PD 最低 100 W 20 V/5 A）",
+              "75–100 W（标配 1.5 m 交流线与 IP66 Type 4 电源）"
+            ],
+            [
+              "路由器架构",
+              "内置于天线机身（可选配 Router Mini 扩展）",
+              "独立外置 Router 3（43.4 × 298.6 × 120.4 mm，0.57 kg，室内 IP56）"
+            ],
+            [
+              "Wi-Fi 规格与覆盖",
+              "内置 Wi-Fi 5（双频 3×3 MU-MIMO），最高 112 m²、128 台设备",
+              "Router 3 为 Wi-Fi 6 三频 4×4 MU-MIMO，最高 297 m²、235 台设备"
+            ],
+            [
+              "有线 Ethernet 接口",
+              "1 个带锁紧与防水塞的 LAN 口（Mini 专用网线不标配）",
+              "Router 3 自带 2 个锁紧式 LAN 口（标配 15 m Starlink 主线）"
+            ],
+            [
+              "防尘防水等级（IP）",
+              "IP67 Type 4（改插普通 RJ45 网线将丧失 IP67 防护）",
+              "天线 IP67 Type 4／电源 IP66 Type 4／Router 3 室内 IP56"
+            ],
+            [
+              "Bypass 模式与 Mesh",
+              "支持 Bypass（需恢复出厂设置退出）；仅支持 Starlink Mesh（最多 3 节点）",
+              "支持 Bypass；仅支持 Starlink Mesh（最多 3 节点，不兼容第三方 Mesh）"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "前往 starlink.com/specifications 查看官方硬件规格",
+            "href": "https://www.starlink.com/specifications"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlink Standard V4 天线和分体式 Router 3 路由器官方图",
+          "caption": "Starlink Standard V4 天线与独立置于室内的 Router 3，更便于把无线路由放在屋子中心。",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "室内穿墙信号、UPS 功耗与 Bypass・Mesh 接线注意",
+        "paragraphs": [
+          "按实用规则整理（基于官方规格分析，非本站实测）：在砖墙或混凝土墙较多的住宅里，Starlink Mini 将 Wi-Fi 5 路由器集成在户外天线上，信号得先穿过外墙玻璃才能进入室内，官方标称的 112 m² 覆盖在隔墙后会进一步缩小。如果你家面积较大，要么通过网线把信号拉回室内自有路由器，要么搭配官方的 Router Mini（83.6 × 138 × 27 mm、重 112 g、限室内使用，支持 Wi-Fi 6 最高 204 m² 与 235 台设备，自带 2 个 1 Gbps RJ-45 接口）做无线或有线节点。",
+          "如果买 Starlink 主要是为了给不稳定光纤做备援，或考虑停电时接入 UPS・便携储能电源维持上网，Mini 的低功耗优势非常明显：25–40 W 的平均功耗大约只有 Standard（75–100 W）的一半，而且 Mini 能用官方线缆直接接入 12–48 V 直流或 100 W USB PD 电源，同样容量的电池能多撑一倍以上时间。",
+          "需要有线连接 NAS、交换机或开启 Bypass 模式接入双 WAN 路由器的用户，还得留意接口细节：Mini 机身带 1 个锁紧式 Ethernet LAN 口，盒内不标配网线（专用网线需另购），若直接插普通 RJ45 水晶头会破坏机身的 IP67 防水密封；Standard V4 把两个 LAN 口做在室内的 Router 3 上，接网线省心得多。两款均支持 Bypass 模式以有线连接自备路由器或 Mesh（注意 Mini 退出 Bypass 须恢复出厂设置），官方 Mesh 最多支持 3 个 Starlink 节点（兼容 Router Mini、Router 3 与第 2 代路由器，不兼容第三方 Mesh）。各档套餐对比见[Starlink 100 Mbps、200 Mbps 与 Max 套餐对比](/zh-hans/reviews/starlink-plans-100-200-max-zh-hans)。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standard V4 完整套件：天线本体、Router 3、支架、电源模块和 15 m 线缆",
+          "caption": "Starlink Standard V4 套件全部件（含天线、Router 3、电源和线缆）。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "推荐奖励怎么算？适用条件、计费周期与实际金额核对",
+        "paragraphs": [
+          "只要你的初始订单是从 starlink.com 的推荐链接发起的，不论系统配给 Mini 还是 Standard，只要属于家用或旅行套餐都符合推荐条件。美国在官方帮助中心举例的奖励是 US$ 100；在马来西亚，11 月参考金额 RM 180 来自公开市场参考资料，不同国家实际金额会随时调整，因此付款前请在订单页面确认实际显示金额。机制细节可查看[Starlink 推荐页面](/zh-hans/coupons/starlink)。",
+          "推荐奖励要等到订阅保持有效并按时缴清两个完整账单周期后，才会作为账单抵扣发放到账户中（在支持的地区也可通过 Stripe 领取现金），绝不会在结账时直接抵扣套件费用。下单当天你仍需支付订单页面写明的全部套件费和运费（例如马来西亚 100 Mbps 须全额支付 RM 989）。",
+          "如果先在经销商或电商平台（如马来西亚 Harvey Norman、SenHeng 或第三方卖家）买裸机，再在应用里激活，不仅无法享受官网特定套餐的 RM 0 或 US$ 0 租用，也绝对无法事后补录推荐奖励。购机渠道对比见[Starlink 在官网买还是零售店・电商买](/zh-hans/reviews/starlink-buy-official-or-retail-zh-hans)。"
+        ],
+        "simulator": {
+          "title": "试算：海外下单方式与渠道差异",
+          "scenarios": [
+            {
+              "label": "马来西亚 100 Mbps 买断 Mini X（推荐链接）",
+              "lines": [
+                {
+                  "label": "Mini X 设备买断＋运费",
+                  "value": "RM 900 ＋ RM 89"
+                },
+                {
+                  "label": "100 Mbps 月费",
+                  "value": "RM 135／月"
+                },
+                {
+                  "label": "付清两个周期后推荐抵扣",
+                  "value": "11 月参考金额 RM 180（付款前请核对订单页）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "下单当天应付总额",
+              "totalValue": "RM 989",
+              "note": "奖励不会减少当天支付的 RM 989，而是满两个周期后进入账单抵扣；付款前请在订单页面确认实际金额。"
+            },
+            {
+              "label": "美国内华达 Max（Standard 4 X 租用＋推荐链接）",
+              "lines": [
+                {
+                  "label": "Standard 4 X＋Router Mini 租用",
+                  "value": "US$ 0（取消时须归还）"
+                },
+                {
+                  "label": "Max 月费（例）",
+                  "value": "US$ 91／月（原价 US$ 130）"
+                },
+                {
+                  "label": "付清两个周期后推荐抵扣",
+                  "value": "US$ 100（官方帮助中心美国示例）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "下单当天应付（含运费）",
+              "totalValue": "US$ 20 ＋税",
+              "note": "按页面条款，30 天内取消服务并完好退回设备可申请退还套件与首月费用。"
+            },
+            {
+              "label": "线下经销商／电商平台买断裸机",
+              "lines": [
+                {
+                  "label": "硬件价格",
+                  "value": "按门店全价购买（无官网 RM 0 租用）"
+                },
+                {
+                  "label": "推荐奖励",
+                  "value": "0（仅限 starlink.com 推荐链接新单）"
+                },
+                {
+                  "label": "退货流程",
+                  "value": "硬件须找卖家退货，订阅另外取消"
+                }
+              ],
+              "totalLabel": "可拿到的推荐奖励",
+              "totalValue": "0",
+              "note": "第三方二手未解绑机器还存在无法激活的风险。"
+            }
+          ]
+        },
+        "links": [
+          {
+            "label": "输入我的地址查看套件模式与 30 天条款",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "付款前务必核对的 5 项检查",
+        "paragraphs": [
+          "在英文或当地语言订购页确认付款前，按下面 5 点逐一核对，能避开大部分装机和退货麻烦。"
+        ],
+        "checklist": {
+          "title": "下单前 5 项检查清单",
+          "items": [
+            "我已在安装位置打开 Starlink App 做完障碍物扫描，确认上方天空没有遮挡。",
+            "我已确认该地址在订购页的设备模式是“购买”还是“0 元租用”，并清楚取消时是否必须寄回。",
+            "如果选 Mini，我已确认直流供电线长度，以及是否需另外购买原厂防水网线或 Router Mini。",
+            "我从本站推荐链接打开 starlink.com，并在付款前于页面核实实际显示的推荐金额（例如美国 US$ 100 或马来西亚 11 月参考金额 RM 180，付款前请以订购页显示金额为准）。",
+            "我已截图留存包含月费、设备费和 30 天取消退回条款的订单摘要。"
+          ]
+        }
+      },
+      {
+        "heading": "结论：Mini 还是 Standard 更适合你？",
+        "paragraphs": [
+          "如果你希望安装最简单、需要连接 UPS 或户外储能电源做断电备份、或者只是小空间使用且不想多占地方，Starlink Mini（25–40 W、1.10 kg）凭借低功耗和紧凑设计胜出；在允许自由二选一买断的市场（如韩国），它也能省下可观的前期硬件预算。",
+          "如果房屋面积较大、隔墙多、家里有多台有线与无线设备需要靠独立的 Wi-Fi 6 三频路由器（297 m²、235 台设备与双 LAN 口）撑起来，而且所在地区方案正好提供 Standard 4 与 Router 3，选标准版省去了后期另买路由器和防水网线的折腾。若还在决定是否办理 Starlink，可先看[Starlink 值得买吗](/zh-hans/reviews/starlink-worth-it-zh-hans)。"
+        ],
+        "emphasis": "低功耗备援（25–40 W）与轻量便携安装选 Mini；大户型 Wi-Fi 6 三频覆盖（297 m²）与双有线网口选 Standard V4。无论选择哪款，付款前都要在自己地址的 starlink.com 订单页确认实际条款与推荐金额。"
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "中国大陆、台湾或香港能直接在官网订购 Mini 或 Standard 吗？目前 Starlink 语言菜单没有简体中文和繁体中文，上述地区在官网也未开放普通住宅直购服务。本文内容主要供海外华语用户在支持国家和地区下单时对照使用，最终均以当地语言订单页为准。",
+          "Starlink Mini 的网速比 Standard 慢很多吗？两款天线都可用于住宅联网，但 Standard 的接收面积更大，在暴雨等恶劣天气或高负载场景下通常更有余量；实际网速仍受当地网络容量、天空遮挡和所选套餐上限影响。",
+          "只靠 Mini 内置的 Wi-Fi 够覆盖整套房子吗？Mini 内置 Wi-Fi 5（标称最大 112 m²），当机身装在室外且房屋墙体较厚时，室内信号容易衰减。大房子建议选用 Standard V4＋Router 3，或把网线拉进室内接独立路由器。",
+          "选 Mini 或 Standard 都能拿到推荐奖励吗？可以，只要是在 starlink.com 通过推荐链接发起的符合条件的家用或旅行新订单都能参与，并于付清两个完整账单周期后入账。美国官方帮助中心示例为 US$ 100，各地实际金额均以你付款前订单页实际显示为准。",
+          "Mini 能直接插家里普通的网线接路由器吗？Mini 有 1 个锁紧式 Ethernet LAN 口，专用网线需另购，且在户外插普通 RJ45 插头会破坏 IP67 防水等级。两款均支持 Bypass 模式以有线连接自备路由器或 Mesh（Mini 退出 Bypass 须恢复出厂设置），官方 Mesh 兼容 Router Mini、Router 3 与第 2 代路由器（最多 3 节点，不兼容第三方 Mesh）。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你需要低功耗应急备援、阳台或便携式快速安装，且主要在较小空间内用网。",
+        "你居住在面积较大或隔墙较多的房子里，需要独立的 Wi-Fi 6 三频路由器和两个有线网口。"
+      ],
+      "skipIf": [
+        "你所在住址已有稳定且达标的光纤宽带，不需要卫星网络作为主力或备用线路。",
+        "安装点上方有树木或建筑物严重遮挡，在 App 扫描中找不到足够开阔的天空视角。"
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "通过推荐链接进入 starlink.com，价格与官网完全一致，并可在付款前看清你所在地址提供的是 Mini 还是 Standard、是否适用 30 天退回条款，以及实际显示的推荐金额（如美国 US$ 100，马来西亚 11 月参考金额 RM 180，付款前请核对订单页）。",
+      "label": "前往 starlink.com 查看我的地址与套件条件",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "本文根据 Starlink 官方硬件规格页、帮助中心文档与公开订购页面整理。我们参与 Starlink 推荐计划，若你通过推荐链接下单并满足条件，我们可能获得奖励。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-zh-hans"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hans"
+      },
+      {
+        "slug": "starlink-buy-official-or-retail-zh-hans"
+      },
+      {
+        "slug": "starlink-plans-100-200-max-zh-hans"
+      }
+    ]
+  },
+  {
+    "id": 1430,
+    "slug": "starlink-mini-or-standard-ar",
+    "translationKey": "starlink-mini-ou-padrao",
+    "locale": "ar",
+    "title": "مقارنة Starlink Mini مقابل Standard 4 X: الاختيار في عُمان وقطر، الاستهلاك وتغطية Wi-Fi",
+    "seoTitle": "Starlink Mini أم Standard 4 X؟ المواصفات والفرق",
+    "type": "مقارنة",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "تحرير وتحليل",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "تحرير وتحليل",
+        "initials": "BL"
+      }
+    ],
+    "description": "قارن بين Starlink Mini (80 ر.ع. في عُمان) وStandard 4 X (160 ر.ع. في عُمان و1,500 ر.ق. في قطر) من حيث الطاقة وتغطية Wi-Fi ومنافذ الشبكة ووضع Bypass.",
+    "metaDescription": "الفرق الرسمي بين Starlink Mini وStandard V4: استهلاك 25–40 واط مقابل 75–100 واط، Wi-Fi 5 وWi-Fi 6، وخيار الشراء المباشر في عُمان وقطر قبل الدفع.",
+    "publishedAt": "24 نوفمبر 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-mini-or-standard-ar-capa.webp",
+    "imageAlt": "غلاف مقارنة يضم لوحة سوداء مكتوب عليها STARLINK وعنوان «Mini أم Standard أيهما تختار؟» إلى جانب الصورة الرسمية لهوائي Starlink Standard مع الحامل وجهاز التوجيه العمودي.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "الإجابة السريعة",
+        "paragraphs": [
+          "اختر Starlink Mini إذا كنت تريد حجمًا أصغر واستهلاك طاقة منخفضًا (25–40 واط) للبطاريات وUPS وسعرًا أقل في عُمان. أما للمنازل الواسعة ذات الجدران الخرسانية، فيتفوّق Standard V4 مع Router 3 بتغطية Wi-Fi 6 حتى 297 م² ومنفذي Ethernet. وكلاهما مؤهل لمكافأة الإحالة عبر الرابط الرسمي على starlink.com مع تأكيد المبلغ قبل الدفع."
+        ],
+        "links": [
+          {
+            "label": "تحقق من خيارات Mini وStandard لعنواني عبر رابط الإحالة",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "أين يظهر كل جهاز في شاشة الطلب في عُمان وقطر والخارج؟",
+        "paragraphs": [
+          "تتوفر واجهة starlink.com الرسمية باللغة العربية في الأسواق العربية المدعومة، ومن أبرزها سلطنة عُمان ودولة قطر. وفي فحصنا لصفحة الطلب العامة لمسقط (عُمان) بتاريخ 23 نوفمبر 2026، كان الطبق يُباع شراءً مباشرًا دون إيجار وبعبارة «بدون تعاقد، فترة تجريبية 30 يومًا» على باقة «المنازل» (OMR 30 شهريًا، والشحن OMR 10)، مع حرية الاختيار بين Mini بسعر OMR 80 (الإجمالي اليوم OMR 90) أو Standard 4 X بسعر OMR 160 (الإجمالي اليوم OMR 170). وتتطلب صفحة عُمان وثيقة هوية بصورة بعد الطلب ورقمًا يبدأ بـ +968 وبطاقة صادرة في إحدى دول الخليج.",
+          "في الدوحة (قطر)، ظهرت باقة «المنازل Lite» بسعر 220 QAR شهريًا مع شراء مباشر (Standard 4 X بسعر 1,500 QAR + شحن 80 QAR = 1,580 QAR اليوم، أو خيار Mini عند توفره في الطلب) وبعبارة «بدون تعاقد» أيضًا. أما القراء العرب المقيمون في الولايات المتحدة أو أوروبا، فيجب أن ينتبهوا إلى أن النظام هناك يعتمد غالبًا الإيجار المجاني (0$ أو 0 يورو مقدمًا وشهريًا) مع وجوب إعادة الجهاز عند الإلغاء، ويربط الطبق بالباقة المختارة. لتفاصيل التعاقد والإلغاء راجع [دليل العقد والإلغاء والاسترداد](/ar/reviews/starlink-cancel-ar)."
+        ],
+        "comparisonTable": {
+          "caption": "شروط الأجهزة كما ظهرت في صفحات الطلب الرسمية في 23 نوفمبر 2026. اعتمد دائمًا الشاشة التي تظهر لعنوانك قبل الدفع.",
+          "headers": [
+            "السوق والباقة",
+            "خيار الجهاز",
+            "نظام التملك والسعر",
+            "الالتزام والإعادة"
+          ],
+          "rows": [
+            [
+              "عُمان (مسقط - المنازل)",
+              "Mini أو Standard 4 X (اختيار حر)",
+              "شراء مباشر: Mini OMR 80 / Standard 4 X OMR 160 (شحن OMR 10)",
+              "بدون تعاقد، تجربة 30 يومًا لإعادة الجهاز سليمًا"
+            ],
+            [
+              "قطر (الدوحة - المنازل Lite)",
+              "Standard 4 X (أو Mini حسب العنوان)",
+              "شراء مباشر: Standard 4 X بـ 1,500 QAR (شحن 80 QAR)",
+              "بدون تعاقد، تجربة 30 يومًا لإعادة الجهاز سليمًا"
+            ],
+            [
+              "الولايات المتحدة (نيفادا)",
+              "V5 + Router Mini (100 Mbps) / Standard 4 X (Max)",
+              "إيجار بـ US$ 0 مقدمًا (شحن US$ 20 + ضرائب)",
+              "بدون عقد سنوي؛ يجب إعادة الجهاز المستأجر عند الإلغاء"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "alt": "شاشة الطلب الرسمية بالعربية لمدينة مسقط في عُمان وتظهر التبديل بين Mini والمجموعة القياسية Standard 4 X",
+          "caption": "صفحة الطلب الرسمية لمسقط (عُمان): يمكنك التبديل مباشرة بين Mini وStandard 4 X في الشاشة نفسها.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7414
+        }
+      },
+      {
+        "heading": "المقارنة التقنية الرسمية: Starlink Mini مقابل Standard V4",
+        "paragraphs": [
+          "الفارق بين الطبقين لا يقتصر على الحجم والسعر في عُمان أو قطر، بل يشمل مكان الراوتر (مدمج أم منفصل)، استهلاك الكهرباء، جيل الواي فاي، وعدد منافذ الشبكة السلكية. البيانات التالية مأخوذة حرفيًا من [صفحة المواصفات الرسمية لـ Starlink](https://www.starlink.com/specifications)."
+        ],
+        "comparisonTable": {
+          "caption": "مواصفات المصنع الرسمية لطقم Starlink Mini مقابل Starlink Standard V4 مع Router 3.",
+          "headers": [
+            "المواصفة الرسمية",
+            "Starlink Mini",
+            "Starlink Standard (V4 + Router 3)"
+          ],
+          "rows": [
+            [
+              "أبعاد الهوائي",
+              "298.5 × 259 × 38.5 مم",
+              "594 × 383 × 39.7 مم"
+            ],
+            [
+              "الوزن (الهوائي / مع الحامل / مع الحامل والكابل)",
+              "1.10 كجم / 1.16 كجم (مع الحامل) / 1.53 كجم (مع الحامل وكابل DC بطول 15 م)",
+              "2.9 كجم / 3.2 كجم (مع الحامل) / 3.8 كجم (مع الحامل وكابل 15 م)"
+            ],
+            [
+              "متوسط استهلاك الطاقة",
+              "25–40 واط (مدخل 12–48 فولت 60 واط؛ أو USB PD بحد أدنى 100 واط 20V/5A)",
+              "75–100 واط (مزود طاقة IP66 Type 4 وكابل تيار 1.5 م)"
+            ],
+            [
+              "بنية الراوتر",
+              "راوتر مدمج داخل الطبق نفسه",
+              "راوتر Router 3 منفصل (43.4 × 298.6 × 120.4 مم، 0.57 كجم، IP56 داخلي)"
+            ],
+            [
+              "جيل Wi-Fi والتغطية",
+              "Wi-Fi 5 مدمج (Dual Band 3×3 MU-MIMO)، حتى 112 م² و128 جهازًا",
+              "Wi-Fi 6 ثلاثي النطاق 4×4 MU-MIMO، حتى 297 م² و235 جهازًا"
+            ],
+            [
+              "منافذ Ethernet (LAN)",
+              "منفذ Ethernet LAN واحد بقفل وغطاء (كابل Mini Ethernet غير مشمول في العلبة)",
+              "منفذا Ethernet LAN بقفل في Router 3 (كابل Starlink 15 م مشمول)"
+            ],
+            [
+              "درجة الحماية المناخية",
+              "IP67 Type 4 (تُفقد حماية IP67 إذا استُخدم كابل RJ45 عادي بدل كابل Starlink)",
+              "الهوائي IP67 Type 4 / مزود الطاقة IP66 Type 4 / Router 3 داخلي IP56"
+            ],
+            [
+              "وضع Bypass وشبكات Mesh",
+              "يدعم Bypass (الخروج بإعادة ضبط المصنع)؛ Mesh مع أجهزة Starlink فقط (حتى 3 عقد)",
+              "يدعم Bypass؛ يتوافق مع Starlink Mesh فقط (حتى 3 عقد، لا يدعم Mesh الطرف الثالث)"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "اطّلع على المواصفات الرسمية في starlink.com/specifications",
+            "href": "https://www.starlink.com/specifications"
+          }
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "صورة رسمية لهوائي Starlink Standard V4 مع راوتر Router 3 المنفصل",
+          "caption": "هوائي Standard V4 مع راوتر Router 3 المستقل الذي يوضع داخل المنزل لتوزيع إشارة Wi-Fi 6.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "إشارة الواي فاي في المنازل، استهلاك UPS ومنافذ الشبكة",
+        "paragraphs": [
+          "كقاعدة عملية (مستخلصة من المواصفات الرسمية وليست قياسًا ميدانيًا منا): في البيوت المبنية من الخرسانة والطوب في الخليج، وضع طبق Mini فوق السطح يعني أن راوتر Wi-Fi 5 المدمج بداخله سيتأثر بالسقف والجدران قبل وصول الإشارة إلى الغرف السفلية، فتتقلص التغطية العملية عن الـ 112 م² النظرية. إذا أردت تقوية الإشارة في البيت مع Mini أو إذا حصلت في أسواق أخرى على Router Mini (أبعاده 83.6 × 138 × 27 مم، وزنه 112 جم، للاستخدام الداخلي فقط، يدعم Wi-Fi 6 حتى 204 م² و235 جهازًا بمنفذي Ethernet بسرعة 1 جيجابت)، فالحل يكون بوضع راوتر داخلي موصول سلكيًا.",
+          "أما في التشغيل كخط احتياطي للألياف أو مع جهاز UPS ومحطة طاقة محمولة أثناء انقطاع الكهرباء أو في التخييم والبر، فيتفوّق Mini بقوة: متوسط استهلاكه 25–40 واط فقط مقارنة بـ 75–100 واط في Standard V4، ويمكن تشغيله مباشرة عبر مدخل تيار مستمر 12–48 فولت أو شاحن USB PD بقدرة لا تقل عن 100 واط (20 فولت / 5 أمبير) مع الكابل الرسمي، ما يضاعف زمن التشغيل على البطارية نفسها.",
+          "وبالنسبة للربط السلكي مع راوتر Dual-WAN أو السيرفر المنزلي، تذكّر أن لدى Mini منفذ Ethernet LAN واحدًا بقفل وأن كابل Mini Ethernet الرسمي يُباع منفصلًا (لا تتضمنه العلبة)، وأن تركيب كابل RJ45 عادي يفقد الطبق عزل IP67 Type 4 ضد الغبار والمطر. في المقابل، يمنحك Standard V4 راوتر Router 3 داخل المنزل بمنفذي LAN جاهزين للربط المباشر. وكلا الطبقين يتيح وضع Bypass عبر التطبيق لتمرير الاتصال سلكيًا إلى راوتر خاص (يتطلب الخروج من Bypass على Mini إعادة ضبط المصنع)، كما يدعمان شبكة Mesh الرسمية من Starlink (المتوافقة مع Router Mini وRouter 3 وراوتر الجيل الثاني حتى 3 عقد؛ ولا تدعم أجهزة Mesh من شركات أخرى). لمقارنة الباقات والسرعات راجع [مقارنة باقات Starlink السكنية](/ar/reviews/starlink-plans-100-200-max-ar)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "مكونات طقم Starlink Standard V4: الهوائي والراوتر والحامل ومزود الطاقة والكابلات",
+          "caption": "محتويات طقم Starlink Standard V4 الكاملة بما فيها الراوتر والكابل بطول 15 مترًا. صورة: Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      },
+      {
+        "heading": "التكلفة ومكافأة الإحالة بعد دورتي فوترة في عُمان وقطر",
+        "paragraphs": [
+          "سواء اشتريت Mini أو Standard 4 X عبر رابط الإحالة في starlink.com، فإن كلا الجهازين مؤهل لمكافأة الإحالة في الباقات المنزلية والتنقل. وفق البيانات المرجعية المنشورة في نوفمبر من مصادر مستقلة، يبلغ الرصيد المرجعي 15 ريالًا عُمانيًا (OMR 15) في عُمان و160 ريالًا قطريًا (160 QAR) في قطر (وفي الولايات المتحدة تذكر صفحة المساعدة مثال 100 دولار). ونظرًا لاختلاف القيم من بلد لآخر وقابليتها للتحديث، اعتمد المبلغ الذي يظهر في طلبك قبل الدفع. التفاصيل الكاملة تجدها في [صفحة إحالة Starlink](/ar/coupons/starlink).",
+          "انتبه إلى قاعدة أساسية: تُضاف مكافأة الإحالة كرصيد في الفاتورة (أو نقدًا عبر Stripe حيثما يتوفر) بعد إبقاء الاشتراك نشطًا ومسددًا لدورتي فوترة كاملتين، ولا تخفّض سعر الطقم عند إتمام الطلب اليوم (OMR 90 لـ Mini أو OMR 170 لـ Standard في عُمان، و1,580 QAR في قطر).",
+          "وفي حال الشراء من متجر تجزئة أو بائع طرف ثالث في الأسواق المحلية، فأنت تشتري الجهاز خارج مسار الإحالة في starlink.com وتفقد حقك في الرصيد كليًا، كما تتحمل خطر شراء جهاز مستعمل لا يزال مرتبطًا بحساب مالك سابق. للمقارنة الكاملة بين قنوات الشراء اطّلع على [الشراء من موقع Starlink الرسمي أم من المتاجر والأسواق](/ar/reviews/starlink-buy-official-or-retail-ar)."
+        ],
+        "simulator": {
+          "title": "المحاكي: مقارنة الشراء في عُمان وقطر مقابل المتاجر الوسيطة",
+          "scenarios": [
+            {
+              "label": "عُمان: Mini + باقة المنازل (عبر رابط الإحالة)",
+              "lines": [
+                {
+                  "label": "جهاز Mini + الشحن (شراء مباشر)",
+                  "value": "OMR 80 + OMR 10"
+                },
+                {
+                  "label": "الاشتراك الشهري (المنازل)",
+                  "value": "OMR 30/الشهر"
+                },
+                {
+                  "label": "مكافأة بعد دورتي فوترة",
+                  "value": "المبلغ المرجعي في نوفمبر OMR 15 (اعتمد شاشة الطلب قبل الدفع)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "المدفوع اليوم عند الطلب",
+              "totalValue": "OMR 90",
+              "note": "لا يخصم الرصيد من مبلغ اليوم بل يدخل الفاتورة بعد دورتين. اعتمد المبلغ الذي يظهر في طلبك قبل الدفع."
+            },
+            {
+              "label": "عُمان وقطر: Standard 4 X (عبر رابط الإحالة)",
+              "lines": [
+                {
+                  "label": "عُمان (Standard 4 X + شحن) / قطر (Standard 4 X + شحن)",
+                  "value": "OMR 160 + OMR 10 / 1,500 + 80 QAR"
+                },
+                {
+                  "label": "الاشتراك الشهري",
+                  "value": "OMR 30 في عُمان / 220 QAR (Lite) في قطر"
+                },
+                {
+                  "label": "مكافأة بعد دورتي فوترة",
+                  "value": "المبلغ المرجعي في نوفمبر OMR 15 أو 160 QAR (اعتمد شاشة الطلب قبل الدفع)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "المدفوع اليوم عند الطلب",
+              "totalValue": "OMR 170 (عُمان) / 1,580 QAR (قطر)",
+              "note": "يشمل فترة تجريبية 30 يومًا بإلغاء الخدمة وإعادة الجهاز سليمًا. اعتمد المبلغ الذي يظهر في طلبك قبل الدفع."
+            },
+            {
+              "label": "الشراء من متجر تجزئة أو بائع خارجي",
+              "lines": [
+                {
+                  "label": "سعر الجهاز",
+                  "value": "كامل السعر لدى البائع دون إحالة"
+                },
+                {
+                  "label": "مكافأة الإحالة",
+                  "value": "0 (لا تُضاف بعد الشراء أو التفعيل)"
+                },
+                {
+                  "label": "الإرجاع خلال 30 يومًا",
+                  "value": "إرجاع الجهاز عبر المتجر وإلغاء الاشتراك منفصلًا"
+                }
+              ],
+              "totalLabel": "رصيد الإحالة المكتسب",
+              "totalValue": "0",
+              "note": "الأجهزة المستعملة في الأسواق المفتوحة قد تكون محظورة النقل إذا بقيت مرتبطة بحساب آخر."
+            }
+          ]
+        },
+        "links": [
+          {
+            "label": "اعرض أسعار Mini وStandard لعنوانك مع تجربة 30 يومًا",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "5 نقاط تحقق قبل إتمام الدفع",
+        "paragraphs": [
+          "قبل إدخال بيانات البطاقة على starlink.com، راجع هذه النقاط الخمس لتضمن اختيار الطقم الأنسب لمنزلك وميزانيتك:"
+        ],
+        "checklist": {
+          "title": "قائمة التحقق قبل الدفع",
+          "items": [
+            "فحصت السماء المفتوحة في موقع التركيب عبر تطبيق Starlink للتأكد من عدم وجود مبانٍ أو أشجار تحجب الإشارة.",
+            "قررت هل يكفي تغطية Mini واستهلاكها المنخفض أم يحتاج منزلي الواسع إلى Router 3 ومنفذي الشبكة في Standard 4 X.",
+            "إذا اخترت Mini، تأكدت من طول كابل الطاقة ومن حاجتي لشراء كابل Mini Ethernet الرسمي للحفاظ على حماية IP67.",
+            "جهّزت بطاقة صادرة من إحدى دول الخليج (لعُمان) ووثيقة الهوية المطلوبة بعد الطلب.",
+            "فتحت الطلب من رابط الإحالة على starlink.com، مع تذكر المبلغ المرجعي في نوفمبر (OMR 15 لعُمان أو 160 QAR لقطر)، وسأعتمد المبلغ الذي يظهر في طلبي قبل الدفع."
+          ]
+        }
+      },
+      {
+        "heading": "الخلاصة: أيهما تختار لمنزلك؟",
+        "paragraphs": [
+          "اختر Starlink Mini إذا كنت تريد توفير نصف تكلفة الجهاز في عُمان (OMR 80 مقابل OMR 160)، أو تحتاج إلى استهلاك طاقة منخفض (25–40 واط) يعمل بسلاسة على البطاريات وUPS، أو إذا كان مكان الاستخدام شقة صغيرة أو رحلات برية ولا تحتاج لتغطية Wi-Fi عبر عدة طوابق.",
+          "اختر Starlink Standard 4 X إذا كان منزلك كبيرًا أو متعدد الغرف بجدران خرسانية وتريد راوتر Wi-Fi 6 ثلاثي النطاق يوضع داخل الصالة مع منفذي Ethernet جاهزين دون الحاجة لشراء ملحقات إضافية من اليوم الأول. ولمعرفة متى يكون الاشتراك ككل مجديًا أمام الألياف المنزلية، طالع [هل تستحق Starlink الاشتراك؟](/ar/reviews/starlink-worth-it-ar)."
+        ],
+        "emphasis": "اختر Mini للتكلفة الأقل واستهلاك 25–40 واط وسهولة النقل، واختر Standard 4 X للتغطية المنزلية الأوسع (297 م² عبر Wi-Fi 6) ومنافذ الشبكة السلكية الجاهزة. في الحالتين تحصل على 30 يومًا لتجربة الخدمة وإعادة الجهاز سليمًا، واعتمد دائمًا المبلغ الظاهر في طلبك قبل الدفع."
+      },
+      {
+        "heading": "الأسئلة الشائعة",
+        "bullets": [
+          "هل يمكنني اختيار Mini أو Standard بحرية في عُمان وقطر؟ نعم، في شاشة الطلب العربية لعُمان ظهر التبديل المباشر بين Mini بسعر OMR 80 وStandard 4 X بسعر OMR 160 على باقة المنازل، وفي قطر يتاح Standard 4 X بسعر 1,500 QAR مع توفر Mini بحسب العنوان في صفحة الطلب.",
+          "هل تكفي Starlink Mini لتغطية بيت كبير دون راوتر إضافي؟ راوتر Mini المدمج هو Wi-Fi 5 بتغطية نظرية حتى 112 م²، وعند وضعه على السطح تضعف الإشارة عبر الجدران الخرسانية. للبيوت الكبيرة يُفضّل اختيار Standard 4 X مع Router 3 الداخلي أو تمديد كابل لراوتر إضافي.",
+          "أيهما أفضل للعمل على بطارية أو UPS عند انقطاع الكهرباء؟ يتفوّق Mini بفارق كبير لأن متوسط استهلاكه 25–40 واط فقط مقارنة بـ 75–100 واط في Standard V4، كما يدعم التشغيل عبر كابل USB PD بقدرة 100 واط أو تيار مستمر 12–48 فولت.",
+          "هل يحصل المشتري على مكافأة الإحالة مع كل من Mini وStandard؟ نعم، كلا الجهازين مؤهل عند فتح الطلب الجديد عبر رابط الإحالة على starlink.com ودفع دورتي فوترة كاملتين. وتختلف قيمة المكافأة من بلد لآخر (تذكر صفحة المساعدة مثال 100 دولار في الولايات المتحدة)، لذلك اعتمد المبلغ الذي يظهر في طلبك قبل الدفع.",
+          "هل يمكن توصيل كابل شبكة عادي بمنفذ Starlink Mini أو تفعيل وضع Bypass؟ تحتوي Mini على منفذ Ethernet LAN واحد بقفل ويُباع كابل Ethernet الخاص بها منفصلًا، كما أن استخدام كابل RJ45 عادي يفقد الطبق عزل IP67 Type 4. وتدعم وضع Bypass لتمرير الاتصال سلكيًا إلى راوتر أو نظام خاص (يتطلب الخروج من Bypass إعادة ضبط المصنع) وتدعم شبكة Mesh الرسمية من Starlink (المتوافقة مع Router Mini وRouter 3 وراوتر الجيل الثاني حتى 3 عقد؛ ولا تدعم Mesh من شركات أخرى)."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "تحتاج إلى طبق خفيف باستهلاك طاقة منخفض يناسب التشغيل الاحتياطي والرحلات أو المساحات المدمجة.",
+        "تريد راوتر Wi-Fi 6 ثلاثي النطاق داخل المنزل مع منفذي شبكة سلكية لتغطية مساحة واسعة متعددة الغرف."
+      ],
+      "skipIf": [
+        "لديك ألياف ضوئية مستقرة وسريعة في عنوانك ولا تحتاج إلى اتصال فضائي بديل أو احتياطي.",
+        "توجد عوائق كبيرة من المباني أو الأشجار في السماء تمنع ظهور مجال رؤية مفتوح في فحص التطبيق."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "افتح الطلب على starlink.com عبر رابط الإحالة بالسعر الرسمي نفسه ومع فترة تجريبية 30 يومًا لإلغاء الخدمة وإعادة الجهاز سليمًا. تختلف مكافأة الإحالة بحسب البلد بعد دورتي فوترة (المبلغ المرجعي في نوفمبر OMR 15 لعُمان و160 QAR لقطر — اعتمد المبلغ الذي يظهر في طلبك قبل الدفع).",
+      "label": "اختر Mini أو Standard لعنواني على starlink.com",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "أُعدّت هذه المقارنة من مواصفات Starlink الرسمية ومركز المساعدة وصفحات الطلب العامة. نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة عبر رابطنا.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-ar"
+      },
+      {
+        "slug": "starlink-worth-it-ar"
+      },
+      {
+        "slug": "starlink-buy-official-or-retail-ar"
+      },
+      {
+        "slug": "starlink-plans-100-200-max-ar"
+      }
+    ]
+  },
+  {
+    "id": 1431,
+    "slug": "planos-starlink-100-200-mbps-ou-max",
+    "translationKey": "starlink-planos-residenciais",
+    "locale": "pt",
+    "title": "Planos Starlink 100 Mbps, 200 Mbps ou Max: preços, antena, contrato e qual escolher",
+    "seoTitle": "Planos Starlink 100 Mbps, 200 Mbps ou Max: qual escolher",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Compare os planos Starlink Residencial 100 Mbps, 200 Mbps e Max no Brasil e em Portugal: preços, antena incluída, fidelidade, velocidades oficiais e regras de troca.",
+    "metaDescription": "Planos Starlink 100 Mbps, 200 Mbps e Max: preços no Brasil e em Portugal, antena Mini X ou Standard 4, contrato de 12 meses e velocidades oficiais.",
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-capa.webp",
+    "imageAlt": "Capa comparativa com painel preto exibindo STARLINK e o título 100, 200 Mbps ou Max? ao lado da antena Starlink instalada no telhado de uma casa contra céu azul.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Starlink divide o uso residencial entre 100 Mbps, 200 Mbps e Max, mas nem todos aparecem em todo endereço. Além dos megabits, a escolha muda a antena enviada, a fidelidade e o valor da instalação. Confira o que abre no seu CEP pelo link oficial para pagar menos e receber crédito na fatura depois."
+        ],
+        "links": [
+          {
+            "label": "Conferir planos disponíveis no seu endereço",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Preços no Brasil e em Portugal e como entra o crédito de indicação",
+        "paragraphs": [
+          "A vitrine residencial de starlink.com muda bastante entre mercados e até dentro do mesmo país. No Brasil, em Alto Paraíso de Goiás (GO), aparecem apenas o Residencial 100 Mbps por R$ 132,30/mês com o ajuste promocional de 30% válido até o fim de novembro (valor cheio de R$ 189/mês) com kit Mini X a R$ 299 e o Residencial Max por R$ 174,30/mês (valor cheio de R$ 249/mês) com kit Mini X a R$ 49. O plano de 200 Mbps não apareceu nos endereços brasileiros testados, e regiões com alta demanda como a Avenida Paulista, em São Paulo (SP), entram em pré-venda com mensalidade cheia, antena Standard 4 X a R$ 2.400 e depósito inicial de R$ 275.",
+          "Em Portugal, os três degraus aparecem juntos em Lisboa: 100 Mbps por 24,50 €/mês (preço cheio 35 €/mês) com Mini X em aluguel a 0 €; 200 Mbps por 31,50 €/mês (cheio 45 €/mês) com Standard 4 a 0 €; e Max por 45,50 €/mês (cheio 65 €/mês) com Standard 4 a 0 € e instalação profissional de 172 € incluída. Em todos esses pedidos novos feitos pelo link oficial de indicação, o bônus é de R$ 200 no Brasil ou 45 € em Portugal, creditado diretamente na fatura após dois ciclos mensais completos pagos em dia, sem alterar o valor cobrado no kit no ato da compra."
+        ],
+        "comparisonTable": {
+          "caption": "Valores lidos nos endereços de referência no checkout oficial em 23/11/2026. O bônus de indicação entra como crédito na fatura após dois ciclos mensais completos e nunca abate o kit no ato da compra.",
+          "headers": [
+            "Mercado e plano",
+            "Mensalidade promo (cheia)",
+            "Kit e condição no pedido",
+            "Instalação e crédito de indicação"
+          ],
+          "rows": [
+            [
+              "Brasil (GO): Residencial 100 Mbps",
+              "R$ 132,30 (de R$ 189)",
+              "Mini X por R$ 299, sem 12 meses",
+              "Instalação opcional; R$ 200 na fatura"
+            ],
+            [
+              "Brasil (GO): Residencial Max",
+              "R$ 174,30 (de R$ 249)",
+              "Mini X por R$ 49, contrato 12 meses",
+              "Instalação grátis; R$ 200 na fatura"
+            ],
+            [
+              "Brasil (SP pré-venda): 100 Mbps / Max",
+              "R$ 189 / R$ 249 (sem desconto)",
+              "Standard 4 X por R$ 2.400",
+              "Depósito R$ 275; R$ 200 na fatura após 2 ciclos pagos"
+            ],
+            [
+              "Portugal (Lisboa): Residencial 100 Mbps",
+              "24,50 € (de 35 €)",
+              "Mini X em aluguel por 0 €",
+              "Instalação 172 € opcional; 45 € na fatura"
+            ],
+            [
+              "Portugal (Lisboa): Residencial 200 Mbps",
+              "31,50 € (de 45 €)",
+              "Standard 4 em aluguel por 0 €",
+              "Instalação 172 € opcional; 45 € na fatura"
+            ],
+            [
+              "Portugal (Lisboa): Residencial Max",
+              "45,50 € (de 65 €)",
+              "Standard 4 em aluguel por 0 €",
+              "Instalação de 172 € grátis; 45 € na fatura"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Simulador de pagamento no pedido e crédito na fatura (Brasil, GO)",
+          "scenarios": [
+            {
+              "label": "100 Mbps com link de indicação",
+              "lines": [
+                {
+                  "label": "Equipamento Mini X + frete (sem 12 meses)",
+                  "value": "R$ 299,00 + frete R$ 0,00"
+                },
+                {
+                  "label": "1ª mensalidade promocional (cheia R$ 189)",
+                  "value": "R$ 132,30/mês (na ativação ou 7 dias após entrega)"
+                },
+                {
+                  "label": "Crédito na fatura após 2 ciclos pagos",
+                  "value": "R$ 200,00 na conta",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Total hoje no pedido",
+              "totalValue": "R$ 299",
+              "note": "Sem fidelidade no kit. A 1ª mensalidade entra na ativação ou 7 dias após a entrega, e os R$ 200 caem na fatura após dois meses pagos."
+            },
+            {
+              "label": "Max com link de indicação",
+              "lines": [
+                {
+                  "label": "Equipamento Mini X (12 meses) + frete + instalação",
+                  "value": "R$ 49,00 + R$ 0,00 + R$ 0,00"
+                },
+                {
+                  "label": "1ª mensalidade promocional (cheia R$ 249)",
+                  "value": "R$ 174,30/mês (na ativação ou 7 dias após entrega)"
+                },
+                {
+                  "label": "Crédito na fatura após 2 ciclos pagos",
+                  "value": "R$ 200,00 na conta",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Total hoje no pedido",
+              "totalValue": "R$ 49",
+              "note": "Exige contrato de 12 meses no endereço cadastrado, com multa proporcional de até R$ 1.099 por rescisão antecipada (trocar de plano no período promocional pode encerrar o desconto ou acionar termos contratuais)."
+            },
+            {
+              "label": "Sem link de indicação / varejo",
+              "lines": [
+                {
+                  "label": "Hardware (sem link no site vs. varejo)",
+                  "value": "R$ 299 no 100 Mbps (site) ou preço integral de loja (varejo)"
+                },
+                {
+                  "label": "Oferta de endereço e mensalidade",
+                  "value": "Sem oferta de endereço no varejo (1ª cobrança na ativação ou 7 dias)"
+                },
+                {
+                  "label": "Crédito na fatura após 2 ciclos pagos",
+                  "value": "R$ 0,00 (perdido sem volta)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Crédito de indicação",
+              "totalValue": "R$ 0",
+              "note": "Sem o link oficial você perde os R$ 200 na fatura e, comprando no varejo, não leva o subsídio nem a oferta do CEP."
+            }
+          ]
+        },
+        "postParagraphs": [
+          "Note que o crédito nunca diminui o valor do kit na hora da compra: ele funciona como saldo para abater faturas depois que a conta completa dois meses seguidos em dia, enquanto a primeira mensalidade recorrente é cobrada apenas na ativação ou 7 dias após a entrega, o que ocorrer primeiro. Em Portugal, o frete padrão observado no pedido foi de 20 € sobre os planos com antena em aluguel."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "alt": "Tela de pedido da Starlink para Alto Paraíso de Goiás exibindo o plano Residencial 100 Mbps com mensalidade promocional e kit Mini X",
+          "caption": "Tela do Residencial 100 Mbps no Brasil: mensalidade reduzida e Mini X sem exigência de 12 meses no equipamento.",
+          "objectFit": "contain",
+          "aspectRatio": 0.9653
+        }
+      },
+      {
+        "heading": "O que muda além dos megabits: antena, contrato de 12 meses e instalação",
+        "paragraphs": [
+          "Muita gente escolhe o plano olhando apenas o teto de download, mas no checkout da Starlink o degrau escolhido altera o hardware e as amarras contratuais. Em Portugal, o plano de 100 Mbps entrega o kit Mini X em aluguel por 0 €, enquanto os planos de 200 Mbps e Max sobem para o kit Standard 4 em aluguel por 0 €. Além disso, quem assina 100 Mbps ou 200 Mbps em Portugal paga 172 € se quiser instalação profissional, ao passo que no Max esse serviço entra incluído sem custo extra.",
+          "No Brasil, a diferença oculta mais importante está entre o 100 Mbps e o Max. Em Alto Paraíso de Goiás, ambos listam o kit Mini X no bloco de equipamento, porém com regras opostas: no 100 Mbps, o Mini X custa R$ 299 sem linha de contrato de 12 meses no resumo; no Max, o mesmo Mini X cai para R$ 49, mas trava o pedido em um contrato obrigatório de 12 meses, com multa proporcional de até R$ 1.099 em caso de rescisão antecipada (enquanto a troca de plano no período promocional pode encerrar o desconto ou acionar termos contratuais e cobrança do equipamento), além de incluir a instalação profissional sem cobrança avulsa.",
+          "Um detalhe que confunde quem lê rápido a página brasileira: na coluna lateral de perguntas frequentes, o item estático \"Prazo de 12 meses\" (com menção à taxa de rescisão antecipada de até R$ 1.099) continua aparecendo mesmo quando você muda para o plano de 100 Mbps, enquanto o bloco Equipamento e o Resumo do pedido mostram o Mini X a R$ 299 sem essa cláusula contratual. Antes de pagar, confira sempre o bloco Equipamento e o Resumo do pedido, e para os detalhes completos de rescisão veja o [guia de fidelidade e cancelamento da Starlink](/reviews/starlink-fidelidade-como-cancelar)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antena e roteador oficiais da Starlink em kit residencial comercializado no site da marca",
+          "caption": "Antena e roteador Starlink: o plano selecionado altera se você recebe a linha Mini ou Standard no endereço.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Velocidades oficiais, latência e para quem cada plano faz sentido",
+        "paragraphs": [
+          "Nos documentos oficiais de banda larga da Starlink (DOC-1470-99699-90) e no artigo atual de planos residenciais da Central de Ajuda (referência 886607c4), os três planos trabalham com dados ilimitados, latência típica abaixo de 50 ms e disponibilidade típica igual ou superior a 99%. A distinção está no teto de download: o plano de 100 Mbps entrega faixa típica de 80 a 100 Mbps (limitado a 100 Mbps); o de 200 Mbps opera entre 80 e 200 Mbps (limitado a 200 Mbps); e o Residencial Max vai de 80 a 400 Mbps no documento de banda larga, chegando a mais de 400 Mbps em áreas com menor congestionamento.",
+          "Para upload, as especificações registram faixa típica de 15 a 35 Mbps nos três degraus, com o artigo da Central de Ajuda destacando 20 a 40 Mbps no Max. Vale notar que o documento legado DOC-1414-37800-64 ainda citava apenas a faixa antiga Standard Fixed de 25 a 100 Mbps, já substituída pela estrutura atual de três perfis onde a rede oferece todas as faixas.",
+          "Como regra prática geral de uso doméstico, sem representar medição feita no seu imóvel: 100 Mbps resolve bem casas com duas a quatro pessoas fazendo videochamadas, trabalho remoto e streaming em 4K; 200 Mbps dá margem para vários usuários em downloads simultâneos ou envio constante de arquivos; e o Max só se justifica em residências muito conectadas, rotinas pesadas em nuvem ou quando a oferta local entrega o kit Standard 4 ou a instalação profissional gratuita com economia real frente aos planos abaixo."
+        ],
+        "comparisonTable": {
+          "caption": "Faixas oficiais registradas em DOC-1470-99699-90 e no artigo 886607c4 da Central de Ajuda. O documento legado DOC-1414-37800-64 listava apenas a faixa antiga de 25 a 100 Mbps.",
+          "headers": [
+            "Plano residencial",
+            "Download típico oficial",
+            "Upload típico oficial",
+            "Latência e franquia"
+          ],
+          "rows": [
+            [
+              "Residencial 100 Mbps",
+              "80 a 100 Mbps (teto 100 Mbps)",
+              "15 a 35 Mbps",
+              "Menor que 50 ms; dados ilimitados"
+            ],
+            [
+              "Residencial 200 Mbps",
+              "80 a 200 Mbps (teto 200 Mbps)",
+              "15 a 35 Mbps",
+              "Menor que 50 ms; dados ilimitados"
+            ],
+            [
+              "Residencial Max",
+              "80 a 400 Mbps (até 400+ Mbps)",
+              "15 a 35 Mbps (20 a 40 Mbps no Max)",
+              "Menor que 50 ms; dados ilimitados"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Antena Starlink instalada sobre telhado com vista desobstruída para o céu",
+          "caption": "Visada limpa do céu continua sendo decisiva para sustentar a faixa de velocidade e a latência abaixo de 50 ms.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "Regras para trocar de plano depois e prazo de 30 dias",
+        "paragraphs": [
+          "Quem assina no plano de entrada muitas vezes conta com subir ou descer de degrau depois, mas a troca segue regras rígidas da conta Starlink. Todos os cortes de ciclo ocorrem às 00:00 UTC (21h no horário de Brasília). Ao pedir alteração pela conta, a opção AGORA aplica upgrades imediatamente com cobrança proporcional da diferença, enquanto downgrades imediatos cortam a velocidade na hora sem reembolso pelos dias já pagos do ciclo; já a opção DATA agenda a mudança para a virada do próximo faturamento.",
+          "Há ainda duas travas críticas. Primeira: planos com kit em aluguel de 0 €, caso dos planos residenciais em Portugal, não permitem trocar de plano pelo autoatendimento. Segunda: contratos promocionais ou com fidelidade de 12 meses podem perder o desconto mensal ou gerar cobrança de taxa contratual se você mudar de plano antes do prazo. Se tiver dúvida se o serviço atenderá seu endereço, lembre que a Starlink garante cancelamento e devolução do kit sem danos em até 30 dias a partir do vencimento do pagamento para reembolso do equipamento e da primeira mensalidade, e você também pode conferir mais detalhes na nossa [página de cupons e indicação da Starlink](/cupons/starlink)."
+        ],
+        "checklist": {
+          "title": "Checklist antes de fechar o plano no pedido",
+          "items": [
+            "Confirme no Resumo do pedido qual kit aparece no seu endereço (Mini X ou Standard 4).",
+            "Verifique se há linha de contrato de 12 meses e qual é o teto da multa proporcional.",
+            "Confira se a instalação profissional aparece grátis ou se será cobrada à parte.",
+            "Se quiser flexibilidade sem fidelidade no Brasil, prefira o 100 Mbps quando disponível sem 12 meses.",
+            "Garanta que o aviso de indicação aplicada está visível em starlink.com antes de concluir o pagamento."
+          ]
+        },
+        "links": [
+          {
+            "label": "Ver plano, kit e crédito no seu endereço",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Veredito: qual plano Starlink escolher",
+        "paragraphs": [
+          "Para a maioria das casas no Brasil onde o 100 Mbps aparece sem contrato de 12 meses, começar pelo plano de 100 Mbps reduz o risco financeiro e mantém a liberdade de cancelar ou mudar depois sem multa pesada. Só vale partir direto para o Residencial Max no Brasil se você realmente precisa da banda maior, vai ficar no mínimo um ano no mesmo endereço e quer aproveitar a instalação incluída.",
+          "Em Portugal, o 200 Mbps costuma ser o meio-termo mais equilibrado para quem quer receber o kit Standard 4 em aluguel pagando mensalidade intermediária, enquanto o Max compensa principalmente quando você precisa da instalação profissional gratuita de 172 € e da máxima prioridade residencial disponível na região."
+        ],
+        "emphasis": "Mais importante do que o número em Mbps no título é conferir no Resumo do pedido três linhas antes de pagar: modelo exato da antena, presença de contrato de 12 meses e aviso de indicação aplicada."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O plano de 200 Mbps existe no Brasil? Nos endereços brasileiros testados, a Starlink exibiu apenas Residencial 100 Mbps e Residencial Max; em Portugal, os três degraus (100, 200 e Max) aparecem juntos no checkout.",
+          "O bônus de indicação deixa o kit mais barato na hora da compra? Não. Os R$ 200 no Brasil ou 45 € em Portugal entram como crédito na fatura após dois ciclos mensais completos pagos em dia, mantendo o preço inicial do equipamento igual.",
+          "Posso escolher a antena Standard no plano de 100 Mbps? Não livremente: a antena é vinculada ao plano e ao endereço. No Brasil, o 100 Mbps e o Max exibiram Mini X nos endereços imediatos e Standard 4 X na pré-venda; em Portugal, 100 Mbps vem com Mini X e 200 Mbps ou Max vêm com Standard 4.",
+          "Se eu assinar um plano com aluguel de kit posso trocar depois pelo aplicativo? Em ofertas com kit em aluguel residencial, a Starlink bloqueia a troca de plano pelo autoatendimento da conta.",
+          "Como funciona o prazo de teste de 30 dias? Você tem até 30 dias a partir do vencimento do pagamento para cancelar o serviço e devolver o kit sem danos visando o reembolso do equipamento e da primeira mensalidade."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Digite seu endereço pelo link oficial para ver quais planos abrem no seu CEP, conferir antena e contrato no resumo e garantir o crédito na fatura após dois ciclos pagos.",
+      "label": "Consultar planos e bônus no seu CEP",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Apuramos os preços, termos contratuais e documentos técnicos diretamente nas páginas públicas e no fluxo de pedido da Starlink. Participamos do programa oficial de indicação e podemos receber recompensa sem custo adicional ao leitor.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-fidelidade-como-cancelar"
+      },
+      {
+        "slug": "starlink-vale-a-pena"
+      },
+      {
+        "slug": "starlink-indicacao-como-usar"
+      },
+      {
+        "slug": "starlink-mini-ou-padrao-qual-escolher"
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "você quer escolher entre 100 Mbps, 200 Mbps ou Max olhando também modelo da antena, instalação e fidelidade do endereço.",
+        "você pretende assinar diretamente no site oficial conferindo no resumo se há prazo de doze meses e crédito de indicação."
+      ],
+      "skipIf": [
+        "você tem fibra óptica estável disponível na rua com custo mensal bem inferior ao serviço via satélite.",
+        "você não pode ficar doze meses no mesmo imóvel e só encontrou oferta residencial com multa contratual no endereço."
+      ]
+    }
+  },
+  {
+    "id": 1432,
+    "slug": "starlink-residential-100-200-mbps-or-max",
+    "translationKey": "starlink-planos-residenciais",
+    "locale": "en",
+    "hideFromPortugueseListings": true,
+    "title": "Starlink Residential 100 Mbps, 200 Mbps, or Max: prices, hardware, and which plan fits",
+    "seoTitle": "Starlink 100 Mbps, 200 Mbps, or Max: which plan to pick",
+    "type": "Decision Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Editing and analysis",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Editing and analysis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Compare Starlink Residential 100 Mbps, 200 Mbps, and Max in the US and UK: pricing, included hardware, free install triggers, speeds, and plan change rules.",
+    "metaDescription": "Starlink 100 Mbps, 200 Mbps, or Max: US and UK pricing, V4/V5/Mini vs Standard 4 kit differences, official speeds, and rental plan rules.",
+    "publishedAt": "November 24, 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/starlink/starlink-residential-100-200-mbps-or-max-capa.webp",
+    "imageAlt": "Comparison cover featuring a black panel with STARLINK and the title 100, 200 Mbps or Max? beside a Starlink dish mounted on a wooden gable roof against a blue sky.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "Starlink divides residential service into 100 Mbps, 200 Mbps, and Max tiers, though availability varies by address. Beyond speed limits, your plan choice changes the included dish kit, free installation eligibility, and self-service plan switching. Check your address via our official referral link to confirm local terms and earn a bill credit after two paid cycles."
+        ],
+        "links": [
+          {
+            "label": "Check available plans at your address",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "US and UK pricing and how the referral credit applies",
+        "paragraphs": [
+          "Both the United States and the United Kingdom display all three residential speed tiers on starlink.com, but with very different promotional structures. For a Nevada test address in the US, Residential 100 Mbps runs $38.50/month promo ($55 regular), Residential 200 Mbps runs $59.50/month promo ($85 regular), and Residential Max runs $91/month promo ($130 regular), each paired with a $0 upfront and $0/month rental kit plus $20 shipping and taxes.",
+          "For a Westminster, London address in the UK, the order summary listed standard rates with no promotional discount: £40/month for 100 Mbps, £60/month for 200 Mbps, and £80/month for Max, with £0 hardware rental, £19 shipping, and an explicit \"No contracts\" label. Starting an order as a first-time customer through the official referral link adds a US$ 100 bill credit in the US or £40 in the UK after two full paid billing cycles, never deducted from hardware charges at checkout."
+        ],
+        "comparisonTable": {
+          "caption": "Prices captured from reference residential addresses in the official checkout flow on November 23, 2026. Referral credit posts to your monthly bill after two complete paid billing cycles.",
+          "headers": [
+            "Market and plan",
+            "Monthly rate (regular)",
+            "Included rental hardware",
+            "Install fee and bill credit"
+          ],
+          "rows": [
+            [
+              "US (Nevada): Residential 100 Mbps",
+              "$38.50/mo ($55 regular)",
+              "V5 dish + Router Mini ($0 rental)",
+              "$99 optional install; US$ 100 bill credit"
+            ],
+            [
+              "US (Nevada): Residential 200 Mbps",
+              "$59.50/mo ($85 regular)",
+              "V4 dish + Router 4 ($0 rental)",
+              "Free install ($0); US$ 100 bill credit"
+            ],
+            [
+              "US (Nevada): Residential Max",
+              "$91/mo ($130 regular)",
+              "Standard 4 X + extra Router Mini ($0)",
+              "Free install ($0); US$ 100 bill credit"
+            ],
+            [
+              "UK (London): Residential 100 Mbps",
+              "£40/mo",
+              "Mini Rental + Router Mini (£0 rental)",
+              "£74 optional install; £40 bill credit"
+            ],
+            [
+              "UK (London): Residential 200 Mbps",
+              "£60/mo",
+              "Standard 4 rental (£0 rental)",
+              "£74 optional install; £40 bill credit"
+            ],
+            [
+              "UK (London): Residential Max",
+              "£80/mo",
+              "Standard 4 rental (£0 rental)",
+              "Free install (£0 vs £74); £40 bill credit"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Day-one payment and bill credit simulator (US, Nevada reference)",
+          "scenarios": [
+            {
+              "label": "100 Mbps with referral link",
+              "lines": [
+                {
+                  "label": "V5 + Router Mini rental + shipping",
+                  "value": "$0.00 kit + $20.00 shipping"
+                },
+                {
+                  "label": "Monthly service ($38.50/mo promo vs. $55 regular)",
+                  "value": "$38.50/mo (starts on activation or 7 days after delivery)"
+                },
+                {
+                  "label": "Bill credit after 2 full paid cycles",
+                  "value": "US$ 100.00 on account",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Due at checkout (kit + shipping)",
+              "totalValue": "$20 (+ tax)",
+              "note": "Optional professional installation adds $99 on 100 Mbps. Monthly billing starts on activation or 7 days after delivery; US$ 100 credits after two paid cycles."
+            },
+            {
+              "label": "200 Mbps with referral link",
+              "lines": [
+                {
+                  "label": "V4 + Router 4 rental + pro install + shipping",
+                  "value": "$0.00 kit + $0.00 install + $20.00 shipping"
+                },
+                {
+                  "label": "Monthly service ($59.50/mo promo vs. $85 regular)",
+                  "value": "$59.50/mo (starts on activation or 7 days after delivery)"
+                },
+                {
+                  "label": "Bill credit after 2 full paid cycles",
+                  "value": "US$ 100.00 on account",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Due at checkout (kit + shipping)",
+              "totalValue": "$20 (+ tax)",
+              "note": "Stepping up to 200 Mbps in the US waives the $99 install fee and includes Router 4; monthly service starts on activation or 7 days after delivery."
+            },
+            {
+              "label": "Without referral link / retail",
+              "lines": [
+                {
+                  "label": "Hardware & checkout (official vs. retail)",
+                  "value": "$20 (+ tax) on $0 US rental, or full store price at retail"
+                },
+                {
+                  "label": "Monthly service & address promo",
+                  "value": "$38.50/mo starts on activation or 7 days after delivery (no retail $0 kit)"
+                },
+                {
+                  "label": "Referral bill credit",
+                  "value": "$0.00 (forfeited)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Referral credit received",
+              "totalValue": "$0",
+              "note": "Skipping the referral link forfeits the US$ 100 bill credit, and buying at retail stores excludes both $0 rental kits and referral rewards."
+            }
+          ]
+        },
+        "postParagraphs": [
+          "Even when hardware shows $0 upfront rental, you pay only kit and shipping at checkout while the first recurring monthly fee starts on activation or 7 days after delivery, whichever comes first. The referral reward never reduces day-one charges and posts as bill credit after two paid cycles."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "alt": "Starlink US order page for Nevada displaying Residential 100 Mbps, 200 Mbps, and Max tiers with rental hardware lines",
+          "caption": "Nevada US checkout screen: stepping between 100 Mbps, 200 Mbps, and Max swaps both dish generation and free install eligibility.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7159
+        }
+      },
+      {
+        "heading": "What changes beyond Mbps: hardware generation, free install, and terms",
+        "paragraphs": [
+          "Most shoppers compare only the headline megabit caps, yet the checkout silently ties each plan to distinct hardware and installation pricing. In the US Nevada checkout, choosing 100 Mbps assigns a V5 kit plus Router Mini rental and charges $99 if you want professional installation; moving to 200 Mbps switches the kit to V4 plus Router 4 and drops professional installation to $0; picking Max adds an extra Router Mini alongside the Standard 4 X kit at $0 rental.",
+          "In the UK, the hardware jump happens at 200 Mbps while the free installation trigger waits until Max. Specifically, UK 100 Mbps ships a Mini Rental with Router Mini and prices optional installation at £74, whereas 200 Mbps upgrades the hardware to Standard 4 rental while keeping the £74 install charge, and only Max bundles professional installation at £0.",
+          "Unlike Brazil or Mexico, where subsidized hardware purchase offers can attach a mandatory 12-month term and early change fees, the tested US and UK rental offers carried no fixed-term lockup, requiring only that rented kits be returned if you cancel. If you want to review full cancellation mechanics and regional 12-month contract rules across countries, read our [Starlink contract and cancellation guide](/en/reviews/starlink-contract-cancel-refund)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Official Starlink residential dish and Wi-Fi router hardware kit",
+          "caption": "Hardware kit pairing changes by tier: Mini or V5 kits appear on entry plans, while Standard 4 and Router 4 appear on higher tiers.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Official speeds, latency, and which tier fits your home",
+        "paragraphs": [
+          "Starlink's current Broadband Facts documentation (DOC-1470-99699-90) and Help Center residential plan specification (886607c4) define all three tiers with unlimited data, typical latency under 50 ms, and 99% or better typical availability. Download ceilings separate the tiers: Residential 100 Mbps delivers 80 to 100 Mbps typical download (capped at 100 Mbps), Residential 200 Mbps delivers 80 to 200 Mbps typical download (capped at 200 Mbps), and Residential Max delivers 80 to 400 Mbps typical download, reaching 400+ Mbps under light local network load.",
+          "Published upload speeds are 15 to 35 Mbps typical across the broadband specification sheet, with Help Center guidance listing 20 to 40 Mbps for Max. Older legacy documentation (DOC-1414-37800-64) listed only a single Standard Fixed profile at 25 to 100 Mbps, which has now been superseded in markets where all three tiers appear.",
+          "As a practical rule of thumb rather than a site-specific speed measurement at your property: 100 Mbps comfortably handles 4K streaming, video calls, and everyday browsing for small households; 200 Mbps adds headroom when multiple remote workers upload files or stream simultaneously, and unlocks V4 + Router 4 hardware plus free install in the US; Max makes the most sense for heavy cloud backups, very large households, or UK buyers who want free £74 installation bundled with Standard 4."
+        ],
+        "comparisonTable": {
+          "caption": "Official speed and latency metrics from DOC-1470-99699-90 and Help Center article 886607c4. Legacy document DOC-1414-37800-64 previously showed only 25 to 100 Mbps Standard Fixed.",
+          "headers": [
+            "Residential plan",
+            "Official typical download",
+            "Official typical upload",
+            "Latency and data cap"
+          ],
+          "rows": [
+            [
+              "Residential 100 Mbps",
+              "80 to 100 Mbps (capped at 100 Mbps)",
+              "15 to 35 Mbps",
+              "Under 50 ms; unlimited data"
+            ],
+            [
+              "Residential 200 Mbps",
+              "80 to 200 Mbps (capped at 200 Mbps)",
+              "15 to 35 Mbps",
+              "Under 50 ms; unlimited data"
+            ],
+            [
+              "Residential Max",
+              "80 to 400 Mbps (up to 400+ Mbps)",
+              "15 to 35 Mbps (20 to 40 Mbps Help Center)",
+              "Under 50 ms; unlimited data"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Starlink dish mounted on a residential roof with clear view of the sky",
+          "caption": "Clear sky visibility remains the biggest factor in hitting advertised download ranges and staying under 50 ms latency.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "Plan change rules and the 30-day return window",
+        "paragraphs": [
+          "Billing cycles cut over at 00:00 UTC across all Starlink accounts. When switching tiers inside account management where eligible, selecting NOW triggers upgrades right away with a prorated charge, whereas an immediate downgrade cuts your speed ceiling right away with no refund for unused days left in the current cycle. Selecting DATE schedules the switch cleanly for your next billing date.",
+          "Watch two critical restrictions before counting on easy tier hopping. First, residential plans using a $0 or £0 rental kit do not allow self-service plan changes from your account dashboard. Second, changing plans on a promotional or term-backed offer can forfeit promotional monthly pricing or incur a contract change fee where a 12-month term applies. Remember that you have 30 days from the payment due date to cancel service and return undamaged hardware for a refund of the kit and first monthly charge, and you can also check our [Starlink coupons and referral page](/en/coupons/starlink) before ordering."
+        ],
+        "checklist": {
+          "title": "Checklist before placing your residential order",
+          "items": [
+            "Confirm in the order summary which dish and router generation your selected tier ships.",
+            "Check whether professional installation is $0 or billed extra at your chosen tier.",
+            "Remember that $0 or £0 rental kits block self-service plan switching in the account portal.",
+            "Review whether your market attaches promotional rate conditions or a 12-month hardware term.",
+            "Verify the applied referral notice on starlink.com before submitting payment."
+          ]
+        },
+        "links": [
+          {
+            "label": "Verify your plan, kit, and referral credit",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Verdict: which Starlink plan should you pick",
+        "paragraphs": [
+          "In the United States, Residential 200 Mbps often represents the sweet spot: for $21/month above 100 Mbps on promo pricing, you upgrade to V4 plus Router 4 hardware, eliminate the $99 installation fee, and double your download ceiling to 200 Mbps. Only pick 100 Mbps if keeping monthly outlay lowest matters more than installation savings and upgraded hardware.",
+          "In the United Kingdom, 200 Mbps balances £60/month pricing with the Standard 4 dish rental, while 100 Mbps keeps bills lowest at £40/month if you are comfortable self-installing the Mini kit. Max only pays off in the UK if you specifically want the £74 professional install included alongside maximum speed headroom."
+        ],
+        "emphasis": "Never choose a tier from the speed label alone: verify the assigned hardware generation, whether professional installation becomes free on the next tier up, and whether rental status restricts later plan switches."
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Can I switch plans later if I take a free rental kit? No via self-service: Starlink states that residential plans tied to a hardware rental do not permit plan changes through account self-service.",
+          "Does the referral bonus make the dish or installation cheaper at checkout? No. Whether US$ 100 in the US or £40 in the UK, the bonus arrives as a service bill credit after two complete paid monthly cycles.",
+          "Is the US 200 Mbps plan better value than 100 Mbps? Often yes if you want professional installation, because 200 Mbps drops the $99 install charge to $0 and upgrades hardware from V5 and Router Mini to V4 and Router 4.",
+          "Does downgrading immediately refund the rest of my paid month? No. Choosing an immediate downgrade lowers your speed right away without refunding the remaining days of the current billing cycle.",
+          "How does the 30-day trial period work? You can cancel service and return the undamaged kit within 30 days of the payment due date to receive a refund for the kit and the first month of service per order terms."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Enter your street address on the official site to check local tier prices, verify included hardware and installation, and lock in your referral bill credit after two paid cycles.",
+      "label": "Check local plans and bonus credit",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Pricing, hardware pairings, contract clauses, and speed documents were checked directly on Starlink public pages and checkout flows. We participate in the official referral program and may earn a reward at no extra cost to you.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-contract-cancel-refund"
+      },
+      {
+        "slug": "is-starlink-worth-it"
+      },
+      {
+        "slug": "starlink-referral-link-how-it-works"
+      },
+      {
+        "slug": "starlink-mini-vs-standard-which-to-choose"
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "you want to match 100 Mbps, 200 Mbps, or Max against included router hardware and free professional install eligibility.",
+        "you are ordering directly on starlink.com and want the referral credit attached before payment."
+      ],
+      "skipIf": [
+        "you already have reliable fixed fiber at home at a significantly lower monthly rate.",
+        "you expect to jump freely between speed tiers every month on a zero-upfront rental kit."
+      ]
+    }
+  },
+  {
+    "id": 1433,
+    "slug": "planes-starlink-100-200-mbps-o-max",
+    "translationKey": "starlink-planos-residenciais",
+    "locale": "es",
+    "hideFromPortugueseListings": true,
+    "title": "Planes Starlink 100 Mbps, 200 Mbps o Max: precios, antena, permanencia y cuál elegir",
+    "seoTitle": "Planes Starlink 100 Mbps, 200 Mbps o Max: cuál elegir",
+    "type": "Guía de elección",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edición y análisis",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edición y análisis",
+        "initials": "BL"
+      }
+    ],
+    "description": "Compara los planes Starlink Residencial 100 Mbps, 200 Mbps y Max en España y México: precios, kit Mini o Standard 4, permanencia y reglas de cambio.",
+    "metaDescription": "Starlink 100 Mbps, 200 Mbps o Max: precios en España y México, diferencias de antena, contrato de 12 meses, velocidades y cambio de plan.",
+    "publishedAt": "24 de noviembre de 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/starlink/planes-starlink-100-200-mbps-o-max-capa.webp",
+    "imageAlt": "Portada comparativa con panel negro que muestra STARLINK y el título ¿100, 200 Mbps o Max? junto a una antena Starlink instalada en un tejado de madera bajo el cielo azul.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Starlink divide el servicio doméstico entre 100 Mbps, 200 Mbps y Max, pero la disponibilidad cambia mucho entre países e incluso entre códigos postales. Además del límite de velocidad, el nivel elegido define el modelo de antena, la permanencia y la instalación gratuita. Consulta tu dirección desde el enlace oficial para confirmar condiciones y sumar crédito en factura después."
+        ],
+        "links": [
+          {
+            "label": "Consultar planes disponibles en tu dirección",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Precios en España y México y cómo entra el bono de referido",
+        "paragraphs": [
+          "La oferta residencial de starlink.com cambia por completo entre países: España muestra la escalera completa de tres planes mientras México restringe la oferta residencial probada a un único escalón. En Madrid, Residencial 100 Mbps cuesta 24,50 €/mes en oferta (35 €/mes tarifa normal) con kit Mini X en alquiler por 0 €; Residencial 200 Mbps sube a 31,50 €/mes (45 €/mes normal) con Standard 4 en alquiler por 0 €; y Residencial Max pasa a 45,50 €/mes (65 €/mes normal) con Standard 4 a 0 € e instalación profesional de 172 € incluida, además de 19 € de envío.",
+          "En Ciudad de México, el configurador mostró únicamente Residencial Max por $1,485 MXN al mes más $55 MXN de cargo regulatorio (envío de $475 MXN), dando a elegir entre comprar el Kit Mini por $2,303 MXN sin botón de plazo de 12 meses o el kit Standard 4 X por $5,743 MXN sujeto a plazo de 12 meses. Al iniciar un alta nueva mediante el enlace oficial de referido, el crédito de factura es de 45 € en España o MX$ 700 en México como referencia de noviembre; en el caso de México, confirma el importe en tu pedido antes de pagar. En todos los países, el bono se abona en factura tras dos ciclos mensuales completos pagados, sin rebajar el precio del kit en el momento de la compra."
+        ],
+        "comparisonTable": {
+          "caption": "Importes leídos en direcciones de prueba dentro del flujo oficial de pedido el 23/11/2026. El crédito de referido entra en factura tras dos ciclos completos pagados y nunca rebaja el hardware al pagar.",
+          "headers": [
+            "Mercado y plan",
+            "Mensualidad promo (normal)",
+            "Equipo y condición",
+            "Instalación y crédito en factura"
+          ],
+          "rows": [
+            [
+              "España (Madrid): Residencial 100 Mbps",
+              "24,50 € (de 35 €)",
+              "Mini X en alquiler por 0 €",
+              "Instalación 172 € opcional; 45 € en factura"
+            ],
+            [
+              "España (Madrid): Residencial 200 Mbps",
+              "31,50 € (de 45 €)",
+              "Standard 4 en alquiler por 0 €",
+              "Instalación 172 € opcional; 45 € en factura"
+            ],
+            [
+              "España (Madrid): Residencial Máx.",
+              "45,50 € (de 65 €)",
+              "Standard 4 en alquiler por 0 €",
+              "Instalación 172 € gratis; 45 € en factura"
+            ],
+            [
+              "México (CDMX): Residencial Max + Mini",
+              "$1,485 MXN + $55 MXN reg.",
+              "Kit Mini $2,303 MXN (sin botón 12 meses)",
+              "MX$ 700 ref. noviembre (confirma en tu pantalla antes de pagar)"
+            ],
+            [
+              "México (CDMX): Residencial Max + Standard 4 X",
+              "$1,485 MXN + $55 MXN reg.",
+              "Standard 4 X $5,743 MXN (plazo 12 meses)",
+              "MX$ 700 ref. noviembre (confirma en tu pantalla antes de pagar)"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Simulador de pago inicial y crédito futuro en factura (España vs México)",
+          "scenarios": [
+            {
+              "label": "España 200 Mbps con enlace de referido",
+              "lines": [
+                {
+                  "label": "Kit Standard 4 en alquiler + envío",
+                  "value": "0,00 € + 19,00 €"
+                },
+                {
+                  "label": "Primera mensualidad promocional",
+                  "value": "31,50 €/mes (al activar o 7 días tras entrega)"
+                },
+                {
+                  "label": "Crédito en factura tras 2 ciclos pagados",
+                  "value": "45,00 € en cuenta",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Pago hoy en el pedido (solo envío)",
+              "totalValue": "19 €",
+              "note": "Hoy pagas solo los 19 € de envío; la primera mensualidad se cobra al activar o 7 días tras la entrega y los 45 € entran tras dos ciclos pagados."
+            },
+            {
+              "label": "México Max (Kit Mini) con enlace de referido",
+              "lines": [
+                {
+                  "label": "Kit Mini + envío (sin botón 12 meses)",
+                  "value": "$2,303 + $475 MXN"
+                },
+                {
+                  "label": "Mensualidad Max + cargo regulatorio",
+                  "value": "$1,485 + $55 MXN/mes (al activar o 7 días tras entrega)"
+                },
+                {
+                  "label": "Crédito ref. de noviembre tras 2 ciclos",
+                  "value": "MX$ 700 ref. noviembre (confirma en tu pantalla antes de pagar)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Pago hoy en el pedido (kit + envío)",
+              "totalValue": "$2,778 MXN",
+              "note": "Hoy pagas solo el Kit Mini más $475 MXN de envío; la mensualidad inicia al activar o 7 días tras la entrega. Referencia de noviembre: confirma el importe en tu pantalla antes de pagar."
+            },
+            {
+              "label": "España 200 Mbps sin enlace de referido",
+              "lines": [
+                {
+                  "label": "Kit Standard 4 en alquiler + envío",
+                  "value": "0,00 € + 19,00 €"
+                },
+                {
+                  "label": "Primera mensualidad promocional",
+                  "value": "31,50 €/mes (al activar o 7 días tras entrega)"
+                },
+                {
+                  "label": "Crédito en factura por referido",
+                  "value": "0,00 € (sin enlace oficial)"
+                }
+              ],
+              "totalLabel": "Pago hoy en el pedido (solo envío)",
+              "totalValue": "19 €",
+              "note": "Pagas exactamente los mismos 19 € hoy (y la cuota al activar o 7 días tras la entrega), pero pierdes los 45 € futuros en factura al no entrar por el enlace."
+            }
+          ]
+        },
+        "postParagraphs": [
+          "Ten muy presente en ambos países que el crédito de referido nunca rebaja el precio del kit en la pantalla de pago, y que el primer día solo pagas el hardware (si es compra) más el envío: la primera mensualidad recurrente se cobra al activar o 7 días tras la entrega, lo que ocurra primero, mientras el bono llega tras dos ciclos completos pagados."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "alt": "Pantalla de pedido de Starlink en Madrid mostrando las tarifas de 100 Mbps, 200 Mbps y Máx. junto al equipo en alquiler",
+          "caption": "Configurador residencial en España: 100 Mbps asigna Mini X, mientras 200 Mbps y Máx. cambian al kit Standard 4 en alquiler.",
+          "objectFit": "contain",
+          "aspectRatio": 0.622
+        }
+      },
+      {
+        "heading": "Qué cambia aparte de los Mbps: antena, permanencia de 12 meses e instalación",
+        "paragraphs": [
+          "Mirar solo el techo de megabits esconde tres condiciones clave del checkout. En España, el salto de 100 Mbps a 200 Mbps sustituye el equipo en alquiler de Mini X por Standard 4 manteniendo el coste inicial del hardware en 0 €, mientras el paso final a Máx. añade la instalación profesional gratuita valorada en 172 €. Como el hardware en España sale en régimen de alquiler, debes devolverlo si das de baja el servicio.",
+          "En México ocurre el fenómeno opuesto: como la dirección probada solo ofrecía Residencial Max, la diferencia crítica estaba en la elección de antena dentro del mismo plan. Seleccionar Kit Mini marcaba $2,303 MXN sin botón de permanencia de 12 meses, mientras elegir Standard 4 X por $5,743 MXN activaba la cláusula de Plazo de 12 meses con cargo proporcional de hasta $4,600 MXN por cancelación o incumplimiento anticipado.",
+          "Por eso conviene revisar siempre la columna de resumen antes de confirmar el pago y leer cada línea de equipo y permanencia en el configurador. Para profundizar en penalizaciones por salida anticipada y plazos según país, consulta nuestra [guía de permanencia y cancelación de Starlink](/es/reviews/starlink-permanencia-cancelar)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antena y router Wi-Fi oficiales incluidos en los kits residenciales de Starlink",
+          "caption": "El plan o la opción de compra determinan si recibes kit Mini o Standard 4, con o sin compromiso de doce meses.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Velocidades oficiales, latencia y perfil doméstico recomendado",
+        "paragraphs": [
+          "La documentación vigente de especificaciones de banda larga de Starlink (DOC-1470-99699-90) y el artículo oficial de planes residenciales del Centro de Ayuda (886607c4) establecen datos ilimitados, latencia típica inferior a 50 ms y disponibilidad típica de al menos el 99% en los tres escalones. En descarga típica, 100 Mbps se mueve entre 80 y 100 Mbps (limitado a 100 Mbps); 200 Mbps entre 80 y 200 Mbps (limitado a 200 Mbps); y Max entre 80 y 400 Mbps, pudiendo alcanzar más de 400 Mbps.",
+          "En subida, las hojas técnicas recogen entre 15 y 35 Mbps típicos de forma general, con el Centro de Ayuda elevando la horquilla a 20 a 40 Mbps en Max. Es útil saber que el documento anterior DOC-1414-37800-64 mostraba únicamente el antiguo perfil Standard Fixed de 25 a 100 Mbps, ya superado allí donde Starlink ofrece la nueva escalera comercial.",
+          "Como regla práctica general de uso en casa, sin constituir medición en tu domicilio concreto: 100 Mbps cubre sin apuros videollamadas, teletrabajo y vídeo en 4K en hogares pequeños; 200 Mbps aporta margen para varias personas descargando archivos pesados o jugando a la vez y, en España, da acceso a la antena Standard 4; y Max cobra sentido en viviendas muy demandantes o cuando necesitas aprovechar la instalación gratuita de 172 €."
+        ],
+        "comparisonTable": {
+          "caption": "Rangos oficiales de DOC-1470-99699-90 y del artículo 886607c4 del Centro de Ayuda. El documento heredado DOC-1414-37800-64 listaba solo Standard Fixed de 25 a 100 Mbps.",
+          "headers": [
+            "Plan residencial",
+            "Descarga típica oficial",
+            "Subida típica oficial",
+            "Latencia y datos"
+          ],
+          "rows": [
+            [
+              "Residencial 100 Mbps",
+              "80 a 100 Mbps (tope 100 Mbps)",
+              "15 a 35 Mbps",
+              "Menor de 50 ms; datos ilimitados"
+            ],
+            [
+              "Residencial 200 Mbps",
+              "80 a 200 Mbps (tope 200 Mbps)",
+              "15 a 35 Mbps",
+              "Menor de 50 ms; datos ilimitados"
+            ],
+            [
+              "Residencial Max",
+              "80 a 400 Mbps (hasta 400+ Mbps)",
+              "15 a 35 Mbps (20 a 40 Mbps en ayuda)",
+              "Menor de 50 ms; datos ilimitados"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Antena Starlink instalada sobre un tejado residencial orientada hacia cielo despejado",
+          "caption": "Contar con cielo despejado en el tejado es decisivo para sostener la velocidad anunciada y mantener la latencia bajo 50 ms.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "Reglas para cambiar de plan y ventana de devolución de 30 días",
+        "paragraphs": [
+          "Todos los cortes de ciclo en Starlink se ejecutan a las 00:00 UTC (01:00 en horario peninsular español de invierno o 18:00 en Ciudad de México). Al solicitar un cambio cuando la cuenta lo admite, la opción AHORA aplica subidas al instante con cobro prorrateado, mientras una bajada inmediata recorta el tope al momento sin reembolso por los días restantes del mes ya pagado; la opción FECHA programa el ajuste para el siguiente ciclo.",
+          "Sin embargo, existen dos límites importantes: los planes residenciales con equipo en alquiler no permiten cambiar de tarifa desde el autogestor de la cuenta, y modificar el plan en promociones o contratos de 12 meses puede anular descuentos mensuales o activar cargos contractuales. Además, dispones de 30 días desde la fecha de vencimiento del pago para cancelar el servicio y devolver el kit sin daños con reembolso del equipo y del primer mes según las condiciones del pedido; revisa también nuestra [página de cupones y referidos de Starlink](/es/coupons/starlink)."
+        ],
+        "checklist": {
+          "title": "Lista rápida antes de pagar tu pedido",
+          "items": [
+            "Verifica en el resumen si tu dirección muestra 100 Mbps, 200 Mbps o únicamente Max.",
+            "Comprueba si el equipo incluido es Mini X o Standard 4 y si va en compra o alquiler.",
+            "En México, revisa si aparece el botón de Plazo de 12 meses y el importe exacto del bono.",
+            "Confirma en España si el salto al plan Máx. te compensa por la instalación gratis de 172 €.",
+            "Asegúrate de ver el aviso de referido aplicado en starlink.com antes de confirmar el pago."
+          ]
+        },
+        "links": [
+          {
+            "label": "Comprobar plan, antena y crédito en tu dirección",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Veredicto: qué plan Starlink elegir",
+        "paragraphs": [
+          "En España, el plan de 200 Mbps suele ser la elección más equilibrada por 31,50 €/mes en promoción: accedes a la antena Standard 4 en alquiler y doblas el margen frente al escalón básico por solo 7 € más al mes. Reserva el plan de 100 Mbps para viviendas de uso moderado que buscan la cuota mínima, y sube a Máx. solo si necesitas máxima velocidad o vas a contratar la instalación profesional de 172 € incluida.",
+          "En México, donde el configurador probado mostró únicamente Max, la decisión real recae en la antena: opta por el Kit Mini si quieres evitar el compromiso de 12 meses y reducir la inversión inicial, o elige Standard 4 X solo si vas a permanecer un año entero en el mismo domicilio."
+        ],
+        "emphasis": "Antes de pagar en starlink.com, revisa tres datos del resumen final: si el equipo va en alquiler o compra, si figura compromiso de doce meses y si aparece el aviso de referido aplicado."
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Si contrato en España con equipo en alquiler puedo cambiar de plan luego desde la app? No mediante autogestión: en ofertas residenciales con kit en alquiler, Starlink deshabilita el cambio de plan directo en la cuenta.",
+          "¿Cuánto da el enlace de referido en España y en México? En España el crédito es de 45 € tras dos ciclos mensuales completos pagados; en México el importe vigente aparece en tu pantalla de pedido antes de pagar (consulta la tabla comparativa anterior para referencia).",
+          "¿El bono de referido descuenta dinero del precio del kit el primer día? No. El crédito se abona en factura después de dos meses completos activos y pagados al día.",
+          "¿Me devuelven dinero si bajo de plan con la opción AHORA? No. El cambio inmediato hacia un plan inferior aplica el nuevo límite al instante sin reembolso del resto del ciclo ya abonado.",
+          "¿Cómo funciona el periodo de prueba de 30 días? Puedes cancelar el servicio y devolver el kit sin daños dentro de los 30 días posteriores a la fecha de vencimiento del pago para recibir reembolso del equipo y del primer mes."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Introduce tu dirección en el configurador oficial para ver qué planes abren en tu código postal, revisar antena y permanencia y asegurar el bono en factura tras dos ciclos pagados.",
+      "label": "Ver planes y crédito en tu dirección",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Verificamos tarifas, hardware, cláusulas de permanencia y fichas técnicas oficiales directamente en el sitio público y el flujo de pedido de Starlink. Participamos en el programa oficial de referidos sin coste adicional para el lector.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-permanencia-cancelar"
+      },
+      {
+        "slug": "starlink-vale-la-pena"
+      },
+      {
+        "slug": "starlink-enlace-referido-como-funciona"
+      },
+      {
+        "slug": "starlink-mini-o-estandar-cual-elegir"
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "quieres comparar 100 Mbps, 200 Mbps y Max mirando también antena asignada, instalación y permanencia.",
+        "vas a contratar directamente en starlink.com comprobando el aviso de referido antes del pago."
+      ],
+      "skipIf": [
+        "dispones de fibra óptica estable en tu domicilio con una cuota mensual claramente más baja.",
+        "esperas cambiar de tarifa cada pocos meses sobre un kit residencial entregado en alquiler."
+      ]
+    }
+  },
+  {
+    "id": 1434,
+    "slug": "forfaits-starlink-100-200-mbps-ou-max",
+    "translationKey": "starlink-planos-residenciais",
+    "locale": "fr",
+    "hideFromPortugueseListings": true,
+    "title": "Forfaits Starlink 100 Mbit/s, 200 Mbit/s ou Max : prix, antenne, contrat et lequel choisir",
+    "seoTitle": "Forfaits Starlink 100 Mbit/s, 200 Mbit/s ou Max : quel choix",
+    "type": "Guide de choix",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Édition et analyse",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Édition et analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Comparez les forfaits Starlink Résidentiel 100 Mbit/s, 200 Mbit/s et Max en France : tarifs, kit Mini X ou Standard 4, installation et règles de changement.",
+    "metaDescription": "Forfaits Starlink 100 Mbit/s, 200 Mbit/s ou Max en France : tarifs promo, kit Mini X vs Standard 4, installation gratuite et débits officiels.",
+    "publishedAt": "24 novembre 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/starlink/forfaits-starlink-100-200-mbps-ou-max-capa.webp",
+    "imageAlt": "Couverture comparative présentant un panneau noir avec STARLINK et le titre 100, 200 Mbps ou Max ? à côté d'une antenne Starlink montée sur un toit en bois sous un ciel bleu.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Starlink répartit son offre résidentielle entre 100 Mbit/s, 200 Mbit/s et Max, mais le choix dépasse le seul débit. Chaque palier modifie le kit livré, le coût de la pose et l'accès au changement d'offre. Testez votre adresse via notre lien officiel pour confirmer les tarifs locaux et obtenir un crédit après deux cycles payés."
+        ],
+        "links": [
+          {
+            "label": "Vérifier les forfaits disponibles à votre adresse",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Tarifs en France et fonctionnement du crédit de parrainage",
+        "paragraphs": [
+          "Pour une adresse à Paris sur starlink.com, les trois paliers résidentiels apparaissent avec une remise promotionnelle de 30 % : Résidentiel 100 Mbit/s à 24,50 €/mois (au lieu de 35 €/mois), Résidentiel 200 Mbit/s à 31,50 €/mois (au lieu de 45 €/mois) et Résidentiel Max à 45,50 €/mois (au lieu de 65 €/mois), auxquels s'ajoutent 19 € de livraison.",
+          "Sur cette page française, chaque formule associe un kit en location à 0 € à la commande et 0 €/mois, sans engagement de durée fixe (avec préavis de 30 jours indiqué pour d'éventuelles évolutions tarifaires). En passant commande pour la première fois via le lien officiel de parrainage, vous recevez 45 € de crédit directement sur votre facture après deux cycles mensuels complets réglés à temps, sans jamais réduire le montant payé pour le matériel le premier jour."
+        ],
+        "comparisonTable": {
+          "caption": "Montants relevés pour une adresse de référence à Paris dans le tunnel officiel le 23/11/2026. Le crédit de parrainage arrive en facture après deux cycles complets payés.",
+          "headers": [
+            "Forfait résidentiel (France)",
+            "Mensualité promo (normale)",
+            "Kit en location inclus",
+            "Installation et crédit parrainage"
+          ],
+          "rows": [
+            [
+              "Résidentiel 100 Mbit/s",
+              "24,50 €/mois (de 35 €)",
+              "Mini X en location à 0 €",
+              "Installation 172 € optionnelle ; 45 € en facture"
+            ],
+            [
+              "Résidentiel 200 Mbit/s",
+              "31,50 €/mois (de 45 €)",
+              "Standard 4 en location à 0 €",
+              "Installation 172 € optionnelle ; 45 € en facture"
+            ],
+            [
+              "Résidentiel Max",
+              "45,50 €/mois (de 65 €)",
+              "Standard 4 en location à 0 €",
+              "Installation de 172 € offerte ; 45 € en facture"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Simulateur du paiement initial et du crédit futur sur facture (France)",
+          "scenarios": [
+            {
+              "label": "200 Mbit/s avec lien de parrainage",
+              "lines": [
+                {
+                  "label": "Location kit Standard 4 + livraison",
+                  "value": "0,00 € + 19,00 €"
+                },
+                {
+                  "label": "Première mensualité promotionnelle",
+                  "value": "31,50 €/mois (à l'activation ou 7 jours après livraison)"
+                },
+                {
+                  "label": "Crédit sur facture après 2 cycles payés",
+                  "value": "45,00 € sur le compte",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Montant payé à la commande (livraison)",
+              "totalValue": "19 €",
+              "note": "Vous ne réglez que les 19 € de livraison le jour de la commande ; la première mensualité est prélevée à l'activation ou 7 jours après livraison, et les 45 € arrivent après deux cycles payés."
+            },
+            {
+              "label": "Max avec lien de parrainage",
+              "lines": [
+                {
+                  "label": "Location Standard 4 + installation pro + livraison",
+                  "value": "0,00 € + 0,00 € + 19,00 €"
+                },
+                {
+                  "label": "Première mensualité promotionnelle",
+                  "value": "45,50 €/mois (à l'activation ou 7 jours après livraison)"
+                },
+                {
+                  "label": "Crédit sur facture après 2 cycles payés",
+                  "value": "45,00 € sur le compte",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Montant payé à la commande (livraison)",
+              "totalValue": "19 €",
+              "note": "Inclut gratuitement la pose professionnelle à 172 €. La mensualité démarre à l'activation ou 7 jours après livraison, et les 45 € s'appliquent ensuite en facture."
+            },
+            {
+              "label": "200 Mbit/s sans lien de parrainage",
+              "lines": [
+                {
+                  "label": "Location kit Standard 4 + livraison",
+                  "value": "0,00 € + 19,00 €"
+                },
+                {
+                  "label": "Première mensualité promotionnelle",
+                  "value": "31,50 €/mois (à l'activation ou 7 jours après livraison)"
+                },
+                {
+                  "label": "Crédit de parrainage sur facture",
+                  "value": "0,00 €"
+                }
+              ],
+              "totalLabel": "Montant payé à la commande (livraison)",
+              "totalValue": "19 €",
+              "note": "Vous réglez exactement les mêmes 19 € au départ (et la mensualité à l'activation ou 7 jours après livraison), mais vous renoncez aux 45 € de crédit futur."
+            }
+          ]
+        },
+        "postParagraphs": [
+          "Gardez à l'esprit que vous payez uniquement la livraison (19 € sur kit loué à 0 €) le jour de la commande : la première mensualité est facturée à l'activation ou 7 jours après la livraison, selon ce qui intervient en premier, et le bonus de 45 € arrive après deux mois réglés."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "alt": "Page de commande Starlink à Paris affichant les forfaits 100 Mbit/s, 200 Mbit/s et Max avec les kits en location",
+          "caption": "Écran de commande en France : 100 Mbit/s attribue le kit Mini X à 0 €, tandis que 200 Mbit/s et Max passent au kit Standard 4.",
+          "objectFit": "contain",
+          "aspectRatio": 0.5909
+        }
+      },
+      {
+        "heading": "Ce qui change au-delà des Mbit/s : antenne, location et pose offerte",
+        "paragraphs": [
+          "Comparer uniquement le plafond de téléchargement masque deux différences concrètes visibles sur la colonne de matériel. En France, le forfait Résidentiel 100 Mbit/s expédie le kit Mini X en location gratuite, alors que le passage à 200 Mbit/s remplace ce matériel par l'antenne Standard 4 tout en conservant le loyer du kit à 0 €. L'auto-installation ne coûte rien sur aucun palier, mais une pose professionnelle facturée 172 € sur 100 Mbit/s et 200 Mbit/s devient gratuite avec le forfait Max.",
+          "Comme le matériel est fourni en location à 0 € dans cette offre française, vous devez impérativement restituer le kit complet si vous résiliez le contrat. Par ailleurs, la page indique que les tarifs promotionnels n'ont pas de durée fixe garantie et que Starlink se réserve la possibilité d'ajuster ses prix avec un préavis de 30 jours.",
+          "Sur d'autres marchés comme le Brésil ou le Mexique, certains kits subventionnés imposent une durée minimale de 12 mois avec indemnité proportionnelle en cas de sortie anticipée. Pour comparer en détail les conditions de résiliation et de restitution de matériel, consultez notre [guide sur l'engagement et la résiliation Starlink](/fr/reviews/starlink-engagement-resilier)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antenne et routeur Wi-Fi officiels fournis dans les kits résidentiels Starlink",
+          "caption": "Le choix du forfait en France détermine directement si vous recevez le kit Mini X ou l'équipement Standard 4.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Débits officiels, latence et usages adaptés à chaque foyer",
+        "paragraphs": [
+          "Selon les fiches officielles de haut débit Starlink (DOC-1470-99699-90) et l'article dédié du Centre d'aide (886607c4), les trois offres incluent les données illimitées, une latence typique inférieure à 50 ms et une disponibilité typique d'au moins 99 %. Le niveau 100 Mbit/s délivre un débit descendant typique de 80 à 100 Mbit/s (plafonné à 100 Mbit/s) ; le niveau 200 Mbit/s offre de 80 à 200 Mbit/s (plafonné à 200 Mbit/s) ; et le niveau Max s'étend de 80 à 400 Mbit/s, pouvant dépasser 400 Mbit/s selon la charge locale.",
+          "En envoi (upload), les documents techniques indiquent une plage typique de 15 à 35 Mbit/s sur les trois niveaux, le Centre d'aide précisant 20 à 40 Mbit/s pour Max. L'ancien document DOC-1414-37800-64 ne mentionnait encore que le profil Standard Fixed de 25 à 100 Mbit/s, désormais remplacé par cette grille à trois paliers.",
+          "En règle pratique générale pour un logement, sans constituer une mesure réalisée à votre domicile : 100 Mbit/s suffit largement pour les visioconférences, le télétravail quotidien et plusieurs flux 4K ; 200 Mbit/s apporte une vraie réserve lorsque plusieurs personnes téléchargent en parallèle tout en débloquant le kit Standard 4 ; et Max vise surtout les grands foyers ou ceux qui veulent économiser les 172 € d'installation professionnelle."
+        ],
+        "comparisonTable": {
+          "caption": "Plages officielles issues du document DOC-1470-99699-90 et de l'article 886607c4 du Centre d'aide. L'ancien document DOC-1414-37800-64 listait uniquement 25 à 100 Mbit/s.",
+          "headers": [
+            "Forfait résidentiel",
+            "Débit descendant typique",
+            "Débit montant typique",
+            "Latence et données"
+          ],
+          "rows": [
+            [
+              "Résidentiel 100 Mbit/s",
+              "80 à 100 Mbit/s (plafond 100 Mbit/s)",
+              "15 à 35 Mbit/s",
+              "Moins de 50 ms ; données illimitées"
+            ],
+            [
+              "Résidentiel 200 Mbit/s",
+              "80 à 200 Mbit/s (plafond 200 Mbit/s)",
+              "15 à 35 Mbit/s",
+              "Moins de 50 ms ; données illimitées"
+            ],
+            [
+              "Résidentiel Max",
+              "80 à 400 Mbit/s (jusqu'à 400+ Mbit/s)",
+              "15 à 35 Mbit/s (20 à 40 Mbit/s sur aide)",
+              "Moins de 50 ms ; données illimitées"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Antenne Starlink posée sur un toit résidentiel orientée vers un ciel dégagé",
+          "caption": "Un horizon bien dégagé sur le toit reste essentiel pour tenir les plages de débit et une latence sous 50 ms.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "Règles de changement de forfait et délai de retour de 30 jours",
+        "paragraphs": [
+          "Tous les cycles de facturation Starlink basculent à 00:00 UTC (01:00 heure de Paris en hiver). Lorsqu'un compte autorise la modification, l'option MAINTENANT applique immédiatement les hausses de forfait avec facturation au prorata, tandis qu'une baisse immédiate réduit le débit sur-le-champ sans remboursement du reste du mois déjà payé ; l'option DATE planifie le basculement pour la prochaine échéance mensuelle.",
+          "Attention toutefois à deux limites majeures : les forfaits résidentiels accompagnés d'un kit en location ne permettent pas de changer de forfait en libre-service depuis l'espace client, et modifier une offre promotionnelle ou soumise à durée minimale peut faire perdre le tarif réduit. Enfin, vous disposez de 30 jours à compter de la date d'échéance du paiement pour résilier et renvoyer le kit intact afin d'obtenir le remboursement du matériel et du premier mois, et vous pouvez retrouver toutes les infos sur notre [page des codes et du parrainage Starlink](/fr/coupons/starlink)."
+        ],
+        "checklist": {
+          "title": "Liste de contrôle avant de valider votre commande",
+          "items": [
+            "Vérifiez dans le récapitulatif si le forfait inclut le kit Mini X ou Standard 4 en location.",
+            "Contrôlez si vous posez l'antenne vous-même ou si l'installation offerte sur Max rentabilise le surcoût.",
+            "Notez qu'un kit en location à 0 € bloque le changement d'offre en libre-service.",
+            "Vérifiez l'horizon du toit dans l'application Starlink avant de fixer l'antenne.",
+            "Assurez-vous de voir la mention de parrainage appliquée sur starlink.com avant le paiement."
+          ]
+        },
+        "links": [
+          {
+            "label": "Vérifier forfait, matériel et crédit à votre adresse",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Verdict : quel forfait Starlink choisir",
+        "paragraphs": [
+          "Pour la majorité des foyers en France, le palier Résidentiel 200 Mbit/s offre le meilleur équilibre à 31,50 €/mois en tarif promotionnel : pour 7 € de plus par mois que le 100 Mbit/s, vous doublez la capacité théorique et vous recevez l'équipement Standard 4 au lieu du Mini X.",
+          "Le forfait 100 Mbit/s reste idéal pour réduire la facture mensuelle au minimum si vous installez l'antenne vous-même, tandis que le forfait Max se justifie surtout si vous souhaitez faire appel à un installateur professionnel pour profiter des 172 € inclus gratuitement."
+        ],
+        "emphasis": "Ne choisissez pas votre offre uniquement d'après les Mbit/s affichés : vérifiez l'antenne attribuée, le coût de la pose professionnelle et l'impossibilité de changer d'offre en libre-service sur un kit loué."
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Puis-je changer de forfait plus tard si je prends un kit en location à 0 € ? Non en libre-service : Starlink indique que les forfaits résidentiels avec matériel en location n'autorisent pas le changement de forfait depuis l'espace client.",
+          "Le crédit de 45 € baisse-t-il le montant à payer le premier jour ? Non. Le bonus de parrainage s'ajoute comme crédit sur facture après deux cycles mensuels complets réglés à temps.",
+          "Quelle antenne est incluse selon le forfait choisi en France ? Le forfait 100 Mbit/s fournit le kit Mini X en location à 0 €, alors que les offres 200 Mbit/s et Max passent sur le kit Standard 4 à 0 €.",
+          "Suis-je remboursé si je descends de forfait immédiatement avec l'option MAINTENANT ? Non. La baisse immédiate applique le plafond inférieur sur-le-champ sans remboursement pour les jours restants du cycle en cours.",
+          "Comment fonctionne l'essai de 30 jours ? Vous disposez de 30 jours à compter de la date d'échéance du paiement pour résilier et retourner le kit en parfait état afin d'être remboursé du matériel et du premier mois."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Saisissez votre adresse sur le site officiel pour consulter les forfaits ouverts dans votre commune, vérifier le kit attribué et recevoir 45 € en facture après deux mois payés.",
+      "label": "Voir les forfaits et le bonus à votre adresse",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Tarifs, équipements attribués, clauses de location et documents techniques ont été vérifiés directement sur les pages publiques et le tunnel de commande Starlink. Nous participons au programme officiel de parrainage sans surcoût pour le lecteur.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-engagement-resilier"
+      },
+      {
+        "slug": "starlink-vaut-il-le-coup"
+      },
+      {
+        "slug": "starlink-lien-parrainage"
+      },
+      {
+        "slug": "starlink-mini-ou-standard-quel-kit-choisir"
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "vous souhaitez choisir entre 100 Mbit/s, 200 Mbit/s ou Max en tenant compte du kit Mini X ou Standard 4.",
+        "vous commandez directement sur starlink.com en vérifiant la mention de parrainage avant paiement."
+      ],
+      "skipIf": [
+        "vous disposez déjà d'une fibre optique fiable à votre domicile pour un budget mensuel nettement inférieur.",
+        "vous comptez changer librement de palier tous les mois malgré la restriction liée au kit en location."
+      ]
+    }
+  },
+  {
+    "id": 1435,
+    "slug": "starlink-tarife-100-200-mbits-oder-max",
+    "translationKey": "starlink-planos-residenciais",
+    "locale": "de",
+    "hideFromPortugueseListings": true,
+    "title": "Starlink Tarife 100 Mbit/s, 200 Mbit/s oder Max: Preise, Hardware und Entscheidungshilfe",
+    "seoTitle": "Starlink 100 Mbit/s, 200 Mbit/s oder Max: welcher Tarif",
+    "type": "Entscheidungshilfe",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redaktion und Analyse",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redaktion und Analyse",
+        "initials": "BL"
+      }
+    ],
+    "description": "Starlink 100 Mbit/s, 200 Mbit/s und Max in Deutschland im Vergleich: 3-Monats-Rabatt, Mini X oder Standard 4, Gratis-Montage und Tarifwechsel.",
+    "metaDescription": "Starlink Tarife 100 Mbit/s, 200 Mbit/s oder Max in Deutschland: Preise nach 3 Monaten, Mietkit-Unterschiede, Kündigung und Tempo.",
+    "publishedAt": "24. November 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/starlink/starlink-tarife-100-200-mbits-oder-max-capa.webp",
+    "imageAlt": "Vergleichs-Cover mit schwarzem Panel samt STARLINK und dem Titel 100, 200 Mbit/s oder Max? neben einer auf einem Holzdach montierten Starlink-Antenne vor blauem Himmel.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Kurze Antwort",
+        "paragraphs": [
+          "Starlink staffelt seine Heimtarife in 100 Mbit/s, 200 Mbit/s und Max, doch die Wahl beeinflusst weit mehr als das Tempolimit. Je nach Stufe ändern sich die gelieferte Antenne, die kostenlose Profi-Montage und die Regeln für spätere Tarifwechsel. Prüfen Sie Ihre Adresse über unseren offiziellen Link, um lokale Konditionen zu sehen und nach zwei bezahlten Monaten Rechnungsguthaben zu erhalten."
+        ],
+        "links": [
+          {
+            "label": "Verfügbare Tarife an Ihrer Adresse prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Preise in Deutschland und wie die 45-Euro-Gutschrift funktioniert",
+        "paragraphs": [
+          "Für eine Berliner Testadresse zeigen auf starlink.com alle drei Privathaushaltstarife einen 50-Prozent-Rabatt für die ersten drei Monate: 100 Mbit/s für 17,50 €/Monat (danach 35 €/Monat), 200 Mbit/s für 27,50 €/Monat (danach 55 €/Monat) und Max für 37,50 €/Monat (danach 75 €/Monat), jeweils zuzüglich 19 € Versand.",
+          "Alle drei Stufen kommen in Deutschland mit einem Mietkit zu 0 € und sind monatlich ohne Strafgebühr kündbar (Kündigung ist gebührenfrei, Rückgabe der Miethardware erforderlich). Wer als Neukunde über den offiziellen Empfehlungslink bestellt, erhält nach zwei vollständig bezahlten Abrechnungszyklen 45 € als Rechnungsgutschrift, ohne dass sich der Bestellpreis am ersten Tag verringert."
+        ],
+        "comparisonTable": {
+          "caption": "Abgerufene Preise für eine Berliner Testadresse im offiziellen Bestellvorgang am 23.11.2026. Das Empfehlungsguthaben wird nach zwei bezahlten Monatszyklen auf der Rechnung gutgeschrieben.",
+          "headers": [
+            "Tarif in Deutschland",
+            "3 Monate Aktionspreis (danach)",
+            "Miet-Hardware im Paket",
+            "Montage und Rechnungsguthaben"
+          ],
+          "rows": [
+            [
+              "Privathaushalte 100 Mbit/s",
+              "17,50 €/Monat (dann 35 €)",
+              "Mini X als Mietkit für 0 €",
+              "Profi-Montage 172 € optional; 45 € Guthaben"
+            ],
+            [
+              "Privathaushalte 200 Mbit/s",
+              "27,50 €/Monat (dann 55 €)",
+              "Standard 4 als Mietkit für 0 €",
+              "Profi-Montage 172 € optional; 45 € Guthaben"
+            ],
+            [
+              "Privathaushalte Max",
+              "37,50 €/Monat (dann 75 €)",
+              "Standard 4 als Mietkit für 0 €",
+              "Profi-Montage 172 € inklusive; 45 € Guthaben"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Simulator für Startzahlung und Rechnungsguthaben (Deutschland)",
+          "scenarios": [
+            {
+              "label": "200 Mbit/s mit Empfehlungslink",
+              "lines": [
+                {
+                  "label": "Mietkit Standard 4 + Versand",
+                  "value": "0,00 € + 19,00 €"
+                },
+                {
+                  "label": "Erster Aktionsmonat (danach 55 €/Monat)",
+                  "value": "27,50 €/Monat (ab Aktivierung oder 7 Tage nach Lieferung)"
+                },
+                {
+                  "label": "Rechnungsgutschrift nach 2 bezahlten Zyklen",
+                  "value": "45,00 € auf dem Konto",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Zahlung am Bestelltag (nur Versand)",
+              "totalValue": "19 €",
+              "note": "Am Bestelltag fallen nur 19 € Versand an; der erste Monatsbeitrag startet bei Aktivierung oder 7 Tage nach Lieferung, die 45 € nach zwei bezahlten Zyklen."
+            },
+            {
+              "label": "Max mit Empfehlungslink",
+              "lines": [
+                {
+                  "label": "Mietkit Standard 4 + Profi-Montage + Versand",
+                  "value": "0,00 € + 0,00 € + 19,00 €"
+                },
+                {
+                  "label": "Erster Aktionsmonat (danach 75 €/Monat)",
+                  "value": "37,50 €/Monat (ab Aktivierung oder 7 Tage nach Lieferung)"
+                },
+                {
+                  "label": "Rechnungsgutschrift nach 2 bezahlten Zyklen",
+                  "value": "45,00 € auf dem Konto",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Zahlung am Bestelltag (nur Versand)",
+              "totalValue": "19 €",
+              "note": "Spart 172 € Profi-Montage. Die Monatsgebühr startet bei Aktivierung oder 7 Tage nach Lieferung; ab Monat 4 regulär 75 €/Monat."
+            },
+            {
+              "label": "200 Mbit/s ohne Empfehlungslink",
+              "lines": [
+                {
+                  "label": "Mietkit Standard 4 + Versand",
+                  "value": "0,00 € + 19,00 €"
+                },
+                {
+                  "label": "Erster Aktionsmonat (danach 55 €/Monat)",
+                  "value": "27,50 €/Monat (ab Aktivierung oder 7 Tage nach Lieferung)"
+                },
+                {
+                  "label": "Empfehlungsguthaben auf der Rechnung",
+                  "value": "0,00 €"
+                }
+              ],
+              "totalLabel": "Zahlung am Bestelltag (nur Versand)",
+              "totalValue": "19 €",
+              "note": "Sie zahlen am Bestelltag exakt dieselben 19 € Versand, verzichten ohne Link jedoch auf die 45 € spätere Rechnungsgutschrift."
+            }
+          ]
+        },
+        "postParagraphs": [
+          "Wichtig für den Überblick: Bei 0 € Mietgebühr zahlen Sie am Bestelltag lediglich 19 € Versandkosten; die erste Monatsgebühr wird erst bei Aktivierung oder 7 Tage nach Lieferung berechnet, und die 45 € Empfehlungsgutschrift folgt nach zwei pünktlich bezahlten Monaten."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "alt": "Starlink-Bestellseite für Berlin mit den Tarifen 100 Mbit/s, 200 Mbit/s und Max sowie Mietkit-Angaben",
+          "caption": "Deutsche Bestellansicht: Alle Tarife starten 3 Monate zum halben Preis, ab 200 Mbit/s wechselt das Mietkit auf Standard 4.",
+          "objectFit": "contain",
+          "aspectRatio": 0.5909
+        }
+      },
+      {
+        "heading": "Was sich außer Mbit/s ändert: Antenne, Mietkit und Gratis-Montage",
+        "paragraphs": [
+          "Wer nur auf die Monatsrate nach drei Monaten blickt, übersieht die gekoppelten Hardware- und Servicevorteile. In Deutschland liefert der Tarif 100 Mbit/s das Mietkit Mini X zu 0 €, während 200 Mbit/s und Max auf die größere Standard 4 zu 0 € wechseln. Die Selbstmontage bleibt immer kostenfrei; wer hingegen einen Techniker wünscht, zahlt bei 100 und 200 Mbit/s pauschal 172 €, während Max diese Profi-Installation ohne Aufpreis einschließt.",
+          "Gleichzeitig lohnt der Blick ins Kleingedruckte der deutschen Bestellseite: Da die Hardware gemietet ist, bleibt sie Eigentum von Starlink und muss bei einer Vertragsbeendigung zurückgeschickt werden. Zudem weist der deutsche Checkout ausdrücklich darauf hin, dass die Kündigung gebührenfrei bleibt, im Gegensatz zu subventionierten 12-Monats-Kaufmodellen in Regionen wie Brasilien oder Mexiko.",
+          "Wenn Sie die genauen Rückgaberegeln, Kündigungsfristen und internationalen Vertragsunterschiede nachlesen möchten, finden Sie alle Details in unserem [Ratgeber zu Starlink-Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Offizielle Starlink-Satellitenantenne und WLAN-Router aus dem Privathaushaltskit",
+          "caption": "Je nach gewählter Tarifstufe erhalten Sie in Deutschland das Mini-X-Kit oder das Standard-4-Kit zur Miete.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Offizielle Geschwindigkeiten, Latenz und passendes Haushaltsprofil",
+        "paragraphs": [
+          "In den offiziellen Breitband-Spezifikationen (DOC-1470-99699-90) und im aktuellen Hilfeartikel (886607c4) nennt Starlink für alle drei Privattarife unbegrenztes Datenvolumen, eine typische Latenz unter 50 ms und mindestens 99 % Verfügbarkeit. Der 100-Mbit/s-Tarif liefert typischerweise 80 bis 100 Mbit/s im Download (bei 100 Mbit/s begrenzt), der 200-Mbit/s-Tarif erreicht 80 bis 200 Mbit/s (bei 200 Mbit/s begrenzt) und der Max-Tarif liegt zwischen 80 und 400 Mbit/s, mit Spitzen über 400 Mbit/s bei freier Netzkapazität.",
+          "Beim Upload dokumentieren die technischen Datenblätter 15 bis 35 Mbit/s für alle Tarife, während der Hilfeartikel bei Max 20 bis 40 Mbit/s aufführt. Das ältere Dokument DOC-1414-37800-64 führte noch ausschließlich den früheren Standard-Fixed-Wert von 25 bis 100 Mbit/s auf, der heute durch die dreistufige Struktur ersetzt wurde.",
+          "Als allgemeine Faustregel für den Alltag, ausdrücklich ohne eigene Standortmessung: 100 Mbit/s reicht kleineren Haushalten problemlos für Homeoffice, Videoanrufe und 4K-Streaming; 200 Mbit/s empfiehlt sich, wenn mehrere Personen gleichzeitig große Downloads anstoßen und Sie lieber auf Standard 4 setzen; Max lohnt sich primär für sehr aktive Mehrpersonenhaushalte oder wenn Sie die inkludierte 172-€-Montage nutzen möchten."
+        ],
+        "comparisonTable": {
+          "caption": "Offizielle Leistungswerte laut DOC-1470-99699-90 und Hilfeartikel 886607c4. Das frühere Dokument DOC-1414-37800-64 listete nur 25 bis 100 Mbit/s Standard Fixed.",
+          "headers": [
+            "Privathaushaltstarif",
+            "Typischer Download (offiziell)",
+            "Typischer Upload (offiziell)",
+            "Latenz und Volumen"
+          ],
+          "rows": [
+            [
+              "Privathaushalte 100 Mbit/s",
+              "80 bis 100 Mbit/s (Limit 100 Mbit/s)",
+              "15 bis 35 Mbit/s",
+              "Unter 50 ms; unbegrenztes Datenvolumen"
+            ],
+            [
+              "Privathaushalte 200 Mbit/s",
+              "80 bis 200 Mbit/s (Limit 200 Mbit/s)",
+              "15 bis 35 Mbit/s",
+              "Unter 50 ms; unbegrenztes Datenvolumen"
+            ],
+            [
+              "Privathaushalte Max",
+              "80 bis 400 Mbit/s (bis 400+ Mbit/s)",
+              "15 bis 35 Mbit/s (20 bis 40 Mbit/s Hilfe)",
+              "Unter 50 ms; unbegrenztes Datenvolumen"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Auf einem Hausdach montierte Starlink-Antenne mit freier Sicht zum Himmel",
+          "caption": "Freie Sicht zum Himmel auf dem Dach entscheidet darüber, ob der Tarif die volle Bandbreite und unter 50 ms Latenz hält.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "Tarifwechsel-Regeln und 30-Tage-Rückgabefrist",
+        "paragraphs": [
+          "Alle Abrechnungszyklen bei Starlink enden exakt um 00:00 UTC (01:00 Uhr MEZ in Deutschland). Sofern ein Tarifwechsel im Konto vorgesehen ist, schaltet die Option JETZT ein Upgrade sofort gegen anteilige Nachberechnung frei, während ein sofortiges Downgrade das Tempo umgehend drosselt, ohne bereits bezahlte Resttage zu erstatten; die Option DATUM verschiebt den Wechsel sauber auf den nächsten Abrechnungsstichtag.",
+          "Für deutsche Kunden gibt es dabei zwei zentrale Stolpersteine: Erstens erlauben Privattarife mit gemieteter Hardware ausdrücklich keinen eigenständigen Tarifwechsel im Kundenportal. Zweitens kann ein Wechsel außerhalb bestimmter Aktionsregeln laufende Rabatte beenden. Dennoch testen Sie risikoarm, denn Sie können den Dienst innerhalb von 30 Tagen ab dem Zahlungsfälligkeitsdatum kündigen und das unbeschädigte Kit gegen Erstattung von Hardware und erstem Monat zurücksenden; weitere Infos finden Sie auch auf unserer [Starlink-Gutschein- und Empfehlungsseite](/de/coupons/starlink)."
+        ],
+        "checklist": {
+          "title": "Checkliste vor dem Bestellabschluss",
+          "items": [
+            "Prüfen Sie in der Zusammenfassung, ob für Sie 35 €, 55 € oder 75 € ab Monat 4 gilt.",
+            "Kontrollieren Sie, ob Ihr Wunschtarif das Mini-X-Kit oder Standard 4 zu 0 € Miete liefert.",
+            "Kalkulieren Sie ein, dass Mietkit-Tarife keinen Self-Service-Tarifwechsel im Portal erlauben.",
+            "Prüfen Sie vorab per App den freien Himmel am geplanten Dach- oder Gartenstandort.",
+            "Achten Sie vor der Zahlung auf den sichtbaren Empfehlungshinweis bei starlink.com."
+          ]
+        },
+        "links": [
+          {
+            "label": "Tarif, Mietkit und Bonus für Ihre Adresse prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Fazit: Welcher Starlink-Tarif passt am besten",
+        "paragraphs": [
+          "Für die meisten Haushalte in Deutschland ist Privathaushalte 100 Mbit/s mit dauerhaft 35 € nach den drei Rabattmonaten preislich sehr stark, solange Sie das Mini-X-Kit selbst aufstellen und keine hohen Parallel-Downloads fahren. Wer Wert auf die größere Standard-4-Antenne und reichlich Reserve für Homeoffice und mehrere Streams legt, findet bei 200 Mbit/s für 55 € ab Monat 4 die rundere Allround-Wahl.",
+          "Der Tarif Max rechnet sich bei 75 € regulär vor allem dann, wenn Sie ohnehin eine professionelle Dachmontage für 172 € beauftragen wollten und so die Installationskosten direkt durch den Tarif einsparen."
+        ],
+        "emphasis": "Entscheiden Sie in Deutschland nicht nur nach den ersten drei Aktionsmonaten: Rechnen Sie mit dem regulären Preis ab Monat 4, wählen Sie zwischen Mini X und Standard 4 und beachten Sie die Tarifwechsel-Sperre beim Mietkit."
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Kann ich beim deutschen Mietkit-Tarif später einfach selbst zwischen 100, 200 und Max wechseln? Nein per Self-Service: Starlink schließt bei Privattarifen mit Mietkit den eigenständigen Tarifwechsel über das Kontoportal aus.",
+          "Wie hoch ist der Preis nach den ersten drei Rabattmonaten in Deutschland? In der Berliner Testabfrage steigt 100 Mbit/s nach drei Monaten von 17,50 € auf 35 €, 200 Mbit/s von 27,50 € auf 55 € und Max von 37,50 € auf 75 €.",
+          "Wird die 45-Euro-Empfehlung direkt vom ersten Zahlbetrag abgezogen? Nein. Die 45 € erscheinen als Rechnungsgutschrift auf Ihrem Konto, nachdem zwei vollständige Monatszyklen bezahlt wurden.",
+          "Gibt es bei einer Kündigung in Deutschland eine Strafgebühr? Nein, die deutsche Bestellseite bestätigt gebührenfreie monatliche Kündigung, allerdings müssen Sie die gemietete Hardware zurücksenden.",
+          "Wie funktioniert die 30-Tage-Testphase genau? Sie können innerhalb von 30 Tagen ab dem Zahlungsfälligkeitsdatum kündigen und das unbeschädigte Kit zurückschicken, um Ausrüstung und den ersten Monat erstattet zu bekommen."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Geben Sie Ihre Straße direkt auf starlink.com ein, prüfen Sie Mietkit, 3-Monats-Rabatt sowie Folgepreis und sichern Sie sich 45 € Rechnungsguthaben nach zwei bezahlten Zyklen.",
+      "label": "Tarife und Bonus an Ihrer Adresse prüfen",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Preise, Hardware-Zuordnungen, Mietbedingungen und offizielle Leistungsdaten wurden direkt auf den öffentlichen Seiten und im Bestellfluss von Starlink geprüft. Wir nehmen ohne Mehrkosten für Leser am offiziellen Empfehlungsprogramm teil.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-vertrag-kuendigen"
+      },
+      {
+        "slug": "lohnt-sich-starlink"
+      },
+      {
+        "slug": "starlink-empfehlungslink"
+      },
+      {
+        "slug": "starlink-mini-oder-standard-vergleich"
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Sie 100 Mbit/s, 200 Mbit/s und Max anhand von Folgepreis, Mietkit und Montagekosten vergleichen wollen.",
+        "Sie direkt bei starlink.com bestellen und vor der Zahlung den Empfehlungsbonus aktivieren möchten."
+      ],
+      "skipIf": [
+        "an Ihrer Adresse bereits schnelles Glasfaser oder Kabel deutlich günstiger anliegt.",
+        "Sie fest damit rechnen, auf einem Mietkit-Tarif monatlich zwischen Geschwindigkeitsstufen zu springen."
+      ]
+    }
+  },
+  {
+    "id": 1436,
+    "slug": "piani-starlink-100-200-mbps-o-max",
+    "translationKey": "starlink-planos-residenciais",
+    "locale": "it",
+    "hideFromPortugueseListings": true,
+    "title": "Piani Starlink 100 Mbps, 200 Mbps o Max: prezzi, antenna, contratto e quale scegliere",
+    "seoTitle": "Piani Starlink 100 Mbps, 200 Mbps o Max: quale scegliere",
+    "type": "Guida alla scelta",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redazione e analisi",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Redazione e analisi",
+        "initials": "BL"
+      }
+    ],
+    "description": "Confronto piani Starlink Residenziale 100 Mbps, 200 Mbps e Max in Italia: sconto 3 mesi, kit Mini X o Standard 4, installazione e cambio piano.",
+    "metaDescription": "Piani Starlink 100 Mbps, 200 Mbps o Max in Italia: prezzi per 3 mesi e a regime, kit Mini X vs Standard 4, velocità ufficiali e regole.",
+    "publishedAt": "24 novembre 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "image": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa.webp",
+    "imageAlt": "Copertina comparativa con pannello nero con STARLINK e il titolo 100, 200 Mbps o Max? accanto a un'antenna Starlink montata sul tetto in legno contro il cielo azzurro.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Starlink suddivide l'abbonamento domestico tra 100 Mbps, 200 Mbps e Max, ma la scelta incide su molto più della sola velocità massima. Salendo di fascia cambiano l'antenna fornita, l'inclusione dell'installazione professionale e la possibilità di modificare il piano in seguito. Verifica il tuo indirizzo dal link ufficiale per confermare tariffe locali e ottenere credito in fattura dopo due cicli pagati."
+        ],
+        "links": [
+          {
+            "label": "Verifica i piani disponibili al tuo indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Prezzi in Italia e come funziona il credito di invito",
+        "paragraphs": [
+          "Per un indirizzo di Milano su starlink.com, tutte e tre le opzioni residenziali propongono uno sconto del 50% sui primi tre mesi: Residenziale 100 Mbps a 17,50 €/mese (poi 35 €/mese), Residenziale 200 Mbps a 22,50 €/mese (poi 45 €/mese) e Residenziale Max a 32,50 €/mese (poi 65 €/mese), con spedizione pari a 19 €.",
+          "L'intera gamma italiana mostrava kit a noleggio a 0 € e la dicitura chiara \"Nessun contratto, prova di 30 giorni\". Ordinando per la prima volta tramite il link ufficiale di invito, si ottengono 45 € di credito direttamente in fattura dopo due cicli mensili completi pagati puntualmente, senza ridurre in alcun modo il costo dell'ordine al momento dell'acquisto."
+        ],
+        "comparisonTable": {
+          "caption": "Importi rilevati su un indirizzo di riferimento a Milano nel checkout ufficiale il 23/11/2026. Il bonus di invito entra in fattura dopo due cicli mensili completi pagati.",
+          "headers": [
+            "Piano residenziale (Italia)",
+            "Canone 3 mesi (poi a regime)",
+            "Kit a noleggio incluso",
+            "Installazione e credito invito"
+          ],
+          "rows": [
+            [
+              "Residenziale 100 Mbps",
+              "17,50 €/mese (poi 35 €)",
+              "Mini X a noleggio a 0 €",
+              "Installazione 172 € opzionale; 45 € in fattura"
+            ],
+            [
+              "Residenziale 200 Mbps",
+              "22,50 €/mese (poi 45 €)",
+              "Standard 4 a noleggio a 0 €",
+              "Installazione 172 € opzionale; 45 € in fattura"
+            ],
+            [
+              "Residenziale Max",
+              "32,50 €/mese (poi 65 €)",
+              "Standard 4 a noleggio a 0 €",
+              "Installazione da 172 € gratis; 45 € in fattura"
+            ]
+          ]
+        },
+        "simulator": {
+          "title": "Simulatore di esborso iniziale e credito futuro in fattura (Italia)",
+          "scenarios": [
+            {
+              "label": "200 Mbps con link di invito",
+              "lines": [
+                {
+                  "label": "Kit Standard 4 a noleggio + spedizione",
+                  "value": "0,00 € + 19,00 €"
+                },
+                {
+                  "label": "Primo mese scontato (primi 3 mesi)",
+                  "value": "22,50 €/mese (all'attivazione o 7 giorni dopo consegna)"
+                },
+                {
+                  "label": "Credito in fattura dopo 2 cicli pagati",
+                  "value": "45,00 € sul conto",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Addebito oggi all'ordine (solo spedizione)",
+              "totalValue": "19 €",
+              "note": "Al checkout paghi solo i 19 € di spedizione; il primo canone scatta all'attivazione o 7 giorni dopo la consegna, e i 45 € arrivano dopo due cicli pagati."
+            },
+            {
+              "label": "Max con link di invito",
+              "lines": [
+                {
+                  "label": "Kit Standard 4 + installazione pro + spedizione",
+                  "value": "0,00 € + 0,00 € + 19,00 €"
+                },
+                {
+                  "label": "Primo mese scontato (primi 3 mesi)",
+                  "value": "32,50 €/mese (all'attivazione o 7 giorni dopo consegna)"
+                },
+                {
+                  "label": "Credito in fattura dopo 2 cicli pagati",
+                  "value": "45,00 € sul conto",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Addebito oggi all'ordine (solo spedizione)",
+              "totalValue": "19 €",
+              "note": "Azzera i 172 € di installazione tecnica. Il canone parte all'attivazione o 7 giorni dopo la consegna e dal quarto mese passa a 65 €/mese."
+            },
+            {
+              "label": "200 Mbps senza link di invito",
+              "lines": [
+                {
+                  "label": "Kit Standard 4 a noleggio + spedizione",
+                  "value": "0,00 € + 19,00 €"
+                },
+                {
+                  "label": "Primo mese scontato (primi 3 mesi)",
+                  "value": "22,50 €/mese (all'attivazione o 7 giorni dopo consegna)"
+                },
+                {
+                  "label": "Credito invito in fattura",
+                  "value": "0,00 €"
+                }
+              ],
+              "totalLabel": "Addebito oggi all'ordine (solo spedizione)",
+              "totalValue": "19 €",
+              "note": "Paghi gli stessi 19 € al momento dell'ordine (e il canone all'attivazione o 7 giorni dopo la consegna), ma senza link perdi i 45 € futuri in fattura."
+            }
+          ]
+        },
+        "postParagraphs": [
+          "Ricorda che con il kit a noleggio a 0 € paghi all'ordine soltanto i 19 € di spedizione: il primo canone mensile viene addebitato all'attivazione o 7 giorni dopo la consegna (a seconda di ciò che avviene prima), mentre i 45 € di invito arrivano in fattura dopo due mensilità complete pagate."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "alt": "Schermata d'ordine Starlink per Milano con i piani 100 Mbps, 200 Mbps e Max e kit a noleggio",
+          "caption": "Checkout italiano: tutti i piani offrono 3 mesi al 50%, mentre da 200 Mbps il kit passa da Mini X a Standard 4.",
+          "objectFit": "contain",
+          "aspectRatio": 0.6065
+        }
+      },
+      {
+        "heading": "Cosa cambia oltre ai Mbps: antenna, noleggio e posa gratuita",
+        "paragraphs": [
+          "Fermarsi al numero di megabit nasconde due differenze pratiche fondamentali nella pagina d'ordine. In Italia, il piano 100 Mbps include il kit Mini X a noleggio a 0 €, mentre passando a 200 Mbps o Max si riceve la parabola Standard 4 sempre a 0 €. L'installazione fai-da-te non comporta costi extra su nessun livello, ma richiedere un tecnico costa 172 € su 100 Mbps e 200 Mbps e diventa gratuito solo scegliendo Max.",
+          "Poiché in Italia l'hardware viene concesso in comodato o noleggio gratuito, non esistono vincoli temporali fissi ma in caso di disdetta occorre restituire l'attrezzatura completa. Nei mercati extraeuropei come Brasile o Messico esistono invece offerte d'acquisto scontate soggette a vincolo di 12 mesi e penali proporzionali.",
+          "Per approfondire le condizioni di recesso, restituzione del kit e le regole contrattuali nei diversi Paesi, puoi leggere la nostra [guida su contratto e disdetta Starlink](/it/reviews/starlink-contratto-disdetta)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antenna e router Wi-Fi ufficiali dei kit residenziali Starlink",
+          "caption": "Il piano scelto determina se a casa arriva il kit compatto Mini X oppure il sistema Standard 4.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Velocità ufficiali, latenza e profilo d'uso domestico",
+        "paragraphs": [
+          "I documenti ufficiali sulle prestazioni a banda larga (DOC-1470-99699-90) e l'articolo del Centro assistenza sui piani residenziali (886607c4) prevedono traffico dati illimitato, latenza tipica inferiore a 50 ms e disponibilità tipica almeno pari al 99% su tutta la gamma. In download, 100 Mbps eroga tipicamente da 80 a 100 Mbps (limitato a 100 Mbps); 200 Mbps opera tra 80 e 200 Mbps (limitato a 200 Mbps); e Max varia tra 80 e 400 Mbps, superando i 400 Mbps nelle aree meno congestionate.",
+          "In upload le specifiche indicano 15-35 Mbps tipici su tutti i livelli, mentre il Centro assistenza cita 20-40 Mbps per il piano Max. Il vecchio documento DOC-1414-37800-64 riportava soltanto il profilo storico Standard Fixed da 25 a 100 Mbps, ormai superato dalla nuova scala a tre livelli.",
+          "Come regola pratica generale per la casa, senza rappresentare un test eseguito presso la tua abitazione: 100 Mbps gestisce agilmente smart working, videochiamate e streaming 4K in famiglie piccole; 200 Mbps offre margine quando più persone lavorano o scaricano file pesanti insieme, sbloccando Standard 4 con soli 10 € al mese in più a regime rispetto al piano base; Max conviene soprattutto a case molto connesse o a chi vuole risparmiare i 172 € di installazione tecnica."
+        ],
+        "comparisonTable": {
+          "caption": "Valori ufficiali tratti da DOC-1470-99699-90 e dall'articolo 886607c4 del Centro assistenza. Il precedente DOC-1414-37800-64 mostrava solo Standard Fixed 25-100 Mbps.",
+          "headers": [
+            "Piano residenziale",
+            "Download tipico ufficiale",
+            "Upload tipico ufficiale",
+            "Latenza e dati"
+          ],
+          "rows": [
+            [
+              "Residenziale 100 Mbps",
+              "80-100 Mbps (tetto 100 Mbps)",
+              "15-35 Mbps",
+              "Sotto 50 ms; dati illimitati"
+            ],
+            [
+              "Residenziale 200 Mbps",
+              "80-200 Mbps (tetto 200 Mbps)",
+              "15-35 Mbps",
+              "Sotto 50 ms; dati illimitati"
+            ],
+            [
+              "Residenziale Max",
+              "80-400 Mbps (fino a 400+ Mbps)",
+              "15-35 Mbps (20-40 Mbps aiuto)",
+              "Sotto 50 ms; dati illimitati"
+            ]
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Antenna Starlink montata su un tetto domestico con visuale libera verso il cielo",
+          "caption": "Una visuale priva di ostacoli sul tetto resta decisiva per mantenere le velocità dichiarate e latenza sotto 50 ms.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "Regole sul cambio piano e finestra di reso di 30 giorni",
+        "paragraphs": [
+          "La chiusura dei cicli di fatturazione Starlink avviene sempre alle 00:00 UTC (01:00 in Italia con ora solare). Quando il cambio è disponibile, selezionare ORA applica subito gli upgrade con addebito proporzionale, mentre un downgrade immediato riduce subito il limite di velocità senza rimborsare i giorni residui del mese già pagato; l'opzione DATA pianifica la modifica al rinnovo successivo.",
+          "Occorre però fare attenzione a due paletti: i piani residenziali con kit a noleggio non consentono di cambiare piano in autonomia dal portale clienti, e modificare offerta durante promozioni o vincoli attivi può far decadere gli sconti. Hai comunque 30 giorni dalla data di scadenza del pagamento per annullare il servizio e restituire il kit integro ottenendo il rimborso di hardware e primo mese; puoi controllare tutti i dettagli anche nella nostra [pagina coupon e invito Starlink](/it/coupons/starlink)."
+        ],
+        "checklist": {
+          "title": "Lista di controllo prima di completare l'ordine",
+          "items": [
+            "Verifica nel riepilogo il prezzo dopo i primi tre mesi (35 €, 45 € oppure 65 €).",
+            "Controlla se il piano selezionato assegna Mini X oppure Standard 4 a noleggio.",
+            "Ricorda che con il kit a noleggio non potrai cambiare piano in autonomia dall'app.",
+            "Valuta se il risparmio di 172 € sull'installazione tecnica rende conveniente il piano Max.",
+            "Accertati che l'avviso di invito applicato sia visibile su starlink.com prima di pagare."
+          ]
+        },
+        "links": [
+          {
+            "label": "Verifica piano, kit e bonus al tuo indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Verdetto: quale piano Starlink conviene scegliere",
+        "paragraphs": [
+          "In Italia il piano Residenziale 200 Mbps rappresenta il miglior punto d'equilibrio per la maggior parte delle abitazioni: con 22,50 € nei primi tre mesi e 45 € a regime, raddoppi il limite rispetto al piano da 100 Mbps e ottieni il kit Standard 4 pagando soltanto 10 € al mese in più rispetto all'offerta base.",
+          "Scegli 100 Mbps se installi da solo l'antenna Mini X e vuoi contenere la spesa mensile a 35 € dal quarto mese, oppure passa a Max soprattutto se intendi richiedere l'installazione professionale inclusa risparmiando subito 172 €."
+        ],
+        "emphasis": "Non valutare solo lo sconto dei primi tre mesi: confronta il canone dal quarto mese in poi, la differenza tra Mini X e Standard 4 e il blocco sul cambio piano per i kit a noleggio."
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Posso passare da 100 Mbps a 200 Mbps più avanti se ho il kit a noleggio? No in autonomia: nei piani residenziali con attrezzatura a noleggio Starlink disattiva il cambio piano self-service dall'account.",
+          "Quanto costa Starlink dopo i primi 3 mesi in Italia? Nell'ordine di riferimento a Milano, 100 Mbps passa da 17,50 € a 35 €, 200 Mbps da 22,50 € a 45 € e Max da 32,50 € a 65 € al mese.",
+          "I 45 € del link di invito scalano dal prezzo del kit al checkout? No. Il credito arriva direttamente in fattura dopo due cicli mensili completi pagati.",
+          "Se scelgo un downgrade immediato ricevo il rimborso dei giorni rimanenti? No. Quando il cambio piano è disponibile, la riduzione immediata abbassa subito la velocità senza rimborsi sulla parte residua del mese.",
+          "Come funziona la prova di 30 giorni? Puoi annullare l'abbonamento e restituire il kit integro entro 30 giorni dalla data di scadenza del pagamento per ricevere il rimborso del kit e del primo mese."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Inserisci il tuo indirizzo sul sito ufficiale per verificare tariffe per 3 mesi e a regime, modello di antenna assegnato e credito di 45 € in fattura dopo due cicli pagati.",
+      "label": "Controlla piani e credito al tuo indirizzo",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "Prezzi, abbinamenti hardware, condizioni di noleggio e schede tecniche ufficiali sono stati verificati direttamente sulle pagine pubbliche e nel checkout Starlink. Partecipiamo al programma ufficiale di invito senza costi aggiuntivi per il lettore.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-contratto-disdetta"
+      },
+      {
+        "slug": "starlink-conviene"
+      },
+      {
+        "slug": "starlink-link-invito"
+      },
+      {
+        "slug": "starlink-mini-o-standard-quale-scegliere"
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "vuoi confrontare 100 Mbps, 200 Mbps e Max considerando prezzo dopo tre mesi, kit e posa gratuita.",
+        "stai ordinando direttamente su starlink.com verificando il bonus di invito prima del pagamento."
+      ],
+      "skipIf": [
+        "al tuo indirizzo è già disponibile una connessione in fibra stabile a un canone molto più basso.",
+        "prevedi di cambiare fascia di velocità ogni mese nonostante i limiti sui kit a noleggio."
+      ]
+    }
+  },
+  {
+    "id": 1437,
+    "slug": "starlink-plans-100-200-max-ja",
+    "locale": "ja",
+    "translationKey": "starlink-planos-residenciais",
+    "title": "Starlinkの住宅プラン比較：100 Mbps・200 Mbps・Maxと日本の「ホーム」の違い",
+    "seoTitle": "Starlink 100 Mbps・200 Mbps・Maxと日本のホーム比較",
+    "type": "選び方ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編集・分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "日本では住宅向けが「ホーム（Max 300+ Mbps）」の1プランのみ表示され、海外では100・200・Maxの3段階があります。料金、レンタル機器、公式速度仕様、プラン変更の注意点を比較します。",
+    "metaDescription": "Starlinkの100 Mbps・200 Mbps・Maxの違いと日本の「ホーム（JP¥3,550/月・Miniレンタル¥0）」を比較。公式速度仕様やプラン変更時の制限、紹介特典7,000円の条件まで整理しました。",
+    "publishedAt": "2026年11月24日",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-plans-100-200-max-ja-capa.webp",
+    "imageAlt": "黒背景パネルにSTARLINKと「100・200 Mbpsとホーム(Max)」の見出しを配置し、右側に青い空のもと木造屋根へ設置されたStarlinkアンテナの写真を載せた比較ガイドカバー。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "クイックアンサー",
+        "paragraphs": [
+          "日本国内のStarlink住宅向け注文画面では、現在「ホーム（Max 300+ Mbps）」の1プランのみが表示され、50%オフのキャンペーン時は月額JP¥3,550（通常JP¥7,100）、Miniレンタルと小型ルーターが初期・月額ともにJP¥0、配送料JP¥3,000で12か月の契約縛りはありません。一方、米国や欧州など海外では100 Mbps・200 Mbps・Maxの3段階に分かれ、速度上限（80〜100 / 80〜200 / 80〜400 Mbps）だけでなく付属アンテナ（MiniかStandard 4か）や工事費無料の有無も変わります。初めて契約する方はstarlink.comの紹介リンク経由なら同額・30日返却保証のまま、2か月継続後に日本では7,000円の紹介クレジットを受け取れます。"
+        ],
+        "links": [
+          {
+            "label": "7,000円特典つきで自分の住所のプランを確認する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "日本の「ホーム」と海外100・200・Maxの料金と紹介特典の比較",
+        "paragraphs": [
+          "東京駅の住所でstarlink.comの注文画面を確認すると、日本向け住宅プランは「ホーム（Max 300+ Mbps）」の1種類のみです。通常月額JP¥7,100に対して50%サービス割引が入りJP¥3,550/月、機器はMiniレンタルと小型ルーターがJP¥0（初期費用も月額も0円）、当日支払いは配送手数料JP¥3,000（初回月額は開通時または配送後7日で課金開始）です。画面のFAQでは11月30日までの注文に割引月額が適用されると案内されていますが、将来の通常料金変更の可能性も記載されています。",
+          "海外に在住している方や海外基準と比べたい方向けに整理すると、米国（ネバダ州リノ）や欧州（ポルトガル・スペイン・フランス・ドイツ・イタリア）、英国では住宅向けが100 Mbps・200 Mbps・Maxの3段階に分かれています。どの対象住宅プラン（Lite・100・200・Max・ホーム）を選んでも、starlink.comで初回注文時に紹介リンクを使っていれば2サイクル支払い完了後に国の紹介クレジットが付与されます。日本では7,000円で、注文時のキット代を値引きするものではなく請求へのクレジットとして反映されるため、割引中の月額JP¥3,550なら約2か月分、通常月額JP¥7,100でも約1か月分に相当します（米国ではUS$ 100、欧州では45 €、英国では£40）。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "市場・プラン",
+            "月額（割引時／通常）",
+            "キット・契約・設置条件",
+            "紹介特典がカバーする目安"
+          ],
+          "rows": [
+            [
+              "日本（東京）：ホーム（Max 300+ Mbps）",
+              "JP¥3,550／月（通常 JP¥7,100／月）",
+              "Miniレンタル＋小型ルーター JP¥0、配送 JP¥3,000、12か月縛りなし（解約時返却）",
+              "7,000円（割引月額の約2か月分、通常月額の約1か月分）"
+            ],
+            [
+              "米国（ネバダ）：100 / 200 / Max",
+              "$38.50→$55 / $59.50→$85 / $91→$130",
+              "レンタル $0（100はV5+Router Mini・設置$99任意、200/Maxは設置$0）、配送 $20＋税",
+              "US$ 100（100 Mbps割引時で約2.6か月分）"
+            ],
+            [
+              "欧州（仏・西・葡）：100 / 200 / Max",
+              "24,50 €→35 € / 31,50 €→45 € / 45,50 €→65 €",
+              "レンタル 0 €（100はMini X、200/MaxはStandard 4、Maxのみ設置 0 €）、配送 19〜20 €",
+              "45 €（100 Mbps割引時で約1.8か月分）"
+            ],
+            [
+              "英国（ロンドン）：100 / 200 / Max",
+              "£40 / £60 / £80（表示そのまま）",
+              "レンタル £0（100はMini、200/MaxはStandard 4、Maxのみ設置無料）、契約縛りなし、配送 £19",
+              "£40（100 Mbpsのちょうど1か月分）"
+            ]
+          ],
+          "caption": "2026年11月23日に公式注文画面で確認した参照住所ごとの比較。紹介特典は初回注文から2回の請求サイクル完了後に付与され、当日の機器代は下がりません。住所により提供プランと条件が異なります。"
+        },
+        "simulator": {
+          "title": "シミュレーター：プラン別・紹介リンク有無の比較",
+          "scenarios": [
+            {
+              "label": "日本 ホーム（割引中）＋紹介リンク",
+              "lines": [
+                {
+                  "label": "Miniレンタル＋小型ルーター（配送 JP¥3,000）",
+                  "value": "機器 JP¥0（解約時返却・当日支払い配送料のみ）"
+                },
+                {
+                  "label": "キャンペーン月額（50%オフ）",
+                  "value": "JP¥3,550／月（開通時または配送後7日で課金開始）"
+                },
+                {
+                  "label": "2か月継続後の紹介クレジット",
+                  "value": "-7,000円（請求に反映）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "紹介クレジットの換算目安",
+              "totalValue": "割引月額の約2か月分",
+              "note": "公式サイトと同額で契約でき、初回月額は開通時または配送後7日で課金開始、30日間の返却保証も維持されます。"
+            },
+            {
+              "label": "日本 ホーム（通常価格）＋紹介リンク",
+              "lines": [
+                {
+                  "label": "Miniレンタル＋小型ルーター（配送 JP¥3,000）",
+                  "value": "機器 JP¥0（解約時返却・当日支払い配送料のみ）"
+                },
+                {
+                  "label": "通常の月額料金",
+                  "value": "JP¥7,100／月（開通時または配送後7日で課金開始）"
+                },
+                {
+                  "label": "2か月継続後の紹介クレジット",
+                  "value": "-7,000円（請求に反映）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "通常月額に対するカバー率",
+              "totalValue": "約1か月分（98.6%）",
+              "note": "特典はキット購入時ではなく、2サイクル支払い完了後に請求クレジットとして入ります。"
+            },
+            {
+              "label": "紹介リンクなし／量販店購入",
+              "lines": [
+                {
+                  "label": "プラン月額とレンタル条件",
+                  "value": "公式サイトの通常注文と同一"
+                },
+                {
+                  "label": "紹介クレジット（後から追加不可）",
+                  "value": "0円"
+                },
+                {
+                  "label": "受け取り損ねる公式特典",
+                  "value": "7,000円相当（日本）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "受け取れる紹介特典",
+              "totalValue": "0円",
+              "note": "家電量販店や通販サイトでの購入は紹介プログラムの対象外です。"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "alt": "東京駅の住所で確認したStarlinkの注文画面。ホームプランJP¥3,550/月とMiniレンタルJP¥0が表示されている",
+          "caption": "東京の住宅向け注文画面：単一の「ホーム」プランとレンタル条件の表示。",
+          "objectFit": "contain",
+          "aspectRatio": 0.694
+        }
+      },
+      {
+        "heading": "速度以外に変わること：アンテナ（MiniとStandard）、契約、設置費用",
+        "paragraphs": [
+          "100 Mbps・200 Mbps・Maxの区別がある地域では、選択するタブによって届くアンテナと付属費用が変わります。欧州や英国では100 MbpsにMini X（0 €／£0レンタル）が付く一方、200 MbpsとMaxは大型のStandard 4（0 €／£0レンタル）へ切り替わり、専門設置の無料枠（172 €／£74相当）はMaxのみに付きます。米国では100 MbpsがStarlink V5＋Router Mini（設置$99任意）、200 MbpsがStarlink V4＋Router 4で設置費用$0となり、MaxはStandard 4 Xに加えて追加のRouter Mini（$0）が同梱されます。",
+          "日本の「ホーム」プランでは、東京の画面上でMiniレンタルと小型ルーター（Wi-Fiルーター）の組み合わせが初期費用JP¥0・月額JP¥0で提示され、12か月の最低利用期間や解約違約金の記載はありませんでした。ただしレンタル機器のため、サービス解約時にはStarlinkへの返却が必要です。一方、ブラジルのMaxやメキシコのStandard 4 Xのように補助金付き購入キットに12か月の契約縛りと中途解約手数料が付く国や、韓国・オマーン・カタールのように買い切りで返却義務がない国もあります。解約時の返却手順や契約モデルの違いは[Starlinkの契約と解約ガイド](/ja/reviews/starlink-cancel-ja)、MiniとStandardの消費電力・Wi-Fi範囲の違いは[Starlink MiniとStandardの比較](/ja/reviews/starlink-mini-or-standard-ja)で詳しく確認できます。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlinkの公式アンテナとルーターの外観",
+          "caption": "契約するプランや地域によりMini系とStandard 4系の構成が変わります。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "公式の速度・アップロード・遅延仕様（DOC-1470-99699-90とDOC-1414-37800-64）",
+        "paragraphs": [
+          "プランごとの通信スペックを正確に把握するには、最新の仕様文書（[DOC-1470-99699-90](https://starlink.com/legal/documents/DOC-1470-99699-90?regionCode=US)）とヘルプセンター記事（886607c4）をあわせて確認する必要があります。ヘルプセンターでは、従来のResidentialがResidential Maxへ、Residential LiteがResidential 100 Mbpsへ改称されたことが明記されており、最新仕様では100 Mbps・200 Mbps・Maxのいずれも可用性99%以上、遅延50 ms未満、アップロード15〜35 Mbps（Maxはヘルプセンター上で20〜40 Mbps、ダウンロード最大400+ Mbps）と定義されています。",
+          "一方で、旧来の仕様ページ（[DOC-1414-37800-64](https://starlink.com/legal/documents/DOC-1414-37800-64)）には古い「STANDARD (FIXED)」の表記（ダウンロード25〜100 Mbps、アップロード5〜10 Mbps、遅延25〜60 ms、一般説明文として25〜220 Mbps・過半数100 Mbps超）が残っているため、古い解説記事と数値が食い違って見えます。日本の「ホーム」は注文画面上で最大300+ Mbpsと表示されるため上位の無制限帯域に相当します。実務上の目安（当サイトの実測ではありません）：1〜2人での在宅勤務・Web会議・バックアップ回線なら100 Mbps帯で十分対応でき、複数人での同時会議や大容量ダウンロードが多いなら200 Mbps帯、大人数世帯や最大スループット重視ならMax（日本ではホーム）が向いています。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "プラン区分（公式仕様）",
+            "ダウンロード速度",
+            "アップロード速度",
+            "遅延・可用性・出典"
+          ],
+          "rows": [
+            [
+              "Residential 100 Mbps（旧Lite改称市場）",
+              "80〜100 Mbps（上限100 Mbps）",
+              "15〜35 Mbps",
+              "遅延50 ms未満、可用性99%以上（DOC-1470-99699-90 / 886607c4）"
+            ],
+            [
+              "Residential 200 Mbps",
+              "80〜200 Mbps（上限200 Mbps）",
+              "15〜35 Mbps",
+              "遅延50 ms未満、可用性99%以上（DOC-1470-99699-90 / 886607c4）"
+            ],
+            [
+              "Residential Max（旧Residential／日本ホーム相当）",
+              "80〜400 Mbps（ヘルプ表記最大400+ Mbps、日本表示300+ Mbps）",
+              "15〜35 Mbps（ヘルプ表記20〜40 Mbps）",
+              "遅延50 ms未満、可用性99%以上（DOC-1470-99699-90 / 886607c4）"
+            ],
+            [
+              "Residential Lite（Lite表記維持市場）",
+              "80〜200 Mbps",
+              "15〜35 Mbps",
+              "遅延50 ms未満、可用性99%以上（DOC-1470-99699-90）"
+            ],
+            [
+              "旧仕様 Standard (Fixed)（参考）",
+              "25〜100 Mbps（本文25〜220 Mbps）",
+              "5〜10 Mbps（本文5〜20 Mbps）",
+              "遅延25〜60 ms、可用性99%以上（旧DOC-1414-37800-64）"
+            ]
+          ],
+          "caption": "Starlink公開仕様（DOC-1470-99699-90・ヘルプ記事886607c4・旧DOC-1414-37800-64）に基づく公表値。スタンバイモード提供地域では上下最大500 Kbpsです。"
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "開けた空の下、屋根に設置されたStarlinkアンテナ",
+          "caption": "どの速度帯のプランでも、屋根や庭など空が広く開けた設置場所の確保が前提です。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "契約後のプラン変更ルール（00:00 UTC・レンタル制限・割引終了）と30日返却",
+        "paragraphs": [
+          "海外で100 Mbpsと200 Mbps・Maxの間で迷う場合や、将来プラン変更を検討する場合は、Starlinkの請求・変更ルールを事前に押さえておく必要があります。請求サイクルは協定世界時（UTC）で処理され、変更の締切は請求日の00:00 UTC（日本時間の午前9時）です。アカウント画面で変更するときは「今すぐ（NOW／即時適用）」と「日付指定（DATE／請求サイクル終了日適用）」の2択があり、上位プランへのアップグレードは「今すぐ」で新料金が即座に開始、「日付指定」で次回請求日から切り替わります。一方、下位プランへのダウングレードで「今すぐ」を選ぶと即座に切り替わる代わりに、現在の請求期間の残り日数分の返金は一切行われないため、支払い済み期間を使い切りたい場合は必ず請求サイクル終了日（日付指定）を選ぶ必要があります。",
+          "特に見落としやすい重大な制限が2つあります。第一に、Starlinkの公式ルールでは「キットをレンタルしている住宅向け・法人向けプランはセルフサービスでのプラン変更ができない」と定められています。日本（Miniレンタル）や米国・欧州のようにレンタル契約で始めた場合は、購入型と同じように管理画面から自由にプランを上下できるとは限りません。第二に、キャンペーン割引や12か月契約中にプランを変更すると割引価格が終了したり、サポート経由での手数料・機器買取が必要になる場合があります（未開通・支払い停止中・満席エリアでも変更不可）。",
+          "申し込みのハードルを下げる安全策が「30日間の返却保証」です。すべての検証済み市場で、支払い期日から30日以内にサービスを解約し、機器を破損なく返却すれば、キット代（支払いがある場合）と初月料金の全額返金対象となります（解約操作だけでは返却にならないため、返送手続きと発送控えの保管が必要です）。また、7,000円の紹介クレジットを受け取るには、家電量販店やマーケットプレイスではなく、購入前に必ずstarlink.comの紹介リンクから申し込む必要があります。詳しい手順は[Starlinkの紹介特典ページ](/ja/coupons/starlink)をご確認ください。"
+        ],
+        "checklist": {
+          "title": "プラン決定・注文前のチェックリスト",
+          "items": [
+            "自分の住所をstarlink.comに入力し、表示されたプラン（日本はホーム、海外は100・200・Max）とレンタルか購入かを確認した。",
+            "設置予定場所でStarlinkアプリの障害物チェックを行い、空が開けていることを確認した。",
+            "レンタル契約の場合は管理画面で自由なプラン変更ができず、変更でキャンペーン割引が終了する可能性を理解した。",
+            "支払い期日から30日以内の解約と破損のない機器返却で返金対象になること、解約時にレンタル品の返送が必要なことを確認した。",
+            "7,000円（または登録国の紹介クレジット）を受け取るため、決済前に同じブラウザで紹介リンクからstarlink.comを開いた。"
+          ]
+        },
+        "links": [
+          {
+            "label": "30日間の返却保証つきで公式サイトを開く",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "結論：どのプランを選ぶべきか",
+        "paragraphs": [
+          "日本国内で契約する場合は選択肢が「ホーム（Max 300+ Mbps）」の一択となるため、50%オフのキャンペーン条件・レンタル返却条件・設置場所の空の見通しを確認したうえで紹介リンク経由で申し込めば、最もシンプルに始められます。海外で100 Mbps・200 Mbps・Maxの3つから選べる住所なら、月額を抑えたい場合やバックアップ用途・12か月縛り回避（ブラジルなど）には100 Mbps、米国で無料設置とStandard V4が欲しいなら200 Mbps、大人数世帯や欧州で無料専門設置まで含めたいならMaxを選ぶのが合理的です。"
+        ],
+        "emphasis": "プラン変更でキャンペーン割引が外れたりレンタル契約で切り替えが制限されたりするため、最初の申し込み時に自分の用途と住まいの住所に合った速度帯を正しく選び、必ずstarlink.comの紹介リンク経由で注文して30日間の返却保証と紹介クレジットを両方確保するのが最も失敗しにくい進め方です。"
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "日本でも100 Mbpsや200 Mbpsのプランを選べますか？ 東京の公開注文画面で確認した時点では、日本向け住宅プランは「ホーム（Max 300+ Mbps）」の1プランのみが表示されました。100 Mbps・200 Mbps・Maxの3段階は主に米国や欧州などの海外住所で提供されています。",
+          "Starlinkの100 Mbpsプランで在宅勤務や動画視聴は足りますか？ 公式仕様（DOC-1470-99699-90）ではダウンロード80〜100 Mbps・アップロード15〜35 Mbps・遅延50 ms未満とされており、一般的な目安として1〜2人世帯のWeb会議や動画視聴、光回線のバックアップ用途であれば十分対応しやすい帯域です。",
+          "100 MbpsからMaxや別プランへ後から変更すると割引は消えますか？ 契約後のプラン変更によってキャンペーン割引価格が終了する場合があります。またレンタル機器の契約ではセルフサービスでのプラン変更ができないため、最初の注文時に適切なプランを選ぶことが重要です。",
+          "プラン変更の締切時間と「今すぐ」「日付指定」の違いは何ですか？ 請求処理はUTC基準で00:00 UTC（日本時間午前9時）が締切です。ダウングレード時に「今すぐ」を選ぶと即座に切り替わる代わりに残り日数の返金がないため、支払い済み期間を使い切りたい場合は請求サイクル終了日（日付指定）を選びます。",
+          "どの住宅プランでも紹介リンクの7,000円特典は対象になりますか？ はい。Starlinkの公式案内ではResidential（100 Mbps、200 Mbps、Max、Lite等を含む住宅向けプラン）が対象で、starlink.comの紹介リンクから新規契約し2か月分の請求を完了すると、日本では7,000円が付与されます。量販店や通販サイト購入は対象外です。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "住所の注文画面で提示された速度帯・機器条件・キャンペーン有無を確認し、自宅の用途に合うプランを見極めたうえで契約したい。",
+        "初回登録時に紹介リンクからstarlink.comで申し込み、2か月継続後の紹介クレジットと30日間の返却保証の両方を確保したい。"
+      ],
+      "skipIf": [
+        "すでに契約どおりの速度が出る安定した光回線があり、予備回線や乗り換えの必要性を感じていない。",
+        "設置予定場所の上空が建物や樹木で大きく遮られており、アプリの障害物チェックで十分な視界を確保できない。"
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "公式サイトと同じ価格・30日間の返却保証のまま、日本向け「ホーム」や海外の100/200/Maxの最新条件を自分の住所で確認でき、新規契約で2か月継続後に日本では7,000円（米国ではUS$ 100）の紹介クレジットを受け取れます。",
+      "label": "紹介リンクでstarlink.comの住所・プランを確認する",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "本ガイドの料金・ハードウェア条件・仕様データはStarlinkの公開注文画面、公式仕様文書（DOC-1470-99699-90およびDOC-1414-37800-64）、ヘルプセンター（886607c4ほか）に基づいて作成しています。当サイトはStarlink紹介プログラムに参加しており、リンク経由の登録が条件を満たした場合に報酬を受け取る場合があります。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-ja"
+      },
+      {
+        "slug": "starlink-referral-ja"
+      },
+      {
+        "slug": "starlink-worth-it-ja"
+      },
+      {
+        "slug": "starlink-mini-or-standard-ja"
+      }
+    ]
+  },
+  {
+    "id": 1438,
+    "slug": "starlink-plans-100-200-max-ko",
+    "locale": "ko",
+    "translationKey": "starlink-planos-residenciais",
+    "title": "스타링크 요금제 비교: 한국 100Mbps vs 맥스(Max) 및 해외 200Mbps 차이",
+    "seoTitle": "스타링크 100Mbps·200Mbps·맥스 요금제 비교",
+    "type": "선택 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "편집 및 분석",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "편집 및 분석",
+        "initials": "BL"
+      }
+    ],
+    "description": "서울 주문 화면의 주거용 100Mbps(월 ₩34,000)와 맥스(월 ₩46,500), Mini·Standard 키트 구매 조건, 해외 200Mbps 차이, 공식 속도 사양과 요금제 변경 규칙을 정리했습니다.",
+    "metaDescription": "스타링크 100Mbps vs 맥스(Max) 및 해외 200Mbps 비교. 서울 월 요금·키트 구매·무약정, 공식 속도 사양, 요금제 변경(00:00 UTC), 추천 크레딧 조건 안내.",
+    "publishedAt": "2026년 11월 24일",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-plans-100-200-max-ko-capa.webp",
+    "imageAlt": "검은색 패널에 STARLINK와 ‘100Mbps vs 맥스(Max)’ 제목을 담고, 오른쪽에 푸른 하늘 아래 목조 지붕 위에 설치된 스타링크 안테나 사진을 배치한 선택 가이드 표지.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "빠른 답변",
+        "paragraphs": [
+          "서울 주소로 확인한 한국 스타링크에는 주거용 100Mbps와 맥스(Max) 두 요금제가 제공되며, 둘 다 Mini 또는 Standard 4 X 키트를 12개월 약정 없이 직접 구매하는 방식입니다. 미국·유럽의 100·200·Max 요금제는 속도와 함께 안테나와 무료 설치 조건도 달라집니다. starlink.com 추천 링크로 처음 주문하면 동일한 가격과 30일 환불 규정을 유지하며 2개월 후 추천 크레딧을 받을 수 있습니다."
+        ],
+        "links": [
+          {
+            "label": "내 주소에서 100Mbps·맥스 요금제와 추천 보상 확인하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "한국 100Mbps·맥스(Max) vs 해외 100·200·Max 요금과 추천 크레딧 비교",
+        "paragraphs": [
+          "서울시청 주소로 확인한 starlink.com 공개 주문 화면에서 한국 주거용 요금제는 100Mbps와 맥스(Max) 두 가지입니다. 11월 프로모션(50% 할인, 11월 말까지 표시) 기준으로 100Mbps는 월 ₩34,000(정상 ₩68,000), 맥스는 월 ₩46,500(정상 ₩93,000)이며, 첫 달 요금은 개통 시 또는 배송 후 7일 중 먼저 도래하는 시점에 청구됩니다. 한국은 임대 키트가 없으며 Mini 키트(₩160,000, 세전 할인 전 ₩290,909, 배송·세금 포함 오늘 결제 ₩192,000)와 Standard 4 X 키트(₩275,000, 세전 할인 전 ₩500,000, 오늘 결제 ₩307,000) 중 직접 선택해 구매하며 한국 발급 카드가 필요합니다.",
+          "starlink.com 공식 추천 프로그램은 첫 가입 고객이 추천 링크로 주문해 두 번의 월 결제 주기를 완료하면 청구서 크레딧(지원 지역은 현금 선택 가능)을 지급하며, 주문 당일 키트 결제 금액을 즉시 할인해 주지는 않습니다. 한국 보상액은 공식 고객센터 문서에 단일 고정 금액으로 나와 있지 않으며, 11월 기준 참고 금액 ₩65,000으로 알려져 있으므로 결제 전에 주문 화면에서 실제 금액을 확인하세요(미국은 US$ 100, 유럽은 45 €, 영국은 £40, 일본은 ¥7,000이 확인된 금액입니다)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "시장 및 요금제",
+            "월 요금 (할인가 / 정상가)",
+            "키트·설치·약정 방식",
+            "추천 크레딧 기준"
+          ],
+          "rows": [
+            [
+              "한국(서울): 100Mbps",
+              "₩34,000 / 월 (정상 ₩68,000)",
+              "구매 전용(Mini ₩160,000 또는 Standard 4 X ₩275,000), 12개월 약정 없음",
+              "11월 기준 참고 금액 ₩65,000 — 결제 전에 주문 화면에서 실제 금액을 확인하세요"
+            ],
+            [
+              "한국(서울): 맥스 (Max)",
+              "₩46,500 / 월 (정상 ₩93,000)",
+              "구매 전용(Mini ₩160,000 또는 Standard 4 X ₩275,000), 12개월 약정 없음",
+              "11월 기준 참고 금액 ₩65,000 — 결제 전에 주문 화면에서 실제 금액을 확인하세요"
+            ],
+            [
+              "미국(네바다): 100 / 200 / Max",
+              "$38.50→$55 / $59.50→$85 / $91→$130",
+              "임대 $0 (100은 V5+Router Mini·설치$99 선택, 200·Max는 설치 $0), 약정 없음",
+              "US$ 100 (100Mbps 할인가 기준 약 2.6개월분)"
+            ],
+            [
+              "유럽(프랑스·스페인·포르투갈): 100 / 200 / Max",
+              "24,50 €→35 € / 31,50 €→45 € / 45,50 €→65 €",
+              "임대 0 € (100은 Mini X, 200·Max는 Standard 4, Max만 설치 0 €), 약정 없음",
+              "45 € (100Mbps 할인가 기준 약 1.8개월분)"
+            ]
+          ],
+          "caption": "2026년 11월 23일 공개 주문 화면에서 읽은 기준 주소별 조건. 추천 크레딧은 2개월 결제 주기 유지 후 청구서에 반영되며 키트 결제가를 줄이지 않습니다."
+        },
+        "simulator": {
+          "title": "시뮬레이터: 요금제·키트·추천 링크별 비용 흐름",
+          "scenarios": [
+            {
+              "label": "서울 100Mbps + Mini + 추천 링크",
+              "lines": [
+                {
+                  "label": "Mini 키트 구매 + 배송·세금 (오늘 결제)",
+                  "value": "₩192,000 (약정 없음)"
+                },
+                {
+                  "label": "100Mbps 월 요금 (50% 할인 / 정상 ₩68,000)",
+                  "value": "₩34,000 / 월 (개통 시 또는 배송 7일 후 청구)"
+                },
+                {
+                  "label": "2개월 후 추천 크레딧 (청구서 차감)",
+                  "value": "11월 기준 참고 금액 ₩65,000 (결제 전에 주문 화면에서 실제 금액을 확인하세요)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "오늘 결제 + 할인가 기준 보상 비율",
+              "totalValue": "₩192,000 + 약 1.9개월분 수준",
+              "note": "오늘 결제는 키트·배송비(₩192,000)만 포함되며, 추천 보상은 2회 결제 후 청구서 크레딧으로 들어옵니다."
+            },
+            {
+              "label": "서울 맥스 + Standard 4 X + 추천 링크",
+              "lines": [
+                {
+                  "label": "Standard 4 X 키트 구매 + 배송·세금 (오늘 결제)",
+                  "value": "₩307,000 (약정 없음)"
+                },
+                {
+                  "label": "맥스(Max) 월 요금 (50% 할인 / 정상 ₩93,000)",
+                  "value": "₩46,500 / 월 (개통 시 또는 배송 7일 후 청구)"
+                },
+                {
+                  "label": "2개월 후 추천 크레딧 (청구서 차감)",
+                  "value": "11월 기준 참고 금액 ₩65,000 (결제 전에 주문 화면에서 실제 금액을 확인하세요)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "오늘 결제 + 할인가 기준 보상 비율",
+              "totalValue": "₩307,000 + 약 1.4개월분 수준",
+              "note": "오늘 결제는 키트·배송비(₩307,000)만 포함되며, 할인 종료 후 정상 요금 ₩93,000 기준으로도 월 부담을 덜 수 있습니다."
+            },
+            {
+              "label": "추천 링크 없이 / 리셀러(Emart 등) 구매",
+              "lines": [
+                {
+                  "label": "키트 및 월 요금 조건",
+                  "value": "공식 사이트와 동일 (또는 오프라인 정가)"
+                },
+                {
+                  "label": "추천 보상 크레딧 (사후 추가 불가)",
+                  "value": "₩0"
+                },
+                {
+                  "label": "받지 못하고 놓치는 크레딧",
+                  "value": "11월 기준 참고 금액 ₩65,000 (결제 전에 주문 화면에서 실제 금액을 확인하세요)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "수령 가능한 추천 보상",
+              "totalValue": "₩0",
+              "note": "리셀러·마켓플레이스 구매 키트에는 추천 링크가 적용되지 않습니다."
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "alt": "서울 주소의 스타링크 공식 주문 화면. 100Mbps 월 ₩34,000과 Mini·Standard 키트 선택 화면이 표시되어 있다",
+          "caption": "서울 주문 화면의 요금제(100Mbps·맥스) 및 구매용 키트 선택 화면.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8041
+        }
+      },
+      {
+        "heading": "속도 외에 달라지는 점: 안테나(Mini vs Standard), 약정, 설치 비용",
+        "paragraphs": [
+          "해외 3단계 요금제(100 / 200 / Max)에서는 요금제 선택이 곧 안테나와 설치 비용으로 이어집니다. 유럽과 영국은 100Mbps에서 Mini X(0 € / £0 임대)를 주지만 200Mbps와 Max부터는 Standard 4(0 € / £0 임대)로 바뀌고, 무료 전문 설치(172 € / £74 절약)는 Max에만 포함됩니다. 미국에서는 100Mbps가 Starlink V5 + Router Mini(전문 설치 $99 선택), 200Mbps가 Starlink V4 + Router 4(전문 설치 $0), Max가 Standard 4 X + 추가 Router Mini $0 구성입니다.",
+          "반면 한국 주문 화면에서는 100Mbps를 고르든 맥스를 고르든 구매할 키트(Mini ₩160,000 또는 Standard 4 X ₩275,000)를 사용자가 직접 선택하며, 두 경우 모두 12개월 약정이나 임대 반납 의무가 없습니다. 참고로 브라질(Max 보조금 키트 R$ 49는 12개월 약정 및 중도 해지 위약금 부과, 100Mbps는 무약정)이나 멕시코(Standard 4 X 12개월 약정)처럼 국가에 따라 12개월 약정이 붙기도 합니다. 해지·환불 규정은 [스타링크 약정과 해지 가이드](/ko/reviews/starlink-cancel-ko)에서, 두 키트의 소비전력·Wi-Fi 범위·포트 차이는 [스타링크 Mini vs Standard 비교](/ko/reviews/starlink-mini-or-standard-ko)에서 자세히 다룹니다."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "스타링크 공식 안테나와 공유기 세트",
+          "caption": "한국은 요금제와 무관하게 Mini 또는 Standard 4 X를 직접 고르며, 해외 일부 국가는 요금제에 따라 안테나가 자동 지정됩니다. 사진: 스타링크",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "공식 속도 및 지연 시간 사양 (DOC-1470-99699-90 · 고객센터 886607c4 · DOC-1414-37800-64)",
+        "paragraphs": [
+          "요금제별 공식 성능 범위는 최신 법적 사양 문서([DOC-1470-99699-90](https://starlink.com/legal/documents/DOC-1470-99699-90?regionCode=US))와 고객센터 안내(886607c4)에 정리되어 있습니다. 스타링크는 기존 Residential 요금제를 Residential Max로, Residential Lite를 Residential 100 Mbps로 명칭 변경했으며, 현재 사양에서 100 Mbps·200 Mbps·Max 모두 가용성 99% 이상, 지연 시간 50 ms 미만, 업로드 15~35 Mbps(Max는 고객센터 기준 20~40 Mbps, 다운로드 최대 400+ Mbps)로 표기됩니다.",
+          "구형 사양 페이지([DOC-1414-37800-64](https://starlink.com/legal/documents/DOC-1414-37800-64))에는 과거 기준인 STANDARD (FIXED) 표(다운로드 25~100 Mbps, 업로드 5~10 Mbps, 지연 25~60 ms, 일반 설명 25~220 Mbps)가 여전히 남아 있어 예전 검색 결과와 수치가 다를 수 있습니다. 실무 기준 참고(자체 속도 측정 아님): 1~2인 재택근무·화상회의·웹서핑·광랜 백업 목적이라면 100Mbps(80~100 Mbps)로 충분한 편이고, 다인 가구·동시 4K 스트리밍·대용량 업로드·최대 속도 확보가 목적이라면 200Mbps 또는 맥스(80~400 Mbps, 최대 400+ Mbps)가 적합합니다."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "요금제 사양 구분",
+            "다운로드 속도",
+            "업로드 속도",
+            "지연 시간 · 가용성 · 출처"
+          ],
+          "rows": [
+            [
+              "주거용 100 Mbps (구 Lite 개편 시장)",
+              "80~100 Mbps (100 Mbps 제한)",
+              "15~35 Mbps",
+              "<50 ms · ≥99% (DOC-1470-99699-90 / 886607c4)"
+            ],
+            [
+              "주거용 200 Mbps",
+              "80~200 Mbps (200 Mbps 제한)",
+              "15~35 Mbps",
+              "<50 ms · ≥99% (DOC-1470-99699-90 / 886607c4)"
+            ],
+            [
+              "주거용 맥스 (Max / 구 Residential)",
+              "80~400 Mbps (고객센터 최대 400+ Mbps)",
+              "15~35 Mbps (고객센터 20~40 Mbps)",
+              "<50 ms · ≥99% (DOC-1470-99699-90 / 886607c4)"
+            ],
+            [
+              "주거용 Lite (Lite 유지 시장)",
+              "80~200 Mbps",
+              "15~35 Mbps",
+              "<50 ms · ≥99% (DOC-1470-99699-90)"
+            ],
+            [
+              "구형 표기 Standard (Fixed) (참고)",
+              "25~100 Mbps (본문 25~220 Mbps)",
+              "5~10 Mbps (본문 5~20 Mbps)",
+              "25~60 ms · ≥99% (구 DOC-1414-37800-64)"
+            ]
+          ],
+          "caption": "스타링크 공식 사양 문서(DOC-1470-99699-90, 고객센터 886607c4, 구 DOC-1414-37800-64) 기준. 대기 모드 제공 시 상·하향 최대 500 Kbps입니다."
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "지붕에 설치된 스타링크 안테나",
+          "caption": "100Mbps와 맥스 모두 장애물 없는 개방된 하늘 시야 확보가 기본 조건입니다. 사진: 스타링크",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "요금제 변경 규칙(00:00 UTC · 즉시 vs 결제일 · 임대 제한)과 30일 환불",
+        "paragraphs": [
+          "가입 후 100Mbps와 맥스 사이에서 요금제를 바꿀 생각이 있다면 스타링크의 청구·변경 규칙을 미리 확인해야 합니다. 스타링크 청구는 UTC 기준이며 변경 마감 시각은 결제일 00:00 UTC(한국 시간 오전 9시 KST)입니다. 자정 UTC 이후에 신청하면 다음 결제일부터 반영됩니다. 변경 시에는 '지금(NOW, 즉시 적용)'과 '날짜(DATE, 현재 결제 주기 종료일 적용)' 두 가지 옵션이 제공됩니다. 상위 요금제로 업그레이드할 때 '지금'을 선택하면 새 요금제와 가격이 즉시 적용되고, '날짜'를 고르면 현재 주기가 끝난 뒤 시작됩니다. 반대로 하위 요금제로 다운그레이드할 때 '지금'을 누르면 즉시 내려가는 대신 현재 요금제 남은 기간에 대한 환불이 전혀 없으므로, 이미 낸 기간을 끝까지 쓰려면 반드시 결제 주기 종료일(날짜) 옵션을 선택해야 합니다.",
+          "또한 주의할 제한 사항이 있습니다. 첫째, 미국·유럽·일본 등에서 키트를 임대하는 주거용·상업용 고객은 셀프서비스로 요금제를 변경할 수 없습니다(한국은 키트 구매 방식이라 해당 제한에서 자유롭지만, 정원 초과·매진 지역이거나 미납 정지·미개통 상태에서는 변경이 막힐 수 있습니다). 둘째, 요금제를 바꾸면 적용 중이던 프로모션 할인(예: 50% 서비스 할인)이 종료되거나 12개월 약정 상품의 경우 변경 수수료 또는 키트 구매가 요구될 수 있습니다.",
+          "테스트 부담을 줄여 주는 장치는 30일 환불 조건입니다. 결제일로부터 30일 안에 서비스를 해지하고 키트를 손상 없이 반납하면 키트와 첫 달 요금을 환불받을 수 있습니다(단순 구독 해지만으로는 반납이 되지 않으므로 반납 절차와 발송 영수증을 꼭 챙겨야 합니다). 또한 추천 보상은 이마트 등 오프라인·마켓플레이스 구매가 아닌 starlink.com에서 추천 링크로 첫 주문할 때만 적용됩니다. 자세한 절차는 [스타링크 추천 코드·링크 안내](/ko/coupons/starlink)를 확인하세요."
+        ],
+        "checklist": {
+          "title": "요금제 선택 및 결제 전 체크리스트",
+          "items": [
+            "내 주소를 starlink.com에 입력해 100Mbps·맥스 제공 여부, 정상가, 할인 마감일, 한국 발급 카드 결제 조건을 확인했다.",
+            "설치할 위치에서 스타링크 앱의 장애물 점검을 실행해 하늘 시야가 트여 있는지 확인했다.",
+            "요금제 변경 시 프로모션 할인이 중단될 수 있고, 다운그레이드 즉시 적용 시 남은 기간 환불이 없다는 점을 확인했다.",
+            "결제일로부터 30일 이내 서비스 해지 및 손상 없는 키트 반납 시 키트·첫 달 요금 환불 규정을 확인했다.",
+            "추천 크레딧(한국은 11월 기준 참고 금액 ₩65,000, 결제 전에 주문 화면에서 실제 금액을 확인하세요)을 받기 위해 결제 전 같은 창에서 추천 링크로 starlink.com을 열었다."
+          ]
+        },
+        "links": [
+          {
+            "label": "30일 환불 조건으로 공식 주문 화면 열기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "결론: 내 집에 맞는 스타링크 요금제는?",
+        "paragraphs": [
+          "한국에서는 두 요금제 모두 12개월 약정 없이 키트를 구매하는 구조이므로 용도에 따라 판단이 깔끔합니다. 1~2인 가구, 재택근무·화상회의, 광랜 백업 회선, 또는 정상가 복귀 후 월 유지비를 아끼는 것이 목표라면 100Mbps(₩34,000→₩68,000)가 가장 무난합니다. 반면 가족 구성원이 많고 동시 4K 스트리밍이나 대용량 업로드·다운로드가 잦아 상한 제한 없는 최대 속도가 필요하다면 맥스(₩46,500→₩93,000)를 선택하는 편이 낫습니다."
+        ],
+        "emphasis": "요금제 변경 시 프로모션 할인이 종료될 수 있고 다운그레이드 즉시 적용은 남은 요금을 돌려주지 않으므로, 처음부터 집 규모와 용도에 맞는 요금제를 고른 뒤 starlink.com 추천 링크로 주문해 30일 환불 안전장치와 2개월 후 추천 크레딧을 함께 챙기세요."
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "한국에서도 스타링크 200Mbps 요금제를 가입할 수 있나요? 서울 주소로 확인한 주문 화면에는 주거용 100Mbps와 맥스(Max) 두 가지만 제공되었고 200Mbps는 없었습니다. 200Mbps는 미국과 유럽 등 일부 해외 시장에서 제공됩니다.",
+          "100Mbps 요금제는 약정이나 속도 제한이 어떻게 되나요? 서울 주문 화면 기준으로 100Mbps와 맥스 모두 12개월 약정 문구가 없는 키트 구매 방식입니다. 공식 사양(DOC-1470-99699-90) 기준 100Mbps는 다운로드 80~100 Mbps 상한, 업로드 15~35 Mbps, 지연 50 ms 미만, 무제한 데이터로 안내됩니다.",
+          "100Mbps에서 맥스로, 또는 맥스에서 100Mbps로 요금제를 바꾸면 프로모션 할인이 사라지나요? 요금제를 변경하면 프로모션 할인 조건이 종료될 수 있습니다. 또한 다운그레이드를 즉시 적용(NOW)으로 진행하면 현재 주기 남은 금액이 환불되지 않으므로, 변경이 필요하다면 결제 주기 종료일(DATE) 옵션을 쓰는 편이 안전합니다.",
+          "임대 키트를 쓰는 해외 주소에서도 요금제를 자유롭게 바꿀 수 있나요? 아니요. 스타링크 공식 규정상 키트를 임대(Rental)로 이용 중인 주거용·상업용 고객은 셀프서비스 요금제 변경이 제한됩니다. 한국처럼 키트를 직접 구매한 경우에만 지역 가용성 내에서 변경할 수 있습니다.",
+          "100Mbps와 맥스 모두 추천 링크 보상을 받을 수 있나요? 네. 스타링크 공식 추천 대상에는 주거용 100Mbps, 200Mbps, 맥스, 라이트가 모두 포함됩니다. starlink.com 추천 링크로 신규 가입해 2개월 결제를 유지하면 청구서 크레딧으로 보상이 지급되며, 한국에서 적용되는 실제 금액은 결제 전에 주문 화면에서 직접 확인하세요."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "월 유지비 부담을 줄이거나 백업 회선용으로 안정적인 무제한 위성 인터넷을 12개월 약정 없이 쓰고 싶다.",
+        "가구 인원과 동시 접속량에 맞춰 100Mbps 또는 맥스를 처음부터 정확히 고르고, 공식 주문 화면에서 조건과 추천 보상을 확인한 뒤 결제할 생각이다."
+      ],
+      "skipIf": [
+        "이미 계약 속도대로 안정적으로 나오는 유선 광랜을 쓰고 있어 추가 회선이나 대체 회선이 필요하지 않다.",
+        "안테나를 둘 지붕이나 공간에 건물·나무 가림이 심해 앱 장애물 점검을 통과할 수 없다."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "공식 사이트와 동일한 요금 및 30일 환불 조건을 그대로 적용받으면서 내 주소의 100Mbps·맥스 조건을 확인하고, 첫 구독 2개월 유지 후 추천 크레딧(한국은 11월 기준 참고 금액 ₩65,000, 결제 전에 주문 화면에서 실제 금액을 확인하세요)을 받을 수 있습니다.",
+      "label": "추천 링크로 starlink.com에서 내 주소 확인하기",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "이 가이드는 스타링크 공식 공개 주문 화면, 공식 성능 사양 문서(DOC-1470-99699-90 및 DOC-1414-37800-64), 고객센터 안내(886607c4 등)를 확인해 작성했습니다. 당사는 스타링크 추천 프로그램에 참여하고 있으며, 링크를 통해 조건을 충족해 가입하는 경우 보상을 받을 수 있습니다.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-ko"
+      },
+      {
+        "slug": "starlink-referral-ko"
+      },
+      {
+        "slug": "starlink-worth-it-ko"
+      },
+      {
+        "slug": "starlink-mini-or-standard-ko"
+      }
+    ]
+  },
+  {
+    "id": 1439,
+    "slug": "starlink-plans-100-200-max-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "starlink-planos-residenciais",
+    "title": "Starlink 住宅方案比較：海外 100 Mbps、200 Mbps、Max 與馬來西亞混合制差異",
+    "seoTitle": "Starlink 100 Mbps、200 Mbps 與 Max 方案比較",
+    "type": "選擇指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編輯與分析",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "編輯與分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Starlink 目前沒有繁體中文住宅訂購頁。本文比較海外常見的 100 Mbps、200 Mbps、Max 三檔方案與馬來西亞買斷／租賃混合實例，涵蓋天線差異、官方速率規格與換約規則。",
+    "metaDescription": "比較 Starlink 住宅 100 Mbps、200 Mbps 與 Max：說明官網無中文住宅頁現況、美國與歐洲價格、馬來西亞買斷對比租賃、DOC-1470-99699-90 官方速率、換方案限制與推薦獎勵條件。",
+    "publishedAt": "2026年11月24日",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-plans-100-200-max-zh-hant-capa.webp",
+    "imageAlt": "黑色面板標示 STARLINK 與「100、200 Mbps 還是 Max？」標題，右側搭配藍天下安裝於木屋屋頂的 Starlink 天線官方照片的選擇指南封面。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Starlink 目前沒有繁體中文或簡體中文住宅訂購頁（台灣、香港與中國大陸亦未開放一般住宅直營），海外用戶需依安裝地址在英文或當地頁面查看方案：歐美多數市場分為 100 Mbps、200 Mbps 與 Max，連帶影響天線規格與免費安裝；馬來西亞吉隆坡則採 100 Mbps 買斷與 Max 零元租賃混合制。透過推薦連結在 starlink.com 首購，可保留同價與 30 天退貨保障，並於兩個計費週期後獲得所在地推薦獎勵，詳見下方對照與試算。"
+        ],
+        "links": [
+          {
+            "label": "以我的地址查看 Starlink 住宅方案與推薦獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "沒有中文住宅頁時，海外 100 / 200 / Max 與馬來西亞實例怎麼比",
+        "paragraphs": [
+          "先釐清平台現況：Starlink 官網語言選單目前僅提供英文、馬來文、日文、韓文、阿拉伯文與主要歐洲語言，並沒有繁體中文或簡體中文住宅頁面；新加坡與馬來西亞僅顯示 English 與 Melayu，而台灣、香港與中國大陸仍無一般消費者住宅直營下單頁。對在北美、歐洲或東南亞申裝的中文讀者而言，真正重要的是輸入實際使用地址後，系統是提供「三檔分級」還是「買斷／租賃混合」。",
+          "以美國內華達州與歐洲（葡萄牙、西班牙、法國）為例，100 Mbps、200 Mbps 與 Max 均採硬體零元租賃（取消時須歸還設備）；馬來西亞吉隆坡同一地址則並排顯示兩種模式：100 Mbps 月費 RM 135，必須購買 Mini X（RM 900），而 Max 月費 RM 235，改為 Rental Kit (Mini X) 租賃 RM 0（運費同為 RM 89，兩者皆無 12 個月合約；首月月費均於開通或送達後 7 天起計）。提醒一點：推薦獎勵屬於兩個完整計費週期後的帳單抵免（美國官方舉例為 US$ 100；馬來西亞目前僅見第三方整理之 11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額），不會在結帳當天折減套件價格。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "地區與方案",
+            "月費（優惠／原價）",
+            "硬體、安裝與合約條件",
+            "推薦獎勵參考（滿 2 個月）"
+          ],
+          "rows": [
+            [
+              "美國（內華達）：100 / 200 / Max",
+              "US$ 38.50→55 / 59.50→85 / 91→130",
+              "租賃 $0（100 附 V5+Router Mini・安裝 $99 選配；200/Max 專業安裝 $0），無年約",
+              "US$ 100（官方明列金額，約抵 100 Mbps 優惠價 2.6 個月）"
+            ],
+            [
+              "歐洲（西／法／葡）：100 / 200 / Max",
+              "24,50 €→35 € / 31,50 €→45 € / 45,50 €→65 €",
+              "租賃 0 €（100 附 Mini X；200/Max 換 Standard 4；僅 Max 安裝 0 €），無年約",
+              "45 €（約抵 100 Mbps 優惠月費 1.8 個月）"
+            ],
+            [
+              "馬來西亞（吉隆坡）：100 Mbps",
+              "RM 135／月",
+              "買斷 Mini X RM 900＋運費 RM 89（當日 RM 989），無 12 個月合約",
+              "11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額"
+            ],
+            [
+              "馬來西亞（吉隆坡）：Max",
+              "RM 235／月",
+              "Rental Kit (Mini X) 租賃 RM 0＋運費 RM 89（取消須退還），無 12 個月合約",
+              "11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額"
+            ]
+          ],
+          "caption": "取自各國公開訂購頁面之範例對照（2026 年 11 月 23 日查詢）。無中文官方頁面時請以當地語言訂購摘要為準，推薦抵免不降低下單當日設備款。"
+        },
+        "simulator": {
+          "title": "試算：海外三檔制與馬來西亞混合制差異",
+          "scenarios": [
+            {
+              "label": "美國 100 Mbps（租賃 $0）＋推薦連結",
+              "lines": [
+                {
+                  "label": "硬體租賃（Starlink V5 + Router Mini）",
+                  "value": "US$ 0（取消須歸還，運費 US$ 20＋稅）"
+                },
+                {
+                  "label": "優惠月費（原價 US$ 55）",
+                  "value": "US$ 38.50／月"
+                },
+                {
+                  "label": "滿兩個月後官方推薦抵免",
+                  "value": "-US$ 100（帳單抵免或現金）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "獎勵相當於優惠月費",
+              "totalValue": "約 2.6 個月",
+              "note": "官方說明文件明確以美國 US$ 100 為例；保留 30 天退貨保障。"
+            },
+            {
+              "label": "馬來西亞 100 Mbps（買斷 Mini X）＋推薦連結",
+              "lines": [
+                {
+                  "label": "Mini X 設備買斷＋運費（當日付款）",
+                  "value": "RM 989（RM 900＋RM 89）"
+                },
+                {
+                  "label": "100 Mbps 月費（無 12 個月合約）",
+                  "value": "RM 135／月（開通或送達後 7 天起計）"
+                },
+                {
+                  "label": "滿兩個月後推薦抵免",
+                  "value": "11 月參考金額 RM 180（付款前請在訂單頁面確認實際金額）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "首日硬體買斷支出",
+              "totalValue": "RM 989（設備歸屬用戶）",
+              "note": "首日僅付硬體與運費 RM 989，首月月費於開通或送達後 7 天起計；獎勵不折減結帳設備款。"
+            },
+            {
+              "label": "馬來西亞 Max 租賃或無連結／經銷商購買",
+              "lines": [
+                {
+                  "label": "馬來西亞 Max（Rental Kit RM 0＋運費）",
+                  "value": "RM 89（月費 RM 235，取消須歸還）"
+                },
+                {
+                  "label": "經銷商／無連結下單之推薦抵免",
+                  "value": "0（結帳後無法補登）"
+                },
+                {
+                  "label": "透過連結與否的差距",
+                  "value": "美國 US$ 100／馬來西亞 11 月參考金額 RM 180（付款前請在訂單頁面確認實際金額）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "未經推薦連結可領獎勵",
+              "totalValue": "0",
+              "note": "經銷商套件與電商平台訂單均不具推薦資格。"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "Starlink 馬來西亞吉隆坡英文訂購頁，顯示 100 Mbps 每月 RM 135 與 Mini X 買斷價 RM 900",
+          "caption": "馬來西亞吉隆坡訂購畫面：同一地址呈現 100 Mbps 買斷 Mini X 與 Max 租賃兩種機制。",
+          "objectFit": "contain",
+          "aspectRatio": 0.9898
+        }
+      },
+      {
+        "heading": "除了 Mbps 之外還差在哪：天線（Mini 與 Standard）、合約與安裝費",
+        "paragraphs": [
+          "在多數海外 100 / 200 / Max 市場裡，方案分級會直接連動你收到的硬體世代與安裝福利。在葡萄牙、西班牙、法國、德國、義大利與英國，100 Mbps 搭配緊湊型 Mini X（0 €／£0 租賃，選配專業安裝 172 €／£74），但選到 200 Mbps 與 Max 時會改發較大的 Standard 4（0 €／£0 租賃），且只有 Max 免除 172 €／£74 的專業安裝費。在美國內華達，100 Mbps 搭配 Starlink V5 + Router Mini（專業安裝 $99 選配），200 Mbps 即改為 Starlink V4 + Router 4 並免去 $99 安裝費，Max 則附 Standard 4 X 與額外贈送一台 $0 的 Router Mini。",
+          "合約條款也高度取決於地區與方案：巴西 Residencial 100 Mbps 買斷 Mini X 不綁 12 個月約，但 Max 的補貼套件卻強制綁約 12 個月並設提前解約違約金；墨西哥 Standard 4 X 同樣有 12 個月期限；而德國則註明為按月自動續約、無固定期限且免費取消；馬來西亞則在同一頁讓 100 Mbps 買斷、Max 租賃。關於各國解約與退還規範可看[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)，關於 Mini 內建路由器與 Standard 分離式路由器的耗電與覆蓋差異可看[Starlink Mini 與 Standard 比較](/zh-hant/reviews/starlink-mini-or-standard-zh-hant)。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlink 官方天線與獨立路由器套件示意圖",
+          "caption": "不同地區與方案會決定收到 Mini 系列或 Standard 4 套件，進而影響 Wi-Fi 覆蓋與電源功耗。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "官方速率與延遲規格（DOC-1470-99699-90、說明中心 886607c4 與舊表 DOC-1414-37800-64）",
+        "paragraphs": [
+          "查對速度時必須區分 Starlink 現行規格文件（[DOC-1470-99699-90](https://starlink.com/legal/documents/DOC-1470-99699-90?regionCode=US)）與舊版文件（[DOC-1414-37800-64](https://starlink.com/legal/documents/DOC-1414-37800-64)）。依官方說明中心 886607c4 公告，Starlink 已在美國、巴西、歐洲等市場將原本的 Residential 更名為 Residential Max，並將原本的 Residential Lite 更名為 Residential 100 Mbps。現行 DOC-1470-99699-90 清楚列出 100 Mbps（下載 80–100 Mbps 上限）、200 Mbps（下載 80–200 Mbps 上限）與 Max（下載 80–400 Mbps，說明中心 886607c4 標示典型最高 400+ Mbps），三者上傳皆為 15–35 Mbps（Max 在說明中心標示 20–40 Mbps）、延遲低於 50 ms、可用性 ≥99%。",
+          "許多網路舊文章之所以仍寫「25–100 Mbps」，是因為舊版法務文件 DOC-1414-37800-64 僅列單一「STANDARD (FIXED)」條目（下載 25–100 Mbps、上傳 5–10 Mbps、延遲 25–60 ms、一般正文寫 25–220 Mbps）。實務選購原則（非本站實測）：1–2 人遠距辦公、視訊會議與備援網路選 100 Mbps 通常已足夠；3–4 人多裝置同時 4K 串流或頻繁下載可考慮 200 Mbps；大家庭或需要最高上限與免費歐美安裝則選 Max。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "官方方案規格類別",
+            "下載速率範圍",
+            "上傳速率範圍",
+            "延遲、可用性與官方來源"
+          ],
+          "rows": [
+            [
+              "Residential 100 Mbps（更名市場之原 Lite）",
+              "80–100 Mbps（限速 100 Mbps）",
+              "15–35 Mbps",
+              "<50 ms · ≥99%（DOC-1470-99699-90 / 886607c4）"
+            ],
+            [
+              "Residential 200 Mbps",
+              "80–200 Mbps（限速 200 Mbps）",
+              "15–35 Mbps",
+              "<50 ms · ≥99%（DOC-1470-99699-90 / 886607c4）"
+            ],
+            [
+              "Residential Max（原 Residential）",
+              "80–400 Mbps（說明中心典型 400+ Mbps）",
+              "15–35 Mbps（說明中心 20–40 Mbps）",
+              "<50 ms · ≥99%（DOC-1470-99699-90 / 886607c4）"
+            ],
+            [
+              "Residential Lite（保留 Lite 名稱市場）",
+              "80–200 Mbps",
+              "15–35 Mbps",
+              "<50 ms · ≥99%（DOC-1470-99699-90）"
+            ],
+            [
+              "舊表 Standard (Fixed)（歷史對照）",
+              "25–100 Mbps（全文 25–220 Mbps）",
+              "5–10 Mbps（全文 5–20 Mbps）",
+              "25–60 ms · ≥99%（舊 DOC-1414-37800-64）"
+            ]
+          ],
+          "caption": "依據 Starlink DOC-1470-99699-90、說明中心 886607c4 與舊表 DOC-1414-37800-64 整理；支援待機模式地區之上下行最高 500 Kbps。"
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "安裝在屋頂且視野無遮擋的 Starlink 天線",
+          "caption": "不論選擇 100 Mbps、200 Mbps 或 Max，都必須確保天線面對開闊無遮擋的天空。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "更換方案規則（00:00 UTC 截止、立即 vs 到期日、租賃鎖定與優惠風險）",
+        "paragraphs": [
+          "在選第一檔還是最高檔之前，務必先看懂 Starlink 官方更換服務方案的限制。計費一律以世界協調時間（UTC）運作，截單時間為帳單日 00:00 UTC（相當於台北／香港／吉隆坡／北京時間上午 8:00）；超過午夜 UTC 才送出的變更會順延到下一個計費日才生效。系統內變更會提供兩個選項：「立即生效（NOW／對應馬上切換）」或「指定日期生效（DATE／即本計費週期結束日）」。升級為較高價方案時，選立即生效會馬上啟用新速度與新價格，選到期日則於下期開始；但降級為較低價方案時，若選立即生效會即刻降檔且剩餘天數不予退費，因此想把已付清的週期用完，必須選計費週期結束日（DATE）。",
+          "更重要的是兩項硬性限制：第一，Starlink 明確規定「採用硬體租賃方案的住宅與商業用戶無法透過自助介面更換方案」——這代表美國、歐洲與馬來西亞 Max 這類租賃訂單無法像買斷套件那樣自由在後台任意切換檔次。第二，切換方案可能導致原本的促銷折扣（如 30% 或 50% 優惠價）終止；若有 12 個月承諾方案則須聯繫客服並可能產生變更費或要求買斷硬體（此外欠費停權、尚未啟用或滿載售罄區域也無法切換為住宅方案）。",
+          "試用保險則是 30 天退貨規定：從付款到期日起 30 天內取消服務並將設備完好寄回，即可申請設備款（若有）與首月月費全額退費（請留意單純按取消不會自動退貨，須另辦退回並保存物流憑證）。透過[Starlink 推薦頁](/zh-hant/coupons/starlink)進入 starlink.com 下單，可在不改變官網價格與 30 天保障的前提下鎖定推薦資格（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額），經銷商與電商平台購買皆不適用。"
+        ],
+        "checklist": {
+          "title": "下單與選定方案前的 5 項檢查",
+          "items": [
+            "已在 starlink.com 輸入實際安裝地址，確認當地提供 100 / 200 / Max 或單一方案，以及硬體屬於買斷還是 0 元租賃。",
+            "已用 Starlink App 在預定安裝點測試天空遮擋，確認無樹枝或屋簷阻擋訊號。",
+            "已確認租賃套件無法自助換方案，且轉換方案可能終止優惠折扣，因此選定最貼合長期需求的檔次。",
+            "已截圖保存訂單摘要中的月費、原價與 30 天完整退貨退款條件。",
+            "已在付款前於同一瀏覽器視窗透過推薦連結開啟 starlink.com，並於訂單頁面核對所在地推薦獎勵金額。"
+          ]
+        },
+        "links": [
+          {
+            "label": "前往 starlink.com 查詢地址並保留 30 天試用",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "總結：哪一檔住宅方案最值得選",
+        "paragraphs": [
+          "在歐洲與美國這類提供 100 / 200 / Max 且皆採 0 元租賃的市場，若你是 1–2 人工作使用或作為光纖備援，100 Mbps 最省預算；若在美國想拿 Standard V4 且免付 $99 專業安裝，200 Mbps 往往是甜蜜點；若在歐洲需要免費專業安裝或多人重度傳輸，則直接選 Max。在馬來西亞這類買斷與租賃並存的混合市場，若想低首付試用且可接受取消時歸還租賃設備就選 Max（首日僅付運費），若確定長期自用且偏好較低月費則選 100 Mbps 買斷 Mini X。"
+        ],
+        "emphasis": "由於租賃方案會限制自助換方案，且變更檔次可能取消促銷折扣，下單前就依人數、硬體歸屬（買斷或租賃）與免費安裝門檻一次選對方案，並從推薦連結進 starlink.com 保留 30 天退貨期，才是最穩妥的做法。"
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "為什麼 Starlink 官網找不到繁體中文住宅方案頁？ Starlink 目前的語言選單尚未提供繁體中文或簡體中文，台灣、香港與中國大陸也沒有開放一般住宅直營訂購，海外中文用戶需依安裝所在國的英文或當地語言頁面下單。",
+          "Starlink 100 Mbps、200 Mbps 與 Max 的官方實際規格差多少？ 依現行官方規格 DOC-1470-99699-90 與說明中心 886607c4，100 Mbps 下載為 80–100 Mbps 上限、200 Mbps 為 80–200 Mbps 上限、Max 為 80–400 Mbps（典型可達 400+ Mbps），三者延遲皆標示小於 50 ms、上傳 15–35 Mbps（Max 說明中心標示 20–40 Mbps）且數據不限量。",
+          "選了租賃硬體的方案之後還可以隨時降級或升級嗎？ 不一定。Starlink 說明明確指出採用硬體租賃選項的住宅與商業用戶無法透過自助方式更換方案，且更換方案也可能取消原本的促銷優惠價格。",
+          "變更方案時選「立即生效」與「計費週期結束日」有什麼差別？ Starlink 計費以 00:00 UTC（台北／吉隆坡時間上午 8 點）為日結點。降級時若選立即生效，剩餘天數不會退費；選計費週期結束日（DATE）則會繼續使用到本期結束才切換。",
+          "推薦獎勵一定要在訂單付款前啟用嗎？ 是的，必須在付款前於 starlink.com 透過推薦連結下單，滿兩個完整計費週期後才會以帳單抵免發放且不折減當日設備價；美國官方金額為 US$ 100，其他國家的實際金額請在付款前於自己的訂單頁面確認。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "已經確認所在國家頁面是三檔制或買斷／租賃混合制，想依裝置數、安裝費與合約條件一次選對方案。",
+        "願意先用 Starlink App 測好屋頂天空視野，並透過推薦連結在官網下單以保留 30 天退貨期與推薦獎勵。"
+      ],
+      "skipIf": [
+        "當地已有穩定且達標的有線光纖，沒有備援或搬遷到無寬頻地區的需求。",
+        "安裝環境周圍有高樓或茂密樹冠嚴重遮蔽天空，無法確保連線穩定。"
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "以官網完全相同的價格下單，保留 30 天完整退貨退款保障，並於使用滿兩個計費週期後獲得所在國家的推薦抵免（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額）。",
+      "label": "透過推薦連結在 starlink.com 查看我的地址方案",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "本指南依據 Starlink 公開訂購頁、官方性能規格（DOC-1470-99699-90 與 DOC-1414-37800-64）及說明中心文件（886607c4 等）編寫。我們參與 Starlink 推薦計畫，透過本頁連結註冊並符合規則時可能獲得獎勵。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-zh-hant"
+      },
+      {
+        "slug": "starlink-referral-zh-hant"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hant"
+      },
+      {
+        "slug": "starlink-mini-or-standard-zh-hant"
+      }
+    ]
+  },
+  {
+    "id": 1440,
+    "slug": "starlink-plans-100-200-max-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "starlink-planos-residenciais",
+    "title": "Starlink 家用套餐比较：海外 100 Mbps、200 Mbps、Max 与马来西亚混合制差异",
+    "seoTitle": "Starlink 100 Mbps、200 Mbps 与 Max 套餐比较",
+    "type": "选择指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "编辑与分析",
+        "initials": "BL"
+      }
+    ],
+    "description": "Starlink 官网目前没有简体中文家用订购页。本文对比海外常见的 100 Mbps、200 Mbps、Max 三档套餐及马来西亚买断／租用混合实例，涵盖天线差异、官方速率与换套餐规则。",
+    "metaDescription": "对比 Starlink 家用 100 Mbps、200 Mbps 与 Max：说明官网无中文家用页现状、美国与欧洲价格、马来西亚买断对比租用、DOC-1470-99699-90 官方速率、换套餐限制及推荐奖励条件。",
+    "publishedAt": "2026年11月24日",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-plans-100-200-max-zh-hans-capa.webp",
+    "imageAlt": "黑色面板标示 STARLINK 与“100、200 Mbps 还是 Max?”标题，右侧搭配蓝天下安装于木屋屋顶的 Starlink 天线官方照片的选择指南封面。",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "Starlink 官网目前没有简体中文或繁体中文家用订购页（中国大陆、台湾和香港亦未开放普通家用直营），海外用户需按安装地址在英文或当地语言页面查看方案：欧美多数市场分为 100 Mbps、200 Mbps 与 Max，不仅影响网速，也决定配发天线与是否免安装费；马来西亚吉隆坡则采用 100 Mbps 买断与 Max 零元租用混合制。通过推荐链接在 starlink.com 首购，可享同价与 30 天退货保障，并在两个完整周期后获得当地推荐奖励，下文整理具体对比。"
+        ],
+        "links": [
+          {
+            "label": "输入我的地址查看 Starlink 家用套餐与推荐奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "没有中文家用页时，海外 100 / 200 / Max 与马来西亚实例怎么比",
+        "paragraphs": [
+          "首先说明页面现状：Starlink 官网语言菜单目前提供英文、马来文、日文、韩文、阿拉伯文和主要欧洲语言，没有简体中文或繁体中文家用页面；新加坡和马来西亚页面仅提供 English 与 Melayu，而中国大陆、台湾和香港目前都没有常规消费者家用直营下单页。对于在北美、欧洲或东南亚居住使用的中文用户，真正决定价格和硬件归属的是输入收货地址后的区域规则。",
+          "在美国内华达州与欧洲（葡萄牙、西班牙、法国）等市场，100 Mbps、200 Mbps 与 Max 均采用 0 元硬件租用（取消服务时须归还设备）；而在马来西亚吉隆坡同一个地址下，两个套餐采用完全不同的硬件规则：100 Mbps 月费 RM 135，必须以 RM 900 买断 Mini X；Max 月费 RM 235，则改为 Rental Kit (Mini X) 零元租用（运费同为 RM 89，两个套餐均无 12 个月合约；首月月费均于激活或送达后 7 天起扣）。另外请注意，推荐奖励是在连续缴满两个计费周期后以账单抵扣发放（美国官方示例为 US$ 100；马来西亚仅见第三方发布的 11 月参考金额 RM 180，付款前请在订单页面确认实际金额），绝不会在结账当天抵扣套件价格。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "地区与套餐",
+            "月费（优惠价／原价）",
+            "硬件、安装与合约条件",
+            "推荐奖励参考（满 2 个月）"
+          ],
+          "rows": [
+            [
+              "美国（内华达）：100 / 200 / Max",
+              "US$ 38.50→55 / 59.50→85 / 91→130",
+              "租用 $0（100 配 V5+Router Mini・安装 $99 可选；200/Max 专业安装 $0），无年约",
+              "US$ 100（官方明确示例，约抵 100 Mbps 优惠价 2.6 个月）"
+            ],
+            [
+              "欧洲（西／法／葡）：100 / 200 / Max",
+              "24,50 €→35 € / 31,50 €→45 € / 45,50 €→65 €",
+              "租用 0 €（100 配 Mini X；200/Max 换 Standard 4；仅 Max 安装 0 €），无年约",
+              "45 €（约抵 100 Mbps 优惠月费 1.8 个月）"
+            ],
+            [
+              "马来西亚（吉隆坡）：100 Mbps",
+              "RM 135／月",
+              "买断 Mini X RM 900＋运费 RM 89（当日 RM 989），无 12 个月合约",
+              "11 月参考金额 RM 180，付款前请在订单页面确认实际金额"
+            ],
+            [
+              "马来西亚（吉隆坡）：Max",
+              "RM 235／月",
+              "Rental Kit (Mini X) 租用 RM 0＋运费 RM 89（取消须退回），无 12 个月合约",
+              "11 月参考金额 RM 180，付款前请在订单页面确认实际金额"
+            ]
+          ],
+          "caption": "取自各地区公开订购页面的示例对比（2026 年 11 月 23 日查询）。官网无中文页面时请以当地语言订单摘要为准，推荐抵扣不降低下单当日设备付款。"
+        },
+        "simulator": {
+          "title": "试算：海外三档制与马来西亚混合制成本差异",
+          "scenarios": [
+            {
+              "label": "美国 100 Mbps（租用 $0）＋推荐链接",
+              "lines": [
+                {
+                  "label": "硬件租用（Starlink V5 + Router Mini）",
+                  "value": "US$ 0（取消须退回，运费 US$ 20＋税）"
+                },
+                {
+                  "label": "优惠月费（原价 US$ 55）",
+                  "value": "US$ 38.50／月"
+                },
+                {
+                  "label": "满两个月后官方推荐抵扣",
+                  "value": "-US$ 100（账单抵扣或现金）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "奖励相当于优惠月费",
+              "totalValue": "约 2.6 个月",
+              "note": "官方帮助中心明确以美国 US$ 100 为例；保留 30 天退货退款保障。"
+            },
+            {
+              "label": "马来西亚 100 Mbps（买断 Mini X）＋推荐链接",
+              "lines": [
+                {
+                  "label": "Mini X 设备买断＋运费（当日付款）",
+                  "value": "RM 989（RM 900＋RM 89）"
+                },
+                {
+                  "label": "100 Mbps 月费（无 12 个月合约）",
+                  "value": "RM 135／月（激活或送达后 7 天起扣）"
+                },
+                {
+                  "label": "满两个月后推荐抵扣",
+                  "value": "11 月参考金额 RM 180（付款前请在订单页面确认实际金额）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "首日硬件买断支出",
+              "totalValue": "RM 989（设备归属用户）",
+              "note": "首日仅付硬件与运费 RM 989，首月月费于激活或送达后 7 天起扣；奖励不抵减结账设备款。"
+            },
+            {
+              "label": "马来西亚 Max 租用或无链接／经销商购买",
+              "lines": [
+                {
+                  "label": "马来西亚 Max（Rental Kit RM 0＋运费）",
+                  "value": "RM 89（月费 RM 235，取消须退回）"
+                },
+                {
+                  "label": "经销商／无链接下单之推荐抵扣",
+                  "value": "0（结账后无法补加）"
+                },
+                {
+                  "label": "是否使用推荐链接的差额",
+                  "value": "美国 US$ 100／马来西亚 11 月参考金额 RM 180（付款前请在订单页面确认实际金额）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "未用推荐链接可获奖励",
+              "totalValue": "0",
+              "note": "授权或非授权经销商、电商平台购买的套件均无法享受推荐奖励。"
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "Starlink 马来西亚吉隆坡英文订购页面，显示 100 Mbps 月费 RM 135 与 Mini X 买断价 RM 900",
+          "caption": "马来西亚吉隆坡订购页：同一地址并存 100 Mbps 买断 Mini X 与 Max 租用两种方案机制。",
+          "objectFit": "contain",
+          "aspectRatio": 0.9898
+        }
+      },
+      {
+        "heading": "除了 Mbps 之外还差在哪：天线（Mini 与 Standard）、合约与安装费",
+        "paragraphs": [
+          "在提供 100 / 200 / Max 的海外地区，不同档次往往对应不同的天线与安装费政策。在葡萄牙、西班牙、法国、德国、意大利和英国，100 Mbps 配送紧凑型 Mini X（0 €／£0 租用，可选专业安装 172 €／£74），而选 200 Mbps 或 Max 会改为 Standard 4 天线（0 €／£0 租用），且只有 Max 免除 172 €／£74 安装费。在美国内华达，100 Mbps 配发 Starlink V5 + Router Mini（专业安装 $99 可选），200 Mbps 起改配 Starlink V4 + Router 4 且专业安装费降为 $0，Max 则在 Standard 4 X 基础上额外附带一台 $0 的 Router Mini。",
+          "合约绑定同样随国家变化：巴西 Residencial 100 Mbps 买断 Mini X 无 12 个月合约，但 Max 补贴套件绑定 12 个月合约及提前解约费；墨西哥 Standard 4 X 也设 12 个月期限；德国明确标注按月自动续订且可免费随时取消；马来西亚则同城分别执行买断与租用。各地解约和退货细则见[合约与取消指南](/zh-hans/reviews/starlink-cancel-zh-hans)，Mini 内置路由器与 Standard 独立路由器的功耗及 Wi-Fi 覆盖对比见[Starlink Mini 与 Standard 对比](/zh-hans/reviews/starlink-mini-or-standard-zh-hans)。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Starlink 官方天线与独立路由器套件示意图",
+          "caption": "不同国家和套餐决定收到的硬件是 Mini 系列还是 Standard 4 套件，从而影响 Wi-Fi 覆盖和待机功耗。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "官方速率与延迟规格（DOC-1470-99699-90、帮助中心 886607c4 与旧表 DOC-1414-37800-64）",
+        "paragraphs": [
+          "查对各档网速时，要注意区分 Starlink 现行规格文件（[DOC-1470-99699-90](https://starlink.com/legal/documents/DOC-1470-99699-90?regionCode=US)）与旧版文件（[DOC-1414-37800-64](https://starlink.com/legal/documents/DOC-1414-37800-64)）。根据帮助中心 886607c4 说明，Starlink 已在美国、巴西和欧洲等市场将原 Residential 更名为 Residential Max，将原 Residential Lite 更名为 Residential 100 Mbps。现行 DOC-1470-99699-90 明确给出 100 Mbps（下载 80–100 Mbps 上限）、200 Mbps（下载 80–200 Mbps 上限）和 Max（下载 80–400 Mbps，帮助中心 886607c4 写明典型最高 400+ Mbps），三者上传均为 15–35 Mbps（Max 在帮助中心标注 20–40 Mbps）、延迟低于 50 ms、可用性 ≥99%。",
+          "不少早期评测仍写“25–100 Mbps”，源于旧版法律文档 DOC-1414-37800-64 仅列有一条“STANDARD (FIXED)”（下载 25–100 Mbps、上传 5–10 Mbps、延迟 25–60 ms，正文泛指 25–220 Mbps）。实用选档参考（非本站实测）：1–2 人居家办公、视频会议或光纤备用选 100 Mbps 通常已够用；3–4 人多设备同时 4K 串流与大文件下载可考虑 200 Mbps；多人口家庭或需要无上限高速及欧美免费安装则选 Max。"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "官方套餐规格分类",
+            "下载速率范围",
+            "上传速率范围",
+            "延迟、可用性与官方来源"
+          ],
+          "rows": [
+            [
+              "Residential 100 Mbps（更名市场之原 Lite）",
+              "80–100 Mbps（限速 100 Mbps）",
+              "15–35 Mbps",
+              "<50 ms · ≥99%（DOC-1470-99699-90 / 886607c4）"
+            ],
+            [
+              "Residential 200 Mbps",
+              "80–200 Mbps（限速 200 Mbps）",
+              "15–35 Mbps",
+              "<50 ms · ≥99%（DOC-1470-99699-90 / 886607c4）"
+            ],
+            [
+              "Residential Max（原 Residential）",
+              "80–400 Mbps（帮助中心典型 400+ Mbps）",
+              "15–35 Mbps（帮助中心 20–40 Mbps）",
+              "<50 ms · ≥99%（DOC-1470-99699-90 / 886607c4）"
+            ],
+            [
+              "Residential Lite（保留 Lite 名称市场）",
+              "80–200 Mbps",
+              "15–35 Mbps",
+              "<50 ms · ≥99%（DOC-1470-99699-90）"
+            ],
+            [
+              "旧表 Standard (Fixed)（历史参考）",
+              "25–100 Mbps（正文 25–220 Mbps）",
+              "5–10 Mbps（正文 5–20 Mbps）",
+              "25–60 ms · ≥99%（旧 DOC-1414-37800-64）"
+            ]
+          ],
+          "caption": "依据 Starlink DOC-1470-99699-90、帮助中心 886607c4 与旧表 DOC-1414-37800-64 整理；支持待机模式的地区上下行最高 500 Kbps。"
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "安装在屋顶且视野开阔无遮挡的 Starlink 天线",
+          "caption": "无论选择 100 Mbps、200 Mbps 还是 Max，都需要确保天线拥有开阔无遮挡的天空视野。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "更换套餐规则（00:00 UTC 截止、立即 vs 到期日、租用锁定与促销风险）",
+        "paragraphs": [
+          "在敲定入门档还是最高档之前，有必要先了解 Starlink 官方更换套餐的具体规则。计费全部按协调世界时（UTC）结算，变更截止时间为账单日 00:00 UTC（相当于北京／香港／吉隆坡时间上午 8:00）；超过午夜 UTC 提交的修改将延至下一账单日才生效。账户内操作变更时会出现两个时间选项：“立即生效（NOW）”与“账单结束日期生效（DATE／即当前计费周期结束日）”。升级到更高价位套餐时，选立即生效会马上启用新套餐与新价格，选日期则等到本周期结束切换；但降级到更低价位套餐时，如果选择立即生效会立刻降档且当前周期剩余天数不予退费，想要用完已付费天数，必须选择周期结束日期（DATE）。",
+          "还有两条关键限制极易被忽略：第一，Starlink 官方规则明确写明“采用租用硬件的家用与商业用户无法通过自助操作更换服务套餐”——也就是说在美国、欧洲或马来西亚 Max 这类租用方案中，并不能像买断用户那样随意在后台切换档位。第二，更换套餐可能会终止原有的促销优惠价（如 30% 或 50% 折扣）；若涉及 12 个月承诺方案则需联系客服处理，并可能收取变更费或要求买断硬件（欠费停机、未激活初始套餐或区域满员售罄时也无法切换）。",
+          "在试用保障方面，Starlink 提供 30 天退货机制：自付款到期日起 30 天内取消服务并将设备完好退回，即可按页面条款退还设备款（如有）和首月月费（注意单纯在账户点取消不会自动完成退回，需办理退货并保存寄送凭证）。通过[Starlink 推荐页面](/zh-hans/coupons/starlink)进入 starlink.com 下单，在不改变官网价格和 30 天退货权益的前提下可确保计入推荐奖励（美国为 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请在订单页面确认实际金额），经销商或电商渠道购买不参与。"
+        ],
+        "checklist": {
+          "title": "下单与选定套餐前的 5 项检查",
+          "items": [
+            "已在 starlink.com 输入实际安装地址，确认当地提供 100 / 200 / Max 或单一套餐，以及硬件属于买断还是 0 元租用。",
+            "已用 Starlink 应用在预定安装位置完成障碍物检测，确认上方天空开阔无遮挡。",
+            "已确认租用套件无法自助更改套餐，且更换套餐可能导致促销优惠终止，因此一次性选准所需档位。",
+            "已截图保存订单摘要中的月费、原价以及 30 天内取消并退回设备的完整退款规则。",
+            "已在付款前于同一浏览器窗口通过推荐链接打开 starlink.com，并在订单页确认当地推荐奖励金额。"
+          ]
+        },
+        "links": [
+          {
+            "label": "前往 starlink.com 查询地址并保留 30 天试用",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "总结：家用到底选哪一档",
+        "paragraphs": [
+          "在欧美等提供 100 / 200 / Max 且全档 0 元租用的市场，1–2 人居家办公或用作光纤备用选 100 Mbps 最省月租；美国想配 Standard V4 且免掉 $99 专业安装可优先看 200 Mbps；欧洲想免掉 172 €／£74 专业安装或多人高并发使用则直接选 Max。在马来西亚吉隆坡这种混合制市场，看重首日少出钱、以后取消能退回设备选 Max（首日仅付运费），确定长期保留且压低月费则选 100 Mbps 买断 Mini X。"
+        ],
+        "emphasis": "由于租用套餐无法自助切换档次，且变更套餐可能取消促销折扣，下单前根据人数、硬件模式（买断或租用）及安装费减免一次性选对套餐，并通过推荐链接在 starlink.com 保留 30 天退货保障，是最稳妥的选择方式。"
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "为什么 Starlink 官网找不到简体中文家用套餐页？ Starlink 的语言菜单目前没有简体中文和繁体中文，中国大陆、台湾和香港也未开放普通家用直营下单页，海外中文用户需按安装地址所在国的英文或当地语言页面选购。",
+          "Starlink 100 Mbps、200 Mbps 与 Max 的官方速率到底差多少？ 依据现行官方规格 DOC-1470-99699-90 与帮助中心 886607c4，100 Mbps 下载上限为 80–100 Mbps、200 Mbps 上限为 80–200 Mbps、Max 为 80–400 Mbps（帮助中心标示典型最高 400+ Mbps），三者延迟均小于 50 ms、上传 15–35 Mbps（Max 帮助中心为 20–40 Mbps）且不限流量。",
+          "选择了硬件租用的套餐之后还能自助升级或降级吗？ 通常不能。Starlink 官方说明指出使用硬件租用选项的家用和商业客户无法在自助界面更改套餐，且更换套餐也有可能取消促销折扣价格。",
+          "更换套餐时“立即生效”和“周期结束日生效”有什么区别？ Starlink 计费按 00:00 UTC（北京／吉隆坡时间上午 8:00）结算。降级时若选立即生效，当前周期剩余天数不退费；选周期结束日（DATE）则会一直用到本周期结束再切换。",
+          "推荐奖励必须在付款前激活吗？ 是的，必须在付款前通过推荐链接在 starlink.com 下单，满两个完整计费周期后才会以账单抵扣发放且不降低当日设备付款；美国官方金额为 US$ 100，其他国家的实际金额请在付款前于自己的订单页面确认。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "已核实所在国页面采用三档制或买断／租用混合制，想结合家庭人数、免费安装门槛与合约规则一次性选准套餐。",
+        "愿意先用 Starlink 应用测好屋顶天空视野，并通过推荐链接在官网下单保留 30 天退货期与推荐奖励。"
+      ],
+      "skipIf": [
+        "住处已有稳定且网速达标的有线光纤，既不需要备用宽带也不用替代原网络。",
+        "安装点周边存在高楼或大树严重遮挡视野，无法通过应用障碍物检测。"
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "按官网完全相同的价格下单，保留 30 天退货退款保障，并在连续使用满两个计费周期后获得所在国家的推荐抵扣（美国为 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请在订单页面确认实际金额）。",
+      "label": "通过推荐链接在 starlink.com 查看我的地址套餐",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "本指南基于 Starlink 公开订购页、官方性能规格文件（DOC-1470-99699-90 与 DOC-1414-37800-64）及帮助中心说明（886607c4 等）编写。我们参与 Starlink 推荐计划，若你通过本页链接订阅并满足规则，我们可能获得奖励。",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-zh-hans"
+      },
+      {
+        "slug": "starlink-referral-zh-hans"
+      },
+      {
+        "slug": "starlink-worth-it-zh-hans"
+      },
+      {
+        "slug": "starlink-mini-or-standard-zh-hans"
+      }
+    ]
+  },
+  {
+    "id": 1441,
+    "slug": "starlink-plans-100-200-max-ar",
+    "locale": "ar",
+    "translationKey": "starlink-planos-residenciais",
+    "title": "مقارنة باقات Starlink المنزلية: عُمان وقطر مقابل باقات 100 و200 وMax الدولية",
+    "seoTitle": "باقات Starlink: 100 و200 وMax مقابل عُمان وقطر",
+    "type": "دليل",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "تحرير وتحليل",
+      "initials": "BL"
+    },
+    "authors": [
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "تحرير وتحليل",
+        "initials": "BL"
+      }
+    ],
+    "description": "قارن باقات Starlink في عُمان (OMR 30) وقطر (220 QAR لباقة Lite) مع باقات 100 و200 وMax الدولية، والفرق في الطبق والسرعة وقواعد التبديل.",
+    "metaDescription": "دليل باقات Starlink في عُمان وقطر مقابل 100 و200 وMax الدولية: الأسعار بدون تعاقد، مقارنة Standard وMini، مواصفات السرعة وقواعد تغيير الباقة.",
+    "publishedAt": "24 نوفمبر 2026",
+    "publishedAtISO": "2026-11-24",
+    "updatedAt": "2026-11-24",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/starlink/starlink-plans-100-200-max-ar-capa.webp",
+    "imageAlt": "غلاف دليل مقارنة يضم لوحة سوداء مكتوب عليها STARLINK وعنوان «باقة 100 أم Max أيهما تختار؟» إلى جانب صورة لهوائي Starlink مثبت على سقف خشبي تحت سماء زرقاء.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "الإجابة السريعة",
+        "paragraphs": [
+          "تتباين باقات Starlink المنزلية حسب البلد: ففي عُمان وقطر تتوفر باقتا «المنازل» و«المنازل Lite» بنظام شراء الجهاز دون تعاقد، بينما تتوزع في أمريكا وأوروبا إلى 100 و200 وMax مع إيجار صفري للجهاز، ويغيّر اختيارك نوع الطبق ورسوم التركيب وشروط التبديل. قارن التفاصيل في الجدول أدناه، واطلب عبر الرابط الرسمي للاطلاع على شروط عنوانك ونيل رصيد الإحالة بعد دورتين."
+        ],
+        "links": [
+          {
+            "label": "افتح starlink.com وتحقق من باقات عنوانك ومكافأة الإحالة",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "باقات عُمان وقطر بالعربية مقارنةً بباقات 100 و200 وMax الدولية",
+        "paragraphs": [
+          "تظهر شاشات الطلب الرسمية بالواجهة العربية فرقًا جوهريًا بين الأسواق العربية والأسواق الغربية. في مسقط (سلطنة عُمان)، تعرض Starlink باقة «المنازل» بسعر OMR 30 شهريًا تحت عبارة «بدون تعاقد، فترة تجريبية 30 يومًا»، دون خيار استئجار: يشتري المشترك Standard 4 X مقابل OMR 160 (الإجمالي اليوم OMR 170 مع شحن OMR 10) أو Mini مقابل OMR 80 (الإجمالي OMR 90)، مع طلب وثيقة هوية بصورة بعد الطلب، ورقم هاتف يبدأ بـ +968 وبطاقة صادرة في عُمان أو البحرين أو الكويت أو قطر أو السعودية أو الإمارات. وفي الدوحة (قطر)، تظهر باقة «المنازل Lite» بسعر 220 QAR شهريًا إلى جانب باقة «المنازل»، مع شراء Standard 4 X بسعر 1,500 QAR وشحن 80 QAR (الإجمالي 1,580 QAR) وبدون تعاقد أيضًا مع اشتراط الهوية المصوّرة.",
+          "في المقابل، تعتمد الولايات المتحدة (نيفادا) وأوروبا وبريطانيا تقسيم 100 Mbps و200 Mbps وMax مع إيجار صفري للجهاز وإلزام بإعادته عند الإلغاء. وفي جميع هذه الأسواق يُدفع يوم الطلب ثمن الجهاز (إن كان شراءً) والشحن فقط، بينما تبدأ أول فاتورة شهرية عند التفعيل أو بعد 7 أيام من التسليم أيهما أسبق؛ وتنطبق مكافأة الإحالة بعد سداد دورتين شهريتين كاملتين كرصيد على الفاتورة (أو نقدًا حيث يتوفر) ولا تخفض سعر الجهاز يوم الدفع. بالنسبة للقيم في دول الخليج، لم تُنشر إلا إشارات مرجعية على مستوى نوفمبر: 15 ريالًا عُمانيًا (OMR 15) في عُمان و160 ريالًا قطريًا (160 QAR) في قطر بوصفهما المبلغ المرجعي في نوفمبر، ولذلك اعتمد المبلغ الذي يظهر في طلبك قبل الدفع (أما في أمريكا فالمؤكد رسميًا US$ 100، وفي أوروبا 45 €، وفي بريطانيا £40)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "السوق والباقة",
+            "الاشتراك الشهري",
+            "الجهاز والشحن والتعاقد",
+            "مكافأة الإحالة (بعد دورتين)"
+          ],
+          "rows": [
+            [
+              "عُمان (مسقط): المنازل",
+              "OMR 30 / الشهر",
+              "شراء Standard 4 X بـ OMR 160 أو Mini بـ OMR 80 (شحن OMR 10)، بدون تعاقد",
+              "15 ريالًا عُمانيًا (OMR 15) — المبلغ المرجعي في نوفمبر، اعتمد المبلغ الذي يظهر في طلبك قبل الدفع"
+            ],
+            [
+              "قطر (الدوحة): المنازل Lite والمنازل",
+              "220 QAR / الشهر (Lite)",
+              "شراء Standard 4 X بـ 1,500 QAR (شحن 80 QAR، إجمالي 1,580 QAR)، بدون تعاقد",
+              "160 ريالًا قطريًا (160 QAR) — المبلغ المرجعي في نوفمبر، اعتمد المبلغ الذي يظهر في طلبك قبل الدفع"
+            ],
+            [
+              "أمريكا (نيفادا): 100 / 200 / Max",
+              "$38.50→$55 / $59.50→$85 / $91→$130",
+              "إيجار $0 (100 مع V5+Router Mini وتركيب $99 اختياري؛ 200/Max تركيب $0)، شحن $20+ضرائب",
+              "US$ 100 (يغطي نحو 2.6 شهر من باقة 100 Mbps بالخصم)"
+            ],
+            [
+              "أوروبا (إسبانيا/فرنسا/البرتغال): 100 / 200 / Max",
+              "24,50 €→35 € / 31,50 €→45 € / 45,50 €→65 €",
+              "إيجار 0 € (100 مع Mini X، و200/Max مع Standard 4، والتركيب 0 € في Max فقط)، شحن 19–20 €",
+              "45 € (يغطي نحو 1.8 شهر من باقة 100 Mbps بالخصم)"
+            ]
+          ],
+          "caption": "مقارنة مأخوذة من شاشات الطلب الرسمية بتاريخ 23 نوفمبر 2026. لا تخفض مكافأة الإحالة سعر الجهاز يوم الشراء بل تُضاف رصيدًا بعد سداد دورتين شهريتين."
+        },
+        "simulator": {
+          "title": "المحاكي: مقارنة التكلفة في عُمان وقطر مقابل أمريكا",
+          "scenarios": [
+            {
+              "label": "عُمان: المنازل + رابط الإحالة",
+              "lines": [
+                {
+                  "label": "شراء الجهاز + الشحن (Standard 4 X / Mini)",
+                  "value": "OMR 170 (Standard) أو OMR 90 (Mini)"
+                },
+                {
+                  "label": "الاشتراك الشهري (بدون تعاقد)",
+                  "value": "OMR 30 / الشهر"
+                },
+                {
+                  "label": "مكافأة الإحالة بعد دورتين مدفوعتين",
+                  "value": "المبلغ المرجعي في نوفمبر 15 ريالًا عُمانيًا (OMR 15) — اعتمد المبلغ الذي يظهر في طلبك قبل الدفع",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "نسبة الرصيد المرجعي من الشهرية",
+              "totalValue": "نصف شهر تقريبًا (يُؤكد بالطلب)",
+              "note": "يُدفع يوم الطلب ثمن الجهاز والشحن فقط وتبدأ الشهرية عند التفعيل أو بعد 7 أيام من التسليم؛ الجهاز مملوك للمشترك ولا يُعاد إلا عند الإرجاع خلال 30 يومًا."
+            },
+            {
+              "label": "قطر: المنازل Lite + رابط الإحالة",
+              "lines": [
+                {
+                  "label": "شراء Standard 4 X + الشحن",
+                  "value": "1,580 QAR (1,500 QAR + 80 QAR)"
+                },
+                {
+                  "label": "اشتراك المنازل Lite الشهري (بدون تعاقد)",
+                  "value": "220 QAR / الشهر (عند التفعيل أو 7 أيام بعد التسليم)"
+                },
+                {
+                  "label": "مكافأة الإحالة بعد دورتين مدفوعتين",
+                  "value": "المبلغ المرجعي في نوفمبر 160 ريالًا قطريًا (160 QAR) — اعتمد المبلغ الذي يظهر في طلبك قبل الدفع",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "نسبة الرصيد المرجعي من الشهرية",
+              "totalValue": "نحو 73% من شهر (يُؤكد بالطلب)",
+              "note": "مكافأة الإحالة رصيد فاتورة لاحق ولا تخصم من سعر الجهاز عند الدفع."
+            },
+            {
+              "label": "أمريكا للمقارنة أو الطلب دون رابط إحالة",
+              "lines": [
+                {
+                  "label": "أمريكا 100 Mbps عبر الرابط (إيجار $0)",
+                  "value": "$38.50/شهر + US$ 100 رصيد بعد دورتين"
+                },
+                {
+                  "label": "رصيد الإحالة عند الطلب دون رابط أو من تاجر",
+                  "value": "0 (لا يمكن إضافتها بعد الدفع)"
+                },
+                {
+                  "label": "القيمة المفقودة عند تجاهل الرابط",
+                  "value": "15 ريالًا عُمانيًا (OMR 15) أو 160 ريالًا قطريًا (160 QAR) بوصفهما المبلغ المرجعي في نوفمبر، اعتمد المبلغ الذي يظهر في طلبك قبل الدفع",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "مكافأة الطلب دون رابط",
+              "totalValue": "0",
+              "note": "لا تشمل الإحالة الأجهزة المشتراة من التجار أو الأسواق الإلكترونية."
+            }
+          ]
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "alt": "صفحة باقات Starlink الرسمية بالعربية لمسقط في عُمان وتظهر باقة المنازل بـ 30 ر.ع. وخيارات الجهاز بدون تعاقد",
+          "caption": "شاشة الطلب الرسمية بالعربية في مسقط، سلطنة عُمان: باقة المنازل وبدون تعاقد.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7414
+        }
+      },
+      {
+        "heading": "ما الذي يتغير غير السرعة: الطبق (Mini مقابل Standard)، التعاقد، والتركيب",
+        "paragraphs": [
+          "في أسواق 100 و200 وMax، لا تغيّر الترقية سرعة التنزيل وحدها، بل تغيّر الطبق ورسوم التركيب أيضًا. في أوروبا والمملكة المتحدة تأتي باقة 100 Mbps مع طبق Mini X (إيجار 0 € أو £0، وتركيب احترافي اختياري بـ 172 € أو £74)، بينما تنتقل باقتا 200 Mbps وMax إلى طبق Standard 4 الأكبر، وتقتصر مجانية التركيب الاحترافي على باقة Max وحدها. وفي الولايات المتحدة تمنح 100 Mbps جهاز Starlink V5 + Router Mini (تركيب $99 اختياري)، وتلغي 200 Mbps رسوم التركيب ($0) مع التحول إلى Starlink V4 + Router 4، بينما تضيف Max مع Standard 4 X جهاز Router Mini إضافيًا بسعر $0.",
+          "أما في عُمان وقطر، فالجهاز يُشترى بالكامل بدون عقد التزام لـ 12 شهرًا (على عكس باقة Max المدعومة في البرازيل أو Standard 4 X في المكسيك حيث يُفرض التزام 12 شهرًا وغرامة إلغاء مبكر). وفي عُمان تتيح الشاشة للمشترك اختيار Standard 4 X أو Mini الأقل استهلاكًا للطاقة بنفس السعر الشهري للباقة. راجع تفاصيل الإلغاء والاسترداد في [دليل العقد والإلغاء](/ar/reviews/starlink-cancel-ar) والفروق التقنية بين الجهازين في [مقارنة Mini مقابل Standard](/ar/reviews/starlink-mini-or-standard-ar)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "هوائي Starlink الرسمي وجهاز التوجيه",
+          "caption": "اختيار الطبق المناسب (Mini المدمج أو Standard 4 ذو الراوتر المستقل) يؤثر على التغطية الداخلية واستهلاك الكهرباء. صورة من Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "السرعات وزمن الاستجابة الرسمية (DOC-1470-99699-90 ومركز المساعدة 886607c4 وDOC-1414-37800-64)",
+        "paragraphs": [
+          "عند قراءة مواصفات الأداء يجب التمييز بين الوثيقة القانونية الأحدث ([DOC-1470-99699-90](https://starlink.com/legal/documents/DOC-1470-99699-90?regionCode=US)) ومركز المساعدة 886607c4 من جهة، وبين الصفحة القديمة ([DOC-1414-37800-64](https://starlink.com/legal/documents/DOC-1414-37800-64)) من جهة أخرى. فقد أعادت Starlink في الأسواق المحدّثة تسمية باقة Residential إلى Residential Max، وباقة Residential Lite إلى Residential 100 Mbps. وتوضح وثيقة DOC-1470-99699-90 أن التوافر ≥99% وزمن الاستجابة أقل من 50 ms والرفع 15–35 Mbps في كل الباقات (ويذكر مركز المساعدة 886607c4 أن سرعة Max تصل إلى 400+ Mbps للتنزيل و20–40 Mbps للرفع)، بينما تُدرج باقة Residential Lite (كما في قطر) عند 80–200 Mbps للتنزيل و15–35 Mbps للرفع وزمن استجابة أقل من 50 ms.",
+          "في المقابل، ما زال المستند القديم DOC-1414-37800-64 يعرض جدول STANDARD (FIXED) بنطاق أقدم (25–100 Mbps تنزيل و5–10 Mbps رفع وزمن استجابة 25–60 ms، مع نص عام يذكر 25–220 Mbps)، وهو سبب التباين الظاهر في المقالات القديمة. كقاعدة عملية غير مبنية على قياس ميداني من جانبنا: تكفي فئة 100 Mbps لمستخدم واحد أو مستخدمَين للعمل عن بُعد والاجتماعات والنسخ الاحتياطي للألياف، وتناسب فئة 200 Mbps أو المنازل Lite الأسر المتوسطة وبث 4K المتزامن، بينما تناسب Max أو «المنازل» العائلات الكبيرة والتنزيلات الثقيلة."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "فئة الباقة في المواصفات",
+            "سرعة التنزيل",
+            "سرعة الرفع",
+            "زمن الاستجابة والتوافر والمصدر"
+          ],
+          "rows": [
+            [
+              "Residential 100 Mbps (سابقًا Lite في الأسواق المحدّثة)",
+              "80–100 Mbps (محددة عند 100 Mbps)",
+              "15–35 Mbps",
+              "<50 ms · ≥99% (DOC-1470-99699-90 / 886607c4)"
+            ],
+            [
+              "Residential 200 Mbps",
+              "80–200 Mbps (محددة عند 200 Mbps)",
+              "15–35 Mbps",
+              "<50 ms · ≥99% (DOC-1470-99699-90 / 886607c4)"
+            ],
+            [
+              "Residential Max (سابقًا Residential)",
+              "80–400 Mbps (حتى 400+ Mbps في مركز المساعدة)",
+              "15–35 Mbps (20–40 Mbps في مركز المساعدة)",
+              "<50 ms · ≥99% (DOC-1470-99699-90 / 886607c4)"
+            ],
+            [
+              "Residential Lite (مثل المنازل Lite في قطر)",
+              "80–200 Mbps",
+              "15–35 Mbps",
+              "<50 ms · ≥99% (DOC-1470-99699-90)"
+            ],
+            [
+              "الجدول القديم Standard (Fixed) (للمقارنة)",
+              "25–100 Mbps (النص العام 25–220 Mbps)",
+              "5–10 Mbps (النص العام 5–20 Mbps)",
+              "25–60 ms · ≥99% (DOC-1414-37800-64)"
+            ]
+          ],
+          "caption": "أرقام رسمية من DOC-1470-99699-90 ومركز المساعدة 886607c4 والوثيقة السابقة DOC-1414-37800-64؛ وضع الاستعداد يتيح حتى 500 Kbps حيث يتوفر."
+        },
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "طبق Starlink مثبت على سطح منزل تحت سماء مفتوحة",
+          "caption": "جميع الباقات تتطلب رؤية مفتوحة للسماء دون عوائق لتحقيق الاستقرار المعلن. صورة من Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        }
+      },
+      {
+        "heading": "قواعد تغيير الباقة (00:00 UTC، الآن مقابل التاريخ، قيد الإيجار) وضمان 30 يومًا",
+        "paragraphs": [
+          "قبل تأكيد الباقة، انتبه لقواعد التعديل في حساب Starlink. تعمل الفوترة وفق التوقيت العالمي المنسق (UTC)، والموعد النهائي لتطبيق أي تعديل في الدورة الجارية هو الساعة 00:00 UTC من تاريخ الفاتورة (الساعة 04:00 فجرًا بتوقيت عُمان والإمارات، و03:00 فجرًا بتوقيت قطر والسعودية)، وأي طلب بعد منتصف الليل يرحّل للدورة التالية. وعند التبديل يعرض الحساب خيارين: «الآن (NOW/تطبيق فوري)» أو «تاريخ انتهاء الدورة (DATE)». في الترقية إلى باقة أغلى يبدأ السعر الجديد والسرعة فورًا عند اختيار «الآن» أو في نهاية الدورة عند اختيار «التاريخ». أما في التخفيض إلى باقة أرخص، فإن اختيار «الآن» ينقلك فورًا دون أي استرداد للمبلغ المتبقي من الدورة المدفوعة، ولذلك يُنصح باختيار تاريخ انتهاء الدورة للاحتفاظ بما دفعته.",
+          "هناك أيضًا قيدان أساسيان: أولًا، تنص قواعد Starlink صراحةً على أن المشتركين بنظام استئجار الأجهزة في الباقات المنزلية والتجارية لا يمكنهم تغيير الباقة عبر الخدمة الذاتية (أي أن مشتركي الإيجار في أمريكا وأوروبا قد يُمنعون من التبديل بحرية داخل البوابة، بخلاف من اشترى الجهاز). ثانيًا، قد يؤدي تغيير الباقة إلى إلغاء السعر الترويجي أو فرض رسوم تعديل وشراء الجهاز إذا كان العقد مشروطًا لمدة 12 شهرًا (كما يتعذر التبديل في الحسابات الموقوفة أو غير المفعلة أو المناطق المكتملة السعة).",
+          "يمنحك عرض الـ30 يومًا أمان التجربة: إذا ألغيت الخدمة وأعدت الجهاز سليمًا خلال 30 يومًا من تاريخ استحقاق الدفعة تسترد ثمن الجهاز والشهر الأول حسب شروط الطلب (والإلغاء وحده لا يُعيد الجهاز بل يجب إتمام طلب الإرجاع والاحتفاظ بإيصال الشحن). ولضمان أهلية مكافأة الإحالة، لا بد من فتح الطلب عبر رابط الإحالة على starlink.com قبل الدفع كما توضح [صفحة إحالة Starlink](/ar/coupons/starlink)، لأن المشتريات من المتاجر أو الأسواق الإلكترونية أو بعد الدفع لا تدخل في البرنامج."
+        ],
+        "checklist": {
+          "title": "قائمة تحقق من 5 خطوات قبل الدفع",
+          "items": [
+            "أدخلت عنواني الفعلي في starlink.com وتأكدت من الباقات المتاحة (المنازل / المنازل Lite أو 100 / 200 / Max) وهل الجهاز شراء أم إيجار.",
+            "أجريت فحص العوائق في تطبيق Starlink في موضع التركيب للتحقق من خلو السماء من المباني والأشجار.",
+            "تحققت من قواعد تغيير الباقة، ومعرفة أن خطط الإيجار تمنع التبديل الذاتي وأن التبديل قد يُنهي السعر الترويجي.",
+            "التقطت صورة لملخص الطلب تُظهر السعر الشهري وشروط الإرجاع خلال 30 يومًا وشرط البطاقة البنكية والهوية في عُمان أو قطر.",
+            "فتحت starlink.com من رابط الإحالة في النافذة نفسها قبل الدفع وراجعت إشعار تطبيق الإحالة والمبلغ الظاهر لبلدي في ملخص الطلب."
+          ]
+        },
+        "links": [
+          {
+            "label": "افتح starlink.com الآن مع ضمان 30 يومًا للإرجاع",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "الخلاصة: أي باقة منزلية تناسب احتياجك",
+        "paragraphs": [
+          "إذا كنت في قطر وتظهر لك باقة «المنازل Lite» (سرعة 80–200 Mbps) فتكفي بسهولة للاستخدام المنزلي العادي والعمل عن بُعد بتكلفة شهرية أقل من باقة «المنازل» الكاملة، أما في عُمان فالاختيار يركز على الطبق المناسب (Mini للتوفير والاستهلاك المنخفض للطاقة مقابل Standard 4 X لتغطية Wi-Fi أوسع). وفي الأسواق الدولية ذات الثلاث باقات، تظل 100 Mbps الأفضل للعمل والنسخ الاحتياطي، و200 Mbps نقطة التوازن في أمريكا مع مجانية التركيب، وMax الخيار الأفضل للعائلات الكبيرة أو من يريدون التركيب المجاني في أوروبا."
+        ],
+        "emphasis": "اختيار الباقة المناسبة من البداية يحميك من فقدان أي سعر ترويجي ومن قيود تغيير الباقة في أنظمة الإيجار أو السعة المحدودة؛ لذا أدخل عنوانك في starlink.com عبر رابط الإحالة، واعتمد دائمًا الشروط والأرقام الظاهرة في ملخص طلبك قبل الدفع مع الاحتفاظ بضمان الـ30 يومًا."
+      },
+      {
+        "heading": "الأسئلة الشائعة",
+        "bullets": [
+          "هل توجد باقات 100 و200 وMax في الدول العربية بالعربية؟ في صفحاتنا المفحوصة بالواجهة العربية ظهرت باقة «المنازل» في عُمان وباقتا «المنازل Lite» و«المنازل» في قطر، بينما تتوفر تسمية 100 و200 وMax في أسواق مثل أمريكا وأوروبا وبريطانيا. وتظهر الباقات المتاحة لك بمجرد إدخال عنوانك في starlink.com.",
+          "ما الفرق في السرعة بين المنازل Lite و100 Mbps و200 Mbps وMax؟ وفق وثيقة DOC-1470-99699-90 ومركز المساعدة 886607c4، تبلغ سرعة التنزيل 80–100 Mbps لباقة 100 Mbps، و80–200 Mbps لكل من 200 Mbps وResidential Lite، و80–400 Mbps (حتى 400+ Mbps) لباقة Max أو Residential، مع رفع 15–35 Mbps وزمن استجابة أقل من 50 ms.",
+          "هل أستطيع تغيير باقة Starlink بعد الاشتراك دون رسوم؟ يعتمد على طريقة الجهاز والوقت: في خطط شراء الجهاز يمكنك التعديل قبل 00:00 UTC في حسابك، لكن خطط استئجار الأجهزة لا تسمح بتغيير الباقة عبر الخدمة الذاتية، كما أن التبديل قد يُلغي أي سعر ترويجي حالي.",
+          "ما الفرق بين تطبيق تغيير الباقة الآن أو في تاريخ الفوترة؟ في التخفيض لباقة أرخص، اختيار التنفيذ الفوري (الآن) يطبّق الباقة الجديدة فورًا دون استرداد لبقية الأيام المدفوعة، بينما يبقيك خيار التاريخ (نهاية الدورة) على باقتك الحالية حتى نهاية الشهر المدفوع.",
+          "هل تشمل مكافأة الإحالة جميع الباقات المنزلية وهل تخفض سعر الجهاز؟ نعم، تشمل الإحالة باقات المنازل و100 و200 وMax وLite لعملاء starlink.com الجدد وتُضاف رصيدًا بعد دورتين مدفوعتين دون خفض سعر الجهاز عند الدفع؛ اعتمد دائمًا المبلغ الذي يظهر في طلبك قبل الدفع."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "قررت الاشتراك في باقة منزلية وتريد مقارنة السرعة الرسمية ونوع الهوائي وقواعد التبديل لعنوانك قبل تأكيد الطلب.",
+        "ستدخل إلى starlink.com عبر رابط الإحالة قبل الدفع لمراجعة تفاصيل العقد وضمان الإرجاع خلال ثلاثين يومًا."
+      ],
+      "skipIf": [
+        "تملك خط ألياف بصرية ثابتًا يلبي سرعتك المتعاقد عليها ولا تحتاج إلى بديل أو خط احتياطي.",
+        "لا يتوفر في موقع التركيب مساحة سماء مكشوفة تخلو من المباني أو الأشجار وفق فحص التطبيق."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "تدفع السعر الرسمي نفسه على starlink.com مع فترة 30 يومًا للإرجاع الكامل، وتحصل بعد شهرين من الاشتراك على رصيد بلدك (في عُمان 15 ريالًا عُمانيًا (OMR 15) وفي قطر 160 ريالًا قطريًا (160 QAR) بوصفهما المبلغ المرجعي في نوفمبر، واعتمد المبلغ الذي يظهر في طلبك قبل الدفع).",
+      "label": "افتح starlink.com وتحقق من باقات عنوانك",
+      "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+      "sponsored": true
+    },
+    "affiliate": "starlink",
+    "editorialNote": "أُعدّ هذا الدليل استنادًا إلى صفحات الطلب الرسمية ووثائق المواصفات (DOC-1470-99699-90 و886607c4). نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة دون تكلفة عليك.",
+    "relatedArticles": [
+      {
+        "slug": "starlink-cancel-ar"
+      },
+      {
+        "slug": "starlink-referral-ar"
+      },
+      {
+        "slug": "starlink-worth-it-ar"
+      },
+      {
+        "slug": "starlink-mini-or-standard-ar"
+      }
+    ]
   }
 ];

@@ -1,0 +1,339 @@
+{
+  "id": 1421,
+  "slug": "starlink-mini-vs-standard-which-to-choose",
+  "translationKey": "starlink-mini-ou-padrao",
+  "locale": "en",
+  "title": "Starlink Mini vs Standard (V4): router, Wi-Fi range, power draw and which to choose",
+  "seoTitle": "Starlink Mini vs Standard (V4): which to choose?",
+  "type": "Comparison Guide",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Editing and analysis",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Editing and analysis",
+      "initials": "BL"
+    }
+  ],
+  "description": "Compare Starlink Mini (V5 + Router Mini) and Standard (V4 + Router 3): built-in vs external router, Wi-Fi coverage, power draw, US/UK order kits and referral credit.",
+  "metaDescription": "Starlink Mini vs Standard V4: compare Wi-Fi 5 vs Wi-Fi 6 range, 25-40 W vs 75-100 W backup power draw, US/UK $0 rental kits and referral credit.",
+  "publishedAt": "November 24, 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-mini-vs-standard-which-to-choose-capa.webp",
+  "imageAlt": "Comparison cover featuring a black panel with STARLINK and the title Starlink Mini or Standard? beside the official photo of the Starlink Standard dish with kickstand and compact vertical router.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "Starlink Mini is the better pick for simple setup, low backup power draw on a UPS or battery, and portable mounting. Standard (V4 + Router 3) wins on indoor Wi-Fi 6 coverage and dual Ethernet ports. Both kits qualify for the official referral bill credit when ordered on starlink.com; see which hardware each plan ships below."
+      ],
+      "links": [
+        {
+          "label": "Check which kit your address gets on starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Where each kit shows up on US and UK order pages",
+      "paragraphs": [
+        "On current residential checkouts in the United States and United Kingdom, the hardware kit is tied directly to the speed tier you select rather than picked separately.",
+        "In Nevada (US), all three residential plans ship as a $0 upfront and $0/month rental ($20 plus taxes shipping today; you must return the rental hardware if you cancel, with no fixed term). Residential 100 Mbps ($38.50/mo, regular $55, optional $99 installation) includes a Starlink V5 with a Router Mini. Residential 200 Mbps ($59.50/mo, regular $85, free installation) switches to a Starlink V4 with Router 4, and Max ($91/mo, regular $130, free installation) comes with Standard 4 X plus an extra Router Mini.",
+        "In London (UK), the order page shows \"No contracts\" with £0 hardware rental (£19 shipping today; return the kit if you cancel): 100 Mbps (£40/mo, optional £74 installation) bundles a Mini Rental with a Router Mini, while 200 Mbps (£60/mo, optional £74 installation) and Max (£80/mo, free installation) ship with the larger Standard 4 kit."
+      ],
+      "comparisonTable": {
+        "caption": "Public order pages checked on November 23, 2026. Hardware bundles and monthly prices vary by address.",
+        "headers": [
+          "Market and plan",
+          "Hardware in the order",
+          "Hardware cost and terms",
+          "Monthly price shown"
+        ],
+        "rows": [
+          [
+            "US, Residential 100 Mbps (Nevada)",
+            "Starlink V5 + Router Mini",
+            "$0 rental ($349 credited), return if cancelled",
+            "$38.50 ($55 regular)"
+          ],
+          [
+            "US, Residential 200 Mbps (Nevada)",
+            "Starlink V4 + Router 4 (free installation)",
+            "$0 rental, return if cancelled",
+            "$59.50 ($85 regular)"
+          ],
+          [
+            "US, Max (Nevada)",
+            "Standard 4 X + extra Router Mini (free installation)",
+            "$0 rental, return if cancelled",
+            "$91 ($130 regular)"
+          ],
+          [
+            "UK, 100 / 200 Mbps / Max (London)",
+            "Mini Rental + Router Mini (100); Standard 4 (200 / Max)",
+            "£0 rental, \"No contracts\", return if cancelled",
+            "£40 / £60 / £80"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+        "alt": "Starlink residential order page for Nevada showing 100 Mbps at $38.50 per month with Starlink V5, Router Mini and $0 rental hardware",
+        "caption": "Nevada order screen: Residential 100 Mbps bundles a Starlink V5 with a Router Mini at $0 rental.",
+        "objectFit": "contain",
+        "aspectRatio": 0.7159
+      }
+    },
+    {
+      "heading": "Official technical specs: Mini vs Standard V4 + Router 3",
+      "paragraphs": [
+        "The store states: the biggest hardware difference is whether the primary router lives inside the outdoor dish or sits separately inside your home, alongside power draw and dish footprint.",
+        "Starlink Mini puts an integrated Wi-Fi 5 router inside the compact dish and runs on just 25 to 40 W on average. Starlink Standard (V4) connects its larger dish to an indoor Router 3 via a 15 m cable, bringing tri-band Wi-Fi 6 coverage and higher wattage. Where orders also include or offer the compact Router Mini (83.6 × 138 × 27 mm, 112 g, indoor only), that unit adds dual-band Wi-Fi 6 (802.11ax 2×2 MU-MIMO) for up to 204 m², up to 235 devices, and two 1 Gbps Ethernet RJ-45 ports."
+      ],
+      "comparisonTable": {
+        "caption": "Official public hardware specifications published by Starlink for Mini, Router Mini and Standard V4 with Router 3.",
+        "headers": [
+          "Specification",
+          "Starlink Mini",
+          "Starlink Standard (V4 + Router 3)"
+        ],
+        "rows": [
+          [
+            "Dish dimensions",
+            "298.5 × 259 × 38.5 mm",
+            "594 × 383 × 39.7 mm"
+          ],
+          [
+            "Dish weight",
+            "1.10 kg (1.16 kg with kickstand; 1.53 kg with kickstand and 15 m DC cable)",
+            "2.9 kg (3.2 kg with kickstand; 3.8 kg with kickstand and 15 m cable)"
+          ],
+          [
+            "Average power draw",
+            "25 to 40 W (12 to 48 V 60 W input; USB-C PD min. 100 W 20 V/5 A with official cable)",
+            "75 to 100 W (IP66 Type 4 PSU and 1.5 m AC cable included)"
+          ],
+          [
+            "Router and Wi-Fi generation",
+            "Integrated Wi-Fi 5 (802.11ac dual-band 3×3 MU-MIMO); pairs with Router Mini (Wi-Fi 6)",
+            "Separate Router 3 (43.4 × 298.6 × 120.4 mm; 0.57 kg; Wi-Fi 6 tri-band 4×4 MU-MIMO)"
+          ],
+          [
+            "Wi-Fi coverage and devices",
+            "Up to 112 m² and 128 devices (up to 204 m² and 235 with Router Mini)",
+            "Up to 297 m² and 235 devices"
+          ],
+          [
+            "Ethernet LAN ports",
+            "1 locking LAN port with plug (Ethernet cable not included)",
+            "2 locking LAN ports on Router 3 (15 m Starlink cable included)"
+          ],
+          [
+            "Weather rating (IP)",
+            "IP67 Type 4 dish (loses IP67 seal with standard RJ45 cable)",
+            "Dish IP67 Type 4; PSU IP66 Type 4; Router 3 IP56 indoor"
+          ],
+          [
+            "Bypass mode and mesh",
+            "Bypass mode (factory reset needed to exit) and Starlink mesh up to 3 nodes; no 3rd-party mesh",
+            "Bypass mode and Starlink mesh up to 3 nodes; no 3rd-party mesh"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Read full official specs at starlink.com/specifications",
+          "href": "https://www.starlink.com/specifications"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Official Starlink dish and indoor router showing the two-piece Standard architecture",
+        "caption": "External dish paired with an indoor Wi-Fi router. Official Starlink photo.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Wi-Fi in a large home, UPS battery runtime and Ethernet wiring",
+      "paragraphs": [
+        "When the dish sits outside behind concrete or brick walls, bringing a separate Wi-Fi 6 router indoors beats relying solely on a dish-integrated radio.",
+        "Practical rule, untested by us: the Mini's built-in Wi-Fi 5 is rated up to 112 m² and 128 devices, so roof tiles and thick interior walls reduce indoor signal speed in multi-room homes. Standard solves that by running a 15 m cable indoors to the Router 3 (up to 297 m² and 235 devices on tri-band Wi-Fi 6). That is also why current US and UK 100 Mbps orders pair the compact dish with an indoor Router Mini (up to 204 m² and 235 devices), and both kits support Starlink mesh up to 3 nodes (third-party mesh systems are not supported).",
+        "For backup power on a UPS or portable power station, the Mini has a decisive advantage: 25 to 40 W average consumption is less than half the 75 to 100 W drawn by Standard. Our math from the official power ratings: on the same battery capacity, the Mini keeps your internet running over twice as long, and it can run from 12 to 48 V DC or USB-C PD (at least 100 W 20 V/5 A using the official cable).",
+        "If you plan to run Ethernet cables or a Dual-WAN failover router, check the ports before wiring. The Mini has 1 locking Ethernet LAN port and the Ethernet cable is sold separately; using a regular unsealed RJ45 plug voids its IP67 Type 4 weather seal. Standard's indoor Router 3 gives you two protected LAN ports. Both support Bypass mode to pass the connection over Ethernet to your own router or mesh system, though exiting Bypass on the Mini requires a factory reset. For official Starlink mesh (compatible with Router Mini, Router 3, and Gen 2 routers up to 3 nodes; incompatible with third-party mesh), both kits stay within the Starlink ecosystem."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Starlink Standard kit hardware layout showing dish, Router 3, stand and cables",
+        "caption": "Full Starlink Standard kit with separate router, stand and power cables. Official Starlink photo.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Referral credit after 2 billing cycles and the 30-day return rule",
+      "paragraphs": [
+        "Both Mini and Standard kits qualify for the official referral reward when ordered on starlink.com through the referral link: US$ 100 in the US and £40 in the UK, applied as a bill credit after two paid billing cycles.",
+        "This reward applies as a bill credit after two paid billing cycles (or in cash via Stripe where available) and never reduces the kit price at checkout; on US and UK rental plans, upfront hardware is already $0 or £0, and you only pay shipping today. Kits bought at retail stores, marketplaces or via account transfer do not qualify and cannot be linked retroactively.",
+        "You also have 30 days to test real Wi-Fi reach and sky visibility at home: under the order terms, cancelling the service and returning the undamaged kit within 30 days qualifies for a refund as stated at checkout. Check full referral eligibility on our [Starlink referral page](/en/coupons/starlink) and read our [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund) before ordering."
+      ],
+      "simulator": {
+        "title": "Simulator: upfront cost and when the referral credit lands",
+        "scenarios": [
+          {
+            "label": "100 Mbps Mini / V5 via referral link",
+            "lines": [
+              {
+                "label": "Rental kit (US V5 + Router Mini / UK Mini)",
+                "value": "$0 (US) or £0 (UK) rental hardware"
+              },
+              {
+                "label": "Monthly service price",
+                "value": "$38.50/mo (US) or £40/mo (UK)"
+              },
+              {
+                "label": "Referral bill credit via link",
+                "value": "$100 (US) or £40 (UK) after 2 cycles",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Due at checkout today",
+            "totalValue": "$20 + taxes (US) or £19 (UK); credit arrives after 2 cycles",
+            "note": "Values read from Nevada and London order pages; credit applies to bills after 2 cycles, not kit checkout."
+          },
+          {
+            "label": "200 Mbps / Max Standard via referral link",
+            "lines": [
+              {
+                "label": "Rental kit (Standard 4 / V4)",
+                "value": "$0 (US) or £0 (UK) rental hardware"
+              },
+              {
+                "label": "Monthly service (200 Mbps US / UK)",
+                "value": "$59.50/mo (US, $0 install) or £60/mo (UK)"
+              },
+              {
+                "label": "Referral bill credit via link",
+                "value": "$100 (US) or £40 (UK) after 2 cycles",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Due at checkout today",
+            "totalValue": "$20 + taxes (US) or £19 (UK); credit arrives after 2 cycles",
+            "note": "Return the rented hardware undamaged if you cancel; Max also includes free pro installation in UK."
+          },
+          {
+            "label": "Kit bought outside starlink.com (retail)",
+            "lines": [
+              {
+                "label": "Retail or marketplace kit",
+                "value": "Full hardware purchase upfront"
+              },
+              {
+                "label": "$0 rental or plan promo",
+                "value": "Unavailable outside official checkout"
+              },
+              {
+                "label": "Official referral reward",
+                "value": "$0 (permanently excluded)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Referral credit received",
+            "totalValue": "$0",
+            "note": "Official Starlink referral terms exclude retail stores, third-party marketplaces and transfers."
+          }
+        ]
+      },
+      "links": [
+        {
+          "label": "Open official order with 30-day return window and referral",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Checklist before you pick a kit",
+      "paragraphs": [
+        "Run through these five checks before confirming your order so the hardware matches your home layout and backup goals."
+      ],
+      "checklist": {
+        "title": "5 checks before choosing your kit",
+        "items": [
+          "I checked on starlink.com which kit comes with each speed tier at my address (V5/Mini + Router Mini vs V4/Standard 4) and whether pro installation is free.",
+          "I checked Wi-Fi layout: over 112 m² or thick walls need the Router Mini included in US/UK 100 Mbps orders, Standard's Router 3 (up to 297 m²), or Starlink mesh.",
+          "For UPS or portable battery backup, I compared the Mini's 25 to 40 W average draw against Standard's 75 to 100 W.",
+          "For wired Dual-WAN or Ethernet runs, I noted that Mini has 1 locking port (cable not included, standard RJ45 loses IP67) while Router 3 has 2 ports indoors.",
+          "I started the order from the official referral link before checkout to lock in the credit after 2 cycles and the 30-day rule to cancel and return undamaged."
+        ]
+      }
+    },
+    {
+      "heading": "Verdict: Starlink Mini or Standard?",
+      "paragraphs": [
+        "For power backup on a UPS or solar station, compact roof or balcony installs, or entry-level 100 Mbps service, the Starlink Mini is the most efficient choice. Its 25 to 40 W power draw doubles battery runtime compared to Standard, and US and UK 100 Mbps rental bundles already pair it with an indoor Router Mini to lift Wi-Fi 6 coverage up to 204 m².",
+        "For larger homes with thick walls, heavy multi-device households, or anyone who wants tri-band Wi-Fi 6 up to 297 m² and dual Ethernet ports right out of the box, Starlink Standard (V4 + Router 3) is built for full-home coverage. In both cases, cancelling the service and returning the undamaged kit within 30 days is covered under the order terms if real-world testing falls short."
+      ],
+      "emphasis": "For UPS battery backup and lightweight mounting, Starlink Mini uses less than half the power; for large-home Wi-Fi 6 coverage and wired ports straight out of the box, Standard with Router 3 is the stronger indoor setup."
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "Is Starlink Mini slower than Standard? Residential speeds are governed mainly by the plan tier you subscribe to (100 Mbps, 200 Mbps or Max) and local capacity. The main hardware gap is indoor Wi-Fi coverage (112 m² Wi-Fi 5 built-in vs 297 m² Wi-Fi 6 tri-band on Router 3) and power draw.",
+        "Can Starlink Mini cover a large house without another router? By itself, the dish's integrated Wi-Fi 5 reaches up to 112 m² and loses strength through roofs and thick walls. US and UK 100 Mbps rental kits include a Router Mini indoors (up to 204 m²), and you can add up to 3 Starlink mesh nodes.",
+        "Which kit uses less power on a UPS or backup battery? Starlink Mini averages 25 to 40 W (and supports 100 W 20 V/5 A USB-C PD with the official cable), whereas Standard averages 75 to 100 W. On the same battery, the Mini runs more than twice as long.",
+        "Can I connect an Ethernet cable and use Bypass mode on both? Yes. Mini has 1 locking Ethernet LAN port (Ethernet cable sold separately; a regular RJ45 cable voids IP67) and Router 3 has 2 locking LAN ports. Both support Bypass mode to pass the connection over Ethernet to your own router or mesh (exiting Bypass on Mini requires a factory reset) and official Starlink mesh (compatible with Router Mini, Router 3, and Gen 2 routers up to 3 nodes; incompatible with third-party mesh).",
+        "Does the referral credit work on both Starlink Mini and Standard? Yes. Ordering either kit directly on starlink.com via the referral link applies the US$ 100 (US) or £40 (UK) bill credit after two paid monthly cycles."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "you want low power draw on a UPS or portable battery, compact mounting, or the entry 100 Mbps rental bundle.",
+      "your home fits within the integrated Wi-Fi coverage or you will place the included Router Mini or a wired router indoors."
+    ],
+    "skipIf": [
+      "you want tri-band Wi-Fi 6 across a large multi-room home and dual wired LAN ports straight from one box.",
+      "your plan selection already bundles Standard 4 with free professional installation and you have reliable grid power."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Written by Bruno Luiz using Starlink's public specs, help center and order pages. We take part in the referral program and may earn a reward via the link.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-contract-cancel-refund"
+    },
+    {
+      "slug": "is-starlink-worth-it"
+    },
+    {
+      "slug": "buy-starlink-official-site-or-retailers"
+    },
+    {
+      "slug": "starlink-residential-100-200-mbps-or-max"
+    }
+  ],
+  "cta": {
+    "text": "The order opens on starlink.com via the referral link, showing the exact kit at your address and keeping the 30-day window to cancel and return undamaged hardware. The US$ 100 (US) or £40 (UK) credit lands after two paid cycles.",
+    "label": "See which kit my address gets on starlink.com",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}

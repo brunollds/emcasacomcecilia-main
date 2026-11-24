@@ -1,0 +1,334 @@
+{
+  "id": 1426,
+  "slug": "starlink-mini-or-standard-ja",
+  "translationKey": "starlink-mini-ou-padrao",
+  "locale": "ja",
+  "title": "Starlink MiniとStandard（標準キット）はどちらを選ぶ？仕様・消費電力・日本のレンタル実態を比較",
+  "seoTitle": "Starlink MiniとStandardの違い：仕様・消費電力・選び方",
+  "type": "比較ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "編集・分析",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "Starlink MiniとStandard（V4＋Router 3）を消費電力・Wi-Fi範囲・Ethernet・サイズで比較。東京注文画面のMiniレンタル＋小型ルーターの実態と7,000円紹介クレジット条件も解説。",
+  "metaDescription": "Starlink MiniとStandard（V4）の違いを公式仕様で比較。消費電力25〜40Wと75〜100W、Wi-Fi 5とWi-Fi 6、LANポート数、日本のホームプランでの提供形態と7,000円特典の条件を確認。",
+  "publishedAt": "2026年11月24日",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-mini-or-standard-ja-capa.webp",
+  "imageAlt": "黒背景パネルにSTARLINKと「MiniとStandard どちらを選ぶ」の見出しを配置し、右側にスタンド付きStarlink Standardアンテナと縦型ルーターの公式写真を載せた比較カバー画像。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "省電力（平均25〜40 W）でポータブル電源やUPSとの併用がしやすく、限られた設置スペースにも収まるのはStarlink Miniです。一方、広い住宅での単体Wi-Fiカバー（最大297 m²）やTri-BandのWi-Fi 6、有線LANの扱いやすさを重視するならStandard（V4＋Router 3）が有利になります。東京駅の住所で確認した日本の公式注文画面では「ホーム」プランにMiniレンタル＋小型ルーター（Router Mini）が初期費用JP¥0で付くため、国内の住宅契約ではMini＋Router Miniが基本構成になりますが、量販店での購入や海外利用・広い家での配線検討では両者の公式仕様差を把握しておくことが重要です。"
+      ],
+      "links": [
+        {
+          "label": "紹介リンクから自分の住所でキットと条件を確認する",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "注文画面でどちらのキットが表示されるか（日本と海外の違い）",
+      "paragraphs": [
+        "Starlinkのハードウェア選択は、利用する国やプランによって注文画面での出し方が異なります。2026年11月23日に東京駅の住所で公開注文画面を確認したところ、日本の住宅向けプランは「ホーム」（最大300+ Mbps）の1種類で、月額は通常JP¥7,100のところ50%割引のJP¥3,550/月（11月30日までのキャンペーン表示）、配送料はJP¥3,000でした。ハードウェア欄には「Miniレンタル」と「小型ルーター（Router Mini）」が初期費用JP¥0・月額キット料金JP¥0で組み込まれており、サービス解約時にレンタル機器を返却する仕組みです。",
+        "つまり日本の公式オンライン注文では、最初からMini本体に別体の小型ルーター（Router Mini）が組み合わさった状態で届きます。日本の正規販売店（ビックカメラ、コストコ、ヤマダデンキ、KDDI）でStandardキット単体を購入する選択肢や、韓国（Mini ₩160,000／Standard 4 X ₩275,000の買い切り選択）や米国（100 MbpsはV5＋Router Mini、200 MbpsやMaxはV4／Standard 4 Xのレンタル）のようにアンテナを自由に選べる・プランで切り替わる市場を比較する際にも、MiniとStandardの仕様差を知っておく必要があります。解約・返却ルールの詳細は[Starlinkの契約と解約ガイド](/ja/reviews/starlink-cancel-ja)も参照してください。"
+      ],
+      "comparisonTable": {
+        "caption": "2026年11月23日に各国の公開注文画面で確認したハードウェア提供形態の比較。実際の構成は入力した住所で必ず確認してください。",
+        "headers": [
+          "市場・プラン例",
+          "注文画面で届く主なキット",
+          "提供方式・初期機器費",
+          "解約時の扱い"
+        ],
+        "rows": [
+          [
+            "日本（東京・ホーム）",
+            "Miniレンタル＋小型ルーター（Router Mini）",
+            "レンタル（初期費用 JP¥0・月額 JP¥0）",
+            "12か月縛り表示なし。解約時は機器を返却"
+          ],
+          [
+            "米国（ネバダ・100 Mbps）",
+            "Starlink V5＋Router Mini",
+            "レンタル（初期費用 US$ 0・月額 US$ 0）",
+            "年間契約なし。解約時は機器を返却"
+          ],
+          [
+            "米国（ネバダ・200 Mbps／Max）",
+            "V4＋Router 4 ／ Standard 4 X＋Router Mini",
+            "レンタル（初期費用 US$ 0・月額 US$ 0）",
+            "年間契約なし。解約時は機器を返却"
+          ],
+          [
+            "韓国（ソウル・100Mbps／맥스）",
+            "Mini または Standard 4 X を選択",
+            "購入のみ（Mini ₩160,000 ／ Standard 4 X ₩275,000）",
+            "買い切り（30日以内の破損なし返品で返金）"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+        "alt": "東京の住所で表示されたStarlink注文画面。ホームプランJP¥3,550/月とハードウェア初期費用JP¥0のレンタル条件を表示",
+        "caption": "東京駅の住所で確認したStarlinkの公開注文画面。ホームプランはMiniレンタル（JP¥0）がセットになっています。",
+        "objectFit": "contain",
+        "aspectRatio": 0.694
+      }
+    },
+    {
+      "heading": "公式仕様で比べるStarlink MiniとStandard V4の違い",
+      "paragraphs": [
+        "見た目の大きさだけでなく、消費電力、Wi-Fi規格、ルーター一体型か分離型か、LANポートの数と防水仕様まで設計が大きく異なります。以下は[Starlink公式仕様ページ](https://www.starlink.com/specifications)で確認したMiniとStandard V4（第3世代・Router 3付属）の数値比較です。"
+      ],
+      "comparisonTable": {
+        "caption": "Starlink公式仕様に基づくStarlink MiniとStarlink Standard V4（Router 3セット）の比較。実測値ではなく公式スペック表の数値です。",
+        "headers": [
+          "仕様項目",
+          "Starlink Mini",
+          "Starlink Standard（V4＋Router 3）"
+        ],
+        "rows": [
+          [
+            "アンテナ寸法",
+            "298.5 × 259 × 38.5 mm",
+            "594 × 383 × 39.7 mm"
+          ],
+          [
+            "重量（本体／スタンド付／スタンド・ケーブル込）",
+            "1.10 kg ／ 1.16 kg（スタンド付）／ 1.53 kg（スタンド・15 m DCケーブル込）",
+            "2.9 kg ／ 3.2 kg（スタンド付）／ 3.8 kg（スタンド・15 mケーブル込）"
+          ],
+          [
+            "平均消費電力",
+            "25〜40 W（DC 12〜48 V 60 W入力／USB PD 100 W 20 V 5 A対応）",
+            "75〜100 W（AC電源・IP66 Type 4電源ユニット付属）"
+          ],
+          [
+            "ルーター構成",
+            "アンテナ内蔵（日本レンタルではRouter Miniが別途付属）",
+            "別体のRouter 3（43.4 × 298.6 × 120.4 mm、0.57 kg、IP56屋内用）"
+          ],
+          [
+            "内蔵・付属Wi-Fi規格と範囲",
+            "内蔵Wi-Fi 5（Dual Band 3×3 MU-MIMO）、最大112 m²・128台",
+            "Router 3でWi-Fi 6 Tri-Band 4×4 MU-MIMO、最大297 m²・235台"
+          ],
+          [
+            "有線LANポートとケーブル",
+            "ロック付Ethernet LAN×1（Mini専用Ethernetケーブルは別売）",
+            "Router 3にロック付Ethernet LAN×2（15 m Starlinkケーブル付属）"
+          ],
+          [
+            "耐候性能（IP等級）",
+            "IP67 Type 4（純正外RJ45直挿しでIP67非維持）",
+            "アンテナIP67 Type 4／電源IP66 Type 4／Router 3はIP56屋内"
+          ],
+          [
+            "バイパスモードとメッシュ",
+            "対応（工場出荷時リセットで解除）。Starlink製メッシュ最大3台のみ",
+            "対応。Starlink製メッシュ最大3台（他社製メッシュとは非互換）"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "starlink.comで公式ハードウェア仕様を確認する",
+          "href": "https://www.starlink.com/specifications"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Starlink Standard V4アンテナと独立型ルーターRouter 3の公式画像",
+        "caption": "Starlink Standard V4アンテナと専用ルーターRouter 3。アンテナとルーターが分離しているため室内への配線がしやすい構成です。",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "室内のWi-Fi強度・消費電力・Ethernetとメッシュの考え方",
+      "paragraphs": [
+        "実用上の目安（当サイトによる自宅測定ではなく公式仕様からの整理）として、Mini単体を屋外の屋根やベランダに置く場合、内蔵Wi-Fi 5（最大112 m²）の電波は外壁や断熱材を挟むと室内奥まで届きにくくなります。日本の「ホーム」レンタルで小型ルーター（Router Mini）が同梱されるのはこの弱点を補うためで、Router Miniは本体83.6 × 138 × 27 mm・112 gの屋内用ながらWi-Fi 6（Dual Band 2×2 MU-MIMO）で最大204 m²・235台までカバーし、1 GbpsのRJ-45 Ethernetポートを2口備えています。",
+        "停電時のバックアップ回線や車中泊・ポータブル電源運用を重視するなら、平均消費電力の差が決定打になります。Miniは25〜40 Wで済み、公式USB PDケーブルを使えば100 W（20 V/5 A）出力のUSB PD電源や12〜48 VのDC電源から直接動かせるため、同じ容量のUPSやポータブル電源でもStandard（75〜100 W）の約2倍以上長く稼働させられます。",
+        "一方、既存の自宅ルーターとDual-WANで自動フェイルオーバーを組んだり、防水を維持したまま有線LANを引き回したりする場面では注意が必要です。Miniにはロック付Ethernet LANポートが1口ありますが、Ethernetケーブルは別売りのため純正ケーブルを使わず一般的なRJ45ケーブルを挿すとIP67 Type 4の防水性能が失われます。Standard（V4）なら最初から屋内にRouter 3を置いて2口のEthernet LANを使えるため、有線接続が多い環境では配線がシンプルです。なお、どちらもアプリでバイパスモードに切り替えて手持ちのルーターやメッシュ機器へ有線接続できますが（Miniのバイパス解除には工場出荷時リセットが必要）、公式メッシュはStarlink製機器（Router Mini、Router 3、第2世代ルーターで最大3ノードまで）のみ対応し、他社製メッシュとは非互換です。各速度プランの詳細は[Starlink住宅向けプラン比較](/ja/reviews/starlink-plans-100-200-max-ja)もご覧ください。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Starlink Standardキット一式：アンテナ本体、Router 3、キックスタンド、電源ユニットとケーブル類",
+        "caption": "Starlink Standard V4キットの同梱物一式（アンテナ、Router 3、電源、15 mケーブルなど）。写真：Starlink",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "どちらを選んでも使える7,000円紹介クレジットとコスト試算",
+      "paragraphs": [
+        "公式サイト（starlink.com）の専用紹介リンクから新規契約する場合、MiniでもStandardでも住宅向け・旅行向けプランであれば紹介プログラムの対象になります。日本では、有効な契約を2請求サイクル継続してお支払いいただくと、7,000円が請求額へのクレジットとして付与されます（紹介元にも同額が付与されます）。",
+        "重要な点として、この紹介クレジットは2請求サイクルの支払い完了後に請求額へのクレジット（対象地域ではStripe経由の現金受取を選択できる場合もあります）として付与され、注文時のキット価格や配送料（東京の例では配送料JP¥3,000）から直接差し引かれることはありません。まず注文当日の支払額をそのまま把握したうえで、2か月後に戻る特典として見込むのが正確です。詳しい受け取り手順や対象条件は[Starlink紹介リンクの使い方](/ja/coupons/starlink)にまとめています。",
+        "また、日本の家電量販店やECマーケットプレイスでキットを先に購入してからアプリで有効化する方法では、starlink.com経由の初期注文とみなされず7,000円クレジットの対象外になるほか、日本の公式注文画面のJP¥0レンタルも使えません。購入先の違いによる損得は[Starlinkは公式サイトと量販店・通販のどちらで買うべきか](/ja/reviews/starlink-buy-official-or-retail-ja)で詳しく比較しています。"
+      ],
+      "simulator": {
+        "title": "シミュレーター：日本での導入パターン別コスト試算",
+        "scenarios": [
+          {
+            "label": "公式・紹介リンク経由（Miniレンタル＋Router Mini）",
+            "lines": [
+              {
+                "label": "ホーム月額（東京・50%割引適用時）",
+                "value": "JP¥3,550/月（通常 JP¥7,100）"
+              },
+              {
+                "label": "初期ハードウェア（Mini＋小型ルーター）",
+                "value": "JP¥0（レンタル・解約時返却）"
+              },
+              {
+                "label": "2請求サイクル後の紹介特典",
+                "value": "7,000円（請求クレジット付与）",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "注文当日の支払額（配送料）",
+            "totalValue": "JP¥3,000",
+            "note": "紹介クレジットは2か月経過後に請求へ反映され、当日の支払額からは引かれません。30日間のお試し返却条件が適用されます。"
+          },
+          {
+            "label": "公式・紹介リンクなし（直接注文）",
+            "lines": [
+              {
+                "label": "ホーム月額（東京・50%割引適用時）",
+                "value": "JP¥3,550/月（通常 JP¥7,100）"
+              },
+              {
+                "label": "初期ハードウェア（Mini＋小型ルーター）",
+                "value": "JP¥0（レンタル・解約時返却）"
+              },
+              {
+                "label": "2請求サイクル後の紹介特典",
+                "value": "0円（後から追加不可）"
+              }
+            ],
+            "totalLabel": "注文当日の支払額（配送料）",
+            "totalValue": "JP¥3,000",
+            "note": "月々の料金と30日間のお試し条件は同じですが、7,000円のクレジットが受け取れなくなります。"
+          },
+          {
+            "label": "量販店・EC通販でキット購入（Standard等）",
+            "lines": [
+              {
+                "label": "キット初期費用",
+                "value": "店頭販売価格を全額自己負担"
+              },
+              {
+                "label": "JP¥0レンタルの適用",
+                "value": "不可（買い切り購入のみ）"
+              },
+              {
+                "label": "紹介特典（7,000円）",
+                "value": "対象外（0円）"
+              }
+            ],
+            "totalLabel": "初期ハードウェア負担",
+            "totalValue": "キット全額＋月額別途",
+            "note": "返品も購入した店舗での手続きとなり、契約キャンセルとは別対応になります。"
+          }
+        ]
+      },
+      "links": [
+        {
+          "label": "30日間のお試し付きでstarlink.comの住所を確認する",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "注文前に確認したいチェックリスト",
+      "paragraphs": [
+        "日本のオンライン注文は基本的にMiniレンタル＋小型ルーターが選ばれますが、電源確保や配線計画を誤ると設置後に手戻りが起きます。注文確定前に次の5点を確認しておくと安心です。"
+      ],
+      "checklist": {
+        "title": "設置と注文前の5つの確認",
+        "items": [
+          "Starlinkアプリの障害物チェックを設置予定位置で実行し、木や屋根の遮蔽がないことを確認した。",
+          "Miniの屋外電源ルート（15 m DCケーブルが届くか、UPSやポータブル電源を接続するか）を確認した。",
+          "自宅の既存ルーターやNASへ有線接続する場合、Router Mini（2ポート）または別売りの純正Mini Ethernetケーブルが必要か確認した。",
+          "注文前に紹介リンクからstarlink.comを開き、表示された住所のプラン料金とレンタル条件を控えた。",
+          "30日間の無料トライアル期間（サービスキャンセル＋機器を破損なく返却する手順）を把握した。"
+        ]
+      }
+    },
+    {
+      "heading": "結論：MiniとStandardのどちらを選ぶべきか",
+      "paragraphs": [
+        "日本の住宅利用でオンラインから申し込む場合、まずは公式画面が提示するMiniレンタル＋Router Mini（JP¥0）が最も合理的です。25〜40 Wの低消費電力で停電時のバックアップやベランダ・簡易設置に向いており、屋内のWi-Fi到達範囲も付属のRouter Mini（Wi-Fi 6・最大204 m²）でしっかり補えます。30日以内に電波や通信品質が自宅環境に合わなければ、サービスを解約して破損なく返却すればキットと初月料金の返金を受けられます。",
+        "逆に、アンテナサイズが大きくても屋内にRouter 3（Wi-Fi 6 Tri-Band・最大297 m²・有線LAN 2口）を置いて家全体の無線と有線を1台でさばきたい場合や、移動利用の予定がなく常設メインでStandardを選びたい地域の条件に当てはまる場合は、Standard V4の強みが活きます。導入前の総合判断には[Starlinkは本当に買う価値があるか](/ja/reviews/starlink-worth-it-ja)もあわせて参考にしてください。"
+      ],
+      "emphasis": "停電バックアップや省スペース重視ならMini（25〜40 W）、単体での広いWi-Fiカバーと有線配線のしやすさ重視ならStandard（V4＋Router 3）。日本国内のオンライン注文ではMiniレンタル＋Router MiniがJP¥0で届くため、まず公式の紹介リンクから自宅住所の条件と30日間の返却条件を確かめてから判断するのが確実です。"
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "Starlink MiniはStandardより通信速度が遅いですか？ 東京のホームプラン（最大300+ Mbps）でもMiniレンタルが提供されており、一般的な家庭用通信には十分な帯域がありますが、大型アンテナのStandardは悪天候時や高いスループットが求められる環境で余裕が出やすい設計です。実際の速度は設置場所と時間帯で変わります。",
+        "Starlink Miniだけで広い家の中までWi-Fiが届きますか？ Mini単体の内蔵Wi-FiはWi-Fi 5（最大112 m²）で屋外設置時に壁で減衰しやすいですが、日本のオンラインレンタルでは屋内用の小型ルーター（Router Mini・Wi-Fi 6・最大204 m²）がセットで提供されるため、屋内のカバー範囲を広げられます。",
+        "7,000円の紹介クレジットはMiniとStandardのどちらでも受け取れますか？ はい。starlink.comの専用紹介リンクから新規で住宅または旅行プランを申し込めば、使用するキットの種類に関わらず対象になります。2請求サイクルの継続・支払い後に請求クレジットとして反映されます。",
+        "停電時にポータブル電源やUPSで動かすならどちらが有利ですか？ 消費電力が平均25〜40 WのStarlink Miniが圧倒的に有利です。Standard（75〜100 W）に比べて半分以下の電力で動くうえ、MiniはDC電源入力や100 W以上のUSB PD出力にも対応するため長時間運用に向いています。",
+        "どちらのキットでも手持ちのWi-Fiルーターを有線で接続できますか？ はい。Miniはロック付Ethernet LANポートを1口備えており（Ethernetケーブルは別売、通常のRJ45ケーブルを挿すとIP67防水が失われます）、StandardのRouter 3は2口を備えます。どちらも有線接続向けにバイパスモードへ切り替え可能ですが、Miniでバイパスを解除するには工場出荷時リセットが必要です。また、公式メッシュはStarlink製機器（Router Mini、Router 3、第2世代ルーターで最大3ノードまで）のみ対応し、他社製メッシュとは非互換です。"
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "停電時のUPS・ポータブル電源稼働や省スペース設置を優先し、消費電力の低いMini構成で自宅回線を試したい場合。",
+      "広い屋内でのWi-Fi 6カバレッジやRouter 3の有線LANポートを重視し、Standard V4が注文できる環境や販売ルートで常設したい場合。"
+    ],
+    "skipIf": [
+      "契約中の光回線が高速かつ安定しており、悪天候や障害時の予備回線も必要としていない場合。",
+      "設置予定場所の上空に建物や樹木の遮蔽が多く、アプリの確認で視界を確保できない場合。"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "紹介リンクからstarlink.comを開くと、公式サイトと同条件で自宅住所の提供キットとレンタル条件を確認でき、30日間の試行返却も付きます。日本では2請求サイクルの継続後に7,000円の紹介クレジットが請求へ反映されます。",
+    "label": "starlink.comで自分の住所とキットを確認",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "本ガイドはStarlink公式のハードウェア仕様ページ、ヘルプセンター、および公開注文画面の確認内容をもとに作成しました。当サイトはStarlinkの紹介プログラムに参加しており、専用リンク経由で条件を満たす契約が行われた場合、紹介報酬を受け取ることがあります。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-cancel-ja"
+    },
+    {
+      "slug": "starlink-worth-it-ja"
+    },
+    {
+      "slug": "starlink-buy-official-or-retail-ja"
+    },
+    {
+      "slug": "starlink-plans-100-200-max-ja"
+    }
+  ]
+}
