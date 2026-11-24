@@ -11,9 +11,9 @@ reviewKind: "guia"
 type: "Guia de Presentes"
 anexo_tipo: "Anexo-Moda"
 pauta_id: "NT4"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "redacao"
 bloqueado_por: null
 score_autoridade: 50
 score_conversao: 64
@@ -28,6 +28,8 @@ status_i18n: "nao-aplicavel"
 ---
 
 # Briefing de Pauta: Presente de Natal para namorada ou esposa por faixa de preço (NT4)
+
+> **Decisão do Bruno (24/11/2026): a faixa do presente sai pelo preço de tabela.** O preço que o leitor paga no dia vai à tabela com a data, mas é o preço de tabela que põe o item em "até R$ 50", "até R$ 100" ou "até R$ 150". A promoção de Black Friday não muda a faixa. Releitura depois da campanha, de 28/11 em diante: o item cuja tabela passa do teto troca de faixa ou sai. Na loja que mostra riscado o ano todo (a Barbour's riscava R$ 199,90 num kit de R$ 79,90 em 24/11), vale como tabela o preço que a loja cobra fora de campanha, lido depois da Black Friday; o riscado nunca aparece no texto.
 
 Leituras de catálogo, de 24/11/2026: [[presente-de-natal-para-namorada-ou-esposa-leituras-2411]] (na pasta do scratchpad). Artigo de várias lojas (`affiliate` em lista, sem `coupon` nem `cta`, sem loja principal), no molde da IL2. Pauta da Fila (NT4), com GO do Bruno em 24/11. Anexo: `Anexo-Moda` para a lingerie (tamanho e troca); as travas do `Anexo-Beleza` valem para a Skelt.
 
