@@ -35,3 +35,10 @@ Task 8 de `docs/superpowers/plans/2026-11-24-dica-no-site.md`.
   - `<input maxLength={200}>` com `text-base sm:text-sm`: 16 px no celular, para o Safari do iOS não dar zoom ao focar.
   - Botão "Enviar": `min-h-11 bg-laranja border-2 border-marinho font-extrabold text-marinho`.
   - Logo abaixo, o aviso fixo de privacidade, com link para `/privacidade`.
+
+## Cuidados acrescentados pelo Gemini depois da Fase 2 (24/11)
+
+- **Cartão sem `card.code`** (Proton, Starlink e o item excluído, como a fórmula de 0 a 12 meses da Nestlé Nutre):
+  - borda sólida `border-2 border-marinho`, sem `.recorte` e sem `<Scissors />`, como em `/cupons`, onde a tesoura só aparece com código copiável;
+  - mostra o `card.codeLabel`, o `card.note` e os `card.warnings`, com o `CouponStoreLink`.
+- **`DicaLauncher.tsx`:** o snapshot do servidor do `useSyncExternalStore` devolve `null`, como o `ConsentBanner`. Assim nenhum HTML entra no prerender de `/`, `/cupons`, `/reviews` e `/blackfriday`.
