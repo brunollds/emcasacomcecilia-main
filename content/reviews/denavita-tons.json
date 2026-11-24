@@ -1,0 +1,197 @@
+{
+  "id": 1313,
+  "slug": "denavita-tons",
+  "locale": "pt",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "23 de novembro de 2026",
+  "publishedAtISO": "2026-11-23",
+  "draft": false,
+  "isNew": true,
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "coupon": "EMCASA",
+  "affiliate": "denavita",
+  "type": "Guia de Produto",
+  "title": "Denavita Tons: o que tem no rótulo, como a loja manda tomar e o preço por dia",
+  "seoTitle": "Denavita Tons: o que tem no rótulo e quanto custa",
+  "description": "Veja o que o rótulo do Tons da Denavita informa sobre cada cápsula, como a loja manda tomar e quanto custa por dia no pote avulso e nas opções por quantidade, com o EMCASA.",
+  "metaDescription": "EMCASA dá 10% OFF na Denavita. Veja o que o rótulo do Tons informa, como a loja manda tomar e o preço por dia com o código.",
+  "image": "/images/reviews/denavita/denavita-tons-capa.webp",
+  "imageAlt": "Pote do suplemento Denavita Tons, com tampa cobre e rótulo dourado, sobre fundo branco.",
+  "cta": {
+    "text": "Se o Tons faz sentido para você, abra o site oficial da Denavita pelo botão. O código EMCASA entra no campo “Tem um cupom?” do checkout que o botão Finalizar compra abre.",
+    "label": "Ir para a Denavita",
+    "url": "https://denavita.gogroup.com.br/emcasacomcecilia",
+    "sponsored": true
+  },
+  "editorialNote": "Ninguém da equipe usou o Tons: o texto segue a ficha e o rótulo. Comissão possível.",
+  "relatedArticles": [
+    {
+      "slug": "denavita-e-boa"
+    },
+    {
+      "slug": "laranja-moro-denavita"
+    },
+    {
+      "slug": "denavita-e-confiavel"
+    },
+    {
+      "slug": "cupom-denavita-como-usar"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "você já escolheu o Tons e quer saber o que tem em cada cápsula antes de comprar.",
+      "você vai usar um pote por mês e aceita conferir a validade de cada um na chegada."
+    ],
+    "skipIf": [
+      "você procura uma indicação de uso ou um prazo de resultado; a ficha não traz nenhum dos dois.",
+      "você tem alergia a gelatina ou a algum componente e ainda não confirmou na embalagem."
+    ]
+  },
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "O Tons, da Denavita, vem em pote de 30 cápsulas, com uma cápsula por dia junto de uma refeição, segundo a loja. A tabela lista coenzima Q10, proantocianidinas de pinho marítimo e vitamina A. A página não informa prazo para efeito. O EMCASA dá 10% OFF no site oficial."
+      ]
+    },
+    {
+      "heading": "O que tem em uma cápsula do Tons",
+      "paragraphs": [
+        "A tabela nutricional da página do [Tons – Equilíbrio](https://www.denavita.com.br/products/tons) usa a porção de uma cápsula, de 0,7 g."
+      ],
+      "comparisonTable": {
+        "caption": "Tabela nutricional publicada pela Denavita para o Tons, por cápsula.",
+        "headers": [
+          "Componente na tabela",
+          "Por cápsula"
+        ],
+        "rows": [
+          [
+            "Coenzima Q10",
+            "200 mg"
+          ],
+          [
+            "Proantocianidinas (de Pinus pinaster)",
+            "50 mg"
+          ],
+          [
+            "Vitamina A",
+            "800 µg (100% do VD)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A lista de ingredientes traz coenzima Q10, extrato de casca de pinho marítimo (Pinus pinaster Aiton), acetato de retinol e os antiumectantes dióxido de silício, fosfato tricálcico e talco. A cápsula é de gelatina, e a loja declara que o produto não contém glúten. Nem a tabela nem o rótulo lidos trazem aviso de alérgenos ou “pode conter”; quem tem alergia confirma na embalagem.",
+        "Os miligramas não fecham entre as imagens da página. O frasco que a página mostra agora diz “30 cápsulas de 500 mg” e “peso líquido 15 g”, e a tabela usa porção de 0,7 g; na foto do catálogo abaixo, o rótulo diz 700 mg e 21 g. Vale conferir o que vem na embalagem que você receber."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/denavita/cupom-denavita-primeira-compra-tons.webp",
+          "alt": "Pote de Tons da Denavita em fundo branco, com a frase “Vitamina A contribui para a manutenção da pele” e a indicação de 50 mg de Pinus pinaster e 200 mg de coenzima Q10",
+          "caption": "O pote do Tons, em foto do catálogo da loja. Foto: Denavita.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://denavita.gogroup.com.br/emcasacomcecilia"
+        }
+      ]
+    },
+    {
+      "heading": "Para que serve, funciona e é bom?",
+      "paragraphs": [
+        "O rótulo da foto traz a frase “Vitamina A contribui para a manutenção da pele” e a faixa “Skin care”. Fora isso, a ficha que lemos dá composição, dose e advertências, e não informa resultado esperado nem prazo para efeito.",
+        "Por isso este guia não responde se o Tons funciona: o que o rótulo permite dizer é o que está na tabela. Quanto ao “é bom” e à resenha, o guia lê o rótulo e a ficha, sem avaliações de clientes. A página também não traz bula; o que existe é o rótulo e as advertências da loja."
+      ]
+    },
+    {
+      "heading": "Como a loja manda tomar o Tons",
+      "paragraphs": [
+        "A página orienta ingerir 1 cápsula ao dia, junto de uma refeição, sem fixar horário. Para guardar, a loja pede local seco, arejado e ao abrigo da luz; depois de aberto, consumir preferencialmente em 30 dias.",
+        "A loja avisa que o produto não deve ser consumido por gestantes, lactantes e crianças, e que quem tem alergia a algum componente ou condição de saúde pré-existente deve consultar médico ou nutricionista antes do uso."
+      ]
+    },
+    {
+      "heading": "Quanto dura o pote e quanto custa por dia",
+      "paragraphs": [
+        "Com uma cápsula ao dia, o pote de 30 dura 30 dias. A opção de 2 unidades aparece com frete grátis na página."
+      ],
+      "comparisonTable": {
+        "caption": "Preços à vista da página em 23/11, sem frete. Conta pela porção de uma cápsula por dia; a coluna do código é 10% sobre o preço da página.",
+        "headers": [
+          "Opção",
+          "Total",
+          "Por dia, sem o código",
+          "Por dia, com o EMCASA"
+        ],
+        "rows": [
+          [
+            "[1 unidade](https://www.denavita.com.br/products/tons)",
+            "R$ 75,90",
+            "R$ 2,53",
+            "R$ 2,28 (total de R$ 68,31)"
+          ],
+          [
+            "[2 unidades](https://www.denavita.com.br/products/tons)",
+            "R$ 141,90",
+            "R$ 2,37",
+            "R$ 2,13 (total de R$ 127,71)"
+          ],
+          [
+            "[3 unidades](https://www.denavita.com.br/products/tons)",
+            "R$ 208,90",
+            "R$ 2,32",
+            "R$ 2,09 (total de R$ 188,01)"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "O EMCASA tirou 10% no checkout que testamos, num carrinho com o Tons e outros produtos; nas opções de 2 e 3 unidades, a conta é de 10% sobre o preço da página, então confira a linha “Cupom de desconto” no resumo antes de pagar. Copie o código na página do [cupom Denavita](/cupons/denavita)."
+      ]
+    },
+    {
+      "heading": "Tons: o que a ficha permite concluir",
+      "emphasis": "Na conta por dia, a opção de 3 unidades é a mais baixa para quem já escolheu o Tons, porque o pote sai por R$ 69,63 contra R$ 75,90 do avulso, desde que a validade dos potes permita usar um por mês.",
+      "paragraphs": [
+        "A ficha dá a composição e a dose de uma cápsula por dia; não dá indicação de uso nem prazo de resultado. Quem ainda não escolheu o suplemento tem na tabela apenas os três componentes e as quantidades, e a decisão fica fora do que este guia afirma."
+      ]
+    },
+    {
+      "heading": "Antes de comprar",
+      "paragraphs": [
+        "A faixa da Denavita anuncia frete grátis a partir de R$ 199,90, conforme as regras da loja. As parcelas aparecem com números diferentes: 3x sem juros no preço do Tons, até 10x no bloco do produto e até 12x na faixa do site; confirme no carrinho. A loja aceita desistência em até 7 dias, com o produto lacrado, e problema com o pedido em até 30 dias. Veja também [Denavita é confiável?](/reviews/denavita-e-confiavel), a conta dos outros potes em [Denavita é boa?](/reviews/denavita-e-boa) e o produto vizinho em [Laranja Moro Denavita](/reviews/laranja-moro-denavita)."
+      ],
+      "checklist": {
+        "title": "Antes de pagar",
+        "items": [
+          "Confira no rótulo do pote que chegar a porção e os miligramas.",
+          "Se tem alergia a gelatina ou a algum componente, confirme na embalagem.",
+          "Na opção de 2 ou 3 unidades, confira a validade de cada pote.",
+          "Aplique o EMCASA no campo “Tem um cupom?” e confira a linha Cupom de desconto no resumo."
+        ]
+      }
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o cupom da Denavita? O cupom da Denavita é o EMCASA, com 10% OFF no site oficial, em todas as formas de pagamento. Digite no campo “Tem um cupom?” do checkout aberto pelo botão Finalizar compra e confira a linha Cupom de desconto.",
+        "O Tons funciona e para que serve? A ficha não informa resultado nem prazo. O que ela traz é a composição, a dose de uma cápsula ao dia e as advertências; o rótulo da foto cita a vitamina A e a manutenção da pele.",
+        "Como tomar o Tons? Uma cápsula ao dia, junto de uma refeição, segundo a loja. Depois de aberto, a loja manda consumir preferencialmente em 30 dias.",
+        "O Tons tem bula? A página não traz bula. O que existe é o rótulo e as advertências da loja.",
+        "O Tons tem registro na Anvisa? Nem a página nem as imagens que lemos citam a Anvisa ou trazem número de notificação. Confira o rótulo do pote que chegar.",
+        "Quanto dura um pote? Com uma cápsula por dia, 30 dias. As opções de 2 e 3 unidades duram 60 e 90 dias, e cada pote aberto deve ser consumido preferencialmente em 30 dias."
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-23"
+}

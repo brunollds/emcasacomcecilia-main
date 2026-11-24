@@ -62,7 +62,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A BOLD 21 g é a barra de 60 g com 21 g de proteína e a mais barata por proteína entre as barras da marca. A 14 g é a barra de 40 g, com 14 g de proteína e menos calorias por unidade. O Crunch fica no meio, com 18 g, e o Wafer e o Tube trazem 10 g. Todas contêm glúten e lactose."
+        "A BOLD 21 g é a barra de 60 g, com 21 g de proteína; a 14 g é a de 40 g, com menos calorias por unidade. O Crunch traz 18 g, e o Wafer e o Tube, 10 g. Todas contêm glúten e lactose, e o preço por grama de proteína muda conforme o sabor."
       ]
     },
     {
@@ -80,7 +80,7 @@
         }
       ],
       "comparisonTable": {
-        "caption": "Valores por barra, das tabelas nutricionais de cada sabor. No BOLD 14 g, a página do Cookies Black não traz a tabela; o Tube entra só com Pistache e Speculoos.",
+        "caption": "Valores por barra, das tabelas nutricionais de cada sabor. O Tube entra só com Pistache e Speculoos: no Avelã, no Paçoca e na Trufa de Chocolate, a tabela da página é a mesma nos três.",
         "headers": [
           "Linha",
           "Barra",
@@ -134,6 +134,200 @@
       }
     },
     {
+      "heading": "Quais sabores existem em cada linha",
+      "paragraphs": [
+        "O sabor muda de linha para linha, e a mesma palavra no nome não quer dizer o mesmo tamanho de barra. O Pistache, por exemplo, só existe no Tube, de 40 g e 10 g de proteína; a linha de 21 g não tem Pistache. O Mousse de Maracujá só existe na 21 g, e a 14 g não o tem."
+      ],
+      "comparisonTable": {
+        "caption": "A loja informa: sabores do catálogo de cada linha, sem as caixas mistas. Use os filtros para ver uma linha por vez.",
+        "headers": [
+          "Sabor",
+          "BOLD 21 g",
+          "BOLD 14 g",
+          "Crunch",
+          "Wafer",
+          "Tube"
+        ],
+        "rows": [
+          [
+            "Bombom Crocante",
+            "Sim",
+            "Sim",
+            "Não",
+            "Não",
+            "Não"
+          ],
+          [
+            "Chocomalte",
+            "Sim",
+            "Sim",
+            "Não",
+            "Não",
+            "Não"
+          ],
+          [
+            "Cookies Black",
+            "Sim",
+            "Sim",
+            "Não",
+            "Não",
+            "Não"
+          ],
+          [
+            "Cookies & Cream",
+            "Sim",
+            "Sim",
+            "Sim",
+            "Não",
+            "Não"
+          ],
+          [
+            "Doce de Leite",
+            "Sim",
+            "Sim",
+            "Não",
+            "Não",
+            "Não"
+          ],
+          [
+            "Trufa de Chocolate",
+            "Sim",
+            "Sim",
+            "Não",
+            "Não",
+            "Sim"
+          ],
+          [
+            "Mousse de Maracujá",
+            "Sim",
+            "Não",
+            "Não",
+            "Não",
+            "Não"
+          ],
+          [
+            "Brigadeiro",
+            "Não",
+            "Não",
+            "Sim",
+            "Não",
+            "Não"
+          ],
+          [
+            "Morango & Chantilly",
+            "Não",
+            "Não",
+            "Sim",
+            "Não",
+            "Não"
+          ],
+          [
+            "Speculoos",
+            "Não",
+            "Não",
+            "Não",
+            "Sim",
+            "Sim"
+          ],
+          [
+            "Avelã",
+            "Não",
+            "Não",
+            "Não",
+            "Sim",
+            "Sim"
+          ],
+          [
+            "Chocolate Branco",
+            "Não",
+            "Não",
+            "Não",
+            "Sim",
+            "Não"
+          ],
+          [
+            "Chocolate ao Leite",
+            "Não",
+            "Não",
+            "Não",
+            "Sim",
+            "Não"
+          ],
+          [
+            "Pistache",
+            "Não",
+            "Não",
+            "Não",
+            "Não",
+            "Sim"
+          ],
+          [
+            "Paçoca",
+            "Não",
+            "Não",
+            "Não",
+            "Não",
+            "Sim"
+          ]
+        ],
+        "filters": [
+          {
+            "label": "21 g",
+            "rows": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "label": "14 g",
+            "rows": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "label": "Crunch",
+            "rows": [
+              3,
+              7,
+              8
+            ]
+          },
+          {
+            "label": "Wafer",
+            "rows": [
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "label": "Tube",
+            "rows": [
+              5,
+              9,
+              10,
+              13,
+              14
+            ]
+          }
+        ]
+      },
+      "postParagraphs": [
+        "O rótulo também muda de um sabor para outro. O Chocomalte 21 g declara cevada em “contém”, por causa do malte. O Wafer traz trigo, e o Tube Pistache declara amendoim, pistache e trigo, além de leite e soja. A leitura dos alérgenos por linha está no guia [Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo](/reviews/barra-bold-saudavel-rotulo)."
+      ]
+    },
+    {
       "heading": "BOLD 21 g ou 14 g: proteína, calorias e preço",
       "paragraphs": [
         "A diferença começa no tamanho. A 21 g pesa 60 g e declara 21 g de proteína; a 14 g pesa 40 g e declara 14 g. A proporção de proteína no peso da barra é a mesma, 35%, e muda o quanto você leva de uma vez.",
@@ -179,7 +373,7 @@
         "Todos os sabores da 21 g declaram 21 g de proteína por barra de 60 g. O que muda é caloria, açúcar, gordura e fibra."
       ],
       "comparisonTable": {
-        "caption": "Valores por barra de 60 g, das tabelas de cada sabor. As gorduras saturadas ficaram de fora: a página do Chocomalte traz um valor maior que a gordura total.",
+        "caption": "Valores por barra de 60 g, das tabelas de cada sabor. As gorduras saturadas ficaram de fora: a página do Chocomalte traz três valores diferentes, 6,3 g na tabela em texto, 6,5 g na foto do rótulo e um terceiro, maior que a gordura total, no texto abaixo da tabela. Na foto, o Chocomalte também mostra 5,4 g de açúcares totais e 2,1 g de fibra.",
         "headers": [
           "Sabor",
           "Calorias",
@@ -251,10 +445,10 @@
     {
       "heading": "Tabela sabor a sabor: BOLD 14 g",
       "paragraphs": [
-        "A 14 g tem barra de 40 g e 14 g de proteína em todos os sabores. O Cookies Black existe nesta linha, mas a página dele não traz a tabela nutricional, e por isso não entra abaixo."
+        "A 14 g tem barra de 40 g e 14 g de proteína em todos os sabores. O Cookies Black traz tabela em texto na página, mas a foto do rótulo na galeria mostra o do Chocomalte, de 161 kcal; por isso, confira a embalagem desse sabor."
       ],
       "comparisonTable": {
-        "caption": "Valores por barra de 40 g, das tabelas de cada sabor.",
+        "caption": "Valores por barra de 40 g, das tabelas de cada sabor. No Cookies Black, vale a tabela em texto da página, que diverge da foto do rótulo.",
         "headers": [
           "Sabor",
           "Calorias",
@@ -279,6 +473,14 @@
             "3,6 g",
             "6,9 g",
             "1,4 g"
+          ],
+          [
+            "Cookies Black",
+            "157 kcal",
+            "11 g",
+            "2,5 g",
+            "7,1 g",
+            "2,6 g"
           ],
           [
             "Cookies & Cream",
@@ -310,7 +512,7 @@
     {
       "heading": "Tabela sabor a sabor: Crunch, Wafer e Tube",
       "paragraphs": [
-        "O Crunch declara 18 g de proteína por barra de 60 g; o Wafer e o Tube, 10 g por barra de 40 g. No Tube, as páginas do Avelã, do Paçoca e da Trufa de Chocolate trazem a mesma tabela nos três sabores; por isso o Tube entra só com Pistache e Speculoos."
+        "O Crunch declara 18 g de proteína por barra de 60 g; o Wafer e o Tube, 10 g por barra de 40 g. No Tube, as páginas do Avelã, do Paçoca e da Trufa de Chocolate trazem a mesma tabela em texto nos três sabores, e as fotos dos rótulos mostram números diferentes por sabor; por isso o Tube entra só com Pistache e Speculoos."
       ],
       "comparisonTable": {
         "caption": "Valores por barra, das tabelas de cada sabor.",
@@ -469,13 +671,14 @@
       "postParagraphs": [
         "Com o código, a barra sai a R$ 11,93 na 21 g e no Crunch, R$ 8,60 na 14 g e R$ 7,93 no Wafer e no Tube. A ordem entre as linhas não muda.",
         "No mesmo dia, a caixa de Doce de Leite 14 g estava a R$ 99,00, e as outras de 14 g, a R$ 129,00. É o preço do dia desse sabor, e a tabela acima usa o das demais. A R$ 99,00, a caixa dá R$ 58,93 por 100 g de proteína, sem código.",
+        "Em 23/11, na Black Friday da loja, as caixas de 21 g custavam de R$ 149 a R$ 159 e as de 14 g, de R$ 99 a R$ 109, conforme o sabor; Crunch, a R$ 159; Wafer, de R$ 93 a R$ 109; Tube, de R$ 89 a R$ 109. Com a 21 g e a 14 g nessas faixas, a diferença por proteína entre as duas encolhe, e vale refazer a conta com o preço do sabor que você vai comprar.",
         "Quem compara com outras marcas pode ver o guia [barra de proteína: qual escolher](/reviews/barra-de-proteina-qual-escolher)."
       ]
     },
     {
       "heading": "Caixa avulsa, mista ou assinatura",
       "paragraphs": [
-        "A compra avulsa tem o preço da tabela acima, e a loja vende as linhas em caixas por sabor e em caixas mistas. A Caixa Mista da 21 g e a da 14 g seguem o preço da linha. A Caixa Mix, que junta linhas diferentes, custa R$ 159,00, ou R$ 13,25 por barra; como mistura proteínas diferentes, não calculamos o preço por proteína.",
+        "A compra avulsa tem o preço da tabela acima, e a loja vende as linhas em caixas por sabor e em caixas mistas. A Caixa Mista da 21 g e a da 14 g seguem o preço da linha. A Caixa Mix, que junta linhas diferentes, custava R$ 139,00 na Black Friday da loja, ou R$ 11,58 por barra; como mistura proteínas diferentes, não calculamos o preço por proteína.",
         "A assinatura da loja, o BOLD Club, tem entrega mensal ou a cada dois meses. A loja informa 15% sobre os produtos e permanência mínima de dois ciclos de cobrança depois do prazo de arrependimento. No Wafer, o preço de assinatura da página, R$ 114,90, fica cerca de 3% abaixo da compra única, não 15%. Os preços de assinatura por caixa estão na tabela:"
       ],
       "comparisonTable": {
@@ -521,13 +724,13 @@
       },
       "postParagraphs": [
         "No nosso teste, o código valeu numa caixa de 21 g da assinatura: de R$ 152,00 para R$ 121,60. Não testamos as outras linhas na assinatura.",
-        "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo, e um por pedido. O nome tem 15, e o desconto do nosso teste foi de 20%, dentro da Pré-Black da loja, que vai até 22/11. O percentual pode mudar depois da campanha, então confira o resumo antes de pagar."
+        "O [cupom BOLD](/cupons/bold) CECILIA15 vale no site oficial, para cliente novo e antigo, e um por pedido. O nome tem 15, e o desconto dos nossos testes foi de 20%, na Pré-Black e na Black Friday da loja; no mais recente, o Cookies Black 14 g foi de R$ 109,00 para R$ 87,20. O percentual pode mudar com as campanhas, então confira o resumo antes de pagar."
       ]
     },
     {
       "heading": "Glúten, lactose e quantas por dia",
       "paragraphs": [
-        "O alerta de alérgicos de todos os sabores diz “contém lactose” e “contém glúten”, com leite e soja e uma lista de “pode conter”. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde. Nas páginas que trazem a recomendação, a loja indica uso adulto, a partir de 19 anos, de até duas unidades ao dia ou conforme orientação profissional. O açúcar e os adoçantes das barras estão no guia [Barra BOLD é boa?](/reviews/barra-bold-e-boa)."
+        "O alerta de alérgicos de todos os sabores diz “contém lactose” e “contém glúten”, com leite e soja e uma lista de “pode conter”. Quem tem doença celíaca ou intolerância à lactose segue o rótulo da embalagem e o profissional de saúde. Nas páginas que trazem a recomendação, a loja indica uso adulto, a partir de 19 anos, de até duas unidades ao dia ou conforme orientação profissional. O açúcar, os adoçantes e o “pode conter” de cada linha estão no guia [Barra BOLD é saudável? Açúcar, calorias, glúten e lactose pelo rótulo](/reviews/barra-bold-saudavel-rotulo)."
       ]
     },
     {
@@ -537,8 +740,11 @@
         "Quantas calorias tem a barra BOLD? Depende da linha e do sabor: de 151 a 161 kcal na 14 g, de 215 a 239 kcal na 21 g, de 209 a 215 kcal no Crunch, de 192 a 202 kcal no Wafer e de 183 a 186 kcal no Tube, nos sabores com tabela.",
         "Qual barra BOLD tem mais proteína? A BOLD 21 g, com 21 g por barra. O Crunch declara 18 g, a 14 g declara 14 g, e o Wafer e o Tube, 10 g cada.",
         "Qual sabor da barra BOLD tem menos açúcar? Nas tabelas usadas neste guia, o Bombom Crocante 14 g tem o menor valor, 1,6 g de açúcares totais; o maior é o do Chocomalte 21 g, com 5,3 g.",
-        "Quantas barras vêm na caixa da BOLD? As caixas das cinco linhas têm 12 unidades."
+        "Quantas barras vêm na caixa da BOLD? As caixas das cinco linhas têm 12 unidades.",
+        "A barra BOLD tem sabor Pistache? Tem, só no Tube, de 40 g e 10 g de proteína. A linha de 21 g não tem Pistache.",
+        "Quais sabores tem a barra BOLD de 14 g? Bombom Crocante, Chocomalte, Cookies Black, Cookies & Cream, Doce de Leite e Trufa de Chocolate. O Mousse de Maracujá existe só na linha de 21 g."
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-11-23"
 }
