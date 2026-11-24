@@ -26,6 +26,8 @@ export interface ReviewContentSectionsProps {
   noteLabels: EditorialNoteLabels;
   // O que entra antes ou depois de uma seção, pelo id dela: os banners de campanha da loja.
   slots?: Record<string, { before?: ReactNode; after?: ReactNode }>;
+  // O que divide a linha com o título da primeira seção, onde o texto começa: o "Ouvir" do artigo.
+  headingAction?: ReactNode;
 }
 
 function getStepNumber(heading?: string): string | null {
@@ -62,11 +64,12 @@ export function ReviewContentSections({
   locale = 'pt',
   noteLabels,
   slots = {},
+  headingAction,
 }: ReviewContentSectionsProps): React.ReactElement | null {
   const visibleSections = sections.filter((section) => !filterHeadings.includes(section.heading || ''));
 
   if (visibleSections.length === 0) {
-    return null;
+    return headingAction ? <div className="flex justify-end">{headingAction}</div> : null;
   }
 
   return (
@@ -80,6 +83,8 @@ export function ReviewContentSections({
         const sectionIdNotes = notes.filter((note) => note.anchor === sectionId);
         const lineAnchoredNotes = notes.filter((note) => note.anchor && isLineAnchor(note.anchor));
         const slot = sectionId ? slots[sectionId] : undefined;
+        const action = isFirst ? headingAction : undefined;
+        const headingText = stepNumber && section.heading ? removeStepPrefix(section.heading) : section.heading;
 
         return (
           <Fragment key={section.heading || `section-${index}`}>
@@ -97,9 +102,19 @@ export function ReviewContentSections({
                     </span>
                   )}
                   <div className={`${stepNumber ? 'flex-1' : ''}`}>
-                    <SectionHeadingReveal as="h2" variant="d2" className={stepNumber ? 'mb-0 pt-1' : 'mb-5'}>
-                      {stepNumber ? removeStepPrefix(section.heading) : section.heading}
-                    </SectionHeadingReveal>
+                    {action ? (
+                      // O título encolhe para o botão caber ao lado; com o áudio tocando (dois botões), eles descem.
+                      <div className={`flex flex-wrap items-center justify-between gap-x-3 gap-y-2 ${stepNumber ? '' : 'mb-5'}`}>
+                        <SectionHeadingReveal as="h2" variant="d2" className={`mb-0 min-w-0 flex-1 basis-[10ch] ${stepNumber ? 'pt-1' : ''}`}>
+                          {headingText}
+                        </SectionHeadingReveal>
+                        {action}
+                      </div>
+                    ) : (
+                      <SectionHeadingReveal as="h2" variant="d2" className={stepNumber ? 'mb-0 pt-1' : 'mb-5'}>
+                        {headingText}
+                      </SectionHeadingReveal>
+                    )}
                     {sectionIdNotes.length > 0 && (
                       <div className="mt-3 flex flex-wrap gap-2">
                         {sectionIdNotes.map((note) => (
@@ -111,6 +126,7 @@ export function ReviewContentSections({
                 </div>
               )}
 
+              {action && !section.heading ? <div className="mb-4 flex justify-end">{action}</div> : null}
               <MarginNoteRail notes={lineAnchoredNotes} sectionIndex={index} noteLabels={noteLabels} variant="d2">
                 <ReviewSectionContent
                   section={section}

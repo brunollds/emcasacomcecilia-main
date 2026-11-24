@@ -1,7 +1,6 @@
 import { Fragment } from 'react';
 import Link from 'next/link';
 import { ChevronRight, Clock, PlayCircle, ShieldCheck, Star } from 'lucide-react';
-import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { LanguageSwitcher } from '@/components/shared/LanguageSwitcher';
 import { ChangelogDetails, EditorialNotePill } from '@/components/editorial';
 import type { EditorialNoteLabels } from '@/components/editorial/EditorialNotePill';
@@ -9,7 +8,6 @@ import { FOCUS_RING } from '@/components/ui/focusRing';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
 import { formatDate, type PersonRef, type Review, type ReviewViewModel } from '@/lib/content';
 import type { Locale } from '@/lib/i18n/locales';
-import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import { ReviewHeroImage } from '../ReviewHeroImage';
 import { getDisclosureLabel, type ArticleCopy, type TemplateUi } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
@@ -28,7 +26,6 @@ export interface ArticleHeaderProps {
   couponCopyLocale: CouponCopyLocale;
   breadcrumbs: Array<{ name: string; href: string }>;
   languageLinks: Partial<Record<Locale, string>>;
-  speechText: string;
   readTime: number;
   unanchoredNotes: NonNullable<Review['notes']>;
   reviewImage: string;
@@ -44,10 +41,10 @@ export interface ArticleHeaderProps {
 }
 
 // Topo do artigo no visual da D2: trilha, tipo e categoria, título com o marca-texto, introdução em serifa,
-// a linha de dados, a transparência numa linha, o recorte do código (artigo com loja) e a foto.
+// a linha de dados, a transparência numa linha, o recorte do código (artigo com loja) e a foto. O "Ouvir" fica no
+// título da primeira seção do corpo (ReviewContentSections), para a linha de dados caber numa linha no celular.
 export function ArticleHeader({
-  review, kind, kindLabel, copy, ui, noteLabels, couponCopyLocale, breadcrumbs, languageLinks, speechText,
-  readTime, unanchoredNotes, reviewImage, reviewImageAlt, isPortraitHero, hasProductRating, videoPageUrl,
+  review, kind, kindLabel, copy, ui, noteLabels, couponCopyLocale, breadcrumbs, languageLinks, readTime, unanchoredNotes, reviewImage, reviewImageAlt, isPortraitHero, hasProductRating, videoPageUrl,
   youtubeEmbedUrl, storeBlock, storeBlocks = [], storeLabel,
 }: ArticleHeaderProps): React.ReactElement {
   const authors = review.authors?.length ? review.authors : [review.author ?? CECILIA];
@@ -99,7 +96,7 @@ export function ArticleHeader({
         {review.description}
       </p>
 
-      <div className="mt-3.5 flex flex-wrap items-center gap-x-2.5 gap-y-1.5 text-[13px] font-semibold text-marinho-suave md:mt-5 md:gap-x-4 md:text-sm">
+      <div className="mt-2.5 flex flex-wrap items-center gap-x-2.5 gap-y-1 text-xs font-semibold text-marinho-suave md:mt-5 md:gap-x-4 md:text-sm">
         <span className="font-extrabold text-marinho">
           {authors.map((author, index) => (
             <Fragment key={author.name}>
@@ -136,21 +133,10 @@ export function ArticleHeader({
             <span className="sr-only">{copy.ratingLabel(stars)}</span>
           </span>
         )}
-        <div className="inline-flex items-center gap-2.5">
-          <span className="inline-flex items-center gap-1">
-            <Clock aria-hidden="true" className="h-3.5 w-3.5 md:h-4 md:w-4" />
-            {ui.readTime(readTime)}
-          </span>
-          <TextToSpeechButton
-            text={speechText}
-            label={getShellCopy(couponCopyLocale).listenAudio}
-            shortLabel={copy.listenShort}
-            pauseLabel={copy.listenPause}
-            resumeLabel={copy.listenResume}
-            stopLabel={copy.listenStop}
-            variant="d2"
-          />
-        </div>
+        <span className="inline-flex items-center gap-1">
+          <Clock aria-hidden="true" className="h-3.5 w-3.5 md:h-4 md:w-4" />
+          {ui.readTime(readTime)}
+        </span>
       </div>
 
       {review.changelog && review.changelog.length > 0 && (

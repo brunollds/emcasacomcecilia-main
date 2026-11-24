@@ -293,8 +293,9 @@ O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerd
   monta. `ArticleHeader`: trilha ("Guias & Análises" e, no artigo em PT de uma loja com subpágina `/reviews/loja/<marca>`,
   o nome da marca na trilha e no `BreadcrumbList`) com o selo do tipo em linha logo depois da `<nav>`, título (`37px` no
   celular, `60px` no computador), subtítulo (`13px` no celular, `16px` no computador), linha de dados (autor, datas de
-  publicação e atualização abreviadas no celular, nota quando há e tempo de leitura agrupado com o "Ouvir" curto
-  `listenShort`, `articleCopy.ts`), seletor de idiomas (`LanguageSwitcher`) recolhido em uma linha no celular
+  publicação e atualização abreviadas no celular, nota quando há e tempo de leitura, em `12px` no celular para caber
+  numa linha; o "Ouvir" fica no título da primeira seção do corpo, pelo `headingAction` do `ReviewContentSections`,
+  com o rótulo curto `listenShort` no celular), seletor de idiomas (`LanguageSwitcher`) recolhido em uma linha no celular
   (`aria-expanded`) e aberto em linha no computador com uma única lista de `<a hreflang>` no HTML inicial, transparência
   numa linha (`<details>`), o recorte do topo e a foto. A foto antes
   do título ficou no ar de 03/11 (#518) até a volta, a pedido do Bruno.

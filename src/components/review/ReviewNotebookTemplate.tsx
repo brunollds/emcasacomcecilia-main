@@ -1,4 +1,5 @@
 import { SectionLinkButton, SectionHeadingReveal, EditorialReveal, EditorialAmbientBackground } from '@/components/editorial';
+import TextToSpeechButton from '@/components/TextToSpeechButton';
 import { asSentence, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { generateSectionIds, type Review, type ReviewViewModel } from '@/lib/content';
@@ -13,6 +14,7 @@ import { resolveReviewLocale } from '@/lib/content/review-i18n';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 import { withDeliveredArticleMedia } from '@/lib/sectionMedia';
 import type { Locale } from '@/lib/i18n/locales';
+import { getShellCopy } from '@/lib/i18n/shellDictionary';
 import type { ArticleStoreBlock } from '@/lib/articleStore';
 import { getReviewStoreSlugs, getSingleStoreSlug, isMultiStoreReview, type MultiStores } from '@/lib/reviewStores';
 import type { ShelfCardArticle } from '@/lib/reviewsShelf';
@@ -88,6 +90,18 @@ export function ReviewNotebookTemplate({
   // Um `reviewKind` fora do enum (a Mini Me 2.0 tem "product") sempre caiu no selo de editorial.
   const kindLabel = copy.kindLabel[kind] ?? copy.kindLabel.editorial;
   const speechText = [review.title, review.description, plainTextBody].filter(Boolean).join(' ');
+  // O "Ouvir" divide a linha com o título da primeira seção do corpo, onde o texto começa.
+  const listenButton = (
+    <TextToSpeechButton
+      text={speechText}
+      label={getShellCopy(couponCopyLocale).listenAudio}
+      shortLabel={copy.listenShort}
+      pauseLabel={copy.listenPause}
+      resumeLabel={copy.listenResume}
+      stopLabel={copy.listenStop}
+      variant="d2"
+    />
+  );
   const readTime = estimateReadTimeMinutes(plainTextBody);
 
   const hasProductRating = kind === 'produto' && typeof review.rating === 'number';
@@ -260,7 +274,6 @@ export function ReviewNotebookTemplate({
             couponCopyLocale={couponCopyLocale}
             breadcrumbs={breadcrumbs}
             languageLinks={languageLinks}
-            speechText={speechText}
             readTime={readTime}
             unanchoredNotes={unanchoredNotes}
             reviewImage={reviewImage}
@@ -325,6 +338,7 @@ export function ReviewNotebookTemplate({
                     <>
                       <ReviewContentSections
                         sections={preStepSections.filter((s) => !HEADINGS_OUTSIDE_BODY.includes(s.heading || ''))}
+                        headingAction={listenButton}
                         reviewTitle={review.title}
                         sectionIds={sectionIds}
                         filterHeadings={HEADINGS_OUTSIDE_BODY}
@@ -382,6 +396,7 @@ export function ReviewNotebookTemplate({
                   ) : (
                     <ReviewContentSections
                       sections={review.contentSections || []}
+                      headingAction={listenButton}
                       reviewTitle={review.title}
                       sectionIds={sectionIds}
                       filterHeadings={HEADINGS_OUTSIDE_BODY}
