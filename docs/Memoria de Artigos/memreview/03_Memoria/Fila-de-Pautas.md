@@ -10,6 +10,10 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
+| NT1 | Presente de amigo secreto feminino até R$ 50, R$ 100 e R$ 150 | Barbour's (CECILIALINHARES) e Skelt (SKEMCASACOMCECILIA), artigo de várias lojas | PT | [[presente-amigo-secreto-feminino]] | GO de 24/11. **No ar até 1º/12** (Trends). Espera a resposta do Bruno sobre a base da faixa (preço de tabela ou do dia). Releitura no navegador no dia da redação: preço, código no carrinho, frete abaixo do mínimo, troca de presente e prazo. Frete da Skelt em SP diverge entre política e simulação |
+| NT2 | Amigo secreto unissex até R$ 30 e R$ 50 | La Ganexa, Dr. Peanut e Gocase, artigo de várias lojas | PT | [[presente-amigo-secreto-unissex-ate-50]] | GO de 24/11; as duas faixas fecham com a leitura do navegador de 24/11. Espera a resposta do Bruno sobre a base da faixa (preço de tabela ou do dia). Releitura no navegador no dia da redação: preço, código no carrinho, frete abaixo do mínimo, troca de presente e prazo. A Dr. Peanut entra sem o alfajor (já está na IL2) |
+| NT3 | Presente de Natal para mãe e sogra por faixa de preço | Barbour's, Simple Organic e Let's Eat It, artigo de várias lojas | PT | [[presente-de-natal-para-mae-e-sogra]] | GO de 24/11; no ar até 10/12. Espera a resposta do Bruno sobre a base da faixa (preço de tabela ou do dia). Releitura no navegador no dia da redação: preço, código no carrinho, frete abaixo do mínimo, troca de presente e prazo. Itens da Barbour's diferentes dos da NT1 |
+| NT4 | Presente de Natal para namorada ou esposa | Toda Up (MAUAD) e Skelt, artigo de várias lojas | PT | [[presente-de-natal-para-namorada-ou-esposa]] | GO de 24/11; no ar até 10/12. Espera a resposta do Bruno sobre a base da faixa (preço de tabela ou do dia). Releitura no navegador no dia da redação: preço, código no carrinho, frete abaixo do mínimo, troca de presente e prazo. Frete grátis da Skelt: a política de 24/11 diz a partir de R$ 180 e o dossiê de 22/11 diz outra coisa; vale o carrinho. Insider só como link interno. Itens da Skelt diferentes dos da NT1 |
 | BW10 | Tabela de medidas BAW: regular ou oversized, como escolher o tamanho | BAW Clothing (BAWEMCASACOMCECILIA, 10%, sem link) | PT | [[tabela-medidas-baw]] | Redigido em 23/11 (`tabela-medidas-baw`, id 1316), capa aprovada pelo Bruno em 23/11 (lote 73); PR do lote G1/G2 A3, aguardando deploy |
 | BW11 | BAW ou Carnan? Preço de tabela por peça, grade e o que cada marca vende | BAW Clothing (BAWEMCASACOMCECILIA, 10%, sem link) | PT | [[baw-ou-carnan]] | Redigido em 23/11 (`baw-ou-carnan`, id 1317), capa aprovada pelo Bruno em 23/11 (lote 73); PR do lote G1/G2 A3, aguardando deploy |
 | PH17 | BTX Blend Repair Prohall: como usar e qual tamanho (300 g ou 1 kg) | Prohall (CECILIAMC, até 10%, sem link) | PT | [[btx-blend-repair-prohall-como-usar]] | Redigido, revisado (Job 3) e com capa aprovada em 23/11; em PR da Conta 2, aguarda deploy |
@@ -92,6 +96,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | O que | Parceiro | O que falta | Com quem |
 |---|---|---|---|---|
+| NT7 | YesStyle advent calendar 2026 (briefing parado em [[yesstyle-advent-calendar-2026]], GO de 24/11) | YesStyle | O calendário existe (US$ 164,90, 35 produtos), mas não é enviado ao Brasil: termos do sorteio e ficha com destino Brasil, conferidos no navegador em 24/11. A lista de exclusão também tira Japão, França, Espanha, México, Taiwan, Hong Kong, Emirados e Arábia Saudita, o que quebra a família nos 11 idiomas | Bruno |
 | BW12 | BAW ou Piet (briefing pronto em [[baw-ou-piet]], GO de 23/11 como reserva da série) | BAW Clothing | A BW11 no ar e medida no Search Console (30 dias) | Claude |
 | BO10 | BOLD ou YoPRO (briefing pronto em [[barra-bold-ou-yopro]], GO de 23/11) | BOLD | Ficha oficial da YoPRO (tabela e preço por canal), pelo navegador | Claude |
 | DV11 | NAC Denavita pelo rótulo (briefing em [[nac-denavita]], GO condicionado de 23/11) | Denavita | Conferir a N-acetilcisteína na IN 28/2018 e ler o rótulo; se não fechar, descartada | Claude |
@@ -114,13 +119,9 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiros | Busca | Nota |
 |---|---|---|---|---|
-| NT1 | Presente de amigo secreto feminino até R$ 50, R$ 100 e R$ 150 | 2 a 4 entre Océane, Simple Organic, Barbour's, Skelt, La Ganexa e Gocase | "feminino" com 20 a 150 reais, "barato", "kit" | Par da IL2 (masculino). A mais urgente: no ar até 1º/12 |
-| NT2 | Amigo secreto unissex até R$ 30 e R$ 50 | 2 a 4 entre Gocase, La Ganexa, Dr. Peanut e BOLD | "unissex" com 30, 50, 100 e 150 reais; "lembrancinha" | Faixa baixa: o frete pode passar do valor do presente; conferir item e frete de cada loja |
-| NT3 | Presente de Natal para mãe e sogra por faixa de preço | 2 a 4 entre Océane, Simple Organic, Barbour's, Let's Eat It e DAMIE | "para mae e sogra", "idosa", "barato", "até R$ 50" | Não repetir a PP3 (pai) nem o presente para a casa da DAMIE; link para as duas |
-| NT4 | Presente de Natal para namorada ou esposa | 2 a 4 entre Océane, Toda Up, Insider, Barbour's e Skelt | "criativo", "barato", "dicas" | Decidir junto com a NT3: pode ser um artigo só |
 | NT5 | Panetone Kopenhagen 2026: sabores e preço | Kopenhagen (CECILIA10) | "panetone" chega a 95 no pico; "panetone kopenhagen" com sabores, "preço" e "2026" | A Kopenhagen saiu da lista "é boa" em 03/11 e o código não é conferido desde 02/07. Decisão do Bruno |
-| NT6 | Máquina Dolce Gusto para dar de presente de Natal (e as cápsulas de Natal) | Dolce Gusto (CECI) | Duas buscas no Search Console; "especial de natal", "starbucks natal" | Pode ser seção do `dolce-gusto-maquinas-qual-escolher` em vez de URL nova. Ler se há cápsula de Natal em 2026 |
-| NT7 | YesStyle advent calendar 2026 | YesStyle (CECILIA010, código de recompensa) | Inglês: "2026", "price", "products", "release date" | Família nos 11 idiomas. Antes, ler se a YesStyle vende calendário em 2026 e quando sai |
+
+GO do Bruno em 24/11 para todas menos a NT5: NT1 a NT4 na seção 1, NT7 parada na seção 2 e NT6 como mudança na seção 4. A NT5 (Kopenhagen) segue aqui.
 
 Hostinger, Proton e Starlink têm "christmas sale" no autocompletar em inglês. Só viram pauta se a loja anunciar oferta de Natal; ler em 08/12 (a Black Friday da Hostinger vai até 14/12).
 
@@ -335,6 +336,7 @@ Senha da mala Bagaggio (virou a G10, 21/11); creme para mãos Skelt; como tomar 
 
 | Artigo | Mudança | Origem |
 |---|---|---|
+| `dolce-gusto-maquinas-qual-escolher` | **NT6 (24/11):** seção "Para dar de presente de Natal" no guia de máquinas, em vez de URL nova: a busca é a mesma. Plano em [[dolce-gusto-maquinas-presente-natal-mudanca]]; cápsula de Natal fora (sem fonte em 2026); preço, prazo e caixa de presente pelo navegador (o site deu 403 à leitura automática) | Pesquisa de Natal, 24/11 |
 | `max-titanium-ou-probiotica` | **B1 (23/11):** a resposta rápida responde na primeira frase que não são a mesma marca (as duas do grupo Supley); snippet com os códigos primeiro e a resposta logo depois. Sem FAQ nova (o `probiotica-e-confiavel` já tem). Plano em [[ajustes-suplementos-grupo2-2311]] Feito em 23/11 no PR #1395, aguardando deploy. | GSC até 21/11: "são a mesma coisa?" e "é da Max?" nas posições 1 a 4, zero cliques |
 | `creatina-probiotica-qual-compensa` | **B2 (23/11):** FAQ "onde comprar original", "o que conferir na embalagem" e "laudo" (nenhum laudo de terceiro como prova); "embalagem azul / mudou a embalagem" só com leitura no navegador. Plano em [[ajustes-suplementos-grupo2-2311]] Feito em 23/11 no PR #1395, aguardando deploy. | Autocompletar de 23/11 |
 | `pre-treino-exquenta-mais-mu-e-bom` | **B3 (23/11):** "como tomar" e "quanto tempo antes do treino" pelo modo de uso do rótulo (a ler); "quebra jejum?" só pela tabela da porção, sem conselho de dieta. Plano em [[ajustes-suplementos-grupo2-2311]] Feito em 23/11 no PR #1395, aguardando deploy. | GSC até 21/11: "é bom" na posição 1; autocompletar |
