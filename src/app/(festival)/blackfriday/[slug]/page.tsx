@@ -1,4 +1,4 @@
-import type { Metadata } from 'next';
+import type { Metadata, ResolvingMetadata } from 'next';
 import { notFound } from 'next/navigation';
 import { FestivalPartnerClient } from '@/components/festival/FestivalPartnerClient';
 import { getActiveCoupons } from '@/lib/couponsData';
@@ -11,14 +11,21 @@ export function generateStaticParams() {
   return getActiveCoupons().map((store) => ({ slug: store.slug }));
 }
 
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ slug: string }>;
-}): Promise<Metadata> {
+export async function generateMetadata(
+  {
+    params,
+  }: {
+    params: Promise<{ slug: string }>;
+  },
+  parent: ResolvingMetadata,
+): Promise<Metadata> {
   const { slug } = await params;
   const store = getActiveCoupons().find((c) => c.slug === slug);
   if (!store) return {};
+
+  const resolvedParent = await parent;
+  const parentOgImages = resolvedParent.openGraph?.images;
+  const parentTwitterImages = resolvedParent.twitter?.images;
 
   const isBf = isBlackFridaySeason(Date.now());
   const seasonLabel = isBf ? 'Black Friday' : 'Festival de Cupons';
@@ -53,13 +60,13 @@ export async function generateMetadata({
       type: 'website',
       locale: 'pt_BR',
       siteName: 'Em Casa com Cecília',
-      images: ['/blackfriday/opengraph-image'],
+      ...(parentOgImages ? { images: parentOgImages } : {}),
     },
     twitter: {
       card: 'summary_large_image',
       title,
       description,
-      images: ['/blackfriday/twitter-image'],
+      ...(parentTwitterImages ? { images: parentTwitterImages } : {}),
     },
   };
 }
