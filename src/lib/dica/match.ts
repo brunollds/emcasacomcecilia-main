@@ -12,13 +12,16 @@ const CONNECTORS = new Set(['de', 'da', 'do', 'para', 'pra', 'com', 'sem']);
 const MAX_NGRAM = 6;
 const MIN_PREFIX_LENGTH = 4;
 
-// Singular simples, dos dois lados: "sofás" e "sofá", "modulares" e "modulare" casam entre si.
+// Singular simples, dos dois lados: "sofás" e "sofá", "pães" e "pão", "modulares" e "modulare" casam entre si.
 function singular(word: string): string {
-  return word.length > 3 && word.endsWith('s') && !word.endsWith('ss') ? word.slice(0, -1) : word;
+  if (word.length <= 3) return word;
+  if (word.endsWith('aes') || word.endsWith('oes')) return `${word.slice(0, -3)}ao`;
+  return word.endsWith('s') && !word.endsWith('ss') ? word.slice(0, -1) : word;
 }
 
+// "e-mail" e "email" são a mesma palavra; sem isso, o "e" solto vira stopword.
 function singularPhrase(phrase: string): string {
-  return phrase.split(' ').map(singular).join(' ');
+  return phrase.replace(/\be mail\b/g, 'email').split(' ').map(singular).join(' ');
 }
 
 const compoundKeys = (compounds as string[]).map((item) => singularPhrase(normalize(item)));
@@ -46,27 +49,46 @@ export function matchLocal(question: string): string[] {
 
   for (const words of questionSegments(question)) {
     const consumed = new Array<boolean>(words.length).fill(false);
-    for (let size = Math.min(MAX_NGRAM, words.length); size >= 1; size -= 1) {
-      for (let start = 0; start + size <= words.length; start += 1) {
-        const slice = words.slice(start, start + size);
-        if (STOPWORDS.has(slice[0]) || STOPWORDS.has(slice[slice.length - 1])) continue;
-        if (consumed.slice(start, start + size).some(Boolean)) continue;
-        // "mala de viagem": o "viagem" qualifica a mala já achada e não vira outro produto.
-        if (start >= 2 && CONNECTORS.has(words[start - 1]) && consumed[start - 2]) continue;
-        const phrase = slice.join(' ');
-        const term = exact.get(phrase);
-        if (term) {
-          found.add(term);
-          consumed.fill(true, start, start + size);
-          continue;
-        }
-        // "whey" casa "whey protein", "whey isolado"…; "sofá" casa "sofá modular".
-        if (phrase.length < MIN_PREFIX_LENGTH) continue;
-        for (const item of vocabulary) {
-          if (item.key.startsWith(`${phrase} `)) found.add(item.term);
+    const ngrams = (visit: (start: number, size: number, phrase: string) => void) => {
+      for (let size = Math.min(MAX_NGRAM, words.length); size >= 1; size -= 1) {
+        for (let start = 0; start + size <= words.length; start += 1) {
+          const slice = words.slice(start, start + size);
+          if (STOPWORDS.has(slice[0]) || STOPWORDS.has(slice[slice.length - 1])) continue;
+          if (consumed.slice(start, start + size).some(Boolean)) continue;
+          // "mala de viagem": o "viagem" qualifica a mala já achada e não vira outro produto.
+          if (start >= 2 && CONNECTORS.has(words[start - 1]) && consumed[start - 2]) continue;
+          visit(start, size, slice.join(' '));
         }
       }
+    };
+
+    // 1º o termo exato, o mais longo primeiro. A palavra solta que casou ("e-mail") ainda abre os termos que começam
+    // por ela ("e-mail criptografado", de outra loja); duas ou mais ("whey protein") ficam só no exato.
+    const singleWords: { index: number; phrase: string }[] = [];
+    ngrams((start, size, phrase) => {
+      const term = exact.get(phrase);
+      if (!term) return;
+      found.add(term);
+      consumed.fill(true, start, start + size);
+      if (size === 1) singleWords.push({ index: start, phrase });
+    });
+    const hasLeftover = (start: number, size: number) =>
+      words.some((word, index) => (index < start || index >= start + size) && !consumed[index] && !STOPWORDS.has(word));
+    const addPrefixed = (phrase: string) => {
+      for (const item of vocabulary) {
+        if (item.key.startsWith(`${phrase} `)) found.add(item.term);
+      }
+    };
+    for (const { index, phrase } of singleWords) {
+      if (phrase.length >= MIN_PREFIX_LENGTH && !hasLeftover(index, 1)) addPrefixed(phrase);
     }
+
+    // Depois o prefixo: "whey" casa "whey protein", "sofá" casa "sofá modular". Só quando o resto do trecho é
+    // stopword ou já casou: "cadeira gamer" não vira "cadeira infantil", nem "sofá de couro" todos os sofás.
+    ngrams((start, size, phrase) => {
+      if (phrase.length < MIN_PREFIX_LENGTH || hasLeftover(start, size)) return;
+      addPrefixed(phrase);
+    });
   }
   return [...found];
 }

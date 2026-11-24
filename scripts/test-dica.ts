@@ -36,6 +36,14 @@ assert.ok(storesOf(matchLocal('Vocês têm sofás?')).has('damie'), 'sofás (plu
 assert.deepEqual(matchLocal('tem sofá-cama?'), []);
 assert.deepEqual(matchLocal('tem sofa cama'), []);
 assert.deepEqual(matchLocal('tem anel de prata?'), []);
+for (const question of ['tem sofá de cama?', 'tem cama sofá?', 'tem sofá de couro?']) {
+  assert.ok(!storesOf(matchLocal(question)).has('damie'), `${question} não é a DAMIE`);
+}
+assert.deepEqual(matchLocal('tem cadeira gamer?'), [], 'o prefixo não ignora o qualificador');
+assert.ok(storesOf(matchLocal('tem e-mail?')).has('proton'), 'e-mail sem a Proton');
+assert.ok(storesOf(matchLocal('tem email criptografado?')).has('proton'), 'email sem a Proton');
+assert.ok(matchLocal('tem pão?').length > 0, 'pão no singular');
+assert.ok(storesOf(matchLocal('tem whey e creatina?')).has('adaptogen'), 'whey e creatina juntos');
 assert.deepEqual(matchLocal('tem whey protein?').map(normalize), ['whey protein'], 'o termo exato mais longo vence');
 assert.deepEqual(matchLocal('oi'), []);
 assert.ok(!storesOf(matchLocal('tem mala de viagem?')).has('starlink'), 'mala de viagem não é a Starlink');
@@ -70,6 +78,10 @@ assert.equal(proton.codeLabel, 'Link da Cecília');
 
 const nestle = buildAnswer({ terms: ['fórmula infantil'], searchTerm: 'fórmula infantil' }).cards.find((card) => card.slug === 'nestle-nutre');
 assert.ok(nestle?.warnings.some((text) => text.includes('0 a 12 meses')), 'Nestlé Nutre sem o aviso do CECI');
+for (const answer of [buildAnswer({ terms: ['Fórmulas e leites infantis'], searchTerm: 'fórmula' }), buildStoreAnswer('nestle-nutre')]) {
+  const card = answer.cards.find((item) => item.slug === 'nestle-nutre');
+  assert.ok(card?.warnings.some((text) => text.includes('0 a 12 meses')), 'Nestlé Nutre sem o aviso do CECI');
+}
 assert.ok(buildAnswer({ terms: ['whey protein'], searchTerm: 'whey' }).cards.every((card) => card.warnings.length === 0), 'aviso fora do termo');
 
 const sofaCama = buildAnswer({ terms: matchLocal('tem sofá-cama?'), searchTerm: 'sofá-cama' });
@@ -83,6 +95,9 @@ for (const answer of [wheyAnswer, sofaCama, yesstyle, ...catalog.map((store) => 
   // O desconto é a oferta da parceria, igual ao de /cupons ("R$ 200 de bônus" na Starlink); o resto nunca leva valor.
   const withoutOffer = { ...answer, cards: answer.cards.map(({ discount: _discount, ...card }) => card) };
   assert.doesNotMatch(JSON.stringify(withoutOffer), /R\$/, 'resposta com preço');
+  for (const card of answer.cards) {
+    if (card.discount?.includes('R$')) assert.match(card.discount, /bônus|frete/i, `${card.slug}: desconto com preço (${card.discount})`);
+  }
 }
 for (const store of catalog) assert.equal(buildStoreAnswer(store.slug).cards.length, 1, `${store.slug}: sem cartão`);
 

@@ -22,13 +22,14 @@ function codeOf(coupon: Coupon, now: number): { code?: string; discount?: string
   return { code: coupon.code, discount: coupon.discount, codeLabel };
 }
 
+// Sem termo (a pergunta foi o nome da loja), o cartão leva todos os avisos dela.
 function toCard(slug: string, matched: string[], now: number): DicaCard | undefined {
   const coupon = getCouponBySlug(slug);
   if (!coupon) return undefined;
   const matchedKeys = new Set(matched.map(normalize));
   const store = getCatalog().find((item) => item.slug === slug);
   const warnings = (store?.avisos ?? [])
-    .filter((warning) => warning.termos.some((term) => matchedKeys.has(normalize(term))))
+    .filter((warning) => matched.length === 0 || warning.termos.some((term) => matchedKeys.has(normalize(term))))
     .map((warning) => warning.texto);
   return {
     slug,
