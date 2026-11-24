@@ -43,6 +43,7 @@ npm run covers:render -- <spec.json>   # capas do Discover; modelos no Job 6 do 
 npm run covers:check -- <base> content/reviews/<slug>.json   # og:image, capa e alt das páginas que trocaram de capa
 npm run test:html-lang       # depois do build: <html lang> de cada rota
 npm run test:store-banners   # banners de campanha das lojas nos artigos: prazo (fuso de Brasília), lugar (depois da 1ª seção e antes do FAQ) e dados (loja, link que vale nos 11 idiomas, textos dos 11 idiomas sem o código da loja)
+npm run test:dica           # antes do build: o assistente DICA (catálogo leve de data/afiliados/ só com parceiras ativas e sem preço, vocabulário, busca local, cartões com o código de couponsData.ts, limites, cache, log sem dado pessoal e a rota /api/dica); desenho em docs/superpowers/specs/2026-11-24-dica-no-site-design.md
 npm run test:article-media   # a mídia que os componentes do artigo recebem pronta: foto em texto e em objeto, lista, vídeo do topo e da seção e galeria, no mapa de mídia e fora dele, com os outros campos preservados
 npm run test:article-d2      # antes do build: cores antigas fora do corpo e do topo dos artigos, relacionados, regras do bloco da loja, dock e sidebar
 npm run test:partner-hosts   # antes do build: o sponsored do link no texto só para loja parceira (src/lib/partnerHosts.ts); toda loja de couponsData.ts e affiliateStores.ts na lista; todo domínio citado no texto classificado como parceiro ou em scripts/non-partner-hosts.json
