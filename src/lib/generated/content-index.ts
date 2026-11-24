@@ -202937,7 +202937,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store. Camiseta oversized, bodies e alfaiataria pelo que a loja publica: para quem compensa.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
-    "updatedAt": "2026-11-22",
+    "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/clea-store-e-boa-capa-v2.webp",
@@ -202948,7 +202948,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale, sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis. Camisetas e bodies saem em P, M e G; o que decide é a medida e o preço por peça do kit. O CSEMCASACOMCECILIA dá 10% OFF em todo o site e soma com promoções, explicado abaixo."
+          "Vale, sim, para quem busca uma linha ampla de roupas, de camisetas e blusas a calças e vestidos, com identidade, qualidade e preço competitivo; para algo mais exclusivo, há a alfaiataria de linho. O CSEMCASACOMCECILIA dá 10% OFF em todo o site e soma com promoções, explicado abaixo."
         ]
       },
       {
@@ -287382,7 +287382,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Denavita compensa para quem compara tamanho do pote, porção e concentração por dia na ficha e aproveita kits ou ofertas com vários potes. O cupom EMCASA da Denavita dá 10% OFF para cliente novo e antigo, inclusive em kits e no Pix. Confira abaixo o custo diário e onde vale cada compra."
+          "Sim, a Denavita compensa para quem busca vitaminas e suplementos de qualidade com preço justo, e fica melhor ainda nos kits e nas ofertas com vários potes. O cupom EMCASA dá 10% OFF para cliente novo e antigo, inclusive em kits e no Pix. Confira abaixo o custo diário e onde vale cada compra."
         ]
       },
       {
