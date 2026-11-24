@@ -288424,7 +288424,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Kit Starlink a partir de 49 reais no plano Max (ou Mini X por 299 reais sem fidelidade no 100 Mbps), 30% de desconto na mensalidade residencial e mais 200 reais de crédito na fatura no Brasil — ou 45 € com kit alugado a 0 € em Portugal — exclusivos no nosso link para novos clientes.",
+          "Na Black Friday da Starlink, o kit sai a partir de R$ 49 no plano Max (ou o Mini X por R$ 299, sem fidelidade, no 100 Mbps), com 30% de desconto na mensalidade residencial. Pelo nosso link, novos clientes ainda recebem R$ 200 de crédito na fatura no Brasil, ou 45 € em Portugal, onde o kit sai alugado a 0 €.",
           "A campanha de Black Friday vai até 30 de novembro em áreas selecionadas, enquanto o nosso bônus vale enquanto existir o programa de indicação da Starlink (entrando como crédito após dois ciclos pagos em dia, sem reduzir o kit na hora). Consulte seu endereço pelo link abaixo e confira o aviso de indicação antes de pagar."
         ],
         "links": [
@@ -288669,8 +288669,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Ao abrir starlink.com pelo nosso link de indicação, novos clientes elegíveis garantem R$ 200 de crédito na fatura no Brasil (ou 45 € em Portugal) após dois ciclos completos em dia — sem pagar nada para consultar o endereço e o desconto no seu CEP.",
-      "label": "Garantir R$ 200 de crédito na fatura pelo link oficial",
+      "text": "Ao abrir starlink.com pelo nosso link de indicação, novos clientes elegíveis recebem R$ 200 de crédito na fatura no Brasil (ou 45 € em Portugal) depois de dois ciclos completos em dia. Consultar o endereço e o desconto no seu CEP não custa nada.",
+      "label": "Receber R$ 200 de crédito na fatura pelo link oficial",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -301820,7 +301820,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "馬來西亞的例子說明為什麼要看每個方案的設備那一行：100 Mbps 要買 Mini X，Max 則是 RM 0 租用，兩者月費相差 RM 100。讀訂購頁時，先看設備是購買還是租用，再比較月費。透過推薦連結打開頁面試查你的地址不會產生費用，也無須輸入信用卡，就能先把推薦資格鎖定在付款前的訂單上。"
+          "馬來西亞的例子說明為什麼要看每個方案的設備那一行：100 Mbps 要買 Mini X，Max 則是 RM 0 租用，兩者月費相差 RM 100。讀訂購頁時，先看設備是購買還是租用，再比較月費。透過推薦連結打開頁面試查你的地址不會產生費用，也無須輸入信用卡，就能在付款前先確認訂單上顯示了推薦。"
         ],
         "emphasis": "各國訂購頁的月費、設備方式和當天應付各不相同，所以優惠是否划算，只能看你所在地址訂購頁上的當天應付總額；推薦獎勵要滿兩個完整計費週期後才發放，在那之前月費照付，並務必於付款前核對訂單頁顯示的獎勵金額。",
         "links": [
@@ -301835,7 +301835,7 @@ export const reviewsData: unknown[] = [
         "heading": "訂購頁怎麼看",
         "paragraphs": [
           "截圖是透過推薦連結開啟的美國訂單，上面有「Referral Code Applied」的提示。透過連結開啟的訂單會顯示推薦已套用，以及你所在國家的獎勵金額。",
-          "要核對自己的優惠，先開啟連結，輸入地址，付款前找同樣的提示，再看訂單有沒有顯示獎勵金額與月費條件。試查地址與核對提示的步驟完全不收費、無須綁卡，還能確保你在付款前就把推薦獎勵套用並鎖定在訂單中。"
+          "要核對自己的優惠，先開啟連結，輸入地址，付款前找同樣的提示，再看訂單有沒有顯示獎勵金額與月費條件。試查地址與核對提示的步驟完全不收費、無須綁卡，還能在付款前確認推薦獎勵已顯示在訂單中。"
         ],
         "images": [
           {
@@ -301918,7 +301918,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何使用連結",
         "paragraphs": [
-          "開啟連結不會讓你產生任何費用、無須提供付款卡，也不必承擔任何義務：價格、是否可訂購和優惠，都要輸入地址之後才會顯示。請在同一台裝置與瀏覽器上輸入要安裝天線的地址，選好方案，確認推薦已在付款前套用並鎖定，最後截圖保存訂單頁顯示的優惠再結帳。",
+          "開啟連結不會讓你產生任何費用、無須提供付款卡，也不必承擔任何義務：價格、是否可訂購和優惠，都要輸入地址之後才會顯示。請在同一台裝置與瀏覽器上輸入要安裝天線的地址，選好方案，付款前確認訂單已顯示推薦，最後截圖保存訂單頁顯示的優惠再結帳。",
           "也可從[本站的 Starlink 頁面](/zh-hant/coupons/starlink)開啟連結，並查看計畫規則。"
         ],
         "links": [
@@ -303482,7 +303482,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "马来西亚的例子说明为什么要看每个套餐的套件那一行：100 Mbps 要买 Mini X，Max 则是 RM 0 租用，两者月费相差 RM 100。读订单页时，先看套件是购买还是租用，再比较月费。通过推荐链接打开页面试查你的地址不会产生费用，也无需输入银行卡，就能先把推荐资格锁定在付款前的订单上。"
+          "马来西亚的例子说明为什么要看每个套餐的套件那一行：100 Mbps 要买 Mini X，Max 则是 RM 0 租用，两者月费相差 RM 100。读订单页时，先看套件是购买还是租用，再比较月费。通过推荐链接打开页面试查你的地址不会产生费用，也无需输入银行卡，就能在付款前先确认订单上显示了推荐。"
         ],
         "emphasis": "各国订单页的月费、套件方式和当天应付各不相同，所以优惠是否划算，只能看你所在地址订单页上的当天应付总额；推荐奖励要满两个完整计费周期后才发放，在此之前月费照付，并务必在付款前核对订单页显示的奖励金额。",
         "links": [
@@ -303497,7 +303497,7 @@ export const reviewsData: unknown[] = [
         "heading": "订单页怎么看",
         "paragraphs": [
           "截图是通过推荐链接打开的美国订单，上面有“Referral Code Applied”的提示。通过链接打开的订单会显示推荐已应用，以及你所在国家的奖励金额。",
-          "要核对自己的优惠，先打开链接，输入地址，付款前找同样的提示，再看订单有没有显示奖励金额和月费条件。试查地址和核对提示的步骤完全不收费、无需绑卡，还能确保你在付款前就把推荐奖励应用并锁定在订单中。"
+          "要核对自己的优惠，先打开链接，输入地址，付款前找同样的提示，再看订单有没有显示奖励金额和月费条件。试查地址和核对提示的步骤完全不收费、无需绑卡，还能在付款前确认推荐奖励已显示在订单中。"
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
@@ -303574,7 +303574,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何使用链接",
         "paragraphs": [
-          "打开链接不会让你产生任何费用、无需提供银行卡，也不必承担任何义务：价格、是否可订购和优惠，都要输入地址之后才会显示。请在同一台设备和浏览器上输入要安装天线的地址，选好套餐，确认推荐已在付款前应用并锁定，最后截图保存订单页显示的优惠再结账。",
+          "打开链接不会让你产生任何费用、无需提供银行卡，也不必承担任何义务：价格、是否可订购和优惠，都要输入地址之后才会显示。请在同一台设备和浏览器上输入要安装天线的地址，选好套餐，付款前确认订单已显示推荐，最后截图保存订单页显示的优惠再结账。",
           "链接和规则也在[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
         ],
         "links": [

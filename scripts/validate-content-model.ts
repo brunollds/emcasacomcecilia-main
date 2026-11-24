@@ -1091,6 +1091,9 @@ for (const review of reviews) {
   if (getProseProblems(prontuario, 'campanha', { ...expected, bodyDates: undefined }).length !== 0) {
     report('bodyDatesReason não liberou 4 datas no corpo');
   }
+  const priceOnly = { quickAnswerPrice: true, transparencySection: false, bodyDates: 0, datesOutsideBody: 0 };
+  if (getProseProblems(priceOnly, 'campanha').length !== 0) report('artigo de campanha não pôde levar o preço da promoção na resposta rápida');
+  if (getProseProblems(priceOnly, 'prazo-entrega').length !== 1) report('R$ na resposta rápida fora de campanha não foi barrado');
   if (getProseProblems({ ...prontuario, bodyDates: 5 }, undefined, expected).length !== 1) {
     report('mais datas que a lista registra não foi barrado');
   }

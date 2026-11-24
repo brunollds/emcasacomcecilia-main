@@ -1,5 +1,5 @@
 // Regras de texto dos artigos em português contra a "cara de prontuário" (vault, REGRAS-GLOBAIS seções 6 e 7):
-// resposta rápida sem preço, poucas datas no corpo e nenhuma seção "Nota de transparência". O validate:content
+// resposta rápida sem preço de tabela (o preço da campanha pode ir), poucas datas no corpo e nenhuma seção "Nota de transparência". O validate:content
 // usa estas funções com a lista de pendentes (review-prose-baseline.json), que só pode encolher.
 import { isFaqHeading } from '../src/lib/faq';
 import type { BodyDatesReason, ContentSection } from '../src/lib/content/types';
@@ -121,8 +121,10 @@ export function getProseProblems(findings: ProseFindings, reason: BodyDatesReaso
   const maxDates = reason ? MAX_BODY_DATES_WITH_REASON : MAX_BODY_DATES;
   const datesOver = findings.bodyDates > maxDates ? findings.bodyDates : 0;
 
-  if (findings.quickAnswerPrice && !baseline?.quickAnswerPrice) {
-    problems.push('resposta rápida com "R$": preço vai no corpo, não no resumo');
+  // Em artigo de campanha (bodyDatesReason "campanha") o preço promocional é a notícia e pode abrir a resposta
+  // rápida; a regra mira o preço de tabela (Bruno, 24/11/2026).
+  if (findings.quickAnswerPrice && reason !== 'campanha' && !baseline?.quickAnswerPrice) {
+    problems.push('resposta rápida com "R$": preço de tabela vai no corpo, não no resumo (campanha leva bodyDatesReason "campanha")');
   }
   if (findings.transparencySection && !baseline?.transparencySection) {
     problems.push('seção "Nota de transparência" no corpo: a nota sai no cabeçalho, pelo editorialNote');

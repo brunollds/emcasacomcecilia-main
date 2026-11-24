@@ -244,7 +244,7 @@ O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerd
   parte. O `test:build-output` compara as perguntas e as respostas do acordeão com o `FAQPage` de cada
   artigo, e o `validate:content` barra `](` e `**` no `plainTextBody` de todo artigo.
 - Texto sem cara de prontuário nos artigos em português (`validate:content`, que roda no build; regras em
-  `scripts/review-prose-checks.ts`): resposta rápida sem "R$", no máximo 2 datas no corpo (8 com
+  `scripts/review-prose-checks.ts`): resposta rápida sem "R$" (salvo em artigo com `bodyDatesReason: "campanha"`, onde o preço da promoção pode abrir o resumo), no máximo 2 datas no corpo (8 com
   `bodyDatesReason`: `campanha`, `prazo-entrega` ou `reclame-aqui`; o `editorialNote` não conta), nenhuma data em
   título de seção, legenda de foto ou FAQ e nenhuma seção "Nota de transparência" (a nota sai no cabeçalho). Os
   artigos de antes da regra (31/10/2026) estão em `scripts/review-prose-baseline.json`, que só encolhe: artigo fora
