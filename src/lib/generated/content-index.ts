@@ -328386,7 +328386,7 @@ export const reviewsData: unknown[] = [
           "FPS 30 e FPS 50 caem na mesma faixa da norma; o número que quase ninguém olha é o UVA. Pela [RDC 629/2022](https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=RDC&numeroAto=00000629&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&codTipo=&desItem=&desItemFim=&cod_menu=1696&cod_modulo=134&pesquisa=true), o FPS é a razão entre a dose de radiação que causa vermelhidão na pele (eritema) com o produto e sem ele, uma medida ligada à queimadura. O fator de proteção UVA, o FPUVA, segue a mesma lógica, mas olha o escurecimento persistente da pele, a reação usada para medir o UVA. A [SBD](https://www.sbd.org.br/cuidados/cuidados-com-a-pele-no-verao/) pede para ler os dois: o FPS, que indica o UVB, e o PPD, que indica o UVA.",
           "O artigo 12 da norma fixa o mínimo de todo protetor: FPS 6, comprimento de onda crítico de 370 nm e FPUVA de pelo menos um terço do FPS declarado na rotulagem. Para a dúvida entre FPS 30 e 50, o anexo da norma agrupa de 30 a 50 numa faixa só, a de alta proteção, e chama de proteção muito alta o que passa de 50.",
           "O terço é a regra do protetor solar. Base, BBS e pó entram na mesma conta para comparação; se forem multifuncionais pela norma, a exigência deles é outra, e a embalagem diz qual é o caso.",
-          "A tabela divide o UVA pelo FPS de cada produto da BioBio e compara com o mínimo da norma, um terço, ou 0,33. A loja escreve só \"UVA\" e um número, e a conta trata esse número como o FPUVA da norma."
+          "A tabela divide o UVA pelo FPS de cada produto da BioBio. A loja escreve só \"UVA\" e um número, e a conta trata esse número como o FPUVA da norma."
         ],
         "comparisonTable": {
           "caption": "FPS e UVA vêm da página de cada produto; a divisão é conta nossa.",
@@ -328395,7 +328395,7 @@ export const reviewsData: unknown[] = [
             "FPS",
             "UVA",
             "UVA ÷ FPS",
-            "Contra o mínimo de um terço"
+            "Regra do terço (só para protetor solar)"
           ],
           "rows": [
             [
@@ -328417,26 +328417,26 @@ export const reviewsData: unknown[] = [
               "33",
               "25",
               "0,76",
-              "Acima do mínimo"
+              "Só comparação: produto com cor"
             ],
             [
               "BBS Blush, Batom e Sombra FPS 63",
               "63",
               "24",
               "0,38",
-              "Acima do mínimo"
+              "Só comparação: produto com cor"
             ],
             [
               "Pó Translúcido Facial FPS 42",
               "42",
               "14",
               "0,33",
-              "Exatamente um terço (14 × 3 = 42)"
+              "Só comparação: produto com cor"
             ]
           ]
         },
         "postParagraphs": [
-          "Pelos números da loja, o Facial e o Kids ficam acima do terço. Os três com cor também, e o pó fica exatamente nele. A conta serve para conferir se o rótulo fecha com a regra, não para ordenar produtos."
+          "Pelos números da loja, o Facial e o Kids, os dois protetores, ficam acima do terço. Na base, no BBS e no pó, a divisão aparece só para comparar: a regra do terço é a do protetor solar, e a norma trata o produto multifuncional em artigos próprios. A conta não ordena produtos."
         ],
         "images": [
           {
