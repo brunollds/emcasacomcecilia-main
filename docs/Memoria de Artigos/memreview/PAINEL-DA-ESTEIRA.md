@@ -36,6 +36,10 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
+- [ ] [[secar-sem-frizz-prohall]]: Secar sem Frizz Prohall: os itens da linha, a ordem de uso e qual comprar (só PT, id 1408; PH20, Conta 2; gates verdes em 23/11/2026, aguarda o GO do Bruno)
+- [ ] [[prohall-ou-forever-liss]]: Prohall ou Forever Liss: BTX ou máscara de volume, pelo tamanho e pelo preço por grama (só PT, id 1407; PH19, Conta 2; gates verdes em 23/11/2026, aguarda o GO do Bruno)
+- [ ] [[prohall-ou-cadiveu]]: Prohall ou Cadiveu: BTX Blend Repair ou Bye Bye Frizz, o que cada loja declara e o preço do dia (só PT, id 1406; PH18, Conta 2; gates verdes em 23/11/2026, aguarda o GO do Bruno)
+- [ ] [[btx-blend-repair-prohall-como-usar]]: BTX Blend Repair Prohall: como usar e qual tamanho escolher (só PT, id 1405; PH17, Conta 2; gates verdes em 23/11/2026, aguarda o GO do Bruno)
 - [ ] [[pinkcheeks-antiatrito-bastao-spray-creme]]: Antiatrito Pink Cheeks: bastão, spray ou creme, qual usar na corrida e no treino (só PT, id 1404; PK10, Conta 2; gates verdes em 23/11/2026, aguarda o GO do Bruno)
 - [ ] [[pinkcheeks-glow-booster-pure-gold-ou-rose-gold]]: Glow Booster Pink Cheeks: Pure Gold ou Rose Gold, o que a loja diz de cada cor (só PT, id 1403; PK9, Conta 2; gates verdes em 23/11/2026, aguarda o GO do Bruno)
 - [ ] [[pinkcheeks-ou-ollie-protetor-bastao]]: Pink Cheeks ou Ollie: qual protetor solar em bastão sai melhor pelo FPS, FPUVA e preço por grama (só PT, id 1402; PK8, Conta 2; gates verdes em 23/11/2026, aguarda o GO do Bruno)
