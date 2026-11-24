@@ -283579,6 +283579,9 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-pinkcheeks"
+      },
+      {
+        "slug": "pinkcheeks-antiatrito-bastao-spray-creme"
       }
     ],
     "decision": {
@@ -283666,20 +283669,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Antiatrito: bastão, spray ou creme",
+        "heading": "E o antiatrito?",
         "paragraphs": [
-          "Na linha Redless, a Pink Cheeks oferece o [bastão de 18 g](https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g), a R$ 54,90, o [spray de 35 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-35ml), a R$ 52,90, ou de [75 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-75ml), a R$ 69,90, e o [creme Chamois Cream de 100 g](https://pinkcheeks.com.br/products/antiatrito-redless-chamois-cream-100g-1), a R$ 54,90.",
-          "Se procura a linha por causa do atrito da roupa ou do equipamento, compare a forma de aplicação e o tamanho na ficha de cada versão. Os preços acima são os da vitrine, antes do frete."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
-            "alt": "Bastão antiatrito Redless da Pink Cheeks, verde-água, ao lado da caixa branca, em foto oficial do produto",
-            "caption": "Redless Antiatrito em Bastão, de 18 g. Imagem: Pink Cheeks.",
-            "objectFit": "contain",
-            "aspectRatio": 1,
-            "href": "https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g"
-          }
+          "A Pink Cheeks tem uma linha antiatrito com bastão, spray em dois tamanhos, creme e o bastão Speedo. Para ver o que a ficha informa de cada item, onde a loja indica a aplicação e o preço com o código, leia o [guia do antiatrito Pink Cheeks](/reviews/pinkcheeks-antiatrito-bastao-spray-creme)."
         ]
       },
       {
@@ -283710,7 +283702,7 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
-    "updatedAt": "2026-11-22"
+    "updatedAt": "2026-11-24"
   },
   {
     "id": 1098,
@@ -328307,5 +328299,1001 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 1401,
+    "slug": "protetor-solar-mineral-ou-quimico-rotulo",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "EMCASABIOBIO",
+    "affiliate": "biobio",
+    "type": "Guia de Escolha",
+    "title": "Protetor solar mineral ou químico: como ler o rótulo antes de escolher",
+    "seoTitle": "Protetor solar mineral ou químico: como ler o rótulo",
+    "description": "O que mineral e químico querem dizer no rótulo, o que a norma da Anvisa exige de FPS e UVA e como ler os protetores da BioBio com essa régua, com preço e cupom.",
+    "metaDescription": "Com o EMCASABIOBIO, 10% OFF nos protetores solares da BioBio. Veja como ler FPS, UVA e filtros no rótulo e escolher entre mineral e químico.",
+    "image": "/images/reviews/biobio/protetor-solar-mineral-ou-quimico-rotulo-capa.webp",
+    "imageAlt": "Mão segurando dois tubos do Sunnature Facial FPS 30 da BioBio sobre a textura do protetor, em foto oficial da loja. A capa traz o logo BioBio e a chamada “Mineral ou químico?”.",
+    "cta": {
+      "text": "Se um dos protetores da BioBio faz sentido para você, abra o site oficial pelo botão. O código EMCASABIOBIO entra no resumo da compra, no campo Cupom (opcional), e a linha Cupom de desconto confirma o valor.",
+      "label": "Ir para a BioBio",
+      "url": "https://biobio.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Somos parceiros da BioBio e podemos receber comissão pelo cupom. Ninguém da equipe usou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "protetor-solar-biobio-e-bom"
+      },
+      {
+        "slug": "base-biobio-bastao-cores"
+      },
+      {
+        "slug": "cupom-biobio-como-usar"
+      },
+      {
+        "slug": "black-friday-biobio"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer ler o rótulo de qualquer protetor com a conta do UVA contra o FPS antes de comprar.",
+        "Você quer ver, pela página da loja, qual produto da BioBio se encaixa no seu uso: rosto fora da água, dia de água ou cor."
+      ],
+      "skipIf": [
+        "Você procura um veredito de qual tipo de filtro é melhor: este texto não dá, o mínimo que a norma exige é o mesmo para os dois.",
+        "Você tem melasma ou pele reativa, ou vai passar o produto em bebê: a decisão é do dermatologista ou do pediatra."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Mineral e químico descrevem o tipo de filtro, e a lista de ingredientes mostra qual é: dióxido de titânio e óxido de zinco são os minerais. Os requisitos mínimos da norma da Anvisa são os mesmos para qualquer tipo de filtro, inclusive o UVA, de pelo menos um terço do FPS. A conta da BioBio está mais abaixo."
+        ]
+      },
+      {
+        "heading": "Mineral, físico, químico: o que cada palavra quer dizer no rótulo",
+        "paragraphs": [
+          "Mineral e físico são o mesmo filtro com dois nomes; químico é o outro grupo, e um produto pode ter os dois. A [Sociedade Brasileira de Dermatologia](https://www.sbd.org.br/cuidados/cuidados-diarios-com-a-pele/) (SBD) explica que os fotoprotetores podem ser físicos ou inorgânicos e/ou químicos ou orgânicos, e que os físicos são à base de dióxido de titânio e óxido de zinco. O \"e/ou\" importa: \"mineral ou químico\" nem sempre é a escolha entre dois produtos.",
+          "Nas lojas, \"mineral\" e \"físico\" aparecem lado a lado: o protetor da BioBio usa as duas palavras no mesmo nome, Protetor Solar 100% Físico e Mineral. A norma da Anvisa, a [RDC 629/2022](https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=RDC&numeroAto=00000629&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&codTipo=&desItem=&desItemFim=&cod_menu=1696&cod_modulo=134&pesquisa=true), define protetor solar pela finalidade, a de proteger contra a radiação UVB e UVA \"absorvendo, dispersando ou refletindo a radiação\", sem dividir os produtos em minerais e químicos.",
+          "Regra prática, sem teste nosso: para saber de que tipo é o seu, abra a lista de ingredientes (INCI) e procure os dois nomes minerais. Se são os únicos filtros ali, o produto é só mineral; se há outros filtros na lista, ele combina tipos. Se a frente diz 100% mineral e a lista traz nome que você não conhece, pergunte à marca qual é a função dele. \"Mineral\" e \"100% mineral\" na frente da embalagem são palavras da marca."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/protetor-solar-biobio-e-bom-facial.webp",
+            "alt": "Tubo e caixa do Sunnature Facial FPS 30 da BioBio, com a palavra Mineral na embalagem.",
+            "caption": "Sunnature Facial FPS 30: a palavra Mineral está na frente da embalagem. Foto: BioBio.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30"
+          }
+        ]
+      },
+      {
+        "heading": "FPS 30 ou 50, e o que o UVA diz",
+        "paragraphs": [
+          "FPS 30 e FPS 50 caem na mesma faixa da norma; o número que quase ninguém olha é o UVA. Pela [RDC 629/2022](https://anvisalegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&tipo=RDC&numeroAto=00000629&seqAto=000&valorAno=2022&orgao=RDC/DC/ANVISA/MS&codTipo=&desItem=&desItemFim=&cod_menu=1696&cod_modulo=134&pesquisa=true), o FPS é a razão entre a dose de radiação que causa vermelhidão na pele (eritema) com o produto e sem ele, uma medida ligada à queimadura. O fator de proteção UVA, o FPUVA, segue a mesma lógica, mas olha o escurecimento persistente da pele, a reação usada para medir o UVA. A [SBD](https://www.sbd.org.br/cuidados/cuidados-com-a-pele-no-verao/) pede para ler os dois: o FPS, que indica o UVB, e o PPD, que indica o UVA.",
+          "O artigo 12 da norma fixa o mínimo de todo protetor: FPS 6, comprimento de onda crítico de 370 nm e FPUVA de pelo menos um terço do FPS declarado na rotulagem. Para a dúvida entre FPS 30 e 50, o anexo da norma agrupa de 30 a 50 numa faixa só, a de alta proteção, e chama de proteção muito alta o que passa de 50.",
+          "O terço é a regra do protetor solar. Base, BBS e pó entram na mesma conta para comparação; se forem multifuncionais pela norma, a exigência deles é outra, e a embalagem diz qual é o caso.",
+          "A tabela divide o UVA pelo FPS de cada produto da BioBio e compara com o mínimo da norma, um terço, ou 0,33. A loja escreve só \"UVA\" e um número, e a conta trata esse número como o FPUVA da norma."
+        ],
+        "comparisonTable": {
+          "caption": "FPS e UVA vêm da página de cada produto; a divisão é conta nossa.",
+          "headers": [
+            "Produto",
+            "FPS",
+            "UVA",
+            "UVA ÷ FPS",
+            "Contra o mínimo de um terço"
+          ],
+          "rows": [
+            [
+              "Sunnature Facial FPS 30",
+              "30",
+              "16",
+              "0,53",
+              "Acima do mínimo"
+            ],
+            [
+              "Sunnature Kids FPS 50",
+              "50",
+              "25",
+              "0,50",
+              "Acima do mínimo"
+            ],
+            [
+              "Base multifuncional em bastão FPS 33",
+              "33",
+              "25",
+              "0,76",
+              "Acima do mínimo"
+            ],
+            [
+              "BBS Blush, Batom e Sombra FPS 63",
+              "63",
+              "24",
+              "0,38",
+              "Acima do mínimo"
+            ],
+            [
+              "Pó Translúcido Facial FPS 42",
+              "42",
+              "14",
+              "0,33",
+              "Exatamente um terço (14 × 3 = 42)"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Pelos números da loja, o Facial e o Kids ficam acima do terço. Os três com cor também, e o pó fica exatamente nele. A conta serve para conferir se o rótulo fecha com a regra, não para ordenar produtos."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/protetor-solar-biobio-e-bom-kids.webp",
+            "alt": "Caixa e bastão do Sunnature Kids FPS 50 da BioBio, com o número 50 em destaque.",
+            "caption": "Sunnature Kids FPS 50 na embalagem da BioBio. Foto: BioBio.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://biobio.com.br/products/sunnature-kids-biobio-fps-50"
+          }
+        ]
+      },
+      {
+        "heading": "Não nano, natural, vegano, luz azul: o que a loja diz e o que o rótulo mostra",
+        "paragraphs": [
+          "A BioBio descreve os filtros do Facial como \"100% físicos e não nano\" e os do Pó Translúcido como \"100% minerais e não nano\". Aqui, \"não nano\" fica como afirmação da loja, atribuída à página.",
+          "A loja fala em 99,01% de ingredientes de origem natural e proteção contra a luz azul no Facial, e em fórmulas veganas. As definições de FPS e FPUVA da norma tratam de UVB e UVA, e não de luz azul.",
+          "\"Natural\" e \"vegano\" falam da origem dos ingredientes. Não dizem nada sobre FPS nem UVA, que são os números que a norma manda cumprir, e por isso não entram na conta.",
+          "Na BioBio, a lista de ingredientes do Kids FPS 50 e a do BBS FPS 63 traz, além dos dois minerais, o Salicilato de Butiloctila. Se a função dele pesa na sua escolha, pergunte ao SAC da loja ou ao dermatologista."
+        ]
+      },
+      {
+        "heading": "Resíduo branco, cor e acabamento",
+        "paragraphs": [
+          "A SBD lembra que os protetores físicos não eram bem aceitos antigamente por deixarem a pele esbranquiçada, e diz que isso tem sido minimizado. As páginas dos produtos descrevem assim: o Facial é sem cor, de toque seco e baixo resíduo branco; o Kids começa branco e, diz a loja, se adapta ao tom da pele ao espalhar. Como cada um fica na sua pele só o uso mostra.",
+          "Quem quer cor tem na BioBio a base em bastão (FPS 33), o BBS (FPS 63) e o pó (FPS 42). A norma separa o protetor solar, com a proteção como finalidade principal, do produto multifuncional, em que ela é um benefício adicional, e o multifuncional que declara FPS deve trazer a frase \"Este produto não é um protetor solar\" (artigos 17 e 18). A embalagem diz em qual caso cada um se enquadra. Se a base com FPS substitui o protetor está no [guia da base em bastão](/reviews/base-biobio-bastao-cores)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/biobio/base-biobio-bastao-cores-trio-essencial.webp",
+            "alt": "O Trio Essencial da BioBio, com o BBS, o pó facial e a base em bastão",
+            "caption": "O Trio Essencial: BBS, pó facial e base. Foto: BioBio",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Quanto passar, quando reaplicar e a água",
+        "paragraphs": [
+          "A quantidade e a reaplicação pesam tanto quanto o número do rótulo, e é o próprio rótulo que avisa. A norma obriga o rótulo a trazer advertências que mudam o uso (artigo 15). A reaplicação é necessária para manter a efetividade, e o produto deve ser aplicado abundantemente antes da exposição ao sol. Deve-se reaplicar após suor intenso, nado ou banho, toalha e durante a exposição. Se a quantidade aplicada não for adequada, o nível de proteção será significativamente reduzido. O artigo 14 proíbe prometer proteção total ou a possibilidade de não reaplicar.",
+          "A SBD indica uma colher de chá rasa para o rosto e três colheres de sopa para o corpo e, no [guia da campanha Dezembro Laranja](https://www.sbd.org.br/sociedade-de-dermatologia-lanca-guia-para-orientar-a-populacao-a-como-se-proteger-dos-raios-solares-e-evitar-o-cancer-de-pele/), duas colheres de chá para rosto, cabeça e pescoço. As duas doses são da SBD, e nenhuma vem em gramas, então o texto fica na colher. A SBD manda reaplicar a cada duas horas, ou antes disso se houver muita transpiração ou entrada na água.",
+          "\"Resistente à água\" só pode constar no rótulo com comprovação pelo método da norma (artigo 13). A BioBio informa que o Kids resiste à água e ao suor por até 40 minutos e que o Facial não é resistente à água. As duas páginas pedem reaplicação depois de molhar ou suar."
+        ],
+        "checklist": {
+          "title": "Antes de comprar, confira no rótulo",
+          "items": [
+            "O FPS declarado e a faixa dele na norma: de 30 a 50 é alta proteção, acima de 50 é proteção muito alta.",
+            "Multiplique o UVA por 3: o resultado tem de ser igual ao FPS ou maior.",
+            "Na lista de ingredientes, os filtros: dióxido de titânio e óxido de zinco são os minerais; outros nomes de filtro indicam outro tipo.",
+            "A resistência à água: só vale se estiver declarada, e a reaplicação continua valendo depois de molhar ou suar.",
+            "As advertências obrigatórias, como a de reaplicar, e a quantidade que a SBD indica, em colher."
+          ]
+        }
+      },
+      {
+        "heading": "O que a BioBio tem, lido pelo rótulo",
+        "paragraphs": [
+          "São cinco produtos com FPS, dois deles protetores e três com cor. A tabela junta o que a página de cada um informa e o preço do dia, com o EMCASABIOBIO. O [cupom BioBio](/cupons/biobio) dá 10% OFF no site oficial, vale para cliente novo e antigo e entra no Resumo da compra: clique em Inserir cupom de desconto, digite o código no campo Cupom (opcional) e clique em Adicionar. Confira a linha Cupom de desconto antes de pagar; o [passo a passo do checkout](/reviews/cupom-biobio-como-usar) mostra a tela."
+        ],
+        "comparisonTable": {
+          "caption": "Preço do dia no site, 23/11. Com o código: conta nossa, 10% sobre esse preço; no nosso teste de checkout, o desconto saiu no Facial.",
+          "headers": [
+            "Produto",
+            "Conteúdo",
+            "Filtros que a loja lista",
+            "Preço do dia",
+            "Com EMCASABIOBIO"
+          ],
+          "rows": [
+            [
+              "[Sunnature Facial FPS 30](https://biobio.com.br/products/protetor-solar-fisico-mineral-sunnature-fps30)",
+              "50 g",
+              "Dióxido de titânio e óxido de zinco",
+              "R$ 104,93",
+              "R$ 94,44"
+            ],
+            [
+              "[Sunnature Kids FPS 50](https://biobio.com.br/products/sunnature-kids-biobio-fps-50), em bastão",
+              "13 g",
+              "Óxido de zinco e dióxido de titânio",
+              "R$ 97,93",
+              "R$ 88,14"
+            ],
+            [
+              "[Base multifuncional em bastão FPS 33](https://biobio.com.br/products/base-multifuncional-em-bastao-com-protetor-solar-fps-33)",
+              "14 g",
+              "Dióxido de titânio e óxido de zinco",
+              "R$ 111,92 a R$ 123,11, conforme o tom",
+              "R$ 100,73 a R$ 110,80"
+            ],
+            [
+              "[BBS Blush, Batom e Sombra FPS 63](https://biobio.com.br/products/bbs-biobio-blush-batom-e-sombra-fps-63)",
+              "4,5 g",
+              "Dióxido de titânio e óxido de zinco",
+              "R$ 59,94 a R$ 87,91, conforme a cor",
+              "R$ 53,95 a R$ 79,12"
+            ],
+            [
+              "[Pó Translúcido Facial FPS 42](https://biobio.com.br/products/po-translucido-facial-sunnature-fps-42)",
+              "4 g",
+              "Óxido de zinco e dióxido de titânio",
+              "R$ 114,31",
+              "R$ 102,88"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A loja anuncia frete grátis no Sul e no Sudeste em compras acima de R$ 279; nas outras regiões e abaixo disso, o frete sai pelo CEP, no checkout."
+        ]
+      },
+      {
+        "heading": "Como escolher por situação",
+        "paragraphs": [
+          "A escolha sai do que o rótulo responde: água, cor e UVA."
+        ],
+        "bullets": [
+          "Água: a loja diz que o Kids resiste à água e ao suor por até 40 minutos e que o Facial não resiste; para rosto de adulto fora da água, o Facial é sem cor. Em criança, a norma manda consultar um médico abaixo de 6 meses e a SBD recomenda orientação de pediatra ou dermatologista; o [guia do protetor BioBio](/reviews/protetor-solar-biobio-e-bom) tem o capítulo do Kids.",
+          "Cor: base, BBS ou pó, depois de conferir a embalagem como no capítulo da cor.",
+          "UVA: o Facial tem FPS 30 e UVA 16, e o Kids, FPS 50 e UVA 25; a tabela do capítulo do UVA traz os cinco produtos.",
+          "Melasma, pele reativa, gravidez ou amamentação: quem decide é o dermatologista ou o médico, e nem o rótulo nem este texto o substituem."
+        ],
+        "emphasis": "Eu leria primeiro o que a norma manda cumprir, o FPS e o UVA, depois a quantidade e a reaplicação, e só então o tipo de filtro."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual a diferença entre protetor solar mineral e químico, e quais são? Pela SBD, os físicos ou inorgânicos, que são os minerais, são à base de dióxido de titânio e óxido de zinco; os químicos ou orgânicos formam o outro grupo, e um produto pode ter os dois tipos. Os filtros químicos aparecem na lista de ingredientes do rótulo.",
+          "Protetor solar mineral é melhor que o químico? Os requisitos mínimos da norma são os mesmos para qualquer tipo de filtro: o artigo 12 (FPS mínimo de 6, FPUVA de pelo menos um terço do FPS e comprimento de onda crítico de 370 nm) não separa por tipo. A SBD descreve os dois tipos e pede um produto de amplo espectro. A escolha é de rotina e de pele; na dúvida, o dermatologista.",
+          "Qual é o cupom da BioBio? EMCASABIOBIO, com 10% OFF no site oficial, para cliente novo e antigo. Ele entra no Resumo da compra, no campo Cupom (opcional); o capítulo dos produtos mostra o caminho.",
+          "FPS 30 ou 50: qual escolher? Pelo anexo da RDC 629/2022, de 30 a 50 é a mesma faixa, a de alta proteção, e acima de 50 é proteção muito alta. Antes do número, olhe o UVA, a resistência à água, que só vale com comprovação, e a quantidade que você passa. O capítulo sobre o UVA traz a conta.",
+          "O que é UVA no rótulo do protetor solar? Pela norma, o fator de proteção UVA mede o escurecimento persistente da pele e tem um mínimo ligado ao FPS. O capítulo sobre o UVA explica a regra e traz a conta dos produtos da BioBio."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-24"
+  },
+  {
+    "id": 1402,
+    "slug": "pinkcheeks-ou-ollie-protetor-bastao",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "PNK-EMCASACOMCECILIA",
+    "affiliate": "pinkcheeks",
+    "title": "Pink Cheeks ou Ollie: qual protetor solar em bastão sai melhor pelo FPS, FPUVA e preço por grama",
+    "seoTitle": "Pink Cheeks ou Ollie: protetor em bastão, FPS e preço",
+    "type": "Comparativo",
+    "description": "Compare o Pink Stick e os bastões da Ollie por FPS, FPUVA, gramatura e preço por grama, com o que cada ficha informa e a conta feita com o código da Pink Cheeks.",
+    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Compare o Pink Stick e a Ollie por FPS, FPUVA, gramatura e preço por grama.",
+    "image": "/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-capa.webp",
+    "imageAlt": "Clear Stick da Pink Cheeks, protetor solar em bastão transparente com FPS 70 e FPUVA 50, em foto oficial da loja. A capa traz o logo Pink Cheeks e a chamada “Pink Cheeks ou Ollie?”.",
+    "cta": {
+      "text": "Confira o bastão e o tom na Pink Cheeks. No checkout, aplique PNK-EMCASACOMCECILIA e confira os 10% OFF.",
+      "label": "Ir para a Pink Cheeks",
+      "url": "https://pinkcheeks.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Não usamos nenhum dos bastões: os dados vêm das páginas e dos rótulos. Somos parceiros da Pink Cheeks e podemos receber comissão pelo cupom. A Ollie não é parceira.",
+    "relatedArticles": [
+      {
+        "slug": "pinkcheeks-e-boa"
+      },
+      {
+        "slug": "pink-stick-qual-cor-escolher"
+      },
+      {
+        "slug": "cupom-pinkcheeks-como-usar"
+      },
+      {
+        "slug": "pinkcheeks-e-confiavel"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer o maior FPUVA que as marcas publicam e aceita um bastão com cor: o Pink Stick informa 70, contra 40 da Ollie.",
+        "Você quer o bastão com cor que custa menos por grama e vai usar o código da Pink Cheeks."
+      ],
+      "skipIf": [
+        "Você evita fragrância e quer um bastão com cor: a lista do Pink Stick inclui perfume, e a página do Bastão Com Cor da Ollie não mostra os ingredientes.",
+        "Você quer cobertura média declarada pela marca: o Pink Stick informa leve a média.",
+        "Você quer o bastão sem cor que custa menos por grama: contra o Clear Stick, a Ollie Incolor custa menos."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo que as marcas publicam, o Pink Stick tem FPUVA 70 e FPS 90, e os bastões da Ollie, FPS 95 e FPUVA 40. Com cor, o Pink Stick custa menos por grama, e o código da Pink Cheeks aumenta a diferença. Sem cor, a Ollie Incolor custa menos por grama que o Clear Stick."
+        ]
+      },
+      {
+        "heading": "Quanto sai o grama, com o código aplicado",
+        "paragraphs": [
+          "A conta compara bastão com cor contra bastão com cor, e bastão sem cor contra bastão sem cor. O preço por grama é o preço dividido pelo peso informado na página. A tabela usa o preço de tabela das duas marcas, e na Pink Cheeks a coluna do código é conta nossa, com 10% sobre esse valor."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pink-stick-qual-cor-escolher-clear-stick.webp",
+            "alt": "Clear Stick em embalagem transparente com rótulo branco, FPS 70 e FPUVA 50",
+            "caption": "Clear Stick, o bastão transparente da Pink Cheeks. Foto: Pink Cheeks.",
+            "href": "https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ],
+        "comparisonTable": {
+          "caption": "Preço de tabela de cada marca, antes do frete.",
+          "headers": [
+            "Bastão",
+            "Gramatura",
+            "Preço com PNK-EMCASACOMCECILIA",
+            "Por grama com o código",
+            "Preço de tabela",
+            "Por grama, preço de tabela"
+          ],
+          "rows": [
+            [
+              "[Pink Stick 21 KM](https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km), com cor",
+              "15,5 g",
+              "R$ 116,91",
+              "R$ 7,54",
+              "R$ 129,90",
+              "R$ 8,38"
+            ],
+            [
+              "Ollie Bastão Com Cor",
+              "15 g",
+              "—",
+              "—",
+              "R$ 139,00",
+              "R$ 9,27"
+            ],
+            [
+              "[Clear Stick](https://pinkcheeks.com.br/products/clear-stick-protetor-transparente-fps70-fpuva50-12g), sem cor",
+              "12 g",
+              "R$ 125,91",
+              "R$ 10,49",
+              "R$ 139,90",
+              "R$ 11,66"
+            ],
+            [
+              "Ollie Bastão Incolor",
+              "17 g",
+              "—",
+              "—",
+              "R$ 109,00",
+              "R$ 6,41"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O [cupom Pink Cheeks](/cupons/pinkcheeks) vale só no site da Pink Cheeks: cole o código em “Código de desconto ou cartão-presente”, no checkout, com o hífen depois de PNK.",
+          "No dia da consulta, o site da Pink Cheeks vendia o Pink Stick a R$ 99,90, e o código entra sobre esse valor.",
+          "O Pink Stick 5 KM também é incolor, mas a página não informa a gramatura dele, então ele fica fora da conta por grama."
+        ]
+      },
+      {
+        "heading": "O que cada ficha informa",
+        "paragraphs": [
+          "O Pink Stick declara o maior FPUVA dos três, e a Ollie, o maior FPS. O quadro põe lado a lado o que cada marca publica."
+        ],
+        "comparisonTable": {
+          "caption": "Dados publicados pelas marcas.",
+          "headers": [
+            "Campo",
+            "Pink Stick 21 KM",
+            "Clear Stick",
+            "Ollie Bastão Com Cor",
+            "Ollie Bastão Incolor"
+          ],
+          "rows": [
+            [
+              "FPS",
+              "90",
+              "70",
+              "95",
+              "95"
+            ],
+            [
+              "FPUVA",
+              "70",
+              "50",
+              "40",
+              "40"
+            ],
+            [
+              "Gramatura",
+              "15,5 g",
+              "12 g",
+              "15 g",
+              "17 g"
+            ],
+            [
+              "Cor",
+              "9 tonalidades, uma incolor (5 KM)",
+              "sem cor, transparente",
+              "6 tons, de #10 a #60",
+              "sem cor"
+            ],
+            [
+              "Cobertura, segundo a marca",
+              "leve a média",
+              "transparente",
+              "média",
+              "não se aplica"
+            ],
+            [
+              "Água e suor, segundo a marca",
+              "resistência comprovada durante 2 horas",
+              "—",
+              "a página do produto não abre",
+              "alta resistência, sem tempo informado"
+            ],
+            [
+              "Filtros",
+              "orgânicos e inorgânicos",
+              "—",
+              "a página do produto não abre",
+              "dióxido de titânio e quatro filtros químicos"
+            ],
+            [
+              "Perfume na lista de ingredientes",
+              "sim: perfume, limoneno e linalol",
+              "—",
+              "a página do produto não abre",
+              "não lista perfume nem fragrância"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Bastão Incolor da Ollie não lista perfume, combina dióxido de titânio com filtros químicos e pede reaplicação a cada 2 horas. A marca diz que ele não escorre nem arde os olhos.",
+          "A página do Bastão Com Cor da Ollie redireciona para um quiz que abriu vazio. Por isso sabemos o FPS, o FPUVA, o peso, os tons e a “cobertura média” que a loja publica, mas não a lista de ingredientes nem o modo de uso. Quem evita fragrância precisa conferir a embalagem.",
+          "No Pink Stick, a página informa filtros orgânicos e inorgânicos, vitamina E e resistência à água e ao suor comprovada durante 2 horas. A lista de ingredientes do 21 KM inclui perfume, limoneno e linalol. Para o que a loja diz sobre o produto e como tirar, veja o [guia da Pink Cheeks](/reviews/pinkcheeks-e-boa). FPS e FPUVA são escalas diferentes, então compare FPS com FPS e FPUVA com FPUVA."
+        ]
+      },
+      {
+        "heading": "Cor e tom: o que cada marca oferece",
+        "paragraphs": [
+          "A Pink Cheeks tem nove tonalidades do Pink Stick, de 5 KM, incolor, a 100 KM Ultra. A página tem o recurso “Prove virtualmente” e fotos das cores em rostos e braços. A loja não descreve o subtom de cada cor em texto.",
+          "A Ollie tem seis tons no Bastão Com Cor, de #10 a #60. Com a página fora do ar, a orientação de tom da Ollie não está disponível. Nenhuma das duas informa qual tom combina com qual pele. A comparação dos nove tons do Pink Stick, com foto, está no [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-pink-stick-cores-rosto.webp",
+            "alt": "Oito rostos com o Pink Stick, cada um com o nome da cor, de 10 KM a 100 KM, e um rosto com a indicação INCOLOR, em foto da Pink Cheeks",
+            "caption": "Paleta oficial do Pink Stick nos rostos: oito tons com cor e o 5 KM incolor. Foto: Pink Cheeks.",
+            "href": "https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-ou-ollie-protetor-bastao-pink-stick-21km.webp",
+            "alt": "Pink Stick FPS 90 e FPUVA 70 da Pink Cheeks com a textura do tom 21 KM ao lado do bastão, em foto oficial da loja.",
+            "caption": "Pink Stick com a textura do tom 21 KM. Foto: Pink Cheeks.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://pinkcheeks.com.br/products/pink-stick-fps90-fpuva70-21km"
+          }
+        ]
+      },
+      {
+        "heading": "Onde cada uma ganha",
+        "paragraphs": [
+          "Para quem quer o maior FPUVA declarado, o Pink Stick: 70, contra 40 da Ollie. Entre os bastões com cor, ele também custa menos por grama, e o código aumenta a diferença. Em compensação, a lista de ingredientes inclui perfume, e o FPS dele (90) é menor que o da Ollie (95).",
+          "Para quem quer um bastão sem cor, a Ollie Incolor custa menos por grama que o Clear Stick, e a lista de ingredientes dela não traz perfume. O Clear Stick declara FPUVA 50, contra 40 da Ollie, e FPS 70, contra 95.",
+          "Quem quer cobertura média declarada fica com o Bastão Com Cor da Ollie; o Pink Stick fala em leve a média. Na dúvida sobre fórmula ou pele sensível, o dermatologista."
+        ],
+        "emphasis": "A conta fecha assim: com cor, o Pink Stick tem mais FPUVA e custa menos por grama. Sem cor, a Ollie Incolor custa menos por grama que o Clear Stick. A cor certa na sua pele nenhuma ficha resolve."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Pink Cheeks ou Ollie: qual é melhor? Depende do que você prioriza. O Pink Stick publica o maior FPUVA e custa menos por grama entre os bastões com cor. Sem cor, a Ollie Incolor custa menos por grama que o Clear Stick. O veredito resume por perfil.",
+          "Qual protetor em bastão tem mais FPUVA? O Pink Stick, com 70. O Clear Stick declara 50, e os dois bastões da Ollie declaram 40.",
+          "A Ollie tem bastão sem cor? Sim. A página do Bastão Incolor informa FPS 95, FPUVA 40 e 17 g.",
+          "O Pink Stick tem o mesmo FPS da Ollie? Não: o Pink Stick declara 90, e os bastões da Ollie, 95. O quadro “O que cada ficha informa” traz os números lado a lado.",
+          "Qual é o cupom da Pink Cheeks? É o PNK-EMCASACOMCECILIA, com 10% OFF no site da Pink Cheeks, para cliente novo e antigo. Ele não vale na Ollie."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1403,
+    "slug": "pinkcheeks-glow-booster-pure-gold-ou-rose-gold",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "PNK-EMCASACOMCECILIA",
+    "affiliate": "pinkcheeks",
+    "title": "Glow Booster Pink Cheeks: Pure Gold ou Rose Gold, o que a loja diz de cada cor",
+    "seoTitle": "Glow Booster Pink Cheeks: Pure Gold ou Rose Gold",
+    "type": "Guia de Produto",
+    "description": "Pure Gold e Rose Gold do Glow Booster da Pink Cheeks lado a lado: o que a loja diz de cada cor, os seis filtros da lista de ingredientes, o preço e o código.",
+    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF na Pink Cheeks. Veja o Glow Booster Pure Gold e Rose Gold: o que a loja diz de cada cor, os filtros e o FPS 70.",
+    "image": "/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-capa.webp",
+    "imageAlt": "Frascos do Glow Booster Pure Gold e Rose Gold da Pink Cheeks lado a lado, em foto oficial da loja. A capa traz o logo Pink Cheeks e a chamada “Glow Booster: Pure Gold ou Rose Gold?”.",
+    "cta": {
+      "text": "Veja o Glow Booster na Pink Cheeks. No checkout, aplique PNK-EMCASACOMCECILIA e confira os 10% OFF.",
+      "label": "Ir para a Pink Cheeks",
+      "url": "https://pinkcheeks.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Não usamos o Glow Booster: o texto segue a página da Pink Cheeks. Somos parceiros e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "pinkcheeks-e-boa"
+      },
+      {
+        "slug": "pink-stick-qual-cor-escolher"
+      },
+      {
+        "slug": "cupom-pinkcheeks-como-usar"
+      },
+      {
+        "slug": "black-friday-pinkcheeks"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você quer FPS 70 e FPUVA 55 num produto de brilho para o rosto, para usar antes da maquiagem.",
+        "Você aceita escolher entre Pure Gold e Rose Gold pelas fotos das duas páginas, já que a loja não indica cor por tom de pele."
+      ],
+      "skipIf": [
+        "Você prefere evitar filtro químico: os seis filtros solares do Glow Booster são desse tipo.",
+        "Você evita perfume na fórmula: ele consta na lista de ingredientes."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O Glow Booster tem a mesma ficha em Pure Gold e Rose Gold, e a Pink Cheeks não diz qual cor serve a qual tom de pele. Os seis filtros solares são químicos, e há perfume na lista. Decida primeiro por filtro e perfume; a cor fica para as fotos, e só o Rose Gold aparece aplicado na pele."
+        ]
+      },
+      {
+        "heading": "Glow Booster Pure Gold e Rose Gold: o que a loja informa",
+        "paragraphs": [
+          "O Glow Booster é da Pink Cheeks, feito para o rosto e para ir antes da maquiagem. A loja o descreve como um produto que “hidrata, protege e ilumina”. É para quem quer FPS 70 e brilho no mesmo frasco.",
+          "As duas páginas trazem a mesma ficha: a tabela vale para Pure Gold e Rose Gold, e a diferença está no nome e nas fotos."
+        ],
+        "comparisonTable": {
+          "caption": "Dados das páginas do Glow Booster, iguais nas duas cores.",
+          "headers": [
+            "Item",
+            "Pure Gold e Rose Gold"
+          ],
+          "rows": [
+            [
+              "FPS e FPUVA",
+              "FPS 70 e FPUVA 55"
+            ],
+            [
+              "Volume",
+              "30 ml"
+            ],
+            [
+              "Textura",
+              "Dry Oil"
+            ],
+            [
+              "Água e suor",
+              "Resistente, sem informar por quantos minutos"
+            ],
+            [
+              "Reaplicação",
+              "A cada 2 h"
+            ],
+            [
+              "Ativos citados",
+              "Ácido hialurônico, óleo de canola e vitamina E"
+            ],
+            [
+              "Onde usar",
+              "No rosto, antes da maquiagem"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Pure Gold ou Rose Gold: o que a loja diz de cada cor",
+        "paragraphs": [
+          "A loja não diz qual cor serve a qual tom de pele, e este guia também não vai dizer. A Pink Cheeks apresenta as duas como cores que “se adaptam aos diferentes tons de pele”, e é só isso: não há tabela de tom nem texto que separe uma cor da outra. O Pink Stick tem paleta oficial, como mostra o [guia do Pink Stick](/reviews/pink-stick-qual-cor-escolher); para o Glow Booster, a loja não indica critério de cor.",
+          "A única pista é visual, e ela é desigual: só a página do Rose Gold mostra a cor aplicada na pele (“COR ROSE GOLD”). No Pure Gold, você julga pelo frasco e pela textura. Abra as duas páginas, a do [Pure Gold](https://pinkcheeks.com.br/products/glow-booster-pure-gold-fps70-30ml) e a do [Rose Gold](https://pinkcheeks.com.br/products/glow-booster-rose-gold-fps70-30ml), antes de pagar.",
+          "A política de trocas da Pink Cheeks pede o produto lacrado na desistência em 7 dias. A regra é da loja: o arrependimento da compra online vem do Código de Defesa do Consumidor, e numa recusa o caminho é o Procon. Na prática, decida a cor antes de abrir. As regras estão em [se a Pink Cheeks é confiável](/reviews/pinkcheeks-e-confiavel). E não confunda: o Iluminador Multifuncional Gold, da mesma loja, é outro produto, com FPS 90."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-glow-booster-pure-gold-ou-rose-gold-cores.webp",
+            "alt": "Texturas do Glow Booster lado a lado: Pure Gold à esquerda e Rose Gold à direita.",
+            "caption": "Textura do Pure Gold (à esquerda) e do Rose Gold (à direita), nas miniaturas de cor da loja. Fotos: Pink Cheeks; montagem nossa.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Filtros do Glow Booster: o que a lista de ingredientes traz",
+        "paragraphs": [
+          "A lista de ingredientes da página do Glow Booster traz seis filtros solares, todos do tipo químico (orgânico), e perfume (PARFUM). Os seis, como aparecem na página:"
+        ],
+        "bullets": [
+          "ISOAMYL P-METHOXYCINNAMATE",
+          "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE (bemotrizinol)",
+          "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+          "ETHYLHEXYL TRIAZONE",
+          "BUTYL METHOXYDIBENZOYLMETHANE (avobenzona)",
+          "ETHYLHEXYL SALICYLATE (octissalato)"
+        ],
+        "postParagraphs": [
+          "Pela [Sociedade Brasileira de Dermatologia](https://www.sbd.org.br/cuidados/cuidados-diarios-com-a-pele/), os filtros físicos, ou inorgânicos, são os de dióxido de titânio e óxido de zinco; os demais são químicos, ou orgânicos. Nenhum dos seis filtros do Glow Booster é mineral: a proteção dele vem só de filtros químicos.",
+          "Essa resposta não vale para os outros produtos da marca: a página do Pink Stick informa que ele une filtros orgânicos e inorgânicos, como conta o [Pink Cheeks é boa?](/reviews/pinkcheeks-e-boa). Físico ou químico também não diz qual serve para a sua pele. Se você tem acne, reage fácil a produto novo ou quer evitar perfume, na dúvida, o dermatologista."
+        ]
+      },
+      {
+        "heading": "Como aplicar o Glow Booster",
+        "paragraphs": [
+          "A loja indica o Glow Booster no rosto, antes da maquiagem, com reaplicação a cada 2 horas."
+        ],
+        "bullets": [
+          "Passe no rosto antes da maquiagem.",
+          "Espere assentar antes de passar a maquiagem por cima; isso é cuidado nosso, não instrução da loja.",
+          "Reaplique a cada 2 horas, como a loja orienta, e depois de suar ou entrar na água.",
+          "Se a pele reage fácil a produto novo, teste numa área pequena antes do rosto todo."
+        ]
+      },
+      {
+        "heading": "Preço do Glow Booster com o código",
+        "paragraphs": [
+          "As duas cores custam o mesmo, então o preço não ajuda a escolher entre Pure Gold e Rose Gold. O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, para cliente novo e antigo. O código vai no campo “Código de desconto ou cartão-presente”, no resumo do checkout; o passo a passo está em [como usar o cupom Pink Cheeks](/reviews/cupom-pinkcheeks-como-usar)."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de tabela no site, 23/11, antes do frete. Com o código: conta nossa, 10% sobre o preço de tabela.",
+          "headers": [
+            "Cor",
+            "Volume",
+            "Com PNK-EMCASACOMCECILIA",
+            "Preço de tabela",
+            "Por ml com o código"
+          ],
+          "rows": [
+            [
+              "[Pure Gold](https://pinkcheeks.com.br/products/glow-booster-pure-gold-fps70-30ml)",
+              "30 ml",
+              "R$ 130,41",
+              "R$ 144,90",
+              "R$ 4,35"
+            ],
+            [
+              "[Rose Gold](https://pinkcheeks.com.br/products/glow-booster-rose-gold-fps70-30ml)",
+              "30 ml",
+              "R$ 130,41",
+              "R$ 144,90",
+              "R$ 4,35"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "No dia da consulta, o site vendia cada cor a R$ 99,90, e o código entra sobre esse valor.",
+          "Nos nossos testes de checkout na loja, os 10% entraram também em produto em promoção; confira a linha “Desconto no pedido” no seu carrinho. A conta da tabela é a regra aplicada ao preço de tabela da página. Confira o preço no dia da compra."
+        ],
+        "checklist": {
+          "title": "Antes de fechar o pedido",
+          "items": [
+            "Você abriu as páginas do Pure Gold e do Rose Gold e comparou as fotos?",
+            "Você decidiu a cor antes de abrir o frasco?",
+            "O item no carrinho é o Glow Booster, e não o Iluminador Multifuncional Gold?",
+            "O PNK-EMCASACOMCECILIA aparece na linha “Desconto no pedido”, com o hífen depois de PNK?",
+            "A lista de ingredientes, com perfume e filtros químicos, serve para você?"
+          ]
+        }
+      },
+      {
+        "heading": "Quem leva o Glow Booster e como decidir a cor",
+        "paragraphs": [
+          "O que o quadro acima não diz: só o Rose Gold aparece aplicado na pele, e a política da loja pede o produto lacrado para a desistência. Decida a cor antes de abrir o frasco."
+        ],
+        "emphasis": "Pure Gold e Rose Gold têm a mesma ficha, então a decisão é por filtro e perfume, que estão na lista, e a cor fica para as fotos das duas páginas."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o cupom da Pink Cheeks para o Glow Booster? O código é PNK-EMCASACOMCECILIA e dá 10% OFF no site oficial da Pink Cheeks, para cliente novo e antigo. A conta está no capítulo de preço.",
+          "O Glow Booster tem perfume? Tem: PARFUM consta na lista de ingredientes da página. Quem evita perfume na fórmula deve conferir a lista antes de comprar.",
+          "Qual cor do Glow Booster escolher? A loja diz só que as duas cores se adaptam aos diferentes tons de pele e não indica cor por tom. Compare as fotos das duas páginas antes de comprar.",
+          "O Glow Booster é físico ou químico? Pela lista de ingredientes da página, os seis filtros solares são químicos (orgânicos), e nenhum é mineral. Os nomes estão no capítulo dos filtros.",
+          "O Glow Booster resiste ao suor? A loja informa resistência à água e ao suor e orienta reaplicar a cada 2 horas."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1404,
+    "slug": "pinkcheeks-antiatrito-bastao-spray-creme",
+    "locale": "pt",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "24 de novembro de 2026",
+    "publishedAtISO": "2026-11-24",
+    "draft": false,
+    "isNew": true,
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "coupon": "PNK-EMCASACOMCECILIA",
+    "affiliate": "pinkcheeks",
+    "title": "Antiatrito Pink Cheeks: bastão, spray ou creme, qual usar na corrida e no treino",
+    "seoTitle": "Antiatrito Pink Cheeks: bastão, spray ou creme",
+    "type": "Guia de Escolha",
+    "description": "Bastão, spray de 35 e 75 ml, Chamois Cream e bastão Speedo da Pink Cheeks, com tamanho, área indicada, onde está a instrução de uso e preço com o código PNK-EMCASACOMCECILIA.",
+    "metaDescription": "PNK-EMCASACOMCECILIA dá 10% OFF no antiatrito da Pink Cheeks. Compare bastão, spray e creme pela área do atrito, pelo tamanho e pelo preço.",
+    "image": "/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-capa.webp",
+    "imageAlt": "Spray Redless Coat de 35 ml e creme Redless Chamois Cream da Pink Cheeks lado a lado, em foto oficial da loja. A capa traz o logo Pink Cheeks e a chamada “Antiatrito: bastão, spray ou creme?”.",
+    "cta": {
+      "text": "Confira a ficha de cada antiatrito na Pink Cheeks. No checkout, aplique PNK-EMCASACOMCECILIA e confira os 10% OFF.",
+      "label": "Ir para a Pink Cheeks",
+      "url": "https://pinkcheeks.com.br/",
+      "sponsored": true
+    },
+    "editorialNote": "Não usamos os antiatritos: o texto segue as fichas e o FAQ da loja. Somos parceiros da Pink Cheeks e podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "pinkcheeks-e-boa"
+      },
+      {
+        "slug": "black-friday-pinkcheeks"
+      },
+      {
+        "slug": "cupom-pinkcheeks-como-usar"
+      },
+      {
+        "slug": "pinkcheeks-e-confiavel"
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você sente atrito em áreas pequenas, como o top ou a fita do frequencímetro, e quer um item fácil de levar. A loja indica o bastão Redless para tecidos e acessórios.",
+        "Você quer cobrir coxas ou pés de uma vez. A loja indica o spray Redless Coat para pele com pele, em 35 ml ou 75 ml.",
+        "Você prefere aplicar um creme com a mão. A loja indica o Chamois Cream para a pele externa da virilha, coxas e axilas."
+      ],
+      "skipIf": [
+        "Você tem pele sensível ou evita perfume. O Chamois Cream e o bastão Speedo não trazem perfume na lista; o bastão Redless e o spray trazem, e a dúvida vai para um dermatologista.",
+        "Você não sente atrito no treino nem no dia a dia. A linha é de uso específico."
+      ]
+    },
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na linha antiatrito da Pink Cheeks, a escolha sai da área do atrito: a loja indica o bastão Redless para o contato da pele com tecidos e acessórios, o spray Redless Coat para pele com pele e o Chamois Cream para a virilha, as coxas e as axilas. Quem evita perfume confere a coluna de perfume da tabela abaixo."
+        ]
+      },
+      {
+        "heading": "Bastão, spray, creme e Speedo: o que a ficha de cada item informa",
+        "paragraphs": [
+          "Dos cinco antiatritos da Pink Cheeks, dois são o mesmo spray em tamanhos diferentes, então a escolha real é entre bastão, spray e creme. A tabela mostra o que a loja destaca em cada um e quais levam perfume."
+        ],
+        "comparisonTable": {
+          "caption": "Dados das fichas da loja. Os preços estão no capítulo de preço.",
+          "headers": [
+            "Item",
+            "Tamanho",
+            "O que a ficha destaca",
+            "Perfume na lista de ingredientes"
+          ],
+          "rows": [
+            [
+              "[Bastão Redless](https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g)",
+              "18 g",
+              "Áreas como o top e a fita do frequencímetro",
+              "Sim, com limoneno e linalol"
+            ],
+            [
+              "[Spray Redless Coat](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-35ml)",
+              "35 ml",
+              "Película protetora que facilita o deslizamento e sem sensação pegajosa",
+              "Sim"
+            ],
+            [
+              "[Spray Redless Coat](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-75ml)",
+              "75 ml",
+              "Mesma lista de ingredientes do de 35 ml; muda o volume",
+              "Sim"
+            ],
+            [
+              "[Redless Chamois Cream](https://pinkcheeks.com.br/products/antiatrito-redless-chamois-cream-100g-1)",
+              "100 g",
+              "Ativos hidratantes e antioxidantes; a lista traz óleo de uva, calêndula e melaleuca",
+              "Não aparece na lista"
+            ],
+            [
+              "[Bastão Speedo](https://pinkcheeks.com.br/products/antiatrito-em-bastao-speedo-b-13g)",
+              "13 g",
+              "Camada seca e transparente; a lista traz rosa mosqueta, ceras e vitamina E",
+              "Não aparece na lista"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O bastão Speedo também vem no kit Speedo, que está no guia da [Black Friday da Pink Cheeks](/reviews/black-friday-pinkcheeks)."
+        ]
+      },
+      {
+        "heading": "Onde aplicar cada um, segundo a loja",
+        "paragraphs": [
+          "A loja separa os itens pelo tipo de atrito: pele com tecido, pele com pele e a virilha."
+        ],
+        "bullets": [
+          "Bastão Redless: para atrito entre a pele e tecidos ou acessórios. A ficha cita áreas como o top e a fita do frequencímetro.",
+          "Spray Redless Coat: para pele com pele. A loja indica para coxas e pés, áreas em que ela cita bolhas.",
+          "Redless Chamois Cream: a ficha lista virilha, braços, coxas e axilas.",
+          "Bastão Speedo: a loja destaca a camada seca e transparente, sem apontar uma área específica."
+        ],
+        "postParagraphs": [
+          "Coxas aparecem no spray e no creme. Pela separação da loja, o spray é para pele roçando em pele e o creme, para a virilha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-e-boa-redless-antiatrito-bastao.webp",
+            "alt": "Bastão antiatrito Redless da Pink Cheeks, verde-água, ao lado da caixa branca, em foto oficial do produto",
+            "caption": "Redless Antiatrito em Bastão, de 18 g. Imagem: Pink Cheeks.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g"
+          },
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-spray.webp",
+            "alt": "Spray antiatrito Redless Coat de 35 ml da Pink Cheeks, em foto oficial do produto.",
+            "caption": "Redless Coat, spray de 35 ml. Foto: Pink Cheeks.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-35ml"
+          },
+          {
+            "src": "/images/reviews/pinkcheeks/pinkcheeks-antiatrito-bastao-spray-creme-creme.webp",
+            "alt": "Creme antiatrito Redless Chamois Cream de 100 g da Pink Cheeks, em foto oficial do produto.",
+            "caption": "Redless Chamois Cream, creme de 100 g. Foto: Pink Cheeks.",
+            "objectFit": "contain",
+            "aspectRatio": 1,
+            "href": "https://pinkcheeks.com.br/products/antiatrito-redless-chamois-cream-100g-1"
+          }
+        ]
+      },
+      {
+        "heading": "Onde está a instrução de uso",
+        "paragraphs": [
+          "Nos dois sprays, a instrução está na aba Modo de uso da página. No bastão Redless, no Chamois Cream e no bastão Speedo, essa aba aparece em branco: a instrução está no texto de descrição, mais abaixo. Leia também a embalagem antes de aplicar; com pele sensível ou em área íntima, na dúvida, o dermatologista."
+        ]
+      },
+      {
+        "heading": "Preço com o código",
+        "paragraphs": [
+          "O [cupom Pink Cheeks](/cupons/pinkcheeks) PNK-EMCASACOMCECILIA dá 10% OFF no site oficial, para cliente novo e antigo. Cole o código no campo \"Código de desconto ou cartão-presente\", no checkout, e clique em Aplicar. Nos nossos testes, ele somou com preço promocional. A coluna do código é conta nossa: 10% sobre o preço de tabela. Confira o desconto no checkout antes de pagar.",
+          "O site está em campanha de Black Friday, e no dia da leitura os cinco itens saíam entre R$ 52,90 e R$ 69,90 antes do código. Esses valores podem mudar quando a campanha acabar."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de tabela no site, 23/11, antes do frete.",
+          "headers": [
+            "Item",
+            "Com PNK-EMCASACOMCECILIA",
+            "Preço de tabela"
+          ],
+          "rows": [
+            [
+              "[Bastão Redless, 18 g](https://pinkcheeks.com.br/products/antiatrito-em-bastao-redless-18g)",
+              "R$ 71,91",
+              "R$ 79,90"
+            ],
+            [
+              "[Spray Redless Coat, 35 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-35ml)",
+              "R$ 67,41",
+              "R$ 74,90"
+            ],
+            [
+              "[Spray Redless Coat, 75 ml](https://pinkcheeks.com.br/products/antiatrito-spray-redless-coat-75ml)",
+              "R$ 89,91",
+              "R$ 99,90"
+            ],
+            [
+              "[Redless Chamois Cream, 100 g](https://pinkcheeks.com.br/products/antiatrito-redless-chamois-cream-100g-1)",
+              "R$ 71,91",
+              "R$ 79,90"
+            ],
+            [
+              "[Bastão Speedo, 13 g](https://pinkcheeks.com.br/products/antiatrito-em-bastao-speedo-b-13g)",
+              "R$ 67,41",
+              "R$ 74,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Não dá para comparar o preço de um bastão em gramas com o de um spray em mililitros. Escolha a forma pela área do atrito e só então olhe o preço."
+        ]
+      },
+      {
+        "heading": "Para corrida e treino: como escolher",
+        "paragraphs": [
+          "Regra prática, sem teste nosso: o bastão marca uma faixa estreita, onde a alça ou a fita encosta, e o spray cobre uma área larga de uma vez; o de 35 ml é o tamanho de levar, o de 75 ml, o de uso frequente.",
+          "A loja apresenta os cinco itens como proteção contra atrito e assadura. Essa é a indicação dela; aqui a comparação fica na forma, na área e no preço. O antiatrito não substitui a roupa adequada ao treino, e irritação que não passa é assunto para o dermatologista."
+        ],
+        "emphasis": "Escolha pela área em que o atrito aparece e confira a indicação da loja para ela. A forma, bastão, spray ou creme, vem depois."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual antiatrito Pink Cheeks é melhor? Depende da área do atrito. No FAQ da loja, o bastão Redless é para tecidos e acessórios, o spray Redless Coat é para pele com pele e o Chamois Cream é para a virilha e outras áreas de atrito.",
+          "Antiatrito Pink Cheeks é bom? A loja diz que o spray forma uma película que facilita o deslizamento, sem sensação pegajosa, e que o bastão Speedo deixa uma camada seca e transparente. A tabela do início mostra o que ela destaca em cada item.",
+          "Pink Cheeks tem antiatrito em spray? Tem, o Redless Coat, em 35 ml e em 75 ml. Segundo as fichas, os dois têm a mesma lista de ingredientes e informam o mesmo número de processo na Anvisa.",
+          "Existe antiatrito Pink Cheeks de 45 g? Não existe na loja. O bastão Redless tem 18 g, o spray tem 35 ml ou 75 ml, o creme tem 100 g e o bastão Speedo tem 13 g. O único item de 45 g do catálogo é o protetor corporal Shield.",
+          "Qual é o cupom da Pink Cheeks? É o PNK-EMCASACOMCECILIA, com 10% OFF no site da Pink Cheeks, para cliente novo e antigo; o capítulo de preço mostra onde colar."
+        ]
+      }
+    ],
+    "updatedAt": "2026-11-24"
   }
 ];
