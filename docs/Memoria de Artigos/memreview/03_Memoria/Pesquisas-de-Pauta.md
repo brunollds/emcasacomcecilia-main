@@ -8,6 +8,33 @@ Memória paralela das pesquisas de estratégia de conteúdo: o que foi buscado, 
 
 ---
 
+## Natal 2026: demanda e prazos (24/11/2026)
+
+- **Gatilho:** o Bruno pediu o plano para depois da Black Friday (Cyber Monday e Natal) e mostrou o modelo "o que comprar na Black Friday <loja>" de um concorrente (Piuka, viroutendencia.com, 22/11): um passeio pelo catálogo com o cupom da influenciadora.
+- **"O que comprar na BF <loja>": descartado.**
+  - Search Console, 90 dias: nenhuma busca com "o que comprar" chegou ao site. As de Black Friday são de data ("quando é a black friday da shein", em PT, ES e IT) e de cupom.
+  - Autocompletar: só a forma genérica ("2026", "nos eua", "o que compensa"). Com SHEIN, YesStyle, Océane, Insider ou Gocase, nenhuma sugestão.
+  - Trends, 12 meses: pico 1, contra 4 de "black friday shein", 73 de "presente de natal" e 100 de "amigo secreto".
+- **Cyber Monday:** 57 impressões no Search Console em 16 meses, só de SHEIN e YesStyle. Hostinger, Proton e Starlink, nenhuma. Plano: ler as três lojas em 28/11 e mexer na família de Black Friday, sem URL nova.
+- **Natal no Search Console:** 26 impressões em 16 meses (o site ainda não passou por um Natal). Duas são da Dolce Gusto: "que máquina dolce gusto oferecer no natal?" e "o dolce gusto tem promoções especiais no natal?".
+- **Calendário (Trends, Brasil, diário, de nov/2025 a jan/2026, índice relativo do conjunto):**
+  - "amigo secreto" sobe em 25/11 e fica no alto de 1º a 25/12;
+  - "presente de natal" cresce o mês inteiro, com pico em 23/12;
+  - "panetone", o maior dos termos, vai de 34 em 1º/12 a 95 em 23/12;
+  - "troca de presente" fica perto de zero.
+  - Leitura: amigo secreto no ar até 1º/12; presente por pessoa até 10/12; panetone serve até meados de dezembro.
+- **Autocompletar (24/11):**
+  - Amigo secreto: "feminino" com 20, 30, 50, 70, 100 e 150 reais, "barato" e "kit"; "unissex" com 30, 50, 100 e 150 reais, "ideias" e "lembrancinha"; "até 50 reais" com "homem" e "feminino".
+  - Presente de Natal por pessoa: mãe ("e sogra", "idosa", "barato", "de até R$ 50"), sogra ("barato"), namorada e esposa ("criativo", "barato"), marido, namorado e criança por idade. "Até 10, 15, 30, 50, 60, 70, 80, 100, 150 e 200 reais". "Presente de natal maquiagem" e "kit presente de natal maquiagem".
+  - Lojas: "kit natal oceane" e "kit presente oceane" ("feminino", "maquiagem"); "dolce gusto natal" ("especial de natal", "capsula dolce gusto starbucks natal"); "kopenhagen natal 2026", "panetone kopenhagen" ("lingua de gato", "pistache", "preço", "trufado", "2026") e "kopenhagen presente" ("natal", "barato", "kit"); "gocase presente" ("embalagem", "vale presente", "caixa", "kit"); "barbours kit" ("body splash", "masculino", "feminino", "mini"); "skelt kit"; "prohall kit"; "cupom insider natal" e "cupom gocase natal".
+  - Inglês (EUA): "yesstyle advent calendar 2026" ("price", "products", "release date"), "yesstyle christmas sale", "yesstyle gift sets"; "proton christmas sale" e "proton vpn christmas deal"; "hostinger christmas sale"; "starlink christmas sale"; "aliexpress christmas sale".
+  - Ruído: quase todo "<loja> natal" é a cidade de Natal (RN), com endereço e horário de loja física.
+- **Já no ar (PT):** IL2 (amigo secreto masculino: Insider, Max Titanium, Dr. Peanut e Let's Eat It), presente de Natal na Insider, na Bagaggio, para quem treina e para quem gosta de cozinhar, mesa posta de Natal, looks da Cléa Store, DAMIE (pai e casa) e SO7 (kit da Simple Organic). Na fila: OC9 (presentes da Océane).
+- **O que saiu:** sete propostas, NT1 a NT7, na [[Fila-de-Pautas]] (seção 3), sem GO.
+- **Ficou de fora:** "o que comprar na BF <loja>"; "troca de presente de Natal" (sem busca); presente para criança (nenhuma parceira com catálogo infantil, e vale a regra do infantil); "presente de natal para cachorro" (uma sugestão só).
+
+---
+
 ## Lojas que merecem atenção, grupo 2: Mais Mu, Probiótica, BAW, Prohall e Pink Cheeks (23/11/2026)
 
 - **Gatilho:** a segunda metade da lista do Bruno (vendas baixas ou desempenho abaixo do ideal). O pedido continua o mesmo: conferir o acerto dos temas e gerar novos.
