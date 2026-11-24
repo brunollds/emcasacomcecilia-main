@@ -87,3 +87,18 @@ export function visitorIp(headers: Headers): string {
     'desconhecido'
   );
 }
+
+const ALLOWED_HOSTS = new Set(['emcasacomcecilia.com', 'www.emcasacomcecilia.com', 'localhost', '127.0.0.1']);
+
+// A pergunta só vale vinda das páginas do site. O navegador manda sec-fetch-site e Origin; quem não manda (curl, teste)
+// passa e fica só com os limites por IP.
+export function isAllowedOrigin(headers: Headers): boolean {
+  if (headers.get('sec-fetch-site') === 'cross-site') return false;
+  const origin = headers.get('origin');
+  if (!origin) return true;
+  try {
+    return ALLOWED_HOSTS.has(new URL(origin).hostname);
+  } catch {
+    return false;
+  }
+}

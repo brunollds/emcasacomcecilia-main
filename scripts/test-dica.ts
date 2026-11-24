@@ -2,10 +2,11 @@ import assert from 'node:assert/strict';
 import { getAllActiveCouponSlugs, getCouponBySlug, getPendingLimitedCodes } from '@/lib/couponsData';
 import { buildAnswer, buildStoreAnswer } from '@/lib/dica/answer';
 import { getCatalog, getVocabulary, normalize } from '@/lib/dica/catalog';
-import { handleQuestion, visitorIp } from '@/lib/dica/handleQuestion';
+import { POST as dicaRoute } from '@/app/api/dica/route';
+import { handleQuestion, isAllowedOrigin, visitorIp } from '@/lib/dica/handleQuestion';
 import { interpretQuestion } from '@/lib/dica/interpret';
 import { cacheGet, cacheSet, checkVisitor, resetDicaLimitsForTests, takeAiSlot } from '@/lib/dica/limits';
-import { logQuestion, resetQuestionLogForTests, scrubPersonalData } from '@/lib/dica/questionLog';
+import { cleanupQuestionLog, logQuestion, resetQuestionLogForTests, scrubPersonalData } from '@/lib/dica/questionLog';
 import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
@@ -192,6 +193,7 @@ async function main() {
   );
   assert.equal(scrubPersonalData('tem whey de 900g? 12 meses, 1,8 kg'), 'tem whey de 900g? 12 meses, 1,8 kg');
   assert.equal(scrubPersonalData('anel 1000000 pontos'), 'anel 1000000 pontos');
+  assert.equal(scrubPersonalData('sou joão.silva@exemplo.com.br, tem whey?'), 'sou [removido], tem whey?', 'e-mail com acento');
   for (const personal of ['11 9 8765-4321', '11 9.8765-4321', '+55 (11) 9 8765-4321', '98765-4321', '3456-7890', '123 456 789-09', '123.456.789 09', '01310-100']) {
     assert.equal(scrubPersonalData(`fone ${personal} tem whey`), 'fone [removido] tem whey', `não limpou ${personal}`);
   }
@@ -210,6 +212,11 @@ async function main() {
     assert.equal(entry.searchTerm, 'whey [removido]');
     assert.ok(!existsSync(path.join(logDir, 'dica-2026-08-24.jsonl')), 'arquivo de 92 dias atrás ficou');
     assert.ok(existsSync(path.join(logDir, 'dica-2026-10-01.jsonl')), 'arquivo de 54 dias atrás sumiu');
+    // A limpeza dos 90 dias roda sozinha, sem pergunta nova.
+    writeFileSync(path.join(logDir, 'dica-2026-08-01.jsonl'), '{}\n');
+    await cleanupQuestionLog({ dir: logDir, now: at });
+    assert.ok(!existsSync(path.join(logDir, 'dica-2026-08-01.jsonl')), 'a limpeza sem pergunta nova não apagou');
+    await cleanupQuestionLog({ dir: path.join(logDir, 'nao-existe'), now: at });
     const emptyDir = mkdtempSync(path.join(tmpdir(), 'dica-vazio-'));
     const previous = process.env.DICA_LOG_DIR;
     delete process.env.DICA_LOG_DIR;
@@ -268,6 +275,27 @@ async function main() {
   const leaky: typeof interpretQuestion = async () => ({ terms: [], searchTerm: 'whey a@b.com', outOfScope: false });
   const leakAnswer = (await ask('tem whey diferente?', '8.8.8.1', leaky)).body as { dicasUrl?: string; searchTerm?: string };
   assert.ok(!leakAnswer.searchTerm?.includes('@') && !leakAnswer.dicasUrl?.includes('%40'), 'e-mail da IA na busca do Dicas');
+  // Outro site não chama a rota; o corpo grande é cortado durante a leitura, com ou sem tamanho declarado.
+  assert.equal(isAllowedOrigin(new Headers({ 'sec-fetch-site': 'cross-site', origin: 'https://golpe.example' })), false);
+  assert.equal(isAllowedOrigin(new Headers({ origin: 'https://golpe.example' })), false);
+  assert.equal(isAllowedOrigin(new Headers({ origin: 'https://www.emcasacomcecilia.com', 'sec-fetch-site': 'same-origin' })), true);
+  assert.equal(isAllowedOrigin(new Headers({ origin: 'http://localhost:3000' })), true);
+  assert.equal(isAllowedOrigin(new Headers()), true);
+  const post = (body: BodyInit, headers: Record<string, string> = {}) =>
+    dicaRoute(new Request('http://localhost/api/dica', { method: 'POST', body, headers, duplex: 'half' } as RequestInit));
+  assert.equal((await post('{"q":"tem whey?"}', { origin: 'https://golpe.example' })).status, 403);
+  let pulled = 0;
+  const endless = new ReadableStream<Uint8Array>({
+    pull(controller) {
+      pulled += 1;
+      controller.enqueue(new Uint8Array(1024).fill(32));
+      if (pulled > 1000) controller.close();
+    },
+  });
+  assert.equal((await post(endless)).status, 400, 'corpo sem tamanho declarado');
+  assert.ok(pulled < 10, `a rota leu ${pulled} KB antes de recusar`);
+  assert.equal((await post('x'.repeat(3000), { 'content-length': '3000' })).status, 400);
+  assert.equal((await post('não é json')).status, 400);
   resetDicaLimitsForTests();
 
   console.log(`✅ dica: ${catalog.length} lojas no catálogo, ${vocabulary.size} termos no vocabulário.`);

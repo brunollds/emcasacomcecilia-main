@@ -9,7 +9,8 @@ import { brasiliaDay } from './limits';
 const RETENTION_DAYS = 90;
 const FILE_PATTERN = /^dica-(\d{4}-\d{2}-\d{2})\.jsonl$/;
 
-const EMAIL = /[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g;
+// Com letra acentuada inclusive (joão.silva@exemplo.com.br).
+const EMAIL = /[\p{L}\p{N}._%+-]+@[\p{L}\p{N}-]+(?:\.[\p{L}\p{N}-]+)+/gu;
 // Dígitos com ou sem separador (espaço, ponto, hífen, parênteses, +): CPF, telefone, CEP, cartão. Com 8 dígitos ou mais
 // sai inteiro; "900g", "1,8 kg", "12 meses" e "1000000" (7 dígitos) ficam.
 const DIGIT_RUN = /\+?\(?\d[\d\s().-]*\d/g;
@@ -36,6 +37,19 @@ async function removeOldFiles(dir: string, now: Date): Promise<void> {
   for (const name of await readdir(dir)) {
     const day = FILE_PATTERN.exec(name)?.[1];
     if (day && Date.parse(`${day}T23:59:59-03:00`) < limit) await unlink(path.join(dir, name));
+  }
+}
+
+// A limpeza dos 90 dias sem depender de pergunta nova: o instrumentation.ts chama ao subir o servidor e a cada 6 horas,
+// então ela roda mesmo com o DICA parado. Sem DICA_LOG_DIR ou sem a pasta, não faz nada.
+export async function cleanupQuestionLog(opts: { dir?: string; now?: Date } = {}): Promise<void> {
+  const dir = opts.dir ?? process.env.DICA_LOG_DIR;
+  if (!dir) return;
+  lastCleanupDay = '';
+  try {
+    await removeOldFiles(dir, opts.now ?? new Date());
+  } catch {
+    // Pasta ainda inexistente ou sem permissão: tenta de novo na próxima rodada.
   }
 }
 
