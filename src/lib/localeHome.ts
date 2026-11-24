@@ -22,7 +22,6 @@ import { getReviewCanonicalPathname } from '@/lib/content/review-i18n';
 import { getActiveCoupons, getStoreCodeKind } from '@/lib/couponsData';
 import { TRANSLATED_LOCALES } from '@/lib/couponTranslations';
 import {
-  formatIsoDay,
   getBoostedHomeEvent,
   getCountdownDays,
   type HomeEventGuide,
@@ -256,20 +255,11 @@ export function getLocaleHomeEvent(
     }));
 
   const days = getCountdownDays(event.dayAt, now);
-  const dayFormat = new Intl.DateTimeFormat(getIntlLocale(locale), {
-    weekday: 'long',
-    month: 'long',
-    day: 'numeric',
-    timeZone: 'America/Sao_Paulo',
-  });
   return {
     id: event.id,
     title: copy.title,
     titleOf: copy.title,
     theme: event.theme,
-    description: copy.description,
-    dayDate: formatIsoDay(event.dayAt),
-    dayLabel: dayFormat.format(new Date(event.dayAt)),
     countdownLabel:
       days > 1 ? fillTemplate(copy.countdown.days, { days }) : days === 1 ? copy.countdown.tomorrow : days === 0 ? copy.countdown.today : copy.countdown.last,
     cards: [],

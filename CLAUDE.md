@@ -460,7 +460,8 @@ O árabe (`ar`, rota `/ar`) é o 11º idioma e escreve da direita para a esquerd
   - a vitrine (`HomeStoreStories`, com o painel da Cecília e uma aba por loja ativa de
     `couponsData.ts`);
   - o "Acabou de sair" (`HomeLatest`);
-  - a data comercial (`HomeEvent`, só em campanha). Na reta final (`boost`), a home em PT mostra todos os guias num
+  - a data comercial (`HomeEvent`, só em campanha). O topo da faixa é só o título e a contagem ("faltam 3 dias"), em
+    todo idioma; a descrição e o dia ficam na página da data. Na reta final (`boost`), a home em PT mostra todos os guias num
     carrossel de capas (`EventGuidesCarousel`), na ordem das bolinhas da vitrine (`toGuides`, de `homeEvents.ts`): a
     bolinha escolhida traz os guias da loja ao centro e os marca, e arrastar o carrossel não troca a bolinha. O
     carrossel lê a aba pelo hash, como a vitrine, e escuta o mesmo evento (`home-store-tab-change`). As homes dos
