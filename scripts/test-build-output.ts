@@ -73,6 +73,7 @@ import { VIDEOS_TRAIL, getVideoPageContent, getVideosHubContent, type VideoPageC
 import { YOUTUBE_SUBSCRIBE_URL, videoMorphName } from '../src/lib/videosShelf';
 import { getPrimaryRewardCode } from '../src/lib/yesstyleCoupons';
 import { getConsentCopy } from '../src/components/consent/consentCopy';
+import { inferCouponPercentValue } from '../src/lib/festivalBlackFriday';
 import { EVERY_STORE_TRANSLATED_CLAIM, LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp, escapeRegExp, getCategoriesSameAsPortuguese, getPtStoreTexts, isStoreLink } from './locale-home-guards';
 
 // Confere o que só existe depois do `next build`: o CSS final, o sitemap.xml, o llms.txt, o <head>
@@ -5129,6 +5130,104 @@ assert.equal(hreflangOf(ptFaqHead, 'x-default'), `${SITE_URL}/en/faq`, '/faqs: x
   for (const withoutDate of [`${SITE_URL}/receitas`, `${SITE_URL}/sobre`, `${SITE_URL}/contato`, `${SITE_URL}/faqs`, `${SITE_URL}/privacidade`, `${SITE_URL}/en/faq`]) {
     assert.equal(lastmodOf(withoutDate), undefined, `sitemap.xml: ${withoutDate} não deve inventar lastmod`);
   }
+}
+
+// /blackfriday e /blackfriday/[slug]: páginas de evento fora do Google e fora do sitemap/llms, todos os links externos de
+// loja marcados com sponsored + aba nova, nenhum link interno com sponsored, códigos ativos presentes e filtro 15%+ só
+// para descontos percentuais fixos de código (sem Magalu em R$ nem Proton por link).
+function blackFridayPageProblems(
+  html: string,
+  inSitemap: boolean,
+  inLlms: boolean,
+  expectedCodes: readonly string[],
+): string[] {
+  const problems: string[] = [];
+  if (inSitemap) problems.push('presente no sitemap.xml');
+  if (inLlms) problems.push('presente no llms.txt');
+  if (!/<html lang="pt-BR" dir="ltr"/.test(html)) problems.push('sem <html lang="pt-BR" dir="ltr">');
+  const head = headOf(html);
+  if (!head.includes('<meta name="robots" content="noindex, nofollow"/>')) problems.push('sem robots noindex, nofollow');
+  if (head.includes('<meta name="googlebot"')) problems.push('googlebot do layout vazou para página noindex');
+  if (head.includes('max-image-preview')) problems.push('robots do Discover vazou para página noindex');
+  const body = bodyOf(html);
+  let externalStoreLinks = 0;
+  for (const [tag] of body.matchAll(/<a\b[^>]*>/g)) {
+    const href = decodeHtml(tag.match(/\shref="([^"]*)"/)?.[1] ?? '');
+    if (!href) continue;
+    if (isInternalLink(href)) {
+      if (/\bsponsored\b/.test(tag)) problems.push(`link interno com sponsored: ${href}`);
+    } else if (href.startsWith('https://')) {
+      externalStoreLinks++;
+      if (!tag.includes('target="_blank"')) problems.push(`link externo sem target="_blank": ${href}`);
+      if (!/\srel="[^"]*\bsponsored\b/.test(tag)) problems.push(`link externo sem sponsored: ${href}`);
+      if (!/\srel="[^"]*\bnoopener\b/.test(tag) || !/\srel="[^"]*\bnoreferrer\b/.test(tag)) {
+        problems.push(`link externo sem noopener noreferrer: ${href}`);
+      }
+    }
+  }
+  if (externalStoreLinks === 0) problems.push('sem links externos de lojas parceiras');
+  for (const code of expectedCodes) {
+    if (!body.includes(escapeHtml(code))) problems.push(`sem o código esperado (${code})`);
+  }
+  return problems;
+}
+{
+  // Classificação de 15%+: descontos em reais (Magalu), links (Proton/Starlink) e tetos "Até X%" (YesStyle) dão 0.
+  for (const zeroSlug of ['magalu', 'proton', 'starlink', 'yesstyle']) {
+    const c = getCouponBySlug(zeroSlug);
+    if (c) assert.equal(inferCouponPercentValue(c), 0, `/blackfriday: ${zeroSlug} não deve contar como percentual fixo`);
+  }
+  for (const pctSlug of ['insider', 'hostinger', 'bold']) {
+    const c = getCouponBySlug(pctSlug);
+    if (c && c.status === 'ativo') assert.ok(inferCouponPercentValue(c) >= 15, `/blackfriday: ${pctSlug} deve contar como 15%+`);
+  }
+
+  const bfUrl = `${SITE_URL}/blackfriday`;
+  const bfFile = builtFile(bfUrl);
+  assert.ok(bfFile, '/blackfriday: página não gerada no build');
+  const bfHtml = read(bfFile);
+  assert.ok(!bfHtml.includes('sofás na caixa'), '/blackfriday: frase sem lastro "sofás na caixa"');
+  assert.deepEqual(
+    blackFridayPageProblems(bfHtml, sitemapUrls.includes(bfUrl), llmsUrls.includes(bfUrl), []),
+    [],
+    '/blackfriday',
+  );
+  for (const store of getActiveCoupons()) {
+    if (store.offerMode === 'discount-code') {
+      const validCodes = [store.code, ...(store.limitedCodes ?? []).map((lc) => lc.code)];
+      assert.ok(
+        validCodes.some((c) => bodyOf(bfHtml).includes(escapeHtml(c))),
+        `/blackfriday: sem o código ativo da ${store.brand}`,
+      );
+    }
+    const partnerUrl = `${SITE_URL}/blackfriday/${store.slug}`;
+    const partnerFile = builtFile(partnerUrl);
+    assert.ok(partnerFile, `/blackfriday/${store.slug}: página do parceiro não gerada no build`);
+    const partnerHtml = read(partnerFile);
+    assert.deepEqual(
+      blackFridayPageProblems(partnerHtml, sitemapUrls.includes(partnerUrl), llmsUrls.includes(partnerUrl), []),
+      [],
+      `/blackfriday/${store.slug}`,
+    );
+    if (store.offerMode === 'discount-code') {
+      const validCodes = [store.code, ...(store.limitedCodes ?? []).map((lc) => lc.code)];
+      assert.ok(
+        validCodes.some((c) => bodyOf(partnerHtml).includes(escapeHtml(c))),
+        `/blackfriday/${store.slug}: sem o código ativo da ${store.brand}`,
+      );
+    }
+  }
+  assert.notDeepEqual(blackFridayPageProblems(bfHtml, true, false, []), [], '/blackfriday: controle do sitemap passou');
+  assert.notDeepEqual(
+    blackFridayPageProblems(bfHtml.replace('noindex, nofollow', 'index, follow'), false, false, []),
+    [],
+    '/blackfriday: controle do noindex passou',
+  );
+  assert.notDeepEqual(
+    blackFridayPageProblems(bfHtml.replace('rel="sponsored noopener noreferrer"', 'rel="noopener noreferrer"'), false, false, []),
+    [],
+    '/blackfriday: controle do sponsored passou',
+  );
 }
 
 console.log(

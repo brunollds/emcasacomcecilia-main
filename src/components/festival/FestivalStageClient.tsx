@@ -11,6 +11,7 @@ import React, {
 } from 'react';
 import Link from 'next/link';
 import { trackEvent } from '@/lib/analytics';
+import { copyTextWithFallback } from '@/lib/clipboardUtils';
 import { openConsentPreferences } from '@/lib/consent';
 import { INTERNAL_HOSTNAMES } from '@/lib/internalLinks';
 import type {
@@ -26,7 +27,7 @@ const BF_FRIDAY_END_MS = Date.parse('2026-11-27T23:59:59-03:00');
 const BF_WEEK_END_MS = Date.parse('2026-11-30T23:59:59-03:00');
 const SIM_BASE_MS = Date.parse('2026-11-27T10:15:00-03:00');
 
-const noSubscription = () => () => {};
+export const noSubscription = () => () => {};
 
 // Simulação ?preview=27nov restrita a ambientes fora de produção (localhost / IP de rede local).
 // Em emcasacomcecilia.com e www.emcasacomcecilia.com é sempre ignorada para nunca antecipar códigos com prazo.
@@ -45,19 +46,19 @@ function getPreviewSimulatedNow(realNow: number): number | null {
 }
 
 // Relógio de 1 segundo usado EXCLUSIVAMENTE nos componentes isolados do cronômetro (sem re-renderizar a página!).
-function subscribeSecondClock(onStoreChange: () => void) {
+export function subscribeSecondClock(onStoreChange: () => void) {
   const id = window.setInterval(onStoreChange, 1000);
   return () => window.clearInterval(id);
 }
 
-function getClientSecondSnapshot(): number {
+export function getClientSecondSnapshot(): number {
   const now = Date.now();
   const sim = getPreviewSimulatedNow(now);
   return Math.floor((sim ?? now) / 1000) * 1000;
 }
 
 // Relógio de 1 minuto usado na página principal apenas para virada de campanhas e códigos com prazo.
-function subscribeMinuteClock(onStoreChange: () => void) {
+export function subscribeMinuteClock(onStoreChange: () => void) {
   const id = window.setInterval(onStoreChange, 60_000);
   const onVis = () => {
     if (document.visibilityState === 'visible') onStoreChange();
@@ -69,19 +70,19 @@ function subscribeMinuteClock(onStoreChange: () => void) {
   };
 }
 
-function getClientMinuteSnapshot(): number {
+export function getClientMinuteSnapshot(): number {
   const now = Date.now();
   const sim = getPreviewSimulatedNow(now);
   return Math.floor((sim ?? now) / 60_000) * 60_000;
 }
 
-function subscribeReducedMotion(onStoreChange: () => void) {
+export function subscribeReducedMotion(onStoreChange: () => void) {
   const mq = window.matchMedia('(prefers-reduced-motion: reduce)');
   mq.addEventListener('change', onStoreChange);
   return () => mq.removeEventListener('change', onStoreChange);
 }
 
-function getReducedMotionSnapshot(): boolean {
+export function getReducedMotionSnapshot(): boolean {
   return window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 }
 
@@ -102,26 +103,26 @@ function computeTimerState(nowMs: number, storeCount: number): TimerDisplayState
     const m = Math.floor((diff % 3_600_000) / 60_000);
     return {
       isStopwatch: false,
-      kicker: `23 a 30 nov · ${storeCount} parceiros oficiais`,
+      kicker: `Semana Black Friday · ${storeCount} parceiros oficiais`,
       prefix: '27/11 · ',
       hideXsPrefix: '',
       bold: `${pad2(d)}d ${pad2(h)}h ${pad2(m)}m`,
     };
   }
 
-  const isFriday = nowMs <= BF_FRIDAY_END_MS;
-  const endTarget = isFriday ? BF_FRIDAY_END_MS : BF_WEEK_END_MS;
-  const diff = Math.max(0, endTarget - nowMs);
-
-  if (diff === 0) {
+  if (nowMs > BF_WEEK_END_MS) {
     return {
       isStopwatch: false,
-      kicker: `${storeCount} parceiros oficiais · Cupons ativos o ano todo`,
+      kicker: `${storeCount} parceiros oficiais · Códigos ativos o ano todo`,
       prefix: 'Cupons ',
       hideXsPrefix: '',
       bold: 'ATIVOS',
     };
   }
+
+  const isFriday = nowMs <= BF_FRIDAY_END_MS;
+  const endTarget = isFriday ? BF_FRIDAY_END_MS : BF_WEEK_END_MS;
+  const diff = Math.max(0, endTarget - nowMs);
 
   const d = Math.floor(diff / 86_400_000);
   const h = Math.floor((diff % 86_400_000) / 3_600_000);
@@ -139,10 +140,11 @@ function computeTimerState(nowMs: number, storeCount: number): TimerDisplayState
   };
 }
 
-function FestivalTimerPill({ storeCount, serverMs }: { storeCount: number; serverMs: number }) {
+export function FestivalTimerPill({ storeCount, serverMs }: { storeCount: number; serverMs: number }) {
   const mounted = useSyncExternalStore(noSubscription, () => true, () => false);
   const nowMs = useSyncExternalStore(subscribeSecondClock, getClientSecondSnapshot, () => serverMs);
   const timerState = computeTimerState(nowMs, storeCount);
+  const serverLabel = serverMs <= BF_WEEK_END_MS ? 'Black Friday' : 'Festival';
 
   return (
     <span
@@ -160,7 +162,7 @@ function FestivalTimerPill({ storeCount, serverMs }: { storeCount: number; serve
           </>
         ) : (
           <>
-            Black Friday · <b>{storeCount} lojas</b>
+            {serverLabel} · <b>{storeCount} lojas</b>
           </>
         )}
       </span>
@@ -172,15 +174,15 @@ function FestivalHeroKicker({ storeCount, serverMs }: { storeCount: number; serv
   const mounted = useSyncExternalStore(noSubscription, () => true, () => false);
   const nowMs = useSyncExternalStore(subscribeSecondClock, getClientSecondSnapshot, () => serverMs);
   const timerState = computeTimerState(nowMs, storeCount);
+  const serverKicker =
+    serverMs <= BF_WEEK_END_MS
+      ? `Black Friday · ${storeCount} parceiros oficiais`
+      : `${storeCount} parceiros oficiais · Códigos ativos o ano todo`;
 
-  return (
-    <p className="bf-hero-kicker">
-      {mounted ? timerState.kicker : `Black Friday · ${storeCount} parceiros oficiais`}
-    </p>
-  );
+  return <p className="bf-hero-kicker">{mounted ? timerState.kicker : serverKicker}</p>;
 }
 
-type WalletEntry = {
+export type WalletEntry = {
   slug: string;
   brand: string;
   code: string;
@@ -188,7 +190,7 @@ type WalletEntry = {
   url: string;
 };
 
-type ManualCopyPrompt = {
+export type ManualCopyPrompt = {
   slug: string;
   brand: string;
   code: string;
@@ -204,39 +206,7 @@ function normalizeSearch(value: string): string {
     .trim();
 }
 
-function execCommandCopyVerified(code: string): boolean {
-  try {
-    const ta = document.createElement('textarea');
-    ta.value = code;
-    ta.setAttribute('readonly', '');
-    ta.style.position = 'fixed';
-    ta.style.top = '-9999px';
-    ta.style.opacity = '0';
-    document.body.appendChild(ta);
-    ta.focus();
-    ta.select();
-    ta.setSelectionRange(0, code.length);
-    const ok = document.execCommand('copy');
-    ta.remove();
-    return Boolean(ok);
-  } catch {
-    return false;
-  }
-}
-
-async function copyTextVerified(code: string): Promise<boolean> {
-  if (typeof navigator !== 'undefined' && navigator.clipboard?.writeText) {
-    try {
-      await navigator.clipboard.writeText(code);
-      return true;
-    } catch {
-      return execCommandCopyVerified(code);
-    }
-  }
-  return execCommandCopyVerified(code);
-}
-
-function getLiveCampaigns(campaigns: FestivalCampaign[], nowMs: number): FestivalCampaign[] {
+export function getLiveCampaigns(campaigns: FestivalCampaign[], nowMs: number): FestivalCampaign[] {
   return campaigns.filter((c) => {
     if (c.startsAt && nowMs < Date.parse(c.startsAt)) return false;
     if (c.endsAt && nowMs > Date.parse(c.endsAt)) return false;
@@ -244,15 +214,21 @@ function getLiveCampaigns(campaigns: FestivalCampaign[], nowMs: number): Festiva
   });
 }
 
-function getActiveLimitedCode(limitedCodes: FestivalLimitedCode[], nowMs: number): FestivalLimitedCode | undefined {
+export function getActiveLimitedCode(
+  limitedCodes: FestivalLimitedCode[],
+  nowMs: number,
+): FestivalLimitedCode | undefined {
   return limitedCodes.find((lc) => nowMs >= Date.parse(lc.startsAt) && nowMs <= Date.parse(lc.endsAt));
 }
 
-function getUpcomingLimitedCode(limitedCodes: FestivalLimitedCode[], nowMs: number): FestivalLimitedCode | undefined {
+export function getUpcomingLimitedCode(
+  limitedCodes: FestivalLimitedCode[],
+  nowMs: number,
+): FestivalLimitedCode | undefined {
   return limitedCodes.find((lc) => nowMs < Date.parse(lc.startsAt));
 }
 
-function CeciliaAvatar({ url }: { url: string }) {
+export function CeciliaAvatar({ url }: { url: string }) {
   const [imgFailed, setImgFailed] = useState(false);
   const handleImgRef = useCallback((el: HTMLImageElement | null) => {
     if (el && el.complete && el.naturalWidth === 0) {
@@ -278,7 +254,7 @@ function CeciliaAvatar({ url }: { url: string }) {
   );
 }
 
-function StoreOrb({
+export function StoreOrb({
   store,
   size = 44,
   eager = false,
@@ -331,6 +307,8 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
     () => false,
   );
 
+  const isBfSeason = minuteNowMs <= BF_WEEK_END_MS;
+
   const [query, setQuery] = useState('');
   const [activeFilter, setActiveFilter] = useState<string>('all');
   const [modalSlug, setModalSlug] = useState<string | null>(null);
@@ -365,7 +343,6 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
     toastTimerRef.current = window.setTimeout(() => setToastMsg(null), 3200);
   }, []);
 
-  // Limpa partículas e ondas caso os efeitos sejam desligados ou prefers-reduced-motion entre em vigor
   useEffect(() => {
     if (motionEnabled) return;
     if (confettiRef.current.raf) {
@@ -426,7 +403,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
   );
 
   // Cópia verificada no gesto do clique sem preventDefault(), preservando a abertura nativa da nova aba no WhatsApp/Instagram.
-  // Só marca como copiado, salva na carteira e dispara coupon_copy se a área de transferência realmente confirmar!
+  // Usa copyTextWithFallback passando o elemento clicado para que o fallback funcione também dentro do <dialog> modal.
   const handleCopyAndGo = useCallback(
     async (
       store: FestivalStoreItem,
@@ -437,6 +414,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
     ) => {
       const destinationUrl = targetUrl || store.offerUrl;
       const { clientX, clientY } = ev;
+      const triggerEl = ev.currentTarget;
 
       trackEvent('coupon_store_click', {
         coupon_code: codeToCopy,
@@ -445,7 +423,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
         url: destinationUrl,
       });
 
-      const ok = await copyTextVerified(codeToCopy);
+      const ok = await copyTextWithFallback(codeToCopy, triggerEl);
       if (ok) {
         trackEvent('coupon_copy', {
           coupon_code: codeToCopy,
@@ -482,34 +460,46 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
     [burstConfetti, showToast],
   );
 
-  const handleManualCopyRetry = useCallback(async () => {
-    if (!manualCopyPrompt) return;
-    manualInputRef.current?.focus();
-    manualInputRef.current?.select();
-    const ok = await copyTextVerified(manualCopyPrompt.code);
-    if (ok) {
-      trackEvent('coupon_copy', {
-        coupon_code: manualCopyPrompt.code,
-        brand: manualCopyPrompt.brand,
-        placement: 'festival_blackfriday',
-      });
-      setWallet((prev) => ({
-        ...prev,
-        [manualCopyPrompt.slug]: {
-          slug: manualCopyPrompt.slug,
+  const handleManualCopyRetry = useCallback(
+    async (ev: React.MouseEvent<HTMLButtonElement>) => {
+      if (!manualCopyPrompt) return;
+      const triggerEl = ev.currentTarget;
+      manualInputRef.current?.focus();
+      manualInputRef.current?.select();
+      const ok = await copyTextWithFallback(manualCopyPrompt.code, triggerEl);
+      if (ok) {
+        trackEvent('coupon_copy', {
+          coupon_code: manualCopyPrompt.code,
           brand: manualCopyPrompt.brand,
-          code: manualCopyPrompt.code,
-          discount: manualCopyPrompt.discount,
-          url: manualCopyPrompt.url,
-        },
-      }));
-      const code = manualCopyPrompt.code;
-      setManualCopyPrompt(null);
-      showToast(`✓ ${code} copiado!`);
-    } else {
-      showToast('Toque e segure o código selecionado para copiar.');
-    }
-  }, [manualCopyPrompt, showToast]);
+          placement: 'festival_blackfriday',
+        });
+        setWallet((prev) => ({
+          ...prev,
+          [manualCopyPrompt.slug]: {
+            slug: manualCopyPrompt.slug,
+            brand: manualCopyPrompt.brand,
+            code: manualCopyPrompt.code,
+            discount: manualCopyPrompt.discount,
+            url: manualCopyPrompt.url,
+          },
+        }));
+        const code = manualCopyPrompt.code;
+        setManualCopyPrompt(null);
+        showToast(`✓ ${code} copiado!`);
+      } else {
+        showToast('Toque e segure o código selecionado para copiar.');
+      }
+    },
+    [manualCopyPrompt, showToast],
+  );
+
+  useEffect(() => {
+    if (!manualCopyPrompt) return;
+    const input = manualInputRef.current;
+    if (!input) return;
+    input.scrollIntoView({ block: 'nearest' });
+    input.select();
+  }, [manualCopyPrompt, modalSlug]);
 
   const handleStoreOnlyClick = useCallback((store: FestivalStoreItem, customUrl?: string) => {
     trackEvent('coupon_store_click', {
@@ -527,6 +517,11 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
       const upcomingLimited = getUpcomingLimitedCode(store.limitedCodes, minuteNowMs);
       const effectiveCode = activeLimited ? activeLimited.code : store.code;
       const effectiveDiscount = activeLimited ? activeLimited.discount : store.discount;
+      const limitedPct =
+        activeLimited && activeLimited.discount.includes('%') && !/\bR\$/i.test(activeLimited.discount)
+          ? Number(activeLimited.discount.match(/(\d+)\s*%/)?.[1] ?? 0)
+          : 0;
+      const effectivePercent = Math.max(store.discountSortValue, limitedPct);
       return {
         ...store,
         liveCampaigns,
@@ -534,6 +529,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
         upcomingLimited,
         effectiveCode,
         effectiveDiscount,
+        effectivePercent,
       };
     });
   }, [data.stores, minuteNowMs]);
@@ -558,14 +554,13 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
     [runtimeStores],
   );
   const topDiscountCount = useMemo(
-    () => runtimeStores.filter((s) => s.discountSortValue >= 15).length,
+    () => runtimeStores.filter((s) => s.effectivePercent >= 15).length,
     [runtimeStores],
   );
 
   const codeStoreCount = useMemo(() => runtimeStores.filter((s) => Boolean(s.effectiveCode)).length, [runtimeStores]);
   const linkOnlyCount = runtimeStores.length - codeStoreCount;
 
-  // Se todas as campanhas de BF expirarem enquanto o filtro 'bf' estiver selecionado, volta automaticamente para 'all'
   const effectiveFilter = activeFilter === 'bf' && bfStoreCount === 0 ? 'all' : activeFilter;
 
   const normalizedQ = useMemo(() => normalizeSearch(query), [query]);
@@ -577,7 +572,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
           : effectiveFilter === 'bf'
             ? s.liveCampaigns.length > 0
             : effectiveFilter === 'top'
-              ? s.discountSortValue >= 15
+              ? s.effectivePercent >= 15
               : s.hubCategory === effectiveFilter;
       if (!passFilter) return false;
       if (!normalizedQ) return true;
@@ -594,7 +589,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
         items: filteredStores,
       };
     }
-    const tier1 = filteredStores.filter((s) => s.featured || s.discountSortValue >= 15);
+    const tier1 = filteredStores.filter((s) => s.featured || s.effectivePercent >= 15);
     const tier1Set = new Set(tier1.map((s) => s.slug));
     const tier2 = filteredStores.filter((s) => !tier1Set.has(s.slug) && s.liveCampaigns.length > 0);
     const tier2Set = new Set(tier2.map((s) => s.slug));
@@ -897,7 +892,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
 
   const renderActItem = (store: (typeof runtimeStores)[number], tier: 1 | 2 | 3) => {
     const isCopied = Boolean(wallet[store.slug]);
-    const orbSz = tier === 1 ? 36 : tier === 2 ? 28 : 24;
+    const orbSz = tier === 1 ? 36 : tier === 2 ? 30 : 26;
     const discShort = store.effectiveDiscount.replace(' OFF', '');
     const code = store.effectiveCode;
 
@@ -929,6 +924,46 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
             {discShort} ↗
           </a>
         )}
+      </div>
+    );
+  };
+
+  const renderManualCopyBox = (variant: 'modal' | 'floating') => {
+    if (!manualCopyPrompt) return null;
+    return (
+      <div
+        className={variant === 'modal' ? 'bf-manual-copy-inline' : 'bf-manual-copy-bar'}
+        role="region"
+        aria-label={`Copiar código da ${manualCopyPrompt.brand}`}
+      >
+        <div className="bf-manual-copy-head">
+          <span className="bf-manual-copy-title">
+            A {manualCopyPrompt.brand} abriu em outra aba. Toque para copiar o código:
+          </span>
+          <button
+            type="button"
+            className="bf-icon-close-btn"
+            onClick={() => setManualCopyPrompt(null)}
+            aria-label="Fechar aviso de cópia"
+          >
+            ×
+          </button>
+        </div>
+        <div className="bf-manual-copy-row">
+          <input
+            ref={manualInputRef}
+            className="bf-manual-copy-input"
+            type="text"
+            readOnly
+            value={manualCopyPrompt.code}
+            aria-label={`Código da ${manualCopyPrompt.brand}`}
+            onFocus={(ev) => ev.currentTarget.select()}
+            onClick={(ev) => ev.currentTarget.select()}
+          />
+          <button type="button" className="bf-manual-copy-btn" onClick={handleManualCopyRetry}>
+            Copiar
+          </button>
+        </div>
       </div>
     );
   };
@@ -1108,7 +1143,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                 aria-pressed={effectiveFilter === 'bf'}
                 onClick={() => setActiveFilter('bf')}
               >
-                <span>🔥 Com Black Friday</span>
+                <span>{isBfSeason ? '🔥 Com Black Friday' : '🔥 Com Campanha Ativa'}</span>
                 <small>{bfStoreCount}</small>
               </button>
             ) : null}
@@ -1152,22 +1187,11 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
               </h2>
             </div>
             <p className="bf-act-note">
-              Toque no <strong>código pontilhado</strong> para copiar e abrir a loja na hora, ou no <strong>nome da marca</strong> para ver campanhas e regras.
+              Toque no <strong>código pontilhado</strong> para copiar e abrir a loja na hora, ou no <strong>nome da marca</strong> para ver campanhas e guias.
             </p>
           </div>
 
-          <div
-            style={{
-              display: 'flex',
-              justifyContent: 'space-between',
-              alignItems: 'center',
-              marginBottom: '12px',
-              fontSize: '13px',
-              color: 'var(--bf-muted)',
-              fontWeight: 700,
-              gap: '10px',
-            }}
-          >
+          <div className="bf-poster-toolbar">
             <span role="status" aria-live="polite">
               {filteredStores.length
                 ? `${filteredStores.length} ${filteredStores.length === 1 ? 'marca encontrada' : 'marcas no pôster'}${query ? ` para “${query}”` : ''}`
@@ -1176,17 +1200,10 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
             {isFiltered ? (
               <button
                 type="button"
+                className="bf-reset-filter-btn"
                 onClick={() => {
                   setQuery('');
                   setActiveFilter('all');
-                }}
-                style={{
-                  color: 'var(--bf-lime)',
-                  fontWeight: 800,
-                  textDecoration: 'underline',
-                  background: 'none',
-                  border: 0,
-                  cursor: 'pointer',
                 }}
               >
                 Mostrar todas as {runtimeStores.length}
@@ -1196,13 +1213,17 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
 
           <div ref={posterFrameRef} className="bf-poster-frame">
             {!filteredStores.length ? (
-              <p style={{ textAlign: 'center', margin: '24px 0', color: 'var(--bf-muted)' }}>
+              <p className="bf-empty-state">
                 Tente outro termo ou toque em “Mostrar todas as {runtimeStores.length}”.
               </p>
             ) : posterTiers.mode === 'full' ? (
               <>
                 <div className="bf-poster-top-bill">
-                  <span>★ Em Casa com Cecília · Black Friday</span>
+                  <span>
+                    {isBfSeason
+                      ? '★ Em Casa com Cecília · Black Friday'
+                      : '★ Em Casa com Cecília · Festival de Cupons'}
+                  </span>
                   <span>
                     {codeStoreCount} Códigos + {linkOnlyCount} Links Oficiais ★
                   </span>
@@ -1213,7 +1234,11 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                 </div>
                 {posterTiers.tier2.length > 0 ? (
                   <div className="bf-poster-tier bf-tier-2">
-                    <span className="bf-poster-tier-label">🔥 Com Campanha de Black Friday Ativa</span>
+                    <span className="bf-poster-tier-label">
+                      {isBfSeason
+                        ? '🔥 Com Campanha de Black Friday Ativa'
+                        : '🔥 Com Campanha Especial Ativa'}
+                    </span>
                     <div className="bf-poster-cloud">{posterTiers.tier2.map((s) => renderActItem(s, 2))}</div>
                   </div>
                 ) : null}
@@ -1237,17 +1262,19 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
           </div>
         </section>
 
-        {/* ATO II — VITRINE REELS DE PRODUTOS (escondida durante busca por texto) */}
+        {/* ATO II — VITRINE DAS PARCEIRAS (escondida durante busca por texto) */}
         {!normalizedQ && data.lookbookSlugs.length > 0 ? (
           <section className="bf-wrap bf-lookbook-sec" aria-labelledby="lookbook-title">
             <div className="bf-act-header">
               <div>
-                <span className="bf-act-eyebrow">Produtos Testados &amp; Ofertas</span>
+                <span className="bf-act-eyebrow">Ofertas &amp; Categorias</span>
                 <h2 className="bf-act-title" id="lookbook-title">
-                  Vitrine em Destaque
+                  Vitrine das Parceiras
                 </h2>
               </div>
-              <p className="bf-act-note">Deslize pelos produtos que testamos em casa — um toque já copia e abre a loja.</p>
+              <p className="bf-act-note">
+                Deslize pelas marcas com código exclusivo — um toque já copia e abre a loja oficial.
+              </p>
             </div>
 
             <div className="bf-lookbook-rail">
@@ -1304,17 +1331,19 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
           </section>
         ) : null}
 
-        {/* ATO III — HEADLINERS DA SEMANA (DAMIE, Insider, I Wanna Sleep) */}
+        {/* ATO III — DESTAQUES DA PARCERIA (DAMIE, Insider, I Wanna Sleep) */}
         {!normalizedQ && (damieStore || insiderStore || iwsStore) ? (
           <section className="bf-wrap bf-headliners-sec" aria-labelledby="hl-title">
             <div className="bf-act-header">
               <div>
-                <span className="bf-act-eyebrow">Atrações Principais</span>
+                <span className="bf-act-eyebrow">Destaques da Parceria</span>
                 <h2 className="bf-act-title" id="hl-title">
-                  Headliners da Semana
+                  Destaques da Semana
                 </h2>
               </div>
-              <p className="bf-act-note">As 3 parceiras mais pedidas pelos leitores do Em Casa com Cecília.</p>
+              <p className="bf-act-note">
+                Três parceiras com condições especiais e descontos acumuláveis no site oficial.
+              </p>
             </div>
 
             {damieStore && damieStore.effectiveCode ? (
@@ -1331,7 +1360,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                       <span className="bf-hl-pill">Soma com Pix</span>
                     </div>
                     <h3 className="bf-hl-headline">
-                      {damieStore.liveCampaigns[0]?.headline ?? 'DAMIE: poltronas reclináveis e sofás na caixa'}
+                      {damieStore.liveCampaigns[0]?.headline ?? 'DAMIE: poltronas reclináveis, sofás e camas'}
                     </h3>
                     <div className="bf-hl-stack-formula" aria-label="Benefícios acumuláveis na DAMIE">
                       <span>{damieStore.effectiveDiscount} no código</span>
@@ -1403,9 +1432,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                         ))}
                       </ul>
                     ) : (
-                      <p style={{ margin: '8px 0 0', fontSize: '13px', color: 'var(--bf-muted)' }}>
-                        {insiderStore.shortDescription}
-                      </p>
+                      <p className="bf-duet-desc">{insiderStore.shortDescription}</p>
                     )}
                   </div>
                   <div
@@ -1462,9 +1489,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                         ⚡ Em breve entra o código <b>{iwsStore.upcomingLimited.code}</b> (<b>{iwsStore.upcomingLimited.discount}</b> até {iwsStore.upcomingLimited.endLabel}). Hoje já vale {iwsStore.discount} no site todo:
                       </div>
                     ) : (
-                      <p style={{ margin: '8px 0 0', fontSize: '13px', color: 'var(--bf-muted)' }}>
-                        {iwsStore.shortDescription}
-                      </p>
+                      <p className="bf-duet-desc">{iwsStore.shortDescription}</p>
                     )}
                   </div>
                   <div
@@ -1496,13 +1521,14 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
       </main>
 
       <footer className="bf-stage-footer">
-        <div
-          className="bf-wrap"
-          style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'flex-start', gap: '16px' }}
-        >
-          <div style={{ maxWidth: '72ch' }}>
-            <p style={{ margin: 0 }}>
-              <strong>Transparência Em Casa com Cecília:</strong> as campanhas de Black Friday são das próprias lojas e mudam sem aviso. Quando você usa nossos códigos ou links oficiais, podemos receber comissão sem custo extra para você.
+        <div className="bf-wrap bf-footer-inner">
+          <div className="bf-footer-copy">
+            <p className="bf-footer-note">
+              <strong>Transparência Em Casa com Cecília:</strong>{' '}
+              {isBfSeason
+                ? 'as campanhas de Black Friday são das próprias lojas e mudam sem aviso.'
+                : 'as campanhas promocionais são das próprias lojas e mudam sem aviso.'}{' '}
+              Quando você usa nossos códigos ou links oficiais, podemos receber comissão sem custo extra para você.
             </p>
             <div className="bf-footer-links">
               <Link href="/cupons">Ver regras completas em /cupons</Link>
@@ -1551,18 +1577,8 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
               <div className="bf-modal-hero-in">
                 <StoreOrb store={modalStore} size={58} />
                 <div>
-                  <span style={{ fontSize: '11px', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '.1em', color: 'var(--bf-lime)' }}>
-                    {modalStore.categoryName}
-                  </span>
-                  <h2
-                    style={{
-                      margin: '2px 0 0',
-                      fontFamily: 'var(--font-archivo), sans-serif',
-                      fontWeight: 900,
-                      fontSize: '30px',
-                      lineHeight: 1,
-                    }}
-                  >
+                  <span className="bf-modal-cat">{modalStore.categoryName}</span>
+                  <h2 className="bf-modal-title">
                     {modalStore.brand} · {modalStore.effectiveDiscount}
                   </h2>
                 </div>
@@ -1570,8 +1586,8 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
             </div>
 
             <div className="bf-modal-body">
-              <p style={{ margin: 0, fontSize: '14px', color: 'var(--bf-muted)', fontWeight: 600 }}>
-                <strong style={{ color: 'var(--bf-ink)' }}>Onde vale:</strong> {modalStore.eligibleCategories}.{' '}
+              <p className="bf-modal-where">
+                <strong>Onde vale:</strong> {modalStore.eligibleCategories}.{' '}
                 {modalStore.combinable ? `Acumula: ${modalStore.combinable}.` : ''}
               </p>
 
@@ -1588,6 +1604,12 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
               {modalStore.referral ? (
                 <div className="bf-flash-unlock">
                   🔎 <strong>{modalStore.referral.label}:</strong> {modalStore.referral.instructions}
+                </div>
+              ) : null}
+
+              {modalStore.hasTiers ? (
+                <div className="bf-flash-unlock">
+                  🏷️ A {modalStore.brand} tem faixas por valor do carrinho (de R$ 10 a R$ 100 OFF). Abra a página da marca abaixo para copiar qualquer faixa.
                 </div>
               ) : null}
 
@@ -1628,16 +1650,24 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                 </a>
               )}
 
+              {renderManualCopyBox('modal')}
+
+              {toastMsg ? (
+                <div className="bf-modal-toast" role="status" aria-live="polite">
+                  {toastMsg}
+                </div>
+              ) : null}
+
               {modalStore.liveCampaigns.length > 0 ? (
                 <div className="bf-modal-camps">
-                  <strong style={{ fontSize: '11.5px', textTransform: 'uppercase', letterSpacing: '.09em', color: 'var(--bf-muted)' }}>
+                  <strong className="bf-modal-camps-heading">
                     🔥 Rolando agora na {modalStore.brand}
                   </strong>
                   {modalStore.liveCampaigns.map((camp) =>
                     camp.internal ? (
                       <Link key={camp.id} href={camp.href} className="bf-modal-camp-item">
                         <span>{camp.headline}</span>
-                        <span style={{ color: 'var(--bf-lime)', whiteSpace: 'nowrap' }}>Ler guia →</span>
+                        <span className="bf-modal-camp-cta">Ler guia →</span>
                       </Link>
                     ) : (
                       <a
@@ -1664,7 +1694,7 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                           {camp.headline}
                           {camp.storeAppCode ? ` (código no app: ${camp.storeAppCode})` : ''}
                         </span>
-                        <span style={{ color: 'var(--bf-lime)', whiteSpace: 'nowrap' }}>
+                        <span className="bf-modal-camp-cta">
                           {modalStore.effectiveCode ? 'Copiar + Ver ↗' : 'Ver ↗'}
                         </span>
                       </a>
@@ -1673,56 +1703,46 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
                 </div>
               ) : null}
 
-              <div
-                style={{
-                  display: 'flex',
-                  justifyContent: 'space-between',
-                  alignItems: 'center',
-                  gap: '8px',
-                  paddingTop: '10px',
-                  borderTop: '1px solid var(--bf-line)',
-                  fontSize: '12.5px',
-                  fontWeight: 800,
-                }}
-              >
+              {modalStore.articles.length > 0 ? (
+                <div className="bf-modal-camps">
+                  <strong className="bf-modal-camps-heading">
+                    📖 Guias &amp; análises da {modalStore.brand}
+                  </strong>
+                  {modalStore.articles.map((art) => (
+                    <Link key={art.slug} href={art.href} className="bf-modal-camp-item">
+                      <span>{art.title}</span>
+                      <span className="bf-modal-camp-cta">Ler →</span>
+                    </Link>
+                  ))}
+                </div>
+              ) : null}
+
+              <div className="bf-modal-links-row">
+                <Link href={modalStore.festivalPageUrl} className="bf-modal-page-btn">
+                  ⚡ Página completa da {modalStore.brand} no Festival →
+                </Link>
+              </div>
+
+              <div className="bf-modal-footer-nav">
                 {modalNeighbors?.prev ? (
                   <button
                     type="button"
+                    className="bf-modal-nav-btn"
                     onClick={() => setModalSlug(modalNeighbors.prev!.slug)}
-                    style={{
-                      padding: '7px 12px',
-                      borderRadius: '999px',
-                      background: 'var(--bf-bg-elev)',
-                      color: 'inherit',
-                      border: 0,
-                      cursor: 'pointer',
-                      fontWeight: 800,
-                    }}
                   >
                     ← {modalNeighbors.prev.brand}
                   </button>
                 ) : (
                   <span />
                 )}
-                <Link
-                  href={modalStore.storePageUrl}
-                  style={{ color: 'var(--bf-muted)', fontWeight: 700, textDecoration: 'underline' }}
-                >
-                  Regras completas
+                <Link href={modalStore.storePageUrl} className="bf-modal-rules-link">
+                  Regras em /cupons
                 </Link>
                 {modalNeighbors?.next ? (
                   <button
                     type="button"
+                    className="bf-modal-nav-btn"
                     onClick={() => setModalSlug(modalNeighbors.next!.slug)}
-                    style={{
-                      padding: '7px 12px',
-                      borderRadius: '999px',
-                      background: 'var(--bf-bg-elev)',
-                      color: 'inherit',
-                      border: 0,
-                      cursor: 'pointer',
-                      fontWeight: 800,
-                    }}
                   >
                     {modalNeighbors.next.brand} →
                   </button>
@@ -1735,80 +1755,31 @@ export function FestivalStageClient({ data }: { data: FestivalBlackFridayData })
         ) : null}
       </dialog>
 
-      {/* BARRA DE CÓPIA MANUAL CASO O NAVEGADOR BLOQUEIE A ÁREA DE TRANSFERÊNCIA */}
-      {manualCopyPrompt ? (
-        <div className="bf-manual-copy-bar" role="region" aria-label={`Copiar código da ${manualCopyPrompt.brand}`}>
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: '8px' }}>
-            <span style={{ fontSize: '12.5px', fontWeight: 700 }}>
-              A {manualCopyPrompt.brand} abriu em outra aba. Toque para copiar o código:
-            </span>
-            <button
-              type="button"
-              onClick={() => setManualCopyPrompt(null)}
-              aria-label="Fechar aviso de cópia"
-              style={{ background: 'none', border: 0, color: 'inherit', fontSize: '18px', fontWeight: 900, cursor: 'pointer' }}
-            >
-              ×
-            </button>
-          </div>
-          <div className="bf-manual-copy-row">
-            <input
-              ref={manualInputRef}
-              className="bf-manual-copy-input"
-              type="text"
-              readOnly
-              value={manualCopyPrompt.code}
-              aria-label={`Código da ${manualCopyPrompt.brand}`}
-              onFocus={(ev) => ev.currentTarget.select()}
-              onClick={(ev) => ev.currentTarget.select()}
-            />
-            <button
-              type="button"
-              onClick={handleManualCopyRetry}
-              style={{
-                padding: '10px 14px',
-                borderRadius: '10px',
-                border: 0,
-                background: 'var(--bf-lime)',
-                color: 'var(--bf-lime-ink)',
-                fontFamily: 'var(--font-archivo), sans-serif',
-                fontWeight: 900,
-                fontSize: '12.5px',
-                textTransform: 'uppercase',
-                cursor: 'pointer',
-                whiteSpace: 'nowrap',
-              }}
-            >
-              Copiar
-            </button>
-          </div>
-        </div>
-      ) : null}
+      {/* BARRA DE CÓPIA MANUAL FORA DO MODAL (QUANDO O STORY ESTÁ ABERTO, APARECE DENTRO DO PRÓPRIO <dialog>) */}
+      {!modalStore ? renderManualCopyBox('floating') : null}
 
       {/* CARTEIRA FLUTUANTE DE CÓDIGOS COPIADOS */}
       {walletEntries.length > 0 ? (
         <div className="bf-vip-wallet">
           {walletOpen ? (
             <div className="bf-wallet-drawer">
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                <strong style={{ fontFamily: 'var(--font-archivo), sans-serif', fontSize: '14.5px' }}>
-                  🎟️ Códigos copiados nesta visita
-                </strong>
+              <div className="bf-wallet-head">
+                <strong className="bf-wallet-title">🎟️ Códigos copiados nesta visita</strong>
                 <button
                   type="button"
+                  className="bf-icon-close-btn"
                   onClick={() => setWalletOpen(false)}
                   aria-label="Fechar carteira"
-                  style={{ fontWeight: 900, fontSize: '18px', background: 'none', border: 0, color: 'inherit', cursor: 'pointer' }}
                 >
                   ×
                 </button>
               </div>
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+              <div className="bf-wallet-list">
                 {walletEntries.map((item) => (
                   <div key={item.slug} className="bf-wallet-item">
                     <div>
                       <strong>{item.brand}</strong>{' '}
-                      <span style={{ opacity: 0.7, fontSize: '11px' }}>{item.discount}</span>
+                      <span className="bf-wallet-disc">{item.discount}</span>
                       <br />
                       <code>{item.code}</code>
                     </div>

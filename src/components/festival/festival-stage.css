@@ -582,13 +582,14 @@
 .bf-ribbon-chip {
   display: inline-flex;
   align-items: center;
-  gap: 7px;
-  padding: 4px 11px 4px 10px;
+  gap: 8px;
+  min-height: 44px;
+  padding: 6px 14px 6px 12px;
   border-radius: 999px;
   background: rgba(0, 0, 0, 0.14);
   font-family: var(--font-archivo), sans-serif;
   font-weight: 900;
-  font-size: 12.5px;
+  font-size: 13px;
   white-space: nowrap;
   color: inherit;
   text-decoration: none;
@@ -598,8 +599,8 @@
 }
 .bf-ribbon-chip code {
   font-family: var(--font-jetbrains-mono), monospace;
-  font-size: 12px;
-  padding: 2px 7px;
+  font-size: 12.5px;
+  padding: 3px 8px;
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.92);
   color: #0b0718;
@@ -625,8 +626,8 @@
   display: flex;
   align-items: center;
   gap: 10px;
-  min-height: 46px;
-  padding: 0 16px;
+  min-height: 48px;
+  padding: 0 8px 0 16px;
   border-radius: 999px;
   background: var(--bf-bg-card);
   border: 1.5px solid var(--bf-line-strong);
@@ -651,8 +652,8 @@
   font-weight: 500;
 }
 .bf-clear-btn {
-  width: 28px;
-  height: 28px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   background: var(--bf-bg-elev);
   color: inherit;
@@ -661,7 +662,8 @@
   display: grid;
   place-items: center;
   font-weight: 800;
-  font-size: 15px;
+  font-size: 17px;
+  flex: none;
 }
 .bf-stage-filters {
   display: flex;
@@ -678,14 +680,15 @@
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  padding: 7px 13px;
+  min-height: 44px;
+  padding: 8px 14px;
   border-radius: 999px;
   border: 1px solid var(--bf-line-strong);
   background: var(--bf-bg-elev);
   color: inherit;
   cursor: pointer;
   font: inherit;
-  font-size: 12.5px;
+  font-size: 13px;
   font-weight: 700;
   white-space: nowrap;
 }
@@ -997,9 +1000,12 @@
 }
 
 .bf-brand-btn {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
   background: none;
   border: 0;
-  padding: 0;
+  padding: 4px 2px;
   cursor: pointer;
   font-family: var(--font-archivo), sans-serif;
   font-weight: 900;
@@ -1013,17 +1019,20 @@
 .bf-tier-2 .bf-brand-btn { font-size: clamp(20px, 2.9vw, 36px); color: #ffffff; }
 .bf-tier-3 .bf-brand-btn { font-size: clamp(17px, 2.1vw, 26px); color: #d8d0ef; }
 
-/* Sem reticências nem max-width cortando códigos longos: o código aparece sempre inteiro! */
+/* Alvo de toque mínimo de 44px para clique confortável no celular (WhatsApp / Instagram), sem reticências */
 .bf-ticket-go {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
-  padding: 5px 10px;
+  justify-content: center;
+  gap: 6px;
+  min-height: 44px;
+  padding: 8px 14px;
   border-radius: 999px;
   background: var(--bf-ticket-code-bg);
-  border: 1.5px dashed rgba(217, 255, 67, 0.75);
+  border: 1.5px dashed rgba(217, 255, 67, 0.8);
   font-family: var(--font-jetbrains-mono), monospace;
-  font-size: 11.5px;
+  font-size: 13px;
+  line-height: 1.2;
   font-weight: 800;
   color: var(--bf-lime);
   max-width: 100%;
@@ -1123,15 +1132,16 @@
   display: inline-flex;
   align-items: center;
   gap: 7px;
-  padding: 4px 10px 4px 4px;
+  min-height: 44px;
+  padding: 5px 12px 5px 6px;
   border-radius: 999px;
-  background: rgba(11, 7, 24, 0.74);
+  background: rgba(11, 7, 24, 0.78);
   backdrop-filter: blur(10px);
   color: #fff;
   border: 0;
   cursor: pointer;
   font: inherit;
-  font-size: 12px;
+  font-size: 12.5px;
   font-weight: 800;
 }
 .bf-reel-bf-tag {
@@ -1179,7 +1189,7 @@
 }
 .bf-reel-ticket code {
   font-family: var(--font-jetbrains-mono), monospace;
-  font-size: 11.5px;
+  font-size: 12px;
   font-weight: 800;
   color: var(--bf-lime);
   min-width: 0;
@@ -1187,12 +1197,16 @@
 }
 .bf-reel-copy {
   flex: none;
-  padding: 7px 11px;
-  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 8px 13px;
+  border-radius: 9px;
   background: var(--bf-lime);
   color: var(--bf-lime-ink);
   font-weight: 900;
-  font-size: 11.5px;
+  font-size: 12px;
   text-transform: uppercase;
   white-space: nowrap;
   text-decoration: none;
@@ -1433,14 +1447,14 @@ dialog.bf-stage-modal::backdrop {
   top: 12px;
   right: 12px;
   z-index: 3;
-  width: 36px;
-  height: 36px;
+  width: 44px;
+  height: 44px;
   border-radius: 50%;
-  background: rgba(0, 0, 0, 0.58);
+  background: rgba(0, 0, 0, 0.62);
   color: #fff;
   border: 0;
   cursor: pointer;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 800;
   display: grid;
   place-items: center;
@@ -1461,7 +1475,8 @@ dialog.bf-stage-modal::backdrop {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  padding: 11px 13px;
+  min-height: 44px;
+  padding: 11px 14px;
   border-radius: 12px;
   background: var(--bf-bg-elev);
   border: 1px solid var(--bf-line);
@@ -1536,6 +1551,39 @@ dialog.bf-stage-modal::backdrop {
   flex-direction: column;
   gap: 10px;
 }
+.bf-wallet-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+.bf-wallet-title {
+  font-family: var(--font-archivo), sans-serif;
+  font-size: 14.5px;
+}
+.bf-wallet-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.bf-wallet-disc {
+  opacity: 0.72;
+  font-size: 11px;
+}
+.bf-icon-close-btn {
+  width: 44px;
+  height: 44px;
+  margin-inline-end: -8px;
+  background: none;
+  border: 0;
+  color: inherit;
+  font-size: 20px;
+  font-weight: 900;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  flex: none;
+}
 .bf-wallet-item {
   display: flex;
   align-items: center;
@@ -1553,17 +1601,21 @@ dialog.bf-stage-modal::backdrop {
   word-break: break-all;
 }
 .bf-wallet-item a {
-  padding: 6px 10px;
-  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 8px 12px;
+  border-radius: 9px;
   background: var(--bf-pink);
   color: #fff;
   font-weight: 800;
-  font-size: 11.5px;
+  font-size: 12px;
   white-space: nowrap;
   text-decoration: none;
 }
 
-/* Barra de cópia manual caso o navegador bloqueie o clipboard */
+/* Barra de cópia manual caso o navegador bloqueie o clipboard (flutuante na página + inline dentro do <dialog>) */
 .bf-manual-copy-bar {
   position: fixed;
   left: 50%;
@@ -1580,6 +1632,49 @@ dialog.bf-stage-modal::backdrop {
   flex-direction: column;
   gap: 8px;
 }
+.bf-manual-copy-inline {
+  background: rgba(16, 9, 34, 0.92);
+  border: 2px solid var(--bf-lime);
+  border-radius: 16px;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.bf-manual-copy-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+.bf-manual-copy-title {
+  font-size: 12.5px;
+  font-weight: 700;
+}
+.bf-manual-copy-btn {
+  min-height: 44px;
+  padding: 0 16px;
+  border-radius: 10px;
+  border: 0;
+  background: var(--bf-lime);
+  color: var(--bf-lime-ink);
+  font-family: var(--font-archivo), sans-serif;
+  font-weight: 900;
+  font-size: 12.5px;
+  text-transform: uppercase;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.bf-modal-toast {
+  background: #0d281c;
+  color: #e9fff2;
+  border: 1.5px solid var(--bf-ok);
+  padding: 9px 14px;
+  border-radius: 12px;
+  font-size: 12.5px;
+  font-weight: 800;
+  text-align: center;
+}
 .bf-manual-copy-row {
   display: flex;
   align-items: center;
@@ -1588,6 +1683,7 @@ dialog.bf-stage-modal::backdrop {
 .bf-manual-copy-input {
   flex: 1;
   min-width: 0;
+  min-height: 44px;
   padding: 9px 12px;
   border-radius: 10px;
   border: 1.5px dashed var(--bf-lime);
@@ -1639,23 +1735,154 @@ dialog.bf-stage-modal::backdrop {
   z-index: 65;
 }
 
+/* Classes semânticas do pôster, dueto, modal e rodapé (sem estilos inline soltos) */
+.bf-poster-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  font-size: 13px;
+  color: var(--bf-muted);
+  font-weight: 700;
+  gap: 10px;
+}
+.bf-reset-filter-btn {
+  min-height: 44px;
+  padding: 0 6px;
+  color: var(--bf-lime);
+  font-weight: 800;
+  text-decoration: underline;
+  background: none;
+  border: 0;
+  cursor: pointer;
+}
+.bf-empty-state {
+  text-align: center;
+  margin: 24px 0;
+  color: var(--bf-muted);
+}
+.bf-duet-desc {
+  margin: 8px 0 0;
+  font-size: 13px;
+  color: var(--bf-muted);
+}
+.bf-modal-cat {
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--bf-lime);
+}
+.bf-modal-title {
+  margin: 2px 0 0;
+  font-family: var(--font-archivo), sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 1;
+}
+.bf-modal-where {
+  margin: 0;
+  font-size: 14px;
+  color: var(--bf-muted);
+  font-weight: 600;
+}
+.bf-modal-where strong {
+  color: var(--bf-ink);
+}
+.bf-modal-camps-heading {
+  font-size: 11.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--bf-muted);
+}
+.bf-modal-camp-cta {
+  color: var(--bf-lime);
+  white-space: nowrap;
+}
+.bf-modal-links-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.bf-modal-page-btn {
+  flex: 1;
+  min-height: 44px;
+  padding: 8px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(217, 255, 67, 0.45);
+  background: rgba(217, 255, 67, 0.1);
+  color: var(--bf-lime);
+  font-size: 12.5px;
+  font-weight: 800;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  text-decoration: none;
+  text-align: center;
+}
+.bf-modal-footer-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  padding-top: 10px;
+  border-top: 1px solid var(--bf-line);
+  font-size: 12.5px;
+  font-weight: 800;
+}
+.bf-modal-nav-btn {
+  min-height: 44px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: var(--bf-bg-elev);
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  font-weight: 800;
+}
+.bf-modal-rules-link {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  color: var(--bf-muted);
+  font-weight: 700;
+  text-decoration: underline;
+}
+
 .bf-stage-footer {
   border-top: 1px solid var(--bf-line);
   padding-block: 28px 54px;
   color: var(--bf-muted);
   font-size: 12.5px;
 }
+.bf-footer-inner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+}
+.bf-footer-copy {
+  max-width: 72ch;
+}
+.bf-footer-note {
+  margin: 0;
+}
 .bf-footer-links {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 10px 16px;
+  gap: 6px 16px;
   margin-top: 10px;
 }
 .bf-footer-links a,
 .bf-footer-link-btn {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
   color: var(--bf-ink);
-  font-size: 12px;
+  font-size: 12.5px;
   font-weight: 700;
   text-decoration: underline;
   text-underline-offset: 3px;
@@ -1665,25 +1892,420 @@ dialog.bf-stage-modal::backdrop {
   cursor: pointer;
 }
 .bf-pause-fx-btn {
-  padding: 6px 12px;
+  min-height: 44px;
+  padding: 8px 16px;
   border-radius: 999px;
   border: 1px solid var(--bf-line-strong);
   background: var(--bf-bg-elev);
   color: var(--bf-muted);
-  font-size: 11.5px;
+  font-size: 12px;
   font-weight: 700;
   white-space: nowrap;
   cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
 }
 .bf-pause-fx-btn[aria-pressed="true"] {
   border-color: var(--bf-pink);
   color: var(--bf-ink);
 }
 
+/* =========================================================================
+   PÁGINA INDIVIDUAL DE PARCEIRO — /blackfriday/[slug]
+   ========================================================================= */
+.bf-p-subbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding-block: 10px 4px;
+}
+.bf-p-back-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 8px 16px;
+  border-radius: 999px;
+  background: var(--bf-bg-elev);
+  border: 1px solid var(--bf-line-strong);
+  color: var(--bf-ink);
+  font-size: 13px;
+  font-weight: 800;
+  text-decoration: none;
+}
+.bf-p-back-pill:hover {
+  border-color: var(--bf-lime);
+  color: var(--bf-lime);
+}
+
+.bf-p-hero {
+  position: relative;
+  isolation: isolate;
+  margin-block: 10px 26px;
+  border-radius: 28px;
+  overflow: hidden;
+  padding: clamp(22px, 4vw, 44px);
+  border: 2px solid color-mix(in srgb, var(--c, var(--bf-lime)) 55%, rgba(217, 255, 67, 0.55));
+  background:
+    radial-gradient(circle at 86% 20%, color-mix(in srgb, var(--c, var(--bf-pink)) 58%, transparent), transparent 55%),
+    linear-gradient(145deg, #170f30 0%, #0d081d 100%);
+  box-shadow: 0 28px 68px rgba(0, 0, 0, 0.58);
+  display: grid;
+  grid-template-columns: minmax(0, 1.18fr) minmax(0, 0.82fr);
+  gap: 24px;
+  align-items: center;
+}
+.bf-p-hero.no-photo {
+  grid-template-columns: 1fr;
+}
+.bf-p-hero-main {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  z-index: 2;
+}
+.bf-p-brand-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.bf-p-eyebrow {
+  display: block;
+  font-family: var(--font-jetbrains-mono), monospace;
+  font-size: 11px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--bf-lime);
+}
+.bf-p-h1 {
+  margin: 2px 0 0;
+  font-family: var(--font-archivo), sans-serif;
+  font-weight: 900;
+  font-stretch: 78%;
+  font-size: clamp(32px, 5vw, 62px);
+  line-height: 0.92;
+  letter-spacing: -0.025em;
+  text-transform: uppercase;
+}
+.bf-p-offer-highlight {
+  display: inline-block;
+  color: var(--bf-lime);
+}
+.bf-p-lead {
+  margin: 0;
+  font-size: clamp(14px, 1.25vw, 16.5px);
+  font-weight: 600;
+  color: #e6defa;
+  max-width: 62ch;
+}
+.bf-p-photo-card {
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  aspect-ratio: 16 / 11;
+  border: 1.5px solid rgba(255, 255, 255, 0.16);
+  background: var(--bf-bg-elev);
+}
+.bf-p-photo-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.bf-p-sec {
+  margin-block: 26px;
+}
+.bf-p-sec-title {
+  margin: 0 0 14px;
+  font-family: var(--font-archivo), sans-serif;
+  font-weight: 900;
+  font-stretch: 82%;
+  font-size: clamp(24px, 3.2vw, 36px);
+  line-height: 0.95;
+  text-transform: uppercase;
+}
+.bf-p-camps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 14px;
+}
+.bf-p-camp-card {
+  background: var(--bf-bg-card);
+  border: 1.5px solid rgba(255, 46, 147, 0.45);
+  border-radius: 20px;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 12px;
+}
+.bf-p-camp-tag {
+  align-self: flex-start;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: var(--bf-pink);
+  color: #fff;
+  font-family: var(--font-archivo), sans-serif;
+  font-weight: 900;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.bf-p-camp-headline {
+  margin: 0;
+  font-family: var(--font-archivo), sans-serif;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 1.08;
+}
+.bf-p-camp-text {
+  margin: 4px 0 0;
+  font-size: 13.5px;
+  color: var(--bf-muted);
+}
+.bf-p-camp-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 8px 16px;
+  border-radius: 12px;
+  background: var(--bf-lime);
+  color: var(--bf-lime-ink);
+  font-family: var(--font-archivo), sans-serif;
+  font-weight: 900;
+  font-size: 13px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.bf-p-cols {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin-block: 26px;
+}
+.bf-p-card {
+  background: var(--bf-bg-card);
+  border: 1px solid var(--bf-line-strong);
+  border-radius: 22px;
+  padding: clamp(18px, 3vw, 26px);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.bf-p-card h2 {
+  margin: 0;
+  font-family: var(--font-archivo), sans-serif;
+  font-weight: 900;
+  font-stretch: 84%;
+  font-size: 23px;
+  text-transform: uppercase;
+}
+.bf-p-steps {
+  margin: 0;
+  padding-inline-start: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 14px;
+  color: #e6defa;
+}
+.bf-p-rule-list {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  font-size: 13.5px;
+  color: var(--bf-muted);
+}
+.bf-p-rule-list strong {
+  color: var(--bf-ink);
+}
+.bf-p-stack-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.bf-p-stack-row {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: var(--bf-bg-elev);
+  border: 1px solid var(--bf-line);
+  font-size: 13px;
+}
+.bf-p-stack-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  font-weight: 800;
+}
+.bf-p-stack-badge {
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-family: var(--font-jetbrains-mono), monospace;
+  font-size: 10.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.bf-p-stack-badge.is-sim {
+  background: rgba(46, 242, 160, 0.18);
+  color: var(--bf-ok);
+}
+.bf-p-stack-badge.is-depende {
+  background: rgba(217, 255, 67, 0.16);
+  color: var(--bf-lime);
+}
+.bf-p-stack-badge.is-nao {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--bf-muted);
+}
+.bf-p-test-box {
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: rgba(46, 242, 160, 0.1);
+  border: 1px solid rgba(46, 242, 160, 0.4);
+  font-size: 13px;
+  color: #e4fff2;
+}
+
+.bf-p-tier-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 10px;
+}
+.bf-p-tier-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 11px 13px;
+  border-radius: 14px;
+  background: var(--bf-bg-card);
+  border: 1px solid var(--bf-line-strong);
+}
+.bf-p-tier-code {
+  font-family: var(--font-jetbrains-mono), monospace;
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--bf-lime);
+  word-break: break-all;
+}
+.bf-p-tier-meta {
+  font-size: 12px;
+  color: var(--bf-muted);
+  font-weight: 600;
+}
+.bf-p-tier-btn {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 8px 13px;
+  border-radius: 10px;
+  background: var(--bf-lime);
+  color: var(--bf-lime-ink);
+  font-family: var(--font-archivo), sans-serif;
+  font-weight: 900;
+  font-size: 12px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.bf-p-tier-btn.is-copied {
+  background: var(--bf-ok);
+  color: var(--bf-ok-ink);
+}
+
+.bf-p-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 14px;
+}
+.bf-p-article-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 18px;
+  overflow: hidden;
+  background: var(--bf-bg-card);
+  border: 1px solid var(--bf-line-strong);
+  color: inherit;
+  text-decoration: none;
+}
+.bf-p-article-card:hover {
+  border-color: var(--bf-lime);
+}
+.bf-p-article-img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: var(--bf-bg-elev);
+  display: block;
+}
+.bf-p-article-body {
+  padding: 13px 15px 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.bf-p-article-type {
+  font-family: var(--font-jetbrains-mono), monospace;
+  font-size: 10.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--bf-lime);
+}
+.bf-p-article-title {
+  margin: 0;
+  font-size: 14.5px;
+  font-weight: 800;
+  line-height: 1.3;
+}
+
+.bf-p-others-rail {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.bf-p-other-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 48px;
+  padding: 6px 14px 6px 8px;
+  border-radius: 999px;
+  background: var(--bf-bg-card);
+  border: 1px solid var(--bf-line-strong);
+  color: inherit;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: 800;
+}
+.bf-p-other-chip:hover {
+  border-color: var(--bf-lime);
+}
+.bf-p-other-chip small {
+  font-family: var(--font-jetbrains-mono), monospace;
+  font-size: 11.5px;
+  color: var(--bf-lime);
+}
+
 /* Responsividade Mobile */
 @media (max-width: 920px) {
   .bf-headliner-damie,
-  .bf-headliner-duet {
+  .bf-headliner-duet,
+  .bf-p-hero,
+  .bf-p-cols {
     grid-template-columns: 1fr;
   }
   .bf-hl-visual {
@@ -1716,16 +2338,17 @@ dialog.bf-stage-modal::backdrop {
     font-size: 13px;
   }
   .bf-poster-cloud {
-    gap: 8px 10px;
+    gap: 10px 10px;
   }
   .bf-act {
     --enter-dist: 76px;
-    padding: 6px 9px;
-    gap: 5px 7px;
+    padding: 7px 10px;
+    gap: 6px 8px;
   }
   .bf-ticket-go {
-    font-size: 10.5px;
-    padding: 4px 8px;
+    min-height: 44px;
+    font-size: 12px;
+    padding: 8px 12px;
   }
   .bf-vip-copy-go {
     padding: 0 13px;

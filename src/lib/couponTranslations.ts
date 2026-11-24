@@ -4124,7 +4124,6 @@ export const CODE_FIELD_POLICY = {
   status: 'pt',
   featured: 'pt',
   featuredPitch: 'drop',
-  festivalSpotlight: 'drop',
   // Só a vitrine da home em PT lê o campo: fora do PT ele vem junto e não esconde nada.
   hideFromPortugueseHome: 'pt',
   relatedContent: 'drop',
@@ -5024,7 +5023,6 @@ export function localizeCoupon(coupon: Coupon, translation: CouponTranslation, l
     // Textos que só existem em PT; sem tradução, ficam fora da página.
     socialImageAlt: undefined,
     featuredPitch: undefined,
-    festivalSpotlight: undefined,
     relatedContent: undefined,
   };
 

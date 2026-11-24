@@ -3,9 +3,10 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { ImageResponse } from 'next/og';
 import { getActiveCoupons } from '@/lib/couponsData';
+import { isBlackFridaySeason } from '@/lib/festivalBlackFriday';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
-export const alt = 'Festival de Cupons EXCLUSIVOS da Cecília — Black Friday';
+export const alt = 'Festival de Cupons EXCLUSIVOS da Cecília';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 
@@ -161,7 +162,9 @@ export default async function OpenGraphImage() {
               textTransform: 'uppercase',
             }}
           >
-            {`BLACK FRIDAY · ${totalCount} LOJAS`}
+            {isBlackFridaySeason(Date.now())
+              ? `BLACK FRIDAY · ${totalCount} LOJAS`
+              : `FESTIVAL · ${totalCount} LOJAS`}
           </div>
         </div>
 

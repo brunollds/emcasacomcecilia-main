@@ -1,13 +1,16 @@
 import type { Metadata } from 'next';
 import { FestivalStageClient } from '@/components/festival/FestivalStageClient';
 import { getActiveCoupons } from '@/lib/couponsData';
-import { getFestivalBlackFridayData } from '@/lib/festivalBlackFriday';
+import { getFestivalBlackFridayData, isBlackFridaySeason } from '@/lib/festivalBlackFriday';
 
 export const revalidate = 300;
 
 export function generateMetadata(): Metadata {
   const activeCount = getActiveCoupons().length;
-  const title = `Festival de Cupons EXCLUSIVOS da Cecília — Black Friday (${activeCount} lojas)`;
+  const isBf = isBlackFridaySeason(Date.now());
+  const title = isBf
+    ? `Festival de Cupons EXCLUSIVOS da Cecília — Black Friday (${activeCount} lojas)`
+    : `Festival de Cupons EXCLUSIVOS da Cecília (${activeCount} lojas parceiras)`;
   const description = `${activeCount} lojas parceiras num lugar só. Toque no código exclusivo para copiar e já abrir a loja oficial: Insider, DAMIE, Dolce Gusto, I Wanna Sleep e mais.`;
 
   return {

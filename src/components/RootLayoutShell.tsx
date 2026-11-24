@@ -122,9 +122,15 @@ export const defaultMetadata = getLocaleMetadata('pt-BR');
 export function RootLayoutShell({
   lang,
   children,
+  chrome = true,
+  extraBodyClassName,
+  bodyStyle,
 }: {
   lang: string;
   children: React.ReactNode;
+  chrome?: boolean;
+  extraBodyClassName?: string;
+  bodyStyle?: React.CSSProperties;
 }) {
   const loc = findLocaleByHtmlLang(lang) || 'pt';
 
@@ -200,7 +206,10 @@ export function RootLayoutShell({
 
   return (
     <html lang={lang} dir={LOCALES[loc].dir} className={loc === 'ar' ? notoSansArabic.variable : undefined}>
-      <body className={`${montserrat.variable} ${lora.variable} ${caveat.variable} ${kalam.variable} antialiased`}>
+      <body
+        className={`${montserrat.variable} ${lora.variable} ${caveat.variable} ${kalam.variable}${extraBodyClassName ? ` ${extraBodyClassName}` : ''} antialiased`}
+        style={bodyStyle}
+      >
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: serializeJsonLd(organizationSchema) }}
@@ -209,11 +218,11 @@ export function RootLayoutShell({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: serializeJsonLd(websiteSchema) }}
         />
-        <Navbar lang={lang} />
+        {chrome ? <Navbar lang={lang} /> : null}
         {children}
-        <Footer lang={lang} />
+        {chrome ? <Footer lang={lang} /> : null}
         <ConsentBanner copy={getConsentCopy(loc)} />
-        <LanguageSuggestion />
+        {chrome ? <LanguageSuggestion /> : null}
         <Analytics />
         <Clarity />
       </body>

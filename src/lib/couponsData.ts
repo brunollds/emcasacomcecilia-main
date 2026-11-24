@@ -92,12 +92,6 @@ interface CouponBase {
   featured: boolean;
   // Frase de vitrine que só o card maior dos Destaques mostra.
   featuredPitch?: string;
-  // Vitrine opcional do /blackfriday (foto limpa de produto + chamada curta + link específico se houver).
-  festivalSpotlight?: {
-    label: string;
-    image: string;
-    url?: string;
-  };
   // Tira a loja só da vitrine da home em português (a bolinha e o painel dela). Ela segue em /cupons, na página
   // dela, nas bolinhas de /reviews, na subpágina /reviews/loja, nas homes dos outros idiomas e nos artigos.
   hideFromPortugueseHome?: true;
