@@ -1,0 +1,300 @@
+{
+  "id": 1435,
+  "slug": "starlink-tarife-100-200-mbits-oder-max",
+  "translationKey": "starlink-planos-residenciais",
+  "locale": "de",
+  "hideFromPortugueseListings": true,
+  "title": "Starlink Tarife 100 Mbit/s, 200 Mbit/s oder Max: Preise, Hardware und Entscheidungshilfe",
+  "seoTitle": "Starlink 100 Mbit/s, 200 Mbit/s oder Max: welcher Tarif",
+  "type": "Entscheidungshilfe",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Redaktion und Analyse",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redaktion und Analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Starlink 100 Mbit/s, 200 Mbit/s und Max in Deutschland im Vergleich: 3-Monats-Rabatt, Mini X oder Standard 4, Gratis-Montage und Tarifwechsel.",
+  "metaDescription": "Starlink Tarife 100 Mbit/s, 200 Mbit/s oder Max in Deutschland: Preise nach 3 Monaten, Mietkit-Unterschiede, Kündigung und Tempo.",
+  "publishedAt": "24. November 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/starlink/starlink-tarife-100-200-mbits-oder-max-capa.webp",
+  "imageAlt": "Vergleichs-Cover mit schwarzem Panel samt STARLINK und dem Titel 100, 200 Mbit/s oder Max? neben einer auf einem Holzdach montierten Starlink-Antenne vor blauem Himmel.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Kurze Antwort",
+      "paragraphs": [
+        "Starlink staffelt seine Heimtarife in 100 Mbit/s, 200 Mbit/s und Max, doch die Wahl beeinflusst weit mehr als das Tempolimit. Je nach Stufe ändern sich die gelieferte Antenne, die kostenlose Profi-Montage und die Regeln für spätere Tarifwechsel. Prüfen Sie Ihre Adresse über unseren offiziellen Link, um lokale Konditionen zu sehen und nach zwei bezahlten Monaten Rechnungsguthaben zu erhalten."
+      ],
+      "links": [
+        {
+          "label": "Tarife an meiner Adresse mit 45 € Gutschrift nach 2 Zyklen prüfen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Preise in Deutschland und wie die 45-Euro-Gutschrift funktioniert",
+      "paragraphs": [
+        "Für eine Berliner Testadresse zeigen auf starlink.com alle drei Privathaushaltstarife einen 50-Prozent-Rabatt für die ersten drei Monate: 100 Mbit/s für 17,50 €/Monat (danach 35 €/Monat), 200 Mbit/s für 27,50 €/Monat (danach 55 €/Monat) und Max für 37,50 €/Monat (danach 75 €/Monat), jeweils zuzüglich 19 € Versand.",
+        "Alle drei Stufen kommen in Deutschland mit einem Mietkit zu 0 € und sind monatlich ohne Strafgebühr kündbar (Kündigung ist gebührenfrei, Rückgabe der Miethardware erforderlich). Wer als Neukunde über den offiziellen Empfehlungslink bestellt, erhält nach zwei vollständig bezahlten Abrechnungszyklen 45 € als Rechnungsgutschrift, ohne dass sich der Bestellpreis am ersten Tag verringert."
+      ],
+      "comparisonTable": {
+        "caption": "Abgerufene Preise für eine Berliner Testadresse im offiziellen Bestellvorgang am 23.11.2026. Das Empfehlungsguthaben wird nach zwei bezahlten Monatszyklen auf der Rechnung gutgeschrieben.",
+        "headers": [
+          "Tarif in Deutschland",
+          "3 Monate Aktionspreis (danach)",
+          "Miet-Hardware im Paket",
+          "Montage und Rechnungsguthaben"
+        ],
+        "rows": [
+          [
+            "Privathaushalte 100 Mbit/s",
+            "17,50 €/Monat (dann 35 €)",
+            "Mini X als Mietkit für 0 €",
+            "Profi-Montage 172 € optional; 45 € Guthaben"
+          ],
+          [
+            "Privathaushalte 200 Mbit/s",
+            "27,50 €/Monat (dann 55 €)",
+            "Standard 4 als Mietkit für 0 €",
+            "Profi-Montage 172 € optional; 45 € Guthaben"
+          ],
+          [
+            "Privathaushalte Max",
+            "37,50 €/Monat (dann 75 €)",
+            "Standard 4 als Mietkit für 0 €",
+            "Profi-Montage 172 € inklusive; 45 € Guthaben"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "Simulator für Startzahlung und Rechnungsguthaben (Deutschland)",
+        "scenarios": [
+          {
+            "label": "200 Mbit/s mit Empfehlungslink",
+            "lines": [
+              {
+                "label": "Mietkit Standard 4 + Versand",
+                "value": "0,00 € + 19,00 €"
+              },
+              {
+                "label": "Erster Aktionsmonat (danach 55 €/Monat)",
+                "value": "27,50 €/Monat (ab Aktivierung oder 7 Tage nach Lieferung)"
+              },
+              {
+                "label": "Rechnungsgutschrift nach 2 bezahlten Zyklen",
+                "value": "45,00 € auf dem Konto",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Zahlung am Bestelltag (nur Versand)",
+            "totalValue": "19 €",
+            "note": "Am Bestelltag fallen nur 19 € Versand an; der erste Monatsbeitrag startet bei Aktivierung oder 7 Tage nach Lieferung, die 45 € nach zwei bezahlten Zyklen."
+          },
+          {
+            "label": "Max mit Empfehlungslink",
+            "lines": [
+              {
+                "label": "Mietkit Standard 4 + Profi-Montage + Versand",
+                "value": "0,00 € + 0,00 € + 19,00 €"
+              },
+              {
+                "label": "Erster Aktionsmonat (danach 75 €/Monat)",
+                "value": "37,50 €/Monat (ab Aktivierung oder 7 Tage nach Lieferung)"
+              },
+              {
+                "label": "Rechnungsgutschrift nach 2 bezahlten Zyklen",
+                "value": "45,00 € auf dem Konto",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Zahlung am Bestelltag (nur Versand)",
+            "totalValue": "19 €",
+            "note": "Spart 172 € Profi-Montage. Die Monatsgebühr startet bei Aktivierung oder 7 Tage nach Lieferung; ab Monat 4 regulär 75 €/Monat."
+          },
+          {
+            "label": "200 Mbit/s ohne Empfehlungslink",
+            "lines": [
+              {
+                "label": "Mietkit Standard 4 + Versand",
+                "value": "0,00 € + 19,00 €"
+              },
+              {
+                "label": "Erster Aktionsmonat (danach 55 €/Monat)",
+                "value": "27,50 €/Monat (ab Aktivierung oder 7 Tage nach Lieferung)"
+              },
+              {
+                "label": "Empfehlungsguthaben auf der Rechnung",
+                "value": "0,00 €"
+              }
+            ],
+            "totalLabel": "Zahlung am Bestelltag (nur Versand)",
+            "totalValue": "19 €",
+            "note": "Sie zahlen am Bestelltag exakt dieselben 19 € Versand, verzichten ohne Link jedoch auf die 45 € spätere Rechnungsgutschrift."
+          }
+        ]
+      },
+      "postParagraphs": [
+        "Wichtig für den Überblick: Bei 0 € Mietgebühr zahlen Sie am Bestelltag lediglich 19 € Versandkosten; die erste Monatsgebühr wird erst bei Aktivierung oder 7 Tage nach Lieferung berechnet, und die 45 € Empfehlungsgutschrift folgt nach zwei pünktlich bezahlten Monaten."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+        "alt": "Starlink-Bestellseite für Berlin mit den Tarifen 100 Mbit/s, 200 Mbit/s und Max sowie Mietkit-Angaben",
+        "caption": "Deutsche Bestellansicht: Alle Tarife starten 3 Monate zum halben Preis, ab 200 Mbit/s wechselt das Mietkit auf Standard 4.",
+        "objectFit": "contain",
+        "aspectRatio": 0.5909
+      }
+    },
+    {
+      "heading": "Was sich außer Mbit/s ändert: Antenne, Mietkit und Gratis-Montage",
+      "paragraphs": [
+        "Wer nur auf die Monatsrate nach drei Monaten blickt, übersieht die gekoppelten Hardware- und Servicevorteile. In Deutschland liefert der Tarif 100 Mbit/s das Mietkit Mini X zu 0 €, während 200 Mbit/s und Max auf die größere Standard 4 zu 0 € wechseln. Die Selbstmontage bleibt immer kostenfrei; wer hingegen einen Techniker wünscht, zahlt bei 100 und 200 Mbit/s pauschal 172 €, während Max diese Profi-Installation ohne Aufpreis einschließt.",
+        "Gleichzeitig lohnt der Blick ins Kleingedruckte der deutschen Bestellseite: Da die Hardware gemietet ist, bleibt sie Eigentum von Starlink und muss bei einer Vertragsbeendigung zurückgeschickt werden. Zudem weist der deutsche Checkout ausdrücklich darauf hin, dass die Kündigung gebührenfrei bleibt, im Gegensatz zu subventionierten 12-Monats-Kaufmodellen in Regionen wie Brasilien oder Mexiko.",
+        "Wenn Sie die genauen Rückgaberegeln, Kündigungsfristen und internationalen Vertragsunterschiede nachlesen möchten, finden Sie alle Details in unserem [Ratgeber zu Starlink-Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Offizielle Starlink-Satellitenantenne und WLAN-Router aus dem Privathaushaltskit",
+        "caption": "Je nach gewählter Tarifstufe erhalten Sie in Deutschland das Mini-X-Kit oder das Standard-4-Kit zur Miete.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Offizielle Geschwindigkeiten, Latenz und passendes Haushaltsprofil",
+      "paragraphs": [
+        "In den offiziellen Breitband-Spezifikationen (DOC-1470-99699-90) und im aktuellen Hilfeartikel (886607c4) nennt Starlink für alle drei Privattarife unbegrenztes Datenvolumen, eine typische Latenz unter 50 ms und mindestens 99 % Verfügbarkeit. Der 100-Mbit/s-Tarif liefert typischerweise 80 bis 100 Mbit/s im Download (bei 100 Mbit/s begrenzt), der 200-Mbit/s-Tarif erreicht 80 bis 200 Mbit/s (bei 200 Mbit/s begrenzt) und der Max-Tarif liegt zwischen 80 und 400 Mbit/s, mit Spitzen über 400 Mbit/s bei freier Netzkapazität.",
+        "Beim Upload dokumentieren die technischen Datenblätter 15 bis 35 Mbit/s für alle Tarife, während der Hilfeartikel bei Max 20 bis 40 Mbit/s aufführt. Das ältere Dokument DOC-1414-37800-64 führte noch ausschließlich den früheren Standard-Fixed-Wert von 25 bis 100 Mbit/s auf, der heute durch die dreistufige Struktur ersetzt wurde.",
+        "Als allgemeine Faustregel für den Alltag, ausdrücklich ohne eigene Standortmessung: 100 Mbit/s reicht kleineren Haushalten problemlos für Homeoffice, Videoanrufe und 4K-Streaming; 200 Mbit/s empfiehlt sich, wenn mehrere Personen gleichzeitig große Downloads anstoßen und Sie lieber auf Standard 4 setzen; Max lohnt sich primär für sehr aktive Mehrpersonenhaushalte oder wenn Sie die inkludierte 172-€-Montage nutzen möchten."
+      ],
+      "comparisonTable": {
+        "caption": "Offizielle Leistungswerte laut DOC-1470-99699-90 und Hilfeartikel 886607c4. Das frühere Dokument DOC-1414-37800-64 listete nur 25 bis 100 Mbit/s Standard Fixed.",
+        "headers": [
+          "Privathaushaltstarif",
+          "Typischer Download (offiziell)",
+          "Typischer Upload (offiziell)",
+          "Latenz und Volumen"
+        ],
+        "rows": [
+          [
+            "Privathaushalte 100 Mbit/s",
+            "80 bis 100 Mbit/s (Limit 100 Mbit/s)",
+            "15 bis 35 Mbit/s",
+            "Unter 50 ms; unbegrenztes Datenvolumen"
+          ],
+          [
+            "Privathaushalte 200 Mbit/s",
+            "80 bis 200 Mbit/s (Limit 200 Mbit/s)",
+            "15 bis 35 Mbit/s",
+            "Unter 50 ms; unbegrenztes Datenvolumen"
+          ],
+          [
+            "Privathaushalte Max",
+            "80 bis 400 Mbit/s (bis 400+ Mbit/s)",
+            "15 bis 35 Mbit/s (20 bis 40 Mbit/s Hilfe)",
+            "Unter 50 ms; unbegrenztes Datenvolumen"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "Auf einem Hausdach montierte Starlink-Antenne mit freier Sicht zum Himmel",
+        "caption": "Freie Sicht zum Himmel auf dem Dach entscheidet darüber, ob der Tarif die volle Bandbreite und unter 50 ms Latenz hält.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "Tarifwechsel-Regeln und 30-Tage-Rückgabefrist",
+      "paragraphs": [
+        "Alle Abrechnungszyklen bei Starlink enden exakt um 00:00 UTC (01:00 Uhr MEZ in Deutschland). Sofern ein Tarifwechsel im Konto vorgesehen ist, schaltet die Option JETZT ein Upgrade sofort gegen anteilige Nachberechnung frei, während ein sofortiges Downgrade das Tempo umgehend drosselt, ohne bereits bezahlte Resttage zu erstatten; die Option DATUM verschiebt den Wechsel sauber auf den nächsten Abrechnungsstichtag.",
+        "Für deutsche Kunden gibt es dabei zwei zentrale Stolpersteine: Erstens erlauben Privattarife mit gemieteter Hardware ausdrücklich keinen eigenständigen Tarifwechsel im Kundenportal. Zweitens kann ein Wechsel außerhalb bestimmter Aktionsregeln laufende Rabatte beenden. Dennoch testen Sie risikoarm, denn Sie können den Dienst innerhalb von 30 Tagen ab dem Zahlungsfälligkeitsdatum kündigen und das unbeschädigte Kit gegen Erstattung von Hardware und erstem Monat zurücksenden; weitere Infos finden Sie auch auf unserer [Starlink-Gutschein- und Empfehlungsseite](/de/coupons/starlink)."
+      ],
+      "checklist": {
+        "title": "Checkliste vor dem Bestellabschluss",
+        "items": [
+          "Prüfen Sie in der Zusammenfassung, ob für Sie 35 €, 55 € oder 75 € ab Monat 4 gilt.",
+          "Kontrollieren Sie, ob Ihr Wunschtarif das Mini-X-Kit oder Standard 4 zu 0 € Miete liefert.",
+          "Kalkulieren Sie ein, dass Mietkit-Tarife keinen Self-Service-Tarifwechsel im Portal erlauben.",
+          "Prüfen Sie vorab per App den freien Himmel am geplanten Dach- oder Gartenstandort.",
+          "Achten Sie vor der Zahlung auf den sichtbaren Empfehlungshinweis bei starlink.com."
+        ]
+      },
+      "links": [
+        {
+          "label": "Tarif, Mietkit und 45 € Gutschrift nach 2 Zyklen prüfen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Fazit: Welcher Starlink-Tarif passt am besten",
+      "paragraphs": [
+        "Für die meisten Haushalte in Deutschland ist Privathaushalte 100 Mbit/s mit dauerhaft 35 € nach den drei Rabattmonaten preislich sehr stark, solange Sie das Mini-X-Kit selbst aufstellen und keine hohen Parallel-Downloads fahren. Wer Wert auf die größere Standard-4-Antenne und reichlich Reserve für Homeoffice und mehrere Streams legt, findet bei 200 Mbit/s für 55 € ab Monat 4 die rundere Allround-Wahl.",
+        "Der Tarif Max rechnet sich bei 75 € regulär vor allem dann, wenn Sie ohnehin eine professionelle Dachmontage für 172 € beauftragen wollten und so die Installationskosten direkt durch den Tarif einsparen."
+      ],
+      "emphasis": "Entscheiden Sie in Deutschland nicht nur nach den ersten drei Aktionsmonaten: Rechnen Sie mit dem regulären Preis ab Monat 4, wählen Sie zwischen Mini X und Standard 4 und beachten Sie die Tarifwechsel-Sperre beim Mietkit."
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Kann ich beim deutschen Mietkit-Tarif später einfach selbst zwischen 100, 200 und Max wechseln? Nein per Self-Service: Starlink schließt bei Privattarifen mit Mietkit den eigenständigen Tarifwechsel über das Kontoportal aus.",
+        "Wie hoch ist der Preis nach den ersten drei Rabattmonaten in Deutschland? In der Berliner Testabfrage steigt 100 Mbit/s nach drei Monaten von 17,50 € auf 35 €, 200 Mbit/s von 27,50 € auf 55 € und Max von 37,50 € auf 75 €.",
+        "Wird die 45-Euro-Empfehlung direkt vom ersten Zahlbetrag abgezogen? Nein. Die 45 € erscheinen als Rechnungsgutschrift auf Ihrem Konto, nachdem zwei vollständige Monatszyklen bezahlt wurden.",
+        "Gibt es bei einer Kündigung in Deutschland eine Strafgebühr? Nein, die deutsche Bestellseite bestätigt gebührenfreie monatliche Kündigung, allerdings müssen Sie die gemietete Hardware zurücksenden.",
+        "Wie funktioniert die 30-Tage-Testphase genau? Sie können innerhalb von 30 Tagen ab dem Zahlungsfälligkeitsdatum kündigen und das unbeschädigte Kit zurückschicken, um Ausrüstung und den ersten Monat erstattet zu bekommen."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Geben Sie Ihre Straße direkt auf starlink.com ein, prüfen Sie Mietkit, 3-Monats-Rabatt sowie Folgepreis und sichern Sie sich 45 € Rechnungsguthaben nach zwei bezahlten Zyklen.",
+    "label": "Tarife mit 45 € Rechnungsgutschrift nach 2 Zyklen prüfen",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Preise, Hardware-Zuordnungen, Mietbedingungen und offizielle Leistungsdaten wurden direkt auf den öffentlichen Seiten und im Bestellfluss von Starlink geprüft. Wir nehmen ohne Mehrkosten für Leser am offiziellen Empfehlungsprogramm teil.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-vertrag-kuendigen"
+    },
+    {
+      "slug": "lohnt-sich-starlink"
+    },
+    {
+      "slug": "starlink-empfehlungslink"
+    },
+    {
+      "slug": "starlink-mini-oder-standard-vergleich"
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Sie 100 Mbit/s, 200 Mbit/s und Max anhand von Folgepreis, Mietkit und Montagekosten vergleichen wollen.",
+      "Sie direkt bei starlink.com bestellen und vor der Zahlung den Empfehlungsbonus aktivieren möchten."
+    ],
+    "skipIf": [
+      "an Ihrer Adresse bereits schnelles Glasfaser oder Kabel deutlich günstiger anliegt.",
+      "Sie fest damit rechnen, auf einem Mietkit-Tarif monatlich zwischen Geschwindigkeitsstufen zu springen."
+    ]
+  }
+}

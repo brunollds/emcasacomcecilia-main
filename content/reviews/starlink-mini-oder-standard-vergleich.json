@@ -1,0 +1,333 @@
+{
+  "id": 1424,
+  "slug": "starlink-mini-oder-standard-vergleich",
+  "translationKey": "starlink-mini-ou-padrao",
+  "locale": "de",
+  "title": "Starlink Mini (Mini X) oder Standard (V4): Router, WLAN-Reichweite, Stromverbrauch im Vergleich",
+  "seoTitle": "Starlink Mini oder Standard (V4): Vergleich",
+  "type": "Vergleich",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Redaktion und Analyse",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redaktion und Analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Starlink Mini (Mini X) vs. Standard (V4 + Router 3): integrierter oder separater Router, WLAN-Reichweite, Watt-Verbrauch, 0-€-Miete je Tarif und 45-€-Empfehlung.",
+  "metaDescription": "Starlink Mini oder Standard V4: WLAN-Reichweite, 25-40 W vs. 75-100 W Stromverbrauch, Mietmodell nach Tarif in Deutschland und 45 € Gutschrift.",
+  "publishedAt": "24. November 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-mini-oder-standard-vergleich-capa.webp",
+  "imageAlt": "Vergleichs-Cover mit schwarzem Panel samt STARLINK und dem Titel Starlink Mini oder Standard? neben dem offiziellen Foto der Starlink-Standard-Antenne mit Ständer und kompaktem Router.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Schnelle Antwort",
+      "paragraphs": [
+        "Starlink Mini (Mini X) passt am besten zu einfacher Montage, geringem Stromverbrauch an USV oder Akku und kleineren Wohnflächen. Das Standard-Kit (V4 + Router 3) punktet bei WLAN-6-Reichweite und zwei LAN-Anschlüssen im Haus. Beide Kits berechtigen über den Empfehlungslink zur offiziellen Rechnungsgutschrift auf starlink.com; unten sehen Sie, welcher Tarif welches Kit liefert."
+      ],
+      "links": [
+        {
+          "label": "Kit für meine Adresse mit 45 € Gutschrift nach 2 Zyklen prüfen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Welches Kit bei der Bestellung in Deutschland erscheint",
+      "paragraphs": [
+        "Auf der deutschen Bestellseite wählen Sie nicht die Antenne einzeln aus, sondern das Miet-Kit richtet sich nach dem gewählten Tarif.",
+        "In unserer Abfrage für Berlin laufen alle drei Wohnkunden-Tarife als Miete für 0 € im Monat (19 € Versand heute; Vertrag automatisch von Monat zu Monat auf unbestimmte Zeit, Kündigung gebührenfrei, gemietete Hardware muss bei Kündigung zurück). Wer 100 Mbit/s wählt (17,50 €/Monat in den ersten 3 Monaten, danach 35 €; Montage 172 € optional), bekommt das Mini X.",
+        "Beim Tarif mit 200 Mbit/s (27,50 €/Monat für 3 Monate, danach 55 €; Montage 172 € optional) sowie bei Max (37,50 €/Monat für 3 Monate, danach 75 €; Montage 0 €) wechselt die Miet-Hardware automatisch auf das größere Standard 4."
+      ],
+      "comparisonTable": {
+        "caption": "Öffentliche Bestellseiten vom 23.11.2026 für Berlin. Verfügbarkeit und Konditionen richten sich nach Ihrer Adresse.",
+        "headers": [
+          "Tarif (Berlin)",
+          "Enthaltenes Kit",
+          "Hardware-Modell und Laufzeit",
+          "Monatspreis (3 Monate / regulär)"
+        ],
+        "rows": [
+          [
+            "100 Mbit/s",
+            "Mini X (Montage 172 € optional)",
+            "0 € Miete, monatlich gebührenfrei kündbar (Rückgabe bei Ausstieg)",
+            "17,50 € / danach 35 €"
+          ],
+          [
+            "200 Mbit/s",
+            "Standard 4 (Montage 172 € optional)",
+            "0 € Miete, monatlich gebührenfrei kündbar (Rückgabe bei Ausstieg)",
+            "27,50 € / danach 55 €"
+          ],
+          [
+            "Max",
+            "Standard 4 (Montage 0 € inklusive)",
+            "0 € Miete, monatlich gebührenfrei kündbar (Rückgabe bei Ausstieg)",
+            "37,50 € / danach 75 €"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+        "alt": "Starlink-Bestellseite für Berlin mit 100 Mbit/s zu 17,50 € im Monat und dem Mini X zur Miete für 0 €",
+        "caption": "Bestellansicht für Berlin: Im Tarif 100 Mbit/s wird das Mini X als 0-€-Mietkit bereitgestellt.",
+        "objectFit": "contain",
+        "aspectRatio": 0.5909
+      }
+    },
+    {
+      "heading": "Offizielle technische Unterschiede: Mini vs. Standard V4 + Router 3",
+      "paragraphs": [
+        "Laut Herstellerseite liegt der architektonische Unterschied darin, ob der Router direkt in der Außenantenne sitzt oder über ein 15-m-Kabel getrennt im Haus steht.",
+        "Die Starlink Mini integriert Wi-Fi 5 direkt in die kompakte Schüssel und begnügt sich mit durchschnittlich 25 bis 40 W. Starlink Standard (V4) schickt das Signal per 15-m-Kabel an den separaten Router 3 mit Tri-Band-Wi-Fi 6 im Wohnraum und benötigt 75 bis 100 W. Als separates Zubehör erweitert zudem der Router Mini (83,6 × 138 × 27 mm, 112 g, nur Innenbereich) Netze um Dual-Band-Wi-Fi 6 (2×2 MU-MIMO) bis 204 m², 235 Geräte und zwei 1-Gbit/s-RJ45-Ports."
+      ],
+      "comparisonTable": {
+        "caption": "Offizielle Hardware-Spezifikationen von Starlink für Mini, Router Mini und Standard V4 mit Router 3.",
+        "headers": [
+          "Technisches Merkmal",
+          "Starlink Mini (Mini X)",
+          "Starlink Standard (V4 + Router 3)"
+        ],
+        "rows": [
+          [
+            "Abmessungen der Antenne",
+            "298,5 × 259 × 38,5 mm",
+            "594 × 383 × 39,7 mm"
+          ],
+          [
+            "Gewicht der Antenne",
+            "1,10 kg (1,16 kg mit Ständer; 1,53 kg mit Ständer und 15-m-DC-Kabel)",
+            "2,9 kg (3,2 kg mit Ständer; 3,8 kg mit Ständer und 15-m-Kabel)"
+          ],
+          [
+            "Durchschnittlicher Stromverbrauch",
+            "25 bis 40 W (12 bis 48 V 60 W; USB-C PD min. 100 W 20 V/5 A mit Originalkabel)",
+            "75 bis 100 W (Netzteil IP66 Typ 4 und 1,5-m-AC-Kabel inklusive)"
+          ],
+          [
+            "Router und WLAN-Standard",
+            "Integriertes Wi-Fi 5 (802.11ac Dual-Band 3×3 MU-MIMO); Router Mini optional (Wi-Fi 6)",
+            "Separater Router 3 (43,4 × 298,6 × 120,4 mm; 0,57 kg; Wi-Fi 6 Tri-Band 4×4 MU-MIMO)"
+          ],
+          [
+            "WLAN-Abdeckung und Geräte",
+            "Bis 112 m² und 128 Geräte (bis 204 m² und 235 mit Router Mini)",
+            "Bis 297 m² und 235 Geräte"
+          ],
+          [
+            "Ethernet-LAN-Anschlüsse",
+            "1 verriegelbarer LAN-Port mit Stecker (Ethernet-Kabel nicht enthalten)",
+            "2 verriegelbare LAN-Ports am Router 3 (15-m-Starlink-Kabel enthalten)"
+          ],
+          [
+            "Schutzart (IP)",
+            "IP67 Typ 4 an der Antenne (Schutz entfällt bei normalem RJ45-Kabel)",
+            "Antenne IP67 Typ 4; Netzteil IP66 Typ 4; Router 3 IP56 innen"
+          ],
+          [
+            "Bypass-Modus und Mesh",
+            "Bypass-Modus (Beenden nur per Werksreset) und Starlink-Mesh bis 3 Knoten; kein Drittanbieter-Mesh",
+            "Bypass-Modus und Starlink-Mesh bis 3 Knoten; kein Drittanbieter-Mesh"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Offizielle Spezifikationen auf starlink.com/specifications ansehen",
+          "href": "https://www.starlink.com/specifications"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Offizielle Starlink-Antenne mit separatem Innenraum-Router im Vergleich zur kompakten All-in-one-Antenne",
+        "caption": "Außenantenne in Verbindung mit einem separaten WLAN-Router im Haus. Offizielles Starlink-Foto.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "WLAN im großen Haus, USV-Laufzeit und LAN-Verkabelung",
+      "paragraphs": [
+        "Wenn die Antenne auf dem Dach hinter dicken Ziegel- oder Betonwänden sitzt, verteilt der getrennte Router im Wohnzimmer das Signal deutlich verlässlicher als die integrierte Antennen-Einheit.",
+        "Faustregel ohne eigenen Praxistest: Da das Wi-Fi 5 der Mini bis 112 m² direkt vom Außenmodul abstrahlt, dämpfen Dachziegel und Massivwände die Reichweite auf dem Weg in entfernte Räume. Beim Standard-Kit führt das 15-m-Kabel bis in den Wohnbereich, wo der Router 3 Tri-Band-Wi-Fi 6 für bis zu 297 m² und 235 Geräte bereitstellt. Wer bei der Mini mehr Innenraum-Abdeckung braucht, kombiniert sie mit einem Router Mini (bis 204 m²) oder bis zu 3 Starlink-Mesh-Knoten, da fremde Mesh-Systeme nicht unterstützt werden.",
+        "Bei Stromausfall über eine USV oder mobile Powerstation spielt die Mini ihre Stärke aus: 25 bis 40 W durchschnittlicher Bedarf liegen deutlich unter den 75 bis 100 W des Standard-Kits. Unsere Einordnung aus den Herstellerwerten: Die Mini verbraucht weniger Strom und hält am gleichen Akku tendenziell länger durch, und mit dem offiziellen USB-C-Kabel reicht eine Powerbank oder ein Netzteil mit mindestens 100 W PD (20 V/5 A) sowie 12 bis 48 V Gleichstrom.",
+        "Für LAN-Kabel oder einen eigenen Dual-WAN-Router zählen die Anschlüsse: Die Mini besitzt 1 verriegelbaren Ethernet-LAN-Port (Ethernet-Kabel separat erhältlich); ein normales RJ45-Kabel hebt die IP67-Wetterabdichtung auf. Der Router 3 des Standard-Kits bietet geschützt im Haus zwei verriegelbare LAN-Buchsen. Beide unterstützen den Bypass-Modus zur Kabelweitergabe an einen eigenen Router, wobei bei der Mini zum Beenden ein Zurücksetzen auf Werkseinstellungen nötig ist; zudem unterstützt sie offizielles Starlink-Mesh (kompatibel mit Router Mini, Router 3 und Router der 2. Generation bis zu 3 Knoten; kein Drittanbieter-Mesh)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Lieferumfang des Starlink-Standard-Kits mit Antenne, Router 3, Standfuß und Kabeln",
+        "caption": "Vollständiges Starlink-Standard-Kit mit separatem Router, Fuß und Kabelsatz. Offizielles Starlink-Foto.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Kosten mit 45 € Empfehlung nach 2 Zyklen und 30-Tage-Regel",
+      "paragraphs": [
+        "Sowohl beim 100-Mbit/s-Tarif mit Mini X als auch bei 200 Mbit/s und Max mit Standard 4 erhalten Sie über den Empfehlungslink auf starlink.com in Deutschland 45 € Gutschrift nach zwei bezahlten Abrechnungszyklen.",
+        "Dieser Betrag erscheint nach zwei bezahlten Abrechnungszyklen als Rechnungsgutschrift (oder per Stripe in bar, sofern verfügbar) und senkt niemals den Kit-Preis beim Bestellen. Wer ein Kit im Einzelhandel, auf einem Marktplatz oder über eine Kontoübertragung kauft, verzichtet vollständig auf die 45 € und kann den Bonus nachträglich nicht mehr einbuchen lassen.",
+        "Gleichzeitig bleibt das Risiko beim Testen der WLAN-Reichweite zu Hause überschaubar: Nach den Bestellbedingungen lösen die Kündigung des Dienstes und die unbeschädigte Rückgabe des Kits innerhalb von 30 Tagen die Erstattung gemäß Bestellseite aus. Alle Details stehen auf unserer [Starlink-Empfehlungsseite](/de/coupons/starlink) sowie im [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen)."
+      ],
+      "simulator": {
+        "title": "Simulator: Zahlung heute und Gutschrift nach 2 Zyklen",
+        "scenarios": [
+          {
+            "label": "100 Mbit/s mit Mini X über den Link",
+            "lines": [
+              {
+                "label": "Mietkit Mini X",
+                "value": "0 € (Rückgabe bei Kündigung)"
+              },
+              {
+                "label": "Monatspreis (Berlin, 3 Monate / danach)",
+                "value": "17,50 €/Monat, dann 35 €/Monat"
+              },
+              {
+                "label": "Empfehlungsgutschrift über den Link",
+                "value": "45 € auf der Rechnung nach 2 Zyklen",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Heute bei Bestellung fällig",
+            "totalValue": "19 € Versand; 45 € Gutschrift nach 2 Zyklen",
+            "note": "Werte der Bestellseite Berlin; der Bonus wird auf spätere Rechnungen angerechnet."
+          },
+          {
+            "label": "200 Mbit/s oder Max mit Standard 4 über den Link",
+            "lines": [
+              {
+                "label": "Mietkit Standard 4",
+                "value": "0 € (Rückgabe bei Kündigung)"
+              },
+              {
+                "label": "Monatspreis (200 Mbit/s / Max, 3 Mon.)",
+                "value": "27,50 € oder 37,50 €/Monat (danach 55 / 75 €)"
+              },
+              {
+                "label": "Empfehlungsgutschrift über den Link",
+                "value": "45 € auf der Rechnung nach 2 Zyklen",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Heute bei Bestellung fällig",
+            "totalValue": "19 € Versand; 45 € Gutschrift nach 2 Zyklen",
+            "note": "Vertrag von Monat zu Monat gebührenfrei kündbar; Montage bei Max inklusive (0 €)."
+          },
+          {
+            "label": "Kauf außerhalb von starlink.com (Handel)",
+            "lines": [
+              {
+                "label": "Einzelhandel oder Marktplatz",
+                "value": "Voller Kaufpreis, keine 0-€-Miete"
+              },
+              {
+                "label": "Tarifrabatt oder 0-€-Miete",
+                "value": "Außerhalb von starlink.com nicht verfügbar"
+              },
+              {
+                "label": "Offizielle Empfehlungsgutschrift",
+                "value": "0 € (ausgeschlossen)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Erhaltene Rechnungsgutschrift",
+            "totalValue": "0 €",
+            "note": "Käufe über Händler oder Marktplätze sind vom Empfehlungsprogramm ausgeschlossen."
+          }
+        ]
+      },
+      "links": [
+        {
+          "label": "Offizielle Bestellung mit 30-Tage-Test und 45 € nach 2 Zyklen öffnen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Checkliste vor der Auswahl des Kits",
+      "paragraphs": [
+        "Gehen Sie diese fünf Punkte durch, bevor Sie einen Tarif festlegen, damit Antenne und Router zu Ihrem Gebäude passen."
+      ],
+      "checklist": {
+        "title": "5 Punkte vor der Kit-Wahl",
+        "items": [
+          "Ich habe auf starlink.com geprüft, welches Mietkit zu meinem Tarif gehört (Mini X bei 100 Mbit/s, Standard 4 bei 200 Mbit/s und Max).",
+          "Ich habe die Wohnfläche geprüft: Über 112 m² oder bei dicken Wänden passt der Router 3 des Standard-Kits (bis 297 m²) besser.",
+          "Für USV, Powerstation oder Solar habe ich 25 bis 40 W (Mini) mit 75 bis 100 W (Standard) verglichen.",
+          "Für LAN-Kabel habe ich beachtet, dass die Mini 1 Port ohne mitgeliefertes Kabel hat (normales RJ45 hebt IP67 auf), Router 3 jedoch 2 Ports innen.",
+          "Ich habe die Bestellung vor der Zahlung über den offiziellen Empfehlungslink gestartet, um 45 € nach 2 Zyklen sowie 30 Tage Kündigungs- und Rückgaberecht zu sichern."
+        ]
+      }
+    },
+    {
+      "heading": "Fazit: Starlink Mini oder Standard?",
+      "paragraphs": [
+        "Für Notstrom an USV oder Akku, kompakte Montage auf Balkon oder Reisemobil oder den günstigeren Einstieg mit 100 Mbit/s ist Starlink Mini (Mini X) die vernünftigste Wahl. Mit 1,10 kg und 25 bis 40 W spart sie Strom und deckt kleinere Haushalte bis 112 m² unkompliziert ab.",
+        "Für größere Häuser mit dicken Wänden, viele gleichzeitige Endgeräte oder wenn Sie direkt Wi-Fi 6 Tri-Band bis 297 m² samt zwei LAN-Buchsen im Haus benötigen, liefert das Standard-Kit (Standard 4 mit Router 3) in den Tarifen 200 Mbit/s und Max das rundere Heimnetz. Reicht das WLAN wider Erwarten nicht, gelten 30 Tage zur Kündigung und unbeschädigten Rückgabe gemäß Bestellbedingungen."
+      ],
+      "emphasis": "Für USV-Backup und sparsame 25 bis 40 W gewinnt die Starlink Mini deutlich; für große Häuser mit starkem Tri-Band-Wi-Fi 6 und zwei LAN-Ports direkt aus der Box liegt das Standard-Kit mit Router 3 vorn."
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Ist Starlink Mini langsamer als das Standard-Kit? Die Geschwindigkeit hängt in erster Linie vom gewählten Tarif (100 Mbit/s, 200 Mbit/s oder Max) und der regionalen Auslastung ab. Der praktische Unterschied zwischen den Kits liegt bei der WLAN-Reichweite (112 m² Wi-Fi 5 vs. 297 m² Wi-Fi 6) und beim Stromverbrauch.",
+        "Reicht Starlink Mini in einem großen Haus ohne weiteren Router? Die integrierte Wi-Fi-5-Einheit deckt bis zu 112 m² ab und verliert durch Dach und Massivwände an Stärke. Für größere Häuser empfiehlt sich der zusätzliche Router Mini (bis 204 m²) oder Starlink-Mesh.",
+        "Welches Kit braucht weniger Strom an einer USV bei Stromausfall? Starlink Mini benötigt im Schnitt 25 bis 40 W (und läuft per offiziellem Kabel auch an 100 W USB-C PD 20 V/5 A), während Standard 75 bis 100 W zieht. Dadurch verbraucht die Mini weniger Strom und hält am gleichen Akku tendenziell länger durch.",
+        "Kann man bei beiden ein LAN-Kabel anschließen und den Bypass-Modus nutzen? Ja. Die Mini hat 1 verriegelbaren Ethernet-LAN-Port (Ethernet-Kabel separat erhältlich; ein normales RJ45-Kabel hebt IP67 auf) und der Router 3 hat 2 Ports. Beide unterstützen den Bypass-Modus zur Kabelweitergabe an einen eigenen Router (bei der Mini ist zum Beenden ein Werksreset nötig) sowie offizielles Starlink-Mesh (kompatibel mit Router Mini, Router 3 und Router der 2. Generation bis zu 3 Knoten; kein Drittanbieter-Mesh).",
+        "Gilt der 45-€-Empfehlungslink für Mini und Standard? Ja. Sowohl Bestellungen mit Mini X (100 Mbit/s) als auch mit Standard 4 (200 Mbit/s und Max) direkt auf starlink.com über den Empfehlungslink erhalten nach zwei bezahlten Zyklen 45 € Gutschrift auf der Rechnung."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "Sie geringen Stromverbrauch an USV oder Akku, kompakte Abmessungen oder den günstigen Einstieg mit 100 Mbit/s suchen.",
+      "Ihre Wohnfläche bis 112 m² reicht oder Sie ohnehin einen zusätzlichen Innenraum-Router oder ein Netzwerkkabel einbinden."
+    ],
+    "skipIf": [
+      "Sie ein großes Haus mit vielen Wänden direkt ab Werk mit Tri-Band-Wi-Fi 6 bis 297 m² versorgen wollen.",
+      "Sie von Anfang an zwei geschützte Ethernet-Ports am mitgelieferten Router im Wohnraum benötigen."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Erstellt von Bruno Luiz anhand öffentlicher Starlink-Spezifikationen, Hilfeseiten und Bestellseiten. Bei Bestellung über den Empfehlungslink erhalten wir ggf. eine Prämie.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-vertrag-kuendigen"
+    },
+    {
+      "slug": "lohnt-sich-starlink"
+    },
+    {
+      "slug": "starlink-offizielle-seite-oder-haendler"
+    },
+    {
+      "slug": "starlink-tarife-100-200-mbits-oder-max"
+    }
+  ],
+  "cta": {
+    "text": "Die Bestellung öffnet sich über den offiziellen Empfehlungslink auf starlink.com, zeigt das passende Kit für Ihre Adresse und wahrt die 30 Tage zur Kündigung und unbeschädigten Rückgabe. Die 45 € Gutschrift folgen nach zwei bezahlten Zyklen.",
+    "label": "Passendes Kit mit 45 € Gutschrift nach 2 Zyklen prüfen",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "id": 1412,
+  "slug": "acheter-starlink-site-officiel-ou-revendeurs",
+  "translationKey": "starlink-onde-comprar",
+  "locale": "fr",
+  "title": "Acheter Starlink sur le site officiel ou chez FNAC Darty, Boulanger, E.Leclerc et Amazon ?",
+  "seoTitle": "Starlink : site officiel ou FNAC, Boulanger et E.Leclerc",
+  "type": "Guide d'achat",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Édition et analyse",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Édition et analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Comparez starlink.com avec parrainage face à FNAC Darty, Boulanger, E.Leclerc, Carrefour et Amazon : crédit de 45 €, location à 0 € et liste officielle des revendeurs.",
+  "metaDescription": "Starlink sur starlink.com ou chez FNAC, Boulanger, E.Leclerc et Amazon ? Comparez les 45 € de crédit, la location à 0 € et les revendeurs agréés.",
+  "publishedAt": "24 novembre 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/acheter-starlink-site-officiel-ou-revendeurs-capa.webp",
+  "imageAlt": "Antenne et composants du kit Starlink sur fond sombre présentant le comparatif entre le site officiel et les revendeurs.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Pour la majorité des nouveaux abonnés en France, commander sur starlink.com via le lien de parrainage reste plus avantageux que passer chez FNAC Darty, Boulanger, E.Leclerc, Carrefour ou Amazon. Seul le site officiel débloque le crédit de parrainage après deux cycles payés, offre la location gratuite du kit et centralise le retour sous 30 jours."
+      ],
+      "links": [
+        {
+          "label": "Vérifier mon adresse avec 45 € sur facture après 2 cycles",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Site officiel ou magasin : ce qui change vraiment",
+      "paragraphs": [
+        "Passer chez FNAC Darty, Boulanger, E.Leclerc, Leroy Merlin, LDLC, Carrefour ou Costco semble plus direct, mais les conditions commerciales diffèrent nettement de starlink.com. Lors de notre vérification à Paris, la commande officielle proposait la location du matériel à 0 € et 0 €/mois sur les trois forfaits résidentiels : 100 Mbit/s à 24,50 €/mois (plein tarif 35 €) avec le kit Mini X, 200 Mbit/s à 31,50 €/mois (45 €) et Max à 45,50 €/mois (65 €) avec le Standard 4, pour 19 € d'expédition aujourd'hui.",
+        "En magasin, vous achetez uniquement le matériel plein tarif sans accéder à la location à 0 € ni à l'installation professionnelle offerte à 0 € sur le forfait Max (contre 172 € en option sur 100 et 200 Mbit/s). Autre point clé : Amazon France ne figure pas sur la liste officielle des revendeurs agréés en France.",
+        "Précision importante : les 45 € de parrainage ne réduisent jamais le prix du kit au moment du paiement. Vous réglez le montant standard affiché sur starlink.com aujourd'hui et, après deux cycles mensuels complets actifs et payés à temps, les 45 € sont crédités sur votre facture (ou versés par virement (via Stripe) lorsque le compte le propose)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+        "alt": "Page de commande officielle starlink.com pour Paris avec le forfait Résidentiel 100 Mbit/s à 24,50 €/mois et le matériel loué à 0 €",
+        "caption": "Écran de commande à Paris sur starlink.com : la location à 0 € et les tarifs par adresse n'existent que sur le site officiel.",
+        "objectFit": "contain",
+        "aspectRatio": 0.5909
+      },
+      "comparisonTable": {
+        "caption": "Comparatif structurel établi d'après les pages publiques et le centre d'aide starlink.com consultés le 24 novembre 2026, sans prix de tiers.",
+        "headers": [
+          "Critère",
+          "starlink.com via lien de parrainage",
+          "Revendeur agréé",
+          "Vendeur tiers / non agréé"
+        ],
+        "rows": [
+          [
+            "Crédit de parrainage après 2 cycles payés",
+            "Oui : 45 € en France sur la facture",
+            "Non (achats hors site exclus)",
+            "Non"
+          ],
+          [
+            "Location du matériel à 0 €",
+            "Oui, sur les adresses françaises éligibles",
+            "Non : achat du kit seul en magasin",
+            "Non"
+          ],
+          [
+            "Installation professionnelle offerte sur Max",
+            "Affichée directement à 0 € dans la commande",
+            "Non incluse dans la boîte en rayon",
+            "Non"
+          ],
+          [
+            "Délai de retour de 30 jours",
+            "Un seul dossier Starlink (matériel + 1er mois)",
+            "Kit retourné au magasin ; abonnement résilié à part",
+            "Délais courts ou litiges vendeur"
+          ],
+          [
+            "Risque de kit bloqué ou non autorisé",
+            "Nul (attribué neuf à votre commande)",
+            "Faible si acheté neuf et scellé",
+            "Élevé : matériel non agréé risquant la suspension"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "Comparez ce que vous payez le jour J et ce qui revient",
+        "scenarios": [
+          {
+            "label": "starlink.com 100 Mbit/s + lien",
+            "lines": [
+              {
+                "label": "Location du kit Mini X (Paris)",
+                "value": "0 € aujourd'hui (à rendre en cas de résiliation)"
+              },
+              {
+                "label": "Expédition et forfait (plein tarif 35 €/mois)",
+                "value": "19 € aujourd'hui ; 24,50 €/mois"
+              },
+              {
+                "label": "Crédit parrainage après 2 cycles payés",
+                "value": "-45 € sur la facture",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Ce que vous réglez à la commande",
+            "totalValue": "19 € aujourd'hui ; après 2 cycles payés, 45 € reviennent en crédit sur facture",
+            "note": "Le bonus arrive sur la facture après deux mois complets payés ; il ne baisse pas l'envoi du jour J."
+          },
+          {
+            "label": "starlink.com 200 Mbit/s + lien",
+            "lines": [
+              {
+                "label": "Location du kit Standard 4 (Paris)",
+                "value": "0 € aujourd'hui (à rendre en cas de résiliation)"
+              },
+              {
+                "label": "Expédition et forfait (plein tarif 45 €/mois)",
+                "value": "19 € aujourd'hui ; 31,50 €/mois"
+              },
+              {
+                "label": "Crédit parrainage après 2 cycles payés",
+                "value": "-45 € sur la facture",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Ce que vous réglez à la commande",
+            "totalValue": "19 € aujourd'hui ; après 2 cycles payés, 45 € reviennent en crédit sur facture",
+            "note": "Sans engagement de durée fixe ; le matériel loué doit être renvoyé sous 30 jours après résiliation."
+          },
+          {
+            "label": "Revendeur agréé ou marketplace",
+            "lines": [
+              {
+                "label": "Matériel hors starlink.com",
+                "value": "Achat plein tarif en boutique"
+              },
+              {
+                "label": "Location à 0 € du site",
+                "value": "Indisponible en magasin"
+              },
+              {
+                "label": "Crédit de parrainage à l'activation",
+                "value": "0 € (impossible à ajouter après)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Bilan hors site officiel",
+            "totalValue": "Prix plein du kit en magasin + 0 € de crédit de parrainage",
+            "note": "Le retour du matériel suit la politique du magasin tandis que la résiliation passe par Starlink."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Pourquoi le parrainage ne s'applique pas après un achat en magasin",
+      "paragraphs": [
+        "Lorsque vous achetez un kit en magasin physique et que vous lancez l'installation via starlink.com/activate ou l'application Starlink, le terminal accorde 1 heure d'accès internet initial pour finaliser l'inscription. Passé ce délai d'une heure, il faut utiliser une autre connexion pour terminer l'activation.",
+        "Cet écran d'activation ne comporte aucun champ pour saisir un code ou lien de parrainage. Le règlement officiel précise que les récompenses sont réservées aux nouveaux clients qui démarrent leur commande directement sur starlink.com via un lien de parrainage, payent le premier mois et activent le kit. Les achats chez un revendeur, sur une place de marché ou par transfert de compte sont exclus et ne peuvent jamais être rattachés après coup.",
+        "La règle des 30 jours change aussi. Sur starlink.com, résilier le service et renvoyer le matériel intact dans les 30 jours rembourse l'équipement et la première mensualité selon les conditions de la commande (et tout matériel loué à 0 € doit impérativement être retourné dans les 30 jours suivant la résiliation sous peine de facturation intégrale). En magasin, vous retournez le kit au vendeur selon ses conditions et résiliez l'abonnement séparément auprès de Starlink. Consultez notre [page parrainage Starlink](/fr/coupons/starlink) et notre [guide complet du lien de parrainage](/fr/reviews/starlink-lien-parrainage)."
+      ]
+    },
+    {
+      "heading": "Kits d'occasion, blocage de transfert et vendeurs non agréés",
+      "paragraphs": [
+        "Acheter un kit d'occasion ou auprès d'un vendeur tiers comporte des blocages stricts. Starlink indique que le service ne peut jamais être activé sur un équipement encore rattaché à un autre compte.",
+        "Selon la procédure officielle de transfert, un kit commandé en ligne ne peut être transféré qu'après 120 jours suivant l'achat ou 90 jours suivant l'activation (au premier des deux termes). Un kit activé après achat en magasin reste bloqué 90 jours à compter de l'activation, en gardant le service actif jusque-là. Le transfert est aussi impossible s'il reste un solde impayé, pendant la fenêtre de retour de 30 jours ou sur une ligne en location.",
+        "Si un vendeur expédie une antenne qu'il n'a pas détachée de son compte, elle reste inutilisable tant que l'ancien propriétaire ne résilie pas et ne clique pas sur transférer (ou que le support n'intervient pas avec l'identifiant Starlink). Pire : Starlink avertit que le matériel issu de boutiques non autorisées ne peut pas être activé, enfreint ses conditions et peut entraîner une suspension immédiate du service."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Éléments d'un kit Starlink Standard sur fond sombre : antenne, pied, routeur et câbles",
+        "caption": "Composants d'un kit Starlink Standard. Un matériel d'occasion non libéré ou non agréé reste bloqué. Photo : Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Liste officielle des revendeurs en France et vigilance sur Amazon",
+      "paragraphs": [
+        "Si vous devez retirer un kit le jour même avant un déplacement ou utiliser un bon d'achat en enseigne, vérifiez toujours la [liste officielle des revendeurs agréés Starlink](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105). La page demande expressément d'acheter uniquement via la boutique Starlink officielle chez le distributeur.",
+        "En France, la liste officielle mentionne huit enseignes : FNAC Darty, Boulanger, E.Leclerc, Leroy Merlin, LDLC, Materiel.net, Carrefour et Costco. Point crucial à vérifier avant de commander en ligne : **Amazon n'apparaît pas sur la liste officielle des revendeurs en France**.",
+        "Méfiez-vous donc des vendeurs tiers sur les places de marché généralistes, car un équipement vendu hors réseau officiel risque le refus d'activation. Pour reconnaître les canaux légitimes, consultez aussi notre dossier [Starlink est-il fiable et comment vérifier qui vend](/fr/reviews/starlink-est-il-fiable)."
+      ],
+      "checklist": {
+        "title": "Cinq points à vérifier avant de payer votre kit",
+        "items": [
+          "J'ai saisi mon adresse sur starlink.com via le lien de parrainage pour comparer la location à 0 € avant d'aller en magasin.",
+          "J'ai vérifié que la mention du parrainage appliqué s'affiche sur l'écran récapitulatif avant le paiement.",
+          "Si j'achète en magasin, j'ai choisi l'une des enseignes françaises officielles (FNAC Darty, Boulanger, E.Leclerc, Leroy Merlin, LDLC, Carrefour ou Costco).",
+          "J'ai écarté toute annonce Amazon tierce ou tout kit d'occasion sans preuve de libération après le délai de 90 ou 120 jours.",
+          "J'ai conservé une capture du tarif mensuel et des conditions de retour sous 30 jours."
+        ]
+      },
+      "links": [
+        {
+          "label": "Ouvrir la commande officielle avec 45 € après 2 cycles",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Écran de commande starlink.com montrant le badge vert Referral Code Applied confirmant le crédit",
+        "caption": "Badge vert confirmant le parrainage appliqué sur starlink.com (aperçu de référence) ; absent hors du site officiel.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8747
+      }
+    },
+    {
+      "heading": "Verdict : où acheter selon votre situation",
+      "paragraphs": [
+        "Pour un nouvel abonné en France, commander directement sur starlink.com via le lien de parrainage reste nettement supérieur : vous obtenez 45 € de crédit sur facture après deux cycles payés, l'accès à la location à 0 € sur les trois forfaits résidentiels et un seul interlocuteur Starlink pendant 30 jours.",
+        "Passer par FNAC Darty, Boulanger, E.Leclerc, Leroy Merlin, LDLC, Carrefour ou Costco ne se justifie que si vous voulez repartir avec la boîte le jour même, utiliser un chèque-cadeau ou acheter le matériel en pleine propriété plutôt qu'en location — en acceptant de renoncer aux 45 € de parrainage."
+      ],
+      "emphasis": "Commander sur starlink.com avec un lien de parrainage combine la location à 0 € en France, les 45 € de crédit après deux cycles payés et un retour simplifié sous 30 jours ; hors site, limitez-vous aux enseignes françaises officiellement listées sachant qu'Amazon France n'y figure pas."
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Le parrainage Starlink fonctionne-t-il chez FNAC Darty, Boulanger ou E.Leclerc ? Non. Le crédit de 45 € exige impérativement une nouvelle commande passée sur starlink.com via un lien de parrainage ; les achats chez les revendeurs sont exclus et ne peuvent pas être ajoutés à l'activation.",
+        "Amazon France est-il un revendeur officiel Starlink ? Non. Sur la liste officielle publiée par Starlink pour la France figurent FNAC Darty, Boulanger, E.Leclerc, Leroy Merlin, LDLC, Materiel.net, Carrefour et Costco, mais pas Amazon.",
+        "Les 45 € de parrainage réduisent-ils le prix du kit au paiement ? Non. Vous payez le montant affiché sur starlink.com le jour de la commande, et les 45 € arrivent en crédit sur facture après deux cycles mensuels complets payés à temps.",
+        "Comment fonctionne le retour sous 30 jours en magasin par rapport à starlink.com ? Sur starlink.com, résilier et renvoyer le kit intact sous 30 jours déclenche le remboursement selon les conditions de commande. Chez un revendeur, vous retournez le kit au magasin selon ses règles et résiliez le service séparément chez Starlink.",
+        "Puis-je activer une antenne Starlink achetée d'occasion ? Seulement si le vendeur a réglé tout solde dû, dépassé le blocage de 90 jours après activation en boutique (ou 120 jours après achat en ligne) et retiré l'appareil de son compte Starlink."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Rédigé à partir du centre d'aide officiel Starlink, de la liste publique des revendeurs agréés et des pages de commande consultées en ligne. Nous participons au programme de parrainage Starlink et pouvons recevoir la même récompense si vous souscrivez pour la première fois via notre lien et réglez deux cycles complets.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-lien-parrainage"
+    },
+    {
+      "slug": "starlink-est-il-fiable"
+    },
+    {
+      "slug": "starlink-mini-ou-standard-quel-kit-choisir"
+    },
+    {
+      "slug": "forfaits-starlink-100-200-mbps-ou-max"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "vous êtes nouveau client et voulez bénéficier de la location gratuite du matériel et du crédit de parrainage après deux cycles payés sur starlink.com.",
+      "vous souhaitez gérer commande, garantie de retour sous 30 jours et abonnement auprès d'un seul support Starlink."
+    ],
+    "skipIf": [
+      "vous devez repartir avec le kit le jour même dans une enseigne agréée française et acceptez de perdre le crédit de parrainage.",
+      "le vendeur n'apparaît pas sur la liste officielle (comme un tiers sur Amazon France) ou propose un kit d'occasion non libéré."
+    ]
+  },
+  "cta": {
+    "text": "Vérifiez la location à 0 € et les tarifs à votre adresse sur starlink.com via notre lien de parrainage, avec essai de 30 jours et 45 € de crédit après deux cycles payés.",
+    "label": "Voir mon adresse avec 45 € de crédit après 2 cycles",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}

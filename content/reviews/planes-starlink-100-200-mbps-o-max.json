@@ -1,0 +1,312 @@
+{
+  "id": 1433,
+  "slug": "planes-starlink-100-200-mbps-o-max",
+  "translationKey": "starlink-planos-residenciais",
+  "locale": "es",
+  "hideFromPortugueseListings": true,
+  "title": "Planes Starlink 100 Mbps, 200 Mbps o Max: precios, antena, permanencia y cuál elegir",
+  "seoTitle": "Planes Starlink 100 Mbps, 200 Mbps o Max: cuál elegir",
+  "type": "Guía de elección",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Edición y análisis",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edición y análisis",
+      "initials": "BL"
+    }
+  ],
+  "description": "Compara los planes Starlink Residencial 100 Mbps, 200 Mbps y Max en España y México: precios, kit Mini o Standard 4, permanencia y reglas de cambio.",
+  "metaDescription": "Starlink 100 Mbps, 200 Mbps o Max: precios en España y México, diferencias de antena, contrato de 12 meses, velocidades y cambio de plan.",
+  "publishedAt": "24 de noviembre de 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "image": "/images/reviews/starlink/planes-starlink-100-200-mbps-o-max-capa.webp",
+  "imageAlt": "Portada comparativa con panel negro que muestra STARLINK y el título ¿100, 200 Mbps o Max? junto a una antena Starlink instalada en un tejado de madera bajo el cielo azul.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "Starlink divide el servicio doméstico entre 100 Mbps, 200 Mbps y Max, pero la disponibilidad cambia mucho entre países e incluso entre códigos postales. Además del límite de velocidad, el nivel elegido define el modelo de antena, la permanencia y la instalación gratuita. Consulta tu dirección desde el enlace oficial para confirmar condiciones y sumar crédito en factura después."
+      ],
+      "links": [
+        {
+          "label": "Ver planes disponibles con 45 € (ES) o bono en factura tras 2 ciclos",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Precios en España y México y cómo entra el bono de referido",
+      "paragraphs": [
+        "La oferta residencial de starlink.com cambia por completo entre países: España muestra la escalera completa de tres planes mientras México restringe la oferta residencial probada a un único escalón. En Madrid, Residencial 100 Mbps cuesta 24,50 €/mes en oferta (35 €/mes tarifa normal) con kit Mini X en alquiler por 0 €; Residencial 200 Mbps sube a 31,50 €/mes (45 €/mes normal) con Standard 4 en alquiler por 0 €; y Residencial Max pasa a 45,50 €/mes (65 €/mes normal) con Standard 4 a 0 € e instalación profesional de 172 € incluida, además de 19 € de envío.",
+        "En Ciudad de México, el configurador mostró únicamente Residencial Max por $1,485 MXN al mes más $55 MXN de cargo regulatorio (envío de $475 MXN), dando a elegir entre comprar el Kit Mini por $2,303 MXN sin botón de plazo de 12 meses o el kit Standard 4 X por $5,743 MXN sujeto a plazo de 12 meses. Al iniciar un alta nueva mediante el enlace oficial de referido, el crédito de factura es de 45 € en España o MX$ 700 en México como referencia de noviembre; en el caso de México, confirma el importe en tu pedido antes de pagar. En todos los países, el bono se abona en factura tras dos ciclos mensuales completos pagados, sin rebajar el precio del kit en el momento de la compra."
+      ],
+      "comparisonTable": {
+        "caption": "Importes leídos en direcciones de prueba dentro del flujo oficial de pedido el 23/11/2026. El crédito de referido entra en factura tras dos ciclos completos pagados y nunca rebaja el hardware al pagar.",
+        "headers": [
+          "Mercado y plan",
+          "Mensualidad promo (normal)",
+          "Equipo y condición",
+          "Instalación y crédito en factura"
+        ],
+        "rows": [
+          [
+            "España (Madrid): Residencial 100 Mbps",
+            "24,50 € (de 35 €)",
+            "Mini X en alquiler por 0 €",
+            "Instalación 172 € opcional; 45 € en factura"
+          ],
+          [
+            "España (Madrid): Residencial 200 Mbps",
+            "31,50 € (de 45 €)",
+            "Standard 4 en alquiler por 0 €",
+            "Instalación 172 € opcional; 45 € en factura"
+          ],
+          [
+            "España (Madrid): Residencial Máx.",
+            "45,50 € (de 65 €)",
+            "Standard 4 en alquiler por 0 €",
+            "Instalación 172 € gratis; 45 € en factura"
+          ],
+          [
+            "México (CDMX): Residencial Max + Mini",
+            "$1,485 MXN + $55 MXN reg.",
+            "Kit Mini $2,303 MXN (sin botón 12 meses)",
+            "MX$ 700 ref. noviembre (confirma en tu pantalla antes de pagar)"
+          ],
+          [
+            "México (CDMX): Residencial Max + Standard 4 X",
+            "$1,485 MXN + $55 MXN reg.",
+            "Standard 4 X $5,743 MXN (plazo 12 meses)",
+            "MX$ 700 ref. noviembre (confirma en tu pantalla antes de pagar)"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "Simulador de pago inicial y crédito futuro en factura (España vs México)",
+        "scenarios": [
+          {
+            "label": "España 200 Mbps con enlace de referido",
+            "lines": [
+              {
+                "label": "Kit Standard 4 en alquiler + envío",
+                "value": "0,00 € + 19,00 €"
+              },
+              {
+                "label": "Primera mensualidad promocional",
+                "value": "31,50 €/mes (al activar o 7 días tras entrega)"
+              },
+              {
+                "label": "Crédito en factura tras 2 ciclos pagados",
+                "value": "45,00 € en cuenta",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Pago hoy en el pedido (solo envío)",
+            "totalValue": "19 €",
+            "note": "Hoy pagas solo los 19 € de envío; la primera mensualidad se cobra al activar o 7 días tras la entrega y los 45 € entran tras dos ciclos pagados."
+          },
+          {
+            "label": "México Max (Kit Mini) con enlace de referido",
+            "lines": [
+              {
+                "label": "Kit Mini + envío (sin botón 12 meses)",
+                "value": "$2,303 + $475 MXN"
+              },
+              {
+                "label": "Mensualidad Max + cargo regulatorio",
+                "value": "$1,485 + $55 MXN/mes (al activar o 7 días tras entrega)"
+              },
+              {
+                "label": "Crédito ref. de noviembre tras 2 ciclos",
+                "value": "MX$ 700 ref. noviembre (confirma en tu pantalla antes de pagar)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Pago hoy en el pedido (kit + envío)",
+            "totalValue": "$2,778 MXN",
+            "note": "Hoy pagas solo el Kit Mini más $475 MXN de envío; la mensualidad inicia al activar o 7 días tras la entrega. Referencia de noviembre: confirma el importe en tu pantalla antes de pagar."
+          },
+          {
+            "label": "España 200 Mbps sin enlace de referido",
+            "lines": [
+              {
+                "label": "Kit Standard 4 en alquiler + envío",
+                "value": "0,00 € + 19,00 €"
+              },
+              {
+                "label": "Primera mensualidad promocional",
+                "value": "31,50 €/mes (al activar o 7 días tras entrega)"
+              },
+              {
+                "label": "Crédito en factura por referido",
+                "value": "0,00 € (sin enlace oficial)"
+              }
+            ],
+            "totalLabel": "Pago hoy en el pedido (solo envío)",
+            "totalValue": "19 €",
+            "note": "Pagas exactamente los mismos 19 € hoy (y la cuota al activar o 7 días tras la entrega), pero pierdes los 45 € futuros en factura al no entrar por el enlace."
+          }
+        ]
+      },
+      "postParagraphs": [
+        "Ten muy presente en ambos países que el crédito de referido nunca rebaja el precio del kit en la pantalla de pago, y que el primer día solo pagas el hardware (si es compra) más el envío: la primera mensualidad recurrente se cobra al activar o 7 días tras la entrega, lo que ocurra primero, mientras el bono llega tras dos ciclos completos pagados."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+        "alt": "Pantalla de pedido de Starlink en Madrid mostrando las tarifas de 100 Mbps, 200 Mbps y Máx. junto al equipo en alquiler",
+        "caption": "Configurador residencial en España: 100 Mbps asigna Mini X, mientras 200 Mbps y Máx. cambian al kit Standard 4 en alquiler.",
+        "objectFit": "contain",
+        "aspectRatio": 0.622
+      }
+    },
+    {
+      "heading": "Qué cambia aparte de los Mbps: antena, permanencia de 12 meses e instalación",
+      "paragraphs": [
+        "Mirar solo el techo de megabits esconde tres condiciones clave del checkout. En España, el salto de 100 Mbps a 200 Mbps sustituye el equipo en alquiler de Mini X por Standard 4 manteniendo el coste inicial del hardware en 0 €, mientras el paso final a Máx. añade la instalación profesional gratuita valorada en 172 €. Como el hardware en España sale en régimen de alquiler, debes devolverlo si das de baja el servicio.",
+        "En México ocurre el fenómeno opuesto: como la dirección probada solo ofrecía Residencial Max, la diferencia crítica estaba en la elección de antena dentro del mismo plan. Seleccionar Kit Mini marcaba $2,303 MXN sin botón de permanencia de 12 meses, mientras elegir Standard 4 X por $5,743 MXN activaba la cláusula de Plazo de 12 meses con cargo proporcional de hasta $4,600 MXN por cancelación o incumplimiento anticipado.",
+        "Por eso conviene revisar siempre la columna de resumen antes de confirmar el pago y leer cada línea de equipo y permanencia en el configurador. Para profundizar en penalizaciones por salida anticipada y plazos según país, consulta nuestra [guía de permanencia y cancelación de Starlink](/es/reviews/starlink-permanencia-cancelar)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antena y router Wi-Fi oficiales incluidos en los kits residenciales de Starlink",
+        "caption": "El plan o la opción de compra determinan si recibes kit Mini o Standard 4, con o sin compromiso de doce meses.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Velocidades oficiales, latencia y perfil doméstico recomendado",
+      "paragraphs": [
+        "La documentación vigente de especificaciones de banda larga de Starlink (DOC-1470-99699-90) y el artículo oficial de planes residenciales del Centro de Ayuda (886607c4) establecen datos ilimitados, latencia típica inferior a 50 ms y disponibilidad típica de al menos el 99% en los tres escalones. En descarga típica, 100 Mbps se mueve entre 80 y 100 Mbps (limitado a 100 Mbps); 200 Mbps entre 80 y 200 Mbps (limitado a 200 Mbps); y Max entre 80 y 400 Mbps, pudiendo alcanzar más de 400 Mbps.",
+        "En subida, las hojas técnicas recogen entre 15 y 35 Mbps típicos de forma general, con el Centro de Ayuda elevando la horquilla a 20 a 40 Mbps en Max. Es útil saber que el documento anterior DOC-1414-37800-64 mostraba únicamente el antiguo perfil Standard Fixed de 25 a 100 Mbps, ya superado allí donde Starlink ofrece la nueva escalera comercial.",
+        "Como regla práctica general de uso en casa, sin constituir medición en tu domicilio concreto: 100 Mbps cubre sin apuros videollamadas, teletrabajo y vídeo en 4K en hogares pequeños; 200 Mbps aporta margen para varias personas descargando archivos pesados o jugando a la vez y, en España, da acceso a la antena Standard 4; y Max cobra sentido en viviendas muy demandantes o cuando necesitas aprovechar la instalación gratuita de 172 €."
+      ],
+      "comparisonTable": {
+        "caption": "Rangos oficiales de DOC-1470-99699-90 y del artículo 886607c4 del Centro de Ayuda. El documento heredado DOC-1414-37800-64 listaba solo Standard Fixed de 25 a 100 Mbps.",
+        "headers": [
+          "Plan residencial",
+          "Descarga típica oficial",
+          "Subida típica oficial",
+          "Latencia y datos"
+        ],
+        "rows": [
+          [
+            "Residencial 100 Mbps",
+            "80 a 100 Mbps (tope 100 Mbps)",
+            "15 a 35 Mbps",
+            "Menor de 50 ms; datos ilimitados"
+          ],
+          [
+            "Residencial 200 Mbps",
+            "80 a 200 Mbps (tope 200 Mbps)",
+            "15 a 35 Mbps",
+            "Menor de 50 ms; datos ilimitados"
+          ],
+          [
+            "Residencial Max",
+            "80 a 400 Mbps (hasta 400+ Mbps)",
+            "15 a 35 Mbps (20 a 40 Mbps en ayuda)",
+            "Menor de 50 ms; datos ilimitados"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "Antena Starlink instalada sobre un tejado residencial orientada hacia cielo despejado",
+        "caption": "Contar con cielo despejado en el tejado es decisivo para sostener la velocidad anunciada y mantener la latencia bajo 50 ms.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "Reglas para cambiar de plan y ventana de devolución de 30 días",
+      "paragraphs": [
+        "Todos los cortes de ciclo en Starlink se ejecutan a las 00:00 UTC (01:00 en horario peninsular español de invierno o 18:00 en Ciudad de México). Al solicitar un cambio cuando la cuenta lo admite, la opción AHORA aplica subidas al instante con cobro prorrateado, mientras una bajada inmediata recorta el tope al momento sin reembolso por los días restantes del mes ya pagado; la opción FECHA programa el ajuste para el siguiente ciclo.",
+        "Sin embargo, existen dos límites importantes: los planes residenciales con equipo en alquiler no permiten cambiar de tarifa desde el autogestor de la cuenta, y modificar el plan en promociones o contratos de 12 meses puede anular descuentos mensuales o activar cargos contractuales. Además, dispones de 30 días desde la fecha de vencimiento del pago para cancelar el servicio y devolver el kit sin daños con reembolso del equipo y del primer mes según las condiciones del pedido; revisa también nuestra [página de cupones y referidos de Starlink](/es/coupons/starlink)."
+      ],
+      "checklist": {
+        "title": "Lista rápida antes de pagar tu pedido",
+        "items": [
+          "Verifica en el resumen si tu dirección muestra 100 Mbps, 200 Mbps o únicamente Max.",
+          "Comprueba si el equipo incluido es Mini X o Standard 4 y si va en compra o alquiler.",
+          "En México, revisa si aparece el botón de Plazo de 12 meses y el importe exacto del bono.",
+          "Confirma en España si el salto al plan Máx. te compensa por la instalación gratis de 172 €.",
+          "Asegúrate de ver el aviso de referido aplicado en starlink.com antes de confirmar el pago."
+        ]
+      },
+      "links": [
+        {
+          "label": "Comprobar plan, antena y 45 € (ES) o bono tras 2 ciclos",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Veredicto: qué plan Starlink elegir",
+      "paragraphs": [
+        "En España, el plan de 200 Mbps suele ser la elección más equilibrada por 31,50 €/mes en promoción: accedes a la antena Standard 4 en alquiler y doblas el margen frente al escalón básico por solo 7 € más al mes. Reserva el plan de 100 Mbps para viviendas de uso moderado que buscan la cuota mínima, y sube a Máx. solo si necesitas máxima velocidad o vas a contratar la instalación profesional de 172 € incluida.",
+        "En México, donde el configurador probado mostró únicamente Max, la decisión real recae en la antena: opta por el Kit Mini si quieres evitar el compromiso de 12 meses y reducir la inversión inicial, o elige Standard 4 X solo si vas a permanecer un año entero en el mismo domicilio."
+      ],
+      "emphasis": "Antes de pagar en starlink.com, revisa tres datos del resumen final: si el equipo va en alquiler o compra, si figura compromiso de doce meses y si aparece el aviso de referido aplicado."
+    },
+    {
+      "heading": "Preguntas frecuentes",
+      "bullets": [
+        "¿Si contrato en España con equipo en alquiler puedo cambiar de plan luego desde la app? No mediante autogestión: en ofertas residenciales con kit en alquiler, Starlink deshabilita el cambio de plan directo en la cuenta.",
+        "¿Cuánto da el enlace de referido en España y en México? En España el crédito es de 45 € tras dos ciclos mensuales completos pagados; en México el importe vigente aparece en tu pantalla de pedido antes de pagar (consulta la tabla comparativa anterior para referencia).",
+        "¿El bono de referido descuenta dinero del precio del kit el primer día? No. El crédito se abona en factura después de dos meses completos activos y pagados al día.",
+        "¿Me devuelven dinero si bajo de plan con la opción AHORA? No. El cambio inmediato hacia un plan inferior aplica el nuevo límite al instante sin reembolso del resto del ciclo ya abonado.",
+        "¿Cómo funciona el periodo de prueba de 30 días? Puedes cancelar el servicio y devolver el kit sin daños dentro de los 30 días posteriores a la fecha de vencimiento del pago para recibir reembolso del equipo y del primer mes."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Introduce tu dirección en el configurador oficial para ver qué planes abren en tu código postal, revisar antena y permanencia y asegurar el bono en factura tras dos ciclos pagados (45 € en España; en México MX$ 700 de referencia en noviembre —confirma el importe en tu pantalla de pedido antes de pagar—).",
+    "label": "Ver planes con 45 € (ES) o bono tras 2 ciclos",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Verificamos tarifas, hardware, cláusulas de permanencia y fichas técnicas oficiales directamente en el sitio público y el flujo de pedido de Starlink. Participamos en el programa oficial de referidos sin coste adicional para el lector.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-permanencia-cancelar"
+    },
+    {
+      "slug": "starlink-vale-la-pena"
+    },
+    {
+      "slug": "starlink-enlace-referido-como-funciona"
+    },
+    {
+      "slug": "starlink-mini-o-estandar-cual-elegir"
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "quieres comparar 100 Mbps, 200 Mbps y Max mirando también antena asignada, instalación y permanencia.",
+      "vas a contratar directamente en starlink.com comprobando el aviso de referido antes del pago."
+    ],
+    "skipIf": [
+      "dispones de fibra óptica estable en tu domicilio con una cuota mensual claramente más baja.",
+      "esperas cambiar de tarifa cada pocos meses sobre un kit residencial entregado en alquiler."
+    ]
+  }
+}

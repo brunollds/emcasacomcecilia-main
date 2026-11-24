@@ -1,0 +1,318 @@
+{
+  "id": 1431,
+  "slug": "planos-starlink-100-200-mbps-ou-max",
+  "translationKey": "starlink-planos-residenciais",
+  "locale": "pt",
+  "title": "Planos Starlink 100 Mbps, 200 Mbps ou Max: preços, antena, contrato e qual escolher",
+  "seoTitle": "Planos Starlink 100 Mbps, 200 Mbps ou Max: qual escolher",
+  "type": "Guia de Escolha",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Edição e análise",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
+  "description": "Compare os planos Starlink Residencial 100 Mbps, 200 Mbps e Max no Brasil e em Portugal: preços, antena incluída, fidelidade, velocidades oficiais e regras de troca.",
+  "metaDescription": "Planos Starlink 100 Mbps, 200 Mbps e Max: preços no Brasil e em Portugal, antena Mini X ou Standard 4, contrato de 12 meses e velocidades oficiais.",
+  "publishedAt": "24 de novembro de 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-capa.webp",
+  "imageAlt": "Capa comparativa com painel preto exibindo STARLINK e o título 100, 200 Mbps ou Max? ao lado da antena Starlink instalada no telhado de uma casa contra céu azul.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Starlink divide o uso residencial entre 100 Mbps, 200 Mbps e Max, mas nem todos aparecem em todo endereço. Além dos megabits, a escolha muda a antena enviada, a fidelidade e o valor da instalação. Confira o que abre no seu CEP pelo link oficial e receba o crédito na fatura após dois ciclos pagos."
+      ],
+      "links": [
+        {
+          "label": "Conferir planos no meu CEP com R$ 200 na fatura após 2 ciclos (45 € PT)",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Preços no Brasil e em Portugal e como entra o crédito de indicação",
+      "paragraphs": [
+        "A vitrine residencial de starlink.com muda bastante entre mercados e até dentro do mesmo país. No Brasil, em Alto Paraíso de Goiás (GO), aparecem apenas o Residencial 100 Mbps por R$ 132,30/mês com o ajuste promocional de 30% válido até o fim de novembro (valor cheio de R$ 189/mês) com kit Mini X a R$ 299 e o Residencial Max por R$ 174,30/mês (valor cheio de R$ 249/mês) com kit Mini X a R$ 49. O plano de 200 Mbps não apareceu nos endereços brasileiros testados, e regiões com alta demanda como a Avenida Paulista, em São Paulo (SP), entram em pré-venda com mensalidade cheia, antena Standard 4 X a R$ 2.400 e depósito inicial de R$ 275.",
+        "Em Portugal, os três degraus aparecem juntos em Lisboa: 100 Mbps por 24,50 €/mês (preço cheio 35 €/mês) com Mini X em aluguel a 0 €; 200 Mbps por 31,50 €/mês (cheio 45 €/mês) com Standard 4 a 0 €; e Max por 45,50 €/mês (cheio 65 €/mês) com Standard 4 a 0 € e instalação profissional de 172 € incluída. Em todos esses pedidos novos feitos pelo link oficial de indicação, o bônus é de R$ 200 no Brasil ou 45 € em Portugal, creditado diretamente na fatura após dois ciclos mensais completos pagos em dia, sem alterar o valor cobrado no kit no ato da compra."
+      ],
+      "comparisonTable": {
+        "caption": "Valores lidos nos endereços de referência no checkout oficial em 23/11/2026. O bônus de indicação entra como crédito na fatura após dois ciclos mensais completos e nunca abate o kit no ato da compra.",
+        "headers": [
+          "Mercado e plano",
+          "Mensalidade promo (cheia)",
+          "Kit e condição no pedido",
+          "Instalação e crédito de indicação"
+        ],
+        "rows": [
+          [
+            "Brasil (GO): Residencial 100 Mbps",
+            "R$ 132,30 (de R$ 189)",
+            "Mini X por R$ 299, sem 12 meses",
+            "Instalação opcional; R$ 200 na fatura"
+          ],
+          [
+            "Brasil (GO): Residencial Max",
+            "R$ 174,30 (de R$ 249)",
+            "Mini X por R$ 49, contrato 12 meses",
+            "Instalação grátis; R$ 200 na fatura"
+          ],
+          [
+            "Brasil (SP pré-venda): 100 Mbps / Max",
+            "R$ 189 / R$ 249 (sem desconto)",
+            "Standard 4 X por R$ 2.400",
+            "Depósito R$ 275; R$ 200 na fatura após 2 ciclos pagos"
+          ],
+          [
+            "Portugal (Lisboa): Residencial 100 Mbps",
+            "24,50 € (de 35 €)",
+            "Mini X em aluguel por 0 €",
+            "Instalação 172 € opcional; 45 € na fatura"
+          ],
+          [
+            "Portugal (Lisboa): Residencial 200 Mbps",
+            "31,50 € (de 45 €)",
+            "Standard 4 em aluguel por 0 €",
+            "Instalação 172 € opcional; 45 € na fatura"
+          ],
+          [
+            "Portugal (Lisboa): Residencial Max",
+            "45,50 € (de 65 €)",
+            "Standard 4 em aluguel por 0 €",
+            "Instalação de 172 € grátis; 45 € na fatura"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "Simulador de pagamento no pedido e crédito na fatura (Brasil, GO)",
+        "scenarios": [
+          {
+            "label": "100 Mbps com link de indicação",
+            "lines": [
+              {
+                "label": "Equipamento Mini X + frete (sem 12 meses)",
+                "value": "R$ 299,00 + frete R$ 0,00"
+              },
+              {
+                "label": "1ª mensalidade promocional (cheia R$ 189)",
+                "value": "R$ 132,30/mês (na ativação ou 7 dias após entrega)"
+              },
+              {
+                "label": "Crédito na fatura após 2 ciclos pagos",
+                "value": "R$ 200,00 na conta",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Total hoje no pedido",
+            "totalValue": "R$ 299",
+            "note": "Sem fidelidade no kit. A 1ª mensalidade entra na ativação ou 7 dias após a entrega, e os R$ 200 caem na fatura após dois meses pagos."
+          },
+          {
+            "label": "Max com link de indicação",
+            "lines": [
+              {
+                "label": "Equipamento Mini X (12 meses) + frete + instalação",
+                "value": "R$ 49,00 + R$ 0,00 + R$ 0,00"
+              },
+              {
+                "label": "1ª mensalidade promocional (cheia R$ 249)",
+                "value": "R$ 174,30/mês (na ativação ou 7 dias após entrega)"
+              },
+              {
+                "label": "Crédito na fatura após 2 ciclos pagos",
+                "value": "R$ 200,00 na conta",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Total hoje no pedido",
+            "totalValue": "R$ 49",
+            "note": "Exige contrato de 12 meses no endereço cadastrado, com multa proporcional de até R$ 1.099 por rescisão antecipada (trocar de plano no período promocional pode encerrar o desconto ou acionar termos contratuais)."
+          },
+          {
+            "label": "Sem link de indicação / varejo",
+            "lines": [
+              {
+                "label": "Hardware (sem link no site vs. varejo)",
+                "value": "R$ 299 no 100 Mbps (site) ou preço integral de loja (varejo)"
+              },
+              {
+                "label": "Oferta de endereço e mensalidade",
+                "value": "Sem oferta de endereço no varejo (1ª cobrança na ativação ou 7 dias)"
+              },
+              {
+                "label": "Crédito na fatura após 2 ciclos pagos",
+                "value": "R$ 0,00 (perdido sem volta)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Crédito de indicação",
+            "totalValue": "R$ 0",
+            "note": "Sem o link oficial você perde os R$ 200 na fatura e, comprando no varejo, não leva o subsídio nem a oferta do CEP."
+          }
+        ]
+      },
+      "postParagraphs": [
+        "Note que o crédito nunca diminui o valor do kit na hora da compra: ele funciona como saldo para abater faturas depois que a conta completa dois meses seguidos em dia, enquanto a primeira mensalidade recorrente é cobrada apenas na ativação ou 7 dias após a entrega, o que ocorrer primeiro. Em Portugal, o frete padrão observado no pedido foi de 20 € sobre os planos com antena em aluguel."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+        "alt": "Tela de pedido da Starlink para Alto Paraíso de Goiás exibindo o plano Residencial 100 Mbps com mensalidade promocional e kit Mini X",
+        "caption": "Tela do Residencial 100 Mbps no Brasil: mensalidade reduzida e Mini X sem exigência de 12 meses no equipamento.",
+        "objectFit": "contain",
+        "aspectRatio": 0.9653
+      }
+    },
+    {
+      "heading": "O que muda além dos megabits: antena, contrato de 12 meses e instalação",
+      "paragraphs": [
+        "Muita gente escolhe o plano olhando apenas o teto de download, mas no checkout da Starlink o degrau escolhido altera o hardware e as amarras contratuais. Em Portugal, o plano de 100 Mbps entrega o kit Mini X em aluguel por 0 €, enquanto os planos de 200 Mbps e Max sobem para o kit Standard 4 em aluguel por 0 €. Além disso, quem assina 100 Mbps ou 200 Mbps em Portugal paga 172 € se quiser instalação profissional, ao passo que no Max esse serviço entra incluído sem custo extra.",
+        "No Brasil, a diferença oculta mais importante está entre o 100 Mbps e o Max. Em Alto Paraíso de Goiás, ambos listam o kit Mini X no bloco de equipamento, porém com regras opostas: no 100 Mbps, o Mini X custa R$ 299 sem linha de contrato de 12 meses no resumo; no Max, o mesmo Mini X cai para R$ 49, mas trava o pedido em um contrato obrigatório de 12 meses, com multa proporcional de até R$ 1.099 em caso de rescisão antecipada (enquanto a troca de plano no período promocional pode encerrar o desconto ou acionar termos contratuais e cobrança do equipamento), além de incluir a instalação profissional sem cobrança avulsa.",
+        "Um detalhe que confunde quem lê rápido a página brasileira: na coluna lateral de perguntas frequentes, o item estático \"Prazo de 12 meses\" (com menção à taxa de rescisão antecipada de até R$ 1.099) continua aparecendo mesmo quando você muda para o plano de 100 Mbps, enquanto o bloco Equipamento e o Resumo do pedido mostram o Mini X a R$ 299 sem essa cláusula contratual. Antes de pagar, confira sempre o bloco Equipamento e o Resumo do pedido, e para os detalhes completos de rescisão veja o [guia de fidelidade e cancelamento da Starlink](/reviews/starlink-fidelidade-como-cancelar)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antena e roteador oficiais da Starlink em kit residencial comercializado no site da marca",
+        "caption": "Antena e roteador Starlink: o plano selecionado altera se você recebe a linha Mini ou Standard no endereço.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Velocidades oficiais, latência e para quem cada plano faz sentido",
+      "paragraphs": [
+        "Nos documentos oficiais de banda larga da Starlink (DOC-1470-99699-90) e no artigo atual de planos residenciais da Central de Ajuda (referência 886607c4), os três planos trabalham com dados ilimitados, latência típica abaixo de 50 ms e disponibilidade típica igual ou superior a 99%. A distinção está no teto de download: o plano de 100 Mbps entrega faixa típica de 80 a 100 Mbps (limitado a 100 Mbps); o de 200 Mbps opera entre 80 e 200 Mbps (limitado a 200 Mbps); e o Residencial Max vai de 80 a 400 Mbps no documento de banda larga, chegando a mais de 400 Mbps em áreas com menor congestionamento.",
+        "Para upload, as especificações registram faixa típica de 15 a 35 Mbps nos três degraus, com o artigo da Central de Ajuda destacando 20 a 40 Mbps no Max. Vale notar que o documento legado DOC-1414-37800-64 ainda citava apenas a faixa antiga Standard Fixed de 25 a 100 Mbps, já substituída pela estrutura atual de três perfis onde a rede oferece todas as faixas.",
+        "Como regra prática geral de uso doméstico, sem representar medição feita no seu imóvel: 100 Mbps resolve bem casas com duas a quatro pessoas fazendo videochamadas, trabalho remoto e streaming em 4K; 200 Mbps dá margem para vários usuários em downloads simultâneos ou envio constante de arquivos; e o Max só se justifica em residências muito conectadas, rotinas pesadas em nuvem ou quando a oferta local entrega o kit Standard 4 ou a instalação profissional gratuita com economia real frente aos planos abaixo."
+      ],
+      "comparisonTable": {
+        "caption": "Faixas oficiais registradas em DOC-1470-99699-90 e no artigo 886607c4 da Central de Ajuda. O documento legado DOC-1414-37800-64 listava apenas a faixa antiga de 25 a 100 Mbps.",
+        "headers": [
+          "Plano residencial",
+          "Download típico oficial",
+          "Upload típico oficial",
+          "Latência e franquia"
+        ],
+        "rows": [
+          [
+            "Residencial 100 Mbps",
+            "80 a 100 Mbps (teto 100 Mbps)",
+            "15 a 35 Mbps",
+            "Menor que 50 ms; dados ilimitados"
+          ],
+          [
+            "Residencial 200 Mbps",
+            "80 a 200 Mbps (teto 200 Mbps)",
+            "15 a 35 Mbps",
+            "Menor que 50 ms; dados ilimitados"
+          ],
+          [
+            "Residencial Max",
+            "80 a 400 Mbps (até 400+ Mbps)",
+            "15 a 35 Mbps (20 a 40 Mbps no Max)",
+            "Menor que 50 ms; dados ilimitados"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "Antena Starlink instalada sobre telhado com vista desobstruída para o céu",
+        "caption": "Visada limpa do céu continua sendo decisiva para sustentar a faixa de velocidade e a latência abaixo de 50 ms.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "Regras para trocar de plano depois e prazo de 30 dias",
+      "paragraphs": [
+        "Quem assina no plano de entrada muitas vezes conta com subir ou descer de degrau depois, mas a troca segue regras rígidas da conta Starlink. Todos os cortes de ciclo ocorrem às 00:00 UTC (21h no horário de Brasília). Ao pedir alteração pela conta, a opção AGORA aplica upgrades imediatamente com cobrança proporcional da diferença, enquanto downgrades imediatos cortam a velocidade na hora sem reembolso pelos dias já pagos do ciclo; já a opção DATA agenda a mudança para a virada do próximo faturamento.",
+        "Há ainda duas travas críticas. Primeira: planos com kit em aluguel de 0 €, caso dos planos residenciais em Portugal, não permitem trocar de plano pelo autoatendimento. Segunda: contratos promocionais ou com fidelidade de 12 meses podem perder o desconto mensal ou gerar cobrança de taxa contratual se você mudar de plano antes do prazo. Se tiver dúvida se o serviço atenderá seu endereço, lembre que a Starlink garante cancelamento e devolução do kit sem danos em até 30 dias a partir do vencimento do pagamento para reembolso do equipamento e da primeira mensalidade, e você também pode conferir mais detalhes na nossa [página de cupons e indicação da Starlink](/cupons/starlink)."
+      ],
+      "checklist": {
+        "title": "Checklist antes de fechar o plano no pedido",
+        "items": [
+          "Confirme no Resumo do pedido qual kit aparece no seu endereço (Mini X ou Standard 4).",
+          "Verifique se há linha de contrato de 12 meses e qual é o teto da multa proporcional.",
+          "Confira se a instalação profissional aparece grátis ou se será cobrada à parte.",
+          "Se quiser flexibilidade sem fidelidade no Brasil, prefira o 100 Mbps quando disponível sem 12 meses.",
+          "Garanta que o aviso de indicação aplicada está visível em starlink.com antes de concluir o pagamento."
+        ]
+      },
+      "links": [
+        {
+          "label": "Ver plano, kit e R$ 200 na fatura após 2 ciclos (45 € PT)",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Veredito: qual plano Starlink escolher",
+      "paragraphs": [
+        "Para a maioria das casas no Brasil onde o 100 Mbps aparece sem contrato de 12 meses, começar pelo plano de 100 Mbps reduz o risco financeiro e mantém a liberdade de cancelar ou mudar depois sem multa pesada. Só vale partir direto para o Residencial Max no Brasil se você realmente precisa da banda maior, vai ficar no mínimo um ano no mesmo endereço e quer aproveitar a instalação incluída.",
+        "Em Portugal, o 200 Mbps costuma ser o meio-termo mais equilibrado para quem quer receber o kit Standard 4 em aluguel pagando mensalidade intermediária, enquanto o Max compensa principalmente quando você precisa da instalação profissional gratuita de 172 € e da máxima prioridade residencial disponível na região."
+      ],
+      "emphasis": "Mais importante do que o número em Mbps no título é conferir no Resumo do pedido três linhas antes de pagar: modelo exato da antena, presença de contrato de 12 meses e aviso de indicação aplicada."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "O plano de 200 Mbps existe no Brasil? Nos endereços brasileiros testados, a Starlink exibiu apenas Residencial 100 Mbps e Residencial Max; em Portugal, os três degraus (100, 200 e Max) aparecem juntos no checkout.",
+        "O bônus de indicação deixa o kit mais barato na hora da compra? Não. Os R$ 200 no Brasil ou 45 € em Portugal entram como crédito na fatura após dois ciclos mensais completos pagos em dia, mantendo o preço inicial do equipamento igual.",
+        "Posso escolher a antena Standard no plano de 100 Mbps? Não livremente: a antena é vinculada ao plano e ao endereço. No Brasil, o 100 Mbps e o Max exibiram Mini X nos endereços imediatos e Standard 4 X na pré-venda; em Portugal, 100 Mbps vem com Mini X e 200 Mbps ou Max vêm com Standard 4.",
+        "Se eu assinar um plano com aluguel de kit posso trocar depois pelo aplicativo? Em ofertas com kit em aluguel residencial, a Starlink bloqueia a troca de plano pelo autoatendimento da conta.",
+        "Como funciona o prazo de teste de 30 dias? Você tem até 30 dias a partir do vencimento do pagamento para cancelar o serviço e devolver o kit sem danos visando o reembolso do equipamento e da primeira mensalidade."
+      ]
+    }
+  ],
+  "cta": {
+    "text": "Digite seu endereço pelo link oficial para ver quais planos abrem no seu CEP, conferir antena e contrato no resumo e garantir R$ 200 no Brasil (45 € em Portugal) na fatura após dois ciclos pagos.",
+    "label": "Consultar planos e R$ 200 de crédito após 2 ciclos (45 € PT)",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "Apuramos os preços, termos contratuais e documentos técnicos diretamente nas páginas públicas e no fluxo de pedido da Starlink. Participamos do programa oficial de indicação e podemos receber recompensa sem custo adicional ao leitor.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-fidelidade-como-cancelar"
+    },
+    {
+      "slug": "starlink-vale-a-pena"
+    },
+    {
+      "slug": "starlink-indicacao-como-usar"
+    },
+    {
+      "slug": "starlink-mini-ou-padrao-qual-escolher"
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "você quer escolher entre 100 Mbps, 200 Mbps ou Max olhando também modelo da antena, instalação e fidelidade do endereço.",
+      "você pretende assinar diretamente no site oficial conferindo no resumo se há prazo de doze meses e crédito de indicação."
+    ],
+    "skipIf": [
+      "você tem fibra óptica estável disponível na rua com custo mensal bem inferior ao serviço via satélite.",
+      "você não pode ficar doze meses no mesmo imóvel e só encontrou oferta residencial com multa contratual no endereço."
+    ]
+  }
+}

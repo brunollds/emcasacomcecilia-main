@@ -1,0 +1,283 @@
+{
+  "id": 1414,
+  "slug": "comprare-starlink-sito-ufficiale-o-negozi",
+  "translationKey": "starlink-onde-comprar",
+  "locale": "it",
+  "title": "Comprare Starlink sul sito ufficiale o da Media World, Unieuro, Euronics e Amazon?",
+  "seoTitle": "Starlink: sito ufficiale o Media World, Unieuro e Amazon",
+  "type": "Guida all'acquisto",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Redazione e analisi",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redazione e analisi",
+      "initials": "BL"
+    }
+  ],
+  "description": "Confronto tra starlink.com con link d'invito e Media World, Unieuro, DIMO Euronics, Comet o Amazon: credito di 45 €, noleggio a 0 € e rischi sui kit usati.",
+  "metaDescription": "Starlink su starlink.com o da Media World, Unieuro, Euronics e Amazon? Scopri credito da 45 €, noleggio a 0 € e lista ufficiale dei rivenditori.",
+  "publishedAt": "24 novembre 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/comprare-starlink-sito-ufficiale-o-negozi-capa.webp",
+  "imageAlt": "Antenna e componenti del kit Starlink su sfondo scuro con il confronto tra sito ufficiale e rivenditori autorizzati.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Risposta rapida",
+      "paragraphs": [
+        "Per la maggior parte dei nuovi clienti in Italia, ordinare su starlink.com con il link d'invito conviene più che comprare da Media World, Unieuro, DIMO Euronics, Comet o Amazon. Solo il sito ufficiale sblocca il credito in fattura dopo due cicli pagati, offre il noleggio gratuito del kit e gestisce reso e disdetta in 30 giorni."
+      ],
+      "links": [
+        {
+          "label": "Verifica il tuo indirizzo con 45 € in fattura dopo 2 cicli",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Cosa cambia davvero tra starlink.com e i negozi",
+      "paragraphs": [
+        "Comprare la scatola da Media World, Unieuro, DIMO Euronics o Comet può sembrare più immediato, ma le condizioni commerciali cambiano radicalmente rispetto a starlink.com. Nella nostra verifica su Milano, il sito ufficiale mostrava hardware a noleggio a 0 € e 0 €/mese su tutti e tre i piani residenziali senza vincolo contrattuale: 100 Mbps a 17,50 €/mese per 3 mesi (poi 35 €) con Mini X, 200 Mbps a 22,50 €/mese (poi 45 €) e Max a 32,50 €/mese (poi 65 €) con Standard 4, pagando solo 19 € di spedizione oggi.",
+        "In negozio invece acquisti il kit a prezzo intero senza accedere al noleggio a 0 € né all'installazione professionale inclusa a 0 € nel piano Max (anziché 172 € opzionali su 100 e 200 Mbps). Un dettaglio decisivo: Amazon Italia non risulta nell'elenco ufficiale dei rivenditori autorizzati Starlink.",
+        "Attenzione al funzionamento del bonus: i 45 € di credito d'invito non scontano il totale del carrello al momento del pagamento. Paghi l'importo mostrato su starlink.com e, dopo due cicli mensili completi attivi e pagati in regola, i 45 € arrivano come credito in fattura (o in denaro dove l'account lo prevede)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+        "alt": "Schermata ufficiale di starlink.com per Milano con Residenziale 100 Mbps a 17,50 €/mese e kit a noleggio a 0 €",
+        "caption": "Schermata di Milano su starlink.com: il noleggio a 0 € e le offerte promozionali per indirizzo sono disponibili solo sul sito ufficiale.",
+        "objectFit": "contain",
+        "aspectRatio": 0.6065
+      },
+      "comparisonTable": {
+        "caption": "Confronto strutturale basato sulle pagine pubbliche e sul centro assistenza starlink.com consultati il 24 novembre 2026, senza prezzi di terzi.",
+        "headers": [
+          "Criterio",
+          "starlink.com con link d'invito",
+          "Rivenditore autorizzato",
+          "Venditore terzo / non autorizzato"
+        ],
+        "rows": [
+          [
+            "Credito d'invito dopo 2 cicli pagati",
+            "Sì: 45 € in fattura in Italia",
+            "No (ordini fuori dal sito esclusi)",
+            "No"
+          ],
+          [
+            "Noleggio hardware a 0 € / mese",
+            "Sì, sugli indirizzi italiani idonei",
+            "No: solo acquisto completo del kit",
+            "No"
+          ],
+          [
+            "Installazione professionale inclusa su Max",
+            "Mostrata a 0 € nel riepilogo ordine",
+            "Non inclusa nella confezione in negozio",
+            "No"
+          ],
+          [
+            "Finestra di reso di 30 giorni",
+            "Gestione unica con Starlink (kit + 1° mese)",
+            "Reso hardware al negozio; servizio disdetto a parte",
+            "Finestre ridotte o contestazioni"
+          ],
+          [
+            "Rischio di kit bloccato o non autorizzato",
+            "Zero (assegnato nuovo al tuo ordine)",
+            "Basso se sigillato da catena ufficiale",
+            "Alto: i kit non autorizzati rischiano la sospensione"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "Confronta cosa paghi oggi e cosa torna dopo",
+        "scenarios": [
+          {
+            "label": "starlink.com 100 Mbps + link",
+            "lines": [
+              {
+                "label": "Noleggio kit Mini X (Milano)",
+                "value": "0 € oggi (da restituire in caso di disdetta)"
+              },
+              {
+                "label": "Spedizione e piano (poi 35 €/mese)",
+                "value": "19 € oggi; 17,50 €/mese per 3 mesi"
+              },
+              {
+                "label": "Credito d'invito dopo 2 cicli pagati",
+                "value": "-45 € in fattura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Cosa paghi al momento dell'ordine",
+            "totalValue": "19 € oggi; dopo 2 cicli pagati tornano 45 € come credito in fattura",
+            "note": "Il credito arriva dopo due cicli mensili pagati regolarmente; non riduce la spedizione odierna."
+          },
+          {
+            "label": "starlink.com 200 Mbps + link",
+            "lines": [
+              {
+                "label": "Noleggio kit Standard 4 (Milano)",
+                "value": "0 € oggi (da restituire in caso di disdetta)"
+              },
+              {
+                "label": "Spedizione e piano (poi 45 €/mese)",
+                "value": "19 € oggi; 22,50 €/mese per 3 mesi"
+              },
+              {
+                "label": "Credito d'invito dopo 2 cicli pagati",
+                "value": "-45 € in fattura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Cosa paghi al momento dell'ordine",
+            "totalValue": "19 € oggi; dopo 2 cicli pagati tornano 45 € come credito in fattura",
+            "note": "Nessun vincolo contrattuale; il kit a noleggio va restituito entro 30 giorni dalla disdetta."
+          },
+          {
+            "label": "Rivenditore autorizzato o marketplace",
+            "lines": [
+              {
+                "label": "Hardware fuori da starlink.com",
+                "value": "Acquisto a prezzo pieno in negozio"
+              },
+              {
+                "label": "Noleggio a 0 € del sito",
+                "value": "Non disponibile nei negozi"
+              },
+              {
+                "label": "Credito d'invito all'attivazione",
+                "value": "0 € (non aggiungibile in seguito)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Esito fuori dal sito ufficiale",
+            "totalValue": "Prezzo pieno del kit in negozio + 0 € di credito d'invito",
+            "note": "Il reso dell'antenna segue le regole del negozio mentre la disdetta va richiesta a Starlink."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Perché il codice d'invito non vale dopo l'acquisto in negozio",
+      "paragraphs": [
+        "Quando compri un kit sigillato da un rivenditore e avvii la configurazione su starlink.com/activate (o nell'app), Starlink offre 1 ora di accesso iniziale per completare la registrazione. Se l'ora scade prima di concludere, serve un'altra connessione internet per terminare l'attivazione.",
+        "In quella schermata non esiste alcun campo per inserire un link o codice d'invito. Le regole del centro assistenza stabiliscono che i premi vengono emessi solo per nuovi abbonamenti iniziati su starlink.com tramite il link d'invito, pagando il primo mese e attivando il kit. Gli acquisti da negozi, rivenditori, marketplace o i trasferimenti di account sono esclusi e non possono essere collegati a posteriori.",
+        "Cambia anche la gestione dei 30 giorni. Su starlink.com, disdire e restituire l'hardware integro entro 30 giorni rimborsa il kit e il primo mese secondo i termini dell'ordine (e i kit a noleggio a 0 € vanno sempre restituiti entro 30 giorni dalla disdetta per evitare l'addebito dell'intero prezzo). In negozio invece restituisci l'antenna direttamente al rivenditore e disdici l'abbonamento a parte su Starlink. Consulta la nostra [pagina invito Starlink](/it/coupons/starlink) e la [guida passo passo al link d'invito](/it/reviews/starlink-link-invito)."
+      ]
+    },
+    {
+      "heading": "Kit usati, blocco del trasferimento e venditori non autorizzati",
+      "paragraphs": [
+        "Comprare una parabola usata o da un inserzionista occasionale espone a blocchi tecnici rigidi. Starlink specifica che il servizio non viene attivato su apparecchi ancora assegnati a un altro account.",
+        "Un kit acquistato online può essere trasferito dal precedente titolare solo dopo 120 giorni dall'acquisto oppure 90 giorni dall'attivazione (la prima scadenza raggiunta). Un kit attivato da negozio resta bloccato al trasferimento per 90 giorni dalla data di attivazione mantenendo il servizio attivo. È inoltre vietato trasferire con saldo insoluto, durante i 30 giorni di reso o su linee con hardware a noleggio.",
+        "Se ricevi un kit mai scollegato dall'account precedente, resta inutilizzabile finché l'ex proprietario non disdice e rimuove il dispositivo dall'account (o finché il supporto non interviene con l'identificativo Starlink). Inoltre, l'avviso ufficiale sottolinea che i dispositivi comprati da negozi non autorizzati non possono essere attivati, violano i termini e possono causare la sospensione immediata del servizio."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Componenti di un kit Starlink Standard su sfondo scuro: antenna, base, router e cavi",
+        "caption": "Componenti del kit Starlink Standard. Un kit usato non liberato o non autorizzato resta bloccato all'attivazione. Foto di Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Elenco ufficiale dei rivenditori autorizzati in Italia e caso Amazon",
+      "paragraphs": [
+        "Se hai bisogno del ritiro immediato in giornata o vuoi usare un buono negozio, verifica prima l'[elenco ufficiale dei rivenditori autorizzati Starlink](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105). La pagina raccomanda di acquistare solo tramite il negozio Starlink ufficiale del rivenditore.",
+        "In Italia risultano autorizzati Media World, Unieuro, DIMO Euronics e Comet S.P.A., insieme ai gruppi regionali Bruno S.P.A., Butali S.P.A., Ires S.P.A., La Via Lattea S.P.A., Nova S.P.A., Rimep S.P.A., Siem S.P.A. e Tufano S.P.A. Un dato fondamentale da tenere presente: **Amazon Italia non compare nell'elenco ufficiale italiano**.",
+        "Diffida quindi delle inserzioni di venditori generici sui marketplace non elencati. Per verificare sempre l'affidabilità di siti e profili, leggi anche [Starlink è affidabile? Come controllare chi vende](/it/reviews/starlink-e-affidabile)."
+      ],
+      "checklist": {
+        "title": "Cinque controlli prima di pagare il tuo kit",
+        "items": [
+          "Ho inserito il mio indirizzo su starlink.com dal link d'invito per confrontare noleggio a 0 € e prezzi prima di andare in negozio.",
+          "Ho verificato che sullo schermo di riepilogo compaia la conferma verde del link d'invito applicato.",
+          "Se compro in negozio, ho scelto una catena nell'elenco ufficiale italiano (Media World, Unieuro, DIMO Euronics o Comet).",
+          "Ho evitato annunci terzi su Amazon Italia o kit usati privi di prova di rimozione dopo i 90 o 120 giorni.",
+          "Ho salvato uno screenshot del canone mensile e delle condizioni di reso entro 30 giorni."
+        ]
+      },
+      "links": [
+        {
+          "label": "Apri l'ordine ufficiale con 45 € in fattura dopo 2 cicli",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Schermata d'ordine su starlink.com con l'avviso verde Referral Code Applied per il credito d'invito",
+        "caption": "Avviso verde di conferma dell'invito su starlink.com (schermata di riferimento); compare solo negli ordini sul sito ufficiale.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8747
+      }
+    },
+    {
+      "heading": "Verdetto: dove conviene comprare in ogni caso",
+      "paragraphs": [
+        "Per chi attiva Starlink per la prima volta in Italia, ordinare su starlink.com tramite il link d'invito è la scelta più conveniente e lineare: assicura i 45 € di credito in fattura dopo due cicli pagati, abilita il noleggio a 0 € su tutti i piani residenziali e riunisce reso e disdetta entro 30 giorni con un solo supporto.",
+        "Scegliere Media World, Unieuro, DIMO Euronics o Comet ha senso solo se ti serve il ritiro fisico immediato, se spendi un buono regalo del negozio o se preferisci acquistare il kit in proprietà rinunciando ai 45 € dell'invito."
+      ],
+      "emphasis": "Ordinare su starlink.com dal link d'invito unisce il noleggio a 0 € in Italia, 45 € di credito dopo due cicli pagati e il reso unificato in 30 giorni; Amazon Italia non compare nell'elenco ufficiale dei rivenditori autorizzati."
+    },
+    {
+      "heading": "Domande frequenti",
+      "bullets": [
+        "Il link d'invito Starlink funziona se compro da Media World o Unieuro? No. Il credito di 45 € spetta solo ai nuovi clienti che avviano l'ordine su starlink.com tramite un link d'invito; gli acquisti in negozio o su marketplace non si possono aggiungere all'attivazione.",
+        "Amazon Italia è nell'elenco ufficiale dei rivenditori Starlink? No. Nell'elenco ufficiale per l'Italia figurano Media World, Unieuro, DIMO Euronics, Comet e altri gruppi elettrodomestici autorizzati, mentre Amazon Italia non è elencato.",
+        "I 45 € dell'invito abbassano subito il prezzo del kit? No. Al momento dell'ordine paghi l'importo mostrato su starlink.com e i 45 € vengono accreditati in fattura dopo due cicli mensili completi pagati in regola.",
+        "Come cambia la regola dei 30 giorni tra sito ufficiale e negozio? Su starlink.com disdici e restituisci il kit integro entro 30 giorni per ottenere il rimborso previsto dall'ordine. In negozio il reso hardware segue la politica del punto vendita e la disdetta dell'abbonamento va fatta a parte su Starlink.",
+        "Posso attivare una Starlink usata comprata online? Solo se il venditore precedente ha saldato ogni importo dovuto, superato i 90 giorni dall'attivazione in negozio o 120 giorni dall'acquisto online e rimosso il dispositivo dal proprio account."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Realizzato consultando il centro assistenza ufficiale Starlink, l'elenco dei rivenditori autorizzati e le schermate pubbliche d'ordine. Partecipiamo al programma d'invito Starlink e possiamo ricevere lo stesso credito se sottoscrivi il tuo primo piano tramite il nostro link completando due cicli mensili.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-link-invito"
+    },
+    {
+      "slug": "starlink-e-affidabile"
+    },
+    {
+      "slug": "starlink-mini-o-standard-quale-scegliere"
+    },
+    {
+      "slug": "piani-starlink-100-200-mbps-o-max"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "sei un nuovo cliente e vuoi accedere al noleggio gratuito dell'hardware e al credito d'invito dopo due cicli pagati su starlink.com.",
+      "preferisci gestire spedizione, attivazione e l'eventuale reso in 30 giorni direttamente con Starlink."
+    ],
+    "skipIf": [
+      "ti serve il ritiro immediato oggi stesso da un rivenditore ufficiale italiano e accetti di rinunciare al credito d'invito.",
+      "l'inserzione proviene da venditori non elencati o da un kit usato privo di trasferimento sbloccato."
+    ]
+  },
+  "cta": {
+    "text": "Controlla noleggio a 0 €, prezzi e copertura al tuo indirizzo su starlink.com dal nostro link d'invito, con 30 giorni di prova e 45 € di credito dopo due cicli pagati.",
+    "label": "Verifica indirizzo con 45 € di credito dopo 2 cicli",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "id": 1410,
+  "slug": "buy-starlink-official-site-or-retailers",
+  "translationKey": "starlink-onde-comprar",
+  "locale": "en",
+  "title": "Buy Starlink on starlink.com or at Best Buy, Amazon, Home Depot and Currys?",
+  "seoTitle": "Buy Starlink: starlink.com or Best Buy, Amazon and Currys",
+  "type": "Buying Guide",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Editing and analysis",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Editing and analysis",
+      "initials": "BL"
+    }
+  ],
+  "description": "Compare starlink.com with a referral link vs Best Buy, Amazon, Home Depot, Currys or Argos: $100 US or £40 UK bill credit, $0 rental and kit transfer rules.",
+  "metaDescription": "Buy Starlink on starlink.com or at Best Buy, Amazon and Currys? See where $100 US or £40 UK bill credit, $0 rental and 30-day returns apply.",
+  "publishedAt": "November 24, 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/buy-starlink-official-site-or-retailers-capa.webp",
+  "imageAlt": "Starlink kit dish and components on a dark background with a cover comparing the official site and authorized retailers.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "For most new subscribers, ordering directly on starlink.com via a referral link beats buying at Best Buy, Home Depot, Amazon, Walmart, Currys or John Lewis. Only the official site unlocks the referral bill credit after two paid cycles, offers free hardware rental at eligible addresses and keeps returns and cancellation in one 30-day flow."
+      ],
+      "links": [
+        {
+          "label": "Check my address with $100 / £40 bill credit after 2 cycles",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "What actually changes between starlink.com and retail stores",
+      "paragraphs": [
+        "Walking into Best Buy, Home Depot, Lowe's or Currys—or ordering on Amazon—feels familiar, yet the financial terms differ sharply from ordering directly on starlink.com. On the official US order page we checked for Nevada, all three Residential tiers (100 Mbps at $38.50/mo, 200 Mbps at $59.50/mo and Max at $91/mo under the 30% promo) came with $0 upfront hardware and $0 monthly kit rental, leaving only $20 plus taxes due today (plus optional $99 professional installation on 100 Mbps, already $0 on 200 Mbps and Max).",
+        "In the UK (Westminster, London), starlink.com likewise offered £0 upfront and £0/mo hardware rental across 100 Mbps (£40/mo), 200 Mbps (£60/mo) and Max (£80/mo), with £19 shipping due today. At retail stores, by contrast, you buy the physical hardware outright at the store price without access to the $0 / £0 rental flow—and without the referral reward.",
+        "One key detail: the $100 US (or £40 UK) referral reward never reduces the checkout price of a kit. It lands as an invoice credit (or cash where eligible) only after your subscription stays active and paid on time for two full monthly billing cycles."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+        "alt": "Official Starlink Nevada order screen showing Residential 100 Mbps at $38.50/mo with $0 upfront rental hardware",
+        "caption": "Nevada order screen on starlink.com: $0 upfront hardware rental and regional plan pricing appear only on the official checkout.",
+        "objectFit": "contain",
+        "aspectRatio": 0.7159
+      },
+      "comparisonTable": {
+        "caption": "Structural comparison based on starlink.com public order screens and help center rules checked on November 24, 2026; no third-party store prices cited.",
+        "headers": [
+          "Factor",
+          "starlink.com via referral link",
+          "Authorized retailer",
+          "Third-party / unauthorized seller"
+        ],
+        "rows": [
+          [
+            "Referral bill credit after 2 paid cycles",
+            "Yes: $100 (US) or £40 (UK) on invoice",
+            "No (retail kits are excluded)",
+            "No"
+          ],
+          [
+            "$0 / £0 upfront hardware rental option",
+            "Yes, shown on eligible US & UK addresses",
+            "No (full retail hardware purchase only)",
+            "No"
+          ],
+          [
+            "Professional installation option / $0 on 200+ & Max (US) or Max (UK; £74 on 200 Mbps)",
+            "Included or selectable right in checkout",
+            "Not bundled with the retail box",
+            "No"
+          ],
+          [
+            "30-day return & cancellation flow",
+            "Handled together in Starlink (kit + 1st month)",
+            "Return kit to retailer; cancel service separately",
+            "Short or disputed return windows"
+          ],
+          [
+            "Risk of account-locked or unauthorized kit",
+            "Zero (freshly assigned to your order)",
+            "Low if bought sealed from listed shop",
+            "High: unauthorized kits risk suspension"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "Compare what you pay at checkout vs what comes back",
+        "scenarios": [
+          {
+            "label": "starlink.com US (100 Mbps) + link",
+            "lines": [
+              {
+                "label": "Starlink V5 + Router Mini rental (Nevada)",
+                "value": "$0 upfront, return hardware if you cancel"
+              },
+              {
+                "label": "Shipping & service plan (standard $55/mo)",
+                "value": "$20 + taxes today; $38.50/mo promo"
+              },
+              {
+                "label": "Referral credit after 2 paid cycles",
+                "value": "-$100 on your bill",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "What you pay on the order",
+            "totalValue": "$20 + taxes today; after 2 paid cycles, $100 returns as bill credit",
+            "note": "The $100 reward is credited after two paid monthly cycles; it does not discount the day-one checkout."
+          },
+          {
+            "label": "starlink.com UK (100 Mbps) + link",
+            "lines": [
+              {
+                "label": "Mini Rental + Router Mini (London)",
+                "value": "£0 upfront, return hardware if you cancel"
+              },
+              {
+                "label": "Shipping & service plan",
+                "value": "£19 today; £40/mo"
+              },
+              {
+                "label": "Referral credit after 2 paid cycles",
+                "value": "-£40 on your bill",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "What you pay on the order",
+            "totalValue": "£19 today; after 2 paid cycles, £40 returns as bill credit",
+            "note": "No fixed annual contract in the UK; cancel and return undamaged rental hardware within 30 days."
+          },
+          {
+            "label": "Authorized retailer or marketplace",
+            "lines": [
+              {
+                "label": "Hardware bought outside starlink.com",
+                "value": "Outright store purchase price"
+              },
+              {
+                "label": "$0 / £0 rental or site bundle",
+                "value": "Not available at retail"
+              },
+              {
+                "label": "Referral credit on activation",
+                "value": "$0 (cannot be added afterwards)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Outcome outside the official site",
+            "totalValue": "Full retail kit price at the store + $0 referral credit",
+            "note": "Hardware returns go back to the store under its policy while service cancellation goes to Starlink."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Why referral codes do not work on retail kits",
+      "paragraphs": [
+        "When you buy a sealed kit at a store and set it up at starlink.com/activate (or in the Starlink app), the terminal gives you 1 hour of initial internet access so you can complete account activation. If that 1-hour window runs out before finishing, you need another internet connection to wrap up sign-up.",
+        "That activation flow has no referral code box. Starlink's referral terms state explicitly that amounts are issued only for new sign-ups started directly on starlink.com via a referral link, once the first month is paid and the kit is activated. Kits purchased from resellers, retailers or marketplaces, as well as account transfers, are ineligible and cannot have a referral added retroactively.",
+        "The 30-day return rule also splits in two at retail. On starlink.com, cancelling service and returning undamaged hardware within 30 days of the payment due date refunds both the kit and the first month's service under the order terms (and zero-cost rental hardware must always be returned within 30 days of cancellation to avoid full-price billing). If you bought from an authorized retailer, you must contact the store directly to return the hardware and cancel the Starlink subscription separately. Read our [Starlink referral overview](/en/coupons/starlink) and our [step-by-step referral guide](/en/reviews/starlink-referral-link-how-it-works) before checking out."
+      ]
+    },
+    {
+      "heading": "Used kits, transfer locks and unauthorized sellers",
+      "paragraphs": [
+        "Buying a discounted or second-hand dish from an unverified seller carries strict technical locks. Starlink states that service will not be activated on hardware still assigned to another account.",
+        "Under Starlink's transfer rules, online hardware orders cannot be transferred until 120 days after purchase or 90 days after activation, whichever comes first. Retail-activated kits are locked from transfer for 90 days after activation, and the account must keep service active until eligible (if issues remain 120 days after an authorized retail purchase, support asks for the receipt). Accounts with an unpaid balance, inside the 30-day return window or on a rental service line cannot transfer hardware.",
+        "If a seller ships a kit they never removed from their account, it stays unusable until the prior owner cancels service and triggers a hardware transfer—or until Starlink support verifies the Starlink Identifier when the previous owner cannot be reached. Worse, Starlink warns that hardware bought from unauthorized retailers cannot be activated, violates its terms and conditions and may lead to immediate service suspension."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Components of a Starlink Standard kit on a dark background: dish, kickstand, router and cables",
+        "caption": "Starlink Standard kit hardware. Second-hand or unauthorized kits can fail activation if still tied to another account. Photo from Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Official authorized retailers vs marketplaces: what to check first",
+      "paragraphs": [
+        "If you need same-day local pickup before a trip, want to redeem store credit or simply prefer owning the hardware outright where starlink.com only offers rental, always verify the seller against Starlink's [official list of authorized retailers](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105). Starlink instructs buyers to purchase only through the retailer's official Starlink shop.",
+        "In the United States, the official list includes Best Buy, Home Depot, Amazon, Walmart (explicitly noting: buy only through the Starlink Store on Walmart, as Starlink is not responsible for purchases outside that store), Lowe's, Sam's Club, Ace Hardware, Tractor Supply, Bass Pro Shops, Cabela's and Boost Mobile, among others.",
+        "In the United Kingdom, authorized retailers are Currys, John Lewis, Argos, B&Q, Costco, Harvey Norman and Toolstation. Crucially, Amazon UK does not appear on Starlink's official UK retailer list, so verify who is selling before ordering. For more on spotting legitimate sellers, see [is Starlink legit and how to verify sellers](/en/reviews/is-starlink-legit)."
+      ],
+      "checklist": {
+        "title": "Five checks before paying for your Starlink kit",
+        "items": [
+          "I entered my service address on starlink.com via the referral link to check $0 rental and local promo pricing before browsing stores.",
+          "I confirmed the green Referral Code Applied badge appeared on the order summary before entering payment details.",
+          "If buying at Walmart, Amazon or another marketplace, I verified the seller is the official Starlink shop on the authorized list.",
+          "I rejected any used or open-box dish without proof that the previous owner released it after the 90- or 120-day transfer lock.",
+          "I saved a screenshot of my plan rate and the 30-day return terms before completing checkout."
+        ]
+      },
+      "links": [
+        {
+          "label": "Open starlink.com order with $100 / £40 credit after 2 cycles",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Official starlink.com order screen showing the green Referral Code Applied confirmation badge and $100 reward notice",
+        "caption": "Green Referral Code Applied confirmation on starlink.com; this tracking badge exists only on the official checkout.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8747
+      }
+    },
+    {
+      "heading": "Verdict: when each option makes sense",
+      "paragraphs": [
+        "Ordering on starlink.com through a referral link is the strongest default choice for new US and UK customers. It preserves the $100 US or £40 UK bill credit after two paid cycles, gives access to $0 / £0 rental hardware on eligible addresses and keeps both hardware return and subscription cancellation under one roof for 30 days.",
+        "Buying from an authorized retailer like Best Buy, Home Depot, Currys or John Lewis still makes sense if you need a kit in hand today, are redeeming a retail gift card or deliberately want to own the hardware outright rather than rent—provided you buy from the official Starlink storefront and accept losing the referral credit."
+      ],
+      "emphasis": "Ordering on starlink.com with a referral link unlocks the $100 US or £40 UK bill credit after two paid cycles alongside $0 / £0 hardware rental at eligible addresses; authorized stores are strictly for immediate pickup or store-credit purchases, knowing the referral bonus will not apply."
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "Does the Starlink referral link work if I buy from Best Buy, Amazon, Home Depot or Currys? No. Referral rewards are issued only for new subscriptions ordered directly on starlink.com through a referral link; kits from retailers, marketplaces and transfers are ineligible.",
+        "Can I buy Starlink at Walmart or Amazon safely? In the US, Amazon is on the official list and Walmart is authorized only through the Starlink Store on Walmart. In the UK, Amazon UK does not appear on Starlink's official retailer list, so check Currys, John Lewis, Argos, B&Q or Costco instead.",
+        "How does the 30-day return work if I buy at a retailer vs starlink.com? On starlink.com, cancelling service and returning undamaged hardware within 30 days refunds the kit and first month under order terms. At a retailer, hardware returns follow the store's return policy while you cancel service separately with Starlink.",
+        "Can I activate a used Starlink bought from a third-party marketplace? Only if the original owner settled any balance, cleared the 90-day retail or 120-day online transfer waiting period and removed the hardware from their account. Kits from unauthorized sellers may fail activation or be suspended.",
+        "Does the $100 or £40 referral lower my kit price at checkout? No. You pay the exact checkout amount shown on starlink.com, and the referral credit is issued to your billing statement after two full paid monthly cycles."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Prepared using Starlink's official help center, authorized retailer directory and public order screens. We participate in the Starlink referral program and may receive the same referral credit if you place your first eligible order through our link and keep two monthly cycles paid.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-referral-link-how-it-works"
+    },
+    {
+      "slug": "is-starlink-legit"
+    },
+    {
+      "slug": "starlink-mini-vs-standard-which-to-choose"
+    },
+    {
+      "slug": "starlink-residential-100-200-mbps-or-max"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "you are a new subscriber who wants the referral bill credit after two paid cycles and zero-cost upfront hardware rental on starlink.com.",
+      "you prefer one unified 30-day return and cancellation process directly with Starlink."
+    ],
+    "skipIf": [
+      "you need same-day physical pickup at an authorized US or UK retailer and are okay giving up the referral credit.",
+      "the listing comes from an unverified marketplace seller or a used dish without a confirmed account transfer release."
+    ]
+  },
+  "cta": {
+    "text": "Check plans, $0 hardware rental and availability at your address on starlink.com via our referral link, with 30-day return terms and $100 US (£40 UK) credit after two paid cycles.",
+    "label": "Check my address with $100 / £40 credit after 2 cycles",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}

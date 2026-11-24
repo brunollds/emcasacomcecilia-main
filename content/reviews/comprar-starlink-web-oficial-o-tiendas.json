@@ -1,0 +1,283 @@
+{
+  "id": 1411,
+  "slug": "comprar-starlink-web-oficial-o-tiendas",
+  "translationKey": "starlink-onde-comprar",
+  "locale": "es",
+  "title": "¿Comprar Starlink en starlink.com o en El Corte Inglés, MediaMarkt, Mercado Libre y Home Depot?",
+  "seoTitle": "Comprar Starlink: web oficial o MediaMarkt y Mercado Libre",
+  "type": "Guía de compra",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "Edición y análisis",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edición y análisis",
+      "initials": "BL"
+    }
+  ],
+  "description": "Compara pedir Starlink en starlink.com con referido frente a El Corte Inglés, MediaMarkt, Mercado Libre y Home Depot: crédito en factura, alquiler y bloqueo.",
+  "metaDescription": "¿Web oficial de Starlink o MediaMarkt, El Corte Inglés y Mercado Libre? Crédito de 45 € en España, alquiler a 0 € y lista oficial de tiendas sin bloqueo.",
+  "publishedAt": "24 de noviembre de 2026",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/comprar-starlink-web-oficial-o-tiendas-capa.webp",
+  "imageAlt": "Antena y componentes del kit Starlink sobre fondo oscuro con la comparación entre la web oficial y tiendas autorizadas.",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "Para la mayoría de los nuevos clientes, pedir directamente en starlink.com con enlace de referido compensa más que comprar en El Corte Inglés, MediaMarkt, PcComponentes, FNAC, Mercado Libre o Home Depot. Solo la web oficial libera el crédito en factura tras dos ciclos, ofrece alquiler gratuito en España y unifica la devolución en 30 días."
+      ],
+      "links": [
+        {
+          "label": "Ver mi dirección con 45 € (ES) o bono en factura tras 2 ciclos",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Qué cambia de verdad entre starlink.com y una tienda",
+      "paragraphs": [
+        "Aunque veas el kit expuesto en El Corte Inglés, MediaMarkt, PcComponentes, FNAC o Costco en España —o en Mercado Libre, Home Depot, Liverpool o Coppel en México—, las condiciones comerciales cambian mucho frente a starlink.com. En España (consulta en Madrid), la web oficial mostró alquiler del equipo por 0 € al mes en los tres planes residenciales (100 Mbps a 24,50 €/mes, 200 Mbps a 31,50 €/mes y Máx. a 45,50 €/mes con el descuento vigente), pagando 19 € de envío el primer día.",
+        "En México (consulta en Ciudad de México), el pedido oficial mostró únicamente Residencial Max en modalidad de compra directa: Kit Mini por $2,303 MXN (sin botón de plazo de 12 meses en el resumen) o Standard 4 X por $5,743 MXN con plazo de 12 meses y penalización anticipada de hasta $4,600 MXN, más $475 MXN de envío. En tienda física o marketplace compras solo el kit suelto sin estas condiciones de contratación ni acceso al crédito de referido.",
+        "Ten clara la regla del bono: el crédito (45 € en España o MX$ 700 como importe de referencia publicado en noviembre en México —confirma el importe mostrado en tu pantalla de pedido antes de pagar—) nunca baja el precio del kit al pagar el pedido. Llega como crédito en la factura (o pago donde aplique) después de mantener dos ciclos mensuales completos al día."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+        "alt": "Pantalla oficial de starlink.com para Madrid con el plan Residencial 100 Mbps a 24,50 €/mes y equipo en alquiler por 0 €",
+        "caption": "Madrid en starlink.com: el alquiler de hardware por 0 € y los planes regionales solo están disponibles en el pedido oficial.",
+        "objectFit": "contain",
+        "aspectRatio": 0.622
+      },
+      "comparisonTable": {
+        "caption": "Comparativa estructural según pantallas públicas y centro de ayuda de starlink.com consultados el 24 de noviembre de 2026, sin citar precios de terceros.",
+        "headers": [
+          "Criterio",
+          "starlink.com con enlace de referido",
+          "Tienda autorizada",
+          "Vendedor suelto en marketplace"
+        ],
+        "rows": [
+          [
+            "Crédito de referido tras 2 ciclos pagados",
+            "Sí: 45 € en España; MX$ 700 ref. nov. en México (confirma el importe mostrado en tu pantalla de pedido antes de pagar)",
+            "No aplica (compras en tienda quedan fuera)",
+            "No aplica"
+          ],
+          [
+            "Alquiler a 0 € (España) o configuración por dirección",
+            "Sí, según dirección en el pedido",
+            "No: solo compra del kit en tienda",
+            "No"
+          ],
+          [
+            "Instalación profesional incluida en Máx. (España)",
+            "Incluida por 0 € en el pedido",
+            "No incluida en caja de tienda",
+            "No"
+          ],
+          [
+            "Ventana de 30 días para devolver",
+            "Todo con Starlink (kit y 1.ª cuota según términos)",
+            "Kit se devuelve a la tienda; suscripción se cancela aparte",
+            "Plazos cortos o disputa con vendedor"
+          ],
+          [
+            "Riesgo de kit bloqueado o no autorizado",
+            "Cero (asignado nuevo a tu pedido)",
+            "Bajo si va precintado en tienda oficial",
+            "Alto: tiendas no autorizadas pueden suspender el servicio"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "Compara lo que pagas en el pedido y el crédito posterior",
+        "scenarios": [
+          {
+            "label": "starlink.com España (100 Mbps) + enlace",
+            "lines": [
+              {
+                "label": "Alquiler kit Mini X (Madrid)",
+                "value": "0 € hoy (se devuelve si cancelas)"
+              },
+              {
+                "label": "Envío y cuota (sin promo 35 €/mes)",
+                "value": "19 € hoy; 24,50 €/mes"
+              },
+              {
+                "label": "Crédito de referido tras 2 ciclos pagados",
+                "value": "-45 € en la factura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Lo que pagas en el pedido",
+            "totalValue": "19 € hoy; tras 2 ciclos pagados, 45 € vuelven como crédito en factura",
+            "note": "El crédito llega después de dos ciclos completos al día; no descuenta el envío hoy."
+          },
+          {
+            "label": "starlink.com México (Max, CDMX) + enlace",
+            "lines": [
+              {
+                "label": "Hardware en compra (Kit Mini o Standard 4 X)",
+                "value": "$2,303 MXN (Mini) o $5,743 MXN (12 meses)"
+              },
+              {
+                "label": "Envío y mensualidad ($1,485 + $55 reg.)",
+                "value": "$475 MXN envío hoy; $1,540 MXN/mes"
+              },
+              {
+                "label": "Referido publicado en nov. (confirma antes de pagar)",
+                "value": "MX$ 700 (referencia de noviembre): confirma el importe mostrado en tu pantalla de pedido antes de pagar",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Lo que pagas en el pedido",
+            "totalValue": "Kit + $475 MXN de envío hoy; confirma el importe mostrado en tu pantalla de pedido antes de pagar",
+            "note": "El valor MX$ 700 es referencia publicada en noviembre: confirma el importe mostrado en tu pantalla de pedido antes de pagar."
+          },
+          {
+            "label": "Tienda autorizada o marketplace",
+            "lines": [
+              {
+                "label": "Hardware fuera de starlink.com",
+                "value": "Precio íntegro de compra en tienda"
+              },
+              {
+                "label": "Alquiler 0 € u oferta por dirección",
+                "value": "No disponible en tiendas"
+              },
+              {
+                "label": "Crédito de referido al activar",
+                "value": "0 (no se puede añadir después)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Resultado fuera de la web oficial",
+            "totalValue": "Precio completo del kit en tienda + 0 de crédito de referido",
+            "note": "La devolución del equipo depende de la tienda y la baja del servicio se gestiona aparte en Starlink."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Por qué el referido no entra al activar un kit de tienda",
+      "paragraphs": [
+        "Si compras una antena precintada en tienda física o marketplace y entras en starlink.com/activate (o en la app), Starlink concede 1 hora de acceso inicial a internet para completar el alta; si se agota esa hora, necesitarás otra conexión para acabar el registro.",
+        "En esa pantalla de activación no existe casilla para códigos de referido. El centro de ayuda indica que las recompensas se emiten solo para altas nuevas iniciadas directamente en starlink.com mediante el enlace de referido, tras pagar el primer mes y activar el kit. Los equipos comprados en distribuidores, tiendas o traspasos de cuenta quedan excluidos y no se pueden vincular después.",
+        "También cambia la política de 30 días. En starlink.com, cancelar el servicio y devolver el hardware sin daños en 30 días da reembolso del equipo y de la primera cuota según los términos del pedido (y los equipos alquilados a 0 € deben devolverse siempre en 30 días tras cancelar para evitar el cobro íntegro). En tienda física, devuelves el hardware al propio comercio según sus normas y cancelas el plan aparte en Starlink. Consulta nuestra [página del referido Starlink](/es/coupons/starlink) y la [guía paso a paso del enlace de referido](/es/reviews/starlink-enlace-referido-como-funciona)."
+      ]
+    },
+    {
+      "heading": "Riesgo de kits usados, bloqueo de transferencia y suspensión",
+      "paragraphs": [
+        "Comprar una antena de segunda mano o a un revendedor informal tiene bloqueos claros. Starlink advierte que el servicio no se activa en ningún equipo que siga asignado a otra cuenta.",
+        "Los pedidos online no pueden transferirse hasta pasados 120 días desde la compra o 90 días desde la activación (lo que ocurra primero). En activaciones de tienda autorizada, el bloqueo dura 90 días desde la activación manteniendo el servicio activo. Tampoco se permite transferir con saldo pendiente, dentro de los 30 días de devolución ni en líneas con hardware en alquiler.",
+        "Si el vendedor envía una antena todavía vinculada a su cuenta, el comprador no podrá activarla hasta que el titular anterior cancele y libere el dispositivo (o soporte ayude con el Identificador Starlink). Además, el aviso oficial advierte que el hardware procedente de tiendas no autorizadas no puede activarse, incumple los términos y puede provocar la suspensión inmediata del servicio."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Componentes de un kit Starlink Standard sobre fondo oscuro: antena, soporte, router y cables",
+        "caption": "Componentes del kit Starlink Standard. Un kit usado sin liberar o de tienda no autorizada puede quedar bloqueado. Foto de Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "Lista oficial de tiendas autorizadas en España y México frente a marketplaces",
+      "paragraphs": [
+        "Si necesitas llevarte el equipo el mismo día o aprovechar saldo en una cadena concreta, consulta antes la [lista oficial de distribuidores autorizados de Starlink](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105). La nota oficial recuerda comprar únicamente en la tienda oficial de Starlink dentro del distribuidor.",
+        "En España figuran El Corte Inglés, MediaMarkt, PcComponentes, FNAC y Costco. Toma nota de un dato clave: **Amazon España no aparece en la lista oficial de distribuidores de España**, de modo que un anuncio en esa plataforma requiere máxima cautela.",
+        "En México están autorizados Mercado Libre, Home Depot, Liverpool, Coppel, Office Depot, Radio Shack y Steren —y **Amazon México tampoco aparece en la lista oficial de México**. En Mercado Libre compra siempre dentro de la tienda oficial de Starlink y nunca a terceros sueltos. Para distinguir perfiles legítimos, revisa [si Starlink es fiable y cómo comprobar quién vende](/es/reviews/starlink-es-fiable)."
+      ],
+      "checklist": {
+        "title": "Cinco comprobaciones antes de comprar tu antena",
+        "items": [
+          "Comprobé mi dirección en starlink.com desde el enlace de referido para ver alquiler a 0 € u oferta local antes de mirar tiendas.",
+          "Verifiqué en pantalla el aviso de referido aplicado (y en México, frente a la referencia de MX$ 700 de noviembre, confirma el importe mostrado en tu pantalla de pedido antes de pagar).",
+          "Si elegí una tienda física o Mercado Libre, comprobé que figure en la lista oficial y pertenezca a la tienda oficial de Starlink.",
+          "Descarté kits usados o abiertos sin prueba de liberación en la cuenta anterior y fuera del bloqueo de 90 o 120 días.",
+          "Guardé captura de la cuota mensual, el compromiso si aplica y la regla de 30 días antes de pagar."
+        ]
+      },
+      "links": [
+        {
+          "label": "Abrir pedido oficial con 45 € (ES) o bono tras 2 ciclos",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Pantalla oficial de pedido en starlink.com con el aviso verde Referral Code Applied confirmando el crédito aplicado",
+        "caption": "Confirmación verde de código de referido aplicado en starlink.com (captura de referencia); solo aparece al iniciar en el sitio oficial.",
+        "objectFit": "contain",
+        "aspectRatio": 0.8747
+      }
+    },
+    {
+      "heading": "Veredicto: dónde conviene comprar en cada caso",
+      "paragraphs": [
+        "Para nuevos clientes en España y México, contratar en starlink.com mediante el enlace de referido es la opción más rentable y sencilla: protege el crédito posterior en factura (45 € en España o MX$ 700 como referencia publicada en noviembre en México; confirma el importe mostrado en tu pantalla de pedido antes de pagar), habilita el alquiler a 0 € en España y mantiene devolución y suscripción bajo el mismo soporte durante 30 días.",
+        "Acudir a El Corte Inglés, MediaMarkt, PcComponentes, Liverpool o Mercado Libre solo merece la pena cuando necesitas entrega física inmediata o quieres usar financiación o saldo de esa tienda, comprando en canal autorizado y asumiendo que pierdes el bono de referido."
+      ],
+      "emphasis": "Pedir en starlink.com con enlace de referido une la devolución unificada de 30 días, el alquiler a 0 € en España y el crédito tras dos ciclos pagados (45 € en España; MX$ 700 de referencia en noviembre en México —confirma el importe mostrado en tu pantalla de pedido antes de pagar—); Amazon ES y Amazon MX no constan en la lista oficial."
+    },
+    {
+      "heading": "Preguntas frecuentes",
+      "bullets": [
+        "¿Sirve el enlace de referido si compro en MediaMarkt, El Corte Inglés o Mercado Libre? No. El programa exige iniciar el alta directamente en starlink.com mediante el enlace de referido; los kits de tiendas, marketplaces y traspasos quedan fuera.",
+        "¿Está Amazon en la lista oficial de Starlink en España o México? No. En la consulta oficial, ni Amazon España ni Amazon México figuran entre los distribuidores autorizados. En España constan El Corte Inglés, MediaMarkt, PcComponentes, FNAC y Costco; en México, Mercado Libre, Home Depot, Liverpool, Coppel, Office Depot, Radio Shack y Steren.",
+        "¿Cuánto da el referido en España y en México? En España el crédito oficial vigente es de 45 € tras dos ciclos pagados y aparece en el resumen del pedido; en México el importe varía según el país y el momento, por lo que debes confirmar el importe mostrado en tu pantalla de pedido antes de pagar (en la comparativa superior figura la referencia actual) porque entra como crédito en factura después de dos ciclos.",
+        "¿Cómo funcionan los 30 días si compro en tienda? En starlink.com devuelves el kit sin daños y cancelas para reembolso del hardware y la primera cuota según los términos del pedido. En tienda, la devolución del equipo depende del comercio y la baja del servicio se tramita aparte en Starlink.",
+        "¿Qué pasa si compro un kit usado o de una tienda no autorizada? Un equipo sin liberar tras el plazo de 90 o 120 días no se puede activar, y el hardware de vendedores no autorizados infringe los términos y puede provocar la suspensión inmediata del servicio."
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "affiliate": "starlink",
+  "editorialNote": "Elaborado con el centro de ayuda oficial, el directorio de distribuidores autorizados y pantallas públicas de pedido de starlink.com. Participamos en el programa de referidos de Starlink y podemos recibir la misma recompensa si te das de alta por primera vez con nuestro enlace y mantienes dos ciclos pagados.",
+  "relatedArticles": [
+    {
+      "slug": "starlink-enlace-referido-como-funciona"
+    },
+    {
+      "slug": "starlink-es-fiable"
+    },
+    {
+      "slug": "starlink-mini-o-estandar-cual-elegir"
+    },
+    {
+      "slug": "planes-starlink-100-200-mbps-o-max"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "eres cliente nuevo y quieres asegurar el crédito de referido tras dos ciclos pagados y el alquiler gratuito en España desde starlink.com.",
+      "prefieres gestionar compra, envío y posible devolución en 30 días en un único flujo directo con Starlink."
+    ],
+    "skipIf": [
+      "necesitas recoger la antena hoy mismo en una tienda autorizada de España o México y aceptas renunciar al bono de referido.",
+      "el anuncio procede de un vendedor no autorizado (o de Amazon ES/MX fuera de lista) o es un kit usado sin transferencia liberada."
+    ]
+  },
+  "cta": {
+    "text": "Revisa planes, alquiler o compra de hardware y el bono en factura tras dos ciclos pagados en starlink.com (45 € en España; en México MX$ 700 como referencia de noviembre —confirma el importe en tu pantalla de pedido antes de pagar—), manteniendo los 30 días de prueba.",
+    "label": "Comprobar mi dirección con 45 € (ES) o bono tras 2 ciclos",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  }
+}

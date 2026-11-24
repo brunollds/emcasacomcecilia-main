@@ -1,0 +1,314 @@
+{
+  "id": 1439,
+  "slug": "starlink-plans-100-200-max-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "starlink-planos-residenciais",
+  "title": "Starlink 住宅方案比較：海外 100 Mbps、200 Mbps、Max 與馬來西亞混合制差異",
+  "seoTitle": "Starlink 100 Mbps、200 Mbps 與 Max 方案比較",
+  "type": "選擇指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "編輯與分析",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編輯與分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "Starlink 目前沒有繁體中文住宅訂購頁。本文比較海外常見的 100 Mbps、200 Mbps、Max 三檔方案與馬來西亞買斷／租賃混合實例，涵蓋天線差異、官方速率規格與換約規則。",
+  "metaDescription": "比較 Starlink 住宅 100 Mbps、200 Mbps 與 Max：說明官網無中文住宅頁現況、美國與歐洲價格、馬來西亞買斷對比租賃、DOC-1470-99699-90 官方速率、換方案限制與推薦獎勵條件。",
+  "publishedAt": "2026年11月24日",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-plans-100-200-max-zh-hant-capa.webp",
+  "imageAlt": "黑色面板標示 STARLINK 與「100、200 Mbps 還是 Max？」標題，右側搭配藍天下安裝於木屋屋頂的 Starlink 天線官方照片的選擇指南封面。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Starlink 目前沒有繁體中文或簡體中文住宅訂購頁（台灣、香港與中國大陸亦未開放一般住宅直營），海外用戶需依安裝地址在英文或當地頁面查看方案：歐美多數市場分為 100 Mbps、200 Mbps 與 Max，連帶影響天線規格與免費安裝；馬來西亞吉隆坡則採 100 Mbps 買斷與 Max 零元租賃混合制。透過推薦連結在 starlink.com 首購，可保留同價與 30 天退貨保障，並於兩個計費週期後獲得所在地推薦獎勵，詳見下方對照與試算。"
+      ],
+      "links": [
+        {
+          "label": "以我的地址查看住宅方案（滿兩期帳單享推薦抵扣）",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "沒有中文住宅頁時，海外 100 / 200 / Max 與馬來西亞實例怎麼比",
+      "paragraphs": [
+        "先釐清平台現況：Starlink 官網語言選單目前僅提供英文、馬來文、日文、韓文、阿拉伯文與主要歐洲語言，並沒有繁體中文或簡體中文住宅頁面；新加坡與馬來西亞僅顯示 English 與 Melayu，而台灣、香港與中國大陸仍無一般消費者住宅直營下單頁。對在北美、歐洲或東南亞申裝的中文讀者而言，真正重要的是輸入實際使用地址後，系統是提供「三檔分級」還是「買斷／租賃混合」。",
+        "以美國內華達州與歐洲（葡萄牙、西班牙、法國）為例，100 Mbps、200 Mbps 與 Max 均採硬體零元租賃（取消時須歸還設備）；馬來西亞吉隆坡同一地址則並排顯示兩種模式：100 Mbps 月費 RM 135，必須購買 Mini X（RM 900），而 Max 月費 RM 235，改為 Rental Kit (Mini X) 租賃 RM 0（運費同為 RM 89，兩者皆無 12 個月合約；首月月費均於開通或送達後 7 天起計）。提醒一點：推薦獎勵屬於兩個完整計費週期後的帳單抵免（美國官方舉例為 US$ 100；馬來西亞目前僅見第三方整理之 11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額），不會在結帳當天折減套件價格。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "地區與方案",
+          "月費（優惠／原價）",
+          "硬體、安裝與合約條件",
+          "推薦獎勵參考（滿 2 個月）"
+        ],
+        "rows": [
+          [
+            "美國（內華達）：100 / 200 / Max",
+            "US$ 38.50→55 / 59.50→85 / 91→130",
+            "租賃 $0（100 附 V5+Router Mini・安裝 $99 選配；200/Max 專業安裝 $0），無年約",
+            "US$ 100（官方明列金額，約抵 100 Mbps 優惠價 2.6 個月）"
+          ],
+          [
+            "歐洲（西／法／葡）：100 / 200 / Max",
+            "24,50 €→35 € / 31,50 €→45 € / 45,50 €→65 €",
+            "租賃 0 €（100 附 Mini X；200/Max 換 Standard 4；僅 Max 安裝 0 €），無年約",
+            "45 €（約抵 100 Mbps 優惠月費 1.8 個月）"
+          ],
+          [
+            "馬來西亞（吉隆坡）：100 Mbps",
+            "RM 135／月",
+            "買斷 Mini X RM 900＋運費 RM 89（當日 RM 989），無 12 個月合約",
+            "11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額"
+          ],
+          [
+            "馬來西亞（吉隆坡）：Max",
+            "RM 235／月",
+            "Rental Kit (Mini X) 租賃 RM 0＋運費 RM 89（取消須退還），無 12 個月合約",
+            "11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額"
+          ]
+        ],
+        "caption": "取自各國公開訂購頁面之範例對照（2026 年 11 月 23 日查詢）。無中文官方頁面時請以當地語言訂購摘要為準，推薦抵免不降低下單當日設備款。"
+      },
+      "simulator": {
+        "title": "試算：海外三檔制與馬來西亞混合制差異",
+        "scenarios": [
+          {
+            "label": "美國 100 Mbps（租賃 $0）＋推薦連結",
+            "lines": [
+              {
+                "label": "硬體租賃（Starlink V5 + Router Mini）",
+                "value": "US$ 0（取消須歸還，運費 US$ 20＋稅）"
+              },
+              {
+                "label": "優惠月費（原價 US$ 55）",
+                "value": "US$ 38.50／月"
+              },
+              {
+                "label": "滿兩個月後官方推薦抵免",
+                "value": "-US$ 100（帳單抵免或現金）",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "獎勵相當於優惠月費",
+            "totalValue": "約 2.6 個月",
+            "note": "官方說明文件明確以美國 US$ 100 為例；保留 30 天退貨保障。"
+          },
+          {
+            "label": "馬來西亞 100 Mbps（買斷 Mini X）＋推薦連結",
+            "lines": [
+              {
+                "label": "Mini X 設備買斷＋運費（當日付款）",
+                "value": "RM 989（RM 900＋RM 89）"
+              },
+              {
+                "label": "100 Mbps 月費（無 12 個月合約）",
+                "value": "RM 135／月（開通或送達後 7 天起計）"
+              },
+              {
+                "label": "滿兩個月後推薦抵免",
+                "value": "11 月參考金額 RM 180（付款前請在訂單頁面確認實際金額）",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "首日硬體買斷支出",
+            "totalValue": "RM 989（設備歸屬用戶）",
+            "note": "首日僅付硬體與運費 RM 989，首月月費於開通或送達後 7 天起計；獎勵不折減結帳設備款。"
+          },
+          {
+            "label": "馬來西亞 Max 租賃或無連結／經銷商購買",
+            "lines": [
+              {
+                "label": "馬來西亞 Max（Rental Kit RM 0＋運費）",
+                "value": "RM 89（月費 RM 235，取消須歸還）"
+              },
+              {
+                "label": "經銷商／無連結下單之推薦抵免",
+                "value": "0（結帳後無法補登）"
+              },
+              {
+                "label": "透過連結與否的差距",
+                "value": "美國 US$ 100／馬來西亞 11 月參考金額 RM 180（付款前請在訂單頁面確認實際金額）",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "未經推薦連結可領獎勵",
+            "totalValue": "0",
+            "note": "經銷商套件與電商平台訂單均不具推薦資格。"
+          }
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+        "alt": "Starlink 馬來西亞吉隆坡英文訂購頁，顯示 100 Mbps 每月 RM 135 與 Mini X 買斷價 RM 900",
+        "caption": "馬來西亞吉隆坡訂購畫面：同一地址呈現 100 Mbps 買斷 Mini X 與 Max 租賃兩種機制。",
+        "objectFit": "contain",
+        "aspectRatio": 0.9898
+      }
+    },
+    {
+      "heading": "除了 Mbps 之外還差在哪：天線（Mini 與 Standard）、合約與安裝費",
+      "paragraphs": [
+        "在多數海外 100 / 200 / Max 市場裡，方案分級會直接連動你收到的硬體世代與安裝福利。在葡萄牙、西班牙、法國、德國、義大利與英國，100 Mbps 搭配緊湊型 Mini X（0 €／£0 租賃，選配專業安裝 172 €／£74），但選到 200 Mbps 與 Max 時會改發較大的 Standard 4（0 €／£0 租賃），且只有 Max 免除 172 €／£74 的專業安裝費。在美國內華達，100 Mbps 搭配 Starlink V5 + Router Mini（專業安裝 $99 選配），200 Mbps 即改為 Starlink V4 + Router 4 並免去 $99 安裝費，Max 則附 Standard 4 X 與額外贈送一台 $0 的 Router Mini。",
+        "合約條款也高度取決於地區與方案：巴西 Residencial 100 Mbps 買斷 Mini X 不綁 12 個月約，但 Max 的補貼套件卻強制綁約 12 個月並設提前解約違約金；墨西哥 Standard 4 X 同樣有 12 個月期限；而德國則註明為按月自動續約、無固定期限且免費取消；馬來西亞則在同一頁讓 100 Mbps 買斷、Max 租賃。關於各國解約與退還規範可看[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)，關於 Mini 內建路由器與 Standard 分離式路由器的耗電與覆蓋差異可看[Starlink Mini 與 Standard 比較](/zh-hant/reviews/starlink-mini-or-standard-zh-hant)。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Starlink 官方天線與獨立路由器套件示意圖",
+        "caption": "不同地區與方案會決定收到 Mini 系列或 Standard 4 套件，進而影響 Wi-Fi 覆蓋與電源功耗。照片：Starlink",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "官方速率與延遲規格（DOC-1470-99699-90、說明中心 886607c4 與舊表 DOC-1414-37800-64）",
+      "paragraphs": [
+        "查對速度時必須區分 Starlink 現行規格文件（[DOC-1470-99699-90](https://starlink.com/legal/documents/DOC-1470-99699-90?regionCode=US)）與舊版文件（[DOC-1414-37800-64](https://starlink.com/legal/documents/DOC-1414-37800-64)）。依官方說明中心 886607c4 公告，Starlink 已在美國、巴西、歐洲等市場將原本的 Residential 更名為 Residential Max，並將原本的 Residential Lite 更名為 Residential 100 Mbps。現行 DOC-1470-99699-90 清楚列出 100 Mbps（下載 80–100 Mbps 上限）、200 Mbps（下載 80–200 Mbps 上限）與 Max（下載 80–400 Mbps，說明中心 886607c4 標示典型最高 400+ Mbps），三者上傳皆為 15–35 Mbps（Max 在說明中心標示 20–40 Mbps）、延遲低於 50 ms、可用性 ≥99%。",
+        "許多網路舊文章之所以仍寫「25–100 Mbps」，是因為舊版法務文件 DOC-1414-37800-64 僅列單一「STANDARD (FIXED)」條目（下載 25–100 Mbps、上傳 5–10 Mbps、延遲 25–60 ms、一般正文寫 25–220 Mbps）。實務選購原則（非本站實測）：1–2 人遠距辦公、視訊會議與備援網路選 100 Mbps 通常已足夠；3–4 人多裝置同時 4K 串流或頻繁下載可考慮 200 Mbps；大家庭或需要最高上限與免費歐美安裝則選 Max。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "官方方案規格類別",
+          "下載速率範圍",
+          "上傳速率範圍",
+          "延遲、可用性與官方來源"
+        ],
+        "rows": [
+          [
+            "Residential 100 Mbps（更名市場之原 Lite）",
+            "80–100 Mbps（限速 100 Mbps）",
+            "15–35 Mbps",
+            "<50 ms · ≥99%（DOC-1470-99699-90 / 886607c4）"
+          ],
+          [
+            "Residential 200 Mbps",
+            "80–200 Mbps（限速 200 Mbps）",
+            "15–35 Mbps",
+            "<50 ms · ≥99%（DOC-1470-99699-90 / 886607c4）"
+          ],
+          [
+            "Residential Max（原 Residential）",
+            "80–400 Mbps（說明中心典型 400+ Mbps）",
+            "15–35 Mbps（說明中心 20–40 Mbps）",
+            "<50 ms · ≥99%（DOC-1470-99699-90 / 886607c4）"
+          ],
+          [
+            "Residential Lite（保留 Lite 名稱市場）",
+            "80–200 Mbps",
+            "15–35 Mbps",
+            "<50 ms · ≥99%（DOC-1470-99699-90）"
+          ],
+          [
+            "舊表 Standard (Fixed)（歷史對照）",
+            "25–100 Mbps（全文 25–220 Mbps）",
+            "5–10 Mbps（全文 5–20 Mbps）",
+            "25–60 ms · ≥99%（舊 DOC-1414-37800-64）"
+          ]
+        ],
+        "caption": "依據 Starlink DOC-1470-99699-90、說明中心 886607c4 與舊表 DOC-1414-37800-64 整理；支援待機模式地區之上下行最高 500 Kbps。"
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "安裝在屋頂且視野無遮擋的 Starlink 天線",
+        "caption": "不論選擇 100 Mbps、200 Mbps 或 Max，都必須確保天線面對開闊無遮擋的天空。照片：Starlink",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      }
+    },
+    {
+      "heading": "更換方案規則（00:00 UTC 截止、立即 vs 到期日、租賃鎖定與優惠風險）",
+      "paragraphs": [
+        "在選第一檔還是最高檔之前，務必先看懂 Starlink 官方更換服務方案的限制。計費一律以世界協調時間（UTC）運作，截單時間為帳單日 00:00 UTC（相當於台北／香港／吉隆坡／北京時間上午 8:00）；超過午夜 UTC 才送出的變更會順延到下一個計費日才生效。系統內變更會提供兩個選項：「立即生效（NOW／對應馬上切換）」或「指定日期生效（DATE／即本計費週期結束日）」。升級為較高價方案時，選立即生效會馬上啟用新速度與新價格，選到期日則於下期開始；但降級為較低價方案時，若選立即生效會即刻降檔且剩餘天數不予退費，因此想把已付清的週期用完，必須選計費週期結束日（DATE）。",
+        "更重要的是兩項硬性限制：第一，Starlink 明確規定「採用硬體租賃方案的住宅與商業用戶無法透過自助介面更換方案」——這代表美國、歐洲與馬來西亞 Max 這類租賃訂單無法像買斷套件那樣自由在後台任意切換檔次。第二，切換方案可能導致原本的促銷折扣（如 30% 或 50% 優惠價）終止；若有 12 個月承諾方案則須聯繫客服並可能產生變更費或要求買斷硬體（此外欠費停權、尚未啟用或滿載售罄區域也無法切換為住宅方案）。",
+        "試用保險則是 30 天退貨規定：從付款到期日起 30 天內取消服務並將設備完好寄回，即可申請設備款（若有）與首月月費全額退費（請留意單純按取消不會自動退貨，須另辦退回並保存物流憑證）。透過[Starlink 推薦頁](/zh-hant/coupons/starlink)進入 starlink.com 下單，可在不改變官網價格與 30 天保障的前提下鎖定推薦資格（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額），經銷商與電商平台購買皆不適用。"
+      ],
+      "checklist": {
+        "title": "下單與選定方案前的 5 項檢查",
+        "items": [
+          "已在 starlink.com 輸入實際安裝地址，確認當地提供 100 / 200 / Max 或單一方案，以及硬體屬於買斷還是 0 元租賃。",
+          "已用 Starlink App 在預定安裝點測試天空遮擋，確認無樹枝或屋簷阻擋訊號。",
+          "已確認租賃套件無法自助換方案，且轉換方案可能終止優惠折扣，因此選定最貼合長期需求的檔次。",
+          "已截圖保存訂單摘要中的月費、原價與 30 天完整退貨退款條件。",
+          "已在付款前於同一瀏覽器視窗透過推薦連結開啟 starlink.com，並於訂單頁面核對所在地推薦獎勵金額。"
+        ]
+      },
+      "links": [
+        {
+          "label": "前往 starlink.com 查詢方案與滿兩期帳單推薦抵扣",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "總結：哪一檔住宅方案最值得選",
+      "paragraphs": [
+        "在歐洲與美國這類提供 100 / 200 / Max 且皆採 0 元租賃的市場，若你是 1–2 人工作使用或作為光纖備援，100 Mbps 最省預算；若在美國想拿 Standard V4 且免付 $99 專業安裝，200 Mbps 往往是甜蜜點；若在歐洲需要免費專業安裝或多人重度傳輸，則直接選 Max。在馬來西亞這類買斷與租賃並存的混合市場，若想低首付試用且可接受取消時歸還租賃設備就選 Max（首日僅付運費），若確定長期自用且偏好較低月費則選 100 Mbps 買斷 Mini X。"
+      ],
+      "emphasis": "由於租賃方案會限制自助換方案，且變更檔次可能取消促銷折扣，下單前就依人數、硬體歸屬（買斷或租賃）與免費安裝門檻一次選對方案，並從推薦連結進 starlink.com 保留 30 天退貨期，才是最穩妥的做法。"
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "為什麼 Starlink 官網找不到繁體中文住宅方案頁？ Starlink 目前的語言選單尚未提供繁體中文或簡體中文，台灣、香港與中國大陸也沒有開放一般住宅直營訂購，海外中文用戶需依安裝所在國的英文或當地語言頁面下單。",
+        "Starlink 100 Mbps、200 Mbps 與 Max 的官方實際規格差多少？ 依現行官方規格 DOC-1470-99699-90 與說明中心 886607c4，100 Mbps 下載為 80–100 Mbps 上限、200 Mbps 為 80–200 Mbps 上限、Max 為 80–400 Mbps（典型可達 400+ Mbps），三者延遲皆標示小於 50 ms、上傳 15–35 Mbps（Max 說明中心標示 20–40 Mbps）且數據不限量。",
+        "選了租賃硬體的方案之後還可以隨時降級或升級嗎？ 不一定。Starlink 說明明確指出採用硬體租賃選項的住宅與商業用戶無法透過自助方式更換方案，且更換方案也可能取消原本的促銷優惠價格。",
+        "變更方案時選「立即生效」與「計費週期結束日」有什麼差別？ Starlink 計費以 00:00 UTC（台北／吉隆坡時間上午 8 點）為日結點。降級時若選立即生效，剩餘天數不會退費；選計費週期結束日（DATE）則會繼續使用到本期結束才切換。",
+        "推薦獎勵一定要在訂單付款前啟用嗎？ 是的，必須在付款前於 starlink.com 透過推薦連結下單，滿兩個完整計費週期後才會以帳單抵免發放且不折減當日設備價；美國官方金額為 US$ 100，其他國家的實際金額請在付款前於自己的訂單頁面確認。"
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "已經確認所在國家頁面是三檔制或買斷／租賃混合制，想依裝置數、安裝費與合約條件一次選對方案。",
+      "願意先用 Starlink App 測好屋頂天空視野，並透過推薦連結在官網下單以保留 30 天退貨期與推薦獎勵。"
+    ],
+    "skipIf": [
+      "當地已有穩定且達標的有線光纖，沒有備援或搬遷到無寬頻地區的需求。",
+      "安裝環境周圍有高樓或茂密樹冠嚴重遮蔽天空，無法確保連線穩定。"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "以官網完全相同的價格下單，保留 30 天完整退貨退款保障，並於使用並付清兩個完整計費週期後獲得所在國家的帳單推薦抵免（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額）。",
+    "label": "滿兩期帳單領推薦抵扣並查看地址方案",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "本指南依據 Starlink 公開訂購頁、官方性能規格（DOC-1470-99699-90 與 DOC-1414-37800-64）及說明中心文件（886607c4 等）編寫。我們參與 Starlink 推薦計畫，透過本頁連結註冊並符合規則時可能獲得獎勵。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-cancel-zh-hant"
+    },
+    {
+      "slug": "starlink-referral-zh-hant"
+    },
+    {
+      "slug": "starlink-worth-it-zh-hant"
+    },
+    {
+      "slug": "starlink-mini-or-standard-zh-hant"
+    }
+  ]
+}

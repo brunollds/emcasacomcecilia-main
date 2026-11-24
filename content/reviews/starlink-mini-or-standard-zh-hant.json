@@ -1,0 +1,335 @@
+{
+  "id": 1428,
+  "slug": "starlink-mini-or-standard-zh-hant",
+  "translationKey": "starlink-mini-ou-padrao",
+  "locale": "zh-hant",
+  "title": "Starlink Mini 與 Standard（標準版 V4）怎麼選？規格、耗電、路由器與海外方案比較",
+  "seoTitle": "Starlink Mini vs Standard（V4）：規格與選購比較",
+  "type": "比較指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "編輯與分析",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編輯與分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "Starlink 目前在台灣、香港與中國大陸沒有住宅直購與中文介面。本文以官方規格與馬來西亞、美國、韓國實例，比較 Mini 與 Standard 的耗電、Wi-Fi 與路由器差異。",
+  "metaDescription": "Starlink Mini 還是 Standard（V4＋Router 3）？比較 25–40 W 與 75–100 W 耗電、Wi-Fi 5 與 Wi-Fi 6、網口數與 Router Mini 差異，並整理台港澳現況與海外訂購實例。",
+  "publishedAt": "2026年11月24日",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-mini-or-standard-zh-hant-capa.webp",
+  "imageAlt": "黑色面板標示 STARLINK 與「Starlink Mini 還是 Standard？」標題，右側搭配附支架的 Starlink Standard 天線與直立式路由器官方照片的比較文章封面。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "Starlink Mini（結帳常標示為 Mini X）把 Wi-Fi 5 路由器直接做進天線裡，體積小且平均耗電僅 25–40 W，最適合小宅、陽台簡便安裝、行動攜帶或接 UPS 不斷電系統備援。Starlink Standard（V4／第 3 代）搭配獨立的 Router 3，具備 Wi-Fi 6 三頻、最高 297 m² 室內覆蓋與 2 個有線網路埠，更適合多樓層住宅與高密度連網。需先提醒的是，Starlink 目前沒有繁體中文介面，在台灣、香港與中國大陸也沒有一般住宅官網直購；若你在海外透過官方推薦連結下單，兩種套件都能適用推薦獎勵，付款前請務必在訂購頁確認實際金額與硬體模式。"
+      ],
+      "links": [
+        {
+          "label": "查看我的地址配發套件（滿兩期帳單享推薦抵扣）",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "沒有中文官網時，海外訂購頁怎麼配對這兩款硬體？",
+      "paragraphs": [
+        "打開 Starlink 官網的語言選單，目前找不到繁體中文或簡體中文，台灣、香港與中國大陸也沒有開放住宅服務直購頁面。因此海外華語用戶通常會在英文或當地語言介面輸入地址下單，而系統往往會根據「國家」與「方案」決定你能拿到 Mini 還是 Standard。",
+        "我們在 2026 年 11 月 23 日實測多個海外公開地址後發現三種常見做法：第一種是「同地址依方案拆開買斷或租賃」，例如馬來西亞吉隆坡同一個地址上，100 Mbps 方案（月費 RM 135）要求買斷 Mini X（RM 900，含運費 RM 89 今日實付 RM 989），而 Max 方案（月費 RM 235）則提供 Rental Kit (Mini X) RM 0 租賃（今日僅付運費 RM 89，取消時須歸還）。第二種是「依方案切換天線」，例如美國內華達州在 100 Mbps（US$ 38.50／月）提供 Starlink V5 + Router Mini 租賃 US$ 0，到了 200 Mbps 與 Max 才換成 V4／Standard 4 X 套件；第三種則是「由買家自由點選硬體」，例如韓國首爾頁面可自由選購 Mini（₩160,000）或 Standard 4 X（₩275,000）。關於各國合約與歸還規則，可參考[Starlink 合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+      ],
+      "comparisonTable": {
+        "caption": "2026 年 11 月 23 日於 starlink.com 各海外公開訂購頁讀取的硬體配對範例，實際條件以你的地址為準。",
+        "headers": [
+          "海外市場範例",
+          "訂購頁提供的硬體",
+          "取得方式與價格",
+          "取消或合約條款"
+        ],
+        "rows": [
+          [
+            "馬來西亞（吉隆坡 100 Mbps）",
+            "Mini X",
+            "買斷 RM 900（月費 RM 135，運費 RM 89）",
+            "無 12 個月綁約，30 天內退貨條件適用"
+          ],
+          [
+            "馬來西亞（吉隆坡 Max）",
+            "Rental Kit (Mini X)",
+            "租賃 RM 0（月費 RM 235，運費 RM 89）",
+            "無 12 個月綁約，取消服務須歸還租賃設備"
+          ],
+          [
+            "美國（內華達 100 Mbps／Max）",
+            "V5 + Router Mini ／ Standard 4 X + Router Mini",
+            "租賃 US$ 0（月費 US$ 38.50／US$ 91）",
+            "無年約，取消服務須歸還租賃設備"
+          ],
+          [
+            "韓國（首爾 100Mbps／Max）",
+            "Mini 或 Standard 4 X 自由選",
+            "買斷 Mini ₩160,000 ／ Standard 4 X ₩275,000",
+            "無綁約字樣，30 天內完好退回可申請退款"
+          ]
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+        "alt": "馬來西亞吉隆坡的 Starlink 英文訂購畫面，顯示 100 Mbps 方案每月 RM 135 與買斷 Mini X 價格 RM 900",
+        "caption": "馬來西亞吉隆坡（英文介面範例）：同一地址上 100 Mbps 採購買 Mini X（RM 900），Max 則改為 RM 0 租賃。",
+        "objectFit": "contain",
+        "aspectRatio": 0.9898
+      }
+    },
+    {
+      "heading": "官方規格對比：Starlink Mini vs Standard（V4＋Router 3）",
+      "paragraphs": [
+        "不要只看外觀大小：兩代硬體在路由器架構、供電功耗、Wi-Fi 世代、網路埠數量與防水設計上完全不同。以下數據全數取自 [Starlink 官方硬體規格頁面](https://www.starlink.com/specifications)，沒有自行估算數字。"
+      ],
+      "comparisonTable": {
+        "caption": "Starlink Mini 與 Starlink Standard V4（含 Router 3）官方規格比較。",
+        "headers": [
+          "規格項目",
+          "Starlink Mini",
+          "Starlink Standard V4＋Router 3"
+        ],
+        "rows": [
+          [
+            "天線尺寸",
+            "298.5 × 259 × 38.5 mm",
+            "594 × 383 × 39.7 mm"
+          ],
+          [
+            "重量（本體／含支架／含支架與 15 m 線材）",
+            "1.10 kg ／ 1.16 kg（含支架）／ 1.53 kg（含支架與 15 m DC 電源線）",
+            "2.9 kg ／ 3.2 kg（含支架）／ 3.8 kg（含支架與 15 m 線材）"
+          ],
+          [
+            "平均耗電量",
+            "25–40 W（支援 12–48 V 60 W 輸入及 USB PD 最低 100 W 20 V/5 A）",
+            "75–100 W（附交流電源線 1.5 m 與 IP66 Type 4 電源供應器）"
+          ],
+          [
+            "路由器設計",
+            "整合於天線內部（可另搭 Router Mini 擴充）",
+            "獨立外接 Router 3（43.4 × 298.6 × 120.4 mm，0.57 kg，IP56 室內）"
+          ],
+          [
+            "Wi-Fi 規格與覆蓋面積",
+            "內建 Wi-Fi 5（Dual Band 3×3 MU-MIMO），最高 112 m²、128 台裝置",
+            "Router 3 提供 Wi-Fi 6 三頻 4×4 MU-MIMO，最高 297 m²、235 台裝置"
+          ],
+          [
+            "有線 Ethernet 連接埠",
+            "1 個帶鎖 LAN 埠與防水塞（原廠 Mini 網路線須另購）",
+            "Router 3 具備 2 個帶鎖 LAN 埠（盒內已附 15 m Starlink 主線）"
+          ],
+          [
+            "防塵防水等級（IP）",
+            "IP67 Type 4（若改插一般 RJ45 網路線會失去 IP67 防護）",
+            "天線 IP67 Type 4／電源 IP66 Type 4／Router 3 室內 IP56"
+          ],
+          [
+            "Bypass 模式與 Mesh",
+            "支援 Bypass（須恢復原廠設定才能退出）；僅相容 Starlink Mesh（最多 3 節點，不相容第三方 Mesh）",
+            "支援 Bypass；僅相容 Starlink Mesh（最多 3 節點，不相容第三方 Mesh）"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "前往 starlink.com/specifications 查看官方硬體規格",
+          "href": "https://www.starlink.com/specifications"
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Starlink Standard V4 天線與分離式 Router 3 路由器官方圖片",
+        "caption": "Starlink Standard V4 天線與獨立放置的 Router 3，能把無線基地台拉進室內中心點。",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "室內訊號穿透、不斷電系統（UPS）與有線佈線實務",
+      "paragraphs": [
+        "依實務經驗整理（依據官方規格推導，非本站現場實測）：在鋼筋混凝土隔間較多的住宅裡，Starlink Mini 把 Wi-Fi 5 路由器藏在戶外的天線內部，無線訊號得先穿過外牆才能進到客廳，標稱 112 m² 在穿牆後會再縮水。如果你的用途是在大房子穩定連線，要嘛把外接天線透過纜線拉進室內獨立路由器，要嘛在美國或支援套件上加裝官方 Router Mini（83.6 × 138 × 27 mm、僅 112 g、室內專用，支援 Wi-Fi 6 最高 204 m² 與 235 台裝置，並帶 2 個 1 Gbps RJ-45 埠）組成 Starlink Mesh。",
+        "反過來看，如果你主要想把 Starlink 當作光纖不穩時的備援網路、或在停電時靠行動電源站與 UPS 撐過斷電期，Mini 的低功耗就非常關鍵：平均 25–40 W 只有 Standard（75–100 W）的一半左右，加上 Mini 原生接受 12–48 V DC 輸入與 100 W USB PD 供電（搭配官方線材），同一顆電站能撐的時間明顯拉長。",
+        "另外要注意有線連接與雙 WAN（Dual-WAN）故障轉移：Mini 機身帶 1 個帶鎖 Ethernet LAN 埠，原廠網線須另購，一旦在戶外直接插入市面一般 RJ45 水晶頭就會破壞 IP67 Type 4 防水密封；Standard V4 的 Router 3 本身就放在室內且內建 2 個 LAN 埠，需要拉有線接 NAS、監視器主機或切換至 Bypass 模式接自備路由器時更省事。兩者皆支援透過有線使用 Bypass 模式（注意 Mini 退出 Bypass 須恢復原廠設定），官方 Mesh 最多僅能串接 3 個 Starlink 官方節點（相容 Router Mini、Router 3 與第 2 代路由器，不相容第三方品牌無線 Mesh）。不同速率方案的比較請見[Starlink 住宅方案 100 Mbps、200 Mbps 與 Max 比較](/zh-hant/reviews/starlink-plans-100-200-max-zh-hant)。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Starlink Standard V4 完整套件內容：天線本體、Router 3、底座、電源供應器與 15 m 連接線",
+        "caption": "Starlink Standard V4 完整配件內容：天線、獨立路由器 Router 3、電源模組與線材。照片：Starlink",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "推薦獎勵怎麼算？適用資格、計費週期與各國金額確認方式",
+      "paragraphs": [
+        "只要你的初始訂單是從 starlink.com 的推薦連結開出，不論系統配給的是 Mini 還是 Standard，都符合住宅與旅行方案的推薦資格。以美國為例，官方說明中心舉例的獎勵金額為 US$ 100；而以馬來西亞為例，11 月參考金額 RM 180 為公開市場發布的參考數值，各地實際發放金額會隨註冊國家與幣別變動，請務必在付款前於自己的訂購頁確認畫面顯示的實際金額。更多運作細節請見[Starlink 推薦連結說明頁](/zh-hant/coupons/starlink)。",
+        "推薦獎勵是在你讓服務保持有效並按時付清兩個完整計費週期後，才以帳單抵扣的形式入帳（在支援的地區亦可透過 Stripe 領取現金），絕對不會在結帳時直接折抵硬體套件或運費價格。無論你在馬來西亞 100 Mbps 買下 RM 900 的 Mini X，或在韓國買下 ₩160,000／₩275,000 的套件，下單當天都須全額支付訂單頁面顯示的總額。",
+        "如果你在經銷商或電商平台（例如馬來西亞的 Harvey Norman、SenHeng 或第三方賣家）單獨買了未經官網訂購的硬體套件再到 App 啟用，不但享受不到官網特定方案的 RM 0 或 US$ 0 租賃，也無法補登推薦獎勵。購機通路比較請看[Starlink 官網買還是電商・實體店買比較好](/zh-hant/reviews/starlink-buy-official-or-retail-zh-hant)。"
+      ],
+      "simulator": {
+        "title": "試算：海外市場下單與通路差異",
+        "scenarios": [
+          {
+            "label": "馬來西亞 100 Mbps 買斷 Mini X（推薦連結）",
+            "lines": [
+              {
+                "label": "Mini X 設備買斷＋運費",
+                "value": "RM 900 ＋ RM 89"
+              },
+              {
+                "label": "100 Mbps 月費",
+                "value": "RM 135／月"
+              },
+              {
+                "label": "滿兩個週期後推薦抵扣",
+                "value": "11 月參考金額 RM 180（付款前請確認訂購頁）",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "下單當天實付金額",
+            "totalValue": "RM 989",
+            "note": "獎勵不會減少當天的 RM 989 付款，而是兩個週期後進入帳單抵扣；付款前請在訂購畫面確認實際金額。"
+          },
+          {
+            "label": "美國內華達 Max（Standard 4 X 租賃＋推薦連結）",
+            "lines": [
+              {
+                "label": "Standard 4 X＋Router Mini 租賃",
+                "value": "US$ 0（取消須歸還）"
+              },
+              {
+                "label": "Max 月費（例）",
+                "value": "US$ 91／月（原價 US$ 130）"
+              },
+              {
+                "label": "滿兩個週期後推薦抵扣",
+                "value": "US$ 100（官方說明中心美國範例）",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "下單當天實付（含運費）",
+            "totalValue": "US$ 20 ＋稅",
+            "note": "符合頁面條款下，30 天內取消服務並完好歸還設備可申請退還套件與首月費用。"
+          },
+          {
+            "label": "實體經銷商／電商平台買空機",
+            "lines": [
+              {
+                "label": "設備價格",
+                "value": "依店家全額購買（無官網 RM 0 租賃）"
+              },
+              {
+                "label": "推薦獎勵",
+                "value": "0（僅限 starlink.com 推薦連結訂單）"
+              },
+              {
+                "label": "退貨處理",
+                "value": "硬體須回原購買通路退貨，訂閱另行取消"
+              }
+            ],
+            "totalLabel": "可領取的推薦獎勵",
+            "totalValue": "0",
+            "note": "買到二手未解除綁定的機台，還會有無法啟用服務的風險。"
+          }
+        ]
+      },
+      "links": [
+        {
+          "label": "開啟官網訂購頁享 30 天試用與滿兩期帳單推薦抵扣",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "下單前必須確認的 5 件事",
+      "paragraphs": [
+        "在英文或當地語言介面的訂購頁付款前，花兩分鐘逐項確認以下細節，就能避開多數安裝與退換貨踩雷。"
+      ],
+      "checklist": {
+        "title": "結帳前 5 點檢查清單",
+        "items": [
+          "我已在預定架設位置開啟 Starlink App 完成天空遮蔽物檢查，確認沒有樹枝或建築遮擋。",
+          "我已確認輸入的地址在官網訂購頁顯示的硬體模式是「購買」還是「0 元租賃」，並知曉取消時是否須歸還。",
+          "若挑選 Mini，我已評估電源走線距離，以及是否需要另購原廠防水 Ethernet 線或室內 Router Mini。",
+          "我從本站推薦連結進入 starlink.com，並於付款前在訂購畫面核對實際顯示的推薦獎勵金額（例如美國 US$ 100 或馬來西亞 11 月參考金額 RM 180，付款前請以訂購頁顯示金額為準）。",
+          "我已截圖保存頁面上的月費、設備費與 30 天取消退還條款作為對帳依據。"
+        ]
+      }
+    },
+    {
+      "heading": "總結：你該選 Mini 還是 Standard？",
+      "paragraphs": [
+        "如果你的核心需求是陽台好安裝、攜帶移動、停電時接 UPS 或行動電源站長時間備援，或是你的居住空間不大，Starlink Mini（25–40 W、1.10 kg）在電費與施工便利性上贏很多。尤其在只能二選一買斷的地區（如韓國），價格差也能省下一筆初期預算。",
+        "如果你的房子格局大、牆壁厚、同時有十幾二十台以上設備加上有線裝置要接，而且當地（例如美國 200 Mbps／Max 或歐洲多數市場）直接給你 Standard 4 與 Router 3，不需要犧牲 Wi-Fi 6 三頻 297 m² 覆蓋與雙 LAN 埠。若還在評估是否申裝，也歡迎參考[Starlink 值得買嗎](/zh-hant/reviews/starlink-worth-it-zh-hant)。"
+      ],
+      "emphasis": "低耗電備援（25–40 W）與簡便安裝選 Mini；大坪數室內 Wi-Fi 6 覆蓋（297 m²）與有線雙 LAN 埠選 Standard V4。無論選哪款，付款前都要在自己地址的 starlink.com 訂購頁確認實際硬體條款與推薦金額。"
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "台灣、香港或中國大陸可以直接在官網買 Mini 或 Standard 嗎？目前 Starlink 語言選單沒有繁體中文或簡體中文，這三個地區在官網也尚未開放一般住宅直購服務。使用這篇比較指南的讀者大多是海外居留或旅行使用，須以當地語言與地址的訂購頁為準。",
+        "Starlink Mini 的網速會比 Standard 慢很多嗎？兩者在住宅方案中都能連線衛星網路，但 Standard 天線面積較大，在惡劣天氣或高負載下通常較有餘裕；實際下載與上傳表現仍取決於所在地區容量、遮蔽情況與所選方案上限。",
+        "只有 Mini 的內建 Wi-Fi 夠用嗎？Mini 內建 Wi-Fi 5（標稱最大 112 m²），如果天線裝在室外穿過厚實水泥牆，屋內角落訊號可能會變弱。大屋建議改選 Standard V4＋Router 3，或透過有線／Starlink Router Mini 延伸訊號。",
+        "買 Mini 或 Standard 都能拿到推薦獎勵嗎？可以，只要是在 starlink.com 透過推薦連結建立的新住宅或旅行方案訂單都符合資格，並於付清兩個完整計費週期後發放。美國官方說明中心舉例為 US$ 100，各地實際金額皆以你付款前訂購頁實際顯示為準。",
+        "Mini 可以直接插家裡一般的網路線連接路由器嗎？Mini 附有 1 個帶鎖 Ethernet LAN 埠（原廠網線須另購），在戶外改插一般 RJ45 接頭會失去 IP67 防水保護。兩者皆支援以有線方式啟用 Bypass 模式連接自備路由器或 Mesh（Mini 退出 Bypass 須恢復原廠設定），官方 Mesh 相容 Router Mini、Router 3 與第 2 代路由器（最多 3 節點，不相容第三方 Mesh）。"
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "你需要低功耗備援電源、陽台或攜帶式簡易安裝，且主要連線距離在單一空間內。",
+      "你的住家面積較大、有多面牆壁阻隔或須使用有線網路埠，並想利用獨立放置的 Wi-Fi 6 路由器。"
+    ],
+    "skipIf": [
+      "你目前的所在地已有穩定且達標的有線光纖，不需要額外衛星線路或備援線路。",
+      "你安裝地點的天空視野受高樓或茂密樹冠遮擋，無法在 App 障礙物檢測中找到開闊區域。"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "透過推薦連結進入 starlink.com，價格與官網完全相同，並能在下單前看清你的地址配發 Mini 還是 Standard、是否享有 30 天退還退款條款，以及付清兩個計費週期後發放的帳單推薦抵扣（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請確認訂購頁顯示）。",
+    "label": "滿兩期帳單領推薦抵扣並查看套件條件",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "本比較依 Starlink 官方硬體規格頁面、說明中心與公開訂購頁面整理而成。本站參與 Starlink 推薦計畫，若你經由推薦連結完成符合條件的訂閱，我們可能獲得獎勵。",
+  "relatedArticles": [
+    {
+      "slug": "starlink-cancel-zh-hant"
+    },
+    {
+      "slug": "starlink-worth-it-zh-hant"
+    },
+    {
+      "slug": "starlink-buy-official-or-retail-zh-hant"
+    },
+    {
+      "slug": "starlink-plans-100-200-max-zh-hant"
+    }
+  ]
+}

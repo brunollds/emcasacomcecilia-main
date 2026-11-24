@@ -1,0 +1,280 @@
+{
+  "id": 1418,
+  "slug": "starlink-buy-official-or-retail-zh-hans",
+  "translationKey": "starlink-onde-comprar",
+  "locale": "zh-hans",
+  "title": "Starlink 在官网还是马来西亚授权经销商、虾皮 Shopee、Lazada、Amazon 买？中国大陆与新马港澳台购买对比",
+  "seoTitle": "Starlink 官网下单 vs 授权经销商与虾皮 Lazada 对比",
+  "type": "购买指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Bruno Luiz",
+    "slug": "bruno-luiz",
+    "role": "编辑与分析",
+    "initials": "BL"
+  },
+  "authors": [
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "对比 starlink.com 推荐链接与授权经销商（如马来西亚 Harvey Norman、SenHeng）及虾皮、Lazada：说明推荐奖励资格、设备租用、30 天退货及中国大陆、港澳台与新加坡不在官方名单内的风险。",
+  "metaDescription": "Starlink 官网推荐链接 vs 马来西亚授权经销商与虾皮 Lazada 对比：推荐奖励资格、设备租用、30 天退货与二手转让锁定规则。",
+  "publishedAt": "2026年11月24日",
+  "publishedAtISO": "2026-11-24",
+  "updatedAt": "2026-11-24",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/starlink/starlink-buy-official-or-retail-zh-hans-capa.webp",
+  "imageAlt": "对比在 Starlink 官网与授权经销商或电商平台购买的封面图，图中展示 Starlink 标志与标准套件。",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "在支持 Starlink 服务的国家首次订阅时，通过推荐链接直接在 starlink.com 下单，通常比去门店或第三方电商平台买更省心、更安全。Starlink 目前没有简体中文官网界面，中国大陆、台湾、香港与新加坡也均无商家列在官方授权经销商名单（8a90222d）中。在马来西亚，官方名单包含 Harvey Norman、SenHeng、Courts 等八家，但只有 starlink.com 提供 Max 套餐设备租用、统一 30 天退货与付清两个计费周期后的推荐奖励（各地金额请以订购页显示为准）。"
+      ],
+      "links": [
+        {
+          "label": "通过推荐链接查看地址条件（满两期账单享推荐抵扣）",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "官网下单与授权经销商、电商平台到底差在哪里",
+      "paragraphs": [
+        "我们实地查看了 starlink.com 马来西亚吉隆坡、美国内华达等公开订购页面及官方授权经销商名单（未实际完成付款）。在不少市场，只有官网才有租用或组合优惠：比如吉隆坡同一地址上，Max 套餐在官网提供 Rental Kit (Mini X) RM 0 租用，而 100 Mbps 则是买断 Mini X RM 900；如果去实体店买套件，往往只能全款买断硬件，同时失去推荐奖励。",
+        "本文不引用任何第三方店铺售价，只对比官方订购页面和帮助中心写明的制度差异。文中提到的马来西亚 RM 180 属于第三方在 11 月发布的参考数据（11 月参考金额 RM 180），具体国家奖励以官网订单页面实时判定为准，付款前请以订购页显示金额为准。"
+      ],
+      "comparisonTable": {
+        "caption": "2026 年 11 月 23–24 日根据 starlink.com 订购页（吉隆坡与美国示例）及官方经销商名单（8a90222d）整理的结构对比，不含第三方售价。",
+        "headers": [
+          "对比项目",
+          "starlink.com（通过推荐链接）",
+          "官方授权经销商（如马来西亚 Harvey Norman、SenHeng）",
+          "虾皮 Shopee、Lazada 或未认证卖家"
+        ],
+        "rows": [
+          [
+            "推荐奖励（美国示例 US$ 100／马来西亚 11 月参考金额 RM 180，付款前请以订购页显示金额为准）",
+            "符合资格（付清两个完整计费周期后抵扣账单或按账户提供现金）",
+            "不符合（激活界面无法补填）",
+            "不符合"
+          ],
+          [
+            "硬件方式（租用 RM 0 vs 买断）",
+            "按地址显示（马来西亚 Max 可 RM 0 租用 Mini X，美国多套餐 $0 租用）",
+            "仅限全款购买硬件，无法享受官网租用模式",
+            "仅买断或掺杂二手转卖机"
+          ],
+          [
+            "30 天退货与退款流程",
+            "按订购页条款取消服务并完好寄回设备，在同一平台退还硬件与首月费用",
+            "硬件退货须找门店处理，服务取消须另向 Starlink 提交",
+            "受限于第三方卖家规则，售后与退换风险高"
+          ],
+          [
+            "设备绑定旧账户与无法激活风险",
+            "无风险（官网随订单全新发货）",
+            "未拆封新品风险低",
+            "较高（非授权渠道或未解绑的二手机无法激活）"
+          ],
+          [
+            "中国大陆、港澳台及新加坡官方名单状态",
+            "订购页目前无中文界面，需用当地英文地址查看是否开放服务",
+            "上述地区均无任何经销商列在 8a90222d 名单中",
+            "跨区水货或未认证货源存在无法激活或被停机风险"
+          ]
+        ]
+      },
+      "simulator": {
+        "title": "各购买渠道条件试算（以马来西亚吉隆坡及海外官网为例）",
+        "scenarios": [
+          {
+            "label": "starlink.com Max 套餐（马来西亚租用 + 推荐链接）",
+            "lines": [
+              {
+                "label": "Rental Kit (Mini X) 硬件模式",
+                "value": "RM 0 租用（取消服务时须归还）"
+              },
+              {
+                "label": "月费与运费（吉隆坡地址示例）",
+                "value": "月费 RM 235／运费 RM 89"
+              },
+              {
+                "label": "付清两个计费周期后的推荐奖励",
+                "value": "11 月参考金额 RM 180 — 付款前请以订购页显示金额为准",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "下单当日应付（马来西亚 Max 仅运费）",
+            "totalValue": "RM 89",
+            "note": "推荐奖励不会在结账当天抵减硬件或运费，而是在按时付清两个完整计费周期后计入账单。付款前请以订购页显示金额为准。"
+          },
+          {
+            "label": "starlink.com 100 Mbps（马来西亚买断 + 推荐链接）",
+            "lines": [
+              {
+                "label": "Mini X 硬件购买价（吉隆坡地址示例）",
+                "value": "RM 900（另加运费 RM 89）"
+              },
+              {
+                "label": "月费（100 Mbps 套餐）",
+                "value": "RM 135／月"
+              },
+              {
+                "label": "付清两个计费周期后的推荐奖励",
+                "value": "11 月参考金额 RM 180（美国示例 US$ 100）— 付款前请以订购页显示金额为准",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "下单当日应付（设备 + 运费）",
+            "totalValue": "RM 989",
+            "note": "30 天内按订购页条款取消服务并完好寄回设备，可退还设备与首月月费。付款前请以订购页显示金额为准。"
+          },
+          {
+            "label": "授权门店或电商平台单独买套件",
+            "lines": [
+              {
+                "label": "硬件取得方式",
+                "value": "仅买断（无法享受 Max RM 0 租用）"
+              },
+              {
+                "label": "推荐奖励资格",
+                "value": "0（门店／平台订单不计入，事后不可补加）",
+                "highlight": true
+              },
+              {
+                "label": "退货处理流程",
+                "value": "套件找门店退货，订阅需另外在 Starlink 取消"
+              }
+            ],
+            "totalLabel": "可获得的官方推荐奖励",
+            "totalValue": "0",
+            "note": "在虾皮 Shopee、Lazada 或实体店购买的设备，激活时不会出现推荐填写框。"
+          }
+        ]
+      },
+      "image": {
+        "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+        "alt": "马来西亚吉隆坡地址的 starlink.com 英文订购页面，显示 100 Mbps 每月 RM 135 与 Mini X RM 900",
+        "caption": "吉隆坡地址的 starlink.com 订购页面（英文界面）。RM 0 租用与推荐奖励仅在官网订单页有效。",
+        "objectFit": "contain",
+        "aspectRatio": 0.9898
+      }
+    },
+    {
+      "heading": "为什么实体店或电商买的套件无法补用推荐链接",
+      "paragraphs": [
+        "从授权经销商买回全新未拆封的套件后，通电接入天线即可通过 Starlink App 或 starlink.com/activate 激活，系统会给 1 小时的初始联网时间让你完成开户和订购流量套餐。但这个激活界面里并没有任何可填入推荐码或推荐链接的位置。",
+        "Starlink 的官方规则明确限定，推荐奖励只记录“新用户通过推荐链接直接在 starlink.com 创建的首次订单”。所有经由授权经销商、虾皮 Shopee、Lazada、Amazon 下单的设备，以及他人转让的账户，均不在推荐计划内，付款后联系客服也无法补登。具体流程见[Starlink 推荐链接使用教程](/zh-hans/reviews/starlink-referral-zh-hans)和[Starlink 推荐奖励页](/zh-hans/coupons/starlink)。"
+      ]
+    },
+    {
+      "heading": "二手转让与非授权渠道的风险：120 天／90 天冷却期与停机封锁",
+      "paragraphs": [
+        "在电商平台或个人手里淘 Starlink 套件，最容易踩坑的并不是快递时效，而是激活限制。Starlink 官方经销商支持页面明确提示：请务必在经销商开设的官方 Starlink 商店购买，从非授权店铺买到的硬件无法激活，并可能导致服务被立即暂停。",
+        "二手或转售设备还受到严格的账户转让冷却期约束：在 starlink.com 线上购买的设备，需等到购买满 120 天或激活满 90 天（以先到者为准）才可转让；从经销商渠道购买的设备，则必须等到激活满 90 天后才允许转让。只要原账户存在未结清欠费，或尚处于 30 天退货窗口期内，均无法办理转让；如果原机主或卖家没有把设备从原账户移除，买家拿到手后将无法激活。",
+        "退货与取消服务的责任划分也完全不同：在 starlink.com 订购，在 30 天内取消服务并完好退回设备，即可按订购页条款退还硬件与首月费用；而在经销商买到的套件，硬件退货必须直接找商家按门店政策处理，订阅取消则要另行到 Starlink 账户操作。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Starlink Standard 标准套件包含天线、路由器、底座与线缆的官方照片",
+        "caption": "Starlink 标准套件组件。通过第三方电商或个人卖家购买时，须警惕非授权货源及原账户未解绑风险。照片：Starlink",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
+    },
+    {
+      "heading": "各国官方授权经销商名单（8a90222d）核对与购买前检查清单",
+      "paragraphs": [
+        "查阅[Starlink 官方授权经销商名单](https://www.starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105)会发现各区域差异非常明显：中国大陆、台湾、香港与新加坡目前均没有任何商家进入官方名单，官网也没有中文订购界面；马来西亚则列明了 Harvey Norman、SenHeng、Courts、SNS Network、TMT、Gloo、IT World 与 PC Image（澳洲列有 Harvey Norman、JB Hi-Fi、Bunnings、Officeworks；美国列有 Best Buy、Home Depot、Amazon 以及 Walmart 内的 Starlink Store on Walmart）。",
+        "因此在马来西亚或海外平台如虾皮 Shopee、Lazada、Amazon 搜索硬件时，请一定要点进店铺主页核实它是否属于官方名单上的授权经销商直营 Starlink 店，切勿在来历不明的普通第三方店铺下单。关于如何辨别官网及防范钓鱼网址，可继续阅读[Starlink 靠谱吗？官网辨别指南](/zh-hans/reviews/starlink-trust-zh-hans)。"
+      ],
+      "checklist": {
+        "title": "下单前先核对这 5 项",
+        "items": [
+          "去线下店或电商平台比价前，先用推荐链接在 starlink.com 输入使用地址，确认是否有 RM 0 租用或本地活动。",
+          "确认自己是否打算获取官网推荐奖励（美国示例 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请以订购页显示金额为准），线下和电商订单不参加。",
+          "如果在马来西亚或海外经销渠道购买，已核对 8a90222d 官方名单并确认卖家是该授权经销商的官方 Starlink 商店。",
+          "确认并非中国大陆、港澳台或新加坡的未授权跨区水货，也不是受限 90 天／120 天转让条款或未解绑的二手机器。",
+          "在 starlink.com 付款前，已截图留存页面上的推荐已应用提示与 30 天退货退款条款。"
+        ]
+      },
+      "links": [
+        {
+          "label": "打开官网订购页并锁定满两期账单推荐抵扣",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "starlink.com 订购页显示 Referral Code Applied 推荐码已应用的官方截图示例（美国内华达）",
+        "caption": "starlink.com 订购页显示推荐码已应用的确认提示（美国示例）。只有官网直接下单才会出现这一提示并计入奖励。",
+        "objectFit": "contain",
+        "aspectRatio": 0.8747
+      }
+    },
+    {
+      "heading": "结论：哪种买法最省心、最稳妥",
+      "paragraphs": [
+        "只要你所在的国家（如马来西亚、美国、澳洲、日本或欧洲各国）已经支持 Starlink 住宅直营，通过推荐链接直接在 starlink.com 下单几乎始终强于门店和虾皮、Lazada。不仅因为中国大陆、港澳台与新加坡目前不在官方经销商名单内，更因为马来西亚 Max 套餐的 RM 0 租用和推荐抵扣（11 月参考金额 RM 180，付款前请以订购页显示金额为准）只存在于官网订单流程中；除非临时急用当天提货且确认店面在官方名单上，否则优先在官网完成下单最安全。"
+      ],
+      "emphasis": "中国大陆、台湾、香港与新加坡均不在 Starlink 官方授权经销商名单（8a90222d）内；马来西亚虽列有 Harvey Norman、SenHeng、Courts、SNS Network 等授权店，但 Max 套餐 RM 0 租用与推荐抵扣（11 月参考金额 RM 180，付款前请以订购页显示金额为准）只有通过推荐链接在 starlink.com 下单才有效。",
+      "emphasisAfterParagraph": 1
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "中国大陆、港澳台或新加坡有 Starlink 官方授权经销商吗？没有。根据 Starlink 官方授权经销商名单，中国大陆、台湾、香港与新加坡均无任何商家列名，starlink.com 官网也没有中文页面。",
+        "在虾皮 Shopee、Lazada 或 Amazon 买 Starlink 安全吗？需要格外谨慎。非授权卖家售出的硬件无法激活并可能导致立即停机。比如在马来西亚，请核实卖家是否为 Harvey Norman、SenHeng、Courts、SNS Network 等名单内经销商的官方 Starlink 商店；即便买到授权门店正品，也无法获得推荐奖励。",
+        "马来西亚的推荐奖励有多少？怎么发放？Starlink 官方帮助中心以美国 US$ 100 作为示例，各地实际金额与币种依国家和订单实时条件而异，因此付款前请务必以订购页显示金额为准。需通过推荐链接在 starlink.com 首次下单，并按时缴清两个完整计费周期后才会发放。",
+        "能不能先在实体店买了天线，再回到 App 里补用推荐链接？不能。从经销商购买的设备激活时仅有 1 小时初始联网用来绑定账号和套餐，界面没有推荐码输入框。官方规定推荐必须在 starlink.com 下第一笔订单时生效，无法事后补充。",
+        "在官网买回来发现屋顶信号不好，30 天内怎么退款？按订购页条款，在 30 天内取消服务并把无损伤的设备寄回，即可退还套件费用（如为买断制）和首月月费。在经销商处购买的套件，设备退货须按门店规则与商家沟通，订阅取消则需要单独在 Starlink 操作。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "想避开非授权电商卖家的锁机风险，并保留官网 30 天退货保障与缴清两个计费周期后入账的账单推荐奖励（美国为 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请以订购页显示金额为准），请直接通过推荐链接在 starlink.com 查询地址。",
+    "label": "满两期账单享推荐抵扣并查看我的地址条件",
+    "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+    "sponsored": true
+  },
+  "affiliate": "starlink",
+  "editorialNote": "本文依据 starlink.com 公开订购页、官方授权经销商名单（8a90222d）及帮助中心文档整理，未实际完成下单购买。我们参与 Starlink 推荐计划，如果你通过我们的推荐链接在 starlink.com 订阅并满足规则，我们可能会获得奖励。",
+  "decision": {
+    "takeIf": [
+      "所在国家已开通 Starlink 住宅直营服务，想在官网直接查看适用套餐、硬件条款并保留推荐资格。",
+      "在马来西亚等有官方名单门店的国家急需当天自提，且已核实店铺属于该授权经销商的官方 Starlink 商店。"
+    ],
+    "skipIf": [
+      "打算在未授权网店或个人手里低价买二手设备，可能遭遇前手未解绑或被系统封锁激活。",
+      "以为在门店或虾皮、Lazada 买完硬件以后，还可以回到 App 里补填推荐链接领奖励。"
+    ]
+  },
+  "relatedArticles": [
+    {
+      "slug": "starlink-referral-zh-hans"
+    },
+    {
+      "slug": "starlink-trust-zh-hans"
+    },
+    {
+      "slug": "starlink-mini-or-standard-zh-hans"
+    },
+    {
+      "slug": "starlink-plans-100-200-max-zh-hans"
+    }
+  ]
+}
