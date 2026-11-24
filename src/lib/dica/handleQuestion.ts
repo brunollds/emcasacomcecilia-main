@@ -62,7 +62,8 @@ export async function handleQuestion(input: {
   if (!interpretation) {
     const fromAi = takeAiSlot(now) ? await interpret(question) : null;
     if (fromAi) {
-      interpretation = { ...fromAi, searchTerm: fromAi.searchTerm || fallbackSearchTerm(question), viaFallback: false };
+      const searchTerm = scrubPersonalData(fromAi.searchTerm) || fallbackSearchTerm(question);
+      interpretation = { ...fromAi, searchTerm, viaFallback: false };
       cacheSet(key, interpretation, now);
     } else {
       // A reserva não entra no cache: quando a IA voltar, a mesma pergunta já passa por ela.
@@ -75,11 +76,14 @@ export async function handleQuestion(input: {
   return { status: 200, body: answer };
 }
 
-// O IP do visitante atrás da Cloudflare; sem ele, todos dividem o mesmo limite.
+// O IP do visitante. O primeiro valor do x-forwarded-for é o que o cliente mandou e pode ser inventado; o último é o
+// que o proxy da frente viu. Conferir no primeiro deploy se a Hostinger manda cf-connecting-ip ou x-real-ip.
 export function visitorIp(headers: Headers): string {
+  const forwarded = headers.get('x-forwarded-for')?.split(',').map((item) => item.trim()).filter(Boolean);
   return (
     headers.get('cf-connecting-ip')?.trim() ||
-    headers.get('x-forwarded-for')?.split(',')[0]?.trim() ||
+    headers.get('x-real-ip')?.trim() ||
+    forwarded?.[forwarded.length - 1] ||
     'desconhecido'
   );
 }

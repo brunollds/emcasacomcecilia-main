@@ -9,15 +9,21 @@ import { brasiliaDay } from './limits';
 const RETENTION_DAYS = 90;
 const FILE_PATTERN = /^dica-(\d{4}-\d{2}-\d{2})\.jsonl$/;
 
-const PERSONAL_DATA = [
-  /[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g, // e-mail
-  /\b\d{3}\.?\d{3}\.?\d{3}-?\d{2}\b/g, // CPF
-  /(?:\+?55\s?)?\(?\b\d{2}\)?\s?9?\d{4}[-\s]?\d{4}\b/g, // telefone, com ou sem DDD
-  /\d{6,}/g, // qualquer número longo
-];
+const EMAIL = /[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g;
+// Dígitos com ou sem separador (espaço, ponto, hífen, parênteses, +): CPF, telefone, CEP, cartão. Com 8 dígitos ou mais
+// sai inteiro; "900g", "1,8 kg", "12 meses" e "1000000" (7 dígitos) ficam.
+const DIGIT_RUN = /\+?\(?\d[\d\s().-]*\d/g;
+const MIN_PERSONAL_DIGITS = 8;
 
 export function scrubPersonalData(text: string): string {
-  return PERSONAL_DATA.reduce((result, pattern) => result.replace(pattern, '[removido]'), text);
+  return text
+    .replace(EMAIL, '[removido]')
+    .replace(DIGIT_RUN, (run) => {
+      if (run.replace(/\D/g, '').length < MIN_PERSONAL_DIGITS) return run;
+      // O espaço do fim fica, para "123.456.789-00 e" não colar no "e".
+      const trailing = /\s*$/.exec(run)?.[0] ?? '';
+      return `[removido]${trailing}`;
+    });
 }
 
 let lastCleanupDay = '';

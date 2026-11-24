@@ -10,10 +10,18 @@ const DAY_MAX = 25;
 const CACHE_TTL_MS = 60 * 60_000;
 const CACHE_MAX = 500;
 const DEFAULT_AI_DAILY_LIMIT = 1500;
+const MAX_VISITORS = 50_000;
 
 // O dia de Brasília, AAAA-MM-DD: os contadores diários viram à meia-noite daqui.
+const dayFormat = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Sao_Paulo' });
+
 export function brasiliaDay(now: number): string {
-  return new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Sao_Paulo' }).format(new Date(now));
+  return dayFormat.format(new Date(now));
+}
+
+// Brasília não tem horário de verão desde 2019: o dia seguinte começa à meia-noite com -03:00.
+function nextBrasiliaMidnight(now: number): number {
+  return Date.parse(`${brasiliaDay(now)}T00:00:00-03:00`) + 24 * 60 * 60_000;
 }
 
 type Visitor = { day: string; dayCount: number; recent: number[] };
@@ -21,14 +29,20 @@ const visitors = new Map<string, Visitor>();
 let calls = 0;
 
 export function checkVisitor(ip: string, now = Date.now()): { ok: true } | { ok: false; retryAfterSec: number } {
+  const day = brasiliaDay(now);
   calls += 1;
   if (calls % 200 === 0) {
     for (const [key, visitor] of visitors) {
-      if (visitor.day !== brasiliaDay(now) && visitor.recent.every((at) => at < now - WINDOW_MS)) visitors.delete(key);
+      if (visitor.day !== day && visitor.recent.every((at) => at < now - WINDOW_MS)) visitors.delete(key);
     }
   }
+  // Teto de memória: com muitos IPs, sai o que entrou primeiro.
+  while (visitors.size >= MAX_VISITORS && !visitors.has(ip)) {
+    const oldest = visitors.keys().next().value;
+    if (oldest === undefined) break;
+    visitors.delete(oldest);
+  }
 
-  const day = brasiliaDay(now);
   const visitor = visitors.get(ip) ?? { day, dayCount: 0, recent: [] };
   if (visitor.day !== day) {
     visitor.day = day;
@@ -41,7 +55,7 @@ export function checkVisitor(ip: string, now = Date.now()): { ok: true } | { ok:
   const wait = (until: number) => ({ ok: false as const, retryAfterSec: Math.max(1, Math.ceil((until - now) / 1000)) });
   if (last !== undefined && now - last < MIN_GAP_MS) return wait(last + MIN_GAP_MS);
   if (visitor.recent.length >= WINDOW_MAX) return wait(visitor.recent[0] + WINDOW_MS);
-  if (visitor.dayCount >= DAY_MAX) return wait(now + 60 * 60_000);
+  if (visitor.dayCount >= DAY_MAX) return wait(nextBrasiliaMidnight(now));
 
   visitor.recent.push(now);
   visitor.dayCount += 1;
@@ -51,7 +65,8 @@ export function checkVisitor(ip: string, now = Date.now()): { ok: true } | { ok:
 let aiDay = '';
 let aiCount = 0;
 
-// Uma vaga no teto diário de chamadas à IA (DICA_AI_DAILY_LIMIT). Sem vaga, a rota usa a busca local.
+// Uma vaga no teto diário de chamadas à IA (DICA_AI_DAILY_LIMIT). Sem vaga, a rota usa a busca local. O teto é por
+// processo e zera ao reiniciar: com 4 processos, o dia pode ter até 4×. O limite de gasto é o da Workspace da Anthropic.
 export function takeAiSlot(now = Date.now()): boolean {
   const limit = Number(process.env.DICA_AI_DAILY_LIMIT) || DEFAULT_AI_DAILY_LIMIT;
   const day = brasiliaDay(now);

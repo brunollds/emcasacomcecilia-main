@@ -162,7 +162,10 @@ async function main() {
   assert.equal(checkVisitor('1.1.1.1', t0 + 8 * 4000).ok, false, '9ª pergunta em 5 min');
   resetDicaLimitsForTests();
   for (let i = 0; i < 25; i += 1) assert.equal(checkVisitor('3.3.3.3', t0 + i * 60_000).ok, true, `pergunta ${i + 1} do dia`);
-  assert.equal(checkVisitor('3.3.3.3', t0 + 25 * 60_000).ok, false, '26ª pergunta do dia');
+  const blocked = checkVisitor('3.3.3.3', t0 + 25 * 60_000);
+  assert.equal(blocked.ok, false, '26ª pergunta do dia');
+  const midnight = Date.parse('2026-11-25T00:00:00-03:00');
+  if (blocked.ok === false) assert.equal(blocked.retryAfterSec, Math.ceil((midnight - (t0 + 25 * 60_000)) / 1000), 'Retry-After até a meia-noite');
   assert.equal(checkVisitor('3.3.3.3', Date.parse('2026-11-25T00:05:00-03:00')).ok, true, 'o dia vira em Brasília');
 
   // Teto diário da IA.
@@ -187,7 +190,11 @@ async function main() {
     scrubPersonalData('meu cpf 123.456.789-00 e (11) 98765-4321, a@b.com, tem whey?'),
     'meu cpf [removido] e [removido], [removido], tem whey?',
   );
-  assert.equal(scrubPersonalData('tem whey de 900g? 12 meses'), 'tem whey de 900g? 12 meses');
+  assert.equal(scrubPersonalData('tem whey de 900g? 12 meses, 1,8 kg'), 'tem whey de 900g? 12 meses, 1,8 kg');
+  assert.equal(scrubPersonalData('anel 1000000 pontos'), 'anel 1000000 pontos');
+  for (const personal of ['11 9 8765-4321', '11 9.8765-4321', '+55 (11) 9 8765-4321', '98765-4321', '3456-7890', '123 456 789-09', '123.456.789 09', '01310-100']) {
+    assert.equal(scrubPersonalData(`fone ${personal} tem whey`), 'fone [removido] tem whey', `não limpou ${personal}`);
+  }
   const logDir = mkdtempSync(path.join(tmpdir(), 'dica-log-'));
   try {
     resetQuestionLogForTests();
@@ -256,7 +263,11 @@ async function main() {
   assert.equal((burst.body as { result: string }).result, 'limite');
 
   assert.equal(visitorIp(new Headers({ 'cf-connecting-ip': '1.2.3.4', 'x-forwarded-for': '5.6.7.8' })), '1.2.3.4');
-  assert.equal(visitorIp(new Headers({ 'x-forwarded-for': '5.6.7.8, 10.0.0.1' })), '5.6.7.8');
+  assert.equal(visitorIp(new Headers({ 'x-forwarded-for': '6.6.6.6, 5.6.7.8' })), '5.6.7.8', 'o primeiro valor é do cliente');
+  assert.equal(visitorIp(new Headers({ 'x-real-ip': '9.8.7.6', 'x-forwarded-for': '6.6.6.6' })), '9.8.7.6');
+  const leaky: typeof interpretQuestion = async () => ({ terms: [], searchTerm: 'whey a@b.com', outOfScope: false });
+  const leakAnswer = (await ask('tem whey diferente?', '8.8.8.1', leaky)).body as { dicasUrl?: string; searchTerm?: string };
+  assert.ok(!leakAnswer.searchTerm?.includes('@') && !leakAnswer.dicasUrl?.includes('%40'), 'e-mail da IA na busca do Dicas');
   resetDicaLimitsForTests();
 
   console.log(`✅ dica: ${catalog.length} lojas no catálogo, ${vocabulary.size} termos no vocabulário.`);
