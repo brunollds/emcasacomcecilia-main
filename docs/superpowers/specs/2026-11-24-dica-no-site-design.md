@@ -145,14 +145,22 @@ pressão, sem dado interno. Ficam num arquivo de textos (`dicaCopy.ts`).
 ### Privacidade
 
 - `/privacidade` ganha uma seção sobre o assistente: o texto vai à Anthropic para ser interpretado,
-  não é usado para identificar ninguém e não é guardado pelo site (ver a pergunta em aberto). O
+  fica guardado sem identificar ninguém por 90 dias (ver Perguntas guardadas). O
   `test:institutional` passa de 13 para 14 seções no mesmo PR.
 
-## Em aberto (decisão do Bruno)
+## Perguntas guardadas (decisão do Bruno, 24/11)
 
-1. **Guardar as perguntas?** Guardar o texto das perguntas sem nada que identifique a pessoa (sem
-   IP) mostraria o que o público procura e os parceiros que faltam, útil para pautas e para novas
-   parcerias. Não guardar é o mais simples para a LGPD. Padrão deste desenho: **não guardar**.
+O site guarda as perguntas para mostrar o que o público procura e quais parceiros faltam (pautas e novas
+parcerias), sem nada que identifique a pessoa:
+- por pergunta: data e hora, texto normalizado, `resultado`, slugs das lojas e o `buscaDicas`;
+- nunca IP, cookie, user agent ou identificador de sessão;
+- antes de gravar, o texto perde o que parece e-mail, telefone, CPF ou número longo (troca por `[removido]`);
+- arquivo JSONL por dia numa pasta fora da release, que o deploy não apaga (`DICA_LOG_DIR`), com 90 dias de
+  retenção; sem a variável, não grava nada. Quem constrói confere no plano qual pasta da Hostinger sobrevive
+  ao deploy.
+
+A seção da `/privacidade` diz isso: o texto vai à Anthropic para ser interpretado e fica guardado, sem nada
+que identifique a pessoa, por 90 dias, para melhorar o assistente.
 
 ## Antes de construir
 
