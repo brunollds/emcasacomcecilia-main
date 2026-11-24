@@ -111,8 +111,9 @@ export function ArticleHeader({
             </Fragment>
           ))}
         </span>
+        {/* No celular, o artigo atualizado mostra só a data da atualização: as duas não cabem na linha. */}
         {review.publishedAtISO && (
-          <time dateTime={review.publishedAtISO}>
+          <time dateTime={review.publishedAtISO} className={updated ? 'max-md:hidden' : undefined}>
             <span className="md:hidden">{formatDate(review.publishedAtISO, couponCopyLocale, 'short')}</span>
             <span className="max-md:hidden">{formatDate(review.publishedAtISO, couponCopyLocale)}</span>
           </time>
