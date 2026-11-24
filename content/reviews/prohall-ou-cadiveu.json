@@ -20,8 +20,8 @@
   "publishedAtISO": "2026-11-24",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/prohall/prohall-ou-cadiveu-capa.webp",
-  "imageAlt": "Pote do BTX Blend Repair de 1 kg da Prohall, de frente, em foto oficial da loja. A capa traz o logo Prohall e a chamada “Prohall ou Cadiveu?”, sem foto da Cadiveu.",
+  "image": "/images/reviews/prohall/prohall-e-boa-capa-v2.webp",
+  "imageAlt": "Frasco Burix One da Prohall com tampa e rótulo visíveis, em recorte de arte oficial da marca, com logo, “Prohall é boa?” e cupom CECILIAMC.",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [],
@@ -33,7 +33,7 @@
     ],
     "skipIf": [
       "Você só compra com a lista completa de ingredientes na página: a do BTX fica no rótulo, e a Cadiveu publica a da Bye Bye Frizz.",
-      "Você faz questão de selagem declarada vegana: é a Cadiveu que declara isso.",
+      "Você quer um produto para finalizar o cabelo no dia a dia sem enxaguar: é assim que a Cadiveu descreve a Bye Bye Frizz.",
       "Você não aplicaria um produto de uso profissional sem um cabeleireiro habilitado."
     ]
   },
@@ -64,7 +64,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "As duas lojas vendem uma selagem, descrita de modos diferentes: a Prohall fala em 40 a 60 minutos de pausa, enxágue e escova, e a Cadiveu, em ativação com ferramentas de calor. A página do BTX se contradiz sobre casa ou salão. Antes de trocar um pelo outro, confirme o modo de uso com a loja."
+        "Pelas próprias páginas, são etapas diferentes: a Cadiveu apresenta a Bye Bye Frizz como produto da etapa de finalização, aplicado no cabelo úmido, sem enxágue, com o calor para potencializar; o BTX da Prohall tem pausa de 40 a 60 minutos, enxágue e escova. A página do BTX ainda se contradiz sobre casa ou salão."
       ]
     },
     {
@@ -103,12 +103,12 @@
           [
             "Como a página descreve o uso",
             "Mecha por mecha, de 40 a 60 minutos, enxágue e escova",
-            "Ativação com ferramentas de calor"
+            "Etapa de finalização, em cabelo limpo e úmido, no comprimento e nas pontas, sem enxágue; calor opcional para potencializar o efeito"
           ],
           [
             "Calor e duração, como a loja diz",
             "Proteção térmica até 230 °C; rendimento de até 5 aplicações completas",
-            "Proteção térmica até 180 °C e ação antifrizz por até 72 horas"
+            "Protege contra o calor de até 180 °C; ação antifrizz por até 72 horas"
           ],
           [
             "Composição na página",
@@ -121,8 +121,8 @@
     {
       "heading": "Selagem nas duas lojas: o que cada página descreve",
       "paragraphs": [
-        "A Prohall chama o BTX de “selagem e antifrizz dos fios”, e o modo de uso da página manda aplicar mecha por mecha, deixar agir de 40 a 60 minutos, enxaguar e fazer escova; a página cita proteção térmica até 230 °C. A Cadiveu chama a Bye Bye Frizz de selagem gradativa, declara “100% vegana”, fala em ativação com ferramentas de calor, proteção térmica até 180 °C e ação antifrizz por até 72 horas, e publica a lista de ingredientes.",
-        "As duas páginas usam a mesma palavra, selagem, e descrevem passos diferentes. Antes de trocar um pelo outro, confirme o modo de uso com a loja.",
+        "A Prohall chama o BTX de “selagem e antifrizz dos fios”, e o modo de uso da página manda aplicar mecha por mecha, deixar agir de 40 a 60 minutos, enxaguar e fazer escova; a página cita proteção térmica até 230 °C. A Cadiveu apresenta a Bye Bye Frizz como produto da etapa de finalização: com o cabelo limpo e úmido, aplica-se no comprimento e nas pontas, sem enxágue, e as ferramentas de calor servem para potencializar o efeito. A página fala em proteção contra o calor de até 180 °C, ação antifrizz por até 72 horas e, em pequenas quantidades, retoque de frizz localizado; declara “100% vegana” e publica a lista de ingredientes.",
+        "As duas páginas usam a mesma palavra, selagem, mas, segundo elas, são etapas diferentes: o BTX é um tratamento com pausa e enxágue, e a Bye Bye Frizz é de finalização, sem enxágue.",
         "As frases de resultado, como a ação antifrizz por até 72 horas, são da Cadiveu, e “selagem e antifrizz” é da Prohall. Este guia não compara resultado."
       ]
     },
@@ -130,7 +130,7 @@
       "heading": "Casa ou salão: a página do BTX se contradiz",
       "paragraphs": [
         "A página do BTX de 300 g dá duas respostas. O título do produto diz “Antifrizz em Casa”, e o subtítulo fala em um tamanho “ideal para casa”. Mais abaixo, o bloco institucional diz “Uso profissional: Fórmula desenvolvida para salão, para aplicação por cabeleireiro habilitado”, e a foto do rótulo traz a inscrição USO PROFISSIONAL / PROFESSIONAL USE. O pote de [1 kg](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-1kg) se chama “Antifrizz Profissional”.",
-        "Como a página do BTX dá as duas respostas, vale o rótulo do pote e o que a Prohall responder no atendimento. Na Bye Bye Frizz, pergunte à Cadiveu antes de aplicar em casa.",
+        "Como a página do BTX dá as duas respostas, vale o rótulo do pote e o que a Prohall responder no atendimento.",
         "Se você tem couro cabeludo sensível, alergia ou fez química recentemente, converse com um cabeleireiro ou com um dermatologista antes de aplicar qualquer selagem. O passo a passo do BTX, como a Prohall o publica, está em [BTX Blend Repair da Prohall: como usar](/reviews/btx-blend-repair-prohall-como-usar)."
       ],
       "images": [
@@ -210,7 +210,7 @@
           ],
           [
             "Arrependimento",
-            "7 dias, com reembolso; o pedido volta completo e a postagem é por conta do cliente",
+            "7 dias, com reembolso; o pedido volta completo, e a política da Prohall cobra do cliente a postagem da devolução",
             "7 dias"
           ],
           [
@@ -226,7 +226,8 @@
         ]
       },
       "postParagraphs": [
-        "Uma selagem sozinha não chega ao frete grátis em nenhuma das duas: na Prohall o mínimo muda com a região, e na Cadiveu só vale no Sudeste."
+        "Uma selagem sozinha não chega ao frete grátis em nenhuma das duas: na Prohall o mínimo muda com a região, e na Cadiveu só vale no Sudeste.",
+        "Pelo Código de Defesa do Consumidor, no arrependimento da compra online o consumidor recebe de volta o que pagou; se houver cobrança de frete na devolução, o caminho é o Procon."
       ]
     },
     {
@@ -250,7 +251,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "O BTX da Prohall é igual à selagem da Cadiveu? As duas lojas usam o nome selagem e descrevem passos diferentes: a Prohall fala em pausa, enxágue e escova, e a Cadiveu, em ativação com ferramentas de calor. Antes de trocar um pelo outro, confirme o modo de uso com a loja.",
+        "O BTX da Prohall é igual à selagem da Cadiveu? As duas lojas usam o nome selagem, mas, segundo as páginas, são etapas diferentes: a Prohall fala em pausa, enxágue e escova, e a Cadiveu, em finalização sem enxágue, com o calor para potencializar.",
         "O BTX Blend Repair é para casa ou para salão? A página do pote de 300 g se contradiz: o título diz “Antifrizz em Casa”, e o bloco institucional e o rótulo dizem uso profissional. Confirme com a Prohall e leia o rótulo antes de aplicar.",
         "A Cadiveu tem progressiva? Na loja oficial não encontramos a progressiva à venda. Isso não quer dizer que a marca não a fabrique: confirme com a Cadiveu.",
         "Qual é o cupom da Prohall? O CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. No nosso teste com o BTX de 300 g, o desconto foi de 7%.",

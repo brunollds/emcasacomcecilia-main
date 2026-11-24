@@ -329355,7 +329355,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O BTX Blend Repair da Prohall se aplica no cabelo lavado, mecha por mecha, age de 40 a 60 minutos e é enxaguado. Antes do tamanho, resolva uma dúvida: a página do 300 g fala em uso em casa e profissional. Sem essa resposta, o de 300 g é o que menos custa errar; o CECILIAMC dá até 10%."
+          "A página do pote de 300 g do BTX Blend Repair traz “Uso profissional: Fórmula desenvolvida para salão, para aplicação por cabeleireiro habilitado”, embora o título fale em casa. O passo a passo da loja: lavar, aplicar mecha por mecha, deixar agir de 40 a 60 minutos e enxaguar. O CECILIAMC dá até 10% no site."
         ]
       },
       {
@@ -329445,7 +329445,7 @@ export const reviewsData: unknown[] = [
           "Conta nossa: a diferença é de cerca de R$ 0,06 por grama a favor do 1 kg. Ela só vale se você usar o pote inteiro, e a validade depois de aberto não está na página. Segundo a loja, a tabela comparativa da página do 300 g fala em até 5 aplicações completas.",
           "Quem aplica com profissional ou com frequência leva o 1 kg; quem vai testar leva o 300 g. A loja vende ainda kits com o BTX, como o de 300 g com a máscara Biomask; o preço e o conteúdo de cada um ficam na página do kit."
         ],
-        "emphasis": "Eu não escolheria o tamanho antes de resolver a dúvida sobre casa ou salão. Sem essa resposta, o 300 g é o que menos custa errar, e o 1 kg só entra se você já sabe que vai usar tudo."
+        "emphasis": "Eu só pediria depois de perguntar à loja se o uso em casa vale: a página diz as duas coisas, e essa resposta pesa mais na escolha do que a diferença por grama."
       },
       {
         "heading": "Como aplicar o CECILIAMC",
@@ -329500,8 +329500,8 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-11-24",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/prohall/prohall-ou-cadiveu-capa.webp",
-    "imageAlt": "Pote do BTX Blend Repair de 1 kg da Prohall, de frente, em foto oficial da loja. A capa traz o logo Prohall e a chamada “Prohall ou Cadiveu?”, sem foto da Cadiveu.",
+    "image": "/images/reviews/prohall/prohall-e-boa-capa-v2.webp",
+    "imageAlt": "Frasco Burix One da Prohall com tampa e rótulo visíveis, em recorte de arte oficial da marca, com logo, “Prohall é boa?” e cupom CECILIAMC.",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -329513,7 +329513,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você só compra com a lista completa de ingredientes na página: a do BTX fica no rótulo, e a Cadiveu publica a da Bye Bye Frizz.",
-        "Você faz questão de selagem declarada vegana: é a Cadiveu que declara isso.",
+        "Você quer um produto para finalizar o cabelo no dia a dia sem enxaguar: é assim que a Cadiveu descreve a Bye Bye Frizz.",
         "Você não aplicaria um produto de uso profissional sem um cabeleireiro habilitado."
       ]
     },
@@ -329544,7 +329544,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "As duas lojas vendem uma selagem, descrita de modos diferentes: a Prohall fala em 40 a 60 minutos de pausa, enxágue e escova, e a Cadiveu, em ativação com ferramentas de calor. A página do BTX se contradiz sobre casa ou salão. Antes de trocar um pelo outro, confirme o modo de uso com a loja."
+          "Pelas próprias páginas, são etapas diferentes: a Cadiveu apresenta a Bye Bye Frizz como produto da etapa de finalização, aplicado no cabelo úmido, sem enxágue, com o calor para potencializar; o BTX da Prohall tem pausa de 40 a 60 minutos, enxágue e escova. A página do BTX ainda se contradiz sobre casa ou salão."
         ]
       },
       {
@@ -329583,12 +329583,12 @@ export const reviewsData: unknown[] = [
             [
               "Como a página descreve o uso",
               "Mecha por mecha, de 40 a 60 minutos, enxágue e escova",
-              "Ativação com ferramentas de calor"
+              "Etapa de finalização, em cabelo limpo e úmido, no comprimento e nas pontas, sem enxágue; calor opcional para potencializar o efeito"
             ],
             [
               "Calor e duração, como a loja diz",
               "Proteção térmica até 230 °C; rendimento de até 5 aplicações completas",
-              "Proteção térmica até 180 °C e ação antifrizz por até 72 horas"
+              "Protege contra o calor de até 180 °C; ação antifrizz por até 72 horas"
             ],
             [
               "Composição na página",
@@ -329601,8 +329601,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Selagem nas duas lojas: o que cada página descreve",
         "paragraphs": [
-          "A Prohall chama o BTX de “selagem e antifrizz dos fios”, e o modo de uso da página manda aplicar mecha por mecha, deixar agir de 40 a 60 minutos, enxaguar e fazer escova; a página cita proteção térmica até 230 °C. A Cadiveu chama a Bye Bye Frizz de selagem gradativa, declara “100% vegana”, fala em ativação com ferramentas de calor, proteção térmica até 180 °C e ação antifrizz por até 72 horas, e publica a lista de ingredientes.",
-          "As duas páginas usam a mesma palavra, selagem, e descrevem passos diferentes. Antes de trocar um pelo outro, confirme o modo de uso com a loja.",
+          "A Prohall chama o BTX de “selagem e antifrizz dos fios”, e o modo de uso da página manda aplicar mecha por mecha, deixar agir de 40 a 60 minutos, enxaguar e fazer escova; a página cita proteção térmica até 230 °C. A Cadiveu apresenta a Bye Bye Frizz como produto da etapa de finalização: com o cabelo limpo e úmido, aplica-se no comprimento e nas pontas, sem enxágue, e as ferramentas de calor servem para potencializar o efeito. A página fala em proteção contra o calor de até 180 °C, ação antifrizz por até 72 horas e, em pequenas quantidades, retoque de frizz localizado; declara “100% vegana” e publica a lista de ingredientes.",
+          "As duas páginas usam a mesma palavra, selagem, mas, segundo elas, são etapas diferentes: o BTX é um tratamento com pausa e enxágue, e a Bye Bye Frizz é de finalização, sem enxágue.",
           "As frases de resultado, como a ação antifrizz por até 72 horas, são da Cadiveu, e “selagem e antifrizz” é da Prohall. Este guia não compara resultado."
         ]
       },
@@ -329610,7 +329610,7 @@ export const reviewsData: unknown[] = [
         "heading": "Casa ou salão: a página do BTX se contradiz",
         "paragraphs": [
           "A página do BTX de 300 g dá duas respostas. O título do produto diz “Antifrizz em Casa”, e o subtítulo fala em um tamanho “ideal para casa”. Mais abaixo, o bloco institucional diz “Uso profissional: Fórmula desenvolvida para salão, para aplicação por cabeleireiro habilitado”, e a foto do rótulo traz a inscrição USO PROFISSIONAL / PROFESSIONAL USE. O pote de [1 kg](https://lojaprohall.com.br/products/btx-capilar-organico-blend-repair-1kg) se chama “Antifrizz Profissional”.",
-          "Como a página do BTX dá as duas respostas, vale o rótulo do pote e o que a Prohall responder no atendimento. Na Bye Bye Frizz, pergunte à Cadiveu antes de aplicar em casa.",
+          "Como a página do BTX dá as duas respostas, vale o rótulo do pote e o que a Prohall responder no atendimento.",
           "Se você tem couro cabeludo sensível, alergia ou fez química recentemente, converse com um cabeleireiro ou com um dermatologista antes de aplicar qualquer selagem. O passo a passo do BTX, como a Prohall o publica, está em [BTX Blend Repair da Prohall: como usar](/reviews/btx-blend-repair-prohall-como-usar)."
         ],
         "images": [
@@ -329690,7 +329690,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Arrependimento",
-              "7 dias, com reembolso; o pedido volta completo e a postagem é por conta do cliente",
+              "7 dias, com reembolso; o pedido volta completo, e a política da Prohall cobra do cliente a postagem da devolução",
               "7 dias"
             ],
             [
@@ -329706,7 +329706,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Uma selagem sozinha não chega ao frete grátis em nenhuma das duas: na Prohall o mínimo muda com a região, e na Cadiveu só vale no Sudeste."
+          "Uma selagem sozinha não chega ao frete grátis em nenhuma das duas: na Prohall o mínimo muda com a região, e na Cadiveu só vale no Sudeste.",
+          "Pelo Código de Defesa do Consumidor, no arrependimento da compra online o consumidor recebe de volta o que pagou; se houver cobrança de frete na devolução, o caminho é o Procon."
         ]
       },
       {
@@ -329730,7 +329731,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O BTX da Prohall é igual à selagem da Cadiveu? As duas lojas usam o nome selagem e descrevem passos diferentes: a Prohall fala em pausa, enxágue e escova, e a Cadiveu, em ativação com ferramentas de calor. Antes de trocar um pelo outro, confirme o modo de uso com a loja.",
+          "O BTX da Prohall é igual à selagem da Cadiveu? As duas lojas usam o nome selagem, mas, segundo as páginas, são etapas diferentes: a Prohall fala em pausa, enxágue e escova, e a Cadiveu, em finalização sem enxágue, com o calor para potencializar.",
           "O BTX Blend Repair é para casa ou para salão? A página do pote de 300 g se contradiz: o título diz “Antifrizz em Casa”, e o bloco institucional e o rótulo dizem uso profissional. Confirme com a Prohall e leia o rótulo antes de aplicar.",
           "A Cadiveu tem progressiva? Na loja oficial não encontramos a progressiva à venda. Isso não quer dizer que a marca não a fabrique: confirme com a Cadiveu.",
           "Qual é o cupom da Prohall? O CECILIAMC, com até 10% OFF no site oficial e no aplicativo, em todas as formas de pagamento. No nosso teste com o BTX de 300 g, o desconto foi de 7%.",
@@ -329770,12 +329771,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Leve o BTX de 300 g da Prohall se quer o pote pequeno com o menor preço por grama e tem cabeleireiro para aplicar.",
-        "Leve a máscara de 1000 g da Forever Liss se usa muito produto e quer a lista de ingredientes publicada antes de comprar."
+        "Você quer o BTX de 300 g da Prohall, o pote pequeno, tem cabeleireiro para aplicar e vai usar o CECILIAMC.",
+        "Você quer comparar tamanho e preço por grama antes de escolher onde comprar."
       ],
       "skipIf": [
-        "Passe na máscara se o cabelo é descolorido ou tem alisante: as precauções da página proíbem.",
-        "Passe nos dois se a ideia é aplicar sem profissional."
+        "Seu cabelo é descolorido ou tem alisante: as precauções da página da Forever Liss proíbem o uso nesse caso.",
+        "Você pretende aplicar sem profissional: as duas lojas indicam uso profissional."
       ]
     },
     "cta": {
@@ -329805,7 +329806,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não são o mesmo tipo de produto pelo que cada loja declara: a Prohall vende um BTX de selagem, e a máscara da Forever Liss traz nas precauções que alisa e tinge. Por grama, a Prohall sai mais barata no pote pequeno e a Forever Liss, no grande. Antes do preço, veja quem vai aplicar: as duas indicam uso profissional."
+          "Não são o mesmo tipo de produto pelo que cada loja declara: a Prohall vende um BTX de selagem, e a máscara da Forever Liss traz nas precauções que alisa e tinge. A ordem do preço por grama muda entre o pote pequeno e o grande. Antes do preço, veja quem vai aplicar: as duas lojas indicam uso profissional."
         ]
       },
       {
@@ -329938,7 +329939,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No pote pequeno, a Prohall leva 50 g a mais por R$ 3 a mais, e o grama sai R$ 0,03 mais barato. No pote grande, a Forever Liss sai R$ 20 mais barata e o grama custa R$ 0,02 a menos. Quem olha só o preço do pote vê a Forever Liss mais barata nos dois tamanhos e perde a ordem por grama no menor.",
-          "Os preços da tabela estão abaixo do preço cheio nas duas lojas. Pelo preço cheio que cada página mostra, a ordem por grama é a mesma: Prohall no pote pequeno, Forever Liss no grande."
+          "Os preços da tabela estão abaixo do preço cheio nas duas lojas. Pelo preço cheio que cada página mostra, a ordem por grama é a mesma da tabela: a Prohall sai mais barata no pote pequeno, e o pote de 1000 g da Forever Liss sai a R$ 0,21, abaixo dos R$ 0,22 do 1 kg da Prohall."
         ],
         "images": [
           {
@@ -329990,10 +329991,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher por tamanho",
         "paragraphs": [
-          "Para o pote pequeno, o grama sai mais barato no BTX da Prohall; para o grande, na máscara da Forever Liss. Quem quer um pote só e tem cabeleireiro para aplicar olha o tamanho pequeno. Quem aplica com frequência, ou em mais de uma pessoa, olha o grande.",
+          "A ordem do preço por grama muda entre o pote pequeno e o grande, e a tabela mostra a conta. O preço é dado de referência; quem decide é o uso. Quem tem cabeleireiro para aplicar e quer um pote só olha o BTX de 300 g da Prohall, e quem usa muito produto faz a conta do pote grande em cada loja, com as precauções da página ao lado.",
           "Como as duas páginas indicam uso profissional, a pergunta que vem antes do preço é quem vai aplicar. Quem precisa da lista completa de ingredientes antes de comprar encontra hoje só a da Forever Liss; no BTX, ela está no rótulo do pote. Para o modo de uso do BTX, veja [como usar o BTX Blend Repair](/reviews/btx-blend-repair-prohall-como-usar); para as outras linhas da marca, [Prohall é boa?](/reviews/prohall-e-boa)."
         ],
-        "emphasis": "O pote pequeno compensa na Prohall e o grande, na Forever Liss. Antes do preço por grama, pesa a indicação de uso profissional que as duas páginas trazem: quem decide a compra é quem vai aplicar.",
+        "emphasis": "Antes do preço por grama, leia as precauções da página e decida quem vai aplicar: as duas lojas indicam uso profissional, e a página da Forever Liss proíbe o uso em cabelo descolorido ou com alisante.",
         "links": [
           {
             "label": "Ir para a Prohall com o CECILIAMC",

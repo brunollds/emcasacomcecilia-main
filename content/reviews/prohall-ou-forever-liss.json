@@ -28,12 +28,12 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Leve o BTX de 300 g da Prohall se quer o pote pequeno com o menor preço por grama e tem cabeleireiro para aplicar.",
-      "Leve a máscara de 1000 g da Forever Liss se usa muito produto e quer a lista de ingredientes publicada antes de comprar."
+      "Você quer o BTX de 300 g da Prohall, o pote pequeno, tem cabeleireiro para aplicar e vai usar o CECILIAMC.",
+      "Você quer comparar tamanho e preço por grama antes de escolher onde comprar."
     ],
     "skipIf": [
-      "Passe na máscara se o cabelo é descolorido ou tem alisante: as precauções da página proíbem.",
-      "Passe nos dois se a ideia é aplicar sem profissional."
+      "Seu cabelo é descolorido ou tem alisante: as precauções da página da Forever Liss proíbem o uso nesse caso.",
+      "Você pretende aplicar sem profissional: as duas lojas indicam uso profissional."
     ]
   },
   "cta": {
@@ -63,7 +63,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Não são o mesmo tipo de produto pelo que cada loja declara: a Prohall vende um BTX de selagem, e a máscara da Forever Liss traz nas precauções que alisa e tinge. Por grama, a Prohall sai mais barata no pote pequeno e a Forever Liss, no grande. Antes do preço, veja quem vai aplicar: as duas indicam uso profissional."
+        "Não são o mesmo tipo de produto pelo que cada loja declara: a Prohall vende um BTX de selagem, e a máscara da Forever Liss traz nas precauções que alisa e tinge. A ordem do preço por grama muda entre o pote pequeno e o grande. Antes do preço, veja quem vai aplicar: as duas lojas indicam uso profissional."
       ]
     },
     {
@@ -196,7 +196,7 @@
       },
       "postParagraphs": [
         "No pote pequeno, a Prohall leva 50 g a mais por R$ 3 a mais, e o grama sai R$ 0,03 mais barato. No pote grande, a Forever Liss sai R$ 20 mais barata e o grama custa R$ 0,02 a menos. Quem olha só o preço do pote vê a Forever Liss mais barata nos dois tamanhos e perde a ordem por grama no menor.",
-        "Os preços da tabela estão abaixo do preço cheio nas duas lojas. Pelo preço cheio que cada página mostra, a ordem por grama é a mesma: Prohall no pote pequeno, Forever Liss no grande."
+        "Os preços da tabela estão abaixo do preço cheio nas duas lojas. Pelo preço cheio que cada página mostra, a ordem por grama é a mesma da tabela: a Prohall sai mais barata no pote pequeno, e o pote de 1000 g da Forever Liss sai a R$ 0,21, abaixo dos R$ 0,22 do 1 kg da Prohall."
       ],
       "images": [
         {
@@ -248,10 +248,10 @@
     {
       "heading": "Qual escolher por tamanho",
       "paragraphs": [
-        "Para o pote pequeno, o grama sai mais barato no BTX da Prohall; para o grande, na máscara da Forever Liss. Quem quer um pote só e tem cabeleireiro para aplicar olha o tamanho pequeno. Quem aplica com frequência, ou em mais de uma pessoa, olha o grande.",
+        "A ordem do preço por grama muda entre o pote pequeno e o grande, e a tabela mostra a conta. O preço é dado de referência; quem decide é o uso. Quem tem cabeleireiro para aplicar e quer um pote só olha o BTX de 300 g da Prohall, e quem usa muito produto faz a conta do pote grande em cada loja, com as precauções da página ao lado.",
         "Como as duas páginas indicam uso profissional, a pergunta que vem antes do preço é quem vai aplicar. Quem precisa da lista completa de ingredientes antes de comprar encontra hoje só a da Forever Liss; no BTX, ela está no rótulo do pote. Para o modo de uso do BTX, veja [como usar o BTX Blend Repair](/reviews/btx-blend-repair-prohall-como-usar); para as outras linhas da marca, [Prohall é boa?](/reviews/prohall-e-boa)."
       ],
-      "emphasis": "O pote pequeno compensa na Prohall e o grande, na Forever Liss. Antes do preço por grama, pesa a indicação de uso profissional que as duas páginas trazem: quem decide a compra é quem vai aplicar.",
+      "emphasis": "Antes do preço por grama, leia as precauções da página e decida quem vai aplicar: as duas lojas indicam uso profissional, e a página da Forever Liss proíbe o uso em cabelo descolorido ou com alisante.",
       "links": [
         {
           "label": "Ir para a Prohall com o CECILIAMC",
