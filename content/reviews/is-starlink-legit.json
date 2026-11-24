@@ -31,7 +31,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Starlink is the satellite internet service from SpaceX, and its official site is starlink.com. On Trustpilot, the profile that points to starlink.com is “Starlink Development”. If you buy the kit anywhere else, check Starlink's list of authorized retailers and see who the seller behind the listing is before you pay."
+        "Yes, Starlink is legit: it is SpaceX's official satellite internet service, and it sells directly on starlink.com. We subscribed to Starlink ourselves as an alternative to unstable local fiber. The risk is look-alike sites and unverified listings, not the company: on Trustpilot, the profile that points to starlink.com is “Starlink Development”, and if you buy the kit elsewhere, check the seller against Starlink's list of authorized retailers before you pay."
       ]
     },
     {
@@ -52,7 +52,22 @@
       "heading": "How to recognize the official site",
       "paragraphs": [
         "Type starlink.com into your browser. Before you enter any details or pay, check that you are still on starlink.com.",
-        "Check plan, kit (rent or buy), tax and contract term in the order for your own address. If anyone asks you to pay by message or outside the order page, confirm with Starlink support before you go on."
+        "Check plan, kit (rent or buy), tax and contract term in the order for your own address. If anyone asks you to pay by message or outside the order page, confirm with Starlink support before you go on.",
+        "One simple way to avoid a wrong address is to open the order through a referral link: it goes straight to the order on starlink.com, and you still check the address bar before typing any details. The price is the same as on the official site, and the referral only counts if the order starts from a referral link, before you pay."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+        "alt": "Official Starlink residential order screen on starlink.com for Nevada, US",
+        "caption": "Official order screen on starlink.com for a Nevada address, checked on November 23, 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.7159
+      },
+      "links": [
+        {
+          "label": "Open the official starlink.com order with the referral applied",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -78,7 +93,14 @@
           "label": "Starlink list of authorized retailers",
           "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
         }
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Parts of a Starlink kit on a dark background: base, bracket and cables",
+        "caption": "Parts of a Starlink kit. Photo from Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "What Trustpilot shows",
@@ -86,6 +108,29 @@
         "On Trustpilot, the starlink.com profile has a TrustScore of 1.6 out of 5 from 879 reviews: 71% are 1-star and 17% are 5-star. The profile is unclaimed, so Starlink has not taken it over, and it has replied to 0% of the reviews.",
         "We read the 40 most recent 1-star and the 40 most recent 5-star reviews. In the 1-star ones, the most common complaints are support that is only a bot or chat (about 1 in 3), dropouts and slow speeds (about 1 in 3), a monthly price that rose after signing up (about 1 in 4), billing and hard cancellations (about 1 in 4), installers from partner companies who are late or do not show (about 1 in 4) and a late or missing kit (about 1 in 5). The 5-star ones praise speed and stability (about half), easy setup (about 1 in 3) and having no other good internet option (about 1 in 4). The counts are ours and approximate.",
         "Read the score with care: an unclaimed profile sends no invitations after a purchase, and people who open one are often there to complain. Praise is about the signal, complaints are about support, price and billing, and few 1-star reviews say the signal is bad all the time. Trustpilot's automatic summary, based on 355 recent reviews, points the same way. Our [full reading of the Trustpilot profile](/en/reviews/starlink-trustpilot-reviews) has the numbers."
+      ]
+    },
+    {
+      "heading": "Checklist before you pay",
+      "paragraphs": [
+        "Five quick checks work for any address and take a few minutes."
+      ],
+      "checklist": {
+        "title": "Before you place the order",
+        "items": [
+          "I opened the order through the referral link, in the same browser window, so the referral counts.",
+          "I checked that the address bar stays on starlink.com before typing any details.",
+          "I ran the Starlink app's obstruction check at the spot planned for the dish, to confirm an open sky.",
+          "I read the plan, the kit, the total and the contract term on the order summary.",
+          "I saved a screenshot of the summary with the monthly price and the 30-day rule before paying."
+        ]
+      },
+      "links": [
+        {
+          "label": "Check availability at my address on starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -103,7 +148,7 @@
       "heading": "Frequently asked questions",
       "bullets": [
         "Does Starlink have a coupon? No. Starlink has no coupon code: through Cecília's referral link, a new subscriber gets US$ 100 in the US (£ 40 in the UK) after two months of service, as a credit on the bill, and the person who referred gets the same amount.",
-        "Is Starlink legit? Starlink is the satellite internet service from SpaceX. Check that you are on starlink.com, and use the list of authorized retailers if you buy elsewhere.",
+        "Is Starlink legit? Yes, Starlink is SpaceX's official satellite internet service. To buy safely, check that you are on starlink.com, or verify the seller on Starlink's list of authorized retailers before you pay.",
         "What is the official Starlink website? The official site is starlink.com.",
         "How do I confirm that a seller is authorized? See the Starlink list of authorized retailers and check who the seller of the listing is before you pay.",
         "Should I buy on the official site or from a retailer? On starlink.com the order shows plan, kit, tax and contract for your address before you pay, and the referral only works there. A retailer on the official list is a legitimate seller, but the referral does not apply."
@@ -113,7 +158,7 @@
   "pros": [],
   "cons": [],
   "affiliate": "starlink",
-  "editorialNote": "Based on the official site, the help center and the public Trustpilot profile. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+  "editorialNote": "Based on the official site, the help center and the public Trustpilot profile. We subscribed to Starlink ourselves as an alternative and backup to unstable local fiber. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
   "relatedArticles": [
     {
       "slug": "starlink-trustpilot-reviews"
@@ -136,8 +181,8 @@
     ]
   },
   "cta": {
-    "text": "Enter your address on the Starlink site and check plan, kit and monthly price before you pay.",
-    "label": "See plans for your address",
+    "text": "Open the order through the referral link, check that the address bar stays on starlink.com and see plan, kit and total for your address before you pay. The price is the same as on the official site.",
+    "label": "See my address on starlink.com",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

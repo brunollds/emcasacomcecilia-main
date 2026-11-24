@@ -3,8 +3,8 @@
   "slug": "starlink-black-friday-oferta",
   "translationKey": "starlink-black-friday",
   "locale": "es",
-  "title": "Black Friday Starlink 2026 en España: 30 % en el servicio y kit en alquiler a 0 €",
-  "seoTitle": "Black Friday Starlink 2026: 30 % y kit en alquiler a 0 €",
+  "title": "Black Friday Starlink 2026 en España: 100 Mbps a 24,50 €, kit en alquiler a 0 € y recompensa por referido",
+  "seoTitle": "Black Friday Starlink 2026: 24,50 € al mes y kit a 0 €",
   "type": "Guía de Black Friday",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "En Madrid, el pedido mostraba el Max a 45,50 € al mes, el kit en alquiler a 0 € y 19 € a pagar hoy. Mira cómo entra la recompensa del referido y cómo comprobar tu dirección.",
-  "metaDescription": "Starlink con 30 % en los planes y kit en alquiler a 0 € en España. Mira la cuenta del primer pedido y cómo entra la recompensa del referido.",
+  "description": "En Madrid, Starlink mostraba el 100 Mbps a 24,50 € al mes, el 200 Mbps a 31,50 € y el kit en alquiler a 0 €. Mira la cuenta del primer pedido y cómo entra el referido.",
+  "metaDescription": "Starlink Black Friday en España: 30 % en los planes y kit en alquiler a 0 €. Mira los precios de Madrid, la devolución y cómo entra el referido.",
   "publishedAt": "20 de noviembre de 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,69 +31,184 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "El pedido que consultamos en Madrid mostraba un 30 % de descuento en el servicio, 19 € a pagar ese día y un kit en alquiler a 0 €. El equipo se devuelve al cancelar. Si tu pedido muestra una recompensa por referido, comprueba las condiciones antes de contar con ella."
+        "El pedido de Starlink que consultamos en Madrid mostraba un 30 % de descuento en el servicio hasta el 30 de noviembre: 24,50 € al mes el 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el kit en alquiler a 0 € y 19 € a pagar hoy. El equipo se devuelve si cancelas y tienes 30 días de prueba. La recompensa del referido solo cuenta si abres el pedido desde un enlace de referido antes de pagar."
       ]
     },
     {
-      "heading": "Qué pagas en el primer pedido",
+      "heading": "Los tres planes en Madrid, con y sin descuento",
       "paragraphs": [
-        "Estas son las cifras que mostró el pedido oficial para una dirección de Madrid, el 20 de noviembre, sin completar la compra. El kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas el servicio. La instalación profesional del Residencial 100 Mbps es opcional y cuesta 172 €, y con el Max es gratuita."
+        "Leímos el pedido oficial para una dirección de Puerta del Sol, en Madrid, el 23 de noviembre de 2026, sin completar la compra. El Residencial 100 Mbps costaba 24,50 € al mes (35 € sin descuento), el 200 Mbps 31,50 € (45 €) y el Máx. 45,50 € (65 €), todos con el kit en alquiler: 0 € al empezar y 0 € al mes. Los 19 € que se pagan hoy corresponden al envío.",
+        "La instalación profesional es opcional y cuesta 172 € en el 100 y el 200 Mbps, y es gratuita en el Máx. La recompensa del referido aparece en el pedido cuando lo abres desde el enlace, se abona como crédito en la factura tras dos ciclos mensuales completos y no se descuenta del precio del kit."
       ],
       "comparisonTable": {
         "headers": [
           "Pedido en Madrid",
-          "Valor mostrado"
+          "Al mes con 30 %",
+          "Al mes sin descuento"
         ],
         "rows": [
           [
-            "Total a pagar hoy",
+            "Residencial 100 Mbps",
+            "24,50 €",
+            "35 €"
+          ],
+          [
+            "Residencial 200 Mbps",
+            "31,50 €",
+            "45 €"
+          ],
+          [
+            "Máx.",
+            "45,50 €",
+            "65 €"
+          ],
+          [
+            "Kit en alquiler, al empezar y al mes",
+            "0 € y 0 €",
+            "0 € y 0 €"
+          ],
+          [
+            "Total a pagar hoy (envío)",
+            "19 €",
             "19 €"
-          ],
-          [
-            "Kit en alquiler (coste inicial y cuota mensual)",
-            "0 € y 0 € al mes"
-          ],
-          [
-            "Residencial 100 Mbps, por mes",
-            "24,50 €"
-          ],
-          [
-            "Max, por mes",
-            "45,50 €"
-          ],
-          [
-            "Instalación profesional, Residencial 100 Mbps (opcional)",
-            "172 €"
-          ],
-          [
-            "Instalación profesional, Max",
-            "0 €"
           ]
         ],
-        "caption": "Cifras del pedido en starlink.com con la oferta de la Black Friday activa. La duración del precio con descuento no aparecía en la lectura."
+        "caption": "Cifras del pedido en starlink.com para Madrid, leídas el 23 de noviembre de 2026. El 30 % vale hasta el 30 de noviembre."
       },
-      "image": {
-        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
-        "alt": "Antena Starlink Standard y el router",
-        "caption": "Antena y router de Starlink. Foto de Starlink.",
-        "objectFit": "contain",
-        "aspectRatio": 1.3316
+      "simulator": {
+        "title": "Simulador rápido: Madrid",
+        "scenarios": [
+          {
+            "label": "100 Mbps con el enlace",
+            "lines": [
+              {
+                "label": "Plan con 30 %",
+                "value": "24,50 € al mes"
+              },
+              {
+                "label": "Kit en alquiler",
+                "value": "0 € al empezar, 0 € al mes"
+              },
+              {
+                "label": "Recompensa del referido tras dos ciclos pagados",
+                "value": "Crédito en la factura (el importe sale en tu pedido)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Pagas hoy (envío)",
+            "totalValue": "19 €",
+            "note": "Las primeras facturas las pagas tú. La recompensa llega después de dos ciclos mensuales completos."
+          },
+          {
+            "label": "200 Mbps con el enlace",
+            "lines": [
+              {
+                "label": "Plan con 30 %",
+                "value": "31,50 € al mes"
+              },
+              {
+                "label": "Kit en alquiler",
+                "value": "0 € al empezar, 0 € al mes"
+              },
+              {
+                "label": "Recompensa del referido tras dos ciclos pagados",
+                "value": "Crédito en la factura (el importe sale en tu pedido)",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Pagas hoy (envío)",
+            "totalValue": "19 €",
+            "note": "La instalación profesional es opcional, 172 €, en este plan."
+          },
+          {
+            "label": "Sin el enlace",
+            "lines": [
+              {
+                "label": "Precio del plan y del kit",
+                "value": "El mismo que con el enlace"
+              },
+              {
+                "label": "Recompensa del referido",
+                "value": "0 €"
+              },
+              {
+                "label": "Lo que pierdes",
+                "value": "La recompensa entera",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Recompensa recibida",
+            "totalValue": "0 €",
+            "note": "El referido solo cuenta en el pedido que empieza desde un enlace de referido, antes de pagar."
+          }
+        ]
       },
-      "emphasis": "Según las cifras de la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 € o 45,50 € al mes según el plan, y cualquier recompensa por referido llega solo tras dos ciclos mensuales completos.",
+      "postParagraphs": [
+        "El 200 Mbps queda en medio: 31,50 € al mes con 30 %, frente a los 45 € de su precio normal. Si el Máx. te sobra y el 100 Mbps se queda corto, es el plan que conviene comparar primero."
+      ],
+      "emphasis": "Según la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 €, 31,50 € o 45,50 € al mes según el plan, y la recompensa llega solo tras dos ciclos mensuales completos.",
       "links": [
         {
-          "label": "Ver planes en tu dirección",
+          "label": "Consultar la Black Friday y el referido en mi dirección",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
       ]
     },
     {
-      "heading": "Cómo entra la recompensa en la cuenta",
+      "heading": "Cómo se ve en el pedido",
       "paragraphs": [
-        "Si abres el pedido con un enlace de referido, la pantalla muestra el valor de la recompensa para tu país. Ese valor no es el mismo en todas partes y no lo damos aquí, porque no lo vimos en una cuenta española.",
-        "Suma el importe inicial y las mensualidades que debas abonar hasta que llegue la recompensa, sin contar dos veces ninguna cuota. Resta la recompensa solo si tu pedido cumple las condiciones.",
-        "La suscripción tiene que seguir activa y al día durante dos ciclos mensuales completos, y la recompensa llega en crédito de servicio o, si tu cuenta lo ofrece, en dinero."
+        "La captura muestra el aviso “Referral Code Applied” de un pedido de Estados Unidos abierto con enlace de referido. El pedido con enlace enseña el aviso de referido aplicado y el importe de la recompensa de tu país.",
+        "Para comprobar el tuyo, abre el enlace, introduce tu dirección y busca el mismo aviso antes de pagar. Mira si el pedido muestra la recompensa y el precio mensual."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Pantalla de pedido en el sitio oficial de Starlink con el mensaje Referral Code Applied, que indica que al registrarte con este código tú y tu amigo recibís 100 dólares cada uno, en efectivo o crédito de servicio",
+        "caption": "Pedido en el sitio oficial con el enlace de referido aplicado (ejemplo de EE. UU.; en España el importe lo ves en tu pedido).",
+        "aspectRatio": 0.8747,
+        "objectFit": "contain"
+      }
+    },
+    {
+      "heading": "¿Vale la oferta en tu dirección?",
+      "paragraphs": [
+        "La oferta se muestra por dirección. En Madrid, el pedido ofrecía una prueba de 30 días y una entrega de 1 a 2 semanas; en otras zonas de España el plazo y los planes pueden cambiar. Introduce tu dirección, compara el precio mensual, el kit y la instalación, y guarda la pantalla antes de pagar.",
+        "Si estás en México, la consulta de Ciudad de México mostró solo el Residencial Max, con el equipo en compra y no en alquiler: $1,485 MXN al mes más $55 MXN de costo regulatorio. El Standard 4 X costaba $5,743 MXN ($7,599 menos $1,856) con plazo de 12 meses y multa de hasta $4,600 MXN; el Kit Mini, $2,303 MXN, sin el plazo de 12 meses en el pago. Con el envío de $475 MXN, hoy se pagaban $6,218 MXN o $2,778 MXN."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+        "alt": "Pedido de Starlink para Madrid con los planes Residencial 100 Mbps, 200 Mbps y Máx., el precio con descuento y el aviso de devolver el hardware en alquiler",
+        "caption": "Pedido para Madrid, consulta de 23/11/2026: planes de 100 Mbps a Máx. y kit en alquiler a 0 €.",
+        "aspectRatio": 0.622,
+        "objectFit": "portrait"
+      }
+    },
+    {
+      "heading": "Kit en alquiler, devolución y prueba de 30 días",
+      "paragraphs": [
+        "El pedido informa de que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler. Con la prueba de 30 días, el reembolso del kit y del primer mes exige cancelar y devolver el equipo en buen estado dentro de ese plazo. Por eso abrir el pedido no cuesta nada: ves el precio de tu dirección, pruebas la antena en tu tejado y solo entonces decides quedarte.",
+        "Pasado ese plazo, el pedido no fija una permanencia de 12 meses. Mira la [guía de contrato y cancelación](/es/reviews/starlink-permanencia-cancelar)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+        "alt": "Resumen del pedido de Starlink en Madrid con 35 € menos 10,50 € de descuento, el kit Mini X a 0 € y 19 € a pagar hoy",
+        "caption": "Resumen del pedido en Madrid (23/11/2026): 35 € menos 10,50 €, Mini X a 0 € y 19 € hoy.",
+        "aspectRatio": 0.726,
+        "objectFit": "portrait"
+      },
+      "links": [
+        {
+          "label": "Asegurar el referido antes de pagar el pedido",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Y después de la promoción: cómo proteger el precio",
+      "paragraphs": [
+        "El 30 % vale para pedidos hechos hasta el 30 de noviembre. Según las preguntas frecuentes de Starlink, el precio mensual no tiene una duración fija y la empresa puede cambiar los precios con un aviso de 30 días, así que el precio con descuento no está garantizado por un número de meses. Si piensas quedarte años, haz la cuenta con el precio normal.",
+        "Guarda antes de pagar una captura del resumen del pedido con el precio, la línea del kit y el aviso del referido, y compárala con tu primera factura. Si algo no coincide, abre una solicitud de soporte desde tu cuenta con la captura adjunta."
       ]
     },
     {
@@ -104,21 +219,24 @@
       ]
     },
     {
-      "heading": "¿Vale la oferta en tu dirección?",
+      "heading": "Los 4 errores que hacen perder la recompensa",
       "paragraphs": [
-        "La oferta se muestra por dirección. En la consulta de Madrid, el pedido ofrecía una prueba de 30 días y una entrega de 1 a 2 semanas. En otras zonas de España el plazo y los planes disponibles pueden cambiar, así que introduce tu dirección en el pedido y guarda la pantalla antes de pagar."
-      ]
-    },
-    {
-      "heading": "Kit en alquiler y devolución",
-      "paragraphs": [
-        "El pedido informa de que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler. Con la prueba de 30 días, el reembolso del kit y del primer mes exige cancelar y devolver el equipo en buen estado dentro de los 30 días. Mira la [guía de contrato y cancelación](/es/reviews/starlink-permanencia-cancelar)."
+        "Aunque hagas clic en el enlace, la recompensa se pierde por descuidos pequeños:"
+      ],
+      "bullets": [
+        "Comprar el kit en un marketplace o en una tienda e intentar usar el enlace después. El referido solo cuenta en un pedido hecho en starlink.com desde un enlace de referido, antes de pagar.",
+        "Abrir el enlace en el móvil y terminar el pedido horas después en otro dispositivo sin abrir el enlace de nuevo. El referido puede no acompañar al pedido: hazlo todo en el mismo dispositivo o vuelve a abrir el enlace y busca el aviso verde.",
+        "Registrarte con un nombre, un correo o una dirección que ya tuvo una cuenta de Starlink. La recompensa es para clientes nuevos.",
+        "Cancelar o retrasar el pago antes de completar dos ciclos mensuales pagados. La recompensa solo llega con el servicio activo y al día."
+      ],
+      "postParagraphs": [
+        "Si ya pagaste el pedido sin el enlace, no se puede añadir el referido después."
       ]
     },
     {
       "heading": "Cómo usar el enlace",
       "paragraphs": [
-        "Abre el enlace e introduce la dirección donde vas a instalar la antena. Elige el plan, comprueba el referido aplicado y guarda la oferta que aparece antes de pagar.",
+        "Abrir el enlace no te compromete a nada: los precios, la disponibilidad y la oferta solo aparecen después de escribir tu dirección. Introduce la dirección donde vas a instalar la antena, elige el plan, comprueba el referido aplicado y guarda la oferta que aparece antes de pagar.",
         "En la [página del referido de Starlink](/es/coupons/starlink) están el enlace y las reglas del programa."
       ]
     },
@@ -126,22 +244,24 @@
       "heading": "Preguntas frecuentes",
       "bullets": [
         "¿Tiene Starlink cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de servicio, como crédito en la factura, y quien lo recomendó recibe el mismo valor.",
-        "¿Tiene Starlink Black Friday? En España, el pedido oficial mostraba un 30 % de descuento en los planes de servicio, con el kit en alquiler a 0 €, en zonas seleccionadas.",
-        "¿Se suma el referido a la oferta? Comprueba en el pedido de tu dirección si aparecen las dos. La recompensa depende de la elegibilidad y de dos ciclos mensuales completos.",
-        "¿Cuánto se cobra en el pedido? En el pedido de Madrid que consultamos, el total a pagar hoy era de 19 €. Comprueba en tu pantalla qué incluye ese total.",
-        "¿Cuánto cuestan el Residencial y el Max al mes? En esa consulta, 24,50 € el Residencial 100 Mbps y 45,50 € el Max. Cambian según la dirección.",
-        "¿Hasta cuándo vale la oferta? El pedido pide contratar como muy tarde el 30 de noviembre. Introduce tu dirección para ver si está disponible."
+        "¿Tiene Starlink Black Friday? Sí. En España, el pedido oficial mostraba un 30 % de descuento en los planes de servicio, con el kit en alquiler a 0 €, en zonas seleccionadas y hasta el final de noviembre.",
+        "¿Se suma el referido a la oferta? Son dos líneas distintas del pedido. Comprueba en el pedido de tu dirección que aparecen las dos. La recompensa depende de la elegibilidad y de dos ciclos mensuales completos.",
+        "¿Cuánto se cobra en el pedido? En el pedido de Madrid que consultamos, el total a pagar hoy era de 19 €, con el kit en alquiler a 0 €.",
+        "¿Cuánto cuestan los planes al mes? En esa consulta, 24,50 € el Residencial 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el 30 % de descuento. Cambian según la dirección.",
+        "¿Puedo probar Starlink antes de decidir? Sí. Starlink devuelve el kit y el primer mes si cancelas y devuelves el equipo en buen estado dentro de los 30 días.",
+        "¿Puedo añadir el referido después de pagar? No. Solo cuenta en el pedido abierto desde el enlace, antes de pagar.",
+        "¿Hasta cuándo vale la oferta? Starlink la anuncia hasta el final de noviembre. Introduce tu dirección para ver si está disponible."
       ]
     }
   ],
   "cta": {
-    "text": "El pedido se abre en el sitio de Starlink. Comprueba el precio del plan, el kit y el valor del referido antes de pagar.",
-    "label": "Consultar la oferta en mi dirección",
+    "text": "Pagas el mismo precio que en el pedido oficial, conservas los 30 días de prueba y la devolución del kit alquilado si la antena no funciona en tu tejado, y la recompensa del referido entra en tu factura tras dos ciclos pagados.",
+    "label": "Ver mi dirección con el referido",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Precios leídos en la pantalla de pedido del sitio oficial, sin completar la compra. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+  "editorialNote": "Precios leídos en las pantallas de pedido del sitio oficial, sin completar la compra. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
   "relatedArticles": [
     {
       "slug": "starlink-enlace-referido-como-funciona"
@@ -157,11 +277,11 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "el pedido de tu dirección muestra la oferta del plan y las condiciones del kit antes de pagar.",
+      "el pedido de tu dirección muestra el 30 % en el plan y las condiciones del kit en alquiler antes de pagar.",
       "puedes esperar dos ciclos mensuales completos por la recompensa y pagar las cuotas mientras tanto."
     ],
     "skipIf": [
-      "tu pedido no muestra la oferta, porque las cifras leídas son de una sola dirección.",
+      "tu pedido no muestra la oferta, porque las cifras leídas son de las direcciones consultadas.",
       "puedes cancelar pronto y no quieres arriesgarte con la devolución del kit ni con perder el precio promocional."
     ]
   }

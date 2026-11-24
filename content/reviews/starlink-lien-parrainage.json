@@ -3,8 +3,8 @@
   "slug": "starlink-lien-parrainage",
   "translationKey": "starlink-indicacao",
   "locale": "fr",
-  "title": "Lien de parrainage Starlink : comment l'utiliser et quand la récompense arrive",
-  "seoTitle": "Parrainage Starlink : utiliser le lien et être récompensé",
+  "title": "Comment gagner 45 € en France en achetant votre premier Starlink via le lien de parrainage",
+  "seoTitle": "Comment gagner 45 € sur votre premier Starlink",
   "type": "Guide du code de parrainage",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Ouvrez le lien sur le site officiel et vérifiez la récompense sur la commande avant de payer. Qui peut l'utiliser, quand le montant arrive, crédit de service ou argent.",
-  "metaDescription": "Comment ouvrir le lien de parrainage Starlink, trouver le montant sur la commande et recevoir la récompense une fois les conditions du programme remplies.",
+  "description": "Starlink n'a pas de code promo : commandez votre premier kit avec le lien officiel de parrainage, payez le même prix et recevez 45 € en France après deux mois.",
+  "metaDescription": "Comment recevoir 45 € en France lors de votre première commande Starlink, ce que cela couvre sur les forfaits et comment activer le lien avant de payer.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,21 +31,132 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Ouvrez le lien de parrainage Starlink et saisissez votre adresse. Avant de payer, repérez la confirmation que le parrainage est appliqué et lisez le montant de la récompense sur la commande. Elle s'adresse aux nouveaux clients et arrive après deux cycles mensuels complets, en crédit de service ou en argent quand le compte propose cette option."
+        "Starlink ne propose aucun code promo à saisir au panier : en plus des offres de son site, passer par un lien de parrainage est le moyen officiel d'obtenir une récompense sur votre premier abonnement. En France, elle est de 45 € (dans un autre pays, le montant en euros ou en devise locale s'affiche sur la commande). Vous payez le même tarif que sur starlink.com et gardez l'essai de 30 jours ; avec le forfait Résidentiel 100 Mbit/s à 24,50 €/mois à Paris, 45 € couvrent presque deux mois. Ouvrez le lien avant de commander, vérifiez la mention du parrainage avant de payer, activez le kit et gardez l'abonnement à jour pendant deux cycles mensuels. Une commande finalisée sans le lien ne peut plus être corrigée."
       ]
+    },
+    {
+      "heading": "Pourquoi commander avec le lien",
+      "paragraphs": [
+        "Si vous ouvrez starlink.com de votre côté, le matériel et la mensualité coûtent la même chose qu'avec le lien. La différence, ce sont les 45 € que vous laisseriez de côté. Le crédit ne baisse pas le prix du kit le jour de la commande : il arrive sur votre facture après deux cycles mensuels complets et payés.",
+        "Les chiffres ci-dessous viennent d'adresses de référence. À votre adresse, le prix, le kit et les conditions peuvent être différents, et seule la commande les affiche."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+        "alt": "Page de commande Starlink pour Paris avec le forfait Résidentiel 100 Mbit/s à 24,50 € par mois, 0 € de matériel et l'indication de rendre le matériel loué",
+        "caption": "Paris : les forfaits de la page de commande, consultés le 23 novembre 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.5909
+      },
+      "comparisonTable": {
+        "caption": "Tarifs lus sur starlink.com le 23 novembre 2026, sans finaliser d'achat. Ils incluent la promotion de 30 % ; Starlink indique que le prix mensuel n'a pas de durée fixe et peut changer avec un préavis de 30 jours. Le crédit n'est pas une remise au paiement : il arrive après deux cycles complets.",
+        "headers": [
+          "Scénario lu sur starlink.com",
+          "Sans lien de parrainage",
+          "Avec le lien de Cecília",
+          "Ce que couvre le crédit"
+        ],
+        "rows": [
+          [
+            "France, Résidentiel 100 Mbit/s (Paris)",
+            "24,50 €/mois (35 € hors promotion), 0 € de location, 19 € aujourd'hui",
+            "Même commande + 45 € de crédit après 2 cycles payés",
+            "Presque 2 mois du forfait 100 Mbit/s et plus du double des frais de port"
+          ],
+          [
+            "France, Résidentiel 200 Mbit/s (Paris)",
+            "31,50 €/mois (45 €), 0 € de location",
+            "Même commande + 45 € de crédit",
+            "Plus d'un mois du forfait 200 Mbit/s"
+          ],
+          [
+            "France, Résidentiel Max (Paris)",
+            "45,50 €/mois (65 €), 0 € de location",
+            "Même commande + 45 € de crédit",
+            "Presque un mois complet du Max"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Ouvrir ma commande avec les 45 € de parrainage",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "simulator": {
+        "title": "Testez votre scénario",
+        "scenarios": [
+          {
+            "label": "Paris 100 Mbit/s + lien",
+            "lines": [
+              {
+                "label": "Location du kit Mini X",
+                "value": "0 €, à rendre en cas de résiliation"
+              },
+              {
+                "label": "Mensualité avec la promotion",
+                "value": "24,50 €/mois"
+              },
+              {
+                "label": "Crédit de parrainage après 2 cycles payés",
+                "value": "-45 € sur la facture",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Crédit par rapport à la mensualité",
+            "totalValue": "Presque 2 mois couverts",
+            "note": "Vous payez le même prix que sur le site et gardez les 30 jours d'essai."
+          },
+          {
+            "label": "Paris Max + lien",
+            "lines": [
+              {
+                "label": "Location du kit Standard 4",
+                "value": "0 €, à rendre en cas de résiliation"
+              },
+              {
+                "label": "Mensualité avec la promotion",
+                "value": "45,50 €/mois"
+              },
+              {
+                "label": "Crédit de parrainage après 2 cycles payés",
+                "value": "-45 € sur la facture",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Crédit par rapport à la mensualité",
+            "totalValue": "Presque 1 mois couvert",
+            "note": "19 € sont dus aujourd'hui ; le crédit arrive plus tard, pas au paiement."
+          },
+          {
+            "label": "Commande sans lien de parrainage",
+            "lines": [
+              {
+                "label": "Prix du kit et du forfait",
+                "value": "Le même qu'avec le lien"
+              },
+              {
+                "label": "Crédit de parrainage",
+                "value": "0 €, impossible à ajouter après"
+              },
+              {
+                "label": "Récompense laissée de côté",
+                "value": "45 € en France",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Récompense de parrainage reçue",
+            "totalValue": "0 €",
+            "note": "Le parrainage doit figurer sur la commande initiale, avant le paiement."
+          }
+        ]
+      }
     },
     {
       "heading": "Comment utiliser le lien, pas à pas",
       "paragraphs": [
         "Ouvrez le lien depuis la [page du parrainage Starlink](/fr/coupons/starlink) et indiquez l'adresse où vous utiliserez le service."
       ],
-      "image": {
-        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
-        "alt": "Maison avec l'antenne Starlink installée sur le toit",
-        "caption": "L'antenne installée sur un toit, ciel dégagé. Photo Starlink.",
-        "objectFit": "contain",
-        "aspectRatio": 1.4995
-      },
       "bullets": [
         "Choisissez un forfait Résidentiel ou Voyage éligible sur la commande.",
         "Repérez le message indiquant que le parrainage est appliqué, puis vérifiez la récompense et le total à payer.",
@@ -54,17 +165,62 @@
       ],
       "postParagraphs": [
         "Contrôlez ce point avant de payer. Starlink indique que le parrainage doit figurer sur la commande initiale."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Écran de commande sur le site officiel de Starlink avec le message Referral Code Applied, qui indique que vous et votre ami recevez chacun 100 $, en argent ou en crédit de service",
+        "caption": "Commande sur le site officiel avec le lien de parrainage appliqué (exemple du Nevada, États-Unis).",
+        "objectFit": "contain",
+        "aspectRatio": 0.8747
+      }
+    },
+    {
+      "heading": "Liste de contrôle avant de payer",
+      "paragraphs": [
+        "Cochez chaque point à l'écran avant de payer. Cela prend deux minutes et décide si le crédit figure sur votre commande."
+      ],
+      "checklist": {
+        "title": "Avant de valider la commande",
+        "items": [
+          "J'ai ouvert la commande avec le lien de parrainage de Cecília dans cette même fenêtre, pour ne pas perdre le crédit.",
+          "J'ai vérifié que la barre d'adresse reste sur starlink.com avant de saisir la moindre donnée.",
+          "J'ai lancé le test d'obstructions de l'application Starlink à l'endroit prévu pour confirmer que le ciel est dégagé.",
+          "J'ai vu dans le récapitulatif de la commande la mention du parrainage appliqué, le prix du kit et s'il y a un engagement de 12 mois.",
+          "J'ai enregistré une capture du récapitulatif avec la mensualité et la règle des 30 jours avant de payer."
+        ]
+      }
     },
     {
       "heading": "Combien cela rapporte et quand la récompense arrive",
       "paragraphs": [
         "Le montant dépend du pays où la personne s'inscrit et s'affiche sur la commande ou dans le compte. Celui qui parraine reçoit la même somme, en argent ou en crédit de service.",
         "L'abonnement doit rester actif et à jour pendant deux cycles mensuels complets. Le centre d'aide de Starlink indique que le versement peut commencer à partir de 60 jours après l'activation, selon le pays, le compte et la vérification d'identité.",
-        "Le crédit sur la facture est le mode par défaut. Si votre compte propose le paiement en argent, ouvrez l'onglet Parrainages depuis le navigateur, choisissez le mode de récompense."
+        "Le crédit sur la facture est le mode par défaut. Si votre compte propose le paiement en argent, ouvrez l'onglet Parrainages depuis le navigateur, choisissez le mode de récompense. Le crédit arrive sur la facture et ne réduit pas le prix du kit sur la commande."
       ],
       "emphasis": "La récompense n'est versée qu'après deux cycles mensuels complets d'abonnement actif et à jour, par défaut en crédit sur la facture, et la personne qui s'abonne et celle qui parraine reçoivent le même montant ; celui de votre pays s'affiche sur la commande.",
       "emphasisAfterParagraph": 3
+    },
+    {
+      "heading": "Ouvrir le lien engage-t-il à quelque chose ? Le test de 30 jours",
+      "paragraphs": [
+        "Ouvrir le lien n'engage à rien. Le prix du forfait, le kit, la disponibilité et l'existence d'un engagement n'apparaissent qu'une fois votre adresse saisie sur starlink.com.",
+        "Après le paiement, Starlink laisse 30 jours pour rendre le kit, selon les conditions de sa page. Si l'antenne ne fonctionne pas sur votre toit, vous pouvez résilier et renvoyer le matériel dans ce délai.",
+        "C'est pourquoi le lien passe avant le test : le parrainage ne compte que sur la commande initiale. Qui teste sans lui paie la même chose le premier jour et perd les 45 € s'il décide de garder l'antenne."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+        "alt": "Maison avec l'antenne Starlink installée sur le toit",
+        "caption": "L'antenne installée sur un toit, ciel dégagé. Photo Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.4995
+      },
+      "links": [
+        {
+          "label": "Sécuriser la récompense avant de commander",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Qui peut en profiter",
@@ -81,15 +237,36 @@
       ]
     },
     {
-      "heading": "Et l'offre Black Friday ?",
+      "heading": "Quatre erreurs qui font perdre le crédit même après avoir cliqué",
       "paragraphs": [
-        "La page de commande officielle annonçait 30 % de réduction sur les forfaits pour les inscriptions avant le 30 novembre. Le parrainage et l'offre sont deux lignes distinctes. Regardez sur votre commande si les deux apparaissent. Le détail est dans notre [calcul de la Black Friday Starlink](/fr/reviews/starlink-black-friday-offre)."
+        "La plupart des crédits perdus viennent de l'un de ces quatre oublis."
+      ],
+      "bullets": [
+        "Acheter le kit chez un revendeur ou sur une place de marché. Le programme ne compte que les commandes passées sur starlink.com via le lien.",
+        "Payer sans vérifier la mention. Le parrainage doit figurer sur la commande initiale et ne peut pas être ajouté après : sans la mention à l'écran, rouvrez le lien avant de payer. Si vous changez d'appareil ou de navigateur en cours de commande, rouvrez le lien et vérifiez de nouveau la mention.",
+        "Utiliser le lien en étant ou en ayant été client. Le crédit est réservé à ceux qui s'abonnent à Starlink pour la première fois.",
+        "Résilier trop tôt. Le crédit exige un abonnement actif et à jour pendant deux cycles mensuels complets, et le versement peut commencer à partir de 60 jours après l'activation."
       ]
     },
     {
-      "heading": "Comment suivre un parrainage",
+      "heading": "Et l'offre Black Friday ?",
       "paragraphs": [
-        "Dans l'onglet Parrainages du site ou de l'application, suivez l'état des personnes inscrites par votre lien. Starlink prévient par e-mail quand quelqu'un passe commande. Un parrainage peut passer par une vérification d'éligibilité avant de donner droit à la récompense."
+        "La page de commande officielle annonçait 30 % de réduction sur les forfaits pour les inscriptions avant le 30 novembre. Le parrainage et l'offre sont deux lignes distinctes. Regardez sur votre commande si les deux apparaissent. Le détail est dans notre [calcul de la Black Friday Starlink](/fr/reviews/starlink-black-friday-offre).",
+        "Dans le récapitulatif de la commande à Paris pour le forfait 100 Mbit/s, Starlink affichait 35 € moins 10,50 € (30 %), le kit Mini X en location à 0 € et 19 € à payer aujourd'hui. Si l'engagement vous inquiète, lisez le [guide de l'engagement et de la résiliation Starlink](/fr/reviews/starlink-engagement-resilier) et [Starlink vaut-il le coup](/fr/reviews/starlink-vaut-il-le-coup)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+        "alt": "Récapitulatif de la commande Starlink à Paris : 35 € moins 10,50 €, kit Mini X à 0 € et 19 € à payer aujourd'hui",
+        "caption": "Paris : récapitulatif de la commande du forfait Résidentiel 100 Mbit/s, consulté le 23 novembre 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.6625
+      }
+    },
+    {
+      "heading": "Comment suivre un parrainage et utiliser votre propre lien",
+      "paragraphs": [
+        "Dans l'onglet Parrainages du site ou de l'application, suivez l'état des personnes inscrites par votre lien. Starlink prévient par e-mail quand quelqu'un passe commande. Un parrainage peut passer par une vérification d'éligibilité avant de donner droit à la récompense.",
+        "Une fois client actif d'un forfait Résidentiel ou Voyage, vous pouvez à votre tour parrainer, et celui qui parraine reçoit le même montant que le nouveau client. Le montant de votre pays s'affiche sur la commande de la personne qui s'abonne."
       ]
     },
     {
@@ -101,15 +278,16 @@
         "Quand la récompense arrive-t-elle ? Le centre d'aide indique que le versement peut commencer à partir de 60 jours après l'activation, si le parrainage remplit les conditions du programme.",
         "Le parrainage fonctionne-t-il chez un revendeur ? Le programme exige un achat directement sur starlink.com via le lien.",
         "J'ai déjà été client, puis-je utiliser le lien ? La récompense est réservée à ceux qui souscrivent à Starlink pour la première fois.",
-        "Faut-il saisir un code ? Non. Le lien applique le parrainage, et la confirmation apparaît sur la commande."
+        "Faut-il saisir un code ? Non. Le lien applique le parrainage, et la confirmation apparaît sur la commande.",
+        "Peut-on ajouter le parrainage après avoir payé ? Non. Starlink exige que le parrainage figure sur la commande initiale, passée sur starlink.com avec un lien de parrainage, avant le paiement."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Vérifiez sur la commande la récompense affichée pour votre adresse avant de payer.",
-    "label": "Voir le parrainage sur la commande",
+    "text": "Vous payez exactement le même prix que sur le site officiel, gardez les 30 jours pour rendre le kit s'il ne fonctionne pas sur votre toit et sécurisez 45 € de crédit en France après deux cycles mensuels.",
+    "label": "Activer mes 45 € sur starlink.com",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

@@ -3,8 +3,8 @@
   "slug": "starlink-vaut-il-le-coup",
   "translationKey": "starlink-vale-a-pena",
   "locale": "fr",
-  "title": "Starlink vaut-il le coup ? Les prix par forfait et pour qui il a du sens",
-  "seoTitle": "Starlink vaut-il le coup ? Prix et kit loué",
+  "title": "Starlink vaut-il le coup ? Tarifs, fibre instable et connexion de secours",
+  "seoTitle": "Starlink vaut-il le coup ? Prix, fibre et secours",
   "type": "Guide d'achat",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Comparez le coût mensuel de Starlink avec la connexion qui arrive chez vous. Voyez les prix par forfait, le kit loué et comment vérifier où poser l'antenne.",
-  "metaDescription": "Starlink vaut-il le coup ? Prix par forfait, kit loué, pour qui il a du sens et quand la fibre ou la 4G reviennent moins cher.",
+  "description": "Voyez si Starlink vaut le coup : zones sans fibre ou quartiers où la fibre locale coupe souvent. Prix par forfait, kit loué à 0 € et usage en connexion de secours.",
+  "metaDescription": "Starlink vaut-il le coup même avec la fibre ? Tarifs par forfait, kit loué, fibre instable et utilisation comme connexion principale ou de secours.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,53 +31,133 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Starlink peut valoir le coup dans les maisons où il manque une connexion stable. Si une fibre fiable arrive déjà chez vous, comparez le coût total avant de changer. Additionnez les mensualités de votre adresse et les frais d'installation éventuels, puis utilisez l'application Starlink pour vérifier où l'antenne peut aller."
+        "Oui, Starlink vaut le coup là où aucune connexion stable n’arrive, mais aussi là où la fibre existe et coupe souvent ou débite bien moins que prévu. Nous l’avons souscrite comme alternative et connexion de secours à notre fibre instable. Si votre fibre est vraiment stable, elle reste plus avantageuse en prix et en latence. L’essai est peu risqué : le kit est loué à 0 € sur la commande de Paris, avec 30 jours pour le renvoyer."
       ]
     },
     {
       "heading": "Combien cela coûte",
       "paragraphs": [
-        "Nous avons lu ces prix le 20 novembre 2026 sur la page de commande officielle, pour une adresse à Paris, avec l'offre de 30 % sur les forfaits. Le kit est loué à 0 € au départ et 0 € par mois, à renvoyer si vous annulez."
+        "Le 23 novembre 2026, nous avons lu la page de commande officielle pour une adresse publique à Paris, avec l’offre de 30 % sur les forfaits. Le kit est loué, à 0 € au départ et 0 € par mois, et se renvoie si vous annulez. Le jour de la commande, il restait 19 € à payer. La page précise que le prix mensuel n’a pas de durée fixe et que Starlink peut le modifier avec un préavis de 30 jours."
       ],
       "comparisonTable": {
         "headers": [
-          "Forfait",
-          "Par mois",
-          "Kit",
+          "Forfait à Paris",
+          "Par mois avec l’offre",
+          "Prix de base",
+          "Kit loué",
           "Installation professionnelle"
         ],
         "rows": [
           [
-            "Résidentiel 100 Mbit/s",
-            "24,50 €",
-            "Loué, 0 €",
-            "172 €, optionnelle"
+            "Résidentiel 100 Mbit/s",
+            "24,50 €",
+            "35 €",
+            "Mini X, 0 € et 0 €/mois",
+            "172 €, optionnelle"
           ],
           [
-            "Résidentiel 200 Mbit/s",
-            "31,50 €",
-            "Loué, 0 €",
-            "172 €, optionnelle"
+            "Résidentiel 200 Mbit/s",
+            "31,50 €",
+            "45 €",
+            "Standard 4, 0 € et 0 €/mois",
+            "172 €, optionnelle"
           ],
           [
             "Résidentiel Max",
-            "45,50 €",
-            "Loué, 0 €",
+            "45,50 €",
+            "65 €",
+            "Standard 4, 0 € et 0 €/mois",
             "Gratuite"
           ]
         ],
-        "caption": "Prix mensuels avec l'offre de 30 %. Le total à payer le jour de la commande était de 19 €."
+        "caption": "Prix mensuels de la page de commande à Paris avec l’offre de 30 %. Le prix de base est celui de la grille sans l’offre ; le total à payer le jour de la commande était de 19 €."
+      },
+      "simulator": {
+        "title": "Simulateur : ce que demande chaque scénario",
+        "scenarios": [
+          {
+            "label": "Paris, 100 Mbit/s",
+            "lines": [
+              {
+                "label": "Kit loué (Mini X)",
+                "value": "0 € et 0 €/mois",
+                "highlight": true
+              },
+              {
+                "label": "Mensualité avec l’offre de 30 %",
+                "value": "24,50 €"
+              },
+              {
+                "label": "Mensualité de base",
+                "value": "35 €"
+              }
+            ],
+            "totalLabel": "À payer le jour de la commande (livraison)",
+            "totalValue": "19 €",
+            "note": "Installation professionnelle optionnelle à 172 €. Vous renvoyez le kit si vous annulez."
+          },
+          {
+            "label": "Paris, 200 Mbit/s",
+            "lines": [
+              {
+                "label": "Kit loué (Standard 4)",
+                "value": "0 € et 0 €/mois",
+                "highlight": true
+              },
+              {
+                "label": "Mensualité avec l’offre de 30 %",
+                "value": "31,50 €"
+              },
+              {
+                "label": "Mensualité de base",
+                "value": "45 €"
+              }
+            ],
+            "totalLabel": "À payer le jour de la commande (livraison)",
+            "totalValue": "19 €",
+            "note": "Installation professionnelle optionnelle à 172 €."
+          },
+          {
+            "label": "Paris, Max",
+            "lines": [
+              {
+                "label": "Kit loué (Standard 4)",
+                "value": "0 € et 0 €/mois"
+              },
+              {
+                "label": "Mensualité avec l’offre de 30 %",
+                "value": "45,50 €"
+              },
+              {
+                "label": "Installation professionnelle",
+                "value": "0 €",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "À payer le jour de la commande (livraison)",
+            "totalValue": "19 €",
+            "note": "Mensualité de base de 65 €, sans durée fixe annoncée et avec un préavis de 30 jours."
+          }
+        ]
       },
       "postParagraphs": [
-        "La page lue ne dit pas combien de temps dure la réduction, donc n'extrapolez pas ces prix sur 12 mois sans vérifier la durée affichée sur votre commande. Faites le calcul d'abord sans la récompense du [parrainage Starlink](/fr/coupons/starlink), puis ajoutez-la si votre commande l'affiche."
+        "Le forfait de 200 Mbit/s est celui que beaucoup de comparatifs oublient : à 31,50 €, il coûte 7 € de plus par mois que le 100 Mbit/s et inclut le kit Standard 4 en location. Comme la page ne fixe pas de durée pour le prix réduit, ne multipliez pas ces tarifs par 12 sans vérifier votre propre commande.",
+        "Faites d’abord le calcul sans la récompense. Avec notre lien, la personne qui s’abonne reçoit 45 € en France après deux mois d’abonnement, sous forme de crédit sur la facture. Voyez le [parrainage Starlink](/fr/coupons/starlink)."
       ],
       "links": [
         {
-          "label": "Voir les forfaits à votre adresse",
+          "label": "Simuler le forfait et le kit pour mon adresse",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+        "alt": "Écran officiel de Starlink à Paris montrant le forfait 100 Mbit/s à 24,50 € par mois et le matériel loué à 0 €",
+        "caption": "Page de commande à Paris, consultée le 23/11/2026 : 100 Mbit/s à 24,50 € par mois et matériel loué à renvoyer si vous annulez.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.5909
+      }
     },
     {
       "heading": "Où poser l'antenne",
@@ -99,12 +179,38 @@
       }
     },
     {
-      "heading": "Quand comparer avec la fibre ou la 4G",
+      "heading": "Au-delà du tarif : fibre instable, coupures locales et connexion de secours",
       "paragraphs": [
-        "Si une fibre stable arrive déjà, comparez l'installation, les mensualités et les éventuels engagements de chaque offre. Pour la 4G, ajoutez le prix du matériel dont vous aurez besoin et vérifiez que le forfait a assez de données pour la maison."
+        "Comparer seulement la mensualité ne suffit pas quand la ligne fixe de votre adresse est bon marché mais décroche chaque semaine ou ne délivre qu’une fraction du débit payé. Les opérateurs régionaux et les réseaux saturés souffrent souvent de câbles sectionnés, de maintenances sans préavis et de ralentissements aux heures de pointe. Si vous télétravaillez, faites des visioconférences ou dépendez de caméras et de domotique, cela pèse plus que quelques euros par mois.",
+        "Dans notre cas, nous avons souscrit Starlink comme alternative et connexion de secours à notre fibre instable. Comme le signal vient de satellites, il ne dépend ni des câbles de votre rue ni du même opérateur : Starlink peut remplacer une fibre défaillante ou servir de voie de réserve quand la fibre tombe.",
+        "L’essai est peu risqué : le kit est loué à 0 € au départ, la page ne mentionne pas de durée fixe et vous avez 30 jours pour le renvoyer. Vous mesurez la stabilité réelle sur votre toit et ne gardez l’abonnement que s’il règle le problème. Si vous envisagez plutôt la 4G ou la 5G à domicile comme secours, ajoutez le routeur et vérifiez le volume de données."
       ],
-      "emphasis": "Sans fibre stable ni 4G correcte à l'adresse, Starlink entre dans la comparaison ; avec une fibre stable, le changement ne se justifie que si le total des mois prévus, matériel et mensualités additionnés, reste sous le coût de la connexion actuelle.",
-      "emphasisAfterParagraph": 1
+      "emphasis": "Si votre fibre est vraiment stable et délivre le débit prévu, changer uniquement pour le prix mensuel est rarement rentable ; quand les opérateurs locaux enchaînent coupures et ralentissements, Starlink vaut par sa fiabilité et son indépendance comme ligne principale ou de secours.",
+      "emphasisAfterParagraph": 3,
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antenne et routeur officiels de Starlink pouvant servir de connexion principale ou de secours",
+        "caption": "Antenne et routeur officiels de Starlink, indépendants du câblage de l’opérateur local. Photo Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Utiliser Starlink avec une fibre peu fiable",
+      "paragraphs": [
+        "Cette partie est un conseil général, pas le récit de notre installation. Il y a deux façons d’utiliser Starlink à côté d’une fibre instable, de la plus simple à l’automatique.",
+        "Niveau 1, sans coût en plus : gardez le Wi-Fi de Starlink comme second réseau et basculez votre téléphone ou votre ordinateur dessus quand la fibre tombe en pleine réunion. Le basculement est manuel et prend quelques secondes, mais il faut remarquer la coupure et agir.",
+        "Niveau 2, automatique : utilisez un routeur Dual-WAN (ou multi-WAN) avec basculement automatique. La fibre arrive sur un port WAN, Starlink sur l’autre, et le routeur envoie le trafic vers Starlink quand il détecte la panne de la fibre. Pour cela, Starlink se branche en général sur votre routeur via le mode bypass de l’application, qui laisse votre routeur gérer le réseau. Vérifiez auprès du support Starlink ce que votre modèle exige, car certains kits demandent un adaptateur Ethernet.",
+        "Lors d’un basculement automatique, les appels en cours et les VPN peuvent se reconnecter quelques secondes, car votre adresse de sortie change. Testez le basculement avant de compter dessus : débranchez la fibre quelques minutes et vérifiez que les appels, les caméras et le télétravail reviennent seuls."
+      ]
+    },
+    {
+      "heading": "Pluie forte, vent et coupures de courant",
+      "paragraphs": [
+        "L’ancien internet par satellite, en orbite haute, a un délai de plusieurs centaines de millisecondes, ce qui gêne les appels et les jeux. Starlink utilise des satellites en orbite basse et publie une latence typique de 25 à 60 ms au sol, une référence de l’entreprise sans mesure à notre adresse.",
+        "Une pluie très forte, la neige et les orages peuvent réduire les performances un moment, et le vent demande une antenne bien fixée. Comparez avec la fibre : un câble sectionné dans la rue peut mettre longtemps à être réparé, et Starlink n’en dépend pas.",
+        "La coupure de courant est un autre point : l’antenne et le routeur de Starlink ont besoin d’électricité, tout comme les équipements de la fibre. Un onduleur ou une batterie portable dimensionnés pour la consommation indiquée dans les spécifications de Starlink maintiennent la connexion pendant les coupures brèves. Si le courant manque dans tout le quartier, le réseau de la rue peut aussi tomber : testez l’ensemble avant de compter dessus."
+      ]
     },
     {
       "heading": "Débit et jeux en ligne",
@@ -122,7 +228,15 @@
     {
       "heading": "Matériel loué et résiliation",
       "paragraphs": [
-        "Le kit est loué, et la commande demande de renvoyer le matériel si vous annulez. Le remboursement du kit et du premier mois s'applique si vous annulez et renvoyez le kit en bon état dans les 30 jours. Notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier) détaille la marche à suivre."
+        "Le kit est loué, et la commande demande de renvoyer le matériel si vous annulez. La page ne fixe pas de durée minimale et prévoit un préavis de 30 jours pour les changements de prix. Le remboursement du kit et du premier mois s’applique si vous annulez et renvoyez le kit en bon état dans les 30 jours.",
+        "Ouvrir la commande ne coûte rien : prix, remises et disponibilité n’apparaissent qu’après la saisie de votre adresse sur starlink.com. Le parrainage ne compte que si la commande passe par un lien de parrainage, avant le paiement, sur starlink.com et non sur une place de marché. Notre [guide de l’engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier) détaille la marche à suivre."
+      ],
+      "links": [
+        {
+          "label": "Tester à mon adresse avec 30 jours pour renvoyer",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -135,34 +249,36 @@
       "heading": "Questions fréquentes",
       "bullets": [
         "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, la personne qui s'abonne reçoit 45 € en France après deux mois d'abonnement, sous forme de crédit sur la facture, et le parrain reçoit le même montant.",
-        "Starlink vaut-il le coup en ville ? Avec une fibre stable à l'adresse, comparez l'installation, les mensualités et les engagements avant de changer.",
-        "Starlink est-il meilleur que la fibre ? Sans bonne fibre sur place, cela vaut la peine de demander un tarif Starlink et de vérifier que le ciel est dégagé. Si les deux sont disponibles, comparez la stabilité et le coût à votre adresse.",
-        "Starlink est-il bon pour les jeux ? Testez la latence et les coupures à votre adresse. La plage typique publiée par Starlink est une référence générale.",
-        "Starlink est-il illimité ? Vérifiez sur la commande les conditions du forfait qui s'affiche, notamment les limites de débit.",
-        "Combien coûte Starlink par mois ? Pour une adresse à Paris, la commande affichait 24,50 € pour le 100 Mbit/s, 31,50 € pour le 200 Mbit/s et 45,50 € pour le Max, avec l'offre en cours. Le prix change selon l'adresse."
+        "Starlink vaut-il le coup en ville ? Cela dépend de la vraie qualité de votre fibre actuelle. Si elle est bon marché et stable, elle gagne souvent sur le coût. Si elle coupe souvent ou débite bien moins que prévu, Starlink peut valoir le coup comme alternative ou secours, à condition d’avoir un ciel dégagé. C’était notre cas.",
+        "Starlink est-il meilleur que la fibre ? En débit maximal et en latence, une fibre saine garde souvent l’avantage. En continuité face aux pannes locales et aux câbles coupés dans la rue, Starlink aide parce que c’est une voie indépendante de l’opérateur local.",
+        "Starlink est-il bon pour les jeux ? Testez la latence et les coupures à votre adresse. La plage typique publiée par Starlink est une référence générale.",
+        "Starlink est-il illimité ? Starlink annonce des données illimitées sur les forfaits résidentiels. Vérifiez sur la commande les limites de débit du forfait affiché.",
+        "Combien coûte Starlink par mois ? Pour une adresse à Paris, avec l’offre, 24,50 € le forfait 100 Mbit/s, 31,50 € le 200 Mbit/s et 45,50 € le Max ; les prix de base sont de 35 €, 45 € et 65 €. Le prix change selon l’adresse.",
+        "Peut-on utiliser Starlink comme secours de la fibre ? Oui. Avec un routeur Dual-WAN à basculement automatique, Starlink prend le relais quand la fibre tombe ; sans lui, vous pouvez changer de réseau à la main. Vérifiez auprès du support Starlink ce que votre modèle exige pour le mode bypass."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "vous n'avez pas de fibre correcte à votre adresse et la 4G est faible aussi.",
-      "vous acceptez de louer le matériel et de le renvoyer si vous partez, et vous lisez le prix de votre adresse sur la commande."
+      "vous n’avez pas de fibre correcte à votre adresse et la 4G est faible aussi.",
+      "même là où une fibre bon marché existe, votre réseau local coupe souvent ou débite bien moins que prévu, et il vous faut une alternative fiable ou une connexion de secours.",
+      "vous avez vérifié la vue du ciel dans l’application Starlink et acceptez un kit loué à renvoyer si vous annulez."
     ],
     "skipIf": [
-      "vous avez déjà une fibre stable à votre adresse, sans matériel à renvoyer.",
-      "vous jouez en ligne et avez besoin d'une latence très basse, que la page lue ne garantit pas."
+      "vous avez déjà une fibre vraiment stable, au débit prévu et sans coupures fréquentes qui demanderaient une redondance.",
+      "vous jouez en ligne en compétition et avez besoin d’une latence minimale garantie : Starlink publie une plage typique, sans promettre un chiffre pour votre adresse."
     ]
   },
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Saisissez votre adresse sur le site de Starlink et vérifiez le forfait, le kit et la mensualité avant de payer.",
-    "label": "Voir les forfaits à mon adresse",
+    "text": "Vous payez le même prix que sur le site officiel, gardez les 30 jours pour renvoyer le kit s’il ne fonctionne pas sur votre toit et recevez la récompense du programme de parrainage une fois les règles respectées.",
+    "label": "Voir mon adresse sur starlink.com avec le parrainage",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Prix relevés sur la page de commande officielle. Nous n'avons pas encore utilisé le service. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+  "editorialNote": "Nous avons souscrit Starlink comme alternative et connexion de secours face à l’instabilité de notre fibre. Les prix et les conditions du matériel de ce guide ont été relevés sur les pages de commande publiques du site officiel. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
   "relatedArticles": [
     {
       "slug": "starlink-engagement-resilier"

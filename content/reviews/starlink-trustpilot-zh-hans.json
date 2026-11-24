@@ -87,6 +87,36 @@
           ]
         ],
         "caption": "Trustpilot，starlink.com 主页，2026 年 11 月 23 日查看。"
+      },
+      "metrics": {
+        "items": [
+          {
+            "label": "TrustScore",
+            "value": "1.6",
+            "unit": "/5",
+            "note": "未认领主页"
+          },
+          {
+            "label": "评价总数",
+            "value": "879",
+            "note": "仅自然产生"
+          },
+          {
+            "label": "公司回复",
+            "value": "0%",
+            "note": "464 条负面中 0 条"
+          },
+          {
+            "label": "1 星 vs 5 星",
+            "value": "71%",
+            "unit": "vs 17%",
+            "note": "客服和账单居首"
+          }
+        ],
+        "summary": {
+          "badge": "看懂落差",
+          "text": "好评集中在速度和稳定的信号；抱怨则集中在自动化客服、账单和价格调整。"
+        }
       }
     },
     {
@@ -136,15 +166,32 @@
       "heading": "这对订阅者意味着什么",
       "paragraphs": [
         "付款之前，请在 starlink.com 针对你自己的地址确认方案、套件（租用或购买）、税费和合同：这些会因国家甚至地址而不同。把下单当天的优惠页面截图保存，每张账单都拿来对照。",
+        "最简单的保护办法，是直接在 starlink.com 下单，并把订单摘要页面保存下来，上面有价格、套件、合同条件和已应用的推荐。之后拿第一张账单和这张截图对照。推荐只在通过推荐链接打开的订单上、付款之前才算数，事后无法补上。",
         "租用套件和退还规定见[合同、取消与退款指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
       ],
-      "image": {
-        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-        "alt": "固定在木屋屋顶上的 Starlink 天线",
-        "caption": "装好的家用天线。Starlink 官方照片。",
-        "objectFit": "contain",
-        "aspectRatio": 1.8079
-      }
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "马来西亚吉隆坡的 Starlink 方案页面：100 Mbps 每月 RM 135，Mini X 套件 RM 900（购买）",
+          "caption": "马来西亚吉隆坡，100 Mbps 方案：月费和购买 Mini X 套件的价格。Starlink 的选择器没有中文界面，这里以马来西亚为例，说明值得保存的页面。2026年11月23日查询。",
+          "objectFit": "square",
+          "aspectRatio": 0.9898
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "固定在木屋屋顶上的 Starlink 天线",
+          "caption": "装好的家用天线。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      ],
+      "links": [
+        {
+          "label": "在 starlink.com 打开官方订单并确认我所在的地区",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "怎么提出问题",
@@ -156,15 +203,32 @@
           "label": "Trustpilot 上的 starlink.com 主页",
           "href": "https://www.trustpilot.com/review/starlink.com"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standard 套件内容：天线、路由器、支架和线缆",
+          "caption": "Starlink Standard 套件：天线、路由器、支架和线缆。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ]
     },
     {
       "heading": "订阅之前",
       "paragraphs": [
         "订阅之前，请先确认网站和条款。如何认出官方网站和冒用名称的主页，见[Starlink 可靠吗？](/zh-hans/reviews/starlink-trust-zh-hans)。",
+        "打开订单不会让你承担任何义务：方案、价格、可用性和合同条件，要输入地址后才会显示。Starlink 的 30 天政策在订单上写明，若在期限内取消并将套件完好退还，可获退款；若是带合同的补贴套件，请确认 30 天后是否有费用。",
         "[Starlink 推荐](/zh-hans/coupons/starlink)页面有链接和计划规则。推荐不是优惠券：奖励在订阅满两个月后以账单抵扣的形式到账，优先级、企业和商用方案不适用。"
       ],
-      "emphasis": "按表格里的数字，对地址上没有其他好网络选择的人来说，在 starlink.com 针对该地址确认方案、套件、税费和合同之后再订阅是合理的，因为 1.6 反映的多半是客服、账单和价格方面的抱怨，而不是信号质量。"
+      "emphasis": "按表格里的数字，对地址上没有其他好网络选择的人来说，在 starlink.com 针对该地址确认方案、套件、税费和合同之后再订阅是合理的，因为 1.6 反映的多半是客服、账单和价格方面的抱怨，而不是信号质量。",
+      "links": [
+        {
+          "label": "在 starlink.com 确认我的地址是否可用",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "常见问题",
@@ -203,8 +267,8 @@
     ]
   },
   "cta": {
-    "text": "在 Starlink 网站输入你的地址，付款前先确认方案、套件和月费。",
-    "label": "查看你地址的方案",
+    "text": "通过推荐链接打开订单，确认你地址的方案、套件和合同，付款前把摘要页面保存下来。价格与官方网站相同。",
+    "label": "在 starlink.com 打开我的订单",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

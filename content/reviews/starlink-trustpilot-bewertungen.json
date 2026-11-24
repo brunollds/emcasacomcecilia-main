@@ -87,6 +87,36 @@
           ]
         ],
         "caption": "Trustpilot, Profil von starlink.com, gelesen am 23. November 2026."
+      },
+      "metrics": {
+        "items": [
+          {
+            "label": "TrustScore",
+            "value": "1,6",
+            "unit": "/5",
+            "note": "Nicht beanspruchtes Profil"
+          },
+          {
+            "label": "Bewertungen gesamt",
+            "value": "879",
+            "note": "Nur organisch"
+          },
+          {
+            "label": "Antworten des Unternehmens",
+            "value": "0 %",
+            "note": "0 von 464 negativen"
+          },
+          {
+            "label": "1 Stern vs. 5 Sterne",
+            "value": "71 %",
+            "unit": "vs. 17 %",
+            "note": "Support und Abrechnung vorn"
+          }
+        ],
+        "summary": {
+          "badge": "Die Lücke lesen",
+          "text": "Das Lob betrifft Geschwindigkeit und stabiles Signal; die Beschwerden konzentrieren sich auf automatisierten Support, Abrechnung und Preisänderungen."
+        }
       }
     },
     {
@@ -136,15 +166,32 @@
       "heading": "Was das für Abonnenten bedeutet",
       "paragraphs": [
         "Prüfen Sie vor der Zahlung Tarif, Kit (Miete oder Kauf), Steuern und Vertrag auf starlink.com für Ihre eigene Adresse: Sie ändern sich je nach Land und sogar je nach Adresse. Speichern Sie einen Screenshot des Angebots vom Bestelltag und vergleichen Sie jede Rechnung damit.",
+        "Der einfachste Schutz: direkt auf starlink.com bestellen und den Screenshot der Bestellübersicht speichern, mit Preis, Kit, Vertragsbedingungen und angewendeter Empfehlung. Vergleichen Sie dann die erste Rechnung mit diesem Screenshot. Eine Empfehlung zählt nur bei einer Bestellung, die über einen Empfehlungslink geöffnet wurde, und zwar vor der Zahlung; nachträglich lässt sie sich nicht hinzufügen.",
         "Die Regeln zu Mietkit und Rückgabe stehen im [Leitfaden zu Vertrag, Kündigung und Erstattung](/de/reviews/starlink-vertrag-kuendigen)."
       ],
-      "image": {
-        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-        "alt": "Starlink-Antenne am Dach eines Holzhauses",
-        "caption": "Antenne für Privathaushalte, installiert. Foto von Starlink.",
-        "objectFit": "contain",
-        "aspectRatio": 1.8079
-      }
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "alt": "Starlink-Tarifseite für Berlin: 100 Mbit/s für 17,50 € im Monat, mit Mietkit für 0 €",
+          "caption": "Berlin, Tarif 100 Mbit/s: Monatspreis, Mietkit für 0 € und der Hinweis, die gemietete Hardware zurückzusenden. So ein Bildschirm lohnt sich zu speichern. Abgerufen am 23. November 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5909
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Starlink-Antenne am Dach eines Holzhauses",
+          "caption": "Antenne für Privathaushalte, installiert. Foto von Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      ],
+      "links": [
+        {
+          "label": "Offizielle Bestellung auf starlink.com öffnen und meine Region prüfen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "So melden Sie ein Problem",
@@ -156,15 +203,32 @@
           "label": "Starlink-Profil bei Trustpilot",
           "href": "https://www.trustpilot.com/review/starlink.com"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Teile des Starlink-Standard-Kits: Antenne, Router, Halterung und Kabel",
+          "caption": "Starlink-Standard-Kit: Antenne, Router, Halterung und Kabel. Foto von Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ]
     },
     {
       "heading": "Vor dem Abschluss",
       "paragraphs": [
         "Prüfen Sie vor dem Abschluss die Website und die Bedingungen. Wie Sie die offizielle Seite und Profile mit ähnlichem Namen erkennen, steht in [Ist Starlink seriös?](/de/reviews/ist-starlink-serioes).",
+        "Die Bestellung zu öffnen verpflichtet zu nichts: Tarif, Preis, Verfügbarkeit und Vertragsbedingungen erscheinen erst, wenn Sie Ihre Adresse eingeben. Die 30-Tage-Regel von Starlink sieht eine Erstattung vor, wenn Sie innerhalb dieser Frist kündigen und das Kit unbeschädigt zurückgeben, so wie in Ihrer Bestellung angegeben; bei einem bezuschussten Kit mit Vertrag prüfen Sie, ob nach den 30 Tagen eine Gebühr anfällt.",
         "Die Seite zur [Starlink-Empfehlung](/de/coupons/starlink) enthält den Link und die Programmregeln. Eine Empfehlung ist kein Gutschein: Die Prämie kommt nach zwei Monaten Abonnement als Guthaben auf der Rechnung, und die Tarife Priority, Enterprise und Commercial erhalten sie nicht."
       ],
-      "emphasis": "Nach den Zahlen der Tabelle ist das Abonnieren für alle ohne gute Internetalternative an ihrer Adresse vertretbar, sobald Tarif, Kit, Steuern und Vertrag auf starlink.com für diese Adresse geprüft sind, denn die 1,6 spiegelt Beschwerden über Support, Abrechnung und Preis stärker wider als die Signalqualität."
+      "emphasis": "Nach den Zahlen der Tabelle ist das Abonnieren für alle ohne gute Internetalternative an ihrer Adresse vertretbar, sobald Tarif, Kit, Steuern und Vertrag auf starlink.com für diese Adresse geprüft sind, denn die 1,6 spiegelt Beschwerden über Support, Abrechnung und Preis stärker wider als die Signalqualität.",
+      "links": [
+        {
+          "label": "Verfügbarkeit an meiner Adresse auf starlink.com prüfen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Häufige Fragen",
@@ -203,8 +267,8 @@
     ]
   },
   "cta": {
-    "text": "Geben Sie Ihre Adresse auf der Starlink-Website ein und prüfen Sie Tarif, Kit und Monatspreis vor der Zahlung.",
-    "label": "Tarife für Ihre Adresse ansehen",
+    "text": "Öffnen Sie die Bestellung über den Empfehlungslink, prüfen Sie Tarif, Kit und Vertrag für Ihre Adresse und speichern Sie den Screenshot der Übersicht vor der Zahlung. Der Preis ist der der offiziellen Seite.",
+    "label": "Meine Bestellung auf starlink.com öffnen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

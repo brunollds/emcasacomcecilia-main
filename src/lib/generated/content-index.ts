@@ -288017,8 +288017,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-indicacao-como-usar",
     "translationKey": "starlink-indicacao",
     "locale": "pt",
-    "title": "Link de indicação da Starlink: como usar e quando cai a recompensa",
-    "seoTitle": "Indicação Starlink: como usar o link e receber",
+    "title": "Como ganhar R$ 200 comprando sua primeira Starlink pelo link de indicação (45 € em Portugal)",
+    "seoTitle": "Como ganhar R$ 200 na primeira Starlink (indicação)",
     "type": "Guia do Código de Indicação",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -288029,8 +288029,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Abra o link no site oficial e confira a recompensa no pedido antes de pagar. Veja quem pode usar, quando o valor cai e como escolher entre crédito e dinheiro.",
-    "metaDescription": "Veja como abrir o link de indicação da Starlink, achar o valor no pedido e receber a recompensa depois de cumprir as condições do programa.",
+    "description": "A Starlink não tem cupom: peça sua primeira antena pelo link oficial de indicação, pague o mesmo preço do site e receba R$ 200 no Brasil ou 45 € em Portugal.",
+    "metaDescription": "Como ganhar 200 reais na primeira Starlink pelo link oficial de indicação (45 € em Portugal), quanto abate na conta e como confirmar antes de pagar.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
     "updatedAt": "2026-11-23",
@@ -288044,29 +288044,169 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Abra o link de indicação da Starlink e informe seu endereço. Antes de pagar, procure a confirmação do código aplicado e confira o valor da recompensa no pedido. O programa vale para clientes novos. A recompensa é liberada após dois ciclos mensais completos, em crédito ou em dinheiro onde essa opção estiver disponível."
+          "A Starlink não tem cupom: o que existe, além das promoções do site, é o link de indicação. Pedindo por ele antes de comprar sua primeira antena, você recebe 200 reais no Brasil (45 € em Portugal), paga o mesmo preço do site e mantém os 30 dias para devolver. Abra o link, informe seu endereço em starlink.com, confira o aviso de indicação aplicada antes de pagar e mantenha os dois primeiros ciclos mensais em dia: o valor entra como crédito na fatura, e quem indicou recebe o mesmo. Fechou o pedido sem o link? A Starlink não deixa incluir a indicação depois."
         ]
       },
       {
-        "heading": "Como usar o link, passo a passo",
+        "heading": "Por que vale pedir pelo link (e quanto os R$ 200 abatem de verdade)",
+        "paragraphs": [
+          "Quem assina pela página comum do site paga o mesmo valor pelo equipamento e pela mensalidade, mas deixa R$ 200 na mesa. Pelo link de indicação, você não paga nada a mais no pedido e ganha um crédito maior que uma mensalidade cheia no Brasil, ou quase dois meses do plano de 100 Mbps em Portugal.",
+          "O crédito não baixa o preço do kit no dia: ele entra na fatura depois dos dois primeiros ciclos mensais. Os números abaixo vêm de endereços de referência. No seu endereço, preço, kit e contrato podem ser outros, e só o pedido mostra."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "alt": "Página de pedido da Starlink para Alto Paraíso de Goiás com a aba Residencial 100 Mbps: R$ 132,30 por mês e Mini X por R$ 299",
+          "caption": "Alto Paraíso de Goiás (GO): aba 100 Mbps do pedido, com a mensalidade e o Mini X do endereço.",
+          "objectFit": "square",
+          "aspectRatio": 0.9653
+        },
+        "comparisonTable": {
+          "caption": "Consulta ao site oficial em 23 de novembro de 2026, sem completar a compra. O crédito não dá desconto na hora de pagar o kit: entra depois de dois ciclos mensais completos.",
+          "headers": [
+            "Cenário lido em starlink.com",
+            "Sem link de indicação",
+            "Com o link da Cecília",
+            "O que o crédito cobre"
+          ],
+          "rows": [
+            [
+              "Brasil, Residencial 100 Mbps (Alto Paraíso de Goiás, GO)",
+              "Mini X a R$ 299 + R$ 132,30/mês",
+              "Mesmo pedido + R$ 200 de crédito após 2 ciclos pagos",
+              "Uma mensalidade e meia do plano promocional"
+            ],
+            [
+              "Brasil, Residencial Max, contrato de 12 meses (Alto Paraíso de Goiás, GO)",
+              "Kit de R$ 49 + 1ª mensalidade de R$ 174,30 (R$ 223,30)",
+              "Mesmo pedido + R$ 200 de crédito na fatura",
+              "Depois de dois meses, R$ 200 voltam como crédito na fatura; o pedido não muda"
+            ],
+            [
+              "Brasil, área em pré-venda (Av. Paulista, SP)",
+              "Depósito de R$ 275 + mensalidade cheia de R$ 189",
+              "Confira se o aviso de indicação aparece no pedido de pré-venda",
+              "R$ 200 passam de uma mensalidade cheia"
+            ],
+            [
+              "Portugal, Residencial 100 Mbps (Lisboa)",
+              "Aluguer de 0 € + 24,50 €/mês (envio de 20 € hoje)",
+              "Mesmo pedido + 45 € de crédito após 2 ciclos pagos",
+              "Quase 2 mensalidades do plano 100 Mbps"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Abrir meu pedido com R$ 200 de bônus (45 € em Portugal)",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "simulator": {
+          "title": "Simule o seu cenário",
+          "scenarios": [
+            {
+              "label": "100 Mbps sem fidelidade + link",
+              "lines": [
+                {
+                  "label": "Kit Mini X no pedido (Alto Paraíso, GO)",
+                  "value": "R$ 299, sem contrato de 12 meses"
+                },
+                {
+                  "label": "Mensalidade promocional (30% de desconto)",
+                  "value": "R$ 132,30/mês"
+                },
+                {
+                  "label": "Crédito pelo link após 2 ciclos pagos",
+                  "value": "-R$ 200 na fatura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "O que você paga no pedido",
+              "totalValue": "R$ 299; depois de dois meses, R$ 200 voltam como crédito na fatura",
+              "note": "Você paga o mesmo valor do site oficial e mantém 30 dias para devolver."
+            },
+            {
+              "label": "Max (kit de R$ 49) + link",
+              "lines": [
+                {
+                  "label": "Kit Mini X + instalação profissional",
+                  "value": "R$ 49, contrato de 12 meses"
+                },
+                {
+                  "label": "1ª mensalidade promocional",
+                  "value": "R$ 174,30"
+                },
+                {
+                  "label": "Crédito pelo link após 2 ciclos pagos",
+                  "value": "-R$ 200 na fatura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "O que você paga no pedido",
+              "totalValue": "R$ 49 + 1ª mensalidade de R$ 174,30; depois de dois meses, R$ 200 voltam como crédito na fatura",
+              "note": "O Max exige 12 meses: a saída antecipada tem multa de até R$ 1.099."
+            },
+            {
+              "label": "Pedido sem o link de indicação",
+              "lines": [
+                {
+                  "label": "Preço do kit e da mensalidade",
+                  "value": "O mesmo do pedido pelo link"
+                },
+                {
+                  "label": "Crédito de indicação",
+                  "value": "R$ 0, não dá para incluir depois"
+                },
+                {
+                  "label": "Valor que fica na mesa",
+                  "value": "R$ 200",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Crédito oficial recebido",
+              "totalValue": "R$ 0",
+              "note": "A indicação precisa constar no pedido original, antes do pagamento."
+            }
+          ]
+        }
+      },
+      {
+        "heading": "Como ativar os R$ 200, passo a passo",
         "paragraphs": [
           "Abra o link na [página da indicação Starlink](/cupons/starlink) e informe o endereço em que vai usar o serviço."
         ],
         "postParagraphs": [
           "Confira o aviso antes de pagar. A Starlink informa que a indicação precisa constar no pedido original."
         ],
+        "bullets": [
+          "Abra o link de indicação antes de iniciar o pedido em starlink.com. Não há código para digitar depois, e compra no Mercado Livre, na Amazon, na Magalu ou em revendedor fica fora do programa.",
+          "Informe o endereço onde a antena será instalada e escolha um plano elegível, Residencial ou Viagem.",
+          "Procure o aviso “O código de indicação foi aplicado” e confira o total do dia antes de concluir o pagamento. Na tela do Max que consultamos, o valor a pagar no pedido era só o do kit.",
+          "Ative o kit e pague as duas primeiras mensalidades em dia para liberar os R$ 200 (45 € em Portugal)."
+        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
           "alt": "Tela do pedido no site oficial da Starlink com a indicação aplicada, os 30% de desconto e o total a pagar no dia",
           "caption": "Pedido no site oficial com o link de indicação aplicado (endereço escondido).",
           "objectFit": "contain"
-        },
-        "bullets": [
-          "Escolha um plano Residencial ou Viagem elegível no pedido.",
-          "Procure o aviso “O código de indicação foi aplicado” e confira a recompensa e o total a pagar.",
-          "Finalize no site da Starlink. Na tela do Max que consultamos, o valor a pagar no pedido era só o do kit.",
-          "Ative o kit e acompanhe a primeira fatura. Pagar o primeiro mês e ativar o equipamento fazem parte dos requisitos da indicação."
-        ]
+        }
+      },
+      {
+        "heading": "Checklist antes de pagar",
+        "paragraphs": [
+          "Marque cada item na tela antes de pagar. Leva dois minutos e decide se o crédito vai constar no seu pedido."
+        ],
+        "checklist": {
+          "title": "Antes de fechar o pedido",
+          "items": [
+            "Abri o pedido pelo link de indicação da Cecília nesta mesma janela para não perder o crédito.",
+            "Conferi que a barra do navegador continua em starlink.com antes de digitar qualquer dado.",
+            "Rodei o teste de obstruções do app da Starlink no ponto previsto para confirmar céu aberto.",
+            "Vi no resumo do pedido o aviso da indicação aplicada, o preço do kit e se há contrato de 12 meses.",
+            "Salvei um print do resumo com o valor mensal e a regra dos 30 dias antes de pagar."
+          ]
+        }
       },
       {
         "heading": "Quanto rende e quando cai",
@@ -288074,10 +288214,32 @@ export const reviewsData: unknown[] = [
           "Na tela brasileira com a nossa indicação, a Starlink mostrou R$ 200 de recompensa para quem assina. Quem indica também recebe o mesmo valor, em dinheiro ou em crédito de serviço.",
           "Quem mora em Portugal também pode usar o link: no pedido português com a nossa indicação, a Starlink mostrou 45 € para quem assina, em dinheiro ou como crédito de serviço. Em Moçambique, a Starlink vende pelo site, e o valor aparece no pedido. Em Angola, ela ainda não vende o serviço.",
           "A assinatura precisa ficar ativa e em dia por dois ciclos mensais completos. A central de ajuda diz que a emissão pode começar a partir de 60 dias da ativação, conforme o país, a conta e a verificação de identidade.",
-          "A forma padrão é crédito na fatura. Se a conta oferecer pagamento em dinheiro, abra Indicações no site pelo navegador, escolha o método de recompensa e conclua a identificação e o cadastro bancário na Stripe."
+          "A forma padrão é crédito na fatura. Se a conta oferecer pagamento em dinheiro, abra Indicações no site pelo navegador, escolha o método de recompensa e conclua a identificação e o cadastro bancário na Stripe. O crédito entra na fatura e não reduz o preço do kit no pedido."
         ],
         "emphasis": "A recompensa só sai depois de dois ciclos mensais completos de assinatura em dia, em crédito na fatura por padrão, e vale o mesmo valor para quem assina e para quem indicou; o valor do seu país aparece no pedido.",
         "emphasisAfterParagraph": 4
+      },
+      {
+        "heading": "Pedir pelo link compromete algo? O teste de 30 dias",
+        "paragraphs": [
+          "Abrir o link não obriga a nada. Preço do plano, kit, disponibilidade (entrega ou pré-venda) e a existência de contrato de 12 meses só aparecem depois que você digita o endereço em starlink.com.",
+          "Depois do pagamento, a Starlink dá 30 dias para devolver, e nas telas do Max que consultamos isso vem escrito no bloco do equipamento. Se a antena não funcionar no seu telhado, cancele e devolva o kit dentro do prazo, conforme os termos da página. No Max com kit de R$ 49, confira a multa por saída antecipada depois desses 30 dias.",
+          "É por isso que o link vem antes do teste: a indicação só conta no pedido original. Quem testa sem ele paga o mesmo no primeiro dia e perde os R$ 200 se decidir ficar com a antena."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Peças de um kit Starlink sobre fundo escuro: base, suporte e cabos",
+          "caption": "Peças de um kit Starlink. Foto da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        },
+        "links": [
+          {
+            "label": "Garantir o bônus antes de fechar o pedido",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Quem pode usar",
@@ -288095,16 +288257,37 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "E a oferta da Black Friday?",
+        "heading": "Os 4 erros que fazem perder o crédito mesmo clicando no link",
         "paragraphs": [
-          "Na tela do Residencial Max que consultamos, a indicação apareceu junto dos 30% na mensalidade. Veja a [conta da Black Friday Starlink](/reviews/black-friday-starlink) e consulte a oferta do seu endereço.",
-          "Em Portugal, o pedido com a nossa indicação também trazia os 30% de desconto nos planos de serviço, com prazo para o registo. No Residencial 100 Mbps, o kit saía com custo inicial de 0 €, em aluguel: quem cancela devolve o equipamento."
+          "A maior parte dos créditos perdidos vem de um destes quatro deslizes."
+        ],
+        "bullets": [
+          "Comprar o kit em revendedor ou marketplace. O programa registra só os pedidos feitos em starlink.com pelo link.",
+          "Pagar sem conferir o aviso. A indicação precisa constar no pedido original e não dá para incluí-la depois: sem o aviso na tela, abra o link de novo antes de pagar. Se trocar de aparelho ou de navegador no meio do pedido, abra o link outra vez e confira o aviso de novo.",
+          "Usar o link já sendo ou tendo sido cliente. O crédito é só para quem assina a Starlink pela primeira vez.",
+          "Cancelar cedo demais. O crédito pede assinatura ativa e em dia por dois ciclos mensais completos, e a emissão pode começar a partir de 60 dias da ativação."
         ]
       },
       {
-        "heading": "Como acompanhar",
+        "heading": "E a oferta da Black Friday?",
         "paragraphs": [
-          "Na aba Indicações do site ou do aplicativo, acompanhe o status de quem assinou pelo seu link. A Starlink avisa por e-mail quando alguém faz o pedido. Uma indicação pode passar pela verificação de elegibilidade antes de gerar recompensa."
+          "Na tela do Residencial Max que consultamos, a indicação apareceu junto dos 30% na mensalidade. Veja a [conta da Black Friday Starlink](/reviews/black-friday-starlink) e consulte a oferta do seu endereço.",
+          "Em Portugal, o pedido com a nossa indicação também trazia os 30% de desconto nos planos de serviço, com prazo para o registo. No Residencial 100 Mbps, o kit saía com custo inicial de 0 €, em aluguel: quem cancela devolve o equipamento.",
+          "Na tela do 100 Mbps em Alto Paraíso de Goiás, o resumo do pedido mostrou R$ 189 menos o ajuste de 30%, o Mini X de R$ 499 com R$ 200 de desconto (R$ 299 no total) e nenhuma linha de contrato de 12 meses no equipamento. No Max, o kit saiu a R$ 49 com contrato de 12 meses. Se a fidelidade é o seu receio, leia o [guia de fidelidade e cancelamento da Starlink](/reviews/starlink-fidelidade-como-cancelar) e o [vale a pena da Starlink](/reviews/starlink-vale-a-pena). A promoção de 30% vai até 30 de novembro nos endereços elegíveis."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+          "alt": "Resumo do pedido do Residencial Max no site da Starlink: R$ 249 menos R$ 74,70, Mini X de R$ 99 menos R$ 50 e a pergunta sobre o prazo de 12 meses",
+          "caption": "Resumo do pedido do Max em Alto Paraíso de Goiás (GO), com o kit de R$ 49 e a regra do prazo de 12 meses.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.4953
+        }
+      },
+      {
+        "heading": "Como acompanhar e usar o seu próprio link",
+        "paragraphs": [
+          "Na aba Indicações do site ou do aplicativo, acompanhe o status de quem assinou pelo seu link. A Starlink avisa por e-mail quando alguém faz o pedido. Uma indicação pode passar pela verificação de elegibilidade antes de gerar recompensa.",
+          "Quando você virar cliente ativo de um plano Residencial ou Viagem, também pode indicar a Starlink, e quem indica recebe o mesmo valor do novo assinante. O valor do seu país aparece no pedido de quem assina."
         ]
       },
       {
@@ -288117,13 +288300,14 @@ export const reviewsData: unknown[] = [
           "A indicação vale no Mercado Livre? O programa exige a compra diretamente em starlink.com pelo link.",
           "Já fui cliente, posso usar o link? A recompensa é para quem assina a Starlink pela primeira vez.",
           "O link de indicação funciona fora do Brasil? Funciona. Pela central de ajuda da Starlink, a indicação vale na maioria dos países onde ela vende, e o valor depende do país em que a pessoa se cadastra. Nos Estados Unidos, o pedido com o nosso link mostrou US$ 100 para quem assina.",
-          "O link vale em Portugal, Angola e Moçambique? Em Portugal, sim: o pedido com o nosso link mostrou 45 € para quem assina, em dinheiro ou como crédito de serviço, junto dos 30% de desconto nos planos. Em Moçambique, a Starlink vende em starlink.com, e o valor aparece no pedido antes de pagar. Em Angola, a Starlink ainda não vende o serviço."
+          "O link vale em Portugal, Angola e Moçambique? Em Portugal, sim: o pedido com o nosso link mostrou 45 € para quem assina, em dinheiro ou como crédito de serviço, junto dos 30% de desconto nos planos. Em Moçambique, a Starlink vende em starlink.com, e o valor aparece no pedido antes de pagar. Em Angola, a Starlink ainda não vende o serviço.",
+          "Dá para incluir a indicação depois de pagar? Não. A Starlink exige que a indicação conste no pedido original, feito em starlink.com por um link de indicação, antes do pagamento."
         ]
       }
     ],
     "cta": {
-      "text": "Confira a recompensa que aparece no pedido para o seu endereço antes de pagar.",
-      "label": "Ver a indicação no pedido",
+      "text": "Você paga o mesmo preço do site oficial, mantém os 30 dias para devolver se não funcionar no seu telhado e garante R$ 200 de crédito no Brasil (45 € em Portugal) depois de dois ciclos mensais.",
+      "label": "Ativar meus R$ 200 no pedido oficial",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -288158,8 +288342,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-starlink",
     "translationKey": "starlink-black-friday",
     "locale": "pt",
-    "title": "Black Friday Starlink 2026: kit e 1º mês do Max ficam em R$ 23,30 após a recompensa",
-    "seoTitle": "Black Friday Starlink 2026: Max com kit a R$ 49",
+    "title": "Black Friday Starlink 2026: Max com 12 meses ou 100 Mbps sem fidelidade, e o crédito de R$ 200 da indicação",
+    "seoTitle": "Black Friday Starlink 2026: Max ou 100 Mbps sem fidelidade",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -288170,8 +288354,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "No Residencial Max, a Starlink mostrou kit a R$ 49 e mensalidade a R$ 174,30. Veja como a indicação entra na conta, quando a recompensa cai e como checar seu endereço.",
-    "metaDescription": "Starlink Max com kit a R$ 49 e 30% na mensalidade por 12 meses, em áreas selecionadas. Veja a conta após a recompensa e confira seu endereço.",
+    "description": "Max com 12 meses de contrato ou 100 Mbps sem fidelidade: veja o que cada um custa no pedido e quando os R$ 200 da indicação voltam como crédito.",
+    "metaDescription": "Black Friday Starlink: Max com contrato de 12 meses ou 100 Mbps sem fidelidade. Veja o pedido de cada um e o crédito de 200 reais da indicação.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
     "updatedAt": "2026-11-23",
@@ -288186,59 +288370,130 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na oferta do Residencial Max, o kit e o primeiro mês ficam quase de graça depois de receber a recompensa da indicação. O kit tem fidelidade de 12 meses. A recompensa depende de dois ciclos mensais completos. A oferta de fim de novembro é para novos clientes em áreas selecionadas. Confira se aparece no seu endereço."
+          "Na Black Friday da Starlink há dois caminhos no Brasil: o Residencial Max, com kit de 49 reais e contrato de 12 meses, e o 100 Mbps, com Mini X de 299 reais e sem fidelidade. Depois de dois ciclos pagos, 200 reais voltam como crédito na fatura, sem reduzir o preço do kit, e só se o pedido sair do link. As ofertas vão até 30 de novembro, em áreas selecionadas."
         ]
       },
       {
-        "heading": "Quanto você paga e quando entra a recompensa",
+        "heading": "Os dois caminhos, lado a lado",
         "paragraphs": [
-          "Kit por R$ 49 no pedido, primeira mensalidade de R$ 174,30 depois. São R$ 223,30 pelos dois. Com a recompensa de R$ 200, kit e primeiro mês ficam em R$ 23,30 na conta. Antes da recompensa, você ainda paga as mensalidades que vencerem.",
-          "Os preços apareceram na consulta de 19 de novembro em Alto Paraíso de Goiás. A oferta do Residencial Max dá 30% na mensalidade por 12 meses, com adesão até 30 de novembro em áreas selecionadas. O kit tem contrato de 12 meses e multa de até R$ 1.099 em caso de rescisão antecipada."
+          "Em 23 de novembro de 2026, o pedido de Alto Paraíso de Goiás mostrou os dois planos com 30% de desconto na mensalidade. No Residencial Max, o Mini X custa R$ 49 (R$ 99 menos R$ 50 de desconto), com instalação profissional incluída, mensalidade de R$ 174,30 e contrato de 12 meses. No Residencial 100 Mbps, o Mini X sai por R$ 299 (R$ 499 menos R$ 200), a mensalidade é de R$ 132,30 e o resumo do pedido não traz contrato de 12 meses.",
+          "Com o link de indicação, depois de dois ciclos mensais pagos e sem atraso, R$ 200 voltam como crédito na fatura. O crédito não reduz o preço do kit: kit e primeira mensalidade somam R$ 223,30 no Max e R$ 431,30 no 100 Mbps, e o crédito aparece só depois. O 100 Mbps não tem multa de saída."
         ],
         "comparisonTable": {
           "headers": [
+            "Em Alto Paraíso de Goiás",
             "Residencial Max",
-            "Valor no exemplo"
+            "Residencial 100 Mbps"
           ],
           "rows": [
             [
-              "Kit, pago no pedido",
-              "R$ 49"
+              "Mini X, pago no pedido",
+              "R$ 49",
+              "R$ 299"
             ],
             [
-              "Primeira mensalidade",
-              "R$ 174,30"
+              "Mensalidade com 30% (preço cheio)",
+              "R$ 174,30 (R$ 249)",
+              "R$ 132,30 (R$ 189)"
             ],
             [
-              "Kit + primeira mensalidade",
-              "R$ 223,30"
+              "Contrato",
+              "12 meses, multa de até R$ 1.099",
+              "Sem contrato de 12 meses"
             ],
             [
-              "Recompensa mostrada no pedido com indicação",
+              "Instalação profissional",
+              "Incluída, R$ 0",
+              "Não aparece como incluída"
+            ],
+            [
+              "Kit + 1ª mensalidade",
+              "R$ 223,30",
+              "R$ 431,30"
+            ],
+            [
+              "Crédito na fatura depois de dois meses",
+              "R$ 200",
               "R$ 200"
-            ],
-            [
-              "Saldo do kit e do primeiro mês após a recompensa",
-              "R$ 23,30"
-            ],
-            [
-              "Kit + 12 mensalidades, sem a recompensa",
-              "R$ 2.140,60"
-            ],
-            [
-              "Kit + 12 mensalidades, após a recompensa",
-              "R$ 1.940,60"
             ]
           ],
-          "caption": "Valores do Max na tela consultada. Os totais de 12 meses consideram a mensalidade promocional durante todo esse período e o kit de R$ 49."
+          "caption": "Valores da tela consultada, com 30% na mensalidade. A recompensa só entra depois de dois ciclos mensais pagos."
+        },
+        "simulator": {
+          "title": "Simulador: a conta de cada caminho",
+          "scenarios": [
+            {
+              "label": "100 Mbps sem fidelidade, pelo link",
+              "lines": [
+                {
+                  "label": "Mini X no pedido",
+                  "value": "R$ 299, sem contrato de 12 meses"
+                },
+                {
+                  "label": "Mensalidade com 30%",
+                  "value": "R$ 132,30 por mês"
+                },
+                {
+                  "label": "Depois de 2 ciclos pagos, crédito na fatura",
+                  "value": "R$ 200",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Kit + 1ª mensalidade, antes do crédito",
+              "totalValue": "R$ 431,30",
+              "note": "O crédito não reduz o preço do kit. Sem multa de saída, e os 30 dias para cancelar e devolver o kit sem danos continuam valendo."
+            },
+            {
+              "label": "Max com kit a R$ 49, pelo link",
+              "lines": [
+                {
+                  "label": "Mini X com instalação",
+                  "value": "R$ 49, contrato de 12 meses"
+                },
+                {
+                  "label": "1ª mensalidade com 30%",
+                  "value": "R$ 174,30"
+                },
+                {
+                  "label": "Depois de 2 ciclos pagos, crédito na fatura",
+                  "value": "R$ 200",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Kit + 1ª mensalidade, antes do crédito",
+              "totalValue": "R$ 223,30",
+              "note": "Sair antes dos 12 meses custa até R$ 1.099 de multa."
+            },
+            {
+              "label": "Pedido sem o link",
+              "lines": [
+                {
+                  "label": "Preço do kit e da mensalidade",
+                  "value": "O mesmo do pedido pelo link"
+                },
+                {
+                  "label": "Recompensa de indicação",
+                  "value": "R$ 0"
+                },
+                {
+                  "label": "O que você deixa de receber",
+                  "value": "R$ 200",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Recompensa recebida",
+              "totalValue": "R$ 0",
+              "note": "A indicação só conta no pedido aberto pelo link, antes do pagamento, em starlink.com."
+            }
+          ]
         },
         "postParagraphs": [
-          "Para receber a recompensa, a indicação precisa ser elegível e o serviço deve ficar ativo e em dia por dois ciclos mensais completos. A Starlink oferece crédito na fatura e, conforme a conta, pagamento em dinheiro."
+          "O 100 Mbps cobra R$ 42 a menos por mês, e o kit dele custa R$ 250 a mais. Se o preço promocional do 100 Mbps se mantiver, as duas contas se encontram por volta do sexto mês. Até lá o Max sai na frente pelo kit de entrada menor, mas ele é o plano de cima e prende você por 12 meses: compare também a velocidade de que você precisa."
         ],
-        "emphasis": "Pelos números da tabela, quem recebe a oferta no pedido paga R$ 223,30 pelo kit e pelo primeiro mês; com o crédito de R$ 200 da indicação, que entra na fatura depois de dois ciclos mensais completos, o custo líquido desses dois itens cai para R$ 23,30.",
+        "emphasis": "Pelos números da tabela, kit e primeira mensalidade somam R$ 223,30 no Max (12 meses de contrato) e R$ 431,30 no 100 Mbps (sem fidelidade); nos dois, R$ 200 voltam como crédito na fatura depois de dois meses, sem reduzir o preço do kit.",
         "links": [
           {
-            "label": "Ver planos no seu endereço",
+            "label": "Consultar a Black Friday e o bônus de R$ 200 no meu endereço",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -288247,48 +288502,86 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como aparece no pedido",
         "paragraphs": [
-          "Veja no print o aviso verde de indicação aplicada, os R$ 49 a pagar no pedido e os R$ 174,30 por mês do Max. O contrato de 12 meses aparece na linha do equipamento.",
+          "Veja no print o aviso verde de indicação aplicada, os 30% de desconto e o total a pagar no dia. No Max, o contrato de 12 meses aparece na linha do equipamento; no 100 Mbps, essa linha não aparece.",
           "Para conferir a sua oferta, abra o link, informe o endereço e procure o mesmo aviso antes de pagar. Veja se o pedido mostra o valor da recompensa e as condições da mensalidade."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
           "alt": "Tela do pedido no site oficial da Starlink com a indicação aplicada, os 30% de desconto e o total a pagar no dia",
           "caption": "Pedido no site oficial com o link de indicação aplicado (endereço escondido).",
+          "aspectRatio": 0.9901,
           "objectFit": "contain"
         }
       },
       {
+        "heading": "A oferta vale no seu endereço?",
+        "paragraphs": [
+          "Alto Paraíso de Goiás está na Região Legal da Amazônia, e a tela avisa que quem mora lá precisa enviar identificação antes de receber o serviço. A aba do 100 Mbps, no print, mostra a mensalidade de R$ 132,30 e o Mini X de R$ 299.",
+          "Na Avenida Paulista, em São Paulo, a consulta de 23 de novembro de 2026 já era outra: o endereço entrou em pré-venda por falta de capacidade. Sem os 30%, as mensalidades aparecem cheias, R$ 189 no 100 Mbps e R$ 249 no Max, o kit é o Standard 4 X, de R$ 2.400, e o pedido cobra R$ 275 de depósito hoje, que abatem o kit depois. Nessa tela não há contrato de 12 meses nem multa.",
+          "Em Portugal, a consulta de Lisboa do mesmo dia mostrou três planos com 30% até 30 de novembro: 100 Mbps a 24,50 € (35 € cheio), 200 Mbps a 31,50 € (45 €) e Max a 45,50 € (65 €). O kit é alugado por 0 €, sem contratos e com teste de 30 dias, o envio custa 20 € hoje e o kit deve ser devolvido se você cancelar. O bônus da indicação em Portugal é de 45 €, quase dois meses do 100 Mbps."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "alt": "Tela de pedido da Starlink em Alto Paraíso de Goiás com a aba Residencial 100 Mbps, a mensalidade com desconto e o Mini X",
+          "caption": "Alto Paraíso de Goiás, aba 100 Mbps: mensalidade com desconto e Mini X no pedido.",
+          "aspectRatio": 0.9653,
+          "objectFit": "square"
+        }
+      },
+      {
+        "heading": "Contrato, multa e 30 dias para devolver",
+        "paragraphs": [
+          "No Max a R$ 49, o pedido exige 12 meses de contrato e informa multa de até R$ 1.099 por saída antecipada. No 100 Mbps, o equipamento é comprado e o resumo do pedido não traz esse prazo. A caixa de perguntas frequentes da tela repete a frase do prazo de 12 meses nos dois casos, então leia a linha do equipamento do plano que você escolheu.",
+          "A Starlink informa reembolso do kit e do primeiro mês para quem cancelar o serviço e devolver o kit sem danos em até 30 dias do pagamento. É esse teste que faz o clique no link não custar nada: você vê o preço do seu endereço, testa a antena no telhado e só então decide ficar. Depois dos 30 dias, no Max passa a valer a multa. Veja o [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+          "alt": "Resumo do pedido do Residencial Max na Starlink com o Mini X de R$ 99 menos R$ 50, o total de R$ 49 e a pergunta sobre o prazo de 12 meses",
+          "caption": "Resumo do pedido do Max: Mini X de R$ 99 menos R$ 50, total de R$ 49 e a regra do prazo de 12 meses.",
+          "aspectRatio": 0.4953,
+          "objectFit": "portrait"
+        },
+        "links": [
+          {
+            "label": "Garantir o bônus de R$ 200 antes de fechar o pedido",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "E depois da promoção? Como proteger o desconto",
+        "paragraphs": [
+          "Depois dos 12 meses, a mensalidade volta ao preço padrão da sua região. Esse preço não tem prazo fixo e pode subir com aviso de 30 dias. O preço promocional vale para cliente novo e para uma linha de serviço: quem muda de plano, cancela ou é suspenso pode perder o desconto.",
+          "Há relatos de clientes do 100 Mbps cuja primeira fatura veio pelo preço cheio, R$ 189. Para se proteger, salve antes de pagar um print do resumo do pedido com a mensalidade promocional, a linha do equipamento e o aviso da indicação. Se a fatura vier diferente, abra um chamado em Conta, Mensagens, anexe o print e peça o ajuste."
+        ]
+      },
+      {
         "heading": "Quanto vale indicar outra pessoa?",
         "paragraphs": [
-          "Depois de assinar, você também pode indicar outras pessoas, e quem indica recebe o mesmo valor, em dinheiro ou em crédito de serviço. Se uma indicação elegível render R$ 200, esse valor cobre uma mensalidade de R$ 174,30 do Max promocional. A pessoa indicada precisa completar os ciclos exigidos para a recompensa.",
+          "Depois de assinar, você também pode indicar outras pessoas, e quem indica recebe o mesmo valor, em dinheiro ou em crédito de serviço. Cada indicação elegível de R$ 200 cobre uma mensalidade do Max promocional (R$ 174,30) e mais de uma do 100 Mbps (R$ 132,30). A pessoa indicada precisa completar os ciclos exigidos.",
           "Veja [como o programa de indicação funciona](/reviews/starlink-indicacao-como-usar) e confira na sua conta quanto vale cada indicação."
         ]
       },
       {
-        "heading": "A oferta vale no seu endereço?",
+        "heading": "Os 4 erros que fazem perder a recompensa",
         "paragraphs": [
-          "Na Avenida Paulista, em São Paulo, a tela consultada mostrou o Max por R$ 273,90 por mês, sem os 30%, com o kit a R$ 49. Kit e primeiro mês somam R$ 322,90. Se esse pedido também gerar a recompensa de R$ 200, o saldo dessa conta fica em R$ 122,90.",
-          "A tela de Alto Paraíso também mostrou o Residencial 100 Mbps por R$ 132,30 por mês, com Mini X a R$ 299. A duração desse valor não apareceu na consulta. Compare o custo anual dos planos no seu endereço, com a duração de cada oferta."
-        ]
-      },
-      {
-        "heading": "Contrato, multa e devolução",
-        "paragraphs": [
-          "No Max a R$ 49, o pedido exige 12 meses de contrato e informa multa de até R$ 1.099 por saída antecipada.",
-          "A tela informa reembolso do kit e do primeiro mês para quem cancelar o serviço e devolver o kit sem danos em até 30 dias do pagamento. Veja o [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar)."
-        ]
-      },
-      {
-        "heading": "E depois dos 12 meses?",
-        "paragraphs": [
-          "Depois dos 12 meses, a mensalidade volta ao preço padrão da sua região. Esse preço não tem prazo fixo e pode subir com aviso de 30 dias.",
-          "O preço promocional vale para cliente novo e só para uma linha de serviço. Quem muda de plano, cancela ou é suspenso pode perder o desconto antes do fim dos 12 meses."
+          "Mesmo clicando no link, a recompensa de R$ 200 se perde por descuidos pequenos:"
+        ],
+        "bullets": [
+          "Comprar o kit em marketplace ou loja e tentar usar o link depois. A indicação só conta no pedido feito em starlink.com por um link de indicação, antes de pagar.",
+          "Abrir o link no celular e fechar o pedido horas depois em outro aparelho, sem abrir o link de novo. A indicação pode não acompanhar o pedido: faça tudo no mesmo aparelho ou reabra o link e procure o aviso verde.",
+          "Assinar com CPF ou e-mail que já teve assinatura da Starlink. A recompensa é para cliente novo.",
+          "Cancelar ou atrasar a fatura antes de fechar dois ciclos mensais pagos. A recompensa só entra com o serviço ativo e em dia."
+        ],
+        "postParagraphs": [
+          "Se o pedido já foi pago sem o link, não dá para acrescentar a indicação depois."
         ]
       },
       {
         "heading": "Como usar o link",
         "paragraphs": [
-          "Abra o link e digite o endereço em que vai instalar a antena. Escolha o plano, confira a indicação aplicada e guarde a oferta que aparece antes de pagar.",
+          "Abrir o link não compromete nada: preço, disponibilidade, desconto e fidelidade só aparecem depois que você digita o endereço. Informe o endereço em que vai instalar a antena, escolha o plano, confira a indicação aplicada e guarde a oferta que aparece antes de pagar.",
           "Na página da [indicação Starlink](/cupons/starlink) estão o link e as regras do programa."
         ]
       },
@@ -288296,22 +288589,24 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
-          "A Starlink tem Black Friday? A oferta de fim de novembro mostra kit a R$ 49 e 30% na mensalidade do Max por 12 meses, para clientes novos em áreas selecionadas.",
-          "A indicação soma com a oferta? Na tela brasileira consultada, o preço promocional e a indicação de R$ 200 apareceram juntos. A recompensa depende da elegibilidade e de dois ciclos mensais completos.",
-          "Quanto é cobrado no pedido? Na tela consultada do Max, eram R$ 49 pelo equipamento. A primeira mensalidade, de R$ 174,30, ficou para depois.",
-          "O kit de R$ 49 tem fidelidade? No pedido do Max consultado, o kit exige contrato de 12 meses e informa multa de até R$ 1.099 por saída antecipada.",
-          "Até quando vai a oferta? A Starlink anuncia a oferta de fim de novembro. Informe o endereço no pedido para ver se ela está disponível."
+          "A Starlink tem Black Friday? Sim. A oferta de fim de novembro dá 30% na mensalidade para clientes novos em áreas selecionadas. O Max vem com kit a R$ 49 e contrato de 12 meses, e o 100 Mbps com Mini X a R$ 299 e sem fidelidade.",
+          "A indicação soma com a oferta? Sim. Na tela brasileira consultada, o preço promocional e a recompensa de R$ 200 apareceram juntos. A recompensa depende da elegibilidade e de dois ciclos mensais completos.",
+          "O 100 Mbps tem fidelidade? No resumo do pedido consultado, o 100 Mbps não trazia contrato de 12 meses. O Max a R$ 49 traz, com multa de até R$ 1.099 por saída antecipada.",
+          "Posso testar a Starlink antes de decidir? Sim. A Starlink informa reembolso do kit e do primeiro mês para quem cancelar e devolver o kit sem danos em até 30 dias do pagamento.",
+          "Dá para pedir a indicação depois de pagar? Não. A indicação só vale no pedido aberto pelo link, antes do pagamento.",
+          "E se o meu endereço estiver em pré-venda? Sem os 30%, a mensalidade aparece cheia e o pedido cobra um depósito que abate o kit. Na consulta da Avenida Paulista, o depósito era de R$ 275 e não havia contrato de 12 meses.",
+          "Até quando vai a oferta? A oferta de fim de novembro vale para pedidos feitos até o fim do mês, em áreas selecionadas. Informe o endereço no pedido para ver se ela está disponível."
         ]
       }
     ],
     "cta": {
-      "text": "O pedido abre no site da Starlink. Confira o preço do Max, o contrato e o valor da indicação antes de pagar.",
-      "label": "Consultar a oferta no meu endereço",
+      "text": "Você paga o mesmo preço do pedido oficial, mantém os 30 dias para devolver o kit se a antena não funcionar no seu telhado e ainda garante R$ 200 de crédito depois de dois ciclos pagos (45 € em Portugal).",
+      "label": "Ver meu endereço com R$ 200 de bônus",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Preços lidos na tela de pedido do site oficial, sem finalizar a compra. Os totais de 12 meses são simulações. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+    "editorialNote": "Preços lidos nas telas de pedido do site oficial, sem finalizar a compra. As somas são simulações. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
     "relatedArticles": [
       {
         "slug": "starlink-indicacao-como-usar"
@@ -288327,12 +288622,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "o pedido do seu endereço mostra o kit a preço baixo e o desconto na mensalidade do Max.",
-        "você aceita o contrato de 12 meses do kit e espera dois ciclos mensais para a recompensa."
+        "o pedido do seu endereço mostra os 30% na mensalidade e o preço do kit antes de pagar.",
+        "você escolhe o Max e aceita 12 meses de contrato, ou o 100 Mbps e paga mais pelo kit para não ter fidelidade."
       ],
       "skipIf": [
-        "o endereço não mostra a oferta no pedido, porque o exemplo vale só para as áreas lidas.",
-        "você pode sair antes dos 12 meses e não quer arriscar a multa do kit."
+        "o endereço está em pré-venda ou não mostra a oferta, porque os preços lidos valem só para as áreas consultadas.",
+        "você pode sair antes dos 12 meses e não quer arriscar a multa do Max."
       ]
     }
   },
@@ -288341,8 +288636,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-vale-a-pena",
     "translationKey": "starlink-vale-a-pena",
     "locale": "pt",
-    "title": "Starlink vale a pena? A conta de 12 meses e para quem faz sentido",
-    "seoTitle": "Starlink vale a pena? A conta de 12 meses",
+    "title": "Starlink vale a pena? Conta real, fibra instável e uso como backup",
+    "seoTitle": "Starlink vale a pena? Preço, fibra ruim e backup",
     "type": "Guia de Compra",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -288353,8 +288648,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Compare o custo de 12 meses da Starlink com a conexão que chega à sua casa. Veja o preço do kit por endereço, a fidelidade e como conferir o local da instalação.",
-    "metaDescription": "Starlink vale a pena? Conta de 12 meses com kit e contrato, preços por endereço, para quem faz sentido e quando a fibra ou o 4G saem melhor.",
+    "description": "Veja se a Starlink vale a pena no campo ou na cidade com fibra instável. Conta real do kit, 100 Mbps sem fidelidade, uso como backup e checagem do céu no app.",
+    "metaDescription": "Starlink vale a pena mesmo com fibra na rua? Veja a conta do kit, 100 Mbps sem fidelidade, fibra instável e uso como internet de backup.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
     "updatedAt": "2026-11-23",
@@ -288368,48 +288663,132 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Starlink pode valer a pena em sítios e casas onde falta uma conexão estável. Se já chega fibra confiável, compare o total de 12 meses antes de trocar. Some o kit às mensalidades do seu endereço, confira se há fidelidade e use o aplicativo da Starlink para avaliar onde a antena pode ser instalada."
+          "Sim, a Starlink vale a pena onde falta internet estável e também onde existe fibra, mas ela cai com frequência ou entrega bem menos do que o contratado. Nós a contratamos como alternativa e backup à nossa fibra instável. Se a sua fibra é estável, ela tende a sair mais barata. O teste é de baixo risco: o plano de 100 Mbps que consultamos não tem fidelidade e dá 30 dias para devolver."
         ]
       },
       {
-        "heading": "Quanto custa em 12 meses",
+        "heading": "Quanto custa em 12 meses e no mês",
         "paragraphs": [
-          "Em 19 de novembro de 2026, consultamos dois endereços públicos. No Max, o kit a R$ 49 tinha contrato de 12 meses em ambos. Só a consulta de Alto Paraíso de Goiás mostrou a oferta de 30% na mensalidade por 12 meses."
+          "Em 23 de novembro de 2026, consultamos dois endereços públicos do Brasil em starlink.com/br e vimos três cenários bem diferentes. Em Alto Paraíso de Goiás, os planos tinham 30% de desconto na mensalidade e o pedido seguia normalmente. Na Avenida Paulista, a região estava em pré-venda: sem o desconto de 30% e sem kit subsidiado."
         ],
         "comparisonTable": {
           "headers": [
-            "Residencial Max",
-            "Por mês",
-            "Kit",
-            "Total em 12 meses"
+            "Cenário consultado",
+            "Mensalidade",
+            "Kit hoje",
+            "Fidelidade",
+            "Total em 12 meses (estimado)"
           ],
           "rows": [
             [
-              "Av. Paulista, São Paulo",
-              "R$ 273,90",
-              "R$ 49",
-              "R$ 3.335,80"
+              "Alto Paraíso de Goiás, Residencial 100 Mbps",
+              "R$ 132,30 (base R$ 189)",
+              "Mini X R$ 299",
+              "Sem fidelidade",
+              "R$ 1.886,60 (se a oferta for mantida)"
             ],
             [
-              "Alto Paraíso de Goiás, com oferta",
-              "R$ 174,30",
-              "R$ 49",
+              "Alto Paraíso de Goiás, Residencial Max",
+              "R$ 174,30 (base R$ 249)",
+              "Mini X R$ 49",
+              "12 meses (multa até R$ 1.099)",
               "R$ 2.140,60"
+            ],
+            [
+              "Av. Paulista, São Paulo, pré-venda (100 Mbps ou Max)",
+              "R$ 189 ou R$ 249 (valor cheio)",
+              "Standard 4 X R$ 2.400 (depósito de R$ 275 hoje)",
+              "Sem fidelidade",
+              "R$ 4.668 a R$ 5.388"
             ]
           ],
-          "caption": "Kit mais 12 mensalidades pelos valores exibidos. Totais antes da recompensa de indicação e de eventuais custos fora da instalação padrão."
+          "caption": "Soma do kit com 12 mensalidades nos valores exibidos na tela oficial. O 100 Mbps não informava por quanto tempo o desconto vale, e os totais não descontam a recompensa de indicação."
+        },
+        "simulator": {
+          "title": "Simulador: o que cada cenário pede",
+          "scenarios": [
+            {
+              "label": "100 Mbps em Alto Paraíso (sem fidelidade)",
+              "lines": [
+                {
+                  "label": "Kit Mini X no pedido",
+                  "value": "R$ 299, sem contrato de 12 meses",
+                  "highlight": true
+                },
+                {
+                  "label": "Mensalidade com 30% de desconto",
+                  "value": "R$ 132,30"
+                },
+                {
+                  "label": "Mensalidade cheia (referência)",
+                  "value": "R$ 189"
+                }
+              ],
+              "totalLabel": "Kit + 12 mensalidades com a oferta",
+              "totalValue": "R$ 1.886,60",
+              "note": "Se o desconto não durar 12 meses, refaça a conta com o valor cheio do seu pedido. Há 30 dias para devolver."
+            },
+            {
+              "label": "Max em Alto Paraíso (contrato de 12 meses)",
+              "lines": [
+                {
+                  "label": "Kit Mini X com instalação",
+                  "value": "R$ 49, contrato de 12 meses"
+                },
+                {
+                  "label": "Mensalidade com 30% de desconto",
+                  "value": "R$ 174,30"
+                },
+                {
+                  "label": "Multa de saída antecipada",
+                  "value": "Até R$ 1.099",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Kit + 12 mensalidades com a oferta",
+              "totalValue": "R$ 2.140,60",
+              "note": "Sair antes dos 12 meses, depois da janela de 30 dias, pode custar a multa."
+            },
+            {
+              "label": "Pré-venda na Av. Paulista",
+              "lines": [
+                {
+                  "label": "Kit Standard 4 X",
+                  "value": "R$ 2.400 (depósito de R$ 275 hoje)"
+                },
+                {
+                  "label": "Mensalidade cheia, 100 Mbps",
+                  "value": "R$ 189"
+                },
+                {
+                  "label": "Mensalidade cheia, Max",
+                  "value": "R$ 249"
+                }
+              ],
+              "totalLabel": "Kit + 12 mensalidades, de",
+              "totalValue": "R$ 4.668 a R$ 5.388",
+              "note": "Sem fidelidade de 12 meses; a devolução em 30 dias segue valendo."
+            }
+          ]
         },
         "postParagraphs": [
-          "O Residencial 100 Mbps apareceu com o Mini X a R$ 299 nos dois endereços. A mensalidade era de R$ 207,90 na Paulista e R$ 132,30 em Alto Paraíso. Como a tela de Alto Paraíso não dizia quanto duraria esse preço, compare a duração que aparecer no seu pedido.",
-          "Quando for calcular o custo no seu endereço, faça a conta primeiro sem a recompensa. Na tela com a nossa indicação, a Starlink mostrou R$ 200 após cumprir as regras do programa. Veja a [indicação Starlink](/cupons/starlink)."
+          "Repare na diferença de risco para quem quer testar ou montar um backup: no Residencial 100 Mbps de Alto Paraíso, o Mini X custava R$ 299 sem contrato de 12 meses. A sanfona de perguntas do checkout ainda mostra um texto genérico de 12 meses, mas a cláusula não aparece no equipamento nem no resumo desse plano. Já no Max a R$ 49, a tela diz “Contrato de 12 meses obrigatório”.",
+          "Quando for calcular o custo no seu endereço, faça a conta primeiro sem a recompensa. Pelo nosso link de indicação, a Starlink dá R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura. Veja a [indicação Starlink](/cupons/starlink)."
         ],
         "links": [
           {
-            "label": "Ver planos no seu endereço",
+            "label": "Simular plano e kit para o meu endereço",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "alt": "Tela oficial da Starlink mostrando o plano Residencial 100 Mbps por R$ 132,30 ao mês e o Mini X por R$ 299",
+          "caption": "Plano Residencial 100 Mbps com Mini X, na consulta em Alto Paraíso de Goiás.",
+          "objectFit": "square",
+          "aspectRatio": 0.9653
+        }
       },
       {
         "heading": "Onde instalar a antena",
@@ -288431,12 +288810,38 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Quando comparar com fibra ou 4G",
+        "heading": "Além do preço: fibra instável, quedas regionais e uso como backup",
         "paragraphs": [
-          "Se já chega fibra estável, compare a soma de instalação, mensalidades e eventual fidelidade de cada proposta. Para 4G, inclua o preço do equipamento que você precisar e confira se o plano tem franquia suficiente para a casa."
+          "Comparar só a fatura de 12 meses falha quando a internet fixa que chega ao endereço é barata, mas cai toda semana ou entrega só uma fração da velocidade contratada. Provedores regionais e redes saturadas no horário de pico costumam sofrer com cabo rompido no poste, manutenção sem aviso e congestionamento no bairro. Para quem trabalha de casa, faz chamadas de vídeo ou depende de câmeras e automação, isso pesa mais do que a diferença na mensalidade.",
+          "No nosso caso, contratamos a Starlink como alternativa e backup à fibra instável. Como o sinal vem de satélites e não depende dos cabos da rua nem do mesmo provedor, ela pode servir de conexão principal no lugar de uma fibra problemática ou de rota reserva quando a fibra cai.",
+          "O teste tem pouco risco: no Residencial 100 Mbps com Mini X a R$ 299, sem contrato de 12 meses, e com 30 dias para devolver, você mede a estabilidade no seu telhado e só mantém a assinatura se ela resolver o problema. Se pensa em 4G ou 5G residencial como backup, some o roteador e confira a franquia de dados."
         ],
-        "emphasis": "Sem fibra estável nem 4G decente no endereço, a Starlink entra na conta; com fibra estável, só compensa trocar se o total de 12 meses, kit e mensalidades somados, ficar abaixo do que a conexão atual custa.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "Com fibra verdadeiramente estável e na velocidade contratada, a rede fixa vence pelo menor custo mensal; já quando a fibra do bairro sofre com quedas constantes ou velocidade muito abaixo do plano, a Starlink passa a valer pela continuidade do trabalho e pela independência como alternativa ou backup.",
+        "emphasisAfterParagraph": 3,
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antena e roteador oficiais da Starlink, que podem servir de conexão principal ou de backup",
+          "caption": "Conjunto oficial da Starlink, independente da fiação do provedor local. Foto da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Como usar a Starlink junto com uma fibra ruim",
+        "paragraphs": [
+          "Esta parte é orientação geral, não um relato da nossa instalação. Há dois jeitos de usar a Starlink ao lado de uma fibra instável, do mais simples ao automático.",
+          "Nível 1, sem custo extra: mantenha o Wi-Fi da Starlink como segunda rede e troque de rede no celular ou no notebook quando a fibra cair no meio de uma reunião. A troca é manual e leva segundos, mas você precisa perceber a queda e agir.",
+          "Nível 2, automático: use um roteador com Dual-WAN (ou multi-WAN) e failover. A fibra entra numa porta WAN, a Starlink na outra, e o roteador passa o tráfego para a Starlink quando detecta que a fibra caiu. Para isso, a Starlink costuma ser ligada ao seu roteador pelo modo bypass do aplicativo, que deixa o seu roteador comandar a rede. Confira no suporte da Starlink o que o seu modelo exige, porque alguns kits pedem um adaptador Ethernet.",
+          "Na troca automática, ligações em andamento e VPNs podem reconectar por alguns segundos, porque o endereço de saída muda. Teste o failover antes de depender dele: desligue a fibra por alguns minutos e veja se chamadas, câmeras e trabalho remoto voltam sozinhos."
+        ]
+      },
+      {
+        "heading": "Chuva forte, vento e queda de energia",
+        "paragraphs": [
+          "A internet por satélite antiga, de órbita alta, tem atraso de centenas de milissegundos, o que atrapalha chamadas e jogos. A Starlink usa satélites de órbita baixa e publica uma faixa típica de 25 a 60 ms em terra, referência da empresa e sem medição no nosso endereço.",
+          "Chuva muito forte, neve e tempestades podem reduzir o desempenho por um tempo, e o vento exige antena bem fixada. Compare com a fibra: um cabo rompido na rua pode levar bastante tempo para o provedor consertar, e a Starlink não depende dele.",
+          "Queda de energia é outro ponto: a antena e o roteador da Starlink precisam de eletricidade, e os equipamentos da fibra também. Um nobreak ou uma estação de energia portátil, dimensionado para o consumo que a Starlink informa nas especificações, mantém a conexão no ar em apagões curtos. Se a energia falta no bairro inteiro, a rede da rua também pode cair, então teste o conjunto antes de depender dele."
+        ]
       },
       {
         "heading": "Velocidade e jogos",
@@ -288454,7 +288859,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Contrato e saída",
         "paragraphs": [
-          "No exemplo do Max com kit de R$ 49, o contrato é de 12 meses e a multa de rescisão antecipada pode chegar a R$ 1.099. O [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar) explica também as condições de devolução."
+          "Os dois pacotes que consultamos em Alto Paraíso de Goiás não funcionam do mesmo jeito. O Max com kit a R$ 49 tem contrato de 12 meses, com multa de rescisão antecipada de até R$ 1.099. O Residencial 100 Mbps com Mini X a R$ 299 não mostrou fidelidade de 12 meses, e a pré-venda da Av. Paulista também não. Todos têm 30 dias para devolver.",
+          "Abrir o pedido não compromete nada: preço, desconto e disponibilidade só aparecem depois que você digita o endereço em starlink.com. A indicação só conta no pedido feito por um link de indicação, antes de pagar, em starlink.com, e não vale em marketplace. O [guia de fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar) explica as condições de devolução."
+        ],
+        "links": [
+          {
+            "label": "Testar no meu endereço com 30 dias para devolver",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -288467,34 +288880,36 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
-          "Starlink vale a pena na cidade? Com fibra estável no endereço, compare instalação, mensalidades e fidelidade antes de trocar.",
-          "Starlink é melhor que fibra? Sem boa fibra no local, vale cotar a Starlink e verificar se há céu aberto para instalar. Se ambas estiverem disponíveis, compare estabilidade e custo no seu endereço.",
+          "Starlink vale a pena na cidade? Depende da qualidade real da sua fibra atual. Se ela é barata e estável, tende a vencer no bolso. Se cai com frequência ou entrega muito abaixo do combinado, a Starlink pode valer a pena como alternativa ou backup, desde que haja céu aberto. Foi o nosso caso.",
+          "Starlink é melhor que fibra? Em velocidade máxima e latência, uma fibra saudável costuma levar vantagem. Em continuidade contra quedas locais e cabos rompidos na rua, a Starlink ajuda por ser uma rota independente do provedor local.",
           "Starlink é boa para jogos? Teste a latência e as interrupções no seu endereço. A faixa típica que a Starlink publica é uma referência geral.",
           "A Starlink é ilimitada? A Starlink anuncia dados ilimitados nos planos residenciais. Confira os limites de velocidade do plano que aparece no pedido.",
-          "Quanto custa a Starlink por mês? Na consulta do Max, eram R$ 273,90 na Avenida Paulista e R$ 174,30 em Alto Paraíso de Goiás com a oferta. O valor muda pelo endereço."
+          "Quanto custa a Starlink por mês? Na consulta em Alto Paraíso de Goiás, o Residencial 100 Mbps saía por R$ 132,30 e o Max por R$ 174,30, com desconto regional de 30%. Na pré-venda da Av. Paulista, os valores cheios eram R$ 189 e R$ 249. O preço muda conforme o endereço.",
+          "Dá para usar a Starlink como backup da fibra? Sim. Com um roteador Dual-WAN com failover, a Starlink assume quando a fibra cai; sem ele, dá para trocar de rede manualmente. Confira no suporte da Starlink o que o seu modelo exige para o modo bypass."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "você não tem fibra boa no endereço e o 4G também é fraco.",
-        "você aceita 12 meses de contrato e sabe que o preço muda pelo endereço no pedido."
+        "você não tem boa fibra nem internet móvel estável no endereço.",
+        "mesmo em região com fibra barata, a sua rede local cai com frequência ou entrega velocidade muito abaixo do contratado, e você precisa de uma alternativa confiável ou de internet de backup.",
+        "você testou a vista para o céu no aplicativo da Starlink e aceita conferir no pedido se o plano escolhido tem ou não contrato de fidelidade."
       ],
       "skipIf": [
-        "você tem fibra estável no endereço, sem kit para comprar nem contrato de 12 meses.",
-        "você precisa de jogo online com resposta rápida garantida: a Starlink publica uma faixa típica de latência, mas não promete o número para o seu endereço."
+        "você já tem fibra verdadeiramente estável, com velocidade fiel ao plano e sem quedas frequentes que exijam redundância.",
+        "você depende de jogo online competitivo com latência mínima garantida: a Starlink publica uma faixa típica de resposta, mas não promete o número para o seu endereço."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Informe seu endereço no site da Starlink e confira plano, kit e mensalidade antes de pagar.",
-      "label": "Ver planos no meu endereço",
+      "text": "Você paga o mesmo preço do site oficial, mantém os 30 dias para devolver se não funcionar no seu telhado e recebe R$ 200 de crédito no Brasil (45 € em Portugal) depois de dois meses de assinatura, cumpridas as regras.",
+      "label": "Ver meu endereço em starlink.com com a indicação",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Preços lidos na tela de pedido do site oficial. Ainda não usamos o serviço. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+    "editorialNote": "Contratamos a Starlink como alternativa e backup à nossa fibra instável. Os preços, as regras de fidelidade e os cenários de endereço deste guia foram lidos nas telas públicas de pedido do site oficial. Participamos do programa de indicação e podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
     "relatedArticles": [
       {
         "slug": "starlink-fidelidade-como-cancelar"
@@ -288512,8 +288927,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-fidelidade-como-cancelar",
     "translationKey": "starlink-fidelidade",
     "locale": "pt",
-    "title": "Starlink tem fidelidade? O contrato de 12 meses, a multa e os 30 dias para devolver",
-    "seoTitle": "Starlink tem fidelidade? Multa de até 1.099 reais",
+    "title": "Starlink tem fidelidade? Só o kit subsidiado do Max prende 12 meses; o 100 Mbps não",
+    "seoTitle": "Starlink tem fidelidade? 12 meses só no Max a 49 reais",
     "type": "Guia Prático",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -288524,8 +288939,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Veja quando o kit de R$ 49 do Residencial Max exige contrato de 12 meses, quanto pode custar a saída antecipada, como cancelar a assinatura e pedir a devolução.",
-    "metaDescription": "A Starlink tem fidelidade de 12 meses no kit com desconto, com multa de até 1.099 reais. Veja os 30 dias para devolver e o que muda ao cancelar.",
+    "description": "Veja quando a Starlink exige 12 meses (Max com kit a 49 reais) e quando não há fidelidade (100 Mbps, pré-venda, Portugal), com a multa e a devolução em 30 dias.",
+    "metaDescription": "Starlink tem fidelidade só no Max com kit subsidiado, com multa de até 1.099 reais. O 100 Mbps e Portugal não. Veja os 30 dias para devolver.",
     "publishedAt": "19 de novembro de 2026",
     "publishedAtISO": "2026-11-19",
     "updatedAt": "2026-11-23",
@@ -288539,28 +288954,107 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Residencial Max com kit a 49 reais exigia 12 meses de contrato no pedido consultado. A multa por saída antecipada pode chegar a 1.099 reais. A oferta prevê reembolso do kit e do primeiro mês se você cancelar e devolver o kit sem danos em até 30 dias do pagamento."
+          "Depende do plano. No Brasil, o Residencial 100 Mbps com o Mini X a 299 reais não mostrou fidelidade de 12 meses, e os pedidos em pré-venda de São Paulo também não. O contrato de 12 meses, com multa de até 1.099 reais, aparece no Residencial Max com o kit subsidiado a 49 reais. Em Portugal não há contrato: o kit é alugado a 0 € e volta para a Starlink se você cancelar. Em todos os casos vale a janela de 30 dias para cancelar, devolver o kit sem danos e pedir o reembolso."
         ]
       },
       {
-        "heading": "Quando tem fidelidade",
+        "heading": "Brasil: o 100 Mbps não tem fidelidade",
         "paragraphs": [
-          "Na tela de pedido que lemos em 19 de novembro de 2026, o kit a R$ 49 do Residencial Max vem com a frase \"Contrato de 12 meses obrigatório\", nos dois endereços lidos, com e sem a oferta de 30%.",
-          "No plano de 100 Mbps, lido em Alto Paraíso de Goiás, o equipamento é o Mini X de R$ 299, e as perguntas da tela seguiram falando em 12 meses quando trocamos de plano. Não sabemos se o contrato vale para essa opção. Confirme no pedido antes de assinar."
+          "Não existe uma regra única da Starlink: o contrato vem junto com o kit que o seu pedido escolhe. Na consulta de 23 de novembro de 2026 para Alto Paraíso de Goiás, o Residencial 100 Mbps saía a R$ 132,30 por mês (R$ 189 menos 30% de ajuste promocional, válido até o fim de novembro) e o equipamento era o Mini X a R$ 299 (R$ 499 menos R$ 200 de desconto no preço). É um kit comprado, não um kit subsidiado em troca de contrato.",
+          "Nem o bloco Equipamento nem o Resumo do pedido do 100 Mbps trazem a frase de contrato de 12 meses. Há uma pegadinha de leitura: a pergunta frequente \"Prazo de 12 meses\", na coluna ao lado, é genérica e continua aparecendo quando você troca da aba Max para a de 100 Mbps. O que vale é o bloco Equipamento e o resumo do seu pedido, e é neles que você procura a cláusula antes de pagar.",
+          "Na Avenida Paulista, em São Paulo, a mesma consulta caiu em pré-venda: o pedido pede só o depósito de reserva de R$ 275, abatido do kit Standard 4 X de R$ 2.400, e a mensalidade futura é a cheia (R$ 189 no 100 Mbps, R$ 249 no Max), sem os 30%. A tela não mostrou contrato de 12 meses nem multa. A situação muda de endereço para endereço, então só o pedido do seu CEP diz o que vale."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "alt": "Tela de pedido da Starlink em Alto Paraíso de Goiás, aba Residencial 100 Mbps, com R$ 132,30 por mês e o Mini X a R$ 299",
+          "caption": "Alto Paraíso de Goiás, aba Residencial 100 Mbps: R$ 132,30 por mês e Mini X a R$ 299, sem a frase de 12 meses no equipamento.",
+          "objectFit": "square",
+          "aspectRatio": 0.9653
+        },
+        "links": [
+          {
+            "label": "Conferir planos e fidelidade no meu endereço",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "A multa",
+        "heading": "Brasil: o Max a 49 reais prende 12 meses",
         "paragraphs": [
-          "A tela de pedido fala em taxa de rescisão antecipada de até R$ 1.099. Não sabemos se ela cai na proporção dos meses que faltam, porque a página que lemos não diz. Pergunte à Starlink antes de cancelar."
-        ]
+          "No Residencial Max, o pedido do mesmo endereço mostrou R$ 174,30 por mês (R$ 249 menos R$ 74,70), o Mini X a R$ 49 (R$ 99 menos R$ 50 de desconto no equipamento) e a instalação profissional incluída. É aqui, no bloco Equipamento, que aparece a frase \"Contrato de 12 meses obrigatório. 30 dias para devolver.\"",
+          "O resumo do pedido repete a regra na pergunta frequente: prazo de 12 meses obrigatório e taxa de rescisão antecipada de até R$ 1.099. Pense nisso como o preço do subsídio: você paga pouco hoje e se compromete a ficar um ano. Se for se mudar ou trocar de provedor antes disso, o kit barato pode sair caro."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+          "alt": "Resumo do pedido do Residencial Max na Starlink com o Mini X de R$ 99 menos R$ 50, total de R$ 49, e a pergunta sobre o prazo de 12 meses",
+          "caption": "Resumo do pedido do Residencial Max: Mini X a R$ 49 e a pergunta sobre o prazo de 12 meses, com rescisão de até R$ 1.099.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.4953
+        }
       },
       {
-        "heading": "Os 30 dias para devolver",
+        "heading": "Portugal: aluguer sem contrato, com devolução do kit",
         "paragraphs": [
-          "Na tela do pedido do Max, o prazo de 30 dias começa no pagamento. Para pedir o reembolso do kit e do primeiro mês nas condições da oferta, cancele o serviço e devolva o equipamento sem danos dentro desse prazo.",
+          "Na consulta para a Praça do Comércio, em Lisboa, a página dizia \"Sem contratos, teste de 30 dias\" nos três planos: 100 Mbps a 24,50 € por mês, 200 Mbps a 31,50 € e Max a 45,50 € (30% sobre 35 €, 45 € e 65 €, até o fim de novembro). O hardware é alugado por 0 €: Mini X no 100 Mbps e Standard 4 nos outros dois. O envio custou 20 € no pedido, e a instalação profissional é opcional (172 € nos dois primeiros planos, 0 € no Max).",
+          "Sem fidelidade não quer dizer sem devolução. O kit continua sendo da Starlink, e quem cancela precisa devolver o equipamento alugado."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-pt-planos-lisboa-aluguer.webp",
+          "alt": "Tela de planos da Starlink em Lisboa com a frase Sem contratos, teste de 30 dias, o 100 Mbps a 24,50 € por mês e o hardware a 0 €",
+          "caption": "Lisboa: \"Sem contratos, teste de 30 dias\", 100 Mbps a 24,50 € por mês e kit alugado a 0 €.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5909
+        }
+      },
+      {
+        "heading": "Os quatro cenários lado a lado",
+        "paragraphs": [
+          "A tabela junta o que cada tela mostrou. É um retrato de cada endereço lido, não uma regra para o país inteiro."
+        ],
+        "comparisonTable": {
+          "caption": "Valores lidos na tela de pedido de cada endereço; os 30% de desconto valem até o fim de novembro.",
+          "headers": [
+            "Cenário",
+            "Mensalidade",
+            "Equipamento",
+            "Contrato e multa"
+          ],
+          "rows": [
+            [
+              "Brasil, Residencial 100 Mbps (Alto Paraíso de Goiás)",
+              "R$ 132,30 (R$ 189 cheios)",
+              "Mini X a R$ 299, comprado",
+              "Sem a frase de 12 meses no equipamento nem no resumo"
+            ],
+            [
+              "Brasil, Residencial Max (Alto Paraíso de Goiás)",
+              "R$ 174,30 (R$ 249 cheios)",
+              "Mini X a R$ 49, subsidiado, com instalação incluída",
+              "12 meses obrigatórios; rescisão de até R$ 1.099"
+            ],
+            [
+              "Brasil, pré-venda (Avenida Paulista, São Paulo)",
+              "R$ 189 ou R$ 249, sem os 30%",
+              "Standard 4 X a R$ 2.400, com depósito de R$ 275",
+              "Sem contrato de 12 meses nem multa na tela"
+            ],
+            [
+              "Portugal (Lisboa)",
+              "24,50 €, 31,50 € ou 45,50 €",
+              "Aluguer a 0 €, devolver ao cancelar",
+              "Sem contratos, teste de 30 dias"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "A multa e os 30 dias para devolver",
+        "paragraphs": [
+          "A multa de até R$ 1.099 vale para o kit subsidiado com contrato de 12 meses, o do Max a R$ 49, depois dos 30 dias. Não vale para o 100 Mbps com o kit comprado nem para Portugal, onde o que existe é a devolução do kit alugado. A página não diz se o valor cai com os meses que passaram, então pergunte à Starlink antes de cancelar.",
+          "Nos pedidos que lemos, o prazo de 30 dias começa no pagamento. Para pedir o reembolso do kit e do primeiro mês nas condições da oferta, cancele o serviço e devolva o equipamento sem danos dentro desse prazo.",
           "Cancelar a assinatura interrompe as cobranças futuras conforme o ciclo. Pelo suporte da Starlink, confira como abrir também a devolução do kit e guarde o comprovante de envio.",
-          "O pedido com a [indicação Starlink](/cupons/starlink) mostrou o mesmo contrato e a mesma política de devolução."
+          "O pedido aberto pela [indicação Starlink](/cupons/starlink) mostra o mesmo contrato e a mesma política de devolução."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
@@ -288569,7 +289063,14 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
-        "emphasis": "Pelas regras do pedido, quem cancela e devolve o kit sem danos em até 30 dias do pagamento pede o reembolso do kit e do primeiro mês; depois disso, valem o contrato de 12 meses e a multa de até R$ 1.099."
+        "emphasis": "Quem cancela e devolve o kit sem danos em até 30 dias do pagamento pede o reembolso do kit e do primeiro mês; passado esse prazo, só o kit subsidiado do Max (49 reais) segue preso aos 12 meses e à multa de até R$ 1.099.",
+        "links": [
+          {
+            "label": "Ver planos com 30 dias de reembolso em starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Como cancelar",
@@ -288599,8 +289100,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço promocional e mudança de plano",
         "paragraphs": [
-          "Pelos termos de preço promocional que lemos, cancelar, mudar de plano ou ser suspenso pode fazer você perder o preço promocional. O preço padrão não tem duração fixa e pode subir com aviso de 30 dias."
+          "Pelos termos de preço promocional que lemos, cancelar, mudar de plano ou ser suspenso pode fazer você perder o preço promocional. O preço padrão não tem duração fixa e pode subir com aviso de 30 dias.",
+          "Se a primeira fatura vier pelo valor cheio, abra um chamado na conta, em Mensagens, com o print do resumo do seu endereço mostrando o desconto."
         ]
+      },
+      {
+        "heading": "Antes de pagar: confira o seu pedido",
+        "paragraphs": [
+          "A indicação só conta se o pedido nasce de um link de indicação, aberto antes do pagamento e em starlink.com: depois de pago, ou em marketplace, não dá para acrescentá-la. Abrir o link não compromete nada, porque o endereço mostra qual dos modelos vale para você e os 30 dias cobrem o teste. O crédito é de R$ 200 no Brasil (45 € em Portugal), cai na fatura depois de dois meses de assinatura e não reduz o preço do kit.",
+          "Se o seu objetivo é fugir do contrato, o 100 Mbps com o kit comprado foi o caminho sem os 12 meses que lemos, e entrar pelo link não muda o preço do pedido."
+        ],
+        "checklist": {
+          "title": "Antes de pagar",
+          "items": [
+            "Abri o pedido pelo link de indicação, na mesma janela, antes de pagar.",
+            "Conferi que a barra do navegador continua em starlink.com antes de digitar qualquer dado.",
+            "Rodei o teste de obstruções no app da Starlink no ponto onde a antena vai ficar.",
+            "Li no resumo do pedido o preço do kit e se o bloco Equipamento fala em contrato de 12 meses.",
+            "Salvei um print do resumo com a mensalidade e a regra dos 30 dias antes de pagar."
+          ]
+        }
       },
       {
         "heading": "Se a cobrança continuar",
@@ -288613,10 +289132,12 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
-          "A Starlink tem fidelidade? No pedido consultado do Max com kit a R$ 49, o contrato era de 12 meses.",
-          "Qual a multa para cancelar a Starlink? A oferta consultada informa até R$ 1.099. Confira o valor aplicável ao seu pedido antes de confirmar o cancelamento.",
-          "Posso cancelar a Starlink a qualquer momento? A solicitação pode ser feita pela conta. Se houver contrato de 12 meses e você sair antes, confira a multa aplicável.",
-          "A Starlink Mini tem fidelidade? A tela mostrou o Mini X no plano de 100 Mbps, mas a condição de contrato para essa combinação ficou sem confirmação. Confira no resumo do seu pedido.",
+          "A Starlink tem fidelidade? Depende do plano. No Brasil, o Residencial Max com o kit a R$ 49 exige 12 meses; o Residencial 100 Mbps com o Mini X a R$ 299 não mostrou contrato no equipamento nem no resumo; em Portugal não há contrato.",
+          "Qual a multa para cancelar a Starlink? Para o kit subsidiado do Max, a tela informa rescisão antecipada de até R$ 1.099. No 100 Mbps com kit comprado e em Portugal, a tela não mostrou multa. Confira o valor do seu pedido antes de cancelar.",
+          "Posso cancelar a Starlink a qualquer momento? A solicitação pode ser feita pela conta. Se o seu pedido tem contrato de 12 meses e você sair antes, confira a multa aplicável.",
+          "A Starlink Mini tem fidelidade? Depende do pedido: o Mini X a R$ 299 do 100 Mbps não mostrou contrato, e o Mini X a R$ 49 do Max exige 12 meses. Confira o bloco Equipamento do seu pedido.",
+          "Em Portugal a Starlink tem fidelidade? Não: a página diz \"Sem contratos, teste de 30 dias\" e o kit é alugado a 0 €, mas precisa ser devolvido se você cancelar.",
+          "O que muda na pré-venda de São Paulo? O pedido pede só o depósito de R$ 275, abatido do kit Standard 4 X de R$ 2.400, com a mensalidade cheia e sem contrato de 12 meses na tela.",
           "Dá para devolver a Starlink em 30 dias? A oferta do Max informa reembolso do kit e do primeiro mês se o serviço for cancelado e o kit voltar sem danos em até 30 dias do pagamento."
         ]
       }
@@ -288638,17 +289159,17 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "você quer pagar o kit com desconto e aceita o contrato de 12 meses.",
-        "você vai ler o pedido do seu endereço antes de pagar e guardar o comprovante da devolução."
+        "você prefere pagar o kit à vista e ficar sem fidelidade, como no 100 Mbps do Brasil, ou está em Portugal, onde o kit é alugado sem contrato.",
+        "você aceita 12 meses para ter o kit subsidiado do Max e vai ler o resumo do seu endereço antes de pagar."
       ],
       "skipIf": [
-        "você pode cancelar antes dos 12 meses e não quer arriscar a multa de rescisão.",
+        "você pode se mudar ou cancelar antes de 12 meses e não quer arriscar a multa do kit subsidiado.",
         "você não vai devolver o kit sem danos dentro dos 30 dias."
       ]
     },
     "cta": {
-      "text": "O pedido abre no site da Starlink. Confira o contrato, a multa e a devolução do kit antes de pagar.",
-      "label": "Consultar o contrato no meu endereço",
+      "text": "O pedido abre em starlink.com pelo link de indicação, que precisa vir antes do pagamento. Você paga o mesmo preço do site, vê o contrato do seu endereço e mantém os 30 dias para devolver. O crédito é de R$ 200 no Brasil (45 € em Portugal), depois de dois meses de assinatura.",
+      "label": "Conferir contrato e plano no meu endereço",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -288685,7 +289206,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Starlink é o serviço de internet via satélite da SpaceX, e o site oficial é starlink.com. No Reclame Aqui, o perfil verificado é o “Starlink Brazil”. Se for comprar o kit fora do site, confira a lista de revendedores autorizados da Starlink e veja quem vende o anúncio antes de pagar."
+          "Sim, a Starlink é confiável: é o serviço oficial de internet via satélite da SpaceX e vende diretamente em starlink.com. Nós mesmos contratamos a Starlink como alternativa à fibra instável. O cuidado é com sites falsos e anúncios fora da rede oficial: no Reclame Aqui, o perfil verificado é “Starlink Brazil” e, se comprar o kit fora do site, confira o vendedor na lista de revendedores autorizados."
         ]
       },
       {
@@ -288706,7 +289227,22 @@ export const reviewsData: unknown[] = [
         "heading": "Como reconhecer o site oficial",
         "paragraphs": [
           "Digite starlink.com/br no navegador. Antes de informar dados ou pagar, confira se você continua dentro de starlink.com.",
-          "No pedido oficial que consultamos, havia opção de Pix. Se pedirem para pagar por mensagem ou fora do pedido, confirme pelo suporte da Starlink antes de seguir."
+          "No pedido oficial que consultamos, havia opção de Pix. Se pedirem para pagar por mensagem ou fora do pedido, confirme pelo suporte da Starlink antes de seguir.",
+          "Uma forma simples de não errar o endereço é abrir o pedido pelo link de indicação: ele leva direto ao pedido em starlink.com, e você ainda confere a barra do navegador antes de digitar qualquer dado. O preço é o mesmo do site oficial, e a indicação só conta se o pedido começar por um link de indicação, antes do pagamento."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "alt": "Tela oficial de planos residenciais em starlink.com para Alto Paraíso de Goiás, com o plano de 100 Mbps e o kit Mini X",
+          "caption": "Tela de planos em starlink.com para Alto Paraíso de Goiás, com o plano de 100 Mbps e o kit Mini X.",
+          "objectFit": "square",
+          "aspectRatio": 0.9653
+        },
+        "links": [
+          {
+            "label": "Acessar o pedido oficial em starlink.com com indicação",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -288726,7 +289262,14 @@ export const reviewsData: unknown[] = [
             "label": "Lista de varejistas autorizados pela Starlink",
             "href": "https://starlink.com/pt/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Peças de um kit Starlink sobre fundo escuro: base, suporte e cabos",
+          "caption": "Peças de um kit Starlink. Foto da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Chip, cartão, banco e IPTV com o nome Starlink",
@@ -288739,6 +289282,29 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "No semestre de maio a outubro de 2026, o perfil verificado “Starlink Brazil” recebeu 2.017 reclamações e respondeu a todas. A reputação ficou Boa, com nota 7,8, 77,1% de reclamações resolvidas e 75% dos consumidores dizendo que voltariam a fazer negócio. Em setembro, a reputação mensal passou de Ótima para Boa.",
           "A [análise completa da reputação](/reviews/starlink-reclame-aqui-nota-reputacao) traz os números, o que mais gera reclamação e como a empresa responde."
+        ]
+      },
+      {
+        "heading": "Checklist antes de pagar",
+        "paragraphs": [
+          "Cinco conferências rápidas valem para qualquer endereço e levam poucos minutos."
+        ],
+        "checklist": {
+          "title": "Antes de fechar o pedido",
+          "items": [
+            "Abri o pedido pelo link de indicação, na mesma janela do navegador, para a indicação contar.",
+            "Conferi que a barra do navegador continua em starlink.com antes de digitar qualquer dado.",
+            "Rodei o teste de obstruções do app da Starlink no ponto previsto para a antena, para confirmar céu aberto.",
+            "Li no resumo do pedido o plano, o kit, o total e se há contrato.",
+            "Salvei um print do resumo com o valor mensal e a regra dos 30 dias antes de pagar."
+          ]
+        },
+        "links": [
+          {
+            "label": "Verificar disponibilidade no meu CEP direto em starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -288756,7 +289322,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Starlink tem cupom de desconto? Não. A Starlink não tem cupom: pelo link de indicação da Cecília, quem assina recebe R$ 200 no Brasil (45 € em Portugal) depois de dois meses de assinatura, como crédito na fatura, e quem indicou recebe o mesmo valor.",
-          "A Starlink é confiável? A Starlink é o serviço de internet via satélite da SpaceX. No Brasil, confira o site starlink.com e o perfil verificado “Starlink Brazil” no Reclame Aqui.",
+          "A Starlink é confiável? Sim, a Starlink é o serviço oficial de internet via satélite da SpaceX. Para comprar com segurança no Brasil, confirme o endereço starlink.com no navegador, consulte o perfil verificado “Starlink Brazil” no Reclame Aqui e, fora do site, compre só em varejistas da lista oficial.",
           "Qual é o site oficial da Starlink? A versão brasileira fica em starlink.com/br.",
           "Como confirmar se um vendedor é autorizado? Veja a lista de varejistas da Starlink e confira o vendedor do anúncio antes de pagar.",
           "Devo comprar pelo site oficial ou por um revendedor? No site oficial, o pedido mostra plano, kit e total antes do pagamento, e a indicação só vale ali. Um varejista da lista oficial é um vendedor legítimo, mas a indicação não se aplica."
@@ -288766,7 +289332,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Feito com o site oficial, a central de ajuda e os perfis públicos no Reclame Aqui. Participamos do programa de indicação. Podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
+    "editorialNote": "Feito com o site oficial, a central de ajuda e os perfis públicos no Reclame Aqui. Contratamos a Starlink como alternativa e backup à fibra instável. Participamos do programa de indicação e podemos receber uma recompensa se você assinar pelo nosso link e cumprir as regras.",
     "relatedArticles": [
       {
         "slug": "starlink-reclame-aqui-nota-reputacao"
@@ -288789,8 +289355,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Informe seu endereço no site da Starlink e confira plano, kit e mensalidade antes de pagar.",
-      "label": "Ver planos no meu endereço",
+      "text": "Abra o pedido pelo link de indicação, confira que a barra continua em starlink.com e veja plano, kit e total no seu endereço antes de pagar. O preço é o do site oficial.",
+      "label": "Ver meu endereço em starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -288894,6 +289460,35 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "Perfil verificado Starlink Brazil, lido em 23/11/2026. 6 meses: 01/05 a 31/10/2026. 12 meses: 01/11/2025 a 31/10/2026. Geral: 24/11/2023 a 23/11/2026."
+        },
+        "metrics": {
+          "items": [
+            {
+              "label": "Nota 6 meses",
+              "value": "7,8",
+              "unit": "/10",
+              "note": "Reputação Boa"
+            },
+            {
+              "label": "Respondidas",
+              "value": "100%",
+              "note": "Todas atendidas"
+            },
+            {
+              "label": "Resolvidas",
+              "value": "77,1%",
+              "note": "Das avaliadas"
+            },
+            {
+              "label": "Voltariam",
+              "value": "75%",
+              "note": "Fariam negócio"
+            }
+          ],
+          "summary": {
+            "badge": "Principal queixa",
+            "text": "Na aba geral, a cobrança indevida lidera os problemas listados, com 15,19% das queixas da aba. Guardar o print do pedido ajuda a contestar uma fatura que não bate."
+          }
         }
       },
       {
@@ -288919,15 +289514,32 @@ export const reviewsData: unknown[] = [
         "heading": "O que isso quer dizer para quem assina",
         "paragraphs": [
           "Quem assina precisa conferir a fatura todo mês e compará-la com o preço que apareceu no pedido. O preço promocional tem regras: ele vale para cliente novo em áreas selecionadas, e pode ser perdido se o plano mudar, se o serviço for cancelado ou suspenso.",
+          "A defesa mais simples é pedir direto em starlink.com e salvar a tela do resumo do pedido, com preço, kit, contrato e a indicação aplicada. Depois, compare a primeira fatura com esse print. A indicação só conta no pedido aberto por um link de indicação, antes de pagar, e não dá para acrescentá-la depois.",
           "As regras de fidelidade e de cancelamento estão no [guia sobre fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar)."
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "Antena Starlink presa ao telhado de uma casa de madeira",
-          "caption": "Antena residencial instalada. Foto da Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
-        }
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+            "alt": "Tela de planos da Starlink para Alto Paraíso de Goiás, com o Residencial 100 Mbps a R$ 132,30 por mês e o Mini X a R$ 299",
+            "caption": "Alto Paraíso de Goiás, aba 100 Mbps: o preço do plano e do kit que aparecem no pedido, o tipo de tela que vale a pena guardar.",
+            "objectFit": "square",
+            "aspectRatio": 0.9653
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "Antena Starlink presa ao telhado de uma casa de madeira",
+            "caption": "Antena residencial instalada. Foto da Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ],
+        "links": [
+          {
+            "label": "Abrir o pedido oficial em starlink.com e conferir minha região",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Como reclamar",
@@ -288943,15 +289555,32 @@ export const reviewsData: unknown[] = [
             "label": "Perfil verificado Starlink Brazil no Reclame Aqui",
             "href": "https://www.reclameaqui.com.br/empresa/starlink-brazil/"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "Componentes do kit Starlink Standard: antena, roteador, suporte e cabos",
+            "caption": "Kit Starlink Standard: antena, roteador, suporte e cabos. Foto da Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "Antes de assinar",
         "paragraphs": [
           "Antes de assinar, confira o site e o contrato. Como reconhecer o site oficial e os perfis que usam o nome está em [a Starlink é confiável?](/reviews/starlink-e-confiavel).",
+          "Abrir o pedido não compromete nada: plano, preço, disponibilidade e regras do contrato só aparecem depois que você digita o seu endereço. A política de 30 dias da Starlink prevê reembolso se você cancelar e devolver o kit sem danos nesse prazo, conforme o pedido; em kit subsidiado com contrato, confira se há multa depois dos 30 dias.",
           "A página da [indicação Starlink](/cupons/starlink) tem o link e as regras do programa. A indicação não é cupom: a recompensa cai como crédito na fatura depois de dois meses de assinatura, e os planos Prioritário, Enterprise e Comercial não ganham."
         ],
-        "emphasis": "Pelos números da tabela, para quem depende da Starlink no endereço, a escolha é assinar depois de conferir plano, kit e contrato no pedido, porque a nota 7,8 mede o atendimento às reclamações no Reclame Aqui, e não a qualidade do sinal."
+        "emphasis": "Pelos números da tabela, para quem depende da Starlink no endereço, a escolha é assinar depois de conferir plano, kit e contrato no pedido, porque a nota 7,8 mede o atendimento às reclamações no Reclame Aqui, e não a qualidade do sinal.",
+        "links": [
+          {
+            "label": "Verificar disponibilidade no meu CEP direto em starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Perguntas frequentes",
@@ -288989,8 +289618,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Informe seu endereço no site da Starlink e confira plano, kit e mensalidade antes de pagar.",
-      "label": "Ver planos no meu endereço",
+      "text": "Abra o pedido pelo link de indicação, confira plano, kit e contrato no seu endereço e salve a tela do resumo antes de pagar. O preço é o do site oficial.",
+      "label": "Abrir o pedido em starlink.com no meu endereço",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -289000,8 +289629,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-link-how-it-works",
     "translationKey": "starlink-indicacao",
     "locale": "en",
-    "title": "Starlink referral link: how to use it and when the $100 reward arrives",
-    "seoTitle": "Starlink referral link: how to use it and get paid",
+    "title": "How to get $100 (£40 in the UK) when buying your first Starlink with a referral link",
+    "seoTitle": "How to get $100 on your first Starlink (referral)",
     "type": "Referral Code Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -289012,8 +289641,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Open the link on the official site and check the reward on your order before you pay. See who qualifies, when the money arrives and how to choose between credit and cash.",
-    "metaDescription": "See how to open the Starlink referral link, find the reward on your order and collect it after you meet the program's conditions.",
+    "description": "Starlink has no coupon code: order your first dish through our referral link, pay the exact site price and get $100 in the US or £40 in the UK after two months.",
+    "metaDescription": "See how to get $100 in the US (£40 in the UK) on your first Starlink order, how the link applies at checkout and how much it covers on monthly bills.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -289028,8 +289657,138 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Open the Starlink referral link and enter your address. Before you pay, look for the confirmation that the code was applied and check the reward amount on the order. The program is for new customers, and the reward is released after two full monthly cycles, as service credit or as cash where that option is offered."
+          "Starlink has no promo codes: beyond the offers on its site, the referral link is the official way to get a reward on your first subscription, $100 in the US or £40 in the UK. You pay the same price shown on starlink.com and keep the 30-day return window. In the US, $100 covers about two and a half months of the 100 Mbps plan ($38.50/mo on our reading); in the UK, £40 is one full month (£40/mo). Open the link before you order, look for the “Referral Code Applied” notice before you pay, activate the kit and stay active and paid up for two full monthly cycles. The referral cannot be added after the purchase, and it only counts on orders placed on starlink.com, not on marketplaces."
         ]
+      },
+      {
+        "heading": "Why ordering through the link pays off",
+        "paragraphs": [
+          "If you open starlink.com on your own, the equipment and the monthly price are the same as through the link. The difference is the $100 (or £40) you would leave on the table. The credit does not lower the price of the kit on the day: it lands on your invoice after two full paid monthly cycles.",
+          "The numbers below come from reference addresses. At your address, the price, the kit and the terms can be different, and only the order screen shows them."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "alt": "Starlink order page for Nevada, USA, with the Residential 100 Mbps tab selected: $38.50 a month, Starlink V5 with a Router Mini, $0 upfront hardware and the note about returning the rented hardware",
+          "caption": "Nevada, USA: the Residential 100 Mbps tab of the order, consulted on November 23, 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7159
+        },
+        "comparisonTable": {
+          "caption": "Read on starlink.com on November 23, 2026, without completing a purchase. The US prices include the 30% promotion; Starlink says the monthly price has no fixed duration and may change with 30 days’ notice. The credit is not a discount at payment: it arrives after two full cycles.",
+          "headers": [
+            "Scenario read on starlink.com",
+            "Without a referral link",
+            "With Cecília’s link",
+            "What the credit covers"
+          ],
+          "rows": [
+            [
+              "US, Residential 100 Mbps (Nevada)",
+              "$38.50/mo (standard $55/mo), $0 rental kit, $20 + taxes today",
+              "Same order + $100 credit after 2 paid cycles",
+              "About 2.6 months of the 100 Mbps plan"
+            ],
+            [
+              "US, Residential 200 Mbps (Nevada)",
+              "$59.50/mo (standard $85/mo), $0 rental kit, $0 professional install",
+              "Same order + $100 credit",
+              "About 1.7 months of the 200 Mbps plan"
+            ],
+            [
+              "US, Residential Max (Nevada)",
+              "$91/mo (standard $130/mo), $0 Standard 4 X rental",
+              "Same order + $100 credit",
+              "A bit more than one month of Max"
+            ],
+            [
+              "UK, Residential 100 Mbps (London)",
+              "£40/mo, £0 Mini rental, £19 today",
+              "Same order + £40 credit after 2 paid cycles",
+              "One full month of the 100 Mbps plan"
+            ],
+            [
+              "UK, Residential 200 Mbps and Max (London)",
+              "£60/mo and £80/mo, £0 rental",
+              "Same order + £40 credit",
+              "About two thirds and half a month"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Open my order with the $100 / £40 referral",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "simulator": {
+          "title": "Run your own scenario",
+          "scenarios": [
+            {
+              "label": "US 100 Mbps + link",
+              "lines": [
+                {
+                  "label": "Rental kit (Starlink V5 + Router Mini)",
+                  "value": "$0, returned if you cancel"
+                },
+                {
+                  "label": "Monthly price (30% off)",
+                  "value": "$38.50/mo"
+                },
+                {
+                  "label": "Referral credit after 2 paid cycles",
+                  "value": "-$100 on your invoice",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Credit compared with the monthly price",
+              "totalValue": "About 2.6 months covered",
+              "note": "You pay the same as on the regular site and keep the 30-day return window."
+            },
+            {
+              "label": "UK 100 Mbps + link",
+              "lines": [
+                {
+                  "label": "Mini rental + Router Mini",
+                  "value": "£0, returned if you cancel"
+                },
+                {
+                  "label": "Monthly price",
+                  "value": "£40/mo"
+                },
+                {
+                  "label": "Referral credit after 2 paid cycles",
+                  "value": "-£40 on your invoice",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Credit compared with the monthly price",
+              "totalValue": "One full month covered",
+              "note": "£19 is due today; the credit arrives later, not at checkout."
+            },
+            {
+              "label": "Order without the referral link",
+              "lines": [
+                {
+                  "label": "Price of the kit and the plan",
+                  "value": "Same as through the link"
+                },
+                {
+                  "label": "Referral credit",
+                  "value": "$0, cannot be added later"
+                },
+                {
+                  "label": "Reward left on the table",
+                  "value": "$100 in the US, £40 in the UK",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Referral reward received",
+              "totalValue": "$0",
+              "note": "The referral has to be on the original order, before you pay."
+            }
+          ]
+        }
       },
       {
         "heading": "How to use the link, step by step",
@@ -289039,29 +289798,67 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Check the notice before you pay. Starlink says the referral has to be on the original order."
         ],
+        "bullets": [
+          "Pick an eligible Residential or Roam plan on the order.",
+          "Look for the “Referral Code Applied” notice and check the reward and the total due.",
+          "Finish the order on starlink.com.",
+          "Activate the kit and watch your first invoice. Paying the first month and activating the equipment are part of the referral requirements."
+        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
           "alt": "Order screen on the official Starlink site with the message Referral Code Applied, saying that by signing up with this code you and your friend get $100 each, as cash or service credit",
           "caption": "Order on the official site with the referral link applied (Nevada).",
           "objectFit": "contain",
           "aspectRatio": 0.8747
-        },
-        "bullets": [
-          "Pick an eligible Residential or Roam plan on the order.",
-          "Look for the “Referral Code Applied” notice and check the reward and the total due.",
-          "Finish the order on starlink.com.",
-          "Activate the kit and watch your first invoice. Paying the first month and activating the equipment are part of the referral requirements."
-        ]
+        }
+      },
+      {
+        "heading": "Checklist before you pay",
+        "paragraphs": [
+          "Tick each item on screen before you pay. It takes two minutes and decides whether the credit is on your order."
+        ],
+        "checklist": {
+          "title": "Before you place the order",
+          "items": [
+            "I opened the order through Cecília’s referral link in this same window, so I do not lose the credit.",
+            "I checked that the address bar still shows starlink.com before typing any detail.",
+            "I ran the obstruction check in the Starlink app where the dish will go, to confirm an open sky.",
+            "I saw the referral-applied notice on the order summary, the kit price and whether there is a 12-month term.",
+            "I saved a screenshot of the summary with the monthly price and the 30-day rule before paying."
+          ]
+        }
       },
       {
         "heading": "How much it pays and when",
         "paragraphs": [
           "On the order we saw in Nevada with our link, Starlink showed $100 for the person who signs up. The person who refers also gets the same amount, in cash or as service credit.",
           "The subscription has to stay active and paid up for two full monthly cycles. The help center says issuance can start from 60 days after activation, depending on the country, the account and the identity check.",
-          "The default is credit on your invoice. If your account offers cash, open Referrals on the website in a browser and choose the reward method there."
+          "The default is credit on your invoice. If your account offers cash, open Referrals on the website in a browser and choose the reward method there. The credit lands on your invoice; it does not lower the price of the kit on the order."
         ],
         "emphasis": "The reward is released only after two full monthly cycles of an active, paid subscription, as credit on the bill by default, and the person who signs up and the person who referred get the same amount; the amount for your country shows on the order.",
         "emphasisAfterParagraph": 3
+      },
+      {
+        "heading": "Does opening the link commit you to anything? The 30-day test",
+        "paragraphs": [
+          "Opening the link commits you to nothing. The plan price, the kit, availability and whether a contract applies only show after you type an address on starlink.com.",
+          "After you pay, Starlink gives you 30 days to return the kit, according to the terms on its page. If the dish does not work on your roof, you can cancel and send the hardware back within that window. On the US order, Starlink also notes that if you cancel service at any time, you have to return the rented hardware.",
+          "That is why the link comes before the test: the referral only counts on the original order. Someone who tries Starlink without it pays the same on day one and loses the $100 (or £40) if they decide to keep the dish."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Starlink dish mounted on the roof of a wooden house",
+          "caption": "Residential dish installed. Photo from Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        },
+        "links": [
+          {
+            "label": "Lock in the reward before you order",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Who can use it",
@@ -289079,15 +289876,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "What about the Black Friday offer?",
+        "heading": "Four mistakes that cost you the credit even after you click",
         "paragraphs": [
-          "The Black Friday discount on service plans and the referral reward are two separate lines to check on the order. See the [Starlink Black Friday math](/en/reviews/starlink-black-friday-deal) and look at the offer for your own address."
+          "Most lost credits come from one of these four slips."
+        ],
+        "bullets": [
+          "Buying the kit from a retailer or marketplace. The program counts only orders placed on starlink.com through the link.",
+          "Paying without checking the notice. The referral has to be on the original order and cannot be added afterwards: if the “Referral Code Applied” notice is missing, reopen the link before you pay. If you switch device or browser in the middle of the order, open the link again and check the notice again.",
+          "Using the link as a current or former customer. The credit is only for people who subscribe to Starlink for the first time.",
+          "Cancelling too early. The credit needs an active, paid-up subscription for two full monthly cycles, and issuance can start from 60 days after activation."
         ]
       },
       {
-        "heading": "How to track a referral",
+        "heading": "What about the Black Friday offer?",
         "paragraphs": [
-          "In the Referrals tab of the website or the app, you can follow the status of everyone who signed up through your link. Starlink sends an email when someone places an order. A referral may go through an eligibility check before it produces a reward."
+          "The Black Friday discount on service plans and the referral reward are two separate lines to check on the order. See the [Starlink Black Friday math](/en/reviews/starlink-black-friday-deal) and look at the offer for your own address.",
+          "On the Nevada order summary for the 100 Mbps plan, Starlink showed $55 minus $16.50 (30%), the rental kit at $349 minus $349 and $20 plus taxes due today. Its FAQ says the monthly price has no fixed duration and that Starlink may update pricing with 30 days’ notice. If the contract is what worries you, read the [Starlink contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund) and [is Starlink worth it](/en/reviews/is-starlink-worth-it)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+          "alt": "Starlink order summary for Nevada, USA, 100 Mbps: $55 minus $16.50, rental kit $349 minus $349, $20 plus taxes due today and the FAQ about no fixed duration",
+          "caption": "Nevada: order summary of the Residential 100 Mbps plan, consulted on November 23, 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.3732
+        }
+      },
+      {
+        "heading": "How to track a referral and use your own link",
+        "paragraphs": [
+          "In the Referrals tab of the website or the app, you can follow the status of everyone who signed up through your link. Starlink sends an email when someone places an order. A referral may go through an eligibility check before it produces a reward.",
+          "Once you are an active customer on an eligible Residential or Roam plan, you can refer Starlink too, and the person who refers gets the same amount as the new customer. The amount for your country shows on the order of the person who signs up."
         ]
       },
       {
@@ -289099,13 +289917,14 @@ export const reviewsData: unknown[] = [
           "When does the Starlink referral reward arrive? The help center says issuance can start from 60 days after activation, if the referral meets the program conditions.",
           "Does the referral work on a retailer or marketplace order? The program requires the purchase to be made directly on starlink.com through the link.",
           "I used Starlink before. Can I use the link? The reward is for people who subscribe to Starlink for the first time.",
-          "Does the referral work in other countries? The help center says it works in most countries where Starlink sells, and the amount depends on the country where you sign up. In the US, our link showed $100."
+          "Does the referral work in other countries? The help center says it works in most countries where Starlink sells, and the amount depends on the country where you sign up. In the US, our link showed $100.",
+          "Can I add the referral after I paid? No. Starlink requires the referral to be on the original order, placed on starlink.com through a referral link, before payment."
         ]
       }
     ],
     "cta": {
-      "text": "Check the reward your order shows for your address before you pay.",
-      "label": "See the referral on the order",
+      "text": "You pay exactly the same price as on the official site, keep the 30 days to return the kit if it does not work on your roof, and lock in $100 in the US (£40 in the UK) after two monthly cycles.",
+      "label": "Claim $100 / £40 on your Starlink order",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -289140,8 +289959,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-deal",
     "translationKey": "starlink-black-friday",
     "locale": "en",
-    "title": "Starlink Black Friday 2026: what the Nevada offer costs",
-    "seoTitle": "Starlink Black Friday 2026: 30% off service in select areas",
+    "title": "Starlink Black Friday 2026: $38.50 a month, a $0 rental kit and the $100 referral reward",
+    "seoTitle": "Starlink Black Friday 2026: 30% off, $0 rental kit, $100 referral",
     "type": "Black Friday Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -289152,8 +289971,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "On the order page for Reno, Nevada, Starlink showed $21.65 due today and plans from $38.50 a month. See how the referral reward fits in and how to check your address.",
-    "metaDescription": "In Reno, Starlink showed 30% off service, a $0 rental kit and plans from $38.50 a month. See what the order costs and check your own address.",
+    "description": "In Nevada, Starlink showed 100 Mbps at $38.50 a month with a $0 rental kit. See the US and UK numbers, how the $100 referral fits in and what to check first.",
+    "metaDescription": "Starlink Black Friday: 30% off service, a $0 rental kit and a $100 US referral reward. See the Nevada and UK numbers and check your address.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -289168,55 +289987,135 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "A Reno, Nevada, order showed 30% off service plans, a $0 rental kit and $21.65 due at checkout. Plans started at $38.50 a month. The order shown with our link listed a separate $100 referral reward. Check your address for the offer and confirm the reward rules before paying."
+          "Starlink's Black Friday offer takes 30% off the monthly plan in select areas, with a $0 rental kit that you return if you cancel. In Nevada the 100 Mbps plan was $38.50 a month, with $20 plus taxes due today. The $100 referral reward (£40 in the UK) only counts if you open the order through a referral link before you pay, and it lands after two paid monthly cycles. The offer runs until November 30."
         ]
       },
       {
-        "heading": "What you pay and when the reward lands",
+        "heading": "The numbers: 100 Mbps, 200 Mbps and Max in Nevada and the UK",
         "paragraphs": [
-          "We read the order page for Reno, Nevada, on November 20, 2026, without completing a purchase. It showed $21.65 due today. Residential 100 Mbps was listed at $38.50 a month, with the Starlink V5 and Router Mini included, and Max at $91 a month. The hardware was a rental, $0 upfront and $0 a month.",
-          "The screenshot with our link showed $20 plus taxes due at checkout and a $100 referral offer. Two months at the price displayed for 100 Mbps would be $77. Check your actual bills and any upfront charges before calculating how much of that cost an eligible reward would cover."
+          "We read the order pages on November 23, 2026, without completing a purchase. In Nevada, Residential 100 Mbps was $38.50 a month (regular price $55), 200 Mbps was $59.50 ($85) and Max was $91 ($130), all with a $0 rental kit. The order summary for 100 Mbps showed $20 plus taxes due today, which is the shipping, because the Starlink V5 and Router Mini rental was $349 minus $349.",
+          "In the UK, the order summary showed £40, £60 and £80 a month for 100 Mbps, 200 Mbps and Max, a £0 rental kit, £19 due today and no contracts. Through our link, the referral reward is $100 in the US and £40 in the UK, paid after two monthly cycles. That is more than two and a half months of the Nevada 100 Mbps price, or a full month in the UK. The credit does not reduce the price of the kit."
         ],
         "comparisonTable": {
           "headers": [
-            "Order page, Reno, Nevada",
-            "Amount"
+            "Order page",
+            "Nevada, USA",
+            "United Kingdom"
           ],
           "rows": [
             [
-              "Total due today",
-              "$21.65"
+              "Residential 100 Mbps, per month",
+              "$38.50 (regular $55)",
+              "£40"
             ],
             [
-              "Residential 100 Mbps, per month",
-              "$38.50"
+              "Residential 200 Mbps, per month",
+              "$59.50 (regular $85)",
+              "£60"
             ],
             [
               "Max, per month",
-              "$91"
+              "$91 (regular $130)",
+              "£80"
             ],
             [
-              "Hardware rental, upfront and monthly",
-              "$0 and $0"
+              "Rental kit, upfront and monthly",
+              "$0 and $0",
+              "£0 and £0"
+            ],
+            [
+              "Due today on the 100 Mbps order",
+              "$20 plus taxes",
+              "£19"
             ],
             [
               "Optional professional installation, 100 Mbps",
-              "$99"
+              "$99",
+              "£74"
             ],
             [
-              "Referral reward on the Nevada order with our link, after two monthly cycles",
-              "$100"
+              "Referral reward after two paid cycles",
+              "$100",
+              "£40"
             ]
           ],
-          "caption": "Values as shown on the order page. We did not record how long the promotional price lasts or what the plan costs afterward."
+          "caption": "Order pages read on November 23, 2026. Nevada prices include the 30% promotion that ends November 30. The UK summary showed no discount."
+        },
+        "simulator": {
+          "title": "Quick simulator: the first two bills",
+          "scenarios": [
+            {
+              "label": "US: 100 Mbps with the link",
+              "lines": [
+                {
+                  "label": "Plan with 30% off",
+                  "value": "$38.50 a month"
+                },
+                {
+                  "label": "Rental kit",
+                  "value": "$0 upfront, $0 a month"
+                },
+                {
+                  "label": "Referral reward after two paid cycles",
+                  "value": "-$100 credit",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Due today (shipping)",
+              "totalValue": "$20 plus taxes",
+              "note": "You pay the first bills yourself. The reward arrives as credit on the account."
+            },
+            {
+              "label": "UK: 100 Mbps with the link",
+              "lines": [
+                {
+                  "label": "Plan",
+                  "value": "£40 a month"
+                },
+                {
+                  "label": "Rental kit",
+                  "value": "£0 upfront, £0 a month"
+                },
+                {
+                  "label": "Referral reward after two paid cycles",
+                  "value": "-£40 credit",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Due today (shipping)",
+              "totalValue": "£19",
+              "note": "£19 is due today, and the rental kit goes back if you cancel."
+            },
+            {
+              "label": "Without the link",
+              "lines": [
+                {
+                  "label": "Price of the plan and the kit",
+                  "value": "Same as with the link"
+                },
+                {
+                  "label": "Referral reward",
+                  "value": "$0 or £0"
+                },
+                {
+                  "label": "What you give up",
+                  "value": "$100 or £40",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Reward received",
+              "totalValue": "$0",
+              "note": "A referral only counts when the order starts from a referral link, before you pay."
+            }
+          ]
         },
         "postParagraphs": [
-          "To get the reward, the referral has to be eligible and the service has to stay active and paid up for two full monthly cycles. Starlink offers credit on the invoice and, depending on the account, payment in cash."
+          "The 200 Mbps plan sits in the middle: $59.50 a month in Nevada, with the Starlink V4 and Router 4 on rental and $0 professional installation. Max also comes with free professional installation, while the 100 Mbps plan lists it as an optional $99 extra."
         ],
-        "emphasis": "By the numbers in the table, the order showed $21.65 due today and plans from $38.50 a month, and the $100 referral reward only lands after two full monthly cycles, so the first bills come out of pocket.",
+        "emphasis": "By the numbers in the table, the Nevada order is $20 plus taxes today and $38.50 a month for 100 Mbps, and the $100 reward only lands after two full paid cycles, so the first bills come out of pocket.",
         "links": [
           {
-            "label": "See plans at your address",
+            "label": "Check Black Friday and the $100 reward at my address",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -289232,9 +290131,51 @@ export const reviewsData: unknown[] = [
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
           "alt": "Order screen on the official Starlink site with the message Referral Code Applied, saying that by signing up with this code you and your friend get $100 each, as cash or service credit",
           "caption": "Order on the official site with the referral link applied (Nevada).",
-          "objectFit": "contain",
-          "aspectRatio": 0.8747
+          "aspectRatio": 0.8747,
+          "objectFit": "contain"
         }
+      },
+      {
+        "heading": "Does the offer apply at your address?",
+        "paragraphs": [
+          "The 30% applies in select areas and depends on the address you enter, so two addresses can see different prices on the same day. Put in yours and compare the monthly price, the kit, the installation and the shipping time.",
+          "The Nevada screen below is the 100 Mbps tab: $38.50 a month, the Starlink V5 with a Router Mini at $0 upfront and $0 a month, and the note that you must return the rental if you cancel service."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "alt": "Starlink order page for Nevada with the Residential 100 Mbps tab selected, the monthly price and the rental hardware at zero dollars",
+          "caption": "Order page for Nevada, USA, 100 Mbps tab, read on November 23, 2026.",
+          "aspectRatio": 0.7159,
+          "objectFit": "portrait"
+        }
+      },
+      {
+        "heading": "Rental kit, cancelling and the 30-day test",
+        "paragraphs": [
+          "The kit is a rental, and the order says you must return the hardware if you cancel. The refund terms cover cancelling service and returning the kit undamaged within 30 days of the payment due date, with the kit and the first month refunded. That is why opening the order costs nothing: you see your own price, test the dish on your roof and only then decide to stay.",
+          "After that window there is no contract. The order summary says there is no fixed duration, and Starlink may change prices with 30 days' notice. See the [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+          "alt": "Starlink order summary for Nevada, 100 Mbps: monthly price with the discount, rental kit with a full credit and the total due today",
+          "caption": "Order summary for Nevada, 100 Mbps: $55 minus $16.50, rental kit $349 minus $349, $20 plus taxes today (read on November 23, 2026).",
+          "aspectRatio": 0.3732,
+          "objectFit": "portrait"
+        },
+        "links": [
+          {
+            "label": "Lock in the $100 reward before I place the order",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "After the promotion: how to protect your price",
+        "paragraphs": [
+          "The 30% is for orders placed until November 30. Starlink's FAQ says the monthly price has no fixed duration and that prices can change with 30 days' notice, so the discounted price is not guaranteed for any set number of months. Plan around the regular price if you intend to stay for years.",
+          "Save a screenshot of the order summary with the price, the kit line and the referral notice before you pay, and compare your first invoice with it. If a bill does not match, open a support request from your account and attach the screenshot."
+        ]
       },
       {
         "heading": "What is it worth to refer someone?",
@@ -289244,27 +290185,24 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Does the offer apply at your address?",
+        "heading": "4 mistakes that cost you the reward",
         "paragraphs": [
-          "The 30% applies in select areas and depends on the address you enter. Put in yours and compare the monthly price, the kit, the installation and how long the promotion runs. The order page for Reno said the kit ships within one week."
-        ]
-      },
-      {
-        "heading": "Rental kit, cancelling and the refund",
-        "paragraphs": [
-          "The Nevada order says rented equipment must be returned if you cancel. Its refund terms describe canceling service and returning the kit undamaged within 30 days of the payment due date. See the [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund)."
-        ]
-      },
-      {
-        "heading": "What comes after the promotion?",
-        "paragraphs": [
-          "We did not read the plan price once the promotional period ends. Before you pay, check the order page for how long the 30% runs and what the standard price is."
+          "Even after clicking the link, the reward is lost by small slips:"
+        ],
+        "bullets": [
+          "Buying the kit from a marketplace or a retailer and trying to use the link afterwards. A referral only counts on an order placed on starlink.com through a referral link, before payment.",
+          "Opening the link on your phone and finishing the order hours later on another device without opening the link again. The referral may not follow the order: place it all on one device, or reopen the link and look for the green notice.",
+          "Signing up with a name, email or address that already had a Starlink account. The reward is for new customers.",
+          "Cancelling or paying late before two full monthly cycles are paid. The reward only lands while the service is active and up to date."
+        ],
+        "postParagraphs": [
+          "If you have already paid without the link, the referral cannot be added afterwards."
         ]
       },
       {
         "heading": "How to use the link",
         "paragraphs": [
-          "Open the link and type the address where you will install the dish. Pick the plan, check that the referral shows as applied and save a screenshot of the offer before you pay.",
+          "Opening the link commits you to nothing: prices, availability and the offer only appear after you type your address. Enter the address where you will install the dish, pick the plan, check that the referral shows as applied and save the offer that appears before you pay.",
           "The [Starlink referral page](/en/coupons/starlink) has the link and the program rules."
         ]
       },
@@ -289272,22 +290210,24 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "Does Starlink have a discount code? No. Starlink has no coupon: through Cecília's referral link, a new subscriber gets $100 in the US and £40 in the UK after two months of service, as a credit on the bill, and the person who referred gets the same amount.",
-          "Does Starlink have a Black Friday deal? The order page we read shows 30% off service plans in select areas for those who sign up before the end of the month, with a $0 rental kit.",
-          "Does the referral stack with the offer? The plan offer and the referral are separate lines on the order. The Nevada order with our link showed the $100 referral next to a total due of $20 plus taxes. The reward depends on eligibility and two full monthly cycles.",
-          "How much do you pay when you order? The Reno order page showed $21.65 due today. The first monthly bill follows after that.",
-          "Is the Starlink kit free? The page lists it as a rental with $0 upfront and $0 a month. If you cancel, you have to return it.",
+          "Does Starlink have a Black Friday deal? Yes. The order pages we read show 30% off service plans in select areas for orders until the end of November, with a $0 rental kit. In Nevada that puts 100 Mbps at $38.50 a month.",
+          "Does the referral stack with the offer? Yes. The plan offer and the referral are separate lines on the order, and the Nevada order with our link showed the $100 reward next to $20 plus taxes due today. The reward depends on eligibility and two paid monthly cycles.",
+          "Is there a 200 Mbps plan in the offer? Yes. In Nevada it was $59.50 a month instead of $85, with a $0 rental kit and $0 professional installation.",
+          "Is the Starlink kit free? It is a rental, with $0 upfront and $0 a month, and you have to return it if you cancel.",
+          "Can I try Starlink before committing? Yes. Starlink refunds the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date.",
+          "Can I add the referral after paying? No. It only counts on an order opened through the link, before payment.",
           "How long does the offer run? Starlink advertises it until the end of November. Enter your address on the order page to see whether it is available."
         ]
       }
     ],
     "cta": {
-      "text": "The order opens on the Starlink site. Check the plan price, the kit terms and the referral value before you pay.",
-      "label": "Check the offer at my address",
+      "text": "You pay the same price as on the official order page, keep the 30-day return window if the dish does not work on your roof, and lock in the $100 referral reward (£40 in the UK) after two paid cycles.",
+      "label": "Check my address and lock in the $100",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Prices read on the official order page, without completing a purchase. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "editorialNote": "Prices read on the official order pages on November 23, 2026, without completing a purchase. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
     "relatedArticles": [
       {
         "slug": "starlink-referral-link-how-it-works"
@@ -289303,12 +290243,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "the order for your address shows the plan offer and the kit terms before you pay.",
-        "you can wait two full monthly cycles for the referral reward and pay the bills in between."
+        "the order for your address shows the 30% plan offer and the rental kit terms before you pay.",
+        "you can wait two full paid cycles for the referral reward and pay the bills in between."
       ],
       "skipIf": [
-        "your order page does not show the offer, since the prices we read are for one city.",
-        "you may leave soon and cannot risk returning the kit or losing the promotional price."
+        "your order page does not show the offer, since the prices we read are for the cities we checked.",
+        "you may cancel soon and cannot risk returning the kit or losing the promotional price."
       ]
     }
   },
@@ -289317,8 +290257,8 @@ export const reviewsData: unknown[] = [
     "slug": "is-starlink-worth-it",
     "translationKey": "starlink-vale-a-pena",
     "locale": "en",
-    "title": "Is Starlink worth it? The monthly cost and who it makes sense for",
-    "seoTitle": "Is Starlink worth it? Plan prices and the kit",
+    "title": "Is Starlink worth it? Plan cost, unstable local fiber and backup use",
+    "seoTitle": "Is Starlink worth it? Cost, bad fiber & backup",
     "type": "Buying Guide",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -289329,8 +290269,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Compare the monthly cost of Starlink with the connection that already reaches your home. See the plan prices by address, the rental kit and how to check where the dish can go.",
-    "metaDescription": "Is Starlink worth it? Plan prices by address, the rental kit, who it suits and when fiber or cellular comes out ahead.",
+    "description": "See when Starlink is worth it: rural homes or areas where local fiber drops or slows down. Compare US/UK plans, $0 rental hardware, backup use and sky check.",
+    "metaDescription": "Is Starlink worth it with local fiber nearby? Compare US/UK monthly plans, $0 rental kit, unstable fiber as a reason to switch or add backup internet.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -289345,45 +290285,140 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Starlink can be worth it in rural areas and homes where no stable connection reaches you. If reliable fiber or cable already arrives, compare the total cost before you switch. Add the monthly prices at your address to any installation fee, and use the Starlink app to see where the dish can go."
+          "Yes, Starlink is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. Testing is low-risk: the rental kit costs $0 upfront in the US, and you have 30 days to return it."
         ]
       },
       {
         "heading": "What the plans cost",
         "paragraphs": [
-          "We read the public order page for one address, Reno, Nevada, on November 20, 2026. The hardware was a rental with $0 upfront and $0 a month, and the page shows 30% off service plans in select areas."
+          "On November 23, 2026 we read the public order page for an address in Nevada and, for comparison, one in London. In Nevada, all three residential plans came with rental hardware ($0 upfront, $0 a month), 30% off the service in select areas and about $20 plus taxes due today. The page says the monthly price has no fixed duration and that Starlink may update pricing with 30 days’ notice."
         ],
         "comparisonTable": {
           "headers": [
-            "Plan, Reno, Nevada",
-            "Per month",
-            "Kit"
+            "Plan",
+            "Per month with the offer",
+            "Standard price",
+            "Rental kit",
+            "Professional installation"
           ],
           "rows": [
             [
-              "Residential 100 Mbps",
+              "Nevada, Residential 100 Mbps",
               "$38.50",
-              "$0 rental"
+              "$55",
+              "Starlink V5 + Router Mini, $0",
+              "$99, optional"
             ],
             [
-              "Max",
+              "Nevada, Residential 200 Mbps",
+              "$59.50",
+              "$85",
+              "Starlink V4 + Router 4, $0",
+              "$0"
+            ],
+            [
+              "Nevada, Max",
               "$91",
-              "$0 rental"
+              "$130",
+              "Standard 4 X, $0",
+              "$0"
+            ],
+            [
+              "London, 100 / 200 / Max",
+              "£40 / £60 / £80",
+              "Same, no promotion shown",
+              "Rental kit, £0",
+              "£74 optional on 100 and 200; free on Max"
             ]
           ],
-          "caption": "Monthly price as shown, before taxes, the optional installation and any referral reward. We did not record how long the promotional price lasts."
+          "caption": "Monthly prices as shown on the order pages, before taxes and any referral reward. Nevada’s 30% offer was listed through November 30; the London page showed no promotion."
+        },
+        "simulator": {
+          "title": "Simulator: what each scenario asks for",
+          "scenarios": [
+            {
+              "label": "US 100 Mbps (Nevada)",
+              "lines": [
+                {
+                  "label": "Rental kit: Starlink V5 + Router Mini",
+                  "value": "$0 upfront, $0 a month",
+                  "highlight": true
+                },
+                {
+                  "label": "Monthly price with 30% off",
+                  "value": "$38.50"
+                },
+                {
+                  "label": "Standard monthly price",
+                  "value": "$55"
+                }
+              ],
+              "totalLabel": "Due today (shipping + taxes)",
+              "totalValue": "$20 + taxes",
+              "note": "Return the rental if you cancel. You have 30 days to try it."
+            },
+            {
+              "label": "US Max (Nevada)",
+              "lines": [
+                {
+                  "label": "Rental kit: Standard 4 X",
+                  "value": "$0 upfront, $0 a month"
+                },
+                {
+                  "label": "Monthly price with 30% off",
+                  "value": "$91"
+                },
+                {
+                  "label": "Professional installation",
+                  "value": "$0",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Due today (shipping + taxes)",
+              "totalValue": "$20 + taxes",
+              "note": "The standard price after the offer is $130 a month, with no fixed duration."
+            },
+            {
+              "label": "UK 100 Mbps (London)",
+              "lines": [
+                {
+                  "label": "Rental kit: Mini Rental + Router Mini",
+                  "value": "£0",
+                  "highlight": true
+                },
+                {
+                  "label": "Monthly price",
+                  "value": "£40"
+                },
+                {
+                  "label": "Optional professional installation",
+                  "value": "£74"
+                }
+              ],
+              "totalLabel": "Due today (shipping)",
+              "totalValue": "£19",
+              "note": "No contracts. Return the kit if you cancel."
+            }
+          ]
         },
         "postParagraphs": [
-          "Residential 100 Mbps included the Starlink V5 with the Router Mini. Max came with the Standard rental kit and $0 professional installation. For 100 Mbps, professional installation was optional, at $99. Prices change with the address you enter, so make this calculation on your own order page.",
-          "Work out the cost before the reward. In the Nevada screenshot with our link, the order displayed a $100 referral offer subject to eligibility. See the [Starlink referral page](/en/coupons/starlink)."
+          "The 200 Mbps plan is the one many comparisons skip. At $59.50 in Nevada it includes professional installation at $0, while the optional installation on 100 Mbps costs $99. The promotional price has no stated duration, so do not multiply it by 12 without checking your own order.",
+          "Work out the cost before any reward. Through our referral link, Starlink gives US$ 100 in the US and £ 40 in the UK after two months of subscription, as credit on the bill. See the [Starlink referral page](/en/coupons/starlink)."
         ],
         "links": [
           {
-            "label": "See plans at your address",
+            "label": "Simulate plan and kit for my address",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "alt": "Starlink residential order screen for Nevada showing the 100 Mbps, 200 Mbps and Max tabs and $0 hardware rental",
+          "caption": "Official order screen in Nevada, checked on November 23, 2026: 100 Mbps at $38.50 a month and a $0 rental kit.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7159
+        }
       },
       {
         "heading": "Where to put the dish",
@@ -289405,12 +290440,38 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "When to compare with fiber or cellular",
+        "heading": "Beyond monthly price: unstable fiber, regional outages and backup use",
         "paragraphs": [
-          "If stable fiber or cable already reaches you, compare the installation, the monthly bills and any equipment fee of each offer. For a cellular home plan, add the price of the device you would need and check that the data allowance fits your household."
+          "Comparing only the monthly bill falls short when the cheap fixed line at your address drops every week or delivers a fraction of the speed you pay for. Regional providers and congested networks often suffer from cut cables, unannounced maintenance and evening slowdowns. If you work from home, take video calls or rely on cameras and smart-home gear, that matters more than a few dollars a month.",
+          "In our own case, we subscribed to Starlink as an alternative and backup to unstable fiber. Because the signal comes from satellites, it does not depend on the cables in your street or on the same provider, so it can replace a problematic fiber line or act as a reserve route when the fiber fails.",
+          "Testing carries little risk: the hardware is a rental at $0 upfront in the US and £0 in the UK, the pages we read show no contract, and you have 30 days to return it. You measure real stability on your own roof and keep the subscription only if it fixes the problem. If you are weighing home 4G or 5G as a backup instead, add the router and check the data allowance."
         ],
-        "emphasis": "With no stable fiber or decent cellular signal at the address, Starlink belongs in the comparison; with stable fiber already there, switching only pays off if the kit and the monthly bills over the months you plan to stay add up to less than the current connection costs.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "If your fiber or cable is genuinely stable and delivers its contracted speed, switching purely on monthly price rarely pays off; when local providers suffer frequent dropouts or severe slowdowns, Starlink earns its value through reliability and independence as a primary or backup line.",
+        "emphasisAfterParagraph": 3,
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Official Starlink dish and router that can serve as a primary or backup connection",
+          "caption": "Official Starlink dish and router, independent of the local provider’s wiring. Photo from Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "How to use Starlink alongside unreliable fiber",
+        "paragraphs": [
+          "This part is general guidance, not an account of our own setup. There are two ways to run Starlink next to unstable fiber, from the simplest to the automatic one.",
+          "Level 1, no extra cost: keep the Starlink Wi-Fi as a second network and switch your phone or laptop to it when the fiber drops in the middle of a meeting. The switch is manual and takes seconds, but you have to notice the outage and act.",
+          "Level 2, automatic: use a router with Dual-WAN (or multi-WAN) and failover. The fiber goes into one WAN port, Starlink into the other, and the router moves traffic to Starlink when it detects that the fiber is down. For that, Starlink is usually connected to your own router through the bypass mode in the app, which lets your router run the network. Check Starlink support for what your model needs, because some kits require an Ethernet adapter.",
+          "During an automatic switch, calls in progress and VPNs may reconnect for a few seconds, because your outgoing address changes. Test the failover before you rely on it: unplug the fiber for a few minutes and see whether calls, cameras and remote work come back on their own."
+        ]
+      },
+      {
+        "heading": "Heavy rain, wind and power cuts",
+        "paragraphs": [
+          "Older satellite internet, from high orbit, has a delay of hundreds of milliseconds, which hurts calls and games. Starlink uses low-orbit satellites and publishes a typical range of 25 to 60 ms on land, a company reference with no measurement at our address.",
+          "Very heavy rain, snow and storms can lower performance for a while, and wind calls for a firmly mounted dish. Compare that with fiber: a cable cut in the street can take the provider a long time to repair, and Starlink does not depend on it.",
+          "A power cut is another point: the Starlink dish and router need electricity, and so does fiber equipment. A UPS or a portable power station sized for the consumption Starlink lists in its specifications keeps the connection up through short outages. If power fails across the whole neighborhood, the street network can go down too, so test the setup before relying on it."
+        ]
       },
       {
         "heading": "Speed and gaming",
@@ -289428,7 +290489,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Rental kit and leaving",
         "paragraphs": [
-          "The kit on the order page is a rental, and you have to return it if you cancel. The [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund) covers the return rules and the 30-day refund."
+          "The kit on the order pages we read is a rental, and you have to return it if you cancel. The US page says there is no fixed duration and that prices can change with 30 days’ notice; the UK page says no contracts. In both, the 30-day window lets you cancel and return the kit.",
+          "Opening the order costs nothing: prices, discounts and availability only appear once you enter your address on starlink.com. The referral only counts when the order is placed through a referral link, before you pay, on starlink.com, and not on a marketplace. The [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund) covers the return rules."
+        ],
+        "links": [
+          {
+            "label": "Test it at my address with 30 days to return",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -289441,34 +290510,36 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "Does Starlink have a discount coupon? No. Starlink has no coupon: through Cecília's referral link, the person who subscribes gets US$ 100 in the US (£ 40 in the UK) after two months of subscription, as credit on the bill, and the person who referred gets the same amount.",
-          "Is Starlink worth it in a city? With stable fiber at your address, compare installation, monthly bills and any equipment fee before you switch.",
-          "Is Starlink better than fiber? Without good fiber at your location, it is worth pricing Starlink and checking for open sky to mount the dish. If both are available, compare stability and cost at your address.",
+          "Is Starlink worth it in a city? It depends on how good your current fiber really is. If it is cheap and stable, it tends to win on cost. If it drops often or delivers far below what you pay for, Starlink can be worth it as an alternative or backup, as long as you have open sky. That was our case.",
+          "Is Starlink better than fiber? On peak speed and latency, healthy fiber usually has the edge. On continuity against local outages and cables cut in the street, Starlink helps because it is a route independent of the local provider.",
           "Is Starlink good for gaming? Test the latency and the interruptions at your own address. The typical range Starlink publishes is a general reference.",
-          "Do I have to buy the Starlink kit? On the Reno order page the hardware was a rental with $0 upfront and $0 a month, and you return it if you cancel.",
-          "How much does Starlink cost per month? On the Reno order page, Residential 100 Mbps was $38.50 and Max was $91 a month. The price changes with the address."
+          "Is Starlink unlimited? Starlink advertises unlimited data on residential plans. Check the speed limits of the plan shown on your order.",
+          "How much does Starlink cost per month? In Nevada, Residential 100 Mbps was $38.50, 200 Mbps was $59.50 and Max was $91 a month with the offer; the standard prices are $55, $85 and $130. In London they were £40, £60 and £80. The price changes with the address.",
+          "Can I use Starlink as a backup for my fiber? Yes. With a Dual-WAN router with failover, Starlink takes over when the fiber drops; without one, you can switch networks by hand. Check Starlink support for what your model needs for bypass mode."
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "no stable fiber or cable reaches your address and cellular home internet is weak there.",
-        "you are fine with a rental kit that goes back if you cancel, and you will check the price on your own order page."
+        "even where cheap fiber is available, your local network drops often or delivers far below the contracted speed, and you need a reliable alternative or backup connection.",
+        "you checked the view of the sky in the Starlink app and are fine with a rental kit that goes back if you cancel."
       ],
       "skipIf": [
-        "stable fiber or cable already reaches you, so Starlink would only add a second bill.",
-        "you depend on online gaming with fast response, and the company does not promise a latency figure for your address."
+        "you already have genuinely stable fiber or cable that delivers its contracted speed, without frequent outages that call for redundancy.",
+        "you depend on competitive online gaming with guaranteed minimum latency: Starlink publishes a typical response range but does not promise a figure for your address."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter your address on the Starlink site and check the plan, the kit and the monthly price before you pay.",
-      "label": "See plans at my address",
+      "text": "You pay the same price as on the official site, keep the 30 days to return the kit if it does not work on your roof, and get US$ 100 in the US (£ 40 in the UK) as credit on your bill after two months of subscription, once the rules are met.",
+      "label": "See my address on starlink.com with the referral",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Prices read on the official order page, without completing a purchase. We have not used the service yet. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "editorialNote": "We subscribed to Starlink ourselves as an alternative and backup to our unstable fiber. Plan prices and hardware terms in this guide were read directly from the official public order pages for the reference addresses. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
     "relatedArticles": [
       {
         "slug": "starlink-contract-cancel-refund"
@@ -289486,8 +290557,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-contract-cancel-refund",
     "translationKey": "starlink-fidelidade",
     "locale": "en",
-    "title": "Does Starlink have a contract? The rental kit, how to cancel and the 30-day refund",
-    "seoTitle": "Does Starlink have a contract? Cancel and refund",
+    "title": "Does Starlink have a contract? A $0 rental kit, no fixed term in the US and UK, and the 30-day refund",
+    "seoTitle": "Does Starlink have a contract? Rental, cancel, refund",
     "type": "Practical Guide",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -289498,8 +290569,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "See how the Starlink kit is offered as a rental, what you must return when you cancel, how to cancel from your account and how the 30-day refund works.",
-    "metaDescription": "Starlink offers the kit as a rental you return if you cancel. See the 30-day refund, how to cancel in your account and what changes afterward.",
+    "description": "In Nevada and London the Starlink kit is a $0 rental with no contract, and you return it if you cancel. See the three plans, the 30-day refund and how to cancel.",
+    "metaDescription": "Starlink in the US and UK: no contract, a $0 rental kit you return if you cancel, a 30-day refund and the steps to cancel from your account.",
     "publishedAt": "November 20, 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -289514,22 +290585,116 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "On the order page we read for Reno, Nevada, the Starlink kit was a rental with $0 upfront and $0 a month, and the page says you have to return it if you cancel the service. The offer describes a refund of the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date, as stated on that order."
+          "On the order pages we read for Nevada and London, Starlink had no contract: the kit is a rental at $0 upfront and $0 a month (£0 in the UK), and you return it if you cancel. The monthly prices shown are promotional and have no fixed duration, and Starlink may update pricing with 30 days' notice. If you cancel and return the kit undamaged within 30 days of the payment due date, the offer refunds the kit and the first month. It is not the same everywhere: in Brazil and Mexico, a subsidised kit can come with a 12-month term."
         ]
       },
       {
-        "heading": "Rental kit, not a purchase",
+        "heading": "United States: three plans, one rental model",
         "paragraphs": [
-          "On the order page we read on November 20, 2026, the hardware was listed as a rental, with $0 upfront and $0 a month. The page states that if you cancel the service, you will have to return your Starlink hardware rental.",
-          "We did not see an early cancellation fee on the page we read. Check the summary of your own order before you pay, since the terms can change with the plan and the address."
+          "On the Nevada order page we read on November 23, 2026, Residential 100 Mbps was $38.50 a month: the regular $55 a month minus a $16.50 promotional adjustment of 30%. It comes with a Starlink V5 and a Router Mini as a rental. The $349 rental kit is credited back at checkout, so the hardware is $0 upfront and $0 a month. Professional installation is optional at $99.",
+          "Residential 200 Mbps was $59.50 a month (regular $85, minus $25.50), with a Starlink V4 and a Router 4 as a rental and free professional installation. Max was $91 a month (regular $130, minus $39), with a Standard 4 X and an extra Router Mini as a rental, also with free installation. On all three, $20 plus taxes was due today for shipping.",
+          "The page is explicit about the exit: if you cancel service, you will have to return your Starlink hardware rental. We did not see an early cancellation fee, and the FAQ on the order summary says the stated monthly price does not have a fixed duration and that Starlink may update pricing with 30 days' notice."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+            "alt": "Starlink order page for Nevada, USA, on the 100 Mbps tab: $38.50 a month, a Starlink V5 with a Router Mini and the note about returning the hardware rental",
+            "caption": "Nevada, USA, checked November 23, 2026: Residential 100 Mbps at $38.50 a month and a hardware rental at $0 upfront and $0 a month.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.7159
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+            "alt": "Starlink order summary in the US for 100 Mbps with $55 minus $16.50, a $349 rental kit credited back and $20 plus taxes due today",
+            "caption": "Order summary for 100 Mbps in the US, checked November 23, 2026: $55 a month minus $16.50, Rental Kit $349 credited back, $20 plus taxes today.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.3732
+          }
         ]
+      },
+      {
+        "heading": "United Kingdom: no contracts, same rental idea",
+        "paragraphs": [
+          "For an address in Westminster, London, the page said \"No contracts\". Residential 100 Mbps was £40 a month with a Mini Rental and a Router Mini at £0, 200 Mbps was £60 and Max was £80, both with a Standard 4 at £0. We saw no promotional discount in the UK order summary. Shipping was £19, and professional installation is optional at £74 on 100 and 200 Mbps and free on Max. As in the US, you return the rented hardware if you cancel."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-uk-order-summary-100mbps.webp",
+          "alt": "Starlink order summary in the UK for 100 Mbps at £40 a month with the Mini Rental and Router Mini at £0 and £19 due today",
+          "caption": "London, UK, checked 23 November 2026: £40 a month, Mini Rental £0, Router Mini £0 and £19 due today.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.6543
+        },
+        "links": [
+          {
+            "label": "Check the plans and the contract at my address",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "The two markets side by side",
+        "paragraphs": [
+          "The table puts together what each page showed. It is a snapshot of one address in each country, not a rule for the whole country."
+        ],
+        "comparisonTable": {
+          "caption": "Values as shown on each order page. The 30% promotion in the US ran through the end of November.",
+          "headers": [
+            "What the page showed",
+            "United States (Nevada)",
+            "United Kingdom (London)"
+          ],
+          "rows": [
+            [
+              "Contract",
+              "No fixed term; the kit is a rental you return if you cancel",
+              "\"No contracts\"; the kit is a rental you return if you cancel"
+            ],
+            [
+              "100 Mbps per month",
+              "$38.50 ($55 regular)",
+              "£40"
+            ],
+            [
+              "200 Mbps per month",
+              "$59.50 ($85 regular)",
+              "£60"
+            ],
+            [
+              "Max per month",
+              "$91 ($130 regular)",
+              "£80"
+            ],
+            [
+              "Kit",
+              "$0 upfront and $0 a month",
+              "£0 upfront and £0 a month"
+            ],
+            [
+              "Shipping today",
+              "$20 plus taxes",
+              "£19"
+            ],
+            [
+              "Professional installation",
+              "$99 optional on 100 Mbps, free on 200 Mbps and Max",
+              "£74 optional on 100 and 200 Mbps, free on Max"
+            ],
+            [
+              "Referral credit after two months of service",
+              "$100",
+              "£40"
+            ]
+          ]
+        }
       },
       {
         "heading": "The 30 days to return it",
         "paragraphs": [
           "To ask for the refund of the kit and the first month under the offer, cancel the service and return the equipment undamaged within 30 days of the payment due date shown on that order.",
           "Cancelling the subscription stops future charges according to the billing cycle. Through Starlink support, check how to open the kit return too, and keep the shipping receipt.",
-          "The [Starlink referral](/en/coupons/starlink) link opens the same order on the official site. Check the rental and return terms on your own order summary before you pay."
+          "The [Starlink referral](/en/coupons/starlink) link opens the same order on the official site. Check the rental and return terms on your own order summary before you pay.",
+          "A rental is not universal. In some countries, such as Brazil and Mexico, the kit is bought, and a subsidised kit can come with a 12-month term and an early termination fee after the 30 days. That is why the order summary for your own address is the one that counts."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
@@ -289538,7 +290703,14 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
-        "emphasis": "By the terms on the order page, cancelling and returning the kit undamaged within 30 days of the payment due date is what triggers the refund of the kit and the first month, so the shipping receipt is the proof that decides it."
+        "emphasis": "By the terms on the order page, cancelling and returning the kit undamaged within 30 days of the payment due date is what triggers the refund of the kit and the first month, so the shipping receipt is the proof that decides it.",
+        "links": [
+          {
+            "label": "See plans with the 30-day refund on starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "How to cancel",
@@ -289560,6 +290732,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Promotional price and plan changes",
+        "paragraphs": [
+          "The prices on the order pages were 30% off the regular monthly price in the places we checked, offered through the end of November. The page says the stated monthly price does not have a fixed duration and that Starlink may update pricing with 30 days' notice. Cancelling or changing plan can also end a promotional price, so read the terms on your order before you change anything."
+        ]
+      },
+      {
+        "heading": "Before you pay: check your order",
+        "paragraphs": [
+          "The referral only counts if the order starts from a referral link, opened before you pay and on starlink.com. After the payment, or on a marketplace, it cannot be added. Opening the link commits you to nothing: your address shows which model applies to you, and the 30 days cover the test. The referral credit is $100 in the US and £40 in the UK, lands on your bill after two months of service and does not lower the price of the kit."
+        ],
+        "checklist": {
+          "title": "Before you pay",
+          "items": [
+            "I opened the order from the referral link, in the same window, before paying.",
+            "I checked that the browser bar still shows starlink.com before typing any data.",
+            "I ran the obstruction check in the Starlink app at the spot where the dish will go.",
+            "I read the order summary for the hardware line, the monthly price and any mention of a contract term.",
+            "I saved a screenshot of the summary with the monthly price and the 30-day rule before paying."
+          ]
+        }
+      },
+      {
         "heading": "If the charges continue",
         "paragraphs": [
           "If you are still charged, open a ticket with Starlink and include the order number, the cancellation date and the case number, if you have one. If you do not recognize a transaction, contact your card issuer or bank as well.",
@@ -289570,10 +290764,11 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "Does Starlink have a discount code? No. Starlink has no coupon: through Cecília's referral link, a new subscriber gets $100 in the US and £40 in the UK after two months of service, as a credit on the bill, and the person who referred gets the same amount.",
-          "Does Starlink have a contract? On the order page we read, the kit was a rental with $0 upfront and $0 a month. Confirm the terms on the summary of your own order.",
-          "What is the fee to cancel Starlink? We did not see an early cancellation fee on the page we read. Check the summary of your order before you confirm the cancellation.",
+          "Does Starlink have a contract? On the pages we read in Nevada and London, no: the kit was a rental at $0 upfront and $0 a month, and the UK page said \"No contracts\". In Brazil and Mexico, a subsidised kit can carry a 12-month term. Confirm the terms on the summary of your own order.",
+          "What is the fee to cancel Starlink? We did not see an early cancellation fee on the US and UK pages. You do have to return the rented hardware if you cancel. Check the summary of your order before you confirm.",
           "Can I cancel Starlink at any time? You can request it from your account. Cancelling stops future charges, and you have to return the rented hardware.",
-          "Do I have to send the Starlink kit back? The page says that if you cancel the service, you will have to return your Starlink hardware rental.",
+          "Do I have to send the Starlink kit back? Yes. The page says that if you cancel service, you will have to return your Starlink hardware rental.",
+          "Is the monthly price fixed? No. The FAQ on the order summary says the stated monthly price does not have a fixed duration and that Starlink may update pricing with 30 days' notice.",
           "Can I return Starlink within 30 days? The offer describes a refund of the kit and the first month if you cancel and return the kit undamaged within 30 days of the payment due date, as stated on that order."
         ]
       }
@@ -289595,7 +290790,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "you can return the rented kit undamaged within 30 days if you cancel.",
+        "you can return the rented kit undamaged within 30 days if you cancel, and you want no fixed term.",
         "you will read the terms on your own order summary before paying."
       ],
       "skipIf": [
@@ -289604,8 +290799,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "The order opens on the Starlink site. Check the contract, the fees and the kit return before you pay.",
-      "label": "Check the terms at my address",
+      "text": "The order opens on starlink.com through the referral link, which has to come before you pay. You pay the same price as on the site, see the contract for your own address and keep the 30 days to send the kit back. The referral credit is $100 in the US and £40 in the UK, after two months of service.",
+      "label": "Check the contract and plan at my address",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -289643,7 +290838,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Starlink is the satellite internet service from SpaceX, and its official site is starlink.com. On Trustpilot, the profile that points to starlink.com is “Starlink Development”. If you buy the kit anywhere else, check Starlink's list of authorized retailers and see who the seller behind the listing is before you pay."
+          "Yes, Starlink is legit: it is SpaceX's official satellite internet service, and it sells directly on starlink.com. We subscribed to Starlink ourselves as an alternative to unstable local fiber. The risk is look-alike sites and unverified listings, not the company: on Trustpilot, the profile that points to starlink.com is “Starlink Development”, and if you buy the kit elsewhere, check the seller against Starlink's list of authorized retailers before you pay."
         ]
       },
       {
@@ -289664,7 +290859,22 @@ export const reviewsData: unknown[] = [
         "heading": "How to recognize the official site",
         "paragraphs": [
           "Type starlink.com into your browser. Before you enter any details or pay, check that you are still on starlink.com.",
-          "Check plan, kit (rent or buy), tax and contract term in the order for your own address. If anyone asks you to pay by message or outside the order page, confirm with Starlink support before you go on."
+          "Check plan, kit (rent or buy), tax and contract term in the order for your own address. If anyone asks you to pay by message or outside the order page, confirm with Starlink support before you go on.",
+          "One simple way to avoid a wrong address is to open the order through a referral link: it goes straight to the order on starlink.com, and you still check the address bar before typing any details. The price is the same as on the official site, and the referral only counts if the order starts from a referral link, before you pay."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "alt": "Official Starlink residential order screen on starlink.com for Nevada, US",
+          "caption": "Official order screen on starlink.com for a Nevada address, checked on November 23, 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7159
+        },
+        "links": [
+          {
+            "label": "Open the official starlink.com order with the referral applied",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -289690,7 +290900,14 @@ export const reviewsData: unknown[] = [
             "label": "Starlink list of authorized retailers",
             "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Parts of a Starlink kit on a dark background: base, bracket and cables",
+          "caption": "Parts of a Starlink kit. Photo from Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "What Trustpilot shows",
@@ -289698,6 +290915,29 @@ export const reviewsData: unknown[] = [
           "On Trustpilot, the starlink.com profile has a TrustScore of 1.6 out of 5 from 879 reviews: 71% are 1-star and 17% are 5-star. The profile is unclaimed, so Starlink has not taken it over, and it has replied to 0% of the reviews.",
           "We read the 40 most recent 1-star and the 40 most recent 5-star reviews. In the 1-star ones, the most common complaints are support that is only a bot or chat (about 1 in 3), dropouts and slow speeds (about 1 in 3), a monthly price that rose after signing up (about 1 in 4), billing and hard cancellations (about 1 in 4), installers from partner companies who are late or do not show (about 1 in 4) and a late or missing kit (about 1 in 5). The 5-star ones praise speed and stability (about half), easy setup (about 1 in 3) and having no other good internet option (about 1 in 4). The counts are ours and approximate.",
           "Read the score with care: an unclaimed profile sends no invitations after a purchase, and people who open one are often there to complain. Praise is about the signal, complaints are about support, price and billing, and few 1-star reviews say the signal is bad all the time. Trustpilot's automatic summary, based on 355 recent reviews, points the same way. Our [full reading of the Trustpilot profile](/en/reviews/starlink-trustpilot-reviews) has the numbers."
+        ]
+      },
+      {
+        "heading": "Checklist before you pay",
+        "paragraphs": [
+          "Five quick checks work for any address and take a few minutes."
+        ],
+        "checklist": {
+          "title": "Before you place the order",
+          "items": [
+            "I opened the order through the referral link, in the same browser window, so the referral counts.",
+            "I checked that the address bar stays on starlink.com before typing any details.",
+            "I ran the Starlink app's obstruction check at the spot planned for the dish, to confirm an open sky.",
+            "I read the plan, the kit, the total and the contract term on the order summary.",
+            "I saved a screenshot of the summary with the monthly price and the 30-day rule before paying."
+          ]
+        },
+        "links": [
+          {
+            "label": "Check availability at my address on starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -289715,7 +290955,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "Does Starlink have a coupon? No. Starlink has no coupon code: through Cecília's referral link, a new subscriber gets US$ 100 in the US (£ 40 in the UK) after two months of service, as a credit on the bill, and the person who referred gets the same amount.",
-          "Is Starlink legit? Starlink is the satellite internet service from SpaceX. Check that you are on starlink.com, and use the list of authorized retailers if you buy elsewhere.",
+          "Is Starlink legit? Yes, Starlink is SpaceX's official satellite internet service. To buy safely, check that you are on starlink.com, or verify the seller on Starlink's list of authorized retailers before you pay.",
           "What is the official Starlink website? The official site is starlink.com.",
           "How do I confirm that a seller is authorized? See the Starlink list of authorized retailers and check who the seller of the listing is before you pay.",
           "Should I buy on the official site or from a retailer? On starlink.com the order shows plan, kit, tax and contract for your address before you pay, and the referral only works there. A retailer on the official list is a legitimate seller, but the referral does not apply."
@@ -289725,7 +290965,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Based on the official site, the help center and the public Trustpilot profile. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+    "editorialNote": "Based on the official site, the help center and the public Trustpilot profile. We subscribed to Starlink ourselves as an alternative and backup to unstable local fiber. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-reviews"
@@ -289748,8 +290988,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Enter your address on the Starlink site and check plan, kit and monthly price before you pay.",
-      "label": "See plans for your address",
+      "text": "Open the order through the referral link, check that the address bar stays on starlink.com and see plan, kit and total for your address before you pay. The price is the same as on the official site.",
+      "label": "See my address on starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -289843,6 +291083,36 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "Trustpilot, starlink.com profile, read on November 23, 2026."
+        },
+        "metrics": {
+          "items": [
+            {
+              "label": "TrustScore",
+              "value": "1.6",
+              "unit": "/5",
+              "note": "Unclaimed profile"
+            },
+            {
+              "label": "Total reviews",
+              "value": "879",
+              "note": "Organic only"
+            },
+            {
+              "label": "Company replies",
+              "value": "0%",
+              "note": "0 of 464 negative"
+            },
+            {
+              "label": "1-star vs 5-star",
+              "value": "71%",
+              "unit": "vs 17%",
+              "note": "Support and billing lead"
+            }
+          ],
+          "summary": {
+            "badge": "Reading the gap",
+            "text": "Praise focuses on speed and signal stability; complaints concentrate on automated support, billing and price changes."
+          }
         }
       },
       {
@@ -289892,15 +291162,32 @@ export const reviewsData: unknown[] = [
         "heading": "What this means if you subscribe",
         "paragraphs": [
           "Before you pay, check the plan, the kit (rental or purchase), the tax and the contract on starlink.com for your own address: they change by country and even by address. Save a screenshot of the offer from the day you ordered and compare each invoice with it.",
+          "The simplest protection is to order directly on starlink.com and save the order summary screen, with the price, the kit, the contract terms and the referral applied. Then compare your first invoice with that screenshot. A referral only counts on an order opened through a referral link, before you pay, and it cannot be added afterwards.",
           "The rental kit and return rules are in the [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund)."
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "Starlink dish attached to the roof of a wooden house",
-          "caption": "Residential dish installed. Photo from Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
-        }
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+            "alt": "Starlink plans screen for Nevada, United States: Residential 100 Mbps at $38.50 a month, with the V5 dish and Router Mini at $0 as a rental",
+            "caption": "Nevada, 100 Mbps plan: monthly price, the $0 rental kit and the note to return the rented hardware. The kind of screen worth saving. Read on November 23, 2026.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.7159
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "Starlink dish attached to the roof of a wooden house",
+            "caption": "Residential dish installed. Photo from Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ],
+        "links": [
+          {
+            "label": "Open the official order on starlink.com and check my area",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "How to raise a problem",
@@ -289912,15 +291199,32 @@ export const reviewsData: unknown[] = [
             "label": "Starlink profile on Trustpilot",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "Starlink Standard kit parts: dish, router, stand and cables",
+            "caption": "Starlink Standard kit: dish, router, stand and cables. Photo from Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "Before you subscribe",
         "paragraphs": [
           "Before you subscribe, check the site and the terms. How to recognize the official site and the look-alike profiles is in [is Starlink legit?](/en/reviews/is-starlink-legit).",
+          "Opening the order commits you to nothing: plan, price, availability and contract terms only show after you enter your address. Starlink’s 30-day policy describes a refund if you cancel and return the kit undamaged within that window, as stated on your order; on a subsidized kit with a contract, check whether a fee applies after the 30 days.",
           "The [Starlink referral](/en/coupons/starlink) page has the link and the program rules. A referral is not a coupon: the reward arrives as a bill credit after two months of subscription, and the Priority, Enterprise and Commercial plans do not earn it."
         ],
-        "emphasis": "On the numbers in the table, for anyone who has no good internet option at their address, subscribing is reasonable once plan, kit, tax and contract are checked on starlink.com for that address, because the 1.6 reflects support, billing and price complaints more than signal quality."
+        "emphasis": "On the numbers in the table, for anyone who has no good internet option at their address, subscribing is reasonable once plan, kit, tax and contract are checked on starlink.com for that address, because the 1.6 reflects support, billing and price complaints more than signal quality.",
+        "links": [
+          {
+            "label": "Check availability at my address on starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Frequently asked questions",
@@ -289959,8 +291263,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Enter your address on the Starlink site and check plan, kit and monthly price before paying.",
-      "label": "See plans for your address",
+      "text": "Open the order through the referral link, check plan, kit and contract for your address and save the summary screen before paying. The price is the one on the official site.",
+      "label": "Open my order on starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -289970,8 +291274,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-enlace-referido-como-funciona",
     "translationKey": "starlink-indicacao",
     "locale": "es",
-    "title": "Enlace de referido de Starlink: cómo usarlo y cuándo llega la recompensa",
-    "seoTitle": "Referido Starlink: cómo usar el enlace y cobrar",
+    "title": "Cómo ganar 45 € en España (o el importe de tu país) al comprar tu primer Starlink con el enlace de referido",
+    "seoTitle": "Cómo ganar 45 € al comprar tu primer Starlink",
     "type": "Guía del código de referido",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -289982,8 +291286,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Abre el enlace en el sitio oficial y comprueba la recompensa en el pedido antes de pagar. Mira quién puede usarlo, cuándo llega la recompensa y cómo elegir entre crédito y dinero.",
-    "metaDescription": "Mira cómo abrir el enlace de referido de Starlink, ver el valor en el pedido y recibir la recompensa tras cumplir las condiciones del programa.",
+    "description": "Starlink no tiene código de cupón: pide tu primer kit con el enlace oficial de referido, paga el mismo precio de la web y recibe 45 € en España tras dos meses.",
+    "metaDescription": "Cómo conseguir 45 € en España al contratar tu primer Starlink con el enlace de referido, cuánto cubre y cómo activarlo antes de pagar.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -289998,8 +291302,132 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Abre el enlace de referido de Starlink, introduce tu dirección y, antes de pagar, comprueba que el pedido muestra el referido aplicado y el valor de la recompensa. El programa es para clientes nuevos. La recompensa llega tras dos ciclos mensuales completos, en crédito de servicio o en dinero cuando tu cuenta ofrezca esa opción."
+          "Starlink no tiene códigos promocionales para escribir en la cesta: además de las ofertas de su web, la vía oficial para conseguir una recompensa en tu primera suscripción es pedir con un enlace de referido. En España recibes 45 € (en otros países, el importe en tu moneda aparece en el pedido), pagando lo mismo que en starlink.com y manteniendo los 30 días de prueba. Con el plan de 100 Mbps de Madrid (24,50 €/mes con la promoción), 45 € cubren casi dos mensualidades. Abre el enlace antes de pedir, comprueba en pantalla el aviso de referido aplicado, activa el kit y mantén dos ciclos mensuales pagados. Si completas la compra sin el enlace, no se puede añadir después."
         ]
+      },
+      {
+        "heading": "Por qué merece la pena pedir con el enlace",
+        "paragraphs": [
+          "Si entras en starlink.com por tu cuenta, el equipo y la mensualidad cuestan lo mismo que con el enlace. La diferencia son los 45 € que dejarías sin cobrar. El crédito no baja el precio del kit el día del pedido: llega a tu factura después de dos ciclos mensuales completos y pagados.",
+          "Las cifras de abajo salen de direcciones de referencia. En tu dirección, el precio, el kit y las condiciones pueden ser otros, y solo el pedido los muestra."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "alt": "Página de pedido de Starlink para Madrid con el plan Residencial de 100 Mbps a 24,50 € al mes, 0 € de hardware y el aviso de devolver el kit alquilado",
+          "caption": "Madrid: pestañas de planes del pedido, consulta del 23 de noviembre de 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.622
+        },
+        "comparisonTable": {
+          "caption": "Precios leídos en starlink.com el 23 de noviembre de 2026, sin completar ninguna compra. Incluyen la promoción del 30 %; Starlink indica que el precio mensual no tiene duración fija y puede cambiar con 30 días de aviso. El crédito no es un descuento al pagar: llega tras dos ciclos completos.",
+          "headers": [
+            "Escenario leído en starlink.com",
+            "Sin enlace de referido",
+            "Con el enlace de Cecília",
+            "Qué cubre el crédito"
+          ],
+          "rows": [
+            [
+              "España, Residencial 100 Mbps (Madrid)",
+              "24,50 €/mes (35 € sin promoción), 0 € de alquiler, 19 € hoy",
+              "Mismo pedido + 45 € de crédito tras 2 ciclos pagados",
+              "Casi 2 meses del plan de 100 Mbps y más del doble del envío"
+            ],
+            [
+              "España, Residencial 200 Mbps (Madrid)",
+              "31,50 €/mes (45 €), 0 € de alquiler",
+              "Mismo pedido + 45 € de crédito",
+              "Más de 1 mes del plan de 200 Mbps"
+            ],
+            [
+              "España, Residencial Máx. (Madrid)",
+              "45,50 €/mes (65 €), 0 € de alquiler",
+              "Mismo pedido + 45 € de crédito",
+              "Casi 1 mes del plan Máx."
+            ],
+            [
+              "México (CDMX), Residencial Max",
+              "Solo compra: Standard 4 X con plazo de 12 meses, en pesos mexicanos",
+              "El importe del referido aparece en el pedido, en tu moneda",
+              "Se comprueba en pantalla antes de pagar"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Abrir mi pedido con el bono de 45 €",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "simulator": {
+          "title": "Prueba tu escenario",
+          "scenarios": [
+            {
+              "label": "Madrid 100 Mbps + enlace",
+              "lines": [
+                {
+                  "label": "Alquiler del kit Mini X",
+                  "value": "0 €, se devuelve si cancelas"
+                },
+                {
+                  "label": "Mensualidad con la promoción",
+                  "value": "24,50 €/mes"
+                },
+                {
+                  "label": "Crédito de referido tras 2 ciclos pagados",
+                  "value": "-45 € en la factura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Crédito frente a la mensualidad",
+              "totalValue": "Casi 2 mensualidades cubiertas",
+              "note": "Pagas lo mismo que en la web y mantienes los 30 días de prueba."
+            },
+            {
+              "label": "Madrid 200 Mbps + enlace",
+              "lines": [
+                {
+                  "label": "Alquiler del kit Standard 4",
+                  "value": "0 €, se devuelve si cancelas"
+                },
+                {
+                  "label": "Mensualidad con la promoción",
+                  "value": "31,50 €/mes"
+                },
+                {
+                  "label": "Crédito de referido tras 2 ciclos pagados",
+                  "value": "-45 € en la factura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Crédito frente a la mensualidad",
+              "totalValue": "Más de 1 mes cubierto",
+              "note": "Hoy se pagan 19 € de envío; el crédito llega después, no en la cesta."
+            },
+            {
+              "label": "Pedido sin enlace de referido",
+              "lines": [
+                {
+                  "label": "Precio del kit y del plan",
+                  "value": "El mismo que con el enlace"
+                },
+                {
+                  "label": "Crédito de referido",
+                  "value": "0 €, no se puede añadir después"
+                },
+                {
+                  "label": "Recompensa que se queda sin cobrar",
+                  "value": "45 € en España",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Recompensa de referido recibida",
+              "totalValue": "0 €",
+              "note": "El referido tiene que constar en el pedido original, antes de pagar."
+            }
+          ]
+        }
       },
       {
         "heading": "Cómo usar el enlace, paso a paso",
@@ -290016,11 +291444,27 @@ export const reviewsData: unknown[] = [
           "Activa el kit y revisa la primera factura. Pagar el primer mes y activar el equipo forman parte de los requisitos del programa."
         ],
         "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "Antena Starlink fijada al tejado de una casa de madera",
-          "caption": "Antena residencial instalada. Foto de Starlink.",
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Pantalla de pedido en el sitio oficial de Starlink con el mensaje Referral Code Applied, que indica que tú y tu amigo recibís 100 $ cada uno, en dinero o crédito de servicio",
+          "caption": "Pedido en el sitio oficial con el enlace de referido aplicado (ejemplo de Nevada, EE. UU.).",
           "objectFit": "contain",
-          "aspectRatio": 1.8079
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "Lista de comprobación antes de pagar",
+        "paragraphs": [
+          "Marca cada punto en pantalla antes de pagar. Son dos minutos y deciden si el crédito consta en tu pedido."
+        ],
+        "checklist": {
+          "title": "Antes de cerrar el pedido",
+          "items": [
+            "He abierto el pedido con el enlace de referido de Cecília en esta misma ventana, para no perder el crédito.",
+            "He comprobado que la barra del navegador sigue en starlink.com antes de escribir ningún dato.",
+            "He pasado la prueba de obstrucciones de la app de Starlink en el punto previsto para confirmar que hay cielo abierto.",
+            "He visto en el resumen del pedido el aviso de referido aplicado, el precio del kit y si hay permanencia de 12 meses.",
+            "He guardado una captura del resumen con la mensualidad y la regla de los 30 días antes de pagar."
+          ]
         }
       },
       {
@@ -290028,10 +291472,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "El valor depende del país en el que te registras y aparece en tu pedido y en tu cuenta. Quien invita también recibe el mismo valor, en dinero o en crédito de servicio.",
           "La suscripción tiene que seguir activa y al día durante dos ciclos mensuales completos. El centro de ayuda dice que la emisión puede empezar a partir de 60 días desde la activación, según el país, la cuenta y la verificación de identidad.",
-          "La forma habitual es el crédito en la factura. Si tu cuenta ofrece pago en dinero, abre Referidos en el sitio desde el navegador, elige el método de recompensa."
+          "La forma habitual es el crédito en la factura. Si tu cuenta ofrece pago en dinero, abre Referidos en el sitio desde el navegador, elige el método de recompensa. El crédito llega a la factura y no reduce el precio del kit en el pedido."
         ],
         "emphasis": "La recompensa solo se libera tras dos ciclos mensuales completos con la suscripción activa y al día, por defecto como crédito en la factura, y quien se suscribe y quien invita reciben el mismo valor; el de tu país aparece en el pedido.",
         "emphasisAfterParagraph": 3
+      },
+      {
+        "heading": "¿Abrir el enlace te compromete a algo? La prueba de 30 días",
+        "paragraphs": [
+          "Abrir el enlace no te compromete a nada. El precio del plan, el kit, la disponibilidad y si hay permanencia solo aparecen cuando escribes una dirección en starlink.com.",
+          "Tras pagar, Starlink da 30 días para devolver el kit, según las condiciones de su página. Si la antena no funciona en tu tejado, puedes cancelar y devolver el equipo dentro de ese plazo.",
+          "Por eso el enlace va antes de la prueba: el referido solo cuenta en el pedido original. Quien prueba sin él paga lo mismo el primer día y se queda sin los 45 € si decide quedarse con la antena."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Antena Starlink fijada al tejado de una casa de madera",
+          "caption": "Antena residencial instalada. Foto de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        },
+        "links": [
+          {
+            "label": "Asegurar el bono antes de pedir",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Quién puede usarlo",
@@ -290049,15 +291515,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "¿Y la oferta de Black Friday?",
+        "heading": "Cuatro errores que hacen perder el crédito aunque pulses el enlace",
         "paragraphs": [
-          "En España, el pedido que consultamos mostraba un 30 % de descuento en los planes de servicio, para contratar antes del 30 de noviembre. Mira el [cálculo del Black Friday de Starlink](/es/reviews/starlink-black-friday-oferta) y comprueba la oferta de tu dirección."
+          "La mayoría de los créditos perdidos vienen de uno de estos cuatro descuidos."
+        ],
+        "bullets": [
+          "Comprar el kit en un distribuidor o marketplace. El programa solo cuenta los pedidos hechos en starlink.com a través del enlace.",
+          "Pagar sin comprobar el aviso. El referido tiene que constar en el pedido original y no se puede añadir después: si no ves el aviso en pantalla, vuelve a abrir el enlace antes de pagar. Si cambias de dispositivo o de navegador a mitad del pedido, abre el enlace otra vez y comprueba el aviso de nuevo.",
+          "Usar el enlace siendo o habiendo sido cliente. El crédito es solo para quien se suscribe a Starlink por primera vez.",
+          "Cancelar demasiado pronto. El crédito exige una suscripción activa y al día durante dos ciclos mensuales completos, y la emisión puede empezar a partir de 60 días desde la activación."
         ]
       },
       {
-        "heading": "Cómo seguirlo",
+        "heading": "¿Y la oferta de Black Friday?",
         "paragraphs": [
-          "En la pestaña Referidos del sitio o de la aplicación puedes ver el estado de quien se suscribió con tu enlace. Starlink avisa por correo cuando alguien hace el pedido. Un referido puede pasar por una verificación de elegibilidad antes de generar recompensa."
+          "En España, el pedido que consultamos mostraba un 30 % de descuento en los planes de servicio, para contratar antes del 30 de noviembre. Mira el [cálculo del Black Friday de Starlink](/es/reviews/starlink-black-friday-oferta) y comprueba la oferta de tu dirección.",
+          "En el resumen del pedido de Madrid con el plan de 100 Mbps, Starlink mostró 35 € menos 10,50 € (30 %), el kit Mini X alquilado a 0 € y 19 € a pagar hoy. Si lo que te preocupa es la permanencia, lee la [guía de permanencia y cancelación de Starlink](/es/reviews/starlink-permanencia-cancelar) y [si Starlink merece la pena](/es/reviews/starlink-vale-la-pena)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+          "alt": "Resumen del pedido de Starlink para Madrid: 35 € menos 10,50 €, kit Mini X a 0 € y 19 € a pagar hoy",
+          "caption": "Madrid: resumen del pedido del plan Residencial de 100 Mbps, consulta del 23 de noviembre de 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.726
+        }
+      },
+      {
+        "heading": "Cómo seguirlo y usar tu propio enlace",
+        "paragraphs": [
+          "En la pestaña Referidos del sitio o de la aplicación puedes ver el estado de quien se suscribió con tu enlace. Starlink avisa por correo cuando alguien hace el pedido. Un referido puede pasar por una verificación de elegibilidad antes de generar recompensa.",
+          "Cuando seas cliente activo de un plan Residencial o de viaje, también podrás invitar a otros, y quien invita recibe el mismo valor que el cliente nuevo. El importe de tu país aparece en el pedido de quien se suscribe."
         ]
       },
       {
@@ -290069,13 +291556,14 @@ export const reviewsData: unknown[] = [
           "¿Cuándo llega la recompensa de Starlink? El centro de ayuda indica que la emisión puede empezar a partir de 60 días desde la activación, si el referido cumple las condiciones del programa.",
           "¿Vale el referido si compro en un distribuidor o marketplace? El programa exige comprar directamente en starlink.com a través del enlace.",
           "Ya fui cliente, ¿puedo usar el enlace? La recompensa es para quien se suscribe a Starlink por primera vez.",
-          "¿Funciona el enlace en España? Según el centro de ayuda de Starlink, el referido vale en la mayoría de los países donde vende, y el valor depende del país en que te registras. Compruébalo en tu pedido."
+          "¿Funciona el enlace en España? Según el centro de ayuda de Starlink, el referido vale en la mayoría de los países donde vende, y el valor depende del país en que te registras. Compruébalo en tu pedido.",
+          "¿Se puede añadir el referido después de pagar? No. Starlink exige que el referido conste en el pedido original, hecho en starlink.com con un enlace de referido, antes del pago."
         ]
       }
     ],
     "cta": {
-      "text": "Comprueba la recompensa que aparece en el pedido para tu dirección antes de pagar.",
-      "label": "Ver el referido en el pedido",
+      "text": "Pagas exactamente el mismo precio que en la web oficial, conservas los 30 días para devolver el kit si no funciona en tu tejado y aseguras 45 € de crédito en España tras dos ciclos mensuales.",
+      "label": "Activar mi bono de 45 € en starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -290110,8 +291598,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-oferta",
     "translationKey": "starlink-black-friday",
     "locale": "es",
-    "title": "Black Friday Starlink 2026 en España: 30 % en el servicio y kit en alquiler a 0 €",
-    "seoTitle": "Black Friday Starlink 2026: 30 % y kit en alquiler a 0 €",
+    "title": "Black Friday Starlink 2026 en España: 100 Mbps a 24,50 €, kit en alquiler a 0 € y recompensa por referido",
+    "seoTitle": "Black Friday Starlink 2026: 24,50 € al mes y kit a 0 €",
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -290122,8 +291610,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "En Madrid, el pedido mostraba el Max a 45,50 € al mes, el kit en alquiler a 0 € y 19 € a pagar hoy. Mira cómo entra la recompensa del referido y cómo comprobar tu dirección.",
-    "metaDescription": "Starlink con 30 % en los planes y kit en alquiler a 0 € en España. Mira la cuenta del primer pedido y cómo entra la recompensa del referido.",
+    "description": "En Madrid, Starlink mostraba el 100 Mbps a 24,50 € al mes, el 200 Mbps a 31,50 € y el kit en alquiler a 0 €. Mira la cuenta del primer pedido y cómo entra el referido.",
+    "metaDescription": "Starlink Black Friday en España: 30 % en los planes y kit en alquiler a 0 €. Mira los precios de Madrid, la devolución y cómo entra el referido.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -290138,69 +291626,184 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El pedido que consultamos en Madrid mostraba un 30 % de descuento en el servicio, 19 € a pagar ese día y un kit en alquiler a 0 €. El equipo se devuelve al cancelar. Si tu pedido muestra una recompensa por referido, comprueba las condiciones antes de contar con ella."
+          "El pedido de Starlink que consultamos en Madrid mostraba un 30 % de descuento en el servicio hasta el 30 de noviembre: 24,50 € al mes el 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el kit en alquiler a 0 € y 19 € a pagar hoy. El equipo se devuelve si cancelas y tienes 30 días de prueba. La recompensa del referido solo cuenta si abres el pedido desde un enlace de referido antes de pagar."
         ]
       },
       {
-        "heading": "Qué pagas en el primer pedido",
+        "heading": "Los tres planes en Madrid, con y sin descuento",
         "paragraphs": [
-          "Estas son las cifras que mostró el pedido oficial para una dirección de Madrid, el 20 de noviembre, sin completar la compra. El kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas el servicio. La instalación profesional del Residencial 100 Mbps es opcional y cuesta 172 €, y con el Max es gratuita."
+          "Leímos el pedido oficial para una dirección de Puerta del Sol, en Madrid, el 23 de noviembre de 2026, sin completar la compra. El Residencial 100 Mbps costaba 24,50 € al mes (35 € sin descuento), el 200 Mbps 31,50 € (45 €) y el Máx. 45,50 € (65 €), todos con el kit en alquiler: 0 € al empezar y 0 € al mes. Los 19 € que se pagan hoy corresponden al envío.",
+          "La instalación profesional es opcional y cuesta 172 € en el 100 y el 200 Mbps, y es gratuita en el Máx. La recompensa del referido aparece en el pedido cuando lo abres desde el enlace, se abona como crédito en la factura tras dos ciclos mensuales completos y no se descuenta del precio del kit."
         ],
         "comparisonTable": {
           "headers": [
             "Pedido en Madrid",
-            "Valor mostrado"
+            "Al mes con 30 %",
+            "Al mes sin descuento"
           ],
           "rows": [
             [
-              "Total a pagar hoy",
+              "Residencial 100 Mbps",
+              "24,50 €",
+              "35 €"
+            ],
+            [
+              "Residencial 200 Mbps",
+              "31,50 €",
+              "45 €"
+            ],
+            [
+              "Máx.",
+              "45,50 €",
+              "65 €"
+            ],
+            [
+              "Kit en alquiler, al empezar y al mes",
+              "0 € y 0 €",
+              "0 € y 0 €"
+            ],
+            [
+              "Total a pagar hoy (envío)",
+              "19 €",
               "19 €"
-            ],
-            [
-              "Kit en alquiler (coste inicial y cuota mensual)",
-              "0 € y 0 € al mes"
-            ],
-            [
-              "Residencial 100 Mbps, por mes",
-              "24,50 €"
-            ],
-            [
-              "Max, por mes",
-              "45,50 €"
-            ],
-            [
-              "Instalación profesional, Residencial 100 Mbps (opcional)",
-              "172 €"
-            ],
-            [
-              "Instalación profesional, Max",
-              "0 €"
             ]
           ],
-          "caption": "Cifras del pedido en starlink.com con la oferta de la Black Friday activa. La duración del precio con descuento no aparecía en la lectura."
+          "caption": "Cifras del pedido en starlink.com para Madrid, leídas el 23 de noviembre de 2026. El 30 % vale hasta el 30 de noviembre."
         },
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
-          "alt": "Antena Starlink Standard y el router",
-          "caption": "Antena y router de Starlink. Foto de Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.3316
+        "simulator": {
+          "title": "Simulador rápido: Madrid",
+          "scenarios": [
+            {
+              "label": "100 Mbps con el enlace",
+              "lines": [
+                {
+                  "label": "Plan con 30 %",
+                  "value": "24,50 € al mes"
+                },
+                {
+                  "label": "Kit en alquiler",
+                  "value": "0 € al empezar, 0 € al mes"
+                },
+                {
+                  "label": "Recompensa del referido tras dos ciclos pagados",
+                  "value": "Crédito en la factura (el importe sale en tu pedido)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Pagas hoy (envío)",
+              "totalValue": "19 €",
+              "note": "Las primeras facturas las pagas tú. La recompensa llega después de dos ciclos mensuales completos."
+            },
+            {
+              "label": "200 Mbps con el enlace",
+              "lines": [
+                {
+                  "label": "Plan con 30 %",
+                  "value": "31,50 € al mes"
+                },
+                {
+                  "label": "Kit en alquiler",
+                  "value": "0 € al empezar, 0 € al mes"
+                },
+                {
+                  "label": "Recompensa del referido tras dos ciclos pagados",
+                  "value": "Crédito en la factura (el importe sale en tu pedido)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Pagas hoy (envío)",
+              "totalValue": "19 €",
+              "note": "La instalación profesional es opcional, 172 €, en este plan."
+            },
+            {
+              "label": "Sin el enlace",
+              "lines": [
+                {
+                  "label": "Precio del plan y del kit",
+                  "value": "El mismo que con el enlace"
+                },
+                {
+                  "label": "Recompensa del referido",
+                  "value": "0 €"
+                },
+                {
+                  "label": "Lo que pierdes",
+                  "value": "La recompensa entera",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Recompensa recibida",
+              "totalValue": "0 €",
+              "note": "El referido solo cuenta en el pedido que empieza desde un enlace de referido, antes de pagar."
+            }
+          ]
         },
-        "emphasis": "Según las cifras de la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 € o 45,50 € al mes según el plan, y cualquier recompensa por referido llega solo tras dos ciclos mensuales completos.",
+        "postParagraphs": [
+          "El 200 Mbps queda en medio: 31,50 € al mes con 30 %, frente a los 45 € de su precio normal. Si el Máx. te sobra y el 100 Mbps se queda corto, es el plan que conviene comparar primero."
+        ],
+        "emphasis": "Según la tabla, el pedido de Madrid pide 19 € el primer día y 24,50 €, 31,50 € o 45,50 € al mes según el plan, y la recompensa llega solo tras dos ciclos mensuales completos.",
         "links": [
           {
-            "label": "Ver planes en tu dirección",
+            "label": "Consultar la Black Friday y el referido en mi dirección",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
         ]
       },
       {
-        "heading": "Cómo entra la recompensa en la cuenta",
+        "heading": "Cómo se ve en el pedido",
         "paragraphs": [
-          "Si abres el pedido con un enlace de referido, la pantalla muestra el valor de la recompensa para tu país. Ese valor no es el mismo en todas partes y no lo damos aquí, porque no lo vimos en una cuenta española.",
-          "Suma el importe inicial y las mensualidades que debas abonar hasta que llegue la recompensa, sin contar dos veces ninguna cuota. Resta la recompensa solo si tu pedido cumple las condiciones.",
-          "La suscripción tiene que seguir activa y al día durante dos ciclos mensuales completos, y la recompensa llega en crédito de servicio o, si tu cuenta lo ofrece, en dinero."
+          "La captura muestra el aviso “Referral Code Applied” de un pedido de Estados Unidos abierto con enlace de referido. El pedido con enlace enseña el aviso de referido aplicado y el importe de la recompensa de tu país.",
+          "Para comprobar el tuyo, abre el enlace, introduce tu dirección y busca el mismo aviso antes de pagar. Mira si el pedido muestra la recompensa y el precio mensual."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Pantalla de pedido en el sitio oficial de Starlink con el mensaje Referral Code Applied, que indica que al registrarte con este código tú y tu amigo recibís 100 dólares cada uno, en efectivo o crédito de servicio",
+          "caption": "Pedido en el sitio oficial con el enlace de referido aplicado (ejemplo de EE. UU.; en España el importe lo ves en tu pedido).",
+          "aspectRatio": 0.8747,
+          "objectFit": "contain"
+        }
+      },
+      {
+        "heading": "¿Vale la oferta en tu dirección?",
+        "paragraphs": [
+          "La oferta se muestra por dirección. En Madrid, el pedido ofrecía una prueba de 30 días y una entrega de 1 a 2 semanas; en otras zonas de España el plazo y los planes pueden cambiar. Introduce tu dirección, compara el precio mensual, el kit y la instalación, y guarda la pantalla antes de pagar.",
+          "Si estás en México, la consulta de Ciudad de México mostró solo el Residencial Max, con el equipo en compra y no en alquiler: $1,485 MXN al mes más $55 MXN de costo regulatorio. El Standard 4 X costaba $5,743 MXN ($7,599 menos $1,856) con plazo de 12 meses y multa de hasta $4,600 MXN; el Kit Mini, $2,303 MXN, sin el plazo de 12 meses en el pago. Con el envío de $475 MXN, hoy se pagaban $6,218 MXN o $2,778 MXN."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "alt": "Pedido de Starlink para Madrid con los planes Residencial 100 Mbps, 200 Mbps y Máx., el precio con descuento y el aviso de devolver el hardware en alquiler",
+          "caption": "Pedido para Madrid, consulta de 23/11/2026: planes de 100 Mbps a Máx. y kit en alquiler a 0 €.",
+          "aspectRatio": 0.622,
+          "objectFit": "portrait"
+        }
+      },
+      {
+        "heading": "Kit en alquiler, devolución y prueba de 30 días",
+        "paragraphs": [
+          "El pedido informa de que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler. Con la prueba de 30 días, el reembolso del kit y del primer mes exige cancelar y devolver el equipo en buen estado dentro de ese plazo. Por eso abrir el pedido no cuesta nada: ves el precio de tu dirección, pruebas la antena en tu tejado y solo entonces decides quedarte.",
+          "Pasado ese plazo, el pedido no fija una permanencia de 12 meses. Mira la [guía de contrato y cancelación](/es/reviews/starlink-permanencia-cancelar)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+          "alt": "Resumen del pedido de Starlink en Madrid con 35 € menos 10,50 € de descuento, el kit Mini X a 0 € y 19 € a pagar hoy",
+          "caption": "Resumen del pedido en Madrid (23/11/2026): 35 € menos 10,50 €, Mini X a 0 € y 19 € hoy.",
+          "aspectRatio": 0.726,
+          "objectFit": "portrait"
+        },
+        "links": [
+          {
+            "label": "Asegurar el referido antes de pagar el pedido",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Y después de la promoción: cómo proteger el precio",
+        "paragraphs": [
+          "El 30 % vale para pedidos hechos hasta el 30 de noviembre. Según las preguntas frecuentes de Starlink, el precio mensual no tiene una duración fija y la empresa puede cambiar los precios con un aviso de 30 días, así que el precio con descuento no está garantizado por un número de meses. Si piensas quedarte años, haz la cuenta con el precio normal.",
+          "Guarda antes de pagar una captura del resumen del pedido con el precio, la línea del kit y el aviso del referido, y compárala con tu primera factura. Si algo no coincide, abre una solicitud de soporte desde tu cuenta con la captura adjunta."
         ]
       },
       {
@@ -290211,21 +291814,24 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "¿Vale la oferta en tu dirección?",
+        "heading": "Los 4 errores que hacen perder la recompensa",
         "paragraphs": [
-          "La oferta se muestra por dirección. En la consulta de Madrid, el pedido ofrecía una prueba de 30 días y una entrega de 1 a 2 semanas. En otras zonas de España el plazo y los planes disponibles pueden cambiar, así que introduce tu dirección en el pedido y guarda la pantalla antes de pagar."
-        ]
-      },
-      {
-        "heading": "Kit en alquiler y devolución",
-        "paragraphs": [
-          "El pedido informa de que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler. Con la prueba de 30 días, el reembolso del kit y del primer mes exige cancelar y devolver el equipo en buen estado dentro de los 30 días. Mira la [guía de contrato y cancelación](/es/reviews/starlink-permanencia-cancelar)."
+          "Aunque hagas clic en el enlace, la recompensa se pierde por descuidos pequeños:"
+        ],
+        "bullets": [
+          "Comprar el kit en un marketplace o en una tienda e intentar usar el enlace después. El referido solo cuenta en un pedido hecho en starlink.com desde un enlace de referido, antes de pagar.",
+          "Abrir el enlace en el móvil y terminar el pedido horas después en otro dispositivo sin abrir el enlace de nuevo. El referido puede no acompañar al pedido: hazlo todo en el mismo dispositivo o vuelve a abrir el enlace y busca el aviso verde.",
+          "Registrarte con un nombre, un correo o una dirección que ya tuvo una cuenta de Starlink. La recompensa es para clientes nuevos.",
+          "Cancelar o retrasar el pago antes de completar dos ciclos mensuales pagados. La recompensa solo llega con el servicio activo y al día."
+        ],
+        "postParagraphs": [
+          "Si ya pagaste el pedido sin el enlace, no se puede añadir el referido después."
         ]
       },
       {
         "heading": "Cómo usar el enlace",
         "paragraphs": [
-          "Abre el enlace e introduce la dirección donde vas a instalar la antena. Elige el plan, comprueba el referido aplicado y guarda la oferta que aparece antes de pagar.",
+          "Abrir el enlace no te compromete a nada: los precios, la disponibilidad y la oferta solo aparecen después de escribir tu dirección. Introduce la dirección donde vas a instalar la antena, elige el plan, comprueba el referido aplicado y guarda la oferta que aparece antes de pagar.",
           "En la [página del referido de Starlink](/es/coupons/starlink) están el enlace y las reglas del programa."
         ]
       },
@@ -290233,22 +291839,24 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Tiene Starlink cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de servicio, como crédito en la factura, y quien lo recomendó recibe el mismo valor.",
-          "¿Tiene Starlink Black Friday? En España, el pedido oficial mostraba un 30 % de descuento en los planes de servicio, con el kit en alquiler a 0 €, en zonas seleccionadas.",
-          "¿Se suma el referido a la oferta? Comprueba en el pedido de tu dirección si aparecen las dos. La recompensa depende de la elegibilidad y de dos ciclos mensuales completos.",
-          "¿Cuánto se cobra en el pedido? En el pedido de Madrid que consultamos, el total a pagar hoy era de 19 €. Comprueba en tu pantalla qué incluye ese total.",
-          "¿Cuánto cuestan el Residencial y el Max al mes? En esa consulta, 24,50 € el Residencial 100 Mbps y 45,50 € el Max. Cambian según la dirección.",
-          "¿Hasta cuándo vale la oferta? El pedido pide contratar como muy tarde el 30 de noviembre. Introduce tu dirección para ver si está disponible."
+          "¿Tiene Starlink Black Friday? Sí. En España, el pedido oficial mostraba un 30 % de descuento en los planes de servicio, con el kit en alquiler a 0 €, en zonas seleccionadas y hasta el final de noviembre.",
+          "¿Se suma el referido a la oferta? Son dos líneas distintas del pedido. Comprueba en el pedido de tu dirección que aparecen las dos. La recompensa depende de la elegibilidad y de dos ciclos mensuales completos.",
+          "¿Cuánto se cobra en el pedido? En el pedido de Madrid que consultamos, el total a pagar hoy era de 19 €, con el kit en alquiler a 0 €.",
+          "¿Cuánto cuestan los planes al mes? En esa consulta, 24,50 € el Residencial 100 Mbps, 31,50 € el 200 Mbps y 45,50 € el Máx., con el 30 % de descuento. Cambian según la dirección.",
+          "¿Puedo probar Starlink antes de decidir? Sí. Starlink devuelve el kit y el primer mes si cancelas y devuelves el equipo en buen estado dentro de los 30 días.",
+          "¿Puedo añadir el referido después de pagar? No. Solo cuenta en el pedido abierto desde el enlace, antes de pagar.",
+          "¿Hasta cuándo vale la oferta? Starlink la anuncia hasta el final de noviembre. Introduce tu dirección para ver si está disponible."
         ]
       }
     ],
     "cta": {
-      "text": "El pedido se abre en el sitio de Starlink. Comprueba el precio del plan, el kit y el valor del referido antes de pagar.",
-      "label": "Consultar la oferta en mi dirección",
+      "text": "Pagas el mismo precio que en el pedido oficial, conservas los 30 días de prueba y la devolución del kit alquilado si la antena no funciona en tu tejado, y la recompensa del referido entra en tu factura tras dos ciclos pagados.",
+      "label": "Ver mi dirección con el referido",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Precios leídos en la pantalla de pedido del sitio oficial, sin completar la compra. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "editorialNote": "Precios leídos en las pantallas de pedido del sitio oficial, sin completar la compra. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
     "relatedArticles": [
       {
         "slug": "starlink-enlace-referido-como-funciona"
@@ -290264,11 +291872,11 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "el pedido de tu dirección muestra la oferta del plan y las condiciones del kit antes de pagar.",
+        "el pedido de tu dirección muestra el 30 % en el plan y las condiciones del kit en alquiler antes de pagar.",
         "puedes esperar dos ciclos mensuales completos por la recompensa y pagar las cuotas mientras tanto."
       ],
       "skipIf": [
-        "tu pedido no muestra la oferta, porque las cifras leídas son de una sola dirección.",
+        "tu pedido no muestra la oferta, porque las cifras leídas son de las direcciones consultadas.",
         "puedes cancelar pronto y no quieres arriesgarte con la devolución del kit ni con perder el precio promocional."
       ]
     }
@@ -290278,8 +291886,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-vale-la-pena",
     "translationKey": "starlink-vale-a-pena",
     "locale": "es",
-    "title": "¿Vale la pena Starlink? Cuánto cuesta al mes, el kit en alquiler y para quién tiene sentido",
-    "seoTitle": "¿Vale la pena Starlink? Precio, kit y para quién",
+    "title": "¿Vale la pena Starlink? Precio real, fibra inestable y uso como respaldo",
+    "seoTitle": "¿Vale la pena Starlink? Precios, fibra y respaldo",
     "type": "Guía de compra",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -290290,8 +291898,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Compara el coste mensual de Starlink con la conexión que llega a tu casa. Mira el precio por dirección, el kit en alquiler y cómo comprobar dónde instalar la antena.",
-    "metaDescription": "¿Vale la pena Starlink? Precios por dirección, kit en alquiler, para quién tiene sentido y cuándo la fibra o el 4G salen mejor.",
+    "description": "Comprueba si Starlink vale la pena en fincas o en zonas donde la fibra se corta y no da la velocidad. Mira planes, kit en alquiler y uso como conexión de respaldo.",
+    "metaDescription": "¿Vale la pena Starlink incluso con fibra en casa? Precios por dirección, kit en alquiler, inestabilidad de la fibra y uso como alternativa o respaldo.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -290306,18 +291914,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Starlink puede valer la pena en casas y fincas donde falta una conexión estable. Si ya llega una fibra fiable, compara el coste de varios meses antes de cambiar. Suma las mensualidades de tu dirección, mira qué hay que devolver al cancelar y usa la aplicación de Starlink para comprobar dónde puede ir la antena."
+          "Sí, Starlink vale la pena donde no llega una conexión estable y también donde hay fibra, pero se corta a menudo o rinde muy por debajo de lo contratado. Nosotros la contratamos como alternativa y respaldo de nuestra fibra inestable. Si tu fibra es realmente estable, suele ganar en precio y latencia. Probar tiene poco riesgo: en el pedido de Madrid el kit va en alquiler a 0 € y hay 30 días para devolverlo."
         ]
       },
       {
         "heading": "Cuánto cuesta al mes",
         "paragraphs": [
-          "Consultamos el pedido oficial para una dirección pública de Madrid, con la oferta de la Black Friday activa. Los precios cambian según la dirección, así que tómalos como un ejemplo."
+          "El 23 de noviembre de 2026 leímos el pedido oficial para una dirección pública de Madrid, con la oferta del 30 % en los planes. El kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y se devuelve si cancelas. Ese día se pagaban 19 € de envío. El pedido no mostraba cuánto dura el precio con descuento, así que comprueba la condición en el tuyo."
         ],
         "comparisonTable": {
           "headers": [
-            "Plan",
-            "Por mes",
+            "Plan en Madrid",
+            "Por mes con la oferta",
+            "Precio base",
             "Kit en alquiler",
             "Instalación profesional"
           ],
@@ -290325,28 +291934,113 @@ export const reviewsData: unknown[] = [
             [
               "Residencial 100 Mbps",
               "24,50 €",
-              "0 € y 0 € al mes",
+              "35 €",
+              "Mini X, 0 € y 0 € al mes",
               "172 € (opcional)"
             ],
             [
-              "Max",
+              "Residencial 200 Mbps",
+              "31,50 €",
+              "45 €",
+              "Standard 4, 0 € y 0 € al mes",
+              "172 € (opcional)"
+            ],
+            [
+              "Residencial Máx.",
               "45,50 €",
-              "0 € y 0 € al mes",
+              "65 €",
+              "Standard 4, 0 € y 0 € al mes",
               "0 €"
             ]
           ],
-          "caption": "Precios del pedido en Madrid. El pedido no mostraba cuánto dura el precio con descuento, así que comprueba la duración en el tuyo."
+          "caption": "Precios del pedido en Madrid con la oferta del 30 % y 19 € de envío el día del pedido. El precio base es el de la lista sin la oferta."
+        },
+        "simulator": {
+          "title": "Simulador: qué pide cada escenario",
+          "scenarios": [
+            {
+              "label": "Madrid, 100 Mbps",
+              "lines": [
+                {
+                  "label": "Kit en alquiler (Mini X)",
+                  "value": "0 € y 0 € al mes",
+                  "highlight": true
+                },
+                {
+                  "label": "Mensualidad con la oferta del 30 %",
+                  "value": "24,50 €"
+                },
+                {
+                  "label": "Mensualidad base",
+                  "value": "35 €"
+                }
+              ],
+              "totalLabel": "Pago hoy (envío)",
+              "totalValue": "19 €",
+              "note": "Instalación profesional opcional por 172 €. Devuelves el kit si cancelas."
+            },
+            {
+              "label": "Madrid, 200 Mbps",
+              "lines": [
+                {
+                  "label": "Kit en alquiler (Standard 4)",
+                  "value": "0 € y 0 € al mes",
+                  "highlight": true
+                },
+                {
+                  "label": "Mensualidad con la oferta del 30 %",
+                  "value": "31,50 €"
+                },
+                {
+                  "label": "Mensualidad base",
+                  "value": "45 €"
+                }
+              ],
+              "totalLabel": "Pago hoy (envío)",
+              "totalValue": "19 €",
+              "note": "Instalación profesional opcional por 172 €. Es el plan que más comparativas omiten."
+            },
+            {
+              "label": "Madrid, Máx.",
+              "lines": [
+                {
+                  "label": "Kit en alquiler (Standard 4)",
+                  "value": "0 € y 0 € al mes"
+                },
+                {
+                  "label": "Mensualidad con la oferta del 30 %",
+                  "value": "45,50 €"
+                },
+                {
+                  "label": "Instalación profesional",
+                  "value": "0 €",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Pago hoy (envío)",
+              "totalValue": "19 €",
+              "note": "Mensualidad base de 65 €. Comprueba la duración del descuento en tu pedido."
+            }
+          ]
         },
         "postParagraphs": [
-          "Antes de decidir, haz la cuenta sin la recompensa del referido: multiplica la mensualidad por los meses que piensas quedarte y suma la instalación si la quieres. La recompensa depende del país y llega tras cumplir las reglas del programa. Mira el [enlace de referido de Starlink](/es/coupons/starlink)."
+          "El plan de 200 Mbps es el que muchas comparativas se saltan: a 31,50 € cuesta 7 € más al mes que el de 100 Mbps y trae el kit Standard 4 en alquiler. En Ciudad de México la situación es otra: el pedido que leímos solo mostraba el plan Max, a 1.485 MXN más 55 MXN de costo regulatorio, con compra del equipo. El Standard 4 X exigía un plazo de 12 meses, con multa de hasta 4.600 MXN, y el Kit Mini no.",
+          "Haz la cuenta primero sin la recompensa del referido. Con nuestro enlace, quien se suscribe recibe 45 € en España tras dos meses de suscripción, como crédito en la factura. Mira la [página de referidos de Starlink](/es/coupons/starlink)."
         ],
         "links": [
           {
-            "label": "Ver planes en tu dirección",
+            "label": "Simular plan y kit para mi dirección",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "alt": "Pantalla oficial de Starlink en Madrid con el plan de 100 Mbps a 24,50 € al mes y el kit en alquiler a 0 €",
+          "caption": "Pantalla del pedido en Madrid, consulta del 23/11/2026: 100 Mbps a 24,50 € al mes y devolución del kit alquilado si cancelas.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.622
+        }
       },
       {
         "heading": "Dónde instalar la antena",
@@ -290368,12 +292062,38 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Cuándo comparar con fibra o 4G",
+        "heading": "Más allá del precio: fibra inestable, cortes regionales y uso como respaldo",
         "paragraphs": [
-          "Si ya llega una fibra estable, compara la suma de instalación, cuotas y condiciones de cada propuesta. Para el 4G, incluye el precio del equipo que necesites y comprueba que el plan tiene datos suficientes para la casa."
+          "Comparar solo la factura mensual se queda corto cuando la línea fija de tu dirección es barata pero se cae cada semana o da una fracción de la velocidad que pagas. Los operadores regionales y las redes saturadas suelen sufrir cables cortados, mantenimientos sin aviso y lentitud en las horas punta. Si teletrabajas, haces videollamadas o dependes de cámaras y domótica, eso pesa más que unos euros al mes.",
+          "En nuestro caso, contratamos Starlink como alternativa y respaldo de la fibra inestable. Como la señal llega de satélites, no depende de los cables de tu calle ni del mismo operador, así que puede sustituir a una fibra problemática o actuar como ruta de reserva cuando la fibra falla.",
+          "Probar tiene poco riesgo: el kit va en alquiler a 0 € de coste inicial, no vimos permanencia de 12 meses y hay 30 días para devolverlo. Mides la estabilidad real en tu tejado y solo mantienes la suscripción si resuelve el problema. Si piensas en 4G o 5G doméstico como respaldo, suma el router y comprueba los datos incluidos."
         ],
-        "emphasis": "Si en la dirección no hay fibra estable ni un 4G aceptable, Starlink entra en la comparación; con fibra estable, solo compensa cambiar si el total de los meses que piensas quedarte, kit y cuotas sumados, sale por debajo de lo que cuesta la conexión actual.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "Si tu fibra es realmente estable y da la velocidad contratada, cambiar solo por el precio mensual rara vez compensa; cuando los operadores locales sufren cortes frecuentes o lentitud severa, Starlink vale por su fiabilidad y su independencia como línea principal o de respaldo.",
+        "emphasisAfterParagraph": 3,
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antena y router oficiales de Starlink que pueden servir como conexión principal o de respaldo",
+          "caption": "Antena y router oficiales de Starlink, independientes del cableado del operador local. Foto de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Cómo usar Starlink junto a una fibra poco fiable",
+        "paragraphs": [
+          "Esta parte es orientación general, no un relato de nuestra instalación. Hay dos formas de usar Starlink junto a una fibra inestable, de la más simple a la automática.",
+          "Nivel 1, sin coste extra: deja el wifi de Starlink como segunda red y cambia el móvil o el portátil a ella cuando la fibra se caiga en plena reunión. El cambio es manual y lleva segundos, pero tienes que darte cuenta del corte y actuar.",
+          "Nivel 2, automático: usa un router con Dual-WAN (o multi-WAN) y failover. La fibra entra por un puerto WAN, Starlink por el otro, y el router pasa el tráfico a Starlink cuando detecta que la fibra ha caído. Para eso, Starlink suele conectarse a tu router mediante el modo bypass de la aplicación, que deja que tu router gestione la red. Consulta el soporte de Starlink para ver qué necesita tu modelo, porque algunos kits piden un adaptador Ethernet.",
+          "En el cambio automático, las llamadas en curso y las VPN pueden reconectarse unos segundos, porque tu dirección de salida cambia. Prueba el failover antes de depender de él: desconecta la fibra unos minutos y comprueba si las llamadas, las cámaras y el trabajo remoto vuelven solos."
+        ]
+      },
+      {
+        "heading": "Lluvia fuerte, viento y cortes de luz",
+        "paragraphs": [
+          "El internet por satélite de órbita alta tiene un retardo de cientos de milisegundos, que estropea llamadas y juegos. Starlink usa satélites de órbita baja y publica una latencia típica de 25 a 60 ms en tierra, una referencia de la empresa sin medición en nuestra dirección.",
+          "Lluvia muy fuerte, nieve y tormentas pueden reducir el rendimiento un rato, y el viento pide una antena bien fijada. Compáralo con la fibra: un cable cortado en la calle puede tardar mucho en repararse, y Starlink no depende de él.",
+          "Un corte de luz es otro punto: la antena y el router de Starlink necesitan electricidad, y los equipos de la fibra también. Un SAI o una batería portátil dimensionados para el consumo que Starlink indica en sus especificaciones mantienen la conexión en cortes breves. Si falla la luz en todo el barrio, la red de la calle también puede caer, así que prueba el conjunto antes de depender de él."
+        ]
       },
       {
         "heading": "Velocidad y juegos",
@@ -290391,7 +292111,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit en alquiler y baja",
         "paragraphs": [
-          "En el pedido de Madrid el kit va en alquiler: 0 € de coste inicial, 0 € al mes y devolución del equipo si cancelas el servicio. La [guía de contrato y cancelación](/es/reviews/starlink-permanencia-cancelar) explica también la prueba de 30 días."
+          "En el pedido de Madrid el kit va en alquiler: 0 € de coste inicial, 0 € al mes y devolución del equipo si cancelas el servicio. No vimos permanencia de 12 meses, y hay una prueba de 30 días: si cancelas y devuelves el kit en ese plazo, se aplica el reembolso. En México, en cambio, el Standard 4 X sí lleva plazo de 12 meses.",
+          "Abrir el pedido no cuesta nada: precios, descuentos y disponibilidad solo aparecen cuando introduces tu dirección en starlink.com. El referido solo cuenta si haces el pedido por un enlace de referido, antes de pagar, en starlink.com y no en un marketplace. La [guía de contrato y cancelación](/es/reviews/starlink-permanencia-cancelar) explica las reglas de devolución."
+        ],
+        "links": [
+          {
+            "label": "Probar en mi dirección con 30 días para devolver",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -290404,33 +292132,36 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Tiene Starlink un cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de suscripción, como crédito en la factura, y quien invitó recibe el mismo valor.",
-          "¿Vale la pena Starlink en la ciudad? Con fibra estable en tu dirección, compara instalación, cuotas y condiciones antes de cambiar.",
-          "¿Es mejor Starlink que la fibra? Sin buena fibra en el lugar, merece la pena pedir precio a Starlink y comprobar que hay cielo abierto para instalar. Si hay ambas, compara estabilidad y coste en tu dirección.",
+          "¿Vale la pena Starlink en la ciudad? Depende de lo buena que sea de verdad tu fibra actual. Si es barata y estable, suele ganar en coste. Si se corta a menudo o rinde muy por debajo de lo contratado, Starlink puede valer la pena como alternativa o respaldo, siempre que tengas cielo abierto. Ese fue nuestro caso.",
+          "¿Es mejor Starlink que la fibra? En velocidad máxima y latencia, una fibra sana suele llevar ventaja. En continuidad frente a cortes locales y cables rotos en la calle, Starlink ayuda por ser una ruta independiente del operador local.",
           "¿Es buena Starlink para jugar? Prueba la latencia y los cortes en tu dirección. La latencia típica que publica Starlink es una referencia general.",
-          "¿Cuánto cuesta Starlink al mes? En la consulta de Madrid, 24,50 € el Residencial 100 Mbps y 45,50 € el Max, con la oferta activa. El precio cambia según la dirección."
+          "¿Es ilimitada Starlink? Starlink anuncia datos ilimitados en los planes residenciales. Comprueba los límites de velocidad del plan que aparece en tu pedido.",
+          "¿Cuánto cuesta Starlink al mes? En la consulta de Madrid, con la oferta, 24,50 € el Residencial 100 Mbps, 31,50 € el de 200 Mbps y 45,50 € el Máx.; los precios base son 35 €, 45 € y 65 €. El precio cambia según la dirección.",
+          "¿Se puede usar Starlink como respaldo de la fibra? Sí. Con un router Dual-WAN con failover, Starlink toma el relevo cuando la fibra cae; sin él, puedes cambiar de red a mano. Consulta el soporte de Starlink para ver qué necesita tu modelo en modo bypass."
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "no tienes una fibra buena en tu dirección y el 4G tampoco responde bien.",
-        "te vale un kit en alquiler que tendrás que devolver si cancelas, y sabes que el precio cambia según la dirección."
+        "incluso donde hay fibra barata, tu red local se corta a menudo o da muy por debajo de la velocidad contratada, y necesitas una alternativa fiable o una conexión de respaldo.",
+        "has comprobado la vista al cielo en la aplicación de Starlink y te vale un kit en alquiler que se devuelve si cancelas."
       ],
       "skipIf": [
-        "tienes una fibra estable en tu dirección y no quieres instalar una antena ni devolver un equipo.",
-        "necesitas jugar en línea con respuesta rápida, y la empresa solo publica una latencia típica en general."
+        "ya tienes una fibra realmente estable, con la velocidad contratada y sin cortes frecuentes que exijan redundancia.",
+        "necesitas jugar en línea de forma competitiva con latencia mínima garantizada: Starlink publica una latencia típica, pero no promete una cifra para tu dirección."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Introduce tu dirección en el sitio de Starlink y comprueba plan, kit y mensualidad antes de pagar.",
-      "label": "Ver planes en mi dirección",
+      "text": "Pagas el mismo precio que en el sitio oficial, conservas los 30 días para devolver el kit si no funciona en tu tejado y recibes la recompensa del programa de referidos tras cumplir las reglas.",
+      "label": "Ver mi dirección en starlink.com con el referido",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Precios leídos en la pantalla de pedido del sitio oficial. Todavía no hemos usado el servicio. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "editorialNote": "Contratamos Starlink como alternativa y conexión de respaldo ante la inestabilidad de nuestra fibra. Los precios y las condiciones del equipo de esta guía se leyeron en las pantallas públicas de pedido del sitio oficial. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
     "relatedArticles": [
       {
         "slug": "starlink-permanencia-cancelar"
@@ -290448,8 +292179,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-permanencia-cancelar",
     "translationKey": "starlink-fidelidade",
     "locale": "es",
-    "title": "¿Tiene Starlink permanencia? Kit en alquiler, 30 días de prueba y cómo cancelar",
-    "seoTitle": "¿Starlink tiene permanencia? Kit y cancelación",
+    "title": "¿Tiene Starlink permanencia? Alquiler sin contrato en España, 12 meses en México y los 30 días de prueba",
+    "seoTitle": "¿Starlink tiene permanencia? España y México",
     "type": "Guía práctica",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -290460,8 +292191,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mira qué dice el pedido sobre el kit en alquiler, qué hay que devolver al cancelar, cómo funciona la prueba de 30 días y los pasos para cancelar desde tu cuenta.",
-    "metaDescription": "Starlink: kit en alquiler que se devuelve al cancelar y prueba de 30 días con reembolso. Mira los pasos para cancelar desde la cuenta.",
+    "description": "En Madrid el kit va en alquiler, sin permanencia y con devolución al cancelar. En México, el Standard 4 X exige 12 meses. Mira los 30 días de prueba y cómo cancelar.",
+    "metaDescription": "Starlink en España: kit en alquiler sin permanencia que se devuelve al cancelar. En México hay plazo de 12 meses. Prueba de 30 días y pasos para cancelar.",
     "publishedAt": "20 de noviembre de 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -290476,22 +292207,106 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "En el pedido de Starlink que consultamos en España, el kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas el servicio. El pedido ofrece una prueba de 30 días: si cancelas y devuelves el kit en buen estado dentro de ese plazo, se reembolsan el kit y el primer mes."
+          "Depende del país y del kit. En el pedido que consultamos en Madrid no hay permanencia: el kit va en alquiler, con 0 € de coste inicial y 0 € al mes, y hay que devolverlo si cancelas. En México, en cambio, el kit se compra, y el Standard 4 X del plan Max exige un plazo de 12 meses con una tarifa de rescisión de hasta 4.600 pesos. En ambos casos hay una prueba de 30 días: si cancelas y devuelves el kit en buen estado dentro del plazo, el pedido ofrece el reembolso del kit y del primer mes."
         ]
       },
       {
-        "heading": "Qué dice el pedido sobre el contrato",
+        "heading": "España: alquiler y sin permanencia",
         "paragraphs": [
-          "En la pantalla de pedido que leímos el 20 de noviembre de 2026, con una dirección de Madrid, el hardware aparece como alquiler: coste inicial de 0 € y tarifa mensual del kit de 0 €. La frase del pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler.",
-          "No leímos en esa pantalla ninguna cláusula de permanencia ni penalización por cancelar antes de un plazo. Eso no prueba que no exista en tu caso, así que confirma el resumen de tu pedido antes de pagar."
+          "En la pantalla de pedido que leímos el 23 de noviembre de 2026 con una dirección de Madrid, los tres planes llevan el hardware en alquiler, con 0 € de coste inicial y 0 € de cuota mensual del kit. El Residencial 100 Mbps costaba 24,50 € al mes (35 € menos un 30 % de promoción hasta final de noviembre) con el Mini X; el de 200 Mbps, 31,50 € (45 € de base) con un Standard 4; y el Máx., 45,50 € (65 € de base), también con un Standard 4.",
+          "El envío costaba 19 € hoy. La instalación profesional es opcional y costaba 172 € en el 100 y el 200 Mbps, y 0 € en el Máx. La pantalla dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler. No vimos ninguna cláusula de permanencia de 12 meses ni penalización por cancelar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+            "alt": "Pantalla de planes de Starlink en Madrid con el 100 Mbps a 24,50 € al mes, el hardware en alquiler a 0 € y la nota sobre devolver el equipo alquilado",
+            "caption": "Madrid, consulta del 23/11/2026: 100 Mbps a 24,50 € al mes y hardware en alquiler a 0 €.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.622
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+            "alt": "Resumen del pedido de Starlink en Madrid con 35 € menos 10,50 €, el Mini X en alquiler a 0 € y 19 € que se pagan hoy",
+            "caption": "Resumen del pedido en Madrid, consulta del 23/11/2026: 35 € menos 10,50 €, Mini X a 0 € y 19 € hoy.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.726
+          }
+        ],
+        "links": [
+          {
+            "label": "Consultar planes y permanencia en mi dirección",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
+      },
+      {
+        "heading": "México: aquí sí hay un plazo de 12 meses",
+        "paragraphs": [
+          "Con una dirección de la Ciudad de México, el único plan que apareció fue el Residencial Max, a 1.485 pesos al mes más 55 pesos de costo del servicio regulatorio. Aquí no hay alquiler de 0 €: el kit se compra. El Standard 4 X salía en 5.743 pesos (7.599 menos 1.856 de descuento), 6.218 pesos hoy con el envío, y el resumen incluye \"Plazo de 12 meses\" con una tarifa de rescisión anticipada de hasta 4.600 pesos.",
+          "El Kit Starlink Mini salía en 2.303 pesos (2.999 menos 696), 2.778 pesos hoy, y el resumen no mostró el botón de plazo de 12 meses para él. Es el mismo plan y el mismo servicio con dos kits distintos, y solo uno de ellos te ata un año."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-mx-resumen-12-meses.webp",
+          "alt": "Resumen del pedido de Starlink en México con el plan Max, el Standard 4 X con descuento y el aviso de Plazo de 12 meses con tarifa de hasta 4.600 pesos",
+          "caption": "Ciudad de México, consulta del 23/11/2026: Standard 4 X con 12 meses de plazo y rescisión de hasta 4.600 pesos.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.4862
+        }
+      },
+      {
+        "heading": "Los dos mercados lado a lado",
+        "paragraphs": [
+          "La tabla reúne lo que mostró cada pantalla. Es la foto de una dirección en cada país, no una regla para todo el país."
+        ],
+        "comparisonTable": {
+          "caption": "Valores leídos en la pantalla de pedido de cada dirección; el 30 % de descuento en España llegaba hasta final de noviembre.",
+          "headers": [
+            "Qué mostró el pedido",
+            "España (Madrid)",
+            "México (Ciudad de México)"
+          ],
+          "rows": [
+            [
+              "Kit",
+              "Alquiler a 0 € y 0 € al mes",
+              "Compra: Standard 4 X o Kit Mini"
+            ],
+            [
+              "Planes",
+              "100 Mbps a 24,50 €, 200 Mbps a 31,50 € y Máx. a 45,50 €",
+              "Solo Residencial Max, a 1.485 pesos más 55 pesos regulatorios"
+            ],
+            [
+              "Permanencia",
+              "Sin plazo de 12 meses",
+              "Standard 4 X: 12 meses; Kit Mini: sin botón de plazo en el resumen"
+            ],
+            [
+              "Penalización",
+              "No aparece en la pantalla",
+              "Hasta 4.600 pesos en el Standard 4 X"
+            ],
+            [
+              "Al cancelar",
+              "Devolver el hardware alquilado",
+              "Prueba de 30 días con el kit en buen estado"
+            ],
+            [
+              "Envío hoy",
+              "19 €",
+              "475 pesos"
+            ]
+          ]
+        }
       },
       {
         "heading": "Los 30 días de prueba",
         "paragraphs": [
           "Para pedir el reembolso del kit y del primer mes en las condiciones de la oferta, cancela el servicio y devuelve el equipo en buen estado dentro de los 30 días.",
           "Cancelar la suscripción detiene los cobros futuros según el ciclo. Con el soporte de Starlink, confirma cómo abrir también la devolución del kit y guarda el justificante del envío.",
-          "El [enlace de referido de Starlink](/es/coupons/starlink) abre el mismo pedido en el sitio oficial. Comprueba las condiciones de devolución en el resumen del tuyo antes de pagar."
+          "El [enlace de referido de Starlink](/es/coupons/starlink) abre el mismo pedido en el sitio oficial. Comprueba las condiciones de devolución en el resumen del tuyo antes de pagar.",
+          "La penalización de México solo importa si pasan los 30 días con el kit subsidiado de 12 meses. En el alquiler de España, lo que cuenta pasado ese plazo es devolver el equipo cuando canceles."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
@@ -290500,7 +292315,14 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
-        "emphasis": "Según las condiciones del pedido, cancelar y devolver el kit en buen estado dentro de los 30 días es lo que da derecho al reembolso del kit y del primer mes, y el justificante del envío es la prueba que lo decide."
+        "emphasis": "Según las condiciones del pedido, cancelar y devolver el kit en buen estado dentro de los 30 días es lo que da derecho al reembolso del kit y del primer mes, y el justificante del envío es la prueba que lo decide.",
+        "links": [
+          {
+            "label": "Ver planes con 30 días de prueba en starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Cómo cancelar",
@@ -290528,6 +292350,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Precio promocional y cambio de plan",
+        "paragraphs": [
+          "En los pedidos que leímos, el precio promocional era un 30 % menos sobre la cuota mensual, con vigencia hasta final de noviembre. Starlink avisa en otros mercados que el precio mensual indicado no tiene una duración fija y que puede actualizarse con 30 días de aviso, así que no des por hecho que el promocional dura para siempre. Cancelar o cambiar de plan puede además terminar un precio promocional, así que lee las condiciones de tu pedido antes de cambiar nada."
+        ]
+      },
+      {
+        "heading": "Antes de pagar: revisa tu pedido",
+        "paragraphs": [
+          "El referido solo cuenta si el pedido nace de un enlace de referido, abierto antes de pagar y en starlink.com. Después del pago, o en un marketplace, no se puede añadir. Abrir el enlace no te compromete a nada: tu dirección muestra cuál de los modelos te toca, y los 30 días cubren la prueba. El crédito llega a la factura tras dos meses de servicio y no rebaja el precio del kit."
+        ],
+        "checklist": {
+          "title": "Antes de pagar",
+          "items": [
+            "Abrí el pedido desde el enlace de referido, en la misma ventana, antes de pagar.",
+            "Comprobé que la barra del navegador sigue en starlink.com antes de escribir cualquier dato.",
+            "Hice la prueba de obstrucciones en la app de Starlink en el punto donde irá la antena.",
+            "Leí en el resumen del pedido la línea del hardware, la cuota mensual y si menciona un plazo de 12 meses.",
+            "Guardé una captura del resumen con la cuota mensual y la regla de los 30 días antes de pagar."
+          ]
+        }
+      },
+      {
         "heading": "Si el cobro continúa",
         "paragraphs": [
           "Si el cobro continúa, abre una solicitud en Starlink con el número de pedido, la fecha de la cancelación y el número de caso, si lo hay.",
@@ -290538,8 +292382,9 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Tiene Starlink cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España tras dos meses de servicio, como crédito en la factura, y quien lo recomendó recibe el mismo valor.",
-          "¿Tiene Starlink permanencia? En el pedido consultado en España el kit iba en alquiler, sin coste inicial ni cuota. Confirma en el resumen de tu pedido si hay otras condiciones.",
-          "¿Hay que devolver el kit al cancelar? Sí. El pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler.",
+          "¿Tiene Starlink permanencia? En el pedido consultado en Madrid, no: el kit iba en alquiler, sin coste inicial ni cuota y sin plazo de 12 meses. En México, el Standard 4 X exige 12 meses. Confirma en el resumen de tu pedido qué condiciones te tocan.",
+          "¿Hay que devolver el kit al cancelar? En España, sí: el pedido dice que, si cancelas el servicio, tendrás que devolver el hardware de Starlink en alquiler. Si compras el kit, como en México, lo que cuenta es el plazo de 30 días.",
+          "¿Cuánto cuesta cancelar Starlink? En el pedido de Madrid no vimos ninguna penalización. En México, el resumen del Standard 4 X avisa de una tarifa de rescisión anticipada de hasta 4.600 pesos.",
           "¿Puedo cancelar Starlink en cualquier momento? La solicitud se hace desde la cuenta. Comprueba en tu pedido si hay alguna condición para cancelar antes de cierto plazo.",
           "¿Se puede devolver Starlink en 30 días? El pedido ofrece una prueba de 30 días: cancela y devuelve el kit en buen estado dentro del plazo para el reembolso del kit y del primer mes.",
           "¿Qué pasa si cancelo y me arrepiento? Busca «Reanudar» en la página de inicio antes de que termine el periodo pagado. Reactivar después depende de la disponibilidad."
@@ -290563,7 +292408,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "puedes devolver el kit en alquiler en buen estado dentro de los 30 días si cancelas.",
+        "puedes devolver el kit en alquiler en buen estado dentro de los 30 días si cancelas y prefieres no tener permanencia.",
         "vas a leer las condiciones en el resumen de tu propio pedido antes de pagar."
       ],
       "skipIf": [
@@ -290572,8 +292417,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "El pedido se abre en el sitio de Starlink. Comprueba la permanencia, los costes y la devolución del kit antes de pagar.",
-      "label": "Consultar las condiciones en mi dirección",
+      "text": "El pedido se abre en starlink.com con el enlace de referido, que tiene que venir antes de pagar. Pagas el mismo precio que en la web, ves la permanencia de tu dirección y conservas los 30 días para devolver el kit. El crédito llega tras dos meses de servicio.",
+      "label": "Consultar permanencia y plan en mi dirección",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -290611,7 +292456,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Starlink es el servicio de internet por satélite de SpaceX y su sitio oficial es starlink.com. En Trustpilot, el perfil que apunta a starlink.com se llama «Starlink Development». Si compras el kit en otro sitio, consulta la lista de distribuidores autorizados de Starlink y comprueba quién es el vendedor del anuncio antes de pagar."
+          "Sí, Starlink es fiable: es el servicio oficial de internet por satélite de SpaceX y vende directamente en starlink.com. Nosotros mismos contratamos Starlink como alternativa a una fibra local inestable. La precaución está en las webs imitadas y los anuncios fuera del canal oficial: en Trustpilot, el perfil que apunta a starlink.com es «Starlink Development», y si compras el kit en otro sitio, comprueba al vendedor en la lista de distribuidores autorizados antes de pagar."
         ]
       },
       {
@@ -290632,7 +292477,22 @@ export const reviewsData: unknown[] = [
         "heading": "Cómo reconocer el sitio oficial",
         "paragraphs": [
           "Escribe starlink.com en el navegador. Antes de dar datos o pagar, comprueba que sigues dentro de starlink.com.",
-          "Revisa en el pedido, con tu propia dirección, el plan, el kit (alquiler o compra), los impuestos y la permanencia. Si alguien te pide pagar por mensaje o fuera del pedido, confirma con el soporte de Starlink antes de seguir."
+          "Revisa en el pedido, con tu propia dirección, el plan, el kit (alquiler o compra), los impuestos y la permanencia. Si alguien te pide pagar por mensaje o fuera del pedido, confirma con el soporte de Starlink antes de seguir.",
+          "Una forma sencilla de no equivocarte de dirección es abrir el pedido con un enlace de referido: lleva directo al pedido en starlink.com y aun así compruebas la barra del navegador antes de dar datos. El precio es el mismo que en el sitio oficial, y el referido solo cuenta si el pedido empieza con un enlace de referido, antes de pagar."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "alt": "Pantalla oficial de selección de planes residenciales en starlink.com para Madrid",
+          "caption": "Pantalla de planes en starlink.com para una dirección de Madrid, consultada el 23 de noviembre de 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.622
+        },
+        "links": [
+          {
+            "label": "Abrir el pedido oficial en starlink.com con el referido",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -290658,7 +292518,14 @@ export const reviewsData: unknown[] = [
             "label": "Lista de distribuidores autorizados de Starlink",
             "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Piezas de un kit Starlink sobre fondo oscuro: base, soporte y cables",
+          "caption": "Piezas de un kit Starlink. Foto de Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Qué muestra Trustpilot",
@@ -290666,6 +292533,29 @@ export const reviewsData: unknown[] = [
           "En Trustpilot, el perfil de starlink.com tiene un TrustScore de 1,6 sobre 5 con 879 reseñas: el 71 % son de 1 estrella y el 17 %, de 5. El perfil no está reclamado, es decir, Starlink no lo gestiona, y ha respondido al 0 % de las reseñas.",
           "Leímos las 40 reseñas de 1 estrella y las 40 de 5 estrellas más recientes. En las de 1 estrella, las quejas más comunes son un soporte que solo es un bot o un chat (cerca de 1 de cada 3), cortes y poca velocidad (cerca de 1 de cada 3), una cuota mensual que subió tras contratar (cerca de 1 de cada 4), cobros y cancelaciones difíciles (cerca de 1 de cada 4), instaladores de empresas colaboradoras que se retrasan o no aparecen (cerca de 1 de cada 4) y un kit retrasado o no recibido (cerca de 1 de cada 5). Las de 5 estrellas elogian la velocidad y la estabilidad (cerca de la mitad), la instalación fácil (cerca de 1 de cada 3) y no tener otra buena opción de internet (cerca de 1 de cada 4). Las cifras son nuestras y aproximadas.",
           "Interpreta la nota con cuidado: un perfil no reclamado no envía invitaciones tras la compra, y quien lo abre suele ir a quejarse. Los elogios hablan de la señal; las quejas, de soporte, precio y cobro, y pocas reseñas de 1 estrella dicen que la señal sea mala todo el tiempo. El resumen automático de Trustpilot, basado en 355 reseñas recientes, apunta en la misma dirección. Nuestra [lectura completa del perfil de Trustpilot](/es/reviews/starlink-trustpilot-opiniones) trae las cifras."
+        ]
+      },
+      {
+        "heading": "Lista de comprobación antes de pagar",
+        "paragraphs": [
+          "Cinco comprobaciones rápidas valen para cualquier dirección y llevan pocos minutos."
+        ],
+        "checklist": {
+          "title": "Antes de cerrar el pedido",
+          "items": [
+            "Abrí el pedido con el enlace de referido, en la misma ventana del navegador, para que el referido cuente.",
+            "Comprobé que la barra del navegador sigue en starlink.com antes de escribir ningún dato.",
+            "Pasé la prueba de obstrucciones de la app de Starlink en el punto previsto para la antena, para confirmar cielo abierto.",
+            "Leí en el resumen del pedido el plan, el kit, el total y si hay permanencia.",
+            "Guardé una captura del resumen con la cuota mensual y la regla de los 30 días antes de pagar."
+          ]
+        },
+        "links": [
+          {
+            "label": "Comprobar la disponibilidad en mi dirección en starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -290683,7 +292573,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Starlink tiene cupón de descuento? No. Starlink no tiene cupón: con el enlace de referido de Cecília, quien se suscribe recibe 45 € en España después de dos meses de servicio, como crédito en la factura, y quien lo invitó recibe el mismo importe.",
-          "¿Es fiable Starlink? Starlink es el servicio de internet por satélite de SpaceX. Comprueba que estás en starlink.com y usa la lista de distribuidores autorizados si compras en otro sitio.",
+          "¿Es fiable Starlink? Sí, Starlink es el servicio oficial de internet por satélite de SpaceX. Para comprar sin riesgos, comprueba que estás en starlink.com o verifica al vendedor en la lista oficial de distribuidores autorizados antes de pagar.",
           "¿Cuál es el sitio oficial de Starlink? El sitio oficial es starlink.com.",
           "¿Cómo confirmo que un vendedor está autorizado? Consulta la lista de distribuidores de Starlink y comprueba quién es el vendedor del anuncio antes de pagar.",
           "¿Compro en el sitio oficial o en un distribuidor? En starlink.com el pedido muestra plan, kit, impuestos y permanencia para tu dirección antes de pagar, y el referido solo vale ahí. Un distribuidor de la lista oficial es un vendedor legítimo, pero el referido no se aplica."
@@ -290693,7 +292583,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Elaborado con el sitio oficial, el centro de ayuda y el perfil público de Trustpilot. Participamos en el programa de referidos de Starlink y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
+    "editorialNote": "Elaborado con el sitio oficial, el centro de ayuda y el perfil público de Trustpilot. Contratamos Starlink como alternativa y respaldo ante una fibra local inestable. Participamos en el programa de referidos y podemos recibir una recompensa si te suscribes con nuestro enlace y cumples las reglas.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-opiniones"
@@ -290716,8 +292606,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Introduce tu dirección en el sitio de Starlink y revisa plan, kit y cuota mensual antes de pagar.",
-      "label": "Ver planes en tu dirección",
+      "text": "Abre el pedido con el enlace de referido, comprueba que la barra sigue en starlink.com y mira plan, kit y total para tu dirección antes de pagar. El precio es el del sitio oficial.",
+      "label": "Ver mi dirección en starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -290811,6 +292701,36 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "Trustpilot, perfil de starlink.com, leído el 23 de noviembre de 2026."
+        },
+        "metrics": {
+          "items": [
+            {
+              "label": "TrustScore",
+              "value": "1,6",
+              "unit": "/5",
+              "note": "Perfil sin reclamar"
+            },
+            {
+              "label": "Opiniones totales",
+              "value": "879",
+              "note": "Solo orgánicas"
+            },
+            {
+              "label": "Respuestas de la empresa",
+              "value": "0%",
+              "note": "0 de 464 negativas"
+            },
+            {
+              "label": "1 estrella vs 5 estrellas",
+              "value": "71%",
+              "unit": "vs 17%",
+              "note": "Soporte y facturación a la cabeza"
+            }
+          ],
+          "summary": {
+            "badge": "Leer la diferencia",
+            "text": "Los elogios se centran en la velocidad y la estabilidad de la señal; las quejas se concentran en el soporte automatizado, la facturación y los cambios de precio."
+          }
         }
       },
       {
@@ -290860,15 +292780,32 @@ export const reviewsData: unknown[] = [
         "heading": "Qué significa para quien se suscribe",
         "paragraphs": [
           "Antes de pagar, revisa el plan, el kit (alquiler o compra), los impuestos y el contrato en starlink.com para tu propia dirección: cambian según el país e incluso según la dirección. Guarda una captura de la oferta del día del pedido y compara cada factura con ella.",
+          "La defensa más sencilla es pedir directamente en starlink.com y guardar la captura del resumen del pedido, con el precio, el kit, el contrato y la indicación aplicada. Después, compara la primera factura con esa captura. La indicación solo cuenta en el pedido abierto con un enlace de indicación, antes de pagar, y no se puede añadir después.",
           "Las reglas del kit en alquiler y de la devolución están en la [guía de contrato, baja y reembolso](/es/reviews/starlink-permanencia-cancelar)."
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "Antena Starlink fijada al tejado de una casa de madera",
-          "caption": "Antena residencial instalada. Foto de Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
-        }
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+            "alt": "Pantalla de planes de Starlink para Madrid: Residencial 100 Mbps a 24,50 € al mes, con el equipo en alquiler a 0 €",
+            "caption": "Madrid, plan de 100 Mbps: cuota mensual, equipo en alquiler a 0 € y el aviso de devolver el alquilado. El tipo de pantalla que conviene guardar. Consulta del 23 de noviembre de 2026.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.622
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "Antena Starlink fijada al tejado de una casa de madera",
+            "caption": "Antena residencial instalada. Foto de Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ],
+        "links": [
+          {
+            "label": "Abrir el pedido oficial en starlink.com y revisar mi zona",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Cómo reclamar",
@@ -290880,15 +292817,32 @@ export const reviewsData: unknown[] = [
             "label": "Perfil de Starlink en Trustpilot",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "Componentes del kit Starlink Standard: antena, router, soporte y cables",
+            "caption": "Kit Starlink Standard: antena, router, soporte y cables. Foto de Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "Antes de suscribirte",
         "paragraphs": [
           "Antes de suscribirte, revisa el sitio y las condiciones. Cómo reconocer el sitio oficial y los perfiles que usan el nombre está en [¿es fiable Starlink?](/es/reviews/starlink-es-fiable).",
+          "Abrir el pedido no te compromete a nada: plan, precio, disponibilidad y condiciones del contrato solo aparecen cuando escribes tu dirección. La política de 30 días de Starlink prevé el reembolso si cancelas y devuelves el kit sin daños en ese plazo, según indique tu pedido; en un kit subvencionado con contrato, comprueba si hay penalización pasados los 30 días.",
           "La página de la [indicación de Starlink](/es/coupons/starlink) tiene el enlace y las reglas del programa. Una indicación no es un cupón: la recompensa llega como crédito en la factura después de dos meses de suscripción, y los planes Prioritario, Enterprise y Comercial no la reciben."
         ],
-        "emphasis": "Por los números de la tabla, para quien no tiene una buena alternativa de internet en su dirección, suscribirse es razonable si antes comprueba plan, kit, impuestos y contrato en starlink.com para esa dirección, porque el 1,6 refleja quejas de atención, facturación y precio más que de calidad de la señal."
+        "emphasis": "Por los números de la tabla, para quien no tiene una buena alternativa de internet en su dirección, suscribirse es razonable si antes comprueba plan, kit, impuestos y contrato en starlink.com para esa dirección, porque el 1,6 refleja quejas de atención, facturación y precio más que de calidad de la señal.",
+        "links": [
+          {
+            "label": "Comprobar la disponibilidad en mi dirección en starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Preguntas frecuentes",
@@ -290927,8 +292881,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Indica tu dirección en el sitio de Starlink y revisa plan, kit y cuota mensual antes de pagar.",
-      "label": "Ver planes en tu dirección",
+      "text": "Abre el pedido con el enlace de indicación, revisa plan, kit y contrato en tu dirección y guarda la captura del resumen antes de pagar. El precio es el del sitio oficial.",
+      "label": "Abrir mi pedido en starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -290938,8 +292892,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-lien-parrainage",
     "translationKey": "starlink-indicacao",
     "locale": "fr",
-    "title": "Lien de parrainage Starlink : comment l'utiliser et quand la récompense arrive",
-    "seoTitle": "Parrainage Starlink : utiliser le lien et être récompensé",
+    "title": "Comment gagner 45 € en France en achetant votre premier Starlink via le lien de parrainage",
+    "seoTitle": "Comment gagner 45 € sur votre premier Starlink",
     "type": "Guide du code de parrainage",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -290950,8 +292904,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Ouvrez le lien sur le site officiel et vérifiez la récompense sur la commande avant de payer. Qui peut l'utiliser, quand le montant arrive, crédit de service ou argent.",
-    "metaDescription": "Comment ouvrir le lien de parrainage Starlink, trouver le montant sur la commande et recevoir la récompense une fois les conditions du programme remplies.",
+    "description": "Starlink n'a pas de code promo : commandez votre premier kit avec le lien officiel de parrainage, payez le même prix et recevez 45 € en France après deux mois.",
+    "metaDescription": "Comment recevoir 45 € en France lors de votre première commande Starlink, ce que cela couvre sur les forfaits et comment activer le lien avant de payer.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -290966,21 +292920,132 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Ouvrez le lien de parrainage Starlink et saisissez votre adresse. Avant de payer, repérez la confirmation que le parrainage est appliqué et lisez le montant de la récompense sur la commande. Elle s'adresse aux nouveaux clients et arrive après deux cycles mensuels complets, en crédit de service ou en argent quand le compte propose cette option."
+          "Starlink ne propose aucun code promo à saisir au panier : en plus des offres de son site, passer par un lien de parrainage est le moyen officiel d'obtenir une récompense sur votre premier abonnement. En France, elle est de 45 € (dans un autre pays, le montant en euros ou en devise locale s'affiche sur la commande). Vous payez le même tarif que sur starlink.com et gardez l'essai de 30 jours ; avec le forfait Résidentiel 100 Mbit/s à 24,50 €/mois à Paris, 45 € couvrent presque deux mois. Ouvrez le lien avant de commander, vérifiez la mention du parrainage avant de payer, activez le kit et gardez l'abonnement à jour pendant deux cycles mensuels. Une commande finalisée sans le lien ne peut plus être corrigée."
         ]
+      },
+      {
+        "heading": "Pourquoi commander avec le lien",
+        "paragraphs": [
+          "Si vous ouvrez starlink.com de votre côté, le matériel et la mensualité coûtent la même chose qu'avec le lien. La différence, ce sont les 45 € que vous laisseriez de côté. Le crédit ne baisse pas le prix du kit le jour de la commande : il arrive sur votre facture après deux cycles mensuels complets et payés.",
+          "Les chiffres ci-dessous viennent d'adresses de référence. À votre adresse, le prix, le kit et les conditions peuvent être différents, et seule la commande les affiche."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "alt": "Page de commande Starlink pour Paris avec le forfait Résidentiel 100 Mbit/s à 24,50 € par mois, 0 € de matériel et l'indication de rendre le matériel loué",
+          "caption": "Paris : les forfaits de la page de commande, consultés le 23 novembre 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5909
+        },
+        "comparisonTable": {
+          "caption": "Tarifs lus sur starlink.com le 23 novembre 2026, sans finaliser d'achat. Ils incluent la promotion de 30 % ; Starlink indique que le prix mensuel n'a pas de durée fixe et peut changer avec un préavis de 30 jours. Le crédit n'est pas une remise au paiement : il arrive après deux cycles complets.",
+          "headers": [
+            "Scénario lu sur starlink.com",
+            "Sans lien de parrainage",
+            "Avec le lien de Cecília",
+            "Ce que couvre le crédit"
+          ],
+          "rows": [
+            [
+              "France, Résidentiel 100 Mbit/s (Paris)",
+              "24,50 €/mois (35 € hors promotion), 0 € de location, 19 € aujourd'hui",
+              "Même commande + 45 € de crédit après 2 cycles payés",
+              "Presque 2 mois du forfait 100 Mbit/s et plus du double des frais de port"
+            ],
+            [
+              "France, Résidentiel 200 Mbit/s (Paris)",
+              "31,50 €/mois (45 €), 0 € de location",
+              "Même commande + 45 € de crédit",
+              "Plus d'un mois du forfait 200 Mbit/s"
+            ],
+            [
+              "France, Résidentiel Max (Paris)",
+              "45,50 €/mois (65 €), 0 € de location",
+              "Même commande + 45 € de crédit",
+              "Presque un mois complet du Max"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Ouvrir ma commande avec les 45 € de parrainage",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "simulator": {
+          "title": "Testez votre scénario",
+          "scenarios": [
+            {
+              "label": "Paris 100 Mbit/s + lien",
+              "lines": [
+                {
+                  "label": "Location du kit Mini X",
+                  "value": "0 €, à rendre en cas de résiliation"
+                },
+                {
+                  "label": "Mensualité avec la promotion",
+                  "value": "24,50 €/mois"
+                },
+                {
+                  "label": "Crédit de parrainage après 2 cycles payés",
+                  "value": "-45 € sur la facture",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Crédit par rapport à la mensualité",
+              "totalValue": "Presque 2 mois couverts",
+              "note": "Vous payez le même prix que sur le site et gardez les 30 jours d'essai."
+            },
+            {
+              "label": "Paris Max + lien",
+              "lines": [
+                {
+                  "label": "Location du kit Standard 4",
+                  "value": "0 €, à rendre en cas de résiliation"
+                },
+                {
+                  "label": "Mensualité avec la promotion",
+                  "value": "45,50 €/mois"
+                },
+                {
+                  "label": "Crédit de parrainage après 2 cycles payés",
+                  "value": "-45 € sur la facture",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Crédit par rapport à la mensualité",
+              "totalValue": "Presque 1 mois couvert",
+              "note": "19 € sont dus aujourd'hui ; le crédit arrive plus tard, pas au paiement."
+            },
+            {
+              "label": "Commande sans lien de parrainage",
+              "lines": [
+                {
+                  "label": "Prix du kit et du forfait",
+                  "value": "Le même qu'avec le lien"
+                },
+                {
+                  "label": "Crédit de parrainage",
+                  "value": "0 €, impossible à ajouter après"
+                },
+                {
+                  "label": "Récompense laissée de côté",
+                  "value": "45 € en France",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Récompense de parrainage reçue",
+              "totalValue": "0 €",
+              "note": "Le parrainage doit figurer sur la commande initiale, avant le paiement."
+            }
+          ]
+        }
       },
       {
         "heading": "Comment utiliser le lien, pas à pas",
         "paragraphs": [
           "Ouvrez le lien depuis la [page du parrainage Starlink](/fr/coupons/starlink) et indiquez l'adresse où vous utiliserez le service."
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
-          "alt": "Maison avec l'antenne Starlink installée sur le toit",
-          "caption": "L'antenne installée sur un toit, ciel dégagé. Photo Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.4995
-        },
         "bullets": [
           "Choisissez un forfait Résidentiel ou Voyage éligible sur la commande.",
           "Repérez le message indiquant que le parrainage est appliqué, puis vérifiez la récompense et le total à payer.",
@@ -290989,17 +293054,62 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Contrôlez ce point avant de payer. Starlink indique que le parrainage doit figurer sur la commande initiale."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Écran de commande sur le site officiel de Starlink avec le message Referral Code Applied, qui indique que vous et votre ami recevez chacun 100 $, en argent ou en crédit de service",
+          "caption": "Commande sur le site officiel avec le lien de parrainage appliqué (exemple du Nevada, États-Unis).",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "Liste de contrôle avant de payer",
+        "paragraphs": [
+          "Cochez chaque point à l'écran avant de payer. Cela prend deux minutes et décide si le crédit figure sur votre commande."
+        ],
+        "checklist": {
+          "title": "Avant de valider la commande",
+          "items": [
+            "J'ai ouvert la commande avec le lien de parrainage de Cecília dans cette même fenêtre, pour ne pas perdre le crédit.",
+            "J'ai vérifié que la barre d'adresse reste sur starlink.com avant de saisir la moindre donnée.",
+            "J'ai lancé le test d'obstructions de l'application Starlink à l'endroit prévu pour confirmer que le ciel est dégagé.",
+            "J'ai vu dans le récapitulatif de la commande la mention du parrainage appliqué, le prix du kit et s'il y a un engagement de 12 mois.",
+            "J'ai enregistré une capture du récapitulatif avec la mensualité et la règle des 30 jours avant de payer."
+          ]
+        }
       },
       {
         "heading": "Combien cela rapporte et quand la récompense arrive",
         "paragraphs": [
           "Le montant dépend du pays où la personne s'inscrit et s'affiche sur la commande ou dans le compte. Celui qui parraine reçoit la même somme, en argent ou en crédit de service.",
           "L'abonnement doit rester actif et à jour pendant deux cycles mensuels complets. Le centre d'aide de Starlink indique que le versement peut commencer à partir de 60 jours après l'activation, selon le pays, le compte et la vérification d'identité.",
-          "Le crédit sur la facture est le mode par défaut. Si votre compte propose le paiement en argent, ouvrez l'onglet Parrainages depuis le navigateur, choisissez le mode de récompense."
+          "Le crédit sur la facture est le mode par défaut. Si votre compte propose le paiement en argent, ouvrez l'onglet Parrainages depuis le navigateur, choisissez le mode de récompense. Le crédit arrive sur la facture et ne réduit pas le prix du kit sur la commande."
         ],
         "emphasis": "La récompense n'est versée qu'après deux cycles mensuels complets d'abonnement actif et à jour, par défaut en crédit sur la facture, et la personne qui s'abonne et celle qui parraine reçoivent le même montant ; celui de votre pays s'affiche sur la commande.",
         "emphasisAfterParagraph": 3
+      },
+      {
+        "heading": "Ouvrir le lien engage-t-il à quelque chose ? Le test de 30 jours",
+        "paragraphs": [
+          "Ouvrir le lien n'engage à rien. Le prix du forfait, le kit, la disponibilité et l'existence d'un engagement n'apparaissent qu'une fois votre adresse saisie sur starlink.com.",
+          "Après le paiement, Starlink laisse 30 jours pour rendre le kit, selon les conditions de sa page. Si l'antenne ne fonctionne pas sur votre toit, vous pouvez résilier et renvoyer le matériel dans ce délai.",
+          "C'est pourquoi le lien passe avant le test : le parrainage ne compte que sur la commande initiale. Qui teste sans lui paie la même chose le premier jour et perd les 45 € s'il décide de garder l'antenne."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "Maison avec l'antenne Starlink installée sur le toit",
+          "caption": "L'antenne installée sur un toit, ciel dégagé. Photo Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        },
+        "links": [
+          {
+            "label": "Sécuriser la récompense avant de commander",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Qui peut en profiter",
@@ -291016,15 +293126,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Et l'offre Black Friday ?",
+        "heading": "Quatre erreurs qui font perdre le crédit même après avoir cliqué",
         "paragraphs": [
-          "La page de commande officielle annonçait 30 % de réduction sur les forfaits pour les inscriptions avant le 30 novembre. Le parrainage et l'offre sont deux lignes distinctes. Regardez sur votre commande si les deux apparaissent. Le détail est dans notre [calcul de la Black Friday Starlink](/fr/reviews/starlink-black-friday-offre)."
+          "La plupart des crédits perdus viennent de l'un de ces quatre oublis."
+        ],
+        "bullets": [
+          "Acheter le kit chez un revendeur ou sur une place de marché. Le programme ne compte que les commandes passées sur starlink.com via le lien.",
+          "Payer sans vérifier la mention. Le parrainage doit figurer sur la commande initiale et ne peut pas être ajouté après : sans la mention à l'écran, rouvrez le lien avant de payer. Si vous changez d'appareil ou de navigateur en cours de commande, rouvrez le lien et vérifiez de nouveau la mention.",
+          "Utiliser le lien en étant ou en ayant été client. Le crédit est réservé à ceux qui s'abonnent à Starlink pour la première fois.",
+          "Résilier trop tôt. Le crédit exige un abonnement actif et à jour pendant deux cycles mensuels complets, et le versement peut commencer à partir de 60 jours après l'activation."
         ]
       },
       {
-        "heading": "Comment suivre un parrainage",
+        "heading": "Et l'offre Black Friday ?",
         "paragraphs": [
-          "Dans l'onglet Parrainages du site ou de l'application, suivez l'état des personnes inscrites par votre lien. Starlink prévient par e-mail quand quelqu'un passe commande. Un parrainage peut passer par une vérification d'éligibilité avant de donner droit à la récompense."
+          "La page de commande officielle annonçait 30 % de réduction sur les forfaits pour les inscriptions avant le 30 novembre. Le parrainage et l'offre sont deux lignes distinctes. Regardez sur votre commande si les deux apparaissent. Le détail est dans notre [calcul de la Black Friday Starlink](/fr/reviews/starlink-black-friday-offre).",
+          "Dans le récapitulatif de la commande à Paris pour le forfait 100 Mbit/s, Starlink affichait 35 € moins 10,50 € (30 %), le kit Mini X en location à 0 € et 19 € à payer aujourd'hui. Si l'engagement vous inquiète, lisez le [guide de l'engagement et de la résiliation Starlink](/fr/reviews/starlink-engagement-resilier) et [Starlink vaut-il le coup](/fr/reviews/starlink-vaut-il-le-coup)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+          "alt": "Récapitulatif de la commande Starlink à Paris : 35 € moins 10,50 €, kit Mini X à 0 € et 19 € à payer aujourd'hui",
+          "caption": "Paris : récapitulatif de la commande du forfait Résidentiel 100 Mbit/s, consulté le 23 novembre 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.6625
+        }
+      },
+      {
+        "heading": "Comment suivre un parrainage et utiliser votre propre lien",
+        "paragraphs": [
+          "Dans l'onglet Parrainages du site ou de l'application, suivez l'état des personnes inscrites par votre lien. Starlink prévient par e-mail quand quelqu'un passe commande. Un parrainage peut passer par une vérification d'éligibilité avant de donner droit à la récompense.",
+          "Une fois client actif d'un forfait Résidentiel ou Voyage, vous pouvez à votre tour parrainer, et celui qui parraine reçoit le même montant que le nouveau client. Le montant de votre pays s'affiche sur la commande de la personne qui s'abonne."
         ]
       },
       {
@@ -291036,15 +293167,16 @@ export const reviewsData: unknown[] = [
           "Quand la récompense arrive-t-elle ? Le centre d'aide indique que le versement peut commencer à partir de 60 jours après l'activation, si le parrainage remplit les conditions du programme.",
           "Le parrainage fonctionne-t-il chez un revendeur ? Le programme exige un achat directement sur starlink.com via le lien.",
           "J'ai déjà été client, puis-je utiliser le lien ? La récompense est réservée à ceux qui souscrivent à Starlink pour la première fois.",
-          "Faut-il saisir un code ? Non. Le lien applique le parrainage, et la confirmation apparaît sur la commande."
+          "Faut-il saisir un code ? Non. Le lien applique le parrainage, et la confirmation apparaît sur la commande.",
+          "Peut-on ajouter le parrainage après avoir payé ? Non. Starlink exige que le parrainage figure sur la commande initiale, passée sur starlink.com avec un lien de parrainage, avant le paiement."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Vérifiez sur la commande la récompense affichée pour votre adresse avant de payer.",
-      "label": "Voir le parrainage sur la commande",
+      "text": "Vous payez exactement le même prix que sur le site officiel, gardez les 30 jours pour rendre le kit s'il ne fonctionne pas sur votre toit et sécurisez 45 € de crédit en France après deux cycles mensuels.",
+      "label": "Activer mes 45 € sur starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -291077,8 +293209,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-offre",
     "translationKey": "starlink-black-friday",
     "locale": "fr",
-    "title": "Black Friday Starlink 2026 : 30 % sur les forfaits, kit loué à 0 € et la récompense du parrainage",
-    "seoTitle": "Black Friday Starlink 2026 : 30 % et kit loué à 0 €",
+    "title": "Black Friday Starlink 2026 : 100 Mbit/s à 24,50 €, kit loué à 0 € et la récompense du parrainage",
+    "seoTitle": "Black Friday Starlink 2026 : 24,50 € par mois, kit loué à 0 €",
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -291089,8 +293221,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Sur la commande officielle, 24,50 € par mois pour le 100 Mbit/s et un kit loué à 0 €. Voyez comment le parrainage entre dans le calcul et comment vérifier votre adresse.",
-    "metaDescription": "Starlink Black Friday : 30 % sur les forfaits et kit loué à 0 €, en zones sélectionnées. Voyez le calcul avec le parrainage et vérifiez votre adresse.",
+    "description": "À Paris, la commande Starlink affichait le 100 Mbit/s à 24,50 € par mois et le kit loué à 0 €. Voyez le calcul de la première commande et comment entre le parrainage.",
+    "metaDescription": "Starlink Black Friday : 30 % sur les forfaits et kit loué à 0 €. Voyez les prix de Paris, le retour du kit et comment le parrainage entre dans le calcul.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -291105,119 +293237,239 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "L'offre de fin novembre donne 30 % de réduction sur les forfaits Starlink, avec un kit loué à 0 €, dans certaines zones. Le calcul à faire est celui de la première commande, puis de la récompense du parrainage qui arrive après deux mois. Le kit et les premiers mois ne deviennent presque gratuits que si le montant affiché sur votre commande couvre les premières mensualités."
+          "La commande Starlink lue à Paris affichait 30 % de réduction sur les forfaits jusqu'au 30 novembre : 24,50 € par mois pour le 100 Mbit/s, 31,50 € pour le 200 Mbit/s et 45,50 € pour le Max, avec un kit loué à 0 € et 19 € à payer le jour même. Le matériel se renvoie si vous annulez, avec 30 jours d'essai. La récompense du parrainage ne compte que si vous ouvrez la commande depuis un lien de parrainage avant de payer."
         ]
       },
       {
-        "heading": "Ce que vous payez le jour de la commande",
+        "heading": "Les trois forfaits à Paris, avec et sans réduction",
         "paragraphs": [
-          "Sur la page de commande officielle, lue le 20 novembre 2026 pour une adresse à Paris, le total à payer ce jour-là était de 19 €. Le kit est loué : 0 € au départ et 0 € par mois, à renvoyer en cas d'annulation. Les mensualités viennent ensuite.",
-          "L'installation professionnelle est optionnelle sur le 100 et le 200 Mbit/s, à 172 €, et gratuite sur le Max."
+          "Nous avons lu la commande officielle pour une adresse de l'Hôtel-de-Ville, à Paris, le 23 novembre 2026, sans finaliser d'achat. Le Résidentiel 100 Mbit/s coûtait 24,50 € par mois (35 € hors réduction), le 200 Mbit/s 31,50 € (45 €) et le Max 45,50 € (65 €), tous avec le kit loué : 0 € au départ et 0 € par mois. Les 19 € à payer le jour même correspondent à la livraison.",
+          "L'installation professionnelle est optionnelle à 172 € sur le 100 et le 200 Mbit/s, et gratuite sur le Max. La récompense du parrainage apparaît sur la commande ouverte depuis le lien, se verse en crédit sur la facture après deux cycles mensuels complets et ne réduit pas le prix du kit."
         ],
         "comparisonTable": {
           "headers": [
-            "Forfait",
-            "Par mois",
-            "Kit",
-            "Installation professionnelle"
+            "Commande à Paris",
+            "Par mois avec 30 %",
+            "Par mois hors réduction"
           ],
           "rows": [
             [
-              "Résidentiel 100 Mbit/s",
-              "24,50 €",
-              "Loué, 0 €",
-              "172 €, optionnelle"
+              "Résidentiel 100 Mbit/s",
+              "24,50 €",
+              "35 €"
             ],
             [
-              "Résidentiel 200 Mbit/s",
-              "31,50 €",
-              "Loué, 0 €",
-              "172 €, optionnelle"
+              "Résidentiel 200 Mbit/s",
+              "31,50 €",
+              "45 €"
             ],
             [
-              "Résidentiel Max",
-              "45,50 €",
-              "Loué, 0 €",
-              "Gratuite"
+              "Max",
+              "45,50 €",
+              "65 €"
+            ],
+            [
+              "Kit loué, au départ et par mois",
+              "0 € et 0 €",
+              "0 € et 0 €"
+            ],
+            [
+              "Total à payer le jour même (livraison)",
+              "19 €",
+              "19 €"
             ]
           ],
-          "caption": "Prix de la commande officielle avec l'offre de 30 %, sans lien de parrainage. Le prix peut changer selon l'adresse."
+          "caption": "Prix de la commande sur starlink.com pour Paris, lus le 23 novembre 2026. Les 30 % valent jusqu'au 30 novembre."
         },
-        "emphasis": "D'après les chiffres du tableau, la commande à Paris demande 19 € le jour même, puis entre 24,50 € et 45,50 € par mois selon le forfait, et la récompense du parrainage n'arrive qu'après deux cycles mensuels complets.",
+        "simulator": {
+          "title": "Simulateur rapide : Paris",
+          "scenarios": [
+            {
+              "label": "100 Mbit/s avec le lien",
+              "lines": [
+                {
+                  "label": "Forfait avec 30 %",
+                  "value": "24,50 € par mois"
+                },
+                {
+                  "label": "Kit loué",
+                  "value": "0 € au départ, 0 € par mois"
+                },
+                {
+                  "label": "Récompense du parrainage après deux cycles payés",
+                  "value": "Crédit sur la facture (le montant s'affiche sur votre commande)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "À payer le jour même (livraison)",
+              "totalValue": "19 €",
+              "note": "Vous payez les premières factures vous-même. La récompense arrive après deux cycles mensuels complets."
+            },
+            {
+              "label": "Max avec le lien",
+              "lines": [
+                {
+                  "label": "Forfait avec 30 %",
+                  "value": "45,50 € par mois"
+                },
+                {
+                  "label": "Kit loué",
+                  "value": "0 € au départ, 0 € par mois"
+                },
+                {
+                  "label": "Récompense du parrainage après deux cycles payés",
+                  "value": "Crédit sur la facture (le montant s'affiche sur votre commande)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "À payer le jour même (livraison)",
+              "totalValue": "19 €",
+              "note": "L'installation professionnelle est gratuite sur le Max."
+            },
+            {
+              "label": "Sans le lien",
+              "lines": [
+                {
+                  "label": "Prix du forfait et du kit",
+                  "value": "Le même qu'avec le lien"
+                },
+                {
+                  "label": "Récompense du parrainage",
+                  "value": "0 €"
+                },
+                {
+                  "label": "Ce que vous perdez",
+                  "value": "Toute la récompense",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Récompense reçue",
+              "totalValue": "0 €",
+              "note": "Le parrainage ne compte que sur une commande lancée depuis un lien de parrainage, avant le paiement."
+            }
+          ]
+        },
+        "postParagraphs": [
+          "Le 200 Mbit/s se place au milieu : 31,50 € par mois avec la réduction, contre 45 € au prix normal. Si le 100 Mbit/s vous paraît juste et le Max trop, c'est le forfait à comparer en premier."
+        ],
+        "emphasis": "D'après le tableau, la commande à Paris demande 19 € le jour même, puis 24,50 €, 31,50 € ou 45,50 € par mois selon le forfait, et la récompense n'arrive qu'après deux cycles mensuels complets.",
         "links": [
           {
-            "label": "Voir les forfaits à votre adresse",
+            "label": "Consulter le Black Friday et le parrainage à mon adresse",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
         ]
       },
       {
-        "heading": "Quand la récompense du parrainage entre dans le calcul",
+        "heading": "Ce que montre la commande",
         "paragraphs": [
-          "Avec le lien de parrainage, la commande affiche la récompense du nouveau client. Elle n'est versée qu'après deux cycles mensuels complets, en crédit de service ou en argent, et le montant dépend du pays. Lisez-le sur votre commande, nous ne donnons pas de chiffre ici.",
-          "Deux mensualités au prix affiché représenteraient 49 € pour le 100 Mbit/s ou 91 € pour le Max. Vérifiez aussi les 19 € affichés à la commande et les frais éventuels. Déduisez la récompense de ce que vous aurez effectivement payé si le parrainage est éligible."
-        ]
-      },
-      {
-        "heading": "Que rapporte le fait de parrainer quelqu'un ?",
-        "paragraphs": [
-          "Après avoir souscrit, vous pouvez parrainer d'autres personnes, et celui qui parraine reçoit aussi la même somme, en argent ou en crédit de service. La personne parrainée doit compléter les cycles exigés. Le [fonctionnement du programme](/fr/reviews/starlink-lien-parrainage) est détaillé dans notre guide du lien."
-        ]
-      },
-      {
-        "heading": "L'offre est-elle valable à votre adresse ?",
-        "paragraphs": [
-          "La page d'accueil annonce « à partir de 24,50 € » avec la mention « dans certaines zones ». L'offre dépend donc de l'adresse saisie. Faites la vérification sur la commande avant de payer, et gardez la capture du prix affiché."
+          "La capture montre l'avis « Referral Code Applied » d'une commande américaine ouverte avec un lien de parrainage. La commande ouverte avec le lien affiche l'avis de parrainage appliqué et le montant de la récompense de votre pays.",
+          "Pour vérifier la vôtre, ouvrez le lien, saisissez votre adresse et cherchez le même avis avant de payer. Regardez si la commande montre la récompense et le prix mensuel."
         ],
         "image": {
-          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
-          "alt": "Antenne Starlink Standard et routeur",
-          "caption": "L'antenne et le routeur Starlink. Photo Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.3316
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Écran de commande du site officiel Starlink avec le message Referral Code Applied, indiquant qu'en vous inscrivant avec ce code vous et votre ami recevez chacun 100 dollars, en argent ou en crédit de service",
+          "caption": "Commande sur le site officiel avec le lien de parrainage appliqué (exemple américain ; en France, le montant s'affiche sur votre commande).",
+          "aspectRatio": 0.8747,
+          "objectFit": "contain"
         }
       },
       {
-        "heading": "Remboursement et retour du kit",
+        "heading": "L'offre est-elle valable à votre adresse ?",
         "paragraphs": [
-          "La commande indique un remboursement intégral du kit et du premier mois si vous annulez le service et renvoyez le kit en bon état dans les 30 jours. Les étapes sont dans notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier)."
+          "L'offre s'affiche selon l'adresse. La page d'accueil annonce « à partir de 24,50 € » avec la mention « dans certaines zones », et deux adresses peuvent voir des prix différents le même jour. Saisissez la vôtre, comparez le prix mensuel, le kit et l'installation, et gardez la capture avant de payer.",
+          "Sur l'écran de Paris ci-dessous, on voit les trois forfaits et l'avis de renvoyer le matériel loué en cas d'annulation. La FAQ de la commande précise que le prix mensuel n'a pas de durée fixe."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "alt": "Commande Starlink pour Paris avec les forfaits 100, 200 Mbit/s et Max, le prix avec réduction et l'avis de rendre le matériel loué",
+          "caption": "Commande pour Paris, lue le 23/11/2026 : forfaits de 100 Mbit/s à Max et kit loué à 0 €.",
+          "aspectRatio": 0.5909,
+          "objectFit": "portrait"
+        }
+      },
+      {
+        "heading": "Kit loué, retour et essai de 30 jours",
+        "paragraphs": [
+          "La commande indique qu'en cas d'annulation du service, vous devez renvoyer le matériel Starlink loué. Avec l'essai de 30 jours, le kit et le premier mois sont remboursés si vous annulez et renvoyez le kit en bon état dans ce délai. C'est pourquoi ouvrir la commande ne coûte rien : vous voyez le prix de votre adresse, vous testez l'antenne sur votre toit et vous décidez ensuite.",
+          "Passé ce délai, il n'y a pas de durée fixe : Starlink peut modifier les prix avec un préavis de 30 jours. Les étapes sont dans notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+          "alt": "Récapitulatif de commande Starlink à Paris avec 35 € moins 10,50 € de réduction, le kit Mini X à 0 € et 19 € à payer le jour même",
+          "caption": "Récapitulatif à Paris (23/11/2026) : 35 € moins 10,50 €, Mini X à 0 € et 19 € le jour même.",
+          "aspectRatio": 0.6625,
+          "objectFit": "portrait"
+        },
+        "links": [
+          {
+            "label": "Sécuriser le parrainage avant de payer la commande",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "Et après la promotion ?",
+        "heading": "Après la promotion : protéger votre prix",
         "paragraphs": [
-          "La page lue ne détaille pas le tarif après la période promotionnelle. Vérifiez sur votre commande combien de temps dure la réduction et quel est le prix ensuite avant de payer."
+          "Les 30 % valent pour les commandes passées jusqu'au 30 novembre. D'après la FAQ de Starlink, le prix mensuel n'a pas de durée fixe et l'entreprise peut changer ses prix avec un préavis de 30 jours : le prix réduit n'est donc garanti pour aucun nombre de mois. Si vous comptez rester des années, faites le calcul avec le prix normal.",
+          "Avant de payer, gardez une capture du récapitulatif avec le prix, la ligne du kit et l'avis de parrainage, et comparez-la à votre première facture. Si une facture ne correspond pas, ouvrez une demande d'assistance depuis votre compte avec la capture en pièce jointe."
+        ]
+      },
+      {
+        "heading": "Que rapporte le fait de parrainer quelqu'un ?",
+        "paragraphs": [
+          "Après avoir souscrit, vous pouvez parrainer d'autres personnes, et celui qui parraine reçoit aussi la même somme, en argent ou en crédit de service. La personne parrainée doit compléter les cycles exigés.",
+          "Le [fonctionnement du programme](/fr/reviews/starlink-lien-parrainage) est détaillé dans notre guide du lien. Vérifiez dans votre compte ce que vaut chaque parrainage."
+        ]
+      },
+      {
+        "heading": "Les 4 erreurs qui font perdre la récompense",
+        "paragraphs": [
+          "Même en cliquant sur le lien, la récompense se perd pour de petites erreurs :"
+        ],
+        "bullets": [
+          "Acheter le kit sur une place de marché ou en magasin et essayer d'utiliser le lien ensuite. Le parrainage ne compte que sur une commande passée sur starlink.com depuis un lien de parrainage, avant le paiement.",
+          "Ouvrir le lien sur le téléphone et terminer la commande des heures plus tard sur un autre appareil sans rouvrir le lien. Le parrainage peut ne pas suivre la commande : faites tout sur le même appareil ou rouvrez le lien et cherchez l'avis vert.",
+          "S'inscrire avec un nom, un e-mail ou une adresse qui a déjà eu un compte Starlink. La récompense est réservée aux nouveaux clients.",
+          "Annuler ou payer en retard avant deux cycles mensuels payés. La récompense n'arrive que si le service est actif et à jour."
+        ],
+        "postParagraphs": [
+          "Si la commande a déjà été payée sans le lien, on ne peut pas ajouter le parrainage ensuite."
         ]
       },
       {
         "heading": "Comment utiliser le lien",
         "paragraphs": [
-          "Ouvrez le lien et saisissez l'adresse d'installation de l'antenne. Choisissez le forfait, vérifiez le parrainage appliqué et faites une capture de l'offre affichée avant de payer. La [page du parrainage Starlink](/fr/coupons/starlink) réunit le lien et les règles du programme."
+          "Ouvrir le lien n'engage à rien : les prix, la disponibilité et l'offre n'apparaissent qu'après la saisie de l'adresse. Saisissez l'adresse d'installation de l'antenne, choisissez le forfait, vérifiez le parrainage appliqué et faites une capture de l'offre affichée avant de payer.",
+          "La [page du parrainage Starlink](/fr/coupons/starlink) réunit le lien et les règles du programme."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
           "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d'abonnement, en crédit sur la facture, et le parrain reçoit le même montant.",
-          "Starlink fait-il le Black Friday ? L'offre de fin novembre donne 30 % sur les forfaits, avec un kit loué à 0 €, dans certaines zones.",
-          "Le parrainage se cumule-t-il avec l'offre ? Ce sont deux mécanismes distincts. La récompense dépend de l'éligibilité et de deux cycles mensuels complets. Vérifiez sur votre commande que les deux apparaissent.",
-          "Combien paie-t-on le jour de la commande ? Le total à payer lu pour une adresse à Paris était de 19 €, le kit étant loué à 0 €.",
-          "Le kit est-il à rendre ? Oui, le matériel est loué et doit être renvoyé si vous annulez le service.",
-          "Jusqu'à quand dure l'offre ? Starlink annonce la fin novembre. Saisissez votre adresse sur la commande pour voir si elle est disponible."
+          "Starlink fait-il le Black Friday ? Oui. L'offre de fin novembre donne 30 % sur les forfaits, avec un kit loué à 0 €, dans certaines zones.",
+          "Le parrainage se cumule-t-il avec l'offre ? Ce sont deux lignes distinctes de la commande. Vérifiez sur votre commande que les deux apparaissent. La récompense dépend de l'éligibilité et de deux cycles mensuels complets.",
+          "Combien paie-t-on le jour de la commande ? Le total à payer lu pour une adresse à Paris était de 19 €, le kit étant loué à 0 €.",
+          "Combien coûtent les forfaits par mois ? Dans cette lecture, 24,50 € le 100 Mbit/s, 31,50 € le 200 Mbit/s et 45,50 € le Max, avec les 30 %. Cela change selon l'adresse.",
+          "Puis-je essayer Starlink avant de me décider ? Oui. Starlink rembourse le kit et le premier mois si vous annulez et renvoyez le kit en bon état dans les 30 jours.",
+          "Puis-je ajouter le parrainage après le paiement ? Non. Il ne compte que sur la commande ouverte depuis le lien, avant le paiement.",
+          "Jusqu'à quand dure l'offre ? Starlink annonce la fin novembre. Saisissez votre adresse sur la commande pour voir si elle est disponible."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "La commande s'ouvre sur le site de Starlink. Vérifiez le prix du forfait, le kit loué et le montant du parrainage avant de payer.",
-      "label": "Consulter l'offre à mon adresse",
+      "text": "Vous payez le même prix que sur la commande officielle, vous gardez les 30 jours d'essai et le retour du kit loué si l'antenne ne convient pas à votre toit, et la récompense du parrainage entre sur votre facture après deux cycles payés.",
+      "label": "Voir mon adresse avec le parrainage",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Prix relevés sur la page de commande officielle, sans finaliser d'achat. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+    "editorialNote": "Prix relevés sur les pages de commande officielles, sans finaliser d'achat. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
     "relatedArticles": [
       {
         "slug": "starlink-lien-parrainage"
@@ -291231,11 +293483,11 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "la commande à votre adresse affiche l'offre sur le forfait et les conditions du kit avant le paiement.",
+        "la commande à votre adresse affiche les 30 % sur le forfait et les conditions du kit loué avant le paiement.",
         "vous pouvez attendre deux cycles mensuels complets pour la récompense et payer les mensualités entre-temps."
       ],
       "skipIf": [
-        "votre commande n'affiche pas l'offre, car les prix lus valent pour une seule adresse.",
+        "votre commande n'affiche pas l'offre, car les prix lus valent pour les adresses consultées.",
         "vous risquez de partir vite et ne voulez pas risquer le retour du kit ni la perte du prix promotionnel."
       ]
     }
@@ -291245,8 +293497,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-vaut-il-le-coup",
     "translationKey": "starlink-vale-a-pena",
     "locale": "fr",
-    "title": "Starlink vaut-il le coup ? Les prix par forfait et pour qui il a du sens",
-    "seoTitle": "Starlink vaut-il le coup ? Prix et kit loué",
+    "title": "Starlink vaut-il le coup ? Tarifs, fibre instable et connexion de secours",
+    "seoTitle": "Starlink vaut-il le coup ? Prix, fibre et secours",
     "type": "Guide d'achat",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -291257,8 +293509,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Comparez le coût mensuel de Starlink avec la connexion qui arrive chez vous. Voyez les prix par forfait, le kit loué et comment vérifier où poser l'antenne.",
-    "metaDescription": "Starlink vaut-il le coup ? Prix par forfait, kit loué, pour qui il a du sens et quand la fibre ou la 4G reviennent moins cher.",
+    "description": "Voyez si Starlink vaut le coup : zones sans fibre ou quartiers où la fibre locale coupe souvent. Prix par forfait, kit loué à 0 € et usage en connexion de secours.",
+    "metaDescription": "Starlink vaut-il le coup même avec la fibre ? Tarifs par forfait, kit loué, fibre instable et utilisation comme connexion principale ou de secours.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -291273,53 +293525,133 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Starlink peut valoir le coup dans les maisons où il manque une connexion stable. Si une fibre fiable arrive déjà chez vous, comparez le coût total avant de changer. Additionnez les mensualités de votre adresse et les frais d'installation éventuels, puis utilisez l'application Starlink pour vérifier où l'antenne peut aller."
+          "Oui, Starlink vaut le coup là où aucune connexion stable n’arrive, mais aussi là où la fibre existe et coupe souvent ou débite bien moins que prévu. Nous l’avons souscrite comme alternative et connexion de secours à notre fibre instable. Si votre fibre est vraiment stable, elle reste plus avantageuse en prix et en latence. L’essai est peu risqué : le kit est loué à 0 € sur la commande de Paris, avec 30 jours pour le renvoyer."
         ]
       },
       {
         "heading": "Combien cela coûte",
         "paragraphs": [
-          "Nous avons lu ces prix le 20 novembre 2026 sur la page de commande officielle, pour une adresse à Paris, avec l'offre de 30 % sur les forfaits. Le kit est loué à 0 € au départ et 0 € par mois, à renvoyer si vous annulez."
+          "Le 23 novembre 2026, nous avons lu la page de commande officielle pour une adresse publique à Paris, avec l’offre de 30 % sur les forfaits. Le kit est loué, à 0 € au départ et 0 € par mois, et se renvoie si vous annulez. Le jour de la commande, il restait 19 € à payer. La page précise que le prix mensuel n’a pas de durée fixe et que Starlink peut le modifier avec un préavis de 30 jours."
         ],
         "comparisonTable": {
           "headers": [
-            "Forfait",
-            "Par mois",
-            "Kit",
+            "Forfait à Paris",
+            "Par mois avec l’offre",
+            "Prix de base",
+            "Kit loué",
             "Installation professionnelle"
           ],
           "rows": [
             [
-              "Résidentiel 100 Mbit/s",
-              "24,50 €",
-              "Loué, 0 €",
-              "172 €, optionnelle"
+              "Résidentiel 100 Mbit/s",
+              "24,50 €",
+              "35 €",
+              "Mini X, 0 € et 0 €/mois",
+              "172 €, optionnelle"
             ],
             [
-              "Résidentiel 200 Mbit/s",
-              "31,50 €",
-              "Loué, 0 €",
-              "172 €, optionnelle"
+              "Résidentiel 200 Mbit/s",
+              "31,50 €",
+              "45 €",
+              "Standard 4, 0 € et 0 €/mois",
+              "172 €, optionnelle"
             ],
             [
               "Résidentiel Max",
-              "45,50 €",
-              "Loué, 0 €",
+              "45,50 €",
+              "65 €",
+              "Standard 4, 0 € et 0 €/mois",
               "Gratuite"
             ]
           ],
-          "caption": "Prix mensuels avec l'offre de 30 %. Le total à payer le jour de la commande était de 19 €."
+          "caption": "Prix mensuels de la page de commande à Paris avec l’offre de 30 %. Le prix de base est celui de la grille sans l’offre ; le total à payer le jour de la commande était de 19 €."
+        },
+        "simulator": {
+          "title": "Simulateur : ce que demande chaque scénario",
+          "scenarios": [
+            {
+              "label": "Paris, 100 Mbit/s",
+              "lines": [
+                {
+                  "label": "Kit loué (Mini X)",
+                  "value": "0 € et 0 €/mois",
+                  "highlight": true
+                },
+                {
+                  "label": "Mensualité avec l’offre de 30 %",
+                  "value": "24,50 €"
+                },
+                {
+                  "label": "Mensualité de base",
+                  "value": "35 €"
+                }
+              ],
+              "totalLabel": "À payer le jour de la commande (livraison)",
+              "totalValue": "19 €",
+              "note": "Installation professionnelle optionnelle à 172 €. Vous renvoyez le kit si vous annulez."
+            },
+            {
+              "label": "Paris, 200 Mbit/s",
+              "lines": [
+                {
+                  "label": "Kit loué (Standard 4)",
+                  "value": "0 € et 0 €/mois",
+                  "highlight": true
+                },
+                {
+                  "label": "Mensualité avec l’offre de 30 %",
+                  "value": "31,50 €"
+                },
+                {
+                  "label": "Mensualité de base",
+                  "value": "45 €"
+                }
+              ],
+              "totalLabel": "À payer le jour de la commande (livraison)",
+              "totalValue": "19 €",
+              "note": "Installation professionnelle optionnelle à 172 €."
+            },
+            {
+              "label": "Paris, Max",
+              "lines": [
+                {
+                  "label": "Kit loué (Standard 4)",
+                  "value": "0 € et 0 €/mois"
+                },
+                {
+                  "label": "Mensualité avec l’offre de 30 %",
+                  "value": "45,50 €"
+                },
+                {
+                  "label": "Installation professionnelle",
+                  "value": "0 €",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "À payer le jour de la commande (livraison)",
+              "totalValue": "19 €",
+              "note": "Mensualité de base de 65 €, sans durée fixe annoncée et avec un préavis de 30 jours."
+            }
+          ]
         },
         "postParagraphs": [
-          "La page lue ne dit pas combien de temps dure la réduction, donc n'extrapolez pas ces prix sur 12 mois sans vérifier la durée affichée sur votre commande. Faites le calcul d'abord sans la récompense du [parrainage Starlink](/fr/coupons/starlink), puis ajoutez-la si votre commande l'affiche."
+          "Le forfait de 200 Mbit/s est celui que beaucoup de comparatifs oublient : à 31,50 €, il coûte 7 € de plus par mois que le 100 Mbit/s et inclut le kit Standard 4 en location. Comme la page ne fixe pas de durée pour le prix réduit, ne multipliez pas ces tarifs par 12 sans vérifier votre propre commande.",
+          "Faites d’abord le calcul sans la récompense. Avec notre lien, la personne qui s’abonne reçoit 45 € en France après deux mois d’abonnement, sous forme de crédit sur la facture. Voyez le [parrainage Starlink](/fr/coupons/starlink)."
         ],
         "links": [
           {
-            "label": "Voir les forfaits à votre adresse",
+            "label": "Simuler le forfait et le kit pour mon adresse",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "alt": "Écran officiel de Starlink à Paris montrant le forfait 100 Mbit/s à 24,50 € par mois et le matériel loué à 0 €",
+          "caption": "Page de commande à Paris, consultée le 23/11/2026 : 100 Mbit/s à 24,50 € par mois et matériel loué à renvoyer si vous annulez.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5909
+        }
       },
       {
         "heading": "Où poser l'antenne",
@@ -291341,12 +293673,38 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Quand comparer avec la fibre ou la 4G",
+        "heading": "Au-delà du tarif : fibre instable, coupures locales et connexion de secours",
         "paragraphs": [
-          "Si une fibre stable arrive déjà, comparez l'installation, les mensualités et les éventuels engagements de chaque offre. Pour la 4G, ajoutez le prix du matériel dont vous aurez besoin et vérifiez que le forfait a assez de données pour la maison."
+          "Comparer seulement la mensualité ne suffit pas quand la ligne fixe de votre adresse est bon marché mais décroche chaque semaine ou ne délivre qu’une fraction du débit payé. Les opérateurs régionaux et les réseaux saturés souffrent souvent de câbles sectionnés, de maintenances sans préavis et de ralentissements aux heures de pointe. Si vous télétravaillez, faites des visioconférences ou dépendez de caméras et de domotique, cela pèse plus que quelques euros par mois.",
+          "Dans notre cas, nous avons souscrit Starlink comme alternative et connexion de secours à notre fibre instable. Comme le signal vient de satellites, il ne dépend ni des câbles de votre rue ni du même opérateur : Starlink peut remplacer une fibre défaillante ou servir de voie de réserve quand la fibre tombe.",
+          "L’essai est peu risqué : le kit est loué à 0 € au départ, la page ne mentionne pas de durée fixe et vous avez 30 jours pour le renvoyer. Vous mesurez la stabilité réelle sur votre toit et ne gardez l’abonnement que s’il règle le problème. Si vous envisagez plutôt la 4G ou la 5G à domicile comme secours, ajoutez le routeur et vérifiez le volume de données."
         ],
-        "emphasis": "Sans fibre stable ni 4G correcte à l'adresse, Starlink entre dans la comparaison ; avec une fibre stable, le changement ne se justifie que si le total des mois prévus, matériel et mensualités additionnés, reste sous le coût de la connexion actuelle.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "Si votre fibre est vraiment stable et délivre le débit prévu, changer uniquement pour le prix mensuel est rarement rentable ; quand les opérateurs locaux enchaînent coupures et ralentissements, Starlink vaut par sa fiabilité et son indépendance comme ligne principale ou de secours.",
+        "emphasisAfterParagraph": 3,
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antenne et routeur officiels de Starlink pouvant servir de connexion principale ou de secours",
+          "caption": "Antenne et routeur officiels de Starlink, indépendants du câblage de l’opérateur local. Photo Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Utiliser Starlink avec une fibre peu fiable",
+        "paragraphs": [
+          "Cette partie est un conseil général, pas le récit de notre installation. Il y a deux façons d’utiliser Starlink à côté d’une fibre instable, de la plus simple à l’automatique.",
+          "Niveau 1, sans coût en plus : gardez le Wi-Fi de Starlink comme second réseau et basculez votre téléphone ou votre ordinateur dessus quand la fibre tombe en pleine réunion. Le basculement est manuel et prend quelques secondes, mais il faut remarquer la coupure et agir.",
+          "Niveau 2, automatique : utilisez un routeur Dual-WAN (ou multi-WAN) avec basculement automatique. La fibre arrive sur un port WAN, Starlink sur l’autre, et le routeur envoie le trafic vers Starlink quand il détecte la panne de la fibre. Pour cela, Starlink se branche en général sur votre routeur via le mode bypass de l’application, qui laisse votre routeur gérer le réseau. Vérifiez auprès du support Starlink ce que votre modèle exige, car certains kits demandent un adaptateur Ethernet.",
+          "Lors d’un basculement automatique, les appels en cours et les VPN peuvent se reconnecter quelques secondes, car votre adresse de sortie change. Testez le basculement avant de compter dessus : débranchez la fibre quelques minutes et vérifiez que les appels, les caméras et le télétravail reviennent seuls."
+        ]
+      },
+      {
+        "heading": "Pluie forte, vent et coupures de courant",
+        "paragraphs": [
+          "L’ancien internet par satellite, en orbite haute, a un délai de plusieurs centaines de millisecondes, ce qui gêne les appels et les jeux. Starlink utilise des satellites en orbite basse et publie une latence typique de 25 à 60 ms au sol, une référence de l’entreprise sans mesure à notre adresse.",
+          "Une pluie très forte, la neige et les orages peuvent réduire les performances un moment, et le vent demande une antenne bien fixée. Comparez avec la fibre : un câble sectionné dans la rue peut mettre longtemps à être réparé, et Starlink n’en dépend pas.",
+          "La coupure de courant est un autre point : l’antenne et le routeur de Starlink ont besoin d’électricité, tout comme les équipements de la fibre. Un onduleur ou une batterie portable dimensionnés pour la consommation indiquée dans les spécifications de Starlink maintiennent la connexion pendant les coupures brèves. Si le courant manque dans tout le quartier, le réseau de la rue peut aussi tomber : testez l’ensemble avant de compter dessus."
+        ]
       },
       {
         "heading": "Débit et jeux en ligne",
@@ -291364,7 +293722,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Matériel loué et résiliation",
         "paragraphs": [
-          "Le kit est loué, et la commande demande de renvoyer le matériel si vous annulez. Le remboursement du kit et du premier mois s'applique si vous annulez et renvoyez le kit en bon état dans les 30 jours. Notre [guide de l'engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier) détaille la marche à suivre."
+          "Le kit est loué, et la commande demande de renvoyer le matériel si vous annulez. La page ne fixe pas de durée minimale et prévoit un préavis de 30 jours pour les changements de prix. Le remboursement du kit et du premier mois s’applique si vous annulez et renvoyez le kit en bon état dans les 30 jours.",
+          "Ouvrir la commande ne coûte rien : prix, remises et disponibilité n’apparaissent qu’après la saisie de votre adresse sur starlink.com. Le parrainage ne compte que si la commande passe par un lien de parrainage, avant le paiement, sur starlink.com et non sur une place de marché. Notre [guide de l’engagement et de la résiliation](/fr/reviews/starlink-engagement-resilier) détaille la marche à suivre."
+        ],
+        "links": [
+          {
+            "label": "Tester à mon adresse avec 30 jours pour renvoyer",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -291377,34 +293743,36 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, la personne qui s'abonne reçoit 45 € en France après deux mois d'abonnement, sous forme de crédit sur la facture, et le parrain reçoit le même montant.",
-          "Starlink vaut-il le coup en ville ? Avec une fibre stable à l'adresse, comparez l'installation, les mensualités et les engagements avant de changer.",
-          "Starlink est-il meilleur que la fibre ? Sans bonne fibre sur place, cela vaut la peine de demander un tarif Starlink et de vérifier que le ciel est dégagé. Si les deux sont disponibles, comparez la stabilité et le coût à votre adresse.",
-          "Starlink est-il bon pour les jeux ? Testez la latence et les coupures à votre adresse. La plage typique publiée par Starlink est une référence générale.",
-          "Starlink est-il illimité ? Vérifiez sur la commande les conditions du forfait qui s'affiche, notamment les limites de débit.",
-          "Combien coûte Starlink par mois ? Pour une adresse à Paris, la commande affichait 24,50 € pour le 100 Mbit/s, 31,50 € pour le 200 Mbit/s et 45,50 € pour le Max, avec l'offre en cours. Le prix change selon l'adresse."
+          "Starlink vaut-il le coup en ville ? Cela dépend de la vraie qualité de votre fibre actuelle. Si elle est bon marché et stable, elle gagne souvent sur le coût. Si elle coupe souvent ou débite bien moins que prévu, Starlink peut valoir le coup comme alternative ou secours, à condition d’avoir un ciel dégagé. C’était notre cas.",
+          "Starlink est-il meilleur que la fibre ? En débit maximal et en latence, une fibre saine garde souvent l’avantage. En continuité face aux pannes locales et aux câbles coupés dans la rue, Starlink aide parce que c’est une voie indépendante de l’opérateur local.",
+          "Starlink est-il bon pour les jeux ? Testez la latence et les coupures à votre adresse. La plage typique publiée par Starlink est une référence générale.",
+          "Starlink est-il illimité ? Starlink annonce des données illimitées sur les forfaits résidentiels. Vérifiez sur la commande les limites de débit du forfait affiché.",
+          "Combien coûte Starlink par mois ? Pour une adresse à Paris, avec l’offre, 24,50 € le forfait 100 Mbit/s, 31,50 € le 200 Mbit/s et 45,50 € le Max ; les prix de base sont de 35 €, 45 € et 65 €. Le prix change selon l’adresse.",
+          "Peut-on utiliser Starlink comme secours de la fibre ? Oui. Avec un routeur Dual-WAN à basculement automatique, Starlink prend le relais quand la fibre tombe ; sans lui, vous pouvez changer de réseau à la main. Vérifiez auprès du support Starlink ce que votre modèle exige pour le mode bypass."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "vous n'avez pas de fibre correcte à votre adresse et la 4G est faible aussi.",
-        "vous acceptez de louer le matériel et de le renvoyer si vous partez, et vous lisez le prix de votre adresse sur la commande."
+        "vous n’avez pas de fibre correcte à votre adresse et la 4G est faible aussi.",
+        "même là où une fibre bon marché existe, votre réseau local coupe souvent ou débite bien moins que prévu, et il vous faut une alternative fiable ou une connexion de secours.",
+        "vous avez vérifié la vue du ciel dans l’application Starlink et acceptez un kit loué à renvoyer si vous annulez."
       ],
       "skipIf": [
-        "vous avez déjà une fibre stable à votre adresse, sans matériel à renvoyer.",
-        "vous jouez en ligne et avez besoin d'une latence très basse, que la page lue ne garantit pas."
+        "vous avez déjà une fibre vraiment stable, au débit prévu et sans coupures fréquentes qui demanderaient une redondance.",
+        "vous jouez en ligne en compétition et avez besoin d’une latence minimale garantie : Starlink publie une plage typique, sans promettre un chiffre pour votre adresse."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Saisissez votre adresse sur le site de Starlink et vérifiez le forfait, le kit et la mensualité avant de payer.",
-      "label": "Voir les forfaits à mon adresse",
+      "text": "Vous payez le même prix que sur le site officiel, gardez les 30 jours pour renvoyer le kit s’il ne fonctionne pas sur votre toit et recevez la récompense du programme de parrainage une fois les règles respectées.",
+      "label": "Voir mon adresse sur starlink.com avec le parrainage",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Prix relevés sur la page de commande officielle. Nous n'avons pas encore utilisé le service. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
+    "editorialNote": "Nous avons souscrit Starlink comme alternative et connexion de secours face à l’instabilité de notre fibre. Les prix et les conditions du matériel de ce guide ont été relevés sur les pages de commande publiques du site officiel. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
     "relatedArticles": [
       {
         "slug": "starlink-engagement-resilier"
@@ -291422,8 +293790,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-engagement-resilier",
     "translationKey": "starlink-fidelidade",
     "locale": "fr",
-    "title": "Starlink a-t-il un engagement ? Kit loué, résiliation et les 30 jours pour le renvoyer",
-    "seoTitle": "Starlink : engagement, résiliation et retour du kit",
+    "title": "Starlink a-t-il un engagement ? Kit loué sans durée fixe, résiliation et les 30 jours pour le renvoyer",
+    "seoTitle": "Starlink : engagement, résiliation et retour du kit",
     "type": "Guide pratique",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -291434,8 +293802,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Le kit Starlink est loué et doit être renvoyé si vous annulez. Voyez comment résilier depuis le compte, la date limite de facturation et les 30 jours pour être remboursé.",
-    "metaDescription": "Starlink : kit loué à renvoyer en cas d'annulation, remboursement du kit et du premier mois sous 30 jours, et comment résilier depuis votre compte.",
+    "description": "À Paris, le kit Starlink est loué à 0 €, sans durée minimale, et doit être renvoyé si vous annulez. Voyez les trois forfaits, les 30 jours et comment résilier.",
+    "metaDescription": "Starlink à Paris : kit loué à 0 €, pas de durée fixe, à renvoyer en cas d'annulation, remboursement sous 30 jours et résiliation depuis le compte.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -291450,22 +293818,82 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Sur la commande lue pour une adresse à Paris, le matériel Starlink est loué : 0 € au départ, 0 € par mois, à renvoyer si vous annulez le service. La commande prévoit le remboursement intégral du kit et du premier mois si vous annulez et renvoyez le kit en bon état dans les 30 jours. Nous n'avons relevé ni durée d'engagement ni frais de résiliation dans ce que nous avons lu, alors cherchez-les dans le récapitulatif de votre commande."
+          "Sur la commande lue pour une adresse à Paris, Starlink n'impose pas de durée minimale : le matériel est loué, à 0 € au départ et 0 € par mois, et il faut le renvoyer si vous annulez le service. La commande prévoit le remboursement du kit et du premier mois si vous annulez et renvoyez le matériel en bon état dans les 30 jours. Les prix affichés n'ont pas de durée fixe, et Starlink peut les modifier avec un préavis de 30 jours."
         ]
       },
       {
-        "heading": "Ce que dit la commande",
+        "heading": "Paris : trois forfaits, un seul modèle de location",
         "paragraphs": [
-          "Sur la page de commande que nous avons lue le 20 novembre 2026, le matériel apparaît comme loué. La ligne du kit indique un coût initial de 0 € et des frais mensuels de 0 €, avec l'obligation de retourner le matériel si vous annulez.",
-          "Nous n'avons pas relevé de durée d'engagement ni de pénalité de sortie sur cette page. Cela ne vaut que pour ce que nous avons lu, et la condition de votre commande peut différer : relisez le récapitulatif avant de confirmer."
+          "Sur la page de commande lue le 23 novembre 2026 pour une adresse à Paris, les trois forfaits résidentiels utilisent du matériel loué à 0 €, sans frais mensuels de kit. Le 100 Mbit/s coûtait 24,50 € par mois (35 € moins 30 % de remise, jusqu'à la fin novembre) avec un Mini X ; le 200 Mbit/s, 31,50 € (45 € de base) avec un Standard 4 ; le Max, 45,50 € (65 € de base), lui aussi avec un Standard 4.",
+          "La livraison coûtait 19 € ce jour-là. L'installation professionnelle est facultative : 172 € sur le 100 et le 200 Mbit/s, 0 € sur le Max. Le récapitulatif indique le prix mensuel de 35 € moins 10,50 € de remise, le Mini X loué à 0 € et 19 € à payer aujourd'hui.",
+          "La FAQ du récapitulatif précise que le prix mensuel affiché n'a pas de durée fixe et que Starlink peut modifier ses prix avec un préavis de 30 jours. Nous n'avons relevé aucun frais de résiliation ni durée minimale sur cette page."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+            "alt": "Page des forfaits Starlink à Paris avec le 100 Mbit/s à 24,50 € par mois, le matériel loué à 0 € et la mention de renvoyer le matériel loué",
+            "caption": "Paris, consulté le 23/11/2026 : 100 Mbit/s à 24,50 € par mois et matériel loué à 0 €.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.5909
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+            "alt": "Récapitulatif de commande Starlink à Paris avec 35 € moins 10,50 €, le Mini X loué à 0 € et 19 € à payer aujourd'hui",
+            "caption": "Récapitulatif à Paris, consulté le 23/11/2026 : 35 € moins 10,50 €, Mini X à 0 € et 19 € aujourd'hui.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6625
+          }
+        ],
+        "links": [
+          {
+            "label": "Voir les forfaits et l'engagement à mon adresse",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
+      },
+      {
+        "heading": "Les trois forfaits à Paris en un coup d'œil",
+        "paragraphs": [
+          "Le tableau reprend ce que la page de commande affichait pour cette adresse. Votre adresse peut afficher autre chose."
+        ],
+        "comparisonTable": {
+          "caption": "Valeurs lues sur la commande ; la remise de 30 % allait jusqu'à la fin novembre.",
+          "headers": [
+            "Forfait",
+            "Par mois (prix de base)",
+            "Matériel loué",
+            "Installation professionnelle"
+          ],
+          "rows": [
+            [
+              "100 Mbit/s",
+              "24,50 € (35 €)",
+              "Mini X à 0 €",
+              "172 €, facultative"
+            ],
+            [
+              "200 Mbit/s",
+              "31,50 € (45 €)",
+              "Standard 4 à 0 €",
+              "172 €, facultative"
+            ],
+            [
+              "Max",
+              "45,50 € (65 €)",
+              "Standard 4 à 0 €",
+              "0 €"
+            ]
+          ]
+        }
       },
       {
         "heading": "Les 30 jours pour renvoyer",
         "paragraphs": [
           "Pour demander le remboursement du kit et du premier mois dans les conditions de l'offre, annulez le service et renvoyez le matériel en bon état dans les 30 jours.",
           "Annuler l'abonnement arrête les prélèvements à venir selon le cycle. Avec le support de Starlink, vérifiez comment lancer aussi le retour du kit et gardez la preuve d'expédition.",
-          "Le [lien de parrainage Starlink](/fr/coupons/starlink) ouvre la même commande sur le site officiel. Vérifiez la politique de retour sur le récapitulatif avant de payer."
+          "Le [lien de parrainage Starlink](/fr/coupons/starlink) ouvre la même commande sur le site officiel. Vérifiez la politique de retour sur le récapitulatif avant de payer.",
+          "La location n'est pas universelle : dans d'autres pays, comme le Brésil ou le Mexique, le kit s'achète, et un kit subventionné peut s'accompagner d'une durée de 12 mois et de frais de résiliation. Seul le récapitulatif de votre adresse fait foi."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
@@ -291474,7 +293902,14 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
-        "emphasis": "D'après les conditions de la commande, annuler et renvoyer le kit en bon état dans les 30 jours est ce qui ouvre le remboursement du kit et du premier mois, et la preuve d'expédition fait foi."
+        "emphasis": "D'après les conditions de la commande, annuler et renvoyer le kit en bon état dans les 30 jours est ce qui ouvre le remboursement du kit et du premier mois, et la preuve d'expédition fait foi.",
+        "links": [
+          {
+            "label": "Voir les forfaits avec 30 jours de remboursement sur starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Comment résilier",
@@ -291502,6 +293937,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Prix promotionnel et changement de forfait",
+        "paragraphs": [
+          "Les prix lus étaient remisés de 30 % sur le tarif mensuel jusqu'à la fin novembre. Comme la FAQ de la commande le dit, le prix mensuel n'a pas de durée fixe. Annuler ou changer de forfait peut aussi mettre fin à un prix promotionnel : lisez les conditions de votre commande avant de modifier quoi que ce soit."
+        ]
+      },
+      {
+        "heading": "Avant de payer : vérifiez votre commande",
+        "paragraphs": [
+          "Le parrainage ne compte que si la commande part d'un lien de parrainage, ouvert avant le paiement et sur starlink.com. Une fois payé, ou sur une place de marché, il est impossible de l'ajouter. Ouvrir le lien n'engage à rien : votre adresse montre quel modèle s'applique, et les 30 jours couvrent l'essai. Le crédit arrive sur la facture après deux mois d'abonnement et ne réduit pas le prix du kit."
+        ],
+        "checklist": {
+          "title": "Avant de payer",
+          "items": [
+            "J'ai ouvert la commande depuis le lien de parrainage, dans la même fenêtre, avant de payer.",
+            "J'ai vérifié que la barre du navigateur reste sur starlink.com avant de saisir la moindre donnée.",
+            "J'ai lancé le test d'obstruction dans l'application Starlink à l'endroit prévu pour l'antenne.",
+            "J'ai lu dans le récapitulatif la ligne du matériel, le prix mensuel et toute mention d'une durée minimale.",
+            "J'ai enregistré une capture du récapitulatif avec le prix mensuel et la règle des 30 jours avant de payer."
+          ]
+        }
+      },
+      {
         "heading": "Si le prélèvement continue",
         "paragraphs": [
           "Si la facturation continue, ouvrez une demande auprès de Starlink avec le numéro de commande, la date de l'annulation et le numéro de dossier, s'il y en a un. Voyez aussi [ce que disent les avis sur Trustpilot](/fr/reviews/starlink-trustpilot-avis). Si vous ne reconnaissez pas la transaction, contactez aussi l'émetteur de votre carte ou votre banque."
@@ -291511,11 +293968,12 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d'abonnement, en crédit sur la facture, et le parrain reçoit le même montant.",
-          "Starlink a-t-il un engagement ? Sur la commande lue pour une adresse à Paris, nous n'avons relevé aucune durée d'engagement. Vérifiez le récapitulatif de votre commande avant de payer.",
-          "Faut-il renvoyer le matériel Starlink ? Oui. Le kit est loué, et la commande demande de le retourner si vous annulez le service.",
-          "Peut-on annuler Starlink à tout moment ? La demande se fait depuis le compte. Pour éviter un nouveau cycle, faites-la avant 00 h 00 UTC le jour de facturation.",
-          "Peut-on rendre Starlink sous 30 jours ? La commande prévoit le remboursement du kit et du premier mois si le service est annulé et le kit renvoyé en bon état dans les 30 jours.",
-          "Que se passe-t-il à la date de fin du service ? Le service reste actif jusqu'à la fin de la période déjà payée."
+          "Starlink a-t-il un engagement ? Sur la commande lue pour une adresse à Paris, non : le kit est loué, sans durée minimale ni frais de résiliation relevés. Dans d'autres pays, un kit subventionné peut imposer 12 mois. Vérifiez le récapitulatif de votre commande avant de payer.",
+          "Faut-il renvoyer le matériel Starlink ? Oui. Le kit est loué, et la commande demande de le retourner si vous annulez le service.",
+          "Combien coûte la résiliation de Starlink ? Nous n'avons relevé aucun frais de résiliation sur la commande de Paris. Le matériel loué doit être renvoyé.",
+          "Peut-on annuler Starlink à tout moment ? La demande se fait depuis le compte. Pour éviter un nouveau cycle, faites-la avant 00 h 00 UTC le jour de facturation.",
+          "Le prix promotionnel reste-t-il le même indéfiniment ? Non : la commande précise que le prix mensuel n'a pas de durée fixe et que Starlink peut le modifier avec un préavis de 30 jours.",
+          "Peut-on rendre Starlink sous 30 jours ? La commande prévoit le remboursement du kit et du premier mois si le service est annulé et le kit renvoyé en bon état dans les 30 jours."
         ]
       }
     ],
@@ -291536,7 +293994,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "vous pouvez renvoyer le kit loué en bon état dans les 30 jours si vous annulez.",
+        "vous pouvez renvoyer le kit loué en bon état dans les 30 jours si vous annulez, et vous voulez éviter une durée minimale.",
         "vous lirez les conditions sur le récapitulatif de votre propre commande avant de payer."
       ],
       "skipIf": [
@@ -291545,8 +294003,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "La commande s'ouvre sur le site de Starlink. Vérifiez l'engagement, les frais et le retour du kit avant de payer.",
-      "label": "Consulter les conditions à mon adresse",
+      "text": "La commande s'ouvre sur starlink.com avec le lien de parrainage, qui doit venir avant le paiement. Vous payez le même prix que sur le site, vous voyez l'engagement de votre adresse et vous gardez les 30 jours pour renvoyer le kit. Le crédit arrive après deux mois d'abonnement.",
+      "label": "Consulter l'engagement et le forfait à mon adresse",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -291584,7 +294042,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Starlink est le service d'internet par satellite de SpaceX, et son site officiel est starlink.com. Sur Trustpilot, le profil qui renvoie vers starlink.com s'appelle « Starlink Development ». Si vous achetez le kit ailleurs, consultez la liste des revendeurs autorisés de Starlink et vérifiez qui est le vendeur de l'annonce avant de payer."
+          "Oui, Starlink est fiable : c'est le service officiel d'internet par satellite de SpaceX, et il se vend directement sur starlink.com. Nous avons nous-mêmes souscrit Starlink comme alternative à une fibre locale instable. La vigilance porte sur les sites copiés et les vendeurs tiers non agréés : sur Trustpilot, le profil lié à starlink.com s'appelle « Starlink Development » et, si vous achetez le kit ailleurs, vérifiez le vendeur dans la liste officielle des revendeurs autorisés avant de payer."
         ]
       },
       {
@@ -291605,7 +294063,22 @@ export const reviewsData: unknown[] = [
         "heading": "Comment reconnaître le site officiel",
         "paragraphs": [
           "Tapez starlink.com dans le navigateur. Avant de saisir des données ou de payer, vérifiez que vous êtes toujours sur starlink.com.",
-          "Contrôlez dans la commande, pour votre propre adresse, le forfait, le kit (location ou achat), les taxes et la durée d'engagement. Si l'on vous demande de payer par message ou en dehors de la commande, confirmez auprès du support Starlink avant de continuer."
+          "Contrôlez dans la commande, pour votre propre adresse, le forfait, le kit (location ou achat), les taxes et la durée d'engagement. Si l'on vous demande de payer par message ou en dehors de la commande, confirmez auprès du support Starlink avant de continuer.",
+          "Une façon simple de ne pas se tromper d'adresse est d'ouvrir la commande par un lien de parrainage : il mène directement à la commande sur starlink.com, et vous vérifiez quand même la barre d'adresse avant de saisir vos données. Le prix est le même que sur le site officiel, et le parrainage ne compte que si la commande démarre depuis un lien de parrainage, avant le paiement."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "alt": "Écran officiel des forfaits résidentiels sur starlink.com pour Paris",
+          "caption": "Écran des forfaits sur starlink.com pour une adresse à Paris, consulté le 23 novembre 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5909
+        },
+        "links": [
+          {
+            "label": "Ouvrir la commande officielle sur starlink.com avec le parrainage",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -291631,7 +294104,14 @@ export const reviewsData: unknown[] = [
             "label": "Liste des revendeurs autorisés par Starlink",
             "href": "https://starlink.com/fr/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Pièces d'un kit Starlink sur fond sombre : socle, support et câbles",
+          "caption": "Pièces d'un kit Starlink. Photo : Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Ce que montre Trustpilot",
@@ -291639,6 +294119,29 @@ export const reviewsData: unknown[] = [
           "Sur Trustpilot, le profil de starlink.com affiche un TrustScore de 1,6 sur 5 pour 879 avis : 71 % sont à 1 étoile et 17 % à 5 étoiles. Le profil n'est pas revendiqué, donc Starlink ne le gère pas, et l'entreprise a répondu à 0 % des avis.",
           "Nous avons lu les 40 avis à 1 étoile et les 40 avis à 5 étoiles les plus récents. Parmi les 1 étoile, les plaintes les plus fréquentes concernent un support réduit à un robot ou à un chat (environ 1 sur 3), des coupures et un débit trop faible (environ 1 sur 3), une mensualité qui a augmenté après la souscription (environ 1 sur 4), la facturation et les résiliations difficiles (environ 1 sur 4), des installateurs de sociétés partenaires en retard ou absents (environ 1 sur 4) et un kit en retard ou jamais reçu (environ 1 sur 5). Les 5 étoiles louent la vitesse et la stabilité (environ la moitié), l'installation facile (environ 1 sur 3) et l'absence d'autre bonne option internet (environ 1 sur 4). Ces chiffres sont les nôtres et approximatifs.",
           "Lisez la note avec prudence : un profil non revendiqué n'envoie aucune invitation après l'achat, et ceux qui l'ouvrent viennent souvent se plaindre. Les éloges parlent du signal ; les plaintes parlent du support, du prix et de la facturation, et peu d'avis à 1 étoile disent que le signal est mauvais en permanence. Le résumé automatique de Trustpilot, fondé sur 355 avis récents, va dans le même sens. Notre [lecture complète du profil Trustpilot](/fr/reviews/starlink-trustpilot-avis) donne les chiffres."
+        ]
+      },
+      {
+        "heading": "Liste de contrôle avant de payer",
+        "paragraphs": [
+          "Cinq vérifications rapides valent pour toute adresse et prennent quelques minutes."
+        ],
+        "checklist": {
+          "title": "Avant de valider la commande",
+          "items": [
+            "J'ai ouvert la commande par le lien de parrainage, dans la même fenêtre du navigateur, pour que le parrainage compte.",
+            "J'ai vérifié que la barre d'adresse reste sur starlink.com avant de saisir la moindre donnée.",
+            "J'ai lancé le test d'obstructions de l'appli Starlink à l'endroit prévu pour l'antenne, pour confirmer un ciel dégagé.",
+            "J'ai lu dans le récapitulatif de la commande le forfait, le kit, le total et la durée d'engagement.",
+            "J'ai enregistré une capture du récapitulatif avec le tarif mensuel et la règle des 30 jours avant de payer."
+          ]
+        },
+        "links": [
+          {
+            "label": "Vérifier la disponibilité à mon adresse sur starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -291656,7 +294159,7 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d'abonnement, en crédit sur la facture, et le parrain reçoit le même montant.",
-          "Starlink est-il fiable ? Starlink est le service d'internet par satellite de SpaceX. Vérifiez que vous êtes sur starlink.com et utilisez la liste des revendeurs autorisés si vous achetez ailleurs.",
+          "Starlink est-il fiable ? Oui, Starlink est le service officiel d'internet par satellite de SpaceX. Pour acheter en sécurité, vérifiez que vous êtes sur starlink.com ou contrôlez le vendeur sur la liste officielle des revendeurs autorisés avant de payer.",
           "Quel est le site officiel de Starlink ? Le site officiel est starlink.com.",
           "Comment confirmer qu'un vendeur est autorisé ? Consultez la liste des revendeurs de Starlink et vérifiez qui est le vendeur de l'annonce avant de payer.",
           "Faut-il acheter sur le site officiel ou chez un revendeur ? Sur starlink.com, la commande affiche forfait, kit, taxes et engagement pour votre adresse avant le paiement, et le parrainage n'y vaut que là. Un revendeur de la liste officielle est un vendeur légitime, mais le parrainage ne s'applique pas."
@@ -291666,7 +294169,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Rédigé à partir du site officiel, du centre d'aide et du profil public Trustpilot. Nous participons au programme de parrainage de Starlink et pouvons recevoir une récompense si vous vous abonnez via notre lien et respectez les règles.",
+    "editorialNote": "Rédigé à partir du site officiel, du centre d'aide et du profil public Trustpilot. Nous avons souscrit Starlink comme alternative et secours face à une fibre locale instable. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-avis"
@@ -291689,8 +294192,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Saisissez votre adresse sur le site de Starlink et vérifiez forfait, kit et mensualité avant de payer.",
-      "label": "Voir les forfaits à votre adresse",
+      "text": "Ouvrez la commande par le lien de parrainage, vérifiez que la barre reste sur starlink.com et consultez forfait, kit et total pour votre adresse avant de payer. Le prix est celui du site officiel.",
+      "label": "Voir mon adresse sur starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -291784,6 +294287,36 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "Trustpilot, profil starlink.com, lu le 23 novembre 2026."
+        },
+        "metrics": {
+          "items": [
+            {
+              "label": "TrustScore",
+              "value": "1,6",
+              "unit": "/5",
+              "note": "Profil non revendiqué"
+            },
+            {
+              "label": "Avis au total",
+              "value": "879",
+              "note": "Organiques uniquement"
+            },
+            {
+              "label": "Réponses de l’entreprise",
+              "value": "0 %",
+              "note": "0 sur 464 négatifs"
+            },
+            {
+              "label": "1 étoile vs 5 étoiles",
+              "value": "71 %",
+              "unit": "vs 17 %",
+              "note": "Support et facturation en tête"
+            }
+          ],
+          "summary": {
+            "badge": "Lire l’écart",
+            "text": "Les éloges portent sur la vitesse et la stabilité du signal ; les plaintes se concentrent sur le support automatisé, la facturation et les changements de prix."
+          }
         }
       },
       {
@@ -291833,15 +294366,32 @@ export const reviewsData: unknown[] = [
         "heading": "Ce que cela veut dire pour qui s’abonne",
         "paragraphs": [
           "Avant de payer, vérifiez l’offre, le kit (location ou achat), les taxes et le contrat sur starlink.com pour votre propre adresse : ils changent selon le pays et même selon l’adresse. Gardez une capture de l’offre le jour de la commande et comparez-y chaque facture.",
+          "La protection la plus simple consiste à commander directement sur starlink.com et à enregistrer la capture du récapitulatif de commande, avec le prix, le kit, le contrat et le parrainage appliqué. Comparez ensuite la première facture à cette capture. Le parrainage ne compte que sur une commande ouverte par un lien de parrainage, avant de payer, et on ne peut pas l’ajouter après coup.",
           "Les règles du kit en location et du retour figurent dans le [guide du contrat, de la résiliation et du remboursement](/fr/reviews/starlink-engagement-resilier)."
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "Antenne Starlink fixée au toit d'une maison en bois",
-          "caption": "Antenne résidentielle installée. Photo Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
-        }
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+            "alt": "Écran des offres Starlink pour Paris : 100 Mbit/s à 24,50 € par mois, avec le matériel en location à 0 €",
+            "caption": "Paris, offre 100 Mbit/s : mensualité, matériel en location à 0 € et l’indication de rendre le matériel loué. Le genre d’écran à conserver. Consultation du 23 novembre 2026.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.5909
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "Antenne Starlink fixée au toit d'une maison en bois",
+            "caption": "Antenne résidentielle installée. Photo Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ],
+        "links": [
+          {
+            "label": "Ouvrir la commande officielle sur starlink.com et vérifier ma zone",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Comment signaler un problème",
@@ -291853,15 +294403,32 @@ export const reviewsData: unknown[] = [
             "label": "Profil Trustpilot de starlink.com",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "Éléments du kit Starlink Standard : antenne, routeur, support et câbles",
+            "caption": "Kit Starlink Standard : antenne, routeur, support et câbles. Photo Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "Avant de souscrire",
         "paragraphs": [
           "Avant de souscrire, vérifiez le site et les conditions. Pour reconnaître le site officiel et les profils qui reprennent le nom, voir [Starlink est-il fiable ?](/fr/reviews/starlink-est-il-fiable).",
+          "Ouvrir la commande ne vous engage à rien : offre, prix, disponibilité et conditions du contrat n’apparaissent qu’après la saisie de votre adresse. La politique des 30 jours de Starlink prévoit un remboursement si vous résiliez et renvoyez le kit sans dommage dans ce délai, selon votre commande ; pour un kit subventionné avec engagement, vérifiez s’il y a des frais après les 30 jours.",
           "La page du [parrainage Starlink](/fr/coupons/starlink) donne le lien et les règles du programme. Un parrainage n’est pas un coupon : la récompense arrive en crédit sur la facture après deux mois d’abonnement, et les offres Prioritaire, Enterprise et Commerciale n’y ouvrent pas droit."
         ],
-        "emphasis": "D’après les chiffres du tableau, pour qui n’a pas de bonne solution internet à son adresse, s’abonner est raisonnable une fois l’offre, le kit, les taxes et le contrat vérifiés sur starlink.com pour cette adresse, car le 1,6 reflète des plaintes de support, de facturation et de prix plus que de qualité du signal."
+        "emphasis": "D’après les chiffres du tableau, pour qui n’a pas de bonne solution internet à son adresse, s’abonner est raisonnable une fois l’offre, le kit, les taxes et le contrat vérifiés sur starlink.com pour cette adresse, car le 1,6 reflète des plaintes de support, de facturation et de prix plus que de qualité du signal.",
+        "links": [
+          {
+            "label": "Vérifier la disponibilité à mon adresse sur starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Questions fréquentes",
@@ -291900,8 +294467,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Indiquez votre adresse sur le site de Starlink et vérifiez l’offre, le kit et la mensualité avant de payer.",
-      "label": "Voir les offres à votre adresse",
+      "text": "Ouvrez la commande par le lien de parrainage, vérifiez l’offre, le kit et le contrat à votre adresse et enregistrez la capture du récapitulatif avant de payer. Le prix est celui du site officiel.",
+      "label": "Ouvrir ma commande sur starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -291911,8 +294478,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-empfehlungslink",
     "translationKey": "starlink-indicacao",
     "locale": "de",
-    "title": "Starlink-Empfehlungslink: So nutzen Sie ihn und wann die Prämie kommt",
-    "seoTitle": "Starlink-Empfehlungslink: Nutzung und Prämie",
+    "title": "So sichern Sie sich 45 € Bonus beim Kauf Ihres ersten Starlink über den Empfehlungslink",
+    "seoTitle": "45 € Bonus beim ersten Starlink per Empfehlungslink",
     "type": "Empfehlungscode-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -291923,8 +294490,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Öffnen Sie den Link auf der offiziellen Seite und prüfen Sie die Prämie in der Bestellung, bevor Sie zahlen. Wer teilnehmen kann, wann der Betrag kommt, Guthaben oder Auszahlung.",
-    "metaDescription": "So öffnen Sie den Starlink-Empfehlungslink, finden den Betrag in der Bestellung und erhalten die Prämie, sobald die Bedingungen des Programms erfüllt sind.",
+    "description": "Starlink hat keinen Gutscheincode: Bestellen Sie Ihr erstes Kit über den Empfehlungslink, zahlen Sie denselben Preis und sichern Sie sich 45 € in Deutschland.",
+    "metaDescription": "So erhalten Sie 45 € Bonus in Deutschland bei Ihrer ersten Starlink-Bestellung, wie viel das beim 100-Mbit/s-Tarif abdeckt und wie Sie es aktivieren.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -291939,8 +294506,126 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Öffnen Sie den Empfehlungslink von Starlink und geben Sie Ihre Adresse ein. Prüfen Sie vor dem Bezahlen, ob der Hinweis auf den angewendeten Empfehlungscode erscheint, und lesen Sie die Prämie in der Bestellung ab. Das Programm gilt für Neukunden, und die Prämie wird nach zwei vollen Monatszyklen ausgezahlt, als Servicegutschrift oder, wo angeboten, als Auszahlung."
+          "Starlink bietet keinen Gutscheincode zum Eintippen: Neben den Angeboten auf der Website ist der Empfehlungslink der offizielle Weg zu einer Prämie beim ersten Abo. In Deutschland sind es 45 € (in anderen Ländern zeigt die Bestellung den Betrag in Ihrer Währung). Sie zahlen denselben Preis wie auf starlink.com und behalten die 30 Tage Testzeit; beim 100-Mbit/s-Tarif in Berlin (17,50 €/Monat im Aktionszeitraum) decken 45 € mehr als zweieinhalb Monate. Öffnen Sie vor dem Bestellen den Link, prüfen Sie den Empfehlungshinweis, bevor Sie bezahlen, aktivieren Sie das Kit und halten Sie das Abo zwei volle Monatszyklen aktiv und bezahlt. Nachträglich lässt sich die Empfehlung nicht eintragen."
         ]
+      },
+      {
+        "heading": "Warum sich der Link lohnt",
+        "paragraphs": [
+          "Wer starlink.com auf eigene Faust öffnet, zahlt für Hardware und Monatspreis dasselbe wie über den Link. Der Unterschied sind die 45 €, die liegen bleiben. Die Gutschrift senkt den Kitpreis am Bestelltag nicht: Sie kommt nach zwei vollen, bezahlten Monatszyklen auf die Rechnung.",
+          "Die Zahlen unten stammen von Referenzadressen. An Ihrer Adresse können Preis, Kit und Bedingungen anders sein, und nur die Bestellseite zeigt sie."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "alt": "Starlink-Bestellseite für Berlin mit dem Tarif Privathaushalt 100 Mbit/s zu 17,50 € pro Monat, 0 € Hardware und dem Hinweis, gemietete Hardware zurückzusenden",
+          "caption": "Berlin: die Tarife der Bestellseite, abgerufen am 23. November 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5909
+        },
+        "comparisonTable": {
+          "caption": "Preise auf starlink.com am 23. November 2026 gelesen, ohne einen Kauf abzuschließen. Die Aktionspreise gelten 3 Monate mit 50 % Rabatt; danach gilt der volle Preis, und der Vertrag läuft von Monat zu Monat mit gebührenfreier Kündigung. Die Gutschrift ist kein Rabatt beim Bezahlen: Sie kommt nach zwei vollen Zyklen.",
+          "headers": [
+            "Auf starlink.com gelesenes Szenario",
+            "Ohne Empfehlungslink",
+            "Mit Cecílias Link",
+            "Was die Gutschrift abdeckt"
+          ],
+          "rows": [
+            [
+              "Deutschland, Privathaushalt 100 Mbit/s (Berlin)",
+              "17,50 €/Monat für 3 Monate (danach 35 €), 0 € Hardware-Miete, 19 € heute",
+              "Dieselbe Bestellung + 45 € Gutschrift nach 2 bezahlten Zyklen",
+              "Mehr als 2,5 Monate des Aktionstarifs und mehr als das Doppelte der Versandkosten"
+            ],
+            [
+              "Deutschland, Privathaushalt 200 Mbit/s (Berlin)",
+              "27,50 €/Monat für 3 Monate (danach 55 €), 0 € Hardware-Miete",
+              "Dieselbe Bestellung + 45 € Gutschrift",
+              "Gut anderthalb Monate des Aktionstarifs"
+            ],
+            [
+              "Deutschland, Privathaushalt Max (Berlin)",
+              "37,50 €/Monat für 3 Monate (danach 75 €), 0 € Hardware-Miete",
+              "Dieselbe Bestellung + 45 € Gutschrift",
+              "Gut ein Monat des Aktionstarifs"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Meine Bestellung mit 45 € Empfehlungsbonus öffnen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "simulator": {
+          "title": "Rechnen Sie Ihr Szenario",
+          "scenarios": [
+            {
+              "label": "100 Mbit/s in Berlin + Link",
+              "lines": [
+                {
+                  "label": "Miete des Mini-X-Kits",
+                  "value": "0 €, bei Kündigung zurückzusenden"
+                },
+                {
+                  "label": "Monatspreis im Aktionszeitraum (3 Monate)",
+                  "value": "17,50 €/Monat"
+                },
+                {
+                  "label": "Empfehlungsgutschrift nach 2 bezahlten Zyklen",
+                  "value": "-45 € auf der Rechnung",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Gutschrift im Vergleich zum Monatspreis",
+              "totalValue": "Mehr als 2,5 Monate gedeckt",
+              "note": "Sie zahlen denselben Preis wie auf der Website und behalten 30 Tage Testzeit."
+            },
+            {
+              "label": "200 Mbit/s in Berlin + Link",
+              "lines": [
+                {
+                  "label": "Miete des Standard-4-Kits",
+                  "value": "0 €, bei Kündigung zurückzusenden"
+                },
+                {
+                  "label": "Monatspreis im Aktionszeitraum (3 Monate)",
+                  "value": "27,50 €/Monat"
+                },
+                {
+                  "label": "Empfehlungsgutschrift nach 2 bezahlten Zyklen",
+                  "value": "-45 € auf der Rechnung",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Gutschrift im Vergleich zum Monatspreis",
+              "totalValue": "Gut 1,5 Monate gedeckt",
+              "note": "Heute sind 19 € Versand fällig; die Gutschrift kommt später, nicht an der Kasse."
+            },
+            {
+              "label": "Bestellung ohne Empfehlungslink",
+              "lines": [
+                {
+                  "label": "Preis für Kit und Tarif",
+                  "value": "Derselbe wie über den Link"
+                },
+                {
+                  "label": "Empfehlungsgutschrift",
+                  "value": "0 €, nachträglich nicht möglich"
+                },
+                {
+                  "label": "Prämie, die liegen bleibt",
+                  "value": "45 € in Deutschland",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Erhaltene Empfehlungsprämie",
+              "totalValue": "0 €",
+              "note": "Die Empfehlung muss in der ursprünglichen Bestellung stehen, vor der Zahlung."
+            }
+          ]
+        }
       },
       {
         "heading": "So nutzen Sie den Link, Schritt für Schritt",
@@ -291950,6 +294635,53 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Prüfen Sie den Hinweis, bevor Sie bezahlen. Laut Starlink muss die Empfehlung in der ursprünglichen Bestellung stehen."
         ],
+        "bullets": [
+          "Wählen Sie in der Bestellung einen berechtigten Tarif für Privathaushalt oder Reise.",
+          "Suchen Sie den Hinweis, dass der Empfehlungscode angewendet wurde, und lesen Sie Prämie und Gesamtbetrag ab.",
+          "Schließen Sie die Bestellung auf der Starlink-Seite ab. Den Betrag am Bestelltag zeigt die Bestellseite selbst.",
+          "Aktivieren Sie das Kit und behalten Sie die erste Rechnung im Blick. Die erste Zahlung und die Aktivierung der Hardware gehören zu den Voraussetzungen der Empfehlung."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Bestellseite auf der offiziellen Starlink-Website mit der Meldung Referral Code Applied, die sagt, dass Sie und Ihr Freund je 100 $ erhalten, als Geld oder Servicegutschrift",
+          "caption": "Bestellung auf der offiziellen Seite mit angewendetem Empfehlungslink (Beispiel aus Nevada, USA).",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "Checkliste vor dem Bezahlen",
+        "paragraphs": [
+          "Haken Sie jeden Punkt auf dem Bildschirm ab, bevor Sie bezahlen. Das dauert zwei Minuten und entscheidet, ob die Gutschrift in Ihrer Bestellung steht."
+        ],
+        "checklist": {
+          "title": "Vor dem Abschluss der Bestellung",
+          "items": [
+            "Ich habe die Bestellung über Cecílias Empfehlungslink in diesem Fenster geöffnet, damit die Gutschrift nicht verloren geht.",
+            "Ich habe geprüft, dass die Adressleiste auf starlink.com steht, bevor ich Daten eingebe.",
+            "Ich habe den Hinderniscan der Starlink-App an der geplanten Stelle durchgeführt, um freien Himmel zu bestätigen.",
+            "Ich habe in der Bestellübersicht den Empfehlungshinweis, den Kitpreis und eine mögliche 12-Monats-Bindung gesehen.",
+            "Ich habe vor dem Bezahlen einen Screenshot der Übersicht mit Monatspreis und 30-Tage-Regel gespeichert."
+          ]
+        }
+      },
+      {
+        "heading": "Wie viel es bringt und wann es kommt",
+        "paragraphs": [
+          "Der Betrag hängt vom Land ab, in dem Sie sich anmelden, und steht in Ihrer Bestellung. Wer empfiehlt, erhält denselben Betrag, als Geld oder als Servicegutschrift.",
+          "Das Abonnement muss zwei volle Monatszyklen aktiv und bezahlt bleiben. Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, je nach Land, Konto und Identitätsprüfung.",
+          "Standard ist die Gutschrift auf der Rechnung. Bietet Ihr Konto eine Auszahlung in Geld an, öffnen Sie die Empfehlungen im Browser, wählen die Auszahlungsmethode und schließen Identifikation und Bankangaben bei Stripe ab. Die Gutschrift kommt auf die Rechnung und senkt den Kitpreis in der Bestellung nicht."
+        ],
+        "emphasis": "Die Prämie wird erst nach zwei vollen Monatszyklen mit aktivem, bezahltem Abonnement ausgezahlt, standardmäßig als Gutschrift auf der Rechnung, und wer abonniert und wer empfiehlt erhalten denselben Betrag; den Betrag für Ihr Land zeigt die Bestellung.",
+        "emphasisAfterParagraph": 3
+      },
+      {
+        "heading": "Verpflichtet das Öffnen des Links zu etwas? Der 30-Tage-Test",
+        "paragraphs": [
+          "Das Öffnen des Links verpflichtet zu nichts. Tarifpreis, Kit, Verfügbarkeit und eine mögliche Bindung erscheinen erst, wenn Sie auf starlink.com eine Adresse eingeben.",
+          "Nach der Zahlung gewährt Starlink laut den Bedingungen auf seiner Seite 30 Tage, um das Kit zurückzugeben. Funktioniert die Antenne auf Ihrem Dach nicht, können Sie kündigen und die Hardware in dieser Frist zurücksenden. Auf der Bestellübersicht steht außerdem, dass der Vertrag von Monat zu Monat läuft und die Kündigung gebührenfrei ist.",
+          "Darum kommt der Link vor dem Test: Die Empfehlung zählt nur in der ursprünglichen Bestellung. Wer ohne sie testet, zahlt am ersten Tag dasselbe und verliert die 45 €, wenn er die Antenne behält."
+        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
           "alt": "Haus mit einer auf dem Dach installierten Starlink-Antenne",
@@ -291957,22 +294689,13 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.4995
         },
-        "bullets": [
-          "Wählen Sie in der Bestellung einen berechtigten Tarif für Privathaushalt oder Reise.",
-          "Suchen Sie den Hinweis, dass der Empfehlungscode angewendet wurde, und lesen Sie Prämie und Gesamtbetrag ab.",
-          "Schließen Sie die Bestellung auf der Starlink-Seite ab. Den Betrag am Bestelltag zeigt die Bestellseite selbst.",
-          "Aktivieren Sie das Kit und behalten Sie die erste Rechnung im Blick. Die erste Zahlung und die Aktivierung der Hardware gehören zu den Voraussetzungen der Empfehlung."
+        "links": [
+          {
+            "label": "Prämie sichern, bevor Sie bestellen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
-      },
-      {
-        "heading": "Wie viel es bringt und wann es kommt",
-        "paragraphs": [
-          "Der Betrag hängt vom Land ab, in dem Sie sich anmelden, und steht in Ihrer Bestellung. Wer empfiehlt, erhält denselben Betrag, als Geld oder als Servicegutschrift.",
-          "Das Abonnement muss zwei volle Monatszyklen aktiv und bezahlt bleiben. Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, je nach Land, Konto und Identitätsprüfung.",
-          "Standard ist die Gutschrift auf der Rechnung. Bietet Ihr Konto eine Auszahlung in Geld an, öffnen Sie die Empfehlungen im Browser, wählen die Auszahlungsmethode und schließen Identifikation und Bankangaben bei Stripe ab."
-        ],
-        "emphasis": "Die Prämie wird erst nach zwei vollen Monatszyklen mit aktivem, bezahltem Abonnement ausgezahlt, standardmäßig als Gutschrift auf der Rechnung, und wer abonniert und wer empfiehlt erhalten denselben Betrag; den Betrag für Ihr Land zeigt die Bestellung.",
-        "emphasisAfterParagraph": 3
       },
       {
         "heading": "Wer teilnehmen kann",
@@ -291990,15 +294713,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Und das Black-Friday-Angebot?",
+        "heading": "Vier Fehler, die die Gutschrift kosten, auch wenn Sie den Link geöffnet haben",
         "paragraphs": [
-          "In Deutschland zeigte die Bestellseite zuletzt 50 % Rabatt auf Tarife für Privathaushalt und Reise, für 3 Monate. Ob Angebot und Empfehlung in Ihrer Bestellung gemeinsam erscheinen, sehen Sie vor dem Bezahlen. Die Rechnung dazu steht im [Leitfaden zum Black-Friday-Angebot](/de/reviews/starlink-black-friday-angebot)."
+          "Die meisten verlorenen Gutschriften gehen auf einen dieser vier Patzer zurück."
+        ],
+        "bullets": [
+          "Das Kit bei einem Händler oder auf einem Marktplatz kaufen. Das Programm zählt nur Bestellungen auf starlink.com über den Link.",
+          "Bezahlen, ohne den Hinweis zu prüfen. Die Empfehlung muss in der ursprünglichen Bestellung stehen und lässt sich nicht nachtragen: Fehlt der Hinweis auf dem Bildschirm, öffnen Sie den Link vor dem Bezahlen erneut. Wechseln Sie mitten in der Bestellung Gerät oder Browser, öffnen Sie den Link noch einmal und prüfen den Hinweis erneut.",
+          "Den Link als Bestandskunde oder früherer Kunde nutzen. Die Gutschrift gilt nur für alle, die Starlink zum ersten Mal abonnieren.",
+          "Zu früh kündigen. Die Gutschrift verlangt ein aktives, bezahltes Abonnement über zwei volle Monatszyklen, und die Auszahlung kann frühestens 60 Tage nach der Aktivierung beginnen."
         ]
       },
       {
-        "heading": "So verfolgen Sie den Stand",
+        "heading": "Und das Black-Friday-Angebot?",
         "paragraphs": [
-          "Auf der Registerkarte Empfehlungen auf der Website oder in der App sehen Sie, wer über Ihren Link abonniert hat. Starlink schickt eine E-Mail, wenn jemand die Bestellung aufgibt. Eine Empfehlung kann eine Berechtigungsprüfung durchlaufen, bevor eine Prämie entsteht."
+          "In Deutschland zeigte die Bestellseite zuletzt 50 % Rabatt auf Tarife für Privathaushalt und Reise, für 3 Monate. Ob Angebot und Empfehlung in Ihrer Bestellung gemeinsam erscheinen, sehen Sie vor dem Bezahlen. Die Rechnung dazu steht im [Leitfaden zum Black-Friday-Angebot](/de/reviews/starlink-black-friday-angebot).",
+          "In der Bestellübersicht für den 200-Mbit/s-Tarif in Berlin zeigte Starlink 55 € mit 3 Monaten Rabatt von 27,50 €, das Kit zur Miete für 0 € und 19 € am Bestelltag. Wer sich vor der Bindung sorgt, liest den [Leitfaden zu Vertrag und Kündigung bei Starlink](/de/reviews/starlink-vertrag-kuendigen) und [lohnt sich Starlink](/de/reviews/lohnt-sich-starlink)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+          "alt": "Starlink-Bestellübersicht für Berlin mit dem Tarif 200 Mbit/s zu 55 €, dem Hinweis auf Verlängerung von Monat zu Monat mit gebührenfreier Kündigung, 3 Monaten Rabatt von 27,50 € und 19 € am Bestelltag",
+          "caption": "Berlin: Bestellübersicht des Tarifs 200 Mbit/s, abgerufen am 23. November 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5889
+        }
+      },
+      {
+        "heading": "So verfolgen Sie den Stand und nutzen Ihren eigenen Link",
+        "paragraphs": [
+          "Auf der Registerkarte Empfehlungen auf der Website oder in der App sehen Sie, wer über Ihren Link abonniert hat. Starlink schickt eine E-Mail, wenn jemand die Bestellung aufgibt. Eine Empfehlung kann eine Berechtigungsprüfung durchlaufen, bevor eine Prämie entsteht.",
+          "Sobald Sie aktiver Kunde eines berechtigten Tarifs für Privathaushalt oder Reise sind, können Sie selbst empfehlen, und wer empfiehlt, erhält denselben Betrag wie der Neukunde. Den Betrag für Ihr Land zeigt die Bestellung der Person, die abonniert."
         ]
       },
       {
@@ -292010,13 +294754,14 @@ export const reviewsData: unknown[] = [
           "Wann kommt die Starlink-Prämie? Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, wenn die Empfehlung die Bedingungen des Programms erfüllt.",
           "Gilt die Empfehlung bei einem Händler oder Marktplatz? Das Programm verlangt den Kauf direkt auf starlink.com über den Link.",
           "Ich war schon Kunde, kann ich den Link nutzen? Die Prämie gilt für alle, die Starlink zum ersten Mal abonnieren.",
-          "Funktioniert der Empfehlungslink in Deutschland? Laut Hilfecenter von Starlink gilt die Empfehlung in den meisten Ländern, in denen Starlink verkauft, und der Betrag hängt vom Land ab, in dem Sie sich anmelden. Ob sie für Ihre Adresse gilt, zeigt der Hinweis in der Bestellung."
+          "Funktioniert der Empfehlungslink in Deutschland? Laut Hilfecenter von Starlink gilt die Empfehlung in den meisten Ländern, in denen Starlink verkauft, und der Betrag hängt vom Land ab, in dem Sie sich anmelden. Ob sie für Ihre Adresse gilt, zeigt der Hinweis in der Bestellung.",
+          "Kann ich die Empfehlung nach dem Bezahlen nachtragen? Nein. Starlink verlangt, dass die Empfehlung in der ursprünglichen Bestellung steht, aufgegeben auf starlink.com über einen Empfehlungslink, vor der Zahlung."
         ]
       }
     ],
     "cta": {
-      "text": "Prüfen Sie die Prämie, die Ihre Bestellung für Ihre Adresse anzeigt, bevor Sie bezahlen.",
-      "label": "Empfehlung in der Bestellung ansehen",
+      "text": "Sie zahlen genau denselben Preis wie auf der offiziellen Website, behalten 30 Tage zur Rückgabe des Kits, falls es auf Ihrem Dach nicht funktioniert, und sichern sich 45 € Gutschrift in Deutschland nach zwei Monatszyklen.",
+      "label": "45 € Empfehlungsbonus bei Starlink sichern",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -292051,8 +294796,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-angebot",
     "translationKey": "starlink-black-friday",
     "locale": "de",
-    "title": "Starlink Black Friday 2026: 50 % Rabatt für 3 Monate und die Rechnung für Berlin",
-    "seoTitle": "Starlink Black Friday 2026: 50 % für 3 Monate",
+    "title": "Starlink Black Friday 2026: 50 % Rabatt für 3 Monate, Kit zur Miete für 0 € und die Empfehlungsprämie",
+    "seoTitle": "Starlink Black Friday 2026: 17,50 € im Monat und Kit für 0 €",
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -292063,8 +294808,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "In Berlin zeigte Starlink 50 % auf Privathaushalt und Reise für 3 Monate, Kit zur Miete für 0 €. Wir rechnen die ersten Monate und zeigen, wie die Empfehlungsprämie dazukommt.",
-    "metaDescription": "Starlink Black Friday: 50 % auf Privathaushalt und Reise für 3 Monate, Kit zur Miete für 0 €. Die Rechnung für Berlin und die Empfehlungsprämie.",
+    "description": "In Berlin zeigte Starlink 100 Mbit/s für 17,50 € im Monat statt 35 €, drei Monate lang, und das Kit zur Miete für 0 €. Die Rechnung für Berlin und die Empfehlungsprämie.",
+    "metaDescription": "Starlink Black Friday: 50 % auf die Tarife für 3 Monate, Kit zur Miete für 0 €, monatlich kündbar. Die Rechnung für Berlin und die Empfehlungsprämie.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -292079,57 +294824,125 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "In Deutschland zeigte die Bestellseite 50 % Rabatt auf die Tarife für Privathaushalt und Reise, für 3 Monate und bei Anmeldung bis Ende November. Das Kit ist gemietet, mit 0 € Vorauszahlung, und geht bei Kündigung zurück. Die Empfehlungsprämie kommt erst nach zwei vollen Monatszyklen dazu, und ihren Betrag zeigt Ihre Bestellung."
+          "Die Bestellseite von Starlink zeigte in Berlin 50 % Rabatt auf die Tarife für die ersten 3 Monate, bei Bestellung bis zum 30. November: 100 Mbit/s für 17,50 € im Monat, 200 Mbit/s für 27,50 € und Max für 37,50 €, dazu das Kit zur Miete für 0 € und 19 € am Bestelltag. Der Vertrag läuft von Monat zu Monat und ist gebührenfrei kündbar. Die Empfehlungsprämie zählt nur, wenn Sie die Bestellung vor der Zahlung über einen Empfehlungslink öffnen."
         ]
       },
       {
-        "heading": "Was Sie zahlen und was die Prämie ändert",
+        "heading": "Die drei Tarife in Berlin: Aktionspreis und Normalpreis",
         "paragraphs": [
-          "Wir haben die Bestellseite für eine Adresse in Berlin am 20. November 2026 gelesen, ohne Empfehlungslink und ohne den Kauf abzuschließen. Der Tarif Privathaushalt mit 100 Mbit/s kostete 17,50 € im Monat, mit 200 Mbit/s 27,50 € und der Max 37,50 €. Das Kit ist zur Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat. Als Betrag für den Bestelltag zeigte die Seite 19 €.",
-          "Die Prämie der Empfehlung steht in keiner dieser Zahlen. Wie hoch sie für Ihr Land ist, sehen Sie in der Bestellung mit dem Link, und sie wird erst gutgeschrieben, wenn der Dienst zwei volle Monatszyklen aktiv und bezahlt war."
+          "Wir haben die Bestellseite für eine Adresse am Alexanderplatz in Berlin am 23. November 2026 gelesen, ohne den Kauf abzuschließen. Der Tarif Privathaushalt mit 100 Mbit/s kostete 17,50 € im Monat statt 35 €, mit 200 Mbit/s 27,50 € statt 55 € und der Max 37,50 € statt 75 €. Die 50 % gelten für 3 Monate. Das Kit ist zur Miete, mit 0 € Vorauszahlung und 0 € im Monat, und am Bestelltag waren 19 € fällig (15,97 € plus 3,03 € Umsatzsteuer).",
+          "In der Bestellübersicht steht bei jedem Tarif, dass der Vertrag automatisch von Monat zu Monat auf unbestimmte Zeit verlängert wird, bis er gekündigt wird, und dass die Kündigung gebührenfrei ist. Die professionelle Montage ist bei 100 und 200 Mbit/s optional für 172 € und beim Max gratis. Die Prämie kommt als Gutschrift auf der Rechnung und senkt den Preis des Kits nicht."
         ],
         "comparisonTable": {
           "headers": [
             "Privathaushalt in Berlin",
-            "Pro Monat im Aktionszeitraum",
-            "Summe für 3 Monate"
+            "Pro Monat, die ersten 3 Monate",
+            "Pro Monat danach"
           ],
           "rows": [
             [
               "100 Mbit/s",
               "17,50 €",
-              "52,50 €"
+              "35 €"
             ],
             [
               "200 Mbit/s",
               "27,50 €",
-              "82,50 €"
+              "55 €"
             ],
             [
               "Max",
               "37,50 €",
-              "112,50 €"
+              "75 €"
             ],
             [
-              "Kit zur Miete",
-              "0 € Vorauszahlung, 0 € im Monat",
-              "0 €"
+              "Kit zur Miete, Vorauszahlung und pro Monat",
+              "0 € und 0 €",
+              "0 € und 0 €"
             ],
             [
-              "Professionelle Montage, optional bei 100 und 200 Mbit/s",
-              "einmalig 172 €",
-              "172 €"
+              "Am Bestelltag fällig",
+              "19 €",
+              "19 €"
             ]
           ],
-          "caption": "Preise von der Bestellseite für Berlin. Die Summen über 3 Monate sind unsere Rechnung mit dem Aktionspreis. Was danach gilt, haben wir nicht erfasst."
+          "caption": "Preise von der Bestellseite für Berlin, gelesen am 23. November 2026. Der Aktionspreis gilt bei Bestellung bis zum 30. November, danach zählt der Normalpreis."
+        },
+        "simulator": {
+          "title": "Schneller Rechner: Berlin",
+          "scenarios": [
+            {
+              "label": "100 Mbit/s mit Link",
+              "lines": [
+                {
+                  "label": "Tarif im Aktionszeitraum",
+                  "value": "17,50 € im Monat"
+                },
+                {
+                  "label": "Kit zur Miete",
+                  "value": "0 € vorab, 0 € im Monat"
+                },
+                {
+                  "label": "Empfehlungsprämie nach zwei bezahlten Zyklen",
+                  "value": "Gutschrift auf der Rechnung (Betrag sehen Sie in Ihrer Bestellung)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Am Bestelltag fällig",
+              "totalValue": "19 €",
+              "note": "Die ersten Rechnungen zahlen Sie selbst. Die Prämie kommt nach zwei vollen Monatszyklen."
+            },
+            {
+              "label": "200 Mbit/s mit Link",
+              "lines": [
+                {
+                  "label": "Tarif im Aktionszeitraum",
+                  "value": "27,50 € im Monat"
+                },
+                {
+                  "label": "Kit zur Miete",
+                  "value": "0 € vorab, 0 € im Monat"
+                },
+                {
+                  "label": "Empfehlungsprämie nach zwei bezahlten Zyklen",
+                  "value": "Gutschrift auf der Rechnung (Betrag sehen Sie in Ihrer Bestellung)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Am Bestelltag fällig",
+              "totalValue": "19 €",
+              "note": "Nach den 3 Monaten gilt der Normalpreis. Die Montage ist optional und kostet 172 €."
+            },
+            {
+              "label": "Ohne Empfehlungslink",
+              "lines": [
+                {
+                  "label": "Preis von Tarif und Kit",
+                  "value": "Derselbe wie mit dem Link"
+                },
+                {
+                  "label": "Empfehlungsprämie",
+                  "value": "0 €"
+                },
+                {
+                  "label": "Was Sie verschenken",
+                  "value": "Die ganze Prämie",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Erhaltene Prämie",
+              "totalValue": "0 €",
+              "note": "Die Empfehlung zählt nur, wenn die Bestellung über einen Empfehlungslink beginnt, vor der Zahlung."
+            }
+          ]
         },
         "postParagraphs": [
-          "Beim Max zeigte die Seite die professionelle Montage mit 0 €. Die Prämie braucht eine berechtigte Empfehlung, und Starlink zahlt sie als Servicegutschrift oder, wo das Konto es anbietet, als Auszahlung."
+          "Auf drei Monate gerechnet kostet der 100-Mbit/s-Tarif 52,50 €, der 200-Mbit/s-Tarif 82,50 € und der Max 112,50 €. Danach verdoppelt sich der Monatspreis, weil der Normalpreis gilt. Wer länger bleiben will, rechnet deshalb mit 35 €, 55 € oder 75 €."
         ],
         "emphasis": "Nach den Zahlen der Tabelle zahlt, wer in Berlin bestellt, 19 € am Bestelltag und danach 17,50 € bis 37,50 € im Monat, und die Prämie wird erst nach zwei vollen Monatszyklen gutgeschrieben, sodass die ersten Rechnungen aus eigener Tasche kommen.",
         "links": [
           {
-            "label": "Tarife für Ihre Adresse ansehen",
+            "label": "Black Friday und Empfehlungsprämie für meine Adresse prüfen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -292138,15 +294951,58 @@ export const reviewsData: unknown[] = [
       {
         "heading": "So sieht es in der Bestellung aus",
         "paragraphs": [
-          "Um Ihr Angebot zu prüfen, öffnen Sie den Link, geben die Adresse ein und suchen den Hinweis auf den angewendeten Empfehlungscode, bevor Sie bezahlen. Achten Sie darauf, ob die Bestellung die Prämie und die Bedingungen des Monatspreises zeigt."
+          "Der Screenshot zeigt den Hinweis „Referral Code Applied“ einer US-Bestellung, die über einen Empfehlungslink geöffnet wurde. Die Bestellung mit dem Link zeigt den Hinweis auf die angewendete Empfehlung und den Betrag der Prämie für Ihr Land.",
+          "Um Ihr Angebot zu prüfen, öffnen Sie den Link, geben die Adresse ein und suchen den Hinweis, bevor Sie bezahlen. Achten Sie darauf, ob die Bestellung die Prämie und die Bedingungen des Monatspreises zeigt."
         ],
         "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "Starlink-Antenne am Dach eines Holzhauses",
-          "caption": "Antenne für Privathaushalte, installiert. Foto von Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Bestellseite der offiziellen Starlink-Website mit der Meldung Referral Code Applied, dass Sie und Ihr Freund bei der Anmeldung mit diesem Code je 100 Dollar erhalten, als Geld oder Servicegutschrift",
+          "caption": "Bestellung auf der offiziellen Website mit angewendetem Empfehlungslink (US-Beispiel; in Deutschland sehen Sie den Betrag in Ihrer Bestellung).",
+          "aspectRatio": 0.8747,
+          "objectFit": "contain"
         }
+      },
+      {
+        "heading": "Gilt das Angebot an Ihrer Adresse?",
+        "paragraphs": [
+          "Die Aktion gilt für ausgewählte Gebiete. Auf der Startseite stand der Preis ab 17,50 € für diese Gebiete, und zwei Adressen können am selben Tag verschiedene Preise sehen. Ob Ihre Adresse dazugehört, sagt erst die Bestellung nach der Eingabe der Adresse.",
+          "Der Berliner Screenshot unten zeigt die drei Tarife und den Hinweis, das Miet-Kit bei Kündigung zurückzusenden."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "alt": "Starlink-Bestellung für Berlin mit den Tarifen 100 Mbit/s, 200 Mbit/s und Max, dem Aktionspreis und dem Hinweis, das gemietete Kit zurückzusenden",
+          "caption": "Bestellung für Berlin, gelesen am 23.11.2026: Tarife von 100 Mbit/s bis Max und Kit zur Miete für 0 €.",
+          "aspectRatio": 0.5909,
+          "objectFit": "portrait"
+        }
+      },
+      {
+        "heading": "Miet-Kit, Kündigung und 30 Tage zum Testen",
+        "paragraphs": [
+          "Das Kit ist gemietet. Wenn Sie den Dienst kündigen, müssen Sie es zurückgeben. Die Bestellseite nennt die Erstattung von Kit und erstem Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückschicken, und Sie haben ein Widerrufsrecht. Deshalb kostet das Öffnen der Bestellung nichts: Sie sehen den Preis für Ihre Adresse, testen die Antenne auf Ihrem Dach und entscheiden danach.",
+          "Danach läuft der Vertrag von Monat zu Monat weiter, und die Kündigung ist gebührenfrei. Mehr dazu im [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+          "alt": "Bestellübersicht von Starlink in Berlin für 200 Mbit/s zu 55 € mit 3 Monaten Rabatt von 27,50 € und dem Hinweis auf die gebührenfreie Kündigung von Monat zu Monat",
+          "caption": "Bestellübersicht in Berlin (23.11.2026): 200 Mbit/s zu 55 €, 3 Monate minus 27,50 €, 19 € am Bestelltag.",
+          "aspectRatio": 0.5889,
+          "objectFit": "portrait"
+        },
+        "links": [
+          {
+            "label": "Prämie sichern, bevor ich die Bestellung bezahle",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Nach den 3 Monaten: den Preis absichern",
+        "paragraphs": [
+          "Die 50 % gelten für Bestellungen bis zum 30. November und für die ersten 3 Monate. Danach zahlen Sie den Normalpreis, der nicht für immer garantiert ist: Prüfen Sie ihn in Ihrer Bestellung und in den Bedingungen von Starlink. Wer länger bleiben will, plant mit 35 €, 55 € oder 75 € im Monat. Ob sich bei einem Tarifwechsel in den ersten 3 Monaten der Aktionspreis ändert, sagen die öffentlichen Seiten nicht: Fragen Sie vorher beim Support oder lesen Sie die Bedingungen Ihrer Bestellung.",
+          "Speichern Sie vor dem Bezahlen einen Screenshot der Bestellübersicht mit Preis, Kit-Zeile und Empfehlungshinweis und vergleichen Sie damit Ihre erste Rechnung. Passt eine Rechnung nicht, eröffnen Sie in Ihrem Konto eine Supportanfrage mit dem Screenshot."
+        ]
       },
       {
         "heading": "Was es bringt, andere zu empfehlen",
@@ -292156,28 +295012,24 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Gilt das Angebot an Ihrer Adresse?",
+        "heading": "Die 4 Fehler, die die Prämie kosten",
         "paragraphs": [
-          "Die Aktion gilt für ausgewählte Gebiete. Auf der Startseite stand der Preis ab 17,50 € für diese Gebiete. Ob Ihre Adresse dazugehört, sagt erst die Bestellung nach der Eingabe der Adresse. Vergleichen Sie die Kosten der Tarife an Ihrer Adresse mit der Dauer jedes Angebots."
-        ]
-      },
-      {
-        "heading": "Kündigung und Rückgabe des Kits",
-        "paragraphs": [
-          "Das Kit ist gemietet. Wenn Sie den Dienst kündigen, müssen Sie es zurückgeben. Die Bestellseite nennt die Erstattung von Kit und erstem Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückschicken. Mehr dazu im [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen)."
-        ]
-      },
-      {
-        "heading": "Und nach den 3 Monaten?",
-        "paragraphs": [
-          "Welcher Preis nach den 3 Aktionsmonaten gilt, haben wir auf der Bestellseite nicht erfasst. Prüfen Sie ihn vor dem Bezahlen und rechnen Sie mit diesem Preis, wenn Sie länger bleiben wollen.",
-          "Was bei einem Tarifwechsel, einer Kündigung oder einer Sperrung mit dem Aktionspreis geschieht, steht in den Bedingungen Ihrer Bestellung."
+          "Auch wer auf den Link klickt, verliert die Prämie durch kleine Fehler:"
+        ],
+        "bullets": [
+          "Das Kit bei einem Marktplatz oder im Handel kaufen und den Link danach benutzen wollen. Die Empfehlung zählt nur bei einer Bestellung auf starlink.com über einen Empfehlungslink, vor der Zahlung.",
+          "Den Link am Handy öffnen und die Bestellung Stunden später auf einem anderen Gerät abschließen, ohne den Link erneut zu öffnen. Die Empfehlung geht dann eventuell nicht mit: Bestellen Sie alles auf einem Gerät oder öffnen Sie den Link erneut und suchen Sie den grünen Hinweis.",
+          "Sich mit einem Namen, einer E-Mail-Adresse oder einer Anschrift anmelden, die schon ein Starlink-Konto hatte. Die Prämie gilt für Neukunden.",
+          "Kündigen oder zu spät zahlen, bevor zwei Monatszyklen bezahlt sind. Die Prämie kommt nur bei aktivem und beglichenem Dienst."
+        ],
+        "postParagraphs": [
+          "Wurde die Bestellung schon ohne den Link bezahlt, lässt sich die Empfehlung nicht nachtragen."
         ]
       },
       {
         "heading": "So nutzen Sie den Link",
         "paragraphs": [
-          "Öffnen Sie den Link und geben Sie die Adresse ein, an der Sie die Antenne installieren. Wählen Sie den Tarif, prüfen Sie die angewendete Empfehlung und notieren Sie das Angebot, das vor dem Bezahlen erscheint.",
+          "Das Öffnen des Links verpflichtet zu nichts: Preise, Verfügbarkeit und Angebot erscheinen erst nach der Eingabe Ihrer Adresse. Geben Sie die Adresse ein, an der Sie die Antenne installieren, wählen Sie den Tarif, prüfen Sie die angewendete Empfehlung und speichern Sie das Angebot, das vor dem Bezahlen erscheint.",
           "Auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink) stehen der Link und die Regeln des Programms."
         ]
       },
@@ -292185,22 +295037,24 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Hat Starlink einen Rabattcode? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
-          "Gibt es bei Starlink einen Black Friday? Die Bestellseite für Berlin zeigte 50 % Rabatt auf die Tarife Privathaushalt und Reise für 3 Monate, mit Kit zur Miete für 0 €.",
-          "Lässt sich die Empfehlung mit dem Angebot kombinieren? Prüfen Sie in der Bestellung für Ihre Adresse, ob beide erscheinen. Die Prämie hängt von der Berechtigung und von zwei vollen Monatszyklen ab.",
+          "Gibt es bei Starlink einen Black Friday? Ja. Die Bestellseite für Berlin zeigte 50 % Rabatt auf die Tarife für 3 Monate, mit Kit zur Miete für 0 €.",
+          "Lässt sich die Empfehlung mit dem Angebot kombinieren? Es sind zwei getrennte Zeilen der Bestellung. Prüfen Sie in der Bestellung für Ihre Adresse, ob beide erscheinen. Die Prämie hängt von der Berechtigung und von zwei vollen Monatszyklen ab.",
           "Wie viel wird bei der Bestellung berechnet? Die Bestellseite für Berlin zeigte 19 € als Betrag für den Bestelltag.",
-          "Muss ich das Kit kaufen? Die Seite zeigte das Kit zur Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat. Bei Kündigung muss es zurückgeschickt werden.",
-          "Wie lange läuft das Angebot? Laut Starlink endet das Angebot am 30. November. Geben Sie Ihre Adresse in der Bestellung ein, um zu sehen, ob sie dort gilt."
+          "Was kosten die Tarife im Monat? In Berlin 17,50 € für 100 Mbit/s, 27,50 € für 200 Mbit/s und 37,50 € für den Max, drei Monate lang. Danach gilt der Normalpreis von 35 €, 55 € und 75 €.",
+          "Kann ich Starlink vor der Entscheidung testen? Ja. Starlink erstattet Kit und ersten Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückschicken.",
+          "Kann ich die Empfehlung nach dem Bezahlen nachtragen? Nein. Sie zählt nur bei der Bestellung, die über den Link geöffnet wurde, vor der Zahlung.",
+          "Wie lange läuft das Angebot? Laut Starlink endet das Angebot Ende November. Geben Sie Ihre Adresse in der Bestellung ein, um zu sehen, ob sie dort gilt."
         ]
       }
     ],
     "cta": {
-      "text": "Die Bestellung öffnet sich auf der Starlink-Seite. Prüfen Sie Tarifpreis, Rückgabe des Kits und Prämie, bevor Sie bezahlen.",
-      "label": "Angebot für meine Adresse prüfen",
+      "text": "Sie zahlen denselben Preis wie auf der offiziellen Bestellseite, behalten die 30 Tage zum Testen samt Rückgabe des Miet-Kits, falls die Antenne auf Ihrem Dach nicht funktioniert, und die Empfehlungsprämie kommt nach zwei bezahlten Zyklen auf Ihre Rechnung.",
+      "label": "Meine Adresse mit Empfehlung prüfen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Preise von der Bestellseite der offiziellen Website gelesen, ohne den Kauf abzuschließen. Die Summen über 3 Monate sind Rechnungen von uns. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+    "editorialNote": "Preise von den Bestellseiten der offiziellen Website gelesen, ohne den Kauf abzuschließen. Die Summen über 3 Monate sind Rechnungen von uns. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
     "relatedArticles": [
       {
         "slug": "starlink-empfehlungslink"
@@ -292216,11 +295070,11 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "die Bestellung für Ihre Adresse das Angebot und die Kit-Bedingungen vor der Zahlung zeigt.",
+        "die Bestellung für Ihre Adresse die 50 % auf den Tarif und die Bedingungen des Miet-Kits vor der Zahlung zeigt.",
         "Sie zwei volle Monatszyklen auf die Prämie warten und die Rechnungen in der Zwischenzeit zahlen können."
       ],
       "skipIf": [
-        "Ihre Bestellung das Angebot nicht zeigt, denn die gelesenen Preise gelten für eine einzige Adresse.",
+        "Ihre Bestellung das Angebot nicht zeigt, denn die gelesenen Preise gelten für die geprüften Adressen.",
         "Sie bald wieder kündigen könnten und weder die Rückgabe des Kits noch den Verlust des Aktionspreises riskieren wollen."
       ]
     }
@@ -292230,8 +295084,8 @@ export const reviewsData: unknown[] = [
     "slug": "lohnt-sich-starlink",
     "translationKey": "starlink-vale-a-pena",
     "locale": "de",
-    "title": "Lohnt sich Starlink? Die Rechnung für die ersten Monate und für wen es passt",
-    "seoTitle": "Lohnt sich Starlink? Kosten und Eignung",
+    "title": "Lohnt sich Starlink? Preise, instabiles Glasfaser-Netz und Backup-Internet",
+    "seoTitle": "Lohnt sich Starlink? Kosten, Glasfaser & Backup",
     "type": "Kaufratgeber",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -292242,8 +295096,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Vergleichen Sie die Starlink-Kosten der ersten Monate mit dem Anschluss, der bei Ihnen ankommt. Kit zur Miete, Montage, Rückgabe und wie Sie den Standort der Antenne prüfen.",
-    "metaDescription": "Lohnt sich Starlink? Die Kosten der ersten Monate mit Kit-Miete, Preise nach Adresse, für wen es passt und wann Glasfaser oder Mobilfunk besser sind.",
+    "description": "Prüfen Sie, ob sich Starlink lohnt – auf dem Land oder bei instabilem Glasfaser-Internet mit Ausfällen. Aktionspreise, 0-€-Mietkit und Nutzung als Backup-Leitung.",
+    "metaDescription": "Lohnt sich Starlink trotz Glasfaser? Tarife, 0-€-Mietkit, monatliche Kündbarkeit und wann sich Satelliten-Internet als Alternative oder Backup rechnet.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -292258,54 +295112,133 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Starlink kann sich auf dem Land und in Häusern lohnen, in denen keine stabile Verbindung ankommt. Wenn bereits zuverlässige Glasfaser verfügbar ist, vergleichen Sie die Kosten, bevor Sie wechseln. Rechnen Sie die Monatspreise Ihrer Adresse zusammen, prüfen Sie Kit-Miete und Rückgabe und testen Sie mit der Starlink-App, wo die Antenne stehen kann."
+          "Ja, Starlink lohnt sich dort, wo keine stabile Verbindung ankommt, aber auch dort, wo Glasfaser liegt und trotzdem oft ausfällt oder deutlich weniger Tempo liefert als gebucht. Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Läuft Ihre Glasfaser wirklich stabil, bleibt sie bei Preis und Latenz meist vorn. Der Test ist risikoarm: Das Kit ist in der Berliner Bestellung zur Miete für 0 €, und Sie haben 30 Tage für die Rückgabe."
         ]
       },
       {
-        "heading": "Was es in den ersten Monaten kostet",
+        "heading": "Was es in den ersten Monaten kostet und danach",
         "paragraphs": [
-          "Am 20. November 2026 haben wir die Bestellseite für eine Adresse in Berlin gelesen. Sie zeigte 50 % Rabatt auf die Tarife für Privathaushalt für 3 Monate. Das Kit ist zur Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat."
+          "Am 23. November 2026 haben wir die Bestellseite für eine öffentliche Adresse in Berlin gelesen. Sie zeigte 50 % Rabatt auf die Tarife für Privathaushalte für 3 Monate. Das Kit ist zur Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat, und am Bestelltag waren 19 € Versand fällig. In der Bestellübersicht steht: Der Vertrag verlängert sich automatisch von Monat zu Monat auf unbestimmte Zeit, die Kündigung ist gebührenfrei."
         ],
         "comparisonTable": {
           "headers": [
             "Privathaushalt in Berlin",
-            "Pro Monat im Aktionszeitraum",
+            "Erste 3 Monate pro Monat",
+            "Danach pro Monat",
             "Kit",
-            "Summe für 3 Monate"
+            "Professionelle Montage"
           ],
           "rows": [
             [
               "100 Mbit/s",
               "17,50 €",
-              "0 € (Miete)",
-              "52,50 €"
+              "35 €",
+              "Mini X, 0 € (Miete)",
+              "172 €, optional"
             ],
             [
               "200 Mbit/s",
               "27,50 €",
-              "0 € (Miete)",
-              "82,50 €"
+              "55 €",
+              "Standard 4, 0 € (Miete)",
+              "172 €, optional"
             ],
             [
               "Max",
               "37,50 €",
-              "0 € (Miete)",
-              "112,50 €"
+              "75 €",
+              "Standard 4, 0 € (Miete)",
+              "0 €"
             ]
           ],
-          "caption": "Kit plus 3 Monatsbeträge nach den angezeigten Preisen. Summen vor der Empfehlungsprämie und vor möglichen Kosten außerhalb der Standardinstallation."
+          "caption": "Preise der Bestellübersicht in Berlin: 50 % Rabatt für 3 Monate, danach der Normalpreis. Vor der Empfehlungsprämie und vor möglichen Kosten außerhalb der Standardinstallation."
+        },
+        "simulator": {
+          "title": "Simulator: Was jedes Szenario verlangt",
+          "scenarios": [
+            {
+              "label": "Berlin, 100 Mbit/s",
+              "lines": [
+                {
+                  "label": "Kit zur Miete (Mini X)",
+                  "value": "0 € und 0 € im Monat",
+                  "highlight": true
+                },
+                {
+                  "label": "Monatspreis in den ersten 3 Monaten",
+                  "value": "17,50 €"
+                },
+                {
+                  "label": "Monatspreis danach",
+                  "value": "35 €"
+                }
+              ],
+              "totalLabel": "Heute fällig (Versand)",
+              "totalValue": "19 €",
+              "note": "Professionelle Montage optional für 172 €. Bei Kündigung geht das Kit zurück."
+            },
+            {
+              "label": "Berlin, 200 Mbit/s",
+              "lines": [
+                {
+                  "label": "Kit zur Miete (Standard 4)",
+                  "value": "0 € und 0 € im Monat",
+                  "highlight": true
+                },
+                {
+                  "label": "Monatspreis in den ersten 3 Monaten",
+                  "value": "27,50 €"
+                },
+                {
+                  "label": "Monatspreis danach",
+                  "value": "55 €"
+                }
+              ],
+              "totalLabel": "Heute fällig (Versand)",
+              "totalValue": "19 €",
+              "note": "Professionelle Montage optional für 172 €. Monatlich kündbar, ohne Gebühr."
+            },
+            {
+              "label": "Berlin, Max",
+              "lines": [
+                {
+                  "label": "Kit zur Miete (Standard 4)",
+                  "value": "0 € und 0 € im Monat"
+                },
+                {
+                  "label": "Monatspreis in den ersten 3 Monaten",
+                  "value": "37,50 €"
+                },
+                {
+                  "label": "Monatspreis danach",
+                  "value": "75 €",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Heute fällig (Versand)",
+              "totalValue": "19 €",
+              "note": "Die Montage ist hier mit 0 € enthalten. Prüfen Sie den Preis nach den Aktionsmonaten vor dem Bezahlen."
+            }
+          ]
         },
         "postParagraphs": [
-          "Die professionelle Montage ist bei 100 und 200 Mbit/s optional und kostete 172 €, beim Max 0 €. Den Preis nach den 3 Aktionsmonaten haben wir nicht erfasst, deshalb rechnen wir kein volles Jahr aus. Prüfen Sie ihn in Ihrer Bestellung, bevor Sie bezahlen.",
-          "Rechnen Sie an Ihrer Adresse zuerst ohne die Prämie. Bei unserer Empfehlung zeigt die Bestellung die Prämie, die nach den Regeln des Programms gutgeschrieben wird. Mehr auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink)."
+          "Der Tarif mit 200 Mbit/s fehlt in vielen Vergleichen: Mit 27,50 € in den ersten Monaten liegt er 10 € über dem 100er und bringt das Kit Standard 4 zur Miete mit. Rechnen Sie Ihre Kosten nicht mit dem Aktionspreis, sondern auch mit dem Normalpreis nach den 3 Monaten: Aus 17,50 € werden 35 €.",
+          "Rechnen Sie an Ihrer Adresse zuerst ohne die Prämie. Über unseren Empfehlungslink erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement als Gutschrift auf der Rechnung. Mehr auf der Seite zur [Starlink-Empfehlung](/de/coupons/starlink)."
         ],
         "links": [
           {
-            "label": "Tarife für Ihre Adresse ansehen",
+            "label": "Tarif und Kit für meine Adresse simulieren",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "alt": "Offizielle Starlink-Bestellseite für Berlin mit dem Tarif 100 Mbit/s für 17,50 € im Monat und Kit-Miete für 0 €",
+          "caption": "Bestellseite für Berlin, abgerufen am 23.11.2026: 100 Mbit/s für 17,50 € im Monat und Mietkit, das bei Kündigung zurückgeht.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5909
+        }
       },
       {
         "heading": "Wo die Antenne stehen kann",
@@ -292327,12 +295260,38 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Wann Sie Glasfaser oder Mobilfunk vergleichen sollten",
+        "heading": "Mehr als der Preis: instabile Glasfaser, Ausfälle und Backup-Nutzung",
         "paragraphs": [
-          "Wenn schon stabile Glasfaser ankommt, vergleichen Sie die Summe aus Einrichtung, Monatspreisen und einer möglichen Mindestlaufzeit jedes Angebots. Rechnen Sie beim Mobilfunk das Gerät ein, das Sie brauchen, und prüfen Sie, ob das Datenvolumen für den Haushalt reicht."
+          "Nur die Monatsrechnung zu vergleichen greift zu kurz, wenn der günstige Festnetzanschluss an Ihrer Adresse jede Woche ausfällt oder nur einen Bruchteil des gebuchten Tempos liefert. Regionale Anbieter und überlastete Netze leiden oft unter durchtrennten Kabeln, Wartungen ohne Ankündigung und Verlangsamungen am Abend. Wer im Homeoffice arbeitet, Videokonferenzen führt oder auf Kameras und Smart Home angewiesen ist, spürt das stärker als ein paar Euro im Monat.",
+          "In unserem Fall haben wir Starlink als Alternative und Backup zu einer instabilen Glasfaser gebucht. Weil das Signal von Satelliten kommt, hängt es weder von den Kabeln in Ihrer Straße noch vom selben Anbieter ab: Starlink kann eine problematische Glasfaser ersetzen oder als Reserveweg dienen, wenn sie ausfällt.",
+          "Der Test ist risikoarm: Das Kit ist zur Miete für 0 € Vorauszahlung, die Bestellübersicht nennt einen monatlich kündbaren Vertrag, und Sie haben 30 Tage für die Rückgabe. Sie messen die echte Stabilität auf Ihrem Dach und behalten das Abo nur, wenn es das Problem löst. Wenn Sie stattdessen Mobilfunk-Internet als Backup erwägen, rechnen Sie den Router ein und prüfen Sie das Datenvolumen."
         ],
-        "emphasis": "Ohne stabile Glasfaser und ohne brauchbares Mobilfunknetz an der Adresse kommt Starlink in die engere Wahl; bei stabiler Glasfaser lohnt der Wechsel nur, wenn die Summe aus Kit, Einrichtung und Monatspreisen für die geplante Laufzeit unter den Kosten des bisherigen Anschlusses bleibt.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "Läuft Ihre Glasfaser stabil und mit dem gebuchten Tempo, lohnt ein Wechsel allein wegen des Monatspreises selten; fallen lokale Anbieter häufig aus oder bremsen stark, zählt Starlink durch Zuverlässigkeit und Unabhängigkeit als Hauptleitung oder Backup.",
+        "emphasisAfterParagraph": 3,
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Offizielle Starlink-Antenne und Router, die als Hauptverbindung oder als Backup dienen können",
+          "caption": "Offizielle Starlink-Antenne mit Router, unabhängig von der Verkabelung des örtlichen Anbieters. Foto von Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "So nutzen Sie Starlink neben einer unzuverlässigen Glasfaser",
+        "paragraphs": [
+          "Dieser Teil ist eine allgemeine Orientierung, kein Bericht über unsere Installation. Es gibt zwei Wege, Starlink neben einer instabilen Glasfaser zu nutzen, vom einfachsten zum automatischen.",
+          "Stufe 1, ohne Zusatzkosten: Lassen Sie das Starlink-WLAN als zweites Netz laufen und wechseln Sie mit Handy oder Laptop darauf, wenn die Glasfaser mitten im Meeting ausfällt. Der Wechsel ist manuell und dauert Sekunden, aber Sie müssen den Ausfall bemerken und handeln.",
+          "Stufe 2, automatisch: Nutzen Sie einen Router mit Dual-WAN (oder Multi-WAN) und Failover. Die Glasfaser hängt an einem WAN-Port, Starlink am anderen, und der Router leitet den Verkehr zu Starlink um, sobald er den Ausfall der Glasfaser erkennt. Dafür wird Starlink meist über den Bypass-Modus der App an Ihren Router angeschlossen, sodass Ihr Router das Netz steuert. Fragen Sie den Starlink-Support, was Ihr Modell braucht, denn manche Kits verlangen einen Ethernet-Adapter.",
+          "Beim automatischen Wechsel können laufende Gespräche und VPNs für einige Sekunden neu verbinden, weil sich Ihre ausgehende Adresse ändert. Testen Sie das Failover, bevor Sie sich darauf verlassen: Trennen Sie die Glasfaser einige Minuten und prüfen Sie, ob Anrufe, Kameras und Remote-Arbeit von selbst zurückkehren."
+        ]
+      },
+      {
+        "heading": "Starkregen, Wind und Stromausfall",
+        "paragraphs": [
+          "Älteres Satelliten-Internet aus hoher Umlaufbahn hat eine Verzögerung von mehreren hundert Millisekunden, was Anrufe und Spiele stört. Starlink nutzt Satelliten in niedriger Umlaufbahn und nennt eine typische Spanne von 25 bis 60 ms an Land, eine Angabe des Unternehmens ohne Messung an unserer Adresse.",
+          "Sehr starker Regen, Schnee und Gewitter können die Leistung eine Weile senken, und Wind verlangt eine fest montierte Antenne. Vergleichen Sie das mit Glasfaser: Ein durchtrenntes Kabel in der Straße kann lange auf die Reparatur warten, und Starlink hängt nicht daran.",
+          "Ein Stromausfall ist ein weiterer Punkt: Antenne und Router von Starlink brauchen Strom, die Geräte der Glasfaser ebenso. Eine USV oder eine mobile Powerstation, passend zum Verbrauch aus den Starlink-Spezifikationen, hält die Verbindung bei kurzen Ausfällen am Laufen. Fällt der Strom im ganzen Viertel aus, kann auch das Straßennetz ausfallen, testen Sie den Aufbau also vorher."
+        ]
       },
       {
         "heading": "Geschwindigkeit und Spiele",
@@ -292350,7 +295309,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kit-Miete und Ausstieg",
         "paragraphs": [
-          "Das Kit ist gemietet und geht bei Kündigung zurück. Die Bestellseite nennt die Erstattung von Kit und erstem Monat bei Kündigung und Rückgabe innerhalb von 30 Tagen. Der [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen) erklärt die Rückgabe Schritt für Schritt."
+          "Das Kit ist gemietet und geht bei Kündigung zurück. Die Bestellübersicht sagt ausdrücklich: Der Vertrag verlängert sich automatisch von Monat zu Monat auf unbestimmte Zeit, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Die Bestellseite nennt die Erstattung von Kit und erstem Monat bei Kündigung und Rückgabe innerhalb von 30 Tagen.",
+          "Die Bestellung zu öffnen kostet nichts: Preise, Rabatte und Verfügbarkeit erscheinen erst, wenn Sie Ihre Adresse auf starlink.com eingeben. Die Empfehlung zählt nur, wenn die Bestellung über einen Empfehlungslink läuft, vor dem Bezahlen, auf starlink.com und nicht auf einem Marktplatz. Der [Ratgeber zu Vertrag und Kündigung](/de/reviews/starlink-vertrag-kuendigen) erklärt die Rückgabe Schritt für Schritt."
+        ],
+        "links": [
+          {
+            "label": "An meiner Adresse testen mit 30 Tagen Rückgabe",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292363,34 +295330,36 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Hat Starlink einen Rabattgutschein? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
-          "Lohnt sich Starlink in der Stadt? Bei stabiler Glasfaser an der Adresse vergleichen Sie Einrichtung, Monatspreise und Laufzeit, bevor Sie wechseln.",
-          "Ist Starlink besser als Glasfaser? Ohne gute Glasfaser vor Ort lohnt es sich, Starlink für die Adresse zu prüfen, samt freier Sicht zum Himmel. Sind beide verfügbar, vergleichen Sie Stabilität und Kosten an Ihrer Adresse.",
+          "Lohnt sich Starlink in der Stadt? Das hängt davon ab, wie gut Ihre jetzige Glasfaser wirklich ist. Ist sie günstig und stabil, gewinnt sie meist bei den Kosten. Fällt sie oft aus oder liefert deutlich weniger als gebucht, kann sich Starlink als Alternative oder Backup lohnen, sofern der Himmel frei ist. So war es bei uns.",
+          "Ist Starlink besser als Glasfaser? Bei Spitzentempo und Latenz hat gesunde Glasfaser meist die Nase vorn. Bei der Ausfallsicherheit gegen lokale Störungen und durchtrennte Kabel hilft Starlink, weil es ein vom örtlichen Anbieter unabhängiger Weg ist.",
           "Ist Starlink gut zum Spielen? Testen Sie Reaktionszeit und Unterbrechungen an Ihrer Adresse. Die typische Spanne, die Starlink nennt, ist ein allgemeiner Richtwert.",
-          "Wie viel kostet Starlink im Monat? Die Bestellseite für Berlin zeigte im Aktionszeitraum 17,50 € für 100 Mbit/s, 27,50 € für 200 Mbit/s und 37,50 € für den Max. Der Preis hängt von der Adresse ab.",
-          "Muss ich das Kit kaufen? Die Bestellseite zeigte das Kit zur Miete, ohne Vorauszahlung. Bei Kündigung muss es zurückgeschickt werden."
+          "Ist Starlink unbegrenzt? Starlink bewirbt unbegrenztes Datenvolumen bei den Tarifen für Privathaushalte. Prüfen Sie in der Bestellung die Geschwindigkeitsgrenzen des angezeigten Tarifs.",
+          "Wie viel kostet Starlink im Monat? Die Bestellseite für Berlin zeigte in den ersten 3 Monaten 17,50 € für 100 Mbit/s, 27,50 € für 200 Mbit/s und 37,50 € für den Max; danach gelten 35 €, 55 € und 75 €. Der Preis hängt von der Adresse ab.",
+          "Kann ich Starlink als Backup für meine Glasfaser nutzen? Ja. Mit einem Dual-WAN-Router mit Failover übernimmt Starlink, wenn die Glasfaser ausfällt; ohne ihn wechseln Sie das Netz von Hand. Fragen Sie den Starlink-Support, was Ihr Modell für den Bypass-Modus braucht."
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "an Ihrer Adresse kommt keine brauchbare Glasfaser an, und auch das Mobilfunknetz ist schwach.",
-        "Sie wollen das Kit mieten und prüfen vor dem Bezahlen, welcher Preis nach den Aktionsmonaten gilt."
+        "selbst dort, wo günstige Glasfaser liegt, fällt Ihr Netz oft aus oder liefert deutlich weniger als gebucht, und Sie brauchen eine zuverlässige Alternative oder ein Backup.",
+        "Sie haben die Sicht zum Himmel in der Starlink-App geprüft und akzeptieren ein Mietkit, das bei Kündigung zurückgeht."
       ],
       "skipIf": [
-        "bei Ihnen liegt bereits ein stabiler Glasfaseranschluss, und Sie brauchen kein Kit.",
-        "Sie spielen online mit sehr kurzer Reaktionszeit, und Starlink nennt dafür nur eine typische Spanne, keine Messung an Ihrer Adresse."
+        "Sie haben bereits eine wirklich stabile Glasfaser mit dem gebuchten Tempo und ohne häufige Ausfälle, die Redundanz verlangen.",
+        "Sie spielen online im Wettbewerb und brauchen eine garantierte minimale Latenz: Starlink nennt eine typische Spanne, aber keine Zahl für Ihre Adresse."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Geben Sie Ihre Adresse auf der Starlink-Seite ein und prüfen Sie Tarif, Kit und Monatspreis, bevor Sie bezahlen.",
-      "label": "Tarife für meine Adresse ansehen",
+      "text": "Sie zahlen denselben Preis wie auf der offiziellen Seite, behalten die 30 Tage für die Rückgabe des Kits, falls es auf Ihrem Dach nicht funktioniert, und erhalten die Prämie des Empfehlungsprogramms, sobald die Regeln erfüllt sind.",
+      "label": "Meine Adresse auf starlink.com mit Empfehlung ansehen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Preise von der Bestellseite der offiziellen Website gelesen, ohne den Kauf abzuschließen. Wir haben den Dienst noch nicht genutzt. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
+    "editorialNote": "Wir haben Starlink selbst als Alternative und Backup zu unserer instabilen Glasfaser gebucht. Preise und Hardware-Bedingungen in diesem Ratgeber wurden auf den öffentlichen Bestellseiten der offiziellen Website gelesen. Wir nehmen am Empfehlungsprogramm teil und erhalten möglicherweise eine Prämie, wenn Sie über unseren Link abonnieren und die Regeln erfüllen.",
     "relatedArticles": [
       {
         "slug": "starlink-vertrag-kuendigen"
@@ -292408,8 +295377,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-vertrag-kuendigen",
     "translationKey": "starlink-fidelidade",
     "locale": "de",
-    "title": "Hat Starlink eine Vertragslaufzeit? Kit-Miete, Kündigung und die 30 Tage zur Rückgabe",
-    "seoTitle": "Starlink kündigen: Kit-Rückgabe und 30 Tage",
+    "title": "Hat Starlink eine Vertragslaufzeit? Monatlich kündbar, Kit zur Miete und die 30 Tage zur Rückgabe",
+    "seoTitle": "Starlink kündigen: monatlich, Kit-Rückgabe, 30 Tage",
     "type": "Anleitung",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -292420,8 +295389,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Das Kit ist bei der Bestellung in Berlin gemietet und geht bei Kündigung zurück. Sehen Sie, wie Sie im Konto kündigen, was die 30 Tage bedeuten und worauf Sie achten sollten.",
-    "metaDescription": "Starlink kündigen in Deutschland: Das Kit ist zur Miete und geht zurück. Die 30 Tage für die Erstattung und die Schritte im Konto.",
+    "description": "In Berlin läuft der Vertrag von Monat zu Monat, die Kündigung ist gebührenfrei, und das gemietete Kit geht zurück. Alle drei Tarife, die 30 Tage und die Schritte im Konto.",
+    "metaDescription": "Starlink kündigen in Deutschland: Vertrag von Monat zu Monat, gebührenfrei kündbar, Kit zur Miete geht zurück. 30 Tage und Schritte im Konto.",
     "publishedAt": "20. November 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -292436,28 +295405,86 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Die Bestellseite für Berlin zeigte das Kit als Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat, und bei Kündigung muss es zurückgeschickt werden. Starlink nennt die Erstattung von Kit und erstem Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückgeben. Eine Mindestvertragslaufzeit oder eine Gebühr für die vorzeitige Kündigung haben wir in den gelesenen Angaben nicht gefunden, prüfen Sie deshalb Ihre Bestellung."
+          "Die Bestellübersicht für Berlin nennt es ausdrücklich: Der Vertrag wird automatisch von Monat zu Monat auf unbestimmte Zeit verlängert, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Das Kit ist gemietet, mit 0 € Vorauszahlung und 0 € im Monat, und geht bei Kündigung an Starlink zurück. Wer kündigt und das Kit innerhalb von 30 Tagen unbeschädigt zurückgibt, bekommt nach den Bedingungen des Angebots Kit und ersten Monat erstattet."
         ]
       },
       {
-        "heading": "Kit zur Miete statt Kauf",
+        "heading": "Berlin: drei Tarife, ein Mietmodell",
         "paragraphs": [
-          "Auf der Bestellseite, die wir am 20. November 2026 für Berlin gelesen haben, stand beim Kit eine Vorauszahlung von 0 € und eine monatliche Kit-Gebühr von 0 €. Dazu der Hinweis, dass Sie die gemietete Starlink-Hardware bei Kündigung zurückgeben müssen.",
-          "Für andere Adressen oder Tarife haben wir die Bedingungen nicht gelesen. Die Bestellung für Ihre Adresse zeigt, welche gelten."
+          "Auf der Bestellseite, die wir am 23. November 2026 für eine Adresse am Alexanderplatz in Berlin gelesen haben, laufen alle drei Wohnkunden-Tarife mit gemieteter Hardware für 0 € im Monat. Der Tarif mit 100 Mbit/s kostete 17,50 € im Monat, mit dem Mini X; der mit 200 Mbit/s 27,50 € mit einem Standard 4; Max 37,50 €, ebenfalls mit einem Standard 4. Das sind 50 % Servicerabatt für die ersten 3 Monate (Aktion bis Ende November), danach gelten 35 €, 55 € und 75 €.",
+          "Die Bestellübersicht für 200 Mbit/s zeigte 55 € im Monat und 27,50 € Rabatt für 3 Monate. Der Versand kostete 19 € (15,97 € plus 3,03 € Steuer). Die Montage ist optional: 172 € bei 100 und 200 Mbit/s, 0 € bei Max."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+            "alt": "Tarifseite von Starlink für Berlin mit 100 Mbit/s zu 17,50 € im Monat, Hardware-Miete für 0 € und dem Hinweis, die gemietete Hardware zurückzusenden",
+            "caption": "Berlin, Stand 23.11.2026: 100 Mbit/s zu 17,50 € im Monat und Hardware-Miete für 0 €.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.5909
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+            "alt": "Bestellübersicht von Starlink in Berlin für 200 Mbit/s zu 55 € mit dem Hinweis auf Verlängerung von Monat zu Monat, gebührenfreier Kündigung und 3 Monaten Rabatt",
+            "caption": "Bestellübersicht in Berlin, Stand 23.11.2026: Vertrag von Monat zu Monat, Kündigung gebührenfrei, 3 Monate Rabatt von 27,50 €.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.5889
+          }
+        ],
+        "links": [
+          {
+            "label": "Tarife und Vertragsbedingungen für meine Adresse prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "Gibt es eine Mindestlaufzeit?",
         "paragraphs": [
-          "In den Angaben der Bestellseite für Berlin haben wir keine Mindestvertragslaufzeit und keine Gebühr für den vorzeitigen Ausstieg gefunden. Das ist keine Zusage von Starlink. Lesen Sie die Zusammenfassung Ihrer Bestellung, bevor Sie abschließen, und fragen Sie den Support, wenn etwas offen bleibt."
-        ]
+          "Nein, nach dem, was die Bestellübersicht für Berlin sagt. Dort steht in jeder Tarifzeile sinngemäß: Der Vertrag wird automatisch von Monat zu Monat auf unbestimmte Zeit verlängert, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Eine Mindestvertragslaufzeit und eine Gebühr für den vorzeitigen Ausstieg haben wir nicht gefunden.",
+          "Den Mietgegenstand müssen Sie trotzdem zurückgeben: Beim Kündigen schickt man das Rental-Kit an Starlink zurück, also das Mini X beim Tarif mit 100 Mbit/s und das Standard 4 bei 200 Mbit/s und Max. Neben den 30 Tagen von Starlink gilt außerdem das gesetzliche Widerrufsrecht, dessen Frist Sie in Ihrer Bestellung und den Bedingungen nachlesen. Was beim Wechsel des Tarifs in den 3 Rabattmonaten passiert, zeigen die öffentlichen Seiten nicht: Fragen Sie das bei Starlink nach, bevor Sie wechseln."
+        ],
+        "comparisonTable": {
+          "caption": "Werte der Bestellseite für Berlin; der 50-%-Rabatt galt für 3 Monate, bis Ende November.",
+          "headers": [
+            "Tarif",
+            "Erste 3 Monate",
+            "Danach",
+            "Gemietete Hardware",
+            "Montage"
+          ],
+          "rows": [
+            [
+              "100 Mbit/s",
+              "17,50 €",
+              "35 €",
+              "Mini X für 0 €",
+              "172 €, optional"
+            ],
+            [
+              "200 Mbit/s",
+              "27,50 €",
+              "55 €",
+              "Standard 4 für 0 €",
+              "172 €, optional"
+            ],
+            [
+              "Max",
+              "37,50 €",
+              "75 €",
+              "Standard 4 für 0 €",
+              "0 €"
+            ]
+          ]
+        }
       },
       {
         "heading": "Die 30 Tage zur Rückgabe",
         "paragraphs": [
           "Die Bestellseite nennt eine Frist von 30 Tagen. Um die Erstattung von Kit und erstem Monat unter den Bedingungen des Angebots zu erhalten, kündigen Sie den Dienst und senden das Kit innerhalb dieser Frist unbeschädigt zurück.",
           "Die Kündigung des Abonnements stoppt die künftigen Abbuchungen im Rahmen des Abrechnungszyklus. Klären Sie mit dem Starlink-Support, wie Sie auch die Rückgabe des Kits einleiten, und bewahren Sie den Versandbeleg auf.",
-          "Der Link der [Starlink-Empfehlung](/de/coupons/starlink) führt zur selben Bestellung auf der offiziellen Seite. Die Rückgabebedingungen prüfen Sie dort, bevor Sie bezahlen."
+          "Der Link der [Starlink-Empfehlung](/de/coupons/starlink) führt zur selben Bestellung auf der offiziellen Seite. Die Rückgabebedingungen prüfen Sie dort, bevor Sie bezahlen.",
+          "Eine Miete gibt es nicht überall. In anderen Ländern, etwa in Brasilien oder Mexiko, wird das Kit gekauft, und ein gefördertes Kit kann mit 12 Monaten Laufzeit und einer Gebühr für den vorzeitigen Ausstieg kommen. Maßgeblich ist immer die Zusammenfassung Ihrer eigenen Bestellung."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
@@ -292466,7 +295493,14 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
-        "emphasis": "Nach den Bedingungen der Bestellung löst nur die Kündigung mit unbeschädigter Rückgabe des Kits innerhalb von 30 Tagen die Erstattung von Kit und erstem Monat aus, und der Versandbeleg ist der Nachweis, auf den es ankommt."
+        "emphasis": "Nach den Bedingungen der Bestellung löst nur die Kündigung mit unbeschädigter Rückgabe des Kits innerhalb von 30 Tagen die Erstattung von Kit und erstem Monat aus, und der Versandbeleg ist der Nachweis, auf den es ankommt.",
+        "links": [
+          {
+            "label": "Tarife mit 30 Tagen Erstattung auf starlink.com ansehen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "So kündigen Sie",
@@ -292496,8 +295530,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Aktionspreis und Tarifwechsel",
         "paragraphs": [
-          "Der Aktionspreis für Berlin galt für 3 Monate. Was bei einer Kündigung, einem Tarifwechsel oder einer Sperrung mit dem Aktionspreis passiert, haben wir für Deutschland nicht gelesen. Fragen Sie das vor der Änderung bei Starlink nach."
+          "Der Aktionspreis für Berlin galt für 3 Monate, danach zahlen Sie den regulären Preis. Starlink behält sich laut den Angaben in anderen Märkten vor, Preise mit 30 Tagen Vorlauf zu ändern. Was bei einer Kündigung, einem Tarifwechsel oder einer Sperrung mit dem Aktionspreis passiert, haben wir für Deutschland nicht gelesen. Fragen Sie das vor der Änderung bei Starlink nach."
         ]
+      },
+      {
+        "heading": "Vor der Zahlung: Bestellung prüfen",
+        "paragraphs": [
+          "Die Empfehlung zählt nur, wenn die Bestellung über einen Empfehlungslink beginnt, der vor der Zahlung auf starlink.com geöffnet wird. Nach der Zahlung oder bei einem Marktplatz lässt sie sich nicht mehr nachtragen. Das Öffnen des Links verpflichtet zu nichts: Ihre Adresse zeigt, welches Modell für Sie gilt, und die 30 Tage decken den Test ab. Die Gutschrift erscheint nach zwei Monaten Abonnement auf der Rechnung und senkt den Preis des Kits nicht."
+        ],
+        "checklist": {
+          "title": "Vor der Zahlung",
+          "items": [
+            "Ich habe die Bestellung über den Empfehlungslink geöffnet, im selben Fenster, bevor ich bezahle.",
+            "Ich habe geprüft, dass die Adressleiste auf starlink.com bleibt, bevor ich Daten eingebe.",
+            "Ich habe den Hindernischeck in der Starlink-App an der Stelle gemacht, wo die Antenne stehen soll.",
+            "Ich habe in der Bestellübersicht die Hardware-Zeile, den Monatspreis und die Vertragsklausel gelesen.",
+            "Ich habe vor der Zahlung einen Screenshot der Übersicht mit Monatspreis und 30-Tage-Regel gespeichert."
+          ]
+        }
       },
       {
         "heading": "Wenn weiter abgebucht wird",
@@ -292510,10 +295560,11 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Hat Starlink einen Rabattcode? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
-          "Hat Starlink eine Vertragslaufzeit? In den gelesenen Angaben der Bestellseite für Berlin haben wir keine gefunden. Prüfen Sie die Zusammenfassung Ihrer Bestellung.",
-          "Was kostet es, Starlink zu kündigen? Eine Gebühr für die Kündigung haben wir in den gelesenen Angaben nicht gefunden. Das Kit muss bei Kündigung zurückgeschickt werden.",
+          "Hat Starlink eine Vertragslaufzeit? In Berlin nein: Die Bestellübersicht nennt eine Verlängerung von Monat zu Monat auf unbestimmte Zeit und eine gebührenfreie Kündigung. In anderen Ländern kann ein gefördertes Kit 12 Monate verlangen. Prüfen Sie die Zusammenfassung Ihrer Bestellung.",
+          "Was kostet es, Starlink zu kündigen? Die Bestellübersicht nennt die Kündigung gebührenfrei. Das gemietete Kit muss bei Kündigung zurückgeschickt werden.",
           "Kann ich Starlink jederzeit kündigen? Die Kündigung geht über das Konto. Der Dienst bleibt bis zum Ende des bezahlten Zeitraums aktiv.",
           "Muss ich das Kit zurückgeben? Die Bestellseite für Berlin zeigte das Kit zur Miete. Bei Kündigung muss es zurückgeschickt werden.",
+          "Wie lange gilt der Rabatt von 50 %? In Berlin für die ersten 3 Monate. Danach gelten 35 € beim Tarif mit 100 Mbit/s, 55 € bei 200 Mbit/s und 75 € bei Max.",
           "Kann ich Starlink innerhalb von 30 Tagen zurückgeben? Das Angebot nennt die Erstattung von Kit und erstem Monat, wenn der Dienst gekündigt wird und das Kit innerhalb von 30 Tagen unbeschädigt zurückgeht."
         ]
       }
@@ -292535,7 +295586,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Sie das gemietete Kit bei Kündigung innerhalb von 30 Tagen unbeschädigt zurückgeben können.",
+        "Sie das gemietete Kit bei Kündigung innerhalb von 30 Tagen unbeschädigt zurückgeben können und monatlich kündbar bleiben wollen.",
         "Sie die Bedingungen in der Zusammenfassung Ihrer eigenen Bestellung vor der Zahlung lesen."
       ],
       "skipIf": [
@@ -292544,8 +295595,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Die Bestellung öffnet sich auf der Starlink-Seite. Prüfen Sie Laufzeit, Gebühren und Rückgabe des Kits, bevor Sie bezahlen.",
-      "label": "Bedingungen für meine Adresse prüfen",
+      "text": "Die Bestellung öffnet sich auf starlink.com über den Empfehlungslink, der vor der Zahlung kommen muss. Sie zahlen denselben Preis wie auf der Seite, sehen die Vertragsbedingungen Ihrer Adresse und behalten die 30 Tage für die Rückgabe. Die Gutschrift kommt nach zwei Monaten Abonnement.",
+      "label": "Vertrag und Tarif für meine Adresse prüfen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -292583,7 +295634,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Schnelle Antwort",
         "paragraphs": [
-          "Starlink ist der Satelliten-Internetdienst von SpaceX, die offizielle Seite ist starlink.com. Auf Trustpilot heißt das Profil, das auf starlink.com verweist, „Starlink Development“. Wenn Sie das Kit anderswo kaufen, prüfen Sie die Liste autorisierter Starlink-Händler und sehen Sie nach, wer der Verkäufer des Angebots ist, bevor Sie zahlen."
+          "Ja, Starlink ist seriös: Es ist der offizielle Satelliten-Internetdienst von SpaceX und wird direkt über starlink.com verkauft. Wir haben Starlink selbst als Alternative zu instabilem Glasfaser-Internet gebucht. Aufpassen müssen Sie bei nachgemachten Webseiten und nicht autorisierten Anbietern: Auf Trustpilot gehört das Profil „Starlink Development“ zu starlink.com, und wer das Kit anderswo kauft, prüft vor dem Bezahlen den Verkäufer in der Liste autorisierter Händler."
         ]
       },
       {
@@ -292604,7 +295655,22 @@ export const reviewsData: unknown[] = [
         "heading": "So erkennen Sie die offizielle Seite",
         "paragraphs": [
           "Geben Sie starlink.com im Browser ein. Prüfen Sie, bevor Sie Daten eingeben oder zahlen, dass Sie weiter auf starlink.com sind.",
-          "Prüfen Sie in der Bestellung für Ihre eigene Adresse Tarif, Kit (Miete oder Kauf), Steuern und Vertragslaufzeit. Wenn jemand verlangt, per Nachricht oder außerhalb der Bestellung zu zahlen, klären Sie das mit dem Starlink-Support, bevor Sie weitermachen."
+          "Prüfen Sie in der Bestellung für Ihre eigene Adresse Tarif, Kit (Miete oder Kauf), Steuern und Vertragslaufzeit. Wenn jemand verlangt, per Nachricht oder außerhalb der Bestellung zu zahlen, klären Sie das mit dem Starlink-Support, bevor Sie weitermachen.",
+          "Ein einfacher Weg, sich nicht in der Adresse zu irren, ist ein Empfehlungslink: Er führt direkt zur Bestellung auf starlink.com, und die Adressleiste prüfen Sie trotzdem, bevor Sie Daten eingeben. Der Preis ist derselbe wie auf der offiziellen Seite, und die Empfehlung zählt nur, wenn die Bestellung über einen Empfehlungslink beginnt, vor der Zahlung."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "alt": "Offizielle Tarifauswahl auf starlink.com für eine Adresse in Berlin",
+          "caption": "Tarifauswahl auf starlink.com für eine Adresse in Berlin, abgerufen am 23. November 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5909
+        },
+        "links": [
+          {
+            "label": "Offizielle Bestellung auf starlink.com mit Empfehlung öffnen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292630,7 +295696,14 @@ export const reviewsData: unknown[] = [
             "label": "Liste autorisierter Starlink-Händler",
             "href": "https://starlink.com/de/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Teile eines Starlink-Kits auf dunklem Hintergrund: Basis, Halterung und Kabel",
+          "caption": "Teile eines Starlink-Kits. Foto: Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Was Trustpilot zeigt",
@@ -292638,6 +295711,29 @@ export const reviewsData: unknown[] = [
           "Auf Trustpilot hat das Profil von starlink.com einen TrustScore von 1,6 von 5 bei 879 Bewertungen: 71 % sind 1-Sterne- und 17 % 5-Sterne-Bewertungen. Das Profil ist nicht beansprucht, Starlink betreut es also nicht, und das Unternehmen hat auf 0 % der Bewertungen geantwortet.",
           "Wir haben die 40 neuesten 1-Sterne- und die 40 neuesten 5-Sterne-Bewertungen gelesen. Bei den 1-Sterne-Bewertungen sind die häufigsten Beschwerden ein Support, der nur aus Bot oder Chat besteht (etwa jede dritte), Ausfälle und zu geringe Geschwindigkeit (etwa jede dritte), ein nach Vertragsabschluss gestiegener Monatspreis (etwa jede vierte), Abrechnung und schwierige Kündigung (etwa jede vierte), verspätete oder nicht erschienene Installateure von Partnerfirmen (etwa jede vierte) sowie ein verspätetes oder nicht angekommenes Kit (etwa jede fünfte). Die 5-Sterne-Bewertungen loben Geschwindigkeit und Stabilität (etwa die Hälfte), die einfache Installation (etwa jede dritte) und das Fehlen einer anderen guten Internetoption (etwa jede vierte). Die Zahlen sind unsere eigenen und ungefähr.",
           "Lesen Sie die Note mit Vorsicht: Ein nicht beanspruchtes Profil verschickt nach dem Kauf keine Einladungen, und wer es öffnet, will oft sich beschweren. Das Lob gilt dem Signal, die Beschwerden gelten Support, Preis und Abrechnung, und nur wenige 1-Sterne-Bewertungen sagen, das Signal sei dauerhaft schlecht. Die automatische Zusammenfassung von Trustpilot, die auf 355 neuen Bewertungen beruht, zeigt in dieselbe Richtung. Unsere [vollständige Auswertung des Trustpilot-Profils](/de/reviews/starlink-trustpilot-bewertungen) nennt die Zahlen."
+        ]
+      },
+      {
+        "heading": "Checkliste vor dem Bezahlen",
+        "paragraphs": [
+          "Fünf kurze Prüfungen gelten für jede Adresse und dauern nur wenige Minuten."
+        ],
+        "checklist": {
+          "title": "Vor dem Abschluss der Bestellung",
+          "items": [
+            "Ich habe die Bestellung über den Empfehlungslink geöffnet, im selben Browserfenster, damit die Empfehlung zählt.",
+            "Ich habe geprüft, dass die Adressleiste bei starlink.com bleibt, bevor ich Daten eingebe.",
+            "Ich habe den Hindernis-Test der Starlink-App am geplanten Antennenplatz durchgeführt, um freien Himmel zu bestätigen.",
+            "Ich habe in der Bestellübersicht Tarif, Kit, Gesamtbetrag und Vertragslaufzeit gelesen.",
+            "Ich habe vor dem Bezahlen einen Screenshot der Übersicht mit dem Monatspreis und der 30-Tage-Regel gespeichert."
+          ]
+        },
+        "links": [
+          {
+            "label": "Verfügbarkeit für meine Adresse auf starlink.com prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -292655,7 +295751,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Hat Starlink einen Gutscheincode? Nein. Starlink hat keinen Gutscheincode: Über den Empfehlungslink von Cecília erhält, wer abschließt, in Deutschland nach zwei Monaten Abo 45 € als Guthaben auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
-          "Ist Starlink seriös? Starlink ist der Satelliten-Internetdienst von SpaceX. Prüfen Sie, dass Sie auf starlink.com sind, und nutzen Sie die Liste autorisierter Händler, wenn Sie anderswo kaufen.",
+          "Ist Starlink seriös? Ja, Starlink ist der offizielle Satelliten-Internetdienst von SpaceX. Für einen sicheren Kauf prüfen Sie, dass Sie auf starlink.com bestellen, oder kontrollieren Sie vor dem Bezahlen den Verkäufer in der offiziellen Liste autorisierter Händler.",
           "Was ist die offizielle Starlink-Website? Die offizielle Seite ist starlink.com.",
           "Wie erkenne ich, ob ein Verkäufer autorisiert ist? Sehen Sie in die Händlerliste von Starlink und prüfen Sie vor dem Bezahlen, wer der Verkäufer des Angebots ist.",
           "Soll ich auf der offiziellen Seite oder beim Händler kaufen? Auf starlink.com zeigt die Bestellung vor der Zahlung Tarif, Kit, Steuern und Laufzeit für Ihre Adresse, und der Empfehlungslink gilt nur dort. Ein Händler der offiziellen Liste ist ein legitimer Verkäufer, doch die Empfehlung greift nicht."
@@ -292665,7 +295761,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Erstellt anhand der offiziellen Seite, des Hilfecenters und des öffentlichen Trustpilot-Profils. Wir nehmen am Empfehlungsprogramm von Starlink teil und können eine Belohnung erhalten, wenn Sie über unseren Link abschließen und die Regeln erfüllen.",
+    "editorialNote": "Erstellt anhand der offiziellen Seite, des Hilfecenters und des öffentlichen Trustpilot-Profils. Wir haben Starlink selbst als Alternative und Backup zu instabilem Glasfaser-Internet gebucht. Wir nehmen am Empfehlungsprogramm teil und können eine Belohnung erhalten, wenn Sie über unseren Link abschließen und die Regeln erfüllen.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-bewertungen"
@@ -292688,8 +295784,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Geben Sie Ihre Adresse auf der Starlink-Seite ein und prüfen Sie Tarif, Kit und Monatspreis vor dem Bezahlen.",
-      "label": "Tarife für Ihre Adresse ansehen",
+      "text": "Öffnen Sie die Bestellung über den Empfehlungslink, prüfen Sie, dass die Adressleiste bei starlink.com bleibt, und sehen Sie Tarif, Kit und Gesamtbetrag für Ihre Adresse, bevor Sie zahlen. Der Preis ist der der offiziellen Seite.",
+      "label": "Meine Adresse auf starlink.com ansehen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -292783,6 +295879,36 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "Trustpilot, Profil von starlink.com, gelesen am 23. November 2026."
+        },
+        "metrics": {
+          "items": [
+            {
+              "label": "TrustScore",
+              "value": "1,6",
+              "unit": "/5",
+              "note": "Nicht beanspruchtes Profil"
+            },
+            {
+              "label": "Bewertungen gesamt",
+              "value": "879",
+              "note": "Nur organisch"
+            },
+            {
+              "label": "Antworten des Unternehmens",
+              "value": "0 %",
+              "note": "0 von 464 negativen"
+            },
+            {
+              "label": "1 Stern vs. 5 Sterne",
+              "value": "71 %",
+              "unit": "vs. 17 %",
+              "note": "Support und Abrechnung vorn"
+            }
+          ],
+          "summary": {
+            "badge": "Die Lücke lesen",
+            "text": "Das Lob betrifft Geschwindigkeit und stabiles Signal; die Beschwerden konzentrieren sich auf automatisierten Support, Abrechnung und Preisänderungen."
+          }
         }
       },
       {
@@ -292832,15 +295958,32 @@ export const reviewsData: unknown[] = [
         "heading": "Was das für Abonnenten bedeutet",
         "paragraphs": [
           "Prüfen Sie vor der Zahlung Tarif, Kit (Miete oder Kauf), Steuern und Vertrag auf starlink.com für Ihre eigene Adresse: Sie ändern sich je nach Land und sogar je nach Adresse. Speichern Sie einen Screenshot des Angebots vom Bestelltag und vergleichen Sie jede Rechnung damit.",
+          "Der einfachste Schutz: direkt auf starlink.com bestellen und den Screenshot der Bestellübersicht speichern, mit Preis, Kit, Vertragsbedingungen und angewendeter Empfehlung. Vergleichen Sie dann die erste Rechnung mit diesem Screenshot. Eine Empfehlung zählt nur bei einer Bestellung, die über einen Empfehlungslink geöffnet wurde, und zwar vor der Zahlung; nachträglich lässt sie sich nicht hinzufügen.",
           "Die Regeln zu Mietkit und Rückgabe stehen im [Leitfaden zu Vertrag, Kündigung und Erstattung](/de/reviews/starlink-vertrag-kuendigen)."
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "Starlink-Antenne am Dach eines Holzhauses",
-          "caption": "Antenne für Privathaushalte, installiert. Foto von Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
-        }
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+            "alt": "Starlink-Tarifseite für Berlin: 100 Mbit/s für 17,50 € im Monat, mit Mietkit für 0 €",
+            "caption": "Berlin, Tarif 100 Mbit/s: Monatspreis, Mietkit für 0 € und der Hinweis, die gemietete Hardware zurückzusenden. So ein Bildschirm lohnt sich zu speichern. Abgerufen am 23. November 2026.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.5909
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "Starlink-Antenne am Dach eines Holzhauses",
+            "caption": "Antenne für Privathaushalte, installiert. Foto von Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ],
+        "links": [
+          {
+            "label": "Offizielle Bestellung auf starlink.com öffnen und meine Region prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "So melden Sie ein Problem",
@@ -292852,15 +295995,32 @@ export const reviewsData: unknown[] = [
             "label": "Starlink-Profil bei Trustpilot",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "Teile des Starlink-Standard-Kits: Antenne, Router, Halterung und Kabel",
+            "caption": "Starlink-Standard-Kit: Antenne, Router, Halterung und Kabel. Foto von Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "Vor dem Abschluss",
         "paragraphs": [
           "Prüfen Sie vor dem Abschluss die Website und die Bedingungen. Wie Sie die offizielle Seite und Profile mit ähnlichem Namen erkennen, steht in [Ist Starlink seriös?](/de/reviews/ist-starlink-serioes).",
+          "Die Bestellung zu öffnen verpflichtet zu nichts: Tarif, Preis, Verfügbarkeit und Vertragsbedingungen erscheinen erst, wenn Sie Ihre Adresse eingeben. Die 30-Tage-Regel von Starlink sieht eine Erstattung vor, wenn Sie innerhalb dieser Frist kündigen und das Kit unbeschädigt zurückgeben, so wie in Ihrer Bestellung angegeben; bei einem bezuschussten Kit mit Vertrag prüfen Sie, ob nach den 30 Tagen eine Gebühr anfällt.",
           "Die Seite zur [Starlink-Empfehlung](/de/coupons/starlink) enthält den Link und die Programmregeln. Eine Empfehlung ist kein Gutschein: Die Prämie kommt nach zwei Monaten Abonnement als Guthaben auf der Rechnung, und die Tarife Priority, Enterprise und Commercial erhalten sie nicht."
         ],
-        "emphasis": "Nach den Zahlen der Tabelle ist das Abonnieren für alle ohne gute Internetalternative an ihrer Adresse vertretbar, sobald Tarif, Kit, Steuern und Vertrag auf starlink.com für diese Adresse geprüft sind, denn die 1,6 spiegelt Beschwerden über Support, Abrechnung und Preis stärker wider als die Signalqualität."
+        "emphasis": "Nach den Zahlen der Tabelle ist das Abonnieren für alle ohne gute Internetalternative an ihrer Adresse vertretbar, sobald Tarif, Kit, Steuern und Vertrag auf starlink.com für diese Adresse geprüft sind, denn die 1,6 spiegelt Beschwerden über Support, Abrechnung und Preis stärker wider als die Signalqualität.",
+        "links": [
+          {
+            "label": "Verfügbarkeit an meiner Adresse auf starlink.com prüfen",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Häufige Fragen",
@@ -292899,8 +296059,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Geben Sie Ihre Adresse auf der Starlink-Website ein und prüfen Sie Tarif, Kit und Monatspreis vor der Zahlung.",
-      "label": "Tarife für Ihre Adresse ansehen",
+      "text": "Öffnen Sie die Bestellung über den Empfehlungslink, prüfen Sie Tarif, Kit und Vertrag für Ihre Adresse und speichern Sie den Screenshot der Übersicht vor der Zahlung. Der Preis ist der der offiziellen Seite.",
+      "label": "Meine Bestellung auf starlink.com öffnen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -292910,8 +296070,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-link-invito",
     "translationKey": "starlink-indicacao",
     "locale": "it",
-    "title": "Link di invito Starlink: come si usa e quando arriva la ricompensa",
-    "seoTitle": "Invito Starlink: come usare il link e ricevere",
+    "title": "Come ottenere 45 € in Italia acquistando il tuo primo Starlink con il link di invito",
+    "seoTitle": "Come ottenere 45 € sul tuo primo Starlink (invito)",
     "type": "Guida al codice invito",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -292922,8 +296082,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Apri il link sul sito ufficiale e controlla la ricompensa nell'ordine prima di pagare. Scopri chi può usarlo, quando arriva l'importo e come scegliere tra credito e denaro.",
-    "metaDescription": "Come aprire il link di invito Starlink, trovare il valore nell'ordine e ricevere la ricompensa dopo aver rispettato le condizioni del programma.",
+    "description": "Starlink non ha codici sconto: ordina il tuo primo kit dal link di invito ufficiale, paga lo stesso prezzo del sito e ricevi 45 € in Italia dopo due mesi.",
+    "metaDescription": "Come ottenere 45 € in Italia sul tuo primo Starlink con il link di invito, quanto copre sui piani attuali e come attivarlo prima di pagare.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -292938,8 +296098,126 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Apri il link di invito di Starlink e inserisci il tuo indirizzo. Prima di pagare, cerca la conferma dell'invito applicato e controlla il valore della ricompensa nell'ordine. Il programma vale per i nuovi clienti, e la ricompensa arriva dopo due cicli mensili completi, in credito di servizio o in denaro dove disponibile."
+          "Starlink non ha un codice coupon da incollare al checkout: oltre alle offerte del sito, il link di invito è il modo ufficiale per ricevere una ricompensa sul primo abbonamento. In Italia sono 45 € (in altri paesi l'importo nella tua valuta compare nell'ordine). Paghi lo stesso prezzo di starlink.com e mantieni i 30 giorni di prova; con il piano Residenziale 100 Mbps di Milano in offerta (17,50 €/mese), 45 € coprono oltre due mesi e mezzo. Apri il link prima di ordinare, verifica l'avviso dell'invito prima di pagare, attiva il kit e resta in regola per due cicli mensili. Se concludi l'ordine senza il link, non puoi aggiungerlo dopo."
         ]
+      },
+      {
+        "heading": "Perché conviene ordinare dal link",
+        "paragraphs": [
+          "Se apri starlink.com per conto tuo, hardware e canone costano come con il link. La differenza sono i 45 € che lasceresti sul tavolo. Il credito non abbassa il prezzo del kit il giorno dell'ordine: arriva in fattura dopo due cicli mensili completi e pagati.",
+          "I numeri qui sotto vengono da indirizzi di riferimento. Al tuo indirizzo prezzo, kit e condizioni possono essere diversi, e li mostra solo l'ordine."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "alt": "Pagina d'ordine Starlink per Milano con il piano Residenziale 100 Mbps a 17,50 € al mese, 0 € di hardware e l'avviso di restituire il kit a noleggio",
+          "caption": "Milano: i piani della pagina d'ordine, consultati il 23 novembre 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.6065
+        },
+        "comparisonTable": {
+          "caption": "Prezzi letti su starlink.com il 23 novembre 2026, senza completare un acquisto. I prezzi in offerta valgono per 3 mesi con il 50% di sconto, poi si paga il prezzo pieno. Il credito non è uno sconto al pagamento: arriva dopo due cicli completi.",
+          "headers": [
+            "Scenario letto su starlink.com",
+            "Senza link di invito",
+            "Con il link di Cecília",
+            "Cosa copre il credito"
+          ],
+          "rows": [
+            [
+              "Italia, Residenziale 100 Mbps (Milano)",
+              "17,50 €/mese per 3 mesi (poi 35 €), 0 € di noleggio, 19 € oggi",
+              "Stesso ordine + 45 € di credito dopo 2 cicli pagati",
+              "Oltre 2 mesi e mezzo del piano in offerta e più del doppio della spedizione"
+            ],
+            [
+              "Italia, Residenziale 200 Mbps (Milano)",
+              "22,50 €/mese per 3 mesi (poi 45 €), 0 € di noleggio",
+              "Stesso ordine + 45 € di credito",
+              "Circa 2 mesi del piano in offerta"
+            ],
+            [
+              "Italia, Residenziale Max (Milano)",
+              "32,50 €/mese per 3 mesi (poi 65 €), 0 € di noleggio",
+              "Stesso ordine + 45 € di credito",
+              "Più di un mese del piano in offerta"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Apri il mio ordine con il bonus di 45 €",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "simulator": {
+          "title": "Prova il tuo scenario",
+          "scenarios": [
+            {
+              "label": "Milano 100 Mbps + link",
+              "lines": [
+                {
+                  "label": "Noleggio del kit Mini X",
+                  "value": "0 €, da restituire se disdici"
+                },
+                {
+                  "label": "Canone in offerta (3 mesi)",
+                  "value": "17,50 €/mese"
+                },
+                {
+                  "label": "Credito di invito dopo 2 cicli pagati",
+                  "value": "-45 € in fattura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Credito rispetto al canone",
+              "totalValue": "Oltre 2,5 mesi coperti",
+              "note": "Paghi lo stesso prezzo del sito e mantieni i 30 giorni di prova."
+            },
+            {
+              "label": "Milano 200 Mbps + link",
+              "lines": [
+                {
+                  "label": "Noleggio del kit Standard 4",
+                  "value": "0 €, da restituire se disdici"
+                },
+                {
+                  "label": "Canone in offerta (3 mesi)",
+                  "value": "22,50 €/mese"
+                },
+                {
+                  "label": "Credito di invito dopo 2 cicli pagati",
+                  "value": "-45 € in fattura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Credito rispetto al canone",
+              "totalValue": "Circa 2 mesi coperti",
+              "note": "Oggi si pagano 19 € di spedizione; il credito arriva dopo, non al checkout."
+            },
+            {
+              "label": "Ordine senza link di invito",
+              "lines": [
+                {
+                  "label": "Prezzo del kit e del piano",
+                  "value": "Lo stesso che con il link"
+                },
+                {
+                  "label": "Credito di invito",
+                  "value": "0 €, non si può aggiungere dopo"
+                },
+                {
+                  "label": "Ricompensa che resta sul tavolo",
+                  "value": "45 € in Italia",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Ricompensa di invito ricevuta",
+              "totalValue": "0 €",
+              "note": "L'invito deve risultare nell'ordine originale, prima del pagamento."
+            }
+          ]
+        }
       },
       {
         "heading": "Come usare il link, passo dopo passo",
@@ -292954,11 +296232,27 @@ export const reviewsData: unknown[] = [
           "Attiva il kit e segui la prima fattura. Pagare il primo mese e attivare l'apparecchio fanno parte dei requisiti dell'invito."
         ],
         "image": {
-          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
-          "alt": "Antenna Starlink Standard e router",
-          "caption": "Antenna e router di Starlink. Foto di Starlink.",
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Schermata d'ordine sul sito ufficiale di Starlink con il messaggio Referral Code Applied, che dice che tu e il tuo amico ricevete 100 $ a testa, in denaro o credito di servizio",
+          "caption": "Ordine sul sito ufficiale con il link di invito applicato (esempio del Nevada, USA).",
           "objectFit": "contain",
-          "aspectRatio": 1.3316
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "Checklist prima di pagare",
+        "paragraphs": [
+          "Spunta ogni punto sullo schermo prima di pagare. Bastano due minuti e decidono se il credito risulta nel tuo ordine."
+        ],
+        "checklist": {
+          "title": "Prima di concludere l'ordine",
+          "items": [
+            "Ho aperto l'ordine dal link di invito di Cecília in questa stessa finestra, per non perdere il credito.",
+            "Ho controllato che la barra del browser resti su starlink.com prima di inserire qualsiasi dato.",
+            "Ho eseguito il test delle ostruzioni dell'app Starlink nel punto previsto per confermare il cielo libero.",
+            "Ho visto nel riepilogo dell'ordine l'avviso dell'invito applicato, il prezzo del kit e se c'è un vincolo di 12 mesi.",
+            "Ho salvato uno screenshot del riepilogo con il canone mensile e la regola dei 30 giorni prima di pagare."
+          ]
         }
       },
       {
@@ -292966,10 +296260,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Il valore dipende dal paese in cui ti registri e compare nel tuo account, per questo non lo indichiamo qui. Chi invita riceve lo stesso importo, in denaro o in credito di servizio.",
           "L'abbonamento deve restare attivo e in regola per due cicli mensili completi. Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, secondo il paese, l'account e la verifica dell'identità.",
-          "La forma standard è il credito in fattura. Se il tuo account offre il pagamento in denaro, apri Inviti dal sito, da browser, scegli il metodo di ricompensa e completa identificazione e dati bancari su Stripe."
+          "La forma standard è il credito in fattura. Se il tuo account offre il pagamento in denaro, apri Inviti dal sito, da browser, scegli il metodo di ricompensa e completa identificazione e dati bancari su Stripe. Il credito arriva in fattura e non riduce il prezzo del kit nell'ordine."
         ],
         "emphasis": "La ricompensa viene emessa solo dopo due cicli mensili completi di abbonamento attivo e in regola, di default come credito in fattura, e chi si abbona e chi invita ricevono lo stesso importo; quello del tuo paese compare nell'ordine.",
         "emphasisAfterParagraph": 3
+      },
+      {
+        "heading": "Aprire il link impegna a qualcosa? La prova di 30 giorni",
+        "paragraphs": [
+          "Aprire il link non impegna a nulla. Prezzo del piano, kit, disponibilità e l'eventuale vincolo compaiono solo dopo aver inserito un indirizzo su starlink.com.",
+          "Dopo il pagamento, Starlink concede 30 giorni per restituire il kit, secondo le condizioni della sua pagina. Se l'antenna non funziona sul tuo tetto, puoi disdire e rimandare l'apparecchio entro quel termine.",
+          "Per questo il link viene prima della prova: l'invito conta solo nell'ordine originale. Chi prova senza paga lo stesso il primo giorno e perde i 45 € se decide di tenere l'antenna."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antenna Starlink Standard e router",
+          "caption": "Antenna e router di Starlink. Foto di Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        },
+        "links": [
+          {
+            "label": "Assicurati la ricompensa prima di ordinare",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Chi può usarlo",
@@ -292986,15 +296302,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "E l'offerta del Black Friday?",
+        "heading": "Quattro errori che fanno perdere il credito anche dopo aver cliccato",
         "paragraphs": [
-          "Nell'ordine che abbiamo letto a Milano compariva il 50% di sconto sui piani per 3 mesi, con scadenza al 30 novembre. Guarda [i conti del Black Friday Starlink](/it/reviews/starlink-black-friday-offerta) e controlla nell'ordine per il tuo indirizzo se compaiono sia l'offerta sia l'invito."
+          "Quasi tutti i crediti persi dipendono da una di queste quattro sviste."
+        ],
+        "bullets": [
+          "Comprare il kit da un rivenditore o su un marketplace. Il programma conta solo gli ordini fatti su starlink.com dal link.",
+          "Pagare senza controllare l'avviso. L'invito deve risultare nell'ordine originale e non si può aggiungere dopo: se manca l'avviso sullo schermo, riapri il link prima di pagare. Se cambi dispositivo o browser a metà ordine, riapri il link e ricontrolla l'avviso.",
+          "Usare il link essendo o essendo stato cliente. Il credito è solo per chi si abbona a Starlink per la prima volta.",
+          "Disdire troppo presto. Il credito richiede un abbonamento attivo e in regola per due cicli mensili completi, e l'emissione può partire da 60 giorni dopo l'attivazione."
         ]
       },
       {
-        "heading": "Come seguire la ricompensa",
+        "heading": "E l'offerta del Black Friday?",
         "paragraphs": [
-          "Nella sezione Inviti del sito o dell'app puoi seguire lo stato di chi si è abbonato dal tuo link. Starlink avvisa via email quando qualcuno fa l'ordine. Un invito può passare dalla verifica di idoneità prima di generare la ricompensa."
+          "Nell'ordine che abbiamo letto a Milano compariva il 50% di sconto sui piani per 3 mesi, con scadenza al 30 novembre. Guarda [i conti del Black Friday Starlink](/it/reviews/starlink-black-friday-offerta) e controlla nell'ordine per il tuo indirizzo se compaiono sia l'offerta sia l'invito.",
+          "Nel riepilogo dell'ordine di Milano per il piano 100 Mbps, Starlink mostrava 35 € meno 17,50 € per 3 mesi, il kit Mini X a noleggio a 0 € e 19 € da pagare oggi. Se il vincolo ti preoccupa, leggi la [guida a contratto e disdetta di Starlink](/it/reviews/starlink-contratto-disdetta) e [se Starlink conviene](/it/reviews/starlink-conviene)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+          "alt": "Riepilogo dell'ordine Starlink a Milano: 35 € meno 17,50 € per 3 mesi, kit Mini X a 0 € e 19 € da pagare oggi",
+          "caption": "Milano: riepilogo dell'ordine del piano Residenziale 100 Mbps, consultato il 23 novembre 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.6709
+        }
+      },
+      {
+        "heading": "Come seguire la ricompensa e usare il tuo link",
+        "paragraphs": [
+          "Nella sezione Inviti del sito o dell'app puoi seguire lo stato di chi si è abbonato dal tuo link. Starlink avvisa via email quando qualcuno fa l'ordine. Un invito può passare dalla verifica di idoneità prima di generare la ricompensa.",
+          "Quando sei cliente attivo di un piano Residenziale o Viaggio idoneo, puoi invitare a tua volta, e chi invita riceve lo stesso importo del nuovo cliente. L'importo del tuo paese compare nell'ordine di chi si abbona."
         ]
       },
       {
@@ -293006,15 +296343,16 @@ export const reviewsData: unknown[] = [
           "Quando arriva la ricompensa di Starlink? Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, se l'invito rispetta le condizioni del programma.",
           "L'invito vale se compro da un rivenditore? Il programma richiede l'acquisto diretto su starlink.com tramite il link.",
           "Sono già stato cliente, posso usare il link? La ricompensa è per chi si abbona a Starlink per la prima volta.",
-          "Il link di invito funziona anche in Italia? Secondo il centro assistenza, l'invito vale nella maggior parte dei paesi in cui Starlink vende. Il valore cambia da paese a paese e si vede nell'account."
+          "Il link di invito funziona anche in Italia? Secondo il centro assistenza, l'invito vale nella maggior parte dei paesi in cui Starlink vende. Il valore cambia da paese a paese e si vede nell'account.",
+          "Posso aggiungere l'invito dopo aver pagato? No. Starlink richiede che l'invito risulti nell'ordine originale, fatto su starlink.com con un link di invito, prima del pagamento."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Controlla la ricompensa che compare nell'ordine per il tuo indirizzo prima di pagare.",
-      "label": "Vedi l'invito nell'ordine",
+      "text": "Paghi esattamente lo stesso prezzo del sito ufficiale, mantieni i 30 giorni per restituire il kit se non funziona sul tuo tetto e ti assicuri 45 € di credito in Italia dopo due cicli mensili.",
+      "label": "Attiva il tuo bonus da 45 € su starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -293047,8 +296385,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-offerta",
     "translationKey": "starlink-black-friday",
     "locale": "it",
-    "title": "Black Friday Starlink 2026 in Italia: 50% per 3 mesi e la ricompensa dell'invito",
-    "seoTitle": "Black Friday Starlink 2026: 50% per 3 mesi",
+    "title": "Black Friday Starlink 2026 in Italia: 50% per 3 mesi, kit a noleggio a 0 € e 45 € di invito",
+    "seoTitle": "Black Friday Starlink 2026: 17,50 € al mese e kit a 0 €",
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -293059,8 +296397,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Milano l'ordine Starlink mostrava il 50% di sconto per 3 mesi, kit a noleggio a 0 € e 19 € da pagare oggi. Vedi come l'invito entra nei conti e come controllare il tuo indirizzo.",
-    "metaDescription": "Starlink Black Friday: 50% di sconto sui piani per 3 mesi, kit a noleggio a 0 € e offerta fino al 30 novembre. Controlla il tuo indirizzo e l'invito.",
+    "description": "A Milano l'ordine Starlink mostrava il 100 Mbps a 17,50 € al mese per 3 mesi e il kit a noleggio a 0 €. Vedi i tre piani, i 45 € dell'invito e come controllare il tuo indirizzo.",
+    "metaDescription": "Starlink Black Friday: 50% di sconto sui piani per 3 mesi, kit a noleggio a 0 € e 45 € di invito in Italia. Controlla il tuo indirizzo.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -293075,66 +296413,125 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Nell'ordine consultato a Milano, Starlink mostrava il 50% di sconto per 3 mesi e il kit a noleggio a 0 €. La pagina riportava «Nessun contratto» e il kit va restituito se disdici. Controlla le condizioni per il tuo indirizzo e verifica se l'invito risulta idoneo."
+          "A Milano l'ordine Starlink mostrava il 50% di sconto per 3 mesi, con iscrizione entro il 30 novembre: 100 Mbps a 17,50 € al mese, 200 Mbps a 22,50 € e Max a 32,50 €, con il kit a noleggio a 0 € e 19 € da pagare oggi. La pagina riportava «Nessun contratto» e una prova di 30 giorni. I 45 € dell'invito in Italia contano solo se apri l'ordine da un link di invito prima di pagare, e arrivano dopo due cicli mensili pagati."
         ]
       },
       {
-        "heading": "Quanto paghi e quando entra la ricompensa",
+        "heading": "I tre piani a Milano: prezzo in offerta e prezzo pieno",
         "paragraphs": [
-          "Il 20 novembre 2026 abbiamo letto l'ordine per un indirizzo di Milano, in piazza del Duomo, senza completare l'acquisto. Il Residenziale 100 Mbps compariva a 17,50 € al mese con il 50% di sconto per 3 mesi, per un totale di 52,50 € di canone promozionale. Il totale da pagare oggi era di 19 €.",
-          "Il kit si prende a noleggio, con 0 € iniziali e 0 € al mese, e va restituito se annulli il servizio. Il valore della ricompensa dell'invito dipende dal paese e compare nel tuo account. L'importo italiano non l'abbiamo letto, quindi non calcoliamo un totale finale. Quando lo conosci, sottrailo a quello che paghi. Solo con quel conto davanti si può dire se il primo periodo costa quasi nulla."
+          "Il 23 novembre 2026 abbiamo letto l'ordine per un indirizzo di Milano, in piazza del Duomo, senza completare l'acquisto. Il Residenziale 100 Mbps costava 17,50 € al mese invece di 35 €, il 200 Mbps 22,50 € invece di 45 € e il Max 32,50 € invece di 65 €, per 3 mesi. Il kit è a noleggio, con 0 € iniziali e 0 € al mese, e i 19 € da pagare oggi sono la spedizione.",
+          "L'installazione professionale è facoltativa a 172 € sul 100 e sul 200 Mbps e gratuita sul Max. Il bonus dell'invito in Italia è di 45 €, accreditato in fattura dopo due cicli mensili completi: sono più di due mesi e mezzo del 100 Mbps in offerta, e non riducono il prezzo del kit."
         ],
         "comparisonTable": {
           "headers": [
             "Ordine a Milano",
-            "Valore letto"
+            "Al mese per 3 mesi",
+            "Al mese dopo"
           ],
           "rows": [
             [
-              "Sconto sui piani",
-              "50% per 3 mesi"
+              "Residenziale 100 Mbps",
+              "17,50 €",
+              "35 €"
             ],
             [
-              "Residenziale 100 Mbps al mese, con l'offerta",
-              "17,50 €"
+              "Residenziale 200 Mbps",
+              "22,50 €",
+              "45 €"
             ],
             [
-              "Max al mese, prezzo mostrato nell'ordine",
-              "32,50 €"
+              "Max",
+              "32,50 €",
+              "65 €"
             ],
             [
-              "Kit a noleggio",
-              "0 € iniziali, 0 € al mese"
+              "Kit a noleggio, iniziale e al mese",
+              "0 € e 0 €",
+              "0 € e 0 €"
             ],
             [
-              "Installazione professionale (100 Mbps)",
-              "172 €, facoltativa"
-            ],
-            [
-              "Installazione professionale (Max)",
-              "Gratuita"
-            ],
-            [
-              "Totale da pagare oggi",
+              "Totale da pagare oggi (spedizione)",
+              "19 €",
               "19 €"
             ]
           ],
-          "caption": "Valori dell'ordine letto a Milano. Il prezzo dopo i 3 mesi non compariva nella pagina che abbiamo letto."
+          "caption": "Prezzi dell'ordine letto a Milano il 23 novembre 2026. Lo sconto vale per chi ordina entro il 30 novembre e dura 3 mesi."
+        },
+        "simulator": {
+          "title": "Simulatore rapido: Milano",
+          "scenarios": [
+            {
+              "label": "100 Mbps con il link",
+              "lines": [
+                {
+                  "label": "Piano con il 50% per 3 mesi",
+                  "value": "17,50 € al mese"
+                },
+                {
+                  "label": "Kit a noleggio",
+                  "value": "0 € iniziali, 0 € al mese"
+                },
+                {
+                  "label": "Bonus dell'invito dopo due cicli pagati",
+                  "value": "-45 € in fattura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Da pagare oggi (spedizione)",
+              "totalValue": "19 €",
+              "note": "Le prime bollette le paghi tu. Il bonus arriva dopo due cicli mensili completi."
+            },
+            {
+              "label": "200 Mbps con il link",
+              "lines": [
+                {
+                  "label": "Piano con il 50% per 3 mesi",
+                  "value": "22,50 € al mese"
+                },
+                {
+                  "label": "Kit a noleggio",
+                  "value": "0 € iniziali, 0 € al mese"
+                },
+                {
+                  "label": "Bonus dell'invito dopo due cicli pagati",
+                  "value": "-45 € in fattura",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Da pagare oggi (spedizione)",
+              "totalValue": "19 €",
+              "note": "L'installazione professionale è facoltativa e costa 172 €."
+            },
+            {
+              "label": "Senza il link di invito",
+              "lines": [
+                {
+                  "label": "Prezzo del piano e del kit",
+                  "value": "Lo stesso del link"
+                },
+                {
+                  "label": "Bonus dell'invito",
+                  "value": "0 €"
+                },
+                {
+                  "label": "Quello che perdi",
+                  "value": "45 €",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Bonus ricevuto",
+              "totalValue": "0 €",
+              "note": "L'invito conta solo se l'ordine parte da un link di invito, prima del pagamento."
+            }
+          ]
         },
         "postParagraphs": [
-          "Per ricevere la ricompensa, l'invito deve essere idoneo e il servizio deve restare attivo e in regola per due cicli mensili completi. Starlink offre credito in fattura e, secondo l'account, pagamento in denaro."
+          "Dopo i 3 mesi il canone sale al prezzo pieno: 35 € per il 100 Mbps, 45 € per il 200 Mbps e 65 € per il Max. Chi pensa di restare più di un trimestre deve fare il conto con questi valori."
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
-          "alt": "Componenti del kit Starlink Standard: antenna, router, base e cavi",
-          "caption": "Il kit a noleggio: antenna, router, base e cavi. Foto di Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        },
-        "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese con lo sconto di 3 mesi, e la ricompensa dell'invito arriva solo dopo due cicli mensili completi.",
+        "emphasis": "Secondo i numeri della tabella, a Milano si pagano 19 € oggi e poi tra 17,50 € e 32,50 € al mese per 3 mesi, e il bonus di 45 € arriva solo dopo due cicli mensili completi, quindi le prime bollette escono dalla tua tasca.",
         "links": [
           {
-            "label": "Vedi i piani al tuo indirizzo",
+            "label": "Controllare Black Friday e bonus da 45 € al mio indirizzo",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -293143,7 +296540,57 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Come compare nell'ordine",
         "paragraphs": [
-          "Per controllare la tua offerta, apri il link, inserisci l'indirizzo e cerca l'avviso che conferma l'invito applicato prima di pagare. Guarda se l'ordine mostra il valore della ricompensa e le condizioni dei 3 mesi di sconto."
+          "Lo screenshot mostra l'avviso “Referral Code Applied” di un ordine statunitense aperto da un link di invito. L'ordine aperto dal link mostra l'invito applicato e il valore della ricompensa del tuo paese.",
+          "Per controllare la tua offerta, apri il link, inserisci l'indirizzo e cerca lo stesso avviso prima di pagare. Guarda se l'ordine mostra la ricompensa e le condizioni dei 3 mesi di sconto."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Schermata d'ordine del sito ufficiale Starlink con il messaggio Referral Code Applied, che indica che iscrivendoti con questo codice tu e il tuo amico ricevete 100 dollari a testa, in denaro o credito di servizio",
+          "caption": "Ordine sul sito ufficiale con il link di invito applicato (esempio statunitense; in Italia il bonus è di 45 €).",
+          "aspectRatio": 0.8747,
+          "objectFit": "contain"
+        }
+      },
+      {
+        "heading": "L'offerta vale al tuo indirizzo?",
+        "paragraphs": [
+          "Il banner di Starlink parla di aree selezionate e di iscrizione entro il 30 novembre. Il prezzo e lo sconto cambiano con l'indirizzo, quindi due indirizzi possono vedere offerte diverse lo stesso giorno. Inserisci il tuo e confronta canone, kit, installazione e durata dello sconto.",
+          "Lo screenshot di Milano qui sotto mostra i tre piani e la scritta «Nessun contratto, prova di 30 giorni», con l'avviso di restituire il kit a noleggio se annulli."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "alt": "Ordine Starlink per Milano con i piani 100 Mbps, 200 Mbps e Max, il prezzo scontato e l'avviso di restituire il kit a noleggio",
+          "caption": "Ordine per Milano, letto il 23/11/2026: piani da 100 Mbps a Max e kit a noleggio a 0 €.",
+          "aspectRatio": 0.6065,
+          "objectFit": "portrait"
+        }
+      },
+      {
+        "heading": "Kit a noleggio, restituzione e prova di 30 giorni",
+        "paragraphs": [
+          "L'ordine che abbiamo letto indicava «Nessun contratto» e una prova di 30 giorni, con diritto di recesso. Se annulli e restituisci il kit in buone condizioni entro 30 giorni, il kit e il primo mese vengono rimborsati. Per questo aprire l'ordine non costa nulla: vedi il prezzo del tuo indirizzo, provi l'antenna sul tetto e decidi dopo.",
+          "Passati i 30 giorni, non c'è un vincolo di durata e puoi disdire quando vuoi. Vedi la [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+          "alt": "Riepilogo dell'ordine Starlink a Milano con 35 € meno 17,50 € di sconto per 3 mesi, il kit Mini X a 0 € e 19 € da pagare oggi",
+          "caption": "Riepilogo a Milano (23/11/2026): 35 € meno 17,50 € per 3 mesi, Mini X a 0 € e 19 € oggi.",
+          "aspectRatio": 0.6709,
+          "objectFit": "portrait"
+        },
+        "links": [
+          {
+            "label": "Assicurarmi i 45 € prima di pagare l'ordine",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Dopo i 3 mesi: come proteggere il prezzo",
+        "paragraphs": [
+          "Lo sconto del 50% riguarda 3 mesi e gli ordini fatti entro il 30 novembre. Poi si applica il prezzo pieno, che non è garantito per sempre: ricontrollalo nell'ordine e nei termini di Starlink. Se pensi di restare a lungo, fai il conto con 35 €, 45 € o 65 € al mese.",
+          "Prima di pagare, salva uno screenshot del riepilogo con il prezzo, la riga del kit e l'avviso dell'invito, e confrontalo con la prima fattura. Se una fattura non torna, apri una richiesta di assistenza dal tuo account allegando lo screenshot."
         ]
       },
       {
@@ -293154,28 +296601,24 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "L'offerta vale al tuo indirizzo?",
+        "heading": "I 4 errori che fanno perdere la ricompensa",
         "paragraphs": [
-          "Il banner di Starlink parla di aree selezionate e di iscrizione entro il 30 novembre. Il prezzo e lo sconto cambiano con l'indirizzo, quindi l'offerta che leggi qui potrebbe non comparire per te.",
-          "Il Residenziale 200 Mbps non mostrava un prezzo nella nostra lettura. Se ti interessa, confrontalo nell'ordine con la durata di ogni offerta."
-        ]
-      },
-      {
-        "heading": "Contratto e restituzione",
-        "paragraphs": [
-          "L'ordine che abbiamo letto indicava «Nessun contratto» e una prova di 30 giorni. Se annulli e restituisci il kit in buone condizioni entro 30 giorni, il kit e il primo mese vengono rimborsati. Vedi la [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta)."
-        ]
-      },
-      {
-        "heading": "E dopo i 3 mesi?",
-        "paragraphs": [
-          "Lo sconto riguarda 3 mesi. Il prezzo che si applica dopo non compariva nella pagina che abbiamo letto, quindi controllalo nell'ordine prima di pagare e tienilo a mente per il conto di un anno."
+          "Anche cliccando sul link, la ricompensa si perde per piccole distrazioni:"
+        ],
+        "bullets": [
+          "Comprare il kit su un marketplace o in negozio e provare a usare il link dopo. L'invito conta solo su un ordine fatto su starlink.com da un link di invito, prima del pagamento.",
+          "Aprire il link dal telefono e chiudere l'ordine ore dopo su un altro dispositivo senza riaprire il link. L'invito può non seguire l'ordine: fai tutto sullo stesso dispositivo o riapri il link e cerca l'avviso verde.",
+          "Iscriversi con un nome, un'e-mail o un indirizzo che ha già avuto un account Starlink. La ricompensa è per i nuovi clienti.",
+          "Annullare o pagare in ritardo prima di due cicli mensili pagati. La ricompensa arriva solo con il servizio attivo e in regola."
+        ],
+        "postParagraphs": [
+          "Se l'ordine è già stato pagato senza il link, l'invito non si può aggiungere dopo."
         ]
       },
       {
         "heading": "Come usare il link",
         "paragraphs": [
-          "Apri il link e digita l'indirizzo in cui installerai l'antenna. Scegli il piano, controlla l'invito applicato e conserva l'offerta che compare prima di pagare.",
+          "Aprire il link non ti impegna in nulla: prezzi, disponibilità e offerta compaiono solo dopo aver digitato l'indirizzo. Inserisci l'indirizzo in cui installerai l'antenna, scegli il piano, controlla l'invito applicato e conserva l'offerta che compare prima di pagare.",
           "Nella pagina dell'[invito Starlink](/it/coupons/starlink) trovi il link e le regole del programma."
         ]
       },
@@ -293183,10 +296626,12 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Starlink ha un codice sconto? No. Starlink non ha un coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
-          "Starlink ha un'offerta per il Black Friday? In Italia l'ordine mostrava il 50% di sconto sui piani Residenziale e Viaggio per 3 mesi, con iscrizione entro il 30 novembre, nelle aree selezionate.",
-          "L'invito si somma all'offerta? Controlla nell'ordine per il tuo indirizzo se compaiono entrambi. La ricompensa dell'invito dipende dall'idoneità e da due cicli mensili completi, e il valore si vede nel tuo account.",
+          "Starlink ha un'offerta per il Black Friday? Sì. In Italia l'ordine mostrava il 50% di sconto sui piani Residenziale per 3 mesi, con iscrizione entro il 30 novembre, nelle aree selezionate.",
+          "L'invito si somma all'offerta? Sono due righe separate dell'ordine. Controlla nell'ordine per il tuo indirizzo che compaiano entrambe. La ricompensa dipende dall'idoneità e da due cicli mensili completi.",
           "Quanto si paga nell'ordine? A Milano, il totale da pagare oggi era di 19 €, con il kit a noleggio a 0 €.",
+          "Quanto costano i piani al mese? A Milano, 17,50 € il 100 Mbps, 22,50 € il 200 Mbps e 32,50 € il Max per 3 mesi. Poi 35 €, 45 € e 65 €.",
           "C'è un vincolo contrattuale? L'ordine indicava «Nessun contratto», con 30 giorni di prova e restituzione del kit se annulli.",
+          "Posso aggiungere l'invito dopo aver pagato? No. Conta solo sull'ordine aperto dal link, prima del pagamento.",
           "Fino a quando dura l'offerta? Starlink indica il 30 novembre. Inserisci l'indirizzo nell'ordine per vedere se è disponibile."
         ]
       }
@@ -293194,13 +296639,13 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "L'ordine si apre sul sito di Starlink. Controlla il prezzo, i 3 mesi di sconto e il valore dell'invito prima di pagare.",
-      "label": "Controlla l'offerta al mio indirizzo",
+      "text": "Paghi lo stesso prezzo dell'ordine ufficiale, tieni i 30 giorni di prova con la restituzione del kit a noleggio se l'antenna non funziona sul tuo tetto e i 45 € dell'invito arrivano in fattura dopo due cicli pagati.",
+      "label": "Vedere il mio indirizzo con i 45 €",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+    "editorialNote": "Prezzi letti nelle pagine d'ordine del sito ufficiale, senza completare l'acquisto. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
     "relatedArticles": [
       {
         "slug": "starlink-link-invito"
@@ -293214,11 +296659,11 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "l'ordine per il tuo indirizzo mostra l'offerta sul piano e le condizioni del kit prima di pagare.",
+        "l'ordine per il tuo indirizzo mostra il 50% sul piano e le condizioni del kit a noleggio prima di pagare.",
         "puoi aspettare due cicli mensili completi per la ricompensa e pagare le mensilità nel frattempo."
       ],
       "skipIf": [
-        "il tuo ordine non mostra l'offerta, perché i prezzi letti valgono per un solo indirizzo.",
+        "il tuo ordine non mostra l'offerta, perché i prezzi letti valgono per gli indirizzi consultati.",
         "potresti uscire presto e non vuoi rischiare la restituzione del kit né la perdita del prezzo promozionale."
       ]
     }
@@ -293228,8 +296673,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-conviene",
     "translationKey": "starlink-vale-a-pena",
     "locale": "it",
-    "title": "Starlink conviene? Cosa si paga e per chi ha senso",
-    "seoTitle": "Starlink conviene? Prezzi e per chi ha senso",
+    "title": "Starlink conviene? Prezzi reali, fibra instabile e uso come backup",
+    "seoTitle": "Starlink conviene? Costi, fibra instabile e backup",
     "type": "Guida all'acquisto",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -293240,8 +296685,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Confronta il costo di Starlink con la connessione che arriva a casa tua. Vedi prezzo e kit per indirizzo, l'assenza di contratto e come verificare dove installare l'antenna.",
-    "metaDescription": "Starlink conviene? Prezzi per indirizzo, kit a noleggio, nessun contratto, per chi ha senso e quando fibra o 4G sono la scelta migliore.",
+    "description": "Scopri se Starlink conviene in campagna o dove la fibra locale cade spesso ed è lenta. Prezzi dei 3 piani, kit a noleggio, nessun contratto e uso come connessione backup.",
+    "metaDescription": "Starlink conviene anche se arriva la fibra? Prezzi a confronto, kit a noleggio, nessun contratto, fibra instabile e utilizzo come linea principale o backup.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -293256,47 +296701,133 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Starlink può convenire in campagna e nelle case dove manca una connessione stabile. Se arriva già una fibra affidabile, confronta il totale dei primi mesi prima di cambiare. Somma il canone del tuo indirizzo, controlla cosa prevede il kit e usa l'app di Starlink per capire dove si può installare l'antenna."
+          "Sì, Starlink conviene dove non arriva una connessione stabile e anche dove c’è la fibra, ma cade spesso o dà molta meno banda di quella contrattata. Noi l’abbiamo attivata come alternativa e backup alla nostra fibra instabile. Se la tua fibra è davvero stabile, resta più conveniente per prezzo e latenza. La prova è a basso rischio: nell’ordine di Milano il kit è a noleggio a 0 €, con 30 giorni per restituirlo."
         ]
       },
       {
         "heading": "Quanto costa",
         "paragraphs": [
-          "Il 20 novembre 2026 abbiamo letto l'ordine per un indirizzo di Milano. Con l'offerta in corso, il 50% di sconto sui piani per 3 mesi, i prezzi erano questi."
+          "Il 23 novembre 2026 abbiamo letto l’ordine per un indirizzo pubblico di Milano. Con l’offerta in corso, il 50% di sconto sui piani per 3 mesi, il kit era a noleggio a 0 € e le condizioni dicevano «Nessun contratto», con prova di 30 giorni. Il giorno dell’ordine si pagavano 19 € di spedizione."
         ],
         "comparisonTable": {
           "headers": [
             "Piano a Milano",
-            "Al mese",
-            "Kit",
+            "Al mese per i primi 3 mesi",
+            "Poi al mese",
+            "Kit a noleggio",
             "Installazione professionale"
           ],
           "rows": [
             [
               "Residenziale 100 Mbps",
-              "17,50 €, per i primi 3 mesi",
-              "A noleggio, 0 €",
+              "17,50 €",
+              "35 €",
+              "Mini X, 0 €",
               "172 €, facoltativa"
             ],
             [
-              "Max",
+              "Residenziale 200 Mbps",
+              "22,50 €",
+              "45 €",
+              "Standard 4, 0 €",
+              "172 €, facoltativa"
+            ],
+            [
+              "Residenziale Max",
               "32,50 €",
-              "A noleggio, 0 €",
+              "65 €",
+              "Standard 4, 0 €",
               "Gratuita"
             ]
           ],
-          "caption": "Prezzi mostrati nell'ordine con l'offerta in corso. Il totale da pagare oggi era di 19 €."
+          "caption": "Prezzi del riepilogo a Milano: sconto del 50% per 3 mesi, poi il prezzo pieno. Il totale da pagare il giorno dell’ordine era di 19 €, prima dell’eventuale ricompensa dell’invito."
+        },
+        "simulator": {
+          "title": "Simulatore: cosa chiede ogni scenario",
+          "scenarios": [
+            {
+              "label": "Milano, 100 Mbps",
+              "lines": [
+                {
+                  "label": "Kit a noleggio (Mini X)",
+                  "value": "0 € e 0 € al mese",
+                  "highlight": true
+                },
+                {
+                  "label": "Canone nei primi 3 mesi",
+                  "value": "17,50 €"
+                },
+                {
+                  "label": "Canone pieno dopo i 3 mesi",
+                  "value": "35 €"
+                }
+              ],
+              "totalLabel": "Da pagare oggi (spedizione)",
+              "totalValue": "19 €",
+              "note": "Installazione professionale facoltativa a 172 €. Se annulli, restituisci il kit."
+            },
+            {
+              "label": "Milano, 200 Mbps",
+              "lines": [
+                {
+                  "label": "Kit a noleggio (Standard 4)",
+                  "value": "0 € e 0 € al mese",
+                  "highlight": true
+                },
+                {
+                  "label": "Canone nei primi 3 mesi",
+                  "value": "22,50 €"
+                },
+                {
+                  "label": "Canone pieno dopo i 3 mesi",
+                  "value": "45 €"
+                }
+              ],
+              "totalLabel": "Da pagare oggi (spedizione)",
+              "totalValue": "19 €",
+              "note": "Installazione professionale facoltativa a 172 €. È il piano che molti confronti saltano."
+            },
+            {
+              "label": "Milano, Max",
+              "lines": [
+                {
+                  "label": "Kit a noleggio (Standard 4)",
+                  "value": "0 € e 0 € al mese"
+                },
+                {
+                  "label": "Canone nei primi 3 mesi",
+                  "value": "32,50 €"
+                },
+                {
+                  "label": "Canone pieno dopo i 3 mesi",
+                  "value": "65 €",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Da pagare oggi (spedizione)",
+              "totalValue": "19 €",
+              "note": "L’installazione professionale è inclusa a 0 €. Controlla il prezzo pieno nel tuo ordine prima di pagare."
+            }
+          ]
         },
         "postParagraphs": [
-          "Non calcoliamo un totale a 12 mesi, perché il prezzo dopo i 3 mesi di sconto non compariva nella pagina che abbiamo letto. Controllalo nel tuo ordine e fai il conto con la durata che appare. Fai il conto prima senza la ricompensa dell'invito, il cui valore dipende dal paese e si vede nell'account. Vedi l'[invito Starlink](/it/coupons/starlink)."
+          "Il piano da 200 Mbps è quello che molti confronti omettono: a 22,50 € nei primi mesi costa 5 € in più del 100 Mbps e porta con sé il kit Standard 4 a noleggio. Non fermarti al prezzo promozionale: dopo i 3 mesi i canoni tornano a 35 €, 45 € e 65 €.",
+          "Fai il conto prima senza la ricompensa dell’invito. Con il nostro link, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura. Vedi l’[invito Starlink](/it/coupons/starlink)."
         ],
         "links": [
           {
-            "label": "Vedi i piani al tuo indirizzo",
+            "label": "Simula piano e kit per il mio indirizzo",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "alt": "Schermata ufficiale di Starlink a Milano con il piano 100 Mbps a 17,50 € al mese e il kit a noleggio a 0 €",
+          "caption": "Pagina d’ordine a Milano, consultata il 23/11/2026: 100 Mbps a 17,50 € al mese e kit a noleggio da restituire se annulli.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.6065
+        }
       },
       {
         "heading": "Dove installare l'antenna",
@@ -293318,12 +296849,38 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Quando confrontare con fibra o 4G",
+        "heading": "Oltre il prezzo: fibra instabile, guasti locali e linea di backup",
         "paragraphs": [
-          "Se arriva già una fibra stabile, confronta installazione, canoni ed eventuali vincoli di ogni proposta. Per il 4G, aggiungi il prezzo dell'apparecchio che ti serve e controlla che il piano abbia abbastanza dati per la casa."
+          "Confrontare solo la bolletta mensile non basta quando la linea fissa del tuo indirizzo costa poco ma cade ogni settimana o dà una frazione della velocità che paghi. Gli operatori regionali e le reti congestionate soffrono spesso di cavi tranciati, manutenzioni senza preavviso e rallentamenti nelle ore di punta. Se lavori da casa, fai videochiamate o dipendi da telecamere e domotica, questo pesa più di qualche euro al mese.",
+          "Nel nostro caso, abbiamo attivato Starlink come alternativa e backup alla fibra instabile. Poiché il segnale arriva dai satelliti, non dipende dai cavi della tua strada né dallo stesso operatore: può sostituire una fibra problematica o fare da via di riserva quando la fibra cade.",
+          "La prova ha poco rischio: il kit è a noleggio a 0 € all’inizio, l’ordine indicava «Nessun contratto» e hai 30 giorni per restituirlo. Misuri la stabilità reale sul tuo tetto e tieni l’abbonamento solo se risolve il problema. Se pensi invece al 4G o 5G domestico come backup, aggiungi il router e controlla i dati inclusi."
         ],
-        "emphasis": "Senza una fibra stabile né un 4G decente all'indirizzo, Starlink entra nel confronto; con una fibra stabile, cambiare conviene solo se il totale dei mesi previsti, tra kit e canoni, resta sotto il costo della connessione attuale.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "Se la tua fibra è davvero stabile e dà la banda contrattata, cambiare solo per il canone mensile raramente conviene; quando gli operatori locali hanno cadute frequenti o rallentamenti forti, Starlink vale per affidabilità e indipendenza come linea principale o di backup.",
+        "emphasisAfterParagraph": 3,
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "Antenna e router ufficiali di Starlink che possono fare da connessione principale o di backup",
+          "caption": "Antenna e router ufficiali di Starlink, indipendenti dal cablaggio dell’operatore locale. Foto di Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "Come usare Starlink insieme a una fibra poco affidabile",
+        "paragraphs": [
+          "Questa parte è un’indicazione generale, non il racconto della nostra installazione. Ci sono due modi di usare Starlink accanto a una fibra instabile, dal più semplice all’automatico.",
+          "Livello 1, senza costi in più: tieni il Wi-Fi di Starlink come seconda rete e passa a quella dal telefono o dal portatile quando la fibra cade nel mezzo di una riunione. Il passaggio è manuale e richiede secondi, ma devi accorgerti della caduta e agire.",
+          "Livello 2, automatico: usa un router con Dual-WAN (o multi-WAN) e failover. La fibra entra in una porta WAN, Starlink nell’altra, e il router sposta il traffico su Starlink quando rileva che la fibra è caduta. Per questo Starlink si collega di solito al tuo router con la modalità bypass dell’app, che lascia al router la gestione della rete. Controlla con il supporto Starlink cosa richiede il tuo modello, perché alcuni kit chiedono un adattatore Ethernet.",
+          "Nel passaggio automatico, le chiamate in corso e le VPN possono riconnettersi per qualche secondo, perché l’indirizzo di uscita cambia. Prova il failover prima di contarci: scollega la fibra per qualche minuto e verifica che chiamate, telecamere e lavoro da remoto tornino da soli."
+        ]
+      },
+      {
+        "heading": "Pioggia forte, vento e blackout",
+        "paragraphs": [
+          "Il vecchio internet via satellite, da orbita alta, ha un ritardo di centinaia di millisecondi, che rovina chiamate e giochi. Starlink usa satelliti in orbita bassa e pubblica un intervallo tipico da 25 a 60 ms a terra, un riferimento dell’azienda senza misurazione al nostro indirizzo.",
+          "Pioggia molto forte, neve e temporali possono ridurre le prestazioni per un po’, e il vento richiede un’antenna ben fissata. Confrontalo con la fibra: un cavo tranciato in strada può richiedere molto tempo per essere riparato, e Starlink non ne dipende.",
+          "Il blackout è un altro punto: antenna e router di Starlink hanno bisogno di corrente, come gli apparati della fibra. Un gruppo di continuità o una power station portatile, dimensionati sul consumo indicato nelle specifiche di Starlink, tengono la connessione attiva nei blackout brevi. Se manca la corrente in tutto il quartiere, può cadere anche la rete della strada: prova l’insieme prima di contarci."
+        ]
       },
       {
         "heading": "Velocità e giochi",
@@ -293341,7 +296898,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Contratto e uscita",
         "paragraphs": [
-          "L'ordine che abbiamo letto indicava «Nessun contratto», con il kit a noleggio e una prova di 30 giorni. Se annulli devi restituire il kit. La [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta) spiega anche le condizioni di rimborso."
+          "L’ordine che abbiamo letto indicava «Nessun contratto», con il kit a noleggio e una prova di 30 giorni. Se annulli devi restituire il kit, e il rimborso si applica se annulli e restituisci il kit in buone condizioni entro i 30 giorni.",
+          "Aprire l’ordine non costa nulla: prezzi, sconti e disponibilità compaiono solo dopo aver inserito l’indirizzo su starlink.com. L’invito conta solo se l’ordine parte da un link di invito, prima di pagare, su starlink.com e non su un marketplace. La [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta) spiega anche le condizioni di rimborso."
+        ],
+        "links": [
+          {
+            "label": "Provare al mio indirizzo con 30 giorni per restituire",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -293354,33 +296919,36 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Starlink ha un coupon sconto? No. Starlink non ha coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
-          "Starlink conviene in città? Con una fibra stabile all'indirizzo, confronta installazione, canoni e vincoli prima di cambiare.",
-          "Starlink è meglio della fibra? Senza una buona fibra, vale la pena controllare l'offerta di Starlink per l'indirizzo e che ci sia il cielo aperto per l'antenna. Se hai entrambe, confronta stabilità e costo al tuo indirizzo.",
-          "Starlink va bene per i giochi? Prova latenza e interruzioni al tuo indirizzo. L'intervallo tipico che Starlink pubblica è un riferimento generale.",
-          "Quanto costa Starlink al mese? Nell'ordine letto a Milano, il Residenziale 100 Mbps costava 17,50 € e il Max 32,50 €, con l'offerta in corso. Il valore cambia con l'indirizzo."
+          "Starlink conviene in città? Dipende da quanto è davvero buona la tua fibra attuale. Se costa poco ed è stabile, di solito vince sul prezzo. Se cade spesso o dà molto meno del contratto, Starlink può convenire come alternativa o backup, purché ci sia il cielo aperto. È stato il nostro caso.",
+          "Starlink è meglio della fibra? Per velocità massima e latenza, una fibra sana di solito è in vantaggio. Per la continuità contro i guasti locali e i cavi tranciati in strada, Starlink aiuta perché è una via indipendente dall’operatore locale.",
+          "Starlink va bene per i giochi? Prova latenza e interruzioni al tuo indirizzo. L’intervallo tipico che Starlink pubblica è un riferimento generale.",
+          "Starlink è illimitata? Starlink dichiara dati illimitati nei piani residenziali. Controlla nell’ordine i limiti di velocità del piano mostrato.",
+          "Quanto costa Starlink al mese? Nell’ordine letto a Milano, con l’offerta, il Residenziale 100 Mbps costava 17,50 €, il 200 Mbps 22,50 € e il Max 32,50 € nei primi 3 mesi; poi 35 €, 45 € e 65 €. Il valore cambia con l’indirizzo.",
+          "Posso usare Starlink come backup della fibra? Sì. Con un router Dual-WAN con failover, Starlink subentra quando la fibra cade; senza, puoi cambiare rete a mano. Controlla con il supporto Starlink cosa richiede il tuo modello per la modalità bypass."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "non hai una buona fibra all'indirizzo e anche il 4G è debole.",
-        "ti va bene un kit a noleggio da restituire se annulli e sai che i prezzi cambiano con l'indirizzo."
+        "non hai una buona fibra all’indirizzo e anche il 4G è debole.",
+        "anche dove c’è una fibra economica, la tua rete locale cade spesso o dà molto meno della velocità contrattata, e ti serve un’alternativa affidabile o una connessione di backup.",
+        "hai controllato la vista sul cielo nell’app di Starlink e ti va bene un kit a noleggio da restituire se annulli."
       ],
       "skipIf": [
-        "hai già una fibra stabile in casa e non ti serve un kit da installare e poi restituire.",
-        "giochi online e ti serve un tempo di risposta garantito, che Starlink non garantisce per il tuo indirizzo."
+        "hai già una fibra davvero stabile, alla velocità contrattata e senza cadute frequenti che richiedano ridondanza.",
+        "giochi online in modo competitivo e ti serve una latenza minima garantita: Starlink pubblica un intervallo tipico, ma non promette un numero per il tuo indirizzo."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Inserisci il tuo indirizzo sul sito di Starlink e controlla piano, kit e canone prima di pagare.",
-      "label": "Vedi i piani al mio indirizzo",
+      "text": "Paghi lo stesso prezzo del sito ufficiale, mantieni i 30 giorni per restituire il kit se sul tuo tetto non funziona e ricevi 45 € di credito in Italia dopo due mesi di abbonamento, a regole rispettate.",
+      "label": "Vedi il mio indirizzo su starlink.com con l’invito",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Non abbiamo ancora usato il servizio. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+    "editorialNote": "Abbiamo attivato Starlink come alternativa e connessione di backup alla nostra fibra instabile. I prezzi e le condizioni dell’hardware di questa guida sono stati letti nelle pagine d’ordine pubbliche del sito ufficiale. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
     "relatedArticles": [
       {
         "slug": "starlink-contratto-disdetta"
@@ -293398,7 +296966,7 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-contratto-disdetta",
     "translationKey": "starlink-fidelidade",
     "locale": "it",
-    "title": "Starlink ha un contratto? Kit a noleggio, 30 giorni per restituire e come annullare",
+    "title": "Starlink ha un contratto? Nessun vincolo, kit a noleggio da restituire e 30 giorni per il rimborso",
     "seoTitle": "Starlink ha un contratto? Disdetta e rimborso",
     "type": "Guida pratica",
     "category": "guias-praticos-utilidade",
@@ -293410,8 +296978,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Vedi cosa prevede l'ordine italiano: nessun contratto, kit a noleggio da restituire, 30 giorni di prova con rimborso e i passaggi per annullare l'abbonamento dall'account.",
-    "metaDescription": "Starlink in Italia: nessun contratto, kit a noleggio da restituire e 30 giorni per il rimborso. Scopri come annullare l'abbonamento dal tuo account.",
+    "description": "A Milano l'ordine dice nessun contratto, con kit a noleggio a 0 € da restituire se annulli. Vedi i tre piani, i 30 giorni di prova e come annullare dall'account.",
+    "metaDescription": "Starlink in Italia: nessun contratto, kit a noleggio a 0 € da restituire e 30 giorni per il rimborso. Scopri come annullare l'abbonamento dall'account.",
     "publishedAt": "20 novembre 2026",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -293426,20 +296994,83 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "L'ordine consultato a Milano riportava «Nessun contratto». Il kit a noleggio va restituito se disdici il servizio. L'ordine descrive una prova di 30 giorni con rimborso del kit e del primo mese, se annulli e restituisci l'attrezzatura senza danni entro il termine previsto."
+          "L'ordine consultato a Milano riportava «Nessun contratto, prova di 30 giorni». Il kit è a noleggio, con 0 € iniziali e 0 € al mese, e va restituito se annulli il servizio. L'ordine descrive il rimborso del kit e del primo mese se annulli e restituisci l'attrezzatura senza danni entro 30 giorni. Gli sconti del 50 % sui primi 3 mesi valgono fino a fine novembre, e dopo i 3 mesi si paga il prezzo pieno."
         ]
       },
       {
-        "heading": "Quando c'è un vincolo",
+        "heading": "Milano: tre piani, un solo modello di noleggio",
         "paragraphs": [
-          "Nell'ordine per un indirizzo di Milano, letto il 20 novembre 2026, non compariva nessun vincolo contrattuale. L'ordine diceva «Nessun contratto». Il kit risultava a noleggio, con 0 € iniziali e 0 € al mese.",
-          "Le condizioni possono cambiare con il paese e con l'offerta. Controlla il riepilogo del tuo ordine prima di confermare e non dare per scontato che valga lo stesso per ogni indirizzo."
+          "Nella pagina d'ordine letta il 23 novembre 2026 per un indirizzo di Piazza del Duomo, a Milano, tutti e tre i piani residenziali usano l'hardware a noleggio, a 0 € al mese. Il piano da 100 Mbps costava 17,50 € al mese per 3 mesi (35 € dopo) con il Mini X; quello da 200 Mbps, 22,50 € (45 € dopo) con uno Standard 4; il Max, 32,50 € (65 € dopo), anche con uno Standard 4.",
+          "Il riepilogo dell'ordine mostrava 35 € al mese meno 17,50 € di sconto sul servizio per 3 mesi, il kit a noleggio Mini X a 0 € e 19 € da pagare oggi per la spedizione. L'installazione professionale è facoltativa: 172 € sul 100 e sul 200 Mbps, 0 € sul Max. La pagina mostra anche «Nessun contratto»; non abbiamo trovato né una durata minima né una penale."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+            "alt": "Pagina dei piani Starlink a Milano con Nessun contratto, prova di 30 giorni, il 100 Mbps a 17,50 € al mese e il kit a noleggio a 0 €",
+            "caption": "Milano, consultato il 23/11/2026: 100 Mbps a 17,50 € al mese e kit a noleggio a 0 €.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6065
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+            "alt": "Riepilogo dell'ordine Starlink a Milano con 35 € meno 17,50 € per 3 mesi, il Mini X a noleggio a 0 € e 19 € da pagare oggi",
+            "caption": "Riepilogo a Milano, consultato il 23/11/2026: 35 € meno 17,50 € per 3 mesi, Mini X a 0 € e 19 € oggi.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6709
+          }
+        ],
+        "links": [
+          {
+            "label": "Controlla piani e contratto al mio indirizzo",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
+      },
+      {
+        "heading": "I tre piani di Milano in una tabella",
+        "paragraphs": [
+          "La tabella riprende ciò che mostrava l'ordine per questo indirizzo. Il tuo indirizzo può mostrare altro."
+        ],
+        "comparisonTable": {
+          "caption": "Valori letti nell'ordine; lo sconto del 50 % sui primi 3 mesi valeva fino a fine novembre.",
+          "headers": [
+            "Piano",
+            "Primi 3 mesi",
+            "Poi",
+            "Kit a noleggio",
+            "Installazione"
+          ],
+          "rows": [
+            [
+              "100 Mbps",
+              "17,50 €",
+              "35 €",
+              "Mini X a 0 €",
+              "172 €, facoltativa"
+            ],
+            [
+              "200 Mbps",
+              "22,50 €",
+              "45 €",
+              "Standard 4 a 0 €",
+              "172 €, facoltativa"
+            ],
+            [
+              "Max",
+              "32,50 €",
+              "65 €",
+              "Standard 4 a 0 €",
+              "0 €"
+            ]
+          ]
+        }
       },
       {
         "heading": "La restituzione del kit",
         "paragraphs": [
-          "L'ordine dice che il kit è a noleggio e che, se annulli il servizio, devi restituirlo. Fai attenzione alla tempistica e conserva la ricevuta di spedizione.",
+          "L'ordine dice che il kit è a noleggio e che, se annulli il servizio, devi restituirlo. Oltre ai 30 giorni di Starlink vale il diritto di recesso previsto dalla legge per i contratti a distanza, di cui trovi il termine nelle condizioni dell'ordine. Fai attenzione alla tempistica e conserva la ricevuta di spedizione.",
+          "In altri paesi, come il Brasile o il Messico, il kit si compra, e un kit con sconto può essere legato a 12 mesi con una penale di uscita. Per questo conta solo il riepilogo del tuo ordine.",
           "Il link dell'[invito Starlink](/it/coupons/starlink) porta allo stesso ordine sul sito ufficiale. Le condizioni di restituzione si controllano lì, prima di pagare."
         ],
         "image": {
@@ -293456,7 +297087,14 @@ export const reviewsData: unknown[] = [
           "L'ordine indica un termine di 30 giorni. Per chiedere il rimborso del kit e del primo mese nelle condizioni dell'offerta, annulla il servizio e restituisci l'apparecchio senza danni entro quel termine.",
           "Annullare l'abbonamento ferma gli addebiti futuri secondo il ciclo, ma il kit va restituito a parte. Chiedi all'assistenza di Starlink come avviare anche il reso."
         ],
-        "emphasis": "Secondo le condizioni dell'ordine, annullare e restituire il kit senza danni entro 30 giorni è ciò che dà diritto al rimborso del kit e del primo mese, e la ricevuta di spedizione è la prova che conta."
+        "emphasis": "Secondo le condizioni dell'ordine, annullare e restituire il kit senza danni entro 30 giorni è ciò che dà diritto al rimborso del kit e del primo mese, e la ricevuta di spedizione è la prova che conta.",
+        "links": [
+          {
+            "label": "Vedi i piani con 30 giorni di rimborso su starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Come annullare",
@@ -293479,8 +297117,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prezzo promozionale e cambio di piano",
         "paragraphs": [
-          "Cosa succede al prezzo promozionale se cambi piano, annulli o vieni sospeso è scritto nelle condizioni del tuo ordine. Leggile prima di cambiare piano."
+          "Gli sconti letti erano del 50 % sul servizio per 3 mesi, fino a fine novembre. Cosa succede al prezzo promozionale se cambi piano, annulli o vieni sospeso è scritto nelle condizioni del tuo ordine, e le pagine pubbliche italiane non lo spiegano: leggile prima di cambiare piano, o chiedilo a Starlink."
         ]
+      },
+      {
+        "heading": "Prima di pagare: controlla il tuo ordine",
+        "paragraphs": [
+          "L'invito conta solo se l'ordine parte da un link di invito, aperto prima del pagamento e su starlink.com. Dopo il pagamento, o su un marketplace, non si può aggiungere. Aprire il link non ti impegna a niente: il tuo indirizzo mostra quale modello vale per te, e i 30 giorni coprono la prova. Il credito arriva in fattura dopo due mesi di abbonamento e non abbassa il prezzo del kit."
+        ],
+        "checklist": {
+          "title": "Prima di pagare",
+          "items": [
+            "Ho aperto l'ordine dal link di invito, nella stessa finestra, prima di pagare.",
+            "Ho controllato che la barra del browser resti su starlink.com prima di digitare qualsiasi dato.",
+            "Ho fatto il test degli ostacoli nell'app di Starlink nel punto in cui andrà l'antenna.",
+            "Ho letto nel riepilogo la riga dell'hardware, il prezzo mensile e ogni accenno a una durata minima.",
+            "Ho salvato uno screenshot del riepilogo con il prezzo mensile e la regola dei 30 giorni prima di pagare."
+          ]
+        }
       },
       {
         "heading": "Se l'addebito continua",
@@ -293492,9 +297146,10 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Starlink ha un codice sconto? No. Starlink non ha un coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
-          "Starlink ha un contratto? Nell'ordine italiano che abbiamo letto compariva «Nessun contratto», con il kit a noleggio e una prova di 30 giorni.",
+          "Starlink ha un contratto? Nell'ordine italiano che abbiamo letto compariva «Nessun contratto», con il kit a noleggio e una prova di 30 giorni. In altri paesi un kit con sconto può richiedere 12 mesi. Controlla il riepilogo del tuo ordine.",
           "Si può annullare Starlink in qualsiasi momento? La richiesta si fa dall'account. Il servizio resta attivo fino alla fine del periodo pagato.",
           "Devo restituire il kit? Il kit è a noleggio e, se annulli il servizio, va restituito.",
+          "Cosa succede dopo i primi 3 mesi di sconto? Il prezzo mensile sale a quello pieno: 35 € sul piano da 100 Mbps, 45 € sul 200 Mbps e 65 € sul Max.",
           "Si può restituire Starlink entro 30 giorni? Sì, secondo l'ordine: se annulli e restituisci il kit senza danni entro 30 giorni, il kit e il primo mese vengono rimborsati.",
           "Cosa succede dopo l'annullamento? Il servizio resta attivo fino alla data già pagata. Se cambi idea prima, cerca «Riprendi» nella pagina iniziale."
         ]
@@ -293517,7 +297172,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "puoi restituire il kit a noleggio senza danni entro 30 giorni se annulli.",
+        "puoi restituire il kit a noleggio senza danni entro 30 giorni se annulli, e vuoi evitare un vincolo.",
         "leggerai le condizioni nel riepilogo del tuo ordine prima di pagare."
       ],
       "skipIf": [
@@ -293526,8 +297181,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "L'ordine si apre sul sito di Starlink. Controlla vincolo, costi e restituzione del kit prima di pagare.",
-      "label": "Controlla le condizioni al mio indirizzo",
+      "text": "L'ordine si apre su starlink.com con il link di invito, che deve venire prima del pagamento. Paghi lo stesso prezzo del sito, vedi il contratto del tuo indirizzo e tieni i 30 giorni per restituire il kit. Il credito arriva dopo due mesi di abbonamento.",
+      "label": "Controlla contratto e piano al mio indirizzo",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -293565,7 +297220,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Starlink è il servizio di internet satellitare di SpaceX e il sito ufficiale è starlink.com. Su Trustpilot, il profilo che rimanda a starlink.com si chiama «Starlink Development». Se compri il kit altrove, controlla l'elenco dei rivenditori autorizzati di Starlink e verifica chi è il venditore dell'annuncio prima di pagare."
+          "Sì, Starlink è affidabile: è il servizio ufficiale di internet satellitare di SpaceX e vende direttamente su starlink.com. Noi stessi lo abbiamo attivato come alternativa a una fibra locale instabile. L'attenzione va ai siti imitati e ai venditori non autorizzati: su Trustpilot il profilo collegato a starlink.com è «Starlink Development» e, se compri il kit altrove, verifica il venditore nell'elenco ufficiale dei rivenditori autorizzati prima di pagare."
         ]
       },
       {
@@ -293586,7 +297241,22 @@ export const reviewsData: unknown[] = [
         "heading": "Come riconoscere il sito ufficiale",
         "paragraphs": [
           "Digita starlink.com nel browser. Prima di inserire dati o pagare, verifica di essere ancora su starlink.com.",
-          "Controlla nell'ordine, per il tuo indirizzo, piano, kit (noleggio o acquisto), imposte e durata del contratto. Se qualcuno ti chiede di pagare con un messaggio o fuori dall'ordine, conferma con il supporto Starlink prima di proseguire."
+          "Controlla nell'ordine, per il tuo indirizzo, piano, kit (noleggio o acquisto), imposte e durata del contratto. Se qualcuno ti chiede di pagare con un messaggio o fuori dall'ordine, conferma con il supporto Starlink prima di proseguire.",
+          "Un modo semplice per non sbagliare indirizzo è aprire l'ordine con un link di invito: porta direttamente all'ordine su starlink.com e controlli comunque la barra del browser prima di inserire dati. Il prezzo è lo stesso del sito ufficiale e l'invito conta solo se l'ordine parte da un link di invito, prima del pagamento."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "alt": "Schermata ufficiale dei piani residenziali su starlink.com per Milano",
+          "caption": "Schermata dei piani su starlink.com per un indirizzo a Milano, consultata il 23 novembre 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.6065
+        },
+        "links": [
+          {
+            "label": "Aprire l'ordine ufficiale su starlink.com con l'invito",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -293612,7 +297282,14 @@ export const reviewsData: unknown[] = [
             "label": "Elenco dei rivenditori autorizzati da Starlink",
             "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Componenti di un kit Starlink su sfondo scuro: base, supporto e cavi",
+          "caption": "Componenti di un kit Starlink. Foto: Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Cosa mostra Trustpilot",
@@ -293620,6 +297297,29 @@ export const reviewsData: unknown[] = [
           "Su Trustpilot, il profilo di starlink.com ha un TrustScore di 1,6 su 5 con 879 recensioni: il 71% è da 1 stella e il 17% da 5 stelle. Il profilo non è rivendicato, quindi Starlink non lo gestisce, e ha risposto allo 0% delle recensioni.",
           "Abbiamo letto le 40 recensioni da 1 stella e le 40 da 5 stelle più recenti. Tra quelle da 1 stella, i reclami più comuni riguardano un supporto fatto solo di bot o chat (circa 1 su 3), interruzioni e velocità bassa (circa 1 su 3), un canone mensile salito dopo l'abbonamento (circa 1 su 4), addebiti e disdette difficili (circa 1 su 4), installatori di aziende partner in ritardo o assenti (circa 1 su 4) e un kit in ritardo o mai arrivato (circa 1 su 5). Quelle da 5 stelle lodano velocità e stabilità (circa la metà), l'installazione facile (circa 1 su 3) e l'assenza di un'altra buona opzione internet (circa 1 su 4). I conteggi sono nostri e approssimativi.",
           "Leggi il punteggio con cautela: un profilo non rivendicato non invia inviti dopo l'acquisto, e chi lo apre spesso lo fa per lamentarsi. Gli elogi riguardano il segnale; i reclami riguardano supporto, prezzo e addebiti, e poche recensioni da 1 stella dicono che il segnale sia sempre pessimo. Il riepilogo automatico di Trustpilot, basato su 355 recensioni recenti, va nella stessa direzione. La nostra [lettura completa del profilo Trustpilot](/it/reviews/starlink-trustpilot-recensioni) riporta i numeri."
+        ]
+      },
+      {
+        "heading": "Lista di controllo prima di pagare",
+        "paragraphs": [
+          "Cinque controlli rapidi valgono per qualsiasi indirizzo e richiedono pochi minuti."
+        ],
+        "checklist": {
+          "title": "Prima di chiudere l'ordine",
+          "items": [
+            "Ho aperto l'ordine con il link di invito, nella stessa finestra del browser, così l'invito conta.",
+            "Ho controllato che la barra del browser resti su starlink.com prima di inserire qualsiasi dato.",
+            "Ho eseguito il test degli ostacoli dell'app Starlink nel punto previsto per l'antenna, per confermare il cielo aperto.",
+            "Ho letto nel riepilogo dell'ordine il piano, il kit, il totale e se c'è un vincolo contrattuale.",
+            "Ho salvato uno screenshot del riepilogo con il canone mensile e la regola dei 30 giorni prima di pagare."
+          ]
+        },
+        "links": [
+          {
+            "label": "Verificare la disponibilità al mio indirizzo su starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -293637,7 +297337,7 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Starlink ha un codice sconto? No. Starlink non ha un codice sconto: con il link d'invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
-          "Starlink è affidabile? Starlink è il servizio di internet satellitare di SpaceX. Verifica di essere su starlink.com e usa l'elenco dei rivenditori autorizzati se compri altrove.",
+          "Starlink è affidabile? Sì, Starlink è il servizio ufficiale di internet satellitare di SpaceX. Per acquistare in sicurezza, assicurati di essere su starlink.com oppure verifica il venditore nell'elenco ufficiale dei rivenditori autorizzati prima di pagare.",
           "Qual è il sito ufficiale di Starlink? Il sito ufficiale è starlink.com.",
           "Come confermo che un venditore è autorizzato? Consulta l'elenco dei rivenditori di Starlink e verifica chi è il venditore dell'annuncio prima di pagare.",
           "Meglio comprare dal sito ufficiale o da un rivenditore? Su starlink.com l'ordine mostra piano, kit, imposte e contratto per il tuo indirizzo prima del pagamento, e il link d'invito vale solo lì. Un rivenditore dell'elenco ufficiale è un venditore legittimo, ma l'invito non si applica."
@@ -293647,7 +297347,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "Realizzato con il sito ufficiale, il centro assistenza e il profilo pubblico su Trustpilot. Partecipiamo al programma di invito di Starlink e possiamo ricevere un premio se ti abboni con il nostro link e rispetti le regole.",
+    "editorialNote": "Realizzato con il sito ufficiale, il centro assistenza e il profilo pubblico su Trustpilot. Abbiamo attivato Starlink come alternativa e backup a una fibra locale instabile. Partecipiamo al programma di invito di Starlink e possiamo ricevere un premio se ti abboni tramite il nostro link e rispetti le regole.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-recensioni"
@@ -293670,8 +297370,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Inserisci il tuo indirizzo sul sito di Starlink e controlla piano, kit e canone mensile prima di pagare.",
-      "label": "Vedi i piani al tuo indirizzo",
+      "text": "Apri l'ordine con il link di invito, controlla che la barra resti su starlink.com e guarda piano, kit e totale per il tuo indirizzo prima di pagare. Il prezzo è quello del sito ufficiale.",
+      "label": "Vedi il mio indirizzo su starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -293765,6 +297465,36 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "Trustpilot, profilo di starlink.com, letto il 23 novembre 2026."
+        },
+        "metrics": {
+          "items": [
+            {
+              "label": "TrustScore",
+              "value": "1,6",
+              "unit": "/5",
+              "note": "Profilo non rivendicato"
+            },
+            {
+              "label": "Recensioni totali",
+              "value": "879",
+              "note": "Solo organiche"
+            },
+            {
+              "label": "Risposte dell’azienda",
+              "value": "0%",
+              "note": "0 su 464 negative"
+            },
+            {
+              "label": "1 stella vs 5 stelle",
+              "value": "71%",
+              "unit": "vs 17%",
+              "note": "Assistenza e fatturazione in testa"
+            }
+          ],
+          "summary": {
+            "badge": "Leggere il divario",
+            "text": "Gli elogi riguardano velocità e stabilità del segnale; le lamentele si concentrano su assistenza automatizzata, fatturazione e cambi di prezzo."
+          }
         }
       },
       {
@@ -293814,15 +297544,32 @@ export const reviewsData: unknown[] = [
         "heading": "Cosa significa per chi si abbona",
         "paragraphs": [
           "Prima di pagare, controlla piano, kit (noleggio o acquisto), imposte e contratto su starlink.com per il tuo indirizzo: cambiano da paese a paese e anche da indirizzo a indirizzo. Conserva uno screenshot dell’offerta del giorno dell’ordine e confronta ogni fattura con quello.",
+          "La difesa più semplice è ordinare direttamente su starlink.com e salvare lo screenshot del riepilogo dell’ordine, con prezzo, kit, contratto e invito applicato. Poi confronta la prima fattura con quello screenshot. L’invito conta solo sull’ordine aperto da un link di invito, prima di pagare, e non si può aggiungere dopo.",
           "Le regole sul kit in noleggio e sulla restituzione sono nella [guida a contratto, disdetta e rimborso](/it/reviews/starlink-contratto-disdetta)."
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "Antenna Starlink fissata al tetto di una casa di legno",
-          "caption": "Antenna residenziale installata. Foto di Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
-        }
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+            "alt": "Schermata dei piani Starlink per Milano: 100 Mbps a 17,50 € al mese, con il kit a noleggio a 0 €",
+            "caption": "Milano, piano 100 Mbps: canone mensile, kit a noleggio a 0 € e l’avviso di restituire il kit a noleggio. Il tipo di schermata da conservare. Consultazione del 23 novembre 2026.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.6065
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "Antenna Starlink fissata al tetto di una casa di legno",
+            "caption": "Antenna residenziale installata. Foto di Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ],
+        "links": [
+          {
+            "label": "Apri l’ordine ufficiale su starlink.com e controlla la mia zona",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Come segnalare un problema",
@@ -293834,15 +297581,32 @@ export const reviewsData: unknown[] = [
             "label": "Profilo Starlink su Trustpilot",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "Componenti del kit Starlink Standard: antenna, router, base e cavi",
+            "caption": "Kit Starlink Standard: antenna, router, base e cavi. Foto di Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "Prima di abbonarti",
         "paragraphs": [
           "Prima di abbonarti, controlla il sito e le condizioni. Come riconoscere il sito ufficiale e i profili con nomi simili è spiegato in [Starlink è affidabile?](/it/reviews/starlink-e-affidabile).",
+          "Aprire l’ordine non ti impegna a nulla: piano, prezzo, disponibilità e condizioni del contratto compaiono solo dopo che inserisci il tuo indirizzo. La politica dei 30 giorni di Starlink prevede un rimborso se disdici e restituisci il kit senza danni entro quel termine, come indicato nel tuo ordine; su un kit agevolato con contratto, verifica se dopo i 30 giorni c’è una penale.",
           "La pagina dell’[invito Starlink](/it/coupons/starlink) contiene il link e le regole del programma. Un invito non è un coupon: il premio arriva come credito in fattura dopo due mesi di abbonamento, e i piani Priority, Enterprise e Commercial non lo ricevono."
         ],
-        "emphasis": "Secondo i numeri della tabella, per chi non ha una buona alternativa internet al proprio indirizzo, abbonarsi è ragionevole dopo aver controllato piano, kit, imposte e contratto su starlink.com per quell’indirizzo, perché l’1,6 riflette lamentele su assistenza, fatturazione e prezzo più che sulla qualità del segnale."
+        "emphasis": "Secondo i numeri della tabella, per chi non ha una buona alternativa internet al proprio indirizzo, abbonarsi è ragionevole dopo aver controllato piano, kit, imposte e contratto su starlink.com per quell’indirizzo, perché l’1,6 riflette lamentele su assistenza, fatturazione e prezzo più che sulla qualità del segnale.",
+        "links": [
+          {
+            "label": "Verifica la disponibilità al mio indirizzo su starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "Domande frequenti",
@@ -293881,8 +297645,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Inserisci il tuo indirizzo sul sito di Starlink e controlla piano, kit e canone mensile prima di pagare.",
-      "label": "Vedi i piani al tuo indirizzo",
+      "text": "Apri l’ordine con il link di invito, controlla piano, kit e contratto al tuo indirizzo e salva lo screenshot del riepilogo prima di pagare. Il prezzo è quello del sito ufficiale.",
+      "label": "Apri il mio ordine su starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -293892,8 +297656,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-ja",
     "translationKey": "starlink-indicacao",
     "locale": "ja",
-    "title": "Starlinkの紹介リンクの使い方と、特典が入る時期",
-    "seoTitle": "Starlink紹介リンクの使い方と特典の受け取り方",
+    "title": "初めてのStarlink購入で紹介リンクから7,000円を受け取る方法",
+    "seoTitle": "初めてのStarlink購入で7,000円を受け取る方法",
     "type": "紹介コードガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -293904,8 +297668,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "公式サイトで紹介リンクを開き、支払いの前に注文画面で特典額を確認します。対象になる人、特典が入る時期、クレジットと現金の選び方をまとめました。",
-    "metaDescription": "Starlinkの紹介リンクの開き方、注文画面での特典額の見つけ方、プログラムの条件を満たしたあとに特典を受け取る流れを解説します。",
+    "description": "Starlinkにクーポンコードはありません。紹介リンクから初めて注文すれば、公式サイトと同額・30日間の返却期間のまま、2か月利用後に日本で7,000円分の特典を受け取れます。",
+    "metaDescription": "初めてのStarlink購入で紹介リンクを使って7,000円を受け取る手順と、東京のホームプランの月額に対するメリットをまとめました。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -293920,8 +297684,120 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Starlinkの紹介リンクを開き、設置する住所を入力します。支払いの前に、紹介コードが適用された表示と、注文画面の特典額を確認してください。対象は新規のお客様で、特典は毎月の請求サイクルが2回完了したあとに、サービスクレジットか、利用できる場合は現金で付与されます。"
+          "Starlinkに割引クーポンコードはありません。公式サイトのキャンペーンとは別に、初めて契約する方が特典を受け取れる公式の方法が紹介リンクです。このリンクからstarlink.comで注文すると、公式サイトと同じ価格・同じ30日間の返却期間のまま、日本では請求サイクル2回分を続けたあとに7,000円分が付与されます。東京のホームプラン（割引後の月額3,550円）なら、ほぼ2か月分にあたります。注文前にリンクを開いて適用の表示を確認し、2か月間支払いを続けてください。購入後に紹介を追加することはできません。"
         ]
+      },
+      {
+        "heading": "紹介リンクで注文するメリット（実質いくらお得になるか）",
+        "paragraphs": [
+          "自分でstarlink.comを開いて注文しても、機器代と月額は紹介リンク経由と同じです。違いは、受け取れたはずの7,000円です。特典は注文当日のキット代を下げるものではなく、請求サイクル2回分を支払ったあとに請求へクレジットとして入ります。",
+          "以下の数字は参照用の住所で読み取ったものです。お住まいの住所では価格やキット、条件が異なることがあり、注文画面だけがそれを示します。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "alt": "東京の住所でのStarlink注文画面。ホームプランは月額JP¥3,550、機器代JP¥0、レンタル機器の返却に関する表示",
+          "caption": "東京：注文画面のホームプラン。2026年11月23日に確認。",
+          "objectFit": "portrait",
+          "aspectRatio": 0.694
+        },
+        "comparisonTable": {
+          "caption": "2026年11月23日にstarlink.comで読み取った価格。購入は完了していません。ホームプランの割引は11月30日までの注文が対象で、注文画面のFAQには、期限までに注文すれば割引後の月額が続くとありますが、将来の価格は変わることがあります。特典は支払い時の割引ではなく、請求サイクル2回分のあとに入ります。",
+          "headers": [
+            "starlink.comで確認したケース",
+            "紹介リンクなし",
+            "Cecíliaのリンクあり",
+            "特典がカバーする額"
+          ],
+          "rows": [
+            [
+              "日本、ホーム（東京）割引中",
+              "月額3,550円（通常7,100円）、Miniレンタル0円、配送料3,000円",
+              "同じ注文＋7,000円のクレジット（請求サイクル2回完了後）",
+              "割引後の月額のほぼ2か月分、配送料の2倍以上"
+            ],
+            [
+              "日本、ホーム（東京）通常価格の目安",
+              "月額7,100円、Miniレンタル0円",
+              "同じ注文＋7,000円のクレジット",
+              "通常月額のほぼ1か月分"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "7,000円特典つきで注文画面を開く",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "simulator": {
+          "title": "ご自身のケースで試算",
+          "scenarios": [
+            {
+              "label": "ホーム割引中＋紹介リンク",
+              "lines": [
+                {
+                  "label": "Miniレンタル＋小型ルーター",
+                  "value": "0円（解約時は返却）"
+                },
+                {
+                  "label": "月額（50%オフ）",
+                  "value": "3,550円/月"
+                },
+                {
+                  "label": "請求サイクル2回完了後の紹介クレジット",
+                  "value": "-7,000円（請求に反映）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "月額に対するクレジット",
+              "totalValue": "ほぼ2か月分",
+              "note": "公式サイトと同じ価格で、30日間の返却期間もそのままです。"
+            },
+            {
+              "label": "通常価格の目安＋紹介リンク",
+              "lines": [
+                {
+                  "label": "Miniレンタル＋小型ルーター",
+                  "value": "0円（解約時は返却）"
+                },
+                {
+                  "label": "月額（通常価格）",
+                  "value": "7,100円/月"
+                },
+                {
+                  "label": "請求サイクル2回完了後の紹介クレジット",
+                  "value": "-7,000円（請求に反映）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "月額に対するクレジット",
+              "totalValue": "ほぼ1か月分",
+              "note": "配送料3,000円は注文当日に支払い、クレジットはあとから入ります。"
+            },
+            {
+              "label": "紹介リンクなしの注文",
+              "lines": [
+                {
+                  "label": "キットとプランの価格",
+                  "value": "紹介リンク経由と同じ"
+                },
+                {
+                  "label": "紹介クレジット",
+                  "value": "0円（あとから追加は不可）"
+                },
+                {
+                  "label": "受け取れずに終わる特典",
+                  "value": "日本では7,000円",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "受け取れる紹介特典",
+              "totalValue": "0円",
+              "note": "紹介は支払い前の最初の注文に含まれている必要があります。"
+            }
+          ]
+        }
       },
       {
         "heading": "リンクの使い方、手順",
@@ -293931,6 +297807,53 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "支払いの前に表示を確認してください。Starlinkは、紹介が最初の注文に含まれている必要があると案内しています。"
         ],
+        "bullets": [
+          "注文画面で、対象のホームまたはトラベルのプランを選びます。",
+          "紹介コードが適用されたという表示を探し、特典額と当日のお支払い額を確認します。",
+          "Starlinkのサイトで注文を完了します。",
+          "キットを有効化し、最初の請求を確認します。最初の月の支払いと機器の有効化は、紹介の条件に含まれます。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Starlink公式サイトの注文画面。Referral Code Appliedの表示があり、このコードで登録するとあなたと友達が各100ドルを現金またはサービスクレジットで受け取れると書かれている",
+          "caption": "紹介リンクが適用された公式サイトの注文画面（米国ネバダの例）。",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "支払い前のチェックリスト",
+        "paragraphs": [
+          "支払う前に、画面で1つずつ確認してください。2分で終わり、特典が注文に含まれるかどうかが決まります。"
+        ],
+        "checklist": {
+          "title": "注文を確定する前に",
+          "items": [
+            "特典を逃さないよう、Cecíliaの紹介リンクからこのウィンドウで注文を開いた。",
+            "情報を入力する前に、アドレスバーがstarlink.comのままであることを確認した。",
+            "設置予定の場所でStarlinkアプリの障害物チェックを行い、空が開けていることを確認した。",
+            "注文の概要で、紹介が適用された表示、キットの価格、12か月の契約があるかどうかを確認した。",
+            "支払う前に、月額と30日ルールが分かる概要のスクリーンショットを保存した。"
+          ]
+        }
+      },
+      {
+        "heading": "特典の額と付与の時期",
+        "paragraphs": [
+          "特典の額は、登録する国によって変わり、注文画面とアカウントに表示されます。紹介した人にも、同じ額が現金かサービスクレジットで入ります。",
+          "契約は、毎月の請求サイクル2回分をきちんと支払って有効な状態で続ける必要があります。ヘルプセンターによると、付与は有効化から60日後以降に始まることがあり、国、アカウント、本人確認によって変わります。",
+          "標準の受け取り方法は請求へのクレジットです。アカウントに現金での受け取りが表示される場合は、サイトのブラウザ版で「紹介」を開き、特典の受け取り方法を選びます。 特典は請求へのクレジットとして入り、注文時のキット代は下がりません。"
+        ],
+        "emphasis": "特典は、有効な契約を毎月の請求サイクル2回分続けたあとに付与され、標準は請求へのクレジットで、登録した人と紹介した人には同じ額が入ります。お住まいの国の額は注文画面に表示されます。",
+        "emphasisAfterParagraph": 3
+      },
+      {
+        "heading": "リンクを開くと何か契約になる？30日間のお試し",
+        "paragraphs": [
+          "リンクを開くだけでは何の義務も生じません。プランの価格、キット、提供状況、契約の有無は、starlink.comで住所を入力して初めて表示されます。",
+          "支払い後、Starlinkはページの条件に沿って30日間の返却期間を設けています。屋根でアンテナがうまく使えなければ、その期間内に解約して機器を返送できます。日本の注文画面では、レンタル機器は解約時に返却が必要と表示されていました。",
+          "だからテストの前にリンクが必要です。紹介は最初の注文でしか数えられません。リンクなしで試すと初日の支払いは同じで、アンテナを使い続けることにした場合に7,000円を受け取れません。"
+        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
           "alt": "木造の家の屋根に取り付けられたStarlinkのアンテナ",
@@ -293938,22 +297861,13 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.8079
         },
-        "bullets": [
-          "注文画面で、対象のホームまたはトラベルのプランを選びます。",
-          "紹介コードが適用されたという表示を探し、特典額と当日のお支払い額を確認します。",
-          "Starlinkのサイトで注文を完了します。",
-          "キットを有効化し、最初の請求を確認します。最初の月の支払いと機器の有効化は、紹介の条件に含まれます。"
+        "links": [
+          {
+            "label": "注文の前に特典を確保する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
-      },
-      {
-        "heading": "特典の額と付与の時期",
-        "paragraphs": [
-          "特典の額は、登録する国によって変わり、注文画面とアカウントに表示されます。紹介した人にも、同じ額が現金かサービスクレジットで入ります。",
-          "契約は、毎月の請求サイクル2回分をきちんと支払って有効な状態で続ける必要があります。ヘルプセンターによると、付与は有効化から60日後以降に始まることがあり、国、アカウント、本人確認によって変わります。",
-          "標準の受け取り方法は請求へのクレジットです。アカウントに現金での受け取りが表示される場合は、サイトのブラウザ版で「紹介」を開き、特典の受け取り方法を選びます。"
-        ],
-        "emphasis": "特典は、有効な契約を毎月の請求サイクル2回分続けたあとに付与され、標準は請求へのクレジットで、登録した人と紹介した人には同じ額が入ります。お住まいの国の額は注文画面に表示されます。",
-        "emphasisAfterParagraph": 3
       },
       {
         "heading": "対象になる人",
@@ -293971,15 +297885,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "ブラックフライデーのオファーとは？",
+        "heading": "リンクを開いても特典を逃す4つの落とし穴",
         "paragraphs": [
-          "Starlinkはトップページで対象のプランとキットの50%オフを案内していました。東京駅の住所で確認したホームプランの初回支払いは[ブラックフライデーのガイド](/ja/reviews/starlink-black-friday-ja)にまとめています。割引と紹介特典の表示は、ご自身の住所で確認してください。"
+          "特典を逃す原因のほとんどは、次の4つのどれかです。"
+        ],
+        "bullets": [
+          "販売店やマーケットプレイスでキットを買う。プログラムが数えるのは、starlink.comでリンクから行った注文だけです。",
+          "表示を確認せずに支払う。紹介は最初の注文に含まれている必要があり、あとから追加できません。画面に表示がなければ、支払う前にリンクを開き直してください。注文の途中で端末やブラウザを変えたときも、リンクを開き直して表示を確認します。",
+          "現在のお客様や過去のお客様がリンクを使う。特典はStarlinkを初めて契約する人のためのものです。",
+          "早すぎる解約。特典には、有効で支払い済みの契約を請求サイクル2回分続けることが必要で、付与は有効化から60日後以降に始まることがあります。"
         ]
       },
       {
-        "heading": "状況の確認方法",
+        "heading": "ブラックフライデーのオファーとは？",
         "paragraphs": [
-          "サイトまたはアプリの「紹介」タブで、あなたのリンクから登録した人の状況を確認できます。誰かが注文すると、Starlinkからメールが届きます。紹介は、特典が発生する前に資格の確認を受けることがあります。"
+          "Starlinkはトップページで対象のプランとキットの50%オフを案内していました。東京駅の住所で確認したホームプランの初回支払いは[ブラックフライデーのガイド](/ja/reviews/starlink-black-friday-ja)にまとめています。割引と紹介特典の表示は、ご自身の住所で確認してください。",
+          "東京のご注文の概要では、JP¥7,100からJP¥3,550を引き、Mini・ルーターは0円、配送料は3,000円でした。契約が気になる方は、[Starlinkの契約と解約のガイド](/ja/reviews/starlink-cancel-ja)と[Starlinkは買う価値があるか](/ja/reviews/starlink-worth-it-ja)も読んでください。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ja-resumo-toquio.webp",
+          "alt": "Starlinkのご注文の概要（東京）：JP¥7,100からJP¥3,550を割引、Miniとルーターは0円、配送料JP¥3,000、11月30日までの注文で割引後の月額が続くというFAQ",
+          "caption": "東京：ホームプランの注文の概要。2026年11月23日に確認。",
+          "objectFit": "portrait",
+          "aspectRatio": 0.3442
+        }
+      },
+      {
+        "heading": "状況の確認方法とご自身の紹介リンク",
+        "paragraphs": [
+          "サイトまたはアプリの「紹介」タブで、あなたのリンクから登録した人の状況を確認できます。誰かが注文すると、Starlinkからメールが届きます。紹介は、特典が発生する前に資格の確認を受けることがあります。",
+          "対象のホームまたはトラベルのプランを使うお客様になれば、ご自身も紹介でき、紹介した人は新規のお客様と同じ額を受け取れます。お住まいの国の額は、登録する人の注文画面に表示されます。"
         ]
       },
       {
@@ -293991,13 +297926,14 @@ export const reviewsData: unknown[] = [
           "Starlinkの紹介特典はいつ入りますか？ ヘルプセンターによると、紹介が条件を満たしていれば、有効化から60日後以降に付与が始まることがあります。",
           "販売店や通販サイトで買ったキットでも使えますか？ プログラムの対象は、starlink.comでリンクから行った注文です。",
           "以前に契約したことがあっても使えますか？ 特典は、Starlinkを初めて契約する人のためのものです。",
-          "紹介した人も特典をもらえますか？ はい。紹介した人にも、同じ額が現金かサービスクレジットで入ります。"
+          "紹介した人も特典をもらえますか？ はい。紹介した人にも、同じ額が現金かサービスクレジットで入ります。",
+          "支払ったあとで紹介を追加できますか？ いいえ。Starlinkは、紹介が支払い前の最初の注文に含まれていること、つまりstarlink.comで紹介リンクから注文することを求めています。"
         ]
       }
     ],
     "cta": {
-      "text": "支払いの前に、あなたの住所で注文画面に表示される特典額を確認してください。",
-      "label": "注文画面で紹介を確認する",
+      "text": "公式サイトと同じ価格で、屋根で使えなければ30日以内に返却でき、請求サイクル2回分のあとに日本で7,000円のクレジットを受け取れます。",
+      "label": "7,000円特典つきで公式サイトを確認する",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -294032,8 +297968,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-ja",
     "translationKey": "starlink-black-friday",
     "locale": "ja",
-    "title": "Starlink ブラックフライデー2026：50%オフの案内と東京での初回支払い",
-    "seoTitle": "Starlink ブラックフライデー2026：50%オフの内訳",
+    "title": "Starlink ブラックフライデー2026：ホームが月3,550円、レンタル0円、紹介特典7,000円",
+    "seoTitle": "Starlink ブラックフライデー2026：50%オフと紹介7,000円",
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -294044,8 +297980,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "東京の住所では、Starlinkのトップページにプランとキットの50%オフが出ました。本日のお支払い、紹介特典の入る時期、住所ごとの確認方法を整理します。",
-    "metaDescription": "Starlinkがプランとキットの50%オフを案内。東京の注文画面では初回支払いが3,000円でした。対象地域と適用期限を注文画面で確認する方法を紹介します。",
+    "description": "東京の注文画面では、ホームプランが50%オフの月3,550円で、ミニキットのレンタルは0円でした。支払いの内訳、紹介特典7,000円の入り方、住所ごとの確認方法を整理します。",
+    "metaDescription": "Starlinkのホームプランが50%オフで月3,550円、キットのレンタルは0円。紹介特典7,000円の入り方と、住所ごとの確認方法を注文画面で解説します。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -294060,59 +297996,120 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "Starlinkのトップページでは、対象のプランとキットの50%オフを案内していました。東京駅の住所で確認したホームプランは月額3,550円、初回支払いは3,000円でした。対象プランや申込期限、紹介特典が表示されるかは、設置先の住所を入力して確認してください。"
+          "東京の注文画面では、Starlinkのホームプランが通常月7,100円のところ50%オフの3,550円で、ミニキットはレンタル0円、本日のお支払いは配送料の3,000円でした。割引は11月30日までに注文した場合の案内です。日本の紹介特典は7,000円で、紹介リンクから開いた注文だけが対象になり、請求サイクルが2回完了したあとに付与されます。"
         ]
       },
       {
-        "heading": "いくら払い、特典はいつ入るか",
+        "heading": "東京の注文画面：割引価格と通常価格",
         "paragraphs": [
-          "注文画面ではホームプランが月額3,550円、トップページではROAMが月額3,460円と表示されました。Starlink Miniキットはレンタルで、初期のハードウェア費用と月額のキット料金はどちらも0円です。キャンセルするときは、キットを返却します。",
-          "日本の紹介特典の金額は、この注文画面では確認できませんでした。公式サイトの案内では、申込期限は11月30日です。"
+          "11月23日に、東京駅の住所で注文画面を読みました。購入は完了していません。日本ではホームプランのみで、月額は通常7,100円のところ、50%オフで3,550円でした。ミニキットと小型ルーターのレンタルはどちらも0円、月額のキット料金も0円で、本日のお支払いは配送料の3,000円でした。",
+          "紹介リンクから開いた注文で、日本の紹介特典は7,000円です。2か月の利用後に請求へのクレジットとして付与され、割引後の月額3,550円のほぼ2か月分にあたります。キットの価格は下がりません。"
         ],
         "comparisonTable": {
           "headers": [
             "東京駅の住所での注文画面",
-            "表示された内容"
+            "50%オフの価格",
+            "通常価格"
           ],
           "rows": [
             [
               "ホームプランの月額",
-              "3,550円"
+              "3,550円",
+              "7,100円"
             ],
             [
-              "ROAMの月額（トップページ）",
-              "3,460円"
+              "ミニキットと小型ルーターのレンタル（初期費用と月額）",
+              "0円と0円",
+              "0円と0円"
             ],
             [
-              "キットの初期費用",
-              "0円（レンタル）"
-            ],
-            [
-              "キットの月額料金",
-              "0円"
-            ],
-            [
-              "本日のお支払い額",
+              "本日のお支払い（配送）",
+              "3,000円",
               "3,000円"
             ],
             [
-              "無料トライアル",
-              "30日間"
-            ],
-            [
-              "発送",
-              "1〜2週間"
+              "紹介特典（2か月後）",
+              "7,000円",
+              "7,000円"
             ]
           ],
-          "caption": "11月20日に、紹介リンクなしで、東京駅の住所で読んだ注文画面です。ROAMの行だけトップページの表示です。50%オフが何か月続くかは、画面に表示されていませんでした。"
+          "caption": "11月23日に読んだ注文画面の価格です。50%オフは11月30日までに注文した場合の案内です。"
+        },
+        "simulator": {
+          "title": "かんたんシミュレーター",
+          "scenarios": [
+            {
+              "label": "ホーム＋紹介リンク",
+              "lines": [
+                {
+                  "label": "月額（50%オフ）",
+                  "value": "3,550円"
+                },
+                {
+                  "label": "ミニキットのレンタル",
+                  "value": "初期0円、月額0円"
+                },
+                {
+                  "label": "紹介特典（請求サイクル2回のあと）",
+                  "value": "-7,000円のクレジット",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "本日のお支払い（配送）",
+              "totalValue": "3,000円",
+              "note": "最初の請求は自己負担です。特典はアカウントのクレジットとして入ります。"
+            },
+            {
+              "label": "割引終了後の通常価格",
+              "lines": [
+                {
+                  "label": "月額（通常）",
+                  "value": "7,100円"
+                },
+                {
+                  "label": "ミニキットのレンタル",
+                  "value": "初期0円、月額0円"
+                },
+                {
+                  "label": "紹介特典（請求サイクル2回のあと）",
+                  "value": "-7,000円のクレジット",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "本日のお支払い（配送）",
+              "totalValue": "3,000円",
+              "note": "割引のあとの通常価格で続けるなら、この計算で考えます。"
+            },
+            {
+              "label": "紹介リンクなし",
+              "lines": [
+                {
+                  "label": "プランとキットの価格",
+                  "value": "リンクありと同じ"
+                },
+                {
+                  "label": "紹介特典",
+                  "value": "0円"
+                },
+                {
+                  "label": "受け取れなくなる額",
+                  "value": "7,000円",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "受け取れる特典",
+              "totalValue": "0円",
+              "note": "紹介は、支払いの前に紹介リンクから開いた注文だけが対象です。"
+            }
+          ]
         },
         "postParagraphs": [
-          "特典を受け取るには、紹介が資格を満たし、サービスが有効な状態で、請求サイクルが2回完了している必要があります。受け取り方は、サービスクレジットか、アカウントによっては現金です。"
+          "注文画面の説明では、11月30日までに注文すれば割引後の月額料金が続くとされています。ただし将来の料金は変わることがあるので、長く使う予定なら通常価格の7,100円でも計算してください。"
         ],
-        "emphasis": "表の数字では、東京駅の住所の注文は本日の支払いが3,000円で、ホームプランは月額3,550円です。紹介特典は資格を満たし請求サイクルが2回完了したあとに付与されるため、それまでの請求は自己負担になります。",
+        "emphasis": "表の数字では、東京駅の住所の注文は本日の支払いが3,000円で、ホームプランは月3,550円です。紹介特典の7,000円は請求サイクルが2回完了したあとに付与されるため、それまでの請求は自己負担になります。",
         "links": [
           {
-            "label": "お住まいの住所でプランを見る",
+            "label": "ブラックフライデーと紹介特典を自分の住所で確認する",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -294121,16 +298118,58 @@ export const reviewsData: unknown[] = [
       {
         "heading": "注文画面での見え方",
         "paragraphs": [
-          "リンクを開き、アンテナを設置する住所を入力します。プランを選んだら、紹介が適用された表示と、特典額、月額の条件を、支払いの前に探してください。",
-          "表示された月額が50%オフ適用後の金額なのか、割引が何か月続くのかは、私たちが読んだ画面からは分かりませんでした。支払いの前に、あなたの画面で確認してください。"
+          "スクリーンショットには、紹介リンクから開いた米国の注文の「Referral Code Applied」が出ています。リンクから開いた注文には、紹介が適用された表示と、お住まいの国の特典額が表示されます。",
+          "自分の注文を確認するには、リンクを開いて住所を入力し、支払いの前に同じ表示を探してください。特典額と月額の条件が出ているかも見ます。"
         ],
         "image": {
-          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
-          "alt": "Starlink Standardキットの部品。アンテナ、ルーター、スタンド、ケーブル",
-          "caption": "Standardキットの内容。アンテナ、ルーター、スタンド、ケーブル。写真：Starlink",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Starlink公式サイトの注文画面。Referral Code Appliedと表示され、このコードで登録するとあなたと友人がそれぞれ100ドルを現金またはサービスクレジットで受け取れると書かれている",
+          "caption": "紹介リンクが適用された公式サイトの注文画面（米国の例。日本の特典は7,000円）。",
+          "aspectRatio": 0.8747,
+          "objectFit": "contain"
         }
+      },
+      {
+        "heading": "お住まいの住所で出るか",
+        "paragraphs": [
+          "オファーは住所ごとに出る場合と出ない場合があります。ホームページの表示にも、一部の地域限定という注記があります。同じ日でも、入力する住所で画面が変わることがあります。",
+          "下の東京の画面はホームプランを示しています。月3,550円、ミニキットと小型ルーターのレンタルが0円で、キャンセル時にはレンタル機器を返却する、という注記が出ています。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "alt": "Starlinkの東京の注文画面。ホームプランの月額、ミニキットのレンタル0円、小型ルーター、レンタル機器の返却に関する注記",
+          "caption": "東京の注文画面、11月23日に読んだホームプラン：50%オフの月額とレンタル0円。",
+          "aspectRatio": 0.694,
+          "objectFit": "portrait"
+        }
+      },
+      {
+        "heading": "レンタルキットの返却と30日間のお試し",
+        "paragraphs": [
+          "注文画面には、キャンセルしてキットを破損のない状態で30日以内に返却すると、キットと最初の月の料金が全額返金されると書かれています。キットはレンタルなので、キャンセルするときは返却が必要です。だから注文画面を開くだけなら費用はかかりません。自分の住所の価格を見て、屋根でアンテナを試し、そのあとで続けるかを決められます。",
+          "30日を過ぎたあとは、12か月の縛りの記載はありません。手順は[契約とキャンセルのガイド](/ja/reviews/starlink-cancel-ja)にまとめています。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ja-resumo-toquio.webp",
+          "alt": "Starlinkの東京のご注文の概要。7,100円から3,550円を引いた月額、ミニキットと小型ルーターが0円、配送3,000円、割引の継続に関するよくある質問",
+          "caption": "東京のご注文の概要（11月23日）：7,100円−3,550円、レンタル0円、配送3,000円。",
+          "aspectRatio": 0.3442,
+          "objectFit": "portrait"
+        },
+        "links": [
+          {
+            "label": "注文を確定する前に紹介特典7,000円を確保する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "割引のあと：価格を守るために",
+        "paragraphs": [
+          "50%オフは、11月30日までに注文した場合の案内です。注文画面のよくある質問には、その日までに注文すれば割引後の月額料金が続くとありますが、将来の料金は変わることがあります。長く使うなら、通常価格の月7,100円で続けられるかも考えてください。",
+          "支払いの前に、価格、キットの行、紹介の適用表示が入った注文概要のスクリーンショットを保存し、最初の請求書と見比べます。請求が合わないときは、アカウントからサポートに連絡し、スクリーンショットを添付してください。"
+        ]
       },
       {
         "heading": "ほかの人を紹介すると？",
@@ -294140,22 +298179,24 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "お住まいの住所で出るか",
+        "heading": "特典を逃す4つのミス",
         "paragraphs": [
-          "オファーは住所ごとに出る場合と出ない場合があります。ホームページの表示にも、一部の地域限定という注記があります。同じ日でも、入力する住所で画面が変わることがあります。",
-          "住所を入力して、50%オフの表示、月額、本日のお支払い額、割引の期間を、並べて確認してください。"
-        ]
-      },
-      {
-        "heading": "キャンセルと返金",
-        "paragraphs": [
-          "注文画面には、キャンセルしてキットを破損のない状態で30日以内に返却すると、キットと最初の月の料金が全額返金されると書かれています。[契約とキャンセルのガイド](/ja/reviews/starlink-cancel-ja)に、手順をまとめています。"
+          "リンクを押しても、小さなミスで特典を逃すことがあります。"
+        ],
+        "bullets": [
+          "キットを量販店やマーケットプレイスで買ってから、あとでリンクを使おうとする。紹介は、starlink.comで紹介リンクから開き、支払いの前に出した注文だけが対象です。",
+          "スマートフォンでリンクを開き、数時間後に別の端末でリンクを開き直さずに注文を終える。紹介が引き継がれないことがあります。同じ端末で最後まで行うか、リンクを開き直して緑の表示を確認してください。",
+          "すでにStarlinkのアカウントがあった名前、メールアドレス、住所で登録する。特典は新規のお客様が対象です。",
+          "請求サイクルを2回支払い終える前に、解約したり支払いを遅らせたりする。特典は、サービスが有効で支払いが済んでいる間だけ入ります。"
+        ],
+        "postParagraphs": [
+          "紹介リンクなしで支払いを済ませたあとに、紹介を追加することはできません。"
         ]
       },
       {
         "heading": "リンクの使い方",
         "paragraphs": [
-          "リンクを開き、アンテナを設置する住所を入力します。プランを選び、紹介が適用されていることを確認して、支払いの前に表示されるオファーを控えておきます。",
+          "リンクを開くだけなら、何も約束することはありません。価格、提供状況、オファーは、住所を入力して初めて表示されます。アンテナを設置する住所を入力し、プランを選び、紹介が適用されていることを確認して、支払いの前に表示されるオファーを控えておきます。",
           "リンクと条件は、[Starlinkの紹介ページ](/ja/coupons/starlink)にあります。"
         ]
       },
@@ -294163,17 +298204,19 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "Starlinkに割引コードはありますか？ ありません。Starlinkにクーポンはありません。Ceciliaの紹介リンクから登録した人は、日本では2か月の利用後に7,000円が請求へのクレジットとして付与され、紹介した人も同じ額を受け取ります。",
-          "Starlinkにブラックフライデーのセールはありますか？ 公式サイトは対象プランとキットの50%オフを案内していました。対象は設置先の住所とプランで確認できます。",
-          "紹介はオファーと併用できますか？ 両方が表示されるかは、あなたの注文画面で確認してください。紹介の特典額は国ごとに違い、注文画面とアカウントに表示されます。特典は、資格を満たし、請求サイクルが2回完了したあとに付与されます。",
-          "注文時にいくら請求されますか？ 東京駅の住所で読んだ画面では、本日のお支払いは3,000円でした。",
-          "キットはレンタルですか？ 読んだ画面では、初期費用0円、月額0円のレンタルで、キャンセル時に返却する条件でした。",
-          "申込期限はいつですか？ キャンペーン案内と料金欄で期限が異なることがあります。設置先の住所を入力し、選んだプランの注文画面で確認してください。"
+          "Starlinkにブラックフライデーのセールはありますか？ はい。東京の注文画面では、ホームプランが50%オフの月3,550円で、ミニキットはレンタル0円でした。11月30日までに注文した場合の案内です。",
+          "紹介はオファーと併用できますか？ 注文画面では別の行として表示されます。両方が出るかは、あなたの注文画面で確認してください。特典は、資格を満たし、請求サイクルが2回完了したあとに付与されます。",
+          "注文時にいくら請求されますか？ 東京駅の住所で読んだ画面では、本日のお支払いは配送料の3,000円でした。",
+          "キットはレンタルですか？ はい。初期費用0円、月額0円のレンタルで、キャンセル時に返却する条件です。",
+          "契約の前に試せますか？ はい。キャンセルしてキットを破損のない状態で30日以内に返却すると、キットと最初の月の料金が返金されます。",
+          "支払いのあとで紹介を追加できますか？ できません。紹介リンクから開いた注文で、支払いの前に適用されたものだけが対象です。",
+          "申込期限はいつですか？ Starlinkは11月末までのオファーとして案内しています。設置先の住所を入力し、選んだプランの注文画面で確認してください。"
         ]
       }
     ],
     "cta": {
-      "text": "注文はStarlinkのサイトで開きます。支払いの前に、月額、キットの条件、紹介の特典額を確認してください。",
-      "label": "住所でオファーを確認する",
+      "text": "公式の注文画面と同じ価格で、アンテナが屋根で使えなければ30日以内にレンタルキットを返却できます。そのうえ、請求サイクル2回のあとに紹介特典7,000円が請求に入ります。",
+      "label": "住所を確認して7,000円の特典を確保する",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -294194,11 +298237,11 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "住所を入力した注文画面に、プランのオファーとキットの条件が出る。",
+        "住所を入力した注文画面に、50%オフのプランとレンタルキットの条件が支払いの前に出る。",
         "特典が入るまで請求サイクル2回分を待ち、その間の請求を払える。"
       ],
       "skipIf": [
-        "注文画面にオファーが表示されない。読んだ価格は1つの住所のものだ。",
+        "注文画面にオファーが表示されない。読んだ価格は確認した住所のものだ。",
         "早めに解約するかもしれず、キットの返却や割引価格の失効を避けたい。"
       ]
     }
@@ -294208,8 +298251,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-worth-it-ja",
     "translationKey": "starlink-vale-a-pena",
     "locale": "ja",
-    "title": "Starlinkは買う価値がある？ 費用の見方と、向いている人",
-    "seoTitle": "Starlinkは買う価値がある？ 費用と向き不向き",
+    "title": "Starlinkは買う価値がある？料金だけでなく、不安定な光回線の代替・バックアップまで解説",
+    "seoTitle": "Starlinkは買う価値がある？料金・不安定な光回線・バックアップ",
     "type": "購入ガイド",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -294220,8 +298263,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Starlinkの月額とキットの費用を、自宅に届く回線と比べる方法を紹介します。住所ごとの価格の見方、解約の条件、設置場所の確認方法もまとめました。",
-    "metaDescription": "Starlinkは買う価値がある？ 東京の注文画面の価格、レンタルキット、向いている人と、光回線や4Gのほうが合う場合を整理します。",
+    "description": "光回線がない地域だけでなく、自宅の光が不安定・遅い場合の乗り換えやバックアップ回線としてStarlinkに価値があるか解説。料金、レンタル条件、設置確認までまとめました。",
+    "metaDescription": "Starlinkは買う価値がある？光回線が不安定な地域の代替・バックアップ用途、東京の月額料金とレンタル条件を整理。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -294236,13 +298279,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "安定した回線が届かない家や別荘では、Starlinkは選択肢になります。すでに信頼できる光回線があるなら、乗り換える前に費用を比べてください。月額とキットの費用を足し、住所ごとの価格と契約の条件を確認し、アンテナを置ける場所はStarlinkのアプリで調べます。"
+          "はい、Starlinkは安定した回線が届かない地域だけでなく、光回線があっても頻繁に切れる、契約速度より極端に遅いといった家庭でも価値があります。当サイトでも、不安定な光回線の代替・バックアップとしてStarlinkを契約しました。光回線が本当に安定しているなら、料金と遅延では光回線が有利です。試すリスクは小さく、東京の注文画面ではキットは初期費用0円のレンタルで、30日以内なら返却できます。"
         ]
       },
       {
         "heading": "費用はいくらになるか",
         "paragraphs": [
-          "11月20日に、東京駅の住所で公開の注文画面を読みました。Starlinkのトップページには、サービスプランとキット本体が50%オフになるオファーが11月30日まで表示され、東京駅の住所の注文画面にはホームとトラベル向けプランの50%オフが出ていました。"
+          "2026年11月23日に、東京駅の住所で公開の注文画面を読みました。ホームプランは通常月額7,100円のところ50%オフの3,550円と表示され、キットはMiniのレンタルと小型ルーターで、初期費用も月額も0円。本日のお支払いは配送料の3,000円でした。注文画面のFAQには、11月30日までに注文すれば割引後の月額が続くと書かれていますが、将来の料金は変わる可能性があるとも示されています。"
         ],
         "comparisonTable": {
           "headers": [
@@ -294251,12 +298294,12 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "ホームプランの月額",
+              "ホームプランの月額（50%オフ）",
               "3,550円"
             ],
             [
-              "ROAMの月額（トップページ）",
-              "3,460円"
+              "ホームプランの通常の月額",
+              "7,100円"
             ],
             [
               "キットの初期費用",
@@ -294267,23 +298310,98 @@ export const reviewsData: unknown[] = [
               "0円"
             ],
             [
-              "本日のお支払い額",
+              "本日のお支払い（配送）",
               "3,000円"
             ]
           ],
-          "caption": "公式のトップページと注文画面の表示。50%オフの期間は画面にありませんでした。特典、追加の設置費用、税金は含みません。"
+          "caption": "公式の注文画面の表示。50%オフはキャンペーン中の表示で、割引後の月額がいつまで続くかは、あなたの注文画面で確認してください。特典、追加の設置費用、税金は含みません。"
+        },
+        "simulator": {
+          "title": "シミュレーター：シナリオごとの費用",
+          "scenarios": [
+            {
+              "label": "割引が続く場合の12か月",
+              "lines": [
+                {
+                  "label": "キット（Miniレンタルと小型ルーター）",
+                  "value": "0円",
+                  "highlight": true
+                },
+                {
+                  "label": "月額（50%オフ）",
+                  "value": "3,550円"
+                },
+                {
+                  "label": "配送",
+                  "value": "3,000円"
+                }
+              ],
+              "totalLabel": "12か月の概算（月額×12＋配送）",
+              "totalValue": "45,600円",
+              "note": "特典と税金は含みません。キャンセル時はレンタルを返却します。"
+            },
+            {
+              "label": "通常価格に戻った場合の12か月",
+              "lines": [
+                {
+                  "label": "キット（Miniレンタルと小型ルーター）",
+                  "value": "0円"
+                },
+                {
+                  "label": "通常の月額",
+                  "value": "7,100円",
+                  "highlight": true
+                },
+                {
+                  "label": "配送",
+                  "value": "3,000円"
+                }
+              ],
+              "totalLabel": "12か月の概算（月額×12＋配送）",
+              "totalValue": "88,200円",
+              "note": "割引後の月額が続く保証はなく、将来の料金は変わる可能性があります。"
+            },
+            {
+              "label": "6か月だけ使う場合（割引が続くと仮定）",
+              "lines": [
+                {
+                  "label": "月額（50%オフ）",
+                  "value": "3,550円"
+                },
+                {
+                  "label": "6か月分の月額",
+                  "value": "21,300円",
+                  "highlight": true
+                },
+                {
+                  "label": "配送",
+                  "value": "3,000円"
+                }
+              ],
+              "totalLabel": "6か月の概算（月額×6＋配送）",
+              "totalValue": "24,300円",
+              "note": "30日以内にキャンセルして返却する条件は、注文画面で確認してください。"
+            }
+          ]
         },
         "postParagraphs": [
-          "50%オフが何か月続くかが分からないため、12か月の総額は計算していません。あなたの注文画面で、割引の期間と、割引後の月額を確認してください。",
-          "費用を見積もるときは、まず特典を引かずに計算します。紹介リンクの特典額は国で変わり、注文画面に表示されます。[Starlinkの紹介ページ](/ja/coupons/starlink)を参照してください。"
+          "東京の注文画面で選べたプランはホームだけでした。米国や欧州では100Mbps、200Mbps、Maxから選べますが、日本の住所ではこの1つです。50%オフが終わったあとの7,100円まで含めて、12か月の総額を考えてください。",
+          "費用を見積もるときは、まず特典を引かずに計算します。私たちのリンクから契約すると、日本では2か月の契約を続けたあとに7,000円が請求へのクレジットとして付与されます。[Starlinkの紹介ページ](/ja/coupons/starlink)を参照してください。"
         ],
         "links": [
           {
-            "label": "住所でプランを見る",
+            "label": "自分の住所でプランとキットを試算する",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "alt": "Starlinkの公式注文画面。東京のホームプランが月額3,550円で、Miniレンタルが0円と表示されている",
+          "caption": "東京の注文画面（2026年11月23日確認）：ホームプランの月額3,550円と、返却が必要なレンタルキット。",
+          "objectFit": "portrait",
+          "aspectRatio": 0.694
+        }
       },
       {
         "heading": "アンテナの設置場所",
@@ -294305,12 +298423,38 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "光回線や4Gと比べるとき",
+        "heading": "料金以外の比較軸：光回線の不安定さとバックアップ運用",
         "paragraphs": [
-          "すでに安定した光回線が届くなら、各社の工事費、月額、契約期間の条件を足して比べます。4Gを選ぶ場合は、必要な機器の価格を加え、データ容量が家庭に足りるかを確認します。"
+          "月額だけを比べても足りないのは、住所に届く安い固定回線が毎週のように切れたり、契約した速度のごく一部しか出なかったりする場合です。地域の事業者や混雑した回線は、ケーブルの断線、予告のないメンテナンス、夜間の速度低下に悩まされがちです。在宅勤務、ビデオ会議、防犯カメラやスマートホームに頼る人には、月額の差よりこちらのほうが重く響きます。",
+          "私たちの場合は、不安定な光回線の代替・バックアップとしてStarlinkを契約しました。信号は衛星から届くため、家の前のケーブルにも同じ事業者にも左右されません。問題のある光回線の代わりにも、光回線が落ちたときの予備回線にもなります。",
+          "試すときのリスクは小さいです。キットは初期費用0円のレンタルで、30日以内なら返却できます。自分の屋根で本当の安定性を測り、問題が解決する場合だけ契約を続ければ済みます。4Gや5Gのホームルーターをバックアップに考えるなら、ルーターの費用とデータ容量も確認してください。"
         ],
-        "emphasis": "住所に安定した光回線も使える4Gもないなら、Starlinkは比較に入れる価値があります。安定した光回線があるなら、キットと月額を合わせた想定期間の総額が今の回線より安くなる場合にだけ、乗り換える意味があります。",
-        "emphasisAfterParagraph": 1
+        "emphasis": "光回線が本当に安定していて契約どおりの速度が出ているなら、月額だけを理由に乗り換えても得にはなりにくいです。一方、地域の回線が頻繁に切れたり極端に遅くなったりするなら、Starlinkは安定性と独立性という点で、メイン回線にも予備回線にも価値があります。",
+        "emphasisAfterParagraph": 3,
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "メイン回線またはバックアップとして使えるStarlinkの公式アンテナとルーター",
+          "caption": "地域の事業者の配線から独立した、Starlink公式のアンテナとルーター。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "不安定な光回線と並べてStarlinkを使う方法",
+        "paragraphs": [
+          "ここは一般的な使い方の説明で、私たちの設置の体験談ではありません。不安定な光回線の横でStarlinkを使うには、簡単な方法から自動で切り替える方法まで2段階あります。",
+          "レベル1は、追加費用なしの方法です。StarlinkのWi-Fiを第2のネットワークとして残し、会議の最中に光回線が落ちたら、スマホやノートPCをそちらに切り替えます。手動で数秒で済みますが、切断に気づいて自分で操作する必要があります。",
+          "レベル2は自動の方法です。Dual-WAN（またはマルチWAN）とフェイルオーバーに対応したルーターを使います。光回線を片方のWANポート、Starlinkをもう片方につなぐと、光回線の断を検知したルーターが通信をStarlinkに回します。この場合、Starlinkはアプリのバイパスモードでご自身のルーターにつなぐのが一般的で、ネットワークの管理はご自身のルーターが担当します。必要な機器はモデルで異なり、イーサネットアダプターが要る場合もあるため、Starlinkのサポートで確認してください。",
+          "自動で切り替わるとき、外に出るアドレスが変わるため、通話中の接続やVPNが数秒間つなぎ直しになることがあります。頼る前にフェイルオーバーを試してください。光回線を数分外して、通話、カメラ、リモート作業が自動で戻るかを確かめます。"
+        ]
+      },
+      {
+        "heading": "大雨・強風・停電のとき",
+        "paragraphs": [
+          "高軌道の従来型衛星インターネットは、遅延が数百ミリ秒あり、通話やゲームに向きません。Starlinkは低軌道の衛星を使い、地上での一般的な応答時間として25〜60msを公表しています。これは同社の目安で、私たちの住所での測定ではありません。",
+          "非常に強い雨、雪、嵐では、しばらく性能が下がることがあります。風が強い場所では、アンテナをしっかり固定する必要があります。光回線と比べると、道路の断線は復旧まで時間がかかることがあり、Starlinkはその影響を受けません。",
+          "停電も考えどころです。Starlinkのアンテナとルーターには電気が必要で、光回線の機器も同じです。Starlinkが仕様で示す消費電力に合ったUPS（無停電電源装置）やポータブル電源があれば、短い停電でも接続を保てます。地域全体が停電すると、道路側のネットワークも落ちることがあるため、頼る前にセットで試してください。"
+        ]
       },
       {
         "heading": "速度とゲーム",
@@ -294328,46 +298472,57 @@ export const reviewsData: unknown[] = [
       {
         "heading": "契約と解約",
         "paragraphs": [
-          "読んだ注文画面では、キットは初期費用0円、月額0円のレンタルで、キャンセル時に返却する条件でした。30日以内にキャンセルして返却すると、キットと最初の月の料金が返金されます。詳しくは[契約とキャンセルのガイド](/ja/reviews/starlink-cancel-ja)を見てください。"
+          "東京の注文画面では、キットは初期費用0円、月額0円のレンタルで、キャンセル時に返却する条件でした。30日以内にキャンセルして返却すると、キットと最初の月の料金が返金されます。詳しくは[契約とキャンセルのガイド](/ja/reviews/starlink-cancel-ja)を見てください。",
+          "注文画面を開くだけなら費用はかかりません。価格、割引、提供状況は、starlink.comで住所を入力して初めて表示されます。紹介は、紹介リンクから開いた注文で、支払いの前に、starlink.comで行った場合にだけ数えられ、マーケットプレイスでは対象外です。"
+        ],
+        "links": [
+          {
+            "label": "30日間の返却つきで、自分の住所で試す",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "利用者の不満",
         "paragraphs": [
-          "StarlinkのTrustpilotのページは、スコア1.6、871件のレビューです。サポートにつながりにくいことや、毎月の請求の増額が目立ちます。注文画面のオファーを控えて、請求書と見比べてください。[Trustpilotの読み方](/ja/reviews/starlink-trustpilot-ja)も参考にしてください。"
+          "StarlinkのTrustpilotのページは、スコア1.6です。サポートにつながりにくいことや、毎月の請求の増額が目立ちます。注文画面のオファーを控えて、請求書と見比べてください。[Trustpilotの読み方](/ja/reviews/starlink-trustpilot-ja)も参考にしてください。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
           "Starlinkに割引クーポンはありますか？ いいえ。Starlinkにクーポンはありません。私たちの紹介リンクから契約すると、2か月の契約を続けたあとに、日本では7,000円が請求へのクレジットとして付与され、紹介した人にも同じ額が入ります。",
-          "都市部でもStarlinkは買う価値がありますか？ 住所に安定した光回線が届くなら、乗り換える前に、工事費、月額、契約の条件を比べてください。",
-          "Starlinkは光回線より良いですか？ 良い光回線がない場所なら、Starlinkの価格を住所で確認し、アンテナを置ける開けた空があるか調べる価値があります。どちらも使えるなら、住所での安定性と費用を比べてください。",
+          "都市部でもStarlinkは買う価値がありますか？ 今の光回線がどれだけ良いかによります。安くて安定しているなら、費用面で光回線が有利です。頻繁に切れる、契約より大幅に遅いなら、空が開けていることを条件に、代替やバックアップとしてStarlinkに価値があります。私たちはその理由で契約しました。",
+          "Starlinkは光回線より良いですか？ 最高速度と遅延では、健全な光回線が有利なことが多いです。地域の障害や道路の断線への強さでは、地域の事業者と独立した経路であるStarlinkが役に立ちます。",
           "Starlinkはゲームに向いていますか？ あなたの住所で応答時間と途切れを試してください。Starlinkが公表する一般的な範囲は、全体の目安です。",
-          "Starlinkの月額はいくらですか？ 東京駅の住所で読んだ画面では、ホームプランが月額3,550円でした。月額は住所で変わります。"
+          "Starlinkは無制限ですか？ Starlinkは住宅向けプランのデータを無制限と案内しています。注文画面で、表示されたプランの速度制限を確認してください。",
+          "Starlinkの月額はいくらですか？ 東京駅の住所で読んだ画面では、ホームプランが50%オフで月額3,550円、通常は7,100円でした。月額は住所で変わります。",
+          "Starlinkを光回線のバックアップに使えますか？ はい。フェイルオーバー対応のDual-WANルーターがあれば、光回線が落ちたときにStarlinkに自動で切り替わります。なければ手動でネットワークを切り替えられます。バイパスモードに必要な機器は、Starlinkのサポートで確認してください。"
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "住所に良い光回線がなく、4Gも弱いなら、候補に入れてください。",
-        "月額が住所で変わることを理解し、注文画面の条件を支払いの前に確認できるなら、向いています。"
+        "安い光回線が使えても、地域の回線が頻繁に切れたり契約速度を大きく下回ったりして、信頼できる代替回線やバックアップが必要な場合に向いています。",
+        "アプリで空の見通しを確認し、キャンセル時に返却するレンタルキットで構わないなら、向いています。"
       ],
       "skipIf": [
-        "住所に安定した光回線があり、すでに費用や契約に不満がないなら、見送って構いません。",
-        "速い応答が必要なオンラインゲームが目的なら、Starlinkは一般的な遅延の目安を公表していますが、あなたの住所での数値は保証していません。"
+        "すでに契約どおりの速度が出る安定した光回線があり、冗長化が必要なほどの頻繁な切断がないなら、見送って構いません。",
+        "遅延が保証された競技レベルのオンラインゲームが目的なら、Starlinkは一般的な応答時間の目安を公表していますが、あなたの住所での数値は保証していません。"
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Starlinkのサイトで住所を入力し、支払いの前にプラン、キット、月額を確認してください。",
-      "label": "住所でプランを見る",
+      "text": "公式サイトと同じ価格で申し込めます。屋根で使えなかった場合は30日以内に返却でき、条件を満たせば、日本では2か月の契約を続けたあとに7,000円が請求へのクレジットとして付与されます。",
+      "label": "紹介リンクでstarlink.comの住所を確認する",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "公式サイトの注文画面で価格を確認しました。サービスはまだ使用していません。購入は完了していません。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
+    "editorialNote": "不安定な光回線の代替・バックアップとして、私たち自身がStarlinkを契約しています。このガイドの価格とハードウェアの条件は、公式サイトの公開の注文画面で確認しました。紹介プログラムに参加しており、私たちのリンクから登録して条件を満たすと、報酬を受け取る場合があります。",
     "relatedArticles": [
       {
         "slug": "starlink-cancel-ja"
@@ -294385,8 +298540,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-cancel-ja",
     "translationKey": "starlink-fidelidade",
     "locale": "ja",
-    "title": "Starlinkに契約縛りはある？ レンタルキット、解約の手順、30日間の返却",
-    "seoTitle": "Starlinkの解約と返却：レンタルキットと30日間",
+    "title": "Starlinkに契約縛りはある？ 東京の画面は月額0円のレンタルで縛りの表示なし、解約と30日間の返却",
+    "seoTitle": "Starlinkの契約と解約：レンタルと30日間の返却",
     "type": "使い方ガイド",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -294397,8 +298552,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "東京の注文画面で読んだキットの条件、解約の手順、30日以内に返却したときの返金をまとめました。契約や解約の条件は、支払いの前に画面で確認します。",
-    "metaDescription": "Starlinkの解約の手順、レンタルキットの返却、30日以内の返金を解説します。契約期間の条件は、注文画面で支払いの前に確認してください。",
+    "description": "東京の注文画面では、ホームプランのキットは初期費用0円のレンタルで、12か月の縛りは見つかりませんでした。解約すると機器の返却が必要です。手順と30日間の返金も解説します。",
+    "metaDescription": "Starlink日本の注文画面：キットは0円のレンタルで縛りの表示はなく、解約時は返却が必要。30日以内の返金と解約の手順を確認できます。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -294413,14 +298568,45 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "東京駅の住所で読んだ注文画面では、キットは初期費用0円、月額0円のレンタルで、サービスをキャンセルするときはキットを返却する条件でした。キャンセルしてキットを破損のない状態で30日以内に返却すると、キットと最初の月の料金が全額返金されます。契約期間や解約の費用は、注文画面で支払いの前に確認してください。"
+          "東京駅の住所で読んだ注文画面では、日本のプランは「ホーム」の1つだけで、Miniと小型ルーターは初期費用0円、月額0円のレンタルでした。契約期間や解約の費用の表示はなく、サービスをキャンセルするときはレンタルのハードウェアを返却する条件です。キャンセルして機器を破損のない状態で30日以内に返却すると、キットと最初の月の料金が返金されます。"
         ]
       },
       {
-        "heading": "契約の条件はどこで見るか",
+        "heading": "東京で読んだ注文画面",
         "paragraphs": [
-          "契約期間や、途中で解約したときの費用は、国と注文によって変わります。私たちが東京駅の住所で読んだ画面では、キットの条件はレンタルと返却でした。契約期間と解約の費用は、読んだ画面で確認できませんでした。",
-          "注文画面の機器の行と、利用規約の表示を、支払いの前に読んでください。迷うときは、Starlinkのサポートに聞いてから注文します。"
+          "2026年11月23日に東京駅の住所で読んだ注文画面では、日本の家庭向けプランは「ホーム」の1つだけで、最大300 Mbps以上と表示されていました。月額はJP¥3,550で、通常のJP¥7,100から50%のサービス割引が入った金額です。Miniレンタルと小型ルーターは、初期費用もキット月額もJP¥0でした。",
+          "注文の概要には、ホームJP¥7,100に対する50%サービス割引でJP¥3,550、Miniレンタル¥0、小型ルーター¥0、配送手数料JP¥3,000が並んでいました。画面のよくある質問には、11月30日までに注文すれば割引後の月額料金が続くとありますが、将来の価格は変わることがあります。",
+          "ハードウェアの欄には、サービスをキャンセルするとStarlinkのレンタル機器を返却する必要がある、と書かれています。12か月の縛りも、固定の違約金も、私たちが読んだ画面には出ていませんでした。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+            "alt": "東京のStarlinkのプラン画面。ホームがJP¥3,550/月で、Miniレンタルが¥0、レンタル機器を返却する旨の表示",
+            "caption": "東京、2026年11月23日に確認：ホームJP¥3,550/月、Miniレンタル¥0。",
+            "objectFit": "portrait",
+            "aspectRatio": 0.694
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-ja-resumo-toquio.webp",
+            "alt": "東京のStarlinkのご注文の概要。JP¥7,100から50%割引のJP¥3,550、Miniと小型ルーターは¥0、配送手数料JP¥3,000",
+            "caption": "東京のご注文の概要、2026年11月23日に確認：JP¥7,100から50%割引、配送手数料JP¥3,000。",
+            "objectFit": "portrait",
+            "aspectRatio": 0.3442
+          }
+        ],
+        "links": [
+          {
+            "label": "私の住所でプランと契約条件を確認する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "国によって変わる3つのモデル",
+        "paragraphs": [
+          "Starlinkには世界共通の契約ルールがありません。日本のようにキットをレンタルして、キャンセル時に返す国があります。韓国のように、キットを購入して終わりの国もあります。ブラジルやメキシコでは、補助つきのキットを受け取る代わりに12か月の契約と中途解約の費用が付く場合があります。",
+          "日本で見えたのは1つ目のレンタル型です。ただし、ほかの住所や将来の画面で同じとは限らないので、支払いの前に、自分の注文の概要で機器の行を読んでください。"
         ]
       },
       {
@@ -294437,7 +298623,14 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
-        "emphasis": "注文画面の条件では、キャンセルしてキットを破損なく30日以内に返却することが、キットと最初の月の料金の返金を受ける条件であり、発送の控えがその証拠になります。"
+        "emphasis": "注文画面の条件では、キャンセルしてキットを破損なく30日以内に返却することが、キットと最初の月の料金の返金を受ける条件であり、発送の控えがその証拠になります。",
+        "links": [
+          {
+            "label": "30日間の返金つきのプランをstarlink.comで見る",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "解約の手順",
@@ -294461,8 +298654,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "割引価格とプランの変更",
         "paragraphs": [
-          "キャンセル、プランの変更、停止をしたときに割引価格がどうなるかは、注文画面の条件に書かれています。変更の前に確認してください。"
+          "私たちが読んだ画面の割引は、サービス料金の50%オフで、11月末までのものでした。画面の説明では、割引後の月額料金は、期限までに注文した人に適用されます。キャンセル、プランの変更、停止をしたときに割引価格がどうなるかは、注文画面の条件に書かれています。変更の前に確認してください。"
         ]
+      },
+      {
+        "heading": "支払いの前に注文を確認する",
+        "paragraphs": [
+          "紹介が対象になるのは、紹介リンクから始めた注文だけです。リンクは支払いの前に、starlink.comで開く必要があります。支払い後や、マーケットプレイスでの購入では、あとから追加できません。リンクを開くだけでは何も約束したことにならず、あなたの住所に当てはまるモデルが分かります。30日間の返却がテストの保険になります。クレジットは2か月の利用後に請求へ付き、キットの価格は下がりません。"
+        ],
+        "checklist": {
+          "title": "支払いの前に",
+          "items": [
+            "支払いの前に、同じウィンドウで紹介リンクから注文を開いた。",
+            "データを入力する前に、ブラウザのアドレスバーがstarlink.comのままだと確認した。",
+            "アンテナを置く場所で、Starlinkアプリの障害物チェックを行った。",
+            "注文の概要で、機器の行、月額料金、契約期間の記載の有無を読んだ。",
+            "支払いの前に、月額料金と30日間のルールが分かる概要のスクリーンショットを保存した。"
+          ]
+        }
       },
       {
         "heading": "請求が止まらないとき",
@@ -294475,10 +298684,10 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "Starlinkに割引コードはありますか？ ありません。Starlinkにクーポンはありません。Ceciliaの紹介リンクから登録した人は、日本では2か月の利用後に7,000円が請求へのクレジットとして付与され、紹介した人も同じ額を受け取ります。",
-          "Starlinkに契約縛りはありますか？ 東京駅の住所で読んだ画面では、キットはレンタルで、キャンセル時に返却する条件でした。契約期間は、注文画面で確認してください。",
-          "Starlinkを解約するといくらかかりますか？ 読んだ画面では、解約の費用の表示を確認できませんでした。キャンセルを確定する前に、あなたの注文の条件を確認してください。",
-          "Starlinkはいつでも解約できますか？ アカウントから申請できます。契約期間が表示されている場合は、その条件を確認してください。",
-          "Starlink Miniにも契約期間はありますか？ 私たちが読んだ画面では、Miniキットは初期ハードウェア費用なしと表示されていました。契約の条件は、注文の概要で確認してください。",
+          "Starlinkに契約縛りはありますか？ 東京駅の住所で読んだ画面では、キットは月額0円のレンタルで、契約期間の表示は見つかりませんでした。キャンセル時にはレンタル機器の返却が必要です。ブラジルなど、補助つきのキットに12か月の契約が付く国もあります。",
+          "Starlinkを解約するといくらかかりますか？ 日本の画面では、解約の費用の表示を確認できませんでした。キャンセルを確定する前に、あなたの注文の条件を確認してください。",
+          "Starlinkはいつでも解約できますか？ アカウントから申請できます。請求日のUTC 0:00より前に済ませないと、変更は次の請求サイクルからになります。",
+          "Starlink Miniは購入ですか、レンタルですか？ 日本の画面では、Miniと小型ルーターはレンタルで、初期費用も月額も0円でした。購入型の国もあるので、注文の概要で確認してください。",
           "Starlinkは30日以内に返却できますか？ オファーには、サービスをキャンセルしてキットを破損のない状態で30日以内に返すと、キットと最初の月の料金が返金されると書かれています。"
         ]
       }
@@ -294500,7 +298709,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "キャンセルしたとき、レンタルのキットを30日以内に破損なく返却できる。",
+        "キャンセルしたとき、レンタルのキットを30日以内に破損なく返却できて、契約期間のない形で使いたい。",
         "支払いの前に、自分の注文の概要で条件を読む。"
       ],
       "skipIf": [
@@ -294509,8 +298718,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "注文はStarlinkのサイトで開きます。支払いの前に、契約期間、費用、キットの返却を確認してください。",
-      "label": "住所で条件を確認する",
+      "text": "注文は紹介リンクからstarlink.comで開きます。リンクは支払いの前に使う必要があります。サイトと同じ価格で、あなたの住所の契約条件を確認でき、30日間の返却も使えます。クレジットは2か月の利用後に付与されます。",
+      "label": "住所で契約とプランを確認する",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -294548,7 +298757,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "StarlinkはSpaceXの衛星インターネットサービスで、公式サイトはstarlink.comです。Trustpilotでstarlink.comにひもづくページは「Starlink Development」です。キットをほかで買う場合は、Starlinkの正規販売店リストを確認し、出品者が誰かを見てから支払ってください。"
+          "はい、Starlink（スターリンク）は信頼できる公式サービスです。SpaceXが運営する衛星インターネットで、starlink.com で直接販売されています。当サイトも、不安定な光回線の代わりの回線として Starlink を契約しています。注意すべきなのは偽サイトや非正規の出品者です。Trustpilotで starlink.com に紐づくページは「Starlink Development」で、公式サイト以外で購入する場合は、支払う前に Starlink の正規販売店リストで販売元を確認してください。"
         ]
       },
       {
@@ -294569,7 +298778,22 @@ export const reviewsData: unknown[] = [
         "heading": "公式サイトの見分け方",
         "paragraphs": [
           "ブラウザにstarlink.comと入力します。情報を入力したり支払ったりする前に、まだstarlink.comの中にいるか確認してください。",
-          "注文画面で、ご自分の住所について、プラン、キット（レンタルか購入か）、税金、契約期間を確かめます。メッセージで、または注文の外で支払うよう求められたら、先に進む前にStarlinkのサポートで確認してください。"
+          "注文画面で、ご自分の住所について、プラン、キット（レンタルか購入か）、税金、契約期間を確かめます。メッセージで、または注文の外で支払うよう求められたら、先に進む前にStarlinkのサポートで確認してください。",
+          "アドレスを間違えない簡単な方法は、紹介リンクから注文ページを開くことです。starlink.com の注文ページに直接つながりますが、データを入力する前にブラウザのアドレスバーを確認する習慣は変わりません。価格は公式サイトと同じで、紹介は支払い前に紹介リンクから始めた注文にだけ適用されます。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "alt": "東京の住所で表示した starlink.com 公式のホームプラン注文画面",
+          "caption": "東京の住所で表示した starlink.com のホームプラン画面（2026年11月23日に確認）。",
+          "objectFit": "portrait",
+          "aspectRatio": 0.694
+        },
+        "links": [
+          {
+            "label": "紹介リンクから starlink.com の公式注文ページを開く",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -294595,7 +298819,14 @@ export const reviewsData: unknown[] = [
             "label": "Starlinkの正規販売店リスト",
             "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "暗い背景に並んだ Starlink キットの部品：ベース、ブラケット、ケーブル",
+          "caption": "Starlink キットの部品。写真：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Trustpilotの数字",
@@ -294603,6 +298834,29 @@ export const reviewsData: unknown[] = [
           "Trustpilotでstarlink.comのページは、879件の評価でTrustScoreが5点満点中1.6です。71%が星1つ、17%が星5つです。このページは運営者による登録（クレーム）がされておらず、Starlinkが管理していません。返信率は0%です。",
           "私たちは、最新の星1つ40件と星5つ40件を読みました。星1つで多い不満は、ボットやチャットだけでサポートにつながらない（約3件に1件）、接続が切れる・速度が出ない（約3件に1件）、契約後に月額が上がった（約4件に1件）、請求や解約の難しさ（約4件に1件）、提携業者の設置が遅れる・来ない（約4件に1件）、キットの遅れや未着（約5件に1件）でした。星5つでは、速度と安定性（約半数）、簡単な設置（約3件に1件）、ほかに良い回線がない（約4件に1件）が評価されています。件数は当サイトの集計で、おおよその数字です。",
           "スコアは慎重に読んでください。運営者が登録していないページには購入後の評価依頼が届かず、ページを開くのは不満のある人が多くなりがちです。評価は電波について、不満はサポート、価格、請求についてが中心で、電波がずっと悪いという星1つは多くありません。直近355件に基づくTrustpilotの自動要約も、同じ方向です。数字は[Trustpilotページの詳しい分析](/ja/reviews/starlink-trustpilot-ja)にあります。"
+        ]
+      },
+      {
+        "heading": "支払い前のチェックリスト",
+        "paragraphs": [
+          "5つの確認はどの住所でも使えて、数分で済みます。"
+        ],
+        "checklist": {
+          "title": "注文を確定する前に",
+          "items": [
+            "紹介が適用されるよう、同じブラウザのウィンドウで紹介リンクから注文ページを開いた。",
+            "何かを入力する前に、アドレスバーが starlink.com のままであることを確認した。",
+            "アンテナを置く予定の場所で、Starlink アプリの障害物チェックを実行し、空が開けていることを確かめた。",
+            "注文の概要で、プラン、キット、合計、契約期間を読んだ。",
+            "支払う前に、月額料金と30日ルールが分かる概要のスクリーンショットを保存した。"
+          ]
+        },
+        "links": [
+          {
+            "label": "starlink.com で自分の住所の提供状況を確認する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -294620,7 +298874,7 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "Starlinkにクーポンはありますか？ いいえ、Starlinkにクーポンはありません。Ceciliaの紹介リンクから申し込むと、日本では2か月間利用した後に¥7,000が請求額のクレジットとして付与され、紹介した人にも同額が付与されます。",
-          "Starlinkは信頼できますか？ StarlinkはSpaceXの衛星インターネットサービスです。starlink.comにいることを確認し、ほかで買う場合は正規販売店リストを使ってください。",
+          "Starlinkは信頼できますか？ はい、SpaceXが運営する公式の衛星インターネットサービスです。安全に契約するにはURLが starlink.com であることを確かめ、外部で購入する場合は正規販売店リストで出品者を確認してください。",
           "Starlinkの公式サイトはどこですか？ 公式サイトはstarlink.comです。",
           "販売店が正規かどうか、どう確認しますか？ Starlinkの販売店リストを見て、支払う前に出品者が誰かを確認してください。",
           "公式サイトと販売店のどちらで買うべきですか？ starlink.comの注文画面では、支払う前に住所向けのプラン、キット、税金、契約が表示され、紹介もそこでだけ有効です。公式リストの販売店は正規の販売元ですが、紹介は適用されません。"
@@ -294630,7 +298884,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "公式サイト、ヘルプセンター、Trustpilotの公開ページをもとに作成しています。当サイトはStarlinkの紹介プログラムに参加しており、リンクから申し込み、条件を満たすと報酬を受け取ることがあります。",
+    "editorialNote": "公式サイト、ヘルプセンター、Trustpilotの公開ページをもとに作成しています。当サイトは不安定な光回線の代わり・バックアップの回線として Starlink を契約しています。Starlinkの紹介プログラムに参加しており、リンクから申し込んで条件を満たすと報酬を受け取ることがあります。",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-ja"
@@ -294653,8 +298907,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Starlinkのサイトで住所を入力し、支払う前にプラン、キット、月額を確認しましょう。",
-      "label": "ご自宅の住所でプランを見る",
+      "text": "紹介リンクから注文ページを開き、アドレスバーが starlink.com のままであることを確かめて、支払い前にご自宅の住所でプラン・キット・合計を確認してください。価格は公式サイトと同じです。",
+      "label": "starlink.com で住所を確認する",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -294748,6 +299002,36 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "Trustpilot、starlink.comのページ、2026年11月23日に確認。"
+        },
+        "metrics": {
+          "items": [
+            {
+              "label": "TrustScore",
+              "value": "1.6",
+              "unit": "/5",
+              "note": "未登録ページ"
+            },
+            {
+              "label": "レビュー総数",
+              "value": "879",
+              "note": "自発的な投稿のみ"
+            },
+            {
+              "label": "企業の返信",
+              "value": "0%",
+              "note": "否定的464件のうち0件"
+            },
+            {
+              "label": "星1つ vs 星5つ",
+              "value": "71%",
+              "unit": "vs 17%",
+              "note": "サポートと請求が上位"
+            }
+          ],
+          "summary": {
+            "badge": "差の読み方",
+            "text": "好意的な声は速度と安定した信号に集まり、不満は自動対応のサポート、請求、料金の変更に集中しています。"
+          }
         }
       },
       {
@@ -294797,15 +299081,32 @@ export const reviewsData: unknown[] = [
         "heading": "契約する人にとっての意味",
         "paragraphs": [
           "支払う前に、starlink.comであなた自身の住所についてプラン、キット（レンタルか購入か）、税、契約を確認してください。国ごとに、住所ごとにも変わります。注文した日の提示内容をスクリーンショットで残し、請求書のたびに見比べてください。",
+          "いちばん簡単な備えは、starlink.comで直接注文し、料金、キット、契約条件、紹介の適用が出る注文概要の画面を保存しておくことです。そのうえで、最初の請求書をそのスクリーンショットと見比べてください。紹介は、紹介リンクから開いた注文で、支払う前にだけ有効になり、あとから追加することはできません。",
           "レンタルキットと返却の規則は[契約・解約・返金ガイド](/ja/reviews/starlink-cancel-ja)にあります。"
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "木造の家の屋根に取り付けられたStarlinkのアンテナ",
-          "caption": "住宅用のアンテナ。写真：Starlink",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
-        }
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+            "alt": "東京向けのStarlinkプラン画面。ホームが月額JP¥3,550、レンタルキットはJP¥0",
+            "caption": "東京、ホームプラン：月額、JP¥0のレンタルキット、レンタル品の返却の注意書き。保存しておきたい画面の例。2026年11月23日に確認。",
+            "objectFit": "portrait",
+            "aspectRatio": 0.694
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "木造の家の屋根に取り付けられたStarlinkのアンテナ",
+            "caption": "住宅用のアンテナ。写真：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ],
+        "links": [
+          {
+            "label": "starlink.comで公式の注文を開き、自分の地域を確認する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "問題があったときの連絡",
@@ -294817,15 +299118,32 @@ export const reviewsData: unknown[] = [
             "label": "TrustpilotのStarlink（starlink.com）のページ",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "Starlink Standardキットの部品。アンテナ、ルーター、スタンド、ケーブル",
+            "caption": "Starlink Standardキット：アンテナ、ルーター、スタンド、ケーブル。写真：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "契約の前に",
         "paragraphs": [
           "契約の前に、サイトと規約を確認してください。公式サイトと名前を似せたページの見分け方は[Starlinkは信頼できる？](/ja/reviews/starlink-trust-ja)にあります。",
+          "注文画面を開くだけでは何も確定しません。プラン、料金、提供状況、契約条件は、住所を入力してはじめて表示されます。Starlinkの30日ポリシーでは、その期間内に解約してキットを傷つけずに返却すれば返金される旨が、注文画面に示されています。契約付きの割引キットは、30日を過ぎたあとに費用がかかるか確認してください。",
           "[Starlinkの紹介](/ja/coupons/starlink)のページに、リンクとプログラムの規則があります。紹介はクーポンではありません。特典は2か月の利用後に請求書のクレジットとして届き、プライオリティ、エンタープライズ、コマーシャルのプランは対象外です。"
         ],
-        "emphasis": "表の数字から見ると、住所に頼れる別のインターネットがない人にとっては、starlink.comでその住所のプラン、キット、税、契約を確認したうえで契約するのは妥当です。1.6というスコアには、電波の品質よりサポート、請求、料金への不満が多く反映されているからです。"
+        "emphasis": "表の数字から見ると、住所に頼れる別のインターネットがない人にとっては、starlink.comでその住所のプラン、キット、税、契約を確認したうえで契約するのは妥当です。1.6というスコアには、電波の品質よりサポート、請求、料金への不満が多く反映されているからです。",
+        "links": [
+          {
+            "label": "starlink.comで自分の住所の提供状況を確認する",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "よくある質問",
@@ -294864,8 +299182,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Starlinkのサイトで住所を入力し、支払う前にプラン、キット、月額を確認してください。",
-      "label": "あなたの住所のプランを見る",
+      "text": "紹介リンクから注文を開き、住所でプラン、キット、契約を確認して、支払う前に概要画面を保存してください。料金は公式サイトと同じです。",
+      "label": "starlink.comで自分の注文を開く",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -294875,8 +299193,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-ko",
     "locale": "ko",
     "translationKey": "starlink-indicacao",
-    "title": "스타링크 추천 링크 사용법과 보상이 들어오는 시점",
-    "seoTitle": "스타링크 추천 링크 사용법과 보상 시점",
+    "title": "첫 스타링크 구매 시 추천 링크로 보상 크레딧(미국 100달러·국가별 금액) 받는 법",
+    "seoTitle": "첫 스타링크 구매 시 추천 링크로 보상 받는 법",
     "type": "추천 코드 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -294887,8 +299205,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "공식 사이트에서 링크를 열고, 결제 전에 주문 화면에서 보상을 확인하세요. 누가 쓸 수 있는지, 보상이 언제 들어오는지, 크레딧과 현금 중 무엇을 받는지 정리했습니다.",
-    "metaDescription": "스타링크 추천 링크를 여는 방법, 주문 화면에서 보상을 확인하는 방법, 프로그램 조건을 채운 뒤 보상을 받는 순서를 설명합니다.",
+    "description": "스타링크에는 할인 쿠폰 코드가 없습니다. 공식 추천 링크로 첫 주문을 하면 공식 사이트와 같은 가격·30일 환불 기간을 유지하면서 2개월 후 국가별 추천 보상을 받습니다.",
+    "metaDescription": "첫 스타링크 주문 시 추천 링크로 보상을 받는 방법과 주문 전 확인 포인트, 2개월 후 크레딧 지급 절차를 정리했습니다.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -294903,8 +299221,126 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "스타링크 추천 링크를 열고 설치할 주소를 입력하세요. 결제 전에 추천이 적용되었다는 안내와 주문 화면의 보상 금액을 확인합니다. 프로그램은 신규 고객에게 적용되고, 보상은 월 결제 주기를 두 번 채운 뒤 지급되며, 지급 방식은 크레딧이고 계정에서 현금이 가능하면 현금도 고를 수 있습니다."
+          "스타링크에는 입력하는 할인 쿠폰이 없습니다. 공식 사이트의 프로모션과 별개로, 첫 구독에서 보상을 받을 수 있는 공식적인 방법은 추천 링크로 주문하는 것입니다. 링크로 starlink.com에 들어가 주문하면 공식 사이트와 같은 가격과 30일 환불 기간을 그대로 유지하면서, 월 결제 주기를 두 번 채운 뒤 국가별 보상(예: 미국은 US$ 100)을 청구서 크레딧으로 받습니다. 이 보상은 키트 가격을 깎아 주지 않고 나중에 들어옵니다. 결제 전에 추천 적용 안내를 확인하세요. 구매 후에는 추천을 추가할 수 없습니다."
         ]
+      },
+      {
+        "heading": "왜 추천 링크로 주문해야 할까",
+        "paragraphs": [
+          "직접 starlink.com에 들어가 주문해도 장비와 월 요금은 링크로 주문할 때와 같습니다. 달라지는 것은 놓치게 되는 추천 보상입니다. 보상은 주문 당일 키트 가격을 낮추지 않고, 월 결제 주기를 두 번 채운 뒤 청구서에 크레딧으로 들어옵니다.",
+          "아래 숫자는 기준 주소에서 읽은 값입니다. 본인 주소에서는 가격, 키트, 조건이 다를 수 있고, 주문 화면만 그것을 보여 줍니다. 한국 주문은 한국에서 발급한 카드로만 결제할 수 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "alt": "서울 주소로 본 스타링크 주문 화면. 100Mbps 요금제 월 34,000원과 Mini 키트 160,000원이 표시됨",
+          "caption": "서울: 주문 화면의 요금제와 Mini 키트, 2026년 11월 23일 확인.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8041
+        },
+        "comparisonTable": {
+          "caption": "2026년 11월 23일 starlink.com에서 읽은 가격으로, 구매는 완료하지 않았습니다. 서울의 50% 프로모션은 11월 30일까지의 주문이 대상입니다. 추천 보상은 결제 시 할인이 아니라 월 결제 주기 두 번 뒤에 들어옵니다.",
+          "headers": [
+            "starlink.com에서 확인한 사례",
+            "추천 링크 없이 주문",
+            "Cecília의 링크로 주문",
+            "보상이 의미하는 것"
+          ],
+          "rows": [
+            [
+              "한국, 가정용 100Mbps (서울)",
+              "월 34,000원(정상가 68,000원) + Mini 키트 구매, 오늘 결제 192,000원(배송·세금 포함)",
+              "같은 주문 + 국가별 추천 보상 크레딧",
+              "한국 보상 금액은 주소를 입력한 주문 화면에서 확인"
+            ],
+            [
+              "한국, 가정용 맥스 (서울)",
+              "월 46,500원(정상가 93,000원) + Standard 4 X 키트 구매, 오늘 결제 307,000원",
+              "같은 주문 + 국가별 추천 보상 크레딧",
+              "한국 보상 금액은 주문 화면에서 확인"
+            ],
+            [
+              "미국 예시, 가정용 100Mbps (네바다)",
+              "월 US$ 38.50 + 임대 키트 US$ 0, 오늘 US$ 20 + 세금",
+              "같은 주문 + US$ 100 크레딧",
+              "100Mbps 월 요금의 약 2.6개월분"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "추천 보상이 적용되는 주문 화면 열기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "simulator": {
+          "title": "내 경우로 계산해 보기",
+          "scenarios": [
+            {
+              "label": "100Mbps + Mini + 추천 링크",
+              "lines": [
+                {
+                  "label": "Mini 키트 구매 + 배송(세금 포함)",
+                  "value": "오늘 192,000원"
+                },
+                {
+                  "label": "월 요금(50% 할인)",
+                  "value": "34,000원/월"
+                },
+                {
+                  "label": "결제 주기 2회 뒤 추천 크레딧",
+                  "value": "국가별 금액을 청구서에 반영",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "한국 추천 보상",
+              "totalValue": "주문 화면에서 확인",
+              "note": "공식 사이트와 같은 가격을 내고 30일 환불 기간도 그대로입니다."
+            },
+            {
+              "label": "맥스 + Standard 4 X + 추천 링크",
+              "lines": [
+                {
+                  "label": "Standard 4 X 키트 구매 + 배송(세금 포함)",
+                  "value": "오늘 307,000원"
+                },
+                {
+                  "label": "월 요금(50% 할인)",
+                  "value": "46,500원/월"
+                },
+                {
+                  "label": "결제 주기 2회 뒤 추천 크레딧",
+                  "value": "국가별 금액을 청구서에 반영",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "한국 추천 보상",
+              "totalValue": "주문 화면에서 확인",
+              "note": "보상은 나중에 들어오며 오늘 결제 금액을 줄이지 않습니다."
+            },
+            {
+              "label": "추천 링크 없이 / 마켓플레이스 구매",
+              "lines": [
+                {
+                  "label": "키트와 요금제 가격",
+                  "value": "링크로 주문할 때와 같음"
+                },
+                {
+                  "label": "추천 크레딧",
+                  "value": "0원, 나중에 추가 불가"
+                },
+                {
+                  "label": "놓치는 보상",
+                  "value": "국가별 금액(미국은 US$ 100)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "받는 추천 보상",
+              "totalValue": "0원",
+              "note": "추천은 결제 전 최초 주문에 포함되어 있어야 합니다."
+            }
+          ]
+        }
       },
       {
         "heading": "링크 사용 순서",
@@ -294914,6 +299350,53 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "결제 전에 안내문을 확인하세요. 스타링크는 추천이 최초 주문에 포함되어 있어야 한다고 설명합니다."
         ],
+        "bullets": [
+          "주문 화면에서 대상이 되는 가정용 또는 여행용 요금제를 고릅니다.",
+          "추천 코드가 적용되었다는 안내를 찾고, 보상 금액과 오늘 결제할 총액을 확인합니다.",
+          "스타링크 공식 사이트에서 결제를 마칩니다.",
+          "키트를 활성화하고 첫 청구서를 확인합니다. 첫 달 요금 결제와 장비 활성화는 추천 조건에 포함됩니다."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "스타링크 공식 사이트의 주문 화면. Referral Code Applied 안내와 함께, 이 코드로 가입하면 본인과 친구가 각각 100달러를 현금 또는 서비스 크레딧으로 받는다고 적혀 있음",
+          "caption": "추천 링크가 적용된 공식 사이트 주문 화면(미국 네바다 예시).",
+          "objectFit": "contain",
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "결제 전 체크리스트",
+        "paragraphs": [
+          "결제하기 전에 화면에서 항목을 하나씩 확인하세요. 2분이면 되고, 보상이 주문에 들어가는지를 가릅니다."
+        ],
+        "checklist": {
+          "title": "주문을 확정하기 전에",
+          "items": [
+            "보상을 놓치지 않도록 Cecília의 추천 링크로 이 창에서 주문을 열었다.",
+            "정보를 입력하기 전에 주소창이 starlink.com으로 유지되는지 확인했다.",
+            "설치할 위치에서 스타링크 앱의 장애물 검사를 실행해 하늘이 트여 있는지 확인했다.",
+            "주문 요약에서 추천 적용 안내, 키트 가격, 12개월 약정 여부를 확인했다.",
+            "결제 전에 월 요금과 30일 규정이 보이는 요약 화면을 캡처해 두었다."
+          ]
+        }
+      },
+      {
+        "heading": "보상 금액과 지급 시점",
+        "paragraphs": [
+          "보상 금액은 가입자가 등록한 국가에 따라 달라지고, 계정과 주문 화면에 표시됩니다. 저희는 한국 주문 화면의 보상 금액을 확인하지 못했으니, 주소를 입력해 직접 확인하세요. 예를 들어 미국에서는 US$ 100입니다. 추천한 사람도 같은 금액을 현금 또는 서비스 크레딧으로 받습니다.",
+          "구독은 월 결제 주기를 두 번 완전히 채울 때까지 유지되고 연체가 없어야 합니다. 고객센터는 지급이 활성화 후 60일부터 시작될 수 있다고 안내하며, 국가와 계정, 본인 확인에 따라 달라집니다.",
+          "기본 방식은 청구서 크레딧입니다. 계정에서 현금 지급이 가능하면, 웹 브라우저에서 추천 메뉴를 열어 보상 방식을 고르고 본인 확인과 계좌 등록을 마치면 됩니다. 보상은 청구서 크레딧으로 들어오며 주문 시 키트 가격을 낮추지 않습니다."
+        ],
+        "emphasis": "보상은 구독을 정상 유지한 채 월 결제 주기 두 번을 채운 뒤에야 지급되고, 기본은 청구서 크레딧이며, 가입한 사람과 추천한 사람이 같은 금액을 받습니다. 본인 국가의 금액은 주문 화면에 표시됩니다.",
+        "emphasisAfterParagraph": 3
+      },
+      {
+        "heading": "링크를 열면 무언가 약정되나요? 30일 테스트",
+        "paragraphs": [
+          "링크를 여는 것만으로는 아무 의무도 생기지 않습니다. 요금제 가격, 키트, 제공 여부, 약정 여부는 starlink.com에 주소를 입력해야 비로소 나타납니다.",
+          "결제 후 스타링크는 페이지의 조건에 따라 키트를 반품할 수 있는 30일을 줍니다. 지붕에서 안테나가 잘 작동하지 않으면 그 기간 안에 해지하고 장비를 돌려보낼 수 있습니다. 한국 주문 화면에서는 키트를 구매하는 방식이므로, 반품은 손상 없이 돌려보내는 경우에 한합니다.",
+          "그래서 테스트보다 링크가 먼저입니다. 추천은 최초 주문에서만 인정되기 때문입니다. 링크 없이 써 보면 첫날 결제 금액은 같고, 안테나를 계속 쓰기로 했을 때 추천 보상을 받지 못합니다."
+        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
           "alt": "목조 주택 지붕에 설치된 스타링크 안테나",
@@ -294921,22 +299404,13 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.8079
         },
-        "bullets": [
-          "주문 화면에서 대상이 되는 가정용 또는 여행용 요금제를 고릅니다.",
-          "추천 코드가 적용되었다는 안내를 찾고, 보상 금액과 오늘 결제할 총액을 확인합니다.",
-          "스타링크 공식 사이트에서 결제를 마칩니다.",
-          "키트를 활성화하고 첫 청구서를 확인합니다. 첫 달 요금 결제와 장비 활성화는 추천 조건에 포함됩니다."
+        "links": [
+          {
+            "label": "주문 전에 보상 확보하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
-      },
-      {
-        "heading": "보상 금액과 지급 시점",
-        "paragraphs": [
-          "보상 금액은 가입자가 등록한 국가에 따라 달라지고, 계정과 주문 화면에 표시됩니다. 저희는 한국 주문 화면의 보상 금액을 확인하지 못했으니, 주소를 입력해 직접 확인하세요. 예를 들어 미국에서는 US$ 100입니다. 추천한 사람도 같은 금액을 현금 또는 서비스 크레딧으로 받습니다.",
-          "구독은 월 결제 주기를 두 번 완전히 채울 때까지 유지되고 연체가 없어야 합니다. 고객센터는 지급이 활성화 후 60일부터 시작될 수 있다고 안내하며, 국가와 계정, 본인 확인에 따라 달라집니다.",
-          "기본 방식은 청구서 크레딧입니다. 계정에서 현금 지급이 가능하면, 웹 브라우저에서 추천 메뉴를 열어 보상 방식을 고르고 본인 확인과 계좌 등록을 마치면 됩니다."
-        ],
-        "emphasis": "보상은 구독을 정상 유지한 채 월 결제 주기 두 번을 채운 뒤에야 지급되고, 기본은 청구서 크레딧이며, 가입한 사람과 추천한 사람이 같은 금액을 받습니다. 본인 국가의 금액은 주문 화면에 표시됩니다.",
-        "emphasisAfterParagraph": 3
       },
       {
         "heading": "누가 쓸 수 있나요",
@@ -294954,15 +299428,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "블랙프라이데이 할인과 함께 쓸 수 있나요?",
+        "heading": "링크를 눌러도 보상을 놓치는 4가지 실수",
         "paragraphs": [
-          "스타링크는 대상 하드웨어와 서비스의 50% 할인을 안내했습니다. 서울의 주문 화면은 [블랙프라이데이 스타링크 가이드](/ko/reviews/starlink-black-friday-ko)에서 확인할 수 있습니다. 신청 기한과 추천 보상은 본인 주소의 주문에서 확인하세요."
+          "놓친 보상의 대부분은 아래 네 가지 중 하나에서 나옵니다."
+        ],
+        "bullets": [
+          "리셀러나 마켓플레이스에서 키트를 구매하기. 프로그램은 starlink.com에서 링크로 한 주문만 집계합니다.",
+          "안내를 확인하지 않고 결제하기. 추천은 최초 주문에 포함되어 있어야 하고 나중에 추가할 수 없습니다. 화면에 안내가 없으면 결제 전에 링크를 다시 여세요. 주문 도중 기기나 브라우저를 바꿨다면 링크를 다시 열고 안내를 다시 확인하세요.",
+          "현재 또는 예전 고객이 링크를 쓰기. 보상은 스타링크에 처음 가입하는 사람에게만 해당됩니다.",
+          "너무 일찍 해지하기. 보상에는 유효하고 연체 없는 구독이 월 결제 주기 두 번 동안 이어져야 하며, 지급은 활성화 후 60일부터 시작될 수 있습니다."
         ]
       },
       {
-        "heading": "추천 현황 확인",
+        "heading": "블랙프라이데이 할인과 함께 쓸 수 있나요?",
         "paragraphs": [
-          "사이트나 앱의 추천 탭에서 링크로 가입한 사람의 진행 상태를 볼 수 있습니다. 누군가 주문하면 스타링크가 이메일로 알려 줍니다. 추천은 보상이 생기기 전에 자격 확인을 거칠 수 있습니다."
+          "스타링크는 대상 하드웨어와 서비스의 50% 할인을 안내했습니다. 서울의 주문 화면은 [블랙프라이데이 스타링크 가이드](/ko/reviews/starlink-black-friday-ko)에서 확인할 수 있습니다. 신청 기한과 추천 보상은 본인 주소의 주문에서 확인하세요.",
+          "서울 주문의 주문 요약에서 100Mbps는 68,000원에서 34,000원을 뺐고, Mini 키트는 290,909원에서 145,455원을 뺀 값에 배송 29,091원과 세금 17,455원이 더해져 192,000원이었습니다. 약정이 걱정된다면 [스타링크 약정·해지 가이드](/ko/reviews/starlink-cancel-ko)와 [스타링크는 살 만한가](/ko/reviews/starlink-worth-it-ko)도 읽어 보세요."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ko-resumo-seul.webp",
+          "alt": "스타링크 서울 주문 요약: 68,000원에서 34,000원 할인, Mini 290,909원에서 145,455원 할인, 배송 29,091원, 세금 17,455원, 합계 192,000원",
+          "caption": "서울: 100Mbps와 Mini 키트의 주문 요약, 2026년 11월 23일 확인.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7571
+        }
+      },
+      {
+        "heading": "추천 현황 확인과 내 추천 링크",
+        "paragraphs": [
+          "사이트나 앱의 추천 탭에서 링크로 가입한 사람의 진행 상태를 볼 수 있습니다. 누군가 주문하면 스타링크가 이메일로 알려 줍니다. 추천은 보상이 생기기 전에 자격 확인을 거칠 수 있습니다.",
+          "가정용 또는 여행용 대상 요금제를 쓰는 활성 고객이 되면 직접 추천할 수도 있고, 추천한 사람은 신규 고객과 같은 금액을 받습니다. 본인 국가의 금액은 가입하는 사람의 주문 화면에 표시됩니다."
         ]
       },
       {
@@ -294974,13 +299469,14 @@ export const reviewsData: unknown[] = [
           "보상은 언제 들어오나요? 고객센터에 따르면 활성화 후 60일부터 지급이 시작될 수 있으며, 추천이 프로그램 조건을 충족해야 합니다.",
           "추천 링크는 마켓플레이스나 리셀러 구매에도 적용되나요? 프로그램은 starlink.com에서 링크로 직접 구매할 것을 요구합니다.",
           "예전에 스타링크를 썼는데 링크를 쓸 수 있나요? 보상은 스타링크에 처음 가입하는 사람에게 해당됩니다.",
-          "추천 링크는 한국에서도 되나요? 스타링크 고객센터에 따르면 판매 국가 대부분에서 추천이 유효하며, 보상은 가입자가 등록한 국가에 따라 정해집니다."
+          "추천 링크는 한국에서도 되나요? 스타링크 고객센터에 따르면 판매 국가 대부분에서 추천이 유효하며, 보상은 가입자가 등록한 국가에 따라 정해집니다.",
+          "결제한 뒤에 추천을 추가할 수 있나요? 아니요. 스타링크는 추천이 결제 전 최초 주문에 포함되어 있어야 한다고 안내합니다. 즉 starlink.com에서 추천 링크로 주문해야 합니다."
         ]
       }
     ],
     "cta": {
-      "text": "결제 전에 내 주소의 주문 화면에서 추천 보상을 확인하세요.",
-      "label": "주문 화면에서 추천 확인",
+      "text": "공식 사이트와 같은 가격을 내고, 지붕에서 쓸 수 없으면 30일 안에 반품할 수 있으며, 월 결제 주기 두 번 뒤 국가별 추천 크레딧을 받습니다.",
+      "label": "공식 주문 화면에서 추천 보상 확인하기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -295015,8 +299511,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-ko",
     "locale": "ko",
     "translationKey": "starlink-black-friday",
-    "title": "블랙프라이데이 스타링크 2026: 하드웨어와 서비스 50% 할인, 주문 화면 계산",
-    "seoTitle": "블랙프라이데이 스타링크 2026: 50% 할인",
+    "title": "블랙프라이데이 스타링크 2026: 하드웨어와 서비스 50% 할인, 서울 주문 화면 계산과 추천 보상",
+    "seoTitle": "블랙프라이데이 스타링크 2026: 50% 할인과 추천 보상",
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -295027,8 +299523,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "서울시청 주소로 확인한 주문 화면에서 미니 키트는 16만 원, 오늘 결제액은 19만 2천 원으로 표시됐습니다. 월 요금과 추천 보상은 주문에서 따로 확인하세요.",
-    "metaDescription": "스타링크가 대상 하드웨어와 서비스에 50% 할인을 안내합니다. 서울 주문 화면에 표시된 초기 결제액과 월 요금, 내 주소의 신청 조건을 확인하세요.",
+    "description": "서울시청 주소의 주문 화면에서 100Mbps는 월 34,000원, 미니 키트는 16만 원, 오늘 결제액은 19만 2천 원이었습니다. 추천 보상이 들어오는 시점과 확인 방법을 정리했습니다.",
+    "metaDescription": "스타링크가 서비스와 하드웨어에 50% 할인을 안내합니다. 서울 주문 화면의 월 요금과 초기 결제액, 추천 보상이 들어오는 시점을 확인하세요.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -295043,45 +299539,125 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "스타링크가 한국에서 대상 하드웨어와 서비스의 50% 할인을 안내했습니다. 서울시청 주소로 확인한 결제액은 19만 2천 원이었고, 키트는 구매 방식이었습니다. 신청 기한과 추천 보상 대상 여부는 본인 주소의 주문 화면에서 확인하세요."
+          "서울시청 주소의 주문 화면에서 스타링크 주거용 100Mbps는 정가 월 68,000원에서 50% 할인된 34,000원이었고, 미니 키트는 임대가 아닌 구매 방식으로 160,000원, 오늘 결제액은 배송비와 세금을 더해 192,000원이었습니다. 할인은 11월 30일까지의 안내입니다. 추천 보상은 추천 링크로 연 주문에만 적용되고 월 결제 주기를 두 번 채운 뒤에 들어옵니다."
         ]
       },
       {
-        "heading": "오늘 내는 돈과 보상이 들어오는 시점",
+        "heading": "서울 주문 화면: 할인가와 정가",
         "paragraphs": [
-          "서울시청 주소의 주문 화면에 미니 키트 ₩160,000, 주거용 100Mbps 월 ₩34,000, 맥스 월 ₩46,500이 표시됐습니다. 화면에 표시된 오늘 결제액은 ₩192,000이었고 항목별 구성은 확인하지 못했습니다.",
-          "공식 사이트의 캠페인 안내에는 오퍼가 11월 30일에 종료된다고 나옵니다. 할인 적용 기간과 종료 후 월 요금은 본인 주소의 주문 화면에서 확인하세요.",
-          "추천 보상은 자격을 충족하고 월 결제 주기를 두 번 채운 뒤 받을 수 있습니다. 주문에서 금액과 적용 조건을 확인하세요."
+          "11월 23일에 서울시청 주소로 주문 화면을 읽었습니다. 결제는 완료하지 않았습니다. 주거용 100Mbps는 정가 월 ₩68,000이 50% 할인된 ₩34,000이었고, 맥스는 정가 ₩93,000이 ₩46,500이었습니다. 한국에서는 키트를 임대하지 않고 구매합니다. 미니 키트는 ₩160,000(정가 약 ₩290,909에서 50% 할인, 세금 별도), 스탠다드 4 X는 ₩275,000이었습니다.",
+          "미니 키트와 100Mbps를 고르면 오늘 결제액은 배송비 ₩29,091과 세금 ₩17,455를 포함해 ₩192,000이었고, 맥스와 스탠다드 4 X는 ₩307,000이었습니다. 추천 보상은 국가마다 다르며, 예를 들어 미국에서는 100달러입니다. 한국 주문에서 얼마가 나오는지는 추천 링크로 연 주문 화면에서 확인하세요. 보상은 청구서 크레딧이며 키트 가격을 낮추지 않습니다."
         ],
         "comparisonTable": {
           "headers": [
             "서울시청 주소 기준",
-            "주문 화면에 표시된 값"
+            "50% 할인가",
+            "정가"
           ],
           "rows": [
             [
-              "미니 키트",
-              "₩160,000"
+              "주거용 100Mbps, 월",
+              "₩34,000",
+              "₩68,000"
             ],
             [
-              "주거용 100Mbps",
-              "월 ₩34,000"
+              "주거용 맥스, 월",
+              "₩46,500",
+              "₩93,000"
             ],
             [
-              "주거용 맥스",
-              "월 ₩46,500"
+              "미니 키트 (구매)",
+              "₩160,000",
+              "약 ₩290,909"
             ],
             [
-              "오늘 결제액 (화면에 표시된 값)",
-              "₩192,000"
+              "오늘 결제액: 미니 키트와 100Mbps",
+              "₩192,000",
+              "-"
+            ],
+            [
+              "오늘 결제액: 스탠다드 4 X와 맥스",
+              "₩307,000",
+              "-"
             ]
           ],
-          "caption": "2026년 11월 20일 읽은 값입니다. 스탠다드 키트 가격과 50% 할인 기간은 읽지 못했습니다."
+          "caption": "2026년 11월 23일 읽은 값입니다. 50% 할인은 하드웨어와 서비스에 11월 30일까지 적용되는 안내이며, 오늘 결제액에는 배송비와 세금이 들어 있습니다."
         },
-        "emphasis": "표의 숫자를 보면 서울시청 주소 기준 오늘 결제액은 ₩192,000이고 주거용 100Mbps는 월 ₩34,000입니다. 추천 보상은 월 결제 주기를 두 번 채운 뒤에 들어오므로 그 전의 요금은 직접 내야 합니다.",
+        "simulator": {
+          "title": "간단 시뮬레이터",
+          "scenarios": [
+            {
+              "label": "100Mbps와 미니 키트, 추천 링크",
+              "lines": [
+                {
+                  "label": "월 요금 (50% 할인)",
+                  "value": "₩34,000"
+                },
+                {
+                  "label": "미니 키트 (구매), 오늘 결제액 포함",
+                  "value": "₩192,000"
+                },
+                {
+                  "label": "추천 보상 (결제 주기 2회 뒤)",
+                  "value": "국가별 크레딧 (주문에서 확인)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "오늘 결제액",
+              "totalValue": "₩192,000",
+              "note": "처음 요금은 직접 냅니다. 보상은 계정 크레딧으로 들어옵니다."
+            },
+            {
+              "label": "맥스와 스탠다드 4 X, 추천 링크",
+              "lines": [
+                {
+                  "label": "월 요금 (50% 할인)",
+                  "value": "₩46,500"
+                },
+                {
+                  "label": "스탠다드 4 X (구매), 오늘 결제액 포함",
+                  "value": "₩307,000"
+                },
+                {
+                  "label": "추천 보상 (결제 주기 2회 뒤)",
+                  "value": "국가별 크레딧 (주문에서 확인)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "오늘 결제액",
+              "totalValue": "₩307,000",
+              "note": "한국에서 발행한 카드로만 결제할 수 있다는 공지가 주문 화면에 있었습니다."
+            },
+            {
+              "label": "추천 링크 없이 주문",
+              "lines": [
+                {
+                  "label": "요금제와 키트 가격",
+                  "value": "링크로 주문할 때와 같음"
+                },
+                {
+                  "label": "추천 보상",
+                  "value": "0원"
+                },
+                {
+                  "label": "놓치는 것",
+                  "value": "보상 전체",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "받는 보상",
+              "totalValue": "0원",
+              "note": "추천은 결제 전에 추천 링크로 연 주문에만 적용됩니다."
+            }
+          ]
+        },
+        "postParagraphs": [
+          "한국에서는 임대가 없고 키트를 사서 쓰는 방식이라, 환불을 받으려면 30일 안에 손상 없이 반납해야 합니다. 대신 임대 키트를 돌려줘야 하는 다른 나라와 달리 해지 때 반납할 키트가 따로 없습니다."
+        ],
+        "emphasis": "표의 숫자를 보면 서울시청 주소 기준 오늘 결제액은 미니 키트와 100Mbps가 ₩192,000이고 월 요금은 ₩34,000입니다. 추천 보상은 월 결제 주기를 두 번 채운 뒤에 들어오므로 그 전의 요금은 직접 내야 합니다.",
         "links": [
           {
-            "label": "내 주소의 요금제 보기",
+            "label": "블랙프라이데이와 추천 보상을 내 주소에서 확인하기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -295090,16 +299666,58 @@ export const reviewsData: unknown[] = [
       {
         "heading": "주문 화면에서 보이는 것",
         "paragraphs": [
-          "주소를 입력하면 할인 안내와 요금제 가격, 키트 선택이 나옵니다. 한국 주문 화면에는 한국에서 발행한 카드로만 결제할 수 있다는 공지가 있었고, 배송은 2~3주로 안내되었습니다.",
-          "내 오퍼를 확인하려면 링크를 열고 주소를 입력한 다음, 결제 전에 추천 적용 안내와 보상 금액, 요금 조건을 확인하세요."
+          "스크린샷에는 추천 링크로 연 미국 주문의 “Referral Code Applied” 안내가 나옵니다. 링크로 연 주문에는 추천이 적용되었다는 안내와 내 나라의 보상 금액이 표시됩니다.",
+          "내 오퍼를 확인하려면 링크를 열고 주소를 입력한 다음, 결제 전에 같은 안내를 찾아보세요. 보상 금액과 요금 조건이 나오는지도 봅니다."
         ],
         "image": {
-          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
-          "alt": "지붕에 스타링크 안테나가 설치된 집",
-          "caption": "하늘이 열린 지붕에 설치한 안테나. 스타링크 제공 사진.",
-          "objectFit": "contain",
-          "aspectRatio": 1.4995
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "스타링크 공식 사이트의 주문 화면. Referral Code Applied 메시지와 함께 이 코드로 가입하면 나와 친구가 각각 100달러를 현금 또는 서비스 크레딧으로 받는다고 적혀 있다",
+          "caption": "추천 링크가 적용된 공식 사이트 주문 화면 (미국 예시. 한국 보상은 주문 화면에서 확인).",
+          "aspectRatio": 0.8747,
+          "objectFit": "contain"
         }
+      },
+      {
+        "heading": "내 주소에서도 같은 오퍼가 나오나요?",
+        "paragraphs": [
+          "할인은 지역에 따라 다르게 표시될 수 있습니다. 서울시청 주소에서 읽은 값이 다른 주소에 그대로 적용된다고 볼 수는 없습니다. 본인 주소로 주문 화면을 열어 요금제 가격, 키트, 배송 기간을 비교하세요.",
+          "아래 서울 화면에는 100Mbps 요금제가 월 34,000원, 미니 키트가 160,000원으로 나오고, 한국에서 발행한 카드로만 결제할 수 있다는 공지가 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "alt": "스타링크 서울 주문 화면. 100Mbps 요금제의 월 요금, 미니 키트 구매 가격, 한국에서 발행한 카드만 사용할 수 있다는 공지",
+          "caption": "서울 주문 화면, 2026년 11월 23일 읽은 값: 100Mbps 월 34,000원과 미니 키트 160,000원.",
+          "aspectRatio": 0.8041,
+          "objectFit": "portrait"
+        }
+      },
+      {
+        "heading": "환불과 반납, 30일 체험",
+        "paragraphs": [
+          "주문 화면은 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 전액 환불한다고 안내합니다. 그래서 주문 화면을 여는 것만으로는 비용이 들지 않습니다. 내 주소의 가격을 보고, 지붕에서 안테나를 시험해 본 뒤에 계속 쓸지 정하면 됩니다.",
+          "한국 주문에서는 약정이나 임대 반납 조건 없이 키트를 구매합니다. 절차는 [계약과 취소 가이드](/ko/reviews/starlink-cancel-ko)에 있습니다."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ko-resumo-seul.webp",
+          "alt": "스타링크 서울 주문 요약. 월 요금 68,000원에서 34,000원 할인, 미니 키트 290,909원에서 145,455원 할인, 배송비 29,091원, 세금 17,455원, 합계 192,000원",
+          "caption": "서울 주문 요약 (2026년 11월 23일): 68,000원−34,000원, 미니 키트 290,909원−145,455원, 합계 192,000원.",
+          "aspectRatio": 0.7571,
+          "objectFit": "portrait"
+        },
+        "links": [
+          {
+            "label": "주문을 결제하기 전에 추천 보상 확보하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "할인이 끝난 뒤: 가격을 지키는 방법",
+        "paragraphs": [
+          "50% 할인은 11월 30일까지의 안내입니다. 할인이 끝난 뒤의 월 요금은 정가 ₩68,000과 ₩93,000이고, 오래 쓸 계획이라면 이 가격으로도 계산해 보세요. 요금제 변경, 취소, 일시 중지 때 프로모션 가격이 유지되는지는 본인 주문의 약관에서 확인하세요.",
+          "결제 전에 가격, 키트 줄, 추천 적용 안내가 나온 주문 요약을 스크린샷으로 저장하고 첫 청구서와 비교하세요. 청구가 맞지 않으면 계정에서 지원 요청을 열고 스크린샷을 첨부하세요."
+        ]
       },
       {
         "heading": "다른 사람을 추천하면 얼마를 받나요?",
@@ -295109,28 +299727,24 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "내 주소에서도 같은 오퍼가 나오나요?",
+        "heading": "보상을 놓치는 4가지 실수",
         "paragraphs": [
-          "할인은 지역에 따라 다르게 표시될 수 있습니다. 서울시청 주소에서 읽은 값이 다른 주소에 그대로 적용된다고 볼 수는 없습니다. 본인 주소로 주문 화면을 열어 비교하세요."
-        ]
-      },
-      {
-        "heading": "환불과 반납",
-        "paragraphs": [
-          "주문 화면은 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 전액 환불한다고 안내합니다.",
-          "자세한 절차는 [계약과 취소 가이드](/ko/reviews/starlink-cancel-ko)에 있습니다."
-        ]
-      },
-      {
-        "heading": "할인 기간이 끝나면 어떻게 되나요?",
-        "paragraphs": [
-          "저희는 할인이 끝난 뒤의 요금을 읽지 못했습니다. 요금제 변경, 취소, 일시 중지 때 프로모션 가격이 유지되는지는 본인 주문의 약관에서 확인하세요."
+          "링크를 눌러도 작은 실수로 보상을 놓칠 수 있습니다."
+        ],
+        "bullets": [
+          "마켓이나 매장에서 키트를 산 뒤 나중에 링크를 쓰려는 경우. 추천은 starlink.com에서 추천 링크로 연 주문에, 결제 전에만 적용됩니다.",
+          "휴대폰에서 링크를 열고 몇 시간 뒤 다른 기기에서 링크를 다시 열지 않고 주문을 끝내는 경우. 추천이 따라오지 않을 수 있으니 한 기기에서 끝내거나, 링크를 다시 열어 초록색 안내를 확인하세요.",
+          "이미 스타링크 계정이 있었던 이름, 이메일, 주소로 가입하는 경우. 보상은 신규 고객이 대상입니다.",
+          "결제 주기를 두 번 채우기 전에 해지하거나 결제를 미루는 경우. 보상은 서비스가 활성 상태이고 요금이 납부된 동안에만 들어옵니다."
+        ],
+        "postParagraphs": [
+          "추천 링크 없이 이미 결제했다면 나중에 추천을 추가할 수 없습니다."
         ]
       },
       {
         "heading": "링크 사용법",
         "paragraphs": [
-          "링크를 열고 안테나를 설치할 주소를 입력합니다. 요금제를 고르고, 추천 적용을 확인한 뒤, 결제 전에 화면에 뜬 오퍼를 저장해 두세요.",
+          "링크를 여는 것만으로는 아무것도 약속하지 않습니다. 가격, 제공 여부, 오퍼는 주소를 입력해야 나타납니다. 안테나를 설치할 주소를 입력하고, 요금제를 고르고, 추천 적용을 확인한 뒤, 결제 전에 화면에 뜬 오퍼를 저장해 두세요.",
           "[스타링크 추천 안내 페이지](/ko/coupons/starlink)에서 링크와 프로그램 규정을 볼 수 있습니다."
         ]
       },
@@ -295138,17 +299752,19 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "스타링크에 할인 코드가 있나요? 없습니다. 스타링크에는 쿠폰이 없습니다. 세실리아의 추천 링크로 가입하면 두 달 이용 뒤 청구서 크레딧으로 보상을 받고, 추천한 사람도 같은 금액을 받습니다. 금액은 국가마다 다르며, 예를 들어 미국에서는 100달러입니다.",
-          "스타링크 블랙프라이데이 할인이 있나요? 한국 페이지는 대상 하드웨어와 서비스의 50% 할인을 안내했습니다. 신청 기한은 본인 주소와 요금제를 선택한 뒤 확인하세요.",
-          "추천 보상은 할인과 함께 쓸 수 있나요? 보상은 추천 조건을 채우면 받고, 금액은 주문 화면에서 확인합니다. 한국 주문에서 두 혜택이 함께 표시되는지는 읽지 못했습니다.",
+          "스타링크 블랙프라이데이 할인이 있나요? 네. 한국 주문 화면에서 주거용 100Mbps는 50% 할인된 월 34,000원이었고, 하드웨어에도 50% 할인이 적용되었습니다. 신청 기한은 본인 주소와 요금제를 선택한 뒤 확인하세요.",
+          "추천 보상은 할인과 함께 쓸 수 있나요? 주문에서 별도의 줄로 나옵니다. 보상은 추천 조건을 채우면 받고, 금액은 주문 화면에서 확인합니다. 한국 주문에서 두 혜택이 함께 표시되는지는 본인 주소로 확인하세요.",
           "주문할 때 얼마를 내나요? 서울시청 주소로 미니 키트와 100Mbps를 고른 주문의 결제 금액은 ₩192,000이었습니다.",
-          "키트는 임대인가요, 구매인가요? 한국 주문 화면에서는 키트를 구매하는 방식이었고, 옵션은 미니와 스탠다드였습니다.",
-          "오퍼는 언제까지인가요? 캠페인 안내와 요금 표시의 날짜가 다를 수 있습니다. 주문 화면에서 주소와 요금제를 선택해 확인하세요."
+          "키트는 임대인가요, 구매인가요? 한국 주문 화면에서는 키트를 구매하는 방식이었고, 옵션은 미니와 스탠다드였습니다. 한국에서 발행한 카드로만 결제할 수 있습니다.",
+          "결정 전에 써 볼 수 있나요? 네. 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금이 환불됩니다.",
+          "결제한 뒤에 추천을 추가할 수 있나요? 없습니다. 결제 전에 추천 링크로 연 주문에만 적용됩니다.",
+          "오퍼는 언제까지인가요? 스타링크는 11월 말까지의 오퍼로 안내합니다. 주문 화면에서 주소와 요금제를 선택해 확인하세요."
         ]
       }
     ],
     "cta": {
-      "text": "스타링크 사이트에서 내 주소의 키트 가격, 요금, 추천 보상을 결제 전에 확인하세요.",
-      "label": "내 주소에서 오퍼 확인",
+      "text": "공식 주문 화면과 같은 가격으로 주문하고, 지붕에서 안테나가 맞지 않으면 30일 안에 반납해 환불을 받을 수 있으며, 결제 주기 2회 뒤에는 추천 보상이 크레딧으로 들어옵니다.",
+      "label": "내 주소 확인하고 추천 보상 확보하기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -295169,12 +299785,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "내 주소의 주문 화면에 요금제 오퍼와 키트 조건이 결제 전에 표시된다.",
+        "내 주소의 주문 화면에 50% 할인 요금제와 키트 구매 조건이 결제 전에 표시된다.",
         "추천 보상이 들어올 때까지 월 결제 주기를 두 번 기다리며 그사이 요금을 낼 수 있다."
       ],
       "skipIf": [
-        "주문 화면에 오퍼가 보이지 않는다. 읽은 가격은 한 주소의 값이다.",
-        "곧 해지할 수 있어서 키트 반납이나 프로모션 가격 상실을 감수하고 싶지 않다."
+        "주문 화면에 오퍼가 보이지 않는다. 읽은 가격은 확인한 주소의 값이다.",
+        "한국에서 발행한 결제 카드가 없거나 곧 해지할 수 있어 키트 구매를 감수하고 싶지 않다."
       ]
     }
   },
@@ -295183,8 +299799,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-worth-it-ko",
     "locale": "ko",
     "translationKey": "starlink-vale-a-pena",
-    "title": "스타링크 가입할 만한가요? 12개월 계산과 어울리는 집",
-    "seoTitle": "스타링크 가입할 만한가요? 12개월 비용",
+    "title": "스타링크 가입할 만한가요? 12개월 계산과 불안정한 광랜 대안·백업 활용",
+    "seoTitle": "스타링크 가입할 만한가요? 비용·불안정 광랜 대안·백업",
     "type": "구매 가이드",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -295195,8 +299811,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "스타링크 12개월 비용을 집에 들어오는 다른 인터넷과 비교하세요. 주소별 키트 가격, 환불 조건, 안테나를 둘 자리를 확인하는 방법을 정리했습니다.",
-    "metaDescription": "스타링크 가입할 만한가요? 키트와 12개월 요금 계산, 주소별 가격, 어울리는 경우와 광랜이나 LTE가 나은 경우를 살펴봅니다.",
+    "description": "유선 인터넷이 안 닿는 곳뿐 아니라, 지역 광랜이 자주 끊기거나 약정 속도가 안 나올 때 메인·백업 회선으로 스타링크가 가치가 있는지 요금과 키트 조건으로 따져봤습니다.",
+    "metaDescription": "스타링크 가입할 만한가요? 서울 요금·키트 가격뿐 아니라 불안정한 광랜의 대안·백업 회선 활용까지 정리했습니다.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -295211,50 +299827,133 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "광랜이나 안정적인 유선 인터넷이 닿지 않는 집이라면 스타링크가 답이 될 수 있습니다. 이미 믿을 만한 인터넷이 있다면 갈아타기 전에 12개월 총액을 비교하세요. 한국에서는 키트를 구매하므로 키트 값에 월 요금을 더하고, 스타링크 앱으로 안테나를 둘 자리를 점검하세요."
+          "네, 스타링크는 유선 인터넷이 닿지 않는 곳뿐 아니라, 광랜이 있어도 자주 끊기거나 계약 속도에 못 미치는 곳에서도 가치가 있습니다. 저희도 불안정한 광랜의 대안이자 백업 회선으로 스타링크를 계약했습니다. 광랜이 정말 안정적이라면 요금과 지연 시간에서는 광랜이 유리합니다. 한국에서는 키트를 구매하는 방식이므로, 서울 주문 화면 기준으로 약정 없이 30일 안에 반납하면 환불받는 조건을 확인해 보세요."
         ]
       },
       {
         "heading": "12개월 비용",
         "paragraphs": [
-          "2026년 11월 20일에 서울시청 주소로 공개 주문 화면을 읽었습니다. 이 글의 값은 그 주소에서 나온 것이며, 다른 주소는 다를 수 있습니다."
+          "2026년 11월 23일에 서울시청 주소로 공개 주문 화면을 읽었습니다. 서비스 요금과 키트 모두 50% 할인이 11월 30일까지 표시되었고, 한국에서는 키트를 임대하지 않고 구매합니다. 결제에는 한국에서 발급한 카드가 필요하다고 안내합니다. 이 글의 값은 그 주소에서 나온 것이며, 다른 주소는 다를 수 있습니다."
         ],
         "comparisonTable": {
           "headers": [
             "서울시청 주소 기준",
-            "가격"
+            "표시된 값"
           ],
           "rows": [
             [
-              "주거용 100Mbps",
-              "월 ₩34,000"
+              "주거용 100Mbps 월 요금 (50% 할인)",
+              "₩34,000 (정상 ₩68,000)"
             ],
             [
-              "주거용 맥스",
-              "월 ₩46,500"
+              "주거용 맥스 월 요금 (50% 할인)",
+              "₩46,500 (정상 ₩93,000)"
             ],
             [
-              "미니 키트",
-              "₩160,000"
+              "미니 키트 (50% 할인)",
+              "₩160,000, 세금 별도"
             ],
             [
-              "미니 키트 + 100Mbps 결제 금액",
+              "스탠다드 4 X 키트 (50% 할인)",
+              "₩275,000, 세금 별도"
+            ],
+            [
+              "100Mbps + 미니, 오늘 결제",
               "₩192,000"
+            ],
+            [
+              "맥스 + 스탠다드 4 X, 오늘 결제",
+              "₩307,000"
             ]
           ],
-          "caption": "주문 화면에 표시된 값입니다. 50% 할인의 적용 기간은 읽지 못했습니다."
+          "caption": "주문 화면에 표시된 값입니다. 오늘 결제 금액은 키트, 배송, 세금을 합친 값이고, 할인이 끝난 뒤 요금은 정상 요금을 기준으로 계산하세요. 추천 보상은 포함하지 않았습니다."
+        },
+        "simulator": {
+          "title": "시뮬레이터: 시나리오별 비용",
+          "scenarios": [
+            {
+              "label": "100Mbps + 미니 키트",
+              "lines": [
+                {
+                  "label": "미니 키트 (50% 할인)",
+                  "value": "₩160,000",
+                  "highlight": true
+                },
+                {
+                  "label": "월 요금 (50% 할인)",
+                  "value": "₩34,000"
+                },
+                {
+                  "label": "정상 월 요금",
+                  "value": "₩68,000"
+                }
+              ],
+              "totalLabel": "오늘 결제 (배송·세금 포함)",
+              "totalValue": "₩192,000",
+              "note": "키트를 구매하는 방식이며 임대 반납이 아닙니다. 30일 안 환불 조건은 주문 화면에서 확인하세요."
+            },
+            {
+              "label": "맥스 + 스탠다드 4 X",
+              "lines": [
+                {
+                  "label": "스탠다드 4 X 키트 (50% 할인)",
+                  "value": "₩275,000",
+                  "highlight": true
+                },
+                {
+                  "label": "월 요금 (50% 할인)",
+                  "value": "₩46,500"
+                },
+                {
+                  "label": "정상 월 요금",
+                  "value": "₩93,000"
+                }
+              ],
+              "totalLabel": "오늘 결제 (배송·세금 포함)",
+              "totalValue": "₩307,000",
+              "note": "할인이 끝나면 월 요금이 정상 요금으로 돌아갈 수 있습니다."
+            },
+            {
+              "label": "할인 종료 후 12개월 (100Mbps + 미니)",
+              "lines": [
+                {
+                  "label": "미니 키트",
+                  "value": "₩160,000"
+                },
+                {
+                  "label": "정상 월 요금",
+                  "value": "₩68,000"
+                },
+                {
+                  "label": "12개월 월 요금 합계",
+                  "value": "₩816,000",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "키트 + 12개월 (배송·세금 제외)",
+              "totalValue": "₩976,000",
+              "note": "월 요금을 할인가로 유지하면 합계는 더 낮아집니다. 할인 기간은 주문 화면에서 확인하세요."
+            }
+          ]
         },
         "postParagraphs": [
-          "12개월 비용은 키트 값에 12번의 월 요금을 더해 구하되, 할인이 몇 개월인지와 끝난 뒤 요금을 본인 주문 화면에서 읽고 계산하세요. 저희는 두 값을 읽지 못해 총액을 적지 않았습니다.",
-          "계산할 때는 추천 보상을 빼고 먼저 합산하세요. 보상은 조건을 채운 뒤에 들어오는 금액입니다. [스타링크 추천 안내](/ko/coupons/starlink)를 참고하세요."
+          "12개월 비용은 키트 값에 12번의 월 요금을 더해 구합니다. 할인이 몇 개월 이어지는지는 주문 화면에서 확인할 수 있는 만큼만 계산에 넣고, 확인할 수 없으면 정상 요금으로 계산한 값을 위쪽 한도로 보세요.",
+          "계산할 때는 추천 보상을 빼고 먼저 합산하세요. 저희 링크로 가입하면 두 달 동안 구독을 유지한 뒤 보상을 받고, 금액은 국가에 따라 다릅니다(예: 미국은 US$ 100). [스타링크 추천 안내](/ko/coupons/starlink)를 참고하세요."
         ],
         "links": [
           {
-            "label": "내 주소에서 요금제 보기",
+            "label": "내 주소에서 요금제와 키트 계산해 보기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "alt": "서울 주소의 스타링크 공식 주문 화면. 100Mbps 월 ₩34,000과 미니 키트 ₩160,000이 표시되어 있다",
+          "caption": "서울 주문 화면(2026년 11월 23일 확인): 100Mbps 월 ₩34,000과 구매용 미니 키트.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8041
+        }
       },
       {
         "heading": "안테나는 어디에 두나요",
@@ -295276,12 +299975,38 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "광랜이나 LTE와 비교할 때",
+        "heading": "가격 너머의 기준: 지역 광랜 불안정과 백업 회선 활용",
         "paragraphs": [
-          "안정적인 광랜이 이미 들어온다면, 각 상품의 설치비와 월 요금, 약정을 더해 비교하세요. LTE는 필요한 장비 값을 더하고, 요금제의 데이터 한도가 집에 충분한지 확인하세요."
+          "월 요금만 비교하면 부족한 경우가 있습니다. 집에 들어오는 값싼 유선 인터넷이 매주 끊기거나 계약한 속도의 일부만 나올 때입니다. 지역 사업자와 혼잡한 망은 케이블 단선, 예고 없는 점검, 저녁 시간대 속도 저하를 겪기 쉽습니다. 재택근무, 화상회의, 카메라와 스마트홈에 의지한다면 월 요금 차이보다 이쪽이 더 크게 느껴집니다.",
+          "저희의 경우, 불안정한 광랜의 대안이자 백업 회선으로 스타링크를 계약했습니다. 신호가 위성에서 오기 때문에 집 앞 케이블이나 같은 사업자에 의존하지 않습니다. 문제가 있는 광랜을 대신하는 주 회선으로도, 광랜이 끊길 때의 예비 경로로도 쓸 수 있습니다.",
+          "시험해 보는 위험은 작은 편입니다. 서울 주문 화면은 약정 없이 키트를 구매하는 방식이고, 30일 안에 취소하고 키트를 반납하면 환불받는 조건을 안내합니다. 본인 지붕에서 실제 안정성을 재 보고, 문제가 풀릴 때만 유지하면 됩니다. LTE나 5G 홈 라우터를 백업으로 생각한다면 라우터 값과 데이터 한도도 확인하세요."
         ],
-        "emphasis": "주소에 안정적인 유선 인터넷도, 쓸 만한 LTE도 없다면 스타링크를 비교 대상에 올릴 만합니다. 안정적인 광랜이 있다면 키트와 월 요금을 합친 12개월 총액이 지금 쓰는 회선 비용보다 낮을 때만 바꿀 이유가 됩니다.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "광랜이 정말 안정적이고 계약 속도가 나온다면 월 요금만 보고 바꾸는 쪽은 득이 크지 않습니다. 반대로 지역 회선이 자주 끊기거나 크게 느려진다면, 스타링크는 안정성과 독립성 면에서 주 회선으로도 백업 회선으로도 가치가 있습니다.",
+        "emphasisAfterParagraph": 3,
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "주 회선이나 백업 회선으로 쓸 수 있는 스타링크 공식 안테나와 라우터",
+          "caption": "지역 사업자의 배선과 별개인 스타링크 공식 안테나와 라우터. 스타링크 제공 사진.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "불안정한 광랜 옆에서 스타링크를 쓰는 방법",
+        "paragraphs": [
+          "이 부분은 일반적인 사용 안내이며, 저희가 설치한 경험담이 아닙니다. 불안정한 광랜 옆에서 스타링크를 쓰는 방법은 가장 간단한 것부터 자동 전환까지 두 단계가 있습니다.",
+          "1단계는 추가 비용이 없는 방법입니다. 스타링크 와이파이를 두 번째 네트워크로 남겨 두고, 회의 중에 광랜이 끊기면 휴대폰이나 노트북을 그쪽으로 바꿉니다. 수동이라 몇 초면 되지만, 끊김을 알아채고 직접 바꿔야 합니다.",
+          "2단계는 자동 전환입니다. 듀얼 WAN(또는 멀티 WAN)과 페일오버를 지원하는 공유기를 씁니다. 광랜을 한쪽 WAN 포트에, 스타링크를 다른 쪽에 연결하면, 공유기가 광랜 끊김을 감지해 트래픽을 스타링크로 돌립니다. 이때 스타링크는 앱의 바이패스 모드로 본인 공유기에 연결해, 네트워크 관리를 본인 공유기에 맡기는 방식이 일반적입니다. 모델에 따라 이더넷 어댑터가 필요할 수 있으니 스타링크 고객지원에서 확인하세요.",
+          "자동 전환 때는 외부로 나가는 주소가 바뀌어 통화나 VPN이 몇 초간 다시 연결될 수 있습니다. 의존하기 전에 페일오버를 시험해 보세요. 광랜을 몇 분 빼 두고 통화, 카메라, 원격 업무가 저절로 돌아오는지 확인합니다."
+        ]
+      },
+      {
+        "heading": "폭우, 강풍, 정전일 때",
+        "paragraphs": [
+          "고궤도 위성 인터넷은 지연이 수백 밀리초라 통화와 게임에 불리했습니다. 스타링크는 저궤도 위성을 쓰고, 지상 기준 일반 지연 시간으로 25~60ms를 공개합니다. 회사가 밝힌 기준값이며 저희 주소에서 잰 값은 아닙니다.",
+          "매우 강한 비, 눈, 폭풍은 한동안 성능을 낮출 수 있고, 바람이 센 곳은 안테나를 단단히 고정해야 합니다. 광랜과 비교하면, 도로에서 끊어진 케이블은 복구에 시간이 오래 걸릴 수 있고 스타링크는 그 영향을 받지 않습니다.",
+          "정전도 따져 볼 부분입니다. 스타링크 안테나와 라우터에는 전기가 필요하고, 광랜 장비도 마찬가지입니다. 스타링크 사양에 적힌 소비 전력에 맞춘 UPS나 휴대용 전원장치가 있으면 짧은 정전 동안 연결을 유지할 수 있습니다. 동네 전체가 정전이면 도로 쪽 망도 끊길 수 있으니, 의존하기 전에 세트로 시험해 보세요."
+        ]
       },
       {
         "heading": "속도와 게임",
@@ -295299,7 +300024,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "환불과 해지",
         "paragraphs": [
-          "한국 주문 화면은 키트를 구매하는 방식이며, 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 전액 환불한다고 안내합니다. [계약과 취소 가이드](/ko/reviews/starlink-cancel-ko)에 절차가 있습니다."
+          "한국 주문 화면은 키트를 구매하는 방식이며, 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 전액 환불한다고 안내합니다. [계약과 취소 가이드](/ko/reviews/starlink-cancel-ko)에 절차가 있습니다.",
+          "주문 화면을 여는 데는 비용이 들지 않습니다. 가격, 할인, 제공 여부는 starlink.com에 주소를 입력해야 나타납니다. 추천은 추천 링크로 연 주문을 결제 전에 starlink.com에서 했을 때만 인정되고, 마켓플레이스 구매에는 적용되지 않습니다."
+        ],
+        "links": [
+          {
+            "label": "30일 환불 조건으로 내 주소에서 시험해 보기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -295312,34 +300045,36 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "스타링크에 할인 쿠폰이 있나요? 아니요. 스타링크에는 쿠폰이 없습니다. 저희 추천 링크로 가입하면 두 달 동안 구독을 유지한 뒤 보상을 받고, 금액은 국가에 따라 다릅니다(예: 미국은 US$ 100). 기본은 청구서 크레딧이며, 추천한 사람도 같은 금액을 받습니다.",
-          "도심에서도 스타링크가 가입할 만한가요? 안정적인 유선 인터넷이 있다면 설치비, 월 요금, 약정을 비교한 뒤 바꾸세요.",
-          "스타링크가 광랜보다 나은가요? 좋은 유선 인터넷이 없는 곳이라면 스타링크 견적을 받아 보고, 안테나를 둘 열린 하늘이 있는지 확인하세요. 둘 다 가능하면 안정성과 비용을 주소별로 비교하세요.",
+          "도심에서도 스타링크가 가입할 만한가요? 지금 쓰는 광랜이 얼마나 좋은지에 달려 있습니다. 값싸고 안정적이면 비용 면에서 광랜이 유리합니다. 자주 끊기거나 계약보다 크게 느리다면, 하늘이 열려 있다는 조건에서 대안이나 백업으로 스타링크가 가치가 있습니다. 저희가 계약한 이유입니다.",
+          "스타링크가 광랜보다 나은가요? 최대 속도와 지연 시간에서는 건강한 광랜이 유리한 경우가 많습니다. 지역 장애와 도로 케이블 단선에 대한 지속성에서는 지역 사업자와 독립된 경로인 스타링크가 도움이 됩니다.",
           "스타링크는 게임에 좋은가요? 본인 주소에서 지연 시간과 끊김을 확인하세요. 스타링크가 공개한 일반 지연 시간은 참고용입니다.",
           "스타링크는 무제한인가요? 스타링크는 가정용 요금제를 무제한 데이터로 안내합니다. 주문 화면에서 요금제의 속도 제한을 확인하세요.",
-          "스타링크 월 요금은 얼마인가요? 서울시청 주소 기준으로 주거용 100Mbps가 월 ₩34,000, 주거용 맥스가 월 ₩46,500로 표시되었습니다. 주소에 따라 다릅니다."
+          "스타링크 월 요금은 얼마인가요? 서울시청 주소 기준으로 50% 할인 중에 주거용 100Mbps가 월 ₩34,000, 주거용 맥스가 월 ₩46,500로 표시되었고, 정상 요금은 ₩68,000과 ₩93,000입니다. 주소에 따라 다릅니다.",
+          "스타링크를 광랜 백업으로 쓸 수 있나요? 네. 페일오버를 지원하는 듀얼 WAN 공유기가 있으면 광랜이 끊길 때 스타링크가 이어받습니다. 없다면 수동으로 네트워크를 바꿀 수 있습니다. 바이패스 모드에 필요한 장비는 스타링크 고객지원에서 확인하세요."
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "집 주소에 쓸 만한 유선 인터넷이 없고, LTE도 신호가 약합니다.",
-        "키트를 구매하는 방식을 받아들이고, 가격이 주소마다 다르다는 점을 알고 있습니다."
+        "값싼 광랜이 들어와도 지역 회선이 자주 끊기거나 계약 속도에 크게 못 미쳐서, 믿을 만한 대안이나 백업 회선이 필요합니다.",
+        "스타링크 앱으로 하늘 시야를 확인했고, 키트를 구매하는 방식과 주소마다 다른 가격을 받아들일 수 있습니다."
       ],
       "skipIf": [
-        "안정적인 광랜이 이미 들어오고, 새로 살 장비도 바꿀 이유도 없습니다.",
-        "응답 속도가 빠른 온라인 게임이 꼭 필요한데, 스타링크가 지연 시간을 보장하지 않습니다."
+        "계약 속도가 나오는 안정적인 광랜이 이미 있고, 이중화가 필요할 만큼 자주 끊기지 않습니다.",
+        "지연 시간이 보장되어야 하는 경쟁형 온라인 게임이 꼭 필요한데, 스타링크는 일반적인 지연 시간만 공개하고 본인 주소의 수치는 보장하지 않습니다."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "스타링크 사이트에 주소를 넣고 요금제, 키트, 월 요금을 결제 전에 확인하세요.",
-      "label": "내 주소에서 요금 보기",
+      "text": "공식 사이트와 같은 가격으로 주문하고, 지붕에서 안 되면 30일 안에 반납해 환불받을 수 있는 조건을 확인하세요. 추천 보상은 국가에 따라 다르며(예: 미국은 US$ 100), 규정을 충족하면 청구서 크레딧으로 들어옵니다.",
+      "label": "추천 링크로 starlink.com에서 내 주소 확인",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "주문 화면에서 읽은 가격이며, 결제는 완료하지 않았습니다. 아직 서비스를 직접 사용해 보지는 않았습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
+    "editorialNote": "저희는 불안정한 광랜의 대안이자 백업 회선으로 스타링크를 계약했습니다. 이 가이드의 가격과 장비 조건은 공식 사이트의 공개 주문 화면에서 읽었습니다. 저희는 스타링크 추천 프로그램에 참여하고 있어, 저희 링크로 가입하고 규정을 충족하시면 보상을 받을 수 있습니다.",
     "relatedArticles": [
       {
         "slug": "starlink-cancel-ko"
@@ -295357,8 +300092,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-cancel-ko",
     "locale": "ko",
     "translationKey": "starlink-fidelidade",
-    "title": "스타링크 약정이 있나요? 키트 구매, 30일 반납, 해지 방법",
-    "seoTitle": "스타링크 약정과 해지, 30일 반납",
+    "title": "스타링크 약정이 있나요? 한국은 키트 구매 방식, 약정 표시는 없고 30일 반납과 해지 방법",
+    "seoTitle": "스타링크 약정과 해지, 키트 구매와 30일 반납",
     "type": "실용 가이드",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -295369,8 +300104,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "한국 주문 화면에서 키트는 구매 방식입니다. 30일 안에 반납하면 키트와 첫 달 요금이 환불됩니다. 계정에서 해지하는 순서까지 정리했습니다.",
-    "metaDescription": "스타링크 한국 주문은 키트를 구매하는 방식입니다. 30일 반납 환불 조건과 계정에서 서비스를 해지하는 방법, 결제 주기 기준을 확인하세요.",
+    "description": "서울 주문 화면에서 스타링크 키트는 구매 방식이고 약정이나 위약금 문구는 보이지 않았습니다. 두 요금제와 두 키트 가격, 30일 반납, 해지 순서를 정리했습니다.",
+    "metaDescription": "스타링크 한국 주문은 키트를 구매하는 방식이며 약정 문구는 없었습니다. 요금제와 키트 가격, 30일 반납 환불 조건, 해지 방법을 확인하세요.",
     "publishedAt": "2026년 11월 20일",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -295385,14 +300120,45 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "한국 주문 화면에서 키트는 구매 방식이며, 미니와 스탠다드 중에서 고릅니다. 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 전액 환불받습니다. 약정 기간과 위약금 문구는 주문 요약에서 직접 확인하세요."
+          "서울시청 주소로 읽은 한국 주문 화면에서 스타링크 키트는 임대가 아니라 구매 방식이었고, 약정 기간이나 위약금 문구는 보이지 않았습니다. 100Mbps와 맥스 두 요금제 모두 같은 구조이며, 키트는 미니와 스탠다드 4 X 중에서 고릅니다. 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금을 환불받는 조건입니다. 결제에는 한국에서 발급한 카드가 필요합니다."
         ]
       },
       {
-        "heading": "약정이 있는지 보는 법",
+        "heading": "서울에서 읽은 주문 화면",
         "paragraphs": [
-          "2026년 11월 20일에 서울시청 주소로 읽은 주문 화면은 미니 키트를 ₩160,000에 구매하는 방식이었습니다. 키트를 빌려 쓰는 임대 방식이 아니므로, 임대 장비를 돌려주는 조건은 해당하지 않았습니다.",
-          "저희는 계약 기간이나 위약금에 대한 한국 주문 화면의 문구를 확인하지 못했습니다. 결제 전에 주문 요약에서 계약 기간 문구가 있는지 읽으세요."
+          "2026년 11월 23일에 서울시청 주소로 읽은 주문 화면에서, 100Mbps 요금제는 월 ₩34,000이었습니다. 정가 ₩68,000에서 50% 서비스 할인이 적용된 금액입니다. 맥스는 월 ₩46,500으로, 정가 ₩93,000에서 50% 할인이 들어간 금액이었습니다. 할인은 11월 말까지로 표시되어 있었습니다.",
+          "키트는 두 가지 중에서 고릅니다. 미니는 ₩160,000, 스탠다드 4 X는 ₩275,000이며, 하드웨어에도 50% 할인이 붙어 있었습니다. 주문 요약에서 100Mbps와 미니를 고르면 서비스 ₩68,000에서 ₩34,000 할인, 미니 키트 ₩290,909에서 ₩145,455 할인, 배송 ₩29,091, 세금 ₩17,455가 보였고, 오늘 낼 금액은 ₩192,000이었습니다. 맥스와 스탠다드 4 X를 고르면 오늘 낼 금액이 ₩307,000이었습니다.",
+          "임대 키트나 반납 의무는 없고, 구매한 키트에는 30일 반납 조건만 붙어 있습니다. 약정 기간과 위약금은 이 주문 화면에서 보이지 않았습니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+            "alt": "서울의 스타링크 요금제 화면. 100Mbps가 월 34.000원이고 미니 키트 160.000원은 구매 방식이며 한국에서 발급한 카드가 필요하다는 안내",
+            "caption": "서울, 2026년 11월 23일 확인: 100Mbps 월 ₩34,000과 미니 키트 ₩160,000.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8041
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-ko-resumo-seul.webp",
+            "alt": "서울의 스타링크 주문 요약. 서비스 68,000원에서 34,000원 할인, 미니 키트 290,909원에서 145,455원 할인, 배송 29,091원, 세금 17,455원, 합계 192,000원",
+            "caption": "서울의 주문 요약, 2026년 11월 23일 확인: 100Mbps와 미니, 오늘 낼 금액 ₩192,000.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.7571
+          }
+        ],
+        "links": [
+          {
+            "label": "내 주소에서 요금제와 약정 조건 확인하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "나라마다 다른 세 가지 방식",
+        "paragraphs": [
+          "스타링크에는 전 세계 공통의 계약 규칙이 없습니다. 한국처럼 키트를 구매하고 끝나는 나라가 있고, 미국이나 일본처럼 키트를 0원에 빌려 쓰다가 취소할 때 돌려주는 나라가 있습니다. 브라질과 멕시코에서는 지원금이 붙은 키트를 받는 대신 12개월 계약과 중도 해지 비용이 붙을 수 있습니다.",
+          "한국에서 보인 것은 첫 번째, 구매 방식입니다. 다른 주소나 앞으로의 화면에서도 같다는 보장은 없으니, 결제 전에 내 주문 요약의 장비 줄을 읽으세요."
         ]
       },
       {
@@ -295409,7 +300175,14 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
-        "emphasis": "주문 화면의 조건상 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납해야 키트와 첫 달 요금을 환불받을 수 있으므로, 발송 영수증이 이를 증명하는 자료입니다."
+        "emphasis": "주문 화면의 조건상 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납해야 키트와 첫 달 요금을 환불받을 수 있으므로, 발송 영수증이 이를 증명하는 자료입니다.",
+        "links": [
+          {
+            "label": "30일 환불 조건이 있는 요금제를 starlink.com에서 보기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "해지하는 방법",
@@ -295433,8 +300206,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "프로모션 가격과 요금제 변경",
         "paragraphs": [
-          "요금제 변경, 취소, 일시 중지 때 프로모션 가격이 유지되는지는 본인 주문의 약관에서 확인하세요. 표준 가격은 바뀔 수 있습니다."
+          "읽은 화면의 프로모션은 서비스와 하드웨어 모두 50% 할인이었고 11월 말까지로 표시되어 있었습니다. 요금제 변경, 취소, 일시 중지 때 프로모션 가격이 유지되는지는 본인 주문의 약관에서 확인하세요. 표준 가격은 바뀔 수 있습니다."
         ]
+      },
+      {
+        "heading": "결제 전에 내 주문 확인하기",
+        "paragraphs": [
+          "추천은 추천 링크로 시작한 주문에만 적용되고, 링크는 결제 전에 starlink.com에서 열어야 합니다. 결제 뒤나 마켓플레이스 구매에서는 나중에 추가할 수 없습니다. 링크를 연다고 약속하는 것은 없으며, 내 주소에 어떤 방식이 적용되는지 보여 줍니다. 30일 반납이 테스트의 안전장치가 됩니다. 크레딧은 두 달 이용 뒤 청구서에 반영되고 키트 가격을 낮추지는 않습니다."
+        ],
+        "checklist": {
+          "title": "결제 전에",
+          "items": [
+            "결제하기 전에 같은 창에서 추천 링크로 주문을 열었다.",
+            "정보를 입력하기 전에 브라우저 주소창이 starlink.com인지 확인했다.",
+            "안테나를 놓을 자리에서 스타링크 앱의 장애물 점검을 해 보았다.",
+            "주문 요약에서 장비 줄, 월 요금, 계약 기간 문구가 있는지 읽었다.",
+            "결제하기 전에 월 요금과 30일 규칙이 보이는 요약 화면을 캡처해 두었다."
+          ]
+        }
       },
       {
         "heading": "청구가 계속될 때",
@@ -295446,10 +300235,10 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "스타링크에 할인 코드가 있나요? 없습니다. 스타링크에는 쿠폰이 없습니다. 세실리아의 추천 링크로 가입하면 두 달 이용 뒤 청구서 크레딧으로 보상을 받고, 추천한 사람도 같은 금액을 받습니다. 금액은 국가마다 다르며, 예를 들어 미국에서는 100달러입니다.",
-          "스타링크에 약정이 있나요? 한국 주문 화면에서 키트는 구매 방식이었습니다. 계약 기간 문구는 저희가 확인하지 못했으니, 결제 전에 주문 요약을 읽으세요.",
-          "스타링크를 해지하면 위약금이 있나요? 위약금은 저희가 확인하지 못했습니다. 본인 주문의 조건을 읽은 뒤 해지하세요.",
+          "스타링크에 약정이 있나요? 서울 주문 화면에서 키트는 구매 방식이었고, 약정 기간이나 위약금 문구는 보이지 않았습니다. 브라질 같은 나라에서는 지원금이 붙은 키트에 12개월 계약이 붙기도 하니, 결제 전에 내 주문 요약을 읽으세요.",
+          "스타링크를 해지하면 위약금이 있나요? 한국 주문 화면에서는 위약금 문구를 확인하지 못했습니다. 본인 주문의 조건을 읽은 뒤 해지하세요.",
           "스타링크는 언제든 해지할 수 있나요? 계정에서 취소를 신청할 수 있고, 청구일 00:00 UTC 전에 해야 이번 주기에 반영됩니다.",
-          "스타링크 미니는 약정이 있나요? 한국 화면에서 미니 키트는 ₩160,000에 구매하는 방식이었습니다. 약정 여부는 주문 요약에서 확인하세요.",
+          "스타링크 키트는 임대인가요, 구매인가요? 한국에서는 구매입니다. 미니는 ₩160,000, 스탠다드 4 X는 ₩275,000이며 임대 키트는 없었습니다.",
           "30일 안에 반납할 수 있나요? 서비스를 취소하고 키트를 손상 없이 결제일로부터 30일 안에 반납하면 키트와 첫 달 요금이 전액 환불됩니다."
         ]
       }
@@ -295471,7 +300260,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "취소할 때 임대 키트를 30일 안에 손상 없이 반납할 수 있다.",
+        "구매한 키트를 취소 시 30일 이내에 손상 없이 반납해 전액 환불받을 조건을 지킬 수 있다.",
         "결제 전에 내 주문 요약에서 조건을 읽는다."
       ],
       "skipIf": [
@@ -295480,8 +300269,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "스타링크 사이트에서 주문이 열립니다. 결제 전에 약정, 비용, 키트 반납 조건을 확인하세요.",
-      "label": "내 주소에서 조건 확인",
+      "text": "주문은 추천 링크로 starlink.com에서 열리며, 링크는 결제 전에 써야 합니다. 사이트와 같은 가격으로 내 주소의 약정 조건을 확인할 수 있고, 30일 반납도 그대로 적용됩니다. 크레딧은 두 달 이용 뒤 반영됩니다.",
+      "label": "내 주소에서 약정과 요금제 확인",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -295519,7 +300308,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "스타링크는 SpaceX의 위성 인터넷 서비스이고, 공식 사이트는 starlink.com입니다. 트러스트파일럿에서 starlink.com과 연결된 프로필은 \"Starlink Development\"입니다. 키트를 다른 곳에서 산다면 스타링크의 공인 판매처 목록을 확인하고, 결제 전에 상품 판매자가 누구인지 살펴보세요."
+          "네, 스타링크(Starlink)는 믿을 수 있는 공식 서비스입니다. 스페이스X(SpaceX)가 운영하는 위성 인터넷이고, starlink.com에서 직접 판매합니다. 저희도 불안정한 지역 광랜의 대안으로 직접 가입했습니다. 주의할 대상은 서비스 자체가 아니라 사칭 사이트와 비공인 판매자입니다. 트러스트파일럿에서 starlink.com과 연결된 프로필은 \"Starlink Development\"이며, 다른 곳에서 키트를 살 때는 결제 전에 스타링크 공인 판매처 목록에서 판매자를 확인하세요."
         ]
       },
       {
@@ -295540,7 +300329,22 @@ export const reviewsData: unknown[] = [
         "heading": "공식 사이트를 알아보는 법",
         "paragraphs": [
           "브라우저에 starlink.com을 직접 입력하세요. 정보를 입력하거나 결제하기 전에 아직 starlink.com 안에 있는지 확인합니다.",
-          "주문 화면에서 내 주소 기준으로 요금제, 키트(임대 또는 구매), 세금, 약정 기간을 확인하세요. 메시지로, 또는 주문 화면 밖에서 결제하라는 요구를 받으면 진행하기 전에 스타링크 고객지원에 확인하세요."
+          "주문 화면에서 내 주소 기준으로 요금제, 키트(임대 또는 구매), 세금, 약정 기간을 확인하세요. 메시지로, 또는 주문 화면 밖에서 결제하라는 요구를 받으면 진행하기 전에 스타링크 고객지원에 확인하세요.",
+          "주소를 잘못 입력하지 않는 간단한 방법은 추천 링크로 주문 페이지를 여는 것입니다. starlink.com의 주문 페이지로 바로 연결되지만, 정보를 입력하기 전에 주소창을 확인하는 일은 그대로 필요합니다. 가격은 공식 사이트와 같고, 추천은 결제 전에 추천 링크로 시작한 주문에만 적용됩니다."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "alt": "서울 주소 기준으로 표시된 starlink.com 공식 요금제 주문 화면",
+          "caption": "서울 주소로 확인한 starlink.com 요금제 주문 화면 (2026년 11월 23일 확인).",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8041
+        },
+        "links": [
+          {
+            "label": "추천 링크로 starlink.com 공식 주문 페이지 열기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -295566,7 +300370,14 @@ export const reviewsData: unknown[] = [
             "label": "스타링크 공인 판매처 목록",
             "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "어두운 배경에 놓인 스타링크 키트 구성품: 베이스, 브래킷, 케이블",
+          "caption": "스타링크 키트 구성품. 사진: Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "트러스트파일럿이 보여 주는 것",
@@ -295574,6 +300385,29 @@ export const reviewsData: unknown[] = [
           "트러스트파일럿에서 starlink.com 프로필은 후기 879건에 TrustScore 5점 만점에 1.6입니다. 71%가 별 1개, 17%가 별 5개입니다. 이 프로필은 운영사가 소유권을 등록하지 않아 스타링크가 관리하지 않으며, 후기 답변율은 0%입니다.",
           "저희는 가장 최근의 별 1개 후기 40건과 별 5개 후기 40건을 읽었습니다. 별 1개에서 가장 많은 불만은 봇이나 채팅뿐인 고객지원(약 3건 중 1건), 끊김과 느린 속도(약 3건 중 1건), 가입 뒤 오른 월 요금(약 4건 중 1건), 청구와 어려운 해지(약 4건 중 1건), 제휴 업체 설치 기사의 지연이나 불참(약 4건 중 1건), 키트 배송 지연이나 미수령(약 5건 중 1건)이었습니다. 별 5개 후기는 속도와 안정성(약 절반), 쉬운 설치(약 3건 중 1건), 다른 좋은 인터넷이 없다는 점(약 4건 중 1건)을 칭찬합니다. 건수는 저희가 센 대략적인 수치입니다.",
           "점수는 조심해서 읽어야 합니다. 소유권을 등록하지 않은 프로필은 구매 뒤 후기 요청을 보내지 않고, 이런 페이지를 여는 사람은 불만을 쓰려는 경우가 많습니다. 칭찬은 신호 품질에, 불만은 고객지원, 가격, 청구에 몰려 있고, 신호가 늘 나쁘다는 별 1개 후기는 많지 않습니다. 최근 후기 355건을 바탕으로 한 트러스트파일럿의 자동 요약도 같은 방향입니다. 수치는 [트러스트파일럿 프로필 전체 분석](/ko/reviews/starlink-trustpilot-ko)에 있습니다."
+        ]
+      },
+      {
+        "heading": "결제 전 체크리스트",
+        "paragraphs": [
+          "다섯 가지 확인은 어느 주소에서나 통하고 몇 분이면 끝납니다."
+        ],
+        "checklist": {
+          "title": "주문을 확정하기 전에",
+          "items": [
+            "추천이 적용되도록 같은 브라우저 창에서 추천 링크로 주문 페이지를 열었다.",
+            "정보를 입력하기 전에 주소창이 starlink.com에 머물러 있는지 확인했다.",
+            "안테나를 둘 자리에서 스타링크 앱의 장애물 확인을 실행해 하늘이 트여 있는지 확인했다.",
+            "주문 요약에서 요금제, 키트, 합계, 약정 여부를 읽었다.",
+            "결제 전에 월 요금과 30일 규정이 보이는 요약 화면을 캡처해 두었다."
+          ]
+        },
+        "links": [
+          {
+            "label": "starlink.com에서 내 주소의 이용 가능 여부 확인하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -295591,7 +300425,7 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "스타링크에 쿠폰이 있나요? 아니요, 스타링크에는 쿠폰이 없습니다. Cecília의 추천 링크로 가입하면 두 달 이용 뒤 요금 청구서에 크레딧이 적립되고, 추천한 사람도 같은 금액을 받습니다. 금액은 국가마다 다르며, 예를 들어 미국에서는 US$ 100입니다.",
-          "스타링크는 믿을 만한가요? 스타링크는 SpaceX의 위성 인터넷 서비스입니다. starlink.com에 있는지 확인하고, 다른 곳에서 산다면 공인 판매처 목록을 이용하세요.",
+          "스타링크는 믿을 만한가요? 네, SpaceX가 운영하는 공식 위성 인터넷 서비스입니다. 안전하게 가입하려면 주소가 starlink.com인지 확인하고, 외부 판매처에서는 공인 판매처 목록을 먼저 대조하세요.",
           "스타링크 공식 사이트는 어디인가요? 공식 사이트는 starlink.com입니다.",
           "판매자가 공인 업체인지 어떻게 확인하나요? 스타링크 판매처 목록을 보고, 결제 전에 상품 판매자가 누구인지 확인하세요.",
           "공식 사이트와 판매처 중 어디서 사야 하나요? starlink.com 주문 화면은 결제 전에 내 주소 기준의 요금제, 키트, 세금, 약정을 보여 주고, 추천은 그곳에서만 적용됩니다. 공식 목록의 판매처는 정식 판매자이지만 추천은 적용되지 않습니다."
@@ -295601,7 +300435,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "공식 사이트, 고객센터, 트러스트파일럿의 공개 프로필을 바탕으로 작성했습니다. 저희는 스타링크 추천 프로그램에 참여하고 있으며, 링크로 가입하고 조건을 충족하면 보상을 받을 수 있습니다.",
+    "editorialNote": "공식 사이트, 고객센터, 트러스트파일럿 공개 프로필을 바탕으로 작성했습니다. 저희는 불안정한 지역 광랜의 대안·백업으로 스타링크에 직접 가입했습니다. 스타링크 추천 프로그램에 참여하고 있으며, 링크로 가입하고 조건을 충족하면 보상을 받을 수 있습니다.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-ko"
@@ -295624,8 +300458,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "스타링크 사이트에서 주소를 입력하고 결제 전에 요금제, 키트, 월 요금을 확인하세요.",
-      "label": "내 주소의 요금제 보기",
+      "text": "추천 링크로 주문 페이지를 열고, 주소창이 starlink.com에 있는지 확인한 뒤, 결제 전에 내 주소의 요금제·키트·합계를 확인하세요. 가격은 공식 사이트와 같습니다.",
+      "label": "starlink.com에서 내 주소 확인하기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -295719,6 +300553,36 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "트러스트파일럿, starlink.com 프로필, 2026년 11월 23일 확인."
+        },
+        "metrics": {
+          "items": [
+            {
+              "label": "TrustScore",
+              "value": "1.6",
+              "unit": "/5",
+              "note": "미등록 프로필"
+            },
+            {
+              "label": "전체 리뷰",
+              "value": "879",
+              "note": "자연 발생만"
+            },
+            {
+              "label": "회사 답변",
+              "value": "0%",
+              "note": "부정적 464건 중 0건"
+            },
+            {
+              "label": "별 1개 vs 별 5개",
+              "value": "71%",
+              "unit": "vs 17%",
+              "note": "지원과 청구가 상위"
+            }
+          ],
+          "summary": {
+            "badge": "차이 읽기",
+            "text": "칭찬은 속도와 안정적인 신호에 모이고, 불만은 자동화된 고객 지원, 청구, 요금 변경에 몰립니다."
+          }
         }
       },
       {
@@ -295768,15 +300632,32 @@ export const reviewsData: unknown[] = [
         "heading": "가입하는 사람에게 의미하는 것",
         "paragraphs": [
           "결제하기 전에 starlink.com에서 내 주소 기준으로 플랜, 키트(대여 또는 구매), 세금, 계약 조건을 확인하세요. 나라마다, 심지어 주소마다 다릅니다. 주문한 날의 제안 화면을 캡처해 두고 청구서마다 비교하세요.",
+          "가장 간단한 대비책은 starlink.com에서 직접 주문하고, 가격, 키트, 계약 조건, 적용된 추천이 보이는 주문 요약 화면을 저장해 두는 것입니다. 그다음 첫 청구서를 그 캡처와 비교하세요. 추천은 추천 링크로 연 주문에서 결제하기 전에만 인정되며, 나중에 추가할 수 없습니다.",
           "대여 키트와 반납 규정은 [계약, 해지, 환불 가이드](/ko/reviews/starlink-cancel-ko)에 있습니다."
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "목조 주택 지붕에 설치된 스타링크 안테나",
-          "caption": "주택에 설치된 스타링크 안테나. 스타링크 제공 사진.",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
-        }
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+            "alt": "서울 기준 스타링크 요금제 화면: 100Mbps 월 34,000원, 미니 키트 160,000원",
+            "caption": "서울, 100Mbps 요금제: 월 요금과 구매하는 미니 키트 가격, 한국에서 발급된 카드만 쓸 수 있다는 안내. 저장해 둘 만한 화면의 예. 2026년 11월 23일 확인.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8041
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "목조 주택 지붕에 설치된 스타링크 안테나",
+            "caption": "주택에 설치된 스타링크 안테나. 스타링크 제공 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ],
+        "links": [
+          {
+            "label": "starlink.com에서 공식 주문을 열고 내 지역 확인하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "문제를 제기하려면",
@@ -295788,15 +300669,32 @@ export const reviewsData: unknown[] = [
             "label": "트러스트파일럿의 starlink.com 프로필",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "스타링크 스탠다드 키트 구성품: 안테나, 라우터, 스탠드, 케이블",
+            "caption": "스타링크 스탠다드 키트: 안테나, 라우터, 스탠드, 케이블. 스타링크 제공 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "가입 전에",
         "paragraphs": [
           "가입하기 전에 사이트와 약관을 확인하세요. 공식 사이트와 이름을 따라 쓴 프로필을 구별하는 방법은 [스타링크는 믿을 만한가요?](/ko/reviews/starlink-trust-ko)에 있습니다.",
+          "주문 화면을 연다고 해서 아무것도 확정되지 않습니다. 요금제, 가격, 제공 여부, 계약 조건은 주소를 입력한 뒤에야 나타납니다. 스타링크의 30일 정책은 그 기간 안에 해지하고 키트를 손상 없이 반품하면 환불된다고 주문 화면에 안내하고 있습니다. 약정이 있는 할인 키트라면 30일이 지난 뒤 비용이 드는지 확인하세요.",
           "[스타링크 추천](/ko/coupons/starlink) 페이지에 링크와 프로그램 규정이 있습니다. 추천은 쿠폰이 아닙니다. 보상은 두 달 구독 뒤 청구서 크레딧으로 들어오며, 우선순위, 엔터프라이즈, 상업용 플랜은 받지 못합니다."
         ],
-        "emphasis": "표의 수치로 보면, 주소지에 마땅한 인터넷 선택지가 없는 사람에게는 starlink.com에서 그 주소 기준으로 플랜, 키트, 세금, 계약을 확인한 뒤 가입하는 것이 합리적입니다. 1.6점에는 신호 품질보다 고객지원, 청구, 가격에 대한 불만이 더 많이 반영되어 있기 때문입니다."
+        "emphasis": "표의 수치로 보면, 주소지에 마땅한 인터넷 선택지가 없는 사람에게는 starlink.com에서 그 주소 기준으로 플랜, 키트, 세금, 계약을 확인한 뒤 가입하는 것이 합리적입니다. 1.6점에는 신호 품질보다 고객지원, 청구, 가격에 대한 불만이 더 많이 반영되어 있기 때문입니다.",
+        "links": [
+          {
+            "label": "starlink.com에서 내 주소의 제공 여부 확인하기",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "자주 묻는 질문",
@@ -295835,8 +300733,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "스타링크 사이트에 주소를 입력해 결제 전에 플랜, 키트, 월 요금을 확인하세요.",
-      "label": "내 주소의 플랜 보기",
+      "text": "추천 링크로 주문을 열고, 내 주소의 플랜, 키트, 계약을 확인한 뒤 결제하기 전에 요약 화면을 저장하세요. 가격은 공식 사이트와 같습니다.",
+      "label": "starlink.com에서 내 주문 열기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -295846,8 +300744,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-zh-hant",
     "locale": "zh-hant",
     "translationKey": "starlink-indicacao",
-    "title": "Starlink 推薦連結怎麼用？獎勵何時入帳",
-    "seoTitle": "Starlink 推薦連結：用法與獎勵",
+    "title": "首次購買 Starlink 如何透過推薦連結領取獎勵（美國 US$ 100／依國別發放）",
+    "seoTitle": "首次購買 Starlink 如何透過推薦連結領取獎勵",
     "type": "推薦碼指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -295858,8 +300756,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "從官方網站開啟連結，付款前在訂購頁確認獎勵金額。了解誰能使用、獎勵何時入帳，以及服務抵免與現金的差別。",
-    "metaDescription": "了解如何開啟 Starlink 推薦連結、在訂購頁找到獎勵金額，並在符合計畫條件後領取獎勵。",
+    "description": "Starlink 沒有優惠碼：透過官方推薦連結下單，沿用官網同價與 30 天退貨期間，滿兩個月後即可領取所在國家的推薦獎勵（例如美國為 US$ 100）。",
+    "metaDescription": "第一次訂閱 Starlink 如何透過推薦連結領取獎勵，為何下單前必須套用推薦，以及兩個月後入帳的流程。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -295874,13 +300772,185 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "開啟 Starlink 推薦連結並輸入你的地址。付款前，先確認訂購頁顯示推薦已套用，並查看獎勵金額。這個計畫適用於新客戶，獎勵在服務完整計費兩個月後發放，形式為服務抵免，部分地區也提供現金。"
+          "Starlink 沒有可輸入的優惠碼。除了官網的促銷之外，首次訂閱時透過推薦連結下單，是領取官方推薦獎勵的方式。從連結進入 starlink.com 結帳，價格與促銷完全相同、也保有 30 天退貨期間，服務滿兩個完整計費週期後，可獲得所在國家的獎勵金額（例如美國為 US$ 100，實際金額會顯示在你的訂購頁）。獎勵是之後入帳的帳單抵免，不會降低當天的設備價格。付款前務必在畫面確認推薦已套用，因為結帳後無法補登。"
         ]
+      },
+      {
+        "heading": "為什麼一定要用推薦連結下單",
+        "paragraphs": [
+          "自己直接打開 starlink.com 下單，設備與月費和透過連結下單相同，差別只在你會錯過推薦獎勵。獎勵不會降低下單當天的設備價格，而是在你付清兩個完整計費週期後，以抵免的形式進入帳單。",
+          "Starlink 的訂購頁沒有繁體中文版本，所以下面的例子取自馬來西亞（英文介面）與美國的訂購頁，用來說明推薦連結如何運作。你所在地的價格與規則，請以自己地址的訂購頁為準。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+            "alt": "吉隆坡地址的 Starlink 訂購頁，100 Mbps 方案每月 RM 135，Mini X 購買價 RM 900",
+            "caption": "馬來西亞吉隆坡：訂購頁的 100 Mbps 方案，2026 年 11 月 23 日查詢。Starlink 沒有中文介面，此為英文頁面的範例。",
+            "objectFit": "square",
+            "aspectRatio": 0.9898
+          }
+        ],
+        "comparisonTable": {
+          "caption": "2026 年 11 月 23 日在 starlink.com 讀取的價格，未完成購買。推薦獎勵不是結帳時的折扣，而是服務滿兩個完整計費週期後才入帳。",
+          "headers": [
+            "在 starlink.com 讀到的情況",
+            "沒有推薦連結",
+            "使用 Cecília 的連結",
+            "獎勵代表什麼"
+          ],
+          "rows": [
+            [
+              "馬來西亞示例，Residential 100 Mbps（吉隆坡）",
+              "每月 RM 135，購買 Mini X RM 900，今日付款 RM 989（含運費 RM 89）",
+              "同一筆訂單 + 依國家發放的推薦抵免",
+              "金額以你所在國家的訂購頁為準"
+            ],
+            [
+              "馬來西亞示例，Residential Max（吉隆坡）",
+              "每月 RM 235，租用 Rental Kit (Mini X) RM 0，今日付款 RM 89",
+              "同一筆訂單 + 依國家發放的推薦抵免",
+              "金額以你所在國家的訂購頁為準"
+            ],
+            [
+              "美國示例，Residential 100 Mbps（內華達）",
+              "每月 US$ 38.50，租用套件 US$ 0，今日付款 US$ 20 + 稅",
+              "同一筆訂單 + US$ 100 抵免",
+              "約等於 100 Mbps 方案 2.6 個月的月費"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "開啟訂單並確認推薦獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "simulator": {
+          "title": "試算你的情況",
+          "scenarios": [
+            {
+              "label": "馬來西亞 100 Mbps（購買 Mini X）+ 推薦連結",
+              "lines": [
+                {
+                  "label": "Mini X 設備（購買）",
+                  "value": "RM 900"
+                },
+                {
+                  "label": "月費",
+                  "value": "RM 135／月"
+                },
+                {
+                  "label": "付清兩個週期後的推薦抵免",
+                  "value": "依國家發放，記入帳單",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "今日付款（設備 + 運費）",
+              "totalValue": "RM 989",
+              "note": "價格與官網相同，30 天退貨期間不變。"
+            },
+            {
+              "label": "馬來西亞 Max（租用）+ 推薦連結",
+              "lines": [
+                {
+                  "label": "Rental Kit (Mini X)",
+                  "value": "RM 0，取消時須歸還"
+                },
+                {
+                  "label": "月費",
+                  "value": "RM 235／月"
+                },
+                {
+                  "label": "付清兩個週期後的推薦抵免",
+                  "value": "依國家發放，記入帳單",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "今日付款（含運費）",
+              "totalValue": "RM 89",
+              "note": "抵免之後才入帳，不會降低今天的付款金額。"
+            },
+            {
+              "label": "沒有推薦連結（直接下單／經銷商）",
+              "lines": [
+                {
+                  "label": "設備與方案價格",
+                  "value": "與透過連結下單相同"
+                },
+                {
+                  "label": "推薦抵免",
+                  "value": "0，事後無法補登"
+                },
+                {
+                  "label": "白白錯過的獎勵",
+                  "value": "依國家而定（美國為 US$ 100）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "可領取的推薦獎勵",
+              "totalValue": "0",
+              "note": "推薦必須在付款前出現在最初的訂單上。"
+            }
+          ]
+        }
       },
       {
         "heading": "使用連結的步驟",
         "paragraphs": [
           "從[本站的 Starlink 推薦頁面](/zh-hant/coupons/starlink)開啟連結，輸入你要使用服務的地址。"
+        ],
+        "bullets": [
+          "在訂購頁選擇符合資格的住宅或旅行方案。",
+          "找到推薦已套用的提示，確認畫面上的獎勵金額與當天應付總額。",
+          "在 Starlink 官方網站完成訂購，並留意訂購頁寫明的各項費用。",
+          "啟用設備並查看第一期帳單。付清第一個月並啟用設備，都是推薦計畫的要求。"
+        ],
+        "postParagraphs": [
+          "付款前請再看一次。Starlink 說明，推薦必須出現在原始訂單上，事後補上無效。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+            "alt": "Starlink 官網的訂購頁，出現 Referral Code Applied 提示，說明用此代碼註冊後你與朋友各可獲得 100 美元，形式為現金或服務抵免",
+            "caption": "已套用推薦連結的官網訂購頁（美國內華達的範例）。",
+            "objectFit": "contain",
+            "aspectRatio": 0.8747
+          }
+        ]
+      },
+      {
+        "heading": "付款前的檢查清單",
+        "paragraphs": [
+          "付款前請在畫面上逐項確認。只要兩分鐘，就能決定獎勵是否會出現在你的訂單上。"
+        ],
+        "checklist": {
+          "title": "確認訂單之前",
+          "items": [
+            "我在同一個視窗透過 Cecília 的推薦連結開啟訂單，避免錯過獎勵。",
+            "輸入任何資料之前，我確認網址列仍是 starlink.com。",
+            "我在預定安裝的位置執行了 Starlink 應用程式的遮蔽物檢查，確認天空開闊。",
+            "我在訂單摘要看到推薦已套用的提示、設備價格，以及是否有 12 個月合約。",
+            "付款前，我已截圖保存顯示月費與 30 天規則的訂單摘要。"
+          ]
+        }
+      },
+      {
+        "heading": "獎勵多少，何時入帳",
+        "paragraphs": [
+          "獎勵金額依你註冊時所在的國家而定，會直接顯示在訂購頁，例如在美國是 US$ 100，其他國家請以你的訂單為準。推薦人也會獲得同樣的金額，形式為現金或服務抵免。",
+          "訂閱必須保持有效並按時付款，滿兩個完整計費週期。Starlink 說明中心指出，獎勵最早從啟用後 60 天起發放，實際時間依國家、帳戶與身分驗證而定。",
+          "預設形式是帳單抵免。如果你的帳戶提供現金，請用瀏覽器登入網站，在「推薦」頁面選擇獎勵方式，並完成身分與銀行資料驗證。 獎勵以帳單抵免的形式入帳，不會降低訂單上的設備價格。"
+        ],
+        "emphasis": "獎勵要等訂閱有效並按時付款滿兩個完整計費週期後才發放，預設為帳單抵免，訂閱者與推薦人獲得相同金額；你所在國家的金額會顯示在訂購頁。",
+        "emphasisAfterParagraph": 3
+      },
+      {
+        "heading": "開啟連結就等於承諾什麼嗎？30 天的試用",
+        "paragraphs": [
+          "開啟連結不代表任何承諾。方案價格、設備、是否供應與有無合約，都要在 starlink.com 輸入地址後才會顯示。",
+          "付款後，Starlink 依頁面條款提供 30 天的退貨期間。如果天線在你的屋頂上效果不好，可以在期限內取消服務並寄回設備。在馬來西亞的 Max 訂單上，租用的套件在取消時必須歸還。",
+          "這就是連結要放在試用之前的原因：推薦只計入最初的訂單。沒有連結就去試的人，第一天付的錢相同，但決定留下天線時會錯過推薦獎勵。"
         ],
         "images": [
           {
@@ -295891,25 +300961,13 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 1.8079
           }
         ],
-        "bullets": [
-          "在訂購頁選擇符合資格的住宅或旅行方案。",
-          "找到推薦已套用的提示，確認畫面上的獎勵金額與當天應付總額。",
-          "在 Starlink 官方網站完成訂購，並留意訂購頁寫明的各項費用。",
-          "啟用設備並查看第一期帳單。付清第一個月並啟用設備，都是推薦計畫的要求。"
-        ],
-        "postParagraphs": [
-          "付款前請再看一次。Starlink 說明，推薦必須出現在原始訂單上，事後補上無效。"
+        "links": [
+          {
+            "label": "下單前先確保獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
-      },
-      {
-        "heading": "獎勵多少，何時入帳",
-        "paragraphs": [
-          "獎勵金額依你註冊時所在的國家而定，會直接顯示在訂購頁，例如在美國是 US$ 100，其他國家請以你的訂單為準。推薦人也會獲得同樣的金額，形式為現金或服務抵免。",
-          "訂閱必須保持有效並按時付款，滿兩個完整計費週期。Starlink 說明中心指出，獎勵最早從啟用後 60 天起發放，實際時間依國家、帳戶與身分驗證而定。",
-          "預設形式是帳單抵免。如果你的帳戶提供現金，請用瀏覽器登入網站，在「推薦」頁面選擇獎勵方式，並完成身分與銀行資料驗證。"
-        ],
-        "emphasis": "獎勵要等訂閱有效並按時付款滿兩個完整計費週期後才發放，預設為帳單抵免，訂閱者與推薦人獲得相同金額；你所在國家的金額會顯示在訂購頁。",
-        "emphasisAfterParagraph": 3
       },
       {
         "heading": "誰可以使用",
@@ -295927,15 +300985,38 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "黑色星期五優惠怎麼配合？",
+        "heading": "點了連結仍會錯過獎勵的 4 個錯誤",
         "paragraphs": [
-          "推薦獎勵是否和黑色星期五優惠同時顯示，依地址而異。請看[黑色星期五訂單怎麼算](/zh-hant/reviews/starlink-black-friday-zh-hant)，再用你的地址查看。"
+          "錯過獎勵的情況，大多出在以下四點之一。"
+        ],
+        "bullets": [
+          "在經銷商或電商平台購買設備。計畫只計入在 starlink.com 透過連結下的訂單。",
+          "沒確認提示就付款。推薦必須出現在最初的訂單上，事後無法補登：畫面上沒有提示時，請在付款前重新開啟連結。如果下單途中換了裝置或瀏覽器，請再開一次連結並重新確認提示。",
+          "現有客戶或曾經的客戶使用連結。獎勵只給第一次訂閱 Starlink 的人。",
+          "太早取消。獎勵需要訂閱有效並按時付款滿兩個完整計費週期，發放最早從啟用後 60 天起。"
         ]
       },
       {
-        "heading": "如何追蹤",
+        "heading": "黑色星期五優惠怎麼配合？",
         "paragraphs": [
-          "在網站或應用程式的「推薦」頁面，可以查看透過你的連結訂閱的人的狀態。有人下單時，Starlink 會寄電子郵件通知。推薦在產生獎勵前，可能還要經過資格審查。"
+          "推薦獎勵是否和黑色星期五優惠同時顯示，依地址而異。請看[黑色星期五訂單怎麼算](/zh-hant/reviews/starlink-black-friday-zh-hant)，再用你的地址查看。",
+          "在馬來西亞的 Max 訂單摘要中，Starlink 顯示每月 RM 235、Hardware Rental 每月 RM 0、Rental Kit (Mini X) RM 0，今日付款 RM 89。若你擔心合約，也可以參考[Starlink 合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)與[Starlink 值得買嗎](/zh-hant/reviews/starlink-worth-it-zh-hant)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+            "alt": "馬來西亞的 Starlink Max 訂單摘要：每月 RM 235，Hardware Rental 每月 RM 0，Rental Kit (Mini X) RM 0，今日付款 RM 89",
+            "caption": "馬來西亞：Max 方案的訂單摘要，2026 年 11 月 23 日查詢（英文介面範例）。",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8154
+          }
+        ]
+      },
+      {
+        "heading": "如何追蹤，以及使用自己的連結",
+        "paragraphs": [
+          "在網站或應用程式的「推薦」頁面，可以查看透過你的連結訂閱的人的狀態。有人下單時，Starlink 會寄電子郵件通知。推薦在產生獎勵前，可能還要經過資格審查。",
+          "當你成為符合資格的住宅或旅行方案有效客戶後，也可以自己推薦，推薦人會獲得與新客戶相同的金額。你所在國家的金額會顯示在訂閱者的訂購頁上。"
         ]
       },
       {
@@ -295947,13 +301028,14 @@ export const reviewsData: unknown[] = [
           "Starlink 獎勵何時入帳？說明中心指出，獎勵最早從啟用後 60 天起發放，前提是推薦符合計畫條件。",
           "在電商平台買的設備可以用推薦嗎？不行。計畫要求直接在 starlink.com 透過連結購買。",
           "我以前是客戶，還能用這個連結嗎？獎勵只給第一次訂閱 Starlink 的人。",
-          "推薦連結在各國都有效嗎？在 Starlink 銷售的多數國家有效，金額依國家而不同。請輸入你的地址，並以訂購頁顯示為準。"
+          "推薦連結在各國都有效嗎？在 Starlink 銷售的多數國家有效，金額依國家而不同。請輸入你的地址，並以訂購頁顯示為準。",
+          "付款之後還能補上推薦嗎？不能。Starlink 要求推薦必須出現在付款前最初的訂單上，也就是在 starlink.com 透過推薦連結下單。"
         ]
       }
     ],
     "cta": {
-      "text": "付款前，先在訂購頁確認你的地址適用的獎勵金額。",
-      "label": "在訂單上查看推薦獎勵",
+      "text": "你付的價格與官網完全相同，天線在屋頂上不好用時 30 天內可退貨，並在兩個計費週期後領取所在國家的推薦抵免。",
+      "label": "前往官網確認訂單與推薦獎勵",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -295988,8 +301070,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-zh-hant",
     "locale": "zh-hant",
     "translationKey": "starlink-black-friday",
-    "title": "Starlink 黑色星期五 2026：首單怎麼算，推薦獎勵何時入帳",
-    "seoTitle": "Starlink 黑色星期五 2026：首單怎麼算",
+    "title": "Starlink 2026 黑色星期五：馬來西亞、美國、日本的真實訂單怎麼算，推薦獎勵何時入帳",
+    "seoTitle": "Starlink 2026 黑色星期五：三個市場的訂單怎麼算",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -296000,8 +301082,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "看 Starlink 黑色星期五優惠如何落在你的地址、推薦獎勵何時入帳，以及用訂購頁的金額算出首單淨成本。",
-    "metaDescription": "Starlink 黑色星期五優惠依地址而異。看首單怎麼算、推薦獎勵何時入帳，以及如何在訂購頁確認。",
+    "description": "Starlink 官網沒有中文介面。我們用馬來西亞、美國和日本的真實訂購頁，算清當天應付、月費、設備是租是買，以及推薦獎勵何時入帳。",
+    "metaDescription": "Starlink 黑色星期五優惠依地址而異。看馬來西亞、美國、日本的訂單怎麼算，設備是租還是買，以及推薦獎勵何時入帳。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -296016,57 +301098,125 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "首單淨成本等於訂購頁當天應付總額，減去推薦畫面顯示的獎勵。獎勵要等服務完整計費兩個月後才發放，在那之前，到期的月費仍要照付。只有把你地址的金額代入才知道成本是否接近零，因為優惠依地址而異。"
+          "Starlink 官網沒有中文介面，所以我們讀了馬來西亞、美國和日本的訂購頁：馬來西亞 100 Mbps 月費 RM 135 且設備需購買（RM 900），Max 月費 RM 235 且設備免費租用；美國 100 Mbps 優惠後月費 US$38.50，設備租用 US$0；日本ホーム優惠後月費 ¥3,550。美國和日本的優惠到 11 月 30 日。推薦獎勵依國家而定，例如美國是 US$100，只在透過推薦連結開啟的訂單上計算，並在滿兩個完整計費週期後發放。"
         ]
       },
       {
-        "heading": "首單怎麼算",
+        "heading": "三個市場的訂單：月費、設備與當天應付",
         "paragraphs": [
-          "折扣比例、適用月數和設備費用因市場及服務地址而異。請先在 Starlink 官網輸入安裝地址，確認當地是否提供服務，再查看有沒有適用的優惠和申請期限。",
-          "先把當天應付總額和獎勵入帳前到期的月費加起來。已列在當天總額的費用只算一次。如果訂購符合推薦資格，再扣除可獲得的獎勵。"
+          "我們在 11 月 23 日讀了三個市場的訂購頁，沒有完成購買。馬來西亞（吉隆坡）：100 Mbps 月費 RM 135，設備是購買，Mini X 要 RM 900，當天應付 RM 989；Max 月費 RM 235，設備是租用，租賃費 RM 0，當天只付運費 RM 89。同一個國家、同一個地址，兩個方案的設備方式並不一樣。",
+          "美國（內華達州）：100 Mbps 優惠後月費 US$38.50（原價 US$55），設備租用 US$0，當天應付 US$20 加稅。日本（東京）：ホーム方案優惠後月費 ¥3,550（原價 ¥7,100），設備租用 ¥0，當天應付運費 ¥3,000。推薦獎勵在美國是 US$100，在日本是 ¥7,000，是帳單抵扣，不會降低設備價格。"
         ],
         "comparisonTable": {
           "headers": [
-            "要記下的項目",
-            "在訂購頁哪裡看"
+            "市場與方案",
+            "月費",
+            "設備",
+            "當天應付"
           ],
           "rows": [
             [
-              "當天應付總額",
-              "訂購頁的當天應付總額"
+              "馬來西亞，100 Mbps",
+              "RM 135",
+              "購買 Mini X，RM 900",
+              "RM 989"
             ],
             [
-              "硬體是租賃還是購買",
-              "設備一欄的費用與取消條件"
+              "馬來西亞，Max",
+              "RM 235",
+              "租用，RM 0",
+              "RM 89"
             ],
             [
-              "月費與優惠期",
-              "所選方案旁的價格說明"
+              "美國內華達州，100 Mbps",
+              "US$38.50（原價 US$55）",
+              "租用，US$0",
+              "US$20 加稅"
             ],
             [
-              "推薦獎勵金額",
-              "推薦已套用的提示"
-            ],
-            [
-              "優惠截止日",
-              "橫幅與訂購頁的活動說明"
+              "日本東京，ホーム",
+              "¥3,550（原價 ¥7,100）",
+              "租用，¥0",
+              "¥3,000"
             ]
           ],
-          "caption": "以你自己地址的訂購頁為準。"
+          "caption": "2026 年 11 月 23 日讀取的訂購頁。美國和日本的優惠下單截止到 11 月 30 日。"
         },
-        "images": [
-          {
-            "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
-            "alt": "Starlink 標準天線與路由器",
-            "caption": "Starlink 天線與路由器。照片：Starlink",
-            "objectFit": "contain",
-            "aspectRatio": 1.3316
-          }
+        "simulator": {
+          "title": "快速試算",
+          "scenarios": [
+            {
+              "label": "美國 100 Mbps，用推薦連結",
+              "lines": [
+                {
+                  "label": "月費（優惠後）",
+                  "value": "US$38.50"
+                },
+                {
+                  "label": "設備租用",
+                  "value": "US$0，取消時需歸還"
+                },
+                {
+                  "label": "推薦獎勵（兩個計費週期後）",
+                  "value": "-US$100 抵扣",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "當天應付",
+              "totalValue": "US$20 加稅",
+              "note": "前兩期帳單要自己先付，獎勵以帳戶抵扣的形式入帳。"
+            },
+            {
+              "label": "日本ホーム，用推薦連結",
+              "lines": [
+                {
+                  "label": "月費（優惠後）",
+                  "value": "¥3,550"
+                },
+                {
+                  "label": "設備租用",
+                  "value": "¥0，取消時需歸還"
+                },
+                {
+                  "label": "推薦獎勵（兩個計費週期後）",
+                  "value": "-¥7,000 抵扣",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "當天應付",
+              "totalValue": "¥3,000",
+              "note": "優惠價過後按原價 ¥7,100 計算，獎勵約等於 1 個月。"
+            },
+            {
+              "label": "不用推薦連結，直接下單",
+              "lines": [
+                {
+                  "label": "方案與設備的價格",
+                  "value": "和用連結時一樣"
+                },
+                {
+                  "label": "推薦獎勵",
+                  "value": "0"
+                },
+                {
+                  "label": "你放棄的金額",
+                  "value": "US$100 或 ¥7,000",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "收到的獎勵",
+              "totalValue": "0",
+              "note": "推薦只在付款前透過推薦連結開啟的訂單上有效。"
+            }
+          ]
+        },
+        "postParagraphs": [
+          "馬來西亞的例子說明為什麼要看每個方案的設備那一行：100 Mbps 要買 Mini X，Max 則是免費租用，兩者月費相差 RM 100。讀訂購頁時，先看設備是購買還是租用，再比較月費。"
         ],
-        "emphasis": "依訂購頁的算法，首單淨成本等於當天應付總額減去推薦獎勵，而獎勵要完整計費兩個月後才發放，所以在那之前到期的月費仍要照付。",
+        "emphasis": "各國訂購頁的月費、設備方式和當天應付各不相同，所以優惠是否划算，只能看你所在地址訂購頁上的當天應付總額；推薦獎勵要滿兩個完整計費週期後才發放，在那之前月費照付。",
         "links": [
           {
-            "label": "查看你地址的方案",
+            "label": "查看你地址的黑色星期五與推薦獎勵",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -296075,51 +301225,111 @@ export const reviewsData: unknown[] = [
       {
         "heading": "訂購頁怎麼看",
         "paragraphs": [
-          "開啟連結，輸入要安裝天線的地址，選擇方案，再找推薦已套用的提示。確認提示出現後，再查看獎勵金額與優惠說明。",
-          "從[本站的 Starlink 頁面](/zh-hant/coupons/starlink)開啟連結，並看該頁的計畫規則。"
-        ]
-      },
-      {
-        "heading": "推薦他人的獎勵",
-        "paragraphs": [
-          "訂閱之後，你也可以推薦別人。推薦人獲得同樣的金額，形式為現金或服務抵免。被推薦的人需要完成要求的計費週期，獎勵才會發放。",
-          "細節見[推薦連結怎麼用](/zh-hant/reviews/starlink-referral-zh-hant)。實際金額請在你的帳戶中確認。"
+          "截圖是透過推薦連結開啟的美國訂單，上面有「Referral Code Applied」的提示。透過連結開啟的訂單會顯示推薦已套用，以及你所在國家的獎勵金額。",
+          "要核對自己的優惠，先開啟連結，輸入地址，付款前找同樣的提示，再看訂單有沒有顯示獎勵金額與月費條件。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+            "alt": "Starlink 官網的訂購頁面，顯示 Referral Code Applied，說明用這個代碼註冊後你和朋友各獲得 100 美元，形式為現金或服務抵免",
+            "caption": "官網訂購頁，推薦連結已套用（美國範例，各國獎勵金額不同）。",
+            "aspectRatio": 0.8747,
+            "objectFit": "contain"
+          }
         ]
       },
       {
         "heading": "你的地址適用嗎？",
         "paragraphs": [
-          "優惠依地址顯示，同一國家的不同地區也可能不同。有些地區標示「僅限部分區域」。換地址重新查一次，看橫幅與訂購頁是否一致。"
+          "優惠依地址顯示，同一國家的不同地區也可能不同。輸入你的地址再看，別用別人的截圖判斷。",
+          "下面這張是馬來西亞吉隆坡的訂購頁：100 Mbps 月費 RM 135，Mini X 需要購買，RM 900。把它和美國、日本的訂單放在一起看，就能明白為什麼不能直接套用別人的價格。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+            "alt": "Starlink 馬來西亞吉隆坡訂購頁，100 Mbps 月費 RM 135，Mini X 購買價 RM 900",
+            "caption": "吉隆坡訂購頁，2026 年 11 月 23 日讀取：100 Mbps 月費 RM 135，設備購買 RM 900。",
+            "aspectRatio": 0.9898,
+            "objectFit": "square"
+          }
         ]
       },
       {
-        "heading": "合約與設備歸還",
+        "heading": "設備是租還是買，退貨與 30 天試用",
         "paragraphs": [
-          "請在訂購頁確認硬體是租賃或購買、取消時是否須歸還、退回設備的期限，以及哪些費用可退款。",
-          "更多取消規則見[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+          "設備是租還是買，訂購頁會寫明。租用的設備在取消服務時要歸還；購買的設備則歸你。官網說明，取消服務並在付款到期日起 30 天內把設備完好退回，設備和第一個月費用會退還。所以開啟訂單不花錢：先看自己地址的價格，在屋頂上試裝天線，再決定是否繼續。",
+          "在馬來西亞的 Max 訂單裡，租賃費和設備都是 RM 0，月費 RM 235。合約與操作步驟見[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+            "alt": "Starlink 馬來西亞 Max 訂單摘要，月費 RM 235，硬體租賃 RM 0，租用設備 Mini X RM 0，當天應付 RM 89",
+            "caption": "吉隆坡 Max 訂單摘要（2026 年 11 月 23 日）：月費 RM 235，硬體租賃 RM 0，當天應付 RM 89。",
+            "aspectRatio": 0.8154,
+            "objectFit": "portrait"
+          }
+        ],
+        "links": [
+          {
+            "label": "付款前先鎖定推薦獎勵",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "優惠期結束之後",
+        "heading": "優惠期結束之後：怎樣守住價格",
         "paragraphs": [
-          "優惠期結束後，月費通常回到你所在地區的標準價格，這個價格可能調整。更換方案、取消或暫停後促銷價會怎樣，以你自己訂單上的條款為準。"
+          "美國和日本的優惠下單截止到 11 月 30 日。優惠期結束後，月費會回到你所在地區的標準價格，這個價格可能調整。如果打算長期使用，請用標準價格再算一遍。更換方案、取消或暫停後促銷價會怎樣，以你自己訂單上的條款為準。",
+          "付款前，先把訂單摘要截圖保存下來，裡面要有月費、設備那一行和推薦已套用的提示，再和第一張帳單對照。如果帳單對不上，在帳戶裡提交支援請求並附上截圖。"
+        ]
+      },
+      {
+        "heading": "推薦獎勵怎麼進入這筆帳",
+        "paragraphs": [
+          "透過推薦連結訂購後，訂單裡會出現「推薦碼已套用」的提示。獎勵要在服務滿兩個完整計費週期後發放，形式是帳單抵扣，部分國家還提供現金。推薦人也會拿到同樣的獎勵。",
+          "細節見[推薦連結怎麼用](/zh-hant/reviews/starlink-referral-zh-hant)。實際金額請在你的帳戶中確認。"
+        ]
+      },
+      {
+        "heading": "會讓你丟掉獎勵的 4 個錯誤",
+        "paragraphs": [
+          "即使點了連結，也可能因為小疏忽丟掉獎勵："
+        ],
+        "bullets": [
+          "先在電商平台或門市買了設備，之後才想用連結。推薦只在 starlink.com 上、付款前透過推薦連結開啟的訂單上有效。",
+          "在手機上開啟連結，幾個小時後換另一台裝置完成訂單，卻沒有重新開啟連結。推薦可能不會跟著訂單走：請在同一台裝置上完成，或重新開啟連結，確認看到綠色提示。",
+          "用已經有過 Starlink 帳戶的姓名、信箱或地址註冊。獎勵只給新客戶。",
+          "在付滿兩個計費週期之前取消或延遲付款。獎勵只在服務有效且帳單已付清時入帳。"
+        ],
+        "postParagraphs": [
+          "如果訂單已經在沒有連結的情況下付款，之後就無法補上推薦。"
+        ]
+      },
+      {
+        "heading": "如何使用連結",
+        "paragraphs": [
+          "開啟連結不會讓你承擔任何義務：價格、是否可訂購和優惠，都要輸入地址之後才會顯示。輸入要安裝天線的地址，選好方案，確認推薦已套用，並在付款前保存訂單裡顯示的優惠。",
+          "從[本站的 Starlink 頁面](/zh-hant/coupons/starlink)開啟連結，並看該頁的計畫規則。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
           "Starlink 有優惠碼嗎？沒有。Starlink 沒有優惠券：透過 Cecília 的推薦連結訂購的人，服務滿兩個月後會以帳單抵扣的方式獲得獎勵，推薦人獲得同樣金額。金額依國家而異，例如在美國是 100 美元。",
-          "Starlink 有黑色星期五優惠嗎？部分市場及地址有優惠。請在官網輸入安裝地址，查看訂購頁是否顯示活動。",
-          "推薦獎勵能和優惠一起拿嗎？是否同時顯示，請看你地址的訂購頁。獎勵要等符合資格並完整計費兩個月後發放。",
-          "訂購時要付多少？以訂購頁的當天應付總額為準，金額因國家、設備與安裝方式不同。",
-          "硬體有綁約嗎？依地區，硬體可能租賃或購買，請看設備一欄的條款。",
+          "Starlink 有黑色星期五優惠嗎？有。美國訂購頁給出 30% 的月費優惠，日本給出 50%，都以 11 月 30 日為限；馬來西亞我們沒有記錄折扣。輸入安裝地址，查看訂購頁是否顯示活動。",
+          "推薦獎勵能和優惠一起拿嗎？訂單裡是兩條獨立的行。是否同時顯示，請看你地址的訂購頁。獎勵要等符合資格並完整計費兩個月後發放。",
+          "訂購時要付多少？以訂購頁的當天應付總額為準。吉隆坡的 100 Mbps 是 RM 989，Max 是 RM 89，美國是 US$20 加稅，日本是 ¥3,000。",
+          "設備是租還是買？依國家與方案而異。馬來西亞的 100 Mbps 要買 Mini X，Max 是租用；美國和日本是租用，取消時要歸還。",
+          "訂購前能先試用嗎？可以。取消服務並在付款到期日起 30 天內把設備完好退回，設備和第一個月費用會退還。",
+          "付款之後還能補推薦嗎？不能。推薦只在付款前透過推薦連結開啟的訂單上有效。",
           "優惠到什麼時候？請以你所在市場的訂購頁為準，分別查看申請截止日和優惠價適用多久。"
         ]
       }
     ],
     "cta": {
-      "text": "訂購頁會在 starlink.com 開啟。付款前，先查看你地址的優惠、合約與推薦獎勵。",
-      "label": "查看我的地址的優惠",
+      "text": "價格和官方訂購頁一樣，如果天線在你的屋頂上用不了，30 天內還能退回設備；滿兩個計費週期後，推薦獎勵會以抵扣的形式進入你的帳單。",
+      "label": "查看我的地址並鎖定推薦獎勵",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -296140,11 +301350,11 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "你地址的訂購頁在付款前顯示方案優惠與設備條件。",
+        "你地址的訂購頁在付款前顯示方案優惠與設備是租還是買。",
         "你能等滿兩個完整計費週期再拿獎勵，期間自己先付月費。"
       ],
       "skipIf": [
-        "訂購頁沒有顯示優惠，因為我們讀到的價格只屬於某一個地址。",
+        "訂購頁沒有顯示優惠，因為我們讀到的價格只屬於查看過的地址。",
         "你可能很快就取消，不想冒歸還設備或失去優惠價的風險。"
       ]
     }
@@ -296154,8 +301364,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-worth-it-zh-hant",
     "locale": "zh-hant",
     "translationKey": "starlink-vale-a-pena",
-    "title": "Starlink 值得買嗎？12 個月成本怎麼算，適合哪些人",
-    "seoTitle": "Starlink 值得買嗎？12 個月成本",
+    "title": "Starlink 值得買嗎？成本試算、光纖不穩地區與備援網路評估",
+    "seoTitle": "Starlink 值得買嗎？成本試算、光纖不穩與備援",
     "type": "購買指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -296166,8 +301376,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "比較 Starlink 十二個月的總成本與你家現有的網路。看設備、合約如何依地址而異，以及怎麼確認天線的安裝位置。",
-    "metaDescription": "Starlink 值得買嗎？十二個月成本怎麼算、設備與合約依地址不同，以及什麼情況下光纖或 4G 更划算。",
+    "description": "不只適合無光纖地區：若當地光纖常斷線或網速遠低於合約，Starlink 也能作為替代或備援網路。比較方案費用、硬體條件與天空遮擋檢查。",
+    "metaDescription": "Starlink 值得買嗎？除無寬頻地區外，本文也從當地光纖不穩與備援需求分析何時值得申裝。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -296182,51 +301392,128 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "在缺少穩定網路的鄉間住家，Starlink 可能值得。如果已經有可靠的光纖，換之前先比較十二個月的總成本：把設備加上你地址的月費，確認有沒有合約，再用 Starlink 應用程式評估天線能裝在哪裡。"
+          "是的，Starlink 不只適合沒有光纖的地方，也適合有光纖卻常常斷線、或實際網速遠低於合約的家庭。我們自己也是為了替代並備援不穩定的光纖而申裝 Starlink。如果現有光纖確實穩定，費用與延遲仍是光纖占優。試用的風險不高：馬來西亞的 Max 方案設備租賃 RM 0，100 Mbps 方案的設備購買後也有 30 天可退。"
         ]
       },
       {
         "heading": "十二個月成本怎麼算",
         "paragraphs": [
-          "價格依國家與地址而異，這裡不列金額。請在 starlink.com 輸入你的地址，把訂購頁的數字填進下表。"
+          "2026 年 11 月 23 日，我們讀了馬來西亞吉隆坡一個公開地址的訂購頁。Starlink 的選單沒有中文，台灣、香港與中國大陸也沒有看到住宅直營銷售，所以這裡用馬來西亞當例子：同一個地址同時出現購買與租賃兩種硬體模式。價格依國家與地址而異，請在 starlink.com 輸入你的地址，以訂購頁的數字為準。"
         ],
         "comparisonTable": {
           "headers": [
-            "成本項目",
-            "你要確認的事"
+            "馬來西亞吉隆坡",
+            "訂購頁顯示"
           ],
           "rows": [
             [
-              "設備",
-              "租賃還是購買，取消時是否須歸還"
+              "100 Mbps 月費",
+              "RM 135"
             ],
             [
-              "月費",
-              "所選方案的月費，以及促銷價維持幾個月"
+              "100 Mbps 設備",
+              "Mini X 購買，RM 900"
             ],
             [
-              "安裝",
-              "自行安裝，還是另付專業安裝"
+              "Max 月費",
+              "RM 235"
             ],
             [
-              "合約",
-              "訂購頁是否要求最短期限或提前退出的費用"
+              "Max 設備",
+              "Rental Kit (Mini X) 租賃，RM 0"
             ],
             [
-              "優惠",
-              "當天應付總額，以及推薦獎勵何時入帳"
+              "運費（當天付款）",
+              "RM 89"
             ]
           ],
-          "caption": "把設備加上十二個月月費，並先不計推薦獎勵。"
+          "caption": "訂購頁顯示的價格，未計推薦獎勵與稅費。促銷價維持多久，請在你自己的訂購頁確認。"
+        },
+        "simulator": {
+          "title": "試算：每種情況要付多少",
+          "scenarios": [
+            {
+              "label": "100 Mbps（購買 Mini X）",
+              "lines": [
+                {
+                  "label": "Mini X 設備（購買）",
+                  "value": "RM 900",
+                  "highlight": true
+                },
+                {
+                  "label": "月費",
+                  "value": "RM 135"
+                },
+                {
+                  "label": "運費",
+                  "value": "RM 89"
+                }
+              ],
+              "totalLabel": "當天付款（設備＋運費）",
+              "totalValue": "RM 989",
+              "note": "設備買斷；30 天內歸還才可退款，請看訂購頁條件。"
+            },
+            {
+              "label": "Max（租賃套件）",
+              "lines": [
+                {
+                  "label": "Rental Kit (Mini X)",
+                  "value": "RM 0（租賃）",
+                  "highlight": true
+                },
+                {
+                  "label": "月費",
+                  "value": "RM 235"
+                },
+                {
+                  "label": "運費",
+                  "value": "RM 89"
+                }
+              ],
+              "totalLabel": "當天付款（運費）",
+              "totalValue": "RM 89",
+              "note": "取消服務時必須歸還租賃設備。"
+            },
+            {
+              "label": "十二個月比較（不含運費）",
+              "lines": [
+                {
+                  "label": "100 Mbps：設備＋12 個月月費",
+                  "value": "RM 2,520"
+                },
+                {
+                  "label": "Max：12 個月月費（設備租賃 RM 0）",
+                  "value": "RM 2,820"
+                },
+                {
+                  "label": "兩者差額",
+                  "value": "RM 300",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Max 比 100 Mbps 多出",
+              "totalValue": "RM 300",
+              "note": "假設月費全年不變；實際促銷價期限以訂購頁為準。"
+            }
+          ]
         },
         "postParagraphs": [
-          "先在不含推薦獎勵的情況下算，再看獎勵能抵多少。獎勵說明見[推薦連結指南](/zh-hant/coupons/starlink)。"
+          "先在不含推薦獎勵的情況下算，再看獎勵能抵多少。透過我們的連結訂閱，滿兩個月後可獲得獎勵，金額依國家而定（例如美國為 US$ 100）。獎勵說明見[推薦連結指南](/zh-hant/coupons/starlink)。"
         ],
         "links": [
           {
-            "label": "查看你地址的方案",
+            "label": "用我的地址試算方案與設備",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
+          }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+            "alt": "Starlink 馬來西亞吉隆坡官方訂購畫面，顯示 100 Mbps 月費 RM 135 與 Mini X 購買價 RM 900",
+            "caption": "吉隆坡訂購頁（2026 年 11 月 23 日查詢）：100 Mbps 月費與購買 Mini X。",
+            "objectFit": "square",
+            "aspectRatio": 0.9898
           }
         ]
       },
@@ -296252,12 +301539,40 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "什麼時候該和光纖或 4G 比較",
+        "heading": "不只算價格：當地光纖不穩與作為備援網路",
         "paragraphs": [
-          "如果已經有穩定的光纖，請把每個方案的安裝費、月費與可能的合約加起來比較。4G 則要加上你需要的設備費用，並確認流量夠全家使用。"
+          "只比較月費並不夠，因為住處既有的便宜固網可能每週斷線，或只給出合約速度的一小部分。地區業者與擁擠的網路常見電纜被切斷、未預告的維護以及晚間降速。如果你在家工作、常開視訊會議，或依賴監視器與智慧家庭設備，這比每月差幾塊錢更要緊。",
+          "就我們自己的情況而言，我們是為了替代並備援不穩定的光纖而申裝 Starlink。訊號來自衛星，不依賴街上的電纜，也不依賴同一家業者，因此可以取代有問題的光纖，也可以在光纖斷線時當作備用路徑。",
+          "試用的風險不高：以馬來西亞為例，Max 的設備租賃 RM 0，100 Mbps 購買設備後仍有 30 天可退。你可以在自己的屋頂實測真實穩定度，問題解決才續訂。如果你考慮改用 4G 或 5G 家用路由器當備援，請加上路由器費用並確認流量。"
         ],
-        "emphasis": "地址沒有穩定光纖、4G 也不理想時，Starlink 才值得放進比較；已有穩定光纖的話，只有設備加月費的十二個月總額低於現有連線時，換過去才划算。",
-        "emphasisAfterParagraph": 1
+        "emphasis": "如果光纖確實穩定且達到合約速度，單為月費換過去很少划算；如果當地網路頻繁斷線或嚴重降速，Starlink 作為主線或備援線，就靠穩定性與獨立性而有價值。",
+        "emphasisAfterParagraph": 3,
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+            "alt": "可作為主線或備援網路的 Starlink 官方天線與路由器",
+            "caption": "獨立於當地業者線路的 Starlink 官方天線與路由器。照片：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.3316
+          }
+        ]
+      },
+      {
+        "heading": "怎麼把 Starlink 放在不穩的光纖旁邊使用",
+        "paragraphs": [
+          "這一段是一般性的操作建議，不是我們自己的安裝紀錄。把 Starlink 放在不穩定的光纖旁邊，有兩種做法，從最簡單到自動切換。",
+          "第 1 級，不用額外花錢：保留 Starlink 的 Wi-Fi 當第二個網路，光纖在開會中斷線時，把手機或筆電切過去。這是手動切換，只要幾秒，但你得先發現斷線並自己動手。",
+          "第 2 級，自動切換：使用支援 Dual-WAN（或 Multi-WAN）與 failover 的路由器。光纖接一個 WAN 埠，Starlink 接另一個，路由器偵測到光纖斷線就把流量轉到 Starlink。這時 Starlink 通常透過應用程式的 bypass 模式接到你自己的路由器，由你的路由器管理網路。不同型號需要的配件不同，有些套件要乙太網路轉接器，請向 Starlink 支援確認。",
+          "自動切換時，因為對外位址會改變，進行中的通話與 VPN 可能要重新連線幾秒。依賴它之前先測試：把光纖拔掉幾分鐘，看通話、監視器與遠端工作是否自動恢復。"
+        ]
+      },
+      {
+        "heading": "大雨、強風與停電時",
+        "paragraphs": [
+          "早期的高軌道衛星網路，延遲高達數百毫秒，不利於通話與遊戲。Starlink 使用低軌道衛星，並公布陸地上的典型延遲為 25 到 60 毫秒，這是官方參考值，不是我們地址的實測。",
+          "非常大的雨、雪與風暴可能讓效能暫時下降，風大的地方也要把天線固定牢。和光纖相比，街上被切斷的電纜有時要等很久才修好，而 Starlink 不依賴它。",
+          "停電也要考慮：Starlink 的天線與路由器需要電力，光纖的設備也一樣。依 Starlink 規格列出的耗電量配一台 UPS 或行動電源站，短時間停電時可以維持連線。如果整個社區停電，街上的網路也可能中斷，所以依賴它之前先整組測試。"
+        ]
       },
       {
         "heading": "速度與遊戲",
@@ -296275,47 +301590,57 @@ export const reviewsData: unknown[] = [
       {
         "heading": "合約與退出",
         "paragraphs": [
-          "在訂購頁確認硬體是租賃或購買、取消時是否須歸還，以及當地的退款條件。詳見[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
+          "在馬來西亞的例子裡，100 Mbps 的設備是購買，Max 的設備是租賃，兩者都沒有看到十二個月的最短合約。租賃設備在取消時必須歸還，30 天內取消並歸還設備可按訂購頁條件退款。詳見[合約與取消指南](/zh-hant/reviews/starlink-cancel-zh-hant)。",
+          "打開訂購頁不需要任何費用：價格、優惠與是否可供應，要在 starlink.com 輸入地址後才會出現。推薦只有在透過推薦連結、付款之前、在 starlink.com 下單時才算數，在購物平台買的不適用。"
+        ],
+        "links": [
+          {
+            "label": "在我的地址試用，30 天內可退",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "用戶的抱怨",
         "paragraphs": [
-          "Starlink 在 Trustpilot 的評分偏低，最常見的抱怨是客服難以聯絡，以及月費與額外費用上漲。請保留訂購頁的優惠畫面，和帳單對照。詳見[Trustpilot 評分的解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
+          "Starlink 在 Trustpilot 的評分是 1.6，最常見的抱怨是客服難以聯絡，以及月費與額外費用上漲。請保留訂購頁的優惠畫面，和帳單對照。詳見[Trustpilot 評分的解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
           "Starlink 有折扣優惠券嗎？沒有。Starlink 沒有優惠券：透過我們的推薦連結訂閱，滿兩個月後可獲得獎勵，金額依國家而定（例如美國為 US$ 100），預設為帳單抵免，推薦人也獲得相同金額。",
-          "住在市區值得買 Starlink 嗎？如果地址已有穩定光纖，換之前請比較安裝費、月費與合約。",
-          "Starlink 比光纖好嗎？沒有好光纖的地方，值得詢價並確認天空是否開闊。兩者都有時，比較你地址的穩定度與成本。",
+          "住在市區值得買 Starlink 嗎？取決於你現有光纖到底好不好。又便宜又穩定，費用上通常光纖勝出。如果常斷線或遠低於合約速度，在天空開闊的前提下，Starlink 可作為替代或備援。我們就是這個原因申裝的。",
+          "Starlink 比光纖好嗎？在最高速度與延遲上，健康的光纖通常占優。在對抗區域性故障與街上電纜被切斷的持續性上，Starlink 是獨立於當地業者的路徑，有幫助。",
           "Starlink 適合玩遊戲嗎？請在你的地址測試延遲與中斷。官方公布的典型延遲只是一般參考。",
           "Starlink 流量沒有上限嗎？Starlink 標示住宅方案流量不限。請看訂購頁的方案速度限制。",
-          "Starlink 一個月多少錢？依國家與地址而異。請輸入你的地址，以訂購頁顯示的價格為準。"
+          "Starlink 一個月多少錢？依國家與地址而異。以馬來西亞吉隆坡為例，100 Mbps 月費 RM 135，Max 月費 RM 235。請輸入你的地址，以訂購頁顯示的價格為準。",
+          "可以把 Starlink 當光纖的備援嗎？可以。使用支援 failover 的 Dual-WAN 路由器，光纖斷線時由 Starlink 接手；沒有的話可以手動切換網路。bypass 模式需要的設備，請向 Starlink 支援確認。"
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "你的地址沒有好的光纖，4G 訊號也不理想。",
-        "你接受訂購頁寫明的合約條件，也知道價格依地址而變。"
+        "即使有便宜的光纖，當地網路仍常斷線或遠低於合約速度，而你需要可靠的替代或備援網路。",
+        "你已用 Starlink 應用程式確認天空視野，並接受訂購頁寫明的設備與合約條件。"
       ],
       "skipIf": [
-        "你的地址已有穩定光纖，不必另外負擔設備或合約。",
-        "你需要反應很快的線上遊戲，而官方公布的延遲只是參考值，沒有你地址的實測。"
+        "你已有穩定且達到合約速度的光纖，沒有頻繁到需要備援的斷線。",
+        "你需要延遲有保證的競技型線上遊戲，而官方公布的延遲只是參考值，沒有你地址的實測。"
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在 Starlink 官方網站輸入地址，付款前先確認方案、設備與月費。",
-      "label": "查看我的地址的方案",
+      "text": "以和官方網站相同的價格下單，若在你的屋頂不能用，可在 30 天內退回；推薦獎勵依國家而定（例如美國為 US$ 100），符合規則後以帳單抵免發放。",
+      "label": "透過推薦連結在 starlink.com 查看我的地址",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "價格與規則取自官方訂購頁面，未完成購買。我們尚未實際使用此服務。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
+    "editorialNote": "我們為了替代並備援不穩定的光纖而申裝了 Starlink。本指南的價格與硬體條件取自官方公開的訂購頁面。本站參與 Starlink 推薦計畫，若你透過我們的連結訂購並符合規則，我們可能獲得獎勵。",
     "relatedArticles": [
       {
         "slug": "starlink-cancel-zh-hant"
@@ -296333,8 +301658,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-cancel-zh-hant",
     "locale": "zh-hant",
     "translationKey": "starlink-fidelidade",
-    "title": "Starlink 有合約嗎？取消服務、歸還設備與退款",
-    "seoTitle": "Starlink 有合約嗎？取消與退款",
+    "title": "Starlink 有合約嗎？三種設備模式：購買、租賃與 12 個月合約，加上取消與退款",
+    "seoTitle": "Starlink 有合約嗎？三種設備模式與取消退款",
     "type": "實用指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -296345,8 +301670,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "查看 Starlink 訂購頁的合約與設備條件、如何取消訂閱，以及歸還或退款前要確認哪些費用。",
-    "metaDescription": "確認 Starlink 訂購頁的綁約、設備歸還及退款條件，並查看如何取消訂閱。",
+    "description": "Starlink 官網沒有繁體中文版。依地址不同，設備可能是購買、0 元租賃或綁 12 個月合約。以馬來西亞為例說明，並附 30 天退款與取消步驟。",
+    "metaDescription": "Starlink 官網沒有中文介面，設備有購買、租賃與 12 個月合約三種模式。以馬來西亞為例，並說明 30 天退款與取消步驟。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -296361,21 +301686,81 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 的合約和設備條件因地區而異。訂購前請確認是否有最低合約期限、硬體是租賃或購買，以及取消時是否須歸還。退款金額、起算日期和設備歸還期限，請以你所在地的訂購條款為準。"
+          "Starlink 沒有一套全球通用的合約規則，設備條件依地址而不同，而且官方訂購頁沒有繁體中文版。我們看到三種模式：購買設備且沒有合約期限，例如馬來西亞的 100 Mbps；0 元租賃設備、取消時須歸還，例如馬來西亞的 Max、美國、日本與歐洲；以及補貼設備但綁 12 個月合約並有提前解約費，例如巴西的 Max 與墨西哥的 Standard 4 X。各種模式都有 30 天的歸還與退款期，請以你自己訂單上的條款為準。"
         ]
       },
       {
-        "heading": "有沒有綁約",
+        "heading": "沒有中文版，所以看你的地址",
         "paragraphs": [
-          "我們在 2026 年 11 月 20 日查看了多個國家的官方訂購頁。有的寫明硬體租賃、取消時須歸還，有的寫明無合約，也有的是硬體購買。",
-          "所以沒有一個適用所有地區的答案。付款前，請在你地址的訂購頁找設備一欄，看費用與取消條件。從[本站的 Starlink 頁面](/zh-hant/coupons/starlink)開啟連結即可。"
+          "Starlink 的語言選單裡沒有繁體中文，也沒有簡體中文，而台灣、香港與中國大陸也沒有一般的住宅訂購頁。想在海外使用的讀者，會看到英文或當地語言的訂購頁，並由你輸入的地址決定屬於哪一種模式。",
+          "我們用同一個馬來西亞地址（吉隆坡）示範兩種模式，因為兩者在同一頁並排出現。2026 年 11 月 23 日，100 Mbps 方案是每月 RM 135，設備 Mini X 要買，價格 RM 900。Max 方案是每月 RM 235，硬體租賃每月 RM 0，租賃套件 Mini X 也是 RM 0，運費 RM 89。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+            "alt": "Starlink 馬來西亞吉隆坡的方案頁：100 Mbps 每月 RM 135，Mini X 購買價 RM 900",
+            "caption": "吉隆坡，2026 年 11 月 23 日查看：100 Mbps 每月 RM 135，Mini X 購買 RM 900。",
+            "objectFit": "square",
+            "aspectRatio": 0.9898
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+            "alt": "Starlink 馬來西亞的 Max 訂單摘要：每月 RM 235、硬體租賃 RM 0、租賃套件 Mini X RM 0、運費 RM 89",
+            "caption": "吉隆坡訂單摘要，2026 年 11 月 23 日查看：Max 每月 RM 235，租賃套件 RM 0。",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8154
+          }
+        ],
+        "links": [
+          {
+            "label": "用我的地址查看方案與合約條件",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
+      },
+      {
+        "heading": "三種模式，各舉一個例子",
+        "paragraphs": [
+          "第一種是購買設備，沒有合約期限。馬來西亞的 100 Mbps、韓國與阿曼都是這樣：設備買斷，30 天內可依條件歸還並退款。我們讀到的頁面沒有出現合約期限或違約金。",
+          "第二種是 0 元租賃，取消時須歸還。馬來西亞的 Max、美國、日本與歐洲的多數市場是這樣。頁面會寫明如果取消服務，必須歸還租賃的 Starlink 硬體，但沒有 12 個月的綁約。",
+          "第三種是補貼設備加 12 個月合約。巴西的 Residencial Max 用 R$ 49 取得 Mini X，頁面寫明 12 個月合約，提前解約費最高 R$ 1,099；墨西哥的 Standard 4 X 也有 12 個月期限，解約費最高 4,600 墨西哥披索。同一個國家也可能並排出現兩種模式，例如巴西的 100 Mbps 買下 Mini X R$ 299，頁面沒有 12 個月的字樣。"
+        ],
+        "comparisonTable": {
+          "caption": "各模式的例子取自 2026 年 11 月官方訂購頁，實際條款以你的地址為準。",
+          "headers": [
+            "模式",
+            "例子",
+            "設備",
+            "合約與費用"
+          ],
+          "rows": [
+            [
+              "購買設備",
+              "馬來西亞 100 Mbps；韓國；阿曼",
+              "自己買，例如 Mini X RM 900",
+              "沒有看到合約期限或違約金"
+            ],
+            [
+              "0 元租賃",
+              "馬來西亞 Max；美國；日本；歐洲",
+              "租賃套件 0，取消時須歸還",
+              "沒有 12 個月合約"
+            ],
+            [
+              "補貼設備加合約",
+              "巴西 Max；墨西哥 Standard 4 X",
+              "Mini X R$ 49；Standard 4 X 打折後購買",
+              "12 個月合約，提前解約費最高 R$ 1,099 或 4,600 披索"
+            ]
+          ]
+        }
       },
       {
         "heading": "歸還與退款條件",
         "paragraphs": [
-          "先在訂購頁確認歸還的起算日期、期限和設備狀態要求。設備、首月訂閱費與運費是否可退，請看你所在地的訂購條款。",
-          "取消訂閱只會停止後續扣款。請透過 Starlink 客服確認如何一併辦理設備歸還，並保存寄送憑證。"
+          "先在訂購頁確認歸還的起算日期、期限和設備狀態要求。依我們看到的訂購頁，30 天從付款到期日算起，取消服務並把設備完好歸還，才能申請設備與首月費用的退款。",
+          "取消訂閱只會停止後續扣款。請透過 Starlink 客服確認如何一併辦理設備歸還，並保存寄送憑證。從[本站的 Starlink 頁面](/zh-hant/coupons/starlink)開啟的連結，會打開官方網站上的同一張訂單，歸還政策仍以訂單頁為準。"
         ],
         "images": [
           {
@@ -296386,7 +301771,14 @@ export const reviewsData: unknown[] = [
             "aspectRatio": 1.7778
           }
         ],
-        "emphasis": "依訂購頁的條款，取消服務並在期限內把設備完好歸還，才能申請設備與首月費用的退款，所以寄送憑證就是起決定作用的證明。"
+        "emphasis": "依訂購頁的條款，取消服務並在期限內把設備完好歸還，才能申請設備與首月費用的退款，所以寄送憑證就是起決定作用的證明。",
+        "links": [
+          {
+            "label": "在 starlink.com 查看含 30 天退款的方案",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "如何取消",
@@ -296409,8 +301801,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "促銷價與更換方案",
         "paragraphs": [
-          "取消、更換方案或暫停後促銷價會怎樣，以你自己訂單上的條款為準。標準價格可能調整。"
+          "我們讀到的幾個國家的訂購頁，促銷是服務費減 30% 或減 50%，期限標示到 11 月底。取消、更換方案或暫停後促銷價會怎樣，以你自己訂單上的條款為準，標準價格也可能調整。"
         ]
+      },
+      {
+        "heading": "付款前，先確認你的訂單",
+        "paragraphs": [
+          "推薦只在訂單從推薦連結開始時才算，連結要在付款前於 starlink.com 開啟。付款之後，或在第三方平台購買，都無法補上。打開連結不代表承諾任何事：你的地址會顯示屬於哪一種模式，30 天的歸還期就是試用的保險。獎勵會在服務滿兩個月後以帳單抵扣的方式入帳，不會降低設備價格。"
+        ],
+        "checklist": {
+          "title": "付款前",
+          "items": [
+            "我在付款前，於同一個視窗從推薦連結開啟了訂單。",
+            "輸入任何資料前，我確認瀏覽器網址列仍是 starlink.com。",
+            "我在天線預定位置，用 Starlink App 做了障礙物檢查。",
+            "我在訂單摘要中讀了設備一欄、月費，以及是否寫有合約期限。",
+            "付款前，我存了顯示月費與 30 天規則的摘要截圖。"
+          ]
+        }
       },
       {
         "heading": "取消後仍被扣款",
@@ -296422,10 +301830,10 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "Starlink 有優惠碼嗎？沒有。Starlink 沒有優惠券：透過 Cecília 的推薦連結訂購的人，服務滿兩個月後會以帳單抵扣的方式獲得獎勵，推薦人獲得同樣金額。金額依國家而異，例如在美國是 100 美元。",
-          "Starlink 有合約嗎？依地區不同。請在你地址的訂購頁，看設備一欄是租賃、購買，還是標示無合約。",
-          "Starlink 隨時可以取消嗎？可以在帳戶中提出取消。如果你的訂單有合約，提前退出前請先看適用的條件。",
-          "取消後要歸還硬體嗎？訂購頁寫明租賃的地區，取消時須歸還。設備是購買的地區則依訂單條款。",
-          "可以歸還設備並退款嗎？請查看訂購條款，確認所在地的歸還期限、設備條件及可退款項。",
+          "Starlink 有合約嗎？依地址不同。馬來西亞的 100 Mbps 是購買設備，我們沒有看到合約期限；馬來西亞的 Max 是 0 元租賃；巴西的 Max 與墨西哥的 Standard 4 X 則綁 12 個月。請在訂購頁的設備一欄確認。",
+          "Starlink 隨時可以取消嗎？可以在帳戶中提出取消，並在扣款日 00:00 UTC 前完成。如果你的訂單有合約，提前退出前請先看適用的條件。",
+          "取消後要歸還硬體嗎？租賃設備的地區，取消時須歸還。購買設備的地區，則依 30 天歸還條款處理。",
+          "官網有中文版嗎？沒有。語言選單沒有繁體中文，也沒有簡體中文，請用英文或當地語言的頁面，並在設備一欄確認你的模式。",
           "取消後服務還能用嗎？服務維持到已付費期間結束，之後不再扣款。"
         ]
       }
@@ -296447,7 +301855,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "取消時，你能在30天內把設備完好歸還。",
+        "取消時，你能在30天內把設備完好歸還，並且願意自己確認訂單上的設備模式。",
         "付款前，你會讀自己訂單摘要裡的條款。"
       ],
       "skipIf": [
@@ -296456,8 +301864,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "訂購頁會在 starlink.com 開啟。付款前，先查看合約、費用與設備歸還條件。",
-      "label": "查看我的地址的條款",
+      "text": "訂購頁會透過推薦連結在 starlink.com 開啟，連結要在付款前使用。價格與官網相同，你能看到自己地址的合約條件，也保有 30 天的歸還期。獎勵在服務滿兩個月後入帳。",
+      "label": "查看我的地址的合約與方案",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -296495,7 +301903,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 是 SpaceX 的衛星網路服務，官方網站是 starlink.com。在 Trustpilot 上，指向 starlink.com 的頁面名稱是「Starlink Development」。如果在其他地方買套件，付款前請先查看 Starlink 的授權經銷商清單，並確認商品的賣家是誰。"
+          "是的，Starlink 是可靠的官方服務：它是 SpaceX 的衛星網路服務，並在 starlink.com 直接銷售。我們自己也因為當地光纖不穩而申裝，作為替代與備援網路。真正要提防的是仿冒網站與非授權賣家：在 Trustpilot 上指向 starlink.com 的頁面為「Starlink Development」，若在其他通路購買套件，付款前務必先查閱 Starlink 授權經銷商清單並確認實際賣家。"
         ]
       },
       {
@@ -296518,7 +301926,24 @@ export const reviewsData: unknown[] = [
         "heading": "如何認出官方網站",
         "paragraphs": [
           "在瀏覽器輸入 starlink.com。輸入資料或付款前，確認自己仍在 starlink.com 之內。",
-          "在訂單頁依你自己的地址，確認方案、套件（租用或購買）、稅金與合約期限。若有人要求透過訊息或在訂單之外付款，請先向 Starlink 客服確認再繼續。"
+          "在訂單頁依你自己的地址，確認方案、套件（租用或購買）、稅金與合約期限。若有人要求透過訊息或在訂單之外付款，請先向 Starlink 客服確認再繼續。",
+          "不弄錯網址的一個簡單做法，是從推薦連結開啟訂購頁：它會直接帶你到 starlink.com 的訂購頁，輸入任何資料前仍要檢查瀏覽器網址列。價格與官方網站相同，推薦只適用於付款前從推薦連結開始的訂單。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+            "alt": "starlink.com 官方住宅方案訂購畫面範例（馬來西亞吉隆坡地址）",
+            "caption": "馬來西亞吉隆坡地址的 starlink.com 訂購畫面範例（2026 年 11 月 23 日查詢）。官方頁面沒有中文版本。",
+            "objectFit": "square",
+            "aspectRatio": 0.9898
+          }
+        ],
+        "links": [
+          {
+            "label": "透過推薦連結開啟 starlink.com 官方訂購頁",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -296544,6 +301969,15 @@ export const reviewsData: unknown[] = [
             "label": "Starlink 授權經銷商清單",
             "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "深色背景上的 Starlink 套件部件：底座、支架與纜線",
+            "caption": "Starlink 套件部件。照片：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
@@ -296552,6 +301986,29 @@ export const reviewsData: unknown[] = [
           "在 Trustpilot 上，starlink.com 的頁面有 879 則評價，TrustScore 為 1.6（滿分 5）：71% 是 1 星，17% 是 5 星。這個頁面未被認領，也就是 Starlink 沒有經營它，回覆率為 0%。",
           "我們讀了最新的 40 則 1 星與 40 則 5 星評價。1 星評價中最常見的抱怨是客服只有機器人或聊天（約 3 則中有 1 則）、斷線與速度偏低（約 3 則中有 1 則）、訂閱後月費上漲（約 4 則中有 1 則）、扣款與取消困難（約 4 則中有 1 則）、合作廠商安裝人員遲到或沒出現（約 4 則中有 1 則）、套件延遲或沒收到（約 5 則中有 1 則）。5 星評價稱讚速度與穩定性（約一半）、安裝簡單（約 3 則中有 1 則）、當地沒有其他好的網路選擇（約 4 則中有 1 則）。數量為我們自行統計，僅供參考。",
           "解讀分數時要小心：未認領的頁面不會在購買後發出評價邀請，會打開它的人往往是想抱怨。讚美多關於訊號，抱怨多關於客服、價格與扣款，說訊號一直很差的 1 星評價並不多。Trustpilot 依 355 則近期評價產生的自動摘要，方向也相同。數字請看我們的 [Trustpilot 頁面完整解讀](/zh-hant/reviews/starlink-trustpilot-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "付款前檢查清單",
+        "paragraphs": [
+          "這五項檢查適用於任何地址，只需幾分鐘。"
+        ],
+        "checklist": {
+          "title": "送出訂單前",
+          "items": [
+            "我在同一個瀏覽器視窗中透過推薦連結開啟訂購頁，讓推薦能被計入。",
+            "輸入任何資料前，我確認網址列仍在 starlink.com。",
+            "我在預計安裝天線的位置執行了 Starlink App 的障礙物檢查，確認天空開闊。",
+            "我在訂單摘要中看過方案、套件、總額與合約期限。",
+            "付款前，我已截圖保存含月費與 30 天規則的訂單摘要。"
+          ]
+        },
+        "links": [
+          {
+            "label": "在 starlink.com 確認我的地址能否使用",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -296569,7 +302026,7 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "Starlink 有優惠碼嗎？ 沒有，Starlink 沒有優惠碼。透過 Cecília 的推薦連結訂閱，使用滿兩個月後會以帳單抵用金的形式入帳，推薦人也會獲得相同金額。金額依國家而異，例如在美國為 US$ 100。",
-          "Starlink 可靠嗎？ Starlink 是 SpaceX 的衛星網路服務。請確認你在 starlink.com，若在其他地方購買，請使用授權經銷商清單。",
+          "Starlink 可靠嗎？ 是的，Starlink 是 SpaceX 直接營運的官方衛星網路服務。請確認瀏覽器網址為 starlink.com；若在其他地方購買，付款前請先核對授權經銷商清單。",
           "Starlink 的官方網站是什麼？ 官方網站是 starlink.com。",
           "怎麼確認賣家是授權經銷商？ 查看 Starlink 的經銷商清單，並在付款前確認商品的賣家是誰。",
           "該在官方網站買還是向經銷商買？ 在 starlink.com，訂單頁會在付款前顯示你所在地址的方案、套件、稅金與合約，推薦也只在那裡有效。官方清單上的經銷商是正當賣家，但推薦不適用。"
@@ -296579,7 +302036,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "依據官方網站、說明中心與 Trustpilot 公開頁面整理。我們參加 Starlink 的推薦計畫；若你透過我們的連結訂閱並符合規則，我們可能獲得獎勵。",
+    "editorialNote": "依據官方網站、說明中心與 Trustpilot 公開頁面整理。我們因當地光纖不穩而申裝 Starlink，作為替代與備援網路。我們參加 Starlink 推薦計畫；若你透過我們的連結訂閱並符合規則，我們可能獲得獎勵。",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-zh-hant"
@@ -296602,8 +302059,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "到 Starlink 網站輸入你的地址，付款前先確認方案、套件與月費。",
-      "label": "查看你地址的方案",
+      "text": "從推薦連結開啟訂購頁，確認網址列仍在 starlink.com，並在付款前查看你地址的方案、套件與總額。價格與官方網站相同。",
+      "label": "在 starlink.com 查看我的地址",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -296697,6 +302154,36 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "Trustpilot，starlink.com 檔案，2026 年 11 月 23 日讀取。"
+        },
+        "metrics": {
+          "items": [
+            {
+              "label": "TrustScore",
+              "value": "1.6",
+              "unit": "/5",
+              "note": "未認領檔案"
+            },
+            {
+              "label": "評論總數",
+              "value": "879",
+              "note": "僅自然產生"
+            },
+            {
+              "label": "公司回覆",
+              "value": "0%",
+              "note": "464 則負面中 0 則"
+            },
+            {
+              "label": "1 星 vs 5 星",
+              "value": "71%",
+              "unit": "vs 17%",
+              "note": "客服與帳單居首"
+            }
+          ],
+          "summary": {
+            "badge": "看懂落差",
+            "text": "好評集中在速度與穩定的訊號；抱怨則集中在自動化客服、帳單與價格調整。"
+          }
         }
       },
       {
@@ -296746,15 +302233,30 @@ export const reviewsData: unknown[] = [
         "heading": "對訂閱者意味著什麼",
         "paragraphs": [
           "付款之前，請在 starlink.com 針對你自己的地址確認方案、套件（租用或購買）、稅金與合約：這些會依國家甚至依地址而不同。把下單當天的優惠畫面截圖存起來，每張帳單都拿來對照。",
+          "最簡單的保護方式，是直接在 starlink.com 下單，並把訂單摘要畫面存下來，上面有價格、套件、合約條件與已套用的推薦。之後拿第一張帳單與這張截圖對照。推薦只在透過推薦連結開啟的訂單上、於付款前才算數，事後無法補上。",
           "租用套件與退還規定請見[合約、取消與退款指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
         ],
         "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+            "alt": "馬來西亞吉隆坡的 Starlink 方案畫面：100 Mbps 每月 RM 135，Mini X 套件 RM 900（購買）",
+            "caption": "馬來西亞吉隆坡，100 Mbps 方案：月費與購買 Mini X 套件的價格。Starlink 的選擇器沒有中文介面，這裡以馬來西亞為例，說明值得存下的畫面。2026年11月23日查詢。",
+            "objectFit": "square",
+            "aspectRatio": 0.9898
+          },
           {
             "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
             "alt": "Starlink 天線安裝在木屋屋頂上",
             "caption": "安裝好的住宅用天線。照片：Starlink",
             "objectFit": "contain",
             "aspectRatio": 1.8079
+          }
+        ],
+        "links": [
+          {
+            "label": "在 starlink.com 開啟官方訂單並確認我所在的地區",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
           }
         ]
       },
@@ -296768,15 +302270,32 @@ export const reviewsData: unknown[] = [
             "label": "Trustpilot 上的 starlink.com 檔案",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "Starlink Standard 套件內容：天線、路由器、支架與纜線",
+            "caption": "Starlink Standard 套件：天線、路由器、支架與纜線。照片：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "訂閱之前",
         "paragraphs": [
           "訂閱之前，請先確認網站與條款。如何辨認官方網站與冒用名稱的檔案，請見[Starlink 可靠嗎？](/zh-hant/reviews/starlink-trust-zh-hant)。",
+          "開啟訂單不會讓你承擔任何義務：方案、價格、可用性與合約條件，要輸入地址後才會顯示。Starlink 的 30 天政策在訂單上說明，若在期限內取消並將套件完好退還，可獲退款；若是附合約的補貼套件，請確認 30 天後是否有費用。",
           "[Starlink 推薦](/zh-hant/coupons/starlink)頁面有連結與計畫規則。推薦不是優惠券：獎勵在訂閱滿兩個月後以帳單抵免的形式入帳，優先、企業與商用方案不適用。"
         ],
-        "emphasis": "依表格數字，對地址上沒有其他好網路選擇的人來說，在 starlink.com 針對該地址確認方案、套件、稅金與合約之後再訂閱是合理的，因為 1.6 反映的多半是客服、帳單與價格的抱怨，而不是訊號品質。"
+        "emphasis": "依表格數字，對地址上沒有其他好網路選擇的人來說，在 starlink.com 針對該地址確認方案、套件、稅金與合約之後再訂閱是合理的，因為 1.6 反映的多半是客服、帳單與價格的抱怨，而不是訊號品質。",
+        "links": [
+          {
+            "label": "在 starlink.com 確認我的地址是否可用",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "常見問題",
@@ -296815,8 +302334,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "在 Starlink 網站輸入你的地址，付款前先確認方案、套件與月費。",
-      "label": "查看你地址的方案",
+      "text": "透過推薦連結開啟訂單，確認你地址的方案、套件與合約，付款前把摘要畫面存下來。價格與官方網站相同。",
+      "label": "在 starlink.com 開啟我的訂單",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -296826,8 +302345,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-zh-hans",
     "translationKey": "starlink-indicacao",
     "locale": "zh-hans",
-    "title": "Starlink 推荐链接怎么用，奖励什么时候到账",
-    "seoTitle": "Starlink 推荐链接：用法与奖励到账时间",
+    "title": "首次购买 Starlink 如何通过推荐链接领取奖励（美国 US$ 100／按国家发放）",
+    "seoTitle": "首次购买 Starlink 如何通过推荐链接领取奖励",
     "type": "推荐码指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -296838,8 +302357,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "在官网打开推荐链接，付款前先在订单里确认奖励金额。了解谁能使用、奖励何时发放，以及选择服务抵扣还是现金。",
-    "metaDescription": "了解如何打开 Starlink 推荐链接、在订单里确认奖励金额，并在满足计划条件后拿到奖励。",
+    "description": "Starlink 没有优惠码：通过官方推荐链接下单，沿用官网同价与 30 天退货期，满两个月后即可领取所在国家的推荐奖励（例如美国为 US$ 100）。",
+    "metaDescription": "第一次订阅 Starlink 如何通过推荐链接领取奖励，为何下单前必须应用推荐，以及两个月后到账的流程。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -296854,8 +302373,126 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "打开 Starlink 推荐链接，输入你的地址。付款前，先找到推荐码已应用的提示，并在订单里确认奖励金额。该计划面向新用户，奖励在满两个完整计费周期后发放，形式是服务抵扣，部分国家还提供现金。"
+          "Starlink 没有可输入的优惠码。除了官网的促销之外，首次订阅时通过推荐链接下单，是领取官方推荐奖励的方式。从链接进入 starlink.com 结账，价格与促销完全相同、也保有 30 天退货期，服务满两个完整计费周期后，可获得所在国家的奖励金额（例如美国为 US$ 100，实际金额会显示在你的订单页）。奖励是之后到账的账单抵扣，不会降低当天的设备价格。付款前务必在屏幕确认推荐已应用，因为下单完成后无法补加。"
         ]
+      },
+      {
+        "heading": "为什么一定要通过推荐链接下单",
+        "paragraphs": [
+          "自己直接打开 starlink.com 下单，设备和月费与通过链接下单相同，区别只在你会错过推荐奖励。奖励不会降低下单当天的设备价格，而是在你付清两个完整计费周期后，以抵扣的形式进入账单。",
+          "Starlink 的订购页没有简体中文版本，所以下面的例子取自马来西亚（英文界面）和美国的订购页，用来说明推荐链接如何运作。你所在地的价格和规则，请以自己地址的订购页为准。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "吉隆坡地址的 Starlink 订购页，100 Mbps 套餐每月 RM 135，Mini X 购买价 RM 900",
+          "caption": "马来西亚吉隆坡：订购页的 100 Mbps 套餐，2026 年 11 月 23 日查询。Starlink 没有中文界面，此为英文页面的示例。",
+          "objectFit": "square",
+          "aspectRatio": 0.9898
+        },
+        "comparisonTable": {
+          "caption": "2026 年 11 月 23 日在 starlink.com 读取的价格，未完成购买。推荐奖励不是结账时的折扣，而是服务满两个完整计费周期后才到账。",
+          "headers": [
+            "在 starlink.com 读到的情况",
+            "没有推荐链接",
+            "使用 Cecília 的链接",
+            "奖励意味着什么"
+          ],
+          "rows": [
+            [
+              "马来西亚示例，Residential 100 Mbps（吉隆坡）",
+              "每月 RM 135，购买 Mini X RM 900，今日付款 RM 989（含运费 RM 89）",
+              "同一笔订单 + 按国家发放的推荐抵扣",
+              "金额以你所在国家的订购页为准"
+            ],
+            [
+              "马来西亚示例，Residential Max（吉隆坡）",
+              "每月 RM 235，租用 Rental Kit (Mini X) RM 0，今日付款 RM 89",
+              "同一笔订单 + 按国家发放的推荐抵扣",
+              "金额以你所在国家的订购页为准"
+            ],
+            [
+              "美国示例，Residential 100 Mbps（内华达）",
+              "每月 US$ 38.50，租用套件 US$ 0，今日付款 US$ 20 + 税",
+              "同一笔订单 + US$ 100 抵扣",
+              "约等于 100 Mbps 套餐 2.6 个月的月费"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "打开订单并确认推荐奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "simulator": {
+          "title": "试算你的情况",
+          "scenarios": [
+            {
+              "label": "马来西亚 100 Mbps（购买 Mini X）+ 推荐链接",
+              "lines": [
+                {
+                  "label": "Mini X 设备（购买）",
+                  "value": "RM 900"
+                },
+                {
+                  "label": "月费",
+                  "value": "RM 135／月"
+                },
+                {
+                  "label": "付清两个周期后的推荐抵扣",
+                  "value": "按国家发放，计入账单",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "今日付款（设备 + 运费）",
+              "totalValue": "RM 989",
+              "note": "价格与官网相同，30 天退货期不变。"
+            },
+            {
+              "label": "马来西亚 Max（租用）+ 推荐链接",
+              "lines": [
+                {
+                  "label": "Rental Kit (Mini X)",
+                  "value": "RM 0，取消时须归还"
+                },
+                {
+                  "label": "月费",
+                  "value": "RM 235／月"
+                },
+                {
+                  "label": "付清两个周期后的推荐抵扣",
+                  "value": "按国家发放，计入账单",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "今日付款（含运费）",
+              "totalValue": "RM 89",
+              "note": "抵扣之后才到账，不会降低今天的付款金额。"
+            },
+            {
+              "label": "没有推荐链接（直接下单／经销商）",
+              "lines": [
+                {
+                  "label": "设备与套餐价格",
+                  "value": "与通过链接下单相同"
+                },
+                {
+                  "label": "推荐抵扣",
+                  "value": "0，事后无法补加"
+                },
+                {
+                  "label": "白白错过的奖励",
+                  "value": "按国家而定（美国为 US$ 100）",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "可领取的推荐奖励",
+              "totalValue": "0",
+              "note": "推荐必须在付款前出现在最初的订单里。"
+            }
+          ]
+        }
       },
       {
         "heading": "推荐链接使用步骤",
@@ -296872,11 +302509,27 @@ export const reviewsData: unknown[] = [
           "付款前再确认一次。Starlink 说明，推荐必须出现在最初的订单里。"
         ],
         "image": {
-          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
-          "alt": "房屋屋顶上安装好的 Starlink 天线",
-          "caption": "天线装在屋顶，视野开阔。Starlink 官方照片。",
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Starlink 官网的订购页，出现 Referral Code Applied 提示，说明用此代码注册后你和朋友各可获得 100 美元，形式为现金或服务抵扣",
+          "caption": "已应用推荐链接的官网订购页（美国内华达的示例）。",
           "objectFit": "contain",
-          "aspectRatio": 1.4995
+          "aspectRatio": 0.8747
+        }
+      },
+      {
+        "heading": "付款前的检查清单",
+        "paragraphs": [
+          "付款前请在屏幕上逐项确认。只要两分钟，就能决定奖励是否会出现在你的订单里。"
+        ],
+        "checklist": {
+          "title": "确认订单之前",
+          "items": [
+            "我在同一个窗口通过 Cecília 的推荐链接打开订单，避免错过奖励。",
+            "输入任何资料之前，我确认地址栏仍是 starlink.com。",
+            "我在预定安装的位置运行了 Starlink 应用的遮挡物检测，确认天空开阔。",
+            "我在订单摘要里看到推荐已应用的提示、设备价格，以及是否有 12 个月合约。",
+            "付款前，我已截图保存显示月费和 30 天规则的订单摘要。"
+          ]
         }
       },
       {
@@ -296884,10 +302537,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "金额取决于你注册所在的国家，并显示在订单和账户里，例如在美国是 US$ 100，其他国家请以你自己的订单为准。推荐人也会拿到同样的奖励，形式是现金或服务抵扣。",
           "订阅需要保持有效并按时付款，满两个完整计费周期。帮助中心说明，发放最早可在激活后 60 天开始，具体取决于国家、账户和身份验证。",
-          "默认方式是抵扣账单。如果你的账户提供现金方式，请在浏览器里打开网站的“推荐”页面，选择奖励方式，并完成身份验证和收款设置。"
+          "默认方式是抵扣账单。如果你的账户提供现金方式，请在浏览器里打开网站的“推荐”页面，选择奖励方式，并完成身份验证和收款设置。 奖励以账单抵扣的形式到账，不会降低订单上的设备价格。"
         ],
         "emphasis": "奖励要等订阅有效并按时付款满两个完整计费周期后才发放，默认为账单抵扣，订阅者和推荐人拿到相同金额；你所在国家的金额会显示在订单里。",
         "emphasisAfterParagraph": 3
+      },
+      {
+        "heading": "打开链接就等于承诺什么吗？30 天的试用",
+        "paragraphs": [
+          "打开链接不代表任何承诺。套餐价格、设备、是否供应和有无合约，都要在 starlink.com 输入地址后才会显示。",
+          "付款后，Starlink 按页面条款提供 30 天的退货期。如果天线在你的屋顶上效果不好，可以在期限内取消服务并寄回设备。在马来西亚的 Max 订单上，租用的套件在取消时必须归还。",
+          "这就是链接要放在试用之前的原因：推荐只计入最初的订单。没有链接就去试的人，第一天付的钱相同，但决定留下天线时会错过推荐奖励。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
+          "alt": "房屋屋顶上安装好的 Starlink 天线",
+          "caption": "天线装在屋顶，视野开阔。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.4995
+        },
+        "links": [
+          {
+            "label": "下单前先确保奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "谁可以使用",
@@ -296905,15 +302580,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "黑色星期五优惠能同时用吗？",
+        "heading": "点了链接仍会错过奖励的 4 个错误",
         "paragraphs": [
-          "推荐奖励是否和黑色星期五优惠同时显示，取决于地址。请先看[Starlink 黑色星期五的算法](/zh-hans/reviews/starlink-black-friday-zh-hans)，再用你的地址确认。"
+          "错过奖励的情况，大多出在以下四点之一。"
+        ],
+        "bullets": [
+          "在经销商或电商平台购买设备。计划只记录在 starlink.com 通过链接下的订单。",
+          "没确认提示就付款。推荐必须出现在最初的订单里，事后无法补加：屏幕上没有提示时，请在付款前重新打开链接。如果下单途中换了设备或浏览器，请再打开一次链接并重新确认提示。",
+          "现有客户或曾经的客户使用链接。奖励只给第一次订阅 Starlink 的人。",
+          "太早取消。奖励需要订阅有效并按时付款满两个完整计费周期，发放最早从激活后 60 天起。"
         ]
       },
       {
-        "heading": "如何追踪",
+        "heading": "黑色星期五优惠能同时用吗？",
         "paragraphs": [
-          "在网站或应用的“推荐”页，可以看到通过你的链接订购的人处于什么状态。有人下单时，Starlink 会发邮件通知你。一笔推荐在产生奖励之前，可能要先通过资格审核。"
+          "推荐奖励是否和黑色星期五优惠同时显示，取决于地址。请先看[Starlink 黑色星期五的算法](/zh-hans/reviews/starlink-black-friday-zh-hans)，再用你的地址确认。",
+          "在马来西亚的 Max 订单摘要里，Starlink 显示每月 RM 235、Hardware Rental 每月 RM 0、Rental Kit (Mini X) RM 0，今日付款 RM 89。如果你担心合约，也可以看看[Starlink 合约与取消指南](/zh-hans/reviews/starlink-cancel-zh-hans)和[Starlink 值得买吗](/zh-hans/reviews/starlink-worth-it-zh-hans)。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "alt": "马来西亚的 Starlink Max 订单摘要：每月 RM 235，Hardware Rental 每月 RM 0，Rental Kit (Mini X) RM 0，今日付款 RM 89",
+          "caption": "马来西亚：Max 套餐的订单摘要，2026 年 11 月 23 日查询（英文界面示例）。",
+          "objectFit": "portrait",
+          "aspectRatio": 0.8154
+        }
+      },
+      {
+        "heading": "如何追踪，以及使用自己的链接",
+        "paragraphs": [
+          "在网站或应用的“推荐”页，可以看到通过你的链接订购的人处于什么状态。有人下单时，Starlink 会发邮件通知你。一笔推荐在产生奖励之前，可能要先通过资格审核。",
+          "当你成为符合条件的家用或旅行套餐有效用户后，也可以自己推荐，推荐人会拿到与新用户相同的金额。你所在国家的金额会显示在订阅者的订单页上。"
         ]
       },
       {
@@ -296925,15 +302621,16 @@ export const reviewsData: unknown[] = [
           "奖励什么时候到账？帮助中心说明，发放最早可在激活后 60 天开始，前提是满足计划条件。",
           "在电商平台买的套件能用推荐吗？不能。计划要求直接在 starlink.com 通过链接下单。",
           "我以前是客户，还能用链接吗？奖励只给第一次订阅 Starlink 的新用户。",
-          "推荐人也有奖励吗？有。推荐人拿到同样的奖励，形式是现金或服务抵扣。"
+          "推荐人也有奖励吗？有。推荐人拿到同样的奖励，形式是现金或服务抵扣。",
+          "付款之后还能补上推荐吗？不能。Starlink 要求推荐必须出现在付款前最初的订单里，也就是在 starlink.com 通过推荐链接下单。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在付款前，先在订单里确认你所在地址的奖励金额。",
-      "label": "在订单里查看推荐",
+      "text": "你付的价格与官网完全相同，天线在屋顶上不好用时 30 天内可退货，并在两个计费周期后领取所在国家的推荐抵扣。",
+      "label": "前往官网查看订单与推荐奖励",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -296966,8 +302663,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-zh-hans",
     "translationKey": "starlink-black-friday",
     "locale": "zh-hans",
-    "title": "Starlink 2026 黑色星期五：先算清首单，再看推荐奖励",
-    "seoTitle": "Starlink 2026 黑色星期五优惠怎么算",
+    "title": "Starlink 2026 黑色星期五：马来西亚、美国、日本的真实订单怎么算，推荐奖励何时到账",
+    "seoTitle": "Starlink 2026 黑色星期五：三个市场的订单怎么算",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -296978,8 +302675,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Starlink 的年末优惠按地址显示。看看首单当天要付多少、推荐奖励何时到账，以及怎样在官网订单里确认你的地址有没有。",
-    "metaDescription": "在 Starlink 官网输入安装地址，查看当地是否有黑色星期五优惠、当天应付总额，以及推荐奖励的适用条件。",
+    "description": "Starlink 官网没有中文界面。我们用马来西亚、美国和日本的真实订单页，算清当天应付、月费、套件是租是买，以及推荐奖励何时到账。",
+    "metaDescription": "Starlink 黑色星期五优惠依地址而定。看马来西亚、美国、日本的订单怎么算，套件是租还是买，以及推荐奖励何时到账。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -296994,73 +302691,212 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 的黑色星期五优惠依服务地址而定。先在官网查看当地是否有优惠，再核对当天应付额、月费和设备费用。如果订单显示推荐奖励，请确认适用条件和发放时间。"
+          "Starlink 官网没有中文界面，所以我们读了马来西亚、美国和日本的订单页：马来西亚 100 Mbps 月费 RM 135 且套件需购买（RM 900），Max 月费 RM 235 且套件免费租用；美国 100 Mbps 优惠后月费 US$38.50，套件租用 US$0；日本ホーム优惠后月费 ¥3,550。美国和日本的优惠到 11 月 30 日。推荐奖励按国家而定，例如美国是 US$100，只在通过推荐链接打开的订单上计算，并在满两个完整计费周期后发放。"
         ]
       },
       {
-        "heading": "不同国家的优惠不一样",
+        "heading": "三个市场的订单：月费、套件和当天应付",
         "paragraphs": [
-          "我们查看了多个市场的订单页。折扣、期限和设备费用各有不同。请先在 Starlink 官网输入安装地址，查看当地是否提供服务及当时适用的优惠。",
-          "你要做的是打开官网，输入你要安装的地址，再看订单页显示的优惠、套件费用和当天应付总额。"
+          "我们在 11 月 23 日读了三个市场的订单页，没有完成购买。马来西亚（吉隆坡）：100 Mbps 月费 RM 135，套件是购买，Mini X 要 RM 900，当天应付 RM 989；Max 月费 RM 235，套件是租用，租赁费 RM 0，当天只付运费 RM 89。同一个国家、同一个地址，两个套餐的套件方式并不一样。",
+          "美国（内华达州）：100 Mbps 优惠后月费 US$38.50（原价 US$55），套件租用 US$0，当天应付 US$20 加税。日本（东京）：ホーム计划优惠后月费 ¥3,550（原价 ¥7,100），套件租用 ¥0，当天应付配送费 ¥3,000。推荐奖励在美国是 US$100，在日本是 ¥7,000，是账单抵扣，不会降低套件价格。"
         ],
-        "emphasis": "各国订单页的折扣、期限和设备费用不同，所以优惠是否划算，只能看你所在地址订单页上的当天应付总额；推荐奖励要满两个完整计费周期后才发放，在此之前月费照付。",
+        "comparisonTable": {
+          "headers": [
+            "市场和套餐",
+            "月费",
+            "套件",
+            "当天应付"
+          ],
+          "rows": [
+            [
+              "马来西亚，100 Mbps",
+              "RM 135",
+              "购买 Mini X，RM 900",
+              "RM 989"
+            ],
+            [
+              "马来西亚，Max",
+              "RM 235",
+              "租用，RM 0",
+              "RM 89"
+            ],
+            [
+              "美国内华达州，100 Mbps",
+              "US$38.50（原价 US$55）",
+              "租用，US$0",
+              "US$20 加税"
+            ],
+            [
+              "日本东京，ホーム",
+              "¥3,550（原价 ¥7,100）",
+              "租用，¥0",
+              "¥3,000"
+            ]
+          ],
+          "caption": "2026 年 11 月 23 日读取的订单页。美国和日本的优惠订购截止到 11 月 30 日。"
+        },
+        "simulator": {
+          "title": "快速模拟",
+          "scenarios": [
+            {
+              "label": "美国 100 Mbps，用推荐链接",
+              "lines": [
+                {
+                  "label": "月费（优惠后）",
+                  "value": "US$38.50"
+                },
+                {
+                  "label": "套件租用",
+                  "value": "US$0，取消时需退回"
+                },
+                {
+                  "label": "推荐奖励（两个计费周期后）",
+                  "value": "-US$100 抵扣",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "当天应付",
+              "totalValue": "US$20 加税",
+              "note": "前两期账单要自己先付，奖励以账户抵扣的形式到账。"
+            },
+            {
+              "label": "日本ホーム，用推荐链接",
+              "lines": [
+                {
+                  "label": "月费（优惠后）",
+                  "value": "¥3,550"
+                },
+                {
+                  "label": "套件租用",
+                  "value": "¥0，取消时需退回"
+                },
+                {
+                  "label": "推荐奖励（两个计费周期后）",
+                  "value": "-¥7,000 抵扣",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "当天应付",
+              "totalValue": "¥3,000",
+              "note": "优惠价过后按原价 ¥7,100 计算，奖励约等于 1 个月。"
+            },
+            {
+              "label": "不用推荐链接，直接下单",
+              "lines": [
+                {
+                  "label": "套餐和套件的价格",
+                  "value": "和用链接时一样"
+                },
+                {
+                  "label": "推荐奖励",
+                  "value": "0"
+                },
+                {
+                  "label": "你放弃的金额",
+                  "value": "US$100 或 ¥7,000",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "收到的奖励",
+              "totalValue": "0",
+              "note": "推荐只在付款前通过推荐链接打开的订单上有效。"
+            }
+          ]
+        },
+        "postParagraphs": [
+          "马来西亚的例子说明为什么要看每个套餐的套件那一行：100 Mbps 要买 Mini X，Max 则是免费租用，两者月费相差 RM 100。读订单页时，先看套件是购买还是租用，再比较月费。"
+        ],
+        "emphasis": "各国订单页的月费、套件方式和当天应付各不相同，所以优惠是否划算，只能看你所在地址订单页上的当天应付总额；推荐奖励要满两个完整计费周期后才发放，在此之前月费照付。",
         "links": [
           {
-            "label": "查看你所在地址的套餐",
+            "label": "查看你所在地址的黑色星期五和推荐奖励",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
         ]
       },
       {
-        "heading": "首单怎么算",
+        "heading": "订单页怎么看",
         "paragraphs": [
-          "先记下当天应付总额，再加上奖励发放前应付的月费。已经计入当天总额的款项只算一次。订单符合推荐条件时，再从这笔支出中扣除奖励。",
-          "奖励满两个完整计费周期才发放，期间你还要照常支付到期的月费。"
-        ],
-        "bullets": [
-          "当天应付：订单页上的当天应付总额。",
-          "之后的月费：订单页上所选套餐的月费，注意优惠期限。",
-          "推荐奖励：订单里带推荐提示的那一行，金额因国家而异。"
+          "截图是通过推荐链接打开的美国订单，上面有“Referral Code Applied”的提示。通过链接打开的订单会显示推荐已应用，以及你所在国家的奖励金额。",
+          "要核对自己的优惠，先打开链接，输入地址，付款前找同样的提示，再看订单有没有显示奖励金额和月费条件。"
         ],
         "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "房屋屋顶上安装好的 Starlink 天线",
-          "caption": "装好的家用天线。Starlink 官方照片。",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
+          "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+          "alt": "Starlink 官网的订单页面，显示 Referral Code Applied，说明用这个代码注册后你和朋友各获得 100 美元，形式为现金或服务抵扣",
+          "caption": "官网订单页，推荐链接已应用（美国示例，各国奖励金额不同）。",
+          "aspectRatio": 0.8747,
+          "objectFit": "contain"
         }
-      },
-      {
-        "heading": "推荐奖励怎么进入这笔账",
-        "paragraphs": [
-          "通过推荐链接订购后，订单里会出现“推荐码已应用”的提示。奖励发放最早在激活后 60 天，形式是服务抵扣，部分国家还提供现金。推荐人也会拿到同样的奖励。",
-          "详细规则见[Starlink 推荐链接的用法](/zh-hans/reviews/starlink-referral-zh-hans)。"
-        ]
       },
       {
         "heading": "优惠有没有在你的地址上",
         "paragraphs": [
-          "优惠只在选定地区显示，两个地址的订单页可能不同。输入你的地址再看，别用别人的截图判断。"
+          "优惠只在选定地区显示，两个地址的订单页可能不同。输入你的地址再看，别用别人的截图判断。",
+          "下面这张是马来西亚吉隆坡的订单页：100 Mbps 月费 RM 135，Mini X 需要购买，RM 900。把它和美国、日本的订单放在一起看，就能明白为什么不能直接套用别人的价格。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "Starlink 马来西亚吉隆坡订单页，100 Mbps 月费 RM 135，Mini X 购买价 RM 900",
+          "caption": "吉隆坡订单页，2026 年 11 月 23 日读取：100 Mbps 月费 RM 135，套件购买 RM 900。",
+          "aspectRatio": 0.9898,
+          "objectFit": "square"
+        }
+      },
+      {
+        "heading": "套件是租还是买，退货和 30 天试用",
+        "paragraphs": [
+          "套件是租还是买，订单页会写明。租用的套件在取消服务时要退回；购买的套件则归你。官网说明，取消服务并在付款到期日起 30 天内把套件完好退回，套件和第一个月费用会退还。所以打开订单不花钱：先看自己地址的价格，在屋顶上试装天线，再决定是否继续。",
+          "在马来西亚的 Max 订单里，租赁费和套件都是 RM 0，月费 RM 235。合约和操作步骤见[取消与退货指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "alt": "Starlink 马来西亚 Max 订单摘要，月费 RM 235，硬件租赁 RM 0，租用套件 Mini X RM 0，当天应付 RM 89",
+          "caption": "吉隆坡 Max 订单摘要（2026 年 11 月 23 日）：月费 RM 235，硬件租赁 RM 0，当天应付 RM 89。",
+          "aspectRatio": 0.8154,
+          "objectFit": "portrait"
+        },
+        "links": [
+          {
+            "label": "付款前先锁定推荐奖励",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "套件和退货",
+        "heading": "优惠结束以后：怎样守住价格",
         "paragraphs": [
-          "在部分国家，套件按租用提供，取消服务时要退回；在另一些国家，套件需要购买。订单页会写明是哪一种。",
-          "在订单页确认退回期限、设备状态要求和可退费用。合约和操作步骤见[取消与退货指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
+          "美国和日本的优惠订购截止到 11 月 30 日。优惠期过后，月费会变成你所在地区的标准价格，这个价格可能调整。如果打算长期使用，请用标准价格再算一遍。更换套餐、取消或暂停后促销价会怎样，以你自己订单里的条款为准。",
+          "付款前，先把订单摘要截图保存下来，里面要有月费、套件那一行和推荐已应用的提示，再和第一张账单对照。如果账单对不上，在账户里提交支持请求并附上截图。"
         ]
       },
       {
-        "heading": "优惠结束以后",
+        "heading": "推荐奖励怎么进入这笔账",
         "paragraphs": [
-          "促销期结束后，月费会变成你所在地区的标准价格。标准价格可能调整。更换套餐、取消或暂停后促销价会怎样，以你自己订单里的条款为准。我们没有读到各国促销期之后的价格，所以不替你预估。"
+          "通过推荐链接订购后，订单里会出现“推荐码已应用”的提示。奖励要在服务满两个完整计费周期后发放，形式是账单抵扣，部分国家还提供现金。推荐人也会拿到同样的奖励。",
+          "详细规则见[Starlink 推荐链接的用法](/zh-hans/reviews/starlink-referral-zh-hans)。实际金额请在你的账户中确认。"
+        ]
+      },
+      {
+        "heading": "会让你丢掉奖励的 4 个错误",
+        "paragraphs": [
+          "即使点了链接，也可能因为小疏忽丢掉奖励："
+        ],
+        "bullets": [
+          "先在电商平台或门店买了套件，之后才想用链接。推荐只在 starlink.com 上、付款前通过推荐链接打开的订单上有效。",
+          "在手机上打开链接，几个小时后换另一台设备完成订单，却没有重新打开链接。推荐可能不会跟着订单走：请在同一台设备上完成，或重新打开链接，确认看到绿色提示。",
+          "用已经有过 Starlink 账户的姓名、邮箱或地址注册。奖励只给新客户。",
+          "在付满两个计费周期之前取消或延迟付款。奖励只在服务有效且账单已付清时到账。"
+        ],
+        "postParagraphs": [
+          "如果订单已经在没有链接的情况下付款，之后就无法补上推荐。"
         ]
       },
       {
         "heading": "如何使用链接",
         "paragraphs": [
-          "打开链接，输入要安装天线的地址。选好套餐，确认推荐已应用，并在付款前保存订单里显示的优惠。",
+          "打开链接不会让你承担任何义务：价格、是否可订购和优惠，都要输入地址之后才会显示。输入要安装天线的地址，选好套餐，确认推荐已应用，并在付款前保存订单里显示的优惠。",
           "链接和规则也在[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
         ]
       },
@@ -297068,9 +302904,12 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "Starlink 有优惠码吗？没有。Starlink 没有优惠券：通过 Cecília 的推荐链接订购的人，在服务满两个月后会以账单抵扣的形式获得奖励，推荐人获得同样的金额。金额因国家而异，例如在美国是 100 美元。",
-          "Starlink 有黑色星期五优惠吗？部分市场和地址有优惠。输入安装地址，查看订单页是否显示活动。",
-          "推荐奖励能和优惠叠加吗？是否同时显示，请看你地址的订单页。奖励取决于资格，并要满两个完整计费周期。",
-          "订单当天要付多少？以订单页的当天应付总额为准，因国家和所选套餐而异。",
+          "Starlink 有黑色星期五优惠吗？有。美国订单页给出 30% 的月费优惠，日本给出 50%，都以 11 月 30 日为限；马来西亚我们没有记录折扣。输入安装地址，看订单页是否显示活动。",
+          "推荐奖励能和优惠叠加吗？订单里是两条独立的行。是否同时显示，请看你地址的订单页。奖励取决于资格，并要满两个完整计费周期。",
+          "订单当天要付多少？以订单页的当天应付总额为准。吉隆坡的 100 Mbps 是 RM 989，Max 是 RM 89，美国是 US$20 加税，日本是 ¥3,000。",
+          "套件是租还是买？因国家和套餐而异。马来西亚的 100 Mbps 要买 Mini X，Max 是租用；美国和日本是租用，取消时要退回。",
+          "订购前能先试用吗？可以。取消服务并在付款到期日起 30 天内把套件完好退回，套件和第一个月费用会退还。",
+          "付款以后还能补推荐吗？不能。推荐只在付款前通过推荐链接打开的订单上有效。",
           "活动到什么时候？请在你所在市场的订单页查看申请截止日和优惠价的适用期限。"
         ]
       }
@@ -297078,8 +302917,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "链接会打开 Starlink 官网。付款前请确认套餐、套件费用和推荐奖励。",
-      "label": "查看我所在地址的优惠",
+      "text": "价格和官方订单页一样，如果天线在你的屋顶上用不了，30 天内还能退回套件；满两个计费周期后，推荐奖励会以抵扣的形式进入你的账单。",
+      "label": "查看我所在地址并锁定推荐奖励",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -297098,11 +302937,11 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "你地址的订单页在付款前显示套餐优惠和套件条件。",
+        "你地址的订单页在付款前显示套餐优惠和套件是租还是买。",
         "你能等满两个完整计费周期再拿奖励，其间自己先付月费。"
       ],
       "skipIf": [
-        "订单页没有显示优惠，因为我们读到的价格只属于某一个地址。",
+        "订单页没有显示优惠，因为我们读到的价格只属于查看过的地址。",
         "你可能很快就取消，不想冒退还套件或失去优惠价的风险。"
       ]
     }
@@ -297112,8 +302951,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-worth-it-zh-hans",
     "translationKey": "starlink-vale-a-pena",
     "locale": "zh-hans",
-    "title": "Starlink 值得买吗？12 个月的账怎么算，适合谁",
-    "seoTitle": "Starlink 值得买吗？12 个月的账",
+    "title": "Starlink 值得买吗？成本计算、光纤不稳定地区与备用宽带评估",
+    "seoTitle": "Starlink 值得买吗？成本、光纤不稳与备用",
     "type": "购买指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -297124,8 +302963,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "把 Starlink 的 12 个月总成本，和你家已经有的网络放在一起比较。看看套件、月费、合约和天线安装位置怎么确认。",
-    "metaDescription": "Starlink 值得买吗？套件加 12 个月月费怎么算、适合哪些家庭，以及什么时候光纤或 4G 更合适。",
+    "description": "不仅适合无光纤地区：如果当地光纤经常掉线或网速远低于合同标准，Starlink 也值得作为替代或备用网络。对比套餐条件与遮挡检查。",
+    "metaDescription": "Starlink 值得买吗？除了看套餐与套件费用，也从当地光纤不稳定和备用宽带需求分析何时值得办理。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -297140,49 +302979,128 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "在没有稳定网络的乡村住宅，Starlink 可能值得买。如果家里已经有可靠的光纤，换之前先比较 12 个月的总成本：套件加上你所在地址的月费，再看有没有合约，并用 Starlink 应用确认天线能装在哪里。"
+          "是的，Starlink 不仅适合没有光纤的地方，也适合有光纤却经常掉线、或实际网速远低于合同标准的家庭。我们自己也是为了替代并备用不稳定的光纤而办理 Starlink。如果现有光纤确实稳定，费用和延迟上仍是光纤占优。试用的风险不高：马来西亚的 Max 套餐设备租赁 RM 0，100 Mbps 套餐的设备购买后也有 30 天可退。"
         ]
       },
       {
         "heading": "12 个月要花多少",
         "paragraphs": [
-          "价格因国家和地址而异，中文版没有固定的参考国家，所以我们不列数字。下面这张表列出你需要从订单页读出的几项。"
+          "2026 年 11 月 23 日，我们读了马来西亚吉隆坡一个公开地址的订购页。Starlink 的选择菜单没有中文，中国大陆、台湾和香港也没有看到住宅直营销售，所以这里用马来西亚当例子：同一个地址同时出现购买和租赁两种硬件模式。价格因国家和地址而异，请在 starlink.com 输入你的地址，以订购页的数字为准。"
         ],
         "comparisonTable": {
           "headers": [
-            "要加总的项目",
-            "在哪里看"
+            "马来西亚吉隆坡",
+            "订购页显示"
           ],
           "rows": [
             [
-              "套件",
-              "订单页的“硬件”。在有些国家是租用，在有些国家要购买"
+              "100 Mbps 月费",
+              "RM 135"
             ],
             [
-              "月费",
-              "订单页所选套餐，注意优惠期限"
+              "100 Mbps 设备",
+              "Mini X 购买，RM 900"
             ],
             [
-              "安装",
-              "订单页可选的专业安装，单独列价"
+              "Max 月费",
+              "RM 235"
             ],
             [
-              "优惠期结束后",
-              "订单页如果没写，就按标准价格另行确认"
+              "Max 设备",
+              "Rental Kit (Mini X) 租赁，RM 0"
+            ],
+            [
+              "运费（当天付款）",
+              "RM 89"
             ]
           ],
-          "caption": "把套件和 12 个月的月费加起来，再减去优惠。算的时候先不要计入推荐奖励。"
+          "caption": "订购页显示的价格，未计推荐奖励和税费。促销价能维持多久，请在你自己的订购页确认。"
+        },
+        "simulator": {
+          "title": "试算：每种情况要付多少",
+          "scenarios": [
+            {
+              "label": "100 Mbps（购买 Mini X）",
+              "lines": [
+                {
+                  "label": "Mini X 设备（购买）",
+                  "value": "RM 900",
+                  "highlight": true
+                },
+                {
+                  "label": "月费",
+                  "value": "RM 135"
+                },
+                {
+                  "label": "运费",
+                  "value": "RM 89"
+                }
+              ],
+              "totalLabel": "当天付款（设备＋运费）",
+              "totalValue": "RM 989",
+              "note": "设备买断；30 天内归还才可退款，请看订购页条件。"
+            },
+            {
+              "label": "Max（租赁套件）",
+              "lines": [
+                {
+                  "label": "Rental Kit (Mini X)",
+                  "value": "RM 0（租赁）",
+                  "highlight": true
+                },
+                {
+                  "label": "月费",
+                  "value": "RM 235"
+                },
+                {
+                  "label": "运费",
+                  "value": "RM 89"
+                }
+              ],
+              "totalLabel": "当天付款（运费）",
+              "totalValue": "RM 89",
+              "note": "取消服务时必须归还租赁设备。"
+            },
+            {
+              "label": "12 个月对比（不含运费）",
+              "lines": [
+                {
+                  "label": "100 Mbps：设备＋12 个月月费",
+                  "value": "RM 2,520"
+                },
+                {
+                  "label": "Max：12 个月月费（设备租赁 RM 0）",
+                  "value": "RM 2,820"
+                },
+                {
+                  "label": "两者差额",
+                  "value": "RM 300",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "Max 比 100 Mbps 多出",
+              "totalValue": "RM 300",
+              "note": "假设月费全年不变；实际促销价期限以订购页为准。"
+            }
+          ]
         },
         "postParagraphs": [
-          "先不含奖励算一遍，再看订单里带推荐链接时显示的奖励，满足规则之后才会发放。见[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
+          "先不含奖励算一遍，再看奖励能抵多少。通过我们的链接订阅，满两个月后可获得奖励，金额因国家而异（例如美国为 US$ 100）。见[Starlink 推荐页面](/zh-hans/coupons/starlink)。"
         ],
         "links": [
           {
-            "label": "查看你所在地址的套餐",
+            "label": "用我的地址试算套餐和设备",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "Starlink 马来西亚吉隆坡官方订购页面，显示 100 Mbps 月费 RM 135 和 Mini X 购买价 RM 900",
+          "caption": "吉隆坡订购页（2026 年 11 月 23 日查询）：100 Mbps 月费和购买 Mini X。",
+          "objectFit": "square",
+          "aspectRatio": 0.9898
+        }
       },
       {
         "heading": "天线装在哪里",
@@ -297204,12 +303122,38 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "什么时候和光纤或 4G 比较",
+        "heading": "不只是价格账：光纤不稳定与作为备用网络",
         "paragraphs": [
-          "如果已经有稳定的光纤，就把各家方案的安装费、月费和可能的合约加起来比较。对 4G，要加上你需要买的设备，并确认流量够全家用。"
+          "只比较月费并不够，因为住处现有的便宜固网可能每周掉线，或只给出合同速度的一小部分。地区运营商和拥挤的网络常见电缆被挖断、未预告的维护以及晚间降速。如果你在家办公、经常开视频会议，或依赖监控和智能家居设备，这比每月差几块钱更要紧。",
+          "就我们自己的情况而言，我们是为了替代并备用不稳定的光纤而办理 Starlink。信号来自卫星，不依赖街上的电缆，也不依赖同一家运营商，因此可以取代有问题的光纤，也可以在光纤断线时当作备用路径。",
+          "试用的风险不高：以马来西亚为例，Max 的设备租赁 RM 0，100 Mbps 购买设备后仍有 30 天可退。你可以在自己的屋顶实测真实稳定度，问题解决了再续订。如果你考虑改用 4G 或 5G 家用路由器做备用，请加上路由器费用并确认流量。"
         ],
-        "emphasis": "地址上既没有稳定光纤、4G 也不理想时，Starlink 才值得放进比较；已有稳定光纤的话，只有套件加月费的 12 个月总额低于现有宽带时，换过去才划算。",
-        "emphasisAfterParagraph": 1
+        "emphasis": "如果光纤确实稳定并达到合同速度，单为月费换过去很少划算；如果当地网络频繁掉线或严重降速，Starlink 作为主线或备用线，就靠稳定性和独立性而有价值。",
+        "emphasisAfterParagraph": 3,
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "可作为主线或备用网络的 Starlink 官方天线和路由器",
+          "caption": "独立于当地运营商线路的 Starlink 官方天线和路由器。Starlink 官方照片。",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "怎么把 Starlink 放在不稳的光纤旁边使用",
+        "paragraphs": [
+          "这一段是一般性的操作建议，不是我们自己的安装记录。把 Starlink 放在不稳定的光纤旁边，有两种做法，从最简单到自动切换。",
+          "第 1 级，不用额外花钱：保留 Starlink 的 Wi-Fi 当第二个网络，光纤在开会中掉线时，把手机或笔记本切过去。这是手动切换，只要几秒，但你得先发现掉线并自己动手。",
+          "第 2 级，自动切换：使用支持 Dual-WAN（或 Multi-WAN）和 failover 的路由器。光纤接一个 WAN 口，Starlink 接另一个，路由器检测到光纤断线就把流量转到 Starlink。这时 Starlink 通常通过应用的 bypass 模式接到你自己的路由器，由你的路由器管理网络。不同型号需要的配件不同，有些套件要以太网转接器，请向 Starlink 支持确认。",
+          "自动切换时，因为对外地址会改变，进行中的通话和 VPN 可能要重新连接几秒。依赖它之前先测试：把光纤拔掉几分钟，看通话、监控和远程工作是否自动恢复。"
+        ]
+      },
+      {
+        "heading": "大雨、强风和停电时",
+        "paragraphs": [
+          "早期的高轨道卫星网络，延迟高达数百毫秒，不利于通话和游戏。Starlink 使用低轨道卫星，并公布陆地上的典型延迟为 25 至 60 毫秒，这是官方参考值，不是我们地址的实测。",
+          "非常大的雨、雪和风暴可能让性能暂时下降，风大的地方也要把天线固定牢。和光纤相比，街上被挖断的电缆有时要等很久才修好，而 Starlink 不依赖它。",
+          "停电也要考虑：Starlink 的天线和路由器需要电力，光纤的设备也一样。按 Starlink 规格列出的耗电量配一台 UPS 或便携储能电源，短时间停电时可以维持连接。如果整个小区停电，街上的网络也可能中断，所以依赖它之前先整套测试。"
+        ]
       },
       {
         "heading": "速度与游戏",
@@ -297227,47 +303171,57 @@ export const reviewsData: unknown[] = [
       {
         "heading": "合约与退出",
         "paragraphs": [
-          "在订单里核对是否有合约、套件是否须归还，以及退回和退款的条件。具体步骤见[取消与退货指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
+          "在马来西亚的例子里，100 Mbps 的设备是购买，Max 的设备是租赁，两者都没有看到 12 个月的最短合约。租赁设备在取消时必须归还，30 天内取消并归还设备可按订购页条件退款。具体步骤见[取消与退货指南](/zh-hans/reviews/starlink-cancel-zh-hans)。",
+          "打开订购页不需要任何费用：价格、优惠和是否可供应，要在 starlink.com 输入地址后才会出现。推荐只有在通过推荐链接、付款之前、在 starlink.com 下单时才算数，在购物平台买的不适用。"
+        ],
+        "links": [
+          {
+            "label": "在我的地址试用，30 天内可退",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
         "heading": "用户抱怨什么",
         "paragraphs": [
-          "Starlink 在 Trustpilot 上的评分是 1.6，共 871 条评价，我们读到的集中抱怨是客服难联系和费用上涨。这个页面的评价未必有代表性。见[Trustpilot 评价解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
+          "Starlink 在 Trustpilot 上的评分是 1.6，我们读到的集中抱怨是客服难联系和费用上涨。这个页面的评价未必有代表性。见[Trustpilot 评价解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
           "Starlink 有折扣优惠券吗？没有。Starlink 没有优惠券：通过我们的推荐链接订阅，满两个月后可获得奖励，金额因国家而异（例如美国为 US$ 100），默认以账单抵扣的形式发放，推荐人获得相同金额。",
-          "在城市里值得买 Starlink 吗？如果地址上有稳定的光纤，换之前先比较安装费、月费和合约。",
-          "Starlink 比光纤好吗？没有好光纤时，值得查一下价格并确认能不能看到开阔天空。两者都有时，比较稳定性和成本。",
+          "在城市里值得买 Starlink 吗？取决于你现有光纤到底好不好。又便宜又稳定，费用上通常光纤胜出。如果经常掉线或远低于合同速度，在天空开阔的前提下，Starlink 可作为替代或备用。我们就是这个原因办理的。",
+          "Starlink 比光纤好吗？在最高速度和延迟上，健康的光纤通常占优。在应对区域性故障和街上电缆被挖断的持续性上，Starlink 是独立于当地运营商的路径，有帮助。",
           "Starlink 适合玩游戏吗？请在你的地址测延迟和中断。Starlink 公布的典型范围只是通用参考。",
-          "Starlink 是不限量的吗？Starlink 说家用套餐不限数据量。请看订单页所选套餐的速度限制。",
-          "Starlink 每月多少钱？因国家和地址而异。输入地址，在订单页上读出所选套餐的月费。"
+          "Starlink 是不限量的吗？Starlink 说家用套餐不限数据量。请看订购页所选套餐的速度限制。",
+          "Starlink 每月多少钱？因国家和地址而异。以马来西亚吉隆坡为例，100 Mbps 月费 RM 135，Max 月费 RM 235。请输入你的地址，以订购页显示的价格为准。",
+          "可以把 Starlink 当光纤的备用吗？可以。使用支持 failover 的 Dual-WAN 路由器，光纤断线时由 Starlink 接手；没有的话可以手动切换网络。bypass 模式需要的设备，请向 Starlink 支持确认。"
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "你的地址没有好光纤，4G 也很弱。",
-        "你能接受订单上写明的套件和合约条件，并知道价格会随地址变化。"
+        "即使有便宜的光纤，当地网络仍经常掉线或远低于合同速度，而你需要可靠的替代或备用网络。",
+        "你已用 Starlink 应用确认天空视野，并能接受订单上写明的设备和合约条件。"
       ],
       "skipIf": [
-        "你的地址已有稳定光纤，不用买套件，也没有合约。",
-        "你要玩延迟要求高的在线游戏，而 Starlink 只公布典型延迟范围，不保证你所在地址的具体数值。"
+        "你已有稳定且达到合同速度的光纤，没有频繁到需要备用的断线。",
+        "你需要延迟有保证的竞技型在线游戏，而 Starlink 只公布典型延迟范围，不保证你所在地址的具体数值。"
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在 Starlink 官网输入你的地址，付款前确认套餐、套件和月费。",
-      "label": "查看我所在地址的套餐",
+      "text": "以和官方网站相同的价格下单，如果在你的屋顶不能用，可在 30 天内退回；推荐奖励因国家而异（例如美国为 US$ 100），符合规则后以账单抵扣发放。",
+      "label": "通过推荐链接在 starlink.com 查看我的地址",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "价格读取自官方订购页，没有完成购买。我们尚未实际使用该服务。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
+    "editorialNote": "我们为了替代并备用不稳定的光纤而办理了 Starlink。本指南的价格和硬件条件取自官方公开的订购页面。我们参加 Starlink 推荐计划，如果你通过我们的链接订购并符合规则，我们可能获得奖励。",
     "relatedArticles": [
       {
         "slug": "starlink-cancel-zh-hans"
@@ -297285,8 +303239,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-cancel-zh-hans",
     "translationKey": "starlink-fidelidade",
     "locale": "zh-hans",
-    "title": "Starlink 有合约吗？取消服务、归还设备和退款",
-    "seoTitle": "Starlink 有合约吗？取消与退货",
+    "title": "Starlink 有合约吗？三种设备模式：购买、租用与 12 个月合约，加上取消与退款",
+    "seoTitle": "Starlink 有合约吗？三种设备模式与取消退款",
     "type": "实用指南",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -297297,8 +303251,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "如何在订单里确认 Starlink 的合约、设备归还和退款条件，以及在账户中取消订阅。",
-    "metaDescription": "查看 Starlink 订单中的合约、设备归还和退款条件，以及怎样取消订阅。",
+    "description": "Starlink 官网没有简体中文版。按地址不同，设备可能是购买、0 元租用或绑 12 个月合约。以马来西亚为例说明，并附 30 天退款与取消步骤。",
+    "metaDescription": "Starlink 官网没有中文界面，设备有购买、租用和 12 个月合约三种模式。以马来西亚为例，并说明 30 天退款与取消步骤。",
     "publishedAt": "2026年11月20日",
     "publishedAtISO": "2026-11-20",
     "updatedAt": "2026-11-23",
@@ -297313,22 +303267,81 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 的合约和设备条件因市场而异。订购前确认是否有最低合约期限，设备是租用还是购买，以及取消时是否须归还。退款金额、归还期限和期限起算日，以你所在地区的订单条款为准。"
+          "Starlink 没有一套全球通用的合约规则，设备条件因地址而不同，而且官方订购页没有简体中文版。我们看到三种模式：购买设备且没有合约期限，例如马来西亚的 100 Mbps；0 元租用设备、取消时须退回，例如马来西亚的 Max、美国、日本和欧洲；以及补贴设备但绑 12 个月合约并有提前解约费，例如巴西的 Max 和墨西哥的 Standard 4 X。各种模式都有 30 天的退回与退款期，请以你自己订单上的条款为准。"
         ]
       },
       {
-        "heading": "订单页怎么写",
+        "heading": "没有中文版，所以看你的地址",
         "paragraphs": [
-          "我们在 2026 年 11 月 20 日读取了几个国家的订购页。有的国家把套件列为租用，取消服务时要退回；在意大利，页面直接写着没有合约；还有的国家，套件要购买。",
-          "中文版没有固定的参考国家，所以我们不写具体金额。输入你的地址，到订单页的硬件一栏确认你属于哪一种。"
+          "Starlink 的语言菜单里没有简体中文，也没有繁体中文，而中国大陆、台湾和香港也没有普通的住宅订购页。想在海外使用的读者，会看到英文或当地语言的订购页，并由你输入的地址决定属于哪一种模式。",
+          "我们用同一个马来西亚地址（吉隆坡）演示两种模式，因为两者在同一页并排出现。2026 年 11 月 23 日，100 Mbps 方案每月 RM 135，设备 Mini X 要买，价格 RM 900。Max 方案每月 RM 235，硬件租用每月 RM 0，租用套件 Mini X 也是 RM 0，运费 RM 89。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+            "alt": "Starlink 马来西亚吉隆坡的方案页：100 Mbps 每月 RM 135，Mini X 购买价 RM 900",
+            "caption": "吉隆坡，2026 年 11 月 23 日查看：100 Mbps 每月 RM 135，Mini X 购买 RM 900。",
+            "objectFit": "square",
+            "aspectRatio": 0.9898
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+            "alt": "Starlink 马来西亚的 Max 订单摘要：每月 RM 235、硬件租用 RM 0、租用套件 Mini X RM 0、运费 RM 89",
+            "caption": "吉隆坡订单摘要，2026 年 11 月 23 日查看：Max 每月 RM 235，租用套件 RM 0。",
+            "objectFit": "portrait",
+            "aspectRatio": 0.8154
+          }
+        ],
+        "links": [
+          {
+            "label": "用我的地址查看方案与合约条件",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
+      },
+      {
+        "heading": "三种模式，各举一个例子",
+        "paragraphs": [
+          "第一种是购买设备，没有合约期限。马来西亚的 100 Mbps、韩国和阿曼都是这样：设备买断，30 天内可按条件退回并退款。我们读到的页面没有出现合约期限或违约金。",
+          "第二种是 0 元租用，取消时须退回。马来西亚的 Max、美国、日本和欧洲的多数市场是这样。页面会写明如果取消服务，必须退回租用的 Starlink 硬件，但没有 12 个月的绑约。",
+          "第三种是补贴设备加 12 个月合约。巴西的 Residencial Max 用 R$ 49 拿到 Mini X，页面写明 12 个月合约，提前解约费最高 R$ 1,099；墨西哥的 Standard 4 X 也有 12 个月期限，解约费最高 4,600 墨西哥比索。同一个国家也可能并排出现两种模式，例如巴西的 100 Mbps 买下 Mini X R$ 299，页面没有 12 个月的字样。"
+        ],
+        "comparisonTable": {
+          "caption": "各模式的例子取自 2026 年 11 月官方订购页，实际条款以你的地址为准。",
+          "headers": [
+            "模式",
+            "例子",
+            "设备",
+            "合约与费用"
+          ],
+          "rows": [
+            [
+              "购买设备",
+              "马来西亚 100 Mbps；韩国；阿曼",
+              "自己买，例如 Mini X RM 900",
+              "没有看到合约期限或违约金"
+            ],
+            [
+              "0 元租用",
+              "马来西亚 Max；美国；日本；欧洲",
+              "租用套件 0，取消时须退回",
+              "没有 12 个月合约"
+            ],
+            [
+              "补贴设备加合约",
+              "巴西 Max；墨西哥 Standard 4 X",
+              "Mini X R$ 49；Standard 4 X 打折后购买",
+              "12 个月合约，提前解约费最高 R$ 1,099 或 4,600 比索"
+            ]
+          ]
+        }
       },
       {
         "heading": "归还和退款条件",
         "paragraphs": [
-          "查看订单条款中的归还期限、起算日期和设备状态要求。退款前是否要先取消，以及套件、月费和运费哪些可退，都应在自己的订单中核对。",
-          "取消订阅会停止之后的扣款。请向 Starlink 支持确认如何同时办理套件退回，并保存寄送凭证。",
-          "通过[Starlink 推荐链接](/zh-hans/coupons/starlink)下单时，也请在订单页确认退货政策。"
+          "先在订购页确认退回的起算日期、期限和设备状态要求。按我们看到的订购页，30 天从付款到期日算起，取消服务并把设备完好退回，才能申请设备和首月费用的退款。",
+          "取消订阅只会停止之后的扣款。请向 Starlink 支持确认如何同时办理设备退回，并保存寄送凭证。通过[Starlink 推荐链接](/zh-hans/coupons/starlink)打开的，是官方网站上的同一张订单，退货政策仍以订单页为准。"
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
@@ -297337,7 +303350,14 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
-        "emphasis": "按订单页条款，取消服务并在期限内把套件完好退回，才能申请套件和首月费用的退款，所以寄送凭证就是起决定作用的证明。"
+        "emphasis": "按订单页条款，取消服务并在期限内把套件完好退回，才能申请套件和首月费用的退款，所以寄送凭证就是起决定作用的证明。",
+        "links": [
+          {
+            "label": "在 starlink.com 查看含 30 天退款的方案",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "怎么取消",
@@ -297360,8 +303380,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠价与更换套餐",
         "paragraphs": [
-          "取消、更换套餐或暂停后优惠价会怎样，以你自己订单里的条款为准。标准价格可能调整。"
+          "我们读到的几个国家的订购页，优惠是服务费减 30% 或减 50%，期限标示到 11 月底。取消、更换套餐或暂停后优惠价会怎样，以你自己订单里的条款为准，标准价格也可能调整。"
         ]
+      },
+      {
+        "heading": "付款前，先确认你的订单",
+        "paragraphs": [
+          "推荐只在订单从推荐链接开始时才算，链接要在付款前于 starlink.com 打开。付款之后，或在第三方平台购买，都无法补上。打开链接不代表承诺任何事：你的地址会显示属于哪一种模式，30 天的退回期就是试用的保险。奖励会在服务满两个月后以账单抵扣的形式入账，不会降低设备价格。"
+        ],
+        "checklist": {
+          "title": "付款前",
+          "items": [
+            "我在付款前，于同一个窗口从推荐链接打开了订单。",
+            "输入任何资料前，我确认浏览器地址栏仍是 starlink.com。",
+            "我在天线预定位置，用 Starlink App 做了障碍物检查。",
+            "我在订单摘要中读了设备一栏、月费，以及是否写有合约期限。",
+            "付款前，我存了显示月费和 30 天规则的摘要截图。"
+          ]
+        }
       },
       {
         "heading": "取消后仍在扣款怎么办",
@@ -297373,10 +303409,10 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "Starlink 有优惠码吗？没有。Starlink 没有优惠券：通过 Cecília 的推荐链接订购的人，在服务满两个月后会以账单抵扣的形式获得奖励，推荐人获得同样的金额。金额因国家而异，例如在美国是 100 美元。",
-          "Starlink 有合约吗？因国家而异。订单页会写明套件是租用还是购买，有的国家，比如意大利，写的是没有合约。",
-          "取消 Starlink 有违约金吗？以你的订单页为准。中文版不写具体金额，请在确认取消之前核对适用条件。",
-          "Starlink 可以随时取消吗？可以在账户里提交。如果订单里有合约条款，提前退出前请先核对。",
-          "可以归还设备并退款吗？请核对你所在地区的订单条款，确认归还期限、设备条件和可退款项。",
+          "Starlink 有合约吗？因地址而异。马来西亚的 100 Mbps 是购买设备，我们没有看到合约期限；马来西亚的 Max 是 0 元租用；巴西的 Max 和墨西哥的 Standard 4 X 则绑 12 个月。请在订购页的设备一栏确认。",
+          "取消 Starlink 有违约金吗？以你的订单页为准。巴西 Max 的订单写明提前解约费最高 R$ 1,099，墨西哥 Standard 4 X 最高 4,600 比索；租用和购买设备的页面我们没有看到违约金。",
+          "Starlink 可以随时取消吗？可以在账户里提交，并在计费日 UTC 00:00 之前完成。如果订单里有合约条款，提前退出前请先核对。",
+          "官网有中文版吗？没有。语言菜单里没有简体中文，也没有繁体中文，请用英文或当地语言的页面，并在设备一栏确认你的模式。",
           "取消要在什么时候之前操作？计费按 UTC 时间，要在计费日 UTC 00:00 之前完成，否则下个周期照常扣款。"
         ]
       }
@@ -297398,7 +303434,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "取消时，你能在30天内把套件完好退回。",
+        "取消时，你能在30天内把套件完好退回，并且愿意自己确认订单上的设备模式。",
         "付款前，你会读自己订单摘要里的条款。"
       ],
       "skipIf": [
@@ -297407,8 +303443,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "链接会打开 Starlink 官网。付款前请确认合约、费用和套件退回条件。",
-      "label": "查看我所在地址的条款",
+      "text": "订购页会通过推荐链接在 starlink.com 打开，链接要在付款前使用。价格和官网相同，你能看到自己地址的合约条件，也保留 30 天的退回期。奖励在服务满两个月后入账。",
+      "label": "查看我所在地址的合约与方案",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -297446,7 +303482,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "Starlink 是 SpaceX 的卫星互联网服务，官网是 starlink.com。在 Trustpilot 上，指向 starlink.com 的页面名为“Starlink Development”。如果在别处买套件，付款前请先查看 Starlink 的授权经销商名单，并确认商品的卖家是谁。"
+          "是的，Starlink 靠谱：它是 SpaceX 的卫星互联网服务，并在 starlink.com 直接销售。我们自己也因当地光纤不稳定而申装，作为替代与备用网络。真正需要防范的是仿冒网站和非授权卖家：在 Trustpilot 上指向 starlink.com 的页面名为“Starlink Development”；如果在别处购买套件，付款前请先核对 Starlink 授权经销商名单并确认店铺主体。"
         ]
       },
       {
@@ -297467,7 +303503,22 @@ export const reviewsData: unknown[] = [
         "heading": "如何认出官网",
         "paragraphs": [
           "在浏览器里输入 starlink.com。填写资料或付款前，确认自己仍在 starlink.com 之内。",
-          "在订单页按你自己的地址，核对套餐、套件（租用或购买）、税费和合约期限。如果有人要求通过消息或在订单之外付款，请先向 Starlink 客服确认再继续。"
+          "在订单页按你自己的地址，核对套餐、套件（租用或购买）、税费和合约期限。如果有人要求通过消息或在订单之外付款，请先向 Starlink 客服确认再继续。",
+          "不弄错网址的一个简单做法，是从推荐链接打开订购页：它会直接带你到 starlink.com 的订购页，输入任何信息前仍要检查浏览器地址栏。价格与官网相同，推荐只适用于付款前从推荐链接开始的订单。"
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "starlink.com 官方住宅套餐订购页面示例（马来西亚吉隆坡地址）",
+          "caption": "马来西亚吉隆坡地址的 starlink.com 订购页面示例（2026 年 11 月 23 日查询）。官网没有中文版本。",
+          "objectFit": "square",
+          "aspectRatio": 0.9898
+        },
+        "links": [
+          {
+            "label": "通过推荐链接打开 starlink.com 官方订购页",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -297493,7 +303544,14 @@ export const reviewsData: unknown[] = [
             "label": "Starlink 授权经销商名单",
             "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "深色背景上的 Starlink 套件部件：底座、支架和线缆",
+          "caption": "Starlink 套件部件。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "Trustpilot 上能看到什么",
@@ -297501,6 +303559,29 @@ export const reviewsData: unknown[] = [
           "在 Trustpilot 上，starlink.com 的页面有 879 条评价，TrustScore 为 1.6（满分 5）：71% 是 1 星，17% 是 5 星。这个页面没有被认领，也就是 Starlink 没有运营它，回复率为 0%。",
           "我们读了最新的 40 条 1 星和 40 条 5 星评价。1 星评价里最常见的抱怨是客服只有机器人或聊天（约 3 条中有 1 条）、断线和速度偏低（约 3 条中有 1 条）、订阅后月费上涨（约 4 条中有 1 条）、扣费和取消困难（约 4 条中有 1 条）、合作商安装人员迟到或没来（约 4 条中有 1 条）、套件延迟或没收到（约 5 条中有 1 条）。5 星评价称赞速度和稳定性（约一半）、安装简单（约 3 条中有 1 条）、当地没有其他好的网络选择（约 4 条中有 1 条）。数量是我们自己统计的，仅供参考。",
           "看分数要小心：没被认领的页面不会在购买后发出评价邀请，会打开它的人往往是想抱怨。称赞多关于信号，抱怨多关于客服、价格和扣费，说信号一直很差的 1 星评价并不多。Trustpilot 根据 355 条近期评价生成的自动摘要，方向也一致。具体数字见我们的 [Trustpilot 页面完整解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "付款前检查清单",
+        "paragraphs": [
+          "这五项检查适用于任何地址，只需几分钟。"
+        ],
+        "checklist": {
+          "title": "提交订单前",
+          "items": [
+            "我在同一个浏览器窗口中通过推荐链接打开订购页，让推荐能被计入。",
+            "输入任何信息前，我确认地址栏仍在 starlink.com。",
+            "我在预计安装天线的位置运行了 Starlink App 的障碍物检测，确认天空开阔。",
+            "我在订单摘要中看过套餐、套件、总额和合约期限。",
+            "付款前，我已截图保存含月费和 30 天规则的订单摘要。"
+          ]
+        },
+        "links": [
+          {
+            "label": "在 starlink.com 确认我的地址能否使用",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -297518,7 +303599,7 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "Starlink 有优惠码吗？ 没有，Starlink 没有优惠码。通过 Cecília 的推荐链接订阅，使用满两个月后会以账单抵扣额度的形式到账，推荐人也会获得相同金额。金额因国家而异，例如在美国为 US$ 100。",
-          "Starlink 靠谱吗？ Starlink 是 SpaceX 的卫星互联网服务。请确认你在 starlink.com，如果在别处购买，请使用授权经销商名单。",
+          "Starlink 靠谱吗？ 是的，Starlink 是 SpaceX 官方运营的卫星互联网服务。下单前请确认网址是 starlink.com；如果在其他平台购买，请先核对授权经销商名单。",
           "Starlink 的官网是什么？ 官网是 starlink.com。",
           "怎么确认卖家是授权经销商？ 查看 Starlink 的经销商名单，并在付款前确认商品的卖家是谁。",
           "该在官网买还是向经销商买？ 在 starlink.com，订单页会在付款前显示你所在地址的套餐、套件、税费和合约，推荐也只在那里有效。官方名单上的经销商是正规卖家，但推荐不适用。"
@@ -297528,7 +303609,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "依据官网、帮助中心和 Trustpilot 公开页面整理。我们参加了 Starlink 的推荐计划；如果你通过我们的链接订阅并符合规则，我们可能获得奖励。",
+    "editorialNote": "依据官网、帮助中心和 Trustpilot 公开页面整理。我们因当地光纤不稳定而申装 Starlink，作为替代与备用网络。我们参加了 Starlink 推荐计划；如果你通过我们的链接订阅并符合规则，我们可能获得奖励。",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-zh-hans"
@@ -297551,8 +303632,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "到 Starlink 网站输入你的地址，付款前先核对套餐、套件和月费。",
-      "label": "查看你地址的套餐",
+      "text": "从推荐链接打开订购页，确认地址栏仍在 starlink.com，并在付款前查看你地址的套餐、套件与总额。价格与官网相同。",
+      "label": "在 starlink.com 查看我的地址",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -297646,6 +303727,36 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "Trustpilot，starlink.com 主页，2026 年 11 月 23 日查看。"
+        },
+        "metrics": {
+          "items": [
+            {
+              "label": "TrustScore",
+              "value": "1.6",
+              "unit": "/5",
+              "note": "未认领主页"
+            },
+            {
+              "label": "评价总数",
+              "value": "879",
+              "note": "仅自然产生"
+            },
+            {
+              "label": "公司回复",
+              "value": "0%",
+              "note": "464 条负面中 0 条"
+            },
+            {
+              "label": "1 星 vs 5 星",
+              "value": "71%",
+              "unit": "vs 17%",
+              "note": "客服和账单居首"
+            }
+          ],
+          "summary": {
+            "badge": "看懂落差",
+            "text": "好评集中在速度和稳定的信号；抱怨则集中在自动化客服、账单和价格调整。"
+          }
         }
       },
       {
@@ -297695,15 +303806,32 @@ export const reviewsData: unknown[] = [
         "heading": "这对订阅者意味着什么",
         "paragraphs": [
           "付款之前，请在 starlink.com 针对你自己的地址确认方案、套件（租用或购买）、税费和合同：这些会因国家甚至地址而不同。把下单当天的优惠页面截图保存，每张账单都拿来对照。",
+          "最简单的保护办法，是直接在 starlink.com 下单，并把订单摘要页面保存下来，上面有价格、套件、合同条件和已应用的推荐。之后拿第一张账单和这张截图对照。推荐只在通过推荐链接打开的订单上、付款之前才算数，事后无法补上。",
           "租用套件和退还规定见[合同、取消与退款指南](/zh-hans/reviews/starlink-cancel-zh-hans)。"
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "固定在木屋屋顶上的 Starlink 天线",
-          "caption": "装好的家用天线。Starlink 官方照片。",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
-        }
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+            "alt": "马来西亚吉隆坡的 Starlink 方案页面：100 Mbps 每月 RM 135，Mini X 套件 RM 900（购买）",
+            "caption": "马来西亚吉隆坡，100 Mbps 方案：月费和购买 Mini X 套件的价格。Starlink 的选择器没有中文界面，这里以马来西亚为例，说明值得保存的页面。2026年11月23日查询。",
+            "objectFit": "square",
+            "aspectRatio": 0.9898
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "固定在木屋屋顶上的 Starlink 天线",
+            "caption": "装好的家用天线。Starlink 官方照片。",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ],
+        "links": [
+          {
+            "label": "在 starlink.com 打开官方订单并确认我所在的地区",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "怎么提出问题",
@@ -297715,15 +303843,32 @@ export const reviewsData: unknown[] = [
             "label": "Trustpilot 上的 starlink.com 主页",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "Starlink Standard 套件内容：天线、路由器、支架和线缆",
+            "caption": "Starlink Standard 套件：天线、路由器、支架和线缆。照片：Starlink",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "订阅之前",
         "paragraphs": [
           "订阅之前，请先确认网站和条款。如何认出官方网站和冒用名称的主页，见[Starlink 可靠吗？](/zh-hans/reviews/starlink-trust-zh-hans)。",
+          "打开订单不会让你承担任何义务：方案、价格、可用性和合同条件，要输入地址后才会显示。Starlink 的 30 天政策在订单上写明，若在期限内取消并将套件完好退还，可获退款；若是带合同的补贴套件，请确认 30 天后是否有费用。",
           "[Starlink 推荐](/zh-hans/coupons/starlink)页面有链接和计划规则。推荐不是优惠券：奖励在订阅满两个月后以账单抵扣的形式到账，优先级、企业和商用方案不适用。"
         ],
-        "emphasis": "按表格里的数字，对地址上没有其他好网络选择的人来说，在 starlink.com 针对该地址确认方案、套件、税费和合同之后再订阅是合理的，因为 1.6 反映的多半是客服、账单和价格方面的抱怨，而不是信号质量。"
+        "emphasis": "按表格里的数字，对地址上没有其他好网络选择的人来说，在 starlink.com 针对该地址确认方案、套件、税费和合同之后再订阅是合理的，因为 1.6 反映的多半是客服、账单和价格方面的抱怨，而不是信号质量。",
+        "links": [
+          {
+            "label": "在 starlink.com 确认我的地址是否可用",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "常见问题",
@@ -297762,8 +303907,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "在 Starlink 网站输入你的地址，付款前先确认方案、套件和月费。",
-      "label": "查看你地址的方案",
+      "text": "通过推荐链接打开订单，确认你地址的方案、套件和合同，付款前把摘要页面保存下来。价格与官方网站相同。",
+      "label": "在 starlink.com 打开我的订单",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -316805,8 +322950,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-black-friday-ar",
     "translationKey": "starlink-black-friday",
     "locale": "ar",
-    "title": "Starlink في الجمعة البيضاء 2026: كم يكلّف عرض نيفادا",
-    "seoTitle": "Starlink في الجمعة البيضاء 2026: خصم 30% على الخدمة في مناطق محددة",
+    "title": "Starlink في الجمعة البيضاء 2026: أسعار عُمان وقطر بالعربية ومقارنتها بعروض أمريكا وأوروبا",
+    "seoTitle": "Starlink في الجمعة البيضاء 2026: عُمان وقطر وأمريكا وأوروبا",
     "type": "دليل الجمعة البيضاء",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -316817,8 +322962,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "في صفحة الطلب لمدينة رينو بولاية نيفادا، عرضت Starlink مبلغ 21.65$ مستحقًا اليوم وباقات تبدأ من 38.50$ شهريًا. تعرّف على مكان مكافأة الإحالة وكيف تتحقق من عنوانك.",
-    "metaDescription": "في رينو عرضت Starlink خصم 30% على الخدمة وجهازًا مستأجرًا بـ 0$ وباقات تبدأ من 38.50$ شهريًا. اعرف كم يكلّف الطلب وتحقق من عنوانك.",
+    "description": "موقع Starlink الرسمي متاح بالعربية في عُمان وقطر: 30 ر.ع. شهريًا في عُمان بلا تعاقد. قارنّا الأسعار بعروض الجمعة البيضاء في أمريكا وأوروبا وشرحنا مكافأة الإحالة.",
+    "metaDescription": "أسعار Starlink بالعربية في عُمان وقطر، مقارنةً بخصم 30% في أمريكا وأوروبا، وكيف تُحتسب مكافأة الإحالة وكيف تتحقق من عنوانك.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
     "updatedAt": "2026-11-23",
@@ -316833,55 +322978,125 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "أظهر طلب في مدينة رينو بولاية نيفادا خصم 30% على باقات الخدمة، وجهازًا مستأجرًا بـ 0$، ومبلغ 21.65$ مستحقًا عند الدفع. بدأت الباقات من 38.50$ شهريًا. وعرض الطلب الذي فُتح عبر رابطنا مكافأة إحالة منفصلة قدرها 100$. تحقق من توفر العرض لعنوانك وتأكد من شروط المكافأة قبل الدفع."
+          "يعمل موقع Starlink بالعربية في عُمان وقطر. في مسقط قرأنا الباقة المنزلية بـ 30 ر.ع. شهريًا مع شراء الجهاز (Standard 4 X بـ 160 ر.ع.) وبلا تعاقد وبتجربة 30 يومًا. أما عروض الجمعة البيضاء الظاهرة في قراءتنا فكانت في أمريكا (خصم 30% حتى 30 نوفمبر) وأوروبا. مكافأة الإحالة تختلف بحسب البلد، مثل 100$ في الولايات المتحدة، ولا تُحتسب إلا للطلب الذي يُفتح من رابط إحالة قبل الدفع، وتصل بعد دورتين شهريتين مدفوعتين."
         ]
       },
       {
-        "heading": "ما الذي تدفعه ومتى تصل المكافأة",
+        "heading": "الأسعار في عُمان وقطر وأمريكا وأوروبا",
         "paragraphs": [
-          "قرأنا صفحة الطلب لمدينة رينو بولاية نيفادا في 20 نوفمبر 2026 دون إتمام عملية الشراء. وعرضت 21.65$ مستحقة اليوم. كانت باقة Residential بسرعة 100 ميغابت في الثانية بسعر 38.50$ شهريًا، ومعها Starlink V5 وRouter Mini، وباقة Max بسعر 91$ شهريًا. وكان الجهاز بنظام الإيجار، بـ 0$ مقدمًا و0$ شهريًا.",
-          "أظهرت لقطة الشاشة المأخوذة عبر رابطنا 20$ زائد الضرائب مستحقة عند الدفع، إضافة إلى عرض إحالة بقيمة 100$. وشهران بالسعر المعروض لباقة 100 ميغابت يساويان 77$. راجع فواتيرك الفعلية وأي رسوم مقدمة قبل أن تحسب نسبة ما ستغطيه المكافأة إن كنت مؤهلًا لها."
+          "قرأنا صفحات الطلب الرسمية في 23 نوفمبر 2026 دون إتمام أي عملية شراء. في مسقط، عُمان، كانت الباقة المنزلية بسعر 30 ر.ع. شهريًا، والجهاز بالشراء لا بالإيجار: Standard 4 X بـ 160 ر.ع. أو Mini بـ 80 ر.ع.، مع شحن بـ 10 ر.ع.، فيكون المستحق اليوم 170 ر.ع. مع Standard 4 X. وفي الدوحة، قطر، كانت باقة المنازل Lite بـ 220 ريالًا شهريًا مع Standard 4 X بـ 1,500 ريال وشحن 80 ريالًا، فالمستحق اليوم 1,580 ريالًا.",
+          "وللمقارنة، في ولاية نيفادا الأمريكية كانت باقة 100 ميغابت بـ 38.50$ شهريًا بعد خصم 30% (السعر العادي 55$) مع جهاز مستأجر بـ 0$ ومستحق اليوم 20$ زائد الضرائب، وفي لشبونة بالبرتغال 24.50 يورو شهريًا (السعر العادي 35 يورو) مع جهاز مستأجر بـ 0 يورو وشحن 20 يورو. مكافأة الإحالة 100$ في الولايات المتحدة و45 يورو في البرتغال، وتُضاف إلى الفاتورة بعد دورتين شهريتين، ولا تخفّض سعر الجهاز."
         ],
         "comparisonTable": {
           "headers": [
-            "صفحة الطلب، رينو، نيفادا",
-            "المبلغ"
+            "السوق والباقة",
+            "شهريًا",
+            "الجهاز",
+            "المستحق اليوم"
           ],
           "rows": [
             [
-              "الإجمالي المستحق اليوم",
-              "21.65$"
+              "عُمان، مسقط، المنازل",
+              "30 ر.ع.",
+              "شراء Standard 4 X بـ 160 ر.ع. أو Mini بـ 80 ر.ع.",
+              "170 ر.ع. أو 90 ر.ع."
             ],
             [
-              "Residential بسرعة 100 ميغابت، شهريًا",
-              "38.50$"
+              "قطر، الدوحة، المنازل Lite",
+              "220 ريالًا",
+              "شراء Standard 4 X بـ 1,500 ريال",
+              "1,580 ريالًا"
             ],
             [
-              "Max، شهريًا",
-              "91$"
+              "أمريكا، نيفادا، 100 ميغابت",
+              "38.50$ (العادي 55$)",
+              "إيجار بـ 0$",
+              "20$ زائد الضرائب"
             ],
             [
-              "إيجار الجهاز، مقدمًا وشهريًا",
-              "0$ و0$"
-            ],
-            [
-              "التركيب الاحترافي الاختياري، باقة 100 ميغابت",
-              "99$"
-            ],
-            [
-              "مكافأة الإحالة في طلب نيفادا عبر رابطنا، بعد دورتين شهريتين",
-              "100$"
+              "البرتغال، لشبونة، 100 ميغابت",
+              "24.50 يورو (العادي 35 يورو)",
+              "إيجار بـ 0 يورو",
+              "20 يورو"
             ]
           ],
-          "caption": "القيم كما ظهرت في صفحة الطلب. لم نسجّل مدة بقاء السعر الترويجي ولا سعر الباقة بعدها."
+          "caption": "صفحات الطلب كما قُرئت في 23 نوفمبر 2026. خصم 30% في أمريكا والبرتغال ينتهي في 30 نوفمبر، ولم نسجّل خصمًا في عُمان وقطر."
+        },
+        "simulator": {
+          "title": "حاسبة سريعة",
+          "scenarios": [
+            {
+              "label": "عُمان مع رابط الإحالة",
+              "lines": [
+                {
+                  "label": "الباقة المنزلية",
+                  "value": "30 ر.ع. شهريًا"
+                },
+                {
+                  "label": "الجهاز بالشراء (Standard 4 X)",
+                  "value": "160 ر.ع."
+                },
+                {
+                  "label": "مكافأة الإحالة بعد دورتين مدفوعتين",
+                  "value": "رصيد على الفاتورة (تظهر قيمتها في طلبك)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "المستحق اليوم مع الشحن",
+              "totalValue": "170 ر.ع.",
+              "note": "بلا تعاقد وبتجربة 30 يومًا، ويُطلب مستند هوية بصورة بعد الطلب."
+            },
+            {
+              "label": "أمريكا أو أوروبا مع الرابط",
+              "lines": [
+                {
+                  "label": "أمريكا: 100 ميغابت",
+                  "value": "38.50$ شهريًا وجهاز مستأجر بـ 0$"
+                },
+                {
+                  "label": "البرتغال: 100 ميغابت",
+                  "value": "24.50 يورو شهريًا وجهاز مستأجر بـ 0 يورو"
+                },
+                {
+                  "label": "مكافأة الإحالة بعد دورتين مدفوعتين",
+                  "value": "-100$ أو -45 يورو",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "المستحق اليوم",
+              "totalValue": "20$ زائد الضرائب (أمريكا) أو 20 يورو (البرتغال)",
+              "note": "الجهاز المستأجر يُعاد عند الإلغاء، والفواتير الأولى تدفعها أنت."
+            },
+            {
+              "label": "بدون رابط الإحالة",
+              "lines": [
+                {
+                  "label": "سعر الباقة والجهاز",
+                  "value": "نفسه مع الرابط"
+                },
+                {
+                  "label": "مكافأة الإحالة",
+                  "value": "0"
+                },
+                {
+                  "label": "ما تخسره",
+                  "value": "المكافأة كاملة",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "المكافأة المستلمة",
+              "totalValue": "0",
+              "note": "لا تُحتسب الإحالة إلا للطلب الذي يُفتح من رابط إحالة قبل الدفع."
+            }
+          ]
         },
         "postParagraphs": [
-          "للحصول على المكافأة يجب أن تكون الإحالة مؤهلة وأن تبقى الخدمة فعّالة ومسددة لدورتين شهريتين كاملتين. تمنح Starlink رصيدًا على الفاتورة، وقد تدفع نقدًا بحسب الحساب."
+          "الفرق الجوهري بين السوقين أن الجهاز في عُمان وقطر يُشترى فيبقى لك، بينما هو في أمريكا وأوروبا مستأجر بـ 0 ويجب إعادته عند الإلغاء. لذلك قارن المبلغ المستحق اليوم لا السعر الشهري وحده."
         ],
-        "emphasis": "بحسب أرقام الجدول، يعرض طلب رينو 21.65$ مستحقة اليوم وباقة Residential من 38.50$ شهريًا، ولا تصل مكافأة الإحالة البالغة 100$ إلا بعد دورتين شهريتين كاملتين، فتُدفع الفواتير الأولى من مالك الخاص.",
+        "emphasis": "بحسب الأرقام في الجدول، يُدفع في عُمان 170 ر.ع. اليوم مع Standard 4 X ثم 30 ر.ع. شهريًا، ولا تصل مكافأة الإحالة إلا بعد دورتين شهريتين كاملتين، فتُدفع الفواتير الأولى من مالك الخاص.",
         "links": [
           {
-            "label": "اطّلع على الباقات لعنوانك",
+            "label": "اطّلع على الجمعة البيضاء ومكافأة الإحالة لعنوانك",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -316890,16 +323105,58 @@ export const reviewsData: unknown[] = [
       {
         "heading": "كيف يبدو الطلب",
         "paragraphs": [
-          "تُظهر لقطة الشاشة عبارة “Referral Code Applied” وعرضًا بقيمة 100$ لكل من العميل الجديد والمحيل. وتتحقق Starlink من الأهلية قبل دفع المكافأة.",
-          "للتحقق من عرضك، افتح الرابط وأدخل عنوانك وابحث عن الإشعار نفسه قبل الدفع. وانظر هل يعرض الطلب المكافأة والسعر الشهري."
+          "تُظهر لقطة الشاشة عبارة “Referral Code Applied” في طلب أمريكي فُتح عبر رابط إحالة. الطلب الذي يُفتح عبر الرابط يعرض أن الإحالة مطبّقة وقيمة المكافأة في بلدك.",
+          "للتحقق من عرضك، افتح الرابط وأدخل عنوانك وابحث عن الإشعار نفسه قبل الدفع، وانظر هل يعرض الطلب المكافأة وشروط السعر الشهري."
         ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
           "alt": "شاشة الطلب في موقع Starlink الرسمي مع الرسالة Referral Code Applied، وهي تقول إنك وصديقك تحصلان على 100$ لكل منكما، نقدًا أو رصيد خدمة، عند التسجيل بهذا الرمز",
-          "caption": "الطلب في الموقع الرسمي مع تطبيق رابط الإحالة (نيفادا).",
-          "objectFit": "contain",
-          "aspectRatio": 0.8747
+          "caption": "الطلب في الموقع الرسمي مع تطبيق رابط الإحالة (مثال أمريكي، وتختلف قيمة المكافأة بحسب البلد).",
+          "aspectRatio": 0.8747,
+          "objectFit": "contain"
         }
+      },
+      {
+        "heading": "هل ينطبق العرض على عنوانك؟",
+        "paragraphs": [
+          "تظهر الأسعار والعروض بحسب العنوان الذي تدخله، وقد يرى عنوانان في اليوم نفسه عرضين مختلفين. الموقع الرسمي بالعربية متاح في عُمان وقطر، وتقبل عُمان بطاقات مصدرة في عُمان والبحرين والكويت وقطر والسعودية والإمارات.",
+          "اللقطة أدناه من صفحة الطلب في مسقط: الباقة المنزلية بـ 30 ر.ع. شهريًا، وعبارة «بدون تعاقد»، وسعر Standard 4 X بـ 160 ر.ع. للشراء."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "alt": "صفحة طلب Starlink في مسقط بالعربية مع الباقة المنزلية بـ 30 ر.ع. شهريًا وجهاز Standard 4 X بـ 160 ر.ع. وعبارة بدون تعاقد",
+          "caption": "صفحة الطلب في مسقط، عُمان، كما قُرئت في 23 نوفمبر 2026: الباقة المنزلية 30 ر.ع. شهريًا.",
+          "aspectRatio": 0.7414,
+          "objectFit": "portrait"
+        }
+      },
+      {
+        "heading": "شراء الجهاز أو استئجاره، والإلغاء وتجربة 30 يومًا",
+        "paragraphs": [
+          "في عُمان وقطر يُشترى الجهاز، وتنص الصفحة على «بدون تعاقد» مع فترة تجريبية مدتها 30 يومًا. وتشترط Starlink بعد الطلب مستند هوية بصورة. وفي الأسواق التي يُستأجر فيها الجهاز، مثل أمريكا والبرتغال، يجب إعادته إذا ألغيت الخدمة، ويُرد ثمن الجهاز والشهر الأول إذا أعدته سليمًا خلال 30 يومًا من تاريخ استحقاق الدفعة.",
+          "لهذا لا يكلّفك فتح الطلب شيئًا: ترى سعر عنوانك وتجرّب الطبق على سطحك ثم تقرر. اطّلع على [دليل العقد والإلغاء والاسترداد](/ar/reviews/starlink-cancel-ar)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ar-resumo-oma.webp",
+          "alt": "ملخص طلب Starlink في مسقط بالعربية: 30 ر.ع. شهريًا، وStandard 4 X بـ 160 ر.ع.، وشحن 10 ر.ع.، والإجمالي 170 ر.ع.",
+          "caption": "ملخص الطلب في مسقط (23 نوفمبر 2026): 30 ر.ع. شهريًا، Standard 4 X بـ 160 ر.ع.، وشحن 10 ر.ع.، والإجمالي 170 ر.ع.",
+          "aspectRatio": 1.0392,
+          "objectFit": "square"
+        },
+        "links": [
+          {
+            "label": "أمّن مكافأة الإحالة قبل أن تدفع الطلب",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "بعد انتهاء العرض: كيف تحمي سعرك",
+        "paragraphs": [
+          "خصم 30% في أمريكا والبرتغال ينتهي بنهاية الطلبات في 30 نوفمبر، وبعده يُطبَّق السعر العادي الذي قد يتغيّر. إن كنت ستبقى سنوات فاحسب بالسعر العادي، وراجع في طلبك ما يحدث للسعر الترويجي عند تغيير الباقة أو الإلغاء أو التعليق.",
+          "قبل الدفع احفظ لقطة شاشة لملخص الطلب تُظهر السعر وسطر الجهاز وإشعار الإحالة، وقارنها بفاتورتك الأولى. وإذا لم تتطابق، افتح طلب دعم من حسابك وأرفق اللقطة."
+        ]
       },
       {
         "heading": "كم تساوي إحالة شخص ما؟",
@@ -316909,27 +323166,24 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "هل ينطبق العرض على عنوانك؟",
+        "heading": "4 أخطاء تُضيّع المكافأة",
         "paragraphs": [
-          "ينطبق خصم 30% في مناطق محددة ويعتمد على العنوان الذي تدخله. أدخل عنوانك وقارن السعر الشهري والجهاز والتركيب ومدة العرض. وذكرت صفحة الطلب لمدينة رينو أن الجهاز يُشحن خلال أسبوع."
-        ]
-      },
-      {
-        "heading": "الجهاز المستأجر والإلغاء واسترداد المبلغ",
-        "paragraphs": [
-          "ينص طلب نيفادا على وجوب إعادة الجهاز المستأجر عند الإلغاء. وتصف شروط الاسترداد فيه إلغاء الخدمة وإعادة الجهاز سليمًا خلال 30 يومًا من تاريخ استحقاق الدفعة. اطّلع على [دليل العقد والإلغاء والاسترداد](/ar/reviews/starlink-cancel-ar)."
-        ]
-      },
-      {
-        "heading": "ماذا بعد انتهاء العرض؟",
-        "paragraphs": [
-          "لم نقرأ سعر الباقة بعد انتهاء الفترة الترويجية. وقبل الدفع، راجع في صفحة الطلب مدة خصم 30% والسعر المعتاد."
+          "حتى بعد الضغط على الرابط، تضيع المكافأة بأخطاء صغيرة:"
+        ],
+        "bullets": [
+          "شراء الجهاز من متجر أو سوق إلكتروني ثم محاولة استخدام الرابط بعد ذلك. لا تُحتسب الإحالة إلا لطلب يُجرى في starlink.com عبر رابط إحالة قبل الدفع.",
+          "فتح الرابط على الهاتف وإنهاء الطلب بعد ساعات على جهاز آخر دون فتح الرابط من جديد. قد لا ترافق الإحالة الطلب: أتمّ كل شيء على جهاز واحد أو افتح الرابط مجددًا وابحث عن الإشعار الأخضر.",
+          "التسجيل باسم أو بريد إلكتروني أو عنوان سبق أن كان له حساب في Starlink. المكافأة للعملاء الجدد.",
+          "الإلغاء أو التأخر في الدفع قبل إتمام دورتين شهريتين مدفوعتين. لا تصل المكافأة إلا والخدمة فعّالة والفواتير مسددة."
+        ],
+        "postParagraphs": [
+          "وإذا دُفع الطلب فعلًا دون الرابط، فلا يمكن إضافة الإحالة بعد ذلك."
         ]
       },
       {
         "heading": "كيف تستخدم الرابط",
         "paragraphs": [
-          "افتح الرابط واكتب العنوان الذي ستركّب فيه الطبق. اختر الباقة وتأكد من ظهور الإحالة على أنها مطبّقة، واحفظ لقطة شاشة للعرض قبل أن تدفع.",
+          "فتح الرابط لا يُلزمك بشيء: الأسعار والتوفر والعرض لا تظهر إلا بعد أن تكتب عنوانك. أدخل العنوان الذي ستركّب فيه الطبق، واختر الباقة، وتأكد من ظهور الإحالة على أنها مطبّقة، واحفظ العرض الذي يظهر قبل أن تدفع.",
           "تضم [صفحة إحالة Starlink](/ar/coupons/starlink) الرابط وقواعد البرنامج."
         ]
       },
@@ -316937,22 +323191,24 @@ export const reviewsData: unknown[] = [
         "heading": "الأسئلة الشائعة",
         "bullets": [
           "هل لدى Starlink كود خصم؟ لا. لا يوجد كوبون من Starlink: عبر رابط الإحالة الخاص بـ Cecília، يحصل المشترك بعد شهرين من الاشتراك على مكافأة كرصيد في الفاتورة، ويحصل من أحال على المبلغ نفسه. تختلف القيمة بحسب البلد، ومثالها 100$ في الولايات المتحدة.",
-          "هل لدى Starlink عرض للجمعة البيضاء؟ تعرض صفحة الطلب التي قرأناها خصم 30% على باقات الخدمة في مناطق محددة لمن يشترك قبل نهاية الشهر، مع جهاز مستأجر بـ 0$.",
-          "هل تجتمع الإحالة مع العرض؟ عرض الباقة والإحالة سطران منفصلان في الطلب. وأظهر طلب نيفادا عبر رابطنا إحالة بقيمة 100$ بجانب إجمالي مستحق قدره 20$ زائد الضرائب. وتعتمد المكافأة على الأهلية وعلى دورتين شهريتين كاملتين.",
-          "كم تدفع عند الطلب؟ أظهرت صفحة الطلب لمدينة رينو مبلغ 21.65$ مستحقًا اليوم، وتأتي فاتورة الشهر الأول بعد ذلك.",
-          "هل جهاز Starlink مجاني؟ تدرجه الصفحة على أنه إيجار بـ 0$ مقدمًا و0$ شهريًا. وإذا ألغيت فعليك إعادته.",
-          "إلى متى يستمر العرض؟ تعلن Starlink أنه سارٍ حتى نهاية نوفمبر. أدخل عنوانك في صفحة الطلب لترى هل هو متاح."
+          "هل لدى Starlink عرض للجمعة البيضاء؟ نعم. قرأنا خصم 30% على باقات الخدمة في أمريكا والبرتغال حتى 30 نوفمبر مع جهاز مستأجر بـ 0، ولم نسجّل خصمًا في عُمان وقطر.",
+          "هل تجتمع الإحالة مع العرض؟ هما سطران منفصلان في الطلب. تحقق من ظهورهما في طلب عنوانك. وتعتمد المكافأة على الأهلية وعلى دورتين شهريتين كاملتين.",
+          "كم تدفع عند الطلب في عُمان؟ في مسقط كان المستحق اليوم 170 ر.ع. مع Standard 4 X أو 90 ر.ع. مع Mini، ثم 30 ر.ع. شهريًا.",
+          "هل جهاز Starlink مجاني؟ ليس في عُمان وقطر، فالجهاز يُشترى. وفي أمريكا وأوروبا يُستأجر بـ 0 مقدمًا و0 شهريًا ويجب إعادته إذا ألغيت.",
+          "هل أستطيع تجربة Starlink قبل الالتزام؟ نعم. الصفحة تنص على بدون تعاقد وفترة تجريبية 30 يومًا، ويُرد ثمن الجهاز والشهر الأول إذا ألغيت وأعدت الجهاز سليمًا خلال 30 يومًا.",
+          "هل أستطيع إضافة الإحالة بعد الدفع؟ لا. لا تُحتسب إلا للطلب الذي يُفتح عبر الرابط قبل الدفع.",
+          "إلى متى يستمر العرض؟ تعلن Starlink أنه سارٍ حتى نهاية نوفمبر في الأسواق التي قرأنا فيها الخصم. أدخل عنوانك في صفحة الطلب لترى هل هو متاح."
         ]
       }
     ],
     "cta": {
-      "text": "يُفتح الطلب في موقع Starlink. تحقق من سعر الباقة وشروط الجهاز وقيمة الإحالة قبل أن تدفع.",
-      "label": "تحقق من العرض لعنواني",
+      "text": "تدفع السعر نفسه الظاهر في صفحة الطلب الرسمية، وتحتفظ بتجربة 30 يومًا إن لم يناسب الطبق سطحك، وتصلك مكافأة الإحالة في فاتورتك بعد دورتين مدفوعتين.",
+      "label": "اطّلع على عنواني مع رابط الإحالة",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "الأسعار قرأناها في صفحة الطلب الرسمية دون إتمام عملية شراء. نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة إذا اشتركت عبر رابطنا واستوفيت الشروط.",
+    "editorialNote": "الأسعار قرأناها في صفحات الطلب الرسمية دون إتمام عملية شراء. نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة إذا اشتركت عبر رابطنا واستوفيت الشروط.",
     "relatedArticles": [
       {
         "slug": "starlink-referral-ar"
@@ -316968,11 +323224,11 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "يعرض طلب عنوانك عرض الباقة وشروط الجهاز قبل الدفع.",
+        "يعرض طلب عنوانك السعر وشروط الجهاز، شراءً كان أو إيجارًا، قبل الدفع.",
         "تستطيع انتظار دورتين شهريتين كاملتين للمكافأة ودفع الفواتير في هذه الأثناء."
       ],
       "skipIf": [
-        "لا تعرض صفحة طلبك العرض، لأن الأسعار التي قرأناها تخص عنوانًا واحدًا.",
+        "لا تعرض صفحة طلبك العرض، لأن الأسعار التي قرأناها تخص العناوين التي فحصناها.",
         "قد تلغي قريبًا ولا تريد المخاطرة بإعادة الجهاز أو بفقدان السعر الترويجي."
       ]
     }
@@ -316982,8 +323238,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-cancel-ar",
     "translationKey": "starlink-fidelidade",
     "locale": "ar",
-    "title": "هل لدى Starlink عقد؟ الجهاز المستأجر وطريقة الإلغاء والاسترداد خلال 30 يومًا",
-    "seoTitle": "هل لدى Starlink عقد؟ الإلغاء والاسترداد",
+    "title": "هل لدى Starlink عقد التزام؟ في عُمان وقطر الجهاز مشترى بلا تعاقد، والاسترداد خلال 30 يومًا",
+    "seoTitle": "هل لدى Starlink عقد التزام؟ الإلغاء والاسترداد",
     "type": "دليل عملي",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -316994,15 +323250,15 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "اعرف كيف يُعرض جهاز Starlink للإيجار، وما عليك إعادته عند الإلغاء، وكيف تلغي من حسابك، وكيف يعمل الاسترداد خلال 30 يومًا.",
-    "metaDescription": "تعرض Starlink الجهاز للإيجار، وعليك إعادته إذا ألغيت. اعرف الاسترداد خلال 30 يومًا وطريقة الإلغاء من حسابك وما يتغير بعده.",
+    "description": "في صفحة الطلب بالعربية لعُمان وقطر، يُشترى جهاز Starlink والعبارة «بدون تعاقد». اعرف الأسعار والاسترداد خلال 30 يومًا وطريقة الإلغاء من حسابك.",
+    "metaDescription": "Starlink في عُمان وقطر: الجهاز يُشترى وبدون تعاقد، مع تجربة 30 يومًا. اعرف الأسعار والاسترداد وطريقة الإلغاء من حسابك.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
     "updatedAt": "2026-11-23",
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/starlink/starlink-contract-cancel-refund-capa.webp",
+    "image": "/images/reviews/starlink/starlink-cancel-ar-capa.webp",
     "imageAlt": "طبق Starlink في الثلج أمام شاليه وشخص يعمل في داخله. يظهر على الغلاف «العقد والإلغاء».",
     "imageFit": "contain",
     "imageAspect": "landscape",
@@ -317010,18 +323266,49 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "في صفحة الطلب التي قرأناها لمدينة رينو بولاية نيفادا، كان جهاز Starlink إيجارًا بـ 0$ مقدمًا و0$ شهريًا، وتنص الصفحة على وجوب إعادته إذا ألغيت الخدمة. ويصف العرض استردادًا لثمن الجهاز والشهر الأول إذا ألغيت وأعدت الجهاز سليمًا خلال 30 يومًا من تاريخ استحقاق الدفعة، كما ورد في ذلك الطلب."
+          "في صفحة الطلب بالعربية التي قرأناها لعُمان، تظهر عبارة «بدون تعاقد، فترة تجريبية 30 يومًا»، والجهاز يُشترى ولا يُستأجر: Standard 4 X بـ OMR 160 أو Mini بـ OMR 80، مع OMR 30 شهريًا لباقة «المنازل». وفي قطر ظهرت العبارة نفسها «بدون تعاقد». ويصف العرض استردادًا لثمن الجهاز والشهر الأول إذا ألغيت وأعدت الجهاز سليمًا خلال 30 يومًا. أما إذا كنت تقيم في الولايات المتحدة أو أوروبا، فالجهاز هناك يُستأجر عادةً بدون مقدم وتعيده عند الإلغاء."
         ]
       },
       {
-        "heading": "جهاز مستأجر لا جهاز مشترى",
+        "heading": "عُمان: الجهاز مشترى وبدون تعاقد",
         "paragraphs": [
-          "في صفحة الطلب التي قرأناها في 20 نوفمبر 2026، كان الجهاز مدرجًا إيجارًا بـ 0$ مقدمًا و0$ شهريًا. وتنص الصفحة على أنك إذا ألغيت الخدمة فسيتعين عليك إعادة جهاز Starlink المستأجر.",
-          "لم نرَ رسم إلغاء مبكر في الصفحة التي قرأناها. راجع ملخص طلبك قبل أن تدفع، فقد تتغير الشروط بحسب الباقة والعنوان."
+          "في صفحة الطلب بالعربية التي قرأناها في 23 نوفمبر 2026 لعنوان في مسقط، كانت باقة «المنازل» بسعر OMR 30 شهريًا، وتحتها عبارة «بدون تعاقد، فترة تجريبية 30 يومًا». لا يوجد إيجار للجهاز: تختار بين Standard 4 X بـ OMR 160 وMini بـ OMR 80.",
+          "في ملخص الطلب ظهر Standard 4 X بـ OMR 160، والشحن OMR 10، والإجمالي OMR 170. ومع Mini يصبح الإجمالي OMR 90. ولم نرَ مدة تعاقد أو رسم إلغاء في الصفحة التي قرأناها.",
+          "يطلب الموقع بعد الطلب وثيقة هوية بصورة ورقم هاتف يبدأ بـ +968، ولا يقبل إلا بطاقة صادرة في إحدى دول الخليج: عُمان أو البحرين أو الكويت أو قطر أو السعودية أو الإمارات."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+            "alt": "صفحة باقات Starlink بالعربية لمسقط في عُمان: باقة المنازل بـ 30 ر.ع. شهريًا وجهاز Standard 4 X بـ 160 ر.ع. وعبارة بدون تعاقد",
+            "caption": "مسقط، عُمان، بتاريخ 23 نوفمبر 2026: المنازل بـ ٣٠ ر.ع. شهريًا وStandard 4 X بـ ١٦٠ ر.ع.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.7414
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-ar-resumo-oma.webp",
+            "alt": "ملخص طلب Starlink بالعربية في عُمان: OMR 30 شهريًا وStandard 4 X بـ OMR 160 والشحن OMR 10 والإجمالي OMR 170",
+            "caption": "ملخص الطلب في عُمان بتاريخ 23 نوفمبر 2026: OMR 30 شهريًا، وOMR 160 للجهاز، وOMR 10 للشحن، والإجمالي OMR 170.",
+            "objectFit": "square",
+            "aspectRatio": 1.0392
+          }
+        ],
+        "links": [
+          {
+            "label": "تحقق من الباقات وشروط التعاقد لعنواني",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
-        "heading": "الثلاثون يومًا لإعادته",
+        "heading": "قطر وبقية القراء العرب",
+        "paragraphs": [
+          "في قطر، ظهرت باقة «المنازل Lite» بسعر 220 QAR شهريًا، مع جهاز Standard 4 X بسعر 1,500 QAR، ورسم شحن 80 QAR، فيكون الإجمالي 1,580 QAR. وظهرت هنا أيضًا عبارة «بدون تعاقد». الجهاز مشترى كما في عُمان، فلا يوجد إيجار يُعاد عند الإلغاء.",
+          "الأمر يختلف في بلدان أخرى. في الولايات المتحدة والمملكة المتحدة وأوروبا، رأينا الجهاز يُستأجر بسعر 0 مقدمًا و0 شهريًا ويُعاد عند الإلغاء. وفي البرازيل والمكسيك قد يأتي جهاز مدعوم مع مدة التزام 12 شهرًا ورسم إنهاء مبكر. لذلك الحكم دائمًا لملخص طلبك أنت."
+        ]
+      },
+      {
+        "heading": "الثلاثون يومًا لإعادة الجهاز",
         "paragraphs": [
           "لطلب استرداد ثمن الجهاز والشهر الأول بموجب العرض، ألغِ الخدمة وأعد المعدات سليمة خلال 30 يومًا من تاريخ استحقاق الدفعة الظاهر في ذلك الطلب.",
           "إلغاء الاشتراك يوقف الرسوم المستقبلية بحسب دورة الفوترة. وعبر دعم Starlink، اسأل أيضًا عن كيفية فتح طلب إعادة الجهاز، واحتفظ بإيصال الشحن.",
@@ -317034,7 +323321,14 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
-        "emphasis": "بحسب شروط صفحة الطلب، إلغاء الخدمة وإعادة الجهاز سليمًا خلال 30 يومًا هو ما يتيح استرداد ثمن الجهاز والشهر الأول، وإيصال الشحن هو الدليل الذي يحسم الأمر."
+        "emphasis": "بحسب شروط صفحة الطلب، إلغاء الخدمة وإعادة الجهاز سليمًا خلال 30 يومًا هو ما يتيح استرداد ثمن الجهاز والشهر الأول، وإيصال الشحن هو الدليل الذي يحسم الأمر.",
+        "links": [
+          {
+            "label": "اعرض الباقات مع استرداد 30 يومًا على starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "كيف تلغي",
@@ -317056,6 +323350,28 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "السعر الترويجي وتغيير الباقة",
+        "paragraphs": [
+          "قد يتوقف السعر الترويجي عند الإلغاء أو تغيير الباقة أو إيقاف الخدمة، وتفاصيل ذلك في شروط طلبك. راجعها قبل أي تغيير، فالسعر العادي للباقة قد يتغير."
+        ]
+      },
+      {
+        "heading": "قبل الدفع: راجع طلبك",
+        "paragraphs": [
+          "لا تُحتسب الإحالة إلا إذا بدأ الطلب من رابط إحالة فُتح قبل الدفع وفي starlink.com. بعد الدفع، أو عند الشراء من متجر وسيط، لا يمكن إضافتها. فتح الرابط لا يلزمك بشيء: عنوانك يُظهر أي نموذج ينطبق عليك، والثلاثون يومًا تغطي التجربة. يظهر رصيد الإحالة في الفاتورة بعد شهرين من الاشتراك ولا يخفض سعر الجهاز."
+        ],
+        "checklist": {
+          "title": "قبل الدفع",
+          "items": [
+            "فتحت الطلب من رابط الإحالة، في النافذة نفسها، قبل الدفع.",
+            "تأكدت أن شريط المتصفح ما زال على starlink.com قبل إدخال أي بيانات.",
+            "أجريت فحص العوائق في تطبيق Starlink في المكان الذي سيوضع فيه الطبق.",
+            "قرأت في ملخص الطلب سطر الجهاز والسعر الشهري وأي إشارة إلى مدة التزام.",
+            "حفظت لقطة شاشة للملخص تُظهر السعر الشهري وقاعدة الثلاثين يومًا قبل الدفع."
+          ]
+        }
+      },
+      {
         "heading": "إذا استمرت الرسوم",
         "paragraphs": [
           "إذا استمر خصم الرسوم منك، فافتح تذكرة لدى Starlink وأرفق رقم الطلب وتاريخ الإلغاء ورقم الحالة إن وُجد. وإذا لم تتعرف على معاملة ما، فتواصل أيضًا مع جهة إصدار بطاقتك أو مع مصرفك.",
@@ -317066,10 +323382,10 @@ export const reviewsData: unknown[] = [
         "heading": "الأسئلة الشائعة",
         "bullets": [
           "هل لدى Starlink كود خصم؟ لا. لا يوجد كوبون من Starlink: عبر رابط الإحالة الخاص بـ Cecília، يحصل المشترك بعد شهرين من الاشتراك على مكافأة كرصيد في الفاتورة، ويحصل من أحال على المبلغ نفسه. تختلف القيمة بحسب البلد، ومثالها 100$ في الولايات المتحدة.",
-          "هل لدى Starlink عقد؟ في صفحة الطلب التي قرأناها كان الجهاز إيجارًا بـ 0$ مقدمًا و0$ شهريًا. تأكد من الشروط في ملخص طلبك.",
-          "كم رسم إلغاء Starlink؟ لم نرَ رسم إلغاء مبكر في الصفحة التي قرأناها. راجع ملخص طلبك قبل أن تؤكد الإلغاء.",
-          "هل يمكنني إلغاء Starlink في أي وقت؟ يمكنك طلب ذلك من حسابك. الإلغاء يوقف الرسوم المستقبلية، وعليك إعادة الجهاز المستأجر.",
-          "هل عليّ إعادة جهاز Starlink؟ تنص الصفحة على أنك إذا ألغيت الخدمة فسيتعين عليك إعادة جهاز Starlink المستأجر.",
+          "هل لدى Starlink عقد؟ في صفحة الطلب بالعربية لعُمان وقطر ظهرت عبارة «بدون تعاقد». وفي بعض البلدان قد يأتي جهاز مدعوم مع مدة التزام 12 شهرًا، فتأكد من الشروط في ملخص طلبك.",
+          "كم رسم إلغاء Starlink؟ لم نرَ رسم إلغاء مبكر في صفحات عُمان وقطر. راجع ملخص طلبك قبل أن تؤكد الإلغاء.",
+          "هل الجهاز مشترى أم مستأجر في عُمان؟ مشترى: Standard 4 X بـ OMR 160 أو Mini بـ OMR 80، والشحن OMR 10. وفي أماكن أخرى مثل الولايات المتحدة يُستأجر الجهاز ويُعاد عند الإلغاء.",
+          "هل يمكنني إلغاء Starlink في أي وقت؟ يمكنك طلب ذلك من حسابك. ويجب إجراء التغيير قبل الساعة 00:00 UTC من تاريخ الفوترة حتى يسري على الدورة الحالية.",
           "هل يمكنني إرجاع Starlink خلال 30 يومًا؟ يصف العرض استردادًا لثمن الجهاز والشهر الأول إذا ألغيت وأعدت الجهاز سليمًا خلال 30 يومًا من تاريخ استحقاق الدفعة، كما ورد في ذلك الطلب."
         ]
       }
@@ -317091,7 +323407,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "تستطيع إعادة الجهاز المستأجر سليمًا خلال 30 يومًا إذا ألغيت.",
+        "تريد شراء الجهاز بدون مدة تعاقد، وتستطيع إعادته سليمًا خلال 30 يومًا إن ألغيت.",
         "ستقرأ الشروط في ملخص طلبك قبل الدفع."
       ],
       "skipIf": [
@@ -317100,8 +323416,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "يُفتح الطلب في موقع Starlink. تحقق من العقد والرسوم وإعادة الجهاز قبل أن تدفع.",
-      "label": "تحقق من الشروط لعنواني",
+      "text": "يُفتح الطلب في starlink.com عبر رابط الإحالة، ويجب استخدامه قبل الدفع. تدفع السعر نفسه الذي في الموقع، وترى شروط التعاقد لعنوانك، وتحتفظ بالثلاثين يومًا لإعادة الجهاز. يصل رصيد الإحالة بعد شهرين من الاشتراك.",
+      "label": "تحقق من العقد والباقة لعنواني",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -317111,8 +323427,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-referral-ar",
     "translationKey": "starlink-indicacao",
     "locale": "ar",
-    "title": "رابط إحالة Starlink: كيف تستخدمه ومتى تصل مكافأة 100$",
-    "seoTitle": "رابط إحالة Starlink: كيف تستخدمه وتحصل على المكافأة",
+    "title": "كيف تحصل على مكافأة الإحالة (100$ في أمريكا أو قيمة بلدك) عند شراء أول جهاز Starlink",
+    "seoTitle": "مكافأة شراء أول Starlink عبر رابط الإحالة",
     "type": "دليل الإحالة",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -317123,8 +323439,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "افتح الرابط في الموقع الرسمي وتحقق من المكافأة في طلبك قبل الدفع. اعرف من يستحقها ومتى يصل المبلغ وكيف تختار بين الرصيد والنقد.",
-    "metaDescription": "اعرف كيف تفتح رابط إحالة Starlink وتجد المكافأة في طلبك وتحصل عليها بعد استيفاء شروط البرنامج.",
+    "description": "لا تملك Starlink كود خصم: الطلب عبر رابط الإحالة الرسمي يمنحك السعر نفسه وفترة 30 يومًا للإرجاع ومكافأة بلدك بعد شهرين (مثل 100$ في أمريكا).",
+    "metaDescription": "كيف تفعّل رابط إحالة Starlink قبل الدفع لتحصل على مكافأة العميل الجديد بعد شهرين، والفرق بين الطلب عبر الرابط أو بدونه.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
     "updatedAt": "2026-11-23",
@@ -317139,8 +323455,120 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "افتح رابط إحالة Starlink وأدخل عنوانك. قبل أن تدفع، ابحث عن تأكيد تطبيق الرمز وتحقق من مبلغ المكافأة في الطلب. البرنامج للعملاء الجدد، وتُصرف المكافأة بعد دورتين شهريتين كاملتين، رصيد خدمة أو نقدًا حيث يتوفر هذا الخيار."
+          "لا يوجد لدى Starlink كود خصم تكتبه عند الدفع. وإلى جانب عروض موقعها، فإن الطلب عبر رابط الإحالة الرسمي هو الطريقة المعتمدة للحصول على مكافأة العميل الجديد عند اشتراكك الأول. تدفع السعر الرسمي نفسه على starlink.com وتحتفظ بفترة الإرجاع البالغة 30 يومًا، وتحصل بعد دورتين شهريتين كاملتين على قيمة مكافأة بلدك (الظاهرة في شاشة الطلب قبل الدفع، ومثالها 100$ في الولايات المتحدة). وتصل المكافأة رصيدًا على الفاتورة لاحقًا، ولا تخفض سعر الجهاز يوم الطلب. تحقق من إشعار تطبيق الإحالة قبل الدفع، لأنه لا يمكن إضافتها بعد إتمام الطلب."
         ]
+      },
+      {
+        "heading": "لماذا يفرق الطلب عبر رابط الإحالة",
+        "paragraphs": [
+          "إذا فتحت starlink.com بنفسك، فسعر الجهاز والاشتراك الشهري كما هما عبر الرابط. الفرق هو مكافأة الإحالة التي ستتركها دون أن تأخذها. ولا تخفض المكافأة سعر الجهاز يوم الطلب، بل تدخل فاتورتك رصيدًا بعد دورتين شهريتين كاملتين مسددتين.",
+          "الأرقام أدناه مأخوذة من عناوين مرجعية. في عنوانك قد تختلف الأسعار والجهاز والشروط، ولا يعرضها إلا شاشة الطلب."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "alt": "صفحة طلب Starlink بالعربية لعنوان في مسقط: باقة المنازل بـ 30 ر.ع. شهريًا وجهاز Standard 4 X بـ 160 ر.ع.",
+          "caption": "مسقط، سلطنة عُمان: صفحة الطلب بالعربية، استُعلم عنها في 23 نوفمبر 2026.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7414
+        },
+        "comparisonTable": {
+          "caption": "أسعار قُرئت على starlink.com في 23 نوفمبر 2026 دون إتمام أي عملية شراء. المكافأة ليست خصمًا عند الدفع، بل تصل بعد دورتين شهريتين كاملتين.",
+          "headers": [
+            "الحالة التي قرأناها على starlink.com",
+            "بدون رابط الإحالة",
+            "عبر رابط سيسيليا",
+            "ماذا تعني المكافأة"
+          ],
+          "rows": [
+            [
+              "سلطنة عُمان، باقة المنازل (مسقط)",
+              "30 ر.ع. شهريًا + شراء Standard 4 X بـ 160 ر.ع. + شحن 10 ر.ع. (يُدفع اليوم 170 ر.ع.)",
+              "الطلب نفسه + مكافأة الإحالة بعد دورتين مدفوعتين",
+              "قيمة بلدك تظهر في الطلب قبل الدفع"
+            ],
+            [
+              "الولايات المتحدة (مثال)، Residential 100 Mbps (نيفادا)",
+              "38.50$ شهريًا + إيجار الجهاز 0$، ويُدفع اليوم 20$ مع الضرائب",
+              "الطلب نفسه + رصيد 100$",
+              "نحو 2.6 شهر من الباقة"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "افتح طلبي وتحقق من مكافأة الإحالة",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ],
+        "simulator": {
+          "title": "جرّب حالتك",
+          "scenarios": [
+            {
+              "label": "عُمان، المنازل + رابط الإحالة",
+              "lines": [
+                {
+                  "label": "جهاز Standard 4 X (شراء)",
+                  "value": "160 ر.ع."
+                },
+                {
+                  "label": "الاشتراك الشهري",
+                  "value": "30 ر.ع. شهريًا"
+                },
+                {
+                  "label": "مكافأة الإحالة بعد دورتين مدفوعتين",
+                  "value": "قيمة البلد تُضاف رصيدًا على الفاتورة",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "المستحق اليوم (الجهاز + الشحن)",
+              "totalValue": "170 ر.ع.",
+              "note": "تدفع السعر نفسه الموجود في الموقع وتبقى فترة 30 يومًا للإرجاع كما هي."
+            },
+            {
+              "label": "الولايات المتحدة + رابط الإحالة (مثال)",
+              "lines": [
+                {
+                  "label": "إيجار الجهاز (Starlink V5 + Router Mini)",
+                  "value": "0$، يُعاد عند الإلغاء"
+                },
+                {
+                  "label": "الاشتراك الشهري (خصم 30%)",
+                  "value": "38.50$ شهريًا"
+                },
+                {
+                  "label": "مكافأة الإحالة بعد دورتين مدفوعتين",
+                  "value": "-100$ على الفاتورة",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "المكافأة مقارنة بالاشتراك الشهري",
+              "totalValue": "نحو 2.6 شهر",
+              "note": "تصل المكافأة لاحقًا ولا تخفض ما تدفعه اليوم."
+            },
+            {
+              "label": "بدون رابط الإحالة",
+              "lines": [
+                {
+                  "label": "سعر الجهاز والباقة",
+                  "value": "نفسه عبر الرابط"
+                },
+                {
+                  "label": "مكافأة الإحالة",
+                  "value": "0، ولا يمكن إضافتها لاحقًا"
+                },
+                {
+                  "label": "المكافأة التي تضيع",
+                  "value": "تختلف بحسب البلد (100$ في الولايات المتحدة)",
+                  "highlight": true
+                }
+              ],
+              "totalLabel": "مكافأة الإحالة المستلمة",
+              "totalValue": "0",
+              "note": "يجب أن تكون الإحالة في الطلب الأصلي قبل الدفع."
+            }
+          ]
+        }
       },
       {
         "heading": "كيف تستخدم الرابط خطوة بخطوة",
@@ -317150,29 +323578,67 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "تحقق من الإشعار قبل الدفع. تذكر Starlink أن الإحالة يجب أن تكون مسجلة في الطلب الأصلي."
         ],
+        "bullets": [
+          "اختر في الطلب باقة Residential أو Roam مؤهلة.",
+          "ابحث عن إشعار “Referral Code Applied” وتحقق من المكافأة والإجمالي المستحق.",
+          "أتمم الطلب على starlink.com.",
+          "فعّل الجهاز وتابع فاتورتك الأولى. دفع الشهر الأول وتفعيل المعدات من شروط الإحالة."
+        ],
         "image": {
           "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
           "alt": "شاشة الطلب في موقع Starlink الرسمي مع الرسالة Referral Code Applied، وهي تقول إنك وصديقك تحصلان على 100$ لكل منكما، نقدًا أو رصيد خدمة، عند التسجيل بهذا الرمز",
           "caption": "الطلب في الموقع الرسمي مع تطبيق رابط الإحالة (نيفادا).",
           "objectFit": "contain",
           "aspectRatio": 0.8747
-        },
-        "bullets": [
-          "اختر في الطلب باقة Residential أو Roam مؤهلة.",
-          "ابحث عن إشعار “Referral Code Applied” وتحقق من المكافأة والإجمالي المستحق.",
-          "أتمم الطلب على starlink.com.",
-          "فعّل الجهاز وتابع فاتورتك الأولى. دفع الشهر الأول وتفعيل المعدات من شروط الإحالة."
-        ]
+        }
+      },
+      {
+        "heading": "قائمة تحقق قبل الدفع",
+        "paragraphs": [
+          "ضع علامة على كل بند على الشاشة قبل الدفع. تستغرق دقيقتين وتحسم هل ستظهر المكافأة في طلبك."
+        ],
+        "checklist": {
+          "title": "قبل إتمام الطلب",
+          "items": [
+            "فتحت الطلب عبر رابط إحالة سيسيليا في هذه النافذة نفسها حتى لا أخسر المكافأة.",
+            "تأكدت أن شريط العنوان يبقى على starlink.com قبل إدخال أي بيانات.",
+            "أجريت فحص العوائق في تطبيق Starlink في المكان المقرر للتأكد من أن السماء مفتوحة.",
+            "رأيت في ملخص الطلب إشعار تطبيق الإحالة وسعر الجهاز وهل يوجد التزام لمدة 12 شهرًا.",
+            "حفظت لقطة شاشة للملخص تُظهر السعر الشهري وقاعدة الـ30 يومًا قبل الدفع."
+          ]
+        }
       },
       {
         "heading": "كم تدفع المكافأة ومتى",
         "paragraphs": [
           "يعتمد المبلغ على البلد الذي تسجّل فيه ويظهر في الطلب وفي الحساب، مثلًا 100 دولار أمريكي في الولايات المتحدة. وينال المحيل المبلغ نفسه، نقدًا أو رصيد خدمة.",
           "يجب أن يبقى الاشتراك فعّالًا ومسددًا لدورتين شهريتين كاملتين. ويذكر مركز المساعدة أن الصرف قد يبدأ بعد 60 يومًا من التفعيل، بحسب البلد والحساب والتحقق من الهوية.",
-          "الخيار الافتراضي هو رصيد على فاتورتك. وإذا كان حسابك يتيح النقد، فافتح قسم Referrals في الموقع عبر المتصفح واختر طريقة المكافأة هناك."
+          "الخيار الافتراضي هو رصيد على فاتورتك. وإذا كان حسابك يتيح النقد، فافتح قسم Referrals في الموقع عبر المتصفح واختر طريقة المكافأة هناك. تصل المكافأة رصيدًا على الفاتورة ولا تخفض سعر الجهاز في الطلب."
         ],
         "emphasis": "لا تُصرف المكافأة إلا بعد دورتين شهريتين كاملتين من اشتراك فعّال ومسدد، وتكون افتراضيًا رصيدًا على الفاتورة، ويحصل المشترك والمحيل على المبلغ نفسه؛ ويظهر مبلغ بلدك في الطلب.",
         "emphasisAfterParagraph": 3
+      },
+      {
+        "heading": "هل فتح الرابط يلزمك بشيء؟ اختبار الـ30 يومًا",
+        "paragraphs": [
+          "فتح الرابط لا يلزمك بشيء. سعر الباقة والجهاز والتوفر ووجود التزام من عدمه لا تظهر إلا بعد إدخال عنوانك على starlink.com.",
+          "بعد الدفع تمنحك Starlink 30 يومًا لإرجاع الجهاز بحسب شروط صفحتها. وإذا لم يعمل الطبق على سطح منزلك، يمكنك الإلغاء وإعادة المعدات خلال هذه الفترة. وتعرض صفحة الطلب في سلطنة عُمان عبارة «بدون تعاقد، فترة تجريبية 30 يومًا»، وتطلب Starlink وثيقة هوية بعد الطلب.",
+          "ولهذا يأتي الرابط قبل التجربة: فالإحالة لا تُحتسب إلا في الطلب الأصلي. ومن يجرّب دونه يدفع المبلغ نفسه في اليوم الأول ويخسر المكافأة إذا قرر الاحتفاظ بالطبق."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "طبق Starlink مثبّت على سطح منزل خشبي",
+          "caption": "طبق سكني بعد التركيب. صورة من Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        },
+        "links": [
+          {
+            "label": "احجز المكافأة قبل أن تطلب",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "من يمكنه الاستفادة",
@@ -317190,15 +323656,36 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "وماذا عن عرض الجمعة البيضاء؟",
+        "heading": "أربعة أخطاء تُضيّع المكافأة حتى بعد النقر على الرابط",
         "paragraphs": [
-          "خصم الجمعة البيضاء على باقات الخدمة ومكافأة الإحالة سطران منفصلان تتحقق منهما في الطلب. اطّلع على [حسابات الجمعة البيضاء من Starlink](/ar/reviews/starlink-black-friday-ar) وانظر عرض عنوانك."
+          "معظم المكافآت الضائعة سببها واحد من هذه الأخطاء الأربعة."
+        ],
+        "bullets": [
+          "شراء الجهاز من تاجر تجزئة أو سوق إلكتروني. البرنامج يحتسب فقط الطلبات المقدمة على starlink.com عبر الرابط.",
+          "الدفع دون التحقق من الإشعار. يجب أن تكون الإحالة في الطلب الأصلي ولا يمكن إضافتها لاحقًا: إذا لم يظهر الإشعار على الشاشة فأعد فتح الرابط قبل الدفع. وإذا بدّلت الجهاز أو المتصفح في منتصف الطلب، فافتح الرابط مرة أخرى وتحقق من الإشعار من جديد.",
+          "استخدام الرابط وأنت عميل حالي أو سابق. المكافأة لمن يشترك في Starlink للمرة الأولى فقط.",
+          "الإلغاء مبكرًا جدًا. تتطلب المكافأة اشتراكًا فعّالًا ومسددًا لدورتين شهريتين كاملتين، وقد يبدأ الصرف بعد 60 يومًا من التفعيل."
         ]
       },
       {
-        "heading": "كيف تتابع الإحالة",
+        "heading": "وماذا عن عرض الجمعة البيضاء؟",
         "paragraphs": [
-          "في تبويب Referrals بالموقع أو التطبيق يمكنك متابعة حالة كل من اشترك عبر رابطك. وترسل Starlink بريدًا إلكترونيًا حين يقدّم أحدهم طلبًا. وقد تمر الإحالة بفحص أهلية قبل أن تُنتج مكافأة."
+          "خصم الجمعة البيضاء على باقات الخدمة ومكافأة الإحالة سطران منفصلان تتحقق منهما في الطلب. اطّلع على [حسابات الجمعة البيضاء من Starlink](/ar/reviews/starlink-black-friday-ar) وانظر عرض عنوانك.",
+          "في ملخص الطلب بمسقط، عرضت Starlink باقة المنازل بـ 30 ر.ع. شهريًا وجهاز Standard 4 X بـ 160 ر.ع. وشحنًا بـ 10 ر.ع.، فيكون المستحق اليوم 170 ر.ع. وإذا كان الالتزام هو ما يقلقك، فاقرأ [دليل العقد والإلغاء في Starlink](/ar/reviews/starlink-cancel-ar) و[هل Starlink تستحق؟](/ar/reviews/starlink-worth-it-ar)."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ar-resumo-oma.webp",
+          "alt": "ملخص طلب Starlink بالعربية في مسقط: 30 ر.ع. شهريًا، جهاز Standard 4 X بـ 160 ر.ع.، شحن 10 ر.ع.، والإجمالي 170 ر.ع.",
+          "caption": "مسقط: ملخص الطلب بالعربية، استُعلم عنه في 23 نوفمبر 2026.",
+          "objectFit": "square",
+          "aspectRatio": 1.0392
+        }
+      },
+      {
+        "heading": "كيف تتابع الإحالة وتستخدم رابطك الخاص",
+        "paragraphs": [
+          "في تبويب Referrals بالموقع أو التطبيق يمكنك متابعة حالة كل من اشترك عبر رابطك. وترسل Starlink بريدًا إلكترونيًا حين يقدّم أحدهم طلبًا. وقد تمر الإحالة بفحص أهلية قبل أن تُنتج مكافأة.",
+          "عندما تصبح عميلًا نشطًا في باقة Residential أو Roam مؤهلة، يمكنك أنت أيضًا أن تحيل غيرك، ويحصل المحيل على المبلغ نفسه الذي يحصل عليه العميل الجديد. ويظهر مبلغ بلدك في طلب من يشترك."
         ]
       },
       {
@@ -317210,13 +323697,14 @@ export const reviewsData: unknown[] = [
           "متى تصل مكافأة إحالة Starlink؟ يذكر مركز المساعدة أن الصرف قد يبدأ بعد 60 يومًا من التفعيل، إذا استوفت الإحالة شروط البرنامج.",
           "هل تعمل الإحالة في طلب من تاجر تجزئة أو سوق إلكتروني؟ يشترط البرنامج أن يتم الشراء مباشرة على starlink.com عبر الرابط.",
           "سبق أن استخدمت Starlink. هل يمكنني استخدام الرابط؟ المكافأة لمن يشترك في Starlink للمرة الأولى.",
-          "هل تعمل الإحالة في بلدان أخرى؟ يذكر مركز المساعدة أنها تعمل في معظم البلدان التي تبيع فيها Starlink، ويعتمد المبلغ على البلد الذي تسجّل فيه. وفي الولايات المتحدة أظهر رابطنا 100$."
+          "هل تعمل الإحالة في بلدان أخرى؟ يذكر مركز المساعدة أنها تعمل في معظم البلدان التي تبيع فيها Starlink، ويعتمد المبلغ على البلد الذي تسجّل فيه. وفي الولايات المتحدة أظهر رابطنا 100$.",
+          "هل يمكن إضافة الإحالة بعد الدفع؟ لا. تشترط Starlink أن تكون الإحالة في الطلب الأصلي، المقدم على starlink.com عبر رابط إحالة، قبل الدفع."
         ]
       }
     ],
     "cta": {
-      "text": "تحقق من المكافأة التي يعرضها طلبك لعنوانك قبل أن تدفع.",
-      "label": "شاهد الإحالة في الطلب",
+      "text": "تدفع السعر نفسه الموجود في الموقع الرسمي، وتحتفظ بـ 30 يومًا لإرجاع الجهاز إن لم يعمل على سطحك، وتضمن مكافأة بلدك بعد دورتين شهريتين.",
+      "label": "تفعيل مكافأة الإحالة في الطلب الرسمي",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -317271,7 +323759,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/starlink/starlink-trustpilot-reviews-capa.webp",
+    "image": "/images/reviews/starlink/starlink-trustpilot-ar-capa.webp",
     "imageAlt": "طبق Starlink على سقف تحت سماء عاصفة وخلفه برق. يظهر على الغلاف «Trustpilot: التقييم».",
     "imageFit": "contain",
     "imageAspect": "landscape",
@@ -317335,6 +323823,36 @@ export const reviewsData: unknown[] = [
             ]
           ],
           "caption": "Trustpilot، صفحة starlink.com، قُرئت في 23 نوفمبر 2026."
+        },
+        "metrics": {
+          "items": [
+            {
+              "label": "TrustScore",
+              "value": "1.6",
+              "unit": "/5",
+              "note": "صفحة غير مُطالَب بها"
+            },
+            {
+              "label": "إجمالي المراجعات",
+              "value": "879",
+              "note": "عفوية فقط"
+            },
+            {
+              "label": "ردود الشركة",
+              "value": "0%",
+              "note": "0 من 464 سلبية"
+            },
+            {
+              "label": "نجمة واحدة مقابل 5 نجوم",
+              "value": "71%",
+              "unit": "مقابل 17%",
+              "note": "الدعم والفواتير في المقدمة"
+            }
+          ],
+          "summary": {
+            "badge": "قراءة الفجوة",
+            "text": "يتركز المديح على السرعة وثبات الإشارة، وتتركز الشكاوى على الدعم الآلي والفواتير وتغيّر الأسعار."
+          }
         }
       },
       {
@@ -317384,15 +323902,32 @@ export const reviewsData: unknown[] = [
         "heading": "ماذا يعني هذا إن اشتركت",
         "paragraphs": [
           "قبل أن تدفع، تحقق على starlink.com من الخطة والمعدات (إيجار أو شراء) والضرائب والعقد لعنوانك أنت: فهي تختلف باختلاف الدولة وحتى العنوان. احفظ لقطة شاشة للعرض يوم الطلب وقارن بها كل فاتورة.",
+          "أبسط وسيلة حماية أن تطلب مباشرة من starlink.com وتحفظ لقطة شاشة لملخص الطلب، فيها السعر والمعدات وشروط العقد والإحالة المطبَّقة. ثم قارن أول فاتورة بتلك اللقطة. لا تُحتسب الإحالة إلا في طلب فُتح عبر رابط إحالة وقبل الدفع، ولا يمكن إضافتها بعد ذلك.",
           "قواعد المعدات المؤجَّرة والإرجاع في [دليل العقد والإلغاء والاسترداد](/ar/reviews/starlink-cancel-ar)."
         ],
-        "image": {
-          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-          "alt": "طبق Starlink مثبّت على سقف منزل خشبي",
-          "caption": "طبق Residential بعد التركيب. صورة من Starlink.",
-          "objectFit": "contain",
-          "aspectRatio": 1.8079
-        }
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+            "alt": "شاشة خطط Starlink لمسقط في سلطنة عُمان: خطة المنازل بسعر 30 ر.ع. في الشهر وجهاز Standard 4 X بسعر 160 ر.ع.",
+            "caption": "مسقط، خطة المنازل: السعر الشهري وسعر شراء جهاز Standard 4 X. نموذج لشاشة تستحق أن تحفظها. اطّلعنا عليها في 23 نوفمبر 2026.",
+            "objectFit": "portrait",
+            "aspectRatio": 0.7414
+          },
+          {
+            "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+            "alt": "طبق Starlink مثبّت على سقف منزل خشبي",
+            "caption": "طبق Residential بعد التركيب. صورة من Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8079
+          }
+        ],
+        "links": [
+          {
+            "label": "افتح الطلب الرسمي في starlink.com وتحقق من منطقتي",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "كيف ترفع مشكلة",
@@ -317404,15 +323939,32 @@ export const reviewsData: unknown[] = [
             "label": "صفحة Starlink على Trustpilot",
             "href": "https://www.trustpilot.com/review/starlink.com"
           }
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+            "alt": "أجزاء من جهاز Starlink Standard: الطبق والراوتر والحامل والكابلات",
+            "caption": "جهاز Starlink Standard: الطبق والراوتر والحامل والكابلات. صورة من Starlink.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
         ]
       },
       {
         "heading": "قبل أن تشترك",
         "paragraphs": [
           "قبل أن تشترك، تحقق من الموقع والشروط. طريقة التعرف على الموقع الرسمي والصفحات التي تستخدم الاسم في [هل Starlink موثوقة؟](/ar/reviews/starlink-trust-ar).",
+          "فتح الطلب لا يُلزمك بشيء: الخطة والسعر والتوافر وشروط العقد لا تظهر إلا بعد أن تُدخل عنوانك. تنص سياسة الـ30 يومًا لدى Starlink على استرداد المبلغ إن ألغيت وأعدت المعدات سليمة خلال هذه المدة، كما يوضح طلبك؛ وفي المعدات المدعومة المرتبطة بعقد تحقق من وجود رسوم بعد الـ30 يومًا.",
           "صفحة [إحالة Starlink](/ar/coupons/starlink) فيها الرابط وقواعد البرنامج. الإحالة ليست قسيمة: تصل المكافأة رصيدًا في الفاتورة بعد شهرين من الاشتراك، ولا تستحقها خطط الأولوية والمؤسسات والتجارية."
         ],
-        "emphasis": "بحسب أرقام الجدول، لمن لا يملك خيار إنترنت جيدًا آخر في عنوانه، يبدو الاشتراك معقولًا بعد التحقق على starlink.com من الخطة والمعدات والضرائب والعقد لذلك العنوان، لأن الرقم 1.6 يعكس شكاوى الدعم والفوترة والسعر أكثر مما يعكس جودة الإشارة."
+        "emphasis": "بحسب أرقام الجدول، لمن لا يملك خيار إنترنت جيدًا آخر في عنوانه، يبدو الاشتراك معقولًا بعد التحقق على starlink.com من الخطة والمعدات والضرائب والعقد لذلك العنوان، لأن الرقم 1.6 يعكس شكاوى الدعم والفوترة والسعر أكثر مما يعكس جودة الإشارة.",
+        "links": [
+          {
+            "label": "تحقق من التوافر في عنواني على starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
+        ]
       },
       {
         "heading": "الأسئلة الشائعة",
@@ -317451,8 +324003,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "أدخل عنوانك في موقع Starlink وتحقق من الخطة والمعدات والاشتراك الشهري قبل الدفع.",
-      "label": "اطّلع على الخطط في عنوانك",
+      "text": "افتح الطلب عبر رابط الإحالة، وتحقق من الخطة والمعدات والعقد في عنوانك، واحفظ لقطة الملخص قبل الدفع. السعر هو سعر الموقع الرسمي.",
+      "label": "افتح طلبي في starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -317482,7 +324034,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/starlink/is-starlink-legit-capa.webp",
+    "image": "/images/reviews/starlink/starlink-trust-ar-capa.webp",
     "imageAlt": "طبق Starlink مركّب على حامل مثبّت في هيكل خشبي. يسأل الغلاف «هل هي موثوقة؟».",
     "imageFit": "contain",
     "imageAspect": "landscape",
@@ -317490,7 +324042,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "Starlink هي خدمة الإنترنت عبر الأقمار الصناعية من SpaceX، وموقعها الرسمي هو starlink.com. على Trustpilot، الصفحة التي ترتبط بـ starlink.com اسمها «Starlink Development». إذا اشتريت الطقم من مكان آخر، فراجع قائمة تجار التجزئة المعتمدين لدى Starlink وتأكد من هوية بائع الإعلان قبل الدفع."
+          "نعم، Starlink خدمة موثوقة: فهي خدمة الإنترنت الفضائي الرسمية من SpaceX وتُباع مباشرة عبر starlink.com. وقد اشتركنا فيها بأنفسنا كبديل وخط احتياطي بسبب عدم استقرار الألياف المحلية. الخطر الفعلي هو المواقع المنتحِلة والبائعون غير المعتمدين؛ على Trustpilot ترتبط صفحة «Starlink Development» بـ starlink.com، وإذا اشتريت الطقم من متجر خارجي فتحقق أولًا من قائمة تجار التجزئة المعتمدين لدى Starlink قبل الدفع."
         ]
       },
       {
@@ -317511,7 +324063,22 @@ export const reviewsData: unknown[] = [
         "heading": "كيف تتعرف على الموقع الرسمي",
         "paragraphs": [
           "اكتب starlink.com في المتصفح. قبل إدخال أي بيانات أو الدفع، تأكد أنك ما زلت داخل starlink.com.",
-          "تحقق في الطلب، لعنوانك أنت، من الباقة والطقم (إيجار أو شراء) والضرائب ومدة العقد. وإذا طلب منك أحد الدفع برسالة أو خارج صفحة الطلب، فتأكد من دعم Starlink قبل المتابعة."
+          "تحقق في الطلب، لعنوانك أنت، من الباقة والطقم (إيجار أو شراء) والضرائب ومدة العقد. وإذا طلب منك أحد الدفع برسالة أو خارج صفحة الطلب، فتأكد من دعم Starlink قبل المتابعة.",
+          "من الطرق البسيطة لتجنب الخطأ في العنوان أن تفتح الطلب عبر رابط الإحالة: فهو يقود مباشرة إلى صفحة الطلب على starlink.com، ومع ذلك تتحقق من شريط العنوان قبل إدخال أي بيانات. السعر هو نفسه على الموقع الرسمي، ولا تُحتسب الإحالة إلا إذا بدأ الطلب من رابط إحالة قبل الدفع."
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "alt": "شاشة طلب باقات المنازل الرسمية باللغة العربية على موقع starlink.com في عُمان",
+          "caption": "شاشة طلب الباقات على starlink.com لعنوان في مسقط، عُمان (استُعلم عنها في 23 نوفمبر 2026).",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7414
+        },
+        "links": [
+          {
+            "label": "افتح طلب starlink.com الرسمي عبر رابط الإحالة",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -317537,7 +324104,14 @@ export const reviewsData: unknown[] = [
             "label": "قائمة تجار التجزئة المعتمدين لدى Starlink",
             "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "مكونات طقم Starlink على خلفية داكنة: قاعدة وحامل وكابلات",
+          "caption": "مكونات طقم Starlink. صورة: Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       },
       {
         "heading": "ماذا تُظهر مراجعات العملاء",
@@ -317545,6 +324119,29 @@ export const reviewsData: unknown[] = [
           "على Trustpilot، تحمل صفحة starlink.com درجة TrustScore قدرها 1.6 من 5 من 879 مراجعة: 71% منها بنجمة واحدة و17% بخمس نجوم. الصفحة غير مُطالَب بها، أي أن Starlink لا تديرها، ونسبة ردودها على المراجعات 0%.",
           "قرأنا أحدث 40 مراجعة بنجمة واحدة وأحدث 40 مراجعة بخمس نجوم. أكثر الشكاوى في مراجعات النجمة الواحدة هي دعم لا يتجاوز روبوتًا أو دردشة (نحو واحدة من كل 3)، وانقطاعات وسرعة منخفضة (نحو واحدة من كل 3)، ورسوم شهرية ارتفعت بعد الاشتراك (نحو واحدة من كل 4)، وفوترة وإلغاء صعب (نحو واحدة من كل 4)، وفنيو تركيب من شركات شريكة يتأخرون أو لا يحضرون (نحو واحدة من كل 4)، وطقم متأخر أو لم يصل (نحو واحدة من كل 5). أما مراجعات الخمس نجوم فتمدح السرعة والاستقرار (نحو النصف) وسهولة التركيب (نحو واحدة من كل 3) وغياب خيار إنترنت جيد آخر (نحو واحدة من كل 4). الأعداد من حسابنا وتقريبية.",
           "اقرأ الدرجة بحذر: الصفحة غير المُطالَب بها لا ترسل دعوات للتقييم بعد الشراء، ومن يفتحها غالبًا يريد الشكوى. المديح يخص الإشارة، والشكاوى تخص الدعم والسعر والفوترة، وقليل من مراجعات النجمة الواحدة تقول إن الإشارة سيئة طوال الوقت. والملخص الآلي من Trustpilot، المبني على 355 مراجعة حديثة، يشير في الاتجاه نفسه. الأرقام في [قراءتنا الكاملة لصفحة Trustpilot](/ar/reviews/starlink-trustpilot-ar)."
+        ]
+      },
+      {
+        "heading": "قائمة تحقق قبل الدفع",
+        "paragraphs": [
+          "خمس فحوصات سريعة تصلح لأي عنوان وتستغرق دقائق قليلة."
+        ],
+        "checklist": {
+          "title": "قبل إتمام الطلب",
+          "items": [
+            "فتحتُ الطلب عبر رابط الإحالة في نافذة المتصفح نفسها حتى تُحتسب الإحالة.",
+            "تأكدتُ أن شريط العنوان ما زال على starlink.com قبل إدخال أي بيانات.",
+            "أجريتُ فحص العوائق في تطبيق Starlink في المكان المخطط للطبق للتأكد من وضوح السماء.",
+            "قرأتُ في ملخص الطلب الباقة والطقم والإجمالي ومدة التعاقد.",
+            "حفظتُ لقطة شاشة لملخص الطلب تُظهر الرسوم الشهرية وقاعدة الـ30 يومًا قبل الدفع."
+          ]
+        },
+        "links": [
+          {
+            "label": "تحقق من التوافر لعنواني على starlink.com",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -317562,7 +324159,7 @@ export const reviewsData: unknown[] = [
         "heading": "الأسئلة الشائعة",
         "bullets": [
           "هل لدى Starlink كوبون خصم؟ لا، ليس لدى Starlink كوبون. عند الاشتراك عبر رابط الإحالة الخاص بـ Cecília يحصل المشترك بعد شهرين من الاشتراك على رصيد في الفاتورة، ويحصل من أحال على المبلغ نفسه. المبلغ يختلف حسب البلد، مثلًا US$ 100 في الولايات المتحدة.",
-          "هل Starlink موثوقة؟ Starlink هي خدمة الإنترنت عبر الأقمار الصناعية من SpaceX. تأكد أنك على starlink.com، واستخدم قائمة تجار التجزئة المعتمدين إذا اشتريت من مكان آخر.",
+          "هل Starlink موثوقة؟ نعم، Starlink هي خدمة الإنترنت الفضائي الرسمية من SpaceX. للشراء بأمان تأكد أنك داخل starlink.com، أو راجع قائمة تجار التجزئة المعتمدين قبل الدفع في أي متجر آخر.",
           "ما الموقع الرسمي لـ Starlink؟ الموقع الرسمي هو starlink.com.",
           "كيف أتأكد أن البائع معتمد؟ راجع قائمة تجار Starlink وتحقق من هوية بائع الإعلان قبل الدفع.",
           "هل أشتري من الموقع الرسمي أم من تاجر تجزئة؟ على starlink.com يعرض الطلب قبل الدفع الباقة والطقم والضرائب والعقد لعنوانك، ولا تعمل الإحالة إلا هناك. وتاجر القائمة الرسمية بائع شرعي، لكن الإحالة لا تنطبق."
@@ -317572,7 +324169,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "affiliate": "starlink",
-    "editorialNote": "أُعدّ المقال بالاعتماد على الموقع الرسمي ومركز المساعدة وصفحة Trustpilot العامة. نشارك في برنامج الإحالة من Starlink، وقد نحصل على مكافأة إذا اشتركت عبر رابطنا والتزمت بالشروط.",
+    "editorialNote": "أُعدّ المقال بالاعتماد على الموقع الرسمي ومركز المساعدة وصفحة Trustpilot العامة. اشتركنا في Starlink بأنفسنا كبديل وخط احتياطي بسبب عدم استقرار الألياف المحلية. نشارك في برنامج الإحالة من Starlink، وقد نحصل على مكافأة إذا اشتركت عبر رابطنا والتزمت بالشروط.",
     "relatedArticles": [
       {
         "slug": "starlink-trustpilot-ar"
@@ -317595,8 +324192,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "أدخل عنوانك في موقع Starlink وتحقق من الباقة والطقم والرسوم الشهرية قبل الدفع.",
-      "label": "عرض الباقات لعنوانك",
+      "text": "افتح الطلب عبر رابط الإحالة، وتأكد أن شريط العنوان ما زال على starlink.com، وراجع الباقة والطقم والإجمالي لعنوانك قبل الدفع. السعر هو نفسه على الموقع الرسمي.",
+      "label": "اعرض عنواني على starlink.com",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -317606,8 +324203,8 @@ export const reviewsData: unknown[] = [
     "slug": "starlink-worth-it-ar",
     "translationKey": "starlink-vale-a-pena",
     "locale": "ar",
-    "title": "هل تستحق Starlink الاشتراك؟ التكلفة الشهرية ولمن تناسب",
-    "seoTitle": "هل تستحق Starlink الاشتراك؟ أسعار الباقات والجهاز",
+    "title": "هل تستحق Starlink الاشتراك؟ التكلفة، تقطّع الألياف المحلية والاستخدام كخط احتياطي",
+    "seoTitle": "هل تستحق Starlink الاشتراك؟ السعر والخط الاحتياطي",
     "type": "دليل شراء",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -317618,8 +324215,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "قارن التكلفة الشهرية لـ Starlink بالاتصال الذي يصل إلى بيتك فعلًا. اطّلع على أسعار الباقات بحسب العنوان والجهاز المستأجر وكيف تتحقق من مكان الطبق.",
-    "metaDescription": "هل تستحق Starlink الاشتراك؟ أسعار الباقات بحسب العنوان والجهاز المستأجر ولمن تناسب ومتى تتفوق الألياف أو الشبكة الخلوية.",
+    "description": "تعرّف على متى تستحق Starlink الاشتراك: في المناطق دون ألياف أو عندما تعاني الألياف المحلية من انقطاعات متكررة وبطء شديد كخيار بديل أو خط احتياطي.",
+    "metaDescription": "هل تستحق Starlink الاشتراك حتى مع وجود ألياف؟ تحليل استقرار الشبكة والخط الاحتياطي وأسعار الباقات في الأسواق العربية وغيرها.",
     "publishedAt": "21 نوفمبر 2026",
     "publishedAtISO": "2026-11-21",
     "updatedAt": "2026-11-23",
@@ -317634,45 +324231,133 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الإجابة السريعة",
         "paragraphs": [
-          "قد تستحق Starlink الاشتراك في المناطق الريفية والبيوت التي لا يصلها اتصال مستقر. وإذا كانت الألياف الضوئية أو الكابل الموثوق يصلك أصلًا، فقارن التكلفة الإجمالية قبل أن تنتقل. اجمع الأسعار الشهرية في عنوانك مع أي رسم تركيب، واستخدم تطبيق Starlink لمعرفة أين يمكن وضع الطبق."
+          "نعم، تستحق Starlink الاشتراك حيث لا يصل اتصال مستقر، وأيضًا حيث توجد ألياف لكنها تنقطع كثيرًا أو تقدّم سرعة أقل بكثير مما تدفع مقابله. اشتركنا نحن في Starlink كبديل وخط احتياطي لألياف غير مستقرة. وإذا كانت الألياف لديك مستقرة فعلًا فهي تظل أوفر وأقل تأخيرًا. والتجربة قليلة المخاطر: في عُمان تذكر الصفحة «بدون تعاقد» مع فترة تجريبية مدتها 30 يومًا."
         ]
       },
       {
         "heading": "كم تكلّف الباقات",
         "paragraphs": [
-          "قرأنا صفحة الطلب العامة لعنوان واحد، هو رينو بولاية نيفادا، في 20 نوفمبر 2026. وكان الجهاز مستأجرًا بـ 0$ مقدمًا و0$ شهريًا، وتعرض الصفحة خصم 30% على باقات الخدمة في مناطق محددة."
+          "في 23 نوفمبر 2026 قرأنا صفحات الطلب العامة بالعربية لعنوانين: مسقط في عُمان والدوحة في قطر. في السوقين يُشترى الجهاز بدل استئجاره، وتظهر عبارة «بدون تعاقد» مع فترة تجريبية مدتها 30 يومًا، ويُطلب مستند هوية بصورة بعد الطلب. للمقارنة أضفنا ولاية نيفادا الأمريكية، حيث الجهاز مستأجر بـ 0$."
         ],
         "comparisonTable": {
           "headers": [
-            "الباقة، رينو، نيفادا",
-            "شهريًا",
-            "الجهاز"
+            "السوق",
+            "الباقة الشهرية",
+            "الجهاز",
+            "الشحن",
+            "المدفوع اليوم"
           ],
           "rows": [
             [
-              "Residential بسرعة 100 ميغابت",
-              "38.50$",
-              "إيجار بـ 0$"
+              "عُمان (مسقط)",
+              "المنازل: 30 ر.ع. شهريًا",
+              "شراء Standard 4 X بـ 160 ر.ع. أو Mini بـ 80 ر.ع.",
+              "10 ر.ع.",
+              "170 ر.ع. (Standard) أو 90 ر.ع. (Mini)"
             ],
             [
-              "Max",
-              "91$",
-              "إيجار بـ 0$"
+              "قطر (الدوحة)",
+              "المنازل Lite: 220 ر.ق. شهريًا",
+              "شراء Standard 4 X بـ 1,500 ر.ق.",
+              "80 ر.ق.",
+              "1,580 ر.ق."
+            ],
+            [
+              "الولايات المتحدة (نيفادا، للمقارنة)",
+              "100 ميغابت: 38.50$، و200 ميغابت: 59.50$، وMax: 91$",
+              "إيجار بـ 0$",
+              "20$ + ضرائب",
+              "20$ + ضرائب"
             ]
           ],
-          "caption": "السعر الشهري كما ظهر، قبل الضرائب والتركيب الاختياري وأي مكافأة إحالة. لم نسجّل مدة بقاء السعر الترويجي."
+          "caption": "الأسعار كما ظهرت في صفحات الطلب الرسمية، قبل أي مكافأة إحالة. لم نسجّل مدة بقاء السعر الشهري، فتحقق منها في طلبك."
+        },
+        "simulator": {
+          "title": "المحاكي: ما الذي يتطلبه كل سيناريو",
+          "scenarios": [
+            {
+              "label": "عُمان: المنازل مع Standard 4 X",
+              "lines": [
+                {
+                  "label": "جهاز Standard 4 X (شراء)",
+                  "value": "160 ر.ع.",
+                  "highlight": true
+                },
+                {
+                  "label": "الباقة الشهرية",
+                  "value": "30 ر.ع."
+                },
+                {
+                  "label": "الشحن",
+                  "value": "10 ر.ع."
+                }
+              ],
+              "totalLabel": "المدفوع اليوم",
+              "totalValue": "170 ر.ع.",
+              "note": "بدون تعاقد وبفترة تجريبية 30 يومًا. يُطلب مستند هوية بصورة بعد الطلب."
+            },
+            {
+              "label": "عُمان: المنازل مع Mini",
+              "lines": [
+                {
+                  "label": "جهاز Mini (شراء)",
+                  "value": "80 ر.ع.",
+                  "highlight": true
+                },
+                {
+                  "label": "الباقة الشهرية",
+                  "value": "30 ر.ع."
+                },
+                {
+                  "label": "الشحن",
+                  "value": "10 ر.ع."
+                }
+              ],
+              "totalLabel": "المدفوع اليوم",
+              "totalValue": "90 ر.ع.",
+              "note": "الجهاز الأصغر يخفض المبلغ المدفوع اليوم بمقدار 80 ر.ع."
+            },
+            {
+              "label": "قطر: المنازل Lite",
+              "lines": [
+                {
+                  "label": "جهاز Standard 4 X (شراء)",
+                  "value": "1,500 ر.ق.",
+                  "highlight": true
+                },
+                {
+                  "label": "الباقة الشهرية",
+                  "value": "220 ر.ق."
+                },
+                {
+                  "label": "الشحن",
+                  "value": "80 ر.ق."
+                }
+              ],
+              "totalLabel": "المدفوع اليوم",
+              "totalValue": "1,580 ر.ق.",
+              "note": "بدون تعاقد وبفترة تجريبية 30 يومًا، مع مستند هوية بصورة بعد الطلب."
+            }
+          ]
         },
         "postParagraphs": [
-          "تضمنت باقة Residential بسرعة 100 ميغابت جهاز Starlink V5 مع Router Mini. وجاءت Max مع جهاز Standard المستأجر وتركيب احترافي بـ 0$. أما في باقة 100 ميغابت فكان التركيب الاحترافي اختياريًا بـ 99$. وتتغير الأسعار بحسب العنوان الذي تدخله، فأجرِ هذه الحسابات في صفحة طلبك.",
-          "احسب التكلفة قبل المكافأة. ففي لقطة شاشة نيفادا عبر رابطنا، عرض الطلب إحالة بقيمة 100$ تخضع للأهلية. اطّلع على [صفحة إحالة Starlink](/ar/coupons/starlink)."
+          "في الولايات المتحدة يختلف النموذج: الجهاز مستأجر بـ 0$ مقدمًا، والباقات 38.50$ و59.50$ و91$ شهريًا مع خصم 30% في مناطق محددة، وتبقى أسعار النهاية 55$ و85$ و130$ بلا مدة ثابتة معلنة. لذلك لا تحكم على المبلغ قبل أن تدخل عنوانك.",
+          "احسب التكلفة أولًا قبل المكافأة. عبر رابطنا يحصل المشترك على مكافأة بعد شهرين من الاشتراك، ويعتمد المبلغ على البلد (مثلًا 100 دولار أمريكي في الولايات المتحدة). اطّلع على [صفحة إحالة Starlink](/ar/coupons/starlink)."
         ],
         "links": [
           {
-            "label": "شاهد الباقات في عنوانك",
+            "label": "جرّب الباقة والجهاز على عنواني",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "alt": "صفحة الطلب الرسمية لـ Starlink في مسقط بعُمان تعرض باقة المنازل بـ 30 ر.ع. شهريًا وجهاز Standard 4 X بـ 160 ر.ع.",
+          "caption": "صفحة الطلب في مسقط، اطُّلع عليها في 23/11/2026: المنازل بـ 30 ر.ع. شهريًا وجهاز Standard 4 X بـ 160 ر.ع.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.7414
+        }
       },
       {
         "heading": "أين تضع الطبق",
@@ -317694,12 +324379,38 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "متى تقارن بالألياف أو الشبكة الخلوية",
+        "heading": "ما وراء السعر: عدم استقرار الألياف المحلية واستخدامها كخط احتياطي",
         "paragraphs": [
-          "إذا كانت الألياف أو الكابل المستقر يصلك أصلًا، فقارن التركيب والفواتير الشهرية وأي رسم للمعدات في كل عرض. وبالنسبة لباقة منزلية عبر الشبكة الخلوية، أضف سعر الجهاز الذي ستحتاجه وتأكد أن حصة البيانات تكفي أسرتك."
+          "مقارنة الفاتورة الشهرية وحدها لا تكفي عندما يكون الخط الثابت في عنوانك رخيصًا لكنه ينقطع كل أسبوع أو يقدّم جزءًا صغيرًا من السرعة التي تدفع مقابلها. كثيرًا ما تعاني الشركات المحلية والشبكات المزدحمة من كابلات مقطوعة وصيانة دون إعلان وبطء في المساء. وإذا كنت تعمل من البيت أو تجري مكالمات فيديو أو تعتمد على الكاميرات والمنزل الذكي، فهذا أهم من فرق بضعة ريالات شهريًا.",
+          "في حالتنا، اشتركنا في Starlink كبديل وخط احتياطي لألياف غير مستقرة. ولأن الإشارة تأتي من الأقمار الصناعية، فهي لا تعتمد على كابلات شارعك ولا على المزوّد نفسه، فيمكن أن تحل محل ألياف مشكلة أو أن تكون مسارًا احتياطيًا حين تنقطع الألياف.",
+          "والتجربة قليلة المخاطر: في عُمان وقطر تذكر الصفحة «بدون تعاقد» مع 30 يومًا تجريبية، وفي الولايات المتحدة الجهاز مستأجر بـ 0$ مقدمًا. تقيس الاستقرار الفعلي على سطح منزلك ولا تحتفظ بالاشتراك إلا إذا حلّ المشكلة. وإذا كنت تفكر في 4G أو 5G المنزلي كاحتياطي، فأضف سعر الراوتر وتحقق من حصة البيانات."
         ],
-        "emphasis": "إذا لم تتوفر في عنوانك ألياف مستقرة ولا شبكة خلوية مقبولة، فمكان Starlink في المقارنة؛ أما مع ألياف مستقرة فلا يستحق التحويل إلا إذا جاء مجموع الجهاز والفواتير الشهرية للمدة التي تنوي البقاء فيها أقل من تكلفة اتصالك الحالي.",
-        "emphasisAfterParagraph": 1
+        "emphasis": "إذا كانت الألياف لديك مستقرة فعلًا وتقدّم السرعة المتعاقد عليها، فالتحويل بسبب السعر الشهري وحده نادرًا ما يفيد؛ أما عندما تعاني الشبكات المحلية من انقطاعات متكررة أو بطء شديد، فتستحق Starlink الاشتراك بفضل الاعتمادية والاستقلالية كخط رئيسي أو احتياطي.",
+        "emphasisAfterParagraph": 3,
+        "image": {
+          "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+          "alt": "هوائي Starlink الرسمي والراوتر اللذان يمكن استخدامهما كاتصال رئيسي أو احتياطي",
+          "caption": "هوائي وراوتر Starlink الرسميان، مستقلان عن تمديدات المزوّد المحلي. صورة من Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.3316
+        }
+      },
+      {
+        "heading": "كيف تستخدم Starlink إلى جانب ألياف غير موثوقة",
+        "paragraphs": [
+          "هذا الجزء إرشاد عام وليس رواية عن تركيبنا الخاص. هناك طريقتان لاستخدام Starlink بجانب ألياف غير مستقرة، من الأبسط إلى التلقائي.",
+          "المستوى الأول، بلا تكلفة إضافية: أبقِ شبكة Wi-Fi الخاصة بـ Starlink كشبكة ثانية، وانقل هاتفك أو حاسوبك إليها عندما تنقطع الألياف أثناء اجتماع. التبديل يدوي ويستغرق ثوانيَ، لكن عليك أن تلاحظ الانقطاع وتتصرف.",
+          "المستوى الثاني، التلقائي: استخدم راوتر يدعم Dual-WAN (أو Multi-WAN) مع failover. توصَّل الألياف بمنفذ WAN وStarlink بالمنفذ الآخر، فيحوّل الراوتر الحركة إلى Starlink عندما يكتشف انقطاع الألياف. ويُوصَّل Starlink عادةً براوترك عبر وضع bypass في التطبيق، ليتولى راوترك إدارة الشبكة. تحقق من دعم Starlink مما يحتاجه طرازك، فبعض الأجهزة تتطلب محوّل Ethernet.",
+          "عند التبديل التلقائي قد تعيد المكالمات الجارية وشبكات VPN الاتصال لثوانٍ، لأن العنوان الخارجي يتغير. اختبر الـ failover قبل الاعتماد عليه: افصل الألياف عدة دقائق وانظر هل تعود المكالمات والكاميرات والعمل عن بُعد من تلقاء نفسها."
+        ]
+      },
+      {
+        "heading": "المطر الغزير والرياح وانقطاع الكهرباء",
+        "paragraphs": [
+          "الإنترنت الفضائي القديم من المدار العالي له تأخير بمئات الملّي ثانية، وهذا يضر بالمكالمات والألعاب. تستخدم Starlink أقمارًا في مدار منخفض وتنشر زمن استجابة نموذجيًا بين 25 و60 ملّي ثانية على اليابسة، وهو مرجع من الشركة دون قياس في عنواننا.",
+          "قد يخفض المطر الغزير جدًا والثلج والعواصف الأداء لبعض الوقت، وتتطلب الرياح هوائيًا مثبتًا جيدًا. قارن بالألياف: قد يستغرق إصلاح كابل مقطوع في الشارع وقتًا طويلًا، ولا تعتمد Starlink عليه.",
+          "وانقطاع الكهرباء نقطة أخرى: هوائي Starlink والراوتر يحتاجان إلى كهرباء، وكذلك أجهزة الألياف. ويحافظ جهاز UPS أو محطة طاقة محمولة مناسبة للاستهلاك المذكور في مواصفات Starlink على الاتصال في الانقطاعات القصيرة. وإذا انقطعت الكهرباء عن الحي كله فقد تتوقف شبكة الشارع أيضًا، فاختبر المجموعة قبل الاعتماد عليها."
+        ]
       },
       {
         "heading": "السرعة والألعاب",
@@ -317717,7 +324428,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "الجهاز المستأجر والمغادرة",
         "paragraphs": [
-          "الجهاز في صفحة الطلب مستأجر، وعليك إعادته إذا ألغيت. ويغطي [دليل العقد والإلغاء والاسترداد](/ar/reviews/starlink-cancel-ar) قواعد الإعادة والاسترداد خلال 30 يومًا."
+          "في عُمان وقطر يُشترى الجهاز، ولا تظهر في الصفحات التي قرأناها فترة تعاقد، وتوجد فترة تجريبية 30 يومًا. أما في الولايات المتحدة فالجهاز مستأجر ويجب إعادته إذا ألغيت. ويغطي [دليل العقد والإلغاء والاسترداد](/ar/reviews/starlink-cancel-ar) قواعد الإعادة والاسترداد خلال 30 يومًا.",
+          "فتح صفحة الطلب لا يكلّف شيئًا: لا تظهر الأسعار والخصومات والتوفر إلا بعد إدخال عنوانك على starlink.com. ولا تُحتسب الإحالة إلا إذا قدّمت الطلب عبر رابط إحالة، قبل الدفع، على starlink.com، لا عبر متجر وسيط."
+        ],
+        "links": [
+          {
+            "label": "جرّب على عنواني مع 30 يومًا للإعادة",
+            "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+            "sponsored": true
+          }
         ]
       },
       {
@@ -317730,34 +324449,36 @@ export const reviewsData: unknown[] = [
         "heading": "الأسئلة الشائعة",
         "bullets": [
           "هل لدى Starlink كوبون خصم؟ لا. ليس لدى Starlink كوبون: عبر رابط الإحالة الخاص بنا، يحصل المشترك على مكافأة بعد شهرين من الاشتراك، ويعتمد المبلغ على البلد (مثلًا 100 دولار أمريكي في الولايات المتحدة)، وتُصرف افتراضيًا رصيدًا على الفاتورة، ويحصل المحيل على المبلغ نفسه.",
-          "هل تستحق Starlink الاشتراك في المدينة؟ مع ألياف مستقرة في عنوانك، قارن التركيب والفواتير الشهرية وأي رسم للمعدات قبل أن تنتقل.",
-          "هل Starlink أفضل من الألياف؟ إذا لم تتوفر ألياف جيدة في موقعك، فمن المفيد معرفة سعر Starlink والتحقق من وجود سماء مفتوحة لتركيب الطبق. وإذا توفر الخياران، فقارن الاستقرار والتكلفة في عنوانك.",
+          "هل تستحق Starlink الاشتراك في المدينة؟ يعتمد ذلك على جودة الألياف الحالية فعلًا. إن كانت رخيصة ومستقرة فهي تفوز عادةً في التكلفة. وإن كانت تنقطع كثيرًا أو تقدّم أقل بكثير مما تدفع، فقد تستحق Starlink كبديل أو خط احتياطي بشرط وجود سماء مفتوحة. وهذا ما حدث معنا.",
+          "هل Starlink أفضل من الألياف؟ في أقصى سرعة وزمن الاستجابة تتفوق الألياف السليمة عادةً. وفي الاستمرارية أمام الأعطال المحلية والكابلات المقطوعة في الشارع تفيد Starlink لأنها مسار مستقل عن المزوّد المحلي.",
           "هل Starlink جيدة للألعاب؟ اختبر زمن الاستجابة والانقطاعات في عنوانك. فالنطاق النموذجي الذي تنشره Starlink مرجع عام.",
-          "هل عليّ شراء جهاز Starlink؟ في صفحة الطلب لمدينة رينو كان الجهاز مستأجرًا بـ 0$ مقدمًا و0$ شهريًا، وتعيده إذا ألغيت.",
-          "كم تكلّف Starlink شهريًا؟ في صفحة الطلب لمدينة رينو كانت Residential بسرعة 100 ميغابت بـ 38.50$ وMax بـ 91$ شهريًا. ويتغير السعر بحسب العنوان."
+          "هل Starlink غير محدودة؟ تعلن Starlink عن بيانات غير محدودة في باقات المنازل. تحقق في طلبك من حدود السرعة للباقة المعروضة.",
+          "كم تكلّف Starlink شهريًا؟ في مسقط كانت باقة المنازل بـ 30 ر.ع. شهريًا، وفي الدوحة باقة المنازل Lite بـ 220 ر.ق. شهريًا، وفي نيفادا 38.50$ لباقة 100 ميغابت و59.50$ لباقة 200 ميغابت و91$ لباقة Max. ويتغير السعر بحسب العنوان.",
+          "هل يمكن استخدام Starlink كاحتياطي للألياف؟ نعم. مع راوتر Dual-WAN يدعم failover تتولى Starlink الاتصال عند انقطاع الألياف، ومن دونه يمكنك تبديل الشبكة يدويًا. تحقق من دعم Starlink مما يحتاجه طرازك لوضع bypass."
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "لا تصل ألياف أو كابل مستقر إلى عنوانك والإنترنت المنزلي عبر الشبكة الخلوية ضعيف هناك.",
-        "لا مانع لديك من جهاز مستأجر يُعاد إذا ألغيت، وستتحقق من السعر في صفحة طلبك."
+        "حتى مع توفر ألياف رخيصة، تنقطع شبكتك المحلية كثيرًا أو تقدّم أقل بكثير من السرعة المتعاقد عليها، وتحتاج إلى بديل موثوق أو خط احتياطي.",
+        "فحصت رؤية السماء في تطبيق Starlink وتقبل شروط الجهاز والعقد المكتوبة في صفحة الطلب."
       ],
       "skipIf": [
-        "تصلك ألياف أو كابل مستقر أصلًا، فتكون Starlink فاتورة ثانية فحسب.",
-        "تعتمد على الألعاب عبر الإنترنت بزمن استجابة سريع، والشركة لا تَعِد برقم لزمن الاستجابة في عنوانك."
+        "لديك ألياف مستقرة فعلًا بالسرعة المتعاقد عليها ودون انقطاعات متكررة تستدعي الاحتياط.",
+        "تعتمد على الألعاب التنافسية عبر الإنترنت بزمن استجابة مضمون، والشركة لا تَعِد برقم لزمن الاستجابة في عنوانك."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "أدخل عنوانك في موقع Starlink وتحقق من الباقة والجهاز والسعر الشهري قبل أن تدفع.",
-      "label": "شاهد الباقات في عنواني",
+      "text": "تدفع السعر نفسه كما في الموقع الرسمي، وتحتفظ بمهلة 30 يومًا للإعادة إن لم يعمل على سطح منزلك، وتحصل على مكافأة الإحالة، التي تختلف بحسب البلد (مثلًا 100 دولار أمريكي في الولايات المتحدة)، رصيدًا على فاتورتك إذا استوفيت الشروط.",
+      "label": "شاهد عنواني على starlink.com عبر رابط الإحالة",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
     "affiliate": "starlink",
-    "editorialNote": "الأسعار قرأناها في صفحة الطلب الرسمية دون إتمام عملية شراء. لم نستخدم الخدمة بعد. نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة إذا اشتركت عبر رابطنا واستوفيت الشروط.",
+    "editorialNote": "اشتركنا في Starlink كبديل وخط احتياطي لألياف غير مستقرة. الأسعار وشروط الجهاز في هذا الدليل قرأناها في صفحات الطلب العامة الرسمية. نشارك في برنامج إحالة Starlink وقد نحصل على مكافأة إذا اشتركت عبر رابطنا واستوفيت الشروط.",
     "relatedArticles": [
       {
         "slug": "starlink-cancel-ar"

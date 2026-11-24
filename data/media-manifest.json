@@ -194109,6 +194109,203 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/starlink/starlink-ar-planos-oma.webp",
+      "local_url": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25574,
+      "sha256": "b3c77a2791e6df3ab6590136238657326cd3c04e43075a108360316184ac0f5c",
+      "width": 390,
+      "height": 526,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-ar-planos-oma.webp",
+      "storage_filename": "starlink-ar-planos-oma.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-ar.json",
+        "content/reviews/starlink-cancel-ar.json",
+        "content/reviews/starlink-referral-ar.json",
+        "content/reviews/starlink-trust-ar.json",
+        "content/reviews/starlink-trustpilot-ar.json",
+        "content/reviews/starlink-worth-it-ar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-ar.json",
+          "line": 179,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-cancel-ar.json",
+          "line": 46,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-ar.json",
+          "line": 44,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trust-ar.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trustpilot-ar.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-worth-it-ar.json",
+          "line": 155,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 323126,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 323281,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 323468,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 323910,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 324070,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 324355,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ar-planos-oma.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b3c77a2791e6df3ab6590136238657326cd3c04e43075a108360316184ac0f5c/starlink-ar-planos-oma.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b3c77a2791e6df3ab6590136238657326cd3c04e43075a108360316184ac0f5c/starlink-ar-planos-oma.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.720Z",
+      "verification_etag_or_digest": "b3c77a2791e6df3ab6590136238657326cd3c04e43075a108360316184ac0f5c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-ar-resumo-oma.webp",
+      "local_url": "/images/reviews/starlink/starlink-ar-resumo-oma.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 6578,
+      "sha256": "29a55abaf27ed9473519f3d4c3e1f5659e836a936a49a002b064f73644a54681",
+      "width": 265,
+      "height": 255,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-ar-resumo-oma.webp",
+      "storage_filename": "starlink-ar-resumo-oma.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-ar.json",
+        "content/reviews/starlink-cancel-ar.json",
+        "content/reviews/starlink-referral-ar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-ar.json",
+          "line": 193,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ar-resumo-oma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-cancel-ar.json",
+          "line": 53,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ar-resumo-oma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-ar.json",
+          "line": 253,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ar-resumo-oma.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 323140,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ar-resumo-oma.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 323288,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-ar-resumo-oma.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 323677,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ar-resumo-oma.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/29a55abaf27ed9473519f3d4c3e1f5659e836a936a49a002b064f73644a54681/starlink-ar-resumo-oma.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/29a55abaf27ed9473519f3d4c3e1f5659e836a936a49a002b064f73644a54681/starlink-ar-resumo-oma.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "29a55abaf27ed9473519f3d4c3e1f5659e836a936a49a002b064f73644a54681",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/starlink/starlink-e-confiavel-capa.webp",
       "local_url": "/images/reviews/starlink/starlink-e-confiavel-capa.webp",
       "media_kind": "image",
@@ -194198,6 +194395,203 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T01:48:32.369Z",
       "verification_etag_or_digest": "93bd67b6ba63d8b784ef1d0c7285b83da6d5e5dbd77e579a457f26c3547e774b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-fr-planos-paris.webp",
+      "local_url": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 50264,
+      "sha256": "0559f07b18df0b09e2095c94d1e6548b8a34f4b6a76a62d93e1753bce7d4b2fe",
+      "width": 390,
+      "height": 660,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-fr-planos-paris.webp",
+      "storage_filename": "starlink-fr-planos-paris.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-offre.json",
+        "content/reviews/starlink-engagement-resilier.json",
+        "content/reviews/starlink-est-il-fiable.json",
+        "content/reviews/starlink-lien-parrainage.json",
+        "content/reviews/starlink-trustpilot-avis.json",
+        "content/reviews/starlink-vaut-il-le-coup.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-offre.json",
+          "line": 179,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-engagement-resilier.json",
+          "line": 46,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-est-il-fiable.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-lien-parrainage.json",
+          "line": 44,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trustpilot-avis.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-vaut-il-le-coup.json",
+          "line": 155,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292933,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293385,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293649,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293833,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294070,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294374,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0559f07b18df0b09e2095c94d1e6548b8a34f4b6a76a62d93e1753bce7d4b2fe/starlink-fr-planos-paris.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0559f07b18df0b09e2095c94d1e6548b8a34f4b6a76a62d93e1753bce7d4b2fe/starlink-fr-planos-paris.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "0559f07b18df0b09e2095c94d1e6548b8a34f4b6a76a62d93e1753bce7d4b2fe",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+      "local_url": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15954,
+      "sha256": "58be0acd26b0ac44fe9145dee4ec8d7557f5a6799c7e66812caaa390ec0d4eb9",
+      "width": 265,
+      "height": 400,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-fr-recapitulatif-paris.webp",
+      "storage_filename": "starlink-fr-recapitulatif-paris.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-offre.json",
+        "content/reviews/starlink-engagement-resilier.json",
+        "content/reviews/starlink-lien-parrainage.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-offre.json",
+          "line": 193,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-engagement-resilier.json",
+          "line": 53,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-lien-parrainage.json",
+          "line": 258,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293147,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293399,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 293840,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-fr-recapitulatif-paris.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/58be0acd26b0ac44fe9145dee4ec8d7557f5a6799c7e66812caaa390ec0d4eb9/starlink-fr-recapitulatif-paris.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/58be0acd26b0ac44fe9145dee4ec8d7557f5a6799c7e66812caaa390ec0d4eb9/starlink-fr-recapitulatif-paris.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "58be0acd26b0ac44fe9145dee4ec8d7557f5a6799c7e66812caaa390ec0d4eb9",
       "verification_status": "verified"
     },
     {
@@ -194841,6 +195235,400 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/starlink/starlink-it-planos-milao.webp",
+      "local_url": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48438,
+      "sha256": "835aa060bbecd3c0622cf9347e01775e0084b623c498be0666514c0f4cd55053",
+      "width": 390,
+      "height": 643,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-it-planos-milao.webp",
+      "storage_filename": "starlink-it-planos-milao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-offerta.json",
+        "content/reviews/starlink-contratto-disdetta.json",
+        "content/reviews/starlink-conviene.json",
+        "content/reviews/starlink-e-affidabile.json",
+        "content/reviews/starlink-link-invito.json",
+        "content/reviews/starlink-trustpilot-recensioni.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-offerta.json",
+          "line": 179,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-contratto-disdetta.json",
+          "line": 45,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-conviene.json",
+          "line": 155,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-e-affidabile.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-link-invito.json",
+          "line": 44,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trustpilot-recensioni.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 296111,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 296561,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 296825,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 297008,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 297248,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 297552,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/835aa060bbecd3c0622cf9347e01775e0084b623c498be0666514c0f4cd55053/starlink-it-planos-milao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/835aa060bbecd3c0622cf9347e01775e0084b623c498be0666514c0f4cd55053/starlink-it-planos-milao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "835aa060bbecd3c0622cf9347e01775e0084b623c498be0666514c0f4cd55053",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+      "local_url": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15150,
+      "sha256": "9a13aa4681fddaee2e437985cd56b861d6929d7f14c37a209ea171989216f439",
+      "width": 265,
+      "height": 395,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-it-riepilogo-milao.webp",
+      "storage_filename": "starlink-it-riepilogo-milao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-offerta.json",
+        "content/reviews/starlink-contratto-disdetta.json",
+        "content/reviews/starlink-link-invito.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-offerta.json",
+          "line": 193,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-contratto-disdetta.json",
+          "line": 52,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-link-invito.json",
+          "line": 256,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 296323,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 296575,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 297015,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9a13aa4681fddaee2e437985cd56b861d6929d7f14c37a209ea171989216f439/starlink-it-riepilogo-milao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9a13aa4681fddaee2e437985cd56b861d6929d7f14c37a209ea171989216f439/starlink-it-riepilogo-milao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "9a13aa4681fddaee2e437985cd56b861d6929d7f14c37a209ea171989216f439",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+      "local_url": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57408,
+      "sha256": "2187202db9ef592fc7b7f3fc74a7e4bae37589e6a918bc15e77222cea5b55f81",
+      "width": 390,
+      "height": 562,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-ja-planos-toquio.webp",
+      "storage_filename": "starlink-ja-planos-toquio.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-ja.json",
+        "content/reviews/starlink-cancel-ja.json",
+        "content/reviews/starlink-referral-ja.json",
+        "content/reviews/starlink-trust-ja.json",
+        "content/reviews/starlink-trustpilot-ja.json",
+        "content/reviews/starlink-worth-it-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-ja.json",
+          "line": 174,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-cancel-ja.json",
+          "line": 46,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-ja.json",
+          "line": 44,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trust-ja.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trustpilot-ja.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-worth-it-ja.json",
+          "line": 151,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 297697,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 298139,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 298399,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 298583,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 298785,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 299089,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-ja-planos-toquio.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2187202db9ef592fc7b7f3fc74a7e4bae37589e6a918bc15e77222cea5b55f81/starlink-ja-planos-toquio.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2187202db9ef592fc7b7f3fc74a7e4bae37589e6a918bc15e77222cea5b55f81/starlink-ja-planos-toquio.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "2187202db9ef592fc7b7f3fc74a7e4bae37589e6a918bc15e77222cea5b55f81",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-ja-resumo-toquio.webp",
+      "local_url": "/images/reviews/starlink/starlink-ja-resumo-toquio.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 35936,
+      "sha256": "a4f5ee8d077b88250dc5ee11efafbb5b0d206a6641c57bf15f70dad267846fd5",
+      "width": 265,
+      "height": 770,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-ja-resumo-toquio.webp",
+      "storage_filename": "starlink-ja-resumo-toquio.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-ja.json",
+        "content/reviews/starlink-cancel-ja.json",
+        "content/reviews/starlink-referral-ja.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-ja.json",
+          "line": 188,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ja-resumo-toquio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-cancel-ja.json",
+          "line": 53,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ja-resumo-toquio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-ja.json",
+          "line": 253,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ja-resumo-toquio.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 297906,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ja-resumo-toquio.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 298153,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ja-resumo-toquio.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 298590,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-ja-resumo-toquio.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a4f5ee8d077b88250dc5ee11efafbb5b0d206a6641c57bf15f70dad267846fd5/starlink-ja-resumo-toquio.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a4f5ee8d077b88250dc5ee11efafbb5b0d206a6641c57bf15f70dad267846fd5/starlink-ja-resumo-toquio.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "a4f5ee8d077b88250dc5ee11efafbb5b0d206a6641c57bf15f70dad267846fd5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/starlink/starlink-kit-standard-oficial.webp",
       "local_url": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
       "media_kind": "image",
@@ -194884,6 +195672,203 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T01:48:32.369Z",
       "verification_etag_or_digest": "f2e809cd34ef814f9c3b1cccca166dd5261561a45043c821f37e9dee4e9ac1b6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-ko-planos-seul.webp",
+      "local_url": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30102,
+      "sha256": "0a9e7338263ebc4ffb040e9a365ce49f5e6503f2e825ac33794959903790a350",
+      "width": 390,
+      "height": 485,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-ko-planos-seul.webp",
+      "storage_filename": "starlink-ko-planos-seul.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-ko.json",
+        "content/reviews/starlink-cancel-ko.json",
+        "content/reviews/starlink-referral-ko.json",
+        "content/reviews/starlink-trust-ko.json",
+        "content/reviews/starlink-trustpilot-ko.json",
+        "content/reviews/starlink-worth-it-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-ko.json",
+          "line": 179,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-cancel-ko.json",
+          "line": 46,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-ko.json",
+          "line": 44,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trust-ko.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trustpilot-ko.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-worth-it-ko.json",
+          "line": 155,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 299234,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 299687,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 299951,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 300135,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 300336,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 300640,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-ko-planos-seul.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0a9e7338263ebc4ffb040e9a365ce49f5e6503f2e825ac33794959903790a350/starlink-ko-planos-seul.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0a9e7338263ebc4ffb040e9a365ce49f5e6503f2e825ac33794959903790a350/starlink-ko-planos-seul.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "0a9e7338263ebc4ffb040e9a365ce49f5e6503f2e825ac33794959903790a350",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-ko-resumo-seul.webp",
+      "local_url": "/images/reviews/starlink/starlink-ko-resumo-seul.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11374,
+      "sha256": "6943ea1e4bf35a0d760afb6767dc330d1feeaa1064a3f2b74128b6a2bd7ecb44",
+      "width": 265,
+      "height": 350,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-ko-resumo-seul.webp",
+      "storage_filename": "starlink-ko-resumo-seul.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-ko.json",
+        "content/reviews/starlink-cancel-ko.json",
+        "content/reviews/starlink-referral-ko.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-ko.json",
+          "line": 193,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ko-resumo-seul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-cancel-ko.json",
+          "line": 53,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ko-resumo-seul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-ko.json",
+          "line": 259,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-ko-resumo-seul.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 299449,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ko-resumo-seul.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 299701,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-ko-resumo-seul.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 300142,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-ko-resumo-seul.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6943ea1e4bf35a0d760afb6767dc330d1feeaa1064a3f2b74128b6a2bd7ecb44/starlink-ko-resumo-seul.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6943ea1e4bf35a0d760afb6767dc330d1feeaa1064a3f2b74128b6a2bd7ecb44/starlink-ko-resumo-seul.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "6943ea1e4bf35a0d760afb6767dc330d1feeaa1064a3f2b74128b6a2bd7ecb44",
       "verification_status": "verified"
     },
     {
@@ -196247,6 +197232,249 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+      "local_url": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22408,
+      "sha256": "7aaec0484dd6cd7197a9faca5f2738bfa359df497742c702b925189c3bac2f2a",
+      "width": 390,
+      "height": 404,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-br-planos-100mbps-alto-paraiso.webp",
+      "storage_filename": "starlink-br-planos-100mbps-alto-paraiso.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-starlink.json",
+        "content/reviews/starlink-e-confiavel.json",
+        "content/reviews/starlink-fidelidade-como-cancelar.json",
+        "content/reviews/starlink-indicacao-como-usar.json",
+        "content/reviews/starlink-reclame-aqui-nota-reputacao.json",
+        "content/reviews/starlink-vale-a-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-starlink.json",
+          "line": 185,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-e-confiavel.json",
+          "line": 58,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-fidelidade-como-cancelar.json",
+          "line": 44,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-indicacao-como-usar.json",
+          "line": 43,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-reclame-aqui-nota-reputacao.json",
+          "line": 159,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-vale-a-pena.json",
+          "line": 153,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 288057,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 288524,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 288786,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 288968,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 289234,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 289522,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7aaec0484dd6cd7197a9faca5f2738bfa359df497742c702b925189c3bac2f2a/starlink-br-planos-100mbps-alto-paraiso.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7aaec0484dd6cd7197a9faca5f2738bfa359df497742c702b925189c3bac2f2a/starlink-br-planos-100mbps-alto-paraiso.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "7aaec0484dd6cd7197a9faca5f2738bfa359df497742c702b925189c3bac2f2a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+      "local_url": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 17856,
+      "sha256": "761a207bb2f3a33ac059668314b9f890419c23af94f101f88575b528f2fa9c4f",
+      "width": 265,
+      "height": 535,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-br-resumo-max-fidelidade.webp",
+      "storage_filename": "starlink-br-resumo-max-fidelidade.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-starlink.json",
+        "content/reviews/starlink-fidelidade-como-cancelar.json",
+        "content/reviews/starlink-indicacao-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-starlink.json",
+          "line": 199,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-fidelidade-como-cancelar.json",
+          "line": 65,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-indicacao-como-usar.json",
+          "line": 265,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 288279,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 288538,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 288989,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/761a207bb2f3a33ac059668314b9f890419c23af94f101f88575b528f2fa9c4f/starlink-br-resumo-max-fidelidade.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/761a207bb2f3a33ac059668314b9f890419c23af94f101f88575b528f2fa9c4f/starlink-br-resumo-max-fidelidade.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "761a207bb2f3a33ac059668314b9f890419c23af94f101f88575b528f2fa9c4f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-cancel-ar-capa.webp",
+      "local_url": "/images/reviews/starlink/starlink-cancel-ar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 148784,
+      "sha256": "92fa2de30e0c78384a57757c164ce825bbc96a592610e3b973bb22229bd4d36c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-cancel-ar-capa.webp",
+      "storage_filename": "starlink-cancel-ar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-cancel-ar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-cancel-ar.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-cancel-ar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 323261,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-cancel-ar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/92fa2de30e0c78384a57757c164ce825bbc96a592610e3b973bb22229bd4d36c/starlink-cancel-ar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/92fa2de30e0c78384a57757c164ce825bbc96a592610e3b973bb22229bd4d36c/starlink-cancel-ar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "92fa2de30e0c78384a57757c164ce825bbc96a592610e3b973bb22229bd4d36c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/starlink/starlink-cancel-ja-capa.webp",
       "local_url": "/images/reviews/starlink/starlink-cancel-ja-capa.webp",
       "media_kind": "image",
@@ -196569,6 +197797,203 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+      "local_url": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18126,
+      "sha256": "c06ecfe4455ee64de0badbaabcee7413271854d3f3322ad22b53e68b2eeb5a00",
+      "width": 265,
+      "height": 450,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-de-bestelluebersicht-berlim.webp",
+      "storage_filename": "starlink-de-bestelluebersicht-berlim.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-angebot.json",
+        "content/reviews/starlink-empfehlungslink.json",
+        "content/reviews/starlink-vertrag-kuendigen.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-angebot.json",
+          "line": 193,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-empfehlungslink.json",
+          "line": 259,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-vertrag-kuendigen.json",
+          "line": 52,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294734,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294986,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295426,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c06ecfe4455ee64de0badbaabcee7413271854d3f3322ad22b53e68b2eeb5a00/starlink-de-bestelluebersicht-berlim.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c06ecfe4455ee64de0badbaabcee7413271854d3f3322ad22b53e68b2eeb5a00/starlink-de-bestelluebersicht-berlim.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "c06ecfe4455ee64de0badbaabcee7413271854d3f3322ad22b53e68b2eeb5a00",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-de-planos-berlim.webp",
+      "local_url": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52622,
+      "sha256": "220a6adc495a0e6a0ebd8af9de2f69e5268af2b24ad5de85e3d367ddc49f00c5",
+      "width": 390,
+      "height": 660,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-de-planos-berlim.webp",
+      "storage_filename": "starlink-de-planos-berlim.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/ist-starlink-serioes.json",
+        "content/reviews/lohnt-sich-starlink.json",
+        "content/reviews/starlink-black-friday-angebot.json",
+        "content/reviews/starlink-empfehlungslink.json",
+        "content/reviews/starlink-trustpilot-bewertungen.json",
+        "content/reviews/starlink-vertrag-kuendigen.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/ist-starlink-serioes.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/lohnt-sich-starlink.json",
+          "line": 155,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-black-friday-angebot.json",
+          "line": 179,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-empfehlungslink.json",
+          "line": 44,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trustpilot-bewertungen.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-vertrag-kuendigen.json",
+          "line": 45,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294519,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 294972,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295236,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295419,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295662,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 295966,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/220a6adc495a0e6a0ebd8af9de2f69e5268af2b24ad5de85e3d367ddc49f00c5/starlink-de-planos-berlim.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/220a6adc495a0e6a0ebd8af9de2f69e5268af2b24ad5de85e3d367ddc49f00c5/starlink-de-planos-berlim.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "220a6adc495a0e6a0ebd8af9de2f69e5268af2b24ad5de85e3d367ddc49f00c5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/starlink/starlink-e-affidabile-capa.webp",
       "local_url": "/images/reviews/starlink/starlink-e-affidabile-capa.webp",
       "media_kind": "image",
@@ -196799,6 +198224,203 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/starlink/starlink-es-planos-madrid.webp",
+      "local_url": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 47246,
+      "sha256": "c68788956a69a635cb783e011a748b7c03d682ac965f7f44ccbb085074e2fc8c",
+      "width": 390,
+      "height": 627,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-es-planos-madrid.webp",
+      "storage_filename": "starlink-es-planos-madrid.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-oferta.json",
+        "content/reviews/starlink-enlace-referido-como-funciona.json",
+        "content/reviews/starlink-es-fiable.json",
+        "content/reviews/starlink-permanencia-cancelar.json",
+        "content/reviews/starlink-trustpilot-opiniones.json",
+        "content/reviews/starlink-vale-la-pena.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-oferta.json",
+          "line": 179,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-enlace-referido-como-funciona.json",
+          "line": 44,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-es-fiable.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-permanencia-cancelar.json",
+          "line": 45,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trustpilot-opiniones.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-vale-la-pena.json",
+          "line": 155,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 291315,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 291774,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292038,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292221,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292484,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292788,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-es-planos-madrid.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c68788956a69a635cb783e011a748b7c03d682ac965f7f44ccbb085074e2fc8c/starlink-es-planos-madrid.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c68788956a69a635cb783e011a748b7c03d682ac965f7f44ccbb085074e2fc8c/starlink-es-planos-madrid.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "c68788956a69a635cb783e011a748b7c03d682ac965f7f44ccbb085074e2fc8c",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+      "local_url": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13304,
+      "sha256": "29a429dcacf057d23ec30025c87f0f8f4ee8590dd2f1582585a67e0490f56408",
+      "width": 265,
+      "height": 365,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-es-resumen-madrid.webp",
+      "storage_filename": "starlink-es-resumen-madrid.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-oferta.json",
+        "content/reviews/starlink-enlace-referido-como-funciona.json",
+        "content/reviews/starlink-permanencia-cancelar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-oferta.json",
+          "line": 193,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-enlace-referido-como-funciona.json",
+          "line": 265,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-permanencia-cancelar.json",
+          "line": 52,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 291536,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 291788,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292228,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-es-resumen-madrid.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/29a429dcacf057d23ec30025c87f0f8f4ee8590dd2f1582585a67e0490f56408/starlink-es-resumen-madrid.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/29a429dcacf057d23ec30025c87f0f8f4ee8590dd2f1582585a67e0490f56408/starlink-es-resumen-madrid.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "29a429dcacf057d23ec30025c87f0f8f4ee8590dd2f1582585a67e0490f56408",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/starlink/starlink-est-il-fiable-capa.webp",
       "local_url": "/images/reviews/starlink/starlink-est-il-fiable-capa.webp",
       "media_kind": "image",
@@ -196937,6 +198559,384 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/starlink/starlink-mx-resumen-12-meses.webp",
+      "local_url": "/images/reviews/starlink/starlink-mx-resumen-12-meses.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20758,
+      "sha256": "2188368d56b08b42fd6aabfb065a9b47821988b78ac9fa6c1ba3feaafee62c3d",
+      "width": 265,
+      "height": 545,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-mx-resumen-12-meses.webp",
+      "storage_filename": "starlink-mx-resumen-12-meses.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-permanencia-cancelar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-permanencia-cancelar.json",
+          "line": 74,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-mx-resumen-12-meses.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 292250,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-mx-resumen-12-meses.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2188368d56b08b42fd6aabfb065a9b47821988b78ac9fa6c1ba3feaafee62c3d/starlink-mx-resumen-12-meses.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2188368d56b08b42fd6aabfb065a9b47821988b78ac9fa6c1ba3feaafee62c3d/starlink-mx-resumen-12-meses.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "2188368d56b08b42fd6aabfb065a9b47821988b78ac9fa6c1ba3feaafee62c3d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+      "local_url": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 9998,
+      "sha256": "68fe038aab93f73c2ef5759f02d932205dba5b036e104c6fa067dad759397525",
+      "width": 265,
+      "height": 325,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-my-order-summary-max-aluguel.webp",
+      "storage_filename": "starlink-my-order-summary-max-aluguel.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-zh-hans.json",
+        "content/reviews/starlink-black-friday-zh-hant.json",
+        "content/reviews/starlink-cancel-zh-hans.json",
+        "content/reviews/starlink-cancel-zh-hant.json",
+        "content/reviews/starlink-referral-zh-hans.json",
+        "content/reviews/starlink-referral-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-zh-hans.json",
+          "line": 193,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-black-friday-zh-hant.json",
+          "line": 198,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-cancel-zh-hans.json",
+          "line": 52,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-cancel-zh-hant.json",
+          "line": 52,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-zh-hans.json",
+          "line": 259,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-zh-hant.json",
+          "line": 266,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 301007,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 301265,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 301707,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 302601,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 302853,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 303288,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-order-summary-max-aluguel.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/68fe038aab93f73c2ef5759f02d932205dba5b036e104c6fa067dad759397525/starlink-my-order-summary-max-aluguel.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/68fe038aab93f73c2ef5759f02d932205dba5b036e104c6fa067dad759397525/starlink-my-order-summary-max-aluguel.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "68fe038aab93f73c2ef5759f02d932205dba5b036e104c6fa067dad759397525",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+      "local_url": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 27002,
+      "sha256": "ce35ec8072b6a8218b3edcc33d51cd36a8dac0ce876c9e851183be33a74fc3bc",
+      "width": 390,
+      "height": 394,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-my-planos-100mbps-compra.webp",
+      "storage_filename": "starlink-my-planos-100mbps-compra.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-zh-hans.json",
+        "content/reviews/starlink-black-friday-zh-hant.json",
+        "content/reviews/starlink-cancel-zh-hans.json",
+        "content/reviews/starlink-cancel-zh-hant.json",
+        "content/reviews/starlink-referral-zh-hans.json",
+        "content/reviews/starlink-referral-zh-hant.json",
+        "content/reviews/starlink-trust-zh-hans.json",
+        "content/reviews/starlink-trust-zh-hant.json",
+        "content/reviews/starlink-trustpilot-zh-hans.json",
+        "content/reviews/starlink-trustpilot-zh-hant.json",
+        "content/reviews/starlink-worth-it-zh-hans.json",
+        "content/reviews/starlink-worth-it-zh-hant.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-zh-hans.json",
+          "line": 179,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-black-friday-zh-hant.json",
+          "line": 182,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-cancel-zh-hans.json",
+          "line": 45,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-cancel-zh-hant.json",
+          "line": 45,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-zh-hans.json",
+          "line": 44,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-zh-hant.json",
+          "line": 45,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trust-zh-hans.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trust-zh-hant.json",
+          "line": 62,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trustpilot-zh-hans.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trustpilot-zh-hant.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-worth-it-zh-hans.json",
+          "line": 150,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-worth-it-zh-hant.json",
+          "line": 151,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 300786,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 301249,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 301512,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 301700,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 301934,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 302241,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 302386,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 302839,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 303098,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 303281,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 303510,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 303814,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ce35ec8072b6a8218b3edcc33d51cd36a8dac0ce876c9e851183be33a74fc3bc/starlink-my-planos-100mbps-compra.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ce35ec8072b6a8218b3edcc33d51cd36a8dac0ce876c9e851183be33a74fc3bc/starlink-my-planos-100mbps-compra.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "ce35ec8072b6a8218b3edcc33d51cd36a8dac0ce876c9e851183be33a74fc3bc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/starlink/starlink-order-referral-applied-en.webp",
       "local_url": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
       "media_kind": "image",
@@ -197041,6 +199041,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T03:21:19.273Z",
       "verification_etag_or_digest": "63f6a246f79b6a8bd190f9df904669e237fc0e8e1f36efd08e692cedce60d190",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-pt-planos-lisboa-aluguer.webp",
+      "local_url": "/images/reviews/starlink/starlink-pt-planos-lisboa-aluguer.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49190,
+      "sha256": "4a2c2f0912df486d7b37126da43668cd2b9a9de9d1e2ccea447d421be7390474",
+      "width": 390,
+      "height": 660,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-pt-planos-lisboa-aluguer.webp",
+      "storage_filename": "starlink-pt-planos-lisboa-aluguer.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-fidelidade-como-cancelar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-fidelidade-como-cancelar.json",
+          "line": 79,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-pt-planos-lisboa-aluguer.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 289003,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-pt-planos-lisboa-aluguer.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4a2c2f0912df486d7b37126da43668cd2b9a9de9d1e2ccea447d421be7390474/starlink-pt-planos-lisboa-aluguer.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4a2c2f0912df486d7b37126da43668cd2b9a9de9d1e2ccea447d421be7390474/starlink-pt-planos-lisboa-aluguer.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "4a2c2f0912df486d7b37126da43668cd2b9a9de9d1e2ccea447d421be7390474",
       "verification_status": "verified"
     },
     {
@@ -197274,6 +199320,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/starlink/starlink-trust-ar-capa.webp",
+      "local_url": "/images/reviews/starlink/starlink-trust-ar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 56084,
+      "sha256": "1eea0ba07e8310b60eba0ff7532542e15b736b163cb074d6be0c69aa1bf1e72d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-trust-ar-capa.webp",
+      "storage_filename": "starlink-trust-ar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-trust-ar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-trust-ar.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-trust-ar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 324037,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-trust-ar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1eea0ba07e8310b60eba0ff7532542e15b736b163cb074d6be0c69aa1bf1e72d/starlink-trust-ar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1eea0ba07e8310b60eba0ff7532542e15b736b163cb074d6be0c69aa1bf1e72d/starlink-trust-ar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "1eea0ba07e8310b60eba0ff7532542e15b736b163cb074d6be0c69aa1bf1e72d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/starlink/starlink-trust-ja-capa.webp",
       "local_url": "/images/reviews/starlink/starlink-trust-ja-capa.webp",
       "media_kind": "image",
@@ -197455,6 +199547,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T03:21:19.273Z",
       "verification_etag_or_digest": "61165c7da01b704d4186d4cf04631920f2c1fd20726ed153b83b10169756df52",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-trustpilot-ar-capa.webp",
+      "local_url": "/images/reviews/starlink/starlink-trustpilot-ar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 48962,
+      "sha256": "5f14a98dced7ad9d74bf6e9171d0fb2555fc84cfab24b13055fc84e1fef825fa",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "starlink-trustpilot-ar-capa.webp",
+      "storage_filename": "starlink-trustpilot-ar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-trustpilot-ar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-trustpilot-ar.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/starlink/starlink-trustpilot-ar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 323762,
+          "column": 15,
+          "literal": "/images/reviews/starlink/starlink-trustpilot-ar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5f14a98dced7ad9d74bf6e9171d0fb2555fc84cfab24b13055fc84e1fef825fa/starlink-trustpilot-ar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5f14a98dced7ad9d74bf6e9171d0fb2555fc84cfab24b13055fc84e1fef825fa/starlink-trustpilot-ar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "5f14a98dced7ad9d74bf6e9171d0fb2555fc84cfab24b13055fc84e1fef825fa",
       "verification_status": "verified"
     },
     {
@@ -197869,6 +200007,249 @@
       "uploaded_at": null,
       "verified_at": "2026-11-20T03:21:19.273Z",
       "verification_etag_or_digest": "9acec9ce3d003901eb58812d55ef367093c83de8e44032a66b3809d7214d96c8",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-uk-order-summary-100mbps.webp",
+      "local_url": "/images/reviews/starlink/starlink-uk-order-summary-100mbps.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 11694,
+      "sha256": "0dc878e2eefb09c43cc14b442702e7f0443b7ee5a2c5580ad2f8ad764e8dcef5",
+      "width": 265,
+      "height": 405,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-uk-order-summary-100mbps.webp",
+      "storage_filename": "starlink-uk-order-summary-100mbps.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-contract-cancel-refund.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-contract-cancel-refund.json",
+          "line": 67,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-uk-order-summary-100mbps.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 290621,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-uk-order-summary-100mbps.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0dc878e2eefb09c43cc14b442702e7f0443b7ee5a2c5580ad2f8ad764e8dcef5/starlink-uk-order-summary-100mbps.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0dc878e2eefb09c43cc14b442702e7f0443b7ee5a2c5580ad2f8ad764e8dcef5/starlink-uk-order-summary-100mbps.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "0dc878e2eefb09c43cc14b442702e7f0443b7ee5a2c5580ad2f8ad764e8dcef5",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+      "local_url": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23938,
+      "sha256": "3825b7723063120885948c765bbe14238dd997ee06cf0d6dcd972de44b07f0ca",
+      "width": 265,
+      "height": 710,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-us-order-summary-100mbps.webp",
+      "storage_filename": "starlink-us-order-summary-100mbps.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/starlink-black-friday-deal.json",
+        "content/reviews/starlink-contract-cancel-refund.json",
+        "content/reviews/starlink-referral-link-how-it-works.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/starlink-black-friday-deal.json",
+          "line": 203,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-contract-cancel-refund.json",
+          "line": 53,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-link-how-it-works.json",
+          "line": 271,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 289897,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 290159,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 290607,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-us-order-summary-100mbps.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/3825b7723063120885948c765bbe14238dd997ee06cf0d6dcd972de44b07f0ca/starlink-us-order-summary-100mbps.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/3825b7723063120885948c765bbe14238dd997ee06cf0d6dcd972de44b07f0ca/starlink-us-order-summary-100mbps.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "3825b7723063120885948c765bbe14238dd997ee06cf0d6dcd972de44b07f0ca",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+      "local_url": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23042,
+      "sha256": "4c6a08b257664022019b906f73fedb3b778e8e611f2d8e0bc6b9e97ddb399274",
+      "width": 587,
+      "height": 820,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "starlink-us-planos-nevada-100mbps.webp",
+      "storage_filename": "starlink-us-planos-nevada-100mbps.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-starlink-legit.json",
+        "content/reviews/is-starlink-worth-it.json",
+        "content/reviews/starlink-black-friday-deal.json",
+        "content/reviews/starlink-contract-cancel-refund.json",
+        "content/reviews/starlink-referral-link-how-it-works.json",
+        "content/reviews/starlink-trustpilot-reviews.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-starlink-legit.json",
+          "line": 59,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/is-starlink-worth-it.json",
+          "line": 162,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-black-friday-deal.json",
+          "line": 189,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-contract-cancel-refund.json",
+          "line": 46,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-referral-link-how-it-works.json",
+          "line": 44,
+          "column": 17,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/starlink-trustpilot-reviews.json",
+          "line": 174,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 289670,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 290145,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 290416,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 290600,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 290866,
+          "column": 19,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 291170,
+          "column": 21,
+          "literal": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4c6a08b257664022019b906f73fedb3b778e8e611f2d8e0bc6b9e97ddb399274/starlink-us-planos-nevada-100mbps.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4c6a08b257664022019b906f73fedb3b778e8e611f2d8e0bc6b9e97ddb399274/starlink-us-planos-nevada-100mbps.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T03:14:48.721Z",
+      "verification_etag_or_digest": "4c6a08b257664022019b906f73fedb3b778e8e611f2d8e0bc6b9e97ddb399274",
       "verification_status": "verified"
     },
     {

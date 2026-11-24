@@ -87,6 +87,36 @@
           ]
         ],
         "caption": "Trustpilot，starlink.com 檔案，2026 年 11 月 23 日讀取。"
+      },
+      "metrics": {
+        "items": [
+          {
+            "label": "TrustScore",
+            "value": "1.6",
+            "unit": "/5",
+            "note": "未認領檔案"
+          },
+          {
+            "label": "評論總數",
+            "value": "879",
+            "note": "僅自然產生"
+          },
+          {
+            "label": "公司回覆",
+            "value": "0%",
+            "note": "464 則負面中 0 則"
+          },
+          {
+            "label": "1 星 vs 5 星",
+            "value": "71%",
+            "unit": "vs 17%",
+            "note": "客服與帳單居首"
+          }
+        ],
+        "summary": {
+          "badge": "看懂落差",
+          "text": "好評集中在速度與穩定的訊號；抱怨則集中在自動化客服、帳單與價格調整。"
+        }
       }
     },
     {
@@ -136,15 +166,30 @@
       "heading": "對訂閱者意味著什麼",
       "paragraphs": [
         "付款之前，請在 starlink.com 針對你自己的地址確認方案、套件（租用或購買）、稅金與合約：這些會依國家甚至依地址而不同。把下單當天的優惠畫面截圖存起來，每張帳單都拿來對照。",
+        "最簡單的保護方式，是直接在 starlink.com 下單，並把訂單摘要畫面存下來，上面有價格、套件、合約條件與已套用的推薦。之後拿第一張帳單與這張截圖對照。推薦只在透過推薦連結開啟的訂單上、於付款前才算數，事後無法補上。",
         "租用套件與退還規定請見[合約、取消與退款指南](/zh-hant/reviews/starlink-cancel-zh-hant)。"
       ],
       "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+          "alt": "馬來西亞吉隆坡的 Starlink 方案畫面：100 Mbps 每月 RM 135，Mini X 套件 RM 900（購買）",
+          "caption": "馬來西亞吉隆坡，100 Mbps 方案：月費與購買 Mini X 套件的價格。Starlink 的選擇器沒有中文介面，這裡以馬來西亞為例，說明值得存下的畫面。2026年11月23日查詢。",
+          "objectFit": "square",
+          "aspectRatio": 0.9898
+        },
         {
           "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
           "alt": "Starlink 天線安裝在木屋屋頂上",
           "caption": "安裝好的住宅用天線。照片：Starlink",
           "objectFit": "contain",
           "aspectRatio": 1.8079
+        }
+      ],
+      "links": [
+        {
+          "label": "在 starlink.com 開啟官方訂單並確認我所在的地區",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
         }
       ]
     },
@@ -158,15 +203,32 @@
           "label": "Trustpilot 上的 starlink.com 檔案",
           "href": "https://www.trustpilot.com/review/starlink.com"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Starlink Standard 套件內容：天線、路由器、支架與纜線",
+          "caption": "Starlink Standard 套件：天線、路由器、支架與纜線。照片：Starlink",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ]
     },
     {
       "heading": "訂閱之前",
       "paragraphs": [
         "訂閱之前，請先確認網站與條款。如何辨認官方網站與冒用名稱的檔案，請見[Starlink 可靠嗎？](/zh-hant/reviews/starlink-trust-zh-hant)。",
+        "開啟訂單不會讓你承擔任何義務：方案、價格、可用性與合約條件，要輸入地址後才會顯示。Starlink 的 30 天政策在訂單上說明，若在期限內取消並將套件完好退還，可獲退款；若是附合約的補貼套件，請確認 30 天後是否有費用。",
         "[Starlink 推薦](/zh-hant/coupons/starlink)頁面有連結與計畫規則。推薦不是優惠券：獎勵在訂閱滿兩個月後以帳單抵免的形式入帳，優先、企業與商用方案不適用。"
       ],
-      "emphasis": "依表格數字，對地址上沒有其他好網路選擇的人來說，在 starlink.com 針對該地址確認方案、套件、稅金與合約之後再訂閱是合理的，因為 1.6 反映的多半是客服、帳單與價格的抱怨，而不是訊號品質。"
+      "emphasis": "依表格數字，對地址上沒有其他好網路選擇的人來說，在 starlink.com 針對該地址確認方案、套件、稅金與合約之後再訂閱是合理的，因為 1.6 反映的多半是客服、帳單與價格的抱怨，而不是訊號品質。",
+      "links": [
+        {
+          "label": "在 starlink.com 確認我的地址是否可用",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "常見問題",
@@ -205,8 +267,8 @@
     ]
   },
   "cta": {
-    "text": "在 Starlink 網站輸入你的地址，付款前先確認方案、套件與月費。",
-    "label": "查看你地址的方案",
+    "text": "透過推薦連結開啟訂單，確認你地址的方案、套件與合約，付款前把摘要畫面存下來。價格與官方網站相同。",
+    "label": "在 starlink.com 開啟我的訂單",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

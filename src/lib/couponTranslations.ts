@@ -4216,6 +4216,11 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
           'Yes. According to Starlink\'s order page, if you cancel and return the undamaged kit within 30 days, Starlink refunds the kit and the first month of service.',
       },
       {
+        question: 'Does Starlink have a 12-month contract?',
+        answer:
+          'It depends on the country and the order. On the order pages we read on November 23, 2026, the US (Nevada) and the UK showed the kit as a rental with no minimum contract (the UK page says “No contracts”), and anyone who cancels returns the rented hardware. The order summary shows the rule before you pay, and in every case you have 30 days to return the kit for a full refund.',
+      },
+      {
         question: 'Do I need to copy a code to get the reward?',
         answer:
           'No. Just place the order on starlink.com with the button on this page: the link already carries the referral, and the reward then appears in the Referrals tab of your Starlink account.',
@@ -4287,6 +4292,11 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
         question: '¿Puedo devolver Starlink si no me gusta?',
         answer:
           'Sí. Según la página de pedido de Starlink, si cancelas y devuelves el kit sin daños en 30 días, Starlink reembolsa el kit y el primer mes de servicio.',
+      },
+      {
+        question: '¿Starlink tiene permanencia de 12 meses?',
+        answer:
+          'Depende del país y del pedido. En las páginas de pedido que leímos el 23 de noviembre de 2026, España (Madrid) ofrecía el kit en alquiler y sin permanencia, y quien cancela devuelve el kit alquilado. En México, el Standard 4 X con descuento exige un “Plazo de 12 meses”, con una tarifa por cancelación anticipada. El resumen del pedido muestra la regla antes de pagar, y en todos los casos hay 30 días para devolver el kit con reembolso íntegro.',
       },
       {
         question: '¿Necesito copiar un código para recibir la recompensa?',
@@ -4362,6 +4372,11 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
           'Oui. Selon la page de commande de Starlink, si vous annulez et retournez le kit non endommagé sous 30 jours, Starlink rembourse le kit et le premier mois de service.',
       },
       {
+        question: 'Starlink impose-t-il un engagement de 12 mois ?',
+        answer:
+          'Cela dépend du pays et de la commande. Sur la page de commande lue le 23 novembre 2026, la France (Paris) proposait le kit en location, sans durée minimale, et celui qui résilie retourne le matériel loué. Le récapitulatif de la commande affiche la règle avant le paiement, et dans tous les cas vous avez 30 jours pour retourner le kit et être remboursé intégralement.',
+      },
+      {
         question: 'Dois-je copier un code pour recevoir la récompense\u00a0?',
         answer:
           'Non. Passez simplement la commande sur starlink.com avec le bouton de cette page\u00a0: le lien contient déjà le parrainage, et la récompense apparaît ensuite dans l\'onglet Parrainages de votre compte Starlink.',
@@ -4433,6 +4448,11 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
         question: 'Kann ich Starlink zurückgeben, wenn es mir nicht gefällt?',
         answer:
           'Ja. Laut Bestellseite von Starlink erstattet Starlink Kit und ersten Monat, wenn du kündigst und das unbeschädigte Kit innerhalb von 30 Tagen zurückschickst.',
+      },
+      {
+        question: 'Hat Starlink eine Vertragsbindung von 12 Monaten?',
+        answer:
+          'Das hängt vom Land und von der Bestellung ab. Auf der Bestellseite, die wir am 23. November 2026 gelesen haben, gab es in Deutschland (Berlin) das Rental-Kit, mit einem Vertrag von Monat zu Monat auf unbestimmte Zeit; laut Seite ist die Kündigung gebührenfrei, und das gemietete Hardware-Set schickst du zurück. Die Bestellübersicht zeigt die Regel vor dem Bezahlen, und in jedem Fall hast du 30 Tage, um das Kit gegen volle Erstattung zurückzugeben.',
       },
       {
         question: 'Muss ich einen Code kopieren, um die Prämie zu bekommen?',
@@ -4508,6 +4528,11 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
           'Sì. Secondo la pagina d\'ordine di Starlink, se annulli e restituisci il kit non danneggiato entro 30 giorni, Starlink rimborsa il kit e il primo mese di servizio.',
       },
       {
+        question: 'Starlink ha un vincolo di 12 mesi?',
+        answer:
+          'Dipende dal paese e dall\'ordine. Nella pagina d\'ordine letta il 23 novembre 2026, l\'Italia (Milano) indicava “Nessun contratto, prova di 30 giorni” e il kit a noleggio; se disdici, restituisci il kit. Il riepilogo dell\'ordine mostra la regola prima di pagare, e in ogni caso hai 30 giorni per restituire il kit con rimborso integrale.',
+      },
+      {
         question: 'Devo copiare un codice per ricevere il premio?',
         answer:
           'No. Ordina su starlink.com con il pulsante di questa pagina: il link contiene già il referral, e il premio compare poi nella scheda Referral del tuo account Starlink.',
@@ -4579,6 +4604,11 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
         question: '마음에 들지 않으면 Starlink를 반품할 수 있나요?',
         answer:
           '네. Starlink 주문 페이지에 따르면, 30일 이내에 취소하고 손상되지 않은 키트를 반품하면 Starlink가 키트와 첫 달 서비스 요금을 환불합니다.',
+      },
+      {
+        question: 'Starlink에는 12개월 약정이 있나요?',
+        answer:
+          '국가와 주문에 따라 다릅니다. 2026년 11월 23일에 확인한 한국(서울) 주문 페이지에서는 키트를 구매하는 방식만 있었고, 약정도 임대도 없었습니다. 주문 요약에서 결제 전에 규정을 확인할 수 있으며, 어떤 경우든 30일 이내에 키트를 반품하면 전액 환불받을 수 있습니다.',
       },
       {
         question: '보상을 받으려면 코드를 복사해야 하나요?',
@@ -4654,6 +4684,11 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
           'はい。Starlink の注文ページによると、30 日以内に解約して損傷のないキットを返品すれば、Starlink がキットと最初の 1 か月分のサービス料金を返金します。',
       },
       {
+        question: 'Starlink には 12 か月の契約期間がありますか？',
+        answer:
+          '国と注文内容によります。2026 年 11 月 23 日に確認した日本（東京）の注文ページでは、Mini はレンタルで、契約期間の定めはなく、解約するときはレンタルした機器を返却します。30 日間の無料お試しもあります。注文の概要で支払い前にルールを確認でき、どの場合も 30 日以内にキットを返品すれば全額返金されます。',
+      },
+      {
         question: '特典を受け取るのにコードをコピーする必要はありますか？',
         answer:
           'いいえ。このページのボタンから starlink.com で注文するだけです。リンクにすでに紹介が含まれていて、特典はそのあと Starlink アカウントの「紹介」タブに表示されます。',
@@ -4725,6 +4760,11 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
         question: '不喜歡的話可以退回 Starlink 嗎？',
         answer:
           '可以。根據 Starlink 的訂購頁面，如果你在 30 天內取消並退回未損壞的套件，Starlink 會退還套件和第一個月的服務費用。',
+      },
+      {
+        question: 'Starlink 有 12 個月的合約嗎？',
+        answer:
+          '視你地址所在的國家而定。我們在 2026 年 11 月 23 日讀取的訂購頁面有三種情況：購買套件、無合約（例如馬來西亞 100 Mbps、韓國、阿曼）；套件採租用，取消時須退回（例如美國、日本、歐洲、馬來西亞 Max）；或補貼套件並綁定 12 個月（例如巴西 Max、墨西哥 Standard 4 X）。訂單摘要會在付款前顯示規則，無論哪種情況，你都有 30 天可退回套件並獲得全額退款。',
       },
       {
         question: '領取獎勵需要複製代碼嗎？',
@@ -4800,6 +4840,11 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
           '可以。根据 Starlink 的订购页面，如果你在 30 天内取消并退回未损坏的套件，Starlink 会退还套件和第一个月的服务费用。',
       },
       {
+        question: 'Starlink 有 12 个月的合约吗？',
+        answer:
+          '视你地址所在的国家而定。我们在 2026 年 11 月 23 日读取的订购页面有三种情况：购买套件、无合约（例如马来西亚 100 Mbps、韩国、阿曼）；套件采租用，取消时须退回（例如美国、日本、欧洲、马来西亚 Max）；或补贴套件并绑定 12 个月（例如巴西 Max、墨西哥 Standard 4 X）。订单摘要会在付款前显示规则，无论哪种情况，你都有 30 天可退回套件并获得全额退款。',
+      },
+      {
         question: '领取奖励需要复制代码吗？',
         answer:
           '不需要。只要通过本页的按钮在 starlink.com 下单即可：链接已包含推荐信息，奖励之后会显示在你 Starlink 账户的“推荐”标签页。',
@@ -4871,6 +4916,11 @@ const STARLINK_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation>
         question: 'هل يمكنني إرجاع Starlink إذا لم تعجبني؟',
         answer:
           'نعم. بحسب صفحة الطلب في Starlink، إذا ألغيت وأعدت الجهاز سليمًا خلال 30 يومًا، تعيد Starlink ثمن الجهاز والشهر الأول من الخدمة.',
+      },
+      {
+        question: 'هل لدى Starlink عقد مدته 12 شهرًا؟',
+        answer:
+          'يعتمد ذلك على الطلب. في صفحة الطلب بالواجهة العربية الرسمية التي قرأناها في 23 نوفمبر 2026 (عُمان وقطر)، يُشترى الجهاز مع عبارة «بدون تعاقد» وتجربة مدتها 30 يومًا. يعرض ملخص الطلب القاعدة قبل الدفع، وفي كل الحالات لديك 30 يومًا لإعادة الجهاز واسترداد المبلغ كاملًا.',
       },
       {
         question: 'هل أحتاج إلى نسخ رمز للحصول على المكافأة؟',

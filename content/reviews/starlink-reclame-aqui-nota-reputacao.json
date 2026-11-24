@@ -97,6 +97,35 @@
           ]
         ],
         "caption": "Perfil verificado Starlink Brazil, lido em 23/11/2026. 6 meses: 01/05 a 31/10/2026. 12 meses: 01/11/2025 a 31/10/2026. Geral: 24/11/2023 a 23/11/2026."
+      },
+      "metrics": {
+        "items": [
+          {
+            "label": "Nota 6 meses",
+            "value": "7,8",
+            "unit": "/10",
+            "note": "Reputação Boa"
+          },
+          {
+            "label": "Respondidas",
+            "value": "100%",
+            "note": "Todas atendidas"
+          },
+          {
+            "label": "Resolvidas",
+            "value": "77,1%",
+            "note": "Das avaliadas"
+          },
+          {
+            "label": "Voltariam",
+            "value": "75%",
+            "note": "Fariam negócio"
+          }
+        ],
+        "summary": {
+          "badge": "Principal queixa",
+          "text": "Na aba geral, a cobrança indevida lidera os problemas listados, com 15,19% das queixas da aba. Guardar o print do pedido ajuda a contestar uma fatura que não bate."
+        }
       }
     },
     {
@@ -122,15 +151,32 @@
       "heading": "O que isso quer dizer para quem assina",
       "paragraphs": [
         "Quem assina precisa conferir a fatura todo mês e compará-la com o preço que apareceu no pedido. O preço promocional tem regras: ele vale para cliente novo em áreas selecionadas, e pode ser perdido se o plano mudar, se o serviço for cancelado ou suspenso.",
+        "A defesa mais simples é pedir direto em starlink.com e salvar a tela do resumo do pedido, com preço, kit, contrato e a indicação aplicada. Depois, compare a primeira fatura com esse print. A indicação só conta no pedido aberto por um link de indicação, antes de pagar, e não dá para acrescentá-la depois.",
         "As regras de fidelidade e de cancelamento estão no [guia sobre fidelidade e cancelamento](/reviews/starlink-fidelidade-como-cancelar)."
       ],
-      "image": {
-        "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
-        "alt": "Antena Starlink presa ao telhado de uma casa de madeira",
-        "caption": "Antena residencial instalada. Foto da Starlink.",
-        "objectFit": "contain",
-        "aspectRatio": 1.8079
-      }
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+          "alt": "Tela de planos da Starlink para Alto Paraíso de Goiás, com o Residencial 100 Mbps a R$ 132,30 por mês e o Mini X a R$ 299",
+          "caption": "Alto Paraíso de Goiás, aba 100 Mbps: o preço do plano e do kit que aparecem no pedido, o tipo de tela que vale a pena guardar.",
+          "objectFit": "square",
+          "aspectRatio": 0.9653
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-antena-casa-oficial.webp",
+          "alt": "Antena Starlink presa ao telhado de uma casa de madeira",
+          "caption": "Antena residencial instalada. Foto da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8079
+        }
+      ],
+      "links": [
+        {
+          "label": "Abrir o pedido oficial em starlink.com e conferir minha região",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Como reclamar",
@@ -146,15 +192,32 @@
           "label": "Perfil verificado Starlink Brazil no Reclame Aqui",
           "href": "https://www.reclameaqui.com.br/empresa/starlink-brazil/"
         }
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+          "alt": "Componentes do kit Starlink Standard: antena, roteador, suporte e cabos",
+          "caption": "Kit Starlink Standard: antena, roteador, suporte e cabos. Foto da Starlink.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
       ]
     },
     {
       "heading": "Antes de assinar",
       "paragraphs": [
         "Antes de assinar, confira o site e o contrato. Como reconhecer o site oficial e os perfis que usam o nome está em [a Starlink é confiável?](/reviews/starlink-e-confiavel).",
+        "Abrir o pedido não compromete nada: plano, preço, disponibilidade e regras do contrato só aparecem depois que você digita o seu endereço. A política de 30 dias da Starlink prevê reembolso se você cancelar e devolver o kit sem danos nesse prazo, conforme o pedido; em kit subsidiado com contrato, confira se há multa depois dos 30 dias.",
         "A página da [indicação Starlink](/cupons/starlink) tem o link e as regras do programa. A indicação não é cupom: a recompensa cai como crédito na fatura depois de dois meses de assinatura, e os planos Prioritário, Enterprise e Comercial não ganham."
       ],
-      "emphasis": "Pelos números da tabela, para quem depende da Starlink no endereço, a escolha é assinar depois de conferir plano, kit e contrato no pedido, porque a nota 7,8 mede o atendimento às reclamações no Reclame Aqui, e não a qualidade do sinal."
+      "emphasis": "Pelos números da tabela, para quem depende da Starlink no endereço, a escolha é assinar depois de conferir plano, kit e contrato no pedido, porque a nota 7,8 mede o atendimento às reclamações no Reclame Aqui, e não a qualidade do sinal.",
+      "links": [
+        {
+          "label": "Verificar disponibilidade no meu CEP direto em starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
@@ -192,8 +255,8 @@
     ]
   },
   "cta": {
-    "text": "Informe seu endereço no site da Starlink e confira plano, kit e mensalidade antes de pagar.",
-    "label": "Ver planos no meu endereço",
+    "text": "Abra o pedido pelo link de indicação, confira plano, kit e contrato no seu endereço e salve a tela do resumo antes de pagar. O preço é o do site oficial.",
+    "label": "Abrir o pedido em starlink.com no meu endereço",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

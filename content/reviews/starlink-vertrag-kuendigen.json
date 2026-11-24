@@ -3,8 +3,8 @@
   "slug": "starlink-vertrag-kuendigen",
   "translationKey": "starlink-fidelidade",
   "locale": "de",
-  "title": "Hat Starlink eine Vertragslaufzeit? Kit-Miete, Kündigung und die 30 Tage zur Rückgabe",
-  "seoTitle": "Starlink kündigen: Kit-Rückgabe und 30 Tage",
+  "title": "Hat Starlink eine Vertragslaufzeit? Monatlich kündbar, Kit zur Miete und die 30 Tage zur Rückgabe",
+  "seoTitle": "Starlink kündigen: monatlich, Kit-Rückgabe, 30 Tage",
   "type": "Anleitung",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Das Kit ist bei der Bestellung in Berlin gemietet und geht bei Kündigung zurück. Sehen Sie, wie Sie im Konto kündigen, was die 30 Tage bedeuten und worauf Sie achten sollten.",
-  "metaDescription": "Starlink kündigen in Deutschland: Das Kit ist zur Miete und geht zurück. Die 30 Tage für die Erstattung und die Schritte im Konto.",
+  "description": "In Berlin läuft der Vertrag von Monat zu Monat, die Kündigung ist gebührenfrei, und das gemietete Kit geht zurück. Alle drei Tarife, die 30 Tage und die Schritte im Konto.",
+  "metaDescription": "Starlink kündigen in Deutschland: Vertrag von Monat zu Monat, gebührenfrei kündbar, Kit zur Miete geht zurück. 30 Tage und Schritte im Konto.",
   "publishedAt": "20. November 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,28 +31,86 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Die Bestellseite für Berlin zeigte das Kit als Miete, mit 0 € Vorauszahlung und 0 € Kit-Gebühr im Monat, und bei Kündigung muss es zurückgeschickt werden. Starlink nennt die Erstattung von Kit und erstem Monat, wenn Sie kündigen und das Kit unbeschädigt innerhalb von 30 Tagen zurückgeben. Eine Mindestvertragslaufzeit oder eine Gebühr für die vorzeitige Kündigung haben wir in den gelesenen Angaben nicht gefunden, prüfen Sie deshalb Ihre Bestellung."
+        "Die Bestellübersicht für Berlin nennt es ausdrücklich: Der Vertrag wird automatisch von Monat zu Monat auf unbestimmte Zeit verlängert, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Das Kit ist gemietet, mit 0 € Vorauszahlung und 0 € im Monat, und geht bei Kündigung an Starlink zurück. Wer kündigt und das Kit innerhalb von 30 Tagen unbeschädigt zurückgibt, bekommt nach den Bedingungen des Angebots Kit und ersten Monat erstattet."
       ]
     },
     {
-      "heading": "Kit zur Miete statt Kauf",
+      "heading": "Berlin: drei Tarife, ein Mietmodell",
       "paragraphs": [
-        "Auf der Bestellseite, die wir am 20. November 2026 für Berlin gelesen haben, stand beim Kit eine Vorauszahlung von 0 € und eine monatliche Kit-Gebühr von 0 €. Dazu der Hinweis, dass Sie die gemietete Starlink-Hardware bei Kündigung zurückgeben müssen.",
-        "Für andere Adressen oder Tarife haben wir die Bedingungen nicht gelesen. Die Bestellung für Ihre Adresse zeigt, welche gelten."
+        "Auf der Bestellseite, die wir am 23. November 2026 für eine Adresse am Alexanderplatz in Berlin gelesen haben, laufen alle drei Wohnkunden-Tarife mit gemieteter Hardware für 0 € im Monat. Der Tarif mit 100 Mbit/s kostete 17,50 € im Monat, mit dem Mini X; der mit 200 Mbit/s 27,50 € mit einem Standard 4; Max 37,50 €, ebenfalls mit einem Standard 4. Das sind 50 % Servicerabatt für die ersten 3 Monate (Aktion bis Ende November), danach gelten 35 €, 55 € und 75 €.",
+        "Die Bestellübersicht für 200 Mbit/s zeigte 55 € im Monat und 27,50 € Rabatt für 3 Monate. Der Versand kostete 19 € (15,97 € plus 3,03 € Steuer). Die Montage ist optional: 172 € bei 100 und 200 Mbit/s, 0 € bei Max."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+          "alt": "Tarifseite von Starlink für Berlin mit 100 Mbit/s zu 17,50 € im Monat, Hardware-Miete für 0 € und dem Hinweis, die gemietete Hardware zurückzusenden",
+          "caption": "Berlin, Stand 23.11.2026: 100 Mbit/s zu 17,50 € im Monat und Hardware-Miete für 0 €.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5909
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+          "alt": "Bestellübersicht von Starlink in Berlin für 200 Mbit/s zu 55 € mit dem Hinweis auf Verlängerung von Monat zu Monat, gebührenfreier Kündigung und 3 Monaten Rabatt",
+          "caption": "Bestellübersicht in Berlin, Stand 23.11.2026: Vertrag von Monat zu Monat, Kündigung gebührenfrei, 3 Monate Rabatt von 27,50 €.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.5889
+        }
+      ],
+      "links": [
+        {
+          "label": "Tarife und Vertragsbedingungen für meine Adresse prüfen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
       "heading": "Gibt es eine Mindestlaufzeit?",
       "paragraphs": [
-        "In den Angaben der Bestellseite für Berlin haben wir keine Mindestvertragslaufzeit und keine Gebühr für den vorzeitigen Ausstieg gefunden. Das ist keine Zusage von Starlink. Lesen Sie die Zusammenfassung Ihrer Bestellung, bevor Sie abschließen, und fragen Sie den Support, wenn etwas offen bleibt."
-      ]
+        "Nein, nach dem, was die Bestellübersicht für Berlin sagt. Dort steht in jeder Tarifzeile sinngemäß: Der Vertrag wird automatisch von Monat zu Monat auf unbestimmte Zeit verlängert, bis er gekündigt wird, und die Kündigung ist gebührenfrei. Eine Mindestvertragslaufzeit und eine Gebühr für den vorzeitigen Ausstieg haben wir nicht gefunden.",
+        "Den Mietgegenstand müssen Sie trotzdem zurückgeben: Beim Kündigen schickt man das Rental-Kit an Starlink zurück, also das Mini X beim Tarif mit 100 Mbit/s und das Standard 4 bei 200 Mbit/s und Max. Neben den 30 Tagen von Starlink gilt außerdem das gesetzliche Widerrufsrecht, dessen Frist Sie in Ihrer Bestellung und den Bedingungen nachlesen. Was beim Wechsel des Tarifs in den 3 Rabattmonaten passiert, zeigen die öffentlichen Seiten nicht: Fragen Sie das bei Starlink nach, bevor Sie wechseln."
+      ],
+      "comparisonTable": {
+        "caption": "Werte der Bestellseite für Berlin; der 50-%-Rabatt galt für 3 Monate, bis Ende November.",
+        "headers": [
+          "Tarif",
+          "Erste 3 Monate",
+          "Danach",
+          "Gemietete Hardware",
+          "Montage"
+        ],
+        "rows": [
+          [
+            "100 Mbit/s",
+            "17,50 €",
+            "35 €",
+            "Mini X für 0 €",
+            "172 €, optional"
+          ],
+          [
+            "200 Mbit/s",
+            "27,50 €",
+            "55 €",
+            "Standard 4 für 0 €",
+            "172 €, optional"
+          ],
+          [
+            "Max",
+            "37,50 €",
+            "75 €",
+            "Standard 4 für 0 €",
+            "0 €"
+          ]
+        ]
+      }
     },
     {
       "heading": "Die 30 Tage zur Rückgabe",
       "paragraphs": [
         "Die Bestellseite nennt eine Frist von 30 Tagen. Um die Erstattung von Kit und erstem Monat unter den Bedingungen des Angebots zu erhalten, kündigen Sie den Dienst und senden das Kit innerhalb dieser Frist unbeschädigt zurück.",
         "Die Kündigung des Abonnements stoppt die künftigen Abbuchungen im Rahmen des Abrechnungszyklus. Klären Sie mit dem Starlink-Support, wie Sie auch die Rückgabe des Kits einleiten, und bewahren Sie den Versandbeleg auf.",
-        "Der Link der [Starlink-Empfehlung](/de/coupons/starlink) führt zur selben Bestellung auf der offiziellen Seite. Die Rückgabebedingungen prüfen Sie dort, bevor Sie bezahlen."
+        "Der Link der [Starlink-Empfehlung](/de/coupons/starlink) führt zur selben Bestellung auf der offiziellen Seite. Die Rückgabebedingungen prüfen Sie dort, bevor Sie bezahlen.",
+        "Eine Miete gibt es nicht überall. In anderen Ländern, etwa in Brasilien oder Mexiko, wird das Kit gekauft, und ein gefördertes Kit kann mit 12 Monaten Laufzeit und einer Gebühr für den vorzeitigen Ausstieg kommen. Maßgeblich ist immer die Zusammenfassung Ihrer eigenen Bestellung."
       ],
       "image": {
         "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
@@ -61,7 +119,14 @@
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
-      "emphasis": "Nach den Bedingungen der Bestellung löst nur die Kündigung mit unbeschädigter Rückgabe des Kits innerhalb von 30 Tagen die Erstattung von Kit und erstem Monat aus, und der Versandbeleg ist der Nachweis, auf den es ankommt."
+      "emphasis": "Nach den Bedingungen der Bestellung löst nur die Kündigung mit unbeschädigter Rückgabe des Kits innerhalb von 30 Tagen die Erstattung von Kit und erstem Monat aus, und der Versandbeleg ist der Nachweis, auf den es ankommt.",
+      "links": [
+        {
+          "label": "Tarife mit 30 Tagen Erstattung auf starlink.com ansehen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "So kündigen Sie",
@@ -91,8 +156,24 @@
     {
       "heading": "Aktionspreis und Tarifwechsel",
       "paragraphs": [
-        "Der Aktionspreis für Berlin galt für 3 Monate. Was bei einer Kündigung, einem Tarifwechsel oder einer Sperrung mit dem Aktionspreis passiert, haben wir für Deutschland nicht gelesen. Fragen Sie das vor der Änderung bei Starlink nach."
+        "Der Aktionspreis für Berlin galt für 3 Monate, danach zahlen Sie den regulären Preis. Starlink behält sich laut den Angaben in anderen Märkten vor, Preise mit 30 Tagen Vorlauf zu ändern. Was bei einer Kündigung, einem Tarifwechsel oder einer Sperrung mit dem Aktionspreis passiert, haben wir für Deutschland nicht gelesen. Fragen Sie das vor der Änderung bei Starlink nach."
       ]
+    },
+    {
+      "heading": "Vor der Zahlung: Bestellung prüfen",
+      "paragraphs": [
+        "Die Empfehlung zählt nur, wenn die Bestellung über einen Empfehlungslink beginnt, der vor der Zahlung auf starlink.com geöffnet wird. Nach der Zahlung oder bei einem Marktplatz lässt sie sich nicht mehr nachtragen. Das Öffnen des Links verpflichtet zu nichts: Ihre Adresse zeigt, welches Modell für Sie gilt, und die 30 Tage decken den Test ab. Die Gutschrift erscheint nach zwei Monaten Abonnement auf der Rechnung und senkt den Preis des Kits nicht."
+      ],
+      "checklist": {
+        "title": "Vor der Zahlung",
+        "items": [
+          "Ich habe die Bestellung über den Empfehlungslink geöffnet, im selben Fenster, bevor ich bezahle.",
+          "Ich habe geprüft, dass die Adressleiste auf starlink.com bleibt, bevor ich Daten eingebe.",
+          "Ich habe den Hindernischeck in der Starlink-App an der Stelle gemacht, wo die Antenne stehen soll.",
+          "Ich habe in der Bestellübersicht die Hardware-Zeile, den Monatspreis und die Vertragsklausel gelesen.",
+          "Ich habe vor der Zahlung einen Screenshot der Übersicht mit Monatspreis und 30-Tage-Regel gespeichert."
+        ]
+      }
     },
     {
       "heading": "Wenn weiter abgebucht wird",
@@ -105,10 +186,11 @@
       "heading": "Häufige Fragen",
       "bullets": [
         "Hat Starlink einen Rabattcode? Nein. Starlink hat keinen Gutschein: Über den Empfehlungslink von Cecília erhält, wer abonniert, in Deutschland 45 € nach zwei Monaten Abonnement, als Gutschrift auf der Rechnung, und wer empfohlen hat, erhält denselben Betrag.",
-        "Hat Starlink eine Vertragslaufzeit? In den gelesenen Angaben der Bestellseite für Berlin haben wir keine gefunden. Prüfen Sie die Zusammenfassung Ihrer Bestellung.",
-        "Was kostet es, Starlink zu kündigen? Eine Gebühr für die Kündigung haben wir in den gelesenen Angaben nicht gefunden. Das Kit muss bei Kündigung zurückgeschickt werden.",
+        "Hat Starlink eine Vertragslaufzeit? In Berlin nein: Die Bestellübersicht nennt eine Verlängerung von Monat zu Monat auf unbestimmte Zeit und eine gebührenfreie Kündigung. In anderen Ländern kann ein gefördertes Kit 12 Monate verlangen. Prüfen Sie die Zusammenfassung Ihrer Bestellung.",
+        "Was kostet es, Starlink zu kündigen? Die Bestellübersicht nennt die Kündigung gebührenfrei. Das gemietete Kit muss bei Kündigung zurückgeschickt werden.",
         "Kann ich Starlink jederzeit kündigen? Die Kündigung geht über das Konto. Der Dienst bleibt bis zum Ende des bezahlten Zeitraums aktiv.",
         "Muss ich das Kit zurückgeben? Die Bestellseite für Berlin zeigte das Kit zur Miete. Bei Kündigung muss es zurückgeschickt werden.",
+        "Wie lange gilt der Rabatt von 50 %? In Berlin für die ersten 3 Monate. Danach gelten 35 € beim Tarif mit 100 Mbit/s, 55 € bei 200 Mbit/s und 75 € bei Max.",
         "Kann ich Starlink innerhalb von 30 Tagen zurückgeben? Das Angebot nennt die Erstattung von Kit und erstem Monat, wenn der Dienst gekündigt wird und das Kit innerhalb von 30 Tagen unbeschädigt zurückgeht."
       ]
     }
@@ -130,7 +212,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Sie das gemietete Kit bei Kündigung innerhalb von 30 Tagen unbeschädigt zurückgeben können.",
+      "Sie das gemietete Kit bei Kündigung innerhalb von 30 Tagen unbeschädigt zurückgeben können und monatlich kündbar bleiben wollen.",
       "Sie die Bedingungen in der Zusammenfassung Ihrer eigenen Bestellung vor der Zahlung lesen."
     ],
     "skipIf": [
@@ -139,8 +221,8 @@
     ]
   },
   "cta": {
-    "text": "Die Bestellung öffnet sich auf der Starlink-Seite. Prüfen Sie Laufzeit, Gebühren und Rückgabe des Kits, bevor Sie bezahlen.",
-    "label": "Bedingungen für meine Adresse prüfen",
+    "text": "Die Bestellung öffnet sich auf starlink.com über den Empfehlungslink, der vor der Zahlung kommen muss. Sie zahlen denselben Preis wie auf der Seite, sehen die Vertragsbedingungen Ihrer Adresse und behalten die 30 Tage für die Rückgabe. Die Gutschrift kommt nach zwei Monaten Abonnement.",
+    "label": "Vertrag und Tarif für meine Adresse prüfen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

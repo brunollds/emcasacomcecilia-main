@@ -3,8 +3,8 @@
   "slug": "starlink-conviene",
   "translationKey": "starlink-vale-a-pena",
   "locale": "it",
-  "title": "Starlink conviene? Cosa si paga e per chi ha senso",
-  "seoTitle": "Starlink conviene? Prezzi e per chi ha senso",
+  "title": "Starlink conviene? Prezzi reali, fibra instabile e uso come backup",
+  "seoTitle": "Starlink conviene? Costi, fibra instabile e backup",
   "type": "Guida all'acquisto",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Confronta il costo di Starlink con la connessione che arriva a casa tua. Vedi prezzo e kit per indirizzo, l'assenza di contratto e come verificare dove installare l'antenna.",
-  "metaDescription": "Starlink conviene? Prezzi per indirizzo, kit a noleggio, nessun contratto, per chi ha senso e quando fibra o 4G sono la scelta migliore.",
+  "description": "Scopri se Starlink conviene in campagna o dove la fibra locale cade spesso ed è lenta. Prezzi dei 3 piani, kit a noleggio, nessun contratto e uso come connessione backup.",
+  "metaDescription": "Starlink conviene anche se arriva la fibra? Prezzi a confronto, kit a noleggio, nessun contratto, fibra instabile e utilizzo come linea principale o backup.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,47 +31,133 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Starlink può convenire in campagna e nelle case dove manca una connessione stabile. Se arriva già una fibra affidabile, confronta il totale dei primi mesi prima di cambiare. Somma il canone del tuo indirizzo, controlla cosa prevede il kit e usa l'app di Starlink per capire dove si può installare l'antenna."
+        "Sì, Starlink conviene dove non arriva una connessione stabile e anche dove c’è la fibra, ma cade spesso o dà molta meno banda di quella contrattata. Noi l’abbiamo attivata come alternativa e backup alla nostra fibra instabile. Se la tua fibra è davvero stabile, resta più conveniente per prezzo e latenza. La prova è a basso rischio: nell’ordine di Milano il kit è a noleggio a 0 €, con 30 giorni per restituirlo."
       ]
     },
     {
       "heading": "Quanto costa",
       "paragraphs": [
-        "Il 20 novembre 2026 abbiamo letto l'ordine per un indirizzo di Milano. Con l'offerta in corso, il 50% di sconto sui piani per 3 mesi, i prezzi erano questi."
+        "Il 23 novembre 2026 abbiamo letto l’ordine per un indirizzo pubblico di Milano. Con l’offerta in corso, il 50% di sconto sui piani per 3 mesi, il kit era a noleggio a 0 € e le condizioni dicevano «Nessun contratto», con prova di 30 giorni. Il giorno dell’ordine si pagavano 19 € di spedizione."
       ],
       "comparisonTable": {
         "headers": [
           "Piano a Milano",
-          "Al mese",
-          "Kit",
+          "Al mese per i primi 3 mesi",
+          "Poi al mese",
+          "Kit a noleggio",
           "Installazione professionale"
         ],
         "rows": [
           [
             "Residenziale 100 Mbps",
-            "17,50 €, per i primi 3 mesi",
-            "A noleggio, 0 €",
+            "17,50 €",
+            "35 €",
+            "Mini X, 0 €",
             "172 €, facoltativa"
           ],
           [
-            "Max",
+            "Residenziale 200 Mbps",
+            "22,50 €",
+            "45 €",
+            "Standard 4, 0 €",
+            "172 €, facoltativa"
+          ],
+          [
+            "Residenziale Max",
             "32,50 €",
-            "A noleggio, 0 €",
+            "65 €",
+            "Standard 4, 0 €",
             "Gratuita"
           ]
         ],
-        "caption": "Prezzi mostrati nell'ordine con l'offerta in corso. Il totale da pagare oggi era di 19 €."
+        "caption": "Prezzi del riepilogo a Milano: sconto del 50% per 3 mesi, poi il prezzo pieno. Il totale da pagare il giorno dell’ordine era di 19 €, prima dell’eventuale ricompensa dell’invito."
+      },
+      "simulator": {
+        "title": "Simulatore: cosa chiede ogni scenario",
+        "scenarios": [
+          {
+            "label": "Milano, 100 Mbps",
+            "lines": [
+              {
+                "label": "Kit a noleggio (Mini X)",
+                "value": "0 € e 0 € al mese",
+                "highlight": true
+              },
+              {
+                "label": "Canone nei primi 3 mesi",
+                "value": "17,50 €"
+              },
+              {
+                "label": "Canone pieno dopo i 3 mesi",
+                "value": "35 €"
+              }
+            ],
+            "totalLabel": "Da pagare oggi (spedizione)",
+            "totalValue": "19 €",
+            "note": "Installazione professionale facoltativa a 172 €. Se annulli, restituisci il kit."
+          },
+          {
+            "label": "Milano, 200 Mbps",
+            "lines": [
+              {
+                "label": "Kit a noleggio (Standard 4)",
+                "value": "0 € e 0 € al mese",
+                "highlight": true
+              },
+              {
+                "label": "Canone nei primi 3 mesi",
+                "value": "22,50 €"
+              },
+              {
+                "label": "Canone pieno dopo i 3 mesi",
+                "value": "45 €"
+              }
+            ],
+            "totalLabel": "Da pagare oggi (spedizione)",
+            "totalValue": "19 €",
+            "note": "Installazione professionale facoltativa a 172 €. È il piano che molti confronti saltano."
+          },
+          {
+            "label": "Milano, Max",
+            "lines": [
+              {
+                "label": "Kit a noleggio (Standard 4)",
+                "value": "0 € e 0 € al mese"
+              },
+              {
+                "label": "Canone nei primi 3 mesi",
+                "value": "32,50 €"
+              },
+              {
+                "label": "Canone pieno dopo i 3 mesi",
+                "value": "65 €",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Da pagare oggi (spedizione)",
+            "totalValue": "19 €",
+            "note": "L’installazione professionale è inclusa a 0 €. Controlla il prezzo pieno nel tuo ordine prima di pagare."
+          }
+        ]
       },
       "postParagraphs": [
-        "Non calcoliamo un totale a 12 mesi, perché il prezzo dopo i 3 mesi di sconto non compariva nella pagina che abbiamo letto. Controllalo nel tuo ordine e fai il conto con la durata che appare. Fai il conto prima senza la ricompensa dell'invito, il cui valore dipende dal paese e si vede nell'account. Vedi l'[invito Starlink](/it/coupons/starlink)."
+        "Il piano da 200 Mbps è quello che molti confronti omettono: a 22,50 € nei primi mesi costa 5 € in più del 100 Mbps e porta con sé il kit Standard 4 a noleggio. Non fermarti al prezzo promozionale: dopo i 3 mesi i canoni tornano a 35 €, 45 € e 65 €.",
+        "Fai il conto prima senza la ricompensa dell’invito. Con il nostro link, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura. Vedi l’[invito Starlink](/it/coupons/starlink)."
       ],
       "links": [
         {
-          "label": "Vedi i piani al tuo indirizzo",
+          "label": "Simula piano e kit per il mio indirizzo",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+        "alt": "Schermata ufficiale di Starlink a Milano con il piano 100 Mbps a 17,50 € al mese e il kit a noleggio a 0 €",
+        "caption": "Pagina d’ordine a Milano, consultata il 23/11/2026: 100 Mbps a 17,50 € al mese e kit a noleggio da restituire se annulli.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.6065
+      }
     },
     {
       "heading": "Dove installare l'antenna",
@@ -93,12 +179,38 @@
       }
     },
     {
-      "heading": "Quando confrontare con fibra o 4G",
+      "heading": "Oltre il prezzo: fibra instabile, guasti locali e linea di backup",
       "paragraphs": [
-        "Se arriva già una fibra stabile, confronta installazione, canoni ed eventuali vincoli di ogni proposta. Per il 4G, aggiungi il prezzo dell'apparecchio che ti serve e controlla che il piano abbia abbastanza dati per la casa."
+        "Confrontare solo la bolletta mensile non basta quando la linea fissa del tuo indirizzo costa poco ma cade ogni settimana o dà una frazione della velocità che paghi. Gli operatori regionali e le reti congestionate soffrono spesso di cavi tranciati, manutenzioni senza preavviso e rallentamenti nelle ore di punta. Se lavori da casa, fai videochiamate o dipendi da telecamere e domotica, questo pesa più di qualche euro al mese.",
+        "Nel nostro caso, abbiamo attivato Starlink come alternativa e backup alla fibra instabile. Poiché il segnale arriva dai satelliti, non dipende dai cavi della tua strada né dallo stesso operatore: può sostituire una fibra problematica o fare da via di riserva quando la fibra cade.",
+        "La prova ha poco rischio: il kit è a noleggio a 0 € all’inizio, l’ordine indicava «Nessun contratto» e hai 30 giorni per restituirlo. Misuri la stabilità reale sul tuo tetto e tieni l’abbonamento solo se risolve il problema. Se pensi invece al 4G o 5G domestico come backup, aggiungi il router e controlla i dati inclusi."
       ],
-      "emphasis": "Senza una fibra stabile né un 4G decente all'indirizzo, Starlink entra nel confronto; con una fibra stabile, cambiare conviene solo se il totale dei mesi previsti, tra kit e canoni, resta sotto il costo della connessione attuale.",
-      "emphasisAfterParagraph": 1
+      "emphasis": "Se la tua fibra è davvero stabile e dà la banda contrattata, cambiare solo per il canone mensile raramente conviene; quando gli operatori locali hanno cadute frequenti o rallentamenti forti, Starlink vale per affidabilità e indipendenza come linea principale o di backup.",
+      "emphasisAfterParagraph": 3,
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antenna e router ufficiali di Starlink che possono fare da connessione principale o di backup",
+        "caption": "Antenna e router ufficiali di Starlink, indipendenti dal cablaggio dell’operatore locale. Foto di Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "Come usare Starlink insieme a una fibra poco affidabile",
+      "paragraphs": [
+        "Questa parte è un’indicazione generale, non il racconto della nostra installazione. Ci sono due modi di usare Starlink accanto a una fibra instabile, dal più semplice all’automatico.",
+        "Livello 1, senza costi in più: tieni il Wi-Fi di Starlink come seconda rete e passa a quella dal telefono o dal portatile quando la fibra cade nel mezzo di una riunione. Il passaggio è manuale e richiede secondi, ma devi accorgerti della caduta e agire.",
+        "Livello 2, automatico: usa un router con Dual-WAN (o multi-WAN) e failover. La fibra entra in una porta WAN, Starlink nell’altra, e il router sposta il traffico su Starlink quando rileva che la fibra è caduta. Per questo Starlink si collega di solito al tuo router con la modalità bypass dell’app, che lascia al router la gestione della rete. Controlla con il supporto Starlink cosa richiede il tuo modello, perché alcuni kit chiedono un adattatore Ethernet.",
+        "Nel passaggio automatico, le chiamate in corso e le VPN possono riconnettersi per qualche secondo, perché l’indirizzo di uscita cambia. Prova il failover prima di contarci: scollega la fibra per qualche minuto e verifica che chiamate, telecamere e lavoro da remoto tornino da soli."
+      ]
+    },
+    {
+      "heading": "Pioggia forte, vento e blackout",
+      "paragraphs": [
+        "Il vecchio internet via satellite, da orbita alta, ha un ritardo di centinaia di millisecondi, che rovina chiamate e giochi. Starlink usa satelliti in orbita bassa e pubblica un intervallo tipico da 25 a 60 ms a terra, un riferimento dell’azienda senza misurazione al nostro indirizzo.",
+        "Pioggia molto forte, neve e temporali possono ridurre le prestazioni per un po’, e il vento richiede un’antenna ben fissata. Confrontalo con la fibra: un cavo tranciato in strada può richiedere molto tempo per essere riparato, e Starlink non ne dipende.",
+        "Il blackout è un altro punto: antenna e router di Starlink hanno bisogno di corrente, come gli apparati della fibra. Un gruppo di continuità o una power station portatile, dimensionati sul consumo indicato nelle specifiche di Starlink, tengono la connessione attiva nei blackout brevi. Se manca la corrente in tutto il quartiere, può cadere anche la rete della strada: prova l’insieme prima di contarci."
+      ]
     },
     {
       "heading": "Velocità e giochi",
@@ -116,7 +228,15 @@
     {
       "heading": "Contratto e uscita",
       "paragraphs": [
-        "L'ordine che abbiamo letto indicava «Nessun contratto», con il kit a noleggio e una prova di 30 giorni. Se annulli devi restituire il kit. La [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta) spiega anche le condizioni di rimborso."
+        "L’ordine che abbiamo letto indicava «Nessun contratto», con il kit a noleggio e una prova di 30 giorni. Se annulli devi restituire il kit, e il rimborso si applica se annulli e restituisci il kit in buone condizioni entro i 30 giorni.",
+        "Aprire l’ordine non costa nulla: prezzi, sconti e disponibilità compaiono solo dopo aver inserito l’indirizzo su starlink.com. L’invito conta solo se l’ordine parte da un link di invito, prima di pagare, su starlink.com e non su un marketplace. La [guida su contratto e disdetta](/it/reviews/starlink-contratto-disdetta) spiega anche le condizioni di rimborso."
+      ],
+      "links": [
+        {
+          "label": "Provare al mio indirizzo con 30 giorni per restituire",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -129,33 +249,36 @@
       "heading": "Domande frequenti",
       "bullets": [
         "Starlink ha un coupon sconto? No. Starlink non ha coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
-        "Starlink conviene in città? Con una fibra stabile all'indirizzo, confronta installazione, canoni e vincoli prima di cambiare.",
-        "Starlink è meglio della fibra? Senza una buona fibra, vale la pena controllare l'offerta di Starlink per l'indirizzo e che ci sia il cielo aperto per l'antenna. Se hai entrambe, confronta stabilità e costo al tuo indirizzo.",
-        "Starlink va bene per i giochi? Prova latenza e interruzioni al tuo indirizzo. L'intervallo tipico che Starlink pubblica è un riferimento generale.",
-        "Quanto costa Starlink al mese? Nell'ordine letto a Milano, il Residenziale 100 Mbps costava 17,50 € e il Max 32,50 €, con l'offerta in corso. Il valore cambia con l'indirizzo."
+        "Starlink conviene in città? Dipende da quanto è davvero buona la tua fibra attuale. Se costa poco ed è stabile, di solito vince sul prezzo. Se cade spesso o dà molto meno del contratto, Starlink può convenire come alternativa o backup, purché ci sia il cielo aperto. È stato il nostro caso.",
+        "Starlink è meglio della fibra? Per velocità massima e latenza, una fibra sana di solito è in vantaggio. Per la continuità contro i guasti locali e i cavi tranciati in strada, Starlink aiuta perché è una via indipendente dall’operatore locale.",
+        "Starlink va bene per i giochi? Prova latenza e interruzioni al tuo indirizzo. L’intervallo tipico che Starlink pubblica è un riferimento generale.",
+        "Starlink è illimitata? Starlink dichiara dati illimitati nei piani residenziali. Controlla nell’ordine i limiti di velocità del piano mostrato.",
+        "Quanto costa Starlink al mese? Nell’ordine letto a Milano, con l’offerta, il Residenziale 100 Mbps costava 17,50 €, il 200 Mbps 22,50 € e il Max 32,50 € nei primi 3 mesi; poi 35 €, 45 € e 65 €. Il valore cambia con l’indirizzo.",
+        "Posso usare Starlink come backup della fibra? Sì. Con un router Dual-WAN con failover, Starlink subentra quando la fibra cade; senza, puoi cambiare rete a mano. Controlla con il supporto Starlink cosa richiede il tuo modello per la modalità bypass."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "non hai una buona fibra all'indirizzo e anche il 4G è debole.",
-      "ti va bene un kit a noleggio da restituire se annulli e sai che i prezzi cambiano con l'indirizzo."
+      "non hai una buona fibra all’indirizzo e anche il 4G è debole.",
+      "anche dove c’è una fibra economica, la tua rete locale cade spesso o dà molto meno della velocità contrattata, e ti serve un’alternativa affidabile o una connessione di backup.",
+      "hai controllato la vista sul cielo nell’app di Starlink e ti va bene un kit a noleggio da restituire se annulli."
     ],
     "skipIf": [
-      "hai già una fibra stabile in casa e non ti serve un kit da installare e poi restituire.",
-      "giochi online e ti serve un tempo di risposta garantito, che Starlink non garantisce per il tuo indirizzo."
+      "hai già una fibra davvero stabile, alla velocità contrattata e senza cadute frequenti che richiedano ridondanza.",
+      "giochi online in modo competitivo e ti serve una latenza minima garantita: Starlink pubblica un intervallo tipico, ma non promette un numero per il tuo indirizzo."
     ]
   },
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Inserisci il tuo indirizzo sul sito di Starlink e controlla piano, kit e canone prima di pagare.",
-    "label": "Vedi i piani al mio indirizzo",
+    "text": "Paghi lo stesso prezzo del sito ufficiale, mantieni i 30 giorni per restituire il kit se sul tuo tetto non funziona e ricevi 45 € di credito in Italia dopo due mesi di abbonamento, a regole rispettate.",
+    "label": "Vedi il mio indirizzo su starlink.com con l’invito",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Prezzi letti nella pagina d'ordine del sito ufficiale, senza completare l'acquisto. Non abbiamo ancora usato il servizio. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
+  "editorialNote": "Abbiamo attivato Starlink come alternativa e connessione di backup alla nostra fibra instabile. I prezzi e le condizioni dell’hardware di questa guida sono stati letti nelle pagine d’ordine pubbliche del sito ufficiale. Partecipiamo al programma di invito di Starlink e possiamo ricevere una ricompensa se ti abboni tramite il nostro link e rispetti le regole.",
   "relatedArticles": [
     {
       "slug": "starlink-contratto-disdetta"

@@ -6554,6 +6554,11 @@ const STORE_COUPONS: Coupon[] = [
           'Tem. Pela página da Starlink lida em 19/11/2026, são 30 dias de teste: se não ficar satisfeito, a Starlink devolve o valor integral.',
       },
       {
+        question: 'A Starlink tem fidelidade de 12 meses?',
+        answer:
+          'Depende do pedido. No pedido que lemos em 23/11/2026, o Residencial 100 Mbps com o Mini X comprado não trazia contrato de 12 meses; o Residencial Max com o kit subsidiado exige 12 meses, com taxa de rescisão antecipada para quem cancelar antes. O resumo do pedido mostra a regra antes de pagar, e nos dois casos há 30 dias para devolver o kit e receber o valor integral.',
+      },
+      {
         question: 'Preciso copiar algum código para receber os R$ 200?',
         answer:
           'Não. Basta fazer o pedido em starlink.com pelo botão desta página: o link já leva a indicação, e o valor aparece depois na aba Indicações da sua conta Starlink.',

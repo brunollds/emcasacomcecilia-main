@@ -31,7 +31,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Starlink est le service d'internet par satellite de SpaceX, et son site officiel est starlink.com. Sur Trustpilot, le profil qui renvoie vers starlink.com s'appelle « Starlink Development ». Si vous achetez le kit ailleurs, consultez la liste des revendeurs autorisés de Starlink et vérifiez qui est le vendeur de l'annonce avant de payer."
+        "Oui, Starlink est fiable : c'est le service officiel d'internet par satellite de SpaceX, et il se vend directement sur starlink.com. Nous avons nous-mêmes souscrit Starlink comme alternative à une fibre locale instable. La vigilance porte sur les sites copiés et les vendeurs tiers non agréés : sur Trustpilot, le profil lié à starlink.com s'appelle « Starlink Development » et, si vous achetez le kit ailleurs, vérifiez le vendeur dans la liste officielle des revendeurs autorisés avant de payer."
       ]
     },
     {
@@ -52,7 +52,22 @@
       "heading": "Comment reconnaître le site officiel",
       "paragraphs": [
         "Tapez starlink.com dans le navigateur. Avant de saisir des données ou de payer, vérifiez que vous êtes toujours sur starlink.com.",
-        "Contrôlez dans la commande, pour votre propre adresse, le forfait, le kit (location ou achat), les taxes et la durée d'engagement. Si l'on vous demande de payer par message ou en dehors de la commande, confirmez auprès du support Starlink avant de continuer."
+        "Contrôlez dans la commande, pour votre propre adresse, le forfait, le kit (location ou achat), les taxes et la durée d'engagement. Si l'on vous demande de payer par message ou en dehors de la commande, confirmez auprès du support Starlink avant de continuer.",
+        "Une façon simple de ne pas se tromper d'adresse est d'ouvrir la commande par un lien de parrainage : il mène directement à la commande sur starlink.com, et vous vérifiez quand même la barre d'adresse avant de saisir vos données. Le prix est le même que sur le site officiel, et le parrainage ne compte que si la commande démarre depuis un lien de parrainage, avant le paiement."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-fr-planos-paris.webp",
+        "alt": "Écran officiel des forfaits résidentiels sur starlink.com pour Paris",
+        "caption": "Écran des forfaits sur starlink.com pour une adresse à Paris, consulté le 23 novembre 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.5909
+      },
+      "links": [
+        {
+          "label": "Ouvrir la commande officielle sur starlink.com avec le parrainage",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -78,7 +93,14 @@
           "label": "Liste des revendeurs autorisés par Starlink",
           "href": "https://starlink.com/fr/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
         }
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Pièces d'un kit Starlink sur fond sombre : socle, support et câbles",
+        "caption": "Pièces d'un kit Starlink. Photo : Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Ce que montre Trustpilot",
@@ -86,6 +108,29 @@
         "Sur Trustpilot, le profil de starlink.com affiche un TrustScore de 1,6 sur 5 pour 879 avis : 71 % sont à 1 étoile et 17 % à 5 étoiles. Le profil n'est pas revendiqué, donc Starlink ne le gère pas, et l'entreprise a répondu à 0 % des avis.",
         "Nous avons lu les 40 avis à 1 étoile et les 40 avis à 5 étoiles les plus récents. Parmi les 1 étoile, les plaintes les plus fréquentes concernent un support réduit à un robot ou à un chat (environ 1 sur 3), des coupures et un débit trop faible (environ 1 sur 3), une mensualité qui a augmenté après la souscription (environ 1 sur 4), la facturation et les résiliations difficiles (environ 1 sur 4), des installateurs de sociétés partenaires en retard ou absents (environ 1 sur 4) et un kit en retard ou jamais reçu (environ 1 sur 5). Les 5 étoiles louent la vitesse et la stabilité (environ la moitié), l'installation facile (environ 1 sur 3) et l'absence d'autre bonne option internet (environ 1 sur 4). Ces chiffres sont les nôtres et approximatifs.",
         "Lisez la note avec prudence : un profil non revendiqué n'envoie aucune invitation après l'achat, et ceux qui l'ouvrent viennent souvent se plaindre. Les éloges parlent du signal ; les plaintes parlent du support, du prix et de la facturation, et peu d'avis à 1 étoile disent que le signal est mauvais en permanence. Le résumé automatique de Trustpilot, fondé sur 355 avis récents, va dans le même sens. Notre [lecture complète du profil Trustpilot](/fr/reviews/starlink-trustpilot-avis) donne les chiffres."
+      ]
+    },
+    {
+      "heading": "Liste de contrôle avant de payer",
+      "paragraphs": [
+        "Cinq vérifications rapides valent pour toute adresse et prennent quelques minutes."
+      ],
+      "checklist": {
+        "title": "Avant de valider la commande",
+        "items": [
+          "J'ai ouvert la commande par le lien de parrainage, dans la même fenêtre du navigateur, pour que le parrainage compte.",
+          "J'ai vérifié que la barre d'adresse reste sur starlink.com avant de saisir la moindre donnée.",
+          "J'ai lancé le test d'obstructions de l'appli Starlink à l'endroit prévu pour l'antenne, pour confirmer un ciel dégagé.",
+          "J'ai lu dans le récapitulatif de la commande le forfait, le kit, le total et la durée d'engagement.",
+          "J'ai enregistré une capture du récapitulatif avec le tarif mensuel et la règle des 30 jours avant de payer."
+        ]
+      },
+      "links": [
+        {
+          "label": "Vérifier la disponibilité à mon adresse sur starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -103,7 +148,7 @@
       "heading": "Questions fréquentes",
       "bullets": [
         "Starlink a-t-il un code promo ? Non. Starlink n'a pas de code promo : avec le lien de parrainage de Cecília, le nouvel abonné reçoit 45 € en France après deux mois d'abonnement, en crédit sur la facture, et le parrain reçoit le même montant.",
-        "Starlink est-il fiable ? Starlink est le service d'internet par satellite de SpaceX. Vérifiez que vous êtes sur starlink.com et utilisez la liste des revendeurs autorisés si vous achetez ailleurs.",
+        "Starlink est-il fiable ? Oui, Starlink est le service officiel d'internet par satellite de SpaceX. Pour acheter en sécurité, vérifiez que vous êtes sur starlink.com ou contrôlez le vendeur sur la liste officielle des revendeurs autorisés avant de payer.",
         "Quel est le site officiel de Starlink ? Le site officiel est starlink.com.",
         "Comment confirmer qu'un vendeur est autorisé ? Consultez la liste des revendeurs de Starlink et vérifiez qui est le vendeur de l'annonce avant de payer.",
         "Faut-il acheter sur le site officiel ou chez un revendeur ? Sur starlink.com, la commande affiche forfait, kit, taxes et engagement pour votre adresse avant le paiement, et le parrainage n'y vaut que là. Un revendeur de la liste officielle est un vendeur légitime, mais le parrainage ne s'applique pas."
@@ -113,7 +158,7 @@
   "pros": [],
   "cons": [],
   "affiliate": "starlink",
-  "editorialNote": "Rédigé à partir du site officiel, du centre d'aide et du profil public Trustpilot. Nous participons au programme de parrainage de Starlink et pouvons recevoir une récompense si vous vous abonnez via notre lien et respectez les règles.",
+  "editorialNote": "Rédigé à partir du site officiel, du centre d'aide et du profil public Trustpilot. Nous avons souscrit Starlink comme alternative et secours face à une fibre locale instable. Nous participons au programme de parrainage Starlink et pouvons recevoir une récompense si vous souscrivez via notre lien et respectez les règles.",
   "relatedArticles": [
     {
       "slug": "starlink-trustpilot-avis"
@@ -136,8 +181,8 @@
     ]
   },
   "cta": {
-    "text": "Saisissez votre adresse sur le site de Starlink et vérifiez forfait, kit et mensualité avant de payer.",
-    "label": "Voir les forfaits à votre adresse",
+    "text": "Ouvrez la commande par le lien de parrainage, vérifiez que la barre reste sur starlink.com et consultez forfait, kit et total pour votre adresse avant de payer. Le prix est celui du site officiel.",
+    "label": "Voir mon adresse sur starlink.com",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

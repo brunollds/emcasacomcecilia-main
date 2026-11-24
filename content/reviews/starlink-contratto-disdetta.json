@@ -3,7 +3,7 @@
   "slug": "starlink-contratto-disdetta",
   "translationKey": "starlink-fidelidade",
   "locale": "it",
-  "title": "Starlink ha un contratto? Kit a noleggio, 30 giorni per restituire e come annullare",
+  "title": "Starlink ha un contratto? Nessun vincolo, kit a noleggio da restituire e 30 giorni per il rimborso",
   "seoTitle": "Starlink ha un contratto? Disdetta e rimborso",
   "type": "Guida pratica",
   "category": "guias-praticos-utilidade",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Vedi cosa prevede l'ordine italiano: nessun contratto, kit a noleggio da restituire, 30 giorni di prova con rimborso e i passaggi per annullare l'abbonamento dall'account.",
-  "metaDescription": "Starlink in Italia: nessun contratto, kit a noleggio da restituire e 30 giorni per il rimborso. Scopri come annullare l'abbonamento dal tuo account.",
+  "description": "A Milano l'ordine dice nessun contratto, con kit a noleggio a 0 € da restituire se annulli. Vedi i tre piani, i 30 giorni di prova e come annullare dall'account.",
+  "metaDescription": "Starlink in Italia: nessun contratto, kit a noleggio a 0 € da restituire e 30 giorni per il rimborso. Scopri come annullare l'abbonamento dall'account.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,20 +31,83 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "L'ordine consultato a Milano riportava «Nessun contratto». Il kit a noleggio va restituito se disdici il servizio. L'ordine descrive una prova di 30 giorni con rimborso del kit e del primo mese, se annulli e restituisci l'attrezzatura senza danni entro il termine previsto."
+        "L'ordine consultato a Milano riportava «Nessun contratto, prova di 30 giorni». Il kit è a noleggio, con 0 € iniziali e 0 € al mese, e va restituito se annulli il servizio. L'ordine descrive il rimborso del kit e del primo mese se annulli e restituisci l'attrezzatura senza danni entro 30 giorni. Gli sconti del 50 % sui primi 3 mesi valgono fino a fine novembre, e dopo i 3 mesi si paga il prezzo pieno."
       ]
     },
     {
-      "heading": "Quando c'è un vincolo",
+      "heading": "Milano: tre piani, un solo modello di noleggio",
       "paragraphs": [
-        "Nell'ordine per un indirizzo di Milano, letto il 20 novembre 2026, non compariva nessun vincolo contrattuale. L'ordine diceva «Nessun contratto». Il kit risultava a noleggio, con 0 € iniziali e 0 € al mese.",
-        "Le condizioni possono cambiare con il paese e con l'offerta. Controlla il riepilogo del tuo ordine prima di confermare e non dare per scontato che valga lo stesso per ogni indirizzo."
+        "Nella pagina d'ordine letta il 23 novembre 2026 per un indirizzo di Piazza del Duomo, a Milano, tutti e tre i piani residenziali usano l'hardware a noleggio, a 0 € al mese. Il piano da 100 Mbps costava 17,50 € al mese per 3 mesi (35 € dopo) con il Mini X; quello da 200 Mbps, 22,50 € (45 € dopo) con uno Standard 4; il Max, 32,50 € (65 € dopo), anche con uno Standard 4.",
+        "Il riepilogo dell'ordine mostrava 35 € al mese meno 17,50 € di sconto sul servizio per 3 mesi, il kit a noleggio Mini X a 0 € e 19 € da pagare oggi per la spedizione. L'installazione professionale è facoltativa: 172 € sul 100 e sul 200 Mbps, 0 € sul Max. La pagina mostra anche «Nessun contratto»; non abbiamo trovato né una durata minima né una penale."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+          "alt": "Pagina dei piani Starlink a Milano con Nessun contratto, prova di 30 giorni, il 100 Mbps a 17,50 € al mese e il kit a noleggio a 0 €",
+          "caption": "Milano, consultato il 23/11/2026: 100 Mbps a 17,50 € al mese e kit a noleggio a 0 €.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.6065
+        },
+        {
+          "src": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+          "alt": "Riepilogo dell'ordine Starlink a Milano con 35 € meno 17,50 € per 3 mesi, il Mini X a noleggio a 0 € e 19 € da pagare oggi",
+          "caption": "Riepilogo a Milano, consultato il 23/11/2026: 35 € meno 17,50 € per 3 mesi, Mini X a 0 € e 19 € oggi.",
+          "objectFit": "portrait",
+          "aspectRatio": 0.6709
+        }
+      ],
+      "links": [
+        {
+          "label": "Controlla piani e contratto al mio indirizzo",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
+    },
+    {
+      "heading": "I tre piani di Milano in una tabella",
+      "paragraphs": [
+        "La tabella riprende ciò che mostrava l'ordine per questo indirizzo. Il tuo indirizzo può mostrare altro."
+      ],
+      "comparisonTable": {
+        "caption": "Valori letti nell'ordine; lo sconto del 50 % sui primi 3 mesi valeva fino a fine novembre.",
+        "headers": [
+          "Piano",
+          "Primi 3 mesi",
+          "Poi",
+          "Kit a noleggio",
+          "Installazione"
+        ],
+        "rows": [
+          [
+            "100 Mbps",
+            "17,50 €",
+            "35 €",
+            "Mini X a 0 €",
+            "172 €, facoltativa"
+          ],
+          [
+            "200 Mbps",
+            "22,50 €",
+            "45 €",
+            "Standard 4 a 0 €",
+            "172 €, facoltativa"
+          ],
+          [
+            "Max",
+            "32,50 €",
+            "65 €",
+            "Standard 4 a 0 €",
+            "0 €"
+          ]
+        ]
+      }
     },
     {
       "heading": "La restituzione del kit",
       "paragraphs": [
-        "L'ordine dice che il kit è a noleggio e che, se annulli il servizio, devi restituirlo. Fai attenzione alla tempistica e conserva la ricevuta di spedizione.",
+        "L'ordine dice che il kit è a noleggio e che, se annulli il servizio, devi restituirlo. Oltre ai 30 giorni di Starlink vale il diritto di recesso previsto dalla legge per i contratti a distanza, di cui trovi il termine nelle condizioni dell'ordine. Fai attenzione alla tempistica e conserva la ricevuta di spedizione.",
+        "In altri paesi, come il Brasile o il Messico, il kit si compra, e un kit con sconto può essere legato a 12 mesi con una penale di uscita. Per questo conta solo il riepilogo del tuo ordine.",
         "Il link dell'[invito Starlink](/it/coupons/starlink) porta allo stesso ordine sul sito ufficiale. Le condizioni di restituzione si controllano lì, prima di pagare."
       ],
       "image": {
@@ -61,7 +124,14 @@
         "L'ordine indica un termine di 30 giorni. Per chiedere il rimborso del kit e del primo mese nelle condizioni dell'offerta, annulla il servizio e restituisci l'apparecchio senza danni entro quel termine.",
         "Annullare l'abbonamento ferma gli addebiti futuri secondo il ciclo, ma il kit va restituito a parte. Chiedi all'assistenza di Starlink come avviare anche il reso."
       ],
-      "emphasis": "Secondo le condizioni dell'ordine, annullare e restituire il kit senza danni entro 30 giorni è ciò che dà diritto al rimborso del kit e del primo mese, e la ricevuta di spedizione è la prova che conta."
+      "emphasis": "Secondo le condizioni dell'ordine, annullare e restituire il kit senza danni entro 30 giorni è ciò che dà diritto al rimborso del kit e del primo mese, e la ricevuta di spedizione è la prova che conta.",
+      "links": [
+        {
+          "label": "Vedi i piani con 30 giorni di rimborso su starlink.com",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Come annullare",
@@ -84,8 +154,24 @@
     {
       "heading": "Prezzo promozionale e cambio di piano",
       "paragraphs": [
-        "Cosa succede al prezzo promozionale se cambi piano, annulli o vieni sospeso è scritto nelle condizioni del tuo ordine. Leggile prima di cambiare piano."
+        "Gli sconti letti erano del 50 % sul servizio per 3 mesi, fino a fine novembre. Cosa succede al prezzo promozionale se cambi piano, annulli o vieni sospeso è scritto nelle condizioni del tuo ordine, e le pagine pubbliche italiane non lo spiegano: leggile prima di cambiare piano, o chiedilo a Starlink."
       ]
+    },
+    {
+      "heading": "Prima di pagare: controlla il tuo ordine",
+      "paragraphs": [
+        "L'invito conta solo se l'ordine parte da un link di invito, aperto prima del pagamento e su starlink.com. Dopo il pagamento, o su un marketplace, non si può aggiungere. Aprire il link non ti impegna a niente: il tuo indirizzo mostra quale modello vale per te, e i 30 giorni coprono la prova. Il credito arriva in fattura dopo due mesi di abbonamento e non abbassa il prezzo del kit."
+      ],
+      "checklist": {
+        "title": "Prima di pagare",
+        "items": [
+          "Ho aperto l'ordine dal link di invito, nella stessa finestra, prima di pagare.",
+          "Ho controllato che la barra del browser resti su starlink.com prima di digitare qualsiasi dato.",
+          "Ho fatto il test degli ostacoli nell'app di Starlink nel punto in cui andrà l'antenna.",
+          "Ho letto nel riepilogo la riga dell'hardware, il prezzo mensile e ogni accenno a una durata minima.",
+          "Ho salvato uno screenshot del riepilogo con il prezzo mensile e la regola dei 30 giorni prima di pagare."
+        ]
+      }
     },
     {
       "heading": "Se l'addebito continua",
@@ -97,9 +183,10 @@
       "heading": "Domande frequenti",
       "bullets": [
         "Starlink ha un codice sconto? No. Starlink non ha un coupon: con il link di invito di Cecília, chi si abbona riceve 45 € in Italia dopo due mesi di abbonamento, come credito in fattura, e chi ha invitato riceve lo stesso importo.",
-        "Starlink ha un contratto? Nell'ordine italiano che abbiamo letto compariva «Nessun contratto», con il kit a noleggio e una prova di 30 giorni.",
+        "Starlink ha un contratto? Nell'ordine italiano che abbiamo letto compariva «Nessun contratto», con il kit a noleggio e una prova di 30 giorni. In altri paesi un kit con sconto può richiedere 12 mesi. Controlla il riepilogo del tuo ordine.",
         "Si può annullare Starlink in qualsiasi momento? La richiesta si fa dall'account. Il servizio resta attivo fino alla fine del periodo pagato.",
         "Devo restituire il kit? Il kit è a noleggio e, se annulli il servizio, va restituito.",
+        "Cosa succede dopo i primi 3 mesi di sconto? Il prezzo mensile sale a quello pieno: 35 € sul piano da 100 Mbps, 45 € sul 200 Mbps e 65 € sul Max.",
         "Si può restituire Starlink entro 30 giorni? Sì, secondo l'ordine: se annulli e restituisci il kit senza danni entro 30 giorni, il kit e il primo mese vengono rimborsati.",
         "Cosa succede dopo l'annullamento? Il servizio resta attivo fino alla data già pagata. Se cambi idea prima, cerca «Riprendi» nella pagina iniziale."
       ]
@@ -122,7 +209,7 @@
   ],
   "decision": {
     "takeIf": [
-      "puoi restituire il kit a noleggio senza danni entro 30 giorni se annulli.",
+      "puoi restituire il kit a noleggio senza danni entro 30 giorni se annulli, e vuoi evitare un vincolo.",
       "leggerai le condizioni nel riepilogo del tuo ordine prima di pagare."
     ],
     "skipIf": [
@@ -131,8 +218,8 @@
     ]
   },
   "cta": {
-    "text": "L'ordine si apre sul sito di Starlink. Controlla vincolo, costi e restituzione del kit prima di pagare.",
-    "label": "Controlla le condizioni al mio indirizzo",
+    "text": "L'ordine si apre su starlink.com con il link di invito, che deve venire prima del pagamento. Paghi lo stesso prezzo del sito, vedi il contratto del tuo indirizzo e tieni i 30 giorni per restituire il kit. Il credito arriva dopo due mesi di abbonamento.",
+    "label": "Controlla contratto e piano al mio indirizzo",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

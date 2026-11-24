@@ -3,8 +3,8 @@
   "slug": "starlink-indicacao-como-usar",
   "translationKey": "starlink-indicacao",
   "locale": "pt",
-  "title": "Link de indicação da Starlink: como usar e quando cai a recompensa",
-  "seoTitle": "Indicação Starlink: como usar o link e receber",
+  "title": "Como ganhar R$ 200 comprando sua primeira Starlink pelo link de indicação (45 € em Portugal)",
+  "seoTitle": "Como ganhar R$ 200 na primeira Starlink (indicação)",
   "type": "Guia do Código de Indicação",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Abra o link no site oficial e confira a recompensa no pedido antes de pagar. Veja quem pode usar, quando o valor cai e como escolher entre crédito e dinheiro.",
-  "metaDescription": "Veja como abrir o link de indicação da Starlink, achar o valor no pedido e receber a recompensa depois de cumprir as condições do programa.",
+  "description": "A Starlink não tem cupom: peça sua primeira antena pelo link oficial de indicação, pague o mesmo preço do site e receba R$ 200 no Brasil ou 45 € em Portugal.",
+  "metaDescription": "Como ganhar 200 reais na primeira Starlink pelo link oficial de indicação (45 € em Portugal), quanto abate na conta e como confirmar antes de pagar.",
   "publishedAt": "19 de novembro de 2026",
   "publishedAtISO": "2026-11-19",
   "updatedAt": "2026-11-23",
@@ -30,29 +30,169 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Abra o link de indicação da Starlink e informe seu endereço. Antes de pagar, procure a confirmação do código aplicado e confira o valor da recompensa no pedido. O programa vale para clientes novos. A recompensa é liberada após dois ciclos mensais completos, em crédito ou em dinheiro onde essa opção estiver disponível."
+        "A Starlink não tem cupom: o que existe, além das promoções do site, é o link de indicação. Pedindo por ele antes de comprar sua primeira antena, você recebe 200 reais no Brasil (45 € em Portugal), paga o mesmo preço do site e mantém os 30 dias para devolver. Abra o link, informe seu endereço em starlink.com, confira o aviso de indicação aplicada antes de pagar e mantenha os dois primeiros ciclos mensais em dia: o valor entra como crédito na fatura, e quem indicou recebe o mesmo. Fechou o pedido sem o link? A Starlink não deixa incluir a indicação depois."
       ]
     },
     {
-      "heading": "Como usar o link, passo a passo",
+      "heading": "Por que vale pedir pelo link (e quanto os R$ 200 abatem de verdade)",
+      "paragraphs": [
+        "Quem assina pela página comum do site paga o mesmo valor pelo equipamento e pela mensalidade, mas deixa R$ 200 na mesa. Pelo link de indicação, você não paga nada a mais no pedido e ganha um crédito maior que uma mensalidade cheia no Brasil, ou quase dois meses do plano de 100 Mbps em Portugal.",
+        "O crédito não baixa o preço do kit no dia: ele entra na fatura depois dos dois primeiros ciclos mensais. Os números abaixo vêm de endereços de referência. No seu endereço, preço, kit e contrato podem ser outros, e só o pedido mostra."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-br-planos-100mbps-alto-paraiso.webp",
+        "alt": "Página de pedido da Starlink para Alto Paraíso de Goiás com a aba Residencial 100 Mbps: R$ 132,30 por mês e Mini X por R$ 299",
+        "caption": "Alto Paraíso de Goiás (GO): aba 100 Mbps do pedido, com a mensalidade e o Mini X do endereço.",
+        "objectFit": "square",
+        "aspectRatio": 0.9653
+      },
+      "comparisonTable": {
+        "caption": "Consulta ao site oficial em 23 de novembro de 2026, sem completar a compra. O crédito não dá desconto na hora de pagar o kit: entra depois de dois ciclos mensais completos.",
+        "headers": [
+          "Cenário lido em starlink.com",
+          "Sem link de indicação",
+          "Com o link da Cecília",
+          "O que o crédito cobre"
+        ],
+        "rows": [
+          [
+            "Brasil, Residencial 100 Mbps (Alto Paraíso de Goiás, GO)",
+            "Mini X a R$ 299 + R$ 132,30/mês",
+            "Mesmo pedido + R$ 200 de crédito após 2 ciclos pagos",
+            "Uma mensalidade e meia do plano promocional"
+          ],
+          [
+            "Brasil, Residencial Max, contrato de 12 meses (Alto Paraíso de Goiás, GO)",
+            "Kit de R$ 49 + 1ª mensalidade de R$ 174,30 (R$ 223,30)",
+            "Mesmo pedido + R$ 200 de crédito na fatura",
+            "Depois de dois meses, R$ 200 voltam como crédito na fatura; o pedido não muda"
+          ],
+          [
+            "Brasil, área em pré-venda (Av. Paulista, SP)",
+            "Depósito de R$ 275 + mensalidade cheia de R$ 189",
+            "Confira se o aviso de indicação aparece no pedido de pré-venda",
+            "R$ 200 passam de uma mensalidade cheia"
+          ],
+          [
+            "Portugal, Residencial 100 Mbps (Lisboa)",
+            "Aluguer de 0 € + 24,50 €/mês (envio de 20 € hoje)",
+            "Mesmo pedido + 45 € de crédito após 2 ciclos pagos",
+            "Quase 2 mensalidades do plano 100 Mbps"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Abrir meu pedido com R$ 200 de bônus (45 € em Portugal)",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "simulator": {
+        "title": "Simule o seu cenário",
+        "scenarios": [
+          {
+            "label": "100 Mbps sem fidelidade + link",
+            "lines": [
+              {
+                "label": "Kit Mini X no pedido (Alto Paraíso, GO)",
+                "value": "R$ 299, sem contrato de 12 meses"
+              },
+              {
+                "label": "Mensalidade promocional (30% de desconto)",
+                "value": "R$ 132,30/mês"
+              },
+              {
+                "label": "Crédito pelo link após 2 ciclos pagos",
+                "value": "-R$ 200 na fatura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "O que você paga no pedido",
+            "totalValue": "R$ 299; depois de dois meses, R$ 200 voltam como crédito na fatura",
+            "note": "Você paga o mesmo valor do site oficial e mantém 30 dias para devolver."
+          },
+          {
+            "label": "Max (kit de R$ 49) + link",
+            "lines": [
+              {
+                "label": "Kit Mini X + instalação profissional",
+                "value": "R$ 49, contrato de 12 meses"
+              },
+              {
+                "label": "1ª mensalidade promocional",
+                "value": "R$ 174,30"
+              },
+              {
+                "label": "Crédito pelo link após 2 ciclos pagos",
+                "value": "-R$ 200 na fatura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "O que você paga no pedido",
+            "totalValue": "R$ 49 + 1ª mensalidade de R$ 174,30; depois de dois meses, R$ 200 voltam como crédito na fatura",
+            "note": "O Max exige 12 meses: a saída antecipada tem multa de até R$ 1.099."
+          },
+          {
+            "label": "Pedido sem o link de indicação",
+            "lines": [
+              {
+                "label": "Preço do kit e da mensalidade",
+                "value": "O mesmo do pedido pelo link"
+              },
+              {
+                "label": "Crédito de indicação",
+                "value": "R$ 0, não dá para incluir depois"
+              },
+              {
+                "label": "Valor que fica na mesa",
+                "value": "R$ 200",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Crédito oficial recebido",
+            "totalValue": "R$ 0",
+            "note": "A indicação precisa constar no pedido original, antes do pagamento."
+          }
+        ]
+      }
+    },
+    {
+      "heading": "Como ativar os R$ 200, passo a passo",
       "paragraphs": [
         "Abra o link na [página da indicação Starlink](/cupons/starlink) e informe o endereço em que vai usar o serviço."
       ],
       "postParagraphs": [
         "Confira o aviso antes de pagar. A Starlink informa que a indicação precisa constar no pedido original."
       ],
+      "bullets": [
+        "Abra o link de indicação antes de iniciar o pedido em starlink.com. Não há código para digitar depois, e compra no Mercado Livre, na Amazon, na Magalu ou em revendedor fica fora do programa.",
+        "Informe o endereço onde a antena será instalada e escolha um plano elegível, Residencial ou Viagem.",
+        "Procure o aviso “O código de indicação foi aplicado” e confira o total do dia antes de concluir o pagamento. Na tela do Max que consultamos, o valor a pagar no pedido era só o do kit.",
+        "Ative o kit e pague as duas primeiras mensalidades em dia para liberar os R$ 200 (45 € em Portugal)."
+      ],
       "image": {
         "src": "/images/reviews/starlink/starlink-pedido-indicacao-aplicada.webp",
         "alt": "Tela do pedido no site oficial da Starlink com a indicação aplicada, os 30% de desconto e o total a pagar no dia",
         "caption": "Pedido no site oficial com o link de indicação aplicado (endereço escondido).",
         "objectFit": "contain"
-      },
-      "bullets": [
-        "Escolha um plano Residencial ou Viagem elegível no pedido.",
-        "Procure o aviso “O código de indicação foi aplicado” e confira a recompensa e o total a pagar.",
-        "Finalize no site da Starlink. Na tela do Max que consultamos, o valor a pagar no pedido era só o do kit.",
-        "Ative o kit e acompanhe a primeira fatura. Pagar o primeiro mês e ativar o equipamento fazem parte dos requisitos da indicação."
-      ]
+      }
+    },
+    {
+      "heading": "Checklist antes de pagar",
+      "paragraphs": [
+        "Marque cada item na tela antes de pagar. Leva dois minutos e decide se o crédito vai constar no seu pedido."
+      ],
+      "checklist": {
+        "title": "Antes de fechar o pedido",
+        "items": [
+          "Abri o pedido pelo link de indicação da Cecília nesta mesma janela para não perder o crédito.",
+          "Conferi que a barra do navegador continua em starlink.com antes de digitar qualquer dado.",
+          "Rodei o teste de obstruções do app da Starlink no ponto previsto para confirmar céu aberto.",
+          "Vi no resumo do pedido o aviso da indicação aplicada, o preço do kit e se há contrato de 12 meses.",
+          "Salvei um print do resumo com o valor mensal e a regra dos 30 dias antes de pagar."
+        ]
+      }
     },
     {
       "heading": "Quanto rende e quando cai",
@@ -60,10 +200,32 @@
         "Na tela brasileira com a nossa indicação, a Starlink mostrou R$ 200 de recompensa para quem assina. Quem indica também recebe o mesmo valor, em dinheiro ou em crédito de serviço.",
         "Quem mora em Portugal também pode usar o link: no pedido português com a nossa indicação, a Starlink mostrou 45 € para quem assina, em dinheiro ou como crédito de serviço. Em Moçambique, a Starlink vende pelo site, e o valor aparece no pedido. Em Angola, ela ainda não vende o serviço.",
         "A assinatura precisa ficar ativa e em dia por dois ciclos mensais completos. A central de ajuda diz que a emissão pode começar a partir de 60 dias da ativação, conforme o país, a conta e a verificação de identidade.",
-        "A forma padrão é crédito na fatura. Se a conta oferecer pagamento em dinheiro, abra Indicações no site pelo navegador, escolha o método de recompensa e conclua a identificação e o cadastro bancário na Stripe."
+        "A forma padrão é crédito na fatura. Se a conta oferecer pagamento em dinheiro, abra Indicações no site pelo navegador, escolha o método de recompensa e conclua a identificação e o cadastro bancário na Stripe. O crédito entra na fatura e não reduz o preço do kit no pedido."
       ],
       "emphasis": "A recompensa só sai depois de dois ciclos mensais completos de assinatura em dia, em crédito na fatura por padrão, e vale o mesmo valor para quem assina e para quem indicou; o valor do seu país aparece no pedido.",
       "emphasisAfterParagraph": 4
+    },
+    {
+      "heading": "Pedir pelo link compromete algo? O teste de 30 dias",
+      "paragraphs": [
+        "Abrir o link não obriga a nada. Preço do plano, kit, disponibilidade (entrega ou pré-venda) e a existência de contrato de 12 meses só aparecem depois que você digita o endereço em starlink.com.",
+        "Depois do pagamento, a Starlink dá 30 dias para devolver, e nas telas do Max que consultamos isso vem escrito no bloco do equipamento. Se a antena não funcionar no seu telhado, cancele e devolva o kit dentro do prazo, conforme os termos da página. No Max com kit de R$ 49, confira a multa por saída antecipada depois desses 30 dias.",
+        "É por isso que o link vem antes do teste: a indicação só conta no pedido original. Quem testa sem ele paga o mesmo no primeiro dia e perde os R$ 200 se decidir ficar com a antena."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "Peças de um kit Starlink sobre fundo escuro: base, suporte e cabos",
+        "caption": "Peças de um kit Starlink. Foto da Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      },
+      "links": [
+        {
+          "label": "Garantir o bônus antes de fechar o pedido",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Quem pode usar",
@@ -81,16 +243,37 @@
       ]
     },
     {
-      "heading": "E a oferta da Black Friday?",
+      "heading": "Os 4 erros que fazem perder o crédito mesmo clicando no link",
       "paragraphs": [
-        "Na tela do Residencial Max que consultamos, a indicação apareceu junto dos 30% na mensalidade. Veja a [conta da Black Friday Starlink](/reviews/black-friday-starlink) e consulte a oferta do seu endereço.",
-        "Em Portugal, o pedido com a nossa indicação também trazia os 30% de desconto nos planos de serviço, com prazo para o registo. No Residencial 100 Mbps, o kit saía com custo inicial de 0 €, em aluguel: quem cancela devolve o equipamento."
+        "A maior parte dos créditos perdidos vem de um destes quatro deslizes."
+      ],
+      "bullets": [
+        "Comprar o kit em revendedor ou marketplace. O programa registra só os pedidos feitos em starlink.com pelo link.",
+        "Pagar sem conferir o aviso. A indicação precisa constar no pedido original e não dá para incluí-la depois: sem o aviso na tela, abra o link de novo antes de pagar. Se trocar de aparelho ou de navegador no meio do pedido, abra o link outra vez e confira o aviso de novo.",
+        "Usar o link já sendo ou tendo sido cliente. O crédito é só para quem assina a Starlink pela primeira vez.",
+        "Cancelar cedo demais. O crédito pede assinatura ativa e em dia por dois ciclos mensais completos, e a emissão pode começar a partir de 60 dias da ativação."
       ]
     },
     {
-      "heading": "Como acompanhar",
+      "heading": "E a oferta da Black Friday?",
       "paragraphs": [
-        "Na aba Indicações do site ou do aplicativo, acompanhe o status de quem assinou pelo seu link. A Starlink avisa por e-mail quando alguém faz o pedido. Uma indicação pode passar pela verificação de elegibilidade antes de gerar recompensa."
+        "Na tela do Residencial Max que consultamos, a indicação apareceu junto dos 30% na mensalidade. Veja a [conta da Black Friday Starlink](/reviews/black-friday-starlink) e consulte a oferta do seu endereço.",
+        "Em Portugal, o pedido com a nossa indicação também trazia os 30% de desconto nos planos de serviço, com prazo para o registo. No Residencial 100 Mbps, o kit saía com custo inicial de 0 €, em aluguel: quem cancela devolve o equipamento.",
+        "Na tela do 100 Mbps em Alto Paraíso de Goiás, o resumo do pedido mostrou R$ 189 menos o ajuste de 30%, o Mini X de R$ 499 com R$ 200 de desconto (R$ 299 no total) e nenhuma linha de contrato de 12 meses no equipamento. No Max, o kit saiu a R$ 49 com contrato de 12 meses. Se a fidelidade é o seu receio, leia o [guia de fidelidade e cancelamento da Starlink](/reviews/starlink-fidelidade-como-cancelar) e o [vale a pena da Starlink](/reviews/starlink-vale-a-pena). A promoção de 30% vai até 30 de novembro nos endereços elegíveis."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-br-resumo-max-fidelidade.webp",
+        "alt": "Resumo do pedido do Residencial Max no site da Starlink: R$ 249 menos R$ 74,70, Mini X de R$ 99 menos R$ 50 e a pergunta sobre o prazo de 12 meses",
+        "caption": "Resumo do pedido do Max em Alto Paraíso de Goiás (GO), com o kit de R$ 49 e a regra do prazo de 12 meses.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.4953
+      }
+    },
+    {
+      "heading": "Como acompanhar e usar o seu próprio link",
+      "paragraphs": [
+        "Na aba Indicações do site ou do aplicativo, acompanhe o status de quem assinou pelo seu link. A Starlink avisa por e-mail quando alguém faz o pedido. Uma indicação pode passar pela verificação de elegibilidade antes de gerar recompensa.",
+        "Quando você virar cliente ativo de um plano Residencial ou Viagem, também pode indicar a Starlink, e quem indica recebe o mesmo valor do novo assinante. O valor do seu país aparece no pedido de quem assina."
       ]
     },
     {
@@ -103,13 +286,14 @@
         "A indicação vale no Mercado Livre? O programa exige a compra diretamente em starlink.com pelo link.",
         "Já fui cliente, posso usar o link? A recompensa é para quem assina a Starlink pela primeira vez.",
         "O link de indicação funciona fora do Brasil? Funciona. Pela central de ajuda da Starlink, a indicação vale na maioria dos países onde ela vende, e o valor depende do país em que a pessoa se cadastra. Nos Estados Unidos, o pedido com o nosso link mostrou US$ 100 para quem assina.",
-        "O link vale em Portugal, Angola e Moçambique? Em Portugal, sim: o pedido com o nosso link mostrou 45 € para quem assina, em dinheiro ou como crédito de serviço, junto dos 30% de desconto nos planos. Em Moçambique, a Starlink vende em starlink.com, e o valor aparece no pedido antes de pagar. Em Angola, a Starlink ainda não vende o serviço."
+        "O link vale em Portugal, Angola e Moçambique? Em Portugal, sim: o pedido com o nosso link mostrou 45 € para quem assina, em dinheiro ou como crédito de serviço, junto dos 30% de desconto nos planos. Em Moçambique, a Starlink vende em starlink.com, e o valor aparece no pedido antes de pagar. Em Angola, a Starlink ainda não vende o serviço.",
+        "Dá para incluir a indicação depois de pagar? Não. A Starlink exige que a indicação conste no pedido original, feito em starlink.com por um link de indicação, antes do pagamento."
       ]
     }
   ],
   "cta": {
-    "text": "Confira a recompensa que aparece no pedido para o seu endereço antes de pagar.",
-    "label": "Ver a indicação no pedido",
+    "text": "Você paga o mesmo preço do site oficial, mantém os 30 dias para devolver se não funcionar no seu telhado e garante R$ 200 de crédito no Brasil (45 € em Portugal) depois de dois ciclos mensais.",
+    "label": "Ativar meus R$ 200 no pedido oficial",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

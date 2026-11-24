@@ -31,7 +31,7 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "Starlink 是 SpaceX 的卫星互联网服务，官网是 starlink.com。在 Trustpilot 上，指向 starlink.com 的页面名为“Starlink Development”。如果在别处买套件，付款前请先查看 Starlink 的授权经销商名单，并确认商品的卖家是谁。"
+        "是的，Starlink 靠谱：它是 SpaceX 的卫星互联网服务，并在 starlink.com 直接销售。我们自己也因当地光纤不稳定而申装，作为替代与备用网络。真正需要防范的是仿冒网站和非授权卖家：在 Trustpilot 上指向 starlink.com 的页面名为“Starlink Development”；如果在别处购买套件，付款前请先核对 Starlink 授权经销商名单并确认店铺主体。"
       ]
     },
     {
@@ -52,7 +52,22 @@
       "heading": "如何认出官网",
       "paragraphs": [
         "在浏览器里输入 starlink.com。填写资料或付款前，确认自己仍在 starlink.com 之内。",
-        "在订单页按你自己的地址，核对套餐、套件（租用或购买）、税费和合约期限。如果有人要求通过消息或在订单之外付款，请先向 Starlink 客服确认再继续。"
+        "在订单页按你自己的地址，核对套餐、套件（租用或购买）、税费和合约期限。如果有人要求通过消息或在订单之外付款，请先向 Starlink 客服确认再继续。",
+        "不弄错网址的一个简单做法，是从推荐链接打开订购页：它会直接带你到 starlink.com 的订购页，输入任何信息前仍要检查浏览器地址栏。价格与官网相同，推荐只适用于付款前从推荐链接开始的订单。"
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-my-planos-100mbps-compra.webp",
+        "alt": "starlink.com 官方住宅套餐订购页面示例（马来西亚吉隆坡地址）",
+        "caption": "马来西亚吉隆坡地址的 starlink.com 订购页面示例（2026 年 11 月 23 日查询）。官网没有中文版本。",
+        "objectFit": "square",
+        "aspectRatio": 0.9898
+      },
+      "links": [
+        {
+          "label": "通过推荐链接打开 starlink.com 官方订购页",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -78,7 +93,14 @@
           "label": "Starlink 授权经销商名单",
           "href": "https://starlink.com/support/article/8a90222d-7c32-edd7-51f6-f696ece07105"
         }
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-kit-standard-oficial.webp",
+        "alt": "深色背景上的 Starlink 套件部件：底座、支架和线缆",
+        "caption": "Starlink 套件部件。照片：Starlink",
+        "objectFit": "contain",
+        "aspectRatio": 1.7778
+      }
     },
     {
       "heading": "Trustpilot 上能看到什么",
@@ -86,6 +108,29 @@
         "在 Trustpilot 上，starlink.com 的页面有 879 条评价，TrustScore 为 1.6（满分 5）：71% 是 1 星，17% 是 5 星。这个页面没有被认领，也就是 Starlink 没有运营它，回复率为 0%。",
         "我们读了最新的 40 条 1 星和 40 条 5 星评价。1 星评价里最常见的抱怨是客服只有机器人或聊天（约 3 条中有 1 条）、断线和速度偏低（约 3 条中有 1 条）、订阅后月费上涨（约 4 条中有 1 条）、扣费和取消困难（约 4 条中有 1 条）、合作商安装人员迟到或没来（约 4 条中有 1 条）、套件延迟或没收到（约 5 条中有 1 条）。5 星评价称赞速度和稳定性（约一半）、安装简单（约 3 条中有 1 条）、当地没有其他好的网络选择（约 4 条中有 1 条）。数量是我们自己统计的，仅供参考。",
         "看分数要小心：没被认领的页面不会在购买后发出评价邀请，会打开它的人往往是想抱怨。称赞多关于信号，抱怨多关于客服、价格和扣费，说信号一直很差的 1 星评价并不多。Trustpilot 根据 355 条近期评价生成的自动摘要，方向也一致。具体数字见我们的 [Trustpilot 页面完整解读](/zh-hans/reviews/starlink-trustpilot-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "付款前检查清单",
+      "paragraphs": [
+        "这五项检查适用于任何地址，只需几分钟。"
+      ],
+      "checklist": {
+        "title": "提交订单前",
+        "items": [
+          "我在同一个浏览器窗口中通过推荐链接打开订购页，让推荐能被计入。",
+          "输入任何信息前，我确认地址栏仍在 starlink.com。",
+          "我在预计安装天线的位置运行了 Starlink App 的障碍物检测，确认天空开阔。",
+          "我在订单摘要中看过套餐、套件、总额和合约期限。",
+          "付款前，我已截图保存含月费和 30 天规则的订单摘要。"
+        ]
+      },
+      "links": [
+        {
+          "label": "在 starlink.com 确认我的地址能否使用",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -103,7 +148,7 @@
       "heading": "常见问题",
       "bullets": [
         "Starlink 有优惠码吗？ 没有，Starlink 没有优惠码。通过 Cecília 的推荐链接订阅，使用满两个月后会以账单抵扣额度的形式到账，推荐人也会获得相同金额。金额因国家而异，例如在美国为 US$ 100。",
-        "Starlink 靠谱吗？ Starlink 是 SpaceX 的卫星互联网服务。请确认你在 starlink.com，如果在别处购买，请使用授权经销商名单。",
+        "Starlink 靠谱吗？ 是的，Starlink 是 SpaceX 官方运营的卫星互联网服务。下单前请确认网址是 starlink.com；如果在其他平台购买，请先核对授权经销商名单。",
         "Starlink 的官网是什么？ 官网是 starlink.com。",
         "怎么确认卖家是授权经销商？ 查看 Starlink 的经销商名单，并在付款前确认商品的卖家是谁。",
         "该在官网买还是向经销商买？ 在 starlink.com，订单页会在付款前显示你所在地址的套餐、套件、税费和合约，推荐也只在那里有效。官方名单上的经销商是正规卖家，但推荐不适用。"
@@ -113,7 +158,7 @@
   "pros": [],
   "cons": [],
   "affiliate": "starlink",
-  "editorialNote": "依据官网、帮助中心和 Trustpilot 公开页面整理。我们参加了 Starlink 的推荐计划；如果你通过我们的链接订阅并符合规则，我们可能获得奖励。",
+  "editorialNote": "依据官网、帮助中心和 Trustpilot 公开页面整理。我们因当地光纤不稳定而申装 Starlink，作为替代与备用网络。我们参加了 Starlink 推荐计划；如果你通过我们的链接订阅并符合规则，我们可能获得奖励。",
   "relatedArticles": [
     {
       "slug": "starlink-trustpilot-zh-hans"
@@ -136,8 +181,8 @@
     ]
   },
   "cta": {
-    "text": "到 Starlink 网站输入你的地址，付款前先核对套餐、套件和月费。",
-    "label": "查看你地址的套餐",
+    "text": "从推荐链接打开订购页，确认地址栏仍在 starlink.com，并在付款前查看你地址的套餐、套件与总额。价格与官网相同。",
+    "label": "在 starlink.com 查看我的地址",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

@@ -3,8 +3,8 @@
   "slug": "starlink-empfehlungslink",
   "translationKey": "starlink-indicacao",
   "locale": "de",
-  "title": "Starlink-Empfehlungslink: So nutzen Sie ihn und wann die Prämie kommt",
-  "seoTitle": "Starlink-Empfehlungslink: Nutzung und Prämie",
+  "title": "So sichern Sie sich 45 € Bonus beim Kauf Ihres ersten Starlink über den Empfehlungslink",
+  "seoTitle": "45 € Bonus beim ersten Starlink per Empfehlungslink",
   "type": "Empfehlungscode-Ratgeber",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Öffnen Sie den Link auf der offiziellen Seite und prüfen Sie die Prämie in der Bestellung, bevor Sie zahlen. Wer teilnehmen kann, wann der Betrag kommt, Guthaben oder Auszahlung.",
-  "metaDescription": "So öffnen Sie den Starlink-Empfehlungslink, finden den Betrag in der Bestellung und erhalten die Prämie, sobald die Bedingungen des Programms erfüllt sind.",
+  "description": "Starlink hat keinen Gutscheincode: Bestellen Sie Ihr erstes Kit über den Empfehlungslink, zahlen Sie denselben Preis und sichern Sie sich 45 € in Deutschland.",
+  "metaDescription": "So erhalten Sie 45 € Bonus in Deutschland bei Ihrer ersten Starlink-Bestellung, wie viel das beim 100-Mbit/s-Tarif abdeckt und wie Sie es aktivieren.",
   "publishedAt": "20. November 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,8 +31,126 @@
     {
       "heading": "Schnelle Antwort",
       "paragraphs": [
-        "Öffnen Sie den Empfehlungslink von Starlink und geben Sie Ihre Adresse ein. Prüfen Sie vor dem Bezahlen, ob der Hinweis auf den angewendeten Empfehlungscode erscheint, und lesen Sie die Prämie in der Bestellung ab. Das Programm gilt für Neukunden, und die Prämie wird nach zwei vollen Monatszyklen ausgezahlt, als Servicegutschrift oder, wo angeboten, als Auszahlung."
+        "Starlink bietet keinen Gutscheincode zum Eintippen: Neben den Angeboten auf der Website ist der Empfehlungslink der offizielle Weg zu einer Prämie beim ersten Abo. In Deutschland sind es 45 € (in anderen Ländern zeigt die Bestellung den Betrag in Ihrer Währung). Sie zahlen denselben Preis wie auf starlink.com und behalten die 30 Tage Testzeit; beim 100-Mbit/s-Tarif in Berlin (17,50 €/Monat im Aktionszeitraum) decken 45 € mehr als zweieinhalb Monate. Öffnen Sie vor dem Bestellen den Link, prüfen Sie den Empfehlungshinweis, bevor Sie bezahlen, aktivieren Sie das Kit und halten Sie das Abo zwei volle Monatszyklen aktiv und bezahlt. Nachträglich lässt sich die Empfehlung nicht eintragen."
       ]
+    },
+    {
+      "heading": "Warum sich der Link lohnt",
+      "paragraphs": [
+        "Wer starlink.com auf eigene Faust öffnet, zahlt für Hardware und Monatspreis dasselbe wie über den Link. Der Unterschied sind die 45 €, die liegen bleiben. Die Gutschrift senkt den Kitpreis am Bestelltag nicht: Sie kommt nach zwei vollen, bezahlten Monatszyklen auf die Rechnung.",
+        "Die Zahlen unten stammen von Referenzadressen. An Ihrer Adresse können Preis, Kit und Bedingungen anders sein, und nur die Bestellseite zeigt sie."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-de-planos-berlim.webp",
+        "alt": "Starlink-Bestellseite für Berlin mit dem Tarif Privathaushalt 100 Mbit/s zu 17,50 € pro Monat, 0 € Hardware und dem Hinweis, gemietete Hardware zurückzusenden",
+        "caption": "Berlin: die Tarife der Bestellseite, abgerufen am 23. November 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.5909
+      },
+      "comparisonTable": {
+        "caption": "Preise auf starlink.com am 23. November 2026 gelesen, ohne einen Kauf abzuschließen. Die Aktionspreise gelten 3 Monate mit 50 % Rabatt; danach gilt der volle Preis, und der Vertrag läuft von Monat zu Monat mit gebührenfreier Kündigung. Die Gutschrift ist kein Rabatt beim Bezahlen: Sie kommt nach zwei vollen Zyklen.",
+        "headers": [
+          "Auf starlink.com gelesenes Szenario",
+          "Ohne Empfehlungslink",
+          "Mit Cecílias Link",
+          "Was die Gutschrift abdeckt"
+        ],
+        "rows": [
+          [
+            "Deutschland, Privathaushalt 100 Mbit/s (Berlin)",
+            "17,50 €/Monat für 3 Monate (danach 35 €), 0 € Hardware-Miete, 19 € heute",
+            "Dieselbe Bestellung + 45 € Gutschrift nach 2 bezahlten Zyklen",
+            "Mehr als 2,5 Monate des Aktionstarifs und mehr als das Doppelte der Versandkosten"
+          ],
+          [
+            "Deutschland, Privathaushalt 200 Mbit/s (Berlin)",
+            "27,50 €/Monat für 3 Monate (danach 55 €), 0 € Hardware-Miete",
+            "Dieselbe Bestellung + 45 € Gutschrift",
+            "Gut anderthalb Monate des Aktionstarifs"
+          ],
+          [
+            "Deutschland, Privathaushalt Max (Berlin)",
+            "37,50 €/Monat für 3 Monate (danach 75 €), 0 € Hardware-Miete",
+            "Dieselbe Bestellung + 45 € Gutschrift",
+            "Gut ein Monat des Aktionstarifs"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Meine Bestellung mit 45 € Empfehlungsbonus öffnen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "simulator": {
+        "title": "Rechnen Sie Ihr Szenario",
+        "scenarios": [
+          {
+            "label": "100 Mbit/s in Berlin + Link",
+            "lines": [
+              {
+                "label": "Miete des Mini-X-Kits",
+                "value": "0 €, bei Kündigung zurückzusenden"
+              },
+              {
+                "label": "Monatspreis im Aktionszeitraum (3 Monate)",
+                "value": "17,50 €/Monat"
+              },
+              {
+                "label": "Empfehlungsgutschrift nach 2 bezahlten Zyklen",
+                "value": "-45 € auf der Rechnung",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Gutschrift im Vergleich zum Monatspreis",
+            "totalValue": "Mehr als 2,5 Monate gedeckt",
+            "note": "Sie zahlen denselben Preis wie auf der Website und behalten 30 Tage Testzeit."
+          },
+          {
+            "label": "200 Mbit/s in Berlin + Link",
+            "lines": [
+              {
+                "label": "Miete des Standard-4-Kits",
+                "value": "0 €, bei Kündigung zurückzusenden"
+              },
+              {
+                "label": "Monatspreis im Aktionszeitraum (3 Monate)",
+                "value": "27,50 €/Monat"
+              },
+              {
+                "label": "Empfehlungsgutschrift nach 2 bezahlten Zyklen",
+                "value": "-45 € auf der Rechnung",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Gutschrift im Vergleich zum Monatspreis",
+            "totalValue": "Gut 1,5 Monate gedeckt",
+            "note": "Heute sind 19 € Versand fällig; die Gutschrift kommt später, nicht an der Kasse."
+          },
+          {
+            "label": "Bestellung ohne Empfehlungslink",
+            "lines": [
+              {
+                "label": "Preis für Kit und Tarif",
+                "value": "Derselbe wie über den Link"
+              },
+              {
+                "label": "Empfehlungsgutschrift",
+                "value": "0 €, nachträglich nicht möglich"
+              },
+              {
+                "label": "Prämie, die liegen bleibt",
+                "value": "45 € in Deutschland",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Erhaltene Empfehlungsprämie",
+            "totalValue": "0 €",
+            "note": "Die Empfehlung muss in der ursprünglichen Bestellung stehen, vor der Zahlung."
+          }
+        ]
+      }
     },
     {
       "heading": "So nutzen Sie den Link, Schritt für Schritt",
@@ -42,6 +160,53 @@
       "postParagraphs": [
         "Prüfen Sie den Hinweis, bevor Sie bezahlen. Laut Starlink muss die Empfehlung in der ursprünglichen Bestellung stehen."
       ],
+      "bullets": [
+        "Wählen Sie in der Bestellung einen berechtigten Tarif für Privathaushalt oder Reise.",
+        "Suchen Sie den Hinweis, dass der Empfehlungscode angewendet wurde, und lesen Sie Prämie und Gesamtbetrag ab.",
+        "Schließen Sie die Bestellung auf der Starlink-Seite ab. Den Betrag am Bestelltag zeigt die Bestellseite selbst.",
+        "Aktivieren Sie das Kit und behalten Sie die erste Rechnung im Blick. Die erste Zahlung und die Aktivierung der Hardware gehören zu den Voraussetzungen der Empfehlung."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Bestellseite auf der offiziellen Starlink-Website mit der Meldung Referral Code Applied, die sagt, dass Sie und Ihr Freund je 100 $ erhalten, als Geld oder Servicegutschrift",
+        "caption": "Bestellung auf der offiziellen Seite mit angewendetem Empfehlungslink (Beispiel aus Nevada, USA).",
+        "objectFit": "contain",
+        "aspectRatio": 0.8747
+      }
+    },
+    {
+      "heading": "Checkliste vor dem Bezahlen",
+      "paragraphs": [
+        "Haken Sie jeden Punkt auf dem Bildschirm ab, bevor Sie bezahlen. Das dauert zwei Minuten und entscheidet, ob die Gutschrift in Ihrer Bestellung steht."
+      ],
+      "checklist": {
+        "title": "Vor dem Abschluss der Bestellung",
+        "items": [
+          "Ich habe die Bestellung über Cecílias Empfehlungslink in diesem Fenster geöffnet, damit die Gutschrift nicht verloren geht.",
+          "Ich habe geprüft, dass die Adressleiste auf starlink.com steht, bevor ich Daten eingebe.",
+          "Ich habe den Hinderniscan der Starlink-App an der geplanten Stelle durchgeführt, um freien Himmel zu bestätigen.",
+          "Ich habe in der Bestellübersicht den Empfehlungshinweis, den Kitpreis und eine mögliche 12-Monats-Bindung gesehen.",
+          "Ich habe vor dem Bezahlen einen Screenshot der Übersicht mit Monatspreis und 30-Tage-Regel gespeichert."
+        ]
+      }
+    },
+    {
+      "heading": "Wie viel es bringt und wann es kommt",
+      "paragraphs": [
+        "Der Betrag hängt vom Land ab, in dem Sie sich anmelden, und steht in Ihrer Bestellung. Wer empfiehlt, erhält denselben Betrag, als Geld oder als Servicegutschrift.",
+        "Das Abonnement muss zwei volle Monatszyklen aktiv und bezahlt bleiben. Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, je nach Land, Konto und Identitätsprüfung.",
+        "Standard ist die Gutschrift auf der Rechnung. Bietet Ihr Konto eine Auszahlung in Geld an, öffnen Sie die Empfehlungen im Browser, wählen die Auszahlungsmethode und schließen Identifikation und Bankangaben bei Stripe ab. Die Gutschrift kommt auf die Rechnung und senkt den Kitpreis in der Bestellung nicht."
+      ],
+      "emphasis": "Die Prämie wird erst nach zwei vollen Monatszyklen mit aktivem, bezahltem Abonnement ausgezahlt, standardmäßig als Gutschrift auf der Rechnung, und wer abonniert und wer empfiehlt erhalten denselben Betrag; den Betrag für Ihr Land zeigt die Bestellung.",
+      "emphasisAfterParagraph": 3
+    },
+    {
+      "heading": "Verpflichtet das Öffnen des Links zu etwas? Der 30-Tage-Test",
+      "paragraphs": [
+        "Das Öffnen des Links verpflichtet zu nichts. Tarifpreis, Kit, Verfügbarkeit und eine mögliche Bindung erscheinen erst, wenn Sie auf starlink.com eine Adresse eingeben.",
+        "Nach der Zahlung gewährt Starlink laut den Bedingungen auf seiner Seite 30 Tage, um das Kit zurückzugeben. Funktioniert die Antenne auf Ihrem Dach nicht, können Sie kündigen und die Hardware in dieser Frist zurücksenden. Auf der Bestellübersicht steht außerdem, dass der Vertrag von Monat zu Monat läuft und die Kündigung gebührenfrei ist.",
+        "Darum kommt der Link vor dem Test: Die Empfehlung zählt nur in der ursprünglichen Bestellung. Wer ohne sie testet, zahlt am ersten Tag dasselbe und verliert die 45 €, wenn er die Antenne behält."
+      ],
       "image": {
         "src": "/images/reviews/starlink/starlink-antena-telhado-oficial.webp",
         "alt": "Haus mit einer auf dem Dach installierten Starlink-Antenne",
@@ -49,22 +214,13 @@
         "objectFit": "contain",
         "aspectRatio": 1.4995
       },
-      "bullets": [
-        "Wählen Sie in der Bestellung einen berechtigten Tarif für Privathaushalt oder Reise.",
-        "Suchen Sie den Hinweis, dass der Empfehlungscode angewendet wurde, und lesen Sie Prämie und Gesamtbetrag ab.",
-        "Schließen Sie die Bestellung auf der Starlink-Seite ab. Den Betrag am Bestelltag zeigt die Bestellseite selbst.",
-        "Aktivieren Sie das Kit und behalten Sie die erste Rechnung im Blick. Die erste Zahlung und die Aktivierung der Hardware gehören zu den Voraussetzungen der Empfehlung."
+      "links": [
+        {
+          "label": "Prämie sichern, bevor Sie bestellen",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
-    },
-    {
-      "heading": "Wie viel es bringt und wann es kommt",
-      "paragraphs": [
-        "Der Betrag hängt vom Land ab, in dem Sie sich anmelden, und steht in Ihrer Bestellung. Wer empfiehlt, erhält denselben Betrag, als Geld oder als Servicegutschrift.",
-        "Das Abonnement muss zwei volle Monatszyklen aktiv und bezahlt bleiben. Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, je nach Land, Konto und Identitätsprüfung.",
-        "Standard ist die Gutschrift auf der Rechnung. Bietet Ihr Konto eine Auszahlung in Geld an, öffnen Sie die Empfehlungen im Browser, wählen die Auszahlungsmethode und schließen Identifikation und Bankangaben bei Stripe ab."
-      ],
-      "emphasis": "Die Prämie wird erst nach zwei vollen Monatszyklen mit aktivem, bezahltem Abonnement ausgezahlt, standardmäßig als Gutschrift auf der Rechnung, und wer abonniert und wer empfiehlt erhalten denselben Betrag; den Betrag für Ihr Land zeigt die Bestellung.",
-      "emphasisAfterParagraph": 3
     },
     {
       "heading": "Wer teilnehmen kann",
@@ -82,15 +238,36 @@
       ]
     },
     {
-      "heading": "Und das Black-Friday-Angebot?",
+      "heading": "Vier Fehler, die die Gutschrift kosten, auch wenn Sie den Link geöffnet haben",
       "paragraphs": [
-        "In Deutschland zeigte die Bestellseite zuletzt 50 % Rabatt auf Tarife für Privathaushalt und Reise, für 3 Monate. Ob Angebot und Empfehlung in Ihrer Bestellung gemeinsam erscheinen, sehen Sie vor dem Bezahlen. Die Rechnung dazu steht im [Leitfaden zum Black-Friday-Angebot](/de/reviews/starlink-black-friday-angebot)."
+        "Die meisten verlorenen Gutschriften gehen auf einen dieser vier Patzer zurück."
+      ],
+      "bullets": [
+        "Das Kit bei einem Händler oder auf einem Marktplatz kaufen. Das Programm zählt nur Bestellungen auf starlink.com über den Link.",
+        "Bezahlen, ohne den Hinweis zu prüfen. Die Empfehlung muss in der ursprünglichen Bestellung stehen und lässt sich nicht nachtragen: Fehlt der Hinweis auf dem Bildschirm, öffnen Sie den Link vor dem Bezahlen erneut. Wechseln Sie mitten in der Bestellung Gerät oder Browser, öffnen Sie den Link noch einmal und prüfen den Hinweis erneut.",
+        "Den Link als Bestandskunde oder früherer Kunde nutzen. Die Gutschrift gilt nur für alle, die Starlink zum ersten Mal abonnieren.",
+        "Zu früh kündigen. Die Gutschrift verlangt ein aktives, bezahltes Abonnement über zwei volle Monatszyklen, und die Auszahlung kann frühestens 60 Tage nach der Aktivierung beginnen."
       ]
     },
     {
-      "heading": "So verfolgen Sie den Stand",
+      "heading": "Und das Black-Friday-Angebot?",
       "paragraphs": [
-        "Auf der Registerkarte Empfehlungen auf der Website oder in der App sehen Sie, wer über Ihren Link abonniert hat. Starlink schickt eine E-Mail, wenn jemand die Bestellung aufgibt. Eine Empfehlung kann eine Berechtigungsprüfung durchlaufen, bevor eine Prämie entsteht."
+        "In Deutschland zeigte die Bestellseite zuletzt 50 % Rabatt auf Tarife für Privathaushalt und Reise, für 3 Monate. Ob Angebot und Empfehlung in Ihrer Bestellung gemeinsam erscheinen, sehen Sie vor dem Bezahlen. Die Rechnung dazu steht im [Leitfaden zum Black-Friday-Angebot](/de/reviews/starlink-black-friday-angebot).",
+        "In der Bestellübersicht für den 200-Mbit/s-Tarif in Berlin zeigte Starlink 55 € mit 3 Monaten Rabatt von 27,50 €, das Kit zur Miete für 0 € und 19 € am Bestelltag. Wer sich vor der Bindung sorgt, liest den [Leitfaden zu Vertrag und Kündigung bei Starlink](/de/reviews/starlink-vertrag-kuendigen) und [lohnt sich Starlink](/de/reviews/lohnt-sich-starlink)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-de-bestelluebersicht-berlim.webp",
+        "alt": "Starlink-Bestellübersicht für Berlin mit dem Tarif 200 Mbit/s zu 55 €, dem Hinweis auf Verlängerung von Monat zu Monat mit gebührenfreier Kündigung, 3 Monaten Rabatt von 27,50 € und 19 € am Bestelltag",
+        "caption": "Berlin: Bestellübersicht des Tarifs 200 Mbit/s, abgerufen am 23. November 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.5889
+      }
+    },
+    {
+      "heading": "So verfolgen Sie den Stand und nutzen Ihren eigenen Link",
+      "paragraphs": [
+        "Auf der Registerkarte Empfehlungen auf der Website oder in der App sehen Sie, wer über Ihren Link abonniert hat. Starlink schickt eine E-Mail, wenn jemand die Bestellung aufgibt. Eine Empfehlung kann eine Berechtigungsprüfung durchlaufen, bevor eine Prämie entsteht.",
+        "Sobald Sie aktiver Kunde eines berechtigten Tarifs für Privathaushalt oder Reise sind, können Sie selbst empfehlen, und wer empfiehlt, erhält denselben Betrag wie der Neukunde. Den Betrag für Ihr Land zeigt die Bestellung der Person, die abonniert."
       ]
     },
     {
@@ -102,13 +279,14 @@
         "Wann kommt die Starlink-Prämie? Laut Hilfecenter kann die Auszahlung frühestens 60 Tage nach der Aktivierung beginnen, wenn die Empfehlung die Bedingungen des Programms erfüllt.",
         "Gilt die Empfehlung bei einem Händler oder Marktplatz? Das Programm verlangt den Kauf direkt auf starlink.com über den Link.",
         "Ich war schon Kunde, kann ich den Link nutzen? Die Prämie gilt für alle, die Starlink zum ersten Mal abonnieren.",
-        "Funktioniert der Empfehlungslink in Deutschland? Laut Hilfecenter von Starlink gilt die Empfehlung in den meisten Ländern, in denen Starlink verkauft, und der Betrag hängt vom Land ab, in dem Sie sich anmelden. Ob sie für Ihre Adresse gilt, zeigt der Hinweis in der Bestellung."
+        "Funktioniert der Empfehlungslink in Deutschland? Laut Hilfecenter von Starlink gilt die Empfehlung in den meisten Ländern, in denen Starlink verkauft, und der Betrag hängt vom Land ab, in dem Sie sich anmelden. Ob sie für Ihre Adresse gilt, zeigt der Hinweis in der Bestellung.",
+        "Kann ich die Empfehlung nach dem Bezahlen nachtragen? Nein. Starlink verlangt, dass die Empfehlung in der ursprünglichen Bestellung steht, aufgegeben auf starlink.com über einen Empfehlungslink, vor der Zahlung."
       ]
     }
   ],
   "cta": {
-    "text": "Prüfen Sie die Prämie, die Ihre Bestellung für Ihre Adresse anzeigt, bevor Sie bezahlen.",
-    "label": "Empfehlung in der Bestellung ansehen",
+    "text": "Sie zahlen genau denselben Preis wie auf der offiziellen Website, behalten 30 Tage zur Rückgabe des Kits, falls es auf Ihrem Dach nicht funktioniert, und sichern sich 45 € Gutschrift in Deutschland nach zwei Monatszyklen.",
+    "label": "45 € Empfehlungsbonus bei Starlink sichern",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

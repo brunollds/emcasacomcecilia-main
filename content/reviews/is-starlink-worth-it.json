@@ -3,8 +3,8 @@
   "slug": "is-starlink-worth-it",
   "translationKey": "starlink-vale-a-pena",
   "locale": "en",
-  "title": "Is Starlink worth it? The monthly cost and who it makes sense for",
-  "seoTitle": "Is Starlink worth it? Plan prices and the kit",
+  "title": "Is Starlink worth it? Plan cost, unstable local fiber and backup use",
+  "seoTitle": "Is Starlink worth it? Cost, bad fiber & backup",
   "type": "Buying Guide",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Compare the monthly cost of Starlink with the connection that already reaches your home. See the plan prices by address, the rental kit and how to check where the dish can go.",
-  "metaDescription": "Is Starlink worth it? Plan prices by address, the rental kit, who it suits and when fiber or cellular comes out ahead.",
+  "description": "See when Starlink is worth it: rural homes or areas where local fiber drops or slows down. Compare US/UK plans, $0 rental hardware, backup use and sky check.",
+  "metaDescription": "Is Starlink worth it with local fiber nearby? Compare US/UK monthly plans, $0 rental kit, unstable fiber as a reason to switch or add backup internet.",
   "publishedAt": "November 20, 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,45 +31,140 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Starlink can be worth it in rural areas and homes where no stable connection reaches you. If reliable fiber or cable already arrives, compare the total cost before you switch. Add the monthly prices at your address to any installation fee, and use the Starlink app to see where the dish can go."
+        "Yes, Starlink is worth it where no stable connection reaches you, and also where fiber exists but keeps dropping or delivers far less than advertised. We subscribed ourselves as an alternative and backup to our unstable fiber. If your fiber is genuinely stable, it usually wins on price and latency. Testing is low-risk: the rental kit costs $0 upfront in the US, and you have 30 days to return it."
       ]
     },
     {
       "heading": "What the plans cost",
       "paragraphs": [
-        "We read the public order page for one address, Reno, Nevada, on November 20, 2026. The hardware was a rental with $0 upfront and $0 a month, and the page shows 30% off service plans in select areas."
+        "On November 23, 2026 we read the public order page for an address in Nevada and, for comparison, one in London. In Nevada, all three residential plans came with rental hardware ($0 upfront, $0 a month), 30% off the service in select areas and about $20 plus taxes due today. The page says the monthly price has no fixed duration and that Starlink may update pricing with 30 days’ notice."
       ],
       "comparisonTable": {
         "headers": [
-          "Plan, Reno, Nevada",
-          "Per month",
-          "Kit"
+          "Plan",
+          "Per month with the offer",
+          "Standard price",
+          "Rental kit",
+          "Professional installation"
         ],
         "rows": [
           [
-            "Residential 100 Mbps",
+            "Nevada, Residential 100 Mbps",
             "$38.50",
-            "$0 rental"
+            "$55",
+            "Starlink V5 + Router Mini, $0",
+            "$99, optional"
           ],
           [
-            "Max",
+            "Nevada, Residential 200 Mbps",
+            "$59.50",
+            "$85",
+            "Starlink V4 + Router 4, $0",
+            "$0"
+          ],
+          [
+            "Nevada, Max",
             "$91",
-            "$0 rental"
+            "$130",
+            "Standard 4 X, $0",
+            "$0"
+          ],
+          [
+            "London, 100 / 200 / Max",
+            "£40 / £60 / £80",
+            "Same, no promotion shown",
+            "Rental kit, £0",
+            "£74 optional on 100 and 200; free on Max"
           ]
         ],
-        "caption": "Monthly price as shown, before taxes, the optional installation and any referral reward. We did not record how long the promotional price lasts."
+        "caption": "Monthly prices as shown on the order pages, before taxes and any referral reward. Nevada’s 30% offer was listed through November 30; the London page showed no promotion."
+      },
+      "simulator": {
+        "title": "Simulator: what each scenario asks for",
+        "scenarios": [
+          {
+            "label": "US 100 Mbps (Nevada)",
+            "lines": [
+              {
+                "label": "Rental kit: Starlink V5 + Router Mini",
+                "value": "$0 upfront, $0 a month",
+                "highlight": true
+              },
+              {
+                "label": "Monthly price with 30% off",
+                "value": "$38.50"
+              },
+              {
+                "label": "Standard monthly price",
+                "value": "$55"
+              }
+            ],
+            "totalLabel": "Due today (shipping + taxes)",
+            "totalValue": "$20 + taxes",
+            "note": "Return the rental if you cancel. You have 30 days to try it."
+          },
+          {
+            "label": "US Max (Nevada)",
+            "lines": [
+              {
+                "label": "Rental kit: Standard 4 X",
+                "value": "$0 upfront, $0 a month"
+              },
+              {
+                "label": "Monthly price with 30% off",
+                "value": "$91"
+              },
+              {
+                "label": "Professional installation",
+                "value": "$0",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Due today (shipping + taxes)",
+            "totalValue": "$20 + taxes",
+            "note": "The standard price after the offer is $130 a month, with no fixed duration."
+          },
+          {
+            "label": "UK 100 Mbps (London)",
+            "lines": [
+              {
+                "label": "Rental kit: Mini Rental + Router Mini",
+                "value": "£0",
+                "highlight": true
+              },
+              {
+                "label": "Monthly price",
+                "value": "£40"
+              },
+              {
+                "label": "Optional professional installation",
+                "value": "£74"
+              }
+            ],
+            "totalLabel": "Due today (shipping)",
+            "totalValue": "£19",
+            "note": "No contracts. Return the kit if you cancel."
+          }
+        ]
       },
       "postParagraphs": [
-        "Residential 100 Mbps included the Starlink V5 with the Router Mini. Max came with the Standard rental kit and $0 professional installation. For 100 Mbps, professional installation was optional, at $99. Prices change with the address you enter, so make this calculation on your own order page.",
-        "Work out the cost before the reward. In the Nevada screenshot with our link, the order displayed a $100 referral offer subject to eligibility. See the [Starlink referral page](/en/coupons/starlink)."
+        "The 200 Mbps plan is the one many comparisons skip. At $59.50 in Nevada it includes professional installation at $0, while the optional installation on 100 Mbps costs $99. The promotional price has no stated duration, so do not multiply it by 12 without checking your own order.",
+        "Work out the cost before any reward. Through our referral link, Starlink gives US$ 100 in the US and £ 40 in the UK after two months of subscription, as credit on the bill. See the [Starlink referral page](/en/coupons/starlink)."
       ],
       "links": [
         {
-          "label": "See plans at your address",
+          "label": "Simulate plan and kit for my address",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-us-planos-nevada-100mbps.webp",
+        "alt": "Starlink residential order screen for Nevada showing the 100 Mbps, 200 Mbps and Max tabs and $0 hardware rental",
+        "caption": "Official order screen in Nevada, checked on November 23, 2026: 100 Mbps at $38.50 a month and a $0 rental kit.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.7159
+      }
     },
     {
       "heading": "Where to put the dish",
@@ -91,12 +186,38 @@
       }
     },
     {
-      "heading": "When to compare with fiber or cellular",
+      "heading": "Beyond monthly price: unstable fiber, regional outages and backup use",
       "paragraphs": [
-        "If stable fiber or cable already reaches you, compare the installation, the monthly bills and any equipment fee of each offer. For a cellular home plan, add the price of the device you would need and check that the data allowance fits your household."
+        "Comparing only the monthly bill falls short when the cheap fixed line at your address drops every week or delivers a fraction of the speed you pay for. Regional providers and congested networks often suffer from cut cables, unannounced maintenance and evening slowdowns. If you work from home, take video calls or rely on cameras and smart-home gear, that matters more than a few dollars a month.",
+        "In our own case, we subscribed to Starlink as an alternative and backup to unstable fiber. Because the signal comes from satellites, it does not depend on the cables in your street or on the same provider, so it can replace a problematic fiber line or act as a reserve route when the fiber fails.",
+        "Testing carries little risk: the hardware is a rental at $0 upfront in the US and £0 in the UK, the pages we read show no contract, and you have 30 days to return it. You measure real stability on your own roof and keep the subscription only if it fixes the problem. If you are weighing home 4G or 5G as a backup instead, add the router and check the data allowance."
       ],
-      "emphasis": "With no stable fiber or decent cellular signal at the address, Starlink belongs in the comparison; with stable fiber already there, switching only pays off if the kit and the monthly bills over the months you plan to stay add up to less than the current connection costs.",
-      "emphasisAfterParagraph": 1
+      "emphasis": "If your fiber or cable is genuinely stable and delivers its contracted speed, switching purely on monthly price rarely pays off; when local providers suffer frequent dropouts or severe slowdowns, Starlink earns its value through reliability and independence as a primary or backup line.",
+      "emphasisAfterParagraph": 3,
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Official Starlink dish and router that can serve as a primary or backup connection",
+        "caption": "Official Starlink dish and router, independent of the local provider’s wiring. Photo from Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      }
+    },
+    {
+      "heading": "How to use Starlink alongside unreliable fiber",
+      "paragraphs": [
+        "This part is general guidance, not an account of our own setup. There are two ways to run Starlink next to unstable fiber, from the simplest to the automatic one.",
+        "Level 1, no extra cost: keep the Starlink Wi-Fi as a second network and switch your phone or laptop to it when the fiber drops in the middle of a meeting. The switch is manual and takes seconds, but you have to notice the outage and act.",
+        "Level 2, automatic: use a router with Dual-WAN (or multi-WAN) and failover. The fiber goes into one WAN port, Starlink into the other, and the router moves traffic to Starlink when it detects that the fiber is down. For that, Starlink is usually connected to your own router through the bypass mode in the app, which lets your router run the network. Check Starlink support for what your model needs, because some kits require an Ethernet adapter.",
+        "During an automatic switch, calls in progress and VPNs may reconnect for a few seconds, because your outgoing address changes. Test the failover before you rely on it: unplug the fiber for a few minutes and see whether calls, cameras and remote work come back on their own."
+      ]
+    },
+    {
+      "heading": "Heavy rain, wind and power cuts",
+      "paragraphs": [
+        "Older satellite internet, from high orbit, has a delay of hundreds of milliseconds, which hurts calls and games. Starlink uses low-orbit satellites and publishes a typical range of 25 to 60 ms on land, a company reference with no measurement at our address.",
+        "Very heavy rain, snow and storms can lower performance for a while, and wind calls for a firmly mounted dish. Compare that with fiber: a cable cut in the street can take the provider a long time to repair, and Starlink does not depend on it.",
+        "A power cut is another point: the Starlink dish and router need electricity, and so does fiber equipment. A UPS or a portable power station sized for the consumption Starlink lists in its specifications keeps the connection up through short outages. If power fails across the whole neighborhood, the street network can go down too, so test the setup before relying on it."
+      ]
     },
     {
       "heading": "Speed and gaming",
@@ -114,7 +235,15 @@
     {
       "heading": "Rental kit and leaving",
       "paragraphs": [
-        "The kit on the order page is a rental, and you have to return it if you cancel. The [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund) covers the return rules and the 30-day refund."
+        "The kit on the order pages we read is a rental, and you have to return it if you cancel. The US page says there is no fixed duration and that prices can change with 30 days’ notice; the UK page says no contracts. In both, the 30-day window lets you cancel and return the kit.",
+        "Opening the order costs nothing: prices, discounts and availability only appear once you enter your address on starlink.com. The referral only counts when the order is placed through a referral link, before you pay, on starlink.com, and not on a marketplace. The [contract, cancellation and refund guide](/en/reviews/starlink-contract-cancel-refund) covers the return rules."
+      ],
+      "links": [
+        {
+          "label": "Test it at my address with 30 days to return",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -127,34 +256,36 @@
       "heading": "Frequently asked questions",
       "bullets": [
         "Does Starlink have a discount coupon? No. Starlink has no coupon: through Cecília's referral link, the person who subscribes gets US$ 100 in the US (£ 40 in the UK) after two months of subscription, as credit on the bill, and the person who referred gets the same amount.",
-        "Is Starlink worth it in a city? With stable fiber at your address, compare installation, monthly bills and any equipment fee before you switch.",
-        "Is Starlink better than fiber? Without good fiber at your location, it is worth pricing Starlink and checking for open sky to mount the dish. If both are available, compare stability and cost at your address.",
+        "Is Starlink worth it in a city? It depends on how good your current fiber really is. If it is cheap and stable, it tends to win on cost. If it drops often or delivers far below what you pay for, Starlink can be worth it as an alternative or backup, as long as you have open sky. That was our case.",
+        "Is Starlink better than fiber? On peak speed and latency, healthy fiber usually has the edge. On continuity against local outages and cables cut in the street, Starlink helps because it is a route independent of the local provider.",
         "Is Starlink good for gaming? Test the latency and the interruptions at your own address. The typical range Starlink publishes is a general reference.",
-        "Do I have to buy the Starlink kit? On the Reno order page the hardware was a rental with $0 upfront and $0 a month, and you return it if you cancel.",
-        "How much does Starlink cost per month? On the Reno order page, Residential 100 Mbps was $38.50 and Max was $91 a month. The price changes with the address."
+        "Is Starlink unlimited? Starlink advertises unlimited data on residential plans. Check the speed limits of the plan shown on your order.",
+        "How much does Starlink cost per month? In Nevada, Residential 100 Mbps was $38.50, 200 Mbps was $59.50 and Max was $91 a month with the offer; the standard prices are $55, $85 and $130. In London they were £40, £60 and £80. The price changes with the address.",
+        "Can I use Starlink as a backup for my fiber? Yes. With a Dual-WAN router with failover, Starlink takes over when the fiber drops; without one, you can switch networks by hand. Check Starlink support for what your model needs for bypass mode."
       ]
     }
   ],
   "decision": {
     "takeIf": [
       "no stable fiber or cable reaches your address and cellular home internet is weak there.",
-      "you are fine with a rental kit that goes back if you cancel, and you will check the price on your own order page."
+      "even where cheap fiber is available, your local network drops often or delivers far below the contracted speed, and you need a reliable alternative or backup connection.",
+      "you checked the view of the sky in the Starlink app and are fine with a rental kit that goes back if you cancel."
     ],
     "skipIf": [
-      "stable fiber or cable already reaches you, so Starlink would only add a second bill.",
-      "you depend on online gaming with fast response, and the company does not promise a latency figure for your address."
+      "you already have genuinely stable fiber or cable that delivers its contracted speed, without frequent outages that call for redundancy.",
+      "you depend on competitive online gaming with guaranteed minimum latency: Starlink publishes a typical response range but does not promise a figure for your address."
     ]
   },
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Enter your address on the Starlink site and check the plan, the kit and the monthly price before you pay.",
-    "label": "See plans at my address",
+    "text": "You pay the same price as on the official site, keep the 30 days to return the kit if it does not work on your roof, and get US$ 100 in the US (£ 40 in the UK) as credit on your bill after two months of subscription, once the rules are met.",
+    "label": "See my address on starlink.com with the referral",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
   "affiliate": "starlink",
-  "editorialNote": "Prices read on the official order page, without completing a purchase. We have not used the service yet. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
+  "editorialNote": "We subscribed to Starlink ourselves as an alternative and backup to our unstable fiber. Plan prices and hardware terms in this guide were read directly from the official public order pages for the reference addresses. We take part in the Starlink referral program and may receive a reward if you subscribe through our link and meet the rules.",
   "relatedArticles": [
     {
       "slug": "starlink-contract-cancel-refund"

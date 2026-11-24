@@ -3,8 +3,8 @@
   "slug": "starlink-link-invito",
   "translationKey": "starlink-indicacao",
   "locale": "it",
-  "title": "Link di invito Starlink: come si usa e quando arriva la ricompensa",
-  "seoTitle": "Invito Starlink: come usare il link e ricevere",
+  "title": "Come ottenere 45 € in Italia acquistando il tuo primo Starlink con il link di invito",
+  "seoTitle": "Come ottenere 45 € sul tuo primo Starlink (invito)",
   "type": "Guida al codice invito",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Apri il link sul sito ufficiale e controlla la ricompensa nell'ordine prima di pagare. Scopri chi può usarlo, quando arriva l'importo e come scegliere tra credito e denaro.",
-  "metaDescription": "Come aprire il link di invito Starlink, trovare il valore nell'ordine e ricevere la ricompensa dopo aver rispettato le condizioni del programma.",
+  "description": "Starlink non ha codici sconto: ordina il tuo primo kit dal link di invito ufficiale, paga lo stesso prezzo del sito e ricevi 45 € in Italia dopo due mesi.",
+  "metaDescription": "Come ottenere 45 € in Italia sul tuo primo Starlink con il link di invito, quanto copre sui piani attuali e come attivarlo prima di pagare.",
   "publishedAt": "20 novembre 2026",
   "publishedAtISO": "2026-11-20",
   "updatedAt": "2026-11-23",
@@ -31,8 +31,126 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Apri il link di invito di Starlink e inserisci il tuo indirizzo. Prima di pagare, cerca la conferma dell'invito applicato e controlla il valore della ricompensa nell'ordine. Il programma vale per i nuovi clienti, e la ricompensa arriva dopo due cicli mensili completi, in credito di servizio o in denaro dove disponibile."
+        "Starlink non ha un codice coupon da incollare al checkout: oltre alle offerte del sito, il link di invito è il modo ufficiale per ricevere una ricompensa sul primo abbonamento. In Italia sono 45 € (in altri paesi l'importo nella tua valuta compare nell'ordine). Paghi lo stesso prezzo di starlink.com e mantieni i 30 giorni di prova; con il piano Residenziale 100 Mbps di Milano in offerta (17,50 €/mese), 45 € coprono oltre due mesi e mezzo. Apri il link prima di ordinare, verifica l'avviso dell'invito prima di pagare, attiva il kit e resta in regola per due cicli mensili. Se concludi l'ordine senza il link, non puoi aggiungerlo dopo."
       ]
+    },
+    {
+      "heading": "Perché conviene ordinare dal link",
+      "paragraphs": [
+        "Se apri starlink.com per conto tuo, hardware e canone costano come con il link. La differenza sono i 45 € che lasceresti sul tavolo. Il credito non abbassa il prezzo del kit il giorno dell'ordine: arriva in fattura dopo due cicli mensili completi e pagati.",
+        "I numeri qui sotto vengono da indirizzi di riferimento. Al tuo indirizzo prezzo, kit e condizioni possono essere diversi, e li mostra solo l'ordine."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-it-planos-milao.webp",
+        "alt": "Pagina d'ordine Starlink per Milano con il piano Residenziale 100 Mbps a 17,50 € al mese, 0 € di hardware e l'avviso di restituire il kit a noleggio",
+        "caption": "Milano: i piani della pagina d'ordine, consultati il 23 novembre 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.6065
+      },
+      "comparisonTable": {
+        "caption": "Prezzi letti su starlink.com il 23 novembre 2026, senza completare un acquisto. I prezzi in offerta valgono per 3 mesi con il 50% di sconto, poi si paga il prezzo pieno. Il credito non è uno sconto al pagamento: arriva dopo due cicli completi.",
+        "headers": [
+          "Scenario letto su starlink.com",
+          "Senza link di invito",
+          "Con il link di Cecília",
+          "Cosa copre il credito"
+        ],
+        "rows": [
+          [
+            "Italia, Residenziale 100 Mbps (Milano)",
+            "17,50 €/mese per 3 mesi (poi 35 €), 0 € di noleggio, 19 € oggi",
+            "Stesso ordine + 45 € di credito dopo 2 cicli pagati",
+            "Oltre 2 mesi e mezzo del piano in offerta e più del doppio della spedizione"
+          ],
+          [
+            "Italia, Residenziale 200 Mbps (Milano)",
+            "22,50 €/mese per 3 mesi (poi 45 €), 0 € di noleggio",
+            "Stesso ordine + 45 € di credito",
+            "Circa 2 mesi del piano in offerta"
+          ],
+          [
+            "Italia, Residenziale Max (Milano)",
+            "32,50 €/mese per 3 mesi (poi 65 €), 0 € di noleggio",
+            "Stesso ordine + 45 € di credito",
+            "Più di un mese del piano in offerta"
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Apri il mio ordine con il bonus di 45 €",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ],
+      "simulator": {
+        "title": "Prova il tuo scenario",
+        "scenarios": [
+          {
+            "label": "Milano 100 Mbps + link",
+            "lines": [
+              {
+                "label": "Noleggio del kit Mini X",
+                "value": "0 €, da restituire se disdici"
+              },
+              {
+                "label": "Canone in offerta (3 mesi)",
+                "value": "17,50 €/mese"
+              },
+              {
+                "label": "Credito di invito dopo 2 cicli pagati",
+                "value": "-45 € in fattura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Credito rispetto al canone",
+            "totalValue": "Oltre 2,5 mesi coperti",
+            "note": "Paghi lo stesso prezzo del sito e mantieni i 30 giorni di prova."
+          },
+          {
+            "label": "Milano 200 Mbps + link",
+            "lines": [
+              {
+                "label": "Noleggio del kit Standard 4",
+                "value": "0 €, da restituire se disdici"
+              },
+              {
+                "label": "Canone in offerta (3 mesi)",
+                "value": "22,50 €/mese"
+              },
+              {
+                "label": "Credito di invito dopo 2 cicli pagati",
+                "value": "-45 € in fattura",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Credito rispetto al canone",
+            "totalValue": "Circa 2 mesi coperti",
+            "note": "Oggi si pagano 19 € di spedizione; il credito arriva dopo, non al checkout."
+          },
+          {
+            "label": "Ordine senza link di invito",
+            "lines": [
+              {
+                "label": "Prezzo del kit e del piano",
+                "value": "Lo stesso che con il link"
+              },
+              {
+                "label": "Credito di invito",
+                "value": "0 €, non si può aggiungere dopo"
+              },
+              {
+                "label": "Ricompensa che resta sul tavolo",
+                "value": "45 € in Italia",
+                "highlight": true
+              }
+            ],
+            "totalLabel": "Ricompensa di invito ricevuta",
+            "totalValue": "0 €",
+            "note": "L'invito deve risultare nell'ordine originale, prima del pagamento."
+          }
+        ]
+      }
     },
     {
       "heading": "Come usare il link, passo dopo passo",
@@ -47,11 +165,27 @@
         "Attiva il kit e segui la prima fattura. Pagare il primo mese e attivare l'apparecchio fanno parte dei requisiti dell'invito."
       ],
       "image": {
-        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
-        "alt": "Antenna Starlink Standard e router",
-        "caption": "Antenna e router di Starlink. Foto di Starlink.",
+        "src": "/images/reviews/starlink/starlink-order-referral-applied-en.webp",
+        "alt": "Schermata d'ordine sul sito ufficiale di Starlink con il messaggio Referral Code Applied, che dice che tu e il tuo amico ricevete 100 $ a testa, in denaro o credito di servizio",
+        "caption": "Ordine sul sito ufficiale con il link di invito applicato (esempio del Nevada, USA).",
         "objectFit": "contain",
-        "aspectRatio": 1.3316
+        "aspectRatio": 0.8747
+      }
+    },
+    {
+      "heading": "Checklist prima di pagare",
+      "paragraphs": [
+        "Spunta ogni punto sullo schermo prima di pagare. Bastano due minuti e decidono se il credito risulta nel tuo ordine."
+      ],
+      "checklist": {
+        "title": "Prima di concludere l'ordine",
+        "items": [
+          "Ho aperto l'ordine dal link di invito di Cecília in questa stessa finestra, per non perdere il credito.",
+          "Ho controllato che la barra del browser resti su starlink.com prima di inserire qualsiasi dato.",
+          "Ho eseguito il test delle ostruzioni dell'app Starlink nel punto previsto per confermare il cielo libero.",
+          "Ho visto nel riepilogo dell'ordine l'avviso dell'invito applicato, il prezzo del kit e se c'è un vincolo di 12 mesi.",
+          "Ho salvato uno screenshot del riepilogo con il canone mensile e la regola dei 30 giorni prima di pagare."
+        ]
       }
     },
     {
@@ -59,10 +193,32 @@
       "paragraphs": [
         "Il valore dipende dal paese in cui ti registri e compare nel tuo account, per questo non lo indichiamo qui. Chi invita riceve lo stesso importo, in denaro o in credito di servizio.",
         "L'abbonamento deve restare attivo e in regola per due cicli mensili completi. Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, secondo il paese, l'account e la verifica dell'identità.",
-        "La forma standard è il credito in fattura. Se il tuo account offre il pagamento in denaro, apri Inviti dal sito, da browser, scegli il metodo di ricompensa e completa identificazione e dati bancari su Stripe."
+        "La forma standard è il credito in fattura. Se il tuo account offre il pagamento in denaro, apri Inviti dal sito, da browser, scegli il metodo di ricompensa e completa identificazione e dati bancari su Stripe. Il credito arriva in fattura e non riduce il prezzo del kit nell'ordine."
       ],
       "emphasis": "La ricompensa viene emessa solo dopo due cicli mensili completi di abbonamento attivo e in regola, di default come credito in fattura, e chi si abbona e chi invita ricevono lo stesso importo; quello del tuo paese compare nell'ordine.",
       "emphasisAfterParagraph": 3
+    },
+    {
+      "heading": "Aprire il link impegna a qualcosa? La prova di 30 giorni",
+      "paragraphs": [
+        "Aprire il link non impegna a nulla. Prezzo del piano, kit, disponibilità e l'eventuale vincolo compaiono solo dopo aver inserito un indirizzo su starlink.com.",
+        "Dopo il pagamento, Starlink concede 30 giorni per restituire il kit, secondo le condizioni della sua pagina. Se l'antenna non funziona sul tuo tetto, puoi disdire e rimandare l'apparecchio entro quel termine.",
+        "Per questo il link viene prima della prova: l'invito conta solo nell'ordine originale. Chi prova senza paga lo stesso il primo giorno e perde i 45 € se decide di tenere l'antenna."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-antena-roteador-oficial.webp",
+        "alt": "Antenna Starlink Standard e router",
+        "caption": "Antenna e router di Starlink. Foto di Starlink.",
+        "objectFit": "contain",
+        "aspectRatio": 1.3316
+      },
+      "links": [
+        {
+          "label": "Assicurati la ricompensa prima di ordinare",
+          "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Chi può usarlo",
@@ -79,15 +235,36 @@
       ]
     },
     {
-      "heading": "E l'offerta del Black Friday?",
+      "heading": "Quattro errori che fanno perdere il credito anche dopo aver cliccato",
       "paragraphs": [
-        "Nell'ordine che abbiamo letto a Milano compariva il 50% di sconto sui piani per 3 mesi, con scadenza al 30 novembre. Guarda [i conti del Black Friday Starlink](/it/reviews/starlink-black-friday-offerta) e controlla nell'ordine per il tuo indirizzo se compaiono sia l'offerta sia l'invito."
+        "Quasi tutti i crediti persi dipendono da una di queste quattro sviste."
+      ],
+      "bullets": [
+        "Comprare il kit da un rivenditore o su un marketplace. Il programma conta solo gli ordini fatti su starlink.com dal link.",
+        "Pagare senza controllare l'avviso. L'invito deve risultare nell'ordine originale e non si può aggiungere dopo: se manca l'avviso sullo schermo, riapri il link prima di pagare. Se cambi dispositivo o browser a metà ordine, riapri il link e ricontrolla l'avviso.",
+        "Usare il link essendo o essendo stato cliente. Il credito è solo per chi si abbona a Starlink per la prima volta.",
+        "Disdire troppo presto. Il credito richiede un abbonamento attivo e in regola per due cicli mensili completi, e l'emissione può partire da 60 giorni dopo l'attivazione."
       ]
     },
     {
-      "heading": "Come seguire la ricompensa",
+      "heading": "E l'offerta del Black Friday?",
       "paragraphs": [
-        "Nella sezione Inviti del sito o dell'app puoi seguire lo stato di chi si è abbonato dal tuo link. Starlink avvisa via email quando qualcuno fa l'ordine. Un invito può passare dalla verifica di idoneità prima di generare la ricompensa."
+        "Nell'ordine che abbiamo letto a Milano compariva il 50% di sconto sui piani per 3 mesi, con scadenza al 30 novembre. Guarda [i conti del Black Friday Starlink](/it/reviews/starlink-black-friday-offerta) e controlla nell'ordine per il tuo indirizzo se compaiono sia l'offerta sia l'invito.",
+        "Nel riepilogo dell'ordine di Milano per il piano 100 Mbps, Starlink mostrava 35 € meno 17,50 € per 3 mesi, il kit Mini X a noleggio a 0 € e 19 € da pagare oggi. Se il vincolo ti preoccupa, leggi la [guida a contratto e disdetta di Starlink](/it/reviews/starlink-contratto-disdetta) e [se Starlink conviene](/it/reviews/starlink-conviene)."
+      ],
+      "image": {
+        "src": "/images/reviews/starlink/starlink-it-riepilogo-milao.webp",
+        "alt": "Riepilogo dell'ordine Starlink a Milano: 35 € meno 17,50 € per 3 mesi, kit Mini X a 0 € e 19 € da pagare oggi",
+        "caption": "Milano: riepilogo dell'ordine del piano Residenziale 100 Mbps, consultato il 23 novembre 2026.",
+        "objectFit": "portrait",
+        "aspectRatio": 0.6709
+      }
+    },
+    {
+      "heading": "Come seguire la ricompensa e usare il tuo link",
+      "paragraphs": [
+        "Nella sezione Inviti del sito o dell'app puoi seguire lo stato di chi si è abbonato dal tuo link. Starlink avvisa via email quando qualcuno fa l'ordine. Un invito può passare dalla verifica di idoneità prima di generare la ricompensa.",
+        "Quando sei cliente attivo di un piano Residenziale o Viaggio idoneo, puoi invitare a tua volta, e chi invita riceve lo stesso importo del nuovo cliente. L'importo del tuo paese compare nell'ordine di chi si abbona."
       ]
     },
     {
@@ -99,15 +276,16 @@
         "Quando arriva la ricompensa di Starlink? Il centro assistenza indica che l'emissione può partire da 60 giorni dopo l'attivazione, se l'invito rispetta le condizioni del programma.",
         "L'invito vale se compro da un rivenditore? Il programma richiede l'acquisto diretto su starlink.com tramite il link.",
         "Sono già stato cliente, posso usare il link? La ricompensa è per chi si abbona a Starlink per la prima volta.",
-        "Il link di invito funziona anche in Italia? Secondo il centro assistenza, l'invito vale nella maggior parte dei paesi in cui Starlink vende. Il valore cambia da paese a paese e si vede nell'account."
+        "Il link di invito funziona anche in Italia? Secondo il centro assistenza, l'invito vale nella maggior parte dei paesi in cui Starlink vende. Il valore cambia da paese a paese e si vede nell'account.",
+        "Posso aggiungere l'invito dopo aver pagato? No. Starlink richiede che l'invito risulti nell'ordine originale, fatto su starlink.com con un link di invito, prima del pagamento."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Controlla la ricompensa che compare nell'ordine per il tuo indirizzo prima di pagare.",
-    "label": "Vedi l'invito nell'ordine",
+    "text": "Paghi esattamente lo stesso prezzo del sito ufficiale, mantieni i 30 giorni per restituire il kit se non funziona sul tuo tetto e ti assicuri 45 € di credito in Italia dopo due cicli mensili.",
+    "label": "Attiva il tuo bonus da 45 € su starlink.com",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },
