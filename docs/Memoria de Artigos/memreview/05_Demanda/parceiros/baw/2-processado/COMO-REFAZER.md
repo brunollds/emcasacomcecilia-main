@@ -3,8 +3,8 @@
 Comandos na raiz do repositório, com Node 18 ou mais novo, sem dependências. Cada gerador lê só o bruto guardado e para
 com erro em célula vazia, id repetido ou evidência que não existe. Rodar duas vezes dá o mesmo arquivo.
 
-Esta primeira versão foi escrita pela sessão da etapa 2 só com a parte do catálogo, como pede o brief dela. As outras
-etapas e a coordenação acrescentam as suas linhas.
+A primeira versão foi escrita pela sessão da etapa 2, com a parte do catálogo. A coordenação acrescentou a etapa 3 e a
+etapa 4 no fechamento de insumos de 24/11/2026, depois de rodar os geradores num checkout limpo da `main` (`d9748c8c`).
 
 ## Catálogo (etapa 2)
 
@@ -41,3 +41,28 @@ Ressalvas:
   Lista nova sem linha na tabela faz o script parar.
 - A data `lido_em` é constante no script.
 - O checkout no Windows pode trocar a quebra de linha: compare o resultado com `git diff`, não por hash.
+
+## Interesse externo (etapa 3)
+
+| Arquivo | Coletas de origem | Como gerar | Última geração |
+|---|---|---|---|
+| `sinais.csv` e `resumo-sinais.md` | as cinco coletas `1-bruto/20261118-2045-*` a `20261118-2054-*` | `node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/2-processado/gerar-sinais.cjs"` | 2026-11-18, etapa 3; conferido igual em 24/11 |
+
+O gerador para em célula vazia, id repetido, entidade fora do catálogo ou evidência que não confere no bruto. Coleta nova
+do autocompletar (pasta nova, nunca a mesma), com 3 a 5 segundos entre pedidos e parada no primeiro HTTP diferente de 200:
+
+```bash
+node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/2-processado/coletar-autocompletar.cjs" <sementes.tsv> <pasta-da-coleta>
+```
+
+## Dados do parceiro e cobertura (etapa 4)
+
+| Arquivo | Origem | Como gerar | Última geração |
+|---|---|---|---|
+| `nossos-dados.csv` e `comercial.csv` (4A) | `_site/` (snapshot de 17/11), coleta de IA e as duas coletas do recorte dirigido | `node "docs/Memoria de Artigos/memreview/05_Demanda/parceiros/baw/2-processado/etapa4-montar.mjs"` | 2026-11-18, etapa 4 (#1138, #1190, #1192, #1193); conferido igual em 24/11 |
+| `cobertura.csv` (4B) | `content/reviews/` e `couponsData.ts` | o mesmo comando | 2026-11-18, etapa 4 (#1140) |
+
+Ressalva: a parte 4B lê os artigos como estão no disco. Em 24/11 ela parou com erro, porque a reforma de 22/11 (#1339)
+renomeou capítulos que o gerador procura. Até a cobertura nova, o `cobertura.csv` só se refaz num checkout de 18/11, e a
+próxima versão do gerador deve ler os artigos num commit fixo (`git show <commit>:content/reviews/...`), registrado no
+relato.
