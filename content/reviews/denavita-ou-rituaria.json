@@ -49,7 +49,7 @@
     "takeIf": [
       "Denavita: você quer ômega 3 pelo menor preço por dia, ou o pote de coenzima Q10 mais barato, com o código.",
       "Rituária: você quer NAC com 600 mg por cápsula, sem o polivitamínico, coenzima Q10 com mais miligramas por real ou ômega 3 com certificação IFOS, e dá peso à nota maior no Reclame Aqui.",
-      "As duas: você quer magnésio ou NAC e vai decidir pela fórmula, já que o preço por dia é o mesmo."
+      "As duas: você quer magnésio ou NAC e vai decidir pela fórmula, já que o preço por frasco é o mesmo."
     ],
     "skipIf": [
       "Denavita: você quer magnésio ou NAC em cápsula sem gelatina; as da Denavita são de gelatina.",
@@ -67,7 +67,7 @@
     {
       "heading": "Magnésio e NAC: o que cada rótulo informa",
       "paragraphs": [
-        "Os dois pares têm o mesmo preço no site, então a diferença está na fórmula. Os números abaixo são os das páginas de produto de cada loja."
+        "Os dois pares têm o mesmo preço por frasco no site, então a diferença está na fórmula. Os números abaixo são os das páginas de produto de cada loja."
       ],
       "comparisonTable": {
         "caption": "Fichas das páginas de produto. A Rituária não traz imagem de tabela nutricional na galeria do magnésio, e os valores dela vêm do texto e do FAQ da loja.",
@@ -121,7 +121,7 @@
       },
       "postParagraphs": [
         "Os números de magnésio não se comparam direto. A Denavita publica 210 mg na tabela; a Rituária lista os sais e fala em 152 mg de magnésio elementar na resposta do FAQ, sem tabela na galeria. Antes de comparar, vale pedir à loja a mesma base, por porção.",
-        "No NAC, as fórmulas não são equivalentes: a da Denavita é um polivitamínico com NAC; a da Rituária, NAC com dois minerais. A tabela e o FAQ da Denavita imprimem “Iodo (mg) 150”, como está escrito; a unidade a loja pode esclarecer."
+        "No NAC, as fórmulas não são equivalentes: a da Denavita é um polivitamínico com NAC; a da Rituária, NAC com dois minerais. A ficha da Denavita imprime “150 mg” de iodo, mas a unidade deve ser conferida no rótulo. A página também traz valores diferentes de NAC: 600 mg por cápsula no texto e 300 mg de L-cisteína na fórmula."
       ],
       "images": [
         {
@@ -204,7 +204,7 @@
         "Os potes têm cápsulas e porções diferentes, então a comparação é pelo preço por dia, pela porção que a ficha de cada loja informa."
       ],
       "comparisonTable": {
-        "caption": "Preço de cada página em 23/11, em promoção, compra única, sem frete e sem Pix. A coluna do código é a conta de 10% sobre o preço da página.",
+        "caption": "Preço de cada página em 23/11, em promoção, compra única, sem frete e sem Pix. A coluna do código é a conta de 10% sobre o preço da página. No NAC da Denavita, o valor por dia supõe as 2 cápsulas do modo de uso; a página cita 1 cápsula em outro trecho.",
         "headers": [
           "Par",
           "Loja e pote",
@@ -279,7 +279,7 @@
         ]
       },
       "postParagraphs": [
-        "Conta nossa: o preço da página, vezes 0,9, dividido pelos dias que o pote rende na porção da ficha. Magnésio e NAC empatam; em ômega 3 e no pote de coenzima Q10, a Denavita é mais barata com o mesmo número de dias. Por 100 mg de coenzima Q10, a conta inverte: R$ 1,89 por 100 mg na Denavita (100 mg por cápsula) e R$ 1,40 na Rituária (R$ 2,10 ÷ 1,5, com 150 mg por cápsula). Preço igual ou menor por dia não quer dizer produto igual, como os dois capítulos anteriores mostram.",
+        "Conta nossa: o preço da página, vezes 0,9, dividido pelos dias que o pote rende na porção da ficha. Magnésio empata por dia e o NAC empata por frasco (o da Denavita, só se forem 2 cápsulas ao dia); em ômega 3 e no pote de coenzima Q10, a Denavita é mais barata com o mesmo número de dias. Por 100 mg de coenzima Q10, a conta inverte: R$ 1,89 por 100 mg na Denavita (100 mg por cápsula) e R$ 1,40 na Rituária (R$ 2,10 ÷ 1,5, com 150 mg por cápsula). Preço igual ou menor por dia não quer dizer produto igual, como os dois capítulos anteriores mostram.",
         "Não montamos par para o que só lemos de um lado: Laranja Moro e Tons, na Denavita ([Laranja Moro Denavita](/reviews/laranja-moro-denavita), [Denavita Tons](/reviews/denavita-tons)), e o Brain+, na Rituária ([Rituária Brain+](/reviews/rituaria-brain-para-que-serve))."
       ]
     },
@@ -412,13 +412,13 @@
     },
     {
       "heading": "Denavita ou Rituária: qual escolher por produto?",
-      "emphasis": "Em magnésio e NAC, o preço por dia empata e a escolha passa a ser a fórmula; em ômega 3, a Denavita custa menos por dia, porque o pote dela é mais barato para os mesmos 30 dias; em coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg (conta nossa).",
+      "emphasis": "Em magnésio, o preço por dia empata, e em NAC o preço por frasco empata; nos dois, a escolha passa a ser a fórmula; em ômega 3, a Denavita custa menos por dia, porque o pote dela é mais barato para os mesmos 30 dias; em coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg (conta nossa).",
       "paragraphs": [
         "Entre os produtos comparados:"
       ],
       "bullets": [
         "**Quer magnésio:** o preço empata. A Denavita publica 210 mg de magnésio na tabela, em cápsula de gelatina; a Rituária usa cápsula vegana e põe L-treonina e vitamina B6 na fórmula.",
-        "**Quer NAC:** o preço empata. A Rituária tem 600 mg de NAC por cápsula, com selênio e molibdênio; a Denavita é um polivitamínico com NAC, de 2 cápsulas por dia.",
+        "**Quer NAC:** o preço por frasco empata. A Rituária tem 600 mg de NAC por cápsula, com selênio e molibdênio; a Denavita é um polivitamínico com NAC, de 2 cápsulas por dia.",
         "**Quer coenzima Q10:** a Rituária tem 150 mg de coenzima Q10 por cápsula, contra 100 mg da Denavita, que também leva ômega 3 vegetal; por dia, o pote da Denavita sai mais barato, mas por 100 mg de coenzima Q10 a da Rituária custa menos (conta nossa).",
         "**Quer ômega 3:** a Denavita custa menos por dia que as duas fórmulas da Rituária. A Rituária tem certificação IFOS e separa a fórmula por foco, e a base dos números da Denavita não está explícita.",
         "**Pesa a reputação no atendimento:** a Rituária tem nota maior no Reclame Aqui, e as duas respondem a todas as reclamações."
@@ -445,8 +445,8 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Qual é o cupom da Denavita e o da Rituária? O cupom das duas é o EMCASA, com 10% OFF no site oficial de cada loja, para cliente novo ou antigo. Cada loja tem o seu carrinho, então são dois pedidos, e o código vale em cada um.",
-        "Denavita ou Rituária, qual é melhor? Depende do produto: em magnésio e NAC o preço por dia empata e a escolha é pela fórmula; no ômega 3, a Denavita sai mais barata por dia; na coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg; no Reclame Aqui, a Rituária tem a nota maior. Os perfis estão no capítulo do veredito.",
-        "Qual sai mais barata por dia? Por pote e por dia, a Denavita custa o mesmo ou menos nos quatro pares. Na coenzima Q10, por 100 mg, a Rituária custa menos (conta nossa). O produto não é igual em todos os pares, então vale olhar o rótulo antes do preço.",
+        "Denavita ou Rituária, qual é melhor? Depende do produto: em magnésio o preço por dia empata e em NAC o preço por frasco empata, e a escolha é pela fórmula; no ômega 3, a Denavita sai mais barata por dia; na coenzima Q10, o pote da Denavita é mais barato, mas a Rituária custa menos por 100 mg; no Reclame Aqui, a Rituária tem a nota maior. Os perfis estão no capítulo do veredito.",
+        "Qual sai mais barata por dia? Por pote, a Denavita custa o mesmo ou menos nos quatro pares. Na coenzima Q10, por 100 mg, a Rituária custa menos (conta nossa). O produto não é igual em todos os pares, então vale olhar o rótulo antes do preço.",
         "O código soma com a promoção? Na Rituária, o EMCASA somou com o “Leve 3, Pague 2” no carrinho que testamos. Na Denavita, ele entrou sobre preço promocional e kits; nas opções por quantidade, confira a linha “Cupom de desconto” no resumo.",
         "As duas têm Anvisa? Não lemos número de notificação em nenhuma das duas páginas. A Rituária diz, no FAQ do 4Mag, seguir as normas e as especificações da Anvisa, o que é uma declaração da loja, não uma aprovação. Confira o rótulo do pote que chegar.",
         "Onde comprar? Nos sites oficiais de cada loja, onde o código vale. Não conferimos as duas em marketplaces."
