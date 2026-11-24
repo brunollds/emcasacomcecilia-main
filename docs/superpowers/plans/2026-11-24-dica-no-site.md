@@ -18,11 +18,11 @@ fora do limite, uma busca local por frase inteira faz o mesmo papel. A caixa no 
 - Pergunta de 2 a 200 caracteres (depois de `trim`).
 - Limites por IP (`cf-connecting-ip`, senão o primeiro de `x-forwarded-for`): 1 a cada 3 s, 8 em 5 min, 25 por dia.
 - Teto diário global de chamadas à IA: `DICA_AI_DAILY_LIMIT`, padrão 1500; o dia vira à meia-noite de Brasília.
-- Cache de resultado: 60 min, até 500 entradas, chave = pergunta normalizada.
-- IA: modelo `claude-haiku-5-5`, chave `ANTHROPIC_API_KEY_DICA_SITE`, `max_tokens` 300, tempo máximo 4 s.
+- Cache: 60 min, até 500 entradas, chave = pergunta normalizada. Guarda só a interpretação (`terms`, `searchTerm`, `outOfScope`, `viaFallback`), nunca o cartão: o cartão é montado a cada resposta com o código vigente.
+- IA: modelo `process.env.DICA_AI_MODEL`, padrão `claude-haiku-5-5` (o mesmo do `emc-whatsapp`), chave `ANTHROPIC_API_KEY_DICA_SITE`, `max_tokens` 300, tempo máximo 4 s.
 - Até 5 lojas por resposta.
 - Busca do Dicas: `https://dicas.emcasacomcecilia.com/?q=<encodeURIComponent(termo)>`.
-- Perguntas guardadas: JSONL por dia em `DICA_LOG_DIR`, 90 dias, sem IP, cookie, user agent ou sessão; sem a
+- Perguntas guardadas: JSONL por dia em `DICA_LOG_DIR` (produção: `/home/u150185510/domains/emcasacomcecilia.com/logs/dica`), 90 dias, sem IP, cookie, user agent ou sessão; sem a
   variável, não grava.
 - Nunca preço, estoque ou frete. Nunca "cupom" para o CECILIA010 (código de recompensa).
 - Nenhum arquivo `'use client'` importa `@/lib/dica/*` (exceto `dicaTypes.ts`, só tipos), `couponsData.ts` ou o catálogo.
@@ -149,7 +149,7 @@ fora do limite, uma busca local por frase inteira faz o mesmo papel. A caixa no 
 **Interfaces:**
 - Consumes: `getVocabulary` (Task 1).
 - Produces: `interpretQuestion(question: string, opts?: { fetchImpl?: typeof fetch; apiKey?: string; timeoutMs?: number }): Promise<{ terms: string[]; searchTerm: string; outOfScope: boolean } | null>`. Devolve `null` (a rota cai na reserva) sem chave, em erro HTTP, em JSON inválido ou no tempo esgotado.
-- Chamada: `POST https://api.anthropic.com/v1/messages`, headers `x-api-key`, `anthropic-version: 2023-06-01` e `content-type`; `model: 'claude-haiku-5-5'`, `max_tokens: 300`, `system` em dois blocos (instrução + vocabulário com `cache_control: { type: 'ephemeral' }`), `AbortSignal.timeout(4000)`.
+- Chamada: `POST https://api.anthropic.com/v1/messages`, headers `x-api-key`, `anthropic-version: 2023-06-01` e `content-type`; `model: process.env.DICA_AI_MODEL || 'claude-haiku-5-5'`, `max_tokens: 300`, `system` em dois blocos (instrução + vocabulário com `cache_control: { type: 'ephemeral' }`), `AbortSignal.timeout(4000)`.
 - Instrução do sistema, base (adaptada do DICA): "Você interpreta perguntas de compra para o site Em Casa com Cecília. Responda só com JSON `{"termos": [...], "buscaDicas": "...", "foraDeEscopo": false}`. `termos` traz apenas entradas copiadas exatamente do VOCABULÁRIO, e só quando são o mesmo produto pedido: um item composto ou mais específico (sofá-cama, anel de prata) não casa um termo mais geral (sofá, acessório). `buscaDicas` é o produto pedido em 1 a 4 palavras. `foraDeEscopo` é true quando a mensagem não é sobre achar produto ou loja. Não escreva mais nada."
 - Termo devolvido fora do vocabulário é descartado (comparação por `normalize`, devolve o `term` original).
 
@@ -173,11 +173,12 @@ fora do limite, uma busca local por frase inteira faz o mesmo papel. A caixa no 
 - Produces, em `limits.ts`:
   - `checkVisitor(ip: string, now?: number): { ok: true } | { ok: false; retryAfterSec: number }`: as três janelas das Global Constraints, em memória, limpando entradas vencidas a cada chamada.
   - `takeAiSlot(now?: number): boolean`: conta o teto diário (dia de Brasília); `false` quando estourou.
-  - `cacheGet(key: string, now?: number): DicaAnswer | undefined` e `cacheSet(key: string, value: DicaAnswer, now?: number): void`: 60 min, 500 entradas, sai a mais antiga.
+  - `type DicaInterpretation = { terms: string[]; searchTerm: string; outOfScope: boolean; viaFallback: boolean }`
+  - `cacheGet(key: string, now?: number): DicaInterpretation | undefined` e `cacheSet(key: string, value: DicaInterpretation, now?: number): void`: 60 min, 500 entradas, sai a mais antiga.
   - `resetDicaLimitsForTests(): void`.
 - Produces, em `questionLog.ts`:
   - `scrubPersonalData(text: string): string`: troca por `[removido]` e-mail, CPF (com ou sem pontuação), telefone (8 a 13 dígitos com ou sem DDD, parênteses e hífen) e qualquer sequência de 6+ dígitos.
-  - `logQuestion(entry: { question: string; result: DicaResult; slugs: string[]; searchTerm?: string }, opts?: { dir?: string; now?: Date }): Promise<void>`: sem `dir` (padrão `process.env.DICA_LOG_DIR`), não faz nada; grava uma linha JSON `{ at, q, result, slugs, searchTerm }` em `<dir>/dica-AAAA-MM-DD.jsonl` (dia de Brasília); apaga arquivos `dica-*.jsonl` com mais de 90 dias; erro de disco nunca sobe.
+  - `logQuestion(entry: { question: string; result: DicaResult; slugs: string[]; searchTerm?: string }, opts?: { dir?: string; now?: Date }): Promise<void>`: sem `dir` (padrão `process.env.DICA_LOG_DIR`), não faz nada; grava uma linha JSON `{ at, q, result, slugs, searchTerm }`, com `scrubPersonalData` em `q` e em `searchTerm` em `<dir>/dica-AAAA-MM-DD.jsonl` (dia de Brasília); apaga arquivos `dica-*.jsonl` com mais de 90 dias; erro de disco nunca sobe.
 
 - [ ] **Step 1: Write the failing tests:**
   - 1ª pergunta ok, 2ª em 1 s bloqueada, a 9ª em 5 min bloqueada, a 26ª no dia bloqueada (avançando `now`);
@@ -245,6 +246,8 @@ Começa quando o desenho do Gemini chegar. O que já está decidido:
 - Modify: as páginas onde aparece: `src/app/(pt)/page.js`, `src/app/(pt)/cupons/page.tsx`, `src/app/(pt)/reviews/page.tsx` e `src/app/(festival)/blackfriday/page.tsx`
 
 **Interfaces:**
+- Modify: `src/components/coupons/CouponActions.tsx` (`| 'dica'` em `CopyPlacement`)
+- Desenho aprovado do Gemini (24/11): `docs/superpowers/specs/2026-11-24-dica-caixa-gemini.md`.
 - Consumes: só `import type` de `@/lib/dica/dicaTypes`; `CopyAndOpenStoreLink`/`useCopyCode` de `CouponActions.tsx` para copiar e ir; `trackEvent`.
 - Eventos: `dica_open`; `dica_answer` com `{ resultado, lojas }` (sem o texto); `coupon_copy` e `coupon_store_click` com `placement: 'dica'`; clique no Dicas: `dica_dicas_click`.
 - Só aparece depois que o `ConsentBanner` fecha (mesma checagem do `LanguageSuggestion`); animação só em `motion-safe:`; utilitários lógicos (o `test:rtl` não cobre PT, mas manter o padrão).
