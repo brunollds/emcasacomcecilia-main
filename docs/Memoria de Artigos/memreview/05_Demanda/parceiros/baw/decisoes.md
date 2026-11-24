@@ -16,4 +16,4 @@ vale agora, a quem foi avisado e quando a sessão confirmou a leitura.
 - **Agora:** a mesma sessão faz a releitura numa coleta nova, numa branch nova a partir da `main`, e mexe só nos
   arquivos dela (coleta, gerador, `sinais.csv`, `resumo-sinais.md` e relato).
 - **Avisado:** mensagem 3 da coordenação à sessão da etapa 3, em 24/11 às 18:00; o turno dela começou com a mensagem.
-  Confirmação de leitura: a registrar quando ela responder.
+  Confirmação de leitura: em 24/11 às 18:12 ("Li a mensagem 3"), antes de agir.
