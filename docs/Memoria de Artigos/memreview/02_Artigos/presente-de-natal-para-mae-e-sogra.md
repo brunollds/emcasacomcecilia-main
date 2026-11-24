@@ -11,9 +11,9 @@ reviewKind: "guia"
 type: "Guia de Presentes"
 anexo_tipo: "Anexo-Beleza"
 pauta_id: "NT3"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "redacao"
 bloqueado_por: null
 score_autoridade: 52
 score_conversao: 66
@@ -28,6 +28,8 @@ status_i18n: "nao-aplicavel"
 ---
 
 # Briefing de Pauta: Presente de Natal para mãe e sogra por faixa de preço (NT3)
+
+> **Decisão do Bruno (24/11/2026): a faixa do presente sai pelo preço de tabela.** O preço que o leitor paga no dia vai à tabela com a data, mas é o preço de tabela que põe o item em "até R$ 50", "até R$ 100" ou "até R$ 150". A promoção de Black Friday não muda a faixa. Releitura depois da campanha, de 28/11 em diante: o item cuja tabela passa do teto troca de faixa ou sai. Na loja que mostra riscado o ano todo (a Barbour's riscava R$ 199,90 num kit de R$ 79,90 em 24/11), vale como tabela o preço que a loja cobra fora de campanha, lido depois da Black Friday; o riscado nunca aparece no texto.
 
 Leituras de catálogo, de 24/11/2026: [[presente-de-natal-para-mae-e-sogra-leituras-2411]] (na pasta do scratchpad). Artigo de várias lojas (`affiliate` em lista, sem `coupon` nem `cta`, sem loja principal), no molde da IL2. Pauta da Fila (NT3), com GO do Bruno em 24/11.
 
@@ -133,7 +135,7 @@ Notas da tabela: a faixa é do preço de tabela, como a regra pede; o preço do 
 
 ## Perguntas para o Bruno
 
-1. **Faixa pelo preço de tabela.** A regra põe a Simple Organic e a Barbour's em faixas acima do que se paga hoje (o hidratante de R$ 27 cai em "até R$ 100" porque a tabela é R$ 54). O texto diz "faixa pelo preço cheio, sem campanha" e não mostra o riscado: confirma?
+1. **(Decidida em 24/11: preço de tabela.) Faixa pelo preço de tabela.** A regra põe a Simple Organic e a Barbour's em faixas acima do que se paga hoje (o hidratante de R$ 27 cai em "até R$ 100" porque a tabela é R$ 54). O texto diz "faixa pelo preço cheio, sem campanha" e não mostra o riscado: confirma?
 2. **Link de produto da Barbour's.** O link da parceria é o GoGroup, que não se abre para teste. Sem caminho de produto testado, os links de produto da Barbour's ficam sem `href` até você dizer como montar o link de atribuição.
 
 ## Matriz de claims

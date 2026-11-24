@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presentes"
 anexo_tipo: "Anexo-Beleza"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "redacao"
 bloqueado_por: null
 score_autoridade: 58
 score_conversao: 74
@@ -28,6 +28,8 @@ coupon: null
 ---
 
 # Briefing de Pauta: Presente de amigo secreto feminino até R$ 50, R$ 100 e R$ 150 (NT1)
+
+> **Decisão do Bruno (24/11/2026): a faixa do presente sai pelo preço de tabela.** O preço que o leitor paga no dia vai à tabela com a data, mas é o preço de tabela que põe o item em "até R$ 50", "até R$ 100" ou "até R$ 150". A promoção de Black Friday não muda a faixa. Releitura depois da campanha, de 28/11 em diante: o item cuja tabela passa do teto troca de faixa ou sai. Na loja que mostra riscado o ano todo (a Barbour's riscava R$ 199,90 num kit de R$ 79,90 em 24/11), vale como tabela o preço que a loja cobra fora de campanha, lido depois da Black Friday; o riscado nunca aparece no texto.
 
 Par da IL2 ([[presente-amigo-secreto-masculino]], no ar desde 11/11). Artigo de várias lojas
 ([[project-artigo-varias-lojas]]): `affiliate` em lista, sem `coupon` nem `cta`, sem loja principal.
@@ -103,7 +105,7 @@ de compra (teto e presente), sem busca de marca.
 | Barbour's | Kit My Sweet Delight: Body Splash, Body Cream e Óleo de Banho | R$ 149,90 | R$ 134,91 | até 150 |
 | Skelt | Duo Hidden Flowers: Body Cream + Creme para Mãos (tabela R$ 130,37) | R$ 104,30 | R$ 93,87 | até 150 |
 
-Riscado da Barbour's não entra em nenhuma linha. Faixa decidida pelo preço do dia (ver a pergunta 1).
+Riscado da Barbour's não entra em nenhuma linha. A coluna "Faixa" acima usou o preço do dia e **vale só como rascunho**: pela decisão de 24/11, a faixa é a do preço de tabela, relida de 28/11 em diante. A Skelt já mostra a tabela (o body splash e o body cream de R$ 99,90 continuam em "até 100"; o duo de R$ 130,37, em "até 150"); a Barbour's é reclassificada na releitura.
 
 ## Frete (o que a loja informa, sem conta de frete sem base)
 - **Barbour's, política (dossiê de 18/11):** grátis acima de R$ 119 (SP); R$ 149 (ES, RJ, MG); R$ 169 (Sul e
@@ -159,9 +161,7 @@ por faixa, com `href` e `store` (Barbour's ou Skelt). Nenhuma foto de antes e de
 - **Score B (visita e conversão):** 74/100. Tabela com código e frete em cada faixa, e a ligação direta à loja.
 
 ## Perguntas para o Bruno (não travam a redação; a sugestão vem junto)
-1. **Base da faixa:** a Barbour's marca riscado alto em quase tudo (o kit de R$ 79,90 aparece riscado a R$ 199,90).
-   Sugestão: decidir a faixa pelo preço do dia, sem riscado, e reler em 01/12. A alternativa é usar só a Skelt,
-   que tem preço de tabela no catálogo, e perder os kits da Barbour's.
+1. **Base da faixa (decidida em 24/11):** preço de tabela. Ver a decisão no topo.
 2. **Navegador:** liberar a leitura, pelo caminho do cliente e sem login, de três pontos: frete abaixo do mínimo
    da Barbour's, troca de presente das duas lojas, e o frete da Skelt em SP (a simulação cobra e a política diz
    que não). Sugestão: sim, são três fatos e não passam pela API.

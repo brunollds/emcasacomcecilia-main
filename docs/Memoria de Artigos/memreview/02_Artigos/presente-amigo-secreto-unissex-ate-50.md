@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Presentes"
 anexo_tipo: "Anexo-Suplementos-Alimentos"
-status: "briefing"
+status: "pauta-aprovada"
 responsavel: "Job-1"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "redacao"
 bloqueado_por: null
 pauta_id: "NT2"
 i18n_cluster: null
@@ -24,6 +24,8 @@ coupon: null
 ---
 
 # Briefing de Pauta: Amigo secreto unissex até R$ 30 e R$ 50 (NT2)
+
+> **Decisão do Bruno (24/11/2026): a faixa do presente sai pelo preço de tabela.** O preço que o leitor paga no dia vai à tabela com a data, mas é o preço de tabela que põe o item em "até R$ 50", "até R$ 100" ou "até R$ 150". A promoção de Black Friday não muda a faixa. Releitura depois da campanha, de 28/11 em diante: o item cuja tabela passa do teto troca de faixa ou sai. Na loja que mostra riscado o ano todo (a Barbour's riscava R$ 199,90 num kit de R$ 79,90 em 24/11), vale como tabela o preço que a loja cobra fora de campanha, lido depois da Black Friday; o riscado nunca aparece no texto.
 
 Artigo de várias lojas ([[project-artigo-varias-lojas]]): `affiliate` em lista, sem `coupon` nem `cta`, sem loja
 principal. Leituras de hoje em [[presente-amigo-secreto-unissex-ate-50-leituras-2411]].
