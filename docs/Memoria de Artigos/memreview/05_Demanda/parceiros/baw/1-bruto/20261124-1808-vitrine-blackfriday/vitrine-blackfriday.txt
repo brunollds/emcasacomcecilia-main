@@ -1,0 +1,280 @@
+url: https://www.bawclothing.com.br/blackfriday/
+lido_em: 2026-11-24T18:08:47-03:00
+metodo: navegador embutido do app, sem login; get_page_text da página carregada (texto gravado pela sessão a partir da saída da ferramenta, como veio) e, na mesma página, um script que procurou palavras no texto inteiro e listou as imagens de destaque
+banner: a única imagem de destaque fora do menu é https://bawclothing.fbitsstatic.net/media/lp_pixblack.jpg?v=20261124205515 (2880 x 700, sem alt, sem link), guardada como veio em banner-blackfriday-lp_pixblack.jpg. Texto da imagem, lido pela sessão na tela e no recorte ampliado (captura-blackfriday-banner.png): "PIX NIGHT" / "Até 80%OFF" / "PAGUE 3, LEVE 4" / "NO SITE TODO +15%OFF NO PIX"
+busca no texto inteiro da página (sem diferenciar maiúsculas): "regulamento", "válid", "valid", "segunda peça", "2ª peça", "pague 3", "leve 4", "pix night", "pix", "até dia", "termina", "encerra", "/11", "novembro", "cupom" e "15%": nenhuma ocorrência; "última": só no título, "A ÚLTIMA BLACK FRIDAY DA BAW"
+
+--- texto da página ---
+Title: A ÚLTIMA BLACK FRIDAY DA BAW
+URL: https://www.bawclothing.com.br/blackfriday/
+Source element: <body>
+---
+VESTUÁRIO
+ACESSÓRIOS
+KIDS
+CALÇADOS
+NEWS
+BLACK FRIDAY
+INFLUS
+
+DIGITE AQUI O QUE PROCURA
+
+0
+Baw Clothing | A ÚLTIMA BLACK FRIDAY DA BAW
+BAW •
+A ÚLTIMA BLACK FRIDAY DA BAW
+
+FILTROS 6
+
+850 PRODUTOS
+
+VISUALIZAÇÃO
+
+ORDENAÇÃO
+Nome A-Z
+Vendas
+Menor Preço
+Maior Preço
+Data Lançamento
+Desconto Maior
+Desconto Menor
+
+28%
+OFF
+
+CAMISETA BR REGULAR FLAMING BAW
+
+R$ 79,00
+
+R$ 109,00
+
+
+
+20%
+OFF
+
+CAMISETA BR REGULAR SELFIE LOGO
+
+R$ 79,00
+
+R$ 99,00
+
+
+
+37%
+OFF
+
+CAMISETA BR REGULAR BAW SIGNATURE
+
+R$ 69,00
+
+R$ 109,00
+
+
+
+34%
+OFF
+
+CAMISETA BR REGULAR SELFIE LOGO
+
+R$ 79,00
+
+R$ 119,00
+
+
+
+34%
+OFF
+
+CAMISETA BR REGULAR SLIME
+
+R$ 79,00
+
+R$ 119,00
+
+
+
+51%
+OFF
+
+CAMISETA BR REGULAR TAGGIN LOGO
+
+R$ 49,00
+
+R$ 99,00
+
+
+
+CAMISETA BR REGULAR BOMBING
+
+R$ 69,00
+
+R$ 109,00
+
+
+
+CAMISETA BR REGULAR RUDE LOGO
+
+R$ 79,00
+
+R$ 119,00
+
+
+
+CAMISETA BR OVERSIZED BOMBING TYPE
+
+R$ 79,00
+
+
+
+CAMISETA BR OVERSIZED BAW MIRRORED
+
+R$ 79,00
+
+R$ 109,00
+
+
+
+CAMISETA BR OVERSIZED GUMMY BEAR
+
+R$ 79,00
+
+R$ 89,00
+
+
+
+CAMISETA BR OVERSIZED CITY LIGHTS
+
+R$ 79,00
+
+
+
+CAMISETA BR OVERSIZED PUPPET MASTER
+
+R$ 79,00
+
+R$ 119,00
+
+
+
+CAMISETA BR OVERSIZED MEISJE BAW
+
+R$ 79,00
+
+R$ 99,00
+
+
+
+CAMISETA BR OVERSIZED BROKEN HEART
+
+R$ 79,00
+
+R$ 89,00
+
+
+
+CAMISETA BR OVERSIZED PIN BAW
+
+R$ 79,00
+
+R$ 119,00
+
+
+
+REGATA BASIC UNDER
+
+R$ 89,00
+
+R$ 99,00
+
+
+
+REGATA UNDER TRIBE CHILLIBAW
+
+R$ 89,00
+
+R$ 129,00
+
+
+
+REGATA RIB CROPPED BAW COLORS
+
+R$ 79,00
+
+
+
+REGATÃO PERFORMANCE TRS X BAW
+
+R$ 99,00
+
+R$ 179,00
+
+
+
+BABY TEE BAW COLORWAYS
+
+R$ 69,00
+
+R$ 99,00
+
+
+
+BABY TEE FOOTBAW SOCCER DOGS
+
+R$ 89,00
+
+R$ 149,00
+
+
+
+BABY LOOK RIB BLACK N WHITE
+
+R$ 69,00
+
+R$ 99,00
+
+
+
+BABY TEE PATCH LOGO
+
+R$ 69,00
+
+R$ 129,00
+
+
+
+VER MAIS
+SHOP NOW
+SHOP NOW
+SHOP NOW
+SHOP NOW
+SHOP NOW
+
+FIQUE POR DENTRO
+
+PARA RECEBER NOVIDADES E CONTEÚDO EXCLUSIVO DA BAW, ASSINE NOSSA NEWSLETTER.
+
+PARA SABER COMO SEUS DADOS PESSOAIS SÃO TRATADOS, ACESSE NOSSA POLÍTICA DE PRIVACIDADE.
+
+CADASTRAR
+DADOS PESSOAIS
+MINHA CONTA
+MEUS PEDIDOS
+MEU CARRINHO
+DÚVIDAS FREQUENTES
+CENTRAL DE AJUDA
+ENTREGA E FRETE
+TROCAS E DEVOLUÇÕES
+FORMA DE PAGAMENTO
+POLÍTICA DE PRIVACIDADE
+NOSSAS LOJAS
+BLOG
+FALE CONOSCO
+SAC +55 (11) 94564-9626
+HORÁRIOS DE ATENDIMENTO
+SEG A SEX. DAS 09 ÁS 18H
+
+BAW CLOTHING - TODOS OS DIREITOS RESERVADOS - WAB COMPANY CNPJ:58.435.903/0001-85
+
+Baw Points
+Baw Points

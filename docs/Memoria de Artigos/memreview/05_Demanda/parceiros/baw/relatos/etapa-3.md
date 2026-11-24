@@ -216,3 +216,86 @@ Perguntas e buscas vistas hoje (literal no CSV; a conferência contra os artigos
    loja física, ou a pauta de loja física continua esperando a página `/nossas-lojas`?
 2. Os outlets do autocompletar (Catarina, Bom Retiro, Pinheiros, Teodoro Sampaio, Rua dos Italianos) são lojas da marca?
    Só a parceira responde; a primeira página não traz fonte oficial deles.
+
+## 9. Releitura da vitrine da Black Friday (24/11/2026)
+
+Pedida pela coordenação na mensagem 3 de 24/11, com aprovação do Bruno; fecha a primeira lacuna da seção 6 (P3 do
+`0-orientacao.md`), para a BW6 poder ser atualizada na semana de 27/11.
+
+- **Início:** `2026-11-24T18:07:58-03:00` (branch nova a partir de `origin/main`). **Fim:** `2026-11-24T18:15:55-03:00`. **Minutos:** 8.
+- **Coleta:** `1-bruto/20261124-1808-vitrine-blackfriday/`, com o `FONTE.md`. Navegador embutido sem login na
+  `/blackfriday/` (captura da tela, recorte do banner, texto da página e busca de palavras), o banner baixado como veio e
+  as duas vitrines inteiras pelo coletor da etapa 2 (13 pedidos, todos HTTP 200, 4 segundos de espera). Nenhum bloqueio,
+  nada no carrinho, nenhum login.
+- **Sinais:** `sin-baw-1076` a `sin-baw-1103` (28 linhas novas no fim do `sinais.csv`; as 1.075 de 18/11 ficaram iguais,
+  conferido com `diff` contra a `main`). O resumo ganhou a seção 7. Duas rodadas do gerador deram o mesmo SHA-256.
+
+### O que mudou na `/blackfriday`
+
+| Item | 16/11 (semente) | 18/11 (etapa 2) | 24/11 |
+|---|---|---|---|
+| Título | "A ÚLTIMA BLACK FRIDAY DA BAW" | igual | igual (`sin-baw-1083`) |
+| Produtos | 666 | 679 | 850 (`sin-baw-1076`) |
+| Banner | não guardado | "BLACK FRIDAY / Até 80%OFF / +30%OFF / NA SEGUNDA PEÇA" (`lp_sem_cupom.jpg`) | "PIX NIGHT / Até 80%OFF / PAGUE 3, LEVE 4 / NO SITE TODO +15%OFF NO PIX" (`lp_pixblack.jpg`; `sin-baw-1078` a `sin-baw-1080`) |
+| "+30% na segunda peça" | — | só no banner | em nenhum lugar das duas vitrines, nem no HTML (`sin-baw-1081`) |
+| Data de início ou fim | nenhuma | nenhuma | nenhuma (`sin-baw-1082`) |
+| Regulamento | nenhum | nenhum | nenhum (`sin-baw-1082`) |
+
+Trechos literais que decidem (texto da imagem, conferível na captura e no original): "PIX NIGHT", "Até 80%OFF",
+"PAGUE 3, LEVE 4", "NO SITE TODO +15%OFF NO PIX". A página não diz até quando vale a Pix Night, quais peças entram no
+"pague 3, leve 4", se os 15% do Pix valem sobre o preço da vitrine nem se somam com o nosso código. **Conclusão
+provisória:** a regra do banner só se confirma no carrinho, que esta releitura não abriu por regra da mensagem 3.
+
+Na `/black-friday` (`cat-baw-0042`): 349 produtos em 18/11, 315 agora (`sin-baw-1077`), sem banner, nenhum preço mudou
+nos 309 ids que ficaram.
+
+### Peças da semente, pelo `entidade_id`
+
+Preço lido na vitrine, sem código e sem Pix; o menor entre as cores (as outras cores estão em `limitacoes`).
+
+| Peça | Entidade | 16/11 | 24/11 | O que mudou |
+|---|---|---|---|---|
+| Camiseta Regular Goth 3.0 | `cat-baw-0366` | R$ 59 (de R$ 89) | R$ 59 (de R$ 89) | nada |
+| Camiseta BR Regular Locally Grown | `cat-baw-0218` | R$ 89 no Preto Stoned, R$ 79 em outras duas cores, sem "de" | R$ 79 nas três cores, com "de" R$ 109 (Preto Stoned e Cinza Mescla) e R$ 119 (Branco) | o Preto Stoned caiu de R$ 89 para R$ 79 e ganhou preço "de"; entrou na `/blackfriday` (em 18/11 não estava) |
+| Camiseta Regular Selfie Logo | `cat-baw-0380` | R$ 89 (de R$ 129) off white; outra cor R$ 79 (de R$ 99) | igual | nada |
+| Camiseta Oversized BAW Subscript | `cat-baw-0300` | R$ 89 (de R$ 159) | R$ 79 (de R$ 159), off white e preto | caiu para R$ 79 já em 18/11 e ficou |
+| Moletom Basic Label | `cat-baw-0429` | R$ 139 (de R$ 249) azul-escuro; outras R$ 179 | igual | a cor Preto (R$ 179) saiu da vitrine depois de 18/11 |
+| Moletom Hoodie BAW Subscript | `cat-baw-0446` | R$ 179 (de R$ 349); outra cor R$ 249 | igual | nada |
+| Calça Track BAW Tag | `cat-baw-0512` | R$ 149 (de R$ 349) amarelo flúor | igual; preto R$ 199 e off white R$ 219 | nada |
+| Bermuda Jeans Regular Logo | `cat-baw-0568` | R$ 129 (de R$ 199) | igual, nas três cores | nada |
+| Shorts Reverse Kids | `cat-baw-0100` | R$ 39 (de R$ 129) | igual, nas seis cores | nada |
+| Camiseta BR Kids (Classic Colors e Dices) | `cat-baw-0083`, `cat-baw-0087` | R$ 39, sem "de" | R$ 39, sem "de" | entraram na `/blackfriday` (em 18/11 não estavam) |
+| Tênis BAW Thunder | `cat-baw-0672` | R$ 169 (de R$ 399) | igual | nada |
+| Sandália Linus | `cat-baw-0677` | R$ 169 (de R$ 229); outras R$ 199 | igual | nada |
+
+Outros calçados da semente: Baseline (`cat-baw-0671`), Audacity (`cat-baw-0670`) e Slide BAW (`cat-baw-0678`) com os
+mesmos preços; Grip Mad (`cat-baw-0673`), Session Revival (`cat-baw-0674`) e Truck (`cat-baw-0675`) entraram na
+`/blackfriday` com os preços de 16/11; a Sandal Summer Party (`cat-baw-0676`) saiu das duas vitrines (`sin-baw-1103`).
+
+### A vitrine inteira, por `entidade_id` e por id de produto
+
+- **Peças que entraram e saíram (por slug, o `id_fonte` do catálogo):** 162 entraram e 39 saíram da `/blackfriday`
+  desde 18/11. Nove das que entraram não estão no `catalogo.csv` de 18/11 (lista no `resumo-sinais.md`, seção 7):
+  são peças novas para o dono do catálogo decidir.
+- **Preço no mesmo id (mesma cor):** 41 subiram, 68 desceram, 517 iguais. Exemplo de subida: Camiseta BR Regular Rude
+  Logo de R$ 49 para R$ 79 numa cor. O preço da vitrine se mexe dentro da campanha, nos dois sentidos.
+
+### Desvios
+
+- **Tipo de sinal:** o FORMATOS não tem tipo para a vitrine da própria loja; as linhas entraram como
+  `vitrine-marketplace`, o mais próximo, com a `fonte` "vitrine da loja oficial". Sugestão para a coordenação: um tipo
+  `vitrine-loja` na próxima revisão do FORMATOS.
+- **Coletor da etapa 2:** a lista inteira das vitrines saiu do `coletar.cjs` e do `extrair-listas.cjs` da etapa 2,
+  rodados sem mudança e gravando só na coleta nova. O gerador desta etapa lê os JSON dessa coleta e os de 18/11.
+- **Captura de tela:** em 18/11 este relato (desvio 1 e sugestão 1) e o `FONTE.md` da SERP disseram que o navegador
+  embutido não grava arquivo.
+  Não é bem assim: a ferramenta grava cada captura num arquivo da sessão, que se pode copiar para a coleta. Foi o que
+  se fez aqui. As leituras de 18/11 seguem como texto, sem captura.
+
+### Lacunas desta releitura, com destino
+
+| Lacuna | Destino |
+|---|---|
+| Regra do "Pague 3, leve 4", base dos 15% do Pix, soma com o BAWEMCASACOMCECILIA e fim da Pix Night | Carrinho de teste na semana do texto (redação da BW6 ou Bruno), sem compra |
+| Regulamento em outra página do site (home, central de ajuda) | Não investigado; quem atualizar a BW6 confere |
+| As nove peças novas fora do catálogo | Dono do `catalogo.csv` |

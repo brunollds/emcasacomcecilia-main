@@ -1,9 +1,9 @@
-# Resumo dos sinais: BAW Clothing (etapa 3, 18/11/2026)
+# Resumo dos sinais: BAW Clothing (etapa 3, 18/11/2026, e releitura da vitrine da Black Friday, 24/11/2026)
 
 Gerado por `2-processado/gerar-sinais.cjs` a partir do `sinais.csv`. Não editar à mão. Todo número aqui sai do CSV;
 nenhum é volume de busca. Cada linha do CSV diz em `limitacoes` o que a medida não diz.
 
-Total: 1075 sinais (`sin-baw-0001` a `sin-baw-1075`).
+Total: 1103 sinais (`sin-baw-0001` a `sin-baw-1103`).
 
 | tipo_sinal | Sinais |
 |---|---|
@@ -13,7 +13,7 @@ Total: 1075 sinais (`sin-baw-0001` a `sin-baw-1075`).
 | `resposta-ia` | 13 |
 | `serp` | 107 |
 | `trends` | 65 |
-| `vitrine-marketplace` | 11 |
+| `vitrine-marketplace` | 39 |
 | `youtube` | 64 |
 
 ## 1. Primeira página do Google, por consulta
@@ -408,3 +408,52 @@ Consultas relacionadas do Trends:
 ## 6. Marketplace
 
 - Mercado Livre, lista "baw-clothing" (`sin-baw-1075`): A página pediu verificação de conta no primeiro pedido; a fonte parou ali, sem login.
+
+## 7. Vitrine da Black Friday: releitura de 24/11/2026
+
+Coleta `20261124-1808-vitrine-blackfriday`, comparada com a `/blackfriday` e a `/black-friday` de 18/11 (`20261118-1255-wake-categorias`).
+Os sinais desta seção são da vitrine da própria loja e entram como `vitrine-marketplace` (o tipo mais próximo do
+FORMATOS). Comparação por id do produto (cada cor é um id) e por slug (a peça, como no `id_fonte` do catálogo).
+
+Sinais: `sin-baw-1076` a `sin-baw-1103`.
+
+| Vitrine | Cartões 18/11 | Cartões 24/11 | Ids que saíram | Ids que entraram | Preço subiu (mesmo id) | Preço desceu | Igual | Peças (slug) que saíram | Peças que entraram | Peças fora do catálogo de 18/11 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| `/blackfriday` | 679 | 850 | 53 | 224 | 41 | 68 | 517 | 39 | 162 | 9 (camiseta-oversized-making-noise-and-fun, camiseta-new-over-baw-complicity, camiseta-regular-club-baw-x-smiley, camiseta-regular-baw-honey, camiseta-oversized-logos-bawxhello-kitty, camiseta-regular-baw-x-hello-kitty, camiseta-oversized-baw-xtreme, camisa-kids-summertime-candy-stripes, camiseta-new-over-kids-western) |
+| `/black-friday` | 349 | 315 | 40 | 6 | 0 | 0 | 309 | 31 | 6 | 5 (camisa-kids-summertime-candy-stripes, camiseta-new-over-baw-complicity, camiseta-regular-baw-honey, camiseta-regular-club-baw-x-smiley, camiseta-oversized-making-noise-and-fun) |
+
+Peças da semente (16/11) e outros calçados, na `/blackfriday` de 24/11:
+
+| Peça | Entidade | Menor preço 24/11 | Sinal | Comparação |
+|---|---|---|---|---|
+| CAMISETA REGULAR GOTH 3.0 | `cat-baw-0366` | R$ 59,00 | `sin-baw-1084` | cores e preços iguais aos de 18/11 |
+| CAMISETA BR REGULAR LOCALLY GROWN | `cat-baw-0218` | R$ 79,00 | `sin-baw-1085` | não estava na vitrine em 18/11 |
+| CAMISETA REGULAR SELFIE LOGO | `cat-baw-0380` | R$ 79,00 | `sin-baw-1086` | cores e preços iguais aos de 18/11 |
+| CAMISETA OVERSIZED BAW SUBSCRIPT | `cat-baw-0300` | R$ 79,00 | `sin-baw-1087` | cores e preços iguais aos de 18/11 |
+| MOLETOM BASIC LABEL | `cat-baw-0429` | R$ 139,00 | `sin-baw-1088` | desde 18/11 saiu a cor Preto (R$ 179,00) |
+| MOLETOM HOODIE BAW SUBSCRIPT | `cat-baw-0446` | R$ 179,00 | `sin-baw-1089` | cores e preços iguais aos de 18/11 |
+| CALÇA TRACK BAW TAG | `cat-baw-0512` | R$ 149,00 | `sin-baw-1090` | cores e preços iguais aos de 18/11 |
+| BERMUDA JEANS REGULAR LOGO | `cat-baw-0568` | R$ 129,00 | `sin-baw-1091` | cores e preços iguais aos de 18/11 |
+| SHORTS REVERSE KIDS | `cat-baw-0100` | R$ 39,00 | `sin-baw-1092` | cores e preços iguais aos de 18/11 |
+| CAMISETA BR KIDS BAW CLASSIC COLORS | `cat-baw-0083` | R$ 39,00 | `sin-baw-1093` | não estava na vitrine em 18/11 |
+| CAMISETA BR KIDS DICES | `cat-baw-0087` | R$ 39,00 | `sin-baw-1094` | não estava na vitrine em 18/11 |
+| TENIS BAW THUNDER | `cat-baw-0672` | R$ 169,00 | `sin-baw-1095` | cores e preços iguais aos de 18/11 |
+| SANDÁLIA LINUS | `cat-baw-0677` | R$ 169,00 | `sin-baw-1096` | cores e preços iguais aos de 18/11 |
+| TENIS GRIP MAD | `cat-baw-0673` | R$ 239,00 | `sin-baw-1097` | não estava na vitrine em 18/11 |
+| TENIS BAW BASELINE | `cat-baw-0671` | R$ 259,00 | `sin-baw-1098` | cores e preços iguais aos de 18/11 |
+| TENIS BAW AUDACITY | `cat-baw-0670` | R$ 279,00 | `sin-baw-1099` | cores e preços iguais aos de 18/11 |
+| TENIS SESSION REVIVAL | `cat-baw-0674` | R$ 369,00 | `sin-baw-1100` | não estava na vitrine em 18/11 |
+| TENIS TRUCK | `cat-baw-0675` | R$ 389,00 | `sin-baw-1101` | não estava na vitrine em 18/11 |
+| SLIDE BAW | `cat-baw-0678` | R$ 239,00 | `sin-baw-1102` | cores e preços iguais aos de 18/11 |
+| SANDAL SUMMER PARTY | `cat-baw-0676` | fora da vitrine | `sin-baw-1103` | Nenhum cartão da peça nas 9 páginas (850 de 850 cartões lidos); em 18/11 estava na vitrine (1 cor); também fora da /black-friday |
+
+Banner e regras:
+
+- A ÚLTIMA BLACK FRIDAY DA BAW (`sin-baw-1076`, produtos-na-vitrine 850): Contagem que a página mostra, igual ao número de cartões lidos nas 9 páginas; em 18/11 eram 679; produto esgotado pode sair entre leituras.
+- Black Friday (`sin-baw-1077`, produtos-na-vitrine 315): Contagem da página, igual ao número de cartões lidos nas 4 páginas; em 18/11 eram 349; vitrine sem banner.
+- PIX NIGHT: Até 80%OFF (`sin-baw-1078`, desconto-maximo-anunciado-pct 80): Texto só na imagem do banner, lido pela sessão na captura (captura-blackfriday-banner.png) e no original (banner-blackfriday-lp_pixblack.jpg); sem regra, data nem regulamento na página; o que vale no carrinho não foi visto.
+- PIX NIGHT: PAGUE 3, LEVE 4 (`sin-baw-1079`, oferta-por-quantidade): Texto só na imagem do banner, lido pela sessão na captura (captura-blackfriday-banner.png) e no original (banner-blackfriday-lp_pixblack.jpg); sem regra, data nem regulamento na página; o que vale no carrinho não foi visto; quais peças entram e qual sai de graça não está escrito.
+- PIX NIGHT: NO SITE TODO +15%OFF NO PIX (`sin-baw-1080`, desconto-pix-anunciado-pct 15): Texto só na imagem do banner, lido pela sessão na captura (captura-blackfriday-banner.png) e no original (banner-blackfriday-lp_pixblack.jpg); sem regra, data nem regulamento na página; o que vale no carrinho não foi visto; não diz até quando vale nem se soma com código.
+- +30%OFF NA SEGUNDA PEÇA (banner de 18/11) (`sin-baw-1081`, ocorrencias-na-pagina 0): Zero visto no texto da página e no HTML das 13 páginas das duas vitrines; o banner de 18/11 (lp_sem_cupom.jpg) não está mais na página.
+- Regulamento ou data da campanha (`sin-baw-1082`, ocorrencias-na-pagina 0): Zero visto para "regulamento", "válid", "até dia", "termina", "encerra", "novembro" e "cupom" no texto da página e no HTML das 13 páginas (e "/11" no texto da página); não se buscou regulamento em outra página do site.
+- A ÚLTIMA BLACK FRIDAY DA BAW (título da vitrine) (`sin-baw-1083`, titulo-da-vitrine): Frase da loja, igual a 16/11 e 18/11; a página não explica o "última".

@@ -1,4 +1,5 @@
-// Etapa 3 da BAW: gera sinais.csv e resumo-sinais.md a partir das coletas de 18/11/2026 em 1-bruto/.
+// Etapa 3 da BAW: gera sinais.csv e resumo-sinais.md a partir das coletas de 18/11/2026 em 1-bruto/ e da releitura
+// da vitrine da Black Friday de 24/11/2026 (seção 6, no fim, para não renumerar os sinais de 18/11).
 // Roda de qualquer pasta, sem dependências: node gerar-sinais.cjs
 // Para com erro em célula vazia, id repetido, entidade fora do catálogo ou evidência que não confere no bruto.
 'use strict';
@@ -16,6 +17,7 @@ const COLETA = {
   trends: '20261118-2054-google-trends',
   yt: '20261118-2053-youtube-busca',
   ml: '20261118-2052-mercadolivre-lista',
+  bf: '20261124-1808-vitrine-blackfriday',
 };
 const DIA = '2026-11-18';
 const COLUNAS = ['sinal_id', 'consulta', 'consulta_origem', 'titulo', 'tipo_sinal', 'modalidade', 'fonte', 'entidades',
@@ -328,6 +330,94 @@ add({ consulta: 'baw clothing', consulta_origem: 'lista.mercadolivre.com.br/baw-
   evidencia: conferirTrecho(`${COLETA.ml}/bloqueio-mercadolivre.txt`, 'Para continuar, acesse'),
   limitacoes: 'A página pediu verificação de conta no primeiro pedido; a fonte parou ali, sem login' });
 
+// 6. Releitura da vitrine da Black Friday (24/11/2026), pedida na mensagem 3 da coordenação.
+// Vem depois de tudo para os ids de 18/11 (sin-baw-0001 a sin-baw-1075) não mudarem.
+// FORMATOS não tem tipo para a vitrine da própria loja; vai como vitrine-marketplace, o mais próximo (desvio no relato).
+const SLUG_PRODUTO = new Map(catalogo.slice(1).filter((r) => r[1] === 'produto').map((r) => [r[7], r[0]]));
+function cartoesDe(coleta, lista) {
+  const pasta = path.join(BRUTO, coleta);
+  return fs.readdirSync(pasta).filter((f) => f.startsWith(`${lista}-p`) && f.endsWith('.json')).sort()
+    .flatMap((f) => JSON.parse(fs.readFileSync(path.join(pasta, f), 'utf8')).cartoes.map((c) => ({ ...c, arquivo: f, slug: c.href.replace(/^\//, '').replace(/-\d+$/, '') })));
+}
+const reais = (s) => (s ? Number(s.replace(/[^\d,]/g, '').replace(',', '.')) : null);
+const brl = (n) => n.toFixed(2).replace('.', ',');
+const BF = {
+  antes: cartoesDe('20261118-1255-wake-categorias', 'blackfriday'),
+  agora: cartoesDe(COLETA.bf, 'blackfriday'),
+  antesTraco: cartoesDe('20261118-1255-wake-categorias', 'black-friday'),
+  agoraTraco: cartoesDe(COLETA.bf, 'black-friday'),
+};
+// As peças da semente (02_Artigos/baw-fatos-1611.md, 9.6), pela ordem da tabela, mais os outros calçados citados lá.
+const SEMENTE_BF = ['cat-baw-0366', 'cat-baw-0218', 'cat-baw-0380', 'cat-baw-0300', 'cat-baw-0429', 'cat-baw-0446',
+  'cat-baw-0512', 'cat-baw-0568', 'cat-baw-0100', 'cat-baw-0083', 'cat-baw-0087', 'cat-baw-0672', 'cat-baw-0677',
+  'cat-baw-0673', 'cat-baw-0671', 'cat-baw-0670', 'cat-baw-0674', 'cat-baw-0675', 'cat-baw-0678', 'cat-baw-0676'];
+const DIA_BF = '2026-11-24';
+{
+  const pasta = COLETA.bf;
+  const txt = `${pasta}/vitrine-blackfriday.txt`;
+  const base = { consulta: '/blackfriday', consulta_origem: 'releitura da vitrine da Black Friday (24/11)', tipo_sinal: 'vitrine-marketplace',
+    fonte: 'bawclothing.com.br; vitrine da loja oficial', pais: 'BR', idioma: 'pt-BR', periodo_inicio: DIA_BF, periodo_fim: DIA_BF,
+    filtros: 'sem login;navegador embutido;sem carrinho', coleta_id: pasta };
+  const limBanner = 'Texto só na imagem do banner, lido pela sessão na captura (captura-blackfriday-banner.png) e no original (banner-blackfriday-lp_pixblack.jpg); sem regra, data nem regulamento na página; o que vale no carrinho não foi visto';
+  add({ ...base, titulo: 'A ÚLTIMA BLACK FRIDAY DA BAW', modalidade: 'texto-extraido', entidades: `${MARCA}|cat-baw-0041`,
+    medida: BF.agora.length, unidade: 'produtos-na-vitrine', evidencia: conferirTrecho(txt, '850 PRODUTOS'),
+    limitacoes: 'Contagem que a página mostra, igual ao número de cartões lidos nas 9 páginas; em 18/11 eram 679; produto esgotado pode sair entre leituras' });
+  add({ ...base, consulta: '/black-friday', titulo: 'Black Friday', modalidade: 'texto-extraido', entidades: `${MARCA}|cat-baw-0042`,
+    medida: BF.agoraTraco.length, unidade: 'produtos-na-vitrine', evidencia: conferirTrecho(`${pasta}/black-friday-p1.json`, '"contagem_pagina": 315'),
+    limitacoes: 'Contagem da página, igual ao número de cartões lidos nas 4 páginas; em 18/11 eram 349; vitrine sem banner' });
+  add({ ...base, titulo: 'PIX NIGHT: Até 80%OFF', modalidade: 'captura', entidades: `${MARCA}|cat-baw-0041`,
+    medida: 80, unidade: 'desconto-maximo-anunciado-pct', evidencia: conferirTrecho(txt, '"Até 80%OFF"'), limitacoes: limBanner });
+  add({ ...base, titulo: 'PIX NIGHT: PAGUE 3, LEVE 4', modalidade: 'captura', entidades: `${MARCA}|cat-baw-0041`,
+    medida: '@nao-se-aplica', unidade: 'oferta-por-quantidade', evidencia: conferirTrecho(txt, '"PAGUE 3, LEVE 4"'),
+    limitacoes: `${limBanner}; quais peças entram e qual sai de graça não está escrito` });
+  add({ ...base, titulo: 'PIX NIGHT: NO SITE TODO +15%OFF NO PIX', modalidade: 'captura', entidades: `${MARCA}|cat-baw-0041`,
+    medida: 15, unidade: 'desconto-pix-anunciado-pct', evidencia: conferirTrecho(txt, '"NO SITE TODO +15%OFF NO PIX"'),
+    limitacoes: `${limBanner}; não diz até quando vale nem se soma com código` });
+  add({ ...base, titulo: '+30%OFF NA SEGUNDA PEÇA (banner de 18/11)', modalidade: 'texto-extraido', entidades: `${MARCA}|cat-baw-0041`,
+    medida: 0, unidade: 'ocorrencias-na-pagina', evidencia: conferirTrecho(txt, '"segunda peça", "2ª peça"'),
+    limitacoes: 'Zero visto no texto da página e no HTML das 13 páginas das duas vitrines; o banner de 18/11 (lp_sem_cupom.jpg) não está mais na página' });
+  add({ ...base, titulo: 'Regulamento ou data da campanha', modalidade: 'texto-extraido', entidades: `${MARCA}|cat-baw-0041`,
+    medida: 0, unidade: 'ocorrencias-na-pagina', evidencia: conferirTrecho(txt, '"regulamento", "válid"'),
+    limitacoes: 'Zero visto para "regulamento", "válid", "até dia", "termina", "encerra", "novembro" e "cupom" no texto da página e no HTML das 13 páginas (e "/11" no texto da página); não se buscou regulamento em outra página do site' });
+  add({ ...base, titulo: 'A ÚLTIMA BLACK FRIDAY DA BAW (título da vitrine)', modalidade: 'texto-extraido', entidades: `${MARCA}|cat-baw-0041`,
+    medida: '@nao-se-aplica', unidade: 'titulo-da-vitrine', evidencia: conferirTrecho(txt, 'Baw Clothing | A ÚLTIMA BLACK FRIDAY DA BAW'),
+    limitacoes: 'Frase da loja, igual a 16/11 e 18/11; a página não explica o "última"' });
+  // Uma linha por peça da semente: o menor preço entre as cores na /blackfriday de 24/11.
+  for (const id of SEMENTE_BF) {
+    const slug = [...SLUG_PRODUTO].find(([, e]) => e === id)[0];
+    const nome = catalogo.find((r) => r[0] === id)[6];
+    const agora = BF.agora.filter((c) => c.slug === slug);
+    const antes = BF.antes.filter((c) => c.slug === slug);
+    const ents = `${MARCA}|${id}|cat-baw-0041`;
+    if (!agora.length) {
+      const naTraco = BF.agoraTraco.some((c) => c.slug === slug);
+      add({ ...base, titulo: nome, modalidade: 'texto-extraido', entidades: ents, medida: 0, unidade: 'cartoes-na-vitrine',
+        evidencia: conferirTrecho(`${pasta}/pedidos.tsv`, 'blackfriday?pagina=9&tamanho=100'),
+        limitacoes: `Nenhum cartão da peça nas 9 páginas (850 de 850 cartões lidos); ${antes.length ? `em 18/11 estava na vitrine (${antes.length} cor)` : 'em 18/11 também não estava'}; ${naTraco ? 'está na /black-friday' : 'também fora da /black-friday'}; pode ter esgotado` });
+      continue;
+    }
+    const menor = [...agora].sort((a, b) => reais(a.preco) - reais(b.preco))[0];
+    const pasta1 = path.join(BRUTO, pasta, menor.arquivo);
+    if (!fs.readFileSync(pasta1, 'utf8').includes(`"id": "${menor.id}"`)) falha(`cartão ${menor.id} não está em ${menor.arquivo}`);
+    const faixa = agora.map((c) => `${c.cor} R$ ${brl(reais(c.preco))}${c.preco_de ? ` (de R$ ${brl(reais(c.preco_de))})` : ''}`).join('; ');
+    let mudou = 'não estava na vitrine em 18/11';
+    if (antes.length) {
+      const saiu = antes.filter((a) => !agora.some((c) => c.id === a.id));
+      const entrou = agora.filter((c) => !antes.some((a) => a.id === c.id));
+      const preco = agora.flatMap((c) => { const a = antes.find((x) => x.id === c.id); return a && (a.preco !== c.preco || a.preco_de !== c.preco_de) ? [`${c.cor} de R$ ${brl(reais(a.preco))} para R$ ${brl(reais(c.preco))}`] : []; });
+      const difs = [
+        ...(saiu.length ? [`desde 18/11 saiu a cor ${saiu.map((c) => `${c.cor} (R$ ${brl(reais(c.preco))})`).join(', ')}`] : []),
+        ...(entrou.length ? [`desde 18/11 entrou a cor ${entrou.map((c) => c.cor).join(', ')}`] : []),
+        ...(preco.length ? [`desde 18/11 o preço mudou: ${preco.join(', ')}`] : []),
+      ];
+      mudou = difs.length ? difs.join('; ') : 'cores e preços iguais aos de 18/11';
+    }
+    add({ ...base, titulo: nome, modalidade: 'texto-extraido', entidades: ents, medida: reais(menor.preco).toFixed(2),
+      unidade: 'preco-brl-vitrine-menor-cor', evidencia: `${menor.arquivo}#id=${menor.id}`,
+      limitacoes: `Menor preço entre as cores do cartão, sem código e sem Pix; por cor: ${faixa}; ${mudou}; o preço muda por cor e pode mudar de novo até o fim da campanha` });
+  }
+}
+
 // ---------- ids, conferência e saída ----------
 linhas.forEach((l, i) => { l.sinal_id = `sin-baw-${String(i + 1).padStart(4, '0')}`; });
 const vistos = new Set();
@@ -350,7 +440,7 @@ function contar(lista, chave) { const m = new Map(); for (const x of lista) m.se
 const porOrigem = new Map();
 for (const l of linhas) { if (!porOrigem.has(l.consulta_origem)) porOrigem.set(l.consulta_origem, []); porOrigem.get(l.consulta_origem).push(l); }
 const out = [];
-out.push('# Resumo dos sinais: BAW Clothing (etapa 3, 18/11/2026)', '');
+out.push('# Resumo dos sinais: BAW Clothing (etapa 3, 18/11/2026, e releitura da vitrine da Black Friday, 24/11/2026)', '');
 out.push('Gerado por `2-processado/gerar-sinais.cjs` a partir do `sinais.csv`. Não editar à mão. Todo número aqui sai do CSV;');
 out.push('nenhum é volume de busca. Cada linha do CSV diz em `limitacoes` o que a medida não diz.', '');
 out.push(`Total: ${linhas.length} sinais (\`sin-baw-0001\` a \`${linhas[linhas.length - 1].sinal_id}\`).`, '');
@@ -441,6 +531,35 @@ out.push('');
 out.push('## 6. Marketplace', '');
 const ml = linhas.filter((l) => l.coleta_id === COLETA.ml);
 for (const l of ml) out.push(`- Mercado Livre, lista "baw-clothing" (\`${l.sinal_id}\`): ${l.limitacoes}.`);
+out.push('');
+
+out.push('## 7. Vitrine da Black Friday: releitura de 24/11/2026', '');
+out.push(`Coleta \`${COLETA.bf}\`, comparada com a \`/blackfriday\` e a \`/black-friday\` de 18/11 (\`20261118-1255-wake-categorias\`).`);
+out.push('Os sinais desta seção são da vitrine da própria loja e entram como `vitrine-marketplace` (o tipo mais próximo do');
+out.push('FORMATOS). Comparação por id do produto (cada cor é um id) e por slug (a peça, como no `id_fonte` do catálogo).', '');
+const bfLinhas = linhas.filter((l) => l.coleta_id === COLETA.bf);
+out.push(`Sinais: \`${bfLinhas[0].sinal_id}\` a \`${bfLinhas[bfLinhas.length - 1].sinal_id}\`.`, '');
+out.push('| Vitrine | Cartões 18/11 | Cartões 24/11 | Ids que saíram | Ids que entraram | Preço subiu (mesmo id) | Preço desceu | Igual | Peças (slug) que saíram | Peças que entraram | Peças fora do catálogo de 18/11 |');
+out.push('|---|---|---|---|---|---|---|---|---|---|---|');
+for (const [nome, antes, agora] of [['/blackfriday', BF.antes, BF.agora], ['/black-friday', BF.antesTraco, BF.agoraTraco]]) {
+  const idA = new Map(antes.map((c) => [c.id, c])); const idB = new Set(agora.map((c) => c.id));
+  const slA = new Set(antes.map((c) => c.slug)); const slB = new Set(agora.map((c) => c.slug));
+  let subiu = 0, desceu = 0, igual = 0;
+  for (const c of agora) { const a = idA.get(c.id); if (!a) continue; const d = reais(c.preco) - reais(a.preco); if (d > 0) subiu++; else if (d < 0) desceu++; else igual++; }
+  const fora = [...slB].filter((s) => !SLUG_PRODUTO.has(s));
+  out.push(`| \`${nome}\` | ${antes.length} | ${agora.length} | ${[...idA.keys()].filter((i) => !idB.has(i)).length} | ${[...idB].filter((i) => !idA.has(i)).length} | ${subiu} | ${desceu} | ${igual} | ${[...slA].filter((s) => !slB.has(s)).length} | ${[...slB].filter((s) => !slA.has(s)).length} | ${fora.length}${fora.length ? ` (${fora.join(', ')})` : ''} |`);
+}
+out.push('', 'Peças da semente (16/11) e outros calçados, na `/blackfriday` de 24/11:', '');
+out.push('| Peça | Entidade | Menor preço 24/11 | Sinal | Comparação |', '|---|---|---|---|---|');
+for (const l of bfLinhas.filter((x) => x.unidade === 'preco-brl-vitrine-menor-cor' || x.unidade === 'cartoes-na-vitrine')) {
+  const ent = l.entidades.split('|')[1];
+  const comp = l.unidade === 'cartoes-na-vitrine' ? l.limitacoes.split('; ').slice(0, 3).join('; ') : l.limitacoes.split('; ').filter((p) => /18\/11/.test(p)).join('; ');
+  out.push(`| ${l.titulo} | \`${ent}\` | ${l.unidade === 'cartoes-na-vitrine' ? 'fora da vitrine' : `R$ ${brl(Number(l.medida))}`} | \`${l.sinal_id}\` | ${comp} |`);
+}
+out.push('', 'Banner e regras:', '');
+for (const l of bfLinhas.filter((x) => !['preco-brl-vitrine-menor-cor', 'cartoes-na-vitrine'].includes(x.unidade))) {
+  out.push(`- ${l.titulo} (\`${l.sinal_id}\`, ${l.unidade}${l.medida === '@nao-se-aplica' ? '' : ` ${l.medida}`}): ${l.limitacoes}.`);
+}
 out.push('');
 fs.writeFileSync(SAIDA_RESUMO, out.join('\n'));
 console.log(`sinais.csv: ${linhas.length} linhas; resumo-sinais.md escrito`);
