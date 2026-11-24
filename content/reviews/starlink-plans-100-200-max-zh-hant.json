@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "以我的地址查看 Starlink 住宅方案與推薦獎勵",
+          "label": "以我的地址查看住宅方案（滿兩期帳單享推薦抵扣）",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -253,7 +253,7 @@
       },
       "links": [
         {
-          "label": "前往 starlink.com 查詢地址並保留 30 天試用",
+          "label": "前往 starlink.com 查詢方案與滿兩期帳單推薦抵扣",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -290,8 +290,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "以官網完全相同的價格下單，保留 30 天完整退貨退款保障，並於使用滿兩個計費週期後獲得所在國家的推薦抵免（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額）。",
-    "label": "透過推薦連結在 starlink.com 查看我的地址方案",
+    "text": "以官網完全相同的價格下單，保留 30 天完整退貨退款保障，並於使用並付清兩個完整計費週期後獲得所在國家的帳單推薦抵免（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額）。",
+    "label": "滿兩期帳單領推薦抵扣並查看地址方案",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

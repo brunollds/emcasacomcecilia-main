@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "내 주소에서 100Mbps·맥스 요금제와 추천 보상 확인하기",
+          "label": "2주기 납부 후 청구서 추천 크레딧으로 100Mbps·맥스 확인",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -253,7 +253,7 @@
       },
       "links": [
         {
-          "label": "30일 환불 조건으로 공식 주문 화면 열기",
+          "label": "30일 환불·2주기 후 청구서 추천 크레딧으로 공식 주문 열기",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -291,7 +291,7 @@
   "cons": [],
   "cta": {
     "text": "공식 사이트와 동일한 요금 및 30일 환불 조건을 그대로 적용받으면서 내 주소의 100Mbps·맥스 조건을 확인하고, 첫 구독 2개월 유지 후 추천 크레딧(한국은 11월 기준 참고 금액 ₩65,000, 결제 전에 주문 화면에서 실제 금액을 확인하세요)을 받을 수 있습니다.",
-    "label": "추천 링크로 starlink.com에서 내 주소 확인하기",
+    "label": "2주기 후 청구서 추천 크레딧으로 내 주소 요금 확인",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

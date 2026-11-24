@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Check available plans at your address",
+          "label": "Check local plans with $100 / £40 bill credit after 2 cycles",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -257,7 +257,7 @@
       },
       "links": [
         {
-          "label": "Verify your plan, kit, and referral credit",
+          "label": "Verify plan, kit & $100 / £40 bill credit after 2 cycles",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -283,8 +283,8 @@
     }
   ],
   "cta": {
-    "text": "Enter your street address on the official site to check local tier prices, verify included hardware and installation, and lock in your referral bill credit after two paid cycles.",
-    "label": "Check local plans and bonus credit",
+    "text": "Enter your street address on the official site to check local tier prices, verify included hardware and installation, and lock in your US$ 100 (US) or £40 (UK) bill credit after two paid cycles.",
+    "label": "Check local plans with $100 / £40 credit after 2 cycles",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

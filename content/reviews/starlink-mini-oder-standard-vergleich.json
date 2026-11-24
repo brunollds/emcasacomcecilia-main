@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Prüfen, welches Kit meine Adresse auf starlink.com erhält",
+          "label": "Kit für meine Adresse mit 45 € Gutschrift nach 2 Zyklen prüfen",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -167,7 +167,7 @@
       "paragraphs": [
         "Wenn die Antenne auf dem Dach hinter dicken Ziegel- oder Betonwänden sitzt, verteilt der getrennte Router im Wohnzimmer das Signal deutlich verlässlicher als die integrierte Antennen-Einheit.",
         "Faustregel ohne eigenen Praxistest: Da das Wi-Fi 5 der Mini bis 112 m² direkt vom Außenmodul abstrahlt, dämpfen Dachziegel und Massivwände die Reichweite auf dem Weg in entfernte Räume. Beim Standard-Kit führt das 15-m-Kabel bis in den Wohnbereich, wo der Router 3 Tri-Band-Wi-Fi 6 für bis zu 297 m² und 235 Geräte bereitstellt. Wer bei der Mini mehr Innenraum-Abdeckung braucht, kombiniert sie mit einem Router Mini (bis 204 m²) oder bis zu 3 Starlink-Mesh-Knoten, da fremde Mesh-Systeme nicht unterstützt werden.",
-        "Bei Stromausfall über eine USV oder mobile Powerstation spielt die Mini ihre Stärke aus: 25 bis 40 W durchschnittlicher Bedarf sind weniger als die Hälfte der 75 bis 100 W des Standard-Kits. Unsere Rechnung aus den Herstellerwerten: Am gleichen Akku bleibt das Internet mit der Mini mehr als doppelt so lange online, und mit dem offiziellen USB-C-Kabel reicht eine Powerbank oder ein Netzteil mit mindestens 100 W PD (20 V/5 A) sowie 12 bis 48 V Gleichstrom.",
+        "Bei Stromausfall über eine USV oder mobile Powerstation spielt die Mini ihre Stärke aus: 25 bis 40 W durchschnittlicher Bedarf liegen deutlich unter den 75 bis 100 W des Standard-Kits. Unsere Einordnung aus den Herstellerwerten: Die Mini verbraucht weniger Strom und hält am gleichen Akku tendenziell länger durch, und mit dem offiziellen USB-C-Kabel reicht eine Powerbank oder ein Netzteil mit mindestens 100 W PD (20 V/5 A) sowie 12 bis 48 V Gleichstrom.",
         "Für LAN-Kabel oder einen eigenen Dual-WAN-Router zählen die Anschlüsse: Die Mini besitzt 1 verriegelbaren Ethernet-LAN-Port (Ethernet-Kabel separat erhältlich); ein normales RJ45-Kabel hebt die IP67-Wetterabdichtung auf. Der Router 3 des Standard-Kits bietet geschützt im Haus zwei verriegelbare LAN-Buchsen. Beide unterstützen den Bypass-Modus zur Kabelweitergabe an einen eigenen Router, wobei bei der Mini zum Beenden ein Zurücksetzen auf Werkseinstellungen nötig ist; zudem unterstützt sie offizielles Starlink-Mesh (kompatibel mit Router Mini, Router 3 und Router der 2. Generation bis zu 3 Knoten; kein Drittanbieter-Mesh)."
       ],
       "image": {
@@ -255,7 +255,7 @@
       },
       "links": [
         {
-          "label": "Offizielle Bestellung mit 30-Tage-Test und 45 € öffnen",
+          "label": "Offizielle Bestellung mit 30-Tage-Test und 45 € nach 2 Zyklen öffnen",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -290,7 +290,7 @@
       "bullets": [
         "Ist Starlink Mini langsamer als das Standard-Kit? Die Geschwindigkeit hängt in erster Linie vom gewählten Tarif (100 Mbit/s, 200 Mbit/s oder Max) und der regionalen Auslastung ab. Der praktische Unterschied zwischen den Kits liegt bei der WLAN-Reichweite (112 m² Wi-Fi 5 vs. 297 m² Wi-Fi 6) und beim Stromverbrauch.",
         "Reicht Starlink Mini in einem großen Haus ohne weiteren Router? Die integrierte Wi-Fi-5-Einheit deckt bis zu 112 m² ab und verliert durch Dach und Massivwände an Stärke. Für größere Häuser empfiehlt sich der zusätzliche Router Mini (bis 204 m²) oder Starlink-Mesh.",
-        "Welches Kit braucht weniger Strom an einer USV bei Stromausfall? Starlink Mini benötigt im Schnitt 25 bis 40 W (und läuft per offiziellem Kabel auch an 100 W USB-C PD 20 V/5 A), während Standard 75 bis 100 W zieht. Am gleichen Akku hält die Mini mehr als doppelt so lange.",
+        "Welches Kit braucht weniger Strom an einer USV bei Stromausfall? Starlink Mini benötigt im Schnitt 25 bis 40 W (und läuft per offiziellem Kabel auch an 100 W USB-C PD 20 V/5 A), während Standard 75 bis 100 W zieht. Dadurch verbraucht die Mini weniger Strom und hält am gleichen Akku tendenziell länger durch.",
         "Kann man bei beiden ein LAN-Kabel anschließen und den Bypass-Modus nutzen? Ja. Die Mini hat 1 verriegelbaren Ethernet-LAN-Port (Ethernet-Kabel separat erhältlich; ein normales RJ45-Kabel hebt IP67 auf) und der Router 3 hat 2 Ports. Beide unterstützen den Bypass-Modus zur Kabelweitergabe an einen eigenen Router (bei der Mini ist zum Beenden ein Werksreset nötig) sowie offizielles Starlink-Mesh (kompatibel mit Router Mini, Router 3 und Router der 2. Generation bis zu 3 Knoten; kein Drittanbieter-Mesh).",
         "Gilt der 45-€-Empfehlungslink für Mini und Standard? Ja. Sowohl Bestellungen mit Mini X (100 Mbit/s) als auch mit Standard 4 (200 Mbit/s und Max) direkt auf starlink.com über den Empfehlungslink erhalten nach zwei bezahlten Zyklen 45 € Gutschrift auf der Rechnung."
       ]
@@ -326,7 +326,7 @@
   ],
   "cta": {
     "text": "Die Bestellung öffnet sich über den offiziellen Empfehlungslink auf starlink.com, zeigt das passende Kit für Ihre Adresse und wahrt die 30 Tage zur Kündigung und unbeschädigten Rückgabe. Die 45 € Gutschrift folgen nach zwei bezahlten Zyklen.",
-    "label": "Passendes Kit für meine Adresse auf starlink.com prüfen",
+    "label": "Passendes Kit mit 45 € Gutschrift nach 2 Zyklen prüfen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

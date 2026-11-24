@@ -37,11 +37,11 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Starlink divide o uso residencial entre 100 Mbps, 200 Mbps e Max, mas nem todos aparecem em todo endereço. Além dos megabits, a escolha muda a antena enviada, a fidelidade e o valor da instalação. Confira o que abre no seu CEP pelo link oficial para pagar menos e receber crédito na fatura depois."
+        "A Starlink divide o uso residencial entre 100 Mbps, 200 Mbps e Max, mas nem todos aparecem em todo endereço. Além dos megabits, a escolha muda a antena enviada, a fidelidade e o valor da instalação. Confira o que abre no seu CEP pelo link oficial e receba o crédito na fatura após dois ciclos pagos."
       ],
       "links": [
         {
-          "label": "Conferir planos disponíveis no seu endereço",
+          "label": "Conferir planos no meu CEP com R$ 200 na fatura após 2 ciclos (45 € PT)",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -256,7 +256,7 @@
       },
       "links": [
         {
-          "label": "Ver plano, kit e crédito no seu endereço",
+          "label": "Ver plano, kit e R$ 200 na fatura após 2 ciclos (45 € PT)",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -282,8 +282,8 @@
     }
   ],
   "cta": {
-    "text": "Digite seu endereço pelo link oficial para ver quais planos abrem no seu CEP, conferir antena e contrato no resumo e garantir o crédito na fatura após dois ciclos pagos.",
-    "label": "Consultar planos e bônus no seu CEP",
+    "text": "Digite seu endereço pelo link oficial para ver quais planos abrem no seu CEP, conferir antena e contrato no resumo e garantir R$ 200 no Brasil (45 € em Portugal) na fatura após dois ciclos pagos.",
+    "label": "Consultar planos e R$ 200 de crédito após 2 ciclos (45 € PT)",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

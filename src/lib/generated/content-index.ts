@@ -337622,11 +337622,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a maioria dos novos assinantes, pedir direto em starlink.com pelo link de indicação compensa mais do que comprar no Mercado Livre, Amazon, Magalu ou loja física. Só o site oficial libera o crédito de indicação na fatura, traz aluguel gratuito em mercados elegíveis ou oferta por endereço e unifica a devolução em 30 dias."
+          "Para a maioria dos novos assinantes, pedir direto em starlink.com pelo link de indicação compensa mais do que comprar no Mercado Livre, Amazon, Magalu ou loja física. Só o site oficial libera o crédito de indicação na fatura após dois ciclos pagos, traz aluguel gratuito em mercados elegíveis ou oferta por endereço e unifica a devolução em 30 dias."
         ],
         "links": [
           {
-            "label": "Conferir preço no meu CEP com R$ 200 de crédito (45 € em PT)",
+            "label": "Conferir preço no meu CEP com R$ 200 na fatura após 2 ciclos (45 € PT)",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -337798,7 +337798,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Abrir pedido oficial em starlink.com com o bônus",
+            "label": "Abrir pedido oficial com R$ 200 na fatura após 2 ciclos (45 € PT)",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -337860,7 +337860,7 @@ export const reviewsData: unknown[] = [
     },
     "cta": {
       "text": "Confira plano, hardware e disponibilidade no seu CEP direto em starlink.com pelo link de indicação, mantendo 30 dias para devolver e R$ 200 de crédito no Brasil (45 € em Portugal) após dois ciclos pagos.",
-      "label": "Ver meu endereço em starlink.com",
+      "label": "Ver meu CEP com R$ 200 na fatura após 2 ciclos (45 € PT)",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -337909,7 +337909,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Check my address on starlink.com with $100 / £40 credit",
+            "label": "Check my address with $100 / £40 bill credit after 2 cycles",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -338081,7 +338081,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Open starlink.com order with $100 / £40 referral credit",
+            "label": "Open starlink.com order with $100 / £40 credit after 2 cycles",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -338143,7 +338143,7 @@ export const reviewsData: unknown[] = [
     },
     "cta": {
       "text": "Check plans, $0 hardware rental and availability at your address on starlink.com via our referral link, with 30-day return terms and $100 US (£40 UK) credit after two paid cycles.",
-      "label": "Check my address on starlink.com",
+      "label": "Check my address with $100 / £40 credit after 2 cycles",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -338192,7 +338192,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Ver mi dirección en starlink.com con crédito de referido",
+            "label": "Ver mi dirección con 45 € (ES) o bono en factura tras 2 ciclos",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -338364,7 +338364,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Abrir pedido oficial en starlink.com con referido",
+            "label": "Abrir pedido oficial con 45 € (ES) o bono tras 2 ciclos",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -338425,8 +338425,8 @@ export const reviewsData: unknown[] = [
       ]
     },
     "cta": {
-      "text": "Revisa planes, alquiler o compra de hardware y crédito disponible para tu dirección en starlink.com con nuestro enlace de referido, manteniendo los 30 días de prueba.",
-      "label": "Comprobar mi dirección en starlink.com",
+      "text": "Revisa planes, alquiler o compra de hardware y el bono en factura tras dos ciclos pagados en starlink.com (45 € en España; en México MX$ 700 como referencia de noviembre —confirma el importe en tu pantalla de pedido antes de pagar—), manteniendo los 30 días de prueba.",
+      "label": "Comprobar mi dirección con 45 € (ES) o bono tras 2 ciclos",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -338475,7 +338475,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Vérifier mon adresse sur starlink.com avec 45 € de crédit",
+            "label": "Vérifier mon adresse avec 45 € sur facture après 2 cycles",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -338647,7 +338647,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Ouvrir la commande officielle sur starlink.com avec 45 €",
+            "label": "Ouvrir la commande officielle avec 45 € après 2 cycles",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -338709,7 +338709,7 @@ export const reviewsData: unknown[] = [
     },
     "cta": {
       "text": "Vérifiez la location à 0 € et les tarifs à votre adresse sur starlink.com via notre lien de parrainage, avec essai de 30 jours et 45 € de crédit après deux cycles payés.",
-      "label": "Voir mon adresse sur starlink.com",
+      "label": "Voir mon adresse avec 45 € de crédit après 2 cycles",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -338758,7 +338758,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Adresse auf starlink.com mit 45 € Empfehlung prüfen",
+            "label": "Adresse mit 45 € Gutschrift nach 2 Zyklen auf starlink.com prüfen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -338930,7 +338930,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Bestellung auf starlink.com mit 45 € Empfehlung öffnen",
+            "label": "Bestellung mit 45 € Rechnungsgutschrift nach 2 Zyklen öffnen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -338992,7 +338992,7 @@ export const reviewsData: unknown[] = [
     },
     "cta": {
       "text": "Prüfen Sie 0-€-Miete, Tarifpreise und Verfügbarkeit für Ihre Adresse direkt auf starlink.com über den Empfehlungslink mit 30-Tage-Rückgabe und 45 € Gutschrift nach zwei Zyklen.",
-      "label": "Adresse auf starlink.com prüfen",
+      "label": "Adresse mit 45 € Gutschrift nach 2 Zyklen prüfen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -339041,7 +339041,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Verifica il tuo indirizzo su starlink.com con 45 € di credito",
+            "label": "Verifica il tuo indirizzo con 45 € in fattura dopo 2 cicli",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -339213,7 +339213,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Apri l'ordine ufficiale su starlink.com con 45 € di credito",
+            "label": "Apri l'ordine ufficiale con 45 € in fattura dopo 2 cicli",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -339275,7 +339275,7 @@ export const reviewsData: unknown[] = [
     },
     "cta": {
       "text": "Controlla noleggio a 0 €, prezzi e copertura al tuo indirizzo su starlink.com dal nostro link d'invito, con 30 giorni di prova e 45 € di credito dopo due cicli pagati.",
-      "label": "Verifica il tuo indirizzo su starlink.com",
+      "label": "Verifica indirizzo con 45 € di credito dopo 2 cicli",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -339324,7 +339324,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "紹介リンクからstarlink.comの注文画面を確認する",
+            "label": "紹介リンクで注文画面を確認（2回支払い後7,000円請求クレジット）",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -339493,7 +339493,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "紹介特典付きでstarlink.comの公式注文画面へ進む",
+            "label": "2回請求後に7,000円クレジット付きでstarlink.comへ進む",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -339528,8 +339528,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "日本公式ではMiniレンタル0円と請求2回後の7,000円特典が受け取れるのはstarlink.comの紹介リンク経由のみ。まずはご自身の住所で注文画面を確認しましょう。",
-      "label": "紹介リンク付きでstarlink.comを確認する",
+      "text": "日本公式ではMiniレンタル0円と請求2サイクル支払い後の7,000円請求クレジットを受け取れるのはstarlink.comの紹介リンク経由のみ。30日返却条件とあわせて自分の住所で確認しましょう。",
+      "label": "7,000円クレジット（2回支払い後）付きでstarlink.comを確認",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -339537,7 +339537,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "starlink.comの公開注文画面、公式正規販売店リスト（8a90222d）、および公式ヘルプセンターを確認して作成しました（実際の決済は行っていません）。当サイトはStarlink紹介プログラムに参加しており、リンク経由で条件を満たす新規登録があった場合、紹介報酬を受け取ることがあります。",
     "decision": {
       "takeIf": [
-        "配送を待てるため、紹介リンクからstarlink.comで直接注文して正規出荷・7,000円特典・30日返却条件をまとめたい。",
+        "配送を待てるため、紹介リンクからstarlink.comで直接注文して正規出荷・紹介特典・30日返却条件をまとめたい。",
         "旅行前などの緊急で当日受け取りが必要で、日本の公式リストにあるコストコやビックカメラ等の正規店舗で新品を買いたい。"
       ],
       "skipIf": [
@@ -339604,7 +339604,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "추천 링크로 starlink.com 공식 주문 화면 열기",
+            "label": "2주기 납부 후 청구서 추천 크레딧으로 starlink.com 주문 확인",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -339773,7 +339773,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "starlink.com에서 내 주소 요금·추천 혜택 확인하기",
+            "label": "2주기 후 청구서 추천 크레딧 포함 내 주소 조건 확인하기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -339808,8 +339808,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "한국 유일 공인 판매처는 이마트뿐입니다. 배송을 기다릴 수 있다면 추천 링크로 starlink.com에서 주문해 추천 크레딧(11월 기준 참고 금액 ₩65,000 — 결제 전에 주문 화면에서 실제 금액을 확인하세요)과 30일 반납 조건을 확인하세요.",
-      "label": "starlink.com에서 내 주소 주문 화면 보기",
+      "text": "한국 유일 공인 판매처는 이마트뿐입니다. 배송을 기다릴 수 있다면 추천 링크로 starlink.com에서 주문해 2회 결제 주기 완료 후 지급되는 청구서 추천 크레딧(11월 기준 참고 금액 ₩65,000 — 결제 전에 주문 화면에서 실제 금액을 확인하세요)과 30일 반납 조건을 확인하세요.",
+      "label": "2주기 납부 후 청구서 추천 크레딧으로 starlink.com 열기",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -339884,7 +339884,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "透過推薦連結開啟 starlink.com 訂購頁查看地址條件",
+            "label": "透過推薦連結查看地址條件（滿兩期帳單享推薦抵扣）",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -340053,7 +340053,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "前往 starlink.com 透過推薦連結確認當地方案",
+            "label": "開啟官網訂購頁並鎖定滿兩期帳單推薦抵扣",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -340088,8 +340088,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "想避免電商非授權賣家鎖機風險，並保留 30 天退貨保障與推薦獎勵（馬來西亞 11 月參考金額 RM 180，付款前請以訂購頁顯示金額為準），建議直接由推薦連結在 starlink.com 查詢地址。",
-      "label": "透過推薦連結開啟 starlink.com 訂購頁",
+      "text": "想避免電商非授權賣家鎖機風險，並保留 30 天退貨保障與付清兩個計費週期後入帳的帳單推薦獎勵（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請以訂購頁顯示金額為準），建議直接由推薦連結在 starlink.com 查詢地址。",
+      "label": "滿兩期帳單領推薦抵扣並查看我的地址條件",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -340164,7 +340164,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "通过推荐链接打开 starlink.com 订购页查看地址条件",
+            "label": "通过推荐链接查看地址条件（满两期账单享推荐抵扣）",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -340333,7 +340333,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "前往 starlink.com 通过推荐链接查看地址方案",
+            "label": "打开官网订购页并锁定满两期账单推荐抵扣",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -340368,8 +340368,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "想避开非授权电商卖家的锁机风险，并保留官网 30 天退货保障与推荐奖励（马来西亚 11 月参考金额 RM 180，付款前请以订购页显示金额为准），请直接通过推荐链接在 starlink.com 查询地址。",
-      "label": "通过推荐链接打开 starlink.com 订购页",
+      "text": "想避开非授权电商卖家的锁机风险，并保留官网 30 天退货保障与缴清两个计费周期后入账的账单推荐奖励（美国为 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请以订购页显示金额为准），请直接通过推荐链接在 starlink.com 查询地址。",
+      "label": "满两期账单享推荐抵扣并查看我的地址条件",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -340444,7 +340444,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "افتح طلب starlink.com عبر رابط الإحالة لعنوانك",
+            "label": "تحقق من عنوانك مع رصيد الإحالة في الفاتورة بعد دورتين",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -340613,7 +340613,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "افتح صفحة الطلب الرسمية في starlink.com وتأكد من المبلغ لعنوانك",
+            "label": "افتح طلب starlink.com مع رصيد الإحالة في الفاتورة بعد دورتين",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -340648,8 +340648,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "في عُمان وقطر لا توجد متاجر تجزئة معتمدة في القائمة الرسمية. اطلب من starlink.com عبر رابط الإحالة لحماية تفعيل جهازك والتحقق من مكافأة بلدك (المبلغ المرجعي في نوفمبر OMR 15 بعُمان أو 160 QAR بقطر؛ اعتمد المبلغ الذي يظهر في طلبك قبل الدفع).",
-      "label": "تحقق من عنوانك على starlink.com عبر رابط الإحالة",
+      "text": "في عُمان وقطر لا توجد متاجر تجزئة معتمدة في القائمة الرسمية. اطلب من starlink.com عبر رابط الإحالة لحماية تفعيل جهازك، حيث يُضاف رصيد الإحالة في الفاتورة بعد سداد دورتي فوترة كاملتين (المبلغ المرجعي في نوفمبر OMR 15 بعُمان أو 160 QAR بقطر؛ اعتمد المبلغ الذي يظهر في طلبك قبل الدفع).",
+      "label": "تحقق من عنوانك مع رصيد الفاتورة بعد دورتي فوترة",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -340719,11 +340719,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Starlink Mini (Mini X nos pedidos) serve melhor quem quer instalação simples, baixo consumo em nobreak, portabilidade e, no plano de 100 Mbps no Brasil, ficar sem fidelidade. A Padrão (Standard V4) ganha em alcance Wi-Fi e portas de rede. Ambas liberam o bônus pelo link oficial; veja onde cada kit aparece no pedido abaixo."
+          "A Starlink Mini (Mini X nos pedidos) serve melhor quem quer instalação simples, baixo consumo em nobreak, portabilidade e, no plano de 100 Mbps no Brasil, ficar sem fidelidade. A Padrão (Standard V4) ganha em alcance Wi-Fi e portas de rede. Ambas liberam o crédito na fatura após dois ciclos pagos pelo link oficial; confira abaixo."
         ],
         "links": [
           {
-            "label": "Conferir qual kit aparece no meu endereço em starlink.com",
+            "label": "Conferir kit no meu CEP com R$ 200 na fatura após 2 ciclos (45 € PT)",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -340854,7 +340854,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se a antena ficar longe dos quartos ou atrás de laje e paredes de alvenaria, o roteador separado da Padrão resolve melhor direto da caixa do que o Wi-Fi embutido na Mini.",
           "Regra prática, sem teste nosso: quando o roteador fica dentro da antena (caso da Mini no telhado ou na varanda), a cobertura declarada de até 112 m² perde força ao atravessar telhas, concreto e paredes até o outro lado da casa. Na Padrão, o Router 3 entra por um cabo de 15 metros até a sala e entrega até 297 m² em Wi-Fi 6 tri-band para até 235 dispositivos. Na Mini, a saída limpa para casa grande é somar um Router Mini interno (até 204 m², R$ 290 no pedido brasileiro) ou montar mesh Starlink com até 3 nós, já que os kits não funcionam com sistemas mesh de terceiros.",
-          "Para backup de energia em nobreak ou estação portátil, a Mini leva vantagem clara: o consumo médio de 25 a 40 W é menos da metade dos 75 a 100 W da Padrão. Conta nossa, pelos números oficiais de consumo: numa mesma bateria de nobreak, a Mini sustenta a internet ativa por mais do dobro do tempo e ainda aceita alimentação USB-C PD de no mínimo 100 W (20 V/5 A) com o cabo oficial ou entrada CC de 12 a 48 V.",
+          "Para backup de energia em nobreak ou estação portátil, a Mini leva vantagem clara: a Mini consome menos (25 a 40 W contra 75 a 100 W da Padrão). Conta nossa, pelos números oficiais de consumo: a Mini consome menos e tende a durar mais na mesma bateria de nobreak e ainda aceita alimentação USB-C PD de no mínimo 100 W (20 V/5 A) com o cabo oficial ou entrada CC de 12 a 48 V.",
           "Na rede cabeada e no uso com roteador próprio ou Dual-WAN, repare em três detalhes práticos antes de passar o cabo. A Mini traz 1 porta Ethernet LAN com travamento (cabo Ethernet vendido à parte); se você plugar um RJ45 comum sem o cabo vedado oficial, a antena perde a vedação IP67 Tipo 4 contra chuva e poeira. O Router 3 da Padrão já traz duas portas Ethernet LAN protegidas dentro de casa. Ambas aceitam Modo Bypass para passar a conexão a um roteador ou sistema próprio via cabo, mas na Mini sair do Bypass exige redefinição de fábrica. Para expandir sem mesh de terceiros (incompatível), a Mini aceita mesh oficial Starlink com Router Mini, Router 3 e Router 2ª geração em até 3 nós."
         ],
         "image": {
@@ -340876,46 +340876,46 @@ export const reviewsData: unknown[] = [
           "title": "Simulador: quanto você paga no pedido e quando entra o bônus",
           "scenarios": [
             {
-              "label": "Mini X no 100 Mbps (BR, sem fidelidade)",
+              "label": "Alto Paraíso (BR): Mini X no 100 Mbps ou Max pelo link",
               "lines": [
                 {
-                  "label": "Kit Mini X no pedido oficial",
-                  "value": "R$ 299 à vista (sem contrato de 12 meses)"
+                  "label": "Kit Mini X hoje no pedido",
+                  "value": "R$ 299 (100 Mbps, sem 12m) ou R$ 49 (Max, 12m)"
                 },
                 {
-                  "label": "Mensalidade exibida (Alto Paraíso, GO)",
-                  "value": "R$ 132,30/mês (cheio R$ 189)"
+                  "label": "Mensalidade na ativação",
+                  "value": "R$ 132,30/mês (100 Mbps) ou R$ 174,30/mês (Max)"
                 },
                 {
                   "label": "Crédito de indicação pelo link",
-                  "value": "R$ 200 na fatura após 2 ciclos",
+                  "value": "R$ 200 na fatura após 2 ciclos pagos",
                   "highlight": true
                 }
               ],
-              "totalLabel": "Pago no pedido hoje",
-              "totalValue": "R$ 299 hoje; R$ 200 entram em fatura após 2 ciclos",
-              "note": "Valores lidos no pedido de Alto Paraíso de Goiás; o bônus não reduz o preço do kit no checkout."
+              "totalLabel": "Pago hoje no pedido",
+              "totalValue": "R$ 299 (100 Mbps) ou R$ 49 (Max)",
+              "note": "Na consulta de Alto Paraíso (GO), os dois planos entregam o Mini X; a fidelidade de 12 meses vale apenas no Max subsidiado."
             },
             {
-              "label": "Standard 4 ou Max pelo link oficial",
+              "label": "Standard 4 X (pré-venda SP) ou Standard 4 (PT) pelo link",
               "lines": [
                 {
-                  "label": "Kit no pedido (Max BR / 200 e Max PT)",
-                  "value": "R$ 49 (12m BR) ou aluguer 0 € (PT)"
+                  "label": "Kit Standard hoje no pedido",
+                  "value": "Depósito R$ 275 de R$ 2.400 (SP) ou 0 € (PT)"
                 },
                 {
-                  "label": "Mensalidade exibida (Max BR / 200 PT)",
-                  "value": "R$ 174,30/mês (BR) ou 31,50 €/mês (PT)"
+                  "label": "Mensalidade na ativação",
+                  "value": "R$ 189–249/mês (SP) ou 31,50–45,50 €/mês (PT)"
                 },
                 {
                   "label": "Crédito de indicação pelo link",
-                  "value": "R$ 200 (BR) ou 45 € (PT) após 2 ciclos",
+                  "value": "R$ 200 (BR) ou 45 € (PT) após 2 ciclos pagos",
                   "highlight": true
                 }
               ],
-              "totalLabel": "Pago no pedido hoje",
-              "totalValue": "R$ 49 (BR) ou 20 € de envio (PT); bônus após 2 ciclos",
-              "note": "No Max do Brasil há contrato de 12 meses; em Portugal o kit alugado volta ao cancelar."
+              "totalLabel": "Pago hoje no pedido",
+              "totalValue": "R$ 275 reserva (SP) ou 20 € envio (PT)",
+              "note": "Na Av. Paulista (SP) o Standard 4 X abriu em pré-venda sem 12 meses; em Lisboa o Standard 4 sai em aluguer a 0 € no 200 Mbps e no Max."
             },
             {
               "label": "Kit comprado fora de starlink.com",
@@ -340942,7 +340942,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Abrir pedido oficial com 30 dias de teste e bônus",
+            "label": "Abrir pedido oficial com 30 dias e R$ 200 após 2 ciclos (45 € PT)",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -340977,7 +340977,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Starlink Mini é mais lenta que a Padrão? Os planos residenciais anunciam a faixa de velocidade por plano (100 Mbps, 200 Mbps ou Max), não só pelo tamanho da antena, tanto que no Brasil o Mini X aparece tanto no 100 Mbps quanto no Max. O que muda mais entre elas é o alcance do Wi-Fi (112 m² Wi-Fi 5 na Mini contra 297 m² Wi-Fi 6 na Padrão) e o consumo elétrico.",
           "A Starlink Mini funciona em casa grande sem outro roteador? Em casas maiores que 112 m² ou com paredes grossas entre a antena externa e os quartos, o sinal integrado pode perder força. Nesse caso, vale adicionar o Router Mini interno (até 204 m²) ou ligar outro roteador compatível.",
-          "Qual gasta menos energia no nobreak durante quedas de luz? A Starlink Mini consome em média de 25 a 40 W (e aceita USB-C PD de pelo menos 100 W com cabo oficial), enquanto a Starlink Padrão consome de 75 a 100 W. Na prática, a Mini dura mais do que o dobro do tempo na mesma bateria.",
+          "Qual gasta menos energia no nobreak durante quedas de luz? A Starlink Mini consome em média de 25 a 40 W (e aceita USB-C PD de pelo menos 100 W com cabo oficial), enquanto a Starlink Padrão consome de 75 a 100 W. Na prática, a Mini consome menos e tende a durar mais na mesma bateria.",
           "Posso ligar cabo Ethernet e roteador próprio nas duas? Sim. A Mini tem 1 porta Ethernet LAN com travamento (cabo Ethernet vendido à parte; usar RJ45 comum remove a proteção IP67), e o Router 3 da Padrão traz duas portas LAN. Ambas aceitam Modo Bypass para usar roteador próprio via cabo (na Mini, sair do Bypass exige redefinição de fábrica) e suportam o mesh oficial Starlink (compatível com Router Mini, Router 3 e Router 2ª geração, até 3 nós; incompatível com mesh de terceiros).",
           "O link de indicação vale tanto na Starlink Mini quanto na Padrão? Sim. O crédito de R$ 200 no Brasil (45 € em Portugal) vale para assinaturas residenciais pedidas direto em starlink.com pelo link oficial, independente do kit exibido no seu endereço, e entra na fatura após dois ciclos mensais pagos."
         ]
@@ -341013,7 +341013,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "O pedido abre em starlink.com pelo link oficial de indicação, mostrando qual kit vale no seu CEP e mantendo os 30 dias para cancelar e devolver sem danos. O bônus de R$ 200 no Brasil (45 € em Portugal) entra na fatura após dois ciclos pagos.",
-      "label": "Ver qual kit aparece no meu CEP em starlink.com",
+      "label": "Ver kit no meu CEP com R$ 200 após 2 ciclos (45 € PT)",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -341062,7 +341062,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Check which kit your address gets on starlink.com",
+            "label": "Check my address kit with $100 / £40 bill credit after 2 cycles",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -341193,7 +341193,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "When the dish sits outside behind concrete or brick walls, bringing a separate Wi-Fi 6 router indoors beats relying solely on a dish-integrated radio.",
           "Practical rule, untested by us: the Mini's built-in Wi-Fi 5 is rated up to 112 m² and 128 devices, so roof tiles and thick interior walls reduce indoor signal speed in multi-room homes. Standard solves that by running a 15 m cable indoors to the Router 3 (up to 297 m² and 235 devices on tri-band Wi-Fi 6). That is also why current US and UK 100 Mbps orders pair the compact dish with an indoor Router Mini (up to 204 m² and 235 devices), and both kits support Starlink mesh up to 3 nodes (third-party mesh systems are not supported).",
-          "For backup power on a UPS or portable power station, the Mini has a decisive advantage: 25 to 40 W average consumption is less than half the 75 to 100 W drawn by Standard. Our math from the official power ratings: on the same battery capacity, the Mini keeps your internet running over twice as long, and it can run from 12 to 48 V DC or USB-C PD (at least 100 W 20 V/5 A using the official cable).",
+          "For backup power on a UPS or portable power station, the Mini has a decisive advantage: it averages 25 to 40 W versus 75 to 100 W on Standard. Based on those official power ratings, the Mini consumes less power and tends to last noticeably longer on the same battery capacity, and it can run from 12 to 48 V DC or USB-C PD (at least 100 W 20 V/5 A using the official cable).",
           "If you plan to run Ethernet cables or a Dual-WAN failover router, check the ports before wiring. The Mini has 1 locking Ethernet LAN port and the Ethernet cable is sold separately; using a regular unsealed RJ45 plug voids its IP67 Type 4 weather seal. Standard's indoor Router 3 gives you two protected LAN ports. Both support Bypass mode to pass the connection over Ethernet to your own router or mesh system, though exiting Bypass on the Mini requires a factory reset. For official Starlink mesh (compatible with Router Mini, Router 3, and Gen 2 routers up to 3 nodes; incompatible with third-party mesh), both kits stay within the Starlink ecosystem."
         ],
         "image": {
@@ -341281,7 +341281,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Open official order with 30-day return window and referral",
+            "label": "Open official order with 30-day return & $100 / £40 credit after 2 cycles",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -341306,17 +341306,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Verdict: Starlink Mini or Standard?",
         "paragraphs": [
-          "For power backup on a UPS or solar station, compact roof or balcony installs, or entry-level 100 Mbps service, the Starlink Mini is the most efficient choice. Its 25 to 40 W power draw doubles battery runtime compared to Standard, and US and UK 100 Mbps rental bundles already pair it with an indoor Router Mini to lift Wi-Fi 6 coverage up to 204 m².",
+          "For power backup on a UPS or solar station, compact roof or balcony installs, or entry-level 100 Mbps service, the Starlink Mini is the most efficient choice. Its lower 25 to 40 W power draw consumes less energy and tends to last noticeably longer on a UPS or battery than Standard (75 to 100 W), and US and UK 100 Mbps rental bundles already pair it with an indoor Router Mini to lift Wi-Fi 6 coverage up to 204 m².",
           "For larger homes with thick walls, heavy multi-device households, or anyone who wants tri-band Wi-Fi 6 up to 297 m² and dual Ethernet ports right out of the box, Starlink Standard (V4 + Router 3) is built for full-home coverage. In both cases, cancelling the service and returning the undamaged kit within 30 days is covered under the order terms if real-world testing falls short."
         ],
-        "emphasis": "For UPS battery backup and lightweight mounting, Starlink Mini uses less than half the power; for large-home Wi-Fi 6 coverage and wired ports straight out of the box, Standard with Router 3 is the stronger indoor setup."
+        "emphasis": "For UPS battery backup and lightweight mounting, Starlink Mini draws substantially less power (25 to 40 W vs 75 to 100 W) and tends to last longer on battery; for large-home Wi-Fi 6 coverage and wired ports straight out of the box, Standard with Router 3 is the stronger indoor setup."
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
           "Is Starlink Mini slower than Standard? Residential speeds are governed mainly by the plan tier you subscribe to (100 Mbps, 200 Mbps or Max) and local capacity. The main hardware gap is indoor Wi-Fi coverage (112 m² Wi-Fi 5 built-in vs 297 m² Wi-Fi 6 tri-band on Router 3) and power draw.",
           "Can Starlink Mini cover a large house without another router? By itself, the dish's integrated Wi-Fi 5 reaches up to 112 m² and loses strength through roofs and thick walls. US and UK 100 Mbps rental kits include a Router Mini indoors (up to 204 m²), and you can add up to 3 Starlink mesh nodes.",
-          "Which kit uses less power on a UPS or backup battery? Starlink Mini averages 25 to 40 W (and supports 100 W 20 V/5 A USB-C PD with the official cable), whereas Standard averages 75 to 100 W. On the same battery, the Mini runs more than twice as long.",
+          "Which kit uses less power on a UPS or backup battery? Starlink Mini averages 25 to 40 W (and supports 100 W 20 V/5 A USB-C PD with the official cable), whereas Standard averages 75 to 100 W. With lower draw, the Mini consumes less power and tends to last longer on the same battery.",
           "Can I connect an Ethernet cable and use Bypass mode on both? Yes. Mini has 1 locking Ethernet LAN port (Ethernet cable sold separately; a regular RJ45 cable voids IP67) and Router 3 has 2 locking LAN ports. Both support Bypass mode to pass the connection over Ethernet to your own router or mesh (exiting Bypass on Mini requires a factory reset) and official Starlink mesh (compatible with Router Mini, Router 3, and Gen 2 routers up to 3 nodes; incompatible with third-party mesh).",
           "Does the referral credit work on both Starlink Mini and Standard? Yes. Ordering either kit directly on starlink.com via the referral link applies the US$ 100 (US) or £40 (UK) bill credit after two paid monthly cycles."
         ]
@@ -341352,7 +341352,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "The order opens on starlink.com via the referral link, showing the exact kit at your address and keeping the 30-day window to cancel and return undamaged hardware. The US$ 100 (US) or £40 (UK) credit lands after two paid cycles.",
-      "label": "See which kit my address gets on starlink.com",
+      "label": "See my address kit with $100 / £40 credit after 2 cycles",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -341401,7 +341401,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Ver qué kit muestra mi dirección en starlink.com",
+            "label": "Ver qué kit abre en mi dirección con 45 € (ES) o bono tras 2 ciclos",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -341532,7 +341532,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Si la antena queda en el tejado lejos de las habitaciones o tras muros gruesos, el router separado dentro de la vivienda ofrece una cobertura mucho más sólida.",
           "Regla práctica, sin prueba nuestra: como el Wi-Fi 5 de la Mini sale desde la propia antena exterior (hasta 112 m² y 128 equipos), los forjados y muros de ladrillo u hormigón reducen la señal al entrar en casa. Con el Standard, el cable de 15 m lleva la conexión directo al Router 3 en el salón (hasta 297 m² y 235 dispositivos en Wi-Fi 6 tribanda). Si eliges la Mini en vivienda grande, conviene añadir un Router Mini interior (hasta 204 m²) o un sistema mesh oficial Starlink de hasta 3 nodos, ya que no admite mallas de terceros.",
-          "Para respaldo eléctrico con SAI, no-break, batería portátil o energía solar, la Mini marca la diferencia: gasta de 25 a 40 W de media frente a 75 a 100 W del Standard. Cuenta nuestra sobre las cifras oficiales: con la misma batería, la Mini mantiene el servicio más del doble de tiempo y además admite alimentación directa de 12 a 48 V o USB-C PD de al menos 100 W (20 V/5 A) con el cable oficial.",
+          "Para respaldo eléctrico con SAI, no-break, batería portátil o energía solar, la Mini marca la diferencia: gasta de 25 a 40 W de media frente a 75 a 100 W del Standard. Cuenta nuestra sobre las cifras oficiales: la Mini consume menos energía (25 a 40 W frente a 75 a 100 W) y tiende a durar más con la misma batería, además de que admite alimentación directa de 12 a 48 V o USB-C PD de al menos 100 W (20 V/5 A) con el cable oficial.",
           "En conexiones por cable o routers Dual-WAN, ten en cuenta las diferencias físicas. La Mini incorpora 1 puerto Ethernet LAN con bloqueo y el cable Ethernet se vende aparte; si colocas un cable RJ45 común sin sellado oficial, pierde la protección IP67 Tipo 4 frente a lluvia y polvo. El Router 3 del kit Standard ya trae dos puertos LAN protegidos dentro de casa. Ambos admiten Modo Bypass para pasar la conexión por cable a un router o sistema propio, aunque en la Mini salir del Bypass exige restablecimiento de fábrica; además, admite mesh oficial Starlink (compatible con Router Mini, Router 3 y router de 2.ª generación, hasta 3 nodos; incompatible con mesh de terceros)."
         ],
         "image": {
@@ -341620,7 +341620,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Abrir pedido oficial con prueba de 30 días y bono",
+            "label": "Abrir pedido oficial con 30 días y 45 € (ES) o bono tras 2 ciclos",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -341655,7 +341655,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿La Starlink Mini es más lenta que la Estándar? La velocidad máxima depende sobre todo del plan contratado (100 Mbps, 200 Mbps o Máx.) y de la zona, no solo del tamaño de la antena; en México, el Kit Mini funciona con el plan Residencial Max. La gran diferencia está en la cobertura Wi-Fi interior y en el consumo eléctrico.",
           "¿Funciona la Starlink Mini en una casa grande sin otro router? El Wi-Fi 5 integrado cubre hasta 112 m² desde la propia antena y pierde intensidad tras muros o tejados. Para casas grandes conviene añadir un Router Mini interior (hasta 204 m²) o malla Starlink.",
-          "¿Cuál consume menos electricidad en un SAI o no-break? La Starlink Mini consume una media de 25 a 40 W (y acepta USB-C PD mínimo de 100 W 20 V/5 A con cable oficial), frente a 75 a 100 W del kit Standard, por lo que dura más del doble con la misma batería.",
+          "¿Cuál consume menos electricidad en un SAI o no-break? La Starlink Mini consume una media de 25 a 40 W (y acepta USB-C PD mínimo de 100 W 20 V/5 A con cable oficial), frente a 75 a 100 W del kit Standard, por lo que consume menos y tiende a durar más con la misma batería.",
           "¿Puedo conectar cable Ethernet y activar Modo Bypass en ambas? Sí. La Mini tiene 1 puerto Ethernet LAN con bloqueo (cable Ethernet vendido aparte; un RJ45 común anula el IP67) y el Router 3 del kit Standard trae 2 puertos. Ambas admiten Modo Bypass para conectar un router o sistema propio por cable (salir en la Mini exige restablecimiento de fábrica) y mesh oficial Starlink (compatible con Router Mini, Router 3 y router de 2.ª generación, hasta 3 nodos; incompatible con mesh de terceros).",
           "¿El enlace de referido funciona tanto con Mini como con Estándar? Sí. Todo pedido residencial nuevo realizado en starlink.com desde el enlace recibe el crédito de factura tras dos ciclos pagados (45 € en España; confirma en pantalla el importe en México)."
         ]
@@ -341690,8 +341690,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "El pedido se abre en starlink.com desde el enlace de referido oficial, mostrando el kit disponible en tu dirección y manteniendo los 30 días para cancelar y devolver el kit sin daños. El bono llega a tu factura tras dos ciclos pagados.",
-      "label": "Ver qué kit aparece en mi dirección en starlink.com",
+      "text": "El pedido se abre en starlink.com desde el enlace de referido oficial, mostrando el kit disponible en tu dirección y manteniendo los 30 días para cancelar y devolver el kit sin daños. El bono (45 € en España; en México MX$ 700 de referencia en noviembre —confirma el importe en tu pantalla de pedido antes de pagar—) llega a tu factura tras dos ciclos pagados.",
+      "label": "Ver kit en mi dirección con 45 € (ES) o bono tras 2 ciclos",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -341740,7 +341740,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Vérifier le kit proposé à mon adresse sur starlink.com",
+            "label": "Voir le kit à mon adresse avec 45 € sur facture après 2 cycles",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -341865,7 +341865,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Si l'antenne est posée sur le toit derrière des murs porteurs ou une dalle béton, le routeur intérieur du kit Standard assure une couverture bien plus régulière que le Wi-Fi logé dans la Mini.",
           "Règle pratique, sans test de notre part : avec le Wi-Fi 5 intégré à la Mini (jusqu'à 112 m² et 128 appareils), le signal doit d'abord traverser la toiture et la façade avant d'atteindre les pièces opposées. Sur la Standard, le câble de 15 m amène la connexion directement au Router 3 au centre du salon (jusqu'à 297 m² et 235 appareils en Wi-Fi 6 tri-bande). Si vous prenez la Mini pour une grande maison, prévoyez d'ajouter un Router Mini en intérieur (jusqu'à 204 m²) ou des nœuds Mesh Starlink (jusqu'à 3 unités ; les systèmes mesh tiers ne sont pas compatibles).",
-          "Sur onduleur ou station d'énergie portable en cas de coupure de courant, la Mini prend nettement l'avantage avec 25 à 40 W en moyenne contre 75 à 100 W pour la Standard. Notre calcul d'après les puissances publiées : à capacité de batterie égale, la Mini tient plus de deux fois plus longtemps, tout en acceptant une alimentation 12 à 48 V CC ou USB-C PD d'au moins 100 W (20 V/5 A) avec le câble officiel.",
+          "Sur onduleur ou station d'énergie portable en cas de coupure de courant, la Mini prend nettement l'avantage avec 25 à 40 W en moyenne contre 75 à 100 W pour la Standard. Notre calcul d'après les puissances publiées : la Mini consomme moins d'énergie et tend à tenir plus longtemps sur une même batterie, tout en acceptant une alimentation 12 à 48 V CC ou USB-C PD d'au moins 100 W (20 V/5 A) avec le câble officiel.",
           "Côté câblage Ethernet et routeur Dual-WAN, vérifiez les connecteurs avant d'installer. La Mini possède 1 port Ethernet LAN verrouillable et le câble Ethernet est vendu séparément ; y brancher un câble RJ45 classique retire l'étanchéité IP67 Type 4. Le Router 3 du kit Standard offre deux ports Ethernet protégés à l'abri dans le salon. Les deux modèles acceptent le mode Bypass pour relier votre propre routeur ou système par câble, sachant que sortir du mode Bypass sur la Mini exige une réinitialisation d'usine ; la Mini est compatible avec le mesh officiel Starlink (Router Mini, Router 3 et routeur 2ᵉ génération jusqu'à 3 nœuds, mais incompatible avec les systèmes mesh tiers)."
         ],
         "image": {
@@ -341953,7 +341953,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Ouvrir la commande officielle avec essai 30 jours et 45 €",
+            "label": "Ouvrir la commande officielle (30 j et 45 € après 2 cycles)",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -341988,7 +341988,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Starlink Mini est-elle plus lente que la Standard ? Les débits résidentiels dépendent d'abord du forfait choisi (100 Mbit/s, 200 Mbit/s ou Max) et de la zone. La différence majeure entre les deux kits porte sur la couverture Wi-Fi intérieure (112 m² Wi-Fi 5 contre 297 m² Wi-Fi 6) et la consommation électrique.",
           "Starlink Mini suffit-elle dans une grande maison sans autre routeur ? Au-delà de 112 m² ou derrière des murs épais, le signal du Wi-Fi intégré faiblit. Il est alors conseillé d'ajouter un Router Mini en intérieur (jusqu'à 204 m²) ou un répéteur Mesh Starlink.",
-          "Quel kit consomme le moins sur un onduleur lors d'une coupure ? Starlink Mini consomme en moyenne 25 à 40 W (et accepte l'USB-C PD 100 W 20 V/5 A avec câble officiel), contre 75 à 100 W pour la Standard, soit plus du double d'autonomie sur la même batterie.",
+          "Quel kit consomme le moins sur un onduleur lors d'une coupure ? Starlink Mini consomme en moyenne 25 à 40 W (et accepte l'USB-C PD 100 W 20 V/5 A avec câble officiel), contre 75 à 100 W pour la Standard, si bien qu'elle consomme moins et tend à durer plus longtemps sur la même batterie.",
           "Peut-on brancher un câble Ethernet et activer le mode Bypass sur les deux ? Oui. La Mini intègre 1 port Ethernet LAN verrouillable (câble Ethernet vendu séparément ; un RJ45 standard fait perdre l'IP67) et le Router 3 offre 2 ports. Les deux acceptent le mode Bypass pour relier votre propre routeur ou système par câble (sortir du Bypass sur la Mini exige une réinitialisation d'usine) ainsi que le mesh officiel Starlink (compatible avec Router Mini, Router 3 et routeur 2ᵉ génération jusqu'à 3 nœuds ; incompatible avec le mesh tiers).",
           "Le lien de parrainage de 45 € fonctionne-t-il sur Mini et Standard ? Oui. Toute nouvelle souscription résidentielle passée directement sur starlink.com via le lien officiel reçoit 45 € en crédit sur facture après deux cycles payés, quel que soit le kit associé au forfait."
         ]
@@ -342024,7 +342024,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "La commande s'ouvre sur starlink.com via le lien officiel de parrainage, en affichant le kit prévu à votre adresse et les 30 jours pour annuler et renvoyer le matériel intact. Les 45 € arrivent en facture après deux cycles payés.",
-      "label": "Voir quel kit correspond à mon adresse sur starlink.com",
+      "label": "Vérifier mon kit avec 45 € sur facture après 2 cycles",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -342073,7 +342073,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Prüfen, welches Kit meine Adresse auf starlink.com erhält",
+            "label": "Kit für meine Adresse mit 45 € Gutschrift nach 2 Zyklen prüfen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -342198,7 +342198,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Wenn die Antenne auf dem Dach hinter dicken Ziegel- oder Betonwänden sitzt, verteilt der getrennte Router im Wohnzimmer das Signal deutlich verlässlicher als die integrierte Antennen-Einheit.",
           "Faustregel ohne eigenen Praxistest: Da das Wi-Fi 5 der Mini bis 112 m² direkt vom Außenmodul abstrahlt, dämpfen Dachziegel und Massivwände die Reichweite auf dem Weg in entfernte Räume. Beim Standard-Kit führt das 15-m-Kabel bis in den Wohnbereich, wo der Router 3 Tri-Band-Wi-Fi 6 für bis zu 297 m² und 235 Geräte bereitstellt. Wer bei der Mini mehr Innenraum-Abdeckung braucht, kombiniert sie mit einem Router Mini (bis 204 m²) oder bis zu 3 Starlink-Mesh-Knoten, da fremde Mesh-Systeme nicht unterstützt werden.",
-          "Bei Stromausfall über eine USV oder mobile Powerstation spielt die Mini ihre Stärke aus: 25 bis 40 W durchschnittlicher Bedarf sind weniger als die Hälfte der 75 bis 100 W des Standard-Kits. Unsere Rechnung aus den Herstellerwerten: Am gleichen Akku bleibt das Internet mit der Mini mehr als doppelt so lange online, und mit dem offiziellen USB-C-Kabel reicht eine Powerbank oder ein Netzteil mit mindestens 100 W PD (20 V/5 A) sowie 12 bis 48 V Gleichstrom.",
+          "Bei Stromausfall über eine USV oder mobile Powerstation spielt die Mini ihre Stärke aus: 25 bis 40 W durchschnittlicher Bedarf liegen deutlich unter den 75 bis 100 W des Standard-Kits. Unsere Einordnung aus den Herstellerwerten: Die Mini verbraucht weniger Strom und hält am gleichen Akku tendenziell länger durch, und mit dem offiziellen USB-C-Kabel reicht eine Powerbank oder ein Netzteil mit mindestens 100 W PD (20 V/5 A) sowie 12 bis 48 V Gleichstrom.",
           "Für LAN-Kabel oder einen eigenen Dual-WAN-Router zählen die Anschlüsse: Die Mini besitzt 1 verriegelbaren Ethernet-LAN-Port (Ethernet-Kabel separat erhältlich); ein normales RJ45-Kabel hebt die IP67-Wetterabdichtung auf. Der Router 3 des Standard-Kits bietet geschützt im Haus zwei verriegelbare LAN-Buchsen. Beide unterstützen den Bypass-Modus zur Kabelweitergabe an einen eigenen Router, wobei bei der Mini zum Beenden ein Zurücksetzen auf Werkseinstellungen nötig ist; zudem unterstützt sie offizielles Starlink-Mesh (kompatibel mit Router Mini, Router 3 und Router der 2. Generation bis zu 3 Knoten; kein Drittanbieter-Mesh)."
         ],
         "image": {
@@ -342286,7 +342286,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Offizielle Bestellung mit 30-Tage-Test und 45 € öffnen",
+            "label": "Offizielle Bestellung mit 30-Tage-Test und 45 € nach 2 Zyklen öffnen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -342321,7 +342321,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Ist Starlink Mini langsamer als das Standard-Kit? Die Geschwindigkeit hängt in erster Linie vom gewählten Tarif (100 Mbit/s, 200 Mbit/s oder Max) und der regionalen Auslastung ab. Der praktische Unterschied zwischen den Kits liegt bei der WLAN-Reichweite (112 m² Wi-Fi 5 vs. 297 m² Wi-Fi 6) und beim Stromverbrauch.",
           "Reicht Starlink Mini in einem großen Haus ohne weiteren Router? Die integrierte Wi-Fi-5-Einheit deckt bis zu 112 m² ab und verliert durch Dach und Massivwände an Stärke. Für größere Häuser empfiehlt sich der zusätzliche Router Mini (bis 204 m²) oder Starlink-Mesh.",
-          "Welches Kit braucht weniger Strom an einer USV bei Stromausfall? Starlink Mini benötigt im Schnitt 25 bis 40 W (und läuft per offiziellem Kabel auch an 100 W USB-C PD 20 V/5 A), während Standard 75 bis 100 W zieht. Am gleichen Akku hält die Mini mehr als doppelt so lange.",
+          "Welches Kit braucht weniger Strom an einer USV bei Stromausfall? Starlink Mini benötigt im Schnitt 25 bis 40 W (und läuft per offiziellem Kabel auch an 100 W USB-C PD 20 V/5 A), während Standard 75 bis 100 W zieht. Dadurch verbraucht die Mini weniger Strom und hält am gleichen Akku tendenziell länger durch.",
           "Kann man bei beiden ein LAN-Kabel anschließen und den Bypass-Modus nutzen? Ja. Die Mini hat 1 verriegelbaren Ethernet-LAN-Port (Ethernet-Kabel separat erhältlich; ein normales RJ45-Kabel hebt IP67 auf) und der Router 3 hat 2 Ports. Beide unterstützen den Bypass-Modus zur Kabelweitergabe an einen eigenen Router (bei der Mini ist zum Beenden ein Werksreset nötig) sowie offizielles Starlink-Mesh (kompatibel mit Router Mini, Router 3 und Router der 2. Generation bis zu 3 Knoten; kein Drittanbieter-Mesh).",
           "Gilt der 45-€-Empfehlungslink für Mini und Standard? Ja. Sowohl Bestellungen mit Mini X (100 Mbit/s) als auch mit Standard 4 (200 Mbit/s und Max) direkt auf starlink.com über den Empfehlungslink erhalten nach zwei bezahlten Zyklen 45 € Gutschrift auf der Rechnung."
         ]
@@ -342357,7 +342357,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "Die Bestellung öffnet sich über den offiziellen Empfehlungslink auf starlink.com, zeigt das passende Kit für Ihre Adresse und wahrt die 30 Tage zur Kündigung und unbeschädigten Rückgabe. Die 45 € Gutschrift folgen nach zwei bezahlten Zyklen.",
-      "label": "Passendes Kit für meine Adresse auf starlink.com prüfen",
+      "label": "Passendes Kit mit 45 € Gutschrift nach 2 Zyklen prüfen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -342406,7 +342406,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Verifica quale kit compare al mio indirizzo su starlink.com",
+            "label": "Verifica il kit al tuo indirizzo con 45 € in fattura dopo 2 cicli",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -342531,7 +342531,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quando l'antenna resta sul tetto dietro muri portanti o solai spessi, avere il router separato dentro casa garantisce una copertura molto più stabile rispetto al Wi-Fi integrato nella Mini.",
           "Regola pratica, senza nostro test diretto: sulla Mini, il segnale Wi-Fi 5 (fino a 112 m² e 128 dispositivi) parte dall'esterno e perde potenza attraversando tegole e pareti in muratura. Con lo Standard, il cavo da 15 m entra in salotto fino al Router 3 (fino a 297 m² e 235 dispositivi in Wi-Fi 6 tri-band). Se scegli la Mini in un'abitazione ampia, conviene affiancarle un Router Mini interno (fino a 204 m²) o una rete Mesh Starlink fino a 3 nodi, poiché i sistemi mesh di altri marchi non sono compatibili.",
-          "Per l'alimentazione di emergenza su gruppo di continuità (UPS) o stazione portatile, la Mini fa la differenza: assorbe in media da 25 a 40 W contro un consumo da 75 a 100 W dello Standard. Nostro calcolo dai dati ufficiali: sulla stessa batteria, la Mini sostiene la connessione per oltre il doppio del tempo e supporta inoltre ingressi da 12 a 48 V CC o USB-C PD da almeno 100 W (20 V/5 A) con il cavo ufficiale.",
+          "Per l'alimentazione di emergenza su gruppo di continuità (UPS) o stazione portatile, la Mini fa la differenza: assorbe in media da 25 a 40 W contro un consumo da 75 a 100 W dello Standard. Nostro calcolo dai dati ufficiali: la Mini assorbe meno energia e tende a durare di più sulla stessa batteria e supporta inoltre ingressi da 12 a 48 V CC o USB-C PD da almeno 100 W (20 V/5 A) con il cavo ufficiale.",
           "Sul fronte cablaggio Ethernet e router personali o Dual-WAN vanno ricordati tre aspetti tecnici. La Mini offre 1 porta Ethernet LAN con blocco (cavo Ethernet venduto a parte); inserire un comune RJ45 senza guarnizione annulla la protezione IP67 Tipo 4. Il Router 3 dello Standard mette già a disposizione 2 porte LAN al riparo dentro casa. Entrambe supportano la modalità Bypass per passare la connessione via cavo a un router o sistema proprio (sulla Mini l'uscita richiede il ripristino alle impostazioni di fabbrica) e il mesh ufficiale Starlink (compatibile con Router Mini, Router 3 e router di 2ª generazione fino a 3 nodi; incompatibile con mesh di terzi)."
         ],
         "image": {
@@ -342619,7 +342619,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Apri ordine ufficiale con prova 30 giorni e 45 €",
+            "label": "Apri ordine ufficiale con prova 30 giorni e 45 € dopo 2 cicli",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -342654,7 +342654,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Starlink Mini è più lenta rispetto allo Standard? Le velocità dipendono principalmente dal piano scelto (100 Mbps, 200 Mbps o Max) e dal traffico locale. La vera differenza tra i kit riguarda copertura Wi-Fi interna (112 m² Wi-Fi 5 vs 297 m² Wi-Fi 6) e consumi elettrici.",
           "La Starlink Mini basta in una casa grande senza un altro router? Il Wi-Fi 5 integrato arriva fino a 112 m² dall'antenna esterna e si attenua attraversando tetto e pareti spesse; in case grandi conviene aggiungere un Router Mini interno (fino a 204 m²) o nodi Mesh Starlink.",
-          "Quale kit consuma meno su un gruppo di continuità in caso di blackout? Starlink Mini assorbe in media 25–40 W (e supporta USB-C PD da almeno 100 W 20 V/5 A con cavo ufficiale), contro 75–100 W dello Standard, garantendo più del doppio di durata a parità di batteria.",
+          "Quale kit consuma meno su un gruppo di continuità in caso di blackout? Starlink Mini assorbe in media 25–40 W (e supporta USB-C PD da almeno 100 W 20 V/5 A con cavo ufficiale), contro 75–100 W dello Standard, consumando quindi meno e tendendo a durare di più a parità di batteria.",
           "Posso collegare il cavo Ethernet e attivare la modalità Bypass su entrambi? Sì. La Mini ha 1 porta Ethernet LAN con blocco (cavo Ethernet venduto a parte; un normale RJ45 rimuove la tenuta IP67) e il Router 3 dello Standard ne ha 2. Entrambe supportano il Bypass per collegare via cavo un router o sistema proprio (sulla Mini per uscire dal Bypass serve il reset di fabbrica) e il mesh ufficiale Starlink (compatibile con Router Mini, Router 3 e router di 2ª generazione fino a 3 nodi; incompatibile con mesh di terzi).",
           "Il credito invito da 45 € vale sia sulla Mini sia sullo Standard? Sì. Qualsiasi nuovo abbonamento residenziale ordinato direttamente su starlink.com dal link ufficiale riceve i 45 € in fattura dopo due cicli mensili pagati, indipendentemente dal kit del piano."
         ]
@@ -342690,7 +342690,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "L'ordine si apre su starlink.com tramite il link ufficiale di invito, mostrando il kit assegnato al tuo indirizzo e mantenendo i 30 giorni per annullare e restituire il kit integro. I 45 € arrivano in fattura dopo due cicli pagati.",
-      "label": "Vedi quale kit compare al mio indirizzo su starlink.com",
+      "label": "Vedi kit al mio indirizzo con 45 € dopo 2 cicli",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     }
@@ -342739,7 +342739,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "紹介リンクから自分の住所でキットと条件を確認する",
+            "label": "住所別の提供キットを確認（2回支払い後7,000円請求クレジット）",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -342867,7 +342867,7 @@ export const reviewsData: unknown[] = [
         "heading": "室内のWi-Fi強度・消費電力・Ethernetとメッシュの考え方",
         "paragraphs": [
           "実用上の目安（当サイトによる自宅測定ではなく公式仕様からの整理）として、Mini単体を屋外の屋根やベランダに置く場合、内蔵Wi-Fi 5（最大112 m²）の電波は外壁や断熱材を挟むと室内奥まで届きにくくなります。日本の「ホーム」レンタルで小型ルーター（Router Mini）が同梱されるのはこの弱点を補うためで、Router Miniは本体83.6 × 138 × 27 mm・112 gの屋内用ながらWi-Fi 6（Dual Band 2×2 MU-MIMO）で最大204 m²・235台までカバーし、1 GbpsのRJ-45 Ethernetポートを2口備えています。",
-          "停電時のバックアップ回線や車中泊・ポータブル電源運用を重視するなら、平均消費電力の差が決定打になります。Miniは25〜40 Wで済み、公式USB PDケーブルを使えば100 W（20 V/5 A）出力のUSB PD電源や12〜48 VのDC電源から直接動かせるため、同じ容量のUPSやポータブル電源でもStandard（75〜100 W）の約2倍以上長く稼働させられます。",
+          "停電時のバックアップ回線や車中泊・ポータブル電源運用を重視するなら、平均消費電力の差が決定打になります。Miniは25〜40 Wで済み、公式USB PDケーブルを使えば100 W（20 V/5 A）出力のUSB PD電源や12〜48 VのDC電源から直接動かせるため、Standard（75〜100 W）より消費電力が少なく、同じ容量のUPSやポータブル電源でもより長く稼働させやすい設計です。",
           "一方、既存の自宅ルーターとDual-WANで自動フェイルオーバーを組んだり、防水を維持したまま有線LANを引き回したりする場面では注意が必要です。Miniにはロック付Ethernet LANポートが1口ありますが、Ethernetケーブルは別売りのため純正ケーブルを使わず一般的なRJ45ケーブルを挿すとIP67 Type 4の防水性能が失われます。Standard（V4）なら最初から屋内にRouter 3を置いて2口のEthernet LANを使えるため、有線接続が多い環境では配線がシンプルです。なお、どちらもアプリでバイパスモードに切り替えて手持ちのルーターやメッシュ機器へ有線接続できますが（Miniのバイパス解除には工場出荷時リセットが必要）、公式メッシュはStarlink製機器（Router Mini、Router 3、第2世代ルーターで最大3ノードまで）のみ対応し、他社製メッシュとは非互換です。各速度プランの詳細は[Starlink住宅向けプラン比較](/ja/reviews/starlink-plans-100-200-max-ja)もご覧ください。"
         ],
         "image": {
@@ -342953,7 +342953,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "30日間のお試し付きでstarlink.comの住所を確認する",
+            "label": "30日返却・7,000円クレジット（2回請求後）で公式注文を開く",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -342989,7 +342989,7 @@ export const reviewsData: unknown[] = [
           "Starlink MiniはStandardより通信速度が遅いですか？ 東京のホームプラン（最大300+ Mbps）でもMiniレンタルが提供されており、一般的な家庭用通信には十分な帯域がありますが、大型アンテナのStandardは悪天候時や高いスループットが求められる環境で余裕が出やすい設計です。実際の速度は設置場所と時間帯で変わります。",
           "Starlink Miniだけで広い家の中までWi-Fiが届きますか？ Mini単体の内蔵Wi-FiはWi-Fi 5（最大112 m²）で屋外設置時に壁で減衰しやすいですが、日本のオンラインレンタルでは屋内用の小型ルーター（Router Mini・Wi-Fi 6・最大204 m²）がセットで提供されるため、屋内のカバー範囲を広げられます。",
           "7,000円の紹介クレジットはMiniとStandardのどちらでも受け取れますか？ はい。starlink.comの専用紹介リンクから新規で住宅または旅行プランを申し込めば、使用するキットの種類に関わらず対象になります。2請求サイクルの継続・支払い後に請求クレジットとして反映されます。",
-          "停電時にポータブル電源やUPSで動かすならどちらが有利ですか？ 消費電力が平均25〜40 WのStarlink Miniが圧倒的に有利です。Standard（75〜100 W）に比べて半分以下の電力で動くうえ、MiniはDC電源入力や100 W以上のUSB PD出力にも対応するため長時間運用に向いています。",
+          "停電時にポータブル電源やUPSで動かすならどちらが有利ですか？ 消費電力が平均25〜40 WのStarlink Miniが圧倒的に有利です。Standard（75〜100 W）に比べて消費電力が大幅に少ないため、同じバッテリーでも長く稼働させやすいうえ、MiniはDC電源入力や100 W以上のUSB PD出力にも対応するため長時間運用に向いています。",
           "どちらのキットでも手持ちのWi-Fiルーターを有線で接続できますか？ はい。Miniはロック付Ethernet LANポートを1口備えており（Ethernetケーブルは別売、通常のRJ45ケーブルを挿すとIP67防水が失われます）、StandardのRouter 3は2口を備えます。どちらも有線接続向けにバイパスモードへ切り替え可能ですが、Miniでバイパスを解除するには工場出荷時リセットが必要です。また、公式メッシュはStarlink製機器（Router Mini、Router 3、第2世代ルーターで最大3ノードまで）のみ対応し、他社製メッシュとは非互換です。"
         ]
       }
@@ -343008,7 +343008,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "紹介リンクからstarlink.comを開くと、公式サイトと同条件で自宅住所の提供キットとレンタル条件を確認でき、30日間の試行返却も付きます。日本では2請求サイクルの継続後に7,000円の紹介クレジットが請求へ反映されます。",
-      "label": "starlink.comで自分の住所とキットを確認",
+      "label": "7,000円クレジット（2回後）付きで住所とキットを確認",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -343073,7 +343073,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "추천 링크로 내 주소에서 Mini·스탠다드 조건 확인하기",
+            "label": "2주기 납부 후 청구서 추천 크레딧 포함 Mini·스탠다드 확인하기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -343288,7 +343288,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "30일 반납 조건과 내 주소 키트 가격 확인하기",
+            "label": "30일 반납·2주기 후 청구서 추천 크레딧으로 주문 화면 열기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -343324,7 +343324,7 @@ export const reviewsData: unknown[] = [
           "Mini를 사면 맥스(Max) 요금제를 쓸 수 없나요? 아니요. 서울 주문 화면 기준으로 100Mbps와 맥스 요금제 모두에서 Mini와 스탠다드 4 X 중 원하는 하드웨어를 직접 고를 수 있습니다. 다만 안테나 크기와 내장 Wi-Fi 범위에는 차이가 있습니다.",
           "Mini만 사면 집 안 전체에서 와이파이가 잘 터질까요? Mini는 안테나 내부에 Wi-Fi 5(최대 112 m²)가 들어 있어 안테나를 야외에 두면 두꺼운 벽 너머 방에서는 신호가 약해질 수 있습니다. 집이 넓다면 스탠다드 4 X를 고르거나 실내에 별도 공유기(바이패스 모드) 또는 스타링크 메시 노드를 두는 편이 안전합니다.",
           "추천 크레딧은 두 키트 중 무엇을 사도 받을 수 있나요? 네. starlink.com의 추천 링크로 처음 주문하고 두 번의 청구 주기를 유지·납부하면 Mini와 스탠다드 4 X 모두 대상에 포함됩니다. 실제 추천 금액은 국가와 시기에 따라 다를 수 있으므로 결제 전에 주문 화면에서 실제 금액을 확인하세요.",
-          "정전 대비 UPS나 휴대용 파워뱅크에 연결하기에는 어느 쪽이 좋나요? 평균 소비전력이 25~40 W인 Mini가 훨씬 유리합니다. 스탠다드 V4(75~100 W)보다 전력 소모가 절반 이하이고 100 W USB PD 전원도 공식 지원합니다.",
+          "정전 대비 UPS나 휴대용 파워뱅크에 연결하기에는 어느 쪽이 좋나요? 평균 소비전력이 25~40 W인 Mini가 훨씬 유리합니다. 스탠다드 V4(75~100 W)보다 소비전력이 훨씬 적어 같은 배터리에서도 더 오래 버티는 편이며 100 W USB PD 전원도 공식 지원합니다.",
           "Mini에도 일반 LAN선(RJ45)을 꽂거나 바이패스 모드를 쓸 수 있나요? Mini에는 잠금식 Ethernet LAN 포트 1개가 있으며 전용 Ethernet 케이블은 별매입니다(일반 RJ45 케이블을 쓰면 IP67 Type 4 방수 성능이 유지되지 않습니다). 유선으로 개인 라우터를 연결하는 바이패스 모드를 지원하며(Mini에서 바이패스 해제 시 공장 초기화 필요), 공식 스타링크 메시(Router Mini, Router 3, 2세대 라우터 최대 3노드)만 호환되고 타사 메시는 지원하지 않습니다."
         ]
       }
@@ -343343,7 +343343,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "추천 링크로 starlink.com에 접속하면 서울 등 내 주소에서 Mini와 스탠다드 4 X의 최신 가격 및 30일 반납 조건을 그대로 확인할 수 있습니다. 2주기 납부 후 청구서 크레딧으로 반영되는 추천 금액(11월 기준 참고 금액 ₩65,000)은 결제 전에 주문 화면에서 실제 금액을 확인하세요.",
-      "label": "starlink.com에서 Mini·스탠다드 조건 확인",
+      "label": "2주기 후 청구서 추천 크레딧 받고 Mini·스탠다드 확인",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -343408,7 +343408,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "透過推薦連結確認我的地址可選套件與獎勵金額",
+            "label": "查看我的地址配發套件（滿兩期帳單享推薦抵扣）",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -343623,7 +343623,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "用我的地址開啟官網訂購頁並確認 30 天條款",
+            "label": "開啟官網訂購頁享 30 天試用與滿兩期帳單推薦抵扣",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -343677,8 +343677,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "透過推薦連結進入 starlink.com，價格與官網完全相同，並能在下單前看清你的地址配發 Mini 還是 Standard、是否享有 30 天退還退款條款，以及實際發放的推薦抵扣（例如美國 US$ 100，馬來西亞 11 月參考金額 RM 180，付款前請確認訂購頁顯示）。",
-      "label": "到 starlink.com 查看我的地址與套件條件",
+      "text": "透過推薦連結進入 starlink.com，價格與官網完全相同，並能在下單前看清你的地址配發 Mini 還是 Standard、是否享有 30 天退還退款條款，以及付清兩個計費週期後發放的帳單推薦抵扣（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請確認訂購頁顯示）。",
+      "label": "滿兩期帳單領推薦抵扣並查看套件條件",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -343743,7 +343743,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "通过推荐链接确认我的地址可选套件与奖励金额",
+            "label": "查看我的地址配发套件（满两期账单享推荐抵扣）",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -343871,7 +343871,7 @@ export const reviewsData: unknown[] = [
         "heading": "室内穿墙信号、UPS 功耗与 Bypass・Mesh 接线注意",
         "paragraphs": [
           "按实用规则整理（基于官方规格分析，非本站实测）：在砖墙或混凝土墙较多的住宅里，Starlink Mini 将 Wi-Fi 5 路由器集成在户外天线上，信号得先穿过外墙玻璃才能进入室内，官方标称的 112 m² 覆盖在隔墙后会进一步缩小。如果你家面积较大，要么通过网线把信号拉回室内自有路由器，要么搭配官方的 Router Mini（83.6 × 138 × 27 mm、重 112 g、限室内使用，支持 Wi-Fi 6 最高 204 m² 与 235 台设备，自带 2 个 1 Gbps RJ-45 接口）做无线或有线节点。",
-          "如果买 Starlink 主要是为了给不稳定光纤做备援，或考虑停电时接入 UPS・便携储能电源维持上网，Mini 的低功耗优势非常明显：25–40 W 的平均功耗大约只有 Standard（75–100 W）的一半，而且 Mini 能用官方线缆直接接入 12–48 V 直流或 100 W USB PD 电源，同样容量的电池能多撑一倍以上时间。",
+          "如果买 Starlink 主要是为了给不稳定光纤做备援，或考虑停电时接入 UPS・便携储能电源维持上网，Mini 的低功耗优势非常明显：25–40 W 的平均功耗大约只有 Standard（75–100 W）的一半，而且 Mini 能用官方线缆直接接入 12–48 V 直流或 100 W USB PD 电源，功耗更低，在同样容量的电池或 UPS 上往往能维持更长时间。",
           "需要有线连接 NAS、交换机或开启 Bypass 模式接入双 WAN 路由器的用户，还得留意接口细节：Mini 机身带 1 个锁紧式 Ethernet LAN 口，盒内不标配网线（专用网线需另购），若直接插普通 RJ45 水晶头会破坏机身的 IP67 防水密封；Standard V4 把两个 LAN 口做在室内的 Router 3 上，接网线省心得多。两款均支持 Bypass 模式以有线连接自备路由器或 Mesh（注意 Mini 退出 Bypass 须恢复出厂设置），官方 Mesh 最多支持 3 个 Starlink 节点（兼容 Router Mini、Router 3 与第 2 代路由器，不兼容第三方 Mesh）。各档套餐对比见[Starlink 100 Mbps、200 Mbps 与 Max 套餐对比](/zh-hans/reviews/starlink-plans-100-200-max-zh-hans)。"
         ],
         "image": {
@@ -343958,7 +343958,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "输入我的地址查看套件模式与 30 天条款",
+            "label": "打开官网订购页享 30 天试用与满两期账单推荐抵扣",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -344012,8 +344012,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "通过推荐链接进入 starlink.com，价格与官网完全一致，并可在付款前看清你所在地址提供的是 Mini 还是 Standard、是否适用 30 天退回条款，以及实际显示的推荐金额（如美国 US$ 100，马来西亚 11 月参考金额 RM 180，付款前请核对订单页）。",
-      "label": "前往 starlink.com 查看我的地址与套件条件",
+      "text": "通过推荐链接进入 starlink.com，价格与官网完全一致，并可在付款前看清你所在地址提供的是 Mini 还是 Standard、是否适用 30 天退回条款，以及缴清两个计费周期后入账的账单推荐金额（如美国 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请核对订单页）。",
+      "label": "满两期账单享推荐抵扣并查看套件条件",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -344078,7 +344078,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "تحقق من خيارات Mini وStandard لعنواني عبر رابط الإحالة",
+            "label": "تحقق من خيارات Mini وStandard مع رصيد في الفاتورة بعد دورتين",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -344200,7 +344200,7 @@ export const reviewsData: unknown[] = [
         "heading": "إشارة الواي فاي في المنازل، استهلاك UPS ومنافذ الشبكة",
         "paragraphs": [
           "كقاعدة عملية (مستخلصة من المواصفات الرسمية وليست قياسًا ميدانيًا منا): في البيوت المبنية من الخرسانة والطوب في الخليج، وضع طبق Mini فوق السطح يعني أن راوتر Wi-Fi 5 المدمج بداخله سيتأثر بالسقف والجدران قبل وصول الإشارة إلى الغرف السفلية، فتتقلص التغطية العملية عن الـ 112 م² النظرية. إذا أردت تقوية الإشارة في البيت مع Mini أو إذا حصلت في أسواق أخرى على Router Mini (أبعاده 83.6 × 138 × 27 مم، وزنه 112 جم، للاستخدام الداخلي فقط، يدعم Wi-Fi 6 حتى 204 م² و235 جهازًا بمنفذي Ethernet بسرعة 1 جيجابت)، فالحل يكون بوضع راوتر داخلي موصول سلكيًا.",
-          "أما في التشغيل كخط احتياطي للألياف أو مع جهاز UPS ومحطة طاقة محمولة أثناء انقطاع الكهرباء أو في التخييم والبر، فيتفوّق Mini بقوة: متوسط استهلاكه 25–40 واط فقط مقارنة بـ 75–100 واط في Standard V4، ويمكن تشغيله مباشرة عبر مدخل تيار مستمر 12–48 فولت أو شاحن USB PD بقدرة لا تقل عن 100 واط (20 فولت / 5 أمبير) مع الكابل الرسمي، ما يضاعف زمن التشغيل على البطارية نفسها.",
+          "أما في التشغيل كخط احتياطي للألياف أو مع جهاز UPS ومحطة طاقة محمولة أثناء انقطاع الكهرباء أو في التخييم والبر، فيتفوّق Mini بقوة: متوسط استهلاكه 25–40 واط فقط مقارنة بـ 75–100 واط في Standard V4، ويمكن تشغيله مباشرة عبر مدخل تيار مستمر 12–48 فولت أو شاحن USB PD بقدرة لا تقل عن 100 واط (20 فولت / 5 أمبير) مع الكابل الرسمي، فتستهلك طاقة أقل وتمتد فترة تشغيلها على البطارية نفسها.",
           "وبالنسبة للربط السلكي مع راوتر Dual-WAN أو السيرفر المنزلي، تذكّر أن لدى Mini منفذ Ethernet LAN واحدًا بقفل وأن كابل Mini Ethernet الرسمي يُباع منفصلًا (لا تتضمنه العلبة)، وأن تركيب كابل RJ45 عادي يفقد الطبق عزل IP67 Type 4 ضد الغبار والمطر. في المقابل، يمنحك Standard V4 راوتر Router 3 داخل المنزل بمنفذي LAN جاهزين للربط المباشر. وكلا الطبقين يتيح وضع Bypass عبر التطبيق لتمرير الاتصال سلكيًا إلى راوتر خاص (يتطلب الخروج من Bypass على Mini إعادة ضبط المصنع)، كما يدعمان شبكة Mesh الرسمية من Starlink (المتوافقة مع Router Mini وRouter 3 وراوتر الجيل الثاني حتى 3 عقد؛ ولا تدعم أجهزة Mesh من شركات أخرى). لمقارنة الباقات والسرعات راجع [مقارنة باقات Starlink السكنية](/ar/reviews/starlink-plans-100-200-max-ar)."
         ],
         "image": {
@@ -344287,7 +344287,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "اعرض أسعار Mini وStandard لعنوانك مع تجربة 30 يومًا",
+            "label": "اعرض أسعار Mini وStandard مع تجربة 30 يومًا ورصيد بعد دورتين",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -344341,8 +344341,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "افتح الطلب على starlink.com عبر رابط الإحالة بالسعر الرسمي نفسه ومع فترة تجريبية 30 يومًا لإلغاء الخدمة وإعادة الجهاز سليمًا. تختلف مكافأة الإحالة بحسب البلد بعد دورتي فوترة (المبلغ المرجعي في نوفمبر OMR 15 لعُمان و160 QAR لقطر — اعتمد المبلغ الذي يظهر في طلبك قبل الدفع).",
-      "label": "اختر Mini أو Standard لعنواني على starlink.com",
+      "text": "افتح الطلب على starlink.com عبر رابط الإحالة بالسعر الرسمي نفسه ومع فترة تجريبية 30 يومًا لإلغاء الخدمة وإعادة الجهاز سليمًا. يُضاف رصيد الإحالة في الفاتورة بعد سداد دورتي فوترة كاملتين بحسب بلدك (المبلغ المرجعي في نوفمبر OMR 15 لعُمان و160 QAR لقطر — اعتمد المبلغ الذي يظهر في طلبك قبل الدفع).",
+      "label": "اختر Mini أو Standard مع رصيد الفاتورة بعد دورتين",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -344402,11 +344402,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Starlink divide o uso residencial entre 100 Mbps, 200 Mbps e Max, mas nem todos aparecem em todo endereço. Além dos megabits, a escolha muda a antena enviada, a fidelidade e o valor da instalação. Confira o que abre no seu CEP pelo link oficial para pagar menos e receber crédito na fatura depois."
+          "A Starlink divide o uso residencial entre 100 Mbps, 200 Mbps e Max, mas nem todos aparecem em todo endereço. Além dos megabits, a escolha muda a antena enviada, a fidelidade e o valor da instalação. Confira o que abre no seu CEP pelo link oficial e receba o crédito na fatura após dois ciclos pagos."
         ],
         "links": [
           {
-            "label": "Conferir planos disponíveis no seu endereço",
+            "label": "Conferir planos no meu CEP com R$ 200 na fatura após 2 ciclos (45 € PT)",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -344621,7 +344621,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Ver plano, kit e crédito no seu endereço",
+            "label": "Ver plano, kit e R$ 200 na fatura após 2 ciclos (45 € PT)",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -344647,8 +344647,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Digite seu endereço pelo link oficial para ver quais planos abrem no seu CEP, conferir antena e contrato no resumo e garantir o crédito na fatura após dois ciclos pagos.",
-      "label": "Consultar planos e bônus no seu CEP",
+      "text": "Digite seu endereço pelo link oficial para ver quais planos abrem no seu CEP, conferir antena e contrato no resumo e garantir R$ 200 no Brasil (45 € em Portugal) na fatura após dois ciclos pagos.",
+      "label": "Consultar planos e R$ 200 de crédito após 2 ciclos (45 € PT)",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -344725,7 +344725,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Check available plans at your address",
+            "label": "Check local plans with $100 / £40 bill credit after 2 cycles",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -344940,7 +344940,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Verify your plan, kit, and referral credit",
+            "label": "Verify plan, kit & $100 / £40 bill credit after 2 cycles",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -344966,8 +344966,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Enter your street address on the official site to check local tier prices, verify included hardware and installation, and lock in your referral bill credit after two paid cycles.",
-      "label": "Check local plans and bonus credit",
+      "text": "Enter your street address on the official site to check local tier prices, verify included hardware and installation, and lock in your US$ 100 (US) or £40 (UK) bill credit after two paid cycles.",
+      "label": "Check local plans with $100 / £40 credit after 2 cycles",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -345044,7 +345044,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Consultar planes disponibles en tu dirección",
+            "label": "Ver planes disponibles con 45 € (ES) o bono en factura tras 2 ciclos",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -345252,7 +345252,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Comprobar plan, antena y crédito en tu dirección",
+            "label": "Comprobar plan, antena y 45 € (ES) o bono tras 2 ciclos",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -345278,8 +345278,8 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Introduce tu dirección en el configurador oficial para ver qué planes abren en tu código postal, revisar antena y permanencia y asegurar el bono en factura tras dos ciclos pagados.",
-      "label": "Ver planes y crédito en tu dirección",
+      "text": "Introduce tu dirección en el configurador oficial para ver qué planes abren en tu código postal, revisar antena y permanencia y asegurar el bono en factura tras dos ciclos pagados (45 € en España; en México MX$ 700 de referencia en noviembre —confirma el importe en tu pantalla de pedido antes de pagar—).",
+      "label": "Ver planes con 45 € (ES) o bono tras 2 ciclos",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -345356,7 +345356,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Vérifier les forfaits disponibles à votre adresse",
+            "label": "Voir les forfaits à mon adresse avec 45 € sur facture après 2 cycles",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -345552,7 +345552,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Vérifier forfait, matériel et crédit à votre adresse",
+            "label": "Vérifier forfait, kit et 45 € sur facture après 2 cycles",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -345579,7 +345579,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "Saisissez votre adresse sur le site officiel pour consulter les forfaits ouverts dans votre commune, vérifier le kit attribué et recevoir 45 € en facture après deux mois payés.",
-      "label": "Voir les forfaits et le bonus à votre adresse",
+      "label": "Voir les forfaits avec 45 € de crédit après 2 cycles",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -345656,7 +345656,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Verfügbare Tarife an Ihrer Adresse prüfen",
+            "label": "Tarife an meiner Adresse mit 45 € Gutschrift nach 2 Zyklen prüfen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -345852,7 +345852,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Tarif, Mietkit und Bonus für Ihre Adresse prüfen",
+            "label": "Tarif, Mietkit und 45 € Gutschrift nach 2 Zyklen prüfen",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -345879,7 +345879,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "Geben Sie Ihre Straße direkt auf starlink.com ein, prüfen Sie Mietkit, 3-Monats-Rabatt sowie Folgepreis und sichern Sie sich 45 € Rechnungsguthaben nach zwei bezahlten Zyklen.",
-      "label": "Tarife und Bonus an Ihrer Adresse prüfen",
+      "label": "Tarife mit 45 € Rechnungsgutschrift nach 2 Zyklen prüfen",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -345944,7 +345944,7 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-24",
     "draft": false,
     "isNew": false,
-    "image": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa.webp",
+    "image": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa-v2.webp",
     "imageAlt": "Copertina comparativa con pannello nero con STARLINK e il titolo 100, 200 Mbps o Max? accanto a un'antenna Starlink montata sul tetto in legno contro il cielo azzurro.",
     "imageFit": "contain",
     "imageAspect": "landscape",
@@ -345956,7 +345956,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "Verifica i piani disponibili al tuo indirizzo",
+            "label": "Verifica i piani disponibili con 45 € in fattura dopo 2 cicli",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -346152,7 +346152,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "Verifica piano, kit e bonus al tuo indirizzo",
+            "label": "Verifica piano, kit e 45 € in fattura dopo 2 cicli",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -346179,7 +346179,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "Inserisci il tuo indirizzo sul sito ufficiale per verificare tariffe per 3 mesi e a regime, modello di antenna assegnato e credito di 45 € in fattura dopo due cicli pagati.",
-      "label": "Controlla piani e credito al tuo indirizzo",
+      "label": "Controlla piani con 45 € di credito dopo 2 cicli",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -346256,7 +346256,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "7,000円特典つきで自分の住所のプランを確認する",
+            "label": "2回支払い後7,000円クレジット付きで自分の住所のプランを確認",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -346467,7 +346467,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "30日間の返却保証つきで公式サイトを開く",
+            "label": "30日返却・7,000円クレジット（2回請求後）で公式サイトを開く",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -346504,8 +346504,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "公式サイトと同じ価格・30日間の返却保証のまま、日本向け「ホーム」や海外の100/200/Maxの最新条件を自分の住所で確認でき、新規契約で2か月継続後に日本では7,000円（米国ではUS$ 100）の紹介クレジットを受け取れます。",
-      "label": "紹介リンクでstarlink.comの住所・プランを確認する",
+      "text": "公式サイトと同じ価格・30日間の返却保証のまま、日本向け「ホーム」や海外の100/200/Maxの最新条件を自分の住所で確認でき、新規契約で2請求サイクル支払い後に日本では7,000円（米国ではUS$ 100）の請求クレジットを受け取れます。",
+      "label": "7,000円クレジット（2回後）付きで住所とプランを確認",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -346570,7 +346570,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "내 주소에서 100Mbps·맥스 요금제와 추천 보상 확인하기",
+            "label": "2주기 납부 후 청구서 추천 크레딧으로 100Mbps·맥스 확인",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -346781,7 +346781,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "30일 환불 조건으로 공식 주문 화면 열기",
+            "label": "30일 환불·2주기 후 청구서 추천 크레딧으로 공식 주문 열기",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -346819,7 +346819,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "공식 사이트와 동일한 요금 및 30일 환불 조건을 그대로 적용받으면서 내 주소의 100Mbps·맥스 조건을 확인하고, 첫 구독 2개월 유지 후 추천 크레딧(한국은 11월 기준 참고 금액 ₩65,000, 결제 전에 주문 화면에서 실제 금액을 확인하세요)을 받을 수 있습니다.",
-      "label": "추천 링크로 starlink.com에서 내 주소 확인하기",
+      "label": "2주기 후 청구서 추천 크레딧으로 내 주소 요금 확인",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -346884,7 +346884,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "以我的地址查看 Starlink 住宅方案與推薦獎勵",
+            "label": "以我的地址查看住宅方案（滿兩期帳單享推薦抵扣）",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -347095,7 +347095,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "前往 starlink.com 查詢地址並保留 30 天試用",
+            "label": "前往 starlink.com 查詢方案與滿兩期帳單推薦抵扣",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -347132,8 +347132,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "以官網完全相同的價格下單，保留 30 天完整退貨退款保障，並於使用滿兩個計費週期後獲得所在國家的推薦抵免（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額）。",
-      "label": "透過推薦連結在 starlink.com 查看我的地址方案",
+      "text": "以官網完全相同的價格下單，保留 30 天完整退貨退款保障，並於使用並付清兩個完整計費週期後獲得所在國家的帳單推薦抵免（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請在訂單頁面確認實際金額）。",
+      "label": "滿兩期帳單領推薦抵扣並查看地址方案",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -347198,7 +347198,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "输入我的地址查看 Starlink 家用套餐与推荐奖励",
+            "label": "输入我的地址查看家用套餐（满两期账单享推荐抵扣）",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -347409,7 +347409,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "前往 starlink.com 查询地址并保留 30 天试用",
+            "label": "前往 starlink.com 查询套餐与满两期账单推荐抵扣",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -347446,8 +347446,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "按官网完全相同的价格下单，保留 30 天退货退款保障，并在连续使用满两个计费周期后获得所在国家的推荐抵扣（美国为 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请在订单页面确认实际金额）。",
-      "label": "通过推荐链接在 starlink.com 查看我的地址套餐",
+      "text": "按官网完全相同的价格下单，保留 30 天退货退款保障，并在连续使用且缴清两个完整计费周期后获得所在国家的账单推荐抵扣（美国为 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请在订单页面确认实际金额）。",
+      "label": "满两期账单享推荐抵扣并查看地址套餐",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },
@@ -347512,7 +347512,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "افتح starlink.com وتحقق من باقات عنوانك ومكافأة الإحالة",
+            "label": "تحقق من باقات عنوانك مع رصيد الإحالة في الفاتورة بعد دورتين",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -347723,7 +347723,7 @@ export const reviewsData: unknown[] = [
         },
         "links": [
           {
-            "label": "افتح starlink.com الآن مع ضمان 30 يومًا للإرجاع",
+            "label": "افتح starlink.com مع ضمان 30 يومًا ورصيد الفاتورة بعد دورتين",
             "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
             "sponsored": true
           }
@@ -347760,8 +347760,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "تدفع السعر الرسمي نفسه على starlink.com مع فترة 30 يومًا للإرجاع الكامل، وتحصل بعد شهرين من الاشتراك على رصيد بلدك (في عُمان 15 ريالًا عُمانيًا (OMR 15) وفي قطر 160 ريالًا قطريًا (160 QAR) بوصفهما المبلغ المرجعي في نوفمبر، واعتمد المبلغ الذي يظهر في طلبك قبل الدفع).",
-      "label": "افتح starlink.com وتحقق من باقات عنوانك",
+      "text": "تدفع السعر الرسمي نفسه على starlink.com مع فترة 30 يومًا للإرجاع الكامل، وتحصل بعد سداد دورتي فوترة كاملتين على رصيد بلدك في الفاتورة (في عُمان 15 ريالًا عُمانيًا (OMR 15) وفي قطر 160 ريالًا قطريًا (160 QAR) بوصفهما المبلغ المرجعي في نوفمبر، واعتمد المبلغ الذي يظهر في طلبك قبل الدفع).",
+      "label": "تحقق من الباقات مع رصيد الإحالة في الفاتورة بعد دورتين",
       "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
       "sponsored": true
     },

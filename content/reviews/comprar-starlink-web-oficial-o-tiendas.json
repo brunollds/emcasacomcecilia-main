@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Ver mi dirección en starlink.com con crédito de referido",
+          "label": "Ver mi dirección con 45 € (ES) o bono en factura tras 2 ciclos",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -214,7 +214,7 @@
       },
       "links": [
         {
-          "label": "Abrir pedido oficial en starlink.com con referido",
+          "label": "Abrir pedido oficial con 45 € (ES) o bono tras 2 ciclos",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -275,8 +275,8 @@
     ]
   },
   "cta": {
-    "text": "Revisa planes, alquiler o compra de hardware y crédito disponible para tu dirección en starlink.com con nuestro enlace de referido, manteniendo los 30 días de prueba.",
-    "label": "Comprobar mi dirección en starlink.com",
+    "text": "Revisa planes, alquiler o compra de hardware y el bono en factura tras dos ciclos pagados en starlink.com (45 € en España; en México MX$ 700 como referencia de noviembre —confirma el importe en tu pantalla de pedido antes de pagar—), manteniendo los 30 días de prueba.",
+    "label": "Comprobar mi dirección con 45 € (ES) o bono tras 2 ciclos",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

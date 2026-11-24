@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "输入我的地址查看 Starlink 家用套餐与推荐奖励",
+          "label": "输入我的地址查看家用套餐（满两期账单享推荐抵扣）",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -253,7 +253,7 @@
       },
       "links": [
         {
-          "label": "前往 starlink.com 查询地址并保留 30 天试用",
+          "label": "前往 starlink.com 查询套餐与满两期账单推荐抵扣",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -290,8 +290,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "按官网完全相同的价格下单，保留 30 天退货退款保障，并在连续使用满两个计费周期后获得所在国家的推荐抵扣（美国为 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请在订单页面确认实际金额）。",
-    "label": "通过推荐链接在 starlink.com 查看我的地址套餐",
+    "text": "按官网完全相同的价格下单，保留 30 天退货退款保障，并在连续使用且缴清两个完整计费周期后获得所在国家的账单推荐抵扣（美国为 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请在订单页面确认实际金额）。",
+    "label": "满两期账单享推荐抵扣并查看地址套餐",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

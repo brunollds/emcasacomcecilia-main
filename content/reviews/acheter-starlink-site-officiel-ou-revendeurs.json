@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Vérifier mon adresse sur starlink.com avec 45 € de crédit",
+          "label": "Vérifier mon adresse avec 45 € sur facture après 2 cycles",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -214,7 +214,7 @@
       },
       "links": [
         {
-          "label": "Ouvrir la commande officielle sur starlink.com avec 45 €",
+          "label": "Ouvrir la commande officielle avec 45 € après 2 cycles",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -276,7 +276,7 @@
   },
   "cta": {
     "text": "Vérifiez la location à 0 € et les tarifs à votre adresse sur starlink.com via notre lien de parrainage, avec essai de 30 jours et 45 € de crédit après deux cycles payés.",
-    "label": "Voir mon adresse sur starlink.com",
+    "label": "Voir mon adresse avec 45 € de crédit après 2 cycles",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

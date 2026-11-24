@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Consultar planes disponibles en tu dirección",
+          "label": "Ver planes disponibles con 45 € (ES) o bono en factura tras 2 ciclos",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -250,7 +250,7 @@
       },
       "links": [
         {
-          "label": "Comprobar plan, antena y crédito en tu dirección",
+          "label": "Comprobar plan, antena y 45 € (ES) o bono tras 2 ciclos",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -276,8 +276,8 @@
     }
   ],
   "cta": {
-    "text": "Introduce tu dirección en el configurador oficial para ver qué planes abren en tu código postal, revisar antena y permanencia y asegurar el bono en factura tras dos ciclos pagados.",
-    "label": "Ver planes y crédito en tu dirección",
+    "text": "Introduce tu dirección en el configurador oficial para ver qué planes abren en tu código postal, revisar antena y permanencia y asegurar el bono en factura tras dos ciclos pagados (45 € en España; en México MX$ 700 de referencia en noviembre —confirma el importe en tu pantalla de pedido antes de pagar—).",
+    "label": "Ver planes con 45 € (ES) o bono tras 2 ciclos",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

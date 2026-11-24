@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Verifica quale kit compare al mio indirizzo su starlink.com",
+          "label": "Verifica il kit al tuo indirizzo con 45 € in fattura dopo 2 cicli",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -167,7 +167,7 @@
       "paragraphs": [
         "Quando l'antenna resta sul tetto dietro muri portanti o solai spessi, avere il router separato dentro casa garantisce una copertura molto più stabile rispetto al Wi-Fi integrato nella Mini.",
         "Regola pratica, senza nostro test diretto: sulla Mini, il segnale Wi-Fi 5 (fino a 112 m² e 128 dispositivi) parte dall'esterno e perde potenza attraversando tegole e pareti in muratura. Con lo Standard, il cavo da 15 m entra in salotto fino al Router 3 (fino a 297 m² e 235 dispositivi in Wi-Fi 6 tri-band). Se scegli la Mini in un'abitazione ampia, conviene affiancarle un Router Mini interno (fino a 204 m²) o una rete Mesh Starlink fino a 3 nodi, poiché i sistemi mesh di altri marchi non sono compatibili.",
-        "Per l'alimentazione di emergenza su gruppo di continuità (UPS) o stazione portatile, la Mini fa la differenza: assorbe in media da 25 a 40 W contro un consumo da 75 a 100 W dello Standard. Nostro calcolo dai dati ufficiali: sulla stessa batteria, la Mini sostiene la connessione per oltre il doppio del tempo e supporta inoltre ingressi da 12 a 48 V CC o USB-C PD da almeno 100 W (20 V/5 A) con il cavo ufficiale.",
+        "Per l'alimentazione di emergenza su gruppo di continuità (UPS) o stazione portatile, la Mini fa la differenza: assorbe in media da 25 a 40 W contro un consumo da 75 a 100 W dello Standard. Nostro calcolo dai dati ufficiali: la Mini assorbe meno energia e tende a durare di più sulla stessa batteria e supporta inoltre ingressi da 12 a 48 V CC o USB-C PD da almeno 100 W (20 V/5 A) con il cavo ufficiale.",
         "Sul fronte cablaggio Ethernet e router personali o Dual-WAN vanno ricordati tre aspetti tecnici. La Mini offre 1 porta Ethernet LAN con blocco (cavo Ethernet venduto a parte); inserire un comune RJ45 senza guarnizione annulla la protezione IP67 Tipo 4. Il Router 3 dello Standard mette già a disposizione 2 porte LAN al riparo dentro casa. Entrambe supportano la modalità Bypass per passare la connessione via cavo a un router o sistema proprio (sulla Mini l'uscita richiede il ripristino alle impostazioni di fabbrica) e il mesh ufficiale Starlink (compatibile con Router Mini, Router 3 e router di 2ª generazione fino a 3 nodi; incompatibile con mesh di terzi)."
       ],
       "image": {
@@ -255,7 +255,7 @@
       },
       "links": [
         {
-          "label": "Apri ordine ufficiale con prova 30 giorni e 45 €",
+          "label": "Apri ordine ufficiale con prova 30 giorni e 45 € dopo 2 cicli",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -290,7 +290,7 @@
       "bullets": [
         "Starlink Mini è più lenta rispetto allo Standard? Le velocità dipendono principalmente dal piano scelto (100 Mbps, 200 Mbps o Max) e dal traffico locale. La vera differenza tra i kit riguarda copertura Wi-Fi interna (112 m² Wi-Fi 5 vs 297 m² Wi-Fi 6) e consumi elettrici.",
         "La Starlink Mini basta in una casa grande senza un altro router? Il Wi-Fi 5 integrato arriva fino a 112 m² dall'antenna esterna e si attenua attraversando tetto e pareti spesse; in case grandi conviene aggiungere un Router Mini interno (fino a 204 m²) o nodi Mesh Starlink.",
-        "Quale kit consuma meno su un gruppo di continuità in caso di blackout? Starlink Mini assorbe in media 25–40 W (e supporta USB-C PD da almeno 100 W 20 V/5 A con cavo ufficiale), contro 75–100 W dello Standard, garantendo più del doppio di durata a parità di batteria.",
+        "Quale kit consuma meno su un gruppo di continuità in caso di blackout? Starlink Mini assorbe in media 25–40 W (e supporta USB-C PD da almeno 100 W 20 V/5 A con cavo ufficiale), contro 75–100 W dello Standard, consumando quindi meno e tendendo a durare di più a parità di batteria.",
         "Posso collegare il cavo Ethernet e attivare la modalità Bypass su entrambi? Sì. La Mini ha 1 porta Ethernet LAN con blocco (cavo Ethernet venduto a parte; un normale RJ45 rimuove la tenuta IP67) e il Router 3 dello Standard ne ha 2. Entrambe supportano il Bypass per collegare via cavo un router o sistema proprio (sulla Mini per uscire dal Bypass serve il reset di fabbrica) e il mesh ufficiale Starlink (compatibile con Router Mini, Router 3 e router di 2ª generazione fino a 3 nodi; incompatibile con mesh di terzi).",
         "Il credito invito da 45 € vale sia sulla Mini sia sullo Standard? Sì. Qualsiasi nuovo abbonamento residenziale ordinato direttamente su starlink.com dal link ufficiale riceve i 45 € in fattura dopo due cicli mensili pagati, indipendentemente dal kit del piano."
       ]
@@ -326,7 +326,7 @@
   ],
   "cta": {
     "text": "L'ordine si apre su starlink.com tramite il link ufficiale di invito, mostrando il kit assegnato al tuo indirizzo e mantenendo i 30 giorni per annullare e restituire il kit integro. I 45 € arrivano in fattura dopo due cicli pagati.",
-    "label": "Vedi quale kit compare al mio indirizzo su starlink.com",
+    "label": "Vedi kit al mio indirizzo con 45 € dopo 2 cicli",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

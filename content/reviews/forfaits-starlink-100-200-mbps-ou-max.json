@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Vérifier les forfaits disponibles à votre adresse",
+          "label": "Voir les forfaits à mon adresse avec 45 € sur facture après 2 cycles",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -238,7 +238,7 @@
       },
       "links": [
         {
-          "label": "Vérifier forfait, matériel et crédit à votre adresse",
+          "label": "Vérifier forfait, kit et 45 € sur facture après 2 cycles",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -265,7 +265,7 @@
   ],
   "cta": {
     "text": "Saisissez votre adresse sur le site officiel pour consulter les forfaits ouverts dans votre commune, vérifier le kit attribué et recevoir 45 € en facture après deux mois payés.",
-    "label": "Voir les forfaits et le bonus à votre adresse",
+    "label": "Voir les forfaits avec 45 € de crédit après 2 cycles",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

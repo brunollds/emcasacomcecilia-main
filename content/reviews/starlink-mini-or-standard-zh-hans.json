@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "通过推荐链接确认我的地址可选套件与奖励金额",
+          "label": "查看我的地址配发套件（满两期账单享推荐抵扣）",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -170,7 +170,7 @@
       "heading": "室内穿墙信号、UPS 功耗与 Bypass・Mesh 接线注意",
       "paragraphs": [
         "按实用规则整理（基于官方规格分析，非本站实测）：在砖墙或混凝土墙较多的住宅里，Starlink Mini 将 Wi-Fi 5 路由器集成在户外天线上，信号得先穿过外墙玻璃才能进入室内，官方标称的 112 m² 覆盖在隔墙后会进一步缩小。如果你家面积较大，要么通过网线把信号拉回室内自有路由器，要么搭配官方的 Router Mini（83.6 × 138 × 27 mm、重 112 g、限室内使用，支持 Wi-Fi 6 最高 204 m² 与 235 台设备，自带 2 个 1 Gbps RJ-45 接口）做无线或有线节点。",
-        "如果买 Starlink 主要是为了给不稳定光纤做备援，或考虑停电时接入 UPS・便携储能电源维持上网，Mini 的低功耗优势非常明显：25–40 W 的平均功耗大约只有 Standard（75–100 W）的一半，而且 Mini 能用官方线缆直接接入 12–48 V 直流或 100 W USB PD 电源，同样容量的电池能多撑一倍以上时间。",
+        "如果买 Starlink 主要是为了给不稳定光纤做备援，或考虑停电时接入 UPS・便携储能电源维持上网，Mini 的低功耗优势非常明显：25–40 W 的平均功耗大约只有 Standard（75–100 W）的一半，而且 Mini 能用官方线缆直接接入 12–48 V 直流或 100 W USB PD 电源，功耗更低，在同样容量的电池或 UPS 上往往能维持更长时间。",
         "需要有线连接 NAS、交换机或开启 Bypass 模式接入双 WAN 路由器的用户，还得留意接口细节：Mini 机身带 1 个锁紧式 Ethernet LAN 口，盒内不标配网线（专用网线需另购），若直接插普通 RJ45 水晶头会破坏机身的 IP67 防水密封；Standard V4 把两个 LAN 口做在室内的 Router 3 上，接网线省心得多。两款均支持 Bypass 模式以有线连接自备路由器或 Mesh（注意 Mini 退出 Bypass 须恢复出厂设置），官方 Mesh 最多支持 3 个 Starlink 节点（兼容 Router Mini、Router 3 与第 2 代路由器，不兼容第三方 Mesh）。各档套餐对比见[Starlink 100 Mbps、200 Mbps 与 Max 套餐对比](/zh-hans/reviews/starlink-plans-100-200-max-zh-hans)。"
       ],
       "image": {
@@ -257,7 +257,7 @@
       },
       "links": [
         {
-          "label": "输入我的地址查看套件模式与 30 天条款",
+          "label": "打开官网订购页享 30 天试用与满两期账单推荐抵扣",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -311,8 +311,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "通过推荐链接进入 starlink.com，价格与官网完全一致，并可在付款前看清你所在地址提供的是 Mini 还是 Standard、是否适用 30 天退回条款，以及实际显示的推荐金额（如美国 US$ 100，马来西亚 11 月参考金额 RM 180，付款前请核对订单页）。",
-    "label": "前往 starlink.com 查看我的地址与套件条件",
+    "text": "通过推荐链接进入 starlink.com，价格与官网完全一致，并可在付款前看清你所在地址提供的是 Mini 还是 Standard、是否适用 30 天退回条款，以及缴清两个计费周期后入账的账单推荐金额（如美国 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请核对订单页）。",
+    "label": "满两期账单享推荐抵扣并查看套件条件",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "通过推荐链接打开 starlink.com 订购页查看地址条件",
+          "label": "通过推荐链接查看地址条件（满两期账单享推荐抵扣）",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -211,7 +211,7 @@
       },
       "links": [
         {
-          "label": "前往 starlink.com 通过推荐链接查看地址方案",
+          "label": "打开官网订购页并锁定满两期账单推荐抵扣",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -246,8 +246,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "想避开非授权电商卖家的锁机风险，并保留官网 30 天退货保障与推荐奖励（马来西亚 11 月参考金额 RM 180，付款前请以订购页显示金额为准），请直接通过推荐链接在 starlink.com 查询地址。",
-    "label": "通过推荐链接打开 starlink.com 订购页",
+    "text": "想避开非授权电商卖家的锁机风险，并保留官网 30 天退货保障与缴清两个计费周期后入账的账单推荐奖励（美国为 US$ 100；马来西亚 11 月参考金额 RM 180，付款前请以订购页显示金额为准），请直接通过推荐链接在 starlink.com 查询地址。",
+    "label": "满两期账单享推荐抵扣并查看我的地址条件",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

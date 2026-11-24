@@ -37,11 +37,11 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Starlink Mini (Mini X nos pedidos) serve melhor quem quer instalação simples, baixo consumo em nobreak, portabilidade e, no plano de 100 Mbps no Brasil, ficar sem fidelidade. A Padrão (Standard V4) ganha em alcance Wi-Fi e portas de rede. Ambas liberam o bônus pelo link oficial; veja onde cada kit aparece no pedido abaixo."
+        "A Starlink Mini (Mini X nos pedidos) serve melhor quem quer instalação simples, baixo consumo em nobreak, portabilidade e, no plano de 100 Mbps no Brasil, ficar sem fidelidade. A Padrão (Standard V4) ganha em alcance Wi-Fi e portas de rede. Ambas liberam o crédito na fatura após dois ciclos pagos pelo link oficial; confira abaixo."
       ],
       "links": [
         {
-          "label": "Conferir qual kit aparece no meu endereço em starlink.com",
+          "label": "Conferir kit no meu CEP com R$ 200 na fatura após 2 ciclos (45 € PT)",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -172,7 +172,7 @@
       "paragraphs": [
         "Se a antena ficar longe dos quartos ou atrás de laje e paredes de alvenaria, o roteador separado da Padrão resolve melhor direto da caixa do que o Wi-Fi embutido na Mini.",
         "Regra prática, sem teste nosso: quando o roteador fica dentro da antena (caso da Mini no telhado ou na varanda), a cobertura declarada de até 112 m² perde força ao atravessar telhas, concreto e paredes até o outro lado da casa. Na Padrão, o Router 3 entra por um cabo de 15 metros até a sala e entrega até 297 m² em Wi-Fi 6 tri-band para até 235 dispositivos. Na Mini, a saída limpa para casa grande é somar um Router Mini interno (até 204 m², R$ 290 no pedido brasileiro) ou montar mesh Starlink com até 3 nós, já que os kits não funcionam com sistemas mesh de terceiros.",
-        "Para backup de energia em nobreak ou estação portátil, a Mini leva vantagem clara: o consumo médio de 25 a 40 W é menos da metade dos 75 a 100 W da Padrão. Conta nossa, pelos números oficiais de consumo: numa mesma bateria de nobreak, a Mini sustenta a internet ativa por mais do dobro do tempo e ainda aceita alimentação USB-C PD de no mínimo 100 W (20 V/5 A) com o cabo oficial ou entrada CC de 12 a 48 V.",
+        "Para backup de energia em nobreak ou estação portátil, a Mini leva vantagem clara: a Mini consome menos (25 a 40 W contra 75 a 100 W da Padrão). Conta nossa, pelos números oficiais de consumo: a Mini consome menos e tende a durar mais na mesma bateria de nobreak e ainda aceita alimentação USB-C PD de no mínimo 100 W (20 V/5 A) com o cabo oficial ou entrada CC de 12 a 48 V.",
         "Na rede cabeada e no uso com roteador próprio ou Dual-WAN, repare em três detalhes práticos antes de passar o cabo. A Mini traz 1 porta Ethernet LAN com travamento (cabo Ethernet vendido à parte); se você plugar um RJ45 comum sem o cabo vedado oficial, a antena perde a vedação IP67 Tipo 4 contra chuva e poeira. O Router 3 da Padrão já traz duas portas Ethernet LAN protegidas dentro de casa. Ambas aceitam Modo Bypass para passar a conexão a um roteador ou sistema próprio via cabo, mas na Mini sair do Bypass exige redefinição de fábrica. Para expandir sem mesh de terceiros (incompatível), a Mini aceita mesh oficial Starlink com Router Mini, Router 3 e Router 2ª geração em até 3 nós."
       ],
       "image": {
@@ -194,46 +194,46 @@
         "title": "Simulador: quanto você paga no pedido e quando entra o bônus",
         "scenarios": [
           {
-            "label": "Mini X no 100 Mbps (BR, sem fidelidade)",
+            "label": "Alto Paraíso (BR): Mini X no 100 Mbps ou Max pelo link",
             "lines": [
               {
-                "label": "Kit Mini X no pedido oficial",
-                "value": "R$ 299 à vista (sem contrato de 12 meses)"
+                "label": "Kit Mini X hoje no pedido",
+                "value": "R$ 299 (100 Mbps, sem 12m) ou R$ 49 (Max, 12m)"
               },
               {
-                "label": "Mensalidade exibida (Alto Paraíso, GO)",
-                "value": "R$ 132,30/mês (cheio R$ 189)"
+                "label": "Mensalidade na ativação",
+                "value": "R$ 132,30/mês (100 Mbps) ou R$ 174,30/mês (Max)"
               },
               {
                 "label": "Crédito de indicação pelo link",
-                "value": "R$ 200 na fatura após 2 ciclos",
+                "value": "R$ 200 na fatura após 2 ciclos pagos",
                 "highlight": true
               }
             ],
-            "totalLabel": "Pago no pedido hoje",
-            "totalValue": "R$ 299 hoje; R$ 200 entram em fatura após 2 ciclos",
-            "note": "Valores lidos no pedido de Alto Paraíso de Goiás; o bônus não reduz o preço do kit no checkout."
+            "totalLabel": "Pago hoje no pedido",
+            "totalValue": "R$ 299 (100 Mbps) ou R$ 49 (Max)",
+            "note": "Na consulta de Alto Paraíso (GO), os dois planos entregam o Mini X; a fidelidade de 12 meses vale apenas no Max subsidiado."
           },
           {
-            "label": "Standard 4 ou Max pelo link oficial",
+            "label": "Standard 4 X (pré-venda SP) ou Standard 4 (PT) pelo link",
             "lines": [
               {
-                "label": "Kit no pedido (Max BR / 200 e Max PT)",
-                "value": "R$ 49 (12m BR) ou aluguer 0 € (PT)"
+                "label": "Kit Standard hoje no pedido",
+                "value": "Depósito R$ 275 de R$ 2.400 (SP) ou 0 € (PT)"
               },
               {
-                "label": "Mensalidade exibida (Max BR / 200 PT)",
-                "value": "R$ 174,30/mês (BR) ou 31,50 €/mês (PT)"
+                "label": "Mensalidade na ativação",
+                "value": "R$ 189–249/mês (SP) ou 31,50–45,50 €/mês (PT)"
               },
               {
                 "label": "Crédito de indicação pelo link",
-                "value": "R$ 200 (BR) ou 45 € (PT) após 2 ciclos",
+                "value": "R$ 200 (BR) ou 45 € (PT) após 2 ciclos pagos",
                 "highlight": true
               }
             ],
-            "totalLabel": "Pago no pedido hoje",
-            "totalValue": "R$ 49 (BR) ou 20 € de envio (PT); bônus após 2 ciclos",
-            "note": "No Max do Brasil há contrato de 12 meses; em Portugal o kit alugado volta ao cancelar."
+            "totalLabel": "Pago hoje no pedido",
+            "totalValue": "R$ 275 reserva (SP) ou 20 € envio (PT)",
+            "note": "Na Av. Paulista (SP) o Standard 4 X abriu em pré-venda sem 12 meses; em Lisboa o Standard 4 sai em aluguer a 0 € no 200 Mbps e no Max."
           },
           {
             "label": "Kit comprado fora de starlink.com",
@@ -260,7 +260,7 @@
       },
       "links": [
         {
-          "label": "Abrir pedido oficial com 30 dias de teste e bônus",
+          "label": "Abrir pedido oficial com 30 dias e R$ 200 após 2 ciclos (45 € PT)",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -295,7 +295,7 @@
       "bullets": [
         "A Starlink Mini é mais lenta que a Padrão? Os planos residenciais anunciam a faixa de velocidade por plano (100 Mbps, 200 Mbps ou Max), não só pelo tamanho da antena, tanto que no Brasil o Mini X aparece tanto no 100 Mbps quanto no Max. O que muda mais entre elas é o alcance do Wi-Fi (112 m² Wi-Fi 5 na Mini contra 297 m² Wi-Fi 6 na Padrão) e o consumo elétrico.",
         "A Starlink Mini funciona em casa grande sem outro roteador? Em casas maiores que 112 m² ou com paredes grossas entre a antena externa e os quartos, o sinal integrado pode perder força. Nesse caso, vale adicionar o Router Mini interno (até 204 m²) ou ligar outro roteador compatível.",
-        "Qual gasta menos energia no nobreak durante quedas de luz? A Starlink Mini consome em média de 25 a 40 W (e aceita USB-C PD de pelo menos 100 W com cabo oficial), enquanto a Starlink Padrão consome de 75 a 100 W. Na prática, a Mini dura mais do que o dobro do tempo na mesma bateria.",
+        "Qual gasta menos energia no nobreak durante quedas de luz? A Starlink Mini consome em média de 25 a 40 W (e aceita USB-C PD de pelo menos 100 W com cabo oficial), enquanto a Starlink Padrão consome de 75 a 100 W. Na prática, a Mini consome menos e tende a durar mais na mesma bateria.",
         "Posso ligar cabo Ethernet e roteador próprio nas duas? Sim. A Mini tem 1 porta Ethernet LAN com travamento (cabo Ethernet vendido à parte; usar RJ45 comum remove a proteção IP67), e o Router 3 da Padrão traz duas portas LAN. Ambas aceitam Modo Bypass para usar roteador próprio via cabo (na Mini, sair do Bypass exige redefinição de fábrica) e suportam o mesh oficial Starlink (compatível com Router Mini, Router 3 e Router 2ª geração, até 3 nós; incompatível com mesh de terceiros).",
         "O link de indicação vale tanto na Starlink Mini quanto na Padrão? Sim. O crédito de R$ 200 no Brasil (45 € em Portugal) vale para assinaturas residenciais pedidas direto em starlink.com pelo link oficial, independente do kit exibido no seu endereço, e entra na fatura após dois ciclos mensais pagos."
       ]
@@ -331,7 +331,7 @@
   ],
   "cta": {
     "text": "O pedido abre em starlink.com pelo link oficial de indicação, mostrando qual kit vale no seu CEP e mantendo os 30 dias para cancelar e devolver sem danos. O bônus de R$ 200 no Brasil (45 € em Portugal) entra na fatura após dois ciclos pagos.",
-    "label": "Ver qual kit aparece no meu CEP em starlink.com",
+    "label": "Ver kit no meu CEP com R$ 200 após 2 ciclos (45 € PT)",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

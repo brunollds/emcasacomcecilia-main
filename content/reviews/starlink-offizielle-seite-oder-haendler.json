@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Adresse auf starlink.com mit 45 € Empfehlung prüfen",
+          "label": "Adresse mit 45 € Gutschrift nach 2 Zyklen auf starlink.com prüfen",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -214,7 +214,7 @@
       },
       "links": [
         {
-          "label": "Bestellung auf starlink.com mit 45 € Empfehlung öffnen",
+          "label": "Bestellung mit 45 € Rechnungsgutschrift nach 2 Zyklen öffnen",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -276,7 +276,7 @@
   },
   "cta": {
     "text": "Prüfen Sie 0-€-Miete, Tarifpreise und Verfügbarkeit für Ihre Adresse direkt auf starlink.com über den Empfehlungslink mit 30-Tage-Rückgabe und 45 € Gutschrift nach zwei Zyklen.",
-    "label": "Adresse auf starlink.com prüfen",
+    "label": "Adresse mit 45 € Gutschrift nach 2 Zyklen prüfen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

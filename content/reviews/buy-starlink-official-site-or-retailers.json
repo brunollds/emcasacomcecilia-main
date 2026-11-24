@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Check my address on starlink.com with $100 / £40 credit",
+          "label": "Check my address with $100 / £40 bill credit after 2 cycles",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -214,7 +214,7 @@
       },
       "links": [
         {
-          "label": "Open starlink.com order with $100 / £40 referral credit",
+          "label": "Open starlink.com order with $100 / £40 credit after 2 cycles",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -276,7 +276,7 @@
   },
   "cta": {
     "text": "Check plans, $0 hardware rental and availability at your address on starlink.com via our referral link, with 30-day return terms and $100 US (£40 UK) credit after two paid cycles.",
-    "label": "Check my address on starlink.com",
+    "label": "Check my address with $100 / £40 credit after 2 cycles",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

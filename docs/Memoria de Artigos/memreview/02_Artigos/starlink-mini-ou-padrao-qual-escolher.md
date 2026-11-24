@@ -8,11 +8,12 @@ parceiro_slug: "starlink"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Comparativo"
-status: "briefing-pronto"
-responsavel: "Job-1"
-proxima_acao: "redação (Job 2) após leitura no dia das fichas técnicas oficiais (starlink.com/specifications) -> Job 6 (capas 11 idiomas + 3 fotos no corpo) -> Job 4"
-bloqueado_por: "-"
+status: "pronto-para-publicacao"
+responsavel: "Job-5"
+proxima_acao: "merge do PR #1407 e deploy após GO explícito do Bruno"
+bloqueado_por: "aguardando aprovação final e GO de deploy do Bruno"
 data_criacao: "2026-11-23"
+atualizado: "2026-11-24"
 pauta_id: "SL8"
 i18n_cluster: "starlink-ondas"
 translationKey: "starlink-mini-ou-padrao"
@@ -130,3 +131,14 @@ coupon: null
 | Dimensões, peso, consumo em W, Wi-Fi, portas LAN e proteção IP de Mini vs Standard | A loja informa: | `starlink.com/specifications` | ler no dia |
 | Tanto Mini quanto Standard são elegíveis ao bônus de indicação em planos Residencial ou Viagem | A loja informa: | Central de ajuda + planos elegíveis | verificado |
 | Regra do `Router Mini` adicional (`R$ 290` BR / `$0` no `Max` EUA) | Conta nossa: | Checkouts BR e EUA, 23/11 | verificado |
+
+---
+
+## Registro de Execução e Revisão Final (Jobs 2 a 6 — 2026-11-24)
+
+- **Escopo entregue (PR `#1407`):** 11 idiomas publicados localmente (`IDs 1420..1430`), autoria exclusiva de **Bruno Luiz**, 11 capas dedicadas no CDN (`cdn.emcasacomcecilia.com`) e 3 imagens oficiais no corpo em cada versão.
+- **O que entrou na redação e nos ajustes pós-revisão (`Jobs 2–3–5`):**
+  - Separação dos cenários no simulador de `pt` entre **Alto Paraíso (BR)** (`Mini X` a `R$ 299` no `100 Mbps` sem 12m ou `R$ 49` no `Max` com 12m) e **Av. Paulista / Portugal** (`Standard 4 X` na pré-venda de SP com depósito de `R$ 275` de `R$ 2.400`, e `Standard 4` em aluguer a `0 €` em Lisboa).
+  - Substituição da promessa de autonomia em bateria/nobreak ("mais do que o dobro") nos idiomas afetados por redação conservadora apoiada nas fichas (`25–40 W` vs `75–100 W`: *"consome menos e tende a durar mais na mesma bateria"*).
+  - Atualização dos botões (`B1`, `B2` e `cta.label`) em todos os 11 idiomas usando o `SL7` como referência, com valor local oficial onde aplicável e a explicação de que o crédito entra na fatura após dois ciclos pagos.
+- **O que fica pendente:** revisão final e GO explícito do Bruno para merge do PR `#1407` e posterior deploy.

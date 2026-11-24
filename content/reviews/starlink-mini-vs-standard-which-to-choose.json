@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Check which kit your address gets on starlink.com",
+          "label": "Check my address kit with $100 / £40 bill credit after 2 cycles",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -173,7 +173,7 @@
       "paragraphs": [
         "When the dish sits outside behind concrete or brick walls, bringing a separate Wi-Fi 6 router indoors beats relying solely on a dish-integrated radio.",
         "Practical rule, untested by us: the Mini's built-in Wi-Fi 5 is rated up to 112 m² and 128 devices, so roof tiles and thick interior walls reduce indoor signal speed in multi-room homes. Standard solves that by running a 15 m cable indoors to the Router 3 (up to 297 m² and 235 devices on tri-band Wi-Fi 6). That is also why current US and UK 100 Mbps orders pair the compact dish with an indoor Router Mini (up to 204 m² and 235 devices), and both kits support Starlink mesh up to 3 nodes (third-party mesh systems are not supported).",
-        "For backup power on a UPS or portable power station, the Mini has a decisive advantage: 25 to 40 W average consumption is less than half the 75 to 100 W drawn by Standard. Our math from the official power ratings: on the same battery capacity, the Mini keeps your internet running over twice as long, and it can run from 12 to 48 V DC or USB-C PD (at least 100 W 20 V/5 A using the official cable).",
+        "For backup power on a UPS or portable power station, the Mini has a decisive advantage: it averages 25 to 40 W versus 75 to 100 W on Standard. Based on those official power ratings, the Mini consumes less power and tends to last noticeably longer on the same battery capacity, and it can run from 12 to 48 V DC or USB-C PD (at least 100 W 20 V/5 A using the official cable).",
         "If you plan to run Ethernet cables or a Dual-WAN failover router, check the ports before wiring. The Mini has 1 locking Ethernet LAN port and the Ethernet cable is sold separately; using a regular unsealed RJ45 plug voids its IP67 Type 4 weather seal. Standard's indoor Router 3 gives you two protected LAN ports. Both support Bypass mode to pass the connection over Ethernet to your own router or mesh system, though exiting Bypass on the Mini requires a factory reset. For official Starlink mesh (compatible with Router Mini, Router 3, and Gen 2 routers up to 3 nodes; incompatible with third-party mesh), both kits stay within the Starlink ecosystem."
       ],
       "image": {
@@ -261,7 +261,7 @@
       },
       "links": [
         {
-          "label": "Open official order with 30-day return window and referral",
+          "label": "Open official order with 30-day return & $100 / £40 credit after 2 cycles",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -286,17 +286,17 @@
     {
       "heading": "Verdict: Starlink Mini or Standard?",
       "paragraphs": [
-        "For power backup on a UPS or solar station, compact roof or balcony installs, or entry-level 100 Mbps service, the Starlink Mini is the most efficient choice. Its 25 to 40 W power draw doubles battery runtime compared to Standard, and US and UK 100 Mbps rental bundles already pair it with an indoor Router Mini to lift Wi-Fi 6 coverage up to 204 m².",
+        "For power backup on a UPS or solar station, compact roof or balcony installs, or entry-level 100 Mbps service, the Starlink Mini is the most efficient choice. Its lower 25 to 40 W power draw consumes less energy and tends to last noticeably longer on a UPS or battery than Standard (75 to 100 W), and US and UK 100 Mbps rental bundles already pair it with an indoor Router Mini to lift Wi-Fi 6 coverage up to 204 m².",
         "For larger homes with thick walls, heavy multi-device households, or anyone who wants tri-band Wi-Fi 6 up to 297 m² and dual Ethernet ports right out of the box, Starlink Standard (V4 + Router 3) is built for full-home coverage. In both cases, cancelling the service and returning the undamaged kit within 30 days is covered under the order terms if real-world testing falls short."
       ],
-      "emphasis": "For UPS battery backup and lightweight mounting, Starlink Mini uses less than half the power; for large-home Wi-Fi 6 coverage and wired ports straight out of the box, Standard with Router 3 is the stronger indoor setup."
+      "emphasis": "For UPS battery backup and lightweight mounting, Starlink Mini draws substantially less power (25 to 40 W vs 75 to 100 W) and tends to last longer on battery; for large-home Wi-Fi 6 coverage and wired ports straight out of the box, Standard with Router 3 is the stronger indoor setup."
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
         "Is Starlink Mini slower than Standard? Residential speeds are governed mainly by the plan tier you subscribe to (100 Mbps, 200 Mbps or Max) and local capacity. The main hardware gap is indoor Wi-Fi coverage (112 m² Wi-Fi 5 built-in vs 297 m² Wi-Fi 6 tri-band on Router 3) and power draw.",
         "Can Starlink Mini cover a large house without another router? By itself, the dish's integrated Wi-Fi 5 reaches up to 112 m² and loses strength through roofs and thick walls. US and UK 100 Mbps rental kits include a Router Mini indoors (up to 204 m²), and you can add up to 3 Starlink mesh nodes.",
-        "Which kit uses less power on a UPS or backup battery? Starlink Mini averages 25 to 40 W (and supports 100 W 20 V/5 A USB-C PD with the official cable), whereas Standard averages 75 to 100 W. On the same battery, the Mini runs more than twice as long.",
+        "Which kit uses less power on a UPS or backup battery? Starlink Mini averages 25 to 40 W (and supports 100 W 20 V/5 A USB-C PD with the official cable), whereas Standard averages 75 to 100 W. With lower draw, the Mini consumes less power and tends to last longer on the same battery.",
         "Can I connect an Ethernet cable and use Bypass mode on both? Yes. Mini has 1 locking Ethernet LAN port (Ethernet cable sold separately; a regular RJ45 cable voids IP67) and Router 3 has 2 locking LAN ports. Both support Bypass mode to pass the connection over Ethernet to your own router or mesh (exiting Bypass on Mini requires a factory reset) and official Starlink mesh (compatible with Router Mini, Router 3, and Gen 2 routers up to 3 nodes; incompatible with third-party mesh).",
         "Does the referral credit work on both Starlink Mini and Standard? Yes. Ordering either kit directly on starlink.com via the referral link applies the US$ 100 (US) or £40 (UK) bill credit after two paid monthly cycles."
       ]
@@ -332,7 +332,7 @@
   ],
   "cta": {
     "text": "The order opens on starlink.com via the referral link, showing the exact kit at your address and keeping the 30-day window to cancel and return undamaged hardware. The US$ 100 (US) or £40 (UK) credit lands after two paid cycles.",
-    "label": "See which kit my address gets on starlink.com",
+    "label": "See my address kit with $100 / £40 credit after 2 cycles",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

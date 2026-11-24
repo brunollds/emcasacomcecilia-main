@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Verifica il tuo indirizzo su starlink.com con 45 € di credito",
+          "label": "Verifica il tuo indirizzo con 45 € in fattura dopo 2 cicli",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -214,7 +214,7 @@
       },
       "links": [
         {
-          "label": "Apri l'ordine ufficiale su starlink.com con 45 € di credito",
+          "label": "Apri l'ordine ufficiale con 45 € in fattura dopo 2 cicli",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -276,7 +276,7 @@
   },
   "cta": {
     "text": "Controlla noleggio a 0 €, prezzi e copertura al tuo indirizzo su starlink.com dal nostro link d'invito, con 30 giorni di prova e 45 € di credito dopo due cicli pagati.",
-    "label": "Verifica il tuo indirizzo su starlink.com",
+    "label": "Verifica indirizzo con 45 € di credito dopo 2 cicli",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "추천 링크로 starlink.com 공식 주문 화면 열기",
+          "label": "2주기 납부 후 청구서 추천 크레딧으로 starlink.com 주문 확인",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -211,7 +211,7 @@
       },
       "links": [
         {
-          "label": "starlink.com에서 내 주소 요금·추천 혜택 확인하기",
+          "label": "2주기 후 청구서 추천 크레딧 포함 내 주소 조건 확인하기",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -246,8 +246,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "한국 유일 공인 판매처는 이마트뿐입니다. 배송을 기다릴 수 있다면 추천 링크로 starlink.com에서 주문해 추천 크레딧(11월 기준 참고 금액 ₩65,000 — 결제 전에 주문 화면에서 실제 금액을 확인하세요)과 30일 반납 조건을 확인하세요.",
-    "label": "starlink.com에서 내 주소 주문 화면 보기",
+    "text": "한국 유일 공인 판매처는 이마트뿐입니다. 배송을 기다릴 수 있다면 추천 링크로 starlink.com에서 주문해 2회 결제 주기 완료 후 지급되는 청구서 추천 크레딧(11월 기준 참고 금액 ₩65,000 — 결제 전에 주문 화면에서 실제 금액을 확인하세요)과 30일 반납 조건을 확인하세요.",
+    "label": "2주기 납부 후 청구서 추천 크레딧으로 starlink.com 열기",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "透過推薦連結確認我的地址可選套件與獎勵金額",
+          "label": "查看我的地址配發套件（滿兩期帳單享推薦抵扣）",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -257,7 +257,7 @@
       },
       "links": [
         {
-          "label": "用我的地址開啟官網訂購頁並確認 30 天條款",
+          "label": "開啟官網訂購頁享 30 天試用與滿兩期帳單推薦抵扣",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -311,8 +311,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "透過推薦連結進入 starlink.com，價格與官網完全相同，並能在下單前看清你的地址配發 Mini 還是 Standard、是否享有 30 天退還退款條款，以及實際發放的推薦抵扣（例如美國 US$ 100，馬來西亞 11 月參考金額 RM 180，付款前請確認訂購頁顯示）。",
-    "label": "到 starlink.com 查看我的地址與套件條件",
+    "text": "透過推薦連結進入 starlink.com，價格與官網完全相同，並能在下單前看清你的地址配發 Mini 還是 Standard、是否享有 30 天退還退款條款，以及付清兩個計費週期後發放的帳單推薦抵扣（美國為 US$ 100；馬來西亞 11 月參考金額 RM 180，付款前請確認訂購頁顯示）。",
+    "label": "滿兩期帳單領推薦抵扣並查看套件條件",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

@@ -37,11 +37,11 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para a maioria dos novos assinantes, pedir direto em starlink.com pelo link de indicação compensa mais do que comprar no Mercado Livre, Amazon, Magalu ou loja física. Só o site oficial libera o crédito de indicação na fatura, traz aluguel gratuito em mercados elegíveis ou oferta por endereço e unifica a devolução em 30 dias."
+        "Para a maioria dos novos assinantes, pedir direto em starlink.com pelo link de indicação compensa mais do que comprar no Mercado Livre, Amazon, Magalu ou loja física. Só o site oficial libera o crédito de indicação na fatura após dois ciclos pagos, traz aluguel gratuito em mercados elegíveis ou oferta por endereço e unifica a devolução em 30 dias."
       ],
       "links": [
         {
-          "label": "Conferir preço no meu CEP com R$ 200 de crédito (45 € em PT)",
+          "label": "Conferir preço no meu CEP com R$ 200 na fatura após 2 ciclos (45 € PT)",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -213,7 +213,7 @@
       },
       "links": [
         {
-          "label": "Abrir pedido oficial em starlink.com com o bônus",
+          "label": "Abrir pedido oficial com R$ 200 na fatura após 2 ciclos (45 € PT)",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -275,7 +275,7 @@
   },
   "cta": {
     "text": "Confira plano, hardware e disponibilidade no seu CEP direto em starlink.com pelo link de indicação, mantendo 30 dias para devolver e R$ 200 de crédito no Brasil (45 € em Portugal) após dois ciclos pagos.",
-    "label": "Ver meu endereço em starlink.com",
+    "label": "Ver meu CEP com R$ 200 na fatura após 2 ciclos (45 € PT)",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   }

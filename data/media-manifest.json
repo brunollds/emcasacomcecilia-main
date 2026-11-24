@@ -203960,7 +203960,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/acheter-starlink-site-officiel-ou-revendeurs.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -203974,6 +203975,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 338466,
           "column": 15,
+          "literal": "/images/reviews/starlink/acheter-starlink-site-officiel-ou-revendeurs-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3599,
+          "column": 4,
           "literal": "/images/reviews/starlink/acheter-starlink-site-officiel-ou-revendeurs-capa.webp",
           "authority": "generated"
         }
@@ -204726,7 +204734,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/buy-starlink-official-site-or-retailers.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -204740,6 +204749,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 337900,
           "column": 15,
+          "literal": "/images/reviews/starlink/buy-starlink-official-site-or-retailers-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3600,
+          "column": 4,
           "literal": "/images/reviews/starlink/buy-starlink-official-site-or-retailers-capa.webp",
           "authority": "generated"
         }
@@ -204772,7 +204788,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/comprar-starlink-web-oficial-o-tiendas.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -204786,6 +204803,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 338183,
           "column": 15,
+          "literal": "/images/reviews/starlink/comprar-starlink-web-oficial-o-tiendas-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3601,
+          "column": 4,
           "literal": "/images/reviews/starlink/comprar-starlink-web-oficial-o-tiendas-capa.webp",
           "authority": "generated"
         }
@@ -204818,7 +204842,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/comprare-starlink-sito-ufficiale-o-negozi.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -204832,6 +204857,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 339032,
           "column": 15,
+          "literal": "/images/reviews/starlink/comprare-starlink-sito-ufficiale-o-negozi-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3602,
+          "column": 4,
           "literal": "/images/reviews/starlink/comprare-starlink-sito-ufficiale-o-negozi-capa.webp",
           "authority": "generated"
         }
@@ -204864,7 +204896,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/forfaits-starlink-100-200-mbps-ou-max.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -204878,6 +204911,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 345347,
           "column": 15,
+          "literal": "/images/reviews/starlink/forfaits-starlink-100-200-mbps-ou-max-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3603,
+          "column": 4,
           "literal": "/images/reviews/starlink/forfaits-starlink-100-200-mbps-ou-max-capa.webp",
           "authority": "generated"
         }
@@ -205074,6 +205114,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa-v2.webp",
+      "local_url": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa-v2.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45044,
+      "sha256": "d5c19854e6c1fa984a0a2718715582b98612508e13c7a29e23753769fc3acf49",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "piani-starlink-100-200-mbps-o-max-capa-v2.webp",
+      "storage_filename": "piani-starlink-100-200-mbps-o-max-capa-v2.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/piani-starlink-100-200-mbps-o-max.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/piani-starlink-100-200-mbps-o-max.json",
+          "line": 33,
+          "column": 13,
+          "literal": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa-v2.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/d5c19854e6c1fa984a0a2718715582b98612508e13c7a29e23753769fc3acf49/piani-starlink-100-200-mbps-o-max-capa-v2.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d5c19854e6c1fa984a0a2718715582b98612508e13c7a29e23753769fc3acf49/piani-starlink-100-200-mbps-o-max-capa-v2.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-24T05:55:08.820Z",
+      "verification_etag_or_digest": "d5c19854e6c1fa984a0a2718715582b98612508e13c7a29e23753769fc3acf49",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa.webp",
       "local_url": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa.webp",
       "media_kind": "image",
@@ -205093,21 +205171,21 @@
       "reference_status": "referenced",
       "draft_owners": [],
       "owners": [
-        "content/reviews/piani-starlink-100-200-mbps-o-max.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
-        {
-          "file": "content/reviews/piani-starlink-100-200-mbps-o-max.json",
-          "line": 33,
-          "column": 13,
-          "literal": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa.webp",
-          "authority": "source"
-        },
         {
           "file": "src/lib/generated/content-index.ts",
           "line": 345947,
           "column": 15,
+          "literal": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3604,
+          "column": 4,
           "literal": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa.webp",
           "authority": "generated"
         }
@@ -205140,7 +205218,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/planes-starlink-100-200-mbps-o-max.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -205154,6 +205233,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 345035,
           "column": 15,
+          "literal": "/images/reviews/starlink/planes-starlink-100-200-mbps-o-max-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3605,
+          "column": 4,
           "literal": "/images/reviews/starlink/planes-starlink-100-200-mbps-o-max-capa.webp",
           "authority": "generated"
         }
@@ -205186,7 +205272,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/planos-starlink-100-200-mbps-ou-max.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -205200,6 +205287,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 344397,
           "column": 15,
+          "literal": "/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3606,
+          "column": 4,
           "literal": "/images/reviews/starlink/planos-starlink-100-200-mbps-ou-max-capa.webp",
           "authority": "generated"
         }
@@ -207536,7 +207630,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-buy-official-or-retail-ar.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -207550,6 +207645,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 340435,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-buy-official-or-retail-ar-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3607,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-buy-official-or-retail-ar-capa.webp",
           "authority": "generated"
         }
@@ -207582,7 +207684,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-buy-official-or-retail-ja.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -207596,6 +207699,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 339315,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-buy-official-or-retail-ja-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3608,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-buy-official-or-retail-ja-capa.webp",
           "authority": "generated"
         }
@@ -207628,7 +207738,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-buy-official-or-retail-ko.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -207642,6 +207753,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 339595,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-buy-official-or-retail-ko-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3609,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-buy-official-or-retail-ko-capa.webp",
           "authority": "generated"
         }
@@ -207674,7 +207792,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-buy-official-or-retail-zh-hans.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -207688,6 +207807,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 340155,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-buy-official-or-retail-zh-hans-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3610,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-buy-official-or-retail-zh-hans-capa.webp",
           "authority": "generated"
         }
@@ -207720,7 +207846,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-buy-official-or-retail-zh-hant.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -207734,6 +207861,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 339875,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-buy-official-or-retail-zh-hant-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3611,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-buy-official-or-retail-zh-hant-capa.webp",
           "authority": "generated"
         }
@@ -211821,7 +211955,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-mini-o-estandar-cual-elegir.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -211835,6 +211970,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 341392,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-mini-o-estandar-cual-elegir-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3612,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-mini-o-estandar-cual-elegir-capa.webp",
           "authority": "generated"
         }
@@ -211867,7 +212009,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-mini-o-standard-quale-scegliere.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -211881,6 +212024,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 342397,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-mini-o-standard-quale-scegliere-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3613,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-mini-o-standard-quale-scegliere-capa.webp",
           "authority": "generated"
         }
@@ -211913,7 +212063,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-mini-oder-standard-vergleich.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -211927,6 +212078,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 342064,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-mini-oder-standard-vergleich-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3614,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-mini-oder-standard-vergleich-capa.webp",
           "authority": "generated"
         }
@@ -211959,7 +212117,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-mini-or-standard-ar.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -211973,6 +212132,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 344069,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-mini-or-standard-ar-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3615,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-mini-or-standard-ar-capa.webp",
           "authority": "generated"
         }
@@ -212005,7 +212171,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-mini-or-standard-ja.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -212019,6 +212186,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 342730,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-mini-or-standard-ja-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3616,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-mini-or-standard-ja-capa.webp",
           "authority": "generated"
         }
@@ -212051,7 +212225,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-mini-or-standard-ko.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -212065,6 +212240,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 343064,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-mini-or-standard-ko-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3617,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-mini-or-standard-ko-capa.webp",
           "authority": "generated"
         }
@@ -212097,7 +212279,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-mini-or-standard-zh-hans.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -212111,6 +212294,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 343734,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-mini-or-standard-zh-hans-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3618,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-mini-or-standard-zh-hans-capa.webp",
           "authority": "generated"
         }
@@ -212143,7 +212333,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-mini-or-standard-zh-hant.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -212157,6 +212348,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 343399,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-mini-or-standard-zh-hant-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3619,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-mini-or-standard-zh-hant-capa.webp",
           "authority": "generated"
         }
@@ -212189,7 +212387,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-mini-ou-padrao-qual-escolher.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -212203,6 +212402,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 340714,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3620,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-mini-ou-padrao-qual-escolher-capa.webp",
           "authority": "generated"
         }
@@ -212235,7 +212441,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-mini-ou-standard-quel-kit-choisir.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -212249,6 +212456,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 341731,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-mini-ou-standard-quel-kit-choisir-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3621,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-mini-ou-standard-quel-kit-choisir-capa.webp",
           "authority": "generated"
         }
@@ -212281,7 +212495,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-mini-vs-standard-which-to-choose.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -212295,6 +212510,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 341053,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-mini-vs-standard-which-to-choose-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3622,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-mini-vs-standard-which-to-choose-capa.webp",
           "authority": "generated"
         }
@@ -212819,7 +213041,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-offizielle-seite-oder-haendler.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -212833,6 +213056,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 338749,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-offizielle-seite-oder-haendler-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3623,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-offizielle-seite-oder-haendler-capa.webp",
           "authority": "generated"
         }
@@ -213523,7 +213753,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-plans-100-200-max-ar.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -213537,6 +213768,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 347503,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-plans-100-200-max-ar-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3624,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-plans-100-200-max-ar-capa.webp",
           "authority": "generated"
         }
@@ -213569,7 +213807,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-plans-100-200-max-ja.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -213583,6 +213822,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 346247,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-plans-100-200-max-ja-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3625,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-plans-100-200-max-ja-capa.webp",
           "authority": "generated"
         }
@@ -213615,7 +213861,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-plans-100-200-max-ko.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -213629,6 +213876,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 346561,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-plans-100-200-max-ko-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3626,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-plans-100-200-max-ko-capa.webp",
           "authority": "generated"
         }
@@ -213661,7 +213915,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-plans-100-200-max-zh-hans.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -213675,6 +213930,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 347189,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-plans-100-200-max-zh-hans-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3627,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-plans-100-200-max-zh-hans-capa.webp",
           "authority": "generated"
         }
@@ -213707,7 +213969,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-plans-100-200-max-zh-hant.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -213721,6 +213984,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 346875,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-plans-100-200-max-zh-hant-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3628,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-plans-100-200-max-zh-hant-capa.webp",
           "authority": "generated"
         }
@@ -214051,7 +214321,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-residential-100-200-mbps-or-max.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -214065,6 +214336,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 344716,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-residential-100-200-mbps-or-max-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3629,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-residential-100-200-mbps-or-max-capa.webp",
           "authority": "generated"
         }
@@ -214097,7 +214375,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-site-oficial-ou-mercado-livre-varejo.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -214111,6 +214390,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 337617,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3630,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-site-oficial-ou-mercado-livre-varejo-capa.webp",
           "authority": "generated"
         }
@@ -214143,7 +214429,8 @@
       "draft_owners": [],
       "owners": [
         "content/reviews/starlink-tarife-100-200-mbits-oder-max.json",
-        "src/lib/generated/content-index.ts"
+        "src/lib/generated/content-index.ts",
+        "src/lib/generated/media-delivery-map.json"
       ],
       "references": [
         {
@@ -214157,6 +214444,13 @@
           "file": "src/lib/generated/content-index.ts",
           "line": 345647,
           "column": 15,
+          "literal": "/images/reviews/starlink/starlink-tarife-100-200-mbits-oder-max-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/media-delivery-map.json",
+          "line": 3631,
+          "column": 4,
           "literal": "/images/reviews/starlink/starlink-tarife-100-200-mbits-oder-max-capa.webp",
           "authority": "generated"
         }

@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Verfügbare Tarife an Ihrer Adresse prüfen",
+          "label": "Tarife an meiner Adresse mit 45 € Gutschrift nach 2 Zyklen prüfen",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -238,7 +238,7 @@
       },
       "links": [
         {
-          "label": "Tarif, Mietkit und Bonus für Ihre Adresse prüfen",
+          "label": "Tarif, Mietkit und 45 € Gutschrift nach 2 Zyklen prüfen",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -265,7 +265,7 @@
   ],
   "cta": {
     "text": "Geben Sie Ihre Straße direkt auf starlink.com ein, prüfen Sie Mietkit, 3-Monats-Rabatt sowie Folgepreis und sichern Sie sich 45 € Rechnungsguthaben nach zwei bezahlten Zyklen.",
-    "label": "Tarife und Bonus an Ihrer Adresse prüfen",
+    "label": "Tarife mit 45 € Rechnungsgutschrift nach 2 Zyklen prüfen",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

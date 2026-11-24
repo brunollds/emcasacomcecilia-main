@@ -30,7 +30,7 @@
   "updatedAt": "2026-11-24",
   "draft": false,
   "isNew": false,
-  "image": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa.webp",
+  "image": "/images/reviews/starlink/piani-starlink-100-200-mbps-o-max-capa-v2.webp",
   "imageAlt": "Copertina comparativa con pannello nero con STARLINK e il titolo 100, 200 Mbps o Max? accanto a un'antenna Starlink montata sul tetto in legno contro il cielo azzurro.",
   "imageFit": "contain",
   "imageAspect": "landscape",
@@ -42,7 +42,7 @@
       ],
       "links": [
         {
-          "label": "Verifica i piani disponibili al tuo indirizzo",
+          "label": "Verifica i piani disponibili con 45 € in fattura dopo 2 cicli",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -238,7 +238,7 @@
       },
       "links": [
         {
-          "label": "Verifica piano, kit e bonus al tuo indirizzo",
+          "label": "Verifica piano, kit e 45 € in fattura dopo 2 cicli",
           "href": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
           "sponsored": true
         }
@@ -265,7 +265,7 @@
   ],
   "cta": {
     "text": "Inserisci il tuo indirizzo sul sito ufficiale per verificare tariffe per 3 mesi e a regime, modello di antenna assegnato e credito di 45 € in fattura dopo due cicli pagati.",
-    "label": "Controlla piani e credito al tuo indirizzo",
+    "label": "Controlla piani con 45 € di credito dopo 2 cicli",
     "url": "https://starlink.com/?referral=RC-DF-17132118-63432-88",
     "sponsored": true
   },

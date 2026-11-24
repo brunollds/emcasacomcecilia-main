@@ -8,11 +8,12 @@ parceiro_slug: "starlink"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "briefing-pronto"
-responsavel: "Job-1"
-proxima_acao: "redação (Job 2) após leitura no dia da lista oficial de varejistas e regra de transferência de kit -> Job 6 (capas 11 idiomas + 3 fotos no corpo) -> Job 4"
-bloqueado_por: "-"
+status: "pronto-para-publicacao"
+responsavel: "Job-5"
+proxima_acao: "merge do PR #1407 e deploy após GO explícito do Bruno"
+bloqueado_por: "aguardando aprovação final e GO de deploy do Bruno"
 data_criacao: "2026-11-23"
+atualizado: "2026-11-24"
 pauta_id: "SL7"
 i18n_cluster: "starlink-ondas"
 translationKey: "starlink-onde-comprar"
@@ -140,3 +141,13 @@ coupon: null
 | Devolução do hardware adquirido em varejista segue regra do varejista | A loja informa: | Central de ajuda | ler no dia |
 | Aluguel gratuito (`0 €`/`$0`/`£0`/`¥0`) ou kit `Mini X` por endereço aparece apenas em `starlink.com` | Conta nossa: | Auditoria 13 mercados, 23/11 | verificado |
 | R$ 200 no Brasil (45 € PT/ES/FR/DE/IT, US$ 100 US, £ 40 UK, 7.000円 JP) após 2 ciclos | Conta nossa: / Bruno | Conta / prints, 20–23/11 | verificado |
+
+---
+
+## Registro de Execução e Revisão Final (Jobs 2 a 6 — 2026-11-24)
+
+- **Escopo entregue (PR `#1407`):** 11 idiomas publicados localmente (`IDs 1409..1419`), autoria exclusiva de **Bruno Luiz**, 11 capas dedicadas no CDN (`cdn.emcasacomcecilia.com`) e 3 imagens oficiais no corpo em cada versão.
+- **O que entrou na redação e revisão (`Jobs 2–3–5`):**
+  - Comparação estrutural sem preços de varejo/marketplaces de terceiros, destacando apenas a lista oficial de varejistas autorizados (`8a90222d...`) em cada mercado e as regras de bloqueio/transferência de hardware usado (90/120 dias).
+  - Ajuste pós-revisão nos botões (`B1`, `B2` e `cta.label`) em todos os 11 idiomas para reforçar a razão de clique, o valor local onde há referência oficial (`R$ 200` / `45 €`, `US$ 100` / `£40`, `45 €` ES, `7,000円` JP) e que o crédito entra na fatura após dois ciclos mensais pagos (mantendo `Resposta rápida` sem `R$`/`preço` e cifras regionais não oficiais restritas ao corpo/notas com aviso para confirmar no pedido).
+- **O que fica pendente:** revisão final e GO explícito do Bruno para merge do PR `#1407` e posterior deploy (`deploy:prepare` / `deploy:finish`).

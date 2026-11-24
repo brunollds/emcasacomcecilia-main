@@ -8,11 +8,12 @@ parceiro_slug: "starlink"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Escolha"
-status: "briefing-pronto"
-responsavel: "Job-1"
-proxima_acao: "redação (Job 2) após leitura no dia das faixas oficiais de download/upload em DOC-1414-37800-64 por plano e regra de upgrade/downgrade -> Job 6 (capas 11 idiomas + 3 fotos no corpo) -> Job 4"
-bloqueado_por: "-"
+status: "pronto-para-publicacao"
+responsavel: "Job-5"
+proxima_acao: "merge do PR #1407 e deploy após GO explícito do Bruno"
+bloqueado_por: "aguardando aprovação final e GO de deploy do Bruno"
 data_criacao: "2026-11-23"
+atualizado: "2026-11-24"
 pauta_id: "SL9"
 i18n_cluster: "starlink-ondas"
 translationKey: "starlink-planos-residenciais"
@@ -128,3 +129,14 @@ coupon: null
 | Faixas exatas de download/upload publicadas por categoria de plano | A loja informa: | `DOC-1414-37800-64` | reler no dia |
 | Mudança de plano pode cancelar desconto promocional e regras de upgrade/downgrade | A loja informa: | Termos promo / Central de ajuda | reler no dia |
 | Todos os planos Residencial (`Lite`, `100`, `200`, `Max`) elegíveis ao bônus de indicação (`R$ 200` BR / `45 €` / `US$ 100` / `£ 40` / `7.000円`) | A loja informa: / Conta nossa: | Central de ajuda (`eee7e99e...`) + conta | verificado |
+
+---
+
+## Registro de Execução e Revisão Final (Jobs 2 a 6 — 2026-11-24)
+
+- **Escopo entregue (PR `#1407`):** 11 idiomas publicados localmente (`IDs 1431..1441`), autoria exclusiva de **Bruno Luiz**, 11 capas dedicadas no CDN (incluindo a versão corrigida da capa italiana `piani-starlink-100-200-mbps-o-max-capa-v2.webp`) e 3 imagens oficiais no corpo em cada versão.
+- **O que entrou na redação e nos ajustes pós-revisão (`Jobs 2–3–5–6`):**
+  - Simulador ajustado para separar o pago hoje no pedido da primeira mensalidade recorrente (na ativação ou 7 dias após entrega) e do crédito futuro após dois ciclos pagos.
+  - Atualização dos botões (`B1`, `B2` e `cta.label`) e `cta.text` em todos os 11 idiomas seguindo o padrão do `SL7`, com valor local oficial onde aplicável (`R$ 200` / `45 €` em PT, `US$ 100` / `£40` em EN, `45 €` em ES/FR/DE/IT, `7,000円` em JA) e explicação de que o crédito entra na fatura após dois ciclos pagos.
+  - Re-renderização determinística via `sharp` da capa italiana `piani-starlink-100-200-mbps-o-max-capa-v2.webp` para eliminar o retângulo azul no canto inferior direito, com upload FTPS e verificação no mapa de entrega (`phase5-export`).
+- **O que fica pendente:** revisão final e GO explícito do Bruno para merge do PR `#1407` e posterior deploy.
