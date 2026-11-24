@@ -3,6 +3,11 @@ import { getAllActiveCouponSlugs, getCouponBySlug, getPendingLimitedCodes } from
 import { buildAnswer, buildStoreAnswer } from '@/lib/dica/answer';
 import { getCatalog, getVocabulary, normalize } from '@/lib/dica/catalog';
 import { interpretQuestion } from '@/lib/dica/interpret';
+import { cacheGet, cacheSet, checkVisitor, resetDicaLimitsForTests, takeAiSlot } from '@/lib/dica/limits';
+import { logQuestion, resetQuestionLogForTests, scrubPersonalData } from '@/lib/dica/questionLog';
+import { existsSync, mkdtempSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import path from 'node:path';
 import { matchLocal, matchStoreName } from '@/lib/dica/match';
 
 // Catálogo leve: só parceiras de cupom ativas, sem as cinco que o Bruno deixou de fora e sem preço.
@@ -145,6 +150,68 @@ async function main() {
   const hang = ((_url: string, init?: RequestInit) =>
     new Promise((_resolve, reject) => init?.signal?.addEventListener('abort', () => reject(new Error('abort'))))) as unknown as typeof fetch;
   assert.equal(await interpretQuestion('x', { apiKey: 'teste', fetchImpl: hang, timeoutMs: 50 }), null);
+
+  // Limites por IP: 1 a cada 3 s, 8 em 5 min, 25 no dia.
+  resetDicaLimitsForTests();
+  const t0 = Date.parse('2026-11-24T10:00:00-03:00');
+  assert.equal(checkVisitor('1.1.1.1', t0).ok, true);
+  assert.equal(checkVisitor('1.1.1.1', t0 + 1000).ok, false, '2ª pergunta em 1 s');
+  assert.equal(checkVisitor('2.2.2.2', t0 + 1000).ok, true, 'outro IP não divide o limite');
+  for (let i = 1; i < 8; i += 1) assert.equal(checkVisitor('1.1.1.1', t0 + i * 4000).ok, true, `pergunta ${i + 1} em 5 min`);
+  assert.equal(checkVisitor('1.1.1.1', t0 + 8 * 4000).ok, false, '9ª pergunta em 5 min');
+  resetDicaLimitsForTests();
+  for (let i = 0; i < 25; i += 1) assert.equal(checkVisitor('3.3.3.3', t0 + i * 60_000).ok, true, `pergunta ${i + 1} do dia`);
+  assert.equal(checkVisitor('3.3.3.3', t0 + 25 * 60_000).ok, false, '26ª pergunta do dia');
+  assert.equal(checkVisitor('3.3.3.3', Date.parse('2026-11-25T00:05:00-03:00')).ok, true, 'o dia vira em Brasília');
+
+  // Teto diário da IA.
+  resetDicaLimitsForTests();
+  for (let i = 0; i < 1500; i += 1) assert.equal(takeAiSlot(t0), true);
+  assert.equal(takeAiSlot(t0), false, '1501ª chamada à IA');
+  assert.equal(takeAiSlot(Date.parse('2026-11-25T00:01:00-03:00')), true, 'o teto volta no dia seguinte');
+
+  // Cache: 60 min, 500 entradas, só a interpretação.
+  resetDicaLimitsForTests();
+  const sample = { terms: ['whey protein'], searchTerm: 'whey', outOfScope: false, viaFallback: false };
+  cacheSet('tem whey', sample, t0);
+  assert.deepEqual(cacheGet('tem whey', t0 + 59 * 60_000), sample);
+  assert.equal(cacheGet('tem whey', t0 + 61 * 60_000), undefined, 'cache depois de 60 min');
+  for (let i = 0; i <= 500; i += 1) cacheSet(`q${i}`, sample, t0);
+  assert.equal(cacheGet('q0', t0), undefined, 'a entrada mais antiga sai');
+  assert.ok(cacheGet('q500', t0));
+  resetDicaLimitsForTests();
+
+  // Dado pessoal fora do log.
+  assert.equal(
+    scrubPersonalData('meu cpf 123.456.789-00 e (11) 98765-4321, a@b.com, tem whey?'),
+    'meu cpf [removido] e [removido], [removido], tem whey?',
+  );
+  assert.equal(scrubPersonalData('tem whey de 900g? 12 meses'), 'tem whey de 900g? 12 meses');
+  const logDir = mkdtempSync(path.join(tmpdir(), 'dica-log-'));
+  try {
+    resetQuestionLogForTests();
+    writeFileSync(path.join(logDir, 'dica-2026-08-24.jsonl'), '{}\n');
+    writeFileSync(path.join(logDir, 'dica-2026-10-01.jsonl'), '{}\n');
+    const at = new Date('2026-11-24T13:00:00Z');
+    await logQuestion({ question: 'tem whey? 11 98765-4321', result: 'parceiros', slugs: ['adaptogen'], searchTerm: 'whey a@b.com' }, { dir: logDir, now: at });
+    const lines = readFileSync(path.join(logDir, 'dica-2026-11-24.jsonl'), 'utf8').trim().split('\n');
+    assert.equal(lines.length, 1);
+    const entry = JSON.parse(lines[0]);
+    assert.deepEqual(Object.keys(entry).sort(), ['at', 'q', 'result', 'searchTerm', 'slugs']);
+    assert.equal(entry.q, 'tem whey? [removido]');
+    assert.equal(entry.searchTerm, 'whey [removido]');
+    assert.ok(!existsSync(path.join(logDir, 'dica-2026-08-24.jsonl')), 'arquivo de 92 dias atrás ficou');
+    assert.ok(existsSync(path.join(logDir, 'dica-2026-10-01.jsonl')), 'arquivo de 54 dias atrás sumiu');
+    const emptyDir = mkdtempSync(path.join(tmpdir(), 'dica-vazio-'));
+    const previous = process.env.DICA_LOG_DIR;
+    delete process.env.DICA_LOG_DIR;
+    await logQuestion({ question: 'x', result: 'dicas', slugs: [] });
+    if (previous !== undefined) process.env.DICA_LOG_DIR = previous;
+    assert.deepEqual(readdirSync(emptyDir), [], 'gravou sem DICA_LOG_DIR');
+    rmSync(emptyDir, { recursive: true, force: true });
+  } finally {
+    rmSync(logDir, { recursive: true, force: true });
+  }
 
   console.log(`✅ dica: ${catalog.length} lojas no catálogo, ${vocabulary.size} termos no vocabulário.`);
 }
